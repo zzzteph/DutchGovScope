@@ -12,7 +12,7 @@
 |[https://adfs.vallei-veluwe.nl](https://adfs.vallei-veluwe.nl)| || |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS||
 |[https://nc-openbaar.vallei-veluwe.nl](https://nc-openbaar.vallei-veluwe.nl)| |-| | | | | | :white_check_mark: |HSTS Microsoft ASP.NET:-|Document Moved|
 |[https://werkplek.vallei-veluwe.nl](https://werkplek.vallei-veluwe.nl)| ||:warning: |:white_check_mark: | | :white_check_mark: | | :white_check_mark: |F5 BigIP HSTS||
-|[http://autodiscover.vallei-veluwe.nl](http://autodiscover.vallei-veluwe.nl)| |Microsoft-IIS/10...| |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |IIS:10.0 Microsoft ASP.NET Windows Server||
+|[http://autodiscover.vallei-veluwe.nl](http://autodiscover.vallei-veluwe.nl)| |Microsoft-IIS/10.0| |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |IIS:10.0 Microsoft ASP.NET Windows Server||
 |[https://vallei-veluwe.nl](https://vallei-veluwe.nl)| |-| |:white_check_mark: | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Microsoft ASP.NET:-|Object moved|
 |[https://planonprod.vallei-veluwe.nl](https://planonprod.vallei-veluwe.nl)| || |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS||
 |[https://tmx.vallei-veluwe.nl](https://tmx.vallei-veluwe.nl)| ||:warning: |:white_check_mark: | | :white_check_mark: | | :white_check_mark: |F5 BigIP HSTS||

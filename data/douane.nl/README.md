@@ -13,7 +13,7 @@
 |[https://exchangeratetest.douane.nl](https://exchangeratetest.douane.nl)| ||:warning: |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS IBM DataPower||
 |[http://mobiel.douane.nl](http://mobiel.douane.nl)| ||:white_check_mark: |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |||
 |[https://nh.douane.nl](https://nh.douane.nl)| $${\color{green}A+}$$ ||:white_check_mark: |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS MySQL PHP WordPress Yoast SEO Premium:21.6 Yoast SEO:21.6|Home | Nationale...|
-|[https://reizigers.douane.nl](https://reizigers.douane.nl)| |Microsoft-HTTPAP...| | | | | | :white_check_mark: |Microsoft HTTPAPI:2.0|Not Found|
+|[https://reizigers.douane.nl](https://reizigers.douane.nl)| |Microsoft-HTTPAPI/2.0| | | | | | :white_check_mark: |Microsoft HTTPAPI:2.0|Not Found|
 |[https://tarief.douane.nl](https://tarief.douane.nl)| $${\color{green}A+}$$ |BigIP|:white_check_mark: |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |F5 BigIP||
 |[https://validationcalculation.douane.nl](https://validationcalculation.douane.nl)| $${\color{green}A+}$$ || |:white_check_mark: | | :white_check_mark: | | :white_check_mark: |HSTS IBM DataPower||
 |[https://validationcalculationtest.douane.nl](https://validationcalculationtest.douane.nl)| || |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS IBM DataPower||

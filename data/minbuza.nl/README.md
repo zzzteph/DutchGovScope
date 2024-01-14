@@ -21,5 +21,5 @@
 |[https://tst.ecer.minbuza.nl](https://tst.ecer.minbuza.nl)| |Apache| | | | | | :white_check_mark: |Apache HTTP Server|403 Forbidden|
 |[https://webmeeting.minbuza.nl](https://webmeeting.minbuza.nl)| |nginx|:white_check_mark: |:white_check_mark: |:warning: | :white_check_mark: | | :white_check_mark: |HSTS Nginx|Cisco Meeting Se...|
 |[https://wifiportal.minbuza.nl](https://wifiportal.minbuza.nl)| |cloudflare| | | | | | :white_check_mark: |Cloudflare|403 Forbidden|
-|[https://www.minbuza.nl](https://www.minbuza.nl)| |Microsoft-IIS/10...| |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Azure HSTS IIS:10.0 Microsoft ASP.NET Windows Server|Document Moved|
-|[https://minbuza.nl](https://minbuza.nl)| |Microsoft-IIS/10...| |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Azure HSTS IIS:10.0 Microsoft ASP.NET Windows Server|Document Moved|
+|[https://www.minbuza.nl](https://www.minbuza.nl)| |Microsoft-IIS/10.0| |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Azure HSTS IIS:10.0 Microsoft ASP.NET Windows Server|Document Moved|
+|[https://minbuza.nl](https://minbuza.nl)| |Microsoft-IIS/10.0| |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Azure HSTS IIS:10.0 Microsoft ASP.NET Windows Server|Document Moved|

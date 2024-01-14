@@ -175,7 +175,7 @@
 |[https://sjabloon2.pleio.nl](https://sjabloon2.pleio.nl)| || |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS|Domeinnaam nog n...|
 |[https://sjabloon3.pleio.nl](https://sjabloon3.pleio.nl)| || |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS|Domeinnaam nog n...|
 |[https://sjabloon4.pleio.nl](https://sjabloon4.pleio.nl)| || |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS|Domeinnaam nog n...|
-|[https://stats.pleio.nl](https://stats.pleio.nl)| |nginx/1.18.0 (Ub...|:white_check_mark: | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |AngularJS Matomo Analytics Nginx:1.18.0 Ubuntu|Sign in - Matomo|
+|[https://stats.pleio.nl](https://stats.pleio.nl)| |nginx/1.18.0 (Ubuntu)|:white_check_mark: | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |AngularJS Matomo Analytics Nginx:1.18.0 Ubuntu|Sign in - Matomo|
 |[https://status.pleio.nl](https://status.pleio.nl)| |AtlassianEdge| |:white_check_mark: | | | :white_check_mark: | :white_check_mark: |Amazon CloudFront Amazon Web Services Atlassian Statuspage HSTS|Pleio Status|
 |[https://statuspage-bridge.pleio.nl](https://statuspage-bridge.pleio.nl)| || |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS|404 Not Found|
 |[https://structuurvisiezh.pleio.nl](https://structuurvisiezh.pleio.nl)| || |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS|Domeinnaam nog n...|

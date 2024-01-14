@@ -14,8 +14,8 @@
 |[https://plasticvrijewadden.waddenzee.nl](https://plasticvrijewadden.waddenzee.nl)| |-| |:white_check_mark: | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Microsoft ASP.NET:-|Home - plasticvr...|
 |[https://www.waddenzee.nl](https://www.waddenzee.nl)| |-| |:white_check_mark: | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Microsoft ASP.NET:-|Home - Waddenzee|
 |[https://waddenzee.nl](https://waddenzee.nl)| |-| |:white_check_mark: | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Microsoft ASP.NET:-|Object moved|
-|[http://test.waddenzee.nl](http://test.waddenzee.nl)| |Microsoft-HTTPAP...| | | | | | :white_check_mark: |Microsoft HTTPAPI:2.0|Not Found|
-|[http://bmw9520.waddenzee.nl](http://bmw9520.waddenzee.nl)| |Microsoft-HTTPAP...| | | | | | :white_check_mark: |Microsoft HTTPAPI:2.0|Not Found|
-|[http://wadzee9520.waddenzee.nl](http://wadzee9520.waddenzee.nl)| |Microsoft-HTTPAP...| | | | | | :white_check_mark: |Microsoft HTTPAPI:2.0|Not Found|
-|[http://gebiedagen2.waddenzee.nl](http://gebiedagen2.waddenzee.nl)| |Microsoft-HTTPAP...| | | | | | :white_check_mark: |Microsoft HTTPAPI:2.0|Not Found|
+|[http://test.waddenzee.nl](http://test.waddenzee.nl)| |Microsoft-HTTPAPI/2.0| | | | | | :white_check_mark: |Microsoft HTTPAPI:2.0|Not Found|
+|[http://bmw9520.waddenzee.nl](http://bmw9520.waddenzee.nl)| |Microsoft-HTTPAPI/2.0| | | | | | :white_check_mark: |Microsoft HTTPAPI:2.0|Not Found|
+|[http://wadzee9520.waddenzee.nl](http://wadzee9520.waddenzee.nl)| |Microsoft-HTTPAPI/2.0| | | | | | :white_check_mark: |Microsoft HTTPAPI:2.0|Not Found|
+|[http://gebiedagen2.waddenzee.nl](http://gebiedagen2.waddenzee.nl)| |Microsoft-HTTPAPI/2.0| | | | | | :white_check_mark: |Microsoft HTTPAPI:2.0|Not Found|
 |[https://datahuiswadden.waddenzee.nl](https://datahuiswadden.waddenzee.nl)| |-| |:white_check_mark: | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Microsoft ASP.NET:-|Home - datahuisw...|

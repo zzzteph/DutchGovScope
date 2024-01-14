@@ -26,11 +26,11 @@
 |[https://verkeer.acc.loket.om.nl](https://verkeer.acc.loket.om.nl)| |Apache|:white_check_mark: |:white_check_mark: | :white_check_mark:| :white_check_mark: | | :white_check_mark: |Apache HTTP Server HSTS|301 Moved Perman...|
 |[https://fcvpn.om.nl](https://fcvpn.om.nl)| || |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Microsoft ASP.NET||
 |[https://strafdossiermh17.om.nl](https://strafdossiermh17.om.nl)| |nginx/1.25.1| | | | | | :white_check_mark: |HSTS Nginx:1.25.1|Strafdossier MH1...|
-|[https://dialin.om.nl](https://dialin.om.nl)| |Microsoft-IIS/10...| | | | | | :white_check_mark: |HSTS IIS:10.0 Windows Server|Conferencing Dia...|
+|[https://dialin.om.nl](https://dialin.om.nl)| |Microsoft-IIS/10.0| | | | | | :white_check_mark: |HSTS IIS:10.0 Windows Server|Conferencing Dia...|
 |[https://lyncdiscover.om.nl](https://lyncdiscover.om.nl)| || | | | | | :white_check_mark: |||
 |[https://meet.om.nl](https://meet.om.nl)| || | | | | | :white_check_mark: |HSTS|Skype for Busine...|
 |[https://sip.om.nl](https://sip.om.nl)| |RTC/6.0| |:white_check_mark: | | | | :white_check_mark: |HSTS||
-|[https://webservices.om.nl](https://webservices.om.nl)| |Microsoft-IIS/10...| | | | | | :white_check_mark: |HSTS IIS:10.0 Windows Server||
+|[https://webservices.om.nl](https://webservices.om.nl)| |Microsoft-IIS/10.0| | | | | | :white_check_mark: |HSTS IIS:10.0 Windows Server||
 |[https://telewerken.om.nl](https://telewerken.om.nl)| ||:warning: |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |Microsoft ASP.NET||
 |[https://mdm.om.nl](https://mdm.om.nl)| ||:white_check_mark: |:white_check_mark: | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: |||
 |[https://mms-gw.om.nl](https://mms-gw.om.nl)| || |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Microsoft ASP.NET||

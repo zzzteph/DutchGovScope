@@ -9,6 +9,6 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://www.gdi.nl](https://www.gdi.nl)| $${\color{green}A+}$$ |Microsoft-IIS/10...| |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS IIS:10.0 Windows Server|Document Moved|
+|[https://www.gdi.nl](https://www.gdi.nl)| $${\color{green}A+}$$ |Microsoft-IIS/10.0| |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS IIS:10.0 Windows Server|Document Moved|
 |[https://test.webplatform.gdi.nl](https://test.webplatform.gdi.nl)| || | | | | | :white_check_mark: |||
-|[https://gdi.nl](https://gdi.nl)| $${\color{green}A+}$$ |Microsoft-IIS/10...| |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS IIS:10.0 Windows Server|Document Moved|
+|[https://gdi.nl](https://gdi.nl)| $${\color{green}A+}$$ |Microsoft-IIS/10.0| |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS IIS:10.0 Windows Server|Document Moved|

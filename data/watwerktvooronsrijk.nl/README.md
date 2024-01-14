@@ -9,5 +9,5 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://www.watwerktvooronsrijk.nl](https://www.watwerktvooronsrijk.nl)| |Apache/2.4.58 (U...| |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Apache HTTP Server:2.4.58 HSTS Ubuntu||
-|[https://watwerktvooronsrijk.nl](https://watwerktvooronsrijk.nl)| |Apache/2.4.58 (U...| |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Apache HTTP Server:2.4.58 HSTS MySQL PHP Ubuntu WordPress:6.3.2 Yoast SEO:21.6|Wat werkt voor o...|
+|[https://www.watwerktvooronsrijk.nl](https://www.watwerktvooronsrijk.nl)| |Apache/2.4.58 (Ubuntu)| |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Apache HTTP Server:2.4.58 HSTS Ubuntu||
+|[https://watwerktvooronsrijk.nl](https://watwerktvooronsrijk.nl)| |Apache/2.4.58 (Ubuntu)| |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Apache HTTP Server:2.4.58 HSTS MySQL PHP Ubuntu WordPress:6.3.2 Yoast SEO:21.6|Wat werkt voor o...|

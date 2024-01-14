@@ -19,8 +19,8 @@
 |[https://auth.hogeraad.nl](https://auth.hogeraad.nl)| || | | | | | :white_check_mark: |||
 |[https://postbus.hogeraad.nl](https://postbus.hogeraad.nl)| || | |:warning: | :white_check_mark: | | :white_check_mark: |HSTS Microsoft ASP.NET||
 |[https://apps.hogeraad.nl](https://apps.hogeraad.nl)| || |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |||
-|[https://www-acc.hogeraad.nl](https://www-acc.hogeraad.nl)| |Microsoft-IIS/10...|:white_check_mark: |:white_check_mark: | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS IIS:10.0 Microsoft ASP.NET Windows Server|Home - Hoge Raad|
-|[https://www.hogeraad.nl](https://www.hogeraad.nl)| |Microsoft-IIS/10...|:white_check_mark: |:white_check_mark: | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS IIS:10.0 Microsoft ASP.NET Windows Server|Home - Hoge Raad|
+|[https://www-acc.hogeraad.nl](https://www-acc.hogeraad.nl)| |Microsoft-IIS/10.0|:white_check_mark: |:white_check_mark: | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS IIS:10.0 Microsoft ASP.NET Windows Server|Home - Hoge Raad|
+|[https://www.hogeraad.nl](https://www.hogeraad.nl)| |Microsoft-IIS/10.0|:white_check_mark: |:white_check_mark: | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS IIS:10.0 Microsoft ASP.NET Windows Server|Home - Hoge Raad|
 |[https://siam-acc.hogeraad.nl](https://siam-acc.hogeraad.nl)| |N.A.| |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Bootstrap HSTS|Hoge Raad der Ne...|
 |[https://sts.hogeraad.nl](https://sts.hogeraad.nl)| ||:o: | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Basic||
 |[http://autodiscover.hogeraad.nl](http://autodiscover.hogeraad.nl)| || | | | | | :white_check_mark: |||

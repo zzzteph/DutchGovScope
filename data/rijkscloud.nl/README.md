@@ -12,7 +12,7 @@
 |[https://analytics.feni.ienw.rijkscloud.nl](https://analytics.feni.ienw.rijkscloud.nl)| |gunicorn|:warning: |:white_check_mark: | | :white_check_mark: | | :white_check_mark: |HSTS Python gunicorn||
 |[https://analytics.ienw.rijkscloud.nl](https://analytics.ienw.rijkscloud.nl)| |gunicorn|:warning: |:white_check_mark: | | :white_check_mark: | | :white_check_mark: |HSTS Python gunicorn||
 |[https://api.cursus.rijkscloud.nl](https://api.cursus.rijkscloud.nl)| || | | | | | :white_check_mark: |||
-|[https://api.dbe-t.rvb.rijkscloud.nl](https://api.dbe-t.rvb.rijkscloud.nl)| |Microsoft-IIS/10...| |:white_check_mark: | | | | :white_check_mark: |HSTS IIS:10.0 Microsoft ASP.NET Windows Server|403 - Forbidden:...|
+|[https://api.dbe-t.rvb.rijkscloud.nl](https://api.dbe-t.rvb.rijkscloud.nl)| |Microsoft-IIS/10.0| |:white_check_mark: | | | | :white_check_mark: |HSTS IIS:10.0 Microsoft ASP.NET Windows Server|403 - Forbidden:...|
 |[https://api.ix.rijkscloud.nl](https://api.ix.rijkscloud.nl)| |rijkscloud.nl| |:white_check_mark: | | :white_check_mark: | | :white_check_mark: |HSTS||
 |[https://api.performance.ix.rijkscloud.nl](https://api.performance.ix.rijkscloud.nl)| || |:white_check_mark: | | | | :white_check_mark: |HSTS||
 |[https://apps.alma.jvs.ix.rijkscloud.nl](https://apps.alma.jvs.ix.rijkscloud.nl)| || | | | | | :white_check_mark: |||
@@ -55,7 +55,7 @@
 |[https://gitlab.wibo.ienw.rijkscloud.nl](https://gitlab.wibo.ienw.rijkscloud.nl)| |nginx|:warning: |:white_check_mark: | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx||
 |[https://gn2.meet.rijkscloud.nl](https://gn2.meet.rijkscloud.nl)| |nginx| |:white_check_mark: | | | | :white_check_mark: |HSTS Nginx|Jitsi Meet|
 |[https://gn3.meet.rijkscloud.nl](https://gn3.meet.rijkscloud.nl)| |nginx| |:white_check_mark: | | | | :white_check_mark: |HSTS Nginx|Jitsi Meet|
-|[https://igj.rijkscloud.nl](https://igj.rijkscloud.nl)| |nginx igj.rijksc...|:white_check_mark: |:white_check_mark: | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: |Bootstrap:57654573e259 Django HSTS Nginx Python|IGJ Rijkscloud S...|
+|[https://igj.rijkscloud.nl](https://igj.rijkscloud.nl)| |nginx igj.rijkscloud.nl|:white_check_mark: |:white_check_mark: | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: |Bootstrap:57654573e259 Django HSTS Nginx Python|IGJ Rijkscloud S...|
 |[https://images.analyse.ilt.rijkscloud.nl](https://images.analyse.ilt.rijkscloud.nl)| |Apache| |:white_check_mark: | | | | :white_check_mark: |Apache HTTP Server HSTS|403 Forbidden|
 |[https://informatieproducten.duo.rijkscloud.nl](https://informatieproducten.duo.rijkscloud.nl)| || | | | | | :white_check_mark: |||
 |[https://infrabeheer.rvb.rijkscloud.nl](https://infrabeheer.rvb.rijkscloud.nl)| |Apache|:white_check_mark: |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Apache HTTP Server HSTS Nextcloud PHP||
@@ -63,22 +63,22 @@
 |[https://ipi.rijkscloud.nl](https://ipi.rijkscloud.nl)| || |:white_check_mark: | | | | :white_check_mark: |HSTS|Page not found|
 |[https://iron-hand.ix.rijkscloud.nl](https://iron-hand.ix.rijkscloud.nl)| || | | | | | :white_check_mark: |||
 |[https://jupyter.alma.jvs.ix.rijkscloud.nl](https://jupyter.alma.jvs.ix.rijkscloud.nl)| || | | | | | :white_check_mark: |||
-|[https://jupyter.analyse.ilt.rijkscloud.nl](https://jupyter.analyse.ilt.rijkscloud.nl)| |TornadoServer/6....| |:white_check_mark: | :white_check_mark:| | | :white_check_mark: |HSTS TornadoServer:6.1||
-|[https://jupyter.cursus.rijkscloud.nl](https://jupyter.cursus.rijkscloud.nl)| |TornadoServer/6....| |:white_check_mark: | :white_check_mark:| | | :white_check_mark: |HSTS TornadoServer:6.0.3||
-|[https://jupyter.ds-ocw.rijkscloud.nl](https://jupyter.ds-ocw.rijkscloud.nl)| |TornadoServer/6....| |:white_check_mark: | :white_check_mark:| | | :white_check_mark: |HSTS TornadoServer:6.0.3||
-|[https://jupyter.ds-ocw2.rijkscloud.nl](https://jupyter.ds-ocw2.rijkscloud.nl)| |TornadoServer/6....| |:white_check_mark: | :white_check_mark:| | | :white_check_mark: |HSTS TornadoServer:6.0.3||
-|[https://jupyter.dstrial-inspectieraad.rijkscloud.nl](https://jupyter.dstrial-inspectieraad.rijkscloud.nl)| |TornadoServer/6....| |:white_check_mark: | :white_check_mark:| | | :white_check_mark: |HSTS TornadoServer:6.0.3||
-|[https://jupyter.fib.ienw.rijkscloud.nl](https://jupyter.fib.ienw.rijkscloud.nl)| |TornadoServer/6....| |:white_check_mark: | :white_check_mark:| | | :white_check_mark: |HSTS TornadoServer:6.0.3||
-|[https://jupyter.hr-ienw.rijkscloud.nl](https://jupyter.hr-ienw.rijkscloud.nl)| |TornadoServer/6....| |:white_check_mark: | :white_check_mark:| | | :white_check_mark: |HSTS TornadoServer:6.0.3||
-|[https://jupyter.ilt.rijkscloud.nl](https://jupyter.ilt.rijkscloud.nl)| |TornadoServer/6....| |:white_check_mark: | :white_check_mark:| | | :white_check_mark: |HSTS TornadoServer:6.0.3||
-|[https://jupyter.ilt-analyse.rijkscloud.nl](https://jupyter.ilt-analyse.rijkscloud.nl)| |TornadoServer/6....| |:white_check_mark: | :white_check_mark:| | | :white_check_mark: |HSTS TornadoServer:6.2||
-|[https://jupyter.ilt-zz.rijkscloud.nl](https://jupyter.ilt-zz.rijkscloud.nl)| |TornadoServer/6....| |:white_check_mark: | :white_check_mark:| | | :white_check_mark: |HSTS TornadoServer:6.0.3||
-|[https://jupyter.ipi.rijkscloud.nl](https://jupyter.ipi.rijkscloud.nl)| |TornadoServer/6....| |:white_check_mark: | :white_check_mark:| | | :white_check_mark: |HSTS TornadoServer:6.0.3||
-|[https://jupyter.ivho.rijkscloud.nl](https://jupyter.ivho.rijkscloud.nl)| |TornadoServer/6....| |:white_check_mark: | :white_check_mark:| | | :white_check_mark: |HSTS TornadoServer:6.1||
-|[https://jupyter.kim.rijkscloud.nl](https://jupyter.kim.rijkscloud.nl)| |TornadoServer/6....|:o: |:white_check_mark: | :white_check_mark:| | | :white_check_mark: |HSTS TornadoServer:6.1||
-|[https://jupyter.rekenkamer-ds1.rijkscloud.nl](https://jupyter.rekenkamer-ds1.rijkscloud.nl)| |TornadoServer/6....| |:white_check_mark: | :white_check_mark:| | | :white_check_mark: |HSTS TornadoServer:6.0.3||
-|[https://jupyter.ritp.rijkscloud.nl](https://jupyter.ritp.rijkscloud.nl)| |TornadoServer/6....| |:white_check_mark: | :white_check_mark:| | | :white_check_mark: |HSTS TornadoServer:6.0.3||
-|[https://jupyter.wntbzk.rijkscloud.nl](https://jupyter.wntbzk.rijkscloud.nl)| |TornadoServer/6....| |:white_check_mark: | :white_check_mark:| | | :white_check_mark: |HSTS TornadoServer:6.0.3||
+|[https://jupyter.analyse.ilt.rijkscloud.nl](https://jupyter.analyse.ilt.rijkscloud.nl)| |TornadoServer/6.1| |:white_check_mark: | :white_check_mark:| | | :white_check_mark: |HSTS TornadoServer:6.1||
+|[https://jupyter.cursus.rijkscloud.nl](https://jupyter.cursus.rijkscloud.nl)| |TornadoServer/6.0.3| |:white_check_mark: | :white_check_mark:| | | :white_check_mark: |HSTS TornadoServer:6.0.3||
+|[https://jupyter.ds-ocw.rijkscloud.nl](https://jupyter.ds-ocw.rijkscloud.nl)| |TornadoServer/6.0.3| |:white_check_mark: | :white_check_mark:| | | :white_check_mark: |HSTS TornadoServer:6.0.3||
+|[https://jupyter.ds-ocw2.rijkscloud.nl](https://jupyter.ds-ocw2.rijkscloud.nl)| |TornadoServer/6.0.3| |:white_check_mark: | :white_check_mark:| | | :white_check_mark: |HSTS TornadoServer:6.0.3||
+|[https://jupyter.dstrial-inspectieraad.rijkscloud.nl](https://jupyter.dstrial-inspectieraad.rijkscloud.nl)| |TornadoServer/6.0.3| |:white_check_mark: | :white_check_mark:| | | :white_check_mark: |HSTS TornadoServer:6.0.3||
+|[https://jupyter.fib.ienw.rijkscloud.nl](https://jupyter.fib.ienw.rijkscloud.nl)| |TornadoServer/6.0.3| |:white_check_mark: | :white_check_mark:| | | :white_check_mark: |HSTS TornadoServer:6.0.3||
+|[https://jupyter.hr-ienw.rijkscloud.nl](https://jupyter.hr-ienw.rijkscloud.nl)| |TornadoServer/6.0.3| |:white_check_mark: | :white_check_mark:| | | :white_check_mark: |HSTS TornadoServer:6.0.3||
+|[https://jupyter.ilt.rijkscloud.nl](https://jupyter.ilt.rijkscloud.nl)| |TornadoServer/6.0.3| |:white_check_mark: | :white_check_mark:| | | :white_check_mark: |HSTS TornadoServer:6.0.3||
+|[https://jupyter.ilt-analyse.rijkscloud.nl](https://jupyter.ilt-analyse.rijkscloud.nl)| |TornadoServer/6.2| |:white_check_mark: | :white_check_mark:| | | :white_check_mark: |HSTS TornadoServer:6.2||
+|[https://jupyter.ilt-zz.rijkscloud.nl](https://jupyter.ilt-zz.rijkscloud.nl)| |TornadoServer/6.0.3| |:white_check_mark: | :white_check_mark:| | | :white_check_mark: |HSTS TornadoServer:6.0.3||
+|[https://jupyter.ipi.rijkscloud.nl](https://jupyter.ipi.rijkscloud.nl)| |TornadoServer/6.0.3| |:white_check_mark: | :white_check_mark:| | | :white_check_mark: |HSTS TornadoServer:6.0.3||
+|[https://jupyter.ivho.rijkscloud.nl](https://jupyter.ivho.rijkscloud.nl)| |TornadoServer/6.1| |:white_check_mark: | :white_check_mark:| | | :white_check_mark: |HSTS TornadoServer:6.1||
+|[https://jupyter.kim.rijkscloud.nl](https://jupyter.kim.rijkscloud.nl)| |TornadoServer/6.1|:o: |:white_check_mark: | :white_check_mark:| | | :white_check_mark: |HSTS TornadoServer:6.1||
+|[https://jupyter.rekenkamer-ds1.rijkscloud.nl](https://jupyter.rekenkamer-ds1.rijkscloud.nl)| |TornadoServer/6.0.3| |:white_check_mark: | :white_check_mark:| | | :white_check_mark: |HSTS TornadoServer:6.0.3||
+|[https://jupyter.ritp.rijkscloud.nl](https://jupyter.ritp.rijkscloud.nl)| |TornadoServer/6.0.3| |:white_check_mark: | :white_check_mark:| | | :white_check_mark: |HSTS TornadoServer:6.0.3||
+|[https://jupyter.wntbzk.rijkscloud.nl](https://jupyter.wntbzk.rijkscloud.nl)| |TornadoServer/6.0.3| |:white_check_mark: | :white_check_mark:| | | :white_check_mark: |HSTS TornadoServer:6.0.3||
 |[https://keycloak-acc.rvb.rijkscloud.nl](https://keycloak-acc.rvb.rijkscloud.nl)| || |:white_check_mark: | | | | :white_check_mark: |HSTS||
 |[https://keycloak.analyse.ilt.rijkscloud.nl](https://keycloak.analyse.ilt.rijkscloud.nl)| || |:white_check_mark: | | | | :white_check_mark: |HSTS||
 |[https://kibana.dev.fib.ienw.rijkscloud.nl](https://kibana.dev.fib.ienw.rijkscloud.nl)| || |:white_check_mark: |:warning: | | | :white_check_mark: |HSTS||
@@ -133,7 +133,7 @@
 |[https://rstudio.ritp.rijkscloud.nl](https://rstudio.ritp.rijkscloud.nl)| |RStudio| |:white_check_mark: | | | | :white_check_mark: |HSTS||
 |[https://rstudio.vcloud.ix.rijkscloud.nl](https://rstudio.vcloud.ix.rijkscloud.nl)| |RStudio| |:white_check_mark: | | | | :white_check_mark: |HSTS||
 |[https://sectstssp.ix.rijkscloud.nl](https://sectstssp.ix.rijkscloud.nl)| |rijkscloud.nl|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: |HSTS|Redirecting...|
-|[https://securetransfer.rijkscloud.nl](https://securetransfer.rijkscloud.nl)| |nginx securetran...|:white_check_mark: |:white_check_mark: | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: |Bootstrap:57654573e259 Django HSTS Nginx Python|ODCN Secure Tran...|
+|[https://securetransfer.rijkscloud.nl](https://securetransfer.rijkscloud.nl)| |nginx securetransfer.rijkscloud.nl|:white_check_mark: |:white_check_mark: | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: |Bootstrap:57654573e259 Django HSTS Nginx Python|ODCN Secure Tran...|
 |[https://sensu.ix.rijkscloud.nl](https://sensu.ix.rijkscloud.nl)| || | | | | | :white_check_mark: |Basic||
 |[https://shiny.cursus.rijkscloud.nl](https://shiny.cursus.rijkscloud.nl)| || |:white_check_mark: | | | | :white_check_mark: |HSTS||
 |[https://shiny.ds-ocw.rijkscloud.nl](https://shiny.ds-ocw.rijkscloud.nl)| || |:white_check_mark: | | | | :white_check_mark: |HSTS|Index of /|
@@ -142,7 +142,7 @@
 |[https://shiny.ivho.rijkscloud.nl](https://shiny.ivho.rijkscloud.nl)| || |:white_check_mark: | | | | :white_check_mark: |HSTS|Index of /|
 |[https://shiny.rekenkamer-ds1.rijkscloud.nl](https://shiny.rekenkamer-ds1.rijkscloud.nl)| || |:white_check_mark: | | | | :white_check_mark: |HSTS|Page Redirection|
 |[https://shiny.ritp.rijkscloud.nl](https://shiny.ritp.rijkscloud.nl)| || |:white_check_mark: | | | | :white_check_mark: |HSTS|Index of /|
-|[https://sso.dbe-t.rvb.rijkscloud.nl](https://sso.dbe-t.rvb.rijkscloud.nl)| |Microsoft-IIS/10...| |:white_check_mark: | | | | :white_check_mark: |HSTS IIS:10.0 Microsoft ASP.NET Windows Server||
+|[https://sso.dbe-t.rvb.rijkscloud.nl](https://sso.dbe-t.rvb.rijkscloud.nl)| |Microsoft-IIS/10.0| |:white_check_mark: | | | | :white_check_mark: |HSTS IIS:10.0 Microsoft ASP.NET Windows Server||
 |[https://ssp.estota.rijkscloud.nl](https://ssp.estota.rijkscloud.nl)| || | | | | | :white_check_mark: |Basic||
 |[https://ssp.ix.rijkscloud.nl](https://ssp.ix.rijkscloud.nl)| |rijkscloud.nl|:white_check_mark: |:white_check_mark: | | :white_check_mark: | | :white_check_mark: |HSTS|Redirecting...|
 |[https://stats.duo.rijkscloud.nl](https://stats.duo.rijkscloud.nl)| |Apache|:white_check_mark: |:white_check_mark: |:warning: | :white_check_mark: | | :white_check_mark: |AngularJS Apache HTTP Server HSTS Matomo Analytics|Sign in - Matomo|

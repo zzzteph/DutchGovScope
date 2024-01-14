@@ -11,4 +11,4 @@
 |------------|-------|------|------|------|------|------|------|------|------|------|
 |[http://beeldbank.nationaalarchief.nl](http://beeldbank.nationaalarchief.nl)| |nginx| | | | | | :white_check_mark: |Nginx||
 |[https://servicebureau.nationaalarchief.nl](https://servicebureau.nationaalarchief.nl)| || |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS|Login|
-|[https://bibliotheek.nationaalarchief.nl](https://bibliotheek.nationaalarchief.nl)| |Central System D...| | | | | | :white_check_mark: |HSTS||
+|[https://bibliotheek.nationaalarchief.nl](https://bibliotheek.nationaalarchief.nl)| |Central System Dispatcher/1.1| | | | | | :white_check_mark: |HSTS||

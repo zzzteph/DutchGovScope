@@ -274,10 +274,17 @@ aplbepa01.belastingdienst.nl
 aplbeqa01.belastingdienst.nl
 appstore-ont.belastingdienst.nl
 awa001.acc.belastingdienst.nl
+awakta01.belastingdienst.nl
 axx.belastingdienst.nl
 axx-test.belastingdienst.nl
 b2b.belastingdienst.nl
+b2b-osb.belastingdienst.nl
 b2bcesoptest.belastingdienst.nl
+b2bftp.belastingdienst.nl
+b2bftptest.belastingdienst.nl
+b2btest.belastingdienst.nl
+b2btest-osb.belastingdienst.nl
+backend.socint.acc.belastingdienst.nl
 bdmz-reth473.belastingdienst.nl
 beta.belastingdienst.nl
 betaalportaal.belastingdienst.nl

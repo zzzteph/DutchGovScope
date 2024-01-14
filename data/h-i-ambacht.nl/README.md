@@ -10,7 +10,7 @@
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
 |[https://h-i-ambacht.nl](https://h-i-ambacht.nl)| $${\color{green}A+}$$ ||:white_check_mark: |:white_check_mark: | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: |Apache Tomcat Green Valley CMS HSTS Java|Inwoners - Gemee...|
-|[http://autodiscover.h-i-ambacht.nl](http://autodiscover.h-i-ambacht.nl)| |Microsoft-IIS/10...|:white_check_mark: |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |IIS:10.0 Microsoft ASP.NET Windows Server||
+|[http://autodiscover.h-i-ambacht.nl](http://autodiscover.h-i-ambacht.nl)| |Microsoft-IIS/10.0|:white_check_mark: |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |IIS:10.0 Microsoft ASP.NET Windows Server||
 |[https://loket.h-i-ambacht.nl](https://loket.h-i-ambacht.nl)| $${\color{green}A+}$$ ||:white_check_mark: |:white_check_mark: | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: |Bootstrap HSTS Java Material Design Lite|Loket van Gemeen...|
 |[https://omgevingsvisie.h-i-ambacht.nl](https://omgevingsvisie.h-i-ambacht.nl)| |Apache| |:white_check_mark: | | | | :white_check_mark: |Apache HTTP Server HSTS|Omgevingsvisie H...|
 |[https://gisibgeoserver.h-i-ambacht.nl](https://gisibgeoserver.h-i-ambacht.nl)| $${\color{lightgreen}B}$$ || |:white_check_mark: | | :white_check_mark: | | :white_check_mark: |||

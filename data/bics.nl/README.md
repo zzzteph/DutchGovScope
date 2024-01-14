@@ -18,7 +18,7 @@
 |[http://nlhull2.bics.nl](http://nlhull2.bics.nl)| || | | | | | :white_check_mark: |||
 |[http://nlrdms.bics.nl](http://nlrdms.bics.nl)| || | | | | | :white_check_mark: |||
 |[https://www.bics.nl](https://www.bics.nl)| |Apache| |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |Apache HTTP Server Drupal:7 HSTS PHP:7.2.24|Welkom op de BIC...|
-|[https://bicsdrupalacc.bics.nl](https://bicsdrupalacc.bics.nl)| |Apache/2.4.57 (C...| | | | | | :white_check_mark: |Apache HTTP Server:2.4.57 CentOS Drupal:10 OpenSSL:3.0.7 PHP:8.1.14 SDL Tridion|Home | BICS-webs...|
+|[https://bicsdrupalacc.bics.nl](https://bicsdrupalacc.bics.nl)| |Apache/2.4.57 (CentOS Stream) OpenSSL/3.0.7| | | | | | :white_check_mark: |Apache HTTP Server:2.4.57 CentOS Drupal:10 OpenSSL:3.0.7 PHP:8.1.14 SDL Tridion|Home | BICS-webs...|
 |[https://bics.nl](https://bics.nl)| |Apache| | | | | | :white_check_mark: |Apache HTTP Server|HTTP Server Test...|
 |[https://bicsweb1.bics.nl](https://bicsweb1.bics.nl)| |Apache| | | | | | :white_check_mark: |Apache HTTP Server HSTS|302 Found|
 |[https://bicsweb2.bics.nl](https://bicsweb2.bics.nl)| |Apache| | | | | | :white_check_mark: |Apache HTTP Server|HTTP Server Test...|

@@ -14,9 +14,9 @@
 |[http://data-preview.emissieregistratie.nl](http://data-preview.emissieregistratie.nl)| || | | | | | :white_check_mark: |||
 |[https://data-previewnext.emissieregistratie.nl](https://data-previewnext.emissieregistratie.nl)| ||:warning: |:white_check_mark: | | | | :white_check_mark: |F5 BigIP HSTS||
 |[https://data2.emissieregistratie.nl](https://data2.emissieregistratie.nl)| |nginx|:warning: |:white_check_mark: | | | | :white_check_mark: |HSTS Java Nginx|Emissieregistrat...|
-|[https://eracceptatie.emissieregistratie.nl](https://eracceptatie.emissieregistratie.nl)| |Microsoft-HTTPAP...| |:white_check_mark: | | | | :white_check_mark: |HSTS Microsoft HTTPAPI:2.0|Service Unavaila...|
-|[https://legacy.emissieregistratie.nl](https://legacy.emissieregistratie.nl)| |Microsoft-IIS/10...| | | | | | :white_check_mark: |HSTS IIS:10.0 Microsoft ASP.NET Windows Server|Emissie Registra...|
-|[https://legacy2.emissieregistratie.nl](https://legacy2.emissieregistratie.nl)| |Microsoft-HTTPAP...| |:white_check_mark: | | | | :white_check_mark: |HSTS Microsoft HTTPAPI:2.0|Service Unavaila...|
+|[https://eracceptatie.emissieregistratie.nl](https://eracceptatie.emissieregistratie.nl)| |Microsoft-HTTPAPI/2.0| |:white_check_mark: | | | | :white_check_mark: |HSTS Microsoft HTTPAPI:2.0|Service Unavaila...|
+|[https://legacy.emissieregistratie.nl](https://legacy.emissieregistratie.nl)| |Microsoft-IIS/10.0| | | | | | :white_check_mark: |HSTS IIS:10.0 Microsoft ASP.NET Windows Server|Emissie Registra...|
+|[https://legacy2.emissieregistratie.nl](https://legacy2.emissieregistratie.nl)| |Microsoft-HTTPAPI/2.0| |:white_check_mark: | | | | :white_check_mark: |HSTS Microsoft HTTPAPI:2.0|Service Unavaila...|
 |[https://previewnext.emissieregistratie.nl](https://previewnext.emissieregistratie.nl)| ||:warning: | | | | | :white_check_mark: |F5 BigIP HSTS||
 |[https://www.emissieregistratie.nl](https://www.emissieregistratie.nl)| |Apache| |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |Apache HTTP Server Drupal HSTS PHP|Alle emissiegege...|
 |[https://emissieregistratie.nl](https://emissieregistratie.nl)| |Apache| |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |Apache HTTP Server HSTS|301 Moved Perman...|

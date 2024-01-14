@@ -29,7 +29,7 @@
 |[https://ruimtelijkeplannen.zuid-holland.nl](https://ruimtelijkeplannen.zuid-holland.nl)| |nginx| |:white_check_mark: | | | | :white_check_mark: |Bootstrap HSTS Nginx|Ruimtelijke plan...|
 |[https://wapenfeiten.zuid-holland.nl](https://wapenfeiten.zuid-holland.nl)| |Apache| | | | :white_check_mark: | | :white_check_mark: |Apache HTTP Server Drupal:8 PHP|Wapenfeiten: de...|
 |[https://oogop.zuid-holland.nl](https://oogop.zuid-holland.nl)| || | | | | | :white_check_mark: ||Web App - Unavai...|
-|[https://forms.zuid-holland.nl](https://forms.zuid-holland.nl)| |Layer7-API-Gatew...| | | | | | :white_check_mark: |||
+|[https://forms.zuid-holland.nl](https://forms.zuid-holland.nl)| |Layer7-API-Gateway| | | | | | :white_check_mark: |||
 |[https://zaaksysteem-accept.zuid-holland.nl](https://zaaksysteem-accept.zuid-holland.nl)| ||:white_check_mark: |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS|Moved|
 |[https://slimmerreizen.zuid-holland.nl](https://slimmerreizen.zuid-holland.nl)| || |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |Express HSTS Node.js|Meedoen | Slimme...|
 |[http://jaaroverzichtcommissarisvandekoning2022.zuid-holland.nl](http://jaaroverzichtcommissarisvandekoning2022.zuid-holland.nl)| |-| |:white_check_mark: | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: |Microsoft ASP.NET:-|Object moved|

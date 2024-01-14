@@ -22,7 +22,7 @@
 |[https://cdn.debatdirect.tweedekamer.nl](https://cdn.debatdirect.tweedekamer.nl)| |CloudFront| |:white_check_mark: | | | :white_check_mark: | :white_check_mark: |Amazon CloudFront Amazon Web Services HSTS||
 |[https://sip.videovergaderen.tweedekamer.nl](https://sip.videovergaderen.tweedekamer.nl)| |Pexip Infinity| |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS|302 Found|
 |[https://woningcorporaties.tweedekamer.nl](https://woningcorporaties.tweedekamer.nl)| |nginx| | | | | | :white_check_mark: |HSTS Nginx|301 Moved Perman...|
-|[https://sts.tweedekamer.nl](https://sts.tweedekamer.nl)| |Microsoft-HTTPAP...| | | | | | :white_check_mark: |Microsoft HTTPAPI:2.0|Not Found|
+|[https://sts.tweedekamer.nl](https://sts.tweedekamer.nl)| |Microsoft-HTTPAPI/2.0| | | | | | :white_check_mark: |Microsoft HTTPAPI:2.0|Not Found|
 |[https://plus.debatdirect.tweedekamer.nl](https://plus.debatdirect.tweedekamer.nl)| |CloudFront| |:white_check_mark: | | | :white_check_mark: | :white_check_mark: |Amazon CloudFront Amazon Web Services HSTS||
 |[https://houseofrepresentatives.acceptatie.tweedekamer.nl](https://houseofrepresentatives.acceptatie.tweedekamer.nl)| |nginx/1.25.3| |:white_check_mark: | | | | :white_check_mark: |Basic Nginx:1.25.3|401 Authorizatio...|
 |[https://gegevensmagazijn.tweedekamer.nl](https://gegevensmagazijn.tweedekamer.nl)| ||:o: | | :white_check_mark:| | | :white_check_mark: ||Gegevensmagazijn|
@@ -44,7 +44,7 @@
 |[https://lijstvangevallenen.test.tweedekamer.nl](https://lijstvangevallenen.test.tweedekamer.nl)| |nginx/1.25.3| | | | | | :white_check_mark: |Basic Nginx:1.25.3|401 Authorizatio...|
 |[https://erelijst.test.tweedekamer.nl](https://erelijst.test.tweedekamer.nl)| |nginx/1.25.3| | | | | | :white_check_mark: |Basic Nginx:1.25.3|401 Authorizatio...|
 |[https://acc.meldingenapp.tweedekamer.nl](https://acc.meldingenapp.tweedekamer.nl)| |nginx| |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Drupal:9 HSTS Nginx PHP:7.4.33|Homepage Plein2...|
-|[https://sts.test.tweedekamer.nl](https://sts.test.tweedekamer.nl)| |Microsoft-HTTPAP...| | | | | | :white_check_mark: |Microsoft HTTPAPI:2.0|Not Found|
+|[https://sts.test.tweedekamer.nl](https://sts.test.tweedekamer.nl)| |Microsoft-HTTPAPI/2.0| | | | | | :white_check_mark: |Microsoft HTTPAPI:2.0|Not Found|
 |[https://livestreaming.b67bu.tweedekamer.nl](https://livestreaming.b67bu.tweedekamer.nl)| |ECAcc (frc/4C86)| | | | | | :white_check_mark: |Azure Azure CDN|Your Azure Funct...|
 |[https://livestream-media-backup.tweedekamer.nl](https://livestream-media-backup.tweedekamer.nl)| |ECAcc (frc/4C86)| | | | | | :white_check_mark: |Azure Azure CDN||
 |[https://houseofrepresentatives.test.tweedekamer.nl](https://houseofrepresentatives.test.tweedekamer.nl)| |nginx/1.25.3| |:white_check_mark: | | | | :white_check_mark: |Basic Nginx:1.25.3|401 Authorizatio...|
@@ -71,7 +71,7 @@
 |[https://livestreaming.b67acc.tweedekamer.nl](https://livestreaming.b67acc.tweedekamer.nl)| |ECAcc (frc/4C86)| | | | | | :white_check_mark: |Azure Azure CDN|Your Azure Funct...|
 |[https://plein2.tweedekamer.nl](https://plein2.tweedekamer.nl)| |BigIP|:white_check_mark: |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |F5 BigIP||
 |[https://files.tweedekamer.nl](https://files.tweedekamer.nl)| |nginx| | | | :white_check_mark: | :white_check_mark: | :white_check_mark: |Nginx|403 Forbidden|
-|[https://enroll-tkmw.tweedekamer.nl](https://enroll-tkmw.tweedekamer.nl)| |Microsoft-IIS/10...| | | | | | :white_check_mark: |IIS:10.0 Microsoft ASP.NET Windows Server|IIS Windows Serv...|
+|[https://enroll-tkmw.tweedekamer.nl](https://enroll-tkmw.tweedekamer.nl)| |Microsoft-IIS/10.0| | | | | | :white_check_mark: |IIS:10.0 Microsoft ASP.NET Windows Server|IIS Windows Serv...|
 |[https://parlis-otd.tweedekamer.nl](https://parlis-otd.tweedekamer.nl)| |BigIP|:white_check_mark: |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |F5 BigIP||
 |[https://ontdek.test.tweedekamer.nl](https://ontdek.test.tweedekamer.nl)| |nginx/1.25.3| |:white_check_mark: | | | | :white_check_mark: |HSTS Nginx:1.25.3|Tweede Kamer Tou...|
 |[https://werkenbij.acceptatie.tweedekamer.nl](https://werkenbij.acceptatie.tweedekamer.nl)| |nginx/1.25.3| | | | | | :white_check_mark: |Basic Nginx:1.25.3|401 Authorizatio...|

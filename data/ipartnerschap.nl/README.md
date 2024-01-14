@@ -10,5 +10,5 @@
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
 |[https://ipo.ipartnerschap.nl](https://ipo.ipartnerschap.nl)| |Apache| |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Apache HTTP Server HSTS||
-|[https://ipartnerschap.nl](https://ipartnerschap.nl)| |Microsoft-IIS/10...| |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS IIS:10.0 Windows Server|Document Moved|
-|[https://www.ipartnerschap.nl](https://www.ipartnerschap.nl)| |Microsoft-IIS/10...| |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS IIS:10.0 Windows Server|Document Moved|
+|[https://ipartnerschap.nl](https://ipartnerschap.nl)| |Microsoft-IIS/10.0| |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS IIS:10.0 Windows Server|Document Moved|
+|[https://www.ipartnerschap.nl](https://www.ipartnerschap.nl)| |Microsoft-IIS/10.0| |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS IIS:10.0 Windows Server|Document Moved|

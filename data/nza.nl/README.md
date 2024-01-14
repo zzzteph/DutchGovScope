@@ -35,7 +35,7 @@
 |[https://nza-form3.nza.nl](https://nza-form3.nza.nl)| |nginx| |:white_check_mark: | | :white_check_mark: | | :white_check_mark: |HSTS Nginx|Mendix|
 |[http://crm-acc.nza.nl](http://crm-acc.nza.nl)| |Apache| | | | | | :white_check_mark: |Apache HTTP Server|301 Moved Perman...|
 |[https://dbcregels.nza.nl](https://dbcregels.nza.nl)| |nginx| |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx|301 Moved Perman...|
-|[http://autodiscover.nza.nl](http://autodiscover.nza.nl)| |Microsoft-IIS/10...|:white_check_mark: |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |IIS:10.0 Microsoft ASP.NET Windows Server||
+|[http://autodiscover.nza.nl](http://autodiscover.nza.nl)| |Microsoft-IIS/10.0|:white_check_mark: |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |IIS:10.0 Microsoft ASP.NET Windows Server||
 |[https://opendata.nza.nl](https://opendata.nza.nl)| |nginx| |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx||
 |[http://crm.nza.nl](http://crm.nza.nl)| |Apache| | | | | | :white_check_mark: |Apache HTTP Server|301 Moved Perman...|
 |[https://nza-form2.nza.nl](https://nza-form2.nza.nl)| |nginx| |:white_check_mark: | | :white_check_mark: | | :white_check_mark: |HSTS Nginx|NZA - EPOS|

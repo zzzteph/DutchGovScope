@@ -9,5 +9,5 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://www.zvkcn.nl](https://www.zvkcn.nl)| |Microsoft-IIS/10...| |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS IIS:10.0 Windows Server|Document Moved|
-|[https://zvkcn.nl](https://zvkcn.nl)| |Microsoft-IIS/10...| |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS IIS:10.0 Windows Server|Document Moved|
+|[https://www.zvkcn.nl](https://www.zvkcn.nl)| |Microsoft-IIS/10.0| |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS IIS:10.0 Windows Server|Document Moved|
+|[https://zvkcn.nl](https://zvkcn.nl)| |Microsoft-IIS/10.0| |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS IIS:10.0 Windows Server|Document Moved|

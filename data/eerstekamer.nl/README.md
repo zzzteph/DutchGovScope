@@ -12,7 +12,7 @@
 |[https://api.eerstekamer.nl](https://api.eerstekamer.nl)| || |:white_check_mark: | | | :white_check_mark: | :white_check_mark: |HSTS|Not Found|
 |[https://apiacc.eerstekamer.nl](https://apiacc.eerstekamer.nl)| || |:white_check_mark: | | | :white_check_mark: | :white_check_mark: |HSTS|Not Found|
 |[https://apiarbor.eerstekamer.nl](https://apiarbor.eerstekamer.nl)| || |:white_check_mark: | | | :white_check_mark: | :white_check_mark: |HSTS|403 Forbidden|
-|[http://autodiscover.eerstekamer.nl](http://autodiscover.eerstekamer.nl)| |Microsoft-IIS/10...|:white_check_mark: |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |IIS:10.0 Microsoft ASP.NET Windows Server||
+|[http://autodiscover.eerstekamer.nl](http://autodiscover.eerstekamer.nl)| |Microsoft-IIS/10.0|:white_check_mark: |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |IIS:10.0 Microsoft ASP.NET Windows Server||
 |[https://europapoort.eerstekamer.nl](https://europapoort.eerstekamer.nl)| || |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS|Moved|
 |[https://onderwijs.eerstekamer.nl](https://onderwijs.eerstekamer.nl)| |nginx/1.19.4|:white_check_mark: | | | | | :white_check_mark: |Nginx:1.19.4|302 Found|
 |[https://redactie.eerstekamer.nl](https://redactie.eerstekamer.nl)| || |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS|Moved|

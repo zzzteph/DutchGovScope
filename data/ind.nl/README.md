@@ -9,7 +9,7 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://academie.ind.nl](https://academie.ind.nl)| |Microsoft-IIS/10...|:white_check_mark: |:white_check_mark: |:warning: | | :white_check_mark: | :white_check_mark: |IIS:10.0 Windows Server|Document Moved|
+|[https://academie.ind.nl](https://academie.ind.nl)| |Microsoft-IIS/10.0|:white_check_mark: |:white_check_mark: |:warning: | | :white_check_mark: | :white_check_mark: |IIS:10.0 Windows Server|Document Moved|
 |[https://beheer.chat.ind.nl](https://beheer.chat.ind.nl)| |awselb/2.0| | | | | | :white_check_mark: |Amazon ELB Amazon Web Services|403 Forbidden|
 |[https://chat.ind.nl](https://chat.ind.nl)| |nginx| | | | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx|301 Moved Perman...|
 |[https://ediensten.ind.nl](https://ediensten.ind.nl)| |Apache|:white_check_mark: |:white_check_mark: | :white_check_mark:| :white_check_mark: | | :white_check_mark: |Apache HTTP Server HSTS|A-Select Filter...|

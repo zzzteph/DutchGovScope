@@ -15,7 +15,7 @@
 |[https://data.duo.nl](https://data.duo.nl)| || |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |||
 |[https://digidzakelijk.duo.nl](https://digidzakelijk.duo.nl)| ||:white_check_mark: |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS|Inloggen - Mijn...|
 |[https://eidas-mijn.duo.nl](https://eidas-mijn.duo.nl)| ||:white_check_mark: |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS||
-|[http://enterpriseenrollment.duo.nl](http://enterpriseenrollment.duo.nl)| |Microsoft-IIS/10...| | | | | | :white_check_mark: |IIS:10.0 Microsoft ASP.NET Windows Server|Document Moved|
+|[http://enterpriseenrollment.duo.nl](http://enterpriseenrollment.duo.nl)| |Microsoft-IIS/10.0| | | | | | :white_check_mark: |IIS:10.0 Microsoft ASP.NET Windows Server|Document Moved|
 |[https://idposr.duo.nl](https://idposr.duo.nl)| |WebSEAL/10.0.6.0| |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS|Moved Temporaril...|
 |[https://instellingsinformatie.duo.nl](https://instellingsinformatie.duo.nl)| ||:white_check_mark: |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Microsoft ASP.NET|Document Moved|
 |[https://instellingsinformatie.scha.duo.nl](https://instellingsinformatie.scha.duo.nl)| || | | | | | :white_check_mark: |HSTS Microsoft ASP.NET:4.0.30319|Object moved|

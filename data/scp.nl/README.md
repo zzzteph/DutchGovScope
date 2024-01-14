@@ -19,7 +19,7 @@
 |[https://feeds.scp.nl](https://feeds.scp.nl)| |nginx| |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx||
 |[https://feeds.english.scp.nl](https://feeds.english.scp.nl)| |nginx| |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx||
 |[https://intranet.scp.nl](https://intranet.scp.nl)| || | | :white_check_mark:| | | :white_check_mark: ||403 - Forbidden:...|
-|[https://login.scp.nl](https://login.scp.nl)| |Microsoft-HTTPAP...| | | | | | :white_check_mark: |Microsoft HTTPAPI:2.0|Not Found|
+|[https://login.scp.nl](https://login.scp.nl)| |Microsoft-HTTPAPI/2.0| | | | | | :white_check_mark: |Microsoft HTTPAPI:2.0|Not Found|
 |[https://mail.scp.nl](https://mail.scp.nl)| |BigIP|:warning: |:white_check_mark: | | | | :white_check_mark: |F5 BigIP HSTS||
 |[https://opendata.scp.nl](https://opendata.scp.nl)| |nginx| |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx||
 |[https://opendata.english.scp.nl](https://opendata.english.scp.nl)| |nginx| |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx||

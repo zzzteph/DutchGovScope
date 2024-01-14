@@ -10,7 +10,7 @@
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
 |[https://acceptatie.istandaarden.nl](https://acceptatie.istandaarden.nl)| |istio-envoy|:white_check_mark: |:white_check_mark: |:warning: | | :white_check_mark: | :white_check_mark: |||
-|[https://informatiemodel.istandaarden.nl](https://informatiemodel.istandaarden.nl)| |nginx/1.14.0 (Ub...| | | | | | :white_check_mark: |HSTS Nginx:1.14.0 Ubuntu||
+|[https://informatiemodel.istandaarden.nl](https://informatiemodel.istandaarden.nl)| |nginx/1.14.0 (Ubuntu)| | | | | | :white_check_mark: |HSTS Nginx:1.14.0 Ubuntu||
 |[https://modules.istandaarden.nl](https://modules.istandaarden.nl)| |istio-envoy|:white_check_mark: |:white_check_mark: |:warning: | | :white_check_mark: | :white_check_mark: |||
 |[https://proto.istandaarden.nl](https://proto.istandaarden.nl)| |GitHub.com| | | | | | :white_check_mark: |Fastly GitHub Pages Varnish|Home|
 |[https://registry.istandaarden.nl](https://registry.istandaarden.nl)| |istio-envoy| | | | | | :white_check_mark: |Envoy||

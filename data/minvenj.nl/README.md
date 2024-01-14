@@ -9,7 +9,7 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://acc-ssci-ossplanning.minvenj.nl](https://acc-ssci-ossplanning.minvenj.nl)| |Microsoft-IIS/8....| | | | | | :white_check_mark: |IIS:8.5 Microsoft ASP.NET Windows Server|403 - Forbidden:...|
+|[https://acc-ssci-ossplanning.minvenj.nl](https://acc-ssci-ossplanning.minvenj.nl)| |Microsoft-IIS/8.5| | | | | | :white_check_mark: |IIS:8.5 Microsoft ASP.NET Windows Server|403 - Forbidden:...|
 |[https://emrmdm.minvenj.nl](https://emrmdm.minvenj.nl)| |server| | | | | | :white_check_mark: ||302 Found|
 |[http://dwr.gdi.minvenj.nl](http://dwr.gdi.minvenj.nl)| |nginx| | | | :white_check_mark: | :white_check_mark: | :white_check_mark: |Nginx|Welcome to nginx...|
 |[https://cparegister.minvenj.nl](https://cparegister.minvenj.nl)| |nginx|:white_check_mark: |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Bootstrap Django HSTS Nginx Python|Home –...|
@@ -30,7 +30,7 @@
 |[https://lyncdiscover.acpt.dji.minvenj.nl](https://lyncdiscover.acpt.dji.minvenj.nl)| || | | | | | :white_check_mark: |||
 |[https://enterpriseenrollment.dtv.minvenj.nl](https://enterpriseenrollment.dtv.minvenj.nl)| |server| | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: ||302 Found|
 |[http://dwr-2.gdi.minvenj.nl](http://dwr-2.gdi.minvenj.nl)| |nginx| | | | :white_check_mark: | :white_check_mark: | :white_check_mark: |Nginx|Welcome to nginx...|
-|[https://ssci-ossplanning.minvenj.nl](https://ssci-ossplanning.minvenj.nl)| |Microsoft-IIS/8....| | | | | | :white_check_mark: |IIS:8.5 Microsoft ASP.NET Windows Server|403 - Forbidden:...|
+|[https://ssci-ossplanning.minvenj.nl](https://ssci-ossplanning.minvenj.nl)| |Microsoft-IIS/8.5| | | | | | :white_check_mark: |IIS:8.5 Microsoft ASP.NET Windows Server|403 - Forbidden:...|
 |[https://minvenj.nl](https://minvenj.nl)| || |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS||
 |[https://dialin.dtv.minvenj.nl](https://dialin.dtv.minvenj.nl)| || | | | | | :white_check_mark: |||
 |[https://schedule.dtv.minvenj.nl](https://schedule.dtv.minvenj.nl)| || | | | | | :white_check_mark: |||

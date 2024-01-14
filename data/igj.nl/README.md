@@ -22,5 +22,5 @@
 |[https://toezichtdocumenten.igj.nl](https://toezichtdocumenten.igj.nl)| |nginx| |:white_check_mark: | | :white_check_mark: | | :white_check_mark: |HSTS Nginx|Mendix|
 |[https://toezichtopzorgnetwerken.igj.nl](https://toezichtopzorgnetwerken.igj.nl)| |nginx/1.16.1| |:white_check_mark: |:warning: | :white_check_mark: | | :white_check_mark: |HSTS Nginx:1.16.1 WordPress Yoast SEO:7.5.3|Zorgnetwerken |...|
 |[https://www.igj.nl](https://www.igj.nl)| |nginx| |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Bloomreach HSTS Nginx|IGJ.nl | Inspect...|
-|[https://www.abonneren.toezichtdocumenten.igj.nl](https://www.abonneren.toezichtdocumenten.igj.nl)| |Microsoft-IIS/8....| | | | | | :white_check_mark: |Bloomreach IIS:8.5 Microsoft ASP.NET:4.0.30319 Windows Server|Inspectie voor d...|
+|[https://www.abonneren.toezichtdocumenten.igj.nl](https://www.abonneren.toezichtdocumenten.igj.nl)| |Microsoft-IIS/8.5| | | | | | :white_check_mark: |Bloomreach IIS:8.5 Microsoft ASP.NET:4.0.30319 Windows Server|Inspectie voor d...|
 |[https://igj.nl](https://igj.nl)| |nginx| |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx|301 Moved Perman...|

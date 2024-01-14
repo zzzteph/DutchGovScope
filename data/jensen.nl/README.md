@@ -12,7 +12,7 @@
 |[https://www.jensen.nl](https://www.jensen.nl)| |Vercel| |:white_check_mark: | | | | :white_check_mark: |HSTS Vercel||
 |[https://wt-tracker.jensen.nl](https://wt-tracker.jensen.nl)| || | | | | | :white_check_mark: |||
 |[https://speedtest.jensen.nl](https://speedtest.jensen.nl)| |Vercel| |:white_check_mark: | | | | :white_check_mark: |HSTS Vercel|Jensen Speedtest|
-|[https://twentysix-proud.jensen.nl](https://twentysix-proud.jensen.nl)| |BunnyCDN-DE1-108...| | | | | | :white_check_mark: |Bunny||
+|[https://twentysix-proud.jensen.nl](https://twentysix-proud.jensen.nl)| |BunnyCDN-DE1-1080| | | | | | :white_check_mark: |Bunny||
 |[http://transcode.jensen.nl](http://transcode.jensen.nl)| || | | | | | :white_check_mark: |||
 |[https://img.jensen.nl](https://img.jensen.nl)| |ATS/9.1.3| | | | | | :white_check_mark: |Apache Traffic Server:9.1.3||
 |[https://commento.jensen.nl](https://commento.jensen.nl)| || | | | | | :white_check_mark: |||

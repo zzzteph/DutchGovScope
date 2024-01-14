@@ -22,9 +22,9 @@
 |[https://meet.justid.nl](https://meet.justid.nl)| || |:white_check_mark: | | | | :white_check_mark: |Azure HSTS|Skype for Busine...|
 |[https://opendata.justid.nl](https://opendata.justid.nl)| |nginx| |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx||
 |[https://referentiegegevens.justid.nl](https://referentiegegevens.justid.nl)| |Apache|:white_check_mark: |:white_check_mark: | :white_check_mark:| :white_check_mark: | | :white_check_mark: |Apache HTTP Server HSTS|A-Select Filter...|
-|[https://schedule.justid.nl](https://schedule.justid.nl)| |Microsoft-IIS/10...| |:white_check_mark: | | | | :white_check_mark: |HSTS IIS:10.0 Windows Server|403 - Forbidden:...|
+|[https://schedule.justid.nl](https://schedule.justid.nl)| |Microsoft-IIS/10.0| |:white_check_mark: | | | | :white_check_mark: |HSTS IIS:10.0 Windows Server|403 - Forbidden:...|
 |[https://sfbedgepool.justid.nl](https://sfbedgepool.justid.nl)| |RTC/7.0| |:white_check_mark: | | | | :white_check_mark: |HSTS||
-|[https://sfbrppool01.justid.nl](https://sfbrppool01.justid.nl)| |Microsoft-IIS/10...| |:white_check_mark: | | | | :white_check_mark: |HSTS IIS:10.0 Windows Server|403 - Forbidden:...|
+|[https://sfbrppool01.justid.nl](https://sfbrppool01.justid.nl)| |Microsoft-IIS/10.0| |:white_check_mark: | | | | :white_check_mark: |HSTS IIS:10.0 Windows Server|403 - Forbidden:...|
 |[https://sip.justid.nl](https://sip.justid.nl)| |RTC/7.0| |:white_check_mark: | | | | :white_check_mark: |HSTS||
 |[https://sip001.justid.nl](https://sip001.justid.nl)| |RTC/7.0| |:white_check_mark: | | | | :white_check_mark: |HSTS||
 |[https://sip002.justid.nl](https://sip002.justid.nl)| |RTC/7.0| |:white_check_mark: | | | | :white_check_mark: |HSTS||

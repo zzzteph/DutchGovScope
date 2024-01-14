@@ -10,7 +10,7 @@
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
 |[https://dp2023.deltaprogramma.nl](https://dp2023.deltaprogramma.nl)| |Apache/2| | | | | | :white_check_mark: |Apache HTTP Server:2|Suspended Domain|
-|[https://dp2024.deltaprogramma.nl](https://dp2024.deltaprogramma.nl)| |Apache/2.4.58 (U...| | | | | | :white_check_mark: |Apache HTTP Server:2.4.58 Ubuntu|Deltaprogramma 2...|
+|[https://dp2024.deltaprogramma.nl](https://dp2024.deltaprogramma.nl)| |Apache/2.4.58 (Ubuntu)| | | | | | :white_check_mark: |Apache HTTP Server:2.4.58 Ubuntu|Deltaprogramma 2...|
 |[https://english.deltaprogramma.nl](https://english.deltaprogramma.nl)| $${\color{green}A+}$$ |nginx| |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Bloomreach HSTS Nginx|Home | Delta Pro...|
 |[https://feeds.deltaprogramma.nl](https://feeds.deltaprogramma.nl)| $${\color{green}A+}$$ |nginx| |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx||
 |[https://feeds.english.deltaprogramma.nl](https://feeds.english.deltaprogramma.nl)| $${\color{green}A+}$$ |nginx| |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx||

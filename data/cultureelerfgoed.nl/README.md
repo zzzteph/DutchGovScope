@@ -10,7 +10,7 @@
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
 |[https://acc.monumentenregister.cultureelerfgoed.nl](https://acc.monumentenregister.cultureelerfgoed.nl)| || | | | | | :white_check_mark: |Basic||
-|[https://acc.subsidie.cultureelerfgoed.nl](https://acc.subsidie.cultureelerfgoed.nl)| |Microsoft-IIS/10...|:warning: |:white_check_mark: | | :white_check_mark: | | :white_check_mark: |HSTS IIS:10.0 Windows Server|SUBS|
+|[https://acc.subsidie.cultureelerfgoed.nl](https://acc.subsidie.cultureelerfgoed.nl)| |Microsoft-IIS/10.0|:warning: |:white_check_mark: | | :white_check_mark: | | :white_check_mark: |HSTS IIS:10.0 Windows Server|SUBS|
 |[https://acceptatie.archis.cultureelerfgoed.nl](https://acceptatie.archis.cultureelerfgoed.nl)| $${\color{green}A+}$$ |Apache| |:white_check_mark: | | :white_check_mark: | | :white_check_mark: |AngularJS Apache HTTP Server HSTS|Archis - Rijksdi...|
 |[https://acceptatie.geoservices.cultureelerfgoed.nl](https://acceptatie.geoservices.cultureelerfgoed.nl)| $${\color{green}A}$$ |Apache| | | | | | :white_check_mark: |Apache HTTP Server|403 Forbidden|
 |[https://acceptatie.zoeken.cultureelerfgoed.nl](https://acceptatie.zoeken.cultureelerfgoed.nl)| $${\color{green}A}$$ |Apache| | | | | | :white_check_mark: |Apache HTTP Server|503 Service Unav...|
@@ -18,10 +18,10 @@
 |[https://archis.cultureelerfgoed.nl](https://archis.cultureelerfgoed.nl)| $${\color{green}A+}$$ |Apache| |:white_check_mark: | | :white_check_mark: | | :white_check_mark: |AngularJS Apache HTTP Server HSTS|Archis - Rijksdi...|
 |[https://archisarchief.cultureelerfgoed.nl](https://archisarchief.cultureelerfgoed.nl)| |Apache| | | | | | :white_check_mark: |Apache HTTP Server HSTS|403 - Forbidden:...|
 |[https://beeldbank.cultureelerfgoed.nl](https://beeldbank.cultureelerfgoed.nl)| $${\color{green}A+}$$ |nginx|:warning: |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Joomla Nginx PHP ZURB Foundation|Home | Beeldbank...|
-|[https://catalogus.cultureelerfgoed.nl](https://catalogus.cultureelerfgoed.nl)| $${\color{lightgreen}B}$$ |Microsoft-IIS/10...|:white_check_mark: | | | | | :white_check_mark: |IIS:10.0 Microsoft ASP.NET:4.0.30319 Windows Server|Object moved|
+|[https://catalogus.cultureelerfgoed.nl](https://catalogus.cultureelerfgoed.nl)| $${\color{lightgreen}B}$$ |Microsoft-IIS/10.0|:white_check_mark: | | | | | :white_check_mark: |IIS:10.0 Microsoft ASP.NET:4.0.30319 Windows Server|Object moved|
 |[https://data.cultureelerfgoed.nl](https://data.cultureelerfgoed.nl)| $${\color{green}A+}$$ |nginx| |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx|- PoolParty Link...|
 |[https://data.geo.cultureelerfgoed.nl](https://data.geo.cultureelerfgoed.nl)| $${\color{green}A+}$$ ||:white_check_mark: |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Java|GeolinQ|
-|[http://doorzoeker.cultureelerfgoed.nl](http://doorzoeker.cultureelerfgoed.nl)| |Microsoft-HTTPAP...| | | | | | :white_check_mark: |Microsoft HTTPAPI:2.0|Not Found|
+|[http://doorzoeker.cultureelerfgoed.nl](http://doorzoeker.cultureelerfgoed.nl)| |Microsoft-HTTPAPI/2.0| | | | | | :white_check_mark: |Microsoft HTTPAPI:2.0|Not Found|
 |[https://english.cultureelerfgoed.nl](https://english.cultureelerfgoed.nl)| $${\color{green}A+}$$ |nginx| |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Bloomreach HSTS Nginx|Home | Cultural...|
 |[https://faro.cultureelerfgoed.nl](https://faro.cultureelerfgoed.nl)| $${\color{green}A+}$$ |Apache|:white_check_mark: |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Apache HTTP Server HSTS||
 |[https://feeds.cultureelerfgoed.nl](https://feeds.cultureelerfgoed.nl)| $${\color{green}A+}$$ |nginx| |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx||
@@ -29,7 +29,7 @@
 |[https://formulier.cultureelerfgoed.nl](https://formulier.cultureelerfgoed.nl)| $${\color{green}A+}$$ || |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS|Object moved|
 |[https://foto-opdracht.cultureelerfgoed.nl](https://foto-opdracht.cultureelerfgoed.nl)| $${\color{green}A+}$$ |nginx| |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx PHP||
 |[https://geoservices.cultureelerfgoed.nl](https://geoservices.cultureelerfgoed.nl)| $${\color{green}A}$$ |Apache| | | | | | :white_check_mark: |Apache HTTP Server|403 Forbidden|
-|[https://intern.catalogus.cultureelerfgoed.nl](https://intern.catalogus.cultureelerfgoed.nl)| $${\color{lightgreen}B}$$ |Microsoft-IIS/10...| | | | | | :white_check_mark: |IIS:10.0 Microsoft ASP.NET Windows Server|403 - Forbidden:...|
+|[https://intern.catalogus.cultureelerfgoed.nl](https://intern.catalogus.cultureelerfgoed.nl)| $${\color{lightgreen}B}$$ |Microsoft-IIS/10.0| | | | | | :white_check_mark: |IIS:10.0 Microsoft ASP.NET Windows Server|403 - Forbidden:...|
 |[https://intranet.cultureelerfgoed.nl](https://intranet.cultureelerfgoed.nl)| $${\color{green}A+}$$ ||:white_check_mark: |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Apache Tomcat Fourthwall:1.0.0 HSTS Java MariaDB Skolengo:1.0.0|Intranet RCE|
 |[https://kennis.cultureelerfgoed.nl](https://kennis.cultureelerfgoed.nl)| $${\color{green}A+}$$ |Apache| |:white_check_mark: | | :white_check_mark: | | :white_check_mark: |Apache HTTP Server HSTS||
 |[https://kennis-staging.cultureelerfgoed.nl](https://kennis-staging.cultureelerfgoed.nl)| $${\color{green}A+}$$ |Apache|:white_check_mark: |:white_check_mark: | | :white_check_mark: | | :white_check_mark: |Apache HTTP Server HSTS||
@@ -41,22 +41,22 @@
 |[https://noaa.cultureelerfgoed.nl](https://noaa.cultureelerfgoed.nl)| $${\color{green}A}$$ |-| |:white_check_mark: | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Microsoft ASP.NET:-|Nationale Onderz...|
 |[https://opendata.cultureelerfgoed.nl](https://opendata.cultureelerfgoed.nl)| $${\color{green}A+}$$ |nginx| |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx||
 |[https://opendata.english.cultureelerfgoed.nl](https://opendata.english.cultureelerfgoed.nl)| $${\color{green}A+}$$ |nginx| |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx||
-|[https://paint.tool.cultureelerfgoed.nl](https://paint.tool.cultureelerfgoed.nl)| $${\color{lightgreen}B}$$ |nginx/1.14.0 (Ub...| |:white_check_mark: | | | | :white_check_mark: |HSTS Nginx:1.14.0 Pure CSS Ubuntu|Modern Paint Dam...|
-|[https://plastic-en.tool.cultureelerfgoed.nl](https://plastic-en.tool.cultureelerfgoed.nl)| $${\color{lightgreen}B}$$ |nginx/1.14.0 (Ub...| |:white_check_mark: | | | | :white_check_mark: |HSTS Nginx:1.14.0 Pure CSS Ubuntu|Plastic Identifi...|
-|[https://plastic.tool.cultureelerfgoed.nl](https://plastic.tool.cultureelerfgoed.nl)| $${\color{lightgreen}B}$$ |nginx/1.14.0 (Ub...| |:white_check_mark: | | | | :white_check_mark: |HSTS Nginx:1.14.0 Pure CSS Ubuntu|Plastic Identifi...|
+|[https://paint.tool.cultureelerfgoed.nl](https://paint.tool.cultureelerfgoed.nl)| $${\color{lightgreen}B}$$ |nginx/1.14.0 (Ubuntu)| |:white_check_mark: | | | | :white_check_mark: |HSTS Nginx:1.14.0 Pure CSS Ubuntu|Modern Paint Dam...|
+|[https://plastic-en.tool.cultureelerfgoed.nl](https://plastic-en.tool.cultureelerfgoed.nl)| $${\color{lightgreen}B}$$ |nginx/1.14.0 (Ubuntu)| |:white_check_mark: | | | | :white_check_mark: |HSTS Nginx:1.14.0 Pure CSS Ubuntu|Plastic Identifi...|
+|[https://plastic.tool.cultureelerfgoed.nl](https://plastic.tool.cultureelerfgoed.nl)| $${\color{lightgreen}B}$$ |nginx/1.14.0 (Ubuntu)| |:white_check_mark: | | | | :white_check_mark: |HSTS Nginx:1.14.0 Pure CSS Ubuntu|Plastic Identifi...|
 |[https://pom.cultureelerfgoed.nl](https://pom.cultureelerfgoed.nl)| $${\color{green}A}$$ |-| |:white_check_mark: | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Microsoft ASP.NET:-|Prospectie op Ma...|
 |[http://sso-staging.subsidie.cultureelerfgoed.nl](http://sso-staging.subsidie.cultureelerfgoed.nl)| || | | | | | :white_check_mark: |||
 |[http://sso.subsidie.cultureelerfgoed.nl](http://sso.subsidie.cultureelerfgoed.nl)| || | | | | | :white_check_mark: |||
-|[https://stuc.tool.cultureelerfgoed.nl](https://stuc.tool.cultureelerfgoed.nl)| $${\color{lightgreen}B}$$ |nginx/1.14.0 (Ub...| |:white_check_mark: | | | | :white_check_mark: |HSTS Nginx:1.14.0 Ubuntu||
-|[https://subsidie.cultureelerfgoed.nl](https://subsidie.cultureelerfgoed.nl)| $${\color{green}A+}$$ |Microsoft-IIS/10...|:warning: |:white_check_mark: | | :white_check_mark: | | :white_check_mark: |HSTS IIS:10.0 Windows Server|Woonhuissubsidie...|
+|[https://stuc.tool.cultureelerfgoed.nl](https://stuc.tool.cultureelerfgoed.nl)| $${\color{lightgreen}B}$$ |nginx/1.14.0 (Ubuntu)| |:white_check_mark: | | | | :white_check_mark: |HSTS Nginx:1.14.0 Ubuntu||
+|[https://subsidie.cultureelerfgoed.nl](https://subsidie.cultureelerfgoed.nl)| $${\color{green}A+}$$ |Microsoft-IIS/10.0|:warning: |:white_check_mark: | | :white_check_mark: | | :white_check_mark: |HSTS IIS:10.0 Windows Server|Woonhuissubsidie...|
 |[https://test.geoservices.cultureelerfgoed.nl](https://test.geoservices.cultureelerfgoed.nl)| $${\color{green}A}$$ |Apache| | | | | | :white_check_mark: |Apache HTTP Server|403 Forbidden|
 |[https://test.kennis.cultureelerfgoed.nl](https://test.kennis.cultureelerfgoed.nl)| $${\color{green}A+}$$ |Apache| |:white_check_mark: | | :white_check_mark: | | :white_check_mark: |Apache HTTP Server HSTS||
 |[https://test.kennis-staging.cultureelerfgoed.nl](https://test.kennis-staging.cultureelerfgoed.nl)| $${\color{green}A+}$$ |Apache|:white_check_mark: |:white_check_mark: | | :white_check_mark: | | :white_check_mark: |Apache HTTP Server HSTS||
 |[https://test.monumentenregister.cultureelerfgoed.nl](https://test.monumentenregister.cultureelerfgoed.nl)| $${\color{lightgreen}B}$$ || | | | | | :white_check_mark: |||
 |[https://thesaurus.cultureelerfgoed.nl](https://thesaurus.cultureelerfgoed.nl)| $${\color{green}A}$$ |-| |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Microsoft ASP.NET:-|RCE Erfgoedthesa...|
-|[https://tst.subsidie.cultureelerfgoed.nl](https://tst.subsidie.cultureelerfgoed.nl)| $${\color{green}A}$$ |Microsoft-IIS/10...|:warning: | | | | | :white_check_mark: |IIS:10.0 Windows Server|SUBS|
+|[https://tst.subsidie.cultureelerfgoed.nl](https://tst.subsidie.cultureelerfgoed.nl)| $${\color{green}A}$$ |Microsoft-IIS/10.0|:warning: | | | | | :white_check_mark: |IIS:10.0 Windows Server|SUBS|
 |[https://veilig.cultureelerfgoed.nl](https://veilig.cultureelerfgoed.nl)| $${\color{lightgreen}B}$$ |nginx| |:white_check_mark: | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: |Drupal:7 HSTS Nginx PHP|Veilig Erfgoed|
-|[https://verf.tool.cultureelerfgoed.nl](https://verf.tool.cultureelerfgoed.nl)| |nginx/1.14.0 (Ub...| | | | | | :white_check_mark: |HSTS Nginx:1.14.0 Ubuntu|301 Moved Perman...|
+|[https://verf.tool.cultureelerfgoed.nl](https://verf.tool.cultureelerfgoed.nl)| |nginx/1.14.0 (Ubuntu)| | | | | | :white_check_mark: |HSTS Nginx:1.14.0 Ubuntu|301 Moved Perman...|
 |[https://wikixl-saml.cultureelerfgoed.nl](https://wikixl-saml.cultureelerfgoed.nl)| $${\color{green}A+}$$ |Apache| |:white_check_mark: | | :white_check_mark: | | :white_check_mark: |Apache HTTP Server HSTS|Redirect|
 |[https://wikixl-saml.test.cultureelerfgoed.nl](https://wikixl-saml.test.cultureelerfgoed.nl)| |Apache| | | | | | :white_check_mark: |Apache HTTP Server|Geregistreerd do...|
 |[https://www.cultureelerfgoed.nl](https://www.cultureelerfgoed.nl)| $${\color{green}A+}$$ |nginx| |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Bloomreach HSTS Nginx|Home | Rijksdien...|

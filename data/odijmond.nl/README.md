@@ -9,7 +9,7 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
-|[http://autodiscover.odijmond.nl](http://autodiscover.odijmond.nl)| |Microsoft-IIS/10...|:white_check_mark: |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |IIS:10.0 Microsoft ASP.NET Windows Server||
+|[http://autodiscover.odijmond.nl](http://autodiscover.odijmond.nl)| |Microsoft-IIS/10.0|:white_check_mark: |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |IIS:10.0 Microsoft ASP.NET Windows Server||
 |[https://open-wave.odijmond.nl](https://open-wave.odijmond.nl)| |Apache|:o: |:white_check_mark: | | | | :white_check_mark: |Apache HTTP Server HSTS PHP||
 |[https://odijmond.nl](https://odijmond.nl)| |-| |:white_check_mark: | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Microsoft ASP.NET:-|Object moved|
 |[https://www.odijmond.nl](https://www.odijmond.nl)| |-| |:white_check_mark: | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Microsoft ASP.NET:-|Homepage - Omgev...|

@@ -30,7 +30,7 @@
 |[https://data.rvo.nl](https://data.rvo.nl)| || |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Drupal HSTS PHP Varnish||
 |[https://dcmp-upnl-idp.rvo.nl](https://dcmp-upnl-idp.rvo.nl)| ||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: |HSTS|404 Not Found|
 |[https://dcmp-upnl-idp-acc.rvo.nl](https://dcmp-upnl-idp-acc.rvo.nl)| ||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: |HSTS|404 Not Found|
-|[http://e-learning.rvo.nl](http://e-learning.rvo.nl)| |Microsoft-HTTPAP...| | | | | | :white_check_mark: |Microsoft HTTPAPI:2.0|Not Found|
+|[http://e-learning.rvo.nl](http://e-learning.rvo.nl)| |Microsoft-HTTPAPI/2.0| | | | | | :white_check_mark: |Microsoft HTTPAPI:2.0|Not Found|
 |[https://economicdiplomacy.rvo.nl](https://economicdiplomacy.rvo.nl)| ||:white_check_mark: |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Apache Tomcat Fourthwall:1.0.0 HSTS Java MariaDB Skolengo:1.0.0|Economic Diploma...|
 |[https://emobility.rvo.nl](https://emobility.rvo.nl)| |nginx| |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx|301 Moved Perman...|
 |[https://energieslag.rvo.nl](https://energieslag.rvo.nl)| ||:white_check_mark: |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS||

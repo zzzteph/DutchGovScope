@@ -15,6 +15,6 @@
 |[https://remote.minfin.nl](https://remote.minfin.nl)| ||:white_check_mark: |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Java|VMware Horizon|
 |[https://schatkistbankieren.minfin.nl](https://schatkistbankieren.minfin.nl)| ||:white_check_mark: |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |||
 |[https://vdi.minfin.nl](https://vdi.minfin.nl)| ||:white_check_mark: |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Java|VMware Horizon|
-|[https://www.minfin.nl](https://www.minfin.nl)| |Microsoft-IIS/10...| |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS IIS:10.0 Windows Server|Document Moved|
-|[https://minfin.nl](https://minfin.nl)| |Microsoft-IIS/10...| |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS IIS:10.0 Windows Server|Document Moved|
+|[https://www.minfin.nl](https://www.minfin.nl)| |Microsoft-IIS/10.0| |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS IIS:10.0 Windows Server|Document Moved|
+|[https://minfin.nl](https://minfin.nl)| |Microsoft-IIS/10.0| |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS IIS:10.0 Windows Server|Document Moved|
 |[https://mijnschatkist.minfin.nl](https://mijnschatkist.minfin.nl)| ||:white_check_mark: |:white_check_mark: | | :white_check_mark: | | :white_check_mark: |HSTS Microsoft ASP.NET|Schatkistbankier...|

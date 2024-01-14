@@ -12,6 +12,6 @@
 |[https://ondernemersplein.nl](https://ondernemersplein.nl)| || |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS||
 |[https://api.ondernemersplein.nl](https://api.ondernemersplein.nl)| || |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS||
 |[https://www.ondernemersplein.nl](https://www.ondernemersplein.nl)| || |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS||
-|[https://opendata.ondernemersplein.nl](https://opendata.ondernemersplein.nl)| |Microsoft-IIS/10...| |:white_check_mark: | | | | :white_check_mark: |HSTS IIS:10.0 Windows Server||
-|[https://opendata.acp.ondernemersplein.nl](https://opendata.acp.ondernemersplein.nl)| |Microsoft-IIS/10...| |:white_check_mark: | | | | :white_check_mark: |HSTS IIS:10.0 Windows Server||
-|[http://autodiscover.ondernemersplein.nl](http://autodiscover.ondernemersplein.nl)| |Microsoft-IIS/10...|:white_check_mark: |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |IIS:10.0 Microsoft ASP.NET Windows Server||
+|[https://opendata.ondernemersplein.nl](https://opendata.ondernemersplein.nl)| |Microsoft-IIS/10.0| |:white_check_mark: | | | | :white_check_mark: |HSTS IIS:10.0 Windows Server||
+|[https://opendata.acp.ondernemersplein.nl](https://opendata.acp.ondernemersplein.nl)| |Microsoft-IIS/10.0| |:white_check_mark: | | | | :white_check_mark: |HSTS IIS:10.0 Windows Server||
+|[http://autodiscover.ondernemersplein.nl](http://autodiscover.ondernemersplein.nl)| |Microsoft-IIS/10.0|:white_check_mark: |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |IIS:10.0 Microsoft ASP.NET Windows Server||

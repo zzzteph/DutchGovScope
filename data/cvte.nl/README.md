@@ -11,8 +11,8 @@
 |------------|-------|------|------|------|------|------|------|------|------|------|
 |[https://examenplein.cvte.nl](https://examenplein.cvte.nl)| $${\color{green}A+}$$ |Apache|:white_check_mark: |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Apache HTTP Server HSTS||
 |[https://feeds.cvte.nl](https://feeds.cvte.nl)| $${\color{green}A+}$$ |nginx| |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx||
-|[https://mx2.cvte.nl](https://mx2.cvte.nl)| |Microsoft-IIS/10...| | | | | | :white_check_mark: |IIS:10.0 Windows Server||
+|[https://mx2.cvte.nl](https://mx2.cvte.nl)| |Microsoft-IIS/10.0| | | | | | :white_check_mark: |IIS:10.0 Windows Server||
 |[https://opendata.cvte.nl](https://opendata.cvte.nl)| $${\color{green}A+}$$ |nginx| |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx||
 |[https://www.cvte.nl](https://www.cvte.nl)| $${\color{green}A+}$$ |nginx| |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Bloomreach HSTS Nginx|College voor Toe...|
 |[https://cvte.nl](https://cvte.nl)| $${\color{green}A+}$$ |nginx| |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx|301 Moved Perman...|
-|[https://autodiscover.cvte.nl](https://autodiscover.cvte.nl)| |Microsoft-IIS/10...| | | | :white_check_mark: | | :white_check_mark: |IIS:10.0 Windows Server||
+|[https://autodiscover.cvte.nl](https://autodiscover.cvte.nl)| |Microsoft-IIS/10.0| | | | :white_check_mark: | | :white_check_mark: |IIS:10.0 Windows Server||

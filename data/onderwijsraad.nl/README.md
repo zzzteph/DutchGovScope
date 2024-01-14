@@ -11,9 +11,9 @@
 |------------|-------|------|------|------|------|------|------|------|------|------|
 |[https://feeds.onderwijsraad.nl](https://feeds.onderwijsraad.nl)| |nginx| |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx||
 |[https://opendata.onderwijsraad.nl](https://opendata.onderwijsraad.nl)| |nginx| |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx||
-|[https://ts.onderwijsraad.nl](https://ts.onderwijsraad.nl)| |Microsoft-IIS/10...| | | | | | :white_check_mark: |IIS:10.0 Windows Server||
-|[https://outbound.onderwijsraad.nl](https://outbound.onderwijsraad.nl)| |Microsoft-IIS/10...| | | | | | :white_check_mark: |IIS:10.0 Windows Server||
+|[https://ts.onderwijsraad.nl](https://ts.onderwijsraad.nl)| |Microsoft-IIS/10.0| | | | | | :white_check_mark: |IIS:10.0 Windows Server||
+|[https://outbound.onderwijsraad.nl](https://outbound.onderwijsraad.nl)| |Microsoft-IIS/10.0| | | | | | :white_check_mark: |IIS:10.0 Windows Server||
 |[https://extranet.onderwijsraad.nl](https://extranet.onderwijsraad.nl)| |cloudflare|:warning: | | | :white_check_mark: | | :white_check_mark: |Cloudflare HTTP/3 Kinsta WordPress||
-|[https://pushmail.onderwijsraad.nl](https://pushmail.onderwijsraad.nl)| |Microsoft-IIS/10...| | | | :white_check_mark: | | :white_check_mark: |IIS:10.0 Windows Server||
+|[https://pushmail.onderwijsraad.nl](https://pushmail.onderwijsraad.nl)| |Microsoft-IIS/10.0| | | | :white_check_mark: | | :white_check_mark: |IIS:10.0 Windows Server||
 |[https://www.onderwijsraad.nl](https://www.onderwijsraad.nl)| |nginx| |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Bloomreach HSTS Nginx|Home | Onderwijs...|
 |[https://onderwijsraad.nl](https://onderwijsraad.nl)| |nginx| |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx|301 Moved Perman...|

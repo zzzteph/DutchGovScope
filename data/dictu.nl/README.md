@@ -20,9 +20,9 @@
 |[https://auth-tst.dictu.nl](https://auth-tst.dictu.nl)| || | | | | | :white_check_mark: |HSTS|302 Found|
 |[https://avd.webftp.dictu.nl](https://avd.webftp.dictu.nl)| || | | | | | :white_check_mark: |Basic|Unauthorized|
 |[https://bpp.webftp.dictu.nl](https://bpp.webftp.dictu.nl)| || | | | | | :white_check_mark: ||Redirect|
-|[http://c-pki.dictu.nl](http://c-pki.dictu.nl)| |Microsoft-IIS/8....| | | | | | :white_check_mark: |IIS:8.5 Windows Server|c-pki.dictu.nl -...|
+|[http://c-pki.dictu.nl](http://c-pki.dictu.nl)| |Microsoft-IIS/8.5| | | | | | :white_check_mark: |IIS:8.5 Windows Server|c-pki.dictu.nl -...|
 |[http://c-pki-acc.dictu.nl](http://c-pki-acc.dictu.nl)| || | | | :white_check_mark: | | :white_check_mark: ||c-pki-acc.dictu....|
-|[http://c-pki.extranet.dictu.nl](http://c-pki.extranet.dictu.nl)| |Microsoft-IIS/8....| | | | | | :white_check_mark: |IIS:8.5 Windows Server|c-pki.extranet.d...|
+|[http://c-pki.extranet.dictu.nl](http://c-pki.extranet.dictu.nl)| |Microsoft-IIS/8.5| | | | | | :white_check_mark: |IIS:8.5 Windows Server|c-pki.extranet.d...|
 |[https://cbo.dictu.nl](https://cbo.dictu.nl)| || |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |||
 |[https://cbo-a.dictu.nl](https://cbo-a.dictu.nl)| || |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |||
 |[https://cbo-b.dictu.nl](https://cbo-b.dictu.nl)| || |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |||
@@ -46,14 +46,14 @@
 |[https://pms-acc.dictu.nl](https://pms-acc.dictu.nl)| ||:white_check_mark: |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Microsoft ASP.NET||
 |[https://procesweb-test.dictu.nl](https://procesweb-test.dictu.nl)| |awselb/2.0|:white_check_mark: | | :white_check_mark:| | | :white_check_mark: |Amazon ELB Amazon Web Services HSTS||
 |[https://prod.dictu.nl](https://prod.dictu.nl)| |nginx| | | | | | :white_check_mark: |Nginx|403 Forbidden|
-|[http://rijkspas2ocsp.dictu.nl](http://rijkspas2ocsp.dictu.nl)| |Microsoft-IIS/8....| | | | :white_check_mark: | | :white_check_mark: |IIS:8.5 Windows Server|403 - Forbidden:...|
-|[http://rijkspas2ocsp.extranet.dictu.nl](http://rijkspas2ocsp.extranet.dictu.nl)| |Microsoft-IIS/8....| | | | :white_check_mark: | | :white_check_mark: |IIS:8.5 Windows Server|403 - Forbidden:...|
-|[http://rijkspascp.extranet.dictu.nl](http://rijkspascp.extranet.dictu.nl)| |Microsoft-IIS/8....| | | | | | :white_check_mark: |IIS:8.5 Windows Server|rijkspascp.extra...|
-|[http://rijkspascrlcert1.extranet.dictu.nl](http://rijkspascrlcert1.extranet.dictu.nl)| |Microsoft-IIS/8....| | | | | | :white_check_mark: |IIS:8.5 Windows Server|rijkspascrlcert1...|
-|[http://rijkspascrlcert2.dictu.nl](http://rijkspascrlcert2.dictu.nl)| |Microsoft-IIS/8....| | | | | | :white_check_mark: |IIS:8.5 Windows Server|rijkspascrlcert2...|
+|[http://rijkspas2ocsp.dictu.nl](http://rijkspas2ocsp.dictu.nl)| |Microsoft-IIS/8.5| | | | :white_check_mark: | | :white_check_mark: |IIS:8.5 Windows Server|403 - Forbidden:...|
+|[http://rijkspas2ocsp.extranet.dictu.nl](http://rijkspas2ocsp.extranet.dictu.nl)| |Microsoft-IIS/8.5| | | | :white_check_mark: | | :white_check_mark: |IIS:8.5 Windows Server|403 - Forbidden:...|
+|[http://rijkspascp.extranet.dictu.nl](http://rijkspascp.extranet.dictu.nl)| |Microsoft-IIS/8.5| | | | | | :white_check_mark: |IIS:8.5 Windows Server|rijkspascp.extra...|
+|[http://rijkspascrlcert1.extranet.dictu.nl](http://rijkspascrlcert1.extranet.dictu.nl)| |Microsoft-IIS/8.5| | | | | | :white_check_mark: |IIS:8.5 Windows Server|rijkspascrlcert1...|
+|[http://rijkspascrlcert2.dictu.nl](http://rijkspascrlcert2.dictu.nl)| |Microsoft-IIS/8.5| | | | | | :white_check_mark: |IIS:8.5 Windows Server|rijkspascrlcert2...|
 |[http://rijkspascrlcert2-acc.dictu.nl](http://rijkspascrlcert2-acc.dictu.nl)| || | | | :white_check_mark: | | :white_check_mark: ||rijkspascrlcert2...|
-|[http://rijkspasocsp1.extranet.dictu.nl](http://rijkspasocsp1.extranet.dictu.nl)| |Microsoft-IIS/8....| | | | :white_check_mark: | | :white_check_mark: |IIS:8.5 Windows Server|403 - Forbidden:...|
-|[http://rijkspasocsp2.dictu.nl](http://rijkspasocsp2.dictu.nl)| |Microsoft-IIS/8....| | | | :white_check_mark: | | :white_check_mark: |IIS:8.5 Windows Server|403 - Forbidden:...|
+|[http://rijkspasocsp1.extranet.dictu.nl](http://rijkspasocsp1.extranet.dictu.nl)| |Microsoft-IIS/8.5| | | | :white_check_mark: | | :white_check_mark: |IIS:8.5 Windows Server|403 - Forbidden:...|
+|[http://rijkspasocsp2.dictu.nl](http://rijkspasocsp2.dictu.nl)| |Microsoft-IIS/8.5| | | | :white_check_mark: | | :white_check_mark: |IIS:8.5 Windows Server|403 - Forbidden:...|
 |[http://rijkspasocsp2-acc.dictu.nl](http://rijkspasocsp2-acc.dictu.nl)| || | | | :white_check_mark: | | :white_check_mark: ||403 - Forbidden:...|
 |[https://servicedesk.dictu.nl](https://servicedesk.dictu.nl)| |nginx| | | | | | :white_check_mark: |Nginx|403 Forbidden|
 |[https://sfs.dictu.nl](https://sfs.dictu.nl)| |Seclore Server| | | | | | :white_check_mark: |Java||
@@ -69,7 +69,7 @@
 |[https://webftp.dictu.nl](https://webftp.dictu.nl)| || | | | | | :white_check_mark: ||Redirect|
 |[https://wifi.dictu.nl](https://wifi.dictu.nl)| ||:warning: |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS|Redirecting to h...|
 |[https://www.dictu.nl](https://www.dictu.nl)| |nginx| |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Drupal HSTS Nginx PHP|Home | Dictu.nl|
-|[https://snow-cw.dictu.nl](https://snow-cw.dictu.nl)| |Microsoft-HTTPAP...| | | | | | :white_check_mark: |Microsoft HTTPAPI:2.0||
+|[https://snow-cw.dictu.nl](https://snow-cw.dictu.nl)| |Microsoft-HTTPAPI/2.0| | | | | | :white_check_mark: |Microsoft HTTPAPI:2.0||
 |[https://dictu.nl](https://dictu.nl)| |nginx| |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Drupal HSTS Nginx PHP|Home | Dictu.nl|
 |[https://auth20.dictu.nl](https://auth20.dictu.nl)| || | | | | | :white_check_mark: |HSTS|302 Found|
 |[https://procesweb.dictu.nl](https://procesweb.dictu.nl)| |awselb/2.0|:white_check_mark: | | :white_check_mark:| | | :white_check_mark: |Amazon ELB Amazon Web Services HSTS||

@@ -18,11 +18,11 @@
 |[https://loket.hdsr.nl](https://loket.hdsr.nl)| |Apache| |:white_check_mark: | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: |Apache HTTP Server HSTS|302 Found|
 |[https://uconnect.hdsr.nl](https://uconnect.hdsr.nl)| |Apache| | | | | | :white_check_mark: |Apache HTTP Server|403 Forbidden|
 |[https://webservices.hdsr.nl](https://webservices.hdsr.nl)| |Apache| | | | | | :white_check_mark: |Apache HTTP Server|403 Forbidden|
-|[http://autodiscover.hdsr.nl](http://autodiscover.hdsr.nl)| |Microsoft-IIS/10...|:white_check_mark: |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |IIS:10.0 Microsoft ASP.NET Windows Server||
+|[http://autodiscover.hdsr.nl](http://autodiscover.hdsr.nl)| |Microsoft-IIS/10.0|:white_check_mark: |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |IIS:10.0 Microsoft ASP.NET Windows Server||
 |[https://mrb.hdsr.nl](https://mrb.hdsr.nl)| |Apache| | | | | | :white_check_mark: |Apache HTTP Server|403 Forbidden|
 |[https://testkennis.hdsr.nl](https://testkennis.hdsr.nl)| |Apache| |:white_check_mark: | | :white_check_mark: | | :white_check_mark: |Apache HTTP Server HSTS||
 |[https://geoweb.hdsr.nl](https://geoweb.hdsr.nl)| |Apache| | | | | | :white_check_mark: |Apache HTTP Server|403 Forbidden|
-|[http://www1.hdsr.nl](http://www1.hdsr.nl)| |Microsoft-HTTPAP...| | | | | | :white_check_mark: |Microsoft HTTPAPI:2.0|Not Found|
+|[http://www1.hdsr.nl](http://www1.hdsr.nl)| |Microsoft-HTTPAPI/2.0| | | | | | :white_check_mark: |Microsoft HTTPAPI:2.0|Not Found|
 |[https://kennis.hdsr.nl](https://kennis.hdsr.nl)| |Apache| |:white_check_mark: | | :white_check_mark: | | :white_check_mark: |Apache HTTP Server HSTS||
 |[https://kaarten.hdsr.nl](https://kaarten.hdsr.nl)| |Apache| | | | | | :white_check_mark: |Apache HTTP Server|403 Forbidden|
 |[https://begrippen.hdsr.nl](https://begrippen.hdsr.nl)| |Apache| |:white_check_mark: | | :white_check_mark: | | :white_check_mark: |Apache HTTP Server HSTS||

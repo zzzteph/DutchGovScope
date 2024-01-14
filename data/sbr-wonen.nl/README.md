@@ -9,7 +9,7 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://definities.sbr-wonen.nl](https://definities.sbr-wonen.nl)| |nginx/1.14.0 (Ub...|:white_check_mark: |:white_check_mark: |:warning: | | :white_check_mark: | :white_check_mark: |Nginx:1.14.0 Ubuntu|301 Moved Perman...|
+|[https://definities.sbr-wonen.nl](https://definities.sbr-wonen.nl)| |nginx/1.14.0 (Ubuntu)|:white_check_mark: |:white_check_mark: |:warning: | | :white_check_mark: | :white_check_mark: |Nginx:1.14.0 Ubuntu|301 Moved Perman...|
 |[https://dpi.sbr-wonen.nl](https://dpi.sbr-wonen.nl)| |istio-envoy| |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Amazon Web Services Envoy HSTS|Serviceportaal|
 |[https://dpi-acc.sbr-wonen.nl](https://dpi-acc.sbr-wonen.nl)| |istio-envoy| |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Amazon Web Services Envoy HSTS|Serviceportaal|
 |[https://hostmaster.sbr-wonen.nl](https://hostmaster.sbr-wonen.nl)| |Apache/2| | | | | | :white_check_mark: |Apache HTTP Server:2||

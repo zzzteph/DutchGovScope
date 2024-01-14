@@ -21,7 +21,7 @@
 |[https://yivi.proeftuin.uzi-online.rdobeheer.nl](https://yivi.proeftuin.uzi-online.rdobeheer.nl)| ||:warning: |:white_check_mark: | :white_check_mark:| :white_check_mark: | | :white_check_mark: |HSTS|YIVI Disclosure|
 |[https://proeftuin.uzi-online.rdobeheer.nl](https://proeftuin.uzi-online.rdobeheer.nl)| |Apache| |:white_check_mark: | :white_check_mark:| :white_check_mark: | | :white_check_mark: |Apache HTTP Server Basic HSTS|401 Unauthorized|
 |[https://oidc.proeftuin.uzi-online.rdobeheer.nl](https://oidc.proeftuin.uzi-online.rdobeheer.nl)| || |:white_check_mark: | :white_check_mark:| :white_check_mark: | | :white_check_mark: |HSTS||
-|[https://collabora.acc.rdobeheer.nl](https://collabora.acc.rdobeheer.nl)| |COOLWSD HTTP Ser...| | | | | | :white_check_mark: |||
+|[https://collabora.acc.rdobeheer.nl](https://collabora.acc.rdobeheer.nl)| |COOLWSD HTTP Server 23.05.6.5| | | | | | :white_check_mark: |||
 |[https://balie.acc.woo.rdobeheer.nl](https://balie.acc.woo.rdobeheer.nl)| |Apache| |:white_check_mark: | | :white_check_mark: | | :white_check_mark: |Apache HTTP Server Basic HSTS|401 Unauthorized|
 |[https://nextcloud.acc.rdobeheer.nl](https://nextcloud.acc.rdobeheer.nl)| ||:white_check_mark: |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nextcloud PHP||
 |[https://mailcatch.acc.rdobeheer.nl](https://mailcatch.acc.rdobeheer.nl)| || |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |Basic HSTS|401 Unauthorized|

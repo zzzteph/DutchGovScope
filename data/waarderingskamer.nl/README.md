@@ -9,9 +9,9 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://autodiscover.waarderingskamer.nl](https://autodiscover.waarderingskamer.nl)| |Microsoft-IIS/10...| | | | :white_check_mark: | | :white_check_mark: |IIS:10.0 Windows Server||
-|[https://download.waarderingskamer.nl](https://download.waarderingskamer.nl)| |Microsoft-IIS/10...| | | | :white_check_mark: | | :white_check_mark: |IIS:10.0 Windows Server||
-|[https://exchange.waarderingskamer.nl](https://exchange.waarderingskamer.nl)| |Microsoft-IIS/10...| | | | :white_check_mark: | | :white_check_mark: |IIS:10.0 Windows Server||
+|[https://autodiscover.waarderingskamer.nl](https://autodiscover.waarderingskamer.nl)| |Microsoft-IIS/10.0| | | | :white_check_mark: | | :white_check_mark: |IIS:10.0 Windows Server||
+|[https://download.waarderingskamer.nl](https://download.waarderingskamer.nl)| |Microsoft-IIS/10.0| | | | :white_check_mark: | | :white_check_mark: |IIS:10.0 Windows Server||
+|[https://exchange.waarderingskamer.nl](https://exchange.waarderingskamer.nl)| |Microsoft-IIS/10.0| | | | :white_check_mark: | | :white_check_mark: |IIS:10.0 Windows Server||
 |[https://gemeenteportaal.waarderingskamer.nl](https://gemeenteportaal.waarderingskamer.nl)| |wdk| |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS||
 |[https://mijn.waarderingskamer.nl](https://mijn.waarderingskamer.nl)| |nginx|:o: |:white_check_mark: |:warning: | :white_check_mark: | | :white_check_mark: |HSTS Microsoft ASP.NET Nginx|Mijn Waarderings...|
 |[http://wem-live.waarderingskamer.nl](http://wem-live.waarderingskamer.nl)| || | | | | | :white_check_mark: ||302 Found|

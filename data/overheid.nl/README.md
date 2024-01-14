@@ -224,9 +224,9 @@
 |[https://static.mijn.overheid.nl](https://static.mijn.overheid.nl)| |nginx| |:white_check_mark: | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx||
 |[https://static.preprod.mijn.overheid.nl](https://static.preprod.mijn.overheid.nl)| |nginx| |:white_check_mark: | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx||
 |[https://statistiek.mijn.overheid.nl](https://statistiek.mijn.overheid.nl)| |nginx| |:white_check_mark: | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx|302 Found|
-|[https://status.dmo.omgevingswet.overheid.nl](https://status.dmo.omgevingswet.overheid.nl)| |openresty/1.19.3...| |:white_check_mark: | | | :white_check_mark: | :white_check_mark: |HSTS Nginx OpenResty:1.19.3.2 Ruby Ruby on Rails Stimulus|DSO-LV Demo stat...|
-|[https://status.omgevingswet.overheid.nl](https://status.omgevingswet.overheid.nl)| |openresty/1.19.3...| |:white_check_mark: | | | :white_check_mark: | :white_check_mark: |HSTS Nginx OpenResty:1.19.3.2 Ruby Ruby on Rails Stimulus|DSO-LV Productie...|
-|[https://status.pre.omgevingswet.overheid.nl](https://status.pre.omgevingswet.overheid.nl)| |openresty/1.19.3...| |:white_check_mark: | | | :white_check_mark: | :white_check_mark: |HSTS Nginx OpenResty:1.19.3.2 Ruby Ruby on Rails Stimulus|DSO-LV Pre-produ...|
+|[https://status.dmo.omgevingswet.overheid.nl](https://status.dmo.omgevingswet.overheid.nl)| |openresty/1.19.3.2| |:white_check_mark: | | | :white_check_mark: | :white_check_mark: |HSTS Nginx OpenResty:1.19.3.2 Ruby Ruby on Rails Stimulus|DSO-LV Demo stat...|
+|[https://status.omgevingswet.overheid.nl](https://status.omgevingswet.overheid.nl)| |openresty/1.19.3.2| |:white_check_mark: | | | :white_check_mark: | :white_check_mark: |HSTS Nginx OpenResty:1.19.3.2 Ruby Ruby on Rails Stimulus|DSO-LV Productie...|
+|[https://status.pre.omgevingswet.overheid.nl](https://status.pre.omgevingswet.overheid.nl)| |openresty/1.19.3.2| |:white_check_mark: | | | :white_check_mark: | :white_check_mark: |HSTS Nginx OpenResty:1.19.3.2 Ruby Ruby on Rails Stimulus|DSO-LV Pre-produ...|
 |[https://stcrtin.overheid.nl](https://stcrtin.overheid.nl)| || |:white_check_mark: | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS|Object moved|
 |[https://stelselcatalogus.acc.omgevingswet.overheid.nl](https://stelselcatalogus.acc.omgevingswet.overheid.nl)| |Unspecified| |:white_check_mark: | | | | :white_check_mark: |HSTS||
 |[https://stelselcatalogus.dmo.omgevingswet.overheid.nl](https://stelselcatalogus.dmo.omgevingswet.overheid.nl)| |unspecified| |:white_check_mark: |:warning: | :white_check_mark: | | :white_check_mark: |HSTS|Stelselcatalogus...|
@@ -237,7 +237,7 @@
 |[https://stelselcatalogus.pre.omgevingswet.overheid.nl](https://stelselcatalogus.pre.omgevingswet.overheid.nl)| |unspecified| |:white_check_mark: |:warning: | :white_check_mark: | | :white_check_mark: |HSTS|Stelselcatalogus...|
 |[https://stijl.mijn.overheid.nl](https://stijl.mijn.overheid.nl)| |nginx| |:white_check_mark: | | | | :white_check_mark: |HSTS Nginx|Webpack App|
 |[https://stijlgids.overheid.nl](https://stijlgids.overheid.nl)| || | | | | | :white_check_mark: |HSTS|URI - Performer...|
-|[https://sts.koop.overheid.nl](https://sts.koop.overheid.nl)| |Microsoft-HTTPAP...| | | | | | :white_check_mark: |Microsoft HTTPAPI:2.0|Not Found|
+|[https://sts.koop.overheid.nl](https://sts.koop.overheid.nl)| |Microsoft-HTTPAPI/2.0| | | | | | :white_check_mark: |Microsoft HTTPAPI:2.0|Not Found|
 |[https://stub.demo.mijn.overheid.nl](https://stub.demo.mijn.overheid.nl)| |nginx| |:white_check_mark: | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: |Nginx|301 Moved Perman...|
 |[https://technische-documentatie.oep.overheid.nl](https://technische-documentatie.oep.overheid.nl)| || |:white_check_mark: | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS|403 - Forbidden:...|
 |[https://test-internationaal.ondernemen.overheid.nl](https://test-internationaal.ondernemen.overheid.nl)| |nginx| | | | | | :white_check_mark: |Nginx|403 Forbidden|

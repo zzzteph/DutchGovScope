@@ -15,9 +15,9 @@
 |[https://imaer.aerius.nl](https://imaer.aerius.nl)| |AmazonS3| | | | | | :white_check_mark: |Amazon CloudFront Amazon S3 Amazon Web Services HTTP/3||
 |[https://mattermost.aerius.nl](https://mattermost.aerius.nl)| || | | :white_check_mark:| :white_check_mark: | | :white_check_mark: ||Mattermost|
 |[https://mgmt.aerius.nl](https://mgmt.aerius.nl)| |Jetty(10.0.18)|:white_check_mark: | | | | | :white_check_mark: |Java Jenkins:2.426.2 Jetty:10.0.18||
-|[https://monitor.aerius.nl](https://monitor.aerius.nl)| |Jetty(9.4.18.v20...| | | | | | :white_check_mark: |Java Jekyll:4.0.0 Jetty:9.4.18 Ruby|Over AERIUS Moni...|
-|[https://nexus.aerius.nl](https://nexus.aerius.nl)| |Nexus/3.63.0-01...| | | | :white_check_mark: | :white_check_mark: | :white_check_mark: ||Sonatype Nexus R...|
-|[https://nexus-docker.aerius.nl](https://nexus-docker.aerius.nl)| |Jetty(9.4.53.v20...| | | | | | :white_check_mark: |Java Jetty:9.4.53|Error 400 Not a...|
+|[https://monitor.aerius.nl](https://monitor.aerius.nl)| |Jetty(9.4.18.v20190429)| | | | | | :white_check_mark: |Java Jekyll:4.0.0 Jetty:9.4.18 Ruby|Over AERIUS Moni...|
+|[https://nexus.aerius.nl](https://nexus.aerius.nl)| |Nexus/3.63.0-01 (OSS)| | | | :white_check_mark: | :white_check_mark: | :white_check_mark: ||Sonatype Nexus R...|
+|[https://nexus-docker.aerius.nl](https://nexus-docker.aerius.nl)| |Jetty(9.4.53.v20231009)| | | | | | :white_check_mark: |Java Jetty:9.4.53|Error 400 Not a...|
 |[https://pdok.aerius.nl](https://pdok.aerius.nl)| |Apache| |:white_check_mark: | | | | :white_check_mark: |Apache HTTP Server HSTS|403 Forbidden|
 |[https://regionaal-register.aerius.nl](https://regionaal-register.aerius.nl)| |awselb/2.0| | | | | | :white_check_mark: |Amazon ELB Amazon Web Services||
 |[https://register.aerius.nl](https://register.aerius.nl)| |nginx/1.25.2| | | | | | :white_check_mark: |Nginx:1.25.2||

@@ -10,7 +10,7 @@
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
 |[http://acceptatie.loketgezondleven.nl](http://acceptatie.loketgezondleven.nl)| || | | | | | :white_check_mark: |||
-|[https://interventies.loketgezondleven.nl](https://interventies.loketgezondleven.nl)| |Apache/2.4.34 (R...| |:white_check_mark: | | :white_check_mark: | | :white_check_mark: |Apache HTTP Server:2.4.34 Drupal HSTS PHP:7.3.33 Red Hat|Atlasinfectiezie...|
+|[https://interventies.loketgezondleven.nl](https://interventies.loketgezondleven.nl)| |Apache/2.4.34 (Red Hat) PHP/7.3.33| |:white_check_mark: | | :white_check_mark: | | :white_check_mark: |Apache HTTP Server:2.4.34 Drupal HSTS PHP:7.3.33 Red Hat|Atlasinfectiezie...|
 |[https://prerelease.loketgezondleven.nl](https://prerelease.loketgezondleven.nl)| |Apache| | | | | | :white_check_mark: |Apache HTTP Server HSTS|webserver|
 |[https://test.loketgezondleven.nl](https://test.loketgezondleven.nl)| ||:warning: |:white_check_mark: | | | | :white_check_mark: |F5 BigIP HSTS||
 |[https://toolkits.loketgezondleven.nl](https://toolkits.loketgezondleven.nl)| || | | | | | :white_check_mark: |HSTS Varnish||

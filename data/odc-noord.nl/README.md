@@ -9,7 +9,7 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://acc.iaas-portal.odc-noord.nl](https://acc.iaas-portal.odc-noord.nl)| |Apache/2.4.37 (R...| |:white_check_mark: | | | | :white_check_mark: |AngularJS Apache HTTP Server:2.4.37 HSTS OpenSSL:1.1.1k Red Hat||
+|[https://acc.iaas-portal.odc-noord.nl](https://acc.iaas-portal.odc-noord.nl)| |Apache/2.4.37 (Red Hat Enterprise Linux) OpenSSL/1.1.1k| |:white_check_mark: | | | | :white_check_mark: |AngularJS Apache HTTP Server:2.4.37 HSTS OpenSSL:1.1.1k Red Hat||
 |[https://acc.login.odc-noord.nl](https://acc.login.odc-noord.nl)| || |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS||
 |[https://acc.paas-portal.odc-noord.nl](https://acc.paas-portal.odc-noord.nl)| || |:white_check_mark: |:warning: | :white_check_mark: | | :white_check_mark: |AngularJS HSTS||
 |[https://admin-iam.odc-noord.nl](https://admin-iam.odc-noord.nl)| || | | | | | :white_check_mark: ||ODC-Noord | (403...|
@@ -90,7 +90,7 @@
 |[https://terraform.odc-noord.nl](https://terraform.odc-noord.nl)| || | | | | | :white_check_mark: ||ODC-Noord | (403...|
 |[https://topdesk.odc-noord.nl](https://topdesk.odc-noord.nl)| || | | | | | :white_check_mark: |||
 |[https://vpn.a4.odc-noord.nl](https://vpn.a4.odc-noord.nl)| |OpenVPN-AS| | | | :white_check_mark: | | :white_check_mark: |||
-|[https://vpn.bzkdgvbrnpr.odc-noord.nl](https://vpn.bzkdgvbrnpr.odc-noord.nl)| |TwistedWeb/20.3....| | | | | | :white_check_mark: |TwistedWeb:20.3.0||
+|[https://vpn.bzkdgvbrnpr.odc-noord.nl](https://vpn.bzkdgvbrnpr.odc-noord.nl)| |TwistedWeb/20.3.0dev0| | | | | | :white_check_mark: |TwistedWeb:20.3.0||
 |[https://vpn.bzknpr.odc-noord.nl](https://vpn.bzknpr.odc-noord.nl)| |OpenVPN-AS| | | | :white_check_mark: | | :white_check_mark: |||
 |[https://vpn.bzkprd.odc-noord.nl](https://vpn.bzkprd.odc-noord.nl)| |OpenVPN-AS| | | | | | :white_check_mark: |||
 |[https://vpn.gn2.koop-a.odc-noord.nl](https://vpn.gn2.koop-a.odc-noord.nl)| |OpenVPN-AS| | | | | | :white_check_mark: |||
@@ -99,7 +99,7 @@
 |[https://vpn.rvb.odc-noord.nl](https://vpn.rvb.odc-noord.nl)| |OpenVPN-AS| | | | | | :white_check_mark: |||
 |[https://vws-acc.jira.odc-noord.nl](https://vws-acc.jira.odc-noord.nl)| ||:warning: |:white_check_mark: | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Java||
 |[https://vws-prd.jira.odc-noord.nl](https://vws-prd.jira.odc-noord.nl)| ||:warning: |:white_check_mark: | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Java||
-|[https://www.odc-noord.nl](https://www.odc-noord.nl)| |WSGIServer/0.2 C...| |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |Bootstrap HSTS|Home|
+|[https://www.odc-noord.nl](https://www.odc-noord.nl)| |WSGIServer/0.2 CPython/3.8.13| |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |Bootstrap HSTS|Home|
 |[https://vpn.gn2.koop-pp.odc-noord.nl](https://vpn.gn2.koop-pp.odc-noord.nl)| |OpenVPN-AS| | | | | | :white_check_mark: |||
 |[https://odc-noord.nl](https://odc-noord.nl)| |Apache| |:white_check_mark: | | | | :white_check_mark: |Apache HTTP Server HSTS||
 |[https://vpn.ocw.odc-noord.nl](https://vpn.ocw.odc-noord.nl)| |OpenVPN-AS| | | | | | :white_check_mark: |||
