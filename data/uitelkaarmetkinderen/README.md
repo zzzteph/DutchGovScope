@@ -9,7 +9,7 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |
 |------------|-------|------|------|------|------|------|------|------|------|
-|[https://www.uitelkaarmetkinderen.nl](https://www.uitelkaarmetkinderen.nl)| |nginx| |:white_check_mark: | |:warning: |:white_check_mark: | |:white_check_mark: | |:white_check_mark: | |Bloomreach HSTS Ngin...| |
-|[https://uitelkaarmetkinderen.nl](https://uitelkaarmetkinderen.nl)| |nginx| |:white_check_mark: | |:warning: |:white_check_mark: | |:white_check_mark: | |:white_check_mark: | |HSTS Nginx| |
-|[https://feeds.uitelkaarmetkinderen.nl](https://feeds.uitelkaarmetkinderen.nl)| |nginx| |:white_check_mark: | | |:white_check_mark: | |:white_check_mark: | |:white_check_mark: | |HSTS Nginx| |
-|[https://opendata.uitelkaarmetkinderen.nl](https://opendata.uitelkaarmetkinderen.nl)| |nginx| |:white_check_mark: | | |:white_check_mark: | |:white_check_mark: | |:white_check_mark: | |HSTS Nginx| |
+|[https://www.uitelkaarmetkinderen.nl](https://www.uitelkaarmetkinderen.nl)| |nginx| |:white_check_mark: | |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Bloomreach HSTS Ngin...|
+|[https://uitelkaarmetkinderen.nl](https://uitelkaarmetkinderen.nl)| |nginx| |:white_check_mark: | |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx|
+|[https://feeds.uitelkaarmetkinderen.nl](https://feeds.uitelkaarmetkinderen.nl)| |nginx| |:white_check_mark: | | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx|
+|[https://opendata.uitelkaarmetkinderen.nl](https://opendata.uitelkaarmetkinderen.nl)| |nginx| |:white_check_mark: | | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx|

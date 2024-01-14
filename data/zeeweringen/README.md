@@ -9,8 +9,8 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |
 |------------|-------|------|------|------|------|------|------|------|------|
-|[https://mail.zeeweringen.nl](https://mail.zeeweringen.nl)| | | | | | | |:white_check_mark: | |Nginx:1.24.0| |
-|[https://www.zeeweringen.nl](https://www.zeeweringen.nl)| |nginx/1.24.0| | | | | |:white_check_mark: | |Nginx:1.24.0| |
-|[https://ww2.zeeweringen.nl](https://ww2.zeeweringen.nl)| | | | | | | |:white_check_mark: | |Nginx:1.24.0| |
-|[https://conferentie.zeeweringen.nl](https://conferentie.zeeweringen.nl)| | | | | | | |:white_check_mark: | |Nginx:1.24.0| |
-|[https://zeeweringen.nl](https://zeeweringen.nl)| |nginx/1.24.0| | | | | |:white_check_mark: | |Nginx:1.24.0| |
+|[https://mail.zeeweringen.nl](https://mail.zeeweringen.nl)| | | | | | | |:white_check_mark: |Nginx:1.24.0|
+|[https://www.zeeweringen.nl](https://www.zeeweringen.nl)| |nginx/1.24.0| | | | | |:white_check_mark: |Nginx:1.24.0|
+|[https://ww2.zeeweringen.nl](https://ww2.zeeweringen.nl)| | | | | | | |:white_check_mark: |Nginx:1.24.0|
+|[https://conferentie.zeeweringen.nl](https://conferentie.zeeweringen.nl)| | | | | | | |:white_check_mark: |Nginx:1.24.0|
+|[https://zeeweringen.nl](https://zeeweringen.nl)| |nginx/1.24.0| | | | | |:white_check_mark: |Nginx:1.24.0|

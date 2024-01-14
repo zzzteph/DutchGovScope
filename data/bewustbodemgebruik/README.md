@@ -9,6 +9,6 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |
 |------------|-------|------|------|------|------|------|------|------|------|
-|[http://mail.bewustbodemgebruik.nl](http://mail.bewustbodemgebruik.nl)| | | | | | | |:white_check_mark: | |Nginx| |
-|[https://www.bewustbodemgebruik.nl](https://www.bewustbodemgebruik.nl)| |nginx| | | | |:white_check_mark: | |:white_check_mark: | |Nginx SiteGround| |
-|[http://bewustbodemgebruik.nl](http://bewustbodemgebruik.nl)| |nginx| | | | |:white_check_mark: | |:white_check_mark: | |MySQL Nginx PHP Word...| |
+|[http://mail.bewustbodemgebruik.nl](http://mail.bewustbodemgebruik.nl)| | | | | | | |:white_check_mark: |Nginx|
+|[https://www.bewustbodemgebruik.nl](https://www.bewustbodemgebruik.nl)| |nginx| | | | |:white_check_mark: |:white_check_mark: |Nginx SiteGround|
+|[http://bewustbodemgebruik.nl](http://bewustbodemgebruik.nl)| |nginx| | | | |:white_check_mark: |:white_check_mark: |MySQL Nginx PHP Word...|

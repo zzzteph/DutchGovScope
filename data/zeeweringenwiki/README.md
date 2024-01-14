@@ -9,6 +9,6 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |
 |------------|-------|------|------|------|------|------|------|------|------|
-|[https://mail.zeeweringenwiki.nl](https://mail.zeeweringenwiki.nl)| |apache| | | | | |:white_check_mark: | |Apache HTTP Server| |
-|[https://www.zeeweringenwiki.nl](https://www.zeeweringenwiki.nl)| |apache|:warning: | | | | |:white_check_mark: | |Apache HTTP Server| |
-|[https://zeeweringenwiki.nl](https://zeeweringenwiki.nl)| |apache|:warning: | | | | |:white_check_mark: | |Apache HTTP Server| |
+|[https://mail.zeeweringenwiki.nl](https://mail.zeeweringenwiki.nl)| |apache| | | | | |:white_check_mark: |Apache HTTP Server|
+|[https://www.zeeweringenwiki.nl](https://www.zeeweringenwiki.nl)| |apache|:warning: | | | | |:white_check_mark: |Apache HTTP Server|
+|[https://zeeweringenwiki.nl](https://zeeweringenwiki.nl)| |apache|:warning: | | | | |:white_check_mark: |Apache HTTP Server|

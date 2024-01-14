@@ -9,5 +9,5 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |
 |------------|-------|------|------|------|------|------|------|------|------|
-|[https://www.zeroemissiedoelgroepenvervoer.nl](https://www.zeroemissiedoelgroepenvervoer.nl)| | | | | | | |:white_check_mark: | || |
-|[https://zeroemissiedoelgroepenvervoer.nl](https://zeroemissiedoelgroepenvervoer.nl)| | | | | | | |:white_check_mark: | || |
+|[https://www.zeroemissiedoelgroepenvervoer.nl](https://www.zeroemissiedoelgroepenvervoer.nl)| | | | | | | |:white_check_mark: ||
+|[https://zeroemissiedoelgroepenvervoer.nl](https://zeroemissiedoelgroepenvervoer.nl)| | | | | | | |:white_check_mark: ||

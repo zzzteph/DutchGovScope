@@ -9,5 +9,5 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |
 |------------|-------|------|------|------|------|------|------|------|------|
-|[https://www.samenwerkenaanriviernatuur.nl](https://www.samenwerkenaanriviernatuur.nl)| | | |:white_check_mark: | | |:white_check_mark: | |:white_check_mark: | |:white_check_mark: | |HSTS Microsoft ASP.N...| |
-|[https://samenwerkenaanriviernatuur.nl](https://samenwerkenaanriviernatuur.nl)| | | |:white_check_mark: | | |:white_check_mark: | |:white_check_mark: | |:white_check_mark: | |HSTS Microsoft ASP.N...| |
+|[https://www.samenwerkenaanriviernatuur.nl](https://www.samenwerkenaanriviernatuur.nl)| | | |:white_check_mark: | | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Microsoft ASP.N...|
+|[https://samenwerkenaanriviernatuur.nl](https://samenwerkenaanriviernatuur.nl)| | | |:white_check_mark: | | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Microsoft ASP.N...|

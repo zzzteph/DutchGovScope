@@ -9,5 +9,5 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |
 |------------|-------|------|------|------|------|------|------|------|------|
-|[https://ministerievanvws.nl](https://ministerievanvws.nl)| | | | | | | |:white_check_mark: | |HSTS IIS:10.0 Window...| |
-|[https://www.ministerievanvws.nl](https://www.ministerievanvws.nl)| | | | | | | |:white_check_mark: | |HSTS IIS:10.0 Window...| |
+|[https://ministerievanvws.nl](https://ministerievanvws.nl)| | | | | | | |:white_check_mark: |HSTS IIS:10.0 Window...|
+|[https://www.ministerievanvws.nl](https://www.ministerievanvws.nl)| | | | | | | |:white_check_mark: |HSTS IIS:10.0 Window...|

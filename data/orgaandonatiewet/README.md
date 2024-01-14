@@ -9,5 +9,5 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |
 |------------|-------|------|------|------|------|------|------|------|------|
-|[https://orgaandonatiewet.nl](https://orgaandonatiewet.nl)| | | | | | | |:white_check_mark: | |HSTS IIS:10.0 Window...| |
-|[https://www.orgaandonatiewet.nl](https://www.orgaandonatiewet.nl)| | | | | | | |:white_check_mark: | |HSTS IIS:10.0 Window...| |
+|[https://orgaandonatiewet.nl](https://orgaandonatiewet.nl)| | | | | | | |:white_check_mark: |HSTS IIS:10.0 Window...|
+|[https://www.orgaandonatiewet.nl](https://www.orgaandonatiewet.nl)| | | | | | | |:white_check_mark: |HSTS IIS:10.0 Window...|

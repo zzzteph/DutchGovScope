@@ -9,5 +9,5 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |
 |------------|-------|------|------|------|------|------|------|------|------|
-|[https://www.osresultaten.nl](https://www.osresultaten.nl)| |apache|:warning: |:white_check_mark: | |:warning: |:white_check_mark: | |:white_check_mark: | |:white_check_mark: | |Apache HTTP Server H...| |
-|[https://osresultaten.nl](https://osresultaten.nl)| |apache|:warning: |:white_check_mark: | |:warning: |:white_check_mark: | |:white_check_mark: | |:white_check_mark: | |Apache HTTP Server H...| |
+|[https://www.osresultaten.nl](https://www.osresultaten.nl)| |apache|:warning: |:white_check_mark: | |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache HTTP Server H...|
+|[https://osresultaten.nl](https://osresultaten.nl)| |apache|:warning: |:white_check_mark: | |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache HTTP Server H...|

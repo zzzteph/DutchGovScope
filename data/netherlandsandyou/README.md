@@ -9,8 +9,8 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |
 |------------|-------|------|------|------|------|------|------|------|------|
-|[https://acc.netherlandsandyou.nl](https://acc.netherlandsandyou.nl)| |apache| | | | | |:white_check_mark: | |Apache HTTP Server| |
-|[https://dev.netherlandsandyou.nl](https://dev.netherlandsandyou.nl)| |apache| | | | | |:white_check_mark: | |Apache HTTP Server| |
-|[https://tst.netherlandsandyou.nl](https://tst.netherlandsandyou.nl)| |apache| | | | | |:white_check_mark: | |Apache HTTP Server| |
-|[https://www.netherlandsandyou.nl](https://www.netherlandsandyou.nl)| |apache|:warning: |:white_check_mark: | |:warning: |:white_check_mark: | |:white_check_mark: | |:white_check_mark: | |Apache HTTP Server H...| |
-|[https://netherlandsandyou.nl](https://netherlandsandyou.nl)| |apache|:warning: |:white_check_mark: | |:warning: |:white_check_mark: | |:white_check_mark: | |:white_check_mark: | |Apache HTTP Server| |
+|[https://acc.netherlandsandyou.nl](https://acc.netherlandsandyou.nl)| |apache| | | | | |:white_check_mark: |Apache HTTP Server|
+|[https://dev.netherlandsandyou.nl](https://dev.netherlandsandyou.nl)| |apache| | | | | |:white_check_mark: |Apache HTTP Server|
+|[https://tst.netherlandsandyou.nl](https://tst.netherlandsandyou.nl)| |apache| | | | | |:white_check_mark: |Apache HTTP Server|
+|[https://www.netherlandsandyou.nl](https://www.netherlandsandyou.nl)| |apache|:warning: |:white_check_mark: | |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache HTTP Server H...|
+|[https://netherlandsandyou.nl](https://netherlandsandyou.nl)| |apache|:warning: |:white_check_mark: | |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache HTTP Server|

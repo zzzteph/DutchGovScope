@@ -1,5 +1,5 @@
 # dgv.nl
-*Last update:2024-01-10 20:57:11*
+*Last update:2024-01-14 02:20:13*
 ## Summary data
 | File       | Count | Info |
 |------------|-------|------|
@@ -9,7 +9,7 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |
 |------------|-------|------|------|------|------|------|------|------|------|
-|[https://www.dgv.nl](https://www.dgv.nl)| $${\color{red}A+}$$ |nginx| |:white_check_mark: | |:warning: |:white_check_mark: | |:white_check_mark: | |:white_check_mark: | |Bloomreach HSTS Ngin...| |
-|[https://dgv.nl](https://dgv.nl)| $${\color{red}A+}$$ |nginx| |:white_check_mark: | |:warning: |:white_check_mark: | |:white_check_mark: | |:white_check_mark: | |HSTS Nginx| |
-|[https://feeds.dgv.nl](https://feeds.dgv.nl)| $${\color{red}A+}$$ |nginx| |:white_check_mark: | | |:white_check_mark: | |:white_check_mark: | |:white_check_mark: | |HSTS Nginx| |
-|[https://opendata.dgv.nl](https://opendata.dgv.nl)| $${\color{red}A+}$$ |nginx| |:white_check_mark: | | |:white_check_mark: | |:white_check_mark: | |:white_check_mark: | |HSTS Nginx| |
+|[https://www.dgv.nl](https://www.dgv.nl)| $${\color{green}A+}$$ |nginx| |:white_check_mark: | |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Bloomreach HSTS Ngin...|
+|[https://dgv.nl](https://dgv.nl)| $${\color{green}A+}$$ |nginx| |:white_check_mark: | |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx|
+|[https://feeds.dgv.nl](https://feeds.dgv.nl)| $${\color{green}A+}$$ |nginx| |:white_check_mark: | | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx|
+|[https://opendata.dgv.nl](https://opendata.dgv.nl)| $${\color{green}A+}$$ |nginx| |:white_check_mark: | | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx|

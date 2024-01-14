@@ -1,5 +1,5 @@
 # adviescommissievolkenrecht.nl
-*Last update:2024-01-10 20:57:09*
+*Last update:2024-01-14 06:53:19*
 ## Summary data
 | File       | Count | Info |
 |------------|-------|------|
@@ -9,7 +9,7 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |
 |------------|-------|------|------|------|------|------|------|------|------|
-|[https://www.adviescommissievolkenrecht.nl](https://www.adviescommissievolkenrecht.nl)| $${\color{red}A+}$$ |nginx| |:white_check_mark: | |:warning: |:white_check_mark: | |:white_check_mark: | |:white_check_mark: | |Bloomreach HSTS Ngin...| |
-|[https://feeds.adviescommissievolkenrecht.nl](https://feeds.adviescommissievolkenrecht.nl)| $${\color{red}A+}$$ |nginx| |:white_check_mark: | | |:white_check_mark: | |:white_check_mark: | |:white_check_mark: | |HSTS Nginx| |
-|[https://opendata.adviescommissievolkenrecht.nl](https://opendata.adviescommissievolkenrecht.nl)| $${\color{red}A+}$$ |nginx| |:white_check_mark: | | |:white_check_mark: | |:white_check_mark: | |:white_check_mark: | |HSTS Nginx| |
-|[https://adviescommissievolkenrecht.nl](https://adviescommissievolkenrecht.nl)| $${\color{red}A+}$$ |nginx| |:white_check_mark: | |:warning: |:white_check_mark: | |:white_check_mark: | |:white_check_mark: | |HSTS Nginx| |
+|[https://www.adviescommissievolkenrecht.nl](https://www.adviescommissievolkenrecht.nl)| $${\color{green}A+}$$ |nginx| |:white_check_mark: | |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Bloomreach HSTS Ngin...|
+|[https://feeds.adviescommissievolkenrecht.nl](https://feeds.adviescommissievolkenrecht.nl)| $${\color{green}A+}$$ |nginx| |:white_check_mark: | | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx|
+|[https://opendata.adviescommissievolkenrecht.nl](https://opendata.adviescommissievolkenrecht.nl)| $${\color{green}A+}$$ |nginx| |:white_check_mark: | | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx|
+|[https://adviescommissievolkenrecht.nl](https://adviescommissievolkenrecht.nl)| $${\color{green}A+}$$ |nginx| |:white_check_mark: | |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx|

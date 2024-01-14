@@ -9,5 +9,5 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |
 |------------|-------|------|------|------|------|------|------|------|------|
-|[https://carbonbudgetexplorer.nl](https://carbonbudgetexplorer.nl)| | | |:white_check_mark: | | | |:white_check_mark: | |:white_check_mark: | |HSTS| |
-|[https://www.carbonbudgetexplorer.nl](https://www.carbonbudgetexplorer.nl)| | | |:white_check_mark: | | | |:white_check_mark: | |:white_check_mark: | |HSTS| |
+|[https://carbonbudgetexplorer.nl](https://carbonbudgetexplorer.nl)| | | |:white_check_mark: | | | |:white_check_mark: |:white_check_mark: |HSTS|
+|[https://www.carbonbudgetexplorer.nl](https://www.carbonbudgetexplorer.nl)| | | |:white_check_mark: | | | |:white_check_mark: |:white_check_mark: |HSTS|

@@ -9,5 +9,5 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |
 |------------|-------|------|------|------|------|------|------|------|------|
-|[https://www.watdevog.nl](https://www.watdevog.nl)| | | | | | | |:white_check_mark: | |HSTS| |
-|[https://watdevog.nl](https://watdevog.nl)| | | | | | | |:white_check_mark: | |HSTS| |
+|[https://www.watdevog.nl](https://www.watdevog.nl)| | | | | | | |:white_check_mark: |HSTS|
+|[https://watdevog.nl](https://watdevog.nl)| | | | | | | |:white_check_mark: |HSTS|

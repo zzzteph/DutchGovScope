@@ -9,7 +9,7 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |
 |------------|-------|------|------|------|------|------|------|------|------|
-|[https://feeds.nutriscorevoorbedrijven.nl](https://feeds.nutriscorevoorbedrijven.nl)| |nginx| |:white_check_mark: | | |:white_check_mark: | |:white_check_mark: | |:white_check_mark: | |HSTS Nginx| |
-|[https://nutriscorevoorbedrijven.nl](https://nutriscorevoorbedrijven.nl)| |nginx| |:white_check_mark: | |:warning: |:white_check_mark: | |:white_check_mark: | |:white_check_mark: | |HSTS Nginx| |
-|[https://opendata.nutriscorevoorbedrijven.nl](https://opendata.nutriscorevoorbedrijven.nl)| |nginx| |:white_check_mark: | | |:white_check_mark: | |:white_check_mark: | |:white_check_mark: | |HSTS Nginx| |
-|[https://www.nutriscorevoorbedrijven.nl](https://www.nutriscorevoorbedrijven.nl)| |nginx| |:white_check_mark: | |:warning: |:white_check_mark: | |:white_check_mark: | |:white_check_mark: | |Bloomreach HSTS Ngin...| |
+|[https://feeds.nutriscorevoorbedrijven.nl](https://feeds.nutriscorevoorbedrijven.nl)| |nginx| |:white_check_mark: | | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx|
+|[https://nutriscorevoorbedrijven.nl](https://nutriscorevoorbedrijven.nl)| |nginx| |:white_check_mark: | |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx|
+|[https://opendata.nutriscorevoorbedrijven.nl](https://opendata.nutriscorevoorbedrijven.nl)| |nginx| |:white_check_mark: | | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx|
+|[https://www.nutriscorevoorbedrijven.nl](https://www.nutriscorevoorbedrijven.nl)| |nginx| |:white_check_mark: | |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Bloomreach HSTS Ngin...|

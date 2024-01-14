@@ -9,7 +9,7 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |
 |------------|-------|------|------|------|------|------|------|------|------|
-|[http://ocsp.uzi-register.nl](http://ocsp.uzi-register.nl)| || |:white_check_mark: | |:white_check_mark: | |:white_check_mark: | |:white_check_mark: | |HSTS| |
-|[https://www.uzi-register.nl](https://www.uzi-register.nl)| |nginx| |:white_check_mark: | |:warning: |:white_check_mark: | |:white_check_mark: | |:white_check_mark: | |HSTS| |
-|[https://www.csp.uzi-register.nl](https://www.csp.uzi-register.nl)| |nginx| |:white_check_mark: | |:warning: |:white_check_mark: | |:white_check_mark: | |:white_check_mark: | |HSTS| |
-|[https://uzi-register.nl](https://uzi-register.nl)| |nginx| |:white_check_mark: | |:warning: |:white_check_mark: | |:white_check_mark: | |:white_check_mark: | |HSTS| |
+|[http://ocsp.uzi-register.nl](http://ocsp.uzi-register.nl)| || |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|
+|[https://www.uzi-register.nl](https://www.uzi-register.nl)| |nginx| |:white_check_mark: | |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|
+|[https://www.csp.uzi-register.nl](https://www.csp.uzi-register.nl)| |nginx| |:white_check_mark: | |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|
+|[https://uzi-register.nl](https://uzi-register.nl)| |nginx| |:white_check_mark: | |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|

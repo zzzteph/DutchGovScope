@@ -9,5 +9,5 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |
 |------------|-------|------|------|------|------|------|------|------|------|
-|[https://www.via15.nl](https://www.via15.nl)| | | |:white_check_mark: | | |:white_check_mark: | |:white_check_mark: | |:white_check_mark: | |Google Tag Manager H...| |
-|[https://via15.nl](https://via15.nl)| | | |:white_check_mark: | | |:white_check_mark: | |:white_check_mark: | |:white_check_mark: | |Google Tag Manager H...| |
+|[https://www.via15.nl](https://www.via15.nl)| | | |:white_check_mark: | | |:white_check_mark: |:white_check_mark: |:white_check_mark: |Google Tag Manager H...|
+|[https://via15.nl](https://via15.nl)| | | |:white_check_mark: | | |:white_check_mark: |:white_check_mark: |:white_check_mark: |Google Tag Manager H...|

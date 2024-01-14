@@ -9,7 +9,7 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |
 |------------|-------|------|------|------|------|------|------|------|------|
-|[https://sscict.nl](https://sscict.nl)| |nginx| |:white_check_mark: | |:warning: |:white_check_mark: | |:white_check_mark: | |:white_check_mark: | |HSTS IIS:10.0 Window...| |
-|[https://www.sscict.nl](https://www.sscict.nl)| |nginx| |:white_check_mark: | |:warning: |:white_check_mark: | |:white_check_mark: | |:white_check_mark: | |HSTS IIS:10.0 Window...| |
-|[https://idtappp01.sscict.nl](https://idtappp01.sscict.nl)| | | | | | | |:white_check_mark: | || |
-|[https://idtappa01.sscict.nl](https://idtappa01.sscict.nl)| | | | | | | |:white_check_mark: | || |
+|[https://sscict.nl](https://sscict.nl)| |nginx| |:white_check_mark: | |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS IIS:10.0 Window...|
+|[https://www.sscict.nl](https://www.sscict.nl)| |nginx| |:white_check_mark: | |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS IIS:10.0 Window...|
+|[https://idtappp01.sscict.nl](https://idtappp01.sscict.nl)| | | | | | | |:white_check_mark: ||
+|[https://idtappa01.sscict.nl](https://idtappa01.sscict.nl)| | | | | | | |:white_check_mark: ||

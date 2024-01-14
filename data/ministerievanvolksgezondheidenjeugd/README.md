@@ -9,5 +9,5 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |
 |------------|-------|------|------|------|------|------|------|------|------|
-|[https://ministerievanvolksgezondheidenjeugd.nl](https://ministerievanvolksgezondheidenjeugd.nl)| | | | | | | |:white_check_mark: | |HSTS IIS:10.0 Window...| |
-|[https://www.ministerievanvolksgezondheidenjeugd.nl](https://www.ministerievanvolksgezondheidenjeugd.nl)| | | | | | | |:white_check_mark: | |HSTS IIS:10.0 Window...| |
+|[https://ministerievanvolksgezondheidenjeugd.nl](https://ministerievanvolksgezondheidenjeugd.nl)| | | | | | | |:white_check_mark: |HSTS IIS:10.0 Window...|
+|[https://www.ministerievanvolksgezondheidenjeugd.nl](https://www.ministerievanvolksgezondheidenjeugd.nl)| | | | | | | |:white_check_mark: |HSTS IIS:10.0 Window...|

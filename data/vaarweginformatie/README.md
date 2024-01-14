@@ -9,8 +9,8 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |
 |------------|-------|------|------|------|------|------|------|------|------|
-|[https://api.acceptatie.vaarweginformatie.nl](https://api.acceptatie.vaarweginformatie.nl)| |apisix/2.15.0| | | | | |:white_check_mark: | |Apache APISIX:2.15.0| |
-|[https://www.vaarweginformatie.nl](https://www.vaarweginformatie.nl)| | | |:white_check_mark: | | |:white_check_mark: | | |:white_check_mark: | || |
-|[https://vaarweginformatie.nl](https://vaarweginformatie.nl)| | | |:white_check_mark: | | |:white_check_mark: | | |:white_check_mark: | || |
-|[https://vaarmelder.vaarweginformatie.nl](https://vaarmelder.vaarweginformatie.nl)| |nginx| |:white_check_mark: | | | | |:white_check_mark: | || |
-|[https://api.vaarweginformatie.nl](https://api.vaarweginformatie.nl)| |apisix/2.15.0| |:white_check_mark: | | | | |:white_check_mark: | |Apache APISIX:2.15.0...| |
+|[https://api.acceptatie.vaarweginformatie.nl](https://api.acceptatie.vaarweginformatie.nl)| |apisix/2.15.0| | | | | |:white_check_mark: |Apache APISIX:2.15.0|
+|[https://www.vaarweginformatie.nl](https://www.vaarweginformatie.nl)| | | |:white_check_mark: | | |:white_check_mark: | |:white_check_mark: ||
+|[https://vaarweginformatie.nl](https://vaarweginformatie.nl)| | | |:white_check_mark: | | |:white_check_mark: | |:white_check_mark: ||
+|[https://vaarmelder.vaarweginformatie.nl](https://vaarmelder.vaarweginformatie.nl)| |nginx| |:white_check_mark: | | | | |:white_check_mark: ||
+|[https://api.vaarweginformatie.nl](https://api.vaarweginformatie.nl)| |apisix/2.15.0| |:white_check_mark: | | | | |:white_check_mark: |Apache APISIX:2.15.0...|

@@ -9,6 +9,6 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |
 |------------|-------|------|------|------|------|------|------|------|------|
-|[https://grknmi.nl](https://grknmi.nl)| |apache/2| | | | | |:white_check_mark: | |Apache HTTP Server:2...| |
-|[https://www.grknmi.nl](https://www.grknmi.nl)| |apache/2| | | | | |:white_check_mark: | |Apache HTTP Server:2...| |
-|[https://mail.grknmi.nl](https://mail.grknmi.nl)| |apache/2| | | | | |:white_check_mark: | |Apache HTTP Server:2| |
+|[https://grknmi.nl](https://grknmi.nl)| |apache/2| | | | | |:white_check_mark: |Apache HTTP Server:2...|
+|[https://www.grknmi.nl](https://www.grknmi.nl)| |apache/2| | | | | |:white_check_mark: |Apache HTTP Server:2...|
+|[https://mail.grknmi.nl](https://mail.grknmi.nl)| |apache/2| | | | | |:white_check_mark: |Apache HTTP Server:2|

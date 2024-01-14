@@ -9,5 +9,5 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |
 |------------|-------|------|------|------|------|------|------|------|------|
-|[https://www.sds-check.nl](https://www.sds-check.nl)| | | | | | | |:white_check_mark: | |Apache HTTP Server H...| |
-|[https://sds-check.nl](https://sds-check.nl)| | | | | | | |:white_check_mark: | |Apache HTTP Server H...| |
+|[https://www.sds-check.nl](https://www.sds-check.nl)| | | | | | | |:white_check_mark: |Apache HTTP Server H...|
+|[https://sds-check.nl](https://sds-check.nl)| | | | | | | |:white_check_mark: |Apache HTTP Server H...|

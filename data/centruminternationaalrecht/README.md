@@ -9,8 +9,8 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |
 |------------|-------|------|------|------|------|------|------|------|------|
-|[https://acc.centruminternationaalrecht.nl](https://acc.centruminternationaalrecht.nl)| |apache| | | | | |:white_check_mark: | |Apache HTTP Server| |
-|[https://dev.centruminternationaalrecht.nl](https://dev.centruminternationaalrecht.nl)| |apache| | | | | |:white_check_mark: | |Apache HTTP Server| |
-|[https://tst.centruminternationaalrecht.nl](https://tst.centruminternationaalrecht.nl)| |apache| | | | | |:white_check_mark: | |Apache HTTP Server| |
-|[https://www.centruminternationaalrecht.nl](https://www.centruminternationaalrecht.nl)| |apache|:warning: |:white_check_mark: | |:warning: |:white_check_mark: | |:white_check_mark: | |:white_check_mark: | |Apache HTTP Server H...| |
-|[https://centruminternationaalrecht.nl](https://centruminternationaalrecht.nl)| |apache|:warning: |:white_check_mark: | |:warning: |:white_check_mark: | |:white_check_mark: | |:white_check_mark: | |Apache HTTP Server| |
+|[https://acc.centruminternationaalrecht.nl](https://acc.centruminternationaalrecht.nl)| |apache| | | | | |:white_check_mark: |Apache HTTP Server|
+|[https://dev.centruminternationaalrecht.nl](https://dev.centruminternationaalrecht.nl)| |apache| | | | | |:white_check_mark: |Apache HTTP Server|
+|[https://tst.centruminternationaalrecht.nl](https://tst.centruminternationaalrecht.nl)| |apache| | | | | |:white_check_mark: |Apache HTTP Server|
+|[https://www.centruminternationaalrecht.nl](https://www.centruminternationaalrecht.nl)| |apache|:warning: |:white_check_mark: | |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache HTTP Server H...|
+|[https://centruminternationaalrecht.nl](https://centruminternationaalrecht.nl)| |apache|:warning: |:white_check_mark: | |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache HTTP Server|

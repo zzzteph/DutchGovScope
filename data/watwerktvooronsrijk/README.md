@@ -9,5 +9,5 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |
 |------------|-------|------|------|------|------|------|------|------|------|
-|[https://www.watwerktvooronsrijk.nl](https://www.watwerktvooronsrijk.nl)| |apache/2.4.58 (ubuntu)| |:white_check_mark: | |:warning: |:white_check_mark: | |:white_check_mark: | |:white_check_mark: | |Apache HTTP Server:2...| |
-|[https://watwerktvooronsrijk.nl](https://watwerktvooronsrijk.nl)| |apache/2.4.58 (ubuntu)| |:white_check_mark: | |:warning: |:white_check_mark: | |:white_check_mark: | |:white_check_mark: | |Apache HTTP Server:2...| |
+|[https://www.watwerktvooronsrijk.nl](https://www.watwerktvooronsrijk.nl)| |apache/2.4.58 (ubuntu)| |:white_check_mark: | |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache HTTP Server:2...|
+|[https://watwerktvooronsrijk.nl](https://watwerktvooronsrijk.nl)| |apache/2.4.58 (ubuntu)| |:white_check_mark: | |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache HTTP Server:2...|

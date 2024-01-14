@@ -9,5 +9,5 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |
 |------------|-------|------|------|------|------|------|------|------|------|
-|[https://www.mirta2deilvught.nl](https://www.mirta2deilvught.nl)| | | |:white_check_mark: | | |:white_check_mark: | |:white_check_mark: | |:white_check_mark: | |HSTS Microsoft ASP.N...| |
-|[https://mirta2deilvught.nl](https://mirta2deilvught.nl)| | | |:white_check_mark: | | |:white_check_mark: | |:white_check_mark: | |:white_check_mark: | |HSTS Microsoft ASP.N...| |
+|[https://www.mirta2deilvught.nl](https://www.mirta2deilvught.nl)| | | |:white_check_mark: | | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Microsoft ASP.N...|
+|[https://mirta2deilvught.nl](https://mirta2deilvught.nl)| | | |:white_check_mark: | | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Microsoft ASP.N...|

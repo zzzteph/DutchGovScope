@@ -9,5 +9,5 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |
 |------------|-------|------|------|------|------|------|------|------|------|
-|[https://www.onzedelta.nl](https://www.onzedelta.nl)| |nginx| |:white_check_mark: | | | | |:white_check_mark: | |Nginx| |
-|[https://onzedelta.nl](https://onzedelta.nl)| |nginx| |:white_check_mark: | | | | |:white_check_mark: | |Nginx| |
+|[https://www.onzedelta.nl](https://www.onzedelta.nl)| |nginx| |:white_check_mark: | | | | |:white_check_mark: |Nginx|
+|[https://onzedelta.nl](https://onzedelta.nl)| |nginx| |:white_check_mark: | | | | |:white_check_mark: |Nginx|

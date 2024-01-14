@@ -9,7 +9,7 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |
 |------------|-------|------|------|------|------|------|------|------|------|
-|[https://mail.rwscregelaar.nl](https://mail.rwscregelaar.nl)| | | | | | | |:white_check_mark: | |Apache HTTP Server:2...| |
-|[https://mta-sts.mail.rwscregelaar.nl](https://mta-sts.mail.rwscregelaar.nl)| | | | | | | |:white_check_mark: | |Apache HTTP Server:2...| |
-|[https://www.rwscregelaar.nl](https://www.rwscregelaar.nl)| | | | | | | |:white_check_mark: | |Apache HTTP Server:2...| |
-|[https://rwscregelaar.nl](https://rwscregelaar.nl)| | | | | | | |:white_check_mark: | |Apache HTTP Server:2...| |
+|[https://mail.rwscregelaar.nl](https://mail.rwscregelaar.nl)| | | | | | | |:white_check_mark: |Apache HTTP Server:2...|
+|[https://mta-sts.mail.rwscregelaar.nl](https://mta-sts.mail.rwscregelaar.nl)| | | | | | | |:white_check_mark: |Apache HTTP Server:2...|
+|[https://www.rwscregelaar.nl](https://www.rwscregelaar.nl)| | | | | | | |:white_check_mark: |Apache HTTP Server:2...|
+|[https://rwscregelaar.nl](https://rwscregelaar.nl)| | | | | | | |:white_check_mark: |Apache HTTP Server:2...|

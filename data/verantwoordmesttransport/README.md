@@ -9,5 +9,5 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |
 |------------|-------|------|------|------|------|------|------|------|------|
-|[https://www.verantwoordmesttransport.nl](https://www.verantwoordmesttransport.nl)| |nginx| |:white_check_mark: | |:warning: |:white_check_mark: | |:white_check_mark: | |:white_check_mark: | || |
-|[https://verantwoordmesttransport.nl](https://verantwoordmesttransport.nl)| |nginx| |:white_check_mark: | |:warning: |:white_check_mark: | |:white_check_mark: | |:white_check_mark: | || |
+|[https://www.verantwoordmesttransport.nl](https://www.verantwoordmesttransport.nl)| |nginx| |:white_check_mark: | |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: ||
+|[https://verantwoordmesttransport.nl](https://verantwoordmesttransport.nl)| |nginx| |:white_check_mark: | |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: ||

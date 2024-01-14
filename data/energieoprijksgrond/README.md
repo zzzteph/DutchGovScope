@@ -9,5 +9,5 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |
 |------------|-------|------|------|------|------|------|------|------|------|
-|[https://www.energieoprijksgrond.nl](https://www.energieoprijksgrond.nl)| | | |:white_check_mark: | | |:white_check_mark: | |:white_check_mark: | |:white_check_mark: | |HSTS Microsoft ASP.N...| |
-|[https://energieoprijksgrond.nl](https://energieoprijksgrond.nl)| | | |:white_check_mark: | | |:white_check_mark: | |:white_check_mark: | |:white_check_mark: | |HSTS Microsoft ASP.N...| |
+|[https://www.energieoprijksgrond.nl](https://www.energieoprijksgrond.nl)| | | |:white_check_mark: | | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Microsoft ASP.N...|
+|[https://energieoprijksgrond.nl](https://energieoprijksgrond.nl)| | | |:white_check_mark: | | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Microsoft ASP.N...|

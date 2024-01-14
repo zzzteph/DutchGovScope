@@ -9,4 +9,4 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |
 |------------|-------|------|------|------|------|------|------|------|------|
-|[https://www.meetingpointdji.nl](https://www.meetingpointdji.nl)| |microsoft-iis/10.0|:warning: | | | | |:white_check_mark: | |Azure IIS:10.0 Micro...| |
+|[https://www.meetingpointdji.nl](https://www.meetingpointdji.nl)| |microsoft-iis/10.0|:warning: | | | | |:white_check_mark: |Azure IIS:10.0 Micro...|

@@ -1,5 +1,5 @@
 # erfgoeddeal.nl
-*Last update:2024-01-10 20:57:12*
+*Last update:2024-01-14 03:50:09*
 ## Summary data
 | File       | Count | Info |
 |------------|-------|------|
@@ -9,7 +9,7 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |
 |------------|-------|------|------|------|------|------|------|------|------|
-|[https://feeds.erfgoeddeal.nl](https://feeds.erfgoeddeal.nl)| $${\color{red}A+}$$ |nginx| |:white_check_mark: | | |:white_check_mark: | |:white_check_mark: | |:white_check_mark: | |HSTS Nginx| |
-|[https://opendata.erfgoeddeal.nl](https://opendata.erfgoeddeal.nl)| $${\color{red}A+}$$ |nginx| |:white_check_mark: | | |:white_check_mark: | |:white_check_mark: | |:white_check_mark: | |HSTS Nginx| |
-|[https://www.erfgoeddeal.nl](https://www.erfgoeddeal.nl)| $${\color{red}A+}$$ |nginx| |:white_check_mark: | |:warning: |:white_check_mark: | |:white_check_mark: | |:white_check_mark: | |Bloomreach HSTS Ngin...| |
-|[https://erfgoeddeal.nl](https://erfgoeddeal.nl)| $${\color{red}A+}$$ |nginx| |:white_check_mark: | |:warning: |:white_check_mark: | |:white_check_mark: | |:white_check_mark: | |HSTS Nginx| |
+|[https://feeds.erfgoeddeal.nl](https://feeds.erfgoeddeal.nl)| $${\color{green}A+}$$ |nginx| |:white_check_mark: | | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx|
+|[https://opendata.erfgoeddeal.nl](https://opendata.erfgoeddeal.nl)| $${\color{green}A+}$$ |nginx| |:white_check_mark: | | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx|
+|[https://www.erfgoeddeal.nl](https://www.erfgoeddeal.nl)| $${\color{green}A+}$$ |nginx| |:white_check_mark: | |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Bloomreach HSTS Ngin...|
+|[https://erfgoeddeal.nl](https://erfgoeddeal.nl)| $${\color{green}A+}$$ |nginx| |:white_check_mark: | |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx|

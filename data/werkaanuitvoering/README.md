@@ -9,8 +9,8 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |
 |------------|-------|------|------|------|------|------|------|------|------|
-|[https://feeds.werkaanuitvoering.nl](https://feeds.werkaanuitvoering.nl)| |nginx| |:white_check_mark: | | |:white_check_mark: | |:white_check_mark: | |:white_check_mark: | |HSTS Nginx| |
-|[https://opendata.werkaanuitvoering.nl](https://opendata.werkaanuitvoering.nl)| |nginx| |:white_check_mark: | | |:white_check_mark: | |:white_check_mark: | |:white_check_mark: | |HSTS Nginx| |
-|[https://wauke.werkaanuitvoering.nl](https://wauke.werkaanuitvoering.nl)| |apache| |:white_check_mark: | |:warning: |:white_check_mark: | |:white_check_mark: | |:white_check_mark: | |Apache HTTP Server H...| |
-|[https://www.werkaanuitvoering.nl](https://www.werkaanuitvoering.nl)| |nginx| |:white_check_mark: | |:warning: |:white_check_mark: | |:white_check_mark: | |:white_check_mark: | |Bloomreach HSTS Ngin...| |
-|[https://werkaanuitvoering.nl](https://werkaanuitvoering.nl)| |nginx| |:white_check_mark: | |:warning: |:white_check_mark: | |:white_check_mark: | |:white_check_mark: | |HSTS Nginx| |
+|[https://feeds.werkaanuitvoering.nl](https://feeds.werkaanuitvoering.nl)| |nginx| |:white_check_mark: | | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx|
+|[https://opendata.werkaanuitvoering.nl](https://opendata.werkaanuitvoering.nl)| |nginx| |:white_check_mark: | | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx|
+|[https://wauke.werkaanuitvoering.nl](https://wauke.werkaanuitvoering.nl)| |apache| |:white_check_mark: | |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache HTTP Server H...|
+|[https://www.werkaanuitvoering.nl](https://www.werkaanuitvoering.nl)| |nginx| |:white_check_mark: | |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Bloomreach HSTS Ngin...|
+|[https://werkaanuitvoering.nl](https://werkaanuitvoering.nl)| |nginx| |:white_check_mark: | |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx|

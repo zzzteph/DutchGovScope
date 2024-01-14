@@ -9,5 +9,5 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |
 |------------|-------|------|------|------|------|------|------|------|------|
-|[https://www.pleinbzk.nl](https://www.pleinbzk.nl)| |apache| |:white_check_mark: | |:warning: |:white_check_mark: | |:white_check_mark: | |:white_check_mark: | |Apache HTTP Server H...| |
-|[https://pleinbzk.nl](https://pleinbzk.nl)| |apache| |:white_check_mark: | |:warning: |:white_check_mark: | |:white_check_mark: | |:white_check_mark: | |Apache HTTP Server H...| |
+|[https://www.pleinbzk.nl](https://www.pleinbzk.nl)| |apache| |:white_check_mark: | |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache HTTP Server H...|
+|[https://pleinbzk.nl](https://pleinbzk.nl)| |apache| |:white_check_mark: | |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache HTTP Server H...|

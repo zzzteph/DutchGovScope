@@ -9,8 +9,8 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |
 |------------|-------|------|------|------|------|------|------|------|------|
-|[https://organisaties.doemeemetmdt.nl](https://organisaties.doemeemetmdt.nl)| |nginx| |:white_check_mark: | | |:white_check_mark: | |:white_check_mark: | |:white_check_mark: | |HSTS Nginx| |
-|[https://www.doemeemetmdt.nl](https://www.doemeemetmdt.nl)| |nginx| |:white_check_mark: | | |:white_check_mark: | |:white_check_mark: | |:white_check_mark: | |HSTS Nginx| |
-|[https://staging.doemeemetmdt.nl](https://staging.doemeemetmdt.nl)| |nginx| | | | | |:white_check_mark: | |Basic Nginx| |
-|[https://staging-organisaties.doemeemetmdt.nl](https://staging-organisaties.doemeemetmdt.nl)| |nginx| | | | | |:white_check_mark: | |Basic Nginx| |
-|[https://doemeemetmdt.nl](https://doemeemetmdt.nl)| |nginx| |:white_check_mark: | | |:white_check_mark: | |:white_check_mark: | |:white_check_mark: | |HSTS Nginx| |
+|[https://organisaties.doemeemetmdt.nl](https://organisaties.doemeemetmdt.nl)| |nginx| |:white_check_mark: | | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx|
+|[https://www.doemeemetmdt.nl](https://www.doemeemetmdt.nl)| |nginx| |:white_check_mark: | | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx|
+|[https://staging.doemeemetmdt.nl](https://staging.doemeemetmdt.nl)| |nginx| | | | | |:white_check_mark: |Basic Nginx|
+|[https://staging-organisaties.doemeemetmdt.nl](https://staging-organisaties.doemeemetmdt.nl)| |nginx| | | | | |:white_check_mark: |Basic Nginx|
+|[https://doemeemetmdt.nl](https://doemeemetmdt.nl)| |nginx| |:white_check_mark: | | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx|

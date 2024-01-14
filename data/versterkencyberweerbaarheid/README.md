@@ -9,7 +9,7 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |
 |------------|-------|------|------|------|------|------|------|------|------|
-|[https://versterkencyberweerbaarheid.nl](https://versterkencyberweerbaarheid.nl)| |nginx| |:white_check_mark: | |:warning: |:white_check_mark: | |:white_check_mark: | |:white_check_mark: | |HSTS Nginx| |
-|[https://www.versterkencyberweerbaarheid.nl](https://www.versterkencyberweerbaarheid.nl)| |nginx| |:white_check_mark: | |:warning: |:white_check_mark: | |:white_check_mark: | |:white_check_mark: | |Bloomreach HSTS Ngin...| |
-|[https://feeds.versterkencyberweerbaarheid.nl](https://feeds.versterkencyberweerbaarheid.nl)| |nginx| |:white_check_mark: | | |:white_check_mark: | |:white_check_mark: | |:white_check_mark: | |HSTS Nginx| |
-|[https://opendata.versterkencyberweerbaarheid.nl](https://opendata.versterkencyberweerbaarheid.nl)| |nginx| |:white_check_mark: | | |:white_check_mark: | |:white_check_mark: | |:white_check_mark: | |HSTS Nginx| |
+|[https://versterkencyberweerbaarheid.nl](https://versterkencyberweerbaarheid.nl)| |nginx| |:white_check_mark: | |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx|
+|[https://www.versterkencyberweerbaarheid.nl](https://www.versterkencyberweerbaarheid.nl)| |nginx| |:white_check_mark: | |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Bloomreach HSTS Ngin...|
+|[https://feeds.versterkencyberweerbaarheid.nl](https://feeds.versterkencyberweerbaarheid.nl)| |nginx| |:white_check_mark: | | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx|
+|[https://opendata.versterkencyberweerbaarheid.nl](https://opendata.versterkencyberweerbaarheid.nl)| |nginx| |:white_check_mark: | | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx|

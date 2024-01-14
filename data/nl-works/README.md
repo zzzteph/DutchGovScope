@@ -9,5 +9,5 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |
 |------------|-------|------|------|------|------|------|------|------|------|
-|[https://www.nl-works.nl](https://www.nl-works.nl)| | | | | | | |:white_check_mark: | |HSTS| |
-|[https://nl-works.nl](https://nl-works.nl)| | | | | | | |:white_check_mark: | || |
+|[https://www.nl-works.nl](https://www.nl-works.nl)| | | | | | | |:white_check_mark: |HSTS|
+|[https://nl-works.nl](https://nl-works.nl)| | | | | | | |:white_check_mark: ||

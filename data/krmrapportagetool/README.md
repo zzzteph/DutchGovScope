@@ -9,6 +9,6 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |
 |------------|-------|------|------|------|------|------|------|------|------|
-|[https://acc.krmrapportagetool.nl](https://acc.krmrapportagetool.nl)| | | | | | | |:white_check_mark: | |IIS:10.0 Microsoft A...| |
-|[https://www.krmrapportagetool.nl](https://www.krmrapportagetool.nl)| | | | | | | |:white_check_mark: | |IIS:10.0 Microsoft A...| |
-|[https://krmrapportagetool.nl](https://krmrapportagetool.nl)| | | | | | | |:white_check_mark: | |IIS:10.0 Microsoft A...| |
+|[https://acc.krmrapportagetool.nl](https://acc.krmrapportagetool.nl)| | | | | | | |:white_check_mark: |IIS:10.0 Microsoft A...|
+|[https://www.krmrapportagetool.nl](https://www.krmrapportagetool.nl)| | | | | | | |:white_check_mark: |IIS:10.0 Microsoft A...|
+|[https://krmrapportagetool.nl](https://krmrapportagetool.nl)| | | | | | | |:white_check_mark: |IIS:10.0 Microsoft A...|

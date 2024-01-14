@@ -9,5 +9,5 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |
 |------------|-------|------|------|------|------|------|------|------|------|
-|[https://www.bodemplus.nl](https://www.bodemplus.nl)| | | |:white_check_mark: | |:white_check_mark: | |:white_check_mark: | |:white_check_mark: | |Google Tag Manager H...| |
-|[https://bodemplus.nl](https://bodemplus.nl)| | | |:white_check_mark: | |:white_check_mark: | |:white_check_mark: | |:white_check_mark: | |HSTS Microsoft ASP.N...| |
+|[https://www.bodemplus.nl](https://www.bodemplus.nl)| | | |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |Google Tag Manager H...|
+|[https://bodemplus.nl](https://bodemplus.nl)| | | |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Microsoft ASP.N...|

@@ -9,8 +9,8 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |
 |------------|-------|------|------|------|------|------|------|------|------|
-|[https://feeds.bureauncdr.nl](https://feeds.bureauncdr.nl)| $${\color{red}A+}$$ |nginx| |:white_check_mark: | | |:white_check_mark: | |:white_check_mark: | |:white_check_mark: | |HSTS Nginx| |
-|[https://np2022.bureauncdr.nl](https://np2022.bureauncdr.nl)| $${\color{red}A}$$ |nginx| | | | | |:white_check_mark: | |MySQL Nginx PHP WPML...| |
-|[https://opendata.bureauncdr.nl](https://opendata.bureauncdr.nl)| $${\color{red}A+}$$ |nginx| |:white_check_mark: | | |:white_check_mark: | |:white_check_mark: | |:white_check_mark: | |HSTS Nginx| |
-|[https://www.bureauncdr.nl](https://www.bureauncdr.nl)| $${\color{red}A+}$$ |nginx| |:white_check_mark: | |:warning: |:white_check_mark: | |:white_check_mark: | |:white_check_mark: | |Bloomreach HSTS Ngin...| |
-|[https://bureauncdr.nl](https://bureauncdr.nl)| $${\color{red}A+}$$ |nginx| |:white_check_mark: | |:warning: |:white_check_mark: | |:white_check_mark: | |:white_check_mark: | |HSTS Nginx| |
+|[https://feeds.bureauncdr.nl](https://feeds.bureauncdr.nl)| $${\color{green}A+}$$ |nginx| |:white_check_mark: | | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx|
+|[https://np2022.bureauncdr.nl](https://np2022.bureauncdr.nl)| $${\color{green}A}$$ |nginx| | | | | |:white_check_mark: |MySQL Nginx PHP WPML...|
+|[https://opendata.bureauncdr.nl](https://opendata.bureauncdr.nl)| $${\color{green}A+}$$ |nginx| |:white_check_mark: | | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx|
+|[https://www.bureauncdr.nl](https://www.bureauncdr.nl)| $${\color{green}A+}$$ |nginx| |:white_check_mark: | |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Bloomreach HSTS Ngin...|
+|[https://bureauncdr.nl](https://bureauncdr.nl)| $${\color{green}A+}$$ |nginx| |:white_check_mark: | |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx|

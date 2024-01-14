@@ -9,5 +9,5 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |
 |------------|-------|------|------|------|------|------|------|------|------|
-|[https://www.informatiepuntdigitaleoverheid.nl](https://www.informatiepuntdigitaleoverheid.nl)| |apache| |:white_check_mark: | | | | |:white_check_mark: | |Apache HTTP Server H...| |
-|[https://informatiepuntdigitaleoverheid.nl](https://informatiepuntdigitaleoverheid.nl)| |apache| |:white_check_mark: | | | | |:white_check_mark: | |Apache HTTP Server H...| |
+|[https://www.informatiepuntdigitaleoverheid.nl](https://www.informatiepuntdigitaleoverheid.nl)| |apache| |:white_check_mark: | | | | |:white_check_mark: |Apache HTTP Server H...|
+|[https://informatiepuntdigitaleoverheid.nl](https://informatiepuntdigitaleoverheid.nl)| |apache| |:white_check_mark: | | | | |:white_check_mark: |Apache HTTP Server H...|

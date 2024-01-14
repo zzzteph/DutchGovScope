@@ -9,7 +9,7 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |
 |------------|-------|------|------|------|------|------|------|------|------|
-|[https://feeds.bureautoetsinginvesteringen.nl](https://feeds.bureautoetsinginvesteringen.nl)| $${\color{red}A+}$$ |nginx| |:white_check_mark: | | |:white_check_mark: | |:white_check_mark: | |:white_check_mark: | |HSTS Nginx| |
-|[https://opendata.bureautoetsinginvesteringen.nl](https://opendata.bureautoetsinginvesteringen.nl)| $${\color{red}A+}$$ |nginx| |:white_check_mark: | | |:white_check_mark: | |:white_check_mark: | |:white_check_mark: | |HSTS Nginx| |
-|[https://www.bureautoetsinginvesteringen.nl](https://www.bureautoetsinginvesteringen.nl)| $${\color{red}A+}$$ |nginx| |:white_check_mark: | |:warning: |:white_check_mark: | |:white_check_mark: | |:white_check_mark: | |Bloomreach HSTS Ngin...| |
-|[https://bureautoetsinginvesteringen.nl](https://bureautoetsinginvesteringen.nl)| $${\color{red}A+}$$ |nginx| |:white_check_mark: | |:warning: |:white_check_mark: | |:white_check_mark: | |:white_check_mark: | |HSTS Nginx| |
+|[https://feeds.bureautoetsinginvesteringen.nl](https://feeds.bureautoetsinginvesteringen.nl)| $${\color{green}A+}$$ |nginx| |:white_check_mark: | | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx|
+|[https://opendata.bureautoetsinginvesteringen.nl](https://opendata.bureautoetsinginvesteringen.nl)| $${\color{green}A+}$$ |nginx| |:white_check_mark: | | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx|
+|[https://www.bureautoetsinginvesteringen.nl](https://www.bureautoetsinginvesteringen.nl)| $${\color{green}A+}$$ |nginx| |:white_check_mark: | |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Bloomreach HSTS Ngin...|
+|[https://bureautoetsinginvesteringen.nl](https://bureautoetsinginvesteringen.nl)| $${\color{green}A+}$$ |nginx| |:white_check_mark: | |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx|

@@ -9,5 +9,5 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |
 |------------|-------|------|------|------|------|------|------|------|------|
-|[https://sterkmedezeggenschap.nl](https://sterkmedezeggenschap.nl)| |apache/2| | | | | |:white_check_mark: | |Apache HTTP Server:2...| |
-|[https://www.sterkmedezeggenschap.nl](https://www.sterkmedezeggenschap.nl)| |apache/2| | | | | |:white_check_mark: | |Apache HTTP Server:2...| |
+|[https://sterkmedezeggenschap.nl](https://sterkmedezeggenschap.nl)| |apache/2| | | | | |:white_check_mark: |Apache HTTP Server:2...|
+|[https://www.sterkmedezeggenschap.nl](https://www.sterkmedezeggenschap.nl)| |apache/2| | | | | |:white_check_mark: |Apache HTTP Server:2...|

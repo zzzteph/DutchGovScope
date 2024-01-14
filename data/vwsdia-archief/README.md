@@ -9,5 +9,5 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |
 |------------|-------|------|------|------|------|------|------|------|------|
-|[https://vwsdia-archief.nl](https://vwsdia-archief.nl)| |nginx/1.20.1| | | |:white_check_mark: | |:white_check_mark: | |:white_check_mark: | |Nginx:1.20.1| |
-|[https://www.vwsdia-archief.nl](https://www.vwsdia-archief.nl)| |nginx/1.20.1| | | |:white_check_mark: | |:white_check_mark: | |:white_check_mark: | |Nginx:1.20.1| |
+|[https://vwsdia-archief.nl](https://vwsdia-archief.nl)| |nginx/1.20.1| | | |:white_check_mark: |:white_check_mark: |:white_check_mark: |Nginx:1.20.1|
+|[https://www.vwsdia-archief.nl](https://www.vwsdia-archief.nl)| |nginx/1.20.1| | | |:white_check_mark: |:white_check_mark: |:white_check_mark: |Nginx:1.20.1|

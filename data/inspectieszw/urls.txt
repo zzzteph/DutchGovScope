@@ -1,9 +1,8 @@
 https://acceptatie.melding.inspectieszw.nl
 https://asbestovertredingen.inspectieszw.nl
-https://feeds.inspectieszw.nl
 https://melding.inspectieszw.nl
 http://monitor.inspectieszw.nl
-https://opendata.inspectieszw.nl
+http://opendata.inspectieszw.nl
 https://test.melding.inspectieszw.nl
 https://www.inspectieszw.nl
 https://inspectieszw.nl

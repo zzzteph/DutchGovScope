@@ -9,7 +9,7 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |
 |------------|-------|------|------|------|------|------|------|------|------|
-|[https://webshop.incidentmanagement.nl](https://webshop.incidentmanagement.nl)| | | | | | | |:white_check_mark: | |Nginx| |
-|[https://www.incidentmanagement.nl](https://www.incidentmanagement.nl)| | | |:white_check_mark: | | |:white_check_mark: | |:white_check_mark: | |:white_check_mark: | |HSTS Microsoft ASP.N...| |
-|[https://www.webshop.incidentmanagement.nl](https://www.webshop.incidentmanagement.nl)| | | | | | | |:white_check_mark: | |Nginx| |
-|[https://incidentmanagement.nl](https://incidentmanagement.nl)| | | |:white_check_mark: | | |:white_check_mark: | |:white_check_mark: | |:white_check_mark: | |HSTS Microsoft ASP.N...| |
+|[https://webshop.incidentmanagement.nl](https://webshop.incidentmanagement.nl)| | | | | | | |:white_check_mark: |Nginx|
+|[https://www.incidentmanagement.nl](https://www.incidentmanagement.nl)| | | |:white_check_mark: | | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Microsoft ASP.N...|
+|[https://www.webshop.incidentmanagement.nl](https://www.webshop.incidentmanagement.nl)| | | | | | | |:white_check_mark: |Nginx|
+|[https://incidentmanagement.nl](https://incidentmanagement.nl)| | | |:white_check_mark: | | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Microsoft ASP.N...|

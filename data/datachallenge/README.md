@@ -9,6 +9,6 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |
 |------------|-------|------|------|------|------|------|------|------|------|
-|[https://mail.datachallenge.nl](https://mail.datachallenge.nl)| | | | | | | |:white_check_mark: | |Apache HTTP Server:2...| |
-|[https://www.datachallenge.nl](https://www.datachallenge.nl)| |apache/2| | | | | |:white_check_mark: | |Apache HTTP Server:2| |
-|[https://datachallenge.nl](https://datachallenge.nl)| |apache/2| | | | | |:white_check_mark: | |Apache HTTP Server:2| |
+|[https://mail.datachallenge.nl](https://mail.datachallenge.nl)| | | | | | | |:white_check_mark: |Apache HTTP Server:2...|
+|[https://www.datachallenge.nl](https://www.datachallenge.nl)| |apache/2| | | | | |:white_check_mark: |Apache HTTP Server:2|
+|[https://datachallenge.nl](https://datachallenge.nl)| |apache/2| | | | | |:white_check_mark: |Apache HTTP Server:2|

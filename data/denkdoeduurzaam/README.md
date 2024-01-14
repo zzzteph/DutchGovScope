@@ -1,5 +1,5 @@
 # denkdoeduurzaam.nl
-*Last update:2024-01-10 20:57:11*
+*Last update:2024-01-14 02:13:13*
 ## Summary data
 | File       | Count | Info |
 |------------|-------|------|
@@ -9,7 +9,7 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |
 |------------|-------|------|------|------|------|------|------|------|------|
-|[https://feeds.denkdoeduurzaam.nl](https://feeds.denkdoeduurzaam.nl)| $${\color{red}A+}$$ |nginx| |:white_check_mark: | | |:white_check_mark: | |:white_check_mark: | |:white_check_mark: | |HSTS Nginx| |
-|[https://opendata.denkdoeduurzaam.nl](https://opendata.denkdoeduurzaam.nl)| $${\color{red}A+}$$ |nginx| |:white_check_mark: | | |:white_check_mark: | |:white_check_mark: | |:white_check_mark: | |HSTS Nginx| |
-|[https://www.denkdoeduurzaam.nl](https://www.denkdoeduurzaam.nl)| $${\color{red}A+}$$ |nginx| |:white_check_mark: | |:warning: |:white_check_mark: | |:white_check_mark: | |:white_check_mark: | |Bloomreach HSTS Ngin...| |
-|[https://denkdoeduurzaam.nl](https://denkdoeduurzaam.nl)| $${\color{red}A+}$$ |nginx| |:white_check_mark: | |:warning: |:white_check_mark: | |:white_check_mark: | |:white_check_mark: | |HSTS Nginx| |
+|[https://feeds.denkdoeduurzaam.nl](https://feeds.denkdoeduurzaam.nl)| $${\color{green}A+}$$ |nginx| |:white_check_mark: | | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx|
+|[https://opendata.denkdoeduurzaam.nl](https://opendata.denkdoeduurzaam.nl)| $${\color{green}A+}$$ |nginx| |:white_check_mark: | | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx|
+|[https://www.denkdoeduurzaam.nl](https://www.denkdoeduurzaam.nl)| $${\color{green}A+}$$ |nginx| |:white_check_mark: | |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Bloomreach HSTS Ngin...|
+|[https://denkdoeduurzaam.nl](https://denkdoeduurzaam.nl)| $${\color{green}A+}$$ |nginx| |:white_check_mark: | |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx|

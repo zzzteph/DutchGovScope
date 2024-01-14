@@ -9,5 +9,5 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |
 |------------|-------|------|------|------|------|------|------|------|------|
-|[https://meedoenmeteenbeperking.nl](https://meedoenmeteenbeperking.nl)| | | | | | | |:white_check_mark: | |HSTS IIS:10.0 Window...| |
-|[https://www.meedoenmeteenbeperking.nl](https://www.meedoenmeteenbeperking.nl)| | | | | | | |:white_check_mark: | |HSTS IIS:10.0 Window...| |
+|[https://meedoenmeteenbeperking.nl](https://meedoenmeteenbeperking.nl)| | | | | | | |:white_check_mark: |HSTS IIS:10.0 Window...|
+|[https://www.meedoenmeteenbeperking.nl](https://www.meedoenmeteenbeperking.nl)| | | | | | | |:white_check_mark: |HSTS IIS:10.0 Window...|

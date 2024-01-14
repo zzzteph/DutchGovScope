@@ -1,5 +1,5 @@
 # centraleeindtoetspo.nl
-*Last update:2024-01-10 20:57:10*
+*Last update:2024-01-14 01:04:31*
 ## Summary data
 | File       | Count | Info |
 |------------|-------|------|
@@ -9,10 +9,10 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |
 |------------|-------|------|------|------|------|------|------|------|------|
-|[https://feeds.centraleeindtoetspo.nl](https://feeds.centraleeindtoetspo.nl)| $${\color{red}A+}$$ |nginx| |:white_check_mark: | | |:white_check_mark: | |:white_check_mark: | |:white_check_mark: | |HSTS Nginx| |
-|[https://inschrijvingcet-a.centraleeindtoetspo.nl](https://inschrijvingcet-a.centraleeindtoetspo.nl)| | | | | | | |:white_check_mark: | |IIS:10.0 Microsoft A...| |
-|[https://inschrijvingdcet-a.centraleeindtoetspo.nl](https://inschrijvingdcet-a.centraleeindtoetspo.nl)| | | | | | | |:white_check_mark: | |IIS:10.0 Microsoft A...| |
-|[https://opendata.centraleeindtoetspo.nl](https://opendata.centraleeindtoetspo.nl)| $${\color{red}A+}$$ |nginx| |:white_check_mark: | | |:white_check_mark: | |:white_check_mark: | |:white_check_mark: | |HSTS Nginx| |
-|[https://rcet-a.centraleeindtoetspo.nl](https://rcet-a.centraleeindtoetspo.nl)| | | | | | | |:white_check_mark: | |Microsoft HTTPAPI:2....| |
-|[https://www.centraleeindtoetspo.nl](https://www.centraleeindtoetspo.nl)| $${\color{red}A+}$$ |nginx| |:white_check_mark: | |:warning: |:white_check_mark: | |:white_check_mark: | |:white_check_mark: | |Bloomreach HSTS Ngin...| |
-|[https://centraleeindtoetspo.nl](https://centraleeindtoetspo.nl)| $${\color{red}A+}$$ |nginx| |:white_check_mark: | |:warning: |:white_check_mark: | |:white_check_mark: | |:white_check_mark: | |HSTS Nginx| |
+|[https://feeds.centraleeindtoetspo.nl](https://feeds.centraleeindtoetspo.nl)| $${\color{green}A+}$$ |nginx| |:white_check_mark: | | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx|
+|[https://inschrijvingcet-a.centraleeindtoetspo.nl](https://inschrijvingcet-a.centraleeindtoetspo.nl)| | | | | | | |:white_check_mark: |IIS:10.0 Microsoft A...|
+|[https://inschrijvingdcet-a.centraleeindtoetspo.nl](https://inschrijvingdcet-a.centraleeindtoetspo.nl)| | | | | | | |:white_check_mark: |IIS:10.0 Microsoft A...|
+|[https://opendata.centraleeindtoetspo.nl](https://opendata.centraleeindtoetspo.nl)| $${\color{green}A+}$$ |nginx| |:white_check_mark: | | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx|
+|[https://rcet-a.centraleeindtoetspo.nl](https://rcet-a.centraleeindtoetspo.nl)| | | | | | | |:white_check_mark: |Microsoft HTTPAPI:2....|
+|[https://www.centraleeindtoetspo.nl](https://www.centraleeindtoetspo.nl)| $${\color{green}A+}$$ |nginx| |:white_check_mark: | |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Bloomreach HSTS Ngin...|
+|[https://centraleeindtoetspo.nl](https://centraleeindtoetspo.nl)| $${\color{green}A+}$$ |nginx| |:white_check_mark: | |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx|

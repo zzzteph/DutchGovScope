@@ -9,6 +9,6 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |
 |------------|-------|------|------|------|------|------|------|------|------|
-|[https://mail.knooppuntjoure.nl](https://mail.knooppuntjoure.nl)| |cloudflare| | | | | |:white_check_mark: | |Cloudflare HTTP/3| |
-|[https://www.knooppuntjoure.nl](https://www.knooppuntjoure.nl)| |cloudflare| | | | | |:white_check_mark: | |Cloudflare HTTP/3 My...| |
-|[https://knooppuntjoure.nl](https://knooppuntjoure.nl)| |cloudflare| | | | | |:white_check_mark: | |Cloudflare HTTP/3 PH...| |
+|[https://mail.knooppuntjoure.nl](https://mail.knooppuntjoure.nl)| |cloudflare| | | | | |:white_check_mark: |Cloudflare HTTP/3|
+|[https://www.knooppuntjoure.nl](https://www.knooppuntjoure.nl)| |cloudflare| | | | | |:white_check_mark: |Cloudflare HTTP/3 My...|
+|[https://knooppuntjoure.nl](https://knooppuntjoure.nl)| |cloudflare| | | | | |:white_check_mark: |Cloudflare HTTP/3 PH...|

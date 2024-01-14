@@ -9,6 +9,6 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |
 |------------|-------|------|------|------|------|------|------|------|------|
-|[https://backend.immissietoets.nl](https://backend.immissietoets.nl)| |uvicorn| |:white_check_mark: | | | | |:white_check_mark: | |HSTS Python Uvicorn| |
-|[https://www.immissietoets.nl](https://www.immissietoets.nl)| | | |:white_check_mark: | | | | |:white_check_mark: | |Express HSTS Node.js| |
-|[https://immissietoets.nl](https://immissietoets.nl)| | | |:white_check_mark: | | | | |:white_check_mark: | |Express HSTS Node.js| |
+|[https://backend.immissietoets.nl](https://backend.immissietoets.nl)| |uvicorn| |:white_check_mark: | | | | |:white_check_mark: |HSTS Python Uvicorn|
+|[https://www.immissietoets.nl](https://www.immissietoets.nl)| | | |:white_check_mark: | | | | |:white_check_mark: |Express HSTS Node.js|
+|[https://immissietoets.nl](https://immissietoets.nl)| | | |:white_check_mark: | | | | |:white_check_mark: |Express HSTS Node.js|

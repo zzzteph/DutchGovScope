@@ -9,10 +9,10 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |
 |------------|-------|------|------|------|------|------|------|------|------|
-|[https://archief.rijksfinancien.nl](https://archief.rijksfinancien.nl)| | | |:white_check_mark: | |:white_check_mark: | |:white_check_mark: | |:white_check_mark: | |Bootstrap Drupal HST...| |
-|[https://rbv.rijksfinancien.nl](https://rbv.rijksfinancien.nl)| |apache| |:white_check_mark: | | |:white_check_mark: | | |:white_check_mark: | |Apache HTTP Server D...| |
-|[https://rbv-acc.rijksfinancien.nl](https://rbv-acc.rijksfinancien.nl)| |apache| |:white_check_mark: | | |:white_check_mark: | | |:white_check_mark: | |Apache HTTP Server D...| |
-|[https://www.rijksfinancien.nl](https://www.rijksfinancien.nl)| | | |:white_check_mark: | |:white_check_mark: | |:white_check_mark: | |:white_check_mark: | |Drupal HSTS PHP| |
-|[http://rijksfinancien.nl](http://rijksfinancien.nl)| | | | | | | |:white_check_mark: | |F5 BigIP| |
-|[https://evaluaties-acc.rijksfinancien.nl](https://evaluaties-acc.rijksfinancien.nl)| | | |:white_check_mark: | | | | |:white_check_mark: | |HSTS| |
-|[http://evaluaties.rijksfinancien.nl](http://evaluaties.rijksfinancien.nl)| | | | | | | |:white_check_mark: | || |
+|[https://archief.rijksfinancien.nl](https://archief.rijksfinancien.nl)| | | |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |Bootstrap Drupal HST...|
+|[https://rbv.rijksfinancien.nl](https://rbv.rijksfinancien.nl)| |apache| |:white_check_mark: | | |:white_check_mark: | |:white_check_mark: |Apache HTTP Server D...|
+|[https://rbv-acc.rijksfinancien.nl](https://rbv-acc.rijksfinancien.nl)| |apache| |:white_check_mark: | | |:white_check_mark: | |:white_check_mark: |Apache HTTP Server D...|
+|[https://www.rijksfinancien.nl](https://www.rijksfinancien.nl)| | | |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |Drupal HSTS PHP|
+|[http://rijksfinancien.nl](http://rijksfinancien.nl)| | | | | | | |:white_check_mark: |F5 BigIP|
+|[https://evaluaties-acc.rijksfinancien.nl](https://evaluaties-acc.rijksfinancien.nl)| | | |:white_check_mark: | | | | |:white_check_mark: |HSTS|
+|[http://evaluaties.rijksfinancien.nl](http://evaluaties.rijksfinancien.nl)| | | | | | | |:white_check_mark: ||

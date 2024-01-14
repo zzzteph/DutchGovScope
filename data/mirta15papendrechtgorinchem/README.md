@@ -9,7 +9,7 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |
 |------------|-------|------|------|------|------|------|------|------|------|
-|[https://feeds.mirta15papendrechtgorinchem.nl](https://feeds.mirta15papendrechtgorinchem.nl)| |nginx| |:white_check_mark: | | |:white_check_mark: | |:white_check_mark: | |:white_check_mark: | |HSTS Nginx| |
-|[https://opendata.mirta15papendrechtgorinchem.nl](https://opendata.mirta15papendrechtgorinchem.nl)| |nginx| |:white_check_mark: | | |:white_check_mark: | |:white_check_mark: | |:white_check_mark: | |HSTS Nginx| |
-|[https://www.mirta15papendrechtgorinchem.nl](https://www.mirta15papendrechtgorinchem.nl)| |nginx| |:white_check_mark: | |:warning: |:white_check_mark: | |:white_check_mark: | |:white_check_mark: | |Bloomreach HSTS Ngin...| |
-|[https://mirta15papendrechtgorinchem.nl](https://mirta15papendrechtgorinchem.nl)| |nginx| |:white_check_mark: | |:warning: |:white_check_mark: | |:white_check_mark: | |:white_check_mark: | |HSTS Nginx| |
+|[https://feeds.mirta15papendrechtgorinchem.nl](https://feeds.mirta15papendrechtgorinchem.nl)| |nginx| |:white_check_mark: | | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx|
+|[https://opendata.mirta15papendrechtgorinchem.nl](https://opendata.mirta15papendrechtgorinchem.nl)| |nginx| |:white_check_mark: | | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx|
+|[https://www.mirta15papendrechtgorinchem.nl](https://www.mirta15papendrechtgorinchem.nl)| |nginx| |:white_check_mark: | |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Bloomreach HSTS Ngin...|
+|[https://mirta15papendrechtgorinchem.nl](https://mirta15papendrechtgorinchem.nl)| |nginx| |:white_check_mark: | |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx|

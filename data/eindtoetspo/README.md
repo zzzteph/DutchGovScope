@@ -9,5 +9,5 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |
 |------------|-------|------|------|------|------|------|------|------|------|
-|[https://eindtoetspo.nl](https://eindtoetspo.nl)| |nginx| | | | | |:white_check_mark: | |Nginx| |
-|[https://www.eindtoetspo.nl](https://www.eindtoetspo.nl)| |nginx| | | | | |:white_check_mark: | |Nginx| |
+|[https://eindtoetspo.nl](https://eindtoetspo.nl)| |nginx| | | | | |:white_check_mark: |Nginx|
+|[https://www.eindtoetspo.nl](https://www.eindtoetspo.nl)| |nginx| | | | | |:white_check_mark: |Nginx|

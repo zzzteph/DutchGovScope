@@ -9,6 +9,6 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |
 |------------|-------|------|------|------|------|------|------|------|------|
-|[https://accept.emnnetherlands.nl](https://accept.emnnetherlands.nl)| |apache| | | | | |:white_check_mark: | |Apache HTTP Server B...| |
-|[https://www.emnnetherlands.nl](https://www.emnnetherlands.nl)| |apache| |:white_check_mark: | |:white_check_mark: | | |:white_check_mark: | |Apache HTTP Server D...| |
-|[https://emnnetherlands.nl](https://emnnetherlands.nl)| |apache| |:white_check_mark: | |:white_check_mark: | | |:white_check_mark: | |Apache HTTP Server| |
+|[https://accept.emnnetherlands.nl](https://accept.emnnetherlands.nl)| |apache| | | | | |:white_check_mark: |Apache HTTP Server B...|
+|[https://www.emnnetherlands.nl](https://www.emnnetherlands.nl)| |apache| |:white_check_mark: | |:white_check_mark: | |:white_check_mark: |Apache HTTP Server D...|
+|[https://emnnetherlands.nl](https://emnnetherlands.nl)| |apache| |:white_check_mark: | |:white_check_mark: | |:white_check_mark: |Apache HTTP Server|

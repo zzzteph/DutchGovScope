@@ -9,6 +9,6 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |
 |------------|-------|------|------|------|------|------|------|------|------|
-|[https://postmaster.ertms.nl](https://postmaster.ertms.nl)| | | | | | | |:white_check_mark: | || |
-|[https://www.ertms.nl](https://www.ertms.nl)| | | |:white_check_mark: | | |:white_check_mark: | |:white_check_mark: | |:white_check_mark: | |HSTS Microsoft ASP.N...| |
-|[https://ertms.nl](https://ertms.nl)| | | |:white_check_mark: | | |:white_check_mark: | |:white_check_mark: | |:white_check_mark: | |HSTS Microsoft ASP.N...| |
+|[https://postmaster.ertms.nl](https://postmaster.ertms.nl)| | | | | | | |:white_check_mark: ||
+|[https://www.ertms.nl](https://www.ertms.nl)| | | |:white_check_mark: | | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Microsoft ASP.N...|
+|[https://ertms.nl](https://ertms.nl)| | | |:white_check_mark: | | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Microsoft ASP.N...|

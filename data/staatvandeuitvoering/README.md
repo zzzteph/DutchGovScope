@@ -9,5 +9,5 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |
 |------------|-------|------|------|------|------|------|------|------|------|
-|[https://www.staatvandeuitvoering.nl](https://www.staatvandeuitvoering.nl)| || |:white_check_mark: | |:white_check_mark: | |:white_check_mark: | |:white_check_mark: | |HSTS Nginx| |
-|[https://staatvandeuitvoering.nl](https://staatvandeuitvoering.nl)| || |:white_check_mark: | |:white_check_mark: | |:white_check_mark: | |:white_check_mark: | |Gravity Forms HSTS M...| |
+|[https://www.staatvandeuitvoering.nl](https://www.staatvandeuitvoering.nl)| || |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx|
+|[https://staatvandeuitvoering.nl](https://staatvandeuitvoering.nl)| || |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |Gravity Forms HSTS M...|

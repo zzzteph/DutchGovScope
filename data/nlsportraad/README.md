@@ -9,6 +9,6 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |
 |------------|-------|------|------|------|------|------|------|------|------|
-|[https://nlsportraad.nl](https://nlsportraad.nl)| | | | | | | |:white_check_mark: | |HSTS IIS:10.0 Window...| |
-|[https://www.nlsportraad.nl](https://www.nlsportraad.nl)| | | | | | | |:white_check_mark: | |HSTS IIS:10.0 Window...| |
-|[https://mailings.nlsportraad.nl](https://mailings.nlsportraad.nl)| | | | | | | |:white_check_mark: | |HSTS| |
+|[https://nlsportraad.nl](https://nlsportraad.nl)| | | | | | | |:white_check_mark: |HSTS IIS:10.0 Window...|
+|[https://www.nlsportraad.nl](https://www.nlsportraad.nl)| | | | | | | |:white_check_mark: |HSTS IIS:10.0 Window...|
+|[https://mailings.nlsportraad.nl](https://mailings.nlsportraad.nl)| | | | | | | |:white_check_mark: |HSTS|

@@ -1,5 +1,5 @@
 # kabinetvandekoning.nl
-*Last update:2024-01-10 20:57:16*
+*Last update:2024-01-14 06:02:06*
 ## Summary data
 | File       | Count | Info |
 |------------|-------|------|
@@ -9,11 +9,11 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |
 |------------|-------|------|------|------|------|------|------|------|------|
-|[https://english.kabinetvandekoning.nl](https://english.kabinetvandekoning.nl)| |nginx| |:white_check_mark: | |:warning: |:white_check_mark: | |:white_check_mark: | |:white_check_mark: | |Bloomreach HSTS Ngin...| |
-|[https://feeds.kabinetvandekoning.nl](https://feeds.kabinetvandekoning.nl)| |nginx| |:white_check_mark: | | |:white_check_mark: | |:white_check_mark: | |:white_check_mark: | |HSTS Nginx| |
-|[https://feeds.english.kabinetvandekoning.nl](https://feeds.english.kabinetvandekoning.nl)| |nginx| |:white_check_mark: | | |:white_check_mark: | |:white_check_mark: | |:white_check_mark: | |HSTS Nginx| |
-|[https://mail.kabinetvandekoning.nl](https://mail.kabinetvandekoning.nl)| | | | | | | |:white_check_mark: | |HSTS| |
-|[https://opendata.kabinetvandekoning.nl](https://opendata.kabinetvandekoning.nl)| |nginx| |:white_check_mark: | | |:white_check_mark: | |:white_check_mark: | |:white_check_mark: | |HSTS Nginx| |
-|[https://opendata.english.kabinetvandekoning.nl](https://opendata.english.kabinetvandekoning.nl)| |nginx| |:white_check_mark: | | |:white_check_mark: | |:white_check_mark: | |:white_check_mark: | |HSTS Nginx| |
-|[https://www.kabinetvandekoning.nl](https://www.kabinetvandekoning.nl)| |nginx| |:white_check_mark: | |:warning: |:white_check_mark: | |:white_check_mark: | |:white_check_mark: | |Bloomreach HSTS Ngin...| |
-|[https://kabinetvandekoning.nl](https://kabinetvandekoning.nl)| |nginx| |:white_check_mark: | |:warning: |:white_check_mark: | |:white_check_mark: | |:white_check_mark: | |HSTS Nginx| |
+|[https://english.kabinetvandekoning.nl](https://english.kabinetvandekoning.nl)| |nginx| |:white_check_mark: | |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Bloomreach HSTS Ngin...|
+|[https://feeds.kabinetvandekoning.nl](https://feeds.kabinetvandekoning.nl)| |nginx| |:white_check_mark: | | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx|
+|[https://feeds.english.kabinetvandekoning.nl](https://feeds.english.kabinetvandekoning.nl)| |nginx| |:white_check_mark: | | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx|
+|[https://mail.kabinetvandekoning.nl](https://mail.kabinetvandekoning.nl)| | | | | | | |:white_check_mark: |HSTS|
+|[https://opendata.kabinetvandekoning.nl](https://opendata.kabinetvandekoning.nl)| |nginx| |:white_check_mark: | | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx|
+|[https://opendata.english.kabinetvandekoning.nl](https://opendata.english.kabinetvandekoning.nl)| |nginx| |:white_check_mark: | | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx|
+|[https://www.kabinetvandekoning.nl](https://www.kabinetvandekoning.nl)| |nginx| |:white_check_mark: | |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Bloomreach HSTS Ngin...|
+|[https://kabinetvandekoning.nl](https://kabinetvandekoning.nl)| |nginx| |:white_check_mark: | |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx|

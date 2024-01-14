@@ -9,13 +9,13 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |
 |------------|-------|------|------|------|------|------|------|------|------|
-|[https://anyc.ssc-ict.nl](https://anyc.ssc-ict.nl)| | |:warning: |:white_check_mark: | |:warning: |:white_check_mark: | |:white_check_mark: | |:white_check_mark: | |HSTS| |
-|[https://anyc-t01-a.ssc-ict.nl](https://anyc-t01-a.ssc-ict.nl)| | |:warning: |:white_check_mark: | |:warning: |:white_check_mark: | |:white_check_mark: | |:white_check_mark: | |HSTS| |
-|[https://anyc-t02.ssc-ict.nl](https://anyc-t02.ssc-ict.nl)| | |:warning: |:white_check_mark: | |:warning: |:white_check_mark: | |:white_check_mark: | |:white_check_mark: | |HSTS| |
-|[https://anyc-t03.ssc-ict.nl](https://anyc-t03.ssc-ict.nl)| | |:warning: |:white_check_mark: | |:warning: |:white_check_mark: | |:white_check_mark: | |:white_check_mark: | |HSTS| |
-|[http://dc.ssc-ict.nl](http://dc.ssc-ict.nl)| | | | | | | |:white_check_mark: | |F5 BigIP| |
-|[http://dcpp.ssc-ict.nl](http://dcpp.ssc-ict.nl)| | | | | | | |:white_check_mark: | |F5 BigIP| |
-|[https://feeds.ssc-ict.nl](https://feeds.ssc-ict.nl)| |nginx| |:white_check_mark: | | |:white_check_mark: | |:white_check_mark: | |:white_check_mark: | |HSTS Nginx| |
-|[https://opendata.ssc-ict.nl](https://opendata.ssc-ict.nl)| |nginx| |:white_check_mark: | | |:white_check_mark: | |:white_check_mark: | |:white_check_mark: | |HSTS Nginx| |
-|[https://www.ssc-ict.nl](https://www.ssc-ict.nl)| |nginx| |:white_check_mark: | |:warning: |:white_check_mark: | |:white_check_mark: | |:white_check_mark: | |Bloomreach HSTS Ngin...| |
-|[https://ssc-ict.nl](https://ssc-ict.nl)| |nginx| |:white_check_mark: | |:warning: |:white_check_mark: | |:white_check_mark: | |:white_check_mark: | |HSTS Nginx| |
+|[https://anyc.ssc-ict.nl](https://anyc.ssc-ict.nl)| | |:warning: |:white_check_mark: | |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|
+|[https://anyc-t01-a.ssc-ict.nl](https://anyc-t01-a.ssc-ict.nl)| | |:warning: |:white_check_mark: | |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|
+|[https://anyc-t02.ssc-ict.nl](https://anyc-t02.ssc-ict.nl)| | |:warning: |:white_check_mark: | |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|
+|[https://anyc-t03.ssc-ict.nl](https://anyc-t03.ssc-ict.nl)| | |:warning: |:white_check_mark: | |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|
+|[http://dc.ssc-ict.nl](http://dc.ssc-ict.nl)| | | | | | | |:white_check_mark: |F5 BigIP|
+|[http://dcpp.ssc-ict.nl](http://dcpp.ssc-ict.nl)| | | | | | | |:white_check_mark: |F5 BigIP|
+|[https://feeds.ssc-ict.nl](https://feeds.ssc-ict.nl)| |nginx| |:white_check_mark: | | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx|
+|[https://opendata.ssc-ict.nl](https://opendata.ssc-ict.nl)| |nginx| |:white_check_mark: | | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx|
+|[https://www.ssc-ict.nl](https://www.ssc-ict.nl)| |nginx| |:white_check_mark: | |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Bloomreach HSTS Ngin...|
+|[https://ssc-ict.nl](https://ssc-ict.nl)| |nginx| |:white_check_mark: | |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx|

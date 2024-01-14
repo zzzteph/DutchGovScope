@@ -1,5 +1,5 @@
 # kinderbescherming.nl
-*Last update:2024-01-10 20:57:16*
+*Last update:2024-01-14 06:11:32*
 ## Summary data
 | File       | Count | Info |
 |------------|-------|------|
@@ -9,10 +9,10 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |
 |------------|-------|------|------|------|------|------|------|------|------|
-|[https://connect.kinderbescherming.nl](https://connect.kinderbescherming.nl)| |connect| |:white_check_mark: | |:white_check_mark: | |:white_check_mark: | |:white_check_mark: | |HSTS| |
-|[https://connect-acpt.kinderbescherming.nl](https://connect-acpt.kinderbescherming.nl)| |connect| |:white_check_mark: | |:white_check_mark: | |:white_check_mark: | |:white_check_mark: | |HSTS| |
-|[https://feeds.kinderbescherming.nl](https://feeds.kinderbescherming.nl)| |nginx| |:white_check_mark: | | |:white_check_mark: | |:white_check_mark: | |:white_check_mark: | |HSTS Nginx| |
-|[https://magazines.kinderbescherming.nl](https://magazines.kinderbescherming.nl)| |nginx| |:white_check_mark: | |:warning: |:white_check_mark: | |:white_check_mark: | |:white_check_mark: | |Bloomreach HSTS Ngin...| |
-|[https://opendata.kinderbescherming.nl](https://opendata.kinderbescherming.nl)| |nginx| |:white_check_mark: | | |:white_check_mark: | |:white_check_mark: | |:white_check_mark: | |HSTS Nginx| |
-|[https://www.kinderbescherming.nl](https://www.kinderbescherming.nl)| |nginx| |:white_check_mark: | |:warning: |:white_check_mark: | |:white_check_mark: | |:white_check_mark: | |Bloomreach HSTS Ngin...| |
-|[https://kinderbescherming.nl](https://kinderbescherming.nl)| |nginx| |:white_check_mark: | |:warning: |:white_check_mark: | |:white_check_mark: | |:white_check_mark: | |HSTS Nginx| |
+|[https://connect.kinderbescherming.nl](https://connect.kinderbescherming.nl)| |connect| |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|
+|[https://connect-acpt.kinderbescherming.nl](https://connect-acpt.kinderbescherming.nl)| |connect| |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|
+|[https://feeds.kinderbescherming.nl](https://feeds.kinderbescherming.nl)| |nginx| |:white_check_mark: | | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx|
+|[https://magazines.kinderbescherming.nl](https://magazines.kinderbescherming.nl)| |nginx| |:white_check_mark: | |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Bloomreach HSTS Ngin...|
+|[https://opendata.kinderbescherming.nl](https://opendata.kinderbescherming.nl)| |nginx| |:white_check_mark: | | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx|
+|[https://www.kinderbescherming.nl](https://www.kinderbescherming.nl)| |nginx| |:white_check_mark: | |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Bloomreach HSTS Ngin...|
+|[https://kinderbescherming.nl](https://kinderbescherming.nl)| |nginx| |:white_check_mark: | |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx|

@@ -9,5 +9,5 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |
 |------------|-------|------|------|------|------|------|------|------|------|
-|[https://www.meerwetenoverzorg.nl](https://www.meerwetenoverzorg.nl)| | | | | | | |:white_check_mark: | |HSTS IIS:10.0 Window...| |
-|[https://meerwetenoverzorg.nl](https://meerwetenoverzorg.nl)| | | | | | | |:white_check_mark: | |HSTS IIS:10.0 Window...| |
+|[https://www.meerwetenoverzorg.nl](https://www.meerwetenoverzorg.nl)| | | | | | | |:white_check_mark: |HSTS IIS:10.0 Window...|
+|[https://meerwetenoverzorg.nl](https://meerwetenoverzorg.nl)| | | | | | | |:white_check_mark: |HSTS IIS:10.0 Window...|

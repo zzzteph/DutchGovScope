@@ -9,5 +9,5 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |
 |------------|-------|------|------|------|------|------|------|------|------|
-|[https://kreekraksluizen.nl](https://kreekraksluizen.nl)| |apache/2| |:white_check_mark: | |:white_check_mark: | |:white_check_mark: | |:white_check_mark: | || |
-|[https://www.kreekraksluizen.nl](https://www.kreekraksluizen.nl)| |apache/2| |:white_check_mark: | |:white_check_mark: | |:white_check_mark: | |:white_check_mark: | || |
+|[https://kreekraksluizen.nl](https://kreekraksluizen.nl)| |apache/2| |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: ||
+|[https://www.kreekraksluizen.nl](https://www.kreekraksluizen.nl)| |apache/2| |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: ||

@@ -9,5 +9,5 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |
 |------------|-------|------|------|------|------|------|------|------|------|
-|[https://www.waterbeschikbaarheid.nl](https://www.waterbeschikbaarheid.nl)| |-| |:white_check_mark: | |:white_check_mark: | |:white_check_mark: | |:white_check_mark: | |HSTS Microsoft ASP.N...| |
-|[https://waterbeschikbaarheid.nl](https://waterbeschikbaarheid.nl)| |-| |:white_check_mark: | |:white_check_mark: | |:white_check_mark: | |:white_check_mark: | |HSTS Microsoft ASP.N...| |
+|[https://www.waterbeschikbaarheid.nl](https://www.waterbeschikbaarheid.nl)| |-| |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Microsoft ASP.N...|
+|[https://waterbeschikbaarheid.nl](https://waterbeschikbaarheid.nl)| |-| |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Microsoft ASP.N...|

@@ -9,5 +9,5 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |
 |------------|-------|------|------|------|------|------|------|------|------|
-|[https://www.steunpuntcoronazorgen.nl](https://www.steunpuntcoronazorgen.nl)| |apache| |:white_check_mark: | | |:white_check_mark: | |:white_check_mark: | |:white_check_mark: | |Apache HTTP Server D...| |
-|[https://steunpuntcoronazorgen.nl](https://steunpuntcoronazorgen.nl)| |apache| |:white_check_mark: | | |:white_check_mark: | |:white_check_mark: | |:white_check_mark: | |Apache HTTP Server H...| |
+|[https://www.steunpuntcoronazorgen.nl](https://www.steunpuntcoronazorgen.nl)| |apache| |:white_check_mark: | | |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache HTTP Server D...|
+|[https://steunpuntcoronazorgen.nl](https://steunpuntcoronazorgen.nl)| |apache| |:white_check_mark: | | |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache HTTP Server H...|

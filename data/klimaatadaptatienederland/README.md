@@ -9,7 +9,7 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |
 |------------|-------|------|------|------|------|------|------|------|------|
-|[https://files.klimaatadaptatienederland.nl](https://files.klimaatadaptatienederland.nl)| |-| | | | | |:white_check_mark: | || |
-|[https://woordenboek.klimaatadaptatienederland.nl](https://woordenboek.klimaatadaptatienederland.nl)| |apache| |:white_check_mark: | | |:white_check_mark: | | |:white_check_mark: | |Apache HTTP Server H...| |
-|[https://www.klimaatadaptatienederland.nl](https://www.klimaatadaptatienederland.nl)| |-| |:white_check_mark: | |:white_check_mark: | |:white_check_mark: | |:white_check_mark: | |HSTS Microsoft ASP.N...| |
-|[https://klimaatadaptatienederland.nl](https://klimaatadaptatienederland.nl)| |-| |:white_check_mark: | |:white_check_mark: | |:white_check_mark: | |:white_check_mark: | |Google Tag Manager H...| |
+|[https://files.klimaatadaptatienederland.nl](https://files.klimaatadaptatienederland.nl)| |-| | | | | |:white_check_mark: ||
+|[https://woordenboek.klimaatadaptatienederland.nl](https://woordenboek.klimaatadaptatienederland.nl)| |apache| |:white_check_mark: | | |:white_check_mark: | |:white_check_mark: |Apache HTTP Server H...|
+|[https://www.klimaatadaptatienederland.nl](https://www.klimaatadaptatienederland.nl)| |-| |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Microsoft ASP.N...|
+|[https://klimaatadaptatienederland.nl](https://klimaatadaptatienederland.nl)| |-| |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |Google Tag Manager H...|

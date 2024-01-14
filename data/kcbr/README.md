@@ -1,5 +1,5 @@
 # kcbr.nl
-*Last update:2024-01-10 20:57:16*
+*Last update:2024-01-14 06:03:12*
 ## Summary data
 | File       | Count | Info |
 |------------|-------|------|
@@ -9,6 +9,6 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |
 |------------|-------|------|------|------|------|------|------|------|------|
-|[https://www.kcbr.nl](https://www.kcbr.nl)| | |:warning: |:white_check_mark: | |:white_check_mark: | |:white_check_mark: | |:white_check_mark: | |Drupal HSTS PHP| |
-|[https://www-acc.kcbr.nl](https://www-acc.kcbr.nl)| | | |:white_check_mark: | | | | |:white_check_mark: | |HSTS| |
-|[http://kcbr.nl](http://kcbr.nl)| | | | | | | |:white_check_mark: | |F5 BigIP| |
+|[https://www.kcbr.nl](https://www.kcbr.nl)| | |:warning: |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |Drupal HSTS PHP|
+|[https://www-acc.kcbr.nl](https://www-acc.kcbr.nl)| | | |:white_check_mark: | | | | |:white_check_mark: |HSTS|
+|[http://kcbr.nl](http://kcbr.nl)| | | | | | | |:white_check_mark: |F5 BigIP|

@@ -9,5 +9,5 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |
 |------------|-------|------|------|------|------|------|------|------|------|
-|[https://www.bodemvizier.nl](https://www.bodemvizier.nl)| |microsoft-iis/10.0|:warning: | | | | |:white_check_mark: | |Azure IIS:10.0 Micro...| |
-|[https://bodemvizier.nl](https://bodemvizier.nl)| |microsoft-iis/10.0|:warning: | | | | |:white_check_mark: | |Azure IIS:10.0 Micro...| |
+|[https://www.bodemvizier.nl](https://www.bodemvizier.nl)| |microsoft-iis/10.0|:warning: | | | | |:white_check_mark: |Azure IIS:10.0 Micro...|
+|[https://bodemvizier.nl](https://bodemvizier.nl)| |microsoft-iis/10.0|:warning: | | | | |:white_check_mark: |Azure IIS:10.0 Micro...|

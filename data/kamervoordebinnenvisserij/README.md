@@ -9,5 +9,5 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |
 |------------|-------|------|------|------|------|------|------|------|------|
-|[https://www.kamervoordebinnenvisserij.nl](https://www.kamervoordebinnenvisserij.nl)| | |:warning: |:white_check_mark: | |:warning: |:white_check_mark: | |:white_check_mark: | |:white_check_mark: | |HSTS| |
-|[https://kamervoordebinnenvisserij.nl](https://kamervoordebinnenvisserij.nl)| | |:warning: |:white_check_mark: | |:warning: |:white_check_mark: | |:white_check_mark: | |:white_check_mark: | |Apache Tomcat Fourth...| |
+|[https://www.kamervoordebinnenvisserij.nl](https://www.kamervoordebinnenvisserij.nl)| | |:warning: |:white_check_mark: | |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|
+|[https://kamervoordebinnenvisserij.nl](https://kamervoordebinnenvisserij.nl)| | |:warning: |:white_check_mark: | |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache Tomcat Fourth...|

@@ -9,6 +9,6 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |
 |------------|-------|------|------|------|------|------|------|------|------|
-|[https://acc.eentegeneenzaamheid.nl](https://acc.eentegeneenzaamheid.nl)| |apache| |:white_check_mark: | | |:white_check_mark: | | |:white_check_mark: | |Apache HTTP Server H...| |
-|[https://www.eentegeneenzaamheid.nl](https://www.eentegeneenzaamheid.nl)| |apache| |:white_check_mark: | | |:white_check_mark: | | |:white_check_mark: | |Apache HTTP Server H...| |
-|[https://eentegeneenzaamheid.nl](https://eentegeneenzaamheid.nl)| |apache| |:white_check_mark: | | |:white_check_mark: | | |:white_check_mark: | |Apache HTTP Server H...| |
+|[https://acc.eentegeneenzaamheid.nl](https://acc.eentegeneenzaamheid.nl)| |apache| |:white_check_mark: | | |:white_check_mark: | |:white_check_mark: |Apache HTTP Server H...|
+|[https://www.eentegeneenzaamheid.nl](https://www.eentegeneenzaamheid.nl)| |apache| |:white_check_mark: | | |:white_check_mark: | |:white_check_mark: |Apache HTTP Server H...|
+|[https://eentegeneenzaamheid.nl](https://eentegeneenzaamheid.nl)| |apache| |:white_check_mark: | | |:white_check_mark: | |:white_check_mark: |Apache HTTP Server H...|

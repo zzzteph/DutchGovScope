@@ -9,5 +9,5 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |
 |------------|-------|------|------|------|------|------|------|------|------|
-|[https://www.monitorgezondheid.nl](https://www.monitorgezondheid.nl)| |apache| |:white_check_mark: | | |:white_check_mark: | |:white_check_mark: | |:white_check_mark: | |Apache HTTP Server D...| |
-|[https://monitorgezondheid.nl](https://monitorgezondheid.nl)| |apache| |:white_check_mark: | | |:white_check_mark: | |:white_check_mark: | |:white_check_mark: | |Apache HTTP Server H...| |
+|[https://www.monitorgezondheid.nl](https://www.monitorgezondheid.nl)| |apache| |:white_check_mark: | | |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache HTTP Server D...|
+|[https://monitorgezondheid.nl](https://monitorgezondheid.nl)| |apache| |:white_check_mark: | | |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache HTTP Server H...|

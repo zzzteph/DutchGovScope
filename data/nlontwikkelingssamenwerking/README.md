@@ -9,7 +9,7 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |
 |------------|-------|------|------|------|------|------|------|------|------|
-|[https://acc.nlontwikkelingssamenwerking.nl](https://acc.nlontwikkelingssamenwerking.nl)| |apache| | | | | |:white_check_mark: | |Apache HTTP Server| |
-|[https://dev.nlontwikkelingssamenwerking.nl](https://dev.nlontwikkelingssamenwerking.nl)| |apache| | | | | |:white_check_mark: | |Apache HTTP Server| |
-|[https://tst.nlontwikkelingssamenwerking.nl](https://tst.nlontwikkelingssamenwerking.nl)| |apache| | | | | |:white_check_mark: | |Apache HTTP Server| |
-|[https://www.nlontwikkelingssamenwerking.nl](https://www.nlontwikkelingssamenwerking.nl)| |apache|:warning: |:white_check_mark: | |:warning: |:white_check_mark: | |:white_check_mark: | |:white_check_mark: | |Apache HTTP Server H...| |
+|[https://acc.nlontwikkelingssamenwerking.nl](https://acc.nlontwikkelingssamenwerking.nl)| |apache| | | | | |:white_check_mark: |Apache HTTP Server|
+|[https://dev.nlontwikkelingssamenwerking.nl](https://dev.nlontwikkelingssamenwerking.nl)| |apache| | | | | |:white_check_mark: |Apache HTTP Server|
+|[https://tst.nlontwikkelingssamenwerking.nl](https://tst.nlontwikkelingssamenwerking.nl)| |apache| | | | | |:white_check_mark: |Apache HTTP Server|
+|[https://www.nlontwikkelingssamenwerking.nl](https://www.nlontwikkelingssamenwerking.nl)| |apache|:warning: |:white_check_mark: | |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache HTTP Server H...|

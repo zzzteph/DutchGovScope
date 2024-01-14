@@ -1,5 +1,5 @@
 # gipinfo.nl
-*Last update:2024-01-10 20:57:13*
+*Last update:2024-01-14 04:25:31*
 ## Summary data
 | File       | Count | Info |
 |------------|-------|------|
@@ -9,5 +9,5 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |
 |------------|-------|------|------|------|------|------|------|------|------|
-|[https://www.gipinfo.nl](https://www.gipinfo.nl)| $${\color{red}A+}$$ || |:white_check_mark: | |:white_check_mark: | |:white_check_mark: | |:white_check_mark: | |HSTS| |
-|[https://gipinfo.nl](https://gipinfo.nl)| $${\color{red}A+}$$ ||:warning: |:white_check_mark: | |:white_check_mark: | |:white_check_mark: | |:white_check_mark: | |HSTS| |
+|[https://www.gipinfo.nl](https://www.gipinfo.nl)| $${\color{green}A+}$$ ||:warning: |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|
+|[https://gipinfo.nl](https://gipinfo.nl)| $${\color{green}A+}$$ || |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|

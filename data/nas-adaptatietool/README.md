@@ -9,5 +9,5 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |
 |------------|-------|------|------|------|------|------|------|------|------|
-|[http://www.nas-adaptatietool.nl](http://www.nas-adaptatietool.nl)| | | | | | | |:white_check_mark: | || |
-|[https://nas-adaptatietool.nl](https://nas-adaptatietool.nl)| | | |:white_check_mark: | | | | |:white_check_mark: | |HSTS| |
+|[http://www.nas-adaptatietool.nl](http://www.nas-adaptatietool.nl)| | | | | | | |:white_check_mark: ||
+|[https://nas-adaptatietool.nl](https://nas-adaptatietool.nl)| | | |:white_check_mark: | | | | |:white_check_mark: |HSTS|

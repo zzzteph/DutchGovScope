@@ -9,4 +9,4 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |
 |------------|-------|------|------|------|------|------|------|------|------|
-|[https://werkenbijhetcjib.nl](https://werkenbijhetcjib.nl)| |nginx|:warning: |:white_check_mark: | |:warning: |:white_check_mark: | |:white_check_mark: | |:white_check_mark: | |Drupal:10 HSTS Nginx...| |
+|[https://werkenbijhetcjib.nl](https://werkenbijhetcjib.nl)| |nginx|:warning: |:white_check_mark: | |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Drupal:10 HSTS Nginx...|

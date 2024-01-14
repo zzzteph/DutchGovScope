@@ -9,9 +9,9 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |
 |------------|-------|------|------|------|------|------|------|------|------|
-|[https://mail.co2emissiefactoren.nl](https://mail.co2emissiefactoren.nl)| | | | | | | |:white_check_mark: | |Apache HTTP Server| |
-|[https://www.co2emissiefactoren.nl](https://www.co2emissiefactoren.nl)| |apache| | | | | |:white_check_mark: | |Apache HTTP Server M...| |
-|[https://factorswww.co2emissiefactoren.nl](https://factorswww.co2emissiefactoren.nl)| | | | | | | |:white_check_mark: | |Apache HTTP Server| |
-|[https://co2emissiefactoren.nl](https://co2emissiefactoren.nl)| |apache| | | | | |:white_check_mark: | |Apache HTTP Server| |
-|[https://atwww.co2emissiefactoren.nl](https://atwww.co2emissiefactoren.nl)| | | | | | | |:white_check_mark: | |Apache HTTP Server| |
-|[https://vanwww.co2emissiefactoren.nl](https://vanwww.co2emissiefactoren.nl)| | | | | | | |:white_check_mark: | |Apache HTTP Server| |
+|[https://mail.co2emissiefactoren.nl](https://mail.co2emissiefactoren.nl)| | | | | | | |:white_check_mark: |Apache HTTP Server|
+|[https://www.co2emissiefactoren.nl](https://www.co2emissiefactoren.nl)| |apache| | | | | |:white_check_mark: |Apache HTTP Server M...|
+|[https://factorswww.co2emissiefactoren.nl](https://factorswww.co2emissiefactoren.nl)| | | | | | | |:white_check_mark: |Apache HTTP Server|
+|[https://co2emissiefactoren.nl](https://co2emissiefactoren.nl)| |apache| | | | | |:white_check_mark: |Apache HTTP Server|
+|[https://atwww.co2emissiefactoren.nl](https://atwww.co2emissiefactoren.nl)| | | | | | | |:white_check_mark: |Apache HTTP Server|
+|[https://vanwww.co2emissiefactoren.nl](https://vanwww.co2emissiefactoren.nl)| | | | | | | |:white_check_mark: |Apache HTTP Server|

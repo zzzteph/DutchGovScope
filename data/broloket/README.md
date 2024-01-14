@@ -9,6 +9,6 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |
 |------------|-------|------|------|------|------|------|------|------|------|
-|[https://acc.broloket.nl](https://acc.broloket.nl)| |apache| |:white_check_mark: | | |:white_check_mark: | | |:white_check_mark: | |Apache HTTP Server D...| |
-|[https://www.broloket.nl](https://www.broloket.nl)| |apache| |:white_check_mark: | | |:white_check_mark: | | |:white_check_mark: | |Apache HTTP Server D...| |
-|[https://broloket.nl](https://broloket.nl)| |apache| |:white_check_mark: | | |:white_check_mark: | | |:white_check_mark: | |Apache HTTP Server H...| |
+|[https://acc.broloket.nl](https://acc.broloket.nl)| |apache| |:white_check_mark: | | |:white_check_mark: | |:white_check_mark: |Apache HTTP Server D...|
+|[https://www.broloket.nl](https://www.broloket.nl)| |apache| |:white_check_mark: | | |:white_check_mark: | |:white_check_mark: |Apache HTTP Server D...|
+|[https://broloket.nl](https://broloket.nl)| |apache| |:white_check_mark: | | |:white_check_mark: | |:white_check_mark: |Apache HTTP Server H...|

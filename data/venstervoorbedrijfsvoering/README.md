@@ -9,5 +9,5 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |
 |------------|-------|------|------|------|------|------|------|------|------|
-|[https://venstervoorbedrijfsvoering.nl](https://venstervoorbedrijfsvoering.nl)| |nginx| |:white_check_mark: | | | | |:white_check_mark: | |HSTS Nginx PHP:8.0.3...| |
-|[https://www.venstervoorbedrijfsvoering.nl](https://www.venstervoorbedrijfsvoering.nl)| |nginx| |:white_check_mark: | | | | |:white_check_mark: | |HSTS MySQL Nginx PHP...| |
+|[https://venstervoorbedrijfsvoering.nl](https://venstervoorbedrijfsvoering.nl)| |nginx| |:white_check_mark: | | | | |:white_check_mark: |HSTS Nginx PHP:8.0.3...|
+|[https://www.venstervoorbedrijfsvoering.nl](https://www.venstervoorbedrijfsvoering.nl)| |nginx| |:white_check_mark: | | | | |:white_check_mark: |HSTS MySQL Nginx PHP...|

@@ -9,7 +9,7 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |
 |------------|-------|------|------|------|------|------|------|------|------|
-|[https://proto.medicijnkosten.nl](https://proto.medicijnkosten.nl)| |github.com| | | | | |:white_check_mark: | |Fastly GitHub Pages...| |
-|[https://www.medicijnkosten.nl](https://www.medicijnkosten.nl)| |solvinity server|:warning: |:white_check_mark: | |:warning: | |:white_check_mark: | |:white_check_mark: | |Bloomreach HSTS| |
-|[https://www-ac.medicijnkosten.nl](https://www-ac.medicijnkosten.nl)| |apache| | | | | |:white_check_mark: | |Apache HTTP Server B...| |
-|[https://medicijnkosten.nl](https://medicijnkosten.nl)| |solvinity server|:warning: |:white_check_mark: | |:warning: | |:white_check_mark: | |:white_check_mark: | |Apache HTTP Server H...| |
+|[https://proto.medicijnkosten.nl](https://proto.medicijnkosten.nl)| |github.com| | | | | |:white_check_mark: |Fastly GitHub Pages...|
+|[https://www.medicijnkosten.nl](https://www.medicijnkosten.nl)| |solvinity server|:warning: |:white_check_mark: | |:warning: | |:white_check_mark: |:white_check_mark: |Bloomreach HSTS|
+|[https://www-ac.medicijnkosten.nl](https://www-ac.medicijnkosten.nl)| |apache| | | | | |:white_check_mark: |Apache HTTP Server B...|
+|[https://medicijnkosten.nl](https://medicijnkosten.nl)| |solvinity server|:warning: |:white_check_mark: | |:warning: | |:white_check_mark: |:white_check_mark: |Apache HTTP Server H...|

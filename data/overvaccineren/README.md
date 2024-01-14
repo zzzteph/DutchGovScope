@@ -9,6 +9,6 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |
 |------------|-------|------|------|------|------|------|------|------|------|
-|[https://acc.overvaccineren.nl](https://acc.overvaccineren.nl)| | | | | | | |:white_check_mark: | |Basic HSTS| |
-|[https://overvaccineren.nl](https://overvaccineren.nl)| | | |:white_check_mark: | |:warning: |:white_check_mark: | |:white_check_mark: | |:white_check_mark: | || |
-|[https://www.overvaccineren.nl](https://www.overvaccineren.nl)| | | |:white_check_mark: | |:warning: |:white_check_mark: | |:white_check_mark: | |:white_check_mark: | || |
+|[https://acc.overvaccineren.nl](https://acc.overvaccineren.nl)| | | | | | | |:white_check_mark: |Basic HSTS|
+|[https://overvaccineren.nl](https://overvaccineren.nl)| | | |:white_check_mark: | |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: ||
+|[https://www.overvaccineren.nl](https://www.overvaccineren.nl)| | | |:white_check_mark: | |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: ||

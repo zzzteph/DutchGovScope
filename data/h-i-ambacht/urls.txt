@@ -1,9 +1,10 @@
 https://h-i-ambacht.nl
 http://autodiscover.h-i-ambacht.nl
 https://loket.h-i-ambacht.nl
+https://omgevingsvisie.h-i-ambacht.nl
 https://gisibgeoserver.h-i-ambacht.nl
 https://zaken.h-i-ambacht.nl
-http://gisib-test.h-i-ambacht.nl
+https://gisib-test.h-i-ambacht.nl
 https://web.h-i-ambacht.nl
 https://loket.test.h-i-ambacht.nl
 https://vergunningintaker-preprod.h-i-ambacht.nl

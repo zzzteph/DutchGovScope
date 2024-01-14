@@ -9,5 +9,5 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |
 |------------|-------|------|------|------|------|------|------|------|------|
-|[https://www.paisesbajosmundial.nl](https://www.paisesbajosmundial.nl)| | | |:white_check_mark: | |:white_check_mark: | | |:white_check_mark: | |HSTS IIS:10.0 Window...| |
-|[https://paisesbajosmundial.nl](https://paisesbajosmundial.nl)| | | |:white_check_mark: | |:white_check_mark: | | |:white_check_mark: | |HSTS IIS:10.0 Window...| |
+|[https://www.paisesbajosmundial.nl](https://www.paisesbajosmundial.nl)| | | |:white_check_mark: | |:white_check_mark: | |:white_check_mark: |HSTS IIS:10.0 Window...|
+|[https://paisesbajosmundial.nl](https://paisesbajosmundial.nl)| | | |:white_check_mark: | |:white_check_mark: | |:white_check_mark: |HSTS IIS:10.0 Window...|

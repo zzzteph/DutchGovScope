@@ -9,11 +9,11 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |
 |------------|-------|------|------|------|------|------|------|------|------|
-|[https://english.waterenklimaat.nl](https://english.waterenklimaat.nl)| |nginx| |:white_check_mark: | |:warning: |:white_check_mark: | |:white_check_mark: | |:white_check_mark: | |Bloomreach HSTS Ngin...| |
-|[https://euwijzer.waterenklimaat.nl](https://euwijzer.waterenklimaat.nl)| | | | | | | |:white_check_mark: | |Bootstrap:4.0.0 Goog...| |
-|[https://feeds.waterenklimaat.nl](https://feeds.waterenklimaat.nl)| |nginx| |:white_check_mark: | | |:white_check_mark: | |:white_check_mark: | |:white_check_mark: | |HSTS Nginx| |
-|[https://feeds.english.waterenklimaat.nl](https://feeds.english.waterenklimaat.nl)| |nginx| |:white_check_mark: | | |:white_check_mark: | |:white_check_mark: | |:white_check_mark: | |HSTS Nginx| |
-|[https://opendata.waterenklimaat.nl](https://opendata.waterenklimaat.nl)| |nginx| |:white_check_mark: | | |:white_check_mark: | |:white_check_mark: | |:white_check_mark: | |HSTS Nginx| |
-|[https://opendata.english.waterenklimaat.nl](https://opendata.english.waterenklimaat.nl)| |nginx| |:white_check_mark: | | |:white_check_mark: | |:white_check_mark: | |:white_check_mark: | |HSTS Nginx| |
-|[https://www.waterenklimaat.nl](https://www.waterenklimaat.nl)| |nginx| |:white_check_mark: | |:warning: |:white_check_mark: | |:white_check_mark: | |:white_check_mark: | |Bloomreach HSTS Ngin...| |
-|[https://waterenklimaat.nl](https://waterenklimaat.nl)| |nginx| |:white_check_mark: | |:warning: |:white_check_mark: | |:white_check_mark: | |:white_check_mark: | |HSTS Nginx| |
+|[https://english.waterenklimaat.nl](https://english.waterenklimaat.nl)| |nginx| |:white_check_mark: | |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Bloomreach HSTS Ngin...|
+|[https://euwijzer.waterenklimaat.nl](https://euwijzer.waterenklimaat.nl)| | | | | | | |:white_check_mark: |Bootstrap:4.0.0 Goog...|
+|[https://feeds.waterenklimaat.nl](https://feeds.waterenklimaat.nl)| |nginx| |:white_check_mark: | | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx|
+|[https://feeds.english.waterenklimaat.nl](https://feeds.english.waterenklimaat.nl)| |nginx| |:white_check_mark: | | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx|
+|[https://opendata.waterenklimaat.nl](https://opendata.waterenklimaat.nl)| |nginx| |:white_check_mark: | | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx|
+|[https://opendata.english.waterenklimaat.nl](https://opendata.english.waterenklimaat.nl)| |nginx| |:white_check_mark: | | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx|
+|[https://www.waterenklimaat.nl](https://www.waterenklimaat.nl)| |nginx| |:white_check_mark: | |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Bloomreach HSTS Ngin...|
+|[https://waterenklimaat.nl](https://waterenklimaat.nl)| |nginx| |:white_check_mark: | |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx|

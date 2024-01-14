@@ -9,7 +9,7 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |
 |------------|-------|------|------|------|------|------|------|------|------|
-|[https://forum.meermetminderplastic.nl](https://forum.meermetminderplastic.nl)| |nginx|:warning: | | | | |:white_check_mark: | |HSTS Nginx| |
-|[https://monitoring.meermetminderplastic.nl](https://monitoring.meermetminderplastic.nl)| |nginx| | | | | |:white_check_mark: | |Azure HSTS Microsoft...| |
-|[https://www.meermetminderplastic.nl](https://www.meermetminderplastic.nl)| |nginx| | | | | |:white_check_mark: | |MailChimp Nginx PHP...| |
-|[https://meermetminderplastic.nl](https://meermetminderplastic.nl)| |nginx| | | | | |:white_check_mark: | |Nginx PHP Pimcore| |
+|[https://forum.meermetminderplastic.nl](https://forum.meermetminderplastic.nl)| |nginx|:warning: | | | | |:white_check_mark: |HSTS Nginx|
+|[https://monitoring.meermetminderplastic.nl](https://monitoring.meermetminderplastic.nl)| |nginx| | | | | |:white_check_mark: |Azure HSTS Microsoft...|
+|[https://www.meermetminderplastic.nl](https://www.meermetminderplastic.nl)| |nginx| | | | | |:white_check_mark: |MailChimp Nginx PHP...|
+|[https://meermetminderplastic.nl](https://meermetminderplastic.nl)| |nginx| | | | | |:white_check_mark: |Nginx PHP Pimcore|

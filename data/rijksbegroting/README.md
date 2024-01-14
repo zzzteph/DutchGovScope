@@ -9,9 +9,9 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |
 |------------|-------|------|------|------|------|------|------|------|------|
-|[https://archief.rijksbegroting.nl](https://archief.rijksbegroting.nl)| |apache| |:white_check_mark: | | |:white_check_mark: | | |:white_check_mark: | |Apache HTTP Server H...| |
-|[https://archief-acc.rijksbegroting.nl](https://archief-acc.rijksbegroting.nl)| |apache| |:white_check_mark: | | |:white_check_mark: | | |:white_check_mark: | |Apache HTTP Server H...| |
-|[https://extrainfo.rijksbegroting.nl](https://extrainfo.rijksbegroting.nl)| | | | | | | |:white_check_mark: | |HSTS| |
-|[https://opendata.rijksbegroting.nl](https://opendata.rijksbegroting.nl)| | | | | | | |:white_check_mark: | |HSTS| |
-|[https://www.rijksbegroting.nl](https://www.rijksbegroting.nl)| | | | | | | |:white_check_mark: | |HSTS| |
-|[https://rijksbegroting.nl](https://rijksbegroting.nl)| | | | | | | |:white_check_mark: | |HSTS| |
+|[https://archief.rijksbegroting.nl](https://archief.rijksbegroting.nl)| |apache| |:white_check_mark: | | |:white_check_mark: | |:white_check_mark: |Apache HTTP Server H...|
+|[https://archief-acc.rijksbegroting.nl](https://archief-acc.rijksbegroting.nl)| |apache| |:white_check_mark: | | |:white_check_mark: | |:white_check_mark: |Apache HTTP Server H...|
+|[https://extrainfo.rijksbegroting.nl](https://extrainfo.rijksbegroting.nl)| | | | | | | |:white_check_mark: |HSTS|
+|[https://opendata.rijksbegroting.nl](https://opendata.rijksbegroting.nl)| | | | | | | |:white_check_mark: |HSTS|
+|[https://www.rijksbegroting.nl](https://www.rijksbegroting.nl)| | | | | | | |:white_check_mark: |HSTS|
+|[https://rijksbegroting.nl](https://rijksbegroting.nl)| | | | | | | |:white_check_mark: |HSTS|

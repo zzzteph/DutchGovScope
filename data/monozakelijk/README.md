@@ -9,6 +9,6 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |
 |------------|-------|------|------|------|------|------|------|------|------|
-|[https://materiaal.monozakelijk.nl](https://materiaal.monozakelijk.nl)| | | | | | | |:white_check_mark: | |Apache HTTP Server:2...| |
-|[https://www.monozakelijk.nl](https://www.monozakelijk.nl)| | | |:white_check_mark: | | |:white_check_mark: | |:white_check_mark: | |:white_check_mark: | |HSTS Microsoft ASP.N...| |
-|[https://monozakelijk.nl](https://monozakelijk.nl)| | | |:white_check_mark: | | |:white_check_mark: | |:white_check_mark: | |:white_check_mark: | |HSTS Microsoft ASP.N...| |
+|[https://materiaal.monozakelijk.nl](https://materiaal.monozakelijk.nl)| | | | | | | |:white_check_mark: |Apache HTTP Server:2...|
+|[https://www.monozakelijk.nl](https://www.monozakelijk.nl)| | | |:white_check_mark: | | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Microsoft ASP.N...|
+|[https://monozakelijk.nl](https://monozakelijk.nl)| | | |:white_check_mark: | | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Microsoft ASP.N...|

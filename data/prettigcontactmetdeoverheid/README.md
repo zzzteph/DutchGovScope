@@ -9,6 +9,6 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |
 |------------|-------|------|------|------|------|------|------|------|------|
-|[https://mail.prettigcontactmetdeoverheid.nl](https://mail.prettigcontactmetdeoverheid.nl)| | | | | | | |:white_check_mark: | |Apache HTTP Server| |
-|[https://www.prettigcontactmetdeoverheid.nl](https://www.prettigcontactmetdeoverheid.nl)| |apache| |:white_check_mark: | | | | |:white_check_mark: | |Apache HTTP Server H...| |
-|[https://prettigcontactmetdeoverheid.nl](https://prettigcontactmetdeoverheid.nl)| |apache| |:white_check_mark: | | | | |:white_check_mark: | |Apache HTTP Server H...| |
+|[https://mail.prettigcontactmetdeoverheid.nl](https://mail.prettigcontactmetdeoverheid.nl)| | | | | | | |:white_check_mark: |Apache HTTP Server|
+|[https://www.prettigcontactmetdeoverheid.nl](https://www.prettigcontactmetdeoverheid.nl)| |apache| |:white_check_mark: | | | | |:white_check_mark: |Apache HTTP Server H...|
+|[https://prettigcontactmetdeoverheid.nl](https://prettigcontactmetdeoverheid.nl)| |apache| |:white_check_mark: | | | | |:white_check_mark: |Apache HTTP Server H...|

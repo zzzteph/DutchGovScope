@@ -9,6 +9,6 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |
 |------------|-------|------|------|------|------|------|------|------|------|
-|[http://acceptatie.ggo-vergunningverlening-zoeken.nl](http://acceptatie.ggo-vergunningverlening-zoeken.nl)| | | | | | | |:white_check_mark: | || |
-|[https://www.ggo-vergunningverlening-zoeken.nl](https://www.ggo-vergunningverlening-zoeken.nl)| |microsoft-iis/8.5|:warning: |:white_check_mark: | | | | |:white_check_mark: | |HSTS IIS:8.5 Microso...| |
-|[https://ggo-vergunningverlening-zoeken.nl](https://ggo-vergunningverlening-zoeken.nl)| |microsoft-iis/8.5|:warning: |:white_check_mark: | | | | |:white_check_mark: | |HSTS IIS:8.5 Microso...| |
+|[http://acceptatie.ggo-vergunningverlening-zoeken.nl](http://acceptatie.ggo-vergunningverlening-zoeken.nl)| | | | | | | |:white_check_mark: ||
+|[https://www.ggo-vergunningverlening-zoeken.nl](https://www.ggo-vergunningverlening-zoeken.nl)| |microsoft-iis/8.5|:warning: |:white_check_mark: | | | | |:white_check_mark: |HSTS IIS:8.5 Microso...|
+|[https://ggo-vergunningverlening-zoeken.nl](https://ggo-vergunningverlening-zoeken.nl)| |microsoft-iis/8.5|:warning: |:white_check_mark: | | | | |:white_check_mark: |HSTS IIS:8.5 Microso...|

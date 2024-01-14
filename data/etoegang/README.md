@@ -9,8 +9,8 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |
 |------------|-------|------|------|------|------|------|------|------|------|
-|[https://afsprakenstelsel.etoegang.nl](https://afsprakenstelsel.etoegang.nl)| ||:warning: |:white_check_mark: | |:white_check_mark: | |:white_check_mark: | |:white_check_mark: | |Atlassian Confluence...| |
-|[https://aggregator.etoegang.nl](https://aggregator.etoegang.nl)| | | |:white_check_mark: | | | | |:white_check_mark: | |HSTS| |
-|[https://simulator.etoegang.nl](https://simulator.etoegang.nl)| | | |:white_check_mark: | | | | |:white_check_mark: | |HSTS| |
-|[https://s3.etoegang.nl](https://s3.etoegang.nl)| | | |:white_check_mark: | | | |:white_check_mark: | |:white_check_mark: | |Amazon Web Services...| |
-|[https://upload.etoegang.nl](https://upload.etoegang.nl)| | | |:white_check_mark: | | | | |:white_check_mark: | |HSTS| |
+|[https://afsprakenstelsel.etoegang.nl](https://afsprakenstelsel.etoegang.nl)| ||:warning: |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |Atlassian Confluence...|
+|[https://aggregator.etoegang.nl](https://aggregator.etoegang.nl)| | | |:white_check_mark: | | | | |:white_check_mark: |HSTS|
+|[https://simulator.etoegang.nl](https://simulator.etoegang.nl)| | | |:white_check_mark: | | | | |:white_check_mark: |HSTS|
+|[https://s3.etoegang.nl](https://s3.etoegang.nl)| | | |:white_check_mark: | | | |:white_check_mark: |:white_check_mark: |Amazon Web Services...|
+|[https://upload.etoegang.nl](https://upload.etoegang.nl)| | | |:white_check_mark: | | | | |:white_check_mark: |HSTS|

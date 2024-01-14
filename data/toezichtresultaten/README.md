@@ -9,5 +9,5 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |
 |------------|-------|------|------|------|------|------|------|------|------|
-|[https://www.toezichtresultaten.nl](https://www.toezichtresultaten.nl)| | | | | | | |:white_check_mark: | |Apache HTTP Server H...| |
-|[https://toezichtresultaten.nl](https://toezichtresultaten.nl)| | | | | | | |:white_check_mark: | |Apache HTTP Server H...| |
+|[https://www.toezichtresultaten.nl](https://www.toezichtresultaten.nl)| | | | | | | |:white_check_mark: |Apache HTTP Server H...|
+|[https://toezichtresultaten.nl](https://toezichtresultaten.nl)| | | | | | | |:white_check_mark: |Apache HTTP Server H...|

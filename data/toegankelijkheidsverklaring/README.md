@@ -9,9 +9,9 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |
 |------------|-------|------|------|------|------|------|------|------|------|
-|[https://acc.toegankelijkheidsverklaring.nl](https://acc.toegankelijkheidsverklaring.nl)| | | | | | | |:white_check_mark: | |Drupal:10 HSTS Nginx...| |
-|[https://acc-dictu.toegankelijkheidsverklaring.nl](https://acc-dictu.toegankelijkheidsverklaring.nl)| |nginx| | | |:white_check_mark: | |:white_check_mark: | |:white_check_mark: | |Drupal:10 Nginx PHP| |
-|[https://prod-dictu.toegankelijkheidsverklaring.nl](https://prod-dictu.toegankelijkheidsverklaring.nl)| | | | | | | |:white_check_mark: | |Drupal:10 HSTS Nginx...| |
-|[https://test-dictu.toegankelijkheidsverklaring.nl](https://test-dictu.toegankelijkheidsverklaring.nl)| |nginx| | | |:white_check_mark: | |:white_check_mark: | |:white_check_mark: | |Drupal:10 Nginx PHP| |
-|[https://www.toegankelijkheidsverklaring.nl](https://www.toegankelijkheidsverklaring.nl)| |nginx| |:white_check_mark: | | |:white_check_mark: | |:white_check_mark: | |:white_check_mark: | |Drupal:10 HSTS Nginx...| |
-|[https://toegankelijkheidsverklaring.nl](https://toegankelijkheidsverklaring.nl)| |nginx| |:white_check_mark: | | |:white_check_mark: | |:white_check_mark: | |:white_check_mark: | |Drupal:10 HSTS Nginx...| |
+|[https://acc.toegankelijkheidsverklaring.nl](https://acc.toegankelijkheidsverklaring.nl)| | | | | | | |:white_check_mark: |Drupal:10 HSTS Nginx...|
+|[https://acc-dictu.toegankelijkheidsverklaring.nl](https://acc-dictu.toegankelijkheidsverklaring.nl)| |nginx| | | |:white_check_mark: |:white_check_mark: |:white_check_mark: |Drupal:10 Nginx PHP|
+|[https://prod-dictu.toegankelijkheidsverklaring.nl](https://prod-dictu.toegankelijkheidsverklaring.nl)| | | | | | | |:white_check_mark: |Drupal:10 HSTS Nginx...|
+|[https://test-dictu.toegankelijkheidsverklaring.nl](https://test-dictu.toegankelijkheidsverklaring.nl)| |nginx| | | |:white_check_mark: |:white_check_mark: |:white_check_mark: |Drupal:10 Nginx PHP|
+|[https://www.toegankelijkheidsverklaring.nl](https://www.toegankelijkheidsverklaring.nl)| |nginx| |:white_check_mark: | | |:white_check_mark: |:white_check_mark: |:white_check_mark: |Drupal:10 HSTS Nginx...|
+|[https://toegankelijkheidsverklaring.nl](https://toegankelijkheidsverklaring.nl)| |nginx| |:white_check_mark: | | |:white_check_mark: |:white_check_mark: |:white_check_mark: |Drupal:10 HSTS Nginx...|

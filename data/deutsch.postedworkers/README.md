@@ -1,5 +1,5 @@
 # deutsch.postedworkers.nl
-*Last update:2024-01-10 20:57:11*
+*Last update:2024-01-14 02:16:03*
 ## Summary data
 | File       | Count | Info |
 |------------|-------|------|
@@ -9,6 +9,6 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |
 |------------|-------|------|------|------|------|------|------|------|------|
-|[https://opendata.deutsch.postedworkers.nl](https://opendata.deutsch.postedworkers.nl)| $${\color{red}A+}$$ |nginx| |:white_check_mark: | | |:white_check_mark: | |:white_check_mark: | |:white_check_mark: | |HSTS Nginx| |
-|[https://deutsch.postedworkers.nl](https://deutsch.postedworkers.nl)| $${\color{red}A+}$$ |nginx| |:white_check_mark: | |:warning: |:white_check_mark: | |:white_check_mark: | |:white_check_mark: | |Bloomreach HSTS Ngin...| |
-|[https://feeds.deutsch.postedworkers.nl](https://feeds.deutsch.postedworkers.nl)| $${\color{red}A+}$$ |nginx| |:white_check_mark: | | |:white_check_mark: | |:white_check_mark: | |:white_check_mark: | |HSTS Nginx| |
+|[https://opendata.deutsch.postedworkers.nl](https://opendata.deutsch.postedworkers.nl)| $${\color{green}A+}$$ |nginx| |:white_check_mark: | | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx|
+|[https://deutsch.postedworkers.nl](https://deutsch.postedworkers.nl)| $${\color{green}A+}$$ |nginx| |:white_check_mark: | |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Bloomreach HSTS Ngin...|
+|[https://feeds.deutsch.postedworkers.nl](https://feeds.deutsch.postedworkers.nl)| $${\color{green}A+}$$ |nginx| |:white_check_mark: | | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx|

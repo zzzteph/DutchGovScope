@@ -9,5 +9,5 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |
 |------------|-------|------|------|------|------|------|------|------|------|
-|[http://www.digitalezorgzandbak.nl](http://www.digitalezorgzandbak.nl)| | | | | | | |:white_check_mark: | |Google Cloud Google...| |
-|[http://digitalezorgzandbak.nl](http://digitalezorgzandbak.nl)| | | | | | | |:white_check_mark: | |HSTS React Wix| |
+|[http://www.digitalezorgzandbak.nl](http://www.digitalezorgzandbak.nl)| | | | | | | |:white_check_mark: |Google Cloud Google...|
+|[http://digitalezorgzandbak.nl](http://digitalezorgzandbak.nl)| | | | | | | |:white_check_mark: |HSTS React Wix|

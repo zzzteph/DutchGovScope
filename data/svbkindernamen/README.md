@@ -9,5 +9,5 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |
 |------------|-------|------|------|------|------|------|------|------|------|
-|[https://www.svbkindernamen.nl](https://www.svbkindernamen.nl)| ||:warning: |:white_check_mark: | |:white_check_mark: | |:white_check_mark: | |:white_check_mark: | |F5 BigIP HSTS| |
-|[https://svbkindernamen.nl](https://svbkindernamen.nl)| ||:warning: |:white_check_mark: | |:white_check_mark: | |:white_check_mark: | |:white_check_mark: | |F5 BigIP HSTS| |
+|[https://www.svbkindernamen.nl](https://www.svbkindernamen.nl)| ||:warning: |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |F5 BigIP HSTS|
+|[https://svbkindernamen.nl](https://svbkindernamen.nl)| ||:warning: |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |F5 BigIP HSTS|

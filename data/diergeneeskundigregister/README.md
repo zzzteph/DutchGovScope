@@ -1,5 +1,5 @@
 # diergeneeskundigregister.nl
-*Last update:2024-01-10 20:57:11*
+*Last update:2024-01-14 02:24:10*
 ## Summary data
 | File       | Count | Info |
 |------------|-------|------|
@@ -9,5 +9,5 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |
 |------------|-------|------|------|------|------|------|------|------|------|
-|[https://www.diergeneeskundigregister.nl](https://www.diergeneeskundigregister.nl)| $${\color{red}A+}$$ |nginx| |:white_check_mark: | |:warning: |:white_check_mark: | |:white_check_mark: | |:white_check_mark: | |HSTS IIS:10.0 Window...| |
-|[https://diergeneeskundigregister.nl](https://diergeneeskundigregister.nl)| $${\color{red}A+}$$ |nginx| |:white_check_mark: | |:warning: |:white_check_mark: | |:white_check_mark: | |:white_check_mark: | |HSTS IIS:10.0 Window...| |
+|[https://www.diergeneeskundigregister.nl](https://www.diergeneeskundigregister.nl)| $${\color{green}A+}$$ |nginx| |:white_check_mark: | |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS IIS:10.0 Window...|
+|[https://diergeneeskundigregister.nl](https://diergeneeskundigregister.nl)| $${\color{green}A+}$$ |nginx| |:white_check_mark: | |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS IIS:10.0 Window...|

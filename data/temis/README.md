@@ -9,5 +9,5 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |
 |------------|-------|------|------|------|------|------|------|------|------|
-|[https://www.temis.nl](https://www.temis.nl)| |apache| |:white_check_mark: | |:warning: |:white_check_mark: | | |:white_check_mark: | |Apache HTTP Server H...| |
-|[https://temis.nl](https://temis.nl)| |apache| |:white_check_mark: | |:warning: |:white_check_mark: | | |:white_check_mark: | |Apache HTTP Server H...| |
+|[https://www.temis.nl](https://www.temis.nl)| |apache| |:white_check_mark: | |:warning: |:white_check_mark: | |:white_check_mark: |Apache HTTP Server H...|
+|[https://temis.nl](https://temis.nl)| |apache| |:white_check_mark: | |:warning: |:white_check_mark: | |:white_check_mark: |Apache HTTP Server H...|

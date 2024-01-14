@@ -9,7 +9,7 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |
 |------------|-------|------|------|------|------|------|------|------|------|
-|[https://www.amlc.nl](https://www.amlc.nl)| | |:warning: |:white_check_mark: | | |:white_check_mark: | |:white_check_mark: | |:white_check_mark: | |HSTS MySQL PHP WordP...| |
-|[https://amlc.nl](https://amlc.nl)| | | |:white_check_mark: | | |:white_check_mark: | |:white_check_mark: | |:white_check_mark: | |HSTS| |
-|[https://21www.amlc.nl](https://21www.amlc.nl)| | | | | | | |:white_check_mark: | |HSTS| |
-|[https://8www.amlc.nl](https://8www.amlc.nl)| | | | | | | |:white_check_mark: | |HSTS MySQL PHP WordP...| |
+|[https://www.amlc.nl](https://www.amlc.nl)| | |:warning: |:white_check_mark: | | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS MySQL PHP WordP...|
+|[https://amlc.nl](https://amlc.nl)| | | |:white_check_mark: | | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|
+|[https://21www.amlc.nl](https://21www.amlc.nl)| | | | | | | |:white_check_mark: |HSTS|
+|[https://8www.amlc.nl](https://8www.amlc.nl)| | | | | | | |:white_check_mark: |HSTS MySQL PHP WordP...|

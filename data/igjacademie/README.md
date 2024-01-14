@@ -9,6 +9,6 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |
 |------------|-------|------|------|------|------|------|------|------|------|
-|[https://www.igjacademie.nl](https://www.igjacademie.nl)| |apache| |:white_check_mark: | | |:white_check_mark: | |:white_check_mark: | |:white_check_mark: | |Apache HTTP Server| |
-|[https://igjacademie.nl](https://igjacademie.nl)| |apache| |:white_check_mark: | | |:white_check_mark: | |:white_check_mark: | |:white_check_mark: | |Apache HTTP Server H...| |
-|[https://mail.igjacademie.nl](https://mail.igjacademie.nl)| | | | | | | |:white_check_mark: | |Apache HTTP Server| |
+|[https://www.igjacademie.nl](https://www.igjacademie.nl)| |apache| |:white_check_mark: | | |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache HTTP Server|
+|[https://igjacademie.nl](https://igjacademie.nl)| |apache| |:white_check_mark: | | |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache HTTP Server H...|
+|[https://mail.igjacademie.nl](https://mail.igjacademie.nl)| | | | | | | |:white_check_mark: |Apache HTTP Server|

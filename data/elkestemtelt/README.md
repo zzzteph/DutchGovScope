@@ -1,5 +1,5 @@
 # elkestemtelt.nl
-*Last update:2024-01-10 20:57:12*
+*Last update:2024-01-14 03:38:07*
 ## Summary data
 | File       | Count | Info |
 |------------|-------|------|
@@ -9,5 +9,5 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |
 |------------|-------|------|------|------|------|------|------|------|------|
-|[https://www.elkestemtelt.nl](https://www.elkestemtelt.nl)| $${\color{red}A+}$$ |nginx| |:white_check_mark: | |:warning: |:white_check_mark: | |:white_check_mark: | |:white_check_mark: | |HSTS IIS:10.0 Window...| |
-|[https://elkestemtelt.nl](https://elkestemtelt.nl)| $${\color{red}A+}$$ |nginx| |:white_check_mark: | |:warning: |:white_check_mark: | |:white_check_mark: | |:white_check_mark: | |HSTS IIS:10.0 Window...| |
+|[https://www.elkestemtelt.nl](https://www.elkestemtelt.nl)| $${\color{green}A+}$$ |nginx| |:white_check_mark: | |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS IIS:10.0 Window...|
+|[https://elkestemtelt.nl](https://elkestemtelt.nl)| $${\color{green}A+}$$ |nginx| |:white_check_mark: | |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS IIS:10.0 Window...|

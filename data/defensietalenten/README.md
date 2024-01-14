@@ -9,6 +9,6 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |
 |------------|-------|------|------|------|------|------|------|------|------|
-|[https://kvms.defensietalenten.nl](https://kvms.defensietalenten.nl)| |apache/2.4.38 (debian)| | | | | |:white_check_mark: | |Apache HTTP Server:2...| |
-|[https://www.defensietalenten.nl](https://www.defensietalenten.nl)| |ponos maximum| |:white_check_mark: | |:warning: |:white_check_mark: | |:white_check_mark: | |:white_check_mark: | |HSTS| |
-|[https://defensietalenten.nl](https://defensietalenten.nl)| |ponos maximum| |:white_check_mark: | |:warning: |:white_check_mark: | |:white_check_mark: | |:white_check_mark: | |HSTS| |
+|[https://kvms.defensietalenten.nl](https://kvms.defensietalenten.nl)| |apache/2.4.38 (debian)| | | | | |:white_check_mark: |Apache HTTP Server:2...|
+|[https://www.defensietalenten.nl](https://www.defensietalenten.nl)| |ponos maximum| |:white_check_mark: | |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|
+|[https://defensietalenten.nl](https://defensietalenten.nl)| |ponos maximum| |:white_check_mark: | |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|

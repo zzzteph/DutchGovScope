@@ -1,5 +1,5 @@
 # informatiehuishouding.nl
-*Last update:2024-01-10 20:57:15*
+*Last update:2024-01-14 05:20:09*
 ## Summary data
 | File       | Count | Info |
 |------------|-------|------|
@@ -9,9 +9,9 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |
 |------------|-------|------|------|------|------|------|------|------|------|
-|[https://feeds.informatiehuishouding.nl](https://feeds.informatiehuishouding.nl)| |nginx| |:white_check_mark: | | |:white_check_mark: | |:white_check_mark: | |:white_check_mark: | |HSTS Nginx| |
-|[https://grip.informatiehuishouding.nl](https://grip.informatiehuishouding.nl)| |apache| |:white_check_mark: | |:warning: |:white_check_mark: | |:white_check_mark: | |:white_check_mark: | |Apache HTTP Server H...| |
-|[https://magazines.informatiehuishouding.nl](https://magazines.informatiehuishouding.nl)| |nginx| |:white_check_mark: | |:warning: |:white_check_mark: | |:white_check_mark: | |:white_check_mark: | |HSTS Nginx| |
-|[https://opendata.informatiehuishouding.nl](https://opendata.informatiehuishouding.nl)| |nginx| |:white_check_mark: | | |:white_check_mark: | |:white_check_mark: | |:white_check_mark: | |HSTS Nginx| |
-|[https://www.informatiehuishouding.nl](https://www.informatiehuishouding.nl)| |nginx| |:white_check_mark: | |:warning: |:white_check_mark: | |:white_check_mark: | |:white_check_mark: | |Bloomreach HSTS Ngin...| |
-|[https://informatiehuishouding.nl](https://informatiehuishouding.nl)| |nginx| |:white_check_mark: | |:warning: |:white_check_mark: | |:white_check_mark: | |:white_check_mark: | |HSTS Nginx| |
+|[https://feeds.informatiehuishouding.nl](https://feeds.informatiehuishouding.nl)| |nginx| |:white_check_mark: | | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx|
+|[https://grip.informatiehuishouding.nl](https://grip.informatiehuishouding.nl)| |apache| |:white_check_mark: | |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache HTTP Server H...|
+|[https://magazines.informatiehuishouding.nl](https://magazines.informatiehuishouding.nl)| |nginx| |:white_check_mark: | |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx|
+|[https://opendata.informatiehuishouding.nl](https://opendata.informatiehuishouding.nl)| |nginx| |:white_check_mark: | | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx|
+|[https://www.informatiehuishouding.nl](https://www.informatiehuishouding.nl)| |nginx| |:white_check_mark: | |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Bloomreach HSTS Ngin...|
+|[https://informatiehuishouding.nl](https://informatiehuishouding.nl)| |nginx| |:white_check_mark: | |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx|

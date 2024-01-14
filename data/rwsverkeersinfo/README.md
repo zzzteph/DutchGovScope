@@ -9,6 +9,6 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |
 |------------|-------|------|------|------|------|------|------|------|------|
-|[https://api.rwsverkeersinfo.nl](https://api.rwsverkeersinfo.nl)| |nginx| |:white_check_mark: | | |:white_check_mark: | | |:white_check_mark: | |HSTS Nginx| |
-|[https://www.rwsverkeersinfo.nl](https://www.rwsverkeersinfo.nl)| |nginx| |:white_check_mark: | | |:white_check_mark: | |:white_check_mark: | |:white_check_mark: | |HSTS Nginx| |
-|[https://rwsverkeersinfo.nl](https://rwsverkeersinfo.nl)| |nginx| |:white_check_mark: | | |:white_check_mark: | |:white_check_mark: | |:white_check_mark: | || |
+|[https://api.rwsverkeersinfo.nl](https://api.rwsverkeersinfo.nl)| |nginx| |:white_check_mark: | | |:white_check_mark: | |:white_check_mark: |HSTS Nginx|
+|[https://www.rwsverkeersinfo.nl](https://www.rwsverkeersinfo.nl)| |nginx| |:white_check_mark: | | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx|
+|[https://rwsverkeersinfo.nl](https://rwsverkeersinfo.nl)| |nginx| |:white_check_mark: | | |:white_check_mark: |:white_check_mark: |:white_check_mark: ||

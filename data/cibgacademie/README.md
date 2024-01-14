@@ -9,5 +9,5 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |
 |------------|-------|------|------|------|------|------|------|------|------|
-|[https://www.cibgacademie.nl](https://www.cibgacademie.nl)| | | | | | | |:white_check_mark: | |HSTS| |
-|[https://cibgacademie.nl](https://cibgacademie.nl)| | | | | | | |:white_check_mark: | |HSTS Nginx OpenResty...| |
+|[https://www.cibgacademie.nl](https://www.cibgacademie.nl)| | | | | | | |:white_check_mark: |HSTS|
+|[https://cibgacademie.nl](https://cibgacademie.nl)| | | | | | | |:white_check_mark: |HSTS Nginx OpenResty...|

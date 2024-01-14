@@ -9,7 +9,7 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |
 |------------|-------|------|------|------|------|------|------|------|------|
-|[https://acceptatie.samenmetenaanluchtkwaliteit.nl](https://acceptatie.samenmetenaanluchtkwaliteit.nl)| |apache| |:white_check_mark: | | |:white_check_mark: | |:white_check_mark: | |:white_check_mark: | || |
-|[https://test.samenmetenaanluchtkwaliteit.nl](https://test.samenmetenaanluchtkwaliteit.nl)| |apache| |:white_check_mark: | | |:white_check_mark: | |:white_check_mark: | |:white_check_mark: | || |
-|[https://www.samenmetenaanluchtkwaliteit.nl](https://www.samenmetenaanluchtkwaliteit.nl)| |apache| |:white_check_mark: | | |:white_check_mark: | |:white_check_mark: | |:white_check_mark: | || |
-|[https://samenmetenaanluchtkwaliteit.nl](https://samenmetenaanluchtkwaliteit.nl)| |apache| |:white_check_mark: | | |:white_check_mark: | |:white_check_mark: | |:white_check_mark: | || |
+|[https://acceptatie.samenmetenaanluchtkwaliteit.nl](https://acceptatie.samenmetenaanluchtkwaliteit.nl)| |apache| |:white_check_mark: | | |:white_check_mark: |:white_check_mark: |:white_check_mark: ||
+|[https://test.samenmetenaanluchtkwaliteit.nl](https://test.samenmetenaanluchtkwaliteit.nl)| |apache| |:white_check_mark: | | |:white_check_mark: |:white_check_mark: |:white_check_mark: ||
+|[https://www.samenmetenaanluchtkwaliteit.nl](https://www.samenmetenaanluchtkwaliteit.nl)| |apache| |:white_check_mark: | | |:white_check_mark: |:white_check_mark: |:white_check_mark: ||
+|[https://samenmetenaanluchtkwaliteit.nl](https://samenmetenaanluchtkwaliteit.nl)| |apache| |:white_check_mark: | | |:white_check_mark: |:white_check_mark: |:white_check_mark: ||

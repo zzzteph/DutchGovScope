@@ -9,5 +9,5 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |
 |------------|-------|------|------|------|------|------|------|------|------|
-|[https://veghel.nl](https://veghel.nl)| | |:warning: |:white_check_mark: | |:white_check_mark: | |:white_check_mark: | |:white_check_mark: | |HSTS| |
-|[https://www.veghel.nl](https://www.veghel.nl)| | |:warning: |:white_check_mark: | |:white_check_mark: | |:white_check_mark: | |:white_check_mark: | |HSTS| |
+|[https://veghel.nl](https://veghel.nl)| | |:warning: |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|
+|[https://www.veghel.nl](https://www.veghel.nl)| | |:warning: |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|

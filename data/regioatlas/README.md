@@ -9,5 +9,5 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |
 |------------|-------|------|------|------|------|------|------|------|------|
-|[https://www.regioatlas.nl](https://www.regioatlas.nl)| | |:warning: |:white_check_mark: | | | | |:white_check_mark: | |HSTS PHP| |
-|[https://regioatlas.nl](https://regioatlas.nl)| | |:warning: |:white_check_mark: | | | | |:white_check_mark: | |HSTS| |
+|[https://www.regioatlas.nl](https://www.regioatlas.nl)| | |:warning: |:white_check_mark: | | | | |:white_check_mark: |HSTS PHP|
+|[https://regioatlas.nl](https://regioatlas.nl)| | |:warning: |:white_check_mark: | | | | |:white_check_mark: |HSTS|

@@ -9,6 +9,6 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |
 |------------|-------|------|------|------|------|------|------|------|------|
-|[https://nladag.nl](https://nladag.nl)| |cloudflare|:warning: |:white_check_mark: | | | | |:white_check_mark: | |Cloudflare HSTS HTTP...| |
-|[https://mail.nladag.nl](https://mail.nladag.nl)| |apache|:warning: | | | | |:white_check_mark: | |Apache HTTP Server P...| |
-|[https://www.nladag.nl](https://www.nladag.nl)| |cloudflare|:warning: |:white_check_mark: | | | | |:white_check_mark: | |Cloudflare HSTS HTTP...| |
+|[https://nladag.nl](https://nladag.nl)| |cloudflare|:warning: |:white_check_mark: | | | | |:white_check_mark: |Cloudflare HSTS HTTP...|
+|[https://mail.nladag.nl](https://mail.nladag.nl)| |apache|:warning: | | | | |:white_check_mark: |Apache HTTP Server P...|
+|[https://www.nladag.nl](https://www.nladag.nl)| |cloudflare|:warning: |:white_check_mark: | | | | |:white_check_mark: |Cloudflare HSTS HTTP...|

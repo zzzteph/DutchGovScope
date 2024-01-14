@@ -9,5 +9,5 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |
 |------------|-------|------|------|------|------|------|------|------|------|
-|[https://www.findo.nl](https://www.findo.nl)| |microsoft-iis/10.0|:warning: |:white_check_mark: | |:warning: |:white_check_mark: | |:white_check_mark: | |:white_check_mark: | |Amazon S3 Amazon Web...| |
-|[https://findo.nl](https://findo.nl)| |microsoft-iis/10.0|:warning: |:white_check_mark: | |:warning: |:white_check_mark: | |:white_check_mark: | |:white_check_mark: | |Amazon S3 Amazon Web...| |
+|[https://www.findo.nl](https://www.findo.nl)| |microsoft-iis/10.0|:warning: |:white_check_mark: | |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Amazon S3 Amazon Web...|
+|[https://findo.nl](https://findo.nl)| |microsoft-iis/10.0|:warning: |:white_check_mark: | |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Amazon S3 Amazon Web...|

@@ -9,6 +9,6 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |
 |------------|-------|------|------|------|------|------|------|------|------|
-|[https://wms.aanpakringzuid.nl](https://wms.aanpakringzuid.nl)| |apache| | | | | |:white_check_mark: | |Apache HTTP Server| |
-|[https://www.aanpakringzuid.nl](https://www.aanpakringzuid.nl)| |-| |:white_check_mark: | |:white_check_mark: | |:white_check_mark: | |:white_check_mark: | |Google Tag Manager H...| |
-|[https://aanpakringzuid.nl](https://aanpakringzuid.nl)| |-| |:white_check_mark: | |:white_check_mark: | |:white_check_mark: | |:white_check_mark: | |HSTS Microsoft ASP.N...| |
+|[https://wms.aanpakringzuid.nl](https://wms.aanpakringzuid.nl)| |apache| | | | | |:white_check_mark: |Apache HTTP Server|
+|[https://www.aanpakringzuid.nl](https://www.aanpakringzuid.nl)| |-| |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |Google Tag Manager H...|
+|[https://aanpakringzuid.nl](https://aanpakringzuid.nl)| |-| |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Microsoft ASP.N...|

@@ -9,7 +9,7 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |
 |------------|-------|------|------|------|------|------|------|------|------|
-|[https://20210215.nationaleconferentieduurzamemobiliteit.nl](https://20210215.nationaleconferentieduurzamemobiliteit.nl)| |apache/2|:warning: | | | | |:white_check_mark: | |Apache HTTP Server:2...| |
-|[https://app.nationaleconferentieduurzamemobiliteit.nl](https://app.nationaleconferentieduurzamemobiliteit.nl)| |apache/2|:warning: |:white_check_mark: | |:warning: |:white_check_mark: | |:white_check_mark: | |:white_check_mark: | |Apache HTTP Server:2...| |
-|[https://nationaleconferentieduurzamemobiliteit.nl](https://nationaleconferentieduurzamemobiliteit.nl)| |apache/2|:warning: |:white_check_mark: | |:warning: |:white_check_mark: | |:white_check_mark: | |:white_check_mark: | |Apache HTTP Server:2...| |
-|[https://www.nationaleconferentieduurzamemobiliteit.nl](https://www.nationaleconferentieduurzamemobiliteit.nl)| |apache/2|:warning: |:white_check_mark: | |:warning: |:white_check_mark: | |:white_check_mark: | |:white_check_mark: | |Apache HTTP Server:2...| |
+|[https://20210215.nationaleconferentieduurzamemobiliteit.nl](https://20210215.nationaleconferentieduurzamemobiliteit.nl)| |apache/2|:warning: | | | | |:white_check_mark: |Apache HTTP Server:2...|
+|[https://app.nationaleconferentieduurzamemobiliteit.nl](https://app.nationaleconferentieduurzamemobiliteit.nl)| |apache/2|:warning: |:white_check_mark: | |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache HTTP Server:2...|
+|[https://nationaleconferentieduurzamemobiliteit.nl](https://nationaleconferentieduurzamemobiliteit.nl)| |apache/2|:warning: |:white_check_mark: | |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache HTTP Server:2...|
+|[https://www.nationaleconferentieduurzamemobiliteit.nl](https://www.nationaleconferentieduurzamemobiliteit.nl)| |apache/2|:warning: |:white_check_mark: | |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache HTTP Server:2...|

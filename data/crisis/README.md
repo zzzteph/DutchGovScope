@@ -1,5 +1,5 @@
 # crisis.nl
-*Last update:2024-01-10 20:57:11*
+*Last update:2024-01-14 01:26:13*
 ## Summary data
 | File       | Count | Info |
 |------------|-------|------|
@@ -9,5 +9,5 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |
 |------------|-------|------|------|------|------|------|------|------|------|
-|[https://www.crisis.nl](https://www.crisis.nl)| $${\color{red}A+}$$ |microsoft-iis/10.0|:warning: |:white_check_mark: | |:white_check_mark: | |:white_check_mark: | |:white_check_mark: | |Azure HSTS IIS:10.0...| |
-|[https://crisis.nl](https://crisis.nl)| $${\color{red}A+}$$ |microsoft-iis/10.0|:warning: |:white_check_mark: | |:white_check_mark: | |:white_check_mark: | |:white_check_mark: | |Azure HSTS IIS:10.0...| |
+|[https://www.crisis.nl](https://www.crisis.nl)| $${\color{green}A+}$$ |microsoft-iis/10.0|:warning: |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |Azure HSTS IIS:10.0...|
+|[https://crisis.nl](https://crisis.nl)| $${\color{green}A+}$$ |microsoft-iis/10.0|:warning: |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |Azure HSTS IIS:10.0...|

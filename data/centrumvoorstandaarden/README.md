@@ -9,4 +9,4 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |
 |------------|-------|------|------|------|------|------|------|------|------|
-|[https://publicatie.centrumvoorstandaarden.nl](https://publicatie.centrumvoorstandaarden.nl)| |apache/2.4.58 (debian)| |:white_check_mark: | | | | |:white_check_mark: | |Apache HTTP Server:2...| |
+|[https://publicatie.centrumvoorstandaarden.nl](https://publicatie.centrumvoorstandaarden.nl)| |apache/2.4.58 (debian)| |:white_check_mark: | | | | |:white_check_mark: |Apache HTTP Server:2...|

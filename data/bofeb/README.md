@@ -9,4 +9,4 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |
 |------------|-------|------|------|------|------|------|------|------|------|
-|[https://mijn.bofeb.nl](https://mijn.bofeb.nl)| | | | | | | |:white_check_mark: | |HSTS Nginx| |
+|[https://mijn.bofeb.nl](https://mijn.bofeb.nl)| | | | | | | |:white_check_mark: |HSTS Nginx|

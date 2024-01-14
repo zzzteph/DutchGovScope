@@ -9,5 +9,5 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |
 |------------|-------|------|------|------|------|------|------|------|------|
-|[https://www.mirta67leenderheidezaarderheiken.nl](https://www.mirta67leenderheidezaarderheiken.nl)| | | | | | | |:white_check_mark: | || |
-|[https://mirta67leenderheidezaarderheiken.nl](https://mirta67leenderheidezaarderheiken.nl)| | | | | | | |:white_check_mark: | || |
+|[https://www.mirta67leenderheidezaarderheiken.nl](https://www.mirta67leenderheidezaarderheiken.nl)| | | | | | | |:white_check_mark: ||
+|[https://mirta67leenderheidezaarderheiken.nl](https://mirta67leenderheidezaarderheiken.nl)| | | | | | | |:white_check_mark: ||

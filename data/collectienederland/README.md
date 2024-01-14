@@ -9,7 +9,7 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |
 |------------|-------|------|------|------|------|------|------|------|------|
-|[https://data.collectienederland.nl](https://data.collectienederland.nl)| |nginx/1.19.6| | | | | |:white_check_mark: | |Bootstrap Nginx:1.19...| |
-|[https://wo2.collectienederland.nl](https://wo2.collectienederland.nl)| |nginx/1.18.0 (ubuntu)| | | | | |:white_check_mark: | |Bootstrap Nginx:1.18...| |
-|[https://www.collectienederland.nl](https://www.collectienederland.nl)| |nginx/1.19.6| | | | | |:white_check_mark: | |Bootstrap Nginx:1.19...| |
-|[https://collectienederland.nl](https://collectienederland.nl)| | | | | | | |:white_check_mark: | |Bootstrap Nginx:1.19...| |
+|[https://data.collectienederland.nl](https://data.collectienederland.nl)| |nginx/1.19.6| | | | | |:white_check_mark: |Bootstrap Nginx:1.19...|
+|[https://wo2.collectienederland.nl](https://wo2.collectienederland.nl)| |nginx/1.18.0 (ubuntu)| | | | | |:white_check_mark: |Bootstrap Nginx:1.18...|
+|[https://www.collectienederland.nl](https://www.collectienederland.nl)| |nginx/1.19.6| | | | | |:white_check_mark: |Bootstrap Nginx:1.19...|
+|[https://collectienederland.nl](https://collectienederland.nl)| | | | | | | |:white_check_mark: |Bootstrap Nginx:1.19...|

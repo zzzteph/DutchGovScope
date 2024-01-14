@@ -9,5 +9,5 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |
 |------------|-------|------|------|------|------|------|------|------|------|
-|[https://www.uitvoeringarbeidsvoorwaardenwetgeving.nl](https://www.uitvoeringarbeidsvoorwaardenwetgeving.nl)| |nginx| |:white_check_mark: | |:warning: | | |:white_check_mark: | |HSTS Nginx| |
-|[https://uitvoeringarbeidsvoorwaardenwetgeving.nl](https://uitvoeringarbeidsvoorwaardenwetgeving.nl)| |nginx| |:white_check_mark: | |:warning: | | |:white_check_mark: | |HSTS Nginx| |
+|[https://www.uitvoeringarbeidsvoorwaardenwetgeving.nl](https://www.uitvoeringarbeidsvoorwaardenwetgeving.nl)| |nginx| |:white_check_mark: | |:warning: | | |:white_check_mark: |HSTS Nginx|
+|[https://uitvoeringarbeidsvoorwaardenwetgeving.nl](https://uitvoeringarbeidsvoorwaardenwetgeving.nl)| |nginx| |:white_check_mark: | |:warning: | | |:white_check_mark: |HSTS Nginx|

@@ -9,5 +9,5 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |
 |------------|-------|------|------|------|------|------|------|------|------|
-|[https://www.a6zonlelystaddronten.nl](https://www.a6zonlelystaddronten.nl)| | | | | | | |:white_check_mark: | || |
-|[https://a6zonlelystaddronten.nl](https://a6zonlelystaddronten.nl)| | | | | | | |:white_check_mark: | || |
+|[https://www.a6zonlelystaddronten.nl](https://www.a6zonlelystaddronten.nl)| | | | | | | |:white_check_mark: ||
+|[https://a6zonlelystaddronten.nl](https://a6zonlelystaddronten.nl)| | | | | | | |:white_check_mark: ||

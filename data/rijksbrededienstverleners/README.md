@@ -9,5 +9,5 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |
 |------------|-------|------|------|------|------|------|------|------|------|
-|[https://www.rijksbrededienstverleners.nl](https://www.rijksbrededienstverleners.nl)| |apache| |:white_check_mark: | | | | |:white_check_mark: | |Apache HTTP Server H...| |
-|[https://rijksbrededienstverleners.nl](https://rijksbrededienstverleners.nl)| |apache| |:white_check_mark: | | | | |:white_check_mark: | |Apache HTTP Server H...| |
+|[https://www.rijksbrededienstverleners.nl](https://www.rijksbrededienstverleners.nl)| |apache| |:white_check_mark: | | | | |:white_check_mark: |Apache HTTP Server H...|
+|[https://rijksbrededienstverleners.nl](https://rijksbrededienstverleners.nl)| |apache| |:white_check_mark: | | | | |:white_check_mark: |Apache HTTP Server H...|

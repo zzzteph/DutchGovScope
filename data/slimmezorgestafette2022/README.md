@@ -9,5 +9,5 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |
 |------------|-------|------|------|------|------|------|------|------|------|
-|[https://www.slimmezorgestafette2022.nl](https://www.slimmezorgestafette2022.nl)| |apache/2|:warning: |:white_check_mark: | |:warning: |:white_check_mark: | |:white_check_mark: | |:white_check_mark: | |Apache HTTP Server:2...| |
-|[https://slimmezorgestafette2022.nl](https://slimmezorgestafette2022.nl)| |apache/2|:warning: |:white_check_mark: | |:warning: |:white_check_mark: | |:white_check_mark: | |:white_check_mark: | |Apache HTTP Server:2...| |
+|[https://www.slimmezorgestafette2022.nl](https://www.slimmezorgestafette2022.nl)| |apache/2|:warning: |:white_check_mark: | |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache HTTP Server:2...|
+|[https://slimmezorgestafette2022.nl](https://slimmezorgestafette2022.nl)| |apache/2|:warning: |:white_check_mark: | |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache HTTP Server:2...|

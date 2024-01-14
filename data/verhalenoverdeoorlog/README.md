@@ -9,5 +9,5 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |
 |------------|-------|------|------|------|------|------|------|------|------|
-|[https://www.verhalenoverdeoorlog.nl](https://www.verhalenoverdeoorlog.nl)| ||:warning: |:white_check_mark: | |:white_check_mark: | |:white_check_mark: | |:white_check_mark: | |HSTS| |
-|[https://verhalenoverdeoorlog.nl](https://verhalenoverdeoorlog.nl)| ||:warning: |:white_check_mark: | |:white_check_mark: | |:white_check_mark: | |:white_check_mark: | |HSTS| |
+|[https://www.verhalenoverdeoorlog.nl](https://www.verhalenoverdeoorlog.nl)| ||:warning: |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|
+|[https://verhalenoverdeoorlog.nl](https://verhalenoverdeoorlog.nl)| ||:warning: |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|

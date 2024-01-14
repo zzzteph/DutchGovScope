@@ -9,5 +9,5 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |
 |------------|-------|------|------|------|------|------|------|------|------|
-|[http://www.geluidregisterspoor.nl](http://www.geluidregisterspoor.nl)| |microsoft-iis/10.0| | | | | |:white_check_mark: | |IIS:10.0 Windows Ser...| |
-|[http://geluidregisterspoor.nl](http://geluidregisterspoor.nl)| | | | | | | |:white_check_mark: | || |
+|[http://www.geluidregisterspoor.nl](http://www.geluidregisterspoor.nl)| |microsoft-iis/10.0| | | | | |:white_check_mark: |IIS:10.0 Windows Ser...|
+|[http://geluidregisterspoor.nl](http://geluidregisterspoor.nl)| | | | | | | |:white_check_mark: ||

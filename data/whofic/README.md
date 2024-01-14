@@ -9,6 +9,6 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |
 |------------|-------|------|------|------|------|------|------|------|------|
-|[https://class.whofic.nl](https://class.whofic.nl)| |nginx| |:white_check_mark: | | |:white_check_mark: | | |:white_check_mark: | |HSTS Nginx| |
-|[https://www.whofic.nl](https://www.whofic.nl)| |apache| |:white_check_mark: | | |:white_check_mark: | |:white_check_mark: | |:white_check_mark: | |Apache HTTP Server D...| |
-|[https://whofic.nl](https://whofic.nl)| |apache| |:white_check_mark: | | |:white_check_mark: | |:white_check_mark: | |:white_check_mark: | |Apache HTTP Server H...| |
+|[https://class.whofic.nl](https://class.whofic.nl)| |nginx| |:white_check_mark: | | |:white_check_mark: | |:white_check_mark: |HSTS Nginx|
+|[https://www.whofic.nl](https://www.whofic.nl)| |apache| |:white_check_mark: | | |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache HTTP Server D...|
+|[https://whofic.nl](https://whofic.nl)| |apache| |:white_check_mark: | | |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache HTTP Server H...|

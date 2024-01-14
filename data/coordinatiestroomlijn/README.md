@@ -9,7 +9,7 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |
 |------------|-------|------|------|------|------|------|------|------|------|
-|[https://mail.coordinatiestroomlijn.nl](https://mail.coordinatiestroomlijn.nl)| | | | | | | |:white_check_mark: | || |
-|[https://mta-sts.coordinatiestroomlijn.nl](https://mta-sts.coordinatiestroomlijn.nl)| | | | | | | |:white_check_mark: | || |
-|[https://www.coordinatiestroomlijn.nl](https://www.coordinatiestroomlijn.nl)| | | | | | | |:white_check_mark: | || |
-|[https://coordinatiestroomlijn.nl](https://coordinatiestroomlijn.nl)| | | | | | | |:white_check_mark: | || |
+|[https://mail.coordinatiestroomlijn.nl](https://mail.coordinatiestroomlijn.nl)| | | | | | | |:white_check_mark: ||
+|[https://mta-sts.coordinatiestroomlijn.nl](https://mta-sts.coordinatiestroomlijn.nl)| | | | | | | |:white_check_mark: ||
+|[https://www.coordinatiestroomlijn.nl](https://www.coordinatiestroomlijn.nl)| | | | | | | |:white_check_mark: ||
+|[https://coordinatiestroomlijn.nl](https://coordinatiestroomlijn.nl)| | | | | | | |:white_check_mark: ||

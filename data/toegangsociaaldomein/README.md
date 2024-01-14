@@ -9,5 +9,5 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |
 |------------|-------|------|------|------|------|------|------|------|------|
-|[https://www.toegangsociaaldomein.nl](https://www.toegangsociaaldomein.nl)| |lighttpd|:warning: | | | | |:white_check_mark: | |PHP lighttpd| |
-|[https://toegangsociaaldomein.nl](https://toegangsociaaldomein.nl)| |lighttpd|:warning: | | | | |:white_check_mark: | |lighttpd| |
+|[https://www.toegangsociaaldomein.nl](https://www.toegangsociaaldomein.nl)| |lighttpd|:warning: | | | | |:white_check_mark: |PHP lighttpd|
+|[https://toegangsociaaldomein.nl](https://toegangsociaaldomein.nl)| |lighttpd|:warning: | | | | |:white_check_mark: |lighttpd|

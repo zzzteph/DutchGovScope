@@ -9,4 +9,4 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |
 |------------|-------|------|------|------|------|------|------|------|------|
-|[https://www.monitorlandschap.nl](https://www.monitorlandschap.nl)| | | |:white_check_mark: | | | |:white_check_mark: | |HSTS| |
+|[https://www.monitorlandschap.nl](https://www.monitorlandschap.nl)| | | |:white_check_mark: | | | |:white_check_mark: |HSTS|

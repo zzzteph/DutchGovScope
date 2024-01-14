@@ -9,7 +9,7 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |
 |------------|-------|------|------|------|------|------|------|------|------|
-|[http://autodiscover.contactpuntbouwproducten.nl](http://autodiscover.contactpuntbouwproducten.nl)| | |:warning: |:white_check_mark: | | |:white_check_mark: | |:white_check_mark: | |:white_check_mark: | |IIS:10.0 Microsoft A...| |
-|[https://mail.contactpuntbouwproducten.nl](https://mail.contactpuntbouwproducten.nl)| |microsoft-iis/8.5| | | | | |:white_check_mark: | |IIS:8.5 Microsoft AS...| |
-|[https://www.contactpuntbouwproducten.nl](https://www.contactpuntbouwproducten.nl)| |microsoft-iis/8.5| |:white_check_mark: | | | |:white_check_mark: | |HSTS IIS:8.5 Microso...| |
-|[https://contactpuntbouwproducten.nl](https://contactpuntbouwproducten.nl)| |microsoft-iis/8.5| |:white_check_mark: | | | |:white_check_mark: | |HSTS IIS:8.5 Microso...| |
+|[http://autodiscover.contactpuntbouwproducten.nl](http://autodiscover.contactpuntbouwproducten.nl)| | |:warning: |:white_check_mark: | | |:white_check_mark: |:white_check_mark: |:white_check_mark: |IIS:10.0 Microsoft A...|
+|[https://mail.contactpuntbouwproducten.nl](https://mail.contactpuntbouwproducten.nl)| |microsoft-iis/8.5| | | | | |:white_check_mark: |IIS:8.5 Microsoft AS...|
+|[https://www.contactpuntbouwproducten.nl](https://www.contactpuntbouwproducten.nl)| |microsoft-iis/8.5| |:white_check_mark: | | | |:white_check_mark: |HSTS IIS:8.5 Microso...|
+|[https://contactpuntbouwproducten.nl](https://contactpuntbouwproducten.nl)| |microsoft-iis/8.5| |:white_check_mark: | | | |:white_check_mark: |HSTS IIS:8.5 Microso...|

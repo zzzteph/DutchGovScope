@@ -1,5 +1,5 @@
 # diergeneesmiddeleninformatiebank.nl
-*Last update:2024-01-10 20:57:11*
+*Last update:2024-01-14 02:24:12*
 ## Summary data
 | File       | Count | Info |
 |------------|-------|------|
@@ -9,5 +9,5 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |
 |------------|-------|------|------|------|------|------|------|------|------|
-|[http://www.diergeneesmiddeleninformatiebank.nl](http://www.diergeneesmiddeleninformatiebank.nl)| | | | | | | |:white_check_mark: | |F5 BigIP| |
-|[http://diergeneesmiddeleninformatiebank.nl](http://diergeneesmiddeleninformatiebank.nl)| | | | | | | |:white_check_mark: | |F5 BigIP| |
+|[https://www.diergeneesmiddeleninformatiebank.nl](https://www.diergeneesmiddeleninformatiebank.nl)| |nginx|:warning: |:white_check_mark: | | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx|
+|[https://diergeneesmiddeleninformatiebank.nl](https://diergeneesmiddeleninformatiebank.nl)| |nginx|:warning: |:white_check_mark: | | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx|

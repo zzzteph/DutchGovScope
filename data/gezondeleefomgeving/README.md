@@ -9,6 +9,6 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |
 |------------|-------|------|------|------|------|------|------|------|------|
-|[https://www.gezondeleefomgeving.nl](https://www.gezondeleefomgeving.nl)| |apache| |:white_check_mark: | | |:white_check_mark: | |:white_check_mark: | |:white_check_mark: | |Apache HTTP Server D...| |
-|[https://gezondeleefomgeving.nl](https://gezondeleefomgeving.nl)| |apache| |:white_check_mark: | | |:white_check_mark: | |:white_check_mark: | |:white_check_mark: | |Apache HTTP Server H...| |
-|[http://bibliotheek.gezondeleefomgeving.nl](http://bibliotheek.gezondeleefomgeving.nl)| | | | | | | |:white_check_mark: | || |
+|[https://www.gezondeleefomgeving.nl](https://www.gezondeleefomgeving.nl)| |apache| |:white_check_mark: | | |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache HTTP Server D...|
+|[https://gezondeleefomgeving.nl](https://gezondeleefomgeving.nl)| |apache| |:white_check_mark: | | |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache HTTP Server H...|
+|[http://bibliotheek.gezondeleefomgeving.nl](http://bibliotheek.gezondeleefomgeving.nl)| | | | | | | |:white_check_mark: ||

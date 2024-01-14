@@ -9,4 +9,4 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |
 |------------|-------|------|------|------|------|------|------|------|------|
-|[https://inspectielandschap.nl](https://inspectielandschap.nl)| |amazons3| | | | | |:white_check_mark: | |Amazon CloudFront Am...| |
+|[https://inspectielandschap.nl](https://inspectielandschap.nl)| |amazons3| | | | | |:white_check_mark: |Amazon CloudFront Am...|

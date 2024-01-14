@@ -9,6 +9,6 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |
 |------------|-------|------|------|------|------|------|------|------|------|
-|[https://vorijk.nl](https://vorijk.nl)| | | | | | | |:white_check_mark: | |Docusaurus:2.4.3 Rea...| |
-|[https://demo.vorijk.nl](https://demo.vorijk.nl)| |nginx/1.24.0| | | | | |:white_check_mark: | |Basic Nginx:1.24.0| |
-|[https://www.vorijk.nl](https://www.vorijk.nl)| | | | | | | |:white_check_mark: | |Docusaurus:2.4.3 Rea...| |
+|[https://vorijk.nl](https://vorijk.nl)| | | | | | | |:white_check_mark: |Docusaurus:2.4.3 Rea...|
+|[https://demo.vorijk.nl](https://demo.vorijk.nl)| |nginx/1.24.0| | | | | |:white_check_mark: |Basic Nginx:1.24.0|
+|[https://www.vorijk.nl](https://www.vorijk.nl)| | | | | | | |:white_check_mark: |Docusaurus:2.4.3 Rea...|

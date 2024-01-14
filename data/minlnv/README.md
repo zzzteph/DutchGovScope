@@ -9,9 +9,9 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |
 |------------|-------|------|------|------|------|------|------|------|------|
-|[https://www.minlnv.nl](https://www.minlnv.nl)| |nginx| |:white_check_mark: | |:warning: |:white_check_mark: | |:white_check_mark: | |:white_check_mark: | || |
-|[https://client-export-acc.minlnv.nl](https://client-export-acc.minlnv.nl)| | |:warning: |:white_check_mark: | | | |:white_check_mark: | |:white_check_mark: | || |
-|[https://e-certnl-acc.minlnv.nl](https://e-certnl-acc.minlnv.nl)| | |:warning: |:white_check_mark: | | | |:white_check_mark: | |:white_check_mark: | || |
-|[https://client-export.minlnv.nl](https://client-export.minlnv.nl)| | |:warning: |:white_check_mark: | | |:white_check_mark: | | |:white_check_mark: | |HSTS| |
-|[https://minlnv.nl](https://minlnv.nl)| |nginx| |:white_check_mark: | |:warning: |:white_check_mark: | |:white_check_mark: | |:white_check_mark: | || |
-|[https://e-certnl.minlnv.nl](https://e-certnl.minlnv.nl)| | |:warning: |:white_check_mark: | | | |:white_check_mark: | |:white_check_mark: | || |
+|[https://www.minlnv.nl](https://www.minlnv.nl)| |nginx| |:white_check_mark: | |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: ||
+|[https://client-export-acc.minlnv.nl](https://client-export-acc.minlnv.nl)| | |:warning: |:white_check_mark: | | | |:white_check_mark: |:white_check_mark: ||
+|[https://e-certnl-acc.minlnv.nl](https://e-certnl-acc.minlnv.nl)| | |:warning: |:white_check_mark: | | | |:white_check_mark: |:white_check_mark: ||
+|[https://client-export.minlnv.nl](https://client-export.minlnv.nl)| | |:warning: |:white_check_mark: | | |:white_check_mark: | |:white_check_mark: |HSTS|
+|[https://minlnv.nl](https://minlnv.nl)| |nginx| |:white_check_mark: | |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: ||
+|[https://e-certnl.minlnv.nl](https://e-certnl.minlnv.nl)| | |:warning: |:white_check_mark: | | | |:white_check_mark: |:white_check_mark: ||

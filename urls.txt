@@ -516,7 +516,7 @@ https://dataportaal.cbs.nl
 https://dataportal.cbs.nl
 https://dataset.cbs.nl
 https://datasets.cbs.nl
-https://designsystem.cbs.nl
+http://designsystem.cbs.nl
 https://dev.cerberus.cbs.nl
 https://devtestlogin.cbs.nl
 https://dialin.cbs.nl
@@ -716,7 +716,7 @@ https://opendata.cibg.nl
 https://portaal.competent.cibg.nl
 https://prototype.cibg.nl
 https://publicaties.cibg.nl
-http://publicwebservices.cibg.nl
+https://publicwebservices.cibg.nl
 http://publicwebservices-dcr.cibg.nl
 http://stijlgids.cibg.nl
 http://test.digikoppeling.cibg.nl
@@ -737,7 +737,6 @@ https://www.co-vrijregister.nl
 https://co-vrijregister.nl
 https://feeds.collegesanering.nl
 https://opendata.collegesanering.nl
-https://webmail.collegesanering.nl
 https://autodiscover.collegesanering.nl
 https://www.collegesanering.nl
 https://collegesanering.nl
@@ -1004,8 +1003,8 @@ https://zoeken.diergeneeskunderegister.nl
 https://diergeneeskunderegister.nl
 https://www.diergeneeskundigregister.nl
 https://diergeneeskundigregister.nl
-http://www.diergeneesmiddeleninformatiebank.nl
-http://diergeneesmiddeleninformatiebank.nl
+https://www.diergeneesmiddeleninformatiebank.nl
+https://diergeneesmiddeleninformatiebank.nl
 https://dihoo.eu
 https://feeds.dihoo.eu
 https://opendata.dihoo.eu
@@ -1203,6 +1202,7 @@ https://nh.douane.nl
 https://reizigers.douane.nl
 https://tarief.douane.nl
 https://validationcalculation.douane.nl
+https://validationcalculationtest.douane.nl
 https://werken.douane.nl
 https://werkenbij.douane.nl
 https://wpx-80-aix-http.douane.nl
@@ -1226,10 +1226,8 @@ https://feeds.dus-i.nl
 https://mailing.dus-i.nl
 https://opendata.dus-i.nl
 https://www.dus-i.nl
-https://www.acc.mijn.dus-i.nl
 https://www.mijn.dus-i.nl
 https://dus-i.nl
-https://www.acc.mijntest.dus-i.nl
 https://www.mijntest.dus-i.nl
 https://max.dus-i.nl
 https://formulier-beheer.dus-i.nl
@@ -1265,7 +1263,7 @@ https://cdn-7.eemskrant.nl
 https://cdn-6.eemskrant.nl
 https://cdn-1.eemskrant.nl
 https://pop.eemskrant.nl
-https://www.eemskrant.nl
+http://www.eemskrant.nl
 https://archief.eemskrant.nl
 https://smtp.eemskrant.nl
 https://cdn-4.eemskrant.nl
@@ -1413,7 +1411,7 @@ https://opendata.expertisecentrummggz.nl
 https://www.expertisecentrummggz.nl
 https://expertisecentrummggz.nl
 https://exportcontrole.ez.nl
-https://wvaopgave.ez.nl
+http://wvaopgave.ez.nl
 https://dienstenrichtlijn.ez.nl
 http://innovatie.ez.nl
 http://breedband.ez.nl
@@ -1474,8 +1472,8 @@ https://feeds.gelijke-kansen.nl
 https://opendata.gelijke-kansen.nl
 https://www.gelijke-kansen.nl
 https://gelijke-kansen.nl
-http://www.geneesmiddeleninformatiebank.nl
-http://geneesmiddeleninformatiebank.nl
+https://www.geneesmiddeleninformatiebank.nl
+https://geneesmiddeleninformatiebank.nl
 https://feeds.geobasisregistraties.nl
 https://opendata.geobasisregistraties.nl
 https://www.geobasisregistraties.nl
@@ -1541,9 +1539,10 @@ https://groeiennaarmorgen.nl
 https://h-i-ambacht.nl
 http://autodiscover.h-i-ambacht.nl
 https://loket.h-i-ambacht.nl
+https://omgevingsvisie.h-i-ambacht.nl
 https://gisibgeoserver.h-i-ambacht.nl
 https://zaken.h-i-ambacht.nl
-http://gisib-test.h-i-ambacht.nl
+https://gisib-test.h-i-ambacht.nl
 https://web.h-i-ambacht.nl
 https://loket.test.h-i-ambacht.nl
 https://vergunningintaker-preprod.h-i-ambacht.nl
@@ -1734,14 +1733,11 @@ https://feeds.inspectiebtd.nl
 https://inspectiebtd.nl
 https://opendata.inspectiebtd.nl
 https://www.inspectiebtd.nl
-https://www.inspectiejeugdzorg.nl
-https://inspectiejeugdzorg.nl
 https://acceptatie.melding.inspectieszw.nl
 https://asbestovertredingen.inspectieszw.nl
-https://feeds.inspectieszw.nl
 https://melding.inspectieszw.nl
 http://monitor.inspectieszw.nl
-https://opendata.inspectieszw.nl
+http://opendata.inspectieszw.nl
 https://test.melding.inspectieszw.nl
 https://www.inspectieszw.nl
 https://inspectieszw.nl
@@ -1795,10 +1791,6 @@ https://feeds.jaarverantwoordingzorg.nl
 https://opendata.jaarverantwoordingzorg.nl
 https://www.jaarverantwoordingzorg.nl
 https://jaarverantwoordingzorg.nl
-https://www.jaarverslagenzorg.nl
-https://jaarverslagenzorg.nl
-https://www.jaofnee.nl
-https://jaofnee.nl
 https://www.jensen.nl
 https://wt-tracker.jensen.nl
 https://speedtest.jensen.nl

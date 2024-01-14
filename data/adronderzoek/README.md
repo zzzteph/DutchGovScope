@@ -9,5 +9,5 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |
 |------------|-------|------|------|------|------|------|------|------|------|
-|[https://adronderzoek.nl](https://adronderzoek.nl)| | | | | | | |:white_check_mark: | |Apache HTTP Server H...| |
-|[https://www.adronderzoek.nl](https://www.adronderzoek.nl)| | | | | | | |:white_check_mark: | |Apache HTTP Server H...| |
+|[https://adronderzoek.nl](https://adronderzoek.nl)| | | | | | | |:white_check_mark: |Apache HTTP Server H...|
+|[https://www.adronderzoek.nl](https://www.adronderzoek.nl)| | | | | | | |:white_check_mark: |Apache HTTP Server H...|

@@ -9,5 +9,5 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |
 |------------|-------|------|------|------|------|------|------|------|------|
-|[https://www.verantwoordalcoholverkopen.nl](https://www.verantwoordalcoholverkopen.nl)| |nginx| | | | | |:white_check_mark: | |Nginx| |
-|[https://verantwoordalcoholverkopen.nl](https://verantwoordalcoholverkopen.nl)| |nginx| | | | | |:white_check_mark: | |Bootstrap Nginx| |
+|[https://www.verantwoordalcoholverkopen.nl](https://www.verantwoordalcoholverkopen.nl)| |nginx| | | | | |:white_check_mark: |Nginx|
+|[https://verantwoordalcoholverkopen.nl](https://verantwoordalcoholverkopen.nl)| |nginx| | | | | |:white_check_mark: |Bootstrap Nginx|

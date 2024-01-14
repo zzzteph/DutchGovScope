@@ -9,7 +9,7 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |
 |------------|-------|------|------|------|------|------|------|------|------|
-|[https://mail.leidraadse.nl](https://mail.leidraadse.nl)| | | | | | | |:white_check_mark: | |Apache HTTP Server| |
-|[https://webmail.leidraadse.nl](https://webmail.leidraadse.nl)| | | | | | | |:white_check_mark: | |Apache HTTP Server P...| |
-|[https://www.leidraadse.nl](https://www.leidraadse.nl)| |apache|:warning: | | | | |:white_check_mark: | |Apache HTTP Server P...| |
-|[https://leidraadse.nl](https://leidraadse.nl)| |apache|:warning: | | | | |:white_check_mark: | |Apache HTTP Server P...| |
+|[https://mail.leidraadse.nl](https://mail.leidraadse.nl)| | | | | | | |:white_check_mark: |Apache HTTP Server|
+|[https://webmail.leidraadse.nl](https://webmail.leidraadse.nl)| | | | | | | |:white_check_mark: |Apache HTTP Server P...|
+|[https://www.leidraadse.nl](https://www.leidraadse.nl)| |apache|:warning: | | | | |:white_check_mark: |Apache HTTP Server P...|
+|[https://leidraadse.nl](https://leidraadse.nl)| |apache|:warning: | | | | |:white_check_mark: |Apache HTTP Server P...|

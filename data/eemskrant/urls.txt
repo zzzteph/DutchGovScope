@@ -4,7 +4,7 @@ https://cdn-7.eemskrant.nl
 https://cdn-6.eemskrant.nl
 https://cdn-1.eemskrant.nl
 https://pop.eemskrant.nl
-https://www.eemskrant.nl
+http://www.eemskrant.nl
 https://archief.eemskrant.nl
 https://smtp.eemskrant.nl
 https://cdn-4.eemskrant.nl

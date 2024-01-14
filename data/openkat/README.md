@@ -9,6 +9,6 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |
 |------------|-------|------|------|------|------|------|------|------|------|
-|[https://docs.openkat.nl](https://docs.openkat.nl)| |github.com| |:white_check_mark: | | | | |:white_check_mark: | |Fastly GitHub Pages...| |
-|[https://www.openkat.nl](https://www.openkat.nl)| |apache| |:white_check_mark: | |:white_check_mark: | | |:white_check_mark: | |Apache HTTP Server H...| |
-|[https://openkat.nl](https://openkat.nl)| |apache| |:white_check_mark: | |:white_check_mark: | | |:white_check_mark: | |Apache HTTP Server H...| |
+|[https://docs.openkat.nl](https://docs.openkat.nl)| |github.com| |:white_check_mark: | | | | |:white_check_mark: |Fastly GitHub Pages...|
+|[https://www.openkat.nl](https://www.openkat.nl)| |apache| |:white_check_mark: | |:white_check_mark: | |:white_check_mark: |Apache HTTP Server H...|
+|[https://openkat.nl](https://openkat.nl)| |apache| |:white_check_mark: | |:white_check_mark: | |:white_check_mark: |Apache HTTP Server H...|

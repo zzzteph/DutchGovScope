@@ -9,6 +9,6 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |
 |------------|-------|------|------|------|------|------|------|------|------|
-|[https://storybook.nldesignsystem.nl](https://storybook.nldesignsystem.nl)| |nginx| |:white_check_mark: | | | | |:white_check_mark: | |HSTS Nginx Plesk| |
-|[https://www.nldesignsystem.nl](https://www.nldesignsystem.nl)| |nginx| |:white_check_mark: | | | | |:white_check_mark: | |Docusaurus:3.1.0 HST...| |
-|[https://nldesignsystem.nl](https://nldesignsystem.nl)| |nginx| |:white_check_mark: | | | | |:white_check_mark: | |Docusaurus:3.1.0 HST...| |
+|[https://storybook.nldesignsystem.nl](https://storybook.nldesignsystem.nl)| |nginx| |:white_check_mark: | | | | |:white_check_mark: |HSTS Nginx Plesk|
+|[https://www.nldesignsystem.nl](https://www.nldesignsystem.nl)| |nginx| |:white_check_mark: | | | | |:white_check_mark: |Docusaurus:3.1.0 HST...|
+|[https://nldesignsystem.nl](https://nldesignsystem.nl)| |nginx| |:white_check_mark: | | | | |:white_check_mark: |Docusaurus:3.1.0 HST...|

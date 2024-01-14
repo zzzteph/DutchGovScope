@@ -9,6 +9,6 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |
 |------------|-------|------|------|------|------|------|------|------|------|
-|[http://autodiscover.atgb.nl](http://autodiscover.atgb.nl)| | |:warning: |:white_check_mark: | | |:white_check_mark: | |:white_check_mark: | |:white_check_mark: | |IIS:10.0 Microsoft A...| |
-|[https://www.atgb.nl](https://www.atgb.nl)| |apache| |:white_check_mark: | | |:white_check_mark: | |:white_check_mark: | |:white_check_mark: | |Apache HTTP Server H...| |
-|[https://atgb.nl](https://atgb.nl)| |apache| |:white_check_mark: | | |:white_check_mark: | |:white_check_mark: | |:white_check_mark: | |Apache HTTP Server H...| |
+|[http://autodiscover.atgb.nl](http://autodiscover.atgb.nl)| | |:warning: |:white_check_mark: | | |:white_check_mark: |:white_check_mark: |:white_check_mark: |IIS:10.0 Microsoft A...|
+|[https://www.atgb.nl](https://www.atgb.nl)| |apache| |:white_check_mark: | | |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache HTTP Server H...|
+|[https://atgb.nl](https://atgb.nl)| |apache| |:white_check_mark: | | |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache HTTP Server H...|

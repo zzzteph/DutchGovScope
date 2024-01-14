@@ -9,9 +9,9 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |
 |------------|-------|------|------|------|------|------|------|------|------|
-|[https://vraagje.doeonbeperktmee.nl](https://vraagje.doeonbeperktmee.nl)| |nginx| | | | | |:white_check_mark: | |Nginx| |
-|[https://deploy-vraagje.doeonbeperktmee.nl](https://deploy-vraagje.doeonbeperktmee.nl)| |nginx| | | | | |:white_check_mark: | |Nginx| |
-|[https://doeonbeperktmee.nl](https://doeonbeperktmee.nl)| |nginx| |:white_check_mark: | |:warning: |:white_check_mark: | |:white_check_mark: | |:white_check_mark: | |HSTS Nginx| |
-|[https://feeds.doeonbeperktmee.nl](https://feeds.doeonbeperktmee.nl)| |nginx| |:white_check_mark: | | |:white_check_mark: | |:white_check_mark: | |:white_check_mark: | |HSTS Nginx| |
-|[https://opendata.doeonbeperktmee.nl](https://opendata.doeonbeperktmee.nl)| |nginx| |:white_check_mark: | | |:white_check_mark: | |:white_check_mark: | |:white_check_mark: | |HSTS Nginx| |
-|[https://www.doeonbeperktmee.nl](https://www.doeonbeperktmee.nl)| |nginx| |:white_check_mark: | |:warning: |:white_check_mark: | |:white_check_mark: | |:white_check_mark: | |Bloomreach HSTS Ngin...| |
+|[https://vraagje.doeonbeperktmee.nl](https://vraagje.doeonbeperktmee.nl)| |nginx| | | | | |:white_check_mark: |Nginx|
+|[https://deploy-vraagje.doeonbeperktmee.nl](https://deploy-vraagje.doeonbeperktmee.nl)| |nginx| | | | | |:white_check_mark: |Nginx|
+|[https://doeonbeperktmee.nl](https://doeonbeperktmee.nl)| |nginx| |:white_check_mark: | |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx|
+|[https://feeds.doeonbeperktmee.nl](https://feeds.doeonbeperktmee.nl)| |nginx| |:white_check_mark: | | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx|
+|[https://opendata.doeonbeperktmee.nl](https://opendata.doeonbeperktmee.nl)| |nginx| |:white_check_mark: | | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx|
+|[https://www.doeonbeperktmee.nl](https://www.doeonbeperktmee.nl)| |nginx| |:white_check_mark: | |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Bloomreach HSTS Ngin...|

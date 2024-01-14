@@ -9,7 +9,7 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |
 |------------|-------|------|------|------|------|------|------|------|------|
-|[https://media.wlo2015.nl](https://media.wlo2015.nl)| | | | | | | |:white_check_mark: | |Azure Azure Front Do...| |
-|[https://www.wlo2015.nl](https://www.wlo2015.nl)| | | |:white_check_mark: | |:white_check_mark: | |:white_check_mark: | |:white_check_mark: | |HSTS MySQL PHP WordP...| |
-|[https://media.acc.wlo2015.nl](https://media.acc.wlo2015.nl)| | | | | | | |:white_check_mark: | |Azure Azure Front Do...| |
-|[https://wlo2015.nl](https://wlo2015.nl)| | | |:white_check_mark: | |:white_check_mark: | |:white_check_mark: | |:white_check_mark: | || |
+|[https://media.wlo2015.nl](https://media.wlo2015.nl)| | | | | | | |:white_check_mark: |Azure Azure Front Do...|
+|[https://www.wlo2015.nl](https://www.wlo2015.nl)| | | |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS MySQL PHP WordP...|
+|[https://media.acc.wlo2015.nl](https://media.acc.wlo2015.nl)| | | | | | | |:white_check_mark: |Azure Azure Front Do...|
+|[https://wlo2015.nl](https://wlo2015.nl)| | | |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: ||

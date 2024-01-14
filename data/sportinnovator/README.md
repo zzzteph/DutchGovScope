@@ -9,6 +9,6 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |
 |------------|-------|------|------|------|------|------|------|------|------|
-|[https://challenges.sportinnovator.nl](https://challenges.sportinnovator.nl)| |kestrel|:warning: |:white_check_mark: | | |:white_check_mark: | | |:white_check_mark: | |HSTS Kestrel Microso...| |
-|[https://sportinnovator.nl](https://sportinnovator.nl)| |apache|:warning: |:white_check_mark: | | |:white_check_mark: | |:white_check_mark: | |:white_check_mark: | |Apache HTTP Server H...| |
-|[https://www.sportinnovator.nl](https://www.sportinnovator.nl)| |apache|:warning: |:white_check_mark: | | |:white_check_mark: | |:white_check_mark: | |:white_check_mark: | |Apache HTTP Server C...| |
+|[https://challenges.sportinnovator.nl](https://challenges.sportinnovator.nl)| |kestrel|:warning: |:white_check_mark: | | |:white_check_mark: | |:white_check_mark: |HSTS Kestrel Microso...|
+|[https://sportinnovator.nl](https://sportinnovator.nl)| |apache|:warning: |:white_check_mark: | | |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache HTTP Server H...|
+|[https://www.sportinnovator.nl](https://www.sportinnovator.nl)| |apache|:warning: |:white_check_mark: | | |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache HTTP Server C...|

@@ -9,5 +9,5 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |
 |------------|-------|------|------|------|------|------|------|------|------|
-|[https://onderzoekmetmensen.nl](https://onderzoekmetmensen.nl)| |nginx| |:white_check_mark: | |:warning: |:white_check_mark: | |:white_check_mark: | |:white_check_mark: | |Drupal HSTS Nginx PH...| |
-|[https://www.onderzoekmetmensen.nl](https://www.onderzoekmetmensen.nl)| |nginx| |:white_check_mark: | |:warning: |:white_check_mark: | |:white_check_mark: | |:white_check_mark: | |Drupal HSTS Nginx PH...| |
+|[https://onderzoekmetmensen.nl](https://onderzoekmetmensen.nl)| |nginx| |:white_check_mark: | |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Drupal HSTS Nginx PH...|
+|[https://www.onderzoekmetmensen.nl](https://www.onderzoekmetmensen.nl)| |nginx| |:white_check_mark: | |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Drupal HSTS Nginx PH...|

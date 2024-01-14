@@ -9,6 +9,6 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |
 |------------|-------|------|------|------|------|------|------|------|------|
-|[https://staging.e-cert.nl](https://staging.e-cert.nl)| |prometheus|:warning: |:white_check_mark: | | | |:white_check_mark: | |:white_check_mark: | |HSTS| |
-|[https://www.e-cert.nl](https://www.e-cert.nl)| |prometheus| |:white_check_mark: | |:warning: | |:white_check_mark: | |:white_check_mark: | |HSTS| |
-|[https://e-cert.nl](https://e-cert.nl)| |prometheus| |:white_check_mark: | |:warning: | |:white_check_mark: | |:white_check_mark: | |HSTS MySQL PHP Redis...| |
+|[https://staging.e-cert.nl](https://staging.e-cert.nl)| |prometheus|:warning: |:white_check_mark: | | | |:white_check_mark: |:white_check_mark: |HSTS|
+|[https://www.e-cert.nl](https://www.e-cert.nl)| |prometheus| |:white_check_mark: | |:warning: | |:white_check_mark: |:white_check_mark: |HSTS|
+|[https://e-cert.nl](https://e-cert.nl)| |prometheus| |:white_check_mark: | |:warning: | |:white_check_mark: |:white_check_mark: |HSTS MySQL PHP Redis...|

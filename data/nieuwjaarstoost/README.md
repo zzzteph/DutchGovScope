@@ -9,5 +9,5 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |
 |------------|-------|------|------|------|------|------|------|------|------|
-|[https://nieuwjaarstoost.nl](https://nieuwjaarstoost.nl)| | | | | | | |:white_check_mark: | |Nginx| |
-|[https://www.nieuwjaarstoost.nl](https://www.nieuwjaarstoost.nl)| | | | | | | |:white_check_mark: | |Nginx| |
+|[https://nieuwjaarstoost.nl](https://nieuwjaarstoost.nl)| | | | | | | |:white_check_mark: |Nginx|
+|[https://www.nieuwjaarstoost.nl](https://www.nieuwjaarstoost.nl)| | | | | | | |:white_check_mark: |Nginx|

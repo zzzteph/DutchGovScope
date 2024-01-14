@@ -9,5 +9,5 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |
 |------------|-------|------|------|------|------|------|------|------|------|
-|[https://www.a7a8.nl](https://www.a7a8.nl)| |apache/2| |:white_check_mark: | |:white_check_mark: | |:white_check_mark: | |:white_check_mark: | || |
-|[https://a7a8.nl](https://a7a8.nl)| |apache/2| |:white_check_mark: | |:white_check_mark: | |:white_check_mark: | |:white_check_mark: | || |
+|[https://www.a7a8.nl](https://www.a7a8.nl)| |apache/2| |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: ||
+|[https://a7a8.nl](https://a7a8.nl)| |apache/2| |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: ||

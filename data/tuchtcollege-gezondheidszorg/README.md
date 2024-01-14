@@ -9,8 +9,8 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |
 |------------|-------|------|------|------|------|------|------|------|------|
-|[https://feeds.tuchtcollege-gezondheidszorg.nl](https://feeds.tuchtcollege-gezondheidszorg.nl)| |nginx| |:white_check_mark: | | |:white_check_mark: | |:white_check_mark: | |:white_check_mark: | |HSTS Nginx| |
-|[https://magazines.tuchtcollege-gezondheidszorg.nl](https://magazines.tuchtcollege-gezondheidszorg.nl)| |nginx| |:white_check_mark: | |:warning: |:white_check_mark: | |:white_check_mark: | |:white_check_mark: | |HSTS Nginx| |
-|[https://opendata.tuchtcollege-gezondheidszorg.nl](https://opendata.tuchtcollege-gezondheidszorg.nl)| |nginx| |:white_check_mark: | | |:white_check_mark: | |:white_check_mark: | |:white_check_mark: | |HSTS Nginx| |
-|[https://www.tuchtcollege-gezondheidszorg.nl](https://www.tuchtcollege-gezondheidszorg.nl)| |nginx| |:white_check_mark: | |:warning: |:white_check_mark: | |:white_check_mark: | |:white_check_mark: | |Bloomreach HSTS Ngin...| |
-|[https://tuchtcollege-gezondheidszorg.nl](https://tuchtcollege-gezondheidszorg.nl)| |nginx| |:white_check_mark: | |:warning: |:white_check_mark: | |:white_check_mark: | |:white_check_mark: | |HSTS Nginx| |
+|[https://feeds.tuchtcollege-gezondheidszorg.nl](https://feeds.tuchtcollege-gezondheidszorg.nl)| |nginx| |:white_check_mark: | | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx|
+|[https://magazines.tuchtcollege-gezondheidszorg.nl](https://magazines.tuchtcollege-gezondheidszorg.nl)| |nginx| |:white_check_mark: | |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx|
+|[https://opendata.tuchtcollege-gezondheidszorg.nl](https://opendata.tuchtcollege-gezondheidszorg.nl)| |nginx| |:white_check_mark: | | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx|
+|[https://www.tuchtcollege-gezondheidszorg.nl](https://www.tuchtcollege-gezondheidszorg.nl)| |nginx| |:white_check_mark: | |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Bloomreach HSTS Ngin...|
+|[https://tuchtcollege-gezondheidszorg.nl](https://tuchtcollege-gezondheidszorg.nl)| |nginx| |:white_check_mark: | |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx|

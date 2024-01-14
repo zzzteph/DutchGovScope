@@ -9,5 +9,5 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |
 |------------|-------|------|------|------|------|------|------|------|------|
-|[http://www.bereiknu.nl](http://www.bereiknu.nl)| |caddy| |:white_check_mark: | | | | |:white_check_mark: | |Apache HTTP Server P...| |
-|[http://bereiknu.nl](http://bereiknu.nl)| |caddy| |:white_check_mark: | | | | |:white_check_mark: | |Apache HTTP Server P...| |
+|[http://www.bereiknu.nl](http://www.bereiknu.nl)| |caddy| |:white_check_mark: | | | | |:white_check_mark: |Apache HTTP Server P...|
+|[http://bereiknu.nl](http://bereiknu.nl)| |caddy| |:white_check_mark: | | | | |:white_check_mark: |Apache HTTP Server P...|

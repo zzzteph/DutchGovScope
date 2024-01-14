@@ -9,6 +9,6 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |
 |------------|-------|------|------|------|------|------|------|------|------|
-|[https://www.aaninhetdonker.nl](https://www.aaninhetdonker.nl)| |nginx| |:white_check_mark: | | |:white_check_mark: | |:white_check_mark: | |:white_check_mark: | |HSTS Nginx| |
-|[https://web01.aaninhetdonker.nl](https://web01.aaninhetdonker.nl)| | | | | | | |:white_check_mark: | |Nginx| |
-|[https://aaninhetdonker.nl](https://aaninhetdonker.nl)| |nginx| |:white_check_mark: | | |:white_check_mark: | |:white_check_mark: | |:white_check_mark: | |HSTS Nginx| |
+|[https://www.aaninhetdonker.nl](https://www.aaninhetdonker.nl)| |nginx| |:white_check_mark: | | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx|
+|[https://web01.aaninhetdonker.nl](https://web01.aaninhetdonker.nl)| | | | | | | |:white_check_mark: |Nginx|
+|[https://aaninhetdonker.nl](https://aaninhetdonker.nl)| |nginx| |:white_check_mark: | | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx|

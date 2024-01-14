@@ -1,5 +1,5 @@
 # geneesmiddeleninformatiebank.nl
-*Last update:2024-01-10 20:57:13*
+*Last update:2024-01-14 04:19:12*
 ## Summary data
 | File       | Count | Info |
 |------------|-------|------|
@@ -9,5 +9,5 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |
 |------------|-------|------|------|------|------|------|------|------|------|
-|[http://www.geneesmiddeleninformatiebank.nl](http://www.geneesmiddeleninformatiebank.nl)| | | | | | | |:white_check_mark: | |F5 BigIP| |
-|[http://geneesmiddeleninformatiebank.nl](http://geneesmiddeleninformatiebank.nl)| | | | | | | |:white_check_mark: | |F5 BigIP| |
+|[https://www.geneesmiddeleninformatiebank.nl](https://www.geneesmiddeleninformatiebank.nl)| |nginx|:warning: |:white_check_mark: | | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx|
+|[https://geneesmiddeleninformatiebank.nl](https://geneesmiddeleninformatiebank.nl)| |nginx|:warning: |:white_check_mark: | | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx|

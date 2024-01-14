@@ -9,6 +9,6 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |
 |------------|-------|------|------|------|------|------|------|------|------|
-|[https://www.agendavoorhetwaddengebied2050.nl](https://www.agendavoorhetwaddengebied2050.nl)| |-| |:white_check_mark: | |:white_check_mark: | |:white_check_mark: | |:white_check_mark: | |HSTS Microsoft ASP.N...| |
-|[https://agendavoorhetwaddengebied2050.nl](https://agendavoorhetwaddengebied2050.nl)| |-| |:white_check_mark: | |:white_check_mark: | |:white_check_mark: | |:white_check_mark: | |HSTS Microsoft ASP.N...| |
-|[http://mail.agendavoorhetwaddengebied2050.nl](http://mail.agendavoorhetwaddengebied2050.nl)| |microsoft-httpapi/2.0| | | | | |:white_check_mark: | |Microsoft HTTPAPI:2....| |
+|[https://www.agendavoorhetwaddengebied2050.nl](https://www.agendavoorhetwaddengebied2050.nl)| |-| |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Microsoft ASP.N...|
+|[https://agendavoorhetwaddengebied2050.nl](https://agendavoorhetwaddengebied2050.nl)| |-| |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Microsoft ASP.N...|
+|[http://mail.agendavoorhetwaddengebied2050.nl](http://mail.agendavoorhetwaddengebied2050.nl)| |microsoft-httpapi/2.0| | | | | |:white_check_mark: |Microsoft HTTPAPI:2....|

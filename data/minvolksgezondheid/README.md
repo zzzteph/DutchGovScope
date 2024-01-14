@@ -9,5 +9,5 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |
 |------------|-------|------|------|------|------|------|------|------|------|
-|[https://minvolksgezondheid.nl](https://minvolksgezondheid.nl)| | | | | | | |:white_check_mark: | |HSTS IIS:10.0 Window...| |
-|[https://www.minvolksgezondheid.nl](https://www.minvolksgezondheid.nl)| | | | | | | |:white_check_mark: | |HSTS IIS:10.0 Window...| |
+|[https://minvolksgezondheid.nl](https://minvolksgezondheid.nl)| | | | | | | |:white_check_mark: |HSTS IIS:10.0 Window...|
+|[https://www.minvolksgezondheid.nl](https://www.minvolksgezondheid.nl)| | | | | | | |:white_check_mark: |HSTS IIS:10.0 Window...|

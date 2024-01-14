@@ -9,5 +9,5 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |
 |------------|-------|------|------|------|------|------|------|------|------|
-|[https://www.duurzaamheidsroutea35.nl](https://www.duurzaamheidsroutea35.nl)| | | | | | | |:white_check_mark: | |HSTS Microsoft ASP.N...| |
-|[https://duurzaamheidsroutea35.nl](https://duurzaamheidsroutea35.nl)| | | | | | | |:white_check_mark: | |HSTS Microsoft ASP.N...| |
+|[https://www.duurzaamheidsroutea35.nl](https://www.duurzaamheidsroutea35.nl)| | | | | | | |:white_check_mark: |HSTS Microsoft ASP.N...|
+|[https://duurzaamheidsroutea35.nl](https://duurzaamheidsroutea35.nl)| | | | | | | |:white_check_mark: |HSTS Microsoft ASP.N...|

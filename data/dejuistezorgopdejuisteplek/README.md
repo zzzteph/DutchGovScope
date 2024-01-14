@@ -9,7 +9,7 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |
 |------------|-------|------|------|------|------|------|------|------|------|
-|[https://regiobeelden.dejuistezorgopdejuisteplek.nl](https://regiobeelden.dejuistezorgopdejuisteplek.nl)| |nginx| |:white_check_mark: | |:warning: |:white_check_mark: | |:white_check_mark: | |:white_check_mark: | |HSTS Nginx| |
-|[https://voorbeelden.dejuistezorgopdejuisteplek.nl](https://voorbeelden.dejuistezorgopdejuisteplek.nl)| |nginx| |:white_check_mark: | |:warning: |:white_check_mark: | |:white_check_mark: | |:white_check_mark: | |HSTS Nginx| |
-|[https://www.dejuistezorgopdejuisteplek.nl](https://www.dejuistezorgopdejuisteplek.nl)| |nginx| |:white_check_mark: | |:warning: |:white_check_mark: | |:white_check_mark: | |:white_check_mark: | |HSTS Nginx| |
-|[https://dejuistezorgopdejuisteplek.nl](https://dejuistezorgopdejuisteplek.nl)| |nginx| |:white_check_mark: | |:warning: |:white_check_mark: | |:white_check_mark: | |:white_check_mark: | |HSTS Nginx| |
+|[https://regiobeelden.dejuistezorgopdejuisteplek.nl](https://regiobeelden.dejuistezorgopdejuisteplek.nl)| |nginx| |:white_check_mark: | |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx|
+|[https://voorbeelden.dejuistezorgopdejuisteplek.nl](https://voorbeelden.dejuistezorgopdejuisteplek.nl)| |nginx| |:white_check_mark: | |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx|
+|[https://www.dejuistezorgopdejuisteplek.nl](https://www.dejuistezorgopdejuisteplek.nl)| |nginx| |:white_check_mark: | |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx|
+|[https://dejuistezorgopdejuisteplek.nl](https://dejuistezorgopdejuisteplek.nl)| |nginx| |:white_check_mark: | |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx|
