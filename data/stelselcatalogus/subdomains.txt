@@ -1,0 +1,12 @@
+acc.stelselcatalogus.nl
+acc.mpl.stelselcatalogus.nl
+acc.opendata.stelselcatalogus.nl
+catalogus.stelselcatalogus.nl
+opendata.stelselcatalogus.nl
+preprod.stelselcatalogus.nl
+preprod.opendata.stelselcatalogus.nl
+www.stelselcatalogus.nl
+stelselcatalogus.nl
+digitaleoverheid.stelselcatalogus.nl
+editor.stelselcatalogus.nl
+acc.editor.stelselcatalogus.nl

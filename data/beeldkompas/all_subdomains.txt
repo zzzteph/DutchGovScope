@@ -1,0 +1,5 @@
+accept.beeldkompas.nl
+accept-cms.beeldkompas.nl
+cms.beeldkompas.nl
+www.beeldkompas.nl
+beeldkompas.nl

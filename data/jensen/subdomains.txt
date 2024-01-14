@@ -1,0 +1,15 @@
+www.jensen.nl
+wt-tracker.jensen.nl
+speedtest.jensen.nl
+twentysix-proud.jensen.nl
+transcode.jensen.nl
+img.jensen.nl
+commento.jensen.nl
+node-1.cdn.jensen.nl
+mail.jensen.nl
+jensen.nl
+node-4.cdn.jensen.nl
+staging.jensen.nl
+video.jensen.nl
+chromecast-receiver.jensen.nl
+icecast.jensen.nl

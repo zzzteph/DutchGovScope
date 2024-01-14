@@ -1,0 +1,8 @@
+tbbb.tib-ivd.nl
+autodiscover.tib-ivd.nl
+mx01.tib-ivd.nl
+webmail.tib-ivd.nl
+feeds.tib-ivd.nl
+opendata.tib-ivd.nl
+tib-ivd.nl
+www.tib-ivd.nl

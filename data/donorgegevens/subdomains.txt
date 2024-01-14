@@ -1,0 +1,14 @@
+a-feeds.donorgegevens.nl
+a-opendata.donorgegevens.nl
+a-www.donorgegevens.nl
+aanvraag.donorgegevens.nl
+acc.donorgegevens.nl
+acceptatie.aanvraag.donorgegevens.nl
+acceptatie.behandel.donorgegevens.nl
+acceptatie.klinieken.donorgegevens.nl
+behandel.donorgegevens.nl
+feeds.donorgegevens.nl
+klinieken.donorgegevens.nl
+opendata.donorgegevens.nl
+www.donorgegevens.nl
+donorgegevens.nl

@@ -1,0 +1,15 @@
+kenniscentrum.ofgv.nl
+telewerken.ofgv.nl
+www.ofgv.nl
+hybrid.ofgv.nl
+ofgv.nl
+transfer.ofgv.nl
+vr.ofgv.nl
+webmail.ofgv.nl
+smtp.ofgv.nl
+mx1.ofgv.nl
+autodiscover.ofgv.nl
+redactie.ofgv.nl
+sharefile.ofgv.nl
+squit2go.ofgv.nl
+ofgvtransfer.ofgv.nl

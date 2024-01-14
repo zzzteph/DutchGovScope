@@ -1,0 +1,4 @@
+https://feeds.pagw.nl
+https://www.pagw.nl
+https://opendata.pagw.nl
+https://pagw.nl

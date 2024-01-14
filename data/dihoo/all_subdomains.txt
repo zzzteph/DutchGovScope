@@ -1,0 +1,5 @@
+feeds.dihoo.nl
+opendata.dihoo.nl
+www.dihoo.nl
+dihoo.nl
+mail.dihoo.nl

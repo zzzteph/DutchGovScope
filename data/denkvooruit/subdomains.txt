@@ -1,0 +1,7 @@
+feeds.denkvooruit.nl
+opendata.denkvooruit.nl
+www.denkvooruit.nl
+denkvooruit.nl
+english.denkvooruit.nl
+feeds.english.denkvooruit.nl
+opendata.english.denkvooruit.nl

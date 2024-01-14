@@ -1,0 +1,13 @@
+# staatvandeuitvoering.nl
+*Last update:2024-01-11 16:13:37*
+## Summary data
+| File       | Count | Info |
+|------------|-------|------|
+|[subdomains.txt](/data/staatvandeuitvoering/subdomains.txt)|2|Alive subdomains|
+|[urls.txt](/data/staatvandeuitvoering/urls.txt)|2|Urls|
+|[all_subdomains.txt](/data/staatvandeuitvoering/all_subdomains.txt)|2|All found subdomains (history)|
+## Statistics
+| Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |
+|------------|-------|------|------|------|------|------|------|------|------|
+|[https://www.staatvandeuitvoering.nl](https://www.staatvandeuitvoering.nl)| || |:white_check_mark: | |:white_check_mark: | |:white_check_mark: | |:white_check_mark: | |HSTS Nginx| |
+|[https://staatvandeuitvoering.nl](https://staatvandeuitvoering.nl)| || |:white_check_mark: | |:white_check_mark: | |:white_check_mark: | |:white_check_mark: | |Gravity Forms HSTS M...| |

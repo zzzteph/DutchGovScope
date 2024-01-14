@@ -1,0 +1,4 @@
+feeds.rijksinspecties.nl
+opendata.rijksinspecties.nl
+www.rijksinspecties.nl
+rijksinspecties.nl

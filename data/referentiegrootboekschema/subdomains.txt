@@ -1,0 +1,6 @@
+acc-dictu.referentiegrootboekschema.nl
+mail.referentiegrootboekschema.nl
+prod-dictu.referentiegrootboekschema.nl
+test-dictu.referentiegrootboekschema.nl
+www.referentiegrootboekschema.nl
+referentiegrootboekschema.nl

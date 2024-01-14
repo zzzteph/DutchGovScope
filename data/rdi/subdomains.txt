@@ -1,0 +1,14 @@
+opendata.rdi.nl
+uploadmodule.rdi.nl
+feeds.rdi.nl
+www.rdi.nl
+appl.rdi.nl
+infoportal.rdi.nl
+magazines.rdi.nl
+mijn.rdi.nl
+identificatie.rdi.nl
+radar.rdi.nl
+rdi.nl
+prod.radar.rdi.nl
+callbook.rdi.nl
+onderzoek.rdi.nl

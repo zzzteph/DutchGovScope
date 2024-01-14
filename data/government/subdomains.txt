@@ -1,0 +1,16 @@
+a-feeds.government.nl
+a-magazines.government.nl
+a-opendata.government.nl
+a-www.government.nl
+acc.quarantinedeclaration.government.nl
+coronadashboard.government.nl
+feeds.government.nl
+i-www.government.nl
+magazines.government.nl
+o-www.government.nl
+opendata.government.nl
+quarantinedeclaration.government.nl
+t-www.government.nl
+www.government.nl
+government.nl
+sdg.government.nl

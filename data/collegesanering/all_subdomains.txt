@@ -1,0 +1,14 @@
+english.collegesanering.nl
+feeds.collegesanering.nl
+magazines.english.collegesanering.nl
+magazinesintern.english.collegesanering.nl
+mail.collegesanering.nl
+opendata.collegesanering.nl
+webmail.collegesanering.nl
+autodiscover.collegesanering.nl
+www.collegesanering.nl
+magazines.collegesanering.nl
+magazinesintern.collegesanering.nl
+opendata.english.collegesanering.nl
+feeds.english.collegesanering.nl
+collegesanering.nl

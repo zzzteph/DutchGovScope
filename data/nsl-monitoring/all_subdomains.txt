@@ -1,0 +1,12 @@
+geoserver.nsl-monitoring.nl
+geoserver-acc.nsl-monitoring.nl
+hostmaster.nsl-monitoring.nl
+mt2011.nsl-monitoring.nl
+mta-sts.nsl-monitoring.nl
+viewer2012.nsl-monitoring.nl
+www.nsl-monitoring.nl
+viewer2010.nsl-monitoring.nl
+www1.nsl-monitoring.nl
+viewer2011.nsl-monitoring.nl
+websitewww.nsl-monitoring.nl
+nsl-monitoring.nl

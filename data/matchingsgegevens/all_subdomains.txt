@@ -1,0 +1,4 @@
+feeds.matchingsgegevens.nl
+matchingsgegevens.nl
+opendata.matchingsgegevens.nl
+www.matchingsgegevens.nl

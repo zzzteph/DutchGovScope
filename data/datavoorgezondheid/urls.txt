@@ -1,0 +1,4 @@
+https://feeds.datavoorgezondheid.nl
+https://opendata.datavoorgezondheid.nl
+https://www.datavoorgezondheid.nl
+https://datavoorgezondheid.nl

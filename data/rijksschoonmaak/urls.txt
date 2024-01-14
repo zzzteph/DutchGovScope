@@ -1,0 +1,4 @@
+https://feeds.rijksschoonmaak.nl
+https://opendata.rijksschoonmaak.nl
+https://www.rijksschoonmaak.nl
+https://rijksschoonmaak.nl

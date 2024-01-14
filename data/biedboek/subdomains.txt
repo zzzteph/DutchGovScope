@@ -1,0 +1,10 @@
+acceptatie.biedboek.nl
+internal.biedboek.nl
+test.biedboek.nl
+test2.biedboek.nl
+www.biedboek.nl
+biedboek.nl
+acceptatie-nieuw.biedboek.nl
+test-nieuw.biedboek.nl
+share.test-nieuw.biedboek.nl
+share.acceptatie-nieuw.biedboek.nl

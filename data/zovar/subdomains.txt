@@ -1,0 +1,8 @@
+feeds.zovar.nl
+formulieren.zovar.nl
+opendata.zovar.nl
+www.zovar.nl
+www.csp.zovar.nl
+ldap.zovar.nl
+zovar.nl
+ocsp.zovar.nl

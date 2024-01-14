@@ -1,0 +1,14 @@
+http://bayplanviewer.bics.nl
+https://hs.bics.nl
+https://hsacc.bics.nl
+https://livra.bics.nl
+https://livra2.bics.nl
+http://nlhull.bics.nl
+http://nlhull2.bics.nl
+http://nlrdms.bics.nl
+https://www.bics.nl
+https://bicsdrupalacc.bics.nl
+https://bics.nl
+https://bicsweb1.bics.nl
+https://bicsweb2.bics.nl
+https://bicsaccweb1.bics.nl

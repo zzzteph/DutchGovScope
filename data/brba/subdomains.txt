@@ -1,0 +1,16 @@
+aanmelden.brba.nl
+aanmelden.acc.brba.nl
+helpdesk.brba.nl
+keiko.brba.nl
+uzi.brba.nl
+uzi.acc.brba.nl
+uzi.test.brba.nl
+viep.brba.nl
+viep.acc.brba.nl
+viep.test.brba.nl
+web.acc.brba.nl
+web.test.brba.nl
+www.brba.nl
+sftp-out.brba.nl
+aanmelden.test.brba.nl
+brba.nl
