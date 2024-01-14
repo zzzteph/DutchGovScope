@@ -9,10 +9,10 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
-|[http://acceptatie.neorah.nl](http://acceptatie.neorah.nl)| || | | | | |:white_check_mark: |||
-|[http://acceptatie.ltfu.neorah.nl](http://acceptatie.ltfu.neorah.nl)| || | | | | |:white_check_mark: |||
-|[https://host.neorah.nl](https://host.neorah.nl)| |Microsoft-HTTPAP...| | | | | |:white_check_mark: |HSTS Microsoft H...|Not Found|
-|[https://ltfu.neorah.nl](https://ltfu.neorah.nl)| |Microsoft-IIS/10...|:warning: |:white_check_mark: | |:white_check_mark: | |:white_check_mark: |HSTS IIS:10.0 La...|Redirecting to h...|
-|[https://www.neorah.nl](https://www.neorah.nl)| |Microsoft-IIS/10...|:white_check_mark: |:white_check_mark: |:warning: |:white_check_mark: | |:white_check_mark: |HSTS IIS:10.0 La...|Redirecting to h...|
-|[http://www.acceptatie.neorah.nl](http://www.acceptatie.neorah.nl)| || | | | | |:white_check_mark: |||
-|[https://neorah.nl](https://neorah.nl)| |Microsoft-IIS/10...|:white_check_mark: |:white_check_mark: |:warning: |:white_check_mark: | |:white_check_mark: |HSTS IIS:10.0 La...|Redirecting to h...|
+|[http://acceptatie.neorah.nl](http://acceptatie.neorah.nl)| || | | | | | 3:white_check_mark: |||
+|[http://acceptatie.ltfu.neorah.nl](http://acceptatie.ltfu.neorah.nl)| || | | | | | 3:white_check_mark: |||
+|[https://host.neorah.nl](https://host.neorah.nl)| |Microsoft-HTTPAP...| | | | | | 3:white_check_mark: |HSTS Microsoft HTTPAPI:2.0|Not Found|
+|[https://ltfu.neorah.nl](https://ltfu.neorah.nl)| |Microsoft-IIS/10...|:warning: |:white_check_mark: | | 1:white_check_mark: | | 3:white_check_mark: |HSTS IIS:10.0 Laravel PHP:8.1.10 Windows Server|Redirecting to h...|
+|[https://www.neorah.nl](https://www.neorah.nl)| |Microsoft-IIS/10...|:white_check_mark: |:white_check_mark: |:warning: | 1:white_check_mark: | | 3:white_check_mark: |HSTS IIS:10.0 Laravel PHP:8.1.10 Windows Server|Redirecting to h...|
+|[http://www.acceptatie.neorah.nl](http://www.acceptatie.neorah.nl)| || | | | | | 3:white_check_mark: |||
+|[https://neorah.nl](https://neorah.nl)| |Microsoft-IIS/10...|:white_check_mark: |:white_check_mark: |:warning: | 1:white_check_mark: | | 3:white_check_mark: |HSTS IIS:10.0 Laravel PHP:8.1.10 Windows Server|Redirecting to h...|

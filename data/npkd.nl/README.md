@@ -9,5 +9,5 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://crl.npkd.nl](https://crl.npkd.nl)| |Apache| |:white_check_mark: | | | |:white_check_mark: |Apache HTTP Serv...|403 Forbidden|
-|[https://www.npkd.nl](https://www.npkd.nl)| |Apache| |:white_check_mark: |:warning: |:white_check_mark: | |:white_check_mark: |Apache HTTP Serv...|Public NPKD Webs...|
+|[https://crl.npkd.nl](https://crl.npkd.nl)| |Apache| |:white_check_mark: | | | | 3:white_check_mark: |Apache HTTP Server HSTS|403 Forbidden|
+|[https://www.npkd.nl](https://www.npkd.nl)| |Apache| |:white_check_mark: |:warning: | 1:white_check_mark: | | 3:white_check_mark: |Apache HTTP Server Bootstrap HSTS|Public NPKD Webs...|

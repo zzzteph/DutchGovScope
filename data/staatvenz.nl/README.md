@@ -9,8 +9,8 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://acceptatie.staatvenz.nl](https://acceptatie.staatvenz.nl)| |Apache| |:white_check_mark: | | | |:white_check_mark: |Apache HTTP Serv...|webserver|
-|[http://test.staatvenz.nl](http://test.staatvenz.nl)| || | | | | |:white_check_mark: |||
-|[https://www.staatvenz.nl](https://www.staatvenz.nl)| |Apache| |:white_check_mark: | |:white_check_mark: | |:white_check_mark: |Apache HTTP Serv...|Home | De Staat...|
-|[http://www.acceptatie.staatvenz.nl](http://www.acceptatie.staatvenz.nl)| || | | | | |:white_check_mark: |||
-|[https://staatvenz.nl](https://staatvenz.nl)| |Apache| |:white_check_mark: | |:white_check_mark: | |:white_check_mark: |Apache HTTP Serv...|301 Moved Perman...|
+|[https://acceptatie.staatvenz.nl](https://acceptatie.staatvenz.nl)| |Apache| |:white_check_mark: | | | | 3:white_check_mark: |Apache HTTP Server HSTS|webserver|
+|[http://test.staatvenz.nl](http://test.staatvenz.nl)| || | | | | | 3:white_check_mark: |||
+|[https://www.staatvenz.nl](https://www.staatvenz.nl)| |Apache| |:white_check_mark: | | 1:white_check_mark: | | 3:white_check_mark: |Apache HTTP Server Drupal HSTS PHP|Home | De Staat...|
+|[http://www.acceptatie.staatvenz.nl](http://www.acceptatie.staatvenz.nl)| || | | | | | 3:white_check_mark: |||
+|[https://staatvenz.nl](https://staatvenz.nl)| |Apache| |:white_check_mark: | | 1:white_check_mark: | | 3:white_check_mark: |Apache HTTP Server HSTS|301 Moved Perman...|

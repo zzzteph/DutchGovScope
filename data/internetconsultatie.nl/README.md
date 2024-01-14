@@ -9,7 +9,7 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://acceptatie.internetconsultatie.nl](https://acceptatie.internetconsultatie.nl)| |BigIP| | | | | |:white_check_mark: |F5 BigIP||
-|[https://cma.internetconsultatie.nl](https://cma.internetconsultatie.nl)| || |:white_check_mark: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|Object moved|
-|[https://www.internetconsultatie.nl](https://www.internetconsultatie.nl)| ||:white_check_mark: |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Microsoft A...|Overheid.nl | Co...|
-|[https://internetconsultatie.nl](https://internetconsultatie.nl)| ||:white_check_mark: |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Microsoft A...|Overheid.nl | Co...|
+|[https://acceptatie.internetconsultatie.nl](https://acceptatie.internetconsultatie.nl)| |BigIP| | | | | | 3:white_check_mark: |F5 BigIP||
+|[https://cma.internetconsultatie.nl](https://cma.internetconsultatie.nl)| || |:white_check_mark: | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |HSTS|Object moved|
+|[https://www.internetconsultatie.nl](https://www.internetconsultatie.nl)| ||:white_check_mark: |:white_check_mark: |:warning: | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |HSTS Microsoft ASP.NET|Overheid.nl | Co...|
+|[https://internetconsultatie.nl](https://internetconsultatie.nl)| ||:white_check_mark: |:white_check_mark: |:warning: | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |HSTS Microsoft ASP.NET|Overheid.nl | Co...|

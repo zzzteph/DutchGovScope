@@ -9,5 +9,5 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://www.akkoordverbeteringproductsamenstelling.nl](https://www.akkoordverbeteringproductsamenstelling.nl)| |Apache| |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache HTTP Serv...|Akkoord verbeter...|
-|[https://akkoordverbeteringproductsamenstelling.nl](https://akkoordverbeteringproductsamenstelling.nl)| |Apache| |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache HTTP Serv...|301 Moved Perman...|
+|[https://www.akkoordverbeteringproductsamenstelling.nl](https://www.akkoordverbeteringproductsamenstelling.nl)| |Apache| |:white_check_mark: | | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |Apache HTTP Server Drupal HSTS PHP|Akkoord verbeter...|
+|[https://akkoordverbeteringproductsamenstelling.nl](https://akkoordverbeteringproductsamenstelling.nl)| |Apache| |:white_check_mark: | | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |Apache HTTP Server HSTS|301 Moved Perman...|

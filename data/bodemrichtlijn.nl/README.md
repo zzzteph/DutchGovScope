@@ -9,15 +9,15 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://beheer.bodemrichtlijn.nl](https://beheer.bodemrichtlijn.nl)| |Microsoft-IIS/10...|:warning: | | | | |:white_check_mark: |Azure IIS:10.0 M...|Object moved|
-|[https://linkmanager.bodemrichtlijn.nl](https://linkmanager.bodemrichtlijn.nl)| |Microsoft-IIS/10...|:o: | | | | |:white_check_mark: |Azure IIS:10.0 M...|Object moved|
-|[https://vizier.bodemrichtlijn.nl](https://vizier.bodemrichtlijn.nl)| || | | | | |:white_check_mark: ||Microsoft Azure...|
-|[https://www.bodemrichtlijn.nl](https://www.bodemrichtlijn.nl)| |Microsoft-IIS/10...| | | | | |:white_check_mark: |IIS:10.0 Microso...|Home | Bodemrich...|
-|[https://ondergrondvizier.bodemrichtlijn.nl](https://ondergrondvizier.bodemrichtlijn.nl)| || | | | | |:white_check_mark: ||Microsoft Azure...|
-|[https://opwww.bodemrichtlijn.nl](https://opwww.bodemrichtlijn.nl)| || | | | | |:white_check_mark: ||Microsoft Azure...|
-|[https://previewsite.bodemrichtlijn.nl](https://previewsite.bodemrichtlijn.nl)| || | | | | |:white_check_mark: ||Microsoft Azure...|
-|[https://viawww.bodemrichtlijn.nl](https://viawww.bodemrichtlijn.nl)| || | | | | |:white_check_mark: ||Microsoft Azure...|
-|[https://bodemrichtlijn.nl](https://bodemrichtlijn.nl)| |Microsoft-IIS/10...| | | | | |:white_check_mark: |IIS:10.0 Microso...|Document Moved|
-|[https://development.bodemrichtlijn.nl](https://development.bodemrichtlijn.nl)| |Kestrel| |:white_check_mark: | | | |:white_check_mark: |HSTS Kestrel Mic...|RWS Bodemrichtli...|
-|[https://quest.bodemrichtlijn.nl](https://quest.bodemrichtlijn.nl)| |Kestrel| |:white_check_mark: | | | |:white_check_mark: |HSTS Kestrel Mic...|Knowmax Quest|
-|[https://linkmanager5.bodemrichtlijn.nl](https://linkmanager5.bodemrichtlijn.nl)| |Kestrel| |:white_check_mark: | | | |:white_check_mark: |HSTS Kestrel Mic...|Knowmax Link Man...|
+|[https://beheer.bodemrichtlijn.nl](https://beheer.bodemrichtlijn.nl)| |Microsoft-IIS/10...|:warning: | | | | | 3:white_check_mark: |Azure IIS:10.0 Microsoft ASP.NET:4.0.30319 Windows Server|Object moved|
+|[https://linkmanager.bodemrichtlijn.nl](https://linkmanager.bodemrichtlijn.nl)| |Microsoft-IIS/10...|:o: | | | | | 3:white_check_mark: |Azure IIS:10.0 Microsoft ASP.NET:4.0.30319 Windows Server|Object moved|
+|[https://vizier.bodemrichtlijn.nl](https://vizier.bodemrichtlijn.nl)| || | | | | | 3:white_check_mark: ||Microsoft Azure...|
+|[https://www.bodemrichtlijn.nl](https://www.bodemrichtlijn.nl)| |Microsoft-IIS/10...| | | | | | 3:white_check_mark: |IIS:10.0 Microsoft ASP.NET:4.0.30319 Windows Server|Home | Bodemrich...|
+|[https://ondergrondvizier.bodemrichtlijn.nl](https://ondergrondvizier.bodemrichtlijn.nl)| || | | | | | 3:white_check_mark: ||Microsoft Azure...|
+|[https://opwww.bodemrichtlijn.nl](https://opwww.bodemrichtlijn.nl)| || | | | | | 3:white_check_mark: ||Microsoft Azure...|
+|[https://previewsite.bodemrichtlijn.nl](https://previewsite.bodemrichtlijn.nl)| || | | | | | 3:white_check_mark: ||Microsoft Azure...|
+|[https://viawww.bodemrichtlijn.nl](https://viawww.bodemrichtlijn.nl)| || | | | | | 3:white_check_mark: ||Microsoft Azure...|
+|[https://bodemrichtlijn.nl](https://bodemrichtlijn.nl)| |Microsoft-IIS/10...| | | | | | 3:white_check_mark: |IIS:10.0 Microsoft ASP.NET Windows Server|Document Moved|
+|[https://development.bodemrichtlijn.nl](https://development.bodemrichtlijn.nl)| |Kestrel| |:white_check_mark: | | | | 3:white_check_mark: |HSTS Kestrel Microsoft ASP.NET|RWS Bodemrichtli...|
+|[https://quest.bodemrichtlijn.nl](https://quest.bodemrichtlijn.nl)| |Kestrel| |:white_check_mark: | | | | 3:white_check_mark: |HSTS Kestrel Microsoft ASP.NET|Knowmax Quest|
+|[https://linkmanager5.bodemrichtlijn.nl](https://linkmanager5.bodemrichtlijn.nl)| |Kestrel| |:white_check_mark: | | | | 3:white_check_mark: |HSTS Kestrel Microsoft ASP.NET|Knowmax Link Man...|

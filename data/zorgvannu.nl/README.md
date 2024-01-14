@@ -9,6 +9,6 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://elearning.zorgvannu.nl](https://elearning.zorgvannu.nl)| |nginx|:o: |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx|Zorg van Nu|
-|[https://www.zorgvannu.nl](https://www.zorgvannu.nl)| |Apache| |:white_check_mark: | |:white_check_mark: | |:white_check_mark: |Apache HTTP Serv...|Wegwijs in zorgt...|
-|[https://zorgvannu.nl](https://zorgvannu.nl)| |Apache| |:white_check_mark: | |:white_check_mark: | |:white_check_mark: |Apache HTTP Serv...|301 Moved Perman...|
+|[https://elearning.zorgvannu.nl](https://elearning.zorgvannu.nl)| |nginx|:o: |:white_check_mark: | | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |HSTS Nginx|Zorg van Nu|
+|[https://www.zorgvannu.nl](https://www.zorgvannu.nl)| |Apache| |:white_check_mark: | | 1:white_check_mark: | | 3:white_check_mark: |Apache HTTP Server Drupal:9 HSTS PHP|Wegwijs in zorgt...|
+|[https://zorgvannu.nl](https://zorgvannu.nl)| |Apache| |:white_check_mark: | | 1:white_check_mark: | | 3:white_check_mark: |Apache HTTP Server HSTS|301 Moved Perman...|

@@ -9,8 +9,8 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://api.dashboardgroningen.nl](https://api.dashboardgroningen.nl)| |nginx| |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx||
-|[https://www.dashboardgroningen.nl](https://www.dashboardgroningen.nl)| |nginx| |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx|Dashboard Gronin...|
-|[https://acc.dashboardgroningen.nl](https://acc.dashboardgroningen.nl)| |nginx| | | | | |:white_check_mark: |Basic HSTS Nginx|401 Authorizatio...|
-|[https://dashboardgroningen.nl](https://dashboardgroningen.nl)| |nginx| |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx|Dashboard Gronin...|
-|[https://api-acc.dashboardgroningen.nl](https://api-acc.dashboardgroningen.nl)| |nginx| | | | | |:white_check_mark: |Basic HSTS Nginx|401 Authorizatio...|
+|[https://api.dashboardgroningen.nl](https://api.dashboardgroningen.nl)| |nginx| |:white_check_mark: |:warning: | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |HSTS Nginx||
+|[https://www.dashboardgroningen.nl](https://www.dashboardgroningen.nl)| |nginx| |:white_check_mark: |:warning: | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |HSTS Nginx|Dashboard Gronin...|
+|[https://acc.dashboardgroningen.nl](https://acc.dashboardgroningen.nl)| |nginx| | | | | | 3:white_check_mark: |Basic HSTS Nginx|401 Authorizatio...|
+|[https://dashboardgroningen.nl](https://dashboardgroningen.nl)| |nginx| |:white_check_mark: |:warning: | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |HSTS Nginx|Dashboard Gronin...|
+|[https://api-acc.dashboardgroningen.nl](https://api-acc.dashboardgroningen.nl)| |nginx| | | | | | 3:white_check_mark: |Basic HSTS Nginx|401 Authorizatio...|

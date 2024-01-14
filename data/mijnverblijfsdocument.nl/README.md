@@ -9,5 +9,5 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://www.mijnverblijfsdocument.nl](https://www.mijnverblijfsdocument.nl)| || |:white_check_mark: | | | |:white_check_mark: |Bloomreach Boots...|My Residence Doc...|
-|[https://mijnverblijfsdocument.nl](https://mijnverblijfsdocument.nl)| || |:white_check_mark: | | | |:white_check_mark: |Bloomreach Boots...|My Residence Doc...|
+|[https://www.mijnverblijfsdocument.nl](https://www.mijnverblijfsdocument.nl)| || |:white_check_mark: | | | | 3:white_check_mark: |Bloomreach Bootstrap HSTS|My Residence Doc...|
+|[https://mijnverblijfsdocument.nl](https://mijnverblijfsdocument.nl)| || |:white_check_mark: | | | | 3:white_check_mark: |Bloomreach Bootstrap HSTS|My Residence Doc...|

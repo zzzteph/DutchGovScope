@@ -9,5 +9,5 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://beoordelingarbeidsrelatie.nl](https://beoordelingarbeidsrelatie.nl)| || |:white_check_mark: |:white_check_mark: | |:white_check_mark: |Azure Azure Fron...|Beoordeling arbe...|
-|[https://www.beoordelingarbeidsrelatie.nl](https://www.beoordelingarbeidsrelatie.nl)| || |:white_check_mark: |:white_check_mark: | |:white_check_mark: |Azure Azure Fron...||
+|[https://beoordelingarbeidsrelatie.nl](https://beoordelingarbeidsrelatie.nl)| || |:white_check_mark: | 1:white_check_mark: | | 3:white_check_mark: |Azure Azure Front Door HSTS|Beoordeling arbe...|
+|[https://www.beoordelingarbeidsrelatie.nl](https://www.beoordelingarbeidsrelatie.nl)| || |:white_check_mark: | 1:white_check_mark: | | 3:white_check_mark: |Azure Azure Front Door||

@@ -9,6 +9,6 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://acc.codexalimentarius.nl](https://acc.codexalimentarius.nl)| |nginx| | | | | |:white_check_mark: |Basic Nginx|401 Authorizatio...|
-|[https://www.codexalimentarius.nl](https://www.codexalimentarius.nl)| |nginx| |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Drupal HSTS Ngin...|Home | codexalim...|
-|[https://codexalimentarius.nl](https://codexalimentarius.nl)| |nginx| |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx|301 Moved Perman...|
+|[https://acc.codexalimentarius.nl](https://acc.codexalimentarius.nl)| |nginx| | | | | | 3:white_check_mark: |Basic Nginx|401 Authorizatio...|
+|[https://www.codexalimentarius.nl](https://www.codexalimentarius.nl)| |nginx| |:white_check_mark: |:warning: | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |Drupal HSTS Nginx PHP|Home | codexalim...|
+|[https://codexalimentarius.nl](https://codexalimentarius.nl)| |nginx| |:white_check_mark: |:warning: | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |HSTS Nginx|301 Moved Perman...|

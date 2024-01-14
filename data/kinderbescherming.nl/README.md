@@ -9,10 +9,10 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://connect.kinderbescherming.nl](https://connect.kinderbescherming.nl)| || |:white_check_mark: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS||
-|[https://connect-acpt.kinderbescherming.nl](https://connect-acpt.kinderbescherming.nl)| || |:white_check_mark: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS||
-|[https://feeds.kinderbescherming.nl](https://feeds.kinderbescherming.nl)| |nginx| |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx||
-|[https://magazines.kinderbescherming.nl](https://magazines.kinderbescherming.nl)| |nginx| |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Bloomreach HSTS...|Kiosk | Magazine...|
-|[https://opendata.kinderbescherming.nl](https://opendata.kinderbescherming.nl)| |nginx| |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx||
-|[https://www.kinderbescherming.nl](https://www.kinderbescherming.nl)| |nginx| |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Bloomreach HSTS...|Home | Raad voor...|
-|[https://kinderbescherming.nl](https://kinderbescherming.nl)| |nginx| |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx|301 Moved Perman...|
+|[https://connect.kinderbescherming.nl](https://connect.kinderbescherming.nl)| || |:white_check_mark: | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |HSTS||
+|[https://connect-acpt.kinderbescherming.nl](https://connect-acpt.kinderbescherming.nl)| || |:white_check_mark: | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |HSTS||
+|[https://feeds.kinderbescherming.nl](https://feeds.kinderbescherming.nl)| |nginx| |:white_check_mark: | | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |HSTS Nginx||
+|[https://magazines.kinderbescherming.nl](https://magazines.kinderbescherming.nl)| |nginx| |:white_check_mark: |:warning: | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |Bloomreach HSTS Nginx|Kiosk | Magazine...|
+|[https://opendata.kinderbescherming.nl](https://opendata.kinderbescherming.nl)| |nginx| |:white_check_mark: | | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |HSTS Nginx||
+|[https://www.kinderbescherming.nl](https://www.kinderbescherming.nl)| |nginx| |:white_check_mark: |:warning: | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |Bloomreach HSTS Nginx|Home | Raad voor...|
+|[https://kinderbescherming.nl](https://kinderbescherming.nl)| |nginx| |:white_check_mark: |:warning: | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |HSTS Nginx|301 Moved Perman...|

@@ -9,5 +9,5 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://www.aanpakstikstof.nl](https://www.aanpakstikstof.nl)| $${\color{green}A+}$$ || |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS||
-|[https://aanpakstikstof.nl](https://aanpakstikstof.nl)| $${\color{green}A+}$$ || |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS||
+|[https://www.aanpakstikstof.nl](https://www.aanpakstikstof.nl)| $${\color{green}A+}$$ || |:white_check_mark: |:warning: | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |HSTS||
+|[https://aanpakstikstof.nl](https://aanpakstikstof.nl)| $${\color{green}A+}$$ || |:white_check_mark: |:warning: | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |HSTS||

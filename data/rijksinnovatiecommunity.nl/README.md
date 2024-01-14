@@ -9,8 +9,8 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://feeds.rijksinnovatiecommunity.nl](https://feeds.rijksinnovatiecommunity.nl)| |nginx| |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx||
-|[https://online.rijksinnovatiecommunity.nl](https://online.rijksinnovatiecommunity.nl)| |Apache| |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache HTTP Serv...||
-|[https://opendata.rijksinnovatiecommunity.nl](https://opendata.rijksinnovatiecommunity.nl)| |nginx| |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx||
-|[https://www.rijksinnovatiecommunity.nl](https://www.rijksinnovatiecommunity.nl)| |nginx| |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Bloomreach HSTS...|Home | Rijks Inn...|
-|[https://rijksinnovatiecommunity.nl](https://rijksinnovatiecommunity.nl)| |nginx| |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx|301 Moved Perman...|
+|[https://feeds.rijksinnovatiecommunity.nl](https://feeds.rijksinnovatiecommunity.nl)| |nginx| |:white_check_mark: | | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |HSTS Nginx||
+|[https://online.rijksinnovatiecommunity.nl](https://online.rijksinnovatiecommunity.nl)| |Apache| |:white_check_mark: |:warning: | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |Apache HTTP Server HSTS||
+|[https://opendata.rijksinnovatiecommunity.nl](https://opendata.rijksinnovatiecommunity.nl)| |nginx| |:white_check_mark: | | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |HSTS Nginx||
+|[https://www.rijksinnovatiecommunity.nl](https://www.rijksinnovatiecommunity.nl)| |nginx| |:white_check_mark: |:warning: | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |Bloomreach HSTS Nginx|Home | Rijks Inn...|
+|[https://rijksinnovatiecommunity.nl](https://rijksinnovatiecommunity.nl)| |nginx| |:white_check_mark: |:warning: | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |HSTS Nginx|301 Moved Perman...|

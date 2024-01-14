@@ -9,5 +9,5 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://biotechnologie.nl](https://biotechnologie.nl)| |cloudflare| |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Cloudflare HSTS...|301 Moved Perman...|
-|[https://www.biotechnologie.nl](https://www.biotechnologie.nl)| |cloudflare| |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Cloudflare Googl...|Home - Biotechno...|
+|[https://biotechnologie.nl](https://biotechnologie.nl)| |cloudflare| |:white_check_mark: |:warning: | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |Cloudflare HSTS HTTP/3|301 Moved Perman...|
+|[https://www.biotechnologie.nl](https://www.biotechnologie.nl)| |cloudflare| |:white_check_mark: |:warning: | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |Cloudflare Google Tag Manager HSTS HTTP/3 MySQL PHP WordPress Yoast SEO:21.8|Home - Biotechno...|

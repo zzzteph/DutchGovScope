@@ -9,6 +9,6 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://magazines.agendastad.nl](https://magazines.agendastad.nl)| |nginx/1.20.1| | | |:white_check_mark: |:white_check_mark: |:white_check_mark: |Nginx:1.20.1 PHP||
-|[https://www.agendastad.nl](https://www.agendastad.nl)| |cloudflare| |:white_check_mark: | | | |:white_check_mark: |Cloudflare HSTS...||
-|[https://agendastad.nl](https://agendastad.nl)| |cloudflare| |:white_check_mark: | | | |:white_check_mark: |Cloudflare HSTS...|Agenda Stad - ho...|
+|[https://magazines.agendastad.nl](https://magazines.agendastad.nl)| |nginx/1.20.1| | | | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |Nginx:1.20.1 PHP||
+|[https://www.agendastad.nl](https://www.agendastad.nl)| |cloudflare| |:white_check_mark: | | | | 3:white_check_mark: |Cloudflare HSTS HTTP/3||
+|[https://agendastad.nl](https://agendastad.nl)| |cloudflare| |:white_check_mark: | | | | 3:white_check_mark: |Cloudflare HSTS HTTP/3 MySQL PHP WP Rocket WordPress:6.4.2 Yoast SEO:21.7|Agenda Stad - ho...|

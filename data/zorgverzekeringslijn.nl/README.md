@@ -9,10 +9,10 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://pv.zorgverzekeringslijn.nl](https://pv.zorgverzekeringslijn.nl)| |nginx| |:white_check_mark: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx|You received ema...|
-|[https://test.zorgverzekeringslijn.nl](https://test.zorgverzekeringslijn.nl)| |Apache| | | | | |:white_check_mark: |Apache HTTP Serv...|401 Unauthorized|
-|[https://test.trainingen.zorgverzekeringslijn.nl](https://test.trainingen.zorgverzekeringslijn.nl)| |nginx| |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Nginx|Redirecting to h...|
-|[https://trainingen.zorgverzekeringslijn.nl](https://trainingen.zorgverzekeringslijn.nl)| |nginx| |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Nginx|Redirecting to h...|
-|[https://wiki.zorgverzekeringslijn.nl](https://wiki.zorgverzekeringslijn.nl)| |nginx|:white_check_mark: | | | | |:white_check_mark: |Nginx|Test Page for th...|
-|[https://www.zorgverzekeringslijn.nl](https://www.zorgverzekeringslijn.nl)| |Apache| |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache HTTP Serv...|Zorgverzekerings...|
-|[https://zorgverzekeringslijn.nl](https://zorgverzekeringslijn.nl)| |Apache| |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache HTTP Serv...|301 Moved Perman...|
+|[https://pv.zorgverzekeringslijn.nl](https://pv.zorgverzekeringslijn.nl)| |nginx| |:white_check_mark: | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |HSTS Nginx|You received ema...|
+|[https://test.zorgverzekeringslijn.nl](https://test.zorgverzekeringslijn.nl)| |Apache| | | | | | 3:white_check_mark: |Apache HTTP Server Basic|401 Unauthorized|
+|[https://test.trainingen.zorgverzekeringslijn.nl](https://test.trainingen.zorgverzekeringslijn.nl)| |nginx| |:white_check_mark: |:warning: | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |Nginx|Redirecting to h...|
+|[https://trainingen.zorgverzekeringslijn.nl](https://trainingen.zorgverzekeringslijn.nl)| |nginx| |:white_check_mark: |:warning: | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |Nginx|Redirecting to h...|
+|[https://wiki.zorgverzekeringslijn.nl](https://wiki.zorgverzekeringslijn.nl)| |nginx|:white_check_mark: | | | | | 3:white_check_mark: |Nginx|Test Page for th...|
+|[https://www.zorgverzekeringslijn.nl](https://www.zorgverzekeringslijn.nl)| |Apache| |:white_check_mark: |:warning: | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |Apache HTTP Server Google Tag Manager HSTS MySQL PHP WordPress:6.4.2 Yoast SEO:21.6|Zorgverzekerings...|
+|[https://zorgverzekeringslijn.nl](https://zorgverzekeringslijn.nl)| |Apache| |:white_check_mark: |:warning: | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |Apache HTTP Server HSTS|301 Moved Perman...|

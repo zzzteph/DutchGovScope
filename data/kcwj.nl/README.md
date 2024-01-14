@@ -9,5 +9,5 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://www.kcwj.nl](https://www.kcwj.nl)| ||:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|302 Found|
-|[https://kcwj.nl](https://kcwj.nl)| ||:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|302 Found|
+|[https://www.kcwj.nl](https://www.kcwj.nl)| ||:warning: |:white_check_mark: | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |HSTS|302 Found|
+|[https://kcwj.nl](https://kcwj.nl)| ||:warning: |:white_check_mark: | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |HSTS|302 Found|

@@ -9,10 +9,10 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://acc.luchtvaartmeteo.nl](https://acc.luchtvaartmeteo.nl)| |awselb/2.0| | | | | |:white_check_mark: |Amazon ELB Amazo...|403 Forbidden|
-|[https://nieuw.luchtvaartmeteo.nl](https://nieuw.luchtvaartmeteo.nl)| |Apache|:o: |:white_check_mark: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Amazon ALB Amazo...|KNMI Extranet|
-|[https://nieuw.acc.luchtvaartmeteo.nl](https://nieuw.acc.luchtvaartmeteo.nl)| |awselb/2.0| | | | | |:white_check_mark: |Amazon ELB Amazo...|403 Forbidden|
-|[https://www.luchtvaartmeteo.nl](https://www.luchtvaartmeteo.nl)| |Apache|:o: |:white_check_mark: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Amazon ALB Amazo...|KNMI Extranet|
-|[https://www.acc.luchtvaartmeteo.nl](https://www.acc.luchtvaartmeteo.nl)| |awselb/2.0| | | | | |:white_check_mark: |Amazon ELB Amazo...|403 Forbidden|
-|[https://luchtvaartmeteo.nl](https://luchtvaartmeteo.nl)| |Apache|:o: |:white_check_mark: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Amazon ALB Amazo...|KNMI Extranet|
-|[https://new.luchtvaartmeteo.nl](https://new.luchtvaartmeteo.nl)| |AmazonS3| | | | | |:white_check_mark: |Amazon CloudFron...|KNMI Extranetten|
+|[https://acc.luchtvaartmeteo.nl](https://acc.luchtvaartmeteo.nl)| |awselb/2.0| | | | | | 3:white_check_mark: |Amazon ELB Amazon Web Services|403 Forbidden|
+|[https://nieuw.luchtvaartmeteo.nl](https://nieuw.luchtvaartmeteo.nl)| |Apache|:o: |:white_check_mark: | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |Amazon ALB Amazon Web Services Apache HTTP Server HSTS ZURB Foundation|KNMI Extranet|
+|[https://nieuw.acc.luchtvaartmeteo.nl](https://nieuw.acc.luchtvaartmeteo.nl)| |awselb/2.0| | | | | | 3:white_check_mark: |Amazon ELB Amazon Web Services|403 Forbidden|
+|[https://www.luchtvaartmeteo.nl](https://www.luchtvaartmeteo.nl)| |Apache|:o: |:white_check_mark: | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |Amazon ALB Amazon Web Services Apache HTTP Server HSTS ZURB Foundation|KNMI Extranet|
+|[https://www.acc.luchtvaartmeteo.nl](https://www.acc.luchtvaartmeteo.nl)| |awselb/2.0| | | | | | 3:white_check_mark: |Amazon ELB Amazon Web Services|403 Forbidden|
+|[https://luchtvaartmeteo.nl](https://luchtvaartmeteo.nl)| |Apache|:o: |:white_check_mark: | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |Amazon ALB Amazon Web Services Apache HTTP Server HSTS ZURB Foundation|KNMI Extranet|
+|[https://new.luchtvaartmeteo.nl](https://new.luchtvaartmeteo.nl)| |AmazonS3| | | | | | 3:white_check_mark: |Amazon CloudFront Amazon S3 Amazon Web Services|KNMI Extranetten|

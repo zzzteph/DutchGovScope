@@ -9,11 +9,11 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://nieuwsbrief.examenblad.nl](https://nieuwsbrief.examenblad.nl)| || | | | | |:white_check_mark: ||301 Moved Perman...|
-|[https://piwik.examenblad.nl](https://piwik.examenblad.nl)| $${\color{green}A+}$$ |nginx| |:white_check_mark: | | | |:white_check_mark: |HSTS Nginx|403 Forbidden|
-|[https://piwik2.examenblad.nl](https://piwik2.examenblad.nl)| $${\color{green}A+}$$ |nginx| |:white_check_mark: | | | |:white_check_mark: |HSTS Nginx|403 Forbidden|
-|[https://static.examenblad.nl](https://static.examenblad.nl)| $${\color{green}A+}$$ |nginx| |:white_check_mark: | | | |:white_check_mark: |HSTS Nginx|404 Not Found|
-|[https://www.examenblad.nl](https://www.examenblad.nl)| $${\color{green}A+}$$ || |:white_check_mark: |:white_check_mark: | |:white_check_mark: |Drupal:10 HSTS P...|Examenblad.nl|
-|[https://www.nieuwsbrief.examenblad.nl](https://www.nieuwsbrief.examenblad.nl)| || | | | | |:white_check_mark: ||301 Moved Perman...|
-|[https://examenblad.nl](https://examenblad.nl)| $${\color{green}A}$$ || |:white_check_mark: |:white_check_mark: | |:white_check_mark: ||308 Permanent Re...|
-|[https://mijn.examenblad.nl](https://mijn.examenblad.nl)| $${\color{green}A+}$$ || |:white_check_mark: | |:white_check_mark: | |:white_check_mark: |Drupal:10 HSTS P...|Redirecting to h...|
+|[https://nieuwsbrief.examenblad.nl](https://nieuwsbrief.examenblad.nl)| || | | | | | 3:white_check_mark: ||301 Moved Perman...|
+|[https://piwik.examenblad.nl](https://piwik.examenblad.nl)| $${\color{green}A+}$$ |nginx| |:white_check_mark: | | | | 3:white_check_mark: |HSTS Nginx|403 Forbidden|
+|[https://piwik2.examenblad.nl](https://piwik2.examenblad.nl)| $${\color{green}A+}$$ |nginx| |:white_check_mark: | | | | 3:white_check_mark: |HSTS Nginx|403 Forbidden|
+|[https://static.examenblad.nl](https://static.examenblad.nl)| $${\color{green}A+}$$ |nginx| |:white_check_mark: | | | | 3:white_check_mark: |HSTS Nginx|404 Not Found|
+|[https://www.examenblad.nl](https://www.examenblad.nl)| $${\color{green}A+}$$ || |:white_check_mark: | 1:white_check_mark: | | 3:white_check_mark: |Drupal:10 HSTS PHP|Examenblad.nl|
+|[https://www.nieuwsbrief.examenblad.nl](https://www.nieuwsbrief.examenblad.nl)| || | | | | | 3:white_check_mark: ||301 Moved Perman...|
+|[https://examenblad.nl](https://examenblad.nl)| $${\color{green}A}$$ || |:white_check_mark: | 1:white_check_mark: | | 3:white_check_mark: ||308 Permanent Re...|
+|[https://mijn.examenblad.nl](https://mijn.examenblad.nl)| $${\color{green}A+}$$ || |:white_check_mark: | | 1:white_check_mark: | | 3:white_check_mark: |Drupal:10 HSTS PHP|Redirecting to h...|

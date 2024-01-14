@@ -9,6 +9,6 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://samenbouwenaanbereikbaarheid.nl](https://samenbouwenaanbereikbaarheid.nl)| || |:white_check_mark: | | | |:white_check_mark: |HSTS||
-|[https://www.samenbouwenaanbereikbaarheid.nl](https://www.samenbouwenaanbereikbaarheid.nl)| |nginx| |:white_check_mark: | | | |:white_check_mark: |Glyphicons HSTS...|Home :: Samen Bo...|
-|[https://staging.samenbouwenaanbereikbaarheid.nl](https://staging.samenbouwenaanbereikbaarheid.nl)| || | | | | |:white_check_mark: |||
+|[https://samenbouwenaanbereikbaarheid.nl](https://samenbouwenaanbereikbaarheid.nl)| || |:white_check_mark: | | | | 3:white_check_mark: |HSTS||
+|[https://www.samenbouwenaanbereikbaarheid.nl](https://www.samenbouwenaanbereikbaarheid.nl)| |nginx| |:white_check_mark: | | | | 3:white_check_mark: |Glyphicons HSTS Nginx|Home :: Samen Bo...|
+|[https://staging.samenbouwenaanbereikbaarheid.nl](https://staging.samenbouwenaanbereikbaarheid.nl)| || | | | | | 3:white_check_mark: |||

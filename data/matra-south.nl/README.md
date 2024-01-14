@@ -9,5 +9,5 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://www.matra-south.nl](https://www.matra-south.nl)| |Apache/2|:o: | | | | |:white_check_mark: |Apache HTTP Serv...|Redirecting to h...|
-|[https://matra-south.nl](https://matra-south.nl)| |Apache/2|:o: | | | | |:white_check_mark: |Apache HTTP Serv...|Redirecting to h...|
+|[https://www.matra-south.nl](https://www.matra-south.nl)| |Apache/2|:o: | | | | | 3:white_check_mark: |Apache HTTP Server:2 PHP:7.4.33|Redirecting to h...|
+|[https://matra-south.nl](https://matra-south.nl)| |Apache/2|:o: | | | | | 3:white_check_mark: |Apache HTTP Server:2 PHP:7.4.33|Redirecting to h...|

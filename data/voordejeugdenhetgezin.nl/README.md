@@ -9,7 +9,7 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://opendata.voordejeugdenhetgezin.nl](https://opendata.voordejeugdenhetgezin.nl)| |nginx| |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx||
-|[https://www.voordejeugdenhetgezin.nl](https://www.voordejeugdenhetgezin.nl)| |nginx| |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Bloomreach HSTS...|Home | voor Jeug...|
-|[https://feeds.voordejeugdenhetgezin.nl](https://feeds.voordejeugdenhetgezin.nl)| |nginx| |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx||
-|[https://voordejeugdenhetgezin.nl](https://voordejeugdenhetgezin.nl)| |nginx| |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx|301 Moved Perman...|
+|[https://opendata.voordejeugdenhetgezin.nl](https://opendata.voordejeugdenhetgezin.nl)| |nginx| |:white_check_mark: | | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |HSTS Nginx||
+|[https://www.voordejeugdenhetgezin.nl](https://www.voordejeugdenhetgezin.nl)| |nginx| |:white_check_mark: |:warning: | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |Bloomreach HSTS Nginx|Home | voor Jeug...|
+|[https://feeds.voordejeugdenhetgezin.nl](https://feeds.voordejeugdenhetgezin.nl)| |nginx| |:white_check_mark: | | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |HSTS Nginx||
+|[https://voordejeugdenhetgezin.nl](https://voordejeugdenhetgezin.nl)| |nginx| |:white_check_mark: |:warning: | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |HSTS Nginx|301 Moved Perman...|

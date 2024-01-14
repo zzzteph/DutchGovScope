@@ -9,10 +9,10 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://www.vzinfo.nl](https://www.vzinfo.nl)| |Apache| |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache HTTP Serv...|VZinfo | Volksge...|
-|[https://vzinfo.nl](https://vzinfo.nl)| |Apache| |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache HTTP Serv...|301 Moved Perman...|
-|[https://buurtatlas.vzinfo.nl](https://buurtatlas.vzinfo.nl)| ||:white_check_mark: |:white_check_mark: | | | |:white_check_mark: |Bootstrap:4.6.0...|Home | Buurtatla...|
-|[https://sterftedashboard.vzinfo.nl](https://sterftedashboard.vzinfo.nl)| ||:white_check_mark: |:white_check_mark: | | | |:white_check_mark: |Bootstrap:4.6.0...||
-|[http://nzrdashboard.vzinfo.nl](http://nzrdashboard.vzinfo.nl)| || | | | | |:white_check_mark: |||
-|[http://sterftedashboard-regionaal.vzinfo.nl](http://sterftedashboard-regionaal.vzinfo.nl)| || | | | | |:white_check_mark: |||
-|[https://mondgezondheidsdashboard.vzinfo.nl](https://mondgezondheidsdashboard.vzinfo.nl)| ||:white_check_mark: |:white_check_mark: | | | |:white_check_mark: |Bootstrap:5.2.2...||
+|[https://www.vzinfo.nl](https://www.vzinfo.nl)| |Apache| |:white_check_mark: | | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |Apache HTTP Server Drupal HSTS PHP|VZinfo | Volksge...|
+|[https://vzinfo.nl](https://vzinfo.nl)| |Apache| |:white_check_mark: | | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |Apache HTTP Server HSTS|301 Moved Perman...|
+|[https://buurtatlas.vzinfo.nl](https://buurtatlas.vzinfo.nl)| ||:white_check_mark: |:white_check_mark: | | | | 3:white_check_mark: |Bootstrap:4.6.0 HSTS React|Home | Buurtatla...|
+|[https://sterftedashboard.vzinfo.nl](https://sterftedashboard.vzinfo.nl)| ||:white_check_mark: |:white_check_mark: | | | | 3:white_check_mark: |Bootstrap:4.6.0 HSTS||
+|[http://nzrdashboard.vzinfo.nl](http://nzrdashboard.vzinfo.nl)| || | | | | | 3:white_check_mark: |||
+|[http://sterftedashboard-regionaal.vzinfo.nl](http://sterftedashboard-regionaal.vzinfo.nl)| || | | | | | 3:white_check_mark: |||
+|[https://mondgezondheidsdashboard.vzinfo.nl](https://mondgezondheidsdashboard.vzinfo.nl)| ||:white_check_mark: |:white_check_mark: | | | | 3:white_check_mark: |Bootstrap:5.2.2 HSTS||

@@ -9,5 +9,5 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://www.kik-starter.nl](https://www.kik-starter.nl)| || | | | | |:white_check_mark: |HSTS||
-|[https://kik-starter.nl](https://kik-starter.nl)| || | | | | |:white_check_mark: |HSTS||
+|[https://www.kik-starter.nl](https://www.kik-starter.nl)| || | | | | | 3:white_check_mark: |HSTS||
+|[https://kik-starter.nl](https://kik-starter.nl)| || | | | | | 3:white_check_mark: |HSTS||

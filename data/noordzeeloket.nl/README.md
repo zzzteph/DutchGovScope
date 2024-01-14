@@ -9,6 +9,6 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://windmolensopzee.noordzeeloket.nl](https://windmolensopzee.noordzeeloket.nl)| || | | | | |:white_check_mark: ||Microsoft Azure...|
-|[https://www.noordzeeloket.nl](https://www.noordzeeloket.nl)| || |:white_check_mark: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Microsoft A...|Home - Noordzeel...|
-|[https://noordzeeloket.nl](https://noordzeeloket.nl)| || |:white_check_mark: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Microsoft A...|Object moved|
+|[https://windmolensopzee.noordzeeloket.nl](https://windmolensopzee.noordzeeloket.nl)| || | | | | | 3:white_check_mark: ||Microsoft Azure...|
+|[https://www.noordzeeloket.nl](https://www.noordzeeloket.nl)| || |:white_check_mark: | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |HSTS Microsoft ASP.NET:-|Home - Noordzeel...|
+|[https://noordzeeloket.nl](https://noordzeeloket.nl)| || |:white_check_mark: | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |HSTS Microsoft ASP.NET:-|Object moved|

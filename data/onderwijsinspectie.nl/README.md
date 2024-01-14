@@ -9,17 +9,17 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://contactformulier.onderwijsinspectie.nl](https://contactformulier.onderwijsinspectie.nl)| || |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|Contactformulier|
-|[https://contactformulier.acc.onderwijsinspectie.nl](https://contactformulier.acc.onderwijsinspectie.nl)| || | | | | |:white_check_mark: |HSTS|Contactformulier|
-|[https://english.onderwijsinspectie.nl](https://english.onderwijsinspectie.nl)| |nginx| |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Bloomreach HSTS...|Home | Inspector...|
-|[https://feeds.onderwijsinspectie.nl](https://feeds.onderwijsinspectie.nl)| |nginx| |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx||
-|[https://feeds.english.onderwijsinspectie.nl](https://feeds.english.onderwijsinspectie.nl)| |nginx| |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx||
-|[https://magazines.onderwijsinspectie.nl](https://magazines.onderwijsinspectie.nl)| |nginx| |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx||
-|[https://opendata.onderwijsinspectie.nl](https://opendata.onderwijsinspectie.nl)| |nginx| |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx||
-|[https://opendata.english.onderwijsinspectie.nl](https://opendata.english.onderwijsinspectie.nl)| |nginx| |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx||
-|[https://toezichtresultaten.onderwijsinspectie.nl](https://toezichtresultaten.onderwijsinspectie.nl)| |Apache| | | | | |:white_check_mark: |Apache HTTP Serv...|Toezichtresultat...|
-|[https://toezichtresultaten.acc.onderwijsinspectie.nl](https://toezichtresultaten.acc.onderwijsinspectie.nl)| |Apache| | | | | |:white_check_mark: |Apache HTTP Serv...|Toezichtresultat...|
-|[https://www.onderwijsinspectie.nl](https://www.onderwijsinspectie.nl)| |nginx| |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Bloomreach HSTS...|Inspectie van he...|
-|[https://www.zoekscholen.onderwijsinspectie.nl](https://www.zoekscholen.onderwijsinspectie.nl)| |Apache| | | | | |:white_check_mark: |Apache HTTP Serv...|301 Moved Perman...|
-|[https://zoekscholen.onderwijsinspectie.nl](https://zoekscholen.onderwijsinspectie.nl)| |Apache| | | | | |:white_check_mark: |Apache HTTP Serv...|301 Moved Perman...|
-|[https://onderwijsinspectie.nl](https://onderwijsinspectie.nl)| |nginx| |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx|301 Moved Perman...|
+|[https://contactformulier.onderwijsinspectie.nl](https://contactformulier.onderwijsinspectie.nl)| || |:white_check_mark: | | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |HSTS|Contactformulier|
+|[https://contactformulier.acc.onderwijsinspectie.nl](https://contactformulier.acc.onderwijsinspectie.nl)| || | | | | | 3:white_check_mark: |HSTS|Contactformulier|
+|[https://english.onderwijsinspectie.nl](https://english.onderwijsinspectie.nl)| |nginx| |:white_check_mark: |:warning: | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |Bloomreach HSTS Nginx|Home | Inspector...|
+|[https://feeds.onderwijsinspectie.nl](https://feeds.onderwijsinspectie.nl)| |nginx| |:white_check_mark: | | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |HSTS Nginx||
+|[https://feeds.english.onderwijsinspectie.nl](https://feeds.english.onderwijsinspectie.nl)| |nginx| |:white_check_mark: | | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |HSTS Nginx||
+|[https://magazines.onderwijsinspectie.nl](https://magazines.onderwijsinspectie.nl)| |nginx| |:white_check_mark: |:warning: | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |HSTS Nginx||
+|[https://opendata.onderwijsinspectie.nl](https://opendata.onderwijsinspectie.nl)| |nginx| |:white_check_mark: | | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |HSTS Nginx||
+|[https://opendata.english.onderwijsinspectie.nl](https://opendata.english.onderwijsinspectie.nl)| |nginx| |:white_check_mark: | | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |HSTS Nginx||
+|[https://toezichtresultaten.onderwijsinspectie.nl](https://toezichtresultaten.onderwijsinspectie.nl)| |Apache| | | | | | 3:white_check_mark: |Apache HTTP Server HSTS|Toezichtresultat...|
+|[https://toezichtresultaten.acc.onderwijsinspectie.nl](https://toezichtresultaten.acc.onderwijsinspectie.nl)| |Apache| | | | | | 3:white_check_mark: |Apache HTTP Server HSTS|Toezichtresultat...|
+|[https://www.onderwijsinspectie.nl](https://www.onderwijsinspectie.nl)| |nginx| |:white_check_mark: |:warning: | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |Bloomreach HSTS Nginx|Inspectie van he...|
+|[https://www.zoekscholen.onderwijsinspectie.nl](https://www.zoekscholen.onderwijsinspectie.nl)| |Apache| | | | | | 3:white_check_mark: |Apache HTTP Server|301 Moved Perman...|
+|[https://zoekscholen.onderwijsinspectie.nl](https://zoekscholen.onderwijsinspectie.nl)| |Apache| | | | | | 3:white_check_mark: |Apache HTTP Server|301 Moved Perman...|
+|[https://onderwijsinspectie.nl](https://onderwijsinspectie.nl)| |nginx| |:white_check_mark: |:warning: | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |HSTS Nginx|301 Moved Perman...|

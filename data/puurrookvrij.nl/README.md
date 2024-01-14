@@ -9,9 +9,9 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://feeds.puurrookvrij.nl](https://feeds.puurrookvrij.nl)| |nginx| |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx||
-|[https://opendata.puurrookvrij.nl](https://opendata.puurrookvrij.nl)| |nginx| |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx||
-|[https://postergenerator.puurrookvrij.nl](https://postergenerator.puurrookvrij.nl)| |nginx| |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx|Maak uw eigen PU...|
-|[https://www.puurrookvrij.nl](https://www.puurrookvrij.nl)| |nginx| |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Bloomreach HSTS...|Puur Rookvrij –...|
-|[https://server01.puurrookvrij.nl](https://server01.puurrookvrij.nl)| |nginx| | | | | |:white_check_mark: |Nginx||
-|[https://puurrookvrij.nl](https://puurrookvrij.nl)| |nginx| |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx|301 Moved Perman...|
+|[https://feeds.puurrookvrij.nl](https://feeds.puurrookvrij.nl)| |nginx| |:white_check_mark: | | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |HSTS Nginx||
+|[https://opendata.puurrookvrij.nl](https://opendata.puurrookvrij.nl)| |nginx| |:white_check_mark: | | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |HSTS Nginx||
+|[https://postergenerator.puurrookvrij.nl](https://postergenerator.puurrookvrij.nl)| |nginx| |:white_check_mark: | | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |HSTS Nginx|Maak uw eigen PU...|
+|[https://www.puurrookvrij.nl](https://www.puurrookvrij.nl)| |nginx| |:white_check_mark: |:warning: | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |Bloomreach HSTS Nginx|Puur Rookvrij –...|
+|[https://server01.puurrookvrij.nl](https://server01.puurrookvrij.nl)| |nginx| | | | | | 3:white_check_mark: |Nginx||
+|[https://puurrookvrij.nl](https://puurrookvrij.nl)| |nginx| |:white_check_mark: |:warning: | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |HSTS Nginx|301 Moved Perman...|

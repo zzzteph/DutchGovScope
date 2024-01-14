@@ -9,10 +9,10 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://feeds.kijkopeuropa.nl](https://feeds.kijkopeuropa.nl)| |nginx| |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx||
-|[https://opendata.kijkopeuropa.nl](https://opendata.kijkopeuropa.nl)| |nginx| |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx||
-|[https://www.kijkopeuropa.nl](https://www.kijkopeuropa.nl)| |nginx| |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Bloomreach HSTS...|Kijk op Europa -...|
-|[https://kijkopeuropa.nl](https://kijkopeuropa.nl)| |nginx| |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx|301 Moved Perman...|
-|[https://aanmelden.kijkopeuropa.nl](https://aanmelden.kijkopeuropa.nl)| || | | | | |:white_check_mark: |HSTS|Aanmelden|
-|[https://swipen.kijkopeuropa.nl](https://swipen.kijkopeuropa.nl)| || | | | | |:white_check_mark: |HSTS|Home|
-|[https://vragen.kijkopeuropa.nl](https://vragen.kijkopeuropa.nl)| || | | | | |:white_check_mark: |HSTS|Vragen|
+|[https://feeds.kijkopeuropa.nl](https://feeds.kijkopeuropa.nl)| |nginx| |:white_check_mark: | | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |HSTS Nginx||
+|[https://opendata.kijkopeuropa.nl](https://opendata.kijkopeuropa.nl)| |nginx| |:white_check_mark: | | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |HSTS Nginx||
+|[https://www.kijkopeuropa.nl](https://www.kijkopeuropa.nl)| |nginx| |:white_check_mark: |:warning: | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |Bloomreach HSTS Nginx|Kijk op Europa -...|
+|[https://kijkopeuropa.nl](https://kijkopeuropa.nl)| |nginx| |:white_check_mark: |:warning: | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |HSTS Nginx|301 Moved Perman...|
+|[https://aanmelden.kijkopeuropa.nl](https://aanmelden.kijkopeuropa.nl)| || | | | | | 3:white_check_mark: |HSTS|Aanmelden|
+|[https://swipen.kijkopeuropa.nl](https://swipen.kijkopeuropa.nl)| || | | | | | 3:white_check_mark: |HSTS|Home|
+|[https://vragen.kijkopeuropa.nl](https://vragen.kijkopeuropa.nl)| || | | | | | 3:white_check_mark: |HSTS|Vragen|

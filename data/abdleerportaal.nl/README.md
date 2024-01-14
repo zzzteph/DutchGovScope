@@ -9,5 +9,5 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://www.abdleerportaal.nl](https://www.abdleerportaal.nl)| |Class|:white_check_mark: |:white_check_mark: |:warning: | |:white_check_mark: |:white_check_mark: |HSTS||
-|[https://abdleerportaal.nl](https://abdleerportaal.nl)| |Class|:white_check_mark: |:white_check_mark: |:warning: | |:white_check_mark: |:white_check_mark: |HSTS||
+|[https://www.abdleerportaal.nl](https://www.abdleerportaal.nl)| |Class|:white_check_mark: |:white_check_mark: |:warning: | | 2:white_check_mark: | 3:white_check_mark: |HSTS||
+|[https://abdleerportaal.nl](https://abdleerportaal.nl)| |Class|:white_check_mark: |:white_check_mark: |:warning: | | 2:white_check_mark: | 3:white_check_mark: |HSTS||

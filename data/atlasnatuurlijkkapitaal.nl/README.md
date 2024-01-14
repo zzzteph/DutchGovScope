@@ -9,8 +9,8 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
-|[http://acceptatie.atlasnatuurlijkkapitaal.nl](http://acceptatie.atlasnatuurlijkkapitaal.nl)| || | | | | |:white_check_mark: |||
-|[http://ontwikkel.atlasnatuurlijkkapitaal.nl](http://ontwikkel.atlasnatuurlijkkapitaal.nl)| || | | | | |:white_check_mark: |||
-|[http://test.atlasnatuurlijkkapitaal.nl](http://test.atlasnatuurlijkkapitaal.nl)| || | | | | |:white_check_mark: |||
-|[https://www.atlasnatuurlijkkapitaal.nl](https://www.atlasnatuurlijkkapitaal.nl)| |Apache| |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache HTTP Serv...|Atlas Natuurlijk...|
-|[https://atlasnatuurlijkkapitaal.nl](https://atlasnatuurlijkkapitaal.nl)| |Apache| |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache HTTP Serv...|301 Moved Perman...|
+|[http://acceptatie.atlasnatuurlijkkapitaal.nl](http://acceptatie.atlasnatuurlijkkapitaal.nl)| || | | | | | 3:white_check_mark: |||
+|[http://ontwikkel.atlasnatuurlijkkapitaal.nl](http://ontwikkel.atlasnatuurlijkkapitaal.nl)| || | | | | | 3:white_check_mark: |||
+|[http://test.atlasnatuurlijkkapitaal.nl](http://test.atlasnatuurlijkkapitaal.nl)| || | | | | | 3:white_check_mark: |||
+|[https://www.atlasnatuurlijkkapitaal.nl](https://www.atlasnatuurlijkkapitaal.nl)| |Apache| |:white_check_mark: | | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |Apache HTTP Server Drupal HSTS PHP|Atlas Natuurlijk...|
+|[https://atlasnatuurlijkkapitaal.nl](https://atlasnatuurlijkkapitaal.nl)| |Apache| |:white_check_mark: | | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |Apache HTTP Server HSTS|301 Moved Perman...|

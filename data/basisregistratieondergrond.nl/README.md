@@ -9,5 +9,5 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://www.basisregistratieondergrond.nl](https://www.basisregistratieondergrond.nl)| |-| |:white_check_mark: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Microsoft A...|Object moved|
-|[https://basisregistratieondergrond.nl](https://basisregistratieondergrond.nl)| |-| |:white_check_mark: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Microsoft A...|Home - Basisregi...|
+|[https://www.basisregistratieondergrond.nl](https://www.basisregistratieondergrond.nl)| |-| |:white_check_mark: | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |HSTS Microsoft ASP.NET:-|Object moved|
+|[https://basisregistratieondergrond.nl](https://basisregistratieondergrond.nl)| |-| |:white_check_mark: | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |HSTS Microsoft ASP.NET:-|Home - Basisregi...|

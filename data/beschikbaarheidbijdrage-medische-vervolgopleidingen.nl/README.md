@@ -9,5 +9,5 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://www.beschikbaarheidbijdrage-medische-vervolgopleidingen.nl](https://www.beschikbaarheidbijdrage-medische-vervolgopleidingen.nl)| $${\color{green}A+}$$ |Microsoft-IIS/10...| |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS IIS:10.0 Wi...|Document Moved|
-|[https://beschikbaarheidbijdrage-medische-vervolgopleidingen.nl](https://beschikbaarheidbijdrage-medische-vervolgopleidingen.nl)| $${\color{green}A+}$$ |Microsoft-IIS/10...| |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS IIS:10.0 Wi...|Document Moved|
+|[https://www.beschikbaarheidbijdrage-medische-vervolgopleidingen.nl](https://www.beschikbaarheidbijdrage-medische-vervolgopleidingen.nl)| $${\color{green}A+}$$ |Microsoft-IIS/10...| |:white_check_mark: |:warning: | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |HSTS IIS:10.0 Windows Server|Document Moved|
+|[https://beschikbaarheidbijdrage-medische-vervolgopleidingen.nl](https://beschikbaarheidbijdrage-medische-vervolgopleidingen.nl)| $${\color{green}A+}$$ |Microsoft-IIS/10...| |:white_check_mark: |:warning: | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |HSTS IIS:10.0 Windows Server|Document Moved|

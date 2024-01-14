@@ -9,12 +9,12 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://www.meldknop.nl](https://www.meldknop.nl)| |nginx| |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS MySQL Nginx...|Meldknop.nl - Ie...|
-|[https://corrupt.meldknop.nl](https://corrupt.meldknop.nl)| |nginx| | | | | |:white_check_mark: |Nginx||
-|[https://66wz.meldknop.nl](https://66wz.meldknop.nl)| |nginx| | | | | |:white_check_mark: |Nginx||
-|[https://shanghaiershouhuangguanche.meldknop.nl](https://shanghaiershouhuangguanche.meldknop.nl)| |nginx| | | | | |:white_check_mark: |Nginx||
-|[https://meldknop.nl](https://meldknop.nl)| |nginx| |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx||
-|[https://nwww.meldknop.nl](https://nwww.meldknop.nl)| |nginx| | | | | |:white_check_mark: |Nginx||
-|[https://shai.meldknop.nl](https://shai.meldknop.nl)| |nginx| | | | | |:white_check_mark: |Nginx||
-|[https://ftpadmin1.meldknop.nl](https://ftpadmin1.meldknop.nl)| |nginx| | | | | |:white_check_mark: |Nginx||
-|[https://mobielwww.meldknop.nl](https://mobielwww.meldknop.nl)| |nginx| | | | | |:white_check_mark: |Nginx||
+|[https://www.meldknop.nl](https://www.meldknop.nl)| |nginx| |:white_check_mark: | | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |HSTS MySQL Nginx PHP WordPress Yoast SEO:21.8|Meldknop.nl - Ie...|
+|[https://corrupt.meldknop.nl](https://corrupt.meldknop.nl)| |nginx| | | | | | 3:white_check_mark: |Nginx||
+|[https://66wz.meldknop.nl](https://66wz.meldknop.nl)| |nginx| | | | | | 3:white_check_mark: |Nginx||
+|[https://shanghaiershouhuangguanche.meldknop.nl](https://shanghaiershouhuangguanche.meldknop.nl)| |nginx| | | | | | 3:white_check_mark: |Nginx||
+|[https://meldknop.nl](https://meldknop.nl)| |nginx| |:white_check_mark: | | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |HSTS Nginx||
+|[https://nwww.meldknop.nl](https://nwww.meldknop.nl)| |nginx| | | | | | 3:white_check_mark: |Nginx||
+|[https://shai.meldknop.nl](https://shai.meldknop.nl)| |nginx| | | | | | 3:white_check_mark: |Nginx||
+|[https://ftpadmin1.meldknop.nl](https://ftpadmin1.meldknop.nl)| |nginx| | | | | | 3:white_check_mark: |Nginx||
+|[https://mobielwww.meldknop.nl](https://mobielwww.meldknop.nl)| |nginx| | | | | | 3:white_check_mark: |Nginx||

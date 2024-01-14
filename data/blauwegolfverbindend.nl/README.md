@@ -9,6 +9,6 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://acceptatie.blauwegolfverbindend.nl](https://acceptatie.blauwegolfverbindend.nl)| |Apache/2.4.6 (Ce...|:warning: |:white_check_mark: | |:white_check_mark: | |:white_check_mark: |Apache HTTP Serv...|Blauwe Golf, Ver...|
-|[https://www.blauwegolfverbindend.nl](https://www.blauwegolfverbindend.nl)| |Apache/2.4.6 (Ce...| | | | | |:white_check_mark: |Apache HTTP Serv...|Blauwe Golf, Ver...|
-|[https://blauwegolfverbindend.nl](https://blauwegolfverbindend.nl)| |Apache/2.4.6 (Ce...|:o: |:white_check_mark: | |:white_check_mark: | |:white_check_mark: |Apache HTTP Serv...|Blauwe Golf, Ver...|
+|[https://acceptatie.blauwegolfverbindend.nl](https://acceptatie.blauwegolfverbindend.nl)| |Apache/2.4.6 (Ce...|:warning: |:white_check_mark: | | 1:white_check_mark: | | 3:white_check_mark: |Apache HTTP Server:2.4.6 CentOS HSTS Java OpenSSL:1.0.2k YouTube|Blauwe Golf, Ver...|
+|[https://www.blauwegolfverbindend.nl](https://www.blauwegolfverbindend.nl)| |Apache/2.4.6 (Ce...| | | | | | 3:white_check_mark: |Apache HTTP Server:2.4.6 CentOS HSTS Java OpenSSL:1.0.2k YouTube|Blauwe Golf, Ver...|
+|[https://blauwegolfverbindend.nl](https://blauwegolfverbindend.nl)| |Apache/2.4.6 (Ce...|:o: |:white_check_mark: | | 1:white_check_mark: | | 3:white_check_mark: |Apache HTTP Server:2.4.6 CentOS HSTS Java OpenSSL:1.0.2k YouTube|Blauwe Golf, Ver...|

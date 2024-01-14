@@ -9,4 +9,4 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://wabes.nl](https://wabes.nl)| || | | | | |:white_check_mark: |Next.js Node.js...|Wabes|
+|[https://wabes.nl](https://wabes.nl)| || | | | | | 3:white_check_mark: |Next.js Node.js React Webpack|Wabes|

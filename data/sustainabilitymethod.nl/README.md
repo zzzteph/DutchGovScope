@@ -9,5 +9,5 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://www.sustainabilitymethod.nl](https://www.sustainabilitymethod.nl)| |nginx|:white_check_mark: |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx PHP:8...|RIVM Sustainabil...|
-|[https://sustainabilitymethod.nl](https://sustainabilitymethod.nl)| |nginx|:white_check_mark: |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx PHP:8...|RIVM Sustainabil...|
+|[https://www.sustainabilitymethod.nl](https://www.sustainabilitymethod.nl)| |nginx|:white_check_mark: |:white_check_mark: | | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |HSTS Nginx PHP:8.2.13|RIVM Sustainabil...|
+|[https://sustainabilitymethod.nl](https://sustainabilitymethod.nl)| |nginx|:white_check_mark: |:white_check_mark: | | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |HSTS Nginx PHP:8.2.13|RIVM Sustainabil...|

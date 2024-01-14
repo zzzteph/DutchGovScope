@@ -9,8 +9,8 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://feeds.nponderwijs.nl](https://feeds.nponderwijs.nl)| |nginx| |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx||
-|[https://kennis.nponderwijs.nl](https://kennis.nponderwijs.nl)| |Apache/2| |:white_check_mark: | | | |:white_check_mark: |Apache HTTP Serv...||
-|[https://opendata.nponderwijs.nl](https://opendata.nponderwijs.nl)| |nginx| |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx||
-|[https://www.nponderwijs.nl](https://www.nponderwijs.nl)| |nginx| |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Bloomreach HSTS...|Home | Nationaal...|
-|[https://nponderwijs.nl](https://nponderwijs.nl)| |nginx| |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx|301 Moved Perman...|
+|[https://feeds.nponderwijs.nl](https://feeds.nponderwijs.nl)| |nginx| |:white_check_mark: | | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |HSTS Nginx||
+|[https://kennis.nponderwijs.nl](https://kennis.nponderwijs.nl)| |Apache/2| |:white_check_mark: | | | | 3:white_check_mark: |Apache HTTP Server:2 HSTS||
+|[https://opendata.nponderwijs.nl](https://opendata.nponderwijs.nl)| |nginx| |:white_check_mark: | | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |HSTS Nginx||
+|[https://www.nponderwijs.nl](https://www.nponderwijs.nl)| |nginx| |:white_check_mark: |:warning: | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |Bloomreach HSTS Nginx|Home | Nationaal...|
+|[https://nponderwijs.nl](https://nponderwijs.nl)| |nginx| |:white_check_mark: |:warning: | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |HSTS Nginx|301 Moved Perman...|

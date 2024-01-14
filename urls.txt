@@ -3137,7 +3137,8 @@ https://ocwincijfers.nl
 https://enterpriseenrollment.odnhn.nl
 https://www.odnhn.nl
 https://intranet.odnhn.nl
-https://test-cmsintranet.odnhn.nl
+http://test-intranet.odnhn.nl
+http://test-cmsintranet.odnhn.nl
 https://vpn.odnhn.nl
 https://liquit.odnhn.nl
 https://cmsintranet.odnhn.nl
@@ -3157,7 +3158,6 @@ https://oesorichtlijnen.nl
 https://acc-klas.oidji.nl
 https://feeds.oidji.nl
 https://keten.sophie.oidji.nl
-https://klas.oidji.nl
 https://opendata.oidji.nl
 https://sophie.oidji.nl
 https://www.oidji.nl
@@ -3629,15 +3629,9 @@ https://feeds.pagw.nl
 https://www.pagw.nl
 https://opendata.pagw.nl
 https://pagw.nl
-https://www.paisesbajosmundial.nl
-https://paisesbajosmundial.nl
-https://www.pannenkoekenpalazzo.nl
-https://pannenkoekenpalazzo.nl
 https://opendata.papiamentu.rijksdienstcn.com
 https://feeds.papiamentu.rijksdienstcn.com
 https://papiamentu.rijksdienstcn.com
-https://www.paysbasmondial.nl
-https://paysbasmondial.nl
 https://www.pensioenduidelijkheid.nl
 https://pensioenduidelijkheid.nl
 https://feeds.pensioenduidelijkheid.nl
@@ -3840,6 +3834,7 @@ https://riec.nl
 https://advies.rijksacademie.nl
 https://feeds.rijksacademie.nl
 https://helpdesk.rijksacademie.nl
+https://infoscherm.rijksacademie.nl
 https://leren.rijksacademie.nl
 https://nieuwsbrief.rijksacademie.nl
 https://opendata.rijksacademie.nl

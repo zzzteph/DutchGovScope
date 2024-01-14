@@ -9,9 +9,9 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://acc.digitaltrustcenter.nl](https://acc.digitaltrustcenter.nl)| |nginx| | | | | |:white_check_mark: |Nginx|403 Forbidden|
-|[https://basisscan.digitaltrustcenter.nl](https://basisscan.digitaltrustcenter.nl)| |nginx| |:white_check_mark: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Amazon S3 Amazon...|Basisscan Cyberw...|
-|[https://test.digitaltrustcenter.nl](https://test.digitaltrustcenter.nl)| |nginx| | | | | |:white_check_mark: |Nginx|403 Forbidden|
-|[https://tools.digitaltrustcenter.nl](https://tools.digitaltrustcenter.nl)| |Apache| |:white_check_mark: | |:white_check_mark: | |:white_check_mark: |Apache HTTP Serv...||
-|[https://www.digitaltrustcenter.nl](https://www.digitaltrustcenter.nl)| |Apache| |:white_check_mark: | |:white_check_mark: | |:white_check_mark: |Apache HTTP Serv...|Home | Digital T...|
-|[https://digitaltrustcenter.nl](https://digitaltrustcenter.nl)| |Apache| |:white_check_mark: | |:white_check_mark: | |:white_check_mark: |Apache HTTP Serv...|301 Moved Perman...|
+|[https://acc.digitaltrustcenter.nl](https://acc.digitaltrustcenter.nl)| |nginx| | | | | | 3:white_check_mark: |Nginx|403 Forbidden|
+|[https://basisscan.digitaltrustcenter.nl](https://basisscan.digitaltrustcenter.nl)| |nginx| |:white_check_mark: | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |Amazon S3 Amazon Web Services HSTS Nginx|Basisscan Cyberw...|
+|[https://test.digitaltrustcenter.nl](https://test.digitaltrustcenter.nl)| |nginx| | | | | | 3:white_check_mark: |Nginx|403 Forbidden|
+|[https://tools.digitaltrustcenter.nl](https://tools.digitaltrustcenter.nl)| |Apache| |:white_check_mark: | | 1:white_check_mark: | | 3:white_check_mark: |Apache HTTP Server HSTS||
+|[https://www.digitaltrustcenter.nl](https://www.digitaltrustcenter.nl)| |Apache| |:white_check_mark: | | 1:white_check_mark: | | 3:white_check_mark: |Apache HTTP Server Drupal HSTS PHP|Home | Digital T...|
+|[https://digitaltrustcenter.nl](https://digitaltrustcenter.nl)| |Apache| |:white_check_mark: | | 1:white_check_mark: | | 3:white_check_mark: |Apache HTTP Server HSTS|301 Moved Perman...|

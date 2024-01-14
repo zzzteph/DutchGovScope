@@ -9,10 +9,10 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://english.collegevanrijksadviseurs.nl](https://english.collegevanrijksadviseurs.nl)| $${\color{green}A+}$$ |nginx| |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Bloomreach HSTS...|Home | Board of...|
-|[https://feeds.collegevanrijksadviseurs.nl](https://feeds.collegevanrijksadviseurs.nl)| $${\color{green}A+}$$ |nginx| |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx||
-|[https://feeds.english.collegevanrijksadviseurs.nl](https://feeds.english.collegevanrijksadviseurs.nl)| |nginx| |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx||
-|[https://opendata.collegevanrijksadviseurs.nl](https://opendata.collegevanrijksadviseurs.nl)| |nginx| |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx||
-|[https://opendata.english.collegevanrijksadviseurs.nl](https://opendata.english.collegevanrijksadviseurs.nl)| |nginx| |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx||
-|[https://www.collegevanrijksadviseurs.nl](https://www.collegevanrijksadviseurs.nl)| $${\color{green}A+}$$ |nginx| |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Bloomreach HSTS...|Home | College v...|
-|[https://collegevanrijksadviseurs.nl](https://collegevanrijksadviseurs.nl)| $${\color{green}A+}$$ |nginx| |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx|301 Moved Perman...|
+|[https://english.collegevanrijksadviseurs.nl](https://english.collegevanrijksadviseurs.nl)| $${\color{green}A+}$$ |nginx| |:white_check_mark: |:warning: | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |Bloomreach HSTS Nginx|Home | Board of...|
+|[https://feeds.collegevanrijksadviseurs.nl](https://feeds.collegevanrijksadviseurs.nl)| $${\color{green}A+}$$ |nginx| |:white_check_mark: | | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |HSTS Nginx||
+|[https://feeds.english.collegevanrijksadviseurs.nl](https://feeds.english.collegevanrijksadviseurs.nl)| |nginx| |:white_check_mark: | | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |HSTS Nginx||
+|[https://opendata.collegevanrijksadviseurs.nl](https://opendata.collegevanrijksadviseurs.nl)| |nginx| |:white_check_mark: | | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |HSTS Nginx||
+|[https://opendata.english.collegevanrijksadviseurs.nl](https://opendata.english.collegevanrijksadviseurs.nl)| |nginx| |:white_check_mark: | | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |HSTS Nginx||
+|[https://www.collegevanrijksadviseurs.nl](https://www.collegevanrijksadviseurs.nl)| $${\color{green}A+}$$ |nginx| |:white_check_mark: |:warning: | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |Bloomreach HSTS Nginx|Home | College v...|
+|[https://collegevanrijksadviseurs.nl](https://collegevanrijksadviseurs.nl)| $${\color{green}A+}$$ |nginx| |:white_check_mark: |:warning: | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |HSTS Nginx|301 Moved Perman...|

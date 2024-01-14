@@ -9,8 +9,8 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://feeds.werkenbijdeeu.nl](https://feeds.werkenbijdeeu.nl)| |nginx| |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx||
-|[https://opendata.werkenbijdeeu.nl](https://opendata.werkenbijdeeu.nl)| |nginx| |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx||
-|[https://vacature.werkenbijdeeu.nl](https://vacature.werkenbijdeeu.nl)| |Apache| |:white_check_mark: |:warning: |:white_check_mark: | |:white_check_mark: |Apache HTTP Serv...|Werken bij de EU|
-|[https://www.werkenbijdeeu.nl](https://www.werkenbijdeeu.nl)| |nginx| |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Bloomreach HSTS...|Home | Werken bi...|
-|[https://werkenbijdeeu.nl](https://werkenbijdeeu.nl)| |nginx| |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx|301 Moved Perman...|
+|[https://feeds.werkenbijdeeu.nl](https://feeds.werkenbijdeeu.nl)| |nginx| |:white_check_mark: | | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |HSTS Nginx||
+|[https://opendata.werkenbijdeeu.nl](https://opendata.werkenbijdeeu.nl)| |nginx| |:white_check_mark: | | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |HSTS Nginx||
+|[https://vacature.werkenbijdeeu.nl](https://vacature.werkenbijdeeu.nl)| |Apache| |:white_check_mark: |:warning: | 1:white_check_mark: | | 3:white_check_mark: |Apache HTTP Server HSTS|Werken bij de EU|
+|[https://www.werkenbijdeeu.nl](https://www.werkenbijdeeu.nl)| |nginx| |:white_check_mark: |:warning: | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |Bloomreach HSTS Nginx|Home | Werken bi...|
+|[https://werkenbijdeeu.nl](https://werkenbijdeeu.nl)| |nginx| |:white_check_mark: |:warning: | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |HSTS Nginx|301 Moved Perman...|

@@ -9,7 +9,7 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://www.noraonline.nl](https://www.noraonline.nl)| |Apache| |:white_check_mark: | |:white_check_mark: | |:white_check_mark: |Apache HTTP Serv...||
-|[https://data.noraonline.nl](https://data.noraonline.nl)| |Apache|:white_check_mark: |:white_check_mark: | |:white_check_mark: | |:white_check_mark: |Apache HTTP Serv...|NORAOnline | SPA...|
-|[https://sparql.noraonline.nl](https://sparql.noraonline.nl)| || | | | | |:white_check_mark: |||
-|[https://noraonline.nl](https://noraonline.nl)| |Apache| |:white_check_mark: | |:white_check_mark: | |:white_check_mark: |Apache HTTP Serv...|301 Moved Perman...|
+|[https://www.noraonline.nl](https://www.noraonline.nl)| |Apache| |:white_check_mark: | | 1:white_check_mark: | | 3:white_check_mark: |Apache HTTP Server HSTS||
+|[https://data.noraonline.nl](https://data.noraonline.nl)| |Apache|:white_check_mark: |:white_check_mark: | | 1:white_check_mark: | | 3:white_check_mark: |Apache HTTP Server HSTS|NORAOnline | SPA...|
+|[https://sparql.noraonline.nl](https://sparql.noraonline.nl)| || | | | | | 3:white_check_mark: |||
+|[https://noraonline.nl](https://noraonline.nl)| |Apache| |:white_check_mark: | | 1:white_check_mark: | | 3:white_check_mark: |Apache HTTP Server HSTS|301 Moved Perman...|

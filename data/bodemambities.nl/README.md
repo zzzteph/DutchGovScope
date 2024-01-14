@@ -9,6 +9,6 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
-|[http://acceptatie.zoek.bodemambities.nl](http://acceptatie.zoek.bodemambities.nl)| || | | | | |:white_check_mark: |||
-|[https://www.bodemambities.nl](https://www.bodemambities.nl)| |Apache| |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache HTTP Serv...|Bodemambities |...|
-|[https://bodemambities.nl](https://bodemambities.nl)| |Apache| |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache HTTP Serv...|301 Moved Perman...|
+|[http://acceptatie.zoek.bodemambities.nl](http://acceptatie.zoek.bodemambities.nl)| || | | | | | 3:white_check_mark: |||
+|[https://www.bodemambities.nl](https://www.bodemambities.nl)| |Apache| |:white_check_mark: | | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |Apache HTTP Server Drupal HSTS PHP|Bodemambities |...|
+|[https://bodemambities.nl](https://bodemambities.nl)| |Apache| |:white_check_mark: | | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |Apache HTTP Server HSTS|301 Moved Perman...|

@@ -9,5 +9,5 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://www.socialemediagidsbz.nl](https://www.socialemediagidsbz.nl)| |Apache| |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache HTTP Serv...|Sociale Media At...|
-|[https://socialemediagidsbz.nl](https://socialemediagidsbz.nl)| |Apache| |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache HTTP Serv...|Sociale Media At...|
+|[https://www.socialemediagidsbz.nl](https://www.socialemediagidsbz.nl)| |Apache| |:white_check_mark: |:warning: | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |Apache HTTP Server HSTS PHP:5.5.9 Ubuntu|Sociale Media At...|
+|[https://socialemediagidsbz.nl](https://socialemediagidsbz.nl)| |Apache| |:white_check_mark: |:warning: | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |Apache HTTP Server HSTS PHP:5.5.9 Ubuntu|Sociale Media At...|

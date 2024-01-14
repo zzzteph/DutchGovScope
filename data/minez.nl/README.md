@@ -9,21 +9,21 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://minez.nl](https://minez.nl)| || |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |||
-|[https://pmt.minez.nl](https://pmt.minez.nl)| ||:white_check_mark: |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Microsoft A...||
-|[http://upeu.minez.nl](http://upeu.minez.nl)| || | | | | |:white_check_mark: |||
-|[https://www.minez.nl](https://www.minez.nl)| || |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |||
-|[https://demo-portal.minez.nl](https://demo-portal.minez.nl)| ||:o: |:white_check_mark: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS||
-|[https://tst-eidas.minez.nl](https://tst-eidas.minez.nl)| ||:o: |:white_check_mark: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|Index.html|
-|[https://eidasmw-tst.minez.nl](https://eidasmw-tst.minez.nl)| ||:white_check_mark: |:white_check_mark: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|Index.html|
-|[https://acc-demo-portal.minez.nl](https://acc-demo-portal.minez.nl)| ||:o: |:white_check_mark: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS||
-|[https://tst-demo-portal.minez.nl](https://tst-demo-portal.minez.nl)| ||:o: |:white_check_mark: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|Index.html|
-|[https://acc-eidas.minez.nl](https://acc-eidas.minez.nl)| ||:o: |:white_check_mark: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS||
-|[https://eidasmw-acc.minez.nl](https://eidasmw-acc.minez.nl)| ||:white_check_mark: |:white_check_mark: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS||
-|[https://eidas.minez.nl](https://eidas.minez.nl)| ||:o: |:white_check_mark: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS||
-|[https://eidasmw.minez.nl](https://eidasmw.minez.nl)| ||:white_check_mark: |:white_check_mark: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS||
-|[https://vws-demo.minez.nl](https://vws-demo.minez.nl)| || | | | | |:white_check_mark: |||
-|[https://pmt-acc.minez.nl](https://pmt-acc.minez.nl)| ||:white_check_mark: |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Microsoft A...||
-|[https://ibabs.minez.nl](https://ibabs.minez.nl)| ||:white_check_mark: |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Microsoft A...||
-|[https://authpmt-acc.minez.nl](https://authpmt-acc.minez.nl)| ||:o: |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|iBabs - Meet in...|
-|[https://authpmt.minez.nl](https://authpmt.minez.nl)| ||:white_check_mark: |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|iBabs - Meet in...|
+|[https://minez.nl](https://minez.nl)| || |:white_check_mark: |:warning: | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |||
+|[https://pmt.minez.nl](https://pmt.minez.nl)| ||:white_check_mark: |:white_check_mark: |:warning: | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |HSTS Microsoft ASP.NET||
+|[http://upeu.minez.nl](http://upeu.minez.nl)| || | | | | | 3:white_check_mark: |||
+|[https://www.minez.nl](https://www.minez.nl)| || |:white_check_mark: |:warning: | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |||
+|[https://demo-portal.minez.nl](https://demo-portal.minez.nl)| ||:o: |:white_check_mark: | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |HSTS||
+|[https://tst-eidas.minez.nl](https://tst-eidas.minez.nl)| ||:o: |:white_check_mark: | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |HSTS|Index.html|
+|[https://eidasmw-tst.minez.nl](https://eidasmw-tst.minez.nl)| ||:white_check_mark: |:white_check_mark: | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |HSTS|Index.html|
+|[https://acc-demo-portal.minez.nl](https://acc-demo-portal.minez.nl)| ||:o: |:white_check_mark: | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |HSTS||
+|[https://tst-demo-portal.minez.nl](https://tst-demo-portal.minez.nl)| ||:o: |:white_check_mark: | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |HSTS|Index.html|
+|[https://acc-eidas.minez.nl](https://acc-eidas.minez.nl)| ||:o: |:white_check_mark: | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |HSTS||
+|[https://eidasmw-acc.minez.nl](https://eidasmw-acc.minez.nl)| ||:white_check_mark: |:white_check_mark: | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |HSTS||
+|[https://eidas.minez.nl](https://eidas.minez.nl)| ||:o: |:white_check_mark: | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |HSTS||
+|[https://eidasmw.minez.nl](https://eidasmw.minez.nl)| ||:white_check_mark: |:white_check_mark: | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |HSTS||
+|[https://vws-demo.minez.nl](https://vws-demo.minez.nl)| || | | | | | 3:white_check_mark: |||
+|[https://pmt-acc.minez.nl](https://pmt-acc.minez.nl)| ||:white_check_mark: |:white_check_mark: |:warning: | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |HSTS Microsoft ASP.NET||
+|[https://ibabs.minez.nl](https://ibabs.minez.nl)| ||:white_check_mark: |:white_check_mark: |:warning: | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |HSTS Microsoft ASP.NET||
+|[https://authpmt-acc.minez.nl](https://authpmt-acc.minez.nl)| ||:o: |:white_check_mark: |:warning: | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |HSTS|iBabs - Meet in...|
+|[https://authpmt.minez.nl](https://authpmt.minez.nl)| ||:white_check_mark: |:white_check_mark: |:warning: | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |HSTS|iBabs - Meet in...|

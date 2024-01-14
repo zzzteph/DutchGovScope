@@ -9,5 +9,5 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://www.samenwerkenaanontwerpkracht.nl](https://www.samenwerkenaanontwerpkracht.nl)| |Apache| | | | | |:white_check_mark: |Apache HTTP Serv...|Domein niet gevo...|
-|[https://samenwerkenaanontwerpkracht.nl](https://samenwerkenaanontwerpkracht.nl)| |Apache| | | | | |:white_check_mark: |Apache HTTP Serv...|Domein niet gevo...|
+|[https://www.samenwerkenaanontwerpkracht.nl](https://www.samenwerkenaanontwerpkracht.nl)| |Apache| | | | | | 3:white_check_mark: |Apache HTTP Server|Domein niet gevo...|
+|[https://samenwerkenaanontwerpkracht.nl](https://samenwerkenaanontwerpkracht.nl)| |Apache| | | | | | 3:white_check_mark: |Apache HTTP Server|Domein niet gevo...|

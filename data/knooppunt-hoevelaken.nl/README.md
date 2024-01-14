@@ -9,5 +9,5 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://www.knooppunt-hoevelaken.nl](https://www.knooppunt-hoevelaken.nl)| |nginx| | | | | |:white_check_mark: |Nginx|Knooppunt Hoevel...|
-|[https://knooppunt-hoevelaken.nl](https://knooppunt-hoevelaken.nl)| |nginx| | | | | |:white_check_mark: |Nginx|Knooppunt Hoevel...|
+|[https://www.knooppunt-hoevelaken.nl](https://www.knooppunt-hoevelaken.nl)| |nginx| | | | | | 3:white_check_mark: |Nginx|Knooppunt Hoevel...|
+|[https://knooppunt-hoevelaken.nl](https://knooppunt-hoevelaken.nl)| |nginx| | | | | | 3:white_check_mark: |Nginx|Knooppunt Hoevel...|

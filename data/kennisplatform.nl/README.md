@@ -9,5 +9,5 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://www.kennisplatform.nl](https://www.kennisplatform.nl)| |Apache/2|:white_check_mark: |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache HTTP Serv...|Voor al uw vrage...|
-|[https://kennisplatform.nl](https://kennisplatform.nl)| |Apache/2| |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache HTTP Serv...||
+|[https://www.kennisplatform.nl](https://www.kennisplatform.nl)| |Apache/2|:white_check_mark: |:white_check_mark: | | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |Apache HTTP Server:2 CodeIgniter Google Tag Manager HSTS PHP Slick jQuery|Voor al uw vrage...|
+|[https://kennisplatform.nl](https://kennisplatform.nl)| |Apache/2| |:white_check_mark: | | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |Apache HTTP Server:2 CodeIgniter HSTS PHP||

@@ -9,5 +9,5 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://ambtelijkerechtspositie.nl](https://ambtelijkerechtspositie.nl)| |Microsoft-IIS/10...| |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS IIS:10.0 Wi...|Document Moved|
-|[https://www.ambtelijkerechtspositie.nl](https://www.ambtelijkerechtspositie.nl)| |Microsoft-IIS/10...| |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS IIS:10.0 Wi...|Document Moved|
+|[https://ambtelijkerechtspositie.nl](https://ambtelijkerechtspositie.nl)| |Microsoft-IIS/10...| |:white_check_mark: |:warning: | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |HSTS IIS:10.0 Windows Server|Document Moved|
+|[https://www.ambtelijkerechtspositie.nl](https://www.ambtelijkerechtspositie.nl)| |Microsoft-IIS/10...| |:white_check_mark: |:warning: | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |HSTS IIS:10.0 Windows Server|Document Moved|

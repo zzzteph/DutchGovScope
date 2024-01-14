@@ -9,5 +9,5 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://samenbeterdoejemee.nl](https://samenbeterdoejemee.nl)| |nginx| |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx|Fotokader - Same...|
-|[https://www.samenbeterdoejemee.nl](https://www.samenbeterdoejemee.nl)| |nginx| |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |Nginx|301 Moved Perman...|
+|[https://samenbeterdoejemee.nl](https://samenbeterdoejemee.nl)| |nginx| |:white_check_mark: | | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |HSTS Nginx|Fotokader - Same...|
+|[https://www.samenbeterdoejemee.nl](https://www.samenbeterdoejemee.nl)| |nginx| |:white_check_mark: | | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |Nginx|301 Moved Perman...|

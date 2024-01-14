@@ -9,7 +9,7 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://accept.flitspanel.nl](https://accept.flitspanel.nl)| |nginx| |:white_check_mark: | | | |:white_check_mark: |Basic HSTS Nginx|401 Unauthorized|
-|[https://test.flitspanel.nl](https://test.flitspanel.nl)| |nginx| | | | | |:white_check_mark: |Nginx|Web Server's Def...|
-|[https://www.flitspanel.nl](https://www.flitspanel.nl)| || |:white_check_mark: | | | |:white_check_mark: |HSTS||
-|[https://flitspanel.nl](https://flitspanel.nl)| || |:white_check_mark: | | | |:white_check_mark: |HSTS||
+|[https://accept.flitspanel.nl](https://accept.flitspanel.nl)| |nginx| |:white_check_mark: | | | | 3:white_check_mark: |Basic HSTS Nginx|401 Unauthorized|
+|[https://test.flitspanel.nl](https://test.flitspanel.nl)| |nginx| | | | | | 3:white_check_mark: |Nginx|Web Server's Def...|
+|[https://www.flitspanel.nl](https://www.flitspanel.nl)| || |:white_check_mark: | | | | 3:white_check_mark: |HSTS||
+|[https://flitspanel.nl](https://flitspanel.nl)| || |:white_check_mark: | | | | 3:white_check_mark: |HSTS||

@@ -9,10 +9,10 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://financiering.versnellingshuisce.nl](https://financiering.versnellingshuisce.nl)| |Apache/2| |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache HTTP Serv...|Nederland Circul...|
-|[https://groei.versnellingshuisce.nl](https://groei.versnellingshuisce.nl)| |Apache/2| | | | | |:white_check_mark: |Apache HTTP Serv...|Groeiprogramma's...|
-|[https://versnellingspartner.versnellingshuisce.nl](https://versnellingspartner.versnellingshuisce.nl)| |Apache/2|:white_check_mark: | | | | |:white_check_mark: |Apache HTTP Serv...|Vind de juiste V...|
-|[https://www.versnellingshuisce.nl](https://www.versnellingshuisce.nl)| |LinQhost HPW|:o: | | |:white_check_mark: |:white_check_mark: |:white_check_mark: ||301 Moved Perman...|
-|[https://www.financiering.versnellingshuisce.nl](https://www.financiering.versnellingshuisce.nl)| |Apache/2| |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache HTTP Serv...|301 Moved Perman...|
-|[https://www.groei.versnellingshuisce.nl](https://www.groei.versnellingshuisce.nl)| |Apache/2| | | | | |:white_check_mark: |Apache HTTP Serv...||
-|[https://versnellingshuisce.nl](https://versnellingshuisce.nl)| |LinQhost HPW|:o: | | |:white_check_mark: |:white_check_mark: |:white_check_mark: |Alpine.js Google...|Versnellingshuis...|
+|[https://financiering.versnellingshuisce.nl](https://financiering.versnellingshuisce.nl)| |Apache/2| |:white_check_mark: | | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |Apache HTTP Server:2 Google Tag Manager Gravity Forms HSTS MySQL PHP:8.1.24 WordPress Yoast SEO:20.12 ZURB Foundation|Nederland Circul...|
+|[https://groei.versnellingshuisce.nl](https://groei.versnellingshuisce.nl)| |Apache/2| | | | | | 3:white_check_mark: |Apache HTTP Server:2 Google Tag Manager Gravity Forms MySQL PHP:8.1.25 WordPress Yoast SEO:20.12 ZURB Foundation|Groeiprogramma's...|
+|[https://versnellingspartner.versnellingshuisce.nl](https://versnellingspartner.versnellingshuisce.nl)| |Apache/2|:white_check_mark: | | | | | 3:white_check_mark: |Apache HTTP Server:2 Google Tag Manager Gravity Forms MySQL PHP:7.4.33 WordPress Yoast SEO:20.12 ZURB Foundation|Vind de juiste V...|
+|[https://www.versnellingshuisce.nl](https://www.versnellingshuisce.nl)| |LinQhost HPW|:o: | | | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: ||301 Moved Perman...|
+|[https://www.financiering.versnellingshuisce.nl](https://www.financiering.versnellingshuisce.nl)| |Apache/2| |:white_check_mark: | | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |Apache HTTP Server:2|301 Moved Perman...|
+|[https://www.groei.versnellingshuisce.nl](https://www.groei.versnellingshuisce.nl)| |Apache/2| | | | | | 3:white_check_mark: |Apache HTTP Server:2 HSTS PHP:8.1.25||
+|[https://versnellingshuisce.nl](https://versnellingshuisce.nl)| |LinQhost HPW|:o: | | | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |Alpine.js Google Tag Manager Laravel PHP Statamic|Versnellingshuis...|

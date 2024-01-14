@@ -9,7 +9,7 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://www.nlflag.nl](https://www.nlflag.nl)| |nginx| |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx|301 Moved Perman...|
-|[https://www-drop.nlflag.nl](https://www-drop.nlflag.nl)| |nginx| | | | | |:white_check_mark: |Nginx||
-|[https://nlflag.nl](https://nlflag.nl)| |nginx| |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |Drupal:9 HSTS Ng...|Flying the Dutch...|
-|[https://lesmousquetaires.nlflag.nl](https://lesmousquetaires.nlflag.nl)| |nginx| | | | | |:white_check_mark: |Nginx||
+|[https://www.nlflag.nl](https://www.nlflag.nl)| |nginx| |:white_check_mark: | | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |HSTS Nginx|301 Moved Perman...|
+|[https://www-drop.nlflag.nl](https://www-drop.nlflag.nl)| |nginx| | | | | | 3:white_check_mark: |Nginx||
+|[https://nlflag.nl](https://nlflag.nl)| |nginx| |:white_check_mark: | | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |Drupal:9 HSTS Nginx PHP|Flying the Dutch...|
+|[https://lesmousquetaires.nlflag.nl](https://lesmousquetaires.nlflag.nl)| |nginx| | | | | | 3:white_check_mark: |Nginx||

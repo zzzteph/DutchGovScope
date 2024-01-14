@@ -163,7 +163,6 @@ jupyter.bdds.rijkscloud.nl
 jupyter.cursus.rijkscloud.nl
 jupyter.dctplg1.ix.rijkscloud.nl
 jupyter.demo.ix.rijkscloud.nl
-jupyter.dgdoobi.rijkscloud.nl
 jupyter.ds-ocw.rijkscloud.nl
 jupyter.ds-ocw2.rijkscloud.nl
 jupyter.ds-test.ilt.rijkscloud.nl
@@ -321,7 +320,6 @@ rstudio.azure.ix.rijkscloud.nl
 rstudio.bdds.rijkscloud.nl
 rstudio.cursus.rijkscloud.nl
 rstudio.dctplg1.ix.rijkscloud.nl
-rstudio.dgdoobi.rijkscloud.nl
 rstudio.ds-ocw.rijkscloud.nl
 rstudio.ds-ocw2.rijkscloud.nl
 rstudio.ds-test.ilt.rijkscloud.nl

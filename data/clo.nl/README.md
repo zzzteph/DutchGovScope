@@ -9,7 +9,7 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://acc-www.clo.nl](https://acc-www.clo.nl)| |Apache| |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache HTTP Serv...|Compendium voor...|
-|[https://tst-www.clo.nl](https://tst-www.clo.nl)| |Apache| |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache HTTP Serv...||
-|[https://www.clo.nl](https://www.clo.nl)| |Apache|:white_check_mark: |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache HTTP Serv...|Compendium voor...|
-|[https://clo.nl](https://clo.nl)| |Apache| |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache HTTP Serv...|301 Moved Perman...|
+|[https://acc-www.clo.nl](https://acc-www.clo.nl)| |Apache| |:white_check_mark: | | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |Apache HTTP Server Drupal HSTS PHP:7.3.33|Compendium voor...|
+|[https://tst-www.clo.nl](https://tst-www.clo.nl)| |Apache| |:white_check_mark: | | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |Apache HTTP Server Basic Drupal HSTS PHP:7.3.33||
+|[https://www.clo.nl](https://www.clo.nl)| |Apache|:white_check_mark: |:white_check_mark: | | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |Apache HTTP Server Drupal HSTS PHP:7.3.33|Compendium voor...|
+|[https://clo.nl](https://clo.nl)| |Apache| |:white_check_mark: | | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |Apache HTTP Server HSTS|301 Moved Perman...|

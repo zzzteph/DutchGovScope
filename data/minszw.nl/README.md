@@ -9,9 +9,9 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://www.minszw.nl](https://www.minszw.nl)| |Microsoft-IIS/10...| |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS IIS:10.0 Wi...|Document Moved|
-|[https://siam.minszw.nl](https://siam.minszw.nl)| |N.A.| |:white_check_mark: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|Authentication F...|
-|[https://minszw.nl](https://minszw.nl)| |Microsoft-IIS/10...| |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS IIS:10.0 Wi...|Document Moved|
-|[https://gemeenteloket.minszw.nl](https://gemeenteloket.minszw.nl)| |Microsoft-HTTPAP...| | | | | |:white_check_mark: |Microsoft HTTPAP...|Not Found|
-|[https://www.gemeenteloket.minszw.nl](https://www.gemeenteloket.minszw.nl)| |Microsoft-HTTPAP...| | | | | |:white_check_mark: |Microsoft HTTPAP...|Not Found|
-|[https://testsiam.minszw.nl](https://testsiam.minszw.nl)| |N.A.| |:white_check_mark: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|Authentication F...|
+|[https://www.minszw.nl](https://www.minszw.nl)| |Microsoft-IIS/10...| |:white_check_mark: |:warning: | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |HSTS IIS:10.0 Windows Server|Document Moved|
+|[https://siam.minszw.nl](https://siam.minszw.nl)| |N.A.| |:white_check_mark: | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |HSTS|Authentication F...|
+|[https://minszw.nl](https://minszw.nl)| |Microsoft-IIS/10...| |:white_check_mark: |:warning: | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |HSTS IIS:10.0 Windows Server|Document Moved|
+|[https://gemeenteloket.minszw.nl](https://gemeenteloket.minszw.nl)| |Microsoft-HTTPAP...| | | | | | 3:white_check_mark: |Microsoft HTTPAPI:2.0|Not Found|
+|[https://www.gemeenteloket.minszw.nl](https://www.gemeenteloket.minszw.nl)| |Microsoft-HTTPAP...| | | | | | 3:white_check_mark: |Microsoft HTTPAPI:2.0|Not Found|
+|[https://testsiam.minszw.nl](https://testsiam.minszw.nl)| |N.A.| |:white_check_mark: | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |HSTS|Authentication F...|

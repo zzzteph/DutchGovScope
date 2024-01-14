@@ -9,6 +9,6 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://leads.rijksconsultants.nl](https://leads.rijksconsultants.nl)| || |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |Bootstrap HSTS|Vacatures - Rijk...|
-|[https://rijksconsultants.nl](https://rijksconsultants.nl)| |Microsoft-IIS/10...| |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS IIS:10.0 Wi...|Document Moved|
-|[https://www.rijksconsultants.nl](https://www.rijksconsultants.nl)| |Microsoft-IIS/10...| |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS IIS:10.0 Wi...|Document Moved|
+|[https://leads.rijksconsultants.nl](https://leads.rijksconsultants.nl)| || |:white_check_mark: | | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |Bootstrap HSTS|Vacatures - Rijk...|
+|[https://rijksconsultants.nl](https://rijksconsultants.nl)| |Microsoft-IIS/10...| |:white_check_mark: |:warning: | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |HSTS IIS:10.0 Windows Server|Document Moved|
+|[https://www.rijksconsultants.nl](https://www.rijksconsultants.nl)| |Microsoft-IIS/10...| |:white_check_mark: |:warning: | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |HSTS IIS:10.0 Windows Server|Document Moved|

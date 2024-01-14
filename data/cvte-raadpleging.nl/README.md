@@ -9,8 +9,8 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://2018.cvte-raadpleging.nl](https://2018.cvte-raadpleging.nl)| |nginx| | | | | |:white_check_mark: |HSTS Nginx|404 Not Found|
-|[https://nieuwsbrief.cvte-raadpleging.nl](https://nieuwsbrief.cvte-raadpleging.nl)| || | | | | |:white_check_mark: ||404 Not Found|
-|[http://www.cvte-raadpleging.nl](http://www.cvte-raadpleging.nl)| |Apache| | | | | |:white_check_mark: |Apache HTTP Serv...|geregistreerd vi...|
-|[http://cvte-raadpleging.nl](http://cvte-raadpleging.nl)| |Apache| | | | | |:white_check_mark: |Apache HTTP Serv...|geregistreerd vi...|
-|[https://18.cvte-raadpleging.nl](https://18.cvte-raadpleging.nl)| |nginx| | | | | |:white_check_mark: |HSTS Nginx|404 Not Found|
+|[https://2018.cvte-raadpleging.nl](https://2018.cvte-raadpleging.nl)| |nginx| | | | | | 3:white_check_mark: |HSTS Nginx|404 Not Found|
+|[https://nieuwsbrief.cvte-raadpleging.nl](https://nieuwsbrief.cvte-raadpleging.nl)| || | | | | | 3:white_check_mark: ||404 Not Found|
+|[http://www.cvte-raadpleging.nl](http://www.cvte-raadpleging.nl)| |Apache| | | | | | 3:white_check_mark: |Apache HTTP Server Bootstrap:4.3.1 PHP:7.4.33 Varnish|geregistreerd vi...|
+|[http://cvte-raadpleging.nl](http://cvte-raadpleging.nl)| |Apache| | | | | | 3:white_check_mark: |Apache HTTP Server Bootstrap:4.3.1 PHP:7.4.33 Varnish|geregistreerd vi...|
+|[https://18.cvte-raadpleging.nl](https://18.cvte-raadpleging.nl)| |nginx| | | | | | 3:white_check_mark: |HSTS Nginx|404 Not Found|

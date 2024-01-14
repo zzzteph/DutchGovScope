@@ -9,6 +9,6 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://magazines.openbaarministerie.nl](https://magazines.openbaarministerie.nl)| |nginx| |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Bloomreach HSTS...|Kiosk | Magazine...|
-|[https://www.openbaarministerie.nl](https://www.openbaarministerie.nl)| || |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |||
-|[https://openbaarministerie.nl](https://openbaarministerie.nl)| || |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |||
+|[https://magazines.openbaarministerie.nl](https://magazines.openbaarministerie.nl)| |nginx| |:white_check_mark: |:warning: | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |Bloomreach HSTS Nginx|Kiosk | Magazine...|
+|[https://www.openbaarministerie.nl](https://www.openbaarministerie.nl)| || |:white_check_mark: |:warning: | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |||
+|[https://openbaarministerie.nl](https://openbaarministerie.nl)| || |:white_check_mark: |:warning: | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |||

@@ -9,5 +9,5 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://weekvandeintegriteitrijk.nl](https://weekvandeintegriteitrijk.nl)| |Apache/2|:white_check_mark: |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache HTTP Serv...|301 Moved Perman...|
-|[https://www.weekvandeintegriteitrijk.nl](https://www.weekvandeintegriteitrijk.nl)| |Apache/2|:white_check_mark: |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache HTTP Serv...|Programma - De W...|
+|[https://weekvandeintegriteitrijk.nl](https://weekvandeintegriteitrijk.nl)| |Apache/2|:white_check_mark: |:white_check_mark: |:warning: | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |Apache HTTP Server:2 HSTS|301 Moved Perman...|
+|[https://www.weekvandeintegriteitrijk.nl](https://www.weekvandeintegriteitrijk.nl)| |Apache/2|:white_check_mark: |:white_check_mark: |:warning: | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |Apache HTTP Server:2 Bootstrap HSTS|Programma - De W...|

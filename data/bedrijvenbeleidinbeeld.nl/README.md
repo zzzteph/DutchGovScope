@@ -9,7 +9,7 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://feeds.bedrijvenbeleidinbeeld.nl](https://feeds.bedrijvenbeleidinbeeld.nl)| $${\color{green}A+}$$ |nginx| |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx||
-|[https://opendata.bedrijvenbeleidinbeeld.nl](https://opendata.bedrijvenbeleidinbeeld.nl)| $${\color{green}A+}$$ |nginx| |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx||
-|[https://www.bedrijvenbeleidinbeeld.nl](https://www.bedrijvenbeleidinbeeld.nl)| |nginx| |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Bloomreach HSTS...|Home | Bedrijven...|
-|[https://bedrijvenbeleidinbeeld.nl](https://bedrijvenbeleidinbeeld.nl)| $${\color{green}A+}$$ |nginx| |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx|301 Moved Perman...|
+|[https://feeds.bedrijvenbeleidinbeeld.nl](https://feeds.bedrijvenbeleidinbeeld.nl)| $${\color{green}A+}$$ |nginx| |:white_check_mark: | | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |HSTS Nginx||
+|[https://opendata.bedrijvenbeleidinbeeld.nl](https://opendata.bedrijvenbeleidinbeeld.nl)| $${\color{green}A+}$$ |nginx| |:white_check_mark: | | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |HSTS Nginx||
+|[https://www.bedrijvenbeleidinbeeld.nl](https://www.bedrijvenbeleidinbeeld.nl)| |nginx| |:white_check_mark: |:warning: | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |Bloomreach HSTS Nginx|Home | Bedrijven...|
+|[https://bedrijvenbeleidinbeeld.nl](https://bedrijvenbeleidinbeeld.nl)| $${\color{green}A+}$$ |nginx| |:white_check_mark: |:warning: | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |HSTS Nginx|301 Moved Perman...|

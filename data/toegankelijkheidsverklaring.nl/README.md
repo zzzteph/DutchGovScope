@@ -9,9 +9,9 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://acc.toegankelijkheidsverklaring.nl](https://acc.toegankelijkheidsverklaring.nl)| |nginx| | | | | |:white_check_mark: |Drupal:10 HSTS N...|Home | Forum Sta...|
-|[https://acc-dictu.toegankelijkheidsverklaring.nl](https://acc-dictu.toegankelijkheidsverklaring.nl)| |nginx| | | |:white_check_mark: |:white_check_mark: |:white_check_mark: |Drupal:10 Nginx...|ACC toegankelijk...|
-|[https://prod-dictu.toegankelijkheidsverklaring.nl](https://prod-dictu.toegankelijkheidsverklaring.nl)| |nginx| | | | | |:white_check_mark: |Drupal:10 HSTS N...|Home | Forum Sta...|
-|[https://test-dictu.toegankelijkheidsverklaring.nl](https://test-dictu.toegankelijkheidsverklaring.nl)| |nginx| | | |:white_check_mark: |:white_check_mark: |:white_check_mark: |Drupal:10 Nginx...|TEST toegankelij...|
-|[https://www.toegankelijkheidsverklaring.nl](https://www.toegankelijkheidsverklaring.nl)| |nginx| |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |Drupal:10 HSTS N...|Invulassistent T...|
-|[https://toegankelijkheidsverklaring.nl](https://toegankelijkheidsverklaring.nl)| |nginx| |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |Drupal:10 HSTS N...|Invulassistent T...|
+|[https://acc.toegankelijkheidsverklaring.nl](https://acc.toegankelijkheidsverklaring.nl)| |nginx| | | | | | 3:white_check_mark: |Drupal:10 HSTS Nginx PHP|Home | Forum Sta...|
+|[https://acc-dictu.toegankelijkheidsverklaring.nl](https://acc-dictu.toegankelijkheidsverklaring.nl)| |nginx| | | | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |Drupal:10 Nginx PHP|ACC toegankelijk...|
+|[https://prod-dictu.toegankelijkheidsverklaring.nl](https://prod-dictu.toegankelijkheidsverklaring.nl)| |nginx| | | | | | 3:white_check_mark: |Drupal:10 HSTS Nginx PHP|Home | Forum Sta...|
+|[https://test-dictu.toegankelijkheidsverklaring.nl](https://test-dictu.toegankelijkheidsverklaring.nl)| |nginx| | | | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |Drupal:10 Nginx PHP|TEST toegankelij...|
+|[https://www.toegankelijkheidsverklaring.nl](https://www.toegankelijkheidsverklaring.nl)| |nginx| |:white_check_mark: | | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |Drupal:10 HSTS Nginx PHP|Invulassistent T...|
+|[https://toegankelijkheidsverklaring.nl](https://toegankelijkheidsverklaring.nl)| |nginx| |:white_check_mark: | | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |Drupal:10 HSTS Nginx PHP|Invulassistent T...|

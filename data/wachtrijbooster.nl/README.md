@@ -9,6 +9,6 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://wachtrijbooster.nl](https://wachtrijbooster.nl)| |cloudflare| | | |:white_check_mark: | |:white_check_mark: |Cloudflare HTTP/...|Attention Requir...|
-|[https://aanmelden.wachtrijbooster.nl](https://aanmelden.wachtrijbooster.nl)| |cloudflare| |:white_check_mark: | | | |:white_check_mark: |Cloudflare HTTP/...||
-|[https://www.wachtrijbooster.nl](https://www.wachtrijbooster.nl)| |cloudflare| | | |:white_check_mark: |:white_check_mark: |:white_check_mark: |Cloudflare HTTP/...|Online een afspr...|
+|[https://wachtrijbooster.nl](https://wachtrijbooster.nl)| |cloudflare| | | | 1:white_check_mark: | | 3:white_check_mark: |Cloudflare HTTP/3|Attention Requir...|
+|[https://aanmelden.wachtrijbooster.nl](https://aanmelden.wachtrijbooster.nl)| |cloudflare| |:white_check_mark: | | | | 3:white_check_mark: |Cloudflare HTTP/3||
+|[https://www.wachtrijbooster.nl](https://www.wachtrijbooster.nl)| |cloudflare| | | | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |Cloudflare HTTP/3|Online een afspr...|

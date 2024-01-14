@@ -9,8 +9,8 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://duurzaam.woningmarktbeleid.nl](https://duurzaam.woningmarktbeleid.nl)| |Apache| | | | | |:white_check_mark: |Apache HTTP Serv...|404 Not Found|
-|[https://middensegment.woningmarktbeleid.nl](https://middensegment.woningmarktbeleid.nl)| |Apache| | | | | |:white_check_mark: |Apache HTTP Serv...|404 Not Found|
-|[https://wonenenzorg.woningmarktbeleid.nl](https://wonenenzorg.woningmarktbeleid.nl)| |Apache| | | | | |:white_check_mark: |Apache HTTP Serv...|404 Not Found|
-|[https://www.woningmarktbeleid.nl](https://www.woningmarktbeleid.nl)| |Microsoft-IIS/10...| |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS IIS:10.0 Wi...|Document Moved|
-|[https://woningmarktbeleid.nl](https://woningmarktbeleid.nl)| |Microsoft-IIS/10...| |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS IIS:10.0 Wi...|Document Moved|
+|[https://duurzaam.woningmarktbeleid.nl](https://duurzaam.woningmarktbeleid.nl)| |Apache| | | | | | 3:white_check_mark: |Apache HTTP Server|404 Not Found|
+|[https://middensegment.woningmarktbeleid.nl](https://middensegment.woningmarktbeleid.nl)| |Apache| | | | | | 3:white_check_mark: |Apache HTTP Server|404 Not Found|
+|[https://wonenenzorg.woningmarktbeleid.nl](https://wonenenzorg.woningmarktbeleid.nl)| |Apache| | | | | | 3:white_check_mark: |Apache HTTP Server|404 Not Found|
+|[https://www.woningmarktbeleid.nl](https://www.woningmarktbeleid.nl)| |Microsoft-IIS/10...| |:white_check_mark: |:warning: | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |HSTS IIS:10.0 Windows Server|Document Moved|
+|[https://woningmarktbeleid.nl](https://woningmarktbeleid.nl)| |Microsoft-IIS/10...| |:white_check_mark: |:warning: | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |HSTS IIS:10.0 Windows Server|Document Moved|

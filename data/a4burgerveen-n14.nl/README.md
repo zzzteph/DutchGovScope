@@ -9,5 +9,5 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://www.a4burgerveen-n14.nl](https://www.a4burgerveen-n14.nl)| || | | | | |:white_check_mark: ||Document Moved|
-|[https://a4burgerveen-n14.nl](https://a4burgerveen-n14.nl)| || | | | | |:white_check_mark: ||Document Moved|
+|[https://www.a4burgerveen-n14.nl](https://www.a4burgerveen-n14.nl)| || | | | | | 3:white_check_mark: ||Document Moved|
+|[https://a4burgerveen-n14.nl](https://a4burgerveen-n14.nl)| || | | | | | 3:white_check_mark: ||Document Moved|

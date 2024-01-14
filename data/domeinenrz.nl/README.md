@@ -9,19 +9,19 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://afspraak.domeinenrz.nl](https://afspraak.domeinenrz.nl)| $${\color{green}A}$$ |Apache|:o: | | | | |:white_check_mark: |Apache HTTP Serv...|403 Forbidden|
-|[https://crl.domeinenrz.nl](https://crl.domeinenrz.nl)| |Apache| | | | | |:white_check_mark: |Apache HTTP Serv...|403 Forbidden|
-|[https://english.domeinenrz.nl](https://english.domeinenrz.nl)| $${\color{green}A+}$$ |nginx| |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Bloomreach HSTS...|Home | Movable P...|
-|[https://enterpriseregistration.domeinenrz.nl](https://enterpriseregistration.domeinenrz.nl)| || | | | | |:white_check_mark: |HSTS|Service|
-|[https://feeds.domeinenrz.nl](https://feeds.domeinenrz.nl)| $${\color{green}A+}$$ |nginx| |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx||
-|[https://feeds.english.domeinenrz.nl](https://feeds.english.domeinenrz.nl)| $${\color{green}A+}$$ |nginx| |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx||
-|[https://mail.domeinenrz.nl](https://mail.domeinenrz.nl)| |Microsoft-HTTPAP...| | | | | |:white_check_mark: |Microsoft HTTPAP...|Not Found|
-|[https://ndes.domeinenrz.nl](https://ndes.domeinenrz.nl)| |Apache| | | | | |:white_check_mark: |Apache HTTP Serv...|403 Forbidden|
-|[https://opendata.domeinenrz.nl](https://opendata.domeinenrz.nl)| $${\color{green}A+}$$ |nginx| |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx||
-|[https://opendata.english.domeinenrz.nl](https://opendata.english.domeinenrz.nl)| $${\color{green}A+}$$ |nginx| |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx||
-|[https://ras.domeinenrz.nl](https://ras.domeinenrz.nl)| $${\color{green}A}$$ |Microsoft-HTTPAP...| | | | | |:white_check_mark: |Microsoft HTTPAP...|Not Found|
-|[https://verkoop.domeinenrz.nl](https://verkoop.domeinenrz.nl)| $${\color{green}A+}$$ |Apache|:white_check_mark: |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache HTTP Serv...|Verkoop bij insc...|
-|[https://verkooptest.domeinenrz.nl](https://verkooptest.domeinenrz.nl)| $${\color{lightgreen}B}$$ |Apache|:white_check_mark: |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache HTTP Serv...||
-|[https://vuurwerk.domeinenrz.nl](https://vuurwerk.domeinenrz.nl)| $${\color{green}A}$$ |Apache| | | | | |:white_check_mark: |Apache HTTP Serv...|401 Unauthorized|
-|[https://www.domeinenrz.nl](https://www.domeinenrz.nl)| $${\color{green}A+}$$ |nginx| |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Bloomreach HSTS...|Home | Domeinen...|
-|[https://domeinenrz.nl](https://domeinenrz.nl)| $${\color{green}A+}$$ |nginx| |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx|301 Moved Perman...|
+|[https://afspraak.domeinenrz.nl](https://afspraak.domeinenrz.nl)| $${\color{green}A}$$ |Apache|:o: | | | | | 3:white_check_mark: |Apache HTTP Server|403 Forbidden|
+|[https://crl.domeinenrz.nl](https://crl.domeinenrz.nl)| |Apache| | | | | | 3:white_check_mark: |Apache HTTP Server|403 Forbidden|
+|[https://english.domeinenrz.nl](https://english.domeinenrz.nl)| $${\color{green}A+}$$ |nginx| |:white_check_mark: |:warning: | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |Bloomreach HSTS Nginx|Home | Movable P...|
+|[https://enterpriseregistration.domeinenrz.nl](https://enterpriseregistration.domeinenrz.nl)| || | | | | | 3:white_check_mark: |HSTS|Service|
+|[https://feeds.domeinenrz.nl](https://feeds.domeinenrz.nl)| $${\color{green}A+}$$ |nginx| |:white_check_mark: | | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |HSTS Nginx||
+|[https://feeds.english.domeinenrz.nl](https://feeds.english.domeinenrz.nl)| $${\color{green}A+}$$ |nginx| |:white_check_mark: | | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |HSTS Nginx||
+|[https://mail.domeinenrz.nl](https://mail.domeinenrz.nl)| |Microsoft-HTTPAP...| | | | | | 3:white_check_mark: |Microsoft HTTPAPI:2.0|Not Found|
+|[https://ndes.domeinenrz.nl](https://ndes.domeinenrz.nl)| |Apache| | | | | | 3:white_check_mark: |Apache HTTP Server|403 Forbidden|
+|[https://opendata.domeinenrz.nl](https://opendata.domeinenrz.nl)| $${\color{green}A+}$$ |nginx| |:white_check_mark: | | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |HSTS Nginx||
+|[https://opendata.english.domeinenrz.nl](https://opendata.english.domeinenrz.nl)| $${\color{green}A+}$$ |nginx| |:white_check_mark: | | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |HSTS Nginx||
+|[https://ras.domeinenrz.nl](https://ras.domeinenrz.nl)| $${\color{green}A}$$ |Microsoft-HTTPAP...| | | | | | 3:white_check_mark: |Microsoft HTTPAPI:2.0|Not Found|
+|[https://verkoop.domeinenrz.nl](https://verkoop.domeinenrz.nl)| $${\color{green}A+}$$ |Apache|:white_check_mark: |:white_check_mark: | | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |Apache HTTP Server HSTS PHP|Verkoop bij insc...|
+|[https://verkooptest.domeinenrz.nl](https://verkooptest.domeinenrz.nl)| $${\color{lightgreen}B}$$ |Apache|:white_check_mark: |:white_check_mark: | | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |Apache HTTP Server Basic HSTS||
+|[https://vuurwerk.domeinenrz.nl](https://vuurwerk.domeinenrz.nl)| $${\color{green}A}$$ |Apache| | | | | | 3:white_check_mark: |Apache HTTP Server Basic|401 Unauthorized|
+|[https://www.domeinenrz.nl](https://www.domeinenrz.nl)| $${\color{green}A+}$$ |nginx| |:white_check_mark: |:warning: | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |Bloomreach HSTS Nginx|Home | Domeinen...|
+|[https://domeinenrz.nl](https://domeinenrz.nl)| $${\color{green}A+}$$ |nginx| |:white_check_mark: |:warning: | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |HSTS Nginx|301 Moved Perman...|

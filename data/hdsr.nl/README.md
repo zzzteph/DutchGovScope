@@ -9,29 +9,29 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://werkplek.hdsr.nl](https://werkplek.hdsr.nl)| |BigIP|:warning: |:white_check_mark: | |:white_check_mark: | |:white_check_mark: |F5 BigIP||
-|[https://zaaksysteem.hdsr.nl](https://zaaksysteem.hdsr.nl)| ||:white_check_mark: |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|Moved|
-|[https://ftp-hdsr.hdsr.nl](https://ftp-hdsr.hdsr.nl)| |xxxx|:white_check_mark: |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Java|User Portal|
-|[https://loket-acc.hdsr.nl](https://loket-acc.hdsr.nl)| |Apache| | | | | |:white_check_mark: |Apache HTTP Serv...|302 Found|
-|[https://cawfirewall.hdsr.nl](https://cawfirewall.hdsr.nl)| |xxxx|:white_check_mark: |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Java|User Portal|
-|[https://testbegrippen.hdsr.nl](https://testbegrippen.hdsr.nl)| || | | | | |:white_check_mark: |Basic||
-|[https://loket.hdsr.nl](https://loket.hdsr.nl)| |Apache| |:white_check_mark: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache HTTP Serv...|302 Found|
-|[https://uconnect.hdsr.nl](https://uconnect.hdsr.nl)| |Apache| | | | | |:white_check_mark: |Apache HTTP Serv...|403 Forbidden|
-|[https://webservices.hdsr.nl](https://webservices.hdsr.nl)| |Apache| | | | | |:white_check_mark: |Apache HTTP Serv...|403 Forbidden|
-|[http://autodiscover.hdsr.nl](http://autodiscover.hdsr.nl)| |Microsoft-IIS/10...|:white_check_mark: |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |IIS:10.0 Microso...||
-|[https://mrb.hdsr.nl](https://mrb.hdsr.nl)| |Apache| | | | | |:white_check_mark: |Apache HTTP Serv...|403 Forbidden|
-|[https://testkennis.hdsr.nl](https://testkennis.hdsr.nl)| |Apache| |:white_check_mark: | |:white_check_mark: | |:white_check_mark: |Apache HTTP Serv...||
-|[https://geoweb.hdsr.nl](https://geoweb.hdsr.nl)| |Apache| | | | | |:white_check_mark: |Apache HTTP Serv...|403 Forbidden|
-|[http://www1.hdsr.nl](http://www1.hdsr.nl)| |Microsoft-HTTPAP...| | | | | |:white_check_mark: |Microsoft HTTPAP...|Not Found|
-|[https://kennis.hdsr.nl](https://kennis.hdsr.nl)| |Apache| |:white_check_mark: | |:white_check_mark: | |:white_check_mark: |Apache HTTP Serv...||
-|[https://kaarten.hdsr.nl](https://kaarten.hdsr.nl)| |Apache| | | | | |:white_check_mark: |Apache HTTP Serv...|403 Forbidden|
-|[https://begrippen.hdsr.nl](https://begrippen.hdsr.nl)| |Apache| |:white_check_mark: | |:white_check_mark: | |:white_check_mark: |Apache HTTP Serv...||
-|[https://zaaksysteem-acc.hdsr.nl](https://zaaksysteem-acc.hdsr.nl)| ||:white_check_mark: |:white_check_mark: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|Moved|
-|[http://zoeken.hdsr.nl](http://zoeken.hdsr.nl)| |-| | | | | |:white_check_mark: |Microsoft ASP.NE...|Document Moved|
-|[https://uconnect-acc.hdsr.nl](https://uconnect-acc.hdsr.nl)| |Apache| | | | | |:white_check_mark: |Apache HTTP Serv...|403 Forbidden|
-|[https://wsus.hdsr.nl](https://wsus.hdsr.nl)| |xxxx|:white_check_mark: |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Java|User Portal|
-|[https://remote-pa.hdsr.nl](https://remote-pa.hdsr.nl)| |xxxxxxxx-xxxxx| | | | | |:white_check_mark: |HSTS||
-|[https://geoservices.hdsr.nl](https://geoservices.hdsr.nl)| |Apache| | | | | |:white_check_mark: |Apache HTTP Serv...|IIS Windows Serv...|
-|[https://hdsr.nl](https://hdsr.nl)| |-| |:white_check_mark: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Microsoft A...|Object moved|
-|[https://kantoor.hdsr.nl](https://kantoor.hdsr.nl)| |xxxx|:white_check_mark: |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Java|User Portal|
-|[https://intranet.ad.hdsr.nl](https://intranet.ad.hdsr.nl)| |-|:white_check_mark: |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |Microsoft ASP.NE...|Object moved|
+|[https://werkplek.hdsr.nl](https://werkplek.hdsr.nl)| |BigIP|:warning: |:white_check_mark: | | 1:white_check_mark: | | 3:white_check_mark: |F5 BigIP||
+|[https://zaaksysteem.hdsr.nl](https://zaaksysteem.hdsr.nl)| ||:white_check_mark: |:white_check_mark: | | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |HSTS|Moved|
+|[https://ftp-hdsr.hdsr.nl](https://ftp-hdsr.hdsr.nl)| |xxxx|:white_check_mark: |:white_check_mark: |:warning: | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |HSTS Java|User Portal|
+|[https://loket-acc.hdsr.nl](https://loket-acc.hdsr.nl)| |Apache| | | | | | 3:white_check_mark: |Apache HTTP Server HSTS|302 Found|
+|[https://cawfirewall.hdsr.nl](https://cawfirewall.hdsr.nl)| |xxxx|:white_check_mark: |:white_check_mark: |:warning: | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |HSTS Java|User Portal|
+|[https://testbegrippen.hdsr.nl](https://testbegrippen.hdsr.nl)| || | | | | | 3:white_check_mark: |Basic||
+|[https://loket.hdsr.nl](https://loket.hdsr.nl)| |Apache| |:white_check_mark: | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |Apache HTTP Server HSTS|302 Found|
+|[https://uconnect.hdsr.nl](https://uconnect.hdsr.nl)| |Apache| | | | | | 3:white_check_mark: |Apache HTTP Server|403 Forbidden|
+|[https://webservices.hdsr.nl](https://webservices.hdsr.nl)| |Apache| | | | | | 3:white_check_mark: |Apache HTTP Server|403 Forbidden|
+|[http://autodiscover.hdsr.nl](http://autodiscover.hdsr.nl)| |Microsoft-IIS/10...|:white_check_mark: |:white_check_mark: | | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |IIS:10.0 Microsoft ASP.NET Windows Server||
+|[https://mrb.hdsr.nl](https://mrb.hdsr.nl)| |Apache| | | | | | 3:white_check_mark: |Apache HTTP Server|403 Forbidden|
+|[https://testkennis.hdsr.nl](https://testkennis.hdsr.nl)| |Apache| |:white_check_mark: | | 1:white_check_mark: | | 3:white_check_mark: |Apache HTTP Server HSTS||
+|[https://geoweb.hdsr.nl](https://geoweb.hdsr.nl)| |Apache| | | | | | 3:white_check_mark: |Apache HTTP Server|403 Forbidden|
+|[http://www1.hdsr.nl](http://www1.hdsr.nl)| |Microsoft-HTTPAP...| | | | | | 3:white_check_mark: |Microsoft HTTPAPI:2.0|Not Found|
+|[https://kennis.hdsr.nl](https://kennis.hdsr.nl)| |Apache| |:white_check_mark: | | 1:white_check_mark: | | 3:white_check_mark: |Apache HTTP Server HSTS||
+|[https://kaarten.hdsr.nl](https://kaarten.hdsr.nl)| |Apache| | | | | | 3:white_check_mark: |Apache HTTP Server|403 Forbidden|
+|[https://begrippen.hdsr.nl](https://begrippen.hdsr.nl)| |Apache| |:white_check_mark: | | 1:white_check_mark: | | 3:white_check_mark: |Apache HTTP Server HSTS||
+|[https://zaaksysteem-acc.hdsr.nl](https://zaaksysteem-acc.hdsr.nl)| ||:white_check_mark: |:white_check_mark: | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |HSTS|Moved|
+|[http://zoeken.hdsr.nl](http://zoeken.hdsr.nl)| |-| | | | | | 3:white_check_mark: |Microsoft ASP.NET:-|Document Moved|
+|[https://uconnect-acc.hdsr.nl](https://uconnect-acc.hdsr.nl)| |Apache| | | | | | 3:white_check_mark: |Apache HTTP Server|403 Forbidden|
+|[https://wsus.hdsr.nl](https://wsus.hdsr.nl)| |xxxx|:white_check_mark: |:white_check_mark: |:warning: | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |HSTS Java|User Portal|
+|[https://remote-pa.hdsr.nl](https://remote-pa.hdsr.nl)| |xxxxxxxx-xxxxx| | | | | | 3:white_check_mark: |HSTS||
+|[https://geoservices.hdsr.nl](https://geoservices.hdsr.nl)| |Apache| | | | | | 3:white_check_mark: |Apache HTTP Server Microsoft ASP.NET|IIS Windows Serv...|
+|[https://hdsr.nl](https://hdsr.nl)| |-| |:white_check_mark: | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |HSTS Microsoft ASP.NET:-|Object moved|
+|[https://kantoor.hdsr.nl](https://kantoor.hdsr.nl)| |xxxx|:white_check_mark: |:white_check_mark: |:warning: | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |HSTS Java|User Portal|
+|[https://intranet.ad.hdsr.nl](https://intranet.ad.hdsr.nl)| |-|:white_check_mark: |:white_check_mark: | | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |Microsoft ASP.NET:-|Object moved|

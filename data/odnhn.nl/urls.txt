@@ -1,7 +1,8 @@
 https://enterpriseenrollment.odnhn.nl
 https://www.odnhn.nl
 https://intranet.odnhn.nl
-https://test-cmsintranet.odnhn.nl
+http://test-intranet.odnhn.nl
+http://test-cmsintranet.odnhn.nl
 https://vpn.odnhn.nl
 https://liquit.odnhn.nl
 https://cmsintranet.odnhn.nl

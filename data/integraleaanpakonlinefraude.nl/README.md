@@ -9,5 +9,5 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://integraleaanpakonlinefraude.nl](https://integraleaanpakonlinefraude.nl)| ||:white_check_mark: |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache Tomcat Fo...|Integrale aanpak...|
-|[https://www.integraleaanpakonlinefraude.nl](https://www.integraleaanpakonlinefraude.nl)| ||:white_check_mark: |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS||
+|[https://integraleaanpakonlinefraude.nl](https://integraleaanpakonlinefraude.nl)| ||:white_check_mark: |:white_check_mark: |:warning: | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |Apache Tomcat Fourthwall:1.0.0 HSTS Java MariaDB Skolengo:1.0.0|Integrale aanpak...|
+|[https://www.integraleaanpakonlinefraude.nl](https://www.integraleaanpakonlinefraude.nl)| ||:white_check_mark: |:white_check_mark: |:warning: | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |HSTS||

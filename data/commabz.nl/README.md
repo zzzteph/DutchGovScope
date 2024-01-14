@@ -9,8 +9,8 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://accept.commabz.nl](https://accept.commabz.nl)| |Apache| |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache HTTP Serv...|Doorverwijspagin...|
-|[https://develop.commabz.nl](https://develop.commabz.nl)| |Microsoft-Azure-...| | | | | |:white_check_mark: ||403 Forbidden|
-|[https://test.commabz.nl](https://test.commabz.nl)| |Apache| |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache HTTP Serv...|Doorverwijspagin...|
-|[https://www.commabz.nl](https://www.commabz.nl)| |Apache| | | | | |:white_check_mark: |Apache HTTP Serv...|Doorverwijspagin...|
-|[https://commabz.nl](https://commabz.nl)| |Apache| |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache HTTP Serv...|Doorverwijspagin...|
+|[https://accept.commabz.nl](https://accept.commabz.nl)| |Apache| |:white_check_mark: |:warning: | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |Apache HTTP Server HSTS Moodle PHP|Doorverwijspagin...|
+|[https://develop.commabz.nl](https://develop.commabz.nl)| |Microsoft-Azure-...| | | | | | 3:white_check_mark: ||403 Forbidden|
+|[https://test.commabz.nl](https://test.commabz.nl)| |Apache| |:white_check_mark: |:warning: | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |Apache HTTP Server HSTS Moodle PHP|Doorverwijspagin...|
+|[https://www.commabz.nl](https://www.commabz.nl)| |Apache| | | | | | 3:white_check_mark: |Apache HTTP Server HSTS|Doorverwijspagin...|
+|[https://commabz.nl](https://commabz.nl)| |Apache| |:white_check_mark: |:warning: | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |Apache HTTP Server HSTS Moodle PHP|Doorverwijspagin...|

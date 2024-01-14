@@ -13547,7 +13547,6 @@ jupyter.bdds.rijkscloud.nl
 jupyter.cursus.rijkscloud.nl
 jupyter.dctplg1.ix.rijkscloud.nl
 jupyter.demo.ix.rijkscloud.nl
-jupyter.dgdoobi.rijkscloud.nl
 jupyter.ds-ocw.rijkscloud.nl
 jupyter.ds-ocw2.rijkscloud.nl
 jupyter.ds-test.ilt.rijkscloud.nl
@@ -13705,7 +13704,6 @@ rstudio.azure.ix.rijkscloud.nl
 rstudio.bdds.rijkscloud.nl
 rstudio.cursus.rijkscloud.nl
 rstudio.dctplg1.ix.rijkscloud.nl
-rstudio.dgdoobi.rijkscloud.nl
 rstudio.ds-ocw.rijkscloud.nl
 rstudio.ds-ocw2.rijkscloud.nl
 rstudio.ds-test.ilt.rijkscloud.nl
@@ -14887,7 +14885,6 @@ one-conference.nl
 wcag-2.1-inspectie-www.one-conference.nl
 www.amlc.nl
 amlc.nl
-21www.amlc.nl
 8www.amlc.nl
 www.cibgacademie.nl
 cibgacademie.nl
@@ -15193,8 +15190,10 @@ www.validatie.nl
 validatie.nl
 tickets.bdmuseum.nl
 www.bdmuseum.nl
+www.bdreauconseilw.bdmuseum.nl
 bdmuseum.nl
 bdmuseum.nlwww.bdmuseum.nl
+rotterdamwww.bdmuseum.nl
 check.opwegnaarzes.nl
 kentekencheck.opwegnaarzes.nl
 staging.opwegnaarzes.nl
@@ -15336,10 +15335,6 @@ cvte-raadpleging.nl
 mail.datachallenge.nl
 www.datachallenge.nl
 datachallenge.nl
-kennis.fiod.nl
-platformafpakken.fiod.nl
-www.fiod.nl
-fiod.nl
 grknmi.nl
 www.grknmi.nl
 mail.grknmi.nl

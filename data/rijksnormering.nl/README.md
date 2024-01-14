@@ -9,5 +9,5 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://www.rijksnormering.nl](https://www.rijksnormering.nl)| |prod| |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS||
-|[https://rijksnormering.nl](https://rijksnormering.nl)| |prod| |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS||
+|[https://www.rijksnormering.nl](https://www.rijksnormering.nl)| |prod| |:white_check_mark: | | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |HSTS||
+|[https://rijksnormering.nl](https://rijksnormering.nl)| |prod| |:white_check_mark: | | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |HSTS||

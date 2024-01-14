@@ -9,5 +9,5 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://www.cybersecurityalliantie.nl](https://www.cybersecurityalliantie.nl)| |Apache| |:white_check_mark: | | | |:white_check_mark: |Apache HTTP Serv...|Home - Cybersecu...|
-|[https://cybersecurityalliantie.nl](https://cybersecurityalliantie.nl)| |Apache| |:white_check_mark: | | | |:white_check_mark: |Apache HTTP Serv...||
+|[https://www.cybersecurityalliantie.nl](https://www.cybersecurityalliantie.nl)| |Apache| |:white_check_mark: | | | | 3:white_check_mark: |Apache HTTP Server HSTS MySQL PHP WordPress|Home - Cybersecu...|
+|[https://cybersecurityalliantie.nl](https://cybersecurityalliantie.nl)| |Apache| |:white_check_mark: | | | | 3:white_check_mark: |Apache HTTP Server HSTS||

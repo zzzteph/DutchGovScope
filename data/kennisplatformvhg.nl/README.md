@@ -9,5 +9,5 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
-|[http://www.kennisplatformvhg.nl](http://www.kennisplatformvhg.nl)| || | | | | |:white_check_mark: |||
-|[https://kennisplatformvhg.nl](https://kennisplatformvhg.nl)| |Apache| |:white_check_mark: | | | |:white_check_mark: |Apache HTTP Serv...||
+|[http://www.kennisplatformvhg.nl](http://www.kennisplatformvhg.nl)| || | | | | | 3:white_check_mark: |||
+|[https://kennisplatformvhg.nl](https://kennisplatformvhg.nl)| |Apache| |:white_check_mark: | | | | 3:white_check_mark: |Apache HTTP Server HSTS||

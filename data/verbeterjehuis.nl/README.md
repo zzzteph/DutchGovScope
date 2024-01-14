@@ -9,7 +9,7 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://www.verbeterjehuis.nl](https://www.verbeterjehuis.nl)| |cloudflare| |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Cloudflare HSTS|Alles over je hu...|
-|[https://energyportpeelland.verbeterjehuis.nl](https://energyportpeelland.verbeterjehuis.nl)| || | | | | |:white_check_mark: ||Microsoft Azure...|
-|[https://verbeterjehuis.nl](https://verbeterjehuis.nl)| |cloudflare| |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Cloudflare HSTS||
-|[https://groenesubsidiewijzer.verbeterjehuis.nl](https://groenesubsidiewijzer.verbeterjehuis.nl)| |cloudflare| |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Cloudflare HSTS|Object moved|
+|[https://www.verbeterjehuis.nl](https://www.verbeterjehuis.nl)| |cloudflare| |:white_check_mark: |:warning: | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |Cloudflare HSTS|Alles over je hu...|
+|[https://energyportpeelland.verbeterjehuis.nl](https://energyportpeelland.verbeterjehuis.nl)| || | | | | | 3:white_check_mark: ||Microsoft Azure...|
+|[https://verbeterjehuis.nl](https://verbeterjehuis.nl)| |cloudflare| |:white_check_mark: |:warning: | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |Cloudflare HSTS||
+|[https://groenesubsidiewijzer.verbeterjehuis.nl](https://groenesubsidiewijzer.verbeterjehuis.nl)| |cloudflare| |:white_check_mark: |:warning: | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |Cloudflare HSTS|Object moved|

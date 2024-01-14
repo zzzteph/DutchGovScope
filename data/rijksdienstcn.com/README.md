@@ -9,20 +9,20 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://english.rijksdienstcn.com](https://english.rijksdienstcn.com)| |nginx| |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Bloomreach HSTS...|Home | Rijksdien...|
-|[https://www.rijksdienstcn.com](https://www.rijksdienstcn.com)| |nginx| |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Bloomreach HSTS...|Home | Rijksdien...|
-|[https://vpnbon.rijksdienstcn.com](https://vpnbon.rijksdienstcn.com)| |xxxxxxxx-xxxxx| | | | | |:white_check_mark: |HSTS||
-|[https://fs.rijksdienstcn.com](https://fs.rijksdienstcn.com)| |Microsoft-HTTPAP...| | | |:white_check_mark: | |:white_check_mark: |Microsoft HTTPAP...||
-|[https://papiamentu.rijksdienstcn.com](https://papiamentu.rijksdienstcn.com)| |nginx| |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Bloomreach HSTS...|Home | Rijksdien...|
-|[https://push.rijksdienstcn.com](https://push.rijksdienstcn.com)| || | | | | |:white_check_mark: |HSTS|Home (werkenbij)...|
-|[https://feeds.papiamentu.rijksdienstcn.com](https://feeds.papiamentu.rijksdienstcn.com)| |nginx| |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx||
-|[https://portal.rijksdienstcn.com](https://portal.rijksdienstcn.com)| |xxxxxxxx-xxxxx| | | | | |:white_check_mark: |HSTS||
-|[https://fileshare.rijksdienstcn.com](https://fileshare.rijksdienstcn.com)| |CerberusFTPServe...|:white_check_mark: | |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: ||302 Redirected|
-|[https://opendata.english.rijksdienstcn.com](https://opendata.english.rijksdienstcn.com)| |nginx| |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx||
-|[https://opendata.rijksdienstcn.com](https://opendata.rijksdienstcn.com)| |nginx| |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx||
-|[https://feeds.rijksdienstcn.com](https://feeds.rijksdienstcn.com)| |nginx| |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx||
-|[https://opendata.papiamentu.rijksdienstcn.com](https://opendata.papiamentu.rijksdienstcn.com)| |nginx| |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx||
-|[https://sso.rijksdienstcn.com](https://sso.rijksdienstcn.com)| ||:white_check_mark: | | |:white_check_mark: |:white_check_mark: |:white_check_mark: |||
-|[https://passwordreset.rijksdienstcn.com](https://passwordreset.rijksdienstcn.com)| |Microsoft-IIS/10...| | | | | |:white_check_mark: |HSTS IIS:10.0 Mi...|SSRPM Web Interf...|
-|[https://feeds.english.rijksdienstcn.com](https://feeds.english.rijksdienstcn.com)| |nginx| |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx||
-|[https://rijksdienstcn.com](https://rijksdienstcn.com)| |nginx| |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx|301 Moved Perman...|
+|[https://english.rijksdienstcn.com](https://english.rijksdienstcn.com)| |nginx| |:white_check_mark: |:warning: | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |Bloomreach HSTS Nginx|Home | Rijksdien...|
+|[https://www.rijksdienstcn.com](https://www.rijksdienstcn.com)| |nginx| |:white_check_mark: |:warning: | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |Bloomreach HSTS Nginx|Home | Rijksdien...|
+|[https://vpnbon.rijksdienstcn.com](https://vpnbon.rijksdienstcn.com)| |xxxxxxxx-xxxxx| | | | | | 3:white_check_mark: |HSTS||
+|[https://fs.rijksdienstcn.com](https://fs.rijksdienstcn.com)| |Microsoft-HTTPAP...| | | | 1:white_check_mark: | | 3:white_check_mark: |Microsoft HTTPAPI:2.0||
+|[https://papiamentu.rijksdienstcn.com](https://papiamentu.rijksdienstcn.com)| |nginx| |:white_check_mark: |:warning: | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |Bloomreach HSTS Nginx|Home | Rijksdien...|
+|[https://push.rijksdienstcn.com](https://push.rijksdienstcn.com)| || | | | | | 3:white_check_mark: |HSTS|Home (werkenbij)...|
+|[https://feeds.papiamentu.rijksdienstcn.com](https://feeds.papiamentu.rijksdienstcn.com)| |nginx| |:white_check_mark: | | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |HSTS Nginx||
+|[https://portal.rijksdienstcn.com](https://portal.rijksdienstcn.com)| |xxxxxxxx-xxxxx| | | | | | 3:white_check_mark: |HSTS||
+|[https://fileshare.rijksdienstcn.com](https://fileshare.rijksdienstcn.com)| |CerberusFTPServe...|:white_check_mark: | |:warning: | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: ||302 Redirected|
+|[https://opendata.english.rijksdienstcn.com](https://opendata.english.rijksdienstcn.com)| |nginx| |:white_check_mark: | | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |HSTS Nginx||
+|[https://opendata.rijksdienstcn.com](https://opendata.rijksdienstcn.com)| |nginx| |:white_check_mark: | | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |HSTS Nginx||
+|[https://feeds.rijksdienstcn.com](https://feeds.rijksdienstcn.com)| |nginx| |:white_check_mark: | | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |HSTS Nginx||
+|[https://opendata.papiamentu.rijksdienstcn.com](https://opendata.papiamentu.rijksdienstcn.com)| |nginx| |:white_check_mark: | | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |HSTS Nginx||
+|[https://sso.rijksdienstcn.com](https://sso.rijksdienstcn.com)| ||:white_check_mark: | | | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |||
+|[https://passwordreset.rijksdienstcn.com](https://passwordreset.rijksdienstcn.com)| |Microsoft-IIS/10...| | | | | | 3:white_check_mark: |HSTS IIS:10.0 Microsoft ASP.NET Windows Server|SSRPM Web Interf...|
+|[https://feeds.english.rijksdienstcn.com](https://feeds.english.rijksdienstcn.com)| |nginx| |:white_check_mark: | | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |HSTS Nginx||
+|[https://rijksdienstcn.com](https://rijksdienstcn.com)| |nginx| |:white_check_mark: |:warning: | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |HSTS Nginx|301 Moved Perman...|

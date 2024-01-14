@@ -9,6 +9,6 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://ledendomein.platformparticipatie.nl](https://ledendomein.platformparticipatie.nl)| |Microsoft-IIS/10...| |:white_check_mark: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS IIS:10.0 Wi...|403 - Forbidden:...|
-|[https://www.platformparticipatie.nl](https://www.platformparticipatie.nl)| || |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Microsoft A...|Object moved|
-|[https://platformparticipatie.nl](https://platformparticipatie.nl)| || |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Microsoft A...|Object moved|
+|[https://ledendomein.platformparticipatie.nl](https://ledendomein.platformparticipatie.nl)| |Microsoft-IIS/10...| |:white_check_mark: | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |HSTS IIS:10.0 Windows Server|403 - Forbidden:...|
+|[https://www.platformparticipatie.nl](https://www.platformparticipatie.nl)| || |:white_check_mark: | | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |HSTS Microsoft ASP.NET SDL Tridion|Object moved|
+|[https://platformparticipatie.nl](https://platformparticipatie.nl)| || |:white_check_mark: | | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |HSTS Microsoft ASP.NET SDL Tridion|Object moved|

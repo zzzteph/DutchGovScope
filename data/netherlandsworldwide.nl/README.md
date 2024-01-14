@@ -9,6 +9,6 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://preview.netherlandsworldwide.nl](https://preview.netherlandsworldwide.nl)| || |:white_check_mark: | | | |:white_check_mark: |HSTS||
-|[https://www.netherlandsworldwide.nl](https://www.netherlandsworldwide.nl)| || |:white_check_mark: |:white_check_mark: | |:white_check_mark: |Bloomreach HSTS...|Home | Netherlan...|
-|[https://netherlandsworldwide.nl](https://netherlandsworldwide.nl)| || |:white_check_mark: |:white_check_mark: | |:white_check_mark: |HSTS HTTP/3||
+|[https://preview.netherlandsworldwide.nl](https://preview.netherlandsworldwide.nl)| || |:white_check_mark: | | | | 3:white_check_mark: |HSTS||
+|[https://www.netherlandsworldwide.nl](https://www.netherlandsworldwide.nl)| || |:white_check_mark: | 1:white_check_mark: | | 3:white_check_mark: |Bloomreach HSTS HTTP/3|Home | Netherlan...|
+|[https://netherlandsworldwide.nl](https://netherlandsworldwide.nl)| || |:white_check_mark: | 1:white_check_mark: | | 3:white_check_mark: |HSTS HTTP/3||

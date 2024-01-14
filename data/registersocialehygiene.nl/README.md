@@ -9,13 +9,13 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://behandel.registersocialehygiene.nl](https://behandel.registersocialehygiene.nl)| |-| |:white_check_mark: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS||
-|[https://zoeken.registersocialehygiene.nl](https://zoeken.registersocialehygiene.nl)| |-| |:white_check_mark: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|Publiek|
-|[https://acceptatie.mijn.registersocialehygiene.nl](https://acceptatie.mijn.registersocialehygiene.nl)| |-| |:white_check_mark: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS||
-|[https://acceptatie.zoeken.registersocialehygiene.nl](https://acceptatie.zoeken.registersocialehygiene.nl)| |-| |:white_check_mark: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS||
-|[https://acceptatie.behandel.registersocialehygiene.nl](https://acceptatie.behandel.registersocialehygiene.nl)| |-| |:white_check_mark: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS||
-|[https://registersocialehygiene.nl](https://registersocialehygiene.nl)| |nginx| |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx|301 Moved Perman...|
-|[https://www.registersocialehygiene.nl](https://www.registersocialehygiene.nl)| |nginx| |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Bloomreach HSTS...|Home | Register...|
-|[https://mijn.registersocialehygiene.nl](https://mijn.registersocialehygiene.nl)| |-| |:white_check_mark: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|Inloggen|
-|[https://feeds.registersocialehygiene.nl](https://feeds.registersocialehygiene.nl)| |nginx| |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx||
-|[https://opendata.registersocialehygiene.nl](https://opendata.registersocialehygiene.nl)| |nginx| |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx||
+|[https://behandel.registersocialehygiene.nl](https://behandel.registersocialehygiene.nl)| |-| |:white_check_mark: | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |HSTS||
+|[https://zoeken.registersocialehygiene.nl](https://zoeken.registersocialehygiene.nl)| |-| |:white_check_mark: | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |HSTS|Publiek|
+|[https://acceptatie.mijn.registersocialehygiene.nl](https://acceptatie.mijn.registersocialehygiene.nl)| |-| |:white_check_mark: | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |HSTS||
+|[https://acceptatie.zoeken.registersocialehygiene.nl](https://acceptatie.zoeken.registersocialehygiene.nl)| |-| |:white_check_mark: | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |HSTS||
+|[https://acceptatie.behandel.registersocialehygiene.nl](https://acceptatie.behandel.registersocialehygiene.nl)| |-| |:white_check_mark: | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |HSTS||
+|[https://registersocialehygiene.nl](https://registersocialehygiene.nl)| |nginx| |:white_check_mark: |:warning: | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |HSTS Nginx|301 Moved Perman...|
+|[https://www.registersocialehygiene.nl](https://www.registersocialehygiene.nl)| |nginx| |:white_check_mark: |:warning: | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |Bloomreach HSTS Nginx|Home | Register...|
+|[https://mijn.registersocialehygiene.nl](https://mijn.registersocialehygiene.nl)| |-| |:white_check_mark: | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |HSTS|Inloggen|
+|[https://feeds.registersocialehygiene.nl](https://feeds.registersocialehygiene.nl)| |nginx| |:white_check_mark: | | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |HSTS Nginx||
+|[https://opendata.registersocialehygiene.nl](https://opendata.registersocialehygiene.nl)| |nginx| |:white_check_mark: | | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |HSTS Nginx||

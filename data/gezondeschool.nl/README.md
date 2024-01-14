@@ -9,7 +9,7 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
-|[http://sub.gezondeschool.nl](http://sub.gezondeschool.nl)| || |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |||
-|[http://test.gezondeschool.nl](http://test.gezondeschool.nl)| || | | | | |:white_check_mark: |||
-|[https://www.gezondeschool.nl](https://www.gezondeschool.nl)| |Apache| |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache HTTP Serv...|Gezonde School |...|
-|[https://gezondeschool.nl](https://gezondeschool.nl)| |Apache| |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache HTTP Serv...|301 Moved Perman...|
+|[http://sub.gezondeschool.nl](http://sub.gezondeschool.nl)| || |:white_check_mark: | | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |||
+|[http://test.gezondeschool.nl](http://test.gezondeschool.nl)| || | | | | | 3:white_check_mark: |||
+|[https://www.gezondeschool.nl](https://www.gezondeschool.nl)| |Apache| |:white_check_mark: | | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |Apache HTTP Server Drupal HSTS PHP|Gezonde School |...|
+|[https://gezondeschool.nl](https://gezondeschool.nl)| |Apache| |:white_check_mark: | | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |Apache HTTP Server HSTS|301 Moved Perman...|

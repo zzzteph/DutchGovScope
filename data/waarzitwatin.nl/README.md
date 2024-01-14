@@ -9,6 +9,6 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://staging.waarzitwatin.nl](https://staging.waarzitwatin.nl)| |CloudFront| | | | | |:white_check_mark: |AWS WAF Captcha...|Human Verificati...|
-|[https://www.waarzitwatin.nl](https://www.waarzitwatin.nl)| |cloudflare| | | | | |:white_check_mark: |Amazon CloudFron...|301 Moved Perman...|
-|[https://waarzitwatin.nl](https://waarzitwatin.nl)| |CloudFront| | | | | |:white_check_mark: |AWS WAF Captcha...|Human Verificati...|
+|[https://staging.waarzitwatin.nl](https://staging.waarzitwatin.nl)| |CloudFront| | | | | | 3:white_check_mark: |AWS WAF Captcha Amazon CloudFront Amazon Web Services|Human Verificati...|
+|[https://www.waarzitwatin.nl](https://www.waarzitwatin.nl)| |cloudflare| | | | | | 3:white_check_mark: |Amazon CloudFront Amazon Web Services Cloudflare HSTS HTTP/3|301 Moved Perman...|
+|[https://waarzitwatin.nl](https://waarzitwatin.nl)| |CloudFront| | | | | | 3:white_check_mark: |AWS WAF Captcha Amazon CloudFront Amazon Web Services|Human Verificati...|

@@ -9,13 +9,13 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://admin.webmail.werkenbijdefensie.nl](https://admin.webmail.werkenbijdefensie.nl)| |Ponos Maximum| | |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |||
-|[https://api.werkenbijdefensie.nl](https://api.werkenbijdefensie.nl)| |Ponos Maximum| | | |:white_check_mark: |:white_check_mark: |:white_check_mark: ||404 Not Found|
-|[https://api.luchtgevechtsleiding.werkenbijdefensie.nl](https://api.luchtgevechtsleiding.werkenbijdefensie.nl)| |nginx| |:white_check_mark: | | | |:white_check_mark: |HSTS Nginx||
-|[https://luchtgevechtsleiding.werkenbijdefensie.nl](https://luchtgevechtsleiding.werkenbijdefensie.nl)| |nginx| |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |Google Tag Manag...|LGL Serious Game...|
-|[https://toolkit.werkenbijdefensie.nl](https://toolkit.werkenbijdefensie.nl)| |Ponos Maximum|:white_check_mark: |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|Redirecting to p...|
-|[https://webmail.werkenbijdefensie.nl](https://webmail.werkenbijdefensie.nl)| |Ponos Maximum| | |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |||
-|[https://www.werkenbijdefensie.nl](https://www.werkenbijdefensie.nl)| |Ponos Maximum| |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS||
-|[https://www.luchtgevechtsleiding.werkenbijdefensie.nl](https://www.luchtgevechtsleiding.werkenbijdefensie.nl)| |nginx| |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |Google Tag Manag...|LGL Serious Game...|
-|[https://werkenbijdefensie.nl](https://werkenbijdefensie.nl)| |Ponos Maximum| |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|Werken bij Defen...|
-|[https://kandidaat.werkenbijdefensie.nl](https://kandidaat.werkenbijdefensie.nl)| |Ponos Maximum| |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS||
+|[https://admin.webmail.werkenbijdefensie.nl](https://admin.webmail.werkenbijdefensie.nl)| |Ponos Maximum| | |:warning: | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |||
+|[https://api.werkenbijdefensie.nl](https://api.werkenbijdefensie.nl)| |Ponos Maximum| | | | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: ||404 Not Found|
+|[https://api.luchtgevechtsleiding.werkenbijdefensie.nl](https://api.luchtgevechtsleiding.werkenbijdefensie.nl)| |nginx| |:white_check_mark: | | | | 3:white_check_mark: |HSTS Nginx||
+|[https://luchtgevechtsleiding.werkenbijdefensie.nl](https://luchtgevechtsleiding.werkenbijdefensie.nl)| |nginx| |:white_check_mark: | | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |Google Tag Manager HSTS Nginx|LGL Serious Game...|
+|[https://toolkit.werkenbijdefensie.nl](https://toolkit.werkenbijdefensie.nl)| |Ponos Maximum|:white_check_mark: |:white_check_mark: |:warning: | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |HSTS|Redirecting to p...|
+|[https://webmail.werkenbijdefensie.nl](https://webmail.werkenbijdefensie.nl)| |Ponos Maximum| | |:warning: | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |||
+|[https://www.werkenbijdefensie.nl](https://www.werkenbijdefensie.nl)| |Ponos Maximum| |:white_check_mark: |:warning: | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |HSTS||
+|[https://www.luchtgevechtsleiding.werkenbijdefensie.nl](https://www.luchtgevechtsleiding.werkenbijdefensie.nl)| |nginx| |:white_check_mark: | | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |Google Tag Manager HSTS Nginx|LGL Serious Game...|
+|[https://werkenbijdefensie.nl](https://werkenbijdefensie.nl)| |Ponos Maximum| |:white_check_mark: |:warning: | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |HSTS|Werken bij Defen...|
+|[https://kandidaat.werkenbijdefensie.nl](https://kandidaat.werkenbijdefensie.nl)| |Ponos Maximum| |:white_check_mark: |:warning: | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |HSTS||

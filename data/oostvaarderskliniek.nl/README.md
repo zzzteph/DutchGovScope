@@ -9,8 +9,8 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://pvs.oostvaarderskliniek.nl](https://pvs.oostvaarderskliniek.nl)| |nginx| | | | | |:white_check_mark: |Nginx|403 Forbidden|
-|[https://feeds.oostvaarderskliniek.nl](https://feeds.oostvaarderskliniek.nl)| |nginx| |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx||
-|[https://oostvaarderskliniek.nl](https://oostvaarderskliniek.nl)| |nginx| |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx|301 Moved Perman...|
-|[https://opendata.oostvaarderskliniek.nl](https://opendata.oostvaarderskliniek.nl)| |nginx| |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx||
-|[https://www.oostvaarderskliniek.nl](https://www.oostvaarderskliniek.nl)| |nginx| |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Bloomreach HSTS...|Home | Forensisc...|
+|[https://pvs.oostvaarderskliniek.nl](https://pvs.oostvaarderskliniek.nl)| |nginx| | | | | | 3:white_check_mark: |Nginx|403 Forbidden|
+|[https://feeds.oostvaarderskliniek.nl](https://feeds.oostvaarderskliniek.nl)| |nginx| |:white_check_mark: | | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |HSTS Nginx||
+|[https://oostvaarderskliniek.nl](https://oostvaarderskliniek.nl)| |nginx| |:white_check_mark: |:warning: | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |HSTS Nginx|301 Moved Perman...|
+|[https://opendata.oostvaarderskliniek.nl](https://opendata.oostvaarderskliniek.nl)| |nginx| |:white_check_mark: | | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |HSTS Nginx||
+|[https://www.oostvaarderskliniek.nl](https://www.oostvaarderskliniek.nl)| |nginx| |:white_check_mark: |:warning: | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |Bloomreach HSTS Nginx|Home | Forensisc...|

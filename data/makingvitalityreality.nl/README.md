@@ -9,6 +9,6 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://makingvitalityreality.nl](https://makingvitalityreality.nl)| |Apache| |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache HTTP Serv...|Homepage | Makin...|
-|[https://www.makingvitalityreality.nl](https://www.makingvitalityreality.nl)| |Apache| |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache HTTP Serv...|301 Moved Perman...|
-|[https://acc.makingvitalityreality.nl](https://acc.makingvitalityreality.nl)| |nginx/1.24.0| | | | | |:white_check_mark: |Basic Nginx:1.24...|401 Authorizatio...|
+|[https://makingvitalityreality.nl](https://makingvitalityreality.nl)| |Apache| |:white_check_mark: |:warning: | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |Apache HTTP Server Drupal:10 HSTS PHP|Homepage | Makin...|
+|[https://www.makingvitalityreality.nl](https://www.makingvitalityreality.nl)| |Apache| |:white_check_mark: |:warning: | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |Apache HTTP Server HSTS|301 Moved Perman...|
+|[https://acc.makingvitalityreality.nl](https://acc.makingvitalityreality.nl)| |nginx/1.24.0| | | | | | 3:white_check_mark: |Basic Nginx:1.24.0|401 Authorizatio...|

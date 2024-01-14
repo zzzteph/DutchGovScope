@@ -9,10 +9,10 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://opendata.english.loketkennisveiligheid.nl](https://opendata.english.loketkennisveiligheid.nl)| |nginx| |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx||
-|[https://english.loketkennisveiligheid.nl](https://english.loketkennisveiligheid.nl)| |nginx| |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Bloomreach HSTS...|Home | National...|
-|[https://opendata.loketkennisveiligheid.nl](https://opendata.loketkennisveiligheid.nl)| |nginx| |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx||
-|[https://feeds.loketkennisveiligheid.nl](https://feeds.loketkennisveiligheid.nl)| |nginx| |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx||
-|[https://www.loketkennisveiligheid.nl](https://www.loketkennisveiligheid.nl)| |nginx| |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Bloomreach HSTS...|Home | Loket Ken...|
-|[https://feeds.english.loketkennisveiligheid.nl](https://feeds.english.loketkennisveiligheid.nl)| |nginx| |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx||
-|[https://loketkennisveiligheid.nl](https://loketkennisveiligheid.nl)| |nginx| |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx|301 Moved Perman...|
+|[https://opendata.english.loketkennisveiligheid.nl](https://opendata.english.loketkennisveiligheid.nl)| |nginx| |:white_check_mark: | | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |HSTS Nginx||
+|[https://english.loketkennisveiligheid.nl](https://english.loketkennisveiligheid.nl)| |nginx| |:white_check_mark: |:warning: | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |Bloomreach HSTS Nginx|Home | National...|
+|[https://opendata.loketkennisveiligheid.nl](https://opendata.loketkennisveiligheid.nl)| |nginx| |:white_check_mark: | | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |HSTS Nginx||
+|[https://feeds.loketkennisveiligheid.nl](https://feeds.loketkennisveiligheid.nl)| |nginx| |:white_check_mark: | | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |HSTS Nginx||
+|[https://www.loketkennisveiligheid.nl](https://www.loketkennisveiligheid.nl)| |nginx| |:white_check_mark: |:warning: | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |Bloomreach HSTS Nginx|Home | Loket Ken...|
+|[https://feeds.english.loketkennisveiligheid.nl](https://feeds.english.loketkennisveiligheid.nl)| |nginx| |:white_check_mark: | | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |HSTS Nginx||
+|[https://loketkennisveiligheid.nl](https://loketkennisveiligheid.nl)| |nginx| |:white_check_mark: |:warning: | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |HSTS Nginx|301 Moved Perman...|

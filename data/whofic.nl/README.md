@@ -9,6 +9,6 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://class.whofic.nl](https://class.whofic.nl)| |nginx| |:white_check_mark: | |:white_check_mark: | |:white_check_mark: |HSTS Nginx|Mendix|
-|[https://www.whofic.nl](https://www.whofic.nl)| |Apache| |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache HTTP Serv...|Home | WHO Colla...|
-|[https://whofic.nl](https://whofic.nl)| |Apache| |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache HTTP Serv...|301 Moved Perman...|
+|[https://class.whofic.nl](https://class.whofic.nl)| |nginx| |:white_check_mark: | | 1:white_check_mark: | | 3:white_check_mark: |HSTS Nginx|Mendix|
+|[https://www.whofic.nl](https://www.whofic.nl)| |Apache| |:white_check_mark: | | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |Apache HTTP Server Drupal HSTS PHP|Home | WHO Colla...|
+|[https://whofic.nl](https://whofic.nl)| |Apache| |:white_check_mark: | | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |Apache HTTP Server HSTS|301 Moved Perman...|

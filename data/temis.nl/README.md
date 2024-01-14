@@ -9,5 +9,5 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://www.temis.nl](https://www.temis.nl)| |Apache| |:white_check_mark: |:warning: |:white_check_mark: | |:white_check_mark: |Apache HTTP Serv...|Tropospheric Emi...|
-|[https://temis.nl](https://temis.nl)| |Apache| |:white_check_mark: |:warning: |:white_check_mark: | |:white_check_mark: |Apache HTTP Serv...|Tropospheric Emi...|
+|[https://www.temis.nl](https://www.temis.nl)| |Apache| |:white_check_mark: |:warning: | 1:white_check_mark: | | 3:white_check_mark: |Apache HTTP Server HSTS|Tropospheric Emi...|
+|[https://temis.nl](https://temis.nl)| |Apache| |:white_check_mark: |:warning: | 1:white_check_mark: | | 3:white_check_mark: |Apache HTTP Server HSTS|Tropospheric Emi...|

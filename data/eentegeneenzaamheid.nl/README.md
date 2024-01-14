@@ -9,6 +9,6 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://acc.eentegeneenzaamheid.nl](https://acc.eentegeneenzaamheid.nl)| |Apache| |:white_check_mark: | |:white_check_mark: | |:white_check_mark: |Apache HTTP Serv...|Home - Een tegen...|
-|[https://www.eentegeneenzaamheid.nl](https://www.eentegeneenzaamheid.nl)| |Apache| |:white_check_mark: | |:white_check_mark: | |:white_check_mark: |Apache HTTP Serv...|Een tegen eenzaa...|
-|[https://eentegeneenzaamheid.nl](https://eentegeneenzaamheid.nl)| |Apache| |:white_check_mark: | |:white_check_mark: | |:white_check_mark: |Apache HTTP Serv...||
+|[https://acc.eentegeneenzaamheid.nl](https://acc.eentegeneenzaamheid.nl)| |Apache| |:white_check_mark: | | 1:white_check_mark: | | 3:white_check_mark: |Apache HTTP Server HSTS MySQL PHP:7.2.34 WordPress:6.1.1 Yoast SEO:19.13|Home - Een tegen...|
+|[https://www.eentegeneenzaamheid.nl](https://www.eentegeneenzaamheid.nl)| |Apache| |:white_check_mark: | | 1:white_check_mark: | | 3:white_check_mark: |Apache HTTP Server HSTS MySQL PHP:7.2.34 WordPress:6.1.1|Een tegen eenzaa...|
+|[https://eentegeneenzaamheid.nl](https://eentegeneenzaamheid.nl)| |Apache| |:white_check_mark: | | 1:white_check_mark: | | 3:white_check_mark: |Apache HTTP Server HSTS PHP:7.2.34||

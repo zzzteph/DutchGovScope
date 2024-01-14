@@ -9,6 +9,6 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://www.arbeidsinspectie.nl](https://www.arbeidsinspectie.nl)| $${\color{green}A+}$$ |Microsoft-IIS/10...| |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS IIS:10.0 Wi...|Document Moved|
-|[https://arbeidsinspectie.nl](https://arbeidsinspectie.nl)| $${\color{green}A+}$$ |Microsoft-IIS/10...| |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS IIS:10.0 Wi...|Document Moved|
-|[https://test.resultaten.arbeidsinspectie.nl](https://test.resultaten.arbeidsinspectie.nl)| |Microsoft-HTTPAP...| | | | | |:white_check_mark: |HSTS Microsoft H...|Not Found|
+|[https://www.arbeidsinspectie.nl](https://www.arbeidsinspectie.nl)| $${\color{green}A+}$$ |Microsoft-IIS/10...| |:white_check_mark: |:warning: | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |HSTS IIS:10.0 Windows Server|Document Moved|
+|[https://arbeidsinspectie.nl](https://arbeidsinspectie.nl)| $${\color{green}A+}$$ |Microsoft-IIS/10...| |:white_check_mark: |:warning: | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |HSTS IIS:10.0 Windows Server|Document Moved|
+|[https://test.resultaten.arbeidsinspectie.nl](https://test.resultaten.arbeidsinspectie.nl)| |Microsoft-HTTPAP...| | | | | | 3:white_check_mark: |HSTS Microsoft HTTPAPI:2.0|Not Found|

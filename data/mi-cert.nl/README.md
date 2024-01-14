@@ -9,6 +9,6 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://test.mi-cert.nl](https://test.mi-cert.nl)| |nginx| | | | | |:white_check_mark: |Basic Nginx|401 Authorizatio...|
-|[https://www.mi-cert.nl](https://www.mi-cert.nl)| |Apache| | | | | |:white_check_mark: |Apache HTTP Serv...|Home | MI-Cert.n...|
-|[https://mi-cert.nl](https://mi-cert.nl)| |Apache| | | | | |:white_check_mark: |Apache HTTP Serv...|Home | MI-Cert.n...|
+|[https://test.mi-cert.nl](https://test.mi-cert.nl)| |nginx| | | | | | 3:white_check_mark: |Basic Nginx|401 Authorizatio...|
+|[https://www.mi-cert.nl](https://www.mi-cert.nl)| |Apache| | | | | | 3:white_check_mark: |Apache HTTP Server Bootstrap HSTS Joomla PHP|Home | MI-Cert.n...|
+|[https://mi-cert.nl](https://mi-cert.nl)| |Apache| | | | | | 3:white_check_mark: |Apache HTTP Server Bootstrap HSTS Joomla PHP|Home | MI-Cert.n...|

@@ -9,6 +9,6 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://openhuis.werkenvoornederland-events.nl](https://openhuis.werkenvoornederland-events.nl)| |nginx| |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx Plesk||
-|[https://werkenvoornederland-events.nl](https://werkenvoornederland-events.nl)| |nginx| |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx Plesk||
-|[https://i-partnerschap.werkenvoornederland-events.nl](https://i-partnerschap.werkenvoornederland-events.nl)| |nginx| |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx Plesk||
+|[https://openhuis.werkenvoornederland-events.nl](https://openhuis.werkenvoornederland-events.nl)| |nginx| |:white_check_mark: |:warning: | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |HSTS Nginx Plesk||
+|[https://werkenvoornederland-events.nl](https://werkenvoornederland-events.nl)| |nginx| |:white_check_mark: |:warning: | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |HSTS Nginx Plesk||
+|[https://i-partnerschap.werkenvoornederland-events.nl](https://i-partnerschap.werkenvoornederland-events.nl)| |nginx| |:white_check_mark: |:warning: | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |HSTS Nginx Plesk||

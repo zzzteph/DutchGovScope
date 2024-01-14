@@ -9,7 +9,7 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://acc.milieuzones.nl](https://acc.milieuzones.nl)| |nginx| | | | | |:white_check_mark: |Basic Nginx|401 Authorizatio...|
-|[https://test.milieuzones.nl](https://test.milieuzones.nl)| |nginx| | | | | |:white_check_mark: |Basic Nginx|401 Authorizatio...|
-|[https://www.milieuzones.nl](https://www.milieuzones.nl)| |nginx| |:white_check_mark: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Drupal:10 HSTS N...|Milieuzones in N...|
-|[https://milieuzones.nl](https://milieuzones.nl)| |nginx| |:white_check_mark: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx|301 Moved Perman...|
+|[https://acc.milieuzones.nl](https://acc.milieuzones.nl)| |nginx| | | | | | 3:white_check_mark: |Basic Nginx|401 Authorizatio...|
+|[https://test.milieuzones.nl](https://test.milieuzones.nl)| |nginx| | | | | | 3:white_check_mark: |Basic Nginx|401 Authorizatio...|
+|[https://www.milieuzones.nl](https://www.milieuzones.nl)| |nginx| |:white_check_mark: | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |Drupal:10 HSTS Nginx PHP|Milieuzones in N...|
+|[https://milieuzones.nl](https://milieuzones.nl)| |nginx| |:white_check_mark: | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |HSTS Nginx|301 Moved Perman...|

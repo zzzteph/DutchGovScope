@@ -9,10 +9,10 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://connect-acpt.justitieleictorganisatie.nl](https://connect-acpt.justitieleictorganisatie.nl)| || |:white_check_mark: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS||
-|[https://feeds.justitieleictorganisatie.nl](https://feeds.justitieleictorganisatie.nl)| |nginx| |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx||
-|[https://intranet.justitieleictorganisatie.nl](https://intranet.justitieleictorganisatie.nl)| |Apache| |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache HTTP Serv...||
-|[https://opendata.justitieleictorganisatie.nl](https://opendata.justitieleictorganisatie.nl)| |nginx| |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx||
-|[https://www.justitieleictorganisatie.nl](https://www.justitieleictorganisatie.nl)| |nginx| |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Bloomreach HSTS...|Home | Justitiël...|
-|[https://connect.justitieleictorganisatie.nl](https://connect.justitieleictorganisatie.nl)| || |:white_check_mark: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS||
-|[https://justitieleictorganisatie.nl](https://justitieleictorganisatie.nl)| |nginx| |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx|301 Moved Perman...|
+|[https://connect-acpt.justitieleictorganisatie.nl](https://connect-acpt.justitieleictorganisatie.nl)| || |:white_check_mark: | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |HSTS||
+|[https://feeds.justitieleictorganisatie.nl](https://feeds.justitieleictorganisatie.nl)| |nginx| |:white_check_mark: | | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |HSTS Nginx||
+|[https://intranet.justitieleictorganisatie.nl](https://intranet.justitieleictorganisatie.nl)| |Apache| |:white_check_mark: |:warning: | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |Apache HTTP Server HSTS||
+|[https://opendata.justitieleictorganisatie.nl](https://opendata.justitieleictorganisatie.nl)| |nginx| |:white_check_mark: | | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |HSTS Nginx||
+|[https://www.justitieleictorganisatie.nl](https://www.justitieleictorganisatie.nl)| |nginx| |:white_check_mark: |:warning: | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |Bloomreach HSTS Nginx|Home | Justitiël...|
+|[https://connect.justitieleictorganisatie.nl](https://connect.justitieleictorganisatie.nl)| || |:white_check_mark: | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |HSTS||
+|[https://justitieleictorganisatie.nl](https://justitieleictorganisatie.nl)| |nginx| |:white_check_mark: |:warning: | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |HSTS Nginx|301 Moved Perman...|

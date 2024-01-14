@@ -9,6 +9,6 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://accept.emnnetherlands.nl](https://accept.emnnetherlands.nl)| |Apache| | | | | |:white_check_mark: |Apache HTTP Serv...|401 Unauthorized|
-|[https://www.emnnetherlands.nl](https://www.emnnetherlands.nl)| |Apache| |:white_check_mark: |:white_check_mark: | |:white_check_mark: |Apache HTTP Serv...|EMN Nederland|
-|[https://emnnetherlands.nl](https://emnnetherlands.nl)| |Apache| |:white_check_mark: |:white_check_mark: | |:white_check_mark: |Apache HTTP Serv...|301 Moved Perman...|
+|[https://accept.emnnetherlands.nl](https://accept.emnnetherlands.nl)| |Apache| | | | | | 3:white_check_mark: |Apache HTTP Server Basic|401 Unauthorized|
+|[https://www.emnnetherlands.nl](https://www.emnnetherlands.nl)| |Apache| |:white_check_mark: | 1:white_check_mark: | | 3:white_check_mark: |Apache HTTP Server Drupal:9 HSTS OWL Carousel PHP jQuery|EMN Nederland|
+|[https://emnnetherlands.nl](https://emnnetherlands.nl)| |Apache| |:white_check_mark: | 1:white_check_mark: | | 3:white_check_mark: |Apache HTTP Server|301 Moved Perman...|
