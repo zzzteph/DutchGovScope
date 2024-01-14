@@ -1,6 +1,5 @@
 adfs.vallei-veluwe.nl
 mx1.vallei-veluwe.nl
-geoportaal.vallei-veluwe.nl
 nc-openbaar.vallei-veluwe.nl
 werkplek.vallei-veluwe.nl
 autodiscover.vallei-veluwe.nl
@@ -12,4 +11,6 @@ www.vallei-veluwe.nl
 redactie.vallei-veluwe.nl
 eloket.vallei-veluwe.nl
 testeloket.vallei-veluwe.nl
+api.vallei-veluwe.nl
 auth.vallei-veluwe.nl
+omi.vallei-veluwe.nl

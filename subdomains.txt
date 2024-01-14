@@ -10347,6 +10347,7 @@ erfgoedexpertteam.provincie-utrecht.nl
 monitoromgevingsbeleid.provincie-utrecht.nl
 omgevingsbeleid.provincie-utrecht.nl
 zsd.provincie-utrecht.nl
+ib.provincie-utrecht.nl
 kennis.zuid-holland.nl
 geoportaal.zuid-holland.nl
 coalitieakkoord.zuid-holland.nl
@@ -10553,13 +10554,17 @@ werkplek.hdsr.nl
 zaaksysteem.hdsr.nl
 ftp-hdsr.hdsr.nl
 loket-acc.hdsr.nl
+webdiensten.hdsr.nl
 cawfirewall.hdsr.nl
 testbegrippen.hdsr.nl
 loket.hdsr.nl
 uconnect.hdsr.nl
 cawuitwijkfirewall.hdsr.nl
+digikoppeling-test.hdsr.nl
 webservices.hdsr.nl
+redactie.hdsr.nl
 autodiscover.hdsr.nl
+www.hdsr.nl
 mrb.hdsr.nl
 testkennis.hdsr.nl
 geoweb.hdsr.nl
@@ -10579,7 +10584,6 @@ intranet.ad.hdsr.nl
 digikoppeling.hdsr.nl
 adfs.vallei-veluwe.nl
 mx1.vallei-veluwe.nl
-geoportaal.vallei-veluwe.nl
 nc-openbaar.vallei-veluwe.nl
 werkplek.vallei-veluwe.nl
 autodiscover.vallei-veluwe.nl
@@ -10591,7 +10595,9 @@ www.vallei-veluwe.nl
 redactie.vallei-veluwe.nl
 eloket.vallei-veluwe.nl
 testeloket.vallei-veluwe.nl
+api.vallei-veluwe.nl
 auth.vallei-veluwe.nl
+omi.vallei-veluwe.nl
 lyncdiscover.vechtstromen.nl
 digit.vechtstromen.nl
 apps-tst.vechtstromen.nl

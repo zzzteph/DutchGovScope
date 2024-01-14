@@ -10,7 +10,7 @@
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
 |[https://acc.service.mpn.minienm.nl](https://acc.service.mpn.minienm.nl)| |nginx/1.25.3| | | | | |:white_check_mark: |Nginx:1.25.3|MPN ACCEPTATIE i...|
-|[https://bct.csp.minienm.nl](https://bct.csp.minienm.nl)| || | | | | |:white_check_mark: |HSTS|301 Moved Perman...|
+|[https://bct.csp.minienm.nl](https://bct.csp.minienm.nl)| || |:white_check_mark: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|301 Moved Perman...|
 |[https://csp.minienm.nl](https://csp.minienm.nl)| || |:white_check_mark: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|301 Moved Perman...|
 |[https://epublicatie.minienm.nl](https://epublicatie.minienm.nl)| |Apache/2| | | | | |:white_check_mark: |Apache HTTP Serv...|403 Forbidden|
 |[https://mpn.minienm.nl](https://mpn.minienm.nl)| |nginx/1.25.3| | | | | |:white_check_mark: |Nginx:1.25.3|Mobiliteitspanel...|
