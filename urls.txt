@@ -4036,7 +4036,7 @@ https://toegangderden.rijkswaterstaat.nl
 https://topdesk.rijkswaterstaat.nl
 https://topdesk-iv.rijkswaterstaat.nl
 https://topdesk-wvl.rijkswaterstaat.nl
-http://vegetatiemonitor.rijkswaterstaat.nl
+https://vegetatiemonitor.rijkswaterstaat.nl
 http://viya.rijkswaterstaat.nl
 https://wabinfo.rijkswaterstaat.nl
 https://wachtwoord.rijkswaterstaat.nl
@@ -4047,7 +4047,7 @@ http://webmail.rijkswaterstaat.nl
 https://werkenbij.rijkswaterstaat.nl
 https://www.rijkswaterstaat.nl
 https://www.bezoekerscentrum.rijkswaterstaat.nl
-http://www.watergegevens.rijkswaterstaat.nl
+https://www.watergegevens.rijkswaterstaat.nl
 https://www.werkenbij.rijkswaterstaat.nl
 https://zaaksysteem.rijkswaterstaat.nl
 https://zwerfafval.rijkswaterstaat.nl

@@ -97,7 +97,7 @@
 |[https://werkenbij.rijkswaterstaat.nl](https://werkenbij.rijkswaterstaat.nl)| |Microsoft-IIS/10.0|:warning: |:white_check_mark: | | :white_check_mark: | | :white_check_mark: |Google Tag Manager HSTS IIS:10.0 Microsoft ASP.NET Windows Server|Werken bij Rijks...|
 |[https://www.rijkswaterstaat.nl](https://www.rijkswaterstaat.nl)| ||:warning: |:white_check_mark: | | :white_check_mark: | | :white_check_mark: |Google Tag Manager HSTS Microsoft ASP.NET SDL Tridion|Home | Rijkswate...|
 |[https://www.bezoekerscentrum.rijkswaterstaat.nl](https://www.bezoekerscentrum.rijkswaterstaat.nl)| |nginx| |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS MySQL Nginx PHP WordPress||
-|[http://www.watergegevens.rijkswaterstaat.nl](http://www.watergegevens.rijkswaterstaat.nl)| || | | | | | :white_check_mark: |||
+|[https://www.watergegevens.rijkswaterstaat.nl](https://www.watergegevens.rijkswaterstaat.nl)| |Microsoft-IIS/8.5| | | | | | :white_check_mark: |IIS:8.5 Microsoft ASP.NET Windows Server|Document Moved|
 |[https://www.werkenbij.rijkswaterstaat.nl](https://www.werkenbij.rijkswaterstaat.nl)| |Microsoft-Azure-Application-Gateway/v2|:warning: |:white_check_mark: | | :white_check_mark: | | :white_check_mark: ||301 Moved Perman...|
 |[https://zaaksysteem.rijkswaterstaat.nl](https://zaaksysteem.rijkswaterstaat.nl)| ||:white_check_mark: |:white_check_mark: | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS|Moved|
 |[https://zwerfafval.rijkswaterstaat.nl](https://zwerfafval.rijkswaterstaat.nl)| |-| |:white_check_mark: | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Microsoft ASP.NET:-|Home - Zwerfafva...|

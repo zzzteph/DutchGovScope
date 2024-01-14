@@ -86,7 +86,7 @@ http://webmail.rijkswaterstaat.nl
 https://werkenbij.rijkswaterstaat.nl
 https://www.rijkswaterstaat.nl
 https://www.bezoekerscentrum.rijkswaterstaat.nl
-http://www.watergegevens.rijkswaterstaat.nl
+https://www.watergegevens.rijkswaterstaat.nl
 https://www.werkenbij.rijkswaterstaat.nl
 https://zaaksysteem.rijkswaterstaat.nl
 https://zwerfafval.rijkswaterstaat.nl
