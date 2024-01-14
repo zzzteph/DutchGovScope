@@ -9,6 +9,6 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://acceptatie.zorgcsp.nl](https://acceptatie.zorgcsp.nl)| || | | | | | 3:white_check_mark: |HSTS|Home | Zorg CSP|
-|[https://www.zorgcsp.nl](https://www.zorgcsp.nl)| || |:white_check_mark: | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |HSTS|Home | Zorg CSP|
-|[https://zorgcsp.nl](https://zorgcsp.nl)| || |:white_check_mark: | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |HSTS|Home | Zorg CSP|
+|[https://acceptatie.zorgcsp.nl](https://acceptatie.zorgcsp.nl)| || | | | | | :white_check_mark: |HSTS|Home | Zorg CSP|
+|[https://www.zorgcsp.nl](https://www.zorgcsp.nl)| || |:white_check_mark: | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS|Home | Zorg CSP|
+|[https://zorgcsp.nl](https://zorgcsp.nl)| || |:white_check_mark: | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS|Home | Zorg CSP|

@@ -130,3 +130,10 @@ openbare-tzr.tweedekamer.nl
 datavisualisaties.tweedekamer.nl
 kva.tweedekamer.nl
 kva-acc.tweedekamer.nl
+groepsbezoek.tweedekamer.nl
+viv.tweedekamer.nl
+viv-acc.tweedekamer.nl
+apm.tweedekamer.nl
+sesam.tweedekamer.nl
+kva-test.tweedekamer.nl
+kva-tst.tweedekamer.nl

@@ -9,8 +9,8 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://feeds.informatieberaadzorg.nl](https://feeds.informatieberaadzorg.nl)| |nginx| |:white_check_mark: | | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |HSTS Nginx||
-|[https://opendata.informatieberaadzorg.nl](https://opendata.informatieberaadzorg.nl)| |nginx| |:white_check_mark: | | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |HSTS Nginx||
-|[https://platform.informatieberaadzorg.nl](https://platform.informatieberaadzorg.nl)| || |:white_check_mark: | | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |HSTS Microsoft ASP.NET|Object moved|
-|[https://www.informatieberaadzorg.nl](https://www.informatieberaadzorg.nl)| |nginx| |:white_check_mark: |:warning: | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |Bloomreach HSTS Nginx|Home | Informati...|
-|[https://informatieberaadzorg.nl](https://informatieberaadzorg.nl)| |nginx| |:white_check_mark: |:warning: | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |HSTS Nginx|301 Moved Perman...|
+|[https://feeds.informatieberaadzorg.nl](https://feeds.informatieberaadzorg.nl)| |nginx| |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx||
+|[https://opendata.informatieberaadzorg.nl](https://opendata.informatieberaadzorg.nl)| |nginx| |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx||
+|[https://platform.informatieberaadzorg.nl](https://platform.informatieberaadzorg.nl)| || |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Microsoft ASP.NET|Object moved|
+|[https://www.informatieberaadzorg.nl](https://www.informatieberaadzorg.nl)| |nginx| |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Bloomreach HSTS Nginx|Home | Informati...|
+|[https://informatieberaadzorg.nl](https://informatieberaadzorg.nl)| |nginx| |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx|301 Moved Perman...|

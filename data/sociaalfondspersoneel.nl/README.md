@@ -9,7 +9,7 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://feeds.sociaalfondspersoneel.nl](https://feeds.sociaalfondspersoneel.nl)| |nginx| |:white_check_mark: | | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |HSTS Nginx||
-|[https://opendata.sociaalfondspersoneel.nl](https://opendata.sociaalfondspersoneel.nl)| |nginx| |:white_check_mark: | | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |HSTS Nginx||
-|[https://sociaalfondspersoneel.nl](https://sociaalfondspersoneel.nl)| |nginx| |:white_check_mark: |:warning: | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |HSTS Nginx|301 Moved Perman...|
-|[https://www.sociaalfondspersoneel.nl](https://www.sociaalfondspersoneel.nl)| |nginx| |:white_check_mark: |:warning: | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |Bloomreach HSTS Nginx|Home | Sociaal f...|
+|[https://feeds.sociaalfondspersoneel.nl](https://feeds.sociaalfondspersoneel.nl)| |nginx| |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx||
+|[https://opendata.sociaalfondspersoneel.nl](https://opendata.sociaalfondspersoneel.nl)| |nginx| |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx||
+|[https://sociaalfondspersoneel.nl](https://sociaalfondspersoneel.nl)| |nginx| |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx|301 Moved Perman...|
+|[https://www.sociaalfondspersoneel.nl](https://www.sociaalfondspersoneel.nl)| |nginx| |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Bloomreach HSTS Nginx|Home | Sociaal f...|

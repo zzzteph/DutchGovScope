@@ -9,5 +9,5 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://acceptatie.kikstarter.nl](https://acceptatie.kikstarter.nl)| |istio-envoy| |:white_check_mark: | | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |Envoy HSTS|KIK-Starter|
-|[https://www.kikstarter.nl](https://www.kikstarter.nl)| || | | | | | 3:white_check_mark: |HSTS||
+|[https://acceptatie.kikstarter.nl](https://acceptatie.kikstarter.nl)| |istio-envoy| |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |Envoy HSTS|KIK-Starter|
+|[https://www.kikstarter.nl](https://www.kikstarter.nl)| || | | | | | :white_check_mark: |HSTS||

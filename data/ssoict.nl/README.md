@@ -9,7 +9,7 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://ssoict.nl](https://ssoict.nl)| |Microsoft-IIS/10...| |:white_check_mark: |:warning: | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |HSTS IIS:10.0 Windows Server|Document Moved|
-|[https://www.ssoict.nl](https://www.ssoict.nl)| |Microsoft-IIS/10...| |:white_check_mark: |:warning: | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |HSTS IIS:10.0 Windows Server|Document Moved|
-|[https://arbeidsinspectie.ssoict.nl](https://arbeidsinspectie.ssoict.nl)| |Microsoft-HTTPAP...| | | | | | 3:white_check_mark: |Microsoft HTTPAPI:2.0|Not Found|
-|[https://wts.klantenportaal.ssoict.nl](https://wts.klantenportaal.ssoict.nl)| |Microsoft-HTTPAP...| | | | | | 3:white_check_mark: |Microsoft HTTPAPI:2.0|Not Found|
+|[https://ssoict.nl](https://ssoict.nl)| |Microsoft-IIS/10...| |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS IIS:10.0 Windows Server|Document Moved|
+|[https://www.ssoict.nl](https://www.ssoict.nl)| |Microsoft-IIS/10...| |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS IIS:10.0 Windows Server|Document Moved|
+|[https://arbeidsinspectie.ssoict.nl](https://arbeidsinspectie.ssoict.nl)| |Microsoft-HTTPAP...| | | | | | :white_check_mark: |Microsoft HTTPAPI:2.0|Not Found|
+|[https://wts.klantenportaal.ssoict.nl](https://wts.klantenportaal.ssoict.nl)| |Microsoft-HTTPAP...| | | | | | :white_check_mark: |Microsoft HTTPAPI:2.0|Not Found|

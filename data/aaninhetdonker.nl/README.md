@@ -9,6 +9,6 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://www.aaninhetdonker.nl](https://www.aaninhetdonker.nl)| |nginx| |:white_check_mark: | | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |HSTS Nginx|301 Moved Perman...|
-|[https://web01.aaninhetdonker.nl](https://web01.aaninhetdonker.nl)| |nginx| | | | | | 3:white_check_mark: |Nginx||
-|[https://aaninhetdonker.nl](https://aaninhetdonker.nl)| |nginx| |:white_check_mark: | | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |HSTS Nginx|Maak je eigen AA...|
+|[https://www.aaninhetdonker.nl](https://www.aaninhetdonker.nl)| |nginx| |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx|301 Moved Perman...|
+|[https://web01.aaninhetdonker.nl](https://web01.aaninhetdonker.nl)| |nginx| | | | | | :white_check_mark: |Nginx||
+|[https://aaninhetdonker.nl](https://aaninhetdonker.nl)| |nginx| |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx|Maak je eigen AA...|

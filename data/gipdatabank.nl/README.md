@@ -9,7 +9,7 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://proto.gipdatabank.nl](https://proto.gipdatabank.nl)| |GitHub.com| | | | | | 3:white_check_mark: |Fastly GitHub Pages Varnish|GIPdatabank.nl|
-|[https://www.gipdatabank.nl](https://www.gipdatabank.nl)| |Solvinity Server|:white_check_mark: |:white_check_mark: |:warning: | | 2:white_check_mark: | 3:white_check_mark: |Bloomreach HSTS|GIPdatabank.nl|
-|[https://www-ac.gipdatabank.nl](https://www-ac.gipdatabank.nl)| |Apache| | | | | | 3:white_check_mark: |Apache HTTP Server Basic|401 Unauthorized|
-|[https://gipdatabank.nl](https://gipdatabank.nl)| |Apache|:white_check_mark: |:white_check_mark: |:warning: | | 2:white_check_mark: | 3:white_check_mark: |Apache HTTP Server HSTS|301 Moved Perman...|
+|[https://proto.gipdatabank.nl](https://proto.gipdatabank.nl)| |GitHub.com| | | | | | :white_check_mark: |Fastly GitHub Pages Varnish|GIPdatabank.nl|
+|[https://www.gipdatabank.nl](https://www.gipdatabank.nl)| |Solvinity Server|:white_check_mark: |:white_check_mark: |:warning: | | :white_check_mark: | :white_check_mark: |Bloomreach HSTS|GIPdatabank.nl|
+|[https://www-ac.gipdatabank.nl](https://www-ac.gipdatabank.nl)| |Apache| | | | | | :white_check_mark: |Apache HTTP Server Basic|401 Unauthorized|
+|[https://gipdatabank.nl](https://gipdatabank.nl)| |Apache|:white_check_mark: |:white_check_mark: |:warning: | | :white_check_mark: | :white_check_mark: |Apache HTTP Server HSTS|301 Moved Perman...|

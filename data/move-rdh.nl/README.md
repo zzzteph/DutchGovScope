@@ -9,5 +9,5 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://www.move-rdh.nl](https://www.move-rdh.nl)| || |:white_check_mark: | | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |HSTS Microsoft ASP.NET YouTube|Object moved|
-|[https://move-rdh.nl](https://move-rdh.nl)| || |:white_check_mark: | | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |HSTS Microsoft ASP.NET YouTube|Object moved|
+|[https://www.move-rdh.nl](https://www.move-rdh.nl)| || |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Microsoft ASP.NET YouTube|Object moved|
+|[https://move-rdh.nl](https://move-rdh.nl)| || |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Microsoft ASP.NET YouTube|Object moved|

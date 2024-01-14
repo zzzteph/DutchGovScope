@@ -9,6 +9,6 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
-|[http://autodiscover.atgb.nl](http://autodiscover.atgb.nl)| |Microsoft-IIS/10...|:white_check_mark: |:white_check_mark: | | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |IIS:10.0 Microsoft ASP.NET Windows Server||
-|[https://www.atgb.nl](https://www.atgb.nl)| |Apache| |:white_check_mark: | | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |Apache HTTP Server HSTS MySQL PHP WordPress:5.5.13 Yoast SEO:12.2|Adviescommissie...|
-|[https://atgb.nl](https://atgb.nl)| |Apache| |:white_check_mark: | | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |Apache HTTP Server HSTS||
+|[http://autodiscover.atgb.nl](http://autodiscover.atgb.nl)| |Microsoft-IIS/10...|:white_check_mark: |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |IIS:10.0 Microsoft ASP.NET Windows Server||
+|[https://www.atgb.nl](https://www.atgb.nl)| |Apache| |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |Apache HTTP Server HSTS MySQL PHP WordPress:5.5.13 Yoast SEO:12.2|Adviescommissie...|
+|[https://atgb.nl](https://atgb.nl)| |Apache| |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |Apache HTTP Server HSTS||

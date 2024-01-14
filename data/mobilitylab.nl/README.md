@@ -9,5 +9,5 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://www.mobilitylab.nl](https://www.mobilitylab.nl)| |nginx| | | | | | 3:white_check_mark: |Nginx||
-|[https://mobilitylab.nl](https://mobilitylab.nl)| |nginx| | | | | | 3:white_check_mark: |MySQL Nginx PHP Site Kit:1.106.0 WordPress|Mobility Lab - N...|
+|[https://www.mobilitylab.nl](https://www.mobilitylab.nl)| |nginx| | | | | | :white_check_mark: |Nginx||
+|[https://mobilitylab.nl](https://mobilitylab.nl)| |nginx| | | | | | :white_check_mark: |MySQL Nginx PHP Site Kit:1.106.0 WordPress|Mobility Lab - N...|

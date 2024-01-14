@@ -9,7 +9,7 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://kennisbank.agroforestrynetwerk.nl](https://kennisbank.agroforestrynetwerk.nl)| |nginx/1.18.0 (Ub...| | | | | | 3:white_check_mark: |MySQL Nginx:1.18.0 PHP Ubuntu WordPress Yoast SEO:21.8|Agroforestry Ken...|
-|[https://agroforestrynetwerk.nl](https://agroforestrynetwerk.nl)| |nginx/1.18.0 (Ub...| |:white_check_mark: | | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |HSTS Nginx:1.18.0 PHP Pimcore Ubuntu|Redirecting to h...|
-|[https://staging.agroforestrynetwerk.nl](https://staging.agroforestrynetwerk.nl)| |nginx/1.18.0 (Ub...| | | | | | 3:white_check_mark: |HSTS Nginx:1.18.0 PHP Pimcore Ubuntu|Redirecting to h...|
-|[https://www.agroforestrynetwerk.nl](https://www.agroforestrynetwerk.nl)| |nginx/1.18.0 (Ub...| |:white_check_mark: | | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |HSTS Nginx:1.18.0 PHP Pimcore Ubuntu|Agroforestry Net...|
+|[https://kennisbank.agroforestrynetwerk.nl](https://kennisbank.agroforestrynetwerk.nl)| |nginx/1.18.0 (Ub...| | | | | | :white_check_mark: |MySQL Nginx:1.18.0 PHP Ubuntu WordPress Yoast SEO:21.8|Agroforestry Ken...|
+|[https://agroforestrynetwerk.nl](https://agroforestrynetwerk.nl)| |nginx/1.18.0 (Ub...| |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx:1.18.0 PHP Pimcore Ubuntu|Redirecting to h...|
+|[https://staging.agroforestrynetwerk.nl](https://staging.agroforestrynetwerk.nl)| |nginx/1.18.0 (Ub...| | | | | | :white_check_mark: |HSTS Nginx:1.18.0 PHP Pimcore Ubuntu|Redirecting to h...|
+|[https://www.agroforestrynetwerk.nl](https://www.agroforestrynetwerk.nl)| |nginx/1.18.0 (Ub...| |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx:1.18.0 PHP Pimcore Ubuntu|Agroforestry Net...|

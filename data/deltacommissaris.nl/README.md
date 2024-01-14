@@ -9,5 +9,5 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://deltaprogramma2019.deltacommissaris.nl](https://deltaprogramma2019.deltacommissaris.nl)| $${\color{green}A}$$ |Apache/2| |:white_check_mark: |:warning: | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |Apache HTTP Server:2|301 Moved Perman...|
-|[https://deltaprogramma2020.deltacommissaris.nl](https://deltaprogramma2020.deltacommissaris.nl)| $${\color{green}A}$$ |Apache/2| |:white_check_mark: |:warning: | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |Apache HTTP Server:2|301 Moved Perman...|
+|[https://deltaprogramma2019.deltacommissaris.nl](https://deltaprogramma2019.deltacommissaris.nl)| $${\color{green}A}$$ |Apache/2| |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Apache HTTP Server:2|301 Moved Perman...|
+|[https://deltaprogramma2020.deltacommissaris.nl](https://deltaprogramma2020.deltacommissaris.nl)| $${\color{green}A}$$ |Apache/2| |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Apache HTTP Server:2|301 Moved Perman...|

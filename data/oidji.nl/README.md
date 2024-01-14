@@ -9,10 +9,10 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://acc-klas.oidji.nl](https://acc-klas.oidji.nl)| |nginx| | | | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |Nginx||
-|[https://feeds.oidji.nl](https://feeds.oidji.nl)| |nginx| |:white_check_mark: | | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |HSTS Nginx||
-|[https://keten.sophie.oidji.nl](https://keten.sophie.oidji.nl)| |Class|:white_check_mark: |:white_check_mark: |:warning: | | 2:white_check_mark: | 3:white_check_mark: |HSTS||
-|[https://opendata.oidji.nl](https://opendata.oidji.nl)| |nginx| |:white_check_mark: | | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |HSTS Nginx||
-|[https://sophie.oidji.nl](https://sophie.oidji.nl)| |Class|:white_check_mark: |:white_check_mark: |:warning: | | 2:white_check_mark: | 3:white_check_mark: |HSTS||
-|[https://www.oidji.nl](https://www.oidji.nl)| |nginx| |:white_check_mark: |:warning: | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |Bloomreach HSTS Nginx|Home | Opleiding...|
-|[https://oidji.nl](https://oidji.nl)| |nginx| |:white_check_mark: |:warning: | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |HSTS Nginx|301 Moved Perman...|
+|[https://acc-klas.oidji.nl](https://acc-klas.oidji.nl)| |nginx| | | | :white_check_mark: | :white_check_mark: | :white_check_mark: |Nginx||
+|[https://feeds.oidji.nl](https://feeds.oidji.nl)| |nginx| |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx||
+|[https://keten.sophie.oidji.nl](https://keten.sophie.oidji.nl)| |Class|:white_check_mark: |:white_check_mark: |:warning: | | :white_check_mark: | :white_check_mark: |HSTS||
+|[https://opendata.oidji.nl](https://opendata.oidji.nl)| |nginx| |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx||
+|[https://sophie.oidji.nl](https://sophie.oidji.nl)| |Class|:white_check_mark: |:white_check_mark: |:warning: | | :white_check_mark: | :white_check_mark: |HSTS||
+|[https://www.oidji.nl](https://www.oidji.nl)| |nginx| |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Bloomreach HSTS Nginx|Home | Opleiding...|
+|[https://oidji.nl](https://oidji.nl)| |nginx| |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx|301 Moved Perman...|

@@ -9,5 +9,5 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://www.schoolleidersregister.nl](https://www.schoolleidersregister.nl)| |Microsoft-IIS/10...| |:white_check_mark: |:warning: | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |HSTS IIS:10.0 Windows Server|Document Moved|
-|[https://schoolleidersregister.nl](https://schoolleidersregister.nl)| |Microsoft-IIS/10...| |:white_check_mark: |:warning: | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |HSTS IIS:10.0 Windows Server|Document Moved|
+|[https://www.schoolleidersregister.nl](https://www.schoolleidersregister.nl)| |Microsoft-IIS/10...| |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS IIS:10.0 Windows Server|Document Moved|
+|[https://schoolleidersregister.nl](https://schoolleidersregister.nl)| |Microsoft-IIS/10...| |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS IIS:10.0 Windows Server|Document Moved|

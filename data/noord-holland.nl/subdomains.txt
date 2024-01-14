@@ -96,3 +96,4 @@ fleet-manager.datalab-prod.aws.noord-holland.nl
 qlikgw-prod.aws.noord-holland.nl
 pleinoud.noord-holland.nl
 qlikdatagwpoc-prod.aws.noord-holland.nl
+lms.noord-holland.nl

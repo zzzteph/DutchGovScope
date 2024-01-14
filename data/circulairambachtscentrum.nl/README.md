@@ -9,5 +9,5 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://circulairambachtscentrum.nl](https://circulairambachtscentrum.nl)| |-| |:white_check_mark: | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |HSTS Microsoft ASP.NET:-|Home - Circulair...|
-|[https://www.circulairambachtscentrum.nl](https://www.circulairambachtscentrum.nl)| |-| |:white_check_mark: | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |HSTS Microsoft ASP.NET:-|Object moved|
+|[https://circulairambachtscentrum.nl](https://circulairambachtscentrum.nl)| |-| |:white_check_mark: | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Microsoft ASP.NET:-|Home - Circulair...|
+|[https://www.circulairambachtscentrum.nl](https://www.circulairambachtscentrum.nl)| |-| |:white_check_mark: | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Microsoft ASP.NET:-|Object moved|

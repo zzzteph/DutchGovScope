@@ -9,7 +9,7 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://acc.drupaloverheid.nl](https://acc.drupaloverheid.nl)| |nginx| | | | | | 3:white_check_mark: |Basic Nginx|401 Authorizatio...|
-|[https://test.drupaloverheid.nl](https://test.drupaloverheid.nl)| |nginx| | | | | | 3:white_check_mark: |Basic Nginx|401 Authorizatio...|
-|[https://www.drupaloverheid.nl](https://www.drupaloverheid.nl)| |nginx| |:white_check_mark: |:warning: | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |HSTS Nginx|Drupal Overheid|
-|[https://drupaloverheid.nl](https://drupaloverheid.nl)| |nginx| |:white_check_mark: |:warning: | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |HSTS Nginx|Drupal Overheid|
+|[https://acc.drupaloverheid.nl](https://acc.drupaloverheid.nl)| |nginx| | | | | | :white_check_mark: |Basic Nginx|401 Authorizatio...|
+|[https://test.drupaloverheid.nl](https://test.drupaloverheid.nl)| |nginx| | | | | | :white_check_mark: |Basic Nginx|401 Authorizatio...|
+|[https://www.drupaloverheid.nl](https://www.drupaloverheid.nl)| |nginx| |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx|Drupal Overheid|
+|[https://drupaloverheid.nl](https://drupaloverheid.nl)| |nginx| |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx|Drupal Overheid|

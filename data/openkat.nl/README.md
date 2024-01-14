@@ -9,6 +9,6 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://docs.openkat.nl](https://docs.openkat.nl)| |GitHub.com| |:white_check_mark: | | | | 3:white_check_mark: |Fastly GitHub Pages HSTS Varnish|Welcome to the O...|
-|[https://www.openkat.nl](https://www.openkat.nl)| |Apache| |:white_check_mark: | 1:white_check_mark: | | 3:white_check_mark: |Apache HTTP Server HSTS|301 Moved Perman...|
-|[https://openkat.nl](https://openkat.nl)| |Apache| |:white_check_mark: | 1:white_check_mark: | | 3:white_check_mark: |Apache HTTP Server HSTS|OpenKat Kwetsbaa...|
+|[https://docs.openkat.nl](https://docs.openkat.nl)| |GitHub.com| |:white_check_mark: | | | | :white_check_mark: |Fastly GitHub Pages HSTS Varnish|Welcome to the O...|
+|[https://www.openkat.nl](https://www.openkat.nl)| |Apache| |:white_check_mark: | :white_check_mark:| :white_check_mark: | | :white_check_mark: |Apache HTTP Server HSTS|301 Moved Perman...|
+|[https://openkat.nl](https://openkat.nl)| |Apache| |:white_check_mark: | :white_check_mark:| :white_check_mark: | | :white_check_mark: |Apache HTTP Server HSTS|OpenKat Kwetsbaa...|

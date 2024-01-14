@@ -9,6 +9,6 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://plink.rijksinkopen.nl](https://plink.rijksinkopen.nl)| |Apache| |:white_check_mark: |:warning: | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |Apache HTTP Server HSTS||
-|[https://leveranciersportaal.rijksinkopen.nl](https://leveranciersportaal.rijksinkopen.nl)| |nginx|:o: |:white_check_mark: |:warning: | 1:white_check_mark: | | 3:white_check_mark: |HSTS Microsoft ASP.NET Nginx|Leveranciersport...|
-|[https://lp.rijksinkopen.nl](https://lp.rijksinkopen.nl)| |nginx|:o: |:white_check_mark: |:warning: | 1:white_check_mark: | | 3:white_check_mark: |HSTS Microsoft ASP.NET Nginx|Leveranciersport...|
+|[https://plink.rijksinkopen.nl](https://plink.rijksinkopen.nl)| |Apache| |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Apache HTTP Server HSTS||
+|[https://leveranciersportaal.rijksinkopen.nl](https://leveranciersportaal.rijksinkopen.nl)| |nginx|:o: |:white_check_mark: |:warning: | :white_check_mark: | | :white_check_mark: |HSTS Microsoft ASP.NET Nginx|Leveranciersport...|
+|[https://lp.rijksinkopen.nl](https://lp.rijksinkopen.nl)| |nginx|:o: |:white_check_mark: |:warning: | :white_check_mark: | | :white_check_mark: |HSTS Microsoft ASP.NET Nginx|Leveranciersport...|

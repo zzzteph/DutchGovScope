@@ -9,8 +9,8 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://feeds.collegesanering.nl](https://feeds.collegesanering.nl)| $${\color{green}A+}$$ |nginx| |:white_check_mark: | | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |HSTS Nginx||
-|[https://opendata.collegesanering.nl](https://opendata.collegesanering.nl)| $${\color{green}A+}$$ |nginx| |:white_check_mark: | | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |HSTS Nginx||
-|[https://autodiscover.collegesanering.nl](https://autodiscover.collegesanering.nl)| |Microsoft-IIS/10...| | | | | | 3:white_check_mark: |IIS:10.0 Windows Server||
-|[https://www.collegesanering.nl](https://www.collegesanering.nl)| $${\color{green}A+}$$ |nginx| |:white_check_mark: |:warning: | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |Bloomreach HSTS Nginx|College sanering...|
-|[https://collegesanering.nl](https://collegesanering.nl)| $${\color{green}A+}$$ |nginx| |:white_check_mark: |:warning: | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |HSTS Nginx|301 Moved Perman...|
+|[https://feeds.collegesanering.nl](https://feeds.collegesanering.nl)| $${\color{green}A+}$$ |nginx| |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx||
+|[https://opendata.collegesanering.nl](https://opendata.collegesanering.nl)| $${\color{green}A+}$$ |nginx| |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx||
+|[https://autodiscover.collegesanering.nl](https://autodiscover.collegesanering.nl)| |Microsoft-IIS/10...| | | | | | :white_check_mark: |IIS:10.0 Windows Server||
+|[https://www.collegesanering.nl](https://www.collegesanering.nl)| $${\color{green}A+}$$ |nginx| |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Bloomreach HSTS Nginx|College sanering...|
+|[https://collegesanering.nl](https://collegesanering.nl)| $${\color{green}A+}$$ |nginx| |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx|301 Moved Perman...|

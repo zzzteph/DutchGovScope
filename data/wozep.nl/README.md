@@ -9,5 +9,5 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://www.wozep.nl](https://www.wozep.nl)| |nginx| |:white_check_mark: | | | | 3:white_check_mark: |HSTS Nginx|Bad Request (400...|
-|[https://wozep.nl](https://wozep.nl)| |nginx| |:white_check_mark: | | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |HSTS Nginx||
+|[https://www.wozep.nl](https://www.wozep.nl)| |nginx| |:white_check_mark: | | | | :white_check_mark: |HSTS Nginx|Bad Request (400...|
+|[https://wozep.nl](https://wozep.nl)| |nginx| |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx||

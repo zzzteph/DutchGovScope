@@ -9,7 +9,7 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
-|[http://irma.toegangtotdeoverheid.nl](http://irma.toegangtotdeoverheid.nl)| || | | | | | 3:white_check_mark: |||
-|[https://irma.tst.toegangtotdeoverheid.nl](https://irma.tst.toegangtotdeoverheid.nl)| |Apache| | | | | | 3:white_check_mark: |Apache HTTP Server|A-Select Filter...|
-|[https://tst.toegangtotdeoverheid.nl](https://tst.toegangtotdeoverheid.nl)| |N.A.|:warning: |:white_check_mark: |:warning: | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |HSTS|foutmelding|
-|[http://toegangtotdeoverheid.nl](http://toegangtotdeoverheid.nl)| || | | | | | 3:white_check_mark: |||
+|[http://irma.toegangtotdeoverheid.nl](http://irma.toegangtotdeoverheid.nl)| || | | | | | :white_check_mark: |||
+|[https://irma.tst.toegangtotdeoverheid.nl](https://irma.tst.toegangtotdeoverheid.nl)| |Apache| | | | | | :white_check_mark: |Apache HTTP Server|A-Select Filter...|
+|[https://tst.toegangtotdeoverheid.nl](https://tst.toegangtotdeoverheid.nl)| |N.A.|:warning: |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS|foutmelding|
+|[http://toegangtotdeoverheid.nl](http://toegangtotdeoverheid.nl)| || | | | | | :white_check_mark: |||

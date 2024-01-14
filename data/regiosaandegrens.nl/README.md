@@ -9,7 +9,7 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://www.regiosaandegrens.nl](https://www.regiosaandegrens.nl)| |nginx| |:white_check_mark: |:warning: | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |Bloomreach HSTS Nginx|Home | Regio's a...|
-|[https://opendata.regiosaandegrens.nl](https://opendata.regiosaandegrens.nl)| |nginx| |:white_check_mark: | | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |HSTS Nginx||
-|[https://feeds.regiosaandegrens.nl](https://feeds.regiosaandegrens.nl)| |nginx| |:white_check_mark: | | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |HSTS Nginx||
-|[https://regiosaandegrens.nl](https://regiosaandegrens.nl)| |nginx| |:white_check_mark: |:warning: | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |HSTS Nginx||
+|[https://www.regiosaandegrens.nl](https://www.regiosaandegrens.nl)| |nginx| |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Bloomreach HSTS Nginx|Home | Regio's a...|
+|[https://opendata.regiosaandegrens.nl](https://opendata.regiosaandegrens.nl)| |nginx| |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx||
+|[https://feeds.regiosaandegrens.nl](https://feeds.regiosaandegrens.nl)| |nginx| |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx||
+|[https://regiosaandegrens.nl](https://regiosaandegrens.nl)| |nginx| |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx||

@@ -9,7 +9,7 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://www.forensischezorg.nl](https://www.forensischezorg.nl)| $${\color{green}A+}$$ |nginx| |:white_check_mark: |:warning: | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |Bloomreach HSTS Nginx|Home | Forensisc...|
-|[https://forensischezorg.nl](https://forensischezorg.nl)| $${\color{green}A+}$$ |nginx| |:white_check_mark: |:warning: | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |HSTS Nginx|301 Moved Perman...|
-|[https://feeds.forensischezorg.nl](https://feeds.forensischezorg.nl)| $${\color{green}A+}$$ |nginx| |:white_check_mark: | | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |HSTS Nginx||
-|[https://opendata.forensischezorg.nl](https://opendata.forensischezorg.nl)| $${\color{green}A+}$$ |nginx| |:white_check_mark: | | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |HSTS Nginx||
+|[https://www.forensischezorg.nl](https://www.forensischezorg.nl)| $${\color{green}A+}$$ |nginx| |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Bloomreach HSTS Nginx|Home | Forensisc...|
+|[https://forensischezorg.nl](https://forensischezorg.nl)| $${\color{green}A+}$$ |nginx| |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx|301 Moved Perman...|
+|[https://feeds.forensischezorg.nl](https://feeds.forensischezorg.nl)| $${\color{green}A+}$$ |nginx| |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx||
+|[https://opendata.forensischezorg.nl](https://opendata.forensischezorg.nl)| $${\color{green}A+}$$ |nginx| |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx||

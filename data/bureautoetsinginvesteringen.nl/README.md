@@ -9,7 +9,7 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://feeds.bureautoetsinginvesteringen.nl](https://feeds.bureautoetsinginvesteringen.nl)| $${\color{green}A+}$$ |nginx| |:white_check_mark: | | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |HSTS Nginx||
-|[https://opendata.bureautoetsinginvesteringen.nl](https://opendata.bureautoetsinginvesteringen.nl)| $${\color{green}A+}$$ |nginx| |:white_check_mark: | | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |HSTS Nginx||
-|[https://www.bureautoetsinginvesteringen.nl](https://www.bureautoetsinginvesteringen.nl)| $${\color{green}A+}$$ |nginx| |:white_check_mark: |:warning: | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |Bloomreach HSTS Nginx|Home | Bureau To...|
-|[https://bureautoetsinginvesteringen.nl](https://bureautoetsinginvesteringen.nl)| $${\color{green}A+}$$ |nginx| |:white_check_mark: |:warning: | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |HSTS Nginx|301 Moved Perman...|
+|[https://feeds.bureautoetsinginvesteringen.nl](https://feeds.bureautoetsinginvesteringen.nl)| $${\color{green}A+}$$ |nginx| |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx||
+|[https://opendata.bureautoetsinginvesteringen.nl](https://opendata.bureautoetsinginvesteringen.nl)| $${\color{green}A+}$$ |nginx| |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx||
+|[https://www.bureautoetsinginvesteringen.nl](https://www.bureautoetsinginvesteringen.nl)| $${\color{green}A+}$$ |nginx| |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Bloomreach HSTS Nginx|Home | Bureau To...|
+|[https://bureautoetsinginvesteringen.nl](https://bureautoetsinginvesteringen.nl)| $${\color{green}A+}$$ |nginx| |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx|301 Moved Perman...|

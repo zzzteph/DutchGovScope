@@ -9,8 +9,8 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://opendata.rsj.nl](https://opendata.rsj.nl)| |nginx| |:white_check_mark: | | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |HSTS Nginx||
-|[https://www.rsj.nl](https://www.rsj.nl)| |nginx| |:white_check_mark: |:warning: | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |Bloomreach HSTS Nginx|Home | Raad voor...|
-|[https://intranet.rsj.nl](https://intranet.rsj.nl)| |Apache| | | | | | 3:white_check_mark: |Apache HTTP Server|403 Forbidden|
-|[https://feeds.rsj.nl](https://feeds.rsj.nl)| |nginx| |:white_check_mark: | | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |HSTS Nginx||
-|[https://rsj.nl](https://rsj.nl)| |nginx| |:white_check_mark: |:warning: | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |HSTS Nginx|301 Moved Perman...|
+|[https://opendata.rsj.nl](https://opendata.rsj.nl)| |nginx| |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx||
+|[https://www.rsj.nl](https://www.rsj.nl)| |nginx| |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Bloomreach HSTS Nginx|Home | Raad voor...|
+|[https://intranet.rsj.nl](https://intranet.rsj.nl)| |Apache| | | | | | :white_check_mark: |Apache HTTP Server|403 Forbidden|
+|[https://feeds.rsj.nl](https://feeds.rsj.nl)| |nginx| |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx||
+|[https://rsj.nl](https://rsj.nl)| |nginx| |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx|301 Moved Perman...|

@@ -9,7 +9,7 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://congres.waardigheidentrots.nl](https://congres.waardigheidentrots.nl)| |Microsoft-IIS/10...| |:white_check_mark: | | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |IIS:10.0 Windows Server|Document Moved|
-|[https://www.waardigheidentrots.nl](https://www.waardigheidentrots.nl)| ||:warning: |:white_check_mark: | | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |Azure Azure Front Door Google Tag Manager HSTS Microsoft ASP.NET|Waardigheid en t...|
-|[https://portaal.waardigheidentrots.nl](https://portaal.waardigheidentrots.nl)| |Microsoft-IIS/10...|:white_check_mark: |:white_check_mark: |:warning: | | | 3:white_check_mark: |Azure HSTS IIS:10.0 Microsoft ASP.NET Windows Server|Waardigheid en t...|
-|[https://waardigheidentrots.nl](https://waardigheidentrots.nl)| ||:warning: |:white_check_mark: | | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |Azure Azure Front Door HSTS Microsoft ASP.NET||
+|[https://congres.waardigheidentrots.nl](https://congres.waardigheidentrots.nl)| |Microsoft-IIS/10...| |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |IIS:10.0 Windows Server|Document Moved|
+|[https://www.waardigheidentrots.nl](https://www.waardigheidentrots.nl)| ||:warning: |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |Azure Azure Front Door Google Tag Manager HSTS Microsoft ASP.NET|Waardigheid en t...|
+|[https://portaal.waardigheidentrots.nl](https://portaal.waardigheidentrots.nl)| |Microsoft-IIS/10...|:white_check_mark: |:white_check_mark: |:warning: | | | :white_check_mark: |Azure HSTS IIS:10.0 Microsoft ASP.NET Windows Server|Waardigheid en t...|
+|[https://waardigheidentrots.nl](https://waardigheidentrots.nl)| ||:warning: |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |Azure Azure Front Door HSTS Microsoft ASP.NET||

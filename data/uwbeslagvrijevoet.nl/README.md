@@ -9,8 +9,8 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://bereken.uwbeslagvrijevoet.nl](https://bereken.uwbeslagvrijevoet.nl)| ||:white_check_mark: |:white_check_mark: |:warning: | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |HSTS Java Stimulus|Startpagina|
-|[https://feeds.uwbeslagvrijevoet.nl](https://feeds.uwbeslagvrijevoet.nl)| |nginx| |:white_check_mark: | | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |HSTS Nginx||
-|[https://opendata.uwbeslagvrijevoet.nl](https://opendata.uwbeslagvrijevoet.nl)| |nginx| |:white_check_mark: | | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |HSTS Nginx||
-|[https://www.uwbeslagvrijevoet.nl](https://www.uwbeslagvrijevoet.nl)| |nginx| |:white_check_mark: |:warning: | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |Bloomreach HSTS Nginx|Home | Uw beslag...|
-|[https://uwbeslagvrijevoet.nl](https://uwbeslagvrijevoet.nl)| |nginx| |:white_check_mark: |:warning: | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |HSTS Nginx||
+|[https://bereken.uwbeslagvrijevoet.nl](https://bereken.uwbeslagvrijevoet.nl)| ||:white_check_mark: |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Java Stimulus|Startpagina|
+|[https://feeds.uwbeslagvrijevoet.nl](https://feeds.uwbeslagvrijevoet.nl)| |nginx| |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx||
+|[https://opendata.uwbeslagvrijevoet.nl](https://opendata.uwbeslagvrijevoet.nl)| |nginx| |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx||
+|[https://www.uwbeslagvrijevoet.nl](https://www.uwbeslagvrijevoet.nl)| |nginx| |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Bloomreach HSTS Nginx|Home | Uw beslag...|
+|[https://uwbeslagvrijevoet.nl](https://uwbeslagvrijevoet.nl)| |nginx| |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx||

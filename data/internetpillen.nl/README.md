@@ -9,6 +9,6 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://english.internetpillen.nl](https://english.internetpillen.nl)| |Microsoft-IIS/10...| |:white_check_mark: |:warning: | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |HSTS IIS:10.0 Windows Server|Document Moved|
-|[https://www.internetpillen.nl](https://www.internetpillen.nl)| |Microsoft-IIS/10...| |:white_check_mark: |:warning: | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |HSTS IIS:10.0 Windows Server|Document Moved|
-|[https://internetpillen.nl](https://internetpillen.nl)| |Microsoft-IIS/10...| |:white_check_mark: |:warning: | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |HSTS IIS:10.0 Windows Server|Document Moved|
+|[https://english.internetpillen.nl](https://english.internetpillen.nl)| |Microsoft-IIS/10...| |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS IIS:10.0 Windows Server|Document Moved|
+|[https://www.internetpillen.nl](https://www.internetpillen.nl)| |Microsoft-IIS/10...| |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS IIS:10.0 Windows Server|Document Moved|
+|[https://internetpillen.nl](https://internetpillen.nl)| |Microsoft-IIS/10...| |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS IIS:10.0 Windows Server|Document Moved|

@@ -9,5 +9,5 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://www.a16rotterdam.nl](https://www.a16rotterdam.nl)| || |:white_check_mark: | | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |HSTS Microsoft ASP.NET YouTube|Object moved|
-|[https://a16rotterdam.nl](https://a16rotterdam.nl)| || |:white_check_mark: | | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |HSTS Microsoft ASP.NET YouTube|Object moved|
+|[https://www.a16rotterdam.nl](https://www.a16rotterdam.nl)| || |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Microsoft ASP.NET YouTube|Object moved|
+|[https://a16rotterdam.nl](https://a16rotterdam.nl)| || |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Microsoft ASP.NET YouTube|Object moved|

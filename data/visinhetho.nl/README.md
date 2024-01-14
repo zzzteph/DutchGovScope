@@ -9,6 +9,6 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://community.visinhetho.nl](https://community.visinhetho.nl)| || | | | | | 3:white_check_mark: |||
-|[https://www.visinhetho.nl](https://www.visinhetho.nl)| || |:white_check_mark: |:warning: | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |||
-|[https://visinhetho.nl](https://visinhetho.nl)| || |:white_check_mark: |:warning: | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |Gravity Forms HSTS MySQL PHP WPML:4.6.8 WordPress:6.4.2 Yoast SEO:21.6 ZURB Foundation|Home - VIS|
+|[https://community.visinhetho.nl](https://community.visinhetho.nl)| || | | | | | :white_check_mark: |||
+|[https://www.visinhetho.nl](https://www.visinhetho.nl)| || |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |||
+|[https://visinhetho.nl](https://visinhetho.nl)| || |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Gravity Forms HSTS MySQL PHP WPML:4.6.8 WordPress:6.4.2 Yoast SEO:21.6 ZURB Foundation|Home - VIS|

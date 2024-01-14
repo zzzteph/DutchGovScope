@@ -9,5 +9,5 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://www.delichtkogel.nl](https://www.delichtkogel.nl)| |-| |:white_check_mark: | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |HSTS Microsoft ASP.NET:-|Object moved|
-|[https://delichtkogel.nl](https://delichtkogel.nl)| |-| |:white_check_mark: | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |HSTS Microsoft ASP.NET:-|Home - delichtko...|
+|[https://www.delichtkogel.nl](https://www.delichtkogel.nl)| |-| |:white_check_mark: | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Microsoft ASP.NET:-|Object moved|
+|[https://delichtkogel.nl](https://delichtkogel.nl)| |-| |:white_check_mark: | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Microsoft ASP.NET:-|Home - delichtko...|

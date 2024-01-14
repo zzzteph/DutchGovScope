@@ -9,5 +9,5 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://www.staatvandeuitvoering.nl](https://www.staatvandeuitvoering.nl)| |nginx| |:white_check_mark: | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |HSTS Nginx|301 Moved Perman...|
-|[https://staatvandeuitvoering.nl](https://staatvandeuitvoering.nl)| || |:white_check_mark: | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |Gravity Forms HSTS MySQL PHP WordPress Yoast SEO:21.7|De Staat van de...|
+|[https://www.staatvandeuitvoering.nl](https://www.staatvandeuitvoering.nl)| |nginx| |:white_check_mark: | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx|301 Moved Perman...|
+|[https://staatvandeuitvoering.nl](https://staatvandeuitvoering.nl)| || |:white_check_mark: | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: |Gravity Forms HSTS MySQL PHP WordPress Yoast SEO:21.7|De Staat van de...|

@@ -9,9 +9,9 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://development.mobilityhappiness.nl](https://development.mobilityhappiness.nl)| |nginx| | | | | | 3:white_check_mark: |Nginx||
-|[https://mobiliteitsalliantie.mobilityhappiness.nl](https://mobiliteitsalliantie.mobilityhappiness.nl)| |nginx| | | | | | 3:white_check_mark: |Nginx||
-|[https://www.mobilityhappiness.nl](https://www.mobilityhappiness.nl)| |nginx| | | | | | 3:white_check_mark: |Nginx||
-|[https://www.development.mobilityhappiness.nl](https://www.development.mobilityhappiness.nl)| |nginx| | | | | | 3:white_check_mark: |Nginx||
-|[https://www.mobiliteitsalliantie.mobilityhappiness.nl](https://www.mobiliteitsalliantie.mobilityhappiness.nl)| |nginx| | | | | | 3:white_check_mark: |Nginx||
-|[https://mobilityhappiness.nl](https://mobilityhappiness.nl)| |nginx| | | | | | 3:white_check_mark: |Nginx||
+|[https://development.mobilityhappiness.nl](https://development.mobilityhappiness.nl)| |nginx| | | | | | :white_check_mark: |Nginx||
+|[https://mobiliteitsalliantie.mobilityhappiness.nl](https://mobiliteitsalliantie.mobilityhappiness.nl)| |nginx| | | | | | :white_check_mark: |Nginx||
+|[https://www.mobilityhappiness.nl](https://www.mobilityhappiness.nl)| |nginx| | | | | | :white_check_mark: |Nginx||
+|[https://www.development.mobilityhappiness.nl](https://www.development.mobilityhappiness.nl)| |nginx| | | | | | :white_check_mark: |Nginx||
+|[https://www.mobiliteitsalliantie.mobilityhappiness.nl](https://www.mobiliteitsalliantie.mobilityhappiness.nl)| |nginx| | | | | | :white_check_mark: |Nginx||
+|[https://mobilityhappiness.nl](https://mobilityhappiness.nl)| |nginx| | | | | | :white_check_mark: |Nginx||

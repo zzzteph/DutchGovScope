@@ -9,5 +9,5 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://www.a28a1knooppunthoevelaken.nl](https://www.a28a1knooppunthoevelaken.nl)| || |:white_check_mark: | | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |Google Tag Manager HSTS Microsoft ASP.NET|Object moved|
-|[https://a28a1knooppunthoevelaken.nl](https://a28a1knooppunthoevelaken.nl)| || |:white_check_mark: | | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |Google Tag Manager HSTS Microsoft ASP.NET|Object moved|
+|[https://www.a28a1knooppunthoevelaken.nl](https://www.a28a1knooppunthoevelaken.nl)| || |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |Google Tag Manager HSTS Microsoft ASP.NET|Object moved|
+|[https://a28a1knooppunthoevelaken.nl](https://a28a1knooppunthoevelaken.nl)| || |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |Google Tag Manager HSTS Microsoft ASP.NET|Object moved|

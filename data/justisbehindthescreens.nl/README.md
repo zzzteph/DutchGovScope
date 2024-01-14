@@ -9,6 +9,6 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://justisbehindthescreens.nl](https://justisbehindthescreens.nl)| || | | | | | 3:white_check_mark: |||
-|[https://www.justisbehindthescreens.nl](https://www.justisbehindthescreens.nl)| || | | | | | 3:white_check_mark: |||
-|[https://staging.justisbehindthescreens.nl](https://staging.justisbehindthescreens.nl)| |nginx| | | | | | 3:white_check_mark: |Nginx UIKit|mei 2022 | Justi...|
+|[https://justisbehindthescreens.nl](https://justisbehindthescreens.nl)| || | | | | | :white_check_mark: |||
+|[https://www.justisbehindthescreens.nl](https://www.justisbehindthescreens.nl)| || | | | | | :white_check_mark: |||
+|[https://staging.justisbehindthescreens.nl](https://staging.justisbehindthescreens.nl)| |nginx| | | | | | :white_check_mark: |Nginx UIKit|mei 2022 | Justi...|

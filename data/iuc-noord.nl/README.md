@@ -9,5 +9,5 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://www.iuc-noord.nl](https://www.iuc-noord.nl)| || |:white_check_mark: | | 1:white_check_mark: | | 3:white_check_mark: |Bootstrap HSTS YouTube|Home|
-|[https://iuc-noord.nl](https://iuc-noord.nl)| |Apache| |:white_check_mark: | | | | 3:white_check_mark: |Apache HTTP Server HSTS|403 Forbidden|
+|[https://www.iuc-noord.nl](https://www.iuc-noord.nl)| || |:white_check_mark: | | :white_check_mark: | | :white_check_mark: |Bootstrap HSTS YouTube|Home|
+|[https://iuc-noord.nl](https://iuc-noord.nl)| |Apache| |:white_check_mark: | | | | :white_check_mark: |Apache HTTP Server HSTS|403 Forbidden|

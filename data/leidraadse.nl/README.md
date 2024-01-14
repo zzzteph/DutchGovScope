@@ -9,7 +9,7 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://mail.leidraadse.nl](https://mail.leidraadse.nl)| |Apache| | | | | | 3:white_check_mark: |Apache HTTP Server|Default Parallel...|
-|[https://webmail.leidraadse.nl](https://webmail.leidraadse.nl)| |Apache| | | | | | 3:white_check_mark: |Apache HTTP Server PHP:8.2.14|Internal Error|
-|[https://www.leidraadse.nl](https://www.leidraadse.nl)| |Apache|:o: | | | | | 3:white_check_mark: |Apache HTTP Server PHP|Welkom | Leidraa...|
-|[https://leidraadse.nl](https://leidraadse.nl)| |Apache|:o: | | | | | 3:white_check_mark: |Apache HTTP Server PHP|Welkom | Leidraa...|
+|[https://mail.leidraadse.nl](https://mail.leidraadse.nl)| |Apache| | | | | | :white_check_mark: |Apache HTTP Server|Default Parallel...|
+|[https://webmail.leidraadse.nl](https://webmail.leidraadse.nl)| |Apache| | | | | | :white_check_mark: |Apache HTTP Server PHP:8.2.14|Internal Error|
+|[https://www.leidraadse.nl](https://www.leidraadse.nl)| |Apache|:o: | | | | | :white_check_mark: |Apache HTTP Server PHP|Welkom | Leidraa...|
+|[https://leidraadse.nl](https://leidraadse.nl)| |Apache|:o: | | | | | :white_check_mark: |Apache HTTP Server PHP|Welkom | Leidraa...|

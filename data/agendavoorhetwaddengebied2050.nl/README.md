@@ -9,6 +9,6 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://www.agendavoorhetwaddengebied2050.nl](https://www.agendavoorhetwaddengebied2050.nl)| |-| |:white_check_mark: | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |HSTS Microsoft ASP.NET:-|Object moved|
-|[https://agendavoorhetwaddengebied2050.nl](https://agendavoorhetwaddengebied2050.nl)| |-| |:white_check_mark: | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |HSTS Microsoft ASP.NET:-|Object moved|
-|[http://mail.agendavoorhetwaddengebied2050.nl](http://mail.agendavoorhetwaddengebied2050.nl)| |Microsoft-HTTPAP...| | | | | | 3:white_check_mark: |Microsoft HTTPAPI:2.0|Not Found|
+|[https://www.agendavoorhetwaddengebied2050.nl](https://www.agendavoorhetwaddengebied2050.nl)| |-| |:white_check_mark: | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Microsoft ASP.NET:-|Object moved|
+|[https://agendavoorhetwaddengebied2050.nl](https://agendavoorhetwaddengebied2050.nl)| |-| |:white_check_mark: | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Microsoft ASP.NET:-|Object moved|
+|[http://mail.agendavoorhetwaddengebied2050.nl](http://mail.agendavoorhetwaddengebied2050.nl)| |Microsoft-HTTPAP...| | | | | | :white_check_mark: |Microsoft HTTPAPI:2.0|Not Found|

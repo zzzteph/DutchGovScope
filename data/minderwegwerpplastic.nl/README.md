@@ -9,5 +9,5 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://minderwegwerpplastic.nl](https://minderwegwerpplastic.nl)| |Apache| | | | | | 3:white_check_mark: |Apache HTTP Server HSTS|Home | Ministeri...|
-|[https://www.minderwegwerpplastic.nl](https://www.minderwegwerpplastic.nl)| |Apache| | | | | | 3:white_check_mark: |Apache HTTP Server|301 Moved Perman...|
+|[https://minderwegwerpplastic.nl](https://minderwegwerpplastic.nl)| |Apache| | | | | | :white_check_mark: |Apache HTTP Server HSTS|Home | Ministeri...|
+|[https://www.minderwegwerpplastic.nl](https://www.minderwegwerpplastic.nl)| |Apache| | | | | | :white_check_mark: |Apache HTTP Server|301 Moved Perman...|

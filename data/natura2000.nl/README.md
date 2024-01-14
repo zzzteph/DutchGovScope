@@ -9,8 +9,8 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://acc.natura2000.nl](https://acc.natura2000.nl)| |nginx| | | | | | 3:white_check_mark: |Basic HSTS Nginx|401 Authorizatio...|
-|[https://pas.natura2000.nl](https://pas.natura2000.nl)| || | | | | | 3:white_check_mark: |HSTS||
-|[https://test.natura2000.nl](https://test.natura2000.nl)| |nginx| | | | | | 3:white_check_mark: |Basic Nginx|401 Authorizatio...|
-|[https://www.natura2000.nl](https://www.natura2000.nl)| |nginx| |:white_check_mark: | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |Drupal:10 HSTS Nginx PHP|Natura 2000 | na...|
-|[https://natura2000.nl](https://natura2000.nl)| |nginx| |:white_check_mark: | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |HSTS Nginx|301 Moved Perman...|
+|[https://acc.natura2000.nl](https://acc.natura2000.nl)| |nginx| | | | | | :white_check_mark: |Basic HSTS Nginx|401 Authorizatio...|
+|[https://pas.natura2000.nl](https://pas.natura2000.nl)| || | | | | | :white_check_mark: |HSTS||
+|[https://test.natura2000.nl](https://test.natura2000.nl)| |nginx| | | | | | :white_check_mark: |Basic Nginx|401 Authorizatio...|
+|[https://www.natura2000.nl](https://www.natura2000.nl)| |nginx| |:white_check_mark: | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: |Drupal:10 HSTS Nginx PHP|Natura 2000 | na...|
+|[https://natura2000.nl](https://natura2000.nl)| |nginx| |:white_check_mark: | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx|301 Moved Perman...|

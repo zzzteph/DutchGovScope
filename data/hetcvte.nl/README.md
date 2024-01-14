@@ -9,9 +9,9 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://mx2.hetcvte.nl](https://mx2.hetcvte.nl)| |Microsoft-IIS/10...| | | | | | 3:white_check_mark: |IIS:10.0 Windows Server||
-|[https://da.hetcvte.nl](https://da.hetcvte.nl)| |Microsoft-IIS/10...| | | | | | 3:white_check_mark: |IIS:10.0 Windows Server||
-|[https://mbg.hetcvte.nl](https://mbg.hetcvte.nl)| |Apache| |:white_check_mark: | | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |Apache HTTP Server HSTS|Redirecting...|
-|[https://micollab.hetcvte.nl](https://micollab.hetcvte.nl)| |Apache| |:white_check_mark: | | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |Apache HTTP Server HSTS|Redirecting...|
-|[https://www.hetcvte.nl](https://www.hetcvte.nl)| |nginx| |:white_check_mark: |:warning: | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |Nginx|301 Moved Perman...|
-|[https://hetcvte.nl](https://hetcvte.nl)| |nginx| |:white_check_mark: |:warning: | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |Nginx|301 Moved Perman...|
+|[https://mx2.hetcvte.nl](https://mx2.hetcvte.nl)| |Microsoft-IIS/10...| | | | | | :white_check_mark: |IIS:10.0 Windows Server||
+|[https://da.hetcvte.nl](https://da.hetcvte.nl)| |Microsoft-IIS/10...| | | | | | :white_check_mark: |IIS:10.0 Windows Server||
+|[https://mbg.hetcvte.nl](https://mbg.hetcvte.nl)| |Apache| |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |Apache HTTP Server HSTS|Redirecting...|
+|[https://micollab.hetcvte.nl](https://micollab.hetcvte.nl)| |Apache| |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |Apache HTTP Server HSTS|Redirecting...|
+|[https://www.hetcvte.nl](https://www.hetcvte.nl)| |nginx| |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Nginx|301 Moved Perman...|
+|[https://hetcvte.nl](https://hetcvte.nl)| |nginx| |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Nginx|301 Moved Perman...|

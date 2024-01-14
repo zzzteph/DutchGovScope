@@ -9,10 +9,10 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://cert.pkioverheid.nl](https://cert.pkioverheid.nl)| |Apache| |:white_check_mark: | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |Apache HTTP Server HSTS|Overzicht PKIove...|
-|[https://cps.pkioverheid.nl](https://cps.pkioverheid.nl)| |Apache| |:white_check_mark: | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |Apache HTTP Server HSTS|Certification Pr...|
-|[https://crl.pkioverheid.nl](https://crl.pkioverheid.nl)| |Apache| |:white_check_mark: | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |Apache HTTP Server HSTS|PKIoverheid Cert...|
-|[https://www.pkioverheid.nl](https://www.pkioverheid.nl)| |Apache| |:white_check_mark: | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |Apache HTTP Server HSTS|302 Found|
-|[https://pkioverheid.nl](https://pkioverheid.nl)| |Apache| |:white_check_mark: | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |Apache HTTP Server HSTS|302 Found|
-|[http://domorganisatieservicesocsp-g3.pkioverheid.nl](http://domorganisatieservicesocsp-g3.pkioverheid.nl)| || |:white_check_mark: | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |HSTS||
-|[http://rootocsp-g3.pkioverheid.nl](http://rootocsp-g3.pkioverheid.nl)| || |:white_check_mark: | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |HSTS||
+|[https://cert.pkioverheid.nl](https://cert.pkioverheid.nl)| |Apache| |:white_check_mark: | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: |Apache HTTP Server HSTS|Overzicht PKIove...|
+|[https://cps.pkioverheid.nl](https://cps.pkioverheid.nl)| |Apache| |:white_check_mark: | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: |Apache HTTP Server HSTS|Certification Pr...|
+|[https://crl.pkioverheid.nl](https://crl.pkioverheid.nl)| |Apache| |:white_check_mark: | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: |Apache HTTP Server HSTS|PKIoverheid Cert...|
+|[https://www.pkioverheid.nl](https://www.pkioverheid.nl)| |Apache| |:white_check_mark: | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: |Apache HTTP Server HSTS|302 Found|
+|[https://pkioverheid.nl](https://pkioverheid.nl)| |Apache| |:white_check_mark: | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: |Apache HTTP Server HSTS|302 Found|
+|[http://domorganisatieservicesocsp-g3.pkioverheid.nl](http://domorganisatieservicesocsp-g3.pkioverheid.nl)| || |:white_check_mark: | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS||
+|[http://rootocsp-g3.pkioverheid.nl](http://rootocsp-g3.pkioverheid.nl)| || |:white_check_mark: | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS||

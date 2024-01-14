@@ -9,6 +9,6 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://www.leidenincijfers.nl](https://www.leidenincijfers.nl)| |Apache| |:white_check_mark: | | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |Apache HTTP Server||
-|[https://leidenincijfers.nl](https://leidenincijfers.nl)| |Apache| |:white_check_mark: | | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |Apache HTTP Server||
-|[https://mail.leidenincijfers.nl](https://mail.leidenincijfers.nl)| |Apache| |:white_check_mark: | | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |Apache HTTP Server||
+|[https://www.leidenincijfers.nl](https://www.leidenincijfers.nl)| |Apache| |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |Apache HTTP Server||
+|[https://leidenincijfers.nl](https://leidenincijfers.nl)| |Apache| |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |Apache HTTP Server||
+|[https://mail.leidenincijfers.nl](https://mail.leidenincijfers.nl)| |Apache| |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |Apache HTTP Server||

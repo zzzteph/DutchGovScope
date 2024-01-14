@@ -9,5 +9,5 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
-|[http://www.mijneindexamen.nl](http://www.mijneindexamen.nl)| |Apache| | | | | | 3:white_check_mark: |Apache HTTP Server Bootstrap:4.3.1 Varnish|geregistreerd vi...|
-|[http://mijneindexamen.nl](http://mijneindexamen.nl)| |Apache| | | | | | 3:white_check_mark: |Apache HTTP Server Bootstrap:4.3.1 PHP:7.4.33 Varnish|geregistreerd vi...|
+|[http://www.mijneindexamen.nl](http://www.mijneindexamen.nl)| |Apache| | | | | | :white_check_mark: |Apache HTTP Server Bootstrap:4.3.1 Varnish|geregistreerd vi...|
+|[http://mijneindexamen.nl](http://mijneindexamen.nl)| |Apache| | | | | | :white_check_mark: |Apache HTTP Server Bootstrap:4.3.1 PHP:7.4.33 Varnish|geregistreerd vi...|

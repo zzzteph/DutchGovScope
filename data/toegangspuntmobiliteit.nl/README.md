@@ -9,7 +9,7 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://feeds.toegangspuntmobiliteit.nl](https://feeds.toegangspuntmobiliteit.nl)| |nginx| |:white_check_mark: | | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |HSTS Nginx||
-|[https://opendata.toegangspuntmobiliteit.nl](https://opendata.toegangspuntmobiliteit.nl)| |nginx| |:white_check_mark: | | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |HSTS Nginx||
-|[https://www.toegangspuntmobiliteit.nl](https://www.toegangspuntmobiliteit.nl)| |nginx| |:white_check_mark: |:warning: | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |Bloomreach HSTS Nginx|Home | Nationaal...|
-|[https://toegangspuntmobiliteit.nl](https://toegangspuntmobiliteit.nl)| |nginx| |:white_check_mark: |:warning: | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |HSTS Nginx||
+|[https://feeds.toegangspuntmobiliteit.nl](https://feeds.toegangspuntmobiliteit.nl)| |nginx| |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx||
+|[https://opendata.toegangspuntmobiliteit.nl](https://opendata.toegangspuntmobiliteit.nl)| |nginx| |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx||
+|[https://www.toegangspuntmobiliteit.nl](https://www.toegangspuntmobiliteit.nl)| |nginx| |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Bloomreach HSTS Nginx|Home | Nationaal...|
+|[https://toegangspuntmobiliteit.nl](https://toegangspuntmobiliteit.nl)| |nginx| |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx||

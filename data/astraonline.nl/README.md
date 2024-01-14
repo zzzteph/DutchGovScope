@@ -9,7 +9,7 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://astraonline.nl](https://astraonline.nl)| |Apache| |:white_check_mark: | | 1:white_check_mark: | | 3:white_check_mark: |Apache HTTP Server HSTS|301 Moved Perman...|
-|[https://www.astraonline.nl](https://www.astraonline.nl)| |Apache| |:white_check_mark: | | 1:white_check_mark: | | 3:white_check_mark: |Apache HTTP Server HSTS||
-|[https://redactie.astraonline.nl](https://redactie.astraonline.nl)| |Apache|:white_check_mark: |:white_check_mark: | | 1:white_check_mark: | | 3:white_check_mark: |Apache HTTP Server HSTS||
-|[https://mail.astraonline.nl](https://mail.astraonline.nl)| |Apache| | | | | | 3:white_check_mark: |Apache HTTP Server HSTS|302 Found|
+|[https://astraonline.nl](https://astraonline.nl)| |Apache| |:white_check_mark: | | :white_check_mark: | | :white_check_mark: |Apache HTTP Server HSTS|301 Moved Perman...|
+|[https://www.astraonline.nl](https://www.astraonline.nl)| |Apache| |:white_check_mark: | | :white_check_mark: | | :white_check_mark: |Apache HTTP Server HSTS||
+|[https://redactie.astraonline.nl](https://redactie.astraonline.nl)| |Apache|:white_check_mark: |:white_check_mark: | | :white_check_mark: | | :white_check_mark: |Apache HTTP Server HSTS||
+|[https://mail.astraonline.nl](https://mail.astraonline.nl)| |Apache| | | | | | :white_check_mark: |Apache HTTP Server HSTS|302 Found|

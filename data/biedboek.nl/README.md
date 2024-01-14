@@ -9,13 +9,13 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://acceptatie.biedboek.nl](https://acceptatie.biedboek.nl)| |Microsoft-HTTPAP...| | | | | | 3:white_check_mark: |Microsoft HTTPAPI:2.0|Not Found|
-|[https://internal.biedboek.nl](https://internal.biedboek.nl)| |Microsoft-HTTPAP...| | | | | | 3:white_check_mark: |Microsoft HTTPAPI:2.0|Not Found|
-|[https://test.biedboek.nl](https://test.biedboek.nl)| |Microsoft-IIS/10...|:white_check_mark: |:white_check_mark: |:warning: | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |HSTS IIS:10.0 Linkedin Ads Windows Server||
-|[https://test2.biedboek.nl](https://test2.biedboek.nl)| |Microsoft-IIS/10...| | | | | | 3:white_check_mark: |IIS:10.0 Microsoft ASP.NET Windows Server|Vastgoed en zake...|
-|[https://www.biedboek.nl](https://www.biedboek.nl)| |Microsoft-IIS/10...|:white_check_mark: |:white_check_mark: |:warning: | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |HSTS IIS:10.0 Linkedin Ads Windows Server||
-|[https://biedboek.nl](https://biedboek.nl)| |Microsoft-IIS/10...|:white_check_mark: |:white_check_mark: |:warning: | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |HSTS IIS:10.0 Linkedin Ads Windows Server|Document Moved|
-|[https://acceptatie-nieuw.biedboek.nl](https://acceptatie-nieuw.biedboek.nl)| ||:white_check_mark: | |:warning: | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |Azure React|Vastgoed en zake...|
-|[https://test-nieuw.biedboek.nl](https://test-nieuw.biedboek.nl)| || | |:warning: | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |React|Vastgoed en zake...|
-|[https://share.test-nieuw.biedboek.nl](https://share.test-nieuw.biedboek.nl)| || | |:warning: | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: ||Vastgoed en zake...|
-|[https://share.acceptatie-nieuw.biedboek.nl](https://share.acceptatie-nieuw.biedboek.nl)| ||:white_check_mark: | |:warning: | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |Azure|Vastgoed en zake...|
+|[https://acceptatie.biedboek.nl](https://acceptatie.biedboek.nl)| |Microsoft-HTTPAP...| | | | | | :white_check_mark: |Microsoft HTTPAPI:2.0|Not Found|
+|[https://internal.biedboek.nl](https://internal.biedboek.nl)| |Microsoft-HTTPAP...| | | | | | :white_check_mark: |Microsoft HTTPAPI:2.0|Not Found|
+|[https://test.biedboek.nl](https://test.biedboek.nl)| |Microsoft-IIS/10...|:white_check_mark: |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS IIS:10.0 Linkedin Ads Windows Server||
+|[https://test2.biedboek.nl](https://test2.biedboek.nl)| |Microsoft-IIS/10...| | | | | | :white_check_mark: |IIS:10.0 Microsoft ASP.NET Windows Server|Vastgoed en zake...|
+|[https://www.biedboek.nl](https://www.biedboek.nl)| |Microsoft-IIS/10...|:white_check_mark: |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS IIS:10.0 Linkedin Ads Windows Server||
+|[https://biedboek.nl](https://biedboek.nl)| |Microsoft-IIS/10...|:white_check_mark: |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS IIS:10.0 Linkedin Ads Windows Server|Document Moved|
+|[https://acceptatie-nieuw.biedboek.nl](https://acceptatie-nieuw.biedboek.nl)| ||:white_check_mark: | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Azure React|Vastgoed en zake...|
+|[https://test-nieuw.biedboek.nl](https://test-nieuw.biedboek.nl)| || | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |React|Vastgoed en zake...|
+|[https://share.test-nieuw.biedboek.nl](https://share.test-nieuw.biedboek.nl)| || | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: ||Vastgoed en zake...|
+|[https://share.acceptatie-nieuw.biedboek.nl](https://share.acceptatie-nieuw.biedboek.nl)| ||:white_check_mark: | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Azure|Vastgoed en zake...|

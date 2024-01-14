@@ -9,5 +9,5 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://meedoenmeteenhandicap.nl](https://meedoenmeteenhandicap.nl)| |Microsoft-IIS/10...| | | | | | 3:white_check_mark: |HSTS IIS:10.0 Windows Server|Document Moved|
-|[https://www.meedoenmeteenhandicap.nl](https://www.meedoenmeteenhandicap.nl)| |Microsoft-IIS/10...| | | | | | 3:white_check_mark: |HSTS IIS:10.0 Windows Server|Document Moved|
+|[https://meedoenmeteenhandicap.nl](https://meedoenmeteenhandicap.nl)| |Microsoft-IIS/10...| | | | | | :white_check_mark: |HSTS IIS:10.0 Windows Server|Document Moved|
+|[https://www.meedoenmeteenhandicap.nl](https://www.meedoenmeteenhandicap.nl)| |Microsoft-IIS/10...| | | | | | :white_check_mark: |HSTS IIS:10.0 Windows Server|Document Moved|

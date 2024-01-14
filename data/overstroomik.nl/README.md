@@ -9,6 +9,6 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://backend.overstroomik.nl](https://backend.overstroomik.nl)| |uvicorn| |:white_check_mark: | | | | 3:white_check_mark: |HSTS Python Uvicorn||
-|[https://www.overstroomik.nl](https://www.overstroomik.nl)| || |:white_check_mark: | | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |||
-|[https://overstroomik.nl](https://overstroomik.nl)| |nginx| |:white_check_mark: | | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |HSTS Nginx|Hoe hoog komt he...|
+|[https://backend.overstroomik.nl](https://backend.overstroomik.nl)| |uvicorn| |:white_check_mark: | | | | :white_check_mark: |HSTS Python Uvicorn||
+|[https://www.overstroomik.nl](https://www.overstroomik.nl)| || |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |||
+|[https://overstroomik.nl](https://overstroomik.nl)| |nginx| |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx|Hoe hoog komt he...|

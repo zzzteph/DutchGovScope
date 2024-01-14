@@ -9,13 +9,13 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://agendavoorhetwaddengebied2050.waddenzee.nl](https://agendavoorhetwaddengebied2050.waddenzee.nl)| |-| |:white_check_mark: | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |HSTS Microsoft ASP.NET:-|Home - agenda wa...|
-|[https://basismonitoringwadden.waddenzee.nl](https://basismonitoringwadden.waddenzee.nl)| |-| |:white_check_mark: | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |HSTS Microsoft ASP.NET:-|Home - basismoni...|
-|[https://plasticvrijewadden.waddenzee.nl](https://plasticvrijewadden.waddenzee.nl)| |-| |:white_check_mark: | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |HSTS Microsoft ASP.NET:-|Home - plasticvr...|
-|[https://www.waddenzee.nl](https://www.waddenzee.nl)| |-| |:white_check_mark: | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |HSTS Microsoft ASP.NET:-|Home - Waddenzee|
-|[https://waddenzee.nl](https://waddenzee.nl)| |-| |:white_check_mark: | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |HSTS Microsoft ASP.NET:-|Object moved|
-|[http://test.waddenzee.nl](http://test.waddenzee.nl)| |Microsoft-HTTPAP...| | | | | | 3:white_check_mark: |Microsoft HTTPAPI:2.0|Not Found|
-|[http://bmw9520.waddenzee.nl](http://bmw9520.waddenzee.nl)| |Microsoft-HTTPAP...| | | | | | 3:white_check_mark: |Microsoft HTTPAPI:2.0|Not Found|
-|[http://wadzee9520.waddenzee.nl](http://wadzee9520.waddenzee.nl)| |Microsoft-HTTPAP...| | | | | | 3:white_check_mark: |Microsoft HTTPAPI:2.0|Not Found|
-|[http://gebiedagen2.waddenzee.nl](http://gebiedagen2.waddenzee.nl)| |Microsoft-HTTPAP...| | | | | | 3:white_check_mark: |Microsoft HTTPAPI:2.0|Not Found|
-|[https://datahuiswadden.waddenzee.nl](https://datahuiswadden.waddenzee.nl)| |-| |:white_check_mark: | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |HSTS Microsoft ASP.NET:-|Home - datahuisw...|
+|[https://agendavoorhetwaddengebied2050.waddenzee.nl](https://agendavoorhetwaddengebied2050.waddenzee.nl)| |-| |:white_check_mark: | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Microsoft ASP.NET:-|Home - agenda wa...|
+|[https://basismonitoringwadden.waddenzee.nl](https://basismonitoringwadden.waddenzee.nl)| |-| |:white_check_mark: | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Microsoft ASP.NET:-|Home - basismoni...|
+|[https://plasticvrijewadden.waddenzee.nl](https://plasticvrijewadden.waddenzee.nl)| |-| |:white_check_mark: | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Microsoft ASP.NET:-|Home - plasticvr...|
+|[https://www.waddenzee.nl](https://www.waddenzee.nl)| |-| |:white_check_mark: | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Microsoft ASP.NET:-|Home - Waddenzee|
+|[https://waddenzee.nl](https://waddenzee.nl)| |-| |:white_check_mark: | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Microsoft ASP.NET:-|Object moved|
+|[http://test.waddenzee.nl](http://test.waddenzee.nl)| |Microsoft-HTTPAP...| | | | | | :white_check_mark: |Microsoft HTTPAPI:2.0|Not Found|
+|[http://bmw9520.waddenzee.nl](http://bmw9520.waddenzee.nl)| |Microsoft-HTTPAP...| | | | | | :white_check_mark: |Microsoft HTTPAPI:2.0|Not Found|
+|[http://wadzee9520.waddenzee.nl](http://wadzee9520.waddenzee.nl)| |Microsoft-HTTPAP...| | | | | | :white_check_mark: |Microsoft HTTPAPI:2.0|Not Found|
+|[http://gebiedagen2.waddenzee.nl](http://gebiedagen2.waddenzee.nl)| |Microsoft-HTTPAP...| | | | | | :white_check_mark: |Microsoft HTTPAPI:2.0|Not Found|
+|[https://datahuiswadden.waddenzee.nl](https://datahuiswadden.waddenzee.nl)| |-| |:white_check_mark: | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Microsoft ASP.NET:-|Home - datahuisw...|

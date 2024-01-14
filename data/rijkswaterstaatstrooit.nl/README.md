@@ -9,5 +9,5 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://www.rijkswaterstaatstrooit.nl](https://www.rijkswaterstaatstrooit.nl)| |nginx/1.21.3| |:white_check_mark: | | 1:white_check_mark: | | 3:white_check_mark: |HSTS Nginx:1.21.3 Varnish:6.0|Strooikaart | Ri...|
-|[https://rijkswaterstaatstrooit.nl](https://rijkswaterstaatstrooit.nl)| |nginx/1.21.3| |:white_check_mark: | | 1:white_check_mark: | | 3:white_check_mark: |HSTS Nginx:1.21.3 Varnish:6.0|Strooikaart | Ri...|
+|[https://www.rijkswaterstaatstrooit.nl](https://www.rijkswaterstaatstrooit.nl)| |nginx/1.21.3| |:white_check_mark: | | :white_check_mark: | | :white_check_mark: |HSTS Nginx:1.21.3 Varnish:6.0|Strooikaart | Ri...|
+|[https://rijkswaterstaatstrooit.nl](https://rijkswaterstaatstrooit.nl)| |nginx/1.21.3| |:white_check_mark: | | :white_check_mark: | | :white_check_mark: |HSTS Nginx:1.21.3 Varnish:6.0|Strooikaart | Ri...|

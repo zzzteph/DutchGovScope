@@ -9,5 +9,5 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://www.sportakkoord.nl](https://www.sportakkoord.nl)| || |:white_check_mark: | | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |Google Tag Manager HSTS MySQL PHP Varnish:6.2 WordPress|Aan de slag met...|
-|[https://sportakkoord.nl](https://sportakkoord.nl)| || |:white_check_mark: | | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |HSTS Varnish:6.2|301 Moved Perman...|
+|[https://www.sportakkoord.nl](https://www.sportakkoord.nl)| || |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |Google Tag Manager HSTS MySQL PHP Varnish:6.2 WordPress|Aan de slag met...|
+|[https://sportakkoord.nl](https://sportakkoord.nl)| || |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Varnish:6.2|301 Moved Perman...|

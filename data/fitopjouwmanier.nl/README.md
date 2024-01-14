@@ -9,7 +9,7 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://staging.fitopjouwmanier.nl](https://staging.fitopjouwmanier.nl)| |nginx| | | | | | 3:white_check_mark: |Basic Nginx|401 Authorizatio...|
-|[https://www.fitopjouwmanier.nl](https://www.fitopjouwmanier.nl)| |nginx| |:white_check_mark: | | | | 3:white_check_mark: |HSTS Nginx|Word ook fit op...|
-|[https://fitopjouwmanier.nl](https://fitopjouwmanier.nl)| |nginx| |:white_check_mark: | | | | 3:white_check_mark: |HSTS Nginx|Word ook fit op...|
-|[https://server01.fitopjouwmanier.nl](https://server01.fitopjouwmanier.nl)| |nginx| | | | | | 3:white_check_mark: |HSTS Nginx|Word ook fit op...|
+|[https://staging.fitopjouwmanier.nl](https://staging.fitopjouwmanier.nl)| |nginx| | | | | | :white_check_mark: |Basic Nginx|401 Authorizatio...|
+|[https://www.fitopjouwmanier.nl](https://www.fitopjouwmanier.nl)| |nginx| |:white_check_mark: | | | | :white_check_mark: |HSTS Nginx|Word ook fit op...|
+|[https://fitopjouwmanier.nl](https://fitopjouwmanier.nl)| |nginx| |:white_check_mark: | | | | :white_check_mark: |HSTS Nginx|Word ook fit op...|
+|[https://server01.fitopjouwmanier.nl](https://server01.fitopjouwmanier.nl)| |nginx| | | | | | :white_check_mark: |HSTS Nginx|Word ook fit op...|

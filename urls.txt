@@ -3969,7 +3969,6 @@ https://am.rijkswaterstaat.nl
 https://am.acp.rijkswaterstaat.nl
 https://am.ont.rijkswaterstaat.nl
 https://am.tst.rijkswaterstaat.nl
-https://bathymetrie.rijkswaterstaat.nl
 https://bezoekerscentrum.rijkswaterstaat.nl
 https://botova.rijkswaterstaat.nl
 https://crisiswerkplek.rijkswaterstaat.nl

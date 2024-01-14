@@ -9,8 +9,8 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://feeds.open-overheid.nl](https://feeds.open-overheid.nl)| |nginx| |:white_check_mark: | | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |HSTS Nginx||
-|[https://mail.open-overheid.nl](https://mail.open-overheid.nl)| |Apache| | | | | | 3:white_check_mark: |Apache HTTP Server|Domein niet gevo...|
-|[https://opendata.open-overheid.nl](https://opendata.open-overheid.nl)| |nginx| |:white_check_mark: | | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |HSTS Nginx||
-|[https://www.open-overheid.nl](https://www.open-overheid.nl)| |nginx| |:white_check_mark: |:warning: | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |Bloomreach HSTS Nginx|Home | Open Over...|
-|[https://open-overheid.nl](https://open-overheid.nl)| |nginx| |:white_check_mark: |:warning: | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |HSTS Nginx|301 Moved Perman...|
+|[https://feeds.open-overheid.nl](https://feeds.open-overheid.nl)| |nginx| |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx||
+|[https://mail.open-overheid.nl](https://mail.open-overheid.nl)| |Apache| | | | | | :white_check_mark: |Apache HTTP Server|Domein niet gevo...|
+|[https://opendata.open-overheid.nl](https://opendata.open-overheid.nl)| |nginx| |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx||
+|[https://www.open-overheid.nl](https://www.open-overheid.nl)| |nginx| |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Bloomreach HSTS Nginx|Home | Open Over...|
+|[https://open-overheid.nl](https://open-overheid.nl)| |nginx| |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx|301 Moved Perman...|

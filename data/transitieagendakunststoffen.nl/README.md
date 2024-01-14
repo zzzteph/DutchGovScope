@@ -9,5 +9,5 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://transitieagendakunststoffen.nl](https://transitieagendakunststoffen.nl)| |-| |:white_check_mark: | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |HSTS Microsoft ASP.NET:-|Transitieagenda...|
-|[https://www.transitieagendakunststoffen.nl](https://www.transitieagendakunststoffen.nl)| |-| |:white_check_mark: | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |HSTS Microsoft ASP.NET:-|Object moved|
+|[https://transitieagendakunststoffen.nl](https://transitieagendakunststoffen.nl)| |-| |:white_check_mark: | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Microsoft ASP.NET:-|Transitieagenda...|
+|[https://www.transitieagendakunststoffen.nl](https://www.transitieagendakunststoffen.nl)| |-| |:white_check_mark: | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Microsoft ASP.NET:-|Object moved|

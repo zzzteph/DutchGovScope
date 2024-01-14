@@ -9,17 +9,17 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://klachtenformulierlink.mensenrechten.nl](https://klachtenformulierlink.mensenrechten.nl)| || |:white_check_mark: | 1:white_check_mark: | | 3:white_check_mark: |HSTS|SMTP2GO|
-|[https://intranet.mensenrechten.nl](https://intranet.mensenrechten.nl)| |nginx|:white_check_mark: |:white_check_mark: |:warning: | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |Express HSTS Nginx Sails.js||
-|[https://mensenrechten.nl](https://mensenrechten.nl)| |nginx| |:white_check_mark: |:warning: | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |HSTS Nginx|301 Moved Perman...|
-|[https://www.mensenrechten.nl](https://www.mensenrechten.nl)| |nginx| |:white_check_mark: |:warning: | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |Bloomreach HSTS Nginx|Home | College v...|
-|[https://oordelen.mensenrechten.nl](https://oordelen.mensenrechten.nl)| |Microsoft-IIS/10...| |:white_check_mark: |:warning: | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |HSTS IIS:10.0 Windows Server||
-|[https://opendata.mensenrechten.nl](https://opendata.mensenrechten.nl)| |nginx| |:white_check_mark: | | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |HSTS Nginx||
-|[https://klachtenformulier.mensenrechten.nl](https://klachtenformulier.mensenrechten.nl)| |Microsoft-IIS/10...| |:white_check_mark: |:warning: | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |HSTS IIS:10.0 Windows Server hCaptcha|Meld discriminat...|
-|[https://publicaties.mensenrechten.nl](https://publicaties.mensenrechten.nl)| |Microsoft-IIS/10...| |:white_check_mark: |:warning: | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |HSTS IIS:10.0 Windows Server||
-|[https://cms.mensenrechten.nl](https://cms.mensenrechten.nl)| |Microsoft-IIS/10...| |:white_check_mark: | | | | 3:white_check_mark: |HSTS IIS:10.0 Microsoft ASP.NET:4.0.30319 Windows Server|Object moved|
-|[https://micollab.mensenrechten.nl](https://micollab.mensenrechten.nl)| |Apache| |:white_check_mark: | | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |Apache HTTP Server HSTS|Redirecting...|
-|[https://leren.mensenrechten.nl](https://leren.mensenrechten.nl)| |Apache/2.4.57 (U...| | | | 1:white_check_mark: | | 3:white_check_mark: |Apache HTTP Server:2.4.57 Moodle PHP Ubuntu|Doorverwijspagin...|
-|[https://feeds.mensenrechten.nl](https://feeds.mensenrechten.nl)| |nginx| |:white_check_mark: | | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |HSTS Nginx||
-|[https://complaintform.mensenrechten.nl](https://complaintform.mensenrechten.nl)| |Microsoft-IIS/10...| |:white_check_mark: |:warning: | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |IIS:10.0 Windows Server|403 - Forbidden:...|
-|[https://academie.mensenrechten.nl](https://academie.mensenrechten.nl)| |Apache| |:white_check_mark: | | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |Apache HTTP Server HSTS Moodle PHP|Doorverwijspagin...|
+|[https://klachtenformulierlink.mensenrechten.nl](https://klachtenformulierlink.mensenrechten.nl)| || |:white_check_mark: | :white_check_mark:| :white_check_mark: | | :white_check_mark: |HSTS|SMTP2GO|
+|[https://intranet.mensenrechten.nl](https://intranet.mensenrechten.nl)| |nginx|:white_check_mark: |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Express HSTS Nginx Sails.js||
+|[https://mensenrechten.nl](https://mensenrechten.nl)| |nginx| |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx|301 Moved Perman...|
+|[https://www.mensenrechten.nl](https://www.mensenrechten.nl)| |nginx| |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Bloomreach HSTS Nginx|Home | College v...|
+|[https://oordelen.mensenrechten.nl](https://oordelen.mensenrechten.nl)| |Microsoft-IIS/10...| |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS IIS:10.0 Windows Server||
+|[https://opendata.mensenrechten.nl](https://opendata.mensenrechten.nl)| |nginx| |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx||
+|[https://klachtenformulier.mensenrechten.nl](https://klachtenformulier.mensenrechten.nl)| |Microsoft-IIS/10...| |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS IIS:10.0 Windows Server hCaptcha|Meld discriminat...|
+|[https://publicaties.mensenrechten.nl](https://publicaties.mensenrechten.nl)| |Microsoft-IIS/10...| |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS IIS:10.0 Windows Server||
+|[https://cms.mensenrechten.nl](https://cms.mensenrechten.nl)| |Microsoft-IIS/10...| |:white_check_mark: | | | | :white_check_mark: |HSTS IIS:10.0 Microsoft ASP.NET:4.0.30319 Windows Server|Object moved|
+|[https://micollab.mensenrechten.nl](https://micollab.mensenrechten.nl)| |Apache| |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |Apache HTTP Server HSTS|Redirecting...|
+|[https://leren.mensenrechten.nl](https://leren.mensenrechten.nl)| |Apache/2.4.57 (U...| | | | :white_check_mark: | | :white_check_mark: |Apache HTTP Server:2.4.57 Moodle PHP Ubuntu|Doorverwijspagin...|
+|[https://feeds.mensenrechten.nl](https://feeds.mensenrechten.nl)| |nginx| |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx||
+|[https://complaintform.mensenrechten.nl](https://complaintform.mensenrechten.nl)| |Microsoft-IIS/10...| |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |IIS:10.0 Windows Server|403 - Forbidden:...|
+|[https://academie.mensenrechten.nl](https://academie.mensenrechten.nl)| |Apache| |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |Apache HTTP Server HSTS Moodle PHP|Doorverwijspagin...|

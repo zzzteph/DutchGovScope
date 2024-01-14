@@ -9,6 +9,6 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://acceptatie.topshuis.nl](https://acceptatie.topshuis.nl)| |nginx| | | | | | 3:white_check_mark: |Nginx|Topshuis | Meeti...|
-|[https://www.topshuis.nl](https://www.topshuis.nl)| |nginx| | | | | | 3:white_check_mark: |Google Tag Manager MySQL Nginx PHP WordPress:6.4.2 Yoast SEO:21.7|Topshuis | Meeti...|
-|[https://topshuis.nl](https://topshuis.nl)| |nginx| | | | | | 3:white_check_mark: |Nginx||
+|[https://acceptatie.topshuis.nl](https://acceptatie.topshuis.nl)| |nginx| | | | | | :white_check_mark: |Nginx|Topshuis | Meeti...|
+|[https://www.topshuis.nl](https://www.topshuis.nl)| |nginx| | | | | | :white_check_mark: |Google Tag Manager MySQL Nginx PHP WordPress:6.4.2 Yoast SEO:21.7|Topshuis | Meeti...|
+|[https://topshuis.nl](https://topshuis.nl)| |nginx| | | | | | :white_check_mark: |Nginx||

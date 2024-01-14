@@ -9,5 +9,5 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://www.slmmicrosoftrijk.nl](https://www.slmmicrosoftrijk.nl)| |nginx/1.24.0| | | | | | 3:white_check_mark: |Nginx:1.24.0||
-|[https://slmmicrosoftrijk.nl](https://slmmicrosoftrijk.nl)| |nginx/1.24.0| | | | | | 3:white_check_mark: |MySQL Nginx:1.24.0 PHP WordPress:6.3.2 Yoast SEO:21.5|Home - SLM Micro...|
+|[https://www.slmmicrosoftrijk.nl](https://www.slmmicrosoftrijk.nl)| |nginx/1.24.0| | | | | | :white_check_mark: |Nginx:1.24.0||
+|[https://slmmicrosoftrijk.nl](https://slmmicrosoftrijk.nl)| |nginx/1.24.0| | | | | | :white_check_mark: |MySQL Nginx:1.24.0 PHP WordPress:6.3.2 Yoast SEO:21.5|Home - SLM Micro...|

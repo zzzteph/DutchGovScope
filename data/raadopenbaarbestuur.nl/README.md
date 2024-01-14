@@ -9,8 +9,8 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://opendata.raadopenbaarbestuur.nl](https://opendata.raadopenbaarbestuur.nl)| |nginx| |:white_check_mark: | | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |HSTS Nginx||
-|[https://www.raadopenbaarbestuur.nl](https://www.raadopenbaarbestuur.nl)| |nginx| |:white_check_mark: |:warning: | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |Bloomreach HSTS Nginx|Home | Raad voor...|
-|[https://feeds.raadopenbaarbestuur.nl](https://feeds.raadopenbaarbestuur.nl)| |nginx| |:white_check_mark: | | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |HSTS Nginx||
-|[https://raadopenbaarbestuur.nl](https://raadopenbaarbestuur.nl)| |nginx| |:white_check_mark: |:warning: | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |HSTS Nginx|301 Moved Perman...|
-|[https://digitaal.raadopenbaarbestuur.nl](https://digitaal.raadopenbaarbestuur.nl)| |Apache/2| |:white_check_mark: |:warning: | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |Apache HTTP Server:2 PHP:7.3.33||
+|[https://opendata.raadopenbaarbestuur.nl](https://opendata.raadopenbaarbestuur.nl)| |nginx| |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx||
+|[https://www.raadopenbaarbestuur.nl](https://www.raadopenbaarbestuur.nl)| |nginx| |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Bloomreach HSTS Nginx|Home | Raad voor...|
+|[https://feeds.raadopenbaarbestuur.nl](https://feeds.raadopenbaarbestuur.nl)| |nginx| |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx||
+|[https://raadopenbaarbestuur.nl](https://raadopenbaarbestuur.nl)| |nginx| |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx|301 Moved Perman...|
+|[https://digitaal.raadopenbaarbestuur.nl](https://digitaal.raadopenbaarbestuur.nl)| |Apache/2| |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Apache HTTP Server:2 PHP:7.3.33||

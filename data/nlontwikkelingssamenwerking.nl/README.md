@@ -9,7 +9,7 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://acc.nlontwikkelingssamenwerking.nl](https://acc.nlontwikkelingssamenwerking.nl)| |Apache| | | | | | 3:white_check_mark: |Apache HTTP Server|403 Forbidden|
-|[https://dev.nlontwikkelingssamenwerking.nl](https://dev.nlontwikkelingssamenwerking.nl)| |Apache| | | | | | 3:white_check_mark: |Apache HTTP Server|403 Forbidden|
-|[https://tst.nlontwikkelingssamenwerking.nl](https://tst.nlontwikkelingssamenwerking.nl)| |Apache| | | | | | 3:white_check_mark: |Apache HTTP Server|403 Forbidden|
-|[https://www.nlontwikkelingssamenwerking.nl](https://www.nlontwikkelingssamenwerking.nl)| |Apache|:white_check_mark: |:white_check_mark: |:warning: | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |Apache HTTP Server HSTS Java|Home - OS Portaa...|
+|[https://acc.nlontwikkelingssamenwerking.nl](https://acc.nlontwikkelingssamenwerking.nl)| |Apache| | | | | | :white_check_mark: |Apache HTTP Server|403 Forbidden|
+|[https://dev.nlontwikkelingssamenwerking.nl](https://dev.nlontwikkelingssamenwerking.nl)| |Apache| | | | | | :white_check_mark: |Apache HTTP Server|403 Forbidden|
+|[https://tst.nlontwikkelingssamenwerking.nl](https://tst.nlontwikkelingssamenwerking.nl)| |Apache| | | | | | :white_check_mark: |Apache HTTP Server|403 Forbidden|
+|[https://www.nlontwikkelingssamenwerking.nl](https://www.nlontwikkelingssamenwerking.nl)| |Apache|:white_check_mark: |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Apache HTTP Server HSTS Java|Home - OS Portaa...|

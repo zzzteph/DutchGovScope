@@ -9,6 +9,6 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://postmaster.ertms.nl](https://postmaster.ertms.nl)| || | | | | | 3:white_check_mark: ||Document Moved|
-|[https://www.ertms.nl](https://www.ertms.nl)| || |:white_check_mark: | | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |HSTS Microsoft ASP.NET|Object moved|
-|[https://ertms.nl](https://ertms.nl)| || |:white_check_mark: | | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |HSTS Microsoft ASP.NET|Object moved|
+|[https://postmaster.ertms.nl](https://postmaster.ertms.nl)| || | | | | | :white_check_mark: ||Document Moved|
+|[https://www.ertms.nl](https://www.ertms.nl)| || |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Microsoft ASP.NET|Object moved|
+|[https://ertms.nl](https://ertms.nl)| || |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Microsoft ASP.NET|Object moved|

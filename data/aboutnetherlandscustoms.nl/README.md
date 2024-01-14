@@ -9,7 +9,7 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://www.aboutnetherlandscustoms.nl](https://www.aboutnetherlandscustoms.nl)| |nginx| |:white_check_mark: |:warning: | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |Bloomreach HSTS Nginx|Home | About Cus...|
-|[https://aboutnetherlandscustoms.nl](https://aboutnetherlandscustoms.nl)| |nginx| |:white_check_mark: |:warning: | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |HSTS Nginx|301 Moved Perman...|
-|[https://feeds.aboutnetherlandscustoms.nl](https://feeds.aboutnetherlandscustoms.nl)| |nginx| |:white_check_mark: | | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |HSTS Nginx||
-|[https://opendata.aboutnetherlandscustoms.nl](https://opendata.aboutnetherlandscustoms.nl)| |nginx| |:white_check_mark: | | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |HSTS Nginx||
+|[https://www.aboutnetherlandscustoms.nl](https://www.aboutnetherlandscustoms.nl)| |nginx| |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Bloomreach HSTS Nginx|Home | About Cus...|
+|[https://aboutnetherlandscustoms.nl](https://aboutnetherlandscustoms.nl)| |nginx| |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx|301 Moved Perman...|
+|[https://feeds.aboutnetherlandscustoms.nl](https://feeds.aboutnetherlandscustoms.nl)| |nginx| |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx||
+|[https://opendata.aboutnetherlandscustoms.nl](https://opendata.aboutnetherlandscustoms.nl)| |nginx| |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx||

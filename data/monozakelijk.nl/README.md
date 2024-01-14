@@ -9,6 +9,6 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://materiaal.monozakelijk.nl](https://materiaal.monozakelijk.nl)| |Apache/2| | | | | | 3:white_check_mark: |Apache HTTP Server:2 HSTS PHP:7.4.33|Redirecting to h...|
-|[https://www.monozakelijk.nl](https://www.monozakelijk.nl)| || |:white_check_mark: | | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |HSTS Microsoft ASP.NET|Object moved|
-|[https://monozakelijk.nl](https://monozakelijk.nl)| || |:white_check_mark: | | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |HSTS Microsoft ASP.NET|Object moved|
+|[https://materiaal.monozakelijk.nl](https://materiaal.monozakelijk.nl)| |Apache/2| | | | | | :white_check_mark: |Apache HTTP Server:2 HSTS PHP:7.4.33|Redirecting to h...|
+|[https://www.monozakelijk.nl](https://www.monozakelijk.nl)| || |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Microsoft ASP.NET|Object moved|
+|[https://monozakelijk.nl](https://monozakelijk.nl)| || |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Microsoft ASP.NET|Object moved|

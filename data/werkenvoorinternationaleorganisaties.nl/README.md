@@ -9,8 +9,8 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://feeds.werkenvoorinternationaleorganisaties.nl](https://feeds.werkenvoorinternationaleorganisaties.nl)| |nginx| |:white_check_mark: | | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |HSTS Nginx||
-|[https://opendata.werkenvoorinternationaleorganisaties.nl](https://opendata.werkenvoorinternationaleorganisaties.nl)| |nginx| |:white_check_mark: | | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |HSTS Nginx||
-|[https://vacature.werkenvoorinternationaleorganisaties.nl](https://vacature.werkenvoorinternationaleorganisaties.nl)| |Apache| |:white_check_mark: |:warning: | 1:white_check_mark: | | 3:white_check_mark: |Apache HTTP Server HSTS|Werken voor Inte...|
-|[https://www.werkenvoorinternationaleorganisaties.nl](https://www.werkenvoorinternationaleorganisaties.nl)| |nginx| |:white_check_mark: |:warning: | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |Bloomreach HSTS Nginx|Home | Werken vo...|
-|[https://werkenvoorinternationaleorganisaties.nl](https://werkenvoorinternationaleorganisaties.nl)| |nginx| |:white_check_mark: |:warning: | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |HSTS Nginx|301 Moved Perman...|
+|[https://feeds.werkenvoorinternationaleorganisaties.nl](https://feeds.werkenvoorinternationaleorganisaties.nl)| |nginx| |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx||
+|[https://opendata.werkenvoorinternationaleorganisaties.nl](https://opendata.werkenvoorinternationaleorganisaties.nl)| |nginx| |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx||
+|[https://vacature.werkenvoorinternationaleorganisaties.nl](https://vacature.werkenvoorinternationaleorganisaties.nl)| |Apache| |:white_check_mark: |:warning: | :white_check_mark: | | :white_check_mark: |Apache HTTP Server HSTS|Werken voor Inte...|
+|[https://www.werkenvoorinternationaleorganisaties.nl](https://www.werkenvoorinternationaleorganisaties.nl)| |nginx| |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Bloomreach HSTS Nginx|Home | Werken vo...|
+|[https://werkenvoorinternationaleorganisaties.nl](https://werkenvoorinternationaleorganisaties.nl)| |nginx| |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx|301 Moved Perman...|

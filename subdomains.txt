@@ -2670,6 +2670,7 @@ rma.inspectiejeugdzorg.nl
 rmatest.inspectiejeugdzorg.nl
 sharepoint.inspectiejeugdzorg.nl
 inspectiejeugdzorg.nl
+testcms.inspectiejeugdzorg.nl
 acceptatie.melding.inspectieszw.nl
 asbestovertredingen.inspectieszw.nl
 feeds.inspectieszw.nl
@@ -5883,6 +5884,7 @@ fleet-manager.datalab-prod.aws.noord-holland.nl
 qlikgw-prod.aws.noord-holland.nl
 pleinoud.noord-holland.nl
 qlikdatagwpoc-prod.aws.noord-holland.nl
+lms.noord-holland.nl
 feeds.nponderwijs.nl
 kennis.nponderwijs.nl
 opendata.nponderwijs.nl
@@ -7263,6 +7265,9 @@ digid-stub.lpc.mijn.overheid.nl
 eidas-stub.lpc.mijn.overheid.nl
 puc-redactie-tst.overheid.nl
 puc-tst.overheid.nl
+www.cio-tst.overheid.nl
+www.renvooiservice-acc.overheid.nl
+www.renvooiservice-tst.overheid.nl
 feeds.overheidvannu.nl
 magazines.overheidvannu.nl
 opendata.overheidvannu.nl
@@ -9270,6 +9275,13 @@ openbare-tzr.tweedekamer.nl
 datavisualisaties.tweedekamer.nl
 kva.tweedekamer.nl
 kva-acc.tweedekamer.nl
+groepsbezoek.tweedekamer.nl
+viv.tweedekamer.nl
+viv-acc.tweedekamer.nl
+apm.tweedekamer.nl
+sesam.tweedekamer.nl
+kva-test.tweedekamer.nl
+kva-tst.tweedekamer.nl
 api-acc.uboregistertrusts.nl
 mijn-acc.uboregistertrusts.nl
 raadplegen-acc.uboregistertrusts.nl
@@ -9835,6 +9847,7 @@ www.beheerrijksoverheid.nl
 domeinnaambeleid.nl
 www.domeinnaambeleid.nl
 www.eisenrijkswebsites.nl
+eisenrijkswebsites.nl
 abdtopconsult.nl
 www.abdtopconsult.nl
 bronbeek.nl
@@ -9929,8 +9942,11 @@ www.ministerievanvws.nl
 minvolksgezondheid.nl
 www.minvolksgezondheid.nl
 www.donorweek.nl
+donorweek.nl
 www.hehetisok.nl
+hehetisok.nl
 www.hehetisoke.nl
+hehetisoke.nl
 informatieberaad.nl
 www.informatieberaad.nl
 meedoenmeteenhandicap.nl

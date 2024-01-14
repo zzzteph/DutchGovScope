@@ -9,5 +9,5 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://tradewithnl.nl](https://tradewithnl.nl)| |Apache| |:white_check_mark: |:warning: | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |Apache HTTP Server Drupal:10 HSTS PHP|Homepage | Trade...|
-|[https://www.tradewithnl.nl](https://www.tradewithnl.nl)| |Apache| |:white_check_mark: |:warning: | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |Apache HTTP Server HSTS|301 Moved Perman...|
+|[https://tradewithnl.nl](https://tradewithnl.nl)| |Apache| |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Apache HTTP Server Drupal:10 HSTS PHP|Homepage | Trade...|
+|[https://www.tradewithnl.nl](https://www.tradewithnl.nl)| |Apache| |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Apache HTTP Server HSTS|301 Moved Perman...|

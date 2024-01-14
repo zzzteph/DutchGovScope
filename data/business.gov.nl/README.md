@@ -9,8 +9,8 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://www.business.gov.nl](https://www.business.gov.nl)| || | | | | | 3:white_check_mark: |||
-|[https://opendata.business.gov.nl](https://opendata.business.gov.nl)| $${\color{lightgreen}B}$$ || |:white_check_mark: | | 1:white_check_mark: | | 3:white_check_mark: |HSTS||
-|[https://search.business.gov.nl](https://search.business.gov.nl)| $${\color{lightgreen}B}$$ || |:white_check_mark: | | 1:white_check_mark: | | 3:white_check_mark: |HSTS||
-|[https://api.business.gov.nl](https://api.business.gov.nl)| $${\color{lightgreen}B}$$ || |:white_check_mark: | | 1:white_check_mark: | | 3:white_check_mark: |HSTS||
-|[https://business.gov.nl](https://business.gov.nl)| $${\color{lightgreen}B}$$ || |:white_check_mark: | | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |Bloomreach Google Tag Manager HSTS React|Business.gov.nl...|
+|[https://www.business.gov.nl](https://www.business.gov.nl)| || | | | | | :white_check_mark: |||
+|[https://opendata.business.gov.nl](https://opendata.business.gov.nl)| $${\color{lightgreen}B}$$ || |:white_check_mark: | | :white_check_mark: | | :white_check_mark: |HSTS||
+|[https://search.business.gov.nl](https://search.business.gov.nl)| $${\color{lightgreen}B}$$ || |:white_check_mark: | | :white_check_mark: | | :white_check_mark: |HSTS||
+|[https://api.business.gov.nl](https://api.business.gov.nl)| $${\color{lightgreen}B}$$ || |:white_check_mark: | | :white_check_mark: | | :white_check_mark: |HSTS||
+|[https://business.gov.nl](https://business.gov.nl)| $${\color{lightgreen}B}$$ || |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |Bloomreach Google Tag Manager HSTS React|Business.gov.nl...|

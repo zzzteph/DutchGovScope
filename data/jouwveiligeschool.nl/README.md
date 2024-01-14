@@ -9,5 +9,5 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://jouwveiligeschool.nl](https://jouwveiligeschool.nl)| |Apache| |:white_check_mark: | | 1:white_check_mark: | | 3:white_check_mark: |Apache HTTP Server HSTS|301 Moved Perman...|
-|[https://www.jouwveiligeschool.nl](https://www.jouwveiligeschool.nl)| |Apache| |:white_check_mark: | | 1:white_check_mark: | | 3:white_check_mark: |Apache HTTP Server Drupal:9 HSTS PHP|Wegwijzer voor i...|
+|[https://jouwveiligeschool.nl](https://jouwveiligeschool.nl)| |Apache| |:white_check_mark: | | :white_check_mark: | | :white_check_mark: |Apache HTTP Server HSTS|301 Moved Perman...|
+|[https://www.jouwveiligeschool.nl](https://www.jouwveiligeschool.nl)| |Apache| |:white_check_mark: | | :white_check_mark: | | :white_check_mark: |Apache HTTP Server Drupal:9 HSTS PHP|Wegwijzer voor i...|

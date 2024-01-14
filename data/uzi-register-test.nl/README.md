@@ -9,7 +9,7 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://www.uzi-register-test.nl](https://www.uzi-register-test.nl)| || | | | | | 3:white_check_mark: |HSTS|301 Moved Perman...|
-|[http://ocsp.uzi-register-test.nl](http://ocsp.uzi-register-test.nl)| || |:white_check_mark: | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |HSTS||
-|[https://www.csp.uzi-register-test.nl](https://www.csp.uzi-register-test.nl)| || | | | | | 3:white_check_mark: |HSTS|Home | Zorg CSP|
-|[https://uzi-register-test.nl](https://uzi-register-test.nl)| || | | | | | 3:white_check_mark: |HSTS|301 Moved Perman...|
+|[https://www.uzi-register-test.nl](https://www.uzi-register-test.nl)| || | | | | | :white_check_mark: |HSTS|301 Moved Perman...|
+|[http://ocsp.uzi-register-test.nl](http://ocsp.uzi-register-test.nl)| || |:white_check_mark: | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS||
+|[https://www.csp.uzi-register-test.nl](https://www.csp.uzi-register-test.nl)| || | | | | | :white_check_mark: |HSTS|Home | Zorg CSP|
+|[https://uzi-register-test.nl](https://uzi-register-test.nl)| || | | | | | :white_check_mark: |HSTS|301 Moved Perman...|

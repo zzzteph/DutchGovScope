@@ -9,5 +9,5 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://www.opwegmetwaterstof.nl](https://www.opwegmetwaterstof.nl)| |Apache/2| | | | | | 3:white_check_mark: |Apache HTTP Server:2 PHP:7.4.33||
-|[https://opwegmetwaterstof.nl](https://opwegmetwaterstof.nl)| |Apache/2| | | | | | 3:white_check_mark: |Apache HTTP Server:2 Google Tag Manager MySQL PHP:7.4.33 WordPress||
+|[https://www.opwegmetwaterstof.nl](https://www.opwegmetwaterstof.nl)| |Apache/2| | | | | | :white_check_mark: |Apache HTTP Server:2 PHP:7.4.33||
+|[https://opwegmetwaterstof.nl](https://opwegmetwaterstof.nl)| |Apache/2| | | | | | :white_check_mark: |Apache HTTP Server:2 Google Tag Manager MySQL PHP:7.4.33 WordPress||

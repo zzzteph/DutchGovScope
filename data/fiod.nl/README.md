@@ -9,7 +9,7 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://kennis.fiod.nl](https://kennis.fiod.nl)| ||:warning: |:white_check_mark: | | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |HSTS||
-|[https://platformafpakken.fiod.nl](https://platformafpakken.fiod.nl)| ||:white_check_mark: |:white_check_mark: | | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |HSTS MySQL PHP WordPress Yoast SEO Premium:21.6 Yoast SEO:21.6|Home | Platforma...|
-|[https://www.fiod.nl](https://www.fiod.nl)| ||:white_check_mark: |:white_check_mark: | | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |HSTS MySQL PHP WordPress Yoast SEO Premium:21.6 Yoast SEO:21.6|Home | FIOD|
-|[https://fiod.nl](https://fiod.nl)| || |:white_check_mark: | | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |HSTS|301 Moved Perman...|
+|[https://kennis.fiod.nl](https://kennis.fiod.nl)| ||:warning: |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS||
+|[https://platformafpakken.fiod.nl](https://platformafpakken.fiod.nl)| ||:white_check_mark: |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS MySQL PHP WordPress Yoast SEO Premium:21.6 Yoast SEO:21.6|Home | Platforma...|
+|[https://www.fiod.nl](https://www.fiod.nl)| ||:white_check_mark: |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS MySQL PHP WordPress Yoast SEO Premium:21.6 Yoast SEO:21.6|Home | FIOD|
+|[https://fiod.nl](https://fiod.nl)| || |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS|301 Moved Perman...|

@@ -9,10 +9,10 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://acc.mijnslachtofferzaak.nl](https://acc.mijnslachtofferzaak.nl)| |nginx|:white_check_mark: |:white_check_mark: | 1:white_check_mark: | | 3:white_check_mark: |Bootstrap HSTS Nginx|JustitieConnect|
-|[https://ingelogd.mijnslachtofferzaak.nl](https://ingelogd.mijnslachtofferzaak.nl)| |Apache|:white_check_mark: |:white_check_mark: | 1:white_check_mark: | | 3:white_check_mark: |Apache HTTP Server HSTS|A-Select Filter...|
-|[https://ingelogd.acc.mijnslachtofferzaak.nl](https://ingelogd.acc.mijnslachtofferzaak.nl)| |Apache|:white_check_mark: |:white_check_mark: | 1:white_check_mark: | | 3:white_check_mark: |Apache HTTP Server HSTS|A-Select Filter...|
-|[https://ingelogd.acc.staging.mijnslachtofferzaak.nl](https://ingelogd.acc.staging.mijnslachtofferzaak.nl)| |Apache| | | | | | 3:white_check_mark: |Apache HTTP Server HSTS|A-Select Filter...|
-|[https://ingelogd.staging.mijnslachtofferzaak.nl](https://ingelogd.staging.mijnslachtofferzaak.nl)| |Apache|:white_check_mark: |:white_check_mark: | 1:white_check_mark: | | 3:white_check_mark: |Apache HTTP Server HSTS|A-Select Filter...|
-|[https://www.mijnslachtofferzaak.nl](https://www.mijnslachtofferzaak.nl)| |nginx|:warning: |:white_check_mark: | 1:white_check_mark: | | 3:white_check_mark: |HSTS Nginx|MijnSlachtofferz...|
-|[https://mijnslachtofferzaak.nl](https://mijnslachtofferzaak.nl)| |nginx|:warning: |:white_check_mark: | 1:white_check_mark: | | 3:white_check_mark: |HSTS Nginx|MijnSlachtofferz...|
+|[https://acc.mijnslachtofferzaak.nl](https://acc.mijnslachtofferzaak.nl)| |nginx|:white_check_mark: |:white_check_mark: | :white_check_mark:| :white_check_mark: | | :white_check_mark: |Bootstrap HSTS Nginx|JustitieConnect|
+|[https://ingelogd.mijnslachtofferzaak.nl](https://ingelogd.mijnslachtofferzaak.nl)| |Apache|:white_check_mark: |:white_check_mark: | :white_check_mark:| :white_check_mark: | | :white_check_mark: |Apache HTTP Server HSTS|A-Select Filter...|
+|[https://ingelogd.acc.mijnslachtofferzaak.nl](https://ingelogd.acc.mijnslachtofferzaak.nl)| |Apache|:white_check_mark: |:white_check_mark: | :white_check_mark:| :white_check_mark: | | :white_check_mark: |Apache HTTP Server HSTS|A-Select Filter...|
+|[https://ingelogd.acc.staging.mijnslachtofferzaak.nl](https://ingelogd.acc.staging.mijnslachtofferzaak.nl)| |Apache| | | | | | :white_check_mark: |Apache HTTP Server HSTS|A-Select Filter...|
+|[https://ingelogd.staging.mijnslachtofferzaak.nl](https://ingelogd.staging.mijnslachtofferzaak.nl)| |Apache|:white_check_mark: |:white_check_mark: | :white_check_mark:| :white_check_mark: | | :white_check_mark: |Apache HTTP Server HSTS|A-Select Filter...|
+|[https://www.mijnslachtofferzaak.nl](https://www.mijnslachtofferzaak.nl)| |nginx|:warning: |:white_check_mark: | :white_check_mark:| :white_check_mark: | | :white_check_mark: |HSTS Nginx|MijnSlachtofferz...|
+|[https://mijnslachtofferzaak.nl](https://mijnslachtofferzaak.nl)| |nginx|:warning: |:white_check_mark: | :white_check_mark:| :white_check_mark: | | :white_check_mark: |HSTS Nginx|MijnSlachtofferz...|

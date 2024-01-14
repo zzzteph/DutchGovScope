@@ -9,8 +9,8 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
-|[http://dienstenportaal.justitie.nl](http://dienstenportaal.justitie.nl)| || | | | | | 3:white_check_mark: |||
-|[http://english.justitie.nl](http://english.justitie.nl)| || | | | | | 3:white_check_mark: |||
-|[http://justitiebulletin.justitie.nl](http://justitiebulletin.justitie.nl)| || | | | | | 3:white_check_mark: |||
-|[https://www.justitie.nl](https://www.justitie.nl)| || |:white_check_mark: |:warning: | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |HSTS||
-|[https://justitie.nl](https://justitie.nl)| || |:white_check_mark: |:warning: | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |HSTS||
+|[http://dienstenportaal.justitie.nl](http://dienstenportaal.justitie.nl)| || | | | | | :white_check_mark: |||
+|[http://english.justitie.nl](http://english.justitie.nl)| || | | | | | :white_check_mark: |||
+|[http://justitiebulletin.justitie.nl](http://justitiebulletin.justitie.nl)| || | | | | | :white_check_mark: |||
+|[https://www.justitie.nl](https://www.justitie.nl)| || |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS||
+|[https://justitie.nl](https://justitie.nl)| || |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS||

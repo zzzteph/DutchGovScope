@@ -9,6 +9,6 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
-|[http://test.chemischestoffengoedgeregeld.nl](http://test.chemischestoffengoedgeregeld.nl)| || | | | | | 3:white_check_mark: |||
-|[https://www.chemischestoffengoedgeregeld.nl](https://www.chemischestoffengoedgeregeld.nl)| || |:white_check_mark: | | 1:white_check_mark: | | 3:white_check_mark: |HSTS Platform.sh|301 Moved Perman...|
-|[https://chemischestoffengoedgeregeld.nl](https://chemischestoffengoedgeregeld.nl)| || |:white_check_mark: | | 1:white_check_mark: | | 3:white_check_mark: |Drupal:10 HSTS PHP Platform.sh|Chemische stoffe...|
+|[http://test.chemischestoffengoedgeregeld.nl](http://test.chemischestoffengoedgeregeld.nl)| || | | | | | :white_check_mark: |||
+|[https://www.chemischestoffengoedgeregeld.nl](https://www.chemischestoffengoedgeregeld.nl)| || |:white_check_mark: | | :white_check_mark: | | :white_check_mark: |HSTS Platform.sh|301 Moved Perman...|
+|[https://chemischestoffengoedgeregeld.nl](https://chemischestoffengoedgeregeld.nl)| || |:white_check_mark: | | :white_check_mark: | | :white_check_mark: |Drupal:10 HSTS PHP Platform.sh|Chemische stoffe...|

@@ -9,4 +9,4 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://www.innovatie-expo2023.nl](https://www.innovatie-expo2023.nl)| || |:white_check_mark: |:warning: | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |HSTS PHP||
+|[https://www.innovatie-expo2023.nl](https://www.innovatie-expo2023.nl)| || |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS PHP||

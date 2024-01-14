@@ -9,6 +9,6 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://vpn.cloud.sso-noord.nl](https://vpn.cloud.sso-noord.nl)| |OpenVPN-AS| | | | 1:white_check_mark: | | 3:white_check_mark: |||
-|[https://www.sso-noord.nl](https://www.sso-noord.nl)| |Apache| |:white_check_mark: | | | | 3:white_check_mark: |Apache HTTP Server HSTS|Shared Service O...|
-|[https://sso-noord.nl](https://sso-noord.nl)| |Apache| |:white_check_mark: | | | | 3:white_check_mark: |Apache HTTP Server HSTS|Shared Service O...|
+|[https://vpn.cloud.sso-noord.nl](https://vpn.cloud.sso-noord.nl)| |OpenVPN-AS| | | | :white_check_mark: | | :white_check_mark: |||
+|[https://www.sso-noord.nl](https://www.sso-noord.nl)| |Apache| |:white_check_mark: | | | | :white_check_mark: |Apache HTTP Server HSTS|Shared Service O...|
+|[https://sso-noord.nl](https://sso-noord.nl)| |Apache| |:white_check_mark: | | | | :white_check_mark: |Apache HTTP Server HSTS|Shared Service O...|

@@ -9,7 +9,7 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://feeds.veiligepubliekedienstverlening.nl](https://feeds.veiligepubliekedienstverlening.nl)| |nginx| |:white_check_mark: | | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |HSTS Nginx||
-|[https://opendata.veiligepubliekedienstverlening.nl](https://opendata.veiligepubliekedienstverlening.nl)| |nginx| |:white_check_mark: | | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |HSTS Nginx||
-|[https://www.veiligepubliekedienstverlening.nl](https://www.veiligepubliekedienstverlening.nl)| |nginx| |:white_check_mark: |:warning: | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |Bloomreach HSTS Nginx|Veilige publieke...|
-|[https://veiligepubliekedienstverlening.nl](https://veiligepubliekedienstverlening.nl)| |nginx| |:white_check_mark: |:warning: | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |HSTS Nginx|301 Moved Perman...|
+|[https://feeds.veiligepubliekedienstverlening.nl](https://feeds.veiligepubliekedienstverlening.nl)| |nginx| |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx||
+|[https://opendata.veiligepubliekedienstverlening.nl](https://opendata.veiligepubliekedienstverlening.nl)| |nginx| |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx||
+|[https://www.veiligepubliekedienstverlening.nl](https://www.veiligepubliekedienstverlening.nl)| |nginx| |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Bloomreach HSTS Nginx|Veilige publieke...|
+|[https://veiligepubliekedienstverlening.nl](https://veiligepubliekedienstverlening.nl)| |nginx| |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx|301 Moved Perman...|

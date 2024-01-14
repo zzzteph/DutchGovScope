@@ -9,13 +9,13 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://aanvragen.uziregister.nl](https://aanvragen.uziregister.nl)| |-| |:white_check_mark: | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |HSTS|Inloggen|
-|[https://acceptatie.aanvragen.uziregister.nl](https://acceptatie.aanvragen.uziregister.nl)| |-| |:white_check_mark: | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |HSTS||
-|[https://acceptatie.formulieren.uziregister.nl](https://acceptatie.formulieren.uziregister.nl)| |-| |:white_check_mark: | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |HSTS||
-|[https://acceptatie.uzipas.uziregister.nl](https://acceptatie.uzipas.uziregister.nl)| |-| | | | | | 3:white_check_mark: |HSTS||
-|[https://feeds.uziregister.nl](https://feeds.uziregister.nl)| |nginx| |:white_check_mark: | | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |HSTS Nginx||
-|[https://formulieren.uziregister.nl](https://formulieren.uziregister.nl)| |-|:white_check_mark: |:white_check_mark: | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |HSTS|UZI-register.nl|
-|[https://opendata.uziregister.nl](https://opendata.uziregister.nl)| |nginx| |:white_check_mark: | | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |HSTS Nginx||
-|[https://uzipas.uziregister.nl](https://uzipas.uziregister.nl)| |-| |:white_check_mark: | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |HSTS|Inloggen|
-|[https://www.uziregister.nl](https://www.uziregister.nl)| |nginx| |:white_check_mark: |:warning: | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |Bloomreach HSTS Nginx|Home | UZI-regis...|
-|[https://uziregister.nl](https://uziregister.nl)| |nginx| |:white_check_mark: |:warning: | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |HSTS Nginx|301 Moved Perman...|
+|[https://aanvragen.uziregister.nl](https://aanvragen.uziregister.nl)| |-| |:white_check_mark: | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS|Inloggen|
+|[https://acceptatie.aanvragen.uziregister.nl](https://acceptatie.aanvragen.uziregister.nl)| |-| |:white_check_mark: | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS||
+|[https://acceptatie.formulieren.uziregister.nl](https://acceptatie.formulieren.uziregister.nl)| |-| |:white_check_mark: | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS||
+|[https://acceptatie.uzipas.uziregister.nl](https://acceptatie.uzipas.uziregister.nl)| |-| | | | | | :white_check_mark: |HSTS||
+|[https://feeds.uziregister.nl](https://feeds.uziregister.nl)| |nginx| |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx||
+|[https://formulieren.uziregister.nl](https://formulieren.uziregister.nl)| |-|:white_check_mark: |:white_check_mark: | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS|UZI-register.nl|
+|[https://opendata.uziregister.nl](https://opendata.uziregister.nl)| |nginx| |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx||
+|[https://uzipas.uziregister.nl](https://uzipas.uziregister.nl)| |-| |:white_check_mark: | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS|Inloggen|
+|[https://www.uziregister.nl](https://www.uziregister.nl)| |nginx| |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Bloomreach HSTS Nginx|Home | UZI-regis...|
+|[https://uziregister.nl](https://uziregister.nl)| |nginx| |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx|301 Moved Perman...|

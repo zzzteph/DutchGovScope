@@ -9,14 +9,14 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://controle-informatieplicht.infomil.nl](https://controle-informatieplicht.infomil.nl)| || |:white_check_mark: | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |HSTS Microsoft ASP.NET:-|Object moved|
-|[https://femnederland.infomil.nl](https://femnederland.infomil.nl)| || |:white_check_mark: | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |Microsoft ASP.NET:-|Document Moved|
-|[https://femtoezicht.infomil.nl](https://femtoezicht.infomil.nl)| || |:white_check_mark: | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |Microsoft ASP.NET:-|Document Moved|
-|[https://files.infomil.nl](https://files.infomil.nl)| |-| | | | | | 3:white_check_mark: |||
-|[https://forms.infomil.nl](https://forms.infomil.nl)| || |:white_check_mark: | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |HSTS Microsoft ASP.NET:-|Document Moved|
-|[https://redactie.infomil.nl](https://redactie.infomil.nl)| ||:white_check_mark: |:white_check_mark: | | 2:white_check_mark: | 3:white_check_mark: |HSTS Microsoft ASP.NET:-|Object moved|
-|[https://redactie-forms.infomil.nl](https://redactie-forms.infomil.nl)| ||:white_check_mark: |:white_check_mark: | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |HSTS Microsoft ASP.NET:-|Object moved|
-|[https://vervoernederland.infomil.nl](https://vervoernederland.infomil.nl)| || |:white_check_mark: | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |Microsoft ASP.NET:-|Document Moved|
-|[https://vervoertoezicht.infomil.nl](https://vervoertoezicht.infomil.nl)| || |:white_check_mark: | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |Microsoft ASP.NET:-|Document Moved|
-|[https://www.infomil.nl](https://www.infomil.nl)| || |:white_check_mark: | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |Google Tag Manager HSTS Microsoft ASP.NET:-|InfoMil Home - K...|
-|[https://infomil.nl](https://infomil.nl)| || |:white_check_mark: | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |HSTS Microsoft ASP.NET:-|Object moved|
+|[https://controle-informatieplicht.infomil.nl](https://controle-informatieplicht.infomil.nl)| || |:white_check_mark: | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Microsoft ASP.NET:-|Object moved|
+|[https://femnederland.infomil.nl](https://femnederland.infomil.nl)| || |:white_check_mark: | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: |Microsoft ASP.NET:-|Document Moved|
+|[https://femtoezicht.infomil.nl](https://femtoezicht.infomil.nl)| || |:white_check_mark: | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: |Microsoft ASP.NET:-|Document Moved|
+|[https://files.infomil.nl](https://files.infomil.nl)| |-| | | | | | :white_check_mark: |||
+|[https://forms.infomil.nl](https://forms.infomil.nl)| || |:white_check_mark: | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Microsoft ASP.NET:-|Document Moved|
+|[https://redactie.infomil.nl](https://redactie.infomil.nl)| ||:white_check_mark: |:white_check_mark: | :white_check_mark:| | :white_check_mark: | :white_check_mark: |HSTS Microsoft ASP.NET:-|Object moved|
+|[https://redactie-forms.infomil.nl](https://redactie-forms.infomil.nl)| ||:white_check_mark: |:white_check_mark: | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Microsoft ASP.NET:-|Object moved|
+|[https://vervoernederland.infomil.nl](https://vervoernederland.infomil.nl)| || |:white_check_mark: | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: |Microsoft ASP.NET:-|Document Moved|
+|[https://vervoertoezicht.infomil.nl](https://vervoertoezicht.infomil.nl)| || |:white_check_mark: | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: |Microsoft ASP.NET:-|Document Moved|
+|[https://www.infomil.nl](https://www.infomil.nl)| || |:white_check_mark: | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: |Google Tag Manager HSTS Microsoft ASP.NET:-|InfoMil Home - K...|
+|[https://infomil.nl](https://infomil.nl)| || |:white_check_mark: | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Microsoft ASP.NET:-|Object moved|

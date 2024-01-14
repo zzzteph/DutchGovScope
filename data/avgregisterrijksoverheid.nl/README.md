@@ -9,6 +9,6 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://acc.avgregisterrijksoverheid.nl](https://acc.avgregisterrijksoverheid.nl)| || | | | | | 3:white_check_mark: ||AVG Verwerkingen...|
-|[https://www.avgregisterrijksoverheid.nl](https://www.avgregisterrijksoverheid.nl)| || | | | | | 3:white_check_mark: |HSTS|AVG Verwerkingen...|
-|[https://avgregisterrijksoverheid.nl](https://avgregisterrijksoverheid.nl)| || | | | | | 3:white_check_mark: |HSTS|AVG Verwerkingen...|
+|[https://acc.avgregisterrijksoverheid.nl](https://acc.avgregisterrijksoverheid.nl)| || | | | | | :white_check_mark: ||AVG Verwerkingen...|
+|[https://www.avgregisterrijksoverheid.nl](https://www.avgregisterrijksoverheid.nl)| || | | | | | :white_check_mark: |HSTS|AVG Verwerkingen...|
+|[https://avgregisterrijksoverheid.nl](https://avgregisterrijksoverheid.nl)| || | | | | | :white_check_mark: |HSTS|AVG Verwerkingen...|

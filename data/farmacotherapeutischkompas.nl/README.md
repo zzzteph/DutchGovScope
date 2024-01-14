@@ -9,8 +9,8 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://cms.farmacotherapeutischkompas.nl](https://cms.farmacotherapeutischkompas.nl)| |Apache| | | | | | 3:white_check_mark: |Apache HTTP Server|403 Forbidden|
-|[https://proto.farmacotherapeutischkompas.nl](https://proto.farmacotherapeutischkompas.nl)| |GitHub.com| | | | | | 3:white_check_mark: |Fastly GitHub Pages Varnish|Pharmacotherapeu...|
-|[https://www.farmacotherapeutischkompas.nl](https://www.farmacotherapeutischkompas.nl)| |Solvinity Server|:white_check_mark: |:white_check_mark: |:warning: | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |Bloomreach HSTS Java|Farmacotherapeut...|
-|[https://www-ac.farmacotherapeutischkompas.nl](https://www-ac.farmacotherapeutischkompas.nl)| |Apache| | | | | | 3:white_check_mark: |Apache HTTP Server Basic|401 Unauthorized|
-|[https://farmacotherapeutischkompas.nl](https://farmacotherapeutischkompas.nl)| |Apache|:white_check_mark: |:white_check_mark: |:warning: | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |Apache HTTP Server HSTS|301 Moved Perman...|
+|[https://cms.farmacotherapeutischkompas.nl](https://cms.farmacotherapeutischkompas.nl)| |Apache| | | | | | :white_check_mark: |Apache HTTP Server|403 Forbidden|
+|[https://proto.farmacotherapeutischkompas.nl](https://proto.farmacotherapeutischkompas.nl)| |GitHub.com| | | | | | :white_check_mark: |Fastly GitHub Pages Varnish|Pharmacotherapeu...|
+|[https://www.farmacotherapeutischkompas.nl](https://www.farmacotherapeutischkompas.nl)| |Solvinity Server|:white_check_mark: |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Bloomreach HSTS Java|Farmacotherapeut...|
+|[https://www-ac.farmacotherapeutischkompas.nl](https://www-ac.farmacotherapeutischkompas.nl)| |Apache| | | | | | :white_check_mark: |Apache HTTP Server Basic|401 Unauthorized|
+|[https://farmacotherapeutischkompas.nl](https://farmacotherapeutischkompas.nl)| |Apache|:white_check_mark: |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Apache HTTP Server HSTS|301 Moved Perman...|

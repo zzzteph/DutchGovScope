@@ -9,8 +9,8 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://acc.greendeals.nl](https://acc.greendeals.nl)| |nginx| | | | | | 3:white_check_mark: |Basic Nginx|401 Authorizatio...|
-|[https://demo.greendeals.nl](https://demo.greendeals.nl)| |nginx| | | | | | 3:white_check_mark: |HSTS Nginx|301 Moved Perman...|
-|[https://test.greendeals.nl](https://test.greendeals.nl)| |nginx| | | | | | 3:white_check_mark: |Basic Nginx|401 Authorizatio...|
-|[https://www.greendeals.nl](https://www.greendeals.nl)| |nginx| |:white_check_mark: | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |Drupal:10 HSTS Nginx PHP YouTube|Home | Greendeal...|
-|[https://greendeals.nl](https://greendeals.nl)| |nginx| |:white_check_mark: | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |HSTS Nginx|301 Moved Perman...|
+|[https://acc.greendeals.nl](https://acc.greendeals.nl)| |nginx| | | | | | :white_check_mark: |Basic Nginx|401 Authorizatio...|
+|[https://demo.greendeals.nl](https://demo.greendeals.nl)| |nginx| | | | | | :white_check_mark: |HSTS Nginx|301 Moved Perman...|
+|[https://test.greendeals.nl](https://test.greendeals.nl)| |nginx| | | | | | :white_check_mark: |Basic Nginx|401 Authorizatio...|
+|[https://www.greendeals.nl](https://www.greendeals.nl)| |nginx| |:white_check_mark: | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: |Drupal:10 HSTS Nginx PHP YouTube|Home | Greendeal...|
+|[https://greendeals.nl](https://greendeals.nl)| |nginx| |:white_check_mark: | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx|301 Moved Perman...|

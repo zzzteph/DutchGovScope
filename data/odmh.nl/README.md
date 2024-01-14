@@ -9,22 +9,22 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://atlas.odmh.nl](https://atlas.odmh.nl)| |Apache| | | | | | 3:white_check_mark: |Apache HTTP Server Microsoft ASP.NET|IIS Windows Serv...|
-|[https://mail.odmh.nl](https://mail.odmh.nl)| |Apache| | | | | | 3:white_check_mark: |Apache HTTP Server|403 Forbidden|
-|[https://preprodformulieren.odmh.nl](https://preprodformulieren.odmh.nl)| ||:white_check_mark: |:white_check_mark: |:warning: | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |HSTS|Pagina bestaat n...|
-|[https://digikoppelingtest.odmh.nl](https://digikoppelingtest.odmh.nl)| |Apache| | | | | | 3:white_check_mark: |Apache HTTP Server|503 Service Unav...|
-|[https://kaarten.odmh.nl](https://kaarten.odmh.nl)| |Apache| | | | | | 3:white_check_mark: |Apache HTTP Server Microsoft ASP.NET|IIS Windows Serv...|
-|[https://www.odmh.nl](https://www.odmh.nl)| |-| |:white_check_mark: | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |HSTS Microsoft ASP.NET:-|Home - Omgevings...|
-|[https://bkk.odmh.nl](https://bkk.odmh.nl)| |Apache| |:white_check_mark: | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |Apache HTTP Server Microsoft ASP.NET|Document Moved|
-|[https://formulieren.odmh.nl](https://formulieren.odmh.nl)| ||:white_check_mark: |:white_check_mark: |:warning: | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |HSTS|Pagina bestaat n...|
-|[https://zaaksysteem.odmh.nl](https://zaaksysteem.odmh.nl)| ||:white_check_mark: |:white_check_mark: | | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |HSTS|Moved|
-|[https://vacatures.odmh.nl](https://vacatures.odmh.nl)| ||:white_check_mark: |:white_check_mark: | | | 2:white_check_mark: | 3:white_check_mark: |HSTS||
-|[https://constructiestukken.odmh.nl](https://constructiestukken.odmh.nl)| |-| |:white_check_mark: | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |HSTS Microsoft ASP.NET:-|Object moved|
-|[https://odmh.nl](https://odmh.nl)| |-| |:white_check_mark: | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |HSTS Microsoft ASP.NET:-|Object moved|
-|[https://redactie.odmh.nl](https://redactie.odmh.nl)| |-|:white_check_mark: |:white_check_mark: | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |HSTS Microsoft ASP.NET:-|Object moved|
-|[https://geodocs.odmh.nl](https://geodocs.odmh.nl)| |Apache| | | | | | 3:white_check_mark: |Apache HTTP Server Microsoft ASP.NET|Object moved|
-|[https://odin.odmh.nl](https://odin.odmh.nl)| |Apache| |:white_check_mark: |:warning: | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |Apache HTTP Server HSTS||
-|[https://zaaksysteem-acc.odmh.nl](https://zaaksysteem-acc.odmh.nl)| ||:white_check_mark: |:white_check_mark: | | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |HSTS|Moved|
-|[https://meldingwd.odmh.nl](https://meldingwd.odmh.nl)| |-| |:white_check_mark: | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |HSTS Microsoft ASP.NET:-|Object moved|
-|[https://meldingbwt.odmh.nl](https://meldingbwt.odmh.nl)| |-| |:white_check_mark: | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |HSTS Microsoft ASP.NET:-|Object moved|
-|[https://geluidskaart.odmh.nl](https://geluidskaart.odmh.nl)| |Apache| | | | | | 3:white_check_mark: |Apache HTTP Server Microsoft ASP.NET||
+|[https://atlas.odmh.nl](https://atlas.odmh.nl)| |Apache| | | | | | :white_check_mark: |Apache HTTP Server Microsoft ASP.NET|IIS Windows Serv...|
+|[https://mail.odmh.nl](https://mail.odmh.nl)| |Apache| | | | | | :white_check_mark: |Apache HTTP Server|403 Forbidden|
+|[https://preprodformulieren.odmh.nl](https://preprodformulieren.odmh.nl)| ||:white_check_mark: |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS|Pagina bestaat n...|
+|[https://digikoppelingtest.odmh.nl](https://digikoppelingtest.odmh.nl)| |Apache| | | | | | :white_check_mark: |Apache HTTP Server|503 Service Unav...|
+|[https://kaarten.odmh.nl](https://kaarten.odmh.nl)| |Apache| | | | | | :white_check_mark: |Apache HTTP Server Microsoft ASP.NET|IIS Windows Serv...|
+|[https://www.odmh.nl](https://www.odmh.nl)| |-| |:white_check_mark: | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Microsoft ASP.NET:-|Home - Omgevings...|
+|[https://bkk.odmh.nl](https://bkk.odmh.nl)| |Apache| |:white_check_mark: | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: |Apache HTTP Server Microsoft ASP.NET|Document Moved|
+|[https://formulieren.odmh.nl](https://formulieren.odmh.nl)| ||:white_check_mark: |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS|Pagina bestaat n...|
+|[https://zaaksysteem.odmh.nl](https://zaaksysteem.odmh.nl)| ||:white_check_mark: |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS|Moved|
+|[https://vacatures.odmh.nl](https://vacatures.odmh.nl)| ||:white_check_mark: |:white_check_mark: | | | :white_check_mark: | :white_check_mark: |HSTS||
+|[https://constructiestukken.odmh.nl](https://constructiestukken.odmh.nl)| |-| |:white_check_mark: | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Microsoft ASP.NET:-|Object moved|
+|[https://odmh.nl](https://odmh.nl)| |-| |:white_check_mark: | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Microsoft ASP.NET:-|Object moved|
+|[https://redactie.odmh.nl](https://redactie.odmh.nl)| |-|:white_check_mark: |:white_check_mark: | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Microsoft ASP.NET:-|Object moved|
+|[https://geodocs.odmh.nl](https://geodocs.odmh.nl)| |Apache| | | | | | :white_check_mark: |Apache HTTP Server Microsoft ASP.NET|Object moved|
+|[https://odin.odmh.nl](https://odin.odmh.nl)| |Apache| |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Apache HTTP Server HSTS||
+|[https://zaaksysteem-acc.odmh.nl](https://zaaksysteem-acc.odmh.nl)| ||:white_check_mark: |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS|Moved|
+|[https://meldingwd.odmh.nl](https://meldingwd.odmh.nl)| |-| |:white_check_mark: | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Microsoft ASP.NET:-|Object moved|
+|[https://meldingbwt.odmh.nl](https://meldingbwt.odmh.nl)| |-| |:white_check_mark: | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Microsoft ASP.NET:-|Object moved|
+|[https://geluidskaart.odmh.nl](https://geluidskaart.odmh.nl)| |Apache| | | | | | :white_check_mark: |Apache HTTP Server Microsoft ASP.NET||

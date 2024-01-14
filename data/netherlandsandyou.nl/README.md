@@ -9,8 +9,8 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://acc.netherlandsandyou.nl](https://acc.netherlandsandyou.nl)| |Apache| | | | | | 3:white_check_mark: |Apache HTTP Server|403 Forbidden|
-|[https://dev.netherlandsandyou.nl](https://dev.netherlandsandyou.nl)| |Apache| | | | | | 3:white_check_mark: |Apache HTTP Server|403 Forbidden|
-|[https://tst.netherlandsandyou.nl](https://tst.netherlandsandyou.nl)| |Apache| | | | | | 3:white_check_mark: |Apache HTTP Server|403 Forbidden|
-|[https://www.netherlandsandyou.nl](https://www.netherlandsandyou.nl)| |Apache|:white_check_mark: |:white_check_mark: |:warning: | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |Apache HTTP Server HSTS Java|Home - Netherlan...|
-|[https://netherlandsandyou.nl](https://netherlandsandyou.nl)| |Apache|:white_check_mark: |:white_check_mark: |:warning: | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |Apache HTTP Server|301 Moved Perman...|
+|[https://acc.netherlandsandyou.nl](https://acc.netherlandsandyou.nl)| |Apache| | | | | | :white_check_mark: |Apache HTTP Server|403 Forbidden|
+|[https://dev.netherlandsandyou.nl](https://dev.netherlandsandyou.nl)| |Apache| | | | | | :white_check_mark: |Apache HTTP Server|403 Forbidden|
+|[https://tst.netherlandsandyou.nl](https://tst.netherlandsandyou.nl)| |Apache| | | | | | :white_check_mark: |Apache HTTP Server|403 Forbidden|
+|[https://www.netherlandsandyou.nl](https://www.netherlandsandyou.nl)| |Apache|:white_check_mark: |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Apache HTTP Server HSTS Java|Home - Netherlan...|
+|[https://netherlandsandyou.nl](https://netherlandsandyou.nl)| |Apache|:white_check_mark: |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Apache HTTP Server|301 Moved Perman...|

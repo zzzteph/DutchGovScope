@@ -9,5 +9,5 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://www.communicatiekompas.nl](https://www.communicatiekompas.nl)| |Vercel| |:white_check_mark: | | | | 3:white_check_mark: |HSTS Vercel||
-|[https://communicatiekompas.nl](https://communicatiekompas.nl)| |Vercel| |:white_check_mark: | | | | 3:white_check_mark: |HSTS Next.js Node.js React Vercel Webpack|Communicatiekomp...|
+|[https://www.communicatiekompas.nl](https://www.communicatiekompas.nl)| |Vercel| |:white_check_mark: | | | | :white_check_mark: |HSTS Vercel||
+|[https://communicatiekompas.nl](https://communicatiekompas.nl)| |Vercel| |:white_check_mark: | | | | :white_check_mark: |HSTS Next.js Node.js React Vercel Webpack|Communicatiekomp...|

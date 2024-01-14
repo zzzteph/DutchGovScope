@@ -9,5 +9,5 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://www.testuitvoeringarbeidsvoorwaardenwetgeving.nl](https://www.testuitvoeringarbeidsvoorwaardenwetgeving.nl)| |nginx| |:white_check_mark: |:warning: | | | 3:white_check_mark: |HSTS Nginx|302 Found|
-|[https://testuitvoeringarbeidsvoorwaardenwetgeving.nl](https://testuitvoeringarbeidsvoorwaardenwetgeving.nl)| |nginx| |:white_check_mark: |:warning: | | | 3:white_check_mark: |HSTS Nginx|301 Moved Perman...|
+|[https://www.testuitvoeringarbeidsvoorwaardenwetgeving.nl](https://www.testuitvoeringarbeidsvoorwaardenwetgeving.nl)| |nginx| |:white_check_mark: |:warning: | | | :white_check_mark: |HSTS Nginx|302 Found|
+|[https://testuitvoeringarbeidsvoorwaardenwetgeving.nl](https://testuitvoeringarbeidsvoorwaardenwetgeving.nl)| |nginx| |:white_check_mark: |:warning: | | | :white_check_mark: |HSTS Nginx|301 Moved Perman...|

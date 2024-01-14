@@ -9,18 +9,18 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://audit.perined.nl](https://audit.perined.nl)| |nginx|:white_check_mark: | | | | 2:white_check_mark: | 3:white_check_mark: |Microsoft ASP.NET Nginx|Perinatale Audit...|
-|[https://eva.perined.nl](https://eva.perined.nl)| |nginx|:white_check_mark: | | | | 2:white_check_mark: | 3:white_check_mark: |Microsoft ASP.NET Nginx|Perinatale Audit...|
-|[https://evaluatieaudit.perined.nl](https://evaluatieaudit.perined.nl)| |nginx|:white_check_mark: | | | | 2:white_check_mark: | 3:white_check_mark: |Microsoft ASP.NET Nginx|Perinatale Audit...|
-|[https://klantpreferentie.perined.nl](https://klantpreferentie.perined.nl)| |nginx| | | | | | 3:white_check_mark: |Nginx|Object moved|
-|[https://klantpreferentie2019.perined.nl](https://klantpreferentie2019.perined.nl)| |Apache/2.4.58 (A...| | | | | | 3:white_check_mark: |Apache HTTP Server:2.4.58 HSTS OpenSSL:3.0.8|301 Moved Perman...|
-|[https://lnr.perined.nl](https://lnr.perined.nl)| |nginx|:white_check_mark: | | | | 2:white_check_mark: | 3:white_check_mark: |Microsoft ASP.NET Nginx|LNR2|
-|[https://vragenlijst.perined.nl](https://vragenlijst.perined.nl)| |nginx| | | | | 2:white_check_mark: | 3:white_check_mark: |Nginx||
-|[https://www.perined.nl](https://www.perined.nl)| |Apache|:white_check_mark: |:white_check_mark: | | 1:white_check_mark: | | 3:white_check_mark: |Apache HTTP Server Bootstrap:4.5.2 HSTS Typekit|Perined | Home|
-|[https://assets.perined.nl](https://assets.perined.nl)| |AmazonS3| |:white_check_mark: | | | | 3:white_check_mark: |Amazon S3 Amazon Web Services HSTS||
-|[https://perined.nl](https://perined.nl)| |Apache/2.4.58 (A...|:white_check_mark: |:white_check_mark: | | 1:white_check_mark: | | 3:white_check_mark: |Apache HTTP Server:2.4.58 HSTS OpenSSL:3.0.8|301 Moved Perman...|
-|[https://2015assets.perined.nl](https://2015assets.perined.nl)| |Apache/2.4.58 (A...| | | | | | 3:white_check_mark: |Apache HTTP Server:2.4.58 HSTS OpenSSL:3.0.8|301 Moved Perman...|
-|[https://cwww.perined.nl](https://cwww.perined.nl)| |Apache/2.4.58 (A...| | | | | | 3:white_check_mark: |Apache HTTP Server:2.4.58 HSTS OpenSSL:3.0.8|301 Moved Perman...|
-|[https://15assets.perined.nl](https://15assets.perined.nl)| |Apache/2.4.58 (A...| | | | | | 3:white_check_mark: |Apache HTTP Server:2.4.58 HSTS OpenSSL:3.0.8|301 Moved Perman...|
-|[https://followup.perined.nl](https://followup.perined.nl)| |nginx|:white_check_mark: | | | | 2:white_check_mark: | 3:white_check_mark: |Microsoft ASP.NET Nginx|LNR Follow-Up|
-|[https://sets.perined.nl](https://sets.perined.nl)| |Apache/2.4.58 (A...| | | | | | 3:white_check_mark: |Apache HTTP Server:2.4.58 HSTS OpenSSL:3.0.8|301 Moved Perman...|
+|[https://audit.perined.nl](https://audit.perined.nl)| |nginx|:white_check_mark: | | | | :white_check_mark: | :white_check_mark: |Microsoft ASP.NET Nginx|Perinatale Audit...|
+|[https://eva.perined.nl](https://eva.perined.nl)| |nginx|:white_check_mark: | | | | :white_check_mark: | :white_check_mark: |Microsoft ASP.NET Nginx|Perinatale Audit...|
+|[https://evaluatieaudit.perined.nl](https://evaluatieaudit.perined.nl)| |nginx|:white_check_mark: | | | | :white_check_mark: | :white_check_mark: |Microsoft ASP.NET Nginx|Perinatale Audit...|
+|[https://klantpreferentie.perined.nl](https://klantpreferentie.perined.nl)| |nginx| | | | | | :white_check_mark: |Nginx|Object moved|
+|[https://klantpreferentie2019.perined.nl](https://klantpreferentie2019.perined.nl)| |Apache/2.4.58 (A...| | | | | | :white_check_mark: |Apache HTTP Server:2.4.58 HSTS OpenSSL:3.0.8|301 Moved Perman...|
+|[https://lnr.perined.nl](https://lnr.perined.nl)| |nginx|:white_check_mark: | | | | :white_check_mark: | :white_check_mark: |Microsoft ASP.NET Nginx|LNR2|
+|[https://vragenlijst.perined.nl](https://vragenlijst.perined.nl)| |nginx| | | | | :white_check_mark: | :white_check_mark: |Nginx||
+|[https://www.perined.nl](https://www.perined.nl)| |Apache|:white_check_mark: |:white_check_mark: | | :white_check_mark: | | :white_check_mark: |Apache HTTP Server Bootstrap:4.5.2 HSTS Typekit|Perined | Home|
+|[https://assets.perined.nl](https://assets.perined.nl)| |AmazonS3| |:white_check_mark: | | | | :white_check_mark: |Amazon S3 Amazon Web Services HSTS||
+|[https://perined.nl](https://perined.nl)| |Apache/2.4.58 (A...|:white_check_mark: |:white_check_mark: | | :white_check_mark: | | :white_check_mark: |Apache HTTP Server:2.4.58 HSTS OpenSSL:3.0.8|301 Moved Perman...|
+|[https://2015assets.perined.nl](https://2015assets.perined.nl)| |Apache/2.4.58 (A...| | | | | | :white_check_mark: |Apache HTTP Server:2.4.58 HSTS OpenSSL:3.0.8|301 Moved Perman...|
+|[https://cwww.perined.nl](https://cwww.perined.nl)| |Apache/2.4.58 (A...| | | | | | :white_check_mark: |Apache HTTP Server:2.4.58 HSTS OpenSSL:3.0.8|301 Moved Perman...|
+|[https://15assets.perined.nl](https://15assets.perined.nl)| |Apache/2.4.58 (A...| | | | | | :white_check_mark: |Apache HTTP Server:2.4.58 HSTS OpenSSL:3.0.8|301 Moved Perman...|
+|[https://followup.perined.nl](https://followup.perined.nl)| |nginx|:white_check_mark: | | | | :white_check_mark: | :white_check_mark: |Microsoft ASP.NET Nginx|LNR Follow-Up|
+|[https://sets.perined.nl](https://sets.perined.nl)| |Apache/2.4.58 (A...| | | | | | :white_check_mark: |Apache HTTP Server:2.4.58 HSTS OpenSSL:3.0.8|301 Moved Perman...|

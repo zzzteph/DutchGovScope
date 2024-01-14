@@ -9,6 +9,6 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://accept.nldigitalgovernment.nl](https://accept.nldigitalgovernment.nl)| |nginx| |:white_check_mark: | | | | 3:white_check_mark: |Basic HSTS Nginx|401 Authorizatio...|
-|[https://www.nldigitalgovernment.nl](https://www.nldigitalgovernment.nl)| |nginx| |:white_check_mark: | | | | 3:white_check_mark: |HSTS MySQL Nginx PHP:8.0.30 WordPress:6.4.2 Yoast SEO:21.7|Home - Digital G...|
-|[https://nldigitalgovernment.nl](https://nldigitalgovernment.nl)| |nginx| |:white_check_mark: | | | | 3:white_check_mark: |HSTS Nginx PHP:8.0.30||
+|[https://accept.nldigitalgovernment.nl](https://accept.nldigitalgovernment.nl)| |nginx| |:white_check_mark: | | | | :white_check_mark: |Basic HSTS Nginx|401 Authorizatio...|
+|[https://www.nldigitalgovernment.nl](https://www.nldigitalgovernment.nl)| |nginx| |:white_check_mark: | | | | :white_check_mark: |HSTS MySQL Nginx PHP:8.0.30 WordPress:6.4.2 Yoast SEO:21.7|Home - Digital G...|
+|[https://nldigitalgovernment.nl](https://nldigitalgovernment.nl)| |nginx| |:white_check_mark: | | | | :white_check_mark: |HSTS Nginx PHP:8.0.30||

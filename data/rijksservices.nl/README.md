@@ -9,6 +9,6 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://apps.rijksservices.nl](https://apps.rijksservices.nl)| ||:white_check_mark: |:white_check_mark: |:warning: | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |Azure Azure Front Door Bootstrap HSTS Microsoft ASP.NET:4.0.30319|Home | Appdistri...|
-|[https://rijksservices.nl](https://rijksservices.nl)| |Microsoft-IIS/10...| |:white_check_mark: |:warning: | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |HSTS IIS:10.0 Windows Server|Document Moved|
-|[https://www.rijksservices.nl](https://www.rijksservices.nl)| |Microsoft-IIS/10...| |:white_check_mark: |:warning: | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |HSTS IIS:10.0 Windows Server|Document Moved|
+|[https://apps.rijksservices.nl](https://apps.rijksservices.nl)| ||:white_check_mark: |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Azure Azure Front Door Bootstrap HSTS Microsoft ASP.NET:4.0.30319|Home | Appdistri...|
+|[https://rijksservices.nl](https://rijksservices.nl)| |Microsoft-IIS/10...| |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS IIS:10.0 Windows Server|Document Moved|
+|[https://www.rijksservices.nl](https://www.rijksservices.nl)| |Microsoft-IIS/10...| |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS IIS:10.0 Windows Server|Document Moved|

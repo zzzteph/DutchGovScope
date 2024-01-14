@@ -9,5 +9,5 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://www.hulpmiddelenzorg.nl](https://www.hulpmiddelenzorg.nl)| |nginx| |:white_check_mark: |:warning: | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |Bootstrap Google Tag Manager HSTS MySQL Nginx PHP WordPress:6.4.2 Yoast SEO:21.8|Kennisgemeenscha...|
-|[https://hulpmiddelenzorg.nl](https://hulpmiddelenzorg.nl)| |nginx| |:white_check_mark: |:warning: | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |HSTS Nginx||
+|[https://www.hulpmiddelenzorg.nl](https://www.hulpmiddelenzorg.nl)| |nginx| |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Bootstrap Google Tag Manager HSTS MySQL Nginx PHP WordPress:6.4.2 Yoast SEO:21.8|Kennisgemeenscha...|
+|[https://hulpmiddelenzorg.nl](https://hulpmiddelenzorg.nl)| |nginx| |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx||

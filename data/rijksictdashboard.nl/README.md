@@ -9,10 +9,10 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://www.rijksictdashboard.nl](https://www.rijksictdashboard.nl)| || |:white_check_mark: | 1:white_check_mark: | | 3:white_check_mark: |HSTS|Rijks ICT-dashbo...|
-|[http://acc.beheer.rijksictdashboard.nl](http://acc.beheer.rijksictdashboard.nl)| || | | | | | 3:white_check_mark: |||
-|[http://acc.rijksictdashboard.nl](http://acc.rijksictdashboard.nl)| || | | | | | 3:white_check_mark: |||
-|[https://beheer.rijksictdashboard.nl](https://beheer.rijksictdashboard.nl)| ||:warning: |:white_check_mark: | | 1:white_check_mark: | | 3:white_check_mark: |HSTS||
-|[https://rijksictdashboard.nl](https://rijksictdashboard.nl)| || |:white_check_mark: | 1:white_check_mark: | | 3:white_check_mark: |HSTS|Rijks ICT-dashbo...|
-|[http://test.beheer.rijksictdashboard.nl](http://test.beheer.rijksictdashboard.nl)| || | | | | | 3:white_check_mark: |||
-|[http://test.rijksictdashboard.nl](http://test.rijksictdashboard.nl)| || | | | | | 3:white_check_mark: |||
+|[https://www.rijksictdashboard.nl](https://www.rijksictdashboard.nl)| || |:white_check_mark: | :white_check_mark:| :white_check_mark: | | :white_check_mark: |HSTS|Rijks ICT-dashbo...|
+|[http://acc.beheer.rijksictdashboard.nl](http://acc.beheer.rijksictdashboard.nl)| || | | | | | :white_check_mark: |||
+|[http://acc.rijksictdashboard.nl](http://acc.rijksictdashboard.nl)| || | | | | | :white_check_mark: |||
+|[https://beheer.rijksictdashboard.nl](https://beheer.rijksictdashboard.nl)| ||:warning: |:white_check_mark: | | :white_check_mark: | | :white_check_mark: |HSTS||
+|[https://rijksictdashboard.nl](https://rijksictdashboard.nl)| || |:white_check_mark: | :white_check_mark:| :white_check_mark: | | :white_check_mark: |HSTS|Rijks ICT-dashbo...|
+|[http://test.beheer.rijksictdashboard.nl](http://test.beheer.rijksictdashboard.nl)| || | | | | | :white_check_mark: |||
+|[http://test.rijksictdashboard.nl](http://test.rijksictdashboard.nl)| || | | | | | :white_check_mark: |||

@@ -9,6 +9,6 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://cms.bureaubiosecurity.nl](https://cms.bureaubiosecurity.nl)| |nginx| |:white_check_mark: | | 1:white_check_mark: | | 3:white_check_mark: |Drupal:9 HSTS Nginx PHP|Redirecting to h...|
-|[https://www.bureaubiosecurity.nl](https://www.bureaubiosecurity.nl)| |Apache| |:white_check_mark: | | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |Apache HTTP Server Drupal HSTS PHP|Bureau Biosecuri...|
-|[https://bureaubiosecurity.nl](https://bureaubiosecurity.nl)| |Apache| |:white_check_mark: | | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |Apache HTTP Server HSTS|301 Moved Perman...|
+|[https://cms.bureaubiosecurity.nl](https://cms.bureaubiosecurity.nl)| |nginx| |:white_check_mark: | | :white_check_mark: | | :white_check_mark: |Drupal:9 HSTS Nginx PHP|Redirecting to h...|
+|[https://www.bureaubiosecurity.nl](https://www.bureaubiosecurity.nl)| |Apache| |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |Apache HTTP Server Drupal HSTS PHP|Bureau Biosecuri...|
+|[https://bureaubiosecurity.nl](https://bureaubiosecurity.nl)| |Apache| |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |Apache HTTP Server HSTS|301 Moved Perman...|

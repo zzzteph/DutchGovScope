@@ -9,6 +9,6 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
-|[http://admin.tst-rds.nl](http://admin.tst-rds.nl)| || | | | | | 3:white_check_mark: |||
-|[http://www.tst-rds.nl](http://www.tst-rds.nl)| || | | | | | 3:white_check_mark: |||
-|[http://tst-rds.nl](http://tst-rds.nl)| || | | | | | 3:white_check_mark: |||
+|[http://admin.tst-rds.nl](http://admin.tst-rds.nl)| || | | | | | :white_check_mark: |||
+|[http://www.tst-rds.nl](http://www.tst-rds.nl)| || | | | | | :white_check_mark: |||
+|[http://tst-rds.nl](http://tst-rds.nl)| || | | | | | :white_check_mark: |||

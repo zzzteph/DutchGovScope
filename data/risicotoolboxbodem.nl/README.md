@@ -9,9 +9,9 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://test.risicotoolboxbodem.nl](https://test.risicotoolboxbodem.nl)| |Microsoft-IIS/8....|:warning: |:white_check_mark: | | | | 3:white_check_mark: |HSTS IIS:8.5 Microsoft ASP.NET:4.0.30319 Windows Server|Object moved|
-|[https://test3.risicotoolboxbodem.nl](https://test3.risicotoolboxbodem.nl)| |Microsoft-IIS/10...| | | | | | 3:white_check_mark: |HSTS IIS:10.0 Microsoft ASP.NET Windows Server|- Nieuwe Stoffen|
-|[https://www.risicotoolboxbodem.nl](https://www.risicotoolboxbodem.nl)| |Microsoft-IIS/8....|:warning: |:white_check_mark: | | | | 3:white_check_mark: |Bootstrap HSTS IIS:8.5 Microsoft ASP.NET:4.0.30319 Windows Server|RisicotoolboxBod...|
-|[https://risicotoolboxbodem.nl](https://risicotoolboxbodem.nl)| ||:warning: |:white_check_mark: | | | | 3:white_check_mark: |||
-|[https://nieuwestoffen.risicotoolboxbodem.nl](https://nieuwestoffen.risicotoolboxbodem.nl)| |Microsoft-IIS/10...| |:white_check_mark: | | | | 3:white_check_mark: |HSTS IIS:10.0 Microsoft ASP.NET Windows Server|- Nieuwe Stoffen|
-|[https://feedback.risicotoolboxbodem.nl](https://feedback.risicotoolboxbodem.nl)| |Microsoft-IIS/10...| |:white_check_mark: | | | | 3:white_check_mark: |HSTS IIS:10.0 Microsoft ASP.NET Windows Server|- Nieuwe Stoffen|
+|[https://test.risicotoolboxbodem.nl](https://test.risicotoolboxbodem.nl)| |Microsoft-IIS/8....|:warning: |:white_check_mark: | | | | :white_check_mark: |HSTS IIS:8.5 Microsoft ASP.NET:4.0.30319 Windows Server|Object moved|
+|[https://test3.risicotoolboxbodem.nl](https://test3.risicotoolboxbodem.nl)| |Microsoft-IIS/10...| | | | | | :white_check_mark: |HSTS IIS:10.0 Microsoft ASP.NET Windows Server|- Nieuwe Stoffen|
+|[https://www.risicotoolboxbodem.nl](https://www.risicotoolboxbodem.nl)| |Microsoft-IIS/8....|:warning: |:white_check_mark: | | | | :white_check_mark: |Bootstrap HSTS IIS:8.5 Microsoft ASP.NET:4.0.30319 Windows Server|RisicotoolboxBod...|
+|[https://risicotoolboxbodem.nl](https://risicotoolboxbodem.nl)| ||:warning: |:white_check_mark: | | | | :white_check_mark: |||
+|[https://nieuwestoffen.risicotoolboxbodem.nl](https://nieuwestoffen.risicotoolboxbodem.nl)| |Microsoft-IIS/10...| |:white_check_mark: | | | | :white_check_mark: |HSTS IIS:10.0 Microsoft ASP.NET Windows Server|- Nieuwe Stoffen|
+|[https://feedback.risicotoolboxbodem.nl](https://feedback.risicotoolboxbodem.nl)| |Microsoft-IIS/10...| |:white_check_mark: | | | | :white_check_mark: |HSTS IIS:10.0 Microsoft ASP.NET Windows Server|- Nieuwe Stoffen|

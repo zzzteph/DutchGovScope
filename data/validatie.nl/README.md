@@ -9,6 +9,6 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://acc.validatie.nl](https://acc.validatie.nl)| |nginx|:white_check_mark: |:white_check_mark: | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |Bootstrap:5.0.2 Django HSTS Nginx Python|Valideer uw docu...|
-|[https://www.validatie.nl](https://www.validatie.nl)| |nginx|:white_check_mark: |:white_check_mark: | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |Bootstrap:3.4.0 Django HSTS Nginx Python|Valideer uw docu...|
-|[https://validatie.nl](https://validatie.nl)| |nginx|:white_check_mark: |:white_check_mark: | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |Bootstrap:3.4.0 Django HSTS Nginx Python|Valideer uw docu...|
+|[https://acc.validatie.nl](https://acc.validatie.nl)| |nginx|:white_check_mark: |:white_check_mark: | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: |Bootstrap:5.0.2 Django HSTS Nginx Python|Valideer uw docu...|
+|[https://www.validatie.nl](https://www.validatie.nl)| |nginx|:white_check_mark: |:white_check_mark: | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: |Bootstrap:3.4.0 Django HSTS Nginx Python|Valideer uw docu...|
+|[https://validatie.nl](https://validatie.nl)| |nginx|:white_check_mark: |:white_check_mark: | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: |Bootstrap:3.4.0 Django HSTS Nginx Python|Valideer uw docu...|

@@ -9,7 +9,7 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://data.collectienederland.nl](https://data.collectienederland.nl)| |nginx/1.19.6| | | | | | 3:white_check_mark: |Bootstrap Nginx:1.19.6|Collectie Nederl...|
-|[https://wo2.collectienederland.nl](https://wo2.collectienederland.nl)| |nginx/1.18.0 (Ub...| | | | | | 3:white_check_mark: |Bootstrap Nginx:1.18.0 Ubuntu|Cultuurgoederen...|
-|[https://www.collectienederland.nl](https://www.collectienederland.nl)| |nginx/1.19.6| | | | | | 3:white_check_mark: |Bootstrap Nginx:1.19.6|Collectie Nederl...|
-|[https://collectienederland.nl](https://collectienederland.nl)| |nginx/1.19.6| | | | | | 3:white_check_mark: |Bootstrap Nginx:1.19.6|Collectie Nederl...|
+|[https://data.collectienederland.nl](https://data.collectienederland.nl)| |nginx/1.19.6| | | | | | :white_check_mark: |Bootstrap Nginx:1.19.6|Collectie Nederl...|
+|[https://wo2.collectienederland.nl](https://wo2.collectienederland.nl)| |nginx/1.18.0 (Ub...| | | | | | :white_check_mark: |Bootstrap Nginx:1.18.0 Ubuntu|Cultuurgoederen...|
+|[https://www.collectienederland.nl](https://www.collectienederland.nl)| |nginx/1.19.6| | | | | | :white_check_mark: |Bootstrap Nginx:1.19.6|Collectie Nederl...|
+|[https://collectienederland.nl](https://collectienederland.nl)| |nginx/1.19.6| | | | | | :white_check_mark: |Bootstrap Nginx:1.19.6|Collectie Nederl...|

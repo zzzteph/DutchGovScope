@@ -9,12 +9,12 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://auteurs.allesoversport.nl](https://auteurs.allesoversport.nl)| || |:white_check_mark: | | | | 3:white_check_mark: |HSTS MySQL PHP Varnish:6.2 WordPress Yoast SEO:20.13|Home - Kenniscen...|
-|[https://mail.allesoversport.nl](https://mail.allesoversport.nl)| || | | | | | 3:white_check_mark: |HSTS Varnish:6.2|Default site|
-|[https://o306.allesoversport.nl](https://o306.allesoversport.nl)| ||:o: | | | | | 3:white_check_mark: |Amazon ALB Amazon CloudFront Amazon Web Services|Error 404|
-|[https://repo.allesoversport.nl](https://repo.allesoversport.nl)| || |:white_check_mark: | | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |HSTS PHP|Redirecting to /...|
-|[https://sportakkoord.allesoversport.nl](https://sportakkoord.allesoversport.nl)| || |:white_check_mark: | | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |HSTS Varnish:6.2|302 Found|
-|[https://w906.allesoversport.nl](https://w906.allesoversport.nl)| || | | | | | 3:white_check_mark: |HSTS Varnish:6.2|Default site|
-|[https://www.allesoversport.nl](https://www.allesoversport.nl)| || |:white_check_mark: | | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |Google Tag Manager HSTS MySQL PHP Varnish:6.2 WordPress|Allesoversport.n...|
-|[https://kcsport.nlwww.kenniscentrumsport.nlwww.allesoversport.nl](https://kcsport.nlwww.kenniscentrumsport.nlwww.allesoversport.nl)| || | | | | | 3:white_check_mark: |HSTS Varnish:6.2|Default site|
-|[https://allesoversport.nl](https://allesoversport.nl)| || |:white_check_mark: | | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |HSTS Varnish:6.2|301 Moved Perman...|
+|[https://auteurs.allesoversport.nl](https://auteurs.allesoversport.nl)| || |:white_check_mark: | | | | :white_check_mark: |HSTS MySQL PHP Varnish:6.2 WordPress Yoast SEO:20.13|Home - Kenniscen...|
+|[https://mail.allesoversport.nl](https://mail.allesoversport.nl)| || | | | | | :white_check_mark: |HSTS Varnish:6.2|Default site|
+|[https://o306.allesoversport.nl](https://o306.allesoversport.nl)| ||:o: | | | | | :white_check_mark: |Amazon ALB Amazon CloudFront Amazon Web Services|Error 404|
+|[https://repo.allesoversport.nl](https://repo.allesoversport.nl)| || |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS PHP|Redirecting to /...|
+|[https://sportakkoord.allesoversport.nl](https://sportakkoord.allesoversport.nl)| || |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Varnish:6.2|302 Found|
+|[https://w906.allesoversport.nl](https://w906.allesoversport.nl)| || | | | | | :white_check_mark: |HSTS Varnish:6.2|Default site|
+|[https://www.allesoversport.nl](https://www.allesoversport.nl)| || |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |Google Tag Manager HSTS MySQL PHP Varnish:6.2 WordPress|Allesoversport.n...|
+|[https://kcsport.nlwww.kenniscentrumsport.nlwww.allesoversport.nl](https://kcsport.nlwww.kenniscentrumsport.nlwww.allesoversport.nl)| || | | | | | :white_check_mark: |HSTS Varnish:6.2|Default site|
+|[https://allesoversport.nl](https://allesoversport.nl)| || |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Varnish:6.2|301 Moved Perman...|

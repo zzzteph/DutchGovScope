@@ -9,7 +9,7 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://www.amlc.nl](https://www.amlc.nl)| ||:white_check_mark: |:white_check_mark: | | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |HSTS MySQL PHP WordPress Yoast SEO:21.6|AMLC - Anti Mone...|
-|[https://amlc.nl](https://amlc.nl)| || |:white_check_mark: | | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |HSTS|301 Moved Perman...|
-|[https://21www.amlc.nl](https://21www.amlc.nl)| || | | | | | 3:white_check_mark: |HSTS||
-|[https://8www.amlc.nl](https://8www.amlc.nl)| || | | | | | 3:white_check_mark: |HSTS MySQL PHP WordPress Yoast SEO:21.6|AMLC - Anti Mone...|
+|[https://www.amlc.nl](https://www.amlc.nl)| ||:white_check_mark: |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS MySQL PHP WordPress Yoast SEO:21.6|AMLC - Anti Mone...|
+|[https://amlc.nl](https://amlc.nl)| || |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS|301 Moved Perman...|
+|[https://21www.amlc.nl](https://21www.amlc.nl)| || | | | | | :white_check_mark: |HSTS||
+|[https://8www.amlc.nl](https://8www.amlc.nl)| || | | | | | :white_check_mark: |HSTS MySQL PHP WordPress Yoast SEO:21.6|AMLC - Anti Mone...|

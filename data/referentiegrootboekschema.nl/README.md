@@ -9,9 +9,9 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://acc-dictu.referentiegrootboekschema.nl](https://acc-dictu.referentiegrootboekschema.nl)| |nginx| | | | | | 3:white_check_mark: |Basic Nginx|401 Authorizatio...|
-|[https://mail.referentiegrootboekschema.nl](https://mail.referentiegrootboekschema.nl)| |nginx| | | | | | 3:white_check_mark: |Nginx||
-|[https://prod-dictu.referentiegrootboekschema.nl](https://prod-dictu.referentiegrootboekschema.nl)| |nginx| | | | | | 3:white_check_mark: |Drupal:10 HSTS Nginx PHP|Home | Forum Sta...|
-|[https://test-dictu.referentiegrootboekschema.nl](https://test-dictu.referentiegrootboekschema.nl)| |nginx| | | | | | 3:white_check_mark: |Basic Nginx|401 Authorizatio...|
-|[https://www.referentiegrootboekschema.nl](https://www.referentiegrootboekschema.nl)| |nginx| |:white_check_mark: | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |Drupal:10 HSTS Nginx PHP|Home | Referenti...|
-|[https://referentiegrootboekschema.nl](https://referentiegrootboekschema.nl)| |nginx| |:white_check_mark: | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |Drupal:10 HSTS Nginx PHP|Home | Referenti...|
+|[https://acc-dictu.referentiegrootboekschema.nl](https://acc-dictu.referentiegrootboekschema.nl)| |nginx| | | | | | :white_check_mark: |Basic Nginx|401 Authorizatio...|
+|[https://mail.referentiegrootboekschema.nl](https://mail.referentiegrootboekschema.nl)| |nginx| | | | | | :white_check_mark: |Nginx||
+|[https://prod-dictu.referentiegrootboekschema.nl](https://prod-dictu.referentiegrootboekschema.nl)| |nginx| | | | | | :white_check_mark: |Drupal:10 HSTS Nginx PHP|Home | Forum Sta...|
+|[https://test-dictu.referentiegrootboekschema.nl](https://test-dictu.referentiegrootboekschema.nl)| |nginx| | | | | | :white_check_mark: |Basic Nginx|401 Authorizatio...|
+|[https://www.referentiegrootboekschema.nl](https://www.referentiegrootboekschema.nl)| |nginx| |:white_check_mark: | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: |Drupal:10 HSTS Nginx PHP|Home | Referenti...|
+|[https://referentiegrootboekschema.nl](https://referentiegrootboekschema.nl)| |nginx| |:white_check_mark: | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: |Drupal:10 HSTS Nginx PHP|Home | Referenti...|

@@ -9,9 +9,9 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://opendata.stelselcatalogus.nl](https://opendata.stelselcatalogus.nl)| |nginx/1.14.1| | | | | | 3:white_check_mark: |HSTS Nginx:1.14.1|Logius Stelselca...|
-|[https://preprod.stelselcatalogus.nl](https://preprod.stelselcatalogus.nl)| |nginx/1.24.0| |:white_check_mark: |:warning: | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |HSTS Nginx:1.24.0|Logius Stelselca...|
-|[https://preprod.opendata.stelselcatalogus.nl](https://preprod.opendata.stelselcatalogus.nl)| |nginx/1.24.0| |:white_check_mark: |:warning: | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |HSTS Nginx:1.24.0|Logius Stelselca...|
-|[https://www.stelselcatalogus.nl](https://www.stelselcatalogus.nl)| |nginx/1.14.1| |:white_check_mark: |:warning: | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |HSTS Nginx:1.14.1|Logius Stelselca...|
-|[https://stelselcatalogus.nl](https://stelselcatalogus.nl)| |nginx/1.14.1| |:white_check_mark: |:warning: | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: |HSTS Nginx:1.14.1|Logius Stelselca...|
-|[http://digitaleoverheid.stelselcatalogus.nl](http://digitaleoverheid.stelselcatalogus.nl)| || | | | 1:white_check_mark: | 2:white_check_mark: | 3:white_check_mark: ||404 - Not Found|
+|[https://opendata.stelselcatalogus.nl](https://opendata.stelselcatalogus.nl)| |nginx/1.14.1| | | | | | :white_check_mark: |HSTS Nginx:1.14.1|Logius Stelselca...|
+|[https://preprod.stelselcatalogus.nl](https://preprod.stelselcatalogus.nl)| |nginx/1.24.0| |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx:1.24.0|Logius Stelselca...|
+|[https://preprod.opendata.stelselcatalogus.nl](https://preprod.opendata.stelselcatalogus.nl)| |nginx/1.24.0| |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx:1.24.0|Logius Stelselca...|
+|[https://www.stelselcatalogus.nl](https://www.stelselcatalogus.nl)| |nginx/1.14.1| |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx:1.14.1|Logius Stelselca...|
+|[https://stelselcatalogus.nl](https://stelselcatalogus.nl)| |nginx/1.14.1| |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx:1.14.1|Logius Stelselca...|
+|[http://digitaleoverheid.stelselcatalogus.nl](http://digitaleoverheid.stelselcatalogus.nl)| || | | | :white_check_mark: | :white_check_mark: | :white_check_mark: ||404 - Not Found|

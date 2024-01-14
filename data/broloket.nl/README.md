@@ -9,6 +9,6 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://acc.broloket.nl](https://acc.broloket.nl)| |Apache| |:white_check_mark: | | 1:white_check_mark: | | 3:white_check_mark: |Apache HTTP Server Drupal HSTS PHP|Redirecting to h...|
-|[https://www.broloket.nl](https://www.broloket.nl)| |Apache| |:white_check_mark: | | 1:white_check_mark: | | 3:white_check_mark: |Apache HTTP Server Drupal HSTS PHP|Redirecting to h...|
-|[https://broloket.nl](https://broloket.nl)| |Apache| |:white_check_mark: | | 1:white_check_mark: | | 3:white_check_mark: |Apache HTTP Server HSTS|301 Moved Perman...|
+|[https://acc.broloket.nl](https://acc.broloket.nl)| |Apache| |:white_check_mark: | | :white_check_mark: | | :white_check_mark: |Apache HTTP Server Drupal HSTS PHP|Redirecting to h...|
+|[https://www.broloket.nl](https://www.broloket.nl)| |Apache| |:white_check_mark: | | :white_check_mark: | | :white_check_mark: |Apache HTTP Server Drupal HSTS PHP|Redirecting to h...|
+|[https://broloket.nl](https://broloket.nl)| |Apache| |:white_check_mark: | | :white_check_mark: | | :white_check_mark: |Apache HTTP Server HSTS|301 Moved Perman...|
