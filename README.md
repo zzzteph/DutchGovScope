@@ -1,12 +1,11 @@
  - Total number of subdomains \- **32151**
- - Total number of urls \- **10032**
+ - Total number of urls \- **10030**
 
 
 ### SSL Grades
- - $${\color{green}A}$$ \- 1156
- - $${\color{lightgreen}B}$$ \- 61
- - $${\color{orange}C/D}$$ \- 0
- - $${\color{red}E/F}$$ \- 9
+|$${\color{green}A}$$|$${\color{lightgreen}B}$$|$${\color{orange}C/D}$$|$${\color{red}E/F}$$|
+|---|---|---|---|
+ |1156|61|0|9|
 
 
 ### Cookies
@@ -16,8 +15,8 @@
 
 
 ### Top 5 servers
- - nginx \- **3079**
- - Microsoft-IIS/10... \- **984**
+ - nginx \- **3077**
+ - Microsoft-IIS/10... \- **983**
  - Apache \- **864**
  - BigIP \- **151**
  - Microsoft-HTTPAP... \- **133**
@@ -26,18 +25,17 @@
 
 ### Most widespread tech
 - HSTS \- **7421** 
-- Nginx \- **3223** 
-- Server \- **2127** 
-- Microsoft \- **1254** 
+- Nginx \- **3221** 
+- Server \- **2126** 
+- Microsoft \- **1253** 
 - Apache \- **1203** 
--  \- **1168** 
-- ASP.NET \- **1115** 
+- ASP.NET \- **1114** 
 - HTTP \- **1090** 
-- Windows \- **1028** 
-- IIS \- **1027** 
-- PHP \- **553** 
+- Windows \- **1027** 
+- IIS \- **1026** 
+- PHP \- **552** 
 - Bloomreach \- **477** 
-- Amazon \- **328** 
+- Amazon \- **334** 
 - Azure \- **283** 
 - Basic \- **271** 
 - Drupal \- **233** 
@@ -45,9 +43,10 @@
 - Bootstrap \- **211** 
 - F5 \- **188** 
 - BigIP \- **188** 
-- Web \- **155** 
-- Services \- **155** 
-- WordPress \- **148** 
-- MySQL \- **145** 
+- Web \- **158** 
+- Services \- **158** 
+- WordPress \- **147** 
+- MySQL \- **144** 
 - HTTPAPI \- **136** 
 - Cloudflare \- **135** 
+- Tomcat \- **109** 

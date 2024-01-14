@@ -1,5 +1,5 @@
  - Total number of subdomains - **32151**
- - Total number of urls - **10032**
+ - Total number of urls - **10030**
 
 
 **SSL Grades**
@@ -20,8 +20,8 @@
 **Top 5 servers**
 | Name | Count |
 |-------|-------|
-|nginx|3079|
-|Microsoft-IIS/10...|984|
+|nginx|3077|
+|Microsoft-IIS/10...|983|
 |Apache|864|
 |BigIP|151|
 |Microsoft-HTTPAP...|133|
@@ -30,12 +30,11 @@
 
 **Most widespread tech**
 - HSTS - **5715** 
-- Nginx - **2489** 
+- Nginx - **2487** 
 - Apache - **1188** 
--  - **1168** 
 - HTTP - **1075** 
 - Serv... - **1074** 
-- IIS - **934** 
+- IIS - **933** 
 - Microsoft - **659** 
 - A... - **480** 
 - HSTS... - **478** 
@@ -47,11 +46,11 @@
 - F5 - **188** 
 - BigIP - **188** 
 - Bootstrap - **163** 
-- Amazon - **153** 
+- Amazon - **156** 
 - Drupal - **130** 
 - HTTPAP... - **122** 
 - Tomcat - **109** 
-- Microso... - **103** 
+- Microso... - **102** 
 - Fo... - **99** 
 - MySQL - **91** 
 - S3 - **82** 
@@ -71,8 +70,8 @@
 - HTTP/3 - **39** 
 - Plesk - **39** 
 - CloudFron... - **38** 
+- Amazo... - **29** 
 - PHP... - **26** 
-- Amazo... - **26** 
 - W... - **25** 
 - Ng... - **25** 
 - Mic... - **23** 
@@ -80,4 +79,5 @@
 - AngularJS - **21** 
 - Kestrel - **19** 
 - Python - **18** 
+- ELB - **17** 
 

@@ -13,4 +13,4 @@
 |[https://opendata.netwerkplatteland.nl](https://opendata.netwerkplatteland.nl)| |nginx| |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx||
 |[https://projecten.netwerkplatteland.nl](https://projecten.netwerkplatteland.nl)| |nginx| |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Drupal HSTS Ngin...|Redirecting to h...|
 |[https://www.netwerkplatteland.nl](https://www.netwerkplatteland.nl)| |nginx| |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Bloomreach HSTS...|Home | Netwerk P...|
-|[https://netwerkplatteland.nl](https://netwerkplatteland.nl)| |nginx| |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx|301 Moved Perman...|
+|[https://netwerkplatteland.nl](https://netwerkplatteland.nl)| |nginx| |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx||
