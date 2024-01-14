@@ -12,5 +12,5 @@
 |[https://acc.greendeals.nl](https://acc.greendeals.nl)| | | | | | | |:white_check_mark: |Basic Nginx|
 |[https://demo.greendeals.nl](https://demo.greendeals.nl)| | | | | | | |:white_check_mark: |HSTS Nginx|
 |[https://test.greendeals.nl](https://test.greendeals.nl)| | | | | | | |:white_check_mark: |Basic Nginx|
-|[https://www.greendeals.nl](https://www.greendeals.nl)| |nginx| |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |Drupal:10 HSTS Nginx...|
-|[https://greendeals.nl](https://greendeals.nl)| |nginx| |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx|
+|[https://www.greendeals.nl](https://www.greendeals.nl)| |nginx| |:white_check_mark: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Drupal:10 HSTS Nginx...|
+|[https://greendeals.nl](https://greendeals.nl)| |nginx| |:white_check_mark: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx|

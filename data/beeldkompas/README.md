@@ -9,7 +9,7 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |
 |------------|-------|------|------|------|------|------|------|------|------|
-|[https://accept.beeldkompas.nl](https://accept.beeldkompas.nl)| |nginx| |:white_check_mark: | | | | |:white_check_mark: |HSTS Nginx Plesk|
-|[https://cms.beeldkompas.nl](https://cms.beeldkompas.nl)| |nginx| |:white_check_mark: | | | | |:white_check_mark: |HSTS MySQL Nginx PHP...|
-|[https://www.beeldkompas.nl](https://www.beeldkompas.nl)| |nginx| |:white_check_mark: | | | | |:white_check_mark: |HSTS Nginx Plesk|
-|[https://beeldkompas.nl](https://beeldkompas.nl)| |nginx| |:white_check_mark: | | | | |:white_check_mark: |HSTS Nginx Plesk|
+|[https://accept.beeldkompas.nl](https://accept.beeldkompas.nl)| |nginx| |:white_check_mark: | | | |:white_check_mark: |HSTS Nginx Plesk|
+|[https://cms.beeldkompas.nl](https://cms.beeldkompas.nl)| |nginx| |:white_check_mark: | | | |:white_check_mark: |HSTS MySQL Nginx PHP...|
+|[https://www.beeldkompas.nl](https://www.beeldkompas.nl)| |nginx| |:white_check_mark: | | | |:white_check_mark: |HSTS Nginx Plesk|
+|[https://beeldkompas.nl](https://beeldkompas.nl)| |nginx| |:white_check_mark: | | | |:white_check_mark: |HSTS Nginx Plesk|

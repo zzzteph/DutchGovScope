@@ -9,7 +9,7 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |
 |------------|-------|------|------|------|------|------|------|------|------|
-|[https://feeds.toetsingscommissievp.nl](https://feeds.toetsingscommissievp.nl)| |nginx| |:white_check_mark: | | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx|
-|[https://opendata.toetsingscommissievp.nl](https://opendata.toetsingscommissievp.nl)| |nginx| |:white_check_mark: | | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx|
-|[https://www.toetsingscommissievp.nl](https://www.toetsingscommissievp.nl)| |nginx| |:white_check_mark: | |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Bloomreach HSTS Ngin...|
-|[https://toetsingscommissievp.nl](https://toetsingscommissievp.nl)| |nginx| |:white_check_mark: | |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx|
+|[https://feeds.toetsingscommissievp.nl](https://feeds.toetsingscommissievp.nl)| |nginx| |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx|
+|[https://opendata.toetsingscommissievp.nl](https://opendata.toetsingscommissievp.nl)| |nginx| |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx|
+|[https://www.toetsingscommissievp.nl](https://www.toetsingscommissievp.nl)| |nginx| |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Bloomreach HSTS Ngin...|
+|[https://toetsingscommissievp.nl](https://toetsingscommissievp.nl)| |nginx| |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx|

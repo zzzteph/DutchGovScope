@@ -9,6 +9,6 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |
 |------------|-------|------|------|------|------|------|------|------|------|
-|[https://acceptatie.sportenbewegenincijfers.nl](https://acceptatie.sportenbewegenincijfers.nl)| |apache| |:white_check_mark: | | |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache HTTP Server H...|
-|[https://www.sportenbewegenincijfers.nl](https://www.sportenbewegenincijfers.nl)| |apache| |:white_check_mark: | | |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache HTTP Server D...|
-|[https://sportenbewegenincijfers.nl](https://sportenbewegenincijfers.nl)| |apache| |:white_check_mark: | | |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache HTTP Server H...|
+|[https://acceptatie.sportenbewegenincijfers.nl](https://acceptatie.sportenbewegenincijfers.nl)| |apache| |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache HTTP Server H...|
+|[https://www.sportenbewegenincijfers.nl](https://www.sportenbewegenincijfers.nl)| |apache| |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache HTTP Server D...|
+|[https://sportenbewegenincijfers.nl](https://sportenbewegenincijfers.nl)| |apache| |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache HTTP Server H...|

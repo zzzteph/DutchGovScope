@@ -9,6 +9,6 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |
 |------------|-------|------|------|------|------|------|------|------|------|
-|[https://gc.ienc-kennisportaal.nl](https://gc.ienc-kennisportaal.nl)| |apache| |:white_check_mark: | | |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache HTTP Server H...|
-|[https://www.ienc-kennisportaal.nl](https://www.ienc-kennisportaal.nl)| |apache| |:white_check_mark: | | |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache HTTP Server H...|
-|[https://ienc-kennisportaal.nl](https://ienc-kennisportaal.nl)| |apache| |:white_check_mark: | | |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache HTTP Server H...|
+|[https://gc.ienc-kennisportaal.nl](https://gc.ienc-kennisportaal.nl)| |apache| |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache HTTP Server H...|
+|[https://www.ienc-kennisportaal.nl](https://www.ienc-kennisportaal.nl)| |apache| |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache HTTP Server H...|
+|[https://ienc-kennisportaal.nl](https://ienc-kennisportaal.nl)| |apache| |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache HTTP Server H...|

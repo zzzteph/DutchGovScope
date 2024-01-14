@@ -10,7 +10,7 @@
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |
 |------------|-------|------|------|------|------|------|------|------|------|
 |[https://pvs.oostvaarderskliniek.nl](https://pvs.oostvaarderskliniek.nl)| |nginx| | | | | |:white_check_mark: |Nginx|
-|[https://feeds.oostvaarderskliniek.nl](https://feeds.oostvaarderskliniek.nl)| |nginx| |:white_check_mark: | | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx|
-|[https://oostvaarderskliniek.nl](https://oostvaarderskliniek.nl)| |nginx| |:white_check_mark: | |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx|
-|[https://opendata.oostvaarderskliniek.nl](https://opendata.oostvaarderskliniek.nl)| |nginx| |:white_check_mark: | | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx|
-|[https://www.oostvaarderskliniek.nl](https://www.oostvaarderskliniek.nl)| |nginx| |:white_check_mark: | |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Bloomreach HSTS Ngin...|
+|[https://feeds.oostvaarderskliniek.nl](https://feeds.oostvaarderskliniek.nl)| |nginx| |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx|
+|[https://oostvaarderskliniek.nl](https://oostvaarderskliniek.nl)| |nginx| |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx|
+|[https://opendata.oostvaarderskliniek.nl](https://opendata.oostvaarderskliniek.nl)| |nginx| |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx|
+|[https://www.oostvaarderskliniek.nl](https://www.oostvaarderskliniek.nl)| |nginx| |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Bloomreach HSTS Ngin...|

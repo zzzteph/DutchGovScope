@@ -9,5 +9,5 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |
 |------------|-------|------|------|------|------|------|------|------|------|
-|[https://www.wateetnederland.nl](https://www.wateetnederland.nl)| |apache| |:white_check_mark: | | |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache HTTP Server D...|
-|[https://wateetnederland.nl](https://wateetnederland.nl)| |apache| |:white_check_mark: | | |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache HTTP Server H...|
+|[https://www.wateetnederland.nl](https://www.wateetnederland.nl)| |apache| |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache HTTP Server D...|
+|[https://wateetnederland.nl](https://wateetnederland.nl)| |apache| |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache HTTP Server H...|

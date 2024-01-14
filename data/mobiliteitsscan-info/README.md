@@ -9,5 +9,5 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |
 |------------|-------|------|------|------|------|------|------|------|------|
-|[https://www.mobiliteitsscan-info.nl](https://www.mobiliteitsscan-info.nl)| |-| |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Microsoft ASP.N...|
-|[https://mobiliteitsscan-info.nl](https://mobiliteitsscan-info.nl)| |-| |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Microsoft ASP.N...|
+|[https://www.mobiliteitsscan-info.nl](https://www.mobiliteitsscan-info.nl)| |-| |:white_check_mark: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Microsoft ASP.N...|
+|[https://mobiliteitsscan-info.nl](https://mobiliteitsscan-info.nl)| |-| |:white_check_mark: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Microsoft ASP.N...|

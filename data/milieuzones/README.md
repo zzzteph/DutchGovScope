@@ -11,5 +11,5 @@
 |------------|-------|------|------|------|------|------|------|------|------|
 |[https://acc.milieuzones.nl](https://acc.milieuzones.nl)| | | | | | | |:white_check_mark: |Basic Nginx|
 |[https://test.milieuzones.nl](https://test.milieuzones.nl)| | | | | | | |:white_check_mark: |Basic Nginx|
-|[https://www.milieuzones.nl](https://www.milieuzones.nl)| |nginx| |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |Drupal:10 HSTS Nginx...|
-|[https://milieuzones.nl](https://milieuzones.nl)| |nginx| |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx|
+|[https://www.milieuzones.nl](https://www.milieuzones.nl)| |nginx| |:white_check_mark: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Drupal:10 HSTS Nginx...|
+|[https://milieuzones.nl](https://milieuzones.nl)| |nginx| |:white_check_mark: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx|

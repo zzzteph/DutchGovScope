@@ -12,5 +12,5 @@
 |[https://acc.natura2000.nl](https://acc.natura2000.nl)| | | | | | | |:white_check_mark: |Basic HSTS Nginx|
 |[https://pas.natura2000.nl](https://pas.natura2000.nl)| | | | | | | |:white_check_mark: |HSTS|
 |[https://test.natura2000.nl](https://test.natura2000.nl)| | | | | | | |:white_check_mark: |Basic Nginx|
-|[https://www.natura2000.nl](https://www.natura2000.nl)| |nginx| |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |Drupal:10 HSTS Nginx...|
-|[https://natura2000.nl](https://natura2000.nl)| |nginx| |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx|
+|[https://www.natura2000.nl](https://www.natura2000.nl)| |nginx| |:white_check_mark: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Drupal:10 HSTS Nginx...|
+|[https://natura2000.nl](https://natura2000.nl)| |nginx| |:white_check_mark: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx|

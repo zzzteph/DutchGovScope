@@ -10,10 +10,10 @@
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |
 |------------|-------|------|------|------|------|------|------|------|------|
 |[https://english.ctpveldzicht.nl](https://english.ctpveldzicht.nl)| $${\color{green}A}$$ |nginx| | | |:white_check_mark: | |:white_check_mark: |Nginx|
-|[https://feeds.ctpveldzicht.nl](https://feeds.ctpveldzicht.nl)| $${\color{green}A+}$$ |nginx| |:white_check_mark: | | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx|
-|[https://opendata.ctpveldzicht.nl](https://opendata.ctpveldzicht.nl)| |nginx| |:white_check_mark: | | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx|
-|[https://www.ctpveldzicht.nl](https://www.ctpveldzicht.nl)| $${\color{green}A+}$$ |nginx| |:white_check_mark: | |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Bloomreach HSTS Ngin...|
+|[https://feeds.ctpveldzicht.nl](https://feeds.ctpveldzicht.nl)| $${\color{green}A+}$$ |nginx| |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx|
+|[https://opendata.ctpveldzicht.nl](https://opendata.ctpveldzicht.nl)| |nginx| |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx|
+|[https://www.ctpveldzicht.nl](https://www.ctpveldzicht.nl)| $${\color{green}A+}$$ |nginx| |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Bloomreach HSTS Ngin...|
 |[https://staging.english.ctpveldzicht.nl](https://staging.english.ctpveldzicht.nl)| | | | | | | |:white_check_mark: |Nginx|
-|[https://ctpveldzicht.nl](https://ctpveldzicht.nl)| $${\color{green}A+}$$ |nginx| |:white_check_mark: | |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx|
+|[https://ctpveldzicht.nl](https://ctpveldzicht.nl)| $${\color{green}A+}$$ |nginx| |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx|
 |[https://ftp.ctpveldzicht.nl](https://ftp.ctpveldzicht.nl)| | | | | | | |:white_check_mark: |Nginx|
 |[https://staging.ctpveldzicht.nl](https://staging.ctpveldzicht.nl)| | | | | | | |:white_check_mark: |Nginx|

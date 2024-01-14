@@ -9,6 +9,6 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |
 |------------|-------|------|------|------|------|------|------|------|------|
-|[https://www.e-mjv.nl](https://www.e-mjv.nl)| |apache| |:white_check_mark: | | |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache HTTP Server D...|
-|[https://e-mjv.nl](https://e-mjv.nl)| |apache| |:white_check_mark: | | |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache HTTP Server H...|
+|[https://www.e-mjv.nl](https://www.e-mjv.nl)| |apache| |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache HTTP Server D...|
+|[https://e-mjv.nl](https://e-mjv.nl)| |apache| |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache HTTP Server H...|
 |[https://redactie.e-mjv.nl](https://redactie.e-mjv.nl)| | | | | | | |:white_check_mark: |Apache HTTP Server H...|

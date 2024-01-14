@@ -9,6 +9,6 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |
 |------------|-------|------|------|------|------|------|------|------|------|
-|[https://static.arorijk.nl](https://static.arorijk.nl)| $${\color{green}A+}$$ | | |:white_check_mark: | | |:white_check_mark: |:white_check_mark: |HSTS|
-|[https://www.arorijk.nl](https://www.arorijk.nl)| $${\color{green}A+}$$ | |:warning: |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Ruby Ruby on Ra...|
-|[https://arorijk.nl](https://arorijk.nl)| | |:warning: |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Ruby Ruby on Ra...|
+|[https://static.arorijk.nl](https://static.arorijk.nl)| $${\color{green}A+}$$ | | |:white_check_mark: | |:white_check_mark: |:white_check_mark: |HSTS|
+|[https://www.arorijk.nl](https://www.arorijk.nl)| $${\color{green}A+}$$ | |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Ruby Ruby on Ra...|
+|[https://arorijk.nl](https://arorijk.nl)| | |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Ruby Ruby on Ra...|

@@ -9,5 +9,5 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |
 |------------|-------|------|------|------|------|------|------|------|------|
-|[https://www.dustex.nl](https://www.dustex.nl)| |microsoft-iis/10.0|:warning: |:white_check_mark: | | |:white_check_mark: | |:white_check_mark: |HSTS IIS:10.0 Micros...|
-|[https://dustex.nl](https://dustex.nl)| |microsoft-iis/10.0|:warning: |:white_check_mark: | | |:white_check_mark: | |:white_check_mark: |HSTS IIS:10.0 Micros...|
+|[https://www.dustex.nl](https://www.dustex.nl)| |microsoft-iis/10.0|:warning: |:white_check_mark: | |:white_check_mark: | |:white_check_mark: |HSTS IIS:10.0 Micros...|
+|[https://dustex.nl](https://dustex.nl)| |microsoft-iis/10.0|:warning: |:white_check_mark: | |:white_check_mark: | |:white_check_mark: |HSTS IIS:10.0 Micros...|

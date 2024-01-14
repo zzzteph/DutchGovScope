@@ -10,6 +10,6 @@
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |
 |------------|-------|------|------|------|------|------|------|------|------|
 |[https://kennisbank.agroforestrynetwerk.nl](https://kennisbank.agroforestrynetwerk.nl)| |nginx/1.18.0 (ubuntu)| | | | | |:white_check_mark: |MySQL Nginx:1.18.0 P...|
-|[https://agroforestrynetwerk.nl](https://agroforestrynetwerk.nl)| |nginx/1.18.0 (ubuntu)| |:white_check_mark: | | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx:1.18.0 PH...|
+|[https://agroforestrynetwerk.nl](https://agroforestrynetwerk.nl)| |nginx/1.18.0 (ubuntu)| |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx:1.18.0 PH...|
 |[https://staging.agroforestrynetwerk.nl](https://staging.agroforestrynetwerk.nl)| | | | | | | |:white_check_mark: |HSTS Nginx:1.18.0 PH...|
-|[https://www.agroforestrynetwerk.nl](https://www.agroforestrynetwerk.nl)| |nginx/1.18.0 (ubuntu)| |:white_check_mark: | | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx:1.18.0 PH...|
+|[https://www.agroforestrynetwerk.nl](https://www.agroforestrynetwerk.nl)| |nginx/1.18.0 (ubuntu)| |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx:1.18.0 PH...|

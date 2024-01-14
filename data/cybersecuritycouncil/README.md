@@ -9,7 +9,7 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |
 |------------|-------|------|------|------|------|------|------|------|------|
-|[https://feeds.cybersecuritycouncil.nl](https://feeds.cybersecuritycouncil.nl)| $${\color{green}A+}$$ |nginx| |:white_check_mark: | | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx|
-|[https://opendata.cybersecuritycouncil.nl](https://opendata.cybersecuritycouncil.nl)| $${\color{green}A+}$$ |nginx| |:white_check_mark: | | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx|
-|[https://www.cybersecuritycouncil.nl](https://www.cybersecuritycouncil.nl)| $${\color{green}A+}$$ |nginx| |:white_check_mark: | |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Bloomreach HSTS Ngin...|
-|[https://cybersecuritycouncil.nl](https://cybersecuritycouncil.nl)| $${\color{green}A+}$$ |nginx| |:white_check_mark: | |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx|
+|[https://feeds.cybersecuritycouncil.nl](https://feeds.cybersecuritycouncil.nl)| $${\color{green}A+}$$ |nginx| |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx|
+|[https://opendata.cybersecuritycouncil.nl](https://opendata.cybersecuritycouncil.nl)| $${\color{green}A+}$$ |nginx| |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx|
+|[https://www.cybersecuritycouncil.nl](https://www.cybersecuritycouncil.nl)| $${\color{green}A+}$$ |nginx| |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Bloomreach HSTS Ngin...|
+|[https://cybersecuritycouncil.nl](https://cybersecuritycouncil.nl)| $${\color{green}A+}$$ |nginx| |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx|

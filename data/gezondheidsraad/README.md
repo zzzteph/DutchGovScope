@@ -9,7 +9,7 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |
 |------------|-------|------|------|------|------|------|------|------|------|
-|[https://www.gezondheidsraad.nl](https://www.gezondheidsraad.nl)| $${\color{green}A+}$$ |nginx| |:white_check_mark: | |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Bloomreach HSTS Ngin...|
-|[https://opendata.gezondheidsraad.nl](https://opendata.gezondheidsraad.nl)| $${\color{green}A+}$$ |nginx| |:white_check_mark: | | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx|
-|[https://feeds.gezondheidsraad.nl](https://feeds.gezondheidsraad.nl)| $${\color{green}A+}$$ |nginx| |:white_check_mark: | | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx|
-|[https://gezondheidsraad.nl](https://gezondheidsraad.nl)| $${\color{green}A+}$$ |nginx| |:white_check_mark: | |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx|
+|[https://www.gezondheidsraad.nl](https://www.gezondheidsraad.nl)| $${\color{green}A+}$$ |nginx| |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Bloomreach HSTS Ngin...|
+|[https://opendata.gezondheidsraad.nl](https://opendata.gezondheidsraad.nl)| $${\color{green}A+}$$ |nginx| |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx|
+|[https://feeds.gezondheidsraad.nl](https://feeds.gezondheidsraad.nl)| $${\color{green}A+}$$ |nginx| |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx|
+|[https://gezondheidsraad.nl](https://gezondheidsraad.nl)| $${\color{green}A+}$$ |nginx| |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx|

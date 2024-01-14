@@ -9,11 +9,11 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |
 |------------|-------|------|------|------|------|------|------|------|------|
-|[https://acceptatie.melding.inspectieszw.nl](https://acceptatie.melding.inspectieszw.nl)| | |:warning: |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS IIS:10.0 Window...|
+|[https://acceptatie.melding.inspectieszw.nl](https://acceptatie.melding.inspectieszw.nl)| | |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS IIS:10.0 Window...|
 |[https://asbestovertredingen.inspectieszw.nl](https://asbestovertredingen.inspectieszw.nl)| | | | | | | |:white_check_mark: |Nginx|
-|[https://melding.inspectieszw.nl](https://melding.inspectieszw.nl)| | |:warning: |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |IIS:10.0 Microsoft A...|
+|[https://melding.inspectieszw.nl](https://melding.inspectieszw.nl)| | |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |:white_check_mark: |IIS:10.0 Microsoft A...|
 |[http://monitor.inspectieszw.nl](http://monitor.inspectieszw.nl)| | | | | | | |:white_check_mark: |F5 BigIP|
-|[http://opendata.inspectieszw.nl](http://opendata.inspectieszw.nl)| |microsoft-iis/10.0| |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS IIS:10.0 Window...|
-|[https://test.melding.inspectieszw.nl](https://test.melding.inspectieszw.nl)| | |:warning: |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS IIS:10.0 Window...|
-|[https://www.inspectieszw.nl](https://www.inspectieszw.nl)| |nginx| |:white_check_mark: | |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS IIS:10.0 Window...|
-|[https://inspectieszw.nl](https://inspectieszw.nl)| |nginx| |:white_check_mark: | |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS IIS:10.0 Window...|
+|[http://opendata.inspectieszw.nl](http://opendata.inspectieszw.nl)| |microsoft-iis/10.0| |:white_check_mark: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS IIS:10.0 Window...|
+|[https://test.melding.inspectieszw.nl](https://test.melding.inspectieszw.nl)| | |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS IIS:10.0 Window...|
+|[https://www.inspectieszw.nl](https://www.inspectieszw.nl)| |nginx| |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS IIS:10.0 Window...|
+|[https://inspectieszw.nl](https://inspectieszw.nl)| |nginx| |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS IIS:10.0 Window...|

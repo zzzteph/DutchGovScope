@@ -9,8 +9,8 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |
 |------------|-------|------|------|------|------|------|------|------|------|
-|[https://www.vergoedingsns.nl](https://www.vergoedingsns.nl)| |nginx| |:white_check_mark: | |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Bloomreach HSTS Ngin...|
-|[https://aanvragen.vergoedingsns.nl](https://aanvragen.vergoedingsns.nl)| |nginx| |:white_check_mark: | | |:white_check_mark: | |:white_check_mark: |HSTS Nginx|
-|[https://feeds.vergoedingsns.nl](https://feeds.vergoedingsns.nl)| |nginx| |:white_check_mark: | | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx|
-|[https://opendata.vergoedingsns.nl](https://opendata.vergoedingsns.nl)| |nginx| |:white_check_mark: | | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx|
-|[https://vergoedingsns.nl](https://vergoedingsns.nl)| |nginx| |:white_check_mark: | |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx|
+|[https://www.vergoedingsns.nl](https://www.vergoedingsns.nl)| |nginx| |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Bloomreach HSTS Ngin...|
+|[https://aanvragen.vergoedingsns.nl](https://aanvragen.vergoedingsns.nl)| |nginx| |:white_check_mark: | |:white_check_mark: | |:white_check_mark: |HSTS Nginx|
+|[https://feeds.vergoedingsns.nl](https://feeds.vergoedingsns.nl)| |nginx| |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx|
+|[https://opendata.vergoedingsns.nl](https://opendata.vergoedingsns.nl)| |nginx| |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx|
+|[https://vergoedingsns.nl](https://vergoedingsns.nl)| |nginx| |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx|

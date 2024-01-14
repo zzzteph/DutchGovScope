@@ -9,11 +9,11 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |
 |------------|-------|------|------|------|------|------|------|------|------|
-|[https://english.dienstterugkeerenvertrek.nl](https://english.dienstterugkeerenvertrek.nl)| $${\color{green}A+}$$ |nginx| |:white_check_mark: | |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Bloomreach HSTS Ngin...|
-|[https://feeds.dienstterugkeerenvertrek.nl](https://feeds.dienstterugkeerenvertrek.nl)| $${\color{green}A+}$$ |nginx| |:white_check_mark: | | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx|
-|[https://feeds.english.dienstterugkeerenvertrek.nl](https://feeds.english.dienstterugkeerenvertrek.nl)| $${\color{green}A+}$$ |nginx| |:white_check_mark: | | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx|
-|[https://opendata.dienstterugkeerenvertrek.nl](https://opendata.dienstterugkeerenvertrek.nl)| $${\color{green}A+}$$ |nginx| |:white_check_mark: | | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx|
-|[https://opendata.english.dienstterugkeerenvertrek.nl](https://opendata.english.dienstterugkeerenvertrek.nl)| $${\color{green}A+}$$ |nginx| |:white_check_mark: | | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx|
-|[https://portaal.dienstterugkeerenvertrek.nl](https://portaal.dienstterugkeerenvertrek.nl)| $${\color{green}A+}$$ |apache| |:white_check_mark: | |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache HTTP Server H...|
-|[https://www.dienstterugkeerenvertrek.nl](https://www.dienstterugkeerenvertrek.nl)| $${\color{green}A+}$$ |nginx| |:white_check_mark: | |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Bloomreach HSTS Ngin...|
-|[https://dienstterugkeerenvertrek.nl](https://dienstterugkeerenvertrek.nl)| $${\color{green}A+}$$ |nginx| |:white_check_mark: | |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx|
+|[https://english.dienstterugkeerenvertrek.nl](https://english.dienstterugkeerenvertrek.nl)| $${\color{green}A+}$$ |nginx| |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Bloomreach HSTS Ngin...|
+|[https://feeds.dienstterugkeerenvertrek.nl](https://feeds.dienstterugkeerenvertrek.nl)| $${\color{green}A+}$$ |nginx| |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx|
+|[https://feeds.english.dienstterugkeerenvertrek.nl](https://feeds.english.dienstterugkeerenvertrek.nl)| $${\color{green}A+}$$ |nginx| |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx|
+|[https://opendata.dienstterugkeerenvertrek.nl](https://opendata.dienstterugkeerenvertrek.nl)| $${\color{green}A+}$$ |nginx| |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx|
+|[https://opendata.english.dienstterugkeerenvertrek.nl](https://opendata.english.dienstterugkeerenvertrek.nl)| $${\color{green}A+}$$ |nginx| |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx|
+|[https://portaal.dienstterugkeerenvertrek.nl](https://portaal.dienstterugkeerenvertrek.nl)| $${\color{green}A+}$$ |apache| |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache HTTP Server H...|
+|[https://www.dienstterugkeerenvertrek.nl](https://www.dienstterugkeerenvertrek.nl)| $${\color{green}A+}$$ |nginx| |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Bloomreach HSTS Ngin...|
+|[https://dienstterugkeerenvertrek.nl](https://dienstterugkeerenvertrek.nl)| $${\color{green}A+}$$ |nginx| |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx|

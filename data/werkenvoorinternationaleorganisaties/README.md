@@ -9,8 +9,8 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |
 |------------|-------|------|------|------|------|------|------|------|------|
-|[https://feeds.werkenvoorinternationaleorganisaties.nl](https://feeds.werkenvoorinternationaleorganisaties.nl)| |nginx| |:white_check_mark: | | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx|
-|[https://opendata.werkenvoorinternationaleorganisaties.nl](https://opendata.werkenvoorinternationaleorganisaties.nl)| |nginx| |:white_check_mark: | | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx|
-|[https://vacature.werkenvoorinternationaleorganisaties.nl](https://vacature.werkenvoorinternationaleorganisaties.nl)| |apache| |:white_check_mark: | |:warning: |:white_check_mark: | |:white_check_mark: |Apache HTTP Server H...|
-|[https://www.werkenvoorinternationaleorganisaties.nl](https://www.werkenvoorinternationaleorganisaties.nl)| |nginx| |:white_check_mark: | |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Bloomreach HSTS Ngin...|
-|[https://werkenvoorinternationaleorganisaties.nl](https://werkenvoorinternationaleorganisaties.nl)| |nginx| |:white_check_mark: | |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx|
+|[https://feeds.werkenvoorinternationaleorganisaties.nl](https://feeds.werkenvoorinternationaleorganisaties.nl)| |nginx| |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx|
+|[https://opendata.werkenvoorinternationaleorganisaties.nl](https://opendata.werkenvoorinternationaleorganisaties.nl)| |nginx| |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx|
+|[https://vacature.werkenvoorinternationaleorganisaties.nl](https://vacature.werkenvoorinternationaleorganisaties.nl)| |apache| |:white_check_mark: |:warning: |:white_check_mark: | |:white_check_mark: |Apache HTTP Server H...|
+|[https://www.werkenvoorinternationaleorganisaties.nl](https://www.werkenvoorinternationaleorganisaties.nl)| |nginx| |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Bloomreach HSTS Ngin...|
+|[https://werkenvoorinternationaleorganisaties.nl](https://werkenvoorinternationaleorganisaties.nl)| |nginx| |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx|

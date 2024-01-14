@@ -10,8 +10,8 @@
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |
 |------------|-------|------|------|------|------|------|------|------|------|
 |[https://adressen.keringhuis.nl](https://adressen.keringhuis.nl)| |apache| | | | | |:white_check_mark: |Apache HTTP Server B...|
-|[https://old.keringhuis.nl](https://old.keringhuis.nl)| |apache|:warning: |:white_check_mark: | | | | |:white_check_mark: |Apache HTTP Server:2...|
-|[https://www.keringhuis.nl](https://www.keringhuis.nl)| |apache|:warning: |:white_check_mark: | | | | |:white_check_mark: |Apache HTTP Server H...|
+|[https://old.keringhuis.nl](https://old.keringhuis.nl)| |apache|:warning: |:white_check_mark: | | | |:white_check_mark: |Apache HTTP Server:2...|
+|[https://www.keringhuis.nl](https://www.keringhuis.nl)| |apache|:warning: |:white_check_mark: | | | |:white_check_mark: |Apache HTTP Server H...|
 |[https://symposium.keringhuis.nl](https://symposium.keringhuis.nl)| |apache/2.4.41 (ubuntu)|:warning: | | |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache HTTP Server:2...|
 |[https://www.symposium.keringhuis.nl](https://www.symposium.keringhuis.nl)| |apache/2.4.41 (ubuntu)|:warning: | | |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache HTTP Server:2...|
-|[https://keringhuis.nl](https://keringhuis.nl)| |apache|:warning: |:white_check_mark: | | | | |:white_check_mark: |Apache HTTP Server H...|
+|[https://keringhuis.nl](https://keringhuis.nl)| |apache|:warning: |:white_check_mark: | | | |:white_check_mark: |Apache HTTP Server H...|

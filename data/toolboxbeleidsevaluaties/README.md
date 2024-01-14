@@ -9,7 +9,7 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |
 |------------|-------|------|------|------|------|------|------|------|------|
-|[https://feeds.toolboxbeleidsevaluaties.nl](https://feeds.toolboxbeleidsevaluaties.nl)| |nginx| |:white_check_mark: | | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx|
-|[https://opendata.toolboxbeleidsevaluaties.nl](https://opendata.toolboxbeleidsevaluaties.nl)| |nginx| |:white_check_mark: | | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx|
-|[https://www.toolboxbeleidsevaluaties.nl](https://www.toolboxbeleidsevaluaties.nl)| |nginx| |:white_check_mark: | |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Bloomreach HSTS Ngin...|
-|[https://toolboxbeleidsevaluaties.nl](https://toolboxbeleidsevaluaties.nl)| |nginx| |:white_check_mark: | |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx|
+|[https://feeds.toolboxbeleidsevaluaties.nl](https://feeds.toolboxbeleidsevaluaties.nl)| |nginx| |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx|
+|[https://opendata.toolboxbeleidsevaluaties.nl](https://opendata.toolboxbeleidsevaluaties.nl)| |nginx| |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx|
+|[https://www.toolboxbeleidsevaluaties.nl](https://www.toolboxbeleidsevaluaties.nl)| |nginx| |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Bloomreach HSTS Ngin...|
+|[https://toolboxbeleidsevaluaties.nl](https://toolboxbeleidsevaluaties.nl)| |nginx| |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx|

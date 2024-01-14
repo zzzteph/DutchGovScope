@@ -10,6 +10,6 @@
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |
 |------------|-------|------|------|------|------|------|------|------|------|
 |[https://proto.gipdatabank.nl](https://proto.gipdatabank.nl)| |github.com| | | | | |:white_check_mark: |Fastly GitHub Pages...|
-|[https://www.gipdatabank.nl](https://www.gipdatabank.nl)| |solvinity server|:warning: |:white_check_mark: | |:warning: | |:white_check_mark: |:white_check_mark: |Bloomreach HSTS|
+|[https://www.gipdatabank.nl](https://www.gipdatabank.nl)| |solvinity server|:warning: |:white_check_mark: |:warning: | |:white_check_mark: |:white_check_mark: |Bloomreach HSTS|
 |[https://www-ac.gipdatabank.nl](https://www-ac.gipdatabank.nl)| |apache| | | | | |:white_check_mark: |Apache HTTP Server B...|
-|[https://gipdatabank.nl](https://gipdatabank.nl)| |solvinity server|:warning: |:white_check_mark: | |:warning: | |:white_check_mark: |:white_check_mark: |Apache HTTP Server H...|
+|[https://gipdatabank.nl](https://gipdatabank.nl)| |solvinity server|:warning: |:white_check_mark: |:warning: | |:white_check_mark: |:white_check_mark: |Apache HTTP Server H...|

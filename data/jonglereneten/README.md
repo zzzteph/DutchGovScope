@@ -11,6 +11,6 @@
 |------------|-------|------|------|------|------|------|------|------|------|
 |[https://acc.jonglereneten.nl](https://acc.jonglereneten.nl)| | | | | | | |:white_check_mark: |Basic Nginx|
 |[https://test.jonglereneten.nl](https://test.jonglereneten.nl)| | | | | | | |:white_check_mark: |Basic Nginx|
-|[https://www.jonglereneten.nl](https://www.jonglereneten.nl)| |nginx| |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |Bootstrap Drupal:10...|
-|[https://jonglereneten.nl](https://jonglereneten.nl)| |nginx| |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx|
+|[https://www.jonglereneten.nl](https://www.jonglereneten.nl)| |nginx| |:white_check_mark: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Bootstrap Drupal:10...|
+|[https://jonglereneten.nl](https://jonglereneten.nl)| |nginx| |:white_check_mark: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx|
 |[https://prod.jonglereneten.nl](https://prod.jonglereneten.nl)| | | | | | | |:white_check_mark: |HSTS Nginx|

@@ -10,5 +10,5 @@
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |
 |------------|-------|------|------|------|------|------|------|------|------|
 |[http://acceptatie.zoek.bodemambities.nl](http://acceptatie.zoek.bodemambities.nl)| | | | | | | |:white_check_mark: ||
-|[https://www.bodemambities.nl](https://www.bodemambities.nl)| |apache| |:white_check_mark: | | |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache HTTP Server D...|
-|[https://bodemambities.nl](https://bodemambities.nl)| |apache| |:white_check_mark: | | |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache HTTP Server H...|
+|[https://www.bodemambities.nl](https://www.bodemambities.nl)| |apache| |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache HTTP Server D...|
+|[https://bodemambities.nl](https://bodemambities.nl)| |apache| |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache HTTP Server H...|

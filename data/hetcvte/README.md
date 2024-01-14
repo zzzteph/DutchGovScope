@@ -11,7 +11,7 @@
 |------------|-------|------|------|------|------|------|------|------|------|
 |[https://mx2.hetcvte.nl](https://mx2.hetcvte.nl)| | | | | | | |:white_check_mark: |IIS:10.0 Windows Ser...|
 |[https://da.hetcvte.nl](https://da.hetcvte.nl)| | | | | | | |:white_check_mark: |IIS:10.0 Windows Ser...|
-|[https://mbg.hetcvte.nl](https://mbg.hetcvte.nl)| |apache| |:white_check_mark: | | |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache HTTP Server H...|
-|[https://micollab.hetcvte.nl](https://micollab.hetcvte.nl)| |apache| |:white_check_mark: | | |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache HTTP Server H...|
-|[https://www.hetcvte.nl](https://www.hetcvte.nl)| |nginx| |:white_check_mark: | |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Nginx|
-|[https://hetcvte.nl](https://hetcvte.nl)| |nginx| |:white_check_mark: | |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Nginx|
+|[https://mbg.hetcvte.nl](https://mbg.hetcvte.nl)| |apache| |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache HTTP Server H...|
+|[https://micollab.hetcvte.nl](https://micollab.hetcvte.nl)| |apache| |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache HTTP Server H...|
+|[https://www.hetcvte.nl](https://www.hetcvte.nl)| |nginx| |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Nginx|
+|[https://hetcvte.nl](https://hetcvte.nl)| |nginx| |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Nginx|

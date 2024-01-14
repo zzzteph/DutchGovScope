@@ -9,6 +9,6 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |
 |------------|-------|------|------|------|------|------|------|------|------|
-|[https://base.usar.nl](https://base.usar.nl)| | |:warning: |:white_check_mark: | | | | |:white_check_mark: |HSTS|
-|[https://www.usar.nl](https://www.usar.nl)| | | |:white_check_mark: | | | | |:white_check_mark: |Google Tag Manager H...|
-|[https://usar.nl](https://usar.nl)| | | |:white_check_mark: | | | | |:white_check_mark: |HSTS|
+|[https://base.usar.nl](https://base.usar.nl)| | |:warning: |:white_check_mark: | | | |:white_check_mark: |HSTS|
+|[https://www.usar.nl](https://www.usar.nl)| | | |:white_check_mark: | | | |:white_check_mark: |Google Tag Manager H...|
+|[https://usar.nl](https://usar.nl)| | | |:white_check_mark: | | | |:white_check_mark: |HSTS|

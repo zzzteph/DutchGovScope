@@ -12,8 +12,8 @@
 |[https://cms.tenderned.nl](https://cms.tenderned.nl)| |nginx| | | | | |:white_check_mark: |HSTS Nginx|
 |[https://cms.acceptatie.tenderned.nl](https://cms.acceptatie.tenderned.nl)| |nginx| | | | | |:white_check_mark: |HSTS Nginx|
 |[https://cms.test.tenderned.nl](https://cms.test.tenderned.nl)| |nginx| | | | | |:white_check_mark: |HSTS Nginx|
-|[https://cursus.tenderned.nl](https://cursus.tenderned.nl)| | |:warning: |:white_check_mark: | |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|
-|[https://nieuws.tenderned.nl](https://nieuws.tenderned.nl)| |spotler| |:white_check_mark: | | | | |:white_check_mark: |HSTS|
-|[https://www.tenderned.nl](https://www.tenderned.nl)| | |:warning: |:white_check_mark: | |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|
-|[https://www.cursus.tenderned.nl](https://www.cursus.tenderned.nl)| | |:warning: |:white_check_mark: | |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|
-|[https://tenderned.nl](https://tenderned.nl)| | |:warning: |:white_check_mark: | |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|
+|[https://cursus.tenderned.nl](https://cursus.tenderned.nl)| | |:warning: |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|
+|[https://nieuws.tenderned.nl](https://nieuws.tenderned.nl)| |spotler| |:white_check_mark: | | | |:white_check_mark: |HSTS|
+|[https://www.tenderned.nl](https://www.tenderned.nl)| | |:warning: |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|
+|[https://www.cursus.tenderned.nl](https://www.cursus.tenderned.nl)| | |:warning: |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|
+|[https://tenderned.nl](https://tenderned.nl)| | |:warning: |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|

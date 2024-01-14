@@ -10,14 +10,14 @@
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |
 |------------|-------|------|------|------|------|------|------|------|------|
 |[http://bayplanviewer.bics.nl](http://bayplanviewer.bics.nl)| | | | | | | |:white_check_mark: ||
-|[https://hs.bics.nl](https://hs.bics.nl)| |apache| |:white_check_mark: | | |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache HTTP Server H...|
-|[https://hsacc.bics.nl](https://hsacc.bics.nl)| |apache| |:white_check_mark: | | |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache HTTP Server H...|
+|[https://hs.bics.nl](https://hs.bics.nl)| |apache| |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache HTTP Server H...|
+|[https://hsacc.bics.nl](https://hsacc.bics.nl)| |apache| |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache HTTP Server H...|
 |[https://livra.bics.nl](https://livra.bics.nl)| | | | | | | |:white_check_mark: ||
 |[https://livra2.bics.nl](https://livra2.bics.nl)| | | | | | | |:white_check_mark: |HSTS|
 |[http://nlhull.bics.nl](http://nlhull.bics.nl)| | | | | | | |:white_check_mark: ||
 |[http://nlhull2.bics.nl](http://nlhull2.bics.nl)| | | | | | | |:white_check_mark: ||
 |[http://nlrdms.bics.nl](http://nlrdms.bics.nl)| | | | | | | |:white_check_mark: ||
-|[https://www.bics.nl](https://www.bics.nl)| |apache| |:white_check_mark: | | |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache HTTP Server D...|
+|[https://www.bics.nl](https://www.bics.nl)| |apache| |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache HTTP Server D...|
 |[https://bicsdrupalacc.bics.nl](https://bicsdrupalacc.bics.nl)| | | | | | | |:white_check_mark: |Apache HTTP Server:2...|
 |[https://bics.nl](https://bics.nl)| | | | | | | |:white_check_mark: |Apache HTTP Server|
 |[https://bicsweb1.bics.nl](https://bicsweb1.bics.nl)| | | | | | | |:white_check_mark: |Apache HTTP Server H...|

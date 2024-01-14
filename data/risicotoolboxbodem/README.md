@@ -9,9 +9,9 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |
 |------------|-------|------|------|------|------|------|------|------|------|
-|[https://test.risicotoolboxbodem.nl](https://test.risicotoolboxbodem.nl)| |microsoft-iis/8.5|:warning: |:white_check_mark: | | | | |:white_check_mark: |HSTS IIS:8.5 Microso...|
+|[https://test.risicotoolboxbodem.nl](https://test.risicotoolboxbodem.nl)| |microsoft-iis/8.5|:warning: |:white_check_mark: | | | |:white_check_mark: |HSTS IIS:8.5 Microso...|
 |[https://test3.risicotoolboxbodem.nl](https://test3.risicotoolboxbodem.nl)| | | | | | | |:white_check_mark: |HSTS IIS:10.0 Micros...|
-|[https://www.risicotoolboxbodem.nl](https://www.risicotoolboxbodem.nl)| |microsoft-iis/8.5|:warning: |:white_check_mark: | | | | |:white_check_mark: |Bootstrap HSTS IIS:8...|
-|[https://risicotoolboxbodem.nl](https://risicotoolboxbodem.nl)| |microsoft-iis/8.5|:warning: |:white_check_mark: | | | | |:white_check_mark: ||
-|[https://nieuwestoffen.risicotoolboxbodem.nl](https://nieuwestoffen.risicotoolboxbodem.nl)| |microsoft-iis/10.0| |:white_check_mark: | | | | |:white_check_mark: |HSTS IIS:10.0 Micros...|
-|[https://feedback.risicotoolboxbodem.nl](https://feedback.risicotoolboxbodem.nl)| |microsoft-iis/10.0| |:white_check_mark: | | | | |:white_check_mark: |HSTS IIS:10.0 Micros...|
+|[https://www.risicotoolboxbodem.nl](https://www.risicotoolboxbodem.nl)| |microsoft-iis/8.5|:warning: |:white_check_mark: | | | |:white_check_mark: |Bootstrap HSTS IIS:8...|
+|[https://risicotoolboxbodem.nl](https://risicotoolboxbodem.nl)| |microsoft-iis/8.5|:warning: |:white_check_mark: | | | |:white_check_mark: ||
+|[https://nieuwestoffen.risicotoolboxbodem.nl](https://nieuwestoffen.risicotoolboxbodem.nl)| |microsoft-iis/10.0| |:white_check_mark: | | | |:white_check_mark: |HSTS IIS:10.0 Micros...|
+|[https://feedback.risicotoolboxbodem.nl](https://feedback.risicotoolboxbodem.nl)| |microsoft-iis/10.0| |:white_check_mark: | | | |:white_check_mark: |HSTS IIS:10.0 Micros...|

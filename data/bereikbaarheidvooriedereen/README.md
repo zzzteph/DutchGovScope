@@ -9,5 +9,5 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |
 |------------|-------|------|------|------|------|------|------|------|------|
-|[https://bereikbaarheidvooriedereen.nl](https://bereikbaarheidvooriedereen.nl)| |apache/2|:warning: |:white_check_mark: | |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache HTTP Server:2...|
-|[https://www.bereikbaarheidvooriedereen.nl](https://www.bereikbaarheidvooriedereen.nl)| |apache/2|:warning: |:white_check_mark: | |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache HTTP Server:2...|
+|[https://bereikbaarheidvooriedereen.nl](https://bereikbaarheidvooriedereen.nl)| |apache/2|:warning: |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache HTTP Server:2...|
+|[https://www.bereikbaarheidvooriedereen.nl](https://www.bereikbaarheidvooriedereen.nl)| |apache/2|:warning: |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache HTTP Server:2...|

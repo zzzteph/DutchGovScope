@@ -9,5 +9,5 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |
 |------------|-------|------|------|------|------|------|------|------|------|
-|[https://www.signaleringleefomgevingengezondheid.nl](https://www.signaleringleefomgevingengezondheid.nl)| |apache| |:white_check_mark: | | |:white_check_mark: |:white_check_mark: |:white_check_mark: ||
-|[https://signaleringleefomgevingengezondheid.nl](https://signaleringleefomgevingengezondheid.nl)| |apache| |:white_check_mark: | | |:white_check_mark: |:white_check_mark: |:white_check_mark: ||
+|[https://www.signaleringleefomgevingengezondheid.nl](https://www.signaleringleefomgevingengezondheid.nl)| |apache| |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: ||
+|[https://signaleringleefomgevingengezondheid.nl](https://signaleringleefomgevingengezondheid.nl)| |apache| |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: ||

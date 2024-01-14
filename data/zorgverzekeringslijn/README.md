@@ -9,10 +9,10 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |
 |------------|-------|------|------|------|------|------|------|------|------|
-|[https://pv.zorgverzekeringslijn.nl](https://pv.zorgverzekeringslijn.nl)| |nginx| |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx|
+|[https://pv.zorgverzekeringslijn.nl](https://pv.zorgverzekeringslijn.nl)| |nginx| |:white_check_mark: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx|
 |[https://test.zorgverzekeringslijn.nl](https://test.zorgverzekeringslijn.nl)| |apache| | | | | |:white_check_mark: |Apache HTTP Server B...|
-|[https://test.trainingen.zorgverzekeringslijn.nl](https://test.trainingen.zorgverzekeringslijn.nl)| |apache| |:white_check_mark: | |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Nginx|
-|[https://trainingen.zorgverzekeringslijn.nl](https://trainingen.zorgverzekeringslijn.nl)| |apache| |:white_check_mark: | |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Nginx|
+|[https://test.trainingen.zorgverzekeringslijn.nl](https://test.trainingen.zorgverzekeringslijn.nl)| |apache| |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Nginx|
+|[https://trainingen.zorgverzekeringslijn.nl](https://trainingen.zorgverzekeringslijn.nl)| |apache| |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Nginx|
 |[https://wiki.zorgverzekeringslijn.nl](https://wiki.zorgverzekeringslijn.nl)| |nginx|:warning: | | | | |:white_check_mark: |Nginx|
-|[https://www.zorgverzekeringslijn.nl](https://www.zorgverzekeringslijn.nl)| |apache| |:white_check_mark: | |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache HTTP Server G...|
-|[https://zorgverzekeringslijn.nl](https://zorgverzekeringslijn.nl)| |apache| |:white_check_mark: | |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache HTTP Server H...|
+|[https://www.zorgverzekeringslijn.nl](https://www.zorgverzekeringslijn.nl)| |apache| |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache HTTP Server G...|
+|[https://zorgverzekeringslijn.nl](https://zorgverzekeringslijn.nl)| |apache| |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache HTTP Server H...|

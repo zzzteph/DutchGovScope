@@ -9,7 +9,7 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |
 |------------|-------|------|------|------|------|------|------|------|------|
-|[https://doc.leefbaarometer.nl](https://doc.leefbaarometer.nl)| |apache/2.4.57 (ubuntu)|:warning: |:white_check_mark: | | |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache HTTP Server:2...|
+|[https://doc.leefbaarometer.nl](https://doc.leefbaarometer.nl)| |apache/2.4.57 (ubuntu)|:warning: |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache HTTP Server:2...|
 |[https://geo.leefbaarometer.nl](https://geo.leefbaarometer.nl)| |jetty(9.4.18.v20190429)| | | |:white_check_mark: | |:white_check_mark: |Google Cloud Google...|
-|[https://www.leefbaarometer.nl](https://www.leefbaarometer.nl)| |apache/2.4.57 (ubuntu)|:warning: |:white_check_mark: | | |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache HTTP Server:2...|
-|[https://leefbaarometer.nl](https://leefbaarometer.nl)| |apache/2.4.57 (ubuntu)|:warning: |:white_check_mark: | | |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache HTTP Server:2...|
+|[https://www.leefbaarometer.nl](https://www.leefbaarometer.nl)| |apache/2.4.57 (ubuntu)|:warning: |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache HTTP Server:2...|
+|[https://leefbaarometer.nl](https://leefbaarometer.nl)| |apache/2.4.57 (ubuntu)|:warning: |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache HTTP Server:2...|

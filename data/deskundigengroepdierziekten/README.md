@@ -9,5 +9,5 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |
 |------------|-------|------|------|------|------|------|------|------|------|
-|[https://www.deskundigengroepdierziekten.nl](https://www.deskundigengroepdierziekten.nl)| | |:warning: |:white_check_mark: | |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|
-|[https://deskundigengroepdierziekten.nl](https://deskundigengroepdierziekten.nl)| | |:warning: |:white_check_mark: | |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache Tomcat Fourth...|
+|[https://www.deskundigengroepdierziekten.nl](https://www.deskundigengroepdierziekten.nl)| | |:warning: |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|
+|[https://deskundigengroepdierziekten.nl](https://deskundigengroepdierziekten.nl)| | |:warning: |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache Tomcat Fourth...|

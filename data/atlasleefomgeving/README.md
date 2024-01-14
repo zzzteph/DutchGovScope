@@ -12,5 +12,5 @@
 |[http://acceptatie.atlasleefomgeving.nl](http://acceptatie.atlasleefomgeving.nl)| | | | | | | |:white_check_mark: ||
 |[https://prd.atlasleefomgeving.nl](https://prd.atlasleefomgeving.nl)| | | | | | | |:white_check_mark: |Apache HTTP Server H...|
 |[https://rivm.atlasleefomgeving.nl](https://rivm.atlasleefomgeving.nl)| | | | | | | |:white_check_mark: |Apache HTTP Server H...|
-|[https://www.atlasleefomgeving.nl](https://www.atlasleefomgeving.nl)| |apache| |:white_check_mark: | | |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache HTTP Server D...|
-|[https://atlasleefomgeving.nl](https://atlasleefomgeving.nl)| |apache| |:white_check_mark: | | |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache HTTP Server H...|
+|[https://www.atlasleefomgeving.nl](https://www.atlasleefomgeving.nl)| |apache| |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache HTTP Server D...|
+|[https://atlasleefomgeving.nl](https://atlasleefomgeving.nl)| |apache| |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache HTTP Server H...|

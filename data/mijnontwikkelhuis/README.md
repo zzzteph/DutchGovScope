@@ -9,5 +9,5 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |
 |------------|-------|------|------|------|------|------|------|------|------|
-|[https://www.mijnontwikkelhuis.nl](https://www.mijnontwikkelhuis.nl)| |class|:warning: |:white_check_mark: | |:warning: | |:white_check_mark: |:white_check_mark: |HSTS|
-|[https://mijnontwikkelhuis.nl](https://mijnontwikkelhuis.nl)| |class|:warning: |:white_check_mark: | |:warning: | |:white_check_mark: |:white_check_mark: |IIS:10.0 Windows Ser...|
+|[https://www.mijnontwikkelhuis.nl](https://www.mijnontwikkelhuis.nl)| |class|:warning: |:white_check_mark: |:warning: | |:white_check_mark: |:white_check_mark: |HSTS|
+|[https://mijnontwikkelhuis.nl](https://mijnontwikkelhuis.nl)| |class|:warning: |:white_check_mark: |:warning: | |:white_check_mark: |:white_check_mark: |IIS:10.0 Windows Ser...|

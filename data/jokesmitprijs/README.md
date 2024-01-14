@@ -9,5 +9,5 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |
 |------------|-------|------|------|------|------|------|------|------|------|
-|[https://www.jokesmitprijs.nl](https://www.jokesmitprijs.nl)| |microsoft-iis/10.0|:warning: |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |Bootstrap:4.0.0 HSTS...|
-|[https://jokesmitprijs.nl](https://jokesmitprijs.nl)| |microsoft-iis/10.0|:warning: |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |Bootstrap:4.0.0 HSTS...|
+|[https://www.jokesmitprijs.nl](https://www.jokesmitprijs.nl)| |microsoft-iis/10.0|:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Bootstrap:4.0.0 HSTS...|
+|[https://jokesmitprijs.nl](https://jokesmitprijs.nl)| |microsoft-iis/10.0|:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Bootstrap:4.0.0 HSTS...|

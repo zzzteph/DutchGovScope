@@ -9,5 +9,5 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |
 |------------|-------|------|------|------|------|------|------|------|------|
-|[https://www.biosecurityzelfscan.nl](https://www.biosecurityzelfscan.nl)| |nginx| |:white_check_mark: | | | | |:white_check_mark: |Nginx|
-|[https://biosecurityzelfscan.nl](https://biosecurityzelfscan.nl)| |nginx| |:white_check_mark: | | | | |:white_check_mark: |HSTS Nginx|
+|[https://www.biosecurityzelfscan.nl](https://www.biosecurityzelfscan.nl)| |nginx| |:white_check_mark: | | | |:white_check_mark: |Nginx|
+|[https://biosecurityzelfscan.nl](https://biosecurityzelfscan.nl)| |nginx| |:white_check_mark: | | | |:white_check_mark: |HSTS Nginx|

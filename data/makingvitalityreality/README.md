@@ -9,6 +9,6 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |
 |------------|-------|------|------|------|------|------|------|------|------|
-|[https://makingvitalityreality.nl](https://makingvitalityreality.nl)| |apache| |:white_check_mark: | |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache HTTP Server D...|
-|[https://www.makingvitalityreality.nl](https://www.makingvitalityreality.nl)| |apache| |:white_check_mark: | |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache HTTP Server H...|
+|[https://makingvitalityreality.nl](https://makingvitalityreality.nl)| |apache| |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache HTTP Server D...|
+|[https://www.makingvitalityreality.nl](https://www.makingvitalityreality.nl)| |apache| |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache HTTP Server H...|
 |[https://acc.makingvitalityreality.nl](https://acc.makingvitalityreality.nl)| | | | | | | |:white_check_mark: |Basic Nginx:1.24.0|

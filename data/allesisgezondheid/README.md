@@ -11,5 +11,5 @@
 |------------|-------|------|------|------|------|------|------|------|------|
 |[https://acc.allesisgezondheid.nl](https://acc.allesisgezondheid.nl)| | | | | | | |:white_check_mark: |HSTS Varnish:6.2|
 |[https://test.allesisgezondheid.nl](https://test.allesisgezondheid.nl)| | | | | | | |:white_check_mark: |HSTS Varnish:6.2|
-|[https://www.allesisgezondheid.nl](https://www.allesisgezondheid.nl)| | | |:white_check_mark: | | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS MySQL PHP Varni...|
-|[https://allesisgezondheid.nl](https://allesisgezondheid.nl)| | | |:white_check_mark: | | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Varnish:6.2|
+|[https://www.allesisgezondheid.nl](https://www.allesisgezondheid.nl)| | | |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS MySQL PHP Varni...|
+|[https://allesisgezondheid.nl](https://allesisgezondheid.nl)| | | |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Varnish:6.2|

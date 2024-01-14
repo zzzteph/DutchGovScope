@@ -9,7 +9,7 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |
 |------------|-------|------|------|------|------|------|------|------|------|
-|[https://kennis.fiod.nl](https://kennis.fiod.nl)| | |:warning: |:white_check_mark: | | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|
-|[https://platformafpakken.fiod.nl](https://platformafpakken.fiod.nl)| | |:warning: |:white_check_mark: | | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS MySQL PHP WordP...|
-|[https://www.fiod.nl](https://www.fiod.nl)| | |:warning: |:white_check_mark: | | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS MySQL PHP WordP...|
-|[https://fiod.nl](https://fiod.nl)| | | |:white_check_mark: | | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|
+|[https://kennis.fiod.nl](https://kennis.fiod.nl)| | |:warning: |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|
+|[https://platformafpakken.fiod.nl](https://platformafpakken.fiod.nl)| | |:warning: |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS MySQL PHP WordP...|
+|[https://www.fiod.nl](https://www.fiod.nl)| | |:warning: |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS MySQL PHP WordP...|
+|[https://fiod.nl](https://fiod.nl)| | | |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|

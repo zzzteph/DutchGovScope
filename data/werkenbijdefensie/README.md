@@ -11,11 +11,11 @@
 |------------|-------|------|------|------|------|------|------|------|------|
 |[https://admin.webmail.werkenbijdefensie.nl](https://admin.webmail.werkenbijdefensie.nl)| |ponos maximum| | |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: ||
 |[https://api.werkenbijdefensie.nl](https://api.werkenbijdefensie.nl)| |ponos maximum| | | |:white_check_mark: |:white_check_mark: |:white_check_mark: ||
-|[https://api.luchtgevechtsleiding.werkenbijdefensie.nl](https://api.luchtgevechtsleiding.werkenbijdefensie.nl)| |nginx| |:white_check_mark: | | | | |:white_check_mark: |HSTS Nginx|
-|[https://luchtgevechtsleiding.werkenbijdefensie.nl](https://luchtgevechtsleiding.werkenbijdefensie.nl)| |nginx| |:white_check_mark: | | |:white_check_mark: |:white_check_mark: |:white_check_mark: |Google Tag Manager H...|
-|[https://toolkit.werkenbijdefensie.nl](https://toolkit.werkenbijdefensie.nl)| |ponos maximum|:warning: |:white_check_mark: | |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|
+|[https://api.luchtgevechtsleiding.werkenbijdefensie.nl](https://api.luchtgevechtsleiding.werkenbijdefensie.nl)| |nginx| |:white_check_mark: | | | |:white_check_mark: |HSTS Nginx|
+|[https://luchtgevechtsleiding.werkenbijdefensie.nl](https://luchtgevechtsleiding.werkenbijdefensie.nl)| |nginx| |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |Google Tag Manager H...|
+|[https://toolkit.werkenbijdefensie.nl](https://toolkit.werkenbijdefensie.nl)| |ponos maximum|:warning: |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|
 |[https://webmail.werkenbijdefensie.nl](https://webmail.werkenbijdefensie.nl)| |ponos maximum| | |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: ||
-|[https://www.werkenbijdefensie.nl](https://www.werkenbijdefensie.nl)| |ponos maximum| |:white_check_mark: | |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|
-|[https://www.luchtgevechtsleiding.werkenbijdefensie.nl](https://www.luchtgevechtsleiding.werkenbijdefensie.nl)| |nginx| |:white_check_mark: | | |:white_check_mark: |:white_check_mark: |:white_check_mark: |Google Tag Manager H...|
-|[https://werkenbijdefensie.nl](https://werkenbijdefensie.nl)| |ponos maximum| |:white_check_mark: | |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|
-|[https://kandidaat.werkenbijdefensie.nl](https://kandidaat.werkenbijdefensie.nl)| |ponos maximum| |:white_check_mark: | |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|
+|[https://www.werkenbijdefensie.nl](https://www.werkenbijdefensie.nl)| |ponos maximum| |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|
+|[https://www.luchtgevechtsleiding.werkenbijdefensie.nl](https://www.luchtgevechtsleiding.werkenbijdefensie.nl)| |nginx| |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |Google Tag Manager H...|
+|[https://werkenbijdefensie.nl](https://werkenbijdefensie.nl)| |ponos maximum| |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|
+|[https://kandidaat.werkenbijdefensie.nl](https://kandidaat.werkenbijdefensie.nl)| |ponos maximum| |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|

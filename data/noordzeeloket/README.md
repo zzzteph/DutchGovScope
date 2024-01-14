@@ -10,5 +10,5 @@
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |
 |------------|-------|------|------|------|------|------|------|------|------|
 |[https://windmolensopzee.noordzeeloket.nl](https://windmolensopzee.noordzeeloket.nl)| | | | | | | |:white_check_mark: ||
-|[https://www.noordzeeloket.nl](https://www.noordzeeloket.nl)| | | |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Microsoft ASP.N...|
-|[https://noordzeeloket.nl](https://noordzeeloket.nl)| | | |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Microsoft ASP.N...|
+|[https://www.noordzeeloket.nl](https://www.noordzeeloket.nl)| | | |:white_check_mark: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Microsoft ASP.N...|
+|[https://noordzeeloket.nl](https://noordzeeloket.nl)| | | |:white_check_mark: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Microsoft ASP.N...|

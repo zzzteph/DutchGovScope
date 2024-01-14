@@ -9,6 +9,6 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |
 |------------|-------|------|------|------|------|------|------|------|------|
-|[https://talent.rijksbeveiliging.nl](https://talent.rijksbeveiliging.nl)| |class|:warning: |:white_check_mark: | | | |:white_check_mark: |:white_check_mark: |HSTS|
-|[https://www.rijksbeveiliging.nl](https://www.rijksbeveiliging.nl)| |nginx| |:white_check_mark: | |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS IIS:10.0 Window...|
-|[https://rijksbeveiliging.nl](https://rijksbeveiliging.nl)| |nginx| |:white_check_mark: | |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS IIS:10.0 Window...|
+|[https://talent.rijksbeveiliging.nl](https://talent.rijksbeveiliging.nl)| |class|:warning: |:white_check_mark: | | |:white_check_mark: |:white_check_mark: |HSTS|
+|[https://www.rijksbeveiliging.nl](https://www.rijksbeveiliging.nl)| |nginx| |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS IIS:10.0 Window...|
+|[https://rijksbeveiliging.nl](https://rijksbeveiliging.nl)| |nginx| |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS IIS:10.0 Window...|

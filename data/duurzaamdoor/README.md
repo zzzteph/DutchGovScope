@@ -12,5 +12,5 @@
 |[https://acc.duurzaamdoor.nl](https://acc.duurzaamdoor.nl)| | | | | | | |:white_check_mark: |Basic Nginx|
 |[https://prod.duurzaamdoor.nl](https://prod.duurzaamdoor.nl)| | | | | | | |:white_check_mark: |HSTS Nginx|
 |[https://test.duurzaamdoor.nl](https://test.duurzaamdoor.nl)| | | | | | | |:white_check_mark: |Basic Nginx|
-|[https://www.duurzaamdoor.nl](https://www.duurzaamdoor.nl)| |nginx| |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |Drupal:10 HSTS Nginx...|
-|[https://duurzaamdoor.nl](https://duurzaamdoor.nl)| |nginx| |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx|
+|[https://www.duurzaamdoor.nl](https://www.duurzaamdoor.nl)| |nginx| |:white_check_mark: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Drupal:10 HSTS Nginx...|
+|[https://duurzaamdoor.nl](https://duurzaamdoor.nl)| |nginx| |:white_check_mark: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx|

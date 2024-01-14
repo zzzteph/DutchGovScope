@@ -9,7 +9,7 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |
 |------------|-------|------|------|------|------|------|------|------|------|
-|[https://leeromgeving.leerportaalienw.nl](https://leeromgeving.leerportaalienw.nl)| |apache|:warning: |:white_check_mark: | | | | |:white_check_mark: |Apache HTTP Server H...|
-|[https://lms.leerportaalienw.nl](https://lms.leerportaalienw.nl)| |class|:warning: |:white_check_mark: | |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|
-|[https://www.leerportaalienw.nl](https://www.leerportaalienw.nl)| |class|:warning: |:white_check_mark: | |:warning: | |:white_check_mark: |:white_check_mark: |HSTS|
-|[https://leerportaalienw.nl](https://leerportaalienw.nl)| |class|:warning: |:white_check_mark: | |:warning: | |:white_check_mark: |:white_check_mark: |HSTS|
+|[https://leeromgeving.leerportaalienw.nl](https://leeromgeving.leerportaalienw.nl)| |apache|:warning: |:white_check_mark: | | | |:white_check_mark: |Apache HTTP Server H...|
+|[https://lms.leerportaalienw.nl](https://lms.leerportaalienw.nl)| |class|:warning: |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|
+|[https://www.leerportaalienw.nl](https://www.leerportaalienw.nl)| |class|:warning: |:white_check_mark: |:warning: | |:white_check_mark: |:white_check_mark: |HSTS|
+|[https://leerportaalienw.nl](https://leerportaalienw.nl)| |class|:warning: |:white_check_mark: |:warning: | |:white_check_mark: |:white_check_mark: |HSTS|

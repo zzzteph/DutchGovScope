@@ -9,5 +9,5 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |
 |------------|-------|------|------|------|------|------|------|------|------|
-|[https://www.nl-alerttijdlijn.nl](https://www.nl-alerttijdlijn.nl)| |cloudflare| |:white_check_mark: | | |:white_check_mark: | |:white_check_mark: |Cloudflare HSTS HTTP...|
-|[https://nl-alerttijdlijn.nl](https://nl-alerttijdlijn.nl)| |cloudflare| |:white_check_mark: | | |:white_check_mark: | |:white_check_mark: |Cloudflare HSTS HTTP...|
+|[https://www.nl-alerttijdlijn.nl](https://www.nl-alerttijdlijn.nl)| |cloudflare| |:white_check_mark: | |:white_check_mark: | |:white_check_mark: |Cloudflare HSTS HTTP...|
+|[https://nl-alerttijdlijn.nl](https://nl-alerttijdlijn.nl)| |cloudflare| |:white_check_mark: | |:white_check_mark: | |:white_check_mark: |Cloudflare HSTS HTTP...|

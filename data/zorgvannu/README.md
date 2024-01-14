@@ -9,6 +9,6 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |
 |------------|-------|------|------|------|------|------|------|------|------|
-|[https://elearning.zorgvannu.nl](https://elearning.zorgvannu.nl)| |nginx|:warning: |:white_check_mark: | | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx|
-|[https://www.zorgvannu.nl](https://www.zorgvannu.nl)| |apache| |:white_check_mark: | | |:white_check_mark: | |:white_check_mark: |Apache HTTP Server D...|
-|[https://zorgvannu.nl](https://zorgvannu.nl)| |apache| |:white_check_mark: | | |:white_check_mark: | |:white_check_mark: |Apache HTTP Server H...|
+|[https://elearning.zorgvannu.nl](https://elearning.zorgvannu.nl)| |nginx|:warning: |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx|
+|[https://www.zorgvannu.nl](https://www.zorgvannu.nl)| |apache| |:white_check_mark: | |:white_check_mark: | |:white_check_mark: |Apache HTTP Server D...|
+|[https://zorgvannu.nl](https://zorgvannu.nl)| |apache| |:white_check_mark: | |:white_check_mark: | |:white_check_mark: |Apache HTTP Server H...|

@@ -9,7 +9,7 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |
 |------------|-------|------|------|------|------|------|------|------|------|
-|[https://www.minezk.nl](https://www.minezk.nl)| |nginx| |:white_check_mark: | |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: ||
+|[https://www.minezk.nl](https://www.minezk.nl)| |nginx| |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: ||
 |[http://scanapp.minezk.nl](http://scanapp.minezk.nl)| | | | | | | |:white_check_mark: ||
-|[https://acc.datacatalogus.minezk.nl](https://acc.datacatalogus.minezk.nl)| |apache|:warning: |:white_check_mark: | |:white_check_mark: | |:white_check_mark: |Apache HTTP Server H...|
-|[https://minezk.nl](https://minezk.nl)| |nginx| |:white_check_mark: | |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: ||
+|[https://acc.datacatalogus.minezk.nl](https://acc.datacatalogus.minezk.nl)| |apache|:warning: |:white_check_mark: |:white_check_mark: | |:white_check_mark: |Apache HTTP Server H...|
+|[https://minezk.nl](https://minezk.nl)| |nginx| |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: ||

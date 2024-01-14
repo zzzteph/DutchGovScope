@@ -9,5 +9,5 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |
 |------------|-------|------|------|------|------|------|------|------|------|
-|[https://www.geneesmiddeleninformatiebank.nl](https://www.geneesmiddeleninformatiebank.nl)| |nginx|:warning: |:white_check_mark: | | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx|
-|[https://geneesmiddeleninformatiebank.nl](https://geneesmiddeleninformatiebank.nl)| |nginx|:warning: |:white_check_mark: | | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx|
+|[https://www.geneesmiddeleninformatiebank.nl](https://www.geneesmiddeleninformatiebank.nl)| |nginx|:warning: |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx|
+|[https://geneesmiddeleninformatiebank.nl](https://geneesmiddeleninformatiebank.nl)| |nginx|:warning: |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx|

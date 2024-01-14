@@ -9,8 +9,8 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |
 |------------|-------|------|------|------|------|------|------|------|------|
-|[https://acceptatie.gezondekinderopvang.nl](https://acceptatie.gezondekinderopvang.nl)| | |:warning: |:white_check_mark: | | | | |:white_check_mark: |F5 BigIP HSTS|
-|[http://sub.gezondekinderopvang.nl](http://sub.gezondekinderopvang.nl)| |apache| |:white_check_mark: | | |:white_check_mark: |:white_check_mark: |:white_check_mark: ||
+|[https://acceptatie.gezondekinderopvang.nl](https://acceptatie.gezondekinderopvang.nl)| | |:warning: |:white_check_mark: | | | |:white_check_mark: |F5 BigIP HSTS|
+|[http://sub.gezondekinderopvang.nl](http://sub.gezondekinderopvang.nl)| |apache| |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: ||
 |[http://test.gezondekinderopvang.nl](http://test.gezondekinderopvang.nl)| | | | | | | |:white_check_mark: ||
-|[https://www.gezondekinderopvang.nl](https://www.gezondekinderopvang.nl)| |apache| |:white_check_mark: | | |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache HTTP Server D...|
-|[https://gezondekinderopvang.nl](https://gezondekinderopvang.nl)| |apache| |:white_check_mark: | | |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache HTTP Server H...|
+|[https://www.gezondekinderopvang.nl](https://www.gezondekinderopvang.nl)| |apache| |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache HTTP Server D...|
+|[https://gezondekinderopvang.nl](https://gezondekinderopvang.nl)| |apache| |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache HTTP Server H...|

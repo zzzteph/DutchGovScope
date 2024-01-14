@@ -9,6 +9,6 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |
 |------------|-------|------|------|------|------|------|------|------|------|
-|[https://www.examenbladmbo.nl](https://www.examenbladmbo.nl)| | | |:white_check_mark: | |:white_check_mark: | |:white_check_mark: |Drupal:10 HSTS PHP|
-|[https://examenbladmbo.nl](https://examenbladmbo.nl)| | | |:white_check_mark: | |:white_check_mark: | |:white_check_mark: ||
-|[https://mijn.examenbladmbo.nl](https://mijn.examenbladmbo.nl)| | | |:white_check_mark: | | |:white_check_mark: | |:white_check_mark: |Drupal HSTS PHP|
+|[https://www.examenbladmbo.nl](https://www.examenbladmbo.nl)| | | |:white_check_mark: |:white_check_mark: | |:white_check_mark: |Drupal:10 HSTS PHP|
+|[https://examenbladmbo.nl](https://examenbladmbo.nl)| | | |:white_check_mark: |:white_check_mark: | |:white_check_mark: ||
+|[https://mijn.examenbladmbo.nl](https://mijn.examenbladmbo.nl)| | | |:white_check_mark: | |:white_check_mark: | |:white_check_mark: |Drupal HSTS PHP|

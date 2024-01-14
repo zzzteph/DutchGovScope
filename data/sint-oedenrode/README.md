@@ -9,5 +9,5 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |
 |------------|-------|------|------|------|------|------|------|------|------|
-|[https://sint-oedenrode.nl](https://sint-oedenrode.nl)| | |:warning: |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|
-|[https://www.sint-oedenrode.nl](https://www.sint-oedenrode.nl)| | |:warning: |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|
+|[https://sint-oedenrode.nl](https://sint-oedenrode.nl)| | |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|
+|[https://www.sint-oedenrode.nl](https://www.sint-oedenrode.nl)| | |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|

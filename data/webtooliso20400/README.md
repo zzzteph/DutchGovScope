@@ -9,6 +9,6 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |
 |------------|-------|------|------|------|------|------|------|------|------|
-|[https://webtooliso20400.nl](https://webtooliso20400.nl)| |nginx|:warning: |:white_check_mark: | |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx|
-|[https://www.webtooliso20400.nl](https://www.webtooliso20400.nl)| |nginx|:warning: |:white_check_mark: | |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx PHP ZURB...|
-|[https://acc.webtooliso20400.nl](https://acc.webtooliso20400.nl)| |nginx|:warning: |:white_check_mark: | |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx PHP ZURB...|
+|[https://webtooliso20400.nl](https://webtooliso20400.nl)| |nginx|:warning: |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx|
+|[https://www.webtooliso20400.nl](https://www.webtooliso20400.nl)| |nginx|:warning: |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx PHP ZURB...|
+|[https://acc.webtooliso20400.nl](https://acc.webtooliso20400.nl)| |nginx|:warning: |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx PHP ZURB...|

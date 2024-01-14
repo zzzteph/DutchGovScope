@@ -9,5 +9,5 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |
 |------------|-------|------|------|------|------|------|------|------|------|
-|[https://deltaprogramma2019.deltacommissaris.nl](https://deltaprogramma2019.deltacommissaris.nl)| $${\color{green}A}$$ |nginx| |:white_check_mark: | |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache HTTP Server:2|
-|[https://deltaprogramma2020.deltacommissaris.nl](https://deltaprogramma2020.deltacommissaris.nl)| $${\color{green}A}$$ |nginx| |:white_check_mark: | |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache HTTP Server:2|
+|[https://deltaprogramma2019.deltacommissaris.nl](https://deltaprogramma2019.deltacommissaris.nl)| $${\color{green}A}$$ |nginx| |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache HTTP Server:2|
+|[https://deltaprogramma2020.deltacommissaris.nl](https://deltaprogramma2020.deltacommissaris.nl)| $${\color{green}A}$$ |nginx| |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache HTTP Server:2|

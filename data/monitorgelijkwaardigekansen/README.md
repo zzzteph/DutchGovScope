@@ -9,6 +9,6 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |
 |------------|-------|------|------|------|------|------|------|------|------|
-|[https://www.monitorgelijkwaardigekansen.nl](https://www.monitorgelijkwaardigekansen.nl)| | |:warning: |:white_check_mark: | | | | |:white_check_mark: |Azure HSTS Inertia.j...|
-|[https://test645.monitorgelijkwaardigekansen.nl](https://test645.monitorgelijkwaardigekansen.nl)| | |:warning: |:white_check_mark: | | | | |:white_check_mark: |HSTS Inertia.js PHP:...|
-|[https://monitorgelijkwaardigekansen.nl](https://monitorgelijkwaardigekansen.nl)| | |:warning: |:white_check_mark: | | | | |:white_check_mark: |Azure HSTS Inertia.j...|
+|[https://www.monitorgelijkwaardigekansen.nl](https://www.monitorgelijkwaardigekansen.nl)| | |:warning: |:white_check_mark: | | | |:white_check_mark: |Azure HSTS Inertia.j...|
+|[https://test645.monitorgelijkwaardigekansen.nl](https://test645.monitorgelijkwaardigekansen.nl)| | |:warning: |:white_check_mark: | | | |:white_check_mark: |HSTS Inertia.js PHP:...|
+|[https://monitorgelijkwaardigekansen.nl](https://monitorgelijkwaardigekansen.nl)| | |:warning: |:white_check_mark: | | | |:white_check_mark: |Azure HSTS Inertia.j...|

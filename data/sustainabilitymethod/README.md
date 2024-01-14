@@ -9,5 +9,5 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |
 |------------|-------|------|------|------|------|------|------|------|------|
-|[https://www.sustainabilitymethod.nl](https://www.sustainabilitymethod.nl)| |nginx|:warning: |:white_check_mark: | | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx PHP:8.2.1...|
-|[https://sustainabilitymethod.nl](https://sustainabilitymethod.nl)| |nginx|:warning: |:white_check_mark: | | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx PHP:8.2.1...|
+|[https://www.sustainabilitymethod.nl](https://www.sustainabilitymethod.nl)| |nginx|:warning: |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx PHP:8.2.1...|
+|[https://sustainabilitymethod.nl](https://sustainabilitymethod.nl)| |nginx|:warning: |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx PHP:8.2.1...|

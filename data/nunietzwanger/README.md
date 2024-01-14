@@ -9,5 +9,5 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |
 |------------|-------|------|------|------|------|------|------|------|------|
-|[https://www.nunietzwanger.nl](https://www.nunietzwanger.nl)| | | |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS MySQL PHP Varni...|
-|[https://nunietzwanger.nl](https://nunietzwanger.nl)| | | |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Varnish:6.2|
+|[https://www.nunietzwanger.nl](https://www.nunietzwanger.nl)| | | |:white_check_mark: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS MySQL PHP Varni...|
+|[https://nunietzwanger.nl](https://nunietzwanger.nl)| | | |:white_check_mark: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Varnish:6.2|

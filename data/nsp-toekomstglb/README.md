@@ -9,4 +9,4 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |
 |------------|-------|------|------|------|------|------|------|------|------|
-|[https://nsp-toekomstglb.nl](https://nsp-toekomstglb.nl)| |caddy| |:white_check_mark: | | | |:white_check_mark: |:white_check_mark: |HSTS HTTP/3 Nginx Re...|
+|[https://nsp-toekomstglb.nl](https://nsp-toekomstglb.nl)| |caddy| |:white_check_mark: | | |:white_check_mark: |:white_check_mark: |HSTS HTTP/3 Nginx Re...|

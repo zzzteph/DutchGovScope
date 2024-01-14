@@ -9,5 +9,5 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |
 |------------|-------|------|------|------|------|------|------|------|------|
-|[https://www.kennisnetwerkspv.nl](https://www.kennisnetwerkspv.nl)| |microsoft-iis/10.0|:warning: |:white_check_mark: | |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Azure Google Tag Man...|
-|[https://kennisnetwerkspv.nl](https://kennisnetwerkspv.nl)| |microsoft-iis/10.0|:warning: |:white_check_mark: | |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Azure Google Tag Man...|
+|[https://www.kennisnetwerkspv.nl](https://www.kennisnetwerkspv.nl)| |microsoft-iis/10.0|:warning: |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Azure Google Tag Man...|
+|[https://kennisnetwerkspv.nl](https://kennisnetwerkspv.nl)| |microsoft-iis/10.0|:warning: |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Azure Google Tag Man...|

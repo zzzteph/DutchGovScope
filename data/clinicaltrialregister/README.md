@@ -9,7 +9,7 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |
 |------------|-------|------|------|------|------|------|------|------|------|
-|[https://clinicaltrialregister.nl](https://clinicaltrialregister.nl)| |nginx| |:white_check_mark: | |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx|
-|[https://www.clinicaltrialregister.nl](https://www.clinicaltrialregister.nl)| |nginx| |:white_check_mark: | |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx|
+|[https://clinicaltrialregister.nl](https://clinicaltrialregister.nl)| |nginx| |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx|
+|[https://www.clinicaltrialregister.nl](https://www.clinicaltrialregister.nl)| |nginx| |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx|
 |[https://test.clinicaltrialregister.nl](https://test.clinicaltrialregister.nl)| | | | | | | |:white_check_mark: |HSTS Nginx|
 |[https://acc.clinicaltrialregister.nl](https://acc.clinicaltrialregister.nl)| | | | | | | |:white_check_mark: |HSTS Nginx|

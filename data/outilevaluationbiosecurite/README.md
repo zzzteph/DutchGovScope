@@ -9,5 +9,5 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |
 |------------|-------|------|------|------|------|------|------|------|------|
-|[https://www.outilevaluationbiosecurite.nl](https://www.outilevaluationbiosecurite.nl)| |nginx| |:white_check_mark: | | | | |:white_check_mark: |Nginx|
-|[https://outilevaluationbiosecurite.nl](https://outilevaluationbiosecurite.nl)| |nginx| |:white_check_mark: | | | | |:white_check_mark: |HSTS Nginx|
+|[https://www.outilevaluationbiosecurite.nl](https://www.outilevaluationbiosecurite.nl)| |nginx| |:white_check_mark: | | | |:white_check_mark: |Nginx|
+|[https://outilevaluationbiosecurite.nl](https://outilevaluationbiosecurite.nl)| |nginx| |:white_check_mark: | | | |:white_check_mark: |HSTS Nginx|

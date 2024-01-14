@@ -10,5 +10,5 @@
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |
 |------------|-------|------|------|------|------|------|------|------|------|
 |[http://test.chemischestoffengoedgeregeld.nl](http://test.chemischestoffengoedgeregeld.nl)| | | | | | | |:white_check_mark: ||
-|[https://www.chemischestoffengoedgeregeld.nl](https://www.chemischestoffengoedgeregeld.nl)| | | |:white_check_mark: | | |:white_check_mark: | |:white_check_mark: |HSTS Platform.sh|
-|[https://chemischestoffengoedgeregeld.nl](https://chemischestoffengoedgeregeld.nl)| | | |:white_check_mark: | | |:white_check_mark: | |:white_check_mark: |Drupal:10 HSTS PHP P...|
+|[https://www.chemischestoffengoedgeregeld.nl](https://www.chemischestoffengoedgeregeld.nl)| | | |:white_check_mark: | |:white_check_mark: | |:white_check_mark: |HSTS Platform.sh|
+|[https://chemischestoffengoedgeregeld.nl](https://chemischestoffengoedgeregeld.nl)| | | |:white_check_mark: | |:white_check_mark: | |:white_check_mark: |Drupal:10 HSTS PHP P...|

@@ -10,8 +10,8 @@
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |
 |------------|-------|------|------|------|------|------|------|------|------|
 |[https://api.binnenvaartemissielabel.nl](https://api.binnenvaartemissielabel.nl)| |nginx/1.18.0 (ubuntu)| | | | | |:white_check_mark: |Nginx:1.18.0 Ubuntu|
-|[https://app.binnenvaartemissielabel.nl](https://app.binnenvaartemissielabel.nl)| |nginx/1.18.0 (ubuntu)| |:white_check_mark: | | | | |:white_check_mark: |HSTS Nginx:1.18.0 Ub...|
-|[https://binnenvaartemissielabel.nl](https://binnenvaartemissielabel.nl)| |nginx| |:white_check_mark: | | |:white_check_mark: |:white_check_mark: |HSTS MySQL Nginx PHP...|
-|[https://www.binnenvaartemissielabel.nl](https://www.binnenvaartemissielabel.nl)| |nginx| |:white_check_mark: | | |:white_check_mark: |:white_check_mark: |Nginx|
+|[https://app.binnenvaartemissielabel.nl](https://app.binnenvaartemissielabel.nl)| |nginx/1.18.0 (ubuntu)| |:white_check_mark: | | | |:white_check_mark: |HSTS Nginx:1.18.0 Ub...|
+|[https://binnenvaartemissielabel.nl](https://binnenvaartemissielabel.nl)| |nginx| |:white_check_mark: | |:white_check_mark: |:white_check_mark: |HSTS MySQL Nginx PHP...|
+|[https://www.binnenvaartemissielabel.nl](https://www.binnenvaartemissielabel.nl)| |nginx| |:white_check_mark: | |:white_check_mark: |:white_check_mark: |Nginx|
 |[https://staging.binnenvaartemissielabel.nl](https://staging.binnenvaartemissielabel.nl)| |nginx| | | | | |:white_check_mark: |MySQL Nginx PHP Ples...|
 |[https://webmail.binnenvaartemissielabel.nl](https://webmail.binnenvaartemissielabel.nl)| | | | | | | |:white_check_mark: |Nginx|

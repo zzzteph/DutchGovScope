@@ -9,5 +9,5 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |
 |------------|-------|------|------|------|------|------|------|------|------|
-|[https://www.zorgopdekaart.nl](https://www.zorgopdekaart.nl)| |microsoft-iis/10.0|:warning: |:white_check_mark: | | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS IIS:10.0 PHP:7....|
-|[https://zorgopdekaart.nl](https://zorgopdekaart.nl)| |microsoft-iis/10.0|:warning: |:white_check_mark: | | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS IIS:10.0 PHP:7....|
+|[https://www.zorgopdekaart.nl](https://www.zorgopdekaart.nl)| |microsoft-iis/10.0|:warning: |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS IIS:10.0 PHP:7....|
+|[https://zorgopdekaart.nl](https://zorgopdekaart.nl)| |microsoft-iis/10.0|:warning: |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS IIS:10.0 PHP:7....|

@@ -9,5 +9,5 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |
 |------------|-------|------|------|------|------|------|------|------|------|
-|[https://www.paysbasmondial.nl](https://www.paysbasmondial.nl)| | | |:white_check_mark: | |:white_check_mark: | |:white_check_mark: |HSTS IIS:10.0 Window...|
-|[https://paysbasmondial.nl](https://paysbasmondial.nl)| | | |:white_check_mark: | |:white_check_mark: | |:white_check_mark: |HSTS IIS:10.0 Window...|
+|[https://www.paysbasmondial.nl](https://www.paysbasmondial.nl)| | | |:white_check_mark: |:white_check_mark: | |:white_check_mark: |HSTS IIS:10.0 Window...|
+|[https://paysbasmondial.nl](https://paysbasmondial.nl)| | | |:white_check_mark: |:white_check_mark: | |:white_check_mark: |HSTS IIS:10.0 Window...|

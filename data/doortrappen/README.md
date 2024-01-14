@@ -9,5 +9,5 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |
 |------------|-------|------|------|------|------|------|------|------|------|
-|[https://www.doortrappen.nl](https://www.doortrappen.nl)| | | |:white_check_mark: | | | |:white_check_mark: |:white_check_mark: |HSTS Microsoft ASP.N...|
-|[https://doortrappen.nl](https://doortrappen.nl)| | | |:white_check_mark: | | | |:white_check_mark: |:white_check_mark: |HSTS Microsoft ASP.N...|
+|[https://www.doortrappen.nl](https://www.doortrappen.nl)| | | |:white_check_mark: | | |:white_check_mark: |:white_check_mark: |HSTS Microsoft ASP.N...|
+|[https://doortrappen.nl](https://doortrappen.nl)| | | |:white_check_mark: | | |:white_check_mark: |:white_check_mark: |HSTS Microsoft ASP.N...|

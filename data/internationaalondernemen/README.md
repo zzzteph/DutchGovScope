@@ -10,10 +10,10 @@
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |
 |------------|-------|------|------|------|------|------|------|------|------|
 |[https://mail.logan.nl.internationaalondernemen.nl](https://mail.logan.nl.internationaalondernemen.nl)| | | | | | | |:white_check_mark: |Apache HTTP Server H...|
-|[https://www.internationaalondernemen.nl](https://www.internationaalondernemen.nl)| |apache| |:white_check_mark: | | |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache HTTP Server G...|
+|[https://www.internationaalondernemen.nl](https://www.internationaalondernemen.nl)| |apache| |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache HTTP Server G...|
 |[https://nl.internationaalondernemen.nl](https://nl.internationaalondernemen.nl)| | | | | | | |:white_check_mark: |Apache HTTP Server H...|
 |[https://internationaalondernemen.nlwww.internationaalondernemen.nl](https://internationaalondernemen.nlwww.internationaalondernemen.nl)| | | | | | | |:white_check_mark: |Apache HTTP Server H...|
 |[https://ww.internationaalondernemen.nl](https://ww.internationaalondernemen.nl)| | | | | | | |:white_check_mark: |Apache HTTP Server H...|
-|[https://internationaalondernemen.nl](https://internationaalondernemen.nl)| |apache| |:white_check_mark: | | |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache HTTP Server H...|
+|[https://internationaalondernemen.nl](https://internationaalondernemen.nl)| |apache| |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache HTTP Server H...|
 |[https://nsi.bgwww.internationaalondernemen.nl](https://nsi.bgwww.internationaalondernemen.nl)| | | | | | | |:white_check_mark: |Apache HTTP Server H...|
 |[https://epp.eurostat.ec.europa.euwww.internationaalondernemen.nl](https://epp.eurostat.ec.europa.euwww.internationaalondernemen.nl)| | | | | | | |:white_check_mark: |Apache HTTP Server H...|

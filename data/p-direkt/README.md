@@ -11,13 +11,13 @@
 |------------|-------|------|------|------|------|------|------|------|------|
 |[https://acc.api.p-direkt.nl](https://acc.api.p-direkt.nl)| | | | | | | |:white_check_mark: ||
 |[https://acc.api-sec.p-direkt.nl](https://acc.api-sec.p-direkt.nl)| | | | | | | |:white_check_mark: ||
-|[https://api.p-direkt.nl](https://api.p-direkt.nl)| | | |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|
+|[https://api.p-direkt.nl](https://api.p-direkt.nl)| | | |:white_check_mark: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|
 |[https://api-sec.p-direkt.nl](https://api-sec.p-direkt.nl)| | | | | | | |:white_check_mark: ||
-|[https://dev.api.p-direkt.nl](https://dev.api.p-direkt.nl)| |cloudflare| |:white_check_mark: | | | | |:white_check_mark: |Cloudflare HTTP/3|
-|[https://dev.api-sec.p-direkt.nl](https://dev.api-sec.p-direkt.nl)| | | |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|
-|[https://feeds.p-direkt.nl](https://feeds.p-direkt.nl)| |nginx| |:white_check_mark: | | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx|
-|[https://kms.p-direkt.nl](https://kms.p-direkt.nl)| |microsoft-iis/10.0| |:white_check_mark: | | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS IIS:10.0 Window...|
-|[https://kms-test.p-direkt.nl](https://kms-test.p-direkt.nl)| |microsoft-iis/10.0| |:white_check_mark: | | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS IIS:10.0 Window...|
-|[https://opendata.p-direkt.nl](https://opendata.p-direkt.nl)| |nginx| |:white_check_mark: | | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx|
-|[https://www.p-direkt.nl](https://www.p-direkt.nl)| |nginx| |:white_check_mark: | |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Bloomreach HSTS Ngin...|
-|[https://p-direkt.nl](https://p-direkt.nl)| |nginx| |:white_check_mark: | |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx|
+|[https://dev.api.p-direkt.nl](https://dev.api.p-direkt.nl)| |cloudflare| |:white_check_mark: | | | |:white_check_mark: |Cloudflare HTTP/3|
+|[https://dev.api-sec.p-direkt.nl](https://dev.api-sec.p-direkt.nl)| | | |:white_check_mark: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|
+|[https://feeds.p-direkt.nl](https://feeds.p-direkt.nl)| |nginx| |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx|
+|[https://kms.p-direkt.nl](https://kms.p-direkt.nl)| |microsoft-iis/10.0| |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS IIS:10.0 Window...|
+|[https://kms-test.p-direkt.nl](https://kms-test.p-direkt.nl)| |microsoft-iis/10.0| |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS IIS:10.0 Window...|
+|[https://opendata.p-direkt.nl](https://opendata.p-direkt.nl)| |nginx| |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx|
+|[https://www.p-direkt.nl](https://www.p-direkt.nl)| |nginx| |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Bloomreach HSTS Ngin...|
+|[https://p-direkt.nl](https://p-direkt.nl)| |nginx| |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx|

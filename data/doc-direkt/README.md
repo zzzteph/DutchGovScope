@@ -9,12 +9,12 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |
 |------------|-------|------|------|------|------|------|------|------|------|
-|[https://acc-api.dh.doc-direkt.nl](https://acc-api.dh.doc-direkt.nl)| $${\color{lightgreen}B}$$ | | |:white_check_mark: | | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|
-|[https://acc-dh.doc-direkt.nl](https://acc-dh.doc-direkt.nl)| $${\color{lightgreen}B}$$ | |:warning: |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |AngularJS HSTS|
-|[https://acc-m.dh.doc-direkt.nl](https://acc-m.dh.doc-direkt.nl)| $${\color{lightgreen}B}$$ | | |:white_check_mark: | | | |:white_check_mark: |:white_check_mark: |AngularJS HSTS|
-|[https://api.dh.doc-direkt.nl](https://api.dh.doc-direkt.nl)| $${\color{green}A+}$$ | | |:white_check_mark: | | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|
-|[https://dh.doc-direkt.nl](https://dh.doc-direkt.nl)| $${\color{green}A+}$$ | |:warning: |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |AngularJS HSTS|
-|[https://feeds.doc-direkt.nl](https://feeds.doc-direkt.nl)| $${\color{green}A+}$$ |nginx| |:white_check_mark: | | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx|
-|[https://opendata.doc-direkt.nl](https://opendata.doc-direkt.nl)| $${\color{green}A+}$$ |nginx| |:white_check_mark: | | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx|
-|[https://www.doc-direkt.nl](https://www.doc-direkt.nl)| $${\color{green}A+}$$ |nginx| |:white_check_mark: | |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Bloomreach HSTS Ngin...|
-|[https://doc-direkt.nl](https://doc-direkt.nl)| $${\color{green}A+}$$ |nginx| |:white_check_mark: | |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx|
+|[https://acc-api.dh.doc-direkt.nl](https://acc-api.dh.doc-direkt.nl)| $${\color{lightgreen}B}$$ | | |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|
+|[https://acc-dh.doc-direkt.nl](https://acc-dh.doc-direkt.nl)| $${\color{lightgreen}B}$$ | |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |:white_check_mark: |AngularJS HSTS|
+|[https://acc-m.dh.doc-direkt.nl](https://acc-m.dh.doc-direkt.nl)| $${\color{lightgreen}B}$$ | | |:white_check_mark: | | |:white_check_mark: |:white_check_mark: |AngularJS HSTS|
+|[https://api.dh.doc-direkt.nl](https://api.dh.doc-direkt.nl)| $${\color{green}A+}$$ | | |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|
+|[https://dh.doc-direkt.nl](https://dh.doc-direkt.nl)| $${\color{green}A+}$$ | |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |:white_check_mark: |AngularJS HSTS|
+|[https://feeds.doc-direkt.nl](https://feeds.doc-direkt.nl)| $${\color{green}A+}$$ |nginx| |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx|
+|[https://opendata.doc-direkt.nl](https://opendata.doc-direkt.nl)| $${\color{green}A+}$$ |nginx| |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx|
+|[https://www.doc-direkt.nl](https://www.doc-direkt.nl)| $${\color{green}A+}$$ |nginx| |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Bloomreach HSTS Ngin...|
+|[https://doc-direkt.nl](https://doc-direkt.nl)| $${\color{green}A+}$$ |nginx| |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx|

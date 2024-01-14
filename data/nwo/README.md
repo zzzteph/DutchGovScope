@@ -15,15 +15,15 @@
 |[https://enterpriseregistration.nwo.nl](https://enterpriseregistration.nwo.nl)| | | | | | | |:white_check_mark: |HSTS|
 |[https://byod.nwo.nl](https://byod.nwo.nl)| |server| | |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: ||
 |[https://isaac.nwo.nl](https://isaac.nwo.nl)| | | | | | | |:white_check_mark: |Apache HTTP Server H...|
-|[http://autodiscover.nwo.nl](http://autodiscover.nwo.nl)| | |:warning: |:white_check_mark: | | |:white_check_mark: |:white_check_mark: |:white_check_mark: |IIS:10.0 Microsoft A...|
-|[https://nwoi-people.nwo.nl](https://nwoi-people.nwo.nl)| |microsoft-iis/10.0| |:white_check_mark: | |:warning: |:white_check_mark: | |:white_check_mark: |HSTS IIS:10.0 Window...|
-|[https://mailing.nwo.nl](https://mailing.nwo.nl)| |nginx| |:white_check_mark: | | | | |:white_check_mark: |HSTS Nginx|
-|[https://www.nwo.nl](https://www.nwo.nl)| | | |:white_check_mark: | |:warning: |:white_check_mark: | |:white_check_mark: |Drupal:9 Google Tag...|
-|[https://intranet.nwo.nl](https://intranet.nwo.nl)| |apache|:warning: |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache HTTP Server H...|
+|[http://autodiscover.nwo.nl](http://autodiscover.nwo.nl)| | |:warning: |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |IIS:10.0 Microsoft A...|
+|[https://nwoi-people.nwo.nl](https://nwoi-people.nwo.nl)| |microsoft-iis/10.0| |:white_check_mark: |:warning: |:white_check_mark: | |:white_check_mark: |HSTS IIS:10.0 Window...|
+|[https://mailing.nwo.nl](https://mailing.nwo.nl)| |nginx| |:white_check_mark: | | | |:white_check_mark: |HSTS Nginx|
+|[https://www.nwo.nl](https://www.nwo.nl)| | | |:white_check_mark: |:warning: |:white_check_mark: | |:white_check_mark: |Drupal:9 Google Tag...|
+|[https://intranet.nwo.nl](https://intranet.nwo.nl)| |apache|:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache HTTP Server H...|
 |[https://auth.nwo.nl](https://auth.nwo.nl)| |microsoft-httpapi/2.0| | | | | |:white_check_mark: |Microsoft HTTPAPI:2....|
 |[https://impact.nwo.nl](https://impact.nwo.nl)| |nginx/1.18.0 (ubuntu)| | | | | |:white_check_mark: |Nginx:1.18.0 Ubuntu|
-|[https://intranet-acc.nwo.nl](https://intranet-acc.nwo.nl)| |apache|:warning: |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache HTTP Server H...|
+|[https://intranet-acc.nwo.nl](https://intranet-acc.nwo.nl)| |apache|:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache HTTP Server H...|
 |[https://nwopen-api.nwo.nl](https://nwopen-api.nwo.nl)| |apache| | | | | |:white_check_mark: |Apache HTTP Server M...|
-|[https://nwo.nl](https://nwo.nl)| | | |:white_check_mark: | |:warning: |:white_check_mark: | |:white_check_mark: |HSTS|
+|[https://nwo.nl](https://nwo.nl)| | | |:white_check_mark: |:warning: |:white_check_mark: | |:white_check_mark: |HSTS|
 |[https://vpnportal.nwo.nl](https://vpnportal.nwo.nl)| | | | | | | |:white_check_mark: |HSTS|
-|[https://vpnportal-supplier.nwo.nl](https://vpnportal-supplier.nwo.nl)| | |:warning: |:white_check_mark: | |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|
+|[https://vpnportal-supplier.nwo.nl](https://vpnportal-supplier.nwo.nl)| | |:warning: |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|

@@ -9,6 +9,6 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |
 |------------|-------|------|------|------|------|------|------|------|------|
-|[https://downloads.rijkswaterstaatdata.nl](https://downloads.rijkswaterstaatdata.nl)| |nginx| |:white_check_mark: | | | | |:white_check_mark: |HSTS Nginx|
-|[https://www.rijkswaterstaatdata.nl](https://www.rijkswaterstaatdata.nl)| |-| |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Microsoft ASP.N...|
-|[https://rijkswaterstaatdata.nl](https://rijkswaterstaatdata.nl)| |-| |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Microsoft ASP.N...|
+|[https://downloads.rijkswaterstaatdata.nl](https://downloads.rijkswaterstaatdata.nl)| |nginx| |:white_check_mark: | | | |:white_check_mark: |HSTS Nginx|
+|[https://www.rijkswaterstaatdata.nl](https://www.rijkswaterstaatdata.nl)| |-| |:white_check_mark: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Microsoft ASP.N...|
+|[https://rijkswaterstaatdata.nl](https://rijkswaterstaatdata.nl)| |-| |:white_check_mark: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Microsoft ASP.N...|

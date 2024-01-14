@@ -9,7 +9,7 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |
 |------------|-------|------|------|------|------|------|------|------|------|
-|[https://mijndossier.schadedoormijnbouw.nl](https://mijndossier.schadedoormijnbouw.nl)| | |:warning: |:white_check_mark: | |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Java|
-|[https://www.schadedoormijnbouw.nl](https://www.schadedoormijnbouw.nl)| | | |:white_check_mark: | |:warning: | |:white_check_mark: |:white_check_mark: |Azure Azure Edge Net...|
-|[https://schadedoormijnbouw.nl](https://schadedoormijnbouw.nl)| | | |:white_check_mark: | |:warning: | |:white_check_mark: |:white_check_mark: |HSTS|
-|[https://forum.schadedoormijnbouw.nl](https://forum.schadedoormijnbouw.nl)| | |:warning: |:white_check_mark: | |:warning: | |:white_check_mark: |:white_check_mark: |Azure Azure Edge Net...|
+|[https://mijndossier.schadedoormijnbouw.nl](https://mijndossier.schadedoormijnbouw.nl)| | |:warning: |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Java|
+|[https://www.schadedoormijnbouw.nl](https://www.schadedoormijnbouw.nl)| | | |:white_check_mark: |:warning: | |:white_check_mark: |:white_check_mark: |Azure Azure Edge Net...|
+|[https://schadedoormijnbouw.nl](https://schadedoormijnbouw.nl)| | | |:white_check_mark: |:warning: | |:white_check_mark: |:white_check_mark: |HSTS|
+|[https://forum.schadedoormijnbouw.nl](https://forum.schadedoormijnbouw.nl)| | |:warning: |:white_check_mark: |:warning: | |:white_check_mark: |:white_check_mark: |Azure Azure Edge Net...|

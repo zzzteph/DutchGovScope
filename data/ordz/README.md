@@ -9,8 +9,8 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |
 |------------|-------|------|------|------|------|------|------|------|------|
-|[https://elearning.ordz.nl](https://elearning.ordz.nl)| |nginx| |:white_check_mark: | | |:white_check_mark: | |:white_check_mark: |HSTS Moodle Nginx PH...|
-|[https://feeds.ordz.nl](https://feeds.ordz.nl)| |nginx| |:white_check_mark: | | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx|
-|[https://opendata.ordz.nl](https://opendata.ordz.nl)| |nginx| |:white_check_mark: | | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx|
-|[https://www.ordz.nl](https://www.ordz.nl)| |nginx| |:white_check_mark: | |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Bloomreach HSTS Ngin...|
-|[https://ordz.nl](https://ordz.nl)| |nginx| |:white_check_mark: | |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx|
+|[https://elearning.ordz.nl](https://elearning.ordz.nl)| |nginx| |:white_check_mark: | |:white_check_mark: | |:white_check_mark: |HSTS Moodle Nginx PH...|
+|[https://feeds.ordz.nl](https://feeds.ordz.nl)| |nginx| |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx|
+|[https://opendata.ordz.nl](https://opendata.ordz.nl)| |nginx| |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx|
+|[https://www.ordz.nl](https://www.ordz.nl)| |nginx| |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Bloomreach HSTS Ngin...|
+|[https://ordz.nl](https://ordz.nl)| |nginx| |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx|

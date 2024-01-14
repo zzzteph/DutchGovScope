@@ -11,6 +11,6 @@
 |------------|-------|------|------|------|------|------|------|------|------|
 |[https://cms.farmacotherapeutischkompas.nl](https://cms.farmacotherapeutischkompas.nl)| |apache| | | | | |:white_check_mark: |Apache HTTP Server|
 |[https://proto.farmacotherapeutischkompas.nl](https://proto.farmacotherapeutischkompas.nl)| |github.com| | | | | |:white_check_mark: |Fastly GitHub Pages...|
-|[https://www.farmacotherapeutischkompas.nl](https://www.farmacotherapeutischkompas.nl)| |solvinity server|:warning: |:white_check_mark: | |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Bloomreach HSTS Java|
+|[https://www.farmacotherapeutischkompas.nl](https://www.farmacotherapeutischkompas.nl)| |solvinity server|:warning: |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Bloomreach HSTS Java|
 |[https://www-ac.farmacotherapeutischkompas.nl](https://www-ac.farmacotherapeutischkompas.nl)| |apache| | | | | |:white_check_mark: |Apache HTTP Server B...|
-|[https://farmacotherapeutischkompas.nl](https://farmacotherapeutischkompas.nl)| |solvinity server|:warning: |:white_check_mark: | |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache HTTP Server H...|
+|[https://farmacotherapeutischkompas.nl](https://farmacotherapeutischkompas.nl)| |solvinity server|:warning: |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache HTTP Server H...|

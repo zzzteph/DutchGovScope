@@ -11,13 +11,13 @@
 |------------|-------|------|------|------|------|------|------|------|------|
 |[https://acc.omgevingsloket.nl](https://acc.omgevingsloket.nl)| |apache| | | | | |:white_check_mark: |Apache HTTP Server|
 |[https://broker-inr.omgevingsloket.nl](https://broker-inr.omgevingsloket.nl)| | | | | | | |:white_check_mark: ||
-|[https://gw.omgevingsloket.nl](https://gw.omgevingsloket.nl)| |apache| |:white_check_mark: | |:warning: |:white_check_mark: | |:white_check_mark: |Apache HTTP Server H...|
-|[https://gw-shr.omgevingsloket.nl](https://gw-shr.omgevingsloket.nl)| |apache| |:white_check_mark: | |:warning: |:white_check_mark: | |:white_check_mark: |Apache HTTP Server H...|
-|[https://inr.omgevingsloket.nl](https://inr.omgevingsloket.nl)| |apache| |:white_check_mark: | |:white_check_mark: | |:white_check_mark: |Apache HTTP Server H...|
-|[https://intake.omgevingsloket.nl](https://intake.omgevingsloket.nl)| |apache| |:white_check_mark: | |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache HTTP Server H...|
+|[https://gw.omgevingsloket.nl](https://gw.omgevingsloket.nl)| |apache| |:white_check_mark: |:warning: |:white_check_mark: | |:white_check_mark: |Apache HTTP Server H...|
+|[https://gw-shr.omgevingsloket.nl](https://gw-shr.omgevingsloket.nl)| |apache| |:white_check_mark: |:warning: |:white_check_mark: | |:white_check_mark: |Apache HTTP Server H...|
+|[https://inr.omgevingsloket.nl](https://inr.omgevingsloket.nl)| |apache| |:white_check_mark: |:white_check_mark: | |:white_check_mark: |Apache HTTP Server H...|
+|[https://intake.omgevingsloket.nl](https://intake.omgevingsloket.nl)| |apache| |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache HTTP Server H...|
 |[https://olo-a-elk.omgevingsloket.nl](https://olo-a-elk.omgevingsloket.nl)| |nginx/1.20.1| | |:warning: | | |:white_check_mark: |Nginx:1.20.1|
-|[https://sao.omgevingsloket.nl](https://sao.omgevingsloket.nl)| |apache| |:white_check_mark: | | |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache HTTP Server H...|
-|[https://tao.omgevingsloket.nl](https://tao.omgevingsloket.nl)| |apache| |:white_check_mark: | |:white_check_mark: | |:white_check_mark: |Apache HTTP Server H...|
-|[https://www.omgevingsloket.nl](https://www.omgevingsloket.nl)| |apache| |:white_check_mark: | |:white_check_mark: | |:white_check_mark: |Apache HTTP Server H...|
+|[https://sao.omgevingsloket.nl](https://sao.omgevingsloket.nl)| |apache| |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache HTTP Server H...|
+|[https://tao.omgevingsloket.nl](https://tao.omgevingsloket.nl)| |apache| |:white_check_mark: |:white_check_mark: | |:white_check_mark: |Apache HTTP Server H...|
+|[https://www.omgevingsloket.nl](https://www.omgevingsloket.nl)| |apache| |:white_check_mark: |:white_check_mark: | |:white_check_mark: |Apache HTTP Server H...|
 |[https://inr-broker.omgevingsloket.nl](https://inr-broker.omgevingsloket.nl)| | | | | | | |:white_check_mark: ||
-|[https://omgevingsloket.nl](https://omgevingsloket.nl)| |apache| |:white_check_mark: | |:white_check_mark: | |:white_check_mark: |Apache HTTP Server H...|
+|[https://omgevingsloket.nl](https://omgevingsloket.nl)| |apache| |:white_check_mark: |:white_check_mark: | |:white_check_mark: |Apache HTTP Server H...|

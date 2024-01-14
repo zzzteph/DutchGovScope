@@ -9,5 +9,5 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |
 |------------|-------|------|------|------|------|------|------|------|------|
-|[https://www.financieelfittewerknemers.nl](https://www.financieelfittewerknemers.nl)| |nginx| |:white_check_mark: | | | | |:white_check_mark: |Google Tag Manager H...|
-|[https://financieelfittewerknemers.nl](https://financieelfittewerknemers.nl)| |nginx| |:white_check_mark: | | | | |:white_check_mark: |HSTS Nginx|
+|[https://www.financieelfittewerknemers.nl](https://www.financieelfittewerknemers.nl)| |nginx| |:white_check_mark: | | | |:white_check_mark: |Google Tag Manager H...|
+|[https://financieelfittewerknemers.nl](https://financieelfittewerknemers.nl)| |nginx| |:white_check_mark: | | | |:white_check_mark: |HSTS Nginx|

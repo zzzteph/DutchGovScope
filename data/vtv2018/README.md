@@ -11,5 +11,5 @@
 |------------|-------|------|------|------|------|------|------|------|------|
 |[http://acceptatie.vtv2018.nl](http://acceptatie.vtv2018.nl)| | | | | | | |:white_check_mark: ||
 |[http://test.vtv2018.nl](http://test.vtv2018.nl)| | | | | | | |:white_check_mark: ||
-|[https://www.vtv2018.nl](https://www.vtv2018.nl)| |apache| |:white_check_mark: | | |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache HTTP Server D...|
-|[https://vtv2018.nl](https://vtv2018.nl)| |apache| |:white_check_mark: | | |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache HTTP Server H...|
+|[https://www.vtv2018.nl](https://www.vtv2018.nl)| |apache| |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache HTTP Server D...|
+|[https://vtv2018.nl](https://vtv2018.nl)| |apache| |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache HTTP Server H...|

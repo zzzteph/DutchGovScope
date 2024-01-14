@@ -10,6 +10,6 @@
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |
 |------------|-------|------|------|------|------|------|------|------|------|
 |[https://staging.fitopjouwmanier.nl](https://staging.fitopjouwmanier.nl)| | | | | | | |:white_check_mark: |Basic Nginx|
-|[https://www.fitopjouwmanier.nl](https://www.fitopjouwmanier.nl)| |nginx| |:white_check_mark: | | | | |:white_check_mark: |HSTS Nginx|
-|[https://fitopjouwmanier.nl](https://fitopjouwmanier.nl)| |nginx| |:white_check_mark: | | | | |:white_check_mark: |HSTS Nginx|
+|[https://www.fitopjouwmanier.nl](https://www.fitopjouwmanier.nl)| |nginx| |:white_check_mark: | | | |:white_check_mark: |HSTS Nginx|
+|[https://fitopjouwmanier.nl](https://fitopjouwmanier.nl)| |nginx| |:white_check_mark: | | | |:white_check_mark: |HSTS Nginx|
 |[https://server01.fitopjouwmanier.nl](https://server01.fitopjouwmanier.nl)| | | | | | | |:white_check_mark: |HSTS Nginx|

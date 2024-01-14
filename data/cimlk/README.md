@@ -9,6 +9,6 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |
 |------------|-------|------|------|------|------|------|------|------|------|
-|[https://cimlk.nl](https://cimlk.nl)| | | |:white_check_mark: | |:warning: |:white_check_mark: | |:white_check_mark: ||
-|[https://www.cimlk.nl](https://www.cimlk.nl)| | | |:white_check_mark: | |:warning: |:white_check_mark: | |:white_check_mark: |HSTS|
-|[https://acc.cimlk.nl](https://acc.cimlk.nl)| | | |:white_check_mark: | |:warning: |:white_check_mark: | |:white_check_mark: |HSTS|
+|[https://cimlk.nl](https://cimlk.nl)| | | |:white_check_mark: |:warning: |:white_check_mark: | |:white_check_mark: ||
+|[https://www.cimlk.nl](https://www.cimlk.nl)| | | |:white_check_mark: |:warning: |:white_check_mark: | |:white_check_mark: |HSTS|
+|[https://acc.cimlk.nl](https://acc.cimlk.nl)| | | |:white_check_mark: |:warning: |:white_check_mark: | |:white_check_mark: |HSTS|

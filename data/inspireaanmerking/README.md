@@ -9,5 +9,5 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |
 |------------|-------|------|------|------|------|------|------|------|------|
-|[https://www.inspireaanmerking.nl](https://www.inspireaanmerking.nl)| |cloudflare| |:white_check_mark: | | |:white_check_mark: | |:white_check_mark: |Cloudflare Drupal:10...|
-|[https://inspireaanmerking.nl](https://inspireaanmerking.nl)| |cloudflare| |:white_check_mark: | | |:white_check_mark: | |:white_check_mark: |Cloudflare HSTS HTTP...|
+|[https://www.inspireaanmerking.nl](https://www.inspireaanmerking.nl)| |cloudflare| |:white_check_mark: | |:white_check_mark: | |:white_check_mark: |Cloudflare Drupal:10...|
+|[https://inspireaanmerking.nl](https://inspireaanmerking.nl)| |cloudflare| |:white_check_mark: | |:white_check_mark: | |:white_check_mark: |Cloudflare HSTS HTTP...|

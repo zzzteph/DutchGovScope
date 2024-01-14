@@ -9,6 +9,6 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |
 |------------|-------|------|------|------|------|------|------|------|------|
-|[https://nieuwsbrief.weekvanhetgeld.nl](https://nieuwsbrief.weekvanhetgeld.nl)| |spotler| |:white_check_mark: | | | | |:white_check_mark: |HSTS|
-|[https://www.weekvanhetgeld.nl](https://www.weekvanhetgeld.nl)| |nginx| |:white_check_mark: | | | | |:white_check_mark: |Google Tag Manager H...|
-|[https://weekvanhetgeld.nl](https://weekvanhetgeld.nl)| |nginx| |:white_check_mark: | | | | |:white_check_mark: |HSTS Nginx|
+|[https://nieuwsbrief.weekvanhetgeld.nl](https://nieuwsbrief.weekvanhetgeld.nl)| |spotler| |:white_check_mark: | | | |:white_check_mark: |HSTS|
+|[https://www.weekvanhetgeld.nl](https://www.weekvanhetgeld.nl)| |nginx| |:white_check_mark: | | | |:white_check_mark: |Google Tag Manager H...|
+|[https://weekvanhetgeld.nl](https://weekvanhetgeld.nl)| |nginx| |:white_check_mark: | | | |:white_check_mark: |HSTS Nginx|

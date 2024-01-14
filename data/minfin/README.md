@@ -11,10 +11,10 @@
 |------------|-------|------|------|------|------|------|------|------|------|
 |[https://cks.minfin.nl](https://cks.minfin.nl)| | | | | | | |:white_check_mark: |Nginx|
 |[https://english.minfin.nl](https://english.minfin.nl)| | | | | | | |:white_check_mark: |Nginx|
-|[https://rds.minfin.nl](https://rds.minfin.nl)| | |:warning: |:white_check_mark: | | |:white_check_mark: | |:white_check_mark: |F5 BigIP HSTS|
-|[https://remote.minfin.nl](https://remote.minfin.nl)| | |:warning: |:white_check_mark: | |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Java|
-|[https://schatkistbankieren.minfin.nl](https://schatkistbankieren.minfin.nl)| | |:warning: |:white_check_mark: | |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: ||
-|[https://vdi.minfin.nl](https://vdi.minfin.nl)| | |:warning: |:white_check_mark: | | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Java|
-|[https://www.minfin.nl](https://www.minfin.nl)| |nginx| |:white_check_mark: | |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS IIS:10.0 Window...|
-|[https://minfin.nl](https://minfin.nl)| |nginx| |:white_check_mark: | |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS IIS:10.0 Window...|
-|[https://mijnschatkist.minfin.nl](https://mijnschatkist.minfin.nl)| | |:warning: |:white_check_mark: | | |:white_check_mark: | |:white_check_mark: |HSTS Microsoft ASP.N...|
+|[https://rds.minfin.nl](https://rds.minfin.nl)| | |:warning: |:white_check_mark: | |:white_check_mark: | |:white_check_mark: |F5 BigIP HSTS|
+|[https://remote.minfin.nl](https://remote.minfin.nl)| | |:warning: |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Java|
+|[https://schatkistbankieren.minfin.nl](https://schatkistbankieren.minfin.nl)| | |:warning: |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: ||
+|[https://vdi.minfin.nl](https://vdi.minfin.nl)| | |:warning: |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Java|
+|[https://www.minfin.nl](https://www.minfin.nl)| |nginx| |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS IIS:10.0 Window...|
+|[https://minfin.nl](https://minfin.nl)| |nginx| |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS IIS:10.0 Window...|
+|[https://mijnschatkist.minfin.nl](https://mijnschatkist.minfin.nl)| | |:warning: |:white_check_mark: | |:white_check_mark: | |:white_check_mark: |HSTS Microsoft ASP.N...|

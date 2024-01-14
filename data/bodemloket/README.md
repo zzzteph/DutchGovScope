@@ -10,7 +10,7 @@
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |
 |------------|-------|------|------|------|------|------|------|------|------|
 |[https://acceptatie.bodemloket.nl](https://acceptatie.bodemloket.nl)| | | | | | | |:white_check_mark: |Apache HTTP Server:2...|
-|[https://test.bodemloket.nl](https://test.bodemloket.nl)| |apache/2.4.57 (codeit) openssl/3.0.8+quic php/8.1.19| |:white_check_mark: | | |:white_check_mark: | |:white_check_mark: |Apache HTTP Server:2...|
+|[https://test.bodemloket.nl](https://test.bodemloket.nl)| |apache/2.4.57 (codeit) openssl/3.0.8+quic php/8.1.19| |:white_check_mark: | |:white_check_mark: | |:white_check_mark: |Apache HTTP Server:2...|
 |[https://test-fe.bodemloket.nl](https://test-fe.bodemloket.nl)| | | | | | | |:white_check_mark: |Apache HTTP Server:2...|
-|[https://www.bodemloket.nl](https://www.bodemloket.nl)| |apache| |:white_check_mark: | |:white_check_mark: | |:white_check_mark: |Apache HTTP Server D...|
-|[https://bodemloket.nl](https://bodemloket.nl)| |apache| |:white_check_mark: | |:white_check_mark: | |:white_check_mark: |Apache HTTP Server D...|
+|[https://www.bodemloket.nl](https://www.bodemloket.nl)| |apache| |:white_check_mark: |:white_check_mark: | |:white_check_mark: |Apache HTTP Server D...|
+|[https://bodemloket.nl](https://bodemloket.nl)| |apache| |:white_check_mark: |:white_check_mark: | |:white_check_mark: |Apache HTTP Server D...|

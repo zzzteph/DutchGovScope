@@ -10,6 +10,6 @@
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |
 |------------|-------|------|------|------|------|------|------|------|------|
 |[https://en.octrooigemachtigde.nl](https://en.octrooigemachtigde.nl)| | | | | | | |:white_check_mark: |Apache HTTP Server:2|
-|[https://www.octrooigemachtigde.nl](https://www.octrooigemachtigde.nl)| |apache/2|:warning: |:white_check_mark: | | |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache HTTP Server:2...|
-|[https://octrooigemachtigde.nl](https://octrooigemachtigde.nl)| |apache/2|:warning: |:white_check_mark: | | |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache HTTP Server:2|
+|[https://www.octrooigemachtigde.nl](https://www.octrooigemachtigde.nl)| |apache/2|:warning: |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache HTTP Server:2...|
+|[https://octrooigemachtigde.nl](https://octrooigemachtigde.nl)| |apache/2|:warning: |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache HTTP Server:2|
 |[https://www.en.octrooigemachtigde.nl](https://www.en.octrooigemachtigde.nl)| | | | | | | |:white_check_mark: |Apache HTTP Server:2|

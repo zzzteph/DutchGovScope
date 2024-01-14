@@ -10,7 +10,7 @@
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |
 |------------|-------|------|------|------|------|------|------|------|------|
 |[https://idkbc.duurzamecao.nl](https://idkbc.duurzamecao.nl)| |nginx| | | | | |:white_check_mark: |MySQL Nginx PHP WooC...|
-|[https://duurzamecao.nl](https://duurzamecao.nl)| |nginx| |:white_check_mark: | |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Nginx|
+|[https://duurzamecao.nl](https://duurzamecao.nl)| |nginx| |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Nginx|
 |[https://verminder-ewaste.duurzamecao.nl](https://verminder-ewaste.duurzamecao.nl)| |nginx| | | | | |:white_check_mark: |MySQL Nginx PHP Word...|
 |[https://uitjes.duurzamecao.nl](https://uitjes.duurzamecao.nl)| |nginx| | | | | |:white_check_mark: |MySQL Nginx PHP Word...|
 |[https://verduurzamingwoning.duurzamecao.nl](https://verduurzamingwoning.duurzamecao.nl)| |nginx| | | | | |:white_check_mark: |MySQL Nginx PHP Word...|
@@ -23,4 +23,4 @@
 |[https://idkb.duurzamecao.nl](https://idkb.duurzamecao.nl)| |nginx| | | | | |:white_check_mark: |MySQL Nginx PHP WooC...|
 |[https://idkbe.duurzamecao.nl](https://idkbe.duurzamecao.nl)| |nginx| | | | | |:white_check_mark: |MySQL Nginx PHP WooC...|
 |[https://idkba.duurzamecao.nl](https://idkba.duurzamecao.nl)| |nginx| | | | | |:white_check_mark: |MySQL Nginx PHP WooC...|
-|[https://www.duurzamecao.nl](https://www.duurzamecao.nl)| |nginx| |:white_check_mark: | |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Nginx|
+|[https://www.duurzamecao.nl](https://www.duurzamecao.nl)| |nginx| |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Nginx|

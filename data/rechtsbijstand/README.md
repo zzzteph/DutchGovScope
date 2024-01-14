@@ -9,5 +9,5 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |
 |------------|-------|------|------|------|------|------|------|------|------|
-|[https://www.rechtsbijstand.nl](https://www.rechtsbijstand.nl)| |-| |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|
-|[https://rechtsbijstand.nl](https://rechtsbijstand.nl)| |-| |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|
+|[https://www.rechtsbijstand.nl](https://www.rechtsbijstand.nl)| |-| |:white_check_mark: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|
+|[https://rechtsbijstand.nl](https://rechtsbijstand.nl)| |-| |:white_check_mark: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|

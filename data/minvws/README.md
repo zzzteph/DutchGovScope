@@ -9,14 +9,14 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |
 |------------|-------|------|------|------|------|------|------|------|------|
-|[https://pilot.uzi-online.minvws.nl](https://pilot.uzi-online.minvws.nl)| || |:white_check_mark: | |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Basic HSTS|
-|[https://werkbezoek.minvws.nl](https://werkbezoek.minvws.nl)| | | |:white_check_mark: | | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|
+|[https://pilot.uzi-online.minvws.nl](https://pilot.uzi-online.minvws.nl)| || |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Basic HSTS|
+|[https://werkbezoek.minvws.nl](https://werkbezoek.minvws.nl)| | | |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|
 |[https://english.minvws.nl](https://english.minvws.nl)| | | | | | | |:white_check_mark: |Nginx|
-|[https://open.minvws.nl](https://open.minvws.nl)| |nginx| |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx|
-|[https://yivi.pilot.uzi-online.minvws.nl](https://yivi.pilot.uzi-online.minvws.nl)| ||:warning: |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|
-|[https://www.minvws.nl](https://www.minvws.nl)| |nginx| |:white_check_mark: | |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS IIS:10.0 Window...|
-|[https://minvws.nl](https://minvws.nl)| |nginx| |:white_check_mark: | |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS IIS:10.0 Window...|
+|[https://open.minvws.nl](https://open.minvws.nl)| |nginx| |:white_check_mark: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx|
+|[https://yivi.pilot.uzi-online.minvws.nl](https://yivi.pilot.uzi-online.minvws.nl)| ||:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|
+|[https://www.minvws.nl](https://www.minvws.nl)| |nginx| |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS IIS:10.0 Window...|
+|[https://minvws.nl](https://minvws.nl)| |nginx| |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS IIS:10.0 Window...|
 |[https://www.vragenlijst.minvws.nl](https://www.vragenlijst.minvws.nl)| | | | | | | |:white_check_mark: |HSTS Nginx|
 |[https://vragenlijst.minvws.nl](https://vragenlijst.minvws.nl)| | | | | | | |:white_check_mark: |HSTS Nginx|
 |[http://login-uzi.pilot.uzi-online.minvws.nl](http://login-uzi.pilot.uzi-online.minvws.nl)| | | | | | | |:white_check_mark: ||
-|[https://login.pilot.uzi-online.minvws.nl](https://login.pilot.uzi-online.minvws.nl)| || |:white_check_mark: | |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|
+|[https://login.pilot.uzi-online.minvws.nl](https://login.pilot.uzi-online.minvws.nl)| || |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|

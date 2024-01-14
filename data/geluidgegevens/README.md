@@ -9,6 +9,6 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |
 |------------|-------|------|------|------|------|------|------|------|------|
-|[https://acc.geluidgegevens.nl](https://acc.geluidgegevens.nl)| | | |:white_check_mark: | |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|
-|[https://geluidgegevens.nl](https://geluidgegevens.nl)| | | |:white_check_mark: | |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: ||
-|[https://www.geluidgegevens.nl](https://www.geluidgegevens.nl)| | | |:white_check_mark: | |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|
+|[https://acc.geluidgegevens.nl](https://acc.geluidgegevens.nl)| | | |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|
+|[https://geluidgegevens.nl](https://geluidgegevens.nl)| | | |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: ||
+|[https://www.geluidgegevens.nl](https://www.geluidgegevens.nl)| | | |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|

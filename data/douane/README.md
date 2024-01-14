@@ -9,16 +9,16 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |
 |------------|-------|------|------|------|------|------|------|------|------|
-|[https://exchangerate.douane.nl](https://exchangerate.douane.nl)| $${\color{green}A+}$$ | |:warning: |:white_check_mark: | | |:white_check_mark: | |:white_check_mark: |HSTS IBM DataPower|
-|[https://exchangeratetest.douane.nl](https://exchangeratetest.douane.nl)| | |:warning: |:white_check_mark: | | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS IBM DataPower|
-|[http://mobiel.douane.nl](http://mobiel.douane.nl)| | |:warning: |:white_check_mark: | |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: ||
-|[https://nh.douane.nl](https://nh.douane.nl)| $${\color{green}A+}$$ | |:warning: |:white_check_mark: | | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS MySQL PHP WordP...|
+|[https://exchangerate.douane.nl](https://exchangerate.douane.nl)| $${\color{green}A+}$$ | |:warning: |:white_check_mark: | |:white_check_mark: | |:white_check_mark: |HSTS IBM DataPower|
+|[https://exchangeratetest.douane.nl](https://exchangeratetest.douane.nl)| | |:warning: |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS IBM DataPower|
+|[http://mobiel.douane.nl](http://mobiel.douane.nl)| | |:warning: |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: ||
+|[https://nh.douane.nl](https://nh.douane.nl)| $${\color{green}A+}$$ | |:warning: |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS MySQL PHP WordP...|
 |[https://reizigers.douane.nl](https://reizigers.douane.nl)| | | | | | | |:white_check_mark: |Microsoft HTTPAPI:2....|
-|[https://tarief.douane.nl](https://tarief.douane.nl)| $${\color{green}A+}$$ | |:warning: |:white_check_mark: | | |:white_check_mark: |:white_check_mark: |:white_check_mark: |F5 BigIP|
-|[https://validationcalculation.douane.nl](https://validationcalculation.douane.nl)| $${\color{green}A+}$$ | | |:white_check_mark: | | |:white_check_mark: | |:white_check_mark: |HSTS IBM DataPower|
-|[https://validationcalculationtest.douane.nl](https://validationcalculationtest.douane.nl)| | | |:white_check_mark: | | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS IBM DataPower|
-|[https://werken.douane.nl](https://werken.douane.nl)| $${\color{green}A}$$ |ponos maximum|:warning: |:white_check_mark: | |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|
-|[https://werkenbij.douane.nl](https://werkenbij.douane.nl)| $${\color{green}A}$$ |ponos maximum|:warning: |:white_check_mark: | |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|
+|[https://tarief.douane.nl](https://tarief.douane.nl)| $${\color{green}A+}$$ | |:warning: |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |F5 BigIP|
+|[https://validationcalculation.douane.nl](https://validationcalculation.douane.nl)| $${\color{green}A+}$$ | | |:white_check_mark: | |:white_check_mark: | |:white_check_mark: |HSTS IBM DataPower|
+|[https://validationcalculationtest.douane.nl](https://validationcalculationtest.douane.nl)| | | |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS IBM DataPower|
+|[https://werken.douane.nl](https://werken.douane.nl)| $${\color{green}A}$$ |ponos maximum|:warning: |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|
+|[https://werkenbij.douane.nl](https://werkenbij.douane.nl)| $${\color{green}A}$$ |ponos maximum|:warning: |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|
 |[https://wpx-80-aix-http.douane.nl](https://wpx-80-aix-http.douane.nl)| | | | | | | |:white_check_mark: |F5 BigIP|
-|[https://www.douane.nl](https://www.douane.nl)| | |:warning: |:white_check_mark: | |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|
-|[https://douane.nl](https://douane.nl)| $${\color{green}A+}$$ | |:warning: |:white_check_mark: | |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|
+|[https://www.douane.nl](https://www.douane.nl)| | |:warning: |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|
+|[https://douane.nl](https://douane.nl)| $${\color{green}A+}$$ | |:warning: |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|

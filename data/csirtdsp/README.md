@@ -10,5 +10,5 @@
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |
 |------------|-------|------|------|------|------|------|------|------|------|
 |[https://test.csirtdsp.nl](https://test.csirtdsp.nl)| | | | | | | |:white_check_mark: |Nginx|
-|[https://www.csirtdsp.nl](https://www.csirtdsp.nl)| |apache| |:white_check_mark: | | |:white_check_mark: | |:white_check_mark: |Apache HTTP Server D...|
-|[https://csirtdsp.nl](https://csirtdsp.nl)| |apache| |:white_check_mark: | | |:white_check_mark: | |:white_check_mark: |Apache HTTP Server D...|
+|[https://www.csirtdsp.nl](https://www.csirtdsp.nl)| |apache| |:white_check_mark: | |:white_check_mark: | |:white_check_mark: |Apache HTTP Server D...|
+|[https://csirtdsp.nl](https://csirtdsp.nl)| |apache| |:white_check_mark: | |:white_check_mark: | |:white_check_mark: |Apache HTTP Server D...|

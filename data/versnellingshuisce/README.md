@@ -9,10 +9,10 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |
 |------------|-------|------|------|------|------|------|------|------|------|
-|[https://financiering.versnellingshuisce.nl](https://financiering.versnellingshuisce.nl)| |apache/2| |:white_check_mark: | | |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache HTTP Server:2...|
+|[https://financiering.versnellingshuisce.nl](https://financiering.versnellingshuisce.nl)| |apache/2| |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache HTTP Server:2...|
 |[https://groei.versnellingshuisce.nl](https://groei.versnellingshuisce.nl)| |apache/2| | | | | |:white_check_mark: |Apache HTTP Server:2...|
 |[https://versnellingspartner.versnellingshuisce.nl](https://versnellingspartner.versnellingshuisce.nl)| |apache/2|:warning: | | | | |:white_check_mark: |Apache HTTP Server:2...|
 |[https://www.versnellingshuisce.nl](https://www.versnellingshuisce.nl)| |linqhost hpw|:warning: | | |:white_check_mark: |:white_check_mark: |:white_check_mark: ||
-|[https://www.financiering.versnellingshuisce.nl](https://www.financiering.versnellingshuisce.nl)| |apache/2| |:white_check_mark: | | |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache HTTP Server:2|
+|[https://www.financiering.versnellingshuisce.nl](https://www.financiering.versnellingshuisce.nl)| |apache/2| |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache HTTP Server:2|
 |[https://www.groei.versnellingshuisce.nl](https://www.groei.versnellingshuisce.nl)| |apache/2| | | | | |:white_check_mark: |Apache HTTP Server:2...|
 |[https://versnellingshuisce.nl](https://versnellingshuisce.nl)| |linqhost hpw|:warning: | | |:white_check_mark: |:white_check_mark: |:white_check_mark: |Alpine.js Google Tag...|

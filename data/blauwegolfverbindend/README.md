@@ -9,6 +9,6 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |
 |------------|-------|------|------|------|------|------|------|------|------|
-|[https://acceptatie.blauwegolfverbindend.nl](https://acceptatie.blauwegolfverbindend.nl)| |apache/2.4.6 (centos) openssl/1.0.2k-fips|:warning: |:white_check_mark: | | |:white_check_mark: | |:white_check_mark: |Apache HTTP Server:2...|
+|[https://acceptatie.blauwegolfverbindend.nl](https://acceptatie.blauwegolfverbindend.nl)| |apache/2.4.6 (centos) openssl/1.0.2k-fips|:warning: |:white_check_mark: | |:white_check_mark: | |:white_check_mark: |Apache HTTP Server:2...|
 |[https://www.blauwegolfverbindend.nl](https://www.blauwegolfverbindend.nl)| | | | | | | |:white_check_mark: |Apache HTTP Server:2...|
-|[https://blauwegolfverbindend.nl](https://blauwegolfverbindend.nl)| |apache/2.4.6 (centos) openssl/1.0.2k-fips|:warning: |:white_check_mark: | | |:white_check_mark: | |:white_check_mark: |Apache HTTP Server:2...|
+|[https://blauwegolfverbindend.nl](https://blauwegolfverbindend.nl)| |apache/2.4.6 (centos) openssl/1.0.2k-fips|:warning: |:white_check_mark: | |:white_check_mark: | |:white_check_mark: |Apache HTTP Server:2...|

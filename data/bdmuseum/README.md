@@ -9,7 +9,7 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |
 |------------|-------|------|------|------|------|------|------|------|------|
-|[https://tickets.bdmuseum.nl](https://tickets.bdmuseum.nl)| |cloudflare| |:white_check_mark: | | |:white_check_mark: | |:white_check_mark: |Cloudflare Google Cl...|
-|[https://www.bdmuseum.nl](https://www.bdmuseum.nl)| |nginx|:warning: |:white_check_mark: | | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS MySQL Nginx PHP...|
-|[https://bdmuseum.nl](https://bdmuseum.nl)| |nginx|:warning: |:white_check_mark: | | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx|
+|[https://tickets.bdmuseum.nl](https://tickets.bdmuseum.nl)| |cloudflare| |:white_check_mark: | |:white_check_mark: | |:white_check_mark: |Cloudflare Google Cl...|
+|[https://www.bdmuseum.nl](https://www.bdmuseum.nl)| |nginx|:warning: |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS MySQL Nginx PHP...|
+|[https://bdmuseum.nl](https://bdmuseum.nl)| |nginx|:warning: |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx|
 |[https://bdmuseum.nlwww.bdmuseum.nl](https://bdmuseum.nlwww.bdmuseum.nl)| | | | | | | |:white_check_mark: |Nginx|

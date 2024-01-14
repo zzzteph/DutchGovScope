@@ -16,9 +16,9 @@
 |[https://klantpreferentie2019.perined.nl](https://klantpreferentie2019.perined.nl)| | | | | | | |:white_check_mark: |Apache HTTP Server:2...|
 |[https://lnr.perined.nl](https://lnr.perined.nl)| |nginx|:warning: | | | |:white_check_mark: |:white_check_mark: |Microsoft ASP.NET Ng...|
 |[https://vragenlijst.perined.nl](https://vragenlijst.perined.nl)| |nginx| | | | |:white_check_mark: |:white_check_mark: |Nginx|
-|[https://www.perined.nl](https://www.perined.nl)| |apache|:warning: |:white_check_mark: | | |:white_check_mark: | |:white_check_mark: |Apache HTTP Server B...|
-|[https://assets.perined.nl](https://assets.perined.nl)| |amazons3| |:white_check_mark: | | | | |:white_check_mark: |Amazon S3 Amazon Web...|
-|[https://perined.nl](https://perined.nl)| |apache|:warning: |:white_check_mark: | | |:white_check_mark: | |:white_check_mark: |Apache HTTP Server:2...|
+|[https://www.perined.nl](https://www.perined.nl)| |apache|:warning: |:white_check_mark: | |:white_check_mark: | |:white_check_mark: |Apache HTTP Server B...|
+|[https://assets.perined.nl](https://assets.perined.nl)| |amazons3| |:white_check_mark: | | | |:white_check_mark: |Amazon S3 Amazon Web...|
+|[https://perined.nl](https://perined.nl)| |apache|:warning: |:white_check_mark: | |:white_check_mark: | |:white_check_mark: |Apache HTTP Server:2...|
 |[https://2015assets.perined.nl](https://2015assets.perined.nl)| | | | | | | |:white_check_mark: |Apache HTTP Server:2...|
 |[https://cwww.perined.nl](https://cwww.perined.nl)| | | | | | | |:white_check_mark: |Apache HTTP Server:2...|
 |[https://15assets.perined.nl](https://15assets.perined.nl)| | | | | | | |:white_check_mark: |Apache HTTP Server:2...|

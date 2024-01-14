@@ -10,4 +10,4 @@
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |
 |------------|-------|------|------|------|------|------|------|------|------|
 |[http://www.kennisplatformvhg.nl](http://www.kennisplatformvhg.nl)| | | | | | | |:white_check_mark: ||
-|[https://kennisplatformvhg.nl](https://kennisplatformvhg.nl)| |apache| |:white_check_mark: | | | | |:white_check_mark: |Apache HTTP Server H...|
+|[https://kennisplatformvhg.nl](https://kennisplatformvhg.nl)| |apache| |:white_check_mark: | | | |:white_check_mark: |Apache HTTP Server H...|

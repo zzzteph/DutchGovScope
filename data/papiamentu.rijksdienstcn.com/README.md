@@ -9,6 +9,6 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |
 |------------|-------|------|------|------|------|------|------|------|------|
-|[https://opendata.papiamentu.rijksdienstcn.com](https://opendata.papiamentu.rijksdienstcn.com)| |nginx| |:white_check_mark: | | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx|
-|[https://feeds.papiamentu.rijksdienstcn.com](https://feeds.papiamentu.rijksdienstcn.com)| |nginx| |:white_check_mark: | | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx|
-|[https://papiamentu.rijksdienstcn.com](https://papiamentu.rijksdienstcn.com)| |nginx| |:white_check_mark: | |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Bloomreach HSTS Ngin...|
+|[https://opendata.papiamentu.rijksdienstcn.com](https://opendata.papiamentu.rijksdienstcn.com)| |nginx| |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx|
+|[https://feeds.papiamentu.rijksdienstcn.com](https://feeds.papiamentu.rijksdienstcn.com)| |nginx| |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx|
+|[https://papiamentu.rijksdienstcn.com](https://papiamentu.rijksdienstcn.com)| |nginx| |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Bloomreach HSTS Ngin...|

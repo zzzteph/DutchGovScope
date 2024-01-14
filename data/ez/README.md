@@ -10,15 +10,15 @@
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |
 |------------|-------|------|------|------|------|------|------|------|------|
 |[https://exportcontrole.ez.nl](https://exportcontrole.ez.nl)| | | | | | | |:white_check_mark: |Nginx|
-|[http://wvaopgave.ez.nl](http://wvaopgave.ez.nl)| $${\color{lightgreen}B}$$ | |:warning: |:white_check_mark: | | | | |:white_check_mark: |HSTS|
+|[http://wvaopgave.ez.nl](http://wvaopgave.ez.nl)| $${\color{lightgreen}B}$$ | |:warning: |:white_check_mark: | | | |:white_check_mark: |HSTS|
 |[https://dienstenrichtlijn.ez.nl](https://dienstenrichtlijn.ez.nl)| | | | | | | |:white_check_mark: |Nginx|
 |[http://innovatie.ez.nl](http://innovatie.ez.nl)| | | | | | | |:white_check_mark: ||
 |[http://breedband.ez.nl](http://breedband.ez.nl)| | | | | | | |:white_check_mark: ||
-|[https://www.ez.nl](https://www.ez.nl)| $${\color{green}A}$$ |nginx| |:white_check_mark: | |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: ||
+|[https://www.ez.nl](https://www.ez.nl)| $${\color{green}A}$$ |nginx| |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: ||
 |[http://frequenties.ez.nl](http://frequenties.ez.nl)| | | | | | | |:white_check_mark: ||
 |[http://www.structuurfondsen.ez.nl](http://www.structuurfondsen.ez.nl)| | | | | | | |:white_check_mark: ||
 |[http://www.exportcontrole.ez.nl](http://www.exportcontrole.ez.nl)| | | | | | | |:white_check_mark: ||
-|[https://ez.nl](https://ez.nl)| $${\color{green}A}$$ |nginx| |:white_check_mark: | |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: ||
+|[https://ez.nl](https://ez.nl)| $${\color{green}A}$$ |nginx| |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: ||
 |[http://bedrijventerreinen.ez.nl](http://bedrijventerreinen.ez.nl)| | | | | | | |:white_check_mark: ||
 |[http://mvo.ez.nl](http://mvo.ez.nl)| | | | | | | |:white_check_mark: ||
 |[http://wto.ez.nl](http://wto.ez.nl)| | | | | | | |:white_check_mark: ||

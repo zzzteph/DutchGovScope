@@ -10,6 +10,6 @@
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |
 |------------|-------|------|------|------|------|------|------|------|------|
 |[https://prod.higherlevel.nl](https://prod.higherlevel.nl)| | | | | | | |:white_check_mark: |Apache HTTP Server H...|
-|[https://test.higherlevel.nl](https://test.higherlevel.nl)| |apache| |:white_check_mark: | | |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache HTTP Server B...|
-|[https://www.higherlevel.nl](https://www.higherlevel.nl)| |apache|:warning: |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache HTTP Server G...|
-|[https://higherlevel.nl](https://higherlevel.nl)| |apache|:warning: |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache HTTP Server H...|
+|[https://test.higherlevel.nl](https://test.higherlevel.nl)| |apache| |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache HTTP Server B...|
+|[https://www.higherlevel.nl](https://www.higherlevel.nl)| |apache|:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache HTTP Server G...|
+|[https://higherlevel.nl](https://higherlevel.nl)| |apache|:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache HTTP Server H...|

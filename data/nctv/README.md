@@ -14,20 +14,20 @@
 |[https://elearning-atb.nctv.nl](https://elearning-atb.nctv.nl)| | | | | | | |:white_check_mark: |Apache HTTP Server:2|
 |[https://elearning-basiscrisisbeheersing.nctv.nl](https://elearning-basiscrisisbeheersing.nctv.nl)| | | | | | | |:white_check_mark: |Apache HTTP Server:2|
 |[https://elearning-irb.nctv.nl](https://elearning-irb.nctv.nl)| | | | | | | |:white_check_mark: |Apache HTTP Server:2|
-|[https://english.nctv.nl](https://english.nctv.nl)| |nginx| |:white_check_mark: | |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Bloomreach HSTS Ngin...|
+|[https://english.nctv.nl](https://english.nctv.nl)| |nginx| |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Bloomreach HSTS Ngin...|
 |[https://extreemrechts.nctv.nl](https://extreemrechts.nctv.nl)| | | | | | | |:white_check_mark: |Apache HTTP Server:2|
-|[https://feeds.nctv.nl](https://feeds.nctv.nl)| |nginx| |:white_check_mark: | | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx|
-|[https://feeds.english.nctv.nl](https://feeds.english.nctv.nl)| |nginx| |:white_check_mark: | | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx|
+|[https://feeds.nctv.nl](https://feeds.nctv.nl)| |nginx| |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx|
+|[https://feeds.english.nctv.nl](https://feeds.english.nctv.nl)| |nginx| |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx|
 |[https://kennisbankterrorisme.nctv.nl](https://kennisbankterrorisme.nctv.nl)| |apache/2|:warning: | | |:white_check_mark: | |:white_check_mark: |Apache HTTP Server:2...|
-|[https://magazines.nctv.nl](https://magazines.nctv.nl)| |nginx| |:white_check_mark: | |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx|
-|[https://nac.nctv.nl](https://nac.nctv.nl)| |nginx|:warning: |:white_check_mark: | | | | |:white_check_mark: |Amazon ALB Amazon We...|
-|[https://opendata.nctv.nl](https://opendata.nctv.nl)| |nginx| |:white_check_mark: | | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx|
-|[https://opendata.english.nctv.nl](https://opendata.english.nctv.nl)| |nginx| |:white_check_mark: | | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx|
+|[https://magazines.nctv.nl](https://magazines.nctv.nl)| |nginx| |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx|
+|[https://nac.nctv.nl](https://nac.nctv.nl)| |nginx|:warning: |:white_check_mark: | | | |:white_check_mark: |Amazon ALB Amazon We...|
+|[https://opendata.nctv.nl](https://opendata.nctv.nl)| |nginx| |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx|
+|[https://opendata.english.nctv.nl](https://opendata.english.nctv.nl)| |nginx| |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx|
 |[https://pge.nctv.nl](https://pge.nctv.nl)| | | | | | | |:white_check_mark: |Apache HTTP Server:2|
 |[https://privacy.nctv.nl](https://privacy.nctv.nl)| | | | | | | |:white_check_mark: |Apache HTTP Server:2|
 |[https://radicaalofpuberaal.nctv.nl](https://radicaalofpuberaal.nctv.nl)| | | | | | | |:white_check_mark: |Apache HTTP Server:2|
 |[https://symbolenbank.nctv.nl](https://symbolenbank.nctv.nl)| | | | | | | |:white_check_mark: |Nginx|
-|[https://www.nctv.nl](https://www.nctv.nl)| |nginx| |:white_check_mark: | |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Bloomreach HSTS Ngin...|
-|[https://nctv.nl](https://nctv.nl)| |nginx| |:white_check_mark: | |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx|
+|[https://www.nctv.nl](https://www.nctv.nl)| |nginx| |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Bloomreach HSTS Ngin...|
+|[https://nctv.nl](https://nctv.nl)| |nginx| |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx|
 |[https://dev.kennisbankterrorisme.nctv.nl](https://dev.kennisbankterrorisme.nctv.nl)| |apache/2| | | | | |:white_check_mark: |Apache HTTP Server:2|
 |[https://dev.cbrnsecurity.nctv.nl](https://dev.cbrnsecurity.nctv.nl)| | | | | | | |:white_check_mark: |Apache HTTP Server:2|

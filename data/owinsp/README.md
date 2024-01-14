@@ -21,6 +21,6 @@
 |[https://portal.survey.collector.owinsp.nl](https://portal.survey.collector.owinsp.nl)| | | | | | | |:white_check_mark: |Apache HTTP Server|
 |[https://portal.survey.collectora.acc.owinsp.nl](https://portal.survey.collectora.acc.owinsp.nl)| | | | | | | |:white_check_mark: |Apache HTTP Server|
 |[https://www.owinsp.nl](https://www.owinsp.nl)| | | | | | | |:white_check_mark: |Apache HTTP Server:2|
-|[https://broker.isd.owinsp.nl](https://broker.isd.owinsp.nl)| | | |:white_check_mark: | | | | |:white_check_mark: |HSTS|
-|[https://broker.isd.acc.owinsp.nl](https://broker.isd.acc.owinsp.nl)| | | |:white_check_mark: | | | | |:white_check_mark: |HSTS|
+|[https://broker.isd.owinsp.nl](https://broker.isd.owinsp.nl)| | | |:white_check_mark: | | | |:white_check_mark: |HSTS|
+|[https://broker.isd.acc.owinsp.nl](https://broker.isd.acc.owinsp.nl)| | | |:white_check_mark: | | | |:white_check_mark: |HSTS|
 |[https://owinsp.nl](https://owinsp.nl)| | | | | | | |:white_check_mark: |Apache HTTP Server:2|

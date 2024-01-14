@@ -9,6 +9,6 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |
 |------------|-------|------|------|------|------|------|------|------|------|
-|[https://cms.bureaubiosecurity.nl](https://cms.bureaubiosecurity.nl)| |nginx| |:white_check_mark: | | |:white_check_mark: | |:white_check_mark: |Drupal:9 HSTS Nginx...|
-|[https://www.bureaubiosecurity.nl](https://www.bureaubiosecurity.nl)| |apache| |:white_check_mark: | | |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache HTTP Server D...|
-|[https://bureaubiosecurity.nl](https://bureaubiosecurity.nl)| |apache| |:white_check_mark: | | |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache HTTP Server H...|
+|[https://cms.bureaubiosecurity.nl](https://cms.bureaubiosecurity.nl)| |nginx| |:white_check_mark: | |:white_check_mark: | |:white_check_mark: |Drupal:9 HSTS Nginx...|
+|[https://www.bureaubiosecurity.nl](https://www.bureaubiosecurity.nl)| |apache| |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache HTTP Server D...|
+|[https://bureaubiosecurity.nl](https://bureaubiosecurity.nl)| |apache| |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache HTTP Server H...|

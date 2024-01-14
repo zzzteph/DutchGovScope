@@ -18,6 +18,6 @@
 |[https://previewsite.bodemrichtlijn.nl](https://previewsite.bodemrichtlijn.nl)| | | | | | | |:white_check_mark: ||
 |[https://viawww.bodemrichtlijn.nl](https://viawww.bodemrichtlijn.nl)| | | | | | | |:white_check_mark: ||
 |[https://bodemrichtlijn.nl](https://bodemrichtlijn.nl)| |microsoft-iis/10.0| | | | | |:white_check_mark: |IIS:10.0 Microsoft A...|
-|[https://development.bodemrichtlijn.nl](https://development.bodemrichtlijn.nl)| |kestrel| |:white_check_mark: | | | | |:white_check_mark: |HSTS Kestrel Microso...|
-|[https://quest.bodemrichtlijn.nl](https://quest.bodemrichtlijn.nl)| |kestrel| |:white_check_mark: | | | | |:white_check_mark: |HSTS Kestrel Microso...|
-|[https://linkmanager5.bodemrichtlijn.nl](https://linkmanager5.bodemrichtlijn.nl)| |kestrel| |:white_check_mark: | | | | |:white_check_mark: |HSTS Kestrel Microso...|
+|[https://development.bodemrichtlijn.nl](https://development.bodemrichtlijn.nl)| |kestrel| |:white_check_mark: | | | |:white_check_mark: |HSTS Kestrel Microso...|
+|[https://quest.bodemrichtlijn.nl](https://quest.bodemrichtlijn.nl)| |kestrel| |:white_check_mark: | | | |:white_check_mark: |HSTS Kestrel Microso...|
+|[https://linkmanager5.bodemrichtlijn.nl](https://linkmanager5.bodemrichtlijn.nl)| |kestrel| |:white_check_mark: | | | |:white_check_mark: |HSTS Kestrel Microso...|

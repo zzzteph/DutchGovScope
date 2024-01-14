@@ -9,5 +9,5 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |
 |------------|-------|------|------|------|------|------|------|------|------|
-|[https://www.inspectiewerkt.nl](https://www.inspectiewerkt.nl)| | |:warning: |:white_check_mark: | | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS OWL Carousel jQ...|
-|[https://inspectiewerkt.nl](https://inspectiewerkt.nl)| | |:warning: |:white_check_mark: | | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx:1.18.0|
+|[https://www.inspectiewerkt.nl](https://www.inspectiewerkt.nl)| | |:warning: |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS OWL Carousel jQ...|
+|[https://inspectiewerkt.nl](https://inspectiewerkt.nl)| | |:warning: |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx:1.18.0|

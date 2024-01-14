@@ -10,7 +10,7 @@
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |
 |------------|-------|------|------|------|------|------|------|------|------|
 |[https://www.business.gov.nl](https://www.business.gov.nl)| | | | | | | |:white_check_mark: ||
-|[https://opendata.business.gov.nl](https://opendata.business.gov.nl)| $${\color{lightgreen}B}$$ | | |:white_check_mark: | | |:white_check_mark: | |:white_check_mark: |HSTS|
-|[https://search.business.gov.nl](https://search.business.gov.nl)| $${\color{lightgreen}B}$$ | | |:white_check_mark: | | |:white_check_mark: | |:white_check_mark: |HSTS|
-|[https://api.business.gov.nl](https://api.business.gov.nl)| $${\color{lightgreen}B}$$ | | |:white_check_mark: | | |:white_check_mark: | |:white_check_mark: |HSTS|
-|[https://business.gov.nl](https://business.gov.nl)| $${\color{lightgreen}B}$$ | | |:white_check_mark: | | |:white_check_mark: |:white_check_mark: |:white_check_mark: |Bloomreach Google Ta...|
+|[https://opendata.business.gov.nl](https://opendata.business.gov.nl)| $${\color{lightgreen}B}$$ | | |:white_check_mark: | |:white_check_mark: | |:white_check_mark: |HSTS|
+|[https://search.business.gov.nl](https://search.business.gov.nl)| $${\color{lightgreen}B}$$ | | |:white_check_mark: | |:white_check_mark: | |:white_check_mark: |HSTS|
+|[https://api.business.gov.nl](https://api.business.gov.nl)| $${\color{lightgreen}B}$$ | | |:white_check_mark: | |:white_check_mark: | |:white_check_mark: |HSTS|
+|[https://business.gov.nl](https://business.gov.nl)| $${\color{lightgreen}B}$$ | | |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |Bloomreach Google Ta...|

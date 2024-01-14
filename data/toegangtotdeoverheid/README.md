@@ -11,5 +11,5 @@
 |------------|-------|------|------|------|------|------|------|------|------|
 |[http://irma.toegangtotdeoverheid.nl](http://irma.toegangtotdeoverheid.nl)| | | | | | | |:white_check_mark: ||
 |[https://irma.tst.toegangtotdeoverheid.nl](https://irma.tst.toegangtotdeoverheid.nl)| | | | | | | |:white_check_mark: |Apache HTTP Server|
-|[https://tst.toegangtotdeoverheid.nl](https://tst.toegangtotdeoverheid.nl)| |n.a.|:warning: |:white_check_mark: | |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|
+|[https://tst.toegangtotdeoverheid.nl](https://tst.toegangtotdeoverheid.nl)| |n.a.|:warning: |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|
 |[http://toegangtotdeoverheid.nl](http://toegangtotdeoverheid.nl)| | | | | | | |:white_check_mark: ||

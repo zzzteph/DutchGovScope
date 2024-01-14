@@ -10,5 +10,5 @@
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |
 |------------|-------|------|------|------|------|------|------|------|------|
 |[https://acceptatie.zorgcsp.nl](https://acceptatie.zorgcsp.nl)| | | | | | | |:white_check_mark: |HSTS|
-|[https://www.zorgcsp.nl](https://www.zorgcsp.nl)| || |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|
-|[https://zorgcsp.nl](https://zorgcsp.nl)| || |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|
+|[https://www.zorgcsp.nl](https://www.zorgcsp.nl)| || |:white_check_mark: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|
+|[https://zorgcsp.nl](https://zorgcsp.nl)| || |:white_check_mark: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|

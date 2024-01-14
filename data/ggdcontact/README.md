@@ -9,7 +9,7 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |
 |------------|-------|------|------|------|------|------|------|------|------|
-|[https://www.ggdcontact.nl](https://www.ggdcontact.nl)| |nginx| |:white_check_mark: | |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx|
-|[https://beheer.ggdcontact.nl](https://beheer.ggdcontact.nl)| ||:warning: |:white_check_mark: | |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Ruby Ruby on Ra...|
-|[https://ggdcontact.nl](https://ggdcontact.nl)| |nginx| |:white_check_mark: | |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx|
+|[https://www.ggdcontact.nl](https://www.ggdcontact.nl)| |nginx| |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx|
+|[https://beheer.ggdcontact.nl](https://beheer.ggdcontact.nl)| ||:warning: |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Ruby Ruby on Ra...|
+|[https://ggdcontact.nl](https://ggdcontact.nl)| |nginx| |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx|
 |[https://mijn.ggdcontact.nl](https://mijn.ggdcontact.nl)| | | | | | | |:white_check_mark: |HSTS Nginx|

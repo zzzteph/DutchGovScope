@@ -12,8 +12,8 @@
 |[http://acceptatie.volksgezondheidenzorg.info](http://acceptatie.volksgezondheidenzorg.info)| | | | | | | |:white_check_mark: ||
 |[http://acceptatie.costofillnesstool.volksgezondheidenzorg.info](http://acceptatie.costofillnesstool.volksgezondheidenzorg.info)| | | | | | | |:white_check_mark: ||
 |[http://acceptatie.kostenvanziektentool.volksgezondheidenzorg.info](http://acceptatie.kostenvanziektentool.volksgezondheidenzorg.info)| | | | | | | |:white_check_mark: ||
-|[https://costofillnesstool.volksgezondheidenzorg.info](https://costofillnesstool.volksgezondheidenzorg.info)| |apache| |:white_check_mark: | | |:white_check_mark: |:white_check_mark: |:white_check_mark: ||
-|[https://kostenvanziektentool.volksgezondheidenzorg.info](https://kostenvanziektentool.volksgezondheidenzorg.info)| |apache| |:white_check_mark: | | |:white_check_mark: |:white_check_mark: |:white_check_mark: ||
+|[https://costofillnesstool.volksgezondheidenzorg.info](https://costofillnesstool.volksgezondheidenzorg.info)| |apache| |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: ||
+|[https://kostenvanziektentool.volksgezondheidenzorg.info](https://kostenvanziektentool.volksgezondheidenzorg.info)| |apache| |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: ||
 |[http://test.volksgezondheidenzorg.info](http://test.volksgezondheidenzorg.info)| | | | | | | |:white_check_mark: ||
-|[https://www.volksgezondheidenzorg.info](https://www.volksgezondheidenzorg.info)| |apache| |:white_check_mark: | | |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache HTTP Server H...|
-|[https://volksgezondheidenzorg.info](https://volksgezondheidenzorg.info)| |apache| |:white_check_mark: | | |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache HTTP Server H...|
+|[https://www.volksgezondheidenzorg.info](https://www.volksgezondheidenzorg.info)| |apache| |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache HTTP Server H...|
+|[https://volksgezondheidenzorg.info](https://volksgezondheidenzorg.info)| |apache| |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache HTTP Server H...|

@@ -9,6 +9,6 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |
 |------------|-------|------|------|------|------|------|------|------|------|
-|[https://www.mijnvraagovercorona.nl](https://www.mijnvraagovercorona.nl)| | | |:white_check_mark: | |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: ||
-|[https://acc.mijnvraagovercorona.nl](https://acc.mijnvraagovercorona.nl)| | | |:white_check_mark: | | | | |:white_check_mark: |Basic HSTS|
-|[https://mijnvraagovercorona.nl](https://mijnvraagovercorona.nl)| | | |:white_check_mark: | |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache Tomcat Astro:...|
+|[https://www.mijnvraagovercorona.nl](https://www.mijnvraagovercorona.nl)| | | |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: ||
+|[https://acc.mijnvraagovercorona.nl](https://acc.mijnvraagovercorona.nl)| | | |:white_check_mark: | | | |:white_check_mark: |Basic HSTS|
+|[https://mijnvraagovercorona.nl](https://mijnvraagovercorona.nl)| | | |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache Tomcat Astro:...|

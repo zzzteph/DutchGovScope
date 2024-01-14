@@ -9,5 +9,5 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |
 |------------|-------|------|------|------|------|------|------|------|------|
-|[https://www.werkenbijcbs.nl](https://www.werkenbijcbs.nl)| | | |:white_check_mark: | |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: ||
-|[https://werkenbijcbs.nl](https://werkenbijcbs.nl)| | | |:white_check_mark: | |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: ||
+|[https://www.werkenbijcbs.nl](https://www.werkenbijcbs.nl)| | | |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: ||
+|[https://werkenbijcbs.nl](https://werkenbijcbs.nl)| | | |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: ||

@@ -9,7 +9,7 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |
 |------------|-------|------|------|------|------|------|------|------|------|
-|[https://astraonline.nl](https://astraonline.nl)| |apache| |:white_check_mark: | | |:white_check_mark: | |:white_check_mark: |Apache HTTP Server H...|
-|[https://www.astraonline.nl](https://www.astraonline.nl)| |apache| |:white_check_mark: | | |:white_check_mark: | |:white_check_mark: |Apache HTTP Server H...|
-|[https://redactie.astraonline.nl](https://redactie.astraonline.nl)| |apache|:warning: |:white_check_mark: | | |:white_check_mark: | |:white_check_mark: |Apache HTTP Server H...|
+|[https://astraonline.nl](https://astraonline.nl)| |apache| |:white_check_mark: | |:white_check_mark: | |:white_check_mark: |Apache HTTP Server H...|
+|[https://www.astraonline.nl](https://www.astraonline.nl)| |apache| |:white_check_mark: | |:white_check_mark: | |:white_check_mark: |Apache HTTP Server H...|
+|[https://redactie.astraonline.nl](https://redactie.astraonline.nl)| |apache|:warning: |:white_check_mark: | |:white_check_mark: | |:white_check_mark: |Apache HTTP Server H...|
 |[https://mail.astraonline.nl](https://mail.astraonline.nl)| | | | | | | |:white_check_mark: |Apache HTTP Server H...|

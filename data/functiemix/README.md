@@ -10,5 +10,5 @@
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |
 |------------|-------|------|------|------|------|------|------|------|------|
 |[https://database.functiemix.nl](https://database.functiemix.nl)| | | | | | | |:white_check_mark: |Apache HTTP Server H...|
-|[https://www.functiemix.nl](https://www.functiemix.nl)| |apache/2| |:white_check_mark: | | | | |:white_check_mark: |Apache HTTP Server:2...|
-|[https://functiemix.nl](https://functiemix.nl)| |apache/2| |:white_check_mark: | | | | |:white_check_mark: |Apache HTTP Server:2...|
+|[https://www.functiemix.nl](https://www.functiemix.nl)| |apache/2| |:white_check_mark: | | | |:white_check_mark: |Apache HTTP Server:2...|
+|[https://functiemix.nl](https://functiemix.nl)| |apache/2| |:white_check_mark: | | | |:white_check_mark: |Apache HTTP Server:2...|

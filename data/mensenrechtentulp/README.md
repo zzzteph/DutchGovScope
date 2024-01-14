@@ -9,5 +9,5 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |
 |------------|-------|------|------|------|------|------|------|------|------|
-|[https://www.mensenrechtentulp.nl](https://www.mensenrechtentulp.nl)| |nginx| |:white_check_mark: | |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Cloudflare HSTS|
-|[https://mensenrechtentulp.nl](https://mensenrechtentulp.nl)| |nginx| |:white_check_mark: | |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Cloudflare HSTS|
+|[https://www.mensenrechtentulp.nl](https://www.mensenrechtentulp.nl)| |nginx| |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Cloudflare HSTS|
+|[https://mensenrechtentulp.nl](https://mensenrechtentulp.nl)| |nginx| |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Cloudflare HSTS|

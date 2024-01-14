@@ -11,5 +11,5 @@
 |------------|-------|------|------|------|------|------|------|------|------|
 |[http://cdn.naarnederland.nl](http://cdn.naarnederland.nl)| | | | | | | |:white_check_mark: ||
 |[http://mail.naarnederland.nl](http://mail.naarnederland.nl)| |gse| | |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: ||
-|[https://www.naarnederland.nl](https://www.naarnederland.nl)| |apache|:warning: |:white_check_mark: | | | | |:white_check_mark: |Apache HTTP Server H...|
-|[https://naarnederland.nl](https://naarnederland.nl)| |apache|:warning: |:white_check_mark: | | | | |:white_check_mark: |Apache HTTP Server H...|
+|[https://www.naarnederland.nl](https://www.naarnederland.nl)| |apache|:warning: |:white_check_mark: | | | |:white_check_mark: |Apache HTTP Server H...|
+|[https://naarnederland.nl](https://naarnederland.nl)| |apache|:warning: |:white_check_mark: | | | |:white_check_mark: |Apache HTTP Server H...|

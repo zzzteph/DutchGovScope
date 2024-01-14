@@ -10,5 +10,5 @@
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |
 |------------|-------|------|------|------|------|------|------|------|------|
 |[https://feedback.talentisbelangrijker.nl](https://feedback.talentisbelangrijker.nl)| | | | | | | |:white_check_mark: |Azure HSTS|
-|[https://www.talentisbelangrijker.nl](https://www.talentisbelangrijker.nl)| | | |:white_check_mark: | | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Microsoft ASP.N...|
-|[https://talentisbelangrijker.nl](https://talentisbelangrijker.nl)| | | |:white_check_mark: | | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Microsoft ASP.N...|
+|[https://www.talentisbelangrijker.nl](https://www.talentisbelangrijker.nl)| | | |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Microsoft ASP.N...|
+|[https://talentisbelangrijker.nl](https://talentisbelangrijker.nl)| | | |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Microsoft ASP.N...|

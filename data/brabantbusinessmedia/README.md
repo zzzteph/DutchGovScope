@@ -12,4 +12,4 @@
 |[https://www.brabantbusinessmedia.nl](https://www.brabantbusinessmedia.nl)| $${\color{green}A}$$ |nginx| | | | | |:white_check_mark: |Nginx:1.24.0|
 |[https://brabantbusinessmedia.nl](https://brabantbusinessmedia.nl)| $${\color{green}A}$$ |nginx| | | | | |:white_check_mark: |Nginx:1.24.0|
 |[https://srv1.brabantbusinessmedia.nl](https://srv1.brabantbusinessmedia.nl)| | | | | | | |:white_check_mark: |Nginx:1.24.0|
-|[http://autodiscover.brabantbusinessmedia.nl](http://autodiscover.brabantbusinessmedia.nl)| | |:warning: |:white_check_mark: | | |:white_check_mark: |:white_check_mark: |:white_check_mark: |IIS:10.0 Microsoft A...|
+|[http://autodiscover.brabantbusinessmedia.nl](http://autodiscover.brabantbusinessmedia.nl)| | |:warning: |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |IIS:10.0 Microsoft A...|

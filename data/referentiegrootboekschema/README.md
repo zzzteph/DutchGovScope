@@ -13,5 +13,5 @@
 |[https://mail.referentiegrootboekschema.nl](https://mail.referentiegrootboekschema.nl)| | | | | | | |:white_check_mark: |Nginx|
 |[https://prod-dictu.referentiegrootboekschema.nl](https://prod-dictu.referentiegrootboekschema.nl)| | | | | | | |:white_check_mark: |Drupal:10 HSTS Nginx...|
 |[https://test-dictu.referentiegrootboekschema.nl](https://test-dictu.referentiegrootboekschema.nl)| |nginx| | | | | |:white_check_mark: |Basic Nginx|
-|[https://www.referentiegrootboekschema.nl](https://www.referentiegrootboekschema.nl)| |nginx| |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |Drupal:10 HSTS Nginx...|
-|[https://referentiegrootboekschema.nl](https://referentiegrootboekschema.nl)| |nginx| |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |Drupal:10 HSTS Nginx...|
+|[https://www.referentiegrootboekschema.nl](https://www.referentiegrootboekschema.nl)| |nginx| |:white_check_mark: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Drupal:10 HSTS Nginx...|
+|[https://referentiegrootboekschema.nl](https://referentiegrootboekschema.nl)| |nginx| |:white_check_mark: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Drupal:10 HSTS Nginx...|

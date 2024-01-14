@@ -9,5 +9,5 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |
 |------------|-------|------|------|------|------|------|------|------|------|
-|[https://www.boa-expertisecentrum.nl](https://www.boa-expertisecentrum.nl)| |cloudflare|:warning: |:white_check_mark: | |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Cloudflare HSTS HTTP...|
-|[https://boa-expertisecentrum.nl](https://boa-expertisecentrum.nl)| |cloudflare|:warning: |:white_check_mark: | |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache Tomcat Cloudf...|
+|[https://www.boa-expertisecentrum.nl](https://www.boa-expertisecentrum.nl)| |cloudflare|:warning: |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Cloudflare HSTS HTTP...|
+|[https://boa-expertisecentrum.nl](https://boa-expertisecentrum.nl)| |cloudflare|:warning: |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache Tomcat Cloudf...|

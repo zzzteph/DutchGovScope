@@ -21,5 +21,5 @@
 |[https://slachtoffer.jeugdconnect.nl](https://slachtoffer.jeugdconnect.nl)| | | | | | | |:white_check_mark: |Bootstrap HSTS Nginx|
 |[https://socialmediamonitor.jeugdconnect.nl](https://socialmediamonitor.jeugdconnect.nl)| | | | | | | |:white_check_mark: |Bootstrap HSTS Nginx|
 |[https://vog.jeugdconnect.nl](https://vog.jeugdconnect.nl)| | | | | | | |:white_check_mark: |Bootstrap HSTS Nginx|
-|[https://www.jeugdconnect.nl](https://www.jeugdconnect.nl)| |nginx|:warning: |:white_check_mark: | | |:white_check_mark: | |:white_check_mark: |HSTS Nginx|
-|[https://jeugdconnect.nl](https://jeugdconnect.nl)| |nginx|:warning: |:white_check_mark: | | |:white_check_mark: | |:white_check_mark: |AngularJS HSTS Nginx|
+|[https://www.jeugdconnect.nl](https://www.jeugdconnect.nl)| |nginx|:warning: |:white_check_mark: | |:white_check_mark: | |:white_check_mark: |HSTS Nginx|
+|[https://jeugdconnect.nl](https://jeugdconnect.nl)| |nginx|:warning: |:white_check_mark: | |:white_check_mark: | |:white_check_mark: |AngularJS HSTS Nginx|

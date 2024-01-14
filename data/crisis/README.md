@@ -9,5 +9,5 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |
 |------------|-------|------|------|------|------|------|------|------|------|
-|[https://www.crisis.nl](https://www.crisis.nl)| $${\color{green}A+}$$ |microsoft-iis/10.0|:warning: |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |Azure HSTS IIS:10.0...|
-|[https://crisis.nl](https://crisis.nl)| $${\color{green}A+}$$ |microsoft-iis/10.0|:warning: |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |Azure HSTS IIS:10.0...|
+|[https://www.crisis.nl](https://www.crisis.nl)| $${\color{green}A+}$$ |microsoft-iis/10.0|:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Azure HSTS IIS:10.0...|
+|[https://crisis.nl](https://crisis.nl)| $${\color{green}A+}$$ |microsoft-iis/10.0|:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Azure HSTS IIS:10.0...|

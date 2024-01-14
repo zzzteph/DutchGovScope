@@ -9,5 +9,5 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |
 |------------|-------|------|------|------|------|------|------|------|------|
-|[https://www.ambassadeursconferentie.nl](https://www.ambassadeursconferentie.nl)| $${\color{green}A+}$$ |nginx| |:white_check_mark: | |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Cloudflare HSTS|
-|[https://ambassadeursconferentie.nl](https://ambassadeursconferentie.nl)| $${\color{green}A+}$$ |nginx| |:white_check_mark: | |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Cloudflare HSTS|
+|[https://www.ambassadeursconferentie.nl](https://www.ambassadeursconferentie.nl)| $${\color{green}A+}$$ |nginx| |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Cloudflare HSTS|
+|[https://ambassadeursconferentie.nl](https://ambassadeursconferentie.nl)| $${\color{green}A+}$$ |nginx| |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Cloudflare HSTS|
