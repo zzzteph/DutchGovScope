@@ -10,7 +10,7 @@
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
 |[https://english.minbzk.nl](https://english.minbzk.nl)| |nginx| | | | | |:white_check_mark: |Nginx|403 Forbidden|
-|[https://mft-e.minbzk.nl](https://mft-e.minbzk.nl)| |SecureTransport...|:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS||
+|[https://mft-e.minbzk.nl](https://mft-e.minbzk.nl)| |SecureTransport...|:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Basic HSTS|Error 401 Unauth...|
 |[https://www.minbzk.nl](https://www.minbzk.nl)| |Microsoft-IIS/10...| |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS IIS:10.0 Wi...|Document Moved|
 |[https://minbzk.nl](https://minbzk.nl)| |Microsoft-IIS/10...| |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS IIS:10.0 Wi...|Document Moved|
 |[https://prisma.minbzk.nl](https://prisma.minbzk.nl)| |Apache|:warning: |:white_check_mark: | |:white_check_mark: | |:white_check_mark: |Apache HTTP Serv...||
