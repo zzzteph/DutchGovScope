@@ -10,7 +10,7 @@
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
 |[https://beheer.bodemrichtlijn.nl](https://beheer.bodemrichtlijn.nl)| |Microsoft-IIS/10...|:warning: | | | | |:white_check_mark: |Azure IIS:10.0 M...|Object moved|
-|[https://linkmanager.bodemrichtlijn.nl](https://linkmanager.bodemrichtlijn.nl)| |Microsoft-IIS/10...|:warning: | | | | |:white_check_mark: |Azure IIS:10.0 M...|Object moved|
+|[https://linkmanager.bodemrichtlijn.nl](https://linkmanager.bodemrichtlijn.nl)| |Microsoft-IIS/10...|:o: | | | | |:white_check_mark: |Azure IIS:10.0 M...|Object moved|
 |[https://vizier.bodemrichtlijn.nl](https://vizier.bodemrichtlijn.nl)| || | | | | |:white_check_mark: ||Microsoft Azure...|
 |[https://www.bodemrichtlijn.nl](https://www.bodemrichtlijn.nl)| |Microsoft-IIS/10...| | | | | |:white_check_mark: |IIS:10.0 Microso...|Home | Bodemrich...|
 |[https://ondergrondvizier.bodemrichtlijn.nl](https://ondergrondvizier.bodemrichtlijn.nl)| || | | | | |:white_check_mark: ||Microsoft Azure...|

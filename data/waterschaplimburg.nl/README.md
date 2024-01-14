@@ -23,7 +23,7 @@
 |[https://mail.waterschaplimburg.nl](https://mail.waterschaplimburg.nl)| |Microsoft-IIS/8....| | | |:white_check_mark: | |:white_check_mark: |IIS:8.5 Windows...||
 |[https://spapps.waterschaplimburg.nl](https://spapps.waterschaplimburg.nl)| |nginx| | | | | |:white_check_mark: |Nginx|TransIP - Reserv...|
 |[https://cms-eef.waterschaplimburg.nl](https://cms-eef.waterschaplimburg.nl)| || |:white_check_mark: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|403 - Forbidden:...|
-|[https://eef.waterschaplimburg.nl](https://eef.waterschaplimburg.nl)| ||:warning: |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS||
+|[https://eef.waterschaplimburg.nl](https://eef.waterschaplimburg.nl)| ||:white_check_mark: |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS||
 |[https://maps.waterschaplimburg.nl](https://maps.waterschaplimburg.nl)| |Microsoft-IIS/10...| | | | | |:white_check_mark: |IIS:10.0 Microso...|403 - Forbidden:...|
 |[http://opwww.waterschaplimburg.nl](http://opwww.waterschaplimburg.nl)| |Microsoft-HTTPAP...| | | | | |:white_check_mark: |Microsoft HTTPAP...|Not Found|
 |[https://formulieren-preprod.waterschaplimburg.nl](https://formulieren-preprod.waterschaplimburg.nl)| |Microsoft-IIS/10...| |:white_check_mark: |:white_check_mark: |:white_check_mark: |:white_check_mark: |IIS:10.0 Windows...||
@@ -35,12 +35,12 @@
 |[http://h2ons.waterschaplimburg.nl](http://h2ons.waterschaplimburg.nl)| |Microsoft-HTTPAP...| | | | | |:white_check_mark: |Microsoft HTTPAP...|Not Found|
 |[https://transfer.waterschaplimburg.nl](https://transfer.waterschaplimburg.nl)| ||:warning: |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Bootstrap HSTS|Waterschap Limbu...|
 |[http://nextcloud.waterschaplimburg.nl](http://nextcloud.waterschaplimburg.nl)| |Microsoft-HTTPAP...| | | | | |:white_check_mark: |Microsoft HTTPAP...|Not Found|
-|[https://subsidie.waterschaplimburg.nl](https://subsidie.waterschaplimburg.nl)| ||:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Bootstrap HSTS M...|Home - Waterscha...|
+|[https://subsidie.waterschaplimburg.nl](https://subsidie.waterschaplimburg.nl)| ||:white_check_mark: |:white_check_mark: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Bootstrap HSTS M...|Home - Waterscha...|
 |[https://digikoppeling.waterschaplimburg.nl](https://digikoppeling.waterschaplimburg.nl)| |unspecified| | | | | |:white_check_mark: |||
 |[https://metelkaar.waterschaplimburg.nl](https://metelkaar.waterschaplimburg.nl)| || |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Microsoft A...|Object moved|
-|[https://redactie.waterschaplimburg.nl](https://redactie.waterschaplimburg.nl)| |-|:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Microsoft A...|Object moved|
+|[https://redactie.waterschaplimburg.nl](https://redactie.waterschaplimburg.nl)| |-|:white_check_mark: |:white_check_mark: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Microsoft A...|Object moved|
 |[https://www.waterschaplimburg.nl](https://www.waterschaplimburg.nl)| |-| |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Google Tag Manag...|Home - Waterscha...|
-|[https://test-eef.waterschaplimburg.nl](https://test-eef.waterschaplimburg.nl)| ||:warning: |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS||
+|[https://test-eef.waterschaplimburg.nl](https://test-eef.waterschaplimburg.nl)| ||:white_check_mark: |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS||
 |[https://open.waterschaplimburg.nl](https://open.waterschaplimburg.nl)| || |:white_check_mark: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Azure Azure Fron...|Home - Waterscha...|
 |[http://zgw.waterschaplimburg.nl](http://zgw.waterschaplimburg.nl)| |Microsoft-HTTPAP...| | | | | |:white_check_mark: |Microsoft HTTPAP...|Not Found|
 |[http://100www.waterschaplimburg.nl](http://100www.waterschaplimburg.nl)| |Microsoft-HTTPAP...| | | | | |:white_check_mark: |Microsoft HTTPAP...|Not Found|

@@ -24,12 +24,12 @@
 |[https://edison.politie.nl](https://edison.politie.nl)| || |:white_check_mark: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|404 Not Found|
 |[https://sso.politie.nl](https://sso.politie.nl)| ||:warning: |:white_check_mark: | |:white_check_mark: | |:white_check_mark: |F5 BigIP HSTS||
 |[https://www.politie.nl](https://www.politie.nl)| || |:white_check_mark: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Bloomreach HSTS|Home | politie.n...|
-|[https://rss.politie.nl](https://rss.politie.nl)| ||:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|302 Found|
+|[https://rss.politie.nl](https://rss.politie.nl)| ||:white_check_mark: |:white_check_mark: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|302 Found|
 |[https://accsso.politie.nl](https://accsso.politie.nl)| ||:warning: |:white_check_mark: | |:white_check_mark: | |:white_check_mark: |F5 BigIP HSTS||
 |[https://aangifte-acc.politie.nl](https://aangifte-acc.politie.nl)| || |:white_check_mark: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|Access Denied|
 |[https://api.acceptatie.politie.nl](https://api.acceptatie.politie.nl)| || |:white_check_mark: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|Access Denied|
 |[https://data.politie.nl](https://data.politie.nl)| |Webserver| |:white_check_mark: |:white_check_mark: | |:white_check_mark: |Bootstrap:3.0.0...|CBS Statline|
-|[https://bu.politie.nl](https://bu.politie.nl)| ||:warning: |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |F5 BigIP HSTS||
+|[https://bu.politie.nl](https://bu.politie.nl)| ||:white_check_mark: |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |F5 BigIP HSTS||
 |[https://kombijde.acceptatie.politie.nl](https://kombijde.acceptatie.politie.nl)| || |:white_check_mark: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|Access Denied|
 |[https://mdc-ras-01.politie.nl](https://mdc-ras-01.politie.nl)| |Apache| |:white_check_mark: |:warning: |:white_check_mark: | |:white_check_mark: |Apache HTTP Serv...|User Portal|
 |[https://c2000-ras01.politie.nl](https://c2000-ras01.politie.nl)| |Apache| |:white_check_mark: |:warning: |:white_check_mark: | |:white_check_mark: |Apache HTTP Serv...|User Portal|

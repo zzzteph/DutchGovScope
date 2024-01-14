@@ -10,6 +10,6 @@
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
 |[https://kennis.fiod.nl](https://kennis.fiod.nl)| ||:warning: |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS||
-|[https://platformafpakken.fiod.nl](https://platformafpakken.fiod.nl)| ||:warning: |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS MySQL PHP W...|Home | Platforma...|
-|[https://www.fiod.nl](https://www.fiod.nl)| ||:warning: |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS MySQL PHP W...|Home | FIOD|
+|[https://platformafpakken.fiod.nl](https://platformafpakken.fiod.nl)| ||:white_check_mark: |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS MySQL PHP W...|Home | Platforma...|
+|[https://www.fiod.nl](https://www.fiod.nl)| ||:white_check_mark: |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS MySQL PHP W...|Home | FIOD|
 |[https://fiod.nl](https://fiod.nl)| || |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|301 Moved Perman...|

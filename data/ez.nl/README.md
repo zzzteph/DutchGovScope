@@ -10,7 +10,7 @@
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
 |[https://exportcontrole.ez.nl](https://exportcontrole.ez.nl)| |nginx| | | | | |:white_check_mark: |Nginx|403 Forbidden|
-|[http://wvaopgave.ez.nl](http://wvaopgave.ez.nl)| $${\color{lightgreen}B}$$ ||:warning: |:white_check_mark: | | | |:white_check_mark: |HSTS||
+|[http://wvaopgave.ez.nl](http://wvaopgave.ez.nl)| $${\color{lightgreen}B}$$ ||:o: |:white_check_mark: | | | |:white_check_mark: |HSTS||
 |[https://dienstenrichtlijn.ez.nl](https://dienstenrichtlijn.ez.nl)| |nginx| | | | | |:white_check_mark: |Nginx|403 Forbidden|
 |[http://innovatie.ez.nl](http://innovatie.ez.nl)| || | | | | |:white_check_mark: |||
 |[http://breedband.ez.nl](http://breedband.ez.nl)| || | | | | |:white_check_mark: |||

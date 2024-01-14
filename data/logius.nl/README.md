@@ -41,7 +41,7 @@
 |[https://kennisbank.logius.nl](https://kennisbank.logius.nl)| |nginx| |:white_check_mark: | | | |:white_check_mark: |Basic HSTS Nginx|401 Authorizatio...|
 |[https://machtigen.digipoort.logius.nl](https://machtigen.digipoort.logius.nl)| || |:white_check_mark: |:white_check_mark: | |:white_check_mark: |HSTS IBM DataPow...||
 |[https://mailing.logius.nl](https://mailing.logius.nl)| |Spotler| |:white_check_mark: | | | |:white_check_mark: |HSTS||
-|[https://mijntokenactiveren.logius.nl](https://mijntokenactiveren.logius.nl)| |nginx|:warning: |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx|302 Found|
+|[https://mijntokenactiveren.logius.nl](https://mijntokenactiveren.logius.nl)| |nginx|:white_check_mark: |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx|302 Found|
 |[https://oinregister.logius.nl](https://oinregister.logius.nl)| || |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|COR|
 |[https://preprod.oinregister.logius.nl](https://preprod.oinregister.logius.nl)| || | | | | |:white_check_mark: |HSTS|COR|
 |[https://prod-dictu.logius.nl](https://prod-dictu.logius.nl)| |nginx| | | | | |:white_check_mark: |Drupal:10 HSTS N...|Home | Forum Sta...|

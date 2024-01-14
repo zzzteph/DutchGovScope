@@ -17,7 +17,7 @@
 |[https://feeds.english.cbg-meb.nl](https://feeds.english.cbg-meb.nl)| $${\color{green}A+}$$ |nginx| |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx||
 |[https://mdm.cbg-meb.nl](https://mdm.cbg-meb.nl)| $${\color{green}A+}$$ |server| | |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: ||302 Found|
 |[https://mdm-t.cbg-meb.nl](https://mdm-t.cbg-meb.nl)| $${\color{green}A+}$$ |server| | |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: ||302 Found|
-|[https://mijnwerkplek.cbg-meb.nl](https://mijnwerkplek.cbg-meb.nl)| $${\color{green}A+}$$ |Microsoft-IIS/10...|:warning: |:white_check_mark: | | | |:white_check_mark: |HSTS IIS:10.0 Mi...|Document Moved|
+|[https://mijnwerkplek.cbg-meb.nl](https://mijnwerkplek.cbg-meb.nl)| $${\color{green}A+}$$ |Microsoft-IIS/10...|:o: |:white_check_mark: | | | |:white_check_mark: |HSTS IIS:10.0 Mi...|Document Moved|
 |[https://opendata.cbg-meb.nl](https://opendata.cbg-meb.nl)| $${\color{green}A+}$$ |nginx| |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx||
 |[https://opendata.english.cbg-meb.nl](https://opendata.english.cbg-meb.nl)| $${\color{green}A+}$$ |nginx| |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx||
 |[https://sts.cbg-meb.nl](https://sts.cbg-meb.nl)| $${\color{lightgreen}B}$$ |Microsoft-HTTPAP...| | | | | |:white_check_mark: |Microsoft HTTPAP...|Not Found|

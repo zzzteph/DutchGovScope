@@ -13,7 +13,7 @@
 |[https://mailing.dus-i.nl](https://mailing.dus-i.nl)| $${\color{green}A+}$$ |nginx| |:white_check_mark: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx|You received ema...|
 |[https://opendata.dus-i.nl](https://opendata.dus-i.nl)| $${\color{green}A+}$$ |nginx| |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx||
 |[https://www.dus-i.nl](https://www.dus-i.nl)| $${\color{green}A+}$$ |nginx| |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Bloomreach HSTS...|Home | Dienst Ui...|
-|[https://www.mijn.dus-i.nl](https://www.mijn.dus-i.nl)| $${\color{lightgreen}B}$$ |BigIP|:warning: |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |F5 BigIP||
+|[https://www.mijn.dus-i.nl](https://www.mijn.dus-i.nl)| $${\color{lightgreen}B}$$ |BigIP|:white_check_mark: |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |F5 BigIP||
 |[https://dus-i.nl](https://dus-i.nl)| $${\color{green}A+}$$ |nginx| |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx|301 Moved Perman...|
 |[https://www.mijntest.dus-i.nl](https://www.mijntest.dus-i.nl)| |Apache| | | | | |:white_check_mark: |Apache HTTP Serv...|302 Found|
 |[https://max.dus-i.nl](https://max.dus-i.nl)| $${\color{green}A+}$$ || |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Basic HSTS|401 Unauthorized|

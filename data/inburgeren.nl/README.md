@@ -11,5 +11,5 @@
 |------------|-------|------|------|------|------|------|------|------|------|------|
 |[https://en.inburgeren.nl](https://en.inburgeren.nl)| || | | | | |:white_check_mark: |Amazon S3 Amazon...||
 |[https://mijn.inburgeren.nl](https://mijn.inburgeren.nl)| || |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS||
-|[https://www.inburgeren.nl](https://www.inburgeren.nl)| ||:warning: |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |Google Tag Manag...|DUO - Inburgeren|
-|[https://inburgeren.nl](https://inburgeren.nl)| ||:warning: |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |Google Tag Manag...|DUO - Inburgeren|
+|[https://www.inburgeren.nl](https://www.inburgeren.nl)| ||:white_check_mark: |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |Google Tag Manag...|DUO - Inburgeren|
+|[https://inburgeren.nl](https://inburgeren.nl)| ||:white_check_mark: |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |Google Tag Manag...|DUO - Inburgeren|

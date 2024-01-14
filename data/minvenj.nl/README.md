@@ -12,7 +12,7 @@
 |[https://acc-ssci-ossplanning.minvenj.nl](https://acc-ssci-ossplanning.minvenj.nl)| |Microsoft-IIS/8....| | | | | |:white_check_mark: |IIS:8.5 Microsof...|403 - Forbidden:...|
 |[https://emrmdm.minvenj.nl](https://emrmdm.minvenj.nl)| |server| | | | | |:white_check_mark: ||302 Found|
 |[http://dwr.gdi.minvenj.nl](http://dwr.gdi.minvenj.nl)| |nginx| | | |:white_check_mark: |:white_check_mark: |:white_check_mark: |Nginx|Welcome to nginx...|
-|[https://cparegister.minvenj.nl](https://cparegister.minvenj.nl)| |nginx|:warning: |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Bootstrap Django...|Home –...|
+|[https://cparegister.minvenj.nl](https://cparegister.minvenj.nl)| |nginx|:white_check_mark: |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Bootstrap Django...|Home –...|
 |[https://dtv.connect.minvenj.nl](https://dtv.connect.minvenj.nl)| || |:white_check_mark: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS||
 |[http://pdw.gdi.minvenj.nl](http://pdw.gdi.minvenj.nl)| |nginx| | | |:white_check_mark: |:white_check_mark: |:white_check_mark: |Nginx|Welcome to nginx...|
 |[https://www.minvenj.nl](https://www.minvenj.nl)| || |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS||

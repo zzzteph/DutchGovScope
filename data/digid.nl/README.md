@@ -24,14 +24,14 @@
 |[https://login.pp1.digid.nl](https://login.pp1.digid.nl)| || |:white_check_mark: |:white_check_mark: | |:white_check_mark: |HSTS|DigiD - Pagina n...|
 |[https://login.pp2.digid.nl](https://login.pp2.digid.nl)| || |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |||
 |[https://machtigen.digid.nl](https://machtigen.digid.nl)| |Apache| |:white_check_mark: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache HTTP Serv...|DigiD Machtigen|
-|[https://mijn.digid.nl](https://mijn.digid.nl)| ||:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Ruby Ruby o...||
-|[https://mijn.preprod1.digid.nl](https://mijn.preprod1.digid.nl)| ||:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Ruby Ruby o...||
-|[https://mijn.preprod2.digid.nl](https://mijn.preprod2.digid.nl)| ||:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Ruby Ruby o...||
+|[https://mijn.digid.nl](https://mijn.digid.nl)| ||:white_check_mark: |:white_check_mark: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Ruby Ruby o...||
+|[https://mijn.preprod1.digid.nl](https://mijn.preprod1.digid.nl)| ||:white_check_mark: |:white_check_mark: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Ruby Ruby o...||
+|[https://mijn.preprod2.digid.nl](https://mijn.preprod2.digid.nl)| ||:white_check_mark: |:white_check_mark: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Ruby Ruby o...||
 |[https://pp1.machtigen.digid.nl](https://pp1.machtigen.digid.nl)| |Apache| |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache HTTP Serv...|DigiD Machtigen|
 |[https://preprod1.digid.nl](https://preprod1.digid.nl)| || |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |||
-|[https://preprod2.digid.nl](https://preprod2.digid.nl)| ||:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS||
+|[https://preprod2.digid.nl](https://preprod2.digid.nl)| ||:white_check_mark: |:white_check_mark: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS||
 |[https://rda.digid.nl](https://rda.digid.nl)| || |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |||
-|[https://rda-preprod1.digid.nl](https://rda-preprod1.digid.nl)| ||:warning: |:white_check_mark: | | | |:white_check_mark: |HSTS|DigiD - Pagina n...|
+|[https://rda-preprod1.digid.nl](https://rda-preprod1.digid.nl)| ||:white_check_mark: |:white_check_mark: | | | |:white_check_mark: |HSTS|DigiD - Pagina n...|
 |[https://statistiek.digid.nl](https://statistiek.digid.nl)| |nginx| |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx|403 Forbidden|
 |[https://statistiek.machtigen.digid.nl](https://statistiek.machtigen.digid.nl)| |nginx| |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx|403 Forbidden|
 |[https://was.digid.nl](https://was.digid.nl)| || | | | | |:white_check_mark: |||

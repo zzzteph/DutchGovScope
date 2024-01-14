@@ -9,7 +9,7 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://acceptatie.meldpuntbodemkwaliteit.nl](https://acceptatie.meldpuntbodemkwaliteit.nl)| ||:warning: |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Microsoft A...|Redirecting...|
-|[https://test.meldpuntbodemkwaliteit.nl](https://test.meldpuntbodemkwaliteit.nl)| ||:warning: |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Microsoft A...|Redirecting...|
-|[https://www.meldpuntbodemkwaliteit.nl](https://www.meldpuntbodemkwaliteit.nl)| ||:warning: |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS||
-|[https://meldpuntbodemkwaliteit.nl](https://meldpuntbodemkwaliteit.nl)| ||:warning: |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Microsoft A...|Redirecting...|
+|[https://acceptatie.meldpuntbodemkwaliteit.nl](https://acceptatie.meldpuntbodemkwaliteit.nl)| ||:white_check_mark: |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Microsoft A...|Redirecting...|
+|[https://test.meldpuntbodemkwaliteit.nl](https://test.meldpuntbodemkwaliteit.nl)| ||:white_check_mark: |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Microsoft A...|Redirecting...|
+|[https://www.meldpuntbodemkwaliteit.nl](https://www.meldpuntbodemkwaliteit.nl)| ||:white_check_mark: |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS||
+|[https://meldpuntbodemkwaliteit.nl](https://meldpuntbodemkwaliteit.nl)| ||:white_check_mark: |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Microsoft A...|Redirecting...|

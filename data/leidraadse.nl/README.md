@@ -11,5 +11,5 @@
 |------------|-------|------|------|------|------|------|------|------|------|------|
 |[https://mail.leidraadse.nl](https://mail.leidraadse.nl)| |Apache| | | | | |:white_check_mark: |Apache HTTP Serv...|Default Parallel...|
 |[https://webmail.leidraadse.nl](https://webmail.leidraadse.nl)| |Apache| | | | | |:white_check_mark: |Apache HTTP Serv...|Internal Error|
-|[https://www.leidraadse.nl](https://www.leidraadse.nl)| |Apache|:warning: | | | | |:white_check_mark: |Apache HTTP Serv...|Welkom | Leidraa...|
-|[https://leidraadse.nl](https://leidraadse.nl)| |Apache|:warning: | | | | |:white_check_mark: |Apache HTTP Serv...|Welkom | Leidraa...|
+|[https://www.leidraadse.nl](https://www.leidraadse.nl)| |Apache|:o: | | | | |:white_check_mark: |Apache HTTP Serv...|Welkom | Leidraa...|
+|[https://leidraadse.nl](https://leidraadse.nl)| |Apache|:o: | | | | |:white_check_mark: |Apache HTTP Serv...|Welkom | Leidraa...|

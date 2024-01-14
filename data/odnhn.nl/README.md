@@ -10,14 +10,14 @@
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
 |[https://enterpriseenrollment.odnhn.nl](https://enterpriseenrollment.odnhn.nl)| || | | | | |:white_check_mark: |HSTS||
-|[https://www.odnhn.nl](https://www.odnhn.nl)| ||:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache Tomcat Gr...|Home - OD NHN|
-|[https://intranet.odnhn.nl](https://intranet.odnhn.nl)| ||:warning: |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS||
+|[https://www.odnhn.nl](https://www.odnhn.nl)| ||:white_check_mark: |:white_check_mark: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache Tomcat Gr...|Home - OD NHN|
+|[https://intranet.odnhn.nl](https://intranet.odnhn.nl)| ||:white_check_mark: |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS||
 |[https://test-cmsintranet.odnhn.nl](https://test-cmsintranet.odnhn.nl)| || |:white_check_mark: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|403 - Forbidden:...|
 |[https://vpn.odnhn.nl](https://vpn.odnhn.nl)| |xxxxxxxx-xxxxx| |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS||
 |[https://liquit.odnhn.nl](https://liquit.odnhn.nl)| |Microsoft-HTTPAP...| | | | | |:white_check_mark: |Bootstrap:4 HSTS...|Liquit Workspace|
 |[https://cmsintranet.odnhn.nl](https://cmsintranet.odnhn.nl)| || |:white_check_mark: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|403 - Forbidden:...|
-|[https://odnhn.nl](https://odnhn.nl)| ||:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |:white_check_mark: |||
+|[https://odnhn.nl](https://odnhn.nl)| ||:white_check_mark: |:white_check_mark: |:white_check_mark: |:white_check_mark: |:white_check_mark: |||
 |[https://bestandverzenden.odnhn.nl](https://bestandverzenden.odnhn.nl)| || |:white_check_mark: |:warning: | |:white_check_mark: |:white_check_mark: |HSTS||
-|[https://mailing.odnhn.nl](https://mailing.odnhn.nl)| |Apache|:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache HTTP Serv...||
+|[https://mailing.odnhn.nl](https://mailing.odnhn.nl)| |Apache|:white_check_mark: |:white_check_mark: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache HTTP Serv...||
 |[https://ktatest.odnhn.nl](https://ktatest.odnhn.nl)| |Microsoft-IIS/10...| | | | | |:white_check_mark: |IIS:10.0 Microso...|IIS Windows Serv...|
 |[https://ktaprod.odnhn.nl](https://ktaprod.odnhn.nl)| |Microsoft-IIS/10...| | | | | |:white_check_mark: |IIS:10.0 Microso...|IIS Windows Serv...|

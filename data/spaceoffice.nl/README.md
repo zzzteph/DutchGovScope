@@ -9,6 +9,6 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://g4aw.spaceoffice.nl](https://g4aw.spaceoffice.nl)| |lighttpd/1.4.63|:warning: | | | | |:white_check_mark: |lighttpd:1.4.63||
-|[https://www.spaceoffice.nl](https://www.spaceoffice.nl)| |lighttpd|:warning: | | | | |:white_check_mark: |PHP lighttpd||
-|[https://spaceoffice.nl](https://spaceoffice.nl)| |lighttpd|:warning: | | | | |:white_check_mark: |PHP lighttpd||
+|[https://g4aw.spaceoffice.nl](https://g4aw.spaceoffice.nl)| |lighttpd/1.4.63|:o: | | | | |:white_check_mark: |lighttpd:1.4.63||
+|[https://www.spaceoffice.nl](https://www.spaceoffice.nl)| |lighttpd|:o: | | | | |:white_check_mark: |PHP lighttpd||
+|[https://spaceoffice.nl](https://spaceoffice.nl)| |lighttpd|:o: | | | | |:white_check_mark: |PHP lighttpd||

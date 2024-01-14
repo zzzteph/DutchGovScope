@@ -12,20 +12,20 @@
 |[http://stats.hogeraad.nl](http://stats.hogeraad.nl)| || | | | | |:white_check_mark: |||
 |[https://desktop.hogeraad.nl](https://desktop.hogeraad.nl)| || |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS||
 |[http://asts.hogeraad.nl](http://asts.hogeraad.nl)| || | | | | |:white_check_mark: |||
-|[https://mijnzaak.hogeraad.nl](https://mijnzaak.hogeraad.nl)| ||:warning: |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|Object moved|
+|[https://mijnzaak.hogeraad.nl](https://mijnzaak.hogeraad.nl)| ||:white_check_mark: |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|Object moved|
 |[https://mobiel.hogeraad.nl](https://mobiel.hogeraad.nl)| |server| |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|302 Found|
 |[https://siam.hogeraad.nl](https://siam.hogeraad.nl)| |N.A.| |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Bootstrap HSTS|Hoge Raad der Ne...|
 |[http://wolk.hogeraad.nl](http://wolk.hogeraad.nl)| || | | | | |:white_check_mark: |||
 |[https://auth.hogeraad.nl](https://auth.hogeraad.nl)| || | | | | |:white_check_mark: |||
 |[https://postbus.hogeraad.nl](https://postbus.hogeraad.nl)| || | |:warning: |:white_check_mark: | |:white_check_mark: |HSTS Microsoft A...||
 |[https://apps.hogeraad.nl](https://apps.hogeraad.nl)| || |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |||
-|[https://www-acc.hogeraad.nl](https://www-acc.hogeraad.nl)| |Microsoft-IIS/10...|:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS IIS:10.0 Mi...|Home - Hoge Raad|
-|[https://www.hogeraad.nl](https://www.hogeraad.nl)| |Microsoft-IIS/10...|:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS IIS:10.0 Mi...|Home - Hoge Raad|
+|[https://www-acc.hogeraad.nl](https://www-acc.hogeraad.nl)| |Microsoft-IIS/10...|:white_check_mark: |:white_check_mark: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS IIS:10.0 Mi...|Home - Hoge Raad|
+|[https://www.hogeraad.nl](https://www.hogeraad.nl)| |Microsoft-IIS/10...|:white_check_mark: |:white_check_mark: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS IIS:10.0 Mi...|Home - Hoge Raad|
 |[https://siam-acc.hogeraad.nl](https://siam-acc.hogeraad.nl)| |N.A.| |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Bootstrap HSTS|Hoge Raad der Ne...|
-|[https://sts.hogeraad.nl](https://sts.hogeraad.nl)| ||:warning: | |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Basic||
+|[https://sts.hogeraad.nl](https://sts.hogeraad.nl)| ||:o: | |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Basic||
 |[http://autodiscover.hogeraad.nl](http://autodiscover.hogeraad.nl)| || | | | | |:white_check_mark: |||
 |[https://postbus-acc.hogeraad.nl](https://postbus-acc.hogeraad.nl)| || | | | | |:white_check_mark: |HSTS Microsoft A...||
 |[https://mijnzaak-acc.hogeraad.nl](https://mijnzaak-acc.hogeraad.nl)| || | | | | |:white_check_mark: |HSTS|Object moved|
 |[https://mail.hogeraad.nl](https://mail.hogeraad.nl)| || | |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |||
-|[https://hogeraad.nl](https://hogeraad.nl)| ||:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |:white_check_mark: |||
+|[https://hogeraad.nl](https://hogeraad.nl)| ||:white_check_mark: |:white_check_mark: |:white_check_mark: |:white_check_mark: |:white_check_mark: |||
 |[https://repos.hogeraad.nl](https://repos.hogeraad.nl)| || |:white_check_mark: | | | |:white_check_mark: |HSTS||

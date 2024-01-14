@@ -11,8 +11,8 @@
 |------------|-------|------|------|------|------|------|------|------|------|------|
 |[https://connect.dji.nl](https://connect.dji.nl)| $${\color{green}A+}$$ || |:white_check_mark: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS||
 |[https://connect-acpt.dji.nl](https://connect-acpt.dji.nl)| $${\color{green}A+}$$ || |:white_check_mark: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS||
-|[https://drife-f.dji.nl](https://drife-f.dji.nl)| $${\color{lightgreen}B}$$ |Apache|:warning: |:white_check_mark: |:white_check_mark: | |:white_check_mark: |Apache HTTP Serv...|A-Select Filter...|
-|[https://dvfz.dji.nl](https://dvfz.dji.nl)| $${\color{green}A+}$$ ||:warning: |:white_check_mark: |:warning: |:white_check_mark: | |:white_check_mark: |HSTS Java||
+|[https://drife-f.dji.nl](https://drife-f.dji.nl)| $${\color{lightgreen}B}$$ |Apache|:white_check_mark: |:white_check_mark: |:white_check_mark: | |:white_check_mark: |Apache HTTP Serv...|A-Select Filter...|
+|[https://dvfz.dji.nl](https://dvfz.dji.nl)| $${\color{green}A+}$$ ||:white_check_mark: |:white_check_mark: |:warning: |:white_check_mark: | |:white_check_mark: |HSTS Java||
 |[http://eagle.dji.nl](http://eagle.dji.nl)| || | | | | |:white_check_mark: |||
 |[http://eagle-acc.dji.nl](http://eagle-acc.dji.nl)| || | | | | |:white_check_mark: |||
 |[https://feeds.dji.nl](https://feeds.dji.nl)| $${\color{green}A+}$$ |nginx| |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx||

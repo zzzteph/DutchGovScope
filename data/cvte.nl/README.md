@@ -9,7 +9,7 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://examenplein.cvte.nl](https://examenplein.cvte.nl)| $${\color{green}A+}$$ |Apache|:warning: |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache HTTP Serv...||
+|[https://examenplein.cvte.nl](https://examenplein.cvte.nl)| $${\color{green}A+}$$ |Apache|:white_check_mark: |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache HTTP Serv...||
 |[https://feeds.cvte.nl](https://feeds.cvte.nl)| $${\color{green}A+}$$ |nginx| |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx||
 |[https://mx2.cvte.nl](https://mx2.cvte.nl)| |Microsoft-IIS/10...| | | | | |:white_check_mark: |IIS:10.0 Windows...||
 |[https://opendata.cvte.nl](https://opendata.cvte.nl)| $${\color{green}A+}$$ |nginx| |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx||

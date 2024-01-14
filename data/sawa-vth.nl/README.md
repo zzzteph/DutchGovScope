@@ -9,7 +9,7 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://acceptatie.sawa-vth.nl](https://acceptatie.sawa-vth.nl)| |Microsoft-IIS/10...|:warning: |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS IIS:10.0 Mi...|PowerBrowser 202...|
+|[https://acceptatie.sawa-vth.nl](https://acceptatie.sawa-vth.nl)| |Microsoft-IIS/10...|:white_check_mark: |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS IIS:10.0 Mi...|PowerBrowser 202...|
 |[http://genconnector.sawa-vth.nl](http://genconnector.sawa-vth.nl)| || | | | | |:white_check_mark: |||
 |[https://genconnector-acceptatie.sawa-vth.nl](https://genconnector-acceptatie.sawa-vth.nl)| |Microsoft-IIS/10...| | | | | |:white_check_mark: |HSTS IIS:10.0 Mi...||
 |[https://genconnector-test.sawa-vth.nl](https://genconnector-test.sawa-vth.nl)| |Microsoft-IIS/10...| | | | | |:white_check_mark: |HSTS IIS:10.0 Mi...||
@@ -20,4 +20,4 @@
 |[https://webdav.sawa-vth.nl](https://webdav.sawa-vth.nl)| |NWebDav/0.1.25.0| | | | | |:white_check_mark: |Microsoft ASP.NE...|500 - Internal s...|
 |[https://webdav-acceptatie.sawa-vth.nl](https://webdav-acceptatie.sawa-vth.nl)| |NWebDav/0.1.25.0| | | | | |:white_check_mark: |Microsoft ASP.NE...|500 - Internal s...|
 |[http://www.sawa-vth.nl](http://www.sawa-vth.nl)| || | | | | |:white_check_mark: |||
-|[https://sawa-vth.nl](https://sawa-vth.nl)| |Microsoft-IIS/10...|:warning: |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS IIS:10.0 Mi...|PowerBrowser 202...|
+|[https://sawa-vth.nl](https://sawa-vth.nl)| |Microsoft-IIS/10...|:white_check_mark: |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS IIS:10.0 Mi...|PowerBrowser 202...|

@@ -14,5 +14,5 @@
 |[https://opendata.inspectie-jenv.nl](https://opendata.inspectie-jenv.nl)| |nginx| |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx||
 |[https://www.inspectie-jenv.nl](https://www.inspectie-jenv.nl)| |nginx| |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Bloomreach HSTS...|Home | Inspectie...|
 |[https://zaaksysteem.inspectie-jenv.nl](https://zaaksysteem.inspectie-jenv.nl)| || | | | | |:white_check_mark: |HSTS|Moved|
-|[https://zaaksysteem-acc.inspectie-jenv.nl](https://zaaksysteem-acc.inspectie-jenv.nl)| ||:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|Moved|
+|[https://zaaksysteem-acc.inspectie-jenv.nl](https://zaaksysteem-acc.inspectie-jenv.nl)| ||:white_check_mark: |:white_check_mark: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|Moved|
 |[https://inspectie-jenv.nl](https://inspectie-jenv.nl)| |nginx| |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx|301 Moved Perman...|

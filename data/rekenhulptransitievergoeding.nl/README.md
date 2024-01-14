@@ -9,5 +9,5 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://www.rekenhulptransitievergoeding.nl](https://www.rekenhulptransitievergoeding.nl)| |Apache|:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache HTTP Serv...|Stap 1/5 | Trans...|
-|[https://rekenhulptransitievergoeding.nl](https://rekenhulptransitievergoeding.nl)| |Apache|:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache HTTP Serv...|Stap 1/5 | Trans...|
+|[https://www.rekenhulptransitievergoeding.nl](https://www.rekenhulptransitievergoeding.nl)| |Apache|:white_check_mark: |:white_check_mark: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache HTTP Serv...|Stap 1/5 | Trans...|
+|[https://rekenhulptransitievergoeding.nl](https://rekenhulptransitievergoeding.nl)| |Apache|:white_check_mark: |:white_check_mark: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache HTTP Serv...|Stap 1/5 | Trans...|

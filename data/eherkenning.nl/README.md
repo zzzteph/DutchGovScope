@@ -18,7 +18,7 @@
 |[https://digidentity-staging.sso.eherkenning.nl](https://digidentity-staging.sso.eherkenning.nl)| $${\color{green}A+}$$ || | | | | |:white_check_mark: |HSTS||
 |[https://digidentity.sso.eherkenning.nl](https://digidentity.sso.eherkenning.nl)| $${\color{green}A+}$$ || | | | | |:white_check_mark: |HSTS||
 |[https://extranet.eherkenning.nl](https://extranet.eherkenning.nl)| $${\color{green}A+}$$ || |:white_check_mark: | | | |:white_check_mark: |HSTS|404 Not Found|
-|[https://issues.eherkenning.nl](https://issues.eherkenning.nl)| $${\color{green}A+}$$ |Apache/2.4.34 (R...|:warning: |:white_check_mark: |:warning: |:white_check_mark: | |:white_check_mark: |Apache HTTP Serv...|302 Found|
+|[https://issues.eherkenning.nl](https://issues.eherkenning.nl)| $${\color{green}A+}$$ |Apache/2.4.34 (R...|:white_check_mark: |:white_check_mark: |:warning: |:white_check_mark: | |:white_check_mark: |Apache HTTP Serv...|302 Found|
 |[https://kpn-eid-acc.sso.eherkenning.nl](https://kpn-eid-acc.sso.eherkenning.nl)| $${\color{green}A+}$$ |Apache| |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache HTTP Serv...|KPN IDentity Ser...|
 |[https://kpn-eid-pp.sso.eherkenning.nl](https://kpn-eid-pp.sso.eherkenning.nl)| $${\color{green}A+}$$ |Apache| |:white_check_mark: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache HTTP Serv...|KPN IDentity Ser...|
 |[https://kpn-eid.sso.eherkenning.nl](https://kpn-eid.sso.eherkenning.nl)| $${\color{green}A+}$$ |Apache| |:white_check_mark: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache HTTP Serv...|KPN IDentity Ser...|

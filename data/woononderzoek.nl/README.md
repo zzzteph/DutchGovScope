@@ -9,6 +9,6 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://www.woononderzoek.nl](https://www.woononderzoek.nl)| |Microsoft-IIS/10...|:warning: |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Amazon S3 Amazon...|Woononderzoek Ne...|
-|[https://woononderzoek.nl](https://woononderzoek.nl)| |Microsoft-IIS/10...|:warning: |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Amazon S3 Amazon...|Woononderzoek Ne...|
-|[https://2018.woononderzoek.nl](https://2018.woononderzoek.nl)| |Microsoft-IIS/10...|:warning: |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Amazon S3 Amazon...|Woononderzoek Ne...|
+|[https://www.woononderzoek.nl](https://www.woononderzoek.nl)| |Microsoft-IIS/10...|:white_check_mark: |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Amazon S3 Amazon...|Woononderzoek Ne...|
+|[https://woononderzoek.nl](https://woononderzoek.nl)| |Microsoft-IIS/10...|:white_check_mark: |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Amazon S3 Amazon...|Woononderzoek Ne...|
+|[https://2018.woononderzoek.nl](https://2018.woononderzoek.nl)| |Microsoft-IIS/10...|:white_check_mark: |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Amazon S3 Amazon...|Woononderzoek Ne...|

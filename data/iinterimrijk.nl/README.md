@@ -10,4 +10,4 @@
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
 |[https://www.iinterimrijk.nl](https://www.iinterimrijk.nl)| ||:warning: |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |Bootstrap HSTS|Login - I-Interi...|
-|[https://iinterimrijk.nl](https://iinterimrijk.nl)| ||:warning: |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS||
+|[https://iinterimrijk.nl](https://iinterimrijk.nl)| ||:o: |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS||

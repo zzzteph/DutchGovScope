@@ -10,6 +10,6 @@
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
 |[https://leeromgeving.leerportaalienw.nl](https://leeromgeving.leerportaalienw.nl)| |Apache|:warning: |:white_check_mark: | | | |:white_check_mark: |Apache HTTP Serv...|Startpagina | Le...|
-|[https://lms.leerportaalienw.nl](https://lms.leerportaalienw.nl)| |Class|:warning: |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|Access is denied...|
-|[https://www.leerportaalienw.nl](https://www.leerportaalienw.nl)| |Class|:warning: |:white_check_mark: |:warning: | |:white_check_mark: |:white_check_mark: |HSTS||
-|[https://leerportaalienw.nl](https://leerportaalienw.nl)| |Class|:warning: |:white_check_mark: |:warning: | |:white_check_mark: |:white_check_mark: |HSTS||
+|[https://lms.leerportaalienw.nl](https://lms.leerportaalienw.nl)| |Class|:white_check_mark: |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|Access is denied...|
+|[https://www.leerportaalienw.nl](https://www.leerportaalienw.nl)| |Class|:white_check_mark: |:white_check_mark: |:warning: | |:white_check_mark: |:white_check_mark: |HSTS||
+|[https://leerportaalienw.nl](https://leerportaalienw.nl)| |Class|:white_check_mark: |:white_check_mark: |:warning: | |:white_check_mark: |:white_check_mark: |HSTS||

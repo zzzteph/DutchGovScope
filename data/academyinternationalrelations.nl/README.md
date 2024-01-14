@@ -9,5 +9,5 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://www.academyinternationalrelations.nl](https://www.academyinternationalrelations.nl)| |Class|:warning: |:white_check_mark: |:warning: | |:white_check_mark: |:white_check_mark: |HSTS||
-|[https://academyinternationalrelations.nl](https://academyinternationalrelations.nl)| |Class|:warning: |:white_check_mark: |:warning: | |:white_check_mark: |:white_check_mark: |HSTS||
+|[https://www.academyinternationalrelations.nl](https://www.academyinternationalrelations.nl)| |Class|:white_check_mark: |:white_check_mark: |:warning: | |:white_check_mark: |:white_check_mark: |HSTS||
+|[https://academyinternationalrelations.nl](https://academyinternationalrelations.nl)| |Class|:white_check_mark: |:white_check_mark: |:warning: | |:white_check_mark: |:white_check_mark: |HSTS||

@@ -22,8 +22,8 @@
 |[https://media.om.nl](https://media.om.nl)| || |:white_check_mark: | | | |:white_check_mark: |HSTS||
 |[https://strafdossiermh17.acc.om.nl](https://strafdossiermh17.acc.om.nl)| |nginx/1.25.1| | | | | |:white_check_mark: |HSTS Nginx:1.25....|Strafdossier MH1...|
 |[https://om-veld01.om.nl](https://om-veld01.om.nl)| || |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Microsoft A...||
-|[https://verkeer.loket.om.nl](https://verkeer.loket.om.nl)| |Apache|:warning: |:white_check_mark: |:white_check_mark: | |:white_check_mark: |Apache HTTP Serv...|301 Moved Perman...|
-|[https://verkeer.acc.loket.om.nl](https://verkeer.acc.loket.om.nl)| |Apache|:warning: |:white_check_mark: |:white_check_mark: | |:white_check_mark: |Apache HTTP Serv...|301 Moved Perman...|
+|[https://verkeer.loket.om.nl](https://verkeer.loket.om.nl)| |Apache|:white_check_mark: |:white_check_mark: |:white_check_mark: | |:white_check_mark: |Apache HTTP Serv...|301 Moved Perman...|
+|[https://verkeer.acc.loket.om.nl](https://verkeer.acc.loket.om.nl)| |Apache|:white_check_mark: |:white_check_mark: |:white_check_mark: | |:white_check_mark: |Apache HTTP Serv...|301 Moved Perman...|
 |[https://fcvpn.om.nl](https://fcvpn.om.nl)| || |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Microsoft A...||
 |[https://strafdossiermh17.om.nl](https://strafdossiermh17.om.nl)| |nginx/1.25.1| | | | | |:white_check_mark: |HSTS Nginx:1.25....|Strafdossier MH1...|
 |[https://dialin.om.nl](https://dialin.om.nl)| |Microsoft-IIS/10...| | | | | |:white_check_mark: |HSTS IIS:10.0 Wi...|Conferencing Dia...|
@@ -32,5 +32,5 @@
 |[https://sip.om.nl](https://sip.om.nl)| |RTC/6.0| |:white_check_mark: | | | |:white_check_mark: |HSTS||
 |[https://webservices.om.nl](https://webservices.om.nl)| |Microsoft-IIS/10...| | | | | |:white_check_mark: |HSTS IIS:10.0 Wi...||
 |[https://telewerken.om.nl](https://telewerken.om.nl)| ||:warning: |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |Microsoft ASP.NE...||
-|[https://mdm.om.nl](https://mdm.om.nl)| ||:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |:white_check_mark: |||
+|[https://mdm.om.nl](https://mdm.om.nl)| ||:white_check_mark: |:white_check_mark: |:white_check_mark: |:white_check_mark: |:white_check_mark: |||
 |[https://mms-gw.om.nl](https://mms-gw.om.nl)| || |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Microsoft A...||

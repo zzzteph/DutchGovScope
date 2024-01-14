@@ -11,6 +11,6 @@
 |------------|-------|------|------|------|------|------|------|------|------|------|
 |[https://dashboard.geldlessen.nl](https://dashboard.geldlessen.nl)| |Apache/2.4.41 (U...| |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache HTTP Serv...|geldlessen.lesse...|
 |[https://digiles.geldlessen.nl](https://digiles.geldlessen.nl)| |Apache| |:white_check_mark: | | |:white_check_mark: |:white_check_mark: |Apache HTTP Serv...|geldlessen.lesse...|
-|[https://themalessen.geldlessen.nl](https://themalessen.geldlessen.nl)| |Apache/2.4.41 (U...|:warning: |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache HTTP Serv...|Geldlessen - PO...|
+|[https://themalessen.geldlessen.nl](https://themalessen.geldlessen.nl)| |Apache/2.4.41 (U...|:o: |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache HTTP Serv...|Geldlessen - PO...|
 |[https://www.geldlessen.nl](https://www.geldlessen.nl)| |nginx| |:white_check_mark: | | | |:white_check_mark: |Google Tag Manag...|Home - Geldlesse...|
 |[https://geldlessen.nl](https://geldlessen.nl)| |nginx| |:white_check_mark: | | | |:white_check_mark: |HSTS Nginx|301 Moved Perman...|

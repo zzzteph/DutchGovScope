@@ -9,11 +9,11 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://eavgb.aivd.nl](https://eavgb.aivd.nl)| $${\color{green}A+}$$ |nginx|:warning: |:white_check_mark: |:warning: | |:white_check_mark: |:white_check_mark: |HSTS Nginx|302 Found|
-|[https://eavgb-acc.aivd.nl](https://eavgb-acc.aivd.nl)| $${\color{green}A+}$$ |nginx|:warning: |:white_check_mark: |:warning: | |:white_check_mark: |:white_check_mark: |HSTS Nginx|302 Found|
+|[https://eavgb.aivd.nl](https://eavgb.aivd.nl)| $${\color{green}A+}$$ |nginx|:white_check_mark: |:white_check_mark: |:warning: | |:white_check_mark: |:white_check_mark: |HSTS Nginx|302 Found|
+|[https://eavgb-acc.aivd.nl](https://eavgb-acc.aivd.nl)| $${\color{green}A+}$$ |nginx|:white_check_mark: |:white_check_mark: |:warning: | |:white_check_mark: |:white_check_mark: |HSTS Nginx|302 Found|
 |[https://english.aivd.nl](https://english.aivd.nl)| $${\color{green}A+}$$ |nginx| |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Bloomreach HSTS...|Home | AIVD|
-|[https://eovgb.aivd.nl](https://eovgb.aivd.nl)| $${\color{green}A+}$$ |nginx|:warning: |:white_check_mark: | |:white_check_mark: |:white_check_mark: |HSTS Nginx|302 Found|
-|[https://eovgb-acc.aivd.nl](https://eovgb-acc.aivd.nl)| $${\color{green}A+}$$ |nginx|:warning: |:white_check_mark: | |:white_check_mark: |:white_check_mark: |HSTS Nginx|302 Found|
+|[https://eovgb.aivd.nl](https://eovgb.aivd.nl)| $${\color{green}A+}$$ |nginx|:white_check_mark: |:white_check_mark: | |:white_check_mark: |:white_check_mark: |HSTS Nginx|302 Found|
+|[https://eovgb-acc.aivd.nl](https://eovgb-acc.aivd.nl)| $${\color{green}A+}$$ |nginx|:white_check_mark: |:white_check_mark: | |:white_check_mark: |:white_check_mark: |HSTS Nginx|302 Found|
 |[https://feeds.aivd.nl](https://feeds.aivd.nl)| $${\color{green}A+}$$ |nginx| |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx||
 |[https://feeds.english.aivd.nl](https://feeds.english.aivd.nl)| |nginx| |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx||
 |[https://opendata.aivd.nl](https://opendata.aivd.nl)| $${\color{green}A+}$$ |nginx| |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx||

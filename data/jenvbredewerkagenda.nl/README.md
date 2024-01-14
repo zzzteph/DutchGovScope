@@ -9,5 +9,5 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://jenvbredewerkagenda.nl](https://jenvbredewerkagenda.nl)| ||:warning: |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache Tomcat Fo...|jenvbredewerkage...|
-|[https://www.jenvbredewerkagenda.nl](https://www.jenvbredewerkagenda.nl)| ||:warning: |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS||
+|[https://jenvbredewerkagenda.nl](https://jenvbredewerkagenda.nl)| ||:white_check_mark: |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache Tomcat Fo...|jenvbredewerkage...|
+|[https://www.jenvbredewerkagenda.nl](https://www.jenvbredewerkagenda.nl)| ||:white_check_mark: |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS||

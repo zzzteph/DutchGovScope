@@ -13,7 +13,7 @@
 |[https://api.werkenbijdefensie.nl](https://api.werkenbijdefensie.nl)| |Ponos Maximum| | | |:white_check_mark: |:white_check_mark: |:white_check_mark: ||404 Not Found|
 |[https://api.luchtgevechtsleiding.werkenbijdefensie.nl](https://api.luchtgevechtsleiding.werkenbijdefensie.nl)| |nginx| |:white_check_mark: | | | |:white_check_mark: |HSTS Nginx||
 |[https://luchtgevechtsleiding.werkenbijdefensie.nl](https://luchtgevechtsleiding.werkenbijdefensie.nl)| |nginx| |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |Google Tag Manag...|LGL Serious Game...|
-|[https://toolkit.werkenbijdefensie.nl](https://toolkit.werkenbijdefensie.nl)| |Ponos Maximum|:warning: |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|Redirecting to p...|
+|[https://toolkit.werkenbijdefensie.nl](https://toolkit.werkenbijdefensie.nl)| |Ponos Maximum|:white_check_mark: |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|Redirecting to p...|
 |[https://webmail.werkenbijdefensie.nl](https://webmail.werkenbijdefensie.nl)| |Ponos Maximum| | |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |||
 |[https://www.werkenbijdefensie.nl](https://www.werkenbijdefensie.nl)| |Ponos Maximum| |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS||
 |[https://www.luchtgevechtsleiding.werkenbijdefensie.nl](https://www.luchtgevechtsleiding.werkenbijdefensie.nl)| |nginx| |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |Google Tag Manag...|LGL Serious Game...|

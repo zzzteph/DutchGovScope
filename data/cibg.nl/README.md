@@ -29,7 +29,7 @@
 |[http://api.kcc.cibg.nl](http://api.kcc.cibg.nl)| |BigIP| | | | | |:white_check_mark: |F5 BigIP||
 |[https://api.klopt.cibg.nl](https://api.klopt.cibg.nl)| $${\color{green}A}$$ || | | | | |:white_check_mark: ||403 Forbidden|
 |[https://applicationframework.cibg.nl](https://applicationframework.cibg.nl)| |-| | | | | |:white_check_mark: |Basic HSTS||
-|[https://applications.klopt.cibg.nl](https://applications.klopt.cibg.nl)| $${\color{green}A}$$ ||:warning: | | | | |:white_check_mark: |PHP|Agent Desktop Ap...|
+|[https://applications.klopt.cibg.nl](https://applications.klopt.cibg.nl)| $${\color{green}A}$$ ||:white_check_mark: | | | | |:white_check_mark: |PHP|Agent Desktop Ap...|
 |[https://beheer.lir.cibg.nl](https://beheer.lir.cibg.nl)| $${\color{green}A}$$ |-| |:white_check_mark: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS||
 |[https://beheer.lrza.cibg.nl](https://beheer.lrza.cibg.nl)| $${\color{green}A}$$ |-| |:white_check_mark: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS||
 |[https://bestandsportaal.cibg.nl](https://bestandsportaal.cibg.nl)| $${\color{green}A}$$ |-| |:white_check_mark: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|bestandsportaal....|
@@ -45,7 +45,7 @@
 |[https://feeds.cibg.nl](https://feeds.cibg.nl)| $${\color{green}A+}$$ |nginx| |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx||
 |[https://forms.klopt.cibg.nl](https://forms.klopt.cibg.nl)| $${\color{green}A}$$ || | | | | |:white_check_mark: ||404 Not Found|
 |[https://lir.cibg.nl](https://lir.cibg.nl)| $${\color{green}A}$$ |-| |:white_check_mark: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS||
-|[https://manager.klopt.cibg.nl](https://manager.klopt.cibg.nl)| $${\color{green}A}$$ ||:warning: | | | | |:white_check_mark: |||
+|[https://manager.klopt.cibg.nl](https://manager.klopt.cibg.nl)| $${\color{green}A}$$ ||:white_check_mark: | | | | |:white_check_mark: |||
 |[https://meldingen.klopt.cibg.nl](https://meldingen.klopt.cibg.nl)| || | | | | |:white_check_mark: |Amazon ALB Amazo...|Object moved|
 |[https://opendata.cibg.nl](https://opendata.cibg.nl)| $${\color{green}A+}$$ |nginx| |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx||
 |[https://portaal.competent.cibg.nl](https://portaal.competent.cibg.nl)| $${\color{green}A}$$ |-| |:white_check_mark: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS||

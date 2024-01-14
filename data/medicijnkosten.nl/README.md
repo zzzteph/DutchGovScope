@@ -10,6 +10,6 @@
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
 |[https://proto.medicijnkosten.nl](https://proto.medicijnkosten.nl)| |GitHub.com| | | | | |:white_check_mark: |Fastly GitHub Pa...|Medicijnkosten.n...|
-|[https://www.medicijnkosten.nl](https://www.medicijnkosten.nl)| |Solvinity Server|:warning: |:white_check_mark: |:warning: | |:white_check_mark: |:white_check_mark: |Bloomreach HSTS|Medicijnkosten.n...|
+|[https://www.medicijnkosten.nl](https://www.medicijnkosten.nl)| |Solvinity Server|:white_check_mark: |:white_check_mark: |:warning: | |:white_check_mark: |:white_check_mark: |Bloomreach HSTS|Medicijnkosten.n...|
 |[https://www-ac.medicijnkosten.nl](https://www-ac.medicijnkosten.nl)| |Apache| | | | | |:white_check_mark: |Apache HTTP Serv...|401 Unauthorized|
-|[https://medicijnkosten.nl](https://medicijnkosten.nl)| |Apache|:warning: |:white_check_mark: |:warning: | |:white_check_mark: |:white_check_mark: |Apache HTTP Serv...|301 Moved Perman...|
+|[https://medicijnkosten.nl](https://medicijnkosten.nl)| |Apache|:white_check_mark: |:white_check_mark: |:warning: | |:white_check_mark: |:white_check_mark: |Apache HTTP Serv...|301 Moved Perman...|

@@ -9,5 +9,5 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://www.verrekeningneveninkomsten.nl](https://www.verrekeningneveninkomsten.nl)| |Apache|:warning: |:white_check_mark: | |:white_check_mark: | |:white_check_mark: |Apache HTTP Serv...||
-|[https://verrekeningneveninkomsten.nl](https://verrekeningneveninkomsten.nl)| |Apache|:warning: |:white_check_mark: | |:white_check_mark: | |:white_check_mark: |Apache HTTP Serv...||
+|[https://www.verrekeningneveninkomsten.nl](https://www.verrekeningneveninkomsten.nl)| |Apache|:white_check_mark: |:white_check_mark: | |:white_check_mark: | |:white_check_mark: |Apache HTTP Serv...||
+|[https://verrekeningneveninkomsten.nl](https://verrekeningneveninkomsten.nl)| |Apache|:white_check_mark: |:white_check_mark: | |:white_check_mark: | |:white_check_mark: |Apache HTTP Serv...||

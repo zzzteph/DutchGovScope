@@ -9,7 +9,7 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://20210215.nationaleconferentieduurzamemobiliteit.nl](https://20210215.nationaleconferentieduurzamemobiliteit.nl)| |Apache/2|:warning: | | | | |:white_check_mark: |Apache HTTP Serv...|Home - Nationale...|
-|[https://app.nationaleconferentieduurzamemobiliteit.nl](https://app.nationaleconferentieduurzamemobiliteit.nl)| |Apache/2|:warning: |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache HTTP Serv...|Spitz App|
-|[https://nationaleconferentieduurzamemobiliteit.nl](https://nationaleconferentieduurzamemobiliteit.nl)| |Apache/2|:warning: |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache HTTP Serv...|301 Moved Perman...|
-|[https://www.nationaleconferentieduurzamemobiliteit.nl](https://www.nationaleconferentieduurzamemobiliteit.nl)| |Apache/2|:warning: |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache HTTP Serv...|Home - Nationale...|
+|[https://20210215.nationaleconferentieduurzamemobiliteit.nl](https://20210215.nationaleconferentieduurzamemobiliteit.nl)| |Apache/2|:white_check_mark: | | | | |:white_check_mark: |Apache HTTP Serv...|Home - Nationale...|
+|[https://app.nationaleconferentieduurzamemobiliteit.nl](https://app.nationaleconferentieduurzamemobiliteit.nl)| |Apache/2|:white_check_mark: |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache HTTP Serv...|Spitz App|
+|[https://nationaleconferentieduurzamemobiliteit.nl](https://nationaleconferentieduurzamemobiliteit.nl)| |Apache/2|:white_check_mark: |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache HTTP Serv...|301 Moved Perman...|
+|[https://www.nationaleconferentieduurzamemobiliteit.nl](https://www.nationaleconferentieduurzamemobiliteit.nl)| |Apache/2|:white_check_mark: |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache HTTP Serv...|Home - Nationale...|

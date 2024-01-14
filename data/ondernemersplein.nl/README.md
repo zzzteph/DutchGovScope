@@ -14,4 +14,4 @@
 |[https://www.ondernemersplein.nl](https://www.ondernemersplein.nl)| || |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS||
 |[https://opendata.ondernemersplein.nl](https://opendata.ondernemersplein.nl)| |Microsoft-IIS/10...| |:white_check_mark: | | | |:white_check_mark: |HSTS IIS:10.0 Wi...||
 |[https://opendata.acp.ondernemersplein.nl](https://opendata.acp.ondernemersplein.nl)| |Microsoft-IIS/10...| |:white_check_mark: | | | |:white_check_mark: |HSTS IIS:10.0 Wi...||
-|[http://autodiscover.ondernemersplein.nl](http://autodiscover.ondernemersplein.nl)| |Microsoft-IIS/10...|:warning: |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |IIS:10.0 Microso...||
+|[http://autodiscover.ondernemersplein.nl](http://autodiscover.ondernemersplein.nl)| |Microsoft-IIS/10...|:white_check_mark: |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |IIS:10.0 Microso...||

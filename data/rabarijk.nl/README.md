@@ -11,5 +11,5 @@
 |------------|-------|------|------|------|------|------|------|------|------|------|
 |[https://feeds.rabarijk.nl](https://feeds.rabarijk.nl)| |nginx| |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx||
 |[https://opendata.rabarijk.nl](https://opendata.rabarijk.nl)| |nginx| |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx||
-|[https://www.rabarijk.nl](https://www.rabarijk.nl)| |nginx|:warning: |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Bloomreach HSTS...|Home | RABA|
-|[https://rabarijk.nl](https://rabarijk.nl)| |nginx|:warning: |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx||
+|[https://www.rabarijk.nl](https://www.rabarijk.nl)| |nginx|:white_check_mark: |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Bloomreach HSTS...|Home | RABA|
+|[https://rabarijk.nl](https://rabarijk.nl)| |nginx|:white_check_mark: |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx||

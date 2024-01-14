@@ -16,8 +16,8 @@
 |[https://feeds.papiamentu.mijncn.nl](https://feeds.papiamentu.mijncn.nl)| |nginx| |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx||
 |[https://feeds.mijncn.nl](https://feeds.mijncn.nl)| |nginx| |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx||
 |[https://english.mijncn.nl](https://english.mijncn.nl)| |nginx| |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Bloomreach HSTS...|Home | MijnCN|
-|[https://login.mijncn.nl](https://login.mijncn.nl)| ||:warning: |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |||
+|[https://login.mijncn.nl](https://login.mijncn.nl)| ||:white_check_mark: |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |||
 |[https://opendata.mijncn.nl](https://opendata.mijncn.nl)| |nginx| |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx||
 |[https://opendata.english.mijncn.nl](https://opendata.english.mijncn.nl)| |nginx| |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx||
 |[https://mijncn.nl](https://mijncn.nl)| |nginx| |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx|301 Moved Perman...|
-|[https://i-login.mijncn.nl](https://i-login.mijncn.nl)| ||:warning: |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |||
+|[https://i-login.mijncn.nl](https://i-login.mijncn.nl)| ||:white_check_mark: |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |||

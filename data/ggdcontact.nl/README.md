@@ -10,6 +10,6 @@
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
 |[https://www.ggdcontact.nl](https://www.ggdcontact.nl)| |nginx| |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx|302 Found|
-|[https://beheer.ggdcontact.nl](https://beheer.ggdcontact.nl)| ||:warning: |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Ruby Ruby o...|GGD Contact Help...|
+|[https://beheer.ggdcontact.nl](https://beheer.ggdcontact.nl)| ||:white_check_mark: |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Ruby Ruby o...|GGD Contact Help...|
 |[https://ggdcontact.nl](https://ggdcontact.nl)| |nginx| |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx|302 Found|
 |[https://mijn.ggdcontact.nl](https://mijn.ggdcontact.nl)| |nginx| | | | | |:white_check_mark: |HSTS Nginx|302 Found|

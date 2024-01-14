@@ -10,10 +10,10 @@
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
 |[https://insite.nfi.nl](https://insite.nfi.nl)| |Apache| |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache HTTP Serv...||
-|[https://training.nfi.nl](https://training.nfi.nl)| |Microsoft-IIS/10...|:warning: | | | | |:white_check_mark: |IIS:10.0 Microso...|Object moved|
+|[https://training.nfi.nl](https://training.nfi.nl)| |Microsoft-IIS/10...|:white_check_mark: | | | | |:white_check_mark: |IIS:10.0 Microso...|Object moved|
 |[https://mijn.nfi.nl](https://mijn.nfi.nl)| |Apache/2.4.37 (A...| |:white_check_mark: |:white_check_mark: |:white_check_mark: |:white_check_mark: |AlmaLinux Apache...|Redirecting to h...|
 |[https://www.nfi.nl](https://www.nfi.nl)| |Apache| |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache HTTP Serv...|301 Moved Perman...|
-|[https://ontwikkelpunt.nfi.nl](https://ontwikkelpunt.nfi.nl)| |Class|:warning: |:white_check_mark: |:warning: | |:white_check_mark: |:white_check_mark: |HSTS||
+|[https://ontwikkelpunt.nfi.nl](https://ontwikkelpunt.nfi.nl)| |Class|:white_check_mark: |:white_check_mark: |:warning: | |:white_check_mark: |:white_check_mark: |HSTS||
 |[https://testmijn.nfi.nl](https://testmijn.nfi.nl)| |Apache| | | | | |:white_check_mark: |Apache HTTP Serv...|403 Forbidden|
 |[https://nfi.nl](https://nfi.nl)| |Apache| |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache HTTP Serv...|301 Moved Perman...|
 |[https://jep.nfi.nl](https://jep.nfi.nl)| || | | | | |:white_check_mark: |HSTS||

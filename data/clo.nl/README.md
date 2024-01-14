@@ -11,5 +11,5 @@
 |------------|-------|------|------|------|------|------|------|------|------|------|
 |[https://acc-www.clo.nl](https://acc-www.clo.nl)| |Apache| |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache HTTP Serv...|Compendium voor...|
 |[https://tst-www.clo.nl](https://tst-www.clo.nl)| |Apache| |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache HTTP Serv...||
-|[https://www.clo.nl](https://www.clo.nl)| |Apache|:warning: |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache HTTP Serv...|Compendium voor...|
+|[https://www.clo.nl](https://www.clo.nl)| |Apache|:white_check_mark: |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache HTTP Serv...|Compendium voor...|
 |[https://clo.nl](https://clo.nl)| |Apache| |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache HTTP Serv...|301 Moved Perman...|

@@ -9,10 +9,10 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://acc.bronhouderportaal-bro.nl](https://acc.bronhouderportaal-bro.nl)| |nginx/1.25.3|:warning: |:white_check_mark: |:warning: | |:white_check_mark: |:white_check_mark: |HSTS Nginx:1.25....|Home | Bronhoude...|
+|[https://acc.bronhouderportaal-bro.nl](https://acc.bronhouderportaal-bro.nl)| |nginx/1.25.3|:white_check_mark: |:white_check_mark: |:warning: | |:white_check_mark: |:white_check_mark: |HSTS Nginx:1.25....|Home | Bronhoude...|
 |[https://broker.bronhouderportaal-bro.nl](https://broker.bronhouderportaal-bro.nl)| || |:white_check_mark: | | | |:white_check_mark: |HSTS||
 |[https://broker-preprod.bronhouderportaal-bro.nl](https://broker-preprod.bronhouderportaal-bro.nl)| || | | | | |:white_check_mark: |HSTS||
-|[https://demo.bronhouderportaal-bro.nl](https://demo.bronhouderportaal-bro.nl)| |nginx/1.25.3|:warning: |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx:1.25....|Home | Bronhoude...|
+|[https://demo.bronhouderportaal-bro.nl](https://demo.bronhouderportaal-bro.nl)| |nginx/1.25.3|:white_check_mark: |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx:1.25....|Home | Bronhoude...|
 |[https://doc.bronhouderportaal-bro.nl](https://doc.bronhouderportaal-bro.nl)| |Apache| | | | | |:white_check_mark: |Apache HTTP Serv...||
 |[https://doc-acc.bronhouderportaal-bro.nl](https://doc-acc.bronhouderportaal-bro.nl)| |Apache| | | | | |:white_check_mark: |Apache HTTP Serv...||
 |[http://sso.bronhouderportaal-bro.nl](http://sso.bronhouderportaal-bro.nl)| || | | | | |:white_check_mark: |||
@@ -20,5 +20,5 @@
 |[http://sso-acc1.bronhouderportaal-bro.nl](http://sso-acc1.bronhouderportaal-bro.nl)| || | | | | |:white_check_mark: |||
 |[https://sso-acc2.bronhouderportaal-bro.nl](https://sso-acc2.bronhouderportaal-bro.nl)| |Apache| | | | | |:white_check_mark: |Apache HTTP Serv...|403 Forbidden|
 |[http://sso-demo.bronhouderportaal-bro.nl](http://sso-demo.bronhouderportaal-bro.nl)| || | | | | |:white_check_mark: |||
-|[https://www.bronhouderportaal-bro.nl](https://www.bronhouderportaal-bro.nl)| |nginx/1.25.3|:warning: |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx:1.25....|Home | Bronhoude...|
-|[https://bronhouderportaal-bro.nl](https://bronhouderportaal-bro.nl)| |Apache|:warning: |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache HTTP Serv...|301 Moved Perman...|
+|[https://www.bronhouderportaal-bro.nl](https://www.bronhouderportaal-bro.nl)| |nginx/1.25.3|:white_check_mark: |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx:1.25....|Home | Bronhoude...|
+|[https://bronhouderportaal-bro.nl](https://bronhouderportaal-bro.nl)| |Apache|:white_check_mark: |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache HTTP Serv...|301 Moved Perman...|

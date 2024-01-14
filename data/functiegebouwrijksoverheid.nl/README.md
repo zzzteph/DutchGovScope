@@ -9,8 +9,8 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://csoacct.functiegebouwrijksoverheid.nl](https://csoacct.functiegebouwrijksoverheid.nl)| |cloudflare|:warning: |:white_check_mark: | | | |:white_check_mark: |Basic Cloudflare...|Authentication R...|
-|[https://csotest.functiegebouwrijksoverheid.nl](https://csotest.functiegebouwrijksoverheid.nl)| |cloudflare|:warning: |:white_check_mark: | | | |:white_check_mark: |Basic Cloudflare...|Authentication R...|
+|[https://csoacct.functiegebouwrijksoverheid.nl](https://csoacct.functiegebouwrijksoverheid.nl)| |cloudflare|:white_check_mark: |:white_check_mark: | | | |:white_check_mark: |Basic Cloudflare...|Authentication R...|
+|[https://csotest.functiegebouwrijksoverheid.nl](https://csotest.functiegebouwrijksoverheid.nl)| |cloudflare|:white_check_mark: |:white_check_mark: | | | |:white_check_mark: |Basic Cloudflare...|Authentication R...|
 |[https://odc.functiegebouwrijksoverheid.nl](https://odc.functiegebouwrijksoverheid.nl)| || |:white_check_mark: | | | |:white_check_mark: |HSTS||
-|[https://www.functiegebouwrijksoverheid.nl](https://www.functiegebouwrijksoverheid.nl)| |cloudflare|:warning: |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |Bloomreach Boots...|Home - Functiege...|
-|[https://functiegebouwrijksoverheid.nl](https://functiegebouwrijksoverheid.nl)| |cloudflare|:warning: |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |Cloudflare HSTS||
+|[https://www.functiegebouwrijksoverheid.nl](https://www.functiegebouwrijksoverheid.nl)| |cloudflare|:white_check_mark: |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |Bloomreach Boots...|Home - Functiege...|
+|[https://functiegebouwrijksoverheid.nl](https://functiegebouwrijksoverheid.nl)| |cloudflare|:white_check_mark: |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |Cloudflare HSTS||

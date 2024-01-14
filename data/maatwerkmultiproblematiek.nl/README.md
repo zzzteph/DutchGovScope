@@ -9,5 +9,5 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://maatwerkmultiproblematiek.nl](https://maatwerkmultiproblematiek.nl)| ||:warning: |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache Tomcat Fo...|Professionals vo...|
-|[https://www.maatwerkmultiproblematiek.nl](https://www.maatwerkmultiproblematiek.nl)| ||:warning: |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS||
+|[https://maatwerkmultiproblematiek.nl](https://maatwerkmultiproblematiek.nl)| ||:white_check_mark: |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache Tomcat Fo...|Professionals vo...|
+|[https://www.maatwerkmultiproblematiek.nl](https://www.maatwerkmultiproblematiek.nl)| ||:white_check_mark: |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS||

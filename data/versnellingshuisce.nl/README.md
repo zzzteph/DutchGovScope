@@ -11,8 +11,8 @@
 |------------|-------|------|------|------|------|------|------|------|------|------|
 |[https://financiering.versnellingshuisce.nl](https://financiering.versnellingshuisce.nl)| |Apache/2| |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache HTTP Serv...|Nederland Circul...|
 |[https://groei.versnellingshuisce.nl](https://groei.versnellingshuisce.nl)| |Apache/2| | | | | |:white_check_mark: |Apache HTTP Serv...|Groeiprogramma's...|
-|[https://versnellingspartner.versnellingshuisce.nl](https://versnellingspartner.versnellingshuisce.nl)| |Apache/2|:warning: | | | | |:white_check_mark: |Apache HTTP Serv...|Vind de juiste V...|
-|[https://www.versnellingshuisce.nl](https://www.versnellingshuisce.nl)| |LinQhost HPW|:warning: | | |:white_check_mark: |:white_check_mark: |:white_check_mark: ||301 Moved Perman...|
+|[https://versnellingspartner.versnellingshuisce.nl](https://versnellingspartner.versnellingshuisce.nl)| |Apache/2|:white_check_mark: | | | | |:white_check_mark: |Apache HTTP Serv...|Vind de juiste V...|
+|[https://www.versnellingshuisce.nl](https://www.versnellingshuisce.nl)| |LinQhost HPW|:o: | | |:white_check_mark: |:white_check_mark: |:white_check_mark: ||301 Moved Perman...|
 |[https://www.financiering.versnellingshuisce.nl](https://www.financiering.versnellingshuisce.nl)| |Apache/2| |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache HTTP Serv...|301 Moved Perman...|
 |[https://www.groei.versnellingshuisce.nl](https://www.groei.versnellingshuisce.nl)| |Apache/2| | | | | |:white_check_mark: |Apache HTTP Serv...||
-|[https://versnellingshuisce.nl](https://versnellingshuisce.nl)| |LinQhost HPW|:warning: | | |:white_check_mark: |:white_check_mark: |:white_check_mark: |Alpine.js Google...|Versnellingshuis...|
+|[https://versnellingshuisce.nl](https://versnellingshuisce.nl)| |LinQhost HPW|:o: | | |:white_check_mark: |:white_check_mark: |:white_check_mark: |Alpine.js Google...|Versnellingshuis...|

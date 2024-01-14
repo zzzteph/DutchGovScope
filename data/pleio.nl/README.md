@@ -12,14 +12,14 @@
 |[https://a20dag.pleio.nl](https://a20dag.pleio.nl)| || |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|Domeinnaam nog n...|
 |[https://a20dag2012.pleio.nl](https://a20dag2012.pleio.nl)| || |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|Domeinnaam nog n...|
 |[https://aanpakadreskwaliteit.pleio.nl](https://aanpakadreskwaliteit.pleio.nl)| || |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|Domeinnaam nog n...|
-|[https://account.pleio.nl](https://account.pleio.nl)| ||:warning: |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS||
+|[https://account.pleio.nl](https://account.pleio.nl)| ||:white_check_mark: |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS||
 |[https://admin.pleio.nl](https://admin.pleio.nl)| || |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|Domeinnaam nog n...|
 |[https://agendalaadinfrastructuur.pleio.nl](https://agendalaadinfrastructuur.pleio.nl)| || |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|Domeinnaam nog n...|
 |[https://agile-overheid.pleio.nl](https://agile-overheid.pleio.nl)| || |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|Domeinnaam nog n...|
 |[https://ambtenaar20.pleio.nl](https://ambtenaar20.pleio.nl)| || |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|Domeinnaam nog n...|
-|[https://archiefwiki.pleio.nl](https://archiefwiki.pleio.nl)| ||:warning: |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|302 Found|
+|[https://archiefwiki.pleio.nl](https://archiefwiki.pleio.nl)| ||:white_check_mark: |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|302 Found|
 |[https://asceindhoven.pleio.nl](https://asceindhoven.pleio.nl)| || |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|Domeinnaam nog n...|
-|[https://avg.pleio.nl](https://avg.pleio.nl)| ||:warning: |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS||
+|[https://avg.pleio.nl](https://avg.pleio.nl)| ||:white_check_mark: |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS||
 |[https://aws.pleio.nl](https://aws.pleio.nl)| || |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|Domeinnaam nog n...|
 |[https://banaan.pleio.nl](https://banaan.pleio.nl)| || |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|Domeinnaam nog n...|
 |[https://beheer.odc.pleio.nl](https://beheer.odc.pleio.nl)| || | | | | |:white_check_mark: |HSTS|404 Not Found|
@@ -40,13 +40,13 @@
 |[https://cett.pleio.nl](https://cett.pleio.nl)| || |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|Domeinnaam nog n...|
 |[https://chat-dashboard.pleio.nl](https://chat-dashboard.pleio.nl)| ||:warning: |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Ruby Ruby o...|Chatwoot|
 |[https://chatmigrate.pleio.nl](https://chatmigrate.pleio.nl)| || |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|Domeinnaam nog n...|
-|[https://cip.pleio.nl](https://cip.pleio.nl)| ||:warning: |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache Tomcat Fo...|CIP.Pleio|
+|[https://cip.pleio.nl](https://cip.pleio.nl)| ||:white_check_mark: |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache Tomcat Fo...|CIP.Pleio|
 |[https://cip.odc.pleio.nl](https://cip.odc.pleio.nl)| || | | | | |:white_check_mark: |HSTS|404 Not Found|
 |[https://commonground.pleio.nl](https://commonground.pleio.nl)| || |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|Domeinnaam nog n...|
 |[https://cpf.odc.pleio.nl](https://cpf.odc.pleio.nl)| || | | | | |:white_check_mark: |HSTS|404 Not Found|
 |[https://datahub.pleio.nl](https://datahub.pleio.nl)| ||:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|RVO — Offshore W...|
-|[https://dbgb.pleio.nl](https://dbgb.pleio.nl)| ||:warning: |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS||
-|[https://de.pleio.nl](https://de.pleio.nl)| ||:warning: |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache Tomcat Fo...|Deutschsprachige...|
+|[https://dbgb.pleio.nl](https://dbgb.pleio.nl)| ||:white_check_mark: |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS||
+|[https://de.pleio.nl](https://de.pleio.nl)| ||:white_check_mark: |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache Tomcat Fo...|Deutschsprachige...|
 |[https://deltaprogramma.pleio.nl](https://deltaprogramma.pleio.nl)| || |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|Domeinnaam nog n...|
 |[https://demo.odc.pleio.nl](https://demo.odc.pleio.nl)| || | | | | |:white_check_mark: |HSTS|404 Not Found|
 |[https://digikoppeling.pleio.nl](https://digikoppeling.pleio.nl)| || |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|Domeinnaam nog n...|
@@ -60,18 +60,18 @@
 |[https://eclo.odc.pleio.nl](https://eclo.odc.pleio.nl)| || | | | | |:white_check_mark: |HSTS|404 Not Found|
 |[https://elabel.pleio.nl](https://elabel.pleio.nl)| || |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|Domeinnaam nog n...|
 |[https://energieslag.pleio.nl](https://energieslag.pleio.nl)| || |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|Domeinnaam nog n...|
-|[https://enquetes.pleio.nl](https://enquetes.pleio.nl)| ||:warning: |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |Bootstrap HSTS P...|Pleio Enquête|
+|[https://enquetes.pleio.nl](https://enquetes.pleio.nl)| ||:white_check_mark: |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |Bootstrap HSTS P...|Pleio Enquête|
 |[https://eu.pleio.nl](https://eu.pleio.nl)| || |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|Domeinnaam nog n...|
 |[https://eu.odc.pleio.nl](https://eu.odc.pleio.nl)| || | | | | |:white_check_mark: |HSTS|404 Not Found|
 |[https://eurosai.pleio.nl](https://eurosai.pleio.nl)| || |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|Domeinnaam nog n...|
 |[https://evenmenten.pleio.nl](https://evenmenten.pleio.nl)| || |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|Domeinnaam nog n...|
-|[https://ffd.pleio.nl](https://ffd.pleio.nl)| ||:warning: |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache Tomcat Fo...|Forum Fiscaal Di...|
+|[https://ffd.pleio.nl](https://ffd.pleio.nl)| ||:white_check_mark: |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache Tomcat Fo...|Forum Fiscaal Di...|
 |[https://filesender.pleio.nl](https://filesender.pleio.nl)| || |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|Domeinnaam nog n...|
 |[https://filosofie.pleio.nl](https://filosofie.pleio.nl)| || |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|Domeinnaam nog n...|
-|[https://flow-bbv.pleio.nl](https://flow-bbv.pleio.nl)| ||:warning: |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS||
+|[https://flow-bbv.pleio.nl](https://flow-bbv.pleio.nl)| ||:white_check_mark: |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS||
 |[https://flow-lochem.pleio.nl](https://flow-lochem.pleio.nl)| || |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|Domeinnaam nog n...|
-|[https://fnp.pleio.nl](https://fnp.pleio.nl)| ||:warning: |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache Tomcat Fo...|Forum Notarispra...|
-|[https://formulieren.pleio.nl](https://formulieren.pleio.nl)| ||:warning: |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS||
+|[https://fnp.pleio.nl](https://fnp.pleio.nl)| ||:white_check_mark: |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache Tomcat Fo...|Forum Notarispra...|
+|[https://formulieren.pleio.nl](https://formulieren.pleio.nl)| ||:white_check_mark: |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS||
 |[https://fsa.odc.pleio.nl](https://fsa.odc.pleio.nl)| || | | | | |:white_check_mark: |HSTS|404 Not Found|
 |[https://fsv.pleio.nl](https://fsv.pleio.nl)| || |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|403 Forbidden|
 |[https://fsv-chat.pleio.nl](https://fsv-chat.pleio.nl)| ||:warning: |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Ruby Ruby o...|Chatwoot|
@@ -104,26 +104,26 @@
 |[https://kennisdelenrvo.pleio.nl](https://kennisdelenrvo.pleio.nl)| || |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|Domeinnaam nog n...|
 |[https://kennisdelenrvo.odc.pleio.nl](https://kennisdelenrvo.odc.pleio.nl)| || | | | | |:white_check_mark: |HSTS|404 Not Found|
 |[https://keycloak.pleio.nl](https://keycloak.pleio.nl)| || |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|Domeinnaam nog n...|
-|[https://kia.pleio.nl](https://kia.pleio.nl)| ||:warning: |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache Tomcat Fo...|KIA|
+|[https://kia.pleio.nl](https://kia.pleio.nl)| ||:white_check_mark: |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache Tomcat Fo...|KIA|
 |[https://kia.odc.pleio.nl](https://kia.odc.pleio.nl)| || | | | | |:white_check_mark: |HSTS|404 Not Found|
 |[https://kibana.odc.pleio.nl](https://kibana.odc.pleio.nl)| || | | | | |:white_check_mark: |HSTS|404 Not Found|
 |[https://kie.pleio.nl](https://kie.pleio.nl)| || |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|Domeinnaam nog n...|
-|[https://klassieketalen.pleio.nl](https://klassieketalen.pleio.nl)| ||:warning: |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache Tomcat Fo...|KlassiekeTalen|
+|[https://klassieketalen.pleio.nl](https://klassieketalen.pleio.nl)| ||:white_check_mark: |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache Tomcat Fo...|KlassiekeTalen|
 |[https://kube-prometheus-odcn.pleio.nl](https://kube-prometheus-odcn.pleio.nl)| || |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|403 Forbidden|
 |[https://kubernetes-odc.pleio.nl](https://kubernetes-odc.pleio.nl)| || |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|Domeinnaam nog n...|
 |[https://kubernetes.odc.pleio.nl](https://kubernetes.odc.pleio.nl)| || | | | | |:white_check_mark: |HSTS|404 Not Found|
 |[https://laa.odc.pleio.nl](https://laa.odc.pleio.nl)| || | | | | |:white_check_mark: |HSTS|404 Not Found|
-|[https://learningnetwork.pleio.nl](https://learningnetwork.pleio.nl)| ||:warning: |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache Tomcat Fo...|Learning Network...|
+|[https://learningnetwork.pleio.nl](https://learningnetwork.pleio.nl)| ||:white_check_mark: |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache Tomcat Fo...|Learning Network...|
 |[https://leraar-test.odc.pleio.nl](https://leraar-test.odc.pleio.nl)| || | | | | |:white_check_mark: |HSTS|404 Not Found|
 |[https://leren.pleio.nl](https://leren.pleio.nl)| || |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|503 Service Temp...|
 |[https://lerendeoverheid.pleio.nl](https://lerendeoverheid.pleio.nl)| || |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|Domeinnaam nog n...|
 |[https://lichamelijkeopvoeding.pleio.nl](https://lichamelijkeopvoeding.pleio.nl)| || |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|Domeinnaam nog n...|
-|[https://ln-emff.pleio.nl](https://ln-emff.pleio.nl)| ||:warning: |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache Tomcat Fo...|Learning Network...|
+|[https://ln-emff.pleio.nl](https://ln-emff.pleio.nl)| ||:white_check_mark: |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache Tomcat Fo...|Learning Network...|
 |[https://localbox.pleio.nl](https://localbox.pleio.nl)| || |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|Domeinnaam nog n...|
 |[https://locus.pleio.nl](https://locus.pleio.nl)| || |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|Domeinnaam nog n...|
 |[https://loki-internal.pleio.nl](https://loki-internal.pleio.nl)| || |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|Domeinnaam nog n...|
 |[https://mail.odc.pleio.nl](https://mail.odc.pleio.nl)| || | | | | |:white_check_mark: |HSTS|404 Not Found|
-|[https://manifestgroep.pleio.nl](https://manifestgroep.pleio.nl)| ||:warning: |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS||
+|[https://manifestgroep.pleio.nl](https://manifestgroep.pleio.nl)| ||:white_check_mark: |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS||
 |[https://matomo.pleio.nl](https://matomo.pleio.nl)| || |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|Domeinnaam nog n...|
 |[https://mijndeelsite.pleio.nl](https://mijndeelsite.pleio.nl)| || |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|Domeinnaam nog n...|
 |[https://mijndeelsite.odc.pleio.nl](https://mijndeelsite.odc.pleio.nl)| || | | | | |:white_check_mark: |HSTS|404 Not Found|
@@ -135,8 +135,8 @@
 |[https://networkabroad.odc.pleio.nl](https://networkabroad.odc.pleio.nl)| || | | | | |:white_check_mark: |HSTS|404 Not Found|
 |[https://nieuwsgroepwbb.pleio.nl](https://nieuwsgroepwbb.pleio.nl)| || |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|Domeinnaam nog n...|
 |[https://noordzeecongres.pleio.nl](https://noordzeecongres.pleio.nl)| || |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|Domeinnaam nog n...|
-|[https://npi.pleio.nl](https://npi.pleio.nl)| ||:warning: |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache Tomcat Fo...|Netwerk Politiek...|
-|[https://nvwa.pleio.nl](https://nvwa.pleio.nl)| ||:warning: |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache Tomcat Fo...|NVWA-intranet|
+|[https://npi.pleio.nl](https://npi.pleio.nl)| ||:white_check_mark: |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache Tomcat Fo...|Netwerk Politiek...|
+|[https://nvwa.pleio.nl](https://nvwa.pleio.nl)| ||:white_check_mark: |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache Tomcat Fo...|NVWA-intranet|
 |[https://nvwa.odc.pleio.nl](https://nvwa.odc.pleio.nl)| || | | | | |:white_check_mark: |HSTS|404 Not Found|
 |[https://odc.pleio.nl](https://odc.pleio.nl)| || |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|Domeinnaam nog n...|
 |[https://odcn.pleio.nl](https://odcn.pleio.nl)| || |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|Domeinnaam nog n...|
@@ -151,7 +151,7 @@
 |[https://pretix.odc.pleio.nl](https://pretix.odc.pleio.nl)| || | | | | |:white_check_mark: |HSTS|404 Not Found|
 |[https://proeftuinenmaakverschil.odc.pleio.nl](https://proeftuinenmaakverschil.odc.pleio.nl)| || | | | | |:white_check_mark: |HSTS|404 Not Found|
 |[https://prometheus-vps.pleio.nl](https://prometheus-vps.pleio.nl)| || |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|Domeinnaam nog n...|
-|[https://prplatform.pleio.nl](https://prplatform.pleio.nl)| ||:warning: |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache Tomcat Fo...|PANTA RHEI Digit...|
+|[https://prplatform.pleio.nl](https://prplatform.pleio.nl)| ||:white_check_mark: |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache Tomcat Fo...|PANTA RHEI Digit...|
 |[https://puc.pleio.nl](https://puc.pleio.nl)| || |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|Domeinnaam nog n...|
 |[https://raadswebamstelveen.pleio.nl](https://raadswebamstelveen.pleio.nl)| || |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|Domeinnaam nog n...|
 |[https://reach-aut.pleio.nl](https://reach-aut.pleio.nl)| || |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|Domeinnaam nog n...|
@@ -167,7 +167,7 @@
 |[https://rvothema23.pleio.nl](https://rvothema23.pleio.nl)| || |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|Domeinnaam nog n...|
 |[https://rvothema30.pleio.nl](https://rvothema30.pleio.nl)| || |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|Domeinnaam nog n...|
 |[https://rvothema4.pleio.nl](https://rvothema4.pleio.nl)| || |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|Domeinnaam nog n...|
-|[https://samenwerkenpop3.pleio.nl](https://samenwerkenpop3.pleio.nl)| ||:warning: |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache Tomcat Fo...|Samenwerking Uit...|
+|[https://samenwerkenpop3.pleio.nl](https://samenwerkenpop3.pleio.nl)| ||:white_check_mark: |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache Tomcat Fo...|Samenwerking Uit...|
 |[https://sharedservicesbedrijfsvoering.pleio.nl](https://sharedservicesbedrijfsvoering.pleio.nl)| || |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|Domeinnaam nog n...|
 |[https://singelpark.pleio.nl](https://singelpark.pleio.nl)| || |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|Domeinnaam nog n...|
 |[https://siw.pleio.nl](https://siw.pleio.nl)| || |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|Domeinnaam nog n...|
@@ -175,7 +175,7 @@
 |[https://sjabloon2.pleio.nl](https://sjabloon2.pleio.nl)| || |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|Domeinnaam nog n...|
 |[https://sjabloon3.pleio.nl](https://sjabloon3.pleio.nl)| || |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|Domeinnaam nog n...|
 |[https://sjabloon4.pleio.nl](https://sjabloon4.pleio.nl)| || |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|Domeinnaam nog n...|
-|[https://stats.pleio.nl](https://stats.pleio.nl)| |nginx/1.18.0 (Ub...|:warning: | |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |AngularJS Matomo...|Sign in - Matomo|
+|[https://stats.pleio.nl](https://stats.pleio.nl)| |nginx/1.18.0 (Ub...|:white_check_mark: | |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |AngularJS Matomo...|Sign in - Matomo|
 |[https://status.pleio.nl](https://status.pleio.nl)| |AtlassianEdge| |:white_check_mark: | | |:white_check_mark: |:white_check_mark: |Amazon CloudFron...|Pleio Status|
 |[https://statuspage-bridge.pleio.nl](https://statuspage-bridge.pleio.nl)| || |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|404 Not Found|
 |[https://structuurvisiezh.pleio.nl](https://structuurvisiezh.pleio.nl)| || |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|Domeinnaam nog n...|
@@ -196,23 +196,23 @@
 |[https://vps.pleio.nl](https://vps.pleio.nl)| || |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|Domeinnaam nog n...|
 |[https://vwsnet.pleio.nl](https://vwsnet.pleio.nl)| || |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|Domeinnaam nog n...|
 |[https://vwsnet.odc.pleio.nl](https://vwsnet.odc.pleio.nl)| || | | | | |:white_check_mark: |HSTS|404 Not Found|
-|[https://wfs.pleio.nl](https://wfs.pleio.nl)| ||:warning: |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS||
+|[https://wfs.pleio.nl](https://wfs.pleio.nl)| ||:white_check_mark: |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS||
 |[https://wijbunnik.pleio.nl](https://wijbunnik.pleio.nl)| || |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|Domeinnaam nog n...|
-|[https://www.pleio.nl](https://www.pleio.nl)| ||:warning: |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS||
+|[https://www.pleio.nl](https://www.pleio.nl)| ||:white_check_mark: |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS||
 |[https://www.aansluitingonderwijsarbeidsmarkt.pleio.nl](https://www.aansluitingonderwijsarbeidsmarkt.pleio.nl)| || | | | | |:white_check_mark: |HSTS|404 Not Found|
 |[https://www.bestandendelen.pleio.nl](https://www.bestandendelen.pleio.nl)| || | | | | |:white_check_mark: |HSTS|404 Not Found|
 |[https://www.duocampagnes.pleio.nl](https://www.duocampagnes.pleio.nl)| || | | | | |:white_check_mark: |HSTS|404 Not Found|
 |[https://www.filesender.pleio.nl](https://www.filesender.pleio.nl)| || | | | | |:white_check_mark: |HSTS|404 Not Found|
 |[https://www.fsv.pleio.nl](https://www.fsv.pleio.nl)| || | | | | |:white_check_mark: |HSTS|404 Not Found|
 |[https://www.initiatievenmakelaardij.pleio.nl](https://www.initiatievenmakelaardij.pleio.nl)| || | | | | |:white_check_mark: |HSTS|404 Not Found|
-|[https://www.learningnetwork.pleio.nl](https://www.learningnetwork.pleio.nl)| ||:warning: |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS||
-|[https://www.ln-emff.pleio.nl](https://www.ln-emff.pleio.nl)| ||:warning: |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS||
-|[https://www.prplatform.pleio.nl](https://www.prplatform.pleio.nl)| ||:warning: |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS||
-|[https://www.samenwerkenpop3.pleio.nl](https://www.samenwerkenpop3.pleio.nl)| ||:warning: |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS||
+|[https://www.learningnetwork.pleio.nl](https://www.learningnetwork.pleio.nl)| ||:white_check_mark: |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS||
+|[https://www.ln-emff.pleio.nl](https://www.ln-emff.pleio.nl)| ||:white_check_mark: |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS||
+|[https://www.prplatform.pleio.nl](https://www.prplatform.pleio.nl)| ||:white_check_mark: |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS||
+|[https://www.samenwerkenpop3.pleio.nl](https://www.samenwerkenpop3.pleio.nl)| ||:white_check_mark: |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS||
 |[https://www.statuspage-bridge.pleio.nl](https://www.statuspage-bridge.pleio.nl)| || | | | | |:white_check_mark: |HSTS|404 Not Found|
 |[https://www.uht.pleio.nl](https://www.uht.pleio.nl)| || | | | | |:white_check_mark: |HSTS|404 Not Found|
-|[https://pleio.nl](https://pleio.nl)| ||:warning: |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache Tomcat Fo...|Laagdrempelig sa...|
-|[https://migratieaws.pleio.nl](https://migratieaws.pleio.nl)| ||:warning: |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache Tomcat Fo...|Pleio 2.0|
+|[https://pleio.nl](https://pleio.nl)| ||:white_check_mark: |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache Tomcat Fo...|Laagdrempelig sa...|
+|[https://migratieaws.pleio.nl](https://migratieaws.pleio.nl)| ||:white_check_mark: |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache Tomcat Fo...|Pleio 2.0|
 |[https://bdt.pleio.nl](https://bdt.pleio.nl)| || |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|Domeinnaam nog n...|
 |[https://brandweersed.pleio.nl](https://brandweersed.pleio.nl)| || |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|Domeinnaam nog n...|
 |[https://k3.pleio.nl](https://k3.pleio.nl)| || |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|Domeinnaam nog n...|
@@ -223,7 +223,7 @@
 |[https://www.weerbareoverheid.pleio.nl](https://www.weerbareoverheid.pleio.nl)| || | | | | |:white_check_mark: |HSTS|404 Not Found|
 |[https://programmeringsraadlogius.pleio.nl](https://programmeringsraadlogius.pleio.nl)| || |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|Domeinnaam nog n...|
 |[https://economie.pleio.nl](https://economie.pleio.nl)| || |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|Domeinnaam nog n...|
-|[https://duocampagnes.pleio.nl](https://duocampagnes.pleio.nl)| ||:warning: |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache Tomcat Fo...|DUO campagnes|
+|[https://duocampagnes.pleio.nl](https://duocampagnes.pleio.nl)| ||:white_check_mark: |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache Tomcat Fo...|DUO campagnes|
 |[https://natuurlevenentechnologie.pleio.nl](https://natuurlevenentechnologie.pleio.nl)| || |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|Domeinnaam nog n...|
 |[https://hnwr.pleio.nl](https://hnwr.pleio.nl)| || |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|Domeinnaam nog n...|
 |[https://initiatievenmakelaardij.pleio.nl](https://initiatievenmakelaardij.pleio.nl)| || |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|Domeinnaam nog n...|
@@ -245,7 +245,7 @@
 |[https://baidu.pleio.nl](https://baidu.pleio.nl)| || |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|Domeinnaam nog n...|
 |[https://myhome.pleio.nl](https://myhome.pleio.nl)| || |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|Domeinnaam nog n...|
 |[https://werkenaaneenoverheid.pleio.nl](https://werkenaaneenoverheid.pleio.nl)| || |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|Domeinnaam nog n...|
-|[https://hl.pleio.nl](https://hl.pleio.nl)| ||:warning: |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache Tomcat Fo...|Intranet - Gemee...|
+|[https://hl.pleio.nl](https://hl.pleio.nl)| ||:white_check_mark: |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache Tomcat Fo...|Intranet - Gemee...|
 |[https://bookmarks.pleio.nl](https://bookmarks.pleio.nl)| || |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|Domeinnaam nog n...|
 |[https://k4.pleio.nl](https://k4.pleio.nl)| || |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|Domeinnaam nog n...|
 |[https://blog.pleio.nl](https://blog.pleio.nl)| || |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|Domeinnaam nog n...|
@@ -253,7 +253,7 @@
 |[https://expertisegroep-brm.pleio.nl](https://expertisegroep-brm.pleio.nl)| || |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|Domeinnaam nog n...|
 |[https://gab.pleio.nl](https://gab.pleio.nl)| || |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|Domeinnaam nog n...|
 |[https://levensbeschouwing.pleio.nl](https://levensbeschouwing.pleio.nl)| || |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|Domeinnaam nog n...|
-|[https://drama.pleio.nl](https://drama.pleio.nl)| ||:warning: |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache Tomcat Fo...|Drama|
+|[https://drama.pleio.nl](https://drama.pleio.nl)| ||:white_check_mark: |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache Tomcat Fo...|Drama|
 |[https://provin-cies.pleio.nl](https://provin-cies.pleio.nl)| || |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|Domeinnaam nog n...|
 |[https://trainjerijk.pleio.nl](https://trainjerijk.pleio.nl)| || |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|Domeinnaam nog n...|
 |[https://groepen.pleio.nl](https://groepen.pleio.nl)| || |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|Domeinnaam nog n...|
@@ -261,17 +261,17 @@
 |[https://cn.pleio.nl](https://cn.pleio.nl)| || |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|Domeinnaam nog n...|
 |[https://verenigingvoorklachtrecht.pleio.nl](https://verenigingvoorklachtrecht.pleio.nl)| || |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|Domeinnaam nog n...|
 |[https://gramma.pleio.nl](https://gramma.pleio.nl)| || |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|Domeinnaam nog n...|
-|[https://algoritmes.pleio.nl](https://algoritmes.pleio.nl)| ||:warning: |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache Tomcat Fo...|Algoritmes|
+|[https://algoritmes.pleio.nl](https://algoritmes.pleio.nl)| ||:white_check_mark: |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache Tomcat Fo...|Algoritmes|
 |[https://jeugdzorg.pleio.nl](https://jeugdzorg.pleio.nl)| || |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|Domeinnaam nog n...|
 |[https://prof.pleio.nl](https://prof.pleio.nl)| || |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|Domeinnaam nog n...|
 |[https://werken.pleio.nl](https://werken.pleio.nl)| || |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|Domeinnaam nog n...|
-|[https://haarlem.pleio.nl](https://haarlem.pleio.nl)| ||:warning: |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache Tomcat Fo...|Extranet Haarlem|
+|[https://haarlem.pleio.nl](https://haarlem.pleio.nl)| ||:white_check_mark: |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache Tomcat Fo...|Extranet Haarlem|
 |[https://cascadis.pleio.nl](https://cascadis.pleio.nl)| || |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|Domeinnaam nog n...|
 |[https://mmb-saxion.pleio.nl](https://mmb-saxion.pleio.nl)| || |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|Domeinnaam nog n...|
-|[https://wiz.pleio.nl](https://wiz.pleio.nl)| ||:warning: |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache Tomcat Fo...|Wizie - het soci...|
+|[https://wiz.pleio.nl](https://wiz.pleio.nl)| ||:white_check_mark: |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache Tomcat Fo...|Wizie - het soci...|
 |[https://haarel.pleio.nl](https://haarel.pleio.nl)| || |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|Domeinnaam nog n...|
-|[https://bodem-ondergrond.pleio.nl](https://bodem-ondergrond.pleio.nl)| ||:warning: |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache Tomcat Fo...|Bodem en ondergr...|
-|[https://noracommunity.pleio.nl](https://noracommunity.pleio.nl)| ||:warning: |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache Tomcat Fo...|NORA community|
+|[https://bodem-ondergrond.pleio.nl](https://bodem-ondergrond.pleio.nl)| ||:white_check_mark: |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache Tomcat Fo...|Bodem en ondergr...|
+|[https://noracommunity.pleio.nl](https://noracommunity.pleio.nl)| ||:white_check_mark: |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache Tomcat Fo...|NORA community|
 |[https://forum.pleio.nl](https://forum.pleio.nl)| || |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|Domeinnaam nog n...|
 |[https://aeno.pleio.nl](https://aeno.pleio.nl)| || |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|Domeinnaam nog n...|
 |[https://hh.pleio.nl](https://hh.pleio.nl)| || |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|Domeinnaam nog n...|
@@ -281,40 +281,40 @@
 |[https://maven.pleio.nl](https://maven.pleio.nl)| || |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|Domeinnaam nog n...|
 |[https://demo.pleio.nl](https://demo.pleio.nl)| || |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|Domeinnaam nog n...|
 |[https://www5a.pleio.nl](https://www5a.pleio.nl)| || |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|Domeinnaam nog n...|
-|[https://inclusieve-overheid.pleio.nl](https://inclusieve-overheid.pleio.nl)| ||:warning: |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache Tomcat Fo...|Inclusieve Overh...|
+|[https://inclusieve-overheid.pleio.nl](https://inclusieve-overheid.pleio.nl)| ||:white_check_mark: |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache Tomcat Fo...|Inclusieve Overh...|
 |[https://server1.pleio.nl](https://server1.pleio.nl)| || |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|Domeinnaam nog n...|
 |[https://en.pleio.nl](https://en.pleio.nl)| || |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|Domeinnaam nog n...|
 |[https://www.netwerkvanpubliekedienstverleners.pleio.nl](https://www.netwerkvanpubliekedienstverleners.pleio.nl)| || | | | | |:white_check_mark: |HSTS|404 Not Found|
 |[https://class.pleio.nl](https://class.pleio.nl)| || |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|Domeinnaam nog n...|
 |[https://grenzeloossamen-werken.pleio.nl](https://grenzeloossamen-werken.pleio.nl)| || |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|Domeinnaam nog n...|
 |[https://kennisnetwekdata.pleio.nl](https://kennisnetwekdata.pleio.nl)| || |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|Domeinnaam nog n...|
-|[https://regelbeheer.pleio.nl](https://regelbeheer.pleio.nl)| ||:warning: |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache Tomcat Fo...|Regelbeheersing|
+|[https://regelbeheer.pleio.nl](https://regelbeheer.pleio.nl)| ||:white_check_mark: |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache Tomcat Fo...|Regelbeheersing|
 |[https://digistandaarden.pleio.nl](https://digistandaarden.pleio.nl)| || |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|Domeinnaam nog n...|
-|[https://kleinlef.pleio.nl](https://kleinlef.pleio.nl)| ||:warning: |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache Tomcat Fo...|KleinLef|
-|[https://imd.pleio.nl](https://imd.pleio.nl)| ||:warning: |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS||
-|[https://samenwerkingsplatform-sroks.pleio.nl](https://samenwerkingsplatform-sroks.pleio.nl)| ||:warning: |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache Tomcat Fo...|SROKS|
+|[https://kleinlef.pleio.nl](https://kleinlef.pleio.nl)| ||:white_check_mark: |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache Tomcat Fo...|KleinLef|
+|[https://imd.pleio.nl](https://imd.pleio.nl)| ||:white_check_mark: |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS||
+|[https://samenwerkingsplatform-sroks.pleio.nl](https://samenwerkingsplatform-sroks.pleio.nl)| ||:white_check_mark: |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache Tomcat Fo...|SROKS|
 |[https://rbbgroep.pleio.nl](https://rbbgroep.pleio.nl)| || |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|Domeinnaam nog n...|
 |[https://besluitmetmuisjes.pleio.nl](https://besluitmetmuisjes.pleio.nl)| || |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|Domeinnaam nog n...|
 |[https://deltapro-gramma.pleio.nl](https://deltapro-gramma.pleio.nl)| || |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|Domeinnaam nog n...|
 |[https://demovmbo.pleio.nl](https://demovmbo.pleio.nl)| || |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|Domeinnaam nog n...|
-|[https://edi.pleio.nl](https://edi.pleio.nl)| ||:warning: |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache Tomcat Fo...|Digitale Identit...|
+|[https://edi.pleio.nl](https://edi.pleio.nl)| ||:white_check_mark: |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache Tomcat Fo...|Digitale Identit...|
 |[https://imp.pleio.nl](https://imp.pleio.nl)| || |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|Domeinnaam nog n...|
-|[https://beeldonderwijs.pleio.nl](https://beeldonderwijs.pleio.nl)| ||:warning: |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache Tomcat Fo...|Beeldonderwijs|
-|[https://overheid20.pleio.nl](https://overheid20.pleio.nl)| ||:warning: |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache Tomcat Fo...|Overheid 2.0|
+|[https://beeldonderwijs.pleio.nl](https://beeldonderwijs.pleio.nl)| ||:white_check_mark: |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache Tomcat Fo...|Beeldonderwijs|
+|[https://overheid20.pleio.nl](https://overheid20.pleio.nl)| ||:white_check_mark: |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache Tomcat Fo...|Overheid 2.0|
 |[https://provincia.pleio.nl](https://provincia.pleio.nl)| || |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|Domeinnaam nog n...|
 |[https://com.pleio.nl](https://com.pleio.nl)| || |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|Domeinnaam nog n...|
 |[https://uni.pleio.nl](https://uni.pleio.nl)| || |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|Domeinnaam nog n...|
 |[https://digitaalleermateriaal.pleio.nl](https://digitaalleermateriaal.pleio.nl)| || |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|Domeinnaam nog n...|
 |[https://impuls.pleio.nl](https://impuls.pleio.nl)| || |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|Domeinnaam nog n...|
-|[https://muziek.pleio.nl](https://muziek.pleio.nl)| ||:warning: |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache Tomcat Fo...|Muziek|
+|[https://muziek.pleio.nl](https://muziek.pleio.nl)| ||:white_check_mark: |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache Tomcat Fo...|Muziek|
 |[https://groepenbackup.pleio.nl](https://groepenbackup.pleio.nl)| || |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|Domeinnaam nog n...|
 |[https://www.vrijspelshertogenbosch.pleio.nl](https://www.vrijspelshertogenbosch.pleio.nl)| || | | | | |:white_check_mark: |HSTS|404 Not Found|
 |[https://mks.pleio.nl](https://mks.pleio.nl)| || |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|Domeinnaam nog n...|
-|[https://samenwerken.pleio.nl](https://samenwerken.pleio.nl)| ||:warning: |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache Tomcat Fo...|Grenzeloos samen...|
-|[https://rog.pleio.nl](https://rog.pleio.nl)| ||:warning: |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache Tomcat Fo...|Regie op Gegeven...|
+|[https://samenwerken.pleio.nl](https://samenwerken.pleio.nl)| ||:white_check_mark: |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache Tomcat Fo...|Grenzeloos samen...|
+|[https://rog.pleio.nl](https://rog.pleio.nl)| ||:white_check_mark: |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache Tomcat Fo...|Regie op Gegeven...|
 |[https://www2s.pleio.nl](https://www2s.pleio.nl)| || |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|Domeinnaam nog n...|
-|[https://support.pleio.nl](https://support.pleio.nl)| ||:warning: |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache Tomcat Fo...|Pleio Support|
-|[https://alliantieopenoverheid.pleio.nl](https://alliantieopenoverheid.pleio.nl)| ||:warning: |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache Tomcat Fo...|Alliantie Open O...|
+|[https://support.pleio.nl](https://support.pleio.nl)| ||:white_check_mark: |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache Tomcat Fo...|Pleio Support|
+|[https://alliantieopenoverheid.pleio.nl](https://alliantieopenoverheid.pleio.nl)| ||:white_check_mark: |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache Tomcat Fo...|Alliantie Open O...|
 |[https://kanteling.pleio.nl](https://kanteling.pleio.nl)| || |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|Domeinnaam nog n...|
 |[https://rvothema5.pleio.nl](https://rvothema5.pleio.nl)| || |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|Domeinnaam nog n...|
 |[https://music.pleio.nl](https://music.pleio.nl)| || |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|Domeinnaam nog n...|
@@ -330,7 +330,7 @@
 |[https://opinnovatiewater.pleio.nl](https://opinnovatiewater.pleio.nl)| || |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|Domeinnaam nog n...|
 |[https://rottemerenverandert.pleio.nl](https://rottemerenverandert.pleio.nl)| || |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|Domeinnaam nog n...|
 |[https://www.transitiejeugdzorg.pleio.nl](https://www.transitiejeugdzorg.pleio.nl)| || | | | | |:white_check_mark: |HSTS|404 Not Found|
-|[https://fsa.pleio.nl](https://fsa.pleio.nl)| ||:warning: |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache Tomcat Fo...|Forum Salaris|
+|[https://fsa.pleio.nl](https://fsa.pleio.nl)| ||:white_check_mark: |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache Tomcat Fo...|Forum Salaris|
 |[https://ww5.pleio.nl](https://ww5.pleio.nl)| || |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|Domeinnaam nog n...|
 |[https://innovatiewater.pleio.nl](https://innovatiewater.pleio.nl)| || |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|Domeinnaam nog n...|
 |[https://programma.pleio.nl](https://programma.pleio.nl)| || |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|Domeinnaam nog n...|
@@ -339,8 +339,8 @@
 |[https://app.pleio.nl](https://app.pleio.nl)| || |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|Domeinnaam nog n...|
 |[https://slovari.pleio.nl](https://slovari.pleio.nl)| || |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|Domeinnaam nog n...|
 |[https://resume.pleio.nl](https://resume.pleio.nl)| || |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|Domeinnaam nog n...|
-|[https://fiscaletaxonomie.pleio.nl](https://fiscaletaxonomie.pleio.nl)| ||:warning: |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache Tomcat Fo...|Nederlandse Fisc...|
-|[https://opensource.pleio.nl](https://opensource.pleio.nl)| ||:warning: |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache Tomcat Fo...|Open source|
+|[https://fiscaletaxonomie.pleio.nl](https://fiscaletaxonomie.pleio.nl)| ||:white_check_mark: |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache Tomcat Fo...|Nederlandse Fisc...|
+|[https://opensource.pleio.nl](https://opensource.pleio.nl)| ||:white_check_mark: |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache Tomcat Fo...|Open source|
 |[https://taal.pleio.nl](https://taal.pleio.nl)| || |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|Domeinnaam nog n...|
 |[https://news.pleio.nl](https://news.pleio.nl)| || |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|Domeinnaam nog n...|
 |[https://www.klassieketalen.pleio.nl](https://www.klassieketalen.pleio.nl)| || | | | | |:white_check_mark: |HSTS|404 Not Found|
@@ -360,74 +360,74 @@
 |[https://comune.pleio.nl](https://comune.pleio.nl)| || |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|Domeinnaam nog n...|
 |[https://cse.pleio.nl](https://cse.pleio.nl)| || |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|Domeinnaam nog n...|
 |[https://blogs.pleio.nl](https://blogs.pleio.nl)| || |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|Domeinnaam nog n...|
-|[https://wendbarewetsuitvoering.pleio.nl](https://wendbarewetsuitvoering.pleio.nl)| ||:warning: |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache Tomcat Fo...|Wendbare wetsuit...|
-|[https://linvexo.pleio.nl](https://linvexo.pleio.nl)| ||:warning: |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS||
+|[https://wendbarewetsuitvoering.pleio.nl](https://wendbarewetsuitvoering.pleio.nl)| ||:white_check_mark: |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache Tomcat Fo...|Wendbare wetsuit...|
+|[https://linvexo.pleio.nl](https://linvexo.pleio.nl)| ||:white_check_mark: |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS||
 |[https://cp.pleio.nl](https://cp.pleio.nl)| || |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|Domeinnaam nog n...|
 |[https://wenku.pleio.nl](https://wenku.pleio.nl)| || |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|Domeinnaam nog n...|
 |[https://top2.pleio.nl](https://top2.pleio.nl)| || |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|Domeinnaam nog n...|
 |[https://www7a.pleio.nl](https://www7a.pleio.nl)| || |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|Domeinnaam nog n...|
 |[https://informatieveiligheid.pleio.nl](https://informatieveiligheid.pleio.nl)| || |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|Domeinnaam nog n...|
 |[https://dutchgovernmentpride.pleio.nl](https://dutchgovernmentpride.pleio.nl)| || |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|Domeinnaam nog n...|
-|[https://aardrijkskunde.pleio.nl](https://aardrijkskunde.pleio.nl)| ||:warning: |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache Tomcat Fo...|Aardrijkskunde c...|
+|[https://aardrijkskunde.pleio.nl](https://aardrijkskunde.pleio.nl)| ||:white_check_mark: |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache Tomcat Fo...|Aardrijkskunde c...|
 |[https://union.pleio.nl](https://union.pleio.nl)| || |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|Domeinnaam nog n...|
-|[https://ht.pleio.nl](https://ht.pleio.nl)| ||:warning: |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache Tomcat Fo...|Horizontaal Toez...|
+|[https://ht.pleio.nl](https://ht.pleio.nl)| ||:white_check_mark: |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache Tomcat Fo...|Horizontaal Toez...|
 |[https://jeugdzorg20.pleio.nl](https://jeugdzorg20.pleio.nl)| || |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|Domeinnaam nog n...|
-|[https://realisatieibds.pleio.nl](https://realisatieibds.pleio.nl)| ||:warning: |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache Tomcat Fo...|Realisatie IBDS|
-|[https://weekvandedienstverlening.pleio.nl](https://weekvandedienstverlening.pleio.nl)| ||:warning: |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache Tomcat Fo...|Week van de dien...|
+|[https://realisatieibds.pleio.nl](https://realisatieibds.pleio.nl)| ||:white_check_mark: |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache Tomcat Fo...|Realisatie IBDS|
+|[https://weekvandedienstverlening.pleio.nl](https://weekvandedienstverlening.pleio.nl)| ||:white_check_mark: |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache Tomcat Fo...|Week van de dien...|
 |[https://studiegroepopenbaarbestuur.pleio.nl](https://studiegroepopenbaarbestuur.pleio.nl)| || |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|Domeinnaam nog n...|
-|[https://bdcommunicatie.pleio.nl](https://bdcommunicatie.pleio.nl)| ||:warning: |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache Tomcat Fo...|Communicatieplat...|
+|[https://bdcommunicatie.pleio.nl](https://bdcommunicatie.pleio.nl)| ||:white_check_mark: |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache Tomcat Fo...|Communicatieplat...|
 |[https://www5f.pleio.nl](https://www5f.pleio.nl)| || |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|Domeinnaam nog n...|
 |[https://geleerdenwijk.pleio.nl](https://geleerdenwijk.pleio.nl)| || |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|Domeinnaam nog n...|
 |[https://web.pleio.nl](https://web.pleio.nl)| || |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|Domeinnaam nog n...|
 |[https://gowege.pleio.nl](https://gowege.pleio.nl)| || |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|Domeinnaam nog n...|
 |[https://bip.pleio.nl](https://bip.pleio.nl)| || |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|Domeinnaam nog n...|
 |[https://sites.pleio.nl](https://sites.pleio.nl)| || |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|Domeinnaam nog n...|
-|[https://ambtenarengeschiedenis.pleio.nl](https://ambtenarengeschiedenis.pleio.nl)| ||:warning: |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache Tomcat Fo...|De geschiedenis...|
-|[https://almeersewolunie.pleio.nl](https://almeersewolunie.pleio.nl)| ||:warning: |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache Tomcat Fo...|Almeerse Wolunie...|
+|[https://ambtenarengeschiedenis.pleio.nl](https://ambtenarengeschiedenis.pleio.nl)| ||:white_check_mark: |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache Tomcat Fo...|De geschiedenis...|
+|[https://almeersewolunie.pleio.nl](https://almeersewolunie.pleio.nl)| ||:white_check_mark: |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache Tomcat Fo...|Almeerse Wolunie...|
 |[https://slimmezorg.pleio.nl](https://slimmezorg.pleio.nl)| || |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|Domeinnaam nog n...|
 |[https://vo-content.pleio.nl](https://vo-content.pleio.nl)| || |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|Domeinnaam nog n...|
-|[https://bom.pleio.nl](https://bom.pleio.nl)| ||:warning: |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache Tomcat Fo...|Betrouwbare Over...|
+|[https://bom.pleio.nl](https://bom.pleio.nl)| ||:white_check_mark: |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache Tomcat Fo...|Betrouwbare Over...|
 |[https://kennisbankhhw.pleio.nl](https://kennisbankhhw.pleio.nl)| || |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|Domeinnaam nog n...|
-|[https://deslimmegemeente.pleio.nl](https://deslimmegemeente.pleio.nl)| ||:warning: |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache Tomcat Fo...|De slimme gemeen...|
+|[https://deslimmegemeente.pleio.nl](https://deslimmegemeente.pleio.nl)| ||:white_check_mark: |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache Tomcat Fo...|De slimme gemeen...|
 |[https://fso.pleio.nl](https://fso.pleio.nl)| || |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|Domeinnaam nog n...|
 |[https://pabo.pleio.nl](https://pabo.pleio.nl)| || |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|Domeinnaam nog n...|
-|[https://vso.pleio.nl](https://vso.pleio.nl)| ||:warning: |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS||
+|[https://vso.pleio.nl](https://vso.pleio.nl)| ||:white_check_mark: |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS||
 |[https://delta-programma.pleio.nl](https://delta-programma.pleio.nl)| || |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|Domeinnaam nog n...|
 |[https://gemeenteheerhugowaard.pleio.nl](https://gemeenteheerhugowaard.pleio.nl)| || |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|Domeinnaam nog n...|
-|[https://provincies.pleio.nl](https://provincies.pleio.nl)| ||:warning: |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache Tomcat Fo...|Samenwerkingspla...|
-|[https://img.pleio.nl](https://img.pleio.nl)| ||:warning: |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache Tomcat Fo...|IMG100000+|
+|[https://provincies.pleio.nl](https://provincies.pleio.nl)| ||:white_check_mark: |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache Tomcat Fo...|Samenwerkingspla...|
+|[https://img.pleio.nl](https://img.pleio.nl)| ||:white_check_mark: |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache Tomcat Fo...|IMG100000+|
 |[https://nederlands.pleio.nl](https://nederlands.pleio.nl)| || |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|Domeinnaam nog n...|
-|[https://netwerkvanpubliekedienstverleners.pleio.nl](https://netwerkvanpubliekedienstverleners.pleio.nl)| ||:warning: |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache Tomcat Fo...|Netwerk van publ...|
+|[https://netwerkvanpubliekedienstverleners.pleio.nl](https://netwerkvanpubliekedienstverleners.pleio.nl)| ||:white_check_mark: |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache Tomcat Fo...|Netwerk van publ...|
 |[https://inst.pleio.nl](https://inst.pleio.nl)| || |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|Domeinnaam nog n...|
 |[https://groups.pleio.nl](https://groups.pleio.nl)| || |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|Domeinnaam nog n...|
-|[https://bmo.pleio.nl](https://bmo.pleio.nl)| ||:warning: |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache Tomcat Fo...|BMO|
+|[https://bmo.pleio.nl](https://bmo.pleio.nl)| ||:white_check_mark: |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache Tomcat Fo...|BMO|
 |[https://nwb.pleio.nl](https://nwb.pleio.nl)| || |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|Domeinnaam nog n...|
-|[https://ckv2kua.pleio.nl](https://ckv2kua.pleio.nl)| ||:warning: |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache Tomcat Fo...|CKV2KUA|
+|[https://ckv2kua.pleio.nl](https://ckv2kua.pleio.nl)| ||:white_check_mark: |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache Tomcat Fo...|CKV2KUA|
 |[https://host.pleio.nl](https://host.pleio.nl)| || |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|Domeinnaam nog n...|
 |[https://www.aandeslagmetmks.pleio.nl](https://www.aandeslagmetmks.pleio.nl)| || | | | | |:white_check_mark: |HSTS|404 Not Found|
 |[https://www.csr.pleio.nl](https://www.csr.pleio.nl)| || | | | | |:white_check_mark: |HSTS|404 Not Found|
 |[https://www.eugdzorg.pleio.nl](https://www.eugdzorg.pleio.nl)| || | | | | |:white_check_mark: |HSTS|404 Not Found|
-|[https://kennisnetwerkdata.pleio.nl](https://kennisnetwerkdata.pleio.nl)| ||:warning: |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache Tomcat Fo...|Kennisnetwerk Da...|
+|[https://kennisnetwerkdata.pleio.nl](https://kennisnetwerkdata.pleio.nl)| ||:white_check_mark: |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache Tomcat Fo...|Kennisnetwerk Da...|
 |[https://www2u.pleio.nl](https://www2u.pleio.nl)| || |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|Domeinnaam nog n...|
 |[https://home.pleio.nl](https://home.pleio.nl)| || |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|Domeinnaam nog n...|
-|[https://sdg.pleio.nl](https://sdg.pleio.nl)| ||:warning: |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache Tomcat Fo...|bNC-SDG|
+|[https://sdg.pleio.nl](https://sdg.pleio.nl)| ||:white_check_mark: |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache Tomcat Fo...|bNC-SDG|
 |[https://groep1en2.pleio.nl](https://groep1en2.pleio.nl)| || |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|Domeinnaam nog n...|
 |[https://maatschappijleer.pleio.nl](https://maatschappijleer.pleio.nl)| || |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|Domeinnaam nog n...|
 |[https://nde.pleio.nl](https://nde.pleio.nl)| || |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|Domeinnaam nog n...|
-|[https://digitaaltoegankelijk.pleio.nl](https://digitaaltoegankelijk.pleio.nl)| ||:warning: |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache Tomcat Fo...|Digitaal toegank...|
+|[https://digitaaltoegankelijk.pleio.nl](https://digitaaltoegankelijk.pleio.nl)| ||:white_check_mark: |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache Tomcat Fo...|Digitaal toegank...|
 |[https://members.pleio.nl](https://members.pleio.nl)| || |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|Domeinnaam nog n...|
 |[https://grenzeloossamenwerken.pleio.nl](https://grenzeloossamenwerken.pleio.nl)| || |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|302 Found|
-|[https://ckv.pleio.nl](https://ckv.pleio.nl)| ||:warning: |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache Tomcat Fo...|CKV|
+|[https://ckv.pleio.nl](https://ckv.pleio.nl)| ||:white_check_mark: |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache Tomcat Fo...|CKV|
 |[https://onderdoorgangbroekinwaterland.pleio.nl](https://onderdoorgangbroekinwaterland.pleio.nl)| || |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|Domeinnaam nog n...|
-|[https://slmrijk.pleio.nl](https://slmrijk.pleio.nl)| ||:warning: |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache Tomcat Fo...|SLM Rijk voor IC...|
+|[https://slmrijk.pleio.nl](https://slmrijk.pleio.nl)| ||:white_check_mark: |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache Tomcat Fo...|SLM Rijk voor IC...|
 |[https://acp.pleio.nl](https://acp.pleio.nl)| || |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|Domeinnaam nog n...|
 |[https://nt.pleio.nl](https://nt.pleio.nl)| || |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|Domeinnaam nog n...|
-|[https://gemeentelijkgeoberaad.pleio.nl](https://gemeentelijkgeoberaad.pleio.nl)| ||:warning: |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache Tomcat Fo...|Gemeentelijk Geo...|
+|[https://gemeentelijkgeoberaad.pleio.nl](https://gemeentelijkgeoberaad.pleio.nl)| ||:white_check_mark: |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache Tomcat Fo...|Gemeentelijk Geo...|
 |[https://aujeri.pleio.nl](https://aujeri.pleio.nl)| || |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|Domeinnaam nog n...|
 |[https://com-monground.pleio.nl](https://com-monground.pleio.nl)| || |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|Domeinnaam nog n...|
 |[https://www.a20dag.pleio.nl](https://www.a20dag.pleio.nl)| || | | | | |:white_check_mark: |HSTS|404 Not Found|
 |[https://slimsamenop.pleio.nl](https://slimsamenop.pleio.nl)| || |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|Domeinnaam nog n...|
-|[https://eurlplanthealth.pleio.nl](https://eurlplanthealth.pleio.nl)| ||:warning: |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|301 Moved Perman...|
+|[https://eurlplanthealth.pleio.nl](https://eurlplanthealth.pleio.nl)| ||:white_check_mark: |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|301 Moved Perman...|
 |[https://symposium.pleio.nl](https://symposium.pleio.nl)| || |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|Domeinnaam nog n...|
 |[https://monground.pleio.nl](https://monground.pleio.nl)| || |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|Domeinnaam nog n...|
 |[https://verborgentuinen.pleio.nl](https://verborgentuinen.pleio.nl)| || |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|Domeinnaam nog n...|
@@ -444,21 +444,21 @@
 |[https://fr.pleio.nl](https://fr.pleio.nl)| || |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|Domeinnaam nog n...|
 |[https://onderdoorgangn247biw.pleio.nl](https://onderdoorgangn247biw.pleio.nl)| || |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|Domeinnaam nog n...|
 |[https://www5c.pleio.nl](https://www5c.pleio.nl)| || |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|Domeinnaam nog n...|
-|[https://digitaleveiligheid.pleio.nl](https://digitaleveiligheid.pleio.nl)| ||:warning: |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache Tomcat Fo...|Agenda Digitale...|
+|[https://digitaleveiligheid.pleio.nl](https://digitaleveiligheid.pleio.nl)| ||:white_check_mark: |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache Tomcat Fo...|Agenda Digitale...|
 |[https://rvothema6.pleio.nl](https://rvothema6.pleio.nl)| || |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|Domeinnaam nog n...|
-|[https://intranethaarlem.pleio.nl](https://intranethaarlem.pleio.nl)| ||:warning: |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache Tomcat Fo...|Insite 2.0|
+|[https://intranethaarlem.pleio.nl](https://intranethaarlem.pleio.nl)| ||:white_check_mark: |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache Tomcat Fo...|Insite 2.0|
 |[https://games.pleio.nl](https://games.pleio.nl)| || |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|Domeinnaam nog n...|
 |[https://um.pleio.nl](https://um.pleio.nl)| || |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|Domeinnaam nog n...|
 |[https://moodle01.pleio.nl](https://moodle01.pleio.nl)| |nginx/1.24.0| | | | | |:white_check_mark: |HSTS Nginx:1.24....|Doorverwijspagin...|
 |[https://loki-gateway.pleio.nl](https://loki-gateway.pleio.nl)| || |:white_check_mark: | | | |:white_check_mark: |HSTS||
-|[https://generatieveai.pleio.nl](https://generatieveai.pleio.nl)| ||:warning: |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache Tomcat Fo...|Generatieve AI|
+|[https://generatieveai.pleio.nl](https://generatieveai.pleio.nl)| ||:white_check_mark: |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache Tomcat Fo...|Generatieve AI|
 |[https://wet.pleio.nl](https://wet.pleio.nl)| || |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|Domeinnaam nog n...|
-|[https://nicpet.pleio.nl](https://nicpet.pleio.nl)| ||:warning: |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache Tomcat Fo...|nicpet|
+|[https://nicpet.pleio.nl](https://nicpet.pleio.nl)| ||:white_check_mark: |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache Tomcat Fo...|nicpet|
 |[https://linkeddata.pleio.nl](https://linkeddata.pleio.nl)| || |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|Domeinnaam nog n...|
 |[https://overheid.pleio.nl](https://overheid.pleio.nl)| || |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|Domeinnaam nog n...|
 |[https://omgevings-wet.pleio.nl](https://omgevings-wet.pleio.nl)| || |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|Domeinnaam nog n...|
 |[https://sadp-admin.pleio.nl](https://sadp-admin.pleio.nl)| || |:white_check_mark: | | | |:white_check_mark: |HSTS|403 Forbidden|
 |[https://sadp.pleio.nl](https://sadp.pleio.nl)| || |:white_check_mark: | | | |:white_check_mark: |HSTS|403 Forbidden|
 |[https://sociaaldomeinlekstroom.pleio.nl](https://sociaaldomeinlekstroom.pleio.nl)| || |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|Domeinnaam nog n...|
-|[https://cmh.pleio.nl](https://cmh.pleio.nl)| ||:warning: |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache Tomcat Fo...|Cluster Midden-H...|
-|[https://riec-liec-academie.pleio.nl](https://riec-liec-academie.pleio.nl)| |nginx/1.24.0|:warning: |:white_check_mark: | |:white_check_mark: | |:white_check_mark: |HSTS Moodle Ngin...|Home | riecliec|
+|[https://cmh.pleio.nl](https://cmh.pleio.nl)| ||:white_check_mark: |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache Tomcat Fo...|Cluster Midden-H...|
+|[https://riec-liec-academie.pleio.nl](https://riec-liec-academie.pleio.nl)| |nginx/1.24.0|:white_check_mark: |:white_check_mark: | |:white_check_mark: | |:white_check_mark: |HSTS Moodle Ngin...|Home | riecliec|

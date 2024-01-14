@@ -14,4 +14,4 @@
 |[https://opendata.rijksvastgoedbedrijf.nl](https://opendata.rijksvastgoedbedrijf.nl)| |nginx| |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx||
 |[https://www.rijksvastgoedbedrijf.nl](https://www.rijksvastgoedbedrijf.nl)| |nginx| |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Bloomreach HSTS...|Home | Rijksvast...|
 |[https://rijksvastgoedbedrijf.nl](https://rijksvastgoedbedrijf.nl)| |nginx| |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx|301 Moved Perman...|
-|[https://projecten.rijksvastgoedbedrijf.nl](https://projecten.rijksvastgoedbedrijf.nl)| |Apache|:warning: |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache HTTP Serv...||
+|[https://projecten.rijksvastgoedbedrijf.nl](https://projecten.rijksvastgoedbedrijf.nl)| |Apache|:white_check_mark: |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache HTTP Serv...||

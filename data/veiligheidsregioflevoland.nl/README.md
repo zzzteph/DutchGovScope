@@ -13,7 +13,7 @@
 |[http://websitewww.veiligheidsregioflevoland.nl](http://websitewww.veiligheidsregioflevoland.nl)| |Microsoft-HTTPAP...| | | | | |:white_check_mark: |Microsoft HTTPAP...|Not Found|
 |[https://mail.veiligheidsregioflevoland.nl](https://mail.veiligheidsregioflevoland.nl)| || | | | | |:white_check_mark: |HSTS||
 |[https://elo.veiligheidsregioflevoland.nl](https://elo.veiligheidsregioflevoland.nl)| |-| | | | |:white_check_mark: |:white_check_mark: |Microsoft ASP.NE...|CK Mensenmassa|
-|[https://redactie.veiligheidsregioflevoland.nl](https://redactie.veiligheidsregioflevoland.nl)| |-|:warning: |:white_check_mark: | |:white_check_mark: |:white_check_mark: |HSTS Microsoft A...|Object moved|
+|[https://redactie.veiligheidsregioflevoland.nl](https://redactie.veiligheidsregioflevoland.nl)| |-|:white_check_mark: |:white_check_mark: | |:white_check_mark: |:white_check_mark: |HSTS Microsoft A...|Object moved|
 |[https://veiligheidsregioflevoland.nl](https://veiligheidsregioflevoland.nl)| |-| |:white_check_mark: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Microsoft A...|Object moved|
 |[https://www.veiligheidsregioflevoland.nl](https://www.veiligheidsregioflevoland.nl)| |-| |:white_check_mark: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Microsoft A...|Home - Website V...|
 |[http://lelystadinternetwww.veiligheidsregioflevoland.nl](http://lelystadinternetwww.veiligheidsregioflevoland.nl)| |Microsoft-HTTPAP...| | | | | |:white_check_mark: |Microsoft HTTPAP...|Not Found|

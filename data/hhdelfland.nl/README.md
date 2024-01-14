@@ -13,14 +13,14 @@
 |[https://inloggen.hhdelfland.nl](https://inloggen.hhdelfland.nl)| || |:white_check_mark: | | | |:white_check_mark: |HSTS||
 |[https://inloggen-preprod.hhdelfland.nl](https://inloggen-preprod.hhdelfland.nl)| || |:white_check_mark: | | | |:white_check_mark: |HSTS||
 |[https://samenwerkingsportaalcmstest.hhdelfland.nl](https://samenwerkingsportaalcmstest.hhdelfland.nl)| |Microsoft-HTTPAP...| | | | | |:white_check_mark: |Microsoft HTTPAP...||
-|[https://loket-preprod.hhdelfland.nl](https://loket-preprod.hhdelfland.nl)| |Microsoft-IIS/10...|:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |:white_check_mark: |IIS:10.0 Windows...||
-|[https://loket.hhdelfland.nl](https://loket.hhdelfland.nl)| |Microsoft-IIS/10...|:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |:white_check_mark: |IIS:10.0 Windows...||
+|[https://loket-preprod.hhdelfland.nl](https://loket-preprod.hhdelfland.nl)| |Microsoft-IIS/10...|:white_check_mark: |:white_check_mark: |:white_check_mark: |:white_check_mark: |:white_check_mark: |IIS:10.0 Windows...||
+|[https://loket.hhdelfland.nl](https://loket.hhdelfland.nl)| |Microsoft-IIS/10...|:white_check_mark: |:white_check_mark: |:white_check_mark: |:white_check_mark: |:white_check_mark: |IIS:10.0 Windows...||
 |[https://samenwerkingsportaal.hhdelfland.nl](https://samenwerkingsportaal.hhdelfland.nl)| |Microsoft-HTTPAP...| | | | | |:white_check_mark: |Microsoft HTTPAP...||
 |[https://beeldbank-bo.hhdelfland.nl](https://beeldbank-bo.hhdelfland.nl)| |Picture Pack|:warning: |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Microsoft A...|Picture Pack|
 |[https://beeldbank.hhdelfland.nl](https://beeldbank.hhdelfland.nl)| ||:warning: |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Microsoft A...|Homepage | Beeld...|
 |[https://burgerloket.hhdelfland.nl](https://burgerloket.hhdelfland.nl)| |Apache| | | | | |:white_check_mark: |Apache HTTP Serv...|301 Moved Perman...|
 |[https://hhdelfland.nl](https://hhdelfland.nl)| |-| |:white_check_mark: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Microsoft A...|Object moved|
-|[http://autodiscover.hhdelfland.nl](http://autodiscover.hhdelfland.nl)| |Microsoft-IIS/10...|:warning: |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |IIS:10.0 Microso...||
+|[http://autodiscover.hhdelfland.nl](http://autodiscover.hhdelfland.nl)| |Microsoft-IIS/10...|:white_check_mark: |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |IIS:10.0 Microso...||
 |[https://connect.hhdelfland.nl](https://connect.hhdelfland.nl)| |xxxxxxxx-xxxxx| | | | | |:white_check_mark: |HSTS||
 |[https://samenwerkingsportaaltest.hhdelfland.nl](https://samenwerkingsportaaltest.hhdelfland.nl)| |Microsoft-HTTPAP...| | | | | |:white_check_mark: |Microsoft HTTPAP...||
 |[https://samenwerkingsportaalcms.hhdelfland.nl](https://samenwerkingsportaalcms.hhdelfland.nl)| |Microsoft-HTTPAP...| | | | | |:white_check_mark: |Microsoft HTTPAP...||

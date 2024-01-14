@@ -10,7 +10,7 @@
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
 |[https://acc.lees-rijk.nl](https://acc.lees-rijk.nl)| |nginx| |:white_check_mark: | | | |:white_check_mark: |Drupal HSTS Ngin...||
-|[https://producten.lees-rijk.nl](https://producten.lees-rijk.nl)| ||:warning: |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS||
+|[https://producten.lees-rijk.nl](https://producten.lees-rijk.nl)| ||:o: |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS||
 |[https://www.lees-rijk.nl](https://www.lees-rijk.nl)| |nginx| |:white_check_mark: | | | |:white_check_mark: |Drupal HSTS Ngin...||
 |[https://www.acc.lees-rijk.nl](https://www.acc.lees-rijk.nl)| |nginx| |:white_check_mark: | | |:white_check_mark: |Drupal HSTS Ngin...|Redirecting to /...|
 |[https://lees-rijk.nl](https://lees-rijk.nl)| |nginx| |:white_check_mark: | | | |:white_check_mark: |HSTS Nginx|301 Moved Perman...|

@@ -11,5 +11,5 @@
 |------------|-------|------|------|------|------|------|------|------|------|------|
 |[https://astraonline.nl](https://astraonline.nl)| |Apache| |:white_check_mark: | |:white_check_mark: | |:white_check_mark: |Apache HTTP Serv...|301 Moved Perman...|
 |[https://www.astraonline.nl](https://www.astraonline.nl)| |Apache| |:white_check_mark: | |:white_check_mark: | |:white_check_mark: |Apache HTTP Serv...||
-|[https://redactie.astraonline.nl](https://redactie.astraonline.nl)| |Apache|:warning: |:white_check_mark: | |:white_check_mark: | |:white_check_mark: |Apache HTTP Serv...||
+|[https://redactie.astraonline.nl](https://redactie.astraonline.nl)| |Apache|:white_check_mark: |:white_check_mark: | |:white_check_mark: | |:white_check_mark: |Apache HTTP Serv...||
 |[https://mail.astraonline.nl](https://mail.astraonline.nl)| |Apache| | | | | |:white_check_mark: |Apache HTTP Serv...|302 Found|

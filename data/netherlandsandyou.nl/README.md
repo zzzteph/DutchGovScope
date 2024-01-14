@@ -12,5 +12,5 @@
 |[https://acc.netherlandsandyou.nl](https://acc.netherlandsandyou.nl)| |Apache| | | | | |:white_check_mark: |Apache HTTP Serv...|403 Forbidden|
 |[https://dev.netherlandsandyou.nl](https://dev.netherlandsandyou.nl)| |Apache| | | | | |:white_check_mark: |Apache HTTP Serv...|403 Forbidden|
 |[https://tst.netherlandsandyou.nl](https://tst.netherlandsandyou.nl)| |Apache| | | | | |:white_check_mark: |Apache HTTP Serv...|403 Forbidden|
-|[https://www.netherlandsandyou.nl](https://www.netherlandsandyou.nl)| |Apache|:warning: |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache HTTP Serv...|Home - Netherlan...|
-|[https://netherlandsandyou.nl](https://netherlandsandyou.nl)| |Apache|:warning: |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache HTTP Serv...|301 Moved Perman...|
+|[https://www.netherlandsandyou.nl](https://www.netherlandsandyou.nl)| |Apache|:white_check_mark: |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache HTTP Serv...|Home - Netherlan...|
+|[https://netherlandsandyou.nl](https://netherlandsandyou.nl)| |Apache|:white_check_mark: |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache HTTP Serv...|301 Moved Perman...|

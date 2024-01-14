@@ -19,5 +19,5 @@
 |[https://www.stopheling.nl](https://www.stopheling.nl)| |Microsoft-IIS/10...| |:white_check_mark: |:warning: |:white_check_mark: | |:white_check_mark: |HSTS IIS:10.0 Wi...|Stop Heling | Ho...|
 |[https://accp-dorbeheer.stopheling.nl](https://accp-dorbeheer.stopheling.nl)| || | |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Azure Azure Fron...||
 |[https://dorbeheer.stopheling.nl](https://dorbeheer.stopheling.nl)| || |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Azure Azure Fron...||
-|[https://aanvraagformulier.stopheling.nl](https://aanvraagformulier.stopheling.nl)| |Microsoft-IIS/10...|:warning: |:white_check_mark: | | | |:white_check_mark: |IIS:10.0 Microso...|Object moved|
-|[https://test-api.stopheling.nl](https://test-api.stopheling.nl)| |Microsoft-IIS/10...|:warning: | | | | |:white_check_mark: |Azure IIS:10.0 M...||
+|[https://aanvraagformulier.stopheling.nl](https://aanvraagformulier.stopheling.nl)| |Microsoft-IIS/10...|:white_check_mark: |:white_check_mark: | | | |:white_check_mark: |IIS:10.0 Microso...|Object moved|
+|[https://test-api.stopheling.nl](https://test-api.stopheling.nl)| |Microsoft-IIS/10...|:white_check_mark: | | | | |:white_check_mark: |Azure IIS:10.0 M...||

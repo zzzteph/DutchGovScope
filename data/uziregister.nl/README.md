@@ -14,7 +14,7 @@
 |[https://acceptatie.formulieren.uziregister.nl](https://acceptatie.formulieren.uziregister.nl)| |-| |:white_check_mark: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS||
 |[https://acceptatie.uzipas.uziregister.nl](https://acceptatie.uzipas.uziregister.nl)| |-| | | | | |:white_check_mark: |HSTS||
 |[https://feeds.uziregister.nl](https://feeds.uziregister.nl)| |nginx| |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx||
-|[https://formulieren.uziregister.nl](https://formulieren.uziregister.nl)| |-|:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|UZI-register.nl|
+|[https://formulieren.uziregister.nl](https://formulieren.uziregister.nl)| |-|:white_check_mark: |:white_check_mark: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|UZI-register.nl|
 |[https://opendata.uziregister.nl](https://opendata.uziregister.nl)| |nginx| |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx||
 |[https://uzipas.uziregister.nl](https://uzipas.uziregister.nl)| |-| |:white_check_mark: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|Inloggen|
 |[https://www.uziregister.nl](https://www.uziregister.nl)| |nginx| |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Bloomreach HSTS...|Home | UZI-regis...|

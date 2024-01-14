@@ -9,7 +9,7 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://webmail.onsleger.nl](https://webmail.onsleger.nl)| |LiteSpeed|:warning: | | | | |:white_check_mark: |HTTP/3 LiteSpeed|Webmail Login|
+|[https://webmail.onsleger.nl](https://webmail.onsleger.nl)| |LiteSpeed|:white_check_mark: | | | | |:white_check_mark: |HTTP/3 LiteSpeed|Webmail Login|
 |[https://www.onsleger.nl](https://www.onsleger.nl)| |LiteSpeed| | | | | |:white_check_mark: |HTTP/3 LiteSpeed...||
 |[https://onsleger.nl](https://onsleger.nl)| |LiteSpeed| | | | | |:white_check_mark: |HTTP/3 LiteSpeed...|onsleger – Onsle...|
 |[https://mail.onsleger.nl](https://mail.onsleger.nl)| |LiteSpeed| | | | | |:white_check_mark: |HTTP/3 LiteSpeed...||
@@ -17,5 +17,5 @@
 |[https://cpcalendars.onsleger.nl](https://cpcalendars.onsleger.nl)| |LiteSpeed| | | | | |:white_check_mark: |HTTP/3 LiteSpeed|403 Forbidden|
 |[https://cpcontacts.onsleger.nl](https://cpcontacts.onsleger.nl)| |LiteSpeed| | | | | |:white_check_mark: |HTTP/3 LiteSpeed|403 Forbidden|
 |[https://autodiscover.onsleger.nl](https://autodiscover.onsleger.nl)| |LiteSpeed| | | | | |:white_check_mark: |HTTP/3 LiteSpeed...||
-|[https://cpanel.onsleger.nl](https://cpanel.onsleger.nl)| |LiteSpeed|:warning: | | | | |:white_check_mark: |HTTP/3 LiteSpeed...|cPanel Login|
+|[https://cpanel.onsleger.nl](https://cpanel.onsleger.nl)| |LiteSpeed|:white_check_mark: | | | | |:white_check_mark: |HTTP/3 LiteSpeed...|cPanel Login|
 |[https://ipv6.onsleger.nl](https://ipv6.onsleger.nl)| |LiteSpeed| | | | | |:white_check_mark: |HTTP/3 LiteSpeed...||

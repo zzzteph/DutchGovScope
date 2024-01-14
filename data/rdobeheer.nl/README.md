@@ -13,9 +13,9 @@
 |[https://login.pilot.uzi-online.acc.rdobeheer.nl](https://login.pilot.uzi-online.acc.rdobeheer.nl)| || |:white_check_mark: |:warning: |:white_check_mark: | |:white_check_mark: |HSTS||
 |[https://acme.proeftuin.uzi-online.rdobeheer.nl](https://acme.proeftuin.uzi-online.rdobeheer.nl)| || |:white_check_mark: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS||
 |[http://login.pilot.proeftuin.uzi-online.rdobeheer.nl](http://login.pilot.proeftuin.uzi-online.rdobeheer.nl)| || | | | | |:white_check_mark: |||
-|[https://vpn.rdobeheer.nl](https://vpn.rdobeheer.nl)| |Apache|:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache HTTP Serv...|301 Moved Perman...|
+|[https://vpn.rdobeheer.nl](https://vpn.rdobeheer.nl)| |Apache|:white_check_mark: |:white_check_mark: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache HTTP Serv...|301 Moved Perman...|
 |[https://helpdesk.acc.rdobeheer.nl](https://helpdesk.acc.rdobeheer.nl)| || |:white_check_mark: | |:white_check_mark: | |:white_check_mark: |HSTS||
-|[https://helpdesk.rdobeheer.nl](https://helpdesk.rdobeheer.nl)| ||:warning: |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Ruby Ruby o...|iRealisatie Help...|
+|[https://helpdesk.rdobeheer.nl](https://helpdesk.rdobeheer.nl)| ||:white_check_mark: |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Ruby Ruby o...|iRealisatie Help...|
 |[http://login-uzi.proeftuin.uzi-online.rdobeheer.nl](http://login-uzi.proeftuin.uzi-online.rdobeheer.nl)| || | | | | |:white_check_mark: |||
 |[https://max.proeftuin.uzi-online.rdobeheer.nl](https://max.proeftuin.uzi-online.rdobeheer.nl)| || |:white_check_mark: |:warning: |:white_check_mark: | |:white_check_mark: |HSTS||
 |[https://yivi.proeftuin.uzi-online.rdobeheer.nl](https://yivi.proeftuin.uzi-online.rdobeheer.nl)| ||:warning: |:white_check_mark: |:white_check_mark: | |:white_check_mark: |HSTS|YIVI Disclosure|
@@ -23,7 +23,7 @@
 |[https://oidc.proeftuin.uzi-online.rdobeheer.nl](https://oidc.proeftuin.uzi-online.rdobeheer.nl)| || |:white_check_mark: |:white_check_mark: | |:white_check_mark: |HSTS||
 |[https://collabora.acc.rdobeheer.nl](https://collabora.acc.rdobeheer.nl)| |COOLWSD HTTP Ser...| | | | | |:white_check_mark: |||
 |[https://balie.acc.woo.rdobeheer.nl](https://balie.acc.woo.rdobeheer.nl)| |Apache| |:white_check_mark: | |:white_check_mark: | |:white_check_mark: |Apache HTTP Serv...|401 Unauthorized|
-|[https://nextcloud.acc.rdobeheer.nl](https://nextcloud.acc.rdobeheer.nl)| ||:warning: |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nextcloud P...||
+|[https://nextcloud.acc.rdobeheer.nl](https://nextcloud.acc.rdobeheer.nl)| ||:white_check_mark: |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nextcloud P...||
 |[https://mailcatch.acc.rdobeheer.nl](https://mailcatch.acc.rdobeheer.nl)| || |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |Basic HSTS|401 Unauthorized|
 |[https://pilot.uzi-online.acc.rdobeheer.nl](https://pilot.uzi-online.acc.rdobeheer.nl)| || |:white_check_mark: |:warning: |:white_check_mark: | |:white_check_mark: |Basic HSTS|401 Unauthorized|
 |[https://yivi.pilot.uzi-online.acc.rdobeheer.nl](https://yivi.pilot.uzi-online.acc.rdobeheer.nl)| ||:warning: |:white_check_mark: |:white_check_mark: | |:white_check_mark: |HSTS|YIVI Disclosure|

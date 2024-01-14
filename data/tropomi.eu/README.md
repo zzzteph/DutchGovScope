@@ -28,4 +28,4 @@
 |[https://opendata.tropomi.eu](https://opendata.tropomi.eu)| |nginx| |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx||
 |[https://mps7.tropomi.eu](https://mps7.tropomi.eu)| |Apache| |:white_check_mark: | |:white_check_mark: | |:white_check_mark: |Apache HTTP Serv...||
 |[https://mps9.tropomi.eu](https://mps9.tropomi.eu)| |Apache| | | | | |:white_check_mark: |Apache HTTP Serv...|503 Service Unav...|
-|[https://mpc-vdaf.tropomi.eu](https://mpc-vdaf.tropomi.eu)| |Apache|:warning: |:white_check_mark: | | | |:white_check_mark: |Apache HTTP Serv...|s5p-mpc-vdaf - H...|
+|[https://mpc-vdaf.tropomi.eu](https://mpc-vdaf.tropomi.eu)| |Apache|:white_check_mark: |:white_check_mark: | | | |:white_check_mark: |Apache HTTP Serv...|s5p-mpc-vdaf - H...|

@@ -10,6 +10,6 @@
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
 |[https://en.octrooigemachtigde.nl](https://en.octrooigemachtigde.nl)| |Apache/2| | | | | |:white_check_mark: |Apache HTTP Serv...|302 Found|
-|[https://www.octrooigemachtigde.nl](https://www.octrooigemachtigde.nl)| |Apache/2|:warning: |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache HTTP Serv...|Orde van Octrooi...|
-|[https://octrooigemachtigde.nl](https://octrooigemachtigde.nl)| |Apache/2|:warning: |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache HTTP Serv...|302 Found|
+|[https://www.octrooigemachtigde.nl](https://www.octrooigemachtigde.nl)| |Apache/2|:white_check_mark: |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache HTTP Serv...|Orde van Octrooi...|
+|[https://octrooigemachtigde.nl](https://octrooigemachtigde.nl)| |Apache/2|:white_check_mark: |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache HTTP Serv...|302 Found|
 |[https://www.en.octrooigemachtigde.nl](https://www.en.octrooigemachtigde.nl)| |Apache/2| | | | | |:white_check_mark: |Apache HTTP Serv...|302 Found|

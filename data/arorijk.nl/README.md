@@ -10,5 +10,5 @@
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
 |[https://static.arorijk.nl](https://static.arorijk.nl)| $${\color{green}A+}$$ || |:white_check_mark: | |:white_check_mark: |:white_check_mark: |HSTS||
-|[https://www.arorijk.nl](https://www.arorijk.nl)| $${\color{green}A+}$$ ||:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Ruby Ruby o...|Agressie Registr...|
-|[https://arorijk.nl](https://arorijk.nl)| ||:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Ruby Ruby o...|Agressie Registr...|
+|[https://www.arorijk.nl](https://www.arorijk.nl)| $${\color{green}A+}$$ ||:white_check_mark: |:white_check_mark: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Ruby Ruby o...|Agressie Registr...|
+|[https://arorijk.nl](https://arorijk.nl)| ||:white_check_mark: |:white_check_mark: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Ruby Ruby o...|Agressie Registr...|

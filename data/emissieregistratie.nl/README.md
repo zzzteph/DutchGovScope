@@ -9,7 +9,7 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://data.emissieregistratie.nl](https://data.emissieregistratie.nl)| |nginx|:warning: |:white_check_mark: | | | |:white_check_mark: |HSTS Java Nginx|Emissieregistrat...|
+|[https://data.emissieregistratie.nl](https://data.emissieregistratie.nl)| |nginx|:white_check_mark: |:white_check_mark: | | | |:white_check_mark: |HSTS Java Nginx|Emissieregistrat...|
 |[https://data-acceptatie.emissieregistratie.nl](https://data-acceptatie.emissieregistratie.nl)| ||:warning: |:white_check_mark: | | | |:white_check_mark: |F5 BigIP HSTS||
 |[http://data-preview.emissieregistratie.nl](http://data-preview.emissieregistratie.nl)| || | | | | |:white_check_mark: |||
 |[https://data-previewnext.emissieregistratie.nl](https://data-previewnext.emissieregistratie.nl)| ||:warning: |:white_check_mark: | | | |:white_check_mark: |F5 BigIP HSTS||

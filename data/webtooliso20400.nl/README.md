@@ -9,6 +9,6 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://webtooliso20400.nl](https://webtooliso20400.nl)| |nginx|:warning: |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx|301 Moved Perman...|
-|[https://www.webtooliso20400.nl](https://www.webtooliso20400.nl)| |nginx|:warning: |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx PHP Z...|Webtool ISO 2040...|
-|[https://acc.webtooliso20400.nl](https://acc.webtooliso20400.nl)| |nginx|:warning: |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx PHP Z...|Webtool ISO 2040...|
+|[https://webtooliso20400.nl](https://webtooliso20400.nl)| |nginx|:white_check_mark: |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx|301 Moved Perman...|
+|[https://www.webtooliso20400.nl](https://www.webtooliso20400.nl)| |nginx|:white_check_mark: |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx PHP Z...|Webtool ISO 2040...|
+|[https://acc.webtooliso20400.nl](https://acc.webtooliso20400.nl)| |nginx|:white_check_mark: |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx PHP Z...|Webtool ISO 2040...|

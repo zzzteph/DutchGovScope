@@ -11,5 +11,5 @@
 |------------|-------|------|------|------|------|------|------|------|------|------|
 |[https://prod.higherlevel.nl](https://prod.higherlevel.nl)| |Apache| | | | | |:white_check_mark: |Apache HTTP Serv...||
 |[https://test.higherlevel.nl](https://test.higherlevel.nl)| |Apache| |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache HTTP Serv...|401 Unauthorized|
-|[https://www.higherlevel.nl](https://www.higherlevel.nl)| |Apache|:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache HTTP Serv...|Home - Higherlev...|
-|[https://higherlevel.nl](https://higherlevel.nl)| |Apache|:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache HTTP Serv...|301 Moved Perman...|
+|[https://www.higherlevel.nl](https://www.higherlevel.nl)| |Apache|:white_check_mark: |:white_check_mark: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache HTTP Serv...|Home - Higherlev...|
+|[https://higherlevel.nl](https://higherlevel.nl)| |Apache|:white_check_mark: |:white_check_mark: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache HTTP Serv...|301 Moved Perman...|

@@ -14,7 +14,7 @@
 |[https://feeds.belastingdienst-cn.nl](https://feeds.belastingdienst-cn.nl)| $${\color{green}A+}$$ |nginx| |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx||
 |[https://feeds.english.belastingdienst-cn.nl](https://feeds.english.belastingdienst-cn.nl)| $${\color{green}A+}$$ |nginx| |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx||
 |[https://feeds.papiamentu.belastingdienst-cn.nl](https://feeds.papiamentu.belastingdienst-cn.nl)| $${\color{green}A+}$$ |nginx| |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx||
-|[https://mijn.belastingdienst-cn.nl](https://mijn.belastingdienst-cn.nl)| $${\color{green}A}$$ ||:warning: |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |||
+|[https://mijn.belastingdienst-cn.nl](https://mijn.belastingdienst-cn.nl)| $${\color{green}A}$$ ||:white_check_mark: |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |||
 |[https://opendata.belastingdienst-cn.nl](https://opendata.belastingdienst-cn.nl)| |nginx| |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx||
 |[https://opendata.english.belastingdienst-cn.nl](https://opendata.english.belastingdienst-cn.nl)| |nginx| |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx||
 |[https://opendata.papiamentu.belastingdienst-cn.nl](https://opendata.papiamentu.belastingdienst-cn.nl)| $${\color{green}A+}$$ |nginx| |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx||

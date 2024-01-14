@@ -10,7 +10,7 @@
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
 |[https://klachtenformulierlink.mensenrechten.nl](https://klachtenformulierlink.mensenrechten.nl)| || |:white_check_mark: |:white_check_mark: | |:white_check_mark: |HSTS|SMTP2GO|
-|[https://intranet.mensenrechten.nl](https://intranet.mensenrechten.nl)| |nginx|:warning: |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Express HSTS Ngi...||
+|[https://intranet.mensenrechten.nl](https://intranet.mensenrechten.nl)| |nginx|:white_check_mark: |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Express HSTS Ngi...||
 |[https://mensenrechten.nl](https://mensenrechten.nl)| |nginx| |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx|301 Moved Perman...|
 |[https://www.mensenrechten.nl](https://www.mensenrechten.nl)| |nginx| |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Bloomreach HSTS...|Home | College v...|
 |[https://oordelen.mensenrechten.nl](https://oordelen.mensenrechten.nl)| |Microsoft-IIS/10...| |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS IIS:10.0 Wi...||

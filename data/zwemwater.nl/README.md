@@ -15,7 +15,7 @@
 |[https://nederlandwww.zwemwater.nl](https://nederlandwww.zwemwater.nl)| |Apache| | | | | |:white_check_mark: |Apache HTTP Serv...|302 Found|
 |[https://ogcgeo.zwemwater.nl](https://ogcgeo.zwemwater.nl)| |Apache| |:white_check_mark: | |:white_check_mark: | |:white_check_mark: |Apache HTTP Serv...||
 |[https://pubgeo.zwemwater.nl](https://pubgeo.zwemwater.nl)| |Apache| |:white_check_mark: | |:white_check_mark: | |:white_check_mark: |Apache HTTP Serv...||
-|[https://register.zwemwater.nl](https://register.zwemwater.nl)| |Apache|:warning: |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache HTTP Serv...|302 Found|
+|[https://register.zwemwater.nl](https://register.zwemwater.nl)| |Apache|:white_check_mark: |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache HTTP Serv...|302 Found|
 |[https://wwww.zwemwater.nl](https://wwww.zwemwater.nl)| |Apache| | | | | |:white_check_mark: |Apache HTTP Serv...|302 Found|
 |[https://9986734www.zwemwater.nl](https://9986734www.zwemwater.nl)| |Apache| | | | | |:white_check_mark: |Apache HTTP Serv...|302 Found|
 |[https://opwww.zwemwater.nl](https://opwww.zwemwater.nl)| |Apache| | | | | |:white_check_mark: |Apache HTTP Serv...|302 Found|

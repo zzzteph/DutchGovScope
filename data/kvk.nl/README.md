@@ -9,29 +9,29 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://diensten.kvk.nl](https://diensten.kvk.nl)| ||:warning: |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|301 Moved Perman...|
+|[https://diensten.kvk.nl](https://diensten.kvk.nl)| ||:white_check_mark: |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|301 Moved Perman...|
 |[https://staging.werkenbij.kvk.nl](https://staging.werkenbij.kvk.nl)| |Microsoft-HTTPAP...| | | | | |:white_check_mark: |Microsoft HTTPAP...|Service Unavaila...|
 |[https://ondernemersplein.kvk.nl](https://ondernemersplein.kvk.nl)| || |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |Bloomreach Googl...|Ondernemersplein...|
-|[https://www.kvk.nl](https://www.kvk.nl)| ||:warning: |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Bloomreach Googl...|KVK - Kamer van...|
+|[https://www.kvk.nl](https://www.kvk.nl)| ||:white_check_mark: |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Bloomreach Googl...|KVK - Kamer van...|
 |[https://cia.tst.ondernemersplein.kvk.nl](https://cia.tst.ondernemersplein.kvk.nl)| || | | | | |:white_check_mark: |||
 |[https://microcontent.ondernemersplein.kvk.nl](https://microcontent.ondernemersplein.kvk.nl)| || | | | | |:white_check_mark: |||
-|[https://view.email.kvk.nl](https://view.email.kvk.nl)| ||:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|Object moved|
+|[https://view.email.kvk.nl](https://view.email.kvk.nl)| ||:o: |:white_check_mark: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|Object moved|
 |[https://ondertekenen-id.kvk.nl](https://ondertekenen-id.kvk.nl)| || | | | | |:white_check_mark: |HSTS|302 Found|
 |[https://ondertekenen.acp.kvk.nl](https://ondertekenen.acp.kvk.nl)| |nginx| |:white_check_mark: | |:white_check_mark: | |:white_check_mark: |HSTS Nginx||
 |[https://dvj.kvk.nl](https://dvj.kvk.nl)| |Apache| | | |:white_check_mark: | |:white_check_mark: |Apache HTTP Serv...||
 |[https://enterpriseregistration.kvk.nl](https://enterpriseregistration.kvk.nl)| || | | | | |:white_check_mark: |HSTS|Service|
 |[https://sdgapi.ondernemersplein.kvk.nl](https://sdgapi.ondernemersplein.kvk.nl)| |Microsoft-IIS/10...| |:white_check_mark: | | | |:white_check_mark: |HSTS IIS:10.0 Wi...||
 |[https://cia.acp.ondernemersplein.kvk.nl](https://cia.acp.ondernemersplein.kvk.nl)| || | | | | |:white_check_mark: |IIS:10.0 Windows...||
-|[https://downloadservice.kvk.nl](https://downloadservice.kvk.nl)| ||:warning: |:white_check_mark: |:warning: |:white_check_mark: | |:white_check_mark: |HSTS||
+|[https://downloadservice.kvk.nl](https://downloadservice.kvk.nl)| ||:white_check_mark: |:white_check_mark: |:warning: |:white_check_mark: | |:white_check_mark: |HSTS||
 |[https://swp.kvk.nl](https://swp.kvk.nl)| || |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Microsoft A...||
 |[https://web-api.kvk.nl](https://web-api.kvk.nl)| || |:white_check_mark: | | |:white_check_mark: |HSTS|403 - Forbidden:...|
 |[http://pki-g2.kvk.nl](http://pki-g2.kvk.nl)| |Microsoft-IIS/10...| | | | | |:white_check_mark: |IIS:10.0 Windows...|pki-g2.kvk.nl -...|
 |[https://onderzoek.kvk.nl](https://onderzoek.kvk.nl)| ||:warning: |:white_check_mark: | | | |:white_check_mark: |HSTS|Survey4|
 |[https://enterpriseenrollment.kvk.nl](https://enterpriseenrollment.kvk.nl)| || | | | | |:white_check_mark: |HSTS||
-|[https://kvk.nl](https://kvk.nl)| |BigIP|:warning: |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |F5 BigIP HSTS||
-|[http://autodiscover.kvk.nl](http://autodiscover.kvk.nl)| |Microsoft-IIS/10...|:warning: |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |IIS:10.0 Microso...||
+|[https://kvk.nl](https://kvk.nl)| |BigIP|:white_check_mark: |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |F5 BigIP HSTS||
+|[http://autodiscover.kvk.nl](http://autodiscover.kvk.nl)| |Microsoft-IIS/10...|:white_check_mark: |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |IIS:10.0 Microso...||
 |[https://connect-with.kvk.nl](https://connect-with.kvk.nl)| |nginx| |:white_check_mark: | |:white_check_mark: | |:white_check_mark: |HSTS Nginx|Document Moved|
-|[https://developers.kvk.nl](https://developers.kvk.nl)| ||:warning: |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Google Tag Manag...|Get Started - KV...|
+|[https://developers.kvk.nl](https://developers.kvk.nl)| ||:white_check_mark: |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Google Tag Manag...|Get Started - KV...|
 |[https://msafe.kvk.nl](https://msafe.kvk.nl)| || |:white_check_mark: |:warning: |:white_check_mark: | |:white_check_mark: |Azure Azure Fron...||
 |[https://ondertekenen-id.acp.kvk.nl](https://ondertekenen-id.acp.kvk.nl)| || |:white_check_mark: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|Kamer van Koopha...|
 |[https://idp.dev.kvk.nl](https://idp.dev.kvk.nl)| |Unknown| |:white_check_mark: | |:white_check_mark: | |:white_check_mark: |HSTS||
@@ -52,13 +52,13 @@
 |[https://zoeken.ondernemersplein.kvk.nl](https://zoeken.ondernemersplein.kvk.nl)| |Microsoft-IIS/10...| |:white_check_mark: | | | |:white_check_mark: |HSTS IIS:10.0 Wi...||
 |[http://schemas.kvk.nl](http://schemas.kvk.nl)| |Microsoft-IIS/10...| | | | | |:white_check_mark: |IIS:10.0 Windows...|schemas.kvk.nl -...|
 |[https://zoeken.kvk.nl](https://zoeken.kvk.nl)| |Microsoft-IIS/10...| |:white_check_mark: | | | |:white_check_mark: |HSTS IIS:10.0 Mi...|zoeken.kvk.nl|
-|[https://regiodata.kvk.nl](https://regiodata.kvk.nl)| |Microsoft-IIS/10...|:warning: |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Amazon S3 Amazon...|Home - KVK Regio...|
-|[https://www.regiodata.kvk.nl](https://www.regiodata.kvk.nl)| |Microsoft-IIS/10...|:warning: |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS IIS:10.0 Mi...|Document Moved|
-|[https://locatiescan.kvk.nl](https://locatiescan.kvk.nl)| |Microsoft-IIS/10...|:warning: |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Amazon S3 Amazon...|Home - KVK Locat...|
-|[https://www.locatiescan.kvk.nl](https://www.locatiescan.kvk.nl)| |Microsoft-IIS/10...|:warning: |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Amazon S3 Amazon...|Home - KVK Locat...|
-|[https://bedrijventeller.kvk.nl](https://bedrijventeller.kvk.nl)| |Microsoft-IIS/10...|:warning: |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Amazon S3 Amazon...|Home - KVK Bedri...|
-|[https://www.bedrijventeller.kvk.nl](https://www.bedrijventeller.kvk.nl)| |Microsoft-IIS/10...|:warning: |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Amazon S3 Amazon...|Home - KVK Bedri...|
-|[https://click.email.kvk.nl](https://click.email.kvk.nl)| ||:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|403 - Forbidden:...|
+|[https://regiodata.kvk.nl](https://regiodata.kvk.nl)| |Microsoft-IIS/10...|:white_check_mark: |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Amazon S3 Amazon...|Home - KVK Regio...|
+|[https://www.regiodata.kvk.nl](https://www.regiodata.kvk.nl)| |Microsoft-IIS/10...|:white_check_mark: |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS IIS:10.0 Mi...|Document Moved|
+|[https://locatiescan.kvk.nl](https://locatiescan.kvk.nl)| |Microsoft-IIS/10...|:white_check_mark: |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Amazon S3 Amazon...|Home - KVK Locat...|
+|[https://www.locatiescan.kvk.nl](https://www.locatiescan.kvk.nl)| |Microsoft-IIS/10...|:white_check_mark: |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Amazon S3 Amazon...|Home - KVK Locat...|
+|[https://bedrijventeller.kvk.nl](https://bedrijventeller.kvk.nl)| |Microsoft-IIS/10...|:white_check_mark: |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Amazon S3 Amazon...|Home - KVK Bedri...|
+|[https://www.bedrijventeller.kvk.nl](https://www.bedrijventeller.kvk.nl)| |Microsoft-IIS/10...|:white_check_mark: |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Amazon S3 Amazon...|Home - KVK Bedri...|
+|[https://click.email.kvk.nl](https://click.email.kvk.nl)| ||:o: |:white_check_mark: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|403 - Forbidden:...|
 |[https://cia.staging.ondernemersplein.kvk.nl](https://cia.staging.ondernemersplein.kvk.nl)| |Microsoft-IIS/10...| |:white_check_mark: | | | |:white_check_mark: |HSTS IIS:10.0 Wi...||
 |[https://cmsgui.ondernemersplein.kvk.nl](https://cmsgui.ondernemersplein.kvk.nl)| |Microsoft-IIS/10...| |:white_check_mark: | | | |:white_check_mark: |HSTS IIS:10.0 Wi...|CMS GUI Extensio...|
 |[https://idp.npo.kvk.nl](https://idp.npo.kvk.nl)| |Unknown| |:white_check_mark: | |:white_check_mark: | |:white_check_mark: |HSTS|403 Forbidden|
@@ -66,6 +66,6 @@
 |[https://tbadmin.npo.kvk.nl](https://tbadmin.npo.kvk.nl)| |Unknown| |:white_check_mark: | | | |:white_check_mark: |HSTS|403 Forbidden|
 |[https://image.email.kvk.nl](https://image.email.kvk.nl)| |AkamaiGHost| | | | | |:white_check_mark: ||Access Denied|
 |[https://rhub.kvk.nl](https://rhub.kvk.nl)| |nginx| | | | | |:white_check_mark: |HSTS Nginx||
-|[https://events.kvk.nl](https://events.kvk.nl)| |nginx|:warning: |:white_check_mark: | |:white_check_mark: |:white_check_mark: |HSTS Nginx||
-|[https://admin.tbadmin.dev.kvk.nl](https://admin.tbadmin.dev.kvk.nl)| |Unknown|:warning: |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|303 See Other|
+|[https://events.kvk.nl](https://events.kvk.nl)| |nginx|:white_check_mark: |:white_check_mark: | |:white_check_mark: |:white_check_mark: |HSTS Nginx||
+|[https://admin.tbadmin.dev.kvk.nl](https://admin.tbadmin.dev.kvk.nl)| |Unknown|:white_check_mark: |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|303 See Other|
 |[https://admin.tbadmin.npo.kvk.nl](https://admin.tbadmin.npo.kvk.nl)| |Unknown| | | | | |:white_check_mark: |HSTS|403 Forbidden|

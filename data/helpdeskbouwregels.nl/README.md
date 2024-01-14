@@ -9,6 +9,6 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://www.helpdeskbouwregels.nl](https://www.helpdeskbouwregels.nl)| ||:warning: |:white_check_mark: | | | |:white_check_mark: |Azure Azure Fron...|Home | Veelgeste...|
+|[https://www.helpdeskbouwregels.nl](https://www.helpdeskbouwregels.nl)| ||:white_check_mark: |:white_check_mark: | | | |:white_check_mark: |Azure Azure Fron...|Home | Veelgeste...|
 |[https://beheer.helpdeskbouwregels.nl](https://beheer.helpdeskbouwregels.nl)| |Microsoft-IIS/10...| | | | | |:white_check_mark: |Azure IIS:10.0 M...|Beheer | Veelges...|
 |[https://helpdeskbouwregels.nl](https://helpdeskbouwregels.nl)| |Microsoft-IIS/10...| | | | | |:white_check_mark: |Azure HSTS IIS:1...|Home | Veelgeste...|

@@ -15,9 +15,9 @@
 |[https://login.idm.rvig.nl](https://login.idm.rvig.nl)| || |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Java||
 |[https://login.npr.idm.rvig.nl](https://login.npr.idm.rvig.nl)| || |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Java||
 |[https://prod.rvig.nl](https://prod.rvig.nl)| |nginx| |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx|301 Moved Perman...|
-|[https://publicaties.rvig.nl](https://publicaties.rvig.nl)| |wadp2|:warning: |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache Tomcat Gr...|Home - Toptaken|
-|[https://rni-webform.rvig.nl](https://rni-webform.rvig.nl)| ||:warning: |:white_check_mark: | | |:white_check_mark: |HSTS|RNI vooraanmeldi...|
-|[https://rni-webform-acc.rvig.nl](https://rni-webform-acc.rvig.nl)| ||:warning: |:white_check_mark: | | | |:white_check_mark: |HSTS|RNI vooraanmeldi...|
+|[https://publicaties.rvig.nl](https://publicaties.rvig.nl)| |wadp2|:white_check_mark: |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache Tomcat Gr...|Home - Toptaken|
+|[https://rni-webform.rvig.nl](https://rni-webform.rvig.nl)| ||:white_check_mark: |:white_check_mark: | | |:white_check_mark: |HSTS|RNI vooraanmeldi...|
+|[https://rni-webform-acc.rvig.nl](https://rni-webform-acc.rvig.nl)| ||:white_check_mark: |:white_check_mark: | | | |:white_check_mark: |HSTS|RNI vooraanmeldi...|
 |[https://test.rvig.nl](https://test.rvig.nl)| |nginx| |:white_check_mark: | | | |:white_check_mark: |Basic HSTS Nginx|401 Authorizatio...|
 |[https://test.intranet.rvig.nl](https://test.intranet.rvig.nl)| |nginx| |:white_check_mark: | | | |:white_check_mark: |HSTS Nginx|403 Forbidden|
 |[https://www.rvig.nl](https://www.rvig.nl)| |nginx| |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Drupal HSTS Ngin...|Home | RvIG|

@@ -21,7 +21,7 @@
 |[http://cesar-database.knmi.nl](http://cesar-database.knmi.nl)| |BigIP| | | | | |:white_check_mark: |F5 BigIP||
 |[https://climexp.knmi.nl](https://climexp.knmi.nl)| |Apache/2.4.41 (U...| |:white_check_mark: | | | |:white_check_mark: |Apache HTTP Serv...||
 |[https://connect.knmi.nl](https://connect.knmi.nl)| |BigIP|:warning: |:white_check_mark: | |:white_check_mark: | |:white_check_mark: |F5 BigIP||
-|[https://consultatie.knmi.nl](https://consultatie.knmi.nl)| |Apache/2.4.25 (D...|:warning: | | | | |:white_check_mark: |Amazon ALB Amazo...||
+|[https://consultatie.knmi.nl](https://consultatie.knmi.nl)| |Apache/2.4.25 (D...|:o: | | | | |:white_check_mark: |Amazon ALB Amazo...||
 |[https://daggegevens.knmi.nl](https://daggegevens.knmi.nl)| ||:warning: | | |:white_check_mark: |:white_check_mark: |:white_check_mark: |Ruby Ruby on Rai...|Dagwaarden van w...|
 |[https://data.knmi.nl](https://data.knmi.nl)| |awselb/2.0| |:white_check_mark: |:warning: |:white_check_mark: | |:white_check_mark: |Amazon ELB Amazo...|301 Moved Perman...|
 |[https://datalab.knmi.nl](https://datalab.knmi.nl)| |Apache/2| | | | | |:white_check_mark: |Apache HTTP Serv...|KNMI datalab - K...|
@@ -34,18 +34,18 @@
 |[http://extern.knmi.nl](http://extern.knmi.nl)| || | | | | |:white_check_mark: |||
 |[https://fs.knmi.nl](https://fs.knmi.nl)| |Microsoft-HTTPAP...| | | | | |:white_check_mark: |Microsoft HTTPAP...|Not Found|
 |[https://geoservices.knmi.nl](https://geoservices.knmi.nl)| |uvicorn| |:white_check_mark: | | |:white_check_mark: |HSTS Python Uvic...||
-|[https://gladheid.knmi.nl](https://gladheid.knmi.nl)| |Apache|:warning: | | |:white_check_mark: |:white_check_mark: |:white_check_mark: |Amazon ALB Amazo...|401 Unauthorized|
+|[https://gladheid.knmi.nl](https://gladheid.knmi.nl)| |Apache|:o: | | |:white_check_mark: |:white_check_mark: |:white_check_mark: |Amazon ALB Amazo...|401 Unauthorized|
 |[https://iris.knmi.nl](https://iris.knmi.nl)| || |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |Amazon CloudFron...|Login|
 |[https://jira.knmi.nl](https://jira.knmi.nl)| |BigIP|:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |:white_check_mark: |F5 BigIP||
-|[https://mijn.knmi.nl](https://mijn.knmi.nl)| |Apache|:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Amazon ALB Amazo...|KNMI Extranet|
+|[https://mijn.knmi.nl](https://mijn.knmi.nl)| |Apache|:o: |:white_check_mark: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Amazon ALB Amazo...|KNMI Extranet|
 |[https://msgcpp.knmi.nl](https://msgcpp.knmi.nl)| |AmazonS3| | | | | |:white_check_mark: |Amazon CloudFron...|MSG Cloud Physic...|
 |[https://msgcpp-adaguc.knmi.nl](https://msgcpp-adaguc.knmi.nl)| |uvicorn| |:white_check_mark: | | |:white_check_mark: |HSTS Python Uvic...||
 |[https://password.knmi.nl](https://password.knmi.nl)| || | | | | |:white_check_mark: |HSTS Java||
 |[http://projects.knmi.nl](http://projects.knmi.nl)| |BigIP| |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |F5 BigIP||
-|[https://rdsa.knmi.nl](https://rdsa.knmi.nl)| |Apache|:warning: | | | | |:white_check_mark: |Apache HTTP Serv...|KNMI Seismic & A...|
+|[https://rdsa.knmi.nl](https://rdsa.knmi.nl)| |Apache|:white_check_mark: | | | | |:white_check_mark: |Apache HTTP Serv...|KNMI Seismic & A...|
 |[https://rdsa-prdt.knmi.nl](https://rdsa-prdt.knmi.nl)| |Apache| | | | | |:white_check_mark: |Apache HTTP Serv...|KNMI Seismic & A...|
 |[http://rdsa-test.knmi.nl](http://rdsa-test.knmi.nl)| |Apache| | | | | |:white_check_mark: |Apache HTTP Serv...|403 Forbidden|
-|[https://scatterometer.knmi.nl](https://scatterometer.knmi.nl)| |Apache/2.4.57 (D...|:warning: | | | | |:white_check_mark: |Amazon ALB Amazo...||
+|[https://scatterometer.knmi.nl](https://scatterometer.knmi.nl)| |Apache/2.4.57 (D...|:o: | | | | |:white_check_mark: |Amazon ALB Amazo...||
 |[https://testconn.knmi.nl](https://testconn.knmi.nl)| ||:warning: |:white_check_mark: | |:white_check_mark: | |:white_check_mark: |F5 BigIP HSTS||
 |[https://testgeoservices.knmi.nl](https://testgeoservices.knmi.nl)| |uvicorn| | | | | |:white_check_mark: |HSTS Python Uvic...||
 |[https://tyk-cdn.dataplatform.knmi.nl](https://tyk-cdn.dataplatform.knmi.nl)| |AmazonS3| | | | | |:white_check_mark: |Amazon CloudFron...||

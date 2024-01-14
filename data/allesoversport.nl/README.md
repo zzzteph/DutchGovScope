@@ -11,7 +11,7 @@
 |------------|-------|------|------|------|------|------|------|------|------|------|
 |[https://auteurs.allesoversport.nl](https://auteurs.allesoversport.nl)| || |:white_check_mark: | | | |:white_check_mark: |HSTS MySQL PHP V...|Home - Kenniscen...|
 |[https://mail.allesoversport.nl](https://mail.allesoversport.nl)| || | | | | |:white_check_mark: |HSTS Varnish:6.2|Default site|
-|[https://o306.allesoversport.nl](https://o306.allesoversport.nl)| ||:warning: | | | | |:white_check_mark: |Amazon ALB Amazo...|Error 404|
+|[https://o306.allesoversport.nl](https://o306.allesoversport.nl)| ||:o: | | | | |:white_check_mark: |Amazon ALB Amazo...|Error 404|
 |[https://repo.allesoversport.nl](https://repo.allesoversport.nl)| || |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS PHP|Redirecting to /...|
 |[https://sportakkoord.allesoversport.nl](https://sportakkoord.allesoversport.nl)| || |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Varnish:6.2|302 Found|
 |[https://w906.allesoversport.nl](https://w906.allesoversport.nl)| || | | | | |:white_check_mark: |HSTS Varnish:6.2|Default site|

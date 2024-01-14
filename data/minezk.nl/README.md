@@ -11,5 +11,5 @@
 |------------|-------|------|------|------|------|------|------|------|------|------|
 |[https://www.minezk.nl](https://www.minezk.nl)| || |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |||
 |[http://scanapp.minezk.nl](http://scanapp.minezk.nl)| || | | | | |:white_check_mark: |||
-|[https://acc.datacatalogus.minezk.nl](https://acc.datacatalogus.minezk.nl)| |Apache|:warning: |:white_check_mark: |:white_check_mark: | |:white_check_mark: |Apache HTTP Serv...|302 Found|
+|[https://acc.datacatalogus.minezk.nl](https://acc.datacatalogus.minezk.nl)| |Apache|:white_check_mark: |:white_check_mark: |:white_check_mark: | |:white_check_mark: |Apache HTTP Serv...|302 Found|
 |[https://minezk.nl](https://minezk.nl)| || |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |||

@@ -36,7 +36,7 @@
 |[https://www.herseninstituut.knaw.nl](https://www.herseninstituut.knaw.nl)| || | | | | |:white_check_mark: |Varnish:6.6|Default site|
 |[https://acc.cms21.knaw.nl](https://acc.cms21.knaw.nl)| |nginx| |:white_check_mark: | |:white_check_mark: | |:white_check_mark: |Drupal HSTS Ngin...|Redirecting to h...|
 |[https://www.promise.nioo.knaw.nl](https://www.promise.nioo.knaw.nl)| |nginx| | | |:white_check_mark: | |:white_check_mark: |Drupal Nginx PHP|Promise|
-|[https://pure.knaw.nl](https://pure.knaw.nl)| |Apache|:warning: |:white_check_mark: |:warning: |:white_check_mark: | |:white_check_mark: |Apache HTTP Serv...|302 Found|
+|[https://pure.knaw.nl](https://pure.knaw.nl)| |Apache|:white_check_mark: |:white_check_mark: |:warning: |:white_check_mark: | |:white_check_mark: |Apache HTTP Serv...|302 Found|
 |[https://www.cdn.test.back2roots.nioo.knaw.nl](https://www.cdn.test.back2roots.nioo.knaw.nl)| |nginx| | | | | |:white_check_mark: |Nginx|502 Bad Gateway|
 |[https://cdn.test.promise.nioo.knaw.nl](https://cdn.test.promise.nioo.knaw.nl)| |nginx| | | | | |:white_check_mark: |Nginx|502 Bad Gateway|
 |[https://graph.zandbak.dans.knaw.nl](https://graph.zandbak.dans.knaw.nl)| || | | | | |:white_check_mark: |||
@@ -79,9 +79,9 @@
 |[https://ws.test.backtoroots.nioo.knaw.nl](https://ws.test.backtoroots.nioo.knaw.nl)| |nginx| | | | | |:white_check_mark: |Nginx|502 Bad Gateway|
 |[https://webstats.uat.backtoroots.nioo.knaw.nl](https://webstats.uat.backtoroots.nioo.knaw.nl)| |nginx| | | | | |:white_check_mark: |Nginx|403 Forbidden|
 |[https://ws.test.intranet.nioo.knaw.nl](https://ws.test.intranet.nioo.knaw.nl)| |nginx| | | | | |:white_check_mark: |Nginx|502 Bad Gateway|
-|[http://autodiscover.ehumanities.knaw.nl](http://autodiscover.ehumanities.knaw.nl)| |Microsoft-IIS/10...|:warning: |:white_check_mark: | | |:white_check_mark: |:white_check_mark: |IIS:10.0 Microso...||
-|[http://autodiscover.dans.knaw.nl](http://autodiscover.dans.knaw.nl)| |Microsoft-IIS/10...|:warning: |:white_check_mark: | | |:white_check_mark: |:white_check_mark: |IIS:10.0 Microso...||
-|[http://autodiscover.nias.knaw.nl](http://autodiscover.nias.knaw.nl)| |Microsoft-IIS/10...|:warning: |:white_check_mark: | | |:white_check_mark: |:white_check_mark: |IIS:10.0 Microso...||
+|[http://autodiscover.ehumanities.knaw.nl](http://autodiscover.ehumanities.knaw.nl)| |Microsoft-IIS/10...|:white_check_mark: |:white_check_mark: | | |:white_check_mark: |:white_check_mark: |IIS:10.0 Microso...||
+|[http://autodiscover.dans.knaw.nl](http://autodiscover.dans.knaw.nl)| |Microsoft-IIS/10...|:white_check_mark: |:white_check_mark: | | |:white_check_mark: |:white_check_mark: |IIS:10.0 Microso...||
+|[http://autodiscover.nias.knaw.nl](http://autodiscover.nias.knaw.nl)| |Microsoft-IIS/10...|:white_check_mark: |:white_check_mark: | | |:white_check_mark: |:white_check_mark: |IIS:10.0 Microso...||
 |[https://climatepursuit.nioo.knaw.nl](https://climatepursuit.nioo.knaw.nl)| |nginx| |:white_check_mark: | | | |:white_check_mark: |HSTS Nginx|Climate Pursuit|
 |[https://webmail.ceme.nioo.knaw.nl](https://webmail.ceme.nioo.knaw.nl)| |nginx| | | | | |:white_check_mark: |Drupal HSTS Ngin...|Redirecting to h...|
 |[https://www.cdn.test.intranet.nioo.knaw.nl](https://www.cdn.test.intranet.nioo.knaw.nl)| |nginx| | | | | |:white_check_mark: |Nginx|502 Bad Gateway|
@@ -99,7 +99,7 @@
 |[https://www.mailtrap.uat.nioo.knaw.nl](https://www.mailtrap.uat.nioo.knaw.nl)| |nginx| | | | | |:white_check_mark: |Nginx|403 Forbidden|
 |[https://test.nioo.knaw.nl](https://test.nioo.knaw.nl)| |nginx| | | | | |:white_check_mark: |Basic Nginx|401 Authorizatio...|
 |[https://svn.ceme.nioo.knaw.nl](https://svn.ceme.nioo.knaw.nl)| |nginx| | | | | |:white_check_mark: |Drupal HSTS Ngin...|Redirecting to h...|
-|[http://autodiscover.iac.knaw.nl](http://autodiscover.iac.knaw.nl)| |Microsoft-IIS/10...|:warning: |:white_check_mark: | | |:white_check_mark: |:white_check_mark: |IIS:10.0 Microso...||
+|[http://autodiscover.iac.knaw.nl](http://autodiscover.iac.knaw.nl)| |Microsoft-IIS/10...|:white_check_mark: |:white_check_mark: | | |:white_check_mark: |:white_check_mark: |IIS:10.0 Microso...||
 |[https://pc150.cemo.nioo.knaw.nl](https://pc150.cemo.nioo.knaw.nl)| |nginx| | | | | |:white_check_mark: |Drupal HSTS Ngin...|Redirecting to h...|
 |[https://acc.api.knaw.nl](https://acc.api.knaw.nl)| |nginx| | | | | |:white_check_mark: |Nginx|Not Found|
 |[https://prtg.nioo.knaw.nl](https://prtg.nioo.knaw.nl)| |nginx| |:white_check_mark: | |:white_check_mark: | |:white_check_mark: |Drupal HSTS Ngin...|Redirecting to h...|
@@ -110,12 +110,12 @@
 |[https://cdn.uat.back2roots.nioo.knaw.nl](https://cdn.uat.back2roots.nioo.knaw.nl)| |nginx| | | | | |:white_check_mark: |Nginx|502 Bad Gateway|
 |[https://api.zandbak.dans.knaw.nl](https://api.zandbak.dans.knaw.nl)| |uvicorn| | | | | |:white_check_mark: |Python Uvicorn||
 |[https://bodemdierendagen.nioo.knaw.nl](https://bodemdierendagen.nioo.knaw.nl)| |nginx| |:white_check_mark: | |:white_check_mark: | |:white_check_mark: |Drupal:9 HSTS Ng...|Redirecting to h...|
-|[http://autodiscover.dh.huc.knaw.nl](http://autodiscover.dh.huc.knaw.nl)| |Microsoft-IIS/10...|:warning: |:white_check_mark: | | |:white_check_mark: |:white_check_mark: |IIS:10.0 Microso...||
+|[http://autodiscover.dh.huc.knaw.nl](http://autodiscover.dh.huc.knaw.nl)| |Microsoft-IIS/10...|:white_check_mark: |:white_check_mark: | | |:white_check_mark: |:white_check_mark: |IIS:10.0 Microso...||
 |[https://mailtrap.test.backtoroots.nioo.knaw.nl](https://mailtrap.test.backtoroots.nioo.knaw.nl)| |nginx| | | | | |:white_check_mark: |Basic Nginx|401 Unauthorized|
-|[http://autodiscover.knaw.nl](http://autodiscover.knaw.nl)| |Microsoft-IIS/10...|:warning: |:white_check_mark: | | |:white_check_mark: |:white_check_mark: |IIS:10.0 Microso...||
+|[http://autodiscover.knaw.nl](http://autodiscover.knaw.nl)| |Microsoft-IIS/10...|:white_check_mark: |:white_check_mark: | | |:white_check_mark: |:white_check_mark: |IIS:10.0 Microso...||
 |[https://www.test.promise.nioo.knaw.nl](https://www.test.promise.nioo.knaw.nl)| |nginx| | | | | |:white_check_mark: |Basic Nginx|401 Authorizatio...|
 |[https://mailtrap.test.intranet.nioo.knaw.nl](https://mailtrap.test.intranet.nioo.knaw.nl)| |nginx| | | | | |:white_check_mark: |Basic Nginx|401 Unauthorized|
-|[http://autodiscover.huc.knaw.nl](http://autodiscover.huc.knaw.nl)| |Microsoft-IIS/10...|:warning: |:white_check_mark: | | |:white_check_mark: |:white_check_mark: |IIS:10.0 Microso...||
+|[http://autodiscover.huc.knaw.nl](http://autodiscover.huc.knaw.nl)| |Microsoft-IIS/10...|:white_check_mark: |:white_check_mark: | | |:white_check_mark: |:white_check_mark: |IIS:10.0 Microso...||
 |[https://backtoroots.nioo.knaw.nl](https://backtoroots.nioo.knaw.nl)| |nginx| | | |:white_check_mark: | |:white_check_mark: |Nginx|301 Moved Perman...|
 |[https://uat.nioo.knaw.nl](https://uat.nioo.knaw.nl)| |nginx| | | | | |:white_check_mark: |Basic Nginx|401 Authorizatio...|
 |[https://www.test.nioo.knaw.nl](https://www.test.nioo.knaw.nl)| |nginx| | | | | |:white_check_mark: |Basic Nginx|401 Authorizatio...|
@@ -129,15 +129,15 @@
 |[https://mailtrap.test.promise.nioo.knaw.nl](https://mailtrap.test.promise.nioo.knaw.nl)| |nginx| | | | | |:white_check_mark: |Basic Nginx|401 Unauthorized|
 |[https://ws.test.promise.nioo.knaw.nl](https://ws.test.promise.nioo.knaw.nl)| |nginx| | | | | |:white_check_mark: |Nginx|502 Bad Gateway|
 |[https://api.knaw.nl](https://api.knaw.nl)| |nginx| | | | | |:white_check_mark: |Nginx|Not Found|
-|[http://autodiscover.test.knaw.nl](http://autodiscover.test.knaw.nl)| |Microsoft-IIS/10...|:warning: |:white_check_mark: | | |:white_check_mark: |:white_check_mark: |IIS:10.0 Microso...||
+|[http://autodiscover.test.knaw.nl](http://autodiscover.test.knaw.nl)| |Microsoft-IIS/10...|:white_check_mark: |:white_check_mark: | | |:white_check_mark: |:white_check_mark: |IIS:10.0 Microso...||
 |[https://pop.nioo.knaw.nl](https://pop.nioo.knaw.nl)| |nginx| |:white_check_mark: | |:white_check_mark: | |:white_check_mark: |Drupal HSTS Ngin...|Redirecting to h...|
 |[https://www.back2roots.nioo.knaw.nl](https://www.back2roots.nioo.knaw.nl)| |nginx| | | |:white_check_mark: | |:white_check_mark: |Drupal Nginx PHP|Back2Roots|
 |[https://skosmos.zandbak.dans.knaw.nl](https://skosmos.zandbak.dans.knaw.nl)| |Apache/2.4.41 (U...| | | | | |:white_check_mark: |Apache HTTP Serv...||
 |[https://cdn.uat.intranet.nioo.knaw.nl](https://cdn.uat.intranet.nioo.knaw.nl)| |nginx| | | | | |:white_check_mark: |Nginx|502 Bad Gateway|
 |[https://webstats.uat.intranet.nioo.knaw.nl](https://webstats.uat.intranet.nioo.knaw.nl)| |nginx| | | | | |:white_check_mark: |Nginx|403 Forbidden|
-|[https://stats.knaw.nl](https://stats.knaw.nl)| |nginx|:warning: |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Nginx|Matomo › Error|
+|[https://stats.knaw.nl](https://stats.knaw.nl)| |nginx|:white_check_mark: |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Nginx|Matomo › Error|
 |[https://andwww.nioo.knaw.nl](https://andwww.nioo.knaw.nl)| |nginx| |:white_check_mark: | |:white_check_mark: | |:white_check_mark: |Drupal:9 HSTS Ng...|Redirecting to h...|
-|[http://autodiscover.nioo.knaw.nl](http://autodiscover.nioo.knaw.nl)| |Microsoft-IIS/10...|:warning: |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |IIS:10.0 Microso...||
+|[http://autodiscover.nioo.knaw.nl](http://autodiscover.nioo.knaw.nl)| |Microsoft-IIS/10...|:white_check_mark: |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |IIS:10.0 Microso...||
 |[https://rooswijk.huygens.knaw.nl](https://rooswijk.huygens.knaw.nl)| |Netlify| | | | | |:white_check_mark: |Netlify YouTube|De Rooswijk, een...|
 |[https://ipt.nioo.knaw.nl](https://ipt.nioo.knaw.nl)| |nginx| |:white_check_mark: | |:white_check_mark: | |:white_check_mark: |Drupal:9 HSTS Ng...|Redirecting to h...|
 |[https://www.mailtrap.uat.backtoroots.nioo.knaw.nl](https://www.mailtrap.uat.backtoroots.nioo.knaw.nl)| |nginx| | | | | |:white_check_mark: |Nginx|403 Forbidden|
@@ -164,29 +164,29 @@
 |[https://www.mailtrap.uat.back2roots.nioo.knaw.nl](https://www.mailtrap.uat.back2roots.nioo.knaw.nl)| |nginx| | | | | |:white_check_mark: |Nginx|403 Forbidden|
 |[https://storage.knaw.nl](https://storage.knaw.nl)| |AmazonS3| | | | | |:white_check_mark: |Amazon CloudFron...||
 |[https://data.nioo.knaw.nl](https://data.nioo.knaw.nl)| |nginx| |:white_check_mark: | |:white_check_mark: | |:white_check_mark: |Nginx|301 Moved Perman...|
-|[http://autodiscover.herseninstituut.knaw.nl](http://autodiscover.herseninstituut.knaw.nl)| |Microsoft-IIS/10...|:warning: |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |IIS:10.0 Microso...||
+|[http://autodiscover.herseninstituut.knaw.nl](http://autodiscover.herseninstituut.knaw.nl)| |Microsoft-IIS/10...|:white_check_mark: |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |IIS:10.0 Microso...||
 |[https://pc153.cemo.nioo.knaw.nl](https://pc153.cemo.nioo.knaw.nl)| |nginx| | | | | |:white_check_mark: |Drupal HSTS Ngin...|Redirecting to h...|
 |[https://www.nioo.knaw.nl](https://www.nioo.knaw.nl)| |nginx| |:white_check_mark: | |:white_check_mark: | |:white_check_mark: |HSTS Nginx|301 Moved Perman...|
 |[https://www.webstats.uat.intranet.nioo.knaw.nl](https://www.webstats.uat.intranet.nioo.knaw.nl)| |nginx| | | | | |:white_check_mark: |Nginx|403 Forbidden|
 |[https://www.test.intranet.nioo.knaw.nl](https://www.test.intranet.nioo.knaw.nl)| |nginx| | | | | |:white_check_mark: |Basic Nginx|401 Authorizatio...|
 |[https://nioo-preprod.knaw.nl](https://nioo-preprod.knaw.nl)| |nginx| | | | | |:white_check_mark: |HSTS Nginx|301 Moved Perman...|
 |[https://beta.nmgn.huygens.knaw.nl](https://beta.nmgn.huygens.knaw.nl)| |Netlify| |:white_check_mark: | | | |:white_check_mark: |HSTS Netlify|homepage | NMGN...|
-|[http://autodiscover.huygens.knaw.nl](http://autodiscover.huygens.knaw.nl)| |Microsoft-IIS/10...|:warning: |:white_check_mark: | | |:white_check_mark: |:white_check_mark: |IIS:10.0 Microso...||
+|[http://autodiscover.huygens.knaw.nl](http://autodiscover.huygens.knaw.nl)| |Microsoft-IIS/10...|:white_check_mark: |:white_check_mark: | | |:white_check_mark: |:white_check_mark: |IIS:10.0 Microso...||
 |[https://test.back2roots.nioo.knaw.nl](https://test.back2roots.nioo.knaw.nl)| |nginx| | | | | |:white_check_mark: |Basic Nginx|401 Authorizatio...|
 |[https://s3api.zandbak.dans.knaw.nl](https://s3api.zandbak.dans.knaw.nl)| || |:white_check_mark: | |:white_check_mark: |:white_check_mark: |||
 |[https://legacywebmail.nioo.knaw.nl](https://legacywebmail.nioo.knaw.nl)| |nginx| |:white_check_mark: | |:white_check_mark: | |:white_check_mark: |Drupal HSTS Ngin...|Redirecting to h...|
 |[https://www.uat.nioo.knaw.nl](https://www.uat.nioo.knaw.nl)| |nginx| | | | | |:white_check_mark: |Basic Nginx|401 Authorizatio...|
 |[https://wi.knaw.nl](https://wi.knaw.nl)| || |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|Loading...|
 |[https://support.dans.knaw.nl](https://support.dans.knaw.nl)| |fwe| | | | | |:white_check_mark: |Amazon S3 Amazon...||
-|[https://support.easy.dans.knaw.nl](https://support.easy.dans.knaw.nl)| |fwe|:warning: |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |Amazon S3 Amazon...||
+|[https://support.easy.dans.knaw.nl](https://support.easy.dans.knaw.nl)| |fwe|:white_check_mark: |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |Amazon S3 Amazon...||
 |[https://www.mailtrap.uat.promise.nioo.knaw.nl](https://www.mailtrap.uat.promise.nioo.knaw.nl)| |nginx| | | | | |:white_check_mark: |Nginx|403 Forbidden|
-|[http://autodiscover.spinozacentre.knaw.nl](http://autodiscover.spinozacentre.knaw.nl)| |Microsoft-IIS/10...|:warning: |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |IIS:10.0 Microso...||
+|[http://autodiscover.spinozacentre.knaw.nl](http://autodiscover.spinozacentre.knaw.nl)| |Microsoft-IIS/10...|:white_check_mark: |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |IIS:10.0 Microso...||
 |[https://www.ws.uat.back2roots.nioo.knaw.nl](https://www.ws.uat.back2roots.nioo.knaw.nl)| |nginx| | | | | |:white_check_mark: |Nginx|502 Bad Gateway|
 |[https://www.mailtrap.test.nioo.knaw.nl](https://www.mailtrap.test.nioo.knaw.nl)| |nginx| | | | | |:white_check_mark: |Nginx|403 Forbidden|
-|[http://autodiscover.nin.knaw.nl](http://autodiscover.nin.knaw.nl)| |Microsoft-IIS/10...|:warning: |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |IIS:10.0 Microso...||
+|[http://autodiscover.nin.knaw.nl](http://autodiscover.nin.knaw.nl)| |Microsoft-IIS/10...|:white_check_mark: |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |IIS:10.0 Microso...||
 |[https://www.ws.test.nioo.knaw.nl](https://www.ws.test.nioo.knaw.nl)| |nginx| | | | | |:white_check_mark: |Nginx|502 Bad Gateway|
 |[https://cms21.knaw.nl](https://cms21.knaw.nl)| |nginx| |:white_check_mark: | |:white_check_mark: | |:white_check_mark: |Drupal HSTS Ngin...|Redirecting to h...|
-|[https://vacatures.knaw.nl](https://vacatures.knaw.nl)| |Apache|:warning: |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache HTTP Serv...|Werken bij KNAW|
+|[https://vacatures.knaw.nl](https://vacatures.knaw.nl)| |Apache|:white_check_mark: |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache HTTP Serv...|Werken bij KNAW|
 |[https://ws.uat.promise.nioo.knaw.nl](https://ws.uat.promise.nioo.knaw.nl)| |nginx| | | | | |:white_check_mark: |Nginx|502 Bad Gateway|
 |[https://www.cdn.uat.intranet.nioo.knaw.nl](https://www.cdn.uat.intranet.nioo.knaw.nl)| |nginx| | | | | |:white_check_mark: |Nginx|502 Bad Gateway|
 |[https://art-of-reasoning.huygens.knaw.nl](https://art-of-reasoning.huygens.knaw.nl)| |Netlify| |:white_check_mark: | | | |:white_check_mark: |HSTS Netlify|Home - The Art o...|
@@ -197,10 +197,10 @@
 |[https://www.mailtrap.test.backtoroots.nioo.knaw.nl](https://www.mailtrap.test.backtoroots.nioo.knaw.nl)| |nginx| | | | | |:white_check_mark: |Nginx|403 Forbidden|
 |[https://webstats.test.nioo.knaw.nl](https://webstats.test.nioo.knaw.nl)| |nginx| | | | | |:white_check_mark: |Nginx|403 Forbidden|
 |[https://uat.promise.nioo.knaw.nl](https://uat.promise.nioo.knaw.nl)| |nginx| | | | | |:white_check_mark: |Basic Nginx|401 Authorizatio...|
-|[http://autodiscover.bb.huc.knaw.nl](http://autodiscover.bb.huc.knaw.nl)| |Microsoft-IIS/10...|:warning: |:white_check_mark: | | |:white_check_mark: |:white_check_mark: |IIS:10.0 Microso...||
+|[http://autodiscover.bb.huc.knaw.nl](http://autodiscover.bb.huc.knaw.nl)| |Microsoft-IIS/10...|:white_check_mark: |:white_check_mark: | | |:white_check_mark: |:white_check_mark: |IIS:10.0 Microso...||
 |[https://www.ws.test.backtoroots.nioo.knaw.nl](https://www.ws.test.backtoroots.nioo.knaw.nl)| |nginx| | | | | |:white_check_mark: |Nginx|502 Bad Gateway|
 |[https://uat.intranet.nioo.knaw.nl](https://uat.intranet.nioo.knaw.nl)| |nginx| | | | | |:white_check_mark: |Basic Nginx|401 Authorizatio...|
-|[https://intranet.nioo.knaw.nl](https://intranet.nioo.knaw.nl)| |nginx|:warning: | | |:white_check_mark: | |:white_check_mark: |Nginx|403 Forbidden|
+|[https://intranet.nioo.knaw.nl](https://intranet.nioo.knaw.nl)| |nginx|:white_check_mark: | | |:white_check_mark: | |:white_check_mark: |Nginx|403 Forbidden|
 |[https://mijnloonstrook.knaw.nl](https://mijnloonstrook.knaw.nl)| |nginx| | | | | |:white_check_mark: |Nginx||
 |[https://cbs.knaw.nl](https://cbs.knaw.nl)| |Microsoft-HTTPAP...| | | | | |:white_check_mark: |Microsoft HTTPAP...|Not Found|
 |[https://oroc.knaw.nl](https://oroc.knaw.nl)| |nginx| | | | | |:white_check_mark: |HSTS Nextcloud N...|Nextcloud|
@@ -215,27 +215,27 @@
 |[https://id.zandbak.dans.knaw.nl](https://id.zandbak.dans.knaw.nl)| || | | | | |:white_check_mark: |||
 |[https://uat.backtoroots.nioo.knaw.nl](https://uat.backtoroots.nioo.knaw.nl)| |nginx| | | | | |:white_check_mark: |Basic Nginx|401 Authorizatio...|
 |[https://www.webstats.test.backtoroots.nioo.knaw.nl](https://www.webstats.test.backtoroots.nioo.knaw.nl)| |nginx| | | | | |:white_check_mark: |Nginx|403 Forbidden|
-|[http://autodiscover.meertens.knaw.nl](http://autodiscover.meertens.knaw.nl)| |Microsoft-IIS/10...|:warning: |:white_check_mark: | | |:white_check_mark: |:white_check_mark: |IIS:10.0 Microso...||
+|[http://autodiscover.meertens.knaw.nl](http://autodiscover.meertens.knaw.nl)| |Microsoft-IIS/10...|:white_check_mark: |:white_check_mark: | | |:white_check_mark: |:white_check_mark: |IIS:10.0 Microso...||
 |[https://promise.nioo.knaw.nl](https://promise.nioo.knaw.nl)| |nginx| | | |:white_check_mark: | |:white_check_mark: |Drupal Nginx PHP|Promise|
 |[https://www.webstats.uat.nioo.knaw.nl](https://www.webstats.uat.nioo.knaw.nl)| |nginx| | | | | |:white_check_mark: |Nginx|403 Forbidden|
-|[https://pureacc.knaw.nl](https://pureacc.knaw.nl)| |Apache|:warning: |:white_check_mark: |:warning: |:white_check_mark: | |:white_check_mark: |Apache HTTP Serv...||
+|[https://pureacc.knaw.nl](https://pureacc.knaw.nl)| |Apache|:white_check_mark: |:white_check_mark: |:warning: |:white_check_mark: | |:white_check_mark: |Apache HTTP Serv...||
 |[https://www.niod.knaw.nl](https://www.niod.knaw.nl)| |nginx| |:white_check_mark: | | | |:white_check_mark: |Nginx|301 Moved Perman...|
 |[https://test.promise.nioo.knaw.nl](https://test.promise.nioo.knaw.nl)| |nginx| | | | | |:white_check_mark: |Basic Nginx|401 Authorizatio...|
 |[https://webstats.test.intranet.nioo.knaw.nl](https://webstats.test.intranet.nioo.knaw.nl)| |nginx| | | | | |:white_check_mark: |Nginx|403 Forbidden|
-|[http://autodiscover.di.huc.knaw.nl](http://autodiscover.di.huc.knaw.nl)| |Microsoft-IIS/10...|:warning: |:white_check_mark: | | |:white_check_mark: |:white_check_mark: |IIS:10.0 Microso...||
+|[http://autodiscover.di.huc.knaw.nl](http://autodiscover.di.huc.knaw.nl)| |Microsoft-IIS/10...|:white_check_mark: |:white_check_mark: | | |:white_check_mark: |:white_check_mark: |IIS:10.0 Microso...||
 |[https://subsite.nioo-acc.knaw.nl](https://subsite.nioo-acc.knaw.nl)| |nginx| |:white_check_mark: | | | |:white_check_mark: |Basic HSTS Nginx|401 Authorizatio...|
 |[https://webstats.uat.nioo.knaw.nl](https://webstats.uat.nioo.knaw.nl)| |nginx| | | | | |:white_check_mark: |Nginx|403 Forbidden|
-|[https://mda.nioo.knaw.nl](https://mda.nioo.knaw.nl)| |Apache/2.4.57 (W...|:warning: | |:warning: | | |:white_check_mark: |Apache HTTP Serv...|Data en informat...|
+|[https://mda.nioo.knaw.nl](https://mda.nioo.knaw.nl)| |Apache/2.4.57 (W...|:o: | |:warning: | | |:white_check_mark: |Apache HTTP Serv...|Data en informat...|
 |[https://imap.nioo.knaw.nl](https://imap.nioo.knaw.nl)| |nginx| |:white_check_mark: | |:white_check_mark: | |:white_check_mark: |Drupal:9 HSTS Ng...|Redirecting to h...|
 |[https://acc.knaw.nl](https://acc.knaw.nl)| |nginx| | | | | |:white_check_mark: |Basic Nginx|401 Authorizatio...|
 |[https://webmail.cte.nioo.knaw.nl](https://webmail.cte.nioo.knaw.nl)| |nginx| | | | | |:white_check_mark: |Drupal:9 HSTS Ng...|Redirecting to h...|
 |[https://webstats.test.back2roots.nioo.knaw.nl](https://webstats.test.back2roots.nioo.knaw.nl)| |nginx| | | | | |:white_check_mark: |Nginx|403 Forbidden|
-|[http://autodiscover.niod.knaw.nl](http://autodiscover.niod.knaw.nl)| |Microsoft-IIS/10...|:warning: |:white_check_mark: | | |:white_check_mark: |:white_check_mark: |IIS:10.0 Microso...||
+|[http://autodiscover.niod.knaw.nl](http://autodiscover.niod.knaw.nl)| |Microsoft-IIS/10...|:white_check_mark: |:white_check_mark: | | |:white_check_mark: |:white_check_mark: |IIS:10.0 Microso...||
 |[https://dataverse.zandbak.dans.knaw.nl](https://dataverse.zandbak.dans.knaw.nl)| || | | | | |:white_check_mark: |||
 |[https://piwik.nioo.knaw.nl](https://piwik.nioo.knaw.nl)| |nginx| | | | | |:white_check_mark: |Nginx|403 Forbidden|
 |[https://knaw.nl](https://knaw.nl)| |awselb/2.0| |:white_check_mark: | |:white_check_mark: | |:white_check_mark: |Amazon ELB Amazo...|301 Moved Perman...|
 |[https://cwe.nioo.knaw.nl](https://cwe.nioo.knaw.nl)| |nginx| | | | | |:white_check_mark: |Nginx|403 Forbidden|
-|[http://autodiscover.wi.knaw.nl](http://autodiscover.wi.knaw.nl)| |Microsoft-IIS/10...|:warning: |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |IIS:10.0 Microso...||
+|[http://autodiscover.wi.knaw.nl](http://autodiscover.wi.knaw.nl)| |Microsoft-IIS/10...|:white_check_mark: |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |IIS:10.0 Microso...||
 |[https://test.climatepursuit.nioo.knaw.nl](https://test.climatepursuit.nioo.knaw.nl)| |nginx| | | | | |:white_check_mark: |Nginx|403 Forbidden|
 |[https://ecp.nioo.knaw.nl](https://ecp.nioo.knaw.nl)| |nginx| |:white_check_mark: | |:white_check_mark: | |:white_check_mark: |Drupal:9 HSTS Ng...|Redirecting to h...|
 |[https://fuseki.zandbak.dans.knaw.nl](https://fuseki.zandbak.dans.knaw.nl)| || | | | | |:white_check_mark: |Bootstrap|Apache Jena Fuse...|
@@ -249,6 +249,6 @@
 |[https://communicatie.niod.knaw.nl](https://communicatie.niod.knaw.nl)| || | | | |:white_check_mark: |:white_check_mark: |HSTS||
 |[https://communicatie.huc.knaw.nl](https://communicatie.huc.knaw.nl)| ||:warning: |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS||
 |[https://rdsgw.nioo.knaw.nl](https://rdsgw.nioo.knaw.nl)| || | | | | |:white_check_mark: |||
-|[https://rds.nioo.knaw.nl](https://rds.nioo.knaw.nl)| ||:warning: |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |||
+|[https://rds.nioo.knaw.nl](https://rds.nioo.knaw.nl)| ||:white_check_mark: |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |||
 |[https://fwww.nioo.knaw.nl](https://fwww.nioo.knaw.nl)| |nginx| |:white_check_mark: | |:white_check_mark: | |:white_check_mark: |Drupal:9 HSTS Ng...|Redirecting to h...|
 |[https://cerno.nioo.knaw.nl](https://cerno.nioo.knaw.nl)| |nginx| |:white_check_mark: | |:white_check_mark: | |:white_check_mark: |Drupal HSTS Ngin...|Redirecting to h...|

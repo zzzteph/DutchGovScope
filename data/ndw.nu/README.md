@@ -16,7 +16,7 @@
 |[https://dashboards.staging.ndw.nu](https://dashboards.staging.ndw.nu)| |nginx| |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx|Dashboard|
 |[https://data.ndw.nu](https://data.ndw.nu)| || | | | | |:white_check_mark: |||
 |[https://datamonitor.ndw.nu](https://datamonitor.ndw.nu)| || | | | | |:white_check_mark: |||
-|[https://dataquality.ndw.nu](https://dataquality.ndw.nu)| |gunicorn|:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Python gunicorn|Redirecting...|
+|[https://dataquality.ndw.nu](https://dataquality.ndw.nu)| |gunicorn|:white_check_mark: |:white_check_mark: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Python gunicorn|Redirecting...|
 |[https://dexter.ndw.nu](https://dexter.ndw.nu)| |nginx| |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx|NDW Dexter|
 |[https://diego.ndw.nu](https://diego.ndw.nu)| |nginx| |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx|Diego - Digitali...|
 |[https://docs.ndw.nu](https://docs.ndw.nu)| || |:white_check_mark: | | |:white_check_mark: |:white_check_mark: |HSTS MkDocs:1.5....|NDW Docs|
@@ -34,7 +34,7 @@
 |[https://mijnrdtmnl.ndw.nu](https://mijnrdtmnl.ndw.nu)| |nginx/1.24.0| |:white_check_mark: |:warning: |:white_check_mark: | |:white_check_mark: |HSTS Nginx:1.24....|RdtWebPortal|
 |[https://mlops-models.ndw.nu](https://mlops-models.ndw.nu)| |Microsoft-Azure-...| | | | | |:white_check_mark: ||404 Not Found|
 |[https://mlops-monitoring.ndw.nu](https://mlops-monitoring.ndw.nu)| |Microsoft-Azure-...| | | | | |:white_check_mark: ||404 Not Found|
-|[https://mlops-platform.ndw.nu](https://mlops-platform.ndw.nu)| |istio-envoy|:warning: |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |Envoy||
+|[https://mlops-platform.ndw.nu](https://mlops-platform.ndw.nu)| |istio-envoy|:white_check_mark: |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |Envoy||
 |[https://mlops-tracking.ndw.nu](https://mlops-tracking.ndw.nu)| |Microsoft-Azure-...| | | | | |:white_check_mark: ||404 Not Found|
 |[https://mogin.ndw.nu](https://mogin.ndw.nu)| |Apache| | | | | |:white_check_mark: |Apache HTTP Serv...|Mogin|
 |[https://ncis.ndw.nu](https://ncis.ndw.nu)| |nginx| |:white_check_mark: |:warning: |:white_check_mark: | |:white_check_mark: |HSTS Nginx|NCIS Web Portaal|

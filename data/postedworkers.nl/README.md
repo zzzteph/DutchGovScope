@@ -14,7 +14,7 @@
 |[https://feeds.postedworkers.nl](https://feeds.postedworkers.nl)| |nginx| |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx||
 |[https://feeds.deutsch.postedworkers.nl](https://feeds.deutsch.postedworkers.nl)| |nginx| |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx||
 |[https://feeds.english.postedworkers.nl](https://feeds.english.postedworkers.nl)| |nginx| |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx||
-|[https://meldloket.postedworkers.nl](https://meldloket.postedworkers.nl)| ||:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |:white_check_mark: ||Object moved per...|
+|[https://meldloket.postedworkers.nl](https://meldloket.postedworkers.nl)| ||:white_check_mark: |:white_check_mark: |:white_check_mark: |:white_check_mark: |:white_check_mark: ||Object moved per...|
 |[https://myidp.postedworkers.nl](https://myidp.postedworkers.nl)| || |:white_check_mark: | | | |:white_check_mark: |HSTS||
 |[https://myidp-acc.postedworkers.nl](https://myidp-acc.postedworkers.nl)| || |:white_check_mark: | | | |:white_check_mark: |HSTS||
 |[https://opendata.postedworkers.nl](https://opendata.postedworkers.nl)| |nginx| |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx||

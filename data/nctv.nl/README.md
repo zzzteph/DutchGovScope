@@ -20,7 +20,7 @@
 |[https://feeds.english.nctv.nl](https://feeds.english.nctv.nl)| |nginx| |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx||
 |[https://kennisbankterrorisme.nctv.nl](https://kennisbankterrorisme.nctv.nl)| |Apache/2|:warning: | | |:white_check_mark: | |:white_check_mark: |Apache HTTP Serv...||
 |[https://magazines.nctv.nl](https://magazines.nctv.nl)| |nginx| |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx||
-|[https://nac.nctv.nl](https://nac.nctv.nl)| |nginx|:warning: |:white_check_mark: | | | |:white_check_mark: |Amazon ALB Amazo...||
+|[https://nac.nctv.nl](https://nac.nctv.nl)| |nginx|:o: |:white_check_mark: | | | |:white_check_mark: |Amazon ALB Amazo...||
 |[https://opendata.nctv.nl](https://opendata.nctv.nl)| |nginx| |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx||
 |[https://opendata.english.nctv.nl](https://opendata.english.nctv.nl)| |nginx| |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx||
 |[https://pge.nctv.nl](https://pge.nctv.nl)| |Apache/2| | | | | |:white_check_mark: |Apache HTTP Serv...||

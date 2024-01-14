@@ -9,5 +9,5 @@
 ## Statistics
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://www.faculteitmilitairewetenschappen.nl](https://www.faculteitmilitairewetenschappen.nl)| ||:warning: |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS||
-|[https://faculteitmilitairewetenschappen.nl](https://faculteitmilitairewetenschappen.nl)| ||:warning: |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache Tomcat Fo...|Faculteit Milita...|
+|[https://www.faculteitmilitairewetenschappen.nl](https://www.faculteitmilitairewetenschappen.nl)| ||:white_check_mark: |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS||
+|[https://faculteitmilitairewetenschappen.nl](https://faculteitmilitairewetenschappen.nl)| ||:white_check_mark: |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache Tomcat Fo...|Faculteit Milita...|

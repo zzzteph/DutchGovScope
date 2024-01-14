@@ -1,5 +1,7 @@
-Total number of subdomains:32151
-Total number of urls:10032
+ - Total number of subdomains:32151
+ - Total number of urls:10032
+
+
 **SSL Grades**
 | Grade | Count |
 |-------|-------|
@@ -7,13 +9,16 @@ Total number of urls:10032
 |$${\color{lightgreen}B}$$|61|
 |$${\color{orange}C/D}$$|0|
 |$${\color{red}E/F}$$|9|
-Strict-Transport-Policy:7351
+
+
 **Cookies**
 | Flag | Count |
 |-------|-------|
-|HttpOnly|0|
-|Secure|0|
-|Same-Site|1904|
+|HttpOnly|1388|
+|Secure|1394|
+|Same-Site|24|
+
+
 **Top 5 servers**
 | Name | Count |
 |-------|-------|
@@ -23,6 +28,8 @@ Strict-Transport-Policy:7351
 |BigIP|151|
 |Microsoft-HTTPAP...|133|
 |Apache/2|119|
+
+
 **Most widespread tech**
 | Name | Count |
 |-------|-------|

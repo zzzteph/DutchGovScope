@@ -10,7 +10,7 @@
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
 |[https://acceptatie.zwdelta.nl](https://acceptatie.zwdelta.nl)| |nginx| | | | | |:white_check_mark: |MySQL Nginx PHP...|Aanbouw - ACC si...|
-|[https://platform.zwdelta.nl](https://platform.zwdelta.nl)| ||:warning: |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|Object moved|
+|[https://platform.zwdelta.nl](https://platform.zwdelta.nl)| ||:white_check_mark: |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|Object moved|
 |[https://www.zwdelta.nl](https://www.zwdelta.nl)| |nginx| |:white_check_mark: | | | |:white_check_mark: |Google Tag Manag...|Home - Zuidweste...|
 |[https://www.platform.zwdelta.nl](https://www.platform.zwdelta.nl)| || |:white_check_mark: |:white_check_mark: |:white_check_mark: |:white_check_mark: ||Document Moved|
 |[https://zwdelta.nl](https://zwdelta.nl)| |nginx| |:white_check_mark: | | | |:white_check_mark: |HSTS Nginx||

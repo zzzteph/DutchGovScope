@@ -17,25 +17,25 @@
 |[https://cmsintranet.flevoland.nl](https://cmsintranet.flevoland.nl)| || |:white_check_mark: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|403 - Forbidden:...|
 |[http://embraceintranet.flevoland.nl](http://embraceintranet.flevoland.nl)| |Microsoft-HTTPAP...| | | | | |:white_check_mark: |Microsoft HTTPAP...|Not Found|
 |[https://esb-ibabs.flevoland.nl](https://esb-ibabs.flevoland.nl)| |Microsoft-HTTPAP...| | | | | |:white_check_mark: |Microsoft HTTPAP...|Service|
-|[https://formulieren.flevoland.nl](https://formulieren.flevoland.nl)| ||:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|Pagina bestaat n...|
-|[https://preprodformulieren.flevoland.nl](https://preprodformulieren.flevoland.nl)| ||:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|Pagina bestaat n...|
+|[https://formulieren.flevoland.nl](https://formulieren.flevoland.nl)| ||:white_check_mark: |:white_check_mark: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|Pagina bestaat n...|
+|[https://preprodformulieren.flevoland.nl](https://preprodformulieren.flevoland.nl)| ||:white_check_mark: |:white_check_mark: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|Pagina bestaat n...|
 |[https://luchtfoto.flevoland.nl](https://luchtfoto.flevoland.nl)| |Microsoft-IIS/10...| | | | | |:white_check_mark: |IIS:10.0 Microso...|IIS Windows Serv...|
 |[https://intranet.flevoland.nl](https://intranet.flevoland.nl)| || |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS||
 |[http://int-prod-01.flevoland.nl](http://int-prod-01.flevoland.nl)| |Microsoft-HTTPAP...| | | | | |:white_check_mark: |Microsoft HTTPAP...|Not Found|
-|[https://jaarverslag2017.flevoland.nl](https://jaarverslag2017.flevoland.nl)| |Microsoft-IIS/10...|:warning: | | | | |:white_check_mark: |Azure IIS:10.0 W...|Home | Jaarversl...|
-|[https://jaarverslag2018.flevoland.nl](https://jaarverslag2018.flevoland.nl)| |Microsoft-IIS/10...|:warning: |:white_check_mark: | |:white_check_mark: | |:white_check_mark: |Azure HSTS IIS:1...|Home | Jaarversl...|
+|[https://jaarverslag2017.flevoland.nl](https://jaarverslag2017.flevoland.nl)| |Microsoft-IIS/10...|:white_check_mark: | | | | |:white_check_mark: |Azure IIS:10.0 W...|Home | Jaarversl...|
+|[https://jaarverslag2018.flevoland.nl](https://jaarverslag2018.flevoland.nl)| |Microsoft-IIS/10...|:white_check_mark: |:white_check_mark: | |:white_check_mark: | |:white_check_mark: |Azure HSTS IIS:1...|Home | Jaarversl...|
 |[https://testmdm.flevoland.nl](https://testmdm.flevoland.nl)| |server| |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|302 Found|
 |[https://nnn.flevoland.nl](https://nnn.flevoland.nl)| |Apache/2.4.29 (U...| |:white_check_mark: | | |:white_check_mark: |Apache HTTP Serv...|301 Moved Perman...|
 |[https://esb-preprod.flevoland.nl](https://esb-preprod.flevoland.nl)| |Microsoft-HTTPAP...| | | | | |:white_check_mark: |Microsoft HTTPAP...|Not Found|
 |[https://adfs.flevoland.nl](https://adfs.flevoland.nl)| || |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|Not Found|
-|[https://begroting2020.flevoland.nl](https://begroting2020.flevoland.nl)| |Microsoft-IIS/10...|:warning: |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Azure HSTS IIS:1...|Home | Begroting...|
+|[https://begroting2020.flevoland.nl](https://begroting2020.flevoland.nl)| |Microsoft-IIS/10...|:white_check_mark: |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Azure HSTS IIS:1...|Home | Begroting...|
 |[https://micollab.flevoland.nl](https://micollab.flevoland.nl)| |Apache| |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache HTTP Serv...|Redirecting...|
 |[https://preprodid.flevoland.nl](https://preprodid.flevoland.nl)| || |:white_check_mark: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|Provincie Flevol...|
 |[http://uwork.flevoland.nl](http://uwork.flevoland.nl)| || | | | | |:white_check_mark: |||
 |[http://uworktest.flevoland.nl](http://uworktest.flevoland.nl)| || | | | | |:white_check_mark: |||
 |[https://www.begroting2020.flevoland.nl](https://www.begroting2020.flevoland.nl)| || | | | | |:white_check_mark: ||Microsoft Azure...|
 |[https://pushmail.flevoland.nl](https://pushmail.flevoland.nl)| || |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |||
-|[https://test-intranet.flevoland.nl](https://test-intranet.flevoland.nl)| ||:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS||
+|[https://test-intranet.flevoland.nl](https://test-intranet.flevoland.nl)| ||:white_check_mark: |:white_check_mark: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS||
 |[https://geo.flevoland.nl](https://geo.flevoland.nl)| |Microsoft-IIS/10...| | | | | |:white_check_mark: |IIS:10.0 Windows...|403 - Forbidden:...|
 |[https://desktop.flevoland.nl](https://desktop.flevoland.nl)| || | | |:white_check_mark: |:white_check_mark: |:white_check_mark: |||
 |[https://historische-luchtfoto.flevoland.nl](https://historische-luchtfoto.flevoland.nl)| |Apache/2.4.29 (U...| | | | | |:white_check_mark: |Apache HTTP Serv...|301 Moved Perman...|
@@ -56,14 +56,14 @@
 |[https://rwbg.flevoland.nl](https://rwbg.flevoland.nl)| |Microsoft-IIS/8....| | | | | |:white_check_mark: |IIS:8.5 Windows...||
 |[https://stateninformatie.flevoland.nl](https://stateninformatie.flevoland.nl)| |Apache|:warning: |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache HTTP Serv...|Provincie Flevol...|
 |[https://www.bodemrapportage.flevoland.nl](https://www.bodemrapportage.flevoland.nl)| |Apache/2.4.29 (U...|:warning: | |:warning: | | |:white_check_mark: |Apache HTTP Serv...|301 Moved Perman...|
-|[https://competentie.flevoland.nl](https://competentie.flevoland.nl)| |Apache|:warning: |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache HTTP Serv...|:: CM online 201...|
-|[https://meepraten.flevoland.nl](https://meepraten.flevoland.nl)| |Apache|:warning: |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache HTTP Serv...|302 Found|
+|[https://competentie.flevoland.nl](https://competentie.flevoland.nl)| |Apache|:white_check_mark: |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache HTTP Serv...|:: CM online 201...|
+|[https://meepraten.flevoland.nl](https://meepraten.flevoland.nl)| |Apache|:white_check_mark: |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache HTTP Serv...|302 Found|
 |[http://localhost.flevoland.nl](http://localhost.flevoland.nl)| |nginx| | | |:white_check_mark: |:white_check_mark: |:white_check_mark: |Nginx|Welcome to nginx...|
 |[https://mgt.flevoland.nl](https://mgt.flevoland.nl)| |Apache/2.4.29 (U...| |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache HTTP Serv...|Apache2 Ubuntu D...|
-|[https://begroting2019.flevoland.nl](https://begroting2019.flevoland.nl)| |Microsoft-IIS/10...|:warning: |:white_check_mark: | |:white_check_mark: | |:white_check_mark: |Azure HSTS IIS:1...|Home | Begroting...|
+|[https://begroting2019.flevoland.nl](https://begroting2019.flevoland.nl)| |Microsoft-IIS/10...|:white_check_mark: |:white_check_mark: | |:white_check_mark: | |:white_check_mark: |Azure HSTS IIS:1...|Home | Begroting...|
 |[https://webmail.flevoland.nl](https://webmail.flevoland.nl)| || |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |||
 |[https://test-cmsintranet.flevoland.nl](https://test-cmsintranet.flevoland.nl)| || |:white_check_mark: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|403 - Forbidden:...|
-|[https://geodiensten.flevoland.nl](https://geodiensten.flevoland.nl)| |nginx/1.24.0|:warning: |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx:1.24....|GeolinQ|
+|[https://geodiensten.flevoland.nl](https://geodiensten.flevoland.nl)| |nginx/1.24.0|:o: |:white_check_mark: | |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx:1.24....|GeolinQ|
 |[https://mdm.flevoland.nl](https://mdm.flevoland.nl)| |server| |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS|302 Found|
 |[https://vps-prod-01.flevoland.nl](https://vps-prod-01.flevoland.nl)| |Apache/2.4.29 (U...| |:white_check_mark: | | | |:white_check_mark: |Apache HTTP Serv...|301 Moved Perman...|
 |[https://intranet-bestanden.flevoland.nl](https://intranet-bestanden.flevoland.nl)| |Apache/2.4.29 (U...| |:white_check_mark: |:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache HTTP Serv...|403 Forbidden|
@@ -76,8 +76,8 @@
 |[https://smartmobility.flevoland.nl](https://smartmobility.flevoland.nl)| |nginx| |:white_check_mark: |:white_check_mark: |:white_check_mark: |:white_check_mark: |HSTS Nginx||
 |[https://vps-prod-03.flevoland.nl](https://vps-prod-03.flevoland.nl)| |Apache/2| | | | | |:white_check_mark: |Apache HTTP Serv...||
 |[https://monitorwonen.flevoland.nl](https://monitorwonen.flevoland.nl)| |Microsoft-IIS/10...| | | | | |:white_check_mark: |IIS:10.0 React W...|Planregistratie...|
-|[https://georegister.flevoland.nl](https://georegister.flevoland.nl)| |Apache|:warning: |:white_check_mark: |:white_check_mark: | |:white_check_mark: |Apache HTTP Serv...|302 Found|
-|[https://georegister-intern.flevoland.nl](https://georegister-intern.flevoland.nl)| |Apache|:warning: |:white_check_mark: |:white_check_mark: | |:white_check_mark: |Apache HTTP Serv...|302 Found|
-|[https://eloket.flevoland.nl](https://eloket.flevoland.nl)| |unspecified|:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache Tomcat Fo...|Djuma portal|
-|[https://testeloket.flevoland.nl](https://testeloket.flevoland.nl)| |unspecified|:warning: |:white_check_mark: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache Tomcat Fo...|Djuma portal|
+|[https://georegister.flevoland.nl](https://georegister.flevoland.nl)| |Apache|:white_check_mark: |:white_check_mark: |:white_check_mark: | |:white_check_mark: |Apache HTTP Serv...|302 Found|
+|[https://georegister-intern.flevoland.nl](https://georegister-intern.flevoland.nl)| |Apache|:white_check_mark: |:white_check_mark: |:white_check_mark: | |:white_check_mark: |Apache HTTP Serv...|302 Found|
+|[https://eloket.flevoland.nl](https://eloket.flevoland.nl)| |unspecified|:white_check_mark: |:white_check_mark: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache Tomcat Fo...|Djuma portal|
+|[https://testeloket.flevoland.nl](https://testeloket.flevoland.nl)| |unspecified|:white_check_mark: |:white_check_mark: |:white_check_mark: |:white_check_mark: |:white_check_mark: |Apache Tomcat Fo...|Djuma portal|
 |[https://testmonitorwonen.flevoland.nl](https://testmonitorwonen.flevoland.nl)| |Microsoft-IIS/10...| | | | | |:white_check_mark: |IIS:10.0 React W...|Planregistratie...|
