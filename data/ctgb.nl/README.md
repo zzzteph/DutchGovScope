@@ -1,12 +1,18 @@
 # ctgb.nl
 *2024-01-14 01:36:17*
 ## Summary data
+
+
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/ctgb.nl/subdomains.txt)|47|Alive subdomains|
 |[urls.txt](/data/ctgb.nl/urls.txt)|26|Urls|
 |[all_subdomains.txt](/data/ctgb.nl/all_subdomains.txt)|112|All found subdomains (history)|
+
+
 ## Statistics
+
+
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
 |[https://filesender.ctgb.nl](https://filesender.ctgb.nl)| $${\color{lightgreen}B}$$ |Apache/2.4.34 (Red Hat) OpenSSL/1.0.2k-fips PHP/7.2.24|:o: |:white_check_mark: | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: |Apache HTTP Server:2.4.34 HSTS OpenSSL:1.0.2k PHP:7.2.24 Red Hat|CTGB FileSender|

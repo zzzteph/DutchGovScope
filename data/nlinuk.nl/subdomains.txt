@@ -1,4 +1,0 @@
-feeds.nlinuk.nl
-nlinuk.nl
-opendata.nlinuk.nl
-www.nlinuk.nl

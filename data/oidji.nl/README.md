@@ -1,12 +1,18 @@
 # oidji.nl
 *2024-01-10 20:57:20*
 ## Summary data
+
+
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/oidji.nl/subdomains.txt)|9|Alive subdomains|
 |[urls.txt](/data/oidji.nl/urls.txt)|7|Urls|
 |[all_subdomains.txt](/data/oidji.nl/all_subdomains.txt)|11|All found subdomains (history)|
+
+
 ## Statistics
+
+
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
 |[https://acc-klas.oidji.nl](https://acc-klas.oidji.nl)| |nginx| | | | :white_check_mark: | :white_check_mark: | :white_check_mark: |Nginx||

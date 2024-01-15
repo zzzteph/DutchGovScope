@@ -1,12 +1,18 @@
 # werkenbijdeeu.nl
 *2024-01-10 20:57:25*
 ## Summary data
+
+
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/werkenbijdeeu.nl/subdomains.txt)|8|Alive subdomains|
 |[urls.txt](/data/werkenbijdeeu.nl/urls.txt)|5|Urls|
 |[all_subdomains.txt](/data/werkenbijdeeu.nl/all_subdomains.txt)|22|All found subdomains (history)|
+
+
 ## Statistics
+
+
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
 |[https://feeds.werkenbijdeeu.nl](https://feeds.werkenbijdeeu.nl)| |nginx| |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx||

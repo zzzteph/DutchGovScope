@@ -1,12 +1,18 @@
 # stopheling.nl
 *2024-01-10 20:57:23*
 ## Summary data
+
+
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/stopheling.nl/subdomains.txt)|12|Alive subdomains|
 |[urls.txt](/data/stopheling.nl/urls.txt)|12|Urls|
 |[all_subdomains.txt](/data/stopheling.nl/all_subdomains.txt)|22|All found subdomains (history)|
+
+
 ## Statistics
+
+
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
 |[https://dol.stopheling.nl](https://dol.stopheling.nl)| || |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Azure Azure Front Door HSTS||

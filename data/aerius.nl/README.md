@@ -1,12 +1,18 @@
 # aerius.nl
 *2024-01-11 16:13:36*
 ## Summary data
+
+
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/aerius.nl/subdomains.txt)|63|Alive subdomains|
-|[urls.txt](/data/aerius.nl/urls.txt)|19|Urls|
+|[urls.txt](/data/aerius.nl/urls.txt)|20|Urls|
 |[all_subdomains.txt](/data/aerius.nl/all_subdomains.txt)|63|All found subdomains (history)|
+
+
 ## Statistics
+
+
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
 |[https://aankoopcalculator.aerius.nl](https://aankoopcalculator.aerius.nl)| |Apache| |:white_check_mark: | | | | :white_check_mark: |Apache HTTP Server HSTS||
@@ -28,3 +34,4 @@
 |[https://docs.aerius.nl](https://docs.aerius.nl)| |AmazonS3| | | | | | :white_check_mark: |Amazon CloudFront Amazon S3 Amazon Web Services||
 |[https://regelingsondersteuning.aerius.nl](https://regelingsondersteuning.aerius.nl)| ||:warning: |:white_check_mark: |:warning: | :white_check_mark: | | :white_check_mark: |HSTS Java|AERIUS® Check|
 |[https://auth-dev.aerius.nl](https://auth-dev.aerius.nl)| |Server|:white_check_mark: |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |Amazon CloudFront Amazon Web Services Bootstrap HSTS|Signin|
+|[https://auth-register-dev.aerius.nl](https://auth-register-dev.aerius.nl)| |Server|:white_check_mark: |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |Amazon CloudFront Amazon Web Services Bootstrap HSTS|Signin|

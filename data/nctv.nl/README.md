@@ -1,12 +1,18 @@
 # nctv.nl
 *2024-01-10 20:57:18*
 ## Summary data
+
+
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/nctv.nl/subdomains.txt)|25|Alive subdomains|
 |[urls.txt](/data/nctv.nl/urls.txt)|22|Urls|
 |[all_subdomains.txt](/data/nctv.nl/all_subdomains.txt)|42|All found subdomains (history)|
+
+
 ## Statistics
+
+
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
 |[https://cbrnsecurity.nctv.nl](https://cbrnsecurity.nctv.nl)| |Apache/2| | | | | | :white_check_mark: |Apache HTTP Server:2 Bootstrap CodeIgniter ExpressionEngine PHP|CBRNE|

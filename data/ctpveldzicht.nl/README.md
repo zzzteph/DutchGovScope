@@ -1,12 +1,18 @@
 # ctpveldzicht.nl
 *2024-01-14 01:40:13*
 ## Summary data
+
+
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/ctpveldzicht.nl/subdomains.txt)|8|Alive subdomains|
 |[urls.txt](/data/ctpveldzicht.nl/urls.txt)|8|Urls|
 |[all_subdomains.txt](/data/ctpveldzicht.nl/all_subdomains.txt)|10|All found subdomains (history)|
+
+
 ## Statistics
+
+
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
 |[https://english.ctpveldzicht.nl](https://english.ctpveldzicht.nl)| $${\color{green}A}$$ |nginx| | | | :white_check_mark: | | :white_check_mark: |Nginx|Default site|

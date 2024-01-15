@@ -1,12 +1,18 @@
 # dictu.nl
 *2024-01-11 16:13:41*
 ## Summary data
+
+
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/dictu.nl/subdomains.txt)|144|Alive subdomains|
-|[urls.txt](/data/dictu.nl/urls.txt)|70|Urls|
+|[urls.txt](/data/dictu.nl/urls.txt)|71|Urls|
 |[all_subdomains.txt](/data/dictu.nl/all_subdomains.txt)|289|All found subdomains (history)|
+
+
 ## Statistics
+
+
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
 |[https://acc.dictu.nl](https://acc.dictu.nl)| |nginx| | | | | | :white_check_mark: |HSTS Nginx|301 Moved Perman...|
@@ -18,7 +24,7 @@
 |[https://auth.dictu.nl](https://auth.dictu.nl)| ||:white_check_mark: |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS|302 Found|
 |[https://auth-acc.dictu.nl](https://auth-acc.dictu.nl)| ||:white_check_mark: |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS|302 Found|
 |[https://auth-tst.dictu.nl](https://auth-tst.dictu.nl)| || | | | | | :white_check_mark: |HSTS|302 Found|
-|[https://avd.webftp.dictu.nl](https://avd.webftp.dictu.nl)| || | | | | | :white_check_mark: |Basic|Unauthorized|
+|[https://avd.webftp.dictu.nl](https://avd.webftp.dictu.nl)| || | | | | | :white_check_mark: |Basic|Redirect|
 |[https://bpp.webftp.dictu.nl](https://bpp.webftp.dictu.nl)| || | | | | | :white_check_mark: ||Redirect|
 |[http://c-pki.dictu.nl](http://c-pki.dictu.nl)| |Microsoft-IIS/8.5| | | | | | :white_check_mark: |IIS:8.5 Windows Server|c-pki.dictu.nl -...|
 |[http://c-pki-acc.dictu.nl](http://c-pki-acc.dictu.nl)| || | | | :white_check_mark: | | :white_check_mark: ||c-pki-acc.dictu....|
@@ -31,6 +37,7 @@
 |[https://engine.fhub.dictu.nl](https://engine.fhub.dictu.nl)| |Apache|:warning: |:white_check_mark: | | | | :white_check_mark: |Apache HTTP Server HSTS|dictu - Metadata...|
 |[https://fhub.dictu.nl](https://fhub.dictu.nl)| || | | | | | :white_check_mark: |HSTS||
 |[https://gisextern.dictu.nl](https://gisextern.dictu.nl)| ||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: |HSTS|IIS Windows Serv...|
+|[https://ibabs.dictu.nl](https://ibabs.dictu.nl)| ||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: |HSTS|Not Found|
 |[https://ibg.datasluis.dictu.nl](https://ibg.datasluis.dictu.nl)| ||:white_check_mark: |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS|Redirect|
 |[https://ibg.webftp.dictu.nl](https://ibg.webftp.dictu.nl)| || | | | | | :white_check_mark: ||Redirect|
 |[http://iltbuildserver.dictu.nl](http://iltbuildserver.dictu.nl)| || | | | | | :white_check_mark: |||

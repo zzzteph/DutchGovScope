@@ -1,12 +1,18 @@
 # kolonialecollecties.nl
 *2024-01-11 16:13:40*
 ## Summary data
+
+
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/kolonialecollecties.nl/subdomains.txt)|9|Alive subdomains|
 |[urls.txt](/data/kolonialecollecties.nl/urls.txt)|8|Urls|
 |[all_subdomains.txt](/data/kolonialecollecties.nl/all_subdomains.txt)|9|All found subdomains (history)|
+
+
 ## Statistics
+
+
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
 |[https://kolonialecollecties.nl](https://kolonialecollecties.nl)| |Apache| |:white_check_mark: | | | | :white_check_mark: |Apache HTTP Server HSTS|Commissie Koloni...|

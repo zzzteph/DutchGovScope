@@ -23,15 +23,12 @@ https://esp.mfaservices.nl
 https://esp-api-management.acc-probas.mfaservices.nl
 https://esp-api-management.dev-probas.mfaservices.nl
 https://esp-api-management.probas.mfaservices.nl
-https://esp-api-management.tst-probas.mfaservices.nl
 https://esp-api-portal.acc-probas.mfaservices.nl
 https://esp-api-portal.dev-probas.mfaservices.nl
 https://esp-api-portal.probas.mfaservices.nl
-https://esp-api-portal.tst-probas.mfaservices.nl
 https://esp-api.acc-probas.mfaservices.nl
 https://esp-api.dev-probas.mfaservices.nl
 https://esp-api.probas.mfaservices.nl
-https://esp-api.tst-probas.mfaservices.nl
 https://insights.mfaservices.nl
 https://liferay.mfaservices.nl
 https://login.consular.mfaservices.nl

@@ -1,12 +1,18 @@
 # rws.nl
 *2024-01-11 16:13:36*
 ## Summary data
+
+
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/rws.nl/subdomains.txt)|227|Alive subdomains|
 |[urls.txt](/data/rws.nl/urls.txt)|155|Urls|
 |[all_subdomains.txt](/data/rws.nl/all_subdomains.txt)|1149|All found subdomains (history)|
+
+
 ## Statistics
+
+
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
 |[https://acc-bergerselect.rws.nl](https://acc-bergerselect.rws.nl)| |nginx| |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx|BergerSelect | R...|
@@ -31,7 +37,7 @@
 |[https://autodiscover.rws.nl](https://autodiscover.rws.nl)| || | | | | | :white_check_mark: |||
 |[https://bergerselect.rws.nl](https://bergerselect.rws.nl)| |nginx| |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx|BergerSelect | R...|
 |[https://beterbediend.rws.nl](https://beterbediend.rws.nl)| |Apache/2.4.58 (Unix)| |:white_check_mark: | | | | :white_check_mark: |Apache HTTP Server:2.4.58 HSTS UNIX|Beter Bediend|
-|[https://bezoekerscentrum.rws.nl](https://bezoekerscentrum.rws.nl)| |nginx| | | | | | :white_check_mark: |HSTS MySQL Nginx PHP SDL Tridion W3 Total Cache WordPress Yoast SEO:21.0|Bezoekerscentrum...|
+|[https://bezoekerscentrum.rws.nl](https://bezoekerscentrum.rws.nl)| |nginx| | | | | | :white_check_mark: |MySQL Nginx PHP SDL Tridion W3 Total Cache WordPress Yoast SEO:21.0|Bezoekerscentrum...|
 |[http://birdviewer.rws.nl](http://birdviewer.rws.nl)| || | | | | | :white_check_mark: |||
 |[https://browse.nexus.vm-02.azure.grid.rws.nl](https://browse.nexus.vm-02.azure.grid.rws.nl)| ||:white_check_mark: |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: ||302 Found|
 |[http://bva.rws.nl](http://bva.rws.nl)| || | | | | | :white_check_mark: ||Website niet bes...|
@@ -80,7 +86,7 @@
 |[https://matroos.rws.nl](https://matroos.rws.nl)| |Apache| |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |Apache HTTP Server HSTS|Homepage|
 |[http://meridian.rws.nl](http://meridian.rws.nl)| || | | | | | :white_check_mark: |||
 |[https://nexus-ivp.rws.nl](https://nexus-ivp.rws.nl)| |Nexus/3.38.1-01 (OSS)| | | | | | :white_check_mark: |HSTS|Nexus Repository...|
-|[https://nis.rws.nl](https://nis.rws.nl)| || |:white_check_mark: | :white_check_mark:| | :white_check_mark: | :white_check_mark: |HSTS|403 - Forbidden:...|
+|[https://nis.rws.nl](https://nis.rws.nl)| |Microsoft-IIS/10.0| |:white_check_mark: | :white_check_mark:| | :white_check_mark: | :white_check_mark: |HSTS IIS:10.0 Windows Server|403 - Forbidden:...|
 |[https://nlhull.rws.nl](https://nlhull.rws.nl)| || | | | | | :white_check_mark: |HSTS|TOPdesk|
 |[https://nlrdms.rws.nl](https://nlrdms.rws.nl)| ||:warning: |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS||
 |[https://noos.matroos.rws.nl](https://noos.matroos.rws.nl)| |Apache| |:white_check_mark: | | | :white_check_mark: | :white_check_mark: |Apache HTTP Server HSTS|Homepage|
@@ -111,7 +117,7 @@
 |[https://svk-info.rws.nl](https://svk-info.rws.nl)| |nginx| | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Nginx|SVK-info|
 |[https://svk-login.rws.nl](https://svk-login.rws.nl)| || | | | | | :white_check_mark: |||
 |[https://svs.rws.nl](https://svs.rws.nl)| ||:white_check_mark: |:white_check_mark: |:warning: | :white_check_mark: | | :white_check_mark: |HSTS Java||
-|[https://test.bezoekerscentrum.rws.nl](https://test.bezoekerscentrum.rws.nl)| |nginx| | | | | | :white_check_mark: |MySQL Nginx PHP SDL Tridion W3 Total Cache WordPress Yoast SEO:21.0|Bezoekerscentrum...|
+|[https://test.bezoekerscentrum.rws.nl](https://test.bezoekerscentrum.rws.nl)| |nginx| | | | | | :white_check_mark: |HSTS MySQL Nginx PHP SDL Tridion W3 Total Cache WordPress Yoast SEO:21.0|Bezoekerscentrum...|
 |[https://test.esb.rws.nl](https://test.esb.rws.nl)| ||:o: | | | | | :white_check_mark: |||
 |[http://test.liwo.intranet.rws.nl](http://test.liwo.intranet.rws.nl)| || | | | | | :white_check_mark: |||
 |[https://test.lma.rws.nl](https://test.lma.rws.nl)| ||:white_check_mark: |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Microsoft ASP.NET|Object moved|

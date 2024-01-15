@@ -1,12 +1,18 @@
 # farmacotherapeutischkompas.nl
 *2024-01-11 16:13:43*
 ## Summary data
+
+
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/farmacotherapeutischkompas.nl/subdomains.txt)|6|Alive subdomains|
 |[urls.txt](/data/farmacotherapeutischkompas.nl/urls.txt)|5|Urls|
 |[all_subdomains.txt](/data/farmacotherapeutischkompas.nl/all_subdomains.txt)|15|All found subdomains (history)|
+
+
 ## Statistics
+
+
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
 |[https://cms.farmacotherapeutischkompas.nl](https://cms.farmacotherapeutischkompas.nl)| |Apache| | | | | | :white_check_mark: |Apache HTTP Server|403 Forbidden|

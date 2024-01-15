@@ -1,12 +1,18 @@
 # forensischinstituut.nl
 *2024-01-14 04:16:24*
 ## Summary data
+
+
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/forensischinstituut.nl/subdomains.txt)|18|Alive subdomains|
 |[urls.txt](/data/forensischinstituut.nl/urls.txt)|11|Urls|
 |[all_subdomains.txt](/data/forensischinstituut.nl/all_subdomains.txt)|35|All found subdomains (history)|
+
+
 ## Statistics
+
+
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
 |[https://academy.forensischinstituut.nl](https://academy.forensischinstituut.nl)| || | | | | | :white_check_mark: ||Microsoft Azure...|

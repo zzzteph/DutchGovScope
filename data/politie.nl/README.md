@@ -1,12 +1,18 @@
 # politie.nl
 *2024-01-10 20:57:21*
 ## Summary data
+
+
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/politie.nl/subdomains.txt)|121|Alive subdomains|
 |[urls.txt](/data/politie.nl/urls.txt)|29|Urls|
 |[all_subdomains.txt](/data/politie.nl/all_subdomains.txt)|277|All found subdomains (history)|
+
+
 ## Statistics
+
+
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
 |[https://rss.acceptatie.politie.nl](https://rss.acceptatie.politie.nl)| || |:white_check_mark: | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS|Access Denied|

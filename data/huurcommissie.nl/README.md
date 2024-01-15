@@ -1,12 +1,18 @@
 # huurcommissie.nl
 *2024-01-14 04:55:29*
 ## Summary data
+
+
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/huurcommissie.nl/subdomains.txt)|33|Alive subdomains|
 |[urls.txt](/data/huurcommissie.nl/urls.txt)|13|Urls|
 |[all_subdomains.txt](/data/huurcommissie.nl/all_subdomains.txt)|49|All found subdomains (history)|
+
+
 ## Statistics
+
+
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
 |[https://www.huurcommissie.nl](https://www.huurcommissie.nl)| |nginx| |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Bloomreach HSTS Nginx|Home | Huurcommi...|

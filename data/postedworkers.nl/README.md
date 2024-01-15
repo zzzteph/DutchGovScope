@@ -1,12 +1,18 @@
 # postedworkers.nl
 *2024-01-10 20:57:21*
 ## Summary data
+
+
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/postedworkers.nl/subdomains.txt)|17|Alive subdomains|
+|[subdomains.txt](/data/postedworkers.nl/subdomains.txt)|18|Alive subdomains|
 |[urls.txt](/data/postedworkers.nl/urls.txt)|14|Urls|
 |[all_subdomains.txt](/data/postedworkers.nl/all_subdomains.txt)|24|All found subdomains (history)|
+
+
 ## Statistics
+
+
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
 |[https://deutsch.postedworkers.nl](https://deutsch.postedworkers.nl)| |nginx| |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Bloomreach HSTS Nginx|Posted Workers |...|

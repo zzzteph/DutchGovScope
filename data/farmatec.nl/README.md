@@ -1,12 +1,18 @@
 # farmatec.nl
 *2024-01-14 04:10:08*
 ## Summary data
+
+
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/farmatec.nl/subdomains.txt)|10|Alive subdomains|
 |[urls.txt](/data/farmatec.nl/urls.txt)|9|Urls|
-|[all_subdomains.txt](/data/farmatec.nl/all_subdomains.txt)|24|All found subdomains (history)|
+|[all_subdomains.txt](/data/farmatec.nl/all_subdomains.txt)|27|All found subdomains (history)|
+
+
 ## Statistics
+
+
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
 |[https://acceptatie.hulpmiddelen.farmatec.nl](https://acceptatie.hulpmiddelen.farmatec.nl)| |-| | | | | | :white_check_mark: |HSTS||

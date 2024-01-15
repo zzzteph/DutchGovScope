@@ -1,12 +1,18 @@
 # cibg.nl
 *2024-01-14 01:17:08*
 ## Summary data
+
+
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/cibg.nl/subdomains.txt)|71|Alive subdomains|
 |[urls.txt](/data/cibg.nl/urls.txt)|55|Urls|
 |[all_subdomains.txt](/data/cibg.nl/all_subdomains.txt)|136|All found subdomains (history)|
+
+
 ## Statistics
+
+
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
 |[http://acceptatie.ag-dcr.cibg.nl](http://acceptatie.ag-dcr.cibg.nl)| |BigIP| | | | | | :white_check_mark: |F5 BigIP||

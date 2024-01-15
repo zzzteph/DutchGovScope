@@ -1,12 +1,18 @@
 # dji.nl
 *2024-01-14 02:30:11*
 ## Summary data
+
+
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/dji.nl/subdomains.txt)|27|Alive subdomains|
 |[urls.txt](/data/dji.nl/urls.txt)|14|Urls|
 |[all_subdomains.txt](/data/dji.nl/all_subdomains.txt)|54|All found subdomains (history)|
+
+
 ## Statistics
+
+
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
 |[https://connect.dji.nl](https://connect.dji.nl)| $${\color{green}A+}$$ || |:white_check_mark: | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS||

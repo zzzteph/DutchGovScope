@@ -1,12 +1,18 @@
 # mfaservices.nl
 *2024-01-11 16:13:44*
 ## Summary data
+
+
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/mfaservices.nl/subdomains.txt)|136|Alive subdomains|
-|[urls.txt](/data/mfaservices.nl/urls.txt)|58|Urls|
+|[urls.txt](/data/mfaservices.nl/urls.txt)|55|Urls|
 |[all_subdomains.txt](/data/mfaservices.nl/all_subdomains.txt)|263|All found subdomains (history)|
+
+
 ## Statistics
+
+
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
 |[https://acc-insights.mfaservices.nl](https://acc-insights.mfaservices.nl)| |Microsoft-Azure-Application-Gateway/v2| | | | | | :white_check_mark: ||404 Not Found|
@@ -32,17 +38,14 @@
 |[https://dev.protocol.mfaservices.nl](https://dev.protocol.mfaservices.nl)| ||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: |Azure HSTS||
 |[https://esp.mfaservices.nl](https://esp.mfaservices.nl)| |Apache|:white_check_mark: |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Apache HTTP Server HSTS Java|Home ||
 |[https://esp-api-management.acc-probas.mfaservices.nl](https://esp-api-management.acc-probas.mfaservices.nl)| || |:white_check_mark: | | | :white_check_mark: | :white_check_mark: |HSTS||
-|[https://esp-api-management.dev-probas.mfaservices.nl](https://esp-api-management.dev-probas.mfaservices.nl)| |Microsoft-Azure-Application-Gateway/v2| |:white_check_mark: | | | :white_check_mark: | :white_check_mark: |HSTS|502 Bad Gateway|
+|[https://esp-api-management.dev-probas.mfaservices.nl](https://esp-api-management.dev-probas.mfaservices.nl)| || |:white_check_mark: | | | :white_check_mark: | :white_check_mark: |HSTS||
 |[https://esp-api-management.probas.mfaservices.nl](https://esp-api-management.probas.mfaservices.nl)| || |:white_check_mark: | | | :white_check_mark: | :white_check_mark: |HSTS||
-|[https://esp-api-management.tst-probas.mfaservices.nl](https://esp-api-management.tst-probas.mfaservices.nl)| || |:white_check_mark: | | | :white_check_mark: | :white_check_mark: |HSTS||
 |[https://esp-api-portal.acc-probas.mfaservices.nl](https://esp-api-portal.acc-probas.mfaservices.nl)| || |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS|Home - Probas Ac...|
-|[https://esp-api-portal.dev-probas.mfaservices.nl](https://esp-api-portal.dev-probas.mfaservices.nl)| |Microsoft-Azure-Application-Gateway/v2| |:white_check_mark: | | | :white_check_mark: | :white_check_mark: |HSTS|502 Bad Gateway|
+|[https://esp-api-portal.dev-probas.mfaservices.nl](https://esp-api-portal.dev-probas.mfaservices.nl)| || |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS|Home - Probas De...|
 |[https://esp-api-portal.probas.mfaservices.nl](https://esp-api-portal.probas.mfaservices.nl)| || |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS|Home - Microsoft...|
-|[https://esp-api-portal.tst-probas.mfaservices.nl](https://esp-api-portal.tst-probas.mfaservices.nl)| || |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS|Home - Probas Te...|
 |[https://esp-api.acc-probas.mfaservices.nl](https://esp-api.acc-probas.mfaservices.nl)| || |:white_check_mark: | | | :white_check_mark: | :white_check_mark: |HSTS||
-|[https://esp-api.dev-probas.mfaservices.nl](https://esp-api.dev-probas.mfaservices.nl)| |Microsoft-Azure-Application-Gateway/v2| |:white_check_mark: | | | :white_check_mark: | :white_check_mark: |HSTS|502 Bad Gateway|
+|[https://esp-api.dev-probas.mfaservices.nl](https://esp-api.dev-probas.mfaservices.nl)| || |:white_check_mark: | | | :white_check_mark: | :white_check_mark: |HSTS||
 |[https://esp-api.probas.mfaservices.nl](https://esp-api.probas.mfaservices.nl)| || |:white_check_mark: | | | :white_check_mark: | :white_check_mark: |HSTS||
-|[https://esp-api.tst-probas.mfaservices.nl](https://esp-api.tst-probas.mfaservices.nl)| || |:white_check_mark: | | | :white_check_mark: | :white_check_mark: |HSTS||
 |[https://insights.mfaservices.nl](https://insights.mfaservices.nl)| || |:white_check_mark: | | | | :white_check_mark: |HSTS||
 |[https://liferay.mfaservices.nl](https://liferay.mfaservices.nl)| |Apache|:white_check_mark: |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Apache HTTP Server HSTS Java|Welcome ||
 |[https://login.consular.mfaservices.nl](https://login.consular.mfaservices.nl)| |cloudflare|:white_check_mark: |:white_check_mark: | | :white_check_mark: | | :white_check_mark: |Cloudflare Cloudflare Bot Management HSTS|Attention Requir...|

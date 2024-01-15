@@ -1,12 +1,18 @@
 # federatieveservice.nl
 *2024-01-11 16:13:40*
 ## Summary data
+
+
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/federatieveservice.nl/subdomains.txt)|14|Alive subdomains|
 |[urls.txt](/data/federatieveservice.nl/urls.txt)|14|Urls|
 |[all_subdomains.txt](/data/federatieveservice.nl/all_subdomains.txt)|19|All found subdomains (history)|
+
+
 ## Statistics
+
+
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
 |[https://acc.federatieveservice.nl](https://acc.federatieveservice.nl)| |N.A.|:white_check_mark: |:white_check_mark: | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS|[organization_fr...|

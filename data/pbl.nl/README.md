@@ -1,12 +1,18 @@
 # pbl.nl
 *2024-01-11 16:13:36*
 ## Summary data
+
+
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/pbl.nl/subdomains.txt)|40|Alive subdomains|
 |[urls.txt](/data/pbl.nl/urls.txt)|20|Urls|
 |[all_subdomains.txt](/data/pbl.nl/all_subdomains.txt)|79|All found subdomains (history)|
+
+
 ## Statistics
+
+
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
 |[https://acc-www.pbl.nl](https://acc-www.pbl.nl)| |Apache| |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |Apache HTTP Server Basic HSTS PHP:7.3.33||

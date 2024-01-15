@@ -1,12 +1,18 @@
 # ikz.nl
 *2024-01-14 05:10:10*
 ## Summary data
+
+
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/ikz.nl/subdomains.txt)|10|Alive subdomains|
 |[urls.txt](/data/ikz.nl/urls.txt)|7|Urls|
 |[all_subdomains.txt](/data/ikz.nl/all_subdomains.txt)|33|All found subdomains (history)|
+
+
 ## Statistics
+
+
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
 |[https://connect.ikz.nl](https://connect.ikz.nl)| |Apache| |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Apache HTTP Server HSTS||

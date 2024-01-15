@@ -1,12 +1,18 @@
 # hogeraad.nl
 *2024-01-11 16:02:15*
 ## Summary data
+
+
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/hogeraad.nl/subdomains.txt)|26|Alive subdomains|
 |[urls.txt](/data/hogeraad.nl/urls.txt)|20|Urls|
 |[all_subdomains.txt](/data/hogeraad.nl/all_subdomains.txt)|68|All found subdomains (history)|
+
+
 ## Statistics
+
+
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
 |[http://stats.hogeraad.nl](http://stats.hogeraad.nl)| || | | | | | :white_check_mark: |||

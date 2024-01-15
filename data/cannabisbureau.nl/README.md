@@ -1,12 +1,18 @@
 # cannabisbureau.nl
 *2024-01-10 20:57:10*
 ## Summary data
+
+
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/cannabisbureau.nl/subdomains.txt)|14|Alive subdomains|
 |[urls.txt](/data/cannabisbureau.nl/urls.txt)|7|Urls|
 |[all_subdomains.txt](/data/cannabisbureau.nl/all_subdomains.txt)|22|All found subdomains (history)|
+
+
 ## Statistics
+
+
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
 |[https://english.cannabisbureau.nl](https://english.cannabisbureau.nl)| $${\color{green}A+}$$ |nginx| |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Bloomreach HSTS Nginx|Office of Medici...|

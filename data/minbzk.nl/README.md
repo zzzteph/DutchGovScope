@@ -1,12 +1,18 @@
 # minbzk.nl
 *2024-01-10 20:57:18*
 ## Summary data
+
+
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/minbzk.nl/subdomains.txt)|38|Alive subdomains|
 |[urls.txt](/data/minbzk.nl/urls.txt)|9|Urls|
 |[all_subdomains.txt](/data/minbzk.nl/all_subdomains.txt)|80|All found subdomains (history)|
+
+
 ## Statistics
+
+
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
 |[https://english.minbzk.nl](https://english.minbzk.nl)| |nginx| | | | | | :white_check_mark: |Nginx|403 Forbidden|

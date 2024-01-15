@@ -1,12 +1,18 @@
 # nlarbeidsinspectie.nl
 *2024-01-10 20:57:19*
 ## Summary data
+
+
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/nlarbeidsinspectie.nl/subdomains.txt)|10|Alive subdomains|
 |[urls.txt](/data/nlarbeidsinspectie.nl/urls.txt)|10|Urls|
 |[all_subdomains.txt](/data/nlarbeidsinspectie.nl/all_subdomains.txt)|11|All found subdomains (history)|
+
+
 ## Statistics
+
+
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
 |[https://portaal.nlarbeidsinspectie.nl](https://portaal.nlarbeidsinspectie.nl)| ||:warning: |:white_check_mark: | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Microsoft ASP.NET|Webportaal|

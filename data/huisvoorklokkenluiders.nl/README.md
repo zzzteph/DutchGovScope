@@ -1,12 +1,18 @@
 # huisvoorklokkenluiders.nl
 *2024-01-14 04:50:29*
 ## Summary data
+
+
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/huisvoorklokkenluiders.nl/subdomains.txt)|7|Alive subdomains|
 |[urls.txt](/data/huisvoorklokkenluiders.nl/urls.txt)|5|Urls|
 |[all_subdomains.txt](/data/huisvoorklokkenluiders.nl/all_subdomains.txt)|17|All found subdomains (history)|
+
+
 ## Statistics
+
+
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
 |[https://autodiscover.huisvoorklokkenluiders.nl](https://autodiscover.huisvoorklokkenluiders.nl)| |Microsoft-IIS/10.0| | | | :white_check_mark: | | :white_check_mark: |IIS:10.0 Windows Server||

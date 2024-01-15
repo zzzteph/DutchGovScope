@@ -1,12 +1,18 @@
 # kimnet.nl
 *2024-01-14 06:10:07*
 ## Summary data
+
+
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/kimnet.nl/subdomains.txt)|8|Alive subdomains|
 |[urls.txt](/data/kimnet.nl/urls.txt)|7|Urls|
 |[all_subdomains.txt](/data/kimnet.nl/all_subdomains.txt)|12|All found subdomains (history)|
+
+
 ## Statistics
+
+
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
 |[https://english.kimnet.nl](https://english.kimnet.nl)| |nginx| |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Bloomreach HSTS Nginx|Home | Netherlan...|

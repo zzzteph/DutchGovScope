@@ -228,7 +228,6 @@ https://mta-sts.belastingdienst.nl
 https://mul-mkt.belastingdienst.nl
 https://mul-redirect.belastingdienst.nl
 https://mwr-app-api.belastingdienst.nl
-https://mwr-app-api-ota.belastingdienst.nl
 https://mwr-app-cdn.belastingdienst.nl
 https://mwr-app-cdn-ota.belastingdienst.nl
 https://odb.belastingdienst.nl
@@ -288,12 +287,12 @@ https://werkenbijde.belastingdienst.nl
 https://geen.belastingdienst.nl
 https://jouw.belastingdienst.nl
 https://werkenbij.belastingdienst.nl
-http://mijnaanvraag.belastingdienst.nl
+https://mijnaanvraag.belastingdienst.nl
 https://mijn-aanvraag.belastingdienst.nl
 https://instroom.belastingdienst.nl
 https://gdlo.belastingdienst.nl
 https://gegevensuitwisseling.belastingdienst.nl
-http://gpi.belastingdienst.nl
+https://gpi.belastingdienst.nl
 https://ovverklaringen.belastingdienst.nl
 https://verleendekinderopvang.belastingdienst.nl
 https://verzekeringsproducten.belastingdienst.nl
@@ -391,7 +390,7 @@ https://specials.brabant.nl
 https://geoportaal.brabant.nl
 https://bevolkingsprognose.brabant.nl
 https://werkenvoor.brabant.nl
-http://api-acpt.brabant.nl
+https://api-acpt.brabant.nl
 https://esb.brabant.nl
 https://opendata.brabant.nl
 https://brains.brabant.nl
@@ -399,7 +398,7 @@ https://dagstaatmonitors.brabant.nl
 https://bevolkingsprognose2020.brabant.nl
 https://app.brabant.nl
 https://mik-acpt.brabant.nl
-http://bzv-a.brabant.nl
+https://bzv-a.brabant.nl
 https://geoportaal-acceptatie.brabant.nl
 http://informatie-rws.brabant.nl
 https://digicheck.brabant.nl
@@ -428,8 +427,6 @@ https://opendata.business.gov.nl
 https://search.business.gov.nl
 https://api.business.gov.nl
 https://business.gov.nl
-https://www.bzk.nl
-https://bzk.nl
 https://feeds.campagnetoolkits.nl
 https://opendata.campagnetoolkits.nl
 https://www.campagnetoolkits.nl
@@ -516,7 +513,7 @@ https://dataportaal.cbs.nl
 https://dataportal.cbs.nl
 https://dataset.cbs.nl
 https://datasets.cbs.nl
-http://designsystem.cbs.nl
+https://designsystem.cbs.nl
 https://dev.cerberus.cbs.nl
 https://devtestlogin.cbs.nl
 https://dialin.cbs.nl
@@ -4401,7 +4398,6 @@ http://ih-static.rvo.nl
 https://infographics.rvo.nl
 https://informatiehuis.rvo.nl
 https://intra.rvo.nl
-https://intra-acc.rvo.nl
 https://intra-cms.rvo.nl
 https://intra-cms-acc.rvo.nl
 https://intranetvan.rvo.nl
@@ -4566,8 +4562,6 @@ https://feeds.staatsexamensvo.nl
 https://opendata.staatsexamensvo.nl
 https://www.staatsexamensvo.nl
 https://staatsexamensvo.nl
-https://www.stagefondszorg.nl
-https://stagefondszorg.nl
 https://feeds.startmetoesorichtlijnen.nl
 https://opendata.startmetoesorichtlijnen.nl
 https://www.startmetoesorichtlijnen.nl
@@ -4902,7 +4896,6 @@ https://opendata.uwbeslagvrijevoet.nl
 https://www.uwbeslagvrijevoet.nl
 https://uwbeslagvrijevoet.nl
 https://www.uzi-register-test.nl
-http://ocsp.uzi-register-test.nl
 https://www.csp.uzi-register-test.nl
 https://uzi-register-test.nl
 http://ocsp.uzi-register.nl
@@ -5184,6 +5177,7 @@ https://www.csp.zovar.nl
 https://zovar.nl
 http://ocsp.zovar.nl
 https://www.ncsa.nl
+https://ncsa.nl
 https://www.aivdkerstpuzzel.nl
 https://aivdkerstpuzzel.nl
 https://www.werkenbijdeaivd.nl
@@ -5532,18 +5526,10 @@ http://exchange.ssonet.nl
 https://storingsdienst.rgd.ssonet.nl
 https://regiesociaaldomein.nl
 https://www.regiesociaaldomein.nl
-https://jeugdzorgcn.nl
-https://www.jeugdzorgcn.nl
-https://rcnl.nl
-https://www.rcnl.nl
-https://rijksvertegenwoordiger.nl
-https://www.rijksvertegenwoordiger.nl
 https://www.aboutnetherlandscustoms.nl
 https://aboutnetherlandscustoms.nl
 https://feeds.aboutnetherlandscustoms.nl
 https://opendata.aboutnetherlandscustoms.nl
-https://rijkskoeriers.nl
-https://www.rijkskoeriers.nl
 https://leads.rijksconsultants.nl
 https://rijksconsultants.nl
 https://www.rijksconsultants.nl
@@ -5658,6 +5644,7 @@ https://webmail.provincie-utrecht.nl
 https://kadernota.provincie-utrecht.nl
 https://wortel184.provincie-utrecht.nl
 https://awstats.provincie-utrecht.nl
+https://sslvpn.provincie-utrecht.nl
 https://ps.provincie-utrecht.nl
 https://ruimtelijkeplannentest.provincie-utrecht.nl
 https://geotestservices.provincie-utrecht.nl
@@ -5673,6 +5660,7 @@ https://login.provincie-utrecht.nl
 https://socialintranet.provincie-utrecht.nl
 https://formulieren.provincie-utrecht.nl
 https://vctu-api.provincie-utrecht.nl
+https://esb.provincie-utrecht.nl
 https://orionsrv.provincie-utrecht.nl
 https://geotest.provincie-utrecht.nl
 https://gis-test.provincie-utrecht.nl
@@ -5695,6 +5683,8 @@ https://gis.provincie-utrecht.nl
 https://provincie-utrecht.nl
 https://atlas.provincie-utrecht.nl
 https://oem.provincie-utrecht.nl
+https://mailing.provincie-utrecht.nl
+https://esb-preprod.provincie-utrecht.nl
 https://webkaart.provincie-utrecht.nl
 https://vctu.provincie-utrecht.nl
 https://socialintranet-acc.provincie-utrecht.nl
@@ -5707,6 +5697,7 @@ https://najaarsrapportage2016.provincie-utrecht.nl
 https://ruimtelijkeplannen.provincie-utrecht.nl
 https://omgevingswet.provincie-utrecht.nl
 https://zaaksysteem.provincie-utrecht.nl
+https://monitorklimaatadaptatie.provincie-utrecht.nl
 https://sslvpn-hth.provincie-utrecht.nl
 https://search.provincie-utrecht.nl
 https://search-a.provincie-utrecht.nl
@@ -5721,6 +5712,7 @@ https://erfgoedexpertteam.provincie-utrecht.nl
 http://monitoromgevingsbeleid.provincie-utrecht.nl
 https://omgevingsbeleid.provincie-utrecht.nl
 https://zsd.provincie-utrecht.nl
+https://ib.provincie-utrecht.nl
 https://kennis.zuid-holland.nl
 https://geoportaal.zuid-holland.nl
 http://coalitieakkoord.zuid-holland.nl
@@ -5883,12 +5875,15 @@ https://werkplek.hdsr.nl
 https://zaaksysteem.hdsr.nl
 https://ftp-hdsr.hdsr.nl
 https://loket-acc.hdsr.nl
+https://webdiensten.hdsr.nl
 https://cawfirewall.hdsr.nl
 https://testbegrippen.hdsr.nl
 https://loket.hdsr.nl
 https://uconnect.hdsr.nl
 https://webservices.hdsr.nl
+https://redactie.hdsr.nl
 http://autodiscover.hdsr.nl
+https://www.hdsr.nl
 https://mrb.hdsr.nl
 https://testkennis.hdsr.nl
 https://geoweb.hdsr.nl
@@ -6335,8 +6330,8 @@ https://acc.milieuzones.nl
 https://test.milieuzones.nl
 https://www.milieuzones.nl
 https://milieuzones.nl
-http://www.mijneindexamen.nl
-http://mijneindexamen.nl
+https://www.mijneindexamen.nl
+https://mijneindexamen.nl
 https://acc.natura2000.nl
 https://pas.natura2000.nl
 https://test.natura2000.nl
@@ -6377,6 +6372,7 @@ https://aerius.nl
 https://docs.aerius.nl
 https://regelingsondersteuning.aerius.nl
 https://auth-dev.aerius.nl
+https://auth-register-dev.aerius.nl
 http://sub.gezondeschool.nl
 http://test.gezondeschool.nl
 https://www.gezondeschool.nl
@@ -6685,10 +6681,7 @@ https://leer-rijk.nl
 https://www.ggo-vergunningverlening.nl
 https://ggo-vergunningverlening.nl
 https://acc-dictu.sbr-nl.nl
-https://prod-dictu.sbr-nl.nl
 https://test-dictu.sbr-nl.nl
-https://www.sbr-nl.nl
-https://sbr-nl.nl
 https://www.nieuwsienw.nl
 https://nieuwsienw.nl
 https://amice.lma.nl
@@ -6712,7 +6705,6 @@ https://www.acoi.nl
 https://www.nationaalwaterstofprogramma.nl
 https://nationaalwaterstofprogramma.nl
 https://acc.duurzaamdoor.nl
-https://prod.duurzaamdoor.nl
 https://test.duurzaamdoor.nl
 https://www.duurzaamdoor.nl
 https://duurzaamdoor.nl
@@ -6779,10 +6771,7 @@ https://www.biociden.nl
 https://biociden.nl
 https://acc-dictu.referentiegrootboekschema.nl
 https://mail.referentiegrootboekschema.nl
-https://prod-dictu.referentiegrootboekschema.nl
 https://test-dictu.referentiegrootboekschema.nl
-https://www.referentiegrootboekschema.nl
-https://referentiegrootboekschema.nl
 https://onderzoekmetmensen.nl
 https://www.onderzoekmetmensen.nl
 https://www.lerenvoorveiligheid.nl
@@ -7580,9 +7569,16 @@ https://onderwijsdata.duo.nl
 https://personenregisterkinderopvang.duo.nl
 https://rio-kennisbank.duo.nl
 https://staging.duo.nl
+https://test-onderwijsdata.duo.nl
 https://uag.duo.nl
 https://vt-2bron.duo.nl
+https://vt-apps.duo.nl
+https://vt-digidzakelijk.duo.nl
+https://vt-eidas-mijn.duo.nl
+https://vt-idposr.duo.nl
+https://vt-mijn.duo.nl
 https://vt-personenregisterkinderopvang.duo.nl
+https://vt-zakelijk.duo.nl
 https://werkplek.duo.nl
 https://www.duo.nl
 https://xbrlonderwijsportaal.duo.nl
@@ -7738,7 +7734,7 @@ https://www.amsterdam.rosopen.databank.nl
 https://test-mbotransparant.databank.nl
 https://dd.databank.nl
 https://00klimaatmonitor.databank.nl
-https://beta-adc.databank.nl
+http://beta-adc.databank.nl
 https://drenthe.databank.nl
 https://beta-velsen.databank.nl
 https://zorgimpuls.rosopen.databank.nl
@@ -7827,6 +7823,7 @@ https://klimaat-moni-tor.databank.nl
 https://www.seer.databank.nl
 https://pon.databank.nl
 https://ftest-prognosemodelzw.databank.nl
+https://www.hermes.databank.nl
 https://maatmonitor.databank.nl
 https://mail.databank.nl
 https://primostijdreeks.databank.nl
@@ -7837,6 +7834,7 @@ http://databank.nl
 https://h6.databank.nl
 https://arbeidsmarktdetailhandel.databank.nl
 https://asre.databank.nl
+https://jan.wsjg.databank.nl
 https://caransscoop.rosopen.databank.nl
 https://groups.databank.nl
 https://336afvalmonitor.databank.nl
@@ -7884,7 +7882,7 @@ https://httpsenergiecijfers.databank.nl
 https://httpsvue.databank.nl
 https://httpsprognosemodelzw.databank.nl
 https://httpslive-waves.databank.nl
-http://beta-klimaatbeleid.databank.nl
+https://beta-klimaatbeleid.databank.nl
 https://beta-dcmr.databank.nl
 https://frieslandsnb.databank.nl
 https://gip.databank.nl
@@ -8241,6 +8239,7 @@ https://engine.acc.fhub.dictu.nl
 https://engine.fhub.dictu.nl
 https://fhub.dictu.nl
 https://gisextern.dictu.nl
+https://ibabs.dictu.nl
 https://ibg.datasluis.dictu.nl
 https://ibg.webftp.dictu.nl
 http://iltbuildserver.dictu.nl
@@ -8404,7 +8403,7 @@ https://telos.mett.nl
 https://test-login.mett.nl
 https://test.muad.mett.nl
 https://ticket.mett.nl
-https://tuim.mett.nl
+http://tuim.mett.nl
 https://twentebedrijf.mett.nl
 https://urhahn.mett.nl
 https://utrecht-west.mett.nl
@@ -8479,7 +8478,7 @@ https://icovet.mett.nl
 https://samenzundert.mett.nl
 https://appstore.mett.nl
 https://mobycon.mett.nl
-https://copyrijksoverheid.mett.nl
+http://copyrijksoverheid.mett.nl
 https://de9straatjes.mett.nl
 https://gemparktriangel.mett.nl
 https://www.waterakkers.mett.nl
@@ -8557,7 +8556,7 @@ https://linnean.mett.nl
 https://rottemeren.mett.nl
 https://vastlab.mett.nl
 https://laadnetwerkvanmorgen.mett.nl
-https://waterpleinvelletri.mett.nl
+http://waterpleinvelletri.mett.nl
 https://www.denkmeeuva.mett.nl
 https://gelijkekansens-hertogenbosch.mett.nl
 https://aardgasvrijewijken.mett.nl
@@ -8634,7 +8633,7 @@ https://samenmetwetterskip.mett.nl
 https://centrumrhoon.mett.nl
 https://dejongeakademie.mett.nl
 https://idfp.mett.nl
-http://restwente.mett.nl
+https://restwente.mett.nl
 https://reswestoverijssel.mett.nl
 https://pilots-mbo-certificaten.mett.nl
 https://circularfestivals.mett.nl
@@ -8749,7 +8748,7 @@ https://www2.acc.dusi.rdobeheer.nl
 https://portal2.acc.dusi.rdobeheer.nl
 https://mailcatch.acc.dusi.rdobeheer.nl
 https://co.acc.dusi.rdobeheer.nl
-http://stagefonds.acc.dusi.rdobeheer.nl
+https://stagefonds.acc.dusi.rdobeheer.nl
 https://portalco.acc.dusi.rdobeheer.nl
 https://extern.acc.dusi.rdobeheer.nl
 https://web.test.dpr.rdobeheer.nl
@@ -8877,6 +8876,7 @@ https://mail.cjib.nl
 https://pay.cjib.nl
 https://pay-acc.cjib.nl
 https://sfb.cjib.nl
+https://sfbsip.cjib.nl
 https://sfbweb.cjib.nl
 https://werken.cjib.nl
 https://www.cjib.nl
@@ -8926,7 +8926,7 @@ https://wcag-2.1-inspectie-www.one-conference.nl
 https://www.amlc.nl
 https://amlc.nl
 https://21www.amlc.nl
-https://8www.amlc.nl
+http://8www.amlc.nl
 https://www.cibgacademie.nl
 https://cibgacademie.nl
 http://autodiscover.atgb.nl
@@ -9213,7 +9213,6 @@ https://stbtest.poraad.nl
 https://acc2.poraad.nl
 https://poraad.nl
 https://sectorrapportage2022.poraad.nl
-http://cdn.naarnederland.nl
 http://mail.naarnederland.nl
 https://www.naarnederland.nl
 https://naarnederland.nl
@@ -9299,8 +9298,8 @@ https://www.cpb.nl
 https://cpb.nl
 https://2018.cvte-raadpleging.nl
 https://nieuwsbrief.cvte-raadpleging.nl
-http://www.cvte-raadpleging.nl
-http://cvte-raadpleging.nl
+https://www.cvte-raadpleging.nl
+https://cvte-raadpleging.nl
 https://18.cvte-raadpleging.nl
 https://mail.datachallenge.nl
 https://www.datachallenge.nl
@@ -9475,15 +9474,12 @@ https://esp.mfaservices.nl
 https://esp-api-management.acc-probas.mfaservices.nl
 https://esp-api-management.dev-probas.mfaservices.nl
 https://esp-api-management.probas.mfaservices.nl
-https://esp-api-management.tst-probas.mfaservices.nl
 https://esp-api-portal.acc-probas.mfaservices.nl
 https://esp-api-portal.dev-probas.mfaservices.nl
 https://esp-api-portal.probas.mfaservices.nl
-https://esp-api-portal.tst-probas.mfaservices.nl
 https://esp-api.acc-probas.mfaservices.nl
 https://esp-api.dev-probas.mfaservices.nl
 https://esp-api.probas.mfaservices.nl
-https://esp-api.tst-probas.mfaservices.nl
 https://insights.mfaservices.nl
 https://liferay.mfaservices.nl
 https://login.consular.mfaservices.nl
@@ -9508,11 +9504,12 @@ https://dev.cdn.consular.mfaservices.nl
 https://snd.cdn.consular.mfaservices.nl
 https://tst.cdn.consular.mfaservices.nl
 https://url9097.consular.mfaservices.nl
+https://cocreatesa.nl
 http://www.bereiknu.nl
 http://bereiknu.nl
-http://mail.bewustbodemgebruik.nl
-https://www.bewustbodemgebruik.nl
-http://bewustbodemgebruik.nl
+https://mail.bewustbodemgebruik.nl
+http://www.bewustbodemgebruik.nl
+https://bewustbodemgebruik.nl
 https://www.zeroemissiedoelgroepenvervoer.nl
 https://zeroemissiedoelgroepenvervoer.nl
 https://acceptatie.blauwegolfverbindend.nl
@@ -9566,6 +9563,8 @@ https://platform.zwdelta.nl
 https://www.zwdelta.nl
 https://www.platform.zwdelta.nl
 https://zwdelta.nl
+https://www.dashboardklimaatbeleid.nl
+https://dashboardklimaatbeleid.nl
 https://www.actieleernetwerk.nl
 https://actieleernetwerk.nl
 https://storybook.nldesignsystem.nl
@@ -9737,10 +9736,10 @@ https://fac.rijksapplicaties.nl
 https://stakeholdersregistratie.rijksapplicaties.nl
 https://rvb-rif.staging.rijksapplicaties.nl
 https://rvb-noc.rijksapplicaties.nl
-https://rvb-rbb.rijksapplicaties.nl
-https://rvb-rbb.staging.rijksapplicaties.nl
-https://via.staging.rijksapplicaties.nl
-https://aanwezigheid-ilab.staging.rijksapplicaties.nl
+http://rvb-rbb.rijksapplicaties.nl
+http://rvb-rbb.staging.rijksapplicaties.nl
+http://via.staging.rijksapplicaties.nl
+http://aanwezigheid-ilab.staging.rijksapplicaties.nl
 https://rvb-relatiemanagement.staging.rijksapplicaties.nl
 https://cotero.rijksapplicaties.nl
 https://cedar.rijksapplicaties.nl
@@ -10023,6 +10022,4 @@ https://onslevendlandschap.nl
 https://feeds.onslevendlandschap.nl
 https://opendata.onslevendlandschap.nl
 https://www.onslevendlandschap.nl
-https://adronderzoek.nl
-https://www.adronderzoek.nl
 https://magazinesintern.bedrijfsvoeringrijk.nl

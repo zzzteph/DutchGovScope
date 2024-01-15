@@ -1,12 +1,18 @@
 # ssc-campus.nl
 *2024-01-11 16:13:40*
 ## Summary data
+
+
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/ssc-campus.nl/subdomains.txt)|31|Alive subdomains|
 |[urls.txt](/data/ssc-campus.nl/urls.txt)|17|Urls|
 |[all_subdomains.txt](/data/ssc-campus.nl/all_subdomains.txt)|540|All found subdomains (history)|
+
+
 ## Statistics
+
+
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
 |[http://acceptatie.ssc-campus.nl](http://acceptatie.ssc-campus.nl)| || | | | | | :white_check_mark: |||

@@ -1,12 +1,18 @@
 # minvenj.nl
 *2024-01-10 20:57:18*
 ## Summary data
+
+
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/minvenj.nl/subdomains.txt)|87|Alive subdomains|
 |[urls.txt](/data/minvenj.nl/urls.txt)|25|Urls|
 |[all_subdomains.txt](/data/minvenj.nl/all_subdomains.txt)|529|All found subdomains (history)|
+
+
 ## Statistics
+
+
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
 |[https://acc-ssci-ossplanning.minvenj.nl](https://acc-ssci-ossplanning.minvenj.nl)| |Microsoft-IIS/8.5| | | | | | :white_check_mark: |IIS:8.5 Microsoft ASP.NET Windows Server|403 - Forbidden:...|

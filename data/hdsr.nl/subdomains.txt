@@ -9,7 +9,6 @@ loket.hdsr.nl
 uconnect.hdsr.nl
 cawuitwijkfirewall.hdsr.nl
 digikoppeling-test.hdsr.nl
-webservices.hdsr.nl
 redactie.hdsr.nl
 autodiscover.hdsr.nl
 www.hdsr.nl
@@ -19,11 +18,7 @@ geoweb.hdsr.nl
 www1.hdsr.nl
 kennis.hdsr.nl
 kaarten.hdsr.nl
-begrippen.hdsr.nl
 zaaksysteem-acc.hdsr.nl
-zoeken.hdsr.nl
-uconnect-acc.hdsr.nl
-wsus.hdsr.nl
 remote-pa.hdsr.nl
 geoservices.hdsr.nl
 hdsr.nl

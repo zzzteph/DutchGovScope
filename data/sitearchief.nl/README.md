@@ -1,19 +1,25 @@
 # sitearchief.nl
 *2024-01-11 16:13:44*
 ## Summary data
+
+
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/sitearchief.nl/subdomains.txt)|69|Alive subdomains|
 |[urls.txt](/data/sitearchief.nl/urls.txt)|69|Urls|
 |[all_subdomains.txt](/data/sitearchief.nl/all_subdomains.txt)|69|All found subdomains (history)|
+
+
 ## Statistics
+
+
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://archief33.sitearchief.nl](https://archief33.sitearchief.nl)| |nginx| |:white_check_mark: | | | :white_check_mark: | :white_check_mark: |HSTS Nginx|403 Forbidden|
+|[https://archief33.sitearchief.nl](https://archief33.sitearchief.nl)| |nginx| |:white_check_mark: | | | :white_check_mark: | :white_check_mark: |HSTS Nginx|HTTP Status 404...|
 |[https://minbzk.sitearchief.nl](https://minbzk.sitearchief.nl)| |nginx|:o: |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx|Sitearchief - Mi...|
 |[https://cultureelerfgoed.sitearchief.nl](https://cultureelerfgoed.sitearchief.nl)| |nginx|:o: |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx|Sitearchief - Ri...|
 |[https://archief34.sitearchief.nl](https://archief34.sitearchief.nl)| |nginx| |:white_check_mark: | | | :white_check_mark: | :white_check_mark: |HSTS Nginx|HTTP Status 404...|
-|[https://archief30.sitearchief.nl](https://archief30.sitearchief.nl)| |nginx| |:white_check_mark: | | | :white_check_mark: | :white_check_mark: |HSTS Nginx|403 Forbidden|
+|[https://archief30.sitearchief.nl](https://archief30.sitearchief.nl)| |nginx| |:white_check_mark: | | | :white_check_mark: | :white_check_mark: |HSTS Nginx|HTTP Status 404...|
 |[https://archief31.sitearchief.nl](https://archief31.sitearchief.nl)| |nginx| |:white_check_mark: | | | :white_check_mark: | :white_check_mark: |HSTS Nginx|HTTP Status 404...|
 |[https://archief39.sitearchief.nl](https://archief39.sitearchief.nl)| |nginx| |:white_check_mark: | | | :white_check_mark: | :white_check_mark: |HSTS Nginx|HTTP Status 404...|
 |[https://archief23.sitearchief.nl](https://archief23.sitearchief.nl)| |nginx| |:white_check_mark: | | | :white_check_mark: | :white_check_mark: |HSTS Nginx|HTTP Status 404...|
@@ -29,7 +35,7 @@
 |[https://archief46.sitearchief.nl](https://archief46.sitearchief.nl)| |nginx| |:white_check_mark: | | | :white_check_mark: | :white_check_mark: |HSTS Nginx|HTTP Status 404...|
 |[https://minjenv.sitearchief.nl](https://minjenv.sitearchief.nl)| |nginx|:o: |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx|Sitearchief - Mi...|
 |[https://archief27.sitearchief.nl](https://archief27.sitearchief.nl)| |nginx| |:white_check_mark: | | | :white_check_mark: | :white_check_mark: |HSTS Nginx|HTTP Status 404...|
-|[https://ind.sitearchief.nl](https://ind.sitearchief.nl)| |nginx|:o: |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx|403 Forbidden|
+|[https://ind.sitearchief.nl](https://ind.sitearchief.nl)| |nginx|:o: |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx|Sitearchief - Im...|
 |[https://archief51.sitearchief.nl](https://archief51.sitearchief.nl)| |nginx| |:white_check_mark: | | | :white_check_mark: | :white_check_mark: |HSTS Nginx|HTTP Status 404...|
 |[https://coa.sitearchief.nl](https://coa.sitearchief.nl)| |nginx|:o: |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx|Sitearchief - Ce...|
 |[https://knmi.sitearchief.nl](https://knmi.sitearchief.nl)| |nginx|:o: |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx|Sitearchief - KN...|
@@ -40,7 +46,7 @@
 |[https://emissieautoriteit.sitearchief.nl](https://emissieautoriteit.sitearchief.nl)| |nginx|:o: |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx|Sitearchief - Em...|
 |[https://archief26.sitearchief.nl](https://archief26.sitearchief.nl)| |nginx| |:white_check_mark: | | | :white_check_mark: | :white_check_mark: |HSTS Nginx|HTTP Status 404...|
 |[https://abx02.sitearchief.nl](https://abx02.sitearchief.nl)| |nginx|:o: |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx|Archiefweb|
-|[https://belastingdienst.sitearchief.nl](https://belastingdienst.sitearchief.nl)| |nginx|:o: |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx|Sitearchief - Be...|
+|[https://belastingdienst.sitearchief.nl](https://belastingdienst.sitearchief.nl)| |nginx|:o: |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx|403 Forbidden|
 |[https://cibg.sitearchief.nl](https://cibg.sitearchief.nl)| |nginx|:o: |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx|Sitearchief - CI...|
 |[https://igj.sitearchief.nl](https://igj.sitearchief.nl)| |nginx|:o: |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx|Sitearchief - In...|
 |[https://nza.sitearchief.nl](https://nza.sitearchief.nl)| |nginx|:o: |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx|Sitearchief - NZ...|
@@ -49,12 +55,12 @@
 |[https://archief38.sitearchief.nl](https://archief38.sitearchief.nl)| |nginx| |:white_check_mark: | | | :white_check_mark: | :white_check_mark: |HSTS Nginx|HTTP Status 404...|
 |[https://archief47.sitearchief.nl](https://archief47.sitearchief.nl)| |nginx| |:white_check_mark: | | | :white_check_mark: | :white_check_mark: |HSTS Nginx|HTTP Status 404...|
 |[https://archief42.sitearchief.nl](https://archief42.sitearchief.nl)| |nginx| |:white_check_mark: | | | :white_check_mark: | :white_check_mark: |HSTS Nginx|HTTP Status 404...|
-|[https://archief37.sitearchief.nl](https://archief37.sitearchief.nl)| |nginx| |:white_check_mark: | | | :white_check_mark: | :white_check_mark: |HSTS Nginx|HTTP Status 404...|
+|[https://archief37.sitearchief.nl](https://archief37.sitearchief.nl)| |nginx| |:white_check_mark: | | | :white_check_mark: | :white_check_mark: |HSTS Nginx|403 Forbidden|
 |[https://www.sitearchief.nl](https://www.sitearchief.nl)| |nginx|:white_check_mark: |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |Bloomreach HSTS MySQL Nginx PHP WordPress|Overzicht Sitear...|
 |[https://cbg-meb.sitearchief.nl](https://cbg-meb.sitearchief.nl)| |nginx|:o: |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx|Sitearchief - Co...|
 |[https://nationaalarchief.sitearchief.nl](https://nationaalarchief.sitearchief.nl)| |nginx|:o: |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx|Sitearchief - Na...|
 |[https://logius.sitearchief.nl](https://logius.sitearchief.nl)| |nginx|:o: |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx|Sitearchief - Lo...|
-|[https://minfin.sitearchief.nl](https://minfin.sitearchief.nl)| |nginx|:o: |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx|403 Forbidden|
+|[https://minfin.sitearchief.nl](https://minfin.sitearchief.nl)| |nginx|:o: |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx|Sitearchief - Mi...|
 |[https://minszw.sitearchief.nl](https://minszw.sitearchief.nl)| |nginx|:o: |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx|Sitearchief - Mi...|
 |[https://p-direkt.sitearchief.nl](https://p-direkt.sitearchief.nl)| |nginx|:o: |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx|Sitearchief - P-...|
 |[https://archief50.sitearchief.nl](https://archief50.sitearchief.nl)| |nginx| |:white_check_mark: | | | :white_check_mark: | :white_check_mark: |HSTS Nginx|HTTP Status 404...|

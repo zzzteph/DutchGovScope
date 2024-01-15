@@ -1,12 +1,18 @@
 # opwegnaarseb.nl
 *2024-01-11 16:13:44*
 ## Summary data
+
+
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/opwegnaarseb.nl/subdomains.txt)|7|Alive subdomains|
 |[urls.txt](/data/opwegnaarseb.nl/urls.txt)|7|Urls|
 |[all_subdomains.txt](/data/opwegnaarseb.nl/all_subdomains.txt)|11|All found subdomains (history)|
+
+
 ## Statistics
+
+
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
 |[https://cdn.opwegnaarseb.nl](https://cdn.opwegnaarseb.nl)| || | | | | | :white_check_mark: |Azure Azure Front Door||

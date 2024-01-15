@@ -1,12 +1,18 @@
 # gebruikercentraal.nl
 *2024-01-11 16:13:36*
 ## Summary data
+
+
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/gebruikercentraal.nl/subdomains.txt)|72|Alive subdomains|
 |[urls.txt](/data/gebruikercentraal.nl/urls.txt)|72|Urls|
 |[all_subdomains.txt](/data/gebruikercentraal.nl/all_subdomains.txt)|75|All found subdomains (history)|
+
+
 ## Statistics
+
+
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
 |[https://accept.gebruikercentraal.nl](https://accept.gebruikercentraal.nl)| |nginx| |:white_check_mark: | | | | :white_check_mark: |Basic HSTS Nginx|401 Authorizatio...|

@@ -1,12 +1,18 @@
 # ncsc.nl
 *2024-01-10 20:57:18*
 ## Summary data
+
+
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/ncsc.nl/subdomains.txt)|47|Alive subdomains|
 |[urls.txt](/data/ncsc.nl/urls.txt)|25|Urls|
 |[all_subdomains.txt](/data/ncsc.nl/all_subdomains.txt)|90|All found subdomains (history)|
+
+
 ## Statistics
+
+
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
 |[https://advisories.ncsc.nl](https://advisories.ncsc.nl)| |none| |:white_check_mark: | | :white_check_mark: | | :white_check_mark: |HSTS|NCSC Advisories|

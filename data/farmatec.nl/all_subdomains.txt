@@ -22,3 +22,6 @@ www.farmatec.nl
 www.acc.farmatec.nl
 www.acc.hulpmiddelen.farmatec.nl
 farmatec.nl
+rapportage-onderzoek-digitoegankelijkheid-hulpmiddelen.farmatec.nl
+rapportage-onderzoek-digitoegankelijkheid-www.farmatec.nl
+rapportage-onderzoek-digitoegankelijkheid-acceptatie.hulpmiddelen.farmatec.nl

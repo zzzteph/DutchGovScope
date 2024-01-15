@@ -1,12 +1,18 @@
 # makingvitalityreality.nl
 *2024-01-11 16:13:44*
 ## Summary data
+
+
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/makingvitalityreality.nl/subdomains.txt)|3|Alive subdomains|
 |[urls.txt](/data/makingvitalityreality.nl/urls.txt)|3|Urls|
 |[all_subdomains.txt](/data/makingvitalityreality.nl/all_subdomains.txt)|3|All found subdomains (history)|
+
+
 ## Statistics
+
+
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
 |[https://makingvitalityreality.nl](https://makingvitalityreality.nl)| |Apache| |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Apache HTTP Server Drupal:10 HSTS PHP|Homepage | Makin...|

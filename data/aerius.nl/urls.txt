@@ -17,3 +17,4 @@ https://aerius.nl
 https://docs.aerius.nl
 https://regelingsondersteuning.aerius.nl
 https://auth-dev.aerius.nl
+https://auth-register-dev.aerius.nl

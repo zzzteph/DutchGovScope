@@ -1,12 +1,18 @@
 # vallei-veluwe.nl
 *2024-01-11 14:16:20*
 ## Summary data
+
+
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/vallei-veluwe.nl/subdomains.txt)|16|Alive subdomains|
+|[subdomains.txt](/data/vallei-veluwe.nl/subdomains.txt)|15|Alive subdomains|
 |[urls.txt](/data/vallei-veluwe.nl/urls.txt)|11|Urls|
 |[all_subdomains.txt](/data/vallei-veluwe.nl/all_subdomains.txt)|47|All found subdomains (history)|
+
+
 ## Statistics
+
+
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
 |[https://adfs.vallei-veluwe.nl](https://adfs.vallei-veluwe.nl)| || |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS||

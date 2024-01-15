@@ -1,12 +1,18 @@
 # minjenv-events.nl
 *2024-01-11 16:13:45*
 ## Summary data
+
+
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/minjenv-events.nl/subdomains.txt)|26|Alive subdomains|
 |[urls.txt](/data/minjenv-events.nl/urls.txt)|26|Urls|
 |[all_subdomains.txt](/data/minjenv-events.nl/all_subdomains.txt)|26|All found subdomains (history)|
+
+
 ## Statistics
+
+
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
 |[https://hetslachtofferenhetstrafproces.minjenv-events.nl](https://hetslachtofferenhetstrafproces.minjenv-events.nl)| |nginx| |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx Plesk||

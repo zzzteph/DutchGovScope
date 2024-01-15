@@ -10,7 +10,6 @@ acc-mijn.rvo.nl
 acc-webform.rvo.nl
 acc-website.rvo.nl
 acc.informatiehuis.rvo.nl
-acc.vastgoedvanhetrijk.rvo.nl
 achilles.rvo.nl
 achilles-acc.rvo.nl
 aiddata.rvo.nl
@@ -67,7 +66,6 @@ mijnoctrooi.rvo.nl
 mijnoctrooi.mypage.rvo.nl
 nieuws.rvo.nl
 offshorewind.rvo.nl
-ont.vastgoedvanhetrijk.rvo.nl
 ot-vgvhr-wv-ar.rvo.nl
 poc-intranet.rvo.nl
 prizmo-web.rvo.nl
@@ -97,13 +95,11 @@ test-website.rvo.nl
 test.informatiehuis.rvo.nl
 trade.rvo.nl
 trade-acc.rvo.nl
-tst.vastgoedvanhetrijk.rvo.nl
 upnl-acc.mijn.rvo.nl
 upnl-idp.rvo.nl
 upnl-idp-acc.rvo.nl
 upnl-zw.mijn.rvo.nl
 upnl.mijn.rvo.nl
-vastgoedvanhetrijk.rvo.nl
 wba.rvo.nl
 wba-acc.rvo.nl
 webform.rvo.nl

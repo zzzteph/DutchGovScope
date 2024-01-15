@@ -1,12 +1,18 @@
 # minjus.nl
 *2024-01-10 20:57:18*
 ## Summary data
+
+
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/minjus.nl/subdomains.txt)|43|Alive subdomains|
 |[urls.txt](/data/minjus.nl/urls.txt)|25|Urls|
 |[all_subdomains.txt](/data/minjus.nl/all_subdomains.txt)|443|All found subdomains (history)|
+
+
 ## Statistics
+
+
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
 |[https://dialin.acpt.dji.minjus.nl](https://dialin.acpt.dji.minjus.nl)| |Microsoft-IIS/10.0| |:white_check_mark: | | | | :white_check_mark: |HSTS IIS:10.0 Windows Server|Conferencing Dia...|

@@ -1,12 +1,18 @@
 # internationaalondernemen.nl
 *2024-01-11 16:13:42*
 ## Summary data
+
+
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/internationaalondernemen.nl/subdomains.txt)|8|Alive subdomains|
 |[urls.txt](/data/internationaalondernemen.nl/urls.txt)|8|Urls|
 |[all_subdomains.txt](/data/internationaalondernemen.nl/all_subdomains.txt)|8|All found subdomains (history)|
+
+
 ## Statistics
+
+
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
 |[https://mail.logan.nl.internationaalondernemen.nl](https://mail.logan.nl.internationaalondernemen.nl)| |Apache| | | | | | :white_check_mark: |Apache HTTP Server HSTS|An Error Occurre...|

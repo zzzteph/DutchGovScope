@@ -1,12 +1,18 @@
 # luchtvaartmeteo.nl
 *2024-01-11 16:13:44*
 ## Summary data
+
+
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/luchtvaartmeteo.nl/subdomains.txt)|8|Alive subdomains|
 |[urls.txt](/data/luchtvaartmeteo.nl/urls.txt)|7|Urls|
 |[all_subdomains.txt](/data/luchtvaartmeteo.nl/all_subdomains.txt)|11|All found subdomains (history)|
+
+
 ## Statistics
+
+
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
 |[https://acc.luchtvaartmeteo.nl](https://acc.luchtvaartmeteo.nl)| |awselb/2.0| | | | | | :white_check_mark: |Amazon ELB Amazon Web Services|403 Forbidden|

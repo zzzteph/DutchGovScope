@@ -1,12 +1,18 @@
 # loketgezondleven.nl
 *2024-01-11 16:13:36*
 ## Summary data
+
+
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/loketgezondleven.nl/subdomains.txt)|9|Alive subdomains|
 |[urls.txt](/data/loketgezondleven.nl/urls.txt)|7|Urls|
 |[all_subdomains.txt](/data/loketgezondleven.nl/all_subdomains.txt)|12|All found subdomains (history)|
+
+
 ## Statistics
+
+
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
 |[http://acceptatie.loketgezondleven.nl](http://acceptatie.loketgezondleven.nl)| || | | | | | :white_check_mark: |||

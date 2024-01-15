@@ -1,12 +1,18 @@
 # milieuzones.nl
 *2024-01-11 16:13:36*
 ## Summary data
+
+
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/milieuzones.nl/subdomains.txt)|5|Alive subdomains|
 |[urls.txt](/data/milieuzones.nl/urls.txt)|4|Urls|
 |[all_subdomains.txt](/data/milieuzones.nl/all_subdomains.txt)|8|All found subdomains (history)|
+
+
 ## Statistics
+
+
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
 |[https://acc.milieuzones.nl](https://acc.milieuzones.nl)| |nginx| | | | | | :white_check_mark: |Basic Nginx|401 Authorizatio...|

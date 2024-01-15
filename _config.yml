@@ -1,7 +1,0 @@
-title: DutchGovScope
-description: Dutch Government Bugbounty scope analysis, subdomains and url lists
-show_downloads: true
-google_analytics:
-theme: jekyll-theme-hacker
-plugins:
-  - jekyll-paginate

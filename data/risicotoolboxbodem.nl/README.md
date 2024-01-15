@@ -1,12 +1,18 @@
 # risicotoolboxbodem.nl
 *2024-01-11 16:13:39*
 ## Summary data
+
+
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/risicotoolboxbodem.nl/subdomains.txt)|7|Alive subdomains|
 |[urls.txt](/data/risicotoolboxbodem.nl/urls.txt)|6|Urls|
 |[all_subdomains.txt](/data/risicotoolboxbodem.nl/all_subdomains.txt)|10|All found subdomains (history)|
+
+
 ## Statistics
+
+
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
 |[https://test.risicotoolboxbodem.nl](https://test.risicotoolboxbodem.nl)| |Microsoft-IIS/8.5|:warning: |:white_check_mark: | | | | :white_check_mark: |HSTS IIS:8.5 Microsoft ASP.NET:4.0.30319 Windows Server|Object moved|

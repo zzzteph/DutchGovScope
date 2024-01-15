@@ -1,12 +1,18 @@
 # werkenvoornederland.nl
 *2024-01-10 20:57:26*
 ## Summary data
+
+
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/werkenvoornederland.nl/subdomains.txt)|19|Alive subdomains|
 |[urls.txt](/data/werkenvoornederland.nl/urls.txt)|19|Urls|
 |[all_subdomains.txt](/data/werkenvoornederland.nl/all_subdomains.txt)|34|All found subdomains (history)|
+
+
 ## Statistics
+
+
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
 |[https://csoacct.werkenvoornederland.nl](https://csoacct.werkenvoornederland.nl)| |cloudflare|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: |Basic Cloudflare HSTS|Authentication R...|

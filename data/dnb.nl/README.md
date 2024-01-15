@@ -1,12 +1,18 @@
 # dnb.nl
 *2024-01-14 02:55:12*
 ## Summary data
+
+
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/dnb.nl/subdomains.txt)|177|Alive subdomains|
 |[urls.txt](/data/dnb.nl/urls.txt)|109|Urls|
 |[all_subdomains.txt](/data/dnb.nl/all_subdomains.txt)|270|All found subdomains (history)|
+
+
 ## Statistics
+
+
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
 |[http://pki.dnb.nl](http://pki.dnb.nl)| |Microsoft-IIS/10.0|:o: | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: |IIS:10.0 Windows Server||

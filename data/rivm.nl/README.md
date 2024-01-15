@@ -1,12 +1,18 @@
 # rivm.nl
 *2024-01-10 20:57:22*
 ## Summary data
+
+
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/rivm.nl/subdomains.txt)|394|Alive subdomains|
 |[urls.txt](/data/rivm.nl/urls.txt)|264|Urls|
 |[all_subdomains.txt](/data/rivm.nl/all_subdomains.txt)|950|All found subdomains (history)|
+
+
 ## Statistics
+
+
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
 |[http://abonneren.rivm.nl](http://abonneren.rivm.nl)| || |:white_check_mark: | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: |||
@@ -134,7 +140,7 @@
 |[http://kosteneffectiviteit-preventie.rivm.nl](http://kosteneffectiviteit-preventie.rivm.nl)| || |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |||
 |[https://lci.rivm.nl](https://lci.rivm.nl)| |Apache| |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Apache HTTP Server Bootstrap Drupal:10 HSTS PHP:8.1.14|LCI richtlijnen|
 |[https://leren.rivm.nl](https://leren.rivm.nl)| || |:white_check_mark: | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS|Welcome to The E...|
-|[https://lmm.rivm.nl](https://lmm.rivm.nl)| |Microsoft-IIS/10.0| |:white_check_mark: | | :white_check_mark: | | :white_check_mark: |HSTS IIS:10.0 Microsoft ASP.NET:4.0.30319 Windows Server|Landelijk Meetne...|
+|[https://lmm.rivm.nl](https://lmm.rivm.nl)| |Microsoft-IIS/10.0| |:white_check_mark: | | :white_check_mark: | | :white_check_mark: |HSTS IIS:10.0 Microsoft ASP.NET Windows Server|Landelijk Meetne...|
 |[https://login.rivm.nl](https://login.rivm.nl)| || |:white_check_mark: | | | | :white_check_mark: |HSTS||
 |[https://login-ext.rivm.nl](https://login-ext.rivm.nl)| || |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Java||
 |[http://login-test-ext.rivm.nl](http://login-test-ext.rivm.nl)| || | | | | | :white_check_mark: |||

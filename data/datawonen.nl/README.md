@@ -1,19 +1,25 @@
 # datawonen.nl
 *2024-01-11 16:13:40*
 ## Summary data
+
+
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/datawonen.nl/subdomains.txt)|19|Alive subdomains|
 |[urls.txt](/data/datawonen.nl/urls.txt)|19|Urls|
 |[all_subdomains.txt](/data/datawonen.nl/all_subdomains.txt)|31|All found subdomains (history)|
+
+
 ## Statistics
+
+
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
 |[https://bbsh.datawonen.nl](https://bbsh.datawonen.nl)| |Microsoft-IIS/10.0|:white_check_mark: |:white_check_mark: |:warning: | | :white_check_mark: | :white_check_mark: |Amazon S3 Amazon Web Services Azure Edge Network HSTS IIS:10.0 Microsoft ASP.NET MyFonts Windows Server|Jive|
 |[https://btiv.datawonen.nl](https://btiv.datawonen.nl)| |Microsoft-IIS/10.0|:white_check_mark: |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Amazon S3 Amazon Web Services Azure Edge Network HSTS IIS:10.0 Microsoft ASP.NET MyFonts Windows Server|BTiV Monitor|
 |[https://cowb.datawonen.nl](https://cowb.datawonen.nl)| |Microsoft-IIS/10.0|:white_check_mark: |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS IIS:10.0 Microsoft ASP.NET:4.0.30319 Windows Server|Object moved|
 |[https://dfg.datawonen.nl](https://dfg.datawonen.nl)| |Microsoft-IIS/10.0|:white_check_mark: |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Amazon S3 Amazon Web Services Azure Edge Network HSTS IIS:10.0 Microsoft ASP.NET:4.0.30319 MyFonts Windows Server|Findo - Data Fin...|
-|[https://disco.datawonen.nl](https://disco.datawonen.nl)| |Microsoft-IIS/10.0|:white_check_mark: |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |Bootstrap:4.1.3 HSTS IIS:10.0 Microsoft ASP.NET Windows Server|DISCO Data Infor...|
+|[https://disco.datawonen.nl](https://disco.datawonen.nl)| |Microsoft-IIS/10.0|:white_check_mark: |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |Bootstrap:4.1.3 HSTS IIS:10.0 Microsoft ASP.NET:4.0.30319 Windows Server|DISCO Data Infor...|
 |[https://hcib.datawonen.nl](https://hcib.datawonen.nl)| |Microsoft-IIS/10.0|:white_check_mark: |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Amazon S3 Amazon Web Services Azure Edge Network HSTS IIS:10.0 Microsoft ASP.NET MyFonts Windows Server|Jive|
 |[https://portal.datawonen.nl](https://portal.datawonen.nl)| |Microsoft-HTTPAPI/2.0| | | | | | :white_check_mark: |Microsoft HTTPAPI:2.0|Not Found|
 |[https://primos.datawonen.nl](https://primos.datawonen.nl)| |Microsoft-IIS/10.0|:white_check_mark: |:white_check_mark: |:warning: | | :white_check_mark: | :white_check_mark: |Amazon S3 Amazon Web Services Azure Edge Network HSTS IIS:10.0 Microsoft ASP.NET MyFonts Windows Server|Primos datawonen|

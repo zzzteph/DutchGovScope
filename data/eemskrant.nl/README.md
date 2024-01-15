@@ -1,12 +1,18 @@
 # eemskrant.nl
 *2024-01-14 03:23:49*
 ## Summary data
+
+
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/eemskrant.nl/subdomains.txt)|17|Alive subdomains|
 |[urls.txt](/data/eemskrant.nl/urls.txt)|17|Urls|
 |[all_subdomains.txt](/data/eemskrant.nl/all_subdomains.txt)|17|All found subdomains (history)|
+
+
 ## Statistics
+
+
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
 |[https://ftp.eemskrant.nl](https://ftp.eemskrant.nl)| |LiteSpeed| | | | | | :white_check_mark: |Bootstrap HTTP/3 LiteSpeed|Domeinnaam geres...|

@@ -1,12 +1,18 @@
 # minienw.nl
 *2024-01-10 20:57:18*
 ## Summary data
+
+
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/minienw.nl/subdomains.txt)|23|Alive subdomains|
 |[urls.txt](/data/minienw.nl/urls.txt)|7|Urls|
 |[all_subdomains.txt](/data/minienw.nl/all_subdomains.txt)|45|All found subdomains (history)|
+
+
 ## Statistics
+
+
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
 |[https://acceptatie.bct.tsp.minienw.nl](https://acceptatie.bct.tsp.minienw.nl)| || |:white_check_mark: | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS|Trust Service Pr...|

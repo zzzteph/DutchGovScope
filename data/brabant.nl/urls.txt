@@ -62,7 +62,7 @@ https://specials.brabant.nl
 https://geoportaal.brabant.nl
 https://bevolkingsprognose.brabant.nl
 https://werkenvoor.brabant.nl
-http://api-acpt.brabant.nl
+https://api-acpt.brabant.nl
 https://esb.brabant.nl
 https://opendata.brabant.nl
 https://brains.brabant.nl
@@ -70,7 +70,7 @@ https://dagstaatmonitors.brabant.nl
 https://bevolkingsprognose2020.brabant.nl
 https://app.brabant.nl
 https://mik-acpt.brabant.nl
-http://bzv-a.brabant.nl
+https://bzv-a.brabant.nl
 https://geoportaal-acceptatie.brabant.nl
 http://informatie-rws.brabant.nl
 https://digicheck.brabant.nl

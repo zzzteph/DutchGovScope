@@ -1,12 +1,18 @@
 # hansken.org
 *2024-01-14 04:38:15*
 ## Summary data
+
+
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/hansken.org/subdomains.txt)|9|Alive subdomains|
 |[urls.txt](/data/hansken.org/urls.txt)|9|Urls|
 |[all_subdomains.txt](/data/hansken.org/all_subdomains.txt)|12|All found subdomains (history)|
+
+
 ## Statistics
+
+
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
 |[https://academic.container.hansken.org](https://academic.container.hansken.org)| $${\color{green}A+}$$ || |:white_check_mark: | | | | :white_check_mark: |HSTS|Error 400 Not a...|

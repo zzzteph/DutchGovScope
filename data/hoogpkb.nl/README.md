@@ -1,12 +1,18 @@
 # hoogpkb.nl
 *2024-01-11 16:13:46*
 ## Summary data
+
+
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/hoogpkb.nl/subdomains.txt)|4|Alive subdomains|
 |[urls.txt](/data/hoogpkb.nl/urls.txt)|4|Urls|
 |[all_subdomains.txt](/data/hoogpkb.nl/all_subdomains.txt)|5|All found subdomains (history)|
+
+
 ## Statistics
+
+
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
 |[https://hoogpkb.nl](https://hoogpkb.nl)| |nginx| | | | | | :white_check_mark: |MySQL Nginx PHP WordPress||

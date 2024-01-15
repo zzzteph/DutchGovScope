@@ -1,12 +1,18 @@
 # p-direkt.nl
 *2024-01-10 20:57:20*
 ## Summary data
+
+
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/p-direkt.nl/subdomains.txt)|17|Alive subdomains|
 |[urls.txt](/data/p-direkt.nl/urls.txt)|12|Urls|
 |[all_subdomains.txt](/data/p-direkt.nl/all_subdomains.txt)|32|All found subdomains (history)|
+
+
 ## Statistics
+
+
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
 |[https://acc.api.p-direkt.nl](https://acc.api.p-direkt.nl)| || | | | | | :white_check_mark: |||

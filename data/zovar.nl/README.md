@@ -1,12 +1,18 @@
 # zovar.nl
 *2024-01-10 20:57:26*
 ## Summary data
+
+
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/zovar.nl/subdomains.txt)|8|Alive subdomains|
 |[urls.txt](/data/zovar.nl/urls.txt)|6|Urls|
 |[all_subdomains.txt](/data/zovar.nl/all_subdomains.txt)|19|All found subdomains (history)|
+
+
 ## Statistics
+
+
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
 |[https://feeds.zovar.nl](https://feeds.zovar.nl)| |nginx| |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx||

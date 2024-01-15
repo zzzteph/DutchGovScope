@@ -1,12 +1,18 @@
 # ez.nl
 *2024-01-14 04:07:15*
 ## Summary data
+
+
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/ez.nl/subdomains.txt)|19|Alive subdomains|
 |[urls.txt](/data/ez.nl/urls.txt)|17|Urls|
 |[all_subdomains.txt](/data/ez.nl/all_subdomains.txt)|132|All found subdomains (history)|
+
+
 ## Statistics
+
+
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
 |[https://exportcontrole.ez.nl](https://exportcontrole.ez.nl)| |nginx| | | | | | :white_check_mark: |Nginx|403 Forbidden|

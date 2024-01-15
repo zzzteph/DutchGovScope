@@ -1,12 +1,18 @@
 # flevoland.nl
 *2024-01-11 14:15:39*
 ## Summary data
+
+
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/flevoland.nl/subdomains.txt)|91|Alive subdomains|
 |[urls.txt](/data/flevoland.nl/urls.txt)|72|Urls|
 |[all_subdomains.txt](/data/flevoland.nl/all_subdomains.txt)|207|All found subdomains (history)|
+
+
 ## Statistics
+
+
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
 |[https://bodemrapportage.flevoland.nl](https://bodemrapportage.flevoland.nl)| |Apache/2.4.29 (Ubuntu)|:warning: | |:warning: | | | :white_check_mark: |Apache HTTP Server:2.4.29 HSTS Ubuntu|301 Moved Perman...|
@@ -43,7 +49,7 @@
 |[https://www.hetverhaalvan.flevoland.nl](https://www.hetverhaalvan.flevoland.nl)| |Apache/2.4.29 (Ubuntu)| |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |Apache HTTP Server:2.4.29 HSTS Ubuntu|301 Moved Perman...|
 |[https://exchange.flevoland.nl](https://exchange.flevoland.nl)| || |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |||
 |[https://gensys.flevoland.nl](https://gensys.flevoland.nl)| ||:warning: |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Microsoft ASP.NET||
-|[https://flevoland.nl](https://flevoland.nl)| |Microsoft-IIS/10.0| |:white_check_mark: | | | | :white_check_mark: |Google Tag Manager HSTS IIS:10.0 Microsoft ASP.NET Windows Server|Welkom bij provi...|
+|[https://flevoland.nl](https://flevoland.nl)| |Microsoft-IIS/10.0| |:white_check_mark: | | | | :white_check_mark: |Google Tag Manager HSTS IIS:10.0 Microsoft ASP.NET:4.0.30319 Windows Server|Welkom bij provi...|
 |[https://www.flevoland.nl](https://www.flevoland.nl)| |Microsoft-IIS/10.0| |:white_check_mark: | | | | :white_check_mark: |Google Tag Manager HSTS IIS:10.0 Microsoft ASP.NET:4.0.30319 Windows Server|Welkom bij provi...|
 |[https://www.omgevingsplan.flevoland.nl](https://www.omgevingsplan.flevoland.nl)| |Apache/2.4.29 (Ubuntu)| | | | | | :white_check_mark: |Apache HTTP Server:2.4.29 HSTS Ubuntu|301 Moved Perman...|
 |[https://hetverhaalvan.flevoland.nl](https://hetverhaalvan.flevoland.nl)| |Apache/2.4.29 (Ubuntu)| |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |Apache HTTP Server:2.4.29 HSTS Ubuntu|301 Moved Perman...|

@@ -1,12 +1,18 @@
 # inspectieszw.nl
 *2024-01-14 05:32:10*
 ## Summary data
+
+
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/inspectieszw.nl/subdomains.txt)|9|Alive subdomains|
 |[urls.txt](/data/inspectieszw.nl/urls.txt)|8|Urls|
 |[all_subdomains.txt](/data/inspectieszw.nl/all_subdomains.txt)|47|All found subdomains (history)|
+
+
 ## Statistics
+
+
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
 |[https://acceptatie.melding.inspectieszw.nl](https://acceptatie.melding.inspectieszw.nl)| |Microsoft-IIS/10.0|:warning: |:white_check_mark: | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS IIS:10.0 Windows Server|Document Moved|

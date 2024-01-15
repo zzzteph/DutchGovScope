@@ -1,12 +1,18 @@
 # odnhn.nl
 *2024-01-10 20:57:20*
 ## Summary data
+
+
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/odnhn.nl/subdomains.txt)|15|Alive subdomains|
 |[urls.txt](/data/odnhn.nl/urls.txt)|13|Urls|
 |[all_subdomains.txt](/data/odnhn.nl/all_subdomains.txt)|27|All found subdomains (history)|
+
+
 ## Statistics
+
+
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
 |[https://enterpriseenrollment.odnhn.nl](https://enterpriseenrollment.odnhn.nl)| || | | | | | :white_check_mark: |HSTS||

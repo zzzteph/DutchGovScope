@@ -1,12 +1,18 @@
 # databank.nl
 *2024-01-11 16:13:40*
 ## Summary data
+
+
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/databank.nl/subdomains.txt)|310|Alive subdomains|
-|[urls.txt](/data/databank.nl/urls.txt)|291|Urls|
+|[urls.txt](/data/databank.nl/urls.txt)|293|Urls|
 |[all_subdomains.txt](/data/databank.nl/all_subdomains.txt)|315|All found subdomains (history)|
+
+
 ## Statistics
+
+
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
 |[https://abc.databank.nl](https://abc.databank.nl)| |Microsoft-IIS/10.0|:white_check_mark: |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS IIS:10.0 Microsoft ASP.NET Windows Server|Document Moved|
@@ -120,7 +126,7 @@
 |[https://vue-uitvraag.databank.nl](https://vue-uitvraag.databank.nl)| |Microsoft-IIS/10.0|:white_check_mark: |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Amazon S3 Amazon Web Services Azure Edge Network HSTS IIS:10.0 Microsoft ASP.NET:4.0.30319 MyFonts Windows Server|Home - VUE|
 |[https://nn.databank.nl](https://nn.databank.nl)| |Microsoft-IIS/10.0| |:white_check_mark: | | | | :white_check_mark: |HSTS IIS:10.0 Microsoft ASP.NET Windows Server|Document Moved|
 |[https://dcmr.databank.nl](https://dcmr.databank.nl)| |Microsoft-IIS/10.0|:white_check_mark: |:white_check_mark: |:warning: | :white_check_mark: | | :white_check_mark: |HSTS IIS:10.0 Windows Server|Document Moved|
-|[https://crowlogin.databank.nl](https://crowlogin.databank.nl)| |Microsoft-IIS/10.0|:white_check_mark: |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Amazon S3 Amazon Web Services Azure Edge Network HSTS IIS:10.0 Microsoft ASP.NET:4.0.30319 MyFonts Windows Server|Home - Basis|
+|[https://crowlogin.databank.nl](https://crowlogin.databank.nl)| |Microsoft-IIS/10.0|:white_check_mark: |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Amazon S3 Amazon Web Services Azure Edge Network HSTS IIS:10.0 Microsoft ASP.NET MyFonts Windows Server|Home - Basis|
 |[https://kk.databank.nl](https://kk.databank.nl)| |Microsoft-IIS/10.0| |:white_check_mark: | | | | :white_check_mark: |HSTS IIS:10.0 Microsoft ASP.NET Windows Server|Document Moved|
 |[https://www.rca.databank.nl](https://www.rca.databank.nl)| |Microsoft-IIS/10.0| | | | | | :white_check_mark: |HSTS IIS:10.0 Microsoft ASP.NET Windows Server|Document Moved|
 |[https://mpk.databank.nl](https://mpk.databank.nl)| |Microsoft-IIS/10.0| |:white_check_mark: | | | | :white_check_mark: |HSTS IIS:10.0 Microsoft ASP.NET Windows Server|Document Moved|
@@ -148,9 +154,9 @@
 |[https://test-mbotransparant.databank.nl](https://test-mbotransparant.databank.nl)| |Microsoft-IIS/10.0|:white_check_mark: |:white_check_mark: |:warning: | | :white_check_mark: | :white_check_mark: |Amazon S3 Amazon Web Services Azure Edge Network Bootstrap HSTS IIS:10.0 Microsoft ASP.NET MyFonts Windows Server|MBO Transparant|
 |[https://dd.databank.nl](https://dd.databank.nl)| |Microsoft-IIS/10.0| |:white_check_mark: | | | | :white_check_mark: |HSTS IIS:10.0 Microsoft ASP.NET Windows Server|Document Moved|
 |[https://00klimaatmonitor.databank.nl](https://00klimaatmonitor.databank.nl)| |Microsoft-IIS/10.0| |:white_check_mark: | | | | :white_check_mark: |HSTS IIS:10.0 Microsoft ASP.NET Windows Server|Document Moved|
-|[https://beta-adc.databank.nl](https://beta-adc.databank.nl)| |Microsoft-IIS/10.0|:white_check_mark: |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Amazon S3 Amazon Web Services Azure Edge Network HSTS IIS:10.0 Microsoft ASP.NET:4.0.30319 MyFonts Windows Server|Home - AEDES-dat...|
+|[http://beta-adc.databank.nl](http://beta-adc.databank.nl)| |Microsoft-IIS/10.0|:white_check_mark: |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS IIS:10.0 Windows Server|Document Moved|
 |[https://drenthe.databank.nl](https://drenthe.databank.nl)| |Microsoft-IIS/10.0| |:white_check_mark: | | | | :white_check_mark: |HSTS IIS:10.0 Microsoft ASP.NET Windows Server|Document Moved|
-|[https://beta-velsen.databank.nl](https://beta-velsen.databank.nl)| |Microsoft-IIS/10.0|:white_check_mark: |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Amazon S3 Amazon Web Services Azure Edge Network HSTS IIS:10.0 Microsoft ASP.NET:4.0.30319 MyFonts Windows Server|Home - Velsen in...|
+|[https://beta-velsen.databank.nl](https://beta-velsen.databank.nl)| |Microsoft-IIS/10.0|:white_check_mark: |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Amazon S3 Amazon Web Services Azure Edge Network HSTS IIS:10.0 Microsoft ASP.NET MyFonts Windows Server|Home - Velsen in...|
 |[https://zorgimpuls.rosopen.databank.nl](https://zorgimpuls.rosopen.databank.nl)| |Microsoft-IIS/10.0| | | | | | :white_check_mark: |HSTS IIS:10.0 Microsoft ASP.NET Windows Server|Document Moved|
 |[https://vrk.databank.nl](https://vrk.databank.nl)| |Microsoft-IIS/10.0|:white_check_mark: |:white_check_mark: |:warning: | | | :white_check_mark: |Amazon S3 Amazon Web Services Azure Edge Network HSTS IIS:10.0 MyFonts Windows Server|Document Moved|
 |[https://dth.hermes.databank.nl](https://dth.hermes.databank.nl)| |Microsoft-HTTPAPI/2.0| | | | | | :white_check_mark: |Microsoft HTTPAPI:2.0|Not Found|
@@ -165,7 +171,7 @@
 |[https://ponopen.databank.nl](https://ponopen.databank.nl)| |Microsoft-IIS/10.0| |:white_check_mark: | | | | :white_check_mark: |HSTS IIS:10.0 Microsoft ASP.NET Windows Server|Document Moved|
 |[https://admin-wsjg.databank.nl](https://admin-wsjg.databank.nl)| |Microsoft-IIS/10.0| |:white_check_mark: | | | | :white_check_mark: |HSTS IIS:10.0 Microsoft ASP.NET Windows Server|Document Moved|
 |[https://beta-wsjg.databank.nl](https://beta-wsjg.databank.nl)| |Microsoft-IIS/10.0|:white_check_mark: |:white_check_mark: | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS IIS:10.0 Microsoft ASP.NET Windows Server|Document Moved|
-|[https://hr-sectorwaterschappen.databank.nl](https://hr-sectorwaterschappen.databank.nl)| |Microsoft-IIS/10.0|:white_check_mark: |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Amazon S3 Amazon Web Services Azure Edge Network HSTS IIS:10.0 Microsoft ASP.NET:4.0.30319 MyFonts Windows Server|Home - HR sector...|
+|[https://hr-sectorwaterschappen.databank.nl](https://hr-sectorwaterschappen.databank.nl)| |Microsoft-IIS/10.0|:white_check_mark: |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Amazon S3 Amazon Web Services Azure Edge Network HSTS IIS:10.0 Microsoft ASP.NET MyFonts Windows Server|Home - HR sector...|
 |[https://admin.databank.nl](https://admin.databank.nl)| |Microsoft-IIS/10.0| |:white_check_mark: | | | | :white_check_mark: |HSTS IIS:10.0 Microsoft ASP.NET Windows Server|Document Moved|
 |[https://blog.databank.nl](https://blog.databank.nl)| |Microsoft-IIS/10.0| |:white_check_mark: | | | | :white_check_mark: |HSTS IIS:10.0 Microsoft ASP.NET Windows Server|Document Moved|
 |[https://www5b.databank.nl](https://www5b.databank.nl)| |Microsoft-IIS/10.0| |:white_check_mark: | | | | :white_check_mark: |HSTS IIS:10.0 Microsoft ASP.NET Windows Server|Document Moved|
@@ -183,7 +189,7 @@
 |[https://winkelgebiedenscan.databank.nl](https://winkelgebiedenscan.databank.nl)| |Microsoft-IIS/10.0| |:white_check_mark: |:warning: | | :white_check_mark: | :white_check_mark: |HSTS IIS:10.0 Microsoft ASP.NET Windows Server|Document Moved|
 |[https://help.databank.nl](https://help.databank.nl)| |Microsoft-IIS/10.0| |:white_check_mark: | | | | :white_check_mark: |HSTS IIS:10.0 Microsoft ASP.NET Windows Server|Document Moved|
 |[https://people.databank.nl](https://people.databank.nl)| |Microsoft-IIS/10.0| |:white_check_mark: | | | | :white_check_mark: |HSTS IIS:10.0 Microsoft ASP.NET Windows Server|Document Moved|
-|[https://inspectie-oe.databank.nl](https://inspectie-oe.databank.nl)| |Microsoft-IIS/10.0|:white_check_mark: |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Amazon S3 Amazon Web Services Azure Edge Network HSTS IIS:10.0 Microsoft ASP.NET:4.0.30319 MyFonts Windows Server|Home - Monitor I...|
+|[https://inspectie-oe.databank.nl](https://inspectie-oe.databank.nl)| |Microsoft-IIS/10.0|:white_check_mark: |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Amazon S3 Amazon Web Services Azure Edge Network HSTS IIS:10.0 Microsoft ASP.NET MyFonts Windows Server|Home - Monitor I...|
 |[https://math.databank.nl](https://math.databank.nl)| |Microsoft-IIS/10.0| |:white_check_mark: | | | | :white_check_mark: |HSTS IIS:10.0 Microsoft ASP.NET Windows Server|Document Moved|
 |[https://www5c.databank.nl](https://www5c.databank.nl)| |Microsoft-IIS/10.0| |:white_check_mark: | | | | :white_check_mark: |HSTS IIS:10.0 Microsoft ASP.NET Windows Server|Document Moved|
 |[https://veiligheidsbeelden.databank.nl](https://veiligheidsbeelden.databank.nl)| |Microsoft-IIS/10.0|:white_check_mark: |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Amazon S3 Amazon Web Services Azure Edge Network HSTS IIS:10.0 Microsoft ASP.NET MyFonts Windows Server|Veiligheidsbeeld...|
@@ -218,7 +224,7 @@
 |[https://www2s.databank.nl](https://www2s.databank.nl)| |Microsoft-IIS/10.0| |:white_check_mark: | | | | :white_check_mark: |HSTS IIS:10.0 Microsoft ASP.NET Windows Server|Document Moved|
 |[https://vue.databank.nl](https://vue.databank.nl)| |Microsoft-IIS/10.0|:white_check_mark: |:white_check_mark: |:warning: | | :white_check_mark: | :white_check_mark: |HSTS IIS:10.0 Microsoft ASP.NET Windows Server|Document Moved|
 |[https://local.databank.nl](https://local.databank.nl)| |Microsoft-IIS/10.0| |:white_check_mark: | | | | :white_check_mark: |HSTS IIS:10.0 Microsoft ASP.NET Windows Server|Document Moved|
-|[https://feda.databank.nl](https://feda.databank.nl)| |Microsoft-IIS/10.0|:white_check_mark: |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Amazon S3 Amazon Web Services Azure Edge Network HSTS IIS:10.0 Microsoft ASP.NET:4.0.30319 MyFonts Windows Server|Home - FEDA|
+|[https://feda.databank.nl](https://feda.databank.nl)| |Microsoft-IIS/10.0|:white_check_mark: |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Amazon S3 Amazon Web Services Azure Edge Network HSTS IIS:10.0 Microsoft ASP.NET MyFonts Windows Server|Home - FEDA|
 |[https://k3.databank.nl](https://k3.databank.nl)| |Microsoft-IIS/10.0| |:white_check_mark: | | | | :white_check_mark: |HSTS IIS:10.0 Microsoft ASP.NET Windows Server|Document Moved|
 |[https://www.arcon.databank.nl](https://www.arcon.databank.nl)| |Microsoft-IIS/10.0| | | | | | :white_check_mark: |HSTS IIS:10.0 Microsoft ASP.NET Windows Server|Document Moved|
 |[https://westfriesland.databank.nl](https://westfriesland.databank.nl)| |Microsoft-IIS/10.0| |:white_check_mark: | | | | :white_check_mark: |HSTS IIS:10.0 Microsoft ASP.NET Windows Server|Document Moved|
@@ -237,6 +243,7 @@
 |[https://www.seer.databank.nl](https://www.seer.databank.nl)| |Microsoft-IIS/10.0| | | | | | :white_check_mark: |HSTS IIS:10.0 Microsoft ASP.NET Windows Server|Document Moved|
 |[https://pon.databank.nl](https://pon.databank.nl)| |Microsoft-IIS/10.0| |:white_check_mark: | | | | :white_check_mark: |HSTS IIS:10.0 Microsoft ASP.NET Windows Server|Document Moved|
 |[https://ftest-prognosemodelzw.databank.nl](https://ftest-prognosemodelzw.databank.nl)| |Microsoft-IIS/10.0| |:white_check_mark: | | | | :white_check_mark: |HSTS IIS:10.0 Microsoft ASP.NET Windows Server|Document Moved|
+|[https://www.hermes.databank.nl](https://www.hermes.databank.nl)| |Microsoft-IIS/10.0| | | | | | :white_check_mark: |HSTS IIS:10.0 Microsoft ASP.NET Windows Server|Document Moved|
 |[https://maatmonitor.databank.nl](https://maatmonitor.databank.nl)| |Microsoft-IIS/10.0| |:white_check_mark: | | | | :white_check_mark: |HSTS IIS:10.0 Microsoft ASP.NET Windows Server|Document Moved|
 |[https://mail.databank.nl](https://mail.databank.nl)| |Microsoft-IIS/10.0| |:white_check_mark: | | | | :white_check_mark: |HSTS IIS:10.0 Microsoft ASP.NET Windows Server|Document Moved|
 |[https://primostijdreeks.databank.nl](https://primostijdreeks.databank.nl)| |Microsoft-IIS/10.0|:white_check_mark: |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Amazon S3 Amazon Web Services Azure Edge Network HSTS IIS:10.0 Microsoft ASP.NET MyFonts Windows Server|Primos Tijdreeks|
@@ -247,6 +254,7 @@
 |[https://h6.databank.nl](https://h6.databank.nl)| |Microsoft-IIS/10.0| |:white_check_mark: | | | | :white_check_mark: |HSTS IIS:10.0 Microsoft ASP.NET Windows Server|Document Moved|
 |[https://arbeidsmarktdetailhandel.databank.nl](https://arbeidsmarktdetailhandel.databank.nl)| |Microsoft-IIS/10.0|:white_check_mark: |:white_check_mark: |:warning: | | :white_check_mark: | :white_check_mark: |HSTS IIS:10.0 Microsoft ASP.NET Windows Server|Document Moved|
 |[https://asre.databank.nl](https://asre.databank.nl)| |Microsoft-IIS/10.0| |:white_check_mark: | | | | :white_check_mark: |HSTS IIS:10.0 Microsoft ASP.NET Windows Server|Document Moved|
+|[https://jan.wsjg.databank.nl](https://jan.wsjg.databank.nl)| |Microsoft-HTTPAPI/2.0| | | | | | :white_check_mark: |Microsoft HTTPAPI:2.0|Not Found|
 |[https://caransscoop.rosopen.databank.nl](https://caransscoop.rosopen.databank.nl)| |Microsoft-IIS/10.0| | | | | | :white_check_mark: |HSTS IIS:10.0 Microsoft ASP.NET Windows Server|Document Moved|
 |[https://groups.databank.nl](https://groups.databank.nl)| |Microsoft-IIS/10.0| |:white_check_mark: | | | | :white_check_mark: |HSTS IIS:10.0 Microsoft ASP.NET Windows Server|Document Moved|
 |[https://336afvalmonitor.databank.nl](https://336afvalmonitor.databank.nl)| |Microsoft-IIS/10.0| |:white_check_mark: | | | | :white_check_mark: |HSTS IIS:10.0 Microsoft ASP.NET Windows Server|Document Moved|
@@ -294,7 +302,7 @@
 |[https://httpsvue.databank.nl](https://httpsvue.databank.nl)| |Microsoft-IIS/10.0| |:white_check_mark: | | | | :white_check_mark: |HSTS IIS:10.0 Microsoft ASP.NET Windows Server|Document Moved|
 |[https://httpsprognosemodelzw.databank.nl](https://httpsprognosemodelzw.databank.nl)| |Microsoft-IIS/10.0| |:white_check_mark: | | | | :white_check_mark: |HSTS IIS:10.0 Microsoft ASP.NET Windows Server|Document Moved|
 |[https://httpslive-waves.databank.nl](https://httpslive-waves.databank.nl)| |Microsoft-IIS/10.0| |:white_check_mark: | | | | :white_check_mark: |HSTS IIS:10.0 Microsoft ASP.NET Windows Server|Document Moved|
-|[http://beta-klimaatbeleid.databank.nl](http://beta-klimaatbeleid.databank.nl)| |Microsoft-IIS/10.0|:white_check_mark: |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS IIS:10.0 Windows Server|Document Moved|
+|[https://beta-klimaatbeleid.databank.nl](https://beta-klimaatbeleid.databank.nl)| |Microsoft-IIS/10.0|:white_check_mark: |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Amazon S3 Amazon Web Services Azure Edge Network HSTS IIS:10.0 Microsoft ASP.NET:4.0.30319 MyFonts Windows Server|DASHBOARD KLIMAA...|
 |[https://beta-dcmr.databank.nl](https://beta-dcmr.databank.nl)| |Microsoft-IIS/10.0|:white_check_mark: |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS IIS:10.0 Windows Server|Document Moved|
 |[https://frieslandsnb.databank.nl](https://frieslandsnb.databank.nl)| |Microsoft-IIS/10.0| |:white_check_mark: | | | | :white_check_mark: |HSTS IIS:10.0 Microsoft ASP.NET Windows Server|Document Moved|
 |[https://gip.databank.nl](https://gip.databank.nl)| |Microsoft-IIS/10.0| |:white_check_mark: | | | | :white_check_mark: |HSTS IIS:10.0 Microsoft ASP.NET Windows Server|Document Moved|

@@ -1,12 +1,18 @@
 # rdi.nl
 *2024-01-10 20:57:21*
 ## Summary data
+
+
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/rdi.nl/subdomains.txt)|14|Alive subdomains|
 |[urls.txt](/data/rdi.nl/urls.txt)|14|Urls|
 |[all_subdomains.txt](/data/rdi.nl/all_subdomains.txt)|21|All found subdomains (history)|
+
+
 ## Statistics
+
+
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
 |[https://opendata.rdi.nl](https://opendata.rdi.nl)| |nginx| |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx||

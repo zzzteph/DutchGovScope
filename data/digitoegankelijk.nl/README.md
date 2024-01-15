@@ -1,12 +1,18 @@
 # digitoegankelijk.nl
 *2024-01-11 16:13:36*
 ## Summary data
+
+
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/digitoegankelijk.nl/subdomains.txt)|9|Alive subdomains|
 |[urls.txt](/data/digitoegankelijk.nl/urls.txt)|9|Urls|
 |[all_subdomains.txt](/data/digitoegankelijk.nl/all_subdomains.txt)|17|All found subdomains (history)|
+
+
 ## Statistics
+
+
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
 |[https://acc-dictu.digitoegankelijk.nl](https://acc-dictu.digitoegankelijk.nl)| |nginx| | | | | | :white_check_mark: |Basic Nginx|401 Authorizatio...|

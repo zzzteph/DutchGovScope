@@ -1,12 +1,18 @@
 # kinderbescherming.nl
 *2024-01-14 06:11:32*
 ## Summary data
+
+
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/kinderbescherming.nl/subdomains.txt)|12|Alive subdomains|
 |[urls.txt](/data/kinderbescherming.nl/urls.txt)|7|Urls|
 |[all_subdomains.txt](/data/kinderbescherming.nl/all_subdomains.txt)|18|All found subdomains (history)|
+
+
 ## Statistics
+
+
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
 |[https://connect.kinderbescherming.nl](https://connect.kinderbescherming.nl)| || |:white_check_mark: | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS||

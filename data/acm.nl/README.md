@@ -1,12 +1,18 @@
 # acm.nl
 *2024-01-14 06:52:06*
 ## Summary data
+
+
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/acm.nl/subdomains.txt)|47|Alive subdomains|
 |[urls.txt](/data/acm.nl/urls.txt)|18|Urls|
 |[all_subdomains.txt](/data/acm.nl/all_subdomains.txt)|83|All found subdomains (history)|
+
+
 ## Statistics
+
+
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
 |[https://denkmee.acm.nl](https://denkmee.acm.nl)| $${\color{green}A+}$$ |Apache| |:white_check_mark: |:warning: | :white_check_mark: | | :white_check_mark: |Apache HTTP Server HSTS|301 Moved Perman...|

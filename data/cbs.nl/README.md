@@ -1,12 +1,18 @@
 # cbs.nl
 *2024-01-14 08:47:33*
 ## Summary data
+
+
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/cbs.nl/subdomains.txt)|209|Alive subdomains|
+|[subdomains.txt](/data/cbs.nl/subdomains.txt)|210|Alive subdomains|
 |[urls.txt](/data/cbs.nl/urls.txt)|172|Urls|
-|[all_subdomains.txt](/data/cbs.nl/all_subdomains.txt)|351|All found subdomains (history)|
+|[all_subdomains.txt](/data/cbs.nl/all_subdomains.txt)|352|All found subdomains (history)|
+
+
 ## Statistics
+
+
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
 |[https://academy.cbs.nl](https://academy.cbs.nl)| $${\color{green}A+}$$ |Apache| |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Apache HTTP Server HSTS|Doorverwijspagin...|
@@ -26,7 +32,7 @@
 |[https://api.mig.cbs.nl](https://api.mig.cbs.nl)| |nginx| | | | | | :white_check_mark: |Nginx|403 Forbidden|
 |[https://argon2.cbs.nl](https://argon2.cbs.nl)| $${\color{green}A}$$ || | | | | | :white_check_mark: |||
 |[https://azwstatline.cbs.nl](https://azwstatline.cbs.nl)| $${\color{green}A+}$$ |Webserver| |:white_check_mark: | :white_check_mark:| :white_check_mark: | | :white_check_mark: |Bootstrap:3.0.0 D3 HSTS NVD3|CBS Statline|
-|[https://beeldbank.cbs.nl](https://beeldbank.cbs.nl)| $${\color{green}A}$$ ||:warning: | | | :white_check_mark: | :white_check_mark: | :white_check_mark: |Microsoft ASP.NET:4.0.30319|Homepage | Beeld...|
+|[https://beeldbank.cbs.nl](https://beeldbank.cbs.nl)| $${\color{green}A}$$ ||:warning: | | | :white_check_mark: | :white_check_mark: | :white_check_mark: |Microsoft ASP.NET|Homepage | Beeld...|
 |[https://beeldbank-beheer.cbs.nl](https://beeldbank-beheer.cbs.nl)| $${\color{green}A}$$ |Picture Pack|:warning: | | | :white_check_mark: | :white_check_mark: | :white_check_mark: |Microsoft ASP.NET:4.0.30319|Picture Pack|
 |[https://beo.cbs.nl](https://beo.cbs.nl)| $${\color{green}A+}$$ |Microsoft-IIS/10.0|:warning: |:white_check_mark: | | :white_check_mark: | | :white_check_mark: |HSTS IIS:10.0 Microsoft ASP.NET:4.0.30319 Windows Server|Object moved|
 |[https://bestandslevering.cbs.nl](https://bestandslevering.cbs.nl)| $${\color{green}A+}$$ |Microsoft-IIS/10.0| |:white_check_mark: | | | | :white_check_mark: |HSTS IIS:10.0 Microsoft ASP.NET Windows Server|CBS|
@@ -56,11 +62,11 @@
 |[https://dataportal.cbs.nl](https://dataportal.cbs.nl)| $${\color{green}A+}$$ |Kestrel| |:white_check_mark: | | | | :white_check_mark: |HSTS Kestrel Microsoft ASP.NET|DataPortal|
 |[https://dataset.cbs.nl](https://dataset.cbs.nl)| $${\color{green}A+}$$ || |:white_check_mark: | | | | :white_check_mark: |HSTS|CCB OData Endpoi...|
 |[https://datasets.cbs.nl](https://datasets.cbs.nl)| $${\color{green}A+}$$ || |:white_check_mark: | | | | :white_check_mark: |HSTS|CCB OData Endpoi...|
-|[http://designsystem.cbs.nl](http://designsystem.cbs.nl)| $${\color{green}A+}$$ |nginx|:white_check_mark: |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Nginx|301 Moved Perman...|
+|[https://designsystem.cbs.nl](https://designsystem.cbs.nl)| $${\color{green}A+}$$ ||:white_check_mark: |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Linkedin Ads Ruby Ruby on Rails|CBS Design Syste...|
 |[https://dev.cerberus.cbs.nl](https://dev.cerberus.cbs.nl)| || | | | | | :white_check_mark: ||CerBeruS|
 |[https://devtestlogin.cbs.nl](https://devtestlogin.cbs.nl)| $${\color{green}A+}$$ |Microsoft-IIS/10.0| |:white_check_mark: | | :white_check_mark: | | :white_check_mark: |HSTS IIS:10.0 Microsoft ASP.NET Windows Server|IIS Windows Serv...|
 |[https://dialin.cbs.nl](https://dialin.cbs.nl)| $${\color{green}A}$$ || | | | | | :white_check_mark: |||
-|[https://doemee.cbs.nl](https://doemee.cbs.nl)| $${\color{green}A+}$$ |Microsoft-IIS/10.0|:warning: |:white_check_mark: | | :white_check_mark: | | :white_check_mark: |Bootstrap HSTS IIS:10.0 Microsoft ASP.NET:4.0.30319 Windows Server|Inloggen vragenl...|
+|[https://doemee.cbs.nl](https://doemee.cbs.nl)| $${\color{green}A+}$$ |Microsoft-IIS/10.0|:warning: |:white_check_mark: | | :white_check_mark: | | :white_check_mark: |Bootstrap HSTS IIS:10.0 Microsoft ASP.NET Windows Server|Inloggen vragenl...|
 |[https://dossierportal.cbs.nl](https://dossierportal.cbs.nl)| $${\color{lightgreen}B}$$ |nginx| | | | | | :white_check_mark: |Nginx|403 Forbidden|
 |[https://download.cbs.nl](https://download.cbs.nl)| $${\color{green}A+}$$ |Microsoft-IIS/10.0| |:white_check_mark: | | | | :white_check_mark: |HSTS IIS:10.0 Microsoft ASP.NET Windows Server|403 - Forbidden:...|
 |[https://egain-com.cbs.nl](https://egain-com.cbs.nl)| $${\color{green}A+}$$ |Kestrel| |:white_check_mark: | | | | :white_check_mark: |HSTS Kestrel Microsoft ASP.NET||

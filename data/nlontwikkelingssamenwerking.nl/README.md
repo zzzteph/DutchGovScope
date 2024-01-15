@@ -1,12 +1,18 @@
 # nlontwikkelingssamenwerking.nl
 *2024-01-11 16:13:38*
 ## Summary data
+
+
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/nlontwikkelingssamenwerking.nl/subdomains.txt)|4|Alive subdomains|
 |[urls.txt](/data/nlontwikkelingssamenwerking.nl/urls.txt)|4|Urls|
 |[all_subdomains.txt](/data/nlontwikkelingssamenwerking.nl/all_subdomains.txt)|7|All found subdomains (history)|
+
+
 ## Statistics
+
+
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
 |[https://acc.nlontwikkelingssamenwerking.nl](https://acc.nlontwikkelingssamenwerking.nl)| |Apache| | | | | | :white_check_mark: |Apache HTTP Server|403 Forbidden|

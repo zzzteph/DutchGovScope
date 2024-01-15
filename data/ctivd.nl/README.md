@@ -1,12 +1,18 @@
 # ctivd.nl
 *2024-01-14 01:39:31*
 ## Summary data
+
+
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/ctivd.nl/subdomains.txt)|18|Alive subdomains|
 |[urls.txt](/data/ctivd.nl/urls.txt)|7|Urls|
 |[all_subdomains.txt](/data/ctivd.nl/all_subdomains.txt)|28|All found subdomains (history)|
+
+
 ## Statistics
+
+
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
 |[https://english.ctivd.nl](https://english.ctivd.nl)| $${\color{green}A+}$$ |nginx| |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Bloomreach HSTS Nginx|Home | Dutch Rev...|

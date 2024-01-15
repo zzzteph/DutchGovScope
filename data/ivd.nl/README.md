@@ -1,12 +1,18 @@
 # ivd.nl
 *2024-01-14 05:42:08*
 ## Summary data
+
+
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/ivd.nl/subdomains.txt)|5|Alive subdomains|
 |[urls.txt](/data/ivd.nl/urls.txt)|4|Urls|
 |[all_subdomains.txt](/data/ivd.nl/all_subdomains.txt)|16|All found subdomains (history)|
+
+
 ## Statistics
+
+
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
 |[https://feeds.ivd.nl](https://feeds.ivd.nl)| |nginx| |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx||

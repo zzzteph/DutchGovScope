@@ -1,12 +1,18 @@
 # zorgverzekeringslijn.nl
 *2024-01-11 16:13:45*
 ## Summary data
+
+
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/zorgverzekeringslijn.nl/subdomains.txt)|7|Alive subdomains|
 |[urls.txt](/data/zorgverzekeringslijn.nl/urls.txt)|7|Urls|
 |[all_subdomains.txt](/data/zorgverzekeringslijn.nl/all_subdomains.txt)|11|All found subdomains (history)|
+
+
 ## Statistics
+
+
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
 |[https://pv.zorgverzekeringslijn.nl](https://pv.zorgverzekeringslijn.nl)| |nginx| |:white_check_mark: | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx|You received ema...|

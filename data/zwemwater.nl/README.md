@@ -1,12 +1,18 @@
 # zwemwater.nl
 *2024-01-11 16:13:44*
 ## Summary data
+
+
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/zwemwater.nl/subdomains.txt)|20|Alive subdomains|
 |[urls.txt](/data/zwemwater.nl/urls.txt)|19|Urls|
 |[all_subdomains.txt](/data/zwemwater.nl/all_subdomains.txt)|20|All found subdomains (history)|
+
+
 ## Statistics
+
+
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
 |[https://acc.zwemwater.nl](https://acc.zwemwater.nl)| |Apache| |:white_check_mark: | | :white_check_mark: | | :white_check_mark: |Apache HTTP Server HSTS|302 Found|

@@ -1,12 +1,18 @@
 # donorregister.nl
 *2024-01-14 03:07:13*
 ## Summary data
+
+
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/donorregister.nl/subdomains.txt)|20|Alive subdomains|
 |[urls.txt](/data/donorregister.nl/urls.txt)|14|Urls|
 |[all_subdomains.txt](/data/donorregister.nl/all_subdomains.txt)|40|All found subdomains (history)|
+
+
 ## Statistics
+
+
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
 |[https://acceptatie.beheer.donorregister.nl](https://acceptatie.beheer.donorregister.nl)| $${\color{green}A}$$ |-| |:white_check_mark: | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS||

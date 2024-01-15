@@ -1,12 +1,18 @@
 # jonglereneten.nl
 *2024-01-11 16:13:37*
 ## Summary data
+
+
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/jonglereneten.nl/subdomains.txt)|5|Alive subdomains|
 |[urls.txt](/data/jonglereneten.nl/urls.txt)|5|Urls|
 |[all_subdomains.txt](/data/jonglereneten.nl/all_subdomains.txt)|7|All found subdomains (history)|
+
+
 ## Statistics
+
+
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
 |[https://acc.jonglereneten.nl](https://acc.jonglereneten.nl)| |nginx| | | | | | :white_check_mark: |Basic Nginx|401 Authorizatio...|

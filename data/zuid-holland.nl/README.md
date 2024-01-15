@@ -1,12 +1,18 @@
 # zuid-holland.nl
 *2024-01-11 14:15:44*
 ## Summary data
+
+
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/zuid-holland.nl/subdomains.txt)|72|Alive subdomains|
 |[urls.txt](/data/zuid-holland.nl/urls.txt)|69|Urls|
 |[all_subdomains.txt](/data/zuid-holland.nl/all_subdomains.txt)|133|All found subdomains (history)|
+
+
 ## Statistics
+
+
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
 |[https://kennis.zuid-holland.nl](https://kennis.zuid-holland.nl)| |nginx| |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |Elementor:3.18.3 HSTS MySQL Nginx PHP:8.1.27 WordPress|Home - Kennis -...|
@@ -15,7 +21,7 @@
 |[https://api.openstad.zuid-holland.nl](https://api.openstad.zuid-holland.nl)| || |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS||
 |[https://beeldbankbeheer.zuid-holland.nl](https://beeldbankbeheer.zuid-holland.nl)| |Picture Pack|:warning: | | | :white_check_mark: | :white_check_mark: | :white_check_mark: |Microsoft ASP.NET:4.0.30319|Picture Pack|
 |[https://zaaksysteem.zuid-holland.nl](https://zaaksysteem.zuid-holland.nl)| ||:white_check_mark: |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS|Moved|
-|[https://omgevingsbeleid.zuid-holland.nl](https://omgevingsbeleid.zuid-holland.nl)| || | | | | | :white_check_mark: |Azure Azure Front Door|Omgevingsbeleid...|
+|[https://omgevingsbeleid.zuid-holland.nl](https://omgevingsbeleid.zuid-holland.nl)| || | | | | | :white_check_mark: |Azure Azure Front Door|Service unavaila...|
 |[https://auth.openstad.zuid-holland.nl](https://auth.openstad.zuid-holland.nl)| ||:white_check_mark: |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |Express HSTS Node.js||
 |[https://css.openstad.zuid-holland.nl](https://css.openstad.zuid-holland.nl)| ||:o: |:white_check_mark: | | | | :white_check_mark: |Basic Express HSTS Node.js||
 |[https://vgr.zuid-holland.nl](https://vgr.zuid-holland.nl)| || | | | | | :white_check_mark: ||Web App - Unavai...|
@@ -65,7 +71,7 @@
 |[https://admin.openstad.zuid-holland.nl](https://admin.openstad.zuid-holland.nl)| || |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS|403 Forbidden|
 |[https://natura2000-data.zuid-holland.nl](https://natura2000-data.zuid-holland.nl)| |nginx|:white_check_mark: |:white_check_mark: |:warning: | :white_check_mark: | | :white_check_mark: |Azure HSTS Nginx|N2000|
 |[https://beeldbank.zuid-holland.nl](https://beeldbank.zuid-holland.nl)| ||:white_check_mark: |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Microsoft ASP.NET:4.0.30319|Homepage | Beeld...|
-|[https://staatvan.zuid-holland.nl](https://staatvan.zuid-holland.nl)| |nginx/1.21.5| | | | :white_check_mark: | | :white_check_mark: |Elementor:3.17.3 MySQL Nginx:1.21.5 PHP:8.0.15 WordPress Yoast SEO:21.5 wpBakery|Home - Staat van...|
+|[https://staatvan.zuid-holland.nl](https://staatvan.zuid-holland.nl)| |nginx/1.21.5| | | | :white_check_mark: | | :white_check_mark: |Elementor:3.18.3 MySQL Nginx:1.21.5 PHP:8.0.15 WordPress Yoast SEO:21.8 wpBakery|Home - Staat van...|
 |[https://zuid-holland.nl](https://zuid-holland.nl)| |-| |:white_check_mark: | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Microsoft ASP.NET:-|Object moved|
 |[https://monitorleefomgeving.zuid-holland.nl](https://monitorleefomgeving.zuid-holland.nl)| || | | | | | :white_check_mark: |Azure Azure Front Door|Monitor Leefomge...|
 |[https://planmer.zuid-holland.nl](https://planmer.zuid-holland.nl)| || |:white_check_mark: | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: |Azure Azure Front Door HSTS|PlanMER • Provin...|

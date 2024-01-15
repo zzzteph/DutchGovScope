@@ -45,7 +45,7 @@ https://dataportaal.cbs.nl
 https://dataportal.cbs.nl
 https://dataset.cbs.nl
 https://datasets.cbs.nl
-http://designsystem.cbs.nl
+https://designsystem.cbs.nl
 https://dev.cerberus.cbs.nl
 https://devtestlogin.cbs.nl
 https://dialin.cbs.nl

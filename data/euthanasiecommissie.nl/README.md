@@ -1,12 +1,18 @@
 # euthanasiecommissie.nl
 *2024-01-14 03:52:09*
 ## Summary data
+
+
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/euthanasiecommissie.nl/subdomains.txt)|8|Alive subdomains|
 |[urls.txt](/data/euthanasiecommissie.nl/urls.txt)|7|Urls|
 |[all_subdomains.txt](/data/euthanasiecommissie.nl/all_subdomains.txt)|13|All found subdomains (history)|
+
+
 ## Statistics
+
+
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
 |[https://english.euthanasiecommissie.nl](https://english.euthanasiecommissie.nl)| $${\color{green}A+}$$ |nginx| |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Bloomreach HSTS Nginx|Home | Regional...|

@@ -1,12 +1,18 @@
 # minvws.nl
 *2024-01-10 20:57:18*
 ## Summary data
+
+
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/minvws.nl/subdomains.txt)|29|Alive subdomains|
 |[urls.txt](/data/minvws.nl/urls.txt)|11|Urls|
 |[all_subdomains.txt](/data/minvws.nl/all_subdomains.txt)|58|All found subdomains (history)|
+
+
 ## Statistics
+
+
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
 |[https://pilot.uzi-online.minvws.nl](https://pilot.uzi-online.minvws.nl)| || |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Basic HSTS|401 Unauthorized|

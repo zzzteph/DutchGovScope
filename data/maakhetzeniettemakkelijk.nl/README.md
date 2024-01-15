@@ -1,12 +1,18 @@
 # maakhetzeniettemakkelijk.nl
 *2024-01-10 20:57:17*
 ## Summary data
+
+
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/maakhetzeniettemakkelijk.nl/subdomains.txt)|5|Alive subdomains|
 |[urls.txt](/data/maakhetzeniettemakkelijk.nl/urls.txt)|4|Urls|
 |[all_subdomains.txt](/data/maakhetzeniettemakkelijk.nl/all_subdomains.txt)|11|All found subdomains (history)|
+
+
 ## Statistics
+
+
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
 |[https://feeds.maakhetzeniettemakkelijk.nl](https://feeds.maakhetzeniettemakkelijk.nl)| |nginx| |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx||

@@ -1,12 +1,18 @@
 # omgevingsloket.nl
 *2024-01-10 20:57:20*
 ## Summary data
+
+
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/omgevingsloket.nl/subdomains.txt)|50|Alive subdomains|
 |[urls.txt](/data/omgevingsloket.nl/urls.txt)|12|Urls|
 |[all_subdomains.txt](/data/omgevingsloket.nl/all_subdomains.txt)|77|All found subdomains (history)|
+
+
 ## Statistics
+
+
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
 |[https://acc.omgevingsloket.nl](https://acc.omgevingsloket.nl)| |Apache| | | | | | :white_check_mark: |Apache HTTP Server|Access to the re...|

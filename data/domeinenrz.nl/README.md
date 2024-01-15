@@ -1,12 +1,18 @@
 # domeinenrz.nl
 *2024-01-14 03:00:29*
 ## Summary data
+
+
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/domeinenrz.nl/subdomains.txt)|26|Alive subdomains|
 |[urls.txt](/data/domeinenrz.nl/urls.txt)|16|Urls|
 |[all_subdomains.txt](/data/domeinenrz.nl/all_subdomains.txt)|34|All found subdomains (history)|
+
+
 ## Statistics
+
+
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
 |[https://afspraak.domeinenrz.nl](https://afspraak.domeinenrz.nl)| $${\color{green}A}$$ |Apache|:o: | | | | | :white_check_mark: |Apache HTTP Server|403 Forbidden|

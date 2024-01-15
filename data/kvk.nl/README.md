@@ -1,12 +1,18 @@
 # kvk.nl
 *2024-01-14 10:45:04*
 ## Summary data
+
+
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/kvk.nl/subdomains.txt)|195|Alive subdomains|
 |[urls.txt](/data/kvk.nl/urls.txt)|60|Urls|
 |[all_subdomains.txt](/data/kvk.nl/all_subdomains.txt)|483|All found subdomains (history)|
+
+
 ## Statistics
+
+
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
 |[https://diensten.kvk.nl](https://diensten.kvk.nl)| ||:white_check_mark: |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS|301 Moved Perman...|

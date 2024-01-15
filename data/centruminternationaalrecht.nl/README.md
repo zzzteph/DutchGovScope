@@ -1,12 +1,18 @@
 # centruminternationaalrecht.nl
 *2024-01-11 16:13:37*
 ## Summary data
+
+
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/centruminternationaalrecht.nl/subdomains.txt)|5|Alive subdomains|
 |[urls.txt](/data/centruminternationaalrecht.nl/urls.txt)|5|Urls|
 |[all_subdomains.txt](/data/centruminternationaalrecht.nl/all_subdomains.txt)|7|All found subdomains (history)|
+
+
 ## Statistics
+
+
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
 |[https://acc.centruminternationaalrecht.nl](https://acc.centruminternationaalrecht.nl)| |Apache| | | | | | :white_check_mark: |Apache HTTP Server|403 Forbidden|

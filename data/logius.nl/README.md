@@ -1,12 +1,18 @@
 # logius.nl
 *2024-01-14 10:51:27*
 ## Summary data
+
+
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/logius.nl/subdomains.txt)|68|Alive subdomains|
 |[urls.txt](/data/logius.nl/urls.txt)|48|Urls|
 |[all_subdomains.txt](/data/logius.nl/all_subdomains.txt)|116|All found subdomains (history)|
+
+
 ## Statistics
+
+
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
 |[https://acc-dictu.logius.nl](https://acc-dictu.logius.nl)| |nginx| | | | | | :white_check_mark: |Basic Nginx|401 Authorizatio...|

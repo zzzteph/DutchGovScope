@@ -1,12 +1,18 @@
 # waterschaplimburg.nl
 *2024-01-11 14:16:11*
 ## Summary data
+
+
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/waterschaplimburg.nl/subdomains.txt)|37|Alive subdomains|
 |[urls.txt](/data/waterschaplimburg.nl/urls.txt)|35|Urls|
 |[all_subdomains.txt](/data/waterschaplimburg.nl/all_subdomains.txt)|40|All found subdomains (history)|
+
+
 ## Statistics
+
+
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
 |[https://spapps-t.waterschaplimburg.nl](https://spapps-t.waterschaplimburg.nl)| |nginx| | | | | | :white_check_mark: |Nginx|TransIP - Reserv...|

@@ -1,12 +1,18 @@
 # tenderned.nl
 *2024-01-11 16:13:42*
 ## Summary data
+
+
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/tenderned.nl/subdomains.txt)|18|Alive subdomains|
 |[urls.txt](/data/tenderned.nl/urls.txt)|8|Urls|
 |[all_subdomains.txt](/data/tenderned.nl/all_subdomains.txt)|39|All found subdomains (history)|
+
+
 ## Statistics
+
+
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
 |[https://cms.tenderned.nl](https://cms.tenderned.nl)| |nginx| | | | | | :white_check_mark: |HSTS Nginx|301 Moved Perman...|

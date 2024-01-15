@@ -1,12 +1,18 @@
 # nederlandwereldwijd.nl
 *2024-01-10 20:57:19*
 ## Summary data
+
+
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/nederlandwereldwijd.nl/subdomains.txt)|14|Alive subdomains|
 |[urls.txt](/data/nederlandwereldwijd.nl/urls.txt)|12|Urls|
 |[all_subdomains.txt](/data/nederlandwereldwijd.nl/all_subdomains.txt)|26|All found subdomains (history)|
+
+
 ## Statistics
+
+
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
 |[https://a-informatieservice.nederlandwereldwijd.nl](https://a-informatieservice.nederlandwereldwijd.nl)| |Microsoft-IIS/10.0|:white_check_mark: |:white_check_mark: |:warning: | :white_check_mark: | | :white_check_mark: |Azure HSTS IIS:10.0 Microsoft ASP.NET Windows Server|Informatieservic...|

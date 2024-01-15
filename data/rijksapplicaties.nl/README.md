@@ -1,12 +1,18 @@
 # rijksapplicaties.nl
 *2024-01-11 16:13:45*
 ## Summary data
+
+
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/rijksapplicaties.nl/subdomains.txt)|244|Alive subdomains|
 |[urls.txt](/data/rijksapplicaties.nl/urls.txt)|209|Urls|
 |[all_subdomains.txt](/data/rijksapplicaties.nl/all_subdomains.txt)|307|All found subdomains (history)|
+
+
 ## Statistics
+
+
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
 |[https://rijksapplicaties.nl](https://rijksapplicaties.nl)| |nginx| | |:warning: | | | :white_check_mark: |Nginx||
@@ -66,10 +72,10 @@
 |[https://stakeholdersregistratie.rijksapplicaties.nl](https://stakeholdersregistratie.rijksapplicaties.nl)| |nginx|:o: |:white_check_mark: |:warning: | :white_check_mark: | | :white_check_mark: |HSTS Nginx||
 |[https://rvb-rif.staging.rijksapplicaties.nl](https://rvb-rif.staging.rijksapplicaties.nl)| |nginx|:o: |:white_check_mark: |:warning: | :white_check_mark: | | :white_check_mark: |HSTS Nginx||
 |[https://rvb-noc.rijksapplicaties.nl](https://rvb-noc.rijksapplicaties.nl)| |nginx|:o: |:white_check_mark: |:warning: | :white_check_mark: | | :white_check_mark: |HSTS Nginx||
-|[https://rvb-rbb.rijksapplicaties.nl](https://rvb-rbb.rijksapplicaties.nl)| |nginx|:o: |:white_check_mark: |:warning: | :white_check_mark: | | :white_check_mark: |HSTS Nginx||
-|[https://rvb-rbb.staging.rijksapplicaties.nl](https://rvb-rbb.staging.rijksapplicaties.nl)| |nginx|:o: |:white_check_mark: |:warning: | :white_check_mark: | | :white_check_mark: |HSTS Nginx||
-|[https://via.staging.rijksapplicaties.nl](https://via.staging.rijksapplicaties.nl)| |nginx|:o: |:white_check_mark: |:warning: | :white_check_mark: | | :white_check_mark: |HSTS Nginx||
-|[https://aanwezigheid-ilab.staging.rijksapplicaties.nl](https://aanwezigheid-ilab.staging.rijksapplicaties.nl)| |nginx|:o: |:white_check_mark: |:warning: | :white_check_mark: | | :white_check_mark: |HSTS Nginx||
+|[http://rvb-rbb.rijksapplicaties.nl](http://rvb-rbb.rijksapplicaties.nl)| ||:o: |:white_check_mark: |:warning: | :white_check_mark: | | :white_check_mark: |HSTS Nginx|302 Found|
+|[http://rvb-rbb.staging.rijksapplicaties.nl](http://rvb-rbb.staging.rijksapplicaties.nl)| ||:o: |:white_check_mark: |:warning: | :white_check_mark: | | :white_check_mark: |HSTS Nginx|302 Found|
+|[http://via.staging.rijksapplicaties.nl](http://via.staging.rijksapplicaties.nl)| ||:o: |:white_check_mark: |:warning: | :white_check_mark: | | :white_check_mark: |HSTS Nginx|302 Found|
+|[http://aanwezigheid-ilab.staging.rijksapplicaties.nl](http://aanwezigheid-ilab.staging.rijksapplicaties.nl)| ||:o: |:white_check_mark: |:warning: | :white_check_mark: | | :white_check_mark: |HSTS Nginx|302 Found|
 |[https://rvb-relatiemanagement.staging.rijksapplicaties.nl](https://rvb-relatiemanagement.staging.rijksapplicaties.nl)| |nginx|:o: |:white_check_mark: |:warning: | :white_check_mark: | | :white_check_mark: |HSTS Nginx||
 |[https://cotero.rijksapplicaties.nl](https://cotero.rijksapplicaties.nl)| |nginx|:o: |:white_check_mark: |:warning: | :white_check_mark: | | :white_check_mark: |HSTS Microsoft ASP.NET Nginx|CoTeRo|
 |[https://cedar.rijksapplicaties.nl](https://cedar.rijksapplicaties.nl)| |nginx|:o: |:white_check_mark: |:warning: | :white_check_mark: | | :white_check_mark: |HSTS Nginx||

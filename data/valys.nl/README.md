@@ -1,12 +1,18 @@
 # valys.nl
 *2024-01-11 16:13:46*
 ## Summary data
+
+
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/valys.nl/subdomains.txt)|12|Alive subdomains|
 |[urls.txt](/data/valys.nl/urls.txt)|11|Urls|
 |[all_subdomains.txt](/data/valys.nl/all_subdomains.txt)|12|All found subdomains (history)|
+
+
 ## Statistics
+
+
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
 |[https://0900-9630www.valys.nl](https://0900-9630www.valys.nl)| |Apache/2.4.29 (Ubuntu)| | | | | | :white_check_mark: |Apache HTTP Server:2.4.29 Ubuntu|Apache2 Ubuntu D...|

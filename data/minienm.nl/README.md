@@ -1,12 +1,18 @@
 # minienm.nl
 *2024-01-10 20:57:18*
 ## Summary data
+
+
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/minienm.nl/subdomains.txt)|61|Alive subdomains|
 |[urls.txt](/data/minienm.nl/urls.txt)|17|Urls|
 |[all_subdomains.txt](/data/minienm.nl/all_subdomains.txt)|129|All found subdomains (history)|
+
+
 ## Statistics
+
+
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
 |[https://acc.service.mpn.minienm.nl](https://acc.service.mpn.minienm.nl)| |nginx/1.25.3| | | | | | :white_check_mark: |Nginx:1.25.3|MPN ACCEPTATIE i...|

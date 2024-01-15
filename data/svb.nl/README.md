@@ -1,24 +1,30 @@
 # svb.nl
 *2024-01-10 20:57:23*
 ## Summary data
+
+
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/svb.nl/subdomains.txt)|156|Alive subdomains|
 |[urls.txt](/data/svb.nl/urls.txt)|60|Urls|
 |[all_subdomains.txt](/data/svb.nl/all_subdomains.txt)|273|All found subdomains (history)|
+
+
 ## Statistics
+
+
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
 |[https://rdsapplications03.svb.nl](https://rdsapplications03.svb.nl)| |Microsoft-IIS/10.0| | | | | | :white_check_mark: |IIS:10.0 Microsoft ASP.NET Windows Server|IIS Windows Serv...|
 |[https://cmsintranet.svb.nl](https://cmsintranet.svb.nl)| || |:white_check_mark: | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS|403 - Forbidden:...|
 |[https://applicationstest.svb.nl](https://applicationstest.svb.nl)| |Microsoft-IIS/10.0| | | | | | :white_check_mark: |IIS:10.0 Microsoft ASP.NET Windows Server|IIS Windows Serv...|
-|[https://gemeenten.svb.nl](https://gemeenten.svb.nl)| ||:white_check_mark: |:white_check_mark: | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS||
+|[https://gemeenten.svb.nl](https://gemeenten.svb.nl)| || |:white_check_mark: | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS||
 |[http://cb.entreepgb.svb.nl](http://cb.entreepgb.svb.nl)| || | | | | | :white_check_mark: |||
 |[https://secure5.svb.nl](https://secure5.svb.nl)| ||:warning: |:white_check_mark: | | :white_check_mark: | | :white_check_mark: |HSTS|Sociale Verzeker...|
 |[https://rdsapplications07.svb.nl](https://rdsapplications07.svb.nl)| |Microsoft-IIS/10.0| | | | | | :white_check_mark: |IIS:10.0 Microsoft ASP.NET Windows Server|IIS Windows Serv...|
 |[https://rdsapplications08.svb.nl](https://rdsapplications08.svb.nl)| |Microsoft-IIS/10.0| | | | | | :white_check_mark: |IIS:10.0 Microsoft ASP.NET Windows Server|IIS Windows Serv...|
 |[https://leveranciersvdi.svb.nl](https://leveranciersvdi.svb.nl)| |Microsoft-IIS/10.0| | | | | | :white_check_mark: |IIS:10.0 Microsoft ASP.NET Windows Server|IIS Windows Serv...|
-|[https://www.svb.nl](https://www.svb.nl)| ||:white_check_mark: |:white_check_mark: | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS||
+|[https://www.svb.nl](https://www.svb.nl)| || |:white_check_mark: | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS||
 |[https://mijnsvb.svb.nl](https://mijnsvb.svb.nl)| ||:white_check_mark: |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS|302 Found|
 |[https://live.svb.nl](https://live.svb.nl)| |cloudflare| |:white_check_mark: | | | | :white_check_mark: |Cloudflare HSTS|Page Not Found|
 |[https://remotedesktop.svb.nl](https://remotedesktop.svb.nl)| |Microsoft-IIS/10.0| | | | | | :white_check_mark: |IIS:10.0 Microsoft ASP.NET Windows Server|IIS Windows Serv...|
@@ -46,7 +52,7 @@
 |[https://rdsapplications05.svb.nl](https://rdsapplications05.svb.nl)| |Microsoft-IIS/10.0| | | | | | :white_check_mark: |IIS:10.0 Microsoft ASP.NET Windows Server|IIS Windows Serv...|
 |[https://myprint.svb.nl](https://myprint.svb.nl)| || | | | | | :white_check_mark: |||
 |[https://desktop.entreepgb.svb.nl](https://desktop.entreepgb.svb.nl)| |Microsoft-IIS/10.0|:o: | | | :white_check_mark: | | :white_check_mark: |IIS:10.0 Windows Server|Document Moved|
-|[https://events.svb.nl](https://events.svb.nl)| |Caddy nginx|:white_check_mark: |:white_check_mark: | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: |Amazon S3 Amazon Web Services HSTS Nginx||
+|[https://events.svb.nl](https://events.svb.nl)| |Caddy nginx| |:white_check_mark: | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: |Amazon S3 Amazon Web Services HSTS Nginx||
 |[https://app-t.svb.nl](https://app-t.svb.nl)| ||:white_check_mark: |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |||
 |[https://mijnpgb-siam.svb.nl](https://mijnpgb-siam.svb.nl)| ||:warning: |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS|302 Found|
 |[http://www.entreepgb.svb.nl](http://www.entreepgb.svb.nl)| || | | | | | :white_check_mark: |||
@@ -67,5 +73,5 @@
 |[https://mta-a.svb.nl](https://mta-a.svb.nl)| |Microsoft-IIS/10.0|:warning: |:white_check_mark: | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: |Azure HSTS IIS:10.0 Windows Server|SVB MaakTeam|
 |[https://mta-p.svb.nl](https://mta-p.svb.nl)| |Microsoft-IIS/10.0|:warning: |:white_check_mark: | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: |Azure HSTS IIS:10.0 Windows Server|SVB MaakTeam|
 |[https://autodiscover.svb.nl](https://autodiscover.svb.nl)| |BigIP|:white_check_mark: |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |F5 BigIP||
-|[https://mft-prd.svb.nl](https://mft-prd.svb.nl)| || |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS|Redirect|
+|[https://mft-prd.svb.nl](https://mft-prd.svb.nl)| || |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Basic HSTS|Unauthorized|
 |[https://mijntpw.svb.nl](https://mijntpw.svb.nl)| ||:warning: |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS|302 Found|

@@ -1,12 +1,18 @@
 # pleio.nl
 *2024-01-11 16:13:39*
 ## Summary data
+
+
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/pleio.nl/subdomains.txt)|457|Alive subdomains|
 |[urls.txt](/data/pleio.nl/urls.txt)|453|Urls|
 |[all_subdomains.txt](/data/pleio.nl/all_subdomains.txt)|458|All found subdomains (history)|
+
+
 ## Statistics
+
+
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
 |[https://a20dag.pleio.nl](https://a20dag.pleio.nl)| || |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS|Domeinnaam nog n...|
@@ -118,7 +124,7 @@
 |[https://leren.pleio.nl](https://leren.pleio.nl)| || |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS|503 Service Temp...|
 |[https://lerendeoverheid.pleio.nl](https://lerendeoverheid.pleio.nl)| || |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS|Domeinnaam nog n...|
 |[https://lichamelijkeopvoeding.pleio.nl](https://lichamelijkeopvoeding.pleio.nl)| || |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS|Domeinnaam nog n...|
-|[https://ln-emff.pleio.nl](https://ln-emff.pleio.nl)| ||:white_check_mark: |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Apache Tomcat Fourthwall:1.0.0 HSTS Java MariaDB Skolengo:1.0.0|Learning Network...|
+|[https://ln-emff.pleio.nl](https://ln-emff.pleio.nl)| ||:white_check_mark: |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS||
 |[https://localbox.pleio.nl](https://localbox.pleio.nl)| || |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS|Domeinnaam nog n...|
 |[https://locus.pleio.nl](https://locus.pleio.nl)| || |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS|Domeinnaam nog n...|
 |[https://loki-internal.pleio.nl](https://loki-internal.pleio.nl)| || |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS|Domeinnaam nog n...|
@@ -245,7 +251,7 @@
 |[https://baidu.pleio.nl](https://baidu.pleio.nl)| || |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS|Domeinnaam nog n...|
 |[https://myhome.pleio.nl](https://myhome.pleio.nl)| || |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS|Domeinnaam nog n...|
 |[https://werkenaaneenoverheid.pleio.nl](https://werkenaaneenoverheid.pleio.nl)| || |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS|Domeinnaam nog n...|
-|[https://hl.pleio.nl](https://hl.pleio.nl)| ||:white_check_mark: |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Apache Tomcat Fourthwall:1.0.0 HSTS Java MariaDB Skolengo:1.0.0|Intranet - Gemee...|
+|[https://hl.pleio.nl](https://hl.pleio.nl)| ||:white_check_mark: |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS||
 |[https://bookmarks.pleio.nl](https://bookmarks.pleio.nl)| || |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS|Domeinnaam nog n...|
 |[https://k4.pleio.nl](https://k4.pleio.nl)| || |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS|Domeinnaam nog n...|
 |[https://blog.pleio.nl](https://blog.pleio.nl)| || |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS|Domeinnaam nog n...|
@@ -291,7 +297,7 @@
 |[https://regelbeheer.pleio.nl](https://regelbeheer.pleio.nl)| ||:white_check_mark: |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Apache Tomcat Fourthwall:1.0.0 HSTS Java MariaDB Skolengo:1.0.0|Regelbeheersing|
 |[https://digistandaarden.pleio.nl](https://digistandaarden.pleio.nl)| || |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS|Domeinnaam nog n...|
 |[https://kleinlef.pleio.nl](https://kleinlef.pleio.nl)| ||:white_check_mark: |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Apache Tomcat Fourthwall:1.0.0 HSTS Java MariaDB Skolengo:1.0.0|KleinLef|
-|[https://imd.pleio.nl](https://imd.pleio.nl)| ||:white_check_mark: |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS||
+|[https://imd.pleio.nl](https://imd.pleio.nl)| ||:white_check_mark: |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Apache Tomcat Fourthwall:1.0.0 HSTS Java MariaDB Skolengo:1.0.0|Intermediairdage...|
 |[https://samenwerkingsplatform-sroks.pleio.nl](https://samenwerkingsplatform-sroks.pleio.nl)| ||:white_check_mark: |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Apache Tomcat Fourthwall:1.0.0 HSTS Java MariaDB Skolengo:1.0.0|SROKS|
 |[https://rbbgroep.pleio.nl](https://rbbgroep.pleio.nl)| || |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS|Domeinnaam nog n...|
 |[https://besluitmetmuisjes.pleio.nl](https://besluitmetmuisjes.pleio.nl)| || |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS|Domeinnaam nog n...|
@@ -361,7 +367,7 @@
 |[https://cse.pleio.nl](https://cse.pleio.nl)| || |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS|Domeinnaam nog n...|
 |[https://blogs.pleio.nl](https://blogs.pleio.nl)| || |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS|Domeinnaam nog n...|
 |[https://wendbarewetsuitvoering.pleio.nl](https://wendbarewetsuitvoering.pleio.nl)| ||:white_check_mark: |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Apache Tomcat Fourthwall:1.0.0 HSTS Java MariaDB Skolengo:1.0.0|Wendbare wetsuit...|
-|[https://linvexo.pleio.nl](https://linvexo.pleio.nl)| ||:white_check_mark: |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS||
+|[https://linvexo.pleio.nl](https://linvexo.pleio.nl)| ||:white_check_mark: |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Apache Tomcat Fourthwall:1.0.0 HSTS Java MariaDB Skolengo:1.0.0|LINVEXO Communit...|
 |[https://cp.pleio.nl](https://cp.pleio.nl)| || |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS|Domeinnaam nog n...|
 |[https://wenku.pleio.nl](https://wenku.pleio.nl)| || |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS|Domeinnaam nog n...|
 |[https://top2.pleio.nl](https://top2.pleio.nl)| || |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS|Domeinnaam nog n...|

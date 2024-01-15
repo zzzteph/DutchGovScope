@@ -1,12 +1,18 @@
 # communicatierijk.nl
 *2024-01-14 01:24:07*
 ## Summary data
+
+
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/communicatierijk.nl/subdomains.txt)|9|Alive subdomains|
 |[urls.txt](/data/communicatierijk.nl/urls.txt)|6|Urls|
 |[all_subdomains.txt](/data/communicatierijk.nl/all_subdomains.txt)|23|All found subdomains (history)|
+
+
 ## Statistics
+
+
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
 |[https://feeds.communicatierijk.nl](https://feeds.communicatierijk.nl)| $${\color{green}A+}$$ |nginx| |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx||

@@ -1,12 +1,18 @@
 # rijksoverheid.nl
 *2024-01-10 20:57:22*
 ## Summary data
+
+
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/rijksoverheid.nl/subdomains.txt)|100|Alive subdomains|
 |[urls.txt](/data/rijksoverheid.nl/urls.txt)|35|Urls|
 |[all_subdomains.txt](/data/rijksoverheid.nl/all_subdomains.txt)|350|All found subdomains (history)|
+
+
 ## Statistics
+
+
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
 |[https://a-downloads.persberichten.rijksoverheid.nl](https://a-downloads.persberichten.rijksoverheid.nl)| |nginx| |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx|404 - Not Found|

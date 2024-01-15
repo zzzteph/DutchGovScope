@@ -1,8 +1,6 @@
 acc.iaas-portal.odc-noord.nl
 acc.login.odc-noord.nl
 acc.paas-portal.odc-noord.nl
-admin-iam.odc-noord.nl
-admin-pgb-iam.odc-noord.nl
 autodiscover.odc-noord.nl
 bd-acc.topdesk.odc-noord.nl
 bd-prd.topdesk.odc-noord.nl

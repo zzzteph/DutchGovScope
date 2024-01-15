@@ -1,12 +1,18 @@
 # versnellingshuisce.nl
 *2024-01-11 16:13:41*
 ## Summary data
+
+
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/versnellingshuisce.nl/subdomains.txt)|7|Alive subdomains|
 |[urls.txt](/data/versnellingshuisce.nl/urls.txt)|7|Urls|
 |[all_subdomains.txt](/data/versnellingshuisce.nl/all_subdomains.txt)|7|All found subdomains (history)|
+
+
 ## Statistics
+
+
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
 |[https://financiering.versnellingshuisce.nl](https://financiering.versnellingshuisce.nl)| |Apache/2| |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |Apache HTTP Server:2 Google Tag Manager Gravity Forms HSTS MySQL PHP:8.1.24 WordPress Yoast SEO:20.12 ZURB Foundation|Nederland Circul...|

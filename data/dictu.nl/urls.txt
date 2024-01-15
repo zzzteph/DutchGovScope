@@ -20,6 +20,7 @@ https://engine.acc.fhub.dictu.nl
 https://engine.fhub.dictu.nl
 https://fhub.dictu.nl
 https://gisextern.dictu.nl
+https://ibabs.dictu.nl
 https://ibg.datasluis.dictu.nl
 https://ibg.webftp.dictu.nl
 http://iltbuildserver.dictu.nl

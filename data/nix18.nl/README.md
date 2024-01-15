@@ -1,12 +1,18 @@
 # nix18.nl
 *2024-01-10 20:57:19*
 ## Summary data
+
+
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/nix18.nl/subdomains.txt)|4|Alive subdomains|
 |[urls.txt](/data/nix18.nl/urls.txt)|4|Urls|
 |[all_subdomains.txt](/data/nix18.nl/all_subdomains.txt)|17|All found subdomains (history)|
+
+
 ## Statistics
+
+
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
 |[https://feeds.nix18.nl](https://feeds.nix18.nl)| |nginx| |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx||

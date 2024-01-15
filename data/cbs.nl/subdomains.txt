@@ -207,3 +207,4 @@ sbi.acceptatie.cbs.nl
 mijn.cbs.nl
 mijn-api.cbs.nl
 uitwisseling.cbs.nl
+beh-iam.acceptatie.cbs.nl

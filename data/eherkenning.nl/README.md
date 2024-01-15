@@ -1,12 +1,18 @@
 # eherkenning.nl
 *2024-01-14 03:37:06*
 ## Summary data
+
+
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/eherkenning.nl/subdomains.txt)|33|Alive subdomains|
 |[urls.txt](/data/eherkenning.nl/urls.txt)|26|Urls|
 |[all_subdomains.txt](/data/eherkenning.nl/all_subdomains.txt)|77|All found subdomains (history)|
+
+
 ## Statistics
+
+
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
 |[https://acc-dictu.eherkenning.nl](https://acc-dictu.eherkenning.nl)| $${\color{green}A}$$ |nginx| | | | | | :white_check_mark: |Basic Nginx|401 Authorizatio...|

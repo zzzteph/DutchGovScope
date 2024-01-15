@@ -1,12 +1,18 @@
 # doeonbeperktmee.nl
 *2024-01-11 06:23:04*
 ## Summary data
+
+
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/doeonbeperktmee.nl/subdomains.txt)|6|Alive subdomains|
 |[urls.txt](/data/doeonbeperktmee.nl/urls.txt)|6|Urls|
 |[all_subdomains.txt](/data/doeonbeperktmee.nl/all_subdomains.txt)|6|All found subdomains (history)|
+
+
 ## Statistics
+
+
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
 |[https://vraagje.doeonbeperktmee.nl](https://vraagje.doeonbeperktmee.nl)| |nginx| | | | | | :white_check_mark: |Nginx|Vraagje | Onbepe...|

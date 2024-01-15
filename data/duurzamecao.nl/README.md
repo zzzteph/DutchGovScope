@@ -1,12 +1,18 @@
 # duurzamecao.nl
 *2024-01-11 02:04:42*
 ## Summary data
+
+
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/duurzamecao.nl/subdomains.txt)|15|Alive subdomains|
 |[urls.txt](/data/duurzamecao.nl/urls.txt)|15|Urls|
 |[all_subdomains.txt](/data/duurzamecao.nl/all_subdomains.txt)|15|All found subdomains (history)|
+
+
 ## Statistics
+
+
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
 |[https://idkbc.duurzamecao.nl](https://idkbc.duurzamecao.nl)| |nginx| | | | | | :white_check_mark: |MySQL Nginx PHP WooCommerce:8.0.1 WordPress:6.3.2|Overzicht - IDKB...|

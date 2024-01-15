@@ -1,12 +1,18 @@
 # doc-direkt.nl
 *2024-01-14 02:57:05*
 ## Summary data
+
+
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/doc-direkt.nl/subdomains.txt)|10|Alive subdomains|
 |[urls.txt](/data/doc-direkt.nl/urls.txt)|9|Urls|
 |[all_subdomains.txt](/data/doc-direkt.nl/all_subdomains.txt)|18|All found subdomains (history)|
+
+
 ## Statistics
+
+
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
 |[https://acc-api.dh.doc-direkt.nl](https://acc-api.dh.doc-direkt.nl)| $${\color{lightgreen}B}$$ || |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS||

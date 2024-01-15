@@ -1,12 +1,18 @@
 # justis.nl
 *2024-01-14 05:57:04*
 ## Summary data
+
+
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/justis.nl/subdomains.txt)|13|Alive subdomains|
 |[urls.txt](/data/justis.nl/urls.txt)|12|Urls|
 |[all_subdomains.txt](/data/justis.nl/all_subdomains.txt)|15|All found subdomains (history)|
+
+
 ## Statistics
+
+
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
 |[https://acc.justis.nl](https://acc.justis.nl)| |nginx| |:white_check_mark: | | | | :white_check_mark: |Basic HSTS Nginx|401 Authorizatio...|

@@ -1,12 +1,18 @@
 # knaw.nl
 *2024-01-14 09:25:24*
 ## Summary data
+
+
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/knaw.nl/subdomains.txt)|1356|Alive subdomains|
 |[urls.txt](/data/knaw.nl/urls.txt)|243|Urls|
 |[all_subdomains.txt](/data/knaw.nl/all_subdomains.txt)|1921|All found subdomains (history)|
+
+
 ## Statistics
+
+
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
 |[https://www.test.backtoroots.nioo.knaw.nl](https://www.test.backtoroots.nioo.knaw.nl)| |nginx| | | | | | :white_check_mark: |Basic Nginx|401 Authorizatio...|

@@ -1,12 +1,18 @@
 # zorginzicht.nl
 *2024-01-11 16:13:43*
 ## Summary data
+
+
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/zorginzicht.nl/subdomains.txt)|14|Alive subdomains|
 |[urls.txt](/data/zorginzicht.nl/urls.txt)|9|Urls|
 |[all_subdomains.txt](/data/zorginzicht.nl/all_subdomains.txt)|20|All found subdomains (history)|
+
+
 ## Statistics
+
+
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
 |[https://acc.zorginzicht.nl](https://acc.zorginzicht.nl)| |Apache| | | | | | :white_check_mark: |Apache HTTP Server Basic|401 Unauthorized|

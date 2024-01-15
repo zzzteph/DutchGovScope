@@ -1,12 +1,18 @@
 # perined.nl
 *2024-01-11 16:13:45*
 ## Summary data
+
+
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/perined.nl/subdomains.txt)|17|Alive subdomains|
 |[urls.txt](/data/perined.nl/urls.txt)|15|Urls|
 |[all_subdomains.txt](/data/perined.nl/all_subdomains.txt)|17|All found subdomains (history)|
+
+
 ## Statistics
+
+
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
 |[https://audit.perined.nl](https://audit.perined.nl)| |nginx|:white_check_mark: | | | | :white_check_mark: | :white_check_mark: |Microsoft ASP.NET Nginx|Perinatale Audit...|

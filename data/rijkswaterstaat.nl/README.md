@@ -1,12 +1,18 @@
 # rijkswaterstaat.nl
 *2024-01-10 20:57:22*
 ## Summary data
+
+
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/rijkswaterstaat.nl/subdomains.txt)|123|Alive subdomains|
 |[urls.txt](/data/rijkswaterstaat.nl/urls.txt)|99|Urls|
 |[all_subdomains.txt](/data/rijkswaterstaat.nl/all_subdomains.txt)|656|All found subdomains (history)|
+
+
 ## Statistics
+
+
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
 |[https://acc-geo.rijkswaterstaat.nl](https://acc-geo.rijkswaterstaat.nl)| |nginx| |:white_check_mark: | | | | :white_check_mark: |HSTS Nginx|Landingspagina I...|
@@ -104,7 +110,7 @@
 |[https://rijkswaterstaat.nl](https://rijkswaterstaat.nl)| |Microsoft-Azure-Application-Gateway/v2|:warning: |:white_check_mark: | | :white_check_mark: | | :white_check_mark: ||301 Moved Perman...|
 |[https://spin2.rijkswaterstaat.nl](https://spin2.rijkswaterstaat.nl)| || | | | | | :white_check_mark: |||
 |[https://innovatie-test.rijkswaterstaat.nl](https://innovatie-test.rijkswaterstaat.nl)| || |:white_check_mark: | | | | :white_check_mark: |HSTS||
-|[https://bmm2016.rijkswaterstaat.nl](https://bmm2016.rijkswaterstaat.nl)| || | | | | | :white_check_mark: |||
+|[https://bmm2016.rijkswaterstaat.nl](https://bmm2016.rijkswaterstaat.nl)| || |:white_check_mark: | | | | :white_check_mark: |||
 |[https://acceptatie-bmm2016.rijkswaterstaat.nl](https://acceptatie-bmm2016.rijkswaterstaat.nl)| || |:white_check_mark: | | | | :white_check_mark: |||
 |[https://techniekacademie.rijkswaterstaat.nl](https://techniekacademie.rijkswaterstaat.nl)| |-| |:white_check_mark: | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Microsoft ASP.NET:-|Techniek Academi...|
 |[https://zaaksysteem-acc.rijkswaterstaat.nl](https://zaaksysteem-acc.rijkswaterstaat.nl)| ||:white_check_mark: |:white_check_mark: | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS|Moved|

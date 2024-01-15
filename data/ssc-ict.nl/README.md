@@ -1,12 +1,18 @@
 # ssc-ict.nl
 *2024-01-10 20:57:23*
 ## Summary data
+
+
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/ssc-ict.nl/subdomains.txt)|38|Alive subdomains|
 |[urls.txt](/data/ssc-ict.nl/urls.txt)|10|Urls|
 |[all_subdomains.txt](/data/ssc-ict.nl/all_subdomains.txt)|64|All found subdomains (history)|
+
+
 ## Statistics
+
+
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
 |[https://anyc.ssc-ict.nl](https://anyc.ssc-ict.nl)| ||:warning: |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS||

@@ -1,12 +1,18 @@
 # volksgezondheidenzorg.info
 *2024-01-10 20:57:25*
 ## Summary data
+
+
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/volksgezondheidenzorg.info/subdomains.txt)|8|Alive subdomains|
 |[urls.txt](/data/volksgezondheidenzorg.info/urls.txt)|8|Urls|
 |[all_subdomains.txt](/data/volksgezondheidenzorg.info/all_subdomains.txt)|9|All found subdomains (history)|
+
+
 ## Statistics
+
+
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
 |[http://acceptatie.volksgezondheidenzorg.info](http://acceptatie.volksgezondheidenzorg.info)| || | | | | | :white_check_mark: |||

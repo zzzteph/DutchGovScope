@@ -1,12 +1,18 @@
 # emissieautoriteit.nl
 *2024-01-14 03:41:26*
 ## Summary data
+
+
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/emissieautoriteit.nl/subdomains.txt)|18|Alive subdomains|
 |[urls.txt](/data/emissieautoriteit.nl/urls.txt)|12|Urls|
 |[all_subdomains.txt](/data/emissieautoriteit.nl/all_subdomains.txt)|30|All found subdomains (history)|
+
+
 ## Statistics
+
+
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
 |[https://cher.emissieautoriteit.nl](https://cher.emissieautoriteit.nl)| $${\color{green}A+}$$ |nginx| |:white_check_mark: | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx|Mendix|

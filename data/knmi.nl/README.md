@@ -1,12 +1,18 @@
 # knmi.nl
 *2024-01-14 09:53:08*
 ## Summary data
+
+
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/knmi.nl/subdomains.txt)|156|Alive subdomains|
 |[urls.txt](/data/knmi.nl/urls.txt)|60|Urls|
 |[all_subdomains.txt](/data/knmi.nl/all_subdomains.txt)|307|All found subdomains (history)|
+
+
 ## Statistics
+
+
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
 |[https://adaguc.knmi.nl](https://adaguc.knmi.nl)| |AmazonS3| | | | | | :white_check_mark: |Amazon CloudFront Amazon S3 Amazon Web Services|Adaguc site|

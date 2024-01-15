@@ -1,12 +1,18 @@
 # bigregister.nl
 *2024-01-10 20:57:10*
 ## Summary data
+
+
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/bigregister.nl/subdomains.txt)|27|Alive subdomains|
 |[urls.txt](/data/bigregister.nl/urls.txt)|21|Urls|
 |[all_subdomains.txt](/data/bigregister.nl/all_subdomains.txt)|42|All found subdomains (history)|
+
+
 ## Statistics
+
+
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
 |[https://acceptatie.advieswijzer.bigregister.nl](https://acceptatie.advieswijzer.bigregister.nl)| $${\color{green}A}$$ |-| |:white_check_mark: | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS||

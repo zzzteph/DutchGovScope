@@ -1,12 +1,18 @@
 # medicijnkosten.nl
 *2024-01-11 16:13:43*
 ## Summary data
+
+
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/medicijnkosten.nl/subdomains.txt)|4|Alive subdomains|
 |[urls.txt](/data/medicijnkosten.nl/urls.txt)|4|Urls|
 |[all_subdomains.txt](/data/medicijnkosten.nl/all_subdomains.txt)|9|All found subdomains (history)|
+
+
 ## Statistics
+
+
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
 |[https://proto.medicijnkosten.nl](https://proto.medicijnkosten.nl)| |GitHub.com| | | | | | :white_check_mark: |Fastly GitHub Pages Varnish|Medicijnkosten.n...|

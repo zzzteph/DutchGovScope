@@ -1,12 +1,18 @@
 # h-i-ambacht.nl
 *2024-01-14 04:37:07*
 ## Summary data
+
+
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/h-i-ambacht.nl/subdomains.txt)|21|Alive subdomains|
 |[urls.txt](/data/h-i-ambacht.nl/urls.txt)|21|Urls|
 |[all_subdomains.txt](/data/h-i-ambacht.nl/all_subdomains.txt)|29|All found subdomains (history)|
+
+
 ## Statistics
+
+
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
 |[https://h-i-ambacht.nl](https://h-i-ambacht.nl)| $${\color{green}A+}$$ ||:white_check_mark: |:white_check_mark: | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: |Apache Tomcat Green Valley CMS HSTS Java|Inwoners - Gemee...|

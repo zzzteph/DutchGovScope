@@ -1,12 +1,18 @@
 # gratisvog.nl
 *2024-01-14 04:33:14*
 ## Summary data
+
+
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/gratisvog.nl/subdomains.txt)|9|Alive subdomains|
 |[urls.txt](/data/gratisvog.nl/urls.txt)|9|Urls|
-|[all_subdomains.txt](/data/gratisvog.nl/all_subdomains.txt)|13|All found subdomains (history)|
+|[all_subdomains.txt](/data/gratisvog.nl/all_subdomains.txt)|14|All found subdomains (history)|
+
+
 ## Statistics
+
+
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
 |[https://aanmelden.gratisvog.nl](https://aanmelden.gratisvog.nl)| $${\color{green}A+}$$ |LiteSpeed|:white_check_mark: |:white_check_mark: | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS HTTP/3 LiteSpeed|Aanmelden | Rege...|

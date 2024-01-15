@@ -1,12 +1,18 @@
 # nwo.nl
 *2024-01-10 20:57:19*
 ## Summary data
+
+
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/nwo.nl/subdomains.txt)|39|Alive subdomains|
 |[urls.txt](/data/nwo.nl/urls.txt)|18|Urls|
 |[all_subdomains.txt](/data/nwo.nl/all_subdomains.txt)|232|All found subdomains (history)|
+
+
 ## Statistics
+
+
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
 |[https://www.isaac.nwo.nl](https://www.isaac.nwo.nl)| |Apache| | | | | | :white_check_mark: |Apache HTTP Server HSTS|302 Found|

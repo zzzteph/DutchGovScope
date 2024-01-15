@@ -1,12 +1,18 @@
 # ilent.nl
 *2024-01-14 05:17:09*
 ## Summary data
+
+
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/ilent.nl/subdomains.txt)|46|Alive subdomains|
 |[urls.txt](/data/ilent.nl/urls.txt)|22|Urls|
 |[all_subdomains.txt](/data/ilent.nl/all_subdomains.txt)|77|All found subdomains (history)|
+
+
 ## Statistics
+
+
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
 |[https://acc.data.ilent.nl](https://acc.data.ilent.nl)| || | | | | | :white_check_mark: |||

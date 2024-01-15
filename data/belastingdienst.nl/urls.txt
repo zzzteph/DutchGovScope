@@ -51,7 +51,6 @@ https://mta-sts.belastingdienst.nl
 https://mul-mkt.belastingdienst.nl
 https://mul-redirect.belastingdienst.nl
 https://mwr-app-api.belastingdienst.nl
-https://mwr-app-api-ota.belastingdienst.nl
 https://mwr-app-cdn.belastingdienst.nl
 https://mwr-app-cdn-ota.belastingdienst.nl
 https://odb.belastingdienst.nl
@@ -111,12 +110,12 @@ https://werkenbijde.belastingdienst.nl
 https://geen.belastingdienst.nl
 https://jouw.belastingdienst.nl
 https://werkenbij.belastingdienst.nl
-http://mijnaanvraag.belastingdienst.nl
+https://mijnaanvraag.belastingdienst.nl
 https://mijn-aanvraag.belastingdienst.nl
 https://instroom.belastingdienst.nl
 https://gdlo.belastingdienst.nl
 https://gegevensuitwisseling.belastingdienst.nl
-http://gpi.belastingdienst.nl
+https://gpi.belastingdienst.nl
 https://ovverklaringen.belastingdienst.nl
 https://verleendekinderopvang.belastingdienst.nl
 https://verzekeringsproducten.belastingdienst.nl

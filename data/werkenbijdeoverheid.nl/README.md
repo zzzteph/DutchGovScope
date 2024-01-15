@@ -1,12 +1,18 @@
 # werkenbijdeoverheid.nl
 *2024-01-10 20:57:25*
 ## Summary data
+
+
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/werkenbijdeoverheid.nl/subdomains.txt)|16|Alive subdomains|
 |[urls.txt](/data/werkenbijdeoverheid.nl/urls.txt)|15|Urls|
 |[all_subdomains.txt](/data/werkenbijdeoverheid.nl/all_subdomains.txt)|49|All found subdomains (history)|
+
+
 ## Statistics
+
+
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
 |[https://csoacct.werkenbijdeoverheid.nl](https://csoacct.werkenbijdeoverheid.nl)| |cloudflare|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: |Basic Cloudflare HSTS|Authentication R...|

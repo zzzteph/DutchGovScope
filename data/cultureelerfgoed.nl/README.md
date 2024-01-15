@@ -1,12 +1,18 @@
 # cultureelerfgoed.nl
 *2024-01-14 01:51:24*
 ## Summary data
+
+
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/cultureelerfgoed.nl/subdomains.txt)|93|Alive subdomains|
 |[urls.txt](/data/cultureelerfgoed.nl/urls.txt)|77|Urls|
 |[all_subdomains.txt](/data/cultureelerfgoed.nl/all_subdomains.txt)|126|All found subdomains (history)|
+
+
 ## Statistics
+
+
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
 |[https://acc.monumentenregister.cultureelerfgoed.nl](https://acc.monumentenregister.cultureelerfgoed.nl)| || | | | | | :white_check_mark: |Basic||

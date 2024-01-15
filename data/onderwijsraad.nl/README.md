@@ -1,12 +1,18 @@
 # onderwijsraad.nl
 *2024-01-10 20:57:20*
 ## Summary data
+
+
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/onderwijsraad.nl/subdomains.txt)|12|Alive subdomains|
 |[urls.txt](/data/onderwijsraad.nl/urls.txt)|8|Urls|
 |[all_subdomains.txt](/data/onderwijsraad.nl/all_subdomains.txt)|27|All found subdomains (history)|
+
+
 ## Statistics
+
+
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
 |[https://feeds.onderwijsraad.nl](https://feeds.onderwijsraad.nl)| |nginx| |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx||

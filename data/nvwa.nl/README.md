@@ -1,12 +1,18 @@
 # nvwa.nl
 *2024-01-10 20:57:19*
 ## Summary data
+
+
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/nvwa.nl/subdomains.txt)|47|Alive subdomains|
 |[urls.txt](/data/nvwa.nl/urls.txt)|38|Urls|
 |[all_subdomains.txt](/data/nvwa.nl/all_subdomains.txt)|69|All found subdomains (history)|
+
+
 ## Statistics
+
+
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
 |[https://acc.inspectieresultaten.nvwa.nl](https://acc.inspectieresultaten.nvwa.nl)| |nginx| | | | | | :white_check_mark: |HSTS Nginx|301 Moved Perman...|

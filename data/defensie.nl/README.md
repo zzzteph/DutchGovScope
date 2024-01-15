@@ -1,12 +1,18 @@
 # defensie.nl
 *2024-01-14 02:07:46*
 ## Summary data
+
+
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/defensie.nl/subdomains.txt)|46|Alive subdomains|
 |[urls.txt](/data/defensie.nl/urls.txt)|11|Urls|
 |[all_subdomains.txt](/data/defensie.nl/all_subdomains.txt)|70|All found subdomains (history)|
+
+
 ## Statistics
+
+
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
 |[https://english.defensie.nl](https://english.defensie.nl)| $${\color{green}A+}$$ |nginx| |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Bloomreach HSTS Nginx|Ministry of Defe...|

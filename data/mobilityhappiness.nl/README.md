@@ -1,12 +1,18 @@
 # mobilityhappiness.nl
 *2024-01-11 16:13:45*
 ## Summary data
+
+
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/mobilityhappiness.nl/subdomains.txt)|6|Alive subdomains|
 |[urls.txt](/data/mobilityhappiness.nl/urls.txt)|6|Urls|
 |[all_subdomains.txt](/data/mobilityhappiness.nl/all_subdomains.txt)|6|All found subdomains (history)|
+
+
 ## Statistics
+
+
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
 |[https://development.mobilityhappiness.nl](https://development.mobilityhappiness.nl)| |nginx| | | | | | :white_check_mark: |Nginx||

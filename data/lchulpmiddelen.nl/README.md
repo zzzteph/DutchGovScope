@@ -1,12 +1,18 @@
 # lchulpmiddelen.nl
 *2024-01-14 10:47:15*
 ## Summary data
+
+
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/lchulpmiddelen.nl/subdomains.txt)|13|Alive subdomains|
 |[urls.txt](/data/lchulpmiddelen.nl/urls.txt)|13|Urls|
 |[all_subdomains.txt](/data/lchulpmiddelen.nl/all_subdomains.txt)|15|All found subdomains (history)|
+
+
 ## Statistics
+
+
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
 |[https://apps.lchulpmiddelen.nl](https://apps.lchulpmiddelen.nl)| |Microsoft-IIS/10.0|:white_check_mark: | | | | | :white_check_mark: |Azure IIS:10.0 Microsoft ASP.NET Windows Server|AppsPortalFronte...|

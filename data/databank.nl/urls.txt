@@ -137,7 +137,7 @@ https://www.amsterdam.rosopen.databank.nl
 https://test-mbotransparant.databank.nl
 https://dd.databank.nl
 https://00klimaatmonitor.databank.nl
-https://beta-adc.databank.nl
+http://beta-adc.databank.nl
 https://drenthe.databank.nl
 https://beta-velsen.databank.nl
 https://zorgimpuls.rosopen.databank.nl
@@ -226,6 +226,7 @@ https://klimaat-moni-tor.databank.nl
 https://www.seer.databank.nl
 https://pon.databank.nl
 https://ftest-prognosemodelzw.databank.nl
+https://www.hermes.databank.nl
 https://maatmonitor.databank.nl
 https://mail.databank.nl
 https://primostijdreeks.databank.nl
@@ -236,6 +237,7 @@ http://databank.nl
 https://h6.databank.nl
 https://arbeidsmarktdetailhandel.databank.nl
 https://asre.databank.nl
+https://jan.wsjg.databank.nl
 https://caransscoop.rosopen.databank.nl
 https://groups.databank.nl
 https://336afvalmonitor.databank.nl
@@ -283,7 +285,7 @@ https://httpsenergiecijfers.databank.nl
 https://httpsvue.databank.nl
 https://httpsprognosemodelzw.databank.nl
 https://httpslive-waves.databank.nl
-http://beta-klimaatbeleid.databank.nl
+https://beta-klimaatbeleid.databank.nl
 https://beta-dcmr.databank.nl
 https://frieslandsnb.databank.nl
 https://gip.databank.nl

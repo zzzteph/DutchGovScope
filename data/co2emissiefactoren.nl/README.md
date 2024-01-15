@@ -1,12 +1,18 @@
 # co2emissiefactoren.nl
 *2024-01-11 16:13:36*
 ## Summary data
+
+
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/co2emissiefactoren.nl/subdomains.txt)|6|Alive subdomains|
 |[urls.txt](/data/co2emissiefactoren.nl/urls.txt)|6|Urls|
 |[all_subdomains.txt](/data/co2emissiefactoren.nl/all_subdomains.txt)|6|All found subdomains (history)|
+
+
 ## Statistics
+
+
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
 |[https://mail.co2emissiefactoren.nl](https://mail.co2emissiefactoren.nl)| |Apache| | | | | | :white_check_mark: |Apache HTTP Server|403 Forbidden|

@@ -1,12 +1,18 @@
 # sbr-wonen.nl
 *2024-01-11 16:13:41*
 ## Summary data
+
+
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/sbr-wonen.nl/subdomains.txt)|12|Alive subdomains|
 |[urls.txt](/data/sbr-wonen.nl/urls.txt)|11|Urls|
 |[all_subdomains.txt](/data/sbr-wonen.nl/all_subdomains.txt)|14|All found subdomains (history)|
+
+
 ## Statistics
+
+
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
 |[https://definities.sbr-wonen.nl](https://definities.sbr-wonen.nl)| |nginx/1.14.0 (Ubuntu)|:white_check_mark: |:white_check_mark: |:warning: | | :white_check_mark: | :white_check_mark: |Nginx:1.14.0 Ubuntu|301 Moved Perman...|

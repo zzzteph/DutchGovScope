@@ -1,12 +1,18 @@
 # investinholland.com
 *2024-01-14 05:37:14*
 ## Summary data
+
+
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/investinholland.com/subdomains.txt)|16|Alive subdomains|
 |[urls.txt](/data/investinholland.com/urls.txt)|16|Urls|
 |[all_subdomains.txt](/data/investinholland.com/all_subdomains.txt)|22|All found subdomains (history)|
+
+
 ## Statistics
+
+
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
 |[https://bak-jp.investinholland.com](https://bak-jp.investinholland.com)| |cloudflare| | | | | | :white_check_mark: |Cloudflare|Web Server's Def...|

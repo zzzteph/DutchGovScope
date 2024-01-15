@@ -1,12 +1,18 @@
 # mobiliteitsbank.nl
 *2024-01-11 16:13:36*
 ## Summary data
+
+
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/mobiliteitsbank.nl/subdomains.txt)|10|Alive subdomains|
 |[urls.txt](/data/mobiliteitsbank.nl/urls.txt)|10|Urls|
 |[all_subdomains.txt](/data/mobiliteitsbank.nl/all_subdomains.txt)|21|All found subdomains (history)|
+
+
 ## Statistics
+
+
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
 |[https://api.mobiliteitsbank.nl](https://api.mobiliteitsbank.nl)| || |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS|Mobiliteitsbank|

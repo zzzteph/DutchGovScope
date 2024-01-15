@@ -1,12 +1,18 @@
 # owinsp.nl
 *2024-01-11 16:13:41*
 ## Summary data
+
+
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/owinsp.nl/subdomains.txt)|18|Alive subdomains|
 |[urls.txt](/data/owinsp.nl/urls.txt)|15|Urls|
 |[all_subdomains.txt](/data/owinsp.nl/all_subdomains.txt)|51|All found subdomains (history)|
+
+
 ## Statistics
+
+
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
 |[https://intern.survey.collector.owinsp.nl](https://intern.survey.collector.owinsp.nl)| |Apache| | | | | | :white_check_mark: |Apache HTTP Server|503 Service Unav...|

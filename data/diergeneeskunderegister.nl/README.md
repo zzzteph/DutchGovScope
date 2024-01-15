@@ -1,12 +1,18 @@
 # diergeneeskunderegister.nl
 *2024-01-14 02:24:09*
 ## Summary data
+
+
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/diergeneeskunderegister.nl/subdomains.txt)|15|Alive subdomains|
 |[urls.txt](/data/diergeneeskunderegister.nl/urls.txt)|12|Urls|
 |[all_subdomains.txt](/data/diergeneeskunderegister.nl/all_subdomains.txt)|35|All found subdomains (history)|
+
+
 ## Statistics
+
+
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
 |[https://acceptatie.beheer.diergeneeskunderegister.nl](https://acceptatie.beheer.diergeneeskunderegister.nl)| $${\color{green}A}$$ |-| |:white_check_mark: | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS||

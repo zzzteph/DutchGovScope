@@ -1,12 +1,18 @@
 # minez.nl
 *2024-01-10 20:57:18*
 ## Summary data
+
+
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/minez.nl/subdomains.txt)|45|Alive subdomains|
 |[urls.txt](/data/minez.nl/urls.txt)|18|Urls|
 |[all_subdomains.txt](/data/minez.nl/all_subdomains.txt)|341|All found subdomains (history)|
+
+
 ## Statistics
+
+
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
 |[https://minez.nl](https://minez.nl)| || |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |||

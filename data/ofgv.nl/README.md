@@ -1,12 +1,18 @@
 # ofgv.nl
 *2024-01-11 02:46:16*
 ## Summary data
+
+
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/ofgv.nl/subdomains.txt)|15|Alive subdomains|
 |[urls.txt](/data/ofgv.nl/urls.txt)|6|Urls|
 |[all_subdomains.txt](/data/ofgv.nl/all_subdomains.txt)|25|All found subdomains (history)|
+
+
 ## Statistics
+
+
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
 |[https://kenniscentrum.ofgv.nl](https://kenniscentrum.ofgv.nl)| |Apache/2| | | | | | :white_check_mark: |Apache HTTP Server:2|301 Moved Perman...|

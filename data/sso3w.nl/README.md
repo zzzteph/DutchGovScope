@@ -1,12 +1,18 @@
 # sso3w.nl
 *2024-01-10 20:57:23*
 ## Summary data
+
+
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/sso3w.nl/subdomains.txt)|17|Alive subdomains|
 |[urls.txt](/data/sso3w.nl/urls.txt)|17|Urls|
 |[all_subdomains.txt](/data/sso3w.nl/all_subdomains.txt)|24|All found subdomains (history)|
+
+
 ## Statistics
+
+
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
 |[https://acc.btp.sso3w.nl](https://acc.btp.sso3w.nl)| || |:white_check_mark: | | | | :white_check_mark: |HSTS||

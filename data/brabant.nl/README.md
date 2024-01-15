@@ -1,12 +1,18 @@
 # brabant.nl
 *2024-01-14 04:25:10*
 ## Summary data
+
+
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/brabant.nl/subdomains.txt)|137|Alive subdomains|
 |[urls.txt](/data/brabant.nl/urls.txt)|77|Urls|
 |[all_subdomains.txt](/data/brabant.nl/all_subdomains.txt)|227|All found subdomains (history)|
+
+
 ## Statistics
+
+
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
 |[https://www.brabant.nl](https://www.brabant.nl)| $${\color{green}A+}$$ ||:white_check_mark: |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |Google Tag Manager HSTS Microsoft ASP.NET Sitecore|Home Brabant.nl...|
@@ -49,7 +55,7 @@
 |[https://s4a.brabant.nl](https://s4a.brabant.nl)| || | | | | | :white_check_mark: ||Service cannot b...|
 |[http://detoekomstbegintnu.brabant.nl](http://detoekomstbegintnu.brabant.nl)| |Apache/2.4.58 (IUS) mod_fcgid/2.3.9| | | | | | :white_check_mark: |Apache HTTP Server:2.4.58|This site has be...|
 |[http://atlas-acpt.brabant.nl](http://atlas-acpt.brabant.nl)| |BigIP| | | | | | :white_check_mark: |F5 BigIP||
-|[https://bzv.brabant.nl](https://bzv.brabant.nl)| $${\color{lightgreen}B}$$ |Microsoft-IIS/10.0|:warning: |:white_check_mark: | | :white_check_mark: | | :white_check_mark: |HSTS IIS:10.0 Microsoft ASP.NET Windows Server||
+|[https://bzv.brabant.nl](https://bzv.brabant.nl)| $${\color{lightgreen}B}$$ |Microsoft-IIS/10.0|:warning: |:white_check_mark: | | :white_check_mark: | | :white_check_mark: |HSTS IIS:10.0 Microsoft ASP.NET:4.0.30319 Windows Server||
 |[https://psarchief.brabant.nl](https://psarchief.brabant.nl)| |Apache| | | | | | :white_check_mark: |Apache HTTP Server|GO. Server|
 |[https://www.wegen.brabant.nl](https://www.wegen.brabant.nl)| || | | | | | :white_check_mark: ||Document Moved|
 |[https://brains-acc.brabant.nl](https://brains-acc.brabant.nl)| $${\color{green}A+}$$ |Apache|:white_check_mark: |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |Apache HTTP Server HSTS||
@@ -73,7 +79,7 @@
 |[https://geoportaal.brabant.nl](https://geoportaal.brabant.nl)| |Microsoft-IIS/10.0| | | | | | :white_check_mark: |IIS:10.0 Microsoft ASP.NET Windows Server|IIS Windows Serv...|
 |[https://bevolkingsprognose.brabant.nl](https://bevolkingsprognose.brabant.nl)| $${\color{green}A}$$ |Apache| |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |Apache HTTP Server HSTS|De bevolkings- e...|
 |[https://werkenvoor.brabant.nl](https://werkenvoor.brabant.nl)| $${\color{green}A+}$$ ||:white_check_mark: |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Microsoft ASP.NET|Werken bij de pr...|
-|[http://api-acpt.brabant.nl](http://api-acpt.brabant.nl)| $${\color{green}A}$$ |BigIP|:warning: | | | :white_check_mark: | | :white_check_mark: |F5 BigIP||
+|[https://api-acpt.brabant.nl](https://api-acpt.brabant.nl)| $${\color{green}A}$$ |BigIP|:warning: | | | :white_check_mark: | | :white_check_mark: |F5 BigIP||
 |[https://esb.brabant.nl](https://esb.brabant.nl)| $${\color{green}A}$$ |BigIP| | | | | | :white_check_mark: |F5 BigIP|The page cannot...|
 |[https://opendata.brabant.nl](https://opendata.brabant.nl)| $${\color{green}A}$$ |BigIP| |:white_check_mark: | :white_check_mark:| | | :white_check_mark: |F5 BigIP||
 |[https://brains.brabant.nl](https://brains.brabant.nl)| $${\color{green}A+}$$ |Apache|:white_check_mark: |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |Apache HTTP Server HSTS||
@@ -81,7 +87,7 @@
 |[https://bevolkingsprognose2020.brabant.nl](https://bevolkingsprognose2020.brabant.nl)| $${\color{green}A}$$ |Apache| |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |Apache HTTP Server Drupal:7 HSTS PHP|De bevolkings- e...|
 |[https://app.brabant.nl](https://app.brabant.nl)| $${\color{green}A}$$ |LiteSpeed| | | | | | :white_check_mark: |HTTP/3 LiteSpeed||
 |[https://mik-acpt.brabant.nl](https://mik-acpt.brabant.nl)| $${\color{green}A+}$$ || |:white_check_mark: | | | | :white_check_mark: |HSTS|Page Redirection|
-|[http://bzv-a.brabant.nl](http://bzv-a.brabant.nl)| $${\color{lightgreen}B}$$ |Microsoft-IIS/10.0| | | | | | :white_check_mark: |IIS:10.0 Microsoft ASP.NET Windows Server|403 - Forbidden:...|
+|[https://bzv-a.brabant.nl](https://bzv-a.brabant.nl)| $${\color{lightgreen}B}$$ |Microsoft-IIS/10.0|:warning: |:white_check_mark: | | :white_check_mark: | | :white_check_mark: |HSTS IIS:10.0 Microsoft ASP.NET:4.0.30319 Windows Server||
 |[https://geoportaal-acceptatie.brabant.nl](https://geoportaal-acceptatie.brabant.nl)| |Microsoft-Azure-Application-Gateway/v2| | | | | | :white_check_mark: ||502 Bad Gateway|
 |[http://informatie-rws.brabant.nl](http://informatie-rws.brabant.nl)| |BigIP| | | | | | :white_check_mark: |F5 BigIP||
 |[https://digicheck.brabant.nl](https://digicheck.brabant.nl)| $${\color{lightgreen}B}$$ || | | | | | :white_check_mark: |Microsoft ASP.NET||

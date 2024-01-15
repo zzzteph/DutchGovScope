@@ -1,12 +1,18 @@
 # collegevanrijksadviseurs.nl
 *2024-01-14 01:20:11*
 ## Summary data
+
+
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/collegevanrijksadviseurs.nl/subdomains.txt)|8|Alive subdomains|
 |[urls.txt](/data/collegevanrijksadviseurs.nl/urls.txt)|7|Urls|
 |[all_subdomains.txt](/data/collegevanrijksadviseurs.nl/all_subdomains.txt)|12|All found subdomains (history)|
+
+
 ## Statistics
+
+
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
 |[https://english.collegevanrijksadviseurs.nl](https://english.collegevanrijksadviseurs.nl)| $${\color{green}A+}$$ |nginx| |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Bloomreach HSTS Nginx|Home | Board of...|

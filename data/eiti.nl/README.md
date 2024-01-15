@@ -1,12 +1,18 @@
 # eiti.nl
 *2024-01-14 03:37:13*
 ## Summary data
+
+
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/eiti.nl/subdomains.txt)|5|Alive subdomains|
 |[urls.txt](/data/eiti.nl/urls.txt)|5|Urls|
 |[all_subdomains.txt](/data/eiti.nl/all_subdomains.txt)|5|All found subdomains (history)|
+
+
 ## Statistics
+
+
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
 |[https://feeds.eiti.nl](https://feeds.eiti.nl)| $${\color{green}A+}$$ |nginx| |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx||

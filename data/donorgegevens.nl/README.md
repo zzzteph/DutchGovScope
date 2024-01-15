@@ -1,12 +1,18 @@
 # donorgegevens.nl
 *2024-01-14 03:03:11*
 ## Summary data
+
+
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/donorgegevens.nl/subdomains.txt)|14|Alive subdomains|
 |[urls.txt](/data/donorgegevens.nl/urls.txt)|10|Urls|
-|[all_subdomains.txt](/data/donorgegevens.nl/all_subdomains.txt)|35|All found subdomains (history)|
+|[all_subdomains.txt](/data/donorgegevens.nl/all_subdomains.txt)|36|All found subdomains (history)|
+
+
 ## Statistics
+
+
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
 |[https://aanvraag.donorgegevens.nl](https://aanvraag.donorgegevens.nl)| $${\color{green}A}$$ |-| |:white_check_mark: | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS|Donorgegevens aa...|

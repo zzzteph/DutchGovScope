@@ -1,12 +1,18 @@
 # ndw.nu
 *2024-01-10 20:57:18*
 ## Summary data
+
+
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/ndw.nu/subdomains.txt)|73|Alive subdomains|
 |[urls.txt](/data/ndw.nu/urls.txt)|71|Urls|
 |[all_subdomains.txt](/data/ndw.nu/all_subdomains.txt)|96|All found subdomains (history)|
+
+
 ## Statistics
+
+
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
 |[https://auth.ndw.nu](https://auth.ndw.nu)| |Microsoft-Azure-Application-Gateway/v2| | | | | | :white_check_mark: ||404 Not Found|

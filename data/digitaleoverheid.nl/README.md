@@ -1,12 +1,18 @@
 # digitaleoverheid.nl
 *2024-01-11 16:13:36*
 ## Summary data
+
+
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/digitaleoverheid.nl/subdomains.txt)|5|Alive subdomains|
 |[urls.txt](/data/digitaleoverheid.nl/urls.txt)|4|Urls|
 |[all_subdomains.txt](/data/digitaleoverheid.nl/all_subdomains.txt)|8|All found subdomains (history)|
+
+
 ## Statistics
+
+
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
 |[https://accept.digitaleoverheid.nl](https://accept.digitaleoverheid.nl)| |nginx| |:white_check_mark: | | | | :white_check_mark: |Basic HSTS Nginx|401 Authorizatio...|

@@ -1,12 +1,18 @@
 # eerstekamer.nl
 *2024-01-14 03:29:10*
 ## Summary data
+
+
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/eerstekamer.nl/subdomains.txt)|21|Alive subdomains|
 |[urls.txt](/data/eerstekamer.nl/urls.txt)|13|Urls|
 |[all_subdomains.txt](/data/eerstekamer.nl/all_subdomains.txt)|32|All found subdomains (history)|
+
+
 ## Statistics
+
+
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
 |[https://api.eerstekamer.nl](https://api.eerstekamer.nl)| || |:white_check_mark: | | | :white_check_mark: | :white_check_mark: |HSTS|Not Found|

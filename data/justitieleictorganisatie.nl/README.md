@@ -1,12 +1,18 @@
 # justitieleictorganisatie.nl
 *2024-01-14 05:59:15*
 ## Summary data
+
+
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/justitieleictorganisatie.nl/subdomains.txt)|7|Alive subdomains|
 |[urls.txt](/data/justitieleictorganisatie.nl/urls.txt)|7|Urls|
 |[all_subdomains.txt](/data/justitieleictorganisatie.nl/all_subdomains.txt)|7|All found subdomains (history)|
+
+
 ## Statistics
+
+
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
 |[https://connect-acpt.justitieleictorganisatie.nl](https://connect-acpt.justitieleictorganisatie.nl)| || |:white_check_mark: | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS||

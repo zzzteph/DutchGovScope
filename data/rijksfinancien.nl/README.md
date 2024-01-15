@@ -1,12 +1,18 @@
 # rijksfinancien.nl
 *2024-01-11 16:13:41*
 ## Summary data
+
+
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/rijksfinancien.nl/subdomains.txt)|10|Alive subdomains|
 |[urls.txt](/data/rijksfinancien.nl/urls.txt)|7|Urls|
 |[all_subdomains.txt](/data/rijksfinancien.nl/all_subdomains.txt)|26|All found subdomains (history)|
+
+
 ## Statistics
+
+
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
 |[https://archief.rijksfinancien.nl](https://archief.rijksfinancien.nl)| || |:white_check_mark: | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: |Bootstrap Drupal HSTS PHP|Welkom | Rijksfi...|

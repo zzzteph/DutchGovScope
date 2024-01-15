@@ -1,12 +1,18 @@
 # forumstandaardisatie.nl
 *2024-01-11 16:13:36*
 ## Summary data
+
+
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/forumstandaardisatie.nl/subdomains.txt)|8|Alive subdomains|
 |[urls.txt](/data/forumstandaardisatie.nl/urls.txt)|6|Urls|
 |[all_subdomains.txt](/data/forumstandaardisatie.nl/all_subdomains.txt)|26|All found subdomains (history)|
+
+
 ## Statistics
+
+
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
 |[https://acc-dictu.forumstandaardisatie.nl](https://acc-dictu.forumstandaardisatie.nl)| |nginx| | | | | | :white_check_mark: |Basic Nginx|401 Authorizatio...|

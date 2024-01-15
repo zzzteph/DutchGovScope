@@ -1,12 +1,18 @@
 # dienstterugkeerenvertrek.nl
 *2024-01-14 02:21:06*
 ## Summary data
+
+
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/dienstterugkeerenvertrek.nl/subdomains.txt)|9|Alive subdomains|
 |[urls.txt](/data/dienstterugkeerenvertrek.nl/urls.txt)|8|Urls|
 |[all_subdomains.txt](/data/dienstterugkeerenvertrek.nl/all_subdomains.txt)|10|All found subdomains (history)|
+
+
 ## Statistics
+
+
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
 |[https://english.dienstterugkeerenvertrek.nl](https://english.dienstterugkeerenvertrek.nl)| $${\color{green}A+}$$ |nginx| |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Bloomreach HSTS Nginx|Home | Repatriat...|

@@ -1,12 +1,18 @@
 # schoolleidersregisterpo.nl
 *2024-01-10 20:57:23*
 ## Summary data
+
+
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/schoolleidersregisterpo.nl/subdomains.txt)|10|Alive subdomains|
 |[urls.txt](/data/schoolleidersregisterpo.nl/urls.txt)|7|Urls|
 |[all_subdomains.txt](/data/schoolleidersregisterpo.nl/all_subdomains.txt)|29|All found subdomains (history)|
+
+
 ## Statistics
+
+
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
 |[https://betalen.schoolleidersregisterpo.nl](https://betalen.schoolleidersregisterpo.nl)| |nginx| | | | | | :white_check_mark: |Nginx|503 Service Temp...|

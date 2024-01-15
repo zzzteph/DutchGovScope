@@ -1,12 +1,18 @@
 # mensenrechten.nl
 *2024-01-10 20:57:17*
 ## Summary data
+
+
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/mensenrechten.nl/subdomains.txt)|22|Alive subdomains|
 |[urls.txt](/data/mensenrechten.nl/urls.txt)|14|Urls|
 |[all_subdomains.txt](/data/mensenrechten.nl/all_subdomains.txt)|33|All found subdomains (history)|
+
+
 ## Statistics
+
+
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
 |[https://klachtenformulierlink.mensenrechten.nl](https://klachtenformulierlink.mensenrechten.nl)| || |:white_check_mark: | :white_check_mark:| :white_check_mark: | | :white_check_mark: |HSTS|SMTP2GO|

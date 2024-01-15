@@ -1,12 +1,18 @@
 # nationaalcoordinatorgroningen.nl
 *2024-01-10 20:57:18*
 ## Summary data
+
+
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/nationaalcoordinatorgroningen.nl/subdomains.txt)|17|Alive subdomains|
 |[urls.txt](/data/nationaalcoordinatorgroningen.nl/urls.txt)|11|Urls|
 |[all_subdomains.txt](/data/nationaalcoordinatorgroningen.nl/all_subdomains.txt)|29|All found subdomains (history)|
+
+
 ## Statistics
+
+
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
 |[https://aip.nationaalcoordinatorgroningen.nl](https://aip.nationaalcoordinatorgroningen.nl)| || | | | | | :white_check_mark: |HSTS|Document Moved|

@@ -1,12 +1,18 @@
 # ceg.nl
 *2024-01-14 00:59:14*
 ## Summary data
+
+
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/ceg.nl/subdomains.txt)|10|Alive subdomains|
 |[urls.txt](/data/ceg.nl/urls.txt)|10|Urls|
 |[all_subdomains.txt](/data/ceg.nl/all_subdomains.txt)|22|All found subdomains (history)|
+
+
 ## Statistics
+
+
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
 |[https://ceg.nl](https://ceg.nl)| $${\color{green}A+}$$ |nginx| |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx|301 Moved Perman...|

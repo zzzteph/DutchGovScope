@@ -1,12 +1,18 @@
 # cultuur.nl
 *2024-01-11 15:51:23*
 ## Summary data
+
+
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/cultuur.nl/subdomains.txt)|12|Alive subdomains|
 |[urls.txt](/data/cultuur.nl/urls.txt)|10|Urls|
 |[all_subdomains.txt](/data/cultuur.nl/all_subdomains.txt)|43|All found subdomains (history)|
+
+
 ## Statistics
+
+
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
 |[https://bis2021-2024.cultuur.nl](https://bis2021-2024.cultuur.nl)| |Apache/2| | | | | | :white_check_mark: |Apache HTTP Server:2 MySQL PHP:7.3.33 WordPress|bis2021-2024 – E...|

@@ -16,6 +16,10 @@ Process for updating this repository is thorough and regular. Here's an overview
       - **DNS Clearout:** This step is dedicated to filtering and clarifying DNS data.
       - **URL Collection:** Httpx is used for further data processing and refinement.
       - **SSL Analysis:** Lastly, we apply the SSLLabs API to assess SSL configurations and grades.
+
+
+
+
 This structured approach ensures that our repository is always up-to-date and accurately reflects the current digital landscape of the Dutch government.
 In the [`data/`](/data) directory, there's an analysis of security configurations for various resources, including the following information:
  - **URL**
@@ -29,63 +33,65 @@ In the [`data/`](/data) directory, there's an analysis of security configuration
  - **RP:** :white_check_mark: if *Referrer-Policy* header is set
 ## Repository Structure
  - [domains.txt](/domains.txt): List of all domains in scope
- - [subdomains.txt](/subdomains.txt): Detailed list of **16243** alive subdomains.
- - [urls.txt](/urls.txt): Compilation of **10028** URLs.
- - [all_subdomains.txt](/all_subdomains.txt): All **32151** subdomains that were found all over the time 
+ - [subdomains.txt](/subdomains.txt): Detailed list of **16298** alive subdomains.
+ - [urls.txt](/urls.txt): Compilation of **10025** URLs.
+ - [all_subdomains.txt](/all_subdomains.txt): All **32182** subdomains that were found all over the time 
  - [data/](/data): Folder containing daily updated analysis for every domain.
 ## Links and acknowledgements
  - [basisbeveiliging.nl](https://basisbeveiliging.nl/) \- *How well the Dutch government implements basic security requirements with great security map!*
  - [overheid.nl](https://www.overheid.nl/english/dutch-government-websites)
- - [https://gist.github.com/random-robbie/f985ad14fede2c04ac82dd89653f52ad](https://https://gist.github.com/random-robbie/f985ad14fede2c04ac82dd89653f52ad)
- - [https://www.communicatierijk.nl/vakkennis/r/rijkswebsites/verplichte-richtlijnen/websiteregister-rijksoverheid](https://www.communicatierijk.nl/vakkennis/r/rijkswebsites/verplichte-richtlijnen/websiteregister-rijksoverheid)
+ - [gist.github.com/random-robbie/f985ad14fede2c04ac82dd89653f52ad](https://https://gist.github.com/random-robbie/f985ad14fede2c04ac82dd89653f52ad)
+ - [communicatierijk.nl/vakkennis/r/rijkswebsites/verplichte-richtlijnen/websiteregister-rijksoverheid](https://www.communicatierijk.nl/vakkennis/r/rijkswebsites/verplichte-richtlijnen/websiteregister-rijksoverheid)
  - [ncsc.nl](https://www.ncsc.nl/contact/kwetsbaarheid-melden/cvd-meldingen-formulier)
  - [shrewdeye.app](https://shrewdeye.app)
  - [https://www.ssllabs.com/ssltest/](https://www.ssllabs.com/ssltest/)
 ## Key Statistics
 
 
+
+
 ### SSL Grades
 Analysys and grade statistics of SSL configuration with [https://www.ssllabs.com/ssltest/](https://www.ssllabs.com/ssltest/)
 |$${\color{green}A}$$|$${\color{lightgreen}B}$$|$${\color{orange}C/D}$$|$${\color{red}E/F}$$|
 |---|---|---|---|
- |1156|61|0|9|
+ |1157|61|0|10|
 
 
 ### Cookies Security Flags
 Cookies play a crucial role in web security and with special flag attributes security could enhance cookie of customers very much:
- - **HttpOnly (1392):** Helps mitigate the risk of client-side script accessing the protected cookie.
- - **Secure (1398):** Ensures cookies are sent over secure, HTTPS connections.**
+ - **HttpOnly (1399):** Helps mitigate the risk of client-side script accessing the protected cookie.
+ - **Secure (1405):** Ensures cookies are sent over secure, HTTPS connections.**
  - **Same-Site (24):** Prevents the browser from sending this cookie along with cross-site requests.
 
 
 ### Top 5 server headers
- - nginx \- **3080**
- - Microsoft-IIS/10.0 \- **984**
- - Apache \- **861**
- - BigIP \- **151**
- - Microsoft-HTTPAPI/2.0 \- **134**
+ - nginx \- **3079**
+ - Microsoft-IIS/10.0 \- **990**
+ - Apache \- **860**
+ - BigIP \- **150**
+ - Microsoft-HTTPAPI/2.0 \- **135**
  - Apache/2 \- **119**
 
 
 ### Most 20 widespread tech
-- HSTS \- **7431** 
-- Nginx \- **3225** 
-- Server \- **2127** 
-- Microsoft \- **1255** 
-- Apache \- **1201** 
-- ASP.NET \- **1115** 
-- HTTP \- **1088** 
-- Windows \- **1030** 
-- IIS \- **1029** 
-- PHP \- **553** 
+- HSTS \- **7465** 
+- Nginx \- **3230** 
+- Server \- **2132** 
+- Microsoft \- **1263** 
+- Apache \- **1199** 
+- ASP.NET \- **1122** 
+- HTTP \- **1087** 
+- Windows \- **1036** 
+- IIS \- **1035** 
+- PHP \- **550** 
 - Bloomreach \- **477** 
-- Amazon \- **334** 
-- Azure \- **284** 
-- Basic \- **271** 
+- Amazon \- **338** 
+- Azure \- **285** 
+- Basic \- **273** 
 - Drupal \- **233** 
-- Java \- **233** 
-- Bootstrap \- **211** 
-- F5 \- **188** 
-- BigIP \- **188** 
-- Web \- **158** 
-- Services \- **158** 
+- Java \- **231** 
+- Bootstrap \- **207** 
+- F5 \- **187** 
+- BigIP \- **187** 
+- Web \- **160** 
+- Services \- **160** 

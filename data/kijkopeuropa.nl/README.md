@@ -1,12 +1,18 @@
 # kijkopeuropa.nl
 *2024-01-14 06:08:23*
 ## Summary data
+
+
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/kijkopeuropa.nl/subdomains.txt)|7|Alive subdomains|
 |[urls.txt](/data/kijkopeuropa.nl/urls.txt)|7|Urls|
 |[all_subdomains.txt](/data/kijkopeuropa.nl/all_subdomains.txt)|7|All found subdomains (history)|
+
+
 ## Statistics
+
+
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
 |[https://feeds.kijkopeuropa.nl](https://feeds.kijkopeuropa.nl)| |nginx| |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx||

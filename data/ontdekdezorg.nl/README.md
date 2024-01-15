@@ -1,12 +1,18 @@
 # ontdekdezorg.nl
 *2024-01-11 16:13:36*
 ## Summary data
+
+
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/ontdekdezorg.nl/subdomains.txt)|9|Alive subdomains|
 |[urls.txt](/data/ontdekdezorg.nl/urls.txt)|7|Urls|
 |[all_subdomains.txt](/data/ontdekdezorg.nl/all_subdomains.txt)|11|All found subdomains (history)|
+
+
 ## Statistics
+
+
 | Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
 |------------|-------|------|------|------|------|------|------|------|------|------|
 |[https://mail.ontdekdezorg.nl](https://mail.ontdekdezorg.nl)| |Apache/2| | | | | | :white_check_mark: |Apache HTTP Server:2|301 Moved Perman...|
