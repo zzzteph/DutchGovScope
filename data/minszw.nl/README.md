@@ -1,3 +1,9 @@
+---
+layout: dutchgov
+permalink: /dutchgov/minszw.nl.html
+---
+
+
 # minszw.nl
 *2024-01-10 20:57:18*
 ## Summary data

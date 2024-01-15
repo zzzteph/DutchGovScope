@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "steunpuntcoronazorgen.nl"
-internal_url:  "/data/steunpuntcoronazorgen.nl.html"
+internal_url:  "/dutchgov/steunpuntcoronazorgen.nl.html"
 categories: dutchgov
 ---

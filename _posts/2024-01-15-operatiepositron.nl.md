@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "operatiepositron.nl"
-internal_url:  "/data/operatiepositron.nl.html"
+internal_url:  "/dutchgov/operatiepositron.nl.html"
 categories: dutchgov
 ---

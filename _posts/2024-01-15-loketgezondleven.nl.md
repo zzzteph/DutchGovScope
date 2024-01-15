@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "loketgezondleven.nl"
-internal_url:  "/data/loketgezondleven.nl.html"
+internal_url:  "/dutchgov/loketgezondleven.nl.html"
 categories: dutchgov
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "rijkswaterstaatstrooit.nl"
-internal_url:  "/data/rijkswaterstaatstrooit.nl.html"
+internal_url:  "/dutchgov/rijkswaterstaatstrooit.nl.html"
 categories: dutchgov
 ---

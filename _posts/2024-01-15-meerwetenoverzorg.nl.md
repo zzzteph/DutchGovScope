@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "meerwetenoverzorg.nl"
-internal_url:  "/data/meerwetenoverzorg.nl.html"
+internal_url:  "/dutchgov/meerwetenoverzorg.nl.html"
 categories: dutchgov
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "agroforestrynetwerk.nl"
-internal_url:  "/data/agroforestrynetwerk.nl.html"
+internal_url:  "/dutchgov/agroforestrynetwerk.nl.html"
 categories: dutchgov
 ---

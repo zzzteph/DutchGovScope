@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "dictumagazines.nl"
-internal_url:  "/data/dictumagazines.nl.html"
+internal_url:  "/dutchgov/dictumagazines.nl.html"
 categories: dutchgov
 ---

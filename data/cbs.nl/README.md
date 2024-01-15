@@ -1,3 +1,9 @@
+---
+layout: dutchgov
+permalink: /dutchgov/cbs.nl.html
+---
+
+
 # cbs.nl
 *2024-01-14 08:47:33*
 ## Summary data

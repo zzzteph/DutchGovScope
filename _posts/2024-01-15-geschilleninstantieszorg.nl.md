@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "geschilleninstantieszorg.nl"
-internal_url:  "/data/geschilleninstantieszorg.nl.html"
+internal_url:  "/dutchgov/geschilleninstantieszorg.nl.html"
 categories: dutchgov
 ---

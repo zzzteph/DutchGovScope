@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "jeugdzorgcn.nl"
-internal_url:  "/data/jeugdzorgcn.nl.html"
+internal_url:  "/dutchgov/jeugdzorgcn.nl.html"
 categories: dutchgov
 ---

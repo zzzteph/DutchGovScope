@@ -1,3 +1,9 @@
+---
+layout: dutchgov
+permalink: /dutchgov/energieoprijksgrond.nl.html
+---
+
+
 # energieoprijksgrond.nl
 *2024-01-11 16:13:38*
 ## Summary data

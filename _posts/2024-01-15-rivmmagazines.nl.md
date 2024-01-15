@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "rivmmagazines.nl"
-internal_url:  "/data/rivmmagazines.nl.html"
+internal_url:  "/dutchgov/rivmmagazines.nl.html"
 categories: dutchgov
 ---

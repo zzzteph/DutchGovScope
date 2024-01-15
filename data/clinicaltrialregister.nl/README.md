@@ -1,3 +1,9 @@
+---
+layout: dutchgov
+permalink: /dutchgov/clinicaltrialregister.nl.html
+---
+
+
 # clinicaltrialregister.nl
 *2024-01-11 16:13:40*
 ## Summary data

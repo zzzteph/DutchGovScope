@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "adviescollegeicttoetsing.nl"
-internal_url:  "/data/adviescollegeicttoetsing.nl.html"
+internal_url:  "/dutchgov/adviescollegeicttoetsing.nl.html"
 categories: dutchgov
 ---

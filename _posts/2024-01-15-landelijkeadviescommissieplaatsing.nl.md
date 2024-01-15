@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "landelijkeadviescommissieplaatsing.nl"
-internal_url:  "/data/landelijkeadviescommissieplaatsing.nl.html"
+internal_url:  "/dutchgov/landelijkeadviescommissieplaatsing.nl.html"
 categories: dutchgov
 ---

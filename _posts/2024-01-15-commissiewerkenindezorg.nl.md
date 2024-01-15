@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "commissiewerkenindezorg.nl"
-internal_url:  "/data/commissiewerkenindezorg.nl.html"
+internal_url:  "/dutchgov/commissiewerkenindezorg.nl.html"
 categories: dutchgov
 ---

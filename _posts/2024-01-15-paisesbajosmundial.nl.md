@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "paisesbajosmundial.nl"
-internal_url:  "/data/paisesbajosmundial.nl.html"
+internal_url:  "/dutchgov/paisesbajosmundial.nl.html"
 categories: dutchgov
 ---

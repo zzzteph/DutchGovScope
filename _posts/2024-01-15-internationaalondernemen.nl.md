@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "internationaalondernemen.nl"
-internal_url:  "/data/internationaalondernemen.nl.html"
+internal_url:  "/dutchgov/internationaalondernemen.nl.html"
 categories: dutchgov
 ---

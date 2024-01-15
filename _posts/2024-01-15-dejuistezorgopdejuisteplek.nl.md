@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "dejuistezorgopdejuisteplek.nl"
-internal_url:  "/data/dejuistezorgopdejuisteplek.nl.html"
+internal_url:  "/dutchgov/dejuistezorgopdejuisteplek.nl.html"
 categories: dutchgov
 ---

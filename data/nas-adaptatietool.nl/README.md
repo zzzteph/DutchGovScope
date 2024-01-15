@@ -1,3 +1,9 @@
+---
+layout: dutchgov
+permalink: /dutchgov/nas-adaptatietool.nl.html
+---
+
+
 # nas-adaptatietool.nl
 *2024-01-11 16:13:40*
 ## Summary data

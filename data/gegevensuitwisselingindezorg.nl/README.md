@@ -1,3 +1,9 @@
+---
+layout: dutchgov
+permalink: /dutchgov/gegevensuitwisselingindezorg.nl.html
+---
+
+
 # gegevensuitwisselingindezorg.nl
 *2024-01-14 04:18:08*
 ## Summary data

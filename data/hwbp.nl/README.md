@@ -1,3 +1,9 @@
+---
+layout: dutchgov
+permalink: /dutchgov/hwbp.nl.html
+---
+
+
 # hwbp.nl
 *2024-01-14 04:55:34*
 ## Summary data

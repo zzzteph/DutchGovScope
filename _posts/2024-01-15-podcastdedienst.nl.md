@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "podcastdedienst.nl"
-internal_url:  "/data/podcastdedienst.nl.html"
+internal_url:  "/dutchgov/podcastdedienst.nl.html"
 categories: dutchgov
 ---

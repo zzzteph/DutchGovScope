@@ -1,3 +1,9 @@
+---
+layout: dutchgov
+permalink: /dutchgov/hansken.nl.html
+---
+
+
 # hansken.nl
 *2024-01-14 04:37:14*
 ## Summary data

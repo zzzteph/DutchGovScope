@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "bronhouderportaal-bro.nl"
-internal_url:  "/data/bronhouderportaal-bro.nl.html"
+internal_url:  "/dutchgov/bronhouderportaal-bro.nl.html"
 categories: dutchgov
 ---

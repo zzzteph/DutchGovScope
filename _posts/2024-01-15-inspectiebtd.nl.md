@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "inspectiebtd.nl"
-internal_url:  "/data/inspectiebtd.nl.html"
+internal_url:  "/dutchgov/inspectiebtd.nl.html"
 categories: dutchgov
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "rwseconomie.nl"
-internal_url:  "/data/rwseconomie.nl.html"
+internal_url:  "/dutchgov/rwseconomie.nl.html"
 categories: dutchgov
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "knooppuntjoure.nl"
-internal_url:  "/data/knooppuntjoure.nl.html"
+internal_url:  "/dutchgov/knooppuntjoure.nl.html"
 categories: dutchgov
 ---

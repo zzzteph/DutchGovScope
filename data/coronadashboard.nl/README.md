@@ -1,3 +1,9 @@
+---
+layout: dutchgov
+permalink: /dutchgov/coronadashboard.nl.html
+---
+
+
 # coronadashboard.nl
 *2024-01-11 06:27:29*
 ## Summary data

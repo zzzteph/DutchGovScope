@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "tegenondermijnendecriminaliteit.nl"
-internal_url:  "/data/tegenondermijnendecriminaliteit.nl.html"
+internal_url:  "/dutchgov/tegenondermijnendecriminaliteit.nl.html"
 categories: dutchgov
 ---

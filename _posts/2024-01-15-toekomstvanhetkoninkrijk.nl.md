@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "toekomstvanhetkoninkrijk.nl"
-internal_url:  "/data/toekomstvanhetkoninkrijk.nl.html"
+internal_url:  "/dutchgov/toekomstvanhetkoninkrijk.nl.html"
 categories: dutchgov
 ---

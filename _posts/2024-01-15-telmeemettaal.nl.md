@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "telmeemettaal.nl"
-internal_url:  "/data/telmeemettaal.nl.html"
+internal_url:  "/dutchgov/telmeemettaal.nl.html"
 categories: dutchgov
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "makingvitalityreality.nl"
-internal_url:  "/data/makingvitalityreality.nl.html"
+internal_url:  "/dutchgov/makingvitalityreality.nl.html"
 categories: dutchgov
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "krmrapportagetool.nl"
-internal_url:  "/data/krmrapportagetool.nl.html"
+internal_url:  "/dutchgov/krmrapportagetool.nl.html"
 categories: dutchgov
 ---

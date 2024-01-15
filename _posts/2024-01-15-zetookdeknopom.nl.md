@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "zetookdeknopom.nl"
-internal_url:  "/data/zetookdeknopom.nl.html"
+internal_url:  "/dutchgov/zetookdeknopom.nl.html"
 categories: dutchgov
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "kikstarter.nl"
-internal_url:  "/data/kikstarter.nl.html"
+internal_url:  "/dutchgov/kikstarter.nl.html"
 categories: dutchgov
 ---

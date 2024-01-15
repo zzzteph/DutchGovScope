@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "vaccinatieregeling.nl"
-internal_url:  "/data/vaccinatieregeling.nl.html"
+internal_url:  "/dutchgov/vaccinatieregeling.nl.html"
 categories: dutchgov
 ---

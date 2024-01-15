@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "stagefondszorg.nl"
-internal_url:  "/data/stagefondszorg.nl.html"
+internal_url:  "/dutchgov/stagefondszorg.nl.html"
 categories: dutchgov
 ---

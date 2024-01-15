@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "schoolleidersregister.nl"
-internal_url:  "/data/schoolleidersregister.nl.html"
+internal_url:  "/dutchgov/schoolleidersregister.nl.html"
 categories: dutchgov
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "verhalenoverdeoorlog.nl"
-internal_url:  "/data/verhalenoverdeoorlog.nl.html"
+internal_url:  "/dutchgov/verhalenoverdeoorlog.nl.html"
 categories: dutchgov
 ---

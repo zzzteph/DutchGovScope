@@ -1,3 +1,9 @@
+---
+layout: dutchgov
+permalink: /dutchgov/defensie.nl.html
+---
+
+
 # defensie.nl
 *2024-01-14 02:07:46*
 ## Summary data

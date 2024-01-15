@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "rijksinnovatiecommunity.nl"
-internal_url:  "/data/rijksinnovatiecommunity.nl.html"
+internal_url:  "/dutchgov/rijksinnovatiecommunity.nl.html"
 categories: dutchgov
 ---

@@ -1,3 +1,9 @@
+---
+layout: dutchgov
+permalink: /dutchgov/acict.nl.html
+---
+
+
 # acict.nl
 *2024-01-11 02:10:38*
 ## Summary data

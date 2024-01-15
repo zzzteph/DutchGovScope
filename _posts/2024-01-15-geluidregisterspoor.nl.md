@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "geluidregisterspoor.nl"
-internal_url:  "/data/geluidregisterspoor.nl.html"
+internal_url:  "/dutchgov/geluidregisterspoor.nl.html"
 categories: dutchgov
 ---

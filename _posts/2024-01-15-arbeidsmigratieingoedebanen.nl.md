@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "arbeidsmigratieingoedebanen.nl"
-internal_url:  "/data/arbeidsmigratieingoedebanen.nl.html"
+internal_url:  "/dutchgov/arbeidsmigratieingoedebanen.nl.html"
 categories: dutchgov
 ---

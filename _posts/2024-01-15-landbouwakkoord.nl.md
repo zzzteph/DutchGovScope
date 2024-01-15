@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "landbouwakkoord.nl"
-internal_url:  "/data/landbouwakkoord.nl.html"
+internal_url:  "/dutchgov/landbouwakkoord.nl.html"
 categories: dutchgov
 ---

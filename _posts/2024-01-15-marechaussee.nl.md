@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "marechaussee.nl"
-internal_url:  "/data/marechaussee.nl.html"
+internal_url:  "/dutchgov/marechaussee.nl.html"
 categories: dutchgov
 ---

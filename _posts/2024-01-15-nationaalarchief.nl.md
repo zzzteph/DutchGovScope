@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "nationaalarchief.nl"
-internal_url:  "/data/nationaalarchief.nl.html"
+internal_url:  "/dutchgov/nationaalarchief.nl.html"
 categories: dutchgov
 ---

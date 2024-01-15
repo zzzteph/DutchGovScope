@@ -1,3 +1,9 @@
+---
+layout: dutchgov
+permalink: /dutchgov/higherlevel.nl.html
+---
+
+
 # higherlevel.nl
 *2024-01-14 04:43:09*
 ## Summary data

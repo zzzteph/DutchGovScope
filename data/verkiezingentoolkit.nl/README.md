@@ -1,3 +1,9 @@
+---
+layout: dutchgov
+permalink: /dutchgov/verkiezingentoolkit.nl.html
+---
+
+
 # verkiezingentoolkit.nl
 *2024-01-10 20:57:25*
 ## Summary data

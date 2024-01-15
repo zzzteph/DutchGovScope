@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "websiteregisterrijksoverheid.nl"
-internal_url:  "/data/websiteregisterrijksoverheid.nl.html"
+internal_url:  "/dutchgov/websiteregisterrijksoverheid.nl.html"
 categories: dutchgov
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "gatewayreview.nl"
-internal_url:  "/data/gatewayreview.nl.html"
+internal_url:  "/dutchgov/gatewayreview.nl.html"
 categories: dutchgov
 ---

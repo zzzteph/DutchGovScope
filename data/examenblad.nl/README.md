@@ -1,3 +1,9 @@
+---
+layout: dutchgov
+permalink: /dutchgov/examenblad.nl.html
+---
+
+
 # examenblad.nl
 *2024-01-14 03:53:12*
 ## Summary data

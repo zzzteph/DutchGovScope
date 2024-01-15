@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "biosecuritykwetsbaarheidsanalyse.nl"
-internal_url:  "/data/biosecuritykwetsbaarheidsanalyse.nl.html"
+internal_url:  "/dutchgov/biosecuritykwetsbaarheidsanalyse.nl.html"
 categories: dutchgov
 ---

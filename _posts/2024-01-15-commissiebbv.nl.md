@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "commissiebbv.nl"
-internal_url:  "/data/commissiebbv.nl.html"
+internal_url:  "/dutchgov/commissiebbv.nl.html"
 categories: dutchgov
 ---

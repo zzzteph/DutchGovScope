@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "rijksinkoopsamenwerking.nl"
-internal_url:  "/data/rijksinkoopsamenwerking.nl.html"
+internal_url:  "/dutchgov/rijksinkoopsamenwerking.nl.html"
 categories: dutchgov
 ---

@@ -1,3 +1,9 @@
+---
+layout: dutchgov
+permalink: /dutchgov/dranquilo.nl.html
+---
+
+
 # dranquilo.nl
 *2024-01-14 03:13:04*
 ## Summary data

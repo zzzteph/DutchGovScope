@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "rijksnormering.nl"
-internal_url:  "/data/rijksnormering.nl.html"
+internal_url:  "/dutchgov/rijksnormering.nl.html"
 categories: dutchgov
 ---

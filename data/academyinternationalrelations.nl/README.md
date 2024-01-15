@@ -1,3 +1,9 @@
+---
+layout: dutchgov
+permalink: /dutchgov/academyinternationalrelations.nl.html
+---
+
+
 # academyinternationalrelations.nl
 *2024-01-11 16:13:38*
 ## Summary data

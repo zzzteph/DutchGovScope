@@ -1,3 +1,9 @@
+---
+layout: dutchgov
+permalink: /dutchgov/griepvaccin.nl.html
+---
+
+
 # griepvaccin.nl
 *2024-01-11 06:27:20*
 ## Summary data

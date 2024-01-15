@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "binnenlandsezaken.nl"
-internal_url:  "/data/binnenlandsezaken.nl.html"
+internal_url:  "/dutchgov/binnenlandsezaken.nl.html"
 categories: dutchgov
 ---

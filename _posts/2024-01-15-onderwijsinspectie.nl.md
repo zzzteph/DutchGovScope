@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "onderwijsinspectie.nl"
-internal_url:  "/data/onderwijsinspectie.nl.html"
+internal_url:  "/dutchgov/onderwijsinspectie.nl.html"
 categories: dutchgov
 ---

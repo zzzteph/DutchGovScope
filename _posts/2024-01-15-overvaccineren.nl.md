@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "overvaccineren.nl"
-internal_url:  "/data/overvaccineren.nl.html"
+internal_url:  "/dutchgov/overvaccineren.nl.html"
 categories: dutchgov
 ---

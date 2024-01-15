@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "doeonbeperktmee.nl"
-internal_url:  "/data/doeonbeperktmee.nl.html"
+internal_url:  "/dutchgov/doeonbeperktmee.nl.html"
 categories: dutchgov
 ---

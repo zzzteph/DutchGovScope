@@ -1,3 +1,9 @@
+---
+layout: dutchgov
+permalink: /dutchgov/biotechnologie.nl.html
+---
+
+
 # biotechnologie.nl
 *2024-01-11 16:13:38*
 ## Summary data

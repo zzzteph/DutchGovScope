@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "risicoregelreflex.nl"
-internal_url:  "/data/risicoregelreflex.nl.html"
+internal_url:  "/dutchgov/risicoregelreflex.nl.html"
 categories: dutchgov
 ---

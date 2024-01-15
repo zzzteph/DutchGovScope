@@ -1,3 +1,9 @@
+---
+layout: dutchgov
+permalink: /dutchgov/hetcvte.nl.html
+---
+
+
 # hetcvte.nl
 *2024-01-14 04:40:19*
 ## Summary data

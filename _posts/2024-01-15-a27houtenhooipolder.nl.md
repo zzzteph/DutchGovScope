@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "a27houtenhooipolder.nl"
-internal_url:  "/data/a27houtenhooipolder.nl.html"
+internal_url:  "/dutchgov/a27houtenhooipolder.nl.html"
 categories: dutchgov
 ---

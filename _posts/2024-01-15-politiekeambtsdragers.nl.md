@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "politiekeambtsdragers.nl"
-internal_url:  "/data/politiekeambtsdragers.nl.html"
+internal_url:  "/dutchgov/politiekeambtsdragers.nl.html"
 categories: dutchgov
 ---

@@ -1,3 +1,9 @@
+---
+layout: dutchgov
+permalink: /dutchgov/startmetdelen.nl.html
+---
+
+
 # startmetdelen.nl
 *2024-01-11 16:13:46*
 ## Summary data

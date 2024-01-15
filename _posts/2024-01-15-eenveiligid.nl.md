@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "eenveiligid.nl"
-internal_url:  "/data/eenveiligid.nl.html"
+internal_url:  "/dutchgov/eenveiligid.nl.html"
 categories: dutchgov
 ---

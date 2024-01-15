@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "schoudersonderschoon.nl"
-internal_url:  "/data/schoudersonderschoon.nl.html"
+internal_url:  "/dutchgov/schoudersonderschoon.nl.html"
 categories: dutchgov
 ---

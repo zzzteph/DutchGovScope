@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "cbgcollegedag.nl"
-internal_url:  "/data/cbgcollegedag.nl.html"
+internal_url:  "/dutchgov/cbgcollegedag.nl.html"
 categories: dutchgov
 ---

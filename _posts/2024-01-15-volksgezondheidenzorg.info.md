@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "volksgezondheidenzorg.info"
-internal_url:  "/data/volksgezondheidenzorg.info.html"
+internal_url:  "/dutchgov/volksgezondheidenzorg.info.html"
 categories: dutchgov
 ---

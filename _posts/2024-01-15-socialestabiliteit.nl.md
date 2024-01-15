@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "socialestabiliteit.nl"
-internal_url:  "/data/socialestabiliteit.nl.html"
+internal_url:  "/dutchgov/socialestabiliteit.nl.html"
 categories: dutchgov
 ---

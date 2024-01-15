@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "tuchtcolleges.nl"
-internal_url:  "/data/tuchtcolleges.nl.html"
+internal_url:  "/dutchgov/tuchtcolleges.nl.html"
 categories: dutchgov
 ---

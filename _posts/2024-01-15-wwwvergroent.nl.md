@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "wwwvergroent.nl"
-internal_url:  "/data/wwwvergroent.nl.html"
+internal_url:  "/dutchgov/wwwvergroent.nl.html"
 categories: dutchgov
 ---

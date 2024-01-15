@@ -1,3 +1,9 @@
+---
+layout: dutchgov
+permalink: /dutchgov/maakhetzeniettemakkelijk.nl.html
+---
+
+
 # maakhetzeniettemakkelijk.nl
 *2024-01-10 20:57:17*
 ## Summary data

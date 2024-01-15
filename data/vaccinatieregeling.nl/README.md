@@ -1,3 +1,9 @@
+---
+layout: dutchgov
+permalink: /dutchgov/vaccinatieregeling.nl.html
+---
+
+
 # vaccinatieregeling.nl
 *2024-01-11 06:28:11*
 ## Summary data

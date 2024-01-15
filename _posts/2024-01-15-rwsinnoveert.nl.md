@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "rwsinnoveert.nl"
-internal_url:  "/data/rwsinnoveert.nl.html"
+internal_url:  "/dutchgov/rwsinnoveert.nl.html"
 categories: dutchgov
 ---

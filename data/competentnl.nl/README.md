@@ -1,3 +1,9 @@
+---
+layout: dutchgov
+permalink: /dutchgov/competentnl.nl.html
+---
+
+
 # competentnl.nl
 *2024-01-11 03:13:38*
 ## Summary data

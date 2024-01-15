@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "paysbasmondial.nl"
-internal_url:  "/data/paysbasmondial.nl.html"
+internal_url:  "/dutchgov/paysbasmondial.nl.html"
 categories: dutchgov
 ---

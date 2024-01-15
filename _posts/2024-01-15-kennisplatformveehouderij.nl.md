@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "kennisplatformveehouderij.nl"
-internal_url:  "/data/kennisplatformveehouderij.nl.html"
+internal_url:  "/dutchgov/kennisplatformveehouderij.nl.html"
 categories: dutchgov
 ---

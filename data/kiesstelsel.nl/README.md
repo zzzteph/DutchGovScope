@@ -1,3 +1,9 @@
+---
+layout: dutchgov
+permalink: /dutchgov/kiesstelsel.nl.html
+---
+
+
 # kiesstelsel.nl
 *2024-01-11 02:07:36*
 ## Summary data

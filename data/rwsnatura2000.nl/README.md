@@ -1,3 +1,9 @@
+---
+layout: dutchgov
+permalink: /dutchgov/rwsnatura2000.nl.html
+---
+
+
 # rwsnatura2000.nl
 *2024-01-11 16:13:38*
 ## Summary data

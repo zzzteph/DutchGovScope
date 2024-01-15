@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "nldesignsystem.nl"
-internal_url:  "/data/nldesignsystem.nl.html"
+internal_url:  "/dutchgov/nldesignsystem.nl.html"
 categories: dutchgov
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "naarnederland.nl"
-internal_url:  "/data/naarnederland.nl.html"
+internal_url:  "/dutchgov/naarnederland.nl.html"
 categories: dutchgov
 ---

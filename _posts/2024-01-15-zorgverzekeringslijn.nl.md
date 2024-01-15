@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "zorgverzekeringslijn.nl"
-internal_url:  "/data/zorgverzekeringslijn.nl.html"
+internal_url:  "/dutchgov/zorgverzekeringslijn.nl.html"
 categories: dutchgov
 ---

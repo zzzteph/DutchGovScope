@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "belastingdienst.nl"
-internal_url:  "/data/belastingdienst.nl.html"
+internal_url:  "/dutchgov/belastingdienst.nl.html"
 categories: dutchgov
 ---

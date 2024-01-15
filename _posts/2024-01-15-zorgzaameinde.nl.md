@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "zorgzaameinde.nl"
-internal_url:  "/data/zorgzaameinde.nl.html"
+internal_url:  "/dutchgov/zorgzaameinde.nl.html"
 categories: dutchgov
 ---

@@ -1,3 +1,9 @@
+---
+layout: dutchgov
+permalink: /dutchgov/kijkopeuropa.nl.html
+---
+
+
 # kijkopeuropa.nl
 *2024-01-14 06:08:23*
 ## Summary data

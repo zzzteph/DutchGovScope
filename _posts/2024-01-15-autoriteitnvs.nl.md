@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "autoriteitnvs.nl"
-internal_url:  "/data/autoriteitnvs.nl.html"
+internal_url:  "/dutchgov/autoriteitnvs.nl.html"
 categories: dutchgov
 ---

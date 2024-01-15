@@ -1,3 +1,9 @@
+---
+layout: dutchgov
+permalink: /dutchgov/rijksoverheid.nl.html
+---
+
+
 # rijksoverheid.nl
 *2024-01-10 20:57:22*
 ## Summary data

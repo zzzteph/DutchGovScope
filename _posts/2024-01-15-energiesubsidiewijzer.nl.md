@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "energiesubsidiewijzer.nl"
-internal_url:  "/data/energiesubsidiewijzer.nl.html"
+internal_url:  "/dutchgov/energiesubsidiewijzer.nl.html"
 categories: dutchgov
 ---

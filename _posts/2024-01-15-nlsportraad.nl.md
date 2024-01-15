@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "nlsportraad.nl"
-internal_url:  "/data/nlsportraad.nl.html"
+internal_url:  "/dutchgov/nlsportraad.nl.html"
 categories: dutchgov
 ---

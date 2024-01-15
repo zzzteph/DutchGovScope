@@ -1,3 +1,9 @@
+---
+layout: dutchgov
+permalink: /dutchgov/justis.nl.html
+---
+
+
 # justis.nl
 *2024-01-14 05:57:04*
 ## Summary data

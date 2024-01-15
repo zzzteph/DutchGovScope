@@ -1,3 +1,9 @@
+---
+layout: dutchgov
+permalink: /dutchgov/emancipatienota.nl.html
+---
+
+
 # emancipatienota.nl
 *2024-01-14 03:38:11*
 ## Summary data

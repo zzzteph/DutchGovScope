@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "toezichtresultaten.nl"
-internal_url:  "/data/toezichtresultaten.nl.html"
+internal_url:  "/dutchgov/toezichtresultaten.nl.html"
 categories: dutchgov
 ---

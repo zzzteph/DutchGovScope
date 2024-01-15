@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "flevoland.nl"
-internal_url:  "/data/flevoland.nl.html"
+internal_url:  "/dutchgov/flevoland.nl.html"
 categories: dutchgov
 ---

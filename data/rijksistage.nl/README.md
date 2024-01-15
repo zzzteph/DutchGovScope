@@ -1,3 +1,9 @@
+---
+layout: dutchgov
+permalink: /dutchgov/rijksistage.nl.html
+---
+
+
 # rijksistage.nl
 *2024-01-11 08:52:20*
 ## Summary data

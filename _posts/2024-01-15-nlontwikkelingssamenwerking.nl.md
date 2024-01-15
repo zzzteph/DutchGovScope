@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "nlontwikkelingssamenwerking.nl"
-internal_url:  "/data/nlontwikkelingssamenwerking.nl.html"
+internal_url:  "/dutchgov/nlontwikkelingssamenwerking.nl.html"
 categories: dutchgov
 ---

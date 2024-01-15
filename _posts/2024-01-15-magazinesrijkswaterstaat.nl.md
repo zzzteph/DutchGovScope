@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "magazinesrijkswaterstaat.nl"
-internal_url:  "/data/magazinesrijkswaterstaat.nl.html"
+internal_url:  "/dutchgov/magazinesrijkswaterstaat.nl.html"
 categories: dutchgov
 ---

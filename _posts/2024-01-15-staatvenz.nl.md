@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "staatvenz.nl"
-internal_url:  "/data/staatvenz.nl.html"
+internal_url:  "/dutchgov/staatvenz.nl.html"
 categories: dutchgov
 ---

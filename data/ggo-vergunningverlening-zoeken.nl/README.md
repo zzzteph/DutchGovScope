@@ -1,3 +1,9 @@
+---
+layout: dutchgov
+permalink: /dutchgov/ggo-vergunningverlening-zoeken.nl.html
+---
+
+
 # ggo-vergunningverlening-zoeken.nl
 *2024-01-11 16:13:42*
 ## Summary data

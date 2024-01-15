@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "rijksacademie.nl"
-internal_url:  "/data/rijksacademie.nl.html"
+internal_url:  "/dutchgov/rijksacademie.nl.html"
 categories: dutchgov
 ---

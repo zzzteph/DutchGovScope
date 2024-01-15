@@ -1,3 +1,9 @@
+---
+layout: dutchgov
+permalink: /dutchgov/kennisopenbaarbestuur.nl.html
+---
+
+
 # kennisopenbaarbestuur.nl
 *2024-01-14 06:04:07*
 ## Summary data

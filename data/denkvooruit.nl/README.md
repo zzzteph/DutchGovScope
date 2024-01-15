@@ -1,3 +1,9 @@
+---
+layout: dutchgov
+permalink: /dutchgov/denkvooruit.nl.html
+---
+
+
 # denkvooruit.nl
 *2024-01-14 02:14:13*
 ## Summary data

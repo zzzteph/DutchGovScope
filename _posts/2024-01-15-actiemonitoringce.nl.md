@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "actiemonitoringce.nl"
-internal_url:  "/data/actiemonitoringce.nl.html"
+internal_url:  "/dutchgov/actiemonitoringce.nl.html"
 categories: dutchgov
 ---

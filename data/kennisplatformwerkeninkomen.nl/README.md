@@ -1,3 +1,9 @@
+---
+layout: dutchgov
+permalink: /dutchgov/kennisplatformwerkeninkomen.nl.html
+---
+
+
 # kennisplatformwerkeninkomen.nl
 *2024-01-14 06:06:05*
 ## Summary data

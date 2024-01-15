@@ -1,3 +1,9 @@
+---
+layout: dutchgov
+permalink: /dutchgov/donorregistratie.nl.html
+---
+
+
 # donorregistratie.nl
 *2024-01-14 03:08:12*
 ## Summary data

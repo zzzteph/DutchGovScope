@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "kamervoordebinnenvisserij.nl"
-internal_url:  "/data/kamervoordebinnenvisserij.nl.html"
+internal_url:  "/dutchgov/kamervoordebinnenvisserij.nl.html"
 categories: dutchgov
 ---

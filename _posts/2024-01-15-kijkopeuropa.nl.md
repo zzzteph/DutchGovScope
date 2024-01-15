@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "kijkopeuropa.nl"
-internal_url:  "/data/kijkopeuropa.nl.html"
+internal_url:  "/dutchgov/kijkopeuropa.nl.html"
 categories: dutchgov
 ---

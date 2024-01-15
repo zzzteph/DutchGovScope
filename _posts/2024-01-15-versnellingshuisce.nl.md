@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "versnellingshuisce.nl"
-internal_url:  "/data/versnellingshuisce.nl.html"
+internal_url:  "/dutchgov/versnellingshuisce.nl.html"
 categories: dutchgov
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "samenwerkingrijknoord.nl"
-internal_url:  "/data/samenwerkingrijknoord.nl.html"
+internal_url:  "/dutchgov/samenwerkingrijknoord.nl.html"
 categories: dutchgov
 ---

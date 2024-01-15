@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "mvicriteria.nl"
-internal_url:  "/data/mvicriteria.nl.html"
+internal_url:  "/dutchgov/mvicriteria.nl.html"
 categories: dutchgov
 ---

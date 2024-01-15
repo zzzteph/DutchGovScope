@@ -1,3 +1,9 @@
+---
+layout: dutchgov
+permalink: /dutchgov/gipinfo.nl.html
+---
+
+
 # gipinfo.nl
 *2024-01-14 04:25:31*
 ## Summary data

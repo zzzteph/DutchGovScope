@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "earonline.nl"
-internal_url:  "/data/earonline.nl.html"
+internal_url:  "/dutchgov/earonline.nl.html"
 categories: dutchgov
 ---

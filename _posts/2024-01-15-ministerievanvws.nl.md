@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "ministerievanvws.nl"
-internal_url:  "/data/ministerievanvws.nl.html"
+internal_url:  "/dutchgov/ministerievanvws.nl.html"
 categories: dutchgov
 ---

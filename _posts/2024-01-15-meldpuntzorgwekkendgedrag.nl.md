@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "meldpuntzorgwekkendgedrag.nl"
-internal_url:  "/data/meldpuntzorgwekkendgedrag.nl.html"
+internal_url:  "/dutchgov/meldpuntzorgwekkendgedrag.nl.html"
 categories: dutchgov
 ---

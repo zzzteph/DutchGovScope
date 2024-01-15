@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "bureautoetsinginvesteringen.nl"
-internal_url:  "/data/bureautoetsinginvesteringen.nl.html"
+internal_url:  "/dutchgov/bureautoetsinginvesteringen.nl.html"
 categories: dutchgov
 ---

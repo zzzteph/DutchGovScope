@@ -1,3 +1,9 @@
+---
+layout: dutchgov
+permalink: /dutchgov/demijnraad.nl.html
+---
+
+
 # demijnraad.nl
 *2024-01-11 16:13:40*
 ## Summary data

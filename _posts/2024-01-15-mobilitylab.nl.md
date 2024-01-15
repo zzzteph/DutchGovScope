@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "mobilitylab.nl"
-internal_url:  "/data/mobilitylab.nl.html"
+internal_url:  "/dutchgov/mobilitylab.nl.html"
 categories: dutchgov
 ---

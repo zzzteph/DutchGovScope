@@ -1,3 +1,9 @@
+---
+layout: dutchgov
+permalink: /dutchgov/cybersecurityalliantie.nl.html
+---
+
+
 # cybersecurityalliantie.nl
 *2024-01-11 16:13:41*
 ## Summary data

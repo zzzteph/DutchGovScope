@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "wetbeschermingklokkenluiders.nl"
-internal_url:  "/data/wetbeschermingklokkenluiders.nl.html"
+internal_url:  "/dutchgov/wetbeschermingklokkenluiders.nl.html"
 categories: dutchgov
 ---

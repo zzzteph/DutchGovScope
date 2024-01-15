@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "transitieagendakunststoffen.nl"
-internal_url:  "/data/transitieagendakunststoffen.nl.html"
+internal_url:  "/dutchgov/transitieagendakunststoffen.nl.html"
 categories: dutchgov
 ---

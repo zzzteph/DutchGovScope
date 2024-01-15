@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "dnadatabank.forensischinstituut.nl"
-internal_url:  "/data/dnadatabank.forensischinstituut.nl.html"
+internal_url:  "/dutchgov/dnadatabank.forensischinstituut.nl.html"
 categories: dutchgov
 ---

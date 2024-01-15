@@ -1,3 +1,9 @@
+---
+layout: dutchgov
+permalink: /dutchgov/defensietalenten.nl.html
+---
+
+
 # defensietalenten.nl
 *2024-01-11 16:13:41*
 ## Summary data

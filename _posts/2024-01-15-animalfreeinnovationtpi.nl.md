@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "animalfreeinnovationtpi.nl"
-internal_url:  "/data/animalfreeinnovationtpi.nl.html"
+internal_url:  "/dutchgov/animalfreeinnovationtpi.nl.html"
 categories: dutchgov
 ---

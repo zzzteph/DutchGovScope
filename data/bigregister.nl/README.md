@@ -1,3 +1,9 @@
+---
+layout: dutchgov
+permalink: /dutchgov/bigregister.nl.html
+---
+
+
 # bigregister.nl
 *2024-01-10 20:57:10*
 ## Summary data

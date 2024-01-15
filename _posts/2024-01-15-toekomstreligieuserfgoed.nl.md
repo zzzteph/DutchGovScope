@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "toekomstreligieuserfgoed.nl"
-internal_url:  "/data/toekomstreligieuserfgoed.nl.html"
+internal_url:  "/dutchgov/toekomstreligieuserfgoed.nl.html"
 categories: dutchgov
 ---

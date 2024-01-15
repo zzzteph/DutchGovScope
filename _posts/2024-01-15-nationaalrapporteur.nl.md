@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "nationaalrapporteur.nl"
-internal_url:  "/data/nationaalrapporteur.nl.html"
+internal_url:  "/dutchgov/nationaalrapporteur.nl.html"
 categories: dutchgov
 ---

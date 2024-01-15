@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "kennisplatformvhg.nl"
-internal_url:  "/data/kennisplatformvhg.nl.html"
+internal_url:  "/dutchgov/kennisplatformvhg.nl.html"
 categories: dutchgov
 ---

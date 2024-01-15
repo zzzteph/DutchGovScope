@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "referentiegrootboekschema.nl"
-internal_url:  "/data/referentiegrootboekschema.nl.html"
+internal_url:  "/dutchgov/referentiegrootboekschema.nl.html"
 categories: dutchgov
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "leidenincijfers.nl"
-internal_url:  "/data/leidenincijfers.nl.html"
+internal_url:  "/dutchgov/leidenincijfers.nl.html"
 categories: dutchgov
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "geobasisregistraties.nl"
-internal_url:  "/data/geobasisregistraties.nl.html"
+internal_url:  "/dutchgov/geobasisregistraties.nl.html"
 categories: dutchgov
 ---

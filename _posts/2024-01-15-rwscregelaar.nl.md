@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "rwscregelaar.nl"
-internal_url:  "/data/rwscregelaar.nl.html"
+internal_url:  "/dutchgov/rwscregelaar.nl.html"
 categories: dutchgov
 ---

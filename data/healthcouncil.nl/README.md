@@ -1,3 +1,9 @@
+---
+layout: dutchgov
+permalink: /dutchgov/healthcouncil.nl.html
+---
+
+
 # healthcouncil.nl
 *2024-01-14 04:39:33*
 ## Summary data

@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "delichtkogel.nl"
-internal_url:  "/data/delichtkogel.nl.html"
+internal_url:  "/dutchgov/delichtkogel.nl.html"
 categories: dutchgov
 ---

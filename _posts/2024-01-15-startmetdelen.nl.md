@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "startmetdelen.nl"
-internal_url:  "/data/startmetdelen.nl.html"
+internal_url:  "/dutchgov/startmetdelen.nl.html"
 categories: dutchgov
 ---

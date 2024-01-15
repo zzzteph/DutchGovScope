@@ -1,3 +1,9 @@
+---
+layout: dutchgov
+permalink: /dutchgov/diergeneesmiddeleninformatiebank.nl.html
+---
+
+
 # diergeneesmiddeleninformatiebank.nl
 *2024-01-14 02:24:12*
 ## Summary data

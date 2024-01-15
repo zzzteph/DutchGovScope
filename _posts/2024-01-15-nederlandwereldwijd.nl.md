@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "nederlandwereldwijd.nl"
-internal_url:  "/data/nederlandwereldwijd.nl.html"
+internal_url:  "/dutchgov/nederlandwereldwijd.nl.html"
 categories: dutchgov
 ---

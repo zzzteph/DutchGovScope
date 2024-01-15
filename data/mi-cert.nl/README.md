@@ -1,3 +1,9 @@
+---
+layout: dutchgov
+permalink: /dutchgov/mi-cert.nl.html
+---
+
+
 # mi-cert.nl
 *2024-01-11 16:13:40*
 ## Summary data

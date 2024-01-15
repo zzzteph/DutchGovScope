@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "datawonen.nl"
-internal_url:  "/data/datawonen.nl.html"
+internal_url:  "/dutchgov/datawonen.nl.html"
 categories: dutchgov
 ---

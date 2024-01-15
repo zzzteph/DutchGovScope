@@ -1,3 +1,9 @@
+---
+layout: dutchgov
+permalink: /dutchgov/doc-direkt.nl.html
+---
+
+
 # doc-direkt.nl
 *2024-01-14 02:57:05*
 ## Summary data

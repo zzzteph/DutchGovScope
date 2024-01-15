@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "luchtvaartmeteo.nl"
-internal_url:  "/data/luchtvaartmeteo.nl.html"
+internal_url:  "/dutchgov/luchtvaartmeteo.nl.html"
 categories: dutchgov
 ---

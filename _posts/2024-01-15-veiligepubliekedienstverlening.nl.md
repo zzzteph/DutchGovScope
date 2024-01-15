@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "veiligepubliekedienstverlening.nl"
-internal_url:  "/data/veiligepubliekedienstverlening.nl.html"
+internal_url:  "/dutchgov/veiligepubliekedienstverlening.nl.html"
 categories: dutchgov
 ---

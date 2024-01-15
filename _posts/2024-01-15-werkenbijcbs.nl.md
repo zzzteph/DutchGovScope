@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "werkenbijcbs.nl"
-internal_url:  "/data/werkenbijcbs.nl.html"
+internal_url:  "/dutchgov/werkenbijcbs.nl.html"
 categories: dutchgov
 ---

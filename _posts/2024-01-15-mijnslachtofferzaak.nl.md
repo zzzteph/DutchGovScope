@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "mijnslachtofferzaak.nl"
-internal_url:  "/data/mijnslachtofferzaak.nl.html"
+internal_url:  "/dutchgov/mijnslachtofferzaak.nl.html"
 categories: dutchgov
 ---

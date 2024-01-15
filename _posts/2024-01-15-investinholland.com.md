@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "investinholland.com"
-internal_url:  "/data/investinholland.com.html"
+internal_url:  "/dutchgov/investinholland.com.html"
 categories: dutchgov
 ---

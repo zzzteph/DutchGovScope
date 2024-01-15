@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "mensenrechten.nl"
-internal_url:  "/data/mensenrechten.nl.html"
+internal_url:  "/dutchgov/mensenrechten.nl.html"
 categories: dutchgov
 ---

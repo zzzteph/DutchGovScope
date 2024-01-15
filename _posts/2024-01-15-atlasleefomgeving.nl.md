@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "atlasleefomgeving.nl"
-internal_url:  "/data/atlasleefomgeving.nl.html"
+internal_url:  "/dutchgov/atlasleefomgeving.nl.html"
 categories: dutchgov
 ---

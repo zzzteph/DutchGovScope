@@ -1,3 +1,9 @@
+---
+layout: dutchgov
+permalink: /dutchgov/democratieenrechtsstaat.nl.html
+---
+
+
 # democratieenrechtsstaat.nl
 *2024-01-11 02:05:12*
 ## Summary data

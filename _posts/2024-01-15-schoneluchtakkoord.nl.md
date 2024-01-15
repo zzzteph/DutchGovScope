@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "schoneluchtakkoord.nl"
-internal_url:  "/data/schoneluchtakkoord.nl.html"
+internal_url:  "/dutchgov/schoneluchtakkoord.nl.html"
 categories: dutchgov
 ---

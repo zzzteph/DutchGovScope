@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "excellentescholen.nl"
-internal_url:  "/data/excellentescholen.nl.html"
+internal_url:  "/dutchgov/excellentescholen.nl.html"
 categories: dutchgov
 ---

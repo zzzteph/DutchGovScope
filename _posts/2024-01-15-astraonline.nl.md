@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "astraonline.nl"
-internal_url:  "/data/astraonline.nl.html"
+internal_url:  "/dutchgov/astraonline.nl.html"
 categories: dutchgov
 ---

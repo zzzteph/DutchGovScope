@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "kennisknooppuntparticipatie.nl"
-internal_url:  "/data/kennisknooppuntparticipatie.nl.html"
+internal_url:  "/dutchgov/kennisknooppuntparticipatie.nl.html"
 categories: dutchgov
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "monitorlandschap.nl"
-internal_url:  "/data/monitorlandschap.nl.html"
+internal_url:  "/dutchgov/monitorlandschap.nl.html"
 categories: dutchgov
 ---

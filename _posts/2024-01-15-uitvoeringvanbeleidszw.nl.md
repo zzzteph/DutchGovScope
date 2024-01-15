@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "uitvoeringvanbeleidszw.nl"
-internal_url:  "/data/uitvoeringvanbeleidszw.nl.html"
+internal_url:  "/dutchgov/uitvoeringvanbeleidszw.nl.html"
 categories: dutchgov
 ---

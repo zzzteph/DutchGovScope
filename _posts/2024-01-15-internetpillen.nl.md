@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "internetpillen.nl"
-internal_url:  "/data/internetpillen.nl.html"
+internal_url:  "/dutchgov/internetpillen.nl.html"
 categories: dutchgov
 ---

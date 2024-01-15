@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "topinkomens.nl"
-internal_url:  "/data/topinkomens.nl.html"
+internal_url:  "/dutchgov/topinkomens.nl.html"
 categories: dutchgov
 ---

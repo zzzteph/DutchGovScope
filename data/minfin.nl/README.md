@@ -1,3 +1,9 @@
+---
+layout: dutchgov
+permalink: /dutchgov/minfin.nl.html
+---
+
+
 # minfin.nl
 *2024-01-10 20:57:18*
 ## Summary data

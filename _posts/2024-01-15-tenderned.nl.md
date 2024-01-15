@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "tenderned.nl"
-internal_url:  "/data/tenderned.nl.html"
+internal_url:  "/dutchgov/tenderned.nl.html"
 categories: dutchgov
 ---

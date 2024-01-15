@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "campagnetoolkits.nl"
-internal_url:  "/data/campagnetoolkits.nl.html"
+internal_url:  "/dutchgov/campagnetoolkits.nl.html"
 categories: dutchgov
 ---

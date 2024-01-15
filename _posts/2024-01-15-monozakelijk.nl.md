@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "monozakelijk.nl"
-internal_url:  "/data/monozakelijk.nl.html"
+internal_url:  "/dutchgov/monozakelijk.nl.html"
 categories: dutchgov
 ---

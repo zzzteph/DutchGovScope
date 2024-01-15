@@ -1,3 +1,9 @@
+---
+layout: dutchgov
+permalink: /dutchgov/dashboardgroningen.nl.html
+---
+
+
 # dashboardgroningen.nl
 *2024-01-11 16:13:39*
 ## Summary data

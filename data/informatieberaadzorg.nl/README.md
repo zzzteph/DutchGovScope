@@ -1,3 +1,9 @@
+---
+layout: dutchgov
+permalink: /dutchgov/informatieberaadzorg.nl.html
+---
+
+
 # informatieberaadzorg.nl
 *2024-01-14 05:19:09*
 ## Summary data

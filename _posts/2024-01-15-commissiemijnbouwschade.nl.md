@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "commissiemijnbouwschade.nl"
-internal_url:  "/data/commissiemijnbouwschade.nl.html"
+internal_url:  "/dutchgov/commissiemijnbouwschade.nl.html"
 categories: dutchgov
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "toekomstglb.nl"
-internal_url:  "/data/toekomstglb.nl.html"
+internal_url:  "/dutchgov/toekomstglb.nl.html"
 categories: dutchgov
 ---

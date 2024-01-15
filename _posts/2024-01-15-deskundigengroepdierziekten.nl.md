@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "deskundigengroepdierziekten.nl"
-internal_url:  "/data/deskundigengroepdierziekten.nl.html"
+internal_url:  "/dutchgov/deskundigengroepdierziekten.nl.html"
 categories: dutchgov
 ---

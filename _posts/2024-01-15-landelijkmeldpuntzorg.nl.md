@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "landelijkmeldpuntzorg.nl"
-internal_url:  "/data/landelijkmeldpuntzorg.nl.html"
+internal_url:  "/dutchgov/landelijkmeldpuntzorg.nl.html"
 categories: dutchgov
 ---

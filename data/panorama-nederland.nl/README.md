@@ -1,3 +1,9 @@
+---
+layout: dutchgov
+permalink: /dutchgov/panorama-nederland.nl.html
+---
+
+
 # panorama-nederland.nl
 *2024-01-11 01:56:02*
 ## Summary data

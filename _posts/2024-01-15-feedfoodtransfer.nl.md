@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "feedfoodtransfer.nl"
-internal_url:  "/data/feedfoodtransfer.nl.html"
+internal_url:  "/dutchgov/feedfoodtransfer.nl.html"
 categories: dutchgov
 ---

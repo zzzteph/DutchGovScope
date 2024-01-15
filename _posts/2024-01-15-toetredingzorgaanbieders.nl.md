@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "toetredingzorgaanbieders.nl"
-internal_url:  "/data/toetredingzorgaanbieders.nl.html"
+internal_url:  "/dutchgov/toetredingzorgaanbieders.nl.html"
 categories: dutchgov
 ---

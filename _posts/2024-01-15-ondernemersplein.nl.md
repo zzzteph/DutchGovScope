@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "ondernemersplein.nl"
-internal_url:  "/data/ondernemersplein.nl.html"
+internal_url:  "/dutchgov/ondernemersplein.nl.html"
 categories: dutchgov
 ---

@@ -1,3 +1,9 @@
+---
+layout: dutchgov
+permalink: /dutchgov/nsl-monitoring.nl.html
+---
+
+
 # nsl-monitoring.nl
 *2024-01-11 16:13:44*
 ## Summary data

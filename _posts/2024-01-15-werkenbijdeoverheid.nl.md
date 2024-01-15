@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "werkenbijdeoverheid.nl"
-internal_url:  "/data/werkenbijdeoverheid.nl.html"
+internal_url:  "/dutchgov/werkenbijdeoverheid.nl.html"
 categories: dutchgov
 ---

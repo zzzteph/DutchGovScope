@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "algemenebestuursdienst.nl"
-internal_url:  "/data/algemenebestuursdienst.nl.html"
+internal_url:  "/dutchgov/algemenebestuursdienst.nl.html"
 categories: dutchgov
 ---

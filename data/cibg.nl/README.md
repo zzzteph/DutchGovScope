@@ -1,3 +1,9 @@
+---
+layout: dutchgov
+permalink: /dutchgov/cibg.nl.html
+---
+
+
 # cibg.nl
 *2024-01-14 01:17:08*
 ## Summary data

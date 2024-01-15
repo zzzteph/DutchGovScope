@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "vechtstromen.nl"
-internal_url:  "/data/vechtstromen.nl.html"
+internal_url:  "/dutchgov/vechtstromen.nl.html"
 categories: dutchgov
 ---

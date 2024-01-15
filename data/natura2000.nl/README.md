@@ -1,3 +1,9 @@
+---
+layout: dutchgov
+permalink: /dutchgov/natura2000.nl.html
+---
+
+
 # natura2000.nl
 *2024-01-11 16:13:36*
 ## Summary data

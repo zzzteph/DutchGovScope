@@ -1,3 +1,9 @@
+---
+layout: dutchgov
+permalink: /dutchgov/geneesmiddeleninformatiebank.nl.html
+---
+
+
 # geneesmiddeleninformatiebank.nl
 *2024-01-14 04:19:12*
 ## Summary data

@@ -1,3 +1,9 @@
+---
+layout: dutchgov
+permalink: /dutchgov/huurprijscheck.nl.html
+---
+
+
 # huurprijscheck.nl
 *2024-01-10 20:57:14*
 ## Summary data

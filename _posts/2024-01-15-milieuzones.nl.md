@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "milieuzones.nl"
-internal_url:  "/data/milieuzones.nl.html"
+internal_url:  "/dutchgov/milieuzones.nl.html"
 categories: dutchgov
 ---

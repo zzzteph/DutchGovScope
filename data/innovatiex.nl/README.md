@@ -1,3 +1,9 @@
+---
+layout: dutchgov
+permalink: /dutchgov/innovatiex.nl.html
+---
+
+
 # innovatiex.nl
 *2024-01-11 06:04:50*
 ## Summary data

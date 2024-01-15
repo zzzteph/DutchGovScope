@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "bereikbaarheidvooriedereen.nl"
-internal_url:  "/data/bereikbaarheidvooriedereen.nl.html"
+internal_url:  "/dutchgov/bereikbaarheidvooriedereen.nl.html"
 categories: dutchgov
 ---

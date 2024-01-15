@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "nationaalwaterstofprogramma.nl"
-internal_url:  "/data/nationaalwaterstofprogramma.nl.html"
+internal_url:  "/dutchgov/nationaalwaterstofprogramma.nl.html"
 categories: dutchgov
 ---

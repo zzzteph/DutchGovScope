@@ -1,3 +1,9 @@
+---
+layout: dutchgov
+permalink: /dutchgov/ienwduurzaamheidsverslag2020.nl.html
+---
+
+
 # ienwduurzaamheidsverslag2020.nl
 *2024-01-14 04:58:11*
 ## Summary data

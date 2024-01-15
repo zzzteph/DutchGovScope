@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "dienstterugkeerenvertrek.nl"
-internal_url:  "/data/dienstterugkeerenvertrek.nl.html"
+internal_url:  "/dutchgov/dienstterugkeerenvertrek.nl.html"
 categories: dutchgov
 ---

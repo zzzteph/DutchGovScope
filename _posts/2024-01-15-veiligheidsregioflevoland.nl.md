@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "veiligheidsregioflevoland.nl"
-internal_url:  "/data/veiligheidsregioflevoland.nl.html"
+internal_url:  "/dutchgov/veiligheidsregioflevoland.nl.html"
 categories: dutchgov
 ---

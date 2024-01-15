@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "istandaarden.nl"
-internal_url:  "/data/istandaarden.nl.html"
+internal_url:  "/dutchgov/istandaarden.nl.html"
 categories: dutchgov
 ---

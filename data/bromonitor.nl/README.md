@@ -1,3 +1,9 @@
+---
+layout: dutchgov
+permalink: /dutchgov/bromonitor.nl.html
+---
+
+
 # bromonitor.nl
 *2024-01-11 16:13:44*
 ## Summary data

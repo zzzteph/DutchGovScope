@@ -1,3 +1,9 @@
+---
+layout: dutchgov
+permalink: /dutchgov/ceg.nl.html
+---
+
+
 # ceg.nl
 *2024-01-14 00:59:14*
 ## Summary data

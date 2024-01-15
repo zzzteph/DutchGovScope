@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "griepvaccins.nl"
-internal_url:  "/data/griepvaccins.nl.html"
+internal_url:  "/dutchgov/griepvaccins.nl.html"
 categories: dutchgov
 ---

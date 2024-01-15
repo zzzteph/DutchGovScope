@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "verantwoordalcoholverkopen.nl"
-internal_url:  "/data/verantwoordalcoholverkopen.nl.html"
+internal_url:  "/dutchgov/verantwoordalcoholverkopen.nl.html"
 categories: dutchgov
 ---

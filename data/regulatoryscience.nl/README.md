@@ -1,3 +1,9 @@
+---
+layout: dutchgov
+permalink: /dutchgov/regulatoryscience.nl.html
+---
+
+
 # regulatoryscience.nl
 *2024-01-10 20:57:21*
 ## Summary data

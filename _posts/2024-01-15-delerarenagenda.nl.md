@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "delerarenagenda.nl"
-internal_url:  "/data/delerarenagenda.nl.html"
+internal_url:  "/dutchgov/delerarenagenda.nl.html"
 categories: dutchgov
 ---

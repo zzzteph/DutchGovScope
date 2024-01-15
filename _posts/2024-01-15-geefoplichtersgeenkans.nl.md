@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "geefoplichtersgeenkans.nl"
-internal_url:  "/data/geefoplichtersgeenkans.nl.html"
+internal_url:  "/dutchgov/geefoplichtersgeenkans.nl.html"
 categories: dutchgov
 ---

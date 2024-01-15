@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "grenzeloos-samenwerken.nl"
-internal_url:  "/data/grenzeloos-samenwerken.nl.html"
+internal_url:  "/dutchgov/grenzeloos-samenwerken.nl.html"
 categories: dutchgov
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "burgerservicenummer.nl"
-internal_url:  "/data/burgerservicenummer.nl.html"
+internal_url:  "/dutchgov/burgerservicenummer.nl.html"
 categories: dutchgov
 ---

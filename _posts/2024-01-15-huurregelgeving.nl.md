@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "huurregelgeving.nl"
-internal_url:  "/data/huurregelgeving.nl.html"
+internal_url:  "/dutchgov/huurregelgeving.nl.html"
 categories: dutchgov
 ---

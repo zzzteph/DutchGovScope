@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "gipdatabank.nl"
-internal_url:  "/data/gipdatabank.nl.html"
+internal_url:  "/dutchgov/gipdatabank.nl.html"
 categories: dutchgov
 ---

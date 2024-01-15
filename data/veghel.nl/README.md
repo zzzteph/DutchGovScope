@@ -1,3 +1,9 @@
+---
+layout: dutchgov
+permalink: /dutchgov/veghel.nl.html
+---
+
+
 # veghel.nl
 *2024-01-10 20:57:24*
 ## Summary data

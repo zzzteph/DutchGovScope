@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "verspillingindezorg.nl"
-internal_url:  "/data/verspillingindezorg.nl.html"
+internal_url:  "/dutchgov/verspillingindezorg.nl.html"
 categories: dutchgov
 ---

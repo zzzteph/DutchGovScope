@@ -1,3 +1,9 @@
+---
+layout: dutchgov
+permalink: /dutchgov/bvacommunity.nl.html
+---
+
+
 # bvacommunity.nl
 *2024-01-11 16:13:45*
 ## Summary data

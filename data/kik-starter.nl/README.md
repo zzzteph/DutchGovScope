@@ -1,3 +1,9 @@
+---
+layout: dutchgov
+permalink: /dutchgov/kik-starter.nl.html
+---
+
+
 # kik-starter.nl
 *2024-01-11 16:13:44*
 ## Summary data

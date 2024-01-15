@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "grondstoffenscanner.nl"
-internal_url:  "/data/grondstoffenscanner.nl.html"
+internal_url:  "/dutchgov/grondstoffenscanner.nl.html"
 categories: dutchgov
 ---

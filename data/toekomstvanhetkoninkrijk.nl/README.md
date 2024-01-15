@@ -1,3 +1,9 @@
+---
+layout: dutchgov
+permalink: /dutchgov/toekomstvanhetkoninkrijk.nl.html
+---
+
+
 # toekomstvanhetkoninkrijk.nl
 *2024-01-11 02:08:13*
 ## Summary data

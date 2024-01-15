@@ -1,3 +1,9 @@
+---
+layout: dutchgov
+permalink: /dutchgov/dtenv.nl.html
+---
+
+
 # dtenv.nl
 *2024-01-14 03:14:16*
 ## Summary data

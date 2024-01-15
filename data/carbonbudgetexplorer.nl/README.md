@@ -1,3 +1,9 @@
+---
+layout: dutchgov
+permalink: /dutchgov/carbonbudgetexplorer.nl.html
+---
+
+
 # carbonbudgetexplorer.nl
 *2024-01-11 16:13:46*
 ## Summary data

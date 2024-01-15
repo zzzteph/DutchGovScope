@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "innovatiex.nl"
-internal_url:  "/data/innovatiex.nl.html"
+internal_url:  "/dutchgov/innovatiex.nl.html"
 categories: dutchgov
 ---

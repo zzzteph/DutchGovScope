@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "bromonitor.nl"
-internal_url:  "/data/bromonitor.nl.html"
+internal_url:  "/dutchgov/bromonitor.nl.html"
 categories: dutchgov
 ---

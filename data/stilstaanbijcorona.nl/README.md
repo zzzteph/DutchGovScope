@@ -1,3 +1,9 @@
+---
+layout: dutchgov
+permalink: /dutchgov/stilstaanbijcorona.nl.html
+---
+
+
 # stilstaanbijcorona.nl
 *2024-01-10 20:57:23*
 ## Summary data

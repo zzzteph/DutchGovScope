@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "platformparticipatie.nl"
-internal_url:  "/data/platformparticipatie.nl.html"
+internal_url:  "/dutchgov/platformparticipatie.nl.html"
 categories: dutchgov
 ---

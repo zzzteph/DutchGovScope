@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "maatwerkmultiproblematiek.nl"
-internal_url:  "/data/maatwerkmultiproblematiek.nl.html"
+internal_url:  "/dutchgov/maatwerkmultiproblematiek.nl.html"
 categories: dutchgov
 ---

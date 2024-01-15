@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "sustainabilitymethod.nl"
-internal_url:  "/data/sustainabilitymethod.nl.html"
+internal_url:  "/dutchgov/sustainabilitymethod.nl.html"
 categories: dutchgov
 ---

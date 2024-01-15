@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "volkshuisvestingnederland.nl"
-internal_url:  "/data/volkshuisvestingnederland.nl.html"
+internal_url:  "/dutchgov/volkshuisvestingnederland.nl.html"
 categories: dutchgov
 ---

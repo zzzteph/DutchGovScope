@@ -1,3 +1,9 @@
+---
+layout: dutchgov
+permalink: /dutchgov/euthanasiecommissie.nl.html
+---
+
+
 # euthanasiecommissie.nl
 *2024-01-14 03:52:09*
 ## Summary data

@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "prettigcontactmetdeoverheid.nl"
-internal_url:  "/data/prettigcontactmetdeoverheid.nl.html"
+internal_url:  "/dutchgov/prettigcontactmetdeoverheid.nl.html"
 categories: dutchgov
 ---

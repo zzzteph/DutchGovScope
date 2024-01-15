@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "denationaleomgevingsvisie.nl"
-internal_url:  "/data/denationaleomgevingsvisie.nl.html"
+internal_url:  "/dutchgov/denationaleomgevingsvisie.nl.html"
 categories: dutchgov
 ---

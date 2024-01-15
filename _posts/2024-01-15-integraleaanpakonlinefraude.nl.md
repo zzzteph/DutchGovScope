@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "integraleaanpakonlinefraude.nl"
-internal_url:  "/data/integraleaanpakonlinefraude.nl.html"
+internal_url:  "/dutchgov/integraleaanpakonlinefraude.nl.html"
 categories: dutchgov
 ---

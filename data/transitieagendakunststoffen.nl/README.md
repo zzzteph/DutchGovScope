@@ -1,3 +1,9 @@
+---
+layout: dutchgov
+permalink: /dutchgov/transitieagendakunststoffen.nl.html
+---
+
+
 # transitieagendakunststoffen.nl
 *2024-01-11 16:13:40*
 ## Summary data

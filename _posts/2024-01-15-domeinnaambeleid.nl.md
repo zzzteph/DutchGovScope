@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "domeinnaambeleid.nl"
-internal_url:  "/data/domeinnaambeleid.nl.html"
+internal_url:  "/dutchgov/domeinnaambeleid.nl.html"
 categories: dutchgov
 ---

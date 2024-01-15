@@ -1,3 +1,9 @@
+---
+layout: dutchgov
+permalink: /dutchgov/cert.nl.html
+---
+
+
 # cert.nl
 *2024-01-14 01:04:36*
 ## Summary data

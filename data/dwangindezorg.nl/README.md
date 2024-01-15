@@ -1,3 +1,9 @@
+---
+layout: dutchgov
+permalink: /dutchgov/dwangindezorg.nl.html
+---
+
+
 # dwangindezorg.nl
 *2024-01-14 03:22:06*
 ## Summary data

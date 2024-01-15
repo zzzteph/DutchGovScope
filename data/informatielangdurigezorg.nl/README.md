@@ -1,3 +1,9 @@
+---
+layout: dutchgov
+permalink: /dutchgov/informatielangdurigezorg.nl.html
+---
+
+
 # informatielangdurigezorg.nl
 *2024-01-14 05:21:07*
 ## Summary data

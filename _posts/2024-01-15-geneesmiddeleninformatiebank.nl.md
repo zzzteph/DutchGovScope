@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "geneesmiddeleninformatiebank.nl"
-internal_url:  "/data/geneesmiddeleninformatiebank.nl.html"
+internal_url:  "/dutchgov/geneesmiddeleninformatiebank.nl.html"
 categories: dutchgov
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "sportinnovator.nl"
-internal_url:  "/data/sportinnovator.nl.html"
+internal_url:  "/dutchgov/sportinnovator.nl.html"
 categories: dutchgov
 ---

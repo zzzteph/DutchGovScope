@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "jaarberichtrijkswaterstaat.nl"
-internal_url:  "/data/jaarberichtrijkswaterstaat.nl.html"
+internal_url:  "/dutchgov/jaarberichtrijkswaterstaat.nl.html"
 categories: dutchgov
 ---

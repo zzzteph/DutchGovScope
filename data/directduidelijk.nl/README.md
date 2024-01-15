@@ -1,3 +1,9 @@
+---
+layout: dutchgov
+permalink: /dutchgov/directduidelijk.nl.html
+---
+
+
 # directduidelijk.nl
 *2024-01-11 16:13:44*
 ## Summary data

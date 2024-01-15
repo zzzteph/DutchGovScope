@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "expertisecentrummggz.nl"
-internal_url:  "/data/expertisecentrummggz.nl.html"
+internal_url:  "/dutchgov/expertisecentrummggz.nl.html"
 categories: dutchgov
 ---

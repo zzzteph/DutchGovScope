@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "vwsdia-archief.nl"
-internal_url:  "/data/vwsdia-archief.nl.html"
+internal_url:  "/dutchgov/vwsdia-archief.nl.html"
 categories: dutchgov
 ---

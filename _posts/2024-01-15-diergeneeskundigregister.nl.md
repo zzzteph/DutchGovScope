@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "diergeneeskundigregister.nl"
-internal_url:  "/data/diergeneeskundigregister.nl.html"
+internal_url:  "/dutchgov/diergeneeskundigregister.nl.html"
 categories: dutchgov
 ---

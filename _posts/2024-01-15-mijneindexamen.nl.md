@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "mijneindexamen.nl"
-internal_url:  "/data/mijneindexamen.nl.html"
+internal_url:  "/dutchgov/mijneindexamen.nl.html"
 categories: dutchgov
 ---

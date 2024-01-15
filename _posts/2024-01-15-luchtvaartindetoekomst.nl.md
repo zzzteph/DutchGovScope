@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "luchtvaartindetoekomst.nl"
-internal_url:  "/data/luchtvaartindetoekomst.nl.html"
+internal_url:  "/dutchgov/luchtvaartindetoekomst.nl.html"
 categories: dutchgov
 ---

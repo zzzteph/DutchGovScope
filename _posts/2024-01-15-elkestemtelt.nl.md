@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "elkestemtelt.nl"
-internal_url:  "/data/elkestemtelt.nl.html"
+internal_url:  "/dutchgov/elkestemtelt.nl.html"
 categories: dutchgov
 ---

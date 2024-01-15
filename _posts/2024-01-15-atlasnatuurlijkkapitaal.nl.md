@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "atlasnatuurlijkkapitaal.nl"
-internal_url:  "/data/atlasnatuurlijkkapitaal.nl.html"
+internal_url:  "/dutchgov/atlasnatuurlijkkapitaal.nl.html"
 categories: dutchgov
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "rijksorganisatiebeveiligingenlogistiek.nl"
-internal_url:  "/data/rijksorganisatiebeveiligingenlogistiek.nl.html"
+internal_url:  "/dutchgov/rijksorganisatiebeveiligingenlogistiek.nl.html"
 categories: dutchgov
 ---

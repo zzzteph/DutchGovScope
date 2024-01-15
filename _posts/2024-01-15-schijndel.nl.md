@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "schijndel.nl"
-internal_url:  "/data/schijndel.nl.html"
+internal_url:  "/dutchgov/schijndel.nl.html"
 categories: dutchgov
 ---

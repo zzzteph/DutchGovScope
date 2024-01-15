@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "functieruilrijk.nl"
-internal_url:  "/data/functieruilrijk.nl.html"
+internal_url:  "/dutchgov/functieruilrijk.nl.html"
 categories: dutchgov
 ---

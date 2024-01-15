@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "bestrijdingsmiddelen-omwonenden.nl"
-internal_url:  "/data/bestrijdingsmiddelen-omwonenden.nl.html"
+internal_url:  "/dutchgov/bestrijdingsmiddelen-omwonenden.nl.html"
 categories: dutchgov
 ---

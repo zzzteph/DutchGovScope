@@ -1,3 +1,9 @@
+---
+layout: dutchgov
+permalink: /dutchgov/woningmarktbeleid.nl.html
+---
+
+
 # woningmarktbeleid.nl
 *2024-01-10 20:57:26*
 ## Summary data

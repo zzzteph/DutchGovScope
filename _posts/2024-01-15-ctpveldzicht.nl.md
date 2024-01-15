@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "ctpveldzicht.nl"
-internal_url:  "/data/ctpveldzicht.nl.html"
+internal_url:  "/dutchgov/ctpveldzicht.nl.html"
 categories: dutchgov
 ---

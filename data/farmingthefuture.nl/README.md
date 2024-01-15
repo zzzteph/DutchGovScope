@@ -1,3 +1,9 @@
+---
+layout: dutchgov
+permalink: /dutchgov/farmingthefuture.nl.html
+---
+
+
 # farmingthefuture.nl
 *2024-01-11 16:13:40*
 ## Summary data

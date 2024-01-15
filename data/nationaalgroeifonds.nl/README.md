@@ -1,3 +1,9 @@
+---
+layout: dutchgov
+permalink: /dutchgov/nationaalgroeifonds.nl.html
+---
+
+
 # nationaalgroeifonds.nl
 *2024-01-10 20:57:18*
 ## Summary data

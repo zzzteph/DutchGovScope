@@ -1,3 +1,9 @@
+---
+layout: dutchgov
+permalink: /dutchgov/ipartnerschap.nl.html
+---
+
+
 # ipartnerschap.nl
 *2024-01-11 02:07:41*
 ## Summary data

@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "auditdienstrijk.nl"
-internal_url:  "/data/auditdienstrijk.nl.html"
+internal_url:  "/dutchgov/auditdienstrijk.nl.html"
 categories: dutchgov
 ---

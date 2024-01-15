@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "co2emissiefactoren.nl"
-internal_url:  "/data/co2emissiefactoren.nl.html"
+internal_url:  "/dutchgov/co2emissiefactoren.nl.html"
 categories: dutchgov
 ---

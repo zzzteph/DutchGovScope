@@ -1,3 +1,9 @@
+---
+layout: dutchgov
+permalink: /dutchgov/abdleerportaal.nl.html
+---
+
+
 # abdleerportaal.nl
 *2024-01-11 16:13:37*
 ## Summary data

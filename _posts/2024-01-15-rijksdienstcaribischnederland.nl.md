@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "rijksdienstcaribischnederland.nl"
-internal_url:  "/data/rijksdienstcaribischnederland.nl.html"
+internal_url:  "/dutchgov/rijksdienstcaribischnederland.nl.html"
 categories: dutchgov
 ---

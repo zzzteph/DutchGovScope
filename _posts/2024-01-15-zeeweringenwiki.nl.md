@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "zeeweringenwiki.nl"
-internal_url:  "/data/zeeweringenwiki.nl.html"
+internal_url:  "/dutchgov/zeeweringenwiki.nl.html"
 categories: dutchgov
 ---

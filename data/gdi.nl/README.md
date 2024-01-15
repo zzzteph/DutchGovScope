@@ -1,3 +1,9 @@
+---
+layout: dutchgov
+permalink: /dutchgov/gdi.nl.html
+---
+
+
 # gdi.nl
 *2024-01-14 04:17:12*
 ## Summary data

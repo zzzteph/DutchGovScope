@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "overtoeslagen.nl"
-internal_url:  "/data/overtoeslagen.nl.html"
+internal_url:  "/dutchgov/overtoeslagen.nl.html"
 categories: dutchgov
 ---

@@ -1,3 +1,9 @@
+---
+layout: dutchgov
+permalink: /dutchgov/ambtelijkvakmanschap.nl.html
+---
+
+
 # ambtelijkvakmanschap.nl
 *2024-01-10 20:57:09*
 ## Summary data

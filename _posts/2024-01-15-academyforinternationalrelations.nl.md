@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "academyforinternationalrelations.nl"
-internal_url:  "/data/academyforinternationalrelations.nl.html"
+internal_url:  "/dutchgov/academyforinternationalrelations.nl.html"
 categories: dutchgov
 ---

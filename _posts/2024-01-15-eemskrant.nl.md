@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "eemskrant.nl"
-internal_url:  "/data/eemskrant.nl.html"
+internal_url:  "/dutchgov/eemskrant.nl.html"
 categories: dutchgov
 ---

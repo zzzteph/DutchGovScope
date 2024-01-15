@@ -1,3 +1,9 @@
+---
+layout: dutchgov
+permalink: /dutchgov/coronacheck.nl.html
+---
+
+
 # coronacheck.nl
 *2024-01-11 06:23:11*
 ## Summary data

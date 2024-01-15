@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "pulsefishing.eu"
-internal_url:  "/data/pulsefishing.eu.html"
+internal_url:  "/dutchgov/pulsefishing.eu.html"
 categories: dutchgov
 ---

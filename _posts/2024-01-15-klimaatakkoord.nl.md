@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "klimaatakkoord.nl"
-internal_url:  "/data/klimaatakkoord.nl.html"
+internal_url:  "/dutchgov/klimaatakkoord.nl.html"
 categories: dutchgov
 ---

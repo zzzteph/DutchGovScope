@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "crisistest.nl"
-internal_url:  "/data/crisistest.nl.html"
+internal_url:  "/dutchgov/crisistest.nl.html"
 categories: dutchgov
 ---

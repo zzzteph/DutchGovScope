@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "nationaleconferentieduurzamemobiliteit.nl"
-internal_url:  "/data/nationaleconferentieduurzamemobiliteit.nl.html"
+internal_url:  "/dutchgov/nationaleconferentieduurzamemobiliteit.nl.html"
 categories: dutchgov
 ---

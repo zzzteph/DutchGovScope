@@ -1,3 +1,9 @@
+---
+layout: dutchgov
+permalink: /dutchgov/huurregelgeving.nl.html
+---
+
+
 # huurregelgeving.nl
 *2024-01-11 02:07:40*
 ## Summary data

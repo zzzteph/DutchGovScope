@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "deltaprogramma.nl"
-internal_url:  "/data/deltaprogramma.nl.html"
+internal_url:  "/dutchgov/deltaprogramma.nl.html"
 categories: dutchgov
 ---

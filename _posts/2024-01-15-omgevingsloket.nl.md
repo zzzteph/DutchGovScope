@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "omgevingsloket.nl"
-internal_url:  "/data/omgevingsloket.nl.html"
+internal_url:  "/dutchgov/omgevingsloket.nl.html"
 categories: dutchgov
 ---

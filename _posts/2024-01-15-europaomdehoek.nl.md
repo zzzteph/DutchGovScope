@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "europaomdehoek.nl"
-internal_url:  "/data/europaomdehoek.nl.html"
+internal_url:  "/dutchgov/europaomdehoek.nl.html"
 categories: dutchgov
 ---

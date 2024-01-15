@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "rijksictdashboard.nl"
-internal_url:  "/data/rijksictdashboard.nl.html"
+internal_url:  "/dutchgov/rijksictdashboard.nl.html"
 categories: dutchgov
 ---

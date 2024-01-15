@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "circularfestivals.nl"
-internal_url:  "/data/circularfestivals.nl.html"
+internal_url:  "/dutchgov/circularfestivals.nl.html"
 categories: dutchgov
 ---

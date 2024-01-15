@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "ocwincijfers.nl"
-internal_url:  "/data/ocwincijfers.nl.html"
+internal_url:  "/dutchgov/ocwincijfers.nl.html"
 categories: dutchgov
 ---

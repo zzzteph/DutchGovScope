@@ -1,3 +1,9 @@
+---
+layout: dutchgov
+permalink: /dutchgov/veranderingenindezorg.nl.html
+---
+
+
 # veranderingenindezorg.nl
 *2024-01-11 06:27:46*
 ## Summary data

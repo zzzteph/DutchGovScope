@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "antennebureau.nl"
-internal_url:  "/data/antennebureau.nl.html"
+internal_url:  "/dutchgov/antennebureau.nl.html"
 categories: dutchgov
 ---

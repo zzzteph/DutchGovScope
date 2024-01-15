@@ -1,3 +1,9 @@
+---
+layout: dutchgov
+permalink: /dutchgov/ivd.nl.html
+---
+
+
 # ivd.nl
 *2024-01-14 05:42:08*
 ## Summary data

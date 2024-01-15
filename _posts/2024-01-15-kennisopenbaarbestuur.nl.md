@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "kennisopenbaarbestuur.nl"
-internal_url:  "/data/kennisopenbaarbestuur.nl.html"
+internal_url:  "/dutchgov/kennisopenbaarbestuur.nl.html"
 categories: dutchgov
 ---

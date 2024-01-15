@@ -1,3 +1,9 @@
+---
+layout: dutchgov
+permalink: /dutchgov/dsta.nl.html
+---
+
+
 # dsta.nl
 *2024-01-14 03:14:25*
 ## Summary data

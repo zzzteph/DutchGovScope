@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "vananaarbeter.nl"
-internal_url:  "/data/vananaarbeter.nl.html"
+internal_url:  "/dutchgov/vananaarbeter.nl.html"
 categories: dutchgov
 ---

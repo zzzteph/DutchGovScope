@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "metenvanduurzaamheid.nl"
-internal_url:  "/data/metenvanduurzaamheid.nl.html"
+internal_url:  "/dutchgov/metenvanduurzaamheid.nl.html"
 categories: dutchgov
 ---

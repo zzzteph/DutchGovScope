@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "zorgcijfersdatabank.nl"
-internal_url:  "/data/zorgcijfersdatabank.nl.html"
+internal_url:  "/dutchgov/zorgcijfersdatabank.nl.html"
 categories: dutchgov
 ---

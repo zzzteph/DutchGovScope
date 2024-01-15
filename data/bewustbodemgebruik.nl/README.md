@@ -1,3 +1,9 @@
+---
+layout: dutchgov
+permalink: /dutchgov/bewustbodemgebruik.nl.html
+---
+
+
 # bewustbodemgebruik.nl
 *2024-01-11 16:13:44*
 ## Summary data

@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "iinterimrijk.nl"
-internal_url:  "/data/iinterimrijk.nl.html"
+internal_url:  "/dutchgov/iinterimrijk.nl.html"
 categories: dutchgov
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "sportenbewegenincijfers.nl"
-internal_url:  "/data/sportenbewegenincijfers.nl.html"
+internal_url:  "/dutchgov/sportenbewegenincijfers.nl.html"
 categories: dutchgov
 ---

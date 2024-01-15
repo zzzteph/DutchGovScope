@@ -1,3 +1,9 @@
+---
+layout: dutchgov
+permalink: /dutchgov/rijksinkoopsamenwerking.nl.html
+---
+
+
 # rijksinkoopsamenwerking.nl
 *2024-01-10 20:57:22*
 ## Summary data

@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "overlegorgaanfysiekeleefomgeving.nl"
-internal_url:  "/data/overlegorgaanfysiekeleefomgeving.nl.html"
+internal_url:  "/dutchgov/overlegorgaanfysiekeleefomgeving.nl.html"
 categories: dutchgov
 ---

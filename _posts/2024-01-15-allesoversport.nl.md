@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "allesoversport.nl"
-internal_url:  "/data/allesoversport.nl.html"
+internal_url:  "/dutchgov/allesoversport.nl.html"
 categories: dutchgov
 ---

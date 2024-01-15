@@ -1,3 +1,9 @@
+---
+layout: dutchgov
+permalink: /dutchgov/minezk.nl.html
+---
+
+
 # minezk.nl
 *2024-01-10 22:03:26*
 ## Summary data

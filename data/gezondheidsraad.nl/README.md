@@ -1,3 +1,9 @@
+---
+layout: dutchgov
+permalink: /dutchgov/gezondheidsraad.nl.html
+---
+
+
 # gezondheidsraad.nl
 *2024-01-14 04:25:06*
 ## Summary data

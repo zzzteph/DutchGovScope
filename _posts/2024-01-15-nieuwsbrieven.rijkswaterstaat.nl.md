@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "nieuwsbrieven.rijkswaterstaat.nl"
-internal_url:  "/data/nieuwsbrieven.rijkswaterstaat.nl.html"
+internal_url:  "/dutchgov/nieuwsbrieven.rijkswaterstaat.nl.html"
 categories: dutchgov
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "informatiepuntdigitaleoverheid.nl"
-internal_url:  "/data/informatiepuntdigitaleoverheid.nl.html"
+internal_url:  "/dutchgov/informatiepuntdigitaleoverheid.nl.html"
 categories: dutchgov
 ---

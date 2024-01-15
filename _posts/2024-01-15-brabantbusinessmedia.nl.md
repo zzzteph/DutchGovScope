@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "brabantbusinessmedia.nl"
-internal_url:  "/data/brabantbusinessmedia.nl.html"
+internal_url:  "/dutchgov/brabantbusinessmedia.nl.html"
 categories: dutchgov
 ---

@@ -1,3 +1,9 @@
+---
+layout: dutchgov
+permalink: /dutchgov/lavsinfo.nl.html
+---
+
+
 # lavsinfo.nl
 *2024-01-10 22:40:44*
 ## Summary data

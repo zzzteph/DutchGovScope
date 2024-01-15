@@ -1,3 +1,9 @@
+---
+layout: dutchgov
+permalink: /dutchgov/cultuur.nl.html
+---
+
+
 # cultuur.nl
 *2024-01-11 15:51:23*
 ## Summary data

@@ -1,3 +1,9 @@
+---
+layout: dutchgov
+permalink: /dutchgov/minvenj.nl.html
+---
+
+
 # minvenj.nl
 *2024-01-10 20:57:18*
 ## Summary data

@@ -1,3 +1,9 @@
+---
+layout: dutchgov
+permalink: /dutchgov/samenwerkingrijknoord.nl.html
+---
+
+
 # samenwerkingrijknoord.nl
 *2024-01-11 02:00:10*
 ## Summary data

@@ -1,3 +1,9 @@
+---
+layout: dutchgov
+permalink: /dutchgov/domeinnaambeleid.nl.html
+---
+
+
 # domeinnaambeleid.nl
 *2024-01-11 03:58:09*
 ## Summary data

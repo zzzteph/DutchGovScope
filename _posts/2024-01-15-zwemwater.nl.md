@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "zwemwater.nl"
-internal_url:  "/data/zwemwater.nl.html"
+internal_url:  "/dutchgov/zwemwater.nl.html"
 categories: dutchgov
 ---

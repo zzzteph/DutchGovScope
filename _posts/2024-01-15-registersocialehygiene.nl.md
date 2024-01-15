@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "registersocialehygiene.nl"
-internal_url:  "/data/registersocialehygiene.nl.html"
+internal_url:  "/dutchgov/registersocialehygiene.nl.html"
 categories: dutchgov
 ---

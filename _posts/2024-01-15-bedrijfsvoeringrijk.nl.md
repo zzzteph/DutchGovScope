@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "bedrijfsvoeringrijk.nl"
-internal_url:  "/data/bedrijfsvoeringrijk.nl.html"
+internal_url:  "/dutchgov/bedrijfsvoeringrijk.nl.html"
 categories: dutchgov
 ---

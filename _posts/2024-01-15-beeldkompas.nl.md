@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "beeldkompas.nl"
-internal_url:  "/data/beeldkompas.nl.html"
+internal_url:  "/dutchgov/beeldkompas.nl.html"
 categories: dutchgov
 ---

@@ -1,3 +1,9 @@
+---
+layout: dutchgov
+permalink: /dutchgov/diergeneeskunderegister.nl.html
+---
+
+
 # diergeneeskunderegister.nl
 *2024-01-14 02:24:09*
 ## Summary data

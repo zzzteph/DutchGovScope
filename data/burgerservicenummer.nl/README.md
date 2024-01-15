@@ -1,3 +1,9 @@
+---
+layout: dutchgov
+permalink: /dutchgov/burgerservicenummer.nl.html
+---
+
+
 # burgerservicenummer.nl
 *2024-01-11 02:11:42*
 ## Summary data

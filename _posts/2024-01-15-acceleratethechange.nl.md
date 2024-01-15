@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "acceleratethechange.nl"
-internal_url:  "/data/acceleratethechange.nl.html"
+internal_url:  "/dutchgov/acceleratethechange.nl.html"
 categories: dutchgov
 ---

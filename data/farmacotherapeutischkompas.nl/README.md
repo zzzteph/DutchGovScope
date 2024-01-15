@@ -1,3 +1,9 @@
+---
+layout: dutchgov
+permalink: /dutchgov/farmacotherapeutischkompas.nl.html
+---
+
+
 # farmacotherapeutischkompas.nl
 *2024-01-11 16:13:43*
 ## Summary data

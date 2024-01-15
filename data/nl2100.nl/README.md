@@ -1,3 +1,9 @@
+---
+layout: dutchgov
+permalink: /dutchgov/nl2100.nl.html
+---
+
+
 # nl2100.nl
 *2024-01-11 16:13:45*
 ## Summary data

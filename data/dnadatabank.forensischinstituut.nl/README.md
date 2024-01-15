@@ -1,3 +1,9 @@
+---
+layout: dutchgov
+permalink: /dutchgov/dnadatabank.forensischinstituut.nl.html
+---
+
+
 # dnadatabank.forensischinstituut.nl
 *2024-01-14 02:31:07*
 ## Summary data

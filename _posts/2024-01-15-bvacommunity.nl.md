@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "bvacommunity.nl"
-internal_url:  "/data/bvacommunity.nl.html"
+internal_url:  "/dutchgov/bvacommunity.nl.html"
 categories: dutchgov
 ---

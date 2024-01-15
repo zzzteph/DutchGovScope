@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "nationaalmilieuprogramma.nl"
-internal_url:  "/data/nationaalmilieuprogramma.nl.html"
+internal_url:  "/dutchgov/nationaalmilieuprogramma.nl.html"
 categories: dutchgov
 ---

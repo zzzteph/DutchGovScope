@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "ambtelijkerechtspositie.nl"
-internal_url:  "/data/ambtelijkerechtspositie.nl.html"
+internal_url:  "/dutchgov/ambtelijkerechtspositie.nl.html"
 categories: dutchgov
 ---

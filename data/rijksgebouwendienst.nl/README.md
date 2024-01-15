@@ -1,3 +1,9 @@
+---
+layout: dutchgov
+permalink: /dutchgov/rijksgebouwendienst.nl.html
+---
+
+
 # rijksgebouwendienst.nl
 *2024-01-11 01:56:02*
 ## Summary data

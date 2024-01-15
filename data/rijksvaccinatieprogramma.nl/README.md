@@ -1,3 +1,9 @@
+---
+layout: dutchgov
+permalink: /dutchgov/rijksvaccinatieprogramma.nl.html
+---
+
+
 # rijksvaccinatieprogramma.nl
 *2024-01-10 20:57:22*
 ## Summary data

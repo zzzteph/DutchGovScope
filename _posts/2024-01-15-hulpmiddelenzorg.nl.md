@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "hulpmiddelenzorg.nl"
-internal_url:  "/data/hulpmiddelenzorg.nl.html"
+internal_url:  "/dutchgov/hulpmiddelenzorg.nl.html"
 categories: dutchgov
 ---

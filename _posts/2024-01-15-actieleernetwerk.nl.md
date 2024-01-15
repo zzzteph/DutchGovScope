@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "actieleernetwerk.nl"
-internal_url:  "/data/actieleernetwerk.nl.html"
+internal_url:  "/dutchgov/actieleernetwerk.nl.html"
 categories: dutchgov
 ---

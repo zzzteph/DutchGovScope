@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "meldpuntbodemkwaliteit.nl"
-internal_url:  "/data/meldpuntbodemkwaliteit.nl.html"
+internal_url:  "/dutchgov/meldpuntbodemkwaliteit.nl.html"
 categories: dutchgov
 ---

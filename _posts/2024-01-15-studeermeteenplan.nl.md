@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "studeermeteenplan.nl"
-internal_url:  "/data/studeermeteenplan.nl.html"
+internal_url:  "/dutchgov/studeermeteenplan.nl.html"
 categories: dutchgov
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "cybersecurityalliantie.nl"
-internal_url:  "/data/cybersecurityalliantie.nl.html"
+internal_url:  "/dutchgov/cybersecurityalliantie.nl.html"
 categories: dutchgov
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "clinicaltrialregister.nl"
-internal_url:  "/data/clinicaltrialregister.nl.html"
+internal_url:  "/dutchgov/clinicaltrialregister.nl.html"
 categories: dutchgov
 ---

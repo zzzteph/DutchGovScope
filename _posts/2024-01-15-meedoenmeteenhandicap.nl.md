@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "meedoenmeteenhandicap.nl"
-internal_url:  "/data/meedoenmeteenhandicap.nl.html"
+internal_url:  "/dutchgov/meedoenmeteenhandicap.nl.html"
 categories: dutchgov
 ---

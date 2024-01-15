@@ -1,3 +1,9 @@
+---
+layout: dutchgov
+permalink: /dutchgov/mobiliteitsscan-info.nl.html
+---
+
+
 # mobiliteitsscan-info.nl
 *2024-01-11 16:13:39*
 ## Summary data

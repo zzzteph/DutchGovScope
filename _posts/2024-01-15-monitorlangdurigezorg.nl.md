@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "monitorlangdurigezorg.nl"
-internal_url:  "/data/monitorlangdurigezorg.nl.html"
+internal_url:  "/dutchgov/monitorlangdurigezorg.nl.html"
 categories: dutchgov
 ---

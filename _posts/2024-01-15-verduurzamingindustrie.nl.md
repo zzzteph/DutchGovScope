@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "verduurzamingindustrie.nl"
-internal_url:  "/data/verduurzamingindustrie.nl.html"
+internal_url:  "/dutchgov/verduurzamingindustrie.nl.html"
 categories: dutchgov
 ---

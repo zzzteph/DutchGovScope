@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "jonglereneten.nl"
-internal_url:  "/data/jonglereneten.nl.html"
+internal_url:  "/dutchgov/jonglereneten.nl.html"
 categories: dutchgov
 ---

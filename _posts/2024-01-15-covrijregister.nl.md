@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "covrijregister.nl"
-internal_url:  "/data/covrijregister.nl.html"
+internal_url:  "/dutchgov/covrijregister.nl.html"
 categories: dutchgov
 ---

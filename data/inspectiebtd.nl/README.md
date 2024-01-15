@@ -1,3 +1,9 @@
+---
+layout: dutchgov
+permalink: /dutchgov/inspectiebtd.nl.html
+---
+
+
 # inspectiebtd.nl
 *2024-01-14 05:27:10*
 ## Summary data

@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "energieoprijksgrond.nl"
-internal_url:  "/data/energieoprijksgrond.nl.html"
+internal_url:  "/dutchgov/energieoprijksgrond.nl.html"
 categories: dutchgov
 ---

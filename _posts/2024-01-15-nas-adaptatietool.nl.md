@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "nas-adaptatietool.nl"
-internal_url:  "/data/nas-adaptatietool.nl.html"
+internal_url:  "/dutchgov/nas-adaptatietool.nl.html"
 categories: dutchgov
 ---

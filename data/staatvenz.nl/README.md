@@ -1,3 +1,9 @@
+---
+layout: dutchgov
+permalink: /dutchgov/staatvenz.nl.html
+---
+
+
 # staatvenz.nl
 *2024-01-11 16:13:37*
 ## Summary data

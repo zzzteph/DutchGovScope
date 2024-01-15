@@ -1,3 +1,9 @@
+---
+layout: dutchgov
+permalink: /dutchgov/binnenlandsezaken.nl.html
+---
+
+
 # binnenlandsezaken.nl
 *2024-01-11 02:13:12*
 ## Summary data

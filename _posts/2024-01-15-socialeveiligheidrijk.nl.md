@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "socialeveiligheidrijk.nl"
-internal_url:  "/data/socialeveiligheidrijk.nl.html"
+internal_url:  "/dutchgov/socialeveiligheidrijk.nl.html"
 categories: dutchgov
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "benchmarkenindepubliekesector.nl"
-internal_url:  "/data/benchmarkenindepubliekesector.nl.html"
+internal_url:  "/dutchgov/benchmarkenindepubliekesector.nl.html"
 categories: dutchgov
 ---

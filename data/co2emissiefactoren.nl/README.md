@@ -1,3 +1,9 @@
+---
+layout: dutchgov
+permalink: /dutchgov/co2emissiefactoren.nl.html
+---
+
+
 # co2emissiefactoren.nl
 *2024-01-11 16:13:36*
 ## Summary data

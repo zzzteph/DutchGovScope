@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "draaiboekpsie.nl"
-internal_url:  "/data/draaiboekpsie.nl.html"
+internal_url:  "/dutchgov/draaiboekpsie.nl.html"
 categories: dutchgov
 ---

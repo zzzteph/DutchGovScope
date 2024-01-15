@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "adronderzoek.nl"
-internal_url:  "/data/adronderzoek.nl.html"
+internal_url:  "/dutchgov/adronderzoek.nl.html"
 categories: dutchgov
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "cocreatesa.nl"
-internal_url:  "/data/cocreatesa.nl.html"
+internal_url:  "/dutchgov/cocreatesa.nl.html"
 categories: dutchgov
 ---

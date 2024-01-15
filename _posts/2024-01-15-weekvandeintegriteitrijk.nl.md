@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "weekvandeintegriteitrijk.nl"
-internal_url:  "/data/weekvandeintegriteitrijk.nl.html"
+internal_url:  "/dutchgov/weekvandeintegriteitrijk.nl.html"
 categories: dutchgov
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "visserijinnovatienetwerk.nl"
-internal_url:  "/data/visserijinnovatienetwerk.nl.html"
+internal_url:  "/dutchgov/visserijinnovatienetwerk.nl.html"
 categories: dutchgov
 ---

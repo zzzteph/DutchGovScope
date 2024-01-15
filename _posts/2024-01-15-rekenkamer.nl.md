@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "rekenkamer.nl"
-internal_url:  "/data/rekenkamer.nl.html"
+internal_url:  "/dutchgov/rekenkamer.nl.html"
 categories: dutchgov
 ---

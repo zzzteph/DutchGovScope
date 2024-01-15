@@ -1,3 +1,9 @@
+---
+layout: dutchgov
+permalink: /dutchgov/knmidata.nl.html
+---
+
+
 # knmidata.nl
 *2024-01-14 09:53:15*
 ## Summary data

@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "inburgeren.nl"
-internal_url:  "/data/inburgeren.nl.html"
+internal_url:  "/dutchgov/inburgeren.nl.html"
 categories: dutchgov
 ---

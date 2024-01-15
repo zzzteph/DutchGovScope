@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "oecdguidelines.nl"
-internal_url:  "/data/oecdguidelines.nl.html"
+internal_url:  "/dutchgov/oecdguidelines.nl.html"
 categories: dutchgov
 ---

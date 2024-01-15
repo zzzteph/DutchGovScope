@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "platformkringlooplandbouw.nl"
-internal_url:  "/data/platformkringlooplandbouw.nl.html"
+internal_url:  "/dutchgov/platformkringlooplandbouw.nl.html"
 categories: dutchgov
 ---

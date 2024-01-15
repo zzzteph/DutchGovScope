@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "heyhetisoke.nl"
-internal_url:  "/data/heyhetisoke.nl.html"
+internal_url:  "/dutchgov/heyhetisoke.nl.html"
 categories: dutchgov
 ---

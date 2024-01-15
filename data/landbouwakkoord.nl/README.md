@@ -1,3 +1,9 @@
+---
+layout: dutchgov
+permalink: /dutchgov/landbouwakkoord.nl.html
+---
+
+
 # landbouwakkoord.nl
 *2024-01-14 10:45:11*
 ## Summary data

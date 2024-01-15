@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "aardgasvrijewijken.nl"
-internal_url:  "/data/aardgasvrijewijken.nl.html"
+internal_url:  "/dutchgov/aardgasvrijewijken.nl.html"
 categories: dutchgov
 ---

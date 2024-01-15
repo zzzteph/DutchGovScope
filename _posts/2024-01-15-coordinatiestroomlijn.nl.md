@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "coordinatiestroomlijn.nl"
-internal_url:  "/data/coordinatiestroomlijn.nl.html"
+internal_url:  "/dutchgov/coordinatiestroomlijn.nl.html"
 categories: dutchgov
 ---

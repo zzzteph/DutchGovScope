@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "rwsduurzamemobiliteit.nl"
-internal_url:  "/data/rwsduurzamemobiliteit.nl.html"
+internal_url:  "/dutchgov/rwsduurzamemobiliteit.nl.html"
 categories: dutchgov
 ---

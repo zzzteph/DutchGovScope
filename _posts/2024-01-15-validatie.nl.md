@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "validatie.nl"
-internal_url:  "/data/validatie.nl.html"
+internal_url:  "/dutchgov/validatie.nl.html"
 categories: dutchgov
 ---

@@ -1,3 +1,9 @@
+---
+layout: dutchgov
+permalink: /dutchgov/incidentmanagement.nl.html
+---
+
+
 # incidentmanagement.nl
 *2024-01-11 16:13:42*
 ## Summary data

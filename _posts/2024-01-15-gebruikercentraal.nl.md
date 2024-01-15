@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "gebruikercentraal.nl"
-internal_url:  "/data/gebruikercentraal.nl.html"
+internal_url:  "/dutchgov/gebruikercentraal.nl.html"
 categories: dutchgov
 ---

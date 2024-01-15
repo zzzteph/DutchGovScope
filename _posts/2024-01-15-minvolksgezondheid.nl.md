@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "minvolksgezondheid.nl"
-internal_url:  "/data/minvolksgezondheid.nl.html"
+internal_url:  "/dutchgov/minvolksgezondheid.nl.html"
 categories: dutchgov
 ---

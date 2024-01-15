@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "nieuwsbrievenminocw.nl"
-internal_url:  "/data/nieuwsbrievenminocw.nl.html"
+internal_url:  "/dutchgov/nieuwsbrievenminocw.nl.html"
 categories: dutchgov
 ---

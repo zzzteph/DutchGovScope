@@ -1,3 +1,9 @@
+---
+layout: dutchgov
+permalink: /dutchgov/hdsr.nl.html
+---
+
+
 # hdsr.nl
 *2024-01-11 14:16:17*
 ## Summary data

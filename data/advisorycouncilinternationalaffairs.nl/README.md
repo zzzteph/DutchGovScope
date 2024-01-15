@@ -1,3 +1,9 @@
+---
+layout: dutchgov
+permalink: /dutchgov/advisorycouncilinternationalaffairs.nl.html
+---
+
+
 # advisorycouncilinternationalaffairs.nl
 *2024-01-14 08:00:29*
 ## Summary data

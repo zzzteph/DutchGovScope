@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "goudenpiramide.nl"
-internal_url:  "/data/goudenpiramide.nl.html"
+internal_url:  "/dutchgov/goudenpiramide.nl.html"
 categories: dutchgov
 ---

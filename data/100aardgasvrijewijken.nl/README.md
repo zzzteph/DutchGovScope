@@ -1,3 +1,9 @@
+---
+layout: dutchgov
+permalink: /dutchgov/100aardgasvrijewijken.nl.html
+---
+
+
 # 100aardgasvrijewijken.nl
 *2024-01-11 02:13:11*
 ## Summary data

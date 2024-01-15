@@ -1,3 +1,9 @@
+---
+layout: dutchgov
+permalink: /dutchgov/transitieproefdiervrijeinnovatie.nl.html
+---
+
+
 # transitieproefdiervrijeinnovatie.nl
 *2024-01-10 20:57:24*
 ## Summary data

@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "tegengaanradicalisering.nl"
-internal_url:  "/data/tegengaanradicalisering.nl.html"
+internal_url:  "/dutchgov/tegengaanradicalisering.nl.html"
 categories: dutchgov
 ---

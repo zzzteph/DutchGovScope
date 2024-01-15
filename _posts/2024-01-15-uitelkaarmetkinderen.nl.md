@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "uitelkaarmetkinderen.nl"
-internal_url:  "/data/uitelkaarmetkinderen.nl.html"
+internal_url:  "/dutchgov/uitelkaarmetkinderen.nl.html"
 categories: dutchgov
 ---

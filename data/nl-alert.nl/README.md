@@ -1,3 +1,9 @@
+---
+layout: dutchgov
+permalink: /dutchgov/nl-alert.nl.html
+---
+
+
 # nl-alert.nl
 *2024-01-10 20:57:19*
 ## Summary data

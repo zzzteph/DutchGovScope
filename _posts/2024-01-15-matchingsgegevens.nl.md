@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "matchingsgegevens.nl"
-internal_url:  "/data/matchingsgegevens.nl.html"
+internal_url:  "/dutchgov/matchingsgegevens.nl.html"
 categories: dutchgov
 ---

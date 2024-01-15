@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "avghelpdeskzorg.nl"
-internal_url:  "/data/avghelpdeskzorg.nl.html"
+internal_url:  "/dutchgov/avghelpdeskzorg.nl.html"
 categories: dutchgov
 ---

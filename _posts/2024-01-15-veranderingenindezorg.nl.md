@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "veranderingenindezorg.nl"
-internal_url:  "/data/veranderingenindezorg.nl.html"
+internal_url:  "/dutchgov/veranderingenindezorg.nl.html"
 categories: dutchgov
 ---

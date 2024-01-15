@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "aaninhetdonker.nl"
-internal_url:  "/data/aaninhetdonker.nl.html"
+internal_url:  "/dutchgov/aaninhetdonker.nl.html"
 categories: dutchgov
 ---

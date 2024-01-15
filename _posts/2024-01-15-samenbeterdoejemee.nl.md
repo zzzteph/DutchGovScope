@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "samenbeterdoejemee.nl"
-internal_url:  "/data/samenbeterdoejemee.nl.html"
+internal_url:  "/dutchgov/samenbeterdoejemee.nl.html"
 categories: dutchgov
 ---

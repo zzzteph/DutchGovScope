@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "pannenkoekenpalazzo.nl"
-internal_url:  "/data/pannenkoekenpalazzo.nl.html"
+internal_url:  "/dutchgov/pannenkoekenpalazzo.nl.html"
 categories: dutchgov
 ---

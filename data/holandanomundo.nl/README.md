@@ -1,3 +1,9 @@
+---
+layout: dutchgov
+permalink: /dutchgov/holandanomundo.nl.html
+---
+
+
 # holandanomundo.nl
 *2024-01-14 04:47:08*
 ## Summary data

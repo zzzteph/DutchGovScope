@@ -1,3 +1,9 @@
+---
+layout: dutchgov
+permalink: /dutchgov/covrijregister.nl.html
+---
+
+
 # covrijregister.nl
 *2024-01-11 02:14:27*
 ## Summary data

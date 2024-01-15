@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "alcohollimiet.nl"
-internal_url:  "/data/alcohollimiet.nl.html"
+internal_url:  "/dutchgov/alcohollimiet.nl.html"
 categories: dutchgov
 ---

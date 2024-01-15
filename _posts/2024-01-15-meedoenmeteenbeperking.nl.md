@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "meedoenmeteenbeperking.nl"
-internal_url:  "/data/meedoenmeteenbeperking.nl.html"
+internal_url:  "/dutchgov/meedoenmeteenbeperking.nl.html"
 categories: dutchgov
 ---

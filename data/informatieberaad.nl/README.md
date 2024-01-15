@@ -1,3 +1,9 @@
+---
+layout: dutchgov
+permalink: /dutchgov/informatieberaad.nl.html
+---
+
+
 # informatieberaad.nl
 *2024-01-11 06:27:27*
 ## Summary data

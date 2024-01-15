@@ -1,3 +1,9 @@
+---
+layout: dutchgov
+permalink: /dutchgov/innovember.nl.html
+---
+
+
 # innovember.nl
 *2024-01-14 05:23:05*
 ## Summary data

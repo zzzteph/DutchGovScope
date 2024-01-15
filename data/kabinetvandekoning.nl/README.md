@@ -1,3 +1,9 @@
+---
+layout: dutchgov
+permalink: /dutchgov/kabinetvandekoning.nl.html
+---
+
+
 # kabinetvandekoning.nl
 *2024-01-14 06:02:06*
 ## Summary data

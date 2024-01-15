@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "veterinairberoepscollege.nl"
-internal_url:  "/data/veterinairberoepscollege.nl.html"
+internal_url:  "/dutchgov/veterinairberoepscollege.nl.html"
 categories: dutchgov
 ---

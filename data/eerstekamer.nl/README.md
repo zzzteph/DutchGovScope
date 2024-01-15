@@ -1,3 +1,9 @@
+---
+layout: dutchgov
+permalink: /dutchgov/eerstekamer.nl.html
+---
+
+
 # eerstekamer.nl
 *2024-01-14 03:29:10*
 ## Summary data

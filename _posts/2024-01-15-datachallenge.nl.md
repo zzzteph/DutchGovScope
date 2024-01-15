@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "datachallenge.nl"
-internal_url:  "/data/datachallenge.nl.html"
+internal_url:  "/dutchgov/datachallenge.nl.html"
 categories: dutchgov
 ---

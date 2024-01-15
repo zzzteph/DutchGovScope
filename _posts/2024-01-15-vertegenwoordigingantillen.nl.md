@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "vertegenwoordigingantillen.nl"
-internal_url:  "/data/vertegenwoordigingantillen.nl.html"
+internal_url:  "/dutchgov/vertegenwoordigingantillen.nl.html"
 categories: dutchgov
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "jenvbredewerkagenda.nl"
-internal_url:  "/data/jenvbredewerkagenda.nl.html"
+internal_url:  "/dutchgov/jenvbredewerkagenda.nl.html"
 categories: dutchgov
 ---

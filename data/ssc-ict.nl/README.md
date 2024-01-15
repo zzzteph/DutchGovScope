@@ -1,3 +1,9 @@
+---
+layout: dutchgov
+permalink: /dutchgov/ssc-ict.nl.html
+---
+
+
 # ssc-ict.nl
 *2024-01-10 20:57:23*
 ## Summary data

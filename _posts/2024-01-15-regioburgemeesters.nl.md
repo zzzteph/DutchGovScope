@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "regioburgemeesters.nl"
-internal_url:  "/data/regioburgemeesters.nl.html"
+internal_url:  "/dutchgov/regioburgemeesters.nl.html"
 categories: dutchgov
 ---

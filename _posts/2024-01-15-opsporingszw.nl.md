@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "opsporingszw.nl"
-internal_url:  "/data/opsporingszw.nl.html"
+internal_url:  "/dutchgov/opsporingszw.nl.html"
 categories: dutchgov
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "huurprijscheck.nl"
-internal_url:  "/data/huurprijscheck.nl.html"
+internal_url:  "/dutchgov/huurprijscheck.nl.html"
 categories: dutchgov
 ---

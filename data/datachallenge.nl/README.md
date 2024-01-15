@@ -1,3 +1,9 @@
+---
+layout: dutchgov
+permalink: /dutchgov/datachallenge.nl.html
+---
+
+
 # datachallenge.nl
 *2024-01-11 16:13:44*
 ## Summary data

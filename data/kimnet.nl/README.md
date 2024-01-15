@@ -1,3 +1,9 @@
+---
+layout: dutchgov
+permalink: /dutchgov/kimnet.nl.html
+---
+
+
 # kimnet.nl
 *2024-01-14 06:10:07*
 ## Summary data

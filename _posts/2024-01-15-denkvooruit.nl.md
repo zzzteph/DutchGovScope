@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "denkvooruit.nl"
-internal_url:  "/data/denkvooruit.nl.html"
+internal_url:  "/dutchgov/denkvooruit.nl.html"
 categories: dutchgov
 ---

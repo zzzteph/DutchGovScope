@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "lokale-democratie.nl"
-internal_url:  "/data/lokale-democratie.nl.html"
+internal_url:  "/dutchgov/lokale-democratie.nl.html"
 categories: dutchgov
 ---

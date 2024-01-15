@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "vreemdelingenvisie.nl"
-internal_url:  "/data/vreemdelingenvisie.nl.html"
+internal_url:  "/dutchgov/vreemdelingenvisie.nl.html"
 categories: dutchgov
 ---

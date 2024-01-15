@@ -1,3 +1,9 @@
+---
+layout: dutchgov
+permalink: /dutchgov/ctgb.nl.html
+---
+
+
 # ctgb.nl
 *2024-01-14 01:36:17*
 ## Summary data

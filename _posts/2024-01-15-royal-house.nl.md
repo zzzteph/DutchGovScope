@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "royal-house.nl"
-internal_url:  "/data/royal-house.nl.html"
+internal_url:  "/dutchgov/royal-house.nl.html"
 categories: dutchgov
 ---

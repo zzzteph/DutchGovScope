@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "komuitjeschuld.nl"
-internal_url:  "/data/komuitjeschuld.nl.html"
+internal_url:  "/dutchgov/komuitjeschuld.nl.html"
 categories: dutchgov
 ---

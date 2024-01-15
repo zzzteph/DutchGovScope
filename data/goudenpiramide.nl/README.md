@@ -1,3 +1,9 @@
+---
+layout: dutchgov
+permalink: /dutchgov/goudenpiramide.nl.html
+---
+
+
 # goudenpiramide.nl
 *2024-01-14 04:28:06*
 ## Summary data

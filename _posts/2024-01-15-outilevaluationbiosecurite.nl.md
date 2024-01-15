@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "outilevaluationbiosecurite.nl"
-internal_url:  "/data/outilevaluationbiosecurite.nl.html"
+internal_url:  "/dutchgov/outilevaluationbiosecurite.nl.html"
 categories: dutchgov
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "regiosaandegrens.nl"
-internal_url:  "/data/regiosaandegrens.nl.html"
+internal_url:  "/dutchgov/regiosaandegrens.nl.html"
 categories: dutchgov
 ---

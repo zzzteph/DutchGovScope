@@ -1,3 +1,9 @@
+---
+layout: dutchgov
+permalink: /dutchgov/metenvanduurzaamheid.nl.html
+---
+
+
 # metenvanduurzaamheid.nl
 *2024-01-11 16:13:38*
 ## Summary data

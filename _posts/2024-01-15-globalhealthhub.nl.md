@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "globalhealthhub.nl"
-internal_url:  "/data/globalhealthhub.nl.html"
+internal_url:  "/dutchgov/globalhealthhub.nl.html"
 categories: dutchgov
 ---

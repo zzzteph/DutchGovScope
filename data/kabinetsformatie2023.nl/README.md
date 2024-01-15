@@ -1,3 +1,9 @@
+---
+layout: dutchgov
+permalink: /dutchgov/kabinetsformatie2023.nl.html
+---
+
+
 # kabinetsformatie2023.nl
 *2024-01-11 16:13:46*
 ## Summary data

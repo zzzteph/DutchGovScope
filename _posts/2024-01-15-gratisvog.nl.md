@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "gratisvog.nl"
-internal_url:  "/data/gratisvog.nl.html"
+internal_url:  "/dutchgov/gratisvog.nl.html"
 categories: dutchgov
 ---

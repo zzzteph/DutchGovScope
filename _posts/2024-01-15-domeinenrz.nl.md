@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "domeinenrz.nl"
-internal_url:  "/data/domeinenrz.nl.html"
+internal_url:  "/dutchgov/domeinenrz.nl.html"
 categories: dutchgov
 ---

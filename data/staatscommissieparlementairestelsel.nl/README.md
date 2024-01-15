@@ -1,3 +1,9 @@
+---
+layout: dutchgov
+permalink: /dutchgov/staatscommissieparlementairestelsel.nl.html
+---
+
+
 # staatscommissieparlementairestelsel.nl
 *2024-01-11 02:08:13*
 ## Summary data

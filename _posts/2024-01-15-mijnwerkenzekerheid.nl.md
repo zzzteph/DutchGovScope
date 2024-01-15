@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "mijnwerkenzekerheid.nl"
-internal_url:  "/data/mijnwerkenzekerheid.nl.html"
+internal_url:  "/dutchgov/mijnwerkenzekerheid.nl.html"
 categories: dutchgov
 ---

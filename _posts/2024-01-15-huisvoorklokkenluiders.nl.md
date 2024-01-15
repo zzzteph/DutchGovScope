@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "huisvoorklokkenluiders.nl"
-internal_url:  "/data/huisvoorklokkenluiders.nl.html"
+internal_url:  "/dutchgov/huisvoorklokkenluiders.nl.html"
 categories: dutchgov
 ---

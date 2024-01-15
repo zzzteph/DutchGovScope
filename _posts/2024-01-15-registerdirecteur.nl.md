@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "registerdirecteur.nl"
-internal_url:  "/data/registerdirecteur.nl.html"
+internal_url:  "/dutchgov/registerdirecteur.nl.html"
 categories: dutchgov
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "iob-evaluatie.nl"
-internal_url:  "/data/iob-evaluatie.nl.html"
+internal_url:  "/dutchgov/iob-evaluatie.nl.html"
 categories: dutchgov
 ---

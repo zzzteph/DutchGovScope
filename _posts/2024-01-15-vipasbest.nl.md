@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "vipasbest.nl"
-internal_url:  "/data/vipasbest.nl.html"
+internal_url:  "/dutchgov/vipasbest.nl.html"
 categories: dutchgov
 ---

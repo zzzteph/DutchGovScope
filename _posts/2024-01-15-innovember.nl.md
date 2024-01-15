@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "innovember.nl"
-internal_url:  "/data/innovember.nl.html"
+internal_url:  "/dutchgov/innovember.nl.html"
 categories: dutchgov
 ---

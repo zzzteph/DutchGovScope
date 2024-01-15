@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "emissionsauthority.nl"
-internal_url:  "/data/emissionsauthority.nl.html"
+internal_url:  "/dutchgov/emissionsauthority.nl.html"
 categories: dutchgov
 ---

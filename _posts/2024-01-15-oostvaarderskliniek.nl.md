@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "oostvaarderskliniek.nl"
-internal_url:  "/data/oostvaarderskliniek.nl.html"
+internal_url:  "/dutchgov/oostvaarderskliniek.nl.html"
 categories: dutchgov
 ---

@@ -1,3 +1,9 @@
+---
+layout: dutchgov
+permalink: /dutchgov/rechtwijzer.nl.html
+---
+
+
 # rechtwijzer.nl
 *2024-01-11 03:26:27*
 ## Summary data

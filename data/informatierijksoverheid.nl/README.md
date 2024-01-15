@@ -1,3 +1,9 @@
+---
+layout: dutchgov
+permalink: /dutchgov/informatierijksoverheid.nl.html
+---
+
+
 # informatierijksoverheid.nl
 *2024-01-11 03:57:37*
 ## Summary data

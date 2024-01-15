@@ -1,3 +1,9 @@
+---
+layout: dutchgov
+permalink: /dutchgov/kansrijkestartnl.nl.html
+---
+
+
 # kansrijkestartnl.nl
 *2024-01-14 06:03:08*
 ## Summary data

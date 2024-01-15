@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "interbestuurlijkedatastrategie.nl"
-internal_url:  "/data/interbestuurlijkedatastrategie.nl.html"
+internal_url:  "/dutchgov/interbestuurlijkedatastrategie.nl.html"
 categories: dutchgov
 ---

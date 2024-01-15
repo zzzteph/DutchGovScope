@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "dashboardgroningen.nl"
-internal_url:  "/data/dashboardgroningen.nl.html"
+internal_url:  "/dutchgov/dashboardgroningen.nl.html"
 categories: dutchgov
 ---

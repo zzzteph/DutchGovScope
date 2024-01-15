@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "forumstandaardisatie.nl"
-internal_url:  "/data/forumstandaardisatie.nl.html"
+internal_url:  "/dutchgov/forumstandaardisatie.nl.html"
 categories: dutchgov
 ---

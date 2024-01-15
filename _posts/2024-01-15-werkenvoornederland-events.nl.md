@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "werkenvoornederland-events.nl"
-internal_url:  "/data/werkenvoornederland-events.nl.html"
+internal_url:  "/dutchgov/werkenvoornederland-events.nl.html"
 categories: dutchgov
 ---

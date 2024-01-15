@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "regeldruk.nl"
-internal_url:  "/data/regeldruk.nl.html"
+internal_url:  "/dutchgov/regeldruk.nl.html"
 categories: dutchgov
 ---

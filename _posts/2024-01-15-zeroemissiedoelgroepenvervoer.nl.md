@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "zeroemissiedoelgroepenvervoer.nl"
-internal_url:  "/data/zeroemissiedoelgroepenvervoer.nl.html"
+internal_url:  "/dutchgov/zeroemissiedoelgroepenvervoer.nl.html"
 categories: dutchgov
 ---

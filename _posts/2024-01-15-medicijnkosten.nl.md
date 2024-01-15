@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "medicijnkosten.nl"
-internal_url:  "/data/medicijnkosten.nl.html"
+internal_url:  "/dutchgov/medicijnkosten.nl.html"
 categories: dutchgov
 ---

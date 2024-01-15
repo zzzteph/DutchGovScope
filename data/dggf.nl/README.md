@@ -1,3 +1,9 @@
+---
+layout: dutchgov
+permalink: /dutchgov/dggf.nl.html
+---
+
+
 # dggf.nl
 *2024-01-14 02:19:13*
 ## Summary data

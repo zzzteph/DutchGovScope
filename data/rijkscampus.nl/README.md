@@ -1,3 +1,9 @@
+---
+layout: dutchgov
+permalink: /dutchgov/rijkscampus.nl.html
+---
+
+
 # rijkscampus.nl
 *2024-01-11 02:07:43*
 ## Summary data

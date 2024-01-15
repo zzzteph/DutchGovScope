@@ -1,3 +1,9 @@
+---
+layout: dutchgov
+permalink: /dutchgov/koopoverheid.nl.html
+---
+
+
 # koopoverheid.nl
 *2024-01-14 10:01:25*
 ## Summary data

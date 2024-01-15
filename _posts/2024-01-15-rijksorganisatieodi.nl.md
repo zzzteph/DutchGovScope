@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "rijksorganisatieodi.nl"
-internal_url:  "/data/rijksorganisatieodi.nl.html"
+internal_url:  "/dutchgov/rijksorganisatieodi.nl.html"
 categories: dutchgov
 ---

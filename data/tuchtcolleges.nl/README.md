@@ -1,3 +1,9 @@
+---
+layout: dutchgov
+permalink: /dutchgov/tuchtcolleges.nl.html
+---
+
+
 # tuchtcolleges.nl
 *2024-01-11 06:27:51*
 ## Summary data

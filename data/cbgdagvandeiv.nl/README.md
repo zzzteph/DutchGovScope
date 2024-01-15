@@ -1,3 +1,9 @@
+---
+layout: dutchgov
+permalink: /dutchgov/cbgdagvandeiv.nl.html
+---
+
+
 # cbgdagvandeiv.nl
 *2024-01-10 20:57:10*
 ## Summary data

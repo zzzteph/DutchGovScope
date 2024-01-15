@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "samenmetenaanluchtkwaliteit.nl"
-internal_url:  "/data/samenmetenaanluchtkwaliteit.nl.html"
+internal_url:  "/dutchgov/samenmetenaanluchtkwaliteit.nl.html"
 categories: dutchgov
 ---

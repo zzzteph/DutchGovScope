@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "terugvoerplicht.nl"
-internal_url:  "/data/terugvoerplicht.nl.html"
+internal_url:  "/dutchgov/terugvoerplicht.nl.html"
 categories: dutchgov
 ---

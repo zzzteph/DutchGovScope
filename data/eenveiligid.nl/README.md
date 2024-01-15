@@ -1,3 +1,9 @@
+---
+layout: dutchgov
+permalink: /dutchgov/eenveiligid.nl.html
+---
+
+
 # eenveiligid.nl
 *2024-01-11 02:04:40*
 ## Summary data

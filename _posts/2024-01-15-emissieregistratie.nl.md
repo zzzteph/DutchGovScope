@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "emissieregistratie.nl"
-internal_url:  "/data/emissieregistratie.nl.html"
+internal_url:  "/dutchgov/emissieregistratie.nl.html"
 categories: dutchgov
 ---

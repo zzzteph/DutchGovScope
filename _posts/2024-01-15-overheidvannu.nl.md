@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "overheidvannu.nl"
-internal_url:  "/data/overheidvannu.nl.html"
+internal_url:  "/dutchgov/overheidvannu.nl.html"
 categories: dutchgov
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "beheerautoriteitwaddenzee.nl"
-internal_url:  "/data/beheerautoriteitwaddenzee.nl.html"
+internal_url:  "/dutchgov/beheerautoriteitwaddenzee.nl.html"
 categories: dutchgov
 ---

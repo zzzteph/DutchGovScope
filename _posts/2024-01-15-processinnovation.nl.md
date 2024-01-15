@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "processinnovation.nl"
-internal_url:  "/data/processinnovation.nl.html"
+internal_url:  "/dutchgov/processinnovation.nl.html"
 categories: dutchgov
 ---

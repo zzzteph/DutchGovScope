@@ -1,3 +1,9 @@
+---
+layout: dutchgov
+permalink: /dutchgov/gobernadoraruba.com.html
+---
+
+
 # gobernadoraruba.com
 *2024-01-14 04:26:06*
 ## Summary data

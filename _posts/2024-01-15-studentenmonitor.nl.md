@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "studentenmonitor.nl"
-internal_url:  "/data/studentenmonitor.nl.html"
+internal_url:  "/dutchgov/studentenmonitor.nl.html"
 categories: dutchgov
 ---

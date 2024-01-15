@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "verantwoordmestvervoer.nl"
-internal_url:  "/data/verantwoordmestvervoer.nl.html"
+internal_url:  "/dutchgov/verantwoordmestvervoer.nl.html"
 categories: dutchgov
 ---

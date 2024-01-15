@@ -1,3 +1,9 @@
+---
+layout: dutchgov
+permalink: /dutchgov/a7a8.nl.html
+---
+
+
 # a7a8.nl
 *2024-01-11 16:13:41*
 ## Summary data

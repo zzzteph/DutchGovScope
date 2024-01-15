@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "coronavaccinatie.nl"
-internal_url:  "/data/coronavaccinatie.nl.html"
+internal_url:  "/dutchgov/coronavaccinatie.nl.html"
 categories: dutchgov
 ---

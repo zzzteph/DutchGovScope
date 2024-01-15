@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "peppolautoriteit.nl"
-internal_url:  "/data/peppolautoriteit.nl.html"
+internal_url:  "/dutchgov/peppolautoriteit.nl.html"
 categories: dutchgov
 ---

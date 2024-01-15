@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "jaarverslagenzorg.nl"
-internal_url:  "/data/jaarverslagenzorg.nl.html"
+internal_url:  "/dutchgov/jaarverslagenzorg.nl.html"
 categories: dutchgov
 ---

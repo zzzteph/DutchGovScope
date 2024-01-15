@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "kansrijkestartnl.nl"
-internal_url:  "/data/kansrijkestartnl.nl.html"
+internal_url:  "/dutchgov/kansrijkestartnl.nl.html"
 categories: dutchgov
 ---

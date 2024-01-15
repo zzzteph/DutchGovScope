@@ -1,3 +1,9 @@
+---
+layout: dutchgov
+permalink: /dutchgov/hogeraadvanadel.nl.html
+---
+
+
 # hogeraadvanadel.nl
 *2024-01-14 04:46:07*
 ## Summary data

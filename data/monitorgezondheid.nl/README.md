@@ -1,3 +1,9 @@
+---
+layout: dutchgov
+permalink: /dutchgov/monitorgezondheid.nl.html
+---
+
+
 # monitorgezondheid.nl
 *2024-01-11 16:13:38*
 ## Summary data

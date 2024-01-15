@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "dwangindezorg.nl"
-internal_url:  "/data/dwangindezorg.nl.html"
+internal_url:  "/dutchgov/dwangindezorg.nl.html"
 categories: dutchgov
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "mindfulrijk.nl"
-internal_url:  "/data/mindfulrijk.nl.html"
+internal_url:  "/dutchgov/mindfulrijk.nl.html"
 categories: dutchgov
 ---

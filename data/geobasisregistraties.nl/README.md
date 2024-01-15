@@ -1,3 +1,9 @@
+---
+layout: dutchgov
+permalink: /dutchgov/geobasisregistraties.nl.html
+---
+
+
 # geobasisregistraties.nl
 *2024-01-14 04:21:07*
 ## Summary data

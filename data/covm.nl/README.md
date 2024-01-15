@@ -1,3 +1,9 @@
+---
+layout: dutchgov
+permalink: /dutchgov/covm.nl.html
+---
+
+
 # covm.nl
 *2024-01-14 01:25:11*
 ## Summary data

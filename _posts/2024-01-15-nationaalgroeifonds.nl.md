@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "nationaalgroeifonds.nl"
-internal_url:  "/data/nationaalgroeifonds.nl.html"
+internal_url:  "/dutchgov/nationaalgroeifonds.nl.html"
 categories: dutchgov
 ---

@@ -1,3 +1,9 @@
+---
+layout: dutchgov
+permalink: /dutchgov/communicatierijk.nl.html
+---
+
+
 # communicatierijk.nl
 *2024-01-14 01:24:07*
 ## Summary data

@@ -1,3 +1,9 @@
+---
+layout: dutchgov
+permalink: /dutchgov/datavoorgezondheid.nl.html
+---
+
+
 # datavoorgezondheid.nl
 *2024-01-14 02:00:06*
 ## Summary data

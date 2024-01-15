@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "dutchoffshorewindatlas.nl"
-internal_url:  "/data/dutchoffshorewindatlas.nl.html"
+internal_url:  "/dutchgov/dutchoffshorewindatlas.nl.html"
 categories: dutchgov
 ---

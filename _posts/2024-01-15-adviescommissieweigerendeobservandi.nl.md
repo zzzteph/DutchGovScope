@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "adviescommissieweigerendeobservandi.nl"
-internal_url:  "/data/adviescommissieweigerendeobservandi.nl.html"
+internal_url:  "/dutchgov/adviescommissieweigerendeobservandi.nl.html"
 categories: dutchgov
 ---

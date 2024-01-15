@@ -1,3 +1,9 @@
+---
+layout: dutchgov
+permalink: /dutchgov/justitie.nl.html
+---
+
+
 # justitie.nl
 *2024-01-14 05:59:24*
 ## Summary data

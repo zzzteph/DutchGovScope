@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "talentisbelangrijker.nl"
-internal_url:  "/data/talentisbelangrijker.nl.html"
+internal_url:  "/dutchgov/talentisbelangrijker.nl.html"
 categories: dutchgov
 ---

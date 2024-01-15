@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "deltaflexjenvmobiliteitscentrum.nl"
-internal_url:  "/data/deltaflexjenvmobiliteitscentrum.nl.html"
+internal_url:  "/dutchgov/deltaflexjenvmobiliteitscentrum.nl.html"
 categories: dutchgov
 ---

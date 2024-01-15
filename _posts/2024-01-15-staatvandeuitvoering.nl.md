@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "staatvandeuitvoering.nl"
-internal_url:  "/data/staatvandeuitvoering.nl.html"
+internal_url:  "/dutchgov/staatvandeuitvoering.nl.html"
 categories: dutchgov
 ---

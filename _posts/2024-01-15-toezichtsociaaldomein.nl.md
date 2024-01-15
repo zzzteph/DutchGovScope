@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "toezichtsociaaldomein.nl"
-internal_url:  "/data/toezichtsociaaldomein.nl.html"
+internal_url:  "/dutchgov/toezichtsociaaldomein.nl.html"
 categories: dutchgov
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "gegevensuitwisselingindezorg.nl"
-internal_url:  "/data/gegevensuitwisselingindezorg.nl.html"
+internal_url:  "/dutchgov/gegevensuitwisselingindezorg.nl.html"
 categories: dutchgov
 ---

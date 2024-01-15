@@ -1,3 +1,9 @@
+---
+layout: dutchgov
+permalink: /dutchgov/kennisplatformvhg.nl.html
+---
+
+
 # kennisplatformvhg.nl
 *2024-01-11 16:13:41*
 ## Summary data

@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "cbgjaarverslag.nl"
-internal_url:  "/data/cbgjaarverslag.nl.html"
+internal_url:  "/dutchgov/cbgjaarverslag.nl.html"
 categories: dutchgov
 ---

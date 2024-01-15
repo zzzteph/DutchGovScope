@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "dutchncca.nl"
-internal_url:  "/data/dutchncca.nl.html"
+internal_url:  "/dutchgov/dutchncca.nl.html"
 categories: dutchgov
 ---

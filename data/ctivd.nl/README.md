@@ -1,3 +1,9 @@
+---
+layout: dutchgov
+permalink: /dutchgov/ctivd.nl.html
+---
+
+
 # ctivd.nl
 *2024-01-14 01:39:31*
 ## Summary data

@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "meermetminderplastic.nl"
-internal_url:  "/data/meermetminderplastic.nl.html"
+internal_url:  "/dutchgov/meermetminderplastic.nl.html"
 categories: dutchgov
 ---

@@ -1,3 +1,9 @@
+---
+layout: dutchgov
+permalink: /dutchgov/nlvergroent.nl.html
+---
+
+
 # nlvergroent.nl
 *2024-01-11 06:06:35*
 ## Summary data

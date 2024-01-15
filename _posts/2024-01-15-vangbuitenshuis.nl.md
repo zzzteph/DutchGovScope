@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "vangbuitenshuis.nl"
-internal_url:  "/data/vangbuitenshuis.nl.html"
+internal_url:  "/dutchgov/vangbuitenshuis.nl.html"
 categories: dutchgov
 ---

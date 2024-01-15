@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "platformwow.nl"
-internal_url:  "/data/platformwow.nl.html"
+internal_url:  "/dutchgov/platformwow.nl.html"
 categories: dutchgov
 ---

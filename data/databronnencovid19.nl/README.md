@@ -1,3 +1,9 @@
+---
+layout: dutchgov
+permalink: /dutchgov/databronnencovid19.nl.html
+---
+
+
 # databronnencovid19.nl
 *2024-01-11 16:13:39*
 ## Summary data

@@ -1,3 +1,9 @@
+---
+layout: dutchgov
+permalink: /dutchgov/cultuursubsidie.nl.html
+---
+
+
 # cultuursubsidie.nl
 *2024-01-14 01:54:09*
 ## Summary data

@@ -1,3 +1,9 @@
+---
+layout: dutchgov
+permalink: /dutchgov/cibgacademie.nl.html
+---
+
+
 # cibgacademie.nl
 *2024-01-11 16:13:42*
 ## Summary data

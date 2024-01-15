@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "biosecurityselfscan.nl"
-internal_url:  "/data/biosecurityselfscan.nl.html"
+internal_url:  "/dutchgov/biosecurityselfscan.nl.html"
 categories: dutchgov
 ---

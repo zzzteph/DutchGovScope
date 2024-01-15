@@ -1,3 +1,9 @@
+---
+layout: dutchgov
+permalink: /dutchgov/nlarbeidsinspectie.nl.html
+---
+
+
 # nlarbeidsinspectie.nl
 *2024-01-10 20:57:19*
 ## Summary data

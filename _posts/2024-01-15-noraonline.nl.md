@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "noraonline.nl"
-internal_url:  "/data/noraonline.nl.html"
+internal_url:  "/dutchgov/noraonline.nl.html"
 categories: dutchgov
 ---

@@ -1,3 +1,9 @@
+---
+layout: dutchgov
+permalink: /dutchgov/faculteitmilitairewetenschappen.nl.html
+---
+
+
 # faculteitmilitairewetenschappen.nl
 *2024-01-11 16:13:41*
 ## Summary data

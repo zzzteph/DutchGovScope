@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "justisbehindthescreens.nl"
-internal_url:  "/data/justisbehindthescreens.nl.html"
+internal_url:  "/dutchgov/justisbehindthescreens.nl.html"
 categories: dutchgov
 ---

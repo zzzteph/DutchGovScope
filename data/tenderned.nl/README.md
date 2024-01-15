@@ -1,3 +1,9 @@
+---
+layout: dutchgov
+permalink: /dutchgov/tenderned.nl.html
+---
+
+
 # tenderned.nl
 *2024-01-11 16:13:42*
 ## Summary data

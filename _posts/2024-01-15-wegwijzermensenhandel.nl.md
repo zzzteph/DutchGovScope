@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "wegwijzermensenhandel.nl"
-internal_url:  "/data/wegwijzermensenhandel.nl.html"
+internal_url:  "/dutchgov/wegwijzermensenhandel.nl.html"
 categories: dutchgov
 ---

@@ -1,3 +1,9 @@
+---
+layout: dutchgov
+permalink: /dutchgov/bodemrichtlijn.nl.html
+---
+
+
 # bodemrichtlijn.nl
 *2024-01-11 16:13:44*
 ## Summary data

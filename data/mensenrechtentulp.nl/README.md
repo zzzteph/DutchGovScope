@@ -1,3 +1,9 @@
+---
+layout: dutchgov
+permalink: /dutchgov/mensenrechtentulp.nl.html
+---
+
+
 # mensenrechtentulp.nl
 *2024-01-10 20:57:17*
 ## Summary data

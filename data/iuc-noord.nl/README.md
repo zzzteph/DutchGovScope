@@ -1,3 +1,9 @@
+---
+layout: dutchgov
+permalink: /dutchgov/iuc-noord.nl.html
+---
+
+
 # iuc-noord.nl
 *2024-01-11 14:53:01*
 ## Summary data

@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "pkioverheid.nl"
-internal_url:  "/data/pkioverheid.nl.html"
+internal_url:  "/dutchgov/pkioverheid.nl.html"
 categories: dutchgov
 ---

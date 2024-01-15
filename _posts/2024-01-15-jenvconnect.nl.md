@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "jenvconnect.nl"
-internal_url:  "/data/jenvconnect.nl.html"
+internal_url:  "/dutchgov/jenvconnect.nl.html"
 categories: dutchgov
 ---

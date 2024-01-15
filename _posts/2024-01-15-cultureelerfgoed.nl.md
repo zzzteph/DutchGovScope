@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "cultureelerfgoed.nl"
-internal_url:  "/data/cultureelerfgoed.nl.html"
+internal_url:  "/dutchgov/cultureelerfgoed.nl.html"
 categories: dutchgov
 ---

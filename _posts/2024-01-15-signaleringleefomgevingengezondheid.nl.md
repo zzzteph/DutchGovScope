@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "signaleringleefomgevingengezondheid.nl"
-internal_url:  "/data/signaleringleefomgevingengezondheid.nl.html"
+internal_url:  "/dutchgov/signaleringleefomgevingengezondheid.nl.html"
 categories: dutchgov
 ---

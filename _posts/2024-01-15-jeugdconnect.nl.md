@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "jeugdconnect.nl"
-internal_url:  "/data/jeugdconnect.nl.html"
+internal_url:  "/dutchgov/jeugdconnect.nl.html"
 categories: dutchgov
 ---

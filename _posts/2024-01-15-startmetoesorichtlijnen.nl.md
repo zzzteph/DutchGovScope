@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "startmetoesorichtlijnen.nl"
-internal_url:  "/data/startmetoesorichtlijnen.nl.html"
+internal_url:  "/dutchgov/startmetoesorichtlijnen.nl.html"
 categories: dutchgov
 ---

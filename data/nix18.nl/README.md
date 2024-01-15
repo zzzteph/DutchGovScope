@@ -1,3 +1,9 @@
+---
+layout: dutchgov
+permalink: /dutchgov/nix18.nl.html
+---
+
+
 # nix18.nl
 *2024-01-10 20:57:19*
 ## Summary data

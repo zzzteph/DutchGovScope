@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "aivdkerstpuzzel.nl"
-internal_url:  "/data/aivdkerstpuzzel.nl.html"
+internal_url:  "/dutchgov/aivdkerstpuzzel.nl.html"
 categories: dutchgov
 ---

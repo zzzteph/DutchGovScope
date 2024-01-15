@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "emancipatienota.nl"
-internal_url:  "/data/emancipatienota.nl.html"
+internal_url:  "/dutchgov/emancipatienota.nl.html"
 categories: dutchgov
 ---

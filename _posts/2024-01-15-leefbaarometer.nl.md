@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "leefbaarometer.nl"
-internal_url:  "/data/leefbaarometer.nl.html"
+internal_url:  "/dutchgov/leefbaarometer.nl.html"
 categories: dutchgov
 ---

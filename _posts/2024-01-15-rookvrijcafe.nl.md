@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "rookvrijcafe.nl"
-internal_url:  "/data/rookvrijcafe.nl.html"
+internal_url:  "/dutchgov/rookvrijcafe.nl.html"
 categories: dutchgov
 ---

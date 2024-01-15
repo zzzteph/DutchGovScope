@@ -1,3 +1,9 @@
+---
+layout: dutchgov
+permalink: /dutchgov/economischeveiligheid.nl.html
+---
+
+
 # economischeveiligheid.nl
 *2024-01-14 03:22:14*
 ## Summary data

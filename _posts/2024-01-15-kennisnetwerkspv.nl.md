@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "kennisnetwerkspv.nl"
-internal_url:  "/data/kennisnetwerkspv.nl.html"
+internal_url:  "/dutchgov/kennisnetwerkspv.nl.html"
 categories: dutchgov
 ---

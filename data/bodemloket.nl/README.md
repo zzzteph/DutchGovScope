@@ -1,3 +1,9 @@
+---
+layout: dutchgov
+permalink: /dutchgov/bodemloket.nl.html
+---
+
+
 # bodemloket.nl
 *2024-01-11 16:13:36*
 ## Summary data

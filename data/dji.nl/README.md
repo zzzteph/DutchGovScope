@@ -1,3 +1,9 @@
+---
+layout: dutchgov
+permalink: /dutchgov/dji.nl.html
+---
+
+
 # dji.nl
 *2024-01-14 02:30:11*
 ## Summary data

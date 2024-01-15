@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "aanbiedersmedicijnen.nl"
-internal_url:  "/data/aanbiedersmedicijnen.nl.html"
+internal_url:  "/dutchgov/aanbiedersmedicijnen.nl.html"
 categories: dutchgov
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "stilstaanbijcorona.nl"
-internal_url:  "/data/stilstaanbijcorona.nl.html"
+internal_url:  "/dutchgov/stilstaanbijcorona.nl.html"
 categories: dutchgov
 ---

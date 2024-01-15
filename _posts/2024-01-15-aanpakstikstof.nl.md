@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "aanpakstikstof.nl"
-internal_url:  "/data/aanpakstikstof.nl.html"
+internal_url:  "/dutchgov/aanpakstikstof.nl.html"
 categories: dutchgov
 ---

@@ -1,3 +1,9 @@
+---
+layout: dutchgov
+permalink: /dutchgov/farmatec.nl.html
+---
+
+
 # farmatec.nl
 *2024-01-14 04:10:08*
 ## Summary data

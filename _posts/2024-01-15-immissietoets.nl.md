@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "immissietoets.nl"
-internal_url:  "/data/immissietoets.nl.html"
+internal_url:  "/dutchgov/immissietoets.nl.html"
 categories: dutchgov
 ---

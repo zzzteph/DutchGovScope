@@ -1,3 +1,9 @@
+---
+layout: dutchgov
+permalink: /dutchgov/nkw2023.nl.html
+---
+
+
 # nkw2023.nl
 *2024-01-11 16:13:36*
 ## Summary data

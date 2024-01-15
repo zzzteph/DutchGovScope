@@ -1,3 +1,9 @@
+---
+layout: dutchgov
+permalink: /dutchgov/gipdatabank.nl.html
+---
+
+
 # gipdatabank.nl
 *2024-01-11 16:13:43*
 ## Summary data

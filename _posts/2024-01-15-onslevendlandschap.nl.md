@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "onslevendlandschap.nl"
-internal_url:  "/data/onslevendlandschap.nl.html"
+internal_url:  "/dutchgov/onslevendlandschap.nl.html"
 categories: dutchgov
 ---

@@ -1,3 +1,9 @@
+---
+layout: dutchgov
+permalink: /dutchgov/crisis.nl.html
+---
+
+
 # crisis.nl
 *2024-01-14 01:26:13*
 ## Summary data

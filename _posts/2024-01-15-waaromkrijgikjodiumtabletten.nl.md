@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "waaromkrijgikjodiumtabletten.nl"
-internal_url:  "/data/waaromkrijgikjodiumtabletten.nl.html"
+internal_url:  "/dutchgov/waaromkrijgikjodiumtabletten.nl.html"
 categories: dutchgov
 ---

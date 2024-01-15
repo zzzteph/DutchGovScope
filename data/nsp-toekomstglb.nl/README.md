@@ -1,3 +1,9 @@
+---
+layout: dutchgov
+permalink: /dutchgov/nsp-toekomstglb.nl.html
+---
+
+
 # nsp-toekomstglb.nl
 *2024-01-11 16:13:45*
 ## Summary data

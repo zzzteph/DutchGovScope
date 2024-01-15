@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "oesorichtlijnen.nl"
-internal_url:  "/data/oesorichtlijnen.nl.html"
+internal_url:  "/dutchgov/oesorichtlijnen.nl.html"
 categories: dutchgov
 ---

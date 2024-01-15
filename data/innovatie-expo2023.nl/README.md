@@ -1,3 +1,9 @@
+---
+layout: dutchgov
+permalink: /dutchgov/innovatie-expo2023.nl.html
+---
+
+
 # innovatie-expo2023.nl
 *2024-01-11 15:44:20*
 ## Summary data

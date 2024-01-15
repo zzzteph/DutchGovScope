@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "kosteneffectiviteitvanpreventie.nl"
-internal_url:  "/data/kosteneffectiviteitvanpreventie.nl.html"
+internal_url:  "/dutchgov/kosteneffectiviteitvanpreventie.nl.html"
 categories: dutchgov
 ---

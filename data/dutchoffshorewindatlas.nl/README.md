@@ -1,3 +1,9 @@
+---
+layout: dutchgov
+permalink: /dutchgov/dutchoffshorewindatlas.nl.html
+---
+
+
 # dutchoffshorewindatlas.nl
 *2024-01-14 03:19:04*
 ## Summary data

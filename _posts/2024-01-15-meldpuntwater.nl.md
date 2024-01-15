@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "meldpuntwater.nl"
-internal_url:  "/data/meldpuntwater.nl.html"
+internal_url:  "/dutchgov/meldpuntwater.nl.html"
 categories: dutchgov
 ---

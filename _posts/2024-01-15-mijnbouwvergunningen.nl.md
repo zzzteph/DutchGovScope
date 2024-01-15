@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "mijnbouwvergunningen.nl"
-internal_url:  "/data/mijnbouwvergunningen.nl.html"
+internal_url:  "/dutchgov/mijnbouwvergunningen.nl.html"
 categories: dutchgov
 ---

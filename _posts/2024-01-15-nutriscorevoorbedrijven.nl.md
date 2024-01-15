@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "nutriscorevoorbedrijven.nl"
-internal_url:  "/data/nutriscorevoorbedrijven.nl.html"
+internal_url:  "/dutchgov/nutriscorevoorbedrijven.nl.html"
 categories: dutchgov
 ---

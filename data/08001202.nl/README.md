@@ -1,3 +1,9 @@
+---
+layout: dutchgov
+permalink: /dutchgov/08001202.nl.html
+---
+
+
 # 08001202.nl
 *2024-01-11 06:27:16*
 ## Summary data

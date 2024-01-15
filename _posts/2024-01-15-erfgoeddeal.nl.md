@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "erfgoeddeal.nl"
-internal_url:  "/data/erfgoeddeal.nl.html"
+internal_url:  "/dutchgov/erfgoeddeal.nl.html"
 categories: dutchgov
 ---

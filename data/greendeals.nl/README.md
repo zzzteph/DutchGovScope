@@ -1,3 +1,9 @@
+---
+layout: dutchgov
+permalink: /dutchgov/greendeals.nl.html
+---
+
+
 # greendeals.nl
 *2024-01-11 16:13:36*
 ## Summary data

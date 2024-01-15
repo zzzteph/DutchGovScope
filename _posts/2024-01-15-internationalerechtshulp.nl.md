@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "internationalerechtshulp.nl"
-internal_url:  "/data/internationalerechtshulp.nl.html"
+internal_url:  "/dutchgov/internationalerechtshulp.nl.html"
 categories: dutchgov
 ---

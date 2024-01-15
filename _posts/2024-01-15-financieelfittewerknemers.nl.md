@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "financieelfittewerknemers.nl"
-internal_url:  "/data/financieelfittewerknemers.nl.html"
+internal_url:  "/dutchgov/financieelfittewerknemers.nl.html"
 categories: dutchgov
 ---

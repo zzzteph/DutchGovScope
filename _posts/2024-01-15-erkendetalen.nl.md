@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "erkendetalen.nl"
-internal_url:  "/data/erkendetalen.nl.html"
+internal_url:  "/dutchgov/erkendetalen.nl.html"
 categories: dutchgov
 ---

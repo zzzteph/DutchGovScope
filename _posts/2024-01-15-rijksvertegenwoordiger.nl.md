@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "rijksvertegenwoordiger.nl"
-internal_url:  "/data/rijksvertegenwoordiger.nl.html"
+internal_url:  "/dutchgov/rijksvertegenwoordiger.nl.html"
 categories: dutchgov
 ---

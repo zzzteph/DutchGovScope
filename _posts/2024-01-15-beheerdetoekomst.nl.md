@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "beheerdetoekomst.nl"
-internal_url:  "/data/beheerdetoekomst.nl.html"
+internal_url:  "/dutchgov/beheerdetoekomst.nl.html"
 categories: dutchgov
 ---

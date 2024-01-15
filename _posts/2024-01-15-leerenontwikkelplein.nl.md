@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "leerenontwikkelplein.nl"
-internal_url:  "/data/leerenontwikkelplein.nl.html"
+internal_url:  "/dutchgov/leerenontwikkelplein.nl.html"
 categories: dutchgov
 ---

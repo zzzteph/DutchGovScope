@@ -1,3 +1,9 @@
+---
+layout: dutchgov
+permalink: /dutchgov/life-ip-deltanatuur.nl.html
+---
+
+
 # life-ip-deltanatuur.nl
 *2024-01-11 16:13:38*
 ## Summary data

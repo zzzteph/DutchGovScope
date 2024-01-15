@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "onsnieuwepensioen.nl"
-internal_url:  "/data/onsnieuwepensioen.nl.html"
+internal_url:  "/dutchgov/onsnieuwepensioen.nl.html"
 categories: dutchgov
 ---

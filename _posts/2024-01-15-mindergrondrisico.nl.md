@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "mindergrondrisico.nl"
-internal_url:  "/data/mindergrondrisico.nl.html"
+internal_url:  "/dutchgov/mindergrondrisico.nl.html"
 categories: dutchgov
 ---

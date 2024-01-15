@@ -1,3 +1,9 @@
+---
+layout: dutchgov
+permalink: /dutchgov/in-made.nl.html
+---
+
+
 # in-made.nl
 *2024-01-14 05:17:14*
 ## Summary data

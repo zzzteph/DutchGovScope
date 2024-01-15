@@ -1,3 +1,9 @@
+---
+layout: dutchgov
+permalink: /dutchgov/cvte.nl.html
+---
+
+
 # cvte.nl
 *2024-01-14 01:55:16*
 ## Summary data

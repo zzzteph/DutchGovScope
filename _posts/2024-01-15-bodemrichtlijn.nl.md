@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "bodemrichtlijn.nl"
-internal_url:  "/data/bodemrichtlijn.nl.html"
+internal_url:  "/dutchgov/bodemrichtlijn.nl.html"
 categories: dutchgov
 ---

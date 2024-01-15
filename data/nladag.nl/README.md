@@ -1,3 +1,9 @@
+---
+layout: dutchgov
+permalink: /dutchgov/nladag.nl.html
+---
+
+
 # nladag.nl
 *2024-01-11 16:13:45*
 ## Summary data

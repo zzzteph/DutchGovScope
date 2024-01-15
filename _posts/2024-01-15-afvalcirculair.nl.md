@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "afvalcirculair.nl"
-internal_url:  "/data/afvalcirculair.nl.html"
+internal_url:  "/dutchgov/afvalcirculair.nl.html"
 categories: dutchgov
 ---

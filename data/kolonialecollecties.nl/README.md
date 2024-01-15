@@ -1,3 +1,9 @@
+---
+layout: dutchgov
+permalink: /dutchgov/kolonialecollecties.nl.html
+---
+
+
 # kolonialecollecties.nl
 *2024-01-11 16:13:40*
 ## Summary data

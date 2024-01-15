@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "monitorgelijkwaardigekansen.nl"
-internal_url:  "/data/monitorgelijkwaardigekansen.nl.html"
+internal_url:  "/dutchgov/monitorgelijkwaardigekansen.nl.html"
 categories: dutchgov
 ---

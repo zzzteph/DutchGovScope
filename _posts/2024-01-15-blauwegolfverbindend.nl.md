@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "blauwegolfverbindend.nl"
-internal_url:  "/data/blauwegolfverbindend.nl.html"
+internal_url:  "/dutchgov/blauwegolfverbindend.nl.html"
 categories: dutchgov
 ---

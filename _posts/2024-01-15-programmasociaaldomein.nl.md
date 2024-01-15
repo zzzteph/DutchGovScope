@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "programmasociaaldomein.nl"
-internal_url:  "/data/programmasociaaldomein.nl.html"
+internal_url:  "/dutchgov/programmasociaaldomein.nl.html"
 categories: dutchgov
 ---

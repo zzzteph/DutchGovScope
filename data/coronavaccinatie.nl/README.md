@@ -1,3 +1,9 @@
+---
+layout: dutchgov
+permalink: /dutchgov/coronavaccinatie.nl.html
+---
+
+
 # coronavaccinatie.nl
 *2024-01-10 20:57:11*
 ## Summary data

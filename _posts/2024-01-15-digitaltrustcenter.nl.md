@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "digitaltrustcenter.nl"
-internal_url:  "/data/digitaltrustcenter.nl.html"
+internal_url:  "/dutchgov/digitaltrustcenter.nl.html"
 categories: dutchgov
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "federatieveservice.nl"
-internal_url:  "/data/federatieveservice.nl.html"
+internal_url:  "/dutchgov/federatieveservice.nl.html"
 categories: dutchgov
 ---

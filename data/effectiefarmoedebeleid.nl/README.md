@@ -1,3 +1,9 @@
+---
+layout: dutchgov
+permalink: /dutchgov/effectiefarmoedebeleid.nl.html
+---
+
+
 # effectiefarmoedebeleid.nl
 *2024-01-14 03:29:14*
 ## Summary data

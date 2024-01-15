@@ -1,3 +1,9 @@
+---
+layout: dutchgov
+permalink: /dutchgov/cultureelerfgoed.nl.html
+---
+
+
 # cultureelerfgoed.nl
 *2024-01-14 01:51:24*
 ## Summary data

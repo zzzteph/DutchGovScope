@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "collegesanering.nl"
-internal_url:  "/data/collegesanering.nl.html"
+internal_url:  "/dutchgov/collegesanering.nl.html"
 categories: dutchgov
 ---

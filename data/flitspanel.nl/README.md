@@ -1,3 +1,9 @@
+---
+layout: dutchgov
+permalink: /dutchgov/flitspanel.nl.html
+---
+
+
 # flitspanel.nl
 *2024-01-11 16:13:40*
 ## Summary data

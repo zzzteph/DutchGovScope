@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "zorgvannu.nl"
-internal_url:  "/data/zorgvannu.nl.html"
+internal_url:  "/dutchgov/zorgvannu.nl.html"
 categories: dutchgov
 ---

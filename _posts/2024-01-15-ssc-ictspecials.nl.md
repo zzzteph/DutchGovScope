@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "ssc-ictspecials.nl"
-internal_url:  "/data/ssc-ictspecials.nl.html"
+internal_url:  "/dutchgov/ssc-ictspecials.nl.html"
 categories: dutchgov
 ---

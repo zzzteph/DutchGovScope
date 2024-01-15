@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "registerexterneveiligheid.nl"
-internal_url:  "/data/registerexterneveiligheid.nl.html"
+internal_url:  "/dutchgov/registerexterneveiligheid.nl.html"
 categories: dutchgov
 ---

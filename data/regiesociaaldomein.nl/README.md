@@ -1,3 +1,9 @@
+---
+layout: dutchgov
+permalink: /dutchgov/regiesociaaldomein.nl.html
+---
+
+
 # regiesociaaldomein.nl
 *2024-01-11 06:34:25*
 ## Summary data

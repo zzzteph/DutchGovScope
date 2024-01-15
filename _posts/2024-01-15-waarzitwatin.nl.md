@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "waarzitwatin.nl"
-internal_url:  "/data/waarzitwatin.nl.html"
+internal_url:  "/dutchgov/waarzitwatin.nl.html"
 categories: dutchgov
 ---

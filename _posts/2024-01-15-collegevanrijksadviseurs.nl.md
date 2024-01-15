@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "collegevanrijksadviseurs.nl"
-internal_url:  "/data/collegevanrijksadviseurs.nl.html"
+internal_url:  "/dutchgov/collegevanrijksadviseurs.nl.html"
 categories: dutchgov
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "puurrookvrij.nl"
-internal_url:  "/data/puurrookvrij.nl.html"
+internal_url:  "/dutchgov/puurrookvrij.nl.html"
 categories: dutchgov
 ---

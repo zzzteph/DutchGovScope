@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "zorgopdekaart.nl"
-internal_url:  "/data/zorgopdekaart.nl.html"
+internal_url:  "/dutchgov/zorgopdekaart.nl.html"
 categories: dutchgov
 ---

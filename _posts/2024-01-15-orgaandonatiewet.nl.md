@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "orgaandonatiewet.nl"
-internal_url:  "/data/orgaandonatiewet.nl.html"
+internal_url:  "/dutchgov/orgaandonatiewet.nl.html"
 categories: dutchgov
 ---

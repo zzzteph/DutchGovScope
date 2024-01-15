@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "duurzamecao.nl"
-internal_url:  "/data/duurzamecao.nl.html"
+internal_url:  "/dutchgov/duurzamecao.nl.html"
 categories: dutchgov
 ---

@@ -1,3 +1,9 @@
+---
+layout: dutchgov
+permalink: /dutchgov/nutriscore.nl.html
+---
+
+
 # nutriscore.nl
 *2024-01-11 06:27:44*
 ## Summary data

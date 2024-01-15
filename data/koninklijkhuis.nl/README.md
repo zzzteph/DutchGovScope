@@ -1,3 +1,9 @@
+---
+layout: dutchgov
+permalink: /dutchgov/koninklijkhuis.nl.html
+---
+
+
 # koninklijkhuis.nl
 *2024-01-14 09:59:13*
 ## Summary data

@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "greendeals.nl"
-internal_url:  "/data/greendeals.nl.html"
+internal_url:  "/dutchgov/greendeals.nl.html"
 categories: dutchgov
 ---

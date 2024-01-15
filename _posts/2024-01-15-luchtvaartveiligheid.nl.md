@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "luchtvaartveiligheid.nl"
-internal_url:  "/data/luchtvaartveiligheid.nl.html"
+internal_url:  "/dutchgov/luchtvaartveiligheid.nl.html"
 categories: dutchgov
 ---

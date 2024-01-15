@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "samenwerkenaanriviernatuur.nl"
-internal_url:  "/data/samenwerkenaanriviernatuur.nl.html"
+internal_url:  "/dutchgov/samenwerkenaanriviernatuur.nl.html"
 categories: dutchgov
 ---

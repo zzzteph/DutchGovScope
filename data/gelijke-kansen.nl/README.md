@@ -1,3 +1,9 @@
+---
+layout: dutchgov
+permalink: /dutchgov/gelijke-kansen.nl.html
+---
+
+
 # gelijke-kansen.nl
 *2024-01-14 04:19:10*
 ## Summary data

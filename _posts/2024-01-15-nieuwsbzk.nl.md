@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "nieuwsbzk.nl"
-internal_url:  "/data/nieuwsbzk.nl.html"
+internal_url:  "/dutchgov/nieuwsbzk.nl.html"
 categories: dutchgov
 ---

@@ -1,3 +1,9 @@
+---
+layout: dutchgov
+permalink: /dutchgov/arboportaal.nl.html
+---
+
+
 # arboportaal.nl
 *2024-01-10 20:57:10*
 ## Summary data

@@ -1,3 +1,9 @@
+---
+layout: dutchgov
+permalink: /dutchgov/kvk.nl.html
+---
+
+
 # kvk.nl
 *2024-01-14 10:45:04*
 ## Summary data

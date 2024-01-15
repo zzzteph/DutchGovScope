@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "sterkmedezeggenschap.nl"
-internal_url:  "/data/sterkmedezeggenschap.nl.html"
+internal_url:  "/dutchgov/sterkmedezeggenschap.nl.html"
 categories: dutchgov
 ---

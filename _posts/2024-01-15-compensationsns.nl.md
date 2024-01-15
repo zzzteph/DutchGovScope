@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "compensationsns.nl"
-internal_url:  "/data/compensationsns.nl.html"
+internal_url:  "/dutchgov/compensationsns.nl.html"
 categories: dutchgov
 ---

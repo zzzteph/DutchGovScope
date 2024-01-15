@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "toegangtotdeoverheid.nl"
-internal_url:  "/data/toegangtotdeoverheid.nl.html"
+internal_url:  "/dutchgov/toegangtotdeoverheid.nl.html"
 categories: dutchgov
 ---

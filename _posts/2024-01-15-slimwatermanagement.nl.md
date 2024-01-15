@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "slimwatermanagement.nl"
-internal_url:  "/data/slimwatermanagement.nl.html"
+internal_url:  "/dutchgov/slimwatermanagement.nl.html"
 categories: dutchgov
 ---

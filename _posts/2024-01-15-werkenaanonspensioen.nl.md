@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "werkenaanonspensioen.nl"
-internal_url:  "/data/werkenaanonspensioen.nl.html"
+internal_url:  "/dutchgov/werkenaanonspensioen.nl.html"
 categories: dutchgov
 ---

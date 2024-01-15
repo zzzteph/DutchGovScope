@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "woningmarktbeleid.nl"
-internal_url:  "/data/woningmarktbeleid.nl.html"
+internal_url:  "/dutchgov/woningmarktbeleid.nl.html"
 categories: dutchgov
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "zelfinspectie.nl"
-internal_url:  "/data/zelfinspectie.nl.html"
+internal_url:  "/dutchgov/zelfinspectie.nl.html"
 categories: dutchgov
 ---

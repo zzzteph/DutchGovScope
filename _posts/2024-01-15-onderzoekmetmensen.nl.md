@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "onderzoekmetmensen.nl"
-internal_url:  "/data/onderzoekmetmensen.nl.html"
+internal_url:  "/dutchgov/onderzoekmetmensen.nl.html"
 categories: dutchgov
 ---

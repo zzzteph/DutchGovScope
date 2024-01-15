@@ -1,3 +1,9 @@
+---
+layout: dutchgov
+permalink: /dutchgov/weekvandeintegriteitrijk.nl.html
+---
+
+
 # weekvandeintegriteitrijk.nl
 *2024-01-11 16:13:46*
 ## Summary data

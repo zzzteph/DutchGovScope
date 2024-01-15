@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "onderwijsraad.nl"
-internal_url:  "/data/onderwijsraad.nl.html"
+internal_url:  "/dutchgov/onderwijsraad.nl.html"
 categories: dutchgov
 ---

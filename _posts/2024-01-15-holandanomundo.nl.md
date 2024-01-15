@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "holandanomundo.nl"
-internal_url:  "/data/holandanomundo.nl.html"
+internal_url:  "/dutchgov/holandanomundo.nl.html"
 categories: dutchgov
 ---

@@ -1,3 +1,9 @@
+---
+layout: dutchgov
+permalink: /dutchgov/erfgoeddeal.nl.html
+---
+
+
 # erfgoeddeal.nl
 *2024-01-14 03:50:09*
 ## Summary data

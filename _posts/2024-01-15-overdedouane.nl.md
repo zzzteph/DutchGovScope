@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "overdedouane.nl"
-internal_url:  "/data/overdedouane.nl.html"
+internal_url:  "/dutchgov/overdedouane.nl.html"
 categories: dutchgov
 ---

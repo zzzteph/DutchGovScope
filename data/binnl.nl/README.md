@@ -1,3 +1,9 @@
+---
+layout: dutchgov
+permalink: /dutchgov/binnl.nl.html
+---
+
+
 # binnl.nl
 *2024-01-11 16:13:37*
 ## Summary data

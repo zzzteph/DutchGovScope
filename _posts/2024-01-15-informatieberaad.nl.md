@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "informatieberaad.nl"
-internal_url:  "/data/informatieberaad.nl.html"
+internal_url:  "/dutchgov/informatieberaad.nl.html"
 categories: dutchgov
 ---

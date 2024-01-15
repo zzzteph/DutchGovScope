@@ -1,3 +1,9 @@
+---
+layout: dutchgov
+permalink: /dutchgov/gr.nl.html
+---
+
+
 # gr.nl
 *2024-01-14 04:32:31*
 ## Summary data

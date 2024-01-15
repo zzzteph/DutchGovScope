@@ -1,3 +1,9 @@
+---
+layout: dutchgov
+permalink: /dutchgov/delerarenagenda.nl.html
+---
+
+
 # delerarenagenda.nl
 *2024-01-14 02:08:13*
 ## Summary data

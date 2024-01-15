@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "verlofadviescollege.nl"
-internal_url:  "/data/verlofadviescollege.nl.html"
+internal_url:  "/dutchgov/verlofadviescollege.nl.html"
 categories: dutchgov
 ---

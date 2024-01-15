@@ -1,3 +1,9 @@
+---
+layout: dutchgov
+permalink: /dutchgov/jenvacademie.nl.html
+---
+
+
 # jenvacademie.nl
 *2024-01-11 02:02:40*
 ## Summary data

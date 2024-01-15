@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "onderwijsinderegioincijfers.nl"
-internal_url:  "/data/onderwijsinderegioincijfers.nl.html"
+internal_url:  "/dutchgov/onderwijsinderegioincijfers.nl.html"
 categories: dutchgov
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "nationaalcoordinatorgroningen.nl"
-internal_url:  "/data/nationaalcoordinatorgroningen.nl.html"
+internal_url:  "/dutchgov/nationaalcoordinatorgroningen.nl.html"
 categories: dutchgov
 ---

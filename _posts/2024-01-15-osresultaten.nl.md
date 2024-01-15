@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "osresultaten.nl"
-internal_url:  "/data/osresultaten.nl.html"
+internal_url:  "/dutchgov/osresultaten.nl.html"
 categories: dutchgov
 ---

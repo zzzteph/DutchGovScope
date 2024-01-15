@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "ggo-vergunningverlening-zoeken.nl"
-internal_url:  "/data/ggo-vergunningverlening-zoeken.nl.html"
+internal_url:  "/dutchgov/ggo-vergunningverlening-zoeken.nl.html"
 categories: dutchgov
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "herkomstgezocht.nl"
-internal_url:  "/data/herkomstgezocht.nl.html"
+internal_url:  "/dutchgov/herkomstgezocht.nl.html"
 categories: dutchgov
 ---

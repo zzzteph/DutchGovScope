@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "huiselijkgeweld.nl"
-internal_url:  "/data/huiselijkgeweld.nl.html"
+internal_url:  "/dutchgov/huiselijkgeweld.nl.html"
 categories: dutchgov
 ---

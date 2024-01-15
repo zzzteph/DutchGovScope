@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "ontdekdezorg.nl"
-internal_url:  "/data/ontdekdezorg.nl.html"
+internal_url:  "/dutchgov/ontdekdezorg.nl.html"
 categories: dutchgov
 ---

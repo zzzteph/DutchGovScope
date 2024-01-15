@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "mirtoverzicht.nl"
-internal_url:  "/data/mirtoverzicht.nl.html"
+internal_url:  "/dutchgov/mirtoverzicht.nl.html"
 categories: dutchgov
 ---

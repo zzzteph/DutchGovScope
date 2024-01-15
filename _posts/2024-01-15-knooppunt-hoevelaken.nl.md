@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "knooppunt-hoevelaken.nl"
-internal_url:  "/data/knooppunt-hoevelaken.nl.html"
+internal_url:  "/dutchgov/knooppunt-hoevelaken.nl.html"
 categories: dutchgov
 ---

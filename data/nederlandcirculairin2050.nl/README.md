@@ -1,3 +1,9 @@
+---
+layout: dutchgov
+permalink: /dutchgov/nederlandcirculairin2050.nl.html
+---
+
+
 # nederlandcirculairin2050.nl
 *2024-01-10 20:57:18*
 ## Summary data

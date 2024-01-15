@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "co-vrijregister.nl"
-internal_url:  "/data/co-vrijregister.nl.html"
+internal_url:  "/dutchgov/co-vrijregister.nl.html"
 categories: dutchgov
 ---

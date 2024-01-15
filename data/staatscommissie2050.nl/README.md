@@ -1,3 +1,9 @@
+---
+layout: dutchgov
+permalink: /dutchgov/staatscommissie2050.nl.html
+---
+
+
 # staatscommissie2050.nl
 *2024-01-10 22:48:43*
 ## Summary data

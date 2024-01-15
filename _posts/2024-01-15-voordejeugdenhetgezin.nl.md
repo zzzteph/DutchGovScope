@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "voordejeugdenhetgezin.nl"
-internal_url:  "/data/voordejeugdenhetgezin.nl.html"
+internal_url:  "/dutchgov/voordejeugdenhetgezin.nl.html"
 categories: dutchgov
 ---

@@ -1,3 +1,9 @@
+---
+layout: dutchgov
+permalink: /dutchgov/aandeslagmetdeomgevingswet.nl.html
+---
+
+
 # aandeslagmetdeomgevingswet.nl
 *2024-01-10 22:41:22*
 ## Summary data

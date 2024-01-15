@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "waterschaplimburg.nl"
-internal_url:  "/data/waterschaplimburg.nl.html"
+internal_url:  "/dutchgov/waterschaplimburg.nl.html"
 categories: dutchgov
 ---

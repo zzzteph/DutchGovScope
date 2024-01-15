@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "higherlevel.nl"
-internal_url:  "/data/higherlevel.nl.html"
+internal_url:  "/dutchgov/higherlevel.nl.html"
 categories: dutchgov
 ---

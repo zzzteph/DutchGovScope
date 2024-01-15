@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "effectiefarmoedebeleid.nl"
-internal_url:  "/data/effectiefarmoedebeleid.nl.html"
+internal_url:  "/dutchgov/effectiefarmoedebeleid.nl.html"
 categories: dutchgov
 ---

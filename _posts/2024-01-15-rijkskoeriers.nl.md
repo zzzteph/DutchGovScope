@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "rijkskoeriers.nl"
-internal_url:  "/data/rijkskoeriers.nl.html"
+internal_url:  "/dutchgov/rijkskoeriers.nl.html"
 categories: dutchgov
 ---

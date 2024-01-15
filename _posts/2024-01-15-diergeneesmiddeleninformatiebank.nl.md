@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "diergeneesmiddeleninformatiebank.nl"
-internal_url:  "/data/diergeneesmiddeleninformatiebank.nl.html"
+internal_url:  "/dutchgov/diergeneesmiddeleninformatiebank.nl.html"
 categories: dutchgov
 ---

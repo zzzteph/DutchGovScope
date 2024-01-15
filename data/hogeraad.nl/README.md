@@ -1,3 +1,9 @@
+---
+layout: dutchgov
+permalink: /dutchgov/hogeraad.nl.html
+---
+
+
 # hogeraad.nl
 *2024-01-11 16:02:15*
 ## Summary data

@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "onzedelta.nl"
-internal_url:  "/data/onzedelta.nl.html"
+internal_url:  "/dutchgov/onzedelta.nl.html"
 categories: dutchgov
 ---

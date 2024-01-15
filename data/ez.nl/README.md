@@ -1,3 +1,9 @@
+---
+layout: dutchgov
+permalink: /dutchgov/ez.nl.html
+---
+
+
 # ez.nl
 *2024-01-14 04:07:15*
 ## Summary data

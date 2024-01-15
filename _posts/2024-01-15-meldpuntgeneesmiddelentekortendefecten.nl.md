@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "meldpuntgeneesmiddelentekortendefecten.nl"
-internal_url:  "/data/meldpuntgeneesmiddelentekortendefecten.nl.html"
+internal_url:  "/dutchgov/meldpuntgeneesmiddelentekortendefecten.nl.html"
 categories: dutchgov
 ---

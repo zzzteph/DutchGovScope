@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "rtlnieuws.nl"
-internal_url:  "/data/rtlnieuws.nl.html"
+internal_url:  "/dutchgov/rtlnieuws.nl.html"
 categories: dutchgov
 ---

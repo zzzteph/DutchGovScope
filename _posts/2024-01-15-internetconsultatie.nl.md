@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "internetconsultatie.nl"
-internal_url:  "/data/internetconsultatie.nl.html"
+internal_url:  "/dutchgov/internetconsultatie.nl.html"
 categories: dutchgov
 ---

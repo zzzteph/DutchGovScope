@@ -1,3 +1,9 @@
+---
+layout: dutchgov
+permalink: /dutchgov/igz.nl.html
+---
+
+
 # igz.nl
 *2024-01-14 05:06:25*
 ## Summary data

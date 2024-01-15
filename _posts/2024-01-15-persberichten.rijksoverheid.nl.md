@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "persberichten.rijksoverheid.nl"
-internal_url:  "/data/persberichten.rijksoverheid.nl.html"
+internal_url:  "/dutchgov/persberichten.rijksoverheid.nl.html"
 categories: dutchgov
 ---

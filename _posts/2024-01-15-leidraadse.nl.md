@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "leidraadse.nl"
-internal_url:  "/data/leidraadse.nl.html"
+internal_url:  "/dutchgov/leidraadse.nl.html"
 categories: dutchgov
 ---

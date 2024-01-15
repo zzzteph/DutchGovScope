@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "loketkennisveiligheid.nl"
-internal_url:  "/data/loketkennisveiligheid.nl.html"
+internal_url:  "/dutchgov/loketkennisveiligheid.nl.html"
 categories: dutchgov
 ---

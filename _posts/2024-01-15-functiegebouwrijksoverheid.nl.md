@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "functiegebouwrijksoverheid.nl"
-internal_url:  "/data/functiegebouwrijksoverheid.nl.html"
+internal_url:  "/dutchgov/functiegebouwrijksoverheid.nl.html"
 categories: dutchgov
 ---

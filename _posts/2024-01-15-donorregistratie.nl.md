@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "donorregistratie.nl"
-internal_url:  "/data/donorregistratie.nl.html"
+internal_url:  "/dutchgov/donorregistratie.nl.html"
 categories: dutchgov
 ---

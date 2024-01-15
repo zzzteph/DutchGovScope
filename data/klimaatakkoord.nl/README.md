@@ -1,3 +1,9 @@
+---
+layout: dutchgov
+permalink: /dutchgov/klimaatakkoord.nl.html
+---
+
+
 # klimaatakkoord.nl
 *2024-01-14 06:13:13*
 ## Summary data

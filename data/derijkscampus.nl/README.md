@@ -1,3 +1,9 @@
+---
+layout: dutchgov
+permalink: /dutchgov/derijkscampus.nl.html
+---
+
+
 # derijkscampus.nl
 *2024-01-14 02:15:10*
 ## Summary data

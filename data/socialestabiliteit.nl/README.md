@@ -1,3 +1,9 @@
+---
+layout: dutchgov
+permalink: /dutchgov/socialestabiliteit.nl.html
+---
+
+
 # socialestabiliteit.nl
 *2024-01-10 20:57:23*
 ## Summary data

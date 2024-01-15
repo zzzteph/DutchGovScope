@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "bodemambities.nl"
-internal_url:  "/data/bodemambities.nl.html"
+internal_url:  "/dutchgov/bodemambities.nl.html"
 categories: dutchgov
 ---

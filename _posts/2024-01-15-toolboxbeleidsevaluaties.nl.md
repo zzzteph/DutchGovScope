@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "toolboxbeleidsevaluaties.nl"
-internal_url:  "/data/toolboxbeleidsevaluaties.nl.html"
+internal_url:  "/dutchgov/toolboxbeleidsevaluaties.nl.html"
 categories: dutchgov
 ---

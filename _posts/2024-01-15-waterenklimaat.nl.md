@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "waterenklimaat.nl"
-internal_url:  "/data/waterenklimaat.nl.html"
+internal_url:  "/dutchgov/waterenklimaat.nl.html"
 categories: dutchgov
 ---

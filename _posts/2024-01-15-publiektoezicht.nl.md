@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "publiektoezicht.nl"
-internal_url:  "/data/publiektoezicht.nl.html"
+internal_url:  "/dutchgov/publiektoezicht.nl.html"
 categories: dutchgov
 ---

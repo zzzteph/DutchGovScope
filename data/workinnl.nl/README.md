@@ -1,3 +1,9 @@
+---
+layout: dutchgov
+permalink: /dutchgov/workinnl.nl.html
+---
+
+
 # workinnl.nl
 *2024-01-11 16:13:36*
 ## Summary data

@@ -1,3 +1,9 @@
+---
+layout: dutchgov
+permalink: /dutchgov/blijfkritisch.nl.html
+---
+
+
 # blijfkritisch.nl
 *2024-01-11 02:11:47*
 ## Summary data

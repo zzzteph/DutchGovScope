@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "daszogefietst.nl"
-internal_url:  "/data/daszogefietst.nl.html"
+internal_url:  "/dutchgov/daszogefietst.nl.html"
 categories: dutchgov
 ---

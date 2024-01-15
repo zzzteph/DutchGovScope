@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "demijnraad.nl"
-internal_url:  "/data/demijnraad.nl.html"
+internal_url:  "/dutchgov/demijnraad.nl.html"
 categories: dutchgov
 ---

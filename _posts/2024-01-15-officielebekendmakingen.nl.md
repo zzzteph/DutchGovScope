@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "officielebekendmakingen.nl"
-internal_url:  "/data/officielebekendmakingen.nl.html"
+internal_url:  "/dutchgov/officielebekendmakingen.nl.html"
 categories: dutchgov
 ---

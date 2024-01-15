@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "wetorgaandonatie.nl"
-internal_url:  "/data/wetorgaandonatie.nl.html"
+internal_url:  "/dutchgov/wetorgaandonatie.nl.html"
 categories: dutchgov
 ---

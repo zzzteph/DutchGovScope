@@ -1,3 +1,9 @@
+---
+layout: dutchgov
+permalink: /dutchgov/blankenburgverbinding.nl.html
+---
+
+
 # blankenburgverbinding.nl
 *2024-01-11 16:13:42*
 ## Summary data

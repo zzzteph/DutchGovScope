@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "manifestgroep.nl"
-internal_url:  "/data/manifestgroep.nl.html"
+internal_url:  "/dutchgov/manifestgroep.nl.html"
 categories: dutchgov
 ---

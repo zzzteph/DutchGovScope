@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "mebscienceday.nl"
-internal_url:  "/data/mebscienceday.nl.html"
+internal_url:  "/dutchgov/mebscienceday.nl.html"
 categories: dutchgov
 ---

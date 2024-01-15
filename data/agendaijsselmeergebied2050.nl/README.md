@@ -1,3 +1,9 @@
+---
+layout: dutchgov
+permalink: /dutchgov/agendaijsselmeergebied2050.nl.html
+---
+
+
 # agendaijsselmeergebied2050.nl
 *2024-01-14 08:00:51*
 ## Summary data

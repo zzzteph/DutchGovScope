@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "vliegtuiggeluid.nl"
-internal_url:  "/data/vliegtuiggeluid.nl.html"
+internal_url:  "/dutchgov/vliegtuiggeluid.nl.html"
 categories: dutchgov
 ---

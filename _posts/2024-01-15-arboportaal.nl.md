@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "arboportaal.nl"
-internal_url:  "/data/arboportaal.nl.html"
+internal_url:  "/dutchgov/arboportaal.nl.html"
 categories: dutchgov
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "biotechnologie.nl"
-internal_url:  "/data/biotechnologie.nl.html"
+internal_url:  "/dutchgov/biotechnologie.nl.html"
 categories: dutchgov
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "aboutnetherlandscustoms.nl"
-internal_url:  "/data/aboutnetherlandscustoms.nl.html"
+internal_url:  "/dutchgov/aboutnetherlandscustoms.nl.html"
 categories: dutchgov
 ---

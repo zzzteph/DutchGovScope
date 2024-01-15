@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "testuitvoeringarbeidsvoorwaardenwetgeving.nl"
-internal_url:  "/data/testuitvoeringarbeidsvoorwaardenwetgeving.nl.html"
+internal_url:  "/dutchgov/testuitvoeringarbeidsvoorwaardenwetgeving.nl.html"
 categories: dutchgov
 ---

@@ -1,3 +1,9 @@
+---
+layout: dutchgov
+permalink: /dutchgov/europaomdehoek.nl.html
+---
+
+
 # europaomdehoek.nl
 *2024-01-14 03:51:07*
 ## Summary data

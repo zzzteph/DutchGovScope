@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "big-register.nl"
-internal_url:  "/data/big-register.nl.html"
+internal_url:  "/dutchgov/big-register.nl.html"
 categories: dutchgov
 ---

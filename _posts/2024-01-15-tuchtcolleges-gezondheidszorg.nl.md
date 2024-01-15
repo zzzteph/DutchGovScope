@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "tuchtcolleges-gezondheidszorg.nl"
-internal_url:  "/data/tuchtcolleges-gezondheidszorg.nl.html"
+internal_url:  "/dutchgov/tuchtcolleges-gezondheidszorg.nl.html"
 categories: dutchgov
 ---

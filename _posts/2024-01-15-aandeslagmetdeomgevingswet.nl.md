@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "aandeslagmetdeomgevingswet.nl"
-internal_url:  "/data/aandeslagmetdeomgevingswet.nl.html"
+internal_url:  "/dutchgov/aandeslagmetdeomgevingswet.nl.html"
 categories: dutchgov
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "sociaalfondsminienw.nl"
-internal_url:  "/data/sociaalfondsminienw.nl.html"
+internal_url:  "/dutchgov/sociaalfondsminienw.nl.html"
 categories: dutchgov
 ---

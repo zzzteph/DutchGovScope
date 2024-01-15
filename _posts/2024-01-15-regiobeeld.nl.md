@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "regiobeeld.nl"
-internal_url:  "/data/regiobeeld.nl.html"
+internal_url:  "/dutchgov/regiobeeld.nl.html"
 categories: dutchgov
 ---

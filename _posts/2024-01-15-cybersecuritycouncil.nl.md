@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "cybersecuritycouncil.nl"
-internal_url:  "/data/cybersecuritycouncil.nl.html"
+internal_url:  "/dutchgov/cybersecuritycouncil.nl.html"
 categories: dutchgov
 ---

@@ -1,3 +1,9 @@
+---
+layout: dutchgov
+permalink: /dutchgov/mobilityhappiness.nl.html
+---
+
+
 # mobilityhappiness.nl
 *2024-01-11 16:13:45*
 ## Summary data

@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "waterbeschikbaarheid.nl"
-internal_url:  "/data/waterbeschikbaarheid.nl.html"
+internal_url:  "/dutchgov/waterbeschikbaarheid.nl.html"
 categories: dutchgov
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "advisorycouncilinternationalaffairs.nl"
-internal_url:  "/data/advisorycouncilinternationalaffairs.nl.html"
+internal_url:  "/dutchgov/advisorycouncilinternationalaffairs.nl.html"
 categories: dutchgov
 ---

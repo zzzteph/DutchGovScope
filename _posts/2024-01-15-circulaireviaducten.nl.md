@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "circulaireviaducten.nl"
-internal_url:  "/data/circulaireviaducten.nl.html"
+internal_url:  "/dutchgov/circulaireviaducten.nl.html"
 categories: dutchgov
 ---

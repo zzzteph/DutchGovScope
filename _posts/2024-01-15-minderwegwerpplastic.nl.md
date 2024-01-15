@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "minderwegwerpplastic.nl"
-internal_url:  "/data/minderwegwerpplastic.nl.html"
+internal_url:  "/dutchgov/minderwegwerpplastic.nl.html"
 categories: dutchgov
 ---

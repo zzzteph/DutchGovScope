@@ -1,3 +1,9 @@
+---
+layout: dutchgov
+permalink: /dutchgov/dv2030.nl.html
+---
+
+
 # dv2030.nl
 *2024-01-11 16:13:43*
 ## Summary data

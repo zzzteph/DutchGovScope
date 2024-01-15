@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "keringhuis.nl"
-internal_url:  "/data/keringhuis.nl.html"
+internal_url:  "/dutchgov/keringhuis.nl.html"
 categories: dutchgov
 ---

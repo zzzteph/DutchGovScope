@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "kabinetvandekoning.nl"
-internal_url:  "/data/kabinetvandekoning.nl.html"
+internal_url:  "/dutchgov/kabinetvandekoning.nl.html"
 categories: dutchgov
 ---

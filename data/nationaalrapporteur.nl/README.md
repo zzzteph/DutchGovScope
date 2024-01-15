@@ -1,3 +1,9 @@
+---
+layout: dutchgov
+permalink: /dutchgov/nationaalrapporteur.nl.html
+---
+
+
 # nationaalrapporteur.nl
 *2024-01-10 20:57:18*
 ## Summary data

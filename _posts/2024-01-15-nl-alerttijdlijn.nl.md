@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "nl-alerttijdlijn.nl"
-internal_url:  "/data/nl-alerttijdlijn.nl.html"
+internal_url:  "/dutchgov/nl-alerttijdlijn.nl.html"
 categories: dutchgov
 ---

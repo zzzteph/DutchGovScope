@@ -1,3 +1,9 @@
+---
+layout: dutchgov
+permalink: /dutchgov/tuchtcolleges-gezondheidszorg.nl.html
+---
+
+
 # tuchtcolleges-gezondheidszorg.nl
 *2024-01-11 06:28:12*
 ## Summary data

@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "adviesraadmigratie.nl"
-internal_url:  "/data/adviesraadmigratie.nl.html"
+internal_url:  "/dutchgov/adviesraadmigratie.nl.html"
 categories: dutchgov
 ---

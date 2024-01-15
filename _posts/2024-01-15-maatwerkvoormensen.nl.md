@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "maatwerkvoormensen.nl"
-internal_url:  "/data/maatwerkvoormensen.nl.html"
+internal_url:  "/dutchgov/maatwerkvoormensen.nl.html"
 categories: dutchgov
 ---

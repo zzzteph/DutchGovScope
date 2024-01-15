@@ -1,3 +1,9 @@
+---
+layout: dutchgov
+permalink: /dutchgov/inspectorateszw.nl.html
+---
+
+
 # inspectorateszw.nl
 *2024-01-14 05:33:10*
 ## Summary data

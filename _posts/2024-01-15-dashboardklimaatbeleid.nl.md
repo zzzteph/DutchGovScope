@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "dashboardklimaatbeleid.nl"
-internal_url:  "/data/dashboardklimaatbeleid.nl.html"
+internal_url:  "/dutchgov/dashboardklimaatbeleid.nl.html"
 categories: dutchgov
 ---

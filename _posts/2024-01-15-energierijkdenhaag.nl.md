@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "energierijkdenhaag.nl"
-internal_url:  "/data/energierijkdenhaag.nl.html"
+internal_url:  "/dutchgov/energierijkdenhaag.nl.html"
 categories: dutchgov
 ---

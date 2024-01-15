@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "komveiligthuis.nl"
-internal_url:  "/data/komveiligthuis.nl.html"
+internal_url:  "/dutchgov/komveiligthuis.nl.html"
 categories: dutchgov
 ---

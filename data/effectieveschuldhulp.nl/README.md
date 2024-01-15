@@ -1,3 +1,9 @@
+---
+layout: dutchgov
+permalink: /dutchgov/effectieveschuldhulp.nl.html
+---
+
+
 # effectieveschuldhulp.nl
 *2024-01-14 03:30:08*
 ## Summary data

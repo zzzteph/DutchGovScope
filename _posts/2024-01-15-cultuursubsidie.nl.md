@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "cultuursubsidie.nl"
-internal_url:  "/data/cultuursubsidie.nl.html"
+internal_url:  "/dutchgov/cultuursubsidie.nl.html"
 categories: dutchgov
 ---

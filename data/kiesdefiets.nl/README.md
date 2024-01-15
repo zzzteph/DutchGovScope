@@ -1,3 +1,9 @@
+---
+layout: dutchgov
+permalink: /dutchgov/kiesdefiets.nl.html
+---
+
+
 # kiesdefiets.nl
 *2024-01-14 06:06:14*
 ## Summary data

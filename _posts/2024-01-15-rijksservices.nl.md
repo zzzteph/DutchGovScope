@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "rijksservices.nl"
-internal_url:  "/data/rijksservices.nl.html"
+internal_url:  "/dutchgov/rijksservices.nl.html"
 categories: dutchgov
 ---
