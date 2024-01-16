@@ -5,8 +5,11 @@ permalink: /dutchgov/nederlandse-sportraad.nl.html
 
 
 # nederlandse-sportraad.nl
-*2024-01-10 20:57:19*
 ## Summary data
+
+
+**SSL Grade**:0
+**HTTP Security Grade**:70
 
 
 | File       | Count | Info |
@@ -19,9 +22,9 @@ permalink: /dutchgov/nederlandse-sportraad.nl.html
 ## Statistics
 
 
-| Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
-|------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://feeds.nederlandse-sportraad.nl](https://feeds.nederlandse-sportraad.nl)| |nginx| |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx||
-|[https://opendata.nederlandse-sportraad.nl](https://opendata.nederlandse-sportraad.nl)| |nginx| |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx||
-|[https://www.nederlandse-sportraad.nl](https://www.nederlandse-sportraad.nl)| |nginx| |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Bloomreach HSTS Nginx|Home | Nederland...|
-|[https://nederlandse-sportraad.nl](https://nederlandse-sportraad.nl)| |nginx| |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx|301 Moved Perman...|
+| Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
+|--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
+|[https://feeds.nederlandse-sportraad.nl](https://feeds.nederlandse-sportraad.nl)| | **65**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
+|[https://opendata.nederlandse-sportraad.nl](https://opendata.nederlandse-sportraad.nl)| | **65**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
+|[https://www.nederlandse-sportraad.nl](https://www.nederlandse-sportraad.nl)| | **75**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Home | Nederland...|
+|[https://nederlandse-sportraad.nl](https://nederlandse-sportraad.nl)| | **75**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|

@@ -5,8 +5,11 @@ permalink: /dutchgov/weerbaarbestuur.nl.html
 
 
 # weerbaarbestuur.nl
-*2024-01-11 16:13:43*
 ## Summary data
+
+
+**SSL Grade**:0
+**HTTP Security Grade**:70
 
 
 | File       | Count | Info |
@@ -19,7 +22,7 @@ permalink: /dutchgov/weerbaarbestuur.nl.html
 ## Statistics
 
 
-| Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
-|------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://www.weerbaarbestuur.nl](https://www.weerbaarbestuur.nl)| |Apache| |:white_check_mark: | :white_check_mark:| :white_check_mark: | | :white_check_mark: |Apache HTTP Server Drupal HSTS PHP|Home | Netwerk W...|
-|[https://weerbaarbestuur.nl](https://weerbaarbestuur.nl)| |Apache| |:white_check_mark: | :white_check_mark:| :white_check_mark: | | :white_check_mark: |Apache HTTP Server Drupal:8 HSTS PHP|Home | Netwerk W...|
+| Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
+|--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
+|[https://www.weerbaarbestuur.nl](https://www.weerbaarbestuur.nl)| | **70**|Apache| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |Apache HTTP Server Drupal HSTS PHP|Home | Netwerk W...|
+|[https://weerbaarbestuur.nl](https://weerbaarbestuur.nl)| | **70**|Apache| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |Apache HTTP Server Drupal:8 HSTS PHP|Home | Netwerk W...|

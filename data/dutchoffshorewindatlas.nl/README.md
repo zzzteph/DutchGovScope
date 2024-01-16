@@ -5,8 +5,11 @@ permalink: /dutchgov/dutchoffshorewindatlas.nl.html
 
 
 # dutchoffshorewindatlas.nl
-*2024-01-14 03:19:04*
 ## Summary data
+
+
+**SSL Grade**:100
+**HTTP Security Grade**:70
 
 
 | File       | Count | Info |
@@ -19,9 +22,9 @@ permalink: /dutchgov/dutchoffshorewindatlas.nl.html
 ## Statistics
 
 
-| Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
-|------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://feeds.dutchoffshorewindatlas.nl](https://feeds.dutchoffshorewindatlas.nl)| $${\color{green}A+}$$ |nginx| |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx||
-|[https://opendata.dutchoffshorewindatlas.nl](https://opendata.dutchoffshorewindatlas.nl)| $${\color{green}A+}$$ |nginx| |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx||
-|[https://www.dutchoffshorewindatlas.nl](https://www.dutchoffshorewindatlas.nl)| $${\color{green}A+}$$ |nginx| |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Bloomreach HSTS Nginx|Home | Dutch Off...|
-|[https://dutchoffshorewindatlas.nl](https://dutchoffshorewindatlas.nl)| $${\color{green}A+}$$ |nginx| |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx|301 Moved Perman...|
+| Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
+|--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
+|[https://feeds.dutchoffshorewindatlas.nl](https://feeds.dutchoffshorewindatlas.nl)| **A+**| **65**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
+|[https://opendata.dutchoffshorewindatlas.nl](https://opendata.dutchoffshorewindatlas.nl)| **A+**| **65**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
+|[https://www.dutchoffshorewindatlas.nl](https://www.dutchoffshorewindatlas.nl)| **A+**| **75**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Home | Dutch Off...|
+|[https://dutchoffshorewindatlas.nl](https://dutchoffshorewindatlas.nl)| **A+**| **75**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|

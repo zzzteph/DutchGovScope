@@ -5,8 +5,11 @@ permalink: /dutchgov/holandanomundo.nl.html
 
 
 # holandanomundo.nl
-*2024-01-14 04:47:08*
 ## Summary data
+
+
+**SSL Grade**:0
+**HTTP Security Grade**:70
 
 
 | File       | Count | Info |
@@ -19,7 +22,7 @@ permalink: /dutchgov/holandanomundo.nl.html
 ## Statistics
 
 
-| Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
-|------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://www.holandanomundo.nl](https://www.holandanomundo.nl)| |Microsoft-IIS/10.0| |:white_check_mark: | :white_check_mark:| :white_check_mark: | | :white_check_mark: |HSTS IIS:10.0 Windows Server|Document Moved|
-|[https://holandanomundo.nl](https://holandanomundo.nl)| |Microsoft-IIS/10.0| |:white_check_mark: | :white_check_mark:| :white_check_mark: | | :white_check_mark: |HSTS IIS:10.0 Windows Server|Document Moved|
+| Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
+|--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
+|[https://www.holandanomundo.nl](https://www.holandanomundo.nl)| | **70**|Microsoft-IIS/10.0| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS IIS:10.0 Windows Server|Document Moved|
+|[https://holandanomundo.nl](https://holandanomundo.nl)| | **70**|Microsoft-IIS/10.0| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS IIS:10.0 Windows Server|Document Moved|

@@ -5,8 +5,11 @@ permalink: /dutchgov/beschikbaarheidbijdrage-medische-vervolgopleidingen.nl.html
 
 
 # beschikbaarheidbijdrage-medische-vervolgopleidingen.nl
-*2024-01-10 20:57:10*
 ## Summary data
+
+
+**SSL Grade**:100
+**HTTP Security Grade**:75
 
 
 | File       | Count | Info |
@@ -19,7 +22,7 @@ permalink: /dutchgov/beschikbaarheidbijdrage-medische-vervolgopleidingen.nl.html
 ## Statistics
 
 
-| Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
-|------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://www.beschikbaarheidbijdrage-medische-vervolgopleidingen.nl](https://www.beschikbaarheidbijdrage-medische-vervolgopleidingen.nl)| $${\color{green}A+}$$ |Microsoft-IIS/10.0| |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS IIS:10.0 Windows Server|Document Moved|
-|[https://beschikbaarheidbijdrage-medische-vervolgopleidingen.nl](https://beschikbaarheidbijdrage-medische-vervolgopleidingen.nl)| $${\color{green}A+}$$ |Microsoft-IIS/10.0| |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS IIS:10.0 Windows Server|Document Moved|
+| Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
+|--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
+|[https://www.beschikbaarheidbijdrage-medische-vervolgopleidingen.nl](https://www.beschikbaarheidbijdrage-medische-vervolgopleidingen.nl)| **A+**| **75**|Microsoft-IIS/10.0| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS IIS:10.0 Windows Server|Document Moved|
+|[https://beschikbaarheidbijdrage-medische-vervolgopleidingen.nl](https://beschikbaarheidbijdrage-medische-vervolgopleidingen.nl)| **A+**| **75**|Microsoft-IIS/10.0| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS IIS:10.0 Windows Server|Document Moved|

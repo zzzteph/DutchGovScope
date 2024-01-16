@@ -5,8 +5,11 @@ permalink: /dutchgov/nieuwjaarstoost.nl.html
 
 
 # nieuwjaarstoost.nl
-*2024-01-11 16:13:45*
 ## Summary data
+
+
+**SSL Grade**:0
+**HTTP Security Grade**:25
 
 
 | File       | Count | Info |
@@ -19,7 +22,7 @@ permalink: /dutchgov/nieuwjaarstoost.nl.html
 ## Statistics
 
 
-| Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
-|------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://nieuwjaarstoost.nl](https://nieuwjaarstoost.nl)| |nginx| | | | | | :white_check_mark: |Nginx|Geen webhosting...|
-|[https://www.nieuwjaarstoost.nl](https://www.nieuwjaarstoost.nl)| |nginx| | | | | | :white_check_mark: |Nginx|Geen webhosting...|
+| Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
+|--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
+|[https://nieuwjaarstoost.nl](https://nieuwjaarstoost.nl)| | **25**|nginx| | | | | | | | :white_check_mark: | |Nginx|Geen webhosting...|
+|[https://www.nieuwjaarstoost.nl](https://www.nieuwjaarstoost.nl)| | **25**|nginx| | | | | | | | :white_check_mark: | |Nginx|Geen webhosting...|

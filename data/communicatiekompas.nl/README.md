@@ -5,8 +5,11 @@ permalink: /dutchgov/communicatiekompas.nl.html
 
 
 # communicatiekompas.nl
-*2024-01-11 16:13:37*
 ## Summary data
+
+
+**SSL Grade**:0
+**HTTP Security Grade**:45
 
 
 | File       | Count | Info |
@@ -19,7 +22,7 @@ permalink: /dutchgov/communicatiekompas.nl.html
 ## Statistics
 
 
-| Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
-|------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://www.communicatiekompas.nl](https://www.communicatiekompas.nl)| |Vercel| |:white_check_mark: | | | | :white_check_mark: |HSTS Vercel||
-|[https://communicatiekompas.nl](https://communicatiekompas.nl)| |Vercel| |:white_check_mark: | | | | :white_check_mark: |HSTS Next.js Node.js React Vercel Webpack|Communicatiekomp...|
+| Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
+|--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
+|[https://www.communicatiekompas.nl](https://www.communicatiekompas.nl)| | **45**|Vercel| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Vercel||
+|[https://communicatiekompas.nl](https://communicatiekompas.nl)| | **45**|Vercel| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Next.js Node.js React Vercel Webpack|Communicatiekomp...|

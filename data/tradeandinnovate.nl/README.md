@@ -5,8 +5,11 @@ permalink: /dutchgov/tradeandinnovate.nl.html
 
 
 # tradeandinnovate.nl
-*2024-01-11 16:13:39*
 ## Summary data
+
+
+**SSL Grade**:0
+**HTTP Security Grade**:94
 
 
 | File       | Count | Info |
@@ -19,7 +22,7 @@ permalink: /dutchgov/tradeandinnovate.nl.html
 ## Statistics
 
 
-| Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
-|------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://www.tradeandinnovate.nl](https://www.tradeandinnovate.nl)| ||:white_check_mark: |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS||
-|[https://tradeandinnovate.nl](https://tradeandinnovate.nl)| ||:white_check_mark: |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Apache Tomcat Fourthwall:1.0.0 HSTS Java MariaDB Skolengo:1.0.0|Trade & Innovate...|
+| Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
+|--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
+|[https://www.tradeandinnovate.nl](https://www.tradeandinnovate.nl)| | **94**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
+|[https://tradeandinnovate.nl](https://tradeandinnovate.nl)| | **94**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache Tomcat Fourthwall:1.0.0 HSTS Java MariaDB Skolengo:1.0.0|Trade & Innovate...|

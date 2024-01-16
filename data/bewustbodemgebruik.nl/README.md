@@ -5,8 +5,11 @@ permalink: /dutchgov/bewustbodemgebruik.nl.html
 
 
 # bewustbodemgebruik.nl
-*2024-01-11 16:13:44*
 ## Summary data
+
+
+**SSL Grade**:0
+**HTTP Security Grade**:31.666666666667
 
 
 | File       | Count | Info |
@@ -19,8 +22,8 @@ permalink: /dutchgov/bewustbodemgebruik.nl.html
 ## Statistics
 
 
-| Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
-|------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://mail.bewustbodemgebruik.nl](https://mail.bewustbodemgebruik.nl)| |nginx| | | | | | :white_check_mark: |Nginx|This is the defa...|
-|[http://www.bewustbodemgebruik.nl](http://www.bewustbodemgebruik.nl)| |nginx| | | | | :white_check_mark: | :white_check_mark: |Nginx SiteGround||
-|[https://bewustbodemgebruik.nl](https://bewustbodemgebruik.nl)| |nginx| | | | | :white_check_mark: | :white_check_mark: |MySQL Nginx PHP WordPress|Bewust Bodemgebr...|
+| Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
+|--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
+|[https://mail.bewustbodemgebruik.nl](https://mail.bewustbodemgebruik.nl)| | **25**|nginx| | | | | | | | :white_check_mark: | |Nginx|This is the defa...|
+|[http://www.bewustbodemgebruik.nl](http://www.bewustbodemgebruik.nl)| | **35**|nginx| | | | | | | :white_check_mark: | :white_check_mark: | |Nginx SiteGround||
+|[https://bewustbodemgebruik.nl](https://bewustbodemgebruik.nl)| | **35**|nginx| | | | | | | :white_check_mark: | :white_check_mark: | |MySQL Nginx PHP WordPress|Bewust Bodemgebr...|

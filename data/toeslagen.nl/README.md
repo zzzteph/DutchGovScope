@@ -5,8 +5,11 @@ permalink: /dutchgov/toeslagen.nl.html
 
 
 # toeslagen.nl
-*2024-01-10 20:57:24*
 ## Summary data
+
+
+**SSL Grade**:0
+**HTTP Security Grade**:71.636363636364
 
 
 | File       | Count | Info |
@@ -19,16 +22,16 @@ permalink: /dutchgov/toeslagen.nl.html
 ## Statistics
 
 
-| Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
-|------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://herstel.toeslagen.nl](https://herstel.toeslagen.nl)| ||:white_check_mark: |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS MySQL PHP WordPress Yoast SEO Premium:21.6 Yoast SEO:21.6|Toeslagen Herste...|
-|[https://mijn.toeslagen.nl](https://mijn.toeslagen.nl)| ||:white_check_mark: |:white_check_mark: | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS|Object moved|
-|[https://toeslagen.nl](https://toeslagen.nl)| ||:white_check_mark: |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS|301 Moved Perman...|
-|[https://www.toeslagen.nl](https://www.toeslagen.nl)| ||:white_check_mark: |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS|301 Moved Perman...|
-|[https://toestemming.toeslagen.nl](https://toestemming.toeslagen.nl)| ||:white_check_mark: |:white_check_mark: | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS|Er is een fout o...|
-|[https://gtmt.toeslagen.nl](https://gtmt.toeslagen.nl)| || | | | | | :white_check_mark: ||Online diensten...|
-|[https://fed01.tst.toeslagen.nl](https://fed01.tst.toeslagen.nl)| ||:warning: |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS|403 - Forbidden:...|
-|[https://fed01.toeslagen.nl](https://fed01.toeslagen.nl)| ||:warning: |:white_check_mark: | | :white_check_mark: | | :white_check_mark: |HSTS|403 - Forbidden:...|
-|[http://inkomen.toeslagen.nl](http://inkomen.toeslagen.nl)| |BigIP| | | | | | :white_check_mark: |F5 BigIP||
-|[https://fibt1.toeslagen.nl](https://fibt1.toeslagen.nl)| || | | | | | :white_check_mark: ||Request Rejected|
-|[https://werken.toeslagen.nl](https://werken.toeslagen.nl)| |Ponos Maximum|:white_check_mark: |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS|Werken bij de Be...|
+| Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
+|--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
+|[https://herstel.toeslagen.nl](https://herstel.toeslagen.nl)| | **84**||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS MySQL PHP WordPress Yoast SEO Premium:21.6 Yoast SEO:21.6|Toeslagen Herste...|
+|[https://mijn.toeslagen.nl](https://mijn.toeslagen.nl)| | **99**||:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Object moved|
+|[https://toeslagen.nl](https://toeslagen.nl)| | **94**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|301 Moved Perman...|
+|[https://www.toeslagen.nl](https://www.toeslagen.nl)| | **94**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|301 Moved Perman...|
+|[https://toestemming.toeslagen.nl](https://toestemming.toeslagen.nl)| | **99**||:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Er is een fout o...|
+|[https://gtmt.toeslagen.nl](https://gtmt.toeslagen.nl)| | **30**|| | | | | | | | :white_check_mark: | ||Online diensten...|
+|[https://fed01.tst.toeslagen.nl](https://fed01.tst.toeslagen.nl)| | **77**||:warning: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|403 - Forbidden:...|
+|[https://fed01.toeslagen.nl](https://fed01.toeslagen.nl)| | **67**||:warning: |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS|403 - Forbidden:...|
+|[http://inkomen.toeslagen.nl](http://inkomen.toeslagen.nl)| | **25**|BigIP| | | | | | | | :white_check_mark: | |F5 BigIP||
+|[https://fibt1.toeslagen.nl](https://fibt1.toeslagen.nl)| | **30**|| | | | | | | | :white_check_mark: | ||Request Rejected|
+|[https://werken.toeslagen.nl](https://werken.toeslagen.nl)| | **89**|Ponos Maximum|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Werken bij de Be...|

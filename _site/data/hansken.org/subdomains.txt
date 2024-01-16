@@ -1,0 +1,9 @@
+academic.container.hansken.org
+communityportal.hansken.org
+demo.hansken.org
+law-enforcement.container.hansken.org
+repo.hansken.org
+training.hansken.org
+www.hansken.org
+hansken.org
+docs.hansken.org

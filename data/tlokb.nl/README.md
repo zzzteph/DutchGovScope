@@ -5,8 +5,11 @@ permalink: /dutchgov/tlokb.nl.html
 
 
 # tlokb.nl
-*2024-01-10 20:57:24*
 ## Summary data
+
+
+**SSL Grade**:0
+**HTTP Security Grade**:69
 
 
 | File       | Count | Info |
@@ -19,10 +22,10 @@ permalink: /dutchgov/tlokb.nl.html
 ## Statistics
 
 
-| Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
-|------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://feeds.tlokb.nl](https://feeds.tlokb.nl)| |nginx| |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx||
-|[https://opendata.tlokb.nl](https://opendata.tlokb.nl)| |nginx| |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx||
-|[https://register.tlokb.nl](https://register.tlokb.nl)| |nginx/1.25.2| |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx:1.25.2|301 Moved Perman...|
-|[https://www.tlokb.nl](https://www.tlokb.nl)| |nginx| |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Bloomreach HSTS Nginx|Home | Toelating...|
-|[https://tlokb.nl](https://tlokb.nl)| |nginx| |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx|301 Moved Perman...|
+| Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
+|--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
+|[https://feeds.tlokb.nl](https://feeds.tlokb.nl)| | **65**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
+|[https://opendata.tlokb.nl](https://opendata.tlokb.nl)| | **65**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
+|[https://register.tlokb.nl](https://register.tlokb.nl)| | **65**|nginx/1.25.2| |:white_check_mark: | :warning:| |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx:1.25.2|301 Moved Perman...|
+|[https://www.tlokb.nl](https://www.tlokb.nl)| | **75**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Home | Toelating...|
+|[https://tlokb.nl](https://tlokb.nl)| | **75**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|

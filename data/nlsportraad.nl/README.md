@@ -5,8 +5,11 @@ permalink: /dutchgov/nlsportraad.nl.html
 
 
 # nlsportraad.nl
-*2024-01-11 06:27:02*
 ## Summary data
+
+
+**SSL Grade**:0
+**HTTP Security Grade**:60
 
 
 | File       | Count | Info |
@@ -19,8 +22,8 @@ permalink: /dutchgov/nlsportraad.nl.html
 ## Statistics
 
 
-| Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
-|------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://nlsportraad.nl](https://nlsportraad.nl)| |Microsoft-IIS/10.0| |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS IIS:10.0 Windows Server|Document Moved|
-|[https://www.nlsportraad.nl](https://www.nlsportraad.nl)| |Microsoft-IIS/10.0| |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS IIS:10.0 Windows Server|Document Moved|
-|[https://mailings.nlsportraad.nl](https://mailings.nlsportraad.nl)| || | | | | | :white_check_mark: |HSTS|403 - Forbidden:...|
+| Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
+|--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
+|[https://nlsportraad.nl](https://nlsportraad.nl)| | **75**|Microsoft-IIS/10.0| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS IIS:10.0 Windows Server|Document Moved|
+|[https://www.nlsportraad.nl](https://www.nlsportraad.nl)| | **75**|Microsoft-IIS/10.0| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS IIS:10.0 Windows Server|Document Moved|
+|[https://mailings.nlsportraad.nl](https://mailings.nlsportraad.nl)| | **30**|| | | | | | | | :white_check_mark: | |HSTS|403 - Forbidden:...|

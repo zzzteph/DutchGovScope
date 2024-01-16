@@ -5,8 +5,11 @@ permalink: /dutchgov/aivdkerstpuzzel.nl.html
 
 
 # aivdkerstpuzzel.nl
-*2024-01-10 22:01:08*
 ## Summary data
+
+
+**SSL Grade**:0
+**HTTP Security Grade**:75
 
 
 | File       | Count | Info |
@@ -19,7 +22,7 @@ permalink: /dutchgov/aivdkerstpuzzel.nl.html
 ## Statistics
 
 
-| Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
-|------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://www.aivdkerstpuzzel.nl](https://www.aivdkerstpuzzel.nl)| |Microsoft-IIS/10.0| |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS IIS:10.0 Windows Server|Document Moved|
-|[https://aivdkerstpuzzel.nl](https://aivdkerstpuzzel.nl)| |Microsoft-IIS/10.0| |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS IIS:10.0 Windows Server|Document Moved|
+| Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
+|--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
+|[https://www.aivdkerstpuzzel.nl](https://www.aivdkerstpuzzel.nl)| | **75**|Microsoft-IIS/10.0| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS IIS:10.0 Windows Server|Document Moved|
+|[https://aivdkerstpuzzel.nl](https://aivdkerstpuzzel.nl)| | **75**|Microsoft-IIS/10.0| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS IIS:10.0 Windows Server|Document Moved|

@@ -5,8 +5,11 @@ permalink: /dutchgov/sint-oedenrode.nl.html
 
 
 # sint-oedenrode.nl
-*2024-01-10 20:57:23*
 ## Summary data
+
+
+**SSL Grade**:0
+**HTTP Security Grade**:99
 
 
 | File       | Count | Info |
@@ -19,7 +22,7 @@ permalink: /dutchgov/sint-oedenrode.nl.html
 ## Statistics
 
 
-| Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
-|------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://sint-oedenrode.nl](https://sint-oedenrode.nl)| ||:white_check_mark: |:white_check_mark: | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS||
-|[https://www.sint-oedenrode.nl](https://www.sint-oedenrode.nl)| ||:white_check_mark: |:white_check_mark: | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS||
+| Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
+|--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
+|[https://sint-oedenrode.nl](https://sint-oedenrode.nl)| | **99**||:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
+|[https://www.sint-oedenrode.nl](https://www.sint-oedenrode.nl)| | **99**||:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||

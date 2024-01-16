@@ -5,8 +5,11 @@ permalink: /dutchgov/circulaireviaducten.nl.html
 
 
 # circulaireviaducten.nl
-*2024-01-11 16:13:40*
 ## Summary data
+
+
+**SSL Grade**:0
+**HTTP Security Grade**:80
 
 
 | File       | Count | Info |
@@ -19,6 +22,6 @@ permalink: /dutchgov/circulaireviaducten.nl.html
 ## Statistics
 
 
-| Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
-|------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://www.circulaireviaducten.nl](https://www.circulaireviaducten.nl)| |-| |:white_check_mark: | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Microsoft ASP.NET:-|Home - circulair...|
+| Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
+|--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
+|[https://www.circulaireviaducten.nl](https://www.circulaireviaducten.nl)| | **80**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:-|Home - circulair...|

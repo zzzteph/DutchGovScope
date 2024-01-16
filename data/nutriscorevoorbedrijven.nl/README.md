@@ -5,8 +5,11 @@ permalink: /dutchgov/nutriscorevoorbedrijven.nl.html
 
 
 # nutriscorevoorbedrijven.nl
-*2024-01-10 20:57:19*
 ## Summary data
+
+
+**SSL Grade**:0
+**HTTP Security Grade**:70
 
 
 | File       | Count | Info |
@@ -19,9 +22,9 @@ permalink: /dutchgov/nutriscorevoorbedrijven.nl.html
 ## Statistics
 
 
-| Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
-|------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://feeds.nutriscorevoorbedrijven.nl](https://feeds.nutriscorevoorbedrijven.nl)| |nginx| |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx||
-|[https://nutriscorevoorbedrijven.nl](https://nutriscorevoorbedrijven.nl)| |nginx| |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx|301 Moved Perman...|
-|[https://opendata.nutriscorevoorbedrijven.nl](https://opendata.nutriscorevoorbedrijven.nl)| |nginx| |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx||
-|[https://www.nutriscorevoorbedrijven.nl](https://www.nutriscorevoorbedrijven.nl)| |nginx| |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Bloomreach HSTS Nginx|Homepagina Nutri...|
+| Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
+|--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
+|[https://feeds.nutriscorevoorbedrijven.nl](https://feeds.nutriscorevoorbedrijven.nl)| | **65**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
+|[https://nutriscorevoorbedrijven.nl](https://nutriscorevoorbedrijven.nl)| | **75**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
+|[https://opendata.nutriscorevoorbedrijven.nl](https://opendata.nutriscorevoorbedrijven.nl)| | **65**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
+|[https://www.nutriscorevoorbedrijven.nl](https://www.nutriscorevoorbedrijven.nl)| | **75**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Homepagina Nutri...|

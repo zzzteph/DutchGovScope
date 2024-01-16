@@ -5,8 +5,11 @@ permalink: /dutchgov/ssc-ictspecials.nl.html
 
 
 # ssc-ictspecials.nl
-*2024-01-10 20:57:23*
 ## Summary data
+
+
+**SSL Grade**:0
+**HTTP Security Grade**:75
 
 
 | File       | Count | Info |
@@ -19,8 +22,8 @@ permalink: /dutchgov/ssc-ictspecials.nl.html
 ## Statistics
 
 
-| Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
-|------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://intern.ssc-ictspecials.nl](https://intern.ssc-ictspecials.nl)| |nginx| |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Bloomreach HSTS Nginx|SSC-ICT | Magazi...|
-|[https://www.ssc-ictspecials.nl](https://www.ssc-ictspecials.nl)| |nginx| |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx||
-|[https://ssc-ictspecials.nl](https://ssc-ictspecials.nl)| |nginx| |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx|301 Moved Perman...|
+| Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
+|--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
+|[https://intern.ssc-ictspecials.nl](https://intern.ssc-ictspecials.nl)| | **75**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|SSC-ICT | Magazi...|
+|[https://www.ssc-ictspecials.nl](https://www.ssc-ictspecials.nl)| | **75**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
+|[https://ssc-ictspecials.nl](https://ssc-ictspecials.nl)| | **75**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|

@@ -5,8 +5,11 @@ permalink: /dutchgov/humanrightstulip.nl.html
 
 
 # humanrightstulip.nl
-*2024-01-14 04:50:25*
 ## Summary data
+
+
+**SSL Grade**:0
+**HTTP Security Grade**:75
 
 
 | File       | Count | Info |
@@ -19,7 +22,7 @@ permalink: /dutchgov/humanrightstulip.nl.html
 ## Statistics
 
 
-| Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
-|------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://www.humanrightstulip.nl](https://www.humanrightstulip.nl)| |cloudflare| |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Cloudflare HSTS||
-|[https://humanrightstulip.nl](https://humanrightstulip.nl)| |cloudflare| |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Cloudflare HSTS||
+| Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
+|--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
+|[https://www.humanrightstulip.nl](https://www.humanrightstulip.nl)| | **75**|cloudflare| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Cloudflare HSTS||
+|[https://humanrightstulip.nl](https://humanrightstulip.nl)| | **75**|cloudflare| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Cloudflare HSTS||

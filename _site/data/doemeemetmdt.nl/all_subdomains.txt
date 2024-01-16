@@ -1,0 +1,16 @@
+autodiscover.doemeemetmdt.nl
+organisaties.doemeemetmdt.nl
+www.doemeemetmdt.nl
+magazinesintern.english.doemeemetmdt.nl
+opendata.doemeemetmdt.nl
+opendata.english.doemeemetmdt.nl
+staging.doemeemetmdt.nl
+english.doemeemetmdt.nl
+magazines.doemeemetmdt.nl
+magazines.english.doemeemetmdt.nl
+staging-organisaties.doemeemetmdt.nl
+feeds.doemeemetmdt.nl
+feeds.english.doemeemetmdt.nl
+magazinesintern.doemeemetmdt.nl
+doemeemetmdt.nl
+server01.doemeemetmdt.nl

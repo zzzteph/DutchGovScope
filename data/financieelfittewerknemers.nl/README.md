@@ -5,8 +5,11 @@ permalink: /dutchgov/financieelfittewerknemers.nl.html
 
 
 # financieelfittewerknemers.nl
-*2024-01-11 16:13:41*
 ## Summary data
+
+
+**SSL Grade**:0
+**HTTP Security Grade**:45
 
 
 | File       | Count | Info |
@@ -19,7 +22,7 @@ permalink: /dutchgov/financieelfittewerknemers.nl.html
 ## Statistics
 
 
-| Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
-|------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://www.financieelfittewerknemers.nl](https://www.financieelfittewerknemers.nl)| |nginx| |:white_check_mark: | | | | :white_check_mark: |Google Tag Manager HSTS Nginx|Home - Financiee...|
-|[https://financieelfittewerknemers.nl](https://financieelfittewerknemers.nl)| |nginx| |:white_check_mark: | | | | :white_check_mark: |HSTS Nginx|301 Moved Perman...|
+| Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
+|--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
+|[https://www.financieelfittewerknemers.nl](https://www.financieelfittewerknemers.nl)| | **45**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |Google Tag Manager HSTS Nginx|Home - Financiee...|
+|[https://financieelfittewerknemers.nl](https://financieelfittewerknemers.nl)| | **45**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|

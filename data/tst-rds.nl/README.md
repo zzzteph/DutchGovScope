@@ -5,8 +5,11 @@ permalink: /dutchgov/tst-rds.nl.html
 
 
 # tst-rds.nl
-*2024-01-11 16:13:41*
 ## Summary data
+
+
+**SSL Grade**:0
+**HTTP Security Grade**:30
 
 
 | File       | Count | Info |
@@ -19,8 +22,8 @@ permalink: /dutchgov/tst-rds.nl.html
 ## Statistics
 
 
-| Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
-|------------|-------|------|------|------|------|------|------|------|------|------|
-|[http://admin.tst-rds.nl](http://admin.tst-rds.nl)| || | | | | | :white_check_mark: |||
-|[http://www.tst-rds.nl](http://www.tst-rds.nl)| || | | | | | :white_check_mark: |||
-|[http://tst-rds.nl](http://tst-rds.nl)| || | | | | | :white_check_mark: |||
+| Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
+|--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
+|[http://admin.tst-rds.nl](http://admin.tst-rds.nl)| | **30**|| | | | | | | | :white_check_mark: | |||
+|[http://www.tst-rds.nl](http://www.tst-rds.nl)| | **30**|| | | | | | | | :white_check_mark: | |||
+|[http://tst-rds.nl](http://tst-rds.nl)| | **30**|| | | | | | | | :white_check_mark: | |||

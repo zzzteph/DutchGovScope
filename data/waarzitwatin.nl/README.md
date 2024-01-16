@@ -5,8 +5,11 @@ permalink: /dutchgov/waarzitwatin.nl.html
 
 
 # waarzitwatin.nl
-*2024-01-11 16:13:36*
 ## Summary data
+
+
+**SSL Grade**:0
+**HTTP Security Grade**:25
 
 
 | File       | Count | Info |
@@ -19,8 +22,8 @@ permalink: /dutchgov/waarzitwatin.nl.html
 ## Statistics
 
 
-| Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
-|------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://staging.waarzitwatin.nl](https://staging.waarzitwatin.nl)| |CloudFront| | | | | | :white_check_mark: |AWS WAF Captcha Amazon CloudFront Amazon Web Services|Human Verificati...|
-|[https://www.waarzitwatin.nl](https://www.waarzitwatin.nl)| |cloudflare| | | | | | :white_check_mark: |AWS WAF Captcha Amazon CloudFront Amazon Web Services Cloudflare HTTP/3|Human Verificati...|
-|[https://waarzitwatin.nl](https://waarzitwatin.nl)| |CloudFront| | | | | | :white_check_mark: |AWS WAF Captcha Amazon CloudFront Amazon Web Services|Human Verificati...|
+| Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
+|--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
+|[https://staging.waarzitwatin.nl](https://staging.waarzitwatin.nl)| | **25**|CloudFront| | | | | | | | :white_check_mark: | |AWS WAF Captcha Amazon CloudFront Amazon Web Services|Human Verificati...|
+|[https://www.waarzitwatin.nl](https://www.waarzitwatin.nl)| | **25**|cloudflare| | | | | | | | :white_check_mark: | |Amazon CloudFront Amazon Web Services Cloudflare HSTS HTTP/3|301 Moved Perman...|
+|[https://waarzitwatin.nl](https://waarzitwatin.nl)| | **25**|CloudFront| | | | | | | | :white_check_mark: | |AWS WAF Captcha Amazon CloudFront Amazon Web Services|Human Verificati...|

@@ -5,8 +5,11 @@ permalink: /dutchgov/rijkswaterstaatstrooit.nl.html
 
 
 # rijkswaterstaatstrooit.nl
-*2024-01-11 16:13:43*
 ## Summary data
+
+
+**SSL Grade**:0
+**HTTP Security Grade**:55
 
 
 | File       | Count | Info |
@@ -19,7 +22,7 @@ permalink: /dutchgov/rijkswaterstaatstrooit.nl.html
 ## Statistics
 
 
-| Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
-|------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://www.rijkswaterstaatstrooit.nl](https://www.rijkswaterstaatstrooit.nl)| |nginx/1.21.3| |:white_check_mark: | | :white_check_mark: | | :white_check_mark: |HSTS Nginx:1.21.3 Varnish:6.0|Strooikaart | Ri...|
-|[https://rijkswaterstaatstrooit.nl](https://rijkswaterstaatstrooit.nl)| |nginx/1.21.3| |:white_check_mark: | | :white_check_mark: | | :white_check_mark: |HSTS Nginx:1.21.3 Varnish:6.0|Strooikaart | Ri...|
+| Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
+|--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
+|[https://www.rijkswaterstaatstrooit.nl](https://www.rijkswaterstaatstrooit.nl)| | **55**|nginx/1.21.3| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS Nginx:1.21.3 Varnish:6.0|Strooikaart | Ri...|
+|[https://rijkswaterstaatstrooit.nl](https://rijkswaterstaatstrooit.nl)| | **55**|nginx/1.21.3| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS Nginx:1.21.3 Varnish:6.0|Strooikaart | Ri...|

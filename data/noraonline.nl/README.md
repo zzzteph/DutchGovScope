@@ -5,8 +5,11 @@ permalink: /dutchgov/noraonline.nl.html
 
 
 # noraonline.nl
-*2024-01-11 16:13:43*
 ## Summary data
+
+
+**SSL Grade**:0
+**HTTP Security Grade**:52.25
 
 
 | File       | Count | Info |
@@ -19,9 +22,9 @@ permalink: /dutchgov/noraonline.nl.html
 ## Statistics
 
 
-| Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
-|------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://www.noraonline.nl](https://www.noraonline.nl)| |Apache| |:white_check_mark: | | :white_check_mark: | | :white_check_mark: |Apache HTTP Server HSTS||
-|[https://data.noraonline.nl](https://data.noraonline.nl)| |Apache|:white_check_mark: |:white_check_mark: | | :white_check_mark: | | :white_check_mark: |Apache HTTP Server HSTS|NORAOnline | SPA...|
-|[https://sparql.noraonline.nl](https://sparql.noraonline.nl)| || | | | | | :white_check_mark: |||
-|[https://noraonline.nl](https://noraonline.nl)| |Apache| |:white_check_mark: | | :white_check_mark: | | :white_check_mark: |Apache HTTP Server HSTS|301 Moved Perman...|
+| Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
+|--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
+|[https://www.noraonline.nl](https://www.noraonline.nl)| | **55**|Apache| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS||
+|[https://data.noraonline.nl](https://data.noraonline.nl)| | **69**|Apache|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS|NORAOnline | SPA...|
+|[https://sparql.noraonline.nl](https://sparql.noraonline.nl)| | **30**|| | | | | | | | :white_check_mark: | |||
+|[https://noraonline.nl](https://noraonline.nl)| | **55**|Apache| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS|301 Moved Perman...|

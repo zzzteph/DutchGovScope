@@ -1,0 +1,7 @@
+https://betalen.schoolleidersregisterpo.nl
+https://feeds.schoolleidersregisterpo.nl
+https://opendata.schoolleidersregisterpo.nl
+https://www.schoolleidersregisterpo.nl
+http://autodiscover.schoolleidersregisterpo.nl
+http://ftp.schoolleidersregisterpo.nl
+https://schoolleidersregisterpo.nl

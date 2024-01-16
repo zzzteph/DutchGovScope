@@ -5,8 +5,11 @@ permalink: /dutchgov/staatscommissietegendiscriminatieenracisme.nl.html
 
 
 # staatscommissietegendiscriminatieenracisme.nl
-*2024-01-10 20:57:23*
 ## Summary data
+
+
+**SSL Grade**:0
+**HTTP Security Grade**:70
 
 
 | File       | Count | Info |
@@ -19,9 +22,9 @@ permalink: /dutchgov/staatscommissietegendiscriminatieenracisme.nl.html
 ## Statistics
 
 
-| Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
-|------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://staatscommissietegendiscriminatieenracisme.nl](https://staatscommissietegendiscriminatieenracisme.nl)| |nginx| |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx|301 Moved Perman...|
-|[https://www.staatscommissietegendiscriminatieenracisme.nl](https://www.staatscommissietegendiscriminatieenracisme.nl)| |nginx| |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Bloomreach HSTS Nginx|Home | Staatscom...|
-|[https://feeds.staatscommissietegendiscriminatieenracisme.nl](https://feeds.staatscommissietegendiscriminatieenracisme.nl)| |nginx| |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx||
-|[https://opendata.staatscommissietegendiscriminatieenracisme.nl](https://opendata.staatscommissietegendiscriminatieenracisme.nl)| |nginx| |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx||
+| Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
+|--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
+|[https://staatscommissietegendiscriminatieenracisme.nl](https://staatscommissietegendiscriminatieenracisme.nl)| | **75**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
+|[https://www.staatscommissietegendiscriminatieenracisme.nl](https://www.staatscommissietegendiscriminatieenracisme.nl)| | **75**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Home | Staatscom...|
+|[https://feeds.staatscommissietegendiscriminatieenracisme.nl](https://feeds.staatscommissietegendiscriminatieenracisme.nl)| | **65**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
+|[https://opendata.staatscommissietegendiscriminatieenracisme.nl](https://opendata.staatscommissietegendiscriminatieenracisme.nl)| | **65**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||

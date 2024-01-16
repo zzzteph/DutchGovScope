@@ -5,8 +5,11 @@ permalink: /dutchgov/rekenhulptransitievergoeding.nl.html
 
 
 # rekenhulptransitievergoeding.nl
-*2024-01-10 20:57:22*
 ## Summary data
+
+
+**SSL Grade**:0
+**HTTP Security Grade**:94
 
 
 | File       | Count | Info |
@@ -19,7 +22,7 @@ permalink: /dutchgov/rekenhulptransitievergoeding.nl.html
 ## Statistics
 
 
-| Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
-|------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://www.rekenhulptransitievergoeding.nl](https://www.rekenhulptransitievergoeding.nl)| |Apache|:white_check_mark: |:white_check_mark: | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: |Apache HTTP Server Bloomreach HSTS Laravel PHP|Stap 1/5 | Trans...|
-|[https://rekenhulptransitievergoeding.nl](https://rekenhulptransitievergoeding.nl)| |Apache|:white_check_mark: |:white_check_mark: | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: |Apache HTTP Server Bloomreach HSTS Laravel PHP|Stap 1/5 | Trans...|
+| Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
+|--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
+|[https://www.rekenhulptransitievergoeding.nl](https://www.rekenhulptransitievergoeding.nl)| | **94**|Apache|:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server Bloomreach HSTS Laravel PHP|Stap 1/5 | Trans...|
+|[https://rekenhulptransitievergoeding.nl](https://rekenhulptransitievergoeding.nl)| | **94**|Apache|:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server Bloomreach HSTS Laravel PHP|Stap 1/5 | Trans...|

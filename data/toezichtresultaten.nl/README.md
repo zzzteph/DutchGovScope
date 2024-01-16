@@ -5,8 +5,11 @@ permalink: /dutchgov/toezichtresultaten.nl.html
 
 
 # toezichtresultaten.nl
-*2024-01-11 16:13:40*
 ## Summary data
+
+
+**SSL Grade**:0
+**HTTP Security Grade**:25
 
 
 | File       | Count | Info |
@@ -19,7 +22,7 @@ permalink: /dutchgov/toezichtresultaten.nl.html
 ## Statistics
 
 
-| Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
-|------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://www.toezichtresultaten.nl](https://www.toezichtresultaten.nl)| |Apache| | | | | | :white_check_mark: |Apache HTTP Server HSTS|Toezichtresultat...|
-|[https://toezichtresultaten.nl](https://toezichtresultaten.nl)| |Apache| | | | | | :white_check_mark: |Apache HTTP Server HSTS|Toezichtresultat...|
+| Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
+|--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
+|[https://www.toezichtresultaten.nl](https://www.toezichtresultaten.nl)| | **25**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|Toezichtresultat...|
+|[https://toezichtresultaten.nl](https://toezichtresultaten.nl)| | **25**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|Toezichtresultat...|

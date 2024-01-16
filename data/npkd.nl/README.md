@@ -5,8 +5,11 @@ permalink: /dutchgov/npkd.nl.html
 
 
 # npkd.nl
-*2024-01-11 16:13:45*
 ## Summary data
+
+
+**SSL Grade**:0
+**HTTP Security Grade**:55
 
 
 | File       | Count | Info |
@@ -19,7 +22,7 @@ permalink: /dutchgov/npkd.nl.html
 ## Statistics
 
 
-| Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
-|------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://crl.npkd.nl](https://crl.npkd.nl)| |Apache| |:white_check_mark: | | | | :white_check_mark: |Apache HTTP Server HSTS|403 Forbidden|
-|[https://www.npkd.nl](https://www.npkd.nl)| |Apache| |:white_check_mark: |:warning: | :white_check_mark: | | :white_check_mark: |Apache HTTP Server Bootstrap HSTS|Public NPKD Webs...|
+| Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
+|--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
+|[https://crl.npkd.nl](https://crl.npkd.nl)| | **45**|Apache| |:white_check_mark: | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|403 Forbidden|
+|[https://www.npkd.nl](https://www.npkd.nl)| | **65**|Apache| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server Bootstrap HSTS|Public NPKD Webs...|

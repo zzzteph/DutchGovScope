@@ -1,0 +1,10 @@
+a-www.magazinesrijkswaterstaat.nl
+english.magazinesrijkswaterstaat.nl
+feeds.magazinesrijkswaterstaat.nl
+feeds.english.magazinesrijkswaterstaat.nl
+intern.magazinesrijkswaterstaat.nl
+intern.english.magazinesrijkswaterstaat.nl
+opendata.magazinesrijkswaterstaat.nl
+opendata.english.magazinesrijkswaterstaat.nl
+www.magazinesrijkswaterstaat.nl
+magazinesrijkswaterstaat.nl

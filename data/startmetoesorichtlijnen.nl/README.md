@@ -5,8 +5,11 @@ permalink: /dutchgov/startmetoesorichtlijnen.nl.html
 
 
 # startmetoesorichtlijnen.nl
-*2024-01-10 20:57:23*
 ## Summary data
+
+
+**SSL Grade**:0
+**HTTP Security Grade**:70
 
 
 | File       | Count | Info |
@@ -19,9 +22,9 @@ permalink: /dutchgov/startmetoesorichtlijnen.nl.html
 ## Statistics
 
 
-| Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
-|------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://feeds.startmetoesorichtlijnen.nl](https://feeds.startmetoesorichtlijnen.nl)| |nginx| |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx||
-|[https://opendata.startmetoesorichtlijnen.nl](https://opendata.startmetoesorichtlijnen.nl)| |nginx| |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx||
-|[https://www.startmetoesorichtlijnen.nl](https://www.startmetoesorichtlijnen.nl)| |nginx| |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Bloomreach HSTS Nginx|Start met OESO-r...|
-|[https://startmetoesorichtlijnen.nl](https://startmetoesorichtlijnen.nl)| |nginx| |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx|301 Moved Perman...|
+| Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
+|--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
+|[https://feeds.startmetoesorichtlijnen.nl](https://feeds.startmetoesorichtlijnen.nl)| | **65**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
+|[https://opendata.startmetoesorichtlijnen.nl](https://opendata.startmetoesorichtlijnen.nl)| | **65**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
+|[https://www.startmetoesorichtlijnen.nl](https://www.startmetoesorichtlijnen.nl)| | **75**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Start met OESO-r...|
+|[https://startmetoesorichtlijnen.nl](https://startmetoesorichtlijnen.nl)| | **75**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|

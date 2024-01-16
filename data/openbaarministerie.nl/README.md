@@ -5,8 +5,11 @@ permalink: /dutchgov/openbaarministerie.nl.html
 
 
 # openbaarministerie.nl
-*2024-01-10 20:57:20*
 ## Summary data
+
+
+**SSL Grade**:0
+**HTTP Security Grade**:78.333333333333
 
 
 | File       | Count | Info |
@@ -19,8 +22,8 @@ permalink: /dutchgov/openbaarministerie.nl.html
 ## Statistics
 
 
-| Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
-|------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://magazines.openbaarministerie.nl](https://magazines.openbaarministerie.nl)| |nginx| |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Bloomreach HSTS Nginx|Kiosk | Magazine...|
-|[https://www.openbaarministerie.nl](https://www.openbaarministerie.nl)| || |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |||
-|[https://openbaarministerie.nl](https://openbaarministerie.nl)| || |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |||
+| Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
+|--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
+|[https://magazines.openbaarministerie.nl](https://magazines.openbaarministerie.nl)| | **75**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Kiosk | Magazine...|
+|[https://www.openbaarministerie.nl](https://www.openbaarministerie.nl)| | **80**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |||
+|[https://openbaarministerie.nl](https://openbaarministerie.nl)| | **80**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |||

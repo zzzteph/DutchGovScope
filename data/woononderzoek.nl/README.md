@@ -5,8 +5,11 @@ permalink: /dutchgov/woononderzoek.nl.html
 
 
 # woononderzoek.nl
-*2024-01-11 16:13:43*
 ## Summary data
+
+
+**SSL Grade**:0
+**HTTP Security Grade**:89
 
 
 | File       | Count | Info |
@@ -19,8 +22,8 @@ permalink: /dutchgov/woononderzoek.nl.html
 ## Statistics
 
 
-| Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
-|------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://www.woononderzoek.nl](https://www.woononderzoek.nl)| |Microsoft-IIS/10.0|:white_check_mark: |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Amazon S3 Amazon Web Services Azure Edge Network HSTS IIS:10.0 Microsoft ASP.NET MyFonts Windows Server|Woononderzoek Ne...|
-|[https://woononderzoek.nl](https://woononderzoek.nl)| |Microsoft-IIS/10.0|:white_check_mark: |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Amazon S3 Amazon Web Services Azure Edge Network HSTS IIS:10.0 Microsoft ASP.NET:4.0.30319 MyFonts Windows Server|Woononderzoek Ne...|
-|[https://2018.woononderzoek.nl](https://2018.woononderzoek.nl)| |Microsoft-IIS/10.0|:white_check_mark: |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Amazon S3 Amazon Web Services Azure Edge Network HSTS IIS:10.0 Microsoft ASP.NET:4.0.30319 MyFonts Windows Server|Woononderzoek Ne...|
+| Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
+|--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
+|[https://www.woononderzoek.nl](https://www.woononderzoek.nl)| | **89**|Microsoft-IIS/10.0|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Amazon S3 Amazon Web Services Azure Edge Network HSTS IIS:10.0 Microsoft ASP.NET MyFonts Windows Server|Woononderzoek Ne...|
+|[https://woononderzoek.nl](https://woononderzoek.nl)| | **89**|Microsoft-IIS/10.0|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Amazon S3 Amazon Web Services Azure Edge Network HSTS IIS:10.0 Microsoft ASP.NET:4.0.30319 MyFonts Windows Server|Woononderzoek Ne...|
+|[https://2018.woononderzoek.nl](https://2018.woononderzoek.nl)| | **89**|Microsoft-IIS/10.0|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Amazon S3 Amazon Web Services Azure Edge Network HSTS IIS:10.0 Microsoft ASP.NET:4.0.30319 MyFonts Windows Server|Woononderzoek Ne...|

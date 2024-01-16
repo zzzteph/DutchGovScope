@@ -5,8 +5,11 @@ permalink: /dutchgov/aaninhetdonker.nl.html
 
 
 # aaninhetdonker.nl
-*2024-01-11 16:13:39*
 ## Summary data
+
+
+**SSL Grade**:0
+**HTTP Security Grade**:51.666666666667
 
 
 | File       | Count | Info |
@@ -19,8 +22,8 @@ permalink: /dutchgov/aaninhetdonker.nl.html
 ## Statistics
 
 
-| Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
-|------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://www.aaninhetdonker.nl](https://www.aaninhetdonker.nl)| |nginx| |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx|301 Moved Perman...|
-|[https://web01.aaninhetdonker.nl](https://web01.aaninhetdonker.nl)| |nginx| | | | | | :white_check_mark: |Nginx||
-|[https://aaninhetdonker.nl](https://aaninhetdonker.nl)| |nginx| |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx|Maak je eigen AA...|
+| Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
+|--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
+|[https://www.aaninhetdonker.nl](https://www.aaninhetdonker.nl)| | **65**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
+|[https://web01.aaninhetdonker.nl](https://web01.aaninhetdonker.nl)| | **25**|nginx| | | | | | | | :white_check_mark: | |Nginx||
+|[https://aaninhetdonker.nl](https://aaninhetdonker.nl)| | **65**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|Maak je eigen AA...|

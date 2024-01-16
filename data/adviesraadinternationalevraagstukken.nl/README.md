@@ -5,8 +5,11 @@ permalink: /dutchgov/adviesraadinternationalevraagstukken.nl.html
 
 
 # adviesraadinternationalevraagstukken.nl
-*2024-01-14 07:58:08*
 ## Summary data
+
+
+**SSL Grade**:100
+**HTTP Security Grade**:70
 
 
 | File       | Count | Info |
@@ -19,9 +22,9 @@ permalink: /dutchgov/adviesraadinternationalevraagstukken.nl.html
 ## Statistics
 
 
-| Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
-|------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://feeds.adviesraadinternationalevraagstukken.nl](https://feeds.adviesraadinternationalevraagstukken.nl)| $${\color{green}A+}$$ |nginx| |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx||
-|[https://opendata.adviesraadinternationalevraagstukken.nl](https://opendata.adviesraadinternationalevraagstukken.nl)| $${\color{green}A+}$$ |nginx| |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx||
-|[https://www.adviesraadinternationalevraagstukken.nl](https://www.adviesraadinternationalevraagstukken.nl)| $${\color{green}A+}$$ |nginx| |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Bloomreach HSTS Nginx|Home | Adviesraa...|
-|[https://adviesraadinternationalevraagstukken.nl](https://adviesraadinternationalevraagstukken.nl)| $${\color{green}A+}$$ |nginx| |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx|301 Moved Perman...|
+| Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
+|--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
+|[https://feeds.adviesraadinternationalevraagstukken.nl](https://feeds.adviesraadinternationalevraagstukken.nl)| **A+**| **65**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
+|[https://opendata.adviesraadinternationalevraagstukken.nl](https://opendata.adviesraadinternationalevraagstukken.nl)| **A+**| **65**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
+|[https://www.adviesraadinternationalevraagstukken.nl](https://www.adviesraadinternationalevraagstukken.nl)| **A+**| **75**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Home | Adviesraa...|
+|[https://adviesraadinternationalevraagstukken.nl](https://adviesraadinternationalevraagstukken.nl)| **A+**| **75**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|

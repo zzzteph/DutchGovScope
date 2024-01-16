@@ -5,8 +5,11 @@ permalink: /dutchgov/nfi.nl.html
 
 
 # nfi.nl
-*2024-01-10 20:57:19*
 ## Summary data
+
+
+**SSL Grade**:0
+**HTTP Security Grade**:54.166666666667
 
 
 | File       | Count | Info |
@@ -19,17 +22,17 @@ permalink: /dutchgov/nfi.nl.html
 ## Statistics
 
 
-| Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
-|------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://insite.nfi.nl](https://insite.nfi.nl)| |Apache| |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Apache HTTP Server HSTS||
-|[https://training.nfi.nl](https://training.nfi.nl)| |Microsoft-IIS/10.0|:white_check_mark: | | | | | :white_check_mark: |IIS:10.0 Microsoft ASP.NET Windows Server|Object moved|
-|[https://mijn.nfi.nl](https://mijn.nfi.nl)| |Apache/2.4.37 (AlmaLinux) OpenSSL/1.1.1k| |:white_check_mark: | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: |AlmaLinux Apache HTTP Server:2.4.37 Drupal HSTS OpenSSL:1.1.1k PHP:8.0.27|Redirecting to h...|
-|[https://www.nfi.nl](https://www.nfi.nl)| |Apache| |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Apache HTTP Server HSTS|301 Moved Perman...|
-|[https://ontwikkelpunt.nfi.nl](https://ontwikkelpunt.nfi.nl)| |Class|:white_check_mark: |:white_check_mark: |:warning: | | :white_check_mark: | :white_check_mark: |HSTS||
-|[https://testmijn.nfi.nl](https://testmijn.nfi.nl)| |Apache| | | | | | :white_check_mark: |Apache HTTP Server|403 Forbidden|
-|[https://nfi.nl](https://nfi.nl)| |Apache| |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Apache HTTP Server HSTS|301 Moved Perman...|
-|[https://jep.nfi.nl](https://jep.nfi.nl)| || | | | | | :white_check_mark: |HSTS||
-|[https://anyconnect.nfi.nl](https://anyconnect.nfi.nl)| ||:warning: |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS||
-|[https://hybrid.nfi.nl](https://hybrid.nfi.nl)| |Apache| | | | | | :white_check_mark: |Apache HTTP Server|Index of /|
-|[https://mailtestmijn.nfi.nl](https://mailtestmijn.nfi.nl)| |Apache| | | | | | :white_check_mark: |Apache HTTP Server|403 Forbidden|
-|[https://autodiscover.nfi.nl](https://autodiscover.nfi.nl)| |Apache| | | | | | :white_check_mark: |Apache HTTP Server|403 Forbidden|
+| Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
+|--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
+|[https://insite.nfi.nl](https://insite.nfi.nl)| | **85**|Apache| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Apache HTTP Server HSTS||
+|[https://training.nfi.nl](https://training.nfi.nl)| | **39**|Microsoft-IIS/10.0|:white_check_mark: | | | | | | | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server|Object moved|
+|[https://mijn.nfi.nl](https://mijn.nfi.nl)| | **80**|Apache/2.4.37 (AlmaLinux) OpenSSL/1.1.1k| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |AlmaLinux Apache HTTP Server:2.4.37 Drupal HSTS OpenSSL:1.1.1k PHP:8.0.27|Redirecting to h...|
+|[https://www.nfi.nl](https://www.nfi.nl)| | **75**|Apache| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS|301 Moved Perman...|
+|[https://ontwikkelpunt.nfi.nl](https://ontwikkelpunt.nfi.nl)| | **79**|Class|:white_check_mark: |:white_check_mark: | | |:warning: | | :white_check_mark: | :white_check_mark: | |HSTS||
+|[https://testmijn.nfi.nl](https://testmijn.nfi.nl)| | **25**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|403 Forbidden|
+|[https://nfi.nl](https://nfi.nl)| | **75**|Apache| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS|301 Moved Perman...|
+|[https://jep.nfi.nl](https://jep.nfi.nl)| | **30**|| | | | | | | | :white_check_mark: | |HSTS||
+|[https://anyconnect.nfi.nl](https://anyconnect.nfi.nl)| | **87**||:warning: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
+|[https://hybrid.nfi.nl](https://hybrid.nfi.nl)| | **25**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|Index of /|
+|[https://mailtestmijn.nfi.nl](https://mailtestmijn.nfi.nl)| | **25**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|403 Forbidden|
+|[https://autodiscover.nfi.nl](https://autodiscover.nfi.nl)| | **25**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|403 Forbidden|

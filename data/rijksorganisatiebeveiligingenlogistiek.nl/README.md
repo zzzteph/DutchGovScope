@@ -5,8 +5,11 @@ permalink: /dutchgov/rijksorganisatiebeveiligingenlogistiek.nl.html
 
 
 # rijksorganisatiebeveiligingenlogistiek.nl
-*2024-01-10 20:57:22*
 ## Summary data
+
+
+**SSL Grade**:0
+**HTTP Security Grade**:65
 
 
 | File       | Count | Info |
@@ -19,10 +22,10 @@ permalink: /dutchgov/rijksorganisatiebeveiligingenlogistiek.nl.html
 ## Statistics
 
 
-| Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
-|------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://rijksorganisatiebeveiligingenlogistiek.nl](https://rijksorganisatiebeveiligingenlogistiek.nl)| |nginx| |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx|301 Moved Perman...|
-|[https://www.rijksorganisatiebeveiligingenlogistiek.nl](https://www.rijksorganisatiebeveiligingenlogistiek.nl)| |nginx| |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Bloomreach HSTS Nginx|Home | Rijksorga...|
-|[https://feeds.rijksorganisatiebeveiligingenlogistiek.nl](https://feeds.rijksorganisatiebeveiligingenlogistiek.nl)| |nginx| |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx||
-|[https://opendata.rijksorganisatiebeveiligingenlogistiek.nl](https://opendata.rijksorganisatiebeveiligingenlogistiek.nl)| |nginx| |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx||
-|[https://informatie.rijksorganisatiebeveiligingenlogistiek.nl](https://informatie.rijksorganisatiebeveiligingenlogistiek.nl)| |cloudflare| |:white_check_mark: | | | | :white_check_mark: |Cloudflare HSTS|Page Not Found|
+| Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
+|--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
+|[https://rijksorganisatiebeveiligingenlogistiek.nl](https://rijksorganisatiebeveiligingenlogistiek.nl)| | **75**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
+|[https://www.rijksorganisatiebeveiligingenlogistiek.nl](https://www.rijksorganisatiebeveiligingenlogistiek.nl)| | **75**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Home | Rijksorga...|
+|[https://feeds.rijksorganisatiebeveiligingenlogistiek.nl](https://feeds.rijksorganisatiebeveiligingenlogistiek.nl)| | **65**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
+|[https://opendata.rijksorganisatiebeveiligingenlogistiek.nl](https://opendata.rijksorganisatiebeveiligingenlogistiek.nl)| | **65**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
+|[https://informatie.rijksorganisatiebeveiligingenlogistiek.nl](https://informatie.rijksorganisatiebeveiligingenlogistiek.nl)| | **45**|cloudflare| |:white_check_mark: | | | | | | :white_check_mark: | |Cloudflare HSTS|Page Not Found|

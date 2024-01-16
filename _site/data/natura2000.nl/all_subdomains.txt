@@ -1,0 +1,13 @@
+acc.natura2000.nl
+dns1.natura2000.nl
+dns2.natura2000.nl
+duif2.natura2000.nl
+duif3.natura2000.nl
+duif49.natura2000.nl
+duif50.natura2000.nl
+pas.natura2000.nl
+test.natura2000.nl
+www.natura2000.nl
+www.acc.natura2000.nl
+www.test.natura2000.nl
+natura2000.nl

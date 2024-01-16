@@ -5,8 +5,11 @@ permalink: /dutchgov/informatiepuntdigitaleoverheid.nl.html
 
 
 # informatiepuntdigitaleoverheid.nl
-*2024-01-11 16:13:41*
 ## Summary data
+
+
+**SSL Grade**:0
+**HTTP Security Grade**:45
 
 
 | File       | Count | Info |
@@ -19,7 +22,7 @@ permalink: /dutchgov/informatiepuntdigitaleoverheid.nl.html
 ## Statistics
 
 
-| Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
-|------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://www.informatiepuntdigitaleoverheid.nl](https://www.informatiepuntdigitaleoverheid.nl)| |Apache| |:white_check_mark: | | | | :white_check_mark: |Apache HTTP Server HSTS|Informatiepunt D...|
-|[https://informatiepuntdigitaleoverheid.nl](https://informatiepuntdigitaleoverheid.nl)| |Apache| |:white_check_mark: | | | | :white_check_mark: |Apache HTTP Server HSTS|Informatiepunt D...|
+| Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
+|--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
+|[https://www.informatiepuntdigitaleoverheid.nl](https://www.informatiepuntdigitaleoverheid.nl)| | **45**|Apache| |:white_check_mark: | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|Informatiepunt D...|
+|[https://informatiepuntdigitaleoverheid.nl](https://informatiepuntdigitaleoverheid.nl)| | **45**|Apache| |:white_check_mark: | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|Informatiepunt D...|

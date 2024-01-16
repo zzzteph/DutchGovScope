@@ -1,0 +1,14 @@
+autodiscover.sso-noord.nl
+cloud.sso-noord.nl
+cloud.vpn.sso-noord.nl
+lyncdiscover.sso-noord.nl
+meet.sso-noord.nl
+na-preservica.objects.sso-noord.nl
+objects.sso-noord.nl
+sip.sso-noord.nl
+smtprelay01.sso-noord.nl
+vpn.cloud.sso-noord.nl
+www.sso-noord.nl
+www.st-cross-electronics.co.uwww.sso-noord.nl
+sso-lyncdiscover.sso-noord.nl
+sso-noord.nl

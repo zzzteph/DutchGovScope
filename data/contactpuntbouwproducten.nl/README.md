@@ -5,8 +5,11 @@ permalink: /dutchgov/contactpuntbouwproducten.nl.html
 
 
 # contactpuntbouwproducten.nl
-*2024-01-11 16:13:42*
 ## Summary data
+
+
+**SSL Grade**:0
+**HTTP Security Grade**:56
 
 
 | File       | Count | Info |
@@ -19,9 +22,9 @@ permalink: /dutchgov/contactpuntbouwproducten.nl.html
 ## Statistics
 
 
-| Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
-|------------|-------|------|------|------|------|------|------|------|------|------|
-|[http://autodiscover.contactpuntbouwproducten.nl](http://autodiscover.contactpuntbouwproducten.nl)| |Microsoft-IIS/10.0|:white_check_mark: |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |IIS:10.0 Microsoft ASP.NET Windows Server||
-|[https://mail.contactpuntbouwproducten.nl](https://mail.contactpuntbouwproducten.nl)| |Microsoft-IIS/8.5| | | | | | :white_check_mark: |IIS:8.5 Microsoft ASP.NET Windows Server||
-|[https://www.contactpuntbouwproducten.nl](https://www.contactpuntbouwproducten.nl)| |Microsoft-IIS/8.5| |:white_check_mark: | :white_check_mark:| | | :white_check_mark: |HSTS IIS:8.5 Microsoft ASP.NET:4.0.30319 Windows Server|Object moved|
-|[https://contactpuntbouwproducten.nl](https://contactpuntbouwproducten.nl)| |Microsoft-IIS/8.5| |:white_check_mark: | :white_check_mark:| | | :white_check_mark: |HSTS IIS:8.5 Microsoft ASP.NET:4.0.30319 Windows Server|Object moved|
+| Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
+|--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
+|[http://autodiscover.contactpuntbouwproducten.nl](http://autodiscover.contactpuntbouwproducten.nl)| | **79**|Microsoft-IIS/10.0|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server||
+|[https://mail.contactpuntbouwproducten.nl](https://mail.contactpuntbouwproducten.nl)| | **25**|Microsoft-IIS/8.5| | | | | | | | :white_check_mark: | |IIS:8.5 Microsoft ASP.NET Windows Server||
+|[https://www.contactpuntbouwproducten.nl](https://www.contactpuntbouwproducten.nl)| | **60**|Microsoft-IIS/8.5| |:white_check_mark: | | | :white_check_mark:| | | :white_check_mark: | |HSTS IIS:8.5 Microsoft ASP.NET:4.0.30319 Windows Server|Object moved|
+|[https://contactpuntbouwproducten.nl](https://contactpuntbouwproducten.nl)| | **60**|Microsoft-IIS/8.5| |:white_check_mark: | | | :white_check_mark:| | | :white_check_mark: | |HSTS IIS:8.5 Microsoft ASP.NET:4.0.30319 Windows Server|Object moved|

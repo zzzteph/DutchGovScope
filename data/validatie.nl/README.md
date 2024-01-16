@@ -5,8 +5,11 @@ permalink: /dutchgov/validatie.nl.html
 
 
 # validatie.nl
-*2024-01-11 16:13:43*
 ## Summary data
+
+
+**SSL Grade**:0
+**HTTP Security Grade**:94
 
 
 | File       | Count | Info |
@@ -19,8 +22,8 @@ permalink: /dutchgov/validatie.nl.html
 ## Statistics
 
 
-| Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
-|------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://acc.validatie.nl](https://acc.validatie.nl)| |nginx|:white_check_mark: |:white_check_mark: | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: |Bootstrap:5.0.2 Django HSTS Nginx Python|Valideer uw docu...|
-|[https://www.validatie.nl](https://www.validatie.nl)| |nginx|:white_check_mark: |:white_check_mark: | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: |Bootstrap:3.4.0 Django HSTS Nginx Python|Valideer uw docu...|
-|[https://validatie.nl](https://validatie.nl)| |nginx|:white_check_mark: |:white_check_mark: | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: |Bootstrap:3.4.0 Django HSTS Nginx Python|Valideer uw docu...|
+| Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
+|--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
+|[https://acc.validatie.nl](https://acc.validatie.nl)| | **94**|nginx|:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bootstrap:5.0.2 Django HSTS Nginx Python|Valideer uw docu...|
+|[https://www.validatie.nl](https://www.validatie.nl)| | **94**|nginx|:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bootstrap:3.4.0 Django HSTS Nginx Python|Valideer uw docu...|
+|[https://validatie.nl](https://validatie.nl)| | **94**|nginx|:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bootstrap:3.4.0 Django HSTS Nginx Python|Valideer uw docu...|

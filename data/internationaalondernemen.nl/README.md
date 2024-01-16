@@ -5,8 +5,11 @@ permalink: /dutchgov/internationaalondernemen.nl.html
 
 
 # internationaalondernemen.nl
-*2024-01-11 16:13:42*
 ## Summary data
+
+
+**SSL Grade**:0
+**HTTP Security Grade**:35
 
 
 | File       | Count | Info |
@@ -19,13 +22,13 @@ permalink: /dutchgov/internationaalondernemen.nl.html
 ## Statistics
 
 
-| Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
-|------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://mail.logan.nl.internationaalondernemen.nl](https://mail.logan.nl.internationaalondernemen.nl)| |Apache| | | | | | :white_check_mark: |Apache HTTP Server HSTS|An Error Occurre...|
-|[https://www.internationaalondernemen.nl](https://www.internationaalondernemen.nl)| |Apache| |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |Apache HTTP Server Google Tag Manager HSTS MySQL PHP W3 Total Cache WordPress Yoast SEO:20.13|Internationaal O...|
-|[https://nl.internationaalondernemen.nl](https://nl.internationaalondernemen.nl)| |Apache| | | | | | :white_check_mark: |Apache HTTP Server HSTS|An Error Occurre...|
-|[https://internationaalondernemen.nlwww.internationaalondernemen.nl](https://internationaalondernemen.nlwww.internationaalondernemen.nl)| |Apache| | | | | | :white_check_mark: |Apache HTTP Server HSTS|An Error Occurre...|
-|[https://ww.internationaalondernemen.nl](https://ww.internationaalondernemen.nl)| |Apache| | | | | | :white_check_mark: |Apache HTTP Server HSTS|An Error Occurre...|
-|[https://internationaalondernemen.nl](https://internationaalondernemen.nl)| |Apache| |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |Apache HTTP Server HSTS|301 Moved Perman...|
-|[https://nsi.bgwww.internationaalondernemen.nl](https://nsi.bgwww.internationaalondernemen.nl)| |Apache| | | | | | :white_check_mark: |Apache HTTP Server HSTS|An Error Occurre...|
-|[https://epp.eurostat.ec.europa.euwww.internationaalondernemen.nl](https://epp.eurostat.ec.europa.euwww.internationaalondernemen.nl)| |Apache| | | | | | :white_check_mark: |Apache HTTP Server HSTS|An Error Occurre...|
+| Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
+|--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
+|[https://mail.logan.nl.internationaalondernemen.nl](https://mail.logan.nl.internationaalondernemen.nl)| | **25**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|An Error Occurre...|
+|[https://www.internationaalondernemen.nl](https://www.internationaalondernemen.nl)| | **65**|Apache| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server Google Tag Manager HSTS MySQL PHP W3 Total Cache WordPress Yoast SEO:20.13|Internationaal O...|
+|[https://nl.internationaalondernemen.nl](https://nl.internationaalondernemen.nl)| | **25**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|An Error Occurre...|
+|[https://internationaalondernemen.nlwww.internationaalondernemen.nl](https://internationaalondernemen.nlwww.internationaalondernemen.nl)| | **25**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|An Error Occurre...|
+|[https://ww.internationaalondernemen.nl](https://ww.internationaalondernemen.nl)| | **25**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|An Error Occurre...|
+|[https://internationaalondernemen.nl](https://internationaalondernemen.nl)| | **65**|Apache| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS|301 Moved Perman...|
+|[https://nsi.bgwww.internationaalondernemen.nl](https://nsi.bgwww.internationaalondernemen.nl)| | **25**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|An Error Occurre...|
+|[https://epp.eurostat.ec.europa.euwww.internationaalondernemen.nl](https://epp.eurostat.ec.europa.euwww.internationaalondernemen.nl)| | **25**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|An Error Occurre...|

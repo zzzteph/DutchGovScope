@@ -5,8 +5,11 @@ permalink: /dutchgov/wozep.nl.html
 
 
 # wozep.nl
-*2024-01-11 16:13:41*
 ## Summary data
+
+
+**SSL Grade**:0
+**HTTP Security Grade**:55
 
 
 | File       | Count | Info |
@@ -19,7 +22,7 @@ permalink: /dutchgov/wozep.nl.html
 ## Statistics
 
 
-| Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
-|------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://www.wozep.nl](https://www.wozep.nl)| |nginx| |:white_check_mark: | | | | :white_check_mark: |HSTS Nginx|Bad Request (400...|
-|[https://wozep.nl](https://wozep.nl)| |nginx| |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx||
+| Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
+|--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
+|[https://www.wozep.nl](https://www.wozep.nl)| | **45**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Nginx|Bad Request (400...|
+|[https://wozep.nl](https://wozep.nl)| | **65**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||

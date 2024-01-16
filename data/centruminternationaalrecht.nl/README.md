@@ -5,8 +5,11 @@ permalink: /dutchgov/centruminternationaalrecht.nl.html
 
 
 # centruminternationaalrecht.nl
-*2024-01-11 16:13:37*
 ## Summary data
+
+
+**SSL Grade**:0
+**HTTP Security Grade**:50.6
 
 
 | File       | Count | Info |
@@ -19,10 +22,10 @@ permalink: /dutchgov/centruminternationaalrecht.nl.html
 ## Statistics
 
 
-| Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
-|------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://acc.centruminternationaalrecht.nl](https://acc.centruminternationaalrecht.nl)| |Apache| | | | | | :white_check_mark: |Apache HTTP Server|403 Forbidden|
-|[https://dev.centruminternationaalrecht.nl](https://dev.centruminternationaalrecht.nl)| |Apache| | | | | | :white_check_mark: |Apache HTTP Server|403 Forbidden|
-|[https://tst.centruminternationaalrecht.nl](https://tst.centruminternationaalrecht.nl)| |Apache| | | | | | :white_check_mark: |Apache HTTP Server|403 Forbidden|
-|[https://www.centruminternationaalrecht.nl](https://www.centruminternationaalrecht.nl)| |Apache|:white_check_mark: |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Apache HTTP Server HSTS Java|Home | Centrum v...|
-|[https://centruminternationaalrecht.nl](https://centruminternationaalrecht.nl)| |Apache|:white_check_mark: |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Apache HTTP Server|301 Moved Perman...|
+| Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
+|--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
+|[https://acc.centruminternationaalrecht.nl](https://acc.centruminternationaalrecht.nl)| | **25**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|403 Forbidden|
+|[https://dev.centruminternationaalrecht.nl](https://dev.centruminternationaalrecht.nl)| | **25**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|403 Forbidden|
+|[https://tst.centruminternationaalrecht.nl](https://tst.centruminternationaalrecht.nl)| | **25**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|403 Forbidden|
+|[https://www.centruminternationaalrecht.nl](https://www.centruminternationaalrecht.nl)| | **89**|Apache|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS Java|Home | Centrum v...|
+|[https://centruminternationaalrecht.nl](https://centruminternationaalrecht.nl)| | **89**|Apache|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server|301 Moved Perman...|

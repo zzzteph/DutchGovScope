@@ -5,8 +5,11 @@ permalink: /dutchgov/noordzeeloket.nl.html
 
 
 # noordzeeloket.nl
-*2024-01-11 16:13:37*
 ## Summary data
+
+
+**SSL Grade**:0
+**HTTP Security Grade**:66.666666666667
 
 
 | File       | Count | Info |
@@ -19,8 +22,8 @@ permalink: /dutchgov/noordzeeloket.nl.html
 ## Statistics
 
 
-| Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
-|------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://windmolensopzee.noordzeeloket.nl](https://windmolensopzee.noordzeeloket.nl)| || | | | | | :white_check_mark: ||Microsoft Azure...|
-|[https://www.noordzeeloket.nl](https://www.noordzeeloket.nl)| || |:white_check_mark: | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Microsoft ASP.NET:-|Home - Noordzeel...|
-|[https://noordzeeloket.nl](https://noordzeeloket.nl)| || |:white_check_mark: | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Microsoft ASP.NET:-|Object moved|
+| Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
+|--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
+|[https://windmolensopzee.noordzeeloket.nl](https://windmolensopzee.noordzeeloket.nl)| | **30**|| | | | | | | | :white_check_mark: | ||Microsoft Azure...|
+|[https://www.noordzeeloket.nl](https://www.noordzeeloket.nl)| | **85**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:-|Home - Noordzeel...|
+|[https://noordzeeloket.nl](https://noordzeeloket.nl)| | **85**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:-|Object moved|

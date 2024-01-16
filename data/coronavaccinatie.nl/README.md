@@ -5,8 +5,11 @@ permalink: /dutchgov/coronavaccinatie.nl.html
 
 
 # coronavaccinatie.nl
-*2024-01-10 20:57:11*
 ## Summary data
+
+
+**SSL Grade**:100
+**HTTP Security Grade**:75
 
 
 | File       | Count | Info |
@@ -19,7 +22,7 @@ permalink: /dutchgov/coronavaccinatie.nl.html
 ## Statistics
 
 
-| Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
-|------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://www.coronavaccinatie.nl](https://www.coronavaccinatie.nl)| $${\color{green}A+}$$ |nginx| |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx|302 Found|
-|[https://coronavaccinatie.nl](https://coronavaccinatie.nl)| |nginx| |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx|302 Found|
+| Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
+|--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
+|[https://www.coronavaccinatie.nl](https://www.coronavaccinatie.nl)| **A+**| **75**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|302 Found|
+|[https://coronavaccinatie.nl](https://coronavaccinatie.nl)| | **75**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|302 Found|

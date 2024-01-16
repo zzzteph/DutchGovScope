@@ -5,8 +5,11 @@ permalink: /dutchgov/ofgv.nl.html
 
 
 # ofgv.nl
-*2024-01-11 02:46:16*
 ## Summary data
+
+
+**SSL Grade**:0
+**HTTP Security Grade**:63.833333333333
 
 
 | File       | Count | Info |
@@ -19,11 +22,11 @@ permalink: /dutchgov/ofgv.nl.html
 ## Statistics
 
 
-| Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
-|------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://kenniscentrum.ofgv.nl](https://kenniscentrum.ofgv.nl)| |Apache/2| | | | | | :white_check_mark: |Apache HTTP Server:2|301 Moved Perman...|
-|[https://www.ofgv.nl](https://www.ofgv.nl)| |-| |:white_check_mark: | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Microsoft ASP.NET:-|OFGV - Omgevings...|
-|[https://ofgv.nl](https://ofgv.nl)| |-| |:white_check_mark: | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Microsoft ASP.NET:-|Object moved|
-|[https://webmail.ofgv.nl](https://webmail.ofgv.nl)| |Microsoft-IIS/10.0| | | | | | :white_check_mark: |HSTS IIS:10.0 Microsoft ASP.NET Windows Server||
-|[http://autodiscover.ofgv.nl](http://autodiscover.ofgv.nl)| |Microsoft-IIS/10.0|:white_check_mark: |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |IIS:10.0 Microsoft ASP.NET Windows Server||
-|[https://redactie.ofgv.nl](https://redactie.ofgv.nl)| |-|:white_check_mark: |:white_check_mark: | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Microsoft ASP.NET:-|Object moved|
+| Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
+|--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
+|[https://kenniscentrum.ofgv.nl](https://kenniscentrum.ofgv.nl)| | **25**|Apache/2| | | | | | | | :white_check_mark: | |Apache HTTP Server:2|301 Moved Perman...|
+|[https://www.ofgv.nl](https://www.ofgv.nl)| | **80**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:-|OFGV - Omgevings...|
+|[https://ofgv.nl](https://ofgv.nl)| | **80**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:-|Object moved|
+|[https://webmail.ofgv.nl](https://webmail.ofgv.nl)| | **25**|Microsoft-IIS/10.0| | | | | | | | :white_check_mark: | |HSTS IIS:10.0 Microsoft ASP.NET Windows Server||
+|[http://autodiscover.ofgv.nl](http://autodiscover.ofgv.nl)| | **79**|Microsoft-IIS/10.0|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server||
+|[https://redactie.ofgv.nl](https://redactie.ofgv.nl)| | **94**|-|:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:-|Object moved|

@@ -5,8 +5,11 @@ permalink: /dutchgov/socialeveiligheidrijk.nl.html
 
 
 # socialeveiligheidrijk.nl
-*2024-01-11 16:13:46*
 ## Summary data
+
+
+**SSL Grade**:0
+**HTTP Security Grade**:94
 
 
 | File       | Count | Info |
@@ -19,7 +22,7 @@ permalink: /dutchgov/socialeveiligheidrijk.nl.html
 ## Statistics
 
 
-| Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
-|------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://socialeveiligheidrijk.nl](https://socialeveiligheidrijk.nl)| ||:white_check_mark: |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS||
-|[https://www.socialeveiligheidrijk.nl](https://www.socialeveiligheidrijk.nl)| ||:white_check_mark: |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS||
+| Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
+|--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
+|[https://socialeveiligheidrijk.nl](https://socialeveiligheidrijk.nl)| | **94**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
+|[https://www.socialeveiligheidrijk.nl](https://www.socialeveiligheidrijk.nl)| | **94**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||

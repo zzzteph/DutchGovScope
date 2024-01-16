@@ -1,0 +1,15 @@
+reporting.raac.uzi-register.nl
+applicatieserver.raac.uzi-register.nl
+daf.raac.uzi-register.nl
+dasuser.raac.uzi-register.nl
+retour.uzi-register.nl
+csp.uzi-register.nl
+ocsp.uzi-register.nl
+raac-rep.uzi-register.nl
+www.uzi-register.nl
+www.csp.uzi-register.nl
+www.intrekken.uzi-register.nl
+batchuser.raac.uzi-register.nl
+dafuser.raac.uzi-register.nl
+www2.uzi-register.nl
+uzi-register.nl

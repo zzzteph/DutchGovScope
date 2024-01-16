@@ -5,8 +5,11 @@ permalink: /dutchgov/temis.nl.html
 
 
 # temis.nl
-*2024-01-11 16:13:41*
 ## Summary data
+
+
+**SSL Grade**:0
+**HTTP Security Grade**:65
 
 
 | File       | Count | Info |
@@ -19,7 +22,7 @@ permalink: /dutchgov/temis.nl.html
 ## Statistics
 
 
-| Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
-|------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://www.temis.nl](https://www.temis.nl)| |Apache| |:white_check_mark: |:warning: | :white_check_mark: | | :white_check_mark: |Apache HTTP Server HSTS|Tropospheric Emi...|
-|[https://temis.nl](https://temis.nl)| |Apache| |:white_check_mark: |:warning: | :white_check_mark: | | :white_check_mark: |Apache HTTP Server HSTS|Tropospheric Emi...|
+| Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
+|--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
+|[https://www.temis.nl](https://www.temis.nl)| | **65**|Apache| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS|Tropospheric Emi...|
+|[https://temis.nl](https://temis.nl)| | **65**|Apache| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS|Tropospheric Emi...|

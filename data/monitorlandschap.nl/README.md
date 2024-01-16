@@ -5,8 +5,11 @@ permalink: /dutchgov/monitorlandschap.nl.html
 
 
 # monitorlandschap.nl
-*2024-01-11 16:13:45*
 ## Summary data
+
+
+**SSL Grade**:0
+**HTTP Security Grade**:65
 
 
 | File       | Count | Info |
@@ -19,6 +22,6 @@ permalink: /dutchgov/monitorlandschap.nl.html
 ## Statistics
 
 
-| Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
-|------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://www.monitorlandschap.nl](https://www.monitorlandschap.nl)| || |:white_check_mark: | :white_check_mark:| | | :white_check_mark: |HSTS|Monitor Landscha...|
+| Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
+|--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
+|[https://www.monitorlandschap.nl](https://www.monitorlandschap.nl)| | **65**|| |:white_check_mark: | | | :white_check_mark:| | | :white_check_mark: | |HSTS|Monitor Landscha...|

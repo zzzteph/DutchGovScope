@@ -5,8 +5,11 @@ permalink: /dutchgov/lees-rijk.nl.html
 
 
 # lees-rijk.nl
-*2024-01-11 16:13:37*
 ## Summary data
+
+
+**SSL Grade**:0
+**HTTP Security Grade**:53
 
 
 | File       | Count | Info |
@@ -19,10 +22,10 @@ permalink: /dutchgov/lees-rijk.nl.html
 ## Statistics
 
 
-| Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
-|------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://acc.lees-rijk.nl](https://acc.lees-rijk.nl)| |nginx| |:white_check_mark: | | | | :white_check_mark: |Drupal HSTS Nginx PHP||
-|[https://producten.lees-rijk.nl](https://producten.lees-rijk.nl)| ||:o: |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS||
-|[https://www.lees-rijk.nl](https://www.lees-rijk.nl)| |nginx| |:white_check_mark: | | | | :white_check_mark: |Drupal HSTS Nginx PHP||
-|[https://www.acc.lees-rijk.nl](https://www.acc.lees-rijk.nl)| |nginx| |:white_check_mark: | :white_check_mark:| | | :white_check_mark: |Drupal:9 HSTS Nginx PHP|Redirecting to /...|
-|[https://lees-rijk.nl](https://lees-rijk.nl)| |nginx| |:white_check_mark: | | | | :white_check_mark: |HSTS Nginx|301 Moved Perman...|
+| Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
+|--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
+|[https://acc.lees-rijk.nl](https://acc.lees-rijk.nl)| | **45**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |Drupal HSTS Nginx PHP||
+|[https://producten.lees-rijk.nl](https://producten.lees-rijk.nl)| | **70**||:o: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
+|[https://www.lees-rijk.nl](https://www.lees-rijk.nl)| | **45**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |Drupal HSTS Nginx PHP||
+|[https://www.acc.lees-rijk.nl](https://www.acc.lees-rijk.nl)| | **60**|nginx| |:white_check_mark: | | | :white_check_mark:| | | :white_check_mark: | |Drupal HSTS Nginx PHP|Redirecting to /...|
+|[https://lees-rijk.nl](https://lees-rijk.nl)| | **45**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|

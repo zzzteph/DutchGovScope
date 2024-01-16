@@ -5,8 +5,11 @@ permalink: /dutchgov/emnnetherlands.nl.html
 
 
 # emnnetherlands.nl
-*2024-01-11 16:13:42*
 ## Summary data
+
+
+**SSL Grade**:0
+**HTTP Security Grade**:55
 
 
 | File       | Count | Info |
@@ -19,8 +22,8 @@ permalink: /dutchgov/emnnetherlands.nl.html
 ## Statistics
 
 
-| Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
-|------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://accept.emnnetherlands.nl](https://accept.emnnetherlands.nl)| |Apache| | | | | | :white_check_mark: |Apache HTTP Server Basic|401 Unauthorized|
-|[https://www.emnnetherlands.nl](https://www.emnnetherlands.nl)| |Apache| |:white_check_mark: | :white_check_mark:| :white_check_mark: | | :white_check_mark: |Apache HTTP Server Drupal:9 HSTS OWL Carousel PHP jQuery|EMN Nederland|
-|[https://emnnetherlands.nl](https://emnnetherlands.nl)| |Apache| |:white_check_mark: | :white_check_mark:| :white_check_mark: | | :white_check_mark: |Apache HTTP Server|301 Moved Perman...|
+| Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
+|--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
+|[https://accept.emnnetherlands.nl](https://accept.emnnetherlands.nl)| | **25**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server Basic|401 Unauthorized|
+|[https://www.emnnetherlands.nl](https://www.emnnetherlands.nl)| | **70**|Apache| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |Apache HTTP Server Drupal:9 HSTS OWL Carousel PHP jQuery|EMN Nederland|
+|[https://emnnetherlands.nl](https://emnnetherlands.nl)| | **70**|Apache| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |Apache HTTP Server|301 Moved Perman...|

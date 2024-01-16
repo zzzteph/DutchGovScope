@@ -5,8 +5,11 @@ permalink: /dutchgov/bureauncdr.nl.html
 
 
 # bureauncdr.nl
-*2024-01-10 20:57:10*
 ## Summary data
+
+
+**SSL Grade**:98
+**HTTP Security Grade**:61
 
 
 | File       | Count | Info |
@@ -19,10 +22,10 @@ permalink: /dutchgov/bureauncdr.nl.html
 ## Statistics
 
 
-| Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
-|------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://feeds.bureauncdr.nl](https://feeds.bureauncdr.nl)| $${\color{green}A+}$$ |nginx| |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx||
-|[https://np2022.bureauncdr.nl](https://np2022.bureauncdr.nl)| $${\color{green}A}$$ |nginx| | | | | | :white_check_mark: |MySQL Nginx PHP WPML:4.6.4 WordPress:6.4.2 Yoast SEO:20.11|ncdrrapport|
-|[https://opendata.bureauncdr.nl](https://opendata.bureauncdr.nl)| $${\color{green}A+}$$ |nginx| |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx||
-|[https://www.bureauncdr.nl](https://www.bureauncdr.nl)| $${\color{green}A+}$$ |nginx| |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Bloomreach HSTS Nginx|Nationaal Coördi...|
-|[https://bureauncdr.nl](https://bureauncdr.nl)| $${\color{green}A+}$$ |nginx| |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx|301 Moved Perman...|
+| Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
+|--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
+|[https://feeds.bureauncdr.nl](https://feeds.bureauncdr.nl)| **A+**| **65**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
+|[https://np2022.bureauncdr.nl](https://np2022.bureauncdr.nl)| **A**| **25**|nginx| | | | | | | | :white_check_mark: | |MySQL Nginx PHP WPML:4.6.4 WordPress:6.4.2 Yoast SEO:20.11|ncdrrapport|
+|[https://opendata.bureauncdr.nl](https://opendata.bureauncdr.nl)| **A+**| **65**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
+|[https://www.bureauncdr.nl](https://www.bureauncdr.nl)| **A+**| **75**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Nationaal Coördi...|
+|[https://bureauncdr.nl](https://bureauncdr.nl)| **A+**| **75**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|

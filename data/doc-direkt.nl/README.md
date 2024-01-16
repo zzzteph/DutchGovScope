@@ -5,8 +5,11 @@ permalink: /dutchgov/doc-direkt.nl.html
 
 
 # doc-direkt.nl
-*2024-01-14 02:57:05*
 ## Summary data
+
+
+**SSL Grade**:90
+**HTTP Security Grade**:75.333333333333
 
 
 | File       | Count | Info |
@@ -19,14 +22,14 @@ permalink: /dutchgov/doc-direkt.nl.html
 ## Statistics
 
 
-| Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
-|------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://acc-api.dh.doc-direkt.nl](https://acc-api.dh.doc-direkt.nl)| $${\color{lightgreen}B}$$ || |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS||
-|[https://acc-dh.doc-direkt.nl](https://acc-dh.doc-direkt.nl)| $${\color{lightgreen}B}$$ ||:white_check_mark: |:white_check_mark: | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: |AngularJS HSTS|SigningHub|
-|[https://acc-m.dh.doc-direkt.nl](https://acc-m.dh.doc-direkt.nl)| $${\color{lightgreen}B}$$ || |:white_check_mark: | | | :white_check_mark: | :white_check_mark: |AngularJS HSTS||
-|[https://api.dh.doc-direkt.nl](https://api.dh.doc-direkt.nl)| $${\color{green}A+}$$ || |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS||
-|[https://dh.doc-direkt.nl](https://dh.doc-direkt.nl)| $${\color{green}A+}$$ ||:white_check_mark: |:white_check_mark: | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: |AngularJS HSTS|SigningHub|
-|[https://feeds.doc-direkt.nl](https://feeds.doc-direkt.nl)| $${\color{green}A+}$$ |nginx| |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx||
-|[https://opendata.doc-direkt.nl](https://opendata.doc-direkt.nl)| $${\color{green}A+}$$ |nginx| |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx||
-|[https://www.doc-direkt.nl](https://www.doc-direkt.nl)| $${\color{green}A+}$$ |nginx| |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Bloomreach HSTS Nginx|Home | DocDirekt|
-|[https://doc-direkt.nl](https://doc-direkt.nl)| $${\color{green}A+}$$ |nginx| |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx||
+| Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
+|--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
+|[https://acc-api.dh.doc-direkt.nl](https://acc-api.dh.doc-direkt.nl)| **B**| **70**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
+|[https://acc-dh.doc-direkt.nl](https://acc-dh.doc-direkt.nl)| **B**| **99**||:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |AngularJS HSTS|SigningHub|
+|[https://acc-m.dh.doc-direkt.nl](https://acc-m.dh.doc-direkt.nl)| **B**| **60**|| |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | |AngularJS HSTS||
+|[https://api.dh.doc-direkt.nl](https://api.dh.doc-direkt.nl)| **A+**| **70**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
+|[https://dh.doc-direkt.nl](https://dh.doc-direkt.nl)| **A+**| **99**||:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |AngularJS HSTS|SigningHub|
+|[https://feeds.doc-direkt.nl](https://feeds.doc-direkt.nl)| **A+**| **65**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
+|[https://opendata.doc-direkt.nl](https://opendata.doc-direkt.nl)| **A+**| **65**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
+|[https://www.doc-direkt.nl](https://www.doc-direkt.nl)| **A+**| **75**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Home | DocDirekt|
+|[https://doc-direkt.nl](https://doc-direkt.nl)| **A+**| **75**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|

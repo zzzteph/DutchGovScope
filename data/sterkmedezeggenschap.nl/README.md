@@ -5,8 +5,11 @@ permalink: /dutchgov/sterkmedezeggenschap.nl.html
 
 
 # sterkmedezeggenschap.nl
-*2024-01-11 16:13:45*
 ## Summary data
+
+
+**SSL Grade**:0
+**HTTP Security Grade**:25
 
 
 | File       | Count | Info |
@@ -19,7 +22,7 @@ permalink: /dutchgov/sterkmedezeggenschap.nl.html
 ## Statistics
 
 
-| Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
-|------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://sterkmedezeggenschap.nl](https://sterkmedezeggenschap.nl)| |Apache/2| | | | | | :white_check_mark: |Apache HTTP Server:2 HSTS||
-|[https://www.sterkmedezeggenschap.nl](https://www.sterkmedezeggenschap.nl)| |Apache/2| | | | | | :white_check_mark: |Apache HTTP Server:2 Google Tag Manager MySQL PHP WordPress Yoast SEO:21.5|Sterk Medezeggen...|
+| Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
+|--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
+|[https://sterkmedezeggenschap.nl](https://sterkmedezeggenschap.nl)| | **25**|Apache/2| | | | | | | | :white_check_mark: | |Apache HTTP Server:2 HSTS||
+|[https://www.sterkmedezeggenschap.nl](https://www.sterkmedezeggenschap.nl)| | **25**|Apache/2| | | | | | | | :white_check_mark: | |Apache HTTP Server:2 Google Tag Manager MySQL PHP WordPress Yoast SEO:21.5|Sterk Medezeggen...|

@@ -5,8 +5,11 @@ permalink: /dutchgov/nationaleenergieatlas.nl.html
 
 
 # nationaleenergieatlas.nl
-*2024-01-11 16:13:37*
 ## Summary data
+
+
+**SSL Grade**:0
+**HTTP Security Grade**:65
 
 
 | File       | Count | Info |
@@ -19,7 +22,7 @@ permalink: /dutchgov/nationaleenergieatlas.nl.html
 ## Statistics
 
 
-| Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
-|------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://www.nationaleenergieatlas.nl](https://www.nationaleenergieatlas.nl)| |Apache| |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |Apache HTTP Server Drupal HSTS PHP|Nationale Energi...|
-|[https://nationaleenergieatlas.nl](https://nationaleenergieatlas.nl)| |Apache| |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |Apache HTTP Server HSTS|301 Moved Perman...|
+| Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
+|--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
+|[https://www.nationaleenergieatlas.nl](https://www.nationaleenergieatlas.nl)| | **65**|Apache| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server Drupal HSTS PHP|Nationale Energi...|
+|[https://nationaleenergieatlas.nl](https://nationaleenergieatlas.nl)| | **65**|Apache| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS|301 Moved Perman...|

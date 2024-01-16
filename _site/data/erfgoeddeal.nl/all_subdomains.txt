@@ -1,0 +1,11 @@
+feeds.erfgoeddeal.nl
+opendata.erfgoeddeal.nl
+www.erfgoeddeal.nl
+opendata.english.erfgoeddeal.nl
+magazines.erfgoeddeal.nl
+english.erfgoeddeal.nl
+erfgoeddeal.nl
+feeds.english.erfgoeddeal.nl
+magazines.english.erfgoeddeal.nl
+magazinesintern.english.erfgoeddeal.nl
+magazinesintern.erfgoeddeal.nl

@@ -5,8 +5,11 @@ permalink: /dutchgov/higherlevel.nl.html
 
 
 # higherlevel.nl
-*2024-01-14 04:43:09*
 ## Summary data
+
+
+**SSL Grade**:0
+**HTTP Security Grade**:69.5
 
 
 | File       | Count | Info |
@@ -19,9 +22,9 @@ permalink: /dutchgov/higherlevel.nl.html
 ## Statistics
 
 
-| Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
-|------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://prod.higherlevel.nl](https://prod.higherlevel.nl)| |Apache| | | | | | :white_check_mark: |Apache HTTP Server HSTS||
-|[https://test.higherlevel.nl](https://test.higherlevel.nl)| |Apache| |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |Apache HTTP Server Basic HSTS|401 Unauthorized|
-|[https://www.higherlevel.nl](https://www.higherlevel.nl)| |Apache|:white_check_mark: |:white_check_mark: | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: |Apache HTTP Server Google Tag Manager HSTS Stimulus|Home - Higherlev...|
-|[https://higherlevel.nl](https://higherlevel.nl)| |Apache|:white_check_mark: |:white_check_mark: | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: |Apache HTTP Server HSTS|301 Moved Perman...|
+| Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
+|--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
+|[https://prod.higherlevel.nl](https://prod.higherlevel.nl)| | **25**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS||
+|[https://test.higherlevel.nl](https://test.higherlevel.nl)| | **65**|Apache| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server Basic HSTS|401 Unauthorized|
+|[https://www.higherlevel.nl](https://www.higherlevel.nl)| | **94**|Apache|:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server Google Tag Manager HSTS Stimulus|Home - Higherlev...|
+|[https://higherlevel.nl](https://higherlevel.nl)| | **94**|Apache|:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS|301 Moved Perman...|

@@ -5,8 +5,11 @@ permalink: /dutchgov/ceg.nl.html
 
 
 # ceg.nl
-*2024-01-14 00:59:14*
 ## Summary data
+
+
+**SSL Grade**:100
+**HTTP Security Grade**:43
 
 
 | File       | Count | Info |
@@ -19,15 +22,15 @@ permalink: /dutchgov/ceg.nl.html
 ## Statistics
 
 
-| Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
-|------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://ceg.nl](https://ceg.nl)| $${\color{green}A+}$$ |nginx| |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx|301 Moved Perman...|
-|[https://www.ceg.nl](https://www.ceg.nl)| $${\color{green}A+}$$ |nginx| |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Bloomreach HSTS Nginx|Homepagina Centr...|
-|[https://feeds.ceg.nl](https://feeds.ceg.nl)| $${\color{green}A+}$$ |nginx| |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx||
-|[https://opendata.ceg.nl](https://opendata.ceg.nl)| $${\color{green}A+}$$ |nginx| |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx||
-|[https://mail.ceg.nl](https://mail.ceg.nl)| |Apache/2| | | | | | :white_check_mark: |Apache HTTP Server:2|System Offline|
-|[https://testsite.ceg.nl](https://testsite.ceg.nl)| |Apache/2| | | | | | :white_check_mark: |Apache HTTP Server:2|System Offline|
-|[https://www.testsite.ceg.nl](https://www.testsite.ceg.nl)| |Apache/2| | | | | | :white_check_mark: |Apache HTTP Server:2|System Offline|
-|[https://smtp.ceg.nl](https://smtp.ceg.nl)| |Apache/2| | | | | | :white_check_mark: |Apache HTTP Server:2|System Offline|
-|[https://ftp.ceg.nl](https://ftp.ceg.nl)| |Apache/2| | | | | | :white_check_mark: |Apache HTTP Server:2|System Offline|
-|[https://pop.ceg.nl](https://pop.ceg.nl)| |Apache/2| | | | | | :white_check_mark: |Apache HTTP Server:2|System Offline|
+| Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
+|--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
+|[https://ceg.nl](https://ceg.nl)| **A+**| **75**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
+|[https://www.ceg.nl](https://www.ceg.nl)| **A+**| **75**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Homepagina Centr...|
+|[https://feeds.ceg.nl](https://feeds.ceg.nl)| **A+**| **65**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
+|[https://opendata.ceg.nl](https://opendata.ceg.nl)| **A+**| **65**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
+|[https://mail.ceg.nl](https://mail.ceg.nl)| | **25**|Apache/2| | | | | | | | :white_check_mark: | |Apache HTTP Server:2|System Offline|
+|[https://testsite.ceg.nl](https://testsite.ceg.nl)| | **25**|Apache/2| | | | | | | | :white_check_mark: | |Apache HTTP Server:2|System Offline|
+|[https://www.testsite.ceg.nl](https://www.testsite.ceg.nl)| | **25**|Apache/2| | | | | | | | :white_check_mark: | |Apache HTTP Server:2|System Offline|
+|[https://smtp.ceg.nl](https://smtp.ceg.nl)| | **25**|Apache/2| | | | | | | | :white_check_mark: | |Apache HTTP Server:2|System Offline|
+|[https://ftp.ceg.nl](https://ftp.ceg.nl)| | **25**|Apache/2| | | | | | | | :white_check_mark: | |Apache HTTP Server:2|System Offline|
+|[https://pop.ceg.nl](https://pop.ceg.nl)| | **25**|Apache/2| | | | | | | | :white_check_mark: | |Apache HTTP Server:2|System Offline|

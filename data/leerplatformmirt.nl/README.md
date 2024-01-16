@@ -5,8 +5,11 @@ permalink: /dutchgov/leerplatformmirt.nl.html
 
 
 # leerplatformmirt.nl
-*2024-01-11 16:13:39*
 ## Summary data
+
+
+**SSL Grade**:0
+**HTTP Security Grade**:80
 
 
 | File       | Count | Info |
@@ -19,7 +22,7 @@ permalink: /dutchgov/leerplatformmirt.nl.html
 ## Statistics
 
 
-| Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
-|------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://www.leerplatformmirt.nl](https://www.leerplatformmirt.nl)| |-| |:white_check_mark: | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Microsoft ASP.NET:-|Object moved|
-|[https://leerplatformmirt.nl](https://leerplatformmirt.nl)| |-| |:white_check_mark: | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Microsoft ASP.NET:-|Home - Leerplatf...|
+| Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
+|--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
+|[https://www.leerplatformmirt.nl](https://www.leerplatformmirt.nl)| | **80**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:-|Object moved|
+|[https://leerplatformmirt.nl](https://leerplatformmirt.nl)| | **80**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:-|Home - Leerplatf...|

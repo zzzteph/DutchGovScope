@@ -5,8 +5,11 @@ permalink: /dutchgov/knooppuntjoure.nl.html
 
 
 # knooppuntjoure.nl
-*2024-01-11 16:13:44*
 ## Summary data
+
+
+**SSL Grade**:0
+**HTTP Security Grade**:25
 
 
 | File       | Count | Info |
@@ -19,8 +22,8 @@ permalink: /dutchgov/knooppuntjoure.nl.html
 ## Statistics
 
 
-| Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
-|------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://mail.knooppuntjoure.nl](https://mail.knooppuntjoure.nl)| |cloudflare| | | | | | :white_check_mark: |Cloudflare HTTP/3||
-|[https://www.knooppuntjoure.nl](https://www.knooppuntjoure.nl)| |cloudflare| | | | | | :white_check_mark: |Cloudflare HTTP/3 MySQL PHP:8.0.30 WordPress|Knooppuntjoure.n...|
-|[https://knooppuntjoure.nl](https://knooppuntjoure.nl)| |cloudflare| | | | | | :white_check_mark: |Cloudflare HTTP/3||
+| Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
+|--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
+|[https://mail.knooppuntjoure.nl](https://mail.knooppuntjoure.nl)| | **25**|cloudflare| | | | | | | | :white_check_mark: | |Cloudflare HTTP/3||
+|[https://www.knooppuntjoure.nl](https://www.knooppuntjoure.nl)| | **25**|cloudflare| | | | | | | | :white_check_mark: | |Cloudflare HTTP/3 MySQL PHP:8.0.30 WordPress|Knooppuntjoure.n...|
+|[https://knooppuntjoure.nl](https://knooppuntjoure.nl)| | **25**|cloudflare| | | | | | | | :white_check_mark: | |Cloudflare HTTP/3||

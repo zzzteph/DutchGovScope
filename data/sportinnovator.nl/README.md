@@ -5,8 +5,11 @@ permalink: /dutchgov/sportinnovator.nl.html
 
 
 # sportinnovator.nl
-*2024-01-11 16:13:43*
 ## Summary data
+
+
+**SSL Grade**:0
+**HTTP Security Grade**:73.333333333333
 
 
 | File       | Count | Info |
@@ -19,8 +22,8 @@ permalink: /dutchgov/sportinnovator.nl.html
 ## Statistics
 
 
-| Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
-|------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://challenges.sportinnovator.nl](https://challenges.sportinnovator.nl)| |Kestrel|:warning: |:white_check_mark: | | :white_check_mark: | | :white_check_mark: |HSTS Kestrel Microsoft ASP.NET|Innovatie Challe...|
-|[https://sportinnovator.nl](https://sportinnovator.nl)| |Apache|:white_check_mark: |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |Apache HTTP Server HSTS|301 Moved Perman...|
-|[https://www.sportinnovator.nl](https://www.sportinnovator.nl)| |Apache|:white_check_mark: |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |Apache HTTP Server Craft CMS HSTS Yii|SportInnovator|
+| Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
+|--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
+|[https://challenges.sportinnovator.nl](https://challenges.sportinnovator.nl)| | **62**|Kestrel|:warning: |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS Kestrel Microsoft ASP.NET|Innovatie Challe...|
+|[https://sportinnovator.nl](https://sportinnovator.nl)| | **79**|Apache|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS|301 Moved Perman...|
+|[https://www.sportinnovator.nl](https://www.sportinnovator.nl)| | **79**|Apache|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server Craft CMS HSTS Yii|SportInnovator|

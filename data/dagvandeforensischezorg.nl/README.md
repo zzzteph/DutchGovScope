@@ -5,8 +5,11 @@ permalink: /dutchgov/dagvandeforensischezorg.nl.html
 
 
 # dagvandeforensischezorg.nl
-*2024-01-11 16:13:45*
 ## Summary data
+
+
+**SSL Grade**:0
+**HTTP Security Grade**:86.5
 
 
 | File       | Count | Info |
@@ -19,9 +22,9 @@ permalink: /dutchgov/dagvandeforensischezorg.nl.html
 ## Statistics
 
 
-| Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
-|------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://app.dagvandeforensischezorg.nl](https://app.dagvandeforensischezorg.nl)| |Apache/2|:white_check_mark: |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Apache HTTP Server:2 Bootstrap HSTS|Spitz App|
-|[https://www.dagvandeforensischezorg.nl](https://www.dagvandeforensischezorg.nl)| |Apache/2|:white_check_mark: |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Apache HTTP Server:2 Bootstrap HSTS|Home - Dag van d...|
-|[https://www.app.dagvandeforensischezorg.nl](https://www.app.dagvandeforensischezorg.nl)| |Apache/2|:white_check_mark: |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Apache HTTP Server:2 Bootstrap HSTS|Home - Dag van d...|
-|[https://dagvandeforensischezorg.nl](https://dagvandeforensischezorg.nl)| |Apache/2|:white_check_mark: |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Apache HTTP Server:2 HSTS|301 Moved Perman...|
+| Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
+|--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
+|[https://app.dagvandeforensischezorg.nl](https://app.dagvandeforensischezorg.nl)| | **79**|Apache/2|:white_check_mark: |:white_check_mark: | :warning:| |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server:2 Bootstrap HSTS|Spitz App|
+|[https://www.dagvandeforensischezorg.nl](https://www.dagvandeforensischezorg.nl)| | **89**|Apache/2|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server:2 Bootstrap HSTS|Home - Dag van d...|
+|[https://www.app.dagvandeforensischezorg.nl](https://www.app.dagvandeforensischezorg.nl)| | **89**|Apache/2|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server:2 Bootstrap HSTS|Home - Dag van d...|
+|[https://dagvandeforensischezorg.nl](https://dagvandeforensischezorg.nl)| | **89**|Apache/2|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server:2 HSTS|301 Moved Perman...|

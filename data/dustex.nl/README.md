@@ -5,8 +5,11 @@ permalink: /dutchgov/dustex.nl.html
 
 
 # dustex.nl
-*2024-01-11 16:13:40*
 ## Summary data
+
+
+**SSL Grade**:0
+**HTTP Security Grade**:62
 
 
 | File       | Count | Info |
@@ -19,7 +22,7 @@ permalink: /dutchgov/dustex.nl.html
 ## Statistics
 
 
-| Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
-|------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://www.dustex.nl](https://www.dustex.nl)| |Microsoft-IIS/10.0|:warning: |:white_check_mark: | | :white_check_mark: | | :white_check_mark: |HSTS IIS:10.0 Microsoft ASP.NET:4.0.30319 Windows Server|DustEx|
-|[https://dustex.nl](https://dustex.nl)| |Microsoft-IIS/10.0|:warning: |:white_check_mark: | | :white_check_mark: | | :white_check_mark: |HSTS IIS:10.0 Microsoft ASP.NET Windows Server|DustEx|
+| Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
+|--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
+|[https://www.dustex.nl](https://www.dustex.nl)| | **62**|Microsoft-IIS/10.0|:warning: |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS IIS:10.0 Microsoft ASP.NET:4.0.30319 Windows Server|DustEx|
+|[https://dustex.nl](https://dustex.nl)| | **62**|Microsoft-IIS/10.0|:warning: |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS IIS:10.0 Microsoft ASP.NET Windows Server|DustEx|

@@ -5,8 +5,11 @@ permalink: /dutchgov/schakeldagen.nl.html
 
 
 # schakeldagen.nl
-*2024-01-10 22:39:47*
 ## Summary data
+
+
+**SSL Grade**:0
+**HTTP Security Grade**:85
 
 
 | File       | Count | Info |
@@ -19,7 +22,7 @@ permalink: /dutchgov/schakeldagen.nl.html
 ## Statistics
 
 
-| Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
-|------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://www.schakeldagen.nl](https://www.schakeldagen.nl)| || |:white_check_mark: | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Microsoft ASP.NET:-|Object moved|
-|[https://schakeldagen.nl](https://schakeldagen.nl)| || |:white_check_mark: | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Microsoft ASP.NET:-|Object moved|
+| Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
+|--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
+|[https://www.schakeldagen.nl](https://www.schakeldagen.nl)| | **85**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:-|Object moved|
+|[https://schakeldagen.nl](https://schakeldagen.nl)| | **85**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:-|Object moved|

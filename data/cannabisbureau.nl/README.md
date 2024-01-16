@@ -5,8 +5,11 @@ permalink: /dutchgov/cannabisbureau.nl.html
 
 
 # cannabisbureau.nl
-*2024-01-10 20:57:10*
 ## Summary data
+
+
+**SSL Grade**:100
+**HTTP Security Grade**:69.285714285714
 
 
 | File       | Count | Info |
@@ -19,12 +22,12 @@ permalink: /dutchgov/cannabisbureau.nl.html
 ## Statistics
 
 
-| Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
-|------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://english.cannabisbureau.nl](https://english.cannabisbureau.nl)| $${\color{green}A+}$$ |nginx| |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Bloomreach HSTS Nginx|Office of Medici...|
-|[https://feeds.cannabisbureau.nl](https://feeds.cannabisbureau.nl)| $${\color{green}A+}$$ |nginx| |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx||
-|[https://feeds.english.cannabisbureau.nl](https://feeds.english.cannabisbureau.nl)| $${\color{green}A+}$$ |nginx| |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx||
-|[https://opendata.cannabisbureau.nl](https://opendata.cannabisbureau.nl)| $${\color{green}A+}$$ |nginx| |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx||
-|[https://opendata.english.cannabisbureau.nl](https://opendata.english.cannabisbureau.nl)| |nginx| |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx||
-|[https://www.cannabisbureau.nl](https://www.cannabisbureau.nl)| $${\color{green}A+}$$ |nginx| |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Bloomreach HSTS Nginx|Bureau Medicinal...|
-|[https://cannabisbureau.nl](https://cannabisbureau.nl)| $${\color{green}A+}$$ |nginx| |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx|301 Moved Perman...|
+| Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
+|--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
+|[https://english.cannabisbureau.nl](https://english.cannabisbureau.nl)| **A+**| **75**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Office of Medici...|
+|[https://feeds.cannabisbureau.nl](https://feeds.cannabisbureau.nl)| **A+**| **65**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
+|[https://feeds.english.cannabisbureau.nl](https://feeds.english.cannabisbureau.nl)| **A+**| **65**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
+|[https://opendata.cannabisbureau.nl](https://opendata.cannabisbureau.nl)| **A+**| **65**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
+|[https://opendata.english.cannabisbureau.nl](https://opendata.english.cannabisbureau.nl)| | **65**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
+|[https://www.cannabisbureau.nl](https://www.cannabisbureau.nl)| **A+**| **75**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Bureau Medicinal...|
+|[https://cannabisbureau.nl](https://cannabisbureau.nl)| **A+**| **75**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|

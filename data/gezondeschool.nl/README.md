@@ -5,8 +5,11 @@ permalink: /dutchgov/gezondeschool.nl.html
 
 
 # gezondeschool.nl
-*2024-01-11 16:13:36*
 ## Summary data
+
+
+**SSL Grade**:0
+**HTTP Security Grade**:57.5
 
 
 | File       | Count | Info |
@@ -19,9 +22,9 @@ permalink: /dutchgov/gezondeschool.nl.html
 ## Statistics
 
 
-| Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
-|------------|-------|------|------|------|------|------|------|------|------|------|
-|[http://sub.gezondeschool.nl](http://sub.gezondeschool.nl)| || |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |||
-|[http://test.gezondeschool.nl](http://test.gezondeschool.nl)| || | | | | | :white_check_mark: |||
-|[https://www.gezondeschool.nl](https://www.gezondeschool.nl)| |Apache| |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |Apache HTTP Server Drupal HSTS PHP|Gezonde School |...|
-|[https://gezondeschool.nl](https://gezondeschool.nl)| |Apache| |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |Apache HTTP Server HSTS|301 Moved Perman...|
+| Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
+|--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
+|[http://sub.gezondeschool.nl](http://sub.gezondeschool.nl)| | **70**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |||
+|[http://test.gezondeschool.nl](http://test.gezondeschool.nl)| | **30**|| | | | | | | | :white_check_mark: | |||
+|[https://www.gezondeschool.nl](https://www.gezondeschool.nl)| | **65**|Apache| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server Drupal HSTS PHP|Gezonde School |...|
+|[https://gezondeschool.nl](https://gezondeschool.nl)| | **65**|Apache| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS|301 Moved Perman...|

@@ -1,0 +1,17 @@
+insite.nfi.nl
+training.nfi.nl
+oshift-testmijn.nfi.nl
+mijn.nfi.nl
+www.nfi.nl
+ontwikkelpunt.nfi.nl
+testmijn.nfi.nl
+nfi.nl
+library.nfi.nl
+jep.nfi.nl
+anyconnect.nfi.nl
+hybrid.nfi.nl
+rds01.hansken.nfi.nl
+mailtestmijn.nfi.nl
+edofa.nfi.nl
+autodiscover.nfi.nl
+mail.nfi.nl

@@ -5,8 +5,11 @@ permalink: /dutchgov/aandeslagmetdeomgevingswet.nl.html
 
 
 # aandeslagmetdeomgevingswet.nl
-*2024-01-10 22:41:22*
 ## Summary data
+
+
+**SSL Grade**:0
+**HTTP Security Grade**:78.75
 
 
 | File       | Count | Info |
@@ -19,9 +22,9 @@ permalink: /dutchgov/aandeslagmetdeomgevingswet.nl.html
 ## Statistics
 
 
-| Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
-|------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://chw.aandeslagmetdeomgevingswet.nl](https://chw.aandeslagmetdeomgevingswet.nl)| |-| |:white_check_mark: | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: |Google Tag Manager HSTS Microsoft ASP.NET:-|Home | Crisis- e...|
-|[https://magazines.aandeslagmetdeomgevingswet.nl](https://magazines.aandeslagmetdeomgevingswet.nl)| |nginx| |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx||
-|[https://www.aandeslagmetdeomgevingswet.nl](https://www.aandeslagmetdeomgevingswet.nl)| |-| |:white_check_mark: | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Microsoft ASP.NET:-|Object moved|
-|[https://aandeslagmetdeomgevingswet.nl](https://aandeslagmetdeomgevingswet.nl)| |-| |:white_check_mark: | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: |Google Tag Manager HSTS Microsoft ASP.NET:-|Home | Aan de sl...|
+| Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
+|--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
+|[https://chw.aandeslagmetdeomgevingswet.nl](https://chw.aandeslagmetdeomgevingswet.nl)| | **80**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Google Tag Manager HSTS Microsoft ASP.NET:-|Home | Crisis- e...|
+|[https://magazines.aandeslagmetdeomgevingswet.nl](https://magazines.aandeslagmetdeomgevingswet.nl)| | **75**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
+|[https://www.aandeslagmetdeomgevingswet.nl](https://www.aandeslagmetdeomgevingswet.nl)| | **80**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:-|Object moved|
+|[https://aandeslagmetdeomgevingswet.nl](https://aandeslagmetdeomgevingswet.nl)| | **80**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Google Tag Manager HSTS Microsoft ASP.NET:-|Home | Aan de sl...|

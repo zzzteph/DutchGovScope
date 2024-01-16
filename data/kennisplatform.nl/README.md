@@ -5,8 +5,11 @@ permalink: /dutchgov/kennisplatform.nl.html
 
 
 # kennisplatform.nl
-*2024-01-11 16:13:44*
 ## Summary data
+
+
+**SSL Grade**:0
+**HTTP Security Grade**:62
 
 
 | File       | Count | Info |
@@ -19,7 +22,7 @@ permalink: /dutchgov/kennisplatform.nl.html
 ## Statistics
 
 
-| Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
-|------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://www.kennisplatform.nl](https://www.kennisplatform.nl)| |Apache/2|:white_check_mark: |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |Apache HTTP Server:2 CodeIgniter Google Tag Manager HSTS PHP Slick jQuery|Voor al uw vrage...|
-|[https://kennisplatform.nl](https://kennisplatform.nl)| |Apache/2| |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |Apache HTTP Server:2 CodeIgniter HSTS PHP||
+| Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
+|--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
+|[https://www.kennisplatform.nl](https://www.kennisplatform.nl)| | **69**|Apache/2|:white_check_mark: |:white_check_mark: | :warning:| | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server:2 CodeIgniter Google Tag Manager HSTS PHP Slick jQuery|Voor al uw vrage...|
+|[https://kennisplatform.nl](https://kennisplatform.nl)| | **55**|Apache/2| |:white_check_mark: | :warning:| | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server:2 CodeIgniter HSTS PHP||

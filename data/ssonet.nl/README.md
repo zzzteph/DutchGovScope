@@ -5,8 +5,11 @@ permalink: /dutchgov/ssonet.nl.html
 
 
 # ssonet.nl
-*2024-01-11 06:33:55*
 ## Summary data
+
+
+**SSL Grade**:0
+**HTTP Security Grade**:51.25
 
 
 | File       | Count | Info |
@@ -19,9 +22,9 @@ permalink: /dutchgov/ssonet.nl.html
 ## Statistics
 
 
-| Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
-|------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://ssonet.nl](https://ssonet.nl)| |Microsoft-IIS/10.0| |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS IIS:10.0 Windows Server|Document Moved|
-|[https://www.ssonet.nl](https://www.ssonet.nl)| |Microsoft-IIS/10.0| |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS IIS:10.0 Windows Server|Document Moved|
-|[http://exchange.ssonet.nl](http://exchange.ssonet.nl)| |BigIP| | | | | | :white_check_mark: |F5 BigIP||
-|[https://storingsdienst.rgd.ssonet.nl](https://storingsdienst.rgd.ssonet.nl)| || | | | | | :white_check_mark: |||
+| Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
+|--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
+|[https://ssonet.nl](https://ssonet.nl)| | **75**|Microsoft-IIS/10.0| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS IIS:10.0 Windows Server|Document Moved|
+|[https://www.ssonet.nl](https://www.ssonet.nl)| | **75**|Microsoft-IIS/10.0| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS IIS:10.0 Windows Server|Document Moved|
+|[http://exchange.ssonet.nl](http://exchange.ssonet.nl)| | **25**|BigIP| | | | | | | | :white_check_mark: | |F5 BigIP||
+|[https://storingsdienst.rgd.ssonet.nl](https://storingsdienst.rgd.ssonet.nl)| | **30**|| | | | | | | | :white_check_mark: | |||

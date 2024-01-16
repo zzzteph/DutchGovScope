@@ -5,8 +5,11 @@ permalink: /dutchgov/vzinfo.nl.html
 
 
 # vzinfo.nl
-*2024-01-10 20:57:25*
 ## Summary data
+
+
+**SSL Grade**:0
+**HTTP Security Grade**:54.571428571429
 
 
 | File       | Count | Info |
@@ -19,12 +22,12 @@ permalink: /dutchgov/vzinfo.nl.html
 ## Statistics
 
 
-| Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
-|------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://www.vzinfo.nl](https://www.vzinfo.nl)| |Apache| |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |Apache HTTP Server Drupal HSTS PHP|VZinfo | Volksge...|
-|[https://vzinfo.nl](https://vzinfo.nl)| |Apache| |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |Apache HTTP Server HSTS|301 Moved Perman...|
-|[https://buurtatlas.vzinfo.nl](https://buurtatlas.vzinfo.nl)| ||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: |Bootstrap:4.6.0 HSTS React|Home | Buurtatla...|
-|[https://sterftedashboard.vzinfo.nl](https://sterftedashboard.vzinfo.nl)| ||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: |Bootstrap:4.6.0 HSTS||
-|[http://nzrdashboard.vzinfo.nl](http://nzrdashboard.vzinfo.nl)| || | | | | | :white_check_mark: |||
-|[http://sterftedashboard-regionaal.vzinfo.nl](http://sterftedashboard-regionaal.vzinfo.nl)| || | | | | | :white_check_mark: |||
-|[https://mondgezondheidsdashboard.vzinfo.nl](https://mondgezondheidsdashboard.vzinfo.nl)| ||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: |Bootstrap:5.2.2 HSTS||
+| Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
+|--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
+|[https://www.vzinfo.nl](https://www.vzinfo.nl)| | **65**|Apache| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server Drupal HSTS PHP|VZinfo | Volksge...|
+|[https://vzinfo.nl](https://vzinfo.nl)| | **65**|Apache| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS|301 Moved Perman...|
+|[https://buurtatlas.vzinfo.nl](https://buurtatlas.vzinfo.nl)| | **64**||:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | |Bootstrap:4.6.0 HSTS React|Home | Buurtatla...|
+|[https://sterftedashboard.vzinfo.nl](https://sterftedashboard.vzinfo.nl)| | **64**||:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | |Bootstrap:4.6.0 HSTS||
+|[http://nzrdashboard.vzinfo.nl](http://nzrdashboard.vzinfo.nl)| | **30**|| | | | | | | | :white_check_mark: | |||
+|[http://sterftedashboard-regionaal.vzinfo.nl](http://sterftedashboard-regionaal.vzinfo.nl)| | **30**|| | | | | | | | :white_check_mark: | |||
+|[https://mondgezondheidsdashboard.vzinfo.nl](https://mondgezondheidsdashboard.vzinfo.nl)| | **64**||:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | |Bootstrap:5.2.2 HSTS||

@@ -1,0 +1,17 @@
+api.kansspelautoriteit.nl
+api-acc.kansspelautoriteit.nl
+api-proeftuin.kansspelautoriteit.nl
+api-proeftuin-acc.kansspelautoriteit.nl
+autodiscover.kansspelautoriteit.nl
+cruks.kansspelautoriteit.nl
+file.kansspelautoriteit.nl
+formulieren.kansspelautoriteit.nl
+mx.kansspelautoriteit.nl
+portal.kansspelautoriteit.nl
+sandbox.kansspelautoriteit.nl
+sts.kansspelautoriteit.nl
+vpn.kansspelautoriteit.nl
+webmail.kansspelautoriteit.nl
+www.kansspelautoriteit.nl
+kansspelautoriteit.nl
+send.kansspelautoriteit.nl

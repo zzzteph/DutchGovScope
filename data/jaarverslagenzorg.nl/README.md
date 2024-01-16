@@ -5,19 +5,24 @@ permalink: /dutchgov/jaarverslagenzorg.nl.html
 
 
 # jaarverslagenzorg.nl
-*2024-01-14 05:44:28*
 ## Summary data
+
+
+**SSL Grade**:0
+**HTTP Security Grade**:75
 
 
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/jaarverslagenzorg.nl/subdomains.txt)|2|Alive subdomains|
-|[urls.txt](/data/jaarverslagenzorg.nl/urls.txt)|0|Urls|
+|[urls.txt](/data/jaarverslagenzorg.nl/urls.txt)|2|Urls|
 |[all_subdomains.txt](/data/jaarverslagenzorg.nl/all_subdomains.txt)|2|All found subdomains (history)|
 
 
 ## Statistics
 
 
-| Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
-|------------|-------|------|------|------|------|------|------|------|------|------|
+| Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
+|--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
+|[https://www.jaarverslagenzorg.nl](https://www.jaarverslagenzorg.nl)| | **75**|Microsoft-IIS/10.0| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS IIS:10.0 Windows Server|Document Moved|
+|[https://jaarverslagenzorg.nl](https://jaarverslagenzorg.nl)| | **75**|Microsoft-IIS/10.0| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS IIS:10.0 Windows Server|Document Moved|

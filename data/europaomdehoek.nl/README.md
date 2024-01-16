@@ -5,8 +5,11 @@ permalink: /dutchgov/europaomdehoek.nl.html
 
 
 # europaomdehoek.nl
-*2024-01-14 03:51:07*
 ## Summary data
+
+
+**SSL Grade**:100
+**HTTP Security Grade**:70.4
 
 
 | File       | Count | Info |
@@ -19,10 +22,10 @@ permalink: /dutchgov/europaomdehoek.nl.html
 ## Statistics
 
 
-| Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
-|------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://www.europaomdehoek.nl](https://www.europaomdehoek.nl)| $${\color{green}A+}$$ |nginx| |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Bloomreach HSTS Nginx|Home | Europa om...|
-|[https://europaomdehoek.nl](https://europaomdehoek.nl)| $${\color{green}A+}$$ |nginx| |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx|301 Moved Perman...|
-|[https://20072020.europaomdehoek.nl](https://20072020.europaomdehoek.nl)| $${\color{green}A+}$$ |LinQhost HPW|:warning: |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |Google Tag Manager HSTS PHP|Europa om de hoe...|
-|[https://feeds.europaomdehoek.nl](https://feeds.europaomdehoek.nl)| $${\color{green}A+}$$ |nginx| |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx||
-|[https://opendata.europaomdehoek.nl](https://opendata.europaomdehoek.nl)| $${\color{green}A+}$$ |nginx| |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx||
+| Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
+|--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
+|[https://www.europaomdehoek.nl](https://www.europaomdehoek.nl)| **A+**| **75**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Home | Europa om...|
+|[https://europaomdehoek.nl](https://europaomdehoek.nl)| **A+**| **75**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
+|[https://20072020.europaomdehoek.nl](https://20072020.europaomdehoek.nl)| **A+**| **72**|LinQhost HPW|:warning: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Google Tag Manager HSTS PHP|Europa om de hoe...|
+|[https://feeds.europaomdehoek.nl](https://feeds.europaomdehoek.nl)| **A+**| **65**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
+|[https://opendata.europaomdehoek.nl](https://opendata.europaomdehoek.nl)| **A+**| **65**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||

@@ -5,8 +5,11 @@ permalink: /dutchgov/justitie.nl.html
 
 
 # justitie.nl
-*2024-01-14 05:59:24*
 ## Summary data
+
+
+**SSL Grade**:0
+**HTTP Security Grade**:50
 
 
 | File       | Count | Info |
@@ -19,10 +22,10 @@ permalink: /dutchgov/justitie.nl.html
 ## Statistics
 
 
-| Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
-|------------|-------|------|------|------|------|------|------|------|------|------|
-|[http://dienstenportaal.justitie.nl](http://dienstenportaal.justitie.nl)| || | | | | | :white_check_mark: |||
-|[http://english.justitie.nl](http://english.justitie.nl)| || | | | | | :white_check_mark: |||
-|[http://justitiebulletin.justitie.nl](http://justitiebulletin.justitie.nl)| || | | | | | :white_check_mark: |||
-|[https://www.justitie.nl](https://www.justitie.nl)| || |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS||
-|[https://justitie.nl](https://justitie.nl)| || |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS||
+| Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
+|--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
+|[http://dienstenportaal.justitie.nl](http://dienstenportaal.justitie.nl)| | **30**|| | | | | | | | :white_check_mark: | |||
+|[http://english.justitie.nl](http://english.justitie.nl)| | **30**|| | | | | | | | :white_check_mark: | |||
+|[http://justitiebulletin.justitie.nl](http://justitiebulletin.justitie.nl)| | **30**|| | | | | | | | :white_check_mark: | |||
+|[https://www.justitie.nl](https://www.justitie.nl)| | **80**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
+|[https://justitie.nl](https://justitie.nl)| | **80**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||

@@ -5,8 +5,11 @@ permalink: /dutchgov/iuc-noord.nl.html
 
 
 # iuc-noord.nl
-*2024-01-11 14:53:01*
 ## Summary data
+
+
+**SSL Grade**:0
+**HTTP Security Grade**:52.5
 
 
 | File       | Count | Info |
@@ -19,7 +22,7 @@ permalink: /dutchgov/iuc-noord.nl.html
 ## Statistics
 
 
-| Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
-|------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://www.iuc-noord.nl](https://www.iuc-noord.nl)| || |:white_check_mark: | | :white_check_mark: | | :white_check_mark: |Bootstrap HSTS YouTube|Home|
-|[https://iuc-noord.nl](https://iuc-noord.nl)| |Apache| |:white_check_mark: | | | | :white_check_mark: |Apache HTTP Server HSTS|403 Forbidden|
+| Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
+|--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
+|[https://www.iuc-noord.nl](https://www.iuc-noord.nl)| | **60**|| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Bootstrap HSTS YouTube|Home|
+|[https://iuc-noord.nl](https://iuc-noord.nl)| | **45**|Apache| |:white_check_mark: | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|403 Forbidden|

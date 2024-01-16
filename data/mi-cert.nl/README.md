@@ -5,8 +5,11 @@ permalink: /dutchgov/mi-cert.nl.html
 
 
 # mi-cert.nl
-*2024-01-11 16:13:40*
 ## Summary data
+
+
+**SSL Grade**:0
+**HTTP Security Grade**:25
 
 
 | File       | Count | Info |
@@ -19,8 +22,8 @@ permalink: /dutchgov/mi-cert.nl.html
 ## Statistics
 
 
-| Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
-|------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://test.mi-cert.nl](https://test.mi-cert.nl)| |nginx| | | | | | :white_check_mark: |Basic Nginx|401 Authorizatio...|
-|[https://www.mi-cert.nl](https://www.mi-cert.nl)| |Apache| | | | | | :white_check_mark: |Apache HTTP Server Bootstrap HSTS Joomla PHP|Home | MI-Cert.n...|
-|[https://mi-cert.nl](https://mi-cert.nl)| |Apache| | | | | | :white_check_mark: |Apache HTTP Server Bootstrap HSTS Joomla PHP|Home | MI-Cert.n...|
+| Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
+|--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
+|[https://test.mi-cert.nl](https://test.mi-cert.nl)| | **25**|nginx| | | | | | | | :white_check_mark: | |Basic Nginx|401 Authorizatio...|
+|[https://www.mi-cert.nl](https://www.mi-cert.nl)| | **25**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server Bootstrap HSTS Joomla PHP|Home | MI-Cert.n...|
+|[https://mi-cert.nl](https://mi-cert.nl)| | **25**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server Bootstrap HSTS Joomla PHP|Home | MI-Cert.n...|

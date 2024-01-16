@@ -5,8 +5,11 @@ permalink: /dutchgov/nponderwijs.nl.html
 
 
 # nponderwijs.nl
-*2024-01-10 20:57:19*
 ## Summary data
+
+
+**SSL Grade**:0
+**HTTP Security Grade**:65
 
 
 | File       | Count | Info |
@@ -19,10 +22,10 @@ permalink: /dutchgov/nponderwijs.nl.html
 ## Statistics
 
 
-| Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
-|------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://feeds.nponderwijs.nl](https://feeds.nponderwijs.nl)| |nginx| |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx||
-|[https://kennis.nponderwijs.nl](https://kennis.nponderwijs.nl)| |Apache/2| |:white_check_mark: | | | | :white_check_mark: |Apache HTTP Server:2 HSTS||
-|[https://opendata.nponderwijs.nl](https://opendata.nponderwijs.nl)| |nginx| |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx||
-|[https://www.nponderwijs.nl](https://www.nponderwijs.nl)| |nginx| |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Bloomreach HSTS Nginx|Home | Nationaal...|
-|[https://nponderwijs.nl](https://nponderwijs.nl)| |nginx| |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx|301 Moved Perman...|
+| Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
+|--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
+|[https://feeds.nponderwijs.nl](https://feeds.nponderwijs.nl)| | **65**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
+|[https://kennis.nponderwijs.nl](https://kennis.nponderwijs.nl)| | **45**|Apache/2| |:white_check_mark: | | | | | | :white_check_mark: | |Apache HTTP Server:2 HSTS||
+|[https://opendata.nponderwijs.nl](https://opendata.nponderwijs.nl)| | **65**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
+|[https://www.nponderwijs.nl](https://www.nponderwijs.nl)| | **75**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Home | Nationaal...|
+|[https://nponderwijs.nl](https://nponderwijs.nl)| | **75**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|

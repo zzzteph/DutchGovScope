@@ -5,8 +5,11 @@ permalink: /dutchgov/opwegmetwaterstof.nl.html
 
 
 # opwegmetwaterstof.nl
-*2024-01-11 16:13:41*
 ## Summary data
+
+
+**SSL Grade**:0
+**HTTP Security Grade**:25
 
 
 | File       | Count | Info |
@@ -19,7 +22,7 @@ permalink: /dutchgov/opwegmetwaterstof.nl.html
 ## Statistics
 
 
-| Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
-|------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://www.opwegmetwaterstof.nl](https://www.opwegmetwaterstof.nl)| |Apache/2| | | | | | :white_check_mark: |Apache HTTP Server:2 PHP:7.4.33||
-|[https://opwegmetwaterstof.nl](https://opwegmetwaterstof.nl)| |Apache/2| | | | | | :white_check_mark: |Apache HTTP Server:2 Google Tag Manager MySQL PHP:7.4.33 WordPress||
+| Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
+|--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
+|[https://www.opwegmetwaterstof.nl](https://www.opwegmetwaterstof.nl)| | **25**|Apache/2| | | | | | | | :white_check_mark: | |Apache HTTP Server:2 PHP:7.4.33||
+|[https://opwegmetwaterstof.nl](https://opwegmetwaterstof.nl)| | **25**|Apache/2| | | | | | | | :white_check_mark: | |Apache HTTP Server:2 Google Tag Manager MySQL PHP:7.4.33 WordPress||

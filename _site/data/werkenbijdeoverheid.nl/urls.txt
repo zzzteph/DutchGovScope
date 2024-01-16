@@ -1,0 +1,15 @@
+https://csoacct.werkenbijdeoverheid.nl
+http://csoacct.vacaturebeheer.werkenbijdeoverheid.nl
+https://csotest.werkenbijdeoverheid.nl
+http://csotest.vacaturebeheer.werkenbijdeoverheid.nl
+http://helpdesk.werkenbijdeoverheid.nl
+https://odc.werkenbijdeoverheid.nl
+http://organisatiebeheer.werkenbijdeoverheid.nl
+https://vacaturezoekservice.werkenbijdeoverheid.nl
+https://vacaturezoekservice-accept.werkenbijdeoverheid.nl
+http://vacaturezoekservice-test.werkenbijdeoverheid.nl
+https://www.werkenbijdeoverheid.nl
+https://www-acceptatie2.werkenbijdeoverheid.nl
+https://www-sandbox.werkenbijdeoverheid.nl
+http://www-test2.werkenbijdeoverheid.nl
+https://werkenbijdeoverheid.nl

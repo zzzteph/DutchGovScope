@@ -5,8 +5,11 @@ permalink: /dutchgov/wabes.nl.html
 
 
 # wabes.nl
-*2024-01-11 16:13:40*
 ## Summary data
+
+
+**SSL Grade**:0
+**HTTP Security Grade**:30
 
 
 | File       | Count | Info |
@@ -19,6 +22,6 @@ permalink: /dutchgov/wabes.nl.html
 ## Statistics
 
 
-| Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
-|------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://wabes.nl](https://wabes.nl)| || | | | | | :white_check_mark: |Next.js Node.js React Webpack|Wabes|
+| Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
+|--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
+|[https://wabes.nl](https://wabes.nl)| | **30**|| | | | | | | | :white_check_mark: | |Next.js Node.js React Webpack|Wabes|

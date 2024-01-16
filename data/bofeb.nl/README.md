@@ -5,8 +5,11 @@ permalink: /dutchgov/bofeb.nl.html
 
 
 # bofeb.nl
-*2024-01-11 16:13:43*
 ## Summary data
+
+
+**SSL Grade**:0
+**HTTP Security Grade**:25
 
 
 | File       | Count | Info |
@@ -19,6 +22,6 @@ permalink: /dutchgov/bofeb.nl.html
 ## Statistics
 
 
-| Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
-|------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://mijn.bofeb.nl](https://mijn.bofeb.nl)| |nginx| | | | | | :white_check_mark: |HSTS Nginx|301 Moved Perman...|
+| Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
+|--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
+|[https://mijn.bofeb.nl](https://mijn.bofeb.nl)| | **25**|nginx| | | | | | | | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|

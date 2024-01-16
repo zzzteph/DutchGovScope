@@ -5,8 +5,11 @@ permalink: /dutchgov/openkat.nl.html
 
 
 # openkat.nl
-*2024-01-11 16:13:45*
 ## Summary data
+
+
+**SSL Grade**:0
+**HTTP Security Grade**:58.333333333333
 
 
 | File       | Count | Info |
@@ -19,8 +22,8 @@ permalink: /dutchgov/openkat.nl.html
 ## Statistics
 
 
-| Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
-|------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://docs.openkat.nl](https://docs.openkat.nl)| |GitHub.com| |:white_check_mark: | | | | :white_check_mark: |Fastly GitHub Pages HSTS Varnish|Welcome to the O...|
-|[https://www.openkat.nl](https://www.openkat.nl)| |Apache| |:white_check_mark: | :white_check_mark:| :white_check_mark: | | :white_check_mark: |Apache HTTP Server HSTS|301 Moved Perman...|
-|[https://openkat.nl](https://openkat.nl)| |Apache| |:white_check_mark: | :white_check_mark:| :white_check_mark: | | :white_check_mark: |Apache HTTP Server HSTS|OpenKat Kwetsbaa...|
+| Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
+|--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
+|[https://docs.openkat.nl](https://docs.openkat.nl)| | **35**|GitHub.com| |:white_check_mark: | :warning:| | | | | :white_check_mark: | |Fastly GitHub Pages HSTS Varnish|Welcome to the O...|
+|[https://www.openkat.nl](https://www.openkat.nl)| | **70**|Apache| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS|301 Moved Perman...|
+|[https://openkat.nl](https://openkat.nl)| | **70**|Apache| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS|OpenKat Kwetsbaa...|

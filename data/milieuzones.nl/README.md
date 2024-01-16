@@ -5,8 +5,11 @@ permalink: /dutchgov/milieuzones.nl.html
 
 
 # milieuzones.nl
-*2024-01-11 16:13:36*
 ## Summary data
+
+
+**SSL Grade**:0
+**HTTP Security Grade**:52.5
 
 
 | File       | Count | Info |
@@ -19,9 +22,9 @@ permalink: /dutchgov/milieuzones.nl.html
 ## Statistics
 
 
-| Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
-|------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://acc.milieuzones.nl](https://acc.milieuzones.nl)| |nginx| | | | | | :white_check_mark: |Basic Nginx|401 Authorizatio...|
-|[https://test.milieuzones.nl](https://test.milieuzones.nl)| |nginx| | | | | | :white_check_mark: |Basic Nginx|401 Authorizatio...|
-|[https://www.milieuzones.nl](https://www.milieuzones.nl)| |nginx| |:white_check_mark: | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: |Drupal:10 HSTS Nginx PHP|Milieuzones in N...|
-|[https://milieuzones.nl](https://milieuzones.nl)| |nginx| |:white_check_mark: | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx|301 Moved Perman...|
+| Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
+|--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
+|[https://acc.milieuzones.nl](https://acc.milieuzones.nl)| | **25**|nginx| | | | | | | | :white_check_mark: | |Basic Nginx|401 Authorizatio...|
+|[https://test.milieuzones.nl](https://test.milieuzones.nl)| | **25**|nginx| | | | | | | | :white_check_mark: | |Basic Nginx|401 Authorizatio...|
+|[https://www.milieuzones.nl](https://www.milieuzones.nl)| | **80**|nginx| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Drupal:10 HSTS Nginx PHP|Milieuzones in N...|
+|[https://milieuzones.nl](https://milieuzones.nl)| | **80**|nginx| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|

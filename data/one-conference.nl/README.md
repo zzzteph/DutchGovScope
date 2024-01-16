@@ -5,8 +5,11 @@ permalink: /dutchgov/one-conference.nl.html
 
 
 # one-conference.nl
-*2024-01-11 16:13:42*
 ## Summary data
+
+
+**SSL Grade**:0
+**HTTP Security Grade**:49.583333333333
 
 
 | File       | Count | Info |
@@ -19,17 +22,17 @@ permalink: /dutchgov/one-conference.nl.html
 ## Statistics
 
 
-| Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
-|------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://acc.one-conference.nl](https://acc.one-conference.nl)| |Apache| | | | | | :white_check_mark: |Apache HTTP Server HSTS||
-|[https://emagazine.one-conference.nl](https://emagazine.one-conference.nl)| |Apache| |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Apache HTTP Server Bootstrap HSTS|One Magazine|
-|[https://new.one-conference.nl](https://new.one-conference.nl)| |Apache| |:white_check_mark: | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: |Apache HTTP Server HSTS||
-|[https://registration.one-conference.nl](https://registration.one-conference.nl)| |nginx| |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx Plesk||
-|[https://stats.one-conference.nl](https://stats.one-conference.nl)| |Apache| | | | | | :white_check_mark: |Apache HTTP Server HSTS||
-|[https://www.one-conference.nl](https://www.one-conference.nl)| |Apache| |:white_check_mark: | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: |Apache HTTP Server HSTS||
-|[https://www.acc.one-conference.nl](https://www.acc.one-conference.nl)| |Apache| | | | | | :white_check_mark: |Apache HTTP Server HSTS||
-|[https://www.new.one-conference.nl](https://www.new.one-conference.nl)| |Apache| | | | | | :white_check_mark: |Apache HTTP Server HSTS|301 Moved Perman...|
-|[https://www.registration.one-conference.nl](https://www.registration.one-conference.nl)| |nginx| |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx Plesk||
-|[https://www.stats.one-conference.nl](https://www.stats.one-conference.nl)| |Apache| | | | | | :white_check_mark: |Apache HTTP Server HSTS||
-|[https://one-conference.nl](https://one-conference.nl)| |Apache| |:white_check_mark: | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: |Apache HTTP Server HSTS MySQL PHP WordPress Yoast SEO:21.0|Home - One Confe...|
-|[https://wcag-2.1-inspectie-www.one-conference.nl](https://wcag-2.1-inspectie-www.one-conference.nl)| |Apache| | | | | | :white_check_mark: |Apache HTTP Server HSTS||
+| Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
+|--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
+|[https://acc.one-conference.nl](https://acc.one-conference.nl)| | **25**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS||
+|[https://emagazine.one-conference.nl](https://emagazine.one-conference.nl)| | **75**|Apache| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server Bootstrap HSTS|One Magazine|
+|[https://new.one-conference.nl](https://new.one-conference.nl)| | **80**|Apache| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS||
+|[https://registration.one-conference.nl](https://registration.one-conference.nl)| | **65**|nginx| |:white_check_mark: | :warning:| |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx Plesk||
+|[https://stats.one-conference.nl](https://stats.one-conference.nl)| | **25**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS||
+|[https://www.one-conference.nl](https://www.one-conference.nl)| | **80**|Apache| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS||
+|[https://www.acc.one-conference.nl](https://www.acc.one-conference.nl)| | **25**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS||
+|[https://www.new.one-conference.nl](https://www.new.one-conference.nl)| | **25**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|301 Moved Perman...|
+|[https://www.registration.one-conference.nl](https://www.registration.one-conference.nl)| | **65**|nginx| |:white_check_mark: | :warning:| |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx Plesk||
+|[https://www.stats.one-conference.nl](https://www.stats.one-conference.nl)| | **25**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS||
+|[https://one-conference.nl](https://one-conference.nl)| | **80**|Apache| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS MySQL PHP WordPress Yoast SEO:21.0|Home - One Confe...|
+|[https://wcag-2.1-inspectie-www.one-conference.nl](https://wcag-2.1-inspectie-www.one-conference.nl)| | **25**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS||

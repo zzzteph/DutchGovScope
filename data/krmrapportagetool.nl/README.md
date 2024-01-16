@@ -5,8 +5,11 @@ permalink: /dutchgov/krmrapportagetool.nl.html
 
 
 # krmrapportagetool.nl
-*2024-01-11 16:13:42*
 ## Summary data
+
+
+**SSL Grade**:0
+**HTTP Security Grade**:25
 
 
 | File       | Count | Info |
@@ -19,8 +22,8 @@ permalink: /dutchgov/krmrapportagetool.nl.html
 ## Statistics
 
 
-| Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
-|------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://acc.krmrapportagetool.nl](https://acc.krmrapportagetool.nl)| |Microsoft-IIS/10.0| | | | | | :white_check_mark: |IIS:10.0 Microsoft ASP.NET:4.0.30319 Windows Server||
-|[https://www.krmrapportagetool.nl](https://www.krmrapportagetool.nl)| |Microsoft-IIS/10.0| | | | | | :white_check_mark: |IIS:10.0 Microsoft ASP.NET:4.0.30319 Windows Server||
-|[https://krmrapportagetool.nl](https://krmrapportagetool.nl)| |Microsoft-IIS/10.0| | | | | | :white_check_mark: |IIS:10.0 Microsoft ASP.NET Windows Server||
+| Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
+|--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
+|[https://acc.krmrapportagetool.nl](https://acc.krmrapportagetool.nl)| | **25**|Microsoft-IIS/10.0| | | | | | | | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET:4.0.30319 Windows Server||
+|[https://www.krmrapportagetool.nl](https://www.krmrapportagetool.nl)| | **25**|Microsoft-IIS/10.0| | | | | | | | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET:4.0.30319 Windows Server||
+|[https://krmrapportagetool.nl](https://krmrapportagetool.nl)| | **25**|Microsoft-IIS/10.0| | | | | | | | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server||

@@ -1,0 +1,13 @@
+a-www.covm.nl
+english.covm.nl
+feeds.covm.nl
+feeds.english.covm.nl
+magazines.covm.nl
+magazines.english.covm.nl
+magazinesintern.covm.nl
+magazinesintern.english.covm.nl
+magazynkgazines.english.covm.nl
+opendata.covm.nl
+opendata.english.covm.nl
+www.covm.nl
+covm.nl

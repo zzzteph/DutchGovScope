@@ -5,8 +5,11 @@ permalink: /dutchgov/detopkijktom.nl.html
 
 
 # detopkijktom.nl
-*2024-01-11 02:05:17*
 ## Summary data
+
+
+**SSL Grade**:0
+**HTTP Security Grade**:80
 
 
 | File       | Count | Info |
@@ -19,7 +22,7 @@ permalink: /dutchgov/detopkijktom.nl.html
 ## Statistics
 
 
-| Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
-|------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://detopkijktom.nl](https://detopkijktom.nl)| || |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS||
-|[https://www.detopkijktom.nl](https://www.detopkijktom.nl)| || |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS||
+| Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
+|--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
+|[https://detopkijktom.nl](https://detopkijktom.nl)| | **80**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
+|[https://www.detopkijktom.nl](https://www.detopkijktom.nl)| | **80**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||

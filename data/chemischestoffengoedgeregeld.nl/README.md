@@ -5,8 +5,11 @@ permalink: /dutchgov/chemischestoffengoedgeregeld.nl.html
 
 
 # chemischestoffengoedgeregeld.nl
-*2024-01-11 16:13:37*
 ## Summary data
+
+
+**SSL Grade**:0
+**HTTP Security Grade**:50
 
 
 | File       | Count | Info |
@@ -19,8 +22,8 @@ permalink: /dutchgov/chemischestoffengoedgeregeld.nl.html
 ## Statistics
 
 
-| Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
-|------------|-------|------|------|------|------|------|------|------|------|------|
-|[http://test.chemischestoffengoedgeregeld.nl](http://test.chemischestoffengoedgeregeld.nl)| || | | | | | :white_check_mark: |||
-|[https://www.chemischestoffengoedgeregeld.nl](https://www.chemischestoffengoedgeregeld.nl)| || |:white_check_mark: | | :white_check_mark: | | :white_check_mark: |HSTS Platform.sh|301 Moved Perman...|
-|[https://chemischestoffengoedgeregeld.nl](https://chemischestoffengoedgeregeld.nl)| || |:white_check_mark: | | :white_check_mark: | | :white_check_mark: |Drupal:10 HSTS PHP Platform.sh|Chemische stoffe...|
+| Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
+|--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
+|[http://test.chemischestoffengoedgeregeld.nl](http://test.chemischestoffengoedgeregeld.nl)| | **30**|| | | | | | | | :white_check_mark: | |||
+|[https://www.chemischestoffengoedgeregeld.nl](https://www.chemischestoffengoedgeregeld.nl)| | **60**|| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS Platform.sh|301 Moved Perman...|
+|[https://chemischestoffengoedgeregeld.nl](https://chemischestoffengoedgeregeld.nl)| | **60**|| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Drupal:10 HSTS PHP Platform.sh|Chemische stoffe...|

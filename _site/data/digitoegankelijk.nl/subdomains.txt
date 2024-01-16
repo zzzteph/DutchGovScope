@@ -1,0 +1,9 @@
+acc-dictu.digitoegankelijk.nl
+dashboard.digitoegankelijk.nl
+dashboard-acc.digitoegankelijk.nl
+kennisbank.digitoegankelijk.nl
+prod-dictu.digitoegankelijk.nl
+test-dictu.digitoegankelijk.nl
+www.digitoegankelijk.nl
+digitoegankelijk.nl
+dashboard-keten.digitoegankelijk.nl

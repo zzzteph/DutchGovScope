@@ -5,8 +5,11 @@ permalink: /dutchgov/rijksvaccinatieprogramma.nl.html
 
 
 # rijksvaccinatieprogramma.nl
-*2024-01-10 20:57:22*
 ## Summary data
+
+
+**SSL Grade**:0
+**HTTP Security Grade**:65
 
 
 | File       | Count | Info |
@@ -19,7 +22,7 @@ permalink: /dutchgov/rijksvaccinatieprogramma.nl.html
 ## Statistics
 
 
-| Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
-|------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://www.rijksvaccinatieprogramma.nl](https://www.rijksvaccinatieprogramma.nl)| |Apache| |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |Apache HTTP Server HSTS|301 Moved Perman...|
-|[https://rijksvaccinatieprogramma.nl](https://rijksvaccinatieprogramma.nl)| |Apache| |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |Apache HTTP Server Drupal HSTS PHP|Rijksvaccinatiep...|
+| Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
+|--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
+|[https://www.rijksvaccinatieprogramma.nl](https://www.rijksvaccinatieprogramma.nl)| | **65**|Apache| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS|301 Moved Perman...|
+|[https://rijksvaccinatieprogramma.nl](https://rijksvaccinatieprogramma.nl)| | **65**|Apache| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server Drupal HSTS PHP|Rijksvaccinatiep...|

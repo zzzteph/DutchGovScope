@@ -5,8 +5,11 @@ permalink: /dutchgov/geluidgegevens.nl.html
 
 
 # geluidgegevens.nl
-*2024-01-11 16:13:42*
 ## Summary data
+
+
+**SSL Grade**:0
+**HTTP Security Grade**:70
 
 
 | File       | Count | Info |
@@ -19,8 +22,8 @@ permalink: /dutchgov/geluidgegevens.nl.html
 ## Statistics
 
 
-| Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
-|------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://acc.geluidgegevens.nl](https://acc.geluidgegevens.nl)| || |:white_check_mark: | | | | :white_check_mark: |HSTS|Rijksoverheid |...|
-|[https://geluidgegevens.nl](https://geluidgegevens.nl)| || |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: ||308 Permanent Re...|
-|[https://www.geluidgegevens.nl](https://www.geluidgegevens.nl)| || |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS|Rijksoverheid |...|
+| Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
+|--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
+|[https://acc.geluidgegevens.nl](https://acc.geluidgegevens.nl)| | **50**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|Rijksoverheid |...|
+|[https://geluidgegevens.nl](https://geluidgegevens.nl)| | **80**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | ||308 Permanent Re...|
+|[https://www.geluidgegevens.nl](https://www.geluidgegevens.nl)| | **80**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Rijksoverheid |...|

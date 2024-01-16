@@ -5,8 +5,11 @@ permalink: /dutchgov/samenbeterdoejemee.nl.html
 
 
 # samenbeterdoejemee.nl
-*2024-01-11 16:13:40*
 ## Summary data
+
+
+**SSL Grade**:0
+**HTTP Security Grade**:65
 
 
 | File       | Count | Info |
@@ -19,7 +22,7 @@ permalink: /dutchgov/samenbeterdoejemee.nl.html
 ## Statistics
 
 
-| Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
-|------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://samenbeterdoejemee.nl](https://samenbeterdoejemee.nl)| |nginx| |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx|Fotokader - Same...|
-|[https://www.samenbeterdoejemee.nl](https://www.samenbeterdoejemee.nl)| |nginx| |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |Nginx|301 Moved Perman...|
+| Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
+|--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
+|[https://samenbeterdoejemee.nl](https://samenbeterdoejemee.nl)| | **65**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|Fotokader - Same...|
+|[https://www.samenbeterdoejemee.nl](https://www.samenbeterdoejemee.nl)| | **65**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Nginx|301 Moved Perman...|

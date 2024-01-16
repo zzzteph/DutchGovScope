@@ -5,8 +5,11 @@ permalink: /dutchgov/staatvenz.nl.html
 
 
 # staatvenz.nl
-*2024-01-11 16:13:37*
 ## Summary data
+
+
+**SSL Grade**:0
+**HTTP Security Grade**:43
 
 
 | File       | Count | Info |
@@ -19,10 +22,10 @@ permalink: /dutchgov/staatvenz.nl.html
 ## Statistics
 
 
-| Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
-|------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://acceptatie.staatvenz.nl](https://acceptatie.staatvenz.nl)| |Apache| |:white_check_mark: | | | | :white_check_mark: |Apache HTTP Server HSTS|webserver|
-|[http://test.staatvenz.nl](http://test.staatvenz.nl)| || | | | | | :white_check_mark: |||
-|[https://www.staatvenz.nl](https://www.staatvenz.nl)| |Apache| |:white_check_mark: | | :white_check_mark: | | :white_check_mark: |Apache HTTP Server Drupal HSTS PHP|Home | De Staat...|
-|[http://www.acceptatie.staatvenz.nl](http://www.acceptatie.staatvenz.nl)| || | | | | | :white_check_mark: |||
-|[https://staatvenz.nl](https://staatvenz.nl)| |Apache| |:white_check_mark: | | :white_check_mark: | | :white_check_mark: |Apache HTTP Server HSTS|301 Moved Perman...|
+| Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
+|--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
+|[https://acceptatie.staatvenz.nl](https://acceptatie.staatvenz.nl)| | **45**|Apache| |:white_check_mark: | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|webserver|
+|[http://test.staatvenz.nl](http://test.staatvenz.nl)| | **30**|| | | | | | | | :white_check_mark: | |||
+|[https://www.staatvenz.nl](https://www.staatvenz.nl)| | **55**|Apache| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server Drupal HSTS PHP|Home | De Staat...|
+|[http://www.acceptatie.staatvenz.nl](http://www.acceptatie.staatvenz.nl)| | **30**|| | | | | | | | :white_check_mark: | |||
+|[https://staatvenz.nl](https://staatvenz.nl)| | **55**|Apache| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS|301 Moved Perman...|

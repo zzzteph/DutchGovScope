@@ -5,8 +5,11 @@ permalink: /dutchgov/rijksbegroting.nl.html
 
 
 # rijksbegroting.nl
-*2024-01-11 16:13:41*
 ## Summary data
+
+
+**SSL Grade**:0
+**HTTP Security Grade**:38.333333333333
 
 
 | File       | Count | Info |
@@ -19,11 +22,11 @@ permalink: /dutchgov/rijksbegroting.nl.html
 ## Statistics
 
 
-| Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
-|------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://archief.rijksbegroting.nl](https://archief.rijksbegroting.nl)| |Apache| |:white_check_mark: | | :white_check_mark: | | :white_check_mark: |Apache HTTP Server HSTS|Rijksbegroting.n...|
-|[https://archief-acc.rijksbegroting.nl](https://archief-acc.rijksbegroting.nl)| |Apache| |:white_check_mark: | | :white_check_mark: | | :white_check_mark: |Apache HTTP Server HSTS|Rijksbegroting.n...|
-|[https://extrainfo.rijksbegroting.nl](https://extrainfo.rijksbegroting.nl)| || | | | | | :white_check_mark: |HSTS|302 Found|
-|[https://opendata.rijksbegroting.nl](https://opendata.rijksbegroting.nl)| || | | | | | :white_check_mark: |HSTS|302 Found|
-|[https://www.rijksbegroting.nl](https://www.rijksbegroting.nl)| || | | | | | :white_check_mark: |HSTS|302 Found|
-|[https://rijksbegroting.nl](https://rijksbegroting.nl)| || | | | | | :white_check_mark: |HSTS|302 Found|
+| Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
+|--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
+|[https://archief.rijksbegroting.nl](https://archief.rijksbegroting.nl)| | **55**|Apache| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS|Rijksbegroting.n...|
+|[https://archief-acc.rijksbegroting.nl](https://archief-acc.rijksbegroting.nl)| | **55**|Apache| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS|Rijksbegroting.n...|
+|[https://extrainfo.rijksbegroting.nl](https://extrainfo.rijksbegroting.nl)| | **30**|| | | | | | | | :white_check_mark: | |HSTS|302 Found|
+|[https://opendata.rijksbegroting.nl](https://opendata.rijksbegroting.nl)| | **30**|| | | | | | | | :white_check_mark: | |HSTS|302 Found|
+|[https://www.rijksbegroting.nl](https://www.rijksbegroting.nl)| | **30**|| | | | | | | | :white_check_mark: | |HSTS|302 Found|
+|[https://rijksbegroting.nl](https://rijksbegroting.nl)| | **30**|| | | | | | | | :white_check_mark: | |HSTS|302 Found|

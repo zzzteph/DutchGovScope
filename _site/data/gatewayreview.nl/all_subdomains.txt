@@ -1,0 +1,11 @@
+feeds.gatewayreview.nl
+opendata.gatewayreview.nl
+www.gatewayreview.nl
+gatewayreview.nl
+english.gatewayreview.nl
+feeds.english.gatewayreview.nl
+magazines.english.gatewayreview.nl
+magazines.gatewayreview.nl
+magazinesintern.english.gatewayreview.nl
+magazinesintern.gatewayreview.nl
+opendata.english.gatewayreview.nl

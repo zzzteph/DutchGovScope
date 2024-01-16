@@ -5,8 +5,11 @@ permalink: /dutchgov/cybersecurityraad.nl.html
 
 
 # cybersecurityraad.nl
-*2024-01-14 01:58:18*
 ## Summary data
+
+
+**SSL Grade**:100
+**HTTP Security Grade**:71
 
 
 | File       | Count | Info |
@@ -19,10 +22,10 @@ permalink: /dutchgov/cybersecurityraad.nl.html
 ## Statistics
 
 
-| Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
-|------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://feeds.cybersecurityraad.nl](https://feeds.cybersecurityraad.nl)| $${\color{green}A+}$$ |nginx| |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx||
-|[https://magazines.cybersecurityraad.nl](https://magazines.cybersecurityraad.nl)| $${\color{green}A+}$$ |nginx| |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx||
-|[https://opendata.cybersecurityraad.nl](https://opendata.cybersecurityraad.nl)| $${\color{green}A+}$$ |nginx| |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx||
-|[https://www.cybersecurityraad.nl](https://www.cybersecurityraad.nl)| $${\color{green}A+}$$ |nginx| |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Bloomreach HSTS Nginx|Home | Cyber Sec...|
-|[https://cybersecurityraad.nl](https://cybersecurityraad.nl)| $${\color{green}A+}$$ |nginx| |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx|301 Moved Perman...|
+| Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
+|--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
+|[https://feeds.cybersecurityraad.nl](https://feeds.cybersecurityraad.nl)| **A+**| **65**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
+|[https://magazines.cybersecurityraad.nl](https://magazines.cybersecurityraad.nl)| **A+**| **75**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
+|[https://opendata.cybersecurityraad.nl](https://opendata.cybersecurityraad.nl)| **A+**| **65**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
+|[https://www.cybersecurityraad.nl](https://www.cybersecurityraad.nl)| **A+**| **75**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Home | Cyber Sec...|
+|[https://cybersecurityraad.nl](https://cybersecurityraad.nl)| **A+**| **75**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|

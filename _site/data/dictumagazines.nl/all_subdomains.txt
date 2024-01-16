@@ -1,0 +1,8 @@
+a-www.dictumagazines.nl
+english.dictumagazines.nl
+feeds.dictumagazines.nl
+feeds.english.dictumagazines.nl
+opendata.dictumagazines.nl
+opendata.english.dictumagazines.nl
+www.dictumagazines.nl
+dictumagazines.nl

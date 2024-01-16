@@ -5,8 +5,11 @@ permalink: /dutchgov/mobilitylab.nl.html
 
 
 # mobilitylab.nl
-*2024-01-11 16:13:40*
 ## Summary data
+
+
+**SSL Grade**:0
+**HTTP Security Grade**:25
 
 
 | File       | Count | Info |
@@ -19,7 +22,7 @@ permalink: /dutchgov/mobilitylab.nl.html
 ## Statistics
 
 
-| Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
-|------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://www.mobilitylab.nl](https://www.mobilitylab.nl)| |nginx| | | | | | :white_check_mark: |Nginx||
-|[https://mobilitylab.nl](https://mobilitylab.nl)| |nginx| | | | | | :white_check_mark: |MySQL Nginx PHP Site Kit:1.106.0 WordPress|Mobility Lab - N...|
+| Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
+|--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
+|[https://www.mobilitylab.nl](https://www.mobilitylab.nl)| | **25**|nginx| | | | | | | | :white_check_mark: | |Nginx||
+|[https://mobilitylab.nl](https://mobilitylab.nl)| | **25**|nginx| | | | | | | | :white_check_mark: | |MySQL Nginx PHP Site Kit:1.106.0 WordPress|Mobility Lab - N...|

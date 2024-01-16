@@ -5,8 +5,11 @@ permalink: /dutchgov/ccmo.nl.html
 
 
 # ccmo.nl
-*2024-01-14 00:57:14*
 ## Summary data
+
+
+**SSL Grade**:100
+**HTTP Security Grade**:69.625
 
 
 | File       | Count | Info |
@@ -19,13 +22,13 @@ permalink: /dutchgov/ccmo.nl.html
 ## Statistics
 
 
-| Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
-|------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://english.ccmo.nl](https://english.ccmo.nl)| $${\color{green}A+}$$ |nginx| |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Bloomreach HSTS Nginx|Home | The Centr...|
-|[https://feeds.ccmo.nl](https://feeds.ccmo.nl)| $${\color{green}A+}$$ |nginx| |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx||
-|[https://opendata.ccmo.nl](https://opendata.ccmo.nl)| $${\color{green}A+}$$ |nginx| |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx||
-|[https://www.ccmo.nl](https://www.ccmo.nl)| $${\color{green}A+}$$ |nginx| |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Bloomreach HSTS Nginx|Home | Centrale...|
-|[http://toetsingonline.ccmo.nl](http://toetsingonline.ccmo.nl)| |Apache/2.4.58 (Debian)|:warning: |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |Apache HTTP Server:2.4.58 Debian|302 Found|
-|[https://feeds.english.ccmo.nl](https://feeds.english.ccmo.nl)| $${\color{green}A+}$$ |nginx| |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx||
-|[https://opendata.english.ccmo.nl](https://opendata.english.ccmo.nl)| $${\color{green}A+}$$ |nginx| |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx||
-|[https://ccmo.nl](https://ccmo.nl)| $${\color{green}A+}$$ |nginx| |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx|301 Moved Perman...|
+| Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
+|--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
+|[https://english.ccmo.nl](https://english.ccmo.nl)| **A+**| **75**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Home | The Centr...|
+|[https://feeds.ccmo.nl](https://feeds.ccmo.nl)| **A+**| **65**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
+|[https://opendata.ccmo.nl](https://opendata.ccmo.nl)| **A+**| **65**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
+|[https://www.ccmo.nl](https://www.ccmo.nl)| **A+**| **75**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Home | Centrale...|
+|[http://toetsingonline.ccmo.nl](http://toetsingonline.ccmo.nl)| | **72**|Apache/2.4.58 (Debian)|:warning: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server:2.4.58 Debian|302 Found|
+|[https://feeds.english.ccmo.nl](https://feeds.english.ccmo.nl)| **A+**| **65**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
+|[https://opendata.english.ccmo.nl](https://opendata.english.ccmo.nl)| **A+**| **65**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
+|[https://ccmo.nl](https://ccmo.nl)| **A+**| **75**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|

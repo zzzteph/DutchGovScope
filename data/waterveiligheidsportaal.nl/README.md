@@ -5,8 +5,11 @@ permalink: /dutchgov/waterveiligheidsportaal.nl.html
 
 
 # waterveiligheidsportaal.nl
-*2024-01-11 16:13:37*
 ## Summary data
+
+
+**SSL Grade**:0
+**HTTP Security Grade**:55
 
 
 | File       | Count | Info |
@@ -19,7 +22,7 @@ permalink: /dutchgov/waterveiligheidsportaal.nl.html
 ## Statistics
 
 
-| Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
-|------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://www.waterveiligheidsportaal.nl](https://www.waterveiligheidsportaal.nl)| |Apache| |:white_check_mark: | | :white_check_mark: | | :white_check_mark: |Apache HTTP Server HSTS|302 Found|
-|[https://waterveiligheidsportaal.nl](https://waterveiligheidsportaal.nl)| |Apache| |:white_check_mark: | | :white_check_mark: | | :white_check_mark: |AngularJS Apache HTTP Server HSTS|Waterveiligheids...|
+| Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
+|--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
+|[https://www.waterveiligheidsportaal.nl](https://www.waterveiligheidsportaal.nl)| | **55**|Apache| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
+|[https://waterveiligheidsportaal.nl](https://waterveiligheidsportaal.nl)| | **55**|Apache| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |AngularJS Apache HTTP Server HSTS|Waterveiligheids...|

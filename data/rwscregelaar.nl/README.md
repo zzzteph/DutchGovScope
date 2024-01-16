@@ -5,8 +5,11 @@ permalink: /dutchgov/rwscregelaar.nl.html
 
 
 # rwscregelaar.nl
-*2024-01-11 16:13:44*
 ## Summary data
+
+
+**SSL Grade**:0
+**HTTP Security Grade**:25
 
 
 | File       | Count | Info |
@@ -19,9 +22,9 @@ permalink: /dutchgov/rwscregelaar.nl.html
 ## Statistics
 
 
-| Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
-|------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://mail.rwscregelaar.nl](https://mail.rwscregelaar.nl)| |Apache/2.4.29 (Ubuntu)| | | | | | :white_check_mark: |Apache HTTP Server:2.4.29 HSTS Ubuntu|DAT.Mobility|
-|[https://mta-sts.mail.rwscregelaar.nl](https://mta-sts.mail.rwscregelaar.nl)| |Apache/2.4.29 (Ubuntu)| | | | | | :white_check_mark: |Apache HTTP Server:2.4.29 HSTS Ubuntu|DAT.Mobility|
-|[https://www.rwscregelaar.nl](https://www.rwscregelaar.nl)| |Apache/2.4.29 (Ubuntu)| | | | | | :white_check_mark: |Apache HTTP Server:2.4.29 HSTS Ubuntu|DAT.Mobility|
-|[https://rwscregelaar.nl](https://rwscregelaar.nl)| |Apache/2.4.29 (Ubuntu)| | | | | | :white_check_mark: |Apache HTTP Server:2.4.29 HSTS Ubuntu|DAT.Mobility|
+| Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
+|--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
+|[https://mail.rwscregelaar.nl](https://mail.rwscregelaar.nl)| | **25**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu|DAT.Mobility|
+|[https://mta-sts.mail.rwscregelaar.nl](https://mta-sts.mail.rwscregelaar.nl)| | **25**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu|DAT.Mobility|
+|[https://www.rwscregelaar.nl](https://www.rwscregelaar.nl)| | **25**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu|DAT.Mobility|
+|[https://rwscregelaar.nl](https://rwscregelaar.nl)| | **25**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu|DAT.Mobility|

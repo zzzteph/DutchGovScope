@@ -5,8 +5,11 @@ permalink: /dutchgov/rijkswaterstaatdata.nl.html
 
 
 # rijkswaterstaatdata.nl
-*2024-01-11 16:13:38*
 ## Summary data
+
+
+**SSL Grade**:0
+**HTTP Security Grade**:68.333333333333
 
 
 | File       | Count | Info |
@@ -19,8 +22,8 @@ permalink: /dutchgov/rijkswaterstaatdata.nl.html
 ## Statistics
 
 
-| Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
-|------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://downloads.rijkswaterstaatdata.nl](https://downloads.rijkswaterstaatdata.nl)| |nginx| |:white_check_mark: | | | | :white_check_mark: |HSTS Nginx|Index of /|
-|[https://www.rijkswaterstaatdata.nl](https://www.rijkswaterstaatdata.nl)| |-| |:white_check_mark: | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Microsoft ASP.NET:-|Object moved|
-|[https://rijkswaterstaatdata.nl](https://rijkswaterstaatdata.nl)| |-| |:white_check_mark: | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Microsoft ASP.NET:-|Home - Data Rijk...|
+| Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
+|--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
+|[https://downloads.rijkswaterstaatdata.nl](https://downloads.rijkswaterstaatdata.nl)| | **45**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Nginx|Index of /|
+|[https://www.rijkswaterstaatdata.nl](https://www.rijkswaterstaatdata.nl)| | **80**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:-|Object moved|
+|[https://rijkswaterstaatdata.nl](https://rijkswaterstaatdata.nl)| | **80**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:-|Home - Data Rijk...|

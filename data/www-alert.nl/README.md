@@ -5,8 +5,11 @@ permalink: /dutchgov/www-alert.nl.html
 
 
 # www-alert.nl
-*2024-01-14 08:06:38*
 ## Summary data
+
+
+**SSL Grade**:0
+**HTTP Security Grade**:0
 
 
 | File       | Count | Info |
@@ -19,5 +22,5 @@ permalink: /dutchgov/www-alert.nl.html
 ## Statistics
 
 
-| Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
-|------------|-------|------|------|------|------|------|------|------|------|------|
+| Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
+|--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|

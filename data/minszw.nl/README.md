@@ -5,8 +5,11 @@ permalink: /dutchgov/minszw.nl.html
 
 
 # minszw.nl
-*2024-01-10 20:57:18*
 ## Summary data
+
+
+**SSL Grade**:0
+**HTTP Security Grade**:60
 
 
 | File       | Count | Info |
@@ -19,11 +22,11 @@ permalink: /dutchgov/minszw.nl.html
 ## Statistics
 
 
-| Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
-|------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://www.minszw.nl](https://www.minszw.nl)| |Microsoft-IIS/10.0| |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS IIS:10.0 Windows Server|Document Moved|
-|[https://siam.minszw.nl](https://siam.minszw.nl)| |N.A.| |:white_check_mark: | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS|Authentication F...|
-|[https://minszw.nl](https://minszw.nl)| |Microsoft-IIS/10.0| |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS IIS:10.0 Windows Server|Document Moved|
-|[https://gemeenteloket.minszw.nl](https://gemeenteloket.minszw.nl)| |Microsoft-HTTPAPI/2.0| | | | | | :white_check_mark: |Microsoft HTTPAPI:2.0|Not Found|
-|[https://www.gemeenteloket.minszw.nl](https://www.gemeenteloket.minszw.nl)| |Microsoft-HTTPAPI/2.0| | | | | | :white_check_mark: |Microsoft HTTPAPI:2.0|Not Found|
-|[https://testsiam.minszw.nl](https://testsiam.minszw.nl)| |N.A.| |:white_check_mark: | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS|Authentication F...|
+| Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
+|--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
+|[https://www.minszw.nl](https://www.minszw.nl)| | **75**|Microsoft-IIS/10.0| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS IIS:10.0 Windows Server|Document Moved|
+|[https://siam.minszw.nl](https://siam.minszw.nl)| | **80**|N.A.| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Authentication F...|
+|[https://minszw.nl](https://minszw.nl)| | **75**|Microsoft-IIS/10.0| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS IIS:10.0 Windows Server|Document Moved|
+|[https://gemeenteloket.minszw.nl](https://gemeenteloket.minszw.nl)| | **25**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
+|[https://www.gemeenteloket.minszw.nl](https://www.gemeenteloket.minszw.nl)| | **25**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
+|[https://testsiam.minszw.nl](https://testsiam.minszw.nl)| | **80**|N.A.| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Authentication F...|

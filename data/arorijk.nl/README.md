@@ -5,8 +5,11 @@ permalink: /dutchgov/arorijk.nl.html
 
 
 # arorijk.nl
-*2024-01-10 20:57:10*
 ## Summary data
+
+
+**SSL Grade**:100
+**HTTP Security Grade**:91
 
 
 | File       | Count | Info |
@@ -19,8 +22,8 @@ permalink: /dutchgov/arorijk.nl.html
 ## Statistics
 
 
-| Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
-|------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://static.arorijk.nl](https://static.arorijk.nl)| $${\color{green}A+}$$ || |:white_check_mark: | :white_check_mark:| | :white_check_mark: | :white_check_mark: |HSTS||
-|[https://www.arorijk.nl](https://www.arorijk.nl)| $${\color{green}A+}$$ ||:white_check_mark: |:white_check_mark: | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Ruby Ruby on Rails|Agressie Registr...|
-|[https://arorijk.nl](https://arorijk.nl)| ||:white_check_mark: |:white_check_mark: | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Ruby Ruby on Rails|Agressie Registr...|
+| Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
+|--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
+|[https://static.arorijk.nl](https://static.arorijk.nl)| **A+**| **75**|| |:white_check_mark: | | | :white_check_mark:| | :white_check_mark: | :white_check_mark: | |HSTS||
+|[https://www.arorijk.nl](https://www.arorijk.nl)| **A+**| **99**||:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Ruby Ruby on Rails|Agressie Registr...|
+|[https://arorijk.nl](https://arorijk.nl)| | **99**||:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Ruby Ruby on Rails|Agressie Registr...|

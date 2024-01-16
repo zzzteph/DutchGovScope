@@ -5,8 +5,11 @@ permalink: /dutchgov/vwsdia-archief.nl.html
 
 
 # vwsdia-archief.nl
-*2024-01-11 16:13:40*
 ## Summary data
+
+
+**SSL Grade**:0
+**HTTP Security Grade**:45
 
 
 | File       | Count | Info |
@@ -19,7 +22,7 @@ permalink: /dutchgov/vwsdia-archief.nl.html
 ## Statistics
 
 
-| Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
-|------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://vwsdia-archief.nl](https://vwsdia-archief.nl)| |nginx/1.20.1| | | | :white_check_mark: | :white_check_mark: | :white_check_mark: |Nginx:1.20.1||
-|[https://www.vwsdia-archief.nl](https://www.vwsdia-archief.nl)| |nginx/1.20.1| | | | :white_check_mark: | :white_check_mark: | :white_check_mark: |Nginx:1.20.1||
+| Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
+|--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
+|[https://vwsdia-archief.nl](https://vwsdia-archief.nl)| | **45**|nginx/1.20.1| | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Nginx:1.20.1||
+|[https://www.vwsdia-archief.nl](https://www.vwsdia-archief.nl)| | **45**|nginx/1.20.1| | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Nginx:1.20.1||

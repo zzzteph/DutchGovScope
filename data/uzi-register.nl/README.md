@@ -5,8 +5,11 @@ permalink: /dutchgov/uzi-register.nl.html
 
 
 # uzi-register.nl
-*2024-01-10 20:57:24*
 ## Summary data
+
+
+**SSL Grade**:0
+**HTTP Security Grade**:81.25
 
 
 | File       | Count | Info |
@@ -19,9 +22,9 @@ permalink: /dutchgov/uzi-register.nl.html
 ## Statistics
 
 
-| Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
-|------------|-------|------|------|------|------|------|------|------|------|------|
-|[http://ocsp.uzi-register.nl](http://ocsp.uzi-register.nl)| || |:white_check_mark: | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS||
-|[https://www.uzi-register.nl](https://www.uzi-register.nl)| || |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS|301 Moved Perman...|
-|[https://www.csp.uzi-register.nl](https://www.csp.uzi-register.nl)| || |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS|301 Moved Perman...|
-|[https://uzi-register.nl](https://uzi-register.nl)| || |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS|301 Moved Perman...|
+| Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
+|--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
+|[http://ocsp.uzi-register.nl](http://ocsp.uzi-register.nl)| | **85**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
+|[https://www.uzi-register.nl](https://www.uzi-register.nl)| | **80**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|301 Moved Perman...|
+|[https://www.csp.uzi-register.nl](https://www.csp.uzi-register.nl)| | **80**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|301 Moved Perman...|
+|[https://uzi-register.nl](https://uzi-register.nl)| | **80**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|301 Moved Perman...|

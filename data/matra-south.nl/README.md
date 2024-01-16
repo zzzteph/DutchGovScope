@@ -5,8 +5,11 @@ permalink: /dutchgov/matra-south.nl.html
 
 
 # matra-south.nl
-*2024-01-11 16:13:43*
 ## Summary data
+
+
+**SSL Grade**:0
+**HTTP Security Grade**:25
 
 
 | File       | Count | Info |
@@ -19,7 +22,7 @@ permalink: /dutchgov/matra-south.nl.html
 ## Statistics
 
 
-| Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
-|------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://www.matra-south.nl](https://www.matra-south.nl)| |Apache/2|:o: | | | | | :white_check_mark: |Apache HTTP Server:2 PHP:7.4.33|Redirecting to h...|
-|[https://matra-south.nl](https://matra-south.nl)| |Apache/2|:o: | | | | | :white_check_mark: |Apache HTTP Server:2 PHP:7.4.33|Redirecting to h...|
+| Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
+|--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
+|[https://www.matra-south.nl](https://www.matra-south.nl)| | **25**|Apache/2|:o: | | | | | | | :white_check_mark: | |Apache HTTP Server:2 PHP:7.4.33|Redirecting to h...|
+|[https://matra-south.nl](https://matra-south.nl)| | **25**|Apache/2|:o: | | | | | | | :white_check_mark: | |Apache HTTP Server:2 PHP:7.4.33|Redirecting to h...|

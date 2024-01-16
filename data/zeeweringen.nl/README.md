@@ -5,8 +5,11 @@ permalink: /dutchgov/zeeweringen.nl.html
 
 
 # zeeweringen.nl
-*2024-01-11 16:13:40*
 ## Summary data
+
+
+**SSL Grade**:0
+**HTTP Security Grade**:25
 
 
 | File       | Count | Info |
@@ -19,10 +22,10 @@ permalink: /dutchgov/zeeweringen.nl.html
 ## Statistics
 
 
-| Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
-|------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://mail.zeeweringen.nl](https://mail.zeeweringen.nl)| |nginx/1.24.0| | | | | | :white_check_mark: |Nginx:1.24.0|Hostnet: Uw dome...|
-|[https://www.zeeweringen.nl](https://www.zeeweringen.nl)| |nginx/1.24.0| | | | | | :white_check_mark: |Nginx:1.24.0|Zeeweringen|
-|[https://ww2.zeeweringen.nl](https://ww2.zeeweringen.nl)| |nginx/1.24.0| | | | | | :white_check_mark: |Nginx:1.24.0|Hostnet: Uw dome...|
-|[https://conferentie.zeeweringen.nl](https://conferentie.zeeweringen.nl)| |nginx/1.24.0| | | | | | :white_check_mark: |Nginx:1.24.0|Hostnet: Uw dome...|
-|[https://zeeweringen.nl](https://zeeweringen.nl)| |nginx/1.24.0| | | | | | :white_check_mark: |Nginx:1.24.0|Zeeweringen|
+| Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
+|--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
+|[https://mail.zeeweringen.nl](https://mail.zeeweringen.nl)| | **25**|nginx/1.24.0| | | | | | | | :white_check_mark: | |Nginx:1.24.0|Hostnet: Uw dome...|
+|[https://www.zeeweringen.nl](https://www.zeeweringen.nl)| | **25**|nginx/1.24.0| | | | | | | | :white_check_mark: | |Nginx:1.24.0|Zeeweringen|
+|[https://ww2.zeeweringen.nl](https://ww2.zeeweringen.nl)| | **25**|nginx/1.24.0| | | | | | | | :white_check_mark: | |Nginx:1.24.0|Hostnet: Uw dome...|
+|[https://conferentie.zeeweringen.nl](https://conferentie.zeeweringen.nl)| | **25**|nginx/1.24.0| | | | | | | | :white_check_mark: | |Nginx:1.24.0|Hostnet: Uw dome...|
+|[https://zeeweringen.nl](https://zeeweringen.nl)| | **25**|nginx/1.24.0| | | | | | | | :white_check_mark: | |Nginx:1.24.0|Zeeweringen|

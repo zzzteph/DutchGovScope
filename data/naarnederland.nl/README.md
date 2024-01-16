@@ -5,8 +5,11 @@ permalink: /dutchgov/naarnederland.nl.html
 
 
 # naarnederland.nl
-*2024-01-11 16:13:43*
 ## Summary data
+
+
+**SSL Grade**:0
+**HTTP Security Grade**:48.333333333333
 
 
 | File       | Count | Info |
@@ -19,8 +22,8 @@ permalink: /dutchgov/naarnederland.nl.html
 ## Statistics
 
 
-| Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
-|------------|-------|------|------|------|------|------|------|------|------|------|
-|[http://mail.naarnederland.nl](http://mail.naarnederland.nl)| |ghs| | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: ||301 Moved|
-|[https://www.naarnederland.nl](https://www.naarnederland.nl)| |Apache|:o: |:white_check_mark: | | | | :white_check_mark: |Apache HTTP Server HSTS MySQL PHP WPML:4.1.1 WordPress:5.3.16|Naar Nederland –...|
-|[https://naarnederland.nl](https://naarnederland.nl)| |Apache|:o: |:white_check_mark: | | | | :white_check_mark: |Apache HTTP Server HSTS||
+| Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
+|--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
+|[http://mail.naarnederland.nl](http://mail.naarnederland.nl)| | **55**|ghs| | | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | ||301 Moved|
+|[https://www.naarnederland.nl](https://www.naarnederland.nl)| | **45**|Apache|:o: |:white_check_mark: | | | | | | :white_check_mark: | |Apache HTTP Server HSTS MySQL PHP WPML:4.1.1 WordPress:5.3.16|Naar Nederland –...|
+|[https://naarnederland.nl](https://naarnederland.nl)| | **45**|Apache|:o: |:white_check_mark: | | | | | | :white_check_mark: | |Apache HTTP Server HSTS||

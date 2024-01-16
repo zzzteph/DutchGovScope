@@ -5,8 +5,11 @@ permalink: /dutchgov/minjenv-events.nl.html
 
 
 # minjenv-events.nl
-*2024-01-11 16:13:45*
 ## Summary data
+
+
+**SSL Grade**:0
+**HTTP Security Grade**:65
 
 
 | File       | Count | Info |
@@ -19,31 +22,31 @@ permalink: /dutchgov/minjenv-events.nl.html
 ## Statistics
 
 
-| Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
-|------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://hetslachtofferenhetstrafproces.minjenv-events.nl](https://hetslachtofferenhetstrafproces.minjenv-events.nl)| |nginx| |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx Plesk||
-|[https://scheidenzonderschadewebinarrelatievaardigheden.minjenv-events.nl](https://scheidenzonderschadewebinarrelatievaardigheden.minjenv-events.nl)| |nginx| |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx Plesk||
-|[https://werkenbijjenv.minjenv-events.nl](https://werkenbijjenv.minjenv-events.nl)| |nginx| |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx Plesk||
-|[https://minjenv-events.nl](https://minjenv-events.nl)| |nginx| |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx Plesk||
-|[https://agressieengeweldtegenhulpverleners.minjenv-events.nl](https://agressieengeweldtegenhulpverleners.minjenv-events.nl)| |nginx| |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx Plesk||
-|[https://congreskoersenkansen2020.minjenv-events.nl](https://congreskoersenkansen2020.minjenv-events.nl)| |nginx| |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx Plesk||
-|[https://dagvandemigratieketen2019.minjenv-events.nl](https://dagvandemigratieketen2019.minjenv-events.nl)| |nginx| |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx Plesk||
-|[https://dagvandewetgeving2022.minjenv-events.nl](https://dagvandewetgeving2022.minjenv-events.nl)| |nginx| |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx Plesk||
-|[https://iacs-kennisevenement.minjenv-events.nl](https://iacs-kennisevenement.minjenv-events.nl)| |nginx| |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx Plesk||
-|[https://kick-offstartupinresidence.minjenv-events.nl](https://kick-offstartupinresidence.minjenv-events.nl)| |nginx| |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx Plesk||
-|[https://ochtendvandescheiding.minjenv-events.nl](https://ochtendvandescheiding.minjenv-events.nl)| |nginx| |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx Plesk||
-|[https://pbcsymposium.minjenv-events.nl](https://pbcsymposium.minjenv-events.nl)| |nginx| |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx Plesk||
-|[https://state-of-the-art-conferentie2019.minjenv-events.nl](https://state-of-the-art-conferentie2019.minjenv-events.nl)| |nginx| |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx Plesk||
-|[https://onderzoekbijvoorendoordepolitie.minjenv-events.nl](https://onderzoekbijvoorendoordepolitie.minjenv-events.nl)| |nginx| |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx Plesk||
-|[https://mla-initiative.minjenv-events.nl](https://mla-initiative.minjenv-events.nl)| |nginx| |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx Plesk||
-|[https://demodaystartupinresidenceii.minjenv-events.nl](https://demodaystartupinresidenceii.minjenv-events.nl)| |nginx| |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx Plesk||
-|[https://www.minjenv-events.nl](https://www.minjenv-events.nl)| |nginx| |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx Plesk||
-|[https://10jaarbestrijdinghic.minjenv-events.nl](https://10jaarbestrijdinghic.minjenv-events.nl)| |nginx| |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx Plesk||
-|[https://conferentie-politieonderzoek-2019.minjenv-events.nl](https://conferentie-politieonderzoek-2019.minjenv-events.nl)| |nginx| |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx Plesk||
-|[https://jaarcongresprocom.minjenv-events.nl](https://jaarcongresprocom.minjenv-events.nl)| |nginx| |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx Plesk||
-|[https://mlainitiative.minjenv-events.nl](https://mlainitiative.minjenv-events.nl)| |nginx| |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx Plesk||
-|[https://scheidenzonderschade.minjenv-events.nl](https://scheidenzonderschade.minjenv-events.nl)| |nginx| |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx Plesk||
-|[https://scheidingstourjenv.minjenv-events.nl](https://scheidingstourjenv.minjenv-events.nl)| |nginx| |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx Plesk||
-|[https://svsdigitaalplein.minjenv-events.nl](https://svsdigitaalplein.minjenv-events.nl)| |nginx| |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx Plesk||
-|[https://werkconferentierechtsbijstandbijdetijd.minjenv-events.nl](https://werkconferentierechtsbijstandbijdetijd.minjenv-events.nl)| |nginx| |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx Plesk||
-|[https://wodc50jaar.minjenv-events.nl](https://wodc50jaar.minjenv-events.nl)| |nginx| |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx Plesk||
+| Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
+|--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
+|[https://hetslachtofferenhetstrafproces.minjenv-events.nl](https://hetslachtofferenhetstrafproces.minjenv-events.nl)| | **65**|nginx| |:white_check_mark: | :warning:| |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx Plesk||
+|[https://scheidenzonderschadewebinarrelatievaardigheden.minjenv-events.nl](https://scheidenzonderschadewebinarrelatievaardigheden.minjenv-events.nl)| | **65**|nginx| |:white_check_mark: | :warning:| |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx Plesk||
+|[https://werkenbijjenv.minjenv-events.nl](https://werkenbijjenv.minjenv-events.nl)| | **65**|nginx| |:white_check_mark: | :warning:| |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx Plesk||
+|[https://minjenv-events.nl](https://minjenv-events.nl)| | **65**|nginx| |:white_check_mark: | :warning:| |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx Plesk||
+|[https://agressieengeweldtegenhulpverleners.minjenv-events.nl](https://agressieengeweldtegenhulpverleners.minjenv-events.nl)| | **65**|nginx| |:white_check_mark: | :warning:| |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx Plesk||
+|[https://congreskoersenkansen2020.minjenv-events.nl](https://congreskoersenkansen2020.minjenv-events.nl)| | **65**|nginx| |:white_check_mark: | :warning:| |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx Plesk||
+|[https://dagvandemigratieketen2019.minjenv-events.nl](https://dagvandemigratieketen2019.minjenv-events.nl)| | **65**|nginx| |:white_check_mark: | :warning:| |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx Plesk||
+|[https://dagvandewetgeving2022.minjenv-events.nl](https://dagvandewetgeving2022.minjenv-events.nl)| | **65**|nginx| |:white_check_mark: | :warning:| |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx Plesk||
+|[https://iacs-kennisevenement.minjenv-events.nl](https://iacs-kennisevenement.minjenv-events.nl)| | **65**|nginx| |:white_check_mark: | :warning:| |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx Plesk||
+|[https://kick-offstartupinresidence.minjenv-events.nl](https://kick-offstartupinresidence.minjenv-events.nl)| | **65**|nginx| |:white_check_mark: | :warning:| |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx Plesk||
+|[https://ochtendvandescheiding.minjenv-events.nl](https://ochtendvandescheiding.minjenv-events.nl)| | **65**|nginx| |:white_check_mark: | :warning:| |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx Plesk||
+|[https://pbcsymposium.minjenv-events.nl](https://pbcsymposium.minjenv-events.nl)| | **65**|nginx| |:white_check_mark: | :warning:| |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx Plesk||
+|[https://state-of-the-art-conferentie2019.minjenv-events.nl](https://state-of-the-art-conferentie2019.minjenv-events.nl)| | **65**|nginx| |:white_check_mark: | :warning:| |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx Plesk||
+|[https://onderzoekbijvoorendoordepolitie.minjenv-events.nl](https://onderzoekbijvoorendoordepolitie.minjenv-events.nl)| | **65**|nginx| |:white_check_mark: | :warning:| |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx Plesk||
+|[https://mla-initiative.minjenv-events.nl](https://mla-initiative.minjenv-events.nl)| | **65**|nginx| |:white_check_mark: | :warning:| |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx Plesk||
+|[https://demodaystartupinresidenceii.minjenv-events.nl](https://demodaystartupinresidenceii.minjenv-events.nl)| | **65**|nginx| |:white_check_mark: | :warning:| |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx Plesk||
+|[https://www.minjenv-events.nl](https://www.minjenv-events.nl)| | **65**|nginx| |:white_check_mark: | :warning:| |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx Plesk||
+|[https://10jaarbestrijdinghic.minjenv-events.nl](https://10jaarbestrijdinghic.minjenv-events.nl)| | **65**|nginx| |:white_check_mark: | :warning:| |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx Plesk||
+|[https://conferentie-politieonderzoek-2019.minjenv-events.nl](https://conferentie-politieonderzoek-2019.minjenv-events.nl)| | **65**|nginx| |:white_check_mark: | :warning:| |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx Plesk||
+|[https://jaarcongresprocom.minjenv-events.nl](https://jaarcongresprocom.minjenv-events.nl)| | **65**|nginx| |:white_check_mark: | :warning:| |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx Plesk||
+|[https://mlainitiative.minjenv-events.nl](https://mlainitiative.minjenv-events.nl)| | **65**|nginx| |:white_check_mark: | :warning:| |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx Plesk||
+|[https://scheidenzonderschade.minjenv-events.nl](https://scheidenzonderschade.minjenv-events.nl)| | **65**|nginx| |:white_check_mark: | :warning:| |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx Plesk||
+|[https://scheidingstourjenv.minjenv-events.nl](https://scheidingstourjenv.minjenv-events.nl)| | **65**|nginx| |:white_check_mark: | :warning:| |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx Plesk||
+|[https://svsdigitaalplein.minjenv-events.nl](https://svsdigitaalplein.minjenv-events.nl)| | **65**|nginx| |:white_check_mark: | :warning:| |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx Plesk||
+|[https://werkconferentierechtsbijstandbijdetijd.minjenv-events.nl](https://werkconferentierechtsbijstandbijdetijd.minjenv-events.nl)| | **65**|nginx| |:white_check_mark: | :warning:| |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx Plesk||
+|[https://wodc50jaar.minjenv-events.nl](https://wodc50jaar.minjenv-events.nl)| | **65**|nginx| |:white_check_mark: | :warning:| |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx Plesk||

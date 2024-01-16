@@ -5,8 +5,11 @@ permalink: /dutchgov/duurzaamheidsroutea35.nl.html
 
 
 # duurzaamheidsroutea35.nl
-*2024-01-11 16:13:40*
 ## Summary data
+
+
+**SSL Grade**:0
+**HTTP Security Grade**:30
 
 
 | File       | Count | Info |
@@ -19,7 +22,7 @@ permalink: /dutchgov/duurzaamheidsroutea35.nl.html
 ## Statistics
 
 
-| Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
-|------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://www.duurzaamheidsroutea35.nl](https://www.duurzaamheidsroutea35.nl)| || | | | | | :white_check_mark: |HSTS Microsoft ASP.NET|Object moved|
-|[https://duurzaamheidsroutea35.nl](https://duurzaamheidsroutea35.nl)| || | | | | | :white_check_mark: |HSTS Microsoft ASP.NET|Object moved|
+| Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
+|--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
+|[https://www.duurzaamheidsroutea35.nl](https://www.duurzaamheidsroutea35.nl)| | **30**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Object moved|
+|[https://duurzaamheidsroutea35.nl](https://duurzaamheidsroutea35.nl)| | **30**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Object moved|

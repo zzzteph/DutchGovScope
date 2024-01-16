@@ -5,8 +5,11 @@ permalink: /dutchgov/doeonbeperktmee.nl.html
 
 
 # doeonbeperktmee.nl
-*2024-01-11 06:23:04*
 ## Summary data
+
+
+**SSL Grade**:0
+**HTTP Security Grade**:55
 
 
 | File       | Count | Info |
@@ -19,11 +22,11 @@ permalink: /dutchgov/doeonbeperktmee.nl.html
 ## Statistics
 
 
-| Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
-|------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://vraagje.doeonbeperktmee.nl](https://vraagje.doeonbeperktmee.nl)| |nginx| | | | | | :white_check_mark: |Nginx|Vraagje | Onbepe...|
-|[https://deploy-vraagje.doeonbeperktmee.nl](https://deploy-vraagje.doeonbeperktmee.nl)| |nginx| | | | | | :white_check_mark: |Nginx|403 Forbidden|
-|[https://doeonbeperktmee.nl](https://doeonbeperktmee.nl)| |nginx| |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx|301 Moved Perman...|
-|[https://feeds.doeonbeperktmee.nl](https://feeds.doeonbeperktmee.nl)| |nginx| |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx||
-|[https://opendata.doeonbeperktmee.nl](https://opendata.doeonbeperktmee.nl)| |nginx| |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx||
-|[https://www.doeonbeperktmee.nl](https://www.doeonbeperktmee.nl)| |nginx| |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Bloomreach HSTS Nginx|Home | Doe onbep...|
+| Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
+|--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
+|[https://vraagje.doeonbeperktmee.nl](https://vraagje.doeonbeperktmee.nl)| | **25**|nginx| | | | | | | | :white_check_mark: | |Nginx|Vraagje | Onbepe...|
+|[https://deploy-vraagje.doeonbeperktmee.nl](https://deploy-vraagje.doeonbeperktmee.nl)| | **25**|nginx| | | | | | | | :white_check_mark: | |Nginx|403 Forbidden|
+|[https://doeonbeperktmee.nl](https://doeonbeperktmee.nl)| | **75**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
+|[https://feeds.doeonbeperktmee.nl](https://feeds.doeonbeperktmee.nl)| | **65**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
+|[https://opendata.doeonbeperktmee.nl](https://opendata.doeonbeperktmee.nl)| | **65**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
+|[https://www.doeonbeperktmee.nl](https://www.doeonbeperktmee.nl)| | **75**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Home | Doe onbep...|

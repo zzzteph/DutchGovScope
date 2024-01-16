@@ -5,8 +5,11 @@ permalink: /dutchgov/digitalezorgzandbak.nl.html
 
 
 # digitalezorgzandbak.nl
-*2024-01-11 16:13:42*
 ## Summary data
+
+
+**SSL Grade**:0
+**HTTP Security Grade**:27.5
 
 
 | File       | Count | Info |
@@ -19,7 +22,7 @@ permalink: /dutchgov/digitalezorgzandbak.nl.html
 ## Statistics
 
 
-| Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
-|------------|-------|------|------|------|------|------|------|------|------|------|
-|[http://www.digitalezorgzandbak.nl](http://www.digitalezorgzandbak.nl)| |Pepyaka/1.21.6| | | | | | :white_check_mark: |Google Cloud Google Cloud CDN HSTS React Wix||
-|[http://digitalezorgzandbak.nl](http://digitalezorgzandbak.nl)| || | | | | | :white_check_mark: |HSTS React Wix||
+| Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
+|--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
+|[http://www.digitalezorgzandbak.nl](http://www.digitalezorgzandbak.nl)| | **25**|Pepyaka/1.21.6| | | | | | | | :white_check_mark: | |Google Cloud Google Cloud CDN HSTS React Wix||
+|[http://digitalezorgzandbak.nl](http://digitalezorgzandbak.nl)| | **30**|| | | | | | | | :white_check_mark: | |HSTS React Wix||

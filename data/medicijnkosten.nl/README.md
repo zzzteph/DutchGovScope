@@ -5,8 +5,11 @@ permalink: /dutchgov/medicijnkosten.nl.html
 
 
 # medicijnkosten.nl
-*2024-01-11 16:13:43*
 ## Summary data
+
+
+**SSL Grade**:0
+**HTTP Security Grade**:49.5
 
 
 | File       | Count | Info |
@@ -19,9 +22,9 @@ permalink: /dutchgov/medicijnkosten.nl.html
 ## Statistics
 
 
-| Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
-|------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://proto.medicijnkosten.nl](https://proto.medicijnkosten.nl)| |GitHub.com| | | | | | :white_check_mark: |Fastly GitHub Pages Varnish|Medicijnkosten.n...|
-|[https://www.medicijnkosten.nl](https://www.medicijnkosten.nl)| |Solvinity Server|:white_check_mark: |:white_check_mark: |:warning: | | :white_check_mark: | :white_check_mark: |Bloomreach HSTS|Medicijnkosten.n...|
-|[https://www-ac.medicijnkosten.nl](https://www-ac.medicijnkosten.nl)| |Apache| | | | | | :white_check_mark: |Apache HTTP Server Basic|401 Unauthorized|
-|[https://medicijnkosten.nl](https://medicijnkosten.nl)| |Apache|:white_check_mark: |:white_check_mark: |:warning: | | :white_check_mark: | :white_check_mark: |Apache HTTP Server HSTS|301 Moved Perman...|
+| Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
+|--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
+|[https://proto.medicijnkosten.nl](https://proto.medicijnkosten.nl)| | **15**|GitHub.com| | | :warning:| | | | | :white_check_mark: | |Fastly GitHub Pages Varnish|Medicijnkosten.n...|
+|[https://www.medicijnkosten.nl](https://www.medicijnkosten.nl)| | **79**|Solvinity Server|:white_check_mark: |:white_check_mark: | | |:warning: | | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS|Medicijnkosten.n...|
+|[https://www-ac.medicijnkosten.nl](https://www-ac.medicijnkosten.nl)| | **25**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server Basic|401 Unauthorized|
+|[https://medicijnkosten.nl](https://medicijnkosten.nl)| | **79**|Apache|:white_check_mark: |:white_check_mark: | | |:warning: | | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS|301 Moved Perman...|

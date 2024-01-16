@@ -5,8 +5,11 @@ permalink: /dutchgov/kik-starter.nl.html
 
 
 # kik-starter.nl
-*2024-01-11 16:13:44*
 ## Summary data
+
+
+**SSL Grade**:0
+**HTTP Security Grade**:27.5
 
 
 | File       | Count | Info |
@@ -19,7 +22,7 @@ permalink: /dutchgov/kik-starter.nl.html
 ## Statistics
 
 
-| Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
-|------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://www.kik-starter.nl](https://www.kik-starter.nl)| |istio-envoy| | | | | | :white_check_mark: |HSTS||
-|[https://kik-starter.nl](https://kik-starter.nl)| || | | | | | :white_check_mark: |HSTS||
+| Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
+|--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
+|[https://www.kik-starter.nl](https://www.kik-starter.nl)| | **25**|istio-envoy| | | | | | | | :white_check_mark: | |HSTS||
+|[https://kik-starter.nl](https://kik-starter.nl)| | **30**|| | | | | | | | :white_check_mark: | |HSTS||

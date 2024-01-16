@@ -1,0 +1,9 @@
+a-feeds.politiekeambtsdragers.nl
+a-opendata.politiekeambtsdragers.nl
+a-www.politiekeambtsdragers.nl
+feeds.politiekeambtsdragers.nl
+opendata.politiekeambtsdragers.nl
+www.politiekeambtsdragers.nl
+politiekeambtsdragers.nl
+api.burgemeesterworden.politiekeambtsdragers.nl
+burgemeesterworden.politiekeambtsdragers.nl

@@ -5,8 +5,11 @@ permalink: /dutchgov/regioburgemeesters.nl.html
 
 
 # regioburgemeesters.nl
-*2024-01-11 16:13:43*
 ## Summary data
+
+
+**SSL Grade**:0
+**HTTP Security Grade**:41.333333333333
 
 
 | File       | Count | Info |
@@ -19,11 +22,11 @@ permalink: /dutchgov/regioburgemeesters.nl.html
 ## Statistics
 
 
-| Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
-|------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://www.regioburgemeesters.nl](https://www.regioburgemeesters.nl)| |nginx|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: |Bootstrap HSTS Nginx PHP:8.0.30|Home - Regioburg...|
-|[https://regioburgemeesters.nl](https://regioburgemeesters.nl)| |nginx|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: |Bootstrap HSTS Nginx PHP:8.0.30|Home - Regioburg...|
-|[https://dialin.regioburgemeesters.nl](https://dialin.regioburgemeesters.nl)| |Microsoft-IIS/10.0| | | | | | :white_check_mark: |HSTS IIS:10.0 Windows Server|Conferencing Dia...|
-|[https://lyncdiscover.regioburgemeesters.nl](https://lyncdiscover.regioburgemeesters.nl)| || | | | | | :white_check_mark: |||
-|[https://meet.regioburgemeesters.nl](https://meet.regioburgemeesters.nl)| || | | | | | :white_check_mark: |HSTS|Skype for Busine...|
-|[https://sip.regioburgemeesters.nl](https://sip.regioburgemeesters.nl)| |RTC/6.0| |:white_check_mark: | | | | :white_check_mark: |HSTS||
+| Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
+|--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
+|[https://www.regioburgemeesters.nl](https://www.regioburgemeesters.nl)| | **59**|nginx|:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | |Bootstrap HSTS Nginx PHP:8.0.30|Home - Regioburg...|
+|[https://regioburgemeesters.nl](https://regioburgemeesters.nl)| | **59**|nginx|:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | |Bootstrap HSTS Nginx PHP:8.0.30|Home - Regioburg...|
+|[https://dialin.regioburgemeesters.nl](https://dialin.regioburgemeesters.nl)| | **25**|Microsoft-IIS/10.0| | | | | | | | :white_check_mark: | |HSTS IIS:10.0 Windows Server|Conferencing Dia...|
+|[https://lyncdiscover.regioburgemeesters.nl](https://lyncdiscover.regioburgemeesters.nl)| | **30**|| | | | | | | | :white_check_mark: | |||
+|[https://meet.regioburgemeesters.nl](https://meet.regioburgemeesters.nl)| | **30**|| | | | | | | | :white_check_mark: | |HSTS|Skype for Busine...|
+|[https://sip.regioburgemeesters.nl](https://sip.regioburgemeesters.nl)| | **45**|RTC/6.0| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||

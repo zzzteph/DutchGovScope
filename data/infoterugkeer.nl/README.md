@@ -5,8 +5,11 @@ permalink: /dutchgov/infoterugkeer.nl.html
 
 
 # infoterugkeer.nl
-*2024-01-14 05:21:12*
 ## Summary data
+
+
+**SSL Grade**:0
+**HTTP Security Grade**:80
 
 
 | File       | Count | Info |
@@ -19,7 +22,7 @@ permalink: /dutchgov/infoterugkeer.nl.html
 ## Statistics
 
 
-| Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
-|------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://www.infoterugkeer.nl](https://www.infoterugkeer.nl)| || |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS||
-|[https://infoterugkeer.nl](https://infoterugkeer.nl)| || |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS||
+| Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
+|--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
+|[https://www.infoterugkeer.nl](https://www.infoterugkeer.nl)| | **80**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
+|[https://infoterugkeer.nl](https://infoterugkeer.nl)| | **80**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||

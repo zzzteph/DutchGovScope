@@ -5,8 +5,11 @@ permalink: /dutchgov/centrumvoorstandaarden.nl.html
 
 
 # centrumvoorstandaarden.nl
-*2024-01-11 16:13:41*
 ## Summary data
+
+
+**SSL Grade**:0
+**HTTP Security Grade**:45
 
 
 | File       | Count | Info |
@@ -19,6 +22,6 @@ permalink: /dutchgov/centrumvoorstandaarden.nl.html
 ## Statistics
 
 
-| Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
-|------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://publicatie.centrumvoorstandaarden.nl](https://publicatie.centrumvoorstandaarden.nl)| |Apache/2.4.58 (Debian)| |:white_check_mark: | | | | :white_check_mark: |Apache HTTP Server:2.4.58 Debian HSTS|Standaarden | Lo...|
+| Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
+|--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
+|[https://publicatie.centrumvoorstandaarden.nl](https://publicatie.centrumvoorstandaarden.nl)| | **45**|Apache/2.4.58 (Debian)| |:white_check_mark: | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.58 Debian HSTS|Standaarden | Lo...|

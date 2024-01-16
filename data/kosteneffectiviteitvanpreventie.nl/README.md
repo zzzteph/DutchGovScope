@@ -5,8 +5,11 @@ permalink: /dutchgov/kosteneffectiviteitvanpreventie.nl.html
 
 
 # kosteneffectiviteitvanpreventie.nl
-*2024-01-11 16:13:39*
 ## Summary data
+
+
+**SSL Grade**:0
+**HTTP Security Grade**:65
 
 
 | File       | Count | Info |
@@ -19,7 +22,7 @@ permalink: /dutchgov/kosteneffectiviteitvanpreventie.nl.html
 ## Statistics
 
 
-| Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
-|------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://www.kosteneffectiviteitvanpreventie.nl](https://www.kosteneffectiviteitvanpreventie.nl)| |Apache| |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |Apache HTTP Server Drupal HSTS PHP|Cost-effectivene...|
-|[https://kosteneffectiviteitvanpreventie.nl](https://kosteneffectiviteitvanpreventie.nl)| |Apache| |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |Apache HTTP Server HSTS|301 Moved Perman...|
+| Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
+|--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
+|[https://www.kosteneffectiviteitvanpreventie.nl](https://www.kosteneffectiviteitvanpreventie.nl)| | **65**|Apache| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server Drupal HSTS PHP|Cost-effectivene...|
+|[https://kosteneffectiviteitvanpreventie.nl](https://kosteneffectiviteitvanpreventie.nl)| | **65**|Apache| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS|301 Moved Perman...|

@@ -5,8 +5,11 @@ permalink: /dutchgov/aanpakringzuid.nl.html
 
 
 # aanpakringzuid.nl
-*2024-01-10 22:44:25*
 ## Summary data
+
+
+**SSL Grade**:0
+**HTTP Security Grade**:61.666666666667
 
 
 | File       | Count | Info |
@@ -19,8 +22,8 @@ permalink: /dutchgov/aanpakringzuid.nl.html
 ## Statistics
 
 
-| Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
-|------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://wms.aanpakringzuid.nl](https://wms.aanpakringzuid.nl)| |Apache| | | | | | :white_check_mark: |Apache HTTP Server|403 Forbidden|
-|[https://www.aanpakringzuid.nl](https://www.aanpakringzuid.nl)| |-| |:white_check_mark: | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: |Google Tag Manager HSTS Microsoft ASP.NET:-|Home - Website A...|
-|[https://aanpakringzuid.nl](https://aanpakringzuid.nl)| |-| |:white_check_mark: | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Microsoft ASP.NET:-|Object moved|
+| Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
+|--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
+|[https://wms.aanpakringzuid.nl](https://wms.aanpakringzuid.nl)| | **25**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|403 Forbidden|
+|[https://www.aanpakringzuid.nl](https://www.aanpakringzuid.nl)| | **80**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Google Tag Manager HSTS Microsoft ASP.NET:-|Home - Website A...|
+|[https://aanpakringzuid.nl](https://aanpakringzuid.nl)| | **80**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:-|Object moved|

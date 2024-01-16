@@ -1,0 +1,15 @@
+digid.acc.coronacheck.nl
+helpdesk.coronacheck.nl
+holder-api.coronacheck.nl
+holder-api-cdn.coronacheck.nl
+holder-api-cdn.acc.coronacheck.nl
+holder-api.acc.coronacheck.nl
+max.acc.coronacheck.nl
+tvs.acc.coronacheck.nl
+verifier-api.coronacheck.nl
+verifier-api-cdn.coronacheck.nl
+verifier-api-cdn.acc.coronacheck.nl
+verifier-api.acc.coronacheck.nl
+web.acc.coronacheck.nl
+www.coronacheck.nl
+coronacheck.nl

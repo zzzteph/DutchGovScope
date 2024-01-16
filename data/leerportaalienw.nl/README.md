@@ -5,8 +5,11 @@ permalink: /dutchgov/leerportaalienw.nl.html
 
 
 # leerportaalienw.nl
-*2024-01-11 16:13:41*
 ## Summary data
+
+
+**SSL Grade**:0
+**HTTP Security Grade**:74.75
 
 
 | File       | Count | Info |
@@ -19,9 +22,9 @@ permalink: /dutchgov/leerportaalienw.nl.html
 ## Statistics
 
 
-| Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
-|------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://leeromgeving.leerportaalienw.nl](https://leeromgeving.leerportaalienw.nl)| |Apache|:warning: |:white_check_mark: | | | | :white_check_mark: |Apache HTTP Server HSTS Moodle PHP|Startpagina | Le...|
-|[https://lms.leerportaalienw.nl](https://lms.leerportaalienw.nl)| |Class|:white_check_mark: |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS|Access is denied...|
-|[https://www.leerportaalienw.nl](https://www.leerportaalienw.nl)| |Class|:white_check_mark: |:white_check_mark: |:warning: | | :white_check_mark: | :white_check_mark: |HSTS||
-|[https://leerportaalienw.nl](https://leerportaalienw.nl)| |Class|:white_check_mark: |:white_check_mark: |:warning: | | :white_check_mark: | :white_check_mark: |HSTS||
+| Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
+|--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
+|[https://leeromgeving.leerportaalienw.nl](https://leeromgeving.leerportaalienw.nl)| | **52**|Apache|:warning: |:white_check_mark: | | | | | | :white_check_mark: | |Apache HTTP Server HSTS Moodle PHP|Startpagina | Le...|
+|[https://lms.leerportaalienw.nl](https://lms.leerportaalienw.nl)| | **89**|Class|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Access is denied...|
+|[https://www.leerportaalienw.nl](https://www.leerportaalienw.nl)| | **79**|Class|:white_check_mark: |:white_check_mark: | | |:warning: | | :white_check_mark: | :white_check_mark: | |HSTS||
+|[https://leerportaalienw.nl](https://leerportaalienw.nl)| | **79**|Class|:white_check_mark: |:white_check_mark: | | |:warning: | | :white_check_mark: | :white_check_mark: | |HSTS||

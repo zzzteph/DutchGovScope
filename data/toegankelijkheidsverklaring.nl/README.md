@@ -5,8 +5,11 @@ permalink: /dutchgov/toegankelijkheidsverklaring.nl.html
 
 
 # toegankelijkheidsverklaring.nl
-*2024-01-10 20:57:24*
 ## Summary data
+
+
+**SSL Grade**:0
+**HTTP Security Grade**:45
 
 
 | File       | Count | Info |
@@ -19,11 +22,11 @@ permalink: /dutchgov/toegankelijkheidsverklaring.nl.html
 ## Statistics
 
 
-| Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
-|------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://acc.toegankelijkheidsverklaring.nl](https://acc.toegankelijkheidsverklaring.nl)| |nginx| | | | | | :white_check_mark: |Drupal:10 HSTS Nginx PHP|Home | Forum Sta...|
-|[https://acc-dictu.toegankelijkheidsverklaring.nl](https://acc-dictu.toegankelijkheidsverklaring.nl)| |nginx| | | | :white_check_mark: | :white_check_mark: | :white_check_mark: |Drupal:10 Nginx PHP|ACC toegankelijk...|
-|[https://prod-dictu.toegankelijkheidsverklaring.nl](https://prod-dictu.toegankelijkheidsverklaring.nl)| |nginx| | | | | | :white_check_mark: |Drupal:10 HSTS Nginx PHP|Home | Forum Sta...|
-|[https://test-dictu.toegankelijkheidsverklaring.nl](https://test-dictu.toegankelijkheidsverklaring.nl)| |nginx| | | | :white_check_mark: | :white_check_mark: | :white_check_mark: |Drupal:10 Nginx PHP|TEST toegankelij...|
-|[https://www.toegankelijkheidsverklaring.nl](https://www.toegankelijkheidsverklaring.nl)| |nginx| |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |Drupal:10 HSTS Nginx PHP|Invulassistent T...|
-|[https://toegankelijkheidsverklaring.nl](https://toegankelijkheidsverklaring.nl)| |nginx| |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |Drupal:10 HSTS Nginx PHP|Invulassistent T...|
+| Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
+|--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
+|[https://acc.toegankelijkheidsverklaring.nl](https://acc.toegankelijkheidsverklaring.nl)| | **25**|nginx| | | | | | | | :white_check_mark: | |Drupal:10 HSTS Nginx PHP|Home | Forum Sta...|
+|[https://acc-dictu.toegankelijkheidsverklaring.nl](https://acc-dictu.toegankelijkheidsverklaring.nl)| | **45**|nginx| | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Drupal:10 Nginx PHP|ACC toegankelijk...|
+|[https://prod-dictu.toegankelijkheidsverklaring.nl](https://prod-dictu.toegankelijkheidsverklaring.nl)| | **25**|nginx| | | | | | | | :white_check_mark: | |Drupal:10 HSTS Nginx PHP|Home | Forum Sta...|
+|[https://test-dictu.toegankelijkheidsverklaring.nl](https://test-dictu.toegankelijkheidsverklaring.nl)| | **45**|nginx| | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Drupal:10 Nginx PHP|TEST toegankelij...|
+|[https://www.toegankelijkheidsverklaring.nl](https://www.toegankelijkheidsverklaring.nl)| | **65**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Drupal:10 HSTS Nginx PHP|Invulassistent T...|
+|[https://toegankelijkheidsverklaring.nl](https://toegankelijkheidsverklaring.nl)| | **65**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Drupal:10 HSTS Nginx PHP|Invulassistent T...|

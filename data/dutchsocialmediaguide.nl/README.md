@@ -5,8 +5,11 @@ permalink: /dutchgov/dutchsocialmediaguide.nl.html
 
 
 # dutchsocialmediaguide.nl
-*2024-01-11 16:13:39*
 ## Summary data
+
+
+**SSL Grade**:0
+**HTTP Security Grade**:85
 
 
 | File       | Count | Info |
@@ -19,7 +22,7 @@ permalink: /dutchgov/dutchsocialmediaguide.nl.html
 ## Statistics
 
 
-| Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
-|------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://www.dutchsocialmediaguide.nl](https://www.dutchsocialmediaguide.nl)| |Apache| |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Apache HTTP Server HSTS PHP:5.5.9 Ubuntu|Social Media Atl...|
-|[https://dutchsocialmediaguide.nl](https://dutchsocialmediaguide.nl)| |Apache| |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Apache HTTP Server HSTS PHP:5.5.9 Ubuntu|Social Media Atl...|
+| Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
+|--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
+|[https://www.dutchsocialmediaguide.nl](https://www.dutchsocialmediaguide.nl)| | **85**|Apache| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Apache HTTP Server HSTS PHP:5.5.9 Ubuntu|Social Media Atl...|
+|[https://dutchsocialmediaguide.nl](https://dutchsocialmediaguide.nl)| | **85**|Apache| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Apache HTTP Server HSTS PHP:5.5.9 Ubuntu|Social Media Atl...|

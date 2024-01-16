@@ -5,8 +5,11 @@ permalink: /dutchgov/prosecutionservice.nl.html
 
 
 # prosecutionservice.nl
-*2024-01-10 20:57:21*
 ## Summary data
+
+
+**SSL Grade**:0
+**HTTP Security Grade**:55
 
 
 | File       | Count | Info |
@@ -19,11 +22,11 @@ permalink: /dutchgov/prosecutionservice.nl.html
 ## Statistics
 
 
-| Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
-|------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://opendata.prosecutionservice.nl](https://opendata.prosecutionservice.nl)| |nginx| |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx||
-|[https://criminalfilesmh17.prosecutionservice.nl](https://criminalfilesmh17.prosecutionservice.nl)| |nginx/1.25.1| | | | | | :white_check_mark: |HSTS Nginx:1.25.1|Strafdossier MH1...|
-|[https://criminalfilesmh17.acc.prosecutionservice.nl](https://criminalfilesmh17.acc.prosecutionservice.nl)| |nginx/1.25.1| | | | | | :white_check_mark: |HSTS Nginx:1.25.1|Strafdossier MH1...|
-|[https://feeds.prosecutionservice.nl](https://feeds.prosecutionservice.nl)| |nginx| |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx||
-|[https://www.prosecutionservice.nl](https://www.prosecutionservice.nl)| |nginx| |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Bloomreach HSTS Nginx|Home | Public Pr...|
-|[https://prosecutionservice.nl](https://prosecutionservice.nl)| |nginx| |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx|301 Moved Perman...|
+| Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
+|--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
+|[https://opendata.prosecutionservice.nl](https://opendata.prosecutionservice.nl)| | **65**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
+|[https://criminalfilesmh17.prosecutionservice.nl](https://criminalfilesmh17.prosecutionservice.nl)| | **25**|nginx/1.25.1| | | | | | | | :white_check_mark: | |HSTS Nginx:1.25.1|Strafdossier MH1...|
+|[https://criminalfilesmh17.acc.prosecutionservice.nl](https://criminalfilesmh17.acc.prosecutionservice.nl)| | **25**|nginx/1.25.1| | | | | | | | :white_check_mark: | |HSTS Nginx:1.25.1|Strafdossier MH1...|
+|[https://feeds.prosecutionservice.nl](https://feeds.prosecutionservice.nl)| | **65**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
+|[https://www.prosecutionservice.nl](https://www.prosecutionservice.nl)| | **75**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Home | Public Pr...|
+|[https://prosecutionservice.nl](https://prosecutionservice.nl)| | **75**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|

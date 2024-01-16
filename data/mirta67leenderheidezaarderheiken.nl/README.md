@@ -5,8 +5,11 @@ permalink: /dutchgov/mirta67leenderheidezaarderheiken.nl.html
 
 
 # mirta67leenderheidezaarderheiken.nl
-*2024-01-11 16:13:43*
 ## Summary data
+
+
+**SSL Grade**:0
+**HTTP Security Grade**:30
 
 
 | File       | Count | Info |
@@ -19,7 +22,7 @@ permalink: /dutchgov/mirta67leenderheidezaarderheiken.nl.html
 ## Statistics
 
 
-| Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
-|------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://www.mirta67leenderheidezaarderheiken.nl](https://www.mirta67leenderheidezaarderheiken.nl)| || | | | | | :white_check_mark: ||Document Moved|
-|[https://mirta67leenderheidezaarderheiken.nl](https://mirta67leenderheidezaarderheiken.nl)| || | | | | | :white_check_mark: ||Document Moved|
+| Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
+|--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
+|[https://www.mirta67leenderheidezaarderheiken.nl](https://www.mirta67leenderheidezaarderheiken.nl)| | **30**|| | | | | | | | :white_check_mark: | ||Document Moved|
+|[https://mirta67leenderheidezaarderheiken.nl](https://mirta67leenderheidezaarderheiken.nl)| | **30**|| | | | | | | | :white_check_mark: | ||Document Moved|

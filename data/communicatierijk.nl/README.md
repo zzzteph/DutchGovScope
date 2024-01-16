@@ -5,8 +5,11 @@ permalink: /dutchgov/communicatierijk.nl.html
 
 
 # communicatierijk.nl
-*2024-01-14 01:24:07*
 ## Summary data
+
+
+**SSL Grade**:100
+**HTTP Security Grade**:71.666666666667
 
 
 | File       | Count | Info |
@@ -19,11 +22,11 @@ permalink: /dutchgov/communicatierijk.nl.html
 ## Statistics
 
 
-| Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
-|------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://feeds.communicatierijk.nl](https://feeds.communicatierijk.nl)| $${\color{green}A+}$$ |nginx| |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx||
-|[https://onderzoek.communicatierijk.nl](https://onderzoek.communicatierijk.nl)| $${\color{green}A+}$$ |nginx| |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx|Onderzoekdoen.nl...|
-|[https://ons.communicatierijk.nl](https://ons.communicatierijk.nl)| $${\color{green}A+}$$ |Apache| |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Apache HTTP Server HSTS||
-|[https://opendata.communicatierijk.nl](https://opendata.communicatierijk.nl)| |nginx| |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx||
-|[https://www.communicatierijk.nl](https://www.communicatierijk.nl)| $${\color{green}A+}$$ |nginx| |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Bloomreach HSTS Nginx|Home | Communica...|
-|[https://communicatierijk.nl](https://communicatierijk.nl)| $${\color{green}A+}$$ |nginx| |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx|301 Moved Perman...|
+| Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
+|--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
+|[https://feeds.communicatierijk.nl](https://feeds.communicatierijk.nl)| **A+**| **65**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
+|[https://onderzoek.communicatierijk.nl](https://onderzoek.communicatierijk.nl)| **A+**| **65**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|Onderzoekdoen.nl...|
+|[https://ons.communicatierijk.nl](https://ons.communicatierijk.nl)| **A+**| **85**|Apache| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Apache HTTP Server HSTS||
+|[https://opendata.communicatierijk.nl](https://opendata.communicatierijk.nl)| | **65**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
+|[https://www.communicatierijk.nl](https://www.communicatierijk.nl)| **A+**| **75**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Home | Communica...|
+|[https://communicatierijk.nl](https://communicatierijk.nl)| **A+**| **75**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|

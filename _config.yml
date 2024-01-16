@@ -1,0 +1,23 @@
+title: Dutch Government Bug Bounty
+email: stephanzag@gmail.com
+description: >- # this means to ignore newlines until "baseurl:"
+  Welcome to the repository dedicated to the analysis of the Dutch government’s bug bounty program which includes an extensive list of domains, subdomains, and URLs, along with in-depth daily analysis. This is NOT official bugbounty scope.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: w34kp455
+github_username:  zzzteph
+show_downloads: true
+google_analytics:
+theme: jekyll-theme-hacker
+
+
+plugins:
+  - jekyll-paginate-v2
+  - jemoji
+  
+  
+pagination:
+  enabled: true
+  per_page: 20
+  permalink: '/page/:num/'
+  title: ' - page :num'

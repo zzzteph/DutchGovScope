@@ -1,0 +1,16 @@
+acc.digitaltrustcenter.nl
+basisscan.digitaltrustcenter.nl
+english.digitaltrustcenter.nl
+feeds.digitaltrustcenter.nl
+feeds.english.digitaltrustcenter.nl
+magazines.digitaltrustcenter.nl
+magazines.english.digitaltrustcenter.nl
+magazinesintern.digitaltrustcenter.nl
+magazinesintern.english.digitaltrustcenter.nl
+nieuw.digitaltrustcenter.nl
+opendata.digitaltrustcenter.nl
+opendata.english.digitaltrustcenter.nl
+test.digitaltrustcenter.nl
+tools.digitaltrustcenter.nl
+www.digitaltrustcenter.nl
+digitaltrustcenter.nl

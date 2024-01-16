@@ -1,0 +1,4 @@
+https://feeds.covm.nl
+https://opendata.covm.nl
+https://www.covm.nl
+https://covm.nl

@@ -5,8 +5,11 @@ permalink: /dutchgov/open-overheid.nl.html
 
 
 # open-overheid.nl
-*2024-01-10 20:57:20*
 ## Summary data
+
+
+**SSL Grade**:0
+**HTTP Security Grade**:61
 
 
 | File       | Count | Info |
@@ -19,10 +22,10 @@ permalink: /dutchgov/open-overheid.nl.html
 ## Statistics
 
 
-| Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
-|------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://feeds.open-overheid.nl](https://feeds.open-overheid.nl)| |nginx| |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx||
-|[https://mail.open-overheid.nl](https://mail.open-overheid.nl)| |Apache| | | | | | :white_check_mark: |Apache HTTP Server|Domein niet gevo...|
-|[https://opendata.open-overheid.nl](https://opendata.open-overheid.nl)| |nginx| |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx||
-|[https://www.open-overheid.nl](https://www.open-overheid.nl)| |nginx| |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Bloomreach HSTS Nginx|Home | Open Over...|
-|[https://open-overheid.nl](https://open-overheid.nl)| |nginx| |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx|301 Moved Perman...|
+| Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
+|--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
+|[https://feeds.open-overheid.nl](https://feeds.open-overheid.nl)| | **65**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
+|[https://mail.open-overheid.nl](https://mail.open-overheid.nl)| | **25**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|Domein niet gevo...|
+|[https://opendata.open-overheid.nl](https://opendata.open-overheid.nl)| | **65**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
+|[https://www.open-overheid.nl](https://www.open-overheid.nl)| | **75**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Home | Open Over...|
+|[https://open-overheid.nl](https://open-overheid.nl)| | **75**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|

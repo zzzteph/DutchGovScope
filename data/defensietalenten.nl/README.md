@@ -5,8 +5,11 @@ permalink: /dutchgov/defensietalenten.nl.html
 
 
 # defensietalenten.nl
-*2024-01-11 16:13:41*
 ## Summary data
+
+
+**SSL Grade**:0
+**HTTP Security Grade**:58.333333333333
 
 
 | File       | Count | Info |
@@ -19,8 +22,8 @@ permalink: /dutchgov/defensietalenten.nl.html
 ## Statistics
 
 
-| Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
-|------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://kvms.defensietalenten.nl](https://kvms.defensietalenten.nl)| |Apache/2.4.38 (Debian)| | | | | | :white_check_mark: |Apache HTTP Server:2.4.38 Debian PHP:8.1.20||
-|[https://www.defensietalenten.nl](https://www.defensietalenten.nl)| |Ponos Maximum| |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS||
-|[https://defensietalenten.nl](https://defensietalenten.nl)| |Ponos Maximum| |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS|Home - Defensie...|
+| Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
+|--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
+|[https://kvms.defensietalenten.nl](https://kvms.defensietalenten.nl)| | **25**|Apache/2.4.38 (Debian)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.38 Debian PHP:8.1.20||
+|[https://www.defensietalenten.nl](https://www.defensietalenten.nl)| | **75**|Ponos Maximum| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
+|[https://defensietalenten.nl](https://defensietalenten.nl)| | **75**|Ponos Maximum| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Home - Defensie...|

@@ -5,8 +5,11 @@ permalink: /dutchgov/a4burgerveen-n14.nl.html
 
 
 # a4burgerveen-n14.nl
-*2024-01-11 16:13:41*
 ## Summary data
+
+
+**SSL Grade**:0
+**HTTP Security Grade**:30
 
 
 | File       | Count | Info |
@@ -19,7 +22,7 @@ permalink: /dutchgov/a4burgerveen-n14.nl.html
 ## Statistics
 
 
-| Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
-|------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://www.a4burgerveen-n14.nl](https://www.a4burgerveen-n14.nl)| || | | | | | :white_check_mark: ||Document Moved|
-|[https://a4burgerveen-n14.nl](https://a4burgerveen-n14.nl)| || | | | | | :white_check_mark: ||Document Moved|
+| Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
+|--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
+|[https://www.a4burgerveen-n14.nl](https://www.a4burgerveen-n14.nl)| | **30**|| | | | | | | | :white_check_mark: | ||Document Moved|
+|[https://a4burgerveen-n14.nl](https://a4burgerveen-n14.nl)| | **30**|| | | | | | | | :white_check_mark: | ||Document Moved|

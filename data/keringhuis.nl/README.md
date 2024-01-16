@@ -5,8 +5,11 @@ permalink: /dutchgov/keringhuis.nl.html
 
 
 # keringhuis.nl
-*2024-01-11 16:13:45*
 ## Summary data
+
+
+**SSL Grade**:0
+**HTTP Security Grade**:41.666666666667
 
 
 | File       | Count | Info |
@@ -19,11 +22,11 @@ permalink: /dutchgov/keringhuis.nl.html
 ## Statistics
 
 
-| Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
-|------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://adressen.keringhuis.nl](https://adressen.keringhuis.nl)| |Apache| | | | | | :white_check_mark: |Apache HTTP Server Basic|401 Unauthorized|
-|[https://old.keringhuis.nl](https://old.keringhuis.nl)| |Apache/2.4.41 (Ubuntu)|:o: |:white_check_mark: | | | | :white_check_mark: |Apache HTTP Server:2.4.41 Ubuntu||
-|[https://www.keringhuis.nl](https://www.keringhuis.nl)| |Apache|:o: |:white_check_mark: | | | | :white_check_mark: |Apache HTTP Server HSTS PHP|Keringhuis|
-|[https://symposium.keringhuis.nl](https://symposium.keringhuis.nl)| |Apache/2.4.41 (Ubuntu)|:o: | | | :white_check_mark: | :white_check_mark: | :white_check_mark: |Apache HTTP Server:2.4.41 Bootstrap:4.6.0 PHP Ubuntu|Symposium Maesla...|
-|[https://www.symposium.keringhuis.nl](https://www.symposium.keringhuis.nl)| |Apache/2.4.41 (Ubuntu)|:o: | | | :white_check_mark: | :white_check_mark: | :white_check_mark: |Apache HTTP Server:2.4.41 Bootstrap:4.6.0 PHP Ubuntu|Symposium Maesla...|
-|[https://keringhuis.nl](https://keringhuis.nl)| |Apache|:o: |:white_check_mark: | | | | :white_check_mark: |Apache HTTP Server HSTS PHP|Keringhuis|
+| Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
+|--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
+|[https://adressen.keringhuis.nl](https://adressen.keringhuis.nl)| | **25**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server Basic|401 Unauthorized|
+|[https://old.keringhuis.nl](https://old.keringhuis.nl)| | **45**|Apache/2.4.41 (Ubuntu)|:o: |:white_check_mark: | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.41 Ubuntu||
+|[https://www.keringhuis.nl](https://www.keringhuis.nl)| | **45**|Apache|:o: |:white_check_mark: | | | | | | :white_check_mark: | |Apache HTTP Server HSTS PHP|Keringhuis|
+|[https://symposium.keringhuis.nl](https://symposium.keringhuis.nl)| | **45**|Apache/2.4.41 (Ubuntu)|:o: | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server:2.4.41 Bootstrap:4.6.0 PHP Ubuntu|Symposium Maesla...|
+|[https://www.symposium.keringhuis.nl](https://www.symposium.keringhuis.nl)| | **45**|Apache/2.4.41 (Ubuntu)|:o: | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server:2.4.41 Bootstrap:4.6.0 PHP Ubuntu|Symposium Maesla...|
+|[https://keringhuis.nl](https://keringhuis.nl)| | **45**|Apache|:o: |:white_check_mark: | | | | | | :white_check_mark: | |Apache HTTP Server HSTS PHP|Keringhuis|

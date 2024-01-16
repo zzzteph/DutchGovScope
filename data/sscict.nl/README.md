@@ -5,8 +5,11 @@ permalink: /dutchgov/sscict.nl.html
 
 
 # sscict.nl
-*2024-01-11 06:33:30*
 ## Summary data
+
+
+**SSL Grade**:0
+**HTTP Security Grade**:52.5
 
 
 | File       | Count | Info |
@@ -19,9 +22,9 @@ permalink: /dutchgov/sscict.nl.html
 ## Statistics
 
 
-| Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
-|------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://sscict.nl](https://sscict.nl)| |Microsoft-IIS/10.0| |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS IIS:10.0 Windows Server|Document Moved|
-|[https://www.sscict.nl](https://www.sscict.nl)| |Microsoft-IIS/10.0| |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS IIS:10.0 Windows Server|Document Moved|
-|[https://idtappp01.sscict.nl](https://idtappp01.sscict.nl)| || | | | | | :white_check_mark: ||| (403)|
-|[https://idtappa01.sscict.nl](https://idtappa01.sscict.nl)| || | | | | | :white_check_mark: ||| (403)|
+| Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
+|--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
+|[https://sscict.nl](https://sscict.nl)| | **75**|Microsoft-IIS/10.0| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS IIS:10.0 Windows Server|Document Moved|
+|[https://www.sscict.nl](https://www.sscict.nl)| | **75**|Microsoft-IIS/10.0| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS IIS:10.0 Windows Server|Document Moved|
+|[https://idtappp01.sscict.nl](https://idtappp01.sscict.nl)| | **30**|| | | | | | | | :white_check_mark: | ||| (403)|
+|[https://idtappa01.sscict.nl](https://idtappa01.sscict.nl)| | **30**|| | | | | | | | :white_check_mark: | ||| (403)|

@@ -5,8 +5,11 @@ permalink: /dutchgov/werkenbijhetcjib.nl.html
 
 
 # werkenbijhetcjib.nl
-*2024-01-11 16:13:45*
 ## Summary data
+
+
+**SSL Grade**:0
+**HTTP Security Grade**:89
 
 
 | File       | Count | Info |
@@ -19,6 +22,6 @@ permalink: /dutchgov/werkenbijhetcjib.nl.html
 ## Statistics
 
 
-| Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
-|------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://werkenbijhetcjib.nl](https://werkenbijhetcjib.nl)| |nginx|:white_check_mark: |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Drupal:10 HSTS Nginx PHP|Home | Werken bi...|
+| Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
+|--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
+|[https://werkenbijhetcjib.nl](https://werkenbijhetcjib.nl)| | **89**|nginx|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Drupal:10 HSTS Nginx PHP|Home | Werken bi...|

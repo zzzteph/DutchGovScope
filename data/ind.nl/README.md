@@ -5,8 +5,11 @@ permalink: /dutchgov/ind.nl.html
 
 
 # ind.nl
-*2024-01-11 16:13:40*
 ## Summary data
+
+
+**SSL Grade**:0
+**HTTP Security Grade**:67.916666666667
 
 
 | File       | Count | Info |
@@ -19,17 +22,17 @@ permalink: /dutchgov/ind.nl.html
 ## Statistics
 
 
-| Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
-|------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://academie.ind.nl](https://academie.ind.nl)| |Microsoft-IIS/10.0|:white_check_mark: |:white_check_mark: |:warning: | | :white_check_mark: | :white_check_mark: |IIS:10.0 Windows Server|Document Moved|
-|[https://beheer.chat.ind.nl](https://beheer.chat.ind.nl)| |awselb/2.0| | | | | | :white_check_mark: |Amazon ELB Amazon Web Services|403 Forbidden|
-|[https://chat.ind.nl](https://chat.ind.nl)| |nginx| | | | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx|301 Moved Perman...|
-|[https://ediensten.ind.nl](https://ediensten.ind.nl)| |Apache|:white_check_mark: |:white_check_mark: | :white_check_mark:| :white_check_mark: | | :white_check_mark: |Apache HTTP Server HSTS|A-Select Filter...|
-|[https://eforms.ind.nl](https://eforms.ind.nl)| ||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: |HSTS||
-|[https://oap.ind.nl](https://oap.ind.nl)| |Apache|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: |Apache HTTP Server HSTS|403 Forbidden|
-|[https://public.portal.ind.nl](https://public.portal.ind.nl)| ||:white_check_mark: |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Java|Portaal Zakelijk...|
-|[https://statistics.ind.nl](https://statistics.ind.nl)| || |:white_check_mark: | | :white_check_mark: | | :white_check_mark: |HSTS||
-|[https://www.ind.nl](https://www.ind.nl)| |nginx| |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx|301 Moved Perman...|
-|[https://www.academie.ind.nl](https://www.academie.ind.nl)| |Class|:white_check_mark: |:white_check_mark: |:warning: | | :white_check_mark: | :white_check_mark: |HSTS||
-|[https://ind.nl](https://ind.nl)| |nginx| |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Drupal HSTS Nginx PHP|Redirecting to h...|
-|[https://xmpp.chat.ind.nl](https://xmpp.chat.ind.nl)| || |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS|301 Moved Perman...|
+| Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
+|--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
+|[https://academie.ind.nl](https://academie.ind.nl)| | **79**|Microsoft-IIS/10.0|:white_check_mark: |:white_check_mark: | | |:warning: | | :white_check_mark: | :white_check_mark: | |IIS:10.0 Windows Server|Document Moved|
+|[https://beheer.chat.ind.nl](https://beheer.chat.ind.nl)| | **25**|awselb/2.0| | | | | | | | :white_check_mark: | |Amazon ELB Amazon Web Services|403 Forbidden|
+|[https://chat.ind.nl](https://chat.ind.nl)| | **45**|nginx| | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
+|[https://ediensten.ind.nl](https://ediensten.ind.nl)| | **84**|Apache|:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS|A-Select Filter...|
+|[https://eforms.ind.nl](https://eforms.ind.nl)| | **70**||:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
+|[https://oap.ind.nl](https://oap.ind.nl)| | **59**|Apache|:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|403 Forbidden|
+|[https://public.portal.ind.nl](https://public.portal.ind.nl)| | **94**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Java|Portaal Zakelijk...|
+|[https://statistics.ind.nl](https://statistics.ind.nl)| | **60**|| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS||
+|[https://www.ind.nl](https://www.ind.nl)| | **75**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
+|[https://www.academie.ind.nl](https://www.academie.ind.nl)| | **79**|Class|:white_check_mark: |:white_check_mark: | | |:warning: | | :white_check_mark: | :white_check_mark: | |HSTS||
+|[https://ind.nl](https://ind.nl)| | **75**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Drupal HSTS Nginx PHP|Redirecting to h...|
+|[https://xmpp.chat.ind.nl](https://xmpp.chat.ind.nl)| | **70**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|301 Moved Perman...|

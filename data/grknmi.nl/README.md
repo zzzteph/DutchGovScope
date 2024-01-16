@@ -5,8 +5,11 @@ permalink: /dutchgov/grknmi.nl.html
 
 
 # grknmi.nl
-*2024-01-11 16:13:44*
 ## Summary data
+
+
+**SSL Grade**:0
+**HTTP Security Grade**:25
 
 
 | File       | Count | Info |
@@ -19,8 +22,8 @@ permalink: /dutchgov/grknmi.nl.html
 ## Statistics
 
 
-| Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
-|------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://grknmi.nl](https://grknmi.nl)| |Apache/2| | | | | | :white_check_mark: |Apache HTTP Server:2 PHP:7.2.34|Welkom bij de ge...|
-|[https://www.grknmi.nl](https://www.grknmi.nl)| |Apache/2| | | | | | :white_check_mark: |Apache HTTP Server:2 PHP:7.2.34|Welkom bij de ge...|
-|[https://mail.grknmi.nl](https://mail.grknmi.nl)| |Apache/2| | | | | | :white_check_mark: |Apache HTTP Server:2||
+| Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
+|--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
+|[https://grknmi.nl](https://grknmi.nl)| | **25**|Apache/2| | | | | | | | :white_check_mark: | |Apache HTTP Server:2 PHP:7.2.34|Welkom bij de ge...|
+|[https://www.grknmi.nl](https://www.grknmi.nl)| | **25**|Apache/2| | | | | | | | :white_check_mark: | |Apache HTTP Server:2 PHP:7.2.34|Welkom bij de ge...|
+|[https://mail.grknmi.nl](https://mail.grknmi.nl)| | **25**|Apache/2| | | | | | | | :white_check_mark: | |Apache HTTP Server:2||

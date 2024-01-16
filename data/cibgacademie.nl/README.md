@@ -5,8 +5,11 @@ permalink: /dutchgov/cibgacademie.nl.html
 
 
 # cibgacademie.nl
-*2024-01-11 16:13:42*
 ## Summary data
+
+
+**SSL Grade**:0
+**HTTP Security Grade**:27.5
 
 
 | File       | Count | Info |
@@ -19,7 +22,7 @@ permalink: /dutchgov/cibgacademie.nl.html
 ## Statistics
 
 
-| Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
-|------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://www.cibgacademie.nl](https://www.cibgacademie.nl)| || | | | | | :white_check_mark: |HSTS|301 Moved Perman...|
-|[https://cibgacademie.nl](https://cibgacademie.nl)| |openresty/1.7.10.1| | | | | | :white_check_mark: |HSTS Nginx OpenResty:1.7.10.1|301 Moved Perman...|
+| Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
+|--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
+|[https://www.cibgacademie.nl](https://www.cibgacademie.nl)| | **30**|| | | | | | | | :white_check_mark: | |HSTS|301 Moved Perman...|
+|[https://cibgacademie.nl](https://cibgacademie.nl)| | **25**|openresty/1.7.10.1| | | | | | | | :white_check_mark: | |HSTS Nginx OpenResty:1.7.10.1|301 Moved Perman...|

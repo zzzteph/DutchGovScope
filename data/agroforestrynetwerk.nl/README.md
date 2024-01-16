@@ -5,8 +5,11 @@ permalink: /dutchgov/agroforestrynetwerk.nl.html
 
 
 # agroforestrynetwerk.nl
-*2024-01-11 16:13:45*
 ## Summary data
+
+
+**SSL Grade**:0
+**HTTP Security Grade**:45
 
 
 | File       | Count | Info |
@@ -19,9 +22,9 @@ permalink: /dutchgov/agroforestrynetwerk.nl.html
 ## Statistics
 
 
-| Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
-|------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://kennisbank.agroforestrynetwerk.nl](https://kennisbank.agroforestrynetwerk.nl)| |nginx/1.18.0 (Ubuntu)| | | | | | :white_check_mark: |MySQL Nginx:1.18.0 PHP Ubuntu WordPress Yoast SEO:21.8|Agroforestry Ken...|
-|[https://agroforestrynetwerk.nl](https://agroforestrynetwerk.nl)| |nginx/1.18.0 (Ubuntu)| |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx:1.18.0 PHP Pimcore Ubuntu|Redirecting to h...|
-|[https://staging.agroforestrynetwerk.nl](https://staging.agroforestrynetwerk.nl)| |nginx/1.18.0 (Ubuntu)| | | | | | :white_check_mark: |HSTS Nginx:1.18.0 PHP Pimcore Ubuntu|Redirecting to h...|
-|[https://www.agroforestrynetwerk.nl](https://www.agroforestrynetwerk.nl)| |nginx/1.18.0 (Ubuntu)| |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx:1.18.0 PHP Pimcore Ubuntu|Agroforestry Net...|
+| Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
+|--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
+|[https://kennisbank.agroforestrynetwerk.nl](https://kennisbank.agroforestrynetwerk.nl)| | **25**|nginx/1.18.0 (Ubuntu)| | | | | | | | :white_check_mark: | |MySQL Nginx:1.18.0 PHP Ubuntu WordPress Yoast SEO:21.8|Agroforestry Ken...|
+|[https://agroforestrynetwerk.nl](https://agroforestrynetwerk.nl)| | **65**|nginx/1.18.0 (Ubuntu)| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx:1.18.0 PHP Pimcore Ubuntu|Redirecting to h...|
+|[https://staging.agroforestrynetwerk.nl](https://staging.agroforestrynetwerk.nl)| | **25**|nginx/1.18.0 (Ubuntu)| | | | | | | | :white_check_mark: | |HSTS Nginx:1.18.0 PHP Pimcore Ubuntu|Redirecting to h...|
+|[https://www.agroforestrynetwerk.nl](https://www.agroforestrynetwerk.nl)| | **65**|nginx/1.18.0 (Ubuntu)| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx:1.18.0 PHP Pimcore Ubuntu|Agroforestry Net...|

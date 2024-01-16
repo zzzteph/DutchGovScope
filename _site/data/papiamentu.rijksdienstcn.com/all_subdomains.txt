@@ -1,0 +1,5 @@
+opendata.papiamentu.rijksdienstcn.com
+feeds.papiamentu.rijksdienstcn.com
+magazinesintern.papiamentu.rijksdienstcn.com
+magazines.papiamentu.rijksdienstcn.com
+papiamentu.rijksdienstcn.com

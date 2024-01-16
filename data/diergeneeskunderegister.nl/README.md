@@ -5,8 +5,11 @@ permalink: /dutchgov/diergeneeskunderegister.nl.html
 
 
 # diergeneeskunderegister.nl
-*2024-01-14 02:24:09*
 ## Summary data
+
+
+**SSL Grade**:93.333333333333
+**HTTP Security Grade**:74.166666666667
 
 
 | File       | Count | Info |
@@ -19,17 +22,17 @@ permalink: /dutchgov/diergeneeskunderegister.nl.html
 ## Statistics
 
 
-| Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
-|------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://acceptatie.beheer.diergeneeskunderegister.nl](https://acceptatie.beheer.diergeneeskunderegister.nl)| $${\color{green}A}$$ |-| |:white_check_mark: | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS||
-|[https://acceptatie.mijn.diergeneeskunderegister.nl](https://acceptatie.mijn.diergeneeskunderegister.nl)| $${\color{green}A}$$ |-| |:white_check_mark: | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS||
-|[https://acceptatie.webservices.diergeneeskunderegister.nl](https://acceptatie.webservices.diergeneeskunderegister.nl)| $${\color{green}A}$$ |-| |:white_check_mark: | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS||
-|[https://acceptatie.zoeken.diergeneeskunderegister.nl](https://acceptatie.zoeken.diergeneeskunderegister.nl)| $${\color{green}A}$$ |-| |:white_check_mark: | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS||
-|[https://beheer.diergeneeskunderegister.nl](https://beheer.diergeneeskunderegister.nl)| $${\color{green}A}$$ |-| |:white_check_mark: | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS||
-|[https://feeds.diergeneeskunderegister.nl](https://feeds.diergeneeskunderegister.nl)| $${\color{green}A+}$$ |nginx| |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx||
-|[https://mijn.diergeneeskunderegister.nl](https://mijn.diergeneeskunderegister.nl)| $${\color{green}A}$$ |-| |:white_check_mark: | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS|Mijn Diergeneesk...|
-|[https://opendata.diergeneeskunderegister.nl](https://opendata.diergeneeskunderegister.nl)| $${\color{green}A+}$$ |nginx| |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx||
-|[https://webservices.diergeneeskunderegister.nl](https://webservices.diergeneeskunderegister.nl)| $${\color{green}A}$$ |-| |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS||
-|[https://www.diergeneeskunderegister.nl](https://www.diergeneeskunderegister.nl)| $${\color{green}A+}$$ |nginx| |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Bloomreach HSTS Nginx|Home | Diergenee...|
-|[https://zoeken.diergeneeskunderegister.nl](https://zoeken.diergeneeskunderegister.nl)| $${\color{green}A}$$ |-|:white_check_mark: |:white_check_mark: | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Microsoft ASP.NET|Diergeneeskunder...|
-|[https://diergeneeskunderegister.nl](https://diergeneeskunderegister.nl)| $${\color{green}A+}$$ |nginx| |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx|301 Moved Perman...|
+| Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
+|--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
+|[https://acceptatie.beheer.diergeneeskunderegister.nl](https://acceptatie.beheer.diergeneeskunderegister.nl)| **A**| **80**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
+|[https://acceptatie.mijn.diergeneeskunderegister.nl](https://acceptatie.mijn.diergeneeskunderegister.nl)| **A**| **80**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
+|[https://acceptatie.webservices.diergeneeskunderegister.nl](https://acceptatie.webservices.diergeneeskunderegister.nl)| **A**| **80**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
+|[https://acceptatie.zoeken.diergeneeskunderegister.nl](https://acceptatie.zoeken.diergeneeskunderegister.nl)| **A**| **80**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
+|[https://beheer.diergeneeskunderegister.nl](https://beheer.diergeneeskunderegister.nl)| **A**| **80**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
+|[https://feeds.diergeneeskunderegister.nl](https://feeds.diergeneeskunderegister.nl)| **A+**| **65**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
+|[https://mijn.diergeneeskunderegister.nl](https://mijn.diergeneeskunderegister.nl)| **A**| **80**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
+|[https://opendata.diergeneeskunderegister.nl](https://opendata.diergeneeskunderegister.nl)| **A+**| **65**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
+|[https://webservices.diergeneeskunderegister.nl](https://webservices.diergeneeskunderegister.nl)| **A**| **65**|-| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
+|[https://www.diergeneeskunderegister.nl](https://www.diergeneeskunderegister.nl)| **A+**| **75**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Home | Diergenee...|
+|[https://zoeken.diergeneeskunderegister.nl](https://zoeken.diergeneeskunderegister.nl)| **A**| **65**|-| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET|Diergeneeskunder...|
+|[https://diergeneeskunderegister.nl](https://diergeneeskunderegister.nl)| **A+**| **75**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|

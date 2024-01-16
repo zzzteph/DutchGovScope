@@ -5,8 +5,11 @@ permalink: /dutchgov/veiliginternetten.nl.html
 
 
 # veiliginternetten.nl
-*2024-01-11 16:13:40*
 ## Summary data
+
+
+**SSL Grade**:0
+**HTTP Security Grade**:45.833333333333
 
 
 | File       | Count | Info |
@@ -19,11 +22,11 @@ permalink: /dutchgov/veiliginternetten.nl.html
 ## Statistics
 
 
-| Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
-|------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://check.veiliginternetten.nl](https://check.veiliginternetten.nl)| |cloudflare| |:white_check_mark: | | :white_check_mark: | | :white_check_mark: |Cloudflare HSTS HTTP/3|Just a moment...|
-|[https://enquete.veiliginternetten.nl](https://enquete.veiliginternetten.nl)| || |:white_check_mark: | | :white_check_mark: | | :white_check_mark: |Amazon CloudFront Amazon Web Services HSTS|Object moved|
-|[https://mailing.veiliginternetten.nl](https://mailing.veiliginternetten.nl)| |nginx| | | | | | :white_check_mark: |Nginx||
-|[https://vs6844.veiliginternetten.nl](https://vs6844.veiliginternetten.nl)| |Apache| | | | | | :white_check_mark: |Apache HTTP Server HSTS|301 Moved Perman...|
-|[https://www.veiliginternetten.nl](https://www.veiliginternetten.nl)| |Apache| |:white_check_mark: | | :white_check_mark: | | :white_check_mark: |Apache HTTP Server HSTS|301 Moved Perman...|
-|[https://veiliginternetten.nl](https://veiliginternetten.nl)| |Apache| |:white_check_mark: | | :white_check_mark: | | :white_check_mark: |Apache HTTP Server Bootstrap HSTS|Antwoord op vrag...|
+| Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
+|--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
+|[https://check.veiliginternetten.nl](https://check.veiliginternetten.nl)| | **55**|cloudflare| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Cloudflare HSTS HTTP/3|Just a moment...|
+|[https://enquete.veiliginternetten.nl](https://enquete.veiliginternetten.nl)| | **60**|| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Amazon CloudFront Amazon Web Services HSTS|Object moved|
+|[https://mailing.veiliginternetten.nl](https://mailing.veiliginternetten.nl)| | **25**|nginx| | | | | | | | :white_check_mark: | |Nginx||
+|[https://vs6844.veiliginternetten.nl](https://vs6844.veiliginternetten.nl)| | **25**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|301 Moved Perman...|
+|[https://www.veiliginternetten.nl](https://www.veiliginternetten.nl)| | **55**|Apache| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS|301 Moved Perman...|
+|[https://veiliginternetten.nl](https://veiliginternetten.nl)| | **55**|Apache| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server Bootstrap HSTS|Antwoord op vrag...|

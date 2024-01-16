@@ -5,8 +5,11 @@ permalink: /dutchgov/mobilityhappiness.nl.html
 
 
 # mobilityhappiness.nl
-*2024-01-11 16:13:45*
 ## Summary data
+
+
+**SSL Grade**:0
+**HTTP Security Grade**:25
 
 
 | File       | Count | Info |
@@ -19,11 +22,11 @@ permalink: /dutchgov/mobilityhappiness.nl.html
 ## Statistics
 
 
-| Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
-|------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://development.mobilityhappiness.nl](https://development.mobilityhappiness.nl)| |nginx| | | | | | :white_check_mark: |Nginx||
-|[https://mobiliteitsalliantie.mobilityhappiness.nl](https://mobiliteitsalliantie.mobilityhappiness.nl)| |nginx| | | | | | :white_check_mark: |Nginx||
-|[https://www.mobilityhappiness.nl](https://www.mobilityhappiness.nl)| |nginx| | | | | | :white_check_mark: |Nginx||
-|[https://www.development.mobilityhappiness.nl](https://www.development.mobilityhappiness.nl)| |nginx| | | | | | :white_check_mark: |Nginx||
-|[https://www.mobiliteitsalliantie.mobilityhappiness.nl](https://www.mobiliteitsalliantie.mobilityhappiness.nl)| |nginx| | | | | | :white_check_mark: |Nginx||
-|[https://mobilityhappiness.nl](https://mobilityhappiness.nl)| |nginx| | | | | | :white_check_mark: |Nginx||
+| Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
+|--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
+|[https://development.mobilityhappiness.nl](https://development.mobilityhappiness.nl)| | **25**|nginx| | | | | | | | :white_check_mark: | |Nginx||
+|[https://mobiliteitsalliantie.mobilityhappiness.nl](https://mobiliteitsalliantie.mobilityhappiness.nl)| | **25**|nginx| | | | | | | | :white_check_mark: | |Nginx||
+|[https://www.mobilityhappiness.nl](https://www.mobilityhappiness.nl)| | **25**|nginx| | | | | | | | :white_check_mark: | |Nginx||
+|[https://www.development.mobilityhappiness.nl](https://www.development.mobilityhappiness.nl)| | **25**|nginx| | | | | | | | :white_check_mark: | |Nginx||
+|[https://www.mobiliteitsalliantie.mobilityhappiness.nl](https://www.mobiliteitsalliantie.mobilityhappiness.nl)| | **25**|nginx| | | | | | | | :white_check_mark: | |Nginx||
+|[https://mobilityhappiness.nl](https://mobilityhappiness.nl)| | **25**|nginx| | | | | | | | :white_check_mark: | |Nginx||

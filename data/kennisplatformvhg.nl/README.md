@@ -5,8 +5,11 @@ permalink: /dutchgov/kennisplatformvhg.nl.html
 
 
 # kennisplatformvhg.nl
-*2024-01-11 16:13:41*
 ## Summary data
+
+
+**SSL Grade**:0
+**HTTP Security Grade**:37.5
 
 
 | File       | Count | Info |
@@ -19,7 +22,7 @@ permalink: /dutchgov/kennisplatformvhg.nl.html
 ## Statistics
 
 
-| Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
-|------------|-------|------|------|------|------|------|------|------|------|------|
-|[http://www.kennisplatformvhg.nl](http://www.kennisplatformvhg.nl)| || | | | | | :white_check_mark: |||
-|[https://kennisplatformvhg.nl](https://kennisplatformvhg.nl)| |Apache| |:white_check_mark: | | | | :white_check_mark: |Apache HTTP Server HSTS||
+| Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
+|--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
+|[http://www.kennisplatformvhg.nl](http://www.kennisplatformvhg.nl)| | **30**|| | | | | | | | :white_check_mark: | |||
+|[https://kennisplatformvhg.nl](https://kennisplatformvhg.nl)| | **45**|Apache| |:white_check_mark: | | | | | | :white_check_mark: | |Apache HTTP Server HSTS||

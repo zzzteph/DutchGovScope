@@ -5,8 +5,11 @@ permalink: /dutchgov/commissiemijnbouwschade.nl.html
 
 
 # commissiemijnbouwschade.nl
-*2024-01-14 01:21:05*
 ## Summary data
+
+
+**SSL Grade**:100
+**HTTP Security Grade**:72.8
 
 
 | File       | Count | Info |
@@ -19,10 +22,10 @@ permalink: /dutchgov/commissiemijnbouwschade.nl.html
 ## Statistics
 
 
-| Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
-|------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://feeds.commissiemijnbouwschade.nl](https://feeds.commissiemijnbouwschade.nl)| $${\color{green}A+}$$ |nginx| |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx||
-|[https://mijnloket.commissiemijnbouwschade.nl](https://mijnloket.commissiemijnbouwschade.nl)| $${\color{green}A+}$$ ||:white_check_mark: |:white_check_mark: |:warning: | :white_check_mark: | | :white_check_mark: |HSTS Java||
-|[https://opendata.commissiemijnbouwschade.nl](https://opendata.commissiemijnbouwschade.nl)| $${\color{green}A+}$$ |nginx| |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx||
-|[https://www.commissiemijnbouwschade.nl](https://www.commissiemijnbouwschade.nl)| $${\color{green}A+}$$ |nginx| |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Bloomreach HSTS Nginx|Home | Commissie...|
-|[https://commissiemijnbouwschade.nl](https://commissiemijnbouwschade.nl)| $${\color{green}A+}$$ |nginx| |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx|301 Moved Perman...|
+| Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
+|--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
+|[https://feeds.commissiemijnbouwschade.nl](https://feeds.commissiemijnbouwschade.nl)| **A+**| **65**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
+|[https://mijnloket.commissiemijnbouwschade.nl](https://mijnloket.commissiemijnbouwschade.nl)| **A+**| **84**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS Java||
+|[https://opendata.commissiemijnbouwschade.nl](https://opendata.commissiemijnbouwschade.nl)| **A+**| **65**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
+|[https://www.commissiemijnbouwschade.nl](https://www.commissiemijnbouwschade.nl)| **A+**| **75**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Home | Commissie...|
+|[https://commissiemijnbouwschade.nl](https://commissiemijnbouwschade.nl)| **A+**| **75**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||

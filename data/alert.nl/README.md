@@ -5,13 +5,16 @@ permalink: /dutchgov/alert.nl.html
 
 
 # alert.nl
-*2024-01-14 18:27:12*
 ## Summary data
+
+
+**SSL Grade**:0
+**HTTP Security Grade**:0
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/alert.nl/subdomains.txt)|0|Alive subdomains|
+|[subdomains.txt](/data/alert.nl/subdomains.txt)|24|Alive subdomains|
 |[urls.txt](/data/alert.nl/urls.txt)|0|Urls|
 |[all_subdomains.txt](/data/alert.nl/all_subdomains.txt)|24|All found subdomains (history)|
 
@@ -19,5 +22,5 @@ permalink: /dutchgov/alert.nl.html
 ## Statistics
 
 
-| Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
-|------------|-------|------|------|------|------|------|------|------|------|------|
+| Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
+|--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|

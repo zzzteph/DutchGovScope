@@ -5,8 +5,11 @@ permalink: /dutchgov/jonglereneten.nl.html
 
 
 # jonglereneten.nl
-*2024-01-11 16:13:37*
 ## Summary data
+
+
+**SSL Grade**:0
+**HTTP Security Grade**:47
 
 
 | File       | Count | Info |
@@ -19,10 +22,10 @@ permalink: /dutchgov/jonglereneten.nl.html
 ## Statistics
 
 
-| Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
-|------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://acc.jonglereneten.nl](https://acc.jonglereneten.nl)| |nginx| | | | | | :white_check_mark: |Basic Nginx|401 Authorizatio...|
-|[https://test.jonglereneten.nl](https://test.jonglereneten.nl)| |nginx| | | | | | :white_check_mark: |Basic Nginx|401 Authorizatio...|
-|[https://www.jonglereneten.nl](https://www.jonglereneten.nl)| |nginx| |:white_check_mark: | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: |Bootstrap Drupal:10 HSTS Nginx PHP Slick YouTube jQuery|Wat is Jong Lere...|
-|[https://jonglereneten.nl](https://jonglereneten.nl)| |nginx| |:white_check_mark: | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx|301 Moved Perman...|
-|[https://prod.jonglereneten.nl](https://prod.jonglereneten.nl)| |nginx| | | | | | :white_check_mark: |HSTS Nginx|301 Moved Perman...|
+| Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
+|--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
+|[https://acc.jonglereneten.nl](https://acc.jonglereneten.nl)| | **25**|nginx| | | | | | | | :white_check_mark: | |Basic Nginx|401 Authorizatio...|
+|[https://test.jonglereneten.nl](https://test.jonglereneten.nl)| | **25**|nginx| | | | | | | | :white_check_mark: | |Basic Nginx|401 Authorizatio...|
+|[https://www.jonglereneten.nl](https://www.jonglereneten.nl)| | **80**|nginx| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bootstrap Drupal:10 HSTS Nginx PHP Slick YouTube jQuery|Wat is Jong Lere...|
+|[https://jonglereneten.nl](https://jonglereneten.nl)| | **80**|nginx| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
+|[https://prod.jonglereneten.nl](https://prod.jonglereneten.nl)| | **25**|nginx| | | | | | | | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|

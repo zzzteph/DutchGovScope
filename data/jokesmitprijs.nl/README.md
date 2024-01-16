@@ -5,8 +5,11 @@ permalink: /dutchgov/jokesmitprijs.nl.html
 
 
 # jokesmitprijs.nl
-*2024-01-11 16:13:42*
 ## Summary data
+
+
+**SSL Grade**:0
+**HTTP Security Grade**:87
 
 
 | File       | Count | Info |
@@ -19,7 +22,7 @@ permalink: /dutchgov/jokesmitprijs.nl.html
 ## Statistics
 
 
-| Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
-|------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://www.jokesmitprijs.nl](https://www.jokesmitprijs.nl)| |Microsoft-IIS/10.0|:warning: |:white_check_mark: | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: |Bootstrap:4.0.0 HSTS IIS:10.0 Windows Server YouTube|Joke Smitprijs 2...|
-|[https://jokesmitprijs.nl](https://jokesmitprijs.nl)| |Microsoft-IIS/10.0|:warning: |:white_check_mark: | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: |Bootstrap:4.0.0 HSTS IIS:10.0 Windows Server YouTube|Joke Smitprijs 2...|
+| Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
+|--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
+|[https://www.jokesmitprijs.nl](https://www.jokesmitprijs.nl)| | **87**|Microsoft-IIS/10.0|:warning: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bootstrap:4.0.0 HSTS IIS:10.0 Windows Server YouTube|Joke Smitprijs 2...|
+|[https://jokesmitprijs.nl](https://jokesmitprijs.nl)| | **87**|Microsoft-IIS/10.0|:warning: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bootstrap:4.0.0 HSTS IIS:10.0 Windows Server YouTube|Joke Smitprijs 2...|

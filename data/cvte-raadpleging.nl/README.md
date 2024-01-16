@@ -5,8 +5,11 @@ permalink: /dutchgov/cvte-raadpleging.nl.html
 
 
 # cvte-raadpleging.nl
-*2024-01-11 16:13:44*
 ## Summary data
+
+
+**SSL Grade**:0
+**HTTP Security Grade**:26
 
 
 | File       | Count | Info |
@@ -19,10 +22,10 @@ permalink: /dutchgov/cvte-raadpleging.nl.html
 ## Statistics
 
 
-| Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
-|------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://2018.cvte-raadpleging.nl](https://2018.cvte-raadpleging.nl)| |nginx| | | | | | :white_check_mark: |HSTS Nginx|404 Not Found|
-|[https://nieuwsbrief.cvte-raadpleging.nl](https://nieuwsbrief.cvte-raadpleging.nl)| || | | | | | :white_check_mark: ||404 Not Found|
-|[https://www.cvte-raadpleging.nl](https://www.cvte-raadpleging.nl)| |nginx| | | | | | :white_check_mark: |HSTS Nginx|404 Not Found|
-|[https://cvte-raadpleging.nl](https://cvte-raadpleging.nl)| |nginx| | | | | | :white_check_mark: |HSTS Nginx|404 Not Found|
-|[https://18.cvte-raadpleging.nl](https://18.cvte-raadpleging.nl)| |nginx| | | | | | :white_check_mark: |HSTS Nginx|404 Not Found|
+| Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
+|--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
+|[https://2018.cvte-raadpleging.nl](https://2018.cvte-raadpleging.nl)| | **25**|nginx| | | | | | | | :white_check_mark: | |HSTS Nginx|404 Not Found|
+|[https://nieuwsbrief.cvte-raadpleging.nl](https://nieuwsbrief.cvte-raadpleging.nl)| | **30**|| | | | | | | | :white_check_mark: | ||404 Not Found|
+|[https://www.cvte-raadpleging.nl](https://www.cvte-raadpleging.nl)| | **25**|nginx| | | | | | | | :white_check_mark: | |HSTS Nginx|404 Not Found|
+|[https://cvte-raadpleging.nl](https://cvte-raadpleging.nl)| | **25**|nginx| | | | | | | | :white_check_mark: | |HSTS Nginx|404 Not Found|
+|[https://18.cvte-raadpleging.nl](https://18.cvte-raadpleging.nl)| | **25**|nginx| | | | | | | | :white_check_mark: | |HSTS Nginx|404 Not Found|

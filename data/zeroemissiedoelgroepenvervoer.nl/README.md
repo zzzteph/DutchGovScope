@@ -5,8 +5,11 @@ permalink: /dutchgov/zeroemissiedoelgroepenvervoer.nl.html
 
 
 # zeroemissiedoelgroepenvervoer.nl
-*2024-01-11 16:13:44*
 ## Summary data
+
+
+**SSL Grade**:0
+**HTTP Security Grade**:30
 
 
 | File       | Count | Info |
@@ -19,7 +22,7 @@ permalink: /dutchgov/zeroemissiedoelgroepenvervoer.nl.html
 ## Statistics
 
 
-| Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
-|------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://www.zeroemissiedoelgroepenvervoer.nl](https://www.zeroemissiedoelgroepenvervoer.nl)| || | | | | | :white_check_mark: ||Object moved per...|
-|[https://zeroemissiedoelgroepenvervoer.nl](https://zeroemissiedoelgroepenvervoer.nl)| || | | | | | :white_check_mark: ||Object moved per...|
+| Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
+|--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
+|[https://www.zeroemissiedoelgroepenvervoer.nl](https://www.zeroemissiedoelgroepenvervoer.nl)| | **30**|| | | | | | | | :white_check_mark: | ||Object moved per...|
+|[https://zeroemissiedoelgroepenvervoer.nl](https://zeroemissiedoelgroepenvervoer.nl)| | **30**|| | | | | | | | :white_check_mark: | ||Object moved per...|

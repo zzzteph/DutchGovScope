@@ -5,8 +5,11 @@ permalink: /dutchgov/business.gov.nl.html
 
 
 # business.gov.nl
-*2024-01-10 20:57:10*
 ## Summary data
+
+
+**SSL Grade**:70
+**HTTP Security Grade**:54
 
 
 | File       | Count | Info |
@@ -19,10 +22,10 @@ permalink: /dutchgov/business.gov.nl.html
 ## Statistics
 
 
-| Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
-|------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://www.business.gov.nl](https://www.business.gov.nl)| || | | | | | :white_check_mark: |||
-|[https://opendata.business.gov.nl](https://opendata.business.gov.nl)| $${\color{lightgreen}B}$$ || |:white_check_mark: | | :white_check_mark: | | :white_check_mark: |HSTS||
-|[https://search.business.gov.nl](https://search.business.gov.nl)| $${\color{lightgreen}B}$$ || |:white_check_mark: | | :white_check_mark: | | :white_check_mark: |HSTS||
-|[https://api.business.gov.nl](https://api.business.gov.nl)| $${\color{lightgreen}B}$$ || |:white_check_mark: | | :white_check_mark: | | :white_check_mark: |HSTS||
-|[https://business.gov.nl](https://business.gov.nl)| $${\color{lightgreen}B}$$ || |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |Bloomreach Google Tag Manager HSTS React|Business.gov.nl...|
+| Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
+|--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
+|[https://www.business.gov.nl](https://www.business.gov.nl)| | **30**|| | | | | | | | :white_check_mark: | |||
+|[https://opendata.business.gov.nl](https://opendata.business.gov.nl)| **B**| **60**|| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS||
+|[https://search.business.gov.nl](https://search.business.gov.nl)| **B**| **50**|| |:white_check_mark: | :warning:| | | :white_check_mark: | | :white_check_mark: | |HSTS||
+|[https://api.business.gov.nl](https://api.business.gov.nl)| **B**| **60**|| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS||
+|[https://business.gov.nl](https://business.gov.nl)| **B**| **70**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach Google Tag Manager HSTS React|Business.gov.nl...|

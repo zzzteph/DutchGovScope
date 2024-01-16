@@ -5,8 +5,11 @@ permalink: /dutchgov/minlnv.nl.html
 
 
 # minlnv.nl
-*2024-01-10 20:57:18*
 ## Summary data
+
+
+**SSL Grade**:0
+**HTTP Security Grade**:76
 
 
 | File       | Count | Info |
@@ -19,11 +22,11 @@ permalink: /dutchgov/minlnv.nl.html
 ## Statistics
 
 
-| Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
-|------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://www.minlnv.nl](https://www.minlnv.nl)| || |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |||
-|[https://client-export-acc.minlnv.nl](https://client-export-acc.minlnv.nl)| ||:white_check_mark: |:white_check_mark: | | | :white_check_mark: | :white_check_mark: |||
-|[https://e-certnl-acc.minlnv.nl](https://e-certnl-acc.minlnv.nl)| ||:white_check_mark: |:white_check_mark: | | | :white_check_mark: | :white_check_mark: |||
-|[https://client-export.minlnv.nl](https://client-export.minlnv.nl)| ||:white_check_mark: |:white_check_mark: | | :white_check_mark: | | :white_check_mark: |HSTS|Error 404--Not F...|
-|[https://minlnv.nl](https://minlnv.nl)| || |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |||
-|[https://e-certnl.minlnv.nl](https://e-certnl.minlnv.nl)| ||:white_check_mark: |:white_check_mark: | | | :white_check_mark: | :white_check_mark: |||
+| Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
+|--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
+|[https://www.minlnv.nl](https://www.minlnv.nl)| | **80**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |||
+|[https://client-export-acc.minlnv.nl](https://client-export-acc.minlnv.nl)| | **74**||:white_check_mark: |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | |||
+|[https://e-certnl-acc.minlnv.nl](https://e-certnl-acc.minlnv.nl)| | **74**||:white_check_mark: |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | |||
+|[https://client-export.minlnv.nl](https://client-export.minlnv.nl)| | **74**||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS|Error 404--Not F...|
+|[https://minlnv.nl](https://minlnv.nl)| | **80**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |||
+|[https://e-certnl.minlnv.nl](https://e-certnl.minlnv.nl)| | **74**||:white_check_mark: |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | |||

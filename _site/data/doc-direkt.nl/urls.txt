@@ -1,0 +1,9 @@
+https://acc-api.dh.doc-direkt.nl
+https://acc-dh.doc-direkt.nl
+https://acc-m.dh.doc-direkt.nl
+https://api.dh.doc-direkt.nl
+https://dh.doc-direkt.nl
+https://feeds.doc-direkt.nl
+https://opendata.doc-direkt.nl
+https://www.doc-direkt.nl
+https://doc-direkt.nl

@@ -5,8 +5,11 @@ permalink: /dutchgov/informatiehuishouding.nl.html
 
 
 # informatiehuishouding.nl
-*2024-01-14 05:20:09*
 ## Summary data
+
+
+**SSL Grade**:0
+**HTTP Security Grade**:73.333333333333
 
 
 | File       | Count | Info |
@@ -19,11 +22,11 @@ permalink: /dutchgov/informatiehuishouding.nl.html
 ## Statistics
 
 
-| Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
-|------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://feeds.informatiehuishouding.nl](https://feeds.informatiehuishouding.nl)| |nginx| |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx||
-|[https://grip.informatiehuishouding.nl](https://grip.informatiehuishouding.nl)| |Apache| |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Apache HTTP Server HSTS||
-|[https://magazines.informatiehuishouding.nl](https://magazines.informatiehuishouding.nl)| |nginx| |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx||
-|[https://opendata.informatiehuishouding.nl](https://opendata.informatiehuishouding.nl)| |nginx| |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx||
-|[https://www.informatiehuishouding.nl](https://www.informatiehuishouding.nl)| |nginx| |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Bloomreach HSTS Nginx|Home | Rijksprog...|
-|[https://informatiehuishouding.nl](https://informatiehuishouding.nl)| |nginx| |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx|301 Moved Perman...|
+| Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
+|--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
+|[https://feeds.informatiehuishouding.nl](https://feeds.informatiehuishouding.nl)| | **65**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
+|[https://grip.informatiehuishouding.nl](https://grip.informatiehuishouding.nl)| | **85**|Apache| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Apache HTTP Server HSTS||
+|[https://magazines.informatiehuishouding.nl](https://magazines.informatiehuishouding.nl)| | **75**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
+|[https://opendata.informatiehuishouding.nl](https://opendata.informatiehuishouding.nl)| | **65**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
+|[https://www.informatiehuishouding.nl](https://www.informatiehuishouding.nl)| | **75**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Home | Rijksprog...|
+|[https://informatiehuishouding.nl](https://informatiehuishouding.nl)| | **75**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|

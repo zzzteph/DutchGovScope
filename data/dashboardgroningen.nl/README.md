@@ -5,8 +5,11 @@ permalink: /dutchgov/dashboardgroningen.nl.html
 
 
 # dashboardgroningen.nl
-*2024-01-11 16:13:39*
 ## Summary data
+
+
+**SSL Grade**:0
+**HTTP Security Grade**:55
 
 
 | File       | Count | Info |
@@ -19,10 +22,10 @@ permalink: /dutchgov/dashboardgroningen.nl.html
 ## Statistics
 
 
-| Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
-|------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://api.dashboardgroningen.nl](https://api.dashboardgroningen.nl)| |nginx| |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx||
-|[https://www.dashboardgroningen.nl](https://www.dashboardgroningen.nl)| |nginx| |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx|Dashboard Gronin...|
-|[https://acc.dashboardgroningen.nl](https://acc.dashboardgroningen.nl)| |nginx| | | | | | :white_check_mark: |Basic HSTS Nginx|401 Authorizatio...|
-|[https://dashboardgroningen.nl](https://dashboardgroningen.nl)| |nginx| |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx|Dashboard Gronin...|
-|[https://api-acc.dashboardgroningen.nl](https://api-acc.dashboardgroningen.nl)| |nginx| | | | | | :white_check_mark: |Basic HSTS Nginx|401 Authorizatio...|
+| Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
+|--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
+|[https://api.dashboardgroningen.nl](https://api.dashboardgroningen.nl)| | **75**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
+|[https://www.dashboardgroningen.nl](https://www.dashboardgroningen.nl)| | **75**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|Dashboard Gronin...|
+|[https://acc.dashboardgroningen.nl](https://acc.dashboardgroningen.nl)| | **25**|nginx| | | | | | | | :white_check_mark: | |Basic HSTS Nginx|401 Authorizatio...|
+|[https://dashboardgroningen.nl](https://dashboardgroningen.nl)| | **75**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|Dashboard Gronin...|
+|[https://api-acc.dashboardgroningen.nl](https://api-acc.dashboardgroningen.nl)| | **25**|nginx| | | | | | | | :white_check_mark: | |Basic HSTS Nginx|401 Authorizatio...|

@@ -1,0 +1,6 @@
+autodiscover.odijmond.nl
+open-wave.odijmond.nl
+odijmond.nl
+www.odijmond.nl
+gisviewer.odijmond.nl
+db.open-wave.odijmond.nl

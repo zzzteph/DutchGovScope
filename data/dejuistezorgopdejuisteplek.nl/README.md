@@ -5,8 +5,11 @@ permalink: /dutchgov/dejuistezorgopdejuisteplek.nl.html
 
 
 # dejuistezorgopdejuisteplek.nl
-*2024-01-11 16:13:36*
 ## Summary data
+
+
+**SSL Grade**:0
+**HTTP Security Grade**:85
 
 
 | File       | Count | Info |
@@ -19,9 +22,9 @@ permalink: /dutchgov/dejuistezorgopdejuisteplek.nl.html
 ## Statistics
 
 
-| Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
-|------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://regiobeelden.dejuistezorgopdejuisteplek.nl](https://regiobeelden.dejuistezorgopdejuisteplek.nl)| |nginx| |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx|301 Moved Perman...|
-|[https://voorbeelden.dejuistezorgopdejuisteplek.nl](https://voorbeelden.dejuistezorgopdejuisteplek.nl)| |nginx| |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx|301 Moved Perman...|
-|[https://www.dejuistezorgopdejuisteplek.nl](https://www.dejuistezorgopdejuisteplek.nl)| |nginx| |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx|Juiste Zorg op d...|
-|[https://dejuistezorgopdejuisteplek.nl](https://dejuistezorgopdejuisteplek.nl)| |nginx| |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx|Juiste Zorg op d...|
+| Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
+|--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
+|[https://regiobeelden.dejuistezorgopdejuisteplek.nl](https://regiobeelden.dejuistezorgopdejuisteplek.nl)| | **85**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx|301 Moved Perman...|
+|[https://voorbeelden.dejuistezorgopdejuisteplek.nl](https://voorbeelden.dejuistezorgopdejuisteplek.nl)| | **85**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx|301 Moved Perman...|
+|[https://www.dejuistezorgopdejuisteplek.nl](https://www.dejuistezorgopdejuisteplek.nl)| | **85**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx|Juiste Zorg op d...|
+|[https://dejuistezorgopdejuisteplek.nl](https://dejuistezorgopdejuisteplek.nl)| | **85**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx|Juiste Zorg op d...|

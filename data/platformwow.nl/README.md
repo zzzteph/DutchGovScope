@@ -5,8 +5,11 @@ permalink: /dutchgov/platformwow.nl.html
 
 
 # platformwow.nl
-*2024-01-11 16:13:40*
 ## Summary data
+
+
+**SSL Grade**:0
+**HTTP Security Grade**:53.5
 
 
 | File       | Count | Info |
@@ -19,15 +22,15 @@ permalink: /dutchgov/platformwow.nl.html
 ## Statistics
 
 
-| Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
-|------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://cdn.platformwow.nl](https://cdn.platformwow.nl)| |ECAcc (frc/4CA8)|:white_check_mark: |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |Alpine.js Azure Azure CDN HSTS|Platform WOW|
-|[https://email.platformwow.nl](https://email.platformwow.nl)| |Spotler| |:white_check_mark: | | | | :white_check_mark: |HSTS||
-|[https://jaarverslag2015.platformwow.nl](https://jaarverslag2015.platformwow.nl)| |Apache| | | | | | :white_check_mark: |Apache HTTP Server HSTS|404 Not Found|
-|[https://jaarverslag2016.platformwow.nl](https://jaarverslag2016.platformwow.nl)| |Apache| | | | | | :white_check_mark: |Apache HTTP Server HSTS|404 Not Found|
-|[https://media.platformwow.nl](https://media.platformwow.nl)| |Microsoft-HTTPAPI/2.0| | | | | | :white_check_mark: |Microsoft HTTPAPI:2.0||
-|[https://water.platformwow.nl](https://water.platformwow.nl)| |Microsoft-IIS/10.0|:white_check_mark: |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |Azure HSTS IIS:10.0 Windows Server|Document Moved|
-|[https://weg.platformwow.nl](https://weg.platformwow.nl)| |Microsoft-IIS/10.0|:white_check_mark: |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |Azure HSTS IIS:10.0 Windows Server|Document Moved|
-|[https://www.platformwow.nl](https://www.platformwow.nl)| |Microsoft-IIS/10.0|:white_check_mark: |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |Azure HSTS IIS:10.0 Windows Server|Document Moved|
-|[https://legacy.platformwow.nl](https://legacy.platformwow.nl)| |Microsoft-HTTPAPI/2.0| | | | | | :white_check_mark: |Microsoft HTTPAPI:2.0|Not Found|
-|[https://platformwow.nl](https://platformwow.nl)| ||:white_check_mark: |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |Alpine.js Azure HSTS|Platform WOW|
+| Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
+|--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
+|[https://cdn.platformwow.nl](https://cdn.platformwow.nl)| | **79**|ECAcc (frc/4CA8)|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Alpine.js Azure Azure CDN HSTS|Platform WOW|
+|[https://email.platformwow.nl](https://email.platformwow.nl)| | **45**|Spotler| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
+|[https://jaarverslag2015.platformwow.nl](https://jaarverslag2015.platformwow.nl)| | **25**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|404 Not Found|
+|[https://jaarverslag2016.platformwow.nl](https://jaarverslag2016.platformwow.nl)| | **25**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|404 Not Found|
+|[https://media.platformwow.nl](https://media.platformwow.nl)| | **15**|Microsoft-HTTPAPI/2.0| | | :warning:| | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0||
+|[https://water.platformwow.nl](https://water.platformwow.nl)| | **79**|Microsoft-IIS/10.0|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Azure HSTS IIS:10.0 Windows Server|Document Moved|
+|[https://weg.platformwow.nl](https://weg.platformwow.nl)| | **79**|Microsoft-IIS/10.0|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Azure HSTS IIS:10.0 Windows Server|Document Moved|
+|[https://www.platformwow.nl](https://www.platformwow.nl)| | **79**|Microsoft-IIS/10.0|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Azure HSTS IIS:10.0 Windows Server|Document Moved|
+|[https://legacy.platformwow.nl](https://legacy.platformwow.nl)| | **25**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
+|[https://platformwow.nl](https://platformwow.nl)| | **84**||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Alpine.js Azure HSTS|Platform WOW|

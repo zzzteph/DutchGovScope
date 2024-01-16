@@ -5,8 +5,11 @@ permalink: /dutchgov/mvicriteria.nl.html
 
 
 # mvicriteria.nl
-*2024-01-11 16:13:43*
 ## Summary data
+
+
+**SSL Grade**:0
+**HTTP Security Grade**:50
 
 
 | File       | Count | Info |
@@ -19,7 +22,7 @@ permalink: /dutchgov/mvicriteria.nl.html
 ## Statistics
 
 
-| Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
-|------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://www.mvicriteria.nl](https://www.mvicriteria.nl)| ||:o: |:white_check_mark: | | | | :white_check_mark: |HSTS|Redirecting to h...|
-|[https://mvicriteria.nl](https://mvicriteria.nl)| ||:o: |:white_check_mark: | | | | :white_check_mark: ||308 Permanent Re...|
+| Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
+|--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
+|[https://www.mvicriteria.nl](https://www.mvicriteria.nl)| | **50**||:o: |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|Redirecting to h...|
+|[https://mvicriteria.nl](https://mvicriteria.nl)| | **50**||:o: |:white_check_mark: | | | | | | :white_check_mark: | ||308 Permanent Re...|

@@ -5,8 +5,11 @@ permalink: /dutchgov/overstroomik.nl.html
 
 
 # overstroomik.nl
-*2024-01-11 16:13:36*
 ## Summary data
+
+
+**SSL Grade**:0
+**HTTP Security Grade**:60
 
 
 | File       | Count | Info |
@@ -19,8 +22,8 @@ permalink: /dutchgov/overstroomik.nl.html
 ## Statistics
 
 
-| Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
-|------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://backend.overstroomik.nl](https://backend.overstroomik.nl)| |uvicorn| |:white_check_mark: | | | | :white_check_mark: |HSTS Python Uvicorn||
-|[https://www.overstroomik.nl](https://www.overstroomik.nl)| || |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |||
-|[https://overstroomik.nl](https://overstroomik.nl)| |nginx| |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx|Hoe hoog komt he...|
+| Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
+|--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
+|[https://backend.overstroomik.nl](https://backend.overstroomik.nl)| | **45**|uvicorn| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Python Uvicorn||
+|[https://www.overstroomik.nl](https://www.overstroomik.nl)| | **70**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |||
+|[https://overstroomik.nl](https://overstroomik.nl)| | **65**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|Hoe hoog komt he...|

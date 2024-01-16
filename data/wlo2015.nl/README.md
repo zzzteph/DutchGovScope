@@ -5,8 +5,11 @@ permalink: /dutchgov/wlo2015.nl.html
 
 
 # wlo2015.nl
-*2024-01-11 16:13:39*
 ## Summary data
+
+
+**SSL Grade**:0
+**HTTP Security Grade**:56.25
 
 
 | File       | Count | Info |
@@ -19,9 +22,9 @@ permalink: /dutchgov/wlo2015.nl.html
 ## Statistics
 
 
-| Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
-|------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://media.wlo2015.nl](https://media.wlo2015.nl)| || | | | | | :white_check_mark: |Azure Azure Front Door||
-|[https://www.wlo2015.nl](https://www.wlo2015.nl)| || |:white_check_mark: | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS MySQL PHP WordPress:6.0.1|Welvaart en Leef...|
-|[https://media.acc.wlo2015.nl](https://media.acc.wlo2015.nl)| || | | | | | :white_check_mark: |Azure Azure Front Door||
-|[https://wlo2015.nl](https://wlo2015.nl)| |Microsoft-Azure-Application-Gateway/v2| |:white_check_mark: | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: ||301 Moved Perman...|
+| Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
+|--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
+|[https://media.wlo2015.nl](https://media.wlo2015.nl)| | **30**|| | | | | | | | :white_check_mark: | |Azure Azure Front Door||
+|[https://www.wlo2015.nl](https://www.wlo2015.nl)| | **85**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS MySQL PHP WordPress:6.0.1|Welvaart en Leef...|
+|[https://media.acc.wlo2015.nl](https://media.acc.wlo2015.nl)| | **30**|| | | | | | | | :white_check_mark: | |Azure Azure Front Door||
+|[https://wlo2015.nl](https://wlo2015.nl)| | **80**|Microsoft-Azure-Application-Gateway/v2| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | ||301 Moved Perman...|

@@ -5,8 +5,11 @@ permalink: /dutchgov/verbeterjehuis.nl.html
 
 
 # verbeterjehuis.nl
-*2024-01-11 16:13:36*
 ## Summary data
+
+
+**SSL Grade**:0
+**HTTP Security Grade**:63.75
 
 
 | File       | Count | Info |
@@ -19,9 +22,9 @@ permalink: /dutchgov/verbeterjehuis.nl.html
 ## Statistics
 
 
-| Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
-|------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://www.verbeterjehuis.nl](https://www.verbeterjehuis.nl)| |cloudflare| |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Cloudflare HSTS|Alles over je hu...|
-|[https://energyportpeelland.verbeterjehuis.nl](https://energyportpeelland.verbeterjehuis.nl)| || | | | | | :white_check_mark: ||Microsoft Azure...|
-|[https://verbeterjehuis.nl](https://verbeterjehuis.nl)| |cloudflare| |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Cloudflare HSTS|Document Moved|
-|[https://groenesubsidiewijzer.verbeterjehuis.nl](https://groenesubsidiewijzer.verbeterjehuis.nl)| |cloudflare| |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Cloudflare HSTS|Object moved|
+| Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
+|--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
+|[https://www.verbeterjehuis.nl](https://www.verbeterjehuis.nl)| | **75**|cloudflare| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Cloudflare HSTS|Alles over je hu...|
+|[https://energyportpeelland.verbeterjehuis.nl](https://energyportpeelland.verbeterjehuis.nl)| | **30**|| | | | | | | | :white_check_mark: | ||Microsoft Azure...|
+|[https://verbeterjehuis.nl](https://verbeterjehuis.nl)| | **75**|cloudflare| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Cloudflare HSTS|Document Moved|
+|[https://groenesubsidiewijzer.verbeterjehuis.nl](https://groenesubsidiewijzer.verbeterjehuis.nl)| | **75**|cloudflare| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Cloudflare HSTS|Object moved|

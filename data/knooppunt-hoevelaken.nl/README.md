@@ -5,8 +5,11 @@ permalink: /dutchgov/knooppunt-hoevelaken.nl.html
 
 
 # knooppunt-hoevelaken.nl
-*2024-01-11 16:13:41*
 ## Summary data
+
+
+**SSL Grade**:0
+**HTTP Security Grade**:25
 
 
 | File       | Count | Info |
@@ -19,7 +22,7 @@ permalink: /dutchgov/knooppunt-hoevelaken.nl.html
 ## Statistics
 
 
-| Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
-|------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://www.knooppunt-hoevelaken.nl](https://www.knooppunt-hoevelaken.nl)| |nginx| | | | | | :white_check_mark: |Nginx|Knooppunt Hoevel...|
-|[https://knooppunt-hoevelaken.nl](https://knooppunt-hoevelaken.nl)| |nginx| | | | | | :white_check_mark: |Nginx|Knooppunt Hoevel...|
+| Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
+|--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
+|[https://www.knooppunt-hoevelaken.nl](https://www.knooppunt-hoevelaken.nl)| | **25**|nginx| | | | | | | | :white_check_mark: | |Nginx|Knooppunt Hoevel...|
+|[https://knooppunt-hoevelaken.nl](https://knooppunt-hoevelaken.nl)| | **25**|nginx| | | | | | | | :white_check_mark: | |Nginx|Knooppunt Hoevel...|

@@ -5,8 +5,11 @@ permalink: /dutchgov/usar.nl.html
 
 
 # usar.nl
-*2024-01-11 16:13:43*
 ## Summary data
+
+
+**SSL Grade**:0
+**HTTP Security Grade**:50
 
 
 | File       | Count | Info |
@@ -19,8 +22,8 @@ permalink: /dutchgov/usar.nl.html
 ## Statistics
 
 
-| Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
-|------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://base.usar.nl](https://base.usar.nl)| ||:o: |:white_check_mark: | | | | :white_check_mark: |HSTS|Redirecting to h...|
-|[https://www.usar.nl](https://www.usar.nl)| || |:white_check_mark: | | | | :white_check_mark: |Google Tag Manager HSTS YouTube|USAR.NL: Special...|
-|[https://usar.nl](https://usar.nl)| || |:white_check_mark: | | | | :white_check_mark: |HSTS|301 Moved Perman...|
+| Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
+|--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
+|[https://base.usar.nl](https://base.usar.nl)| | **50**||:o: |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|Redirecting to h...|
+|[https://www.usar.nl](https://www.usar.nl)| | **50**|| |:white_check_mark: | | | | | | :white_check_mark: | |Google Tag Manager HSTS YouTube|USAR.NL: Special...|
+|[https://usar.nl](https://usar.nl)| | **50**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|301 Moved Perman...|

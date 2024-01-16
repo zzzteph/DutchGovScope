@@ -5,8 +5,11 @@ permalink: /dutchgov/bics.nl.html
 
 
 # bics.nl
-*2024-01-11 16:13:41*
 ## Summary data
+
+
+**SSL Grade**:0
+**HTTP Security Grade**:35.714285714286
 
 
 | File       | Count | Info |
@@ -19,19 +22,19 @@ permalink: /dutchgov/bics.nl.html
 ## Statistics
 
 
-| Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
-|------------|-------|------|------|------|------|------|------|------|------|------|
-|[http://bayplanviewer.bics.nl](http://bayplanviewer.bics.nl)| || | | | | | :white_check_mark: |||
-|[https://hs.bics.nl](https://hs.bics.nl)| |Apache| |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |Apache HTTP Server HSTS|302 Found|
-|[https://hsacc.bics.nl](https://hsacc.bics.nl)| |Apache| |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |Apache HTTP Server HSTS|302 Found|
-|[https://livra.bics.nl](https://livra.bics.nl)| || | | | | | :white_check_mark: |||
-|[https://livra2.bics.nl](https://livra2.bics.nl)| || | | | | | :white_check_mark: |HSTS||
-|[http://nlhull.bics.nl](http://nlhull.bics.nl)| || | | | | | :white_check_mark: |||
-|[http://nlhull2.bics.nl](http://nlhull2.bics.nl)| || | | | | | :white_check_mark: |||
-|[http://nlrdms.bics.nl](http://nlrdms.bics.nl)| || | | | | | :white_check_mark: |||
-|[https://www.bics.nl](https://www.bics.nl)| |Apache| |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |Apache HTTP Server Drupal:7 HSTS PHP:7.2.24|Welkom op de BIC...|
-|[https://bicsdrupalacc.bics.nl](https://bicsdrupalacc.bics.nl)| |Apache/2.4.57 (CentOS Stream) OpenSSL/3.0.7| | | | | | :white_check_mark: |Apache HTTP Server:2.4.57 CentOS Drupal:10 OpenSSL:3.0.7 PHP:8.1.14 SDL Tridion|Home | BICS-webs...|
-|[https://bics.nl](https://bics.nl)| |Apache| | | | | | :white_check_mark: |Apache HTTP Server|HTTP Server Test...|
-|[https://bicsweb1.bics.nl](https://bicsweb1.bics.nl)| |Apache| | | | | | :white_check_mark: |Apache HTTP Server HSTS|302 Found|
-|[https://bicsweb2.bics.nl](https://bicsweb2.bics.nl)| |Apache| | | | | | :white_check_mark: |Apache HTTP Server|HTTP Server Test...|
-|[https://bicsaccweb1.bics.nl](https://bicsaccweb1.bics.nl)| |Apache| | | | | | :white_check_mark: |Apache HTTP Server HSTS|302 Found|
+| Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
+|--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
+|[http://bayplanviewer.bics.nl](http://bayplanviewer.bics.nl)| | **30**|| | | | | | | | :white_check_mark: | |||
+|[https://hs.bics.nl](https://hs.bics.nl)| | **65**|Apache| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
+|[https://hsacc.bics.nl](https://hsacc.bics.nl)| | **65**|Apache| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
+|[https://livra.bics.nl](https://livra.bics.nl)| | **30**|| | | | | | | | :white_check_mark: | |||
+|[https://livra2.bics.nl](https://livra2.bics.nl)| | **30**|| | | | | | | | :white_check_mark: | |HSTS||
+|[http://nlhull.bics.nl](http://nlhull.bics.nl)| | **30**|| | | | | | | | :white_check_mark: | |||
+|[http://nlhull2.bics.nl](http://nlhull2.bics.nl)| | **30**|| | | | | | | | :white_check_mark: | |||
+|[http://nlrdms.bics.nl](http://nlrdms.bics.nl)| | **30**|| | | | | | | | :white_check_mark: | |||
+|[https://www.bics.nl](https://www.bics.nl)| | **65**|Apache| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server Drupal:7 HSTS PHP:7.2.24|Welkom op de BIC...|
+|[https://bicsdrupalacc.bics.nl](https://bicsdrupalacc.bics.nl)| | **25**|Apache/2.4.57 (CentOS Stream) OpenSSL/3.0.7| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.57 CentOS Drupal:10 OpenSSL:3.0.7 PHP:8.1.14 SDL Tridion|Home | BICS-webs...|
+|[https://bics.nl](https://bics.nl)| | **25**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|HTTP Server Test...|
+|[https://bicsweb1.bics.nl](https://bicsweb1.bics.nl)| | **25**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
+|[https://bicsweb2.bics.nl](https://bicsweb2.bics.nl)| | **25**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|HTTP Server Test...|
+|[https://bicsaccweb1.bics.nl](https://bicsaccweb1.bics.nl)| | **25**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|

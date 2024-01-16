@@ -1,0 +1,13 @@
+login.acc.mijncn.nl
+www.mijncn.nl
+papiamentu.mijncn.nl
+feeds.english.mijncn.nl
+opendata.papiamentu.mijncn.nl
+feeds.papiamentu.mijncn.nl
+feeds.mijncn.nl
+english.mijncn.nl
+login.mijncn.nl
+opendata.mijncn.nl
+opendata.english.mijncn.nl
+mijncn.nl
+i-login.mijncn.nl

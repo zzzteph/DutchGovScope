@@ -5,8 +5,11 @@ permalink: /dutchgov/helpdeskwater.nl.html
 
 
 # helpdeskwater.nl
-*2024-01-11 16:13:36*
 ## Summary data
+
+
+**SSL Grade**:0
+**HTTP Security Grade**:70.6
 
 
 | File       | Count | Info |
@@ -19,10 +22,10 @@ permalink: /dutchgov/helpdeskwater.nl.html
 ## Statistics
 
 
-| Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
-|------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://beheer.helpdeskwater.nl](https://beheer.helpdeskwater.nl)| |-| | | | | | :white_check_mark: |Microsoft ASP.NET:-|Document Moved|
-|[https://kennisbank.helpdeskwater.nl](https://kennisbank.helpdeskwater.nl)| ||:white_check_mark: |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS|TOPdesk|
-|[https://kennisbanktest.helpdeskwater.nl](https://kennisbanktest.helpdeskwater.nl)| ||:white_check_mark: |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS|TOPdesk|
-|[https://www.helpdeskwater.nl](https://www.helpdeskwater.nl)| |-| |:white_check_mark: | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: |Google Tag Manager HSTS Microsoft ASP.NET:-|Home - Helpdesk...|
-|[https://helpdeskwater.nl](https://helpdeskwater.nl)| |-| |:white_check_mark: | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Microsoft ASP.NET:-|Object moved|
+| Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
+|--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
+|[https://beheer.helpdeskwater.nl](https://beheer.helpdeskwater.nl)| | **25**|-| | | | | | | | :white_check_mark: | |Microsoft ASP.NET:-|Document Moved|
+|[https://kennisbank.helpdeskwater.nl](https://kennisbank.helpdeskwater.nl)| | **84**||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|TOPdesk|
+|[https://kennisbanktest.helpdeskwater.nl](https://kennisbanktest.helpdeskwater.nl)| | **84**||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|TOPdesk|
+|[https://www.helpdeskwater.nl](https://www.helpdeskwater.nl)| | **80**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Google Tag Manager HSTS Microsoft ASP.NET:-|Home - Helpdesk...|
+|[https://helpdeskwater.nl](https://helpdeskwater.nl)| | **80**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:-|Object moved|

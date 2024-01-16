@@ -5,8 +5,11 @@ permalink: /dutchgov/eentegeneenzaamheid.nl.html
 
 
 # eentegeneenzaamheid.nl
-*2024-01-11 16:13:36*
 ## Summary data
+
+
+**SSL Grade**:0
+**HTTP Security Grade**:55
 
 
 | File       | Count | Info |
@@ -19,8 +22,8 @@ permalink: /dutchgov/eentegeneenzaamheid.nl.html
 ## Statistics
 
 
-| Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
-|------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://acc.eentegeneenzaamheid.nl](https://acc.eentegeneenzaamheid.nl)| |Apache| |:white_check_mark: | | :white_check_mark: | | :white_check_mark: |Apache HTTP Server HSTS MySQL PHP:7.2.34 WordPress:6.1.1 Yoast SEO:19.13|Home - Een tegen...|
-|[https://www.eentegeneenzaamheid.nl](https://www.eentegeneenzaamheid.nl)| |Apache| |:white_check_mark: | | :white_check_mark: | | :white_check_mark: |Apache HTTP Server HSTS MySQL PHP:7.2.34 WordPress:6.1.1|Een tegen eenzaa...|
-|[https://eentegeneenzaamheid.nl](https://eentegeneenzaamheid.nl)| |Apache| |:white_check_mark: | | :white_check_mark: | | :white_check_mark: |Apache HTTP Server HSTS PHP:7.2.34||
+| Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
+|--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
+|[https://acc.eentegeneenzaamheid.nl](https://acc.eentegeneenzaamheid.nl)| | **55**|Apache| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS MySQL PHP:7.2.34 WordPress:6.1.1 Yoast SEO:19.13|Home - Een tegen...|
+|[https://www.eentegeneenzaamheid.nl](https://www.eentegeneenzaamheid.nl)| | **55**|Apache| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS MySQL PHP:7.2.34 WordPress:6.1.1|Een tegen eenzaa...|
+|[https://eentegeneenzaamheid.nl](https://eentegeneenzaamheid.nl)| | **55**|Apache| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS PHP:7.2.34||

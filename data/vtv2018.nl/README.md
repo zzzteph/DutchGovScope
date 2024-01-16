@@ -5,8 +5,11 @@ permalink: /dutchgov/vtv2018.nl.html
 
 
 # vtv2018.nl
-*2024-01-11 16:13:37*
 ## Summary data
+
+
+**SSL Grade**:0
+**HTTP Security Grade**:47.5
 
 
 | File       | Count | Info |
@@ -19,9 +22,9 @@ permalink: /dutchgov/vtv2018.nl.html
 ## Statistics
 
 
-| Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
-|------------|-------|------|------|------|------|------|------|------|------|------|
-|[http://acceptatie.vtv2018.nl](http://acceptatie.vtv2018.nl)| || | | | | | :white_check_mark: |||
-|[http://test.vtv2018.nl](http://test.vtv2018.nl)| || | | | | | :white_check_mark: |||
-|[https://www.vtv2018.nl](https://www.vtv2018.nl)| |Apache| |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |Apache HTTP Server Drupal HSTS PHP|Een gezond vooru...|
-|[https://vtv2018.nl](https://vtv2018.nl)| |Apache| |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |Apache HTTP Server HSTS|301 Moved Perman...|
+| Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
+|--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
+|[http://acceptatie.vtv2018.nl](http://acceptatie.vtv2018.nl)| | **30**|| | | | | | | | :white_check_mark: | |||
+|[http://test.vtv2018.nl](http://test.vtv2018.nl)| | **30**|| | | | | | | | :white_check_mark: | |||
+|[https://www.vtv2018.nl](https://www.vtv2018.nl)| | **65**|Apache| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server Drupal HSTS PHP|Een gezond vooru...|
+|[https://vtv2018.nl](https://vtv2018.nl)| | **65**|Apache| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS|301 Moved Perman...|

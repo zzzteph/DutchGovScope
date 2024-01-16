@@ -1,0 +1,4 @@
+feeds.hansken.nl
+opendata.hansken.nl
+www.hansken.nl
+hansken.nl

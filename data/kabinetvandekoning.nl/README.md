@@ -5,8 +5,11 @@ permalink: /dutchgov/kabinetvandekoning.nl.html
 
 
 # kabinetvandekoning.nl
-*2024-01-14 06:02:06*
 ## Summary data
+
+
+**SSL Grade**:0
+**HTTP Security Grade**:64.375
 
 
 | File       | Count | Info |
@@ -19,13 +22,13 @@ permalink: /dutchgov/kabinetvandekoning.nl.html
 ## Statistics
 
 
-| Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
-|------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://english.kabinetvandekoning.nl](https://english.kabinetvandekoning.nl)| |nginx| |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Bloomreach HSTS Nginx|Home | King's Of...|
-|[https://feeds.kabinetvandekoning.nl](https://feeds.kabinetvandekoning.nl)| |nginx| |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx||
-|[https://feeds.english.kabinetvandekoning.nl](https://feeds.english.kabinetvandekoning.nl)| |nginx| |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx||
-|[https://mail.kabinetvandekoning.nl](https://mail.kabinetvandekoning.nl)| || | | | | | :white_check_mark: |HSTS||
-|[https://opendata.kabinetvandekoning.nl](https://opendata.kabinetvandekoning.nl)| |nginx| |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx||
-|[https://opendata.english.kabinetvandekoning.nl](https://opendata.english.kabinetvandekoning.nl)| |nginx| |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx||
-|[https://www.kabinetvandekoning.nl](https://www.kabinetvandekoning.nl)| |nginx| |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Bloomreach HSTS Nginx|Home | Kabinet v...|
-|[https://kabinetvandekoning.nl](https://kabinetvandekoning.nl)| |nginx| |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx|301 Moved Perman...|
+| Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
+|--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
+|[https://english.kabinetvandekoning.nl](https://english.kabinetvandekoning.nl)| | **75**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Home | King's Of...|
+|[https://feeds.kabinetvandekoning.nl](https://feeds.kabinetvandekoning.nl)| | **65**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
+|[https://feeds.english.kabinetvandekoning.nl](https://feeds.english.kabinetvandekoning.nl)| | **65**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
+|[https://mail.kabinetvandekoning.nl](https://mail.kabinetvandekoning.nl)| | **30**|| | | | | | | | :white_check_mark: | |HSTS||
+|[https://opendata.kabinetvandekoning.nl](https://opendata.kabinetvandekoning.nl)| | **65**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
+|[https://opendata.english.kabinetvandekoning.nl](https://opendata.english.kabinetvandekoning.nl)| | **65**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
+|[https://www.kabinetvandekoning.nl](https://www.kabinetvandekoning.nl)| | **75**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Home | Kabinet v...|
+|[https://kabinetvandekoning.nl](https://kabinetvandekoning.nl)| | **75**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|

@@ -5,8 +5,11 @@ permalink: /dutchgov/mijnvraagovercorona.nl.html
 
 
 # mijnvraagovercorona.nl
-*2024-01-10 20:57:17*
 ## Summary data
+
+
+**SSL Grade**:0
+**HTTP Security Grade**:70
 
 
 | File       | Count | Info |
@@ -19,8 +22,8 @@ permalink: /dutchgov/mijnvraagovercorona.nl.html
 ## Statistics
 
 
-| Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
-|------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://www.mijnvraagovercorona.nl](https://www.mijnvraagovercorona.nl)| || |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: ||308 Permanent Re...|
-|[https://acc.mijnvraagovercorona.nl](https://acc.mijnvraagovercorona.nl)| || |:white_check_mark: | | | | :white_check_mark: |Basic HSTS|401 Authorizatio...|
-|[https://mijnvraagovercorona.nl](https://mijnvraagovercorona.nl)| || |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Apache Tomcat Astro:4.0.2 Fourthwall:2.9.0 HSTS Java MariaDB Sanity Skolengo:2.9.0|MijnVraagOverCor...|
+| Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
+|--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
+|[https://www.mijnvraagovercorona.nl](https://www.mijnvraagovercorona.nl)| | **80**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | ||308 Permanent Re...|
+|[https://acc.mijnvraagovercorona.nl](https://acc.mijnvraagovercorona.nl)| | **50**|| |:white_check_mark: | | | | | | :white_check_mark: | |Basic HSTS|401 Authorizatio...|
+|[https://mijnvraagovercorona.nl](https://mijnvraagovercorona.nl)| | **80**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache Tomcat Astro:4.0.2 Fourthwall:2.9.0 HSTS Java MariaDB Sanity Skolengo:2.9.0|MijnVraagOverCor...|

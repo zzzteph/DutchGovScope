@@ -1,0 +1,7 @@
+https://feeds.persberichten.rijksoverheid.nl
+https://opendata.persberichten.rijksoverheid.nl
+https://rss.persberichten.rijksoverheid.nl
+https://downloads.persberichten.rijksoverheid.nl
+https://a-downloads.persberichten.rijksoverheid.nl
+https://a-rss.persberichten.rijksoverheid.nl
+https://persberichten.rijksoverheid.nl

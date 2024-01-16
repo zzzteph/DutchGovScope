@@ -5,13 +5,16 @@ permalink: /dutchgov/ikpasophetwad.nl.html
 
 
 # ikpasophetwad.nl
-*2024-01-11 16:13:42*
 ## Summary data
+
+
+**SSL Grade**:0
+**HTTP Security Grade**:0
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/ikpasophetwad.nl/subdomains.txt)|2|Alive subdomains|
+|[subdomains.txt](/data/ikpasophetwad.nl/subdomains.txt)|0|Alive subdomains|
 |[urls.txt](/data/ikpasophetwad.nl/urls.txt)|0|Urls|
 |[all_subdomains.txt](/data/ikpasophetwad.nl/all_subdomains.txt)|2|All found subdomains (history)|
 
@@ -19,5 +22,5 @@ permalink: /dutchgov/ikpasophetwad.nl.html
 ## Statistics
 
 
-| Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
-|------------|-------|------|------|------|------|------|------|------|------|------|
+| Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
+|--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|

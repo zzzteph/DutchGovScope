@@ -5,8 +5,11 @@ permalink: /dutchgov/dihoo.nl.html
 
 
 # dihoo.nl
-*2024-01-14 02:25:13*
 ## Summary data
+
+
+**SSL Grade**:100
+**HTTP Security Grade**:61
 
 
 | File       | Count | Info |
@@ -19,10 +22,10 @@ permalink: /dutchgov/dihoo.nl.html
 ## Statistics
 
 
-| Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
-|------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://feeds.dihoo.nl](https://feeds.dihoo.nl)| $${\color{green}A+}$$ |nginx| |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx||
-|[https://opendata.dihoo.nl](https://opendata.dihoo.nl)| $${\color{green}A+}$$ |nginx| |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx||
-|[https://www.dihoo.nl](https://www.dihoo.nl)| $${\color{green}A+}$$ |nginx| |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Bloomreach HSTS Nginx|Home | Adviescom...|
-|[https://dihoo.nl](https://dihoo.nl)| $${\color{green}A+}$$ |nginx| |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx|301 Moved Perman...|
-|[https://mail.dihoo.nl](https://mail.dihoo.nl)| |Apache/2| | | | | | :white_check_mark: |Apache HTTP Server:2||
+| Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
+|--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
+|[https://feeds.dihoo.nl](https://feeds.dihoo.nl)| **A+**| **65**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
+|[https://opendata.dihoo.nl](https://opendata.dihoo.nl)| **A+**| **65**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
+|[https://www.dihoo.nl](https://www.dihoo.nl)| **A+**| **75**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Home | Adviescom...|
+|[https://dihoo.nl](https://dihoo.nl)| **A+**| **75**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
+|[https://mail.dihoo.nl](https://mail.dihoo.nl)| | **25**|Apache/2| | | | | | | | :white_check_mark: | |Apache HTTP Server:2||

@@ -5,8 +5,11 @@ permalink: /dutchgov/rabarijk.nl.html
 
 
 # rabarijk.nl
-*2024-01-10 20:57:21*
 ## Summary data
+
+
+**SSL Grade**:0
+**HTTP Security Grade**:77
 
 
 | File       | Count | Info |
@@ -19,9 +22,9 @@ permalink: /dutchgov/rabarijk.nl.html
 ## Statistics
 
 
-| Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
-|------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://feeds.rabarijk.nl](https://feeds.rabarijk.nl)| |nginx| |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx||
-|[https://opendata.rabarijk.nl](https://opendata.rabarijk.nl)| |nginx| |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx||
-|[https://www.rabarijk.nl](https://www.rabarijk.nl)| |nginx|:white_check_mark: |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Bloomreach HSTS Java Nginx|Home | RABA|
-|[https://rabarijk.nl](https://rabarijk.nl)| |nginx|:white_check_mark: |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx|301 Moved Perman...|
+| Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
+|--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
+|[https://feeds.rabarijk.nl](https://feeds.rabarijk.nl)| | **65**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
+|[https://opendata.rabarijk.nl](https://opendata.rabarijk.nl)| | **65**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
+|[https://www.rabarijk.nl](https://www.rabarijk.nl)| | **89**|nginx|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Java Nginx|Home | RABA|
+|[https://rabarijk.nl](https://rabarijk.nl)| | **89**|nginx|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|

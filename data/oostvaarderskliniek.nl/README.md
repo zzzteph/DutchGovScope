@@ -5,8 +5,11 @@ permalink: /dutchgov/oostvaarderskliniek.nl.html
 
 
 # oostvaarderskliniek.nl
-*2024-01-10 20:57:20*
 ## Summary data
+
+
+**SSL Grade**:0
+**HTTP Security Grade**:61
 
 
 | File       | Count | Info |
@@ -19,10 +22,10 @@ permalink: /dutchgov/oostvaarderskliniek.nl.html
 ## Statistics
 
 
-| Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
-|------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://pvs.oostvaarderskliniek.nl](https://pvs.oostvaarderskliniek.nl)| |nginx| | | | | | :white_check_mark: |Nginx|403 Forbidden|
-|[https://feeds.oostvaarderskliniek.nl](https://feeds.oostvaarderskliniek.nl)| |nginx| |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx||
-|[https://oostvaarderskliniek.nl](https://oostvaarderskliniek.nl)| |nginx| |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx|301 Moved Perman...|
-|[https://opendata.oostvaarderskliniek.nl](https://opendata.oostvaarderskliniek.nl)| |nginx| |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx||
-|[https://www.oostvaarderskliniek.nl](https://www.oostvaarderskliniek.nl)| |nginx| |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Bloomreach HSTS Nginx|Home | Forensisc...|
+| Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
+|--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
+|[https://pvs.oostvaarderskliniek.nl](https://pvs.oostvaarderskliniek.nl)| | **25**|nginx| | | | | | | | :white_check_mark: | |Nginx|403 Forbidden|
+|[https://feeds.oostvaarderskliniek.nl](https://feeds.oostvaarderskliniek.nl)| | **65**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
+|[https://oostvaarderskliniek.nl](https://oostvaarderskliniek.nl)| | **75**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
+|[https://opendata.oostvaarderskliniek.nl](https://opendata.oostvaarderskliniek.nl)| | **65**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
+|[https://www.oostvaarderskliniek.nl](https://www.oostvaarderskliniek.nl)| | **75**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Home | Forensisc...|

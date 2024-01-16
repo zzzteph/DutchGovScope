@@ -5,8 +5,11 @@ permalink: /dutchgov/academyinternationalrelations.nl.html
 
 
 # academyinternationalrelations.nl
-*2024-01-11 16:13:38*
 ## Summary data
+
+
+**SSL Grade**:0
+**HTTP Security Grade**:79
 
 
 | File       | Count | Info |
@@ -19,7 +22,7 @@ permalink: /dutchgov/academyinternationalrelations.nl.html
 ## Statistics
 
 
-| Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
-|------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://www.academyinternationalrelations.nl](https://www.academyinternationalrelations.nl)| |Class|:white_check_mark: |:white_check_mark: |:warning: | | :white_check_mark: | :white_check_mark: |HSTS||
-|[https://academyinternationalrelations.nl](https://academyinternationalrelations.nl)| |Class|:white_check_mark: |:white_check_mark: |:warning: | | :white_check_mark: | :white_check_mark: |HSTS||
+| Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
+|--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
+|[https://www.academyinternationalrelations.nl](https://www.academyinternationalrelations.nl)| | **79**|Class|:white_check_mark: |:white_check_mark: | | |:warning: | | :white_check_mark: | :white_check_mark: | |HSTS||
+|[https://academyinternationalrelations.nl](https://academyinternationalrelations.nl)| | **79**|Class|:white_check_mark: |:white_check_mark: | | |:warning: | | :white_check_mark: | :white_check_mark: | |HSTS||

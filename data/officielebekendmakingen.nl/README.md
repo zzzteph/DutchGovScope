@@ -5,8 +5,11 @@ permalink: /dutchgov/officielebekendmakingen.nl.html
 
 
 # officielebekendmakingen.nl
-*2024-01-11 16:13:41*
 ## Summary data
+
+
+**SSL Grade**:0
+**HTTP Security Grade**:66.428571428571
 
 
 | File       | Count | Info |
@@ -19,19 +22,19 @@ permalink: /dutchgov/officielebekendmakingen.nl.html
 ## Statistics
 
 
-| Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
-|------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://beheer.officielebekendmakingen.nl](https://beheer.officielebekendmakingen.nl)| || |:white_check_mark: | | | | :white_check_mark: |HSTS|Externe Beheersi...|
-|[https://beheer-acc.officielebekendmakingen.nl](https://beheer-acc.officielebekendmakingen.nl)| || |:white_check_mark: | | | | :white_check_mark: |HSTS|Externe Beheersi...|
-|[https://beheer-sgd.officielebekendmakingen.nl](https://beheer-sgd.officielebekendmakingen.nl)| || |:white_check_mark: | | | | :white_check_mark: |HSTS|Beheersite SGD|
-|[https://beheer-sgd-acc.officielebekendmakingen.nl](https://beheer-sgd-acc.officielebekendmakingen.nl)| || |:white_check_mark: | | | | :white_check_mark: |HSTS|Beheersite SGD|
-|[https://identifier.officielebekendmakingen.nl](https://identifier.officielebekendmakingen.nl)| |Apache| |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |Apache HTTP Server HSTS|URI - Performer...|
-|[https://identifier-eto.officielebekendmakingen.nl](https://identifier-eto.officielebekendmakingen.nl)| || |:white_check_mark: | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS|URI - Performer...|
-|[http://publicatieservice-bms-acc.officielebekendmakingen.nl](http://publicatieservice-bms-acc.officielebekendmakingen.nl)| || |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS||
-|[http://publicatieservice-rps-acc.officielebekendmakingen.nl](http://publicatieservice-rps-acc.officielebekendmakingen.nl)| || |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS||
-|[https://vpn-nabs.officielebekendmakingen.nl](https://vpn-nabs.officielebekendmakingen.nl)| |OpenVPN-AS| | | | :white_check_mark: | | :white_check_mark: |||
-|[https://www.officielebekendmakingen.nl](https://www.officielebekendmakingen.nl)| ||:warning: |:white_check_mark: | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Microsoft ASP.NET|Zoeken in alle d...|
-|[https://zoek.officielebekendmakingen.nl](https://zoek.officielebekendmakingen.nl)| ||:warning: |:white_check_mark: | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS||
-|[https://officielebekendmakingen.nl](https://officielebekendmakingen.nl)| |BigIP|:warning: |:white_check_mark: | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: |F5 BigIP HSTS||
-|[https://zoek-preprod.officielebekendmakingen.nl](https://zoek-preprod.officielebekendmakingen.nl)| ||:warning: |:white_check_mark: | | :white_check_mark: | | :white_check_mark: |HSTS||
-|[https://www-preprod.officielebekendmakingen.nl](https://www-preprod.officielebekendmakingen.nl)| ||:warning: |:white_check_mark: | | :white_check_mark: | | :white_check_mark: |HSTS Microsoft ASP.NET|Zoeken in alle d...|
+| Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
+|--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
+|[https://beheer.officielebekendmakingen.nl](https://beheer.officielebekendmakingen.nl)| | **50**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|Externe Beheersi...|
+|[https://beheer-acc.officielebekendmakingen.nl](https://beheer-acc.officielebekendmakingen.nl)| | **50**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|Externe Beheersi...|
+|[https://beheer-sgd.officielebekendmakingen.nl](https://beheer-sgd.officielebekendmakingen.nl)| | **50**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|Beheersite SGD|
+|[https://beheer-sgd-acc.officielebekendmakingen.nl](https://beheer-sgd-acc.officielebekendmakingen.nl)| | **50**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|Beheersite SGD|
+|[https://identifier.officielebekendmakingen.nl](https://identifier.officielebekendmakingen.nl)| | **65**|Apache| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS|URI - Performer...|
+|[https://identifier-eto.officielebekendmakingen.nl](https://identifier-eto.officielebekendmakingen.nl)| | **85**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|URI - Performer...|
+|[http://publicatieservice-bms-acc.officielebekendmakingen.nl](http://publicatieservice-bms-acc.officielebekendmakingen.nl)| | **70**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
+|[http://publicatieservice-rps-acc.officielebekendmakingen.nl](http://publicatieservice-rps-acc.officielebekendmakingen.nl)| | **70**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
+|[https://vpn-nabs.officielebekendmakingen.nl](https://vpn-nabs.officielebekendmakingen.nl)| | **35**|OpenVPN-AS| | | | | | :white_check_mark: | | :white_check_mark: | |||
+|[https://www.officielebekendmakingen.nl](https://www.officielebekendmakingen.nl)| | **92**||:warning: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET|Zoeken in alle d...|
+|[https://zoek.officielebekendmakingen.nl](https://zoek.officielebekendmakingen.nl)| | **92**||:warning: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
+|[https://officielebekendmakingen.nl](https://officielebekendmakingen.nl)| | **87**|BigIP|:warning: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |F5 BigIP HSTS||
+|[https://zoek-preprod.officielebekendmakingen.nl](https://zoek-preprod.officielebekendmakingen.nl)| | **67**||:warning: |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS||
+|[https://www-preprod.officielebekendmakingen.nl](https://www-preprod.officielebekendmakingen.nl)| | **67**||:warning: |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS Microsoft ASP.NET|Zoeken in alle d...|

@@ -5,8 +5,11 @@ permalink: /dutchgov/nieuwsbrieven.rijkswaterstaat.nl.html
 
 
 # nieuwsbrieven.rijkswaterstaat.nl
-*2024-01-10 20:57:19*
 ## Summary data
+
+
+**SSL Grade**:0
+**HTTP Security Grade**:68.333333333333
 
 
 | File       | Count | Info |
@@ -19,8 +22,8 @@ permalink: /dutchgov/nieuwsbrieven.rijkswaterstaat.nl.html
 ## Statistics
 
 
-| Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
-|------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://opendata.nieuwsbrieven.rijkswaterstaat.nl](https://opendata.nieuwsbrieven.rijkswaterstaat.nl)| |nginx| |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx||
-|[https://nieuwsbrieven.rijkswaterstaat.nl](https://nieuwsbrieven.rijkswaterstaat.nl)| |nginx| |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Bloomreach HSTS Nginx|Home | Nieuwsbri...|
-|[https://feeds.nieuwsbrieven.rijkswaterstaat.nl](https://feeds.nieuwsbrieven.rijkswaterstaat.nl)| |nginx| |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx||
+| Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
+|--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
+|[https://opendata.nieuwsbrieven.rijkswaterstaat.nl](https://opendata.nieuwsbrieven.rijkswaterstaat.nl)| | **65**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
+|[https://nieuwsbrieven.rijkswaterstaat.nl](https://nieuwsbrieven.rijkswaterstaat.nl)| | **75**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Home | Nieuwsbri...|
+|[https://feeds.nieuwsbrieven.rijkswaterstaat.nl](https://feeds.nieuwsbrieven.rijkswaterstaat.nl)| | **65**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||

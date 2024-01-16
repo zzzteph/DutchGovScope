@@ -1,0 +1,7 @@
+english.knmidata.nl
+feeds.knmidata.nl
+feeds.english.knmidata.nl
+opendata.knmidata.nl
+opendata.english.knmidata.nl
+www.knmidata.nl
+knmidata.nl

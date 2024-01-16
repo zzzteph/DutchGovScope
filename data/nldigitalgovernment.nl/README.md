@@ -5,8 +5,11 @@ permalink: /dutchgov/nldigitalgovernment.nl.html
 
 
 # nldigitalgovernment.nl
-*2024-01-11 16:13:39*
 ## Summary data
+
+
+**SSL Grade**:0
+**HTTP Security Grade**:45
 
 
 | File       | Count | Info |
@@ -19,8 +22,8 @@ permalink: /dutchgov/nldigitalgovernment.nl.html
 ## Statistics
 
 
-| Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
-|------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://accept.nldigitalgovernment.nl](https://accept.nldigitalgovernment.nl)| |nginx| |:white_check_mark: | | | | :white_check_mark: |Basic HSTS Nginx|401 Authorizatio...|
-|[https://www.nldigitalgovernment.nl](https://www.nldigitalgovernment.nl)| |nginx| |:white_check_mark: | | | | :white_check_mark: |HSTS MySQL Nginx PHP:8.0.30 WordPress:6.4.2 Yoast SEO:21.7|Home - Digital G...|
-|[https://nldigitalgovernment.nl](https://nldigitalgovernment.nl)| |nginx| |:white_check_mark: | | | | :white_check_mark: |HSTS Nginx PHP:8.0.30||
+| Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
+|--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
+|[https://accept.nldigitalgovernment.nl](https://accept.nldigitalgovernment.nl)| | **45**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |Basic HSTS Nginx|401 Authorizatio...|
+|[https://www.nldigitalgovernment.nl](https://www.nldigitalgovernment.nl)| | **45**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS MySQL Nginx PHP:8.0.30 WordPress:6.4.2 Yoast SEO:21.8|Home - Digital G...|
+|[https://nldigitalgovernment.nl](https://nldigitalgovernment.nl)| | **45**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Nginx PHP:8.0.30||

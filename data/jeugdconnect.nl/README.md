@@ -5,8 +5,11 @@ permalink: /dutchgov/jeugdconnect.nl.html
 
 
 # jeugdconnect.nl
-*2024-01-11 16:13:42*
 ## Summary data
+
+
+**SSL Grade**:0
+**HTTP Security Grade**:30.285714285714
 
 
 | File       | Count | Info |
@@ -19,19 +22,19 @@ permalink: /dutchgov/jeugdconnect.nl.html
 ## Statistics
 
 
-| Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
-|------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://api.jeugdconnect.nl](https://api.jeugdconnect.nl)| |nginx| | | | | | :white_check_mark: |Bootstrap HSTS Nginx|JustitieConnect|
-|[https://apps.jeugdconnect.nl](https://apps.jeugdconnect.nl)| |nginx| | | | | | :white_check_mark: |Bootstrap HSTS Nginx|JustitieConnect|
-|[https://cms.jeugdconnect.nl](https://cms.jeugdconnect.nl)| |nginx| | | | | | :white_check_mark: |Bootstrap HSTS Nginx|JustitieConnect|
-|[https://halt-verwijs.jeugdconnect.nl](https://halt-verwijs.jeugdconnect.nl)| |nginx| | | | | | :white_check_mark: |Bootstrap HSTS Nginx|JustitieConnect|
-|[https://kimi.jeugdconnect.nl](https://kimi.jeugdconnect.nl)| |nginx| | | | | | :white_check_mark: |Bootstrap HSTS Nginx|JustitieConnect|
-|[https://kimi-infodeling.jeugdconnect.nl](https://kimi-infodeling.jeugdconnect.nl)| |nginx| | | | | | :white_check_mark: |Bootstrap HSTS Nginx|JustitieConnect|
-|[https://kpm.jeugdconnect.nl](https://kpm.jeugdconnect.nl)| |nginx| | | | | | :white_check_mark: |Bootstrap HSTS Nginx|JustitieConnect|
-|[https://lij.jeugdconnect.nl](https://lij.jeugdconnect.nl)| |nginx| | | | | | :white_check_mark: |Bootstrap HSTS Nginx|JustitieConnect|
-|[https://privacy.jeugdconnect.nl](https://privacy.jeugdconnect.nl)| |nginx| | | | | | :white_check_mark: |Bootstrap HSTS Nginx|JustitieConnect|
-|[https://slachtoffer.jeugdconnect.nl](https://slachtoffer.jeugdconnect.nl)| |nginx| | | | | | :white_check_mark: |Bootstrap HSTS Nginx|JustitieConnect|
-|[https://socialmediamonitor.jeugdconnect.nl](https://socialmediamonitor.jeugdconnect.nl)| |nginx| | | | | | :white_check_mark: |Bootstrap HSTS Nginx|JustitieConnect|
-|[https://vog.jeugdconnect.nl](https://vog.jeugdconnect.nl)| |nginx| | | | | | :white_check_mark: |Bootstrap HSTS Nginx|JustitieConnect|
-|[https://www.jeugdconnect.nl](https://www.jeugdconnect.nl)| |nginx|:warning: |:white_check_mark: | | :white_check_mark: | | :white_check_mark: |HSTS Nginx||
-|[https://jeugdconnect.nl](https://jeugdconnect.nl)| |nginx|:warning: |:white_check_mark: | | :white_check_mark: | | :white_check_mark: |AngularJS HSTS Nginx|landingspage|
+| Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
+|--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
+|[https://api.jeugdconnect.nl](https://api.jeugdconnect.nl)| | **25**|nginx| | | | | | | | :white_check_mark: | |Bootstrap HSTS Nginx|JustitieConnect|
+|[https://apps.jeugdconnect.nl](https://apps.jeugdconnect.nl)| | **25**|nginx| | | | | | | | :white_check_mark: | |Bootstrap HSTS Nginx|JustitieConnect|
+|[https://cms.jeugdconnect.nl](https://cms.jeugdconnect.nl)| | **25**|nginx| | | | | | | | :white_check_mark: | |Bootstrap HSTS Nginx|JustitieConnect|
+|[https://halt-verwijs.jeugdconnect.nl](https://halt-verwijs.jeugdconnect.nl)| | **25**|nginx| | | | | | | | :white_check_mark: | |Bootstrap HSTS Nginx|JustitieConnect|
+|[https://kimi.jeugdconnect.nl](https://kimi.jeugdconnect.nl)| | **25**|nginx| | | | | | | | :white_check_mark: | |Bootstrap HSTS Nginx|JustitieConnect|
+|[https://kimi-infodeling.jeugdconnect.nl](https://kimi-infodeling.jeugdconnect.nl)| | **25**|nginx| | | | | | | | :white_check_mark: | |Bootstrap HSTS Nginx|JustitieConnect|
+|[https://kpm.jeugdconnect.nl](https://kpm.jeugdconnect.nl)| | **25**|nginx| | | | | | | | :white_check_mark: | |Bootstrap HSTS Nginx|JustitieConnect|
+|[https://lij.jeugdconnect.nl](https://lij.jeugdconnect.nl)| | **25**|nginx| | | | | | | | :white_check_mark: | |Bootstrap HSTS Nginx|JustitieConnect|
+|[https://privacy.jeugdconnect.nl](https://privacy.jeugdconnect.nl)| | **25**|nginx| | | | | | | | :white_check_mark: | |Bootstrap HSTS Nginx|JustitieConnect|
+|[https://slachtoffer.jeugdconnect.nl](https://slachtoffer.jeugdconnect.nl)| | **25**|nginx| | | | | | | | :white_check_mark: | |Bootstrap HSTS Nginx|JustitieConnect|
+|[https://socialmediamonitor.jeugdconnect.nl](https://socialmediamonitor.jeugdconnect.nl)| | **25**|nginx| | | | | | | | :white_check_mark: | |Bootstrap HSTS Nginx|JustitieConnect|
+|[https://vog.jeugdconnect.nl](https://vog.jeugdconnect.nl)| | **25**|nginx| | | | | | | | :white_check_mark: | |Bootstrap HSTS Nginx|JustitieConnect|
+|[https://www.jeugdconnect.nl](https://www.jeugdconnect.nl)| | **62**|nginx|:warning: |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS Nginx||
+|[https://jeugdconnect.nl](https://jeugdconnect.nl)| | **62**|nginx|:warning: |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |AngularJS HSTS Nginx|landingspage|

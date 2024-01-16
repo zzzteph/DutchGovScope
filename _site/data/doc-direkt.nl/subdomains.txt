@@ -1,0 +1,10 @@
+a-www.doc-direkt.nl
+acc-api.dh.doc-direkt.nl
+acc-dh.doc-direkt.nl
+acc-m.dh.doc-direkt.nl
+api.dh.doc-direkt.nl
+dh.doc-direkt.nl
+feeds.doc-direkt.nl
+opendata.doc-direkt.nl
+www.doc-direkt.nl
+doc-direkt.nl

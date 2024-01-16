@@ -5,8 +5,11 @@ permalink: /dutchgov/netherlandsworldwide.nl.html
 
 
 # netherlandsworldwide.nl
-*2024-01-10 20:57:19*
 ## Summary data
+
+
+**SSL Grade**:0
+**HTTP Security Grade**:66.666666666667
 
 
 | File       | Count | Info |
@@ -19,8 +22,8 @@ permalink: /dutchgov/netherlandsworldwide.nl.html
 ## Statistics
 
 
-| Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
-|------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://preview.netherlandsworldwide.nl](https://preview.netherlandsworldwide.nl)| || |:white_check_mark: | | | | :white_check_mark: |HSTS||
-|[https://www.netherlandsworldwide.nl](https://www.netherlandsworldwide.nl)| || |:white_check_mark: | :white_check_mark:| :white_check_mark: | | :white_check_mark: |Bloomreach HSTS HTTP/3|Home | Netherlan...|
-|[https://netherlandsworldwide.nl](https://netherlandsworldwide.nl)| || |:white_check_mark: | :white_check_mark:| :white_check_mark: | | :white_check_mark: |HSTS HTTP/3||
+| Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
+|--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
+|[https://preview.netherlandsworldwide.nl](https://preview.netherlandsworldwide.nl)| | **50**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
+|[https://www.netherlandsworldwide.nl](https://www.netherlandsworldwide.nl)| | **75**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |Bloomreach HSTS HTTP/3|Home | Netherlan...|
+|[https://netherlandsworldwide.nl](https://netherlandsworldwide.nl)| | **75**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS HTTP/3||

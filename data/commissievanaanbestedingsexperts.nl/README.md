@@ -5,8 +5,11 @@ permalink: /dutchgov/commissievanaanbestedingsexperts.nl.html
 
 
 # commissievanaanbestedingsexperts.nl
-*2024-01-14 01:21:15*
 ## Summary data
+
+
+**SSL Grade**:100
+**HTTP Security Grade**:70
 
 
 | File       | Count | Info |
@@ -19,9 +22,9 @@ permalink: /dutchgov/commissievanaanbestedingsexperts.nl.html
 ## Statistics
 
 
-| Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
-|------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://feeds.commissievanaanbestedingsexperts.nl](https://feeds.commissievanaanbestedingsexperts.nl)| $${\color{green}A+}$$ |nginx| |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx||
-|[https://opendata.commissievanaanbestedingsexperts.nl](https://opendata.commissievanaanbestedingsexperts.nl)| $${\color{green}A+}$$ |nginx| |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx||
-|[https://www.commissievanaanbestedingsexperts.nl](https://www.commissievanaanbestedingsexperts.nl)| $${\color{green}A+}$$ |nginx| |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Bloomreach HSTS Nginx|Home Commissie v...|
-|[https://commissievanaanbestedingsexperts.nl](https://commissievanaanbestedingsexperts.nl)| $${\color{green}A+}$$ |nginx| |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx|301 Moved Perman...|
+| Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
+|--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
+|[https://feeds.commissievanaanbestedingsexperts.nl](https://feeds.commissievanaanbestedingsexperts.nl)| **A+**| **65**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
+|[https://opendata.commissievanaanbestedingsexperts.nl](https://opendata.commissievanaanbestedingsexperts.nl)| **A+**| **65**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
+|[https://www.commissievanaanbestedingsexperts.nl](https://www.commissievanaanbestedingsexperts.nl)| **A+**| **75**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Home Commissie v...|
+|[https://commissievanaanbestedingsexperts.nl](https://commissievanaanbestedingsexperts.nl)| **A+**| **75**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|

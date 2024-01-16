@@ -5,8 +5,11 @@ permalink: /dutchgov/topshuis.nl.html
 
 
 # topshuis.nl
-*2024-01-11 16:13:43*
 ## Summary data
+
+
+**SSL Grade**:0
+**HTTP Security Grade**:25
 
 
 | File       | Count | Info |
@@ -19,8 +22,8 @@ permalink: /dutchgov/topshuis.nl.html
 ## Statistics
 
 
-| Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
-|------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://acceptatie.topshuis.nl](https://acceptatie.topshuis.nl)| |nginx| | | | | | :white_check_mark: |Nginx|Topshuis | Meeti...|
-|[https://www.topshuis.nl](https://www.topshuis.nl)| |nginx| | | | | | :white_check_mark: |Google Tag Manager MySQL Nginx PHP WordPress:6.4.2 Yoast SEO:21.8|Topshuis | Meeti...|
-|[https://topshuis.nl](https://topshuis.nl)| |nginx| | | | | | :white_check_mark: |Nginx||
+| Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
+|--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
+|[https://acceptatie.topshuis.nl](https://acceptatie.topshuis.nl)| | **25**|nginx| | | | | | | | :white_check_mark: | |Nginx|Topshuis | Meeti...|
+|[https://www.topshuis.nl](https://www.topshuis.nl)| | **25**|nginx| | | | | | | | :white_check_mark: | |Google Tag Manager MySQL Nginx PHP WordPress:6.4.2 Yoast SEO:21.8|Topshuis | Meeti...|
+|[https://topshuis.nl](https://topshuis.nl)| | **25**|nginx| | | | | | | | :white_check_mark: | |Nginx||

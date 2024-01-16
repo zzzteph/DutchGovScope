@@ -5,8 +5,11 @@ permalink: /dutchgov/euthanasiecommissie.nl.html
 
 
 # euthanasiecommissie.nl
-*2024-01-14 03:52:09*
 ## Summary data
+
+
+**SSL Grade**:100
+**HTTP Security Grade**:69.285714285714
 
 
 | File       | Count | Info |
@@ -19,12 +22,12 @@ permalink: /dutchgov/euthanasiecommissie.nl.html
 ## Statistics
 
 
-| Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
-|------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://english.euthanasiecommissie.nl](https://english.euthanasiecommissie.nl)| $${\color{green}A+}$$ |nginx| |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Bloomreach HSTS Nginx|Home | Regional...|
-|[https://feeds.euthanasiecommissie.nl](https://feeds.euthanasiecommissie.nl)| $${\color{green}A+}$$ |nginx| |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx||
-|[https://feeds.english.euthanasiecommissie.nl](https://feeds.english.euthanasiecommissie.nl)| $${\color{green}A+}$$ |nginx| |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx||
-|[https://opendata.euthanasiecommissie.nl](https://opendata.euthanasiecommissie.nl)| $${\color{green}A+}$$ |nginx| |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx||
-|[https://opendata.english.euthanasiecommissie.nl](https://opendata.english.euthanasiecommissie.nl)| $${\color{green}A+}$$ |nginx| |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx||
-|[https://www.euthanasiecommissie.nl](https://www.euthanasiecommissie.nl)| $${\color{green}A+}$$ |nginx| |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Bloomreach HSTS Nginx|Home | Regionale...|
-|[https://euthanasiecommissie.nl](https://euthanasiecommissie.nl)| $${\color{green}A+}$$ |nginx| |:white_check_mark: |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx|301 Moved Perman...|
+| Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
+|--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
+|[https://english.euthanasiecommissie.nl](https://english.euthanasiecommissie.nl)| **A+**| **75**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Home | Regional...|
+|[https://feeds.euthanasiecommissie.nl](https://feeds.euthanasiecommissie.nl)| **A+**| **65**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
+|[https://feeds.english.euthanasiecommissie.nl](https://feeds.english.euthanasiecommissie.nl)| **A+**| **65**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
+|[https://opendata.euthanasiecommissie.nl](https://opendata.euthanasiecommissie.nl)| **A+**| **65**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
+|[https://opendata.english.euthanasiecommissie.nl](https://opendata.english.euthanasiecommissie.nl)| **A+**| **65**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
+|[https://www.euthanasiecommissie.nl](https://www.euthanasiecommissie.nl)| **A+**| **75**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Home | Regionale...|
+|[https://euthanasiecommissie.nl](https://euthanasiecommissie.nl)| **A+**| **75**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|

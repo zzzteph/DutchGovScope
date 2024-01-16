@@ -5,8 +5,11 @@ permalink: /dutchgov/rwsverkeersinfo.nl.html
 
 
 # rwsverkeersinfo.nl
-*2024-01-11 16:13:36*
 ## Summary data
+
+
+**SSL Grade**:0
+**HTTP Security Grade**:70
 
 
 | File       | Count | Info |
@@ -19,8 +22,8 @@ permalink: /dutchgov/rwsverkeersinfo.nl.html
 ## Statistics
 
 
-| Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
-|------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://api.rwsverkeersinfo.nl](https://api.rwsverkeersinfo.nl)| |nginx| |:white_check_mark: | | :white_check_mark: | | :white_check_mark: |HSTS Nginx||
-|[https://www.rwsverkeersinfo.nl](https://www.rwsverkeersinfo.nl)| |nginx| |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx|Rijkswaterstaat...|
-|[https://rwsverkeersinfo.nl](https://rwsverkeersinfo.nl)| || |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |||
+| Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
+|--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
+|[https://api.rwsverkeersinfo.nl](https://api.rwsverkeersinfo.nl)| | **55**|nginx| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS Nginx||
+|[https://www.rwsverkeersinfo.nl](https://www.rwsverkeersinfo.nl)| | **75**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx|Rijkswaterstaat...|
+|[https://rwsverkeersinfo.nl](https://rwsverkeersinfo.nl)| | **80**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |||

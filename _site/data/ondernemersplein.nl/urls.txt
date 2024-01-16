@@ -1,0 +1,6 @@
+https://ondernemersplein.nl
+https://api.ondernemersplein.nl
+https://www.ondernemersplein.nl
+https://opendata.ondernemersplein.nl
+https://opendata.acp.ondernemersplein.nl
+http://autodiscover.ondernemersplein.nl

@@ -5,8 +5,11 @@ permalink: /dutchgov/bereiknu.nl.html
 
 
 # bereiknu.nl
-*2024-01-11 16:13:44*
 ## Summary data
+
+
+**SSL Grade**:0
+**HTTP Security Grade**:45
 
 
 | File       | Count | Info |
@@ -19,7 +22,7 @@ permalink: /dutchgov/bereiknu.nl.html
 ## Statistics
 
 
-| Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
-|------------|-------|------|------|------|------|------|------|------|------|------|
-|[http://www.bereiknu.nl](http://www.bereiknu.nl)| |Apache| |:white_check_mark: | | | | :white_check_mark: |Apache HTTP Server PHP:7.4.33 Varnish|Redirecting to h...|
-|[http://bereiknu.nl](http://bereiknu.nl)| |Apache| |:white_check_mark: | | | | :white_check_mark: |Apache HTTP Server PHP:7.4.33 Varnish|Redirecting to h...|
+| Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
+|--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
+|[http://www.bereiknu.nl](http://www.bereiknu.nl)| | **45**|Apache| |:white_check_mark: | | | | | | :white_check_mark: | |Apache HTTP Server PHP:7.4.33 Varnish|Redirecting to h...|
+|[http://bereiknu.nl](http://bereiknu.nl)| | **45**|Apache| |:white_check_mark: | | | | | | :white_check_mark: | |Apache HTTP Server PHP:7.4.33 Varnish|Redirecting to h...|

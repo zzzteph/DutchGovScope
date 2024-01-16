@@ -5,8 +5,11 @@ permalink: /dutchgov/nlflag.nl.html
 
 
 # nlflag.nl
-*2024-01-11 16:13:38*
 ## Summary data
+
+
+**SSL Grade**:0
+**HTTP Security Grade**:45
 
 
 | File       | Count | Info |
@@ -19,9 +22,9 @@ permalink: /dutchgov/nlflag.nl.html
 ## Statistics
 
 
-| Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
-|------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://www.nlflag.nl](https://www.nlflag.nl)| |nginx| |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx|301 Moved Perman...|
-|[https://www-drop.nlflag.nl](https://www-drop.nlflag.nl)| |nginx| | | | | | :white_check_mark: |Nginx||
-|[https://nlflag.nl](https://nlflag.nl)| |nginx| |:white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: |Drupal:9 HSTS Nginx PHP|Flying the Dutch...|
-|[https://lesmousquetaires.nlflag.nl](https://lesmousquetaires.nlflag.nl)| |nginx| | | | | | :white_check_mark: |Nginx||
+| Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
+|--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
+|[https://www.nlflag.nl](https://www.nlflag.nl)| | **65**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
+|[https://www-drop.nlflag.nl](https://www-drop.nlflag.nl)| | **25**|nginx| | | | | | | | :white_check_mark: | |Nginx||
+|[https://nlflag.nl](https://nlflag.nl)| | **65**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Drupal:9 HSTS Nginx PHP|Flying the Dutch...|
+|[https://lesmousquetaires.nlflag.nl](https://lesmousquetaires.nlflag.nl)| | **25**|nginx| | | | | | | | :white_check_mark: | |Nginx||

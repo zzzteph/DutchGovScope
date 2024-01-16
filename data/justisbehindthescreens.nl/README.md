@@ -5,8 +5,11 @@ permalink: /dutchgov/justisbehindthescreens.nl.html
 
 
 # justisbehindthescreens.nl
-*2024-01-11 16:13:46*
 ## Summary data
+
+
+**SSL Grade**:0
+**HTTP Security Grade**:25
 
 
 | File       | Count | Info |
@@ -19,8 +22,8 @@ permalink: /dutchgov/justisbehindthescreens.nl.html
 ## Statistics
 
 
-| Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
-|------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://justisbehindthescreens.nl](https://justisbehindthescreens.nl)| || | | | | | :white_check_mark: |||
-|[https://www.justisbehindthescreens.nl](https://www.justisbehindthescreens.nl)| || | | | | | :white_check_mark: |||
-|[https://staging.justisbehindthescreens.nl](https://staging.justisbehindthescreens.nl)| |nginx| | | | | | :white_check_mark: |Nginx UIKit|mei 2022 | Justi...|
+| Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
+|--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
+|[https://justisbehindthescreens.nl](https://justisbehindthescreens.nl)| | **30**|| | | | | | | | :white_check_mark: | |||
+|[https://www.justisbehindthescreens.nl](https://www.justisbehindthescreens.nl)| | **30**|| | | | | | | | :white_check_mark: | |||
+|[https://staging.justisbehindthescreens.nl](https://staging.justisbehindthescreens.nl)| | **15**|nginx| | | :warning:| | | | | :white_check_mark: | |Nginx UIKit|mei 2022 | Justi...|

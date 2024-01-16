@@ -5,8 +5,11 @@ permalink: /dutchgov/geluidregisterspoor.nl.html
 
 
 # geluidregisterspoor.nl
-*2024-01-11 16:13:44*
 ## Summary data
+
+
+**SSL Grade**:0
+**HTTP Security Grade**:27.5
 
 
 | File       | Count | Info |
@@ -19,7 +22,7 @@ permalink: /dutchgov/geluidregisterspoor.nl.html
 ## Statistics
 
 
-| Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
-|------------|-------|------|------|------|------|------|------|------|------|------|
-|[http://www.geluidregisterspoor.nl](http://www.geluidregisterspoor.nl)| |Microsoft-IIS/10.0| | | | | | :white_check_mark: |IIS:10.0 Windows Server|Geluid vanwege s...|
-|[http://geluidregisterspoor.nl](http://geluidregisterspoor.nl)| || | | | | | :white_check_mark: |||
+| Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
+|--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
+|[http://www.geluidregisterspoor.nl](http://www.geluidregisterspoor.nl)| | **25**|Microsoft-IIS/10.0| | | | | | | | :white_check_mark: | |IIS:10.0 Windows Server|Geluid vanwege s...|
+|[http://geluidregisterspoor.nl](http://geluidregisterspoor.nl)| | **30**|| | | | | | | | :white_check_mark: | |||

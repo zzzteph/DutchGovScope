@@ -1,0 +1,6 @@
+https://check.opwegnaarzes.nl
+https://kentekencheck.opwegnaarzes.nl
+https://staging.opwegnaarzes.nl
+https://www.opwegnaarzes.nl
+https://www.staging.opwegnaarzes.nl
+https://opwegnaarzes.nl

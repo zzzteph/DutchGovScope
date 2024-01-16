@@ -1,0 +1,15 @@
+https://acc.rvig.nl
+https://acc.intranet.rvig.nl
+https://intranet.rvig.nl
+https://login.idm.rvig.nl
+https://login.npr.idm.rvig.nl
+https://prod.rvig.nl
+https://publicaties.rvig.nl
+https://rni-webform.rvig.nl
+https://rni-webform-acc.rvig.nl
+https://test.rvig.nl
+https://test.intranet.rvig.nl
+https://www.rvig.nl
+https://rvig.nl
+https://idapps.npr.idm.rvig.nl
+https://idbs.npr.idm.rvig.nl

@@ -5,8 +5,11 @@ permalink: /dutchgov/minderwegwerpplastic.nl.html
 
 
 # minderwegwerpplastic.nl
-*2024-01-11 16:13:37*
 ## Summary data
+
+
+**SSL Grade**:0
+**HTTP Security Grade**:25
 
 
 | File       | Count | Info |
@@ -19,7 +22,7 @@ permalink: /dutchgov/minderwegwerpplastic.nl.html
 ## Statistics
 
 
-| Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
-|------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://minderwegwerpplastic.nl](https://minderwegwerpplastic.nl)| |Apache| | | | | | :white_check_mark: |Apache HTTP Server HSTS|Home | Ministeri...|
-|[https://www.minderwegwerpplastic.nl](https://www.minderwegwerpplastic.nl)| |Apache| | | | | | :white_check_mark: |Apache HTTP Server|301 Moved Perman...|
+| Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
+|--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
+|[https://minderwegwerpplastic.nl](https://minderwegwerpplastic.nl)| | **25**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|Home | Ministeri...|
+|[https://www.minderwegwerpplastic.nl](https://www.minderwegwerpplastic.nl)| | **25**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|301 Moved Perman...|

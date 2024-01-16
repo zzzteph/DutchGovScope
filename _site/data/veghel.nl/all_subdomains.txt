@@ -1,0 +1,17 @@
+intranet.veghel.nl
+webmail.veghel.nl
+www.bbov.veghel.nl
+secure.veghel.nl
+www.intranet.veghel.nl
+www.webmail.veghel.nl
+geo.veghel.nl
+bbov.veghel.nl
+bestuur.veghel.nl
+www.bestuur.veghel.nl
+www.portal.veghel.nl
+portal.veghel.nl
+thuiswerken.veghel.nl
+veghel.nl
+www.thuiswerken.veghel.nl
+www.veghel.nl
+ro.veghel.nl

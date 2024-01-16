@@ -5,8 +5,11 @@ permalink: /dutchgov/quicktelecomscan.nl.html
 
 
 # quicktelecomscan.nl
-*2024-01-11 16:13:42*
 ## Summary data
+
+
+**SSL Grade**:0
+**HTTP Security Grade**:45
 
 
 | File       | Count | Info |
@@ -19,7 +22,7 @@ permalink: /dutchgov/quicktelecomscan.nl.html
 ## Statistics
 
 
-| Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
-|------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://www.quicktelecomscan.nl](https://www.quicktelecomscan.nl)| |nginx/1.20.1| | | | :white_check_mark: | :white_check_mark: | :white_check_mark: |Nginx:1.20.1 PHP||
-|[https://quicktelecomscan.nl](https://quicktelecomscan.nl)| |nginx/1.20.1| | | | :white_check_mark: | :white_check_mark: | :white_check_mark: |Nginx:1.20.1 PHP||
+| Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
+|--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
+|[https://www.quicktelecomscan.nl](https://www.quicktelecomscan.nl)| | **45**|nginx/1.20.1| | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Nginx:1.20.1 PHP||
+|[https://quicktelecomscan.nl](https://quicktelecomscan.nl)| | **45**|nginx/1.20.1| | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Nginx:1.20.1 PHP||

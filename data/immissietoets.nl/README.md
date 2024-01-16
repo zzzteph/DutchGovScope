@@ -5,8 +5,11 @@ permalink: /dutchgov/immissietoets.nl.html
 
 
 # immissietoets.nl
-*2024-01-11 16:13:42*
 ## Summary data
+
+
+**SSL Grade**:0
+**HTTP Security Grade**:48.333333333333
 
 
 | File       | Count | Info |
@@ -19,8 +22,8 @@ permalink: /dutchgov/immissietoets.nl.html
 ## Statistics
 
 
-| Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
-|------------|-------|------|------|------|------|------|------|------|------|------|
-|[https://backend.immissietoets.nl](https://backend.immissietoets.nl)| |uvicorn| |:white_check_mark: | | | | :white_check_mark: |HSTS Python Uvicorn||
-|[https://www.immissietoets.nl](https://www.immissietoets.nl)| || |:white_check_mark: | | | | :white_check_mark: |Express HSTS Node.js|immissietoets|
-|[https://immissietoets.nl](https://immissietoets.nl)| || |:white_check_mark: | | | | :white_check_mark: |Express HSTS Node.js|immissietoets|
+| Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
+|--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
+|[https://backend.immissietoets.nl](https://backend.immissietoets.nl)| | **45**|uvicorn| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Python Uvicorn||
+|[https://www.immissietoets.nl](https://www.immissietoets.nl)| | **50**|| |:white_check_mark: | | | | | | :white_check_mark: | |Express HSTS Node.js|immissietoets|
+|[https://immissietoets.nl](https://immissietoets.nl)| | **50**|| |:white_check_mark: | | | | | | :white_check_mark: | |Express HSTS Node.js|immissietoets|

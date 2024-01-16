@@ -5,8 +5,11 @@ permalink: /dutchgov/vananaarbeter.nl.html
 
 
 # vananaarbeter.nl
-*2024-01-10 20:57:24*
 ## Summary data
+
+
+**SSL Grade**:0
+**HTTP Security Grade**:28.75
 
 
 | File       | Count | Info |
@@ -19,9 +22,9 @@ permalink: /dutchgov/vananaarbeter.nl.html
 ## Statistics
 
 
-| Url | SSL | Server | Cookie | HSTS | CSP | XFO | XXP | RP | Tech |Title |
-|------------|-------|------|------|------|------|------|------|------|------|------|
-|[http://staging.vananaarbeter.nl](http://staging.vananaarbeter.nl)| || | | | | | :white_check_mark: |HSTS|301 Moved Perman...|
-|[https://winwin.vananaarbeter.nl](https://winwin.vananaarbeter.nl)| |Apache/2| | | | | | :white_check_mark: |Apache HTTP Server:2|vanAnaarBeter |...|
-|[https://www.vananaarbeter.nl](https://www.vananaarbeter.nl)| || | | | | | :white_check_mark: ||Error|
-|[https://vananaarbeter.nl](https://vananaarbeter.nl)| || | | | | | :white_check_mark: |Akamai Craft CMS HSTS SEOmatic|vanAnaarBeter|
+| Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
+|--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
+|[http://staging.vananaarbeter.nl](http://staging.vananaarbeter.nl)| | **30**|| | | | | | | | :white_check_mark: | |HSTS|301 Moved Perman...|
+|[https://winwin.vananaarbeter.nl](https://winwin.vananaarbeter.nl)| | **25**|Apache/2| | | | | | | | :white_check_mark: | |Apache HTTP Server:2|vanAnaarBeter |...|
+|[https://www.vananaarbeter.nl](https://www.vananaarbeter.nl)| | **30**|| | | | | | | | :white_check_mark: | ||Error|
+|[https://vananaarbeter.nl](https://vananaarbeter.nl)| | **30**|| | | | | | | | :white_check_mark: | |Akamai Craft CMS HSTS SEOmatic|vanAnaarBeter|
