@@ -1,5 +1,0 @@
-http://autodiscover.odijmond.nl
-https://open-wave.odijmond.nl
-https://odijmond.nl
-https://www.odijmond.nl
-https://gisviewer.odijmond.nl

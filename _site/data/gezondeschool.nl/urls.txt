@@ -1,4 +1,0 @@
-http://sub.gezondeschool.nl
-http://test.gezondeschool.nl
-https://www.gezondeschool.nl
-https://gezondeschool.nl

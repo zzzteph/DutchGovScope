@@ -1,9 +1,0 @@
-survey-beheer.igz.nl
-survey.igz.nl
-survey-test.igz.nl
-www.igz.nl
-igz.nl
-intranet.igz.nl
-portal.igz.nl
-sdm.igz.nl
-sip.igz.nl

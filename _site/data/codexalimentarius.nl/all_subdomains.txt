@@ -1,9 +1,0 @@
-acc.codexalimentarius.nl
-dns1.codexalimentarius.nl
-dns2.codexalimentarius.nl
-duif49.codexalimentarius.nl
-duif50.codexalimentarius.nl
-www.codexalimentarius.nl
-wwww.codexalimentarius.nl
-www.acc.codexalimentarius.nl
-codexalimentarius.nl

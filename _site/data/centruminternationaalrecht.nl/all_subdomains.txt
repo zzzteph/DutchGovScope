@@ -1,7 +1,0 @@
-acc.centruminternationaalrecht.nl
-acceptatie.centruminternationaalrecht.nl
-dev.centruminternationaalrecht.nl
-prod2.centruminternationaalrecht.nl
-tst.centruminternationaalrecht.nl
-www.centruminternationaalrecht.nl
-centruminternationaalrecht.nl

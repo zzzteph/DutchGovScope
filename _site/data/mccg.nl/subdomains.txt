@@ -1,4 +1,0 @@
-feeds.mccg.nl
-mccg.nl
-opendata.mccg.nl
-www.mccg.nl

@@ -1,5 +1,0 @@
-base.usar.nl
-mail.usar.nl
-www.usar.nl
-www.base.usar.nl
-usar.nl

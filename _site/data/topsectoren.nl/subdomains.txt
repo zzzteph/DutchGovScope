@@ -1,4 +1,0 @@
-feeds.topsectoren.nl
-opendata.topsectoren.nl
-www.topsectoren.nl
-topsectoren.nl

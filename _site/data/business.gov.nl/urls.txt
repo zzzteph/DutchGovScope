@@ -1,5 +1,0 @@
-https://www.business.gov.nl
-https://opendata.business.gov.nl
-https://search.business.gov.nl
-https://api.business.gov.nl
-https://business.gov.nl

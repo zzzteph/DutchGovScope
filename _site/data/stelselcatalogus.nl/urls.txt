@@ -1,6 +1,0 @@
-https://opendata.stelselcatalogus.nl
-https://preprod.stelselcatalogus.nl
-https://preprod.opendata.stelselcatalogus.nl
-https://www.stelselcatalogus.nl
-https://stelselcatalogus.nl
-http://digitaleoverheid.stelselcatalogus.nl

@@ -1,6 +1,0 @@
-autodiscover.doemeemetmdt.nl
-organisaties.doemeemetmdt.nl
-www.doemeemetmdt.nl
-staging.doemeemetmdt.nl
-staging-organisaties.doemeemetmdt.nl
-doemeemetmdt.nl

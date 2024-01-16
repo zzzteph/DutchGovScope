@@ -1,5 +1,0 @@
-acceptatie.bodemloket.nl
-test.bodemloket.nl
-test-fe.bodemloket.nl
-www.bodemloket.nl
-bodemloket.nl

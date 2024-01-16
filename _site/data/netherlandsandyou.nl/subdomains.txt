@@ -1,5 +1,0 @@
-acc.netherlandsandyou.nl
-dev.netherlandsandyou.nl
-tst.netherlandsandyou.nl
-www.netherlandsandyou.nl
-netherlandsandyou.nl

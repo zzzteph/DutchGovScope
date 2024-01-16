@@ -1,9 +1,0 @@
-https://academic.container.hansken.org
-https://communityportal.hansken.org
-https://demo.hansken.org
-https://law-enforcement.container.hansken.org
-https://repo.hansken.org
-https://training.hansken.org
-https://www.hansken.org
-https://hansken.org
-http://docs.hansken.org

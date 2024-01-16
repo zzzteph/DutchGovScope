@@ -1,9 +1,0 @@
-acceptatie.atlasleefomgeving.nl
-ontwikkel.atlasleefomgeving.nl
-prd.atlasleefomgeving.nl
-rivm.atlasleefomgeving.nl
-test.atlasleefomgeving.nl
-www.atlasleefomgeving.nl
-www-toekomst.atlasleefomgeving.nl
-www.rivm.atlasleefomgeving.nl
-atlasleefomgeving.nl

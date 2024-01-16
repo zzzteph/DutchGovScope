@@ -1,6 +1,0 @@
-acc.kennisopenbaarbestuur.nl
-feeds.kennisopenbaarbestuur.nl
-opendata.kennisopenbaarbestuur.nl
-www.kennisopenbaarbestuur.nl
-vanwww.kennisopenbaarbestuur.nl
-kennisopenbaarbestuur.nl

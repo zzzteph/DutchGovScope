@@ -1,5 +1,0 @@
-antenneregister.nl
-ont.antenneregister.nl
-acc.antenneregister.nl
-www.antenneregister.nl
-tst.antenneregister.nl

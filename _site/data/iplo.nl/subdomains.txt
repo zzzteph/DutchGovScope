@@ -1,6 +1,0 @@
-files.iplo.nl
-forms.iplo.nl
-redactie-tl.iplo.nl
-tl.iplo.nl
-www.iplo.nl
-iplo.nl

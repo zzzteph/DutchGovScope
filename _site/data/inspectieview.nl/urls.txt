@@ -1,9 +1,0 @@
-https://acc.inspectieview.nl
-http://authenticatie.inspectieview.nl
-http://authenticatie-acc.inspectieview.nl
-https://bh-integratie.inspectieview.nl
-https://gebruikregistratie.inspectieview.nl
-https://gebruikregistratie-acc.inspectieview.nl
-https://www.inspectieview.nl
-https://www.acc.inspectieview.nl
-https://inspectieview.nl

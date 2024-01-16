@@ -1,6 +1,0 @@
-ondernemersplein.nl
-api.ondernemersplein.nl
-www.ondernemersplein.nl
-opendata.ondernemersplein.nl
-opendata.acp.ondernemersplein.nl
-autodiscover.ondernemersplein.nl

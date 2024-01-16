@@ -1,9 +1,0 @@
-acc.duurzaamdoor.nl
-lyncdiscover.duurzaamdoor.nl
-prod.duurzaamdoor.nl
-sip.duurzaamdoor.nl
-test.duurzaamdoor.nl
-www.duurzaamdoor.nl
-duurzaamdoor.nl
-www.acc.duurzaamdoor.nl
-www.test.duurzaamdoor.nl

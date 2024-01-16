@@ -1,5 +1,0 @@
-feeds.bureauncdr.nl
-np2022.bureauncdr.nl
-opendata.bureauncdr.nl
-www.bureauncdr.nl
-bureauncdr.nl

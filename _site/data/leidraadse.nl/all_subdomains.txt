@@ -1,5 +1,0 @@
-mail.leidraadse.nl
-mta-sts.mail.leidraadse.nl
-webmail.leidraadse.nl
-www.leidraadse.nl
-leidraadse.nl

@@ -1,7 +1,0 @@
-feeds.kijkopeuropa.nl
-opendata.kijkopeuropa.nl
-www.kijkopeuropa.nl
-kijkopeuropa.nl
-aanmelden.kijkopeuropa.nl
-swipen.kijkopeuropa.nl
-vragen.kijkopeuropa.nl

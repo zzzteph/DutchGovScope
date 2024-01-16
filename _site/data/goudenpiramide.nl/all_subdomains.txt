@@ -1,9 +1,0 @@
-webmail.goudenpiramide.nl
-mail.goudenpiramide.nl
-oud.goudenpiramide.nl
-test.goudenpiramide.nl
-opendata.goudenpiramide.nl
-feeds.goudenpiramide.nl
-www.goudenpiramide.nl
-cpanel.goudenpiramide.nl
-goudenpiramide.nl

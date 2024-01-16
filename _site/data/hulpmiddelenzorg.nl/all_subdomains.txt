@@ -1,9 +1,0 @@
-cpanel.hulpmiddelenzorg.nl
-cpcalendars.hulpmiddelenzorg.nl
-cpcontacts.hulpmiddelenzorg.nl
-ipv6.hulpmiddelenzorg.nl
-mail.hulpmiddelenzorg.nl
-webdisk.hulpmiddelenzorg.nl
-webmail.hulpmiddelenzorg.nl
-www.hulpmiddelenzorg.nl
-hulpmiddelenzorg.nl

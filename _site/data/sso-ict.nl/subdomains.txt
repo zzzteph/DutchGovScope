@@ -1,3 +1,0 @@
-sso-ict.nl
-www.sso-ict.nl
-msgbroker.sso-ict.nl

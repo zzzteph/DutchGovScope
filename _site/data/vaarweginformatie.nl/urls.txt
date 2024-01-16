@@ -1,5 +1,0 @@
-https://api.acceptatie.vaarweginformatie.nl
-https://www.vaarweginformatie.nl
-https://vaarweginformatie.nl
-https://vaarmelder.vaarweginformatie.nl
-https://api.vaarweginformatie.nl

@@ -1,4 +1,0 @@
-prod.higherlevel.nl
-test.higherlevel.nl
-www.higherlevel.nl
-higherlevel.nl

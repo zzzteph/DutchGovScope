@@ -1,7 +1,0 @@
-https://www.rijksictdashboard.nl
-http://acc.beheer.rijksictdashboard.nl
-http://acc.rijksictdashboard.nl
-https://beheer.rijksictdashboard.nl
-https://rijksictdashboard.nl
-http://test.beheer.rijksictdashboard.nl
-http://test.rijksictdashboard.nl

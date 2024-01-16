@@ -7,63 +7,22 @@ pagination:
   category: dutchgov
   permalink: /:num/
 ---
-
-
-
-
-
 <h2 id="key-statistics">Key Statistics</h2>
 
-<h3>Total number of domains: {{paginator.total_posts}}</h1>
-<h3 id="ssl-grades">SSL Grades</h3>
-<p>Analysys and grade statistics of SSL configuration with <a href="https://www.ssllabs.com/ssltest/">https://www.ssllabs.com/ssltest/</a>
+<h3>Number of domains: 24</h3>
+<h3>Number of subdomains: 24</h3>
+<h3>Number of urls: 0</h3>
+<h3>Average HTTP Security headers rank: 596558</h3>
+<h3>Average HTTP Security headers rank: 1228</h3>
+
 
 <ul>
-  <li>
-<strong>HttpOnly (1392):</strong> Helps mitigate the risk of client-side script accessing the protected cookie.</li>
-  <li>
-    <li>
-<strong>HttpOnly (1392):</strong> Helps mitigate the risk of client-side script accessing the protected cookie.</li>
-  <li>
-    <li>
-<strong>HttpOnly (1392):</strong> Helps mitigate the risk of client-side script accessing the protected cookie.</li>
-  <li>
-  
-</ul>  
-
-
-</p>
-
-<h3 id="cookies-security-flags">Cookies Security Flags</h3>
-<p>Cookies play a crucial role in web security and with special flag attributes security could enhance cookie of customers very much:</p>
-<ul>
-  <li>
-<strong>HttpOnly (1392):</strong> Helps mitigate the risk of client-side script accessing the protected cookie.</li>
-  <li>
-<strong>Secure (1398):</strong> Ensures cookies are sent over secure, HTTPS connections.**</li>
-  <li>
-<strong>Same-Site (24):</strong> Prevents the browser from sending this cookie along with cross-site requests.</li>
+<li><a href="/domains.txt">domains.txt</a>: List of all domains in scope</li>
+<li><a href="/subdomains.txt">subdomains.txt</a>: Detailed list of <strong>16082</strong> alive subdomains.</li>
+<li><a href="/urls.txt">urls.txt</a>: Compilation of <strong>10052</strong> URLs.</li>
+<li><a href="/all_subdomains.txt">all_subdomains.txt</a>: All <strong>32195</strong> subdomains that were found all over the time </li>
+<li><a href="/data">data/</a>: Folder containing daily updated analysis for every domain.</li>
 </ul>
-
-<h3 id="top-5-server-headers">Top 5 server headers</h3>
-<ul>
-  <li>nginx - <strong>3080</strong>
-</li>
-  <li>Microsoft-IIS/10.0 - <strong>984</strong>
-</li>
-  <li>Apache - <strong>861</strong>
-</li>
-  <li>BigIP - <strong>151</strong>
-</li>
-  <li>Microsoft-HTTPAPI/2.0 - <strong>134</strong>
-</li>
-  <li>Apache/2 - <strong>119</strong>
-</li>
-</ul>
-
-
-
-
 
 <table>
     <thead>

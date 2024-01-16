@@ -1,6 +1,0 @@
-cms.farmacotherapeutischkompas.nl
-cms-ac.farmacotherapeutischkompas.nl
-proto.farmacotherapeutischkompas.nl
-www.farmacotherapeutischkompas.nl
-www-ac.farmacotherapeutischkompas.nl
-farmacotherapeutischkompas.nl

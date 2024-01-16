@@ -1,4 +1,0 @@
-feeds.nationaalrapporteur.nl
-opendata.nationaalrapporteur.nl
-www.nationaalrapporteur.nl
-nationaalrapporteur.nl

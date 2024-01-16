@@ -1,8 +1,0 @@
-https://english.ctpveldzicht.nl
-https://feeds.ctpveldzicht.nl
-https://opendata.ctpveldzicht.nl
-https://www.ctpveldzicht.nl
-https://staging.english.ctpveldzicht.nl
-https://ctpveldzicht.nl
-https://ftp.ctpveldzicht.nl
-https://staging.ctpveldzicht.nl

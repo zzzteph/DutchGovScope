@@ -1,4 +1,0 @@
-feeds.rwseconomie.nl
-opendata.rwseconomie.nl
-www.rwseconomie.nl
-rwseconomie.nl

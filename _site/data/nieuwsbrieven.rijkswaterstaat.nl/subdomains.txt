@@ -1,3 +1,0 @@
-opendata.nieuwsbrieven.rijkswaterstaat.nl
-nieuwsbrieven.rijkswaterstaat.nl
-feeds.nieuwsbrieven.rijkswaterstaat.nl

@@ -1,7 +1,0 @@
-opendata.english.loketkennisveiligheid.nl
-english.loketkennisveiligheid.nl
-opendata.loketkennisveiligheid.nl
-feeds.loketkennisveiligheid.nl
-www.loketkennisveiligheid.nl
-feeds.english.loketkennisveiligheid.nl
-loketkennisveiligheid.nl

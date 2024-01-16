@@ -1,7 +1,0 @@
-feeds.english.nrgd.nl
-opendata.english.nrgd.nl
-opendata.nrgd.nl
-www.nrgd.nl
-feeds.nrgd.nl
-english.nrgd.nl
-nrgd.nl

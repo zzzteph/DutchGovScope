@@ -1,7 +1,0 @@
-cert.pkioverheid.nl
-cps.pkioverheid.nl
-crl.pkioverheid.nl
-www.pkioverheid.nl
-pkioverheid.nl
-domorganisatieservicesocsp-g3.pkioverheid.nl
-rootocsp-g3.pkioverheid.nl

@@ -1,9 +1,0 @@
-acceptatie.melding.inspectieszw.nl
-asbestovertredingen.inspectieszw.nl
-feeds.inspectieszw.nl
-melding.inspectieszw.nl
-monitor.inspectieszw.nl
-opendata.inspectieszw.nl
-test.melding.inspectieszw.nl
-www.inspectieszw.nl
-inspectieszw.nl

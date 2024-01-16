@@ -1,5 +1,0 @@
-a-www.ivd.nl
-feeds.ivd.nl
-opendata.ivd.nl
-www.ivd.nl
-ivd.nl

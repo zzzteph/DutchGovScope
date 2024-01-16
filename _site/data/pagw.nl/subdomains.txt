@@ -1,4 +1,0 @@
-feeds.pagw.nl
-www.pagw.nl
-opendata.pagw.nl
-pagw.nl

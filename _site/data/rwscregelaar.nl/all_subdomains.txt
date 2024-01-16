@@ -1,4 +1,0 @@
-mail.rwscregelaar.nl
-mta-sts.mail.rwscregelaar.nl
-www.rwscregelaar.nl
-rwscregelaar.nl

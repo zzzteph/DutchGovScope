@@ -1,7 +1,0 @@
-connect-acpt.justitieleictorganisatie.nl
-feeds.justitieleictorganisatie.nl
-intranet.justitieleictorganisatie.nl
-opendata.justitieleictorganisatie.nl
-www.justitieleictorganisatie.nl
-connect.justitieleictorganisatie.nl
-justitieleictorganisatie.nl

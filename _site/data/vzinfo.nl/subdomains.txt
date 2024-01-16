@@ -1,7 +1,0 @@
-www.vzinfo.nl
-vzinfo.nl
-buurtatlas.vzinfo.nl
-sterftedashboard.vzinfo.nl
-nzrdashboard.vzinfo.nl
-sterftedashboard-regionaal.vzinfo.nl
-mondgezondheidsdashboard.vzinfo.nl

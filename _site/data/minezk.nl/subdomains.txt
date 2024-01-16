@@ -1,6 +1,0 @@
-sip.minezk.nl
-lyncdiscover.minezk.nl
-www.minezk.nl
-scanapp.minezk.nl
-acc.datacatalogus.minezk.nl
-minezk.nl

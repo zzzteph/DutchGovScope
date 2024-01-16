@@ -1,6 +1,0 @@
-cpanel.mebscienceday.nl
-mail.mebscienceday.nl
-webdisk.mebscienceday.nl
-webmail.mebscienceday.nl
-mebscienceday.nl
-www.mebscienceday.nl

@@ -1,5 +1,0 @@
-feeds.regulatoryscience.nl
-intern.regulatoryscience.nl
-opendata.regulatoryscience.nl
-www.regulatoryscience.nl
-regulatoryscience.nl

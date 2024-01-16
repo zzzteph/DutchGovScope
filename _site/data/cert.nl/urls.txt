@@ -1,4 +1,0 @@
-https://www.cert.nl
-https://feeds.cert.nl
-https://opendata.cert.nl
-https://cert.nl

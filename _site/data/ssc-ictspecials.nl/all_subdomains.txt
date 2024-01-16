@@ -1,9 +1,0 @@
-english.ssc-ictspecials.nl
-feeds.ssc-ictspecials.nl
-feeds.english.ssc-ictspecials.nl
-feedsync.feeds.english.ssc-ictspecials.nl
-intern.ssc-ictspecials.nl
-opendata.ssc-ictspecials.nl
-opendata.english.ssc-ictspecials.nl
-www.ssc-ictspecials.nl
-ssc-ictspecials.nl

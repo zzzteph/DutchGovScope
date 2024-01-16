@@ -1,7 +1,0 @@
-https://feeds.denkvooruit.nl
-https://opendata.denkvooruit.nl
-https://www.denkvooruit.nl
-https://denkvooruit.nl
-https://english.denkvooruit.nl
-https://feeds.english.denkvooruit.nl
-https://opendata.english.denkvooruit.nl

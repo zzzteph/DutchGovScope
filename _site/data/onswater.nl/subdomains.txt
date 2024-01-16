@@ -1,4 +1,0 @@
-feeds.onswater.nl
-opendata.onswater.nl
-www.onswater.nl
-onswater.nl

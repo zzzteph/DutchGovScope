@@ -1,8 +1,0 @@
-feeds.commissiemijnbouwschade.nl
-lyncdiscover.commissiemijnbouwschade.nl
-mijnloket.commissiemijnbouwschade.nl
-mijnloket-acc.commissiemijnbouwschade.nl
-opendata.commissiemijnbouwschade.nl
-sip.commissiemijnbouwschade.nl
-www.commissiemijnbouwschade.nl
-commissiemijnbouwschade.nl

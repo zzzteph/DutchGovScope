@@ -1,7 +1,0 @@
-api.binnenvaartemissielabel.nl
-app.binnenvaartemissielabel.nl
-binnenvaartemissielabel.nl
-www.binnenvaartemissielabel.nl
-staging.binnenvaartemissielabel.nl
-webmail.binnenvaartemissielabel.nl
-mail.binnenvaartemissielabel.nl

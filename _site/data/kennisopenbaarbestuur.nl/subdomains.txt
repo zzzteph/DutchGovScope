@@ -1,4 +1,0 @@
-feeds.kennisopenbaarbestuur.nl
-opendata.kennisopenbaarbestuur.nl
-www.kennisopenbaarbestuur.nl
-kennisopenbaarbestuur.nl

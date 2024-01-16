@@ -1,5 +1,0 @@
-www.nimh.nl
-beeldbank.nimh.nl
-feeds.nimh.nl
-nimh.nl
-opendata.nimh.nl

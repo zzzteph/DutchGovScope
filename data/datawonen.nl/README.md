@@ -9,7 +9,7 @@ permalink: /dutchgov/datawonen.nl.html
 
 
 **SSL Grade**:0
-**HTTP Security Grade**:79.631578947368
+**HTTP Security Grade**:79.105263157895
 
 
 | File       | Count | Info |
@@ -25,7 +25,7 @@ permalink: /dutchgov/datawonen.nl.html
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
 |[https://bbsh.datawonen.nl](https://bbsh.datawonen.nl)| | **79**|Microsoft-IIS/10.0|:white_check_mark: |:white_check_mark: | | |:warning: | | :white_check_mark: | :white_check_mark: | |Amazon S3 Amazon Web Services Azure Edge Network HSTS IIS:10.0 Microsoft ASP.NET MyFonts Windows Server|Jive|
-|[https://btiv.datawonen.nl](https://btiv.datawonen.nl)| | **79**|Microsoft-IIS/10.0|:white_check_mark: |:white_check_mark: | :warning:| |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Amazon S3 Amazon Web Services Azure Edge Network HSTS IIS:10.0 Microsoft ASP.NET MyFonts Windows Server|BTiV Monitor|
+|[https://btiv.datawonen.nl](https://btiv.datawonen.nl)| | **69**|Microsoft-IIS/10.0|:white_check_mark: |:white_check_mark: | :warning:| |:warning: | | :white_check_mark: | :white_check_mark: | |Amazon S3 Amazon Web Services Azure Edge Network HSTS IIS:10.0 Microsoft ASP.NET MyFonts Windows Server|BTiV Monitor|
 |[https://cowb.datawonen.nl](https://cowb.datawonen.nl)| | **89**|Microsoft-IIS/10.0|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS IIS:10.0 Microsoft ASP.NET:4.0.30319 Windows Server|Object moved|
 |[https://dfg.datawonen.nl](https://dfg.datawonen.nl)| | **89**|Microsoft-IIS/10.0|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Amazon S3 Amazon Web Services Azure Edge Network HSTS IIS:10.0 Microsoft ASP.NET:4.0.30319 MyFonts Windows Server|Findo - Data Fin...|
 |[https://disco.datawonen.nl](https://disco.datawonen.nl)| | **79**|Microsoft-IIS/10.0|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bootstrap:4.1.3 HSTS IIS:10.0 Microsoft ASP.NET:4.0.30319 Windows Server|DISCO Data Infor...|

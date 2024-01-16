@@ -1,6 +1,0 @@
-https://feeds.politiekeambtsdragers.nl
-https://opendata.politiekeambtsdragers.nl
-https://www.politiekeambtsdragers.nl
-https://politiekeambtsdragers.nl
-https://api.burgemeesterworden.politiekeambtsdragers.nl
-https://burgemeesterworden.politiekeambtsdragers.nl

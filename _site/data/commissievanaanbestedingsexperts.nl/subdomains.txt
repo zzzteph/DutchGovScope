@@ -1,6 +1,0 @@
-feeds.commissievanaanbestedingsexperts.nl
-lyncdiscover.commissievanaanbestedingsexperts.nl
-opendata.commissievanaanbestedingsexperts.nl
-sip.commissievanaanbestedingsexperts.nl
-www.commissievanaanbestedingsexperts.nl
-commissievanaanbestedingsexperts.nl

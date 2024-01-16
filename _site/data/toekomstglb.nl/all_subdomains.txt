@@ -1,6 +1,0 @@
-feeds.toekomstglb.nl
-hostmaster.toekomstglb.nl
-mail.toekomstglb.nl
-opendata.toekomstglb.nl
-www.toekomstglb.nl
-toekomstglb.nl

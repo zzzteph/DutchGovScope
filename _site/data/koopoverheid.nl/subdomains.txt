@@ -1,7 +1,0 @@
-a-opendata.koopoverheid.nl
-opendata.koopoverheid.nl
-a-www.koopoverheid.nl
-a-feeds.koopoverheid.nl
-feeds.koopoverheid.nl
-www.koopoverheid.nl
-koopoverheid.nl
