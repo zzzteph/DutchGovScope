@@ -1,7 +1,7 @@
 ---
 layout: dutchgov
 title: Dutch Government
-permalink: /dutchgov/
+permalink: DutchGovScope/dutchgov/
 pagination: 
   enabled: true
   category: dutchgov
