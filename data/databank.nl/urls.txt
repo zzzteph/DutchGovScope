@@ -137,7 +137,7 @@ https://www.amsterdam.rosopen.databank.nl
 https://test-mbotransparant.databank.nl
 https://dd.databank.nl
 https://00klimaatmonitor.databank.nl
-http://beta-adc.databank.nl
+https://beta-adc.databank.nl
 https://drenthe.databank.nl
 https://beta-velsen.databank.nl
 https://zorgimpuls.rosopen.databank.nl

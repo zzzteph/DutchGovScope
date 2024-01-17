@@ -9,7 +9,7 @@ permalink: /dutchgov/rdobeheer.nl.html
 
 
 **SSL Grade**:0
-**HTTP Security Grade**:61.352941176471
+**HTTP Security Grade**:61.573529411765
 
 
 | File       | Count | Info |
@@ -32,7 +32,7 @@ permalink: /dutchgov/rdobeheer.nl.html
 |[https://helpdesk.acc.rdobeheer.nl](https://helpdesk.acc.rdobeheer.nl)| | **60**|| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS||
 |[https://helpdesk.rdobeheer.nl](https://helpdesk.rdobeheer.nl)| | **94**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Ruby Ruby on Rails|iRealisatie Help...|
 |[http://login-uzi.proeftuin.uzi-online.rdobeheer.nl](http://login-uzi.proeftuin.uzi-online.rdobeheer.nl)| | **30**|| | | | | | | | :white_check_mark: | |||
-|[https://max.proeftuin.uzi-online.rdobeheer.nl](https://max.proeftuin.uzi-online.rdobeheer.nl)| | **65**|test1| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS||
+|[https://max.proeftuin.uzi-online.rdobeheer.nl](https://max.proeftuin.uzi-online.rdobeheer.nl)| | **75**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS||
 |[https://yivi.proeftuin.uzi-online.rdobeheer.nl](https://yivi.proeftuin.uzi-online.rdobeheer.nl)| | **82**||:warning: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS|YIVI Disclosure|
 |[https://proeftuin.uzi-online.rdobeheer.nl](https://proeftuin.uzi-online.rdobeheer.nl)| | **70**|Apache| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |Apache HTTP Server Basic HSTS|401 Unauthorized|
 |[https://oidc.proeftuin.uzi-online.rdobeheer.nl](https://oidc.proeftuin.uzi-online.rdobeheer.nl)| | **75**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS||
@@ -40,7 +40,7 @@ permalink: /dutchgov/rdobeheer.nl.html
 |[https://balie.acc.woo.rdobeheer.nl](https://balie.acc.woo.rdobeheer.nl)| | **55**|Apache| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server Basic HSTS|401 Unauthorized|
 |[https://nextcloud.acc.rdobeheer.nl](https://nextcloud.acc.rdobeheer.nl)| | **104**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nextcloud PHP||
 |[https://mailcatch.acc.rdobeheer.nl](https://mailcatch.acc.rdobeheer.nl)| | **80**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Basic HSTS|401 Unauthorized|
-|[https://pilot.uzi-online.acc.rdobeheer.nl](https://pilot.uzi-online.acc.rdobeheer.nl)| | **65**|monday| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |Basic HSTS|401 Unauthorized|
+|[https://pilot.uzi-online.acc.rdobeheer.nl](https://pilot.uzi-online.acc.rdobeheer.nl)| | **70**|| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |Basic HSTS|401 Unauthorized|
 |[https://yivi.pilot.uzi-online.acc.rdobeheer.nl](https://yivi.pilot.uzi-online.acc.rdobeheer.nl)| | **82**||:warning: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS|YIVI Disclosure|
 |[http://login-uzi.pilot.uzi-online.acc.rdobeheer.nl](http://login-uzi.pilot.uzi-online.acc.rdobeheer.nl)| | **30**|| | | | | | | | :white_check_mark: | |||
 |[http://gitea.rdobeheer.nl](http://gitea.rdobeheer.nl)| | **25**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|301 Moved Perman...|

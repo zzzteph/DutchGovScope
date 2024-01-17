@@ -14,7 +14,7 @@ permalink: /dutchgov/logius.nl.html
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/logius.nl/subdomains.txt)|68|Alive subdomains|
+|[subdomains.txt](/data/logius.nl/subdomains.txt)|69|Alive subdomains|
 |[urls.txt](/data/logius.nl/urls.txt)|49|Urls|
 |[all_subdomains.txt](/data/logius.nl/all_subdomains.txt)|117|All found subdomains (history)|
 

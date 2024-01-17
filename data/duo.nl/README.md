@@ -9,13 +9,13 @@ permalink: /dutchgov/duo.nl.html
 
 
 **SSL Grade**:0
-**HTTP Security Grade**:71.967741935484
+**HTTP Security Grade**:70.166666666667
 
 
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/duo.nl/subdomains.txt)|77|Alive subdomains|
-|[urls.txt](/data/duo.nl/urls.txt)|31|Urls|
+|[urls.txt](/data/duo.nl/urls.txt)|24|Urls|
 |[all_subdomains.txt](/data/duo.nl/all_subdomains.txt)|226|All found subdomains (history)|
 
 
@@ -39,16 +39,9 @@ permalink: /dutchgov/duo.nl.html
 |[https://personenregisterkinderopvang.duo.nl](https://personenregisterkinderopvang.duo.nl)| | **85**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Personenregister...|
 |[https://rio-kennisbank.duo.nl](https://rio-kennisbank.duo.nl)| | **94**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Google Tag Manager HSTS Java|Kennisbank|
 |[https://staging.duo.nl](https://staging.duo.nl)| | **80**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Amazon S3 Amazon Web Services HSTS Java||
-|[https://test-onderwijsdata.duo.nl](https://test-onderwijsdata.duo.nl)| | **80**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://uag.duo.nl](https://uag.duo.nl)| | **94**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Java|VMware Horizon|
 |[https://vt-2bron.duo.nl](https://vt-2bron.duo.nl)| | **30**|| | | | | | | | :white_check_mark: | |||
-|[https://vt-apps.duo.nl](https://vt-apps.duo.nl)| | **70**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|vt.duo.nl|
-|[https://vt-digidzakelijk.duo.nl](https://vt-digidzakelijk.duo.nl)| | **94**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Inloggen - Mijn...|
-|[https://vt-eidas-mijn.duo.nl](https://vt-eidas-mijn.duo.nl)| | **84**||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
-|[https://vt-idposr.duo.nl](https://vt-idposr.duo.nl)| | **65**|WebSEAL/10.0.6.0| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Moved Temporaril...|
-|[https://vt-mijn.duo.nl](https://vt-mijn.duo.nl)| | **70**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://vt-personenregisterkinderopvang.duo.nl](https://vt-personenregisterkinderopvang.duo.nl)| | **85**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Personenregister...|
-|[https://vt-zakelijk.duo.nl](https://vt-zakelijk.duo.nl)| | **84**||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Inloggen op Mijn...|
 |[https://werkplek.duo.nl](https://werkplek.duo.nl)| | **94**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Java|VMware Horizon|
 |[https://www.duo.nl](https://www.duo.nl)| | **80**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Amazon S3 Amazon Web Services HSTS Java||
 |[https://xbrlonderwijsportaal.duo.nl](https://xbrlonderwijsportaal.duo.nl)| | **25**|istio-envoy| | | | | | | | :white_check_mark: | |Amazon Web Services Envoy HSTS|Serviceportaal|

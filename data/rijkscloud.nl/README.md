@@ -9,13 +9,13 @@ permalink: /dutchgov/rijkscloud.nl.html
 
 
 **SSL Grade**:0
-**HTTP Security Grade**:60
+**HTTP Security Grade**:59.913907284768
 
 
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/rijkscloud.nl/subdomains.txt)|557|Alive subdomains|
-|[urls.txt](/data/rijkscloud.nl/urls.txt)|150|Urls|
+|[urls.txt](/data/rijkscloud.nl/urls.txt)|151|Urls|
 |[all_subdomains.txt](/data/rijkscloud.nl/all_subdomains.txt)|761|All found subdomains (history)|
 
 
@@ -160,14 +160,15 @@ permalink: /dutchgov/rijkscloud.nl.html
 |[https://sso.dbe-t.rvb.rijkscloud.nl](https://sso.dbe-t.rvb.rijkscloud.nl)| | **45**|Microsoft-IIS/10.0| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS IIS:10.0 Microsoft ASP.NET Windows Server||
 |[https://ssp.estota.rijkscloud.nl](https://ssp.estota.rijkscloud.nl)| | **30**|| | | | | | | | :white_check_mark: | |Basic||
 |[https://ssp.ix.rijkscloud.nl](https://ssp.ix.rijkscloud.nl)| | **69**|rijkscloud.nl|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS|Redirecting...|
-|[https://stats.duo.rijkscloud.nl](https://stats.duo.rijkscloud.nl)| | **79**|Apache|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS|Matomo › Error|
+|[https://stats.duo.rijkscloud.nl](https://stats.duo.rijkscloud.nl)| | **79**|Apache|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |AngularJS Apache HTTP Server HSTS Matomo Analytics|Sign in - Matomo|
 |[https://status.rijkscloud.nl](https://status.rijkscloud.nl)| | **75**|| |:white_check_mark: | | | :white_check_mark:| | :white_check_mark: | :white_check_mark: | |Bootstrap:3.4.1 HSTS|ODCN Status page|
-|[https://superset.dev.fib.ienw.rijkscloud.nl](https://superset.dev.fib.ienw.rijkscloud.nl)| | **45**|gunicorn| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Python gunicorn|Redirecting...|
+|[https://superset.dev.fib.ienw.rijkscloud.nl](https://superset.dev.fib.ienw.rijkscloud.nl)| | **62**|gunicorn|:warning: |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS Python gunicorn|Redirecting...|
 |[https://uno.dfront.rijkscloud.nl](https://uno.dfront.rijkscloud.nl)| | **45**|Apache| |:white_check_mark: | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|UNO Documentatie|
 |[https://webmail.rijkscloud.nl](https://webmail.rijkscloud.nl)| | **69**|Apache|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server Bootstrap HSTS PHP RoundCube|Roundcube Webmai...|
 |[https://www.rijkscloud.nl](https://www.rijkscloud.nl)| | **45**|Apache| |:white_check_mark: | | | | | | :white_check_mark: | |Apache HTTP Server HSTS||
 |[https://rijkscloud.nl](https://rijkscloud.nl)| | **45**|Apache| |:white_check_mark: | | | | | | :white_check_mark: | |Apache HTTP Server HSTS||
 |[https://openstack.gn3.rijkscloud.nl](https://openstack.gn3.rijkscloud.nl)| | **25**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
+|[http://status.gn3.rijkscloud.nl](http://status.gn3.rijkscloud.nl)| | **30**|| | | | | | | | :white_check_mark: | |||
 |[https://portal.ip.test.duo.rijkscloud.nl](https://portal.ip.test.duo.rijkscloud.nl)| | **60**|| |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | |HSTS Java||
 |[https://ip.test.duo.rijkscloud.nl](https://ip.test.duo.rijkscloud.nl)| | **30**|| | | | | | | | :white_check_mark: | |||
 |[https://rstudio.ip.test.duo.rijkscloud.nl](https://rstudio.ip.test.duo.rijkscloud.nl)| | **45**|RStudio| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||

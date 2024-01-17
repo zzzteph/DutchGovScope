@@ -26,4 +26,4 @@ permalink: /dutchgov/knooppuntjoure.nl.html
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
 |[https://mail.knooppuntjoure.nl](https://mail.knooppuntjoure.nl)| | **25**|cloudflare| | | | | | | | :white_check_mark: | |Cloudflare HTTP/3||
 |[https://www.knooppuntjoure.nl](https://www.knooppuntjoure.nl)| | **25**|cloudflare| | | | | | | | :white_check_mark: | |Cloudflare HTTP/3 MySQL PHP:8.0.30 WordPress|Knooppuntjoure.n...|
-|[https://knooppuntjoure.nl](https://knooppuntjoure.nl)| | **25**|cloudflare| | | | | | | | :white_check_mark: | |Cloudflare HTTP/3||
+|[https://knooppuntjoure.nl](https://knooppuntjoure.nl)| | **25**|cloudflare| | | | | | | | :white_check_mark: | |Cloudflare HTTP/3 PHP:8.0.30||

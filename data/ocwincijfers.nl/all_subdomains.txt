@@ -19,3 +19,4 @@ opendata.ocwincijfers.nl
 opendata.english.ocwincijfers.nl
 www.ocwincijfers.nl
 ocwincijfers.nl
+nieuwe-www.ocwincijfers.nl

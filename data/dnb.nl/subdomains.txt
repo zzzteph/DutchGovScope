@@ -9,11 +9,8 @@ www.cn.dnb.nl
 sip2.dnb.nl
 cs2a.dnb.nl
 muntvondsten.dnb.nl
-federationint.dnb.nl
-federation.dnb.nl
 nationaalarchiefa.dnb.nl
 etender.dnb.nl
-federationaint.dnb.nl
 ing-dnb.dnb.nl
 woxi.dnb.nl
 sem.dnb.nl
@@ -31,13 +28,9 @@ swsexternalwsn01.dnb.nl
 registers.dnb.nl
 guestwifi.dnb.nl
 ing-dnba.dnb.nl
-ext3-federation.dnb.nl
-ext3-federationa.dnb.nl
 swsexternalams01.dnb.nl
-ext2-federation.dnb.nl
 cocotoa.dnb.nl
 statistiek.api.dnb.nl
-federationa.dnb.nl
 statistiek.dnb.nl
 cs2.dnb.nl
 atender.dnb.nl
@@ -49,8 +42,6 @@ statistieka.dnb.nl
 www.toezicht.dnb.nl
 cbs-dnb.dnb.nl
 statistics.dnb.nl
-ext2-federationa.dnb.nl
-preprod-pki.dnb.nl
 nnc.dnb.nl
 merkportaal.dnb.nl
 formulieren.dnb.nl
@@ -80,7 +71,6 @@ paymenthub-acc.dnb.nl
 delfi.dnb.nl
 nieuwsbrief.dnb.nl
 info.dnb.nl
-ext1-federationa.dnb.nl
 mijn-api.dnb.nl
 umbracodev2.dnb.nl
 api-mockapp-dev.dnb.nl
@@ -91,7 +81,6 @@ riks.azure.dnb.nl
 mijntoezicht-acc.azure.dnb.nl
 stepui-dev.azure.dnb.nl
 mijnresolutie-acc.azure.dnb.nl
-ext1-federation.dnb.nl
 docs.riks-ft.azure.dnb.nl
 outlook.dnb.nl
 dkeservice-test.dnb.nl

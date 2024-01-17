@@ -8,14 +8,14 @@ permalink: /dutchgov/cbs.nl.html
 ## Summary data
 
 
-**SSL Grade**:93.161764705882
-**HTTP Security Grade**:46.651162790698
+**SSL Grade**:93.333333333333
+**HTTP Security Grade**:46.80701754386
 
 
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/cbs.nl/subdomains.txt)|210|Alive subdomains|
-|[urls.txt](/data/cbs.nl/urls.txt)|172|Urls|
+|[urls.txt](/data/cbs.nl/urls.txt)|171|Urls|
 |[all_subdomains.txt](/data/cbs.nl/all_subdomains.txt)|352|All found subdomains (history)|
 
 
@@ -41,7 +41,7 @@ permalink: /dutchgov/cbs.nl.html
 |[https://api.mig.cbs.nl](https://api.mig.cbs.nl)| | **25**|nginx| | | | | | | | :white_check_mark: | |Nginx|403 Forbidden|
 |[https://argon2.cbs.nl](https://argon2.cbs.nl)| **A**| **30**|| | | | | | | | :white_check_mark: | |||
 |[https://azwstatline.cbs.nl](https://azwstatline.cbs.nl)| **A+**| **70**|Webserver| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |Bootstrap:3.0.0 D3 HSTS NVD3|CBS Statline|
-|[https://beeldbank.cbs.nl](https://beeldbank.cbs.nl)| **A**| **57**||:warning: | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Microsoft ASP.NET|Homepage | Beeld...|
+|[https://beeldbank.cbs.nl](https://beeldbank.cbs.nl)| **A**| **57**||:warning: | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Microsoft ASP.NET:4.0.30319|Homepage | Beeld...|
 |[https://beeldbank-beheer.cbs.nl](https://beeldbank-beheer.cbs.nl)| **A**| **52**|Picture Pack|:warning: | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Microsoft ASP.NET:4.0.30319|Picture Pack|
 |[https://beo.cbs.nl](https://beo.cbs.nl)| **A+**| **62**|Microsoft-IIS/10.0|:warning: |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS IIS:10.0 Microsoft ASP.NET:4.0.30319 Windows Server|Object moved|
 |[https://bestandslevering.cbs.nl](https://bestandslevering.cbs.nl)| **A+**| **45**|Microsoft-IIS/10.0| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS IIS:10.0 Microsoft ASP.NET Windows Server|CBS|
@@ -75,7 +75,7 @@ permalink: /dutchgov/cbs.nl.html
 |[https://dev.cerberus.cbs.nl](https://dev.cerberus.cbs.nl)| | **30**|| | | | | | | | :white_check_mark: | ||CerBeruS|
 |[https://devtestlogin.cbs.nl](https://devtestlogin.cbs.nl)| **A+**| **55**|Microsoft-IIS/10.0| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS IIS:10.0 Microsoft ASP.NET Windows Server|IIS Windows Serv...|
 |[https://dialin.cbs.nl](https://dialin.cbs.nl)| **A**| **30**|| | | | | | | | :white_check_mark: | |||
-|[https://doemee.cbs.nl](https://doemee.cbs.nl)| **A+**| **62**|Microsoft-IIS/10.0|:warning: |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Bootstrap HSTS IIS:10.0 Microsoft ASP.NET Windows Server|Inloggen vragenl...|
+|[https://doemee.cbs.nl](https://doemee.cbs.nl)| **A+**| **62**|Microsoft-IIS/10.0|:warning: |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Bootstrap HSTS IIS:10.0 Microsoft ASP.NET:4.0.30319 Windows Server|Inloggen vragenl...|
 |[https://dossierportal.cbs.nl](https://dossierportal.cbs.nl)| **B**| **25**|nginx| | | | | | | | :white_check_mark: | |Nginx|403 Forbidden|
 |[https://download.cbs.nl](https://download.cbs.nl)| **A+**| **45**|Microsoft-IIS/10.0| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS IIS:10.0 Microsoft ASP.NET Windows Server|403 - Forbidden:...|
 |[https://egain-com.cbs.nl](https://egain-com.cbs.nl)| **A+**| **45**|Kestrel| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Kestrel Microsoft ASP.NET||
@@ -158,12 +158,11 @@ permalink: /dutchgov/cbs.nl.html
 |[https://sdmx.cbs.nl](https://sdmx.cbs.nl)| **A+**| **45**|Microsoft-IIS/10.0| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS IIS:10.0 Microsoft ASP.NET Windows Server|IIS Windows Serv...|
 |[http://seg.cbs.nl](http://seg.cbs.nl)| | **30**|| | | | | | | | :white_check_mark: | |||
 |[https://statline.cbs.nl](https://statline.cbs.nl)| **A**| **75**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |||
-|[https://storage.databestanden.cbs.nl](https://storage.databestanden.cbs.nl)| **A+**| **70**|MinIO| |:white_check_mark: | | | :white_check_mark:| | :white_check_mark: | :white_check_mark: | |Amazon Web Services HSTS||
+|[https://storage.databestanden.cbs.nl](https://storage.databestanden.cbs.nl)| **A+**| **75**|| |:white_check_mark: | | | :white_check_mark:| | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://storing.cbs.nl](https://storing.cbs.nl)| **A+**| **45**|Microsoft-IIS/10.0| |:white_check_mark: | | | | | | :white_check_mark: | |Bootstrap HSTS IIS:10.0 Microsoft ASP.NET Windows Server|Fout opgetreden!|
 |[https://sts.cbs.nl](https://sts.cbs.nl)| **B**| **25**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
 |[https://surveys.cbs.nl](https://surveys.cbs.nl)| **A+**| **45**|Microsoft-IIS/10.0| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS IIS:10.0 Microsoft ASP.NET Windows Server|IIS Windows Serv...|
 |[https://tabi.cbs.nl](https://tabi.cbs.nl)| **A**| **30**|| | | | | | | | :white_check_mark: | |||
-|[https://taxonomie.cbs.nl](https://taxonomie.cbs.nl)| **B**| **25**|Apache/2.4.41 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.41 Ubuntu||
 |[https://test.cerberus.cbs.nl](https://test.cerberus.cbs.nl)| **B**| **30**|| | | | | | | | :white_check_mark: | ||CerBeruS|
 |[https://testchat.cbs.nl](https://testchat.cbs.nl)| **A**| **30**|| | | | | | | | :white_check_mark: | |||
 |[https://testlogin.cbs.nl](https://testlogin.cbs.nl)| **A**| **30**|| | | | | | | | :white_check_mark: | |||

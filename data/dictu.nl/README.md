@@ -42,7 +42,7 @@ permalink: /dutchgov/dictu.nl.html
 |[https://cbo-a.dictu.nl](https://cbo-a.dictu.nl)| | **80**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |||
 |[https://cbo-b.dictu.nl](https://cbo-b.dictu.nl)| | **80**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |||
 |[https://datasluis.dictu.nl](https://datasluis.dictu.nl)| | **94**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Redirect|
-|[https://engine.acc.fhub.dictu.nl](https://engine.acc.fhub.dictu.nl)| | **72**|Apache|:warning: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS|dictu - Metadata...|
+|[https://engine.acc.fhub.dictu.nl](https://engine.acc.fhub.dictu.nl)| | **72**|Apache|:warning: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS|OpenConext - Met...|
 |[https://engine.fhub.dictu.nl](https://engine.fhub.dictu.nl)| | **52**|Apache|:warning: |:white_check_mark: | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|dictu - Metadata...|
 |[https://fhub.dictu.nl](https://fhub.dictu.nl)| | **30**|| | | | | | | | :white_check_mark: | |HSTS||
 |[https://gisextern.dictu.nl](https://gisextern.dictu.nl)| | **64**||:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|IIS Windows Serv...|
@@ -56,7 +56,7 @@ permalink: /dutchgov/dictu.nl.html
 |[https://klussenbank.dictu.nl](https://klussenbank.dictu.nl)| | **25**|nginx| | | | | | | | :white_check_mark: | |Nginx|403 Forbidden|
 |[https://klussenbank-acc.dictu.nl](https://klussenbank-acc.dictu.nl)| | **25**|nginx| | | | | | | | :white_check_mark: | |Basic Nginx|401 Authorizatio...|
 |[https://mailing.dictu.nl](https://mailing.dictu.nl)| | **45**|Spotler| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
-|[https://mft.webftp.dictu.nl](https://mft.webftp.dictu.nl)| | **30**|| | | | | | | | :white_check_mark: | ||Redirect|
+|[https://mft.webftp.dictu.nl](https://mft.webftp.dictu.nl)| | **30**|| | | | | | | | :white_check_mark: | |Basic|Unauthorized|
 |[https://mijntoken.dictu.nl](https://mijntoken.dictu.nl)| | **94**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|302 Moved Tempor...|
 |[https://pms.dictu.nl](https://pms.dictu.nl)| | **67**||:warning: |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS Microsoft ASP.NET|Object moved|
 |[https://pms-acc.dictu.nl](https://pms-acc.dictu.nl)| | **94**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET||

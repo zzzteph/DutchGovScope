@@ -9,7 +9,7 @@ permalink: /dutchgov/amlc.nl.html
 
 
 **SSL Grade**:0
-**HTTP Security Grade**:52.25
+**HTTP Security Grade**:53.5
 
 
 | File       | Count | Info |
@@ -27,4 +27,4 @@ permalink: /dutchgov/amlc.nl.html
 |[https://www.amlc.nl](https://www.amlc.nl)| | **84**||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS MySQL PHP WordPress Yoast SEO:21.6|AMLC - Anti Mone...|
 |[https://amlc.nl](https://amlc.nl)| | **70**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|301 Moved Perman...|
 |[https://21www.amlc.nl](https://21www.amlc.nl)| | **30**|| | | | | | | | :white_check_mark: | |HSTS||
-|[http://8www.amlc.nl](http://8www.amlc.nl)| | **25**|BigIP| | | | | | | | :white_check_mark: | |F5 BigIP||
+|[https://8www.amlc.nl](https://8www.amlc.nl)| | **30**|| | | | | | | | :white_check_mark: | |HSTS||

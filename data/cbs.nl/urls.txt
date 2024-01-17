@@ -137,7 +137,6 @@ https://storing.cbs.nl
 https://sts.cbs.nl
 https://surveys.cbs.nl
 https://tabi.cbs.nl
-https://taxonomie.cbs.nl
 https://test.cerberus.cbs.nl
 https://testchat.cbs.nl
 https://testlogin.cbs.nl

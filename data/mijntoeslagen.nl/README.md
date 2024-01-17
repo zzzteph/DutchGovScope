@@ -16,7 +16,7 @@ permalink: /dutchgov/mijntoeslagen.nl.html
 |------------|-------|------|
 |[subdomains.txt](/data/mijntoeslagen.nl/subdomains.txt)|3|Alive subdomains|
 |[urls.txt](/data/mijntoeslagen.nl/urls.txt)|3|Urls|
-|[all_subdomains.txt](/data/mijntoeslagen.nl/all_subdomains.txt)|3|All found subdomains (history)|
+|[all_subdomains.txt](/data/mijntoeslagen.nl/all_subdomains.txt)|4|All found subdomains (history)|
 
 
 ## Statistics

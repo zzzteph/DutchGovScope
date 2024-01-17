@@ -14,7 +14,7 @@ permalink: /dutchgov/dnb.nl.html
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/dnb.nl/subdomains.txt)|177|Alive subdomains|
+|[subdomains.txt](/data/dnb.nl/subdomains.txt)|166|Alive subdomains|
 |[urls.txt](/data/dnb.nl/urls.txt)|109|Urls|
 |[all_subdomains.txt](/data/dnb.nl/all_subdomains.txt)|270|All found subdomains (history)|
 

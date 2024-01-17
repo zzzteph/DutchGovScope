@@ -9,13 +9,13 @@ permalink: /dutchgov/brabant.nl.html
 
 
 **SSL Grade**:92.596153846154
-**HTTP Security Grade**:49.246753246753
+**HTTP Security Grade**:49.078947368421
 
 
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/brabant.nl/subdomains.txt)|137|Alive subdomains|
-|[urls.txt](/data/brabant.nl/urls.txt)|77|Urls|
+|[urls.txt](/data/brabant.nl/urls.txt)|76|Urls|
 |[all_subdomains.txt](/data/brabant.nl/all_subdomains.txt)|227|All found subdomains (history)|
 
 
@@ -50,7 +50,7 @@ permalink: /dutchgov/brabant.nl.html
 |[https://draf.brabant.nl](https://draf.brabant.nl)| **A+**| **50**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|403 - Forbidden:...|
 |[http://videoserver2.brabant.nl](http://videoserver2.brabant.nl)| | **30**|| | | | | | | | :white_check_mark: | ||Index page|
 |[https://dataportaal.brabant.nl](https://dataportaal.brabant.nl)| **B**| **62**|Microsoft-IIS/10.0|:warning: |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Azure Bootstrap:4.3.1 HSTS IIS:10.0 Microsoft ASP.NET Windows Server|Dataportaal Brab...|
-|[https://wegen.brabant.nl](https://wegen.brabant.nl)| **A+**| **70**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET|Object moved|
+|[http://wegen.brabant.nl](http://wegen.brabant.nl)| **A+**| **70**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET||
 |[https://brabantnext.brabant.nl](https://brabantnext.brabant.nl)| | **65**|HYPE| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:hype||
 |[https://autorisatie-prod.brabant.nl](https://autorisatie-prod.brabant.nl)| **A+**| **50**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
 |[https://beeldbank.brabant.nl](https://beeldbank.brabant.nl)| **A**| **77**||:warning: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:4.0.30319|Homepage | Provi...|
@@ -70,7 +70,6 @@ permalink: /dutchgov/brabant.nl.html
 |[https://brains-acc.brabant.nl](https://brains-acc.brabant.nl)| **A+**| **79**|Apache|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS||
 |[https://facilitor.brabant.nl](https://facilitor.brabant.nl)| **A**| **79**|BigIP|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |F5 BigIP||
 |[https://www.dataportaal.brabant.nl](https://www.dataportaal.brabant.nl)| | **25**|Microsoft-Azure-Application-Gateway/v2| | | | | | | | :white_check_mark: | ||404 Not Found|
-|[https://blogs.brabant.nl](https://blogs.brabant.nl)| | **25**|nginx| | | | | | | | :white_check_mark: | |Nginx|This is the defa...|
 |[http://draf-acpt.brabant.nl](http://draf-acpt.brabant.nl)| | **25**|Microsoft-IIS/10.0| | | | | | | | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server|403 - Forbidden:...|
 |[https://publicaties.brabant.nl](https://publicaties.brabant.nl)| | **30**|| | | | | | | | :white_check_mark: | |HSTS||
 |[https://samenwerken.brabant.nl](https://samenwerken.brabant.nl)| **A**| **89**|BigIP|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |F5 BigIP||
@@ -88,7 +87,7 @@ permalink: /dutchgov/brabant.nl.html
 |[https://geoportaal.brabant.nl](https://geoportaal.brabant.nl)| | **25**|Microsoft-IIS/10.0| | | | | | | | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server|IIS Windows Serv...|
 |[https://bevolkingsprognose.brabant.nl](https://bevolkingsprognose.brabant.nl)| **A**| **65**|Apache| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS|De bevolkings- e...|
 |[https://werkenvoor.brabant.nl](https://werkenvoor.brabant.nl)| **A+**| **84**||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET|Werken bij de pr...|
-|[https://api-acpt.brabant.nl](https://api-acpt.brabant.nl)| **A**| **42**|BigIP|:warning: | | | | | :white_check_mark: | | :white_check_mark: | |F5 BigIP||
+|[http://api-acpt.brabant.nl](http://api-acpt.brabant.nl)| **A**| **42**|BigIP|:warning: | | | | | :white_check_mark: | | :white_check_mark: | |F5 BigIP||
 |[https://esb.brabant.nl](https://esb.brabant.nl)| **A**| **25**|BigIP| | | | | | | | :white_check_mark: | |F5 BigIP|The page cannot...|
 |[https://opendata.brabant.nl](https://opendata.brabant.nl)| **A**| **60**|BigIP| |:white_check_mark: | | | :white_check_mark:| | | :white_check_mark: | |F5 BigIP||
 |[https://brains.brabant.nl](https://brains.brabant.nl)| **A+**| **79**|Apache|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS||
@@ -96,7 +95,7 @@ permalink: /dutchgov/brabant.nl.html
 |[https://bevolkingsprognose2020.brabant.nl](https://bevolkingsprognose2020.brabant.nl)| **A**| **65**|Apache| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server Drupal:7 HSTS PHP|De bevolkings- e...|
 |[https://app.brabant.nl](https://app.brabant.nl)| **A**| **25**|LiteSpeed| | | | | | | | :white_check_mark: | |HTTP/3 LiteSpeed||
 |[https://mik-acpt.brabant.nl](https://mik-acpt.brabant.nl)| **A+**| **50**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|Page Redirection|
-|[https://bzv-a.brabant.nl](https://bzv-a.brabant.nl)| **B**| **62**|Microsoft-IIS/10.0|:warning: |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS IIS:10.0 Microsoft ASP.NET:4.0.30319 Windows Server||
+|[http://bzv-a.brabant.nl](http://bzv-a.brabant.nl)| **B**| **25**|Microsoft-IIS/10.0| | | | | | | | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server|403 - Forbidden:...|
 |[https://geoportaal-acceptatie.brabant.nl](https://geoportaal-acceptatie.brabant.nl)| | **25**|Microsoft-Azure-Application-Gateway/v2| | | | | | | | :white_check_mark: | ||502 Bad Gateway|
 |[http://informatie-rws.brabant.nl](http://informatie-rws.brabant.nl)| | **25**|BigIP| | | | | | | | :white_check_mark: | |F5 BigIP||
 |[https://digicheck.brabant.nl](https://digicheck.brabant.nl)| **B**| **30**|| | | | | | | | :white_check_mark: | |Microsoft ASP.NET||

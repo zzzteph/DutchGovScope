@@ -14,7 +14,7 @@ permalink: /dutchgov/zorgaanbiedersportaal.nl.html
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/zorgaanbiedersportaal.nl/subdomains.txt)|20|Alive subdomains|
+|[subdomains.txt](/data/zorgaanbiedersportaal.nl/subdomains.txt)|18|Alive subdomains|
 |[urls.txt](/data/zorgaanbiedersportaal.nl/urls.txt)|18|Urls|
 |[all_subdomains.txt](/data/zorgaanbiedersportaal.nl/all_subdomains.txt)|21|All found subdomains (history)|
 

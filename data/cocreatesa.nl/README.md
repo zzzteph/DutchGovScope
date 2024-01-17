@@ -9,13 +9,13 @@ permalink: /dutchgov/cocreatesa.nl.html
 
 
 **SSL Grade**:0
-**HTTP Security Grade**:25
+**HTTP Security Grade**:0
 
 
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/cocreatesa.nl/subdomains.txt)|2|Alive subdomains|
-|[urls.txt](/data/cocreatesa.nl/urls.txt)|1|Urls|
+|[urls.txt](/data/cocreatesa.nl/urls.txt)|0|Urls|
 |[all_subdomains.txt](/data/cocreatesa.nl/all_subdomains.txt)|2|All found subdomains (history)|
 
 
@@ -24,4 +24,3 @@ permalink: /dutchgov/cocreatesa.nl.html
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://cocreatesa.nl](https://cocreatesa.nl)| | **25**|nginx/1.24.0| | | | | | | | :white_check_mark: | |Nginx:1.24.0|403-forbidden|

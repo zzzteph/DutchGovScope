@@ -31,5 +31,5 @@ permalink: /dutchgov/allesoversport.nl.html
 |[https://sportakkoord.allesoversport.nl](https://sportakkoord.allesoversport.nl)| | **70**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Varnish:6.2|302 Found|
 |[https://w906.allesoversport.nl](https://w906.allesoversport.nl)| | **30**|| | | | | | | | :white_check_mark: | |HSTS Varnish:6.2|Default site|
 |[https://www.allesoversport.nl](https://www.allesoversport.nl)| | **70**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Google Tag Manager HSTS MySQL PHP Varnish:6.2 WordPress|Allesoversport.n...|
-|[https://kcsport.nlwww.kenniscentrumsport.nlwww.allesoversport.nl](https://kcsport.nlwww.kenniscentrumsport.nlwww.allesoversport.nl)| | **30**|| | | | | | | | :white_check_mark: | |HSTS Varnish|Default site|
-|[https://allesoversport.nl](https://allesoversport.nl)| | **70**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Varnish|301 Moved Perman...|
+|[https://kcsport.nlwww.kenniscentrumsport.nlwww.allesoversport.nl](https://kcsport.nlwww.kenniscentrumsport.nlwww.allesoversport.nl)| | **30**|| | | | | | | | :white_check_mark: | |HSTS Varnish:6.2|Default site|
+|[https://allesoversport.nl](https://allesoversport.nl)| | **70**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Varnish:6.2|301 Moved Perman...|

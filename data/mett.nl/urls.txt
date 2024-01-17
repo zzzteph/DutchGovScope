@@ -97,7 +97,7 @@ https://telos.mett.nl
 https://test-login.mett.nl
 https://test.muad.mett.nl
 https://ticket.mett.nl
-http://tuim.mett.nl
+https://tuim.mett.nl
 https://twentebedrijf.mett.nl
 https://urhahn.mett.nl
 https://utrecht-west.mett.nl
@@ -172,7 +172,7 @@ https://icovet.mett.nl
 https://samenzundert.mett.nl
 https://appstore.mett.nl
 https://mobycon.mett.nl
-http://copyrijksoverheid.mett.nl
+https://copyrijksoverheid.mett.nl
 https://de9straatjes.mett.nl
 https://gemparktriangel.mett.nl
 https://www.waterakkers.mett.nl
@@ -250,7 +250,7 @@ https://linnean.mett.nl
 https://rottemeren.mett.nl
 https://vastlab.mett.nl
 https://laadnetwerkvanmorgen.mett.nl
-http://waterpleinvelletri.mett.nl
+https://waterpleinvelletri.mett.nl
 https://www.denkmeeuva.mett.nl
 https://gelijkekansens-hertogenbosch.mett.nl
 https://aardgasvrijewijken.mett.nl

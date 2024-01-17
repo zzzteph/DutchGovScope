@@ -228,6 +228,7 @@ https://mta-sts.belastingdienst.nl
 https://mul-mkt.belastingdienst.nl
 https://mul-redirect.belastingdienst.nl
 https://mwr-app-api.belastingdienst.nl
+https://mwr-app-api-ota.belastingdienst.nl
 https://mwr-app-cdn.belastingdienst.nl
 https://mwr-app-cdn-ota.belastingdienst.nl
 https://odb.belastingdienst.nl
@@ -352,7 +353,7 @@ https://wifi.brabant.nl
 https://draf.brabant.nl
 http://videoserver2.brabant.nl
 https://dataportaal.brabant.nl
-https://wegen.brabant.nl
+http://wegen.brabant.nl
 https://brabantnext.brabant.nl
 https://autorisatie-prod.brabant.nl
 https://beeldbank.brabant.nl
@@ -372,7 +373,6 @@ https://www.wegen.brabant.nl
 https://brains-acc.brabant.nl
 https://facilitor.brabant.nl
 https://www.dataportaal.brabant.nl
-https://blogs.brabant.nl
 http://draf-acpt.brabant.nl
 https://publicaties.brabant.nl
 https://samenwerken.brabant.nl
@@ -390,7 +390,7 @@ https://specials.brabant.nl
 https://geoportaal.brabant.nl
 https://bevolkingsprognose.brabant.nl
 https://werkenvoor.brabant.nl
-https://api-acpt.brabant.nl
+http://api-acpt.brabant.nl
 https://esb.brabant.nl
 https://opendata.brabant.nl
 https://brains.brabant.nl
@@ -398,7 +398,7 @@ https://dagstaatmonitors.brabant.nl
 https://bevolkingsprognose2020.brabant.nl
 https://app.brabant.nl
 https://mik-acpt.brabant.nl
-https://bzv-a.brabant.nl
+http://bzv-a.brabant.nl
 https://geoportaal-acceptatie.brabant.nl
 http://informatie-rws.brabant.nl
 https://digicheck.brabant.nl
@@ -427,6 +427,8 @@ https://opendata.business.gov.nl
 https://search.business.gov.nl
 https://api.business.gov.nl
 https://business.gov.nl
+https://www.bzk.nl
+https://bzk.nl
 https://feeds.campagnetoolkits.nl
 https://opendata.campagnetoolkits.nl
 https://www.campagnetoolkits.nl
@@ -605,7 +607,6 @@ https://storing.cbs.nl
 https://sts.cbs.nl
 https://surveys.cbs.nl
 https://tabi.cbs.nl
-https://taxonomie.cbs.nl
 https://test.cerberus.cbs.nl
 https://testchat.cbs.nl
 https://testlogin.cbs.nl
@@ -7411,6 +7412,7 @@ https://www.examenbladmbo.nl
 https://examenbladmbo.nl
 https://mijn.examenbladmbo.nl
 https://www.circulaireviaducten.nl
+https://circulaireviaducten.nl
 https://www.nl-works.nl
 https://nl-works.nl
 https://abdleeromgeving-a.trainingscatalogus.nl
@@ -7596,16 +7598,9 @@ https://onderwijsdata.duo.nl
 https://personenregisterkinderopvang.duo.nl
 https://rio-kennisbank.duo.nl
 https://staging.duo.nl
-https://test-onderwijsdata.duo.nl
 https://uag.duo.nl
 https://vt-2bron.duo.nl
-https://vt-apps.duo.nl
-https://vt-digidzakelijk.duo.nl
-https://vt-eidas-mijn.duo.nl
-https://vt-idposr.duo.nl
-https://vt-mijn.duo.nl
 https://vt-personenregisterkinderopvang.duo.nl
-https://vt-zakelijk.duo.nl
 https://werkplek.duo.nl
 https://www.duo.nl
 https://xbrlonderwijsportaal.duo.nl
@@ -7761,7 +7756,7 @@ https://www.amsterdam.rosopen.databank.nl
 https://test-mbotransparant.databank.nl
 https://dd.databank.nl
 https://00klimaatmonitor.databank.nl
-http://beta-adc.databank.nl
+https://beta-adc.databank.nl
 https://drenthe.databank.nl
 https://beta-velsen.databank.nl
 https://zorgimpuls.rosopen.databank.nl
@@ -8183,6 +8178,7 @@ https://webmail.rijkscloud.nl
 https://www.rijkscloud.nl
 https://rijkscloud.nl
 https://openstack.gn3.rijkscloud.nl
+http://status.gn3.rijkscloud.nl
 https://portal.ip.test.duo.rijkscloud.nl
 https://ip.test.duo.rijkscloud.nl
 https://rstudio.ip.test.duo.rijkscloud.nl
@@ -8430,7 +8426,7 @@ https://telos.mett.nl
 https://test-login.mett.nl
 https://test.muad.mett.nl
 https://ticket.mett.nl
-http://tuim.mett.nl
+https://tuim.mett.nl
 https://twentebedrijf.mett.nl
 https://urhahn.mett.nl
 https://utrecht-west.mett.nl
@@ -8505,7 +8501,7 @@ https://icovet.mett.nl
 https://samenzundert.mett.nl
 https://appstore.mett.nl
 https://mobycon.mett.nl
-http://copyrijksoverheid.mett.nl
+https://copyrijksoverheid.mett.nl
 https://de9straatjes.mett.nl
 https://gemparktriangel.mett.nl
 https://www.waterakkers.mett.nl
@@ -8583,7 +8579,7 @@ https://linnean.mett.nl
 https://rottemeren.mett.nl
 https://vastlab.mett.nl
 https://laadnetwerkvanmorgen.mett.nl
-http://waterpleinvelletri.mett.nl
+https://waterpleinvelletri.mett.nl
 https://www.denkmeeuva.mett.nl
 https://gelijkekansens-hertogenbosch.mett.nl
 https://aardgasvrijewijken.mett.nl
@@ -8903,7 +8899,6 @@ https://mail.cjib.nl
 https://pay.cjib.nl
 https://pay-acc.cjib.nl
 https://sfb.cjib.nl
-https://sfbsip.cjib.nl
 https://sfbweb.cjib.nl
 https://werken.cjib.nl
 https://www.cjib.nl
@@ -8953,7 +8948,7 @@ https://wcag-2.1-inspectie-www.one-conference.nl
 https://www.amlc.nl
 https://amlc.nl
 https://21www.amlc.nl
-http://8www.amlc.nl
+https://8www.amlc.nl
 https://www.cibgacademie.nl
 https://cibgacademie.nl
 http://autodiscover.atgb.nl
@@ -9219,8 +9214,10 @@ https://www.validatie.nl
 https://validatie.nl
 https://tickets.bdmuseum.nl
 https://www.bdmuseum.nl
+https://www.bdreauconseilw.bdmuseum.nl
 https://bdmuseum.nl
 https://bdmuseum.nlwww.bdmuseum.nl
+https://rotterdamwww.bdmuseum.nl
 https://check.opwegnaarzes.nl
 https://kentekencheck.opwegnaarzes.nl
 https://staging.opwegnaarzes.nl
@@ -9240,6 +9237,7 @@ https://stbtest.poraad.nl
 https://acc2.poraad.nl
 https://poraad.nl
 https://sectorrapportage2022.poraad.nl
+http://cdn.naarnederland.nl
 http://mail.naarnederland.nl
 https://www.naarnederland.nl
 https://naarnederland.nl
@@ -9254,6 +9252,8 @@ https://base.usar.nl
 https://www.usar.nl
 https://usar.nl
 https://mijn.bofeb.nl
+https://www.bofeb.nl
+https://bofeb.nl
 https://www.matra-south.nl
 https://matra-south.nl
 https://www.meldknop.nl
@@ -9501,12 +9501,15 @@ https://esp.mfaservices.nl
 https://esp-api-management.acc-probas.mfaservices.nl
 https://esp-api-management.dev-probas.mfaservices.nl
 https://esp-api-management.probas.mfaservices.nl
+https://esp-api-management.tst-probas.mfaservices.nl
 https://esp-api-portal.acc-probas.mfaservices.nl
 https://esp-api-portal.dev-probas.mfaservices.nl
 https://esp-api-portal.probas.mfaservices.nl
+https://esp-api-portal.tst-probas.mfaservices.nl
 https://esp-api.acc-probas.mfaservices.nl
 https://esp-api.dev-probas.mfaservices.nl
 https://esp-api.probas.mfaservices.nl
+https://esp-api.tst-probas.mfaservices.nl
 https://insights.mfaservices.nl
 https://liferay.mfaservices.nl
 https://login.consular.mfaservices.nl
@@ -9531,11 +9534,9 @@ https://dev.cdn.consular.mfaservices.nl
 https://snd.cdn.consular.mfaservices.nl
 https://tst.cdn.consular.mfaservices.nl
 https://url9097.consular.mfaservices.nl
-https://cocreatesa.nl
 http://www.bereiknu.nl
 http://bereiknu.nl
 https://mail.bewustbodemgebruik.nl
-http://www.bewustbodemgebruik.nl
 https://bewustbodemgebruik.nl
 https://www.zeroemissiedoelgroepenvervoer.nl
 https://zeroemissiedoelgroepenvervoer.nl
@@ -9763,10 +9764,10 @@ https://fac.rijksapplicaties.nl
 https://stakeholdersregistratie.rijksapplicaties.nl
 https://rvb-rif.staging.rijksapplicaties.nl
 https://rvb-noc.rijksapplicaties.nl
-http://rvb-rbb.rijksapplicaties.nl
-http://rvb-rbb.staging.rijksapplicaties.nl
-http://via.staging.rijksapplicaties.nl
-http://aanwezigheid-ilab.staging.rijksapplicaties.nl
+https://rvb-rbb.rijksapplicaties.nl
+https://rvb-rbb.staging.rijksapplicaties.nl
+https://via.staging.rijksapplicaties.nl
+https://aanwezigheid-ilab.staging.rijksapplicaties.nl
 https://rvb-relatiemanagement.staging.rijksapplicaties.nl
 https://cotero.rijksapplicaties.nl
 https://cedar.rijksapplicaties.nl

@@ -66,3 +66,4 @@ ebms-diginetwerk.swift.digipoort.logius.nl
 routeringebms-pocdigipoort.logius.nl
 pmz.logius.nl
 pmz-pre.logius.nl
+portaal.digipoort.logius.nl

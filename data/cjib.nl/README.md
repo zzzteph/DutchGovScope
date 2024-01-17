@@ -9,13 +9,13 @@ permalink: /dutchgov/cjib.nl.html
 
 
 **SSL Grade**:0
-**HTTP Security Grade**:64.631578947368
+**HTTP Security Grade**:65.722222222222
 
 
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/cjib.nl/subdomains.txt)|26|Alive subdomains|
-|[urls.txt](/data/cjib.nl/urls.txt)|19|Urls|
+|[urls.txt](/data/cjib.nl/urls.txt)|18|Urls|
 |[all_subdomains.txt](/data/cjib.nl/all_subdomains.txt)|48|All found subdomains (history)|
 
 
@@ -24,7 +24,7 @@ permalink: /dutchgov/cjib.nl.html
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://analytics.cjib.nl](https://analytics.cjib.nl)| | **25**|nginx/1.21.6| | | | | | | | :white_check_mark: | |HSTS Nginx:1.21.6|Matomo › Error|
+|[https://analytics.cjib.nl](https://analytics.cjib.nl)| | **25**|nginx/1.21.6| | | | | | | | :white_check_mark: | |AngularJS HSTS Matomo Analytics Nginx:1.21.6|Sign in - Matomo|
 |[https://analytics-acc.cjib.nl](https://analytics-acc.cjib.nl)| | **79**|nginx/1.21.6|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |AngularJS HSTS Matomo Analytics Nginx:1.21.6|Sign in - Matomo|
 |[https://autodiscover.cjib.nl](https://autodiscover.cjib.nl)| | **45**|Microsoft-IIS/10.0| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS IIS:10.0 Windows Server||
 |[https://binnenplein.cjib.nl](https://binnenplein.cjib.nl)| | **85**|Apache| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Apache HTTP Server HSTS||
@@ -38,7 +38,6 @@ permalink: /dutchgov/cjib.nl.html
 |[https://pay.cjib.nl](https://pay.cjib.nl)| | **50**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
 |[https://pay-acc.cjib.nl](https://pay-acc.cjib.nl)| | **50**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
 |[https://sfb.cjib.nl](https://sfb.cjib.nl)| | **50**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|403 - Forbidden:...|
-|[https://sfbsip.cjib.nl](https://sfbsip.cjib.nl)| | **45**|RTC/7.0| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
 |[https://sfbweb.cjib.nl](https://sfbweb.cjib.nl)| | **50**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|403 - Forbidden:...|
 |[https://werken.cjib.nl](https://werken.cjib.nl)| | **94**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Java|VMware Horizon|
 |[https://www.cjib.nl](https://www.cjib.nl)| | **89**|nginx|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Amazon S3 Amazon Web Services Drupal:10 HSTS Nginx PHP|Home | CJIB.nl|

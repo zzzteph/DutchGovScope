@@ -9,13 +9,13 @@ permalink: /dutchgov/mfaservices.nl.html
 
 
 **SSL Grade**:0
-**HTTP Security Grade**:54.490909090909
+**HTTP Security Grade**:54.948275862069
 
 
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/mfaservices.nl/subdomains.txt)|136|Alive subdomains|
-|[urls.txt](/data/mfaservices.nl/urls.txt)|55|Urls|
+|[urls.txt](/data/mfaservices.nl/urls.txt)|58|Urls|
 |[all_subdomains.txt](/data/mfaservices.nl/all_subdomains.txt)|263|All found subdomains (history)|
 
 
@@ -49,12 +49,15 @@ permalink: /dutchgov/mfaservices.nl.html
 |[https://esp-api-management.acc-probas.mfaservices.nl](https://esp-api-management.acc-probas.mfaservices.nl)| | **60**|| |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://esp-api-management.dev-probas.mfaservices.nl](https://esp-api-management.dev-probas.mfaservices.nl)| | **60**|| |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://esp-api-management.probas.mfaservices.nl](https://esp-api-management.probas.mfaservices.nl)| | **60**|| |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | |HSTS||
+|[https://esp-api-management.tst-probas.mfaservices.nl](https://esp-api-management.tst-probas.mfaservices.nl)| | **60**|| |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://esp-api-portal.acc-probas.mfaservices.nl](https://esp-api-portal.acc-probas.mfaservices.nl)| | **70**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Home - Probas Ac...|
 |[https://esp-api-portal.dev-probas.mfaservices.nl](https://esp-api-portal.dev-probas.mfaservices.nl)| | **70**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Home - Probas De...|
 |[https://esp-api-portal.probas.mfaservices.nl](https://esp-api-portal.probas.mfaservices.nl)| | **70**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Home - Microsoft...|
+|[https://esp-api-portal.tst-probas.mfaservices.nl](https://esp-api-portal.tst-probas.mfaservices.nl)| | **70**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Home - Probas Te...|
 |[https://esp-api.acc-probas.mfaservices.nl](https://esp-api.acc-probas.mfaservices.nl)| | **60**|| |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://esp-api.dev-probas.mfaservices.nl](https://esp-api.dev-probas.mfaservices.nl)| | **60**|| |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://esp-api.probas.mfaservices.nl](https://esp-api.probas.mfaservices.nl)| | **60**|| |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | |HSTS||
+|[https://esp-api.tst-probas.mfaservices.nl](https://esp-api.tst-probas.mfaservices.nl)| | **60**|| |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://insights.mfaservices.nl](https://insights.mfaservices.nl)| | **50**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
 |[https://liferay.mfaservices.nl](https://liferay.mfaservices.nl)| | **89**|Apache|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS Java|Welcome ||
 |[https://login.consular.mfaservices.nl](https://login.consular.mfaservices.nl)| | **69**|cloudflare|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Cloudflare Cloudflare Bot Management HSTS|Attention Requir...|

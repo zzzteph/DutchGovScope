@@ -1354,3 +1354,8 @@ cerno.nioo.knaw.nl
 sand.meertens.knaw.nl
 develop31.dans.knaw.nl
 globhut.labs.dans.knaw.nl
+bedevaart.meertens.knaw.nl
+lennep.resources.huygens.knaw.nl
+staging.huc.knaw.nl
+adagia.resources.huygens.knaw.nl
+mimore.meertens.knaw.nl

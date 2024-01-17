@@ -9,7 +9,7 @@ permalink: /dutchgov/toezichtfestival.nl.html
 
 
 **SSL Grade**:0
-**HTTP Security Grade**:39.470588235294
+**HTTP Security Grade**:40.058823529412
 
 
 | File       | Count | Info |
@@ -25,7 +25,7 @@ permalink: /dutchgov/toezichtfestival.nl.html
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
 |[https://20201103.toezichtfestival.nl](https://20201103.toezichtfestival.nl)| | **25**|Apache/2| | | | | | | | :white_check_mark: | |Apache HTTP Server:2|403 Forbidden|
-|[https://app.toezichtfestival.nl](https://app.toezichtfestival.nl)| | **79**|Apache/2|:white_check_mark: |:white_check_mark: | :warning:| |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server:2 Bootstrap HSTS|Spitz App|
+|[https://app.toezichtfestival.nl](https://app.toezichtfestival.nl)| | **89**|Apache/2|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server:2 Bootstrap HSTS|Home - Toezicht...|
 |[https://app2019.toezichtfestival.nl](https://app2019.toezichtfestival.nl)| | **25**|Apache/2| | | | | | | | :white_check_mark: | |Apache HTTP Server:2|403 Forbidden|
 |[https://app2020.toezichtfestival.nl](https://app2020.toezichtfestival.nl)| | **25**|Apache/2| | | | | | | | :white_check_mark: | |Apache HTTP Server:2|403 Forbidden|
 |[https://app2022.toezichtfestival.nl](https://app2022.toezichtfestival.nl)| | **25**|Apache/2| | | | | | | | :white_check_mark: | |Apache HTTP Server:2|403 Forbidden|

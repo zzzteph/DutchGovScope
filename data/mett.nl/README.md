@@ -9,7 +9,7 @@ permalink: /dutchgov/mett.nl.html
 
 
 **SSL Grade**:0
-**HTTP Security Grade**:73.245714285714
+**HTTP Security Grade**:73.16
 
 
 | File       | Count | Info |
@@ -123,7 +123,7 @@ permalink: /dutchgov/mett.nl.html
 |[https://test-login.mett.nl](https://test-login.mett.nl)| | **84**||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Object moved|
 |[https://test.muad.mett.nl](https://test.muad.mett.nl)| | **30**|| | | | | | | | :white_check_mark: | ||Document Moved|
 |[https://ticket.mett.nl](https://ticket.mett.nl)| | **85**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | ||Document Moved|
-|[http://tuim.mett.nl](http://tuim.mett.nl)| | **70**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET||
+|[https://tuim.mett.nl](https://tuim.mett.nl)| | **70**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET|Object moved|
 |[https://twentebedrijf.mett.nl](https://twentebedrijf.mett.nl)| | **85**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | ||Document Moved|
 |[https://urhahn.mett.nl](https://urhahn.mett.nl)| | **85**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | ||Document Moved|
 |[https://utrecht-west.mett.nl](https://utrecht-west.mett.nl)| | **85**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | ||Document Moved|
@@ -198,7 +198,7 @@ permalink: /dutchgov/mett.nl.html
 |[https://samenzundert.mett.nl](https://samenzundert.mett.nl)| | **80**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET hCaptcha|Object moved|
 |[https://appstore.mett.nl](https://appstore.mett.nl)| | **85**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | ||Document Moved|
 |[https://mobycon.mett.nl](https://mobycon.mett.nl)| | **70**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET|Object moved|
-|[http://copyrijksoverheid.mett.nl](http://copyrijksoverheid.mett.nl)| | **70**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET||
+|[https://copyrijksoverheid.mett.nl](https://copyrijksoverheid.mett.nl)| | **70**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET|Object moved|
 |[https://de9straatjes.mett.nl](https://de9straatjes.mett.nl)| | **85**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | ||Document Moved|
 |[https://gemparktriangel.mett.nl](https://gemparktriangel.mett.nl)| | **85**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | ||Document Moved|
 |[https://www.waterakkers.mett.nl](https://www.waterakkers.mett.nl)| | **30**|| | | | | | | | :white_check_mark: | ||Document Moved|
@@ -276,7 +276,7 @@ permalink: /dutchgov/mett.nl.html
 |[https://rottemeren.mett.nl](https://rottemeren.mett.nl)| | **70**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET|Object moved|
 |[https://vastlab.mett.nl](https://vastlab.mett.nl)| | **70**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET|Object moved|
 |[https://laadnetwerkvanmorgen.mett.nl](https://laadnetwerkvanmorgen.mett.nl)| | **85**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | ||Document Moved|
-|[http://waterpleinvelletri.mett.nl](http://waterpleinvelletri.mett.nl)| | **70**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET||
+|[https://waterpleinvelletri.mett.nl](https://waterpleinvelletri.mett.nl)| | **70**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET|Object moved|
 |[https://www.denkmeeuva.mett.nl](https://www.denkmeeuva.mett.nl)| | **30**|| | | | | | | | :white_check_mark: | ||Document Moved|
 |[https://gelijkekansens-hertogenbosch.mett.nl](https://gelijkekansens-hertogenbosch.mett.nl)| | **70**|| |:white_check_mark: | :warning:| |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Google Tag Manager HSTS Microsoft ASP.NET hCaptcha|Object moved|
 |[https://aardgasvrijewijken.mett.nl](https://aardgasvrijewijken.mett.nl)| | **70**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET|Object moved|
@@ -338,7 +338,7 @@ permalink: /dutchgov/mett.nl.html
 |[https://leefbaarheid.mett.nl](https://leefbaarheid.mett.nl)| | **85**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | ||Document Moved|
 |[https://meanderomnium.mett.nl](https://meanderomnium.mett.nl)| | **70**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET|Object moved|
 |[https://pilotnudging.mett.nl](https://pilotnudging.mett.nl)| | **70**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET YouTube|Object moved|
-|[https://apps.mett.nl](https://apps.mett.nl)| | **60**|| |:white_check_mark: | :warning:| | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Mett apps|
+|[https://apps.mett.nl](https://apps.mett.nl)| | **30**||:o: | | | | | | | :white_check_mark: | |HSTS|Geblokkeerd · Me...|
 |[https://fagoed.mett.nl](https://fagoed.mett.nl)| | **20**|| | | :warning:| | | | | :white_check_mark: | |Microsoft ASP.NET|Object moved|
 |[https://nieuwsienw.mett.nl](https://nieuwsienw.mett.nl)| | **70**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET|Object moved|
 |[https://websiterudzuidlimburg.mett.nl](https://websiterudzuidlimburg.mett.nl)| | **70**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET YouTube|Object moved|

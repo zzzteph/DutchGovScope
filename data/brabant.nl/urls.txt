@@ -24,7 +24,7 @@ https://wifi.brabant.nl
 https://draf.brabant.nl
 http://videoserver2.brabant.nl
 https://dataportaal.brabant.nl
-https://wegen.brabant.nl
+http://wegen.brabant.nl
 https://brabantnext.brabant.nl
 https://autorisatie-prod.brabant.nl
 https://beeldbank.brabant.nl
@@ -44,7 +44,6 @@ https://www.wegen.brabant.nl
 https://brains-acc.brabant.nl
 https://facilitor.brabant.nl
 https://www.dataportaal.brabant.nl
-https://blogs.brabant.nl
 http://draf-acpt.brabant.nl
 https://publicaties.brabant.nl
 https://samenwerken.brabant.nl
@@ -62,7 +61,7 @@ https://specials.brabant.nl
 https://geoportaal.brabant.nl
 https://bevolkingsprognose.brabant.nl
 https://werkenvoor.brabant.nl
-https://api-acpt.brabant.nl
+http://api-acpt.brabant.nl
 https://esb.brabant.nl
 https://opendata.brabant.nl
 https://brains.brabant.nl
@@ -70,7 +69,7 @@ https://dagstaatmonitors.brabant.nl
 https://bevolkingsprognose2020.brabant.nl
 https://app.brabant.nl
 https://mik-acpt.brabant.nl
-https://bzv-a.brabant.nl
+http://bzv-a.brabant.nl
 https://geoportaal-acceptatie.brabant.nl
 http://informatie-rws.brabant.nl
 https://digicheck.brabant.nl

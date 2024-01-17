@@ -19,3 +19,4 @@ www.zoekscholen.onderwijsinspectie.nl
 zoekscholen.onderwijsinspectie.nl
 onderwijsinspectie.nl
 cms.onderwijsinspectie.nl
+http---www.onderwijsinspectie.nl
