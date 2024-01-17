@@ -6,7 +6,7 @@ subdomains_count: 9
 all_subdomains_count: 14
 urls_count: 9
 ssl_rank: A+
-http_rank: C
+http_rank: A
 url_link: /data/gratisvog.nl/urls.txt
 all_subdomains_link: /data/gratisvog.nl/all_subdomains.txt
 subdomains_link: /data/gratisvog.nl/subdomains.txt
@@ -18,8 +18,8 @@ categories: dutchgov
 ## Summary data
 
 
-**SSL Grade**:A+
-**HTTP Security Grade**:C
+ - **SSL Grade**:A+
+ - **HTTP Security Grade**:A
 
 
 | File       | Count | Info |
@@ -35,11 +35,11 @@ categories: dutchgov
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
 |[https://aanmelden.gratisvog.nl](https://aanmelden.gratisvog.nl)| **A+**| **A**|LiteSpeed|:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS HTTP/3 LiteSpeed|Aanmelden | Rege...|
-|[https://acceptatie.aanmelden.gratisvog.nl](https://acceptatie.aanmelden.gratisvog.nl)| **A+**| **B**|LiteSpeed| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS HTTP/3 LiteSpeed|403 Forbidden|
-|[https://acceptatie.zoeken.gratisvog.nl](https://acceptatie.zoeken.gratisvog.nl)| **A+**| **B**|LiteSpeed| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS HTTP/3 LiteSpeed|403 Forbidden|
-|[https://feeds.gratisvog.nl](https://feeds.gratisvog.nl)| **A+**| **D**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
-|[https://opendata.gratisvog.nl](https://opendata.gratisvog.nl)| **A+**| **D**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
+|[https://acceptatie.aanmelden.gratisvog.nl](https://acceptatie.aanmelden.gratisvog.nl)| **A+**| **A**|LiteSpeed| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS HTTP/3 LiteSpeed|403 Forbidden|
+|[https://acceptatie.zoeken.gratisvog.nl](https://acceptatie.zoeken.gratisvog.nl)| **A+**| **A**|LiteSpeed| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS HTTP/3 LiteSpeed|403 Forbidden|
+|[https://feeds.gratisvog.nl](https://feeds.gratisvog.nl)| **A+**| **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
+|[https://opendata.gratisvog.nl](https://opendata.gratisvog.nl)| **A+**| **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://psrp.gratisvog.nl](https://psrp.gratisvog.nl)| **A**| **C**||:white_check_mark: | | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HTTP/3||
-|[https://www.gratisvog.nl](https://www.gratisvog.nl)| **A+**| **C**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Regeling voor vr...|
+|[https://www.gratisvog.nl](https://www.gratisvog.nl)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Regeling voor vr...|
 |[https://zoeken.gratisvog.nl](https://zoeken.gratisvog.nl)| **A+**| **A**|LiteSpeed|:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS HTTP/3 LiteSpeed|Toegelaten organ...|
-|[https://gratisvog.nl](https://gratisvog.nl)| **A+**| **C**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
+|[https://gratisvog.nl](https://gratisvog.nl)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|

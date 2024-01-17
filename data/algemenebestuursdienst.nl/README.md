@@ -4,8 +4,8 @@
 ## Summary data
 
 
-**SSL Grade**:A+
-**HTTP Security Grade**:C
+ - **SSL Grade**:A+
+ - **HTTP Security Grade**:A
 
 
 | File       | Count | Info |
@@ -20,8 +20,8 @@
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://feeds.algemenebestuursdienst.nl](https://feeds.algemenebestuursdienst.nl)| **A+**| **D**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
-|[https://magazines.algemenebestuursdienst.nl](https://magazines.algemenebestuursdienst.nl)| **A+**| **C**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
-|[https://opendata.algemenebestuursdienst.nl](https://opendata.algemenebestuursdienst.nl)| **A+**| **D**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
-|[https://www.algemenebestuursdienst.nl](https://www.algemenebestuursdienst.nl)| **A+**| **C**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Home | Algemene...|
-|[https://algemenebestuursdienst.nl](https://algemenebestuursdienst.nl)| **A+**| **C**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
+|[https://feeds.algemenebestuursdienst.nl](https://feeds.algemenebestuursdienst.nl)| **A+**| **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
+|[https://magazines.algemenebestuursdienst.nl](https://magazines.algemenebestuursdienst.nl)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
+|[https://opendata.algemenebestuursdienst.nl](https://opendata.algemenebestuursdienst.nl)| **A+**| **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
+|[https://www.algemenebestuursdienst.nl](https://www.algemenebestuursdienst.nl)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Home | Algemene...|
+|[https://algemenebestuursdienst.nl](https://algemenebestuursdienst.nl)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|

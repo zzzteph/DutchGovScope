@@ -5,7 +5,7 @@ permalink: "/dutchgov/cvte-raadpleging.nl.html"
 subdomains_count: 5
 all_subdomains_count: 5
 urls_count: 5
-ssl_rank: F
+ssl_rank: 
 http_rank: F
 url_link: /data/cvte-raadpleging.nl/urls.txt
 all_subdomains_link: /data/cvte-raadpleging.nl/all_subdomains.txt
@@ -18,8 +18,8 @@ categories: dutchgov
 ## Summary data
 
 
-**SSL Grade**:F
-**HTTP Security Grade**:F
+ - **SSL Grade**:
+ - **HTTP Security Grade**:F
 
 
 | File       | Count | Info |
@@ -35,7 +35,7 @@ categories: dutchgov
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
 |[https://2018.cvte-raadpleging.nl](https://2018.cvte-raadpleging.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |HSTS Nginx|404 Not Found|
-|[https://nieuwsbrief.cvte-raadpleging.nl](https://nieuwsbrief.cvte-raadpleging.nl)| | **F**|| | | | | | | | :white_check_mark: | ||404 Not Found|
+|[https://nieuwsbrief.cvte-raadpleging.nl](https://nieuwsbrief.cvte-raadpleging.nl)| | **E**|| | | | | | | | :white_check_mark: | ||404 Not Found|
 |[https://www.cvte-raadpleging.nl](https://www.cvte-raadpleging.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |HSTS Nginx|404 Not Found|
 |[https://cvte-raadpleging.nl](https://cvte-raadpleging.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |HSTS Nginx|404 Not Found|
 |[https://18.cvte-raadpleging.nl](https://18.cvte-raadpleging.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |HSTS Nginx|404 Not Found|

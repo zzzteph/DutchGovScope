@@ -5,8 +5,8 @@ permalink: "/dutchgov/toekomstvisiegewasbescherming2030.nl.html"
 subdomains_count: 4
 all_subdomains_count: 4
 urls_count: 4
-ssl_rank: F
-http_rank: C
+ssl_rank: 
+http_rank: A
 url_link: /data/toekomstvisiegewasbescherming2030.nl/urls.txt
 all_subdomains_link: /data/toekomstvisiegewasbescherming2030.nl/all_subdomains.txt
 subdomains_link: /data/toekomstvisiegewasbescherming2030.nl/subdomains.txt
@@ -18,8 +18,8 @@ categories: dutchgov
 ## Summary data
 
 
-**SSL Grade**:F
-**HTTP Security Grade**:C
+ - **SSL Grade**:
+ - **HTTP Security Grade**:A
 
 
 | File       | Count | Info |
@@ -34,7 +34,7 @@ categories: dutchgov
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://feeds.toekomstvisiegewasbescherming2030.nl](https://feeds.toekomstvisiegewasbescherming2030.nl)| | **D**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
-|[https://opendata.toekomstvisiegewasbescherming2030.nl](https://opendata.toekomstvisiegewasbescherming2030.nl)| | **D**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
-|[https://toekomstvisiegewasbescherming2030.nl](https://toekomstvisiegewasbescherming2030.nl)| | **C**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
-|[https://www.toekomstvisiegewasbescherming2030.nl](https://www.toekomstvisiegewasbescherming2030.nl)| | **C**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Uitvoeringsprogr...|
+|[https://feeds.toekomstvisiegewasbescherming2030.nl](https://feeds.toekomstvisiegewasbescherming2030.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
+|[https://opendata.toekomstvisiegewasbescherming2030.nl](https://opendata.toekomstvisiegewasbescherming2030.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
+|[https://toekomstvisiegewasbescherming2030.nl](https://toekomstvisiegewasbescherming2030.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
+|[https://www.toekomstvisiegewasbescherming2030.nl](https://www.toekomstvisiegewasbescherming2030.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Uitvoeringsprogr...|

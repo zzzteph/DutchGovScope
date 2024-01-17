@@ -4,8 +4,8 @@
 ## Summary data
 
 
-**SSL Grade**:F
-**HTTP Security Grade**:E
+ - **SSL Grade**:
+ - **HTTP Security Grade**:D
 
 
 | File       | Count | Info |
@@ -20,5 +20,5 @@
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://www.regioatlas.nl](https://www.regioatlas.nl)| | **E**||:o: |:white_check_mark: | | | | | | :white_check_mark: | |HSTS PHP|Home - RegioAtla...|
-|[https://regioatlas.nl](https://regioatlas.nl)| | **E**||:o: |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|301 Moved Perman...|
+|[https://www.regioatlas.nl](https://www.regioatlas.nl)| | **D**||:o: |:white_check_mark: | | | | | | :white_check_mark: | |HSTS PHP|Home - RegioAtla...|
+|[https://regioatlas.nl](https://regioatlas.nl)| | **D**||:o: |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|301 Moved Perman...|

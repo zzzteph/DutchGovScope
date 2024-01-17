@@ -5,8 +5,8 @@ permalink: "/dutchgov/werkenvoorinternationaleorganisaties.nl.html"
 subdomains_count: 5
 all_subdomains_count: 11
 urls_count: 5
-ssl_rank: F
-http_rank: D
+ssl_rank: 
+http_rank: A
 url_link: /data/werkenvoorinternationaleorganisaties.nl/urls.txt
 all_subdomains_link: /data/werkenvoorinternationaleorganisaties.nl/all_subdomains.txt
 subdomains_link: /data/werkenvoorinternationaleorganisaties.nl/subdomains.txt
@@ -18,8 +18,8 @@ categories: dutchgov
 ## Summary data
 
 
-**SSL Grade**:F
-**HTTP Security Grade**:D
+ - **SSL Grade**:
+ - **HTTP Security Grade**:A
 
 
 | File       | Count | Info |
@@ -34,8 +34,8 @@ categories: dutchgov
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://feeds.werkenvoorinternationaleorganisaties.nl](https://feeds.werkenvoorinternationaleorganisaties.nl)| | **D**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
-|[https://opendata.werkenvoorinternationaleorganisaties.nl](https://opendata.werkenvoorinternationaleorganisaties.nl)| | **D**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
-|[https://vacature.werkenvoorinternationaleorganisaties.nl](https://vacature.werkenvoorinternationaleorganisaties.nl)| | **D**|Apache| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS|Werken voor Inte...|
-|[https://www.werkenvoorinternationaleorganisaties.nl](https://www.werkenvoorinternationaleorganisaties.nl)| | **C**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Home | Werken vo...|
-|[https://werkenvoorinternationaleorganisaties.nl](https://werkenvoorinternationaleorganisaties.nl)| | **C**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
+|[https://feeds.werkenvoorinternationaleorganisaties.nl](https://feeds.werkenvoorinternationaleorganisaties.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
+|[https://opendata.werkenvoorinternationaleorganisaties.nl](https://opendata.werkenvoorinternationaleorganisaties.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
+|[https://vacature.werkenvoorinternationaleorganisaties.nl](https://vacature.werkenvoorinternationaleorganisaties.nl)| | **A**|Apache| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS|Werken voor Inte...|
+|[https://www.werkenvoorinternationaleorganisaties.nl](https://www.werkenvoorinternationaleorganisaties.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Home | Werken vo...|
+|[https://werkenvoorinternationaleorganisaties.nl](https://werkenvoorinternationaleorganisaties.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|

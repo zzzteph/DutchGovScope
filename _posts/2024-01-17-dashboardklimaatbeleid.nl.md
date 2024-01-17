@@ -5,8 +5,8 @@ permalink: "/dutchgov/dashboardklimaatbeleid.nl.html"
 subdomains_count: 2
 all_subdomains_count: 2
 urls_count: 2
-ssl_rank: F
-http_rank: C
+ssl_rank: 
+http_rank: B
 url_link: /data/dashboardklimaatbeleid.nl/urls.txt
 all_subdomains_link: /data/dashboardklimaatbeleid.nl/all_subdomains.txt
 subdomains_link: /data/dashboardklimaatbeleid.nl/subdomains.txt
@@ -18,8 +18,8 @@ categories: dutchgov
 ## Summary data
 
 
-**SSL Grade**:F
-**HTTP Security Grade**:C
+ - **SSL Grade**:
+ - **HTTP Security Grade**:B
 
 
 | File       | Count | Info |
@@ -34,5 +34,5 @@ categories: dutchgov
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://www.dashboardklimaatbeleid.nl](https://www.dashboardklimaatbeleid.nl)| | **C**|Microsoft-IIS/10.0|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS IIS:10.0 Windows Server|Document Moved|
-|[https://dashboardklimaatbeleid.nl](https://dashboardklimaatbeleid.nl)| | **C**|Microsoft-IIS/10.0|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |Amazon S3 Amazon Web Services Azure Edge Network HSTS IIS:10.0 Microsoft ASP.NET:4.0.30319 MyFonts Windows Server|DASHBOARD KLIMAA...|
+|[https://www.dashboardklimaatbeleid.nl](https://www.dashboardklimaatbeleid.nl)| | **B**|Microsoft-IIS/10.0|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS IIS:10.0 Windows Server|Document Moved|
+|[https://dashboardklimaatbeleid.nl](https://dashboardklimaatbeleid.nl)| | **B**|Microsoft-IIS/10.0|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |Amazon S3 Amazon Web Services Azure Edge Network HSTS IIS:10.0 Microsoft ASP.NET:4.0.30319 MyFonts Windows Server|DASHBOARD KLIMAA...|

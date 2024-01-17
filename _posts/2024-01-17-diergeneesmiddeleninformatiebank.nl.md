@@ -5,8 +5,8 @@ permalink: "/dutchgov/diergeneesmiddeleninformatiebank.nl.html"
 subdomains_count: 2
 all_subdomains_count: 2
 urls_count: 2
-ssl_rank: F
-http_rank: C
+ssl_rank: 
+http_rank: B
 url_link: /data/diergeneesmiddeleninformatiebank.nl/urls.txt
 all_subdomains_link: /data/diergeneesmiddeleninformatiebank.nl/all_subdomains.txt
 subdomains_link: /data/diergeneesmiddeleninformatiebank.nl/subdomains.txt
@@ -18,8 +18,8 @@ categories: dutchgov
 ## Summary data
 
 
-**SSL Grade**:F
-**HTTP Security Grade**:C
+ - **SSL Grade**:
+ - **HTTP Security Grade**:B
 
 
 | File       | Count | Info |
@@ -34,5 +34,5 @@ categories: dutchgov
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://www.diergeneesmiddeleninformatiebank.nl](https://www.diergeneesmiddeleninformatiebank.nl)| | **C**|nginx|:warning: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|302 Found|
-|[https://diergeneesmiddeleninformatiebank.nl](https://diergeneesmiddeleninformatiebank.nl)| | **C**|nginx|:warning: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|302 Found|
+|[https://www.diergeneesmiddeleninformatiebank.nl](https://www.diergeneesmiddeleninformatiebank.nl)| | **B**|nginx|:warning: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|302 Found|
+|[https://diergeneesmiddeleninformatiebank.nl](https://diergeneesmiddeleninformatiebank.nl)| | **B**|nginx|:warning: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|302 Found|

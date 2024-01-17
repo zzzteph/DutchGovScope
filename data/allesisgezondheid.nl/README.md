@@ -4,8 +4,8 @@
 ## Summary data
 
 
-**SSL Grade**:F
-**HTTP Security Grade**:E
+ - **SSL Grade**:
+ - **HTTP Security Grade**:C
 
 
 | File       | Count | Info |
@@ -20,7 +20,7 @@
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://acc.allesisgezondheid.nl](https://acc.allesisgezondheid.nl)| | **F**|| | | | | | | | :white_check_mark: | |HSTS Varnish:6.2|Default site|
-|[https://test.allesisgezondheid.nl](https://test.allesisgezondheid.nl)| | **F**|| | | | | | | | :white_check_mark: | |HSTS Varnish|Default site|
-|[https://www.allesisgezondheid.nl](https://www.allesisgezondheid.nl)| | **C**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS MySQL PHP Varnish:6.2 WordPress Yoast SEO:20.13|Home - Alles is...|
-|[https://allesisgezondheid.nl](https://allesisgezondheid.nl)| | **C**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Varnish|301 Moved Perman...|
+|[https://acc.allesisgezondheid.nl](https://acc.allesisgezondheid.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS Varnish:6.2|Default site|
+|[https://test.allesisgezondheid.nl](https://test.allesisgezondheid.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS Varnish|Default site|
+|[https://www.allesisgezondheid.nl](https://www.allesisgezondheid.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS MySQL PHP Varnish:6.2 WordPress Yoast SEO:20.13|Home - Alles is...|
+|[https://allesisgezondheid.nl](https://allesisgezondheid.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Varnish|301 Moved Perman...|

@@ -5,7 +5,7 @@ permalink: "/dutchgov/jeugdconnect.nl.html"
 subdomains_count: 14
 all_subdomains_count: 16
 urls_count: 14
-ssl_rank: F
+ssl_rank: 
 http_rank: F
 url_link: /data/jeugdconnect.nl/urls.txt
 all_subdomains_link: /data/jeugdconnect.nl/all_subdomains.txt
@@ -18,8 +18,8 @@ categories: dutchgov
 ## Summary data
 
 
-**SSL Grade**:F
-**HTTP Security Grade**:F
+ - **SSL Grade**:
+ - **HTTP Security Grade**:F
 
 
 | File       | Count | Info |
@@ -46,5 +46,5 @@ categories: dutchgov
 |[https://slachtoffer.jeugdconnect.nl](https://slachtoffer.jeugdconnect.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Bootstrap HSTS Nginx|JustitieConnect|
 |[https://socialmediamonitor.jeugdconnect.nl](https://socialmediamonitor.jeugdconnect.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Bootstrap HSTS Nginx|JustitieConnect|
 |[https://vog.jeugdconnect.nl](https://vog.jeugdconnect.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Bootstrap HSTS Nginx|JustitieConnect|
-|[https://www.jeugdconnect.nl](https://www.jeugdconnect.nl)| | **D**|nginx|:warning: |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS Nginx||
-|[https://jeugdconnect.nl](https://jeugdconnect.nl)| | **D**|nginx|:warning: |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |AngularJS HSTS Nginx|landingspage|
+|[https://www.jeugdconnect.nl](https://www.jeugdconnect.nl)| | **C**|nginx|:warning: |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS Nginx||
+|[https://jeugdconnect.nl](https://jeugdconnect.nl)| | **C**|nginx|:warning: |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |AngularJS HSTS Nginx|landingspage|

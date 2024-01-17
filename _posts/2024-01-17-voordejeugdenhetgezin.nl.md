@@ -5,8 +5,8 @@ permalink: "/dutchgov/voordejeugdenhetgezin.nl.html"
 subdomains_count: 4
 all_subdomains_count: 4
 urls_count: 4
-ssl_rank: F
-http_rank: C
+ssl_rank: 
+http_rank: A
 url_link: /data/voordejeugdenhetgezin.nl/urls.txt
 all_subdomains_link: /data/voordejeugdenhetgezin.nl/all_subdomains.txt
 subdomains_link: /data/voordejeugdenhetgezin.nl/subdomains.txt
@@ -18,8 +18,8 @@ categories: dutchgov
 ## Summary data
 
 
-**SSL Grade**:F
-**HTTP Security Grade**:C
+ - **SSL Grade**:
+ - **HTTP Security Grade**:A
 
 
 | File       | Count | Info |
@@ -34,7 +34,7 @@ categories: dutchgov
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://opendata.voordejeugdenhetgezin.nl](https://opendata.voordejeugdenhetgezin.nl)| | **D**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
-|[https://www.voordejeugdenhetgezin.nl](https://www.voordejeugdenhetgezin.nl)| | **C**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Home | voor Jeug...|
-|[https://feeds.voordejeugdenhetgezin.nl](https://feeds.voordejeugdenhetgezin.nl)| | **D**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
-|[https://voordejeugdenhetgezin.nl](https://voordejeugdenhetgezin.nl)| | **C**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
+|[https://opendata.voordejeugdenhetgezin.nl](https://opendata.voordejeugdenhetgezin.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
+|[https://www.voordejeugdenhetgezin.nl](https://www.voordejeugdenhetgezin.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Home | voor Jeug...|
+|[https://feeds.voordejeugdenhetgezin.nl](https://feeds.voordejeugdenhetgezin.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
+|[https://voordejeugdenhetgezin.nl](https://voordejeugdenhetgezin.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|

@@ -5,8 +5,8 @@ permalink: "/dutchgov/rijkswaterstaatdata.nl.html"
 subdomains_count: 3
 all_subdomains_count: 3
 urls_count: 3
-ssl_rank: F
-http_rank: D
+ssl_rank: 
+http_rank: A
 url_link: /data/rijkswaterstaatdata.nl/urls.txt
 all_subdomains_link: /data/rijkswaterstaatdata.nl/all_subdomains.txt
 subdomains_link: /data/rijkswaterstaatdata.nl/subdomains.txt
@@ -18,8 +18,8 @@ categories: dutchgov
 ## Summary data
 
 
-**SSL Grade**:F
-**HTTP Security Grade**:D
+ - **SSL Grade**:
+ - **HTTP Security Grade**:A
 
 
 | File       | Count | Info |
@@ -34,6 +34,6 @@ categories: dutchgov
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://downloads.rijkswaterstaatdata.nl](https://downloads.rijkswaterstaatdata.nl)| | **F**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Nginx|Index of /|
-|[https://www.rijkswaterstaatdata.nl](https://www.rijkswaterstaatdata.nl)| | **B**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:-|Object moved|
-|[https://rijkswaterstaatdata.nl](https://rijkswaterstaatdata.nl)| | **B**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:-|Home - Data Rijk...|
+|[https://downloads.rijkswaterstaatdata.nl](https://downloads.rijkswaterstaatdata.nl)| | **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Nginx|Index of /|
+|[https://www.rijkswaterstaatdata.nl](https://www.rijkswaterstaatdata.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:-|Object moved|
+|[https://rijkswaterstaatdata.nl](https://rijkswaterstaatdata.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:-|Home - Data Rijk...|

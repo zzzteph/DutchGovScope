@@ -4,8 +4,8 @@
 ## Summary data
 
 
-**SSL Grade**:A+
-**HTTP Security Grade**:D
+ - **SSL Grade**:A+
+ - **HTTP Security Grade**:A
 
 
 | File       | Count | Info |
@@ -20,6 +20,6 @@
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://opendata.deutsch.postedworkers.nl](https://opendata.deutsch.postedworkers.nl)| **A+**| **D**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
-|[https://deutsch.postedworkers.nl](https://deutsch.postedworkers.nl)| **A+**| **C**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Posted Workers |...|
-|[https://feeds.deutsch.postedworkers.nl](https://feeds.deutsch.postedworkers.nl)| **A+**| **D**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
+|[https://opendata.deutsch.postedworkers.nl](https://opendata.deutsch.postedworkers.nl)| **A+**| **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
+|[https://deutsch.postedworkers.nl](https://deutsch.postedworkers.nl)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Posted Workers |...|
+|[https://feeds.deutsch.postedworkers.nl](https://feeds.deutsch.postedworkers.nl)| **A+**| **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||

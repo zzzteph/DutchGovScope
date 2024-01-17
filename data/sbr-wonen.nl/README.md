@@ -4,8 +4,8 @@
 ## Summary data
 
 
-**SSL Grade**:F
-**HTTP Security Grade**:D
+ - **SSL Grade**:
+ - **HTTP Security Grade**:B
 
 
 | File       | Count | Info |
@@ -20,14 +20,14 @@
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://definities.sbr-wonen.nl](https://definities.sbr-wonen.nl)| | **C**|nginx/1.14.0 (Ubuntu)|:white_check_mark: |:white_check_mark: | | |:warning: | | :white_check_mark: | :white_check_mark: | |Nginx:1.14.0 Ubuntu|301 Moved Perman...|
-|[https://dpi.sbr-wonen.nl](https://dpi.sbr-wonen.nl)| | **C**|istio-envoy| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Amazon Web Services Envoy HSTS|Serviceportaal|
-|[https://dpi-acc.sbr-wonen.nl](https://dpi-acc.sbr-wonen.nl)| | **C**|istio-envoy| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Amazon Web Services Envoy HSTS|Serviceportaal|
+|[https://definities.sbr-wonen.nl](https://definities.sbr-wonen.nl)| | **B**|nginx/1.14.0 (Ubuntu)|:white_check_mark: |:white_check_mark: | | |:warning: | | :white_check_mark: | :white_check_mark: | |Nginx:1.14.0 Ubuntu|301 Moved Perman...|
+|[https://dpi.sbr-wonen.nl](https://dpi.sbr-wonen.nl)| | **A**|istio-envoy| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Amazon Web Services Envoy HSTS|Serviceportaal|
+|[https://dpi-acc.sbr-wonen.nl](https://dpi-acc.sbr-wonen.nl)| | **A**|istio-envoy| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Amazon Web Services Envoy HSTS|Serviceportaal|
 |[https://hostmaster.sbr-wonen.nl](https://hostmaster.sbr-wonen.nl)| | **F**|Apache/2| | | | | | | | :white_check_mark: | |Apache HTTP Server:2||
-|[https://servicedesk.sbr-wonen.nl](https://servicedesk.sbr-wonen.nl)| | **D**|fwe|:white_check_mark: |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | |Amazon S3 Amazon Web Services Envoy HSTS||
+|[https://servicedesk.sbr-wonen.nl](https://servicedesk.sbr-wonen.nl)| | **C**|fwe|:white_check_mark: |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | |Amazon S3 Amazon Web Services Envoy HSTS||
 |[https://wozvalidatie.sbr-wonen.nl](https://wozvalidatie.sbr-wonen.nl)| | **F**|akka-http/10.4.0| | | | | | | | :white_check_mark: | |Akka HTTP:10.4.0|CSV-validatieser...|
-|[https://www.sbr-wonen.nl](https://www.sbr-wonen.nl)| | **C**|Apache/2| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server:2|301 Moved Perman...|
-|[https://hulpsheet.sbr-wonen.nl](https://hulpsheet.sbr-wonen.nl)| | **F**|| | | | | | | | :white_check_mark: | ||Microsoft Azure...|
-|[https://sbr-wonen.nl](https://sbr-wonen.nl)| | **C**|Apache/2| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server:2 Elementor:3.18.3 HSTS MySQL PHP:7.4.28 WordPress:6.4.2 Yoast SEO:21.7|Makkelijker info...|
-|[https://abm.sbr-wonen.nl](https://abm.sbr-wonen.nl)| | **C**|istio-envoy| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Amazon Web Services Envoy HSTS|Serviceportaal|
-|[https://dvi.sbr-wonen.nl](https://dvi.sbr-wonen.nl)| | **C**|istio-envoy| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Amazon Web Services Envoy HSTS|Serviceportaal|
+|[https://www.sbr-wonen.nl](https://www.sbr-wonen.nl)| | **A**|Apache/2| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server:2|301 Moved Perman...|
+|[https://hulpsheet.sbr-wonen.nl](https://hulpsheet.sbr-wonen.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Microsoft Azure...|
+|[https://sbr-wonen.nl](https://sbr-wonen.nl)| | **A**|Apache/2| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server:2 Elementor:3.18.3 HSTS MySQL PHP:7.4.28 WordPress:6.4.2 Yoast SEO:21.7|Makkelijker info...|
+|[https://abm.sbr-wonen.nl](https://abm.sbr-wonen.nl)| | **A**|istio-envoy| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Amazon Web Services Envoy HSTS|Serviceportaal|
+|[https://dvi.sbr-wonen.nl](https://dvi.sbr-wonen.nl)| | **A**|istio-envoy| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Amazon Web Services Envoy HSTS|Serviceportaal|

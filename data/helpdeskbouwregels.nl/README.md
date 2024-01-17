@@ -4,8 +4,8 @@
 ## Summary data
 
 
-**SSL Grade**:F
-**HTTP Security Grade**:F
+ - **SSL Grade**:
+ - **HTTP Security Grade**:E
 
 
 | File       | Count | Info |
@@ -20,6 +20,6 @@
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://www.helpdeskbouwregels.nl](https://www.helpdeskbouwregels.nl)| | **D**||:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | |Azure Azure Front Door HSTS Microsoft ASP.NET:4.0.30319|Home | Veelgeste...|
+|[https://www.helpdeskbouwregels.nl](https://www.helpdeskbouwregels.nl)| | **C**||:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | |Azure Azure Front Door HSTS Microsoft ASP.NET:4.0.30319|Home | Veelgeste...|
 |[https://beheer.helpdeskbouwregels.nl](https://beheer.helpdeskbouwregels.nl)| | **F**|Microsoft-IIS/10.0| | | | | | | | :white_check_mark: | |Azure IIS:10.0 Microsoft ASP.NET:4.0.30319 Windows Server|Beheer | Veelges...|
 |[https://helpdeskbouwregels.nl](https://helpdeskbouwregels.nl)| | **F**|Microsoft-IIS/10.0| | | | | | | | :white_check_mark: | |Azure HSTS IIS:10.0 Microsoft ASP.NET:4.0.30319 Windows Server|Home | Veelgeste...|

@@ -4,8 +4,8 @@
 ## Summary data
 
 
-**SSL Grade**:F
-**HTTP Security Grade**:C
+ - **SSL Grade**:
+ - **HTTP Security Grade**:B
 
 
 | File       | Count | Info |
@@ -20,12 +20,12 @@
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://acc.justitieconnect.nl](https://acc.justitieconnect.nl)| | **B**|nginx|:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |Bootstrap HSTS Nginx|JustitieConnect|
+|[https://acc.justitieconnect.nl](https://acc.justitieconnect.nl)| | **A**|nginx|:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |Bootstrap HSTS Nginx|JustitieConnect|
 |[https://acc.staging.justitieconnect.nl](https://acc.staging.justitieconnect.nl)| | **D**|nginx|:white_check_mark: | | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |Bootstrap Nginx|JustitieConnect|
-|[https://private.justitieconnect.nl](https://private.justitieconnect.nl)| | **B**|Apache|:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS|A-Select Filter...|
-|[https://private.acc.justitieconnect.nl](https://private.acc.justitieconnect.nl)| | **B**|Apache|:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS|A-Select Filter...|
-|[https://private.acc.staging.justitieconnect.nl](https://private.acc.staging.justitieconnect.nl)| | **B**|Apache|:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS|A-Select Filter...|
-|[https://private.staging.justitieconnect.nl](https://private.staging.justitieconnect.nl)| | **B**|Apache|:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS|A-Select Filter...|
+|[https://private.justitieconnect.nl](https://private.justitieconnect.nl)| | **A**|Apache|:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS|A-Select Filter...|
+|[https://private.acc.justitieconnect.nl](https://private.acc.justitieconnect.nl)| | **A**|Apache|:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS|A-Select Filter...|
+|[https://private.acc.staging.justitieconnect.nl](https://private.acc.staging.justitieconnect.nl)| | **A**|Apache|:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS|A-Select Filter...|
+|[https://private.staging.justitieconnect.nl](https://private.staging.justitieconnect.nl)| | **A**|Apache|:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS|A-Select Filter...|
 |[https://staging.justitieconnect.nl](https://staging.justitieconnect.nl)| | **D**|nginx|:white_check_mark: | | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |Bootstrap Nginx|JustitieConnect|
-|[https://www.justitieconnect.nl](https://www.justitieconnect.nl)| | **B**|nginx|:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |Bootstrap HSTS Nginx|JustitieConnect|
-|[https://justitieconnect.nl](https://justitieconnect.nl)| | **B**|nginx|:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |Bootstrap HSTS Nginx|JustitieConnect|
+|[https://www.justitieconnect.nl](https://www.justitieconnect.nl)| | **A**|nginx|:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |Bootstrap HSTS Nginx|JustitieConnect|
+|[https://justitieconnect.nl](https://justitieconnect.nl)| | **A**|nginx|:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |Bootstrap HSTS Nginx|JustitieConnect|

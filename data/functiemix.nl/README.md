@@ -4,8 +4,8 @@
 ## Summary data
 
 
-**SSL Grade**:F
-**HTTP Security Grade**:F
+ - **SSL Grade**:
+ - **HTTP Security Grade**:D
 
 
 | File       | Count | Info |
@@ -21,5 +21,5 @@
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
 |[https://database.functiemix.nl](https://database.functiemix.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|Functiemix|
-|[https://www.functiemix.nl](https://www.functiemix.nl)| | **F**|Apache/2| |:white_check_mark: | | | | | | :white_check_mark: | |Apache HTTP Server:2 HSTS||
-|[https://functiemix.nl](https://functiemix.nl)| | **F**|Apache/2| |:white_check_mark: | | | | | | :white_check_mark: | |Apache HTTP Server:2 HSTS||
+|[https://www.functiemix.nl](https://www.functiemix.nl)| | **C**|Apache/2| |:white_check_mark: | | | | | | :white_check_mark: | |Apache HTTP Server:2 HSTS||
+|[https://functiemix.nl](https://functiemix.nl)| | **C**|Apache/2| |:white_check_mark: | | | | | | :white_check_mark: | |Apache HTTP Server:2 HSTS||

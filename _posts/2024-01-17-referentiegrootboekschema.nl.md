@@ -5,8 +5,8 @@ permalink: "/dutchgov/referentiegrootboekschema.nl.html"
 subdomains_count: 6
 all_subdomains_count: 9
 urls_count: 6
-ssl_rank: F
-http_rank: F
+ssl_rank: 
+http_rank: D
 url_link: /data/referentiegrootboekschema.nl/urls.txt
 all_subdomains_link: /data/referentiegrootboekschema.nl/all_subdomains.txt
 subdomains_link: /data/referentiegrootboekschema.nl/subdomains.txt
@@ -18,8 +18,8 @@ categories: dutchgov
 ## Summary data
 
 
-**SSL Grade**:F
-**HTTP Security Grade**:F
+ - **SSL Grade**:
+ - **HTTP Security Grade**:D
 
 
 | File       | Count | Info |
@@ -38,5 +38,5 @@ categories: dutchgov
 |[https://mail.referentiegrootboekschema.nl](https://mail.referentiegrootboekschema.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx||
 |[https://prod-dictu.referentiegrootboekschema.nl](https://prod-dictu.referentiegrootboekschema.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Drupal:10 HSTS Nginx PHP|Home | Forum Sta...|
 |[https://test-dictu.referentiegrootboekschema.nl](https://test-dictu.referentiegrootboekschema.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Basic Nginx|401 Authorizatio...|
-|[https://www.referentiegrootboekschema.nl](https://www.referentiegrootboekschema.nl)| | **B**|nginx| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Drupal:10 HSTS Nginx PHP|Home | Referenti...|
-|[https://referentiegrootboekschema.nl](https://referentiegrootboekschema.nl)| | **B**|nginx| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Drupal:10 HSTS Nginx PHP|Home | Referenti...|
+|[https://www.referentiegrootboekschema.nl](https://www.referentiegrootboekschema.nl)| | **A**|nginx| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Drupal:10 HSTS Nginx PHP|Home | Referenti...|
+|[https://referentiegrootboekschema.nl](https://referentiegrootboekschema.nl)| | **A**|nginx| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Drupal:10 HSTS Nginx PHP|Home | Referenti...|

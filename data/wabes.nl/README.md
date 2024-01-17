@@ -4,8 +4,8 @@
 ## Summary data
 
 
-**SSL Grade**:F
-**HTTP Security Grade**:F
+ - **SSL Grade**:
+ - **HTTP Security Grade**:E
 
 
 | File       | Count | Info |
@@ -20,4 +20,4 @@
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://wabes.nl](https://wabes.nl)| | **F**|| | | | | | | | :white_check_mark: | |Next.js Node.js React Webpack|Wabes|
+|[https://wabes.nl](https://wabes.nl)| | **E**|| | | | | | | | :white_check_mark: | |Next.js Node.js React Webpack|Wabes|

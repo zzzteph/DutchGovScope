@@ -5,8 +5,8 @@ permalink: "/dutchgov/financieelfittewerknemers.nl.html"
 subdomains_count: 2
 all_subdomains_count: 2
 urls_count: 2
-ssl_rank: F
-http_rank: F
+ssl_rank: 
+http_rank: C
 url_link: /data/financieelfittewerknemers.nl/urls.txt
 all_subdomains_link: /data/financieelfittewerknemers.nl/all_subdomains.txt
 subdomains_link: /data/financieelfittewerknemers.nl/subdomains.txt
@@ -18,8 +18,8 @@ categories: dutchgov
 ## Summary data
 
 
-**SSL Grade**:F
-**HTTP Security Grade**:F
+ - **SSL Grade**:
+ - **HTTP Security Grade**:C
 
 
 | File       | Count | Info |
@@ -34,5 +34,5 @@ categories: dutchgov
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://www.financieelfittewerknemers.nl](https://www.financieelfittewerknemers.nl)| | **F**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |Google Tag Manager HSTS Nginx|Home - Financiee...|
-|[https://financieelfittewerknemers.nl](https://financieelfittewerknemers.nl)| | **F**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
+|[https://www.financieelfittewerknemers.nl](https://www.financieelfittewerknemers.nl)| | **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |Google Tag Manager HSTS Nginx|Home - Financiee...|
+|[https://financieelfittewerknemers.nl](https://financieelfittewerknemers.nl)| | **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|

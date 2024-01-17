@@ -4,8 +4,8 @@
 ## Summary data
 
 
-**SSL Grade**:F
-**HTTP Security Grade**:E
+ - **SSL Grade**:
+ - **HTTP Security Grade**:B
 
 
 | File       | Count | Info |
@@ -20,5 +20,5 @@
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://www.rijkswaterstaatstrooit.nl](https://www.rijkswaterstaatstrooit.nl)| | **E**|nginx/1.21.3| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS Nginx:1.21.3 Varnish:6.0|Strooikaart | Ri...|
-|[https://rijkswaterstaatstrooit.nl](https://rijkswaterstaatstrooit.nl)| | **E**|nginx/1.21.3| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS Nginx:1.21.3 Varnish|Strooikaart | Ri...|
+|[https://www.rijkswaterstaatstrooit.nl](https://www.rijkswaterstaatstrooit.nl)| | **B**|nginx/1.21.3| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS Nginx:1.21.3 Varnish:6.0|Strooikaart | Ri...|
+|[https://rijkswaterstaatstrooit.nl](https://rijkswaterstaatstrooit.nl)| | **B**|nginx/1.21.3| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS Nginx:1.21.3 Varnish|Strooikaart | Ri...|

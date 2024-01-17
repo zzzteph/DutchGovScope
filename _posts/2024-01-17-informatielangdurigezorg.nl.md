@@ -5,8 +5,8 @@ permalink: "/dutchgov/informatielangdurigezorg.nl.html"
 subdomains_count: 2
 all_subdomains_count: 11
 urls_count: 2
-ssl_rank: F
-http_rank: C
+ssl_rank: 
+http_rank: A
 url_link: /data/informatielangdurigezorg.nl/urls.txt
 all_subdomains_link: /data/informatielangdurigezorg.nl/all_subdomains.txt
 subdomains_link: /data/informatielangdurigezorg.nl/subdomains.txt
@@ -18,8 +18,8 @@ categories: dutchgov
 ## Summary data
 
 
-**SSL Grade**:F
-**HTTP Security Grade**:C
+ - **SSL Grade**:
+ - **HTTP Security Grade**:A
 
 
 | File       | Count | Info |
@@ -34,5 +34,5 @@ categories: dutchgov
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://informatielangdurigezorg.nl](https://informatielangdurigezorg.nl)| | **C**|Microsoft-IIS/10.0| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS IIS:10.0 Windows Server|Document Moved|
-|[https://www.informatielangdurigezorg.nl](https://www.informatielangdurigezorg.nl)| | **C**|Microsoft-IIS/10.0| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS IIS:10.0 Windows Server|Document Moved|
+|[https://informatielangdurigezorg.nl](https://informatielangdurigezorg.nl)| | **A**|Microsoft-IIS/10.0| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS IIS:10.0 Windows Server|Document Moved|
+|[https://www.informatielangdurigezorg.nl](https://www.informatielangdurigezorg.nl)| | **A**|Microsoft-IIS/10.0| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS IIS:10.0 Windows Server|Document Moved|

@@ -5,8 +5,8 @@ permalink: "/dutchgov/sportakkoord.nl.html"
 subdomains_count: 2
 all_subdomains_count: 2
 urls_count: 2
-ssl_rank: F
-http_rank: C
+ssl_rank: 
+http_rank: A
 url_link: /data/sportakkoord.nl/urls.txt
 all_subdomains_link: /data/sportakkoord.nl/all_subdomains.txt
 subdomains_link: /data/sportakkoord.nl/subdomains.txt
@@ -18,8 +18,8 @@ categories: dutchgov
 ## Summary data
 
 
-**SSL Grade**:F
-**HTTP Security Grade**:C
+ - **SSL Grade**:
+ - **HTTP Security Grade**:A
 
 
 | File       | Count | Info |
@@ -34,5 +34,5 @@ categories: dutchgov
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://www.sportakkoord.nl](https://www.sportakkoord.nl)| | **C**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Google Tag Manager HSTS MySQL PHP Varnish:6.2 WordPress|Aan de slag met...|
-|[https://sportakkoord.nl](https://sportakkoord.nl)| | **C**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Varnish|301 Moved Perman...|
+|[https://www.sportakkoord.nl](https://www.sportakkoord.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Google Tag Manager HSTS MySQL PHP Varnish:6.2 WordPress|Aan de slag met...|
+|[https://sportakkoord.nl](https://sportakkoord.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Varnish|301 Moved Perman...|

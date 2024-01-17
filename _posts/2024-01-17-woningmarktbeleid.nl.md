@@ -5,8 +5,8 @@ permalink: "/dutchgov/woningmarktbeleid.nl.html"
 subdomains_count: 5
 all_subdomains_count: 24
 urls_count: 5
-ssl_rank: F
-http_rank: F
+ssl_rank: 
+http_rank: D
 url_link: /data/woningmarktbeleid.nl/urls.txt
 all_subdomains_link: /data/woningmarktbeleid.nl/all_subdomains.txt
 subdomains_link: /data/woningmarktbeleid.nl/subdomains.txt
@@ -18,8 +18,8 @@ categories: dutchgov
 ## Summary data
 
 
-**SSL Grade**:F
-**HTTP Security Grade**:F
+ - **SSL Grade**:
+ - **HTTP Security Grade**:D
 
 
 | File       | Count | Info |
@@ -37,5 +37,5 @@ categories: dutchgov
 |[https://duurzaam.woningmarktbeleid.nl](https://duurzaam.woningmarktbeleid.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|404 Not Found|
 |[https://middensegment.woningmarktbeleid.nl](https://middensegment.woningmarktbeleid.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|404 Not Found|
 |[https://wonenenzorg.woningmarktbeleid.nl](https://wonenenzorg.woningmarktbeleid.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|404 Not Found|
-|[https://www.woningmarktbeleid.nl](https://www.woningmarktbeleid.nl)| | **C**|Microsoft-IIS/10.0| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS IIS:10.0 Windows Server|Document Moved|
-|[https://woningmarktbeleid.nl](https://woningmarktbeleid.nl)| | **C**|Microsoft-IIS/10.0| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS IIS:10.0 Windows Server|Document Moved|
+|[https://www.woningmarktbeleid.nl](https://www.woningmarktbeleid.nl)| | **A**|Microsoft-IIS/10.0| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS IIS:10.0 Windows Server|Document Moved|
+|[https://woningmarktbeleid.nl](https://woningmarktbeleid.nl)| | **A**|Microsoft-IIS/10.0| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS IIS:10.0 Windows Server|Document Moved|

@@ -5,8 +5,8 @@ permalink: "/dutchgov/carbonbudgetexplorer.nl.html"
 subdomains_count: 3
 all_subdomains_count: 3
 urls_count: 2
-ssl_rank: F
-http_rank: D
+ssl_rank: 
+http_rank: A
 url_link: /data/carbonbudgetexplorer.nl/urls.txt
 all_subdomains_link: /data/carbonbudgetexplorer.nl/all_subdomains.txt
 subdomains_link: /data/carbonbudgetexplorer.nl/subdomains.txt
@@ -18,8 +18,8 @@ categories: dutchgov
 ## Summary data
 
 
-**SSL Grade**:F
-**HTTP Security Grade**:D
+ - **SSL Grade**:
+ - **HTTP Security Grade**:A
 
 
 | File       | Count | Info |
@@ -34,5 +34,5 @@ categories: dutchgov
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://carbonbudgetexplorer.nl](https://carbonbudgetexplorer.nl)| | **D**|| |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | |HSTS||
-|[https://www.carbonbudgetexplorer.nl](https://www.carbonbudgetexplorer.nl)| | **D**|| |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | |HSTS||
+|[https://carbonbudgetexplorer.nl](https://carbonbudgetexplorer.nl)| | **A**|| |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | |HSTS||
+|[https://www.carbonbudgetexplorer.nl](https://www.carbonbudgetexplorer.nl)| | **A**|| |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | |HSTS||

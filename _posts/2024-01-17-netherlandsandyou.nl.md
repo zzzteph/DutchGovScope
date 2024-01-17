@@ -5,8 +5,8 @@ permalink: "/dutchgov/netherlandsandyou.nl.html"
 subdomains_count: 5
 all_subdomains_count: 18
 urls_count: 5
-ssl_rank: F
-http_rank: E
+ssl_rank: 
+http_rank: D
 url_link: /data/netherlandsandyou.nl/urls.txt
 all_subdomains_link: /data/netherlandsandyou.nl/all_subdomains.txt
 subdomains_link: /data/netherlandsandyou.nl/subdomains.txt
@@ -18,8 +18,8 @@ categories: dutchgov
 ## Summary data
 
 
-**SSL Grade**:F
-**HTTP Security Grade**:E
+ - **SSL Grade**:
+ - **HTTP Security Grade**:D
 
 
 | File       | Count | Info |
@@ -37,5 +37,5 @@ categories: dutchgov
 |[https://acc.netherlandsandyou.nl](https://acc.netherlandsandyou.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|403 Forbidden|
 |[https://dev.netherlandsandyou.nl](https://dev.netherlandsandyou.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|403 Forbidden|
 |[https://tst.netherlandsandyou.nl](https://tst.netherlandsandyou.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|403 Forbidden|
-|[https://www.netherlandsandyou.nl](https://www.netherlandsandyou.nl)| | **B**|Apache|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS Java|Home - Netherlan...|
-|[https://netherlandsandyou.nl](https://netherlandsandyou.nl)| | **B**|Apache|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server|301 Moved Perman...|
+|[https://www.netherlandsandyou.nl](https://www.netherlandsandyou.nl)| | **A**|Apache|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS Java|Home - Netherlan...|
+|[https://netherlandsandyou.nl](https://netherlandsandyou.nl)| | **A**|Apache|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server|301 Moved Perman...|

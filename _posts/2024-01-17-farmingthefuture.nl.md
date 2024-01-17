@@ -5,8 +5,8 @@ permalink: "/dutchgov/farmingthefuture.nl.html"
 subdomains_count: 1
 all_subdomains_count: 8
 urls_count: 1
-ssl_rank: F
-http_rank: C
+ssl_rank: 
+http_rank: A
 url_link: /data/farmingthefuture.nl/urls.txt
 all_subdomains_link: /data/farmingthefuture.nl/all_subdomains.txt
 subdomains_link: /data/farmingthefuture.nl/subdomains.txt
@@ -18,8 +18,8 @@ categories: dutchgov
 ## Summary data
 
 
-**SSL Grade**:F
-**HTTP Security Grade**:C
+ - **SSL Grade**:
+ - **HTTP Security Grade**:A
 
 
 | File       | Count | Info |
@@ -34,4 +34,4 @@ categories: dutchgov
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://farmingthefuture.nl](https://farmingthefuture.nl)| | **C**|Apache| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server Drupal:10 HSTS PHP|Homepage | Farmi...|
+|[https://farmingthefuture.nl](https://farmingthefuture.nl)| | **A**|Apache| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server Drupal:10 HSTS PHP|Homepage | Farmi...|

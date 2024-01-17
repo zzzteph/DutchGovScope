@@ -18,8 +18,8 @@ categories: dutchgov
 ## Summary data
 
 
-**SSL Grade**:A
-**HTTP Security Grade**:F
+ - **SSL Grade**:A
+ - **HTTP Security Grade**:F
 
 
 | File       | Count | Info |

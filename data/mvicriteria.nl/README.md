@@ -4,8 +4,8 @@
 ## Summary data
 
 
-**SSL Grade**:F
-**HTTP Security Grade**:E
+ - **SSL Grade**:
+ - **HTTP Security Grade**:D
 
 
 | File       | Count | Info |
@@ -20,5 +20,5 @@
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://www.mvicriteria.nl](https://www.mvicriteria.nl)| | **E**||:o: |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|Redirecting to h...|
-|[https://mvicriteria.nl](https://mvicriteria.nl)| | **E**||:o: |:white_check_mark: | | | | | | :white_check_mark: | ||308 Permanent Re...|
+|[https://www.mvicriteria.nl](https://www.mvicriteria.nl)| | **D**||:o: |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|Redirecting to h...|
+|[https://mvicriteria.nl](https://mvicriteria.nl)| | **D**||:o: |:white_check_mark: | | | | | | :white_check_mark: | ||308 Permanent Re...|

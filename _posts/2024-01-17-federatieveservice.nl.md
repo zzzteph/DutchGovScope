@@ -5,7 +5,7 @@ permalink: "/dutchgov/federatieveservice.nl.html"
 subdomains_count: 14
 all_subdomains_count: 19
 urls_count: 14
-ssl_rank: F
+ssl_rank: 
 http_rank: A
 url_link: /data/federatieveservice.nl/urls.txt
 all_subdomains_link: /data/federatieveservice.nl/all_subdomains.txt
@@ -18,8 +18,8 @@ categories: dutchgov
 ## Summary data
 
 
-**SSL Grade**:F
-**HTTP Security Grade**:A
+ - **SSL Grade**:
+ - **HTTP Security Grade**:A
 
 
 | File       | Count | Info |
@@ -35,12 +35,12 @@ categories: dutchgov
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
 |[https://acc.federatieveservice.nl](https://acc.federatieveservice.nl)| | **A**|N.A.|:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|[organization_fr...|
-|[https://demo.federatieveservice.nl](https://demo.federatieveservice.nl)| | **B**|Apache|:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS|A-Select Filter...|
-|[https://demo.acc.federatieveservice.nl](https://demo.acc.federatieveservice.nl)| | **B**|Apache|:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS|A-Select Filter...|
-|[https://demo1.tst.federatieveservice.nl](https://demo1.tst.federatieveservice.nl)| | **B**|Apache|:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS|A-Select Filter...|
-|[https://demo2.tst.federatieveservice.nl](https://demo2.tst.federatieveservice.nl)| | **B**|Apache|:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS|A-Select Filter...|
-|[https://demo3.tst.federatieveservice.nl](https://demo3.tst.federatieveservice.nl)| | **B**|Apache|:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS|A-Select Filter...|
-|[https://demo4.tst.federatieveservice.nl](https://demo4.tst.federatieveservice.nl)| | **B**|Apache|:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS|A-Select Filter...|
+|[https://demo.federatieveservice.nl](https://demo.federatieveservice.nl)| | **A**|Apache|:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS|A-Select Filter...|
+|[https://demo.acc.federatieveservice.nl](https://demo.acc.federatieveservice.nl)| | **A**|Apache|:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS|A-Select Filter...|
+|[https://demo1.tst.federatieveservice.nl](https://demo1.tst.federatieveservice.nl)| | **A**|Apache|:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS|A-Select Filter...|
+|[https://demo2.tst.federatieveservice.nl](https://demo2.tst.federatieveservice.nl)| | **A**|Apache|:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS|A-Select Filter...|
+|[https://demo3.tst.federatieveservice.nl](https://demo3.tst.federatieveservice.nl)| | **A**|Apache|:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS|A-Select Filter...|
+|[https://demo4.tst.federatieveservice.nl](https://demo4.tst.federatieveservice.nl)| | **A**|Apache|:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS|A-Select Filter...|
 |[https://rp1.federatieveservice.nl](https://rp1.federatieveservice.nl)| | **A**|Apache|:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS||
 |[https://rp1.acc.federatieveservice.nl](https://rp1.acc.federatieveservice.nl)| | **A**|Apache|:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS||
 |[https://rp1.tst.federatieveservice.nl](https://rp1.tst.federatieveservice.nl)| | **A**|Apache|:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS||

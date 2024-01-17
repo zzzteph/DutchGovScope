@@ -4,8 +4,8 @@
 ## Summary data
 
 
-**SSL Grade**:F
-**HTTP Security Grade**:F
+ - **SSL Grade**:
+ - **HTTP Security Grade**:C
 
 
 | File       | Count | Info |
@@ -22,6 +22,6 @@
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
 |[https://acc.jonglereneten.nl](https://acc.jonglereneten.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Basic Nginx|401 Authorizatio...|
 |[https://test.jonglereneten.nl](https://test.jonglereneten.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Basic Nginx|401 Authorizatio...|
-|[https://www.jonglereneten.nl](https://www.jonglereneten.nl)| | **B**|nginx| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bootstrap Drupal:10 HSTS Nginx PHP Slick YouTube jQuery|Wat is Jong Lere...|
-|[https://jonglereneten.nl](https://jonglereneten.nl)| | **B**|nginx| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
+|[https://www.jonglereneten.nl](https://www.jonglereneten.nl)| | **A**|nginx| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bootstrap Drupal:10 HSTS Nginx PHP Slick YouTube jQuery|Wat is Jong Lere...|
+|[https://jonglereneten.nl](https://jonglereneten.nl)| | **A**|nginx| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
 |[https://prod.jonglereneten.nl](https://prod.jonglereneten.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|

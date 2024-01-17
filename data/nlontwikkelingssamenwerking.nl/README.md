@@ -4,8 +4,8 @@
 ## Summary data
 
 
-**SSL Grade**:F
-**HTTP Security Grade**:F
+ - **SSL Grade**:
+ - **HTTP Security Grade**:E
 
 
 | File       | Count | Info |
@@ -23,4 +23,4 @@
 |[https://acc.nlontwikkelingssamenwerking.nl](https://acc.nlontwikkelingssamenwerking.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|403 Forbidden|
 |[https://dev.nlontwikkelingssamenwerking.nl](https://dev.nlontwikkelingssamenwerking.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|403 Forbidden|
 |[https://tst.nlontwikkelingssamenwerking.nl](https://tst.nlontwikkelingssamenwerking.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|403 Forbidden|
-|[https://www.nlontwikkelingssamenwerking.nl](https://www.nlontwikkelingssamenwerking.nl)| | **B**|Apache|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS Java|Home - OS Portaa...|
+|[https://www.nlontwikkelingssamenwerking.nl](https://www.nlontwikkelingssamenwerking.nl)| | **A**|Apache|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS Java|Home - OS Portaa...|

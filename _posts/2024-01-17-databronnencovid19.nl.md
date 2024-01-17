@@ -5,7 +5,7 @@ permalink: "/dutchgov/databronnencovid19.nl.html"
 subdomains_count: 0
 all_subdomains_count: 2
 urls_count: 0
-ssl_rank: F
+ssl_rank: 
 http_rank: F
 url_link: /data/databronnencovid19.nl/urls.txt
 all_subdomains_link: /data/databronnencovid19.nl/all_subdomains.txt
@@ -18,8 +18,8 @@ categories: dutchgov
 ## Summary data
 
 
-**SSL Grade**:F
-**HTTP Security Grade**:F
+ - **SSL Grade**:
+ - **HTTP Security Grade**:F
 
 
 | File       | Count | Info |

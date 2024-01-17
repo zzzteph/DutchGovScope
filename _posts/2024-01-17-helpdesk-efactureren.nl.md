@@ -5,8 +5,8 @@ permalink: "/dutchgov/helpdesk-efactureren.nl.html"
 subdomains_count: 2
 all_subdomains_count: 14
 urls_count: 2
-ssl_rank: F
-http_rank: D
+ssl_rank: 
+http_rank: A
 url_link: /data/helpdesk-efactureren.nl/urls.txt
 all_subdomains_link: /data/helpdesk-efactureren.nl/all_subdomains.txt
 subdomains_link: /data/helpdesk-efactureren.nl/subdomains.txt
@@ -18,8 +18,8 @@ categories: dutchgov
 ## Summary data
 
 
-**SSL Grade**:F
-**HTTP Security Grade**:D
+ - **SSL Grade**:
+ - **HTTP Security Grade**:A
 
 
 | File       | Count | Info |
@@ -34,5 +34,5 @@ categories: dutchgov
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://www.helpdesk-efactureren.nl](https://www.helpdesk-efactureren.nl)| | **D**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Drupal:10 HSTS Nginx PHP|Helpdesk e-factu...|
-|[https://helpdesk-efactureren.nl](https://helpdesk-efactureren.nl)| | **D**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
+|[https://www.helpdesk-efactureren.nl](https://www.helpdesk-efactureren.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Drupal:10 HSTS Nginx PHP|Helpdesk e-factu...|
+|[https://helpdesk-efactureren.nl](https://helpdesk-efactureren.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|

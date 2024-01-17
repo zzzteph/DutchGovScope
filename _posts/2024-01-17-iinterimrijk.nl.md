@@ -5,8 +5,8 @@ permalink: "/dutchgov/iinterimrijk.nl.html"
 subdomains_count: 2
 all_subdomains_count: 2
 urls_count: 2
-ssl_rank: F
-http_rank: C
+ssl_rank: 
+http_rank: B
 url_link: /data/iinterimrijk.nl/urls.txt
 all_subdomains_link: /data/iinterimrijk.nl/all_subdomains.txt
 subdomains_link: /data/iinterimrijk.nl/subdomains.txt
@@ -18,8 +18,8 @@ categories: dutchgov
 ## Summary data
 
 
-**SSL Grade**:F
-**HTTP Security Grade**:C
+ - **SSL Grade**:
+ - **HTTP Security Grade**:B
 
 
 | File       | Count | Info |
@@ -34,5 +34,5 @@ categories: dutchgov
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://www.iinterimrijk.nl](https://www.iinterimrijk.nl)| | **C**||:warning: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Login - I-Interi...|
-|[https://iinterimrijk.nl](https://iinterimrijk.nl)| | **C**||:o: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
+|[https://www.iinterimrijk.nl](https://www.iinterimrijk.nl)| | **B**||:warning: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Login - I-Interi...|
+|[https://iinterimrijk.nl](https://iinterimrijk.nl)| | **B**||:o: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||

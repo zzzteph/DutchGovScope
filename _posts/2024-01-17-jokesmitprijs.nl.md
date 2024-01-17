@@ -5,8 +5,8 @@ permalink: "/dutchgov/jokesmitprijs.nl.html"
 subdomains_count: 2
 all_subdomains_count: 3
 urls_count: 2
-ssl_rank: F
-http_rank: B
+ssl_rank: 
+http_rank: A
 url_link: /data/jokesmitprijs.nl/urls.txt
 all_subdomains_link: /data/jokesmitprijs.nl/all_subdomains.txt
 subdomains_link: /data/jokesmitprijs.nl/subdomains.txt
@@ -18,8 +18,8 @@ categories: dutchgov
 ## Summary data
 
 
-**SSL Grade**:F
-**HTTP Security Grade**:B
+ - **SSL Grade**:
+ - **HTTP Security Grade**:A
 
 
 | File       | Count | Info |
@@ -34,5 +34,5 @@ categories: dutchgov
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://www.jokesmitprijs.nl](https://www.jokesmitprijs.nl)| | **B**|Microsoft-IIS/10.0|:warning: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bootstrap:4.0.0 HSTS IIS:10.0 Windows Server YouTube|Joke Smitprijs 2...|
-|[https://jokesmitprijs.nl](https://jokesmitprijs.nl)| | **B**|Microsoft-IIS/10.0|:warning: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bootstrap:4.0.0 HSTS IIS:10.0 Windows Server YouTube|Joke Smitprijs 2...|
+|[https://www.jokesmitprijs.nl](https://www.jokesmitprijs.nl)| | **A**|Microsoft-IIS/10.0|:warning: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bootstrap:4.0.0 HSTS IIS:10.0 Windows Server YouTube|Joke Smitprijs 2...|
+|[https://jokesmitprijs.nl](https://jokesmitprijs.nl)| | **A**|Microsoft-IIS/10.0|:warning: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bootstrap:4.0.0 HSTS IIS:10.0 Windows Server YouTube|Joke Smitprijs 2...|

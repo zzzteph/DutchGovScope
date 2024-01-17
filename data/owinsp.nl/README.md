@@ -4,8 +4,8 @@
 ## Summary data
 
 
-**SSL Grade**:F
-**HTTP Security Grade**:F
+ - **SSL Grade**:
+ - **HTTP Security Grade**:F
 
 
 | File       | Count | Info |
@@ -32,6 +32,6 @@
 |[https://portal.survey.collector.owinsp.nl](https://portal.survey.collector.owinsp.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|503 Service Unav...|
 |[https://portal.survey.collectora.acc.owinsp.nl](https://portal.survey.collectora.acc.owinsp.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|503 Service Unav...|
 |[https://www.owinsp.nl](https://www.owinsp.nl)| | **F**|Apache/2| | | | | | | | :white_check_mark: | |Apache HTTP Server:2|301 Moved Perman...|
-|[https://broker.isd.owinsp.nl](https://broker.isd.owinsp.nl)| | **E**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
-|[https://broker.isd.acc.owinsp.nl](https://broker.isd.acc.owinsp.nl)| | **E**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
+|[https://broker.isd.owinsp.nl](https://broker.isd.owinsp.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
+|[https://broker.isd.acc.owinsp.nl](https://broker.isd.acc.owinsp.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
 |[https://owinsp.nl](https://owinsp.nl)| | **F**|Apache/2| | | | | | | | :white_check_mark: | |Apache HTTP Server:2|301 Moved Perman...|

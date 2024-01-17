@@ -4,8 +4,8 @@
 ## Summary data
 
 
-**SSL Grade**:F
-**HTTP Security Grade**:F
+ - **SSL Grade**:
+ - **HTTP Security Grade**:E
 
 
 | File       | Count | Info |
@@ -20,7 +20,7 @@
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://mail.coordinatiestroomlijn.nl](https://mail.coordinatiestroomlijn.nl)| | **F**|| | | | | | | | :white_check_mark: | ||Document Moved|
-|[https://mta-sts.coordinatiestroomlijn.nl](https://mta-sts.coordinatiestroomlijn.nl)| | **F**|| | | | | | | | :white_check_mark: | ||Document Moved|
-|[https://www.coordinatiestroomlijn.nl](https://www.coordinatiestroomlijn.nl)| | **F**|| | | | | | | | :white_check_mark: | ||Document Moved|
-|[https://coordinatiestroomlijn.nl](https://coordinatiestroomlijn.nl)| | **F**|| | | | | | | | :white_check_mark: | ||Document Moved|
+|[https://mail.coordinatiestroomlijn.nl](https://mail.coordinatiestroomlijn.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Document Moved|
+|[https://mta-sts.coordinatiestroomlijn.nl](https://mta-sts.coordinatiestroomlijn.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Document Moved|
+|[https://www.coordinatiestroomlijn.nl](https://www.coordinatiestroomlijn.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Document Moved|
+|[https://coordinatiestroomlijn.nl](https://coordinatiestroomlijn.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Document Moved|

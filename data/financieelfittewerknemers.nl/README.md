@@ -4,8 +4,8 @@
 ## Summary data
 
 
-**SSL Grade**:F
-**HTTP Security Grade**:F
+ - **SSL Grade**:
+ - **HTTP Security Grade**:C
 
 
 | File       | Count | Info |
@@ -20,5 +20,5 @@
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://www.financieelfittewerknemers.nl](https://www.financieelfittewerknemers.nl)| | **F**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |Google Tag Manager HSTS Nginx|Home - Financiee...|
-|[https://financieelfittewerknemers.nl](https://financieelfittewerknemers.nl)| | **F**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
+|[https://www.financieelfittewerknemers.nl](https://www.financieelfittewerknemers.nl)| | **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |Google Tag Manager HSTS Nginx|Home - Financiee...|
+|[https://financieelfittewerknemers.nl](https://financieelfittewerknemers.nl)| | **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|

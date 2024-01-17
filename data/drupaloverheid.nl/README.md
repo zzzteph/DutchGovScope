@@ -4,8 +4,8 @@
 ## Summary data
 
 
-**SSL Grade**:F
-**HTTP Security Grade**:E
+ - **SSL Grade**:
+ - **HTTP Security Grade**:C
 
 
 | File       | Count | Info |
@@ -22,5 +22,5 @@
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
 |[https://acc.drupaloverheid.nl](https://acc.drupaloverheid.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Basic Nginx|401 Authorizatio...|
 |[https://test.drupaloverheid.nl](https://test.drupaloverheid.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Basic Nginx|401 Authorizatio...|
-|[https://www.drupaloverheid.nl](https://www.drupaloverheid.nl)| | **C**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|Drupal Overheid|
-|[https://drupaloverheid.nl](https://drupaloverheid.nl)| | **C**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|Drupal Overheid|
+|[https://www.drupaloverheid.nl](https://www.drupaloverheid.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|Drupal Overheid|
+|[https://drupaloverheid.nl](https://drupaloverheid.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|Drupal Overheid|

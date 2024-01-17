@@ -5,8 +5,8 @@ permalink: "/dutchgov/maatwerkvoormensen.nl.html"
 subdomains_count: 4
 all_subdomains_count: 11
 urls_count: 4
-ssl_rank: F
-http_rank: C
+ssl_rank: 
+http_rank: A
 url_link: /data/maatwerkvoormensen.nl/urls.txt
 all_subdomains_link: /data/maatwerkvoormensen.nl/all_subdomains.txt
 subdomains_link: /data/maatwerkvoormensen.nl/subdomains.txt
@@ -18,8 +18,8 @@ categories: dutchgov
 ## Summary data
 
 
-**SSL Grade**:F
-**HTTP Security Grade**:C
+ - **SSL Grade**:
+ - **HTTP Security Grade**:A
 
 
 | File       | Count | Info |
@@ -34,7 +34,7 @@ categories: dutchgov
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://feeds.maatwerkvoormensen.nl](https://feeds.maatwerkvoormensen.nl)| | **D**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
-|[https://opendata.maatwerkvoormensen.nl](https://opendata.maatwerkvoormensen.nl)| | **D**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
-|[https://www.maatwerkvoormensen.nl](https://www.maatwerkvoormensen.nl)| | **C**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Maatwerk voor Me...|
-|[https://maatwerkvoormensen.nl](https://maatwerkvoormensen.nl)| | **C**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
+|[https://feeds.maatwerkvoormensen.nl](https://feeds.maatwerkvoormensen.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
+|[https://opendata.maatwerkvoormensen.nl](https://opendata.maatwerkvoormensen.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
+|[https://www.maatwerkvoormensen.nl](https://www.maatwerkvoormensen.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Maatwerk voor Me...|
+|[https://maatwerkvoormensen.nl](https://maatwerkvoormensen.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|

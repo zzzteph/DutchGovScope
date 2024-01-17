@@ -4,8 +4,8 @@
 ## Summary data
 
 
-**SSL Grade**:F
-**HTTP Security Grade**:F
+ - **SSL Grade**:
+ - **HTTP Security Grade**:C
 
 
 | File       | Count | Info |
@@ -20,5 +20,5 @@
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://www.informatiepuntdigitaleoverheid.nl](https://www.informatiepuntdigitaleoverheid.nl)| | **F**|Apache| |:white_check_mark: | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|Informatiepunt D...|
-|[https://informatiepuntdigitaleoverheid.nl](https://informatiepuntdigitaleoverheid.nl)| | **F**|Apache| |:white_check_mark: | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|Informatiepunt D...|
+|[https://www.informatiepuntdigitaleoverheid.nl](https://www.informatiepuntdigitaleoverheid.nl)| | **C**|Apache| |:white_check_mark: | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|Informatiepunt D...|
+|[https://informatiepuntdigitaleoverheid.nl](https://informatiepuntdigitaleoverheid.nl)| | **C**|Apache| |:white_check_mark: | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|Informatiepunt D...|

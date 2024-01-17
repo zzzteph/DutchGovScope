@@ -4,8 +4,8 @@
 ## Summary data
 
 
-**SSL Grade**:F
-**HTTP Security Grade**:F
+ - **SSL Grade**:
+ - **HTTP Security Grade**:D
 
 
 | File       | Count | Info |
@@ -20,8 +20,8 @@
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://acceptatie.staatvenz.nl](https://acceptatie.staatvenz.nl)| | **F**|Apache| |:white_check_mark: | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|webserver|
-|[http://test.staatvenz.nl](http://test.staatvenz.nl)| | **F**|| | | | | | | | :white_check_mark: | |||
-|[https://www.staatvenz.nl](https://www.staatvenz.nl)| | **E**|Apache| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server Drupal HSTS PHP|Home | De Staat...|
-|[http://www.acceptatie.staatvenz.nl](http://www.acceptatie.staatvenz.nl)| | **F**|| | | | | | | | :white_check_mark: | |||
-|[https://staatvenz.nl](https://staatvenz.nl)| | **E**|Apache| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS|301 Moved Perman...|
+|[https://acceptatie.staatvenz.nl](https://acceptatie.staatvenz.nl)| | **C**|Apache| |:white_check_mark: | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|webserver|
+|[http://test.staatvenz.nl](http://test.staatvenz.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
+|[https://www.staatvenz.nl](https://www.staatvenz.nl)| | **B**|Apache| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server Drupal HSTS PHP|Home | De Staat...|
+|[http://www.acceptatie.staatvenz.nl](http://www.acceptatie.staatvenz.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
+|[https://staatvenz.nl](https://staatvenz.nl)| | **B**|Apache| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS|301 Moved Perman...|

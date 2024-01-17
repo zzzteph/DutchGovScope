@@ -5,8 +5,8 @@ permalink: "/dutchgov/kennisplatform.nl.html"
 subdomains_count: 4
 all_subdomains_count: 4
 urls_count: 2
-ssl_rank: F
-http_rank: D
+ssl_rank: 
+http_rank: B
 url_link: /data/kennisplatform.nl/urls.txt
 all_subdomains_link: /data/kennisplatform.nl/all_subdomains.txt
 subdomains_link: /data/kennisplatform.nl/subdomains.txt
@@ -18,8 +18,8 @@ categories: dutchgov
 ## Summary data
 
 
-**SSL Grade**:F
-**HTTP Security Grade**:D
+ - **SSL Grade**:
+ - **HTTP Security Grade**:B
 
 
 | File       | Count | Info |
@@ -34,5 +34,5 @@ categories: dutchgov
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://www.kennisplatform.nl](https://www.kennisplatform.nl)| | **D**|Apache/2|:white_check_mark: |:white_check_mark: | :warning:| | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server:2 CodeIgniter Google Tag Manager HSTS PHP Slick jQuery|Voor al uw vrage...|
-|[https://kennisplatform.nl](https://kennisplatform.nl)| | **E**|Apache/2| |:white_check_mark: | :warning:| | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server:2 CodeIgniter HSTS PHP||
+|[https://www.kennisplatform.nl](https://www.kennisplatform.nl)| | **C**|Apache/2|:white_check_mark: |:white_check_mark: | :warning:| | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server:2 CodeIgniter Google Tag Manager HSTS PHP Slick jQuery|Voor al uw vrage...|
+|[https://kennisplatform.nl](https://kennisplatform.nl)| | **B**|Apache/2| |:white_check_mark: | :warning:| | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server:2 CodeIgniter HSTS PHP||

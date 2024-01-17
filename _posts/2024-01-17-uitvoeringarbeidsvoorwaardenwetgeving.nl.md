@@ -5,8 +5,8 @@ permalink: "/dutchgov/uitvoeringarbeidsvoorwaardenwetgeving.nl.html"
 subdomains_count: 2
 all_subdomains_count: 2
 urls_count: 2
-ssl_rank: F
-http_rank: E
+ssl_rank: 
+http_rank: B
 url_link: /data/uitvoeringarbeidsvoorwaardenwetgeving.nl/urls.txt
 all_subdomains_link: /data/uitvoeringarbeidsvoorwaardenwetgeving.nl/all_subdomains.txt
 subdomains_link: /data/uitvoeringarbeidsvoorwaardenwetgeving.nl/subdomains.txt
@@ -18,8 +18,8 @@ categories: dutchgov
 ## Summary data
 
 
-**SSL Grade**:F
-**HTTP Security Grade**:E
+ - **SSL Grade**:
+ - **HTTP Security Grade**:B
 
 
 | File       | Count | Info |
@@ -34,5 +34,5 @@ categories: dutchgov
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://www.uitvoeringarbeidsvoorwaardenwetgeving.nl](https://www.uitvoeringarbeidsvoorwaardenwetgeving.nl)| | **E**|nginx| |:white_check_mark: | | |:warning: | | | :white_check_mark: | |HSTS Nginx|302 Found|
-|[https://uitvoeringarbeidsvoorwaardenwetgeving.nl](https://uitvoeringarbeidsvoorwaardenwetgeving.nl)| | **E**|nginx| |:white_check_mark: | | |:warning: | | | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
+|[https://www.uitvoeringarbeidsvoorwaardenwetgeving.nl](https://www.uitvoeringarbeidsvoorwaardenwetgeving.nl)| | **B**|nginx| |:white_check_mark: | | |:warning: | | | :white_check_mark: | |HSTS Nginx|302 Found|
+|[https://uitvoeringarbeidsvoorwaardenwetgeving.nl](https://uitvoeringarbeidsvoorwaardenwetgeving.nl)| | **B**|nginx| |:white_check_mark: | | |:warning: | | | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|

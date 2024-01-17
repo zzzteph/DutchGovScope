@@ -4,8 +4,8 @@
 ## Summary data
 
 
-**SSL Grade**:A+
-**HTTP Security Grade**:B
+ - **SSL Grade**:A+
+ - **HTTP Security Grade**:A
 
 
 | File       | Count | Info |
@@ -20,5 +20,5 @@
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://www.crisis.nl](https://www.crisis.nl)| **A+**| **B**|Microsoft-IIS/10.0|:warning: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Azure HSTS IIS:10.0 Microsoft ASP.NET:4.0.30319 Windows Server|crisis.nl | Cris...|
-|[https://crisis.nl](https://crisis.nl)| **A+**| **B**|Microsoft-IIS/10.0|:warning: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Azure HSTS IIS:10.0 Microsoft ASP.NET:4.0.30319 Windows Server|crisis.nl | Cris...|
+|[https://www.crisis.nl](https://www.crisis.nl)| **A+**| **A**|Microsoft-IIS/10.0|:warning: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Azure HSTS IIS:10.0 Microsoft ASP.NET:4.0.30319 Windows Server|crisis.nl | Cris...|
+|[https://crisis.nl](https://crisis.nl)| **A+**| **A**|Microsoft-IIS/10.0|:warning: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Azure HSTS IIS:10.0 Microsoft ASP.NET:4.0.30319 Windows Server|crisis.nl | Cris...|

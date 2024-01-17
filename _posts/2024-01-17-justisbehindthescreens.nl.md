@@ -5,7 +5,7 @@ permalink: "/dutchgov/justisbehindthescreens.nl.html"
 subdomains_count: 3
 all_subdomains_count: 3
 urls_count: 3
-ssl_rank: F
+ssl_rank: 
 http_rank: F
 url_link: /data/justisbehindthescreens.nl/urls.txt
 all_subdomains_link: /data/justisbehindthescreens.nl/all_subdomains.txt
@@ -18,8 +18,8 @@ categories: dutchgov
 ## Summary data
 
 
-**SSL Grade**:F
-**HTTP Security Grade**:F
+ - **SSL Grade**:
+ - **HTTP Security Grade**:F
 
 
 | File       | Count | Info |
@@ -34,6 +34,6 @@ categories: dutchgov
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://justisbehindthescreens.nl](https://justisbehindthescreens.nl)| | **F**|| | | | | | | | :white_check_mark: | |||
-|[https://www.justisbehindthescreens.nl](https://www.justisbehindthescreens.nl)| | **F**|| | | | | | | | :white_check_mark: | |||
+|[https://justisbehindthescreens.nl](https://justisbehindthescreens.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
+|[https://www.justisbehindthescreens.nl](https://www.justisbehindthescreens.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://staging.justisbehindthescreens.nl](https://staging.justisbehindthescreens.nl)| | **F**|nginx| | | :warning:| | | | | :white_check_mark: | |Nginx UIKit|mei 2022 | Justi...|

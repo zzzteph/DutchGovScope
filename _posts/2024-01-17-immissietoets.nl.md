@@ -5,8 +5,8 @@ permalink: "/dutchgov/immissietoets.nl.html"
 subdomains_count: 3
 all_subdomains_count: 4
 urls_count: 3
-ssl_rank: F
-http_rank: F
+ssl_rank: 
+http_rank: C
 url_link: /data/immissietoets.nl/urls.txt
 all_subdomains_link: /data/immissietoets.nl/all_subdomains.txt
 subdomains_link: /data/immissietoets.nl/subdomains.txt
@@ -18,8 +18,8 @@ categories: dutchgov
 ## Summary data
 
 
-**SSL Grade**:F
-**HTTP Security Grade**:F
+ - **SSL Grade**:
+ - **HTTP Security Grade**:C
 
 
 | File       | Count | Info |
@@ -34,6 +34,6 @@ categories: dutchgov
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://backend.immissietoets.nl](https://backend.immissietoets.nl)| | **F**|uvicorn| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Python Uvicorn||
-|[https://www.immissietoets.nl](https://www.immissietoets.nl)| | **E**|| |:white_check_mark: | | | | | | :white_check_mark: | |Express HSTS Node.js|immissietoets|
-|[https://immissietoets.nl](https://immissietoets.nl)| | **E**|| |:white_check_mark: | | | | | | :white_check_mark: | |Express HSTS Node.js|immissietoets|
+|[https://backend.immissietoets.nl](https://backend.immissietoets.nl)| | **C**|uvicorn| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Python Uvicorn||
+|[https://www.immissietoets.nl](https://www.immissietoets.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |Express HSTS Node.js|immissietoets|
+|[https://immissietoets.nl](https://immissietoets.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |Express HSTS Node.js|immissietoets|

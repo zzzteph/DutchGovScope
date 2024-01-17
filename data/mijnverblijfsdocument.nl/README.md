@@ -4,8 +4,8 @@
 ## Summary data
 
 
-**SSL Grade**:F
-**HTTP Security Grade**:E
+ - **SSL Grade**:
+ - **HTTP Security Grade**:B
 
 
 | File       | Count | Info |
@@ -20,5 +20,5 @@
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://www.mijnverblijfsdocument.nl](https://www.mijnverblijfsdocument.nl)| | **E**|| |:white_check_mark: | | | | | | :white_check_mark: | |Bloomreach Bootstrap HSTS|My Residence Doc...|
-|[https://mijnverblijfsdocument.nl](https://mijnverblijfsdocument.nl)| | **E**|| |:white_check_mark: | | | | | | :white_check_mark: | |Bloomreach Bootstrap HSTS|My Residence Doc...|
+|[https://www.mijnverblijfsdocument.nl](https://www.mijnverblijfsdocument.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |Bloomreach Bootstrap HSTS|My Residence Doc...|
+|[https://mijnverblijfsdocument.nl](https://mijnverblijfsdocument.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |Bloomreach Bootstrap HSTS|My Residence Doc...|

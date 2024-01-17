@@ -6,7 +6,7 @@ subdomains_count: 4
 all_subdomains_count: 4
 urls_count: 4
 ssl_rank: A+
-http_rank: C
+http_rank: A
 url_link: /data/bureautoetsinginvesteringen.nl/urls.txt
 all_subdomains_link: /data/bureautoetsinginvesteringen.nl/all_subdomains.txt
 subdomains_link: /data/bureautoetsinginvesteringen.nl/subdomains.txt
@@ -18,8 +18,8 @@ categories: dutchgov
 ## Summary data
 
 
-**SSL Grade**:A+
-**HTTP Security Grade**:C
+ - **SSL Grade**:A+
+ - **HTTP Security Grade**:A
 
 
 | File       | Count | Info |
@@ -34,7 +34,7 @@ categories: dutchgov
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://feeds.bureautoetsinginvesteringen.nl](https://feeds.bureautoetsinginvesteringen.nl)| **A+**| **D**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
-|[https://opendata.bureautoetsinginvesteringen.nl](https://opendata.bureautoetsinginvesteringen.nl)| **A+**| **D**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
-|[https://www.bureautoetsinginvesteringen.nl](https://www.bureautoetsinginvesteringen.nl)| **A+**| **C**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Home | Bureau To...|
-|[https://bureautoetsinginvesteringen.nl](https://bureautoetsinginvesteringen.nl)| **A+**| **C**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
+|[https://feeds.bureautoetsinginvesteringen.nl](https://feeds.bureautoetsinginvesteringen.nl)| **A+**| **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
+|[https://opendata.bureautoetsinginvesteringen.nl](https://opendata.bureautoetsinginvesteringen.nl)| **A+**| **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
+|[https://www.bureautoetsinginvesteringen.nl](https://www.bureautoetsinginvesteringen.nl)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Home | Bureau To...|
+|[https://bureautoetsinginvesteringen.nl](https://bureautoetsinginvesteringen.nl)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|

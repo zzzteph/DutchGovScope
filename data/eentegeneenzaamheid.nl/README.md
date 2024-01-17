@@ -4,8 +4,8 @@
 ## Summary data
 
 
-**SSL Grade**:F
-**HTTP Security Grade**:E
+ - **SSL Grade**:
+ - **HTTP Security Grade**:B
 
 
 | File       | Count | Info |
@@ -20,6 +20,6 @@
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://acc.eentegeneenzaamheid.nl](https://acc.eentegeneenzaamheid.nl)| | **E**|Apache| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS MySQL PHP:7.2.34 WordPress:6.1.1 Yoast SEO:19.13|Home - Een tegen...|
-|[https://www.eentegeneenzaamheid.nl](https://www.eentegeneenzaamheid.nl)| | **E**|Apache| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS MySQL PHP:7.2.34 WordPress:6.1.1|Een tegen eenzaa...|
-|[https://eentegeneenzaamheid.nl](https://eentegeneenzaamheid.nl)| | **E**|Apache| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS PHP:7.2.34||
+|[https://acc.eentegeneenzaamheid.nl](https://acc.eentegeneenzaamheid.nl)| | **B**|Apache| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS MySQL PHP:7.2.34 WordPress:6.1.1 Yoast SEO:19.13|Home - Een tegen...|
+|[https://www.eentegeneenzaamheid.nl](https://www.eentegeneenzaamheid.nl)| | **B**|Apache| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS MySQL PHP:7.2.34 WordPress:6.1.1|Een tegen eenzaa...|
+|[https://eentegeneenzaamheid.nl](https://eentegeneenzaamheid.nl)| | **B**|Apache| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS PHP:7.2.34||

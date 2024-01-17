@@ -5,7 +5,7 @@ permalink: "/dutchgov/digitalezorgzandbak.nl.html"
 subdomains_count: 2
 all_subdomains_count: 2
 urls_count: 2
-ssl_rank: F
+ssl_rank: 
 http_rank: F
 url_link: /data/digitalezorgzandbak.nl/urls.txt
 all_subdomains_link: /data/digitalezorgzandbak.nl/all_subdomains.txt
@@ -18,8 +18,8 @@ categories: dutchgov
 ## Summary data
 
 
-**SSL Grade**:F
-**HTTP Security Grade**:F
+ - **SSL Grade**:
+ - **HTTP Security Grade**:F
 
 
 | File       | Count | Info |
@@ -35,4 +35,4 @@ categories: dutchgov
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
 |[http://www.digitalezorgzandbak.nl](http://www.digitalezorgzandbak.nl)| | **F**|Pepyaka/1.21.6| | | | | | | | :white_check_mark: | |Google Cloud Google Cloud CDN HSTS React Wix||
-|[http://digitalezorgzandbak.nl](http://digitalezorgzandbak.nl)| | **F**|| | | | | | | | :white_check_mark: | |HSTS React Wix||
+|[http://digitalezorgzandbak.nl](http://digitalezorgzandbak.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS React Wix||

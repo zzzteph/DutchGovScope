@@ -4,8 +4,8 @@
 ## Summary data
 
 
-**SSL Grade**:F
-**HTTP Security Grade**:F
+ - **SSL Grade**:
+ - **HTTP Security Grade**:F
 
 
 | File       | Count | Info |
@@ -32,5 +32,5 @@
 |[https://slachtoffer.jeugdconnect.nl](https://slachtoffer.jeugdconnect.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Bootstrap HSTS Nginx|JustitieConnect|
 |[https://socialmediamonitor.jeugdconnect.nl](https://socialmediamonitor.jeugdconnect.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Bootstrap HSTS Nginx|JustitieConnect|
 |[https://vog.jeugdconnect.nl](https://vog.jeugdconnect.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Bootstrap HSTS Nginx|JustitieConnect|
-|[https://www.jeugdconnect.nl](https://www.jeugdconnect.nl)| | **D**|nginx|:warning: |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS Nginx||
-|[https://jeugdconnect.nl](https://jeugdconnect.nl)| | **D**|nginx|:warning: |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |AngularJS HSTS Nginx|landingspage|
+|[https://www.jeugdconnect.nl](https://www.jeugdconnect.nl)| | **C**|nginx|:warning: |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS Nginx||
+|[https://jeugdconnect.nl](https://jeugdconnect.nl)| | **C**|nginx|:warning: |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |AngularJS HSTS Nginx|landingspage|

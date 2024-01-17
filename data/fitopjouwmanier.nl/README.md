@@ -4,8 +4,8 @@
 ## Summary data
 
 
-**SSL Grade**:F
-**HTTP Security Grade**:F
+ - **SSL Grade**:
+ - **HTTP Security Grade**:D
 
 
 | File       | Count | Info |
@@ -21,6 +21,6 @@
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
 |[https://staging.fitopjouwmanier.nl](https://staging.fitopjouwmanier.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Basic Nginx|401 Authorizatio...|
-|[https://www.fitopjouwmanier.nl](https://www.fitopjouwmanier.nl)| | **F**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Nginx|Word ook fit op...|
-|[https://fitopjouwmanier.nl](https://fitopjouwmanier.nl)| | **F**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Nginx|Word ook fit op...|
+|[https://www.fitopjouwmanier.nl](https://www.fitopjouwmanier.nl)| | **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Nginx|Word ook fit op...|
+|[https://fitopjouwmanier.nl](https://fitopjouwmanier.nl)| | **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Nginx|Word ook fit op...|
 |[https://server01.fitopjouwmanier.nl](https://server01.fitopjouwmanier.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |HSTS Nginx|Word ook fit op...|

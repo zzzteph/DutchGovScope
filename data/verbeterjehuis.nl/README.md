@@ -4,8 +4,8 @@
 ## Summary data
 
 
-**SSL Grade**:F
-**HTTP Security Grade**:D
+ - **SSL Grade**:
+ - **HTTP Security Grade**:A
 
 
 | File       | Count | Info |
@@ -20,7 +20,7 @@
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://www.verbeterjehuis.nl](https://www.verbeterjehuis.nl)| | **C**|cloudflare| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Cloudflare HSTS|Alles over je hu...|
-|[https://energyportpeelland.verbeterjehuis.nl](https://energyportpeelland.verbeterjehuis.nl)| | **F**|| | | | | | | | :white_check_mark: | ||Microsoft Azure...|
-|[https://verbeterjehuis.nl](https://verbeterjehuis.nl)| | **C**|cloudflare| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Cloudflare HSTS|Document Moved|
-|[https://groenesubsidiewijzer.verbeterjehuis.nl](https://groenesubsidiewijzer.verbeterjehuis.nl)| | **C**|cloudflare| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Cloudflare HSTS|Object moved|
+|[https://www.verbeterjehuis.nl](https://www.verbeterjehuis.nl)| | **A**|cloudflare| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Cloudflare HSTS|Alles over je hu...|
+|[https://energyportpeelland.verbeterjehuis.nl](https://energyportpeelland.verbeterjehuis.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Microsoft Azure...|
+|[https://verbeterjehuis.nl](https://verbeterjehuis.nl)| | **A**|cloudflare| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Cloudflare HSTS|Document Moved|
+|[https://groenesubsidiewijzer.verbeterjehuis.nl](https://groenesubsidiewijzer.verbeterjehuis.nl)| | **A**|cloudflare| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Cloudflare HSTS|Object moved|

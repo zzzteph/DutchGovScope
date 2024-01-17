@@ -4,8 +4,8 @@
 ## Summary data
 
 
-**SSL Grade**:F
-**HTTP Security Grade**:C
+ - **SSL Grade**:
+ - **HTTP Security Grade**:B
 
 
 | File       | Count | Info |
@@ -20,5 +20,5 @@
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://www.zorgopdekaart.nl](https://www.zorgopdekaart.nl)| | **C**|Microsoft-IIS/10.0|:warning: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS IIS:10.0 PHP:7.2.26 Windows Server|Redirecting to n...|
-|[https://zorgopdekaart.nl](https://zorgopdekaart.nl)| | **C**|Microsoft-IIS/10.0|:warning: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS IIS:10.0 PHP:7.2.26 Windows Server|Redirecting to n...|
+|[https://www.zorgopdekaart.nl](https://www.zorgopdekaart.nl)| | **B**|Microsoft-IIS/10.0|:warning: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS IIS:10.0 PHP:7.2.26 Windows Server|Redirecting to n...|
+|[https://zorgopdekaart.nl](https://zorgopdekaart.nl)| | **B**|Microsoft-IIS/10.0|:warning: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS IIS:10.0 PHP:7.2.26 Windows Server|Redirecting to n...|

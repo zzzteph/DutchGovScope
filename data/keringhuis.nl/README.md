@@ -4,8 +4,8 @@
 ## Summary data
 
 
-**SSL Grade**:F
-**HTTP Security Grade**:F
+ - **SSL Grade**:
+ - **HTTP Security Grade**:E
 
 
 | File       | Count | Info |
@@ -21,8 +21,8 @@
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
 |[https://adressen.keringhuis.nl](https://adressen.keringhuis.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server Basic|401 Unauthorized|
-|[https://old.keringhuis.nl](https://old.keringhuis.nl)| | **F**|Apache/2.4.41 (Ubuntu)|:o: |:white_check_mark: | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.41 Ubuntu||
-|[https://www.keringhuis.nl](https://www.keringhuis.nl)| | **F**|Apache|:o: |:white_check_mark: | | | | | | :white_check_mark: | |Apache HTTP Server HSTS PHP|Keringhuis|
+|[https://old.keringhuis.nl](https://old.keringhuis.nl)| | **E**|Apache/2.4.41 (Ubuntu)|:o: |:white_check_mark: | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.41 Ubuntu||
+|[https://www.keringhuis.nl](https://www.keringhuis.nl)| | **E**|Apache|:o: |:white_check_mark: | | | | | | :white_check_mark: | |Apache HTTP Server HSTS PHP|Keringhuis|
 |[https://symposium.keringhuis.nl](https://symposium.keringhuis.nl)| | **F**|Apache/2.4.41 (Ubuntu)|:o: | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server:2.4.41 Bootstrap:4.6.0 PHP Ubuntu|Symposium Maesla...|
 |[https://www.symposium.keringhuis.nl](https://www.symposium.keringhuis.nl)| | **F**|Apache/2.4.41 (Ubuntu)|:o: | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server:2.4.41 Bootstrap:4.6.0 PHP Ubuntu|Symposium Maesla...|
-|[https://keringhuis.nl](https://keringhuis.nl)| | **F**|Apache|:o: |:white_check_mark: | | | | | | :white_check_mark: | |Apache HTTP Server HSTS PHP|Keringhuis|
+|[https://keringhuis.nl](https://keringhuis.nl)| | **E**|Apache|:o: |:white_check_mark: | | | | | | :white_check_mark: | |Apache HTTP Server HSTS PHP|Keringhuis|

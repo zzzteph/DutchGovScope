@@ -5,7 +5,7 @@ permalink: "/dutchgov/verantwoordalcoholverkopen.nl.html"
 subdomains_count: 2
 all_subdomains_count: 2
 urls_count: 2
-ssl_rank: F
+ssl_rank: 
 http_rank: F
 url_link: /data/verantwoordalcoholverkopen.nl/urls.txt
 all_subdomains_link: /data/verantwoordalcoholverkopen.nl/all_subdomains.txt
@@ -18,8 +18,8 @@ categories: dutchgov
 ## Summary data
 
 
-**SSL Grade**:F
-**HTTP Security Grade**:F
+ - **SSL Grade**:
+ - **HTTP Security Grade**:F
 
 
 | File       | Count | Info |

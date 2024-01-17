@@ -5,7 +5,7 @@ permalink: "/dutchgov/deskundigengroepdierziekten.nl.html"
 subdomains_count: 2
 all_subdomains_count: 3
 urls_count: 2
-ssl_rank: F
+ssl_rank: 
 http_rank: A
 url_link: /data/deskundigengroepdierziekten.nl/urls.txt
 all_subdomains_link: /data/deskundigengroepdierziekten.nl/all_subdomains.txt
@@ -18,8 +18,8 @@ categories: dutchgov
 ## Summary data
 
 
-**SSL Grade**:F
-**HTTP Security Grade**:A
+ - **SSL Grade**:
+ - **HTTP Security Grade**:A
 
 
 | File       | Count | Info |

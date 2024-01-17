@@ -4,8 +4,8 @@
 ## Summary data
 
 
-**SSL Grade**:F
-**HTTP Security Grade**:F
+ - **SSL Grade**:
+ - **HTTP Security Grade**:F
 
 
 | File       | Count | Info |
@@ -21,4 +21,4 @@
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
 |[https://www.kik-starter.nl](https://www.kik-starter.nl)| | **F**|istio-envoy| | | | | | | | :white_check_mark: | |HSTS||
-|[https://kik-starter.nl](https://kik-starter.nl)| | **F**|| | | | | | | | :white_check_mark: | |HSTS||
+|[https://kik-starter.nl](https://kik-starter.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||

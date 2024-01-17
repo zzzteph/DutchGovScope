@@ -4,8 +4,8 @@
 ## Summary data
 
 
-**SSL Grade**:F
-**HTTP Security Grade**:E
+ - **SSL Grade**:
+ - **HTTP Security Grade**:B
 
 
 | File       | Count | Info |
@@ -20,4 +20,4 @@
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://nsp-toekomstglb.nl](https://nsp-toekomstglb.nl)| | **E**|Caddy nginx| |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | |HSTS HTTP/3 Nginx Readymag|Gemeenschappelij...|
+|[https://nsp-toekomstglb.nl](https://nsp-toekomstglb.nl)| | **B**|Caddy nginx| |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | |HSTS HTTP/3 Nginx Readymag|Gemeenschappelij...|

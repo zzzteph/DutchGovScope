@@ -4,8 +4,8 @@
 ## Summary data
 
 
-**SSL Grade**:A
-**HTTP Security Grade**:C
+ - **SSL Grade**:A
+ - **HTTP Security Grade**:A
 
 
 | File       | Count | Info |
@@ -20,12 +20,12 @@
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://acc-api.dh.doc-direkt.nl](https://acc-api.dh.doc-direkt.nl)| **B**| **C**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
+|[https://acc-api.dh.doc-direkt.nl](https://acc-api.dh.doc-direkt.nl)| **B**| **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://acc-dh.doc-direkt.nl](https://acc-dh.doc-direkt.nl)| **B**| **A**||:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |AngularJS HSTS|SigningHub|
-|[https://acc-m.dh.doc-direkt.nl](https://acc-m.dh.doc-direkt.nl)| **B**| **D**|| |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | |AngularJS HSTS||
-|[https://api.dh.doc-direkt.nl](https://api.dh.doc-direkt.nl)| **A+**| **C**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
+|[https://acc-m.dh.doc-direkt.nl](https://acc-m.dh.doc-direkt.nl)| **B**| **A**|| |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | |AngularJS HSTS||
+|[https://api.dh.doc-direkt.nl](https://api.dh.doc-direkt.nl)| **A+**| **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://dh.doc-direkt.nl](https://dh.doc-direkt.nl)| **A+**| **A**||:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |AngularJS HSTS|SigningHub|
-|[https://feeds.doc-direkt.nl](https://feeds.doc-direkt.nl)| **A+**| **D**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
-|[https://opendata.doc-direkt.nl](https://opendata.doc-direkt.nl)| **A+**| **D**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
-|[https://www.doc-direkt.nl](https://www.doc-direkt.nl)| **A+**| **C**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Home | DocDirekt|
-|[https://doc-direkt.nl](https://doc-direkt.nl)| **A+**| **C**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
+|[https://feeds.doc-direkt.nl](https://feeds.doc-direkt.nl)| **A+**| **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
+|[https://opendata.doc-direkt.nl](https://opendata.doc-direkt.nl)| **A+**| **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
+|[https://www.doc-direkt.nl](https://www.doc-direkt.nl)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Home | DocDirekt|
+|[https://doc-direkt.nl](https://doc-direkt.nl)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|

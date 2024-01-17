@@ -4,8 +4,8 @@
 ## Summary data
 
 
-**SSL Grade**:F
-**HTTP Security Grade**:F
+ - **SSL Grade**:
+ - **HTTP Security Grade**:E
 
 
 | File       | Count | Info |
@@ -20,5 +20,5 @@
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://www.nl-works.nl](https://www.nl-works.nl)| | **F**|| | | | | | | | :white_check_mark: | |HSTS|Domeinnaam nog n...|
-|[https://nl-works.nl](https://nl-works.nl)| | **F**|| | | | | | | | :white_check_mark: | |||
+|[https://www.nl-works.nl](https://www.nl-works.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS|Domeinnaam nog n...|
+|[https://nl-works.nl](https://nl-works.nl)| | **E**|| | | | | | | | :white_check_mark: | |||

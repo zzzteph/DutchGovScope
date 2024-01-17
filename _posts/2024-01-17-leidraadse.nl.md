@@ -5,7 +5,7 @@ permalink: "/dutchgov/leidraadse.nl.html"
 subdomains_count: 4
 all_subdomains_count: 5
 urls_count: 4
-ssl_rank: F
+ssl_rank: 
 http_rank: F
 url_link: /data/leidraadse.nl/urls.txt
 all_subdomains_link: /data/leidraadse.nl/all_subdomains.txt
@@ -18,8 +18,8 @@ categories: dutchgov
 ## Summary data
 
 
-**SSL Grade**:F
-**HTTP Security Grade**:F
+ - **SSL Grade**:
+ - **HTTP Security Grade**:F
 
 
 | File       | Count | Info |

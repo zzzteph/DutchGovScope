@@ -5,8 +5,8 @@ permalink: "/dutchgov/incidentmanagement.nl.html"
 subdomains_count: 5
 all_subdomains_count: 5
 urls_count: 4
-ssl_rank: F
-http_rank: F
+ssl_rank: 
+http_rank: C
 url_link: /data/incidentmanagement.nl/urls.txt
 all_subdomains_link: /data/incidentmanagement.nl/all_subdomains.txt
 subdomains_link: /data/incidentmanagement.nl/subdomains.txt
@@ -18,8 +18,8 @@ categories: dutchgov
 ## Summary data
 
 
-**SSL Grade**:F
-**HTTP Security Grade**:F
+ - **SSL Grade**:
+ - **HTTP Security Grade**:C
 
 
 | File       | Count | Info |
@@ -35,6 +35,6 @@ categories: dutchgov
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
 |[https://webshop.incidentmanagement.nl](https://webshop.incidentmanagement.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx||
-|[https://www.incidentmanagement.nl](https://www.incidentmanagement.nl)| | **C**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET|Object moved|
+|[https://www.incidentmanagement.nl](https://www.incidentmanagement.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET|Object moved|
 |[https://www.webshop.incidentmanagement.nl](https://www.webshop.incidentmanagement.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx||
-|[https://incidentmanagement.nl](https://incidentmanagement.nl)| | **C**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET|Object moved|
+|[https://incidentmanagement.nl](https://incidentmanagement.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET|Object moved|

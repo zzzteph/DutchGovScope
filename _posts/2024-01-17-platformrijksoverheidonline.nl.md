@@ -5,8 +5,8 @@ permalink: "/dutchgov/platformrijksoverheidonline.nl.html"
 subdomains_count: 5
 all_subdomains_count: 5
 urls_count: 5
-ssl_rank: F
-http_rank: C
+ssl_rank: 
+http_rank: A
 url_link: /data/platformrijksoverheidonline.nl/urls.txt
 all_subdomains_link: /data/platformrijksoverheidonline.nl/all_subdomains.txt
 subdomains_link: /data/platformrijksoverheidonline.nl/subdomains.txt
@@ -18,8 +18,8 @@ categories: dutchgov
 ## Summary data
 
 
-**SSL Grade**:F
-**HTTP Security Grade**:C
+ - **SSL Grade**:
+ - **HTTP Security Grade**:A
 
 
 | File       | Count | Info |
@@ -34,8 +34,8 @@ categories: dutchgov
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://feeds.platformrijksoverheidonline.nl](https://feeds.platformrijksoverheidonline.nl)| | **D**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
-|[https://magazines.platformrijksoverheidonline.nl](https://magazines.platformrijksoverheidonline.nl)| | **C**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Het demomagazine...|
-|[https://opendata.platformrijksoverheidonline.nl](https://opendata.platformrijksoverheidonline.nl)| | **D**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
-|[https://www.platformrijksoverheidonline.nl](https://www.platformrijksoverheidonline.nl)| | **C**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Home | Platform...|
-|[https://platformrijksoverheidonline.nl](https://platformrijksoverheidonline.nl)| | **C**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
+|[https://feeds.platformrijksoverheidonline.nl](https://feeds.platformrijksoverheidonline.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
+|[https://magazines.platformrijksoverheidonline.nl](https://magazines.platformrijksoverheidonline.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Het demomagazine...|
+|[https://opendata.platformrijksoverheidonline.nl](https://opendata.platformrijksoverheidonline.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
+|[https://www.platformrijksoverheidonline.nl](https://www.platformrijksoverheidonline.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Home | Platform...|
+|[https://platformrijksoverheidonline.nl](https://platformrijksoverheidonline.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||

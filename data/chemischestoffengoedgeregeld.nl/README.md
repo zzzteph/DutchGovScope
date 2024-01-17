@@ -4,8 +4,8 @@
 ## Summary data
 
 
-**SSL Grade**:F
-**HTTP Security Grade**:E
+ - **SSL Grade**:
+ - **HTTP Security Grade**:C
 
 
 | File       | Count | Info |
@@ -20,6 +20,6 @@
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
-|[http://test.chemischestoffengoedgeregeld.nl](http://test.chemischestoffengoedgeregeld.nl)| | **F**|| | | | | | | | :white_check_mark: | |||
-|[https://www.chemischestoffengoedgeregeld.nl](https://www.chemischestoffengoedgeregeld.nl)| | **D**|| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS Platform.sh|301 Moved Perman...|
-|[https://chemischestoffengoedgeregeld.nl](https://chemischestoffengoedgeregeld.nl)| | **D**|| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Drupal:10 HSTS PHP Platform.sh|Chemische stoffe...|
+|[http://test.chemischestoffengoedgeregeld.nl](http://test.chemischestoffengoedgeregeld.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
+|[https://www.chemischestoffengoedgeregeld.nl](https://www.chemischestoffengoedgeregeld.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS Platform.sh|301 Moved Perman...|
+|[https://chemischestoffengoedgeregeld.nl](https://chemischestoffengoedgeregeld.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Drupal:10 HSTS PHP Platform.sh|Chemische stoffe...|

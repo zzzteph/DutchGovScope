@@ -4,8 +4,8 @@
 ## Summary data
 
 
-**SSL Grade**:F
-**HTTP Security Grade**:C
+ - **SSL Grade**:
+ - **HTTP Security Grade**:A
 
 
 | File       | Count | Info |
@@ -21,7 +21,7 @@
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
 |[https://beheer.helpdeskwater.nl](https://beheer.helpdeskwater.nl)| | **F**|-| | | | | | | | :white_check_mark: | |Microsoft ASP.NET:-|Document Moved|
-|[https://kennisbank.helpdeskwater.nl](https://kennisbank.helpdeskwater.nl)| | **B**||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|TOPdesk|
-|[https://kennisbanktest.helpdeskwater.nl](https://kennisbanktest.helpdeskwater.nl)| | **B**||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|TOPdesk|
-|[https://www.helpdeskwater.nl](https://www.helpdeskwater.nl)| | **B**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Google Tag Manager HSTS Microsoft ASP.NET:-|Home - Helpdesk...|
-|[https://helpdeskwater.nl](https://helpdeskwater.nl)| | **B**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:-|Object moved|
+|[https://kennisbank.helpdeskwater.nl](https://kennisbank.helpdeskwater.nl)| | **A**||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|TOPdesk|
+|[https://kennisbanktest.helpdeskwater.nl](https://kennisbanktest.helpdeskwater.nl)| | **A**||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|TOPdesk|
+|[https://www.helpdeskwater.nl](https://www.helpdeskwater.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Google Tag Manager HSTS Microsoft ASP.NET:-|Home - Helpdesk...|
+|[https://helpdeskwater.nl](https://helpdeskwater.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:-|Object moved|

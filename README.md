@@ -21,28 +21,32 @@ Process for updating this repository is thorough and regular. Here's an overview
 
 
 This structured approach ensures that our repository is always up-to-date and accurately reflects the current digital landscape of the Dutch government.
-In the [`data/`](/data) directory, there's an analysis of security configurations for various resources, including the following information:
+In the [`/data`](/data) directory, there's an analysis of security configurations for various resources, including the following information:
  - **URL**
  - **SSL:** Grade from [https://www.ssllabs.com/ssltest/](https://www.ssllabs.com/ssltest/)
- - **Server:** *Server header* from web serber
- - **Cookie:** :white_check_mark: if HttpOnly, Secure and Same-Site flag are set
- - **HSTS:** :white_check_mark: if *Strict-Transport-Security* header is set
- - **CSP:** :white_check_mark: if *Content-Security-Policy* header is set and *unsafe-inline* and *unsafe-eval* not present in configuration.
- - **XFO:** :white_check_mark: if *X-Frame-Options* header is set
- - **XXP:** :white_check_mark: if *X-Xss-Protection* header is set
- - **RP:** :white_check_mark: if *Referrer-Policy* header is set
+ - **HTTP Rank:** Based on HTTP headers statistics from below
+ - **Server:** *Server header* from web server. If not set +5 points
+ - **Cookie:** :white_check_mark: if HttpOnly (+7), Secure(+7) and Same-Site(+6) flag are set
+ - **HSTS:** :white_check_mark: if *Strict-Transport-Security* header is set(+30)
+ - **CSP:** :white_check_mark: if *Content-Security-Policy* header is set(+10) and *unsafe-inline* and *unsafe-eval* not present in configuration (+5)
+ - **XFO:** :white_check_mark: if *X-Frame-Options* header is set (+10)
+ - **XXP:** :white_check_mark: if *X-Xss-Protection* header is set (+10)
+ - **RP:** :white_check_mark: if *Referrer-Policy* header is set (+10)
+ - **FP:** :white_check_mark: if *Feature-Policy* header is set (+10)
+ - **CORS:** :white_check_mark: if *CORS* header is set without issues (+10)
 ## Repository Structure
  - [domains.txt](/domains.txt): List of all domains in scope
  - [subdomains.txt](/subdomains.txt): Detailed list of **16336** alive subdomains.
- - [urls.txt](/urls.txt): Compilation of **10053** URLs.
+ - [urls.txt](/urls.txt): Compilation of **10054** URLs.
  - [all_subdomains.txt](/all_subdomains.txt): All **32198** subdomains that were found all over the time 
- - [data/](/data): Folder containing daily updated analysis for every domain.
+ - [/data](/data): Folder containing daily updated analysis for every domain.
 ## Links and acknowledgements
  - [basisbeveiliging.nl](https://basisbeveiliging.nl/) \- *How well the Dutch government implements basic security requirements with great security map!*
  - [overheid.nl](https://www.overheid.nl/english/dutch-government-websites)
- - [gist.github.com/random-robbie/f985ad14fede2c04ac82dd89653f52ad](https://https://gist.github.com/random-robbie/f985ad14fede2c04ac82dd89653f52ad)
- - [communicatierijk.nl/vakkennis/r/rijkswebsites/verplichte-richtlijnen/websiteregister-rijksoverheid](https://www.communicatierijk.nl/vakkennis/r/rijkswebsites/verplichte-richtlijnen/websiteregister-rijksoverheid)
+ - [random-robbie/f985ad14fede2c04ac82dd89653f52ad](https://https://gist.github.com/random-robbie/f985ad14fede2c04ac82dd89653f52ad)
+ - [communicatierijk.nl](https://www.communicatierijk.nl/vakkennis/r/rijkswebsites/verplichte-richtlijnen/websiteregister-rijksoverheid)
  - [ncsc.nl](https://www.ncsc.nl/contact/kwetsbaarheid-melden/cvd-meldingen-formulier)
  - [shrewdeye.app](https://shrewdeye.app)
- - [https://www.ssllabs.com/ssltest/](https://www.ssllabs.com/ssltest/)
+ - [ssllabs.com/ssltest](https://www.ssllabs.com/ssltest/)
+ - [securityheaders.com](https://securityheaders.com/)
 

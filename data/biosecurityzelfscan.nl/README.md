@@ -4,8 +4,8 @@
 ## Summary data
 
 
-**SSL Grade**:F
-**HTTP Security Grade**:F
+ - **SSL Grade**:
+ - **HTTP Security Grade**:C
 
 
 | File       | Count | Info |
@@ -20,5 +20,5 @@
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://www.biosecurityzelfscan.nl](https://www.biosecurityzelfscan.nl)| | **F**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |Nginx|301 Moved Perman...|
-|[https://biosecurityzelfscan.nl](https://biosecurityzelfscan.nl)| | **F**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
+|[https://www.biosecurityzelfscan.nl](https://www.biosecurityzelfscan.nl)| | **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |Nginx|301 Moved Perman...|
+|[https://biosecurityzelfscan.nl](https://biosecurityzelfscan.nl)| | **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|

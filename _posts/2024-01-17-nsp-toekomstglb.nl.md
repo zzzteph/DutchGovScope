@@ -5,8 +5,8 @@ permalink: "/dutchgov/nsp-toekomstglb.nl.html"
 subdomains_count: 1
 all_subdomains_count: 1
 urls_count: 1
-ssl_rank: F
-http_rank: E
+ssl_rank: 
+http_rank: B
 url_link: /data/nsp-toekomstglb.nl/urls.txt
 all_subdomains_link: /data/nsp-toekomstglb.nl/all_subdomains.txt
 subdomains_link: /data/nsp-toekomstglb.nl/subdomains.txt
@@ -18,8 +18,8 @@ categories: dutchgov
 ## Summary data
 
 
-**SSL Grade**:F
-**HTTP Security Grade**:E
+ - **SSL Grade**:
+ - **HTTP Security Grade**:B
 
 
 | File       | Count | Info |
@@ -34,4 +34,4 @@ categories: dutchgov
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://nsp-toekomstglb.nl](https://nsp-toekomstglb.nl)| | **E**|Caddy nginx| |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | |HSTS HTTP/3 Nginx Readymag|Gemeenschappelij...|
+|[https://nsp-toekomstglb.nl](https://nsp-toekomstglb.nl)| | **B**|Caddy nginx| |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | |HSTS HTTP/3 Nginx Readymag|Gemeenschappelij...|

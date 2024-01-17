@@ -4,8 +4,8 @@
 ## Summary data
 
 
-**SSL Grade**:F
-**HTTP Security Grade**:F
+ - **SSL Grade**:
+ - **HTTP Security Grade**:D
 
 
 | File       | Count | Info |
@@ -22,9 +22,9 @@
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
 |[http://veiligheidsregioflevoland.nlwww.veiligheidsregioflevoland.nl](http://veiligheidsregioflevoland.nlwww.veiligheidsregioflevoland.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
 |[http://websitewww.veiligheidsregioflevoland.nl](http://websitewww.veiligheidsregioflevoland.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
-|[https://mail.veiligheidsregioflevoland.nl](https://mail.veiligheidsregioflevoland.nl)| | **F**|| | | | | | | | :white_check_mark: | |HSTS||
-|[https://elo.veiligheidsregioflevoland.nl](https://elo.veiligheidsregioflevoland.nl)| | **F**|-| | | | | | | :white_check_mark: | :white_check_mark: | |Microsoft ASP.NET:-|CK Mensenmassa|
-|[https://redactie.veiligheidsregioflevoland.nl](https://redactie.veiligheidsregioflevoland.nl)| | **B**|-|:white_check_mark: |:white_check_mark: | | | :white_check_mark:| | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:-|Object moved|
-|[https://veiligheidsregioflevoland.nl](https://veiligheidsregioflevoland.nl)| | **B**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:-|Object moved|
-|[https://www.veiligheidsregioflevoland.nl](https://www.veiligheidsregioflevoland.nl)| | **B**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:-|Home - Website V...|
+|[https://mail.veiligheidsregioflevoland.nl](https://mail.veiligheidsregioflevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||
+|[https://elo.veiligheidsregioflevoland.nl](https://elo.veiligheidsregioflevoland.nl)| | **E**|-| | | | | | | :white_check_mark: | :white_check_mark: | |Microsoft ASP.NET:-|CK Mensenmassa|
+|[https://redactie.veiligheidsregioflevoland.nl](https://redactie.veiligheidsregioflevoland.nl)| | **A**|-|:white_check_mark: |:white_check_mark: | | | :white_check_mark:| | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:-|Object moved|
+|[https://veiligheidsregioflevoland.nl](https://veiligheidsregioflevoland.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:-|Object moved|
+|[https://www.veiligheidsregioflevoland.nl](https://www.veiligheidsregioflevoland.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:-|Home - Website V...|
 |[http://lelystadinternetwww.veiligheidsregioflevoland.nl](http://lelystadinternetwww.veiligheidsregioflevoland.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|

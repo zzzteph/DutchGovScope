@@ -5,8 +5,8 @@ permalink: "/dutchgov/werkenbijhetcjib.nl.html"
 subdomains_count: 1
 all_subdomains_count: 1
 urls_count: 1
-ssl_rank: F
-http_rank: B
+ssl_rank: 
+http_rank: A
 url_link: /data/werkenbijhetcjib.nl/urls.txt
 all_subdomains_link: /data/werkenbijhetcjib.nl/all_subdomains.txt
 subdomains_link: /data/werkenbijhetcjib.nl/subdomains.txt
@@ -18,8 +18,8 @@ categories: dutchgov
 ## Summary data
 
 
-**SSL Grade**:F
-**HTTP Security Grade**:B
+ - **SSL Grade**:
+ - **HTTP Security Grade**:A
 
 
 | File       | Count | Info |
@@ -34,4 +34,4 @@ categories: dutchgov
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://werkenbijhetcjib.nl](https://werkenbijhetcjib.nl)| | **B**|nginx|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Drupal:10 HSTS Nginx PHP|Home | Werken bi...|
+|[https://werkenbijhetcjib.nl](https://werkenbijhetcjib.nl)| | **A**|nginx|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Drupal:10 HSTS Nginx PHP|Home | Werken bi...|

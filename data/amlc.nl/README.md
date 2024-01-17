@@ -4,8 +4,8 @@
 ## Summary data
 
 
-**SSL Grade**:F
-**HTTP Security Grade**:E
+ - **SSL Grade**:
+ - **HTTP Security Grade**:C
 
 
 | File       | Count | Info |
@@ -20,7 +20,7 @@
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://www.amlc.nl](https://www.amlc.nl)| | **B**||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS MySQL PHP WordPress Yoast SEO:21.6|AMLC - Anti Mone...|
-|[https://amlc.nl](https://amlc.nl)| | **C**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|301 Moved Perman...|
-|[https://21www.amlc.nl](https://21www.amlc.nl)| | **F**|| | | | | | | | :white_check_mark: | |HSTS||
-|[https://8www.amlc.nl](https://8www.amlc.nl)| | **F**|| | | | | | | | :white_check_mark: | |HSTS||
+|[https://www.amlc.nl](https://www.amlc.nl)| | **A**||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS MySQL PHP WordPress Yoast SEO:21.6|AMLC - Anti Mone...|
+|[https://amlc.nl](https://amlc.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|301 Moved Perman...|
+|[https://21www.amlc.nl](https://21www.amlc.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||
+|[https://8www.amlc.nl](https://8www.amlc.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||

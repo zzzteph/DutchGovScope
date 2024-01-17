@@ -4,8 +4,8 @@
 ## Summary data
 
 
-**SSL Grade**:F
-**HTTP Security Grade**:B
+ - **SSL Grade**:
+ - **HTTP Security Grade**:A
 
 
 | File       | Count | Info |
@@ -20,5 +20,5 @@
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://www.zetookdeknopom.nl](https://www.zetookdeknopom.nl)| | **B**|Netlify| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Netlify||
-|[https://zetookdeknopom.nl](https://zetookdeknopom.nl)| | **B**|Netlify| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Netlify Next.js Node.js React Webpack|Zet ook de knop...|
+|[https://www.zetookdeknopom.nl](https://www.zetookdeknopom.nl)| | **A**|Netlify| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Netlify||
+|[https://zetookdeknopom.nl](https://zetookdeknopom.nl)| | **A**|Netlify| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Netlify Next.js Node.js React Webpack|Zet ook de knop...|

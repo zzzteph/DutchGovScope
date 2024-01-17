@@ -4,8 +4,8 @@
 ## Summary data
 
 
-**SSL Grade**:F
-**HTTP Security Grade**:F
+ - **SSL Grade**:
+ - **HTTP Security Grade**:F
 
 
 | File       | Count | Info |
@@ -20,6 +20,6 @@
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://justisbehindthescreens.nl](https://justisbehindthescreens.nl)| | **F**|| | | | | | | | :white_check_mark: | |||
-|[https://www.justisbehindthescreens.nl](https://www.justisbehindthescreens.nl)| | **F**|| | | | | | | | :white_check_mark: | |||
+|[https://justisbehindthescreens.nl](https://justisbehindthescreens.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
+|[https://www.justisbehindthescreens.nl](https://www.justisbehindthescreens.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://staging.justisbehindthescreens.nl](https://staging.justisbehindthescreens.nl)| | **F**|nginx| | | :warning:| | | | | :white_check_mark: | |Nginx UIKit|mei 2022 | Justi...|

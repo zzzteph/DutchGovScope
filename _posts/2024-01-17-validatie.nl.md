@@ -5,7 +5,7 @@ permalink: "/dutchgov/validatie.nl.html"
 subdomains_count: 3
 all_subdomains_count: 5
 urls_count: 3
-ssl_rank: F
+ssl_rank: 
 http_rank: A
 url_link: /data/validatie.nl/urls.txt
 all_subdomains_link: /data/validatie.nl/all_subdomains.txt
@@ -18,8 +18,8 @@ categories: dutchgov
 ## Summary data
 
 
-**SSL Grade**:F
-**HTTP Security Grade**:A
+ - **SSL Grade**:
+ - **HTTP Security Grade**:A
 
 
 | File       | Count | Info |

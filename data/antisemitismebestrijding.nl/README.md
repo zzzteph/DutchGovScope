@@ -4,8 +4,8 @@
 ## Summary data
 
 
-**SSL Grade**:B
-**HTTP Security Grade**:E
+ - **SSL Grade**:B
+ - **HTTP Security Grade**:B
 
 
 | File       | Count | Info |
@@ -20,5 +20,5 @@
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://www.antisemitismebestrijding.nl](https://www.antisemitismebestrijding.nl)| **B**| **B**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
-|[https://antisemitismebestrijding.nl](https://antisemitismebestrijding.nl)| **B**| **F**|| | | | | | | | :white_check_mark: | |HSTS||
+|[https://www.antisemitismebestrijding.nl](https://www.antisemitismebestrijding.nl)| **B**| **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
+|[https://antisemitismebestrijding.nl](https://antisemitismebestrijding.nl)| **B**| **E**|| | | | | | | | :white_check_mark: | |HSTS||

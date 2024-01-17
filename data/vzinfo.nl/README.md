@@ -4,8 +4,8 @@
 ## Summary data
 
 
-**SSL Grade**:F
-**HTTP Security Grade**:E
+ - **SSL Grade**:
+ - **HTTP Security Grade**:C
 
 
 | File       | Count | Info |
@@ -20,10 +20,10 @@
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://www.vzinfo.nl](https://www.vzinfo.nl)| | **D**|Apache| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server Drupal HSTS PHP|VZinfo | Volksge...|
-|[https://vzinfo.nl](https://vzinfo.nl)| | **D**|Apache| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS|301 Moved Perman...|
-|[https://buurtatlas.vzinfo.nl](https://buurtatlas.vzinfo.nl)| | **D**||:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | |Bootstrap:4.6.0 HSTS React|Home | Buurtatla...|
-|[https://sterftedashboard.vzinfo.nl](https://sterftedashboard.vzinfo.nl)| | **D**||:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | |Bootstrap:4.6.0 HSTS||
-|[http://nzrdashboard.vzinfo.nl](http://nzrdashboard.vzinfo.nl)| | **F**|| | | | | | | | :white_check_mark: | |||
-|[http://sterftedashboard-regionaal.vzinfo.nl](http://sterftedashboard-regionaal.vzinfo.nl)| | **F**|| | | | | | | | :white_check_mark: | |||
-|[https://mondgezondheidsdashboard.vzinfo.nl](https://mondgezondheidsdashboard.vzinfo.nl)| | **D**||:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | |Bootstrap:5.2.2 HSTS||
+|[https://www.vzinfo.nl](https://www.vzinfo.nl)| | **A**|Apache| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server Drupal HSTS PHP|VZinfo | Volksge...|
+|[https://vzinfo.nl](https://vzinfo.nl)| | **A**|Apache| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS|301 Moved Perman...|
+|[https://buurtatlas.vzinfo.nl](https://buurtatlas.vzinfo.nl)| | **C**||:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | |Bootstrap:4.6.0 HSTS React|Home | Buurtatla...|
+|[https://sterftedashboard.vzinfo.nl](https://sterftedashboard.vzinfo.nl)| | **C**||:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | |Bootstrap:4.6.0 HSTS||
+|[http://nzrdashboard.vzinfo.nl](http://nzrdashboard.vzinfo.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
+|[http://sterftedashboard-regionaal.vzinfo.nl](http://sterftedashboard-regionaal.vzinfo.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
+|[https://mondgezondheidsdashboard.vzinfo.nl](https://mondgezondheidsdashboard.vzinfo.nl)| | **C**||:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | |Bootstrap:5.2.2 HSTS||

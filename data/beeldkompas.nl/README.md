@@ -4,8 +4,8 @@
 ## Summary data
 
 
-**SSL Grade**:F
-**HTTP Security Grade**:F
+ - **SSL Grade**:
+ - **HTTP Security Grade**:C
 
 
 | File       | Count | Info |
@@ -20,7 +20,7 @@
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://accept.beeldkompas.nl](https://accept.beeldkompas.nl)| | **F**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Nginx Plesk|Beeldkompas|
-|[https://cms.beeldkompas.nl](https://cms.beeldkompas.nl)| | **F**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS MySQL Nginx PHP:7.2.34 WordPress||
-|[https://www.beeldkompas.nl](https://www.beeldkompas.nl)| | **F**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Nginx Plesk|Beeldkompas|
-|[https://beeldkompas.nl](https://beeldkompas.nl)| | **F**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Nginx Plesk|301 Moved Perman...|
+|[https://accept.beeldkompas.nl](https://accept.beeldkompas.nl)| | **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Nginx Plesk|Beeldkompas|
+|[https://cms.beeldkompas.nl](https://cms.beeldkompas.nl)| | **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS MySQL Nginx PHP:7.2.34 WordPress||
+|[https://www.beeldkompas.nl](https://www.beeldkompas.nl)| | **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Nginx Plesk|Beeldkompas|
+|[https://beeldkompas.nl](https://beeldkompas.nl)| | **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Nginx Plesk|301 Moved Perman...|

@@ -5,8 +5,8 @@ permalink: "/dutchgov/regioburgemeesters.nl.html"
 subdomains_count: 8
 all_subdomains_count: 9
 urls_count: 6
-ssl_rank: F
-http_rank: F
+ssl_rank: 
+http_rank: E
 url_link: /data/regioburgemeesters.nl/urls.txt
 all_subdomains_link: /data/regioburgemeesters.nl/all_subdomains.txt
 subdomains_link: /data/regioburgemeesters.nl/subdomains.txt
@@ -18,8 +18,8 @@ categories: dutchgov
 ## Summary data
 
 
-**SSL Grade**:F
-**HTTP Security Grade**:F
+ - **SSL Grade**:
+ - **HTTP Security Grade**:E
 
 
 | File       | Count | Info |
@@ -34,9 +34,9 @@ categories: dutchgov
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://www.regioburgemeesters.nl](https://www.regioburgemeesters.nl)| | **E**|nginx|:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | |Bootstrap HSTS Nginx PHP:8.0.30|Home - Regioburg...|
-|[https://regioburgemeesters.nl](https://regioburgemeesters.nl)| | **E**|nginx|:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | |Bootstrap HSTS Nginx PHP:8.0.30|Home - Regioburg...|
+|[https://www.regioburgemeesters.nl](https://www.regioburgemeesters.nl)| | **D**|nginx|:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | |Bootstrap HSTS Nginx PHP:8.0.30|Home - Regioburg...|
+|[https://regioburgemeesters.nl](https://regioburgemeesters.nl)| | **D**|nginx|:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | |Bootstrap HSTS Nginx PHP:8.0.30|Home - Regioburg...|
 |[https://dialin.regioburgemeesters.nl](https://dialin.regioburgemeesters.nl)| | **F**|Microsoft-IIS/10.0| | | | | | | | :white_check_mark: | |HSTS IIS:10.0 Windows Server||
-|[https://lyncdiscover.regioburgemeesters.nl](https://lyncdiscover.regioburgemeesters.nl)| | **F**|| | | | | | | | :white_check_mark: | |||
-|[https://meet.regioburgemeesters.nl](https://meet.regioburgemeesters.nl)| | **F**|| | | | | | | | :white_check_mark: | |HSTS|Skype for Busine...|
-|[https://sip.regioburgemeesters.nl](https://sip.regioburgemeesters.nl)| | **F**|RTC/6.0| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
+|[https://lyncdiscover.regioburgemeesters.nl](https://lyncdiscover.regioburgemeesters.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
+|[https://meet.regioburgemeesters.nl](https://meet.regioburgemeesters.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS|Skype for Busine...|
+|[https://sip.regioburgemeesters.nl](https://sip.regioburgemeesters.nl)| | **C**|RTC/6.0| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||

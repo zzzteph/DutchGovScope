@@ -5,8 +5,8 @@ permalink: "/dutchgov/omgevingsloket.nl.html"
 subdomains_count: 50
 all_subdomains_count: 77
 urls_count: 12
-ssl_rank: F
-http_rank: E
+ssl_rank: 
+http_rank: B
 url_link: /data/omgevingsloket.nl/urls.txt
 all_subdomains_link: /data/omgevingsloket.nl/all_subdomains.txt
 subdomains_link: /data/omgevingsloket.nl/subdomains.txt
@@ -18,8 +18,8 @@ categories: dutchgov
 ## Summary data
 
 
-**SSL Grade**:F
-**HTTP Security Grade**:E
+ - **SSL Grade**:
+ - **HTTP Security Grade**:B
 
 
 | File       | Count | Info |
@@ -35,14 +35,14 @@ categories: dutchgov
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
 |[https://acc.omgevingsloket.nl](https://acc.omgevingsloket.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|Access to the re...|
-|[https://broker-inr.omgevingsloket.nl](https://broker-inr.omgevingsloket.nl)| | **F**|| | | | | | | | :white_check_mark: | ||Error|
-|[https://gw.omgevingsloket.nl](https://gw.omgevingsloket.nl)| | **D**|Apache| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS|User Portal|
-|[https://gw-shr.omgevingsloket.nl](https://gw-shr.omgevingsloket.nl)| | **D**|Apache| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS|User Portal|
-|[https://inr.omgevingsloket.nl](https://inr.omgevingsloket.nl)| | **C**|Apache| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS|Omgevingsloket o...|
-|[https://intake.omgevingsloket.nl](https://intake.omgevingsloket.nl)| | **C**|Apache| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS|Omgevingsloket o...|
-|[https://olo-a-elk.omgevingsloket.nl](https://olo-a-elk.omgevingsloket.nl)| | **F**|nginx/1.20.1| | | | |:warning: | | | :white_check_mark: | |Nginx:1.20.1||
-|[https://sao.omgevingsloket.nl](https://sao.omgevingsloket.nl)| | **D**|Apache| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS|Omgevingsloket o...|
-|[https://tao.omgevingsloket.nl](https://tao.omgevingsloket.nl)| | **C**|Apache| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS|Omgevingsloket o...|
-|[https://www.omgevingsloket.nl](https://www.omgevingsloket.nl)| | **C**|Apache| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS|Omgevingsloket o...|
-|[https://inr-broker.omgevingsloket.nl](https://inr-broker.omgevingsloket.nl)| | **F**|| | | | | | | | :white_check_mark: | ||Error|
-|[https://omgevingsloket.nl](https://omgevingsloket.nl)| | **C**|Apache| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS|Omgevingsloket o...|
+|[https://broker-inr.omgevingsloket.nl](https://broker-inr.omgevingsloket.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Error|
+|[https://gw.omgevingsloket.nl](https://gw.omgevingsloket.nl)| | **A**|Apache| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS|User Portal|
+|[https://gw-shr.omgevingsloket.nl](https://gw-shr.omgevingsloket.nl)| | **A**|Apache| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS|User Portal|
+|[https://inr.omgevingsloket.nl](https://inr.omgevingsloket.nl)| | **A**|Apache| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS|Omgevingsloket o...|
+|[https://intake.omgevingsloket.nl](https://intake.omgevingsloket.nl)| | **A**|Apache| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS|Omgevingsloket o...|
+|[https://olo-a-elk.omgevingsloket.nl](https://olo-a-elk.omgevingsloket.nl)| | **E**|nginx/1.20.1| | | | |:warning: | | | :white_check_mark: | |Nginx:1.20.1||
+|[https://sao.omgevingsloket.nl](https://sao.omgevingsloket.nl)| | **A**|Apache| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS|Omgevingsloket o...|
+|[https://tao.omgevingsloket.nl](https://tao.omgevingsloket.nl)| | **A**|Apache| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS|Omgevingsloket o...|
+|[https://www.omgevingsloket.nl](https://www.omgevingsloket.nl)| | **A**|Apache| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS|Omgevingsloket o...|
+|[https://inr-broker.omgevingsloket.nl](https://inr-broker.omgevingsloket.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Error|
+|[https://omgevingsloket.nl](https://omgevingsloket.nl)| | **A**|Apache| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS|Omgevingsloket o...|

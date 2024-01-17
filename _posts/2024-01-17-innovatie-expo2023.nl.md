@@ -5,8 +5,8 @@ permalink: "/dutchgov/innovatie-expo2023.nl.html"
 subdomains_count: 1
 all_subdomains_count: 1
 urls_count: 1
-ssl_rank: F
-http_rank: B
+ssl_rank: 
+http_rank: A
 url_link: /data/innovatie-expo2023.nl/urls.txt
 all_subdomains_link: /data/innovatie-expo2023.nl/all_subdomains.txt
 subdomains_link: /data/innovatie-expo2023.nl/subdomains.txt
@@ -18,8 +18,8 @@ categories: dutchgov
 ## Summary data
 
 
-**SSL Grade**:F
-**HTTP Security Grade**:B
+ - **SSL Grade**:
+ - **HTTP Security Grade**:A
 
 
 | File       | Count | Info |
@@ -34,4 +34,4 @@ categories: dutchgov
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://www.innovatie-expo2023.nl](https://www.innovatie-expo2023.nl)| | **B**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS PHP||
+|[https://www.innovatie-expo2023.nl](https://www.innovatie-expo2023.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS PHP||

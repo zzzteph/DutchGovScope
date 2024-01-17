@@ -4,8 +4,8 @@
 ## Summary data
 
 
-**SSL Grade**:F
-**HTTP Security Grade**:E
+ - **SSL Grade**:
+ - **HTTP Security Grade**:C
 
 
 | File       | Count | Info |
@@ -20,7 +20,7 @@
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://sscict.nl](https://sscict.nl)| | **C**|Microsoft-IIS/10.0| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS IIS:10.0 Windows Server|Document Moved|
-|[https://www.sscict.nl](https://www.sscict.nl)| | **C**|Microsoft-IIS/10.0| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS IIS:10.0 Windows Server|Document Moved|
-|[https://idtappp01.sscict.nl](https://idtappp01.sscict.nl)| | **F**|| | | | | | | | :white_check_mark: | ||| (403)|
-|[https://idtappa01.sscict.nl](https://idtappa01.sscict.nl)| | **F**|| | | | | | | | :white_check_mark: | ||| (403)|
+|[https://sscict.nl](https://sscict.nl)| | **A**|Microsoft-IIS/10.0| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS IIS:10.0 Windows Server|Document Moved|
+|[https://www.sscict.nl](https://www.sscict.nl)| | **A**|Microsoft-IIS/10.0| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS IIS:10.0 Windows Server|Document Moved|
+|[https://idtappp01.sscict.nl](https://idtappp01.sscict.nl)| | **E**|| | | | | | | | :white_check_mark: | ||| (403)|
+|[https://idtappa01.sscict.nl](https://idtappa01.sscict.nl)| | **E**|| | | | | | | | :white_check_mark: | ||| (403)|

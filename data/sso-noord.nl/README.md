@@ -4,8 +4,8 @@
 ## Summary data
 
 
-**SSL Grade**:F
-**HTTP Security Grade**:F
+ - **SSL Grade**:
+ - **HTTP Security Grade**:D
 
 
 | File       | Count | Info |
@@ -20,6 +20,6 @@
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://vpn.cloud.sso-noord.nl](https://vpn.cloud.sso-noord.nl)| | **F**|OpenVPN-AS| | | | | | :white_check_mark: | | :white_check_mark: | |||
-|[https://www.sso-noord.nl](https://www.sso-noord.nl)| | **F**|Apache| |:white_check_mark: | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|Shared Service O...|
-|[https://sso-noord.nl](https://sso-noord.nl)| | **F**|Apache| |:white_check_mark: | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|Shared Service O...|
+|[https://vpn.cloud.sso-noord.nl](https://vpn.cloud.sso-noord.nl)| | **E**|OpenVPN-AS| | | | | | :white_check_mark: | | :white_check_mark: | |||
+|[https://www.sso-noord.nl](https://www.sso-noord.nl)| | **C**|Apache| |:white_check_mark: | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|Shared Service O...|
+|[https://sso-noord.nl](https://sso-noord.nl)| | **C**|Apache| |:white_check_mark: | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|Shared Service O...|

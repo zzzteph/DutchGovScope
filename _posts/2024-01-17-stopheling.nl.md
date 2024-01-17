@@ -5,8 +5,8 @@ permalink: "/dutchgov/stopheling.nl.html"
 subdomains_count: 12
 all_subdomains_count: 22
 urls_count: 12
-ssl_rank: F
-http_rank: E
+ssl_rank: 
+http_rank: C
 url_link: /data/stopheling.nl/urls.txt
 all_subdomains_link: /data/stopheling.nl/all_subdomains.txt
 subdomains_link: /data/stopheling.nl/subdomains.txt
@@ -18,8 +18,8 @@ categories: dutchgov
 ## Summary data
 
 
-**SSL Grade**:F
-**HTTP Security Grade**:E
+ - **SSL Grade**:
+ - **HTTP Security Grade**:C
 
 
 | File       | Count | Info |
@@ -34,15 +34,15 @@ categories: dutchgov
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://dol.stopheling.nl](https://dol.stopheling.nl)| | **D**|| | | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Azure Azure Front Door||
-|[https://opkopersregister.stopheling.nl](https://opkopersregister.stopheling.nl)| | **E**|Microsoft-IIS/10.0| | | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server|Object moved|
-|[https://dor.stopheling.nl](https://dor.stopheling.nl)| | **D**|| | | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Azure Azure Front Door||
-|[https://accp-dor.stopheling.nl](https://accp-dor.stopheling.nl)| | **D**|| | | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Azure Azure Front Door||
-|[https://test.stopheling.nl](https://test.stopheling.nl)| | **F**|Microsoft-IIS/10.0| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS IIS:10.0 Microsoft ASP.NET Windows Server|Stop Heling | Ho...|
-|[https://stopheling.nl](https://stopheling.nl)| | **F**|Microsoft-IIS/10.0| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS IIS:10.0 Microsoft ASP.NET Windows Server|Stop Heling | Ho...|
-|[https://accp-dol.stopheling.nl](https://accp-dol.stopheling.nl)| | **D**|| | | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Azure Azure Front Door||
-|[https://www.stopheling.nl](https://www.stopheling.nl)| | **F**|Microsoft-IIS/10.0| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS IIS:10.0 Microsoft ASP.NET Windows Server|Stop Heling | Ho...|
-|[https://accp-dorbeheer.stopheling.nl](https://accp-dorbeheer.stopheling.nl)| | **D**|| | | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Azure Azure Front Door||
-|[https://dorbeheer.stopheling.nl](https://dorbeheer.stopheling.nl)| | **D**|| | | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Azure Azure Front Door||
-|[https://aanvraagformulier.stopheling.nl](https://aanvraagformulier.stopheling.nl)| | **E**|Microsoft-IIS/10.0|:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server|Object moved|
+|[https://dol.stopheling.nl](https://dol.stopheling.nl)| | **B**|| | | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Azure Azure Front Door||
+|[https://opkopersregister.stopheling.nl](https://opkopersregister.stopheling.nl)| | **C**|Microsoft-IIS/10.0| | | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server|Object moved|
+|[https://dor.stopheling.nl](https://dor.stopheling.nl)| | **B**|| | | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Azure Azure Front Door||
+|[https://accp-dor.stopheling.nl](https://accp-dor.stopheling.nl)| | **B**|| | | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Azure Azure Front Door||
+|[https://test.stopheling.nl](https://test.stopheling.nl)| | **C**|Microsoft-IIS/10.0| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS IIS:10.0 Microsoft ASP.NET Windows Server|Stop Heling | Ho...|
+|[https://stopheling.nl](https://stopheling.nl)| | **C**|Microsoft-IIS/10.0| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS IIS:10.0 Microsoft ASP.NET Windows Server|Stop Heling | Ho...|
+|[https://accp-dol.stopheling.nl](https://accp-dol.stopheling.nl)| | **B**|| | | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Azure Azure Front Door||
+|[https://www.stopheling.nl](https://www.stopheling.nl)| | **C**|Microsoft-IIS/10.0| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS IIS:10.0 Microsoft ASP.NET Windows Server|Stop Heling | Ho...|
+|[https://accp-dorbeheer.stopheling.nl](https://accp-dorbeheer.stopheling.nl)| | **B**|| | | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Azure Azure Front Door||
+|[https://dorbeheer.stopheling.nl](https://dorbeheer.stopheling.nl)| | **B**|| | | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Azure Azure Front Door||
+|[https://aanvraagformulier.stopheling.nl](https://aanvraagformulier.stopheling.nl)| | **D**|Microsoft-IIS/10.0|:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server|Object moved|
 |[https://test-api.stopheling.nl](https://test-api.stopheling.nl)| | **F**|Microsoft-IIS/10.0|:white_check_mark: | | | | | | | :white_check_mark: | |Azure IIS:10.0 Microsoft ASP.NET Windows Server||

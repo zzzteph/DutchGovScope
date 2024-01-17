@@ -5,8 +5,8 @@ permalink: "/dutchgov/nas-adaptatietool.nl.html"
 subdomains_count: 2
 all_subdomains_count: 2
 urls_count: 2
-ssl_rank: F
-http_rank: F
+ssl_rank: 
+http_rank: D
 url_link: /data/nas-adaptatietool.nl/urls.txt
 all_subdomains_link: /data/nas-adaptatietool.nl/all_subdomains.txt
 subdomains_link: /data/nas-adaptatietool.nl/subdomains.txt
@@ -18,8 +18,8 @@ categories: dutchgov
 ## Summary data
 
 
-**SSL Grade**:F
-**HTTP Security Grade**:F
+ - **SSL Grade**:
+ - **HTTP Security Grade**:D
 
 
 | File       | Count | Info |
@@ -34,5 +34,5 @@ categories: dutchgov
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
-|[http://www.nas-adaptatietool.nl](http://www.nas-adaptatietool.nl)| | **F**|| | | | | | | | :white_check_mark: | |||
-|[https://nas-adaptatietool.nl](https://nas-adaptatietool.nl)| | **E**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|NAS adaptatietoo...|
+|[http://www.nas-adaptatietool.nl](http://www.nas-adaptatietool.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
+|[https://nas-adaptatietool.nl](https://nas-adaptatietool.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|NAS adaptatietoo...|

@@ -5,7 +5,7 @@ permalink: "/dutchgov/kik-starter.nl.html"
 subdomains_count: 2
 all_subdomains_count: 3
 urls_count: 2
-ssl_rank: F
+ssl_rank: 
 http_rank: F
 url_link: /data/kik-starter.nl/urls.txt
 all_subdomains_link: /data/kik-starter.nl/all_subdomains.txt
@@ -18,8 +18,8 @@ categories: dutchgov
 ## Summary data
 
 
-**SSL Grade**:F
-**HTTP Security Grade**:F
+ - **SSL Grade**:
+ - **HTTP Security Grade**:F
 
 
 | File       | Count | Info |
@@ -35,4 +35,4 @@ categories: dutchgov
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
 |[https://www.kik-starter.nl](https://www.kik-starter.nl)| | **F**|istio-envoy| | | | | | | | :white_check_mark: | |HSTS||
-|[https://kik-starter.nl](https://kik-starter.nl)| | **F**|| | | | | | | | :white_check_mark: | |HSTS||
+|[https://kik-starter.nl](https://kik-starter.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||

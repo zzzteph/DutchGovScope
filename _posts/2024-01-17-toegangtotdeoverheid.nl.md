@@ -5,8 +5,8 @@ permalink: "/dutchgov/toegangtotdeoverheid.nl.html"
 subdomains_count: 6
 all_subdomains_count: 6
 urls_count: 4
-ssl_rank: F
-http_rank: F
+ssl_rank: 
+http_rank: D
 url_link: /data/toegangtotdeoverheid.nl/urls.txt
 all_subdomains_link: /data/toegangtotdeoverheid.nl/all_subdomains.txt
 subdomains_link: /data/toegangtotdeoverheid.nl/subdomains.txt
@@ -18,8 +18,8 @@ categories: dutchgov
 ## Summary data
 
 
-**SSL Grade**:F
-**HTTP Security Grade**:F
+ - **SSL Grade**:
+ - **HTTP Security Grade**:D
 
 
 | File       | Count | Info |
@@ -34,7 +34,7 @@ categories: dutchgov
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
-|[http://irma.toegangtotdeoverheid.nl](http://irma.toegangtotdeoverheid.nl)| | **F**|| | | | | | | | :white_check_mark: | |||
+|[http://irma.toegangtotdeoverheid.nl](http://irma.toegangtotdeoverheid.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://irma.tst.toegangtotdeoverheid.nl](https://irma.tst.toegangtotdeoverheid.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|A-Select Filter...|
 |[https://tst.toegangtotdeoverheid.nl](https://tst.toegangtotdeoverheid.nl)| | **A**|N.A.|:warning: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS|foutmelding|
-|[http://toegangtotdeoverheid.nl](http://toegangtotdeoverheid.nl)| | **F**|| | | | | | | | :white_check_mark: | |||
+|[http://toegangtotdeoverheid.nl](http://toegangtotdeoverheid.nl)| | **E**|| | | | | | | | :white_check_mark: | |||

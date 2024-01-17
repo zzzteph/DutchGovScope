@@ -5,8 +5,8 @@ permalink: "/dutchgov/atlasnatuurlijkkapitaal.nl.html"
 subdomains_count: 5
 all_subdomains_count: 6
 urls_count: 5
-ssl_rank: F
-http_rank: F
+ssl_rank: 
+http_rank: D
 url_link: /data/atlasnatuurlijkkapitaal.nl/urls.txt
 all_subdomains_link: /data/atlasnatuurlijkkapitaal.nl/all_subdomains.txt
 subdomains_link: /data/atlasnatuurlijkkapitaal.nl/subdomains.txt
@@ -18,8 +18,8 @@ categories: dutchgov
 ## Summary data
 
 
-**SSL Grade**:F
-**HTTP Security Grade**:F
+ - **SSL Grade**:
+ - **HTTP Security Grade**:D
 
 
 | File       | Count | Info |
@@ -34,8 +34,8 @@ categories: dutchgov
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
-|[http://acceptatie.atlasnatuurlijkkapitaal.nl](http://acceptatie.atlasnatuurlijkkapitaal.nl)| | **F**|| | | | | | | | :white_check_mark: | |||
-|[http://ontwikkel.atlasnatuurlijkkapitaal.nl](http://ontwikkel.atlasnatuurlijkkapitaal.nl)| | **F**|| | | | | | | | :white_check_mark: | |||
-|[http://test.atlasnatuurlijkkapitaal.nl](http://test.atlasnatuurlijkkapitaal.nl)| | **F**|| | | | | | | | :white_check_mark: | |||
-|[https://www.atlasnatuurlijkkapitaal.nl](https://www.atlasnatuurlijkkapitaal.nl)| | **D**|Apache| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server Drupal HSTS PHP|Atlas Natuurlijk...|
-|[https://atlasnatuurlijkkapitaal.nl](https://atlasnatuurlijkkapitaal.nl)| | **D**|Apache| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS|301 Moved Perman...|
+|[http://acceptatie.atlasnatuurlijkkapitaal.nl](http://acceptatie.atlasnatuurlijkkapitaal.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
+|[http://ontwikkel.atlasnatuurlijkkapitaal.nl](http://ontwikkel.atlasnatuurlijkkapitaal.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
+|[http://test.atlasnatuurlijkkapitaal.nl](http://test.atlasnatuurlijkkapitaal.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
+|[https://www.atlasnatuurlijkkapitaal.nl](https://www.atlasnatuurlijkkapitaal.nl)| | **A**|Apache| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server Drupal HSTS PHP|Atlas Natuurlijk...|
+|[https://atlasnatuurlijkkapitaal.nl](https://atlasnatuurlijkkapitaal.nl)| | **A**|Apache| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS|301 Moved Perman...|

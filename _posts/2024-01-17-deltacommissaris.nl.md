@@ -6,7 +6,7 @@ subdomains_count: 4
 all_subdomains_count: 29
 urls_count: 2
 ssl_rank: A
-http_rank: C
+http_rank: A
 url_link: /data/deltacommissaris.nl/urls.txt
 all_subdomains_link: /data/deltacommissaris.nl/all_subdomains.txt
 subdomains_link: /data/deltacommissaris.nl/subdomains.txt
@@ -18,8 +18,8 @@ categories: dutchgov
 ## Summary data
 
 
-**SSL Grade**:A
-**HTTP Security Grade**:C
+ - **SSL Grade**:A
+ - **HTTP Security Grade**:A
 
 
 | File       | Count | Info |
@@ -34,5 +34,5 @@ categories: dutchgov
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://deltaprogramma2019.deltacommissaris.nl](https://deltaprogramma2019.deltacommissaris.nl)| **A**| **C**|Apache/2| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server:2|301 Moved Perman...|
-|[https://deltaprogramma2020.deltacommissaris.nl](https://deltaprogramma2020.deltacommissaris.nl)| **A**| **C**|Apache/2| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server:2|301 Moved Perman...|
+|[https://deltaprogramma2019.deltacommissaris.nl](https://deltaprogramma2019.deltacommissaris.nl)| **A**| **A**|Apache/2| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server:2|301 Moved Perman...|
+|[https://deltaprogramma2020.deltacommissaris.nl](https://deltaprogramma2020.deltacommissaris.nl)| **A**| **A**|Apache/2| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server:2|301 Moved Perman...|

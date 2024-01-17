@@ -4,8 +4,8 @@
 ## Summary data
 
 
-**SSL Grade**:F
-**HTTP Security Grade**:E
+ - **SSL Grade**:
+ - **HTTP Security Grade**:B
 
 
 | File       | Count | Info |
@@ -21,5 +21,5 @@
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
 |[https://kvms.defensietalenten.nl](https://kvms.defensietalenten.nl)| | **F**|Apache/2.4.38 (Debian)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.38 Debian PHP:8.1.20||
-|[https://www.defensietalenten.nl](https://www.defensietalenten.nl)| | **C**|Ponos Maximum| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
-|[https://defensietalenten.nl](https://defensietalenten.nl)| | **C**|Ponos Maximum| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Home - Defensie...|
+|[https://www.defensietalenten.nl](https://www.defensietalenten.nl)| | **A**|Ponos Maximum| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
+|[https://defensietalenten.nl](https://defensietalenten.nl)| | **A**|Ponos Maximum| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Home - Defensie...|

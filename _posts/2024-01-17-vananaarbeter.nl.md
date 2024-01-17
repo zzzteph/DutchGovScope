@@ -5,7 +5,7 @@ permalink: "/dutchgov/vananaarbeter.nl.html"
 subdomains_count: 4
 all_subdomains_count: 5
 urls_count: 4
-ssl_rank: F
+ssl_rank: 
 http_rank: F
 url_link: /data/vananaarbeter.nl/urls.txt
 all_subdomains_link: /data/vananaarbeter.nl/all_subdomains.txt
@@ -18,8 +18,8 @@ categories: dutchgov
 ## Summary data
 
 
-**SSL Grade**:F
-**HTTP Security Grade**:F
+ - **SSL Grade**:
+ - **HTTP Security Grade**:F
 
 
 | File       | Count | Info |
@@ -34,7 +34,7 @@ categories: dutchgov
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
-|[http://staging.vananaarbeter.nl](http://staging.vananaarbeter.nl)| | **F**|| | | | | | | | :white_check_mark: | |HSTS|301 Moved Perman...|
+|[http://staging.vananaarbeter.nl](http://staging.vananaarbeter.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS|301 Moved Perman...|
 |[https://winwin.vananaarbeter.nl](https://winwin.vananaarbeter.nl)| | **F**|Apache/2| | | | | | | | :white_check_mark: | |Apache HTTP Server:2|vanAnaarBeter |...|
-|[https://www.vananaarbeter.nl](https://www.vananaarbeter.nl)| | **F**|| | | | | | | | :white_check_mark: | ||Error|
-|[https://vananaarbeter.nl](https://vananaarbeter.nl)| | **F**|| | | | | | | | :white_check_mark: | |Akamai Craft CMS HSTS SEOmatic|vanAnaarBeter|
+|[https://www.vananaarbeter.nl](https://www.vananaarbeter.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Error|
+|[https://vananaarbeter.nl](https://vananaarbeter.nl)| | **E**|| | | | | | | | :white_check_mark: | |Akamai Craft CMS HSTS SEOmatic|vanAnaarBeter|

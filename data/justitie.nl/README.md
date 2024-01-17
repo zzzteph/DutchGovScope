@@ -4,8 +4,8 @@
 ## Summary data
 
 
-**SSL Grade**:F
-**HTTP Security Grade**:E
+ - **SSL Grade**:
+ - **HTTP Security Grade**:C
 
 
 | File       | Count | Info |
@@ -20,8 +20,8 @@
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
-|[http://dienstenportaal.justitie.nl](http://dienstenportaal.justitie.nl)| | **F**|| | | | | | | | :white_check_mark: | |||
-|[http://english.justitie.nl](http://english.justitie.nl)| | **F**|| | | | | | | | :white_check_mark: | |||
-|[http://justitiebulletin.justitie.nl](http://justitiebulletin.justitie.nl)| | **F**|| | | | | | | | :white_check_mark: | |||
-|[https://www.justitie.nl](https://www.justitie.nl)| | **B**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
-|[https://justitie.nl](https://justitie.nl)| | **B**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
+|[http://dienstenportaal.justitie.nl](http://dienstenportaal.justitie.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
+|[http://english.justitie.nl](http://english.justitie.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
+|[http://justitiebulletin.justitie.nl](http://justitiebulletin.justitie.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
+|[https://www.justitie.nl](https://www.justitie.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
+|[https://justitie.nl](https://justitie.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||

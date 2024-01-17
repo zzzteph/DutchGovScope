@@ -4,8 +4,8 @@
 ## Summary data
 
 
-**SSL Grade**:F
-**HTTP Security Grade**:F
+ - **SSL Grade**:
+ - **HTTP Security Grade**:E
 
 
 | File       | Count | Info |
@@ -21,6 +21,6 @@
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
 |[http://cdn.naarnederland.nl](http://cdn.naarnederland.nl)| | **F**|VellanceBlast| | | | | | | | :white_check_mark: | |||
-|[http://mail.naarnederland.nl](http://mail.naarnederland.nl)| | **E**|ghs| | | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | ||301 Moved|
-|[https://www.naarnederland.nl](https://www.naarnederland.nl)| | **F**|Apache|:o: |:white_check_mark: | | | | | | :white_check_mark: | |Apache HTTP Server HSTS MySQL PHP WPML:4.1.1 WordPress:5.3.16|Naar Nederland –...|
-|[https://naarnederland.nl](https://naarnederland.nl)| | **F**|Apache|:o: |:white_check_mark: | | | | | | :white_check_mark: | |Apache HTTP Server HSTS||
+|[http://mail.naarnederland.nl](http://mail.naarnederland.nl)| | **C**|ghs| | | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | ||301 Moved|
+|[https://www.naarnederland.nl](https://www.naarnederland.nl)| | **E**|Apache|:o: |:white_check_mark: | | | | | | :white_check_mark: | |Apache HTTP Server HSTS MySQL PHP WPML:4.1.1 WordPress:5.3.16|Naar Nederland –...|
+|[https://naarnederland.nl](https://naarnederland.nl)| | **E**|Apache|:o: |:white_check_mark: | | | | | | :white_check_mark: | |Apache HTTP Server HSTS||

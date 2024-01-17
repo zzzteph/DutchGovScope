@@ -6,7 +6,7 @@ subdomains_count: 4
 all_subdomains_count: 4
 urls_count: 4
 ssl_rank: A+
-http_rank: C
+http_rank: A
 url_link: /data/binnenhofrenovatie.nl/urls.txt
 all_subdomains_link: /data/binnenhofrenovatie.nl/all_subdomains.txt
 subdomains_link: /data/binnenhofrenovatie.nl/subdomains.txt
@@ -18,8 +18,8 @@ categories: dutchgov
 ## Summary data
 
 
-**SSL Grade**:A+
-**HTTP Security Grade**:C
+ - **SSL Grade**:A+
+ - **HTTP Security Grade**:A
 
 
 | File       | Count | Info |
@@ -34,7 +34,7 @@ categories: dutchgov
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://feeds.binnenhofrenovatie.nl](https://feeds.binnenhofrenovatie.nl)| | **D**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
-|[https://opendata.binnenhofrenovatie.nl](https://opendata.binnenhofrenovatie.nl)| | **D**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
-|[https://www.binnenhofrenovatie.nl](https://www.binnenhofrenovatie.nl)| | **C**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Home | Binnenhof...|
-|[https://binnenhofrenovatie.nl](https://binnenhofrenovatie.nl)| **A+**| **C**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
+|[https://feeds.binnenhofrenovatie.nl](https://feeds.binnenhofrenovatie.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
+|[https://opendata.binnenhofrenovatie.nl](https://opendata.binnenhofrenovatie.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
+|[https://www.binnenhofrenovatie.nl](https://www.binnenhofrenovatie.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Home | Binnenhof...|
+|[https://binnenhofrenovatie.nl](https://binnenhofrenovatie.nl)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|

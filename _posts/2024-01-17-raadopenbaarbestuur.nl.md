@@ -5,8 +5,8 @@ permalink: "/dutchgov/raadopenbaarbestuur.nl.html"
 subdomains_count: 11
 all_subdomains_count: 25
 urls_count: 5
-ssl_rank: F
-http_rank: C
+ssl_rank: 
+http_rank: A
 url_link: /data/raadopenbaarbestuur.nl/urls.txt
 all_subdomains_link: /data/raadopenbaarbestuur.nl/all_subdomains.txt
 subdomains_link: /data/raadopenbaarbestuur.nl/subdomains.txt
@@ -18,8 +18,8 @@ categories: dutchgov
 ## Summary data
 
 
-**SSL Grade**:F
-**HTTP Security Grade**:C
+ - **SSL Grade**:
+ - **HTTP Security Grade**:A
 
 
 | File       | Count | Info |
@@ -34,8 +34,8 @@ categories: dutchgov
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://opendata.raadopenbaarbestuur.nl](https://opendata.raadopenbaarbestuur.nl)| | **D**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
-|[https://www.raadopenbaarbestuur.nl](https://www.raadopenbaarbestuur.nl)| | **C**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Home | Raad voor...|
-|[https://feeds.raadopenbaarbestuur.nl](https://feeds.raadopenbaarbestuur.nl)| | **D**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
-|[https://raadopenbaarbestuur.nl](https://raadopenbaarbestuur.nl)| | **C**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
-|[https://digitaal.raadopenbaarbestuur.nl](https://digitaal.raadopenbaarbestuur.nl)| | **C**|Apache/2| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server:2 PHP:7.3.33||
+|[https://opendata.raadopenbaarbestuur.nl](https://opendata.raadopenbaarbestuur.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
+|[https://www.raadopenbaarbestuur.nl](https://www.raadopenbaarbestuur.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Home | Raad voor...|
+|[https://feeds.raadopenbaarbestuur.nl](https://feeds.raadopenbaarbestuur.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
+|[https://raadopenbaarbestuur.nl](https://raadopenbaarbestuur.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
+|[https://digitaal.raadopenbaarbestuur.nl](https://digitaal.raadopenbaarbestuur.nl)| | **A**|Apache/2| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server:2 PHP:7.3.33||

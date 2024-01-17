@@ -5,8 +5,8 @@ permalink: "/dutchgov/basisregistratieondergrond.nl.html"
 subdomains_count: 2
 all_subdomains_count: 21
 urls_count: 2
-ssl_rank: F
-http_rank: B
+ssl_rank: 
+http_rank: A
 url_link: /data/basisregistratieondergrond.nl/urls.txt
 all_subdomains_link: /data/basisregistratieondergrond.nl/all_subdomains.txt
 subdomains_link: /data/basisregistratieondergrond.nl/subdomains.txt
@@ -18,8 +18,8 @@ categories: dutchgov
 ## Summary data
 
 
-**SSL Grade**:F
-**HTTP Security Grade**:B
+ - **SSL Grade**:
+ - **HTTP Security Grade**:A
 
 
 | File       | Count | Info |
@@ -34,5 +34,5 @@ categories: dutchgov
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://www.basisregistratieondergrond.nl](https://www.basisregistratieondergrond.nl)| | **B**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:-|Object moved|
-|[https://basisregistratieondergrond.nl](https://basisregistratieondergrond.nl)| | **B**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:-|Home - Basisregi...|
+|[https://www.basisregistratieondergrond.nl](https://www.basisregistratieondergrond.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:-|Object moved|
+|[https://basisregistratieondergrond.nl](https://basisregistratieondergrond.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:-|Home - Basisregi...|

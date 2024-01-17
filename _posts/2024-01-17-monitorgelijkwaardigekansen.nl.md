@@ -5,8 +5,8 @@ permalink: "/dutchgov/monitorgelijkwaardigekansen.nl.html"
 subdomains_count: 3
 all_subdomains_count: 3
 urls_count: 3
-ssl_rank: F
-http_rank: E
+ssl_rank: 
+http_rank: D
 url_link: /data/monitorgelijkwaardigekansen.nl/urls.txt
 all_subdomains_link: /data/monitorgelijkwaardigekansen.nl/all_subdomains.txt
 subdomains_link: /data/monitorgelijkwaardigekansen.nl/subdomains.txt
@@ -18,8 +18,8 @@ categories: dutchgov
 ## Summary data
 
 
-**SSL Grade**:F
-**HTTP Security Grade**:E
+ - **SSL Grade**:
+ - **HTTP Security Grade**:D
 
 
 | File       | Count | Info |
@@ -34,6 +34,6 @@ categories: dutchgov
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://www.monitorgelijkwaardigekansen.nl](https://www.monitorgelijkwaardigekansen.nl)| | **E**||:o: |:white_check_mark: | | | | | | :white_check_mark: | |Azure HSTS Inertia.js PHP:7.4.33|GelijkwaardigeKa...|
-|[https://test645.monitorgelijkwaardigekansen.nl](https://test645.monitorgelijkwaardigekansen.nl)| | **E**||:o: |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Inertia.js PHP:7.4.33|GelijkwaardigeKa...|
-|[https://monitorgelijkwaardigekansen.nl](https://monitorgelijkwaardigekansen.nl)| | **E**||:o: |:white_check_mark: | | | | | | :white_check_mark: | |Azure HSTS Inertia.js PHP:7.4.33|GelijkwaardigeKa...|
+|[https://www.monitorgelijkwaardigekansen.nl](https://www.monitorgelijkwaardigekansen.nl)| | **D**||:o: |:white_check_mark: | | | | | | :white_check_mark: | |Azure HSTS Inertia.js PHP:7.4.33|GelijkwaardigeKa...|
+|[https://test645.monitorgelijkwaardigekansen.nl](https://test645.monitorgelijkwaardigekansen.nl)| | **D**||:o: |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Inertia.js PHP:7.4.33|GelijkwaardigeKa...|
+|[https://monitorgelijkwaardigekansen.nl](https://monitorgelijkwaardigekansen.nl)| | **D**||:o: |:white_check_mark: | | | | | | :white_check_mark: | |Azure HSTS Inertia.js PHP:7.4.33|GelijkwaardigeKa...|

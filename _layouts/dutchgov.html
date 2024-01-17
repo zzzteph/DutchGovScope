@@ -1,19 +1,19 @@
 ---
 layout: default
 ---
-<h2 id="key-statistics">Key Statistics</h2>
+<h2 id="key-statistics">Dutch government</h2>
 
-<h3>Number of domains: 24</h3>
-<h3>Number of subdomains: 24</h3>
-<h3>Number of urls: 0</h3>
-<h3>Average HTTP Security headers rank: E</h3>
-<h3>Average SSL grade: A+</h3>
+<strong>Number of domains: 16336</strong>
+<strong>Number of subdomains: 32198</strong>
+<strong>Number of urls: 10054</strong>
+<strong>Average HTTP Security headers rank: B</strong>
+<strong>Average SSL grade: A+</strong>
 
 
 <ul>
 <li><a href="/domains.txt">domains.txt</a>: List of all domains in scope</li>
 <li><a href="/subdomains.txt">subdomains.txt</a>: Detailed list of <strong>16336</strong> alive subdomains.</li>
-<li><a href="/urls.txt">urls.txt</a>: Compilation of <strong>10053</strong> URLs.</li>
+<li><a href="/urls.txt">urls.txt</a>: Compilation of <strong>10054</strong> URLs.</li>
 <li><a href="/all_subdomains.txt">all_subdomains.txt</a>: All <strong>32198</strong> subdomains that were found all over the time </li>
 <li><a href="/data">data/</a>: Folder containing daily updated analysis for every domain.</li>
 </ul>
@@ -33,11 +33,11 @@ layout: default
 {% for post in paginator.posts %}
 <tr>
     <td><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></td>
-    <td><a href="{{ post.internal_url }}">{{ post.ssl_rank }}</a></td>
-    <td><a href="{{ post.internal_url }}">{{ post.http_rank }}</a></td>
-    <td><a href="{{ post.subdomains_link }}">{{ post.subdomains_count }}</a></td>
-    <td><a href="{{ post.all_subdomains_link }}">{{ post.all_subdomains_count }}</a></td>
-    <td><a href="{{ post.url_link }}">{{ post.urls_count }}</a></td>
+    <td><a href="{{ post.url | prepend: site.baseurl }}">{{ post.ssl_rank }}</a></td>
+    <td><a href="{{ post.url | prepend: site.baseurl }}">{{ post.http_rank }}</a></td>
+    <td><a href="{{ post.subdomains_link|prepend: site.baseurl }}">{{ post.subdomains_count }}</a></td>
+    <td><a href="{{ post.all_subdomains_link|prepend: site.baseurl }}">{{ post.all_subdomains_count }}</a></td>
+    <td><a href="{{ post.url_link|prepend: site.baseurl }}">{{ post.urls_count }}</a></td>
 </tr>
 
 {% endfor %}
@@ -51,7 +51,7 @@ layout: default
 <!-- Pagination links -->
 <div class="pagination">
   {% if paginator.previous_page %}
-    <a href="{{ paginator.previous_page_path }}" class="previous">
+    <a href="{{ paginator.previous_page_path|prepend: site.baseurl }}" class="previous">
       Previous
     </a>
   {% else %}
@@ -61,7 +61,7 @@ layout: default
     Page: {{ paginator.page }} of {{ paginator.total_pages }}
   </span>
   {% if paginator.next_page %}
-    <a href="{{ paginator.next_page_path }}" class="next">Next</a>
+    <a href="{{ paginator.next_page_path | prepend: site.baseurl }}" class="next">Next</a>
   {% else %}
     <span class="next ">Next</span>
   {% endif %}

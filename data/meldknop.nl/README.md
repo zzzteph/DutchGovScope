@@ -4,8 +4,8 @@
 ## Summary data
 
 
-**SSL Grade**:F
-**HTTP Security Grade**:F
+ - **SSL Grade**:
+ - **HTTP Security Grade**:E
 
 
 | File       | Count | Info |
@@ -20,11 +20,11 @@
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://www.meldknop.nl](https://www.meldknop.nl)| | **D**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS MySQL Nginx PHP WordPress Yoast SEO:21.8|Meldknop.nl - Ie...|
+|[https://www.meldknop.nl](https://www.meldknop.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS MySQL Nginx PHP WordPress Yoast SEO:21.8|Meldknop.nl - Ie...|
 |[https://corrupt.meldknop.nl](https://corrupt.meldknop.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx||
 |[https://66wz.meldknop.nl](https://66wz.meldknop.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx||
 |[https://shanghaiershouhuangguanche.meldknop.nl](https://shanghaiershouhuangguanche.meldknop.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx||
-|[https://meldknop.nl](https://meldknop.nl)| | **D**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
+|[https://meldknop.nl](https://meldknop.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://nwww.meldknop.nl](https://nwww.meldknop.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx||
 |[https://shai.meldknop.nl](https://shai.meldknop.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx||
 |[https://ftpadmin1.meldknop.nl](https://ftpadmin1.meldknop.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx||

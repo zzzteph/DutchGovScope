@@ -4,8 +4,8 @@
 ## Summary data
 
 
-**SSL Grade**:F
-**HTTP Security Grade**:D
+ - **SSL Grade**:
+ - **HTTP Security Grade**:A
 
 
 | File       | Count | Info |
@@ -20,11 +20,11 @@
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://english.waterenklimaat.nl](https://english.waterenklimaat.nl)| | **C**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Home | NKWK Nati...|
-|[https://euwijzer.waterenklimaat.nl](https://euwijzer.waterenklimaat.nl)| | **F**|| | | | | | | | :white_check_mark: | |Bootstrap:4.0.0 Google Tag Manager HSTS MySQL PHP Redis Redis Object Cache WordPress|EU Wijzer  - EU...|
-|[https://feeds.waterenklimaat.nl](https://feeds.waterenklimaat.nl)| | **D**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
-|[https://feeds.english.waterenklimaat.nl](https://feeds.english.waterenklimaat.nl)| | **D**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
-|[https://opendata.waterenklimaat.nl](https://opendata.waterenklimaat.nl)| | **D**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
-|[https://opendata.english.waterenklimaat.nl](https://opendata.english.waterenklimaat.nl)| | **D**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
-|[https://www.waterenklimaat.nl](https://www.waterenklimaat.nl)| | **C**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Home | NKWK Nati...|
-|[https://waterenklimaat.nl](https://waterenklimaat.nl)| | **C**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
+|[https://english.waterenklimaat.nl](https://english.waterenklimaat.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Home | NKWK Nati...|
+|[https://euwijzer.waterenklimaat.nl](https://euwijzer.waterenklimaat.nl)| | **E**|| | | | | | | | :white_check_mark: | |Bootstrap:4.0.0 Google Tag Manager HSTS MySQL PHP Redis Redis Object Cache WordPress|EU Wijzer  - EU...|
+|[https://feeds.waterenklimaat.nl](https://feeds.waterenklimaat.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
+|[https://feeds.english.waterenklimaat.nl](https://feeds.english.waterenklimaat.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
+|[https://opendata.waterenklimaat.nl](https://opendata.waterenklimaat.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
+|[https://opendata.english.waterenklimaat.nl](https://opendata.english.waterenklimaat.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
+|[https://www.waterenklimaat.nl](https://www.waterenklimaat.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Home | NKWK Nati...|
+|[https://waterenklimaat.nl](https://waterenklimaat.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|

@@ -4,8 +4,8 @@
 ## Summary data
 
 
-**SSL Grade**:F
-**HTTP Security Grade**:C
+ - **SSL Grade**:
+ - **HTTP Security Grade**:A
 
 
 | File       | Count | Info |
@@ -20,7 +20,7 @@
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://acceptatie.samenmetenaanluchtkwaliteit.nl](https://acceptatie.samenmetenaanluchtkwaliteit.nl)| | **C**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |||
-|[https://test.samenmetenaanluchtkwaliteit.nl](https://test.samenmetenaanluchtkwaliteit.nl)| | **C**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |||
-|[https://www.samenmetenaanluchtkwaliteit.nl](https://www.samenmetenaanluchtkwaliteit.nl)| | **C**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |||
-|[https://samenmetenaanluchtkwaliteit.nl](https://samenmetenaanluchtkwaliteit.nl)| | **C**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |||
+|[https://acceptatie.samenmetenaanluchtkwaliteit.nl](https://acceptatie.samenmetenaanluchtkwaliteit.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |||
+|[https://test.samenmetenaanluchtkwaliteit.nl](https://test.samenmetenaanluchtkwaliteit.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |||
+|[https://www.samenmetenaanluchtkwaliteit.nl](https://www.samenmetenaanluchtkwaliteit.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |||
+|[https://samenmetenaanluchtkwaliteit.nl](https://samenmetenaanluchtkwaliteit.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |||

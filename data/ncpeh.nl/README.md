@@ -4,8 +4,8 @@
 ## Summary data
 
 
-**SSL Grade**:F
-**HTTP Security Grade**:D
+ - **SSL Grade**:
+ - **HTTP Security Grade**:A
 
 
 | File       | Count | Info |
@@ -20,13 +20,13 @@
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://acceptatie.beheer.ncpeh.nl](https://acceptatie.beheer.ncpeh.nl)| | **B**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
+|[https://acceptatie.beheer.ncpeh.nl](https://acceptatie.beheer.ncpeh.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://acceptatie.portaal.ncpeh.nl](https://acceptatie.portaal.ncpeh.nl)| | **F**|-| | | | | | | | :white_check_mark: | |HSTS||
 |[https://acceptatie.uzipas.portaal.ncpeh.nl](https://acceptatie.uzipas.portaal.ncpeh.nl)| | **F**|-| | | | | | | | :white_check_mark: | |HSTS||
-|[https://beheer.ncpeh.nl](https://beheer.ncpeh.nl)| | **B**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
-|[https://feeds.ncpeh.nl](https://feeds.ncpeh.nl)| | **D**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
-|[https://opendata.ncpeh.nl](https://opendata.ncpeh.nl)| | **D**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
-|[https://portaal.ncpeh.nl](https://portaal.ncpeh.nl)| | **C**|-| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|NCPEH|
-|[https://uzipas.portaal.ncpeh.nl](https://uzipas.portaal.ncpeh.nl)| | **C**|-| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|NCPEH|
-|[https://www.ncpeh.nl](https://www.ncpeh.nl)| | **C**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Home | NCPeH-NL|
-|[https://ncpeh.nl](https://ncpeh.nl)| | **C**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
+|[https://beheer.ncpeh.nl](https://beheer.ncpeh.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
+|[https://feeds.ncpeh.nl](https://feeds.ncpeh.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
+|[https://opendata.ncpeh.nl](https://opendata.ncpeh.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
+|[https://portaal.ncpeh.nl](https://portaal.ncpeh.nl)| | **A**|-| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|NCPEH|
+|[https://uzipas.portaal.ncpeh.nl](https://uzipas.portaal.ncpeh.nl)| | **A**|-| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|NCPEH|
+|[https://www.ncpeh.nl](https://www.ncpeh.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Home | NCPeH-NL|
+|[https://ncpeh.nl](https://ncpeh.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|

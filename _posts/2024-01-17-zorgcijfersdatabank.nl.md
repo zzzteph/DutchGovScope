@@ -5,8 +5,8 @@ permalink: "/dutchgov/zorgcijfersdatabank.nl.html"
 subdomains_count: 6
 all_subdomains_count: 9
 urls_count: 4
-ssl_rank: F
-http_rank: F
+ssl_rank: 
+http_rank: D
 url_link: /data/zorgcijfersdatabank.nl/urls.txt
 all_subdomains_link: /data/zorgcijfersdatabank.nl/all_subdomains.txt
 subdomains_link: /data/zorgcijfersdatabank.nl/subdomains.txt
@@ -18,8 +18,8 @@ categories: dutchgov
 ## Summary data
 
 
-**SSL Grade**:F
-**HTTP Security Grade**:F
+ - **SSL Grade**:
+ - **HTTP Security Grade**:D
 
 
 | File       | Count | Info |
@@ -34,7 +34,7 @@ categories: dutchgov
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://www.zorgcijfersdatabank.nl](https://www.zorgcijfersdatabank.nl)| | **C**|Solvinity Server|:white_check_mark: |:white_check_mark: | | |:warning: | | :white_check_mark: | :white_check_mark: | |HSTS|Zorgcijfersdatab...|
+|[https://www.zorgcijfersdatabank.nl](https://www.zorgcijfersdatabank.nl)| | **B**|Solvinity Server|:white_check_mark: |:white_check_mark: | | |:warning: | | :white_check_mark: | :white_check_mark: | |HSTS|Zorgcijfersdatab...|
 |[https://www-ac.zorgcijfersdatabank.nl](https://www-ac.zorgcijfersdatabank.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server Basic|401 Unauthorized|
 |[https://proto.zorgcijfersdatabank.nl](https://proto.zorgcijfersdatabank.nl)| | **F**|GitHub.com| | | :warning:| | | | | :white_check_mark: | |Fastly GitHub Pages Varnish|Home|
-|[https://zorgcijfersdatabank.nl](https://zorgcijfersdatabank.nl)| | **C**|Apache|:white_check_mark: |:white_check_mark: | | |:warning: | | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS|301 Moved Perman...|
+|[https://zorgcijfersdatabank.nl](https://zorgcijfersdatabank.nl)| | **B**|Apache|:white_check_mark: |:white_check_mark: | | |:warning: | | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS|301 Moved Perman...|

@@ -4,8 +4,8 @@
 ## Summary data
 
 
-**SSL Grade**:A
-**HTTP Security Grade**:C
+ - **SSL Grade**:A
+ - **HTTP Security Grade**:A
 
 
 | File       | Count | Info |
@@ -20,13 +20,13 @@
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://aanvraag.donorgegevens.nl](https://aanvraag.donorgegevens.nl)| **A**| **B**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Donorgegevens aa...|
-|[https://acceptatie.aanvraag.donorgegevens.nl](https://acceptatie.aanvraag.donorgegevens.nl)| **A**| **B**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Donorgegevens aa...|
-|[https://acceptatie.behandel.donorgegevens.nl](https://acceptatie.behandel.donorgegevens.nl)| **A**| **B**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
+|[https://aanvraag.donorgegevens.nl](https://aanvraag.donorgegevens.nl)| **A**| **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Donorgegevens aa...|
+|[https://acceptatie.aanvraag.donorgegevens.nl](https://acceptatie.aanvraag.donorgegevens.nl)| **A**| **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Donorgegevens aa...|
+|[https://acceptatie.behandel.donorgegevens.nl](https://acceptatie.behandel.donorgegevens.nl)| **A**| **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://acceptatie.klinieken.donorgegevens.nl](https://acceptatie.klinieken.donorgegevens.nl)| | **F**|-| | | | | | | | :white_check_mark: | |HSTS|Donorgegevens kl...|
-|[https://behandel.donorgegevens.nl](https://behandel.donorgegevens.nl)| **A**| **B**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
-|[https://feeds.donorgegevens.nl](https://feeds.donorgegevens.nl)| **A+**| **D**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
-|[https://klinieken.donorgegevens.nl](https://klinieken.donorgegevens.nl)| **A**| **B**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Donorgegevens kl...|
-|[https://opendata.donorgegevens.nl](https://opendata.donorgegevens.nl)| **A+**| **D**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
-|[https://www.donorgegevens.nl](https://www.donorgegevens.nl)| **A+**| **C**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Home | Donorgege...|
-|[https://donorgegevens.nl](https://donorgegevens.nl)| **A+**| **C**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
+|[https://behandel.donorgegevens.nl](https://behandel.donorgegevens.nl)| **A**| **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
+|[https://feeds.donorgegevens.nl](https://feeds.donorgegevens.nl)| **A+**| **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
+|[https://klinieken.donorgegevens.nl](https://klinieken.donorgegevens.nl)| **A**| **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Donorgegevens kl...|
+|[https://opendata.donorgegevens.nl](https://opendata.donorgegevens.nl)| **A+**| **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
+|[https://www.donorgegevens.nl](https://www.donorgegevens.nl)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Home | Donorgege...|
+|[https://donorgegevens.nl](https://donorgegevens.nl)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
