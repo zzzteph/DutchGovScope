@@ -26,7 +26,7 @@ In the [`/data`](/data) directory, there's an analysis of security configuration
  - **SSL:** Grade from [https://www.ssllabs.com/ssltest/](https://www.ssllabs.com/ssltest/)
  - **HTTP Rank:** Based on HTTP headers statistics from below
  - **Server:** *Server header* from web server. If not set +5 points
- - **Cookie:** :white_check_mark: if HttpOnly (+7), Secure(+7) and Same-Site(+6) flag are set
+ - **Cookie:** :white_check_mark: if HttpOnly (+7), Secure (+7) and Same-Site(+6) flag are set
  - **HSTS:** :white_check_mark: if *Strict-Transport-Security* header is set(+30)
  - **CSP:** :white_check_mark: if *Content-Security-Policy* header is set(+10) and *unsafe-inline* and *unsafe-eval* not present in configuration (+5)
  - **XFO:** :white_check_mark: if *X-Frame-Options* header is set (+10)
