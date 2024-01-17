@@ -19,6 +19,9 @@
 
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
-|--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
+|--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[https://www.ciot.nl](https://www.ciot.nl)| **B**| **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
+
+
 |[https://ciot.nl](https://ciot.nl)| **B**| **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
+

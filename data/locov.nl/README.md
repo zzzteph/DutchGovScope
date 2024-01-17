@@ -19,6 +19,9 @@
 
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
-|--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
+|--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[https://www.locov.nl](https://www.locov.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET SDL Tridion|Object moved|
+
+
 |[https://locov.nl](https://locov.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET SDL Tridion|Object moved|
+

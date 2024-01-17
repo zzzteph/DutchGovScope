@@ -19,5 +19,6 @@
 
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
-|--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
+|--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[https://www.meetingpointdji.nl](https://www.meetingpointdji.nl)| | **F**|Microsoft-IIS/10.0|:white_check_mark: | | | | | | | :white_check_mark: | |Azure IIS:10.0 Microsoft ASP.NET Windows Server|Meeting_Point_DJ...|
+

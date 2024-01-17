@@ -19,7 +19,12 @@
 
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
-|--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
+|--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[https://nl2100.nl](https://nl2100.nl)| | **A**|nginx| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx Plesk|NL2100|
+
+
 |[https://dev.nl2100.nl](https://dev.nl2100.nl)| | **A**|nginx| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Nginx Plesk||
+
+
 |[https://www.nl2100.nl](https://www.nl2100.nl)| | **A**|nginx| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx Plesk|NL2100|
+

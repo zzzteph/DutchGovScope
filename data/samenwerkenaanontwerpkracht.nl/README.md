@@ -19,6 +19,9 @@
 
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
-|--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
+|--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[https://www.samenwerkenaanontwerpkracht.nl](https://www.samenwerkenaanontwerpkracht.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|Domein niet gevo...|
+
+
 |[https://samenwerkenaanontwerpkracht.nl](https://samenwerkenaanontwerpkracht.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|Domein niet gevo...|
+

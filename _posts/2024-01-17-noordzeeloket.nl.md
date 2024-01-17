@@ -33,7 +33,12 @@ categories: dutchgov
 
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
-|--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
+|--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[https://windmolensopzee.noordzeeloket.nl](https://windmolensopzee.noordzeeloket.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Microsoft Azure...|
+
+
 |[https://www.noordzeeloket.nl](https://www.noordzeeloket.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:-|Home - Noordzeel...|
+
+
 |[https://noordzeeloket.nl](https://noordzeeloket.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:-|Object moved|
+

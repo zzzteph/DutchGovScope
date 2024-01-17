@@ -33,6 +33,9 @@ categories: dutchgov
 
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
-|--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
+|--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[https://www.informatiepuntdigitaleoverheid.nl](https://www.informatiepuntdigitaleoverheid.nl)| | **C**|Apache| |:white_check_mark: | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|Informatiepunt D...|
+
+
 |[https://informatiepuntdigitaleoverheid.nl](https://informatiepuntdigitaleoverheid.nl)| | **C**|Apache| |:white_check_mark: | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|Informatiepunt D...|
+

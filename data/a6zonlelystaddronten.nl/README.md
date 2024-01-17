@@ -19,6 +19,9 @@
 
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
-|--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
+|--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[https://www.a6zonlelystaddronten.nl](https://www.a6zonlelystaddronten.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Document Moved|
+
+
 |[https://a6zonlelystaddronten.nl](https://a6zonlelystaddronten.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Document Moved|
+

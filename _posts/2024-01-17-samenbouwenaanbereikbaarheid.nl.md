@@ -33,7 +33,12 @@ categories: dutchgov
 
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
-|--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
+|--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[https://samenbouwenaanbereikbaarheid.nl](https://samenbouwenaanbereikbaarheid.nl)| | **C**|| |:white_check_mark: | :warning:| | | | | :white_check_mark: | |HSTS||
+
+
 |[https://www.samenbouwenaanbereikbaarheid.nl](https://www.samenbouwenaanbereikbaarheid.nl)| | **D**|nginx| |:white_check_mark: | :warning:| | | | | :white_check_mark: | |Glyphicons HSTS Nginx|Home :: Samen Bo...|
+
+
 |[https://staging.samenbouwenaanbereikbaarheid.nl](https://staging.samenbouwenaanbereikbaarheid.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
+

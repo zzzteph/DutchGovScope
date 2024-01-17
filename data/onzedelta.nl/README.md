@@ -19,6 +19,9 @@
 
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
-|--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
+|--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[https://www.onzedelta.nl](https://www.onzedelta.nl)| | **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |Nginx||
+
+
 |[https://onzedelta.nl](https://onzedelta.nl)| | **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |Nginx||
+

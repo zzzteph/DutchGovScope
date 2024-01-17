@@ -19,6 +19,9 @@
 
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
-|--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
+|--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[https://www.nl-works.nl](https://www.nl-works.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS|Domeinnaam nog n...|
+
+
 |[https://nl-works.nl](https://nl-works.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
+

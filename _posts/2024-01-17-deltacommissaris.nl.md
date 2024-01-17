@@ -33,6 +33,9 @@ categories: dutchgov
 
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
-|--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
+|--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[https://deltaprogramma2019.deltacommissaris.nl](https://deltaprogramma2019.deltacommissaris.nl)| **A**| **A**|Apache/2| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server:2|301 Moved Perman...|
+
+
 |[https://deltaprogramma2020.deltacommissaris.nl](https://deltaprogramma2020.deltacommissaris.nl)| **A**| **A**|Apache/2| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server:2|301 Moved Perman...|
+

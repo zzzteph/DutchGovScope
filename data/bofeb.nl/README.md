@@ -19,7 +19,12 @@
 
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
-|--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
+|--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[https://mijn.bofeb.nl](https://mijn.bofeb.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
+
+
 |[https://www.bofeb.nl](https://www.bofeb.nl)| | **F**|nginx|:o: | | | | | | | :white_check_mark: | |Nginx|301 Moved Perman...|
+
+
 |[https://bofeb.nl](https://bofeb.nl)| | **F**|nginx|:o: | | | | | | | :white_check_mark: | |Nginx PHP|Home | BoFEB|
+

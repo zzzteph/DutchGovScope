@@ -19,7 +19,12 @@
 
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
-|--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
+|--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[http://acceptatie.zoek.bodemambities.nl](http://acceptatie.zoek.bodemambities.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
+
+
 |[https://www.bodemambities.nl](https://www.bodemambities.nl)| | **A**|Apache| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server Drupal HSTS PHP|Bodemambities |...|
+
+
 |[https://bodemambities.nl](https://bodemambities.nl)| | **A**|Apache| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS|301 Moved Perman...|
+

@@ -1,3 +1,6 @@
+---
+layout: default
+---
 ## Overview
 This project aims to provide a detailed overview of the digital landscape covered by the Dutch government's bug bounty program. By cataloging and analyzing various aspects of the web infrastructure, it's aim to contribute to the security and robustness of these digital assets.
 ### What is in scope?
@@ -19,7 +22,6 @@ Process for updating this repository is thorough and regular. Here's an overview
 
 
 This structured approach ensures that our repository is always up-to-date and accurately reflects the current digital landscape of the Dutch government.
-In the [`/data`](/data) directory, there's an analysis of security configurations for various resources, including the following information:
  - **URL**
  - **SSL:** Grade from [https://www.ssllabs.com/ssltest/](https://www.ssllabs.com/ssltest/)
  - **HTTP Rank:** Based on HTTP headers statistics from below
@@ -35,9 +37,8 @@ In the [`/data`](/data) directory, there's an analysis of security configuration
 ## Repository Structure
  - [domains.txt](/domains.txt): List of all domains in scope
  - [subdomains.txt](/subdomains.txt): Detailed list of **16336** alive subdomains.
- - [urls.txt](/urls.txt): Compilation of **10054** URLs.
+ - [urls.txt](/urls.txt): Compilation of **10055** URLs.
  - [all_subdomains.txt](/all_subdomains.txt): All **32198** subdomains that were found all over the time 
- - [/data](/data): Folder containing daily updated analysis for every domain.
 ## Links and acknowledgements
  - [basisbeveiliging.nl](https://basisbeveiliging.nl/) \- *How well the Dutch government implements basic security requirements with great security map!*
  - [overheid.nl](https://www.overheid.nl/english/dutch-government-websites)

@@ -19,5 +19,6 @@
 
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
-|--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
+|--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[https://wabes.nl](https://wabes.nl)| | **E**|| | | | | | | | :white_check_mark: | |Next.js Node.js React Webpack|Wabes|
+

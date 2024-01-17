@@ -33,7 +33,12 @@ categories: dutchgov
 
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
-|--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
+|--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[https://www.monitorgelijkwaardigekansen.nl](https://www.monitorgelijkwaardigekansen.nl)| | **D**||:o: |:white_check_mark: | | | | | | :white_check_mark: | |Azure HSTS Inertia.js PHP:7.4.33|GelijkwaardigeKa...|
+
+
 |[https://test645.monitorgelijkwaardigekansen.nl](https://test645.monitorgelijkwaardigekansen.nl)| | **D**||:o: |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Inertia.js PHP:7.4.33|GelijkwaardigeKa...|
+
+
 |[https://monitorgelijkwaardigekansen.nl](https://monitorgelijkwaardigekansen.nl)| | **D**||:o: |:white_check_mark: | | | | | | :white_check_mark: | |Azure HSTS Inertia.js PHP:7.4.33|GelijkwaardigeKa...|
+

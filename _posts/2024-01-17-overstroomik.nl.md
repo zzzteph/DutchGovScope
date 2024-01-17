@@ -33,7 +33,12 @@ categories: dutchgov
 
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
-|--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
+|--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[https://backend.overstroomik.nl](https://backend.overstroomik.nl)| | **C**|uvicorn| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Python Uvicorn||
+
+
 |[https://www.overstroomik.nl](https://www.overstroomik.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |||
+
+
 |[https://overstroomik.nl](https://overstroomik.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|Hoe hoog komt he...|
+

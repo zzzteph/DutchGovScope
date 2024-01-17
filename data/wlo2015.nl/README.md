@@ -19,8 +19,15 @@
 
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
-|--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
+|--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[https://media.wlo2015.nl](https://media.wlo2015.nl)| | **E**|| | | | | | | | :white_check_mark: | |Azure Azure Front Door||
+
+
 |[https://www.wlo2015.nl](https://www.wlo2015.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS MySQL PHP WordPress:6.0.1|Welvaart en Leef...|
+
+
 |[https://media.acc.wlo2015.nl](https://media.acc.wlo2015.nl)| | **E**|| | | | | | | | :white_check_mark: | |Azure Azure Front Door||
+
+
 |[https://wlo2015.nl](https://wlo2015.nl)| | **A**|Microsoft-Azure-Application-Gateway/v2| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | ||301 Moved Perman...|
+

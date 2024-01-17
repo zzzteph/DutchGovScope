@@ -33,6 +33,9 @@ categories: dutchgov
 
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
-|--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
+|--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[http://www.kennisplatformvhg.nl](http://www.kennisplatformvhg.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
+
+
 |[https://kennisplatformvhg.nl](https://kennisplatformvhg.nl)| | **C**|Apache| |:white_check_mark: | | | | | | :white_check_mark: | |Apache HTTP Server HSTS||
+

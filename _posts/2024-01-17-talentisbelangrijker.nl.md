@@ -33,7 +33,12 @@ categories: dutchgov
 
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
-|--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
+|--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[https://feedback.talentisbelangrijker.nl](https://feedback.talentisbelangrijker.nl)| | **E**|| | | | | | | | :white_check_mark: | |Azure HSTS|Startpagina|
+
+
 |[https://www.talentisbelangrijker.nl](https://www.talentisbelangrijker.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET YouTube|Object moved|
+
+
 |[https://talentisbelangrijker.nl](https://talentisbelangrijker.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET YouTube|Object moved|
+

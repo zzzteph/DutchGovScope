@@ -19,6 +19,9 @@
 
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
-|--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
+|--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[https://www.mirta67leenderheidezaarderheiken.nl](https://www.mirta67leenderheidezaarderheiken.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Document Moved|
+
+
 |[https://mirta67leenderheidezaarderheiken.nl](https://mirta67leenderheidezaarderheiken.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Document Moved|
+

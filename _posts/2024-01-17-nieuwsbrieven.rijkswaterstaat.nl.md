@@ -33,7 +33,12 @@ categories: dutchgov
 
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
-|--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
+|--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[https://opendata.nieuwsbrieven.rijkswaterstaat.nl](https://opendata.nieuwsbrieven.rijkswaterstaat.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
+
+
 |[https://nieuwsbrieven.rijkswaterstaat.nl](https://nieuwsbrieven.rijkswaterstaat.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Home | Nieuwsbri...|
+
+
 |[https://feeds.nieuwsbrieven.rijkswaterstaat.nl](https://feeds.nieuwsbrieven.rijkswaterstaat.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
+

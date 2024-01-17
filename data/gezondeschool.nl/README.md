@@ -19,8 +19,15 @@
 
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
-|--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
+|--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[http://sub.gezondeschool.nl](http://sub.gezondeschool.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |||
+
+
 |[http://test.gezondeschool.nl](http://test.gezondeschool.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
+
+
 |[https://www.gezondeschool.nl](https://www.gezondeschool.nl)| | **A**|Apache| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server Drupal HSTS PHP|Gezonde School |...|
+
+
 |[https://gezondeschool.nl](https://gezondeschool.nl)| | **A**|Apache| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS|301 Moved Perman...|
+

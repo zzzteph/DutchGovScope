@@ -19,12 +19,27 @@
 
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
-|--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
+|--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[http://acceptatie.volksgezondheidenzorg.info](http://acceptatie.volksgezondheidenzorg.info)| | **E**|| | | | | | | | :white_check_mark: | |||
+
+
 |[http://acceptatie.costofillnesstool.volksgezondheidenzorg.info](http://acceptatie.costofillnesstool.volksgezondheidenzorg.info)| | **E**|| | | | | | | | :white_check_mark: | |||
+
+
 |[http://acceptatie.kostenvanziektentool.volksgezondheidenzorg.info](http://acceptatie.kostenvanziektentool.volksgezondheidenzorg.info)| | **E**|| | | | | | | | :white_check_mark: | |||
+
+
 |[https://costofillnesstool.volksgezondheidenzorg.info](https://costofillnesstool.volksgezondheidenzorg.info)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |||
+
+
 |[https://kostenvanziektentool.volksgezondheidenzorg.info](https://kostenvanziektentool.volksgezondheidenzorg.info)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |||
+
+
 |[http://test.volksgezondheidenzorg.info](http://test.volksgezondheidenzorg.info)| | **E**|| | | | | | | | :white_check_mark: | |||
+
+
 |[https://www.volksgezondheidenzorg.info](https://www.volksgezondheidenzorg.info)| | **A**|Apache| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS|301 Moved Perman...|
+
+
 |[https://volksgezondheidenzorg.info](https://volksgezondheidenzorg.info)| | **A**|Apache| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS|301 Moved Perman...|
+

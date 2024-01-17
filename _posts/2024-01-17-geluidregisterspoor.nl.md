@@ -33,6 +33,9 @@ categories: dutchgov
 
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
-|--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
+|--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[http://www.geluidregisterspoor.nl](http://www.geluidregisterspoor.nl)| | **F**|Microsoft-IIS/10.0| | | | | | | | :white_check_mark: | |IIS:10.0 Windows Server|Geluid vanwege s...|
+
+
 |[http://geluidregisterspoor.nl](http://geluidregisterspoor.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
+

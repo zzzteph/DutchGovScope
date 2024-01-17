@@ -19,6 +19,9 @@
 
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
-|--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
+|--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[https://www.toegangsociaaldomein.nl](https://www.toegangsociaaldomein.nl)| | **F**|lighttpd|:o: | | | | | | | :white_check_mark: | |PHP lighttpd|Toezicht Sociaal...|
+
+
 |[https://toegangsociaaldomein.nl](https://toegangsociaaldomein.nl)| | **F**|lighttpd|:o: | | | | | | | :white_check_mark: | |lighttpd||
+

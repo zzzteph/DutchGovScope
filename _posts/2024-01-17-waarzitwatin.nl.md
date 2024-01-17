@@ -33,7 +33,12 @@ categories: dutchgov
 
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
-|--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
+|--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[https://staging.waarzitwatin.nl](https://staging.waarzitwatin.nl)| | **F**|CloudFront| | | | | | | | :white_check_mark: | |AWS WAF Captcha Amazon CloudFront Amazon Web Services|Human Verificati...|
+
+
 |[https://www.waarzitwatin.nl](https://www.waarzitwatin.nl)| | **F**|cloudflare| | | | | | | | :white_check_mark: | |Amazon CloudFront Amazon Web Services Cloudflare HSTS HTTP/3|301 Moved Perman...|
+
+
 |[https://waarzitwatin.nl](https://waarzitwatin.nl)| | **F**|CloudFront| | | | | | | | :white_check_mark: | |AWS WAF Captcha Amazon CloudFront Amazon Web Services|Human Verificati...|
+
