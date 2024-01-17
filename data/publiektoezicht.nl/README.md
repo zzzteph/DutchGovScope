@@ -1,15 +1,11 @@
----
-layout: dutchgov
-permalink: /dutchgov/publiektoezicht.nl.html
----
 
 
 # publiektoezicht.nl
 ## Summary data
 
 
-**SSL Grade**:0
-**HTTP Security Grade**:85
+**SSL Grade**:F
+**HTTP Security Grade**:B
 
 
 | File       | Count | Info |
@@ -24,4 +20,4 @@ permalink: /dutchgov/publiektoezicht.nl.html
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://netwerk.publiektoezicht.nl](https://netwerk.publiektoezicht.nl)| | **85**|Apache| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Apache HTTP Server HSTS||
+|[https://netwerk.publiektoezicht.nl](https://netwerk.publiektoezicht.nl)| | **B**|Apache| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Apache HTTP Server HSTS||

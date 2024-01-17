@@ -1,15 +1,11 @@
----
-layout: dutchgov
-permalink: /dutchgov/studeermeteenplan.nl.html
----
 
 
 # studeermeteenplan.nl
 ## Summary data
 
 
-**SSL Grade**:0
-**HTTP Security Grade**:75
+**SSL Grade**:F
+**HTTP Security Grade**:C
 
 
 | File       | Count | Info |
@@ -24,5 +20,5 @@ permalink: /dutchgov/studeermeteenplan.nl.html
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://www.studeermeteenplan.nl](https://www.studeermeteenplan.nl)| | **75**|Apache/2| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server:2 HSTS|301 Moved Perman...|
-|[https://studeermeteenplan.nl](https://studeermeteenplan.nl)| | **75**|Apache/2| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server:2 HSTS|301 Moved Perman...|
+|[https://www.studeermeteenplan.nl](https://www.studeermeteenplan.nl)| | **C**|Apache/2| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server:2 HSTS|301 Moved Perman...|
+|[https://studeermeteenplan.nl](https://studeermeteenplan.nl)| | **C**|Apache/2| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server:2 HSTS|301 Moved Perman...|

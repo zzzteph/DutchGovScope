@@ -1,15 +1,11 @@
----
-layout: dutchgov
-permalink: /dutchgov/royalhonoursanddecorations.nl.html
----
 
 
 # royalhonoursanddecorations.nl
 ## Summary data
 
 
-**SSL Grade**:0
-**HTTP Security Grade**:70
+**SSL Grade**:F
+**HTTP Security Grade**:C
 
 
 | File       | Count | Info |
@@ -24,7 +20,7 @@ permalink: /dutchgov/royalhonoursanddecorations.nl.html
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://feeds.royalhonoursanddecorations.nl](https://feeds.royalhonoursanddecorations.nl)| | **65**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
-|[https://opendata.royalhonoursanddecorations.nl](https://opendata.royalhonoursanddecorations.nl)| | **65**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
-|[https://royalhonoursanddecorations.nl](https://royalhonoursanddecorations.nl)| | **75**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
-|[https://www.royalhonoursanddecorations.nl](https://www.royalhonoursanddecorations.nl)| | **75**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Home | Royal Hon...|
+|[https://feeds.royalhonoursanddecorations.nl](https://feeds.royalhonoursanddecorations.nl)| | **D**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
+|[https://opendata.royalhonoursanddecorations.nl](https://opendata.royalhonoursanddecorations.nl)| | **D**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
+|[https://royalhonoursanddecorations.nl](https://royalhonoursanddecorations.nl)| | **C**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
+|[https://www.royalhonoursanddecorations.nl](https://www.royalhonoursanddecorations.nl)| | **C**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Home | Royal Hon...|

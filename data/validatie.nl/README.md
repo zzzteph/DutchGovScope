@@ -1,15 +1,11 @@
----
-layout: dutchgov
-permalink: /dutchgov/validatie.nl.html
----
 
 
 # validatie.nl
 ## Summary data
 
 
-**SSL Grade**:0
-**HTTP Security Grade**:94
+**SSL Grade**:F
+**HTTP Security Grade**:A
 
 
 | File       | Count | Info |
@@ -24,6 +20,6 @@ permalink: /dutchgov/validatie.nl.html
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://acc.validatie.nl](https://acc.validatie.nl)| | **94**|nginx|:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bootstrap:5.0.2 Django HSTS Nginx Python|Valideer uw docu...|
-|[https://www.validatie.nl](https://www.validatie.nl)| | **94**|nginx|:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bootstrap:3.4.0 Django HSTS Nginx Python|Valideer uw docu...|
-|[https://validatie.nl](https://validatie.nl)| | **94**|nginx|:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bootstrap:3.4.0 Django HSTS Nginx Python|Valideer uw docu...|
+|[https://acc.validatie.nl](https://acc.validatie.nl)| | **A**|nginx|:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bootstrap:5.0.2 Django HSTS Nginx Python|Valideer uw docu...|
+|[https://www.validatie.nl](https://www.validatie.nl)| | **A**|nginx|:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bootstrap:3.4.0 Django HSTS Nginx Python|Valideer uw docu...|
+|[https://validatie.nl](https://validatie.nl)| | **A**|nginx|:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bootstrap:3.4.0 Django HSTS Nginx Python|Valideer uw docu...|

@@ -1,15 +1,11 @@
----
-layout: dutchgov
-permalink: /dutchgov/a27houtenhooipolder.nl.html
----
 
 
 # a27houtenhooipolder.nl
 ## Summary data
 
 
-**SSL Grade**:0
-**HTTP Security Grade**:70
+**SSL Grade**:F
+**HTTP Security Grade**:C
 
 
 | File       | Count | Info |
@@ -24,5 +20,5 @@ permalink: /dutchgov/a27houtenhooipolder.nl.html
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://www.a27houtenhooipolder.nl](https://www.a27houtenhooipolder.nl)| | **70**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET SDL Tridion YouTube|Object moved|
-|[https://a27houtenhooipolder.nl](https://a27houtenhooipolder.nl)| | **70**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET SDL Tridion YouTube|Object moved|
+|[https://www.a27houtenhooipolder.nl](https://www.a27houtenhooipolder.nl)| | **C**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET SDL Tridion YouTube|Object moved|
+|[https://a27houtenhooipolder.nl](https://a27houtenhooipolder.nl)| | **C**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET SDL Tridion YouTube|Object moved|

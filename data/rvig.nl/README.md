@@ -1,15 +1,11 @@
----
-layout: dutchgov
-permalink: /dutchgov/rvig.nl.html
----
 
 
 # rvig.nl
 ## Summary data
 
 
-**SSL Grade**:0
-**HTTP Security Grade**:63.933333333333
+**SSL Grade**:F
+**HTTP Security Grade**:D
 
 
 | File       | Count | Info |
@@ -24,18 +20,18 @@ permalink: /dutchgov/rvig.nl.html
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://acc.rvig.nl](https://acc.rvig.nl)| | **45**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |Basic HSTS Nginx|401 Authorizatio...|
-|[https://acc.intranet.rvig.nl](https://acc.intranet.rvig.nl)| | **45**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Nginx|403 Forbidden|
-|[https://intranet.rvig.nl](https://intranet.rvig.nl)| | **45**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Nginx|403 Forbidden|
-|[https://login.idm.rvig.nl](https://login.idm.rvig.nl)| | **70**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Java||
-|[https://login.npr.idm.rvig.nl](https://login.npr.idm.rvig.nl)| | **80**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Java||
-|[https://prod.rvig.nl](https://prod.rvig.nl)| | **75**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
-|[https://publicaties.rvig.nl](https://publicaties.rvig.nl)| | **89**|wadp2|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache Tomcat Green Valley CMS HSTS Java|Home - Toptaken|
-|[https://rni-webform.rvig.nl](https://rni-webform.rvig.nl)| | **79**||:white_check_mark: |:white_check_mark: | | | :white_check_mark:| | | :white_check_mark: | |HSTS|RNI vooraanmeldi...|
-|[https://rni-webform-acc.rvig.nl](https://rni-webform-acc.rvig.nl)| | **64**||:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|RNI vooraanmeldi...|
-|[https://test.rvig.nl](https://test.rvig.nl)| | **45**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |Basic HSTS Nginx|401 Authorizatio...|
-|[https://test.intranet.rvig.nl](https://test.intranet.rvig.nl)| | **45**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Nginx|403 Forbidden|
-|[https://www.rvig.nl](https://www.rvig.nl)| | **75**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Drupal HSTS Nginx PHP:8.1.27|Home | RvIG|
-|[https://rvig.nl](https://rvig.nl)| | **75**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
-|[https://idapps.npr.idm.rvig.nl](https://idapps.npr.idm.rvig.nl)| | **57**||:warning: |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
-|[https://idbs.npr.idm.rvig.nl](https://idbs.npr.idm.rvig.nl)| | **70**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Java||
+|[https://acc.rvig.nl](https://acc.rvig.nl)| | **F**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |Basic HSTS Nginx|401 Authorizatio...|
+|[https://acc.intranet.rvig.nl](https://acc.intranet.rvig.nl)| | **F**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Nginx|403 Forbidden|
+|[https://intranet.rvig.nl](https://intranet.rvig.nl)| | **F**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Nginx|403 Forbidden|
+|[https://login.idm.rvig.nl](https://login.idm.rvig.nl)| | **C**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Java||
+|[https://login.npr.idm.rvig.nl](https://login.npr.idm.rvig.nl)| | **B**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Java||
+|[https://prod.rvig.nl](https://prod.rvig.nl)| | **C**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
+|[https://publicaties.rvig.nl](https://publicaties.rvig.nl)| | **B**|wadp2|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache Tomcat Green Valley CMS HSTS Java|Home - Toptaken|
+|[https://rni-webform.rvig.nl](https://rni-webform.rvig.nl)| | **C**||:white_check_mark: |:white_check_mark: | | | :white_check_mark:| | | :white_check_mark: | |HSTS|RNI vooraanmeldi...|
+|[https://rni-webform-acc.rvig.nl](https://rni-webform-acc.rvig.nl)| | **D**||:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|RNI vooraanmeldi...|
+|[https://test.rvig.nl](https://test.rvig.nl)| | **F**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |Basic HSTS Nginx|401 Authorizatio...|
+|[https://test.intranet.rvig.nl](https://test.intranet.rvig.nl)| | **F**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Nginx|403 Forbidden|
+|[https://www.rvig.nl](https://www.rvig.nl)| | **C**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Drupal HSTS Nginx PHP:8.1.27|Home | RvIG|
+|[https://rvig.nl](https://rvig.nl)| | **C**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
+|[https://idapps.npr.idm.rvig.nl](https://idapps.npr.idm.rvig.nl)| | **E**||:warning: |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
+|[https://idbs.npr.idm.rvig.nl](https://idbs.npr.idm.rvig.nl)| | **C**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Java||

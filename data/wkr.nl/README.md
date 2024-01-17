@@ -1,15 +1,11 @@
----
-layout: dutchgov
-permalink: /dutchgov/wkr.nl.html
----
 
 
 # wkr.nl
 ## Summary data
 
 
-**SSL Grade**:0
-**HTTP Security Grade**:70
+**SSL Grade**:F
+**HTTP Security Grade**:C
 
 
 | File       | Count | Info |
@@ -24,7 +20,7 @@ permalink: /dutchgov/wkr.nl.html
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://www.wkr.nl](https://www.wkr.nl)| | **75**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Home | Wetenscha...|
-|[https://wkr.nl](https://wkr.nl)| | **75**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
-|[https://feeds.wkr.nl](https://feeds.wkr.nl)| | **65**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
-|[https://opendata.wkr.nl](https://opendata.wkr.nl)| | **65**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
+|[https://www.wkr.nl](https://www.wkr.nl)| | **C**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Home | Wetenscha...|
+|[https://wkr.nl](https://wkr.nl)| | **C**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
+|[https://feeds.wkr.nl](https://feeds.wkr.nl)| | **D**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
+|[https://opendata.wkr.nl](https://opendata.wkr.nl)| | **D**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||

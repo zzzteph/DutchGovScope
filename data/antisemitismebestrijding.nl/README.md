@@ -1,15 +1,11 @@
----
-layout: dutchgov
-permalink: /dutchgov/antisemitismebestrijding.nl.html
----
 
 
 # antisemitismebestrijding.nl
 ## Summary data
 
 
-**SSL Grade**:70
-**HTTP Security Grade**:55
+**SSL Grade**:B
+**HTTP Security Grade**:E
 
 
 | File       | Count | Info |
@@ -24,5 +20,5 @@ permalink: /dutchgov/antisemitismebestrijding.nl.html
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://www.antisemitismebestrijding.nl](https://www.antisemitismebestrijding.nl)| **B**| **80**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
-|[https://antisemitismebestrijding.nl](https://antisemitismebestrijding.nl)| **B**| **30**|| | | | | | | | :white_check_mark: | |HSTS||
+|[https://www.antisemitismebestrijding.nl](https://www.antisemitismebestrijding.nl)| **B**| **B**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
+|[https://antisemitismebestrijding.nl](https://antisemitismebestrijding.nl)| **B**| **F**|| | | | | | | | :white_check_mark: | |HSTS||

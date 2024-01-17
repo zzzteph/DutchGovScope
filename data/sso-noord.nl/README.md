@@ -1,15 +1,11 @@
----
-layout: dutchgov
-permalink: /dutchgov/sso-noord.nl.html
----
 
 
 # sso-noord.nl
 ## Summary data
 
 
-**SSL Grade**:0
-**HTTP Security Grade**:41.666666666667
+**SSL Grade**:F
+**HTTP Security Grade**:F
 
 
 | File       | Count | Info |
@@ -24,6 +20,6 @@ permalink: /dutchgov/sso-noord.nl.html
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://vpn.cloud.sso-noord.nl](https://vpn.cloud.sso-noord.nl)| | **35**|OpenVPN-AS| | | | | | :white_check_mark: | | :white_check_mark: | |||
-|[https://www.sso-noord.nl](https://www.sso-noord.nl)| | **45**|Apache| |:white_check_mark: | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|Shared Service O...|
-|[https://sso-noord.nl](https://sso-noord.nl)| | **45**|Apache| |:white_check_mark: | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|Shared Service O...|
+|[https://vpn.cloud.sso-noord.nl](https://vpn.cloud.sso-noord.nl)| | **F**|OpenVPN-AS| | | | | | :white_check_mark: | | :white_check_mark: | |||
+|[https://www.sso-noord.nl](https://www.sso-noord.nl)| | **F**|Apache| |:white_check_mark: | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|Shared Service O...|
+|[https://sso-noord.nl](https://sso-noord.nl)| | **F**|Apache| |:white_check_mark: | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|Shared Service O...|

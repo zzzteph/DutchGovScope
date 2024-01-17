@@ -1,15 +1,11 @@
----
-layout: dutchgov
-permalink: /dutchgov/gezondeleefomgeving.nl.html
----
 
 
 # gezondeleefomgeving.nl
 ## Summary data
 
 
-**SSL Grade**:0
-**HTTP Security Grade**:53.333333333333
+**SSL Grade**:F
+**HTTP Security Grade**:E
 
 
 | File       | Count | Info |
@@ -24,6 +20,6 @@ permalink: /dutchgov/gezondeleefomgeving.nl.html
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://www.gezondeleefomgeving.nl](https://www.gezondeleefomgeving.nl)| | **65**|Apache| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server Drupal HSTS PHP|Home | Gezonde L...|
-|[https://gezondeleefomgeving.nl](https://gezondeleefomgeving.nl)| | **65**|Apache| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS|301 Moved Perman...|
-|[http://bibliotheek.gezondeleefomgeving.nl](http://bibliotheek.gezondeleefomgeving.nl)| | **30**|| | | | | | | | :white_check_mark: | |||
+|[https://www.gezondeleefomgeving.nl](https://www.gezondeleefomgeving.nl)| | **D**|Apache| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server Drupal HSTS PHP|Home | Gezonde L...|
+|[https://gezondeleefomgeving.nl](https://gezondeleefomgeving.nl)| | **D**|Apache| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS|301 Moved Perman...|
+|[http://bibliotheek.gezondeleefomgeving.nl](http://bibliotheek.gezondeleefomgeving.nl)| | **F**|| | | | | | | | :white_check_mark: | |||

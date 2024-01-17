@@ -1,14 +1,38 @@
 ---
-layout: post
+layout: default
 title: "informatiehuismarien.nl"
-internal_url: "/dutchgov/informatiehuismarien.nl.html"
+permalink: "/dutchgov/informatiehuismarien.nl.html"
 subdomains_count: 2
 all_subdomains_count: 2
 urls_count: 2
-ssl_rank: 0
-http_rank: 85
+ssl_rank: F
+http_rank: B
 url_link: /data/informatiehuismarien.nl/urls.txt
 all_subdomains_link: /data/informatiehuismarien.nl/all_subdomains.txt
 subdomains_link: /data/informatiehuismarien.nl/subdomains.txt
 categories: dutchgov
 ---
+
+
+# informatiehuismarien.nl
+## Summary data
+
+
+**SSL Grade**:F
+**HTTP Security Grade**:B
+
+
+| File       | Count | Info |
+|------------|-------|------|
+|[subdomains.txt](/data/informatiehuismarien.nl/subdomains.txt)|2|Alive subdomains|
+|[urls.txt](/data/informatiehuismarien.nl/urls.txt)|2|Urls|
+|[all_subdomains.txt](/data/informatiehuismarien.nl/all_subdomains.txt)|2|All found subdomains (history)|
+
+
+## Statistics
+
+
+| Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
+|--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
+|[https://www.informatiehuismarien.nl](https://www.informatiehuismarien.nl)| | **B**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:-|Home - Informati...|
+|[https://informatiehuismarien.nl](https://informatiehuismarien.nl)| | **B**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:-|Object moved|

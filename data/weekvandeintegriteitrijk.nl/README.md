@@ -1,15 +1,11 @@
----
-layout: dutchgov
-permalink: /dutchgov/weekvandeintegriteitrijk.nl.html
----
 
 
 # weekvandeintegriteitrijk.nl
 ## Summary data
 
 
-**SSL Grade**:0
-**HTTP Security Grade**:89
+**SSL Grade**:F
+**HTTP Security Grade**:B
 
 
 | File       | Count | Info |
@@ -24,5 +20,5 @@ permalink: /dutchgov/weekvandeintegriteitrijk.nl.html
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://weekvandeintegriteitrijk.nl](https://weekvandeintegriteitrijk.nl)| | **89**|Apache/2|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server:2 HSTS|301 Moved Perman...|
-|[https://www.weekvandeintegriteitrijk.nl](https://www.weekvandeintegriteitrijk.nl)| | **89**|Apache/2|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server:2 Bootstrap HSTS|Programma - De W...|
+|[https://weekvandeintegriteitrijk.nl](https://weekvandeintegriteitrijk.nl)| | **B**|Apache/2|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server:2 HSTS|301 Moved Perman...|
+|[https://www.weekvandeintegriteitrijk.nl](https://www.weekvandeintegriteitrijk.nl)| | **B**|Apache/2|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server:2 Bootstrap HSTS|Programma - De W...|

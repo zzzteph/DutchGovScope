@@ -1,14 +1,39 @@
 ---
-layout: post
+layout: default
 title: "schoneluchtakkoord.nl"
-internal_url: "/dutchgov/schoneluchtakkoord.nl.html"
+permalink: "/dutchgov/schoneluchtakkoord.nl.html"
 subdomains_count: 3
 all_subdomains_count: 4
 urls_count: 3
-ssl_rank: 0
-http_rank: 81.333333333333
+ssl_rank: F
+http_rank: B
 url_link: /data/schoneluchtakkoord.nl/urls.txt
 all_subdomains_link: /data/schoneluchtakkoord.nl/all_subdomains.txt
 subdomains_link: /data/schoneluchtakkoord.nl/subdomains.txt
 categories: dutchgov
 ---
+
+
+# schoneluchtakkoord.nl
+## Summary data
+
+
+**SSL Grade**:F
+**HTTP Security Grade**:B
+
+
+| File       | Count | Info |
+|------------|-------|------|
+|[subdomains.txt](/data/schoneluchtakkoord.nl/subdomains.txt)|3|Alive subdomains|
+|[urls.txt](/data/schoneluchtakkoord.nl/urls.txt)|3|Urls|
+|[all_subdomains.txt](/data/schoneluchtakkoord.nl/all_subdomains.txt)|4|All found subdomains (history)|
+
+
+## Statistics
+
+
+| Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
+|--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
+|[https://samenwerken.schoneluchtakkoord.nl](https://samenwerken.schoneluchtakkoord.nl)| | **B**||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Object moved|
+|[https://www.schoneluchtakkoord.nl](https://www.schoneluchtakkoord.nl)| | **B**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:-|Home - Schone lu...|
+|[https://schoneluchtakkoord.nl](https://schoneluchtakkoord.nl)| | **B**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:-|Object moved|

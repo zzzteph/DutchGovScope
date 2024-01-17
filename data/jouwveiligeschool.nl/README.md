@@ -1,15 +1,11 @@
----
-layout: dutchgov
-permalink: /dutchgov/jouwveiligeschool.nl.html
----
 
 
 # jouwveiligeschool.nl
 ## Summary data
 
 
-**SSL Grade**:0
-**HTTP Security Grade**:55
+**SSL Grade**:F
+**HTTP Security Grade**:E
 
 
 | File       | Count | Info |
@@ -24,5 +20,5 @@ permalink: /dutchgov/jouwveiligeschool.nl.html
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://jouwveiligeschool.nl](https://jouwveiligeschool.nl)| | **55**|Apache| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS|301 Moved Perman...|
-|[https://www.jouwveiligeschool.nl](https://www.jouwveiligeschool.nl)| | **55**|Apache| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server Drupal:9 HSTS PHP|Wegwijzer voor i...|
+|[https://jouwveiligeschool.nl](https://jouwveiligeschool.nl)| | **E**|Apache| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS|301 Moved Perman...|
+|[https://www.jouwveiligeschool.nl](https://www.jouwveiligeschool.nl)| | **E**|Apache| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server Drupal:9 HSTS PHP|Wegwijzer voor i...|

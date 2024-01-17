@@ -1,15 +1,11 @@
----
-layout: dutchgov
-permalink: /dutchgov/carbonbudgetexplorer.nl.html
----
 
 
 # carbonbudgetexplorer.nl
 ## Summary data
 
 
-**SSL Grade**:0
-**HTTP Security Grade**:60
+**SSL Grade**:F
+**HTTP Security Grade**:D
 
 
 | File       | Count | Info |
@@ -24,5 +20,5 @@ permalink: /dutchgov/carbonbudgetexplorer.nl.html
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://carbonbudgetexplorer.nl](https://carbonbudgetexplorer.nl)| | **60**|| |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | |HSTS||
-|[https://www.carbonbudgetexplorer.nl](https://www.carbonbudgetexplorer.nl)| | **60**|| |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | |HSTS||
+|[https://carbonbudgetexplorer.nl](https://carbonbudgetexplorer.nl)| | **D**|| |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | |HSTS||
+|[https://www.carbonbudgetexplorer.nl](https://www.carbonbudgetexplorer.nl)| | **D**|| |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | |HSTS||

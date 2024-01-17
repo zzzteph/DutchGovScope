@@ -1,15 +1,11 @@
----
-layout: dutchgov
-permalink: /dutchgov/datachallenge.nl.html
----
 
 
 # datachallenge.nl
 ## Summary data
 
 
-**SSL Grade**:0
-**HTTP Security Grade**:25
+**SSL Grade**:F
+**HTTP Security Grade**:F
 
 
 | File       | Count | Info |
@@ -24,6 +20,6 @@ permalink: /dutchgov/datachallenge.nl.html
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://mail.datachallenge.nl](https://mail.datachallenge.nl)| | **25**|Apache/2| | | | | | | | :white_check_mark: | |Apache HTTP Server:2 MySQL PHP WordPress||
-|[https://www.datachallenge.nl](https://www.datachallenge.nl)| | **25**|Apache/2| | | | | | | | :white_check_mark: | |Apache HTTP Server:2|Data Challenge S...|
-|[https://datachallenge.nl](https://datachallenge.nl)| | **25**|Apache/2| | | | | | | | :white_check_mark: | |Apache HTTP Server:2|Data Challenge S...|
+|[https://mail.datachallenge.nl](https://mail.datachallenge.nl)| | **F**|Apache/2| | | | | | | | :white_check_mark: | |Apache HTTP Server:2 MySQL PHP WordPress||
+|[https://www.datachallenge.nl](https://www.datachallenge.nl)| | **F**|Apache/2| | | | | | | | :white_check_mark: | |Apache HTTP Server:2|Data Challenge S...|
+|[https://datachallenge.nl](https://datachallenge.nl)| | **F**|Apache/2| | | | | | | | :white_check_mark: | |Apache HTTP Server:2|Data Challenge S...|

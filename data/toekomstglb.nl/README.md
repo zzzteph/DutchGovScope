@@ -1,15 +1,11 @@
----
-layout: dutchgov
-permalink: /dutchgov/toekomstglb.nl.html
----
 
 
 # toekomstglb.nl
 ## Summary data
 
 
-**SSL Grade**:0
-**HTTP Security Grade**:70
+**SSL Grade**:F
+**HTTP Security Grade**:C
 
 
 | File       | Count | Info |
@@ -24,7 +20,7 @@ permalink: /dutchgov/toekomstglb.nl.html
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://feeds.toekomstglb.nl](https://feeds.toekomstglb.nl)| | **65**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
-|[https://opendata.toekomstglb.nl](https://opendata.toekomstglb.nl)| | **65**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
-|[https://www.toekomstglb.nl](https://www.toekomstglb.nl)| | **75**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Home | Toekomst...|
-|[https://toekomstglb.nl](https://toekomstglb.nl)| | **75**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
+|[https://feeds.toekomstglb.nl](https://feeds.toekomstglb.nl)| | **D**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
+|[https://opendata.toekomstglb.nl](https://opendata.toekomstglb.nl)| | **D**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
+|[https://www.toekomstglb.nl](https://www.toekomstglb.nl)| | **C**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Home | Toekomst...|
+|[https://toekomstglb.nl](https://toekomstglb.nl)| | **C**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|

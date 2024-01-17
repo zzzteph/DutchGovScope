@@ -1,15 +1,11 @@
----
-layout: dutchgov
-permalink: /dutchgov/microfoonbanden.nl.html
----
 
 
 # microfoonbanden.nl
 ## Summary data
 
 
-**SSL Grade**:0
-**HTTP Security Grade**:75
+**SSL Grade**:F
+**HTTP Security Grade**:C
 
 
 | File       | Count | Info |
@@ -24,5 +20,5 @@ permalink: /dutchgov/microfoonbanden.nl.html
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://www.microfoonbanden.nl](https://www.microfoonbanden.nl)| | **75**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|Frequentiebanden...|
-|[https://microfoonbanden.nl](https://microfoonbanden.nl)| | **75**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|Frequentiebanden...|
+|[https://www.microfoonbanden.nl](https://www.microfoonbanden.nl)| | **C**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|Frequentiebanden...|
+|[https://microfoonbanden.nl](https://microfoonbanden.nl)| | **C**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|Frequentiebanden...|

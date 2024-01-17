@@ -1,15 +1,11 @@
----
-layout: dutchgov
-permalink: /dutchgov/nationalebijenstrategie.nl.html
----
 
 
 # nationalebijenstrategie.nl
 ## Summary data
 
 
-**SSL Grade**:0
-**HTTP Security Grade**:70
+**SSL Grade**:F
+**HTTP Security Grade**:C
 
 
 | File       | Count | Info |
@@ -24,7 +20,7 @@ permalink: /dutchgov/nationalebijenstrategie.nl.html
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://nationalebijenstrategie.nl](https://nationalebijenstrategie.nl)| | **75**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
-|[https://www.nationalebijenstrategie.nl](https://www.nationalebijenstrategie.nl)| | **75**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Homepage van de...|
-|[https://feeds.nationalebijenstrategie.nl](https://feeds.nationalebijenstrategie.nl)| | **65**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
-|[https://opendata.nationalebijenstrategie.nl](https://opendata.nationalebijenstrategie.nl)| | **65**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
+|[https://nationalebijenstrategie.nl](https://nationalebijenstrategie.nl)| | **C**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
+|[https://www.nationalebijenstrategie.nl](https://www.nationalebijenstrategie.nl)| | **C**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Homepage van de...|
+|[https://feeds.nationalebijenstrategie.nl](https://feeds.nationalebijenstrategie.nl)| | **D**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
+|[https://opendata.nationalebijenstrategie.nl](https://opendata.nationalebijenstrategie.nl)| | **D**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||

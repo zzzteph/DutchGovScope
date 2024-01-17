@@ -1,15 +1,11 @@
----
-layout: dutchgov
-permalink: /dutchgov/samenwerkenaanontwerpkracht.nl.html
----
 
 
 # samenwerkenaanontwerpkracht.nl
 ## Summary data
 
 
-**SSL Grade**:0
-**HTTP Security Grade**:25
+**SSL Grade**:F
+**HTTP Security Grade**:F
 
 
 | File       | Count | Info |
@@ -24,5 +20,5 @@ permalink: /dutchgov/samenwerkenaanontwerpkracht.nl.html
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://www.samenwerkenaanontwerpkracht.nl](https://www.samenwerkenaanontwerpkracht.nl)| | **25**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|Domein niet gevo...|
-|[https://samenwerkenaanontwerpkracht.nl](https://samenwerkenaanontwerpkracht.nl)| | **25**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|Domein niet gevo...|
+|[https://www.samenwerkenaanontwerpkracht.nl](https://www.samenwerkenaanontwerpkracht.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|Domein niet gevo...|
+|[https://samenwerkenaanontwerpkracht.nl](https://samenwerkenaanontwerpkracht.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|Domein niet gevo...|

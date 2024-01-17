@@ -1,15 +1,11 @@
----
-layout: dutchgov
-permalink: /dutchgov/registerexterneveiligheid.nl.html
----
 
 
 # registerexterneveiligheid.nl
 ## Summary data
 
 
-**SSL Grade**:0
-**HTTP Security Grade**:55
+**SSL Grade**:F
+**HTTP Security Grade**:E
 
 
 | File       | Count | Info |
@@ -24,5 +20,5 @@ permalink: /dutchgov/registerexterneveiligheid.nl.html
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://www.registerexterneveiligheid.nl](https://www.registerexterneveiligheid.nl)| | **55**|Apache| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server Drupal HSTS PHP SDL Tridion|Register Externe...|
-|[https://registerexterneveiligheid.nl](https://registerexterneveiligheid.nl)| | **55**|Apache| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS|301 Moved Perman...|
+|[https://www.registerexterneveiligheid.nl](https://www.registerexterneveiligheid.nl)| | **E**|Apache| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server Drupal HSTS PHP SDL Tridion|Register Externe...|
+|[https://registerexterneveiligheid.nl](https://registerexterneveiligheid.nl)| | **E**|Apache| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS|301 Moved Perman...|

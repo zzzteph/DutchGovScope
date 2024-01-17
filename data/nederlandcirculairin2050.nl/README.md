@@ -1,15 +1,11 @@
----
-layout: dutchgov
-permalink: /dutchgov/nederlandcirculairin2050.nl.html
----
 
 
 # nederlandcirculairin2050.nl
 ## Summary data
 
 
-**SSL Grade**:0
-**HTTP Security Grade**:70
+**SSL Grade**:F
+**HTTP Security Grade**:C
 
 
 | File       | Count | Info |
@@ -24,7 +20,7 @@ permalink: /dutchgov/nederlandcirculairin2050.nl.html
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://www.nederlandcirculairin2050.nl](https://www.nederlandcirculairin2050.nl)| | **75**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Nederland circul...|
-|[https://feeds.nederlandcirculairin2050.nl](https://feeds.nederlandcirculairin2050.nl)| | **65**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
-|[https://nederlandcirculairin2050.nl](https://nederlandcirculairin2050.nl)| | **75**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
-|[https://opendata.nederlandcirculairin2050.nl](https://opendata.nederlandcirculairin2050.nl)| | **65**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
+|[https://www.nederlandcirculairin2050.nl](https://www.nederlandcirculairin2050.nl)| | **C**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Nederland circul...|
+|[https://feeds.nederlandcirculairin2050.nl](https://feeds.nederlandcirculairin2050.nl)| | **D**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
+|[https://nederlandcirculairin2050.nl](https://nederlandcirculairin2050.nl)| | **C**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
+|[https://opendata.nederlandcirculairin2050.nl](https://opendata.nederlandcirculairin2050.nl)| | **D**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||

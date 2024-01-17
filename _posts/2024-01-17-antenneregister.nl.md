@@ -1,14 +1,39 @@
 ---
-layout: post
+layout: default
 title: "antenneregister.nl"
-internal_url: "/dutchgov/antenneregister.nl.html"
+permalink: "/dutchgov/antenneregister.nl.html"
 subdomains_count: 5
 all_subdomains_count: 9
 urls_count: 3
-ssl_rank: 0
-http_rank: 63.333333333333
+ssl_rank: F
+http_rank: D
 url_link: /data/antenneregister.nl/urls.txt
 all_subdomains_link: /data/antenneregister.nl/all_subdomains.txt
 subdomains_link: /data/antenneregister.nl/subdomains.txt
 categories: dutchgov
 ---
+
+
+# antenneregister.nl
+## Summary data
+
+
+**SSL Grade**:F
+**HTTP Security Grade**:D
+
+
+| File       | Count | Info |
+|------------|-------|------|
+|[subdomains.txt](/data/antenneregister.nl/subdomains.txt)|5|Alive subdomains|
+|[urls.txt](/data/antenneregister.nl/urls.txt)|3|Urls|
+|[all_subdomains.txt](/data/antenneregister.nl/all_subdomains.txt)|9|All found subdomains (history)|
+
+
+## Statistics
+
+
+| Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
+|--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
+|[https://antenneregister.nl](https://antenneregister.nl)| | **B**||:o: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Document Moved|
+|[http://acc.antenneregister.nl](http://acc.antenneregister.nl)| | **F**|| | | | | | | | :white_check_mark: | |||
+|[https://www.antenneregister.nl](https://www.antenneregister.nl)| | **B**||:o: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Document Moved|

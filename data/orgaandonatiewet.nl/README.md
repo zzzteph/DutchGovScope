@@ -1,15 +1,11 @@
----
-layout: dutchgov
-permalink: /dutchgov/orgaandonatiewet.nl.html
----
 
 
 # orgaandonatiewet.nl
 ## Summary data
 
 
-**SSL Grade**:0
-**HTTP Security Grade**:75
+**SSL Grade**:F
+**HTTP Security Grade**:C
 
 
 | File       | Count | Info |
@@ -24,5 +20,5 @@ permalink: /dutchgov/orgaandonatiewet.nl.html
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://orgaandonatiewet.nl](https://orgaandonatiewet.nl)| | **75**|Microsoft-IIS/10.0| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS IIS:10.0 Windows Server|Document Moved|
-|[https://www.orgaandonatiewet.nl](https://www.orgaandonatiewet.nl)| | **75**|Microsoft-IIS/10.0| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS IIS:10.0 Windows Server|Document Moved|
+|[https://orgaandonatiewet.nl](https://orgaandonatiewet.nl)| | **C**|Microsoft-IIS/10.0| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS IIS:10.0 Windows Server|Document Moved|
+|[https://www.orgaandonatiewet.nl](https://www.orgaandonatiewet.nl)| | **C**|Microsoft-IIS/10.0| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS IIS:10.0 Windows Server|Document Moved|

@@ -1,15 +1,11 @@
----
-layout: dutchgov
-permalink: /dutchgov/slimmezorgestafette.nl.html
----
 
 
 # slimmezorgestafette.nl
 ## Summary data
 
 
-**SSL Grade**:0
-**HTTP Security Grade**:85
+**SSL Grade**:F
+**HTTP Security Grade**:B
 
 
 | File       | Count | Info |
@@ -24,5 +20,5 @@ permalink: /dutchgov/slimmezorgestafette.nl.html
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://www.slimmezorgestafette.nl](https://www.slimmezorgestafette.nl)| | **85**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx|De Slimme Zorg E...|
-|[https://slimmezorgestafette.nl](https://slimmezorgestafette.nl)| | **85**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx|De Slimme Zorg E...|
+|[https://www.slimmezorgestafette.nl](https://www.slimmezorgestafette.nl)| | **B**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx|De Slimme Zorg E...|
+|[https://slimmezorgestafette.nl](https://slimmezorgestafette.nl)| | **B**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx|De Slimme Zorg E...|

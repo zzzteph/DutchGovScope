@@ -1,15 +1,11 @@
----
-layout: dutchgov
-permalink: /dutchgov/emm-online.nl.html
----
 
 
 # emm-online.nl
 ## Summary data
 
 
-**SSL Grade**:100
-**HTTP Security Grade**:70
+**SSL Grade**:A+
+**HTTP Security Grade**:C
 
 
 | File       | Count | Info |
@@ -24,7 +20,7 @@ permalink: /dutchgov/emm-online.nl.html
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://emm-online.nl](https://emm-online.nl)| **A+**| **75**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
-|[https://feeds.emm-online.nl](https://feeds.emm-online.nl)| **A+**| **65**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
-|[https://opendata.emm-online.nl](https://opendata.emm-online.nl)| **A+**| **65**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
-|[https://www.emm-online.nl](https://www.emm-online.nl)| **A+**| **75**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Home | Expertise...|
+|[https://emm-online.nl](https://emm-online.nl)| **A+**| **C**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
+|[https://feeds.emm-online.nl](https://feeds.emm-online.nl)| **A+**| **D**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
+|[https://opendata.emm-online.nl](https://opendata.emm-online.nl)| **A+**| **D**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
+|[https://www.emm-online.nl](https://www.emm-online.nl)| **A+**| **C**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Home | Expertise...|

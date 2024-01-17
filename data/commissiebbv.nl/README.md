@@ -1,15 +1,11 @@
----
-layout: dutchgov
-permalink: /dutchgov/commissiebbv.nl.html
----
 
 
 # commissiebbv.nl
 ## Summary data
 
 
-**SSL Grade**:0
-**HTTP Security Grade**:94
+**SSL Grade**:F
+**HTTP Security Grade**:A
 
 
 | File       | Count | Info |
@@ -24,5 +20,5 @@ permalink: /dutchgov/commissiebbv.nl.html
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://www.commissiebbv.nl](https://www.commissiebbv.nl)| | **94**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
-|[https://commissiebbv.nl](https://commissiebbv.nl)| | **94**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache Tomcat Fourthwall:1.0.0 HSTS Java MariaDB Skolengo:1.0.0|Commissie BBV (B...|
+|[https://www.commissiebbv.nl](https://www.commissiebbv.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
+|[https://commissiebbv.nl](https://commissiebbv.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache Tomcat Fourthwall:1.0.0 HSTS Java MariaDB Skolengo:1.0.0|Commissie BBV (B...|

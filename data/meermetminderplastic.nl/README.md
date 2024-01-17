@@ -1,15 +1,11 @@
----
-layout: dutchgov
-permalink: /dutchgov/meermetminderplastic.nl.html
----
 
 
 # meermetminderplastic.nl
 ## Summary data
 
 
-**SSL Grade**:0
-**HTTP Security Grade**:28
+**SSL Grade**:F
+**HTTP Security Grade**:F
 
 
 | File       | Count | Info |
@@ -24,7 +20,7 @@ permalink: /dutchgov/meermetminderplastic.nl.html
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://forum.meermetminderplastic.nl](https://forum.meermetminderplastic.nl)| | **32**|nginx|:warning: | | | | | | | :white_check_mark: | |HSTS Nginx||
-|[https://monitoring.meermetminderplastic.nl](https://monitoring.meermetminderplastic.nl)| | **30**|| | | | | | | | :white_check_mark: | |Azure HSTS Microsoft ASP.NET|Object moved|
-|[https://www.meermetminderplastic.nl](https://www.meermetminderplastic.nl)| | **25**|nginx| | | | | | | | :white_check_mark: | |MailChimp Nginx PHP Pimcore|Meer met minder...|
-|[https://meermetminderplastic.nl](https://meermetminderplastic.nl)| | **25**|nginx| | | | | | | | :white_check_mark: | |Nginx PHP Pimcore|Redirecting to h...|
+|[https://forum.meermetminderplastic.nl](https://forum.meermetminderplastic.nl)| | **F**|nginx|:warning: | | | | | | | :white_check_mark: | |HSTS Nginx||
+|[https://monitoring.meermetminderplastic.nl](https://monitoring.meermetminderplastic.nl)| | **F**|| | | | | | | | :white_check_mark: | |Azure HSTS Microsoft ASP.NET|Object moved|
+|[https://www.meermetminderplastic.nl](https://www.meermetminderplastic.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |MailChimp Nginx PHP Pimcore|Meer met minder...|
+|[https://meermetminderplastic.nl](https://meermetminderplastic.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx PHP Pimcore|Redirecting to h...|

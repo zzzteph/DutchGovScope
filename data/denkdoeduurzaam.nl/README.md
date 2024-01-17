@@ -1,15 +1,11 @@
----
-layout: dutchgov
-permalink: /dutchgov/denkdoeduurzaam.nl.html
----
 
 
 # denkdoeduurzaam.nl
 ## Summary data
 
 
-**SSL Grade**:100
-**HTTP Security Grade**:70
+**SSL Grade**:A+
+**HTTP Security Grade**:C
 
 
 | File       | Count | Info |
@@ -24,7 +20,7 @@ permalink: /dutchgov/denkdoeduurzaam.nl.html
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://feeds.denkdoeduurzaam.nl](https://feeds.denkdoeduurzaam.nl)| **A+**| **65**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
-|[https://opendata.denkdoeduurzaam.nl](https://opendata.denkdoeduurzaam.nl)| **A+**| **65**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
-|[https://www.denkdoeduurzaam.nl](https://www.denkdoeduurzaam.nl)| **A+**| **75**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Home | Denk Doe...|
-|[https://denkdoeduurzaam.nl](https://denkdoeduurzaam.nl)| **A+**| **75**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
+|[https://feeds.denkdoeduurzaam.nl](https://feeds.denkdoeduurzaam.nl)| **A+**| **D**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
+|[https://opendata.denkdoeduurzaam.nl](https://opendata.denkdoeduurzaam.nl)| **A+**| **D**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
+|[https://www.denkdoeduurzaam.nl](https://www.denkdoeduurzaam.nl)| **A+**| **C**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Home | Denk Doe...|
+|[https://denkdoeduurzaam.nl](https://denkdoeduurzaam.nl)| **A+**| **C**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|

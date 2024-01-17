@@ -1,15 +1,11 @@
----
-layout: dutchgov
-permalink: /dutchgov/rijksbrededienstverleners.nl.html
----
 
 
 # rijksbrededienstverleners.nl
 ## Summary data
 
 
-**SSL Grade**:0
-**HTTP Security Grade**:45
+**SSL Grade**:F
+**HTTP Security Grade**:F
 
 
 | File       | Count | Info |
@@ -24,5 +20,5 @@ permalink: /dutchgov/rijksbrededienstverleners.nl.html
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://www.rijksbrededienstverleners.nl](https://www.rijksbrededienstverleners.nl)| | **45**|Apache| |:white_check_mark: | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|Landschapskaart...|
-|[https://rijksbrededienstverleners.nl](https://rijksbrededienstverleners.nl)| | **45**|Apache| |:white_check_mark: | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|301 Moved Perman...|
+|[https://www.rijksbrededienstverleners.nl](https://www.rijksbrededienstverleners.nl)| | **F**|Apache| |:white_check_mark: | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|Landschapskaart...|
+|[https://rijksbrededienstverleners.nl](https://rijksbrededienstverleners.nl)| | **F**|Apache| |:white_check_mark: | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|301 Moved Perman...|

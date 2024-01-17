@@ -1,15 +1,11 @@
----
-layout: dutchgov
-permalink: /dutchgov/aanpakstikstof.nl.html
----
 
 
 # aanpakstikstof.nl
 ## Summary data
 
 
-**SSL Grade**:100
-**HTTP Security Grade**:80
+**SSL Grade**:A+
+**HTTP Security Grade**:B
 
 
 | File       | Count | Info |
@@ -24,5 +20,5 @@ permalink: /dutchgov/aanpakstikstof.nl.html
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://www.aanpakstikstof.nl](https://www.aanpakstikstof.nl)| **A+**| **80**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
-|[https://aanpakstikstof.nl](https://aanpakstikstof.nl)| **A+**| **80**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
+|[https://www.aanpakstikstof.nl](https://www.aanpakstikstof.nl)| **A+**| **B**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
+|[https://aanpakstikstof.nl](https://aanpakstikstof.nl)| **A+**| **B**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||

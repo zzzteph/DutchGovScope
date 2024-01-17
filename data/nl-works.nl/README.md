@@ -1,15 +1,11 @@
----
-layout: dutchgov
-permalink: /dutchgov/nl-works.nl.html
----
 
 
 # nl-works.nl
 ## Summary data
 
 
-**SSL Grade**:0
-**HTTP Security Grade**:30
+**SSL Grade**:F
+**HTTP Security Grade**:F
 
 
 | File       | Count | Info |
@@ -24,5 +20,5 @@ permalink: /dutchgov/nl-works.nl.html
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://www.nl-works.nl](https://www.nl-works.nl)| | **30**|| | | | | | | | :white_check_mark: | |HSTS|Domeinnaam nog n...|
-|[https://nl-works.nl](https://nl-works.nl)| | **30**|| | | | | | | | :white_check_mark: | |||
+|[https://www.nl-works.nl](https://www.nl-works.nl)| | **F**|| | | | | | | | :white_check_mark: | |HSTS|Domeinnaam nog n...|
+|[https://nl-works.nl](https://nl-works.nl)| | **F**|| | | | | | | | :white_check_mark: | |||

@@ -1,15 +1,11 @@
----
-layout: dutchgov
-permalink: /dutchgov/rsj.nl.html
----
 
 
 # rsj.nl
 ## Summary data
 
 
-**SSL Grade**:0
-**HTTP Security Grade**:61
+**SSL Grade**:F
+**HTTP Security Grade**:D
 
 
 | File       | Count | Info |
@@ -24,8 +20,8 @@ permalink: /dutchgov/rsj.nl.html
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://opendata.rsj.nl](https://opendata.rsj.nl)| | **65**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
-|[https://www.rsj.nl](https://www.rsj.nl)| | **75**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Home | Raad voor...|
-|[https://intranet.rsj.nl](https://intranet.rsj.nl)| | **25**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|403 Forbidden|
-|[https://feeds.rsj.nl](https://feeds.rsj.nl)| | **65**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
-|[https://rsj.nl](https://rsj.nl)| | **75**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
+|[https://opendata.rsj.nl](https://opendata.rsj.nl)| | **D**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
+|[https://www.rsj.nl](https://www.rsj.nl)| | **C**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Home | Raad voor...|
+|[https://intranet.rsj.nl](https://intranet.rsj.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|403 Forbidden|
+|[https://feeds.rsj.nl](https://feeds.rsj.nl)| | **D**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
+|[https://rsj.nl](https://rsj.nl)| | **C**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|

@@ -1,15 +1,11 @@
----
-layout: dutchgov
-permalink: /dutchgov/sportinnovator.nl.html
----
 
 
 # sportinnovator.nl
 ## Summary data
 
 
-**SSL Grade**:0
-**HTTP Security Grade**:73.333333333333
+**SSL Grade**:F
+**HTTP Security Grade**:C
 
 
 | File       | Count | Info |
@@ -24,6 +20,6 @@ permalink: /dutchgov/sportinnovator.nl.html
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://challenges.sportinnovator.nl](https://challenges.sportinnovator.nl)| | **62**|Kestrel|:warning: |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS Kestrel Microsoft ASP.NET|Innovatie Challe...|
-|[https://sportinnovator.nl](https://sportinnovator.nl)| | **79**|Apache|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS|301 Moved Perman...|
-|[https://www.sportinnovator.nl](https://www.sportinnovator.nl)| | **79**|Apache|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server Craft CMS HSTS Yii|SportInnovator|
+|[https://challenges.sportinnovator.nl](https://challenges.sportinnovator.nl)| | **D**|Kestrel|:warning: |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS Kestrel Microsoft ASP.NET|Innovatie Challe...|
+|[https://sportinnovator.nl](https://sportinnovator.nl)| | **C**|Apache|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS|301 Moved Perman...|
+|[https://www.sportinnovator.nl](https://www.sportinnovator.nl)| | **C**|Apache|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server Craft CMS HSTS Yii|SportInnovator|

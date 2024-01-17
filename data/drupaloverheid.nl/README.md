@@ -1,15 +1,11 @@
----
-layout: dutchgov
-permalink: /dutchgov/drupaloverheid.nl.html
----
 
 
 # drupaloverheid.nl
 ## Summary data
 
 
-**SSL Grade**:0
-**HTTP Security Grade**:50
+**SSL Grade**:F
+**HTTP Security Grade**:E
 
 
 | File       | Count | Info |
@@ -24,7 +20,7 @@ permalink: /dutchgov/drupaloverheid.nl.html
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://acc.drupaloverheid.nl](https://acc.drupaloverheid.nl)| | **25**|nginx| | | | | | | | :white_check_mark: | |Basic Nginx|401 Authorizatio...|
-|[https://test.drupaloverheid.nl](https://test.drupaloverheid.nl)| | **25**|nginx| | | | | | | | :white_check_mark: | |Basic Nginx|401 Authorizatio...|
-|[https://www.drupaloverheid.nl](https://www.drupaloverheid.nl)| | **75**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|Drupal Overheid|
-|[https://drupaloverheid.nl](https://drupaloverheid.nl)| | **75**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|Drupal Overheid|
+|[https://acc.drupaloverheid.nl](https://acc.drupaloverheid.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Basic Nginx|401 Authorizatio...|
+|[https://test.drupaloverheid.nl](https://test.drupaloverheid.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Basic Nginx|401 Authorizatio...|
+|[https://www.drupaloverheid.nl](https://www.drupaloverheid.nl)| | **C**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|Drupal Overheid|
+|[https://drupaloverheid.nl](https://drupaloverheid.nl)| | **C**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|Drupal Overheid|

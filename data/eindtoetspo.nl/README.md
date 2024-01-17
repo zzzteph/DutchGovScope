@@ -1,15 +1,11 @@
----
-layout: dutchgov
-permalink: /dutchgov/eindtoetspo.nl.html
----
 
 
 # eindtoetspo.nl
 ## Summary data
 
 
-**SSL Grade**:0
-**HTTP Security Grade**:25
+**SSL Grade**:F
+**HTTP Security Grade**:F
 
 
 | File       | Count | Info |
@@ -24,5 +20,5 @@ permalink: /dutchgov/eindtoetspo.nl.html
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://eindtoetspo.nl](https://eindtoetspo.nl)| | **25**|nginx| | | | | | | | :white_check_mark: | |Nginx|404 Not Found|
-|[https://www.eindtoetspo.nl](https://www.eindtoetspo.nl)| | **25**|nginx| | | | | | | | :white_check_mark: | |Nginx|404 Not Found|
+|[https://eindtoetspo.nl](https://eindtoetspo.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|404 Not Found|
+|[https://www.eindtoetspo.nl](https://www.eindtoetspo.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|404 Not Found|

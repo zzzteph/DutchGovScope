@@ -1,15 +1,11 @@
----
-layout: dutchgov
-permalink: /dutchgov/signalenleefomgeving.nl.html
----
 
 
 # signalenleefomgeving.nl
 ## Summary data
 
 
-**SSL Grade**:0
-**HTTP Security Grade**:65
+**SSL Grade**:F
+**HTTP Security Grade**:D
 
 
 | File       | Count | Info |
@@ -24,5 +20,5 @@ permalink: /dutchgov/signalenleefomgeving.nl.html
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://www.signalenleefomgeving.nl](https://www.signalenleefomgeving.nl)| | **65**|Apache| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server Drupal HSTS PHP|Signalen leefomg...|
-|[https://signalenleefomgeving.nl](https://signalenleefomgeving.nl)| | **65**|Apache| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server Drupal HSTS PHP|Signalen leefomg...|
+|[https://www.signalenleefomgeving.nl](https://www.signalenleefomgeving.nl)| | **D**|Apache| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server Drupal HSTS PHP|Signalen leefomg...|
+|[https://signalenleefomgeving.nl](https://signalenleefomgeving.nl)| | **D**|Apache| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server Drupal HSTS PHP|Signalen leefomg...|

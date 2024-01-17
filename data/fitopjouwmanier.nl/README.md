@@ -1,15 +1,11 @@
----
-layout: dutchgov
-permalink: /dutchgov/fitopjouwmanier.nl.html
----
 
 
 # fitopjouwmanier.nl
 ## Summary data
 
 
-**SSL Grade**:0
-**HTTP Security Grade**:35
+**SSL Grade**:F
+**HTTP Security Grade**:F
 
 
 | File       | Count | Info |
@@ -24,7 +20,7 @@ permalink: /dutchgov/fitopjouwmanier.nl.html
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://staging.fitopjouwmanier.nl](https://staging.fitopjouwmanier.nl)| | **25**|nginx| | | | | | | | :white_check_mark: | |Basic Nginx|401 Authorizatio...|
-|[https://www.fitopjouwmanier.nl](https://www.fitopjouwmanier.nl)| | **45**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Nginx|Word ook fit op...|
-|[https://fitopjouwmanier.nl](https://fitopjouwmanier.nl)| | **45**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Nginx|Word ook fit op...|
-|[https://server01.fitopjouwmanier.nl](https://server01.fitopjouwmanier.nl)| | **25**|nginx| | | | | | | | :white_check_mark: | |HSTS Nginx|Word ook fit op...|
+|[https://staging.fitopjouwmanier.nl](https://staging.fitopjouwmanier.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Basic Nginx|401 Authorizatio...|
+|[https://www.fitopjouwmanier.nl](https://www.fitopjouwmanier.nl)| | **F**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Nginx|Word ook fit op...|
+|[https://fitopjouwmanier.nl](https://fitopjouwmanier.nl)| | **F**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Nginx|Word ook fit op...|
+|[https://server01.fitopjouwmanier.nl](https://server01.fitopjouwmanier.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |HSTS Nginx|Word ook fit op...|

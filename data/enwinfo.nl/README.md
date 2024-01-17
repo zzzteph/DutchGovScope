@@ -1,15 +1,11 @@
----
-layout: dutchgov
-permalink: /dutchgov/enwinfo.nl.html
----
 
 
 # enwinfo.nl
 ## Summary data
 
 
-**SSL Grade**:0
-**HTTP Security Grade**:80
+**SSL Grade**:F
+**HTTP Security Grade**:B
 
 
 | File       | Count | Info |
@@ -24,5 +20,5 @@ permalink: /dutchgov/enwinfo.nl.html
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://www.enwinfo.nl](https://www.enwinfo.nl)| | **80**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:-|Home - ENWinfo|
-|[https://enwinfo.nl](https://enwinfo.nl)| | **80**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:-|Object moved|
+|[https://www.enwinfo.nl](https://www.enwinfo.nl)| | **B**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:-|Home - ENWinfo|
+|[https://enwinfo.nl](https://enwinfo.nl)| | **B**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:-|Object moved|

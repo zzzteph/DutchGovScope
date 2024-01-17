@@ -1,15 +1,11 @@
----
-layout: dutchgov
-permalink: /dutchgov/geluidregisterspoor.nl.html
----
 
 
 # geluidregisterspoor.nl
 ## Summary data
 
 
-**SSL Grade**:0
-**HTTP Security Grade**:27.5
+**SSL Grade**:F
+**HTTP Security Grade**:F
 
 
 | File       | Count | Info |
@@ -24,5 +20,5 @@ permalink: /dutchgov/geluidregisterspoor.nl.html
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
-|[http://www.geluidregisterspoor.nl](http://www.geluidregisterspoor.nl)| | **25**|Microsoft-IIS/10.0| | | | | | | | :white_check_mark: | |IIS:10.0 Windows Server|Geluid vanwege s...|
-|[http://geluidregisterspoor.nl](http://geluidregisterspoor.nl)| | **30**|| | | | | | | | :white_check_mark: | |||
+|[http://www.geluidregisterspoor.nl](http://www.geluidregisterspoor.nl)| | **F**|Microsoft-IIS/10.0| | | | | | | | :white_check_mark: | |IIS:10.0 Windows Server|Geluid vanwege s...|
+|[http://geluidregisterspoor.nl](http://geluidregisterspoor.nl)| | **F**|| | | | | | | | :white_check_mark: | |||

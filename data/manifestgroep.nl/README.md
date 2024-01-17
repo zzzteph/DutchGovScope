@@ -1,15 +1,11 @@
----
-layout: dutchgov
-permalink: /dutchgov/manifestgroep.nl.html
----
 
 
 # manifestgroep.nl
 ## Summary data
 
 
-**SSL Grade**:0
-**HTTP Security Grade**:94
+**SSL Grade**:F
+**HTTP Security Grade**:A
 
 
 | File       | Count | Info |
@@ -24,5 +20,5 @@ permalink: /dutchgov/manifestgroep.nl.html
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://manifestgroep.nl](https://manifestgroep.nl)| | **94**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache Tomcat Fourthwall:1.0.0 HSTS Java MariaDB Skolengo:1.0.0|Manifestgroep|
-|[https://www.manifestgroep.nl](https://www.manifestgroep.nl)| | **94**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
+|[https://manifestgroep.nl](https://manifestgroep.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache Tomcat Fourthwall:1.0.0 HSTS Java MariaDB Skolengo:1.0.0|Manifestgroep|
+|[https://www.manifestgroep.nl](https://www.manifestgroep.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||

@@ -1,15 +1,11 @@
----
-layout: dutchgov
-permalink: /dutchgov/samenwerkenaanriviernatuur.nl.html
----
 
 
 # samenwerkenaanriviernatuur.nl
 ## Summary data
 
 
-**SSL Grade**:0
-**HTTP Security Grade**:70
+**SSL Grade**:F
+**HTTP Security Grade**:C
 
 
 | File       | Count | Info |
@@ -24,5 +20,5 @@ permalink: /dutchgov/samenwerkenaanriviernatuur.nl.html
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://www.samenwerkenaanriviernatuur.nl](https://www.samenwerkenaanriviernatuur.nl)| | **70**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET|Object moved|
-|[https://samenwerkenaanriviernatuur.nl](https://samenwerkenaanriviernatuur.nl)| | **70**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET|Object moved|
+|[https://www.samenwerkenaanriviernatuur.nl](https://www.samenwerkenaanriviernatuur.nl)| | **C**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET|Object moved|
+|[https://samenwerkenaanriviernatuur.nl](https://samenwerkenaanriviernatuur.nl)| | **C**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET|Object moved|

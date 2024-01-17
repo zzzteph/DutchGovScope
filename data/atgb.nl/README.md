@@ -1,15 +1,11 @@
----
-layout: dutchgov
-permalink: /dutchgov/atgb.nl.html
----
 
 
 # atgb.nl
 ## Summary data
 
 
-**SSL Grade**:0
-**HTTP Security Grade**:69.666666666667
+**SSL Grade**:F
+**HTTP Security Grade**:D
 
 
 | File       | Count | Info |
@@ -24,6 +20,6 @@ permalink: /dutchgov/atgb.nl.html
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
-|[http://autodiscover.atgb.nl](http://autodiscover.atgb.nl)| | **79**|Microsoft-IIS/10.0|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server||
-|[https://www.atgb.nl](https://www.atgb.nl)| | **65**|Apache| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS MySQL PHP WordPress:5.5.13 Yoast SEO:12.2|Adviescommissie...|
-|[https://atgb.nl](https://atgb.nl)| | **65**|Apache| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS||
+|[http://autodiscover.atgb.nl](http://autodiscover.atgb.nl)| | **C**|Microsoft-IIS/10.0|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server||
+|[https://www.atgb.nl](https://www.atgb.nl)| | **D**|Apache| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS MySQL PHP WordPress:5.5.13 Yoast SEO:12.2|Adviescommissie...|
+|[https://atgb.nl](https://atgb.nl)| | **D**|Apache| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS||

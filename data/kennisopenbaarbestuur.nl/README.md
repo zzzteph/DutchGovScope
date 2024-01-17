@@ -1,15 +1,11 @@
----
-layout: dutchgov
-permalink: /dutchgov/kennisopenbaarbestuur.nl.html
----
 
 
 # kennisopenbaarbestuur.nl
 ## Summary data
 
 
-**SSL Grade**:0
-**HTTP Security Grade**:70
+**SSL Grade**:F
+**HTTP Security Grade**:C
 
 
 | File       | Count | Info |
@@ -24,7 +20,7 @@ permalink: /dutchgov/kennisopenbaarbestuur.nl.html
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://feeds.kennisopenbaarbestuur.nl](https://feeds.kennisopenbaarbestuur.nl)| | **65**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
-|[https://opendata.kennisopenbaarbestuur.nl](https://opendata.kennisopenbaarbestuur.nl)| | **65**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
-|[https://www.kennisopenbaarbestuur.nl](https://www.kennisopenbaarbestuur.nl)| | **75**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Home | Kennisban...|
-|[https://kennisopenbaarbestuur.nl](https://kennisopenbaarbestuur.nl)| | **75**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
+|[https://feeds.kennisopenbaarbestuur.nl](https://feeds.kennisopenbaarbestuur.nl)| | **D**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
+|[https://opendata.kennisopenbaarbestuur.nl](https://opendata.kennisopenbaarbestuur.nl)| | **D**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
+|[https://www.kennisopenbaarbestuur.nl](https://www.kennisopenbaarbestuur.nl)| | **C**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Home | Kennisban...|
+|[https://kennisopenbaarbestuur.nl](https://kennisopenbaarbestuur.nl)| | **C**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|

@@ -1,15 +1,11 @@
----
-layout: dutchgov
-permalink: /dutchgov/sbr-nl.nl.html
----
 
 
 # sbr-nl.nl
 ## Summary data
 
 
-**SSL Grade**:0
-**HTTP Security Grade**:47
+**SSL Grade**:F
+**HTTP Security Grade**:F
 
 
 | File       | Count | Info |
@@ -24,8 +20,8 @@ permalink: /dutchgov/sbr-nl.nl.html
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://acc-dictu.sbr-nl.nl](https://acc-dictu.sbr-nl.nl)| | **25**|nginx| | | | | | | | :white_check_mark: | |Basic Nginx|401 Authorizatio...|
-|[https://prod-dictu.sbr-nl.nl](https://prod-dictu.sbr-nl.nl)| | **25**|nginx| | | | | | | | :white_check_mark: | |Drupal:10 HSTS Nginx PHP|Home | Forum Sta...|
-|[https://test-dictu.sbr-nl.nl](https://test-dictu.sbr-nl.nl)| | **25**|nginx| | | | | | | | :white_check_mark: | |Basic Nginx|401 Authorizatio...|
-|[https://www.sbr-nl.nl](https://www.sbr-nl.nl)| | **80**|nginx| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Drupal:10 HSTS Nginx PHP|Home | Standard...|
-|[https://sbr-nl.nl](https://sbr-nl.nl)| | **80**|nginx| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Drupal:10 HSTS Nginx PHP|Home | Standard...|
+|[https://acc-dictu.sbr-nl.nl](https://acc-dictu.sbr-nl.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Basic Nginx|401 Authorizatio...|
+|[https://prod-dictu.sbr-nl.nl](https://prod-dictu.sbr-nl.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Drupal:10 HSTS Nginx PHP|Home | Forum Sta...|
+|[https://test-dictu.sbr-nl.nl](https://test-dictu.sbr-nl.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Basic Nginx|401 Authorizatio...|
+|[https://www.sbr-nl.nl](https://www.sbr-nl.nl)| | **B**|nginx| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Drupal:10 HSTS Nginx PHP|Home | Standard...|
+|[https://sbr-nl.nl](https://sbr-nl.nl)| | **B**|nginx| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Drupal:10 HSTS Nginx PHP|Home | Standard...|

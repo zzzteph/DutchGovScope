@@ -1,15 +1,11 @@
----
-layout: dutchgov
-permalink: /dutchgov/deltacommissaris.nl.html
----
 
 
 # deltacommissaris.nl
 ## Summary data
 
 
-**SSL Grade**:90
-**HTTP Security Grade**:75
+**SSL Grade**:A
+**HTTP Security Grade**:C
 
 
 | File       | Count | Info |
@@ -24,5 +20,5 @@ permalink: /dutchgov/deltacommissaris.nl.html
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://deltaprogramma2019.deltacommissaris.nl](https://deltaprogramma2019.deltacommissaris.nl)| **A**| **75**|Apache/2| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server:2|301 Moved Perman...|
-|[https://deltaprogramma2020.deltacommissaris.nl](https://deltaprogramma2020.deltacommissaris.nl)| **A**| **75**|Apache/2| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server:2|301 Moved Perman...|
+|[https://deltaprogramma2019.deltacommissaris.nl](https://deltaprogramma2019.deltacommissaris.nl)| **A**| **C**|Apache/2| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server:2|301 Moved Perman...|
+|[https://deltaprogramma2020.deltacommissaris.nl](https://deltaprogramma2020.deltacommissaris.nl)| **A**| **C**|Apache/2| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server:2|301 Moved Perman...|

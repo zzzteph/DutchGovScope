@@ -1,15 +1,11 @@
----
-layout: dutchgov
-permalink: /dutchgov/dranquilo.nl.html
----
 
 
 # dranquilo.nl
 ## Summary data
 
 
-**SSL Grade**:100
-**HTTP Security Grade**:61
+**SSL Grade**:A+
+**HTTP Security Grade**:D
 
 
 | File       | Count | Info |
@@ -24,8 +20,8 @@ permalink: /dutchgov/dranquilo.nl.html
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://feeds.dranquilo.nl](https://feeds.dranquilo.nl)| **A+**| **65**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
-|[https://opendata.dranquilo.nl](https://opendata.dranquilo.nl)| **A+**| **65**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
-|[https://www.dranquilo.nl](https://www.dranquilo.nl)| **A+**| **75**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Dranquilo | Dran...|
-|[https://dranquilo.nl](https://dranquilo.nl)| **A+**| **75**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
-|[https://server01.dranquilo.nl](https://server01.dranquilo.nl)| | **25**|nginx| | | | | | | | :white_check_mark: | |Nginx||
+|[https://feeds.dranquilo.nl](https://feeds.dranquilo.nl)| **A+**| **D**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
+|[https://opendata.dranquilo.nl](https://opendata.dranquilo.nl)| **A+**| **D**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
+|[https://www.dranquilo.nl](https://www.dranquilo.nl)| **A+**| **C**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Dranquilo | Dran...|
+|[https://dranquilo.nl](https://dranquilo.nl)| **A+**| **C**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
+|[https://server01.dranquilo.nl](https://server01.dranquilo.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx||

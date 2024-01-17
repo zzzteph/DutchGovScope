@@ -1,15 +1,11 @@
----
-layout: dutchgov
-permalink: /dutchgov/spaceoffice.nl.html
----
 
 
 # spaceoffice.nl
 ## Summary data
 
 
-**SSL Grade**:0
-**HTTP Security Grade**:25
+**SSL Grade**:F
+**HTTP Security Grade**:F
 
 
 | File       | Count | Info |
@@ -24,6 +20,6 @@ permalink: /dutchgov/spaceoffice.nl.html
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://g4aw.spaceoffice.nl](https://g4aw.spaceoffice.nl)| | **25**|lighttpd/1.4.63|:o: | | | | | | | :white_check_mark: | |lighttpd:1.4.63||
-|[https://www.spaceoffice.nl](https://www.spaceoffice.nl)| | **25**|lighttpd|:o: | | | | | | | :white_check_mark: | |PHP lighttpd||
-|[https://spaceoffice.nl](https://spaceoffice.nl)| | **25**|lighttpd|:o: | | | | | | | :white_check_mark: | |PHP lighttpd||
+|[https://g4aw.spaceoffice.nl](https://g4aw.spaceoffice.nl)| | **F**|lighttpd/1.4.63|:o: | | | | | | | :white_check_mark: | |lighttpd:1.4.63||
+|[https://www.spaceoffice.nl](https://www.spaceoffice.nl)| | **F**|lighttpd|:o: | | | | | | | :white_check_mark: | |PHP lighttpd||
+|[https://spaceoffice.nl](https://spaceoffice.nl)| | **F**|lighttpd|:o: | | | | | | | :white_check_mark: | |PHP lighttpd||

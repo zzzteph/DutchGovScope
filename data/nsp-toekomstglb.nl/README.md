@@ -1,15 +1,11 @@
----
-layout: dutchgov
-permalink: /dutchgov/nsp-toekomstglb.nl.html
----
 
 
 # nsp-toekomstglb.nl
 ## Summary data
 
 
-**SSL Grade**:0
-**HTTP Security Grade**:55
+**SSL Grade**:F
+**HTTP Security Grade**:E
 
 
 | File       | Count | Info |
@@ -24,4 +20,4 @@ permalink: /dutchgov/nsp-toekomstglb.nl.html
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://nsp-toekomstglb.nl](https://nsp-toekomstglb.nl)| | **55**|Caddy nginx| |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | |HSTS HTTP/3 Nginx Readymag|Gemeenschappelij...|
+|[https://nsp-toekomstglb.nl](https://nsp-toekomstglb.nl)| | **E**|Caddy nginx| |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | |HSTS HTTP/3 Nginx Readymag|Gemeenschappelij...|

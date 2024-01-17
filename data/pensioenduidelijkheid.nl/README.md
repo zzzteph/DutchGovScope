@@ -1,15 +1,11 @@
----
-layout: dutchgov
-permalink: /dutchgov/pensioenduidelijkheid.nl.html
----
 
 
 # pensioenduidelijkheid.nl
 ## Summary data
 
 
-**SSL Grade**:0
-**HTTP Security Grade**:70
+**SSL Grade**:F
+**HTTP Security Grade**:C
 
 
 | File       | Count | Info |
@@ -24,7 +20,7 @@ permalink: /dutchgov/pensioenduidelijkheid.nl.html
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://www.pensioenduidelijkheid.nl](https://www.pensioenduidelijkheid.nl)| | **75**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Home | Pensioend...|
-|[https://pensioenduidelijkheid.nl](https://pensioenduidelijkheid.nl)| | **75**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
-|[https://feeds.pensioenduidelijkheid.nl](https://feeds.pensioenduidelijkheid.nl)| | **65**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
-|[https://opendata.pensioenduidelijkheid.nl](https://opendata.pensioenduidelijkheid.nl)| | **65**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
+|[https://www.pensioenduidelijkheid.nl](https://www.pensioenduidelijkheid.nl)| | **C**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Home | Pensioend...|
+|[https://pensioenduidelijkheid.nl](https://pensioenduidelijkheid.nl)| | **C**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
+|[https://feeds.pensioenduidelijkheid.nl](https://feeds.pensioenduidelijkheid.nl)| | **D**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
+|[https://opendata.pensioenduidelijkheid.nl](https://opendata.pensioenduidelijkheid.nl)| | **D**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||

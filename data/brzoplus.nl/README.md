@@ -1,15 +1,11 @@
----
-layout: dutchgov
-permalink: /dutchgov/brzoplus.nl.html
----
 
 
 # brzoplus.nl
 ## Summary data
 
 
-**SSL Grade**:0
-**HTTP Security Grade**:80
+**SSL Grade**:F
+**HTTP Security Grade**:B
 
 
 | File       | Count | Info |
@@ -24,5 +20,5 @@ permalink: /dutchgov/brzoplus.nl.html
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://www.brzoplus.nl](https://www.brzoplus.nl)| | **80**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:-|Object moved|
-|[https://brzoplus.nl](https://brzoplus.nl)| | **80**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:-|Home - BRZO+|
+|[https://www.brzoplus.nl](https://www.brzoplus.nl)| | **B**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:-|Object moved|
+|[https://brzoplus.nl](https://brzoplus.nl)| | **B**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:-|Home - BRZO+|

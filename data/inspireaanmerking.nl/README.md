@@ -1,15 +1,11 @@
----
-layout: dutchgov
-permalink: /dutchgov/inspireaanmerking.nl.html
----
 
 
 # inspireaanmerking.nl
 ## Summary data
 
 
-**SSL Grade**:0
-**HTTP Security Grade**:55
+**SSL Grade**:F
+**HTTP Security Grade**:E
 
 
 | File       | Count | Info |
@@ -24,5 +20,5 @@ permalink: /dutchgov/inspireaanmerking.nl.html
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://www.inspireaanmerking.nl](https://www.inspireaanmerking.nl)| | **55**|cloudflare| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Cloudflare Drupal:10 HSTS HTTP/3 PHP|Home | INSPIRE A...|
-|[https://inspireaanmerking.nl](https://inspireaanmerking.nl)| | **55**|cloudflare| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Cloudflare HSTS HTTP/3|308 Permanent Re...|
+|[https://www.inspireaanmerking.nl](https://www.inspireaanmerking.nl)| | **E**|cloudflare| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Cloudflare Drupal:10 HSTS HTTP/3 PHP|Home | INSPIRE A...|
+|[https://inspireaanmerking.nl](https://inspireaanmerking.nl)| | **E**|cloudflare| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Cloudflare HSTS HTTP/3|308 Permanent Re...|

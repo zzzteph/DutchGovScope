@@ -1,15 +1,11 @@
----
-layout: dutchgov
-permalink: /dutchgov/kreekraksluizen.nl.html
----
 
 
 # kreekraksluizen.nl
 ## Summary data
 
 
-**SSL Grade**:0
-**HTTP Security Grade**:85
+**SSL Grade**:F
+**HTTP Security Grade**:B
 
 
 | File       | Count | Info |
@@ -24,5 +20,5 @@ permalink: /dutchgov/kreekraksluizen.nl.html
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://kreekraksluizen.nl](https://kreekraksluizen.nl)| | **85**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | ||Document Moved|
-|[https://www.kreekraksluizen.nl](https://www.kreekraksluizen.nl)| | **85**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | ||Document Moved|
+|[https://kreekraksluizen.nl](https://kreekraksluizen.nl)| | **B**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | ||Document Moved|
+|[https://www.kreekraksluizen.nl](https://www.kreekraksluizen.nl)| | **B**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | ||Document Moved|

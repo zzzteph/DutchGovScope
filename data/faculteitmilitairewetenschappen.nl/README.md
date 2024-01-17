@@ -1,15 +1,11 @@
----
-layout: dutchgov
-permalink: /dutchgov/faculteitmilitairewetenschappen.nl.html
----
 
 
 # faculteitmilitairewetenschappen.nl
 ## Summary data
 
 
-**SSL Grade**:0
-**HTTP Security Grade**:94
+**SSL Grade**:F
+**HTTP Security Grade**:A
 
 
 | File       | Count | Info |
@@ -24,5 +20,5 @@ permalink: /dutchgov/faculteitmilitairewetenschappen.nl.html
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://www.faculteitmilitairewetenschappen.nl](https://www.faculteitmilitairewetenschappen.nl)| | **94**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
-|[https://faculteitmilitairewetenschappen.nl](https://faculteitmilitairewetenschappen.nl)| | **94**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache Tomcat Fourthwall:1.0.0 HSTS Java MariaDB Skolengo:1.0.0|Faculteit Milita...|
+|[https://www.faculteitmilitairewetenschappen.nl](https://www.faculteitmilitairewetenschappen.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
+|[https://faculteitmilitairewetenschappen.nl](https://faculteitmilitairewetenschappen.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache Tomcat Fourthwall:1.0.0 HSTS Java MariaDB Skolengo:1.0.0|Faculteit Milita...|

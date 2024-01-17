@@ -1,15 +1,11 @@
----
-layout: dutchgov
-permalink: /dutchgov/lastvandeoverheid.nl.html
----
 
 
 # lastvandeoverheid.nl
 ## Summary data
 
 
-**SSL Grade**:0
-**HTTP Security Grade**:75
+**SSL Grade**:F
+**HTTP Security Grade**:C
 
 
 | File       | Count | Info |
@@ -24,5 +20,5 @@ permalink: /dutchgov/lastvandeoverheid.nl.html
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://lastvandeoverheid.nl](https://lastvandeoverheid.nl)| | **75**|Microsoft-IIS/10.0| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS IIS:10.0 Windows Server|Document Moved|
-|[https://www.lastvandeoverheid.nl](https://www.lastvandeoverheid.nl)| | **75**|Microsoft-IIS/10.0| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS IIS:10.0 Windows Server|Document Moved|
+|[https://lastvandeoverheid.nl](https://lastvandeoverheid.nl)| | **C**|Microsoft-IIS/10.0| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS IIS:10.0 Windows Server|Document Moved|
+|[https://www.lastvandeoverheid.nl](https://www.lastvandeoverheid.nl)| | **C**|Microsoft-IIS/10.0| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS IIS:10.0 Windows Server|Document Moved|

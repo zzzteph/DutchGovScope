@@ -1,15 +1,11 @@
----
-layout: dutchgov
-permalink: /dutchgov/commabz.nl.html
----
 
 
 # commabz.nl
 ## Summary data
 
 
-**SSL Grade**:0
-**HTTP Security Grade**:55
+**SSL Grade**:F
+**HTTP Security Grade**:E
 
 
 | File       | Count | Info |
@@ -24,8 +20,8 @@ permalink: /dutchgov/commabz.nl.html
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://accept.commabz.nl](https://accept.commabz.nl)| | **75**|Apache| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS Moodle PHP|Doorverwijspagin...|
-|[https://develop.commabz.nl](https://develop.commabz.nl)| | **25**|Microsoft-Azure-Application-Gateway/v2| | | | | | | | :white_check_mark: | ||403 Forbidden|
-|[https://test.commabz.nl](https://test.commabz.nl)| | **75**|Apache| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS Moodle PHP|Doorverwijspagin...|
-|[https://www.commabz.nl](https://www.commabz.nl)| | **25**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|Doorverwijspagin...|
-|[https://commabz.nl](https://commabz.nl)| | **75**|Apache| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS Moodle PHP|Doorverwijspagin...|
+|[https://accept.commabz.nl](https://accept.commabz.nl)| | **C**|Apache| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS Moodle PHP|Doorverwijspagin...|
+|[https://develop.commabz.nl](https://develop.commabz.nl)| | **F**|Microsoft-Azure-Application-Gateway/v2| | | | | | | | :white_check_mark: | ||403 Forbidden|
+|[https://test.commabz.nl](https://test.commabz.nl)| | **C**|Apache| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS Moodle PHP|Doorverwijspagin...|
+|[https://www.commabz.nl](https://www.commabz.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|Doorverwijspagin...|
+|[https://commabz.nl](https://commabz.nl)| | **C**|Apache| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS Moodle PHP|Doorverwijspagin...|

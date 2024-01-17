@@ -1,15 +1,11 @@
----
-layout: dutchgov
-permalink: /dutchgov/ertms.nl.html
----
 
 
 # ertms.nl
 ## Summary data
 
 
-**SSL Grade**:0
-**HTTP Security Grade**:56.666666666667
+**SSL Grade**:F
+**HTTP Security Grade**:E
 
 
 | File       | Count | Info |
@@ -24,6 +20,6 @@ permalink: /dutchgov/ertms.nl.html
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://postmaster.ertms.nl](https://postmaster.ertms.nl)| | **30**|| | | | | | | | :white_check_mark: | ||Document Moved|
-|[https://www.ertms.nl](https://www.ertms.nl)| | **70**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET|Object moved|
-|[https://ertms.nl](https://ertms.nl)| | **70**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET|Object moved|
+|[https://postmaster.ertms.nl](https://postmaster.ertms.nl)| | **F**|| | | | | | | | :white_check_mark: | ||Document Moved|
+|[https://www.ertms.nl](https://www.ertms.nl)| | **C**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET|Object moved|
+|[https://ertms.nl](https://ertms.nl)| | **C**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET|Object moved|

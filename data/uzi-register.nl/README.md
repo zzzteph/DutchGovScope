@@ -1,15 +1,11 @@
----
-layout: dutchgov
-permalink: /dutchgov/uzi-register.nl.html
----
 
 
 # uzi-register.nl
 ## Summary data
 
 
-**SSL Grade**:0
-**HTTP Security Grade**:81.25
+**SSL Grade**:F
+**HTTP Security Grade**:B
 
 
 | File       | Count | Info |
@@ -24,7 +20,7 @@ permalink: /dutchgov/uzi-register.nl.html
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
-|[http://ocsp.uzi-register.nl](http://ocsp.uzi-register.nl)| | **85**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
-|[https://www.uzi-register.nl](https://www.uzi-register.nl)| | **80**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|301 Moved Perman...|
-|[https://www.csp.uzi-register.nl](https://www.csp.uzi-register.nl)| | **80**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|301 Moved Perman...|
-|[https://uzi-register.nl](https://uzi-register.nl)| | **80**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|301 Moved Perman...|
+|[http://ocsp.uzi-register.nl](http://ocsp.uzi-register.nl)| | **B**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
+|[https://www.uzi-register.nl](https://www.uzi-register.nl)| | **B**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|301 Moved Perman...|
+|[https://www.csp.uzi-register.nl](https://www.csp.uzi-register.nl)| | **B**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|301 Moved Perman...|
+|[https://uzi-register.nl](https://uzi-register.nl)| | **B**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|301 Moved Perman...|

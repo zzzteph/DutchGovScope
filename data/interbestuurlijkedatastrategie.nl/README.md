@@ -1,15 +1,11 @@
----
-layout: dutchgov
-permalink: /dutchgov/interbestuurlijkedatastrategie.nl.html
----
 
 
 # interbestuurlijkedatastrategie.nl
 ## Summary data
 
 
-**SSL Grade**:0
-**HTTP Security Grade**:75
+**SSL Grade**:F
+**HTTP Security Grade**:C
 
 
 | File       | Count | Info |
@@ -24,4 +20,4 @@ permalink: /dutchgov/interbestuurlijkedatastrategie.nl.html
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://magazines.interbestuurlijkedatastrategie.nl](https://magazines.interbestuurlijkedatastrategie.nl)| | **75**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
+|[https://magazines.interbestuurlijkedatastrategie.nl](https://magazines.interbestuurlijkedatastrategie.nl)| | **C**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||

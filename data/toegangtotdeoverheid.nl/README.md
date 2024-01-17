@@ -1,15 +1,11 @@
----
-layout: dutchgov
-permalink: /dutchgov/toegangtotdeoverheid.nl.html
----
 
 
 # toegangtotdeoverheid.nl
 ## Summary data
 
 
-**SSL Grade**:0
-**HTTP Security Grade**:44.25
+**SSL Grade**:F
+**HTTP Security Grade**:F
 
 
 | File       | Count | Info |
@@ -24,7 +20,7 @@ permalink: /dutchgov/toegangtotdeoverheid.nl.html
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
-|[http://irma.toegangtotdeoverheid.nl](http://irma.toegangtotdeoverheid.nl)| | **30**|| | | | | | | | :white_check_mark: | |||
-|[https://irma.tst.toegangtotdeoverheid.nl](https://irma.tst.toegangtotdeoverheid.nl)| | **25**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|A-Select Filter...|
-|[https://tst.toegangtotdeoverheid.nl](https://tst.toegangtotdeoverheid.nl)| | **92**|N.A.|:warning: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS|foutmelding|
-|[http://toegangtotdeoverheid.nl](http://toegangtotdeoverheid.nl)| | **30**|| | | | | | | | :white_check_mark: | |||
+|[http://irma.toegangtotdeoverheid.nl](http://irma.toegangtotdeoverheid.nl)| | **F**|| | | | | | | | :white_check_mark: | |||
+|[https://irma.tst.toegangtotdeoverheid.nl](https://irma.tst.toegangtotdeoverheid.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|A-Select Filter...|
+|[https://tst.toegangtotdeoverheid.nl](https://tst.toegangtotdeoverheid.nl)| | **A**|N.A.|:warning: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS|foutmelding|
+|[http://toegangtotdeoverheid.nl](http://toegangtotdeoverheid.nl)| | **F**|| | | | | | | | :white_check_mark: | |||

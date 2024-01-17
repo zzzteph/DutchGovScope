@@ -1,15 +1,11 @@
----
-layout: dutchgov
-permalink: /dutchgov/cybersecurityalliantie.nl.html
----
 
 
 # cybersecurityalliantie.nl
 ## Summary data
 
 
-**SSL Grade**:0
-**HTTP Security Grade**:45
+**SSL Grade**:F
+**HTTP Security Grade**:F
 
 
 | File       | Count | Info |
@@ -24,5 +20,5 @@ permalink: /dutchgov/cybersecurityalliantie.nl.html
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://www.cybersecurityalliantie.nl](https://www.cybersecurityalliantie.nl)| | **45**|Apache| |:white_check_mark: | | | | | | :white_check_mark: | |Apache HTTP Server HSTS MySQL PHP WordPress|Home - Cybersecu...|
-|[https://cybersecurityalliantie.nl](https://cybersecurityalliantie.nl)| | **45**|Apache| |:white_check_mark: | | | | | | :white_check_mark: | |Apache HTTP Server HSTS||
+|[https://www.cybersecurityalliantie.nl](https://www.cybersecurityalliantie.nl)| | **F**|Apache| |:white_check_mark: | | | | | | :white_check_mark: | |Apache HTTP Server HSTS MySQL PHP WordPress|Home - Cybersecu...|
+|[https://cybersecurityalliantie.nl](https://cybersecurityalliantie.nl)| | **F**|Apache| |:white_check_mark: | | | | | | :white_check_mark: | |Apache HTTP Server HSTS||

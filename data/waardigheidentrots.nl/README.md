@@ -1,15 +1,11 @@
----
-layout: dutchgov
-permalink: /dutchgov/waardigheidentrots.nl.html
----
 
 
 # waardigheidentrots.nl
 ## Summary data
 
 
-**SSL Grade**:0
-**HTTP Security Grade**:72
+**SSL Grade**:F
+**HTTP Security Grade**:C
 
 
 | File       | Count | Info |
@@ -24,7 +20,7 @@ permalink: /dutchgov/waardigheidentrots.nl.html
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://congres.waardigheidentrots.nl](https://congres.waardigheidentrots.nl)| | **65**|Microsoft-IIS/10.0| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |IIS:10.0 Windows Server|Document Moved|
-|[https://www.waardigheidentrots.nl](https://www.waardigheidentrots.nl)| | **77**||:warning: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Azure Azure Front Door Google Tag Manager HSTS Microsoft ASP.NET|Waardigheid en t...|
-|[https://portaal.waardigheidentrots.nl](https://portaal.waardigheidentrots.nl)| | **69**|Microsoft-IIS/10.0|:white_check_mark: |:white_check_mark: | | |:warning: | | | :white_check_mark: | |Azure HSTS IIS:10.0 Microsoft ASP.NET Windows Server|Waardigheid en t...|
-|[https://waardigheidentrots.nl](https://waardigheidentrots.nl)| | **77**||:warning: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Azure Azure Front Door HSTS Microsoft ASP.NET||
+|[https://congres.waardigheidentrots.nl](https://congres.waardigheidentrots.nl)| | **D**|Microsoft-IIS/10.0| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |IIS:10.0 Windows Server|Document Moved|
+|[https://www.waardigheidentrots.nl](https://www.waardigheidentrots.nl)| | **C**||:warning: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Azure Azure Front Door Google Tag Manager HSTS Microsoft ASP.NET|Waardigheid en t...|
+|[https://portaal.waardigheidentrots.nl](https://portaal.waardigheidentrots.nl)| | **D**|Microsoft-IIS/10.0|:white_check_mark: |:white_check_mark: | | |:warning: | | | :white_check_mark: | |Azure HSTS IIS:10.0 Microsoft ASP.NET Windows Server|Waardigheid en t...|
+|[https://waardigheidentrots.nl](https://waardigheidentrots.nl)| | **C**||:warning: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Azure Azure Front Door HSTS Microsoft ASP.NET||

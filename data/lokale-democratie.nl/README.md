@@ -1,15 +1,11 @@
----
-layout: dutchgov
-permalink: /dutchgov/lokale-democratie.nl.html
----
 
 
 # lokale-democratie.nl
 ## Summary data
 
 
-**SSL Grade**:0
-**HTTP Security Grade**:94
+**SSL Grade**:F
+**HTTP Security Grade**:A
 
 
 | File       | Count | Info |
@@ -24,5 +20,5 @@ permalink: /dutchgov/lokale-democratie.nl.html
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://www.lokale-democratie.nl](https://www.lokale-democratie.nl)| | **94**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
-|[https://lokale-democratie.nl](https://lokale-democratie.nl)| | **94**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache Tomcat Fourthwall:1.0.0 HSTS Java MariaDB Skolengo:1.0.0|Lokale Democrati...|
+|[https://www.lokale-democratie.nl](https://www.lokale-democratie.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
+|[https://lokale-democratie.nl](https://lokale-democratie.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache Tomcat Fourthwall:1.0.0 HSTS Java MariaDB Skolengo:1.0.0|Lokale Democrati...|

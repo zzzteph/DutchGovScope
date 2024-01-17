@@ -1,15 +1,11 @@
----
-layout: dutchgov
-permalink: /dutchgov/schoneluchtakkoord.nl.html
----
 
 
 # schoneluchtakkoord.nl
 ## Summary data
 
 
-**SSL Grade**:0
-**HTTP Security Grade**:81.333333333333
+**SSL Grade**:F
+**HTTP Security Grade**:B
 
 
 | File       | Count | Info |
@@ -24,6 +20,6 @@ permalink: /dutchgov/schoneluchtakkoord.nl.html
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://samenwerken.schoneluchtakkoord.nl](https://samenwerken.schoneluchtakkoord.nl)| | **84**||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Object moved|
-|[https://www.schoneluchtakkoord.nl](https://www.schoneluchtakkoord.nl)| | **80**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:-|Home - Schone lu...|
-|[https://schoneluchtakkoord.nl](https://schoneluchtakkoord.nl)| | **80**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:-|Object moved|
+|[https://samenwerken.schoneluchtakkoord.nl](https://samenwerken.schoneluchtakkoord.nl)| | **B**||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Object moved|
+|[https://www.schoneluchtakkoord.nl](https://www.schoneluchtakkoord.nl)| | **B**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:-|Home - Schone lu...|
+|[https://schoneluchtakkoord.nl](https://schoneluchtakkoord.nl)| | **B**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:-|Object moved|

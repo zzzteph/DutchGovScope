@@ -1,15 +1,11 @@
----
-layout: dutchgov
-permalink: /dutchgov/onehealth.nl.html
----
 
 
 # onehealth.nl
 ## Summary data
 
 
-**SSL Grade**:0
-**HTTP Security Grade**:65
+**SSL Grade**:F
+**HTTP Security Grade**:D
 
 
 | File       | Count | Info |
@@ -24,5 +20,5 @@ permalink: /dutchgov/onehealth.nl.html
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://www.onehealth.nl](https://www.onehealth.nl)| | **65**|Apache| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server Drupal HSTS PHP|Home | One Healt...|
-|[https://onehealth.nl](https://onehealth.nl)| | **65**|Apache| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS|301 Moved Perman...|
+|[https://www.onehealth.nl](https://www.onehealth.nl)| | **D**|Apache| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server Drupal HSTS PHP|Home | One Healt...|
+|[https://onehealth.nl](https://onehealth.nl)| | **D**|Apache| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS|301 Moved Perman...|

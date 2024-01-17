@@ -1,15 +1,11 @@
----
-layout: dutchgov
-permalink: /dutchgov/emancipatienota.nl.html
----
 
 
 # emancipatienota.nl
 ## Summary data
 
 
-**SSL Grade**:100
-**HTTP Security Grade**:70
+**SSL Grade**:A+
+**HTTP Security Grade**:C
 
 
 | File       | Count | Info |
@@ -24,7 +20,7 @@ permalink: /dutchgov/emancipatienota.nl.html
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://emancipatienota.nl](https://emancipatienota.nl)| **A+**| **75**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
-|[https://www.emancipatienota.nl](https://www.emancipatienota.nl)| **A+**| **75**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Home | Emancipat...|
-|[https://feeds.emancipatienota.nl](https://feeds.emancipatienota.nl)| **A+**| **65**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
-|[https://opendata.emancipatienota.nl](https://opendata.emancipatienota.nl)| | **65**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
+|[https://emancipatienota.nl](https://emancipatienota.nl)| **A+**| **C**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
+|[https://www.emancipatienota.nl](https://www.emancipatienota.nl)| **A+**| **C**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Home | Emancipat...|
+|[https://feeds.emancipatienota.nl](https://feeds.emancipatienota.nl)| **A+**| **D**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
+|[https://opendata.emancipatienota.nl](https://opendata.emancipatienota.nl)| | **D**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||

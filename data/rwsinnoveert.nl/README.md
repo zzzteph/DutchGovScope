@@ -1,15 +1,11 @@
----
-layout: dutchgov
-permalink: /dutchgov/rwsinnoveert.nl.html
----
 
 
 # rwsinnoveert.nl
 ## Summary data
 
 
-**SSL Grade**:0
-**HTTP Security Grade**:85
+**SSL Grade**:F
+**HTTP Security Grade**:B
 
 
 | File       | Count | Info |
@@ -24,5 +20,5 @@ permalink: /dutchgov/rwsinnoveert.nl.html
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://www.rwsinnoveert.nl](https://www.rwsinnoveert.nl)| | **85**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:-|Object moved|
-|[https://rwsinnoveert.nl](https://rwsinnoveert.nl)| | **85**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:-|Innovatieagenda...|
+|[https://www.rwsinnoveert.nl](https://www.rwsinnoveert.nl)| | **B**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:-|Object moved|
+|[https://rwsinnoveert.nl](https://rwsinnoveert.nl)| | **B**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:-|Innovatieagenda...|

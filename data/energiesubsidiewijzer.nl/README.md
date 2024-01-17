@@ -1,15 +1,11 @@
----
-layout: dutchgov
-permalink: /dutchgov/energiesubsidiewijzer.nl.html
----
 
 
 # energiesubsidiewijzer.nl
 ## Summary data
 
 
-**SSL Grade**:0
-**HTTP Security Grade**:75
+**SSL Grade**:F
+**HTTP Security Grade**:C
 
 
 | File       | Count | Info |
@@ -24,5 +20,5 @@ permalink: /dutchgov/energiesubsidiewijzer.nl.html
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://www.energiesubsidiewijzer.nl](https://www.energiesubsidiewijzer.nl)| | **75**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Nginx||
-|[https://energiesubsidiewijzer.nl](https://energiesubsidiewijzer.nl)| | **75**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Nginx||
+|[https://www.energiesubsidiewijzer.nl](https://www.energiesubsidiewijzer.nl)| | **C**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Nginx||
+|[https://energiesubsidiewijzer.nl](https://energiesubsidiewijzer.nl)| | **C**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Nginx||

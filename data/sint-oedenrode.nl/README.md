@@ -1,15 +1,11 @@
----
-layout: dutchgov
-permalink: /dutchgov/sint-oedenrode.nl.html
----
 
 
 # sint-oedenrode.nl
 ## Summary data
 
 
-**SSL Grade**:0
-**HTTP Security Grade**:99
+**SSL Grade**:F
+**HTTP Security Grade**:A
 
 
 | File       | Count | Info |
@@ -24,5 +20,5 @@ permalink: /dutchgov/sint-oedenrode.nl.html
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://sint-oedenrode.nl](https://sint-oedenrode.nl)| | **99**||:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
-|[https://www.sint-oedenrode.nl](https://www.sint-oedenrode.nl)| | **99**||:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
+|[https://sint-oedenrode.nl](https://sint-oedenrode.nl)| | **A**||:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
+|[https://www.sint-oedenrode.nl](https://www.sint-oedenrode.nl)| | **A**||:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||

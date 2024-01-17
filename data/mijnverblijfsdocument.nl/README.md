@@ -1,15 +1,11 @@
----
-layout: dutchgov
-permalink: /dutchgov/mijnverblijfsdocument.nl.html
----
 
 
 # mijnverblijfsdocument.nl
 ## Summary data
 
 
-**SSL Grade**:0
-**HTTP Security Grade**:50
+**SSL Grade**:F
+**HTTP Security Grade**:E
 
 
 | File       | Count | Info |
@@ -24,5 +20,5 @@ permalink: /dutchgov/mijnverblijfsdocument.nl.html
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://www.mijnverblijfsdocument.nl](https://www.mijnverblijfsdocument.nl)| | **50**|| |:white_check_mark: | | | | | | :white_check_mark: | |Bloomreach Bootstrap HSTS|My Residence Doc...|
-|[https://mijnverblijfsdocument.nl](https://mijnverblijfsdocument.nl)| | **50**|| |:white_check_mark: | | | | | | :white_check_mark: | |Bloomreach Bootstrap HSTS|My Residence Doc...|
+|[https://www.mijnverblijfsdocument.nl](https://www.mijnverblijfsdocument.nl)| | **E**|| |:white_check_mark: | | | | | | :white_check_mark: | |Bloomreach Bootstrap HSTS|My Residence Doc...|
+|[https://mijnverblijfsdocument.nl](https://mijnverblijfsdocument.nl)| | **E**|| |:white_check_mark: | | | | | | :white_check_mark: | |Bloomreach Bootstrap HSTS|My Residence Doc...|

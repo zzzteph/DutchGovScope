@@ -1,15 +1,11 @@
----
-layout: dutchgov
-permalink: /dutchgov/zetookdeknopom.nl.html
----
 
 
 # zetookdeknopom.nl
 ## Summary data
 
 
-**SSL Grade**:0
-**HTTP Security Grade**:85
+**SSL Grade**:F
+**HTTP Security Grade**:B
 
 
 | File       | Count | Info |
@@ -24,5 +20,5 @@ permalink: /dutchgov/zetookdeknopom.nl.html
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://www.zetookdeknopom.nl](https://www.zetookdeknopom.nl)| | **85**|Netlify| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Netlify||
-|[https://zetookdeknopom.nl](https://zetookdeknopom.nl)| | **85**|Netlify| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Netlify Next.js Node.js React Webpack|Zet ook de knop...|
+|[https://www.zetookdeknopom.nl](https://www.zetookdeknopom.nl)| | **B**|Netlify| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Netlify||
+|[https://zetookdeknopom.nl](https://zetookdeknopom.nl)| | **B**|Netlify| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Netlify Next.js Node.js React Webpack|Zet ook de knop...|

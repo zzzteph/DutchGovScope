@@ -1,15 +1,11 @@
----
-layout: dutchgov
-permalink: /dutchgov/emissieautoriteit.nl.html
----
 
 
 # emissieautoriteit.nl
 ## Summary data
 
 
-**SSL Grade**:100
-**HTTP Security Grade**:67.083333333333
+**SSL Grade**:A+
+**HTTP Security Grade**:D
 
 
 | File       | Count | Info |
@@ -24,15 +20,15 @@ permalink: /dutchgov/emissieautoriteit.nl.html
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://cher.emissieautoriteit.nl](https://cher.emissieautoriteit.nl)| **A+**| **80**|nginx| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|Mendix|
-|[https://ehp.emissieautoriteit.nl](https://ehp.emissieautoriteit.nl)| **A+**| **80**|nginx| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|Emissiehandel Po...|
-|[https://feeds.emissieautoriteit.nl](https://feeds.emissieautoriteit.nl)| **A+**| **65**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
-|[https://formulier.emissieautoriteit.nl](https://formulier.emissieautoriteit.nl)| **A+**| **80**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Object moved|
-|[https://magazines.emissieautoriteit.nl](https://magazines.emissieautoriteit.nl)| **A+**| **75**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Kiosk | Magazine...|
-|[https://opendata.emissieautoriteit.nl](https://opendata.emissieautoriteit.nl)| **A+**| **65**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
-|[https://preprodcher.emissieautoriteit.nl](https://preprodcher.emissieautoriteit.nl)| **A+**| **80**|nginx| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|403 Forbidden|
-|[https://preprodehp.emissieautoriteit.nl](https://preprodehp.emissieautoriteit.nl)| **A+**| **80**|nginx| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|403 Forbidden|
-|[https://preprodrev.emissieautoriteit.nl](https://preprodrev.emissieautoriteit.nl)| | **25**|nginx| | | | | | | | :white_check_mark: | |HSTS Nginx|Mendix|
-|[https://rev.emissieautoriteit.nl](https://rev.emissieautoriteit.nl)| | **25**|nginx| | | | | | | | :white_check_mark: | |HSTS Nginx|Mendix|
-|[https://www.emissieautoriteit.nl](https://www.emissieautoriteit.nl)| **A+**| **75**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Home | Nederland...|
-|[https://emissieautoriteit.nl](https://emissieautoriteit.nl)| **A+**| **75**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
+|[https://cher.emissieautoriteit.nl](https://cher.emissieautoriteit.nl)| **A+**| **B**|nginx| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|Mendix|
+|[https://ehp.emissieautoriteit.nl](https://ehp.emissieautoriteit.nl)| **A+**| **B**|nginx| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|Emissiehandel Po...|
+|[https://feeds.emissieautoriteit.nl](https://feeds.emissieautoriteit.nl)| **A+**| **D**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
+|[https://formulier.emissieautoriteit.nl](https://formulier.emissieautoriteit.nl)| **A+**| **B**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Object moved|
+|[https://magazines.emissieautoriteit.nl](https://magazines.emissieautoriteit.nl)| **A+**| **C**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Kiosk | Magazine...|
+|[https://opendata.emissieautoriteit.nl](https://opendata.emissieautoriteit.nl)| **A+**| **D**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
+|[https://preprodcher.emissieautoriteit.nl](https://preprodcher.emissieautoriteit.nl)| **A+**| **B**|nginx| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|403 Forbidden|
+|[https://preprodehp.emissieautoriteit.nl](https://preprodehp.emissieautoriteit.nl)| **A+**| **B**|nginx| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|403 Forbidden|
+|[https://preprodrev.emissieautoriteit.nl](https://preprodrev.emissieautoriteit.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |HSTS Nginx|Mendix|
+|[https://rev.emissieautoriteit.nl](https://rev.emissieautoriteit.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |HSTS Nginx|Mendix|
+|[https://www.emissieautoriteit.nl](https://www.emissieautoriteit.nl)| **A+**| **C**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Home | Nederland...|
+|[https://emissieautoriteit.nl](https://emissieautoriteit.nl)| **A+**| **C**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|

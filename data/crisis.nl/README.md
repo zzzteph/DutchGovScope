@@ -1,15 +1,11 @@
----
-layout: dutchgov
-permalink: /dutchgov/crisis.nl.html
----
 
 
 # crisis.nl
 ## Summary data
 
 
-**SSL Grade**:100
-**HTTP Security Grade**:87
+**SSL Grade**:A+
+**HTTP Security Grade**:B
 
 
 | File       | Count | Info |
@@ -24,5 +20,5 @@ permalink: /dutchgov/crisis.nl.html
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://www.crisis.nl](https://www.crisis.nl)| **A+**| **87**|Microsoft-IIS/10.0|:warning: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Azure HSTS IIS:10.0 Microsoft ASP.NET:4.0.30319 Windows Server|crisis.nl | Cris...|
-|[https://crisis.nl](https://crisis.nl)| **A+**| **87**|Microsoft-IIS/10.0|:warning: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Azure HSTS IIS:10.0 Microsoft ASP.NET:4.0.30319 Windows Server|crisis.nl | Cris...|
+|[https://www.crisis.nl](https://www.crisis.nl)| **A+**| **B**|Microsoft-IIS/10.0|:warning: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Azure HSTS IIS:10.0 Microsoft ASP.NET:4.0.30319 Windows Server|crisis.nl | Cris...|
+|[https://crisis.nl](https://crisis.nl)| **A+**| **B**|Microsoft-IIS/10.0|:warning: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Azure HSTS IIS:10.0 Microsoft ASP.NET:4.0.30319 Windows Server|crisis.nl | Cris...|

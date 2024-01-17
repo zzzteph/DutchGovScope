@@ -1,15 +1,11 @@
----
-layout: dutchgov
-permalink: /dutchgov/deutsch.postedworkers.nl.html
----
 
 
 # deutsch.postedworkers.nl
 ## Summary data
 
 
-**SSL Grade**:100
-**HTTP Security Grade**:68.333333333333
+**SSL Grade**:A+
+**HTTP Security Grade**:D
 
 
 | File       | Count | Info |
@@ -24,6 +20,6 @@ permalink: /dutchgov/deutsch.postedworkers.nl.html
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://opendata.deutsch.postedworkers.nl](https://opendata.deutsch.postedworkers.nl)| **A+**| **65**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
-|[https://deutsch.postedworkers.nl](https://deutsch.postedworkers.nl)| **A+**| **75**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Posted Workers |...|
-|[https://feeds.deutsch.postedworkers.nl](https://feeds.deutsch.postedworkers.nl)| **A+**| **65**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
+|[https://opendata.deutsch.postedworkers.nl](https://opendata.deutsch.postedworkers.nl)| **A+**| **D**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
+|[https://deutsch.postedworkers.nl](https://deutsch.postedworkers.nl)| **A+**| **C**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Posted Workers |...|
+|[https://feeds.deutsch.postedworkers.nl](https://feeds.deutsch.postedworkers.nl)| **A+**| **D**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||

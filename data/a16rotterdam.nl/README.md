@@ -1,15 +1,11 @@
----
-layout: dutchgov
-permalink: /dutchgov/a16rotterdam.nl.html
----
 
 
 # a16rotterdam.nl
 ## Summary data
 
 
-**SSL Grade**:0
-**HTTP Security Grade**:70
+**SSL Grade**:F
+**HTTP Security Grade**:C
 
 
 | File       | Count | Info |
@@ -24,5 +20,5 @@ permalink: /dutchgov/a16rotterdam.nl.html
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://www.a16rotterdam.nl](https://www.a16rotterdam.nl)| | **70**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET YouTube|Object moved|
-|[https://a16rotterdam.nl](https://a16rotterdam.nl)| | **70**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET YouTube|Object moved|
+|[https://www.a16rotterdam.nl](https://www.a16rotterdam.nl)| | **C**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET YouTube|Object moved|
+|[https://a16rotterdam.nl](https://a16rotterdam.nl)| | **C**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET YouTube|Object moved|

@@ -1,15 +1,11 @@
----
-layout: dutchgov
-permalink: /dutchgov/nieuwjaarstoost.nl.html
----
 
 
 # nieuwjaarstoost.nl
 ## Summary data
 
 
-**SSL Grade**:0
-**HTTP Security Grade**:25
+**SSL Grade**:F
+**HTTP Security Grade**:F
 
 
 | File       | Count | Info |
@@ -24,5 +20,5 @@ permalink: /dutchgov/nieuwjaarstoost.nl.html
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://nieuwjaarstoost.nl](https://nieuwjaarstoost.nl)| | **25**|nginx| | | | | | | | :white_check_mark: | |Nginx|Geen webhosting...|
-|[https://www.nieuwjaarstoost.nl](https://www.nieuwjaarstoost.nl)| | **25**|nginx| | | | | | | | :white_check_mark: | |Nginx|Geen webhosting...|
+|[https://nieuwjaarstoost.nl](https://nieuwjaarstoost.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|Geen webhosting...|
+|[https://www.nieuwjaarstoost.nl](https://www.nieuwjaarstoost.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|Geen webhosting...|

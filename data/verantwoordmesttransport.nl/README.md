@@ -1,15 +1,11 @@
----
-layout: dutchgov
-permalink: /dutchgov/verantwoordmesttransport.nl.html
----
 
 
 # verantwoordmesttransport.nl
 ## Summary data
 
 
-**SSL Grade**:0
-**HTTP Security Grade**:80
+**SSL Grade**:F
+**HTTP Security Grade**:B
 
 
 | File       | Count | Info |
@@ -24,5 +20,5 @@ permalink: /dutchgov/verantwoordmesttransport.nl.html
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://www.verantwoordmesttransport.nl](https://www.verantwoordmesttransport.nl)| | **80**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |||
-|[https://verantwoordmesttransport.nl](https://verantwoordmesttransport.nl)| | **80**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |||
+|[https://www.verantwoordmesttransport.nl](https://www.verantwoordmesttransport.nl)| | **B**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |||
+|[https://verantwoordmesttransport.nl](https://verantwoordmesttransport.nl)| | **B**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |||

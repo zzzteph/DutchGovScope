@@ -1,15 +1,11 @@
----
-layout: dutchgov
-permalink: /dutchgov/rijksinkopen.nl.html
----
 
 
 # rijksinkopen.nl
 ## Summary data
 
 
-**SSL Grade**:0
-**HTTP Security Grade**:71.666666666667
+**SSL Grade**:F
+**HTTP Security Grade**:C
 
 
 | File       | Count | Info |
@@ -24,6 +20,6 @@ permalink: /dutchgov/rijksinkopen.nl.html
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://plink.rijksinkopen.nl](https://plink.rijksinkopen.nl)| | **85**|Apache| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Apache HTTP Server HSTS||
-|[https://leveranciersportaal.rijksinkopen.nl](https://leveranciersportaal.rijksinkopen.nl)| | **65**|nginx|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS Microsoft ASP.NET Nginx|Leveranciersport...|
-|[https://lp.rijksinkopen.nl](https://lp.rijksinkopen.nl)| | **65**|nginx|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS Microsoft ASP.NET Nginx|Leveranciersport...|
+|[https://plink.rijksinkopen.nl](https://plink.rijksinkopen.nl)| | **B**|Apache| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Apache HTTP Server HSTS||
+|[https://leveranciersportaal.rijksinkopen.nl](https://leveranciersportaal.rijksinkopen.nl)| | **D**|nginx|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS Microsoft ASP.NET Nginx|Leveranciersport...|
+|[https://lp.rijksinkopen.nl](https://lp.rijksinkopen.nl)| | **D**|nginx|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS Microsoft ASP.NET Nginx|Leveranciersport...|

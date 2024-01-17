@@ -1,15 +1,11 @@
----
-layout: dutchgov
-permalink: /dutchgov/minbzk.nl.html
----
 
 
 # minbzk.nl
 ## Summary data
 
 
-**SSL Grade**:0
-**HTTP Security Grade**:58
+**SSL Grade**:F
+**HTTP Security Grade**:E
 
 
 | File       | Count | Info |
@@ -24,12 +20,12 @@ permalink: /dutchgov/minbzk.nl.html
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://english.minbzk.nl](https://english.minbzk.nl)| | **25**|nginx| | | | | | | | :white_check_mark: | |Nginx|403 Forbidden|
-|[https://mft-e.minbzk.nl](https://mft-e.minbzk.nl)| | **94**|SecureTransport 5.5-20230427 (build: 3179) - Linux|:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
-|[https://www.minbzk.nl](https://www.minbzk.nl)| | **75**|Microsoft-IIS/10.0| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS IIS:10.0 Windows Server|Document Moved|
-|[https://minbzk.nl](https://minbzk.nl)| | **75**|Microsoft-IIS/10.0| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS IIS:10.0 Windows Server|Document Moved|
-|[https://prisma.minbzk.nl](https://prisma.minbzk.nl)| | **69**|Apache|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS||
-|[https://loc.minbzk.nl](https://loc.minbzk.nl)| | **79**|Class|:white_check_mark: |:white_check_mark: | | |:warning: | | :white_check_mark: | :white_check_mark: | |HSTS||
-|[https://flowlogics.minbzk.nl](https://flowlogics.minbzk.nl)| | **25**|Microsoft-IIS/8.5| | | | | | | | :white_check_mark: | |Basic IIS:8.5 Microsoft ASP.NET Windows Server|401 - Unauthoriz...|
-|[https://acc-flowlogics.minbzk.nl](https://acc-flowlogics.minbzk.nl)| | **25**|Microsoft-IIS/8.5| | | | | | | | :white_check_mark: | |Basic IIS:8.5 Microsoft ASP.NET Windows Server|401 - Unauthoriz...|
-|[https://wikixl-saml.minbzk.nl](https://wikixl-saml.minbzk.nl)| | **55**|Apache| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS|Redirect|
+|[https://english.minbzk.nl](https://english.minbzk.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|403 Forbidden|
+|[https://mft-e.minbzk.nl](https://mft-e.minbzk.nl)| | **A**|SecureTransport 5.5-20230427 (build: 3179) - Linux|:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
+|[https://www.minbzk.nl](https://www.minbzk.nl)| | **C**|Microsoft-IIS/10.0| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS IIS:10.0 Windows Server|Document Moved|
+|[https://minbzk.nl](https://minbzk.nl)| | **C**|Microsoft-IIS/10.0| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS IIS:10.0 Windows Server|Document Moved|
+|[https://prisma.minbzk.nl](https://prisma.minbzk.nl)| | **D**|Apache|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS||
+|[https://loc.minbzk.nl](https://loc.minbzk.nl)| | **C**|Class|:white_check_mark: |:white_check_mark: | | |:warning: | | :white_check_mark: | :white_check_mark: | |HSTS||
+|[https://flowlogics.minbzk.nl](https://flowlogics.minbzk.nl)| | **F**|Microsoft-IIS/8.5| | | | | | | | :white_check_mark: | |Basic IIS:8.5 Microsoft ASP.NET Windows Server|401 - Unauthoriz...|
+|[https://acc-flowlogics.minbzk.nl](https://acc-flowlogics.minbzk.nl)| | **F**|Microsoft-IIS/8.5| | | | | | | | :white_check_mark: | |Basic IIS:8.5 Microsoft ASP.NET Windows Server|401 - Unauthoriz...|
+|[https://wikixl-saml.minbzk.nl](https://wikixl-saml.minbzk.nl)| | **E**|Apache| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS|Redirect|

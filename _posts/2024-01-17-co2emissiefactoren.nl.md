@@ -1,14 +1,42 @@
 ---
-layout: post
+layout: default
 title: "co2emissiefactoren.nl"
-internal_url: "/dutchgov/co2emissiefactoren.nl.html"
+permalink: "/dutchgov/co2emissiefactoren.nl.html"
 subdomains_count: 6
 all_subdomains_count: 6
 urls_count: 6
-ssl_rank: 0
-http_rank: 25
+ssl_rank: F
+http_rank: F
 url_link: /data/co2emissiefactoren.nl/urls.txt
 all_subdomains_link: /data/co2emissiefactoren.nl/all_subdomains.txt
 subdomains_link: /data/co2emissiefactoren.nl/subdomains.txt
 categories: dutchgov
 ---
+
+
+# co2emissiefactoren.nl
+## Summary data
+
+
+**SSL Grade**:F
+**HTTP Security Grade**:F
+
+
+| File       | Count | Info |
+|------------|-------|------|
+|[subdomains.txt](/data/co2emissiefactoren.nl/subdomains.txt)|6|Alive subdomains|
+|[urls.txt](/data/co2emissiefactoren.nl/urls.txt)|6|Urls|
+|[all_subdomains.txt](/data/co2emissiefactoren.nl/all_subdomains.txt)|6|All found subdomains (history)|
+
+
+## Statistics
+
+
+| Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
+|--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
+|[https://mail.co2emissiefactoren.nl](https://mail.co2emissiefactoren.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|403 Forbidden|
+|[https://www.co2emissiefactoren.nl](https://www.co2emissiefactoren.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server MySQL PHP Slider Revolution:6.6.19 WordPress:6.4.2 Yoast SEO:21.7 wpBakery|Home | CO2 emiss...|
+|[https://factorswww.co2emissiefactoren.nl](https://factorswww.co2emissiefactoren.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|403 Forbidden|
+|[https://co2emissiefactoren.nl](https://co2emissiefactoren.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|301 Moved Perman...|
+|[https://atwww.co2emissiefactoren.nl](https://atwww.co2emissiefactoren.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|403 Forbidden|
+|[https://vanwww.co2emissiefactoren.nl](https://vanwww.co2emissiefactoren.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|403 Forbidden|

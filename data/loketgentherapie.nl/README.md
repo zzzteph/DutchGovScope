@@ -1,15 +1,11 @@
----
-layout: dutchgov
-permalink: /dutchgov/loketgentherapie.nl.html
----
 
 
 # loketgentherapie.nl
 ## Summary data
 
 
-**SSL Grade**:0
-**HTTP Security Grade**:65
+**SSL Grade**:F
+**HTTP Security Grade**:D
 
 
 | File       | Count | Info |
@@ -24,5 +20,5 @@ permalink: /dutchgov/loketgentherapie.nl.html
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://www.loketgentherapie.nl](https://www.loketgentherapie.nl)| | **65**|Apache| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server Drupal HSTS PHP|Loket Gentherapi...|
-|[https://loketgentherapie.nl](https://loketgentherapie.nl)| | **65**|Apache| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS|301 Moved Perman...|
+|[https://www.loketgentherapie.nl](https://www.loketgentherapie.nl)| | **D**|Apache| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server Drupal HSTS PHP|Loket Gentherapi...|
+|[https://loketgentherapie.nl](https://loketgentherapie.nl)| | **D**|Apache| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS|301 Moved Perman...|

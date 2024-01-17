@@ -1,15 +1,11 @@
----
-layout: dutchgov
-permalink: /dutchgov/klimaatadaptatienederland.nl.html
----
 
 
 # klimaatadaptatienederland.nl
 ## Summary data
 
 
-**SSL Grade**:0
-**HTTP Security Grade**:60
+**SSL Grade**:F
+**HTTP Security Grade**:D
 
 
 | File       | Count | Info |
@@ -24,7 +20,7 @@ permalink: /dutchgov/klimaatadaptatienederland.nl.html
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://files.klimaatadaptatienederland.nl](https://files.klimaatadaptatienederland.nl)| | **25**|-| | | | | | | | :white_check_mark: | |||
-|[https://woordenboek.klimaatadaptatienederland.nl](https://woordenboek.klimaatadaptatienederland.nl)| | **55**|Apache| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS||
-|[https://www.klimaatadaptatienederland.nl](https://www.klimaatadaptatienederland.nl)| | **80**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:-|Object moved|
-|[https://klimaatadaptatienederland.nl](https://klimaatadaptatienederland.nl)| | **80**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Google Tag Manager HSTS Microsoft ASP.NET:-|Home - Klimaatad...|
+|[https://files.klimaatadaptatienederland.nl](https://files.klimaatadaptatienederland.nl)| | **F**|-| | | | | | | | :white_check_mark: | |||
+|[https://woordenboek.klimaatadaptatienederland.nl](https://woordenboek.klimaatadaptatienederland.nl)| | **E**|Apache| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS||
+|[https://www.klimaatadaptatienederland.nl](https://www.klimaatadaptatienederland.nl)| | **B**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:-|Object moved|
+|[https://klimaatadaptatienederland.nl](https://klimaatadaptatienederland.nl)| | **B**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Google Tag Manager HSTS Microsoft ASP.NET:-|Home - Klimaatad...|

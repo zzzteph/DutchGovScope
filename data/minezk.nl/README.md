@@ -1,15 +1,11 @@
----
-layout: dutchgov
-permalink: /dutchgov/minezk.nl.html
----
 
 
 # minezk.nl
 ## Summary data
 
 
-**SSL Grade**:0
-**HTTP Security Grade**:68.5
+**SSL Grade**:F
+**HTTP Security Grade**:D
 
 
 | File       | Count | Info |
@@ -24,7 +20,7 @@ permalink: /dutchgov/minezk.nl.html
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://www.minezk.nl](https://www.minezk.nl)| | **80**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |||
-|[http://scanapp.minezk.nl](http://scanapp.minezk.nl)| | **30**|| | | | | | | | :white_check_mark: | |||
-|[https://acc.datacatalogus.minezk.nl](https://acc.datacatalogus.minezk.nl)| | **84**|Apache|:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
-|[https://minezk.nl](https://minezk.nl)| | **80**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |||
+|[https://www.minezk.nl](https://www.minezk.nl)| | **B**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |||
+|[http://scanapp.minezk.nl](http://scanapp.minezk.nl)| | **F**|| | | | | | | | :white_check_mark: | |||
+|[https://acc.datacatalogus.minezk.nl](https://acc.datacatalogus.minezk.nl)| | **B**|Apache|:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
+|[https://minezk.nl](https://minezk.nl)| | **B**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |||

@@ -1,15 +1,11 @@
----
-layout: dutchgov
-permalink: /dutchgov/lerenvoorveiligheid.nl.html
----
 
 
 # lerenvoorveiligheid.nl
 ## Summary data
 
 
-**SSL Grade**:0
-**HTTP Security Grade**:65
+**SSL Grade**:F
+**HTTP Security Grade**:D
 
 
 | File       | Count | Info |
@@ -24,5 +20,5 @@ permalink: /dutchgov/lerenvoorveiligheid.nl.html
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://www.lerenvoorveiligheid.nl](https://www.lerenvoorveiligheid.nl)| | **65**|Apache| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server Drupal HSTS PHP|Leren voor veili...|
-|[https://lerenvoorveiligheid.nl](https://lerenvoorveiligheid.nl)| | **65**|Apache| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS|301 Moved Perman...|
+|[https://www.lerenvoorveiligheid.nl](https://www.lerenvoorveiligheid.nl)| | **D**|Apache| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server Drupal HSTS PHP|Leren voor veili...|
+|[https://lerenvoorveiligheid.nl](https://lerenvoorveiligheid.nl)| | **D**|Apache| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS|301 Moved Perman...|

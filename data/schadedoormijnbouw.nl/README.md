@@ -1,15 +1,11 @@
----
-layout: dutchgov
-permalink: /dutchgov/schadedoormijnbouw.nl.html
----
 
 
 # schadedoormijnbouw.nl
 ## Summary data
 
 
-**SSL Grade**:0
-**HTTP Security Grade**:79.5
+**SSL Grade**:F
+**HTTP Security Grade**:C
 
 
 | File       | Count | Info |
@@ -24,7 +20,7 @@ permalink: /dutchgov/schadedoormijnbouw.nl.html
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://mijndossier.schadedoormijnbouw.nl](https://mijndossier.schadedoormijnbouw.nl)| | **94**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Java||
-|[https://www.schadedoormijnbouw.nl](https://www.schadedoormijnbouw.nl)| | **70**|| |:white_check_mark: | | |:warning: | | :white_check_mark: | :white_check_mark: | |Azure Azure Edge Network Azure Front Door HSTS|Homepagina voor...|
-|[https://schadedoormijnbouw.nl](https://schadedoormijnbouw.nl)| | **70**|| |:white_check_mark: | | |:warning: | | :white_check_mark: | :white_check_mark: | |HSTS|Document Moved|
-|[https://forum.schadedoormijnbouw.nl](https://forum.schadedoormijnbouw.nl)| | **84**||:white_check_mark: |:white_check_mark: | | |:warning: | | :white_check_mark: | :white_check_mark: | |Azure Azure Edge Network Azure Front Door HSTS Microsoft ASP.NET|Forums|
+|[https://mijndossier.schadedoormijnbouw.nl](https://mijndossier.schadedoormijnbouw.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Java||
+|[https://www.schadedoormijnbouw.nl](https://www.schadedoormijnbouw.nl)| | **C**|| |:white_check_mark: | | |:warning: | | :white_check_mark: | :white_check_mark: | |Azure Azure Edge Network Azure Front Door HSTS|Homepagina voor...|
+|[https://schadedoormijnbouw.nl](https://schadedoormijnbouw.nl)| | **C**|| |:white_check_mark: | | |:warning: | | :white_check_mark: | :white_check_mark: | |HSTS|Document Moved|
+|[https://forum.schadedoormijnbouw.nl](https://forum.schadedoormijnbouw.nl)| | **B**||:white_check_mark: |:white_check_mark: | | |:warning: | | :white_check_mark: | :white_check_mark: | |Azure Azure Edge Network Azure Front Door HSTS Microsoft ASP.NET|Forums|

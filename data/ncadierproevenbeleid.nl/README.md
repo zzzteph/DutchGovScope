@@ -1,15 +1,11 @@
----
-layout: dutchgov
-permalink: /dutchgov/ncadierproevenbeleid.nl.html
----
 
 
 # ncadierproevenbeleid.nl
 ## Summary data
 
 
-**SSL Grade**:0
-**HTTP Security Grade**:69.285714285714
+**SSL Grade**:F
+**HTTP Security Grade**:D
 
 
 | File       | Count | Info |
@@ -24,10 +20,10 @@ permalink: /dutchgov/ncadierproevenbeleid.nl.html
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://english.ncadierproevenbeleid.nl](https://english.ncadierproevenbeleid.nl)| | **75**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Netherlands Nati...|
-|[https://feeds.ncadierproevenbeleid.nl](https://feeds.ncadierproevenbeleid.nl)| | **65**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
-|[https://feeds.english.ncadierproevenbeleid.nl](https://feeds.english.ncadierproevenbeleid.nl)| | **65**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
-|[https://opendata.ncadierproevenbeleid.nl](https://opendata.ncadierproevenbeleid.nl)| | **65**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
-|[https://opendata.english.ncadierproevenbeleid.nl](https://opendata.english.ncadierproevenbeleid.nl)| | **65**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
-|[https://www.ncadierproevenbeleid.nl](https://www.ncadierproevenbeleid.nl)| | **75**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Home | Nationaal...|
-|[https://ncadierproevenbeleid.nl](https://ncadierproevenbeleid.nl)| | **75**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
+|[https://english.ncadierproevenbeleid.nl](https://english.ncadierproevenbeleid.nl)| | **C**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Netherlands Nati...|
+|[https://feeds.ncadierproevenbeleid.nl](https://feeds.ncadierproevenbeleid.nl)| | **D**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
+|[https://feeds.english.ncadierproevenbeleid.nl](https://feeds.english.ncadierproevenbeleid.nl)| | **D**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
+|[https://opendata.ncadierproevenbeleid.nl](https://opendata.ncadierproevenbeleid.nl)| | **D**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
+|[https://opendata.english.ncadierproevenbeleid.nl](https://opendata.english.ncadierproevenbeleid.nl)| | **D**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
+|[https://www.ncadierproevenbeleid.nl](https://www.ncadierproevenbeleid.nl)| | **C**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Home | Nationaal...|
+|[https://ncadierproevenbeleid.nl](https://ncadierproevenbeleid.nl)| | **C**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|

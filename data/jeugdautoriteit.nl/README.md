@@ -1,15 +1,11 @@
----
-layout: dutchgov
-permalink: /dutchgov/jeugdautoriteit.nl.html
----
 
 
 # jeugdautoriteit.nl
 ## Summary data
 
 
-**SSL Grade**:0
-**HTTP Security Grade**:71
+**SSL Grade**:F
+**HTTP Security Grade**:C
 
 
 | File       | Count | Info |
@@ -24,8 +20,8 @@ permalink: /dutchgov/jeugdautoriteit.nl.html
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://feeds.jeugdautoriteit.nl](https://feeds.jeugdautoriteit.nl)| | **65**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
-|[https://magazines.jeugdautoriteit.nl](https://magazines.jeugdautoriteit.nl)| | **75**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
-|[https://opendata.jeugdautoriteit.nl](https://opendata.jeugdautoriteit.nl)| | **65**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
-|[https://www.jeugdautoriteit.nl](https://www.jeugdautoriteit.nl)| | **75**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Home | Jeugdauto...|
-|[https://jeugdautoriteit.nl](https://jeugdautoriteit.nl)| | **75**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
+|[https://feeds.jeugdautoriteit.nl](https://feeds.jeugdautoriteit.nl)| | **D**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
+|[https://magazines.jeugdautoriteit.nl](https://magazines.jeugdautoriteit.nl)| | **C**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
+|[https://opendata.jeugdautoriteit.nl](https://opendata.jeugdautoriteit.nl)| | **D**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
+|[https://www.jeugdautoriteit.nl](https://www.jeugdautoriteit.nl)| | **C**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Home | Jeugdauto...|
+|[https://jeugdautoriteit.nl](https://jeugdautoriteit.nl)| | **C**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|

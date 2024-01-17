@@ -1,15 +1,11 @@
----
-layout: dutchgov
-permalink: /dutchgov/www-alert.nl.html
----
 
 
 # www-alert.nl
 ## Summary data
 
 
-**SSL Grade**:0
-**HTTP Security Grade**:0
+**SSL Grade**:F
+**HTTP Security Grade**:F
 
 
 | File       | Count | Info |

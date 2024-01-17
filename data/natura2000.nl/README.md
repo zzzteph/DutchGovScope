@@ -1,15 +1,11 @@
----
-layout: dutchgov
-permalink: /dutchgov/natura2000.nl.html
----
 
 
 # natura2000.nl
 ## Summary data
 
 
-**SSL Grade**:0
-**HTTP Security Grade**:48
+**SSL Grade**:F
+**HTTP Security Grade**:F
 
 
 | File       | Count | Info |
@@ -24,8 +20,8 @@ permalink: /dutchgov/natura2000.nl.html
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://acc.natura2000.nl](https://acc.natura2000.nl)| | **25**|nginx| | | | | | | | :white_check_mark: | |Basic HSTS Nginx|401 Authorizatio...|
-|[https://pas.natura2000.nl](https://pas.natura2000.nl)| | **30**|| | | | | | | | :white_check_mark: | |HSTS||
-|[https://test.natura2000.nl](https://test.natura2000.nl)| | **25**|nginx| | | | | | | | :white_check_mark: | |Basic Nginx|401 Authorizatio...|
-|[https://www.natura2000.nl](https://www.natura2000.nl)| | **80**|nginx| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Drupal:10 HSTS Nginx PHP|Natura 2000 | na...|
-|[https://natura2000.nl](https://natura2000.nl)| | **80**|nginx| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
+|[https://acc.natura2000.nl](https://acc.natura2000.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Basic HSTS Nginx|401 Authorizatio...|
+|[https://pas.natura2000.nl](https://pas.natura2000.nl)| | **F**|| | | | | | | | :white_check_mark: | |HSTS||
+|[https://test.natura2000.nl](https://test.natura2000.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Basic Nginx|401 Authorizatio...|
+|[https://www.natura2000.nl](https://www.natura2000.nl)| | **B**|nginx| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Drupal:10 HSTS Nginx PHP|Natura 2000 | na...|
+|[https://natura2000.nl](https://natura2000.nl)| | **B**|nginx| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|

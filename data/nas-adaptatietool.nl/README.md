@@ -1,15 +1,11 @@
----
-layout: dutchgov
-permalink: /dutchgov/nas-adaptatietool.nl.html
----
 
 
 # nas-adaptatietool.nl
 ## Summary data
 
 
-**SSL Grade**:0
-**HTTP Security Grade**:40
+**SSL Grade**:F
+**HTTP Security Grade**:F
 
 
 | File       | Count | Info |
@@ -24,5 +20,5 @@ permalink: /dutchgov/nas-adaptatietool.nl.html
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
-|[http://www.nas-adaptatietool.nl](http://www.nas-adaptatietool.nl)| | **30**|| | | | | | | | :white_check_mark: | |||
-|[https://nas-adaptatietool.nl](https://nas-adaptatietool.nl)| | **50**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|NAS adaptatietoo...|
+|[http://www.nas-adaptatietool.nl](http://www.nas-adaptatietool.nl)| | **F**|| | | | | | | | :white_check_mark: | |||
+|[https://nas-adaptatietool.nl](https://nas-adaptatietool.nl)| | **E**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|NAS adaptatietoo...|

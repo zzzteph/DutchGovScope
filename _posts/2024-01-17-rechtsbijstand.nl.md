@@ -1,14 +1,38 @@
 ---
-layout: post
+layout: default
 title: "rechtsbijstand.nl"
-internal_url: "/dutchgov/rechtsbijstand.nl.html"
+permalink: "/dutchgov/rechtsbijstand.nl.html"
 subdomains_count: 2
 all_subdomains_count: 4
 urls_count: 2
-ssl_rank: 0
-http_rank: 80
+ssl_rank: F
+http_rank: B
 url_link: /data/rechtsbijstand.nl/urls.txt
 all_subdomains_link: /data/rechtsbijstand.nl/all_subdomains.txt
 subdomains_link: /data/rechtsbijstand.nl/subdomains.txt
 categories: dutchgov
 ---
+
+
+# rechtsbijstand.nl
+## Summary data
+
+
+**SSL Grade**:F
+**HTTP Security Grade**:B
+
+
+| File       | Count | Info |
+|------------|-------|------|
+|[subdomains.txt](/data/rechtsbijstand.nl/subdomains.txt)|2|Alive subdomains|
+|[urls.txt](/data/rechtsbijstand.nl/urls.txt)|2|Urls|
+|[all_subdomains.txt](/data/rechtsbijstand.nl/all_subdomains.txt)|4|All found subdomains (history)|
+
+
+## Statistics
+
+
+| Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
+|--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
+|[https://www.rechtsbijstand.nl](https://www.rechtsbijstand.nl)| | **B**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Home - Rechtsbij...|
+|[https://rechtsbijstand.nl](https://rechtsbijstand.nl)| | **B**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Object moved|

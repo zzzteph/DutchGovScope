@@ -1,15 +1,11 @@
----
-layout: dutchgov
-permalink: /dutchgov/agendastad.nl.html
----
 
 
 # agendastad.nl
 ## Summary data
 
 
-**SSL Grade**:0
-**HTTP Security Grade**:45
+**SSL Grade**:F
+**HTTP Security Grade**:F
 
 
 | File       | Count | Info |
@@ -24,6 +20,6 @@ permalink: /dutchgov/agendastad.nl.html
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://magazines.agendastad.nl](https://magazines.agendastad.nl)| | **45**|nginx/1.20.1| | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Nginx:1.20.1 PHP||
-|[https://www.agendastad.nl](https://www.agendastad.nl)| | **45**|cloudflare| |:white_check_mark: | | | | | | :white_check_mark: | |Cloudflare HSTS HTTP/3||
-|[https://agendastad.nl](https://agendastad.nl)| | **45**|cloudflare| |:white_check_mark: | | | | | | :white_check_mark: | |Cloudflare HSTS HTTP/3 MySQL PHP WP Rocket WordPress:6.4.2 Yoast SEO:21.8|Agenda Stad - ho...|
+|[https://magazines.agendastad.nl](https://magazines.agendastad.nl)| | **F**|nginx/1.20.1| | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Nginx:1.20.1 PHP||
+|[https://www.agendastad.nl](https://www.agendastad.nl)| | **F**|cloudflare| |:white_check_mark: | | | | | | :white_check_mark: | |Cloudflare HSTS HTTP/3||
+|[https://agendastad.nl](https://agendastad.nl)| | **F**|cloudflare| |:white_check_mark: | | | | | | :white_check_mark: | |Cloudflare HSTS HTTP/3 MySQL PHP WP Rocket WordPress:6.4.2 Yoast SEO:21.8|Agenda Stad - ho...|

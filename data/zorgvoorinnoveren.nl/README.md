@@ -1,15 +1,11 @@
----
-layout: dutchgov
-permalink: /dutchgov/zorgvoorinnoveren.nl.html
----
 
 
 # zorgvoorinnoveren.nl
 ## Summary data
 
 
-**SSL Grade**:0
-**HTTP Security Grade**:90
+**SSL Grade**:F
+**HTTP Security Grade**:A
 
 
 | File       | Count | Info |
@@ -24,5 +20,5 @@ permalink: /dutchgov/zorgvoorinnoveren.nl.html
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://www.zorgvoorinnoveren.nl](https://www.zorgvoorinnoveren.nl)| | **90**|nginx| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx|Jij stippelt de...|
-|[https://zorgvoorinnoveren.nl](https://zorgvoorinnoveren.nl)| | **90**|nginx| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx|Jij stippelt de...|
+|[https://www.zorgvoorinnoveren.nl](https://www.zorgvoorinnoveren.nl)| | **A**|nginx| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx|Jij stippelt de...|
+|[https://zorgvoorinnoveren.nl](https://zorgvoorinnoveren.nl)| | **A**|nginx| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx|Jij stippelt de...|

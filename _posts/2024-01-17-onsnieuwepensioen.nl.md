@@ -1,14 +1,38 @@
 ---
-layout: post
+layout: default
 title: "onsnieuwepensioen.nl"
-internal_url: "/dutchgov/onsnieuwepensioen.nl.html"
+permalink: "/dutchgov/onsnieuwepensioen.nl.html"
 subdomains_count: 2
 all_subdomains_count: 4
 urls_count: 2
-ssl_rank: 0
-http_rank: 75
+ssl_rank: F
+http_rank: C
 url_link: /data/onsnieuwepensioen.nl/urls.txt
 all_subdomains_link: /data/onsnieuwepensioen.nl/all_subdomains.txt
 subdomains_link: /data/onsnieuwepensioen.nl/subdomains.txt
 categories: dutchgov
 ---
+
+
+# onsnieuwepensioen.nl
+## Summary data
+
+
+**SSL Grade**:F
+**HTTP Security Grade**:C
+
+
+| File       | Count | Info |
+|------------|-------|------|
+|[subdomains.txt](/data/onsnieuwepensioen.nl/subdomains.txt)|2|Alive subdomains|
+|[urls.txt](/data/onsnieuwepensioen.nl/urls.txt)|2|Urls|
+|[all_subdomains.txt](/data/onsnieuwepensioen.nl/all_subdomains.txt)|4|All found subdomains (history)|
+
+
+## Statistics
+
+
+| Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
+|--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
+|[https://www.onsnieuwepensioen.nl](https://www.onsnieuwepensioen.nl)| | **C**|Microsoft-IIS/10.0| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS IIS:10.0 Windows Server|Document Moved|
+|[https://onsnieuwepensioen.nl](https://onsnieuwepensioen.nl)| | **C**|Microsoft-IIS/10.0| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS IIS:10.0 Windows Server|Document Moved|

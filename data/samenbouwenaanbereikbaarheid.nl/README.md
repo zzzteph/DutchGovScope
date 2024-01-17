@@ -1,15 +1,11 @@
----
-layout: dutchgov
-permalink: /dutchgov/samenbouwenaanbereikbaarheid.nl.html
----
 
 
 # samenbouwenaanbereikbaarheid.nl
 ## Summary data
 
 
-**SSL Grade**:0
-**HTTP Security Grade**:35
+**SSL Grade**:F
+**HTTP Security Grade**:F
 
 
 | File       | Count | Info |
@@ -24,6 +20,6 @@ permalink: /dutchgov/samenbouwenaanbereikbaarheid.nl.html
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://samenbouwenaanbereikbaarheid.nl](https://samenbouwenaanbereikbaarheid.nl)| | **40**|| |:white_check_mark: | :warning:| | | | | :white_check_mark: | |HSTS||
-|[https://www.samenbouwenaanbereikbaarheid.nl](https://www.samenbouwenaanbereikbaarheid.nl)| | **35**|nginx| |:white_check_mark: | :warning:| | | | | :white_check_mark: | |Glyphicons HSTS Nginx|Home :: Samen Bo...|
-|[https://staging.samenbouwenaanbereikbaarheid.nl](https://staging.samenbouwenaanbereikbaarheid.nl)| | **30**|| | | | | | | | :white_check_mark: | |||
+|[https://samenbouwenaanbereikbaarheid.nl](https://samenbouwenaanbereikbaarheid.nl)| | **F**|| |:white_check_mark: | :warning:| | | | | :white_check_mark: | |HSTS||
+|[https://www.samenbouwenaanbereikbaarheid.nl](https://www.samenbouwenaanbereikbaarheid.nl)| | **F**|nginx| |:white_check_mark: | :warning:| | | | | :white_check_mark: | |Glyphicons HSTS Nginx|Home :: Samen Bo...|
+|[https://staging.samenbouwenaanbereikbaarheid.nl](https://staging.samenbouwenaanbereikbaarheid.nl)| | **F**|| | | | | | | | :white_check_mark: | |||

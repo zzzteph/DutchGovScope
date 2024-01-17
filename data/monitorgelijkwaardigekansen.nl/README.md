@@ -1,15 +1,11 @@
----
-layout: dutchgov
-permalink: /dutchgov/monitorgelijkwaardigekansen.nl.html
----
 
 
 # monitorgelijkwaardigekansen.nl
 ## Summary data
 
 
-**SSL Grade**:0
-**HTTP Security Grade**:50
+**SSL Grade**:F
+**HTTP Security Grade**:E
 
 
 | File       | Count | Info |
@@ -24,6 +20,6 @@ permalink: /dutchgov/monitorgelijkwaardigekansen.nl.html
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://www.monitorgelijkwaardigekansen.nl](https://www.monitorgelijkwaardigekansen.nl)| | **50**||:o: |:white_check_mark: | | | | | | :white_check_mark: | |Azure HSTS Inertia.js PHP:7.4.33|GelijkwaardigeKa...|
-|[https://test645.monitorgelijkwaardigekansen.nl](https://test645.monitorgelijkwaardigekansen.nl)| | **50**||:o: |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Inertia.js PHP:7.4.33|GelijkwaardigeKa...|
-|[https://monitorgelijkwaardigekansen.nl](https://monitorgelijkwaardigekansen.nl)| | **50**||:o: |:white_check_mark: | | | | | | :white_check_mark: | |Azure HSTS Inertia.js PHP:7.4.33|GelijkwaardigeKa...|
+|[https://www.monitorgelijkwaardigekansen.nl](https://www.monitorgelijkwaardigekansen.nl)| | **E**||:o: |:white_check_mark: | | | | | | :white_check_mark: | |Azure HSTS Inertia.js PHP:7.4.33|GelijkwaardigeKa...|
+|[https://test645.monitorgelijkwaardigekansen.nl](https://test645.monitorgelijkwaardigekansen.nl)| | **E**||:o: |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Inertia.js PHP:7.4.33|GelijkwaardigeKa...|
+|[https://monitorgelijkwaardigekansen.nl](https://monitorgelijkwaardigekansen.nl)| | **E**||:o: |:white_check_mark: | | | | | | :white_check_mark: | |Azure HSTS Inertia.js PHP:7.4.33|GelijkwaardigeKa...|

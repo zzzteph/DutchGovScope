@@ -1,15 +1,11 @@
----
-layout: dutchgov
-permalink: /dutchgov/nladag.nl.html
----
 
 
 # nladag.nl
 ## Summary data
 
 
-**SSL Grade**:0
-**HTTP Security Grade**:38.333333333333
+**SSL Grade**:F
+**HTTP Security Grade**:F
 
 
 | File       | Count | Info |
@@ -24,6 +20,6 @@ permalink: /dutchgov/nladag.nl.html
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://nladag.nl](https://nladag.nl)| | **45**|cloudflare|:o: |:white_check_mark: | | | | | | :white_check_mark: | |Cloudflare HSTS HTTP/3 PHP|Home NL Arbeidsi...|
-|[https://mail.nladag.nl](https://mail.nladag.nl)| | **25**|Apache|:o: | | | | | | | :white_check_mark: | |Apache HTTP Server PHP||
-|[https://www.nladag.nl](https://www.nladag.nl)| | **45**|cloudflare|:o: |:white_check_mark: | | | | | | :white_check_mark: | |Cloudflare HSTS HTTP/3 PHP||
+|[https://nladag.nl](https://nladag.nl)| | **F**|cloudflare|:o: |:white_check_mark: | | | | | | :white_check_mark: | |Cloudflare HSTS HTTP/3 PHP|Home NL Arbeidsi...|
+|[https://mail.nladag.nl](https://mail.nladag.nl)| | **F**|Apache|:o: | | | | | | | :white_check_mark: | |Apache HTTP Server PHP||
+|[https://www.nladag.nl](https://www.nladag.nl)| | **F**|cloudflare|:o: |:white_check_mark: | | | | | | :white_check_mark: | |Cloudflare HSTS HTTP/3 PHP||

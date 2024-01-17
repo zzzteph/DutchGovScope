@@ -1,15 +1,11 @@
----
-layout: dutchgov
-permalink: /dutchgov/csirtdsp.nl.html
----
 
 
 # csirtdsp.nl
 ## Summary data
 
 
-**SSL Grade**:0
-**HTTP Security Grade**:45
+**SSL Grade**:F
+**HTTP Security Grade**:F
 
 
 | File       | Count | Info |
@@ -24,6 +20,6 @@ permalink: /dutchgov/csirtdsp.nl.html
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://test.csirtdsp.nl](https://test.csirtdsp.nl)| | **25**|nginx| | | | | | | | :white_check_mark: | |Nginx|403 Forbidden|
-|[https://www.csirtdsp.nl](https://www.csirtdsp.nl)| | **55**|Apache| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server Drupal:9 HSTS PHP|Home | CSIRT DSP|
-|[https://csirtdsp.nl](https://csirtdsp.nl)| | **55**|Apache| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server Drupal:9 HSTS PHP|Home | CSIRT DSP|
+|[https://test.csirtdsp.nl](https://test.csirtdsp.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|403 Forbidden|
+|[https://www.csirtdsp.nl](https://www.csirtdsp.nl)| | **E**|Apache| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server Drupal:9 HSTS PHP|Home | CSIRT DSP|
+|[https://csirtdsp.nl](https://csirtdsp.nl)| | **E**|Apache| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server Drupal:9 HSTS PHP|Home | CSIRT DSP|

@@ -1,15 +1,11 @@
----
-layout: dutchgov
-permalink: /dutchgov/kansrijkestartnl.nl.html
----
 
 
 # kansrijkestartnl.nl
 ## Summary data
 
 
-**SSL Grade**:0
-**HTTP Security Grade**:70
+**SSL Grade**:F
+**HTTP Security Grade**:C
 
 
 | File       | Count | Info |
@@ -24,8 +20,8 @@ permalink: /dutchgov/kansrijkestartnl.nl.html
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://feeds.kansrijkestartnl.nl](https://feeds.kansrijkestartnl.nl)| | **65**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
-|[https://menukaart.kansrijkestartnl.nl](https://menukaart.kansrijkestartnl.nl)| | **70**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |||
-|[https://opendata.kansrijkestartnl.nl](https://opendata.kansrijkestartnl.nl)| | **65**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
-|[https://www.kansrijkestartnl.nl](https://www.kansrijkestartnl.nl)| | **75**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Kansrijke Start...|
-|[https://kansrijkestartnl.nl](https://kansrijkestartnl.nl)| | **75**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
+|[https://feeds.kansrijkestartnl.nl](https://feeds.kansrijkestartnl.nl)| | **D**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
+|[https://menukaart.kansrijkestartnl.nl](https://menukaart.kansrijkestartnl.nl)| | **C**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |||
+|[https://opendata.kansrijkestartnl.nl](https://opendata.kansrijkestartnl.nl)| | **D**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
+|[https://www.kansrijkestartnl.nl](https://www.kansrijkestartnl.nl)| | **C**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Kansrijke Start...|
+|[https://kansrijkestartnl.nl](https://kansrijkestartnl.nl)| | **C**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|

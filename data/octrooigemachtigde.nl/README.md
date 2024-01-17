@@ -1,15 +1,11 @@
----
-layout: dutchgov
-permalink: /dutchgov/octrooigemachtigde.nl.html
----
 
 
 # octrooigemachtigde.nl
 ## Summary data
 
 
-**SSL Grade**:0
-**HTTP Security Grade**:52
+**SSL Grade**:F
+**HTTP Security Grade**:E
 
 
 | File       | Count | Info |
@@ -24,7 +20,7 @@ permalink: /dutchgov/octrooigemachtigde.nl.html
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://en.octrooigemachtigde.nl](https://en.octrooigemachtigde.nl)| | **25**|Apache/2| | | | | | | | :white_check_mark: | |Apache HTTP Server:2|302 Found|
-|[https://www.octrooigemachtigde.nl](https://www.octrooigemachtigde.nl)| | **79**|Apache/2|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server:2 HSTS PHP:7.3.33|Orde van Octrooi...|
-|[https://octrooigemachtigde.nl](https://octrooigemachtigde.nl)| | **79**|Apache/2|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server:2|302 Found|
-|[https://www.en.octrooigemachtigde.nl](https://www.en.octrooigemachtigde.nl)| | **25**|Apache/2| | | | | | | | :white_check_mark: | |Apache HTTP Server:2|302 Found|
+|[https://en.octrooigemachtigde.nl](https://en.octrooigemachtigde.nl)| | **F**|Apache/2| | | | | | | | :white_check_mark: | |Apache HTTP Server:2|302 Found|
+|[https://www.octrooigemachtigde.nl](https://www.octrooigemachtigde.nl)| | **C**|Apache/2|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server:2 HSTS PHP:7.3.33|Orde van Octrooi...|
+|[https://octrooigemachtigde.nl](https://octrooigemachtigde.nl)| | **C**|Apache/2|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server:2|302 Found|
+|[https://www.en.octrooigemachtigde.nl](https://www.en.octrooigemachtigde.nl)| | **F**|Apache/2| | | | | | | | :white_check_mark: | |Apache HTTP Server:2|302 Found|

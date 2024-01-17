@@ -1,15 +1,11 @@
----
-layout: dutchgov
-permalink: /dutchgov/forensischinstituut.nl.html
----
 
 
 # forensischinstituut.nl
 ## Summary data
 
 
-**SSL Grade**:100
-**HTTP Security Grade**:58.181818181818
+**SSL Grade**:A+
+**HTTP Security Grade**:E
 
 
 | File       | Count | Info |
@@ -24,14 +20,14 @@ permalink: /dutchgov/forensischinstituut.nl.html
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://academy.forensischinstituut.nl](https://academy.forensischinstituut.nl)| | **30**|| | | | | | | | :white_check_mark: | ||Microsoft Azure...|
-|[https://dnadatabank.forensischinstituut.nl](https://dnadatabank.forensischinstituut.nl)| **A+**| **75**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Home | Nederland...|
-|[https://feeds.forensischinstituut.nl](https://feeds.forensischinstituut.nl)| **A+**| **65**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
-|[https://feeds.dnadatabank.forensischinstituut.nl](https://feeds.dnadatabank.forensischinstituut.nl)| **A+**| **65**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
-|[https://magazines.forensischinstituut.nl](https://magazines.forensischinstituut.nl)| **A+**| **75**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
-|[https://opendata.forensischinstituut.nl](https://opendata.forensischinstituut.nl)| **A+**| **65**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
-|[https://opendata.dnadatabank.forensischinstituut.nl](https://opendata.dnadatabank.forensischinstituut.nl)| **A+**| **65**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
-|[https://www.forensischinstituut.nl](https://www.forensischinstituut.nl)| **A+**| **75**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Home | Forensisc...|
-|[https://jaarverslag2011.forensischinstituut.nl](https://jaarverslag2011.forensischinstituut.nl)| | **25**|nginx| | | | | | | | :white_check_mark: | |Nginx|Geen webhosting...|
-|[https://dnajaarverslag2011.forensischinstituut.nl](https://dnajaarverslag2011.forensischinstituut.nl)| | **25**|nginx| | | | | | | | :white_check_mark: | |Nginx|Geen webhosting...|
-|[https://forensischinstituut.nl](https://forensischinstituut.nl)| **A+**| **75**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
+|[https://academy.forensischinstituut.nl](https://academy.forensischinstituut.nl)| | **F**|| | | | | | | | :white_check_mark: | ||Microsoft Azure...|
+|[https://dnadatabank.forensischinstituut.nl](https://dnadatabank.forensischinstituut.nl)| **A+**| **C**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Home | Nederland...|
+|[https://feeds.forensischinstituut.nl](https://feeds.forensischinstituut.nl)| **A+**| **D**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
+|[https://feeds.dnadatabank.forensischinstituut.nl](https://feeds.dnadatabank.forensischinstituut.nl)| **A+**| **D**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
+|[https://magazines.forensischinstituut.nl](https://magazines.forensischinstituut.nl)| **A+**| **C**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
+|[https://opendata.forensischinstituut.nl](https://opendata.forensischinstituut.nl)| **A+**| **D**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
+|[https://opendata.dnadatabank.forensischinstituut.nl](https://opendata.dnadatabank.forensischinstituut.nl)| **A+**| **D**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
+|[https://www.forensischinstituut.nl](https://www.forensischinstituut.nl)| **A+**| **C**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Home | Forensisc...|
+|[https://jaarverslag2011.forensischinstituut.nl](https://jaarverslag2011.forensischinstituut.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|Geen webhosting...|
+|[https://dnajaarverslag2011.forensischinstituut.nl](https://dnajaarverslag2011.forensischinstituut.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|Geen webhosting...|
+|[https://forensischinstituut.nl](https://forensischinstituut.nl)| **A+**| **C**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|

@@ -1,15 +1,11 @@
----
-layout: dutchgov
-permalink: /dutchgov/adviescommissievolkenrecht.nl.html
----
 
 
 # adviescommissievolkenrecht.nl
 ## Summary data
 
 
-**SSL Grade**:100
-**HTTP Security Grade**:70
+**SSL Grade**:A+
+**HTTP Security Grade**:C
 
 
 | File       | Count | Info |
@@ -24,7 +20,7 @@ permalink: /dutchgov/adviescommissievolkenrecht.nl.html
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://www.adviescommissievolkenrecht.nl](https://www.adviescommissievolkenrecht.nl)| **A+**| **75**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Home | Commissie...|
-|[https://feeds.adviescommissievolkenrecht.nl](https://feeds.adviescommissievolkenrecht.nl)| **A+**| **65**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
-|[https://opendata.adviescommissievolkenrecht.nl](https://opendata.adviescommissievolkenrecht.nl)| **A+**| **65**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
-|[https://adviescommissievolkenrecht.nl](https://adviescommissievolkenrecht.nl)| **A+**| **75**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
+|[https://www.adviescommissievolkenrecht.nl](https://www.adviescommissievolkenrecht.nl)| **A+**| **C**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Home | Commissie...|
+|[https://feeds.adviescommissievolkenrecht.nl](https://feeds.adviescommissievolkenrecht.nl)| **A+**| **D**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
+|[https://opendata.adviescommissievolkenrecht.nl](https://opendata.adviescommissievolkenrecht.nl)| **A+**| **D**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
+|[https://adviescommissievolkenrecht.nl](https://adviescommissievolkenrecht.nl)| **A+**| **C**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|

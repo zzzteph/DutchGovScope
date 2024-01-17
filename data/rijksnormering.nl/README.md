@@ -1,15 +1,11 @@
----
-layout: dutchgov
-permalink: /dutchgov/rijksnormering.nl.html
----
 
 
 # rijksnormering.nl
 ## Summary data
 
 
-**SSL Grade**:0
-**HTTP Security Grade**:65
+**SSL Grade**:F
+**HTTP Security Grade**:D
 
 
 | File       | Count | Info |
@@ -24,5 +20,5 @@ permalink: /dutchgov/rijksnormering.nl.html
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://www.rijksnormering.nl](https://www.rijksnormering.nl)| | **65**|prod| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
-|[https://rijksnormering.nl](https://rijksnormering.nl)| | **65**|prod| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
+|[https://www.rijksnormering.nl](https://www.rijksnormering.nl)| | **D**|prod| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
+|[https://rijksnormering.nl](https://rijksnormering.nl)| | **D**|prod| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||

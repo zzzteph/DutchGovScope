@@ -1,15 +1,11 @@
----
-layout: dutchgov
-permalink: /dutchgov/clinicaltrialregister.nl.html
----
 
 
 # clinicaltrialregister.nl
 ## Summary data
 
 
-**SSL Grade**:0
-**HTTP Security Grade**:50
+**SSL Grade**:F
+**HTTP Security Grade**:E
 
 
 | File       | Count | Info |
@@ -24,7 +20,7 @@ permalink: /dutchgov/clinicaltrialregister.nl.html
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://clinicaltrialregister.nl](https://clinicaltrialregister.nl)| | **75**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
-|[https://www.clinicaltrialregister.nl](https://www.clinicaltrialregister.nl)| | **75**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
-|[https://test.clinicaltrialregister.nl](https://test.clinicaltrialregister.nl)| | **25**|nginx| | | | | | | | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
-|[https://acc.clinicaltrialregister.nl](https://acc.clinicaltrialregister.nl)| | **25**|nginx| | | | | | | | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
+|[https://clinicaltrialregister.nl](https://clinicaltrialregister.nl)| | **C**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
+|[https://www.clinicaltrialregister.nl](https://www.clinicaltrialregister.nl)| | **C**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
+|[https://test.clinicaltrialregister.nl](https://test.clinicaltrialregister.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
+|[https://acc.clinicaltrialregister.nl](https://acc.clinicaltrialregister.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|

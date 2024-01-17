@@ -1,15 +1,11 @@
----
-layout: dutchgov
-permalink: /dutchgov/visinhetho.nl.html
----
 
 
 # visinhetho.nl
 ## Summary data
 
 
-**SSL Grade**:0
-**HTTP Security Grade**:70
+**SSL Grade**:F
+**HTTP Security Grade**:C
 
 
 | File       | Count | Info |
@@ -24,6 +20,6 @@ permalink: /dutchgov/visinhetho.nl.html
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://community.visinhetho.nl](https://community.visinhetho.nl)| | **30**|| | | | | | | | :white_check_mark: | |||
-|[https://www.visinhetho.nl](https://www.visinhetho.nl)| | **90**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |||
-|[https://visinhetho.nl](https://visinhetho.nl)| | **90**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Gravity Forms HSTS MySQL PHP WPML:4.6.8 WordPress:6.4.2 Yoast SEO:21.6 ZURB Foundation|Home - VIS|
+|[https://community.visinhetho.nl](https://community.visinhetho.nl)| | **F**|| | | | | | | | :white_check_mark: | |||
+|[https://www.visinhetho.nl](https://www.visinhetho.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |||
+|[https://visinhetho.nl](https://visinhetho.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Gravity Forms HSTS MySQL PHP WPML:4.6.8 WordPress:6.4.2 Yoast SEO:21.6 ZURB Foundation|Home - VIS|

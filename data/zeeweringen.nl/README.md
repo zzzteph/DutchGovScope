@@ -1,15 +1,11 @@
----
-layout: dutchgov
-permalink: /dutchgov/zeeweringen.nl.html
----
 
 
 # zeeweringen.nl
 ## Summary data
 
 
-**SSL Grade**:0
-**HTTP Security Grade**:25
+**SSL Grade**:F
+**HTTP Security Grade**:F
 
 
 | File       | Count | Info |
@@ -24,8 +20,8 @@ permalink: /dutchgov/zeeweringen.nl.html
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://mail.zeeweringen.nl](https://mail.zeeweringen.nl)| | **25**|nginx/1.24.0| | | | | | | | :white_check_mark: | |Nginx:1.24.0|Hostnet: Uw dome...|
-|[https://www.zeeweringen.nl](https://www.zeeweringen.nl)| | **25**|nginx/1.24.0| | | | | | | | :white_check_mark: | |Nginx:1.24.0|Zeeweringen|
-|[https://ww2.zeeweringen.nl](https://ww2.zeeweringen.nl)| | **25**|nginx/1.24.0| | | | | | | | :white_check_mark: | |Nginx:1.24.0|Hostnet: Uw dome...|
-|[https://conferentie.zeeweringen.nl](https://conferentie.zeeweringen.nl)| | **25**|nginx/1.24.0| | | | | | | | :white_check_mark: | |Nginx:1.24.0|Hostnet: Uw dome...|
-|[https://zeeweringen.nl](https://zeeweringen.nl)| | **25**|nginx/1.24.0| | | | | | | | :white_check_mark: | |Nginx:1.24.0|Zeeweringen|
+|[https://mail.zeeweringen.nl](https://mail.zeeweringen.nl)| | **F**|nginx/1.24.0| | | | | | | | :white_check_mark: | |Nginx:1.24.0|Hostnet: Uw dome...|
+|[https://www.zeeweringen.nl](https://www.zeeweringen.nl)| | **F**|nginx/1.24.0| | | | | | | | :white_check_mark: | |Nginx:1.24.0|Zeeweringen|
+|[https://ww2.zeeweringen.nl](https://ww2.zeeweringen.nl)| | **F**|nginx/1.24.0| | | | | | | | :white_check_mark: | |Nginx:1.24.0|Hostnet: Uw dome...|
+|[https://conferentie.zeeweringen.nl](https://conferentie.zeeweringen.nl)| | **F**|nginx/1.24.0| | | | | | | | :white_check_mark: | |Nginx:1.24.0|Hostnet: Uw dome...|
+|[https://zeeweringen.nl](https://zeeweringen.nl)| | **F**|nginx/1.24.0| | | | | | | | :white_check_mark: | |Nginx:1.24.0|Zeeweringen|

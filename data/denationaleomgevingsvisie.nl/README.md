@@ -1,15 +1,11 @@
----
-layout: dutchgov
-permalink: /dutchgov/denationaleomgevingsvisie.nl.html
----
 
 
 # denationaleomgevingsvisie.nl
 ## Summary data
 
 
-**SSL Grade**:0
-**HTTP Security Grade**:80
+**SSL Grade**:F
+**HTTP Security Grade**:B
 
 
 | File       | Count | Info |
@@ -24,5 +20,5 @@ permalink: /dutchgov/denationaleomgevingsvisie.nl.html
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://www.denationaleomgevingsvisie.nl](https://www.denationaleomgevingsvisie.nl)| | **80**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET hCaptcha|Object moved|
-|[https://denationaleomgevingsvisie.nl](https://denationaleomgevingsvisie.nl)| | **80**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET hCaptcha|Object moved|
+|[https://www.denationaleomgevingsvisie.nl](https://www.denationaleomgevingsvisie.nl)| | **B**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET hCaptcha|Object moved|
+|[https://denationaleomgevingsvisie.nl](https://denationaleomgevingsvisie.nl)| | **B**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET hCaptcha|Object moved|

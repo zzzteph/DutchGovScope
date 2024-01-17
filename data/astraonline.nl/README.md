@@ -1,15 +1,11 @@
----
-layout: dutchgov
-permalink: /dutchgov/astraonline.nl.html
----
 
 
 # astraonline.nl
 ## Summary data
 
 
-**SSL Grade**:0
-**HTTP Security Grade**:51
+**SSL Grade**:F
+**HTTP Security Grade**:E
 
 
 | File       | Count | Info |
@@ -24,7 +20,7 @@ permalink: /dutchgov/astraonline.nl.html
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://astraonline.nl](https://astraonline.nl)| | **55**|Apache| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS|301 Moved Perman...|
-|[https://www.astraonline.nl](https://www.astraonline.nl)| | **55**|Apache| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS||
-|[https://redactie.astraonline.nl](https://redactie.astraonline.nl)| | **69**|Apache|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS||
-|[https://mail.astraonline.nl](https://mail.astraonline.nl)| | **25**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
+|[https://astraonline.nl](https://astraonline.nl)| | **E**|Apache| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS|301 Moved Perman...|
+|[https://www.astraonline.nl](https://www.astraonline.nl)| | **E**|Apache| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS||
+|[https://redactie.astraonline.nl](https://redactie.astraonline.nl)| | **D**|Apache|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS||
+|[https://mail.astraonline.nl](https://mail.astraonline.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|

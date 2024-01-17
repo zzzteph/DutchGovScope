@@ -1,15 +1,11 @@
----
-layout: dutchgov
-permalink: /dutchgov/sustainabilitymethod.nl.html
----
 
 
 # sustainabilitymethod.nl
 ## Summary data
 
 
-**SSL Grade**:0
-**HTTP Security Grade**:79
+**SSL Grade**:F
+**HTTP Security Grade**:C
 
 
 | File       | Count | Info |
@@ -24,5 +20,5 @@ permalink: /dutchgov/sustainabilitymethod.nl.html
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://www.sustainabilitymethod.nl](https://www.sustainabilitymethod.nl)| | **79**|nginx|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx PHP:8.2.14|RIVM Sustainabil...|
-|[https://sustainabilitymethod.nl](https://sustainabilitymethod.nl)| | **79**|nginx|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx PHP:8.2.14|RIVM Sustainabil...|
+|[https://www.sustainabilitymethod.nl](https://www.sustainabilitymethod.nl)| | **C**|nginx|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx PHP:8.2.14|RIVM Sustainabil...|
+|[https://sustainabilitymethod.nl](https://sustainabilitymethod.nl)| | **C**|nginx|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx PHP:8.2.14|RIVM Sustainabil...|

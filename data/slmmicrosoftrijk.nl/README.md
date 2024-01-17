@@ -1,15 +1,11 @@
----
-layout: dutchgov
-permalink: /dutchgov/slmmicrosoftrijk.nl.html
----
 
 
 # slmmicrosoftrijk.nl
 ## Summary data
 
 
-**SSL Grade**:0
-**HTTP Security Grade**:25
+**SSL Grade**:F
+**HTTP Security Grade**:F
 
 
 | File       | Count | Info |
@@ -24,5 +20,5 @@ permalink: /dutchgov/slmmicrosoftrijk.nl.html
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://www.slmmicrosoftrijk.nl](https://www.slmmicrosoftrijk.nl)| | **25**|nginx/1.24.0| | | | | | | | :white_check_mark: | |Nginx:1.24.0||
-|[https://slmmicrosoftrijk.nl](https://slmmicrosoftrijk.nl)| | **25**|nginx/1.24.0| | | | | | | | :white_check_mark: | |MySQL Nginx:1.24.0 PHP WordPress:6.3.2 Yoast SEO:21.5|Home - SLM Micro...|
+|[https://www.slmmicrosoftrijk.nl](https://www.slmmicrosoftrijk.nl)| | **F**|nginx/1.24.0| | | | | | | | :white_check_mark: | |Nginx:1.24.0||
+|[https://slmmicrosoftrijk.nl](https://slmmicrosoftrijk.nl)| | **F**|nginx/1.24.0| | | | | | | | :white_check_mark: | |MySQL Nginx:1.24.0 PHP WordPress:6.3.2 Yoast SEO:21.5|Home - SLM Micro...|

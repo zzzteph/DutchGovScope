@@ -1,15 +1,11 @@
----
-layout: dutchgov
-permalink: /dutchgov/toekomstreligieuserfgoed.nl.html
----
 
 
 # toekomstreligieuserfgoed.nl
 ## Summary data
 
 
-**SSL Grade**:0
-**HTTP Security Grade**:70
+**SSL Grade**:F
+**HTTP Security Grade**:C
 
 
 | File       | Count | Info |
@@ -24,7 +20,7 @@ permalink: /dutchgov/toekomstreligieuserfgoed.nl.html
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://feeds.toekomstreligieuserfgoed.nl](https://feeds.toekomstreligieuserfgoed.nl)| | **65**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
-|[https://opendata.toekomstreligieuserfgoed.nl](https://opendata.toekomstreligieuserfgoed.nl)| | **65**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
-|[https://www.toekomstreligieuserfgoed.nl](https://www.toekomstreligieuserfgoed.nl)| | **75**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Home | Toekomst...|
-|[https://toekomstreligieuserfgoed.nl](https://toekomstreligieuserfgoed.nl)| | **75**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
+|[https://feeds.toekomstreligieuserfgoed.nl](https://feeds.toekomstreligieuserfgoed.nl)| | **D**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
+|[https://opendata.toekomstreligieuserfgoed.nl](https://opendata.toekomstreligieuserfgoed.nl)| | **D**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
+|[https://www.toekomstreligieuserfgoed.nl](https://www.toekomstreligieuserfgoed.nl)| | **C**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Home | Toekomst...|
+|[https://toekomstreligieuserfgoed.nl](https://toekomstreligieuserfgoed.nl)| | **C**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|

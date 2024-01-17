@@ -1,15 +1,11 @@
----
-layout: dutchgov
-permalink: /dutchgov/tst-rds.nl.html
----
 
 
 # tst-rds.nl
 ## Summary data
 
 
-**SSL Grade**:0
-**HTTP Security Grade**:30
+**SSL Grade**:F
+**HTTP Security Grade**:F
 
 
 | File       | Count | Info |
@@ -24,6 +20,6 @@ permalink: /dutchgov/tst-rds.nl.html
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
-|[http://admin.tst-rds.nl](http://admin.tst-rds.nl)| | **30**|| | | | | | | | :white_check_mark: | |||
-|[http://www.tst-rds.nl](http://www.tst-rds.nl)| | **30**|| | | | | | | | :white_check_mark: | |||
-|[http://tst-rds.nl](http://tst-rds.nl)| | **30**|| | | | | | | | :white_check_mark: | |||
+|[http://admin.tst-rds.nl](http://admin.tst-rds.nl)| | **F**|| | | | | | | | :white_check_mark: | |||
+|[http://www.tst-rds.nl](http://www.tst-rds.nl)| | **F**|| | | | | | | | :white_check_mark: | |||
+|[http://tst-rds.nl](http://tst-rds.nl)| | **F**|| | | | | | | | :white_check_mark: | |||

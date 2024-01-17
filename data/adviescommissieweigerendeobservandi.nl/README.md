@@ -1,15 +1,11 @@
----
-layout: dutchgov
-permalink: /dutchgov/adviescommissieweigerendeobservandi.nl.html
----
 
 
 # adviescommissieweigerendeobservandi.nl
 ## Summary data
 
 
-**SSL Grade**:100
-**HTTP Security Grade**:70
+**SSL Grade**:A+
+**HTTP Security Grade**:C
 
 
 | File       | Count | Info |
@@ -24,7 +20,7 @@ permalink: /dutchgov/adviescommissieweigerendeobservandi.nl.html
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://feeds.adviescommissieweigerendeobservandi.nl](https://feeds.adviescommissieweigerendeobservandi.nl)| **A+**| **65**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
-|[https://opendata.adviescommissieweigerendeobservandi.nl](https://opendata.adviescommissieweigerendeobservandi.nl)| **A+**| **65**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
-|[https://www.adviescommissieweigerendeobservandi.nl](https://www.adviescommissieweigerendeobservandi.nl)| **A+**| **75**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Home | Adviescom...|
-|[https://adviescommissieweigerendeobservandi.nl](https://adviescommissieweigerendeobservandi.nl)| **A+**| **75**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
+|[https://feeds.adviescommissieweigerendeobservandi.nl](https://feeds.adviescommissieweigerendeobservandi.nl)| **A+**| **D**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
+|[https://opendata.adviescommissieweigerendeobservandi.nl](https://opendata.adviescommissieweigerendeobservandi.nl)| **A+**| **D**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
+|[https://www.adviescommissieweigerendeobservandi.nl](https://www.adviescommissieweigerendeobservandi.nl)| **A+**| **C**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Home | Adviescom...|
+|[https://adviescommissieweigerendeobservandi.nl](https://adviescommissieweigerendeobservandi.nl)| **A+**| **C**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|

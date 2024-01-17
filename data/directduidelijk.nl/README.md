@@ -1,15 +1,11 @@
----
-layout: dutchgov
-permalink: /dutchgov/directduidelijk.nl.html
----
 
 
 # directduidelijk.nl
 ## Summary data
 
 
-**SSL Grade**:0
-**HTTP Security Grade**:0
+**SSL Grade**:F
+**HTTP Security Grade**:F
 
 
 | File       | Count | Info |

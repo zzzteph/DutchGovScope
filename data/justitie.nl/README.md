@@ -1,15 +1,11 @@
----
-layout: dutchgov
-permalink: /dutchgov/justitie.nl.html
----
 
 
 # justitie.nl
 ## Summary data
 
 
-**SSL Grade**:0
-**HTTP Security Grade**:50
+**SSL Grade**:F
+**HTTP Security Grade**:E
 
 
 | File       | Count | Info |
@@ -24,8 +20,8 @@ permalink: /dutchgov/justitie.nl.html
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
-|[http://dienstenportaal.justitie.nl](http://dienstenportaal.justitie.nl)| | **30**|| | | | | | | | :white_check_mark: | |||
-|[http://english.justitie.nl](http://english.justitie.nl)| | **30**|| | | | | | | | :white_check_mark: | |||
-|[http://justitiebulletin.justitie.nl](http://justitiebulletin.justitie.nl)| | **30**|| | | | | | | | :white_check_mark: | |||
-|[https://www.justitie.nl](https://www.justitie.nl)| | **80**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
-|[https://justitie.nl](https://justitie.nl)| | **80**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
+|[http://dienstenportaal.justitie.nl](http://dienstenportaal.justitie.nl)| | **F**|| | | | | | | | :white_check_mark: | |||
+|[http://english.justitie.nl](http://english.justitie.nl)| | **F**|| | | | | | | | :white_check_mark: | |||
+|[http://justitiebulletin.justitie.nl](http://justitiebulletin.justitie.nl)| | **F**|| | | | | | | | :white_check_mark: | |||
+|[https://www.justitie.nl](https://www.justitie.nl)| | **B**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
+|[https://justitie.nl](https://justitie.nl)| | **B**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||

@@ -1,15 +1,11 @@
----
-layout: dutchgov
-permalink: /dutchgov/leidraadse.nl.html
----
 
 
 # leidraadse.nl
 ## Summary data
 
 
-**SSL Grade**:0
-**HTTP Security Grade**:25
+**SSL Grade**:F
+**HTTP Security Grade**:F
 
 
 | File       | Count | Info |
@@ -24,7 +20,7 @@ permalink: /dutchgov/leidraadse.nl.html
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://mail.leidraadse.nl](https://mail.leidraadse.nl)| | **25**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|Default Parallel...|
-|[https://webmail.leidraadse.nl](https://webmail.leidraadse.nl)| | **25**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server PHP:8.2.14|Internal Error|
-|[https://www.leidraadse.nl](https://www.leidraadse.nl)| | **25**|Apache|:o: | | | | | | | :white_check_mark: | |Apache HTTP Server PHP|Welkom | Leidraa...|
-|[https://leidraadse.nl](https://leidraadse.nl)| | **25**|Apache|:o: | | | | | | | :white_check_mark: | |Apache HTTP Server PHP|Welkom | Leidraa...|
+|[https://mail.leidraadse.nl](https://mail.leidraadse.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|Default Parallel...|
+|[https://webmail.leidraadse.nl](https://webmail.leidraadse.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server PHP:8.2.14|Internal Error|
+|[https://www.leidraadse.nl](https://www.leidraadse.nl)| | **F**|Apache|:o: | | | | | | | :white_check_mark: | |Apache HTTP Server PHP|Welkom | Leidraa...|
+|[https://leidraadse.nl](https://leidraadse.nl)| | **F**|Apache|:o: | | | | | | | :white_check_mark: | |Apache HTTP Server PHP|Welkom | Leidraa...|

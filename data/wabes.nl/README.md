@@ -1,15 +1,11 @@
----
-layout: dutchgov
-permalink: /dutchgov/wabes.nl.html
----
 
 
 # wabes.nl
 ## Summary data
 
 
-**SSL Grade**:0
-**HTTP Security Grade**:30
+**SSL Grade**:F
+**HTTP Security Grade**:F
 
 
 | File       | Count | Info |
@@ -24,4 +20,4 @@ permalink: /dutchgov/wabes.nl.html
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://wabes.nl](https://wabes.nl)| | **30**|| | | | | | | | :white_check_mark: | |Next.js Node.js React Webpack|Wabes|
+|[https://wabes.nl](https://wabes.nl)| | **F**|| | | | | | | | :white_check_mark: | |Next.js Node.js React Webpack|Wabes|

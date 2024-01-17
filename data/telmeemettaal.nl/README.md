@@ -1,15 +1,11 @@
----
-layout: dutchgov
-permalink: /dutchgov/telmeemettaal.nl.html
----
 
 
 # telmeemettaal.nl
 ## Summary data
 
 
-**SSL Grade**:0
-**HTTP Security Grade**:61
+**SSL Grade**:F
+**HTTP Security Grade**:D
 
 
 | File       | Count | Info |
@@ -24,8 +20,8 @@ permalink: /dutchgov/telmeemettaal.nl.html
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://feeds.telmeemettaal.nl](https://feeds.telmeemettaal.nl)| | **65**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
-|[https://mail.telmeemettaal.nl](https://mail.telmeemettaal.nl)| | **25**|Apache/2| | | | | | | | :white_check_mark: | |Apache HTTP Server:2||
-|[https://opendata.telmeemettaal.nl](https://opendata.telmeemettaal.nl)| | **65**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
-|[https://www.telmeemettaal.nl](https://www.telmeemettaal.nl)| | **75**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Home | Tel mee m...|
-|[https://telmeemettaal.nl](https://telmeemettaal.nl)| | **75**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
+|[https://feeds.telmeemettaal.nl](https://feeds.telmeemettaal.nl)| | **D**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
+|[https://mail.telmeemettaal.nl](https://mail.telmeemettaal.nl)| | **F**|Apache/2| | | | | | | | :white_check_mark: | |Apache HTTP Server:2||
+|[https://opendata.telmeemettaal.nl](https://opendata.telmeemettaal.nl)| | **D**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
+|[https://www.telmeemettaal.nl](https://www.telmeemettaal.nl)| | **C**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Home | Tel mee m...|
+|[https://telmeemettaal.nl](https://telmeemettaal.nl)| | **C**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|

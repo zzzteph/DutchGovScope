@@ -1,15 +1,11 @@
----
-layout: dutchgov
-permalink: /dutchgov/a4haaglanden-n14.nl.html
----
 
 
 # a4haaglanden-n14.nl
 ## Summary data
 
 
-**SSL Grade**:0
-**HTTP Security Grade**:85
+**SSL Grade**:F
+**HTTP Security Grade**:B
 
 
 | File       | Count | Info |
@@ -24,5 +20,5 @@ permalink: /dutchgov/a4haaglanden-n14.nl.html
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://www.a4haaglanden-n14.nl](https://www.a4haaglanden-n14.nl)| | **85**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | ||Document Moved|
-|[https://a4haaglanden-n14.nl](https://a4haaglanden-n14.nl)| | **85**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | ||Document Moved|
+|[https://www.a4haaglanden-n14.nl](https://www.a4haaglanden-n14.nl)| | **B**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | ||Document Moved|
+|[https://a4haaglanden-n14.nl](https://a4haaglanden-n14.nl)| | **B**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | ||Document Moved|

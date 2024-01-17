@@ -1,15 +1,11 @@
----
-layout: dutchgov
-permalink: /dutchgov/abdleerportaal.nl.html
----
 
 
 # abdleerportaal.nl
 ## Summary data
 
 
-**SSL Grade**:0
-**HTTP Security Grade**:79
+**SSL Grade**:F
+**HTTP Security Grade**:C
 
 
 | File       | Count | Info |
@@ -24,5 +20,5 @@ permalink: /dutchgov/abdleerportaal.nl.html
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://www.abdleerportaal.nl](https://www.abdleerportaal.nl)| | **79**|Class|:white_check_mark: |:white_check_mark: | | |:warning: | | :white_check_mark: | :white_check_mark: | |HSTS||
-|[https://abdleerportaal.nl](https://abdleerportaal.nl)| | **79**|Class|:white_check_mark: |:white_check_mark: | | |:warning: | | :white_check_mark: | :white_check_mark: | |HSTS||
+|[https://www.abdleerportaal.nl](https://www.abdleerportaal.nl)| | **C**|Class|:white_check_mark: |:white_check_mark: | | |:warning: | | :white_check_mark: | :white_check_mark: | |HSTS||
+|[https://abdleerportaal.nl](https://abdleerportaal.nl)| | **C**|Class|:white_check_mark: |:white_check_mark: | | |:warning: | | :white_check_mark: | :white_check_mark: | |HSTS||

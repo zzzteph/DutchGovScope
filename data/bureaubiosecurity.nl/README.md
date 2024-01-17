@@ -1,15 +1,11 @@
----
-layout: dutchgov
-permalink: /dutchgov/bureaubiosecurity.nl.html
----
 
 
 # bureaubiosecurity.nl
 ## Summary data
 
 
-**SSL Grade**:0
-**HTTP Security Grade**:61.666666666667
+**SSL Grade**:F
+**HTTP Security Grade**:D
 
 
 | File       | Count | Info |
@@ -24,6 +20,6 @@ permalink: /dutchgov/bureaubiosecurity.nl.html
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://cms.bureaubiosecurity.nl](https://cms.bureaubiosecurity.nl)| | **55**|nginx| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Drupal HSTS Nginx PHP|Redirecting to h...|
-|[https://www.bureaubiosecurity.nl](https://www.bureaubiosecurity.nl)| | **65**|Apache| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server Drupal HSTS PHP|Bureau Biosecuri...|
-|[https://bureaubiosecurity.nl](https://bureaubiosecurity.nl)| | **65**|Apache| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS|301 Moved Perman...|
+|[https://cms.bureaubiosecurity.nl](https://cms.bureaubiosecurity.nl)| | **E**|nginx| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Drupal HSTS Nginx PHP|Redirecting to h...|
+|[https://www.bureaubiosecurity.nl](https://www.bureaubiosecurity.nl)| | **D**|Apache| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server Drupal HSTS PHP|Bureau Biosecuri...|
+|[https://bureaubiosecurity.nl](https://bureaubiosecurity.nl)| | **D**|Apache| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS|301 Moved Perman...|

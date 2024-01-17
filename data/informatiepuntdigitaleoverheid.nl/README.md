@@ -1,15 +1,11 @@
----
-layout: dutchgov
-permalink: /dutchgov/informatiepuntdigitaleoverheid.nl.html
----
 
 
 # informatiepuntdigitaleoverheid.nl
 ## Summary data
 
 
-**SSL Grade**:0
-**HTTP Security Grade**:45
+**SSL Grade**:F
+**HTTP Security Grade**:F
 
 
 | File       | Count | Info |
@@ -24,5 +20,5 @@ permalink: /dutchgov/informatiepuntdigitaleoverheid.nl.html
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://www.informatiepuntdigitaleoverheid.nl](https://www.informatiepuntdigitaleoverheid.nl)| | **45**|Apache| |:white_check_mark: | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|Informatiepunt D...|
-|[https://informatiepuntdigitaleoverheid.nl](https://informatiepuntdigitaleoverheid.nl)| | **45**|Apache| |:white_check_mark: | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|Informatiepunt D...|
+|[https://www.informatiepuntdigitaleoverheid.nl](https://www.informatiepuntdigitaleoverheid.nl)| | **F**|Apache| |:white_check_mark: | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|Informatiepunt D...|
+|[https://informatiepuntdigitaleoverheid.nl](https://informatiepuntdigitaleoverheid.nl)| | **F**|Apache| |:white_check_mark: | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|Informatiepunt D...|

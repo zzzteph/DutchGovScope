@@ -1,15 +1,11 @@
----
-layout: dutchgov
-permalink: /dutchgov/mvicriteria.nl.html
----
 
 
 # mvicriteria.nl
 ## Summary data
 
 
-**SSL Grade**:0
-**HTTP Security Grade**:50
+**SSL Grade**:F
+**HTTP Security Grade**:E
 
 
 | File       | Count | Info |
@@ -24,5 +20,5 @@ permalink: /dutchgov/mvicriteria.nl.html
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://www.mvicriteria.nl](https://www.mvicriteria.nl)| | **50**||:o: |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|Redirecting to h...|
-|[https://mvicriteria.nl](https://mvicriteria.nl)| | **50**||:o: |:white_check_mark: | | | | | | :white_check_mark: | ||308 Permanent Re...|
+|[https://www.mvicriteria.nl](https://www.mvicriteria.nl)| | **E**||:o: |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|Redirecting to h...|
+|[https://mvicriteria.nl](https://mvicriteria.nl)| | **E**||:o: |:white_check_mark: | | | | | | :white_check_mark: | ||308 Permanent Re...|

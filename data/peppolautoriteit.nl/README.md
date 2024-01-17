@@ -1,15 +1,11 @@
----
-layout: dutchgov
-permalink: /dutchgov/peppolautoriteit.nl.html
----
 
 
 # peppolautoriteit.nl
 ## Summary data
 
 
-**SSL Grade**:0
-**HTTP Security Grade**:71.666666666667
+**SSL Grade**:F
+**HTTP Security Grade**:C
 
 
 | File       | Count | Info |
@@ -24,9 +20,9 @@ permalink: /dutchgov/peppolautoriteit.nl.html
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://test.peppolautoriteit.nl](https://test.peppolautoriteit.nl)| | **75**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|NPa Peppol Test...|
-|[https://www.peppolautoriteit.nl](https://www.peppolautoriteit.nl)| | **75**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Home | Nederland...|
-|[https://peppolautoriteit.nl](https://peppolautoriteit.nl)| | **75**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
-|[https://www.test.peppolautoriteit.nl](https://www.test.peppolautoriteit.nl)| | **75**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|NPa Peppol Test...|
-|[https://feeds.peppolautoriteit.nl](https://feeds.peppolautoriteit.nl)| | **65**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
-|[https://opendata.peppolautoriteit.nl](https://opendata.peppolautoriteit.nl)| | **65**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
+|[https://test.peppolautoriteit.nl](https://test.peppolautoriteit.nl)| | **C**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|NPa Peppol Test...|
+|[https://www.peppolautoriteit.nl](https://www.peppolautoriteit.nl)| | **C**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Home | Nederland...|
+|[https://peppolautoriteit.nl](https://peppolautoriteit.nl)| | **C**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
+|[https://www.test.peppolautoriteit.nl](https://www.test.peppolautoriteit.nl)| | **C**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|NPa Peppol Test...|
+|[https://feeds.peppolautoriteit.nl](https://feeds.peppolautoriteit.nl)| | **D**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
+|[https://opendata.peppolautoriteit.nl](https://opendata.peppolautoriteit.nl)| | **D**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||

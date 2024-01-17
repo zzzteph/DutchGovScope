@@ -1,15 +1,11 @@
----
-layout: dutchgov
-permalink: /dutchgov/duurzaamheidsroutea35.nl.html
----
 
 
 # duurzaamheidsroutea35.nl
 ## Summary data
 
 
-**SSL Grade**:0
-**HTTP Security Grade**:30
+**SSL Grade**:F
+**HTTP Security Grade**:F
 
 
 | File       | Count | Info |
@@ -24,5 +20,5 @@ permalink: /dutchgov/duurzaamheidsroutea35.nl.html
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://www.duurzaamheidsroutea35.nl](https://www.duurzaamheidsroutea35.nl)| | **30**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Object moved|
-|[https://duurzaamheidsroutea35.nl](https://duurzaamheidsroutea35.nl)| | **30**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Object moved|
+|[https://www.duurzaamheidsroutea35.nl](https://www.duurzaamheidsroutea35.nl)| | **F**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Object moved|
+|[https://duurzaamheidsroutea35.nl](https://duurzaamheidsroutea35.nl)| | **F**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Object moved|

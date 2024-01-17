@@ -1,15 +1,11 @@
----
-layout: dutchgov
-permalink: /dutchgov/coordinatiestroomlijn.nl.html
----
 
 
 # coordinatiestroomlijn.nl
 ## Summary data
 
 
-**SSL Grade**:0
-**HTTP Security Grade**:30
+**SSL Grade**:F
+**HTTP Security Grade**:F
 
 
 | File       | Count | Info |
@@ -24,7 +20,7 @@ permalink: /dutchgov/coordinatiestroomlijn.nl.html
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://mail.coordinatiestroomlijn.nl](https://mail.coordinatiestroomlijn.nl)| | **30**|| | | | | | | | :white_check_mark: | ||Document Moved|
-|[https://mta-sts.coordinatiestroomlijn.nl](https://mta-sts.coordinatiestroomlijn.nl)| | **30**|| | | | | | | | :white_check_mark: | ||Document Moved|
-|[https://www.coordinatiestroomlijn.nl](https://www.coordinatiestroomlijn.nl)| | **30**|| | | | | | | | :white_check_mark: | ||Document Moved|
-|[https://coordinatiestroomlijn.nl](https://coordinatiestroomlijn.nl)| | **30**|| | | | | | | | :white_check_mark: | ||Document Moved|
+|[https://mail.coordinatiestroomlijn.nl](https://mail.coordinatiestroomlijn.nl)| | **F**|| | | | | | | | :white_check_mark: | ||Document Moved|
+|[https://mta-sts.coordinatiestroomlijn.nl](https://mta-sts.coordinatiestroomlijn.nl)| | **F**|| | | | | | | | :white_check_mark: | ||Document Moved|
+|[https://www.coordinatiestroomlijn.nl](https://www.coordinatiestroomlijn.nl)| | **F**|| | | | | | | | :white_check_mark: | ||Document Moved|
+|[https://coordinatiestroomlijn.nl](https://coordinatiestroomlijn.nl)| | **F**|| | | | | | | | :white_check_mark: | ||Document Moved|

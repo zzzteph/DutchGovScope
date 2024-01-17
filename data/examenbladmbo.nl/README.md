@@ -1,15 +1,11 @@
----
-layout: dutchgov
-permalink: /dutchgov/examenbladmbo.nl.html
----
 
 
 # examenbladmbo.nl
 ## Summary data
 
 
-**SSL Grade**:0
-**HTTP Security Grade**:70
+**SSL Grade**:F
+**HTTP Security Grade**:C
 
 
 | File       | Count | Info |
@@ -24,6 +20,6 @@ permalink: /dutchgov/examenbladmbo.nl.html
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://www.examenbladmbo.nl](https://www.examenbladmbo.nl)| | **75**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |Drupal:10 HSTS PHP|Examenbladmbo.nl|
-|[https://examenbladmbo.nl](https://examenbladmbo.nl)| | **75**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | ||308 Permanent Re...|
-|[https://mijn.examenbladmbo.nl](https://mijn.examenbladmbo.nl)| | **60**|| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Drupal HSTS PHP|Redirecting to h...|
+|[https://www.examenbladmbo.nl](https://www.examenbladmbo.nl)| | **C**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |Drupal:10 HSTS PHP|Examenbladmbo.nl|
+|[https://examenbladmbo.nl](https://examenbladmbo.nl)| | **C**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | ||308 Permanent Re...|
+|[https://mijn.examenbladmbo.nl](https://mijn.examenbladmbo.nl)| | **D**|| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Drupal HSTS PHP|Redirecting to h...|

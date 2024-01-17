@@ -1,15 +1,11 @@
----
-layout: dutchgov
-permalink: /dutchgov/testuitvoeringarbeidsvoorwaardenwetgeving.nl.html
----
 
 
 # testuitvoeringarbeidsvoorwaardenwetgeving.nl
 ## Summary data
 
 
-**SSL Grade**:0
-**HTTP Security Grade**:55
+**SSL Grade**:F
+**HTTP Security Grade**:E
 
 
 | File       | Count | Info |
@@ -24,5 +20,5 @@ permalink: /dutchgov/testuitvoeringarbeidsvoorwaardenwetgeving.nl.html
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://www.testuitvoeringarbeidsvoorwaardenwetgeving.nl](https://www.testuitvoeringarbeidsvoorwaardenwetgeving.nl)| | **55**|nginx| |:white_check_mark: | | |:warning: | | | :white_check_mark: | |HSTS Nginx|302 Found|
-|[https://testuitvoeringarbeidsvoorwaardenwetgeving.nl](https://testuitvoeringarbeidsvoorwaardenwetgeving.nl)| | **55**|nginx| |:white_check_mark: | | |:warning: | | | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
+|[https://www.testuitvoeringarbeidsvoorwaardenwetgeving.nl](https://www.testuitvoeringarbeidsvoorwaardenwetgeving.nl)| | **E**|nginx| |:white_check_mark: | | |:warning: | | | :white_check_mark: | |HSTS Nginx|302 Found|
+|[https://testuitvoeringarbeidsvoorwaardenwetgeving.nl](https://testuitvoeringarbeidsvoorwaardenwetgeving.nl)| | **E**|nginx| |:white_check_mark: | | |:warning: | | | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|

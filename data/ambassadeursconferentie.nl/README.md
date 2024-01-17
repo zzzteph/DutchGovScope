@@ -1,15 +1,11 @@
----
-layout: dutchgov
-permalink: /dutchgov/ambassadeursconferentie.nl.html
----
 
 
 # ambassadeursconferentie.nl
 ## Summary data
 
 
-**SSL Grade**:100
-**HTTP Security Grade**:75
+**SSL Grade**:A+
+**HTTP Security Grade**:C
 
 
 | File       | Count | Info |
@@ -24,5 +20,5 @@ permalink: /dutchgov/ambassadeursconferentie.nl.html
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://www.ambassadeursconferentie.nl](https://www.ambassadeursconferentie.nl)| **A+**| **75**|cloudflare| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Cloudflare HSTS||
-|[https://ambassadeursconferentie.nl](https://ambassadeursconferentie.nl)| **A+**| **75**|cloudflare| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Cloudflare HSTS||
+|[https://www.ambassadeursconferentie.nl](https://www.ambassadeursconferentie.nl)| **A+**| **C**|cloudflare| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Cloudflare HSTS||
+|[https://ambassadeursconferentie.nl](https://ambassadeursconferentie.nl)| **A+**| **C**|cloudflare| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Cloudflare HSTS||

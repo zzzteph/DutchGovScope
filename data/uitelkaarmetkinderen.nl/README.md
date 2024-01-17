@@ -1,15 +1,11 @@
----
-layout: dutchgov
-permalink: /dutchgov/uitelkaarmetkinderen.nl.html
----
 
 
 # uitelkaarmetkinderen.nl
 ## Summary data
 
 
-**SSL Grade**:0
-**HTTP Security Grade**:70
+**SSL Grade**:F
+**HTTP Security Grade**:C
 
 
 | File       | Count | Info |
@@ -24,7 +20,7 @@ permalink: /dutchgov/uitelkaarmetkinderen.nl.html
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://www.uitelkaarmetkinderen.nl](https://www.uitelkaarmetkinderen.nl)| | **75**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Home | Uit elkaa...|
-|[https://uitelkaarmetkinderen.nl](https://uitelkaarmetkinderen.nl)| | **75**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
-|[https://feeds.uitelkaarmetkinderen.nl](https://feeds.uitelkaarmetkinderen.nl)| | **65**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
-|[https://opendata.uitelkaarmetkinderen.nl](https://opendata.uitelkaarmetkinderen.nl)| | **65**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
+|[https://www.uitelkaarmetkinderen.nl](https://www.uitelkaarmetkinderen.nl)| | **C**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Home | Uit elkaa...|
+|[https://uitelkaarmetkinderen.nl](https://uitelkaarmetkinderen.nl)| | **C**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
+|[https://feeds.uitelkaarmetkinderen.nl](https://feeds.uitelkaarmetkinderen.nl)| | **D**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
+|[https://opendata.uitelkaarmetkinderen.nl](https://opendata.uitelkaarmetkinderen.nl)| | **D**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||

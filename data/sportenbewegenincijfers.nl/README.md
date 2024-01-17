@@ -1,15 +1,11 @@
----
-layout: dutchgov
-permalink: /dutchgov/sportenbewegenincijfers.nl.html
----
 
 
 # sportenbewegenincijfers.nl
 ## Summary data
 
 
-**SSL Grade**:0
-**HTTP Security Grade**:65
+**SSL Grade**:F
+**HTTP Security Grade**:D
 
 
 | File       | Count | Info |
@@ -24,6 +20,6 @@ permalink: /dutchgov/sportenbewegenincijfers.nl.html
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://acceptatie.sportenbewegenincijfers.nl](https://acceptatie.sportenbewegenincijfers.nl)| | **65**|Apache| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS|301 Moved Perman...|
-|[https://www.sportenbewegenincijfers.nl](https://www.sportenbewegenincijfers.nl)| | **65**|Apache| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server Drupal HSTS PHP|Feiten en cijfer...|
-|[https://sportenbewegenincijfers.nl](https://sportenbewegenincijfers.nl)| | **65**|Apache| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS|301 Moved Perman...|
+|[https://acceptatie.sportenbewegenincijfers.nl](https://acceptatie.sportenbewegenincijfers.nl)| | **D**|Apache| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS|301 Moved Perman...|
+|[https://www.sportenbewegenincijfers.nl](https://www.sportenbewegenincijfers.nl)| | **D**|Apache| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server Drupal HSTS PHP|Feiten en cijfer...|
+|[https://sportenbewegenincijfers.nl](https://sportenbewegenincijfers.nl)| | **D**|Apache| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS|301 Moved Perman...|

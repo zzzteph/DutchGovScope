@@ -1,14 +1,40 @@
 ---
-layout: post
+layout: default
 title: "kennisopenbaarbestuur.nl"
-internal_url: "/dutchgov/kennisopenbaarbestuur.nl.html"
+permalink: "/dutchgov/kennisopenbaarbestuur.nl.html"
 subdomains_count: 4
 all_subdomains_count: 6
 urls_count: 4
-ssl_rank: 0
-http_rank: 70
+ssl_rank: F
+http_rank: C
 url_link: /data/kennisopenbaarbestuur.nl/urls.txt
 all_subdomains_link: /data/kennisopenbaarbestuur.nl/all_subdomains.txt
 subdomains_link: /data/kennisopenbaarbestuur.nl/subdomains.txt
 categories: dutchgov
 ---
+
+
+# kennisopenbaarbestuur.nl
+## Summary data
+
+
+**SSL Grade**:F
+**HTTP Security Grade**:C
+
+
+| File       | Count | Info |
+|------------|-------|------|
+|[subdomains.txt](/data/kennisopenbaarbestuur.nl/subdomains.txt)|4|Alive subdomains|
+|[urls.txt](/data/kennisopenbaarbestuur.nl/urls.txt)|4|Urls|
+|[all_subdomains.txt](/data/kennisopenbaarbestuur.nl/all_subdomains.txt)|6|All found subdomains (history)|
+
+
+## Statistics
+
+
+| Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
+|--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
+|[https://feeds.kennisopenbaarbestuur.nl](https://feeds.kennisopenbaarbestuur.nl)| | **D**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
+|[https://opendata.kennisopenbaarbestuur.nl](https://opendata.kennisopenbaarbestuur.nl)| | **D**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
+|[https://www.kennisopenbaarbestuur.nl](https://www.kennisopenbaarbestuur.nl)| | **C**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Home | Kennisban...|
+|[https://kennisopenbaarbestuur.nl](https://kennisopenbaarbestuur.nl)| | **C**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|

@@ -1,15 +1,11 @@
----
-layout: dutchgov
-permalink: /dutchgov/cioweb.nl.html
----
 
 
 # cioweb.nl
 ## Summary data
 
 
-**SSL Grade**:100
-**HTTP Security Grade**:45
+**SSL Grade**:A+
+**HTTP Security Grade**:F
 
 
 | File       | Count | Info |
@@ -24,5 +20,5 @@ permalink: /dutchgov/cioweb.nl.html
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://www.cioweb.nl](https://www.cioweb.nl)| **A+**| **45**|Apache/2.4.56 (Fedora Linux) OpenSSL/3.0.8| |:white_check_mark: | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.56 Fedora HSTS MySQL OpenSSL:3.0.8 PHP:8.1.16 UIKit WordPress:6.4.2 Yoast SEO:21.8|Welkom op CIO we...|
-|[https://cioweb.nl](https://cioweb.nl)| **A+**| **45**|Apache/2.4.56 (Fedora Linux) OpenSSL/3.0.8| |:white_check_mark: | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.56 Fedora HSTS OpenSSL:3.0.8|301 Moved Perman...|
+|[https://www.cioweb.nl](https://www.cioweb.nl)| **A+**| **F**|Apache/2.4.56 (Fedora Linux) OpenSSL/3.0.8| |:white_check_mark: | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.56 Fedora HSTS MySQL OpenSSL:3.0.8 PHP:8.1.16 UIKit WordPress:6.4.2 Yoast SEO:21.8|Welkom op CIO we...|
+|[https://cioweb.nl](https://cioweb.nl)| **A+**| **F**|Apache/2.4.56 (Fedora Linux) OpenSSL/3.0.8| |:white_check_mark: | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.56 Fedora HSTS OpenSSL:3.0.8|301 Moved Perman...|

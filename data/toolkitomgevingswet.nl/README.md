@@ -1,15 +1,11 @@
----
-layout: dutchgov
-permalink: /dutchgov/toolkitomgevingswet.nl.html
----
 
 
 # toolkitomgevingswet.nl
 ## Summary data
 
 
-**SSL Grade**:0
-**HTTP Security Grade**:55
+**SSL Grade**:F
+**HTTP Security Grade**:E
 
 
 | File       | Count | Info |
@@ -24,5 +20,5 @@ permalink: /dutchgov/toolkitomgevingswet.nl.html
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://www.toolkitomgevingswet.nl](https://www.toolkitomgevingswet.nl)| | **55**|Apache| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server Drupal:9 HSTS PHP Typekit|Home | Toolkit O...|
-|[https://toolkitomgevingswet.nl](https://toolkitomgevingswet.nl)| | **55**|Apache| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS|301 Moved Perman...|
+|[https://www.toolkitomgevingswet.nl](https://www.toolkitomgevingswet.nl)| | **E**|Apache| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server Drupal:9 HSTS PHP Typekit|Home | Toolkit O...|
+|[https://toolkitomgevingswet.nl](https://toolkitomgevingswet.nl)| | **E**|Apache| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS|301 Moved Perman...|

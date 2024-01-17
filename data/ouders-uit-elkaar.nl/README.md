@@ -1,15 +1,11 @@
----
-layout: dutchgov
-permalink: /dutchgov/ouders-uit-elkaar.nl.html
----
 
 
 # ouders-uit-elkaar.nl
 ## Summary data
 
 
-**SSL Grade**:0
-**HTTP Security Grade**:80
+**SSL Grade**:F
+**HTTP Security Grade**:B
 
 
 | File       | Count | Info |
@@ -24,5 +20,5 @@ permalink: /dutchgov/ouders-uit-elkaar.nl.html
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://ouders-uit-elkaar.nl](https://ouders-uit-elkaar.nl)| | **80**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Object moved|
-|[https://www.ouders-uit-elkaar.nl](https://www.ouders-uit-elkaar.nl)| | **80**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Start - Ouders u...|
+|[https://ouders-uit-elkaar.nl](https://ouders-uit-elkaar.nl)| | **B**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Object moved|
+|[https://www.ouders-uit-elkaar.nl](https://www.ouders-uit-elkaar.nl)| | **B**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Start - Ouders u...|

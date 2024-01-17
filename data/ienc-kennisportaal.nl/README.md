@@ -1,15 +1,11 @@
----
-layout: dutchgov
-permalink: /dutchgov/ienc-kennisportaal.nl.html
----
 
 
 # ienc-kennisportaal.nl
 ## Summary data
 
 
-**SSL Grade**:0
-**HTTP Security Grade**:65
+**SSL Grade**:F
+**HTTP Security Grade**:D
 
 
 | File       | Count | Info |
@@ -24,6 +20,6 @@ permalink: /dutchgov/ienc-kennisportaal.nl.html
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://gc.ienc-kennisportaal.nl](https://gc.ienc-kennisportaal.nl)| | **65**|Apache| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS||
-|[https://www.ienc-kennisportaal.nl](https://www.ienc-kennisportaal.nl)| | **65**|Apache| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS||
-|[https://ienc-kennisportaal.nl](https://ienc-kennisportaal.nl)| | **65**|Apache| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS MySQL PHP WordPress|IENC Kennisporta...|
+|[https://gc.ienc-kennisportaal.nl](https://gc.ienc-kennisportaal.nl)| | **D**|Apache| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS||
+|[https://www.ienc-kennisportaal.nl](https://www.ienc-kennisportaal.nl)| | **D**|Apache| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS||
+|[https://ienc-kennisportaal.nl](https://ienc-kennisportaal.nl)| | **D**|Apache| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS MySQL PHP WordPress|IENC Kennisporta...|

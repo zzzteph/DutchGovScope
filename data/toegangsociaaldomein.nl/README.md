@@ -1,15 +1,11 @@
----
-layout: dutchgov
-permalink: /dutchgov/toegangsociaaldomein.nl.html
----
 
 
 # toegangsociaaldomein.nl
 ## Summary data
 
 
-**SSL Grade**:0
-**HTTP Security Grade**:25
+**SSL Grade**:F
+**HTTP Security Grade**:F
 
 
 | File       | Count | Info |
@@ -24,5 +20,5 @@ permalink: /dutchgov/toegangsociaaldomein.nl.html
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://www.toegangsociaaldomein.nl](https://www.toegangsociaaldomein.nl)| | **25**|lighttpd|:o: | | | | | | | :white_check_mark: | |PHP lighttpd|Toezicht Sociaal...|
-|[https://toegangsociaaldomein.nl](https://toegangsociaaldomein.nl)| | **25**|lighttpd|:o: | | | | | | | :white_check_mark: | |lighttpd||
+|[https://www.toegangsociaaldomein.nl](https://www.toegangsociaaldomein.nl)| | **F**|lighttpd|:o: | | | | | | | :white_check_mark: | |PHP lighttpd|Toezicht Sociaal...|
+|[https://toegangsociaaldomein.nl](https://toegangsociaaldomein.nl)| | **F**|lighttpd|:o: | | | | | | | :white_check_mark: | |lighttpd||

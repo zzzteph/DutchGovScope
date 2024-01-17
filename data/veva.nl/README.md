@@ -1,15 +1,11 @@
----
-layout: dutchgov
-permalink: /dutchgov/veva.nl.html
----
 
 
 # veva.nl
 ## Summary data
 
 
-**SSL Grade**:0
-**HTTP Security Grade**:75
+**SSL Grade**:F
+**HTTP Security Grade**:C
 
 
 | File       | Count | Info |
@@ -24,5 +20,5 @@ permalink: /dutchgov/veva.nl.html
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://www.veva.nl](https://www.veva.nl)| | **75**|Ponos Maximum| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
-|[https://veva.nl](https://veva.nl)| | **75**|Ponos Maximum| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Homepage - Veili...|
+|[https://www.veva.nl](https://www.veva.nl)| | **C**|Ponos Maximum| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
+|[https://veva.nl](https://veva.nl)| | **C**|Ponos Maximum| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Homepage - Veili...|

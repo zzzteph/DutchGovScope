@@ -1,15 +1,11 @@
----
-layout: dutchgov
-permalink: /dutchgov/nationaleconferentieduurzamemobiliteit.nl.html
----
 
 
 # nationaleconferentieduurzamemobiliteit.nl
 ## Summary data
 
 
-**SSL Grade**:0
-**HTTP Security Grade**:74
+**SSL Grade**:F
+**HTTP Security Grade**:C
 
 
 | File       | Count | Info |
@@ -24,7 +20,7 @@ permalink: /dutchgov/nationaleconferentieduurzamemobiliteit.nl.html
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://20210215.nationaleconferentieduurzamemobiliteit.nl](https://20210215.nationaleconferentieduurzamemobiliteit.nl)| | **39**|Apache/2|:white_check_mark: | | | | | | | :white_check_mark: | |Apache HTTP Server:2 Bootstrap:4.5.3 PHP|Home - Nationale...|
-|[https://app.nationaleconferentieduurzamemobiliteit.nl](https://app.nationaleconferentieduurzamemobiliteit.nl)| | **79**|Apache/2|:white_check_mark: |:white_check_mark: | :warning:| |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server:2 Bootstrap HSTS|Spitz App|
-|[https://nationaleconferentieduurzamemobiliteit.nl](https://nationaleconferentieduurzamemobiliteit.nl)| | **89**|Apache/2|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server:2 HSTS|301 Moved Perman...|
-|[https://www.nationaleconferentieduurzamemobiliteit.nl](https://www.nationaleconferentieduurzamemobiliteit.nl)| | **89**|Apache/2|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server:2 Bootstrap HSTS|Home - Nationale...|
+|[https://20210215.nationaleconferentieduurzamemobiliteit.nl](https://20210215.nationaleconferentieduurzamemobiliteit.nl)| | **F**|Apache/2|:white_check_mark: | | | | | | | :white_check_mark: | |Apache HTTP Server:2 Bootstrap:4.5.3 PHP|Home - Nationale...|
+|[https://app.nationaleconferentieduurzamemobiliteit.nl](https://app.nationaleconferentieduurzamemobiliteit.nl)| | **C**|Apache/2|:white_check_mark: |:white_check_mark: | :warning:| |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server:2 Bootstrap HSTS|Spitz App|
+|[https://nationaleconferentieduurzamemobiliteit.nl](https://nationaleconferentieduurzamemobiliteit.nl)| | **B**|Apache/2|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server:2 HSTS|301 Moved Perman...|
+|[https://www.nationaleconferentieduurzamemobiliteit.nl](https://www.nationaleconferentieduurzamemobiliteit.nl)| | **B**|Apache/2|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server:2 Bootstrap HSTS|Home - Nationale...|

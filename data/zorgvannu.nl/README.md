@@ -1,15 +1,11 @@
----
-layout: dutchgov
-permalink: /dutchgov/zorgvannu.nl.html
----
 
 
 # zorgvannu.nl
 ## Summary data
 
 
-**SSL Grade**:0
-**HTTP Security Grade**:58.333333333333
+**SSL Grade**:F
+**HTTP Security Grade**:E
 
 
 | File       | Count | Info |
@@ -24,6 +20,6 @@ permalink: /dutchgov/zorgvannu.nl.html
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://elearning.zorgvannu.nl](https://elearning.zorgvannu.nl)| | **65**|nginx|:o: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|Zorg van Nu|
-|[https://www.zorgvannu.nl](https://www.zorgvannu.nl)| | **55**|Apache| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server Drupal:9 HSTS PHP|Wegwijs in zorgt...|
-|[https://zorgvannu.nl](https://zorgvannu.nl)| | **55**|Apache| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS|301 Moved Perman...|
+|[https://elearning.zorgvannu.nl](https://elearning.zorgvannu.nl)| | **D**|nginx|:o: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|Zorg van Nu|
+|[https://www.zorgvannu.nl](https://www.zorgvannu.nl)| | **E**|Apache| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server Drupal:9 HSTS PHP|Wegwijs in zorgt...|
+|[https://zorgvannu.nl](https://zorgvannu.nl)| | **E**|Apache| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS|301 Moved Perman...|

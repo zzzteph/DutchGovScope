@@ -1,15 +1,11 @@
----
-layout: dutchgov
-permalink: /dutchgov/functiegebouwrijksoverheid.nl.html
----
 
 
 # functiegebouwrijksoverheid.nl
 ## Summary data
 
 
-**SSL Grade**:0
-**HTTP Security Grade**:65.2
+**SSL Grade**:F
+**HTTP Security Grade**:D
 
 
 | File       | Count | Info |
@@ -24,8 +20,8 @@ permalink: /dutchgov/functiegebouwrijksoverheid.nl.html
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://csoacct.functiegebouwrijksoverheid.nl](https://csoacct.functiegebouwrijksoverheid.nl)| | **59**|cloudflare|:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | |Basic Cloudflare HSTS|Authentication R...|
-|[https://csotest.functiegebouwrijksoverheid.nl](https://csotest.functiegebouwrijksoverheid.nl)| | **59**|cloudflare|:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | |Basic Cloudflare HSTS|Authentication R...|
-|[https://odc.functiegebouwrijksoverheid.nl](https://odc.functiegebouwrijksoverheid.nl)| | **50**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
-|[https://www.functiegebouwrijksoverheid.nl](https://www.functiegebouwrijksoverheid.nl)| | **79**|cloudflare|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach Bootstrap:4.3.1 Cloudflare Google Tag Manager HSTS|Home - Functiege...|
-|[https://functiegebouwrijksoverheid.nl](https://functiegebouwrijksoverheid.nl)| | **79**|cloudflare|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Cloudflare HSTS||
+|[https://csoacct.functiegebouwrijksoverheid.nl](https://csoacct.functiegebouwrijksoverheid.nl)| | **E**|cloudflare|:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | |Basic Cloudflare HSTS|Authentication R...|
+|[https://csotest.functiegebouwrijksoverheid.nl](https://csotest.functiegebouwrijksoverheid.nl)| | **E**|cloudflare|:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | |Basic Cloudflare HSTS|Authentication R...|
+|[https://odc.functiegebouwrijksoverheid.nl](https://odc.functiegebouwrijksoverheid.nl)| | **E**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
+|[https://www.functiegebouwrijksoverheid.nl](https://www.functiegebouwrijksoverheid.nl)| | **C**|cloudflare|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach Bootstrap:4.3.1 Cloudflare Google Tag Manager HSTS|Home - Functiege...|
+|[https://functiegebouwrijksoverheid.nl](https://functiegebouwrijksoverheid.nl)| | **C**|cloudflare|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Cloudflare HSTS||

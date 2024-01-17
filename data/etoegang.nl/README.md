@@ -1,15 +1,11 @@
----
-layout: dutchgov
-permalink: /dutchgov/etoegang.nl.html
----
 
 
 # etoegang.nl
 ## Summary data
 
 
-**SSL Grade**:0
-**HTTP Security Grade**:61.8
+**SSL Grade**:F
+**HTTP Security Grade**:D
 
 
 | File       | Count | Info |
@@ -24,8 +20,8 @@ permalink: /dutchgov/etoegang.nl.html
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://afsprakenstelsel.etoegang.nl](https://afsprakenstelsel.etoegang.nl)| | **99**||:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Atlassian Confluence HSTS Java|Startpagina - Af...|
-|[https://aggregator.etoegang.nl](https://aggregator.etoegang.nl)| | **50**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|403 Forbidden|
-|[https://simulator.etoegang.nl](https://simulator.etoegang.nl)| | **50**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|eHerkenning / si...|
-|[https://s3.etoegang.nl](https://s3.etoegang.nl)| | **60**|| |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | |Amazon Web Services HSTS||
-|[https://upload.etoegang.nl](https://upload.etoegang.nl)| | **50**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|403 Forbidden|
+|[https://afsprakenstelsel.etoegang.nl](https://afsprakenstelsel.etoegang.nl)| | **A**||:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Atlassian Confluence HSTS Java|Startpagina - Af...|
+|[https://aggregator.etoegang.nl](https://aggregator.etoegang.nl)| | **E**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|403 Forbidden|
+|[https://simulator.etoegang.nl](https://simulator.etoegang.nl)| | **E**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|eHerkenning / si...|
+|[https://s3.etoegang.nl](https://s3.etoegang.nl)| | **D**|| |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | |Amazon Web Services HSTS||
+|[https://upload.etoegang.nl](https://upload.etoegang.nl)| | **E**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|403 Forbidden|

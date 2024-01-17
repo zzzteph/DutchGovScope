@@ -1,15 +1,11 @@
----
-layout: dutchgov
-permalink: /dutchgov/samenwerkingrijknoord.nl.html
----
 
 
 # samenwerkingrijknoord.nl
 ## Summary data
 
 
-**SSL Grade**:0
-**HTTP Security Grade**:70
+**SSL Grade**:F
+**HTTP Security Grade**:C
 
 
 | File       | Count | Info |
@@ -24,7 +20,7 @@ permalink: /dutchgov/samenwerkingrijknoord.nl.html
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://feeds.samenwerkingrijknoord.nl](https://feeds.samenwerkingrijknoord.nl)| | **65**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
-|[https://opendata.samenwerkingrijknoord.nl](https://opendata.samenwerkingrijknoord.nl)| | **65**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
-|[https://samenwerkingrijknoord.nl](https://samenwerkingrijknoord.nl)| | **75**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
-|[https://www.samenwerkingrijknoord.nl](https://www.samenwerkingrijknoord.nl)| | **75**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Home | Samenwerk...|
+|[https://feeds.samenwerkingrijknoord.nl](https://feeds.samenwerkingrijknoord.nl)| | **D**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
+|[https://opendata.samenwerkingrijknoord.nl](https://opendata.samenwerkingrijknoord.nl)| | **D**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
+|[https://samenwerkingrijknoord.nl](https://samenwerkingrijknoord.nl)| | **C**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
+|[https://www.samenwerkingrijknoord.nl](https://www.samenwerkingrijknoord.nl)| | **C**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Home | Samenwerk...|

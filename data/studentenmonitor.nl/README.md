@@ -1,15 +1,11 @@
----
-layout: dutchgov
-permalink: /dutchgov/studentenmonitor.nl.html
----
 
 
 # studentenmonitor.nl
 ## Summary data
 
 
-**SSL Grade**:0
-**HTTP Security Grade**:62
+**SSL Grade**:F
+**HTTP Security Grade**:D
 
 
 | File       | Count | Info |
@@ -24,5 +20,5 @@ permalink: /dutchgov/studentenmonitor.nl.html
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://www.studentenmonitor.nl](https://www.studentenmonitor.nl)| | **62**|ws 1.4|:warning: |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS|Studentenmonitor...|
-|[https://studentenmonitor.nl](https://studentenmonitor.nl)| | **62**|ws 1.4|:warning: |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS|Studentenmonitor...|
+|[https://www.studentenmonitor.nl](https://www.studentenmonitor.nl)| | **D**|ws 1.4|:warning: |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS|Studentenmonitor...|
+|[https://studentenmonitor.nl](https://studentenmonitor.nl)| | **D**|ws 1.4|:warning: |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS|Studentenmonitor...|

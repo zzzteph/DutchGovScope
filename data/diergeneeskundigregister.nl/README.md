@@ -1,15 +1,11 @@
----
-layout: dutchgov
-permalink: /dutchgov/diergeneeskundigregister.nl.html
----
 
 
 # diergeneeskundigregister.nl
 ## Summary data
 
 
-**SSL Grade**:100
-**HTTP Security Grade**:75
+**SSL Grade**:A+
+**HTTP Security Grade**:C
 
 
 | File       | Count | Info |
@@ -24,5 +20,5 @@ permalink: /dutchgov/diergeneeskundigregister.nl.html
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://www.diergeneeskundigregister.nl](https://www.diergeneeskundigregister.nl)| **A+**| **75**|Microsoft-IIS/10.0| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS IIS:10.0 Windows Server|Document Moved|
-|[https://diergeneeskundigregister.nl](https://diergeneeskundigregister.nl)| **A+**| **75**|Microsoft-IIS/10.0| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS IIS:10.0 Windows Server|Document Moved|
+|[https://www.diergeneeskundigregister.nl](https://www.diergeneeskundigregister.nl)| **A+**| **C**|Microsoft-IIS/10.0| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS IIS:10.0 Windows Server|Document Moved|
+|[https://diergeneeskundigregister.nl](https://diergeneeskundigregister.nl)| **A+**| **C**|Microsoft-IIS/10.0| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS IIS:10.0 Windows Server|Document Moved|

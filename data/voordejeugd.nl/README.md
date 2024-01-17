@@ -1,15 +1,11 @@
----
-layout: dutchgov
-permalink: /dutchgov/voordejeugd.nl.html
----
 
 
 # voordejeugd.nl
 ## Summary data
 
 
-**SSL Grade**:0
-**HTTP Security Grade**:79.666666666667
+**SSL Grade**:F
+**HTTP Security Grade**:C
 
 
 | File       | Count | Info |
@@ -24,6 +20,6 @@ permalink: /dutchgov/voordejeugd.nl.html
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://magazines.voordejeugd.nl](https://magazines.voordejeugd.nl)| | **89**|Microsoft-IIS/10.0|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS IIS:10.0 Windows Server|Document Moved|
-|[https://www.voordejeugd.nl](https://www.voordejeugd.nl)| | **75**|Microsoft-IIS/10.0| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS IIS:10.0 Windows Server|Document Moved|
-|[https://voordejeugd.nl](https://voordejeugd.nl)| | **75**|Microsoft-IIS/10.0| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS IIS:10.0 Windows Server|Document Moved|
+|[https://magazines.voordejeugd.nl](https://magazines.voordejeugd.nl)| | **B**|Microsoft-IIS/10.0|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS IIS:10.0 Windows Server|Document Moved|
+|[https://www.voordejeugd.nl](https://www.voordejeugd.nl)| | **C**|Microsoft-IIS/10.0| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS IIS:10.0 Windows Server|Document Moved|
+|[https://voordejeugd.nl](https://voordejeugd.nl)| | **C**|Microsoft-IIS/10.0| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS IIS:10.0 Windows Server|Document Moved|

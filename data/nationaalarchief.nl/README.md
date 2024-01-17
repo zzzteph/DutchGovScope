@@ -1,15 +1,11 @@
----
-layout: dutchgov
-permalink: /dutchgov/nationaalarchief.nl.html
----
 
 
 # nationaalarchief.nl
 ## Summary data
 
 
-**SSL Grade**:0
-**HTTP Security Grade**:40
+**SSL Grade**:F
+**HTTP Security Grade**:F
 
 
 | File       | Count | Info |
@@ -24,6 +20,6 @@ permalink: /dutchgov/nationaalarchief.nl.html
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
-|[http://beeldbank.nationaalarchief.nl](http://beeldbank.nationaalarchief.nl)| | **25**|nginx| | | | | | | | :white_check_mark: | |HTTP/3 Nginx||
-|[https://servicebureau.nationaalarchief.nl](https://servicebureau.nationaalarchief.nl)| | **70**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Login|
-|[https://bibliotheek.nationaalarchief.nl](https://bibliotheek.nationaalarchief.nl)| | **25**|Central System Dispatcher/1.1| | | | | | | | :white_check_mark: | |HSTS||
+|[http://beeldbank.nationaalarchief.nl](http://beeldbank.nationaalarchief.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |HTTP/3 Nginx||
+|[https://servicebureau.nationaalarchief.nl](https://servicebureau.nationaalarchief.nl)| | **C**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Login|
+|[https://bibliotheek.nationaalarchief.nl](https://bibliotheek.nationaalarchief.nl)| | **F**|Central System Dispatcher/1.1| | | | | | | | :white_check_mark: | |HSTS||

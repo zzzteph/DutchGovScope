@@ -1,15 +1,11 @@
----
-layout: dutchgov
-permalink: /dutchgov/postedworkers.nl.html
----
 
 
 # postedworkers.nl
 ## Summary data
 
 
-**SSL Grade**:0
-**HTTP Security Grade**:65.285714285714
+**SSL Grade**:F
+**HTTP Security Grade**:D
 
 
 | File       | Count | Info |
@@ -24,17 +20,17 @@ permalink: /dutchgov/postedworkers.nl.html
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://deutsch.postedworkers.nl](https://deutsch.postedworkers.nl)| | **75**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Posted Workers |...|
-|[https://english.postedworkers.nl](https://english.postedworkers.nl)| | **75**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Posted Workers |...|
-|[https://feeds.postedworkers.nl](https://feeds.postedworkers.nl)| | **65**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
-|[https://feeds.deutsch.postedworkers.nl](https://feeds.deutsch.postedworkers.nl)| | **65**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
-|[https://feeds.english.postedworkers.nl](https://feeds.english.postedworkers.nl)| | **65**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
-|[https://meldloket.postedworkers.nl](https://meldloket.postedworkers.nl)| | **99**||:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | ||Object moved per...|
-|[https://myidp.postedworkers.nl](https://myidp.postedworkers.nl)| | **50**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
-|[https://myidp-acc.postedworkers.nl](https://myidp-acc.postedworkers.nl)| | **50**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
-|[https://opendata.postedworkers.nl](https://opendata.postedworkers.nl)| | **65**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
-|[https://opendata.deutsch.postedworkers.nl](https://opendata.deutsch.postedworkers.nl)| | **65**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
-|[https://opendata.english.postedworkers.nl](https://opendata.english.postedworkers.nl)| | **65**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
-|[https://www.postedworkers.nl](https://www.postedworkers.nl)| | **75**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Posted Workers |...|
-|[https://postedworkers.nl](https://postedworkers.nl)| | **75**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
-|[https://url6099.mail.postedworkers.nl](https://url6099.mail.postedworkers.nl)| | **25**|nginx| | | | | | | | :white_check_mark: | |Nginx|404 Not Found|
+|[https://deutsch.postedworkers.nl](https://deutsch.postedworkers.nl)| | **C**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Posted Workers |...|
+|[https://english.postedworkers.nl](https://english.postedworkers.nl)| | **C**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Posted Workers |...|
+|[https://feeds.postedworkers.nl](https://feeds.postedworkers.nl)| | **D**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
+|[https://feeds.deutsch.postedworkers.nl](https://feeds.deutsch.postedworkers.nl)| | **D**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
+|[https://feeds.english.postedworkers.nl](https://feeds.english.postedworkers.nl)| | **D**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
+|[https://meldloket.postedworkers.nl](https://meldloket.postedworkers.nl)| | **A**||:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | ||Object moved per...|
+|[https://myidp.postedworkers.nl](https://myidp.postedworkers.nl)| | **E**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
+|[https://myidp-acc.postedworkers.nl](https://myidp-acc.postedworkers.nl)| | **E**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
+|[https://opendata.postedworkers.nl](https://opendata.postedworkers.nl)| | **D**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
+|[https://opendata.deutsch.postedworkers.nl](https://opendata.deutsch.postedworkers.nl)| | **D**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
+|[https://opendata.english.postedworkers.nl](https://opendata.english.postedworkers.nl)| | **D**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
+|[https://www.postedworkers.nl](https://www.postedworkers.nl)| | **C**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Posted Workers |...|
+|[https://postedworkers.nl](https://postedworkers.nl)| | **C**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
+|[https://url6099.mail.postedworkers.nl](https://url6099.mail.postedworkers.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|404 Not Found|

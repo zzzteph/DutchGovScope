@@ -1,15 +1,11 @@
----
-layout: dutchgov
-permalink: /dutchgov/regioatlas.nl.html
----
 
 
 # regioatlas.nl
 ## Summary data
 
 
-**SSL Grade**:0
-**HTTP Security Grade**:50
+**SSL Grade**:F
+**HTTP Security Grade**:E
 
 
 | File       | Count | Info |
@@ -24,5 +20,5 @@ permalink: /dutchgov/regioatlas.nl.html
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://www.regioatlas.nl](https://www.regioatlas.nl)| | **50**||:o: |:white_check_mark: | | | | | | :white_check_mark: | |HSTS PHP|Home - RegioAtla...|
-|[https://regioatlas.nl](https://regioatlas.nl)| | **50**||:o: |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|301 Moved Perman...|
+|[https://www.regioatlas.nl](https://www.regioatlas.nl)| | **E**||:o: |:white_check_mark: | | | | | | :white_check_mark: | |HSTS PHP|Home - RegioAtla...|
+|[https://regioatlas.nl](https://regioatlas.nl)| | **E**||:o: |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|301 Moved Perman...|

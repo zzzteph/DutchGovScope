@@ -1,15 +1,11 @@
----
-layout: dutchgov
-permalink: /dutchgov/arbeidsinspectie.nl.html
----
 
 
 # arbeidsinspectie.nl
 ## Summary data
 
 
-**SSL Grade**:66.666666666667
-**HTTP Security Grade**:58.333333333333
+**SSL Grade**:B-
+**HTTP Security Grade**:E
 
 
 | File       | Count | Info |
@@ -24,6 +20,6 @@ permalink: /dutchgov/arbeidsinspectie.nl.html
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://www.arbeidsinspectie.nl](https://www.arbeidsinspectie.nl)| **A+**| **75**|Microsoft-IIS/10.0| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS IIS:10.0 Windows Server|Document Moved|
-|[https://arbeidsinspectie.nl](https://arbeidsinspectie.nl)| **A+**| **75**|Microsoft-IIS/10.0| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS IIS:10.0 Windows Server|Document Moved|
-|[https://test.resultaten.arbeidsinspectie.nl](https://test.resultaten.arbeidsinspectie.nl)| **F**| **25**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |HSTS Microsoft HTTPAPI:2.0|Not Found|
+|[https://www.arbeidsinspectie.nl](https://www.arbeidsinspectie.nl)| **A+**| **C**|Microsoft-IIS/10.0| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS IIS:10.0 Windows Server|Document Moved|
+|[https://arbeidsinspectie.nl](https://arbeidsinspectie.nl)| **A+**| **C**|Microsoft-IIS/10.0| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS IIS:10.0 Windows Server|Document Moved|
+|[https://test.resultaten.arbeidsinspectie.nl](https://test.resultaten.arbeidsinspectie.nl)| **F**| **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |HSTS Microsoft HTTPAPI:2.0|Not Found|

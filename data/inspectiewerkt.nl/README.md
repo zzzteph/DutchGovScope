@@ -1,15 +1,11 @@
----
-layout: dutchgov
-permalink: /dutchgov/inspectiewerkt.nl.html
----
 
 
 # inspectiewerkt.nl
 ## Summary data
 
 
-**SSL Grade**:0
-**HTTP Security Grade**:91.5
+**SSL Grade**:F
+**HTTP Security Grade**:A
 
 
 | File       | Count | Info |
@@ -24,5 +20,5 @@ permalink: /dutchgov/inspectiewerkt.nl.html
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://www.inspectiewerkt.nl](https://www.inspectiewerkt.nl)| | **94**||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS OWL Carousel jQuery|Newsroom Nederla...|
-|[https://inspectiewerkt.nl](https://inspectiewerkt.nl)| | **89**|nginx/1.18.0|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx:1.18.0|301 Moved Perman...|
+|[https://www.inspectiewerkt.nl](https://www.inspectiewerkt.nl)| | **A**||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS OWL Carousel jQuery|Newsroom Nederla...|
+|[https://inspectiewerkt.nl](https://inspectiewerkt.nl)| | **B**|nginx/1.18.0|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx:1.18.0|301 Moved Perman...|

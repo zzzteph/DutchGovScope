@@ -1,15 +1,11 @@
----
-layout: dutchgov
-permalink: /dutchgov/actiemonitoringce.nl.html
----
 
 
 # actiemonitoringce.nl
 ## Summary data
 
 
-**SSL Grade**:0
-**HTTP Security Grade**:52
+**SSL Grade**:F
+**HTTP Security Grade**:E
 
 
 | File       | Count | Info |
@@ -24,5 +20,5 @@ permalink: /dutchgov/actiemonitoringce.nl.html
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://www.actiemonitoringce.nl](https://www.actiemonitoringce.nl)| | **52**|Microsoft-IIS/8.5|:warning: |:white_check_mark: | | | | | | :white_check_mark: | |Bootstrap HSTS IIS:8.5 Microsoft ASP.NET:4.0.30319 Windows Server|RisicotoolboxBod...|
-|[https://actiemonitoringce.nl](https://actiemonitoringce.nl)| | **52**|Microsoft-IIS/8.5|:warning: |:white_check_mark: | | | | | | :white_check_mark: | |Bootstrap HSTS IIS:8.5 Microsoft ASP.NET Windows Server|RisicotoolboxBod...|
+|[https://www.actiemonitoringce.nl](https://www.actiemonitoringce.nl)| | **E**|Microsoft-IIS/8.5|:warning: |:white_check_mark: | | | | | | :white_check_mark: | |Bootstrap HSTS IIS:8.5 Microsoft ASP.NET:4.0.30319 Windows Server|RisicotoolboxBod...|
+|[https://actiemonitoringce.nl](https://actiemonitoringce.nl)| | **E**|Microsoft-IIS/8.5|:warning: |:white_check_mark: | | | | | | :white_check_mark: | |Bootstrap HSTS IIS:8.5 Microsoft ASP.NET Windows Server|RisicotoolboxBod...|

@@ -1,15 +1,11 @@
----
-layout: dutchgov
-permalink: /dutchgov/netwerkplatteland.nl.html
----
 
 
 # netwerkplatteland.nl
 ## Summary data
 
 
-**SSL Grade**:0
-**HTTP Security Grade**:71
+**SSL Grade**:F
+**HTTP Security Grade**:C
 
 
 | File       | Count | Info |
@@ -24,8 +20,8 @@ permalink: /dutchgov/netwerkplatteland.nl.html
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://feeds.netwerkplatteland.nl](https://feeds.netwerkplatteland.nl)| | **65**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
-|[https://opendata.netwerkplatteland.nl](https://opendata.netwerkplatteland.nl)| | **65**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
-|[https://projecten.netwerkplatteland.nl](https://projecten.netwerkplatteland.nl)| | **75**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Drupal HSTS Nginx PHP|Redirecting to h...|
-|[https://www.netwerkplatteland.nl](https://www.netwerkplatteland.nl)| | **75**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Home | Netwerk P...|
-|[https://netwerkplatteland.nl](https://netwerkplatteland.nl)| | **75**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
+|[https://feeds.netwerkplatteland.nl](https://feeds.netwerkplatteland.nl)| | **D**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
+|[https://opendata.netwerkplatteland.nl](https://opendata.netwerkplatteland.nl)| | **D**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
+|[https://projecten.netwerkplatteland.nl](https://projecten.netwerkplatteland.nl)| | **C**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Drupal HSTS Nginx PHP|Redirecting to h...|
+|[https://www.netwerkplatteland.nl](https://www.netwerkplatteland.nl)| | **C**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Home | Netwerk P...|
+|[https://netwerkplatteland.nl](https://netwerkplatteland.nl)| | **C**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|

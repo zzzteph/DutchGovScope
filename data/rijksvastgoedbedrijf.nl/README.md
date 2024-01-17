@@ -1,15 +1,11 @@
----
-layout: dutchgov
-permalink: /dutchgov/rijksvastgoedbedrijf.nl.html
----
 
 
 # rijksvastgoedbedrijf.nl
 ## Summary data
 
 
-**SSL Grade**:0
-**HTTP Security Grade**:75.666666666667
+**SSL Grade**:F
+**HTTP Security Grade**:C
 
 
 | File       | Count | Info |
@@ -24,9 +20,9 @@ permalink: /dutchgov/rijksvastgoedbedrijf.nl.html
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://feeds.rijksvastgoedbedrijf.nl](https://feeds.rijksvastgoedbedrijf.nl)| | **65**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
-|[https://magazinesintern.rijksvastgoedbedrijf.nl](https://magazinesintern.rijksvastgoedbedrijf.nl)| | **75**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
-|[https://opendata.rijksvastgoedbedrijf.nl](https://opendata.rijksvastgoedbedrijf.nl)| | **65**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
-|[https://www.rijksvastgoedbedrijf.nl](https://www.rijksvastgoedbedrijf.nl)| | **75**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Home | Rijksvast...|
-|[https://rijksvastgoedbedrijf.nl](https://rijksvastgoedbedrijf.nl)| | **75**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
-|[https://projecten.rijksvastgoedbedrijf.nl](https://projecten.rijksvastgoedbedrijf.nl)| | **99**|Apache|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Apache HTTP Server HSTS||
+|[https://feeds.rijksvastgoedbedrijf.nl](https://feeds.rijksvastgoedbedrijf.nl)| | **D**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
+|[https://magazinesintern.rijksvastgoedbedrijf.nl](https://magazinesintern.rijksvastgoedbedrijf.nl)| | **C**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
+|[https://opendata.rijksvastgoedbedrijf.nl](https://opendata.rijksvastgoedbedrijf.nl)| | **D**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
+|[https://www.rijksvastgoedbedrijf.nl](https://www.rijksvastgoedbedrijf.nl)| | **C**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Home | Rijksvast...|
+|[https://rijksvastgoedbedrijf.nl](https://rijksvastgoedbedrijf.nl)| | **C**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
+|[https://projecten.rijksvastgoedbedrijf.nl](https://projecten.rijksvastgoedbedrijf.nl)| | **A**|Apache|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Apache HTTP Server HSTS||

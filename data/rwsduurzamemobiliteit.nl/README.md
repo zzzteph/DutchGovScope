@@ -1,15 +1,11 @@
----
-layout: dutchgov
-permalink: /dutchgov/rwsduurzamemobiliteit.nl.html
----
 
 
 # rwsduurzamemobiliteit.nl
 ## Summary data
 
 
-**SSL Grade**:0
-**HTTP Security Grade**:85
+**SSL Grade**:F
+**HTTP Security Grade**:B
 
 
 | File       | Count | Info |
@@ -24,5 +20,5 @@ permalink: /dutchgov/rwsduurzamemobiliteit.nl.html
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://www.rwsduurzamemobiliteit.nl](https://www.rwsduurzamemobiliteit.nl)| | **85**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:-|Object moved|
-|[https://rwsduurzamemobiliteit.nl](https://rwsduurzamemobiliteit.nl)| | **85**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:-|Duurzame Mobilit...|
+|[https://www.rwsduurzamemobiliteit.nl](https://www.rwsduurzamemobiliteit.nl)| | **B**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:-|Object moved|
+|[https://rwsduurzamemobiliteit.nl](https://rwsduurzamemobiliteit.nl)| | **B**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:-|Duurzame Mobilit...|

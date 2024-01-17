@@ -1,15 +1,11 @@
----
-layout: dutchgov
-permalink: /dutchgov/verantwoordalcoholverkopen.nl.html
----
 
 
 # verantwoordalcoholverkopen.nl
 ## Summary data
 
 
-**SSL Grade**:0
-**HTTP Security Grade**:25
+**SSL Grade**:F
+**HTTP Security Grade**:F
 
 
 | File       | Count | Info |
@@ -24,5 +20,5 @@ permalink: /dutchgov/verantwoordalcoholverkopen.nl.html
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://www.verantwoordalcoholverkopen.nl](https://www.verantwoordalcoholverkopen.nl)| | **25**|nginx| | | | | | | | :white_check_mark: | |Nginx|301 Moved Perman...|
-|[https://verantwoordalcoholverkopen.nl](https://verantwoordalcoholverkopen.nl)| | **25**|nginx| | | | | | | | :white_check_mark: | |Bootstrap Nginx|Verantwoord alco...|
+|[https://www.verantwoordalcoholverkopen.nl](https://www.verantwoordalcoholverkopen.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|301 Moved Perman...|
+|[https://verantwoordalcoholverkopen.nl](https://verantwoordalcoholverkopen.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Bootstrap Nginx|Verantwoord alco...|

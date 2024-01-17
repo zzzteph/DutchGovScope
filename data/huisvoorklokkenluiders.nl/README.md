@@ -1,15 +1,11 @@
----
-layout: dutchgov
-permalink: /dutchgov/huisvoorklokkenluiders.nl.html
----
 
 
 # huisvoorklokkenluiders.nl
 ## Summary data
 
 
-**SSL Grade**:0
-**HTTP Security Grade**:63
+**SSL Grade**:F
+**HTTP Security Grade**:D
 
 
 | File       | Count | Info |
@@ -24,8 +20,8 @@ permalink: /dutchgov/huisvoorklokkenluiders.nl.html
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://autodiscover.huisvoorklokkenluiders.nl](https://autodiscover.huisvoorklokkenluiders.nl)| | **35**|Microsoft-IIS/10.0| | | | | | :white_check_mark: | | :white_check_mark: | |IIS:10.0 Windows Server||
-|[https://www.huisvoorklokkenluiders.nl](https://www.huisvoorklokkenluiders.nl)| | **75**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Home | Huisvoork...|
-|[https://feeds.huisvoorklokkenluiders.nl](https://feeds.huisvoorklokkenluiders.nl)| | **65**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
-|[https://opendata.huisvoorklokkenluiders.nl](https://opendata.huisvoorklokkenluiders.nl)| | **65**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
-|[https://huisvoorklokkenluiders.nl](https://huisvoorklokkenluiders.nl)| | **75**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
+|[https://autodiscover.huisvoorklokkenluiders.nl](https://autodiscover.huisvoorklokkenluiders.nl)| | **F**|Microsoft-IIS/10.0| | | | | | :white_check_mark: | | :white_check_mark: | |IIS:10.0 Windows Server||
+|[https://www.huisvoorklokkenluiders.nl](https://www.huisvoorklokkenluiders.nl)| | **C**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Home | Huisvoork...|
+|[https://feeds.huisvoorklokkenluiders.nl](https://feeds.huisvoorklokkenluiders.nl)| | **D**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
+|[https://opendata.huisvoorklokkenluiders.nl](https://opendata.huisvoorklokkenluiders.nl)| | **D**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
+|[https://huisvoorklokkenluiders.nl](https://huisvoorklokkenluiders.nl)| | **C**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|

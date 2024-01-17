@@ -1,15 +1,11 @@
----
-layout: dutchgov
-permalink: /dutchgov/a6zonlelystaddronten.nl.html
----
 
 
 # a6zonlelystaddronten.nl
 ## Summary data
 
 
-**SSL Grade**:0
-**HTTP Security Grade**:30
+**SSL Grade**:F
+**HTTP Security Grade**:F
 
 
 | File       | Count | Info |
@@ -24,5 +20,5 @@ permalink: /dutchgov/a6zonlelystaddronten.nl.html
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://www.a6zonlelystaddronten.nl](https://www.a6zonlelystaddronten.nl)| | **30**|| | | | | | | | :white_check_mark: | ||Document Moved|
-|[https://a6zonlelystaddronten.nl](https://a6zonlelystaddronten.nl)| | **30**|| | | | | | | | :white_check_mark: | ||Document Moved|
+|[https://www.a6zonlelystaddronten.nl](https://www.a6zonlelystaddronten.nl)| | **F**|| | | | | | | | :white_check_mark: | ||Document Moved|
+|[https://a6zonlelystaddronten.nl](https://a6zonlelystaddronten.nl)| | **F**|| | | | | | | | :white_check_mark: | ||Document Moved|

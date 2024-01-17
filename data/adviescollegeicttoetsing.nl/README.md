@@ -1,15 +1,11 @@
----
-layout: dutchgov
-permalink: /dutchgov/adviescollegeicttoetsing.nl.html
----
 
 
 # adviescollegeicttoetsing.nl
 ## Summary data
 
 
-**SSL Grade**:100
-**HTTP Security Grade**:70
+**SSL Grade**:A+
+**HTTP Security Grade**:C
 
 
 | File       | Count | Info |
@@ -24,7 +20,7 @@ permalink: /dutchgov/adviescollegeicttoetsing.nl.html
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://feeds.adviescollegeicttoetsing.nl](https://feeds.adviescollegeicttoetsing.nl)| **A+**| **65**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
-|[https://opendata.adviescollegeicttoetsing.nl](https://opendata.adviescollegeicttoetsing.nl)| **A+**| **65**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
-|[https://www.adviescollegeicttoetsing.nl](https://www.adviescollegeicttoetsing.nl)| **A+**| **75**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Home | Adviescol...|
-|[https://adviescollegeicttoetsing.nl](https://adviescollegeicttoetsing.nl)| **A+**| **75**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
+|[https://feeds.adviescollegeicttoetsing.nl](https://feeds.adviescollegeicttoetsing.nl)| **A+**| **D**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
+|[https://opendata.adviescollegeicttoetsing.nl](https://opendata.adviescollegeicttoetsing.nl)| **A+**| **D**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
+|[https://www.adviescollegeicttoetsing.nl](https://www.adviescollegeicttoetsing.nl)| **A+**| **C**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Home | Adviescol...|
+|[https://adviescollegeicttoetsing.nl](https://adviescollegeicttoetsing.nl)| **A+**| **C**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|

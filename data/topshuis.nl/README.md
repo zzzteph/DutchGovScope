@@ -1,15 +1,11 @@
----
-layout: dutchgov
-permalink: /dutchgov/topshuis.nl.html
----
 
 
 # topshuis.nl
 ## Summary data
 
 
-**SSL Grade**:0
-**HTTP Security Grade**:25
+**SSL Grade**:F
+**HTTP Security Grade**:F
 
 
 | File       | Count | Info |
@@ -24,6 +20,6 @@ permalink: /dutchgov/topshuis.nl.html
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://acceptatie.topshuis.nl](https://acceptatie.topshuis.nl)| | **25**|nginx| | | | | | | | :white_check_mark: | |Nginx|Topshuis | Meeti...|
-|[https://www.topshuis.nl](https://www.topshuis.nl)| | **25**|nginx| | | | | | | | :white_check_mark: | |Google Tag Manager MySQL Nginx PHP WordPress:6.4.2 Yoast SEO:21.8|Topshuis | Meeti...|
-|[https://topshuis.nl](https://topshuis.nl)| | **25**|nginx| | | | | | | | :white_check_mark: | |Nginx||
+|[https://acceptatie.topshuis.nl](https://acceptatie.topshuis.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|Topshuis | Meeti...|
+|[https://www.topshuis.nl](https://www.topshuis.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Google Tag Manager MySQL Nginx PHP WordPress:6.4.2 Yoast SEO:21.8|Topshuis | Meeti...|
+|[https://topshuis.nl](https://topshuis.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx||

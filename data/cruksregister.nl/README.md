@@ -1,15 +1,11 @@
----
-layout: dutchgov
-permalink: /dutchgov/cruksregister.nl.html
----
 
 
 # cruksregister.nl
 ## Summary data
 
 
-**SSL Grade**:0
-**HTTP Security Grade**:73.75
+**SSL Grade**:F
+**HTTP Security Grade**:C
 
 
 | File       | Count | Info |
@@ -24,7 +20,7 @@ permalink: /dutchgov/cruksregister.nl.html
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://www.cruksregister.nl](https://www.cruksregister.nl)| | **80**|cloudflare| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Cloudflare HSTS||
-|[https://cruksregister.nl](https://cruksregister.nl)| | **80**|cloudflare| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bootstrap:1 Cloudflare HSTS|Centraal Registe...|
-|[https://test.cruksregister.nl](https://test.cruksregister.nl)| | **80**|cloudflare| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bootstrap:1 Cloudflare HSTS|Centraal Registe...|
-|[https://acc.cruksregister.nl](https://acc.cruksregister.nl)| | **55**|cloudflare| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Cloudflare HSTS|Attention Requir...|
+|[https://www.cruksregister.nl](https://www.cruksregister.nl)| | **B**|cloudflare| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Cloudflare HSTS||
+|[https://cruksregister.nl](https://cruksregister.nl)| | **B**|cloudflare| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bootstrap:1 Cloudflare HSTS|Centraal Registe...|
+|[https://test.cruksregister.nl](https://test.cruksregister.nl)| | **B**|cloudflare| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bootstrap:1 Cloudflare HSTS|Centraal Registe...|
+|[https://acc.cruksregister.nl](https://acc.cruksregister.nl)| | **E**|cloudflare| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Cloudflare HSTS|Attention Requir...|

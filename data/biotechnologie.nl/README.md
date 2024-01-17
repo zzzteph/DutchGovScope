@@ -1,15 +1,11 @@
----
-layout: dutchgov
-permalink: /dutchgov/biotechnologie.nl.html
----
 
 
 # biotechnologie.nl
 ## Summary data
 
 
-**SSL Grade**:0
-**HTTP Security Grade**:75
+**SSL Grade**:F
+**HTTP Security Grade**:C
 
 
 | File       | Count | Info |
@@ -24,5 +20,5 @@ permalink: /dutchgov/biotechnologie.nl.html
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://biotechnologie.nl](https://biotechnologie.nl)| | **75**|cloudflare| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Cloudflare HSTS HTTP/3|301 Moved Perman...|
-|[https://www.biotechnologie.nl](https://www.biotechnologie.nl)| | **75**|cloudflare| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Cloudflare Google Tag Manager HSTS HTTP/3 MySQL PHP WordPress Yoast SEO:21.8|Home - Biotechno...|
+|[https://biotechnologie.nl](https://biotechnologie.nl)| | **C**|cloudflare| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Cloudflare HSTS HTTP/3|301 Moved Perman...|
+|[https://www.biotechnologie.nl](https://www.biotechnologie.nl)| | **C**|cloudflare| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Cloudflare Google Tag Manager HSTS HTTP/3 MySQL PHP WordPress Yoast SEO:21.8|Home - Biotechno...|

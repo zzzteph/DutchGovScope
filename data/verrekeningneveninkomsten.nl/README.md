@@ -1,15 +1,11 @@
----
-layout: dutchgov
-permalink: /dutchgov/verrekeningneveninkomsten.nl.html
----
 
 
 # verrekeningneveninkomsten.nl
 ## Summary data
 
 
-**SSL Grade**:0
-**HTTP Security Grade**:69
+**SSL Grade**:F
+**HTTP Security Grade**:D
 
 
 | File       | Count | Info |
@@ -24,5 +20,5 @@ permalink: /dutchgov/verrekeningneveninkomsten.nl.html
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://www.verrekeningneveninkomsten.nl](https://www.verrekeningneveninkomsten.nl)| | **69**|Apache|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server Drupal HSTS PHP||
-|[https://verrekeningneveninkomsten.nl](https://verrekeningneveninkomsten.nl)| | **69**|Apache|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server Drupal HSTS PHP||
+|[https://www.verrekeningneveninkomsten.nl](https://www.verrekeningneveninkomsten.nl)| | **D**|Apache|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server Drupal HSTS PHP||
+|[https://verrekeningneveninkomsten.nl](https://verrekeningneveninkomsten.nl)| | **D**|Apache|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server Drupal HSTS PHP||

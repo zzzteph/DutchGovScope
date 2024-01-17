@@ -1,15 +1,11 @@
----
-layout: dutchgov
-permalink: /dutchgov/nldesignsystem.nl.html
----
 
 
 # nldesignsystem.nl
 ## Summary data
 
 
-**SSL Grade**:0
-**HTTP Security Grade**:45
+**SSL Grade**:F
+**HTTP Security Grade**:F
 
 
 | File       | Count | Info |
@@ -24,6 +20,6 @@ permalink: /dutchgov/nldesignsystem.nl.html
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://storybook.nldesignsystem.nl](https://storybook.nldesignsystem.nl)| | **45**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Nginx Plesk|Storybook - NL D...|
-|[https://www.nldesignsystem.nl](https://www.nldesignsystem.nl)| | **45**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |Docusaurus:3.1.0 HSTS Nginx Plesk React Webpack|NL Design System...|
-|[https://nldesignsystem.nl](https://nldesignsystem.nl)| | **45**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |Docusaurus:3.1.0 HSTS Nginx Plesk React Webpack|NL Design System...|
+|[https://storybook.nldesignsystem.nl](https://storybook.nldesignsystem.nl)| | **F**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Nginx Plesk|Storybook - NL D...|
+|[https://www.nldesignsystem.nl](https://www.nldesignsystem.nl)| | **F**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |Docusaurus:3.1.0 HSTS Nginx Plesk React Webpack|NL Design System...|
+|[https://nldesignsystem.nl](https://nldesignsystem.nl)| | **F**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |Docusaurus:3.1.0 HSTS Nginx Plesk React Webpack|NL Design System...|

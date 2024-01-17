@@ -1,15 +1,11 @@
----
-layout: dutchgov
-permalink: /dutchgov/kcwj.nl.html
----
 
 
 # kcwj.nl
 ## Summary data
 
 
-**SSL Grade**:0
-**HTTP Security Grade**:92
+**SSL Grade**:F
+**HTTP Security Grade**:A
 
 
 | File       | Count | Info |
@@ -24,5 +20,5 @@ permalink: /dutchgov/kcwj.nl.html
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://www.kcwj.nl](https://www.kcwj.nl)| | **92**||:warning: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|302 Found|
-|[https://kcwj.nl](https://kcwj.nl)| | **92**||:warning: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|302 Found|
+|[https://www.kcwj.nl](https://www.kcwj.nl)| | **A**||:warning: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|302 Found|
+|[https://kcwj.nl](https://kcwj.nl)| | **A**||:warning: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|302 Found|

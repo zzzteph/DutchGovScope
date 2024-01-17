@@ -1,15 +1,11 @@
----
-layout: dutchgov
-permalink: /dutchgov/samenmetenaanluchtkwaliteit.nl.html
----
 
 
 # samenmetenaanluchtkwaliteit.nl
 ## Summary data
 
 
-**SSL Grade**:0
-**HTTP Security Grade**:70
+**SSL Grade**:F
+**HTTP Security Grade**:C
 
 
 | File       | Count | Info |
@@ -24,7 +20,7 @@ permalink: /dutchgov/samenmetenaanluchtkwaliteit.nl.html
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://acceptatie.samenmetenaanluchtkwaliteit.nl](https://acceptatie.samenmetenaanluchtkwaliteit.nl)| | **70**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |||
-|[https://test.samenmetenaanluchtkwaliteit.nl](https://test.samenmetenaanluchtkwaliteit.nl)| | **70**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |||
-|[https://www.samenmetenaanluchtkwaliteit.nl](https://www.samenmetenaanluchtkwaliteit.nl)| | **70**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |||
-|[https://samenmetenaanluchtkwaliteit.nl](https://samenmetenaanluchtkwaliteit.nl)| | **70**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |||
+|[https://acceptatie.samenmetenaanluchtkwaliteit.nl](https://acceptatie.samenmetenaanluchtkwaliteit.nl)| | **C**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |||
+|[https://test.samenmetenaanluchtkwaliteit.nl](https://test.samenmetenaanluchtkwaliteit.nl)| | **C**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |||
+|[https://www.samenmetenaanluchtkwaliteit.nl](https://www.samenmetenaanluchtkwaliteit.nl)| | **C**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |||
+|[https://samenmetenaanluchtkwaliteit.nl](https://samenmetenaanluchtkwaliteit.nl)| | **C**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |||

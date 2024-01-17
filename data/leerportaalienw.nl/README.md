@@ -1,15 +1,11 @@
----
-layout: dutchgov
-permalink: /dutchgov/leerportaalienw.nl.html
----
 
 
 # leerportaalienw.nl
 ## Summary data
 
 
-**SSL Grade**:0
-**HTTP Security Grade**:61.25
+**SSL Grade**:F
+**HTTP Security Grade**:D
 
 
 | File       | Count | Info |
@@ -24,7 +20,7 @@ permalink: /dutchgov/leerportaalienw.nl.html
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://leeromgeving.leerportaalienw.nl](https://leeromgeving.leerportaalienw.nl)| | **52**|Apache|:warning: |:white_check_mark: | | | | | | :white_check_mark: | |Apache HTTP Server HSTS Moodle PHP|Startpagina | Le...|
-|[https://lms.leerportaalienw.nl](https://lms.leerportaalienw.nl)| | **89**|Class|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Access is denied...|
-|[https://www.leerportaalienw.nl](https://www.leerportaalienw.nl)| | **79**|Class|:white_check_mark: |:white_check_mark: | | |:warning: | | :white_check_mark: | :white_check_mark: | |HSTS||
-|[https://leerportaalienw.nl](https://leerportaalienw.nl)| | **25**|Microsoft-Azure-Application-Gateway/v2| | | | | | | | :white_check_mark: | |HSTS|502 Bad Gateway|
+|[https://leeromgeving.leerportaalienw.nl](https://leeromgeving.leerportaalienw.nl)| | **E**|Apache|:warning: |:white_check_mark: | | | | | | :white_check_mark: | |Apache HTTP Server HSTS Moodle PHP|Startpagina | Le...|
+|[https://lms.leerportaalienw.nl](https://lms.leerportaalienw.nl)| | **B**|Class|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Access is denied...|
+|[https://www.leerportaalienw.nl](https://www.leerportaalienw.nl)| | **C**|Class|:white_check_mark: |:white_check_mark: | | |:warning: | | :white_check_mark: | :white_check_mark: | |HSTS||
+|[https://leerportaalienw.nl](https://leerportaalienw.nl)| | **F**|Microsoft-Azure-Application-Gateway/v2| | | | | | | | :white_check_mark: | |HSTS|502 Bad Gateway|

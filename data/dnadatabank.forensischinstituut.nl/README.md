@@ -1,15 +1,11 @@
----
-layout: dutchgov
-permalink: /dutchgov/dnadatabank.forensischinstituut.nl.html
----
 
 
 # dnadatabank.forensischinstituut.nl
 ## Summary data
 
 
-**SSL Grade**:100
-**HTTP Security Grade**:68.333333333333
+**SSL Grade**:A+
+**HTTP Security Grade**:D
 
 
 | File       | Count | Info |
@@ -24,6 +20,6 @@ permalink: /dutchgov/dnadatabank.forensischinstituut.nl.html
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://dnadatabank.forensischinstituut.nl](https://dnadatabank.forensischinstituut.nl)| **A+**| **75**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Home | Nederland...|
-|[https://feeds.dnadatabank.forensischinstituut.nl](https://feeds.dnadatabank.forensischinstituut.nl)| **A+**| **65**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
-|[https://opendata.dnadatabank.forensischinstituut.nl](https://opendata.dnadatabank.forensischinstituut.nl)| **A+**| **65**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
+|[https://dnadatabank.forensischinstituut.nl](https://dnadatabank.forensischinstituut.nl)| **A+**| **C**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Home | Nederland...|
+|[https://feeds.dnadatabank.forensischinstituut.nl](https://feeds.dnadatabank.forensischinstituut.nl)| **A+**| **D**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
+|[https://opendata.dnadatabank.forensischinstituut.nl](https://opendata.dnadatabank.forensischinstituut.nl)| **A+**| **D**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||

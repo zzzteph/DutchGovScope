@@ -1,15 +1,11 @@
----
-layout: dutchgov
-permalink: /dutchgov/monitorlandschap.nl.html
----
 
 
 # monitorlandschap.nl
 ## Summary data
 
 
-**SSL Grade**:0
-**HTTP Security Grade**:65
+**SSL Grade**:F
+**HTTP Security Grade**:D
 
 
 | File       | Count | Info |
@@ -24,4 +20,4 @@ permalink: /dutchgov/monitorlandschap.nl.html
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://www.monitorlandschap.nl](https://www.monitorlandschap.nl)| | **65**|| |:white_check_mark: | | | :white_check_mark:| | | :white_check_mark: | |HSTS|Monitor Landscha...|
+|[https://www.monitorlandschap.nl](https://www.monitorlandschap.nl)| | **D**|| |:white_check_mark: | | | :white_check_mark:| | | :white_check_mark: | |HSTS|Monitor Landscha...|

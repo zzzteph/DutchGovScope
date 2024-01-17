@@ -1,15 +1,11 @@
----
-layout: dutchgov
-permalink: /dutchgov/inspectielandschap.nl.html
----
 
 
 # inspectielandschap.nl
 ## Summary data
 
 
-**SSL Grade**:0
-**HTTP Security Grade**:25
+**SSL Grade**:F
+**HTTP Security Grade**:F
 
 
 | File       | Count | Info |
@@ -24,4 +20,4 @@ permalink: /dutchgov/inspectielandschap.nl.html
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://inspectielandschap.nl](https://inspectielandschap.nl)| | **25**|AmazonS3| | | | | | | | :white_check_mark: | |Amazon CloudFront Amazon S3 Amazon Web Services||
+|[https://inspectielandschap.nl](https://inspectielandschap.nl)| | **F**|AmazonS3| | | | | | | | :white_check_mark: | |Amazon CloudFront Amazon S3 Amazon Web Services||

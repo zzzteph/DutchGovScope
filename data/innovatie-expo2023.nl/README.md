@@ -1,15 +1,11 @@
----
-layout: dutchgov
-permalink: /dutchgov/innovatie-expo2023.nl.html
----
 
 
 # innovatie-expo2023.nl
 ## Summary data
 
 
-**SSL Grade**:0
-**HTTP Security Grade**:80
+**SSL Grade**:F
+**HTTP Security Grade**:B
 
 
 | File       | Count | Info |
@@ -24,4 +20,4 @@ permalink: /dutchgov/innovatie-expo2023.nl.html
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://www.innovatie-expo2023.nl](https://www.innovatie-expo2023.nl)| | **80**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS PHP||
+|[https://www.innovatie-expo2023.nl](https://www.innovatie-expo2023.nl)| | **B**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS PHP||

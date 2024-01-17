@@ -1,15 +1,11 @@
----
-layout: dutchgov
-permalink: /dutchgov/sds-check.nl.html
----
 
 
 # sds-check.nl
 ## Summary data
 
 
-**SSL Grade**:0
-**HTTP Security Grade**:25
+**SSL Grade**:F
+**HTTP Security Grade**:F
 
 
 | File       | Count | Info |
@@ -24,5 +20,5 @@ permalink: /dutchgov/sds-check.nl.html
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://www.sds-check.nl](https://www.sds-check.nl)| | **25**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|301 Moved Perman...|
-|[https://sds-check.nl](https://sds-check.nl)| | **25**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|301 Moved Perman...|
+|[https://www.sds-check.nl](https://www.sds-check.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|301 Moved Perman...|
+|[https://sds-check.nl](https://sds-check.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|301 Moved Perman...|

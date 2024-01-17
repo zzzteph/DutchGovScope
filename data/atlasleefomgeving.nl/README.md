@@ -1,15 +1,11 @@
----
-layout: dutchgov
-permalink: /dutchgov/atlasleefomgeving.nl.html
----
 
 
 # atlasleefomgeving.nl
 ## Summary data
 
 
-**SSL Grade**:0
-**HTTP Security Grade**:46
+**SSL Grade**:F
+**HTTP Security Grade**:F
 
 
 | File       | Count | Info |
@@ -24,8 +20,8 @@ permalink: /dutchgov/atlasleefomgeving.nl.html
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
-|[http://acceptatie.atlasleefomgeving.nl](http://acceptatie.atlasleefomgeving.nl)| | **30**|| | | | | | | | :white_check_mark: | |||
-|[https://prd.atlasleefomgeving.nl](https://prd.atlasleefomgeving.nl)| | **25**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|webserver|
-|[https://rivm.atlasleefomgeving.nl](https://rivm.atlasleefomgeving.nl)| | **25**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS||
-|[https://www.atlasleefomgeving.nl](https://www.atlasleefomgeving.nl)| | **75**|Apache| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Apache HTTP Server Drupal HSTS PHP|Atlas Leefomgevi...|
-|[https://atlasleefomgeving.nl](https://atlasleefomgeving.nl)| | **75**|Apache| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Apache HTTP Server HSTS|301 Moved Perman...|
+|[http://acceptatie.atlasleefomgeving.nl](http://acceptatie.atlasleefomgeving.nl)| | **F**|| | | | | | | | :white_check_mark: | |||
+|[https://prd.atlasleefomgeving.nl](https://prd.atlasleefomgeving.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|webserver|
+|[https://rivm.atlasleefomgeving.nl](https://rivm.atlasleefomgeving.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS||
+|[https://www.atlasleefomgeving.nl](https://www.atlasleefomgeving.nl)| | **C**|Apache| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Apache HTTP Server Drupal HSTS PHP|Atlas Leefomgevi...|
+|[https://atlasleefomgeving.nl](https://atlasleefomgeving.nl)| | **C**|Apache| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Apache HTTP Server HSTS|301 Moved Perman...|

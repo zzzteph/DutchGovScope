@@ -1,15 +1,11 @@
----
-layout: dutchgov
-permalink: /dutchgov/gipinfo.nl.html
----
 
 
 # gipinfo.nl
 ## Summary data
 
 
-**SSL Grade**:100
-**HTTP Security Grade**:92
+**SSL Grade**:A+
+**HTTP Security Grade**:A
 
 
 | File       | Count | Info |
@@ -24,5 +20,5 @@ permalink: /dutchgov/gipinfo.nl.html
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://www.gipinfo.nl](https://www.gipinfo.nl)| **A+**| **99**||:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
-|[https://gipinfo.nl](https://gipinfo.nl)| **A+**| **85**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
+|[https://www.gipinfo.nl](https://www.gipinfo.nl)| **A+**| **A**||:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
+|[https://gipinfo.nl](https://gipinfo.nl)| **A+**| **B**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||

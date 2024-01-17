@@ -1,15 +1,11 @@
----
-layout: dutchgov
-permalink: /dutchgov/staatvandeuitvoering.nl.html
----
 
 
 # staatvandeuitvoering.nl
 ## Summary data
 
 
-**SSL Grade**:0
-**HTTP Security Grade**:82.5
+**SSL Grade**:F
+**HTTP Security Grade**:B
 
 
 | File       | Count | Info |
@@ -24,5 +20,5 @@ permalink: /dutchgov/staatvandeuitvoering.nl.html
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://www.staatvandeuitvoering.nl](https://www.staatvandeuitvoering.nl)| | **80**|nginx| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
-|[https://staatvandeuitvoering.nl](https://staatvandeuitvoering.nl)| | **85**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Gravity Forms HSTS MySQL PHP WordPress Yoast SEO:21.7|De Staat van de...|
+|[https://www.staatvandeuitvoering.nl](https://www.staatvandeuitvoering.nl)| | **B**|nginx| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
+|[https://staatvandeuitvoering.nl](https://staatvandeuitvoering.nl)| | **B**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Gravity Forms HSTS MySQL PHP WordPress Yoast SEO:21.7|De Staat van de...|

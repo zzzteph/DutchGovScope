@@ -1,15 +1,11 @@
----
-layout: dutchgov
-permalink: /dutchgov/noraonline.nl.html
----
 
 
 # noraonline.nl
 ## Summary data
 
 
-**SSL Grade**:0
-**HTTP Security Grade**:52.25
+**SSL Grade**:F
+**HTTP Security Grade**:E
 
 
 | File       | Count | Info |
@@ -24,7 +20,7 @@ permalink: /dutchgov/noraonline.nl.html
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://www.noraonline.nl](https://www.noraonline.nl)| | **55**|Apache| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS||
-|[https://data.noraonline.nl](https://data.noraonline.nl)| | **69**|Apache|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS|NORAOnline | SPA...|
-|[https://sparql.noraonline.nl](https://sparql.noraonline.nl)| | **30**|| | | | | | | | :white_check_mark: | |||
-|[https://noraonline.nl](https://noraonline.nl)| | **55**|Apache| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS|301 Moved Perman...|
+|[https://www.noraonline.nl](https://www.noraonline.nl)| | **E**|Apache| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS||
+|[https://data.noraonline.nl](https://data.noraonline.nl)| | **D**|Apache|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS|NORAOnline | SPA...|
+|[https://sparql.noraonline.nl](https://sparql.noraonline.nl)| | **F**|| | | | | | | | :white_check_mark: | |||
+|[https://noraonline.nl](https://noraonline.nl)| | **E**|Apache| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS|301 Moved Perman...|

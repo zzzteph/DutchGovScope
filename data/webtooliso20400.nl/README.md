@@ -1,15 +1,11 @@
----
-layout: dutchgov
-permalink: /dutchgov/webtooliso20400.nl.html
----
 
 
 # webtooliso20400.nl
 ## Summary data
 
 
-**SSL Grade**:0
-**HTTP Security Grade**:89
+**SSL Grade**:F
+**HTTP Security Grade**:B
 
 
 | File       | Count | Info |
@@ -24,6 +20,6 @@ permalink: /dutchgov/webtooliso20400.nl.html
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://webtooliso20400.nl](https://webtooliso20400.nl)| | **89**|nginx|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
-|[https://www.webtooliso20400.nl](https://www.webtooliso20400.nl)| | **89**|nginx|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx PHP ZURB Foundation|Webtool ISO 2040...|
-|[https://acc.webtooliso20400.nl](https://acc.webtooliso20400.nl)| | **89**|nginx|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx PHP ZURB Foundation|Webtool ISO 2040...|
+|[https://webtooliso20400.nl](https://webtooliso20400.nl)| | **B**|nginx|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
+|[https://www.webtooliso20400.nl](https://www.webtooliso20400.nl)| | **B**|nginx|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx PHP ZURB Foundation|Webtool ISO 2040...|
+|[https://acc.webtooliso20400.nl](https://acc.webtooliso20400.nl)| | **B**|nginx|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx PHP ZURB Foundation|Webtool ISO 2040...|

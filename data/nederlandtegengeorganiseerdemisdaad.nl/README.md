@@ -1,15 +1,11 @@
----
-layout: dutchgov
-permalink: /dutchgov/nederlandtegengeorganiseerdemisdaad.nl.html
----
 
 
 # nederlandtegengeorganiseerdemisdaad.nl
 ## Summary data
 
 
-**SSL Grade**:0
-**HTTP Security Grade**:70
+**SSL Grade**:F
+**HTTP Security Grade**:C
 
 
 | File       | Count | Info |
@@ -24,7 +20,7 @@ permalink: /dutchgov/nederlandtegengeorganiseerdemisdaad.nl.html
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://www.nederlandtegengeorganiseerdemisdaad.nl](https://www.nederlandtegengeorganiseerdemisdaad.nl)| | **75**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Home | Nederland...|
-|[https://feeds.nederlandtegengeorganiseerdemisdaad.nl](https://feeds.nederlandtegengeorganiseerdemisdaad.nl)| | **65**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
-|[https://opendata.nederlandtegengeorganiseerdemisdaad.nl](https://opendata.nederlandtegengeorganiseerdemisdaad.nl)| | **65**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
-|[https://nederlandtegengeorganiseerdemisdaad.nl](https://nederlandtegengeorganiseerdemisdaad.nl)| | **75**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
+|[https://www.nederlandtegengeorganiseerdemisdaad.nl](https://www.nederlandtegengeorganiseerdemisdaad.nl)| | **C**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Home | Nederland...|
+|[https://feeds.nederlandtegengeorganiseerdemisdaad.nl](https://feeds.nederlandtegengeorganiseerdemisdaad.nl)| | **D**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
+|[https://opendata.nederlandtegengeorganiseerdemisdaad.nl](https://opendata.nederlandtegengeorganiseerdemisdaad.nl)| | **D**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
+|[https://nederlandtegengeorganiseerdemisdaad.nl](https://nederlandtegengeorganiseerdemisdaad.nl)| | **C**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|

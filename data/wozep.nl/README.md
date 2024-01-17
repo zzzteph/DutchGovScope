@@ -1,15 +1,11 @@
----
-layout: dutchgov
-permalink: /dutchgov/wozep.nl.html
----
 
 
 # wozep.nl
 ## Summary data
 
 
-**SSL Grade**:0
-**HTTP Security Grade**:55
+**SSL Grade**:F
+**HTTP Security Grade**:E
 
 
 | File       | Count | Info |
@@ -24,5 +20,5 @@ permalink: /dutchgov/wozep.nl.html
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://www.wozep.nl](https://www.wozep.nl)| | **45**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Nginx|Bad Request (400...|
-|[https://wozep.nl](https://wozep.nl)| | **65**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
+|[https://www.wozep.nl](https://www.wozep.nl)| | **F**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Nginx|Bad Request (400...|
+|[https://wozep.nl](https://wozep.nl)| | **D**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||

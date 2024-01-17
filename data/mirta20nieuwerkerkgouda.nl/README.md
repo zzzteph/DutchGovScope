@@ -1,15 +1,11 @@
----
-layout: dutchgov
-permalink: /dutchgov/mirta20nieuwerkerkgouda.nl.html
----
 
 
 # mirta20nieuwerkerkgouda.nl
 ## Summary data
 
 
-**SSL Grade**:0
-**HTTP Security Grade**:70
+**SSL Grade**:F
+**HTTP Security Grade**:C
 
 
 | File       | Count | Info |
@@ -24,5 +20,5 @@ permalink: /dutchgov/mirta20nieuwerkerkgouda.nl.html
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://www.mirta20nieuwerkerkgouda.nl](https://www.mirta20nieuwerkerkgouda.nl)| | **70**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET|Object moved|
-|[https://mirta20nieuwerkerkgouda.nl](https://mirta20nieuwerkerkgouda.nl)| | **70**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET|Object moved|
+|[https://www.mirta20nieuwerkerkgouda.nl](https://www.mirta20nieuwerkerkgouda.nl)| | **C**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET|Object moved|
+|[https://mirta20nieuwerkerkgouda.nl](https://mirta20nieuwerkerkgouda.nl)| | **C**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET|Object moved|

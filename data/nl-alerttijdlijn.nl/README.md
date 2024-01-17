@@ -1,15 +1,11 @@
----
-layout: dutchgov
-permalink: /dutchgov/nl-alerttijdlijn.nl.html
----
 
 
 # nl-alerttijdlijn.nl
 ## Summary data
 
 
-**SSL Grade**:0
-**HTTP Security Grade**:55
+**SSL Grade**:F
+**HTTP Security Grade**:E
 
 
 | File       | Count | Info |
@@ -24,5 +20,5 @@ permalink: /dutchgov/nl-alerttijdlijn.nl.html
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://www.nl-alerttijdlijn.nl](https://www.nl-alerttijdlijn.nl)| | **55**|cloudflare| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Cloudflare HSTS HTTP/3 Next.js Node.js React Vercel Webpack|NL-Alert bestaat...|
-|[https://nl-alerttijdlijn.nl](https://nl-alerttijdlijn.nl)| | **55**|cloudflare| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Cloudflare HSTS HTTP/3 Next.js Node.js React Vercel Webpack|NL-Alert bestaat...|
+|[https://www.nl-alerttijdlijn.nl](https://www.nl-alerttijdlijn.nl)| | **E**|cloudflare| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Cloudflare HSTS HTTP/3 Next.js Node.js React Vercel Webpack|NL-Alert bestaat...|
+|[https://nl-alerttijdlijn.nl](https://nl-alerttijdlijn.nl)| | **E**|cloudflare| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Cloudflare HSTS HTTP/3 Next.js Node.js React Vercel Webpack|NL-Alert bestaat...|

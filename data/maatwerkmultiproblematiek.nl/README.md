@@ -1,15 +1,11 @@
----
-layout: dutchgov
-permalink: /dutchgov/maatwerkmultiproblematiek.nl.html
----
 
 
 # maatwerkmultiproblematiek.nl
 ## Summary data
 
 
-**SSL Grade**:0
-**HTTP Security Grade**:94
+**SSL Grade**:F
+**HTTP Security Grade**:A
 
 
 | File       | Count | Info |
@@ -24,5 +20,5 @@ permalink: /dutchgov/maatwerkmultiproblematiek.nl.html
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://maatwerkmultiproblematiek.nl](https://maatwerkmultiproblematiek.nl)| | **94**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
-|[https://www.maatwerkmultiproblematiek.nl](https://www.maatwerkmultiproblematiek.nl)| | **94**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
+|[https://maatwerkmultiproblematiek.nl](https://maatwerkmultiproblematiek.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
+|[https://www.maatwerkmultiproblematiek.nl](https://www.maatwerkmultiproblematiek.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||

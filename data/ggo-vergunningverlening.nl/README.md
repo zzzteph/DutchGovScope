@@ -1,15 +1,11 @@
----
-layout: dutchgov
-permalink: /dutchgov/ggo-vergunningverlening.nl.html
----
 
 
 # ggo-vergunningverlening.nl
 ## Summary data
 
 
-**SSL Grade**:0
-**HTTP Security Grade**:65
+**SSL Grade**:F
+**HTTP Security Grade**:D
 
 
 | File       | Count | Info |
@@ -24,5 +20,5 @@ permalink: /dutchgov/ggo-vergunningverlening.nl.html
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://www.ggo-vergunningverlening.nl](https://www.ggo-vergunningverlening.nl)| | **65**|Apache| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server Drupal HSTS PHP|GGO Vergunningve...|
-|[https://ggo-vergunningverlening.nl](https://ggo-vergunningverlening.nl)| | **65**|Apache| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS|301 Moved Perman...|
+|[https://www.ggo-vergunningverlening.nl](https://www.ggo-vergunningverlening.nl)| | **D**|Apache| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server Drupal HSTS PHP|GGO Vergunningve...|
+|[https://ggo-vergunningverlening.nl](https://ggo-vergunningverlening.nl)| | **D**|Apache| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS|301 Moved Perman...|

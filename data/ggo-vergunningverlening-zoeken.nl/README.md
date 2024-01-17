@@ -1,15 +1,11 @@
----
-layout: dutchgov
-permalink: /dutchgov/ggo-vergunningverlening-zoeken.nl.html
----
 
 
 # ggo-vergunningverlening-zoeken.nl
 ## Summary data
 
 
-**SSL Grade**:0
-**HTTP Security Grade**:44.666666666667
+**SSL Grade**:F
+**HTTP Security Grade**:F
 
 
 | File       | Count | Info |
@@ -24,6 +20,6 @@ permalink: /dutchgov/ggo-vergunningverlening-zoeken.nl.html
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
-|[http://acceptatie.ggo-vergunningverlening-zoeken.nl](http://acceptatie.ggo-vergunningverlening-zoeken.nl)| | **30**|| | | | | | | | :white_check_mark: | |||
-|[https://www.ggo-vergunningverlening-zoeken.nl](https://www.ggo-vergunningverlening-zoeken.nl)| | **52**|Microsoft-IIS/8.5|:warning: |:white_check_mark: | | | | | | :white_check_mark: | |HSTS IIS:8.5 Microsoft ASP.NET:4.0.30319 Windows Server|Grip web|
-|[https://ggo-vergunningverlening-zoeken.nl](https://ggo-vergunningverlening-zoeken.nl)| | **52**|Microsoft-IIS/8.5|:warning: |:white_check_mark: | | | | | | :white_check_mark: | |HSTS IIS:8.5 Microsoft ASP.NET:4.0.30319 Windows Server|Grip web|
+|[http://acceptatie.ggo-vergunningverlening-zoeken.nl](http://acceptatie.ggo-vergunningverlening-zoeken.nl)| | **F**|| | | | | | | | :white_check_mark: | |||
+|[https://www.ggo-vergunningverlening-zoeken.nl](https://www.ggo-vergunningverlening-zoeken.nl)| | **E**|Microsoft-IIS/8.5|:warning: |:white_check_mark: | | | | | | :white_check_mark: | |HSTS IIS:8.5 Microsoft ASP.NET:4.0.30319 Windows Server|Grip web|
+|[https://ggo-vergunningverlening-zoeken.nl](https://ggo-vergunningverlening-zoeken.nl)| | **E**|Microsoft-IIS/8.5|:warning: |:white_check_mark: | | | | | | :white_check_mark: | |HSTS IIS:8.5 Microsoft ASP.NET:4.0.30319 Windows Server|Grip web|

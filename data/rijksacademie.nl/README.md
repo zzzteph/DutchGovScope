@@ -1,15 +1,11 @@
----
-layout: dutchgov
-permalink: /dutchgov/rijksacademie.nl.html
----
 
 
 # rijksacademie.nl
 ## Summary data
 
 
-**SSL Grade**:0
-**HTTP Security Grade**:47.222222222222
+**SSL Grade**:F
+**HTTP Security Grade**:F
 
 
 | File       | Count | Info |
@@ -24,12 +20,12 @@ permalink: /dutchgov/rijksacademie.nl.html
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://advies.rijksacademie.nl](https://advies.rijksacademie.nl)| | **25**|nginx| | | | | | | | :white_check_mark: | |MySQL Nginx PHP WordPress:6.4.2|Leerlijnen WP|
-|[https://feeds.rijksacademie.nl](https://feeds.rijksacademie.nl)| | **65**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
-|[https://helpdesk.rijksacademie.nl](https://helpdesk.rijksacademie.nl)| | **25**|cloudflare| | | | | | | | :white_check_mark: | |Cloudflare|403 Forbidden|
-|[https://infoscherm.rijksacademie.nl](https://infoscherm.rijksacademie.nl)| | **25**|nginx| | | | | | | | :white_check_mark: | |Nginx|Web Server's Def...|
-|[https://leren.rijksacademie.nl](https://leren.rijksacademie.nl)| | **25**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|Landingspagina A...|
-|[https://nieuwsbrief.rijksacademie.nl](https://nieuwsbrief.rijksacademie.nl)| | **45**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Nginx||
-|[https://opendata.rijksacademie.nl](https://opendata.rijksacademie.nl)| | **65**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
-|[https://www.rijksacademie.nl](https://www.rijksacademie.nl)| | **75**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Home | Rijksacad...|
-|[https://rijksacademie.nl](https://rijksacademie.nl)| | **75**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
+|[https://advies.rijksacademie.nl](https://advies.rijksacademie.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |MySQL Nginx PHP WordPress:6.4.2|Leerlijnen WP|
+|[https://feeds.rijksacademie.nl](https://feeds.rijksacademie.nl)| | **D**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
+|[https://helpdesk.rijksacademie.nl](https://helpdesk.rijksacademie.nl)| | **F**|cloudflare| | | | | | | | :white_check_mark: | |Cloudflare|403 Forbidden|
+|[https://infoscherm.rijksacademie.nl](https://infoscherm.rijksacademie.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|Web Server's Def...|
+|[https://leren.rijksacademie.nl](https://leren.rijksacademie.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|Landingspagina A...|
+|[https://nieuwsbrief.rijksacademie.nl](https://nieuwsbrief.rijksacademie.nl)| | **F**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Nginx||
+|[https://opendata.rijksacademie.nl](https://opendata.rijksacademie.nl)| | **D**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
+|[https://www.rijksacademie.nl](https://www.rijksacademie.nl)| | **C**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Home | Rijksacad...|
+|[https://rijksacademie.nl](https://rijksacademie.nl)| | **C**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|

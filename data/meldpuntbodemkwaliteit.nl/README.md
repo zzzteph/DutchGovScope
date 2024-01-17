@@ -1,15 +1,11 @@
----
-layout: dutchgov
-permalink: /dutchgov/meldpuntbodemkwaliteit.nl.html
----
 
 
 # meldpuntbodemkwaliteit.nl
 ## Summary data
 
 
-**SSL Grade**:0
-**HTTP Security Grade**:84
+**SSL Grade**:F
+**HTTP Security Grade**:B
 
 
 | File       | Count | Info |
@@ -24,7 +20,7 @@ permalink: /dutchgov/meldpuntbodemkwaliteit.nl.html
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://acceptatie.meldpuntbodemkwaliteit.nl](https://acceptatie.meldpuntbodemkwaliteit.nl)| | **84**||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET|Redirecting...|
-|[https://test.meldpuntbodemkwaliteit.nl](https://test.meldpuntbodemkwaliteit.nl)| | **84**||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET|Redirecting...|
-|[https://www.meldpuntbodemkwaliteit.nl](https://www.meldpuntbodemkwaliteit.nl)| | **84**||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
-|[https://meldpuntbodemkwaliteit.nl](https://meldpuntbodemkwaliteit.nl)| | **84**||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET|Redirecting...|
+|[https://acceptatie.meldpuntbodemkwaliteit.nl](https://acceptatie.meldpuntbodemkwaliteit.nl)| | **B**||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET|Redirecting...|
+|[https://test.meldpuntbodemkwaliteit.nl](https://test.meldpuntbodemkwaliteit.nl)| | **B**||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET|Redirecting...|
+|[https://www.meldpuntbodemkwaliteit.nl](https://www.meldpuntbodemkwaliteit.nl)| | **B**||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
+|[https://meldpuntbodemkwaliteit.nl](https://meldpuntbodemkwaliteit.nl)| | **B**||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET|Redirecting...|

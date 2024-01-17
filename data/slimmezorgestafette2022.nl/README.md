@@ -1,15 +1,11 @@
----
-layout: dutchgov
-permalink: /dutchgov/slimmezorgestafette2022.nl.html
----
 
 
 # slimmezorgestafette2022.nl
 ## Summary data
 
 
-**SSL Grade**:0
-**HTTP Security Grade**:89
+**SSL Grade**:F
+**HTTP Security Grade**:B
 
 
 | File       | Count | Info |
@@ -24,5 +20,5 @@ permalink: /dutchgov/slimmezorgestafette2022.nl.html
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://www.slimmezorgestafette2022.nl](https://www.slimmezorgestafette2022.nl)| | **89**|Apache/2|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server:2 HSTS|301 Moved Perman...|
-|[https://slimmezorgestafette2022.nl](https://slimmezorgestafette2022.nl)| | **89**|Apache/2|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server:2 HSTS|301 Moved Perman...|
+|[https://www.slimmezorgestafette2022.nl](https://www.slimmezorgestafette2022.nl)| | **B**|Apache/2|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server:2 HSTS|301 Moved Perman...|
+|[https://slimmezorgestafette2022.nl](https://slimmezorgestafette2022.nl)| | **B**|Apache/2|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server:2 HSTS|301 Moved Perman...|

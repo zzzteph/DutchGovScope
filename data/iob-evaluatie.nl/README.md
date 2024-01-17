@@ -1,15 +1,11 @@
----
-layout: dutchgov
-permalink: /dutchgov/iob-evaluatie.nl.html
----
 
 
 # iob-evaluatie.nl
 ## Summary data
 
 
-**SSL Grade**:0
-**HTTP Security Grade**:69.285714285714
+**SSL Grade**:F
+**HTTP Security Grade**:D
 
 
 | File       | Count | Info |
@@ -24,10 +20,10 @@ permalink: /dutchgov/iob-evaluatie.nl.html
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://english.iob-evaluatie.nl](https://english.iob-evaluatie.nl)| | **75**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Home | Policy an...|
-|[https://feeds.iob-evaluatie.nl](https://feeds.iob-evaluatie.nl)| | **65**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
-|[https://feeds.english.iob-evaluatie.nl](https://feeds.english.iob-evaluatie.nl)| | **65**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
-|[https://opendata.iob-evaluatie.nl](https://opendata.iob-evaluatie.nl)| | **65**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
-|[https://opendata.english.iob-evaluatie.nl](https://opendata.english.iob-evaluatie.nl)| | **65**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
-|[https://www.iob-evaluatie.nl](https://www.iob-evaluatie.nl)| | **75**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Home | Directie...|
-|[https://iob-evaluatie.nl](https://iob-evaluatie.nl)| | **75**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
+|[https://english.iob-evaluatie.nl](https://english.iob-evaluatie.nl)| | **C**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Home | Policy an...|
+|[https://feeds.iob-evaluatie.nl](https://feeds.iob-evaluatie.nl)| | **D**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
+|[https://feeds.english.iob-evaluatie.nl](https://feeds.english.iob-evaluatie.nl)| | **D**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
+|[https://opendata.iob-evaluatie.nl](https://opendata.iob-evaluatie.nl)| | **D**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
+|[https://opendata.english.iob-evaluatie.nl](https://opendata.english.iob-evaluatie.nl)| | **D**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
+|[https://www.iob-evaluatie.nl](https://www.iob-evaluatie.nl)| | **C**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Home | Directie...|
+|[https://iob-evaluatie.nl](https://iob-evaluatie.nl)| | **C**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|

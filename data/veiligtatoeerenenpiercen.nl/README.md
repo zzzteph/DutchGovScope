@@ -1,15 +1,11 @@
----
-layout: dutchgov
-permalink: /dutchgov/veiligtatoeerenenpiercen.nl.html
----
 
 
 # veiligtatoeerenenpiercen.nl
 ## Summary data
 
 
-**SSL Grade**:0
-**HTTP Security Grade**:65
+**SSL Grade**:F
+**HTTP Security Grade**:D
 
 
 | File       | Count | Info |
@@ -24,5 +20,5 @@ permalink: /dutchgov/veiligtatoeerenenpiercen.nl.html
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://www.veiligtatoeerenenpiercen.nl](https://www.veiligtatoeerenenpiercen.nl)| | **65**|Apache| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server Drupal HSTS PHP|Veilig tatoeëren...|
-|[https://veiligtatoeerenenpiercen.nl](https://veiligtatoeerenenpiercen.nl)| | **65**|Apache| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS|301 Moved Perman...|
+|[https://www.veiligtatoeerenenpiercen.nl](https://www.veiligtatoeerenenpiercen.nl)| | **D**|Apache| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server Drupal HSTS PHP|Veilig tatoeëren...|
+|[https://veiligtatoeerenenpiercen.nl](https://veiligtatoeerenenpiercen.nl)| | **D**|Apache| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS|301 Moved Perman...|

@@ -1,15 +1,11 @@
----
-layout: dutchgov
-permalink: /dutchgov/svbkindernamen.nl.html
----
 
 
 # svbkindernamen.nl
 ## Summary data
 
 
-**SSL Grade**:0
-**HTTP Security Grade**:87
+**SSL Grade**:F
+**HTTP Security Grade**:B
 
 
 | File       | Count | Info |
@@ -24,5 +20,5 @@ permalink: /dutchgov/svbkindernamen.nl.html
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://www.svbkindernamen.nl](https://www.svbkindernamen.nl)| | **87**|BigIP|:warning: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |F5 BigIP HSTS||
-|[https://svbkindernamen.nl](https://svbkindernamen.nl)| | **87**|BigIP|:warning: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |F5 BigIP HSTS||
+|[https://www.svbkindernamen.nl](https://www.svbkindernamen.nl)| | **B**|BigIP|:warning: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |F5 BigIP HSTS||
+|[https://svbkindernamen.nl](https://svbkindernamen.nl)| | **B**|BigIP|:warning: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |F5 BigIP HSTS||

@@ -1,15 +1,11 @@
----
-layout: dutchgov
-permalink: /dutchgov/mirta67leenderheidezaarderheiken.nl.html
----
 
 
 # mirta67leenderheidezaarderheiken.nl
 ## Summary data
 
 
-**SSL Grade**:0
-**HTTP Security Grade**:30
+**SSL Grade**:F
+**HTTP Security Grade**:F
 
 
 | File       | Count | Info |
@@ -24,5 +20,5 @@ permalink: /dutchgov/mirta67leenderheidezaarderheiken.nl.html
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://www.mirta67leenderheidezaarderheiken.nl](https://www.mirta67leenderheidezaarderheiken.nl)| | **30**|| | | | | | | | :white_check_mark: | ||Document Moved|
-|[https://mirta67leenderheidezaarderheiken.nl](https://mirta67leenderheidezaarderheiken.nl)| | **30**|| | | | | | | | :white_check_mark: | ||Document Moved|
+|[https://www.mirta67leenderheidezaarderheiken.nl](https://www.mirta67leenderheidezaarderheiken.nl)| | **F**|| | | | | | | | :white_check_mark: | ||Document Moved|
+|[https://mirta67leenderheidezaarderheiken.nl](https://mirta67leenderheidezaarderheiken.nl)| | **F**|| | | | | | | | :white_check_mark: | ||Document Moved|

@@ -1,15 +1,11 @@
----
-layout: dutchgov
-permalink: /dutchgov/nlontwikkelingssamenwerking.nl.html
----
 
 
 # nlontwikkelingssamenwerking.nl
 ## Summary data
 
 
-**SSL Grade**:0
-**HTTP Security Grade**:41
+**SSL Grade**:F
+**HTTP Security Grade**:F
 
 
 | File       | Count | Info |
@@ -24,7 +20,7 @@ permalink: /dutchgov/nlontwikkelingssamenwerking.nl.html
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://acc.nlontwikkelingssamenwerking.nl](https://acc.nlontwikkelingssamenwerking.nl)| | **25**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|403 Forbidden|
-|[https://dev.nlontwikkelingssamenwerking.nl](https://dev.nlontwikkelingssamenwerking.nl)| | **25**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|403 Forbidden|
-|[https://tst.nlontwikkelingssamenwerking.nl](https://tst.nlontwikkelingssamenwerking.nl)| | **25**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|403 Forbidden|
-|[https://www.nlontwikkelingssamenwerking.nl](https://www.nlontwikkelingssamenwerking.nl)| | **89**|Apache|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS Java|Home - OS Portaa...|
+|[https://acc.nlontwikkelingssamenwerking.nl](https://acc.nlontwikkelingssamenwerking.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|403 Forbidden|
+|[https://dev.nlontwikkelingssamenwerking.nl](https://dev.nlontwikkelingssamenwerking.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|403 Forbidden|
+|[https://tst.nlontwikkelingssamenwerking.nl](https://tst.nlontwikkelingssamenwerking.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|403 Forbidden|
+|[https://www.nlontwikkelingssamenwerking.nl](https://www.nlontwikkelingssamenwerking.nl)| | **B**|Apache|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS Java|Home - OS Portaa...|

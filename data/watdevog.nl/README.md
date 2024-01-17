@@ -1,15 +1,11 @@
----
-layout: dutchgov
-permalink: /dutchgov/watdevog.nl.html
----
 
 
 # watdevog.nl
 ## Summary data
 
 
-**SSL Grade**:0
-**HTTP Security Grade**:30
+**SSL Grade**:F
+**HTTP Security Grade**:F
 
 
 | File       | Count | Info |
@@ -24,5 +20,5 @@ permalink: /dutchgov/watdevog.nl.html
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://www.watdevog.nl](https://www.watdevog.nl)| | **30**|| | | | | | | | :white_check_mark: | |HSTS||
-|[https://watdevog.nl](https://watdevog.nl)| | **30**|| | | | | | | | :white_check_mark: | |HSTS||
+|[https://www.watdevog.nl](https://www.watdevog.nl)| | **F**|| | | | | | | | :white_check_mark: | |HSTS||
+|[https://watdevog.nl](https://watdevog.nl)| | **F**|| | | | | | | | :white_check_mark: | |HSTS||

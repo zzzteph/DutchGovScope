@@ -1,15 +1,11 @@
----
-layout: dutchgov
-permalink: /dutchgov/e-cert.nl.html
----
 
 
 # e-cert.nl
 ## Summary data
 
 
-**SSL Grade**:0
-**HTTP Security Grade**:64
+**SSL Grade**:F
+**HTTP Security Grade**:D
 
 
 | File       | Count | Info |
@@ -24,6 +20,6 @@ permalink: /dutchgov/e-cert.nl.html
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://staging.e-cert.nl](https://staging.e-cert.nl)| | **62**|Prometheus|:warning: |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | |HSTS||
-|[https://www.e-cert.nl](https://www.e-cert.nl)| | **65**|Prometheus| |:white_check_mark: | | |:warning: | | :white_check_mark: | :white_check_mark: | |HSTS|301 Moved Perman...|
-|[https://e-cert.nl](https://e-cert.nl)| | **65**|Prometheus| |:white_check_mark: | | |:warning: | | :white_check_mark: | :white_check_mark: | |HSTS MySQL PHP Redis Redis Object Cache WPML:4.6.8 WordPress|Home | e-CertNL|
+|[https://staging.e-cert.nl](https://staging.e-cert.nl)| | **D**|Prometheus|:warning: |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | |HSTS||
+|[https://www.e-cert.nl](https://www.e-cert.nl)| | **D**|Prometheus| |:white_check_mark: | | |:warning: | | :white_check_mark: | :white_check_mark: | |HSTS|301 Moved Perman...|
+|[https://e-cert.nl](https://e-cert.nl)| | **D**|Prometheus| |:white_check_mark: | | |:warning: | | :white_check_mark: | :white_check_mark: | |HSTS MySQL PHP Redis Redis Object Cache WPML:4.6.8 WordPress|Home | e-CertNL|

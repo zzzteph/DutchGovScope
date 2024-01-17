@@ -1,15 +1,11 @@
----
-layout: dutchgov
-permalink: /dutchgov/vaarweginformatie.nl.html
----
 
 
 # vaarweginformatie.nl
 ## Summary data
 
 
-**SSL Grade**:0
-**HTTP Security Grade**:48
+**SSL Grade**:F
+**HTTP Security Grade**:F
 
 
 | File       | Count | Info |
@@ -24,8 +20,8 @@ permalink: /dutchgov/vaarweginformatie.nl.html
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://api.acceptatie.vaarweginformatie.nl](https://api.acceptatie.vaarweginformatie.nl)| | **25**|APISIX/2.15.0| | | | | | | | :white_check_mark: | |Apache APISIX:2.15.0||
-|[https://www.vaarweginformatie.nl](https://www.vaarweginformatie.nl)| | **60**|| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |||
-|[https://vaarweginformatie.nl](https://vaarweginformatie.nl)| | **60**|| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |||
-|[https://vaarmelder.vaarweginformatie.nl](https://vaarmelder.vaarweginformatie.nl)| | **50**|| |:white_check_mark: | | | | | | :white_check_mark: | |||
-|[https://api.vaarweginformatie.nl](https://api.vaarweginformatie.nl)| | **45**|APISIX/2.15.0| |:white_check_mark: | | | | | | :white_check_mark: | |Apache APISIX:2.15.0 HSTS||
+|[https://api.acceptatie.vaarweginformatie.nl](https://api.acceptatie.vaarweginformatie.nl)| | **F**|APISIX/2.15.0| | | | | | | | :white_check_mark: | |Apache APISIX:2.15.0||
+|[https://www.vaarweginformatie.nl](https://www.vaarweginformatie.nl)| | **D**|| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |||
+|[https://vaarweginformatie.nl](https://vaarweginformatie.nl)| | **D**|| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |||
+|[https://vaarmelder.vaarweginformatie.nl](https://vaarmelder.vaarweginformatie.nl)| | **E**|| |:white_check_mark: | | | | | | :white_check_mark: | |||
+|[https://api.vaarweginformatie.nl](https://api.vaarweginformatie.nl)| | **F**|APISIX/2.15.0| |:white_check_mark: | | | | | | :white_check_mark: | |Apache APISIX:2.15.0 HSTS||

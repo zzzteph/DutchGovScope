@@ -1,15 +1,11 @@
----
-layout: dutchgov
-permalink: /dutchgov/steunpuntcoronazorgen.nl.html
----
 
 
 # steunpuntcoronazorgen.nl
 ## Summary data
 
 
-**SSL Grade**:0
-**HTTP Security Grade**:65
+**SSL Grade**:F
+**HTTP Security Grade**:D
 
 
 | File       | Count | Info |
@@ -24,5 +20,5 @@ permalink: /dutchgov/steunpuntcoronazorgen.nl.html
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://www.steunpuntcoronazorgen.nl](https://www.steunpuntcoronazorgen.nl)| | **65**|Apache| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server Drupal HSTS PHP|Steunpunt Corona...|
-|[https://steunpuntcoronazorgen.nl](https://steunpuntcoronazorgen.nl)| | **65**|Apache| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS|301 Moved Perman...|
+|[https://www.steunpuntcoronazorgen.nl](https://www.steunpuntcoronazorgen.nl)| | **D**|Apache| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server Drupal HSTS PHP|Steunpunt Corona...|
+|[https://steunpuntcoronazorgen.nl](https://steunpuntcoronazorgen.nl)| | **D**|Apache| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS|301 Moved Perman...|

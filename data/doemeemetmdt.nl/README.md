@@ -1,15 +1,11 @@
----
-layout: dutchgov
-permalink: /dutchgov/doemeemetmdt.nl.html
----
 
 
 # doemeemetmdt.nl
 ## Summary data
 
 
-**SSL Grade**:0
-**HTTP Security Grade**:49
+**SSL Grade**:F
+**HTTP Security Grade**:F
 
 
 | File       | Count | Info |
@@ -24,8 +20,8 @@ permalink: /dutchgov/doemeemetmdt.nl.html
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://organisaties.doemeemetmdt.nl](https://organisaties.doemeemetmdt.nl)| | **65**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|Aan welke MDT do...|
-|[https://www.doemeemetmdt.nl](https://www.doemeemetmdt.nl)| | **65**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|Aan welke MDT do...|
-|[https://staging.doemeemetmdt.nl](https://staging.doemeemetmdt.nl)| | **25**|nginx| | | | | | | | :white_check_mark: | |Basic Nginx|401 Authorizatio...|
-|[https://staging-organisaties.doemeemetmdt.nl](https://staging-organisaties.doemeemetmdt.nl)| | **25**|nginx| | | | | | | | :white_check_mark: | |Basic Nginx|401 Authorizatio...|
-|[https://doemeemetmdt.nl](https://doemeemetmdt.nl)| | **65**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
+|[https://organisaties.doemeemetmdt.nl](https://organisaties.doemeemetmdt.nl)| | **D**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|Aan welke MDT do...|
+|[https://www.doemeemetmdt.nl](https://www.doemeemetmdt.nl)| | **D**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|Aan welke MDT do...|
+|[https://staging.doemeemetmdt.nl](https://staging.doemeemetmdt.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Basic Nginx|401 Authorizatio...|
+|[https://staging-organisaties.doemeemetmdt.nl](https://staging-organisaties.doemeemetmdt.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Basic Nginx|401 Authorizatio...|
+|[https://doemeemetmdt.nl](https://doemeemetmdt.nl)| | **D**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|

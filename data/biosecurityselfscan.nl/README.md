@@ -1,15 +1,11 @@
----
-layout: dutchgov
-permalink: /dutchgov/biosecurityselfscan.nl.html
----
 
 
 # biosecurityselfscan.nl
 ## Summary data
 
 
-**SSL Grade**:0
-**HTTP Security Grade**:45
+**SSL Grade**:F
+**HTTP Security Grade**:F
 
 
 | File       | Count | Info |
@@ -24,5 +20,5 @@ permalink: /dutchgov/biosecurityselfscan.nl.html
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://www.biosecurityselfscan.nl](https://www.biosecurityselfscan.nl)| | **45**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
-|[https://biosecurityselfscan.nl](https://biosecurityselfscan.nl)| | **45**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
+|[https://www.biosecurityselfscan.nl](https://www.biosecurityselfscan.nl)| | **F**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
+|[https://biosecurityselfscan.nl](https://biosecurityselfscan.nl)| | **F**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|

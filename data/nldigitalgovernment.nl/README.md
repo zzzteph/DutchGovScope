@@ -1,15 +1,11 @@
----
-layout: dutchgov
-permalink: /dutchgov/nldigitalgovernment.nl.html
----
 
 
 # nldigitalgovernment.nl
 ## Summary data
 
 
-**SSL Grade**:0
-**HTTP Security Grade**:45
+**SSL Grade**:F
+**HTTP Security Grade**:F
 
 
 | File       | Count | Info |
@@ -24,6 +20,6 @@ permalink: /dutchgov/nldigitalgovernment.nl.html
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://accept.nldigitalgovernment.nl](https://accept.nldigitalgovernment.nl)| | **45**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |Basic HSTS Nginx|401 Authorizatio...|
-|[https://www.nldigitalgovernment.nl](https://www.nldigitalgovernment.nl)| | **45**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS MySQL Nginx PHP:8.0.30 WordPress:6.4.2 Yoast SEO:21.8|Home - Digital G...|
-|[https://nldigitalgovernment.nl](https://nldigitalgovernment.nl)| | **45**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Nginx PHP:8.0.30||
+|[https://accept.nldigitalgovernment.nl](https://accept.nldigitalgovernment.nl)| | **F**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |Basic HSTS Nginx|401 Authorizatio...|
+|[https://www.nldigitalgovernment.nl](https://www.nldigitalgovernment.nl)| | **F**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS MySQL Nginx PHP:8.0.30 WordPress:6.4.2 Yoast SEO:21.8|Home - Digital G...|
+|[https://nldigitalgovernment.nl](https://nldigitalgovernment.nl)| | **F**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Nginx PHP:8.0.30||

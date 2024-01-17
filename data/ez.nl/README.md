@@ -1,15 +1,11 @@
----
-layout: dutchgov
-permalink: /dutchgov/ez.nl.html
----
 
 
 # ez.nl
 ## Summary data
 
 
-**SSL Grade**:83.333333333333
-**HTTP Security Grade**:36.176470588235
+**SSL Grade**:A-
+**HTTP Security Grade**:F
 
 
 | File       | Count | Info |
@@ -24,20 +20,20 @@ permalink: /dutchgov/ez.nl.html
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://exportcontrole.ez.nl](https://exportcontrole.ez.nl)| | **25**|nginx| | | | | | | | :white_check_mark: | |Nginx|403 Forbidden|
-|[https://wvaopgave.ez.nl](https://wvaopgave.ez.nl)| **B**| **50**||:o: |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|Object moved|
-|[https://dienstenrichtlijn.ez.nl](https://dienstenrichtlijn.ez.nl)| | **25**|nginx| | | | | | | | :white_check_mark: | |Nginx|403 Forbidden|
-|[http://innovatie.ez.nl](http://innovatie.ez.nl)| | **30**|| | | | | | | | :white_check_mark: | |||
-|[http://breedband.ez.nl](http://breedband.ez.nl)| | **30**|| | | | | | | | :white_check_mark: | |||
-|[https://www.ez.nl](https://www.ez.nl)| **A**| **80**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |||
-|[http://frequenties.ez.nl](http://frequenties.ez.nl)| | **30**|| | | | | | | | :white_check_mark: | |||
-|[http://www.structuurfondsen.ez.nl](http://www.structuurfondsen.ez.nl)| | **30**|| | | | | | | | :white_check_mark: | |||
-|[http://www.exportcontrole.ez.nl](http://www.exportcontrole.ez.nl)| | **30**|| | | | | | | | :white_check_mark: | |||
-|[https://ez.nl](https://ez.nl)| **A**| **80**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |||
-|[http://bedrijventerreinen.ez.nl](http://bedrijventerreinen.ez.nl)| | **30**|| | | | | | | | :white_check_mark: | |||
-|[http://mvo.ez.nl](http://mvo.ez.nl)| | **30**|| | | | | | | | :white_check_mark: | |||
-|[http://wto.ez.nl](http://wto.ez.nl)| | **30**|| | | | | | | | :white_check_mark: | |||
-|[https://structuurfondsen.ez.nl](https://structuurfondsen.ez.nl)| | **25**|nginx| | | | | | | | :white_check_mark: | |Nginx|403 Forbidden|
-|[http://duurzameenergie.ez.nl](http://duurzameenergie.ez.nl)| | **30**|| | | | | | | | :white_check_mark: | |||
-|[http://futureinternet.ez.nl](http://futureinternet.ez.nl)| | **30**|| | | | | | | | :white_check_mark: | |||
-|[http://videos.ez.nl](http://videos.ez.nl)| | **30**|| | | | | | | | :white_check_mark: | |||
+|[https://exportcontrole.ez.nl](https://exportcontrole.ez.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|403 Forbidden|
+|[https://wvaopgave.ez.nl](https://wvaopgave.ez.nl)| **B**| **E**||:o: |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|Object moved|
+|[https://dienstenrichtlijn.ez.nl](https://dienstenrichtlijn.ez.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|403 Forbidden|
+|[http://innovatie.ez.nl](http://innovatie.ez.nl)| | **F**|| | | | | | | | :white_check_mark: | |||
+|[http://breedband.ez.nl](http://breedband.ez.nl)| | **F**|| | | | | | | | :white_check_mark: | |||
+|[https://www.ez.nl](https://www.ez.nl)| **A**| **B**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |||
+|[http://frequenties.ez.nl](http://frequenties.ez.nl)| | **F**|| | | | | | | | :white_check_mark: | |||
+|[http://www.structuurfondsen.ez.nl](http://www.structuurfondsen.ez.nl)| | **F**|| | | | | | | | :white_check_mark: | |||
+|[http://www.exportcontrole.ez.nl](http://www.exportcontrole.ez.nl)| | **F**|| | | | | | | | :white_check_mark: | |||
+|[https://ez.nl](https://ez.nl)| **A**| **B**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |||
+|[http://bedrijventerreinen.ez.nl](http://bedrijventerreinen.ez.nl)| | **F**|| | | | | | | | :white_check_mark: | |||
+|[http://mvo.ez.nl](http://mvo.ez.nl)| | **F**|| | | | | | | | :white_check_mark: | |||
+|[http://wto.ez.nl](http://wto.ez.nl)| | **F**|| | | | | | | | :white_check_mark: | |||
+|[https://structuurfondsen.ez.nl](https://structuurfondsen.ez.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|403 Forbidden|
+|[http://duurzameenergie.ez.nl](http://duurzameenergie.ez.nl)| | **F**|| | | | | | | | :white_check_mark: | |||
+|[http://futureinternet.ez.nl](http://futureinternet.ez.nl)| | **F**|| | | | | | | | :white_check_mark: | |||
+|[http://videos.ez.nl](http://videos.ez.nl)| | **F**|| | | | | | | | :white_check_mark: | |||

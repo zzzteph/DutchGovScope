@@ -1,14 +1,50 @@
 ---
-layout: post
+layout: default
 title: "feedfoodtransfer.nl"
-internal_url: "/dutchgov/feedfoodtransfer.nl.html"
+permalink: "/dutchgov/feedfoodtransfer.nl.html"
 subdomains_count: 14
 all_subdomains_count: 16
 urls_count: 14
-ssl_rank: 0
-http_rank: 62
+ssl_rank: F
+http_rank: D
 url_link: /data/feedfoodtransfer.nl/urls.txt
 all_subdomains_link: /data/feedfoodtransfer.nl/all_subdomains.txt
 subdomains_link: /data/feedfoodtransfer.nl/subdomains.txt
 categories: dutchgov
 ---
+
+
+# feedfoodtransfer.nl
+## Summary data
+
+
+**SSL Grade**:F
+**HTTP Security Grade**:D
+
+
+| File       | Count | Info |
+|------------|-------|------|
+|[subdomains.txt](/data/feedfoodtransfer.nl/subdomains.txt)|14|Alive subdomains|
+|[urls.txt](/data/feedfoodtransfer.nl/urls.txt)|14|Urls|
+|[all_subdomains.txt](/data/feedfoodtransfer.nl/all_subdomains.txt)|16|All found subdomains (history)|
+
+
+## Statistics
+
+
+| Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
+|--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
+|[https://acceptatie.feedfoodtransfer.nl](https://acceptatie.feedfoodtransfer.nl)| | **E**||:warning: |:white_check_mark: | | | | | | :white_check_mark: | |F5 BigIP HSTS||
+|[https://cadmium-pig.apps.feedfoodtransfer.nl](https://cadmium-pig.apps.feedfoodtransfer.nl)| | **D**||:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | |Bootstrap HSTS||
+|[https://www.feedfoodtransfer.nl](https://www.feedfoodtransfer.nl)| | **E**|Apache| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS|301 Moved Perman...|
+|[https://feedfoodtransfer.nl](https://feedfoodtransfer.nl)| | **E**|Apache| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS|301 Moved Perman...|
+|[https://dieldrinhcblindane-hen.apps.feedfoodtransfer.nl](https://dieldrinhcblindane-hen.apps.feedfoodtransfer.nl)| | **D**||:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | |Bootstrap HSTS||
+|[http://dioxins-totalteq-hen-acc.apps.feedfoodtransfer.nl](http://dioxins-totalteq-hen-acc.apps.feedfoodtransfer.nl)| | **F**|| | | | | | | | :white_check_mark: | |||
+|[https://ndlpcb-hen.apps.feedfoodtransfer.nl](https://ndlpcb-hen.apps.feedfoodtransfer.nl)| | **D**||:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | |Bootstrap HSTS||
+|[https://github.apps.feedfoodtransfer.nl](https://github.apps.feedfoodtransfer.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |||
+|[https://dioxins-totalteq-cow.apps.feedfoodtransfer.nl](https://dioxins-totalteq-cow.apps.feedfoodtransfer.nl)| | **D**||:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | |Bootstrap HSTS||
+|[https://dioxins-totalteq-pig.apps.feedfoodtransfer.nl](https://dioxins-totalteq-pig.apps.feedfoodtransfer.nl)| | **D**||:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | |Bootstrap HSTS||
+|[https://pfos-pfoa-cow.apps.feedfoodtransfer.nl](https://pfos-pfoa-cow.apps.feedfoodtransfer.nl)| | **D**||:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | |Bootstrap HSTS||
+|[https://aflatoxinb1m1-cow.apps.feedfoodtransfer.nl](https://aflatoxinb1m1-cow.apps.feedfoodtransfer.nl)| | **D**||:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | |Bootstrap HSTS||
+|[https://dioxins-congener-hen.apps.feedfoodtransfer.nl](https://dioxins-congener-hen.apps.feedfoodtransfer.nl)| | **D**||:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | |Bootstrap HSTS||
+|[https://dioxins-totalteq-hen.apps.feedfoodtransfer.nl](https://dioxins-totalteq-hen.apps.feedfoodtransfer.nl)| | **D**||:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | |Bootstrap HSTS||

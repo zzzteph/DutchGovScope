@@ -1,15 +1,11 @@
----
-layout: dutchgov
-permalink: /dutchgov/onderwijsinderegioincijfers.nl.html
----
 
 
 # onderwijsinderegioincijfers.nl
 ## Summary data
 
 
-**SSL Grade**:0
-**HTTP Security Grade**:45
+**SSL Grade**:F
+**HTTP Security Grade**:F
 
 
 | File       | Count | Info |
@@ -24,5 +20,5 @@ permalink: /dutchgov/onderwijsinderegioincijfers.nl.html
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://www.onderwijsinderegioincijfers.nl](https://www.onderwijsinderegioincijfers.nl)| | **45**|Apache/2| |:white_check_mark: | | | | | | :white_check_mark: | |Apache HTTP Server:2 HSTS|301 Moved Perman...|
-|[https://onderwijsinderegioincijfers.nl](https://onderwijsinderegioincijfers.nl)| | **45**|Apache/2| |:white_check_mark: | | | | | | :white_check_mark: | |Apache HTTP Server:2 HSTS|301 Moved Perman...|
+|[https://www.onderwijsinderegioincijfers.nl](https://www.onderwijsinderegioincijfers.nl)| | **F**|Apache/2| |:white_check_mark: | | | | | | :white_check_mark: | |Apache HTTP Server:2 HSTS|301 Moved Perman...|
+|[https://onderwijsinderegioincijfers.nl](https://onderwijsinderegioincijfers.nl)| | **F**|Apache/2| |:white_check_mark: | | | | | | :white_check_mark: | |Apache HTTP Server:2 HSTS|301 Moved Perman...|

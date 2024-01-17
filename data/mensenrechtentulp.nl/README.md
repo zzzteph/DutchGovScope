@@ -1,15 +1,11 @@
----
-layout: dutchgov
-permalink: /dutchgov/mensenrechtentulp.nl.html
----
 
 
 # mensenrechtentulp.nl
 ## Summary data
 
 
-**SSL Grade**:0
-**HTTP Security Grade**:75
+**SSL Grade**:F
+**HTTP Security Grade**:C
 
 
 | File       | Count | Info |
@@ -24,5 +20,5 @@ permalink: /dutchgov/mensenrechtentulp.nl.html
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://www.mensenrechtentulp.nl](https://www.mensenrechtentulp.nl)| | **75**|cloudflare| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Cloudflare HSTS||
-|[https://mensenrechtentulp.nl](https://mensenrechtentulp.nl)| | **75**|cloudflare| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Cloudflare HSTS||
+|[https://www.mensenrechtentulp.nl](https://www.mensenrechtentulp.nl)| | **C**|cloudflare| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Cloudflare HSTS||
+|[https://mensenrechtentulp.nl](https://mensenrechtentulp.nl)| | **C**|cloudflare| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Cloudflare HSTS||

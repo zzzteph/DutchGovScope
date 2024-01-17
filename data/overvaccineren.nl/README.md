@@ -1,15 +1,11 @@
----
-layout: dutchgov
-permalink: /dutchgov/overvaccineren.nl.html
----
 
 
 # overvaccineren.nl
 ## Summary data
 
 
-**SSL Grade**:0
-**HTTP Security Grade**:63.333333333333
+**SSL Grade**:F
+**HTTP Security Grade**:D
 
 
 | File       | Count | Info |
@@ -24,6 +20,6 @@ permalink: /dutchgov/overvaccineren.nl.html
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://acc.overvaccineren.nl](https://acc.overvaccineren.nl)| | **30**|| | | | | | | | :white_check_mark: | |HSTS|Pagina niet gevo...|
-|[https://overvaccineren.nl](https://overvaccineren.nl)| | **80**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | ||301 Moved Perman...|
-|[https://www.overvaccineren.nl](https://www.overvaccineren.nl)| | **80**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | ||301 Moved Perman...|
+|[https://acc.overvaccineren.nl](https://acc.overvaccineren.nl)| | **F**|| | | | | | | | :white_check_mark: | |HSTS|Pagina niet gevo...|
+|[https://overvaccineren.nl](https://overvaccineren.nl)| | **B**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | ||301 Moved Perman...|
+|[https://www.overvaccineren.nl](https://www.overvaccineren.nl)| | **B**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | ||301 Moved Perman...|

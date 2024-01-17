@@ -1,14 +1,38 @@
 ---
-layout: post
+layout: default
 title: "aanpakstikstof.nl"
-internal_url: "/dutchgov/aanpakstikstof.nl.html"
+permalink: "/dutchgov/aanpakstikstof.nl.html"
 subdomains_count: 2
 all_subdomains_count: 11
 urls_count: 2
-ssl_rank: 100
-http_rank: 80
+ssl_rank: A+
+http_rank: B
 url_link: /data/aanpakstikstof.nl/urls.txt
 all_subdomains_link: /data/aanpakstikstof.nl/all_subdomains.txt
 subdomains_link: /data/aanpakstikstof.nl/subdomains.txt
 categories: dutchgov
 ---
+
+
+# aanpakstikstof.nl
+## Summary data
+
+
+**SSL Grade**:A+
+**HTTP Security Grade**:B
+
+
+| File       | Count | Info |
+|------------|-------|------|
+|[subdomains.txt](/data/aanpakstikstof.nl/subdomains.txt)|2|Alive subdomains|
+|[urls.txt](/data/aanpakstikstof.nl/urls.txt)|2|Urls|
+|[all_subdomains.txt](/data/aanpakstikstof.nl/all_subdomains.txt)|11|All found subdomains (history)|
+
+
+## Statistics
+
+
+| Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
+|--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
+|[https://www.aanpakstikstof.nl](https://www.aanpakstikstof.nl)| **A+**| **B**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
+|[https://aanpakstikstof.nl](https://aanpakstikstof.nl)| **A+**| **B**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||

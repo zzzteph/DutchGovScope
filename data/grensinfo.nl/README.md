@@ -1,15 +1,11 @@
----
-layout: dutchgov
-permalink: /dutchgov/grensinfo.nl.html
----
 
 
 # grensinfo.nl
 ## Summary data
 
 
-**SSL Grade**:100
-**HTTP Security Grade**:92
+**SSL Grade**:A+
+**HTTP Security Grade**:A
 
 
 | File       | Count | Info |
@@ -24,5 +20,5 @@ permalink: /dutchgov/grensinfo.nl.html
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://www.grensinfo.nl](https://www.grensinfo.nl)| **A+**| **85**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
-|[https://grensinfo.nl](https://grensinfo.nl)| **A+**| **99**||:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
+|[https://www.grensinfo.nl](https://www.grensinfo.nl)| **A+**| **B**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
+|[https://grensinfo.nl](https://grensinfo.nl)| **A+**| **A**||:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||

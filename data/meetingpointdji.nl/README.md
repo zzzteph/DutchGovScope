@@ -1,15 +1,11 @@
----
-layout: dutchgov
-permalink: /dutchgov/meetingpointdji.nl.html
----
 
 
 # meetingpointdji.nl
 ## Summary data
 
 
-**SSL Grade**:0
-**HTTP Security Grade**:39
+**SSL Grade**:F
+**HTTP Security Grade**:F
 
 
 | File       | Count | Info |
@@ -24,4 +20,4 @@ permalink: /dutchgov/meetingpointdji.nl.html
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://www.meetingpointdji.nl](https://www.meetingpointdji.nl)| | **39**|Microsoft-IIS/10.0|:white_check_mark: | | | | | | | :white_check_mark: | |Azure IIS:10.0 Microsoft ASP.NET Windows Server|Meeting_Point_DJ...|
+|[https://www.meetingpointdji.nl](https://www.meetingpointdji.nl)| | **F**|Microsoft-IIS/10.0|:white_check_mark: | | | | | | | :white_check_mark: | |Azure IIS:10.0 Microsoft ASP.NET Windows Server|Meeting_Point_DJ...|

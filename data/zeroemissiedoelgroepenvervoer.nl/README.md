@@ -1,15 +1,11 @@
----
-layout: dutchgov
-permalink: /dutchgov/zeroemissiedoelgroepenvervoer.nl.html
----
 
 
 # zeroemissiedoelgroepenvervoer.nl
 ## Summary data
 
 
-**SSL Grade**:0
-**HTTP Security Grade**:30
+**SSL Grade**:F
+**HTTP Security Grade**:F
 
 
 | File       | Count | Info |
@@ -24,5 +20,5 @@ permalink: /dutchgov/zeroemissiedoelgroepenvervoer.nl.html
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://www.zeroemissiedoelgroepenvervoer.nl](https://www.zeroemissiedoelgroepenvervoer.nl)| | **30**|| | | | | | | | :white_check_mark: | ||Object moved per...|
-|[https://zeroemissiedoelgroepenvervoer.nl](https://zeroemissiedoelgroepenvervoer.nl)| | **30**|| | | | | | | | :white_check_mark: | ||Object moved per...|
+|[https://www.zeroemissiedoelgroepenvervoer.nl](https://www.zeroemissiedoelgroepenvervoer.nl)| | **F**|| | | | | | | | :white_check_mark: | ||Object moved per...|
+|[https://zeroemissiedoelgroepenvervoer.nl](https://zeroemissiedoelgroepenvervoer.nl)| | **F**|| | | | | | | | :white_check_mark: | ||Object moved per...|

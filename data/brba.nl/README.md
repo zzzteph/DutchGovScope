@@ -1,15 +1,11 @@
----
-layout: dutchgov
-permalink: /dutchgov/brba.nl.html
----
 
 
 # brba.nl
 ## Summary data
 
 
-**SSL Grade**:0
-**HTTP Security Grade**:57.4
+**SSL Grade**:F
+**HTTP Security Grade**:E
 
 
 | File       | Count | Info |
@@ -24,18 +20,18 @@ permalink: /dutchgov/brba.nl.html
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://aanmelden.brba.nl](https://aanmelden.brba.nl)| | **77**||:warning: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS|BRBA-AANMELDEN|
-|[https://aanmelden.acc.brba.nl](https://aanmelden.acc.brba.nl)| | **77**||:warning: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS|BRBA-AANMELDEN|
-|[https://helpdesk.brba.nl](https://helpdesk.brba.nl)| | **60**|| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS||
-|[http://keiko.brba.nl](http://keiko.brba.nl)| | **30**|| | | | | | | | :white_check_mark: | |||
-|[http://uzi.brba.nl](http://uzi.brba.nl)| | **30**|| | | | | | | | :white_check_mark: | |||
-|[http://uzi.acc.brba.nl](http://uzi.acc.brba.nl)| | **30**|| | | | | | | | :white_check_mark: | |||
-|[http://uzi.test.brba.nl](http://uzi.test.brba.nl)| | **30**|| | | | | | | | :white_check_mark: | |||
-|[https://viep.brba.nl](https://viep.brba.nl)| | **77**||:warning: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS|Redirecting to h...|
-|[https://viep.acc.brba.nl](https://viep.acc.brba.nl)| | **82**||:warning: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS|Redirecting to h...|
-|[https://viep.test.brba.nl](https://viep.test.brba.nl)| | **77**||:warning: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS|Redirecting to h...|
-|[https://web.acc.brba.nl](https://web.acc.brba.nl)| | **77**||:warning: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS|Redirecting to h...|
-|[http://web.test.brba.nl](http://web.test.brba.nl)| | **30**|| | | | | | | | :white_check_mark: | |||
-|[https://www.brba.nl](https://www.brba.nl)| | **77**||:warning: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS|Redirecting to h...|
-|[http://aanmelden.test.brba.nl](http://aanmelden.test.brba.nl)| | **30**|| | | | | | | | :white_check_mark: | |||
-|[https://brba.nl](https://brba.nl)| | **77**||:warning: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS|Redirecting to h...|
+|[https://aanmelden.brba.nl](https://aanmelden.brba.nl)| | **C**||:warning: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS|BRBA-AANMELDEN|
+|[https://aanmelden.acc.brba.nl](https://aanmelden.acc.brba.nl)| | **C**||:warning: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS|BRBA-AANMELDEN|
+|[https://helpdesk.brba.nl](https://helpdesk.brba.nl)| | **D**|| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS||
+|[http://keiko.brba.nl](http://keiko.brba.nl)| | **F**|| | | | | | | | :white_check_mark: | |||
+|[http://uzi.brba.nl](http://uzi.brba.nl)| | **F**|| | | | | | | | :white_check_mark: | |||
+|[http://uzi.acc.brba.nl](http://uzi.acc.brba.nl)| | **F**|| | | | | | | | :white_check_mark: | |||
+|[http://uzi.test.brba.nl](http://uzi.test.brba.nl)| | **F**|| | | | | | | | :white_check_mark: | |||
+|[https://viep.brba.nl](https://viep.brba.nl)| | **C**||:warning: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS|Redirecting to h...|
+|[https://viep.acc.brba.nl](https://viep.acc.brba.nl)| | **B**||:warning: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS|Redirecting to h...|
+|[https://viep.test.brba.nl](https://viep.test.brba.nl)| | **C**||:warning: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS|Redirecting to h...|
+|[https://web.acc.brba.nl](https://web.acc.brba.nl)| | **C**||:warning: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS|Redirecting to h...|
+|[http://web.test.brba.nl](http://web.test.brba.nl)| | **F**|| | | | | | | | :white_check_mark: | |||
+|[https://www.brba.nl](https://www.brba.nl)| | **C**||:warning: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS|Redirecting to h...|
+|[http://aanmelden.test.brba.nl](http://aanmelden.test.brba.nl)| | **F**|| | | | | | | | :white_check_mark: | |||
+|[https://brba.nl](https://brba.nl)| | **C**||:warning: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS|Redirecting to h...|

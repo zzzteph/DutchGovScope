@@ -1,15 +1,11 @@
----
-layout: dutchgov
-permalink: /dutchgov/zelfinspectie.nl.html
----
 
 
 # zelfinspectie.nl
 ## Summary data
 
 
-**SSL Grade**:0
-**HTTP Security Grade**:79
+**SSL Grade**:F
+**HTTP Security Grade**:C
 
 
 | File       | Count | Info |
@@ -24,12 +20,12 @@ permalink: /dutchgov/zelfinspectie.nl.html
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://arbo-op-orde.zelfinspectie.nl](https://arbo-op-orde.zelfinspectie.nl)| | **79**|nginx|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
-|[https://eerlijkwerken.zelfinspectie.nl](https://eerlijkwerken.zelfinspectie.nl)| | **79**|nginx|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
-|[https://gevaarlijkestoffen.zelfinspectie.nl](https://gevaarlijkestoffen.zelfinspectie.nl)| | **79**|nginx|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
-|[https://ongevalsonderzoek.zelfinspectie.nl](https://ongevalsonderzoek.zelfinspectie.nl)| | **79**|nginx|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
-|[https://transportenlogistiek.zelfinspectie.nl](https://transportenlogistiek.zelfinspectie.nl)| | **79**|nginx|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
-|[https://voorkomongevallen.zelfinspectie.nl](https://voorkomongevallen.zelfinspectie.nl)| | **79**|nginx|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
-|[https://werkdrukenongewenstgedrag.zelfinspectie.nl](https://werkdrukenongewenstgedrag.zelfinspectie.nl)| | **79**|nginx|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
-|[https://www.zelfinspectie.nl](https://www.zelfinspectie.nl)| | **79**|nginx|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Drupal:9 HSTS Nginx PHP|Zelfinspectie.nl...|
-|[https://zelfinspectie.nl](https://zelfinspectie.nl)| | **79**|nginx|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
+|[https://arbo-op-orde.zelfinspectie.nl](https://arbo-op-orde.zelfinspectie.nl)| | **C**|nginx|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
+|[https://eerlijkwerken.zelfinspectie.nl](https://eerlijkwerken.zelfinspectie.nl)| | **C**|nginx|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
+|[https://gevaarlijkestoffen.zelfinspectie.nl](https://gevaarlijkestoffen.zelfinspectie.nl)| | **C**|nginx|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
+|[https://ongevalsonderzoek.zelfinspectie.nl](https://ongevalsonderzoek.zelfinspectie.nl)| | **C**|nginx|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
+|[https://transportenlogistiek.zelfinspectie.nl](https://transportenlogistiek.zelfinspectie.nl)| | **C**|nginx|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
+|[https://voorkomongevallen.zelfinspectie.nl](https://voorkomongevallen.zelfinspectie.nl)| | **C**|nginx|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
+|[https://werkdrukenongewenstgedrag.zelfinspectie.nl](https://werkdrukenongewenstgedrag.zelfinspectie.nl)| | **C**|nginx|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
+|[https://www.zelfinspectie.nl](https://www.zelfinspectie.nl)| | **C**|nginx|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Drupal:9 HSTS Nginx PHP|Zelfinspectie.nl...|
+|[https://zelfinspectie.nl](https://zelfinspectie.nl)| | **C**|nginx|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|

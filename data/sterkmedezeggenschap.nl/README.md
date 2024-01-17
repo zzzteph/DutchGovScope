@@ -1,15 +1,11 @@
----
-layout: dutchgov
-permalink: /dutchgov/sterkmedezeggenschap.nl.html
----
 
 
 # sterkmedezeggenschap.nl
 ## Summary data
 
 
-**SSL Grade**:0
-**HTTP Security Grade**:25
+**SSL Grade**:F
+**HTTP Security Grade**:F
 
 
 | File       | Count | Info |
@@ -24,5 +20,5 @@ permalink: /dutchgov/sterkmedezeggenschap.nl.html
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://sterkmedezeggenschap.nl](https://sterkmedezeggenschap.nl)| | **25**|Apache/2| | | | | | | | :white_check_mark: | |Apache HTTP Server:2 HSTS||
-|[https://www.sterkmedezeggenschap.nl](https://www.sterkmedezeggenschap.nl)| | **25**|Apache/2| | | | | | | | :white_check_mark: | |Apache HTTP Server:2 Google Tag Manager MySQL PHP WordPress Yoast SEO:21.5|Sterk Medezeggen...|
+|[https://sterkmedezeggenschap.nl](https://sterkmedezeggenschap.nl)| | **F**|Apache/2| | | | | | | | :white_check_mark: | |Apache HTTP Server:2 HSTS||
+|[https://www.sterkmedezeggenschap.nl](https://www.sterkmedezeggenschap.nl)| | **F**|Apache/2| | | | | | | | :white_check_mark: | |Apache HTTP Server:2 Google Tag Manager MySQL PHP WordPress Yoast SEO:21.5|Sterk Medezeggen...|

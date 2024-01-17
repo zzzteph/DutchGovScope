@@ -1,15 +1,11 @@
----
-layout: dutchgov
-permalink: /dutchgov/zwdelta.nl.html
----
 
 
 # zwdelta.nl
 ## Summary data
 
 
-**SSL Grade**:0
-**HTTP Security Grade**:56.8
+**SSL Grade**:F
+**HTTP Security Grade**:E
 
 
 | File       | Count | Info |
@@ -24,8 +20,8 @@ permalink: /dutchgov/zwdelta.nl.html
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://acceptatie.zwdelta.nl](https://acceptatie.zwdelta.nl)| | **25**|nginx| | | | | | | | :white_check_mark: | |MySQL Nginx PHP WordPress|Aanbouw - ACC si...|
-|[https://platform.zwdelta.nl](https://platform.zwdelta.nl)| | **84**||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Object moved|
-|[https://www.zwdelta.nl](https://www.zwdelta.nl)| | **45**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |Google Tag Manager HSTS MySQL Nginx PHP WordPress:6.4.2 Yoast SEO:21.8|Home - Zuidweste...|
-|[https://www.platform.zwdelta.nl](https://www.platform.zwdelta.nl)| | **85**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | ||Document Moved|
-|[https://zwdelta.nl](https://zwdelta.nl)| | **45**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Nginx||
+|[https://acceptatie.zwdelta.nl](https://acceptatie.zwdelta.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |MySQL Nginx PHP WordPress|Aanbouw - ACC si...|
+|[https://platform.zwdelta.nl](https://platform.zwdelta.nl)| | **B**||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Object moved|
+|[https://www.zwdelta.nl](https://www.zwdelta.nl)| | **F**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |Google Tag Manager HSTS MySQL Nginx PHP WordPress:6.4.2 Yoast SEO:21.8|Home - Zuidweste...|
+|[https://www.platform.zwdelta.nl](https://www.platform.zwdelta.nl)| | **B**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | ||Document Moved|
+|[https://zwdelta.nl](https://zwdelta.nl)| | **F**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Nginx||

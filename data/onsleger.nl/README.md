@@ -1,15 +1,11 @@
----
-layout: dutchgov
-permalink: /dutchgov/onsleger.nl.html
----
 
 
 # onsleger.nl
 ## Summary data
 
 
-**SSL Grade**:0
-**HTTP Security Grade**:27.8
+**SSL Grade**:F
+**HTTP Security Grade**:F
 
 
 | File       | Count | Info |
@@ -24,13 +20,13 @@ permalink: /dutchgov/onsleger.nl.html
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://webmail.onsleger.nl](https://webmail.onsleger.nl)| | **39**|LiteSpeed|:white_check_mark: | | | | | | | :white_check_mark: | |HTTP/3 LiteSpeed|Webmail Login|
-|[https://www.onsleger.nl](https://www.onsleger.nl)| | **25**|LiteSpeed| | | | | | | | :white_check_mark: | |HTTP/3 LiteSpeed Litespeed Cache||
-|[https://onsleger.nl](https://onsleger.nl)| | **25**|LiteSpeed| | | | | | | | :white_check_mark: | |HTTP/3 LiteSpeed Litespeed Cache MySQL PHP Slider Revolution:6.6.12 WordPress:6.2.3 wpBakery|onsleger – Onsle...|
-|[https://mail.onsleger.nl](https://mail.onsleger.nl)| | **25**|LiteSpeed| | | | | | | | :white_check_mark: | |HTTP/3 LiteSpeed Litespeed Cache||
-|[https://webdisk.onsleger.nl](https://webdisk.onsleger.nl)| | **25**|LiteSpeed| | | | | | | | :white_check_mark: | |Basic HTTP/3 LiteSpeed||
-|[https://cpcalendars.onsleger.nl](https://cpcalendars.onsleger.nl)| | **25**|LiteSpeed| | | | | | | | :white_check_mark: | |HTTP/3 LiteSpeed|403 Forbidden|
-|[https://cpcontacts.onsleger.nl](https://cpcontacts.onsleger.nl)| | **25**|LiteSpeed| | | | | | | | :white_check_mark: | |HTTP/3 LiteSpeed|403 Forbidden|
-|[https://autodiscover.onsleger.nl](https://autodiscover.onsleger.nl)| | **25**|LiteSpeed| | | | | | | | :white_check_mark: | |HTTP/3 LiteSpeed Litespeed Cache||
-|[https://cpanel.onsleger.nl](https://cpanel.onsleger.nl)| | **39**|LiteSpeed|:white_check_mark: | | | | | | | :white_check_mark: | |HTTP/3 LiteSpeed cPanel|cPanel Login|
-|[https://ipv6.onsleger.nl](https://ipv6.onsleger.nl)| | **25**|LiteSpeed| | | | | | | | :white_check_mark: | |HTTP/3 LiteSpeed Litespeed Cache||
+|[https://webmail.onsleger.nl](https://webmail.onsleger.nl)| | **F**|LiteSpeed|:white_check_mark: | | | | | | | :white_check_mark: | |HTTP/3 LiteSpeed|Webmail Login|
+|[https://www.onsleger.nl](https://www.onsleger.nl)| | **F**|LiteSpeed| | | | | | | | :white_check_mark: | |HTTP/3 LiteSpeed Litespeed Cache||
+|[https://onsleger.nl](https://onsleger.nl)| | **F**|LiteSpeed| | | | | | | | :white_check_mark: | |HTTP/3 LiteSpeed Litespeed Cache MySQL PHP Slider Revolution:6.6.12 WordPress:6.2.3 wpBakery|onsleger – Onsle...|
+|[https://mail.onsleger.nl](https://mail.onsleger.nl)| | **F**|LiteSpeed| | | | | | | | :white_check_mark: | |HTTP/3 LiteSpeed Litespeed Cache||
+|[https://webdisk.onsleger.nl](https://webdisk.onsleger.nl)| | **F**|LiteSpeed| | | | | | | | :white_check_mark: | |Basic HTTP/3 LiteSpeed||
+|[https://cpcalendars.onsleger.nl](https://cpcalendars.onsleger.nl)| | **F**|LiteSpeed| | | | | | | | :white_check_mark: | |HTTP/3 LiteSpeed|403 Forbidden|
+|[https://cpcontacts.onsleger.nl](https://cpcontacts.onsleger.nl)| | **F**|LiteSpeed| | | | | | | | :white_check_mark: | |HTTP/3 LiteSpeed|403 Forbidden|
+|[https://autodiscover.onsleger.nl](https://autodiscover.onsleger.nl)| | **F**|LiteSpeed| | | | | | | | :white_check_mark: | |HTTP/3 LiteSpeed Litespeed Cache||
+|[https://cpanel.onsleger.nl](https://cpanel.onsleger.nl)| | **F**|LiteSpeed|:white_check_mark: | | | | | | | :white_check_mark: | |HTTP/3 LiteSpeed cPanel|cPanel Login|
+|[https://ipv6.onsleger.nl](https://ipv6.onsleger.nl)| | **F**|LiteSpeed| | | | | | | | :white_check_mark: | |HTTP/3 LiteSpeed Litespeed Cache||

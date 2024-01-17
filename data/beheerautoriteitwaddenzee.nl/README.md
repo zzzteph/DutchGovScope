@@ -1,15 +1,11 @@
----
-layout: dutchgov
-permalink: /dutchgov/beheerautoriteitwaddenzee.nl.html
----
 
 
 # beheerautoriteitwaddenzee.nl
 ## Summary data
 
 
-**SSL Grade**:100
-**HTTP Security Grade**:73
+**SSL Grade**:A+
+**HTTP Security Grade**:C
 
 
 | File       | Count | Info |
@@ -24,8 +20,8 @@ permalink: /dutchgov/beheerautoriteitwaddenzee.nl.html
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://feeds.beheerautoriteitwaddenzee.nl](https://feeds.beheerautoriteitwaddenzee.nl)| **A+**| **65**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
-|[https://opendata.beheerautoriteitwaddenzee.nl](https://opendata.beheerautoriteitwaddenzee.nl)| **A+**| **65**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
-|[https://wadsup.beheerautoriteitwaddenzee.nl](https://wadsup.beheerautoriteitwaddenzee.nl)| **A+**| **85**|Apache| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Apache HTTP Server HSTS||
-|[https://www.beheerautoriteitwaddenzee.nl](https://www.beheerautoriteitwaddenzee.nl)| **A+**| **75**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Beheerautoriteit...|
-|[https://beheerautoriteitwaddenzee.nl](https://beheerautoriteitwaddenzee.nl)| **A+**| **75**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
+|[https://feeds.beheerautoriteitwaddenzee.nl](https://feeds.beheerautoriteitwaddenzee.nl)| **A+**| **D**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
+|[https://opendata.beheerautoriteitwaddenzee.nl](https://opendata.beheerautoriteitwaddenzee.nl)| **A+**| **D**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
+|[https://wadsup.beheerautoriteitwaddenzee.nl](https://wadsup.beheerautoriteitwaddenzee.nl)| **A+**| **B**|Apache| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Apache HTTP Server HSTS||
+|[https://www.beheerautoriteitwaddenzee.nl](https://www.beheerautoriteitwaddenzee.nl)| **A+**| **C**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Beheerautoriteit...|
+|[https://beheerautoriteitwaddenzee.nl](https://beheerautoriteitwaddenzee.nl)| **A+**| **C**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|

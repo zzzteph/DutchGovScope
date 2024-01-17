@@ -1,15 +1,11 @@
----
-layout: dutchgov
-permalink: /dutchgov/cbgdagvandeiv.nl.html
----
 
 
 # cbgdagvandeiv.nl
 ## Summary data
 
 
-**SSL Grade**:100
-**HTTP Security Grade**:75
+**SSL Grade**:A+
+**HTTP Security Grade**:C
 
 
 | File       | Count | Info |
@@ -24,5 +20,5 @@ permalink: /dutchgov/cbgdagvandeiv.nl.html
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://www.cbgdagvandeiv.nl](https://www.cbgdagvandeiv.nl)| **A+**| **75**|Microsoft-IIS/10.0| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS IIS:10.0 Windows Server|Document Moved|
-|[https://cbgdagvandeiv.nl](https://cbgdagvandeiv.nl)| **A+**| **75**|Microsoft-IIS/10.0| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS IIS:10.0 Windows Server|Document Moved|
+|[https://www.cbgdagvandeiv.nl](https://www.cbgdagvandeiv.nl)| **A+**| **C**|Microsoft-IIS/10.0| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS IIS:10.0 Windows Server|Document Moved|
+|[https://cbgdagvandeiv.nl](https://cbgdagvandeiv.nl)| **A+**| **C**|Microsoft-IIS/10.0| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS IIS:10.0 Windows Server|Document Moved|

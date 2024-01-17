@@ -1,14 +1,38 @@
 ---
-layout: post
+layout: default
 title: "helpdesk-efactureren.nl"
-internal_url: "/dutchgov/helpdesk-efactureren.nl.html"
+permalink: "/dutchgov/helpdesk-efactureren.nl.html"
 subdomains_count: 2
 all_subdomains_count: 14
 urls_count: 2
-ssl_rank: 0
-http_rank: 65
+ssl_rank: F
+http_rank: D
 url_link: /data/helpdesk-efactureren.nl/urls.txt
 all_subdomains_link: /data/helpdesk-efactureren.nl/all_subdomains.txt
 subdomains_link: /data/helpdesk-efactureren.nl/subdomains.txt
 categories: dutchgov
 ---
+
+
+# helpdesk-efactureren.nl
+## Summary data
+
+
+**SSL Grade**:F
+**HTTP Security Grade**:D
+
+
+| File       | Count | Info |
+|------------|-------|------|
+|[subdomains.txt](/data/helpdesk-efactureren.nl/subdomains.txt)|2|Alive subdomains|
+|[urls.txt](/data/helpdesk-efactureren.nl/urls.txt)|2|Urls|
+|[all_subdomains.txt](/data/helpdesk-efactureren.nl/all_subdomains.txt)|14|All found subdomains (history)|
+
+
+## Statistics
+
+
+| Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
+|--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
+|[https://www.helpdesk-efactureren.nl](https://www.helpdesk-efactureren.nl)| | **D**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Drupal:10 HSTS Nginx PHP|Helpdesk e-factu...|
+|[https://helpdesk-efactureren.nl](https://helpdesk-efactureren.nl)| | **D**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|

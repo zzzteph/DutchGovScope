@@ -1,15 +1,11 @@
----
-layout: dutchgov
-permalink: /dutchgov/p-direkt.nl.html
----
 
 
 # p-direkt.nl
 ## Summary data
 
 
-**SSL Grade**:0
-**HTTP Security Grade**:59.583333333333
+**SSL Grade**:F
+**HTTP Security Grade**:E
 
 
 | File       | Count | Info |
@@ -24,15 +20,15 @@ permalink: /dutchgov/p-direkt.nl.html
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://acc.api.p-direkt.nl](https://acc.api.p-direkt.nl)| | **30**|| | | | | | | | :white_check_mark: | |||
-|[https://acc.api-sec.p-direkt.nl](https://acc.api-sec.p-direkt.nl)| | **30**|| | | | | | | | :white_check_mark: | ||400 No required...|
-|[https://api.p-direkt.nl](https://api.p-direkt.nl)| | **85**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
-|[https://api-sec.p-direkt.nl](https://api-sec.p-direkt.nl)| | **30**|| | | | | | | | :white_check_mark: | ||400 No required...|
-|[https://dev.api.p-direkt.nl](https://dev.api.p-direkt.nl)| | **45**|cloudflare| |:white_check_mark: | | | | | | :white_check_mark: | |Cloudflare HTTP/3||
-|[https://dev.api-sec.p-direkt.nl](https://dev.api-sec.p-direkt.nl)| | **85**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
-|[https://feeds.p-direkt.nl](https://feeds.p-direkt.nl)| | **65**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
-|[https://kms.p-direkt.nl](https://kms.p-direkt.nl)| | **65**|Microsoft-IIS/10.0| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS IIS:10.0 Windows Server|403 - Forbidden:...|
-|[https://kms-test.p-direkt.nl](https://kms-test.p-direkt.nl)| | **65**|Microsoft-IIS/10.0| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS IIS:10.0 Windows Server|403 - Forbidden:...|
-|[https://opendata.p-direkt.nl](https://opendata.p-direkt.nl)| | **65**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
-|[https://www.p-direkt.nl](https://www.p-direkt.nl)| | **75**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Home | O&P Rijk...|
-|[https://p-direkt.nl](https://p-direkt.nl)| | **75**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
+|[https://acc.api.p-direkt.nl](https://acc.api.p-direkt.nl)| | **F**|| | | | | | | | :white_check_mark: | |||
+|[https://acc.api-sec.p-direkt.nl](https://acc.api-sec.p-direkt.nl)| | **F**|| | | | | | | | :white_check_mark: | ||400 No required...|
+|[https://api.p-direkt.nl](https://api.p-direkt.nl)| | **B**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
+|[https://api-sec.p-direkt.nl](https://api-sec.p-direkt.nl)| | **F**|| | | | | | | | :white_check_mark: | ||400 No required...|
+|[https://dev.api.p-direkt.nl](https://dev.api.p-direkt.nl)| | **F**|cloudflare| |:white_check_mark: | | | | | | :white_check_mark: | |Cloudflare HTTP/3||
+|[https://dev.api-sec.p-direkt.nl](https://dev.api-sec.p-direkt.nl)| | **B**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
+|[https://feeds.p-direkt.nl](https://feeds.p-direkt.nl)| | **D**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
+|[https://kms.p-direkt.nl](https://kms.p-direkt.nl)| | **D**|Microsoft-IIS/10.0| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS IIS:10.0 Windows Server|403 - Forbidden:...|
+|[https://kms-test.p-direkt.nl](https://kms-test.p-direkt.nl)| | **D**|Microsoft-IIS/10.0| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS IIS:10.0 Windows Server|403 - Forbidden:...|
+|[https://opendata.p-direkt.nl](https://opendata.p-direkt.nl)| | **D**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
+|[https://www.p-direkt.nl](https://www.p-direkt.nl)| | **C**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Home | O&P Rijk...|
+|[https://p-direkt.nl](https://p-direkt.nl)| | **C**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|

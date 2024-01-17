@@ -1,15 +1,11 @@
----
-layout: dutchgov
-permalink: /dutchgov/onzedelta.nl.html
----
 
 
 # onzedelta.nl
 ## Summary data
 
 
-**SSL Grade**:0
-**HTTP Security Grade**:45
+**SSL Grade**:F
+**HTTP Security Grade**:F
 
 
 | File       | Count | Info |
@@ -24,5 +20,5 @@ permalink: /dutchgov/onzedelta.nl.html
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://www.onzedelta.nl](https://www.onzedelta.nl)| | **45**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |Nginx||
-|[https://onzedelta.nl](https://onzedelta.nl)| | **45**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |Nginx||
+|[https://www.onzedelta.nl](https://www.onzedelta.nl)| | **F**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |Nginx||
+|[https://onzedelta.nl](https://onzedelta.nl)| | **F**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |Nginx||

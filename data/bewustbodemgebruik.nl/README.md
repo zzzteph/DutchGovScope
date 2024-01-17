@@ -1,15 +1,11 @@
----
-layout: dutchgov
-permalink: /dutchgov/bewustbodemgebruik.nl.html
----
 
 
 # bewustbodemgebruik.nl
 ## Summary data
 
 
-**SSL Grade**:0
-**HTTP Security Grade**:30
+**SSL Grade**:F
+**HTTP Security Grade**:F
 
 
 | File       | Count | Info |
@@ -24,5 +20,5 @@ permalink: /dutchgov/bewustbodemgebruik.nl.html
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://mail.bewustbodemgebruik.nl](https://mail.bewustbodemgebruik.nl)| | **25**|nginx| | | | | | | | :white_check_mark: | |Nginx|This is the defa...|
-|[https://bewustbodemgebruik.nl](https://bewustbodemgebruik.nl)| | **35**|nginx| | | | | | | :white_check_mark: | :white_check_mark: | |MySQL Nginx PHP WordPress|Bewust Bodemgebr...|
+|[https://mail.bewustbodemgebruik.nl](https://mail.bewustbodemgebruik.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|This is the defa...|
+|[https://bewustbodemgebruik.nl](https://bewustbodemgebruik.nl)| | **F**|nginx| | | | | | | :white_check_mark: | :white_check_mark: | |MySQL Nginx PHP WordPress|Bewust Bodemgebr...|

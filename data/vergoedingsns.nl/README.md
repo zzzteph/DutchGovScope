@@ -1,15 +1,11 @@
----
-layout: dutchgov
-permalink: /dutchgov/vergoedingsns.nl.html
----
 
 
 # vergoedingsns.nl
 ## Summary data
 
 
-**SSL Grade**:0
-**HTTP Security Grade**:67
+**SSL Grade**:F
+**HTTP Security Grade**:D
 
 
 | File       | Count | Info |
@@ -24,8 +20,8 @@ permalink: /dutchgov/vergoedingsns.nl.html
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://www.vergoedingsns.nl](https://www.vergoedingsns.nl)| | **75**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Home | Schadever...|
-|[https://aanvragen.vergoedingsns.nl](https://aanvragen.vergoedingsns.nl)| | **55**|nginx| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS Nginx|Mendix|
-|[https://feeds.vergoedingsns.nl](https://feeds.vergoedingsns.nl)| | **65**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
-|[https://opendata.vergoedingsns.nl](https://opendata.vergoedingsns.nl)| | **65**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
-|[https://vergoedingsns.nl](https://vergoedingsns.nl)| | **75**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
+|[https://www.vergoedingsns.nl](https://www.vergoedingsns.nl)| | **C**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Home | Schadever...|
+|[https://aanvragen.vergoedingsns.nl](https://aanvragen.vergoedingsns.nl)| | **E**|nginx| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS Nginx|Mendix|
+|[https://feeds.vergoedingsns.nl](https://feeds.vergoedingsns.nl)| | **D**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
+|[https://opendata.vergoedingsns.nl](https://opendata.vergoedingsns.nl)| | **D**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
+|[https://vergoedingsns.nl](https://vergoedingsns.nl)| | **C**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|

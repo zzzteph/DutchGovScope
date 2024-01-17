@@ -15079,6 +15079,8 @@ www.cursus.tenderned.nl
 www.webservices.tenderned.nl
 tenderned.nl
 acceptatie.transparantiebenchmark.nl
+www.transparantiebenchmark.nl
+transparantiebenchmark.nl
 dev.platformduurzamehuisvesting.nl
 dev-evo.platformduurzamehuisvesting.nl
 energieke-vastgoedorganisaties.platformduurzamehuisvesting.nl

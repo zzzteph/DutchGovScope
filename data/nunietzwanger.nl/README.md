@@ -1,15 +1,11 @@
----
-layout: dutchgov
-permalink: /dutchgov/nunietzwanger.nl.html
----
 
 
 # nunietzwanger.nl
 ## Summary data
 
 
-**SSL Grade**:0
-**HTTP Security Grade**:85
+**SSL Grade**:F
+**HTTP Security Grade**:B
 
 
 | File       | Count | Info |
@@ -24,5 +20,5 @@ permalink: /dutchgov/nunietzwanger.nl.html
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://www.nunietzwanger.nl](https://www.nunietzwanger.nl)| | **85**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS MySQL PHP Varnish:6.2 WordPress|Programma Nu Nie...|
-|[https://nunietzwanger.nl](https://nunietzwanger.nl)| | **85**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Varnish:6.2|301 Moved Perman...|
+|[https://www.nunietzwanger.nl](https://www.nunietzwanger.nl)| | **B**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS MySQL PHP Varnish:6.2 WordPress|Programma Nu Nie...|
+|[https://nunietzwanger.nl](https://nunietzwanger.nl)| | **B**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Varnish:6.2|301 Moved Perman...|

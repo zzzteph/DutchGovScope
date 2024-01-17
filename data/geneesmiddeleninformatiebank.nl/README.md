@@ -1,15 +1,11 @@
----
-layout: dutchgov
-permalink: /dutchgov/geneesmiddeleninformatiebank.nl.html
----
 
 
 # geneesmiddeleninformatiebank.nl
 ## Summary data
 
 
-**SSL Grade**:0
-**HTTP Security Grade**:72
+**SSL Grade**:F
+**HTTP Security Grade**:C
 
 
 | File       | Count | Info |
@@ -24,5 +20,5 @@ permalink: /dutchgov/geneesmiddeleninformatiebank.nl.html
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://www.geneesmiddeleninformatiebank.nl](https://www.geneesmiddeleninformatiebank.nl)| | **72**|nginx|:warning: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
-|[https://geneesmiddeleninformatiebank.nl](https://geneesmiddeleninformatiebank.nl)| | **72**|nginx|:warning: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
+|[https://www.geneesmiddeleninformatiebank.nl](https://www.geneesmiddeleninformatiebank.nl)| | **C**|nginx|:warning: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
+|[https://geneesmiddeleninformatiebank.nl](https://geneesmiddeleninformatiebank.nl)| | **C**|nginx|:warning: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|

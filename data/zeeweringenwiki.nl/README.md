@@ -1,15 +1,11 @@
----
-layout: dutchgov
-permalink: /dutchgov/zeeweringenwiki.nl.html
----
 
 
 # zeeweringenwiki.nl
 ## Summary data
 
 
-**SSL Grade**:0
-**HTTP Security Grade**:34.333333333333
+**SSL Grade**:F
+**HTTP Security Grade**:F
 
 
 | File       | Count | Info |
@@ -24,6 +20,6 @@ permalink: /dutchgov/zeeweringenwiki.nl.html
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://mail.zeeweringenwiki.nl](https://mail.zeeweringenwiki.nl)| | **25**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|403 Forbidden|
-|[https://www.zeeweringenwiki.nl](https://www.zeeweringenwiki.nl)| | **39**|Apache|:white_check_mark: | | | | | | | :white_check_mark: | |Apache HTTP Server|301 Moved Perman...|
-|[https://zeeweringenwiki.nl](https://zeeweringenwiki.nl)| | **39**|Apache|:white_check_mark: | | | | | | | :white_check_mark: | |Apache HTTP Server|301 Moved Perman...|
+|[https://mail.zeeweringenwiki.nl](https://mail.zeeweringenwiki.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|403 Forbidden|
+|[https://www.zeeweringenwiki.nl](https://www.zeeweringenwiki.nl)| | **F**|Apache|:white_check_mark: | | | | | | | :white_check_mark: | |Apache HTTP Server|301 Moved Perman...|
+|[https://zeeweringenwiki.nl](https://zeeweringenwiki.nl)| | **F**|Apache|:white_check_mark: | | | | | | | :white_check_mark: | |Apache HTTP Server|301 Moved Perman...|

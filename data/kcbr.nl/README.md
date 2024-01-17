@@ -1,15 +1,11 @@
----
-layout: dutchgov
-permalink: /dutchgov/kcbr.nl.html
----
 
 
 # kcbr.nl
 ## Summary data
 
 
-**SSL Grade**:0
-**HTTP Security Grade**:55.666666666667
+**SSL Grade**:F
+**HTTP Security Grade**:E
 
 
 | File       | Count | Info |
@@ -24,6 +20,6 @@ permalink: /dutchgov/kcbr.nl.html
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://www.kcbr.nl](https://www.kcbr.nl)| | **92**||:warning: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Drupal HSTS PHP|Homepage | Kenni...|
-|[https://www-acc.kcbr.nl](https://www-acc.kcbr.nl)| | **50**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|403 Forbidden|
-|[http://kcbr.nl](http://kcbr.nl)| | **25**|BigIP| | | | | | | | :white_check_mark: | |F5 BigIP||
+|[https://www.kcbr.nl](https://www.kcbr.nl)| | **A**||:warning: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Drupal HSTS PHP|Homepage | Kenni...|
+|[https://www-acc.kcbr.nl](https://www-acc.kcbr.nl)| | **E**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|403 Forbidden|
+|[http://kcbr.nl](http://kcbr.nl)| | **F**|BigIP| | | | | | | | :white_check_mark: | |F5 BigIP||

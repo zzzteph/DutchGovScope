@@ -1,15 +1,11 @@
----
-layout: dutchgov
-permalink: /dutchgov/referentiegrootboekschema.nl.html
----
 
 
 # referentiegrootboekschema.nl
 ## Summary data
 
 
-**SSL Grade**:0
-**HTTP Security Grade**:43.333333333333
+**SSL Grade**:F
+**HTTP Security Grade**:F
 
 
 | File       | Count | Info |
@@ -24,9 +20,9 @@ permalink: /dutchgov/referentiegrootboekschema.nl.html
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://acc-dictu.referentiegrootboekschema.nl](https://acc-dictu.referentiegrootboekschema.nl)| | **25**|nginx| | | | | | | | :white_check_mark: | |Basic Nginx|401 Authorizatio...|
-|[https://mail.referentiegrootboekschema.nl](https://mail.referentiegrootboekschema.nl)| | **25**|nginx| | | | | | | | :white_check_mark: | |Nginx||
-|[https://prod-dictu.referentiegrootboekschema.nl](https://prod-dictu.referentiegrootboekschema.nl)| | **25**|nginx| | | | | | | | :white_check_mark: | |Drupal:10 HSTS Nginx PHP|Home | Forum Sta...|
-|[https://test-dictu.referentiegrootboekschema.nl](https://test-dictu.referentiegrootboekschema.nl)| | **25**|nginx| | | | | | | | :white_check_mark: | |Basic Nginx|401 Authorizatio...|
-|[https://www.referentiegrootboekschema.nl](https://www.referentiegrootboekschema.nl)| | **80**|nginx| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Drupal:10 HSTS Nginx PHP|Home | Referenti...|
-|[https://referentiegrootboekschema.nl](https://referentiegrootboekschema.nl)| | **80**|nginx| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Drupal:10 HSTS Nginx PHP|Home | Referenti...|
+|[https://acc-dictu.referentiegrootboekschema.nl](https://acc-dictu.referentiegrootboekschema.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Basic Nginx|401 Authorizatio...|
+|[https://mail.referentiegrootboekschema.nl](https://mail.referentiegrootboekschema.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx||
+|[https://prod-dictu.referentiegrootboekschema.nl](https://prod-dictu.referentiegrootboekschema.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Drupal:10 HSTS Nginx PHP|Home | Forum Sta...|
+|[https://test-dictu.referentiegrootboekschema.nl](https://test-dictu.referentiegrootboekschema.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Basic Nginx|401 Authorizatio...|
+|[https://www.referentiegrootboekschema.nl](https://www.referentiegrootboekschema.nl)| | **B**|nginx| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Drupal:10 HSTS Nginx PHP|Home | Referenti...|
+|[https://referentiegrootboekschema.nl](https://referentiegrootboekschema.nl)| | **B**|nginx| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Drupal:10 HSTS Nginx PHP|Home | Referenti...|

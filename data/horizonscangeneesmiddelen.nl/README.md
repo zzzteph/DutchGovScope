@@ -1,15 +1,11 @@
----
-layout: dutchgov
-permalink: /dutchgov/horizonscangeneesmiddelen.nl.html
----
 
 
 # horizonscangeneesmiddelen.nl
 ## Summary data
 
 
-**SSL Grade**:0
-**HTTP Security Grade**:54.5
+**SSL Grade**:F
+**HTTP Security Grade**:E
 
 
 | File       | Count | Info |
@@ -24,7 +20,7 @@ permalink: /dutchgov/horizonscangeneesmiddelen.nl.html
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://proto.horizonscangeneesmiddelen.nl](https://proto.horizonscangeneesmiddelen.nl)| | **15**|GitHub.com| | | :warning:| | | | | :white_check_mark: | |Fastly GitHub Pages Varnish|Horizonscan gene...|
-|[https://www.horizonscangeneesmiddelen.nl](https://www.horizonscangeneesmiddelen.nl)| | **79**|Solvinity Server|:white_check_mark: |:white_check_mark: | | |:warning: | | :white_check_mark: | :white_check_mark: | |HSTS|Horizonscan gene...|
-|[https://www-ac.horizonscangeneesmiddelen.nl](https://www-ac.horizonscangeneesmiddelen.nl)| | **45**|Apache| |:white_check_mark: | | | | | | :white_check_mark: | |Apache HTTP Server Basic HSTS|401 Unauthorized|
-|[https://horizonscangeneesmiddelen.nl](https://horizonscangeneesmiddelen.nl)| | **79**|Apache|:white_check_mark: |:white_check_mark: | | |:warning: | | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS|301 Moved Perman...|
+|[https://proto.horizonscangeneesmiddelen.nl](https://proto.horizonscangeneesmiddelen.nl)| | **F**|GitHub.com| | | :warning:| | | | | :white_check_mark: | |Fastly GitHub Pages Varnish|Horizonscan gene...|
+|[https://www.horizonscangeneesmiddelen.nl](https://www.horizonscangeneesmiddelen.nl)| | **C**|Solvinity Server|:white_check_mark: |:white_check_mark: | | |:warning: | | :white_check_mark: | :white_check_mark: | |HSTS|Horizonscan gene...|
+|[https://www-ac.horizonscangeneesmiddelen.nl](https://www-ac.horizonscangeneesmiddelen.nl)| | **F**|Apache| |:white_check_mark: | | | | | | :white_check_mark: | |Apache HTTP Server Basic HSTS|401 Unauthorized|
+|[https://horizonscangeneesmiddelen.nl](https://horizonscangeneesmiddelen.nl)| | **C**|Apache|:white_check_mark: |:white_check_mark: | | |:warning: | | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS|301 Moved Perman...|

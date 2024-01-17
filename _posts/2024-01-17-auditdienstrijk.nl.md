@@ -1,14 +1,40 @@
 ---
-layout: post
+layout: default
 title: "auditdienstrijk.nl"
-internal_url: "/dutchgov/auditdienstrijk.nl.html"
+permalink: "/dutchgov/auditdienstrijk.nl.html"
 subdomains_count: 4
 all_subdomains_count: 4
 urls_count: 4
-ssl_rank: 0
-http_rank: 70
+ssl_rank: F
+http_rank: C
 url_link: /data/auditdienstrijk.nl/urls.txt
 all_subdomains_link: /data/auditdienstrijk.nl/all_subdomains.txt
 subdomains_link: /data/auditdienstrijk.nl/subdomains.txt
 categories: dutchgov
 ---
+
+
+# auditdienstrijk.nl
+## Summary data
+
+
+**SSL Grade**:F
+**HTTP Security Grade**:C
+
+
+| File       | Count | Info |
+|------------|-------|------|
+|[subdomains.txt](/data/auditdienstrijk.nl/subdomains.txt)|4|Alive subdomains|
+|[urls.txt](/data/auditdienstrijk.nl/urls.txt)|4|Urls|
+|[all_subdomains.txt](/data/auditdienstrijk.nl/all_subdomains.txt)|4|All found subdomains (history)|
+
+
+## Statistics
+
+
+| Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
+|--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
+|[https://auditdienstrijk.nl](https://auditdienstrijk.nl)| | **C**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
+|[https://feeds.auditdienstrijk.nl](https://feeds.auditdienstrijk.nl)| | **D**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
+|[https://opendata.auditdienstrijk.nl](https://opendata.auditdienstrijk.nl)| | **D**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
+|[https://www.auditdienstrijk.nl](https://www.auditdienstrijk.nl)| | **C**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Home | Auditdien...|

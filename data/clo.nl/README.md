@@ -1,15 +1,11 @@
----
-layout: dutchgov
-permalink: /dutchgov/clo.nl.html
----
 
 
 # clo.nl
 ## Summary data
 
 
-**SSL Grade**:0
-**HTTP Security Grade**:78.5
+**SSL Grade**:F
+**HTTP Security Grade**:C
 
 
 | File       | Count | Info |
@@ -24,7 +20,7 @@ permalink: /dutchgov/clo.nl.html
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://acc-www.clo.nl](https://acc-www.clo.nl)| | **75**|Apache| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Apache HTTP Server Basic Drupal HSTS PHP:7.3.33||
-|[https://tst-www.clo.nl](https://tst-www.clo.nl)| | **75**|Apache| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Apache HTTP Server Basic Drupal HSTS PHP:7.3.33||
-|[https://www.clo.nl](https://www.clo.nl)| | **89**|Apache|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Apache HTTP Server Drupal HSTS PHP:7.3.33|Compendium voor...|
-|[https://clo.nl](https://clo.nl)| | **75**|Apache| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Apache HTTP Server HSTS|301 Moved Perman...|
+|[https://acc-www.clo.nl](https://acc-www.clo.nl)| | **C**|Apache| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Apache HTTP Server Basic Drupal HSTS PHP:7.3.33||
+|[https://tst-www.clo.nl](https://tst-www.clo.nl)| | **C**|Apache| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Apache HTTP Server Basic Drupal HSTS PHP:7.3.33||
+|[https://www.clo.nl](https://www.clo.nl)| | **B**|Apache|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Apache HTTP Server Drupal HSTS PHP:7.3.33|Compendium voor...|
+|[https://clo.nl](https://clo.nl)| | **C**|Apache| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Apache HTTP Server HSTS|301 Moved Perman...|

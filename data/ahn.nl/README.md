@@ -1,15 +1,11 @@
----
-layout: dutchgov
-permalink: /dutchgov/ahn.nl.html
----
 
 
 # ahn.nl
 ## Summary data
 
 
-**SSL Grade**:0
-**HTTP Security Grade**:74.666666666667
+**SSL Grade**:F
+**HTTP Security Grade**:C
 
 
 | File       | Count | Info |
@@ -24,6 +20,6 @@ permalink: /dutchgov/ahn.nl.html
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://simcms.ahn.nl](https://simcms.ahn.nl)| | **84**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS|403 Forbidden|
-|[https://www.ahn.nl](https://www.ahn.nl)| | **70**|| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS|403 Forbidden|
-|[https://ahn.nl](https://ahn.nl)| | **70**|| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS|301 Moved Perman...|
+|[https://simcms.ahn.nl](https://simcms.ahn.nl)| | **B**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS|403 Forbidden|
+|[https://www.ahn.nl](https://www.ahn.nl)| | **C**|| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS|403 Forbidden|
+|[https://ahn.nl](https://ahn.nl)| | **C**|| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS|301 Moved Perman...|

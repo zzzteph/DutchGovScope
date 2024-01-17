@@ -1,15 +1,11 @@
----
-layout: dutchgov
-permalink: /dutchgov/wachtrijbooster.nl.html
----
 
 
 # wachtrijbooster.nl
 ## Summary data
 
 
-**SSL Grade**:0
-**HTTP Security Grade**:45
+**SSL Grade**:F
+**HTTP Security Grade**:F
 
 
 | File       | Count | Info |
@@ -24,6 +20,6 @@ permalink: /dutchgov/wachtrijbooster.nl.html
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://wachtrijbooster.nl](https://wachtrijbooster.nl)| | **35**|cloudflare| | | | | | :white_check_mark: | | :white_check_mark: | |Cloudflare HTTP/3|Attention Requir...|
-|[https://aanmelden.wachtrijbooster.nl](https://aanmelden.wachtrijbooster.nl)| | **45**|cloudflare| |:white_check_mark: | | | | | | :white_check_mark: | |Cloudflare HTTP/3||
-|[https://www.wachtrijbooster.nl](https://www.wachtrijbooster.nl)| | **55**|cloudflare| | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Cloudflare HTTP/3|Online een afspr...|
+|[https://wachtrijbooster.nl](https://wachtrijbooster.nl)| | **F**|cloudflare| | | | | | :white_check_mark: | | :white_check_mark: | |Cloudflare HTTP/3|Attention Requir...|
+|[https://aanmelden.wachtrijbooster.nl](https://aanmelden.wachtrijbooster.nl)| | **F**|cloudflare| |:white_check_mark: | | | | | | :white_check_mark: | |Cloudflare HTTP/3||
+|[https://www.wachtrijbooster.nl](https://www.wachtrijbooster.nl)| | **E**|cloudflare| | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Cloudflare HTTP/3|Online een afspr...|

@@ -1,15 +1,11 @@
----
-layout: dutchgov
-permalink: /dutchgov/verbeterjehuis.nl.html
----
 
 
 # verbeterjehuis.nl
 ## Summary data
 
 
-**SSL Grade**:0
-**HTTP Security Grade**:63.75
+**SSL Grade**:F
+**HTTP Security Grade**:D
 
 
 | File       | Count | Info |
@@ -24,7 +20,7 @@ permalink: /dutchgov/verbeterjehuis.nl.html
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://www.verbeterjehuis.nl](https://www.verbeterjehuis.nl)| | **75**|cloudflare| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Cloudflare HSTS|Alles over je hu...|
-|[https://energyportpeelland.verbeterjehuis.nl](https://energyportpeelland.verbeterjehuis.nl)| | **30**|| | | | | | | | :white_check_mark: | ||Microsoft Azure...|
-|[https://verbeterjehuis.nl](https://verbeterjehuis.nl)| | **75**|cloudflare| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Cloudflare HSTS|Document Moved|
-|[https://groenesubsidiewijzer.verbeterjehuis.nl](https://groenesubsidiewijzer.verbeterjehuis.nl)| | **75**|cloudflare| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Cloudflare HSTS|Object moved|
+|[https://www.verbeterjehuis.nl](https://www.verbeterjehuis.nl)| | **C**|cloudflare| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Cloudflare HSTS|Alles over je hu...|
+|[https://energyportpeelland.verbeterjehuis.nl](https://energyportpeelland.verbeterjehuis.nl)| | **F**|| | | | | | | | :white_check_mark: | ||Microsoft Azure...|
+|[https://verbeterjehuis.nl](https://verbeterjehuis.nl)| | **C**|cloudflare| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Cloudflare HSTS|Document Moved|
+|[https://groenesubsidiewijzer.verbeterjehuis.nl](https://groenesubsidiewijzer.verbeterjehuis.nl)| | **C**|cloudflare| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Cloudflare HSTS|Object moved|

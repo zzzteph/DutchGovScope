@@ -1,15 +1,11 @@
----
-layout: dutchgov
-permalink: /dutchgov/basisinformatie-overstromingen.nl.html
----
 
 
 # basisinformatie-overstromingen.nl
 ## Summary data
 
 
-**SSL Grade**:0
-**HTTP Security Grade**:57.857142857143
+**SSL Grade**:F
+**HTTP Security Grade**:E
 
 
 | File       | Count | Info |
@@ -24,10 +20,10 @@ permalink: /dutchgov/basisinformatie-overstromingen.nl.html
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://dataservice.basisinformatie-overstromingen.nl](https://dataservice.basisinformatie-overstromingen.nl)| | **30**|| | | | | | | | :white_check_mark: | |||
-|[https://geodata.basisinformatie-overstromingen.nl](https://geodata.basisinformatie-overstromingen.nl)| | **80**|| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | :white_check_mark: |||
-|[https://professional.basisinformatie-overstromingen.nl](https://professional.basisinformatie-overstromingen.nl)| | **80**|| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | :white_check_mark: |||
-|[https://profgeodata.dynamic.basisinformatie-overstromingen.nl](https://profgeodata.dynamic.basisinformatie-overstromingen.nl)| | **30**|| | | | | | | | :white_check_mark: | |||
-|[https://profgeodata.static.basisinformatie-overstromingen.nl](https://profgeodata.static.basisinformatie-overstromingen.nl)| | **30**|| | | | | | | | :white_check_mark: | |||
-|[https://www.basisinformatie-overstromingen.nl](https://www.basisinformatie-overstromingen.nl)| | **80**|| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | :white_check_mark: |||
-|[https://basisinformatie-overstromingen.nl](https://basisinformatie-overstromingen.nl)| | **75**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | :white_check_mark: |HSTS Nginx|LIWO|
+|[https://dataservice.basisinformatie-overstromingen.nl](https://dataservice.basisinformatie-overstromingen.nl)| | **F**|| | | | | | | | :white_check_mark: | |||
+|[https://geodata.basisinformatie-overstromingen.nl](https://geodata.basisinformatie-overstromingen.nl)| | **B**|| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | :white_check_mark: |||
+|[https://professional.basisinformatie-overstromingen.nl](https://professional.basisinformatie-overstromingen.nl)| | **B**|| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | :white_check_mark: |||
+|[https://profgeodata.dynamic.basisinformatie-overstromingen.nl](https://profgeodata.dynamic.basisinformatie-overstromingen.nl)| | **F**|| | | | | | | | :white_check_mark: | |||
+|[https://profgeodata.static.basisinformatie-overstromingen.nl](https://profgeodata.static.basisinformatie-overstromingen.nl)| | **F**|| | | | | | | | :white_check_mark: | |||
+|[https://www.basisinformatie-overstromingen.nl](https://www.basisinformatie-overstromingen.nl)| | **B**|| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | :white_check_mark: |||
+|[https://basisinformatie-overstromingen.nl](https://basisinformatie-overstromingen.nl)| | **C**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | :white_check_mark: |HSTS Nginx|LIWO|

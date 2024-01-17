@@ -1,15 +1,11 @@
----
-layout: dutchgov
-permalink: /dutchgov/hulpmiddelenzorg.nl.html
----
 
 
 # hulpmiddelenzorg.nl
 ## Summary data
 
 
-**SSL Grade**:0
-**HTTP Security Grade**:75
+**SSL Grade**:F
+**HTTP Security Grade**:C
 
 
 | File       | Count | Info |
@@ -24,5 +20,5 @@ permalink: /dutchgov/hulpmiddelenzorg.nl.html
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://www.hulpmiddelenzorg.nl](https://www.hulpmiddelenzorg.nl)| | **75**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bootstrap Google Tag Manager HSTS MySQL Nginx PHP WordPress:6.4.2 Yoast SEO:21.8|Kennisgemeenscha...|
-|[https://hulpmiddelenzorg.nl](https://hulpmiddelenzorg.nl)| | **75**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
+|[https://www.hulpmiddelenzorg.nl](https://www.hulpmiddelenzorg.nl)| | **C**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bootstrap Google Tag Manager HSTS MySQL Nginx PHP WordPress:6.4.2 Yoast SEO:21.8|Kennisgemeenscha...|
+|[https://hulpmiddelenzorg.nl](https://hulpmiddelenzorg.nl)| | **C**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||

@@ -1,15 +1,11 @@
----
-layout: dutchgov
-permalink: /dutchgov/avgregisterrijksoverheid.nl.html
----
 
 
 # avgregisterrijksoverheid.nl
 ## Summary data
 
 
-**SSL Grade**:0
-**HTTP Security Grade**:30
+**SSL Grade**:F
+**HTTP Security Grade**:F
 
 
 | File       | Count | Info |
@@ -24,6 +20,6 @@ permalink: /dutchgov/avgregisterrijksoverheid.nl.html
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://acc.avgregisterrijksoverheid.nl](https://acc.avgregisterrijksoverheid.nl)| | **30**|| | | | | | | | :white_check_mark: | ||AVG Verwerkingen...|
-|[https://www.avgregisterrijksoverheid.nl](https://www.avgregisterrijksoverheid.nl)| | **30**|| | | | | | | | :white_check_mark: | |HSTS|AVG Verwerkingen...|
-|[https://avgregisterrijksoverheid.nl](https://avgregisterrijksoverheid.nl)| | **30**|| | | | | | | | :white_check_mark: | |HSTS|AVG Verwerkingen...|
+|[https://acc.avgregisterrijksoverheid.nl](https://acc.avgregisterrijksoverheid.nl)| | **F**|| | | | | | | | :white_check_mark: | ||AVG Verwerkingen...|
+|[https://www.avgregisterrijksoverheid.nl](https://www.avgregisterrijksoverheid.nl)| | **F**|| | | | | | | | :white_check_mark: | |HSTS|AVG Verwerkingen...|
+|[https://avgregisterrijksoverheid.nl](https://avgregisterrijksoverheid.nl)| | **F**|| | | | | | | | :white_check_mark: | |HSTS|AVG Verwerkingen...|

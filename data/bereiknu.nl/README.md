@@ -1,15 +1,11 @@
----
-layout: dutchgov
-permalink: /dutchgov/bereiknu.nl.html
----
 
 
 # bereiknu.nl
 ## Summary data
 
 
-**SSL Grade**:0
-**HTTP Security Grade**:45
+**SSL Grade**:F
+**HTTP Security Grade**:F
 
 
 | File       | Count | Info |
@@ -24,5 +20,5 @@ permalink: /dutchgov/bereiknu.nl.html
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
-|[http://www.bereiknu.nl](http://www.bereiknu.nl)| | **45**|Apache| |:white_check_mark: | | | | | | :white_check_mark: | |Apache HTTP Server PHP:7.4.33 Varnish|Redirecting to h...|
-|[http://bereiknu.nl](http://bereiknu.nl)| | **45**|Apache| |:white_check_mark: | | | | | | :white_check_mark: | |Apache HTTP Server PHP:7.4.33 Varnish|Redirecting to h...|
+|[http://www.bereiknu.nl](http://www.bereiknu.nl)| | **F**|Apache| |:white_check_mark: | | | | | | :white_check_mark: | |Apache HTTP Server PHP:7.4.33 Varnish|Redirecting to h...|
+|[http://bereiknu.nl](http://bereiknu.nl)| | **F**|Apache| |:white_check_mark: | | | | | | :white_check_mark: | |Apache HTTP Server PHP:7.4.33 Varnish|Redirecting to h...|

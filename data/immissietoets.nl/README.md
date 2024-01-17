@@ -1,15 +1,11 @@
----
-layout: dutchgov
-permalink: /dutchgov/immissietoets.nl.html
----
 
 
 # immissietoets.nl
 ## Summary data
 
 
-**SSL Grade**:0
-**HTTP Security Grade**:48.333333333333
+**SSL Grade**:F
+**HTTP Security Grade**:F
 
 
 | File       | Count | Info |
@@ -24,6 +20,6 @@ permalink: /dutchgov/immissietoets.nl.html
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://backend.immissietoets.nl](https://backend.immissietoets.nl)| | **45**|uvicorn| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Python Uvicorn||
-|[https://www.immissietoets.nl](https://www.immissietoets.nl)| | **50**|| |:white_check_mark: | | | | | | :white_check_mark: | |Express HSTS Node.js|immissietoets|
-|[https://immissietoets.nl](https://immissietoets.nl)| | **50**|| |:white_check_mark: | | | | | | :white_check_mark: | |Express HSTS Node.js|immissietoets|
+|[https://backend.immissietoets.nl](https://backend.immissietoets.nl)| | **F**|uvicorn| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Python Uvicorn||
+|[https://www.immissietoets.nl](https://www.immissietoets.nl)| | **E**|| |:white_check_mark: | | | | | | :white_check_mark: | |Express HSTS Node.js|immissietoets|
+|[https://immissietoets.nl](https://immissietoets.nl)| | **E**|| |:white_check_mark: | | | | | | :white_check_mark: | |Express HSTS Node.js|immissietoets|

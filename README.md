@@ -33,7 +33,7 @@ In the [`data/`](/data) directory, there's an analysis of security configuration
  - **RP:** :white_check_mark: if *Referrer-Policy* header is set
 ## Repository Structure
  - [domains.txt](/domains.txt): List of all domains in scope
- - [subdomains.txt](/subdomains.txt): Detailed list of **16334** alive subdomains.
+ - [subdomains.txt](/subdomains.txt): Detailed list of **16336** alive subdomains.
  - [urls.txt](/urls.txt): Compilation of **10053** URLs.
  - [all_subdomains.txt](/all_subdomains.txt): All **32198** subdomains that were found all over the time 
  - [data/](/data): Folder containing daily updated analysis for every domain.

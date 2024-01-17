@@ -1,15 +1,11 @@
----
-layout: dutchgov
-permalink: /dutchgov/ciot.nl.html
----
 
 
 # ciot.nl
 ## Summary data
 
 
-**SSL Grade**:70
-**HTTP Security Grade**:80
+**SSL Grade**:B
+**HTTP Security Grade**:B
 
 
 | File       | Count | Info |
@@ -24,5 +20,5 @@ permalink: /dutchgov/ciot.nl.html
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://www.ciot.nl](https://www.ciot.nl)| **B**| **80**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
-|[https://ciot.nl](https://ciot.nl)| **B**| **80**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
+|[https://www.ciot.nl](https://www.ciot.nl)| **B**| **B**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
+|[https://ciot.nl](https://ciot.nl)| **B**| **B**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||

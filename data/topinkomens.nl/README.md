@@ -1,15 +1,11 @@
----
-layout: dutchgov
-permalink: /dutchgov/topinkomens.nl.html
----
 
 
 # topinkomens.nl
 ## Summary data
 
 
-**SSL Grade**:0
-**HTTP Security Grade**:70.833333333333
+**SSL Grade**:F
+**HTTP Security Grade**:C
 
 
 | File       | Count | Info |
@@ -24,9 +20,9 @@ permalink: /dutchgov/topinkomens.nl.html
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://feeds.topinkomens.nl](https://feeds.topinkomens.nl)| | **65**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
-|[https://forum.topinkomens.nl](https://forum.topinkomens.nl)| | **80**|Apache| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS PHP Vanilla|Forum | Topinkom...|
-|[https://opendata.topinkomens.nl](https://opendata.topinkomens.nl)| | **65**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
-|[https://rekentool.topinkomens.nl](https://rekentool.topinkomens.nl)| | **65**|Apache|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS PHP|Introductie | Re...|
-|[https://www.topinkomens.nl](https://www.topinkomens.nl)| | **75**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Home | Topinkome...|
-|[https://topinkomens.nl](https://topinkomens.nl)| | **75**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
+|[https://feeds.topinkomens.nl](https://feeds.topinkomens.nl)| | **D**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
+|[https://forum.topinkomens.nl](https://forum.topinkomens.nl)| | **B**|Apache| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS PHP Vanilla|Forum | Topinkom...|
+|[https://opendata.topinkomens.nl](https://opendata.topinkomens.nl)| | **D**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
+|[https://rekentool.topinkomens.nl](https://rekentool.topinkomens.nl)| | **D**|Apache|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS PHP|Introductie | Re...|
+|[https://www.topinkomens.nl](https://www.topinkomens.nl)| | **C**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Home | Topinkome...|
+|[https://topinkomens.nl](https://topinkomens.nl)| | **C**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
