@@ -22,11 +22,7 @@ kaarten.hdsr.nl
 begrippen.hdsr.nl
 zaaksysteem-acc.hdsr.nl
 zoeken.hdsr.nl
-uconnect-acc.hdsr.nl
 wsus.hdsr.nl
-remote-pa.hdsr.nl
-geoservices.hdsr.nl
 hdsr.nl
 kantoor.hdsr.nl
 intranet.ad.hdsr.nl
-digikoppeling.hdsr.nl

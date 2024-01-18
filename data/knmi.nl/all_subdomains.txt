@@ -305,3 +305,4 @@ moremem.data.dev.spaceweather.knmi.nl
 anonymous.api.dataplatform.knmi.nl
 cache-control-fix.dev.spaceweather.knmi.nl
 cfn-test.dev.spaceweather.knmi.nl
+cms-origin.klimaatscenarios-data.knmi.nl

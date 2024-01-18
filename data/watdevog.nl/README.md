@@ -21,7 +21,5 @@
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[https://www.watdevog.nl](https://www.watdevog.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||
-
-
 |[https://watdevog.nl](https://watdevog.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||
 

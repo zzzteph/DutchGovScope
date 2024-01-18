@@ -96,7 +96,7 @@ http://eurgen-net.rivm.nl
 http://ewrs.rivm.nl
 http://ewrs-oud.rivm.nl
 https://expertrolesqsort.rivm.nl
-http://ezips.rivm.nl
+https://ezips.rivm.nl
 https://ezips-app.rivm.nl
 https://filesender.rivm.nl
 https://filesender01.rivm.nl

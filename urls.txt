@@ -638,6 +638,7 @@ https://sbi.acceptatie.cbs.nl
 https://mijn.cbs.nl
 https://mijn-api.cbs.nl
 https://uitwisseling.cbs.nl
+https://beh-iam.acceptatie.cbs.nl
 https://english.ccmo.nl
 https://feeds.ccmo.nl
 https://opendata.ccmo.nl
@@ -1013,6 +1014,8 @@ https://opendata.dihoo.nl
 https://www.dihoo.nl
 https://dihoo.nl
 https://mail.dihoo.nl
+https://acc.beeldbellen.dji.nl
+https://beeldbellen.dji.nl
 https://connect.dji.nl
 https://connect-acpt.dji.nl
 https://drife-f.dji.nl
@@ -1023,6 +1026,8 @@ https://feeds.dji.nl
 https://intranet.dji.nl
 https://magazines.dji.nl
 https://opendata.dji.nl
+https://video-acc.beeldbellen.dji.nl
+https://video.beeldbellen.dji.nl
 https://www.dji.nl
 https://zorgconnect.dji.nl
 https://zorgconnect-acpt.dji.nl
@@ -1037,7 +1042,6 @@ https://toezicht.dnb.nl
 https://nieuwsapp.dnb.nl
 https://www.cn.dnb.nl
 https://muntvondsten.dnb.nl
-http://federation.dnb.nl
 https://etender.dnb.nl
 https://dgsa.dnb.nl
 https://dnb.nl
@@ -1047,7 +1051,6 @@ https://securemail.dnb.nl
 http://registers.dnb.nl
 https://cocotoa.dnb.nl
 https://statistiek.api.dnb.nl
-http://federationa.dnb.nl
 https://statistiek.dnb.nl
 https://nieuws.dnb.nl
 https://www.toezicht.dnb.nl
@@ -1297,7 +1300,6 @@ https://effectiefarmoedebeleid.nl
 https://www.effectieveschuldhulp.nl
 https://effectieveschuldhulp.nl
 https://acc-dictu.eherkenning.nl
-https://creaim-etoegang-acc.sso.eherkenning.nl
 https://creaim-etoegang-pp.sso.eherkenning.nl
 https://creaim-etoegang.sso.eherkenning.nl
 https://digidentity-accept.sso.eherkenning.nl
@@ -2312,12 +2314,12 @@ https://status.kvk.nl
 https://zoeken.ondernemersplein.kvk.nl
 http://schemas.kvk.nl
 https://zoeken.kvk.nl
-https://regiodata.kvk.nl
+http://regiodata.kvk.nl
 https://www.regiodata.kvk.nl
-https://locatiescan.kvk.nl
-https://www.locatiescan.kvk.nl
-https://bedrijventeller.kvk.nl
-https://www.bedrijventeller.kvk.nl
+http://locatiescan.kvk.nl
+http://www.locatiescan.kvk.nl
+http://bedrijventeller.kvk.nl
+http://www.bedrijventeller.kvk.nl
 https://click.email.kvk.nl
 https://cia.staging.ondernemersplein.kvk.nl
 https://cmsgui.ondernemersplein.kvk.nl
@@ -2955,16 +2957,16 @@ https://nllabourauthority.nl
 https://mailings.noord-holland.nl
 https://apollo4.noord-holland.nl
 https://subsidies.noord-holland.nl
-https://meet.noord-holland.nl
+http://meet.noord-holland.nl
 https://data.noord-holland.nl
 http://zoeken.noord-holland.nl
-https://dataiku.noord-holland.nl
+http://dataiku.noord-holland.nl
 https://esm.noord-holland.nl
 https://api.data.noord-holland.nl
 https://statensite.noord-holland.nl
 https://formulieren.noord-holland.nl
 https://developer.noord-holland.nl
-https://design-node.datalab-prod.aws.noord-holland.nl
+http://design-node.datalab-prod.aws.noord-holland.nl
 https://geoapps2.noord-holland.nl
 https://leidraadlc.noord-holland.nl
 https://acc.subsidies.noord-holland.nl
@@ -2996,6 +2998,7 @@ https://dialin.noord-holland.nl
 http://ep.noord-holland.nl
 https://vacatures.noord-holland.nl
 https://bestanden.noord-holland.nl
+https://kennisportaalovk.noord-holland.nl
 http://ftps.noord-holland.nl
 https://lync.noord-holland.nl
 https://sip1.noord-holland.nl
@@ -3163,7 +3166,6 @@ https://oesorichtlijnen.nl
 https://acc-klas.oidji.nl
 https://feeds.oidji.nl
 https://keten.sophie.oidji.nl
-https://klas.oidji.nl
 https://opendata.oidji.nl
 https://sophie.oidji.nl
 https://www.oidji.nl
@@ -3243,7 +3245,6 @@ https://feeds.onswater.nl
 https://opendata.onswater.nl
 https://www.onswater.nl
 https://onswater.nl
-https://pvs.oostvaarderskliniek.nl
 https://feeds.oostvaarderskliniek.nl
 https://oostvaarderskliniek.nl
 https://opendata.oostvaarderskliniek.nl
@@ -3810,6 +3811,8 @@ https://www.regiosaandegrens.nl
 https://opendata.regiosaandegrens.nl
 https://feeds.regiosaandegrens.nl
 https://regiosaandegrens.nl
+https://www.registerdirecteur.nl
+https://registerdirecteur.nl
 https://behandel.registersocialehygiene.nl
 https://zoeken.registersocialehygiene.nl
 https://acceptatie.mijn.registersocialehygiene.nl
@@ -3825,6 +3828,7 @@ https://regulatoryscience.nl
 https://www.rekenhulptransitievergoeding.nl
 https://rekenhulptransitievergoeding.nl
 https://rekenkamer.nl
+https://coronarekening.rekenkamer.nl
 https://english.rekenkamer.nl
 https://feeds.english.rekenkamer.nl
 https://feeds.rekenkamer.nl
@@ -3843,7 +3847,6 @@ https://riec.nl
 https://advies.rijksacademie.nl
 https://feeds.rijksacademie.nl
 https://helpdesk.rijksacademie.nl
-https://infoscherm.rijksacademie.nl
 https://leren.rijksacademie.nl
 https://nieuwsbrief.rijksacademie.nl
 https://opendata.rijksacademie.nl
@@ -3936,7 +3939,6 @@ https://prikkenzonderafspraak.rijksoverheid.nl
 https://quarantainecheck.rijksoverheid.nl
 https://quarantaineverklaring.rijksoverheid.nl
 https://redir.rijksoverheid.nl
-https://reizentijdenscorona.rijksoverheid.nl
 https://rss.persberichten.rijksoverheid.nl
 https://static.rijksoverheid.nl
 https://statistiek.rijksoverheid.nl
@@ -4167,7 +4169,7 @@ http://eurgen-net.rivm.nl
 http://ewrs.rivm.nl
 http://ewrs-oud.rivm.nl
 https://expertrolesqsort.rivm.nl
-http://ezips.rivm.nl
+https://ezips.rivm.nl
 https://ezips-app.rivm.nl
 https://filesender.rivm.nl
 https://filesender01.rivm.nl
@@ -4458,6 +4460,7 @@ http://energielabel-checker.rvo.nl
 http://ezines.rvo.nl
 https://kennisbank-acc.rvo.nl
 https://gtpa-acc.rvo.nl
+https://handelsmissies.rvo.nl
 https://egeo.rvo.nl
 https://rvo.nl
 https://aoep-iam.rvo.nl

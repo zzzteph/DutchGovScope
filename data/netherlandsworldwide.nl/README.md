@@ -21,10 +21,6 @@
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[https://preview.netherlandsworldwide.nl](https://preview.netherlandsworldwide.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
-
-
 |[https://www.netherlandsworldwide.nl](https://www.netherlandsworldwide.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |Bloomreach HSTS HTTP/3|Home | Netherlan...|
-
-
 |[https://netherlandsworldwide.nl](https://netherlandsworldwide.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS HTTP/3||
 

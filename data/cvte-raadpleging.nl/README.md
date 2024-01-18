@@ -21,16 +21,8 @@
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[https://2018.cvte-raadpleging.nl](https://2018.cvte-raadpleging.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |HSTS Nginx|404 Not Found|
-
-
 |[https://nieuwsbrief.cvte-raadpleging.nl](https://nieuwsbrief.cvte-raadpleging.nl)| | **E**|| | | | | | | | :white_check_mark: | ||404 Not Found|
-
-
 |[https://www.cvte-raadpleging.nl](https://www.cvte-raadpleging.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |HSTS Nginx|404 Not Found|
-
-
 |[https://cvte-raadpleging.nl](https://cvte-raadpleging.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |HSTS Nginx|404 Not Found|
-
-
 |[https://18.cvte-raadpleging.nl](https://18.cvte-raadpleging.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |HSTS Nginx|404 Not Found|
 

@@ -36,9 +36,9 @@ In the [`/data`](/data) directory, there's an analysis of security configuration
  - **CORS:** :white_check_mark: if *CORS* header is set without issues (+10)
 ## Repository Structure
  - [domains.txt](/domains.txt): List of all domains in scope
- - [subdomains.txt](/subdomains.txt): Detailed list of **16336** alive subdomains.
- - [urls.txt](/urls.txt): Compilation of **10055** URLs.
- - [all_subdomains.txt](/all_subdomains.txt): All **32198** subdomains that were found all over the time 
+ - [subdomains.txt](/subdomains.txt): Detailed list of **16330** alive subdomains.
+ - [urls.txt](/urls.txt): Compilation of **10056** URLs.
+ - [all_subdomains.txt](/all_subdomains.txt): All **32208** subdomains that were found all over the time 
  - [/data](/data): Folder containing daily updated analysis for every domain.
 ## Links and acknowledgements
  - [basisbeveiliging.nl](https://basisbeveiliging.nl/) \- *How well the Dutch government implements basic security requirements with great security map!*

@@ -21,7 +21,5 @@
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[https://www.onderwijsinderegioincijfers.nl](https://www.onderwijsinderegioincijfers.nl)| | **C**|Apache/2| |:white_check_mark: | | | | | | :white_check_mark: | |Apache HTTP Server:2 HSTS|301 Moved Perman...|
-
-
 |[https://onderwijsinderegioincijfers.nl](https://onderwijsinderegioincijfers.nl)| | **C**|Apache/2| |:white_check_mark: | | | | | | :white_check_mark: | |Apache HTTP Server:2 HSTS|301 Moved Perman...|
 

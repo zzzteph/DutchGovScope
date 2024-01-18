@@ -21,7 +21,5 @@
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[https://beoordelingarbeidsrelatie.nl](https://beoordelingarbeidsrelatie.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |Azure Azure Front Door HSTS|Beoordeling arbe...|
-
-
 |[https://www.beoordelingarbeidsrelatie.nl](https://www.beoordelingarbeidsrelatie.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |Azure Azure Front Door||
 

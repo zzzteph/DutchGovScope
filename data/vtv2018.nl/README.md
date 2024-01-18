@@ -21,13 +21,7 @@
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[http://acceptatie.vtv2018.nl](http://acceptatie.vtv2018.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
-
-
 |[http://test.vtv2018.nl](http://test.vtv2018.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
-
-
 |[https://www.vtv2018.nl](https://www.vtv2018.nl)| | **A**|Apache| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server Drupal HSTS PHP|Een gezond vooru...|
-
-
 |[https://vtv2018.nl](https://vtv2018.nl)| | **A**|Apache| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS|301 Moved Perman...|
 

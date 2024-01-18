@@ -24,7 +24,6 @@ https://prikkenzonderafspraak.rijksoverheid.nl
 https://quarantainecheck.rijksoverheid.nl
 https://quarantaineverklaring.rijksoverheid.nl
 https://redir.rijksoverheid.nl
-https://reizentijdenscorona.rijksoverheid.nl
 https://rss.persberichten.rijksoverheid.nl
 https://static.rijksoverheid.nl
 https://statistiek.rijksoverheid.nl

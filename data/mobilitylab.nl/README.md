@@ -21,7 +21,5 @@
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[https://www.mobilitylab.nl](https://www.mobilitylab.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx||
-
-
 |[https://mobilitylab.nl](https://mobilitylab.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |MySQL Nginx PHP Site Kit:1.106.0 WordPress|Mobility Lab - N...|
 

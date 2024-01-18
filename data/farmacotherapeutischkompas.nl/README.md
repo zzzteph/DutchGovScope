@@ -21,16 +21,8 @@
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[https://cms.farmacotherapeutischkompas.nl](https://cms.farmacotherapeutischkompas.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|403 Forbidden|
-
-
 |[https://proto.farmacotherapeutischkompas.nl](https://proto.farmacotherapeutischkompas.nl)| | **F**|GitHub.com| | | :warning:| | | | | :white_check_mark: | |Fastly GitHub Pages Varnish|Pharmacotherapeu...|
-
-
 |[https://www.farmacotherapeutischkompas.nl](https://www.farmacotherapeutischkompas.nl)| | **A**|Solvinity Server|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Java|Farmacotherapeut...|
-
-
 |[https://www-ac.farmacotherapeutischkompas.nl](https://www-ac.farmacotherapeutischkompas.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server Basic|401 Unauthorized|
-
-
 |[https://farmacotherapeutischkompas.nl](https://farmacotherapeutischkompas.nl)| | **A**|Apache|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS|301 Moved Perman...|
 

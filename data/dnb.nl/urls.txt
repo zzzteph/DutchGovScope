@@ -5,7 +5,6 @@ https://toezicht.dnb.nl
 https://nieuwsapp.dnb.nl
 https://www.cn.dnb.nl
 https://muntvondsten.dnb.nl
-http://federation.dnb.nl
 https://etender.dnb.nl
 https://dgsa.dnb.nl
 https://dnb.nl
@@ -15,7 +14,6 @@ https://securemail.dnb.nl
 http://registers.dnb.nl
 https://cocotoa.dnb.nl
 https://statistiek.api.dnb.nl
-http://federationa.dnb.nl
 https://statistiek.dnb.nl
 https://nieuws.dnb.nl
 https://www.toezicht.dnb.nl

@@ -21,10 +21,6 @@
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[https://www.gezondeleefomgeving.nl](https://www.gezondeleefomgeving.nl)| | **A**|Apache| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server Drupal HSTS PHP|Home | Gezonde L...|
-
-
 |[https://gezondeleefomgeving.nl](https://gezondeleefomgeving.nl)| | **A**|Apache| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS|301 Moved Perman...|
-
-
 |[http://bibliotheek.gezondeleefomgeving.nl](http://bibliotheek.gezondeleefomgeving.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 

@@ -1,4 +1,3 @@
-https://pvs.oostvaarderskliniek.nl
 https://feeds.oostvaarderskliniek.nl
 https://oostvaarderskliniek.nl
 https://opendata.oostvaarderskliniek.nl

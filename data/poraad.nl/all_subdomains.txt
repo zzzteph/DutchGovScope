@@ -38,3 +38,5 @@ poraad.nl
 eerstkiezen.poraad.nl
 oud.poraad.nl
 sectorrapportage2022.poraad.nl
+www.cijfers-acc.poraad.nl
+www.cijfers.poraad.nl

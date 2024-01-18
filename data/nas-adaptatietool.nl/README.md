@@ -21,7 +21,5 @@
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[http://www.nas-adaptatietool.nl](http://www.nas-adaptatietool.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
-
-
 |[https://nas-adaptatietool.nl](https://nas-adaptatietool.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|NAS adaptatietoo...|
 

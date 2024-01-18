@@ -1,5 +1,4 @@
 https://acc-dictu.eherkenning.nl
-https://creaim-etoegang-acc.sso.eherkenning.nl
 https://creaim-etoegang-pp.sso.eherkenning.nl
 https://creaim-etoegang.sso.eherkenning.nl
 https://digidentity-accept.sso.eherkenning.nl

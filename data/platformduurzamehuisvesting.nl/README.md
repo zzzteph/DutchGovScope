@@ -21,37 +21,15 @@
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[https://dev.platformduurzamehuisvesting.nl](https://dev.platformduurzamehuisvesting.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server Basic|401 Unauthorized|
-
-
 |[https://dev-evo.platformduurzamehuisvesting.nl](https://dev-evo.platformduurzamehuisvesting.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server Basic|401 Unauthorized|
-
-
 |[https://energieke-vastgoedorganisaties.platformduurzamehuisvesting.nl](https://energieke-vastgoedorganisaties.platformduurzamehuisvesting.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server Basic|401 Unauthorized|
-
-
 |[https://evo.platformduurzamehuisvesting.nl](https://evo.platformduurzamehuisvesting.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server Basic|401 Unauthorized|
-
-
 |[https://hostmaster.platformduurzamehuisvesting.nl](https://hostmaster.platformduurzamehuisvesting.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server||
-
-
 |[https://imap.platformduurzamehuisvesting.nl](https://imap.platformduurzamehuisvesting.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|Welcome!|
-
-
 |[https://kompasenergiewetgeving.platformduurzamehuisvesting.nl](https://kompasenergiewetgeving.platformduurzamehuisvesting.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|Platform Duurzam...|
-
-
 |[https://mail.platformduurzamehuisvesting.nl](https://mail.platformduurzamehuisvesting.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|Welcome!|
-
-
 |[https://smtp.platformduurzamehuisvesting.nl](https://smtp.platformduurzamehuisvesting.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|Welcome!|
-
-
 |[https://www.platformduurzamehuisvesting.nl](https://www.platformduurzamehuisvesting.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server MySQL PHP Site Kit:1.116.0 Slider Revolution:6.6.19 WordPress:6.4.2 wpBakery|Platform Duurzam...|
-
-
 |[https://speeltuin.platformduurzamehuisvesting.nl](https://speeltuin.platformduurzamehuisvesting.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server||
-
-
 |[https://platformduurzamehuisvesting.nl](https://platformduurzamehuisvesting.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server||
 

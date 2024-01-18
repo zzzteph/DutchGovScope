@@ -4975,6 +4975,7 @@ mijnpgb.nl
 toeslagen.mijntoeslagen.nl
 mijntoeslagen.nl
 www.mijntoeslagen.nl
+webmail.mijntoeslagen.nl
 www.mijnverblijfsdocument.nl
 mijnverblijfsdocument.nl
 www.mijnvraagovercorona.nl
@@ -9149,9 +9150,6 @@ fed.toeslagen.nl
 fed01.acc.toeslagen.nl
 www8.toeslagen.nl
 b2btest.toeslagen.nl
-b2btest-osb.toeslagen.nl
-mijn-acc2.toeslagen.nl
-mijn-acc3.toeslagen.nl
 mijn-acc4.toeslagen.nl
 gtmt-xt.tst.toeslagen.nl
 mijn-xt.tst.toeslagen.nl
@@ -10671,14 +10669,10 @@ kaarten.hdsr.nl
 begrippen.hdsr.nl
 zaaksysteem-acc.hdsr.nl
 zoeken.hdsr.nl
-uconnect-acc.hdsr.nl
 wsus.hdsr.nl
-remote-pa.hdsr.nl
-geoservices.hdsr.nl
 hdsr.nl
 kantoor.hdsr.nl
 intranet.ad.hdsr.nl
-digikoppeling.hdsr.nl
 adfs.vallei-veluwe.nl
 mx1.vallei-veluwe.nl
 geoportaal.vallei-veluwe.nl

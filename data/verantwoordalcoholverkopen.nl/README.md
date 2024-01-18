@@ -21,7 +21,5 @@
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[https://www.verantwoordalcoholverkopen.nl](https://www.verantwoordalcoholverkopen.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|301 Moved Perman...|
-
-
 |[https://verantwoordalcoholverkopen.nl](https://verantwoordalcoholverkopen.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Bootstrap Nginx|Verantwoord alco...|
 

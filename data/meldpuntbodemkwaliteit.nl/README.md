@@ -21,13 +21,7 @@
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[https://acceptatie.meldpuntbodemkwaliteit.nl](https://acceptatie.meldpuntbodemkwaliteit.nl)| | **A**||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET|Redirecting...|
-
-
 |[https://test.meldpuntbodemkwaliteit.nl](https://test.meldpuntbodemkwaliteit.nl)| | **A**||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET|Redirecting...|
-
-
 |[https://www.meldpuntbodemkwaliteit.nl](https://www.meldpuntbodemkwaliteit.nl)| | **A**||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
-
-
 |[https://meldpuntbodemkwaliteit.nl](https://meldpuntbodemkwaliteit.nl)| | **A**||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET|Redirecting...|
 

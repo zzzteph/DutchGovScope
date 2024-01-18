@@ -19,3 +19,4 @@ opendata.jaarverantwoordingzorg.nl
 opendata.english.jaarverantwoordingzorg.nl
 www.jaarverantwoordingzorg.nl
 jaarverantwoordingzorg.nl
+resultaten-toegankelijkheidsonderzoek-www.jaarverantwoordingzorg.nl

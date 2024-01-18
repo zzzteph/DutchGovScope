@@ -1,16 +1,16 @@
 https://mailings.noord-holland.nl
 https://apollo4.noord-holland.nl
 https://subsidies.noord-holland.nl
-https://meet.noord-holland.nl
+http://meet.noord-holland.nl
 https://data.noord-holland.nl
 http://zoeken.noord-holland.nl
-https://dataiku.noord-holland.nl
+http://dataiku.noord-holland.nl
 https://esm.noord-holland.nl
 https://api.data.noord-holland.nl
 https://statensite.noord-holland.nl
 https://formulieren.noord-holland.nl
 https://developer.noord-holland.nl
-https://design-node.datalab-prod.aws.noord-holland.nl
+http://design-node.datalab-prod.aws.noord-holland.nl
 https://geoapps2.noord-holland.nl
 https://leidraadlc.noord-holland.nl
 https://acc.subsidies.noord-holland.nl
@@ -42,6 +42,7 @@ https://dialin.noord-holland.nl
 http://ep.noord-holland.nl
 https://vacatures.noord-holland.nl
 https://bestanden.noord-holland.nl
+https://kennisportaalovk.noord-holland.nl
 http://ftps.noord-holland.nl
 https://lync.noord-holland.nl
 https://sip1.noord-holland.nl

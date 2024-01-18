@@ -21,10 +21,6 @@
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[https://storybook.nldesignsystem.nl](https://storybook.nldesignsystem.nl)| | **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Nginx Plesk|Storybook - NL D...|
-
-
 |[https://www.nldesignsystem.nl](https://www.nldesignsystem.nl)| | **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |Docusaurus:3.1.0 HSTS Nginx Plesk React Webpack|NL Design System...|
-
-
 |[https://nldesignsystem.nl](https://nldesignsystem.nl)| | **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |Docusaurus:3.1.0 HSTS Nginx Plesk React Webpack|NL Design System...|
 
