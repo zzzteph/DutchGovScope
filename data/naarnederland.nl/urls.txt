@@ -1,4 +1,3 @@
-http://cdn.naarnederland.nl
 http://mail.naarnederland.nl
 https://www.naarnederland.nl
 https://naarnederland.nl

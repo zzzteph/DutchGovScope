@@ -20,10 +20,10 @@
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://opendata.stelselcatalogus.nl](https://opendata.stelselcatalogus.nl)| | **F**|nginx/1.14.1| | | | | | | | :white_check_mark: | |HSTS Nginx:1.14.1|Logius Stelselca...|
-|[https://preprod.stelselcatalogus.nl](https://preprod.stelselcatalogus.nl)| | **A**|nginx/1.24.0| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx:1.24.0|Logius Stelselca...|
-|[https://preprod.opendata.stelselcatalogus.nl](https://preprod.opendata.stelselcatalogus.nl)| | **A**|nginx/1.24.0| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx:1.24.0|Logius Stelselca...|
-|[https://www.stelselcatalogus.nl](https://www.stelselcatalogus.nl)| | **A**|nginx/1.14.1| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx:1.14.1|Logius Stelselca...|
-|[https://stelselcatalogus.nl](https://stelselcatalogus.nl)| | **A**|nginx/1.14.1| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx:1.14.1|Logius Stelselca...|
+|[https://opendata.stelselcatalogus.nl](https://opendata.stelselcatalogus.nl)| | **F**|Stelselcatalogus| | | | | | | | :white_check_mark: | |HSTS|Logius Stelselca...|
+|[https://preprod.stelselcatalogus.nl](https://preprod.stelselcatalogus.nl)| | **A**|Stelselcatalogus| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Logius Stelselca...|
+|[https://preprod.opendata.stelselcatalogus.nl](https://preprod.opendata.stelselcatalogus.nl)| | **A**|Stelselcatalogus| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Logius Stelselca...|
+|[https://www.stelselcatalogus.nl](https://www.stelselcatalogus.nl)| | **A**|Stelselcatalogus| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Logius Stelselca...|
+|[https://stelselcatalogus.nl](https://stelselcatalogus.nl)| | **A**|Stelselcatalogus| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Logius Stelselca...|
 |[http://digitaleoverheid.stelselcatalogus.nl](http://digitaleoverheid.stelselcatalogus.nl)| | **C**|| | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | ||404 - Not Found|
 

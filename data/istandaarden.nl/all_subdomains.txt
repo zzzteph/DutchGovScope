@@ -26,3 +26,6 @@ registry.acceptatie.istandaarden.nl
 repository.acceptatie.istandaarden.nl
 vs-www.istandaarden.nl
 vs-www-ac.istandaarden.nl
+www-acc.istandaarden.nl
+www-dev.istandaarden.nl
+www-tst.istandaarden.nl

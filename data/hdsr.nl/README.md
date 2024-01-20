@@ -10,9 +10,9 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/hdsr.nl/subdomains.txt)|28|Alive subdomains|
+|[subdomains.txt](/data/hdsr.nl/subdomains.txt)|33|Alive subdomains|
 |[urls.txt](/data/hdsr.nl/urls.txt)|29|Urls|
-|[all_subdomains.txt](/data/hdsr.nl/all_subdomains.txt)|108|All found subdomains (history)|
+|[all_subdomains.txt](/data/hdsr.nl/all_subdomains.txt)|109|All found subdomains (history)|
 
 
 ## Statistics
@@ -44,7 +44,7 @@
 |[http://zoeken.hdsr.nl](http://zoeken.hdsr.nl)| | **F**|-| | | | | | | | :white_check_mark: | |Microsoft ASP.NET:-|Document Moved|
 |[https://uconnect-acc.hdsr.nl](https://uconnect-acc.hdsr.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|403 Forbidden|
 |[https://wsus.hdsr.nl](https://wsus.hdsr.nl)| | **A**|xxxx|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Java|User Portal|
-|[https://remote-pa.hdsr.nl](https://remote-pa.hdsr.nl)| | **F**|xxxxxxxx-xxxxx| | | | | | | | :white_check_mark: | |HSTS||
+|[https://remote-pa.hdsr.nl](https://remote-pa.hdsr.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||
 |[https://geoservices.hdsr.nl](https://geoservices.hdsr.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server Microsoft ASP.NET|IIS Windows Serv...|
 |[https://hdsr.nl](https://hdsr.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:-|Object moved|
 |[https://kantoor.hdsr.nl](https://kantoor.hdsr.nl)| | **A**|xxxx|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Java|User Portal|

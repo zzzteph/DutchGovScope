@@ -5,13 +5,13 @@
 
 
  - **SSL Grade**:A+
- - **HTTP Security Grade**:C
+ - **HTTP Security Grade**:B
 
 
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/eherkenning.nl/subdomains.txt)|33|Alive subdomains|
-|[urls.txt](/data/eherkenning.nl/urls.txt)|25|Urls|
+|[urls.txt](/data/eherkenning.nl/urls.txt)|24|Urls|
 |[all_subdomains.txt](/data/eherkenning.nl/all_subdomains.txt)|77|All found subdomains (history)|
 
 
@@ -21,7 +21,6 @@
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[https://acc-dictu.eherkenning.nl](https://acc-dictu.eherkenning.nl)| **A**| **F**|nginx| | | | | | | | :white_check_mark: | |Basic Nginx|401 Authorizatio...|
-|[https://creaim-etoegang-pp.sso.eherkenning.nl](https://creaim-etoegang-pp.sso.eherkenning.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|KPN IDentity Ser...|
 |[https://creaim-etoegang.sso.eherkenning.nl](https://creaim-etoegang.sso.eherkenning.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|KPN IDentity Ser...|
 |[https://digidentity-accept.sso.eherkenning.nl](https://digidentity-accept.sso.eherkenning.nl)| **A+**| **E**|| | | | | | | | :white_check_mark: | |HSTS||
 |[https://digidentity-preproduction.sso.eherkenning.nl](https://digidentity-preproduction.sso.eherkenning.nl)| **A+**| **E**|| | | | | | | | :white_check_mark: | |HSTS||

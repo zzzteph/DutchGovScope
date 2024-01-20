@@ -89,3 +89,4 @@ wordpress-sample.nationaalarchief.nl
 autodiscover.nationaalarchief.nl
 graphdb.nationaalarchief.nl
 www.ted.nationaalarchief.nl
+matomo.nationaalarchief.nl

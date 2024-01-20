@@ -137,6 +137,7 @@ https://storing.cbs.nl
 https://sts.cbs.nl
 https://surveys.cbs.nl
 https://tabi.cbs.nl
+https://taxonomie.cbs.nl
 https://test.cerberus.cbs.nl
 https://testchat.cbs.nl
 https://testlogin.cbs.nl
@@ -147,12 +148,14 @@ https://upload.cbs.nl
 https://veiligleveren.cbs.nl
 https://videoplatform.cbs.nl
 https://videos.cbs.nl
+https://vocabs.cbs.nl
 https://vpn1.cbs.nl
 https://webext.cbs.nl
 https://webserver.cbs.nl
 https://welkombij.cbs.nl
 https://werkplek.cbs.nl
 https://werkpleksso.cbs.nl
+https://werkplektest.cbs.nl
 https://www.cbs.nl
 https://www-acc.cbs.nl
 https://www-test.cbs.nl

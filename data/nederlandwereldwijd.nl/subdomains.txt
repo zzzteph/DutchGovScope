@@ -1,3 +1,4 @@
+a-api.nederlandwereldwijd.nl
 a-informatieservice.nederlandwereldwijd.nl
 acc.opendata.nederlandwereldwijd.nl
 api.nederlandwereldwijd.nl

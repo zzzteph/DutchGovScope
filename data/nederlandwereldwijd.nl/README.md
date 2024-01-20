@@ -10,7 +10,7 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/nederlandwereldwijd.nl/subdomains.txt)|14|Alive subdomains|
+|[subdomains.txt](/data/nederlandwereldwijd.nl/subdomains.txt)|15|Alive subdomains|
 |[urls.txt](/data/nederlandwereldwijd.nl/urls.txt)|12|Urls|
 |[all_subdomains.txt](/data/nederlandwereldwijd.nl/all_subdomains.txt)|26|All found subdomains (history)|
 

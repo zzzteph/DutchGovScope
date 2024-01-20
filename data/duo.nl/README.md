@@ -10,7 +10,7 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/duo.nl/subdomains.txt)|77|Alive subdomains|
+|[subdomains.txt](/data/duo.nl/subdomains.txt)|73|Alive subdomains|
 |[urls.txt](/data/duo.nl/urls.txt)|24|Urls|
 |[all_subdomains.txt](/data/duo.nl/all_subdomains.txt)|226|All found subdomains (history)|
 

@@ -12,7 +12,7 @@
 |------------|-------|------|
 |[subdomains.txt](/data/waardigheidentrots.nl/subdomains.txt)|4|Alive subdomains|
 |[urls.txt](/data/waardigheidentrots.nl/urls.txt)|4|Urls|
-|[all_subdomains.txt](/data/waardigheidentrots.nl/all_subdomains.txt)|13|All found subdomains (history)|
+|[all_subdomains.txt](/data/waardigheidentrots.nl/all_subdomains.txt)|14|All found subdomains (history)|
 
 
 ## Statistics

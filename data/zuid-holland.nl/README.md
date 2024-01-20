@@ -11,7 +11,7 @@
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/zuid-holland.nl/subdomains.txt)|72|Alive subdomains|
-|[urls.txt](/data/zuid-holland.nl/urls.txt)|69|Urls|
+|[urls.txt](/data/zuid-holland.nl/urls.txt)|68|Urls|
 |[all_subdomains.txt](/data/zuid-holland.nl/all_subdomains.txt)|133|All found subdomains (history)|
 
 
@@ -31,7 +31,6 @@
 |[https://css.openstad.zuid-holland.nl](https://css.openstad.zuid-holland.nl)| | **D**||:o: |:white_check_mark: | | | | | | :white_check_mark: | |Basic Express HSTS Node.js||
 |[https://vgr.zuid-holland.nl](https://vgr.zuid-holland.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Web App - Unavai...|
 |[https://geo.zuid-holland.nl](https://geo.zuid-holland.nl)| | **D**||:white_check_mark: |:white_check_mark: | :warning:| | | | | :white_check_mark: | |HSTS||
-|[https://slimmebruggen.zuid-holland.nl](https://slimmebruggen.zuid-holland.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Web App - Unavai...|
 |[https://staten.zuid-holland.nl](https://staten.zuid-holland.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:-|Object moved|
 |[https://ro.zuid-holland.nl](https://ro.zuid-holland.nl)| | **C**||:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|ro.zuid-holland....|
 |[https://inbeeld.zuid-holland.nl](https://inbeeld.zuid-holland.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||

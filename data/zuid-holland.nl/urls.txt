@@ -9,7 +9,6 @@ https://auth.openstad.zuid-holland.nl
 https://css.openstad.zuid-holland.nl
 https://vgr.zuid-holland.nl
 https://geo.zuid-holland.nl
-https://slimmebruggen.zuid-holland.nl
 https://staten.zuid-holland.nl
 https://ro.zuid-holland.nl
 https://inbeeld.zuid-holland.nl

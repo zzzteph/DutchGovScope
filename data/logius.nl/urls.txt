@@ -47,3 +47,4 @@ https://preprod-machtigen.digipoort.logius.nl
 https://logius.nl
 https://pmz.logius.nl
 https://pmz-pre.logius.nl
+http://portaal.digipoort.logius.nl

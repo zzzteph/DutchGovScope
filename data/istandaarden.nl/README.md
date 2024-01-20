@@ -12,7 +12,7 @@
 |------------|-------|------|
 |[subdomains.txt](/data/istandaarden.nl/subdomains.txt)|13|Alive subdomains|
 |[urls.txt](/data/istandaarden.nl/urls.txt)|13|Urls|
-|[all_subdomains.txt](/data/istandaarden.nl/all_subdomains.txt)|28|All found subdomains (history)|
+|[all_subdomains.txt](/data/istandaarden.nl/all_subdomains.txt)|31|All found subdomains (history)|
 
 
 ## Statistics

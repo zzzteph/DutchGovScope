@@ -25,8 +25,8 @@
 |[https://csotest.werkenbijdeoverheid.nl](https://csotest.werkenbijdeoverheid.nl)| | **D**|cloudflare|:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | |Basic Cloudflare HSTS|Authentication R...|
 |[http://csotest.vacaturebeheer.werkenbijdeoverheid.nl](http://csotest.vacaturebeheer.werkenbijdeoverheid.nl)| | **E**|cloudflare| | | | | | :white_check_mark: | | :white_check_mark: | |Cloudflare||
 |[http://helpdesk.werkenbijdeoverheid.nl](http://helpdesk.werkenbijdeoverheid.nl)| | **A**||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |||
-|[https://odc.werkenbijdeoverheid.nl](https://odc.werkenbijdeoverheid.nl)| | **B**|Apache|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS Java|Werken bij de Ov...|
-|[http://organisatiebeheer.werkenbijdeoverheid.nl](http://organisatiebeheer.werkenbijdeoverheid.nl)| | **B**||:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | |||
+|[https://odc.werkenbijdeoverheid.nl](https://odc.werkenbijdeoverheid.nl)| | **E**|| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS Java||
+|[http://organisatiebeheer.werkenbijdeoverheid.nl](http://organisatiebeheer.werkenbijdeoverheid.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://vacaturezoekservice.werkenbijdeoverheid.nl](https://vacaturezoekservice.werkenbijdeoverheid.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
 |[https://vacaturezoekservice-accept.werkenbijdeoverheid.nl](https://vacaturezoekservice-accept.werkenbijdeoverheid.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[http://vacaturezoekservice-test.werkenbijdeoverheid.nl](http://vacaturezoekservice-test.werkenbijdeoverheid.nl)| | **E**|| | | | | | | | :white_check_mark: | |||

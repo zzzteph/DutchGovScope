@@ -74,3 +74,5 @@ sv2000216.frd.ssonet.nl
 empic.ssonet.nl
 livepim.ssonet.nl
 storingsdienst.rgd.ssonet.nl
+test1.ssonet.nl
+test2.ssonet.nl

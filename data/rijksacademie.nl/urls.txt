@@ -1,6 +1,7 @@
 https://advies.rijksacademie.nl
 https://feeds.rijksacademie.nl
 https://helpdesk.rijksacademie.nl
+https://infoscherm.rijksacademie.nl
 https://leren.rijksacademie.nl
 https://nieuwsbrief.rijksacademie.nl
 https://opendata.rijksacademie.nl

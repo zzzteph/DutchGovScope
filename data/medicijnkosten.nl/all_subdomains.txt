@@ -7,3 +7,5 @@ andwww.medicijnkosten.nl
 medicijnkosten.nl
 www-dev.medicijnkosten.nl
 www-tst.medicijnkosten.nl
+www-acc.medicijnkosten.nl
+www-p.medicijnkosten.nl

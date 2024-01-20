@@ -31,7 +31,7 @@
 |[https://jobs.werkenvoornederland.nl](https://jobs.werkenvoornederland.nl)| | **B**|Apache|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server Bootstrap:3.4.1 HSTS Java|WenS|
 |[http://juristen.werkenvoornederland.nl](http://juristen.werkenvoornederland.nl)| | **A**||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |||
 |[https://magazines.werkenvoornederland.nl](https://magazines.werkenvoornederland.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Kiosk | Magazine...|
-|[http://odc.werkenvoornederland.nl](http://odc.werkenvoornederland.nl)| | **A**||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |||
+|[https://odc.werkenvoornederland.nl](https://odc.werkenvoornederland.nl)| | **E**|| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS Java||
 |[http://rijkstrainee.werkenvoornederland.nl](http://rijkstrainee.werkenvoornederland.nl)| | **A**||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |||
 |[http://rijkstrainees.werkenvoornederland.nl](http://rijkstrainees.werkenvoornederland.nl)| | **A**||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |||
 |[http://stagiairs.werkenvoornederland.nl](http://stagiairs.werkenvoornederland.nl)| | **A**||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |||

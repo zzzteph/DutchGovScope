@@ -10,3 +10,7 @@ www2.gipdatabank.nl
 www2-ac.gipdatabank.nl
 www2-hippo-ac.gipdatabank.nl
 gipdatabank.nl
+www-acc.gipdatabank.nl
+www-tst.gipdatabank.nl
+www-p.gipdatabank.nl
+www-dev.gipdatabank.nl

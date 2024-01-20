@@ -30,7 +30,7 @@
 |[https://huisstijl.brabant.nl](https://huisstijl.brabant.nl)| **A+**| **A**||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Google Tag Manager HSTS Microsoft ASP.NET Sitecore|Home - Huisstijl...|
 |[https://www-ontw.brabant.nl](https://www-ontw.brabant.nl)| **A**| **F**|BigIP|:o: | | | | | :white_check_mark: | | :white_check_mark: | |F5 BigIP||
 |[https://esb-acpt.brabant.nl](https://esb-acpt.brabant.nl)| **A**| **F**|BigIP| | | | | | | | :white_check_mark: | |F5 BigIP|The page cannot...|
-|[http://brain-ontw.brabant.nl](http://brain-ontw.brabant.nl)| **A**| **F**|BigIP|:o: | | | | | :white_check_mark: | | :white_check_mark: | |F5 BigIP||
+|[https://brain-ontw.brabant.nl](https://brain-ontw.brabant.nl)| **A**| **F**|BigIP|:o: | | | | | :white_check_mark: | | :white_check_mark: | |F5 BigIP||
 |[https://bbma.brabant.nl](https://bbma.brabant.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|Total Design - S...|
 |[https://webmail.brabant.nl](https://webmail.brabant.nl)| **A**| **A**||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |||
 |[https://api.brabant.nl](https://api.brabant.nl)| **A+**| **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|403 - Forbidden:...|

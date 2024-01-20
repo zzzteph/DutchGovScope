@@ -23,5 +23,5 @@
 |[https://feeds.academievoorinternationalebetrekkingen.nl](https://feeds.academievoorinternationalebetrekkingen.nl)| **A+**| **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://opendata.academievoorinternationalebetrekkingen.nl](https://opendata.academievoorinternationalebetrekkingen.nl)| **A+**| **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://www.academievoorinternationalebetrekkingen.nl](https://www.academievoorinternationalebetrekkingen.nl)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Home | Academie...|
-|[https://academievoorinternationalebetrekkingen.nl](https://academievoorinternationalebetrekkingen.nl)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
+|[https://academievoorinternationalebetrekkingen.nl](https://academievoorinternationalebetrekkingen.nl)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
 

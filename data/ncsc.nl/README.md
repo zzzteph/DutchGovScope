@@ -11,7 +11,7 @@
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/ncsc.nl/subdomains.txt)|47|Alive subdomains|
-|[urls.txt](/data/ncsc.nl/urls.txt)|25|Urls|
+|[urls.txt](/data/ncsc.nl/urls.txt)|26|Urls|
 |[all_subdomains.txt](/data/ncsc.nl/all_subdomains.txt)|90|All found subdomains (history)|
 
 
@@ -45,4 +45,5 @@
 |[https://acc.ncsc.nl](https://acc.ncsc.nl)| | **A**|none| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://api.mijn.acc.ncsc.nl](https://api.mijn.acc.ncsc.nl)| | **A**|none| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://mijn.acc.ncsc.nl](https://mijn.acc.ncsc.nl)| | **D**|none|:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
+|[https://vulnerabilities.ncsc.nl](https://vulnerabilities.ncsc.nl)| | **A**|none| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS|403 Forbidden|
 

@@ -10,7 +10,7 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/nationaalarchief.nl/subdomains.txt)|91|Alive subdomains|
+|[subdomains.txt](/data/nationaalarchief.nl/subdomains.txt)|92|Alive subdomains|
 |[urls.txt](/data/nationaalarchief.nl/urls.txt)|3|Urls|
 |[all_subdomains.txt](/data/nationaalarchief.nl/all_subdomains.txt)|183|All found subdomains (history)|
 

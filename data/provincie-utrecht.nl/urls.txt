@@ -62,7 +62,6 @@ https://a3-digitaal-t.provincie-utrecht.nl
 https://regiotramutrecht.provincie-utrecht.nl
 https://wortel175.provincie-utrecht.nl
 https://intranet.provincie-utrecht.nl
-https://webkaarttest.provincie-utrecht.nl
 https://innerweb.provincie-utrecht.nl
 https://logint.provincie-utrecht.nl
 https://plannenbank.provincie-utrecht.nl

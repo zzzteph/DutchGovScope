@@ -13,7 +13,7 @@ http://acceptatie.crm.nza.nl
 https://zorgproducten-acc.nza.nl
 https://nza-form1.nza.nl
 https://zorgvraagtypering.nza.nl
-https://mijn.nza.nl
+http://mijn.nza.nl
 https://www.nza.nl
 https://feeds.nza.nl
 https://zorgbeeld.nza.nl

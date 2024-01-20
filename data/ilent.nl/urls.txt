@@ -11,11 +11,9 @@ https://feeds.english.ilent.nl
 https://inspecteur.ilent.nl
 https://kc.ilent.nl
 https://magazines.ilent.nl
-https://meldingen.ilent.nl
 https://opendata.ilent.nl
 https://opendata.english.ilent.nl
 https://povv-poc.ilent.nl
-https://staging.meldingen.ilent.nl
 https://stc.ilent.nl
 https://wio.ilent.nl
 https://www.ilent.nl

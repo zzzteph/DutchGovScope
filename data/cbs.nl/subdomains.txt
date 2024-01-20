@@ -157,6 +157,7 @@ sbi.cbs.nl
 scheduler.cbs.nl
 sdmx.cbs.nl
 seg.cbs.nl
+sftp.cbs.nl
 sftp.test.cbs.nl
 sftp4dummies.cbs.nl
 spamfilter.cbs.nl

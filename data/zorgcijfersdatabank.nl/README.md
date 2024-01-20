@@ -12,7 +12,7 @@
 |------------|-------|------|
 |[subdomains.txt](/data/zorgcijfersdatabank.nl/subdomains.txt)|6|Alive subdomains|
 |[urls.txt](/data/zorgcijfersdatabank.nl/urls.txt)|4|Urls|
-|[all_subdomains.txt](/data/zorgcijfersdatabank.nl/all_subdomains.txt)|9|All found subdomains (history)|
+|[all_subdomains.txt](/data/zorgcijfersdatabank.nl/all_subdomains.txt)|13|All found subdomains (history)|
 
 
 ## Statistics

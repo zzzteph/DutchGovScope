@@ -153,3 +153,4 @@ knmi-inet.knmi.nl
 projects-new.knmi.nl
 origin.klimaatscenarios-data.knmi.nl
 anonymous.api.dataplatform.knmi.nl
+cms-origin.klimaatscenarios-data.knmi.nl

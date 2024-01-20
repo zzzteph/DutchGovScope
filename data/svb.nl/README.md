@@ -23,7 +23,7 @@
 |[https://rdsapplications03.svb.nl](https://rdsapplications03.svb.nl)| | **F**|Microsoft-IIS/10.0| | | | | | | | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server|IIS Windows Serv...|
 |[https://cmsintranet.svb.nl](https://cmsintranet.svb.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|403 - Forbidden:...|
 |[https://applicationstest.svb.nl](https://applicationstest.svb.nl)| | **F**|Microsoft-IIS/10.0| | | | | | | | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server|IIS Windows Serv...|
-|[https://gemeenten.svb.nl](https://gemeenten.svb.nl)| | **A**||:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
+|[https://gemeenten.svb.nl](https://gemeenten.svb.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[http://cb.entreepgb.svb.nl](http://cb.entreepgb.svb.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://secure5.svb.nl](https://secure5.svb.nl)| | **C**||:warning: |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS|Sociale Verzeker...|
 |[https://rdsapplications07.svb.nl](https://rdsapplications07.svb.nl)| | **F**|Microsoft-IIS/10.0| | | | | | | | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server|IIS Windows Serv...|
@@ -57,7 +57,7 @@
 |[https://rdsapplications05.svb.nl](https://rdsapplications05.svb.nl)| | **F**|Microsoft-IIS/10.0| | | | | | | | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server|IIS Windows Serv...|
 |[https://myprint.svb.nl](https://myprint.svb.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://desktop.entreepgb.svb.nl](https://desktop.entreepgb.svb.nl)| | **F**|Microsoft-IIS/10.0|:o: | | | | | :white_check_mark: | | :white_check_mark: | |IIS:10.0 Windows Server|Document Moved|
-|[https://events.svb.nl](https://events.svb.nl)| | **A**||:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Amazon S3 Amazon Web Services HSTS||
+|[https://events.svb.nl](https://events.svb.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Amazon S3 Amazon Web Services HSTS||
 |[https://app-t.svb.nl](https://app-t.svb.nl)| | **A**||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |||
 |[https://mijnpgb-siam.svb.nl](https://mijnpgb-siam.svb.nl)| | **B**||:warning: |:white_check_mark: | :warning:| |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|302 Found|
 |[http://www.entreepgb.svb.nl](http://www.entreepgb.svb.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
@@ -75,8 +75,8 @@
 |[https://mydev.svb.nl](https://mydev.svb.nl)| | **F**|Microsoft-IIS/10.0| | | | | | | | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server|IIS Windows Serv...|
 |[https://svb.nl](https://svb.nl)| | **A**||:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://mydesktop.svb.nl](https://mydesktop.svb.nl)| | **F**|Microsoft-IIS/10.0| | | | | | | | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server|IIS Windows Serv...|
-|[https://mta-a.svb.nl](https://mta-a.svb.nl)| | **B**|Microsoft-IIS/10.0|:warning: |:white_check_mark: | :warning:| | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Azure HSTS IIS:10.0 Windows Server|SVB MaakTeam|
-|[https://mta-p.svb.nl](https://mta-p.svb.nl)| | **B**|Microsoft-IIS/10.0|:warning: |:white_check_mark: | :warning:| | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Azure HSTS IIS:10.0 Windows Server|SVB MaakTeam|
+|[https://mta-a.svb.nl](https://mta-a.svb.nl)| | **B**|Microsoft-Azure-Application-Gateway/v2|:warning: |:white_check_mark: | :warning:| | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|502 Bad Gateway|
+|[https://mta-p.svb.nl](https://mta-p.svb.nl)| | **B**|Microsoft-Azure-Application-Gateway/v2|:warning: |:white_check_mark: | :warning:| | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|502 Bad Gateway|
 |[https://autodiscover.svb.nl](https://autodiscover.svb.nl)| | **B**|BigIP|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |F5 BigIP||
 |[https://mft-prd.svb.nl](https://mft-prd.svb.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Redirect|
 |[https://mijntpw.svb.nl](https://mijntpw.svb.nl)| | **B**||:warning: |:white_check_mark: | :warning:| |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|302 Found|

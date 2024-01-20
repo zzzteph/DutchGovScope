@@ -40,7 +40,7 @@
 |[https://sip001.justid.nl](https://sip001.justid.nl)| | **C**|RTC/7.0| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
 |[https://sip002.justid.nl](https://sip002.justid.nl)| | **C**|RTC/7.0| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
 |[https://tst-referentiegegevens.justid.nl](https://tst-referentiegegevens.justid.nl)| | **A**|Apache|:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS|A-Select Filter...|
-|[https://validatie.justid.nl](https://validatie.justid.nl)| | **C**|nginx|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Bootstrap:3.4.0 Django HSTS Nginx Python|Valideer uw docu...|
+|[https://validatie.justid.nl](https://validatie.justid.nl)| | **C**|nginx|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Bootstrap:5.0.2 Django HSTS Nginx Python|Valideer uw docu...|
 |[https://validatie-acc.justid.nl](https://validatie-acc.justid.nl)| | **C**|nginx|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Bootstrap:5.0.2 Django HSTS Nginx Python|Valideer uw docu...|
 |[https://werkplek.justid.nl](https://werkplek.justid.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Microsoft ASP.NET||
 |[https://www.justid.nl](https://www.justid.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Home | Justitiël...|

@@ -8,7 +8,7 @@ https://werkplek.brabant.nl
 https://huisstijl.brabant.nl
 https://www-ontw.brabant.nl
 https://esb-acpt.brabant.nl
-http://brain-ontw.brabant.nl
+https://brain-ontw.brabant.nl
 https://bbma.brabant.nl
 https://webmail.brabant.nl
 https://api.brabant.nl

@@ -21,7 +21,7 @@
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[https://acc.quarantinedeclaration.government.nl](https://acc.quarantinedeclaration.government.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS|302 Found|
-|[https://coronadashboard.government.nl](https://coronadashboard.government.nl)| **A+**| **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Azure Azure Front Door Fourthwall:prd-5482-76fadfb7d HSTS Next.js Node.js React Webpack|Coronavirus Dash...|
+|[https://coronadashboard.government.nl](https://coronadashboard.government.nl)| **A+**| **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Azure Azure Front Door Fourthwall:prd-5492-76fadfb7d HSTS Next.js Node.js React Webpack|Coronavirus Dash...|
 |[https://feeds.government.nl](https://feeds.government.nl)| **A+**| **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://magazines.government.nl](https://magazines.government.nl)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://opendata.government.nl](https://opendata.government.nl)| **A+**| **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||

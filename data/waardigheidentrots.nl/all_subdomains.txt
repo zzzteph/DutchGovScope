@@ -11,3 +11,4 @@ www.waardigheidentrots.nl
 www.registratie.waardigheidentrots.nl
 portaal.waardigheidentrots.nl
 waardigheidentrots.nl
+archief.waardigheidentrots.nl

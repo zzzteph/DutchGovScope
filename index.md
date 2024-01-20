@@ -35,10 +35,10 @@ This structured approach ensures that our repository is always up-to-date and ac
  - **FP:** :white_check_mark: if *Feature-Policy* header is set (+10)
  - **CORS:** :white_check_mark: if *CORS* header is set without issues (+10)
 ## Repository Structure
- - [domains.txt](/domains.txt): List of all domains in scope
- - [subdomains.txt](/subdomains.txt): Detailed list of **16330** alive subdomains.
- - [urls.txt](/urls.txt): Compilation of **10056** URLs.
- - [all_subdomains.txt](/all_subdomains.txt): All **32208** subdomains that were found all over the time 
+ - [domains.txt](/DutchGovScope/dutchgov/domains.txt): List of all domains in scope
+ - [subdomains.txt](/DutchGovScope/dutchgov/subdomains.txt): Detailed list of **16301** alive subdomains.
+ - [urls.txt](/DutchGovScope/dutchgov/urls.txt): Compilation of **10082** URLs.
+ - [all_subdomains.txt](/DutchGovScope/dutchgov/all_subdomains.txt): All **32242** subdomains that were found all over the time 
 ## Links and acknowledgements
  - [basisbeveiliging.nl](https://basisbeveiliging.nl/) \- *How well the Dutch government implements basic security requirements with great security map!*
  - [overheid.nl](https://www.overheid.nl/english/dutch-government-websites)
@@ -48,3 +48,4 @@ This structured approach ensures that our repository is always up-to-date and ac
  - [shrewdeye.app](https://shrewdeye.app)
  - [ssllabs.com/ssltest](https://www.ssllabs.com/ssltest/)
  - [securityheaders.com](https://securityheaders.com/)
+ - [NCSC HOF](https://www.ncsc.nl/contact/kwetsbaarheid-melden/wall-of-fame)

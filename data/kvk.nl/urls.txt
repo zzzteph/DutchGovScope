@@ -41,12 +41,12 @@ https://status.kvk.nl
 https://zoeken.ondernemersplein.kvk.nl
 http://schemas.kvk.nl
 https://zoeken.kvk.nl
-http://regiodata.kvk.nl
+https://regiodata.kvk.nl
 https://www.regiodata.kvk.nl
-http://locatiescan.kvk.nl
-http://www.locatiescan.kvk.nl
-http://bedrijventeller.kvk.nl
-http://www.bedrijventeller.kvk.nl
+https://locatiescan.kvk.nl
+https://www.locatiescan.kvk.nl
+https://bedrijventeller.kvk.nl
+https://www.bedrijventeller.kvk.nl
 https://click.email.kvk.nl
 https://cia.staging.ondernemersplein.kvk.nl
 https://cmsgui.ondernemersplein.kvk.nl

@@ -48,7 +48,6 @@ dev-developer-portal-management.data-exchange.consular.mfaservices.nl
 dev-developer-portal.data-exchange.consular.mfaservices.nl
 dev-insights.mfaservices.nl
 dev-reftool-portal.consular.mfaservices.nl
-dev.api-developer.brp.mfaservices.nl
 dev.api.brp.mfaservices.nl
 dev.consular.mfaservices.nl
 dev.consular-service.consular.mfaservices.nl

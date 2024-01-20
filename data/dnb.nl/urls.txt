@@ -36,7 +36,6 @@ https://api-staging.management.dnb.nl
 https://paymenthub-acc.dnb.nl
 https://api-mockapp-dev.dnb.nl
 https://mijntoezicht.azure.dnb.nl
-https://mijnresolutie-tst.azure.dnb.nl
 https://riks.azure.dnb.nl
 https://mijntoezicht-acc.azure.dnb.nl
 https://stepui-dev.azure.dnb.nl

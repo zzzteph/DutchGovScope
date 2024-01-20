@@ -1030,3 +1030,9 @@ www.cio-tst.overheid.nl
 www.renvooiservice-acc.overheid.nl
 www.renvooiservice-tst.overheid.nl
 stubs.lpc.mijn.overheid.nl
+elgeving.overheid.nl
+recht.overheid.nl
+decentrale.regel-geving.overheid.nl
+decentrale.reqelaevinq.overheid.nl
+richtlijnen.overheid.nl
+testcvdr.overheid.nl

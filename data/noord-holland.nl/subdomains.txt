@@ -25,10 +25,8 @@ leidraadlc.noord-holland.nl
 acc.subsidies.noord-holland.nl
 fiori-srm.noord-holland.nl
 geoservices2.noord-holland.nl
-wwwredactietest.noord-holland.nl
 geoapps4.noord-holland.nl
 owas.noord-holland.nl
-pvkontakttest.noord-holland.nl
 mail.noord-holland.nl
 acc.mijnsubsidie.noord-holland.nl
 portal-bs.noord-holland.nl
@@ -44,7 +42,6 @@ automation-node.datalab-prod.aws.noord-holland.nl
 geoapps.noord-holland.nl
 lyncdiscover.noord-holland.nl
 cag.noord-holland.nl
-statensitetest.noord-holland.nl
 autodiscover.noord-holland.nl
 geoapps3.noord-holland.nl
 qep.noord-holland.nl

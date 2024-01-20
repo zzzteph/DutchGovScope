@@ -25,5 +25,5 @@
 |[https://acc.rtlnieuws.nl](https://acc.rtlnieuws.nl)| | **F**|AkamaiGHost| | | | | | | | :white_check_mark: | |Basic|Access Denied|
 |[https://acc-beta.rtlnieuws.nl](https://acc-beta.rtlnieuws.nl)| | **F**|AkamaiGHost| | | | | | | | :white_check_mark: | |Basic|Access Denied|
 |[https://sso.rtlnieuws.nl](https://sso.rtlnieuws.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
-|[https://cookies.rtlnieuws.nl](https://cookies.rtlnieuws.nl)| | **F**|AkamaiGHost| | | | | | | | :white_check_mark: | ||Internal Server...|
+|[https://cookies.rtlnieuws.nl](https://cookies.rtlnieuws.nl)| | **F**|AkamaiGHost| | | | | | | | :white_check_mark: | ||Error|
 

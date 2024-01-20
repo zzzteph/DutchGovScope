@@ -10,7 +10,7 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/ez.nl/subdomains.txt)|19|Alive subdomains|
+|[subdomains.txt](/data/ez.nl/subdomains.txt)|20|Alive subdomains|
 |[urls.txt](/data/ez.nl/urls.txt)|17|Urls|
 |[all_subdomains.txt](/data/ez.nl/all_subdomains.txt)|133|All found subdomains (history)|
 
@@ -21,7 +21,7 @@
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[https://exportcontrole.ez.nl](https://exportcontrole.ez.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|403 Forbidden|
-|[https://wvaopgave.ez.nl](https://wvaopgave.ez.nl)| **B**| **D**||:o: |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|Object moved|
+|[http://wvaopgave.ez.nl](http://wvaopgave.ez.nl)| **B**| **D**||:o: |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
 |[https://dienstenrichtlijn.ez.nl](https://dienstenrichtlijn.ez.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|403 Forbidden|
 |[http://innovatie.ez.nl](http://innovatie.ez.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[http://breedband.ez.nl](http://breedband.ez.nl)| | **E**|| | | | | | | | :white_check_mark: | |||

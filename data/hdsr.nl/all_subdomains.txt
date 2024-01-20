@@ -106,3 +106,4 @@ securelogin.hdsr.nl
 vadp-cppm-pub.hdsr.nl
 vadp-cppm-sub.hdsr.nl
 vapd-coresync01.ad.hdsr.nl
+waterkwaliteitinbeeld.hdsr.nl

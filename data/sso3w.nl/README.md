@@ -33,7 +33,7 @@
 |[https://www.sso3w.nl](https://www.sso3w.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|WereldWijdWerken...|
 |[https://expenses.sso3w.nl](https://expenses.sso3w.nl)| | **F**|Google Frontend| | | | | | | | :white_check_mark: | |Google Cloud Google Cloud CDN HTTP/3|Yokoy|
 |[https://acc.expenses.sso3w.nl](https://acc.expenses.sso3w.nl)| | **F**|Google Frontend| | | | | | | | :white_check_mark: | |Google Cloud Google Cloud CDN HTTP/3|Yokoy|
-|[https://sso3w.nl](https://sso3w.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
+|[https://sso3w.nl](https://sso3w.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://cmv-kandidaat.sso3w.nl](https://cmv-kandidaat.sso3w.nl)| | **C**||:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | |Azure HSTS|BuZa 3W|
 |[https://prd.btp.sso3w.nl](https://prd.btp.sso3w.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
 |[https://acc.cmv-kandidaat.sso3w.nl](https://acc.cmv-kandidaat.sso3w.nl)| | **C**||:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | |Azure HSTS|BuZa 3W|

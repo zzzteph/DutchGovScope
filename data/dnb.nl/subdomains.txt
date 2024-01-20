@@ -75,7 +75,6 @@ mijn-api.dnb.nl
 umbracodev2.dnb.nl
 api-mockapp-dev.dnb.nl
 mijntoezicht.azure.dnb.nl
-mijnresolutie-tst.azure.dnb.nl
 sbc2.dnb.nl
 riks.azure.dnb.nl
 mijntoezicht-acc.azure.dnb.nl

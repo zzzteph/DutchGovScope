@@ -7,3 +7,7 @@ www-ts.zorgcijfersdatabank.nl
 www2-hippo-ac.zorgcijfersdatabank.nl
 proto.zorgcijfersdatabank.nl
 zorgcijfersdatabank.nl
+www-acc.zorgcijfersdatabank.nl
+www-tst.zorgcijfersdatabank.nl
+www-dev.zorgcijfersdatabank.nl
+www-p.zorgcijfersdatabank.nl

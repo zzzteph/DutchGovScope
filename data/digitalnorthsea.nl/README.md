@@ -11,7 +11,7 @@
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/digitalnorthsea.nl/subdomains.txt)|2|Alive subdomains|
-|[urls.txt](/data/digitalnorthsea.nl/urls.txt)|0|Urls|
+|[urls.txt](/data/digitalnorthsea.nl/urls.txt)|2|Urls|
 |[all_subdomains.txt](/data/digitalnorthsea.nl/all_subdomains.txt)|4|All found subdomains (history)|
 
 
@@ -20,4 +20,6 @@
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
+|[https://digitalnorthsea.nl](https://digitalnorthsea.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Alpine.js HSTS Nginx|Op weg naar een...|
+|[https://www.digitalnorthsea.nl](https://www.digitalnorthsea.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|301 Moved Perman...|
 
