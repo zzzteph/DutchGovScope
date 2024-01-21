@@ -35,7 +35,7 @@ This structured approach ensures that our repository is always up-to-date and ac
  - **FP:** :white_check_mark: if *Feature-Policy* header is set (+10)
  - **CORS:** :white_check_mark: if *CORS* header is set without issues (+10)
 ## Repository Structure
- - [domains.txt](/DutchGovScope/dutchgov/domains.txt): List of all domains in scope (1219)
+ - [domains.txt](/DutchGovScope/dutchgov/domains.txt): List of **1219** domains in scope
  - [subdomains.txt](/DutchGovScope/dutchgov/subdomains.txt): Detailed list of **16313** alive subdomains.
  - [urls.txt](/DutchGovScope/dutchgov/urls.txt): Compilation of **10068** URLs.
  - [all_subdomains.txt](/DutchGovScope/dutchgov/all_subdomains.txt): All **32243** subdomains that were found all over the time 

@@ -22,7 +22,7 @@
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[https://www.test.backtoroots.nioo.knaw.nl](https://www.test.backtoroots.nioo.knaw.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Basic Nginx|401 Authorizatio...|
 |[https://cdn.uat.backtoroots.nioo.knaw.nl](https://cdn.uat.backtoroots.nioo.knaw.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|502 Bad Gateway|
-|[https://vpn.nioo.knaw.nl](https://vpn.nioo.knaw.nl)| | **B**|nginx| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Drupal HSTS Nginx PHP Varnish:6.2|Redirecting to h...|
+|[https://vpn.nioo.knaw.nl](https://vpn.nioo.knaw.nl)| | **B**|nginx| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Drupal HSTS Nginx PHP Varnish|Redirecting to h...|
 |[https://www.webstats.uat.back2roots.nioo.knaw.nl](https://www.webstats.uat.back2roots.nioo.knaw.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|403 Forbidden|
 |[https://whoami.zandbak.dans.knaw.nl](https://whoami.zandbak.dans.knaw.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://webstats.uat.back2roots.nioo.knaw.nl](https://webstats.uat.back2roots.nioo.knaw.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|403 Forbidden|
