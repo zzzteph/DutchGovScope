@@ -35,15 +35,15 @@ In the [`/data`](/data) directory, there's an analysis of security configuration
  - **FP:** :white_check_mark: if *Feature-Policy* header is set (+10)
  - **CORS:** :white_check_mark: if *CORS* header is set without issues (+10)
 ## Repository Structure
- - [domains.txt](/dutchgov/domains.txt): List of all domains in scope
- - [subdomains.txt](/dutchgov/subdomains.txt): Detailed list of **16301** alive subdomains.
- - [urls.txt](/dutchgov/urls.txt): Compilation of **10082** URLs.
- - [all_subdomains.txt](/dutchgov/all_subdomains.txt): All **32242** subdomains that were found all over the time 
+ - [domains.txt](/dutchgov/domains.txt): List of all domains in scope (1219)
+ - [subdomains.txt](/dutchgov/subdomains.txt): Detailed list of **16313** alive subdomains.
+ - [urls.txt](/dutchgov/urls.txt): Compilation of **10068** URLs.
+ - [all_subdomains.txt](/dutchgov/all_subdomains.txt): All **32243** subdomains that were found all over the time 
  - [/data](/data): Folder containing daily updated analysis for every domain.
 ## Links and acknowledgements
  - [basisbeveiliging.nl](https://basisbeveiliging.nl/) \- *How well the Dutch government implements basic security requirements with great security map!*
  - [overheid.nl](https://www.overheid.nl/english/dutch-government-websites)
- - [random-robbie/f985ad14fede2c04ac82dd89653f52ad](https://https://gist.github.com/random-robbie/f985ad14fede2c04ac82dd89653f52ad)
+ - [random-robbie/f985ad14fede2c04ac82dd89653f52ad](https://gist.github.com/random-robbie/f985ad14fede2c04ac82dd89653f52ad)
  - [communicatierijk.nl](https://www.communicatierijk.nl/vakkennis/r/rijkswebsites/verplichte-richtlijnen/websiteregister-rijksoverheid)
  - [ncsc.nl](https://www.ncsc.nl/contact/kwetsbaarheid-melden/cvd-meldingen-formulier)
  - [shrewdeye.app](https://shrewdeye.app)

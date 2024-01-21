@@ -30,5 +30,5 @@
 |[https://kennisbank-tst.nationaalcoordinatorgroningen.nl](https://kennisbank-tst.nationaalcoordinatorgroningen.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
 |[https://opendata.nationaalcoordinatorgroningen.nl](https://opendata.nationaalcoordinatorgroningen.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://www.nationaalcoordinatorgroningen.nl](https://www.nationaalcoordinatorgroningen.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|NCG | Nationaal...|
-|[https://nationaalcoordinatorgroningen.nl](https://nationaalcoordinatorgroningen.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
+|[https://nationaalcoordinatorgroningen.nl](https://nationaalcoordinatorgroningen.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 

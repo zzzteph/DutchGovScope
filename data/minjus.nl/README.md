@@ -11,7 +11,7 @@
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/minjus.nl/subdomains.txt)|43|Alive subdomains|
-|[urls.txt](/data/minjus.nl/urls.txt)|21|Urls|
+|[urls.txt](/data/minjus.nl/urls.txt)|25|Urls|
 |[all_subdomains.txt](/data/minjus.nl/all_subdomains.txt)|443|All found subdomains (history)|
 
 
@@ -20,7 +20,10 @@
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
+|[https://dialin.acpt.dji.minjus.nl](https://dialin.acpt.dji.minjus.nl)| | **F**|Microsoft-IIS/10.0| | | | | | | | :white_check_mark: | |IIS:10.0 Windows Server|Runtime Error|
+|[https://lyncdiscover.acpt.dji.minjus.nl](https://lyncdiscover.acpt.dji.minjus.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://autodiscover.acpt.dji.minjus.nl](https://autodiscover.acpt.dji.minjus.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
+|[https://meet.dji.minjus.nl](https://meet.dji.minjus.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|Skype for Busine...|
 |[https://sfbrppool01.acpt.dji.minjus.nl](https://sfbrppool01.acpt.dji.minjus.nl)| | **C**|Microsoft-IIS/10.0| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS IIS:10.0 Windows Server|403 - Forbidden:...|
 |[https://sfbrppool01.dji.minjus.nl](https://sfbrppool01.dji.minjus.nl)| | **C**|Microsoft-IIS/10.0| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS IIS:10.0 Windows Server|403 - Forbidden:...|
 |[https://minjus.nl](https://minjus.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
@@ -38,6 +41,7 @@
 |[https://ews-prot.acpt.dji.minjus.nl](https://ews-prot.acpt.dji.minjus.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://lyncdiscover.dji.minjus.nl](https://lyncdiscover.dji.minjus.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://schedule.acpt.dji.minjus.nl](https://schedule.acpt.dji.minjus.nl)| | **C**|Microsoft-IIS/10.0| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS IIS:10.0 Windows Server|403 - Forbidden:...|
+|[https://meet.acpt.dji.minjus.nl](https://meet.acpt.dji.minjus.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|Skype for Busine...|
 |[https://sip003.dji.minjus.nl](https://sip003.dji.minjus.nl)| | **F**|RTC/6.0| | | | | | | | :white_check_mark: | |HSTS||
 |[https://schedule.dji.minjus.nl](https://schedule.dji.minjus.nl)| | **C**|Microsoft-IIS/10.0| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS IIS:10.0 Windows Server|403 - Forbidden:...|
 |[https://enterpriseenrollment.avt.minjus.nl](https://enterpriseenrollment.avt.minjus.nl)| | **C**|server| | | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | ||302 Found|

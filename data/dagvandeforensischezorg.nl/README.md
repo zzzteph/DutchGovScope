@@ -22,6 +22,6 @@
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[https://app.dagvandeforensischezorg.nl](https://app.dagvandeforensischezorg.nl)| | **B**|Apache/2|:white_check_mark: |:white_check_mark: | :warning:| |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server:2 Bootstrap HSTS|Spitz App|
 |[https://www.dagvandeforensischezorg.nl](https://www.dagvandeforensischezorg.nl)| | **A**|Apache/2|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server:2 Bootstrap HSTS|Home - Dag van d...|
-|[https://www.app.dagvandeforensischezorg.nl](https://www.app.dagvandeforensischezorg.nl)| | **A**|Apache/2|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server:2 Bootstrap HSTS|Home - Dag van d...|
+|[https://www.app.dagvandeforensischezorg.nl](https://www.app.dagvandeforensischezorg.nl)| | **A**|Apache/2|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server:2 HSTS|406 Not Acceptab...|
 |[https://dagvandeforensischezorg.nl](https://dagvandeforensischezorg.nl)| | **A**|Apache/2|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server:2 HSTS|301 Moved Perman...|
 

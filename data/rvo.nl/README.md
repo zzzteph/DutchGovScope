@@ -11,7 +11,7 @@
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/rvo.nl/subdomains.txt)|152|Alive subdomains|
-|[urls.txt](/data/rvo.nl/urls.txt)|95|Urls|
+|[urls.txt](/data/rvo.nl/urls.txt)|96|Urls|
 |[all_subdomains.txt](/data/rvo.nl/all_subdomains.txt)|271|All found subdomains (history)|
 
 
@@ -36,7 +36,7 @@
 |[https://cms.projects.rvo.nl](https://cms.projects.rvo.nl)| | **C**|nginx/1.24.0| |:white_check_mark: | | | | | | :white_check_mark: | |Basic HSTS Nginx:1.24.0|401 Authorizatio...|
 |[https://confluenceimg.rvo.nl](https://confluenceimg.rvo.nl)| | **C**||:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | |Atlassian Confluence HSTS Java||
 |[https://confluenceimg-acc.rvo.nl](https://confluenceimg-acc.rvo.nl)| | **E**|| | | | | | | | :white_check_mark: | |Atlassian Confluence HSTS Java||
-|[https://crowdtech.rvo.nl](https://crowdtech.rvo.nl)| | **A**|nginx| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|You received ema...|
+|[https://crowdtech.rvo.nl](https://crowdtech.rvo.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |HSTS Nginx|You received ema...|
 |[http://d7.rvo.nl](http://d7.rvo.nl)| | **C**|| | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | ||404 - Not Found|
 |[https://data.rvo.nl](https://data.rvo.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Drupal HSTS PHP Varnish||
 |[https://dcmp-upnl-idp.rvo.nl](https://dcmp-upnl-idp.rvo.nl)| | **C**||:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|404 Not Found|
@@ -60,7 +60,7 @@
 |[https://intra-cms-acc.rvo.nl](https://intra-cms-acc.rvo.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|403 - Forbidden:...|
 |[https://intranetvan.rvo.nl](https://intranetvan.rvo.nl)| | **C**||:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|302 Found|
 |[https://jiraimg.rvo.nl](https://jiraimg.rvo.nl)| | **C**||:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Java||
-|[https://jiraimg-acc.rvo.nl](https://jiraimg-acc.rvo.nl)| | **C**||:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Java||
+|[https://jiraimg-acc.rvo.nl](https://jiraimg-acc.rvo.nl)| | **C**||:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
 |[https://kennisdelen.rvo.nl](https://kennisdelen.rvo.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache Tomcat Fourthwall:1.0.0 HSTS Java MariaDB Skolengo:1.0.0|Kennisdelen RVO|
 |[https://kgr.mijn.rvo.nl](https://kgr.mijn.rvo.nl)| | **B**||:warning: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|MijnRVO.nl|
 |[https://kostenkentallen.rvo.nl](https://kostenkentallen.rvo.nl)| | **F**|cloudflare| | | | | | | | :white_check_mark: | |Cloudflare HSTS|Kostenkentallen...|
@@ -103,6 +103,7 @@
 |[http://ezines.rvo.nl](http://ezines.rvo.nl)| | **C**|| | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | ||404 - Not Found|
 |[https://kennisbank-acc.rvo.nl](https://kennisbank-acc.rvo.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS|403 Forbidden|
 |[https://gtpa-acc.rvo.nl](https://gtpa-acc.rvo.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS Oracle Dynamic Monitoring Service Oracle WebLogic Server|Error 404--Not F...|
+|[https://handelsmissies.rvo.nl](https://handelsmissies.rvo.nl)| | **F**|Apache/2.4.41 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.41 Ubuntu|Apache2 Ubuntu D...|
 |[https://egeo.rvo.nl](https://egeo.rvo.nl)| | **B**||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS Oracle Dynamic Monitoring Service Oracle WebLogic Server|Error 404--Not F...|
 |[https://rvo.nl](https://rvo.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | ||308 Permanent Re...|
 |[https://aoep-iam.rvo.nl](https://aoep-iam.rvo.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Verzoek afgeweze...|

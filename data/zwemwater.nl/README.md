@@ -25,7 +25,7 @@
 |[https://zwemwater.nl](https://zwemwater.nl)| | **B**|Apache| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS|301 Moved Perman...|
 |[https://nederlandwww.zwemwater.nl](https://nederlandwww.zwemwater.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
 |[https://ogcgeo.zwemwater.nl](https://ogcgeo.zwemwater.nl)| | **B**|Apache| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS||
-|[http://pubgeo.zwemwater.nl](http://pubgeo.zwemwater.nl)| | **C**|Apache| |:white_check_mark: | :warning:| | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server|302 Found|
+|[https://pubgeo.zwemwater.nl](https://pubgeo.zwemwater.nl)| | **C**|Apache| |:white_check_mark: | :warning:| | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS||
 |[https://register.zwemwater.nl](https://register.zwemwater.nl)| | **B**|Apache|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
 |[https://wwww.zwemwater.nl](https://wwww.zwemwater.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
 |[https://9986734www.zwemwater.nl](https://9986734www.zwemwater.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|

@@ -21,9 +21,7 @@ https://archief27.sitearchief.nl
 https://ind.sitearchief.nl
 https://archief51.sitearchief.nl
 https://coa.sitearchief.nl
-https://knmi.sitearchief.nl
 https://onderwijsraad.sitearchief.nl
-https://pbl.sitearchief.nl
 https://archief35.sitearchief.nl
 https://archief45.sitearchief.nl
 https://emissieautoriteit.sitearchief.nl
@@ -31,7 +29,6 @@ https://archief26.sitearchief.nl
 https://abx02.sitearchief.nl
 https://belastingdienst.sitearchief.nl
 https://cibg.sitearchief.nl
-https://igj.sitearchief.nl
 https://nza.sitearchief.nl
 https://archief48.sitearchief.nl
 https://archief29.sitearchief.nl
@@ -52,18 +49,13 @@ https://archief44.sitearchief.nl
 https://archief24.sitearchief.nl
 https://archief28.sitearchief.nl
 https://degezondheidsraad.sitearchief.nl
-https://minaz.sitearchief.nl
-https://minienw.sitearchief.nl
-https://minlnv.sitearchief.nl
 https://om.sitearchief.nl
 https://archief22.sitearchief.nl
 https://archief25.sitearchief.nl
 https://archief43.sitearchief.nl
 https://sitearchief.nl
 https://defensie.sitearchief.nl
-https://cvte.sitearchief.nl
 https://dictu.sitearchief.nl
 https://rijkswaterstaat.sitearchief.nl
 https://rvo.sitearchief.nl
-https://minezk.sitearchief.nl
 https://acm.sitearchief.nl

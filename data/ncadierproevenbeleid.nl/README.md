@@ -26,5 +26,5 @@
 |[https://opendata.ncadierproevenbeleid.nl](https://opendata.ncadierproevenbeleid.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://opendata.english.ncadierproevenbeleid.nl](https://opendata.english.ncadierproevenbeleid.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://www.ncadierproevenbeleid.nl](https://www.ncadierproevenbeleid.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Home | Nationaal...|
-|[https://ncadierproevenbeleid.nl](https://ncadierproevenbeleid.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
+|[https://ncadierproevenbeleid.nl](https://ncadierproevenbeleid.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
 

@@ -17,12 +17,10 @@ https://geoweb.hdsr.nl
 http://www1.hdsr.nl
 https://kennis.hdsr.nl
 https://kaarten.hdsr.nl
-https://begrippen.hdsr.nl
 https://zaaksysteem-acc.hdsr.nl
 http://zoeken.hdsr.nl
 https://uconnect-acc.hdsr.nl
 https://wsus.hdsr.nl
-https://remote-pa.hdsr.nl
 https://geoservices.hdsr.nl
 https://hdsr.nl
 https://kantoor.hdsr.nl

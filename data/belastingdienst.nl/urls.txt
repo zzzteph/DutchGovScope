@@ -1,5 +1,5 @@
 https://academie.belastingdienst.nl
-https://academie.acc.belastingdienst.nl
+http://academie.acc.belastingdienst.nl
 https://api.belastingdienst.nl
 https://api-ota.belastingdienst.nl
 https://beta.belastingdienst.nl
@@ -62,7 +62,7 @@ http://samenwerkruimten.belastingdienst.nl
 http://samenwerkruimten-acc.belastingdienst.nl
 http://samenwerkruimten-conf.belastingdienst.nl
 https://scheiden.belastingdienst.nl
-https://services.belastingdienst.nl
+http://services.belastingdienst.nl
 http://sharepoint-acc-ext.belastingdienst.nl
 http://sharepoint-ext.belastingdienst.nl
 http://sharepoint-ext-conf.belastingdienst.nl

@@ -15,3 +15,5 @@ static.aladdin.p-direkt.nl
 stats.aladdin.p-direkt.nl
 www.p-direkt.nl
 p-direkt.nl
+ndev.api.p-direkt.nl
+ndev.api-sec.p-direkt.nl

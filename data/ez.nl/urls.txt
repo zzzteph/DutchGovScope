@@ -1,5 +1,5 @@
 https://exportcontrole.ez.nl
-http://wvaopgave.ez.nl
+https://wvaopgave.ez.nl
 https://dienstenrichtlijn.ez.nl
 http://innovatie.ez.nl
 http://breedband.ez.nl

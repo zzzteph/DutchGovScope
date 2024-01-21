@@ -35,5 +35,5 @@
 |[https://testeloket.aaenmaas.nl](https://testeloket.aaenmaas.nl)| | **A**|unspecified|:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache Tomcat Fourthwall:1.0.191.039 Fourthwall:eloket_ui_main-2024.008.002 HSTS Java MariaDB Skolengo:1.0.191.039|Djuma portal|
 |[https://meet.aaenmaas.nl](https://meet.aaenmaas.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|Skype for Busine...|
 |[https://dialin.aaenmaas.nl](https://dialin.aaenmaas.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|Conferencing Dia...|
-|[https://eloket.aaenmaas.nl](https://eloket.aaenmaas.nl)| | **A**|unspecified|:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache Tomcat Fourthwall:1.0.190.041 Fourthwall:eloket_ui_main-2023.352.001 HSTS Java MariaDB Skolengo:1.0.190.041|Djuma portal|
+|[https://eloket.aaenmaas.nl](https://eloket.aaenmaas.nl)| | **A**|unspecified|:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache Tomcat Fourthwall:1.0.191.039 Fourthwall:eloket_ui_main-2024.008.002 HSTS Java MariaDB Skolengo:1.0.191.039|Djuma portal|
 

@@ -30,7 +30,7 @@
 |[https://mijn.rdi.nl](https://mijn.rdi.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS Java||
 |[https://identificatie.rdi.nl](https://identificatie.rdi.nl)| | **C**||:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
 |[https://radar.rdi.nl](https://radar.rdi.nl)| | **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Nginx|403 Forbidden|
-|[https://rdi.nl](https://rdi.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
+|[https://rdi.nl](https://rdi.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
 |[https://prod.radar.rdi.nl](https://prod.radar.rdi.nl)| | **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Nginx|403 Forbidden|
 |[https://callbook.rdi.nl](https://callbook.rdi.nl)| | **D**||:o: |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|Callbook|
 |[https://onderzoek.rdi.nl](https://onderzoek.rdi.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx Plesk|Onderzoekdoen.nl...|

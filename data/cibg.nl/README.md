@@ -51,11 +51,11 @@
 |[https://desktop.klopt.cibg.nl](https://desktop.klopt.cibg.nl)| **A**| **E**|| | | | | | | | :white_check_mark: | |PHP||
 |[http://digikoppeling.cibg.nl](http://digikoppeling.cibg.nl)| **F**| **E**|| | | | | | | | :white_check_mark: | |||
 |[http://digikoppeling-dcr.cibg.nl](http://digikoppeling-dcr.cibg.nl)| | **F**|BigIP| | | | | | | | :white_check_mark: | |F5 BigIP||
-|[http://digikoppeling2.cibg.nl](http://digikoppeling2.cibg.nl)| | **F**|BigIP| | | | | | | | :white_check_mark: | |F5 BigIP||
+|[https://digikoppeling2.cibg.nl](https://digikoppeling2.cibg.nl)| | **F**|-| | | | | | | | :white_check_mark: | |HSTS||
 |[https://eherkenning.services.cibg.nl](https://eherkenning.services.cibg.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS|302 Found|
 |[https://feeds.cibg.nl](https://feeds.cibg.nl)| **A+**| **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://forms.klopt.cibg.nl](https://forms.klopt.cibg.nl)| **A**| **E**|| | | | | | | | :white_check_mark: | ||404 Not Found|
-|[https://lir.cibg.nl](https://lir.cibg.nl)| **A**| **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
+|[https://lir.cibg.nl](https://lir.cibg.nl)| **A**| **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Landelijk Implan...|
 |[https://manager.klopt.cibg.nl](https://manager.klopt.cibg.nl)| **A**| **F**||:white_check_mark: | | | | | | | :white_check_mark: | |||
 |[https://meldingen.klopt.cibg.nl](https://meldingen.klopt.cibg.nl)| | **E**|| | | | | | | | :white_check_mark: | |Amazon ALB Amazon Web Services HSTS Microsoft ASP.NET|Object moved|
 |[https://opendata.cibg.nl](https://opendata.cibg.nl)| **A+**| **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
