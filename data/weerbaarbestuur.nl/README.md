@@ -20,6 +20,6 @@
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://www.weerbaarbestuur.nl](https://www.weerbaarbestuur.nl)| | **A**|Apache| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |Apache HTTP Server Drupal HSTS PHP|Home | Netwerk W...|
+|[https://www.weerbaarbestuur.nl](https://www.weerbaarbestuur.nl)| | **A**|Apache| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |Apache HTTP Server Drupal:8 HSTS PHP|Home | Netwerk W...|
 |[https://weerbaarbestuur.nl](https://weerbaarbestuur.nl)| | **A**|Apache| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |Apache HTTP Server Drupal HSTS PHP|Home | Netwerk W...|
 

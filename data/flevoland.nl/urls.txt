@@ -8,7 +8,7 @@ http://embraceintranet.flevoland.nl
 https://esb-ibabs.flevoland.nl
 https://formulieren.flevoland.nl
 https://preprodformulieren.flevoland.nl
-http://luchtfoto.flevoland.nl
+https://luchtfoto.flevoland.nl
 https://intranet.flevoland.nl
 http://int-prod-01.flevoland.nl
 https://jaarverslag2017.flevoland.nl
@@ -25,7 +25,7 @@ http://uworktest.flevoland.nl
 https://www.begroting2020.flevoland.nl
 https://pushmail.flevoland.nl
 https://test-intranet.flevoland.nl
-http://geo.flevoland.nl
+https://geo.flevoland.nl
 https://desktop.flevoland.nl
 https://historische-luchtfoto.flevoland.nl
 https://omgevingsplan.flevoland.nl

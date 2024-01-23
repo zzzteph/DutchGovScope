@@ -4,7 +4,7 @@
 ## Summary data
 
 
- - **SSL Grade**:A+
+ - **SSL Grade**:A
  - **HTTP Security Grade**:A
 
 
@@ -26,11 +26,11 @@
 |[https://feeds.english.belastingdienst-cn.nl](https://feeds.english.belastingdienst-cn.nl)| **A+**| **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://feeds.papiamentu.belastingdienst-cn.nl](https://feeds.papiamentu.belastingdienst-cn.nl)| **A+**| **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://mijn.belastingdienst-cn.nl](https://mijn.belastingdienst-cn.nl)| **A**| **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |||
-|[https://opendata.belastingdienst-cn.nl](https://opendata.belastingdienst-cn.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
-|[https://opendata.english.belastingdienst-cn.nl](https://opendata.english.belastingdienst-cn.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
+|[https://opendata.belastingdienst-cn.nl](https://opendata.belastingdienst-cn.nl)| **A+**| **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
+|[https://opendata.english.belastingdienst-cn.nl](https://opendata.english.belastingdienst-cn.nl)| **A+**| **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://opendata.papiamentu.belastingdienst-cn.nl](https://opendata.papiamentu.belastingdienst-cn.nl)| **A+**| **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://papiamentu.belastingdienst-cn.nl](https://papiamentu.belastingdienst-cn.nl)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Home | Belasting...|
-|[https://test.belastingdienst-cn.nl](https://test.belastingdienst-cn.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
+|[https://test.belastingdienst-cn.nl](https://test.belastingdienst-cn.nl)| **F**| **E**|| | | | | | | | :white_check_mark: | |||
 |[https://www.belastingdienst-cn.nl](https://www.belastingdienst-cn.nl)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Belastingdienst...|
 |[https://belastingdienst-cn.nl](https://belastingdienst-cn.nl)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
 

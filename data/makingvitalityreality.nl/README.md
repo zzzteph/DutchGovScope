@@ -22,5 +22,5 @@
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[https://makingvitalityreality.nl](https://makingvitalityreality.nl)| | **A**|Apache| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server Drupal:10 HSTS PHP|Homepage | Makin...|
 |[https://www.makingvitalityreality.nl](https://www.makingvitalityreality.nl)| | **A**|Apache| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS|301 Moved Perman...|
-|[https://acc.makingvitalityreality.nl](https://acc.makingvitalityreality.nl)| | **F**|nginx/1.24.0| | | | | | | | :white_check_mark: | |Basic Nginx:1.24.0|401 Authorizatio...|
+|[https://acc.makingvitalityreality.nl](https://acc.makingvitalityreality.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Basic Nginx|401 Authorizatio...|
 

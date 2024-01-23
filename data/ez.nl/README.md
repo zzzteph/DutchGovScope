@@ -11,7 +11,7 @@
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/ez.nl/subdomains.txt)|20|Alive subdomains|
-|[urls.txt](/data/ez.nl/urls.txt)|17|Urls|
+|[urls.txt](/data/ez.nl/urls.txt)|18|Urls|
 |[all_subdomains.txt](/data/ez.nl/all_subdomains.txt)|133|All found subdomains (history)|
 
 
@@ -37,4 +37,5 @@
 |[http://duurzameenergie.ez.nl](http://duurzameenergie.ez.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[http://futureinternet.ez.nl](http://futureinternet.ez.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[http://videos.ez.nl](http://videos.ez.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
+|[http://crashteamoneerlijkeconcurrentie.ez.nl](http://crashteamoneerlijkeconcurrentie.ez.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 

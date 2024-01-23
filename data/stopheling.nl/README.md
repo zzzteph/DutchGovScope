@@ -12,7 +12,7 @@
 |------------|-------|------|
 |[subdomains.txt](/data/stopheling.nl/subdomains.txt)|12|Alive subdomains|
 |[urls.txt](/data/stopheling.nl/urls.txt)|12|Urls|
-|[all_subdomains.txt](/data/stopheling.nl/all_subdomains.txt)|22|All found subdomains (history)|
+|[all_subdomains.txt](/data/stopheling.nl/all_subdomains.txt)|25|All found subdomains (history)|
 
 
 ## Statistics

@@ -20,6 +20,6 @@
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://www.sds-check.nl](https://www.sds-check.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|301 Moved Perman...|
-|[https://sds-check.nl](https://sds-check.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|301 Moved Perman...|
+|[https://www.sds-check.nl](https://www.sds-check.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|404 Not Found|
+|[https://sds-check.nl](https://sds-check.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|404 Not Found|
 

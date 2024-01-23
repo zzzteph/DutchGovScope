@@ -24,5 +24,5 @@
 |[https://mijnloket.commissiemijnbouwschade.nl](https://mijnloket.commissiemijnbouwschade.nl)| **A+**| **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS Java||
 |[https://opendata.commissiemijnbouwschade.nl](https://opendata.commissiemijnbouwschade.nl)| **A+**| **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://www.commissiemijnbouwschade.nl](https://www.commissiemijnbouwschade.nl)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Home | Commissie...|
-|[https://commissiemijnbouwschade.nl](https://commissiemijnbouwschade.nl)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
+|[https://commissiemijnbouwschade.nl](https://commissiemijnbouwschade.nl)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
 

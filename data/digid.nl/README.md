@@ -51,5 +51,5 @@
 |[https://www.digid.nl](https://www.digid.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Gatsby:4.23.0 HSTS Nginx React Webpack|Home | DigiD|
 |[https://www.machtigen.digid.nl](https://www.machtigen.digid.nl)| | **A**|Apache| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
 |[https://digid.nl](https://digid.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
-|[https://helpdesk.machtigen.digid.nl](https://helpdesk.machtigen.digid.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS|404 Not Found|
+|[https://helpdesk.machtigen.digid.nl](https://helpdesk.machtigen.digid.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS|Helpdeskportaal|
 

@@ -1,13 +1,19 @@
 https://academie.belastingdienst.nl
-http://academie.acc.belastingdienst.nl
+https://academie.acc.belastingdienst.nl
+https://afspraken.belastingdienst.nl
 https://api.belastingdienst.nl
 https://api-ota.belastingdienst.nl
 https://beta.belastingdienst.nl
 https://betalen.belastingdienst.nl
 https://betalen-cnf.belastingdienst.nl
 https://brm.belastingdienst.nl
+https://bvs.belastingdienst.nl
+https://cciwebstats.belastingdienst.nl
+https://centraalaanspreekpuntpensioenen.belastingdienst.nl
+https://connectpeople.belastingdienst.nl
 https://connectpeoplereg.belastingdienst.nl
 https://cpapps.belastingdienst.nl
+https://datumprikker.belastingdienst.nl
 https://delta.belastingdienst.nl
 https://download.belastingdienst.nl
 https://dva.belastingdienst.nl
@@ -20,6 +26,7 @@ https://fibi1.belastingdienst.nl
 https://fibz1.belastingdienst.nl
 https://filetransfer.belastingdienst.nl
 https://filetransfer.ont.belastingdienst.nl
+https://fmis.belastingdienst.nl
 https://fmis.acc.belastingdienst.nl
 https://fsvportaal.belastingdienst.nl
 https://gegevensportaal.belastingdienst.nl
@@ -62,7 +69,7 @@ http://samenwerkruimten.belastingdienst.nl
 http://samenwerkruimten-acc.belastingdienst.nl
 http://samenwerkruimten-conf.belastingdienst.nl
 https://scheiden.belastingdienst.nl
-http://services.belastingdienst.nl
+https://services.belastingdienst.nl
 http://sharepoint-acc-ext.belastingdienst.nl
 http://sharepoint-ext.belastingdienst.nl
 http://sharepoint-ext-conf.belastingdienst.nl
@@ -114,3 +121,4 @@ https://ovverklaringen.belastingdienst.nl
 https://verleendekinderopvang.belastingdienst.nl
 https://verzekeringsproducten.belastingdienst.nl
 https://wagenparkgegevens.belastingdienst.nl
+https://adobe-analytics-dc.belastingdienst.nl

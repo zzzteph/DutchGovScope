@@ -9,7 +9,6 @@ auth.openstad.zuid-holland.nl
 css.openstad.zuid-holland.nl
 vgr.zuid-holland.nl
 geo.zuid-holland.nl
-slimmebruggen.zuid-holland.nl
 staten.zuid-holland.nl
 ro.zuid-holland.nl
 inbeeld.zuid-holland.nl

@@ -36,9 +36,9 @@ This structured approach ensures that our repository is always up-to-date and ac
  - **CORS:** :white_check_mark: if *CORS* header is set without issues (+10)
 ## Repository Structure
  - [domains.txt](/DutchGovScope/dutchgov/domains.txt): List of **1219** domains in scope
- - [subdomains.txt](/DutchGovScope/dutchgov/subdomains.txt): Detailed list of **16313** alive subdomains.
- - [urls.txt](/DutchGovScope/dutchgov/urls.txt): Compilation of **10068** URLs.
- - [all_subdomains.txt](/DutchGovScope/dutchgov/all_subdomains.txt): All **32243** subdomains that were found all over the time 
+ - [subdomains.txt](/DutchGovScope/dutchgov/subdomains.txt): Detailed list of **16294** alive subdomains.
+ - [urls.txt](/DutchGovScope/dutchgov/urls.txt): Compilation of **10008** URLs.
+ - [all_subdomains.txt](/DutchGovScope/dutchgov/all_subdomains.txt): All **32270** subdomains that were found all over the time 
 ## Links and acknowledgements
  - [basisbeveiliging.nl](https://basisbeveiliging.nl/) \- *How well the Dutch government implements basic security requirements with great security map!*
  - [overheid.nl](https://www.overheid.nl/english/dutch-government-websites)

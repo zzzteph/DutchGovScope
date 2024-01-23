@@ -1,5 +1,3 @@
-https://acc.beeldbellen.dji.nl
-https://beeldbellen.dji.nl
 https://connect.dji.nl
 https://connect-acpt.dji.nl
 https://drife-f.dji.nl
@@ -10,8 +8,6 @@ https://feeds.dji.nl
 https://intranet.dji.nl
 https://magazines.dji.nl
 https://opendata.dji.nl
-https://video-acc.beeldbellen.dji.nl
-https://video.beeldbellen.dji.nl
 https://www.dji.nl
 https://zorgconnect.dji.nl
 https://zorgconnect-acpt.dji.nl

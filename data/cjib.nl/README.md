@@ -11,7 +11,7 @@
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/cjib.nl/subdomains.txt)|26|Alive subdomains|
-|[urls.txt](/data/cjib.nl/urls.txt)|18|Urls|
+|[urls.txt](/data/cjib.nl/urls.txt)|19|Urls|
 |[all_subdomains.txt](/data/cjib.nl/all_subdomains.txt)|48|All found subdomains (history)|
 
 
@@ -34,6 +34,7 @@
 |[https://pay.cjib.nl](https://pay.cjib.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
 |[https://pay-acc.cjib.nl](https://pay-acc.cjib.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
 |[https://sfb.cjib.nl](https://sfb.cjib.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|403 - Forbidden:...|
+|[https://sfbsip.cjib.nl](https://sfbsip.cjib.nl)| | **C**|RTC/7.0| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
 |[https://sfbweb.cjib.nl](https://sfbweb.cjib.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|403 - Forbidden:...|
 |[https://werken.cjib.nl](https://werken.cjib.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Java|VMware Horizon|
 |[https://www.cjib.nl](https://www.cjib.nl)| | **A**|nginx|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Amazon S3 Amazon Web Services Drupal:10 HSTS Nginx PHP|Home | CJIB.nl|

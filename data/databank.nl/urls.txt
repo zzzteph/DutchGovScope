@@ -134,10 +134,10 @@ https://neptunus.databank.nl
 https://gemeente.databank.nl
 https://ftgelderiand.databank.nl
 https://www.amsterdam.rosopen.databank.nl
-http://test-mbotransparant.databank.nl
+https://test-mbotransparant.databank.nl
 https://dd.databank.nl
 https://00klimaatmonitor.databank.nl
-http://beta-adc.databank.nl
+https://beta-adc.databank.nl
 https://drenthe.databank.nl
 https://beta-velsen.databank.nl
 https://zorgimpuls.rosopen.databank.nl
@@ -146,7 +146,7 @@ https://dth.hermes.databank.nl
 https://arbeidmarkt.databank.nl
 https://vragenlijst.erfgoedinspectie.databank.nl
 https://cname-erfgoed.databank.nl
-https://beta-gdi.databank.nl
+http://beta-gdi.databank.nl
 https://fers.databank.nl
 https://nbtc.databank.nl
 https://rotterdam.databank.nl
@@ -200,7 +200,7 @@ https://www.klimaat-monitor.databank.nl
 https://univ.databank.nl
 https://class.databank.nl
 https://www5f.databank.nl
-http://beta-noordholland.databank.nl
+https://beta-noordholland.databank.nl
 https://test.hinc2006.databank.nl
 https://ibw.databank.nl
 https://prognosemodelzw.databank.nl

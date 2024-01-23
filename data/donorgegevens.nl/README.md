@@ -23,7 +23,7 @@
 |[https://aanvraag.donorgegevens.nl](https://aanvraag.donorgegevens.nl)| **A**| **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Donorgegevens aa...|
 |[https://acceptatie.aanvraag.donorgegevens.nl](https://acceptatie.aanvraag.donorgegevens.nl)| **A**| **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Donorgegevens aa...|
 |[https://acceptatie.behandel.donorgegevens.nl](https://acceptatie.behandel.donorgegevens.nl)| **A**| **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
-|[https://acceptatie.klinieken.donorgegevens.nl](https://acceptatie.klinieken.donorgegevens.nl)| | **F**|-| | | | | | | | :white_check_mark: | |HSTS|Donorgegevens kl...|
+|[https://acceptatie.klinieken.donorgegevens.nl](https://acceptatie.klinieken.donorgegevens.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Donorgegevens kl...|
 |[https://behandel.donorgegevens.nl](https://behandel.donorgegevens.nl)| **A**| **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://feeds.donorgegevens.nl](https://feeds.donorgegevens.nl)| **A+**| **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://klinieken.donorgegevens.nl](https://klinieken.donorgegevens.nl)| **A**| **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Donorgegevens kl...|

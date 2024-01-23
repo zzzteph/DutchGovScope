@@ -10,8 +10,8 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/nza.nl/subdomains.txt)|43|Alive subdomains|
-|[urls.txt](/data/nza.nl/urls.txt)|38|Urls|
+|[subdomains.txt](/data/nza.nl/subdomains.txt)|42|Alive subdomains|
+|[urls.txt](/data/nza.nl/urls.txt)|37|Urls|
 |[all_subdomains.txt](/data/nza.nl/all_subdomains.txt)|121|All found subdomains (history)|
 
 
@@ -45,7 +45,6 @@
 |[https://rpx-qa.nza.nl](https://rpx-qa.nza.nl)| | **A**|Apache| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server|301 Moved Perman...|
 |[https://nza-form3.nza.nl](https://nza-form3.nza.nl)| | **B**|nginx| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS Nginx|Mendix|
 |[http://crm-acc.nza.nl](http://crm-acc.nza.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|301 Moved Perman...|
-|[https://dbcregels.nza.nl](https://dbcregels.nza.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
 |[http://autodiscover.nza.nl](http://autodiscover.nza.nl)| | **B**|Microsoft-IIS/10.0|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server||
 |[https://opendata.nza.nl](https://opendata.nza.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[http://crm.nza.nl](http://crm.nza.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|301 Moved Perman...|

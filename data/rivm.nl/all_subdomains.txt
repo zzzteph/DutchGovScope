@@ -948,3 +948,7 @@ sterftecijfers.rivm.nl
 manveldapp-beheer.rivm.nl
 dev-lsp.rivm.nl
 api.dev-lsp.rivm.nl
+rivm-fnapp-w01o.alt.rivm.nl
+rivm-fnapp-w02o.alt.rivm.nl
+rivm-fncpe-w01o.alt.rivm.nl
+rivm-fncpe-w02o.alt.rivm.nl

@@ -12,7 +12,7 @@
 |------------|-------|------|
 |[subdomains.txt](/data/rivm.nl/subdomains.txt)|394|Alive subdomains|
 |[urls.txt](/data/rivm.nl/urls.txt)|264|Urls|
-|[all_subdomains.txt](/data/rivm.nl/all_subdomains.txt)|950|All found subdomains (history)|
+|[all_subdomains.txt](/data/rivm.nl/all_subdomains.txt)|954|All found subdomains (history)|
 
 
 ## Statistics
@@ -85,7 +85,7 @@
 |[https://beleving.rivm.nl](https://beleving.rivm.nl)| | **B**|nginx| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS Nginx|Mendix|
 |[https://bestellingen.rivm.nl](https://bestellingen.rivm.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |||
 |[http://bggo.rivm.nl](http://bggo.rivm.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |||
-|[http://biokap.rivm.nl](http://biokap.rivm.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
+|[http://biokap.rivm.nl](http://biokap.rivm.nl)| | **F**||:o: | | | | | | | :white_check_mark: | |||
 |[https://biotechnologie.rivm.nl](https://biotechnologie.rivm.nl)| | **A**|Apache| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server Drupal HSTS PHP|Biotechnologie |...|
 |[http://caontb.rivm.nl](http://caontb.rivm.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://cdif.osiris.rivm.nl](https://cdif.osiris.rivm.nl)| | **D**||:warning: |:white_check_mark: | | | | | | :white_check_mark: | |F5 BigIP HSTS||
@@ -152,7 +152,7 @@
 |[https://longcovid.rivm.nl](https://longcovid.rivm.nl)| | **B**|Apache|:white_check_mark: |:white_check_mark: | | | :white_check_mark:| | | :white_check_mark: | |Apache HTTP Server HSTS|LongCOVID-onderz...|
 |[http://macotra.rivm.nl](http://macotra.rivm.nl)| | **D**||:warning: |:white_check_mark: | | | | | | :white_check_mark: | |||
 |[https://magazines.rivm.nl](https://magazines.rivm.nl)| | **B**|Apache/2.4.34 (Red Hat) PHP/7.3.33| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server:2.4.34 Drupal:7 HSTS PHP:7.3.33 Red Hat|RIVM Magazines|
-|[https://man.rivm.nl](https://man.rivm.nl)| | **B**|Microsoft-IIS/10.0| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS IIS:10.0 Microsoft ASP.NET:4.0.30319 Windows Server|Meetresultaten M...|
+|[https://man.rivm.nl](https://man.rivm.nl)| | **B**|Microsoft-IIS/10.0| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS IIS:10.0 Microsoft ASP.NET Windows Server|Meetresultaten M...|
 |[http://maps.rivm.nl](http://maps.rivm.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://mcra.rivm.nl](https://mcra.rivm.nl)| | **B**|Microsoft-IIS/10.0| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS IIS:10.0 Microsoft ASP.NET Windows Server||
 |[http://mcra-test.rivm.nl](http://mcra-test.rivm.nl)| | **E**|| | | | | | | | :white_check_mark: | |||

@@ -37,7 +37,7 @@ https://www2.acc.dusi.rdobeheer.nl
 https://portal2.acc.dusi.rdobeheer.nl
 https://mailcatch.acc.dusi.rdobeheer.nl
 https://co.acc.dusi.rdobeheer.nl
-https://stagefonds.acc.dusi.rdobeheer.nl
+http://stagefonds.acc.dusi.rdobeheer.nl
 https://portalco.acc.dusi.rdobeheer.nl
 https://extern.acc.dusi.rdobeheer.nl
 https://web.test.dpr.rdobeheer.nl

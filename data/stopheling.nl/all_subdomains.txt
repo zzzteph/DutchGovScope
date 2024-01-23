@@ -20,3 +20,6 @@ abp8-dor.stopheling.nl
 aanvraagformulier.stopheling.nl
 mobiel.stopheling.nl
 test-api.stopheling.nl
+escrow-dorbeheer.stopheling.nl
+escrow-dol.stopheling.nl
+escrow-dor.stopheling.nl

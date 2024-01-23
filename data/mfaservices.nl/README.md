@@ -11,7 +11,7 @@
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/mfaservices.nl/subdomains.txt)|135|Alive subdomains|
-|[urls.txt](/data/mfaservices.nl/urls.txt)|58|Urls|
+|[urls.txt](/data/mfaservices.nl/urls.txt)|61|Urls|
 |[all_subdomains.txt](/data/mfaservices.nl/all_subdomains.txt)|263|All found subdomains (history)|
 
 
@@ -32,6 +32,9 @@
 |[https://consular.mfaservices.nl](https://consular.mfaservices.nl)| | **B**|cloudflare|:white_check_mark: |:white_check_mark: | | |:warning: | | :white_check_mark: | :white_check_mark: | |Azure Azure Front Door Cloudflare Cloudflare Bot Management HSTS|Ministry of Fore...|
 |[https://consular-service.consular.mfaservices.nl](https://consular-service.consular.mfaservices.nl)| | **C**|cloudflare|:white_check_mark: |:white_check_mark: | | |:warning: | | | :white_check_mark: | |Azure Azure Front Door Cloudflare Cloudflare Bot Management HSTS Microsoft ASP.NET||
 |[https://countrydashboard.mfaservices.nl](https://countrydashboard.mfaservices.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
+|[https://dev-data-exchange.consular.mfaservices.nl](https://dev-data-exchange.consular.mfaservices.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
+|[https://dev-developer-portal-management.data-exchange.consular.mfaservices.nl](https://dev-developer-portal-management.data-exchange.consular.mfaservices.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||
+|[https://dev-developer-portal.data-exchange.consular.mfaservices.nl](https://dev-developer-portal.data-exchange.consular.mfaservices.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS|Home - Microsoft...|
 |[https://dev-insights.mfaservices.nl](https://dev-insights.mfaservices.nl)| | **F**|Microsoft-Azure-Application-Gateway/v2| | | | | | | | :white_check_mark: | ||404 Not Found|
 |[https://dev.consular.mfaservices.nl](https://dev.consular.mfaservices.nl)| | **D**|cloudflare|:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | |Azure Azure Front Door Cloudflare Cloudflare Bot Management HSTS|Consular Service...|
 |[https://dev.consular-service.consular.mfaservices.nl](https://dev.consular-service.consular.mfaservices.nl)| | **C**|cloudflare|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Cloudflare Cloudflare Bot Management HSTS|Attention Requir...|
@@ -73,7 +76,7 @@
 |[https://tst.nww.mfaservices.nl](https://tst.nww.mfaservices.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|403 Forbidden|
 |[https://tst.protocol.mfaservices.nl](https://tst.protocol.mfaservices.nl)| | **C**||:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | |Azure HSTS||
 |[https://acc.cdn.consular.mfaservices.nl](https://acc.cdn.consular.mfaservices.nl)| | **C**|cloudflare|:white_check_mark: |:white_check_mark: | | |:warning: | | | :white_check_mark: | |Azure Azure Front Door Cloudflare Cloudflare Bot Management HSTS||
-|[https://cdn.consular.mfaservices.nl](https://cdn.consular.mfaservices.nl)| | **C**|cloudflare|:white_check_mark: |:white_check_mark: | | |:warning: | | | :white_check_mark: | |Cloudflare Cloudflare Bot Management HSTS||
+|[https://cdn.consular.mfaservices.nl](https://cdn.consular.mfaservices.nl)| | **C**|cloudflare|:white_check_mark: |:white_check_mark: | | |:warning: | | | :white_check_mark: | |Azure Azure Front Door Cloudflare Cloudflare Bot Management HSTS||
 |[https://dev.cdn.consular.mfaservices.nl](https://dev.cdn.consular.mfaservices.nl)| | **D**|cloudflare|:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | |Azure Azure Front Door Cloudflare Cloudflare Bot Management HSTS|Consular Service...|
 |[https://snd.cdn.consular.mfaservices.nl](https://snd.cdn.consular.mfaservices.nl)| | **D**|cloudflare|:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | |Azure Azure Front Door Cloudflare Cloudflare Bot Management HSTS|Consular Service...|
 |[https://tst.cdn.consular.mfaservices.nl](https://tst.cdn.consular.mfaservices.nl)| | **D**|cloudflare|:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | |Azure Azure Front Door Cloudflare Cloudflare Bot Management HSTS|Consular Service...|

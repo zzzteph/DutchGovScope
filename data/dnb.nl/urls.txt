@@ -102,5 +102,6 @@ https://api-tzkalender-dev.dnb.nl
 https://mijnatm.azure.dnb.nl
 https://tzpubliekscontact-dev.dnb.nl
 https://tzpubliekscontact-tst.dnb.nl
+https://api-tzpubliekscontact-dev.dnb.nl
 https://tzpubliekscontact-acc.dnb.nl
 https://tzpubliekscontact.dnb.nl

@@ -1744,6 +1744,7 @@ opendata.bedrijvenbeleidinbeeld.nl
 opendata.english.bedrijvenbeleidinbeeld.nl
 www.bedrijvenbeleidinbeeld.nl
 bedrijvenbeleidinbeeld.nl
+bijlage-labelanalyses-missiegedreven-innovatiebeleid-voor-www.bedrijvenbeleidinbeeld.nl
 feeds.beheerautoriteitwaddenzee.nl
 opendata.beheerautoriteitwaddenzee.nl
 wadsup.beheerautoriteitwaddenzee.nl
@@ -4873,6 +4874,7 @@ www.bdx.domeinenrz.nl
 gn2-p-sap-smp.is.domeinenrz.nl
 vpn3.domeinenrz.nl
 bp2-acc.domeinenrz.nl
+toegankelijkheidsonderzoek-english.domeinenrz.nl
 a-english.donorgegevens.nl
 a-esintern.donorgegevens.nl
 a-feeds.donorgegevens.nl
@@ -12591,6 +12593,7 @@ acc.ncsc.nl
 api.mijn.acc.ncsc.nl
 mijn.acc.ncsc.nl
 vulnerabilities.ncsc.nl
+gitnmp.arp.ncsc.nl
 acc-symbolenbank.nctv.nl
 cbrnsecurity.nctv.nl
 cyberawareness.nctv.nl
@@ -12729,6 +12732,8 @@ caas.ndw.nu
 wegkenmerken.staging.ndw.nu
 bereikbaarheid.ndw.nu
 backbone.ndw.nu
+stats.ndw.nu
+backbone-internal.ndw.nu
 www.nederlandcirculairin2050.nl
 feeds.nederlandcirculairin2050.nl
 nederlandcirculairin2050.nl
@@ -13216,6 +13221,12 @@ rds.noord-holland.nl
 nhlvsbcp001.noord-holland.nl
 nhlvsbcp002.noord-holland.nl
 lms.noord-holland.nl
+openstad.noord-holland.nl
+admin.openstad.noord-holland.nl
+api.openstad.noord-holland.nl
+auth.openstad.noord-holland.nl
+img.openstad.noord-holland.nl
+www.openstad.noord-holland.nl
 feeds.nponderwijs.nl
 kennis.nponderwijs.nl
 opendata.nponderwijs.nl
@@ -18445,6 +18456,10 @@ sterftecijfers.rivm.nl
 manveldapp-beheer.rivm.nl
 dev-lsp.rivm.nl
 api.dev-lsp.rivm.nl
+rivm-fnapp-w01o.alt.rivm.nl
+rivm-fnapp-w02o.alt.rivm.nl
+rivm-fncpe-w01o.alt.rivm.nl
+rivm-fncpe-w02o.alt.rivm.nl
 www.rookvrijcafe.nl
 rookvrijcafe.nl
 english.row-minvws.nl
@@ -19218,6 +19233,9 @@ abp8-dor.stopheling.nl
 aanvraagformulier.stopheling.nl
 mobiel.stopheling.nl
 test-api.stopheling.nl
+escrow-dorbeheer.stopheling.nl
+escrow-dol.stopheling.nl
+escrow-dor.stopheling.nl
 english.strafrechtketen.nl
 feeds.strafrechtketen.nl
 feeds.english.strafrechtketen.nl
@@ -21418,6 +21436,7 @@ livepim.ssonet.nl
 storingsdienst.rgd.ssonet.nl
 test1.ssonet.nl
 test2.ssonet.nl
+test5.ssonet.nl
 regiesociaaldomein.nl
 www.regiesociaaldomein.nl
 htttplwww.regiesociaaldomein.nl
@@ -22598,6 +22617,11 @@ redactie.veiligheidsregioflevoland.nl
 veiligheidsregioflevoland.nl
 www.veiligheidsregioflevoland.nl
 lelystadinternetwww.veiligheidsregioflevoland.nl
+autodiscover.veiligheidsregioflevoland.nl
+enterpriseenrollment.veiligheidsregioflevoland.nl
+msoid.veiligheidsregioflevoland.nl
+enterpriseregistration.veiligheidsregioflevoland.nl
+hostmaster.veiligheidsregioflevoland.nl
 www.onderzoekswijs.nl
 onderzoekswijs.nl
 acc.iaas-portal.odc-noord.nl
@@ -22840,6 +22864,7 @@ sip.iuc-noord.nl
 www.iuc-noord.nl
 iuc-noord.nl
 www.innovatie-expo2023.nl
+innovatie-expo2023.nl
 cpanel.jaarverslagen.cultuur.nl
 mail.toekomst-cultuurbeleid.cultuur.nl
 webdisk.toekomst-cultuurbeleid.cultuur.nl
@@ -24598,6 +24623,7 @@ factorswww.co2emissiefactoren.nl
 co2emissiefactoren.nl
 atwww.co2emissiefactoren.nl
 vanwww.co2emissiefactoren.nl
+webmail.co2emissiefactoren.nl
 accept.gebruikercentraal.nl
 accept.beeldbank.gebruikercentraal.nl
 accept.catalogus.gebruikercentraal.nl
@@ -25774,6 +25800,7 @@ sadp.pleio.nl
 sociaaldomeinlekstroom.pleio.nl
 cmh.pleio.nl
 riec-liec-academie.pleio.nl
+mimir-gateway.pleio.nl
 acceptatie.feedfoodtransfer.nl
 apps.feedfoodtransfer.nl
 apps.acceptatie.feedfoodtransfer.nl

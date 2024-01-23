@@ -12,7 +12,7 @@
 |------------|-------|------|
 |[subdomains.txt](/data/ncsc.nl/subdomains.txt)|47|Alive subdomains|
 |[urls.txt](/data/ncsc.nl/urls.txt)|26|Urls|
-|[all_subdomains.txt](/data/ncsc.nl/all_subdomains.txt)|90|All found subdomains (history)|
+|[all_subdomains.txt](/data/ncsc.nl/all_subdomains.txt)|91|All found subdomains (history)|
 
 
 ## Statistics
@@ -23,7 +23,7 @@
 |[https://advisories.ncsc.nl](https://advisories.ncsc.nl)| | **C**|none| |:white_check_mark: | :warning:| | | :white_check_mark: | | :white_check_mark: | |HSTS|NCSC Advisories|
 |[https://api.ncsc.nl](https://api.ncsc.nl)| | **D**|none|:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
 |[https://api.acc.ncsc.nl](https://api.acc.ncsc.nl)| | **D**|none|:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
-|[https://chat.ncsc.nl](https://chat.ncsc.nl)| | **A**|none| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS||
+|[https://chat.ncsc.nl](https://chat.ncsc.nl)| | **A**|none| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS|Mattermost|
 |[https://english.ncsc.nl](https://english.ncsc.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Home | National...|
 |[https://feeds.ncsc.nl](https://feeds.ncsc.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://feeds.english.ncsc.nl](https://feeds.english.ncsc.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||

@@ -10,7 +10,7 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/zuid-holland.nl/subdomains.txt)|72|Alive subdomains|
+|[subdomains.txt](/data/zuid-holland.nl/subdomains.txt)|71|Alive subdomains|
 |[urls.txt](/data/zuid-holland.nl/urls.txt)|68|Urls|
 |[all_subdomains.txt](/data/zuid-holland.nl/all_subdomains.txt)|133|All found subdomains (history)|
 
@@ -24,7 +24,7 @@
 |[https://geoportaal.zuid-holland.nl](https://geoportaal.zuid-holland.nl)| | **C**||:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
 |[http://coalitieakkoord.zuid-holland.nl](http://coalitieakkoord.zuid-holland.nl)| | **D**|-|:white_check_mark: | | | | :white_check_mark:| | :white_check_mark: | :white_check_mark: | |Microsoft ASP.NET:-|The page cannot...|
 |[https://api.openstad.zuid-holland.nl](https://api.openstad.zuid-holland.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS||
-|[https://beeldbankbeheer.zuid-holland.nl](https://beeldbankbeheer.zuid-holland.nl)| | **E**|Picture Pack|:warning: | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Microsoft ASP.NET|Picture Pack|
+|[https://beeldbankbeheer.zuid-holland.nl](https://beeldbankbeheer.zuid-holland.nl)| | **E**|Picture Pack|:warning: | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Microsoft ASP.NET:4.0.30319|Picture Pack|
 |[https://zaaksysteem.zuid-holland.nl](https://zaaksysteem.zuid-holland.nl)| | **A**||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Moved|
 |[https://omgevingsbeleid.zuid-holland.nl](https://omgevingsbeleid.zuid-holland.nl)| | **E**|| | | | | | | | :white_check_mark: | |Azure Azure Front Door|Omgevingsbeleid...|
 |[https://auth.openstad.zuid-holland.nl](https://auth.openstad.zuid-holland.nl)| | **A**||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Express HSTS Node.js||

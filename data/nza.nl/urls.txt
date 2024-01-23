@@ -23,7 +23,6 @@ https://zorgprestatiemodel.nza.nl
 https://rpx-qa.nza.nl
 https://nza-form3.nza.nl
 http://crm-acc.nza.nl
-https://dbcregels.nza.nl
 http://autodiscover.nza.nl
 https://opendata.nza.nl
 http://crm.nza.nl

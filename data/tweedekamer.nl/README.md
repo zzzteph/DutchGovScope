@@ -21,7 +21,7 @@
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[https://livestreaming-thumb.b67.tweedekamer.nl](https://livestreaming-thumb.b67.tweedekamer.nl)| | **F**|Kestrel|:white_check_mark: | | | | | | | :white_check_mark: | |Azure Kestrel Microsoft ASP.NET||
-|[https://livestream-media.tweedekamer.nl](https://livestream-media.tweedekamer.nl)| | **F**|ECAcc (frc/4CA8)| | | :warning:| | | | | :white_check_mark: | |Azure Azure CDN||
+|[https://livestream-media.tweedekamer.nl](https://livestream-media.tweedekamer.nl)| | **F**|ECAcc (amb/6B53)| | | :warning:| | | | | :white_check_mark: | |Azure Azure CDN||
 |[https://share.tweedekamer.nl](https://share.tweedekamer.nl)| | **B**|nginx| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS Nginx||
 |[https://apps.tweedekamer.nl](https://apps.tweedekamer.nl)| | **A**||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Microsoft ASP.NET||
 |[https://debatgemist.beta.tweedekamer.nl](https://debatgemist.beta.tweedekamer.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
@@ -49,17 +49,17 @@
 |[https://lijstvangevallenen.acceptatie.tweedekamer.nl](https://lijstvangevallenen.acceptatie.tweedekamer.nl)| | **F**|nginx/1.25.3| | | | | | | | :white_check_mark: | |Basic Nginx:1.25.3|401 Authorizatio...|
 |[https://meldingenapp.tweedekamer.nl](https://meldingenapp.tweedekamer.nl)| | **E**|nginx| | | | | | :white_check_mark: | | :white_check_mark: | |Drupal:9 Nginx PHP:7.4.33|Geen toegang | P...|
 |[http://mijn.tweedekamer.nl](http://mijn.tweedekamer.nl)| | **F**|BigIP| | | | | | | | :white_check_mark: | |F5 BigIP||
-|[https://livestream.tweedekamer.nl](https://livestream.tweedekamer.nl)| | **F**|ECAcc (frc/4CA8)| | | | | | | | :white_check_mark: | |Azure Azure CDN|Your Azure Funct...|
+|[https://livestream.tweedekamer.nl](https://livestream.tweedekamer.nl)| | **F**|ECAcc (frc/4C86)| | | | | | | | :white_check_mark: | |Azure Azure CDN|Your Azure Funct...|
 |[https://opendata.test.tweedekamer.nl](https://opendata.test.tweedekamer.nl)| | **C**|nginx/1.25.3| |:white_check_mark: | | | | | | :white_check_mark: | |Basic Nginx:1.25.3|401 Authorizatio...|
 |[https://rapportaardgaswinninggroningen.tweedekamer.nl](https://rapportaardgaswinninggroningen.tweedekamer.nl)| | **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
 |[https://lijstvangevallenen.test.tweedekamer.nl](https://lijstvangevallenen.test.tweedekamer.nl)| | **F**|nginx/1.25.3| | | | | | | | :white_check_mark: | |Basic Nginx:1.25.3|401 Authorizatio...|
 |[https://erelijst.test.tweedekamer.nl](https://erelijst.test.tweedekamer.nl)| | **F**|nginx/1.25.3| | | | | | | | :white_check_mark: | |Basic Nginx:1.25.3|401 Authorizatio...|
 |[https://acc.meldingenapp.tweedekamer.nl](https://acc.meldingenapp.tweedekamer.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Drupal:9 HSTS Nginx PHP:7.4.33|Homepage Plein2...|
 |[https://sts.test.tweedekamer.nl](https://sts.test.tweedekamer.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
-|[https://livestreaming.b67bu.tweedekamer.nl](https://livestreaming.b67bu.tweedekamer.nl)| | **F**|ECAcc (frc/4CA8)| | | | | | | | :white_check_mark: | |Azure Azure CDN|Your Azure Funct...|
-|[https://livestream-media-backup.tweedekamer.nl](https://livestream-media-backup.tweedekamer.nl)| | **F**|Microsoft-IIS/10.0| | | :warning:| | | | | :white_check_mark: | |IIS:10.0 Windows Server||
+|[https://livestreaming.b67bu.tweedekamer.nl](https://livestreaming.b67bu.tweedekamer.nl)| | **F**|ECAcc (frc/4C86)| | | | | | | | :white_check_mark: | |Azure Azure CDN|Your Azure Funct...|
+|[https://livestream-media-backup.tweedekamer.nl](https://livestream-media-backup.tweedekamer.nl)| | **F**|ECAcc (frc/4C86)| | | :warning:| | | | | :white_check_mark: | |Azure Azure CDN||
 |[https://houseofrepresentatives.test.tweedekamer.nl](https://houseofrepresentatives.test.tweedekamer.nl)| | **C**|nginx/1.25.3| |:white_check_mark: | | | | | | :white_check_mark: | |Basic Nginx:1.25.3|401 Authorizatio...|
-|[https://livestream-backup.tweedekamer.nl](https://livestream-backup.tweedekamer.nl)| | **F**|ECAcc (frc/4CA8)| | | | | | | | :white_check_mark: | |Azure Azure CDN|Your Azure Funct...|
+|[https://livestream-backup.tweedekamer.nl](https://livestream-backup.tweedekamer.nl)| | **F**|ECAcc (frc/4C86)| | | | | | | | :white_check_mark: | |Azure Azure CDN|Your Azure Funct...|
 |[https://debatgemist.acceptatie.tweedekamer.nl](https://debatgemist.acceptatie.tweedekamer.nl)| | **A**|| |:white_check_mark: | | |:warning: | | :white_check_mark: | :white_check_mark: | |Amazon CloudFront Amazon Web Services||
 |[https://correctie.tweedekamer.nl](https://correctie.tweedekamer.nl)| | **D**|| | | | | | :white_check_mark: | | :white_check_mark: | ||Onverwachte fout|
 |[https://zoeken.tweedekamer.nl](https://zoeken.tweedekamer.nl)| | **B**|BigIP|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |F5 BigIP||
@@ -71,7 +71,7 @@
 |[https://www.tweedekamer.nl](https://www.tweedekamer.nl)| | **B**|nginx| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Drupal:10 HSTS Nginx PHP Varnish|Tweede Kamer der...|
 |[https://onderzoek.tweedekamer.nl](https://onderzoek.tweedekamer.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|Onderzoekdoen.nl...|
 |[https://erelijst.acceptatie.tweedekamer.nl](https://erelijst.acceptatie.tweedekamer.nl)| | **F**|nginx/1.25.3| | | | | | | | :white_check_mark: | |Basic Nginx:1.25.3|401 Authorizatio...|
-|[https://livestreaming.b67.tweedekamer.nl](https://livestreaming.b67.tweedekamer.nl)| | **F**|ECAcc (frc/4CA8)| | | | | | | | :white_check_mark: | |Azure Azure CDN|Your Azure Funct...|
+|[https://livestreaming.b67.tweedekamer.nl](https://livestreaming.b67.tweedekamer.nl)| | **F**|ECAcc (frc/4C86)| | | | | | | | :white_check_mark: | |Azure Azure CDN|Your Azure Funct...|
 |[https://www.onderzoek.tweedekamer.nl](https://www.onderzoek.tweedekamer.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|Onderzoekdoen.nl...|
 |[https://livestream-thumb.tweedekamer.nl](https://livestream-thumb.tweedekamer.nl)| | **F**|Kestrel|:white_check_mark: | | | | | | | :white_check_mark: | |Azure Kestrel Microsoft ASP.NET||
 |[https://api.debatdirect.tweedekamer.nl](https://api.debatdirect.tweedekamer.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
@@ -79,7 +79,7 @@
 |[https://opendata.acceptatie.tweedekamer.nl](https://opendata.acceptatie.tweedekamer.nl)| | **F**|nginx/1.25.3| | | | | | | | :white_check_mark: | |Basic Nginx:1.25.3|401 Authorizatio...|
 |[https://ext01.videovergaderen.tweedekamer.nl](https://ext01.videovergaderen.tweedekamer.nl)| | **F**|Pexip Infinity| | | | | | | | :white_check_mark: | |HSTS|302 Found|
 |[https://tweedekamer.nl](https://tweedekamer.nl)| | **B**|nginx| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
-|[https://livestreaming.b67acc.tweedekamer.nl](https://livestreaming.b67acc.tweedekamer.nl)| | **F**|ECAcc (frc/4CA8)| | | | | | | | :white_check_mark: | |Azure Azure CDN|Your Azure Funct...|
+|[https://livestreaming.b67acc.tweedekamer.nl](https://livestreaming.b67acc.tweedekamer.nl)| | **F**|ECAcc (frc/4C86)| | | | | | | | :white_check_mark: | |Azure Azure CDN|Your Azure Funct...|
 |[https://plein2.tweedekamer.nl](https://plein2.tweedekamer.nl)| | **B**|BigIP|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |F5 BigIP||
 |[https://files.tweedekamer.nl](https://files.tweedekamer.nl)| | **D**|nginx| | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Nginx|403 Forbidden|
 |[https://enroll-tkmw.tweedekamer.nl](https://enroll-tkmw.tweedekamer.nl)| | **F**|Microsoft-IIS/10.0| | | | | | | | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server|IIS Windows Serv...|

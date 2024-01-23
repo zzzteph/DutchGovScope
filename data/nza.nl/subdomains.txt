@@ -27,7 +27,6 @@ zorgprestatiemodel.nza.nl
 rpx-qa.nza.nl
 nza-form3.nza.nl
 crm-acc.nza.nl
-dbcregels.nza.nl
 autodiscover.nza.nl
 opendata.nza.nl
 a-feeds.nza.nl

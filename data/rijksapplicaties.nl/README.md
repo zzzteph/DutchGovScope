@@ -131,14 +131,14 @@
 |[https://rvb-vgi1.rijksapplicaties.nl](https://rvb-vgi1.rijksapplicaties.nl)| | **C**|nginx|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS Nginx||
 |[https://qr-app.rijksapplicaties.nl](https://qr-app.rijksapplicaties.nl)| | **C**|nginx|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS Microsoft ASP.NET Nginx|QR App|
 |[https://ubl2pdf.rijksapplicaties.nl](https://ubl2pdf.rijksapplicaties.nl)| | **C**|nginx|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS Microsoft ASP.NET Nginx|UBL2Pdf|
-|[https://redt.rijksapplicaties.nl](https://redt.rijksapplicaties.nl)| | **C**|nginx|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS Microsoft ASP.NET Nginx|Rijksoverheid Ef...|
-|[https://fvp.rijksapplicaties.nl](https://fvp.rijksapplicaties.nl)| | **C**|nginx|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS Nginx||
-|[https://ufp.rijksapplicaties.nl](https://ufp.rijksapplicaties.nl)| | **C**|nginx|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS Nginx||
+|[https://redt.rijksapplicaties.nl](https://redt.rijksapplicaties.nl)| | **E**|nginx| | | | |:warning: | | | :white_check_mark: | |Nginx|500 Internal Ser...|
+|[https://fvp.rijksapplicaties.nl](https://fvp.rijksapplicaties.nl)| | **E**|nginx| | | | |:warning: | | | :white_check_mark: | |Nginx|500 Internal Ser...|
+|[https://ufp.rijksapplicaties.nl](https://ufp.rijksapplicaties.nl)| | **E**|nginx| | | | |:warning: | | | :white_check_mark: | |Nginx|500 Internal Ser...|
 |[https://i-partnerschap.staging.rijksapplicaties.nl](https://i-partnerschap.staging.rijksapplicaties.nl)| | **C**|nginx|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS Nginx||
-|[https://emailwijzer.rijksapplicaties.nl](https://emailwijzer.rijksapplicaties.nl)| | **C**|nginx|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS Nginx||
+|[https://emailwijzer.rijksapplicaties.nl](https://emailwijzer.rijksapplicaties.nl)| | **E**|nginx| | | | |:warning: | | | :white_check_mark: | |Nginx|500 Internal Ser...|
 |[https://cfa-ubr.staging.rijksapplicaties.nl](https://cfa-ubr.staging.rijksapplicaties.nl)| | **C**|nginx|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS Nginx||
 |[https://cfa-rvb.staging.rijksapplicaties.nl](https://cfa-rvb.staging.rijksapplicaties.nl)| | **C**|nginx|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS Nginx||
-|[https://ncg-adresbeheer.rijksapplicaties.nl](https://ncg-adresbeheer.rijksapplicaties.nl)| | **C**|nginx|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS Nginx||
+|[https://ncg-adresbeheer.rijksapplicaties.nl](https://ncg-adresbeheer.rijksapplicaties.nl)| | **E**|nginx| | | | |:warning: | | | :white_check_mark: | |Nginx|500 Internal Ser...|
 |[https://aanwezigheidsapp-oprijk.rijksapplicaties.nl](https://aanwezigheidsapp-oprijk.rijksapplicaties.nl)| | **C**|nginx|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS Nginx||
 |[https://dba.rijksapplicaties.nl](https://dba.rijksapplicaties.nl)| | **C**|nginx|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS Microsoft ASP.NET Nginx|Digitale Bijdrag...|
 |[https://dba.staging.rijksapplicaties.nl](https://dba.staging.rijksapplicaties.nl)| | **C**|nginx|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS Microsoft ASP.NET Nginx|Digitale Bijdrag...|

@@ -28,7 +28,7 @@
 |[https://bevolkingsprognose2017.brabant.nl](https://bevolkingsprognose2017.brabant.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|Total Design - S...|
 |[https://werkplek.brabant.nl](https://werkplek.brabant.nl)| **A+**| **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS||
 |[https://huisstijl.brabant.nl](https://huisstijl.brabant.nl)| **A+**| **A**||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Google Tag Manager HSTS Microsoft ASP.NET Sitecore|Home - Huisstijl...|
-|[https://www-ontw.brabant.nl](https://www-ontw.brabant.nl)| **A**| **F**|BigIP|:o: | | | | | :white_check_mark: | | :white_check_mark: | |F5 BigIP||
+|[http://www-ontw.brabant.nl](http://www-ontw.brabant.nl)| **A**| **F**|BigIP|:o: | | | | | :white_check_mark: | | :white_check_mark: | |F5 BigIP||
 |[https://esb-acpt.brabant.nl](https://esb-acpt.brabant.nl)| **A**| **F**|BigIP| | | | | | | | :white_check_mark: | |F5 BigIP|The page cannot...|
 |[http://brain-ontw.brabant.nl](http://brain-ontw.brabant.nl)| **A**| **F**|BigIP|:o: | | | | | :white_check_mark: | | :white_check_mark: | |F5 BigIP||
 |[https://bbma.brabant.nl](https://bbma.brabant.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|Total Design - S...|
@@ -49,7 +49,7 @@
 |[https://wegen.brabant.nl](https://wegen.brabant.nl)| **A+**| **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET|Object moved|
 |[https://brabantnext.brabant.nl](https://brabantnext.brabant.nl)| | **A**|HYPE| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:hype||
 |[https://autorisatie-prod.brabant.nl](https://autorisatie-prod.brabant.nl)| **A+**| **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
-|[https://beeldbank.brabant.nl](https://beeldbank.brabant.nl)| **A**| **B**||:warning: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET|Homepage | Provi...|
+|[https://beeldbank.brabant.nl](https://beeldbank.brabant.nl)| **A**| **B**||:warning: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:4.0.30319|Homepage | Provi...|
 |[https://esb-test.brabant.nl](https://esb-test.brabant.nl)| **A**| **F**|BigIP| | | | | | | | :white_check_mark: | |F5 BigIP|The page cannot...|
 |[https://brabant.nl](https://brabant.nl)| **A+**| **B**|BigIP|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |F5 BigIP HSTS||
 |[http://torenvalk.brabant.nl](http://torenvalk.brabant.nl)| | **F**|BigIP| | | | | | | | :white_check_mark: | |F5 BigIP||
@@ -66,7 +66,7 @@
 |[https://brains-acc.brabant.nl](https://brains-acc.brabant.nl)| **A+**| **B**|Apache|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS||
 |[https://facilitor.brabant.nl](https://facilitor.brabant.nl)| **A**| **B**|BigIP|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |F5 BigIP||
 |[https://www.dataportaal.brabant.nl](https://www.dataportaal.brabant.nl)| | **F**|Microsoft-Azure-Application-Gateway/v2| | | | | | | | :white_check_mark: | ||404 Not Found|
-|[http://blogs.brabant.nl](http://blogs.brabant.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx||
+|[https://blogs.brabant.nl](https://blogs.brabant.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|This is the defa...|
 |[http://draf-acpt.brabant.nl](http://draf-acpt.brabant.nl)| | **F**|Microsoft-IIS/10.0| | | | | | | | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server|403 - Forbidden:...|
 |[https://publicaties.brabant.nl](https://publicaties.brabant.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||
 |[https://samenwerken.brabant.nl](https://samenwerken.brabant.nl)| **A**| **A**|BigIP|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |F5 BigIP||
@@ -92,7 +92,7 @@
 |[https://bevolkingsprognose2020.brabant.nl](https://bevolkingsprognose2020.brabant.nl)| **A**| **A**|Apache| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server Drupal:7 HSTS PHP|De bevolkings- e...|
 |[https://app.brabant.nl](https://app.brabant.nl)| **A**| **F**|LiteSpeed| | | | | | | | :white_check_mark: | |HTTP/3 LiteSpeed||
 |[https://mik-acpt.brabant.nl](https://mik-acpt.brabant.nl)| **A+**| **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|Page Redirection|
-|[http://bzv-a.brabant.nl](http://bzv-a.brabant.nl)| **B**| **F**|Microsoft-IIS/10.0| | | | | | | | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server|403 - Forbidden:...|
+|[https://bzv-a.brabant.nl](https://bzv-a.brabant.nl)| **B**| **C**|Microsoft-IIS/10.0|:warning: |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS IIS:10.0 Microsoft ASP.NET:4.0.30319 Windows Server||
 |[https://geoportaal-acceptatie.brabant.nl](https://geoportaal-acceptatie.brabant.nl)| | **F**|Microsoft-Azure-Application-Gateway/v2| | | | | | | | :white_check_mark: | ||502 Bad Gateway|
 |[http://informatie-rws.brabant.nl](http://informatie-rws.brabant.nl)| | **F**|BigIP| | | | | | | | :white_check_mark: | |F5 BigIP||
 |[https://digicheck.brabant.nl](https://digicheck.brabant.nl)| **B**| **E**|| | | | | | | | :white_check_mark: | |Microsoft ASP.NET||

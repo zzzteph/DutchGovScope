@@ -10,7 +10,7 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/duurzamecao.nl/subdomains.txt)|15|Alive subdomains|
+|[subdomains.txt](/data/duurzamecao.nl/subdomains.txt)|16|Alive subdomains|
 |[urls.txt](/data/duurzamecao.nl/urls.txt)|15|Urls|
 |[all_subdomains.txt](/data/duurzamecao.nl/all_subdomains.txt)|16|All found subdomains (history)|
 

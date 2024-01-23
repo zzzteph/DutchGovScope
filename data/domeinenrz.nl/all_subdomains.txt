@@ -32,3 +32,4 @@ www.bdx.domeinenrz.nl
 gn2-p-sap-smp.is.domeinenrz.nl
 vpn3.domeinenrz.nl
 bp2-acc.domeinenrz.nl
+toegankelijkheidsonderzoek-english.domeinenrz.nl

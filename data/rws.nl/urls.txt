@@ -142,7 +142,6 @@ http://xwd.rws.nl
 https://zwerfafval.rws.nl
 https://rws.nl
 https://onderwaterobjecten.rws.nl
-https://spin2.rws.nl
 https://acc-onderwaterobjecten.rws.nl
 https://acc-sonarreg.rws.nl
 https://tst-onderwaterobjecten.rws.nl

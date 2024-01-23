@@ -36,7 +36,7 @@
 |[https://feeds.english.ctgb.nl](https://feeds.english.ctgb.nl)| **A+**| **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://pesticidesdatabase.ctgb.nl](https://pesticidesdatabase.ctgb.nl)| **A**| **F**|nginx|:white_check_mark: | | | |:warning: | | | :white_check_mark: | |Nginx|CTGB Toelatingen|
 |[http://mdm-acc.ctgb.nl](http://mdm-acc.ctgb.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
-|[https://connect.ctgb.nl](https://connect.ctgb.nl)| | **F**|BigIP| | | | | | | | :white_check_mark: | |F5 BigIP||
+|[https://connect.ctgb.nl](https://connect.ctgb.nl)| | **E**|| | | | | | | | :white_check_mark: | |F5 BigIP HSTS||
 |[http://mst.ctgb.nl](http://mst.ctgb.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://gewasbeschermingsmiddelen.ctgb.nl](https://gewasbeschermingsmiddelen.ctgb.nl)| **A**| **F**|nginx|:white_check_mark: | | | |:warning: | | | :white_check_mark: | |Nginx|CTGB Toelatingen|
 |[http://mst-acc.ctgb.nl](http://mst-acc.ctgb.nl)| | **E**|| | | | | | | | :white_check_mark: | |||

@@ -6,7 +6,6 @@ https://apps.dictu.nl
 https://asb.webftp.dictu.nl
 https://auth.dictu.nl
 https://auth-acc.dictu.nl
-https://auth-tst.dictu.nl
 https://avd.webftp.dictu.nl
 https://bpp.webftp.dictu.nl
 http://c-pki.dictu.nl

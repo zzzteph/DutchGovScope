@@ -88,7 +88,7 @@
 |[https://highcharts-test.cbs.nl](https://highcharts-test.cbs.nl)| **A+**| **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Highcharts Edito...|
 |[https://historisch.cbs.nl](https://historisch.cbs.nl)| **A+**| **A**|...|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bootstrap HSTS PHP:8.1.26|Zoeken - CBS|
 |[https://historischebeelden.cbs.nl](https://historischebeelden.cbs.nl)| **A**| **E**||:warning: | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Microsoft ASP.NET:4.0.30319|Homepage | Centr...|
-|[https://historischebeeldenbeheer.cbs.nl](https://historischebeeldenbeheer.cbs.nl)| **A**| **E**|Picture Pack|:warning: | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Microsoft ASP.NET|Picture Pack|
+|[https://historischebeeldenbeheer.cbs.nl](https://historischebeeldenbeheer.cbs.nl)| **A**| **E**|Picture Pack|:warning: | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Microsoft ASP.NET:4.0.30319|Picture Pack|
 |[https://ihg.cbs.nl](https://ihg.cbs.nl)| **A+**| **C**|Microsoft-IIS/10.0| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS IIS:10.0 Microsoft ASP.NET Windows Server|Doorverwijzing I...|
 |[https://intdevtestlogin.cbs.nl](https://intdevtestlogin.cbs.nl)| **A**| **E**|| | | | | | | | :white_check_mark: | |||
 |[https://isi.cbs.nl](https://isi.cbs.nl)| **A**| **A**|Apache/2| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server:2|302 Found|
@@ -97,7 +97,7 @@
 |[https://iv3-pilot.cbs.nl](https://iv3-pilot.cbs.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://iv3statline.cbs.nl](https://iv3statline.cbs.nl)| **A+**| **A**|Webserver| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |Bootstrap:3.0.0 D3 HSTS NVD3|CBS Statline|
 |[https://iv3statline2.cbs.nl](https://iv3statline2.cbs.nl)| **A**| **E**|| | | | | | | | :white_check_mark: | |||
-|[https://jeugdmonitor.cbs.nl](https://jeugdmonitor.cbs.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Drupal:10 HSTS Nginx PHP:8.2.14 Varnish:6.0|Home | Jeugdmoni...|
+|[https://jeugdmonitor.cbs.nl](https://jeugdmonitor.cbs.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Drupal:10 HSTS Nginx PHP:8.2.14 Varnish|Home | Jeugdmoni...|
 |[https://jeugdmonitor-acc.cbs.nl](https://jeugdmonitor-acc.cbs.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Drupal:10 HSTS Nginx PHP:8.2.14 Varnish|Home | Jeugdmoni...|
 |[https://jeugdstatline.cbs.nl](https://jeugdstatline.cbs.nl)| **A**| **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |||
 |[https://jmopendata.cbs.nl](https://jmopendata.cbs.nl)| **A+**| **A**|Webserver| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |Bootstrap:3.0.0 D3 HSTS NVD3|CBS Statline|
@@ -159,7 +159,7 @@
 |[https://sts.cbs.nl](https://sts.cbs.nl)| **B**| **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
 |[https://surveys.cbs.nl](https://surveys.cbs.nl)| **A+**| **C**|Microsoft-IIS/10.0| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS IIS:10.0 Microsoft ASP.NET Windows Server|IIS Windows Serv...|
 |[https://tabi.cbs.nl](https://tabi.cbs.nl)| **A**| **E**|| | | | | | | | :white_check_mark: | |||
-|[https://taxonomie.cbs.nl](https://taxonomie.cbs.nl)| **B**| **F**|Microsoft-IIS/10.0| | | | | | | | :white_check_mark: | |IIS:10.0 Windows Server|Document Moved|
+|[https://taxonomie.cbs.nl](https://taxonomie.cbs.nl)| **B**| **F**|Apache/2.4.41 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.41 Ubuntu||
 |[https://test.cerberus.cbs.nl](https://test.cerberus.cbs.nl)| **B**| **E**|| | | | | | | | :white_check_mark: | ||CerBeruS|
 |[https://testchat.cbs.nl](https://testchat.cbs.nl)| **A**| **E**|| | | | | | | | :white_check_mark: | |||
 |[https://testlogin.cbs.nl](https://testlogin.cbs.nl)| **A**| **E**|| | | | | | | | :white_check_mark: | |||

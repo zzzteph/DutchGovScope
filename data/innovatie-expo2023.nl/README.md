@@ -12,7 +12,7 @@
 |------------|-------|------|
 |[subdomains.txt](/data/innovatie-expo2023.nl/subdomains.txt)|1|Alive subdomains|
 |[urls.txt](/data/innovatie-expo2023.nl/urls.txt)|1|Urls|
-|[all_subdomains.txt](/data/innovatie-expo2023.nl/all_subdomains.txt)|1|All found subdomains (history)|
+|[all_subdomains.txt](/data/innovatie-expo2023.nl/all_subdomains.txt)|2|All found subdomains (history)|
 
 
 ## Statistics

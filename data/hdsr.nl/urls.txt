@@ -3,7 +3,6 @@ https://zaaksysteem.hdsr.nl
 https://ftp-hdsr.hdsr.nl
 https://loket-acc.hdsr.nl
 https://webdiensten.hdsr.nl
-https://cawfirewall.hdsr.nl
 https://testbegrippen.hdsr.nl
 https://loket.hdsr.nl
 https://uconnect.hdsr.nl
@@ -17,10 +16,12 @@ https://geoweb.hdsr.nl
 http://www1.hdsr.nl
 https://kennis.hdsr.nl
 https://kaarten.hdsr.nl
+https://begrippen.hdsr.nl
 https://zaaksysteem-acc.hdsr.nl
 http://zoeken.hdsr.nl
 https://uconnect-acc.hdsr.nl
 https://wsus.hdsr.nl
+https://remote-pa.hdsr.nl
 https://geoservices.hdsr.nl
 https://hdsr.nl
 https://kantoor.hdsr.nl

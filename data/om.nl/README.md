@@ -22,7 +22,7 @@
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[https://moordzaak.om.nl](https://moordzaak.om.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Heroku Nginx|OM Moordgame|
 |[https://murder-case.om.nl](https://murder-case.om.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Heroku Nginx|OM Moordgame|
-|[https://boetebase.om.nl](https://boetebase.om.nl)| | **D**|| | | | | | :white_check_mark: | | :white_check_mark: | |Microsoft ASP.NET:4.0.30319|Boetebase - Open...|
+|[https://boetebase.om.nl](https://boetebase.om.nl)| | **D**|| | | | | | :white_check_mark: | | :white_check_mark: | |Microsoft ASP.NET|Boetebase - Open...|
 |[https://feeds.om.nl](https://feeds.om.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://om.nl](https://om.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
 |[https://opendata.om.nl](https://opendata.om.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
@@ -39,7 +39,7 @@
 |[https://strafdossiermh17.om.nl](https://strafdossiermh17.om.nl)| | **F**|nginx/1.25.1| | | | | | | | :white_check_mark: | |HSTS Nginx:1.25.1|Strafdossier MH1...|
 |[https://dialin.om.nl](https://dialin.om.nl)| | **F**|Microsoft-IIS/10.0| | | | | | | | :white_check_mark: | |HSTS IIS:10.0 Windows Server|Conferencing Dia...|
 |[https://lyncdiscover.om.nl](https://lyncdiscover.om.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
-|[https://meet.om.nl](https://meet.om.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS|Skype for Busine...|
+|[http://meet.om.nl](http://meet.om.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||
 |[https://sip.om.nl](https://sip.om.nl)| | **C**|RTC/6.0| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
 |[https://webservices.om.nl](https://webservices.om.nl)| | **F**|Microsoft-IIS/10.0| | | | | | | | :white_check_mark: | |HSTS IIS:10.0 Windows Server||
 |[https://telewerken.om.nl](https://telewerken.om.nl)| | **A**||:warning: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Microsoft ASP.NET||

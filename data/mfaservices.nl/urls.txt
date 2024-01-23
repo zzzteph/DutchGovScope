@@ -10,6 +10,9 @@ https://acc.protocol.mfaservices.nl
 https://consular.mfaservices.nl
 https://consular-service.consular.mfaservices.nl
 https://countrydashboard.mfaservices.nl
+https://dev-data-exchange.consular.mfaservices.nl
+https://dev-developer-portal-management.data-exchange.consular.mfaservices.nl
+https://dev-developer-portal.data-exchange.consular.mfaservices.nl
 https://dev-insights.mfaservices.nl
 https://dev.consular.mfaservices.nl
 https://dev.consular-service.consular.mfaservices.nl

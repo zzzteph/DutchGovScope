@@ -1,5 +1,7 @@
 # Dutch Government Bug Bounty Scope Analysis
 Welcome to the repository dedicated to the analysis of the Dutch government's bug bounty program which includes an extensive list of domains, subdomains, and URLs, along with in-depth daily analysis. *This is **NOT** official bugbounty scope.*
+
+
 To file a Coordinated Vulnerability Disclosure (CVD) report or to know more, please visit the page [https://www.ncsc.nl/contact/kwetsbaarheid-melden](https://www.ncsc.nl/contact/kwetsbaarheid-melden).
 ## Overview
 This project aims to provide a detailed overview of the digital landscape covered by the Dutch government's bug bounty program. By cataloging and analyzing various aspects of the web infrastructure, it's aim to contribute to the security and robustness of these digital assets.
@@ -37,9 +39,9 @@ In the [`/data`](/data) directory, there's an analysis of security configuration
  - **CORS:** :white_check_mark: if *CORS* header is set without issues (+10)
 ## Repository Structure
  - [domains.txt](/dutchgov/domains.txt): List of **1219** domains in scope
- - [subdomains.txt](/dutchgov/subdomains.txt): Detailed list of **16313** alive subdomains.
- - [urls.txt](/dutchgov/urls.txt): Compilation of **10068** URLs.
- - [all_subdomains.txt](/dutchgov/all_subdomains.txt): All **32243** subdomains that were found all over the time 
+ - [subdomains.txt](/dutchgov/subdomains.txt): Detailed list of **16294** alive subdomains.
+ - [urls.txt](/dutchgov/urls.txt): Compilation of **10008** URLs.
+ - [all_subdomains.txt](/dutchgov/all_subdomains.txt): All **32270** subdomains that were found all over the time 
  - [/data](/data): Folder containing daily updated analysis for every domain.
 ## Links and acknowledgements
  - [basisbeveiliging.nl](https://basisbeveiliging.nl/) \- *How well the Dutch government implements basic security requirements with great security map!*
@@ -51,5 +53,7 @@ In the [`/data`](/data) directory, there's an analysis of security configuration
  - [ssllabs.com/ssltest](https://www.ssllabs.com/ssltest/)
  - [securityheaders.com](https://securityheaders.com/)
  - [NCSC HOF](https://www.ncsc.nl/contact/kwetsbaarheid-melden/wall-of-fame)
+
+
 To file a Coordinated Vulnerability Disclosure (CVD) report or to know more, please visit the page [https://www.ncsc.nl/contact/kwetsbaarheid-melden](https://www.ncsc.nl/contact/kwetsbaarheid-melden).
 

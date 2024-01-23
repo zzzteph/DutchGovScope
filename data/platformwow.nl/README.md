@@ -20,7 +20,7 @@
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://cdn.platformwow.nl](https://cdn.platformwow.nl)| | **B**|ECAcc (frc/4CA8)|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Alpine.js Azure Azure CDN HSTS|Platform WOW|
+|[https://cdn.platformwow.nl](https://cdn.platformwow.nl)| | **B**|ECAcc (frc/4C86)|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Alpine.js Azure Azure CDN HSTS|Platform WOW|
 |[https://email.platformwow.nl](https://email.platformwow.nl)| | **C**|Spotler| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
 |[https://jaarverslag2015.platformwow.nl](https://jaarverslag2015.platformwow.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|404 Not Found|
 |[https://jaarverslag2016.platformwow.nl](https://jaarverslag2016.platformwow.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|404 Not Found|

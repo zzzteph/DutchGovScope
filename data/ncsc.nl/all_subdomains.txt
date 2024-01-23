@@ -88,3 +88,4 @@ acc.ncsc.nl
 api.mijn.acc.ncsc.nl
 mijn.acc.ncsc.nl
 vulnerabilities.ncsc.nl
+gitnmp.arp.ncsc.nl

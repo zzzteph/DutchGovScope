@@ -11,7 +11,7 @@
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/dictu.nl/subdomains.txt)|144|Alive subdomains|
-|[urls.txt](/data/dictu.nl/urls.txt)|71|Urls|
+|[urls.txt](/data/dictu.nl/urls.txt)|70|Urls|
 |[all_subdomains.txt](/data/dictu.nl/all_subdomains.txt)|289|All found subdomains (history)|
 
 
@@ -28,7 +28,6 @@
 |[https://asb.webftp.dictu.nl](https://asb.webftp.dictu.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Redirect|
 |[https://auth.dictu.nl](https://auth.dictu.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|302 Found|
 |[https://auth-acc.dictu.nl](https://auth-acc.dictu.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|302 Found|
-|[https://auth-tst.dictu.nl](https://auth-tst.dictu.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS|302 Found|
 |[https://avd.webftp.dictu.nl](https://avd.webftp.dictu.nl)| | **E**|| | | | | | | | :white_check_mark: | |Basic|Redirect|
 |[https://bpp.webftp.dictu.nl](https://bpp.webftp.dictu.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Redirect|
 |[http://c-pki.dictu.nl](http://c-pki.dictu.nl)| | **F**|Microsoft-IIS/8.5| | | | | | | | :white_check_mark: | |IIS:8.5 Windows Server|c-pki.dictu.nl -...|
@@ -52,7 +51,7 @@
 |[https://klussenbank.dictu.nl](https://klussenbank.dictu.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|403 Forbidden|
 |[https://klussenbank-acc.dictu.nl](https://klussenbank-acc.dictu.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Basic Nginx|401 Authorizatio...|
 |[https://mailing.dictu.nl](https://mailing.dictu.nl)| | **C**|Spotler| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
-|[https://mft.webftp.dictu.nl](https://mft.webftp.dictu.nl)| | **E**|| | | | | | | | :white_check_mark: | |Basic|Redirect|
+|[https://mft.webftp.dictu.nl](https://mft.webftp.dictu.nl)| | **E**|| | | | | | | | :white_check_mark: | |Basic|Unauthorized|
 |[https://mijntoken.dictu.nl](https://mijntoken.dictu.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|302 Moved Tempor...|
 |[https://pms.dictu.nl](https://pms.dictu.nl)| | **C**||:warning: |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS Microsoft ASP.NET|Object moved|
 |[https://pms-acc.dictu.nl](https://pms-acc.dictu.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET||

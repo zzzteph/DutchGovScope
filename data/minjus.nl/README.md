@@ -20,7 +20,7 @@
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://dialin.acpt.dji.minjus.nl](https://dialin.acpt.dji.minjus.nl)| | **F**|Microsoft-IIS/10.0| | | | | | | | :white_check_mark: | |IIS:10.0 Windows Server|Runtime Error|
+|[https://dialin.acpt.dji.minjus.nl](https://dialin.acpt.dji.minjus.nl)| | **C**|Microsoft-IIS/10.0| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS IIS:10.0 Windows Server|Conferencing Dia...|
 |[https://lyncdiscover.acpt.dji.minjus.nl](https://lyncdiscover.acpt.dji.minjus.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://autodiscover.acpt.dji.minjus.nl](https://autodiscover.acpt.dji.minjus.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://meet.dji.minjus.nl](https://meet.dji.minjus.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|Skype for Busine...|
@@ -30,7 +30,7 @@
 |[https://sip002.dji.minjus.nl](https://sip002.dji.minjus.nl)| | **C**|RTC/6.0| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
 |[https://www.minjus.nl](https://www.minjus.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[http://portal.justid.minjus.nl](http://portal.justid.minjus.nl)| | **D**|nginx| | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Nginx|Welcome to nginx...|
-|[https://ews-external.dji.minjus.nl](https://ews-external.dji.minjus.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
+|[https://ews-external.dji.minjus.nl](https://ews-external.dji.minjus.nl)| | **F**|Microsoft-IIS/10.0| | | | | | | | :white_check_mark: | |HSTS IIS:10.0 Microsoft ASP.NET Outlook Web App:15.2.1258.28 Windows Server|Object moved|
 |[https://enterpriseenrollment.dji.minjus.nl](https://enterpriseenrollment.dji.minjus.nl)| | **C**|server| | | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | ||302 Found|
 |[https://sip.dji.minjus.nl](https://sip.dji.minjus.nl)| | **C**|RTC/6.0| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
 |[https://sip004.dji.minjus.nl](https://sip004.dji.minjus.nl)| | **F**|RTC/6.0| | | | | | | | :white_check_mark: | |HSTS||
