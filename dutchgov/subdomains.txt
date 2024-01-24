@@ -2010,11 +2010,16 @@ www.donorregister.nl
 donorregister.nl
 www.donorregistratie.nl
 donorregistratie.nl
+b2btest-osb.douane.nl
+exchangerate.douane.nl
+exchangeratetest.douane.nl
 ier-online.douane.nl
 mobiel.douane.nl
 nh.douane.nl
+reizigers.douane.nl
 tarief.douane.nl
 tarief.str4.acc.douane.nl
+validationcalculation.douane.nl
 validationcalculationtest.douane.nl
 vluchtinfo.douane.nl
 vluchtinfo-test.douane.nl
@@ -2971,10 +2976,6 @@ opendata.kiesraad.nl
 www.kiesraad.nl
 kiesraad.nl
 sdm.kiesraad.nl
-feeds.kijkopeuropa.nl
-opendata.kijkopeuropa.nl
-www.kijkopeuropa.nl
-kijkopeuropa.nl
 aanmelden.kijkopeuropa.nl
 swipen.kijkopeuropa.nl
 vragen.kijkopeuropa.nl
@@ -10715,6 +10716,11 @@ redactie.veiligheidsregioflevoland.nl
 veiligheidsregioflevoland.nl
 www.veiligheidsregioflevoland.nl
 lelystadinternetwww.veiligheidsregioflevoland.nl
+autodiscover.veiligheidsregioflevoland.nl
+enterpriseenrollment.veiligheidsregioflevoland.nl
+msoid.veiligheidsregioflevoland.nl
+enterpriseregistration.veiligheidsregioflevoland.nl
+hostmaster.veiligheidsregioflevoland.nl
 www.onderzoekswijs.nl
 onderzoekswijs.nl
 acc.iaas-portal.odc-noord.nl
@@ -10848,6 +10854,7 @@ sip.iuc-noord.nl
 www.iuc-noord.nl
 iuc-noord.nl
 www.innovatie-expo2023.nl
+innovatie-expo2023.nl
 bis2021-2024.cultuur.nl
 bescherming-cultuurgoederen.cultuur.nl
 sharepoint.cultuur.nl

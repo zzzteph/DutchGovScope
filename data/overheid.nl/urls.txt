@@ -162,7 +162,7 @@ https://repository.overheid.nl
 https://repository-eto.overheid.nl
 https://ruimte.acc.omgevingswet.overheid.nl
 https://ruimte.dmo.omgevingswet.overheid.nl
-https://ruimte.int.omgevingswet.overheid.nl
+http://ruimte.int.omgevingswet.overheid.nl
 https://ruimte.kta.omgevingswet.overheid.nl
 https://ruimte.omgevingswet.overheid.nl
 https://ruimte.pfm.omgevingswet.overheid.nl

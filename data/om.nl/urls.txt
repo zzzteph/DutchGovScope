@@ -17,7 +17,7 @@ https://fcvpn.om.nl
 https://strafdossiermh17.om.nl
 https://dialin.om.nl
 https://lyncdiscover.om.nl
-http://meet.om.nl
+https://meet.om.nl
 https://sip.om.nl
 https://webservices.om.nl
 https://telewerken.om.nl

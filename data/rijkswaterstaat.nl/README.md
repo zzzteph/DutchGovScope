@@ -11,7 +11,7 @@
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/rijkswaterstaat.nl/subdomains.txt)|123|Alive subdomains|
-|[urls.txt](/data/rijkswaterstaat.nl/urls.txt)|92|Urls|
+|[urls.txt](/data/rijkswaterstaat.nl/urls.txt)|89|Urls|
 |[all_subdomains.txt](/data/rijkswaterstaat.nl/all_subdomains.txt)|656|All found subdomains (history)|
 
 
@@ -31,7 +31,6 @@
 |[https://am.ont.rijkswaterstaat.nl](https://am.ont.rijkswaterstaat.nl)| | **F**|Microsoft-Azure-Application-Gateway/v2| | | | | | | | :white_check_mark: | ||403 Forbidden|
 |[https://am.tst.rijkswaterstaat.nl](https://am.tst.rijkswaterstaat.nl)| | **F**|Microsoft-Azure-Application-Gateway/v2| | | | | | | | :white_check_mark: | ||403 Forbidden|
 |[https://bezoekerscentrum.rijkswaterstaat.nl](https://bezoekerscentrum.rijkswaterstaat.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS MySQL Nginx PHP WordPress||
-|[https://bmm.rijkswaterstaat.nl](https://bmm.rijkswaterstaat.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Website niet bes...|
 |[https://botova.rijkswaterstaat.nl](https://botova.rijkswaterstaat.nl)| | **C**|Microsoft-IIS/10.0|:warning: |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS IIS:10.0 Microsoft ASP.NET Windows Server|Document Moved|
 |[https://crisiswerkplek.rijkswaterstaat.nl](https://crisiswerkplek.rijkswaterstaat.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET||
 |[http://data.rijkswaterstaat.nl](http://data.rijkswaterstaat.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
@@ -47,7 +46,6 @@
 |[https://hld.rijkswaterstaat.nl](https://hld.rijkswaterstaat.nl)| | **F**|| | | :warning:| | | | | :white_check_mark: | |Microsoft ASP.NET SDL Tridion YouTube|Object moved|
 |[https://iam.rijkswaterstaat.nl](https://iam.rijkswaterstaat.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
 |[https://inloggen.rijkswaterstaat.nl](https://inloggen.rijkswaterstaat.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Pulse Secure||
-|[https://live.prd.web-static.rijkswaterstaat.nl](https://live.prd.web-static.rijkswaterstaat.nl)| | **F**|RWS Webserver| | | | | | | | :white_check_mark: | ||502 Proxy Error|
 |[https://loket.rijkswaterstaat.nl](https://loket.rijkswaterstaat.nl)| | **A**||:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bootstrap HSTS Java Material Design Lite|Digitaal loket|
 |[https://loket.acceptatie.rijkswaterstaat.nl](https://loket.acceptatie.rijkswaterstaat.nl)| | **A**||:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bootstrap HSTS Java Material Design Lite|Digitaal loket|
 |[https://maps.rijkswaterstaat.nl](https://maps.rijkswaterstaat.nl)| | **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Nginx|Landingspagina I...|
@@ -63,7 +61,6 @@
 |[http://prs.rijkswaterstaat.nl](http://prs.rijkswaterstaat.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://rhel8.wabinfo.rijkswaterstaat.nl](https://rhel8.wabinfo.rijkswaterstaat.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://spin.rijkswaterstaat.nl](https://spin.rijkswaterstaat.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |||
-|[https://staging.prd.web-static.rijkswaterstaat.nl](https://staging.prd.web-static.rijkswaterstaat.nl)| | **F**|RWS Webserver| | | | | | | | :white_check_mark: | ||502 Proxy Error|
 |[https://standaarden.rijkswaterstaat.nl](https://standaarden.rijkswaterstaat.nl)| | **B**|nginx| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS Nginx|Mendix|
 |[https://static.acp.live.rijkswaterstaat.nl](https://static.acp.live.rijkswaterstaat.nl)| | **C**|Microsoft-Azure-Application-Gateway/v2| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|403 Forbidden|
 |[https://static.acp.live.werkenbij.rijkswaterstaat.nl](https://static.acp.live.werkenbij.rijkswaterstaat.nl)| | **C**|Microsoft-Azure-Application-Gateway/v2| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|403 Forbidden|
@@ -76,7 +73,7 @@
 |[https://static.ont.staging.rijkswaterstaat.nl](https://static.ont.staging.rijkswaterstaat.nl)| | **C**|Microsoft-Azure-Application-Gateway/v2| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|403 Forbidden|
 |[https://static.ont.staging.werkenbij.rijkswaterstaat.nl](https://static.ont.staging.werkenbij.rijkswaterstaat.nl)| | **C**|Microsoft-Azure-Application-Gateway/v2| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|403 Forbidden|
 |[https://static.staging.rijkswaterstaat.nl](https://static.staging.rijkswaterstaat.nl)| | **D**|Microsoft-IIS/10.0|:warning: |:white_check_mark: | | | | | | :white_check_mark: | |HSTS IIS:10.0 Windows Server|403 - Forbidden:...|
-|[https://static.staging.werkenbij.rijkswaterstaat.nl](https://static.staging.werkenbij.rijkswaterstaat.nl)| | **D**|Microsoft-IIS/10.0|:warning: |:white_check_mark: | | | | | | :white_check_mark: | |HSTS IIS:10.0 Windows Server|403 - Forbidden:...|
+|[https://static.staging.werkenbij.rijkswaterstaat.nl](https://static.staging.werkenbij.rijkswaterstaat.nl)| | **D**|Microsoft-Azure-Application-Gateway/v2|:warning: |:white_check_mark: | | | | | | :white_check_mark: | |HSTS IIS:10.0 Windows Server|Onderhoud|
 |[https://static.tst.live.rijkswaterstaat.nl](https://static.tst.live.rijkswaterstaat.nl)| | **C**|Microsoft-Azure-Application-Gateway/v2| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|403 Forbidden|
 |[https://static.tst.live.werkenbij.rijkswaterstaat.nl](https://static.tst.live.werkenbij.rijkswaterstaat.nl)| | **C**|Microsoft-Azure-Application-Gateway/v2| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|403 Forbidden|
 |[https://static.tst.staging.rijkswaterstaat.nl](https://static.tst.staging.rijkswaterstaat.nl)| | **F**|Microsoft-Azure-Application-Gateway/v2| | | | | | | | :white_check_mark: | ||502 Bad Gateway|

@@ -31,7 +31,7 @@
 |[https://cdn.knmi.nl](https://cdn.knmi.nl)| | **F**|AmazonS3| | | | | | | | :white_check_mark: | |Amazon CloudFront Amazon S3 Amazon Web Services||
 |[http://cesar-database.knmi.nl](http://cesar-database.knmi.nl)| | **F**|BigIP| | | | | | | | :white_check_mark: | |F5 BigIP||
 |[https://climexp.knmi.nl](https://climexp.knmi.nl)| | **C**|Apache/2.4.41 (Ubuntu)| |:white_check_mark: | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.41 HSTS Ubuntu||
-|[https://connect.knmi.nl](https://connect.knmi.nl)| | **C**||:warning: |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |F5 BigIP HSTS||
+|[https://connect.knmi.nl](https://connect.knmi.nl)| | **C**|BigIP|:warning: |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |F5 BigIP||
 |[https://consultatie.knmi.nl](https://consultatie.knmi.nl)| | **F**|Apache/2.4.25 (Debian)|:o: | | | | | | | :white_check_mark: | |Amazon ALB Amazon Web Services Apache HTTP Server:2.4.25 CakePHP Debian PHP:5.6.40||
 |[https://daggegevens.knmi.nl](https://daggegevens.knmi.nl)| | **E**||:warning: | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Ruby Ruby on Rails|Dagwaarden van w...|
 |[https://data.knmi.nl](https://data.knmi.nl)| | **A**|awselb/2.0| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |Amazon ELB Amazon Web Services|301 Moved Perman...|

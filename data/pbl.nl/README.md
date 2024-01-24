@@ -37,7 +37,7 @@
 |[https://themasites.pbl.nl](https://themasites.pbl.nl)| | **A**|Microsoft-Azure-Application-Gateway/v2|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: ||301 Moved Perman...|
 |[https://webmail.pbl.nl](https://webmail.pbl.nl)| | **F**|Microsoft-IIS/10.0| | | | | | | | :white_check_mark: | |HSTS IIS:10.0 Microsoft ASP.NET Windows Server||
 |[https://webservices.pbl.nl](https://webservices.pbl.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|Test Page for th...|
-|[https://www.pbl.nl](https://www.pbl.nl)| | **A**|Apache|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Apache HTTP Server Drupal:7 HSTS PHP:7.3.33|PBL Planbureau v...|
-|[https://pbl.nl](https://pbl.nl)| | **A**|Apache| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Apache HTTP Server HSTS|301 Moved Perman...|
+|[https://www.pbl.nl](https://www.pbl.nl)| | **A**||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Drupal:10 HSTS PHP|Home | Planburea...|
+|[https://pbl.nl](https://pbl.nl)| | **A**|Microsoft-Azure-Application-Gateway/v2| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Apache HTTP Server HSTS|301 Moved Perman...|
 |[https://mailings.pbl.nl](https://mailings.pbl.nl)| | **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Nginx||
 

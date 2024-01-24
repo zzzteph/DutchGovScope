@@ -146,7 +146,7 @@ https://dth.hermes.databank.nl
 https://arbeidmarkt.databank.nl
 https://vragenlijst.erfgoedinspectie.databank.nl
 https://cname-erfgoed.databank.nl
-http://beta-gdi.databank.nl
+https://beta-gdi.databank.nl
 https://fers.databank.nl
 https://nbtc.databank.nl
 https://rotterdam.databank.nl

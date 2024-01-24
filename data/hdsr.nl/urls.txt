@@ -26,3 +26,4 @@ https://geoservices.hdsr.nl
 https://hdsr.nl
 https://kantoor.hdsr.nl
 https://intranet.ad.hdsr.nl
+https://waterkwaliteitinbeeld.hdsr.nl

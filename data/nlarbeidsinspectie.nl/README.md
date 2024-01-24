@@ -28,6 +28,6 @@
 |[https://acceptatie.portaal.nlarbeidsinspectie.nl](https://acceptatie.portaal.nlarbeidsinspectie.nl)| | **A**||:warning: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Webportaal|
 |[https://test.portaal.nlarbeidsinspectie.nl](https://test.portaal.nlarbeidsinspectie.nl)| | **A**||:warning: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Webportaal|
 |[https://feeds.nlarbeidsinspectie.nl](https://feeds.nlarbeidsinspectie.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
-|[https://nlarbeidsinspectie.nl](https://nlarbeidsinspectie.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
+|[https://nlarbeidsinspectie.nl](https://nlarbeidsinspectie.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
 |[https://test.resultaten.nlarbeidsinspectie.nl](https://test.resultaten.nlarbeidsinspectie.nl)| | **C**|Microsoft-IIS/10.0| |:white_check_mark: | | | | | | :white_check_mark: | |AngularJS HSTS IIS:10.0 Microsoft ASP.NET:4.0.30319 Windows Server|Overzicht uitgev...|
 

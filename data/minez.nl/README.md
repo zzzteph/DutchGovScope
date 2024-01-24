@@ -36,6 +36,6 @@
 |[https://vws-demo.minez.nl](https://vws-demo.minez.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[http://pmt-acc.minez.nl](http://pmt-acc.minez.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET||
 |[https://ibabs.minez.nl](https://ibabs.minez.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET||
-|[http://authpmt-acc.minez.nl](http://authpmt-acc.minez.nl)| | **A**||:o: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
+|[https://authpmt-acc.minez.nl](https://authpmt-acc.minez.nl)| | **A**||:o: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|iBabs - Meet in...|
 |[https://authpmt.minez.nl](https://authpmt.minez.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|iBabs - Meet in...|
 

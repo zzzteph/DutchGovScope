@@ -26,7 +26,7 @@
 |[https://acc.prikkenzonderafspraak.rijksoverheid.nl](https://acc.prikkenzonderafspraak.rijksoverheid.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS|Pagina niet gevo...|
 |[https://acc.quarantainecheck.rijksoverheid.nl](https://acc.quarantainecheck.rijksoverheid.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS|Pagina niet gevo...|
 |[https://acc.quarantaineverklaring.rijksoverheid.nl](https://acc.quarantaineverklaring.rijksoverheid.nl)| | **E**|| | | | | | | | :white_check_mark: | |Basic HSTS|401 Authorizatio...|
-|[https://coronadashboard.rijksoverheid.nl](https://coronadashboard.rijksoverheid.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Azure Azure Front Door Fourthwall:prd-5492-76fadfb7d HSTS Next.js Node.js React Webpack|Coronadashboard...|
+|[https://coronadashboard.rijksoverheid.nl](https://coronadashboard.rijksoverheid.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Azure Azure Front Door Fourthwall:prd-5520-76fadfb7d HSTS Next.js Node.js React Webpack|Coronadashboard...|
 |[http://dns-web10.rijksoverheid.nl](http://dns-web10.rijksoverheid.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server||
 |[http://dns-web300.rijksoverheid.nl](http://dns-web300.rijksoverheid.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server||
 |[https://downloads.persberichten.rijksoverheid.nl](https://downloads.persberichten.rijksoverheid.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|404 - Not Found|

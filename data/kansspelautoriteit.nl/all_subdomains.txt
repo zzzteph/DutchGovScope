@@ -85,3 +85,5 @@ www.stats.kansspelautoriteit.nl
 prod-cdb-01-257-124-v2.kansspelautoriteit.nl
 prod-cdb-01-252-809-v2.kansspelautoriteit.nl
 prod-cdb-01-238-642-v2.kansspelautoriteit.nl
+prod-cdb-01-250-307-v3.kansspelautoriteit.nl
+prod-cdb-01-238-718-v3.kansspelautoriteit.nl

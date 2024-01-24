@@ -11,7 +11,7 @@
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/minjus.nl/subdomains.txt)|43|Alive subdomains|
-|[urls.txt](/data/minjus.nl/urls.txt)|25|Urls|
+|[urls.txt](/data/minjus.nl/urls.txt)|24|Urls|
 |[all_subdomains.txt](/data/minjus.nl/all_subdomains.txt)|443|All found subdomains (history)|
 
 
@@ -30,7 +30,7 @@
 |[https://sip002.dji.minjus.nl](https://sip002.dji.minjus.nl)| | **C**|RTC/6.0| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
 |[https://www.minjus.nl](https://www.minjus.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[http://portal.justid.minjus.nl](http://portal.justid.minjus.nl)| | **D**|nginx| | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Nginx|Welcome to nginx...|
-|[https://ews-external.dji.minjus.nl](https://ews-external.dji.minjus.nl)| | **F**|Microsoft-IIS/10.0| | | | | | | | :white_check_mark: | |HSTS IIS:10.0 Microsoft ASP.NET Outlook Web App:15.2.1258.28 Windows Server|Object moved|
+|[https://ews-external.dji.minjus.nl](https://ews-external.dji.minjus.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS IIS:10.0 Microsoft ASP.NET Outlook Web App:15.2.1258.28 Windows Server||
 |[https://enterpriseenrollment.dji.minjus.nl](https://enterpriseenrollment.dji.minjus.nl)| | **C**|server| | | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | ||302 Found|
 |[https://sip.dji.minjus.nl](https://sip.dji.minjus.nl)| | **C**|RTC/6.0| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
 |[https://sip004.dji.minjus.nl](https://sip004.dji.minjus.nl)| | **F**|RTC/6.0| | | | | | | | :white_check_mark: | |HSTS||
@@ -41,7 +41,6 @@
 |[https://ews-prot.acpt.dji.minjus.nl](https://ews-prot.acpt.dji.minjus.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://lyncdiscover.dji.minjus.nl](https://lyncdiscover.dji.minjus.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://schedule.acpt.dji.minjus.nl](https://schedule.acpt.dji.minjus.nl)| | **C**|Microsoft-IIS/10.0| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS IIS:10.0 Windows Server|403 - Forbidden:...|
-|[https://meet.acpt.dji.minjus.nl](https://meet.acpt.dji.minjus.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|Skype for Busine...|
 |[https://sip003.dji.minjus.nl](https://sip003.dji.minjus.nl)| | **F**|RTC/6.0| | | | | | | | :white_check_mark: | |HSTS||
 |[https://schedule.dji.minjus.nl](https://schedule.dji.minjus.nl)| | **C**|Microsoft-IIS/10.0| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS IIS:10.0 Windows Server|403 - Forbidden:...|
 |[https://enterpriseenrollment.avt.minjus.nl](https://enterpriseenrollment.avt.minjus.nl)| | **C**|server| | | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | ||302 Found|

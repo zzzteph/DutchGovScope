@@ -2,7 +2,7 @@
 layout: default
 ---
 ## Overview
-This project aims to provide a detailed overview of the digital landscape covered by the Dutch government's bug bounty program. By cataloging and analyzing various aspects of the web infrastructure, it's aim to contribute to the security and robustness of these digital assets.
+This project aims to provide a detailed overview of the digital landscape covered by the Dutch government's bug bounty program. By cataloging and analyzing various aspects of the web infrastructure, it's aim is to contribute to the security and robustness of these digital assets.
 ### What is in scope?
 This repository focuses on specific government-related resources. Each resource is selected based on the following criteria:
 1. **Meta Information Requirement:** The resource must include 'RIJKSOVERHEID.Organisatie' in its meta information.
@@ -10,8 +10,8 @@ This repository focuses on specific government-related resources. Each resource 
 3. **Affiliation Declaration:** The page must clearly state its affiliation with the government.
 ### How It Works
 Process for updating this repository is thorough and regular. Here's an overview of how it operates:
-1. **Daily Review and Addition:** New resources are added regulary, either through manual review or automatic processes.
-2. **Use of Specialized Tools:** shrewdeye.app and its standalone version are used to build pipline for analysis and discovery.
+1. **Daily Review and Addition:** New resources are added regularly, either through manual review or automatic processes.
+2. **Use of Specialized Tools:** shrewdeye.app and its standalone version are used to build pipeline for analysis and discovery.
 3. **Workflow Pipeline:**
       - **Subdomain discovery:**  - Shrewdeye.App(API), Amass, Subfinder, Assetfinder, and DnsX.
       - **DNS Clearout:** This step is dedicated to filtering and clarifying DNS data.
@@ -36,9 +36,9 @@ This structured approach ensures that our repository is always up-to-date and ac
  - **CORS:** :white_check_mark: if *CORS* header is set without issues (+10)
 ## Repository Structure
  - [domains.txt](/DutchGovScope/dutchgov/domains.txt): List of **1219** domains in scope
- - [subdomains.txt](/DutchGovScope/dutchgov/subdomains.txt): Detailed list of **16294** alive subdomains.
- - [urls.txt](/DutchGovScope/dutchgov/urls.txt): Compilation of **10008** URLs.
- - [all_subdomains.txt](/DutchGovScope/dutchgov/all_subdomains.txt): All **32270** subdomains that were found all over the time 
+ - [subdomains.txt](/DutchGovScope/dutchgov/subdomains.txt): Detailed list of **16301** alive subdomains.
+ - [urls.txt](/DutchGovScope/dutchgov/urls.txt): Compilation of **10007** URLs.
+ - [all_subdomains.txt](/DutchGovScope/dutchgov/all_subdomains.txt): All **32286** subdomains that were found all over the time 
 ## Links and acknowledgements
  - [basisbeveiliging.nl](https://basisbeveiliging.nl/) \- *How well the Dutch government implements basic security requirements with great security map!*
  - [overheid.nl](https://www.overheid.nl/english/dutch-government-websites)

@@ -25,15 +25,15 @@ https://emobility.rvo.nl
 https://energieslag.rvo.nl
 https://english.rvo.nl
 https://epbdwebservices.rvo.nl
-http://gdi.rvo.nl
+https://gdi.rvo.nl
 https://geocontent.rvo.nl
 https://geoservices.rvo.nl
-http://gtpa.rvo.nl
-https://ih-static.rvo.nl
+https://gtpa.rvo.nl
+http://ih-static.rvo.nl
 https://infographics.rvo.nl
 https://informatiehuis.rvo.nl
 https://intra.rvo.nl
-https://intra-acc.rvo.nl
+http://intra-acc.rvo.nl
 https://intra-cms.rvo.nl
 https://intra-cms-acc.rvo.nl
 https://intranetvan.rvo.nl
@@ -56,7 +56,7 @@ https://projects-acc.rvo.nl
 https://projects-tst.rvo.nl
 https://sharingknowledge.rvo.nl
 https://statistiek.rvo.nl
-http://stglb.rvo.nl
+https://stglb.rvo.nl
 https://test.rvo.nl
 https://test-cms.rvo.nl
 https://test-cms.projects.rvo.nl
@@ -82,7 +82,7 @@ http://ezines.rvo.nl
 https://kennisbank-acc.rvo.nl
 https://gtpa-acc.rvo.nl
 https://handelsmissies.rvo.nl
-http://egeo.rvo.nl
+https://egeo.rvo.nl
 https://rvo.nl
 https://aoep-iam.rvo.nl
 https://networkabroad.rvo.nl

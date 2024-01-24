@@ -21,6 +21,6 @@
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[https://toeslagen.mijntoeslagen.nl](https://toeslagen.mijntoeslagen.nl)| | **F**|nginx/1.24.0| | | | | | | | :white_check_mark: | |Nginx:1.24.0 PHP:8.1.26||
-|[https://mijntoeslagen.nl](https://mijntoeslagen.nl)| | **A**|nginx/1.24.0|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Nginx:1.24.0|403-forbidden|
+|[https://mijntoeslagen.nl](https://mijntoeslagen.nl)| | **A**|nginx/1.24.0|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Nginx:1.24.0|301 Moved Perman...|
 |[https://www.mijntoeslagen.nl](https://www.mijntoeslagen.nl)| | **A**|nginx/1.24.0|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Nginx:1.24.0|301 Moved Perman...|
 

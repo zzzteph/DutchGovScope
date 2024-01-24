@@ -1,5 +1,5 @@
 https://acc.dictu.nl
-https://acc.gisextern.dictu.nl
+http://acc.gisextern.dictu.nl
 https://acc.intranet-demo.dictu.nl
 https://acc.rd.dictu.nl
 https://apps.dictu.nl

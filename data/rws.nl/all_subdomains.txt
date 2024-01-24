@@ -1147,3 +1147,11 @@ www.samp.rws.nl
 www.apop.esb.intranet.rws.nl
 spf-l.rws.nl
 spf-a.rws.nl
+k8s.svm.cnap-am4.intranet.rws.nl
+k8s.svm-admin.cnap-am4.intranet.rws.nl
+k8s.svm-dmz.cnap-am4.intranet.rws.nl
+k8s.svm-bourtange.cnap-am2.intranet.rws.nl
+k8s.svm-rotterdam.cnap-am2.intranet.rws.nl
+k8s.svm-ci.cnap-am4.intranet.rws.nl
+k8s.svm-ede.cnap-am2.intranet.rws.nl
+k8s.svm-gorinchem.cnap-am2.intranet.rws.nl

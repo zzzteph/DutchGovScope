@@ -9,7 +9,6 @@ https://am.acp.rijkswaterstaat.nl
 https://am.ont.rijkswaterstaat.nl
 https://am.tst.rijkswaterstaat.nl
 https://bezoekerscentrum.rijkswaterstaat.nl
-https://bmm.rijkswaterstaat.nl
 https://botova.rijkswaterstaat.nl
 https://crisiswerkplek.rijkswaterstaat.nl
 http://data.rijkswaterstaat.nl
@@ -25,7 +24,6 @@ https://geoweb.rijkswaterstaat.nl
 https://hld.rijkswaterstaat.nl
 https://iam.rijkswaterstaat.nl
 https://inloggen.rijkswaterstaat.nl
-https://live.prd.web-static.rijkswaterstaat.nl
 https://loket.rijkswaterstaat.nl
 https://loket.acceptatie.rijkswaterstaat.nl
 https://maps.rijkswaterstaat.nl
@@ -41,7 +39,6 @@ https://protide.rijkswaterstaat.nl
 http://prs.rijkswaterstaat.nl
 https://rhel8.wabinfo.rijkswaterstaat.nl
 https://spin.rijkswaterstaat.nl
-https://staging.prd.web-static.rijkswaterstaat.nl
 https://standaarden.rijkswaterstaat.nl
 https://static.acp.live.rijkswaterstaat.nl
 https://static.acp.live.werkenbij.rijkswaterstaat.nl

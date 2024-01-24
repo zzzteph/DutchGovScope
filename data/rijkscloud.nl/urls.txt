@@ -142,7 +142,6 @@ https://webmail.rijkscloud.nl
 https://www.rijkscloud.nl
 https://rijkscloud.nl
 https://openstack.gn3.rijkscloud.nl
-http://status.gn3.rijkscloud.nl
 https://portal.ip.test.duo.rijkscloud.nl
 https://ip.test.duo.rijkscloud.nl
 https://rstudio.ip.test.duo.rijkscloud.nl

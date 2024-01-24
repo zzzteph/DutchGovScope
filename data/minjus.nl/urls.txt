@@ -19,7 +19,6 @@ https://ews-external.acpt.dji.minjus.nl
 https://ews-prot.acpt.dji.minjus.nl
 https://lyncdiscover.dji.minjus.nl
 https://schedule.acpt.dji.minjus.nl
-https://meet.acpt.dji.minjus.nl
 https://sip003.dji.minjus.nl
 https://schedule.dji.minjus.nl
 https://enterpriseenrollment.avt.minjus.nl

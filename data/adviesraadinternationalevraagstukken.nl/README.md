@@ -23,5 +23,5 @@
 |[https://feeds.adviesraadinternationalevraagstukken.nl](https://feeds.adviesraadinternationalevraagstukken.nl)| **A+**| **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://opendata.adviesraadinternationalevraagstukken.nl](https://opendata.adviesraadinternationalevraagstukken.nl)| **A+**| **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://www.adviesraadinternationalevraagstukken.nl](https://www.adviesraadinternationalevraagstukken.nl)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Home | Adviesraa...|
-|[https://adviesraadinternationalevraagstukken.nl](https://adviesraadinternationalevraagstukken.nl)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
+|[https://adviesraadinternationalevraagstukken.nl](https://adviesraadinternationalevraagstukken.nl)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 

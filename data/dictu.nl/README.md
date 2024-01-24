@@ -21,7 +21,7 @@
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[https://acc.dictu.nl](https://acc.dictu.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
-|[https://acc.gisextern.dictu.nl](https://acc.gisextern.dictu.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS|Document Moved|
+|[http://acc.gisextern.dictu.nl](http://acc.gisextern.dictu.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||
 |[https://acc.intranet-demo.dictu.nl](https://acc.intranet-demo.dictu.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |Drupal HSTS Nginx PHP|Redirecting to /...|
 |[https://acc.rd.dictu.nl](https://acc.rd.dictu.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS|Error|
 |[https://apps.dictu.nl](https://apps.dictu.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|DICTU Apps|

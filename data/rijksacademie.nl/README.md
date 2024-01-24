@@ -11,7 +11,7 @@
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/rijksacademie.nl/subdomains.txt)|14|Alive subdomains|
-|[urls.txt](/data/rijksacademie.nl/urls.txt)|8|Urls|
+|[urls.txt](/data/rijksacademie.nl/urls.txt)|9|Urls|
 |[all_subdomains.txt](/data/rijksacademie.nl/all_subdomains.txt)|20|All found subdomains (history)|
 
 
@@ -23,6 +23,7 @@
 |[https://advies.rijksacademie.nl](https://advies.rijksacademie.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |MySQL Nginx PHP WordPress:6.4.2|Leerlijnen WP|
 |[https://feeds.rijksacademie.nl](https://feeds.rijksacademie.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://helpdesk.rijksacademie.nl](https://helpdesk.rijksacademie.nl)| | **F**|cloudflare| | | | | | | | :white_check_mark: | |Cloudflare|403 Forbidden|
+|[https://infoscherm.rijksacademie.nl](https://infoscherm.rijksacademie.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|Web Server's Def...|
 |[https://leren.rijksacademie.nl](https://leren.rijksacademie.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|Landingspagina A...|
 |[https://nieuwsbrief.rijksacademie.nl](https://nieuwsbrief.rijksacademie.nl)| | **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Nginx||
 |[https://opendata.rijksacademie.nl](https://opendata.rijksacademie.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||

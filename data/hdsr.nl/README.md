@@ -11,7 +11,7 @@
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/hdsr.nl/subdomains.txt)|33|Alive subdomains|
-|[urls.txt](/data/hdsr.nl/urls.txt)|28|Urls|
+|[urls.txt](/data/hdsr.nl/urls.txt)|29|Urls|
 |[all_subdomains.txt](/data/hdsr.nl/all_subdomains.txt)|109|All found subdomains (history)|
 
 
@@ -48,4 +48,5 @@
 |[https://hdsr.nl](https://hdsr.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:-|Object moved|
 |[https://kantoor.hdsr.nl](https://kantoor.hdsr.nl)| | **A**|xxxx|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Java|User Portal|
 |[https://intranet.ad.hdsr.nl](https://intranet.ad.hdsr.nl)| | **B**|-|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Microsoft ASP.NET:-|Object moved|
+|[https://waterkwaliteitinbeeld.hdsr.nl](https://waterkwaliteitinbeeld.hdsr.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| | | :white_check_mark: | |HSTS Microsoft ASP.NET:-|Object moved|
 

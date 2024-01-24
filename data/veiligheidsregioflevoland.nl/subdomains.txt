@@ -6,3 +6,8 @@ redactie.veiligheidsregioflevoland.nl
 veiligheidsregioflevoland.nl
 www.veiligheidsregioflevoland.nl
 lelystadinternetwww.veiligheidsregioflevoland.nl
+autodiscover.veiligheidsregioflevoland.nl
+enterpriseenrollment.veiligheidsregioflevoland.nl
+msoid.veiligheidsregioflevoland.nl
+enterpriseregistration.veiligheidsregioflevoland.nl
+hostmaster.veiligheidsregioflevoland.nl

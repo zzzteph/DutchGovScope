@@ -1,8 +1,13 @@
+b2btest-osb.douane.nl
+exchangerate.douane.nl
+exchangeratetest.douane.nl
 ier-online.douane.nl
 mobiel.douane.nl
 nh.douane.nl
+reizigers.douane.nl
 tarief.douane.nl
 tarief.str4.acc.douane.nl
+validationcalculation.douane.nl
 validationcalculationtest.douane.nl
 vluchtinfo.douane.nl
 vluchtinfo-test.douane.nl

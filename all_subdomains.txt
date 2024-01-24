@@ -18848,6 +18848,7 @@ vault-infra-edu.efiling.mijnoctrooi.rvo.nl
 vault-infra.efiling.mijnoctrooi.rvo.nl
 vault-infra-preprod.efiling.mijnoctrooi.rvo.nl
 vault-preprod.efiling.mijnoctrooi.rvo.nl
+english-prod.rvo.nl
 english.rwseconomie.nl
 feeds.rwseconomie.nl
 feeds.english.rwseconomie.nl
@@ -24138,6 +24139,14 @@ www.samp.rws.nl
 www.apop.esb.intranet.rws.nl
 spf-l.rws.nl
 spf-a.rws.nl
+k8s.svm.cnap-am4.intranet.rws.nl
+k8s.svm-admin.cnap-am4.intranet.rws.nl
+k8s.svm-dmz.cnap-am4.intranet.rws.nl
+k8s.svm-bourtange.cnap-am2.intranet.rws.nl
+k8s.svm-rotterdam.cnap-am2.intranet.rws.nl
+k8s.svm-ci.cnap-am4.intranet.rws.nl
+k8s.svm-ede.cnap-am2.intranet.rws.nl
+k8s.svm-gorinchem.cnap-am2.intranet.rws.nl
 033energie.verbeterjehuis.nl
 energieloket-flevoland.verbeterjehuis.nl
 hostmaster.verbeterjehuis.nl
@@ -25113,6 +25122,8 @@ www.nlflag.nl
 www-drop.nlflag.nl
 nlflag.nl
 lesmousquetaires.nlflag.nl
+mail.nlflag.nl
+ftp.nlflag.nl
 cms.bureaubiosecurity.nl
 www.bureaubiosecurity.nl
 bureaubiosecurity.nl
@@ -25801,6 +25812,8 @@ sociaaldomeinlekstroom.pleio.nl
 cmh.pleio.nl
 riec-liec-academie.pleio.nl
 mimir-gateway.pleio.nl
+www.integra-levroeghulp.pleio.nl
+levroeghulp.pleio.nl
 acceptatie.feedfoodtransfer.nl
 apps.feedfoodtransfer.nl
 apps.acceptatie.feedfoodtransfer.nl
@@ -26933,6 +26946,8 @@ www.stats.kansspelautoriteit.nl
 prod-cdb-01-257-124-v2.kansspelautoriteit.nl
 prod-cdb-01-252-809-v2.kansspelautoriteit.nl
 prod-cdb-01-238-642-v2.kansspelautoriteit.nl
+prod-cdb-01-250-307-v3.kansspelautoriteit.nl
+prod-cdb-01-238-718-v3.kansspelautoriteit.nl
 abc.databank.nl
 afvalmonitor.databank.nl
 ammgelderland.databank.nl
@@ -32078,6 +32093,7 @@ acc.fvp.rijksapplicaties.nl
 acc.rvb-vi-2.rijksapplicaties.nl
 acc.login-bzk.rijksapplicaties.nl
 acc.bhw.rijksapplicaties.nl
+rvb-mva.rijksapplicaties.nl
 kreekraksluizen.nl
 www.kreekraksluizen.nl
 20210215.nationaleconferentieduurzamemobiliteit.nl

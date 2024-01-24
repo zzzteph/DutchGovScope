@@ -22,5 +22,5 @@
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[https://magazines.agendastad.nl](https://magazines.agendastad.nl)| | **D**|nginx/1.20.1| | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Nginx:1.20.1 PHP||
 |[https://www.agendastad.nl](https://www.agendastad.nl)| | **C**|cloudflare| |:white_check_mark: | | | | | | :white_check_mark: | |Cloudflare HSTS HTTP/3||
-|[https://agendastad.nl](https://agendastad.nl)| | **C**|cloudflare| |:white_check_mark: | | | | | | :white_check_mark: | |Cloudflare HSTS HTTP/3 MySQL PHP WP Rocket WordPress:6.4.2 Yoast SEO:21.8|Agenda Stad - ho...|
+|[https://agendastad.nl](https://agendastad.nl)| | **C**|cloudflare| |:white_check_mark: | | | | | | :white_check_mark: | |Cloudflare HSTS HTTP/3 MySQL PHP WordPress:6.4.2 Yoast SEO:21.8|Agenda Stad - ho...|
 
