@@ -6,7 +6,10 @@ https://apps.dictu.nl
 https://asb.webftp.dictu.nl
 https://auth.dictu.nl
 https://auth-acc.dictu.nl
+https://auth-tst.dictu.nl
+https://avd.datasluis.dictu.nl
 https://avd.webftp.dictu.nl
+https://bpp.datasluis.dictu.nl
 https://bpp.webftp.dictu.nl
 http://c-pki.dictu.nl
 http://c-pki-acc.dictu.nl
@@ -32,7 +35,7 @@ https://mailing.dictu.nl
 https://mft.webftp.dictu.nl
 https://mijntoken.dictu.nl
 https://pms.dictu.nl
-https://pms-acc.dictu.nl
+http://pms-acc.dictu.nl
 https://procesweb-test.dictu.nl
 https://prod.dictu.nl
 http://rijkspas2ocsp.dictu.nl

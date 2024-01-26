@@ -952,3 +952,5 @@ rivm-fnapp-w01o.alt.rivm.nl
 rivm-fnapp-w02o.alt.rivm.nl
 rivm-fncpe-w01o.alt.rivm.nl
 rivm-fncpe-w02o.alt.rivm.nl
+api.tst-lsp.rivm.nl
+tst-lsp.rivm.nl

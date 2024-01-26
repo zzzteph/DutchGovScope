@@ -538,3 +538,5 @@ onespanbeheer.int.ssc-campus.nl
 sscc-automcontrol-l01o.int.ssc-campus.nl
 sscc-ias-w01p.int.ssc-campus.nl
 test-wiki.ssc-campus.nl
+sscc-oxid-l01t.int.ssc-campus.nl
+sscc-npoc-l01t.int.ssc-campus.nl

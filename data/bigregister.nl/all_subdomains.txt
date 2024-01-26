@@ -40,3 +40,4 @@ acceptatie.tea.bigregister.nl
 resultaten-toegankelijkheidsonderzoek-www.bigregister.nl
 resultaten-toegankelijkheidsonderzoek-advieswijzer.bigregister.nl
 resultaten-toegankelijkheidsonderzoek-zoeken.bigregister.nl
+resultaten-toegankelijkheidsonderzoek-mijn.bigregister.nl

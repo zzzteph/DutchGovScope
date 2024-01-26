@@ -40,3 +40,4 @@ www.join.waarderingskamer.nl
 scim.waarderingskamer.nl
 search.waarderingskamer.nl
 basic-test.acceptatie.woz-it.waarderingskamer.nl
+www.mijn.waarderingskamer.nl

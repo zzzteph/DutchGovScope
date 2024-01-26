@@ -1,6 +1,5 @@
 https://feeds.zovar.nl
 https://opendata.zovar.nl
 https://www.zovar.nl
-https://www.csp.zovar.nl
 https://zovar.nl
 http://ocsp.zovar.nl

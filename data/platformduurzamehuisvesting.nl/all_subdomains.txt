@@ -11,3 +11,4 @@ smtp.platformduurzamehuisvesting.nl
 www.platformduurzamehuisvesting.nl
 speeltuin.platformduurzamehuisvesting.nl
 platformduurzamehuisvesting.nl
+autodiscover.platformduurzamehuisvesting.nl

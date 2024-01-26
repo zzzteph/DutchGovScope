@@ -4,3 +4,4 @@ https://preprod.opendata.stelselcatalogus.nl
 https://www.stelselcatalogus.nl
 https://stelselcatalogus.nl
 http://digitaleoverheid.stelselcatalogus.nl
+https://editor.stelselcatalogus.nl

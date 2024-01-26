@@ -17,3 +17,7 @@ digitaleoverheid.stelselcatalogus.nl
 editor.stelselcatalogus.nl
 acc-editor.stelselcatalogus.nl
 acc.editor.stelselcatalogus.nl
+preprod.keycloak.stelselcatalogus.nl
+preprod.editor.stelselcatalogus.nl
+keycloak.stelselcatalogus.nl
+acc.keycloak.stelselcatalogus.nl

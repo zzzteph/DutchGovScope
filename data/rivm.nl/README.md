@@ -12,7 +12,7 @@
 |------------|-------|------|
 |[subdomains.txt](/data/rivm.nl/subdomains.txt)|394|Alive subdomains|
 |[urls.txt](/data/rivm.nl/urls.txt)|264|Urls|
-|[all_subdomains.txt](/data/rivm.nl/all_subdomains.txt)|954|All found subdomains (history)|
+|[all_subdomains.txt](/data/rivm.nl/all_subdomains.txt)|956|All found subdomains (history)|
 
 
 ## Statistics

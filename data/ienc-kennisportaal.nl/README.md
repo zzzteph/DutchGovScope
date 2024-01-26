@@ -12,7 +12,7 @@
 |------------|-------|------|
 |[subdomains.txt](/data/ienc-kennisportaal.nl/subdomains.txt)|3|Alive subdomains|
 |[urls.txt](/data/ienc-kennisportaal.nl/urls.txt)|3|Urls|
-|[all_subdomains.txt](/data/ienc-kennisportaal.nl/all_subdomains.txt)|3|All found subdomains (history)|
+|[all_subdomains.txt](/data/ienc-kennisportaal.nl/all_subdomains.txt)|7|All found subdomains (history)|
 
 
 ## Statistics

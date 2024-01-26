@@ -28,7 +28,7 @@
 |[https://live.toezichtfestival.nl](https://live.toezichtfestival.nl)| | **F**|Apache/2| | | | | | | | :white_check_mark: | |Apache HTTP Server:2|403 Forbidden|
 |[https://mail.toezichtfestival.nl](https://mail.toezichtfestival.nl)| | **F**|Apache/2| | | | | | | | :white_check_mark: | |Apache HTTP Server:2|403 Forbidden|
 |[https://old.toezichtfestival.nl](https://old.toezichtfestival.nl)| | **F**|Apache/2| | | | | | | | :white_check_mark: | |Apache HTTP Server:2|403 Forbidden|
-|[https://www.toezichtfestival.nl](https://www.toezichtfestival.nl)| | **A**|Apache/2|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server:2 HSTS||
+|[https://www.toezichtfestival.nl](https://www.toezichtfestival.nl)| | **A**|Apache/2|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server:2 Bootstrap HSTS|Home - Toezicht...|
 |[https://www.20201103.toezichtfestival.nl](https://www.20201103.toezichtfestival.nl)| | **F**|Apache/2| | | | | | | | :white_check_mark: | |Apache HTTP Server:2|403 Forbidden|
 |[https://www.app.toezichtfestival.nl](https://www.app.toezichtfestival.nl)| | **A**|Apache/2|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server:2 Bootstrap HSTS|Home - Toezicht...|
 |[https://www.app2019.toezichtfestival.nl](https://www.app2019.toezichtfestival.nl)| | **F**|Apache/2| | | | | | | | :white_check_mark: | |Apache HTTP Server:2|403 Forbidden|

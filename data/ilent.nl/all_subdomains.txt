@@ -75,3 +75,4 @@ api.stadsbeheer.ilent.nl
 digi.ilent.nl
 capptions.ilent.nl
 ilent.nl
+toegankelijkheidsonderzoek-www.ilent.nl

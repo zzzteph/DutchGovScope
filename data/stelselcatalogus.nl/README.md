@@ -11,8 +11,8 @@
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/stelselcatalogus.nl/subdomains.txt)|12|Alive subdomains|
-|[urls.txt](/data/stelselcatalogus.nl/urls.txt)|6|Urls|
-|[all_subdomains.txt](/data/stelselcatalogus.nl/all_subdomains.txt)|19|All found subdomains (history)|
+|[urls.txt](/data/stelselcatalogus.nl/urls.txt)|7|Urls|
+|[all_subdomains.txt](/data/stelselcatalogus.nl/all_subdomains.txt)|23|All found subdomains (history)|
 
 
 ## Statistics
@@ -26,4 +26,5 @@
 |[https://www.stelselcatalogus.nl](https://www.stelselcatalogus.nl)| | **A**|Stelselcatalogus| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Logius Stelselca...|
 |[https://stelselcatalogus.nl](https://stelselcatalogus.nl)| | **A**|Stelselcatalogus| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Logius Stelselca...|
 |[http://digitaleoverheid.stelselcatalogus.nl](http://digitaleoverheid.stelselcatalogus.nl)| | **C**|| | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | ||404 - Not Found|
+|[https://editor.stelselcatalogus.nl](https://editor.stelselcatalogus.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS|Welcome to Keycl...|
 

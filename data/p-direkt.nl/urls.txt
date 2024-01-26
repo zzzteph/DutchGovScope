@@ -10,3 +10,5 @@ https://kms-test.p-direkt.nl
 https://opendata.p-direkt.nl
 https://www.p-direkt.nl
 https://p-direkt.nl
+https://ndev.api.p-direkt.nl
+https://ndev.api-sec.p-direkt.nl

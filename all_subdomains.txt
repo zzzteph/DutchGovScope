@@ -2737,6 +2737,7 @@ acceptatie.tea.bigregister.nl
 resultaten-toegankelijkheidsonderzoek-www.bigregister.nl
 resultaten-toegankelijkheidsonderzoek-advieswijzer.bigregister.nl
 resultaten-toegankelijkheidsonderzoek-zoeken.bigregister.nl
+resultaten-toegankelijkheidsonderzoek-mijn.bigregister.nl
 feeds.binnenhofrenovatie.nl
 opendata.binnenhofrenovatie.nl
 www.binnenhofrenovatie.nl
@@ -3024,6 +3025,7 @@ acp2.business.gov.nl
 api.acp2.business.gov.nl
 api.tst2.business.gov.nl
 tst2.business.gov.nl
+x2fstatic.business.gov.nl
 www.bzk.nl
 www.cas.bzk.nl
 min.bzk.nl
@@ -4116,6 +4118,7 @@ acc.render.map.services.cultureelerfgoed.nl
 acc.services.cultureelerfgoed.nl
 acc.stor.services.cultureelerfgoed.nl
 acc.translate.services.cultureelerfgoed.nl
+toegankelijkheidsonderzoek-monumentenregister.cultureelerfgoed.nl
 a-english.cultuursubsidie.nl
 a-feeds.cultuursubsidie.nl
 a-feeds.a-english.cultuursubsidie.nl
@@ -4472,6 +4475,10 @@ zoeken.diergeneeskunderegister.nl
 downloadservice.diergeneeskunderegister.nl
 www.acc.diergeneeskunderegister.nl
 diergeneeskunderegister.nl
+resultaten-toegankelijkheidsverklaring-zoeken.diergeneeskunderegister.nl
+resultaten-toegankelijkheidsverklaring-diergeneeskunderegister.nl-en-zoeken.diergeneeskunderegister.nl
+resultaten-toegankelijkheidsonderzoek-mijn.diergeneeskunderegister.nl
+resultaten-toegankelijkheidsverklaring-content-www.diergeneeskunderegister.nl
 www.diergeneeskundigregister.nl
 diergeneeskundigregister.nl
 www.diergeneesmiddeleninformatiebank.nl
@@ -5751,6 +5758,7 @@ opendata.geschilleninstantieszorg.nl
 opendata.english.geschilleninstantieszorg.nl
 www.geschilleninstantieszorg.nl
 geschilleninstantieszorg.nl
+resultaten-toegankelijkheidsonderzoek-www.geschilleninstantieszorg.nl
 www.gezondheidsraad.nl
 a-feeds.gezondheidsraad.nl
 a-magazinesintern.a-english.gezondheidsraad.nl
@@ -6345,6 +6353,7 @@ api.stadsbeheer.ilent.nl
 digi.ilent.nl
 capptions.ilent.nl
 ilent.nl
+toegankelijkheidsonderzoek-www.ilent.nl
 feeds.in-made.nl
 opendata.in-made.nl
 www.in-made.nl
@@ -6403,6 +6412,7 @@ opendata.innovatie-estafette.nl
 opendata.english.innovatie-estafette.nl
 www.innovatie-estafette.nl
 innovatie-estafette.nl
+rapport-herinspectie-digitoegankelijkhed-www.innovatie-estafette.nl
 mail.innovember.nl
 www.innovember.nl
 innovember.nl
@@ -8888,6 +8898,7 @@ lennep.resources.huygens.knaw.nl
 staging.huc.knaw.nl
 adagia.resources.huygens.knaw.nl
 mimore.meertens.knaw.nl
+intranetzonder.knaw.nl
 acc.datalab.knmi.nl
 acc.mijn.knmi.nl
 adaguc.knmi.nl
@@ -11468,6 +11479,7 @@ djiafus006.addji.minjus.nl
 login.wireless.dji.minjus.nl
 ind.minjus.nl
 coa.minjus.nl
+tvjwebservice.acpt.dji.minjus.nl
 inuit-acc.minlnv.nl
 mobile-acc.minlnv.nl
 enterpriseenrollment.acc.minlnv.nl
@@ -12134,6 +12146,7 @@ dialin.dtv.minvenj.nl
 schedule.dtv.minvenj.nl
 lyncdiscoverinternal.dtv.minvenj.nl
 signing.wiki.justid.minvenj.nl
+auth-ibabs.justid.minvenj.nl
 webaccess.minvrom.nl
 swfvz0012.minvrom.nl
 www2.minvrom.nl
@@ -15452,6 +15465,12 @@ decentrale.regel-geving.overheid.nl
 decentrale.reqelaevinq.overheid.nl
 richtlijnen.overheid.nl
 testcvdr.overheid.nl
+wetgevingskalender-acc.overheid.nl
+lokaleregelgeving-tst.overheid.nl
+treatydatabase-tst.overheid.nl
+tuchtrecht-tst.overheid.nl
+verdragenbank-tst.overheid.nl
+wetten-tst.overheid.nl
 english.overheidvannu.nl
 feeds.overheidvannu.nl
 feeds.english.overheidvannu.nl
@@ -18460,6 +18479,8 @@ rivm-fnapp-w01o.alt.rivm.nl
 rivm-fnapp-w02o.alt.rivm.nl
 rivm-fncpe-w01o.alt.rivm.nl
 rivm-fncpe-w02o.alt.rivm.nl
+api.tst-lsp.rivm.nl
+tst-lsp.rivm.nl
 www.rookvrijcafe.nl
 rookvrijcafe.nl
 english.row-minvws.nl
@@ -18577,6 +18598,7 @@ sdm.rvig.nl
 sip.rvig.nl
 idapps.npr.idm.rvig.nl
 idbs.npr.idm.rvig.nl
+idbs.idm.rvig.nl
 a-gebruiker.rvo.nl
 a-gebruikerbeheer.rvo.nl
 a-inloggen.rvo.nl
@@ -21979,6 +22001,8 @@ www.werkenvoor.zuid-holland.nl
 natuurvanuitdelucht.zuid-holland.nl
 koopkoppeling.zuid-holland.nl
 investerenin.zuid-holland.nl
+belastingen.zuid-holland.nl
+preprod-belastingen.zuid-holland.nl
 burgerforum.limburg.nl
 id.limburg.nl
 mijnsubsidies.limburg.nl
@@ -25814,6 +25838,7 @@ riec-liec-academie.pleio.nl
 mimir-gateway.pleio.nl
 www.integra-levroeghulp.pleio.nl
 levroeghulp.pleio.nl
+aangifteselectie-chat.pleio.nl
 acceptatie.feedfoodtransfer.nl
 apps.feedfoodtransfer.nl
 apps.acceptatie.feedfoodtransfer.nl
@@ -26463,6 +26488,8 @@ onespanbeheer.int.ssc-campus.nl
 sscc-automcontrol-l01o.int.ssc-campus.nl
 sscc-ias-w01p.int.ssc-campus.nl
 test-wiki.ssc-campus.nl
+sscc-oxid-l01t.int.ssc-campus.nl
+sscc-npoc-l01t.int.ssc-campus.nl
 acceptatie.dustex.nl
 www.dustex.nl
 dustex.nl
@@ -27345,6 +27372,7 @@ www.zeeweringen.nl
 ww2.zeeweringen.nl
 conferentie.zeeweringen.nl
 zeeweringen.nl
+webmail.zeeweringen.nl
 test.mi-cert.nl
 www.mi-cert.nl
 mi-cert.nl
@@ -29656,9 +29684,15 @@ www.deafsluitdijk.nl
 deafsluitdijk.nl
 en.deafsluitdijk.nl
 noord-holland.nlwww.deafsluitdijk.nl
+autodiscover.deafsluitdijk.nl
+mail.deafsluitdijk.nl
 gc.ienc-kennisportaal.nl
 www.ienc-kennisportaal.nl
 ienc-kennisportaal.nl
+pop.ienc-kennisportaal.nl
+autodiscover.ienc-kennisportaal.nl
+mail.ienc-kennisportaal.nl
+ftp.ienc-kennisportaal.nl
 www.knooppunt-hoevelaken.nl
 knooppunt-hoevelaken.nl
 www.wozep.nl
@@ -30114,6 +30148,7 @@ www.allesoversport.nl
 www.repo.allesoversport.nl
 kcsport.nlwww.kenniscentrumsport.nlwww.allesoversport.nl
 allesoversport.nl
+localhost.allesoversport.nl
 acceptatie.samenmetenaanluchtkwaliteit.nl
 test.samenmetenaanluchtkwaliteit.nl
 www.samenmetenaanluchtkwaliteit.nl
@@ -30137,6 +30172,10 @@ digitaleoverheid.stelselcatalogus.nl
 editor.stelselcatalogus.nl
 acc-editor.stelselcatalogus.nl
 acc.editor.stelselcatalogus.nl
+preprod.keycloak.stelselcatalogus.nl
+preprod.editor.stelselcatalogus.nl
+keycloak.stelselcatalogus.nl
+acc.keycloak.stelselcatalogus.nl
 acc.one-conference.nl
 emagazine.one-conference.nl
 new.one-conference.nl
@@ -30150,6 +30189,7 @@ www.registration.one-conference.nl
 www.stats.one-conference.nl
 one-conference.nl
 wcag-2.1-inspectie-www.one-conference.nl
+autodiscover.one-conference.nl
 www.amlc.nl
 amlc.nl
 21www.amlc.nl
@@ -30251,6 +30291,8 @@ ww.internationaalondernemen.nl
 internationaalondernemen.nl
 nsi.bgwww.internationaalondernemen.nl
 epp.eurostat.ec.europa.euwww.internationaalondernemen.nl
+mail.internationaalondernemen.nl
+ftp.internationaalondernemen.nl
 g4aw.spaceoffice.nl
 lyncdiscover.spaceoffice.nl
 sip.spaceoffice.nl
@@ -30312,6 +30354,7 @@ smtp.platformduurzamehuisvesting.nl
 www.platformduurzamehuisvesting.nl
 speeltuin.platformduurzamehuisvesting.nl
 platformduurzamehuisvesting.nl
+autodiscover.platformduurzamehuisvesting.nl
 lyncdiscover.csirtdsp.nl
 sip.csirtdsp.nl
 test.csirtdsp.nl
@@ -31211,6 +31254,7 @@ www.join.waarderingskamer.nl
 scim.waarderingskamer.nl
 search.waarderingskamer.nl
 basic-test.acceptatie.woz-it.waarderingskamer.nl
+www.mijn.waarderingskamer.nl
 makingvitalityreality.nl
 www.makingvitalityreality.nl
 acc.makingvitalityreality.nl

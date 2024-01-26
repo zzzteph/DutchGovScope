@@ -5,13 +5,13 @@
 
 
  - **SSL Grade**:A+
- - **HTTP Security Grade**:B
+ - **HTTP Security Grade**:A
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/dus-i.nl/subdomains.txt)|18|Alive subdomains|
-|[urls.txt](/data/dus-i.nl/urls.txt)|15|Urls|
+|[subdomains.txt](/data/dus-i.nl/subdomains.txt)|16|Alive subdomains|
+|[urls.txt](/data/dus-i.nl/urls.txt)|13|Urls|
 |[all_subdomains.txt](/data/dus-i.nl/all_subdomains.txt)|37|All found subdomains (history)|
 
 
@@ -27,8 +27,6 @@
 |[https://www.acc.mijn.dus-i.nl](https://www.acc.mijn.dus-i.nl)| | **B**|Apache|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
 |[https://www.mijn.dus-i.nl](https://www.mijn.dus-i.nl)| **B**| **A**|Apache|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
 |[https://dus-i.nl](https://dus-i.nl)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
-|[https://www.acc.mijntest.dus-i.nl](https://www.acc.mijntest.dus-i.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
-|[https://www.mijntest.dus-i.nl](https://www.mijntest.dus-i.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
 |[https://max.dus-i.nl](https://max.dus-i.nl)| **A+**| **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |Basic HSTS|401 Unauthorized|
 |[https://formulier-beheer.dus-i.nl](https://formulier-beheer.dus-i.nl)| | **B**|Apache| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server Basic HSTS|401 Unauthorized|
 |[https://beoordeling.dus-i.nl](https://beoordeling.dus-i.nl)| | **A**|Apache| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server Basic HSTS|401 Unauthorized|

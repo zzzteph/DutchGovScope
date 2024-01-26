@@ -71,3 +71,4 @@ caas.ndw.nu
 wegkenmerken.staging.ndw.nu
 bereikbaarheid.ndw.nu
 backbone.ndw.nu
+stats.ndw.nu

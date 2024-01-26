@@ -288,4 +288,4 @@ https://beta-dcmr.databank.nl
 https://frieslandsnb.databank.nl
 https://gip.databank.nl
 https://www.staatvanutrecht.nlwww.staatvanutrecht.databank.nl
-https://duurzamemobiliteit.databank.nl
+http://duurzamemobiliteit.databank.nl

@@ -1391,3 +1391,9 @@ decentrale.regel-geving.overheid.nl
 decentrale.reqelaevinq.overheid.nl
 richtlijnen.overheid.nl
 testcvdr.overheid.nl
+wetgevingskalender-acc.overheid.nl
+lokaleregelgeving-tst.overheid.nl
+treatydatabase-tst.overheid.nl
+tuchtrecht-tst.overheid.nl
+verdragenbank-tst.overheid.nl
+wetten-tst.overheid.nl

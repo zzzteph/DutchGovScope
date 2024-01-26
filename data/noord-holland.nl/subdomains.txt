@@ -94,3 +94,9 @@ qlikgw-prod.aws.noord-holland.nl
 pleinoud.noord-holland.nl
 qlikdatagwpoc-prod.aws.noord-holland.nl
 lms.noord-holland.nl
+openstad.noord-holland.nl
+admin.openstad.noord-holland.nl
+api.openstad.noord-holland.nl
+auth.openstad.noord-holland.nl
+img.openstad.noord-holland.nl
+www.openstad.noord-holland.nl

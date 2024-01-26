@@ -124,3 +124,4 @@ acc.render.map.services.cultureelerfgoed.nl
 acc.services.cultureelerfgoed.nl
 acc.stor.services.cultureelerfgoed.nl
 acc.translate.services.cultureelerfgoed.nl
+toegankelijkheidsonderzoek-monumentenregister.cultureelerfgoed.nl

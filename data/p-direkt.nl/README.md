@@ -11,7 +11,7 @@
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/p-direkt.nl/subdomains.txt)|19|Alive subdomains|
-|[urls.txt](/data/p-direkt.nl/urls.txt)|12|Urls|
+|[urls.txt](/data/p-direkt.nl/urls.txt)|14|Urls|
 |[all_subdomains.txt](/data/p-direkt.nl/all_subdomains.txt)|34|All found subdomains (history)|
 
 
@@ -32,4 +32,6 @@
 |[https://opendata.p-direkt.nl](https://opendata.p-direkt.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://www.p-direkt.nl](https://www.p-direkt.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Home | O&P Rijk...|
 |[https://p-direkt.nl](https://p-direkt.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
+|[https://ndev.api.p-direkt.nl](https://ndev.api.p-direkt.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||
+|[https://ndev.api-sec.p-direkt.nl](https://ndev.api-sec.p-direkt.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||
 

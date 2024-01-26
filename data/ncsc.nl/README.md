@@ -10,7 +10,7 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/ncsc.nl/subdomains.txt)|47|Alive subdomains|
+|[subdomains.txt](/data/ncsc.nl/subdomains.txt)|48|Alive subdomains|
 |[urls.txt](/data/ncsc.nl/urls.txt)|26|Urls|
 |[all_subdomains.txt](/data/ncsc.nl/all_subdomains.txt)|91|All found subdomains (history)|
 

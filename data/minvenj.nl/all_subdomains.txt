@@ -528,3 +528,4 @@ dialin.dtv.minvenj.nl
 schedule.dtv.minvenj.nl
 lyncdiscoverinternal.dtv.minvenj.nl
 signing.wiki.justid.minvenj.nl
+auth-ibabs.justid.minvenj.nl

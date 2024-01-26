@@ -10,7 +10,7 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/noord-holland.nl/subdomains.txt)|96|Alive subdomains|
+|[subdomains.txt](/data/noord-holland.nl/subdomains.txt)|102|Alive subdomains|
 |[urls.txt](/data/noord-holland.nl/urls.txt)|66|Urls|
 |[all_subdomains.txt](/data/noord-holland.nl/all_subdomains.txt)|270|All found subdomains (history)|
 
@@ -85,5 +85,5 @@
 |[https://qliksense.noord-holland.nl](https://qliksense.noord-holland.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://fleet-manager.datalab-prod.aws.noord-holland.nl](https://fleet-manager.datalab-prod.aws.noord-holland.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|Fleet Manager|
 |[https://pleinoud.noord-holland.nl](https://pleinoud.noord-holland.nl)| | **B**|Green Valley|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Java||
-|[https://lms.noord-holland.nl](https://lms.noord-holland.nl)| | **A**|nginx|:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bootstrap:3.3.5 HSTS Nginx Nicepage:5.9.6 PHP:8.2.14|Thuis|
+|[https://lms.noord-holland.nl](https://lms.noord-holland.nl)| | **A**|nginx|:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bootstrap:3.3.5 HSTS Nginx Nicepage:5.9.6 PHP:8.2.15|Thuis|
 

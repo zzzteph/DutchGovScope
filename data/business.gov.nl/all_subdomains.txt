@@ -26,3 +26,4 @@ acp2.business.gov.nl
 api.acp2.business.gov.nl
 api.tst2.business.gov.nl
 tst2.business.gov.nl
+x2fstatic.business.gov.nl

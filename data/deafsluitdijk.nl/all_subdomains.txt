@@ -5,3 +5,5 @@ www.deafsluitdijk.nl
 deafsluitdijk.nl
 en.deafsluitdijk.nl
 noord-holland.nlwww.deafsluitdijk.nl
+autodiscover.deafsluitdijk.nl
+mail.deafsluitdijk.nl

@@ -334,7 +334,7 @@
 |[https://leefbaarheid.mett.nl](https://leefbaarheid.mett.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | ||Document Moved|
 |[https://meanderomnium.mett.nl](https://meanderomnium.mett.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET|Object moved|
 |[https://pilotnudging.mett.nl](https://pilotnudging.mett.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET YouTube|Object moved|
-|[https://apps.mett.nl](https://apps.mett.nl)| | **A**|| |:white_check_mark: | :warning:| |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Mett apps|
+|[https://apps.mett.nl](https://apps.mett.nl)| | **A**|| |:white_check_mark: | :warning:| | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Mett apps|
 |[https://fagoed.mett.nl](https://fagoed.mett.nl)| | **F**|| | | :warning:| | | | | :white_check_mark: | |Microsoft ASP.NET|Object moved|
 |[https://nieuwsienw.mett.nl](https://nieuwsienw.mett.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET|Object moved|
 |[https://websiterudzuidlimburg.mett.nl](https://websiterudzuidlimburg.mett.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET YouTube|Object moved|

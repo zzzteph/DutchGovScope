@@ -25,7 +25,7 @@
 |[https://cpanel.alert.nl](https://cpanel.alert.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx||
 |[https://ipv6.alert.nl](https://ipv6.alert.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx||
 |[https://webdisk.alert.nl](https://webdisk.alert.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx||
-|[https://webmail.alert.nl](https://webmail.alert.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Bootstrap Nginx PHP:8.2.14 RoundCube|Roundcube Webmai...|
+|[https://webmail.alert.nl](https://webmail.alert.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Bootstrap Nginx PHP:8.2.15 RoundCube|Roundcube Webmai...|
 |[https://alertisolatie.alert.nl](https://alertisolatie.alert.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx||
 |[https://www.alertisolatie.alert.nl](https://www.alertisolatie.alert.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx||
 |[https://resolpro.alert.nl](https://resolpro.alert.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx||

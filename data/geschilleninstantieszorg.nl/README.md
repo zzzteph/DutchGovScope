@@ -12,7 +12,7 @@
 |------------|-------|------|
 |[subdomains.txt](/data/geschilleninstantieszorg.nl/subdomains.txt)|5|Alive subdomains|
 |[urls.txt](/data/geschilleninstantieszorg.nl/urls.txt)|4|Urls|
-|[all_subdomains.txt](/data/geschilleninstantieszorg.nl/all_subdomains.txt)|11|All found subdomains (history)|
+|[all_subdomains.txt](/data/geschilleninstantieszorg.nl/all_subdomains.txt)|12|All found subdomains (history)|
 
 
 ## Statistics

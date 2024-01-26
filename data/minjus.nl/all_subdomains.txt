@@ -441,3 +441,4 @@ djiafus006.addji.minjus.nl
 login.wireless.dji.minjus.nl
 ind.minjus.nl
 coa.minjus.nl
+tvjwebservice.acpt.dji.minjus.nl

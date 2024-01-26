@@ -12,7 +12,7 @@
 |------------|-------|------|
 |[subdomains.txt](/data/zuid-holland.nl/subdomains.txt)|71|Alive subdomains|
 |[urls.txt](/data/zuid-holland.nl/urls.txt)|68|Urls|
-|[all_subdomains.txt](/data/zuid-holland.nl/all_subdomains.txt)|133|All found subdomains (history)|
+|[all_subdomains.txt](/data/zuid-holland.nl/all_subdomains.txt)|135|All found subdomains (history)|
 
 
 ## Statistics
@@ -65,7 +65,7 @@
 |[https://dataloket.zuid-holland.nl](https://dataloket.zuid-holland.nl)| | **B**|nginx|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |Azure HSTS Nginx|Dataloket Provin...|
 |[https://geodata.zuid-holland.nl](https://geodata.zuid-holland.nl)| | **A**||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Java||
 |[https://geoservices.zuid-holland.nl](https://geoservices.zuid-holland.nl)| | **C**||:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
-|[https://beterwordenvancorona.zuid-holland.nl](https://beterwordenvancorona.zuid-holland.nl)| | **B**|Apache| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server Drupal HSTS PHP|Redirecting to h...|
+|[https://beterwordenvancorona.zuid-holland.nl](https://beterwordenvancorona.zuid-holland.nl)| | **B**|Apache| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server Drupal:8 HSTS PHP|Redirecting to h...|
 |[https://zonnewijzer.zuid-holland.nl](https://zonnewijzer.zuid-holland.nl)| | **A**|nginx|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Azure HSTS Nginx|Zonnewijzer|
 |[https://geo-fms.zuid-holland.nl](https://geo-fms.zuid-holland.nl)| | **C**||:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Java||
 |[https://nieuwsbrief.zuid-holland.nl](https://nieuwsbrief.zuid-holland.nl)| | **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Nginx||

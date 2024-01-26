@@ -12,7 +12,7 @@
 |------------|-------|------|
 |[subdomains.txt](/data/innovatie-estafette.nl/subdomains.txt)|2|Alive subdomains|
 |[urls.txt](/data/innovatie-estafette.nl/urls.txt)|2|Urls|
-|[all_subdomains.txt](/data/innovatie-estafette.nl/all_subdomains.txt)|12|All found subdomains (history)|
+|[all_subdomains.txt](/data/innovatie-estafette.nl/all_subdomains.txt)|13|All found subdomains (history)|
 
 
 ## Statistics
