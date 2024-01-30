@@ -5,3 +5,5 @@ magazinesintern.gobiernudireino.nl
 opendata.gobiernudireino.nl
 www.gobiernudireino.nl
 gobiernudireino.nl
+a-feeds.gobiernudireino.nl
+a-opendata.gobiernudireino.nl

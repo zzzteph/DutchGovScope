@@ -451,3 +451,6 @@ https://sadp.pleio.nl
 https://sociaaldomeinlekstroom.pleio.nl
 https://cmh.pleio.nl
 https://riec-liec-academie.pleio.nl
+https://mimir-gateway.pleio.nl
+https://www.integra-levroeghulp.pleio.nl
+https://levroeghulp.pleio.nl

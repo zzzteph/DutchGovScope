@@ -10,3 +10,5 @@ opendata.english.derijkscampus.nl
 www.derijkscampus.nl
 derijkscampus.nl
 online.derijkscampus.nl
+a-opendata.derijkscampus.nl
+a-feeds.derijkscampus.nl

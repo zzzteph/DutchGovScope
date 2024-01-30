@@ -81,3 +81,11 @@ api-a.acm.nl
 api-a.services.acm.nl
 api.acm.nl
 api.services.acm.nl
+acceptatie.acm.nl
+enterpriseenrollment.acm.nl
+enterpriseregistration.acm.nl
+ftp.acm.nl
+ipv4.acm.nl
+mbg.acm.nl
+mijn-acc.acm.nl
+mijn-tst.acm.nl

@@ -8,3 +8,5 @@ acceptatie-nieuw.biedboek.nl
 test-nieuw.biedboek.nl
 share.test-nieuw.biedboek.nl
 share.acceptatie-nieuw.biedboek.nl
+localhost.biedboek.nl
+autodiscover.biedboek.nl

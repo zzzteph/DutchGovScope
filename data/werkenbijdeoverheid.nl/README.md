@@ -12,7 +12,7 @@
 |------------|-------|------|
 |[subdomains.txt](/data/werkenbijdeoverheid.nl/subdomains.txt)|16|Alive subdomains|
 |[urls.txt](/data/werkenbijdeoverheid.nl/urls.txt)|15|Urls|
-|[all_subdomains.txt](/data/werkenbijdeoverheid.nl/all_subdomains.txt)|49|All found subdomains (history)|
+|[all_subdomains.txt](/data/werkenbijdeoverheid.nl/all_subdomains.txt)|50|All found subdomains (history)|
 
 
 ## Statistics

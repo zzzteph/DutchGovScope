@@ -27,7 +27,7 @@
 |[https://bd-prd.topdesk.odc-noord.nl](https://bd-prd.topdesk.odc-noord.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Login|
 |[https://dci-acc.topdesk.odc-noord.nl](https://dci-acc.topdesk.odc-noord.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://dci-prd.topdesk.odc-noord.nl](https://dci-prd.topdesk.odc-noord.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
-|[https://doc-direkt-acc.topdesk.odc-noord.nl](https://doc-direkt-acc.topdesk.odc-noord.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|Login|
+|[http://doc-direkt-acc.topdesk.odc-noord.nl](http://doc-direkt-acc.topdesk.odc-noord.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://doc-direkt-prd.topdesk.odc-noord.nl](https://doc-direkt-prd.topdesk.odc-noord.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|Login|
 |[https://docdirekt-ont-va.topdesk.odc-noord.nl](https://docdirekt-ont-va.topdesk.odc-noord.nl)| | **E**|| | | | | | | | :white_check_mark: | ||ODC-Noord | (403...|
 |[https://duo-acc.topdesk.odc-noord.nl](https://duo-acc.topdesk.odc-noord.nl)| | **E**|| | | | | | | | :white_check_mark: | ||ODC-Noord | (403...|
@@ -47,7 +47,7 @@
 |[https://ilt-acc.confluence.odc-noord.nl](https://ilt-acc.confluence.odc-noord.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://ilt-acc.topdesk.odc-noord.nl](https://ilt-acc.topdesk.odc-noord.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|Login|
 |[https://ilt-prd.confluence.odc-noord.nl](https://ilt-prd.confluence.odc-noord.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
-|[https://ilt-prd.topdesk.odc-noord.nl](https://ilt-prd.topdesk.odc-noord.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Login|
+|[https://ilt-prd.topdesk.odc-noord.nl](https://ilt-prd.topdesk.odc-noord.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|Login|
 |[https://iucn-acc.topdesk.odc-noord.nl](https://iucn-acc.topdesk.odc-noord.nl)| | **E**|| | | | | | | | :white_check_mark: | ||ODC-Noord | (403...|
 |[https://iucn-prd.topdesk.odc-noord.nl](https://iucn-prd.topdesk.odc-noord.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Login|
 |[https://ivho-acc.confluence.odc-noord.nl](https://ivho-acc.confluence.odc-noord.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Atlassian Confluence HSTS Java||
@@ -106,7 +106,7 @@
 |[https://vpn.gn2.koop-p.odc-noord.nl](https://vpn.gn2.koop-p.odc-noord.nl)| | **F**|OpenVPN-AS| | | | | | | | :white_check_mark: | |||
 |[https://vpn.gn2.koop-t.odc-noord.nl](https://vpn.gn2.koop-t.odc-noord.nl)| | **F**|OpenVPN-AS| | | | | | | | :white_check_mark: | |||
 |[https://vpn.rvb.odc-noord.nl](https://vpn.rvb.odc-noord.nl)| | **F**|OpenVPN-AS| | | | | | | | :white_check_mark: | |||
-|[https://vws-acc.jira.odc-noord.nl](https://vws-acc.jira.odc-noord.nl)| | **A**||:warning: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Java||
+|[https://vws-acc.jira.odc-noord.nl](https://vws-acc.jira.odc-noord.nl)| | **A**||:warning: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://vws-prd.jira.odc-noord.nl](https://vws-prd.jira.odc-noord.nl)| | **A**||:warning: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Java||
 |[https://www.odc-noord.nl](https://www.odc-noord.nl)| | **A**|WSGIServer/0.2 CPython/3.8.13| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bootstrap HSTS|Home|
 |[https://vpn.gn2.koop-pp.odc-noord.nl](https://vpn.gn2.koop-pp.odc-noord.nl)| | **F**|OpenVPN-AS| | | | | | | | :white_check_mark: | |||

@@ -12,7 +12,7 @@
 |------------|-------|------|
 |[subdomains.txt](/data/autoriteitnvs.nl/subdomains.txt)|15|Alive subdomains|
 |[urls.txt](/data/autoriteitnvs.nl/urls.txt)|8|Urls|
-|[all_subdomains.txt](/data/autoriteitnvs.nl/all_subdomains.txt)|21|All found subdomains (history)|
+|[all_subdomains.txt](/data/autoriteitnvs.nl/all_subdomains.txt)|23|All found subdomains (history)|
 
 
 ## Statistics

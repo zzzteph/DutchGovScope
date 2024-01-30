@@ -12,7 +12,7 @@
 |------------|-------|------|
 |[subdomains.txt](/data/agroberichtenbuitenland.nl/subdomains.txt)|7|Alive subdomains|
 |[urls.txt](/data/agroberichtenbuitenland.nl/urls.txt)|4|Urls|
-|[all_subdomains.txt](/data/agroberichtenbuitenland.nl/all_subdomains.txt)|77|All found subdomains (history)|
+|[all_subdomains.txt](/data/agroberichtenbuitenland.nl/all_subdomains.txt)|80|All found subdomains (history)|
 
 
 ## Statistics

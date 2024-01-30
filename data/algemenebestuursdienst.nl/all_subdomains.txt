@@ -11,3 +11,7 @@ opendata.english.algemenebestuursdienst.nl
 www.algemenebestuursdienst.nl
 algemenebestuursdienst.nl
 beheer.algemenebestuursdienst.nl
+a-feeds.algemenebestuursdienst.nl
+a-magazines.algemenebestuursdienst.nl
+a-opendata.algemenebestuursdienst.nl
+sharepoint.algemenebestuursdienst.nl

@@ -120,7 +120,6 @@ https://rstudio.ivho.rijkscloud.nl
 https://rstudio.kim.rijkscloud.nl
 https://rstudio.rekenkamer-ds1.rijkscloud.nl
 https://rstudio.ritp.rijkscloud.nl
-https://rstudio.vcloud.ix.rijkscloud.nl
 https://sectstssp.ix.rijkscloud.nl
 https://securetransfer.rijkscloud.nl
 https://sensu.ix.rijkscloud.nl

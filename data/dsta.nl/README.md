@@ -12,7 +12,7 @@
 |------------|-------|------|
 |[subdomains.txt](/data/dsta.nl/subdomains.txt)|12|Alive subdomains|
 |[urls.txt](/data/dsta.nl/urls.txt)|7|Urls|
-|[all_subdomains.txt](/data/dsta.nl/all_subdomains.txt)|16|All found subdomains (history)|
+|[all_subdomains.txt](/data/dsta.nl/all_subdomains.txt)|21|All found subdomains (history)|
 
 
 ## Statistics

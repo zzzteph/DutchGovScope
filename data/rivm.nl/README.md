@@ -10,7 +10,7 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/rivm.nl/subdomains.txt)|394|Alive subdomains|
+|[subdomains.txt](/data/rivm.nl/subdomains.txt)|396|Alive subdomains|
 |[urls.txt](/data/rivm.nl/urls.txt)|264|Urls|
 |[all_subdomains.txt](/data/rivm.nl/all_subdomains.txt)|956|All found subdomains (history)|
 
@@ -145,7 +145,7 @@
 |[http://kosteneffectiviteit-preventie.rivm.nl](http://kosteneffectiviteit-preventie.rivm.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |||
 |[https://lci.rivm.nl](https://lci.rivm.nl)| | **A**|Apache| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server Bootstrap Drupal:10 HSTS PHP:8.1.14|LCI richtlijnen|
 |[https://leren.rivm.nl](https://leren.rivm.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Welcome to The E...|
-|[https://lmm.rivm.nl](https://lmm.rivm.nl)| | **B**|Microsoft-IIS/10.0| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS IIS:10.0 Microsoft ASP.NET:4.0.30319 Windows Server|Landelijk Meetne...|
+|[https://lmm.rivm.nl](https://lmm.rivm.nl)| | **B**|Microsoft-IIS/10.0| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS IIS:10.0 Microsoft ASP.NET Windows Server|Landelijk Meetne...|
 |[https://login.rivm.nl](https://login.rivm.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
 |[https://login-ext.rivm.nl](https://login-ext.rivm.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Java||
 |[http://login-test-ext.rivm.nl](http://login-test-ext.rivm.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
@@ -179,7 +179,7 @@
 |[https://password.rivm.nl](https://password.rivm.nl)| | **D**|BigIP|:warning: |:white_check_mark: | | | | | | :white_check_mark: | |F5 BigIP HSTS||
 |[https://password-link.rivm.nl](https://password-link.rivm.nl)| | **C**|Apache| |:white_check_mark: | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|Access Gateway|
 |[http://password.osiris.rivm.nl](http://password.osiris.rivm.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
-|[https://portie-online.rivm.nl](https://portie-online.rivm.nl)| | **D**|Microsoft-IIS/10.0|:warning: |:white_check_mark: | | | | | | :white_check_mark: | |Bootstrap HSTS IIS:10.0 Microsoft ASP.NET:4.0.30319 Windows Server|Portie-online |...|
+|[https://portie-online.rivm.nl](https://portie-online.rivm.nl)| | **D**|Microsoft-IIS/10.0|:warning: |:white_check_mark: | | | | | | :white_check_mark: | |Bootstrap HSTS IIS:10.0 Microsoft ASP.NET Windows Server|Portie-online |...|
 |[https://pre-login.rivm.nl](https://pre-login.rivm.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
 |[https://pre-uzi.rivm.nl](https://pre-uzi.rivm.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
 |[https://prezies.osiris.rivm.nl](https://prezies.osiris.rivm.nl)| | **A**|| |:white_check_mark: | :warning:| |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET|Object moved|
@@ -205,7 +205,7 @@
 |[https://signalen.osiris.rivm.nl](https://signalen.osiris.rivm.nl)| | **D**||:warning: |:white_check_mark: | | | | | | :white_check_mark: | |F5 BigIP HSTS||
 |[https://sniv.osiris.rivm.nl](https://sniv.osiris.rivm.nl)| | **A**|| |:white_check_mark: | :warning:| |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET|Object moved|
 |[https://soap.osiris.rivm.nl](https://soap.osiris.rivm.nl)| | **D**||:warning: |:white_check_mark: | | | | | | :white_check_mark: | |F5 BigIP HSTS||
-|[https://sprproposal.rivm.nl](https://sprproposal.rivm.nl)| | **C**|Microsoft-IIS/10.0| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS IIS:10.0 Microsoft ASP.NET Windows Server|SOR proposal|
+|[https://sprproposal.rivm.nl](https://sprproposal.rivm.nl)| | **C**|Microsoft-IIS/10.0| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS IIS:10.0 Microsoft ASP.NET:4.0.30319 Windows Server|SOR proposal|
 |[https://sso-osiris.rivm.nl](https://sso-osiris.rivm.nl)| | **F**||:warning: | | | | | | | :white_check_mark: | |F5 BigIP||
 |[https://sso-webauth.rivm.nl](https://sso-webauth.rivm.nl)| | **F**|BigIP| | | | | | | | :white_check_mark: | |F5 BigIP HSTS||
 |[http://sso.api.rivm.nl](http://sso.api.rivm.nl)| | **E**|| | | | | | | | :white_check_mark: | |||

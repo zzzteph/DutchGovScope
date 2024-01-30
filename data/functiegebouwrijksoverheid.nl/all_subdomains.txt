@@ -8,3 +8,4 @@ www.test1.www.functiegebouwrijksoverheid.nl
 functiegebouwrijksoverheid.nl
 www.odc.functiegebouwrijksoverheid.nl
 migratie.functiegebouwrijksoverheid.nl
+sandbox.functiegebouwrijksoverheid.nl

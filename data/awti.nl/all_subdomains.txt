@@ -17,3 +17,5 @@ vpn.awti.nl
 www.awti.nl
 awti.nl
 www.autodiscover.awti.nl
+a-feeds.awti.nl
+a-opendata.awti.nl

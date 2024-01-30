@@ -11,7 +11,7 @@
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/flevoland.nl/subdomains.txt)|91|Alive subdomains|
-|[urls.txt](/data/flevoland.nl/urls.txt)|72|Urls|
+|[urls.txt](/data/flevoland.nl/urls.txt)|73|Urls|
 |[all_subdomains.txt](/data/flevoland.nl/all_subdomains.txt)|207|All found subdomains (history)|
 
 
@@ -57,6 +57,7 @@
 |[https://flevoland.nl](https://flevoland.nl)| | **C**|Microsoft-IIS/10.0| |:white_check_mark: | | | | | | :white_check_mark: | |Google Tag Manager HSTS IIS:10.0 Microsoft ASP.NET Windows Server|Welkom bij provi...|
 |[https://www.flevoland.nl](https://www.flevoland.nl)| | **C**|Microsoft-IIS/10.0| |:white_check_mark: | | | | | | :white_check_mark: | |Google Tag Manager HSTS IIS:10.0 Microsoft ASP.NET:4.0.30319 Windows Server|Welkom bij provi...|
 |[https://www.omgevingsplan.flevoland.nl](https://www.omgevingsplan.flevoland.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu|301 Moved Perman...|
+|[http://mail.flevoland.nl](http://mail.flevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Deze website is...|
 |[https://hetverhaalvan.flevoland.nl](https://hetverhaalvan.flevoland.nl)| | **A**|Apache/2.4.29 (Ubuntu)| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu|301 Moved Perman...|
 |[https://preprodondertekenen.flevoland.nl](https://preprodondertekenen.flevoland.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |HSTS Nginx||
 |[http://prod.flevoland.nl](http://prod.flevoland.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|

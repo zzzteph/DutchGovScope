@@ -5,3 +5,5 @@ magazinesintern.emissionsauthority.nl
 opendata.emissionsauthority.nl
 www.emissionsauthority.nl
 emissionsauthority.nl
+a-feeds.emissionsauthority.nl
+a-opendata.emissionsauthority.nl

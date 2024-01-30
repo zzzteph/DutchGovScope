@@ -67,3 +67,16 @@ rijkswaterstaat.sitearchief.nl
 rvo.sitearchief.nl
 minezk.sitearchief.nl
 acm.sitearchief.nl
+diensttoeslagen.sitearchief.nl
+svb.sitearchief.nl
+minbuza.sitearchief.nl
+forensischinstituut.sitearchief.nl
+douane.sitearchief.nl
+cbr.sitearchief.nl
+minocw.sitearchief.nl
+archief53.sitearchief.nl
+justid.sitearchief.nl
+onderwijsinspectie.sitearchief.nl
+scp.sitearchief.nl
+cjib.sitearchief.nl
+dienstuitvoeringonderwijs.sitearchief.nl

@@ -2,3 +2,6 @@ dihoo.eu
 feeds.dihoo.eu
 opendata.dihoo.eu
 www.dihoo.eu
+a-feeds.dihoo.eu
+a-opendata.dihoo.eu
+a-www.dihoo.eu

@@ -21,3 +21,6 @@ opendata.communicatierijk.nl
 opendata.english.communicatierijk.nl
 www.communicatierijk.nl
 communicatierijk.nl
+i-www.communicatierijk.nl
+o-www.communicatierijk.nl
+t-www.communicatierijk.nl

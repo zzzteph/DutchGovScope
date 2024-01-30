@@ -4,3 +4,6 @@ opendata.caorijk.nl
 static.caorijk.nl
 www.caorijk.nl
 caorijk.nl
+a-feeds.caorijk.nl
+a-opendata.caorijk.nl
+a-www.caorijk.nl

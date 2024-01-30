@@ -19,3 +19,4 @@ migratie.mobiliteitsbank.nl
 organisatiebeheer.mobiliteitsbank.nl
 denhaag.www.mobiliteitsbank.nl
 mobiliteitsbank.nl
+sandbox.mobiliteitsbank.nl

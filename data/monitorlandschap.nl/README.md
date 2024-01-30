@@ -10,9 +10,9 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/monitorlandschap.nl/subdomains.txt)|1|Alive subdomains|
+|[subdomains.txt](/data/monitorlandschap.nl/subdomains.txt)|2|Alive subdomains|
 |[urls.txt](/data/monitorlandschap.nl/urls.txt)|1|Urls|
-|[all_subdomains.txt](/data/monitorlandschap.nl/all_subdomains.txt)|1|All found subdomains (history)|
+|[all_subdomains.txt](/data/monitorlandschap.nl/all_subdomains.txt)|2|All found subdomains (history)|
 
 
 ## Statistics

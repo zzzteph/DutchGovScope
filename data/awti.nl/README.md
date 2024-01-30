@@ -12,7 +12,7 @@
 |------------|-------|------|
 |[subdomains.txt](/data/awti.nl/subdomains.txt)|12|Alive subdomains|
 |[urls.txt](/data/awti.nl/urls.txt)|10|Urls|
-|[all_subdomains.txt](/data/awti.nl/all_subdomains.txt)|19|All found subdomains (history)|
+|[all_subdomains.txt](/data/awti.nl/all_subdomains.txt)|21|All found subdomains (history)|
 
 
 ## Statistics
@@ -29,5 +29,5 @@
 |[https://smtp1.awti.nl](https://smtp1.awti.nl)| **F**| **F**|Microsoft-IIS/10.0| | | | | | | | :white_check_mark: | |IIS:10.0 Windows Server||
 |[https://vpn.awti.nl](https://vpn.awti.nl)| **F**| **F**|Microsoft-IIS/10.0| | | | | | | | :white_check_mark: | |IIS:10.0 Windows Server||
 |[https://www.awti.nl](https://www.awti.nl)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Home | Adviesraa...|
-|[https://awti.nl](https://awti.nl)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
+|[https://awti.nl](https://awti.nl)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 

@@ -12,7 +12,7 @@
 |------------|-------|------|
 |[subdomains.txt](/data/fmhaaglanden.nl/subdomains.txt)|5|Alive subdomains|
 |[urls.txt](/data/fmhaaglanden.nl/urls.txt)|4|Urls|
-|[all_subdomains.txt](/data/fmhaaglanden.nl/all_subdomains.txt)|12|All found subdomains (history)|
+|[all_subdomains.txt](/data/fmhaaglanden.nl/all_subdomains.txt)|14|All found subdomains (history)|
 
 
 ## Statistics

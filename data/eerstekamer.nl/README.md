@@ -12,7 +12,7 @@
 |------------|-------|------|
 |[subdomains.txt](/data/eerstekamer.nl/subdomains.txt)|21|Alive subdomains|
 |[urls.txt](/data/eerstekamer.nl/urls.txt)|13|Urls|
-|[all_subdomains.txt](/data/eerstekamer.nl/all_subdomains.txt)|32|All found subdomains (history)|
+|[all_subdomains.txt](/data/eerstekamer.nl/all_subdomains.txt)|37|All found subdomains (history)|
 
 
 ## Statistics
@@ -25,7 +25,7 @@
 |[https://apiarbor.eerstekamer.nl](https://apiarbor.eerstekamer.nl)| | **A**|| |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | |HSTS|403 Forbidden|
 |[http://autodiscover.eerstekamer.nl](http://autodiscover.eerstekamer.nl)| | **B**|Microsoft-IIS/10.0|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server||
 |[https://europapoort.eerstekamer.nl](https://europapoort.eerstekamer.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Moved|
-|[https://onderwijs.eerstekamer.nl](https://onderwijs.eerstekamer.nl)| | **F**|nginx/1.19.4|:white_check_mark: | | | | | | | :white_check_mark: | |Next.js Nginx:1.19.4 Node.js React Webpack|Home | Onderwijs...|
+|[https://onderwijs.eerstekamer.nl](https://onderwijs.eerstekamer.nl)| | **F**|nginx/1.19.4|:white_check_mark: | | | | | | | :white_check_mark: | |Nginx:1.19.4|302 Found|
 |[https://redactie.eerstekamer.nl](https://redactie.eerstekamer.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Moved|
 |[https://remoteaccess1.eerstekamer.nl](https://remoteaccess1.eerstekamer.nl)| | **A**||:warning: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://remoteaccess3.eerstekamer.nl](https://remoteaccess3.eerstekamer.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||

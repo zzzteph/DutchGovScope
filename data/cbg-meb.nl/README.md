@@ -4,7 +4,7 @@
 ## Summary data
 
 
- - **SSL Grade**:A+
+ - **SSL Grade**:A
  - **HTTP Security Grade**:B
 
 
@@ -12,7 +12,7 @@
 |------------|-------|------|
 |[subdomains.txt](/data/cbg-meb.nl/subdomains.txt)|30|Alive subdomains|
 |[urls.txt](/data/cbg-meb.nl/urls.txt)|15|Urls|
-|[all_subdomains.txt](/data/cbg-meb.nl/all_subdomains.txt)|58|All found subdomains (history)|
+|[all_subdomains.txt](/data/cbg-meb.nl/all_subdomains.txt)|62|All found subdomains (history)|
 
 
 ## Statistics
@@ -20,10 +20,10 @@
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://db.cbg-meb.nl](https://db.cbg-meb.nl)| | **B**|nginx|:warning: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
+|[https://db.cbg-meb.nl](https://db.cbg-meb.nl)| **A+**| **B**|nginx|:warning: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
 |[https://dcp-time-slot.cbg-meb.nl](https://dcp-time-slot.cbg-meb.nl)| **A+**| **B**|nginx|:warning: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx Phusion Passenger:6.0.14 Ruby Ruby on Rails|CBG/MEB Timeslot...|
 |[https://english.cbg-meb.nl](https://english.cbg-meb.nl)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Home | Medicines...|
-|[https://enterpriseenrollment.cbg-meb.nl](https://enterpriseenrollment.cbg-meb.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||
+|[https://enterpriseenrollment.cbg-meb.nl](https://enterpriseenrollment.cbg-meb.nl)| **F**| **E**|| | | | | | | | :white_check_mark: | |HSTS||
 |[https://feeds.cbg-meb.nl](https://feeds.cbg-meb.nl)| **A+**| **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://feeds.english.cbg-meb.nl](https://feeds.english.cbg-meb.nl)| **A+**| **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://mdm.cbg-meb.nl](https://mdm.cbg-meb.nl)| **A+**| **C**|server| | | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | ||302 Found|

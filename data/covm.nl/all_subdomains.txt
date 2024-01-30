@@ -11,3 +11,6 @@ opendata.covm.nl
 opendata.english.covm.nl
 www.covm.nl
 covm.nl
+a-feeds.covm.nl
+a-opendata.covm.nl
+autoconfig.covm.nl

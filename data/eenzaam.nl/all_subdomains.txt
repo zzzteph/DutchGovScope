@@ -14,3 +14,8 @@ week.eenzaam.nl
 www.eenzaam.nl
 www.eenzaam.nlwww.eenzaam.nl
 eenzaam.nl
+a-feeds.eenzaam.nl
+a-opendata.eenzaam.nl
+a-www.eenzaam.nl
+pop.eenzaam.nl
+ssh.eenzaam.nl

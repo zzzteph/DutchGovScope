@@ -25,8 +25,8 @@
 |[https://acc-mailing.rijksoverheid.nl](https://acc-mailing.rijksoverheid.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS|403 - Forbidden:...|
 |[https://acc.prikkenzonderafspraak.rijksoverheid.nl](https://acc.prikkenzonderafspraak.rijksoverheid.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS|Pagina niet gevo...|
 |[https://acc.quarantainecheck.rijksoverheid.nl](https://acc.quarantainecheck.rijksoverheid.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS|Pagina niet gevo...|
-|[https://acc.quarantaineverklaring.rijksoverheid.nl](https://acc.quarantaineverklaring.rijksoverheid.nl)| | **E**|| | | | | | | | :white_check_mark: | |Basic HSTS|401 Authorizatio...|
-|[https://coronadashboard.rijksoverheid.nl](https://coronadashboard.rijksoverheid.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Azure Azure Front Door Fourthwall:prd-5520-76fadfb7d HSTS Next.js Node.js React Webpack|Coronadashboard...|
+|[https://acc.quarantaineverklaring.rijksoverheid.nl](https://acc.quarantaineverklaring.rijksoverheid.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS|Pagina niet gevo...|
+|[https://coronadashboard.rijksoverheid.nl](https://coronadashboard.rijksoverheid.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Azure Azure Front Door Fourthwall:prd-5535-ee71e0b71 HSTS Next.js Node.js React Webpack|Coronadashboard...|
 |[http://dns-web10.rijksoverheid.nl](http://dns-web10.rijksoverheid.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server||
 |[http://dns-web300.rijksoverheid.nl](http://dns-web300.rijksoverheid.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server||
 |[https://downloads.persberichten.rijksoverheid.nl](https://downloads.persberichten.rijksoverheid.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|404 - Not Found|
@@ -42,8 +42,8 @@
 |[https://opendata.rijksoverheid.nl](https://opendata.rijksoverheid.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://opendata.persberichten.rijksoverheid.nl](https://opendata.persberichten.rijksoverheid.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://persberichten.rijksoverheid.nl](https://persberichten.rijksoverheid.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Home | Persberic...|
-|[https://prikkenzonderafspraak.rijksoverheid.nl](https://prikkenzonderafspraak.rijksoverheid.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | ||301 Moved Perman...|
-|[https://quarantainecheck.rijksoverheid.nl](https://quarantainecheck.rijksoverheid.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | ||301 Moved Perman...|
+|[https://prikkenzonderafspraak.rijksoverheid.nl](https://prikkenzonderafspraak.rijksoverheid.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|Pagina niet gevo...|
+|[https://quarantainecheck.rijksoverheid.nl](https://quarantainecheck.rijksoverheid.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|Pagina niet gevo...|
 |[https://quarantaineverklaring.rijksoverheid.nl](https://quarantaineverklaring.rijksoverheid.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Quarantaine Verk...|
 |[https://redir.rijksoverheid.nl](https://redir.rijksoverheid.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|403 Forbidden|
 |[https://rss.persberichten.rijksoverheid.nl](https://rss.persberichten.rijksoverheid.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Basic HSTS Nginx||

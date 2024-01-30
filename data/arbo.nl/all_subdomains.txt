@@ -7,3 +7,5 @@ arbo.nl
 rie.arbo.nl
 logs.arbo.nl
 syndicatie.arbo.nl
+rt.arbo.nl
+testing.arbo.nl

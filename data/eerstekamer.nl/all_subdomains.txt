@@ -30,3 +30,8 @@ www.redactie.eerstekamer.nl
 eerstekamer.nl
 22www.eerstekamer.nl
 lyncdiscover.eerstekamer.nl
+enterpriseenrollment.eerstekamer.nl
+enterpriseregistration.eerstekamer.nl
+ftp.eerstekamer.nl
+liquit.eerstekamer.nl
+mail.eerstekamer.nl

@@ -6,9 +6,9 @@ https://atlas.brabant.nl
 https://bevolkingsprognose2017.brabant.nl
 https://werkplek.brabant.nl
 https://huisstijl.brabant.nl
-https://www-ontw.brabant.nl
+http://www-ontw.brabant.nl
 https://esb-acpt.brabant.nl
-https://brain-ontw.brabant.nl
+http://brain-ontw.brabant.nl
 https://bbma.brabant.nl
 https://webmail.brabant.nl
 https://api.brabant.nl
@@ -70,7 +70,7 @@ https://dagstaatmonitors.brabant.nl
 https://bevolkingsprognose2020.brabant.nl
 https://app.brabant.nl
 https://mik-acpt.brabant.nl
-http://bzv-a.brabant.nl
+https://bzv-a.brabant.nl
 https://geoportaal-acceptatie.brabant.nl
 http://informatie-rws.brabant.nl
 https://digicheck.brabant.nl

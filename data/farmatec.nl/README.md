@@ -12,7 +12,7 @@
 |------------|-------|------|
 |[subdomains.txt](/data/farmatec.nl/subdomains.txt)|10|Alive subdomains|
 |[urls.txt](/data/farmatec.nl/urls.txt)|9|Urls|
-|[all_subdomains.txt](/data/farmatec.nl/all_subdomains.txt)|27|All found subdomains (history)|
+|[all_subdomains.txt](/data/farmatec.nl/all_subdomains.txt)|32|All found subdomains (history)|
 
 
 ## Statistics

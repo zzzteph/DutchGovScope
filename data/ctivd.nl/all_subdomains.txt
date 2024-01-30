@@ -26,3 +26,6 @@ wwwnieuw.ctivd.nl
 viawww.ctivd.nl
 ctivd.nl
 mx01.ctivd.nl
+i-www.ctivd.nl
+o-www.ctivd.nl
+t-www.ctivd.nl

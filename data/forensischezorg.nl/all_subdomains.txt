@@ -3,3 +3,7 @@ www.forensischezorg.nl
 forensischezorg.nl
 feeds.forensischezorg.nl
 opendata.forensischezorg.nl
+a-feeds.forensischezorg.nl
+a-opendata.forensischezorg.nl
+a-www.forensischezorg.nl
+test.forensischezorg.nl

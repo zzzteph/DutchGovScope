@@ -268,3 +268,16 @@ api-tzpubliekscontact-tst.dnb.nl
 tzpubliekscontact.dnb.nl
 api-tzpubliekscontact.dnb.nl
 api-tzpubliekscontact-acc.dnb.nl
+apps.sharepoint.dnb.nl
+bdc.dnb.nl
+c01.dnb.nl
+enterpriseenrollment.dnb.nl
+ews.dnb.nl
+gdc.dnb.nl
+mediaportal.dnb.nl
+mobile.dnb.nl
+post.dnb.nl
+sftp.dnb.nl
+traveler.dnb.nl
+woa.dnb.nl
+www-origin.dnb.nl

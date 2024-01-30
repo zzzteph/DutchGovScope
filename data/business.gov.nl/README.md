@@ -12,7 +12,7 @@
 |------------|-------|------|
 |[subdomains.txt](/data/business.gov.nl/subdomains.txt)|11|Alive subdomains|
 |[urls.txt](/data/business.gov.nl/urls.txt)|5|Urls|
-|[all_subdomains.txt](/data/business.gov.nl/all_subdomains.txt)|29|All found subdomains (history)|
+|[all_subdomains.txt](/data/business.gov.nl/all_subdomains.txt)|32|All found subdomains (history)|
 
 
 ## Statistics

@@ -25,3 +25,4 @@ speellijstenapi.cultuursubsidie.nl
 www.cultuursubsidie.nl
 ziewww.cultuursubsidie.nl
 cultuursubsidie.nl
+monitor.cultuursubsidie.nl

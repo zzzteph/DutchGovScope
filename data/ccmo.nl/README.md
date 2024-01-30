@@ -12,7 +12,7 @@
 |------------|-------|------|
 |[subdomains.txt](/data/ccmo.nl/subdomains.txt)|10|Alive subdomains|
 |[urls.txt](/data/ccmo.nl/urls.txt)|8|Urls|
-|[all_subdomains.txt](/data/ccmo.nl/all_subdomains.txt)|14|All found subdomains (history)|
+|[all_subdomains.txt](/data/ccmo.nl/all_subdomains.txt)|19|All found subdomains (history)|
 
 
 ## Statistics

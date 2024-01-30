@@ -350,3 +350,9 @@ passwordportal.cbs.nl
 cbsenbedrijf.cbs.nl
 uitwisseling.cbs.nl
 beh-iam.acceptatie.cbs.nl
+amunet.cerberus.cbs.nl
+amunet.cbs.nl
+login-databestanden.test.cbs.nl
+brandportal.cbs.nl
+mijn-acceptatie.cbs.nl
+mijn.acceptatie.cbs.nl

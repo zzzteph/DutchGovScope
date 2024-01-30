@@ -20,3 +20,5 @@ new.dev.ceg.nl
 www.dev.ceg.nl
 old.ceg.nl
 www.old.ceg.nl
+a-opendata.ceg.nl
+a-www.ceg.nl

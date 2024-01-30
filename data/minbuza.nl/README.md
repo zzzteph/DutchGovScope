@@ -12,7 +12,7 @@
 |------------|-------|------|
 |[subdomains.txt](/data/minbuza.nl/subdomains.txt)|27|Alive subdomains|
 |[urls.txt](/data/minbuza.nl/urls.txt)|14|Urls|
-|[all_subdomains.txt](/data/minbuza.nl/all_subdomains.txt)|135|All found subdomains (history)|
+|[all_subdomains.txt](/data/minbuza.nl/all_subdomains.txt)|137|All found subdomains (history)|
 
 
 ## Statistics

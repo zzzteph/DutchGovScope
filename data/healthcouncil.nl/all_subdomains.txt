@@ -9,3 +9,4 @@ a-magazines.healthcouncil.nl
 a-magazinesintern.healthcouncil.nl
 a-opendata.healthcouncil.nl
 a-www.healthcouncil.nl
+ftp.healthcouncil.nl

@@ -34,7 +34,7 @@
 |[https://tbo.politie.nl](https://tbo.politie.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS|<font color="red...|
 |[https://edison.politie.nl](https://edison.politie.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|404 Not Found|
 |[https://sso.politie.nl](https://sso.politie.nl)| | **C**||:warning: |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |F5 BigIP HSTS||
-|[https://www.politie.nl](https://www.politie.nl)| | **A**||:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS|Home | politie.n...|
+|[https://www.politie.nl](https://www.politie.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS|Home | politie.n...|
 |[https://rss.politie.nl](https://rss.politie.nl)| | **A**||:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|302 Found|
 |[https://accsso.politie.nl](https://accsso.politie.nl)| | **C**||:warning: |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |F5 BigIP HSTS||
 |[https://aangifte-acc.politie.nl](https://aangifte-acc.politie.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Access Denied|

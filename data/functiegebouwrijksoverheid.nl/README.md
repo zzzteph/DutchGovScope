@@ -12,7 +12,7 @@
 |------------|-------|------|
 |[subdomains.txt](/data/functiegebouwrijksoverheid.nl/subdomains.txt)|5|Alive subdomains|
 |[urls.txt](/data/functiegebouwrijksoverheid.nl/urls.txt)|5|Urls|
-|[all_subdomains.txt](/data/functiegebouwrijksoverheid.nl/all_subdomains.txt)|10|All found subdomains (history)|
+|[all_subdomains.txt](/data/functiegebouwrijksoverheid.nl/all_subdomains.txt)|11|All found subdomains (history)|
 
 
 ## Statistics

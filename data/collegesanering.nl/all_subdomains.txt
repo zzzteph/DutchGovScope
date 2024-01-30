@@ -12,3 +12,7 @@ magazinesintern.collegesanering.nl
 opendata.english.collegesanering.nl
 feeds.english.collegesanering.nl
 collegesanering.nl
+a-feeds.collegesanering.nl
+a-www.collegesanering.nl
+a-opendata.collegesanering.nl
+post.collegesanering.nl

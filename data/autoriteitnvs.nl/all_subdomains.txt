@@ -19,3 +19,5 @@ opendata.autoriteitnvs.nl
 opendata.english.autoriteitnvs.nl
 www.autoriteitnvs.nl
 autoriteitnvs.nl
+intranet.autoriteitnvs.nl
+staging.intranet.autoriteitnvs.nl

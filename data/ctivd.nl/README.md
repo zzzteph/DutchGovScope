@@ -12,7 +12,7 @@
 |------------|-------|------|
 |[subdomains.txt](/data/ctivd.nl/subdomains.txt)|18|Alive subdomains|
 |[urls.txt](/data/ctivd.nl/urls.txt)|7|Urls|
-|[all_subdomains.txt](/data/ctivd.nl/all_subdomains.txt)|28|All found subdomains (history)|
+|[all_subdomains.txt](/data/ctivd.nl/all_subdomains.txt)|31|All found subdomains (history)|
 
 
 ## Statistics
@@ -23,7 +23,7 @@
 |[https://english.ctivd.nl](https://english.ctivd.nl)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Home | Dutch Rev...|
 |[https://feeds.ctivd.nl](https://feeds.ctivd.nl)| **A+**| **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://feeds.english.ctivd.nl](https://feeds.english.ctivd.nl)| **A+**| **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
-|[https://opendata.ctivd.nl](https://opendata.ctivd.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
+|[https://opendata.ctivd.nl](https://opendata.ctivd.nl)| **A+**| **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://opendata.english.ctivd.nl](https://opendata.english.ctivd.nl)| **A+**| **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://www.ctivd.nl](https://www.ctivd.nl)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Home | CTIVD|
 |[https://ctivd.nl](https://ctivd.nl)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|

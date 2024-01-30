@@ -12,7 +12,7 @@
 |------------|-------|------|
 |[subdomains.txt](/data/arbo.nl/subdomains.txt)|4|Alive subdomains|
 |[urls.txt](/data/arbo.nl/urls.txt)|2|Urls|
-|[all_subdomains.txt](/data/arbo.nl/all_subdomains.txt)|9|All found subdomains (history)|
+|[all_subdomains.txt](/data/arbo.nl/all_subdomains.txt)|11|All found subdomains (history)|
 
 
 ## Statistics

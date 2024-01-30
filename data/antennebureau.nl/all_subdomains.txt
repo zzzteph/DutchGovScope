@@ -22,3 +22,7 @@ sip.antennebureau.nl
 test.antennebureau.nl
 www.antennebureau.nl
 antennebureau.nl
+i-www.antennebureau.nl
+o-www.antennebureau.nl
+pre-live.antennebureau.nl
+t-www.antennebureau.nl

@@ -12,7 +12,7 @@
 |------------|-------|------|
 |[subdomains.txt](/data/mobiliteitsbank.nl/subdomains.txt)|10|Alive subdomains|
 |[urls.txt](/data/mobiliteitsbank.nl/urls.txt)|10|Urls|
-|[all_subdomains.txt](/data/mobiliteitsbank.nl/all_subdomains.txt)|21|All found subdomains (history)|
+|[all_subdomains.txt](/data/mobiliteitsbank.nl/all_subdomains.txt)|22|All found subdomains (history)|
 
 
 ## Statistics

@@ -3,3 +3,6 @@ opendata.dranquilo.nl
 www.dranquilo.nl
 dranquilo.nl
 server01.dranquilo.nl
+a-opendata.dranquilo.nl
+a-www.dranquilo.nl
+staging.dranquilo.nl

@@ -12,7 +12,7 @@
 |------------|-------|------|
 |[subdomains.txt](/data/centralecommissiedierproeven.nl/subdomains.txt)|9|Alive subdomains|
 |[urls.txt](/data/centralecommissiedierproeven.nl/urls.txt)|4|Urls|
-|[all_subdomains.txt](/data/centralecommissiedierproeven.nl/all_subdomains.txt)|23|All found subdomains (history)|
+|[all_subdomains.txt](/data/centralecommissiedierproeven.nl/all_subdomains.txt)|26|All found subdomains (history)|
 
 
 ## Statistics

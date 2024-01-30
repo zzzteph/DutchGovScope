@@ -33,3 +33,5 @@ jaarverslag2011.forensischinstituut.nl
 dnajaarverslag2011.forensischinstituut.nl
 mijnacademy.forensischinstituut.nl
 forensischinstituut.nl
+pop.forensischinstituut.nl
+test.forensischinstituut.nl

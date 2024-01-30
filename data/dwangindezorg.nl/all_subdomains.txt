@@ -21,3 +21,4 @@ opendata.dwangindezorg.nl
 opendata.english.dwangindezorg.nl
 www.dwangindezorg.nl
 dwangindezorg.nl
+autodiscover.dwangindezorg.nl

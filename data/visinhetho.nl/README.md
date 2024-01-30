@@ -12,7 +12,7 @@
 |------------|-------|------|
 |[subdomains.txt](/data/visinhetho.nl/subdomains.txt)|3|Alive subdomains|
 |[urls.txt](/data/visinhetho.nl/urls.txt)|3|Urls|
-|[all_subdomains.txt](/data/visinhetho.nl/all_subdomains.txt)|3|All found subdomains (history)|
+|[all_subdomains.txt](/data/visinhetho.nl/all_subdomains.txt)|4|All found subdomains (history)|
 
 
 ## Statistics

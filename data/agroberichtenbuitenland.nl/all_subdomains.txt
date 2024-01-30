@@ -75,3 +75,6 @@ vietnam.agroberichtenbuitenland.nl
 www.agroberichtenbuitenland.nl
 zuid-afrika.agroberichtenbuitenland.nl
 agroberichtenbuitenland.nl
+i-www.agroberichtenbuitenland.nl
+o-www.agroberichtenbuitenland.nl
+t-www.agroberichtenbuitenland.nl

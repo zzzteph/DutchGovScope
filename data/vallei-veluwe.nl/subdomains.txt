@@ -5,8 +5,13 @@ nc-openbaar.vallei-veluwe.nl
 werkplek.vallei-veluwe.nl
 autodiscover.vallei-veluwe.nl
 vallei-veluwe.nl
+mx2.vallei-veluwe.nl
+planonprod.vallei-veluwe.nl
 tmx.vallei-veluwe.nl
 www.vallei-veluwe.nl
+redactie.vallei-veluwe.nl
 eloket.vallei-veluwe.nl
+testeloket.vallei-veluwe.nl
+api.vallei-veluwe.nl
 auth.vallei-veluwe.nl
 omi.vallei-veluwe.nl

@@ -11,3 +11,5 @@ opendata.english.delerarenagenda.nl
 www.delerarenagenda.nl
 voorlopers.delerarenagenda.nl
 delerarenagenda.nl
+a-feeds.delerarenagenda.nl
+a-opendata.delerarenagenda.nl

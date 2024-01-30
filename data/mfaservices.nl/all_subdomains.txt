@@ -261,3 +261,5 @@ dev.cdn.consular.mfaservices.nl
 snd.cdn.consular.mfaservices.nl
 tst.cdn.consular.mfaservices.nl
 url9097.consular.mfaservices.nl
+acc-reftool.consular.mfaservices.nl
+reftool.consular.mfaservices.nl

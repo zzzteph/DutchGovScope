@@ -12,7 +12,7 @@
 |------------|-------|------|
 |[subdomains.txt](/data/hetcvte.nl/subdomains.txt)|6|Alive subdomains|
 |[urls.txt](/data/hetcvte.nl/urls.txt)|6|Urls|
-|[all_subdomains.txt](/data/hetcvte.nl/all_subdomains.txt)|8|All found subdomains (history)|
+|[all_subdomains.txt](/data/hetcvte.nl/all_subdomains.txt)|12|All found subdomains (history)|
 
 
 ## Statistics

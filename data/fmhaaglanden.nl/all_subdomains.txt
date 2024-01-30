@@ -10,3 +10,5 @@ opendata.fmhaaglanden.nl
 opendata.english.fmhaaglanden.nl
 www.fmhaaglanden.nl
 fmhaaglanden.nl
+a-feeds.fmhaaglanden.nl
+a-opendata.fmhaaglanden.nl

@@ -29,7 +29,7 @@ https://gdi.rvo.nl
 https://geocontent.rvo.nl
 https://geoservices.rvo.nl
 https://gtpa.rvo.nl
-http://ih-static.rvo.nl
+https://ih-static.rvo.nl
 https://infographics.rvo.nl
 https://informatiehuis.rvo.nl
 https://intra.rvo.nl
@@ -94,3 +94,4 @@ https://acc-wetten.rvo.nl
 https://test-wetten.rvo.nl
 https://english-data.rvo.nl
 http://bpa.rvo.nl
+https://english-prod.rvo.nl

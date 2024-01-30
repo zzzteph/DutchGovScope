@@ -1,3 +1,4 @@
 nl2100.nl
 dev.nl2100.nl
 www.nl2100.nl
+localhost.nl2100.nl

@@ -225,3 +225,12 @@ darktrace.brabant.nl
 adfs.brabant.nl
 aris.brabant.nl
 192.168.150.126.brabant.nl
+blog.brabant.nl
+enterpriseenrollment.brabant.nl
+enterpriseregistration.brabant.nl
+fta.brabant.nl
+layar.brabant.nl
+msoid.brabant.nl
+ndes.brabant.nl
+pki.brabant.nl
+webcast.brabant.nl

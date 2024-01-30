@@ -12,7 +12,7 @@
 |------------|-------|------|
 |[subdomains.txt](/data/aerius.nl/subdomains.txt)|63|Alive subdomains|
 |[urls.txt](/data/aerius.nl/urls.txt)|20|Urls|
-|[all_subdomains.txt](/data/aerius.nl/all_subdomains.txt)|63|All found subdomains (history)|
+|[all_subdomains.txt](/data/aerius.nl/all_subdomains.txt)|64|All found subdomains (history)|
 
 
 ## Statistics
@@ -29,7 +29,7 @@
 |[https://monitor.aerius.nl](https://monitor.aerius.nl)| | **F**|Jetty(9.4.18.v20190429)| | | | | | | | :white_check_mark: | |Java Jekyll:4.0.0 Jetty:9.4.18 Ruby|Over AERIUS Moni...|
 |[https://nexus.aerius.nl](https://nexus.aerius.nl)| | **D**|Nexus/3.63.0-01 (OSS)| | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | ||Sonatype Nexus R...|
 |[https://nexus-docker.aerius.nl](https://nexus-docker.aerius.nl)| | **F**|Jetty(9.4.53.v20231009)| | | | | | | | :white_check_mark: | |Java Jetty:9.4.53|Error 400 Not a...|
-|[https://pdok.aerius.nl](https://pdok.aerius.nl)| | **C**|Apache| |:white_check_mark: | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|403 Forbidden|
+|[https://pdok.aerius.nl](https://pdok.aerius.nl)| | **C**|Apache| |:white_check_mark: | | | | | | :white_check_mark: | |Apache HTTP Server HSTS||
 |[https://regionaal-register.aerius.nl](https://regionaal-register.aerius.nl)| | **F**|awselb/2.0| | | | | | | | :white_check_mark: | |Amazon ELB Amazon Web Services||
 |[https://register.aerius.nl](https://register.aerius.nl)| | **F**|nginx/1.25.2| | | | | | | | :white_check_mark: | |Nginx:1.25.2||
 |[https://scenario.aerius.nl](https://scenario.aerius.nl)| | **C**|Apache| |:white_check_mark: | | | | | | :white_check_mark: | |Apache HTTP Server HSTS||

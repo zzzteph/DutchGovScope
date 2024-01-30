@@ -33,3 +33,13 @@ gn2-p-sap-smp.is.domeinenrz.nl
 vpn3.domeinenrz.nl
 bp2-acc.domeinenrz.nl
 toegankelijkheidsonderzoek-english.domeinenrz.nl
+a-english.domeinenrz.nl
+a-feeds.a-english.domeinenrz.nl
+a-feeds.domeinenrz.nl
+a-opendata.a-english.domeinenrz.nl
+a-opendata.domeinenrz.nl
+a-www.domeinenrz.nl
+dft.domeinenrz.nl
+enterpriseenrollment.domeinenrz.nl
+services2.domeinenrz.nl
+vpn2.domeinenrz.nl

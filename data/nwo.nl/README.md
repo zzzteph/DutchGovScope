@@ -22,8 +22,8 @@
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[https://www.isaac.nwo.nl](https://www.isaac.nwo.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
 |[https://impacttest.nwo.nl](https://impacttest.nwo.nl)| | **F**|nginx/1.18.0 (Ubuntu)| | | | | | | | :white_check_mark: | |Nginx:1.18.0 Ubuntu|NWO Impact|
-|[https://matomo.nwo.nl](https://matomo.nwo.nl)| | **D**|Apache|:white_check_mark: | | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |AngularJS Apache HTTP Server Matomo Analytics|Sign in - Matomo|
-|[https://enterpriseregistration.nwo.nl](https://enterpriseregistration.nwo.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS|Service|
+|[https://matomo.nwo.nl](https://matomo.nwo.nl)| | **D**|Apache|:white_check_mark: | | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server|Matomo › Error|
+|[https://enterpriseregistration.nwo.nl](https://enterpriseregistration.nwo.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||
 |[https://byod.nwo.nl](https://byod.nwo.nl)| | **C**|server| | | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | ||302 Found|
 |[https://isaac.nwo.nl](https://isaac.nwo.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
 |[http://autodiscover.nwo.nl](http://autodiscover.nwo.nl)| | **B**|Microsoft-IIS/10.0|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server||

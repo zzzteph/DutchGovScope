@@ -3,3 +3,4 @@ nieuwsbrief.cvte-raadpleging.nl
 www.cvte-raadpleging.nl
 cvte-raadpleging.nl
 18.cvte-raadpleging.nl
+localhost.cvte-raadpleging.nl

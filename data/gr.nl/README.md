@@ -12,7 +12,7 @@
 |------------|-------|------|
 |[subdomains.txt](/data/gr.nl/subdomains.txt)|4|Alive subdomains|
 |[urls.txt](/data/gr.nl/urls.txt)|2|Urls|
-|[all_subdomains.txt](/data/gr.nl/all_subdomains.txt)|7|All found subdomains (history)|
+|[all_subdomains.txt](/data/gr.nl/all_subdomains.txt)|9|All found subdomains (history)|
 
 
 ## Statistics

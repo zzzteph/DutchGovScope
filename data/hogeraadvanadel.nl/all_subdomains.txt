@@ -8,3 +8,10 @@ magazines.english.hogeraadvanadel.nl
 magazinesintern.hogeraadvanadel.nl
 opendata.english.hogeraadvanadel.nl
 hogeraadvanadel.nl
+a-feeds.hogeraadvanadel.nl
+a-opendata.hogeraadvanadel.nl
+a-www.hogeraadvanadel.nl
+autodiscover.hogeraadvanadel.nl
+enterpriseenrollment.hogeraadvanadel.nl
+enterpriseregistration.hogeraadvanadel.nl
+msoid.hogeraadvanadel.nl

@@ -8,3 +8,6 @@ staging.english.ctpveldzicht.nl
 ctpveldzicht.nl
 ftp.ctpveldzicht.nl
 staging.ctpveldzicht.nl
+a-opendata.ctpveldzicht.nl
+a-www.ctpveldzicht.nl
+mail.ctpveldzicht.nl

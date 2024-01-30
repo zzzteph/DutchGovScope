@@ -1155,3 +1155,4 @@ k8s.svm-rotterdam.cnap-am2.intranet.rws.nl
 k8s.svm-ci.cnap-am4.intranet.rws.nl
 k8s.svm-ede.cnap-am2.intranet.rws.nl
 k8s.svm-gorinchem.cnap-am2.intranet.rws.nl
+keycloak-acc.vm-02.azure.grid.rws.nl

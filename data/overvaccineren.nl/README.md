@@ -5,13 +5,13 @@
 
 
  - **SSL Grade**:
- - **HTTP Security Grade**:A
+ - **HTTP Security Grade**:F
 
 
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/overvaccineren.nl/subdomains.txt)|3|Alive subdomains|
-|[urls.txt](/data/overvaccineren.nl/urls.txt)|3|Urls|
+|[urls.txt](/data/overvaccineren.nl/urls.txt)|0|Urls|
 |[all_subdomains.txt](/data/overvaccineren.nl/all_subdomains.txt)|4|All found subdomains (history)|
 
 
@@ -20,7 +20,4 @@
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://acc.overvaccineren.nl](https://acc.overvaccineren.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS|Pagina niet gevo...|
-|[https://overvaccineren.nl](https://overvaccineren.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | ||301 Moved Perman...|
-|[https://www.overvaccineren.nl](https://www.overvaccineren.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | ||301 Moved Perman...|
 

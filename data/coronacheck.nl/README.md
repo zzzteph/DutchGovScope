@@ -22,7 +22,7 @@
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[http://digid.acc.coronacheck.nl](http://digid.acc.coronacheck.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://helpdesk.coronacheck.nl](https://helpdesk.coronacheck.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS||
-|[https://holder-api.coronacheck.nl](https://holder-api.coronacheck.nl)| | **A**|nginx| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx||
+|[https://holder-api.coronacheck.nl](https://holder-api.coronacheck.nl)| | **A**|nginx| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS Nginx||
 |[https://holder-api-cdn.coronacheck.nl](https://holder-api-cdn.coronacheck.nl)| | **A**|nginx| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx||
 |[https://holder-api-cdn.acc.coronacheck.nl](https://holder-api-cdn.acc.coronacheck.nl)| | **A**|nginx| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS Nginx||
 |[https://holder-api.acc.coronacheck.nl](https://holder-api.acc.coronacheck.nl)| | **A**|nginx| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS Nginx||

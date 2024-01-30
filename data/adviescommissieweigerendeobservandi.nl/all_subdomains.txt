@@ -9,3 +9,6 @@ opendata.english.adviescommissieweigerendeobservandi.nl
 feeds.english.adviescommissieweigerendeobservandi.nl
 magazines.adviescommissieweigerendeobservandi.nl
 magazinesintern.adviescommissieweigerendeobservandi.nl
+a-feeds.adviescommissieweigerendeobservandi.nl
+a-opendata.adviescommissieweigerendeobservandi.nl
+a-www.adviescommissieweigerendeobservandi.nl

@@ -5,7 +5,7 @@ https://bd-acc.topdesk.odc-noord.nl
 https://bd-prd.topdesk.odc-noord.nl
 https://dci-acc.topdesk.odc-noord.nl
 https://dci-prd.topdesk.odc-noord.nl
-https://doc-direkt-acc.topdesk.odc-noord.nl
+http://doc-direkt-acc.topdesk.odc-noord.nl
 https://doc-direkt-prd.topdesk.odc-noord.nl
 https://docdirekt-ont-va.topdesk.odc-noord.nl
 https://duo-acc.topdesk.odc-noord.nl

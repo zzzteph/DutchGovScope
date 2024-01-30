@@ -10,3 +10,5 @@ opendata.english.geschilleninstantieszorg.nl
 www.geschilleninstantieszorg.nl
 geschilleninstantieszorg.nl
 resultaten-toegankelijkheidsonderzoek-www.geschilleninstantieszorg.nl
+a-feeds.geschilleninstantieszorg.nl
+a-opendata.geschilleninstantieszorg.nl

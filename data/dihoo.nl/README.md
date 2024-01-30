@@ -12,7 +12,7 @@
 |------------|-------|------|
 |[subdomains.txt](/data/dihoo.nl/subdomains.txt)|5|Alive subdomains|
 |[urls.txt](/data/dihoo.nl/urls.txt)|5|Urls|
-|[all_subdomains.txt](/data/dihoo.nl/all_subdomains.txt)|5|All found subdomains (history)|
+|[all_subdomains.txt](/data/dihoo.nl/all_subdomains.txt)|8|All found subdomains (history)|
 
 
 ## Statistics

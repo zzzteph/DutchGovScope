@@ -28,3 +28,10 @@ www.meldingen.emissieautoriteit.nl
 www.pan.emissieautoriteit.nl
 emissieautoriteit.nl
 sdm.emissieautoriteit.nl
+a-feeds.emissieautoriteit.nl
+a-magazines.emissieautoriteit.nl
+a-opendata.emissieautoriteit.nl
+dap.emissieautoriteit.nl
+dpp.emissieautoriteit.nl
+jap.emissieautoriteit.nl
+jpp.emissieautoriteit.nl

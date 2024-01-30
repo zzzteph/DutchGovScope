@@ -12,7 +12,7 @@
 |------------|-------|------|
 |[subdomains.txt](/data/gdi.nl/subdomains.txt)|6|Alive subdomains|
 |[urls.txt](/data/gdi.nl/urls.txt)|3|Urls|
-|[all_subdomains.txt](/data/gdi.nl/all_subdomains.txt)|8|All found subdomains (history)|
+|[all_subdomains.txt](/data/gdi.nl/all_subdomains.txt)|9|All found subdomains (history)|
 
 
 ## Statistics

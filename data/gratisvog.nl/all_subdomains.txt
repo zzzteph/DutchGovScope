@@ -12,3 +12,6 @@ www.gratisvog.nl
 zoeken.gratisvog.nl
 gratisvog.nl
 rapportage-onderzoek-digitoegankelijkheid-aanmelden.gratisvog.nl
+a-feeds.gratisvog.nl
+a-opendata.gratisvog.nl
+a-www.gratisvog.nl

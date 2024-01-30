@@ -12,7 +12,7 @@
 |------------|-------|------|
 |[subdomains.txt](/data/cultuursubsidie.nl/subdomains.txt)|7|Alive subdomains|
 |[urls.txt](/data/cultuursubsidie.nl/urls.txt)|4|Urls|
-|[all_subdomains.txt](/data/cultuursubsidie.nl/all_subdomains.txt)|27|All found subdomains (history)|
+|[all_subdomains.txt](/data/cultuursubsidie.nl/all_subdomains.txt)|28|All found subdomains (history)|
 
 
 ## Statistics

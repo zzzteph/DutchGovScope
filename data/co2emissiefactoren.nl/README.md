@@ -11,7 +11,7 @@
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/co2emissiefactoren.nl/subdomains.txt)|7|Alive subdomains|
-|[urls.txt](/data/co2emissiefactoren.nl/urls.txt)|6|Urls|
+|[urls.txt](/data/co2emissiefactoren.nl/urls.txt)|7|Urls|
 |[all_subdomains.txt](/data/co2emissiefactoren.nl/all_subdomains.txt)|7|All found subdomains (history)|
 
 
@@ -26,4 +26,5 @@
 |[https://co2emissiefactoren.nl](https://co2emissiefactoren.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|301 Moved Perman...|
 |[https://atwww.co2emissiefactoren.nl](https://atwww.co2emissiefactoren.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|403 Forbidden|
 |[https://vanwww.co2emissiefactoren.nl](https://vanwww.co2emissiefactoren.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|403 Forbidden|
+|[https://webmail.co2emissiefactoren.nl](https://webmail.co2emissiefactoren.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server Bootstrap|Webmail :: Welco...|
 

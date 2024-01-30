@@ -11,7 +11,7 @@
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/veiligheidsregioflevoland.nl/subdomains.txt)|13|Alive subdomains|
-|[urls.txt](/data/veiligheidsregioflevoland.nl/urls.txt)|8|Urls|
+|[urls.txt](/data/veiligheidsregioflevoland.nl/urls.txt)|13|Urls|
 |[all_subdomains.txt](/data/veiligheidsregioflevoland.nl/all_subdomains.txt)|13|All found subdomains (history)|
 
 
@@ -28,4 +28,9 @@
 |[https://veiligheidsregioflevoland.nl](https://veiligheidsregioflevoland.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:-|Object moved|
 |[https://www.veiligheidsregioflevoland.nl](https://www.veiligheidsregioflevoland.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:-|Home - Website V...|
 |[http://lelystadinternetwww.veiligheidsregioflevoland.nl](http://lelystadinternetwww.veiligheidsregioflevoland.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
+|[http://autodiscover.veiligheidsregioflevoland.nl](http://autodiscover.veiligheidsregioflevoland.nl)| | **B**|Microsoft-IIS/10.0|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server||
+|[https://enterpriseenrollment.veiligheidsregioflevoland.nl](https://enterpriseenrollment.veiligheidsregioflevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||
+|[https://msoid.veiligheidsregioflevoland.nl](https://msoid.veiligheidsregioflevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Object moved|
+|[https://enterpriseregistration.veiligheidsregioflevoland.nl](https://enterpriseregistration.veiligheidsregioflevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
+|[http://hostmaster.veiligheidsregioflevoland.nl](http://hostmaster.veiligheidsregioflevoland.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
 

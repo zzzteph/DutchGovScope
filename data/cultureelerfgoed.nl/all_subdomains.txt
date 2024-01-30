@@ -125,3 +125,9 @@ acc.services.cultureelerfgoed.nl
 acc.stor.services.cultureelerfgoed.nl
 acc.translate.services.cultureelerfgoed.nl
 toegankelijkheidsonderzoek-monumentenregister.cultureelerfgoed.nl
+a-english.cultureelerfgoed.nl
+a-magazines.cultureelerfgoed.nl
+a-opendata.a-english.cultureelerfgoed.nl
+a-opendata.cultureelerfgoed.nl
+ipv6.cultureelerfgoed.nl
+wfs.cultureelerfgoed.nl

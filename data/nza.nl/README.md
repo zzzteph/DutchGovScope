@@ -26,7 +26,7 @@
 |[https://nza-form5.nza.nl](https://nza-form5.nza.nl)| | **B**|nginx| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS Nginx|Mendix|
 |[https://mijn-accp.nza.nl](https://mijn-accp.nza.nl)| | **B**|nginx| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS Nginx|Mijn NZa|
 |[https://werkenbijde.nza.nl](https://werkenbijde.nza.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server Elementor:3.18.3 MySQL PHP WordPress|Home - Werken bi...|
-|[https://nza.nl](https://nza.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
+|[https://nza.nl](https://nza.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
 |[https://zorgproducten.nza.nl](https://zorgproducten.nza.nl)| | **A**|nginx|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Azure HSTS Microsoft ASP.NET Nginx|NZa zorgproducta...|
 |[https://leren.nza.nl](https://leren.nza.nl)| | **A**|Apache| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS|301 Moved Perman...|
 |[https://jmv.nza.nl](https://jmv.nza.nl)| | **B**|nginx| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS Nginx|JMV|

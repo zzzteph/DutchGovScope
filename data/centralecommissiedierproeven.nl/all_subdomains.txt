@@ -21,3 +21,6 @@ opendata.centralecommissiedierproeven.nl
 opendata.english.centralecommissiedierproeven.nl
 www.centralecommissiedierproeven.nl
 centralecommissiedierproeven.nl
+i-www.centralecommissiedierproeven.nl
+o-www.centralecommissiedierproeven.nl
+t-www.centralecommissiedierproeven.nl

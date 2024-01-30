@@ -2,3 +2,6 @@ feeds.academievoorinternationalebetrekkingen.nl
 opendata.academievoorinternationalebetrekkingen.nl
 www.academievoorinternationalebetrekkingen.nl
 academievoorinternationalebetrekkingen.nl
+a-feeds.academievoorinternationalebetrekkingen.nl
+a-opendata.academievoorinternationalebetrekkingen.nl
+a-www.academievoorinternationalebetrekkingen.nl

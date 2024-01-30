@@ -110,3 +110,7 @@ www.fs.ctgb.nl
 office-acc.ctgb.nl
 ctgb-spapp-w01a.int.ctgb.nl
 www.mail.ctgb.nl
+i-www.ctgb.nl
+o-www.ctgb.nl
+portaal.ctgb.nl
+t-www.ctgb.nl

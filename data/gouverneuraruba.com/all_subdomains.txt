@@ -2,3 +2,6 @@ www.gouverneuraruba.com
 feeds.gouverneuraruba.com
 gouverneuraruba.com
 opendata.gouverneuraruba.com
+a-feeds.gouverneuraruba.com
+a-www.gouverneuraruba.com
+a-opendata.gouverneuraruba.com

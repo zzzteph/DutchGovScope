@@ -9,3 +9,6 @@ feeds.english.datavoorgezondheid.nl
 english.datavoorgezondheid.nl
 magazinesintern.datavoorgezondheid.nl
 datavoorgezondheid.nl
+a-feeds.datavoorgezondheid.nl
+a-opendata.datavoorgezondheid.nl
+a-www.datavoorgezondheid.nl

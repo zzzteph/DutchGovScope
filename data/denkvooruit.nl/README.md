@@ -12,7 +12,7 @@
 |------------|-------|------|
 |[subdomains.txt](/data/denkvooruit.nl/subdomains.txt)|7|Alive subdomains|
 |[urls.txt](/data/denkvooruit.nl/urls.txt)|7|Urls|
-|[all_subdomains.txt](/data/denkvooruit.nl/all_subdomains.txt)|8|All found subdomains (history)|
+|[all_subdomains.txt](/data/denkvooruit.nl/all_subdomains.txt)|14|All found subdomains (history)|
 
 
 ## Statistics

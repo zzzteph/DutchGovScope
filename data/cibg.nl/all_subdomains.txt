@@ -134,3 +134,4 @@ sip.cibg.nl
 agb.vektis.client.cibg.nl
 portaal.digilevering.cibg.nl
 acceptatie.portaal.digilevering.cibg.nl
+acc.cibg.nl

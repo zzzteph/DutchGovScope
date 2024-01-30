@@ -12,7 +12,7 @@
 |------------|-------|------|
 |[subdomains.txt](/data/dienstterugkeerenvertrek.nl/subdomains.txt)|9|Alive subdomains|
 |[urls.txt](/data/dienstterugkeerenvertrek.nl/urls.txt)|8|Urls|
-|[all_subdomains.txt](/data/dienstterugkeerenvertrek.nl/all_subdomains.txt)|10|All found subdomains (history)|
+|[all_subdomains.txt](/data/dienstterugkeerenvertrek.nl/all_subdomains.txt)|16|All found subdomains (history)|
 
 
 ## Statistics

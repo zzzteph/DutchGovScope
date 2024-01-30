@@ -25,6 +25,6 @@
 |[https://buurtatlas.vzinfo.nl](https://buurtatlas.vzinfo.nl)| | **C**||:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | |Bootstrap:4.6.0 HSTS React|Home | Buurtatla...|
 |[https://sterftedashboard.vzinfo.nl](https://sterftedashboard.vzinfo.nl)| | **C**||:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | |Bootstrap:4.6.0 HSTS||
 |[http://nzrdashboard.vzinfo.nl](http://nzrdashboard.vzinfo.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
-|[http://sterftedashboard-regionaal.vzinfo.nl](http://sterftedashboard-regionaal.vzinfo.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
+|[https://sterftedashboard-regionaal.vzinfo.nl](https://sterftedashboard-regionaal.vzinfo.nl)| | **C**||:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | |Bootstrap:4.6.0 HSTS React||
 |[https://mondgezondheidsdashboard.vzinfo.nl](https://mondgezondheidsdashboard.vzinfo.nl)| | **C**||:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | |Bootstrap:5.2.2 HSTS||
 

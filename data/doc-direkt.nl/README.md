@@ -12,7 +12,7 @@
 |------------|-------|------|
 |[subdomains.txt](/data/doc-direkt.nl/subdomains.txt)|10|Alive subdomains|
 |[urls.txt](/data/doc-direkt.nl/urls.txt)|9|Urls|
-|[all_subdomains.txt](/data/doc-direkt.nl/all_subdomains.txt)|18|All found subdomains (history)|
+|[all_subdomains.txt](/data/doc-direkt.nl/all_subdomains.txt)|20|All found subdomains (history)|
 
 
 ## Statistics

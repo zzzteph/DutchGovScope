@@ -10,3 +10,8 @@ opendata.campagnetoolkits.nl
 opendata.english.campagnetoolkits.nl
 www.campagnetoolkits.nl
 campagnetoolkits.nl
+a-feeds.campagnetoolkits.nl
+a-opendata.campagnetoolkits.nl
+i-www.campagnetoolkits.nl
+o-www.campagnetoolkits.nl
+t-www.campagnetoolkits.nl

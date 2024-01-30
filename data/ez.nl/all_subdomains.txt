@@ -131,3 +131,10 @@ www.elektriciteit.ez.nl
 www.ji.ez.nl
 videos.ez.nl
 crashteamoneerlijkeconcurrentie.ez.nl
+video.ez.nl
+namen.ez.nl
+ondernemen.ez.nl
+pers.ez.nl
+prinsjesdag.ez.nl
+toerisme.ez.nl
+veiligheid.ez.nl

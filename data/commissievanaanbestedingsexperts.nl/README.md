@@ -12,7 +12,7 @@
 |------------|-------|------|
 |[subdomains.txt](/data/commissievanaanbestedingsexperts.nl/subdomains.txt)|6|Alive subdomains|
 |[urls.txt](/data/commissievanaanbestedingsexperts.nl/urls.txt)|4|Urls|
-|[all_subdomains.txt](/data/commissievanaanbestedingsexperts.nl/all_subdomains.txt)|8|All found subdomains (history)|
+|[all_subdomains.txt](/data/commissievanaanbestedingsexperts.nl/all_subdomains.txt)|13|All found subdomains (history)|
 
 
 ## Statistics

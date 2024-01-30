@@ -12,7 +12,7 @@
 |------------|-------|------|
 |[subdomains.txt](/data/beheerautoriteitwaddenzee.nl/subdomains.txt)|5|Alive subdomains|
 |[urls.txt](/data/beheerautoriteitwaddenzee.nl/urls.txt)|5|Urls|
-|[all_subdomains.txt](/data/beheerautoriteitwaddenzee.nl/all_subdomains.txt)|5|All found subdomains (history)|
+|[all_subdomains.txt](/data/beheerautoriteitwaddenzee.nl/all_subdomains.txt)|10|All found subdomains (history)|
 
 
 ## Statistics

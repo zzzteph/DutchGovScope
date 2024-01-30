@@ -24,6 +24,7 @@ fed01-acc.toeslagen.nl
 b2b-osb.toeslagen.nl
 fed.toeslagen.nl
 fed01.acc.toeslagen.nl
+www8.toeslagen.nl
 b2btest.toeslagen.nl
 b2btest-osb.toeslagen.nl
 mijn-acc2.toeslagen.nl

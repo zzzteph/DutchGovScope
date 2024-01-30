@@ -12,7 +12,7 @@
 |------------|-------|------|
 |[subdomains.txt](/data/cvte.nl/subdomains.txt)|8|Alive subdomains|
 |[urls.txt](/data/cvte.nl/urls.txt)|7|Urls|
-|[all_subdomains.txt](/data/cvte.nl/all_subdomains.txt)|16|All found subdomains (history)|
+|[all_subdomains.txt](/data/cvte.nl/all_subdomains.txt)|19|All found subdomains (history)|
 
 
 ## Statistics

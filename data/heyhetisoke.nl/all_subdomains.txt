@@ -9,3 +9,6 @@ opendata.heyhetisoke.nl
 opendata.english.heyhetisoke.nl
 www.heyhetisoke.nl
 heyhetisoke.nl
+a-feeds.heyhetisoke.nl
+a-www.heyhetisoke.nl
+a-opendata.heyhetisoke.nl

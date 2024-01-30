@@ -11,3 +11,6 @@ opendata.english.aanbiedersmedicijnen.nl
 www.aanbiedersmedicijnen.nl
 www.acc.aanbiedersmedicijnen.nl
 aanbiedersmedicijnen.nl
+a-feeds.aanbiedersmedicijnen.nl
+a-opendata.aanbiedersmedicijnen.nl
+a-www.aanbiedersmedicijnen.nl

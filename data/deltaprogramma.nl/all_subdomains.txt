@@ -11,3 +11,8 @@ opendata.english.deltaprogramma.nl
 www.deltaprogramma.nl
 www.dp2023.deltaprogramma.nl
 deltaprogramma.nl
+a-english.deltaprogramma.nl
+a-feeds.a-english.deltaprogramma.nl
+a-magazines.deltaprogramma.nl
+a-opendata.a-english.deltaprogramma.nl
+a-www.deltaprogramma.nl

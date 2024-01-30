@@ -64,3 +64,9 @@ https://qliksense.noord-holland.nl
 https://fleet-manager.datalab-prod.aws.noord-holland.nl
 https://pleinoud.noord-holland.nl
 https://lms.noord-holland.nl
+https://openstad.noord-holland.nl
+https://admin.openstad.noord-holland.nl
+https://api.openstad.noord-holland.nl
+https://auth.openstad.noord-holland.nl
+https://img.openstad.noord-holland.nl
+https://www.openstad.noord-holland.nl

@@ -10,3 +10,7 @@ opendata.collegevanrijksadviseurs.nl
 opendata.english.collegevanrijksadviseurs.nl
 www.collegevanrijksadviseurs.nl
 collegevanrijksadviseurs.nl
+a-english.collegevanrijksadviseurs.nl
+a-feeds.a-english.collegevanrijksadviseurs.nl
+a-opendata.collegevanrijksadviseurs.nl
+a-opendata.a-english.collegevanrijksadviseurs.nl

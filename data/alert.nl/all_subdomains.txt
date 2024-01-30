@@ -22,3 +22,5 @@ www.02.alert.nl
 www.desert.alert.nl
 nl.alert.nl
 www.sms.alert.nl
+ftp.alert.nl
+localhost.alert.nl

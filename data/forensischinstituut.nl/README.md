@@ -12,7 +12,7 @@
 |------------|-------|------|
 |[subdomains.txt](/data/forensischinstituut.nl/subdomains.txt)|18|Alive subdomains|
 |[urls.txt](/data/forensischinstituut.nl/urls.txt)|11|Urls|
-|[all_subdomains.txt](/data/forensischinstituut.nl/all_subdomains.txt)|35|All found subdomains (history)|
+|[all_subdomains.txt](/data/forensischinstituut.nl/all_subdomains.txt)|37|All found subdomains (history)|
 
 
 ## Statistics

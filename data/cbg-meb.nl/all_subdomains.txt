@@ -56,3 +56,7 @@ www.cbg-meb.nl
 www.ici-portal.cbg-meb.nl
 cbg-meb.nl
 good.cbg-meb.nl
+enterpriseregistration.cbg-meb.nl
+lyncdiscover.cbg-meb.nl
+msoid.cbg-meb.nl
+sftp.cbg-meb.nl

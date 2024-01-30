@@ -10,9 +10,9 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/rijksapplicaties.nl/subdomains.txt)|245|Alive subdomains|
-|[urls.txt](/data/rijksapplicaties.nl/urls.txt)|209|Urls|
-|[all_subdomains.txt](/data/rijksapplicaties.nl/all_subdomains.txt)|308|All found subdomains (history)|
+|[subdomains.txt](/data/rijksapplicaties.nl/subdomains.txt)|246|Alive subdomains|
+|[urls.txt](/data/rijksapplicaties.nl/urls.txt)|210|Urls|
+|[all_subdomains.txt](/data/rijksapplicaties.nl/all_subdomains.txt)|311|All found subdomains (history)|
 
 
 ## Statistics
@@ -229,4 +229,5 @@
 |[http://qr-app-webservice.rijksapplicaties.nl](http://qr-app-webservice.rijksapplicaties.nl)| | **E**|| | | | | | | | :white_check_mark: | ||302 Found|
 |[https://acc.rijksapplicaties.nl](https://acc.rijksapplicaties.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET Nginx|Rijksapplicaties...|
 |[https://fvp.acc.rijksapplicaties.nl](https://fvp.acc.rijksapplicaties.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx||
+|[https://rvb-mva.rijksapplicaties.nl](https://rvb-mva.rijksapplicaties.nl)| | **C**|nginx|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS Nginx||
 

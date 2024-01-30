@@ -27,3 +27,6 @@ api.acp2.business.gov.nl
 api.tst2.business.gov.nl
 tst2.business.gov.nl
 x2fstatic.business.gov.nl
+autodiscover.business.gov.nl
+enterpriseenrollment.business.gov.nl
+enterpriseregistration.business.gov.nl

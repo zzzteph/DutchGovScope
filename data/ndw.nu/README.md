@@ -55,7 +55,7 @@
 |[https://nt.ndw.nu](https://nt.ndw.nu)| | **E**|| | | | | | | | :white_check_mark: | |AngularJS||
 |[https://ntm.ndw.nu](https://ntm.ndw.nu)| | **C**|nginx| | | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Nginx|Nationaal Toegan...|
 |[https://open-data.ndw.nu](https://open-data.ndw.nu)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
-|[https://opendata.ndw.nu](https://opendata.ndw.nu)| | **F**|Apache/2.4.58 (Unix) OpenSSL/3.1.3| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.58 Bootstrap OpenSSL:3.1.3 UNIX|NDW open data|
+|[https://opendata.ndw.nu](https://opendata.ndw.nu)| | **F**|Apache/2.4.58 (Unix) OpenSSL/3.1.4| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.58 Bootstrap OpenSSL:3.1.4 UNIX|NDW open data|
 |[https://opendata.english.ndw.nu](https://opendata.english.ndw.nu)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://put-kpi-dashboard.ndw.nu](https://put-kpi-dashboard.ndw.nu)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|Indicatoren prog...|
 |[https://registry.ndw.nu](https://registry.ndw.nu)| | **A**|nginx| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|Harbor|

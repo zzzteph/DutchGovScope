@@ -12,7 +12,7 @@
 |------------|-------|------|
 |[subdomains.txt](/data/covm.nl/subdomains.txt)|5|Alive subdomains|
 |[urls.txt](/data/covm.nl/urls.txt)|4|Urls|
-|[all_subdomains.txt](/data/covm.nl/all_subdomains.txt)|13|All found subdomains (history)|
+|[all_subdomains.txt](/data/covm.nl/all_subdomains.txt)|16|All found subdomains (history)|
 
 
 ## Statistics

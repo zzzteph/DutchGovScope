@@ -6,3 +6,7 @@ www.da.hetcvte.nl
 www.hetcvte.nl
 hetcvte.nl
 jaarverslag.hetcvte.nl
+mail.hetcvte.nl
+pushmail.hetcvte.nl
+ts.hetcvte.nl
+webmail.hetcvte.nl

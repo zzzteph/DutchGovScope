@@ -11,8 +11,8 @@
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/rvo.nl/subdomains.txt)|153|Alive subdomains|
-|[urls.txt](/data/rvo.nl/urls.txt)|96|Urls|
-|[all_subdomains.txt](/data/rvo.nl/all_subdomains.txt)|272|All found subdomains (history)|
+|[urls.txt](/data/rvo.nl/urls.txt)|97|Urls|
+|[all_subdomains.txt](/data/rvo.nl/all_subdomains.txt)|273|All found subdomains (history)|
 
 
 ## Statistics
@@ -51,7 +51,7 @@
 |[https://geocontent.rvo.nl](https://geocontent.rvo.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://geoservices.rvo.nl](https://geoservices.rvo.nl)| | **E**||:o: | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |||
 |[https://gtpa.rvo.nl](https://gtpa.rvo.nl)| | **B**||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS Oracle Dynamic Monitoring Service Oracle WebLogic Server|Error 404--Not F...|
-|[http://ih-static.rvo.nl](http://ih-static.rvo.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Nginx|301 Moved Perman...|
+|[https://ih-static.rvo.nl](https://ih-static.rvo.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Drupal:10 HSTS Nginx PHP|Inloggen | RVO I...|
 |[https://infographics.rvo.nl](https://infographics.rvo.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Nginx|307 Temporary Re...|
 |[https://informatiehuis.rvo.nl](https://informatiehuis.rvo.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Drupal:10 HSTS Nginx PHP|Inloggen | RVO I...|
 |[https://intra.rvo.nl](https://intra.rvo.nl)| | **C**||:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
@@ -61,7 +61,7 @@
 |[https://intranetvan.rvo.nl](https://intranetvan.rvo.nl)| | **C**||:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|302 Found|
 |[https://jiraimg.rvo.nl](https://jiraimg.rvo.nl)| | **C**||:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Java||
 |[https://jiraimg-acc.rvo.nl](https://jiraimg-acc.rvo.nl)| | **C**||:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
-|[https://kennisdelen.rvo.nl](https://kennisdelen.rvo.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
+|[https://kennisdelen.rvo.nl](https://kennisdelen.rvo.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache Tomcat Fourthwall:1.0.0 HSTS Java MariaDB Skolengo:1.0.0|Kennisdelen RVO|
 |[https://kgr.mijn.rvo.nl](https://kgr.mijn.rvo.nl)| | **B**||:warning: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|MijnRVO.nl|
 |[https://kostenkentallen.rvo.nl](https://kostenkentallen.rvo.nl)| | **F**|cloudflare| | | | | | | | :white_check_mark: | |Cloudflare HSTS|Kostenkentallen...|
 |[https://mc-upnl.mijn.rvo.nl](https://mc-upnl.mijn.rvo.nl)| | **A**||:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|302 Found|
@@ -104,7 +104,7 @@
 |[https://kennisbank-acc.rvo.nl](https://kennisbank-acc.rvo.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS|403 Forbidden|
 |[https://gtpa-acc.rvo.nl](https://gtpa-acc.rvo.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS Oracle Dynamic Monitoring Service Oracle WebLogic Server|Error 404--Not F...|
 |[https://handelsmissies.rvo.nl](https://handelsmissies.rvo.nl)| | **F**|Apache/2.4.41 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.41 Ubuntu|Apache2 Ubuntu D...|
-|[https://egeo.rvo.nl](https://egeo.rvo.nl)| | **B**||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS Oracle Dynamic Monitoring Service Oracle WebLogic Server|Error 404--Not F...|
+|[https://egeo.rvo.nl](https://egeo.rvo.nl)| | **B**||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS|Onderhoud Pagina|
 |[https://rvo.nl](https://rvo.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | ||308 Permanent Re...|
 |[https://aoep-iam.rvo.nl](https://aoep-iam.rvo.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Verzoek afgeweze...|
 |[https://networkabroad.rvo.nl](https://networkabroad.rvo.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS|404 Not Found|
@@ -116,4 +116,5 @@
 |[https://test-wetten.rvo.nl](https://test-wetten.rvo.nl)| | **F**|nginx/1.24.0| | | | | | | | :white_check_mark: | |Basic Nginx:1.24.0|401 Authorizatio...|
 |[https://english-data.rvo.nl](https://english-data.rvo.nl)| | **E**|| | | | | | | | :white_check_mark: | |Drupal HSTS PHP Varnish||
 |[http://bpa.rvo.nl](http://bpa.rvo.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
+|[https://english-prod.rvo.nl](https://english-prod.rvo.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS|403 Forbidden|
 

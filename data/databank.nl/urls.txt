@@ -134,7 +134,6 @@ https://neptunus.databank.nl
 https://gemeente.databank.nl
 https://ftgelderiand.databank.nl
 https://www.amsterdam.rosopen.databank.nl
-https://test-mbotransparant.databank.nl
 https://dd.databank.nl
 https://00klimaatmonitor.databank.nl
 https://beta-adc.databank.nl
@@ -288,4 +287,4 @@ https://beta-dcmr.databank.nl
 https://frieslandsnb.databank.nl
 https://gip.databank.nl
 https://www.staatvanutrecht.nlwww.staatvanutrecht.databank.nl
-http://duurzamemobiliteit.databank.nl
+https://duurzamemobiliteit.databank.nl

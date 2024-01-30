@@ -9,3 +9,6 @@ feeds.english.erfgoeddeal.nl
 magazines.english.erfgoeddeal.nl
 magazinesintern.english.erfgoeddeal.nl
 magazinesintern.erfgoeddeal.nl
+a-feeds.erfgoeddeal.nl
+a-opendata.erfgoeddeal.nl
+a-www.erfgoeddeal.nl

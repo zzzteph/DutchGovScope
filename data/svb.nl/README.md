@@ -29,7 +29,7 @@
 |[https://rdsapplications07.svb.nl](https://rdsapplications07.svb.nl)| | **F**|Microsoft-IIS/10.0| | | | | | | | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server|IIS Windows Serv...|
 |[https://rdsapplications08.svb.nl](https://rdsapplications08.svb.nl)| | **F**|Microsoft-IIS/10.0| | | | | | | | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server|IIS Windows Serv...|
 |[https://leveranciersvdi.svb.nl](https://leveranciersvdi.svb.nl)| | **F**|Microsoft-IIS/10.0| | | | | | | | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server|IIS Windows Serv...|
-|[https://www.svb.nl](https://www.svb.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
+|[https://www.svb.nl](https://www.svb.nl)| | **A**||:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://mijnsvb.svb.nl](https://mijnsvb.svb.nl)| | **A**||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|302 Found|
 |[https://live.svb.nl](https://live.svb.nl)| | **C**|cloudflare| |:white_check_mark: | | | | | | :white_check_mark: | |Cloudflare HSTS|Page Not Found|
 |[https://remotedesktop.svb.nl](https://remotedesktop.svb.nl)| | **F**|Microsoft-IIS/10.0| | | | | | | | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server|IIS Windows Serv...|
@@ -73,7 +73,7 @@
 |[https://rdsapplications09.svb.nl](https://rdsapplications09.svb.nl)| | **F**|Microsoft-IIS/10.0| | | | | | | | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server|IIS Windows Serv...|
 |[https://assyst.svb.nl](https://assyst.svb.nl)| | **F**|BigIP| | | | | | | | :white_check_mark: | |F5 BigIP|Assyst|
 |[https://mydev.svb.nl](https://mydev.svb.nl)| | **F**|Microsoft-IIS/10.0| | | | | | | | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server|IIS Windows Serv...|
-|[https://svb.nl](https://svb.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
+|[https://svb.nl](https://svb.nl)| | **A**||:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://mydesktop.svb.nl](https://mydesktop.svb.nl)| | **F**|Microsoft-IIS/10.0| | | | | | | | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server|IIS Windows Serv...|
 |[https://mta-a.svb.nl](https://mta-a.svb.nl)| | **B**|Microsoft-Azure-Application-Gateway/v2|:warning: |:white_check_mark: | :warning:| | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|502 Bad Gateway|
 |[https://mta-p.svb.nl](https://mta-p.svb.nl)| | **B**|Microsoft-Azure-Application-Gateway/v2|:warning: |:white_check_mark: | :warning:| | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|502 Bad Gateway|

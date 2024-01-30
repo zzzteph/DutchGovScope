@@ -12,7 +12,7 @@
 |------------|-------|------|
 |[subdomains.txt](/data/algemenebestuursdienst.nl/subdomains.txt)|6|Alive subdomains|
 |[urls.txt](/data/algemenebestuursdienst.nl/urls.txt)|5|Urls|
-|[all_subdomains.txt](/data/algemenebestuursdienst.nl/all_subdomains.txt)|13|All found subdomains (history)|
+|[all_subdomains.txt](/data/algemenebestuursdienst.nl/all_subdomains.txt)|17|All found subdomains (history)|
 
 
 ## Statistics

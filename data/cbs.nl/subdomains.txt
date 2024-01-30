@@ -209,3 +209,4 @@ mijn.cbs.nl
 mijn-api.cbs.nl
 uitwisseling.cbs.nl
 beh-iam.acceptatie.cbs.nl
+login-databestanden.test.cbs.nl

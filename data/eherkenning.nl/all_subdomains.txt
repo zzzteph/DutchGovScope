@@ -75,3 +75,4 @@ aanvragen.eherkenning.nl
 testnetwork.eherkenning.nl
 kpn-eid-xdev.sso.eherkenning.nl
 kpn-eid-xtst.sso.eherkenning.nl
+acceptatie.eherkenning.nl

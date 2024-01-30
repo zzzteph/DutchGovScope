@@ -9,3 +9,8 @@ english.expertisecentrummggz.nl
 magazines.expertisecentrummggz.nl
 magazinesintern.expertisecentrummggz.nl
 expertisecentrummggz.nl
+a-feeds.expertisecentrummggz.nl
+a-www.expertisecentrummggz.nl
+i-www.expertisecentrummggz.nl
+o-www.expertisecentrummggz.nl
+t-www.expertisecentrummggz.nl

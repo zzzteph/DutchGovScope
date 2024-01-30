@@ -38,3 +38,8 @@ acceptatie.signing.donorregister.nl
 signing.donorregister.nl
 donorregister.nl
 scan.donorregister.nl
+a-english.donorregister.nl
+a-feeds.donorregister.nl
+a-feeds.a-english.donorregister.nl
+a-opendata.a-english.donorregister.nl
+a-opendata.donorregister.nl

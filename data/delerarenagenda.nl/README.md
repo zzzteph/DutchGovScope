@@ -12,7 +12,7 @@
 |------------|-------|------|
 |[subdomains.txt](/data/delerarenagenda.nl/subdomains.txt)|5|Alive subdomains|
 |[urls.txt](/data/delerarenagenda.nl/urls.txt)|4|Urls|
-|[all_subdomains.txt](/data/delerarenagenda.nl/all_subdomains.txt)|13|All found subdomains (history)|
+|[all_subdomains.txt](/data/delerarenagenda.nl/all_subdomains.txt)|15|All found subdomains (history)|
 
 
 ## Statistics

@@ -12,7 +12,7 @@
 |------------|-------|------|
 |[subdomains.txt](/data/healthcouncil.nl/subdomains.txt)|7|Alive subdomains|
 |[urls.txt](/data/healthcouncil.nl/urls.txt)|4|Urls|
-|[all_subdomains.txt](/data/healthcouncil.nl/all_subdomains.txt)|11|All found subdomains (history)|
+|[all_subdomains.txt](/data/healthcouncil.nl/all_subdomains.txt)|12|All found subdomains (history)|
 
 
 ## Statistics

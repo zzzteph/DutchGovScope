@@ -270,3 +270,4 @@ vault-infra.efiling.mijnoctrooi.rvo.nl
 vault-infra-preprod.efiling.mijnoctrooi.rvo.nl
 vault-preprod.efiling.mijnoctrooi.rvo.nl
 english-prod.rvo.nl
+ienrregister.rvo.nl

@@ -12,3 +12,6 @@ ftp.huiselijkgeweld.nl
 www.steun.huiselijkgeweld.nl
 magazines.huiselijkgeweld.nl
 huiselijkgeweld.nl
+a-feeds.huiselijkgeweld.nl
+a-opendata.huiselijkgeweld.nl
+a-www.huiselijkgeweld.nl

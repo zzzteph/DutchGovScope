@@ -11,3 +11,7 @@ opendata.english.euthanasiecommissie.nl
 www.euthanasiecommissie.nl
 www.acc.euthanasiecommissie.nl
 euthanasiecommissie.nl
+a-feeds.euthanasiecommissie.nl
+a-opendata.a-english.euthanasiecommissie.nl
+a-opendata.euthanasiecommissie.nl
+a-english.euthanasiecommissie.nl

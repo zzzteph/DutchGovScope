@@ -133,3 +133,5 @@ tnd.deu.minbuza.nl
 tnd.daz.minbuza.nl
 tnd.minbuza.nl
 tnd.dna.minbuza.nl
+esp.nvis.bio.minbuza.nl
+esp.nvis.acc.bio.minbuza.nl

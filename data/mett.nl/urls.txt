@@ -266,7 +266,7 @@ https://bloemendalerpolder.mett.nl
 https://binnl.mett.nl
 https://ghnieuw.mett.nl
 https://akademievankunsten.mett.nl
-https://demointranet.mett.nl
+http://demointranet.mett.nl
 https://vitalevakantieparken.mett.nl
 https://limonadebrigade.mett.nl
 https://monozakelijk.mett.nl

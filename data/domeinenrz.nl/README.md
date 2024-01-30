@@ -12,7 +12,7 @@
 |------------|-------|------|
 |[subdomains.txt](/data/domeinenrz.nl/subdomains.txt)|26|Alive subdomains|
 |[urls.txt](/data/domeinenrz.nl/urls.txt)|16|Urls|
-|[all_subdomains.txt](/data/domeinenrz.nl/all_subdomains.txt)|35|All found subdomains (history)|
+|[all_subdomains.txt](/data/domeinenrz.nl/all_subdomains.txt)|45|All found subdomains (history)|
 
 
 ## Statistics
@@ -23,7 +23,7 @@
 |[https://afspraak.domeinenrz.nl](https://afspraak.domeinenrz.nl)| **A**| **F**|Apache|:o: | | | | | | | :white_check_mark: | |Apache HTTP Server|403 Forbidden|
 |[https://crl.domeinenrz.nl](https://crl.domeinenrz.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|403 Forbidden|
 |[https://english.domeinenrz.nl](https://english.domeinenrz.nl)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Home | Movable P...|
-|[https://enterpriseregistration.domeinenrz.nl](https://enterpriseregistration.domeinenrz.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS|Service|
+|[https://enterpriseregistration.domeinenrz.nl](https://enterpriseregistration.domeinenrz.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||
 |[https://feeds.domeinenrz.nl](https://feeds.domeinenrz.nl)| **A+**| **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://feeds.english.domeinenrz.nl](https://feeds.english.domeinenrz.nl)| **A+**| **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://mail.domeinenrz.nl](https://mail.domeinenrz.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|

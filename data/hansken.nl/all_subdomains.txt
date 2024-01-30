@@ -2,3 +2,6 @@ feeds.hansken.nl
 opendata.hansken.nl
 www.hansken.nl
 hansken.nl
+a-feeds.hansken.nl
+a-opendata.hansken.nl
+a-www.hansken.nl

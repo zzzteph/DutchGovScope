@@ -23,5 +23,5 @@
 |[https://feeds.startmetoesorichtlijnen.nl](https://feeds.startmetoesorichtlijnen.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://opendata.startmetoesorichtlijnen.nl](https://opendata.startmetoesorichtlijnen.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://www.startmetoesorichtlijnen.nl](https://www.startmetoesorichtlijnen.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Start met OESO-r...|
-|[https://startmetoesorichtlijnen.nl](https://startmetoesorichtlijnen.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
+|[https://startmetoesorichtlijnen.nl](https://startmetoesorichtlijnen.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
 

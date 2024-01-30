@@ -7,3 +7,9 @@ opendata.commissiemijnbouwschade.nl
 sip.commissiemijnbouwschade.nl
 www.commissiemijnbouwschade.nl
 commissiemijnbouwschade.nl
+a-feeds.commissiemijnbouwschade.nl
+a-opendata.commissiemijnbouwschade.nl
+a-www.commissiemijnbouwschade.nl
+i-www.commissiemijnbouwschade.nl
+o-www.commissiemijnbouwschade.nl
+t-www.commissiemijnbouwschade.nl

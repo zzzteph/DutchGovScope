@@ -12,7 +12,7 @@
 |------------|-------|------|
 |[subdomains.txt](/data/emissieautoriteit.nl/subdomains.txt)|18|Alive subdomains|
 |[urls.txt](/data/emissieautoriteit.nl/urls.txt)|12|Urls|
-|[all_subdomains.txt](/data/emissieautoriteit.nl/all_subdomains.txt)|30|All found subdomains (history)|
+|[all_subdomains.txt](/data/emissieautoriteit.nl/all_subdomains.txt)|37|All found subdomains (history)|
 
 
 ## Statistics
@@ -31,5 +31,5 @@
 |[https://preprodrev.emissieautoriteit.nl](https://preprodrev.emissieautoriteit.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |HSTS Nginx|Mendix|
 |[https://rev.emissieautoriteit.nl](https://rev.emissieautoriteit.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |HSTS Nginx|Mendix|
 |[https://www.emissieautoriteit.nl](https://www.emissieautoriteit.nl)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Home | Nederland...|
-|[https://emissieautoriteit.nl](https://emissieautoriteit.nl)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
+|[https://emissieautoriteit.nl](https://emissieautoriteit.nl)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 

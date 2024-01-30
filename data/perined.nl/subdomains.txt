@@ -15,3 +15,6 @@ cwww.perined.nl
 15assets.perined.nl
 followup.perined.nl
 sets.perined.nl
+localhost.perined.nl
+autodiscover.perined.nl
+webmail.perined.nl

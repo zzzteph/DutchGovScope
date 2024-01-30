@@ -2,3 +2,6 @@ feeds.energierijkdenhaag.nl
 opendata.energierijkdenhaag.nl
 www.energierijkdenhaag.nl
 energierijkdenhaag.nl
+a-feeds.energierijkdenhaag.nl
+a-www.energierijkdenhaag.nl
+a-opendata.energierijkdenhaag.nl

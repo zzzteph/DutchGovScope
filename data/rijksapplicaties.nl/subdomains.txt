@@ -243,3 +243,4 @@ fvp.acc.rijksapplicaties.nl
 ubr.test.scansys.rijksapplicaties.nl
 ubr.acc.scansys.rijksapplicaties.nl
 rvb-mva.rijksapplicaties.nl
+rvb-flowboard.rijksapplicaties.nl
