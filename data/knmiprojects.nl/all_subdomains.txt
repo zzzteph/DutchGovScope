@@ -1,11 +1,11 @@
 feeds.knmiprojects.nl
 opendata.knmiprojects.nl
 www.knmiprojects.nl
-magazines.english.knmiprojects.nl
+knmiprojects.nl
 english.knmiprojects.nl
 feeds.english.knmiprojects.nl
+magazines.english.knmiprojects.nl
 magazinesintern.english.knmiprojects.nl
 magazinesintern.knmiprojects.nl
 magazines.knmiprojects.nl
 opendata.english.knmiprojects.nl
-knmiprojects.nl

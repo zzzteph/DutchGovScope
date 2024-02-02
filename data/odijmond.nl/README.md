@@ -6,13 +6,14 @@
 
  - **SSL Grade**:
  - **HTTP Security Grade**:A
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:0
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/odijmond.nl/subdomains.txt)|6|Alive subdomains|
+|[subdomains.txt](/data/odijmond.nl/subdomains.txt)|5|Alive subdomains|
 |[urls.txt](/data/odijmond.nl/urls.txt)|5|Urls|
-|[all_subdomains.txt](/data/odijmond.nl/all_subdomains.txt)|11|All found subdomains (history)|
+|[all_subdomains.txt](/data/odijmond.nl/all_subdomains.txt)|10|All found subdomains (history)|
 
 
 ## Statistics

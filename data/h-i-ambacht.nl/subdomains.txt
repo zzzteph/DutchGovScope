@@ -1,7 +1,6 @@
 h-i-ambacht.nl
 autodiscover.h-i-ambacht.nl
 loket.h-i-ambacht.nl
-omgevingsvisie.h-i-ambacht.nl
 gisibgeoserver.h-i-ambacht.nl
 zaken.h-i-ambacht.nl
 gisib-test.h-i-ambacht.nl
@@ -19,3 +18,4 @@ gisibgeoserver-test.h-i-ambacht.nl
 rxlaunch-signicat-preprod.h-i-ambacht.nl
 vergunningintaker.h-i-ambacht.nl
 vthbroker.h-i-ambacht.nl
+omgevingsvisie.h-i-ambacht.nl

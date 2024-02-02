@@ -6,13 +6,14 @@
 
  - **SSL Grade**:
  - **HTTP Security Grade**:C
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:0
 
 
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/tenderned.nl/subdomains.txt)|18|Alive subdomains|
 |[urls.txt](/data/tenderned.nl/urls.txt)|8|Urls|
-|[all_subdomains.txt](/data/tenderned.nl/all_subdomains.txt)|39|All found subdomains (history)|
+|[all_subdomains.txt](/data/tenderned.nl/all_subdomains.txt)|25|All found subdomains (history)|
 
 
 ## Statistics

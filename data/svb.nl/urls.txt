@@ -27,7 +27,6 @@ https://pers.svb.nl
 https://assyst-t.svb.nl
 https://sts.svb.nl
 https://pages.svb.nl
-https://rdsapplications06.svb.nl
 https://mijnpgb.svb.nl
 https://leerplein.svb.nl
 https://test-intranet.svb.nl
@@ -42,7 +41,6 @@ http://www.entreepgb.svb.nl
 https://rdsapplications04.svb.nl
 https://rdsapplications02.svb.nl
 https://test-cmsintranet.svb.nl
-https://rdsapplications01.svb.nl
 https://downloaddomain.svb.nl
 https://internetdienstensiam.svb.nl
 https://formulieren.svb.nl

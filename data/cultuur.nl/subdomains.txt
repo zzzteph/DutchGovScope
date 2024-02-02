@@ -1,7 +1,5 @@
 bis2021-2024.cultuur.nl
 bescherming-cultuurgoederen.cultuur.nl
-sharepoint.cultuur.nl
-advies-arbeidsmarkt.cultuur.nl
 bis2017-2020.cultuur.nl
 www.cultuur.nl
 jaarverslagen.cultuur.nl
@@ -10,3 +8,5 @@ cloud.cultuur.nl
 autodiscover.cultuur.nl
 intranet.cultuur.nl
 cultuur.nl
+sharepoint.cultuur.nl
+advies-arbeidsmarkt.cultuur.nl

@@ -6,13 +6,14 @@
 
  - **SSL Grade**:
  - **HTTP Security Grade**:F
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:0
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/platformduurzamehuisvesting.nl/subdomains.txt)|14|Alive subdomains|
+|[subdomains.txt](/data/platformduurzamehuisvesting.nl/subdomains.txt)|13|Alive subdomains|
 |[urls.txt](/data/platformduurzamehuisvesting.nl/urls.txt)|12|Urls|
-|[all_subdomains.txt](/data/platformduurzamehuisvesting.nl/all_subdomains.txt)|14|All found subdomains (history)|
+|[all_subdomains.txt](/data/platformduurzamehuisvesting.nl/all_subdomains.txt)|13|All found subdomains (history)|
 
 
 ## Statistics
@@ -29,7 +30,7 @@
 |[https://kompasenergiewetgeving.platformduurzamehuisvesting.nl](https://kompasenergiewetgeving.platformduurzamehuisvesting.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|Platform Duurzam...|
 |[https://mail.platformduurzamehuisvesting.nl](https://mail.platformduurzamehuisvesting.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|Welcome!|
 |[https://smtp.platformduurzamehuisvesting.nl](https://smtp.platformduurzamehuisvesting.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|Welcome!|
-|[https://www.platformduurzamehuisvesting.nl](https://www.platformduurzamehuisvesting.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server MySQL PHP Site Kit:1.118.0 Slider Revolution:6.6.20 WordPress:6.4.2 wpBakery|Platform Duurzam...|
+|[https://www.platformduurzamehuisvesting.nl](https://www.platformduurzamehuisvesting.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server MySQL PHP Site Kit:1.119.0 Slider Revolution:6.6.20 WordPress:6.4.3 wpBakery|Platform Duurzam...|
 |[https://speeltuin.platformduurzamehuisvesting.nl](https://speeltuin.platformduurzamehuisvesting.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server||
 |[https://platformduurzamehuisvesting.nl](https://platformduurzamehuisvesting.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server||
 

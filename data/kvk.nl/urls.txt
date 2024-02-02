@@ -36,7 +36,6 @@ https://tdep.kvk.nl
 https://api.ondernemersplein.kvk.nl
 https://vpn.kvk.nl
 https://ondernemerspanel.kvk.nl
-https://aanmelder.kvk.nl
 https://status.kvk.nl
 https://zoeken.ondernemersplein.kvk.nl
 http://schemas.kvk.nl

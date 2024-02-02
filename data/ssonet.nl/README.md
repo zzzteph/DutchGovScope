@@ -6,11 +6,12 @@
 
  - **SSL Grade**:
  - **HTTP Security Grade**:C
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:0
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/ssonet.nl/subdomains.txt)|35|Alive subdomains|
+|[subdomains.txt](/data/ssonet.nl/subdomains.txt)|29|Alive subdomains|
 |[urls.txt](/data/ssonet.nl/urls.txt)|4|Urls|
 |[all_subdomains.txt](/data/ssonet.nl/all_subdomains.txt)|84|All found subdomains (history)|
 

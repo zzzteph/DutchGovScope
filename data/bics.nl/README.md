@@ -6,13 +6,14 @@
 
  - **SSL Grade**:
  - **HTTP Security Grade**:E
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:0
 
 
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/bics.nl/subdomains.txt)|25|Alive subdomains|
 |[urls.txt](/data/bics.nl/urls.txt)|14|Urls|
-|[all_subdomains.txt](/data/bics.nl/all_subdomains.txt)|44|All found subdomains (history)|
+|[all_subdomains.txt](/data/bics.nl/all_subdomains.txt)|42|All found subdomains (history)|
 
 
 ## Statistics

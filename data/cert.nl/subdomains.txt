@@ -2,3 +2,6 @@ www.cert.nl
 feeds.cert.nl
 opendata.cert.nl
 cert.nl
+a-feeds.cert.nl
+a-opendata.cert.nl
+a-www.cert.nl

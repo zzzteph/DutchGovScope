@@ -6,11 +6,12 @@
 
  - **SSL Grade**:A+
  - **HTTP Security Grade**:A
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:0
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/denkdoeduurzaam.nl/subdomains.txt)|4|Alive subdomains|
+|[subdomains.txt](/data/denkdoeduurzaam.nl/subdomains.txt)|7|Alive subdomains|
 |[urls.txt](/data/denkdoeduurzaam.nl/urls.txt)|4|Urls|
 |[all_subdomains.txt](/data/denkdoeduurzaam.nl/all_subdomains.txt)|14|All found subdomains (history)|
 

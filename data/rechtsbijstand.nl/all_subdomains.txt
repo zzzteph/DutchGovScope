@@ -1,4 +1,4 @@
-serv.rechtsbijstand.nl
 www.rechtsbijstand.nl
-mail.rechtsbijstand.nl
 rechtsbijstand.nl
+serv.rechtsbijstand.nl
+mail.rechtsbijstand.nl

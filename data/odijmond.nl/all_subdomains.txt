@@ -1,11 +1,10 @@
 autodiscover.odijmond.nl
 open-wave.odijmond.nl
-magazine.odijmond.nl
-digikoppeling.odijmond.nl
 odijmond.nl
-pki.odijmond.nl
-webmail.odijmond.nl
 www.odijmond.nl
 gisviewer.odijmond.nl
+pki.odijmond.nl
 jaarverslag.odijmond.nl
-db.open-wave.odijmond.nl
+magazine.odijmond.nl
+digikoppeling.odijmond.nl
+webmail.odijmond.nl

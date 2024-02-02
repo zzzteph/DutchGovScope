@@ -6,13 +6,14 @@
 
  - **SSL Grade**:C
  - **HTTP Security Grade**:C
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:0
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/acm.nl/subdomains.txt)|48|Alive subdomains|
+|[subdomains.txt](/data/acm.nl/subdomains.txt)|56|Alive subdomains|
 |[urls.txt](/data/acm.nl/urls.txt)|18|Urls|
-|[all_subdomains.txt](/data/acm.nl/all_subdomains.txt)|91|All found subdomains (history)|
+|[all_subdomains.txt](/data/acm.nl/all_subdomains.txt)|84|All found subdomains (history)|
 
 
 ## Statistics

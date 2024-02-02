@@ -10,4 +10,3 @@ bodemrichtlijn.nl
 development.bodemrichtlijn.nl
 quest.bodemrichtlijn.nl
 linkmanager5.bodemrichtlijn.nl
-trinidad.bodemrichtlijn.nl

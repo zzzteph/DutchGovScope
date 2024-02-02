@@ -6,13 +6,14 @@
 
  - **SSL Grade**:
  - **HTTP Security Grade**:A
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:0
 
 
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/digid.nl/subdomains.txt)|241|Alive subdomains|
 |[urls.txt](/data/digid.nl/urls.txt)|32|Urls|
-|[all_subdomains.txt](/data/digid.nl/all_subdomains.txt)|485|All found subdomains (history)|
+|[all_subdomains.txt](/data/digid.nl/all_subdomains.txt)|477|All found subdomains (history)|
 
 
 ## Statistics

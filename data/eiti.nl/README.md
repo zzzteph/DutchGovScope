@@ -6,11 +6,12 @@
 
  - **SSL Grade**:A+
  - **HTTP Security Grade**:B
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:0
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/eiti.nl/subdomains.txt)|5|Alive subdomains|
+|[subdomains.txt](/data/eiti.nl/subdomains.txt)|10|Alive subdomains|
 |[urls.txt](/data/eiti.nl/urls.txt)|5|Urls|
 |[all_subdomains.txt](/data/eiti.nl/all_subdomains.txt)|11|All found subdomains (history)|
 

@@ -14,7 +14,6 @@ leeromgeving-minvenj.trainingscatalogus.nl
 leeromgeving-svb.trainingscatalogus.nl
 parnassialeeromgeving-a.trainingscatalogus.nl
 radio.trainingscatalogus.nl
-smtp-relay.trainingscatalogus.nl
 szw.trainingscatalogus.nl
 szw-a.trainingscatalogus.nl
 zorgspectrumleeromgeving-a.trainingscatalogus.nl
@@ -64,3 +63,4 @@ bd.trainingscatalogus.nl
 apgrechtenbeheerenict.trainingscatalogus.nl
 vgz.trainingscatalogus.nl
 minfin.trainingscatalogus.nl
+smtp-relay.trainingscatalogus.nl

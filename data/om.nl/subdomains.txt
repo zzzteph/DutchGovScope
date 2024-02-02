@@ -15,8 +15,6 @@ verkeer.loket.om.nl
 verkeer.acc.loket.om.nl
 fcvpn.om.nl
 strafdossiermh17.om.nl
-access.om.nl
-conf.om.nl
 dialin.om.nl
 lyncdiscover.om.nl
 meet.om.nl
@@ -25,3 +23,5 @@ webservices.om.nl
 telewerken.om.nl
 mdm.om.nl
 mms-gw.om.nl
+access.om.nl
+conf.om.nl

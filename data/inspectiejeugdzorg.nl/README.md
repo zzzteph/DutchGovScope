@@ -6,11 +6,12 @@
 
  - **SSL Grade**:
  - **HTTP Security Grade**:A
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:0
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/inspectiejeugdzorg.nl/subdomains.txt)|7|Alive subdomains|
+|[subdomains.txt](/data/inspectiejeugdzorg.nl/subdomains.txt)|6|Alive subdomains|
 |[urls.txt](/data/inspectiejeugdzorg.nl/urls.txt)|2|Urls|
 |[all_subdomains.txt](/data/inspectiejeugdzorg.nl/all_subdomains.txt)|13|All found subdomains (history)|
 

@@ -6,6 +6,7 @@
 
  - **SSL Grade**:
  - **HTTP Security Grade**:B
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:0
 
 
 | File       | Count | Info |
@@ -20,9 +21,9 @@
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://dashboard.geldlessen.nl](https://dashboard.geldlessen.nl)| | **A**|Apache| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS|geldlessen.lesse...|
+|[https://dashboard.geldlessen.nl](https://dashboard.geldlessen.nl)| | **A**|Apache/2.4.41 (Ubuntu)| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server:2.4.41 HSTS Ubuntu|geldlessen.lesse...|
 |[https://digiles.geldlessen.nl](https://digiles.geldlessen.nl)| | **B**|Apache/2.4.41 (Ubuntu)| |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | |Apache HTTP Server:2.4.41 HSTS Ubuntu|geldlessen.lesse...|
-|[https://themalessen.geldlessen.nl](https://themalessen.geldlessen.nl)| | **C**|Apache|:o: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS PHP|Geldlessen - PO...|
+|[https://themalessen.geldlessen.nl](https://themalessen.geldlessen.nl)| | **C**|Apache/2.4.41 (Ubuntu)|:o: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server:2.4.41 HSTS PHP Ubuntu|Geldlessen - PO...|
 |[https://www.geldlessen.nl](https://www.geldlessen.nl)| | **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |Google Tag Manager HSTS Nginx|Home - Geldlesse...|
 |[https://geldlessen.nl](https://geldlessen.nl)| | **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
 

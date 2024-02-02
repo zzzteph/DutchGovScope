@@ -2,3 +2,9 @@ feeds.bureautoetsinginvesteringen.nl
 opendata.bureautoetsinginvesteringen.nl
 www.bureautoetsinginvesteringen.nl
 bureautoetsinginvesteringen.nl
+a-feeds.bureautoetsinginvesteringen.nl
+a-opendata.bureautoetsinginvesteringen.nl
+a-www.bureautoetsinginvesteringen.nl
+i-www.bureautoetsinginvesteringen.nl
+o-www.bureautoetsinginvesteringen.nl
+t-www.bureautoetsinginvesteringen.nl

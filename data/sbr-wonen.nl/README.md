@@ -6,6 +6,7 @@
 
  - **SSL Grade**:
  - **HTTP Security Grade**:B
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:0
 
 
 | File       | Count | Info |
@@ -28,7 +29,7 @@
 |[https://wozvalidatie.sbr-wonen.nl](https://wozvalidatie.sbr-wonen.nl)| | **F**|akka-http/10.4.0| | | | | | | | :white_check_mark: | |Akka HTTP:10.4.0|CSV-validatieser...|
 |[https://www.sbr-wonen.nl](https://www.sbr-wonen.nl)| | **A**|Apache/2| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server:2|301 Moved Perman...|
 |[https://hulpsheet.sbr-wonen.nl](https://hulpsheet.sbr-wonen.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Microsoft Azure...|
-|[https://sbr-wonen.nl](https://sbr-wonen.nl)| | **A**|Apache/2| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server:2 Elementor:3.18.3 HSTS MySQL PHP:7.4.28 WordPress:6.4.2 Yoast SEO:21.7|Makkelijker info...|
+|[https://sbr-wonen.nl](https://sbr-wonen.nl)| | **A**|Apache/2| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server:2 Elementor:3.18.3 HSTS MySQL PHP:7.4.28 WordPress:6.4.3 Yoast SEO:21.7|Makkelijker info...|
 |[https://abm.sbr-wonen.nl](https://abm.sbr-wonen.nl)| | **A**|istio-envoy| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Amazon Web Services Envoy HSTS|Serviceportaal|
 |[https://dvi.sbr-wonen.nl](https://dvi.sbr-wonen.nl)| | **A**|istio-envoy| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Amazon Web Services Envoy HSTS|Serviceportaal|
 

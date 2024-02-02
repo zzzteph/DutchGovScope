@@ -8,3 +8,10 @@ opendata.deltaprogramma.nl
 opendata.english.deltaprogramma.nl
 www.deltaprogramma.nl
 deltaprogramma.nl
+a-feeds.deltaprogramma.nl
+a-magazines.deltaprogramma.nl
+a-opendata.a-english.deltaprogramma.nl
+a-opendata.deltaprogramma.nl
+a-www.deltaprogramma.nl
+a-english.deltaprogramma.nl
+a-feeds.a-english.deltaprogramma.nl

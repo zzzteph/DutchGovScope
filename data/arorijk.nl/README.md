@@ -6,11 +6,12 @@
 
  - **SSL Grade**:A+
  - **HTTP Security Grade**:A
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:0
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/arorijk.nl/subdomains.txt)|3|Alive subdomains|
+|[subdomains.txt](/data/arorijk.nl/subdomains.txt)|4|Alive subdomains|
 |[urls.txt](/data/arorijk.nl/urls.txt)|3|Urls|
 |[all_subdomains.txt](/data/arorijk.nl/all_subdomains.txt)|4|All found subdomains (history)|
 

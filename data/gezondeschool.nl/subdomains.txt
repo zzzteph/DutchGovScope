@@ -1,6 +1,6 @@
-acceptatie.gezondeschool.nl
-preview.gezondeschool.nl
 sub.gezondeschool.nl
 test.gezondeschool.nl
 www.gezondeschool.nl
 gezondeschool.nl
+preview.gezondeschool.nl
+acceptatie.gezondeschool.nl

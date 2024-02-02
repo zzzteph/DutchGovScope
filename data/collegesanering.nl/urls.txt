@@ -3,3 +3,4 @@ https://opendata.collegesanering.nl
 https://autodiscover.collegesanering.nl
 https://www.collegesanering.nl
 https://collegesanering.nl
+https://webmail.collegesanering.nl

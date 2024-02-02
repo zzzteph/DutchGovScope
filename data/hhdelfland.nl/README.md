@@ -6,13 +6,14 @@
 
  - **SSL Grade**:
  - **HTTP Security Grade**:C
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:0
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/hhdelfland.nl/subdomains.txt)|60|Alive subdomains|
+|[subdomains.txt](/data/hhdelfland.nl/subdomains.txt)|58|Alive subdomains|
 |[urls.txt](/data/hhdelfland.nl/urls.txt)|24|Urls|
-|[all_subdomains.txt](/data/hhdelfland.nl/all_subdomains.txt)|217|All found subdomains (history)|
+|[all_subdomains.txt](/data/hhdelfland.nl/all_subdomains.txt)|219|All found subdomains (history)|
 
 
 ## Statistics
@@ -27,7 +28,7 @@
 |[https://loket-preprod.hhdelfland.nl](https://loket-preprod.hhdelfland.nl)| | **A**|Microsoft-IIS/10.0|:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |IIS:10.0 Windows Server||
 |[https://loket.hhdelfland.nl](https://loket.hhdelfland.nl)| | **A**|Microsoft-IIS/10.0|:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |IIS:10.0 Windows Server||
 |[https://samenwerkingsportaal.hhdelfland.nl](https://samenwerkingsportaal.hhdelfland.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0||
-|[https://beeldbank-bo.hhdelfland.nl](https://beeldbank-bo.hhdelfland.nl)| | **B**|Picture Pack|:warning: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET|Picture Pack|
+|[https://beeldbank-bo.hhdelfland.nl](https://beeldbank-bo.hhdelfland.nl)| | **B**|Picture Pack|:warning: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:4.0.30319|Picture Pack|
 |[https://beeldbank.hhdelfland.nl](https://beeldbank.hhdelfland.nl)| | **B**||:warning: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET|Homepage | Beeld...|
 |[https://burgerloket.hhdelfland.nl](https://burgerloket.hhdelfland.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|301 Moved Perman...|
 |[https://hhdelfland.nl](https://hhdelfland.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:-|Object moved|

@@ -135,7 +135,7 @@ http://maps.rivm.nl
 https://mcra.rivm.nl
 http://mcra-test.rivm.nl
 https://mcra-training.rivm.nl
-https://mebi.rivm.nl
+http://mebi.rivm.nl
 http://mebi-backoffice.rivm.nl
 https://menukaart-kansrijkestart-nl.rivm.nl
 https://mgk.osiris.rivm.nl

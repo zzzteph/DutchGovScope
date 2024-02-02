@@ -6,13 +6,14 @@
 
  - **SSL Grade**:
  - **HTTP Security Grade**:A
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:0
 
 
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/jaofnee.nl/subdomains.txt)|2|Alive subdomains|
 |[urls.txt](/data/jaofnee.nl/urls.txt)|2|Urls|
-|[all_subdomains.txt](/data/jaofnee.nl/all_subdomains.txt)|20|All found subdomains (history)|
+|[all_subdomains.txt](/data/jaofnee.nl/all_subdomains.txt)|19|All found subdomains (history)|
 
 
 ## Statistics

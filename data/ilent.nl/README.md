@@ -6,13 +6,14 @@
 
  - **SSL Grade**:
  - **HTTP Security Grade**:C
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:0
 
 
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/ilent.nl/subdomains.txt)|46|Alive subdomains|
 |[urls.txt](/data/ilent.nl/urls.txt)|20|Urls|
-|[all_subdomains.txt](/data/ilent.nl/all_subdomains.txt)|78|All found subdomains (history)|
+|[all_subdomains.txt](/data/ilent.nl/all_subdomains.txt)|77|All found subdomains (history)|
 
 
 ## Statistics

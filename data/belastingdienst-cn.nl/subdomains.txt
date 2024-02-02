@@ -11,3 +11,10 @@ papiamentu.belastingdienst-cn.nl
 test.belastingdienst-cn.nl
 www.belastingdienst-cn.nl
 belastingdienst-cn.nl
+a-www.belastingdienst-cn.nl
+a-english.belastingdienst-cn.nl
+a-feeds.a-english.belastingdienst-cn.nl
+a-feeds.belastingdienst-cn.nl
+a-opendata.a-english.belastingdienst-cn.nl
+a-opendata.belastingdienst-cn.nl
+mijn.acc.belastingdienst-cn.nl

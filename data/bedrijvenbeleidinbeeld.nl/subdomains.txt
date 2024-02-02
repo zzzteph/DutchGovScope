@@ -1,5 +1,9 @@
-a-www.bedrijvenbeleidinbeeld.nl
 feeds.bedrijvenbeleidinbeeld.nl
 opendata.bedrijvenbeleidinbeeld.nl
 www.bedrijvenbeleidinbeeld.nl
 bedrijvenbeleidinbeeld.nl
+a-www.bedrijvenbeleidinbeeld.nl
+a-feeds.bedrijvenbeleidinbeeld.nl
+a-opendata.bedrijvenbeleidinbeeld.nl
+i-www.bedrijvenbeleidinbeeld.nl
+o-www.bedrijvenbeleidinbeeld.nl

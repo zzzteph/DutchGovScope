@@ -6,13 +6,14 @@
 
  - **SSL Grade**:
  - **HTTP Security Grade**:A
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:0
 
 
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/uitvoeringvanbeleidszw.nl/subdomains.txt)|13|Alive subdomains|
 |[urls.txt](/data/uitvoeringvanbeleidszw.nl/urls.txt)|7|Urls|
-|[all_subdomains.txt](/data/uitvoeringvanbeleidszw.nl/all_subdomains.txt)|22|All found subdomains (history)|
+|[all_subdomains.txt](/data/uitvoeringvanbeleidszw.nl/all_subdomains.txt)|21|All found subdomains (history)|
 
 
 ## Statistics

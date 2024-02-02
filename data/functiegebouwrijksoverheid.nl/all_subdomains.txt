@@ -1,11 +1,10 @@
-acceptatie1.www.functiegebouwrijksoverheid.nl
 csoacct.functiegebouwrijksoverheid.nl
 csotest.functiegebouwrijksoverheid.nl
 odc.functiegebouwrijksoverheid.nl
-test1.www.functiegebouwrijksoverheid.nl
 www.functiegebouwrijksoverheid.nl
-www.test1.www.functiegebouwrijksoverheid.nl
 functiegebouwrijksoverheid.nl
-www.odc.functiegebouwrijksoverheid.nl
 migratie.functiegebouwrijksoverheid.nl
+www.odc.functiegebouwrijksoverheid.nl
+www.test1.www.functiegebouwrijksoverheid.nl
+test1.www.functiegebouwrijksoverheid.nl
 sandbox.functiegebouwrijksoverheid.nl

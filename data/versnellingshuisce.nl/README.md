@@ -5,7 +5,8 @@
 
 
  - **SSL Grade**:
- - **HTTP Security Grade**:E
+ - **HTTP Security Grade**:D
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:0
 
 
 | File       | Count | Info |
@@ -23,8 +24,8 @@
 |[https://financiering.versnellingshuisce.nl](https://financiering.versnellingshuisce.nl)| | **A**|Apache/2| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server:2 Google Tag Manager Gravity Forms HSTS MySQL PHP:8.1.24 WordPress Yoast SEO:20.12 ZURB Foundation|Nederland Circul...|
 |[https://groei.versnellingshuisce.nl](https://groei.versnellingshuisce.nl)| | **F**|Apache/2| | | | | | | | :white_check_mark: | |Apache HTTP Server:2 Google Tag Manager Gravity Forms MySQL PHP:8.1.25 WordPress Yoast SEO:20.12 ZURB Foundation|Groeiprogramma's...|
 |[https://versnellingspartner.versnellingshuisce.nl](https://versnellingspartner.versnellingshuisce.nl)| | **F**|Apache/2|:white_check_mark: | | | | | | | :white_check_mark: | |Apache HTTP Server:2 Google Tag Manager Gravity Forms MySQL PHP:7.4.33 WordPress Yoast SEO:20.12 ZURB Foundation|Vind de juiste V...|
-|[https://www.versnellingshuisce.nl](https://www.versnellingshuisce.nl)| | **F**|LinQhost HPW|:o: | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | ||301 Moved Perman...|
+|[https://www.versnellingshuisce.nl](https://www.versnellingshuisce.nl)| | **E**|LinQhost HPW|:warning: | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | ||301 Moved Perman...|
 |[https://www.financiering.versnellingshuisce.nl](https://www.financiering.versnellingshuisce.nl)| | **A**|Apache/2| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server:2|301 Moved Perman...|
 |[https://www.groei.versnellingshuisce.nl](https://www.groei.versnellingshuisce.nl)| | **F**|Apache/2| | | | | | | | :white_check_mark: | |Apache HTTP Server:2 HSTS PHP:8.1.25||
-|[https://versnellingshuisce.nl](https://versnellingshuisce.nl)| | **F**|LinQhost HPW|:o: | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Alpine.js Google Tag Manager Laravel PHP Statamic|Versnellingshuis...|
+|[https://versnellingshuisce.nl](https://versnellingshuisce.nl)| | **E**|LinQhost HPW|:warning: | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Alpine.js Google Tag Manager Laravel PHP Statamic|Versnellingshuis...|
 

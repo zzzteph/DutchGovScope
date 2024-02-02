@@ -1,6 +1,3 @@
-a-feeds.dus-i.nl
-a-opendata.dus-i.nl
-a-www.dus-i.nl
 feeds.dus-i.nl
 mailing.dus-i.nl
 opendata.dus-i.nl
@@ -14,3 +11,6 @@ beoordeling.dus-i.nl
 gebruiker-beheer.dus-i.nl
 aanvraag.dus-i.nl
 mailings.dus-i.nl
+a-feeds.dus-i.nl
+a-opendata.dus-i.nl
+a-www.dus-i.nl

@@ -6,13 +6,14 @@
 
  - **SSL Grade**:
  - **HTTP Security Grade**:A
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:0
 
 
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/royal-house.nl/subdomains.txt)|7|Alive subdomains|
 |[urls.txt](/data/royal-house.nl/urls.txt)|4|Urls|
-|[all_subdomains.txt](/data/royal-house.nl/all_subdomains.txt)|11|All found subdomains (history)|
+|[all_subdomains.txt](/data/royal-house.nl/all_subdomains.txt)|7|All found subdomains (history)|
 
 
 ## Statistics

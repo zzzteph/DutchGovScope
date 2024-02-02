@@ -6,11 +6,12 @@
 
  - **SSL Grade**:A+
  - **HTTP Security Grade**:A
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:0
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/cybersecurityraad.nl/subdomains.txt)|5|Alive subdomains|
+|[subdomains.txt](/data/cybersecurityraad.nl/subdomains.txt)|9|Alive subdomains|
 |[urls.txt](/data/cybersecurityraad.nl/urls.txt)|5|Urls|
 |[all_subdomains.txt](/data/cybersecurityraad.nl/all_subdomains.txt)|10|All found subdomains (history)|
 

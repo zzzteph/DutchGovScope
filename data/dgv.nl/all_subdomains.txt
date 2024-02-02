@@ -1,4 +1,3 @@
-mail.dgv.nl
 www.dgv.nl
 dgv.nl
 feeds.dgv.nl

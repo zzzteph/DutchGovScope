@@ -1,5 +1,3 @@
-a-www.iob-evaluatie.nl
-archief.iob-evaluatie.nl
 english.iob-evaluatie.nl
 feeds.iob-evaluatie.nl
 feeds.english.iob-evaluatie.nl
@@ -7,3 +5,5 @@ opendata.iob-evaluatie.nl
 opendata.english.iob-evaluatie.nl
 www.iob-evaluatie.nl
 iob-evaluatie.nl
+a-www.iob-evaluatie.nl
+archief.iob-evaluatie.nl

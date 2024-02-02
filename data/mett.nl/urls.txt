@@ -30,7 +30,7 @@ https://exchange.mett.nl
 https://experimental.mett.nl
 https://flevolandwerkt.mett.nl
 https://fotoapplicatie.mett.nl
-https://gebiedsplannenmoerdijk.mett.nl
+http://gebiedsplannenmoerdijk.mett.nl
 https://gebruikersvoorwaarden.mett.nl
 https://geefomlandsmeer.mett.nl
 https://gemkadij.mett.nl
@@ -97,7 +97,7 @@ https://telos.mett.nl
 https://test-login.mett.nl
 https://test.muad.mett.nl
 https://ticket.mett.nl
-https://tuim.mett.nl
+http://tuim.mett.nl
 https://twentebedrijf.mett.nl
 https://urhahn.mett.nl
 https://utrecht-west.mett.nl
@@ -172,7 +172,7 @@ https://icovet.mett.nl
 https://samenzundert.mett.nl
 https://appstore.mett.nl
 https://mobycon.mett.nl
-https://copyrijksoverheid.mett.nl
+http://copyrijksoverheid.mett.nl
 https://de9straatjes.mett.nl
 https://gemparktriangel.mett.nl
 https://www.waterakkers.mett.nl
@@ -226,9 +226,9 @@ https://wonenalacarte.mett.nl
 https://kdl.mett.nl
 https://levendigbrabant2030.mett.nl
 https://move-rdh.mett.nl
-https://office.mett.nl
+http://office.mett.nl
 https://ogo.mett.nl
-https://stadgenoot.mett.nl
+http://stadgenoot.mett.nl
 https://biesboschkreken.mett.nl
 https://cookiebeleid.mett.nl
 https://topedamvolendam.mett.nl
@@ -250,7 +250,7 @@ https://linnean.mett.nl
 https://rottemeren.mett.nl
 https://vastlab.mett.nl
 https://laadnetwerkvanmorgen.mett.nl
-https://waterpleinvelletri.mett.nl
+http://waterpleinvelletri.mett.nl
 https://www.denkmeeuva.mett.nl
 https://gelijkekansens-hertogenbosch.mett.nl
 https://aardgasvrijewijken.mett.nl
@@ -266,7 +266,7 @@ https://bloemendalerpolder.mett.nl
 https://binnl.mett.nl
 https://ghnieuw.mett.nl
 https://akademievankunsten.mett.nl
-http://demointranet.mett.nl
+https://demointranet.mett.nl
 https://vitalevakantieparken.mett.nl
 https://limonadebrigade.mett.nl
 https://monozakelijk.mett.nl
@@ -278,7 +278,7 @@ https://ijsselwerken.mett.nl
 https://gastvrijerandmeren.mett.nl
 https://nzo.mett.nl
 https://schoneluchtakkoord.mett.nl
-https://lottebruijninckx.mett.nl
+http://lottebruijninckx.mett.nl
 https://ruddrenthe.mett.nl
 https://agendalaadinfrastructuur.mett.nl
 https://ssil.mett.nl
@@ -297,7 +297,7 @@ https://intranetafkijken.mett.nl
 https://landbouwenvoedselbrabant.mett.nl
 https://platformstudiegroep.mett.nl
 https://praktijkproefamsterdam.mett.nl
-https://blueskygroup.mett.nl
+http://blueskygroup.mett.nl
 https://hoekschewaard.mett.nl
 https://baggerdepothollandschdiep.mett.nl
 https://a7a8.mett.nl
@@ -313,7 +313,7 @@ https://leefbaarheid.mett.nl
 https://meanderomnium.mett.nl
 https://pilotnudging.mett.nl
 https://apps.mett.nl
-https://fagoed.mett.nl
+http://fagoed.mett.nl
 https://nieuwsienw.mett.nl
 https://websiterudzuidlimburg.mett.nl
 https://samenspelvelsen.mett.nl
@@ -327,7 +327,7 @@ https://samenmetwetterskip.mett.nl
 https://centrumrhoon.mett.nl
 https://dejongeakademie.mett.nl
 https://idfp.mett.nl
-https://restwente.mett.nl
+http://restwente.mett.nl
 https://reswestoverijssel.mett.nl
 https://pilots-mbo-certificaten.mett.nl
 https://circularfestivals.mett.nl

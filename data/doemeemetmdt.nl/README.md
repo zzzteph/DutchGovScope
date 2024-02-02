@@ -6,13 +6,14 @@
 
  - **SSL Grade**:
  - **HTTP Security Grade**:C
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:0
 
 
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/doemeemetmdt.nl/subdomains.txt)|6|Alive subdomains|
 |[urls.txt](/data/doemeemetmdt.nl/urls.txt)|5|Urls|
-|[all_subdomains.txt](/data/doemeemetmdt.nl/all_subdomains.txt)|16|All found subdomains (history)|
+|[all_subdomains.txt](/data/doemeemetmdt.nl/all_subdomains.txt)|15|All found subdomains (history)|
 
 
 ## Statistics

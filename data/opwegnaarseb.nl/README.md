@@ -6,13 +6,14 @@
 
  - **SSL Grade**:
  - **HTTP Security Grade**:E
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:0
 
 
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/opwegnaarseb.nl/subdomains.txt)|7|Alive subdomains|
 |[urls.txt](/data/opwegnaarseb.nl/urls.txt)|7|Urls|
-|[all_subdomains.txt](/data/opwegnaarseb.nl/all_subdomains.txt)|11|All found subdomains (history)|
+|[all_subdomains.txt](/data/opwegnaarseb.nl/all_subdomains.txt)|8|All found subdomains (history)|
 
 
 ## Statistics

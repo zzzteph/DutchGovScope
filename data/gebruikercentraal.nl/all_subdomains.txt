@@ -1,6 +1,5 @@
 accept.gebruikercentraal.nl
 accept.beeldbank.gebruikercentraal.nl
-accept.catalogus.gebruikercentraal.nl
 accept.conference.gebruikercentraal.nl
 accept.cx.gebruikercentraal.nl
 accept.designsprint.gebruikercentraal.nl
@@ -23,7 +22,6 @@ accept.toolkittaal.gebruikercentraal.nl
 accept.volwassenheidsscan.gebruikercentraal.nl
 beeldbank.gebruikercentraal.nl
 beeldbieb.gebruikercentraal.nl
-catalogus.gebruikercentraal.nl
 conference.gebruikercentraal.nl
 designsprint.gebruikercentraal.nl
 designsystem.gebruikercentraal.nl
@@ -62,7 +60,6 @@ test.taalweek.gebruikercentraal.nl
 test.volwassenheidsscan.gebruikercentraal.nl
 volwassenheidsscan.gebruikercentraal.nl
 www.gebruikercentraal.nl
-www.accept.gebruikercentraal.nl
 accept.international.gebruikercentraal.nl
 test.international.gebruikercentraal.nl
 test.toolkittaal.gebruikercentraal.nl
@@ -73,3 +70,6 @@ cx.gebruikercentraal.nl
 omnichannel.gebruikercentraal.nl
 duidelijk.gebruikercentraal.nl
 toolkittaal.gebruikercentraal.nl
+www.accept.gebruikercentraal.nl
+accept.catalogus.gebruikercentraal.nl
+catalogus.gebruikercentraal.nl

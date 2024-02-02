@@ -1,5 +1,5 @@
 autodiscover.contactpuntbouwproducten.nl
 mail.contactpuntbouwproducten.nl
-owa.contactpuntbouwproducten.nl
 www.contactpuntbouwproducten.nl
 contactpuntbouwproducten.nl
+owa.contactpuntbouwproducten.nl

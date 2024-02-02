@@ -18,7 +18,6 @@ ruimtelijkeplannen.zuid-holland.nl
 wapenfeiten.zuid-holland.nl
 oogop.zuid-holland.nl
 forms.zuid-holland.nl
-vaartuigvolgsysteem.zuid-holland.nl
 zaaksysteem-accept.zuid-holland.nl
 slimmerreizen.zuid-holland.nl
 jaaroverzichtcommissarisvandekoning2022.zuid-holland.nl
@@ -48,7 +47,6 @@ beterwordenvancorona.zuid-holland.nl
 zonnewijzer.zuid-holland.nl
 geo-fms.zuid-holland.nl
 nieuwsbrief.zuid-holland.nl
-www.ivs.zuid-holland.nl
 lta.zuid-holland.nl
 monitor-klimaatadaptatie.zuid-holland.nl
 jaaroverzichtcommissarisvandekoning2020.zuid-holland.nl
@@ -65,9 +63,11 @@ jaaroverzichtcommissarisvandekoning2018.zuid-holland.nl
 planregistratie-wonen.zuid-holland.nl
 openstad.zuid-holland.nl
 communicatie.zuid-holland.nl
-icdesk.zuid-holland.nl
 keuzehulpverkeersmaatregelen.zuid-holland.nl
 omgevingsdocumenten.zuid-holland.nl
 investerenin.zuid-holland.nl
-belastingen.zuid-holland.nl
 preprod-belastingen.zuid-holland.nl
+vaartuigvolgsysteem.zuid-holland.nl
+www.ivs.zuid-holland.nl
+belastingen.zuid-holland.nl
+icdesk.zuid-holland.nl

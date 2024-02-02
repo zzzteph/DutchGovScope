@@ -6,11 +6,12 @@
 
  - **SSL Grade**:
  - **HTTP Security Grade**:C
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:0
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/justitie.nl/subdomains.txt)|16|Alive subdomains|
+|[subdomains.txt](/data/justitie.nl/subdomains.txt)|14|Alive subdomains|
 |[urls.txt](/data/justitie.nl/urls.txt)|5|Urls|
 |[all_subdomains.txt](/data/justitie.nl/all_subdomains.txt)|22|All found subdomains (history)|
 

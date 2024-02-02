@@ -2,5 +2,6 @@ feeds.adviescollegeicttoetsing.nl
 opendata.adviescollegeicttoetsing.nl
 www.adviescollegeicttoetsing.nl
 adviescollegeicttoetsing.nl
-a-www.adviescollegeicttoetsing.nl
 a-feeds.adviescollegeicttoetsing.nl
+a-opendata.adviescollegeicttoetsing.nl
+a-www.adviescollegeicttoetsing.nl

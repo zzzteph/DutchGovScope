@@ -6,13 +6,14 @@
 
  - **SSL Grade**:
  - **HTTP Security Grade**:C
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:0
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/one-conference.nl/subdomains.txt)|13|Alive subdomains|
+|[subdomains.txt](/data/one-conference.nl/subdomains.txt)|12|Alive subdomains|
 |[urls.txt](/data/one-conference.nl/urls.txt)|12|Urls|
-|[all_subdomains.txt](/data/one-conference.nl/all_subdomains.txt)|14|All found subdomains (history)|
+|[all_subdomains.txt](/data/one-conference.nl/all_subdomains.txt)|13|All found subdomains (history)|
 
 
 ## Statistics

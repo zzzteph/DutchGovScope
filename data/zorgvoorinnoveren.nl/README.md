@@ -6,13 +6,14 @@
 
  - **SSL Grade**:
  - **HTTP Security Grade**:A
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:0
 
 
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/zorgvoorinnoveren.nl/subdomains.txt)|2|Alive subdomains|
 |[urls.txt](/data/zorgvoorinnoveren.nl/urls.txt)|2|Urls|
-|[all_subdomains.txt](/data/zorgvoorinnoveren.nl/all_subdomains.txt)|13|All found subdomains (history)|
+|[all_subdomains.txt](/data/zorgvoorinnoveren.nl/all_subdomains.txt)|12|All found subdomains (history)|
 
 
 ## Statistics

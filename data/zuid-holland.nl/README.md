@@ -6,12 +6,13 @@
 
  - **SSL Grade**:
  - **HTTP Security Grade**:B
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:0
 
 
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/zuid-holland.nl/subdomains.txt)|73|Alive subdomains|
-|[urls.txt](/data/zuid-holland.nl/urls.txt)|68|Urls|
+|[urls.txt](/data/zuid-holland.nl/urls.txt)|67|Urls|
 |[all_subdomains.txt](/data/zuid-holland.nl/all_subdomains.txt)|135|All found subdomains (history)|
 
 
@@ -45,7 +46,7 @@
 |[http://jaaroverzichtcommissarisvandekoning2022.zuid-holland.nl](http://jaaroverzichtcommissarisvandekoning2022.zuid-holland.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Microsoft ASP.NET:-|Object moved|
 |[https://img.openstad.zuid-holland.nl](https://img.openstad.zuid-holland.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Express HSTS Node.js|Error|
 |[https://jaaroverzichtcommissarisvandekoning2019.zuid-holland.nl](https://jaaroverzichtcommissarisvandekoning2019.zuid-holland.nl)| | **B**|Apache| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server Drupal:8 HSTS PHP|Jaaroverzicht Co...|
-|[https://circulair.zuid-holland.nl](https://circulair.zuid-holland.nl)| | **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |Elementor:3.18.3 HSTS MySQL Nginx PHP:8.1.27 WordPress:6.4.2 Yoast SEO:21.7|Home - Circulair...|
+|[https://circulair.zuid-holland.nl](https://circulair.zuid-holland.nl)| | **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |Elementor:3.18.3 HSTS MySQL Nginx PHP:8.1.27 WordPress:6.4.3 Yoast SEO:21.7|Home - Circulair...|
 |[https://subsidieportaal.zuid-holland.nl](https://subsidieportaal.zuid-holland.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|ClientPortal|
 |[https://archeologie2.zuid-holland.nl](https://archeologie2.zuid-holland.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server Microsoft ASP.NET|403 - Forbidden:...|
 |[https://archeologie.zuid-holland.nl](https://archeologie.zuid-holland.nl)| | **A**|nginx|:warning: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|Home - Provincia...|
@@ -55,7 +56,7 @@
 |[https://digitaalmkb.zuid-holland.nl](https://digitaalmkb.zuid-holland.nl)| | **A**|LiteSpeed| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HTTP/3 LiteSpeed|301 Moved Perman...|
 |[https://redactie.zuid-holland.nl](https://redactie.zuid-holland.nl)| | **A**|-|:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:-|Object moved|
 |[https://thesaurus.zuid-holland.nl](https://thesaurus.zuid-holland.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Web App - Unavai...|
-|[https://beeldarchief.zuid-holland.nl](https://beeldarchief.zuid-holland.nl)| | **B**||:warning: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET||
+|[https://beeldarchief.zuid-holland.nl](https://beeldarchief.zuid-holland.nl)| | **B**||:warning: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:4.0.30319||
 |[https://atlas.zuid-holland.nl](https://atlas.zuid-holland.nl)| | **C**||:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
 |[https://www.openstad.zuid-holland.nl](https://www.openstad.zuid-holland.nl)| | **D**||:o: |:white_check_mark: | | | | | | :white_check_mark: | ||308 Permanent Re...|
 |[https://jaaroverzichtcommissarisvandekoning2021.zuid-holland.nl](https://jaaroverzichtcommissarisvandekoning2021.zuid-holland.nl)| | **B**|Apache| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server Drupal:9 HSTS PHP|Jaaroverzicht Co...|
@@ -73,8 +74,7 @@
 |[https://monitor-klimaatadaptatie.zuid-holland.nl](https://monitor-klimaatadaptatie.zuid-holland.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| | | :white_check_mark: | |HSTS|Monitor Klimaat...|
 |[https://jaaroverzichtcommissarisvandekoning2020.zuid-holland.nl](https://jaaroverzichtcommissarisvandekoning2020.zuid-holland.nl)| | **B**|Apache| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server Drupal:8 HSTS PHP|Jaaroverzicht Co...|
 |[https://admin.openstad.zuid-holland.nl](https://admin.openstad.zuid-holland.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|403 Forbidden|
-|[https://natura2000-data.zuid-holland.nl](https://natura2000-data.zuid-holland.nl)| | **B**|nginx|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |Azure HSTS Nginx|N2000|
-|[https://beeldbank.zuid-holland.nl](https://beeldbank.zuid-holland.nl)| | **A**||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:4.0.30319|Homepage | Beeld...|
+|[https://beeldbank.zuid-holland.nl](https://beeldbank.zuid-holland.nl)| | **A**||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET|Homepage | Beeld...|
 |[https://staatvan.zuid-holland.nl](https://staatvan.zuid-holland.nl)| | **E**|nginx/1.21.5| | | | | | :white_check_mark: | | :white_check_mark: | |Elementor:3.18.3 MySQL Nginx:1.21.5 PHP:8.0.15 WordPress Yoast SEO:21.9.1 wpBakery|Home - Staat van...|
 |[https://zuid-holland.nl](https://zuid-holland.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:-|Object moved|
 |[https://monitorleefomgeving.zuid-holland.nl](https://monitorleefomgeving.zuid-holland.nl)| | **E**|| | | | | | | | :white_check_mark: | |Azure Azure Front Door|Monitor Leefomge...|

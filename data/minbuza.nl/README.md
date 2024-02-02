@@ -6,13 +6,14 @@
 
  - **SSL Grade**:
  - **HTTP Security Grade**:D
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:0
 
 
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/minbuza.nl/subdomains.txt)|27|Alive subdomains|
 |[urls.txt](/data/minbuza.nl/urls.txt)|14|Urls|
-|[all_subdomains.txt](/data/minbuza.nl/all_subdomains.txt)|137|All found subdomains (history)|
+|[all_subdomains.txt](/data/minbuza.nl/all_subdomains.txt)|131|All found subdomains (history)|
 
 
 ## Statistics

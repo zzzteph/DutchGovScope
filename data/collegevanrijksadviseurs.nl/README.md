@@ -6,13 +6,14 @@
 
  - **SSL Grade**:A+
  - **HTTP Security Grade**:A
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:0
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/collegevanrijksadviseurs.nl/subdomains.txt)|8|Alive subdomains|
+|[subdomains.txt](/data/collegevanrijksadviseurs.nl/subdomains.txt)|13|Alive subdomains|
 |[urls.txt](/data/collegevanrijksadviseurs.nl/urls.txt)|7|Urls|
-|[all_subdomains.txt](/data/collegevanrijksadviseurs.nl/all_subdomains.txt)|16|All found subdomains (history)|
+|[all_subdomains.txt](/data/collegevanrijksadviseurs.nl/all_subdomains.txt)|17|All found subdomains (history)|
 
 
 ## Statistics

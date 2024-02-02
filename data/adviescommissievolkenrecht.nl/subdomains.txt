@@ -2,3 +2,6 @@ www.adviescommissievolkenrecht.nl
 feeds.adviescommissievolkenrecht.nl
 opendata.adviescommissievolkenrecht.nl
 adviescommissievolkenrecht.nl
+a-opendata.adviescommissievolkenrecht.nl
+a-www.adviescommissievolkenrecht.nl
+a-feeds.adviescommissievolkenrecht.nl

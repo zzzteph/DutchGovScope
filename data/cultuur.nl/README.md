@@ -6,13 +6,14 @@
 
  - **SSL Grade**:
  - **HTTP Security Grade**:E
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:0
 
 
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/cultuur.nl/subdomains.txt)|12|Alive subdomains|
 |[urls.txt](/data/cultuur.nl/urls.txt)|10|Urls|
-|[all_subdomains.txt](/data/cultuur.nl/all_subdomains.txt)|43|All found subdomains (history)|
+|[all_subdomains.txt](/data/cultuur.nl/all_subdomains.txt)|41|All found subdomains (history)|
 
 
 ## Statistics

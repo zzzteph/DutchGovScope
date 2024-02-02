@@ -1,5 +1,5 @@
 feeds.nationaalrapporteur.nl
 opendata.nationaalrapporteur.nl
-sip.nationaalrapporteur.nl
 www.nationaalrapporteur.nl
 nationaalrapporteur.nl
+sip.nationaalrapporteur.nl

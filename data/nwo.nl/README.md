@@ -6,13 +6,14 @@
 
  - **SSL Grade**:
  - **HTTP Security Grade**:C
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:0
 
 
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/nwo.nl/subdomains.txt)|39|Alive subdomains|
 |[urls.txt](/data/nwo.nl/urls.txt)|18|Urls|
-|[all_subdomains.txt](/data/nwo.nl/all_subdomains.txt)|232|All found subdomains (history)|
+|[all_subdomains.txt](/data/nwo.nl/all_subdomains.txt)|228|All found subdomains (history)|
 
 
 ## Statistics
@@ -29,7 +30,7 @@
 |[http://autodiscover.nwo.nl](http://autodiscover.nwo.nl)| | **B**|Microsoft-IIS/10.0|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server||
 |[https://nwoi-people.nwo.nl](https://nwoi-people.nwo.nl)| | **A**|Microsoft-IIS/10.0| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS IIS:10.0 Windows Server|NWO-I People|
 |[https://mailing.nwo.nl](https://mailing.nwo.nl)| | **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Nginx||
-|[https://www.nwo.nl](https://www.nwo.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | :white_check_mark: |Drupal:9 Google Tag Manager HSTS PHP|Nederlandse Orga...|
+|[https://www.nwo.nl](https://www.nwo.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | :white_check_mark: |Drupal:10 HSTS PHP|Nederlandse Orga...|
 |[https://intranet.nwo.nl](https://intranet.nwo.nl)| | **A**|Apache|:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS|- Joost|
 |[https://auth.nwo.nl](https://auth.nwo.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
 |[https://impact.nwo.nl](https://impact.nwo.nl)| | **F**|nginx/1.18.0 (Ubuntu)| | | | | | | | :white_check_mark: | |Nginx:1.18.0 Ubuntu|NWO Impact|

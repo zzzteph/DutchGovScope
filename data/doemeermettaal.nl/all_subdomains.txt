@@ -2,6 +2,6 @@ www.doemeermettaal.nl
 doemeermettaal.nl
 feeds.doemeermettaal.nl
 opendata.doemeermettaal.nl
+a-www.doemeermettaal.nl
 a-feeds.doemeermettaal.nl
 a-opendata.doemeermettaal.nl
-a-www.doemeermettaal.nl

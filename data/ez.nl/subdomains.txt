@@ -1,5 +1,4 @@
 exportcontrole.ez.nl
-www.dienstenrichtlijn.ez.nl
 wvaopgave.ez.nl
 dienstenrichtlijn.ez.nl
 innovatie.ez.nl
@@ -10,7 +9,6 @@ www.structuurfondsen.ez.nl
 www.exportcontrole.ez.nl
 ez.nl
 bedrijventerreinen.ez.nl
-forms.ez.nl
 mvo.ez.nl
 wto.ez.nl
 structuurfondsen.ez.nl
@@ -18,3 +16,5 @@ duurzameenergie.ez.nl
 futureinternet.ez.nl
 videos.ez.nl
 crashteamoneerlijkeconcurrentie.ez.nl
+forms.ez.nl
+www.dienstenrichtlijn.ez.nl

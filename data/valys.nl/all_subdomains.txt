@@ -1,4 +1,3 @@
-vita.valys.nl
 0900-9630www.valys.nl
 ww.valys.nl
 informatie.valys.nl
@@ -10,3 +9,4 @@ www.valys.nl
 opwww.valys.nl
 mijn.valys.nl
 uurwww.valys.nl
+vita.valys.nl

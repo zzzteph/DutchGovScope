@@ -1,4 +1,4 @@
-acc.temis.nl
 www.temis.nl
-www-acc.temis.nl
 temis.nl
+www-acc.temis.nl
+acc.temis.nl

@@ -1,13 +1,14 @@
 english.ctpveldzicht.nl
 feeds.ctpveldzicht.nl
-feeds.english.ctpveldzicht.nl
 opendata.ctpveldzicht.nl
-opendata.english.ctpveldzicht.nl
 www.ctpveldzicht.nl
 staging.english.ctpveldzicht.nl
 ctpveldzicht.nl
 ftp.ctpveldzicht.nl
 staging.ctpveldzicht.nl
+feeds.english.ctpveldzicht.nl
+opendata.english.ctpveldzicht.nl
+a-feeds.ctpveldzicht.nl
 a-opendata.ctpveldzicht.nl
 a-www.ctpveldzicht.nl
 mail.ctpveldzicht.nl

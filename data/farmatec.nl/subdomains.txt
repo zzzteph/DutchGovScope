@@ -1,4 +1,3 @@
-a-www.farmatec.nl
 acceptatie.hulpmiddelen.farmatec.nl
 english.farmatec.nl
 feeds.farmatec.nl
@@ -8,3 +7,4 @@ opendata.farmatec.nl
 opendata.english.farmatec.nl
 www.farmatec.nl
 farmatec.nl
+a-www.farmatec.nl

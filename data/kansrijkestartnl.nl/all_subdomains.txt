@@ -2,12 +2,12 @@ feeds.kansrijkestartnl.nl
 menukaart.kansrijkestartnl.nl
 opendata.kansrijkestartnl.nl
 www.kansrijkestartnl.nl
-www.menukaart.kansrijkestartnl.nl
 kansrijkestartnl.nl
-english.kansrijkestartnl.nl
 feeds.english.kansrijkestartnl.nl
-magazines.english.kansrijkestartnl.nl
-magazinesintern.english.kansrijkestartnl.nl
-magazinesintern.kansrijkestartnl.nl
 magazines.kansrijkestartnl.nl
+magazinesintern.english.kansrijkestartnl.nl
+magazines.english.kansrijkestartnl.nl
+magazinesintern.kansrijkestartnl.nl
 opendata.english.kansrijkestartnl.nl
+english.kansrijkestartnl.nl
+www.menukaart.kansrijkestartnl.nl

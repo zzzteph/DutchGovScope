@@ -6,10 +6,10 @@ cpcontacts.lchulpmiddelen.nl
 feeds.lchulpmiddelen.nl
 ftp.lchulpmiddelen.nl
 ipv6.lchulpmiddelen.nl
-mail.lchulpmiddelen.nl
 opendata.lchulpmiddelen.nl
 test.apps.lchulpmiddelen.nl
 webdisk.lchulpmiddelen.nl
-webmail.lchulpmiddelen.nl
 www.lchulpmiddelen.nl
 lchulpmiddelen.nl
+webmail.lchulpmiddelen.nl
+mail.lchulpmiddelen.nl

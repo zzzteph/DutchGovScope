@@ -6,13 +6,14 @@
 
  - **SSL Grade**:
  - **HTTP Security Grade**:A
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:0
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/postedworkers.nl/subdomains.txt)|18|Alive subdomains|
+|[subdomains.txt](/data/postedworkers.nl/subdomains.txt)|17|Alive subdomains|
 |[urls.txt](/data/postedworkers.nl/urls.txt)|14|Urls|
-|[all_subdomains.txt](/data/postedworkers.nl/all_subdomains.txt)|24|All found subdomains (history)|
+|[all_subdomains.txt](/data/postedworkers.nl/all_subdomains.txt)|23|All found subdomains (history)|
 
 
 ## Statistics

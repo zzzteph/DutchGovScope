@@ -6,11 +6,12 @@
 
  - **SSL Grade**:
  - **HTTP Security Grade**:F
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:0
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/spaceoffice.nl/subdomains.txt)|5|Alive subdomains|
+|[subdomains.txt](/data/spaceoffice.nl/subdomains.txt)|3|Alive subdomains|
 |[urls.txt](/data/spaceoffice.nl/urls.txt)|3|Urls|
 |[all_subdomains.txt](/data/spaceoffice.nl/all_subdomains.txt)|5|All found subdomains (history)|
 

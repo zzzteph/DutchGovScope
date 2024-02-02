@@ -1,6 +1,4 @@
 acceptatie.feedfoodtransfer.nl
-apps.feedfoodtransfer.nl
-apps.acceptatie.feedfoodtransfer.nl
 cadmium-pig.apps.feedfoodtransfer.nl
 www.feedfoodtransfer.nl
 feedfoodtransfer.nl
@@ -14,3 +12,5 @@ pfos-pfoa-cow.apps.feedfoodtransfer.nl
 aflatoxinb1m1-cow.apps.feedfoodtransfer.nl
 dioxins-congener-hen.apps.feedfoodtransfer.nl
 dioxins-totalteq-hen.apps.feedfoodtransfer.nl
+apps.feedfoodtransfer.nl
+apps.acceptatie.feedfoodtransfer.nl

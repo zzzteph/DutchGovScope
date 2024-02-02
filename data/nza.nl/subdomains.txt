@@ -1,5 +1,4 @@
 aanvragen.nza.nl
-a-www.nza.nl
 zorgproducten-test.nza.nl
 nza-form6.nza.nl
 nza-form5.nza.nl
@@ -7,7 +6,6 @@ mijn-accp.nza.nl
 werkenbijde.nza.nl
 nza.nl
 zorgproducten.nza.nl
-nza-portaal1.nza.nl
 leren.nza.nl
 jmv.nza.nl
 magazines.nza.nl
@@ -15,11 +13,9 @@ acceptatie.crm.nza.nl
 zorgproducten-acc.nza.nl
 nza-form1.nza.nl
 zorgvraagtypering.nza.nl
-a-magazines.nza.nl
 mijn.nza.nl
 www.nza.nl
 feeds.nza.nl
-a-opendata.nza.nl
 zorgbeeld.nza.nl
 rpx.nza.nl
 nza-form4.nza.nl
@@ -29,7 +25,6 @@ nza-form3.nza.nl
 crm-acc.nza.nl
 autodiscover.nza.nl
 opendata.nza.nl
-a-feeds.nza.nl
 crm.nza.nl
 nza-form2.nza.nl
 itsupport.nza.nl
@@ -40,3 +35,8 @@ wachttijden.nza.nl
 mta-sts.nza.nl
 dbcleergang.nza.nl
 dkdlmodel.nza.nl
+a-feeds.nza.nl
+a-magazines.nza.nl
+a-opendata.nza.nl
+a-www.nza.nl
+nza-portaal1.nza.nl

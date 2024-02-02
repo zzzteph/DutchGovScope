@@ -1,6 +1,6 @@
 feeds.toekomstreligieuserfgoed.nl
 opendata.toekomstreligieuserfgoed.nl
-prod.toekomstreligieuserfgoed.nl
-test.toekomstreligieuserfgoed.nl
 www.toekomstreligieuserfgoed.nl
 toekomstreligieuserfgoed.nl
+test.toekomstreligieuserfgoed.nl
+prod.toekomstreligieuserfgoed.nl

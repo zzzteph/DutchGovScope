@@ -5,13 +5,14 @@
 
 
  - **SSL Grade**:
- - **HTTP Security Grade**:A
+ - **HTTP Security Grade**:F
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:0
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/informatierijksoverheid.nl/subdomains.txt)|4|Alive subdomains|
-|[urls.txt](/data/informatierijksoverheid.nl/urls.txt)|2|Urls|
+|[subdomains.txt](/data/informatierijksoverheid.nl/subdomains.txt)|0|Alive subdomains|
+|[urls.txt](/data/informatierijksoverheid.nl/urls.txt)|0|Urls|
 |[all_subdomains.txt](/data/informatierijksoverheid.nl/all_subdomains.txt)|4|All found subdomains (history)|
 
 
@@ -20,6 +21,4 @@
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://informatierijksoverheid.nl](https://informatierijksoverheid.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
-|[https://www.informatierijksoverheid.nl](https://www.informatierijksoverheid.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
 

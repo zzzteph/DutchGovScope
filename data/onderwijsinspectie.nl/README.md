@@ -6,13 +6,14 @@
 
  - **SSL Grade**:
  - **HTTP Security Grade**:B
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:0
 
 
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/onderwijsinspectie.nl/subdomains.txt)|14|Alive subdomains|
 |[urls.txt](/data/onderwijsinspectie.nl/urls.txt)|14|Urls|
-|[all_subdomains.txt](/data/onderwijsinspectie.nl/all_subdomains.txt)|22|All found subdomains (history)|
+|[all_subdomains.txt](/data/onderwijsinspectie.nl/all_subdomains.txt)|21|All found subdomains (history)|
 
 
 ## Statistics
@@ -29,7 +30,7 @@
 |[https://opendata.onderwijsinspectie.nl](https://opendata.onderwijsinspectie.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://opendata.english.onderwijsinspectie.nl](https://opendata.english.onderwijsinspectie.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://toezichtresultaten.onderwijsinspectie.nl](https://toezichtresultaten.onderwijsinspectie.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|Toezichtresultat...|
-|[https://toezichtresultaten.acc.onderwijsinspectie.nl](https://toezichtresultaten.acc.onderwijsinspectie.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|ACCEPTATIE ONTKO...|
+|[https://toezichtresultaten.acc.onderwijsinspectie.nl](https://toezichtresultaten.acc.onderwijsinspectie.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|Toezichtresultat...|
 |[https://www.onderwijsinspectie.nl](https://www.onderwijsinspectie.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Inspectie van he...|
 |[https://www.zoekscholen.onderwijsinspectie.nl](https://www.zoekscholen.onderwijsinspectie.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|301 Moved Perman...|
 |[https://zoekscholen.onderwijsinspectie.nl](https://zoekscholen.onderwijsinspectie.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|301 Moved Perman...|

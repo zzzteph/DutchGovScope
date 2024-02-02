@@ -1,4 +1,3 @@
-connect.dienstterugkeerenvertrek.nl
 english.dienstterugkeerenvertrek.nl
 feeds.dienstterugkeerenvertrek.nl
 feeds.english.dienstterugkeerenvertrek.nl
@@ -7,3 +6,8 @@ opendata.english.dienstterugkeerenvertrek.nl
 portaal.dienstterugkeerenvertrek.nl
 www.dienstterugkeerenvertrek.nl
 dienstterugkeerenvertrek.nl
+connect.dienstterugkeerenvertrek.nl
+a-english.dienstterugkeerenvertrek.nl
+a-feeds.a-english.dienstterugkeerenvertrek.nl
+a-opendata.a-english.dienstterugkeerenvertrek.nl
+a-www.dienstterugkeerenvertrek.nl

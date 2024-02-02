@@ -8,7 +8,6 @@ extreemrechts.nctv.nl
 feeds.nctv.nl
 feeds.english.nctv.nl
 kennisbankterrorisme.nctv.nl
-lplp.nctv.nl
 magazines.nctv.nl
 nac.nctv.nl
 opendata.nctv.nl
@@ -16,10 +15,12 @@ opendata.english.nctv.nl
 pge.nctv.nl
 privacy.nctv.nl
 radicaalofpuberaal.nctv.nl
-securityzkh.nctv.nl
 symbolenbank.nctv.nl
-toolbox-extremisme.nctv.nl
 www.nctv.nl
 nctv.nl
 dev.kennisbankterrorisme.nctv.nl
 dev.cbrnsecurity.nctv.nl
+lplp.nctv.nl
+securityzkh.nctv.nl
+toolbox-extremisme.nctv.nl
+elearning-lcp-egt.nctv.nl

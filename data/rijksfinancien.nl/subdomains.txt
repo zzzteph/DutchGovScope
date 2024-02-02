@@ -1,10 +1,10 @@
 archief.rijksfinancien.nl
-archief-acc.rijksfinancien.nl
 rbv.rijksfinancien.nl
 rbv-acc.rijksfinancien.nl
 www.rijksfinancien.nl
-www-acc.rijksfinancien.nl
 rijksfinancien.nl
-miljoenennota.rijksfinancien.nl
 evaluaties-acc.rijksfinancien.nl
 evaluaties.rijksfinancien.nl
+archief-acc.rijksfinancien.nl
+www-acc.rijksfinancien.nl
+miljoenennota.rijksfinancien.nl

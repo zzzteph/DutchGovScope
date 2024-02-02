@@ -4,8 +4,8 @@ www.eiti.nl
 eiti.nl
 dataportaal.eiti.nl
 a-feeds.eiti.nl
-a-opendata.eiti.nl
 a-www.eiti.nl
 i-www.eiti.nl
 o-www.eiti.nl
 t-www.eiti.nl
+a-opendata.eiti.nl

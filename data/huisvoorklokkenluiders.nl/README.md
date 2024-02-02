@@ -6,13 +6,14 @@
 
  - **SSL Grade**:
  - **HTTP Security Grade**:A
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:0
 
 
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/huisvoorklokkenluiders.nl/subdomains.txt)|7|Alive subdomains|
 |[urls.txt](/data/huisvoorklokkenluiders.nl/urls.txt)|5|Urls|
-|[all_subdomains.txt](/data/huisvoorklokkenluiders.nl/all_subdomains.txt)|17|All found subdomains (history)|
+|[all_subdomains.txt](/data/huisvoorklokkenluiders.nl/all_subdomains.txt)|21|All found subdomains (history)|
 
 
 ## Statistics

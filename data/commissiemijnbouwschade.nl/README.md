@@ -6,11 +6,12 @@
 
  - **SSL Grade**:A+
  - **HTTP Security Grade**:A
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:0
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/commissiemijnbouwschade.nl/subdomains.txt)|8|Alive subdomains|
+|[subdomains.txt](/data/commissiemijnbouwschade.nl/subdomains.txt)|14|Alive subdomains|
 |[urls.txt](/data/commissiemijnbouwschade.nl/urls.txt)|5|Urls|
 |[all_subdomains.txt](/data/commissiemijnbouwschade.nl/all_subdomains.txt)|15|All found subdomains (history)|
 

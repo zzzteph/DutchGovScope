@@ -1,6 +1,6 @@
 beheer.helpdeskwater.nl
 kennisbank.helpdeskwater.nl
 kennisbanktest.helpdeskwater.nl
-mail.helpdeskwater.nl
 www.helpdeskwater.nl
 helpdeskwater.nl
+mail.helpdeskwater.nl

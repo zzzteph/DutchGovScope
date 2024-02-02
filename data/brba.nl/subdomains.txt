@@ -11,6 +11,6 @@ viep.test.brba.nl
 web.acc.brba.nl
 web.test.brba.nl
 www.brba.nl
-sftp-out.brba.nl
 aanmelden.test.brba.nl
 brba.nl
+sftp-out.brba.nl

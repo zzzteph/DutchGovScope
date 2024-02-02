@@ -1,7 +1,7 @@
-a-feeds.klimaatakkoord.nl
-a-opendata.klimaatakkoord.nl
-a-www.klimaatakkoord.nl
 feeds.klimaatakkoord.nl
 opendata.klimaatakkoord.nl
 www.klimaatakkoord.nl
 klimaatakkoord.nl
+a-feeds.klimaatakkoord.nl
+a-opendata.klimaatakkoord.nl
+a-www.klimaatakkoord.nl

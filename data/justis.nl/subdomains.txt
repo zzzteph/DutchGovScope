@@ -2,7 +2,6 @@ acc.justis.nl
 acc.intranet.justis.nl
 boa.justis.nl
 intranet.justis.nl
-jaarverslag.justis.nl
 mijn.justis.nl
 prod.justis.nl
 test.justis.nl
@@ -11,3 +10,4 @@ vogcheck.justis.nl
 www.justis.nl
 justis.nl
 prod.intranet.justis.nl
+jaarverslag.justis.nl

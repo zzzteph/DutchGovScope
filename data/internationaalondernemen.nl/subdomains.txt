@@ -6,5 +6,3 @@ ww.internationaalondernemen.nl
 internationaalondernemen.nl
 nsi.bgwww.internationaalondernemen.nl
 epp.eurostat.ec.europa.euwww.internationaalondernemen.nl
-mail.internationaalondernemen.nl
-ftp.internationaalondernemen.nl

@@ -6,13 +6,14 @@
 
  - **SSL Grade**:A+
  - **HTTP Security Grade**:A
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:0
 
 
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/arboportaal.nl/subdomains.txt)|7|Alive subdomains|
 |[urls.txt](/data/arboportaal.nl/urls.txt)|4|Urls|
-|[all_subdomains.txt](/data/arboportaal.nl/all_subdomains.txt)|1246|All found subdomains (history)|
+|[all_subdomains.txt](/data/arboportaal.nl/all_subdomains.txt)|27|All found subdomains (history)|
 
 
 ## Statistics

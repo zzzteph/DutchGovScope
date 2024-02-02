@@ -6,13 +6,14 @@
 
  - **SSL Grade**:A
  - **HTTP Security Grade**:B
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:0
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/cbg-meb.nl/subdomains.txt)|30|Alive subdomains|
+|[subdomains.txt](/data/cbg-meb.nl/subdomains.txt)|34|Alive subdomains|
 |[urls.txt](/data/cbg-meb.nl/urls.txt)|15|Urls|
-|[all_subdomains.txt](/data/cbg-meb.nl/all_subdomains.txt)|62|All found subdomains (history)|
+|[all_subdomains.txt](/data/cbg-meb.nl/all_subdomains.txt)|61|All found subdomains (history)|
 
 
 ## Statistics

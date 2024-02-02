@@ -4,12 +4,12 @@ acc.opendata.nederlandwereldwijd.nl
 api.nederlandwereldwijd.nl
 dev.opendata.nederlandwereldwijd.nl
 informatieservice.nederlandwereldwijd.nl
-o2.mail.informatieservice.nederlandwereldwijd.nl
 opendata.nederlandwereldwijd.nl
 preview.nederlandwereldwijd.nl
 prod2.opendata.nederlandwereldwijd.nl
 tst.opendata.nederlandwereldwijd.nl
 www.nederlandwereldwijd.nl
 links.informatieservice.nederlandwereldwijd.nl
-track.nederlandwereldwijd.nl
 nederlandwereldwijd.nl
+o2.mail.informatieservice.nederlandwereldwijd.nl
+track.nederlandwereldwijd.nl

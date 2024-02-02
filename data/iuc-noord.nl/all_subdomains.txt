@@ -1,6 +1,6 @@
+www.iuc-noord.nl
+iuc-noord.nl
 autodiscover.iuc-noord.nl
 lyncdiscover.iuc-noord.nl
 meet.iuc-noord.nl
 sip.iuc-noord.nl
-www.iuc-noord.nl
-iuc-noord.nl

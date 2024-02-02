@@ -1,11 +1,11 @@
 informatielangdurigezorg.nl
 www.informatielangdurigezorg.nl
 feeds.informatielangdurigezorg.nl
-opendata.informatielangdurigezorg.nl
 english.informatielangdurigezorg.nl
 feeds.english.informatielangdurigezorg.nl
 magazines.english.informatielangdurigezorg.nl
-magazines.informatielangdurigezorg.nl
 magazinesintern.english.informatielangdurigezorg.nl
 magazinesintern.informatielangdurigezorg.nl
+opendata.informatielangdurigezorg.nl
+magazines.informatielangdurigezorg.nl
 opendata.english.informatielangdurigezorg.nl

@@ -1,6 +1,6 @@
 www.medicineshortagesdefects.nl
 feeds.medicineshortagesdefects.nl
-magazinesintern.medicineshortagesdefects.nl
-magazines.medicineshortagesdefects.nl
 opendata.medicineshortagesdefects.nl
 medicineshortagesdefects.nl
+magazinesintern.medicineshortagesdefects.nl
+magazines.medicineshortagesdefects.nl

@@ -6,13 +6,14 @@
 
  - **SSL Grade**:A+
  - **HTTP Security Grade**:A
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:0
 
 
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/aivd.nl/subdomains.txt)|20|Alive subdomains|
 |[urls.txt](/data/aivd.nl/urls.txt)|11|Urls|
-|[all_subdomains.txt](/data/aivd.nl/all_subdomains.txt)|42|All found subdomains (history)|
+|[all_subdomains.txt](/data/aivd.nl/all_subdomains.txt)|41|All found subdomains (history)|
 
 
 ## Statistics

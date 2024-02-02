@@ -6,13 +6,14 @@
 
  - **SSL Grade**:
  - **HTTP Security Grade**:A
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:0
 
 
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/verbeterjehuis.nl/subdomains.txt)|4|Alive subdomains|
 |[urls.txt](/data/verbeterjehuis.nl/urls.txt)|4|Urls|
-|[all_subdomains.txt](/data/verbeterjehuis.nl/all_subdomains.txt)|12|All found subdomains (history)|
+|[all_subdomains.txt](/data/verbeterjehuis.nl/all_subdomains.txt)|9|All found subdomains (history)|
 
 
 ## Statistics

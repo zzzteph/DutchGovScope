@@ -10,7 +10,6 @@ dexter.ndw.nu
 diego.ndw.nu
 docs.ndw.nu
 drs.ndw.nu
-dvmservices.ndw.nu
 english.ndw.nu
 faq.ndw.nu
 fbmonitor.ndw.nu
@@ -55,7 +54,6 @@ melvin-acc.staging.ndw.nu
 ndw.nu
 realtime.ndw.nu
 acceptatie-melvin.ndw.nu
-opendata-ref.ndw.nu
 xdev.staging.ndw.nu
 ams-closures.ndw.nu
 karin.ndw.nu
@@ -71,4 +69,6 @@ caas.ndw.nu
 wegkenmerken.staging.ndw.nu
 bereikbaarheid.ndw.nu
 backbone.ndw.nu
+dvmservices.ndw.nu
+opendata-ref.ndw.nu
 stats.ndw.nu

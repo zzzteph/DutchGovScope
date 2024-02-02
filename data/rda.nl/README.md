@@ -6,13 +6,14 @@
 
  - **SSL Grade**:
  - **HTTP Security Grade**:A
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:0
 
 
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/rda.nl/subdomains.txt)|13|Alive subdomains|
 |[urls.txt](/data/rda.nl/urls.txt)|7|Urls|
-|[all_subdomains.txt](/data/rda.nl/all_subdomains.txt)|20|All found subdomains (history)|
+|[all_subdomains.txt](/data/rda.nl/all_subdomains.txt)|19|All found subdomains (history)|
 
 
 ## Statistics

@@ -6,6 +6,7 @@
 
  - **SSL Grade**:
  - **HTTP Security Grade**:B
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:0
 
 
 | File       | Count | Info |
@@ -20,9 +21,9 @@
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://www.aaenmaas.nl](https://www.aaenmaas.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Google Tag Manager HSTS Microsoft ASP.NET:-|Home - Waterscha...|
+|[http://www.aaenmaas.nl](http://www.aaenmaas.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Microsoft ASP.NET:-|Object moved|
 |[https://helloid.aaenmaas.nl](https://helloid.aaenmaas.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |Azure HSTS|Object moved|
-|[https://lync.aaenmaas.nl](https://lync.aaenmaas.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|Application Bloc...|
+|[https://lync.aaenmaas.nl](https://lync.aaenmaas.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|403 - Forbidden:...|
 |[https://maps.aaenmaas.nl](https://maps.aaenmaas.nl)| | **A**|Apache/2.4.57 (Win64) OpenSSL/3.1.2| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server:2.4.57 OpenSSL:3.1.2 Windows Server|302 Found|
 |[http://autodiscover.aaenmaas.nl](http://autodiscover.aaenmaas.nl)| | **B**|Microsoft-IIS/10.0|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server||
 |[https://aaenmaas.nl](https://aaenmaas.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:-|Object moved|

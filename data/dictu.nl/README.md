@@ -6,13 +6,14 @@
 
  - **SSL Grade**:
  - **HTTP Security Grade**:D
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:0
 
 
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/dictu.nl/subdomains.txt)|144|Alive subdomains|
 |[urls.txt](/data/dictu.nl/urls.txt)|73|Urls|
-|[all_subdomains.txt](/data/dictu.nl/all_subdomains.txt)|289|All found subdomains (history)|
+|[all_subdomains.txt](/data/dictu.nl/all_subdomains.txt)|279|All found subdomains (history)|
 
 
 ## Statistics
@@ -30,23 +31,23 @@
 |[https://auth-acc.dictu.nl](https://auth-acc.dictu.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|302 Found|
 |[https://auth-tst.dictu.nl](https://auth-tst.dictu.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS|302 Found|
 |[https://avd.datasluis.dictu.nl](https://avd.datasluis.dictu.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Redirect|
-|[https://avd.webftp.dictu.nl](https://avd.webftp.dictu.nl)| | **E**|| | | | | | | | :white_check_mark: | |Basic|Unauthorized|
+|[https://avd.webftp.dictu.nl](https://avd.webftp.dictu.nl)| | **E**|| | | | | | | | :white_check_mark: | |Basic|Redirect|
 |[https://bpp.datasluis.dictu.nl](https://bpp.datasluis.dictu.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Redirect|
-|[https://bpp.webftp.dictu.nl](https://bpp.webftp.dictu.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Redirect|
+|[https://bpp.webftp.dictu.nl](https://bpp.webftp.dictu.nl)| | **E**|| | | | | | | | :white_check_mark: | |Basic|Redirect|
 |[http://c-pki.dictu.nl](http://c-pki.dictu.nl)| | **F**|Microsoft-IIS/8.5| | | | | | | | :white_check_mark: | |IIS:8.5 Windows Server|c-pki.dictu.nl -...|
 |[http://c-pki-acc.dictu.nl](http://c-pki-acc.dictu.nl)| | **D**|| | | | | | :white_check_mark: | | :white_check_mark: | ||c-pki-acc.dictu....|
 |[http://c-pki.extranet.dictu.nl](http://c-pki.extranet.dictu.nl)| | **F**|Microsoft-IIS/8.5| | | | | | | | :white_check_mark: | |IIS:8.5 Windows Server|c-pki.extranet.d...|
 |[https://cbo.dictu.nl](https://cbo.dictu.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |||
 |[https://cbo-a.dictu.nl](https://cbo-a.dictu.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |||
 |[https://cbo-b.dictu.nl](https://cbo-b.dictu.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |||
-|[https://datasluis.dictu.nl](https://datasluis.dictu.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Basic HSTS|Unauthorized|
+|[https://datasluis.dictu.nl](https://datasluis.dictu.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Redirect|
 |[https://engine.acc.fhub.dictu.nl](https://engine.acc.fhub.dictu.nl)| | **B**|Apache|:warning: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS|dictu - Metadata...|
 |[https://engine.fhub.dictu.nl](https://engine.fhub.dictu.nl)| | **D**|Apache|:warning: |:white_check_mark: | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|dictu - Metadata...|
 |[https://fhub.dictu.nl](https://fhub.dictu.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||
 |[https://gisextern.dictu.nl](https://gisextern.dictu.nl)| | **C**||:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|IIS Windows Serv...|
 |[https://ibabs.dictu.nl](https://ibabs.dictu.nl)| | **C**||:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|Not Found|
 |[https://ibg.datasluis.dictu.nl](https://ibg.datasluis.dictu.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Redirect|
-|[https://ibg.webftp.dictu.nl](https://ibg.webftp.dictu.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Redirect|
+|[https://ibg.webftp.dictu.nl](https://ibg.webftp.dictu.nl)| | **E**|| | | | | | | | :white_check_mark: | |Basic|Redirect|
 |[http://iltbuildserver.dictu.nl](http://iltbuildserver.dictu.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://inkoopplein.dictu.nl](https://inkoopplein.dictu.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
 |[https://inmemoriam.dictu.nl](https://inmemoriam.dictu.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|403 Forbidden|
@@ -90,7 +91,7 @@
 |[https://test-azure06.dictu.nl](https://test-azure06.dictu.nl)| | **F**|nginx/1.19.2| | | | | | | | :white_check_mark: | |Bootstrap:4.1.1 Nginx:1.19.2|Microsoft Azure...|
 |[https://acc.fhub.dictu.nl](https://acc.fhub.dictu.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||
 |[http://pam.dictu.nl](http://pam.dictu.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
-|[https://asb.datasluis.dictu.nl](https://asb.datasluis.dictu.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Redirect|
+|[https://asb.datasluis.dictu.nl](https://asb.datasluis.dictu.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Basic HSTS|Unauthorized|
 |[http://authpms.dictu.nl](http://authpms.dictu.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://authpms-acc.dictu.nl](https://authpms-acc.dictu.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|iBabs - Meet in...|
 

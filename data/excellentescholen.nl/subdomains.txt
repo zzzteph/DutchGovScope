@@ -1,5 +1,5 @@
-a-www.excellentescholen.nl
 feeds.excellentescholen.nl
 opendata.excellentescholen.nl
 www.excellentescholen.nl
 excellentescholen.nl
+a-www.excellentescholen.nl

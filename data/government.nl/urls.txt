@@ -1,9 +1,7 @@
-https://acc.quarantinedeclaration.government.nl
 https://coronadashboard.government.nl
 https://feeds.government.nl
 https://magazines.government.nl
 https://opendata.government.nl
-https://quarantinedeclaration.government.nl
 https://www.government.nl
 https://government.nl
 https://sdg.government.nl

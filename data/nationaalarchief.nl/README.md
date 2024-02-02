@@ -6,13 +6,14 @@
 
  - **SSL Grade**:
  - **HTTP Security Grade**:D
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:0
 
 
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/nationaalarchief.nl/subdomains.txt)|92|Alive subdomains|
 |[urls.txt](/data/nationaalarchief.nl/urls.txt)|3|Urls|
-|[all_subdomains.txt](/data/nationaalarchief.nl/all_subdomains.txt)|183|All found subdomains (history)|
+|[all_subdomains.txt](/data/nationaalarchief.nl/all_subdomains.txt)|180|All found subdomains (history)|
 
 
 ## Statistics

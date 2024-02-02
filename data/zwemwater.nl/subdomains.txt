@@ -1,6 +1,5 @@
 acc.zwemwater.nl
 www.zwemwater.nl
-www2.zwemwater.nl
 zwemwater.nl
 nederlandwww.zwemwater.nl
 ogcgeo.zwemwater.nl
@@ -18,7 +17,4 @@ acc-pub.zwemwater.nl
 pre-pub.zwemwater.nl
 enwww.zwemwater.nl
 zwemlocatieswww.zwemwater.nl
-ftp.zwemwater.nl
-mail.zwemwater.nl
-localhost.zwemwater.nl
-webmail.zwemwater.nl
+www2.zwemwater.nl

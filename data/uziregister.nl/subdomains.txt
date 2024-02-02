@@ -1,5 +1,4 @@
 aanvragen.uziregister.nl
-acc.uziregister.nl
 acceptatie.aanvragen.uziregister.nl
 acceptatie.formulieren.uziregister.nl
 acceptatie.uzipas.uziregister.nl
@@ -9,3 +8,4 @@ opendata.uziregister.nl
 uzipas.uziregister.nl
 www.uziregister.nl
 uziregister.nl
+acc.uziregister.nl

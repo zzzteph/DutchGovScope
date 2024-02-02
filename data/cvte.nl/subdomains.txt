@@ -1,4 +1,3 @@
-a-www.cvte.nl
 examenplein.cvte.nl
 feeds.cvte.nl
 mx2.cvte.nl
@@ -6,3 +5,7 @@ opendata.cvte.nl
 www.cvte.nl
 cvte.nl
 autodiscover.cvte.nl
+a-feeds.cvte.nl
+a-opendata.cvte.nl
+a-www.cvte.nl
+wg.cvte.nl

@@ -6,13 +6,14 @@
 
  - **SSL Grade**:
  - **HTTP Security Grade**:E
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:0
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/perined.nl/subdomains.txt)|20|Alive subdomains|
+|[subdomains.txt](/data/perined.nl/subdomains.txt)|17|Alive subdomains|
 |[urls.txt](/data/perined.nl/urls.txt)|15|Urls|
-|[all_subdomains.txt](/data/perined.nl/all_subdomains.txt)|20|All found subdomains (history)|
+|[all_subdomains.txt](/data/perined.nl/all_subdomains.txt)|17|All found subdomains (history)|
 
 
 ## Statistics
@@ -23,7 +24,7 @@
 |[https://audit.perined.nl](https://audit.perined.nl)| | **F**|nginx|:white_check_mark: | | | | | | :white_check_mark: | :white_check_mark: | |Microsoft ASP.NET Nginx|Perinatale Audit...|
 |[https://eva.perined.nl](https://eva.perined.nl)| | **F**|nginx|:white_check_mark: | | | | | | :white_check_mark: | :white_check_mark: | |Microsoft ASP.NET Nginx|Perinatale Audit...|
 |[https://evaluatieaudit.perined.nl](https://evaluatieaudit.perined.nl)| | **F**|nginx|:white_check_mark: | | | | | | :white_check_mark: | :white_check_mark: | |Microsoft ASP.NET Nginx|Perinatale Audit...|
-|[https://klantpreferentie.perined.nl](https://klantpreferentie.perined.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|Object moved|
+|[https://klantpreferentie.perined.nl](https://klantpreferentie.perined.nl)| | **F**|nginx|:white_check_mark: | | | | | | :white_check_mark: | :white_check_mark: | |Microsoft ASP.NET Nginx|Klantpreferentie...|
 |[https://klantpreferentie2019.perined.nl](https://klantpreferentie2019.perined.nl)| | **F**|Apache/2.4.58 (Amazon Linux) OpenSSL/3.0.8| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.58 HSTS OpenSSL:3.0.8|301 Moved Perman...|
 |[https://lnr.perined.nl](https://lnr.perined.nl)| | **F**|nginx|:white_check_mark: | | | | | | :white_check_mark: | :white_check_mark: | |Microsoft ASP.NET Nginx|LNR2|
 |[https://vragenlijst.perined.nl](https://vragenlijst.perined.nl)| | **E**|nginx| | | | | | | :white_check_mark: | :white_check_mark: | |Nginx||

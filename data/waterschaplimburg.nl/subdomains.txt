@@ -1,5 +1,4 @@
 spapps-t.waterschaplimburg.nl
-testdigikoppeling.waterschaplimburg.nl
 kennis.waterschaplimburg.nl
 waterschaplimburg.nlwww.waterschaplimburg.nl
 viawww.waterschaplimburg.nl
@@ -18,7 +17,6 @@ maps.waterschaplimburg.nl
 opwww.waterschaplimburg.nl
 formulieren-preprod.waterschaplimburg.nl
 waterschaplimburg.nl
-smtp.waterschaplimburg.nl
 sitewww.waterschaplimburg.nl
 formulieren.waterschaplimburg.nl
 gvopsawa-t.waterschaplimburg.nl
@@ -35,3 +33,5 @@ test-eef.waterschaplimburg.nl
 open.waterschaplimburg.nl
 zgw.waterschaplimburg.nl
 100www.waterschaplimburg.nl
+testdigikoppeling.waterschaplimburg.nl
+smtp.waterschaplimburg.nl

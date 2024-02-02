@@ -32,7 +32,6 @@ chatmigrate.pleio.nl
 cip.pleio.nl
 cip.odc.pleio.nl
 commonground.pleio.nl
-coturn.pleio.nl
 cpf.odc.pleio.nl
 datahub.pleio.nl
 dbgb.pleio.nl
@@ -111,8 +110,6 @@ lichamelijkeopvoeding.pleio.nl
 ln-emff.pleio.nl
 localbox.pleio.nl
 locus.pleio.nl
-logger.pleio.nl
-loki.pleio.nl
 loki-internal.pleio.nl
 mail.odc.pleio.nl
 manifestgroep.pleio.nl
@@ -168,7 +165,6 @@ sjabloon2.pleio.nl
 sjabloon3.pleio.nl
 sjabloon4.pleio.nl
 stats.pleio.nl
-stats-restore.pleio.nl
 status.pleio.nl
 statuspage-bridge.pleio.nl
 structuurvisiezh.pleio.nl
@@ -458,4 +454,8 @@ riec-liec-academie.pleio.nl
 mimir-gateway.pleio.nl
 www.integra-levroeghulp.pleio.nl
 levroeghulp.pleio.nl
+coturn.pleio.nl
+stats-restore.pleio.nl
+logger.pleio.nl
+loki.pleio.nl
 aangifteselectie-chat.pleio.nl

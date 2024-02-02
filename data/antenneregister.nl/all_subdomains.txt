@@ -1,9 +1,9 @@
-u003ewww.antenneregister.nl
 antenneregister.nl
-acc.intern.antenneregister.nl
-ont.antenneregister.nl
 acc.antenneregister.nl
-www.acc.antenneregister.nl
 www.antenneregister.nl
+ont.antenneregister.nl
 tst.antenneregister.nl
+www.acc.antenneregister.nl
+u003ewww.antenneregister.nl
+acc.intern.antenneregister.nl
 prd.antenneregister.nl

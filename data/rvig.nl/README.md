@@ -6,11 +6,12 @@
 
  - **SSL Grade**:
  - **HTTP Security Grade**:B
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:0
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/rvig.nl/subdomains.txt)|25|Alive subdomains|
+|[subdomains.txt](/data/rvig.nl/subdomains.txt)|26|Alive subdomains|
 |[urls.txt](/data/rvig.nl/urls.txt)|15|Urls|
 |[all_subdomains.txt](/data/rvig.nl/all_subdomains.txt)|61|All found subdomains (history)|
 

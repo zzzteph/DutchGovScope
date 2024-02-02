@@ -6,13 +6,14 @@
 
  - **SSL Grade**:C
  - **HTTP Security Grade**:C
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:0
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/ctpveldzicht.nl/subdomains.txt)|8|Alive subdomains|
+|[subdomains.txt](/data/ctpveldzicht.nl/subdomains.txt)|12|Alive subdomains|
 |[urls.txt](/data/ctpveldzicht.nl/urls.txt)|8|Urls|
-|[all_subdomains.txt](/data/ctpveldzicht.nl/all_subdomains.txt)|13|All found subdomains (history)|
+|[all_subdomains.txt](/data/ctpveldzicht.nl/all_subdomains.txt)|14|All found subdomains (history)|
 
 
 ## Statistics

@@ -1,6 +1,5 @@
 insite.nfi.nl
 training.nfi.nl
-oshift-testmijn.nfi.nl
 mijn.nfi.nl
 www.nfi.nl
 ontwikkelpunt.nfi.nl
@@ -11,3 +10,4 @@ anyconnect.nfi.nl
 hybrid.nfi.nl
 mailtestmijn.nfi.nl
 autodiscover.nfi.nl
+oshift-testmijn.nfi.nl

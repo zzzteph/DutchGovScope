@@ -1,9 +1,10 @@
-zandbak-cms.crs.gdi.nl
 www.gdi.nl
 test.webplatform.gdi.nl
-acceptatie-cms.crs.gdi.nl
-ontwikkel-cms.crs.gdi.nl
-opleiding-cms.crs.gdi.nl
-test-cms.crs.gdi.nl
 gdi.nl
+test-cms.crs.gdi.nl
+acceptatie-cms.crs.gdi.nl
+zandbak-cms.crs.gdi.nl
+opleiding-cms.crs.gdi.nl
+ontwikkel-cms.crs.gdi.nl
 ptest.gdi.nl
+ws.gdi.nl

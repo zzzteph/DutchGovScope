@@ -5,7 +5,8 @@
 
 
  - **SSL Grade**:
- - **HTTP Security Grade**:B
+ - **HTTP Security Grade**:A
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:0
 
 
 | File       | Count | Info |
@@ -32,6 +33,6 @@
 |[https://opendata.p-direkt.nl](https://opendata.p-direkt.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://www.p-direkt.nl](https://www.p-direkt.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Home | O&P Rijk...|
 |[https://p-direkt.nl](https://p-direkt.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
-|[https://ndev.api.p-direkt.nl](https://ndev.api.p-direkt.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||
-|[https://ndev.api-sec.p-direkt.nl](https://ndev.api-sec.p-direkt.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||
+|[https://ndev.api.p-direkt.nl](https://ndev.api.p-direkt.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
+|[https://ndev.api-sec.p-direkt.nl](https://ndev.api-sec.p-direkt.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 

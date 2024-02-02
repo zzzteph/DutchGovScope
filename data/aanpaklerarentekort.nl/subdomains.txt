@@ -2,3 +2,6 @@ feeds.aanpaklerarentekort.nl
 opendata.aanpaklerarentekort.nl
 www.aanpaklerarentekort.nl
 aanpaklerarentekort.nl
+a-opendata.aanpaklerarentekort.nl
+a-www.aanpaklerarentekort.nl
+a-feeds.aanpaklerarentekort.nl

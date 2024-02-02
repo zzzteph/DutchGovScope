@@ -6,11 +6,12 @@
 
  - **SSL Grade**:A+
  - **HTTP Security Grade**:A
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:0
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/campagnetoolkits.nl/subdomains.txt)|5|Alive subdomains|
+|[subdomains.txt](/data/campagnetoolkits.nl/subdomains.txt)|10|Alive subdomains|
 |[urls.txt](/data/campagnetoolkits.nl/urls.txt)|4|Urls|
 |[all_subdomains.txt](/data/campagnetoolkits.nl/all_subdomains.txt)|17|All found subdomains (history)|
 

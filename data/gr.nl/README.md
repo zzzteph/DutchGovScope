@@ -6,13 +6,14 @@
 
  - **SSL Grade**:A+
  - **HTTP Security Grade**:A
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:0
 
 
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/gr.nl/subdomains.txt)|4|Alive subdomains|
 |[urls.txt](/data/gr.nl/urls.txt)|2|Urls|
-|[all_subdomains.txt](/data/gr.nl/all_subdomains.txt)|9|All found subdomains (history)|
+|[all_subdomains.txt](/data/gr.nl/all_subdomains.txt)|10|All found subdomains (history)|
 
 
 ## Statistics

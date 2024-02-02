@@ -6,13 +6,14 @@
 
  - **SSL Grade**:
  - **HTTP Security Grade**:A
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:0
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/lzalp.nl/subdomains.txt)|5|Alive subdomains|
-|[urls.txt](/data/lzalp.nl/urls.txt)|4|Urls|
-|[all_subdomains.txt](/data/lzalp.nl/all_subdomains.txt)|14|All found subdomains (history)|
+|[subdomains.txt](/data/lzalp.nl/subdomains.txt)|2|Alive subdomains|
+|[urls.txt](/data/lzalp.nl/urls.txt)|2|Urls|
+|[all_subdomains.txt](/data/lzalp.nl/all_subdomains.txt)|13|All found subdomains (history)|
 
 
 ## Statistics
@@ -20,8 +21,6 @@
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://feeds.lzalp.nl](https://feeds.lzalp.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
-|[https://opendata.lzalp.nl](https://opendata.lzalp.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
-|[https://www.lzalp.nl](https://www.lzalp.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Home | LZA-LP, L...|
-|[https://lzalp.nl](https://lzalp.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
+|[https://www.lzalp.nl](https://www.lzalp.nl)| | **A**|Microsoft-IIS/10.0| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS IIS:10.0 Windows Server|Document Moved|
+|[https://lzalp.nl](https://lzalp.nl)| | **A**|Microsoft-IIS/10.0| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS IIS:10.0 Windows Server|Document Moved|
 

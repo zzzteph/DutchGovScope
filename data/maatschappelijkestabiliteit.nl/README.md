@@ -6,11 +6,12 @@
 
  - **SSL Grade**:
  - **HTTP Security Grade**:F
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:0
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/maatschappelijkestabiliteit.nl/subdomains.txt)|0|Alive subdomains|
+|[subdomains.txt](/data/maatschappelijkestabiliteit.nl/subdomains.txt)|2|Alive subdomains|
 |[urls.txt](/data/maatschappelijkestabiliteit.nl/urls.txt)|0|Urls|
 |[all_subdomains.txt](/data/maatschappelijkestabiliteit.nl/all_subdomains.txt)|2|All found subdomains (history)|
 

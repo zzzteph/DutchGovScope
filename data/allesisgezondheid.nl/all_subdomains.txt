@@ -2,4 +2,3 @@ acc.allesisgezondheid.nl
 test.allesisgezondheid.nl
 www.allesisgezondheid.nl
 allesisgezondheid.nl
-spfyard.allesisgezondheid.nl

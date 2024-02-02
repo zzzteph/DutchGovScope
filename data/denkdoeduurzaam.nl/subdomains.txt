@@ -2,3 +2,6 @@ feeds.denkdoeduurzaam.nl
 opendata.denkdoeduurzaam.nl
 www.denkdoeduurzaam.nl
 denkdoeduurzaam.nl
+a-feeds.denkdoeduurzaam.nl
+a-opendata.denkdoeduurzaam.nl
+a-www.denkdoeduurzaam.nl

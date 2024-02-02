@@ -134,6 +134,7 @@ https://neptunus.databank.nl
 https://gemeente.databank.nl
 https://ftgelderiand.databank.nl
 https://www.amsterdam.rosopen.databank.nl
+https://test-mbotransparant.databank.nl
 https://dd.databank.nl
 https://00klimaatmonitor.databank.nl
 https://beta-adc.databank.nl

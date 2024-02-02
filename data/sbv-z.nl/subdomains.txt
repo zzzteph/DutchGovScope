@@ -1,6 +1,3 @@
-a-feeds.sbv-z.nl
-a-opendata.sbv-z.nl
-a-www.sbv-z.nl
 acceptatie.behandel.sbv-z.nl
 feeds.sbv-z.nl
 opendata.sbv-z.nl
@@ -13,3 +10,6 @@ webservice-preprod.sbv-z.nl
 www.sbv-z.nl
 behandel.sbv-z.nl
 sbv-z.nl
+a-feeds.sbv-z.nl
+a-opendata.sbv-z.nl
+a-www.sbv-z.nl

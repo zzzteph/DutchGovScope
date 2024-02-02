@@ -4,13 +4,13 @@ https://subsidies.noord-holland.nl
 https://meet.noord-holland.nl
 https://data.noord-holland.nl
 http://zoeken.noord-holland.nl
-https://dataiku.noord-holland.nl
+http://dataiku.noord-holland.nl
 https://esm.noord-holland.nl
 https://api.data.noord-holland.nl
 https://statensite.noord-holland.nl
 https://formulieren.noord-holland.nl
 https://developer.noord-holland.nl
-https://design-node.datalab-prod.aws.noord-holland.nl
+http://design-node.datalab-prod.aws.noord-holland.nl
 https://sva-a8a9.noord-holland.nl
 https://geoapps2.noord-holland.nl
 https://leidraadlc.noord-holland.nl

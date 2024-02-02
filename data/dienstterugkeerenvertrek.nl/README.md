@@ -6,13 +6,14 @@
 
  - **SSL Grade**:A+
  - **HTTP Security Grade**:A
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:0
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/dienstterugkeerenvertrek.nl/subdomains.txt)|9|Alive subdomains|
+|[subdomains.txt](/data/dienstterugkeerenvertrek.nl/subdomains.txt)|13|Alive subdomains|
 |[urls.txt](/data/dienstterugkeerenvertrek.nl/urls.txt)|8|Urls|
-|[all_subdomains.txt](/data/dienstterugkeerenvertrek.nl/all_subdomains.txt)|16|All found subdomains (history)|
+|[all_subdomains.txt](/data/dienstterugkeerenvertrek.nl/all_subdomains.txt)|14|All found subdomains (history)|
 
 
 ## Statistics

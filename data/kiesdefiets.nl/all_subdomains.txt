@@ -1,5 +1,5 @@
-feeds.kiesdefiets.nl
-opendata.kiesdefiets.nl
-toolkit.kiesdefiets.nl
 www.kiesdefiets.nl
 kiesdefiets.nl
+toolkit.kiesdefiets.nl
+opendata.kiesdefiets.nl
+feeds.kiesdefiets.nl

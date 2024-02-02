@@ -4,9 +4,6 @@ feeds.postedworkers.nl
 feeds.deutsch.postedworkers.nl
 feeds.english.postedworkers.nl
 meldloket.postedworkers.nl
-meldloket-acc.postedworkers.nl
-meldloket-pa.postedworkers.nl
-meldloket-test.postedworkers.nl
 myidp.postedworkers.nl
 myidp-acc.postedworkers.nl
 opendata.postedworkers.nl
@@ -15,4 +12,6 @@ opendata.english.postedworkers.nl
 www.postedworkers.nl
 postedworkers.nl
 url6099.mail.postedworkers.nl
-o1.ptr2462.mail.postedworkers.nl
+meldloket-acc.postedworkers.nl
+meldloket-pa.postedworkers.nl
+meldloket-test.postedworkers.nl

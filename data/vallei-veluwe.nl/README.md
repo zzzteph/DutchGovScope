@@ -6,13 +6,14 @@
 
  - **SSL Grade**:
  - **HTTP Security Grade**:A
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:0
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/vallei-veluwe.nl/subdomains.txt)|17|Alive subdomains|
+|[subdomains.txt](/data/vallei-veluwe.nl/subdomains.txt)|15|Alive subdomains|
 |[urls.txt](/data/vallei-veluwe.nl/urls.txt)|11|Urls|
-|[all_subdomains.txt](/data/vallei-veluwe.nl/all_subdomains.txt)|47|All found subdomains (history)|
+|[all_subdomains.txt](/data/vallei-veluwe.nl/all_subdomains.txt)|44|All found subdomains (history)|
 
 
 ## Statistics

@@ -1,11 +1,11 @@
+www.rijksictstage.nl
+rijksictstage.nl
+opendata.rijksictstage.nl
 feeds.english.rijksictstage.nl
 magazines.english.rijksictstage.nl
 opendata.english.rijksictstage.nl
-www.rijksictstage.nl
-english.rijksictstage.nl
 feeds.rijksictstage.nl
+english.rijksictstage.nl
 magazinesintern.english.rijksictstage.nl
 magazinesintern.rijksictstage.nl
 magazines.rijksictstage.nl
-opendata.rijksictstage.nl
-rijksictstage.nl

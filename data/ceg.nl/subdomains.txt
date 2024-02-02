@@ -8,3 +8,6 @@ www.testsite.ceg.nl
 smtp.ceg.nl
 ftp.ceg.nl
 pop.ceg.nl
+a-feeds.ceg.nl
+a-opendata.ceg.nl
+a-www.ceg.nl

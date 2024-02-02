@@ -6,13 +6,14 @@
 
  - **SSL Grade**:
  - **HTTP Security Grade**:A
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:0
 
 
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/ssc-ictspecials.nl/subdomains.txt)|3|Alive subdomains|
 |[urls.txt](/data/ssc-ictspecials.nl/urls.txt)|3|Urls|
-|[all_subdomains.txt](/data/ssc-ictspecials.nl/all_subdomains.txt)|9|All found subdomains (history)|
+|[all_subdomains.txt](/data/ssc-ictspecials.nl/all_subdomains.txt)|8|All found subdomains (history)|
 
 
 ## Statistics

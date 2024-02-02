@@ -6,13 +6,14 @@
 
  - **SSL Grade**:A
  - **HTTP Security Grade**:A
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:0
 
 
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/diergeneeskunderegister.nl/subdomains.txt)|15|Alive subdomains|
 |[urls.txt](/data/diergeneeskunderegister.nl/urls.txt)|12|Urls|
-|[all_subdomains.txt](/data/diergeneeskunderegister.nl/all_subdomains.txt)|39|All found subdomains (history)|
+|[all_subdomains.txt](/data/diergeneeskunderegister.nl/all_subdomains.txt)|35|All found subdomains (history)|
 
 
 ## Statistics

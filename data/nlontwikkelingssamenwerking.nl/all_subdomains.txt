@@ -1,7 +1,4 @@
 acc.nlontwikkelingssamenwerking.nl
-acceptatie.nlontwikkelingssamenwerking.nl
 dev.nlontwikkelingssamenwerking.nl
-prod2.nlontwikkelingssamenwerking.nl
 tst.nlontwikkelingssamenwerking.nl
 www.nlontwikkelingssamenwerking.nl
-nlontwikkelingssamenwerking.nl

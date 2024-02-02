@@ -1,4 +1,3 @@
-login.acc.mijncn.nl
 www.mijncn.nl
 papiamentu.mijncn.nl
 feeds.english.mijncn.nl
@@ -11,3 +10,4 @@ opendata.mijncn.nl
 opendata.english.mijncn.nl
 mijncn.nl
 i-login.mijncn.nl
+login.acc.mijncn.nl

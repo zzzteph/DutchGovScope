@@ -7,5 +7,3 @@ nwww.meldknop.nl
 shai.meldknop.nl
 ftpadmin1.meldknop.nl
 mobielwww.meldknop.nl
-ftp.meldknop.nl
-autodiscover.meldknop.nl

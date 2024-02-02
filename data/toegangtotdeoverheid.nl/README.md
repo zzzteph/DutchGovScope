@@ -6,6 +6,7 @@
 
  - **SSL Grade**:
  - **HTTP Security Grade**:D
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:0
 
 
 | File       | Count | Info |
@@ -21,7 +22,7 @@
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[http://irma.toegangtotdeoverheid.nl](http://irma.toegangtotdeoverheid.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
-|[https://irma.tst.toegangtotdeoverheid.nl](https://irma.tst.toegangtotdeoverheid.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|A-Select Filter...|
-|[https://tst.toegangtotdeoverheid.nl](https://tst.toegangtotdeoverheid.nl)| | **A**|N.A.|:warning: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS|foutmelding|
+|[http://irma.tst.toegangtotdeoverheid.nl](http://irma.tst.toegangtotdeoverheid.nl)| | **E**|| | | | | | | | :white_check_mark: | |Apache HTTP Server||
+|[http://tst.toegangtotdeoverheid.nl](http://tst.toegangtotdeoverheid.nl)| | **A**||:warning: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS||
 |[http://toegangtotdeoverheid.nl](http://toegangtotdeoverheid.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 

@@ -1,7 +1,7 @@
-www.formatie.regering.nl
-search.regering.nl
-nieuwsbrief.regering.nl
 www.regering.nl
 regering.nl
-formatie.regering.nl
+nieuwsbrief.regering.nl
 cgi.regering.nl
+formatie.regering.nl
+www.formatie.regering.nl
+search.regering.nl

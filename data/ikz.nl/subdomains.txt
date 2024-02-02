@@ -1,6 +1,3 @@
-a-feeds.ikz.nl
-a-opendata.ikz.nl
-a-www.ikz.nl
 connect.ikz.nl
 feeds.ikz.nl
 opendata.ikz.nl
@@ -8,3 +5,6 @@ vpzf.ikz.nl
 www.ikz.nl
 ikz.nl
 mta-sts.ikz.nl
+a-opendata.ikz.nl
+a-www.ikz.nl
+a-feeds.ikz.nl

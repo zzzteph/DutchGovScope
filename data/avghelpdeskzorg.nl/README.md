@@ -6,13 +6,14 @@
 
  - **SSL Grade**:A+
  - **HTTP Security Grade**:A
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:0
 
 
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/avghelpdeskzorg.nl/subdomains.txt)|7|Alive subdomains|
 |[urls.txt](/data/avghelpdeskzorg.nl/urls.txt)|4|Urls|
-|[all_subdomains.txt](/data/avghelpdeskzorg.nl/all_subdomains.txt)|22|All found subdomains (history)|
+|[all_subdomains.txt](/data/avghelpdeskzorg.nl/all_subdomains.txt)|21|All found subdomains (history)|
 
 
 ## Statistics

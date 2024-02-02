@@ -1,11 +1,11 @@
-autodiscover.inspectie-oe.nl
-brs.inspectie-oe.nl
 english.inspectie-oe.nl
 feeds.inspectie-oe.nl
 feeds.english.inspectie-oe.nl
-lyncdiscover.inspectie-oe.nl
 opendata.inspectie-oe.nl
 opendata.english.inspectie-oe.nl
-sip.inspectie-oe.nl
 www.inspectie-oe.nl
 inspectie-oe.nl
+autodiscover.inspectie-oe.nl
+brs.inspectie-oe.nl
+lyncdiscover.inspectie-oe.nl
+sip.inspectie-oe.nl

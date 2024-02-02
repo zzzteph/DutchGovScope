@@ -6,13 +6,14 @@
 
  - **SSL Grade**:
  - **HTTP Security Grade**:C
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:0
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/allesoversport.nl/subdomains.txt)|10|Alive subdomains|
+|[subdomains.txt](/data/allesoversport.nl/subdomains.txt)|9|Alive subdomains|
 |[urls.txt](/data/allesoversport.nl/urls.txt)|9|Urls|
-|[all_subdomains.txt](/data/allesoversport.nl/all_subdomains.txt)|11|All found subdomains (history)|
+|[all_subdomains.txt](/data/allesoversport.nl/all_subdomains.txt)|10|All found subdomains (history)|
 
 
 ## Statistics
@@ -21,7 +22,7 @@
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[https://auteurs.allesoversport.nl](https://auteurs.allesoversport.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS MySQL PHP Varnish:6.2 WordPress Yoast SEO:20.13|Home - Kenniscen...|
-|[https://mail.allesoversport.nl](https://mail.allesoversport.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS Varnish:6.2|Default site|
+|[https://mail.allesoversport.nl](https://mail.allesoversport.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS Varnish|Default site|
 |[https://o306.allesoversport.nl](https://o306.allesoversport.nl)| | **F**||:o: | | | | | | | :white_check_mark: | |Amazon ALB Amazon CloudFront Amazon Web Services|Error 404|
 |[https://repo.allesoversport.nl](https://repo.allesoversport.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS PHP|Redirecting to /...|
 |[https://sportakkoord.allesoversport.nl](https://sportakkoord.allesoversport.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Varnish:6.2|302 Found|

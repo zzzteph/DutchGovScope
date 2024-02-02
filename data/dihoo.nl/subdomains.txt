@@ -3,3 +3,6 @@ opendata.dihoo.nl
 www.dihoo.nl
 dihoo.nl
 mail.dihoo.nl
+a-feeds.dihoo.nl
+a-opendata.dihoo.nl
+a-www.dihoo.nl

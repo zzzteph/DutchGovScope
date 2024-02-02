@@ -50,7 +50,6 @@ locatievalkenburg.mett.nl
 log.mett.nl
 login.mett.nl
 lokaalklimaatbeleid.mett.nl
-mail.mett.nl
 mail.dnshulp.mett.nl
 mail.fotoapplicatie.mett.nl
 mapviewer.mett.nl
@@ -82,18 +81,15 @@ rudlimburgnoord.mett.nl
 ruimdenkers.mett.nl
 ruimtelijkmanagement.mett.nl
 samen14.mett.nl
-sitemail.mett.nl
 sitemail2.mett.nl
 slimmeengezondestad.mett.nl
 sociaaldomeinnoordholland.mett.nl
 sociaaldomeinsoest.mett.nl
 spookfiles.mett.nl
 sportgelderland.mett.nl
-sslvpn.mett.nl
 ssnt.mett.nl
 stadswerk.mett.nl
 stadvandezon.mett.nl
-store.mett.nl
 support.mett.nl
 svb-bgt.mett.nl
 svp.mett.nl
@@ -352,3 +348,9 @@ nad.mett.nl
 vindpaleislofen.mett.nl
 energiehout.mett.nl
 bio-enerco.mett.nl
+mail.mett.nl
+regiohoogeland.demo.mett.nl
+store.mett.nl
+bequan.demo.mett.nl
+sitemail.mett.nl
+sslvpn.mett.nl

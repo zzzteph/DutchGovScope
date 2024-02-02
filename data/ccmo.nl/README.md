@@ -6,13 +6,14 @@
 
  - **SSL Grade**:A+
  - **HTTP Security Grade**:A
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:0
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/ccmo.nl/subdomains.txt)|10|Alive subdomains|
+|[subdomains.txt](/data/ccmo.nl/subdomains.txt)|17|Alive subdomains|
 |[urls.txt](/data/ccmo.nl/urls.txt)|8|Urls|
-|[all_subdomains.txt](/data/ccmo.nl/all_subdomains.txt)|19|All found subdomains (history)|
+|[all_subdomains.txt](/data/ccmo.nl/all_subdomains.txt)|21|All found subdomains (history)|
 
 
 ## Statistics

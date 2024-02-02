@@ -1,4 +1,3 @@
-mailfilter01.rekenkamer.nl
 rekenkamer.nl
 coronarekening.rekenkamer.nl
 english.rekenkamer.nl
@@ -7,7 +6,6 @@ feeds.rekenkamer.nl
 opendata.english.rekenkamer.nl
 opendata.rekenkamer.nl
 www.rekenkamer.nl
-sslvpn.rekenkamer.nl
 fileshare.rekenkamer.nl
 werkplek.rekenkamer.nl
 a-english.rekenkamer.nl
@@ -16,7 +14,9 @@ a-feeds.rekenkamer.nl
 a-opendata.a-english.rekenkamer.nl
 a-opendata.rekenkamer.nl
 a-www.rekenkamer.nl
-ns1.rekenkamer.nl
 autodiscover.rekenkamer.nl
 hybridmail.rekenkamer.nl
 webmail.rekenkamer.nl
+mailfilter01.rekenkamer.nl
+ns1.rekenkamer.nl
+sslvpn.rekenkamer.nl

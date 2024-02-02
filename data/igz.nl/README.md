@@ -5,14 +5,15 @@
 
 
  - **SSL Grade**:
- - **HTTP Security Grade**:A
+ - **HTTP Security Grade**:B
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:0
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/igz.nl/subdomains.txt)|9|Alive subdomains|
-|[urls.txt](/data/igz.nl/urls.txt)|2|Urls|
-|[all_subdomains.txt](/data/igz.nl/all_subdomains.txt)|10|All found subdomains (history)|
+|[subdomains.txt](/data/igz.nl/subdomains.txt)|10|Alive subdomains|
+|[urls.txt](/data/igz.nl/urls.txt)|3|Urls|
+|[all_subdomains.txt](/data/igz.nl/all_subdomains.txt)|11|All found subdomains (history)|
 
 
 ## Statistics
@@ -22,4 +23,5 @@
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[https://www.igz.nl](https://www.igz.nl)| | **A**|Microsoft-IIS/10.0| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS IIS:10.0 Windows Server|Document Moved|
 |[https://igz.nl](https://igz.nl)| | **A**|Microsoft-IIS/10.0| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS IIS:10.0 Windows Server|Document Moved|
+|[https://onderhoud.igz.nl](https://onderhoud.igz.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
 

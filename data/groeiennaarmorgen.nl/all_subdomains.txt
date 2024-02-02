@@ -2,7 +2,9 @@ opendata.groeiennaarmorgen.nl
 www.groeiennaarmorgen.nl
 feeds.groeiennaarmorgen.nl
 groeiennaarmorgen.nl
-a-www.groeiennaarmorgen.nl
 a-feeds.groeiennaarmorgen.nl
+a-opendata.groeiennaarmorgen.nl
+a-www.groeiennaarmorgen.nl
+i-www.groeiennaarmorgen.nl
 o-www.groeiennaarmorgen.nl
 t-www.groeiennaarmorgen.nl

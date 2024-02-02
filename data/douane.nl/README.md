@@ -6,13 +6,14 @@
 
  - **SSL Grade**:A+
  - **HTTP Security Grade**:B
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:0
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/douane.nl/subdomains.txt)|21|Alive subdomains|
+|[subdomains.txt](/data/douane.nl/subdomains.txt)|20|Alive subdomains|
 |[urls.txt](/data/douane.nl/urls.txt)|13|Urls|
-|[all_subdomains.txt](/data/douane.nl/all_subdomains.txt)|40|All found subdomains (history)|
+|[all_subdomains.txt](/data/douane.nl/all_subdomains.txt)|34|All found subdomains (history)|
 
 
 ## Statistics

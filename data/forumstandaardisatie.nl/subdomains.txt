@@ -5,4 +5,3 @@ test-dictu.forumstandaardisatie.nl
 www.forumstandaardisatie.nl
 forumstandaardisatie.nl
 sip.forumstandaardisatie.nl
-sdm.forumstandaardisatie.nl

@@ -1,11 +1,11 @@
-sip.nrgd.nl
-nieuwsbrieven.nrgd.nl
 feeds.english.nrgd.nl
 opendata.english.nrgd.nl
 opendata.nrgd.nl
-forum.nrgd.nl
 www.nrgd.nl
 feeds.nrgd.nl
-webservice.nrgd.nl
 english.nrgd.nl
 nrgd.nl
+sip.nrgd.nl
+forum.nrgd.nl
+nieuwsbrieven.nrgd.nl
+webservice.nrgd.nl

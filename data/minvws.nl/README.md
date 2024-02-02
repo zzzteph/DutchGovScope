@@ -6,13 +6,14 @@
 
  - **SSL Grade**:
  - **HTTP Security Grade**:B
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:0
 
 
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/minvws.nl/subdomains.txt)|29|Alive subdomains|
 |[urls.txt](/data/minvws.nl/urls.txt)|11|Urls|
-|[all_subdomains.txt](/data/minvws.nl/all_subdomains.txt)|59|All found subdomains (history)|
+|[all_subdomains.txt](/data/minvws.nl/all_subdomains.txt)|58|All found subdomains (history)|
 
 
 ## Statistics

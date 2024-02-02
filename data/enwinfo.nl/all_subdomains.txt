@@ -1,4 +1,3 @@
-mail.enwinfo.nl
 www.enwinfo.nl
 enwinfo.nl
 server01.enwinfo.nl

@@ -1,4 +1,4 @@
-acc.overvaccineren.nl
 overvaccineren.nl
 www.overvaccineren.nl
+acc.overvaccineren.nl
 www.acc.overvaccineren.nl

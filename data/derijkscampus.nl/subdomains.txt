@@ -1,6 +1,8 @@
-a-www.derijkscampus.nl
 feeds.derijkscampus.nl
 opendata.derijkscampus.nl
 www.derijkscampus.nl
 derijkscampus.nl
 online.derijkscampus.nl
+a-www.derijkscampus.nl
+a-feeds.derijkscampus.nl
+a-opendata.derijkscampus.nl

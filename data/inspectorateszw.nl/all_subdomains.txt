@@ -1,11 +1,11 @@
-a-feeds.inspectorateszw.nl
+www.inspectorateszw.nl
+inspectorateszw.nl
+feeds.inspectorateszw.nl
 a-magazines.inspectorateszw.nl
 a-magazinesintern.inspectorateszw.nl
-a-opendata.inspectorateszw.nl
 a-www.inspectorateszw.nl
-feeds.inspectorateszw.nl
+a-opendata.inspectorateszw.nl
+a-feeds.inspectorateszw.nl
 magazines.inspectorateszw.nl
 magazinesintern.inspectorateszw.nl
 opendata.inspectorateszw.nl
-www.inspectorateszw.nl
-inspectorateszw.nl

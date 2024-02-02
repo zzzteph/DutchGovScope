@@ -1,11 +1,11 @@
+feeds.koninklijkhuis.nl
+opendata.koninklijkhuis.nl
+www.koninklijkhuis.nl
+koninklijkhuis.nl
 a-feeds.koninklijkhuis.nl
 a-opendata.koninklijkhuis.nl
 a-www.koninklijkhuis.nl
-accreditatie.koninklijkhuis.nl
-feeds.koninklijkhuis.nl
 i-www.koninklijkhuis.nl
 o-www.koninklijkhuis.nl
-opendata.koninklijkhuis.nl
 t-www.koninklijkhuis.nl
-www.koninklijkhuis.nl
-koninklijkhuis.nl
+accreditatie.koninklijkhuis.nl

@@ -3,13 +3,11 @@ mail.odmh.nl
 preprodformulieren.odmh.nl
 digikoppelingtest.odmh.nl
 kaarten.odmh.nl
-digikoppeling.odmh.nl
 www.odmh.nl
 bkk.odmh.nl
 formulieren.odmh.nl
 zaaksysteem.odmh.nl
 vacatures.odmh.nl
-access.odmh.nl
 constructiestukken.odmh.nl
 odmh.nl
 redactie.odmh.nl
@@ -18,5 +16,7 @@ odin.odmh.nl
 zaaksysteem-acc.odmh.nl
 meldingwd.odmh.nl
 meldingbwt.odmh.nl
-core.odmh.nl
 geluidskaart.odmh.nl
+digikoppeling.odmh.nl
+access.odmh.nl
+core.odmh.nl

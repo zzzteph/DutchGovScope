@@ -1,6 +1,6 @@
 acceptatie.zwdelta.nl
-mail2.zwdelta.nl
 platform.zwdelta.nl
 www.zwdelta.nl
 www.platform.zwdelta.nl
 zwdelta.nl
+mail2.zwdelta.nl

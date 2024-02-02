@@ -6,13 +6,14 @@
 
  - **SSL Grade**:
  - **HTTP Security Grade**:B
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:0
 
 
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/nvwa.nl/subdomains.txt)|47|Alive subdomains|
 |[urls.txt](/data/nvwa.nl/urls.txt)|38|Urls|
-|[all_subdomains.txt](/data/nvwa.nl/all_subdomains.txt)|69|All found subdomains (history)|
+|[all_subdomains.txt](/data/nvwa.nl/all_subdomains.txt)|65|All found subdomains (history)|
 
 
 ## Statistics
@@ -24,7 +25,7 @@
 |[https://acc2.inspectieresultaten.nvwa.nl](https://acc2.inspectieresultaten.nvwa.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Basic Nginx|401 Authorizatio...|
 |[https://demo-nvwa.nvwa.nl](https://demo-nvwa.nvwa.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Basic Nginx|401 Authorizatio...|
 |[https://e-certnl.nvwa.nl](https://e-certnl.nvwa.nl)| | **B**||:white_check_mark: |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | |HSTS|Index of /|
-|[https://e-certnl-acc.nvwa.nl](https://e-certnl-acc.nvwa.nl)| | **B**||:white_check_mark: |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | |HSTS|Index of /|
+|[https://e-certnl-acc.nvwa.nl](https://e-certnl-acc.nvwa.nl)| | **B**||:white_check_mark: |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | |HSTS|Hello World!|
 |[https://english.nvwa.nl](https://english.nvwa.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Home | NVWA-Engl...|
 |[https://feeds.nvwa.nl](https://feeds.nvwa.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://feeds.english.nvwa.nl](https://feeds.english.nvwa.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||

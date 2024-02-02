@@ -6,13 +6,14 @@
 
  - **SSL Grade**:A
  - **HTTP Security Grade**:A
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:0
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/belastingdienst-cn.nl/subdomains.txt)|13|Alive subdomains|
+|[subdomains.txt](/data/belastingdienst-cn.nl/subdomains.txt)|20|Alive subdomains|
 |[urls.txt](/data/belastingdienst-cn.nl/urls.txt)|13|Urls|
-|[all_subdomains.txt](/data/belastingdienst-cn.nl/all_subdomains.txt)|28|All found subdomains (history)|
+|[all_subdomains.txt](/data/belastingdienst-cn.nl/all_subdomains.txt)|27|All found subdomains (history)|
 
 
 ## Statistics

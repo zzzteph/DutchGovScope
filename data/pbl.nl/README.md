@@ -6,13 +6,14 @@
 
  - **SSL Grade**:
  - **HTTP Security Grade**:B
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:0
 
 
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/pbl.nl/subdomains.txt)|40|Alive subdomains|
 |[urls.txt](/data/pbl.nl/urls.txt)|20|Urls|
-|[all_subdomains.txt](/data/pbl.nl/all_subdomains.txt)|79|All found subdomains (history)|
+|[all_subdomains.txt](/data/pbl.nl/all_subdomains.txt)|78|All found subdomains (history)|
 
 
 ## Statistics

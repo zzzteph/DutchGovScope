@@ -2,13 +2,13 @@ data.emissieregistratie.nl
 data-acceptatie.emissieregistratie.nl
 data-preview.emissieregistratie.nl
 data-previewnext.emissieregistratie.nl
-data-test.emissieregistratie.nl
 data2.emissieregistratie.nl
-er-extra.emissieregistratie.nl
 eracceptatie.emissieregistratie.nl
 legacy.emissieregistratie.nl
 legacy2.emissieregistratie.nl
 previewnext.emissieregistratie.nl
-productie.emissieregistratie.nl
 www.emissieregistratie.nl
 emissieregistratie.nl
+er-extra.emissieregistratie.nl
+productie.emissieregistratie.nl
+data-test.emissieregistratie.nl

@@ -65,7 +65,7 @@ https://login-dev.dnb.nl
 https://mijnresolutie.azure.dnb.nl
 https://dkeservice.dnb.nl
 https://dlo.dnb.nl
-https://mijn.dnb.nl
+http://mijn.dnb.nl
 https://pmhdsk-ci.dnb.nl
 https://projects.sharepoint.dnb.nl
 https://docs.riks-ci.azure.dnb.nl
@@ -102,6 +102,6 @@ https://api-tzkalender-dev.dnb.nl
 https://mijnatm.azure.dnb.nl
 https://tzpubliekscontact-dev.dnb.nl
 https://tzpubliekscontact-tst.dnb.nl
-https://api-tzpubliekscontact-dev.dnb.nl
 https://tzpubliekscontact-acc.dnb.nl
 https://tzpubliekscontact.dnb.nl
+https://atender.dnb.nl

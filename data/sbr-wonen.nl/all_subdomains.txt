@@ -3,12 +3,12 @@ dpi.sbr-wonen.nl
 dpi-acc.sbr-wonen.nl
 hostmaster.sbr-wonen.nl
 servicedesk.sbr-wonen.nl
-srv1.sbr-wonen.nl
 wozvalidatie.sbr-wonen.nl
 www.sbr-wonen.nl
-www.definities.sbr-wonen.nl
-www.wozvalidatie.sbr-wonen.nl
 hulpsheet.sbr-wonen.nl
 sbr-wonen.nl
 abm.sbr-wonen.nl
 dvi.sbr-wonen.nl
+www.definities.sbr-wonen.nl
+www.wozvalidatie.sbr-wonen.nl
+srv1.sbr-wonen.nl

@@ -6,13 +6,14 @@
 
  - **SSL Grade**:
  - **HTTP Security Grade**:F
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:0
 
 
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/mobilitylab.nl/subdomains.txt)|2|Alive subdomains|
 |[urls.txt](/data/mobilitylab.nl/urls.txt)|2|Urls|
-|[all_subdomains.txt](/data/mobilitylab.nl/all_subdomains.txt)|4|All found subdomains (history)|
+|[all_subdomains.txt](/data/mobilitylab.nl/all_subdomains.txt)|3|All found subdomains (history)|
 
 
 ## Statistics

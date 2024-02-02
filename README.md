@@ -37,12 +37,18 @@ In the [`/data`](/data) directory, there's an analysis of security configuration
  - **RP:** :white_check_mark: if *Referrer-Policy* header is set (+10)
  - **FP:** :white_check_mark: if *Feature-Policy* header is set (+10)
  - **CORS:** :white_check_mark: if *CORS* header is set without issues (+10)
-## Repository Structure
- - [domains.txt](/dutchgov/domains.txt): List of **1228** domains in scope
- - [subdomains.txt](/dutchgov/subdomains.txt): Detailed list of **16380** alive subdomains.
- - [urls.txt](/dutchgov/urls.txt): Compilation of **10021** URLs.
- - [all_subdomains.txt](/dutchgov/all_subdomains.txt): All **91495** subdomains that were found all over the time 
- - [/data](/data): Folder containing daily updated analysis for every domain.
+## Summary
+ - Number of domains: **1225**
+ - Number of subdomains: **16545**
+ - Number of urls: **9886**
+ - Average HTTP Security headers rank: **B**
+ - Average SSL grade: **A**
+ - Number of [security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/): **0**
+### Repository Structure
+ - [domains.txt](/DutchGovScope/dutchgov/domains.txt): List of **1225** domains in scope
+ - [subdomains.txt](/DutchGovScope/dutchgov/subdomains.txt): Detailed list of **16545** alive subdomains.
+ - [urls.txt](/DutchGovScope/dutchgov/urls.txt): Compilation of **9886** URLs.
+ - [all_subdomains.txt](/DutchGovScope/dutchgov/all_subdomains.txt): All **30309** subdomains that were found all over the time 
 ## Links and acknowledgements
  - [basisbeveiliging.nl](https://basisbeveiliging.nl/) \- *How well the Dutch government implements basic security requirements with great security map!*
  - [overheid.nl](https://www.overheid.nl/english/dutch-government-websites)

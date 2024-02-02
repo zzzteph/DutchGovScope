@@ -6,13 +6,14 @@
 
  - **SSL Grade**:
  - **HTTP Security Grade**:C
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:0
 
 
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/drupaloverheid.nl/subdomains.txt)|4|Alive subdomains|
 |[urls.txt](/data/drupaloverheid.nl/urls.txt)|4|Urls|
-|[all_subdomains.txt](/data/drupaloverheid.nl/all_subdomains.txt)|6|All found subdomains (history)|
+|[all_subdomains.txt](/data/drupaloverheid.nl/all_subdomains.txt)|4|All found subdomains (history)|
 
 
 ## Statistics

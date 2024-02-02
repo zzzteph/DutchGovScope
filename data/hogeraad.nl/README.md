@@ -6,6 +6,7 @@
 
  - **SSL Grade**:
  - **HTTP Security Grade**:B
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:0
 
 
 | File       | Count | Info |
@@ -28,7 +29,7 @@
 |[https://siam.hogeraad.nl](https://siam.hogeraad.nl)| | **A**|N.A.| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bootstrap HSTS|Hoge Raad der Ne...|
 |[http://wolk.hogeraad.nl](http://wolk.hogeraad.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://auth.hogeraad.nl](https://auth.hogeraad.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
-|[https://postbus.hogeraad.nl](https://postbus.hogeraad.nl)| | **C**|| | | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS Microsoft ASP.NET||
+|[https://postbus.hogeraad.nl](https://postbus.hogeraad.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET||
 |[https://apps.hogeraad.nl](https://apps.hogeraad.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |||
 |[https://www-acc.hogeraad.nl](https://www-acc.hogeraad.nl)| | **A**|Microsoft-IIS/10.0|:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS IIS:10.0 Microsoft ASP.NET Windows Server|Home - Hoge Raad|
 |[https://www.hogeraad.nl](https://www.hogeraad.nl)| | **A**|Microsoft-IIS/10.0|:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS IIS:10.0 Microsoft ASP.NET Windows Server|Home - Hoge Raad|

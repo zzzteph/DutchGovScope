@@ -6,5 +6,12 @@ toetsingonline.ccmo.nl
 feeds.english.ccmo.nl
 opendata.english.ccmo.nl
 ccmo.nl
-sdm.ccmo.nl
 sip.ccmo.nl
+a-feeds.ccmo.nl
+a-opendata.a-english.ccmo.nl
+a-opendata.ccmo.nl
+a-www.ccmo.nl
+a-english.ccmo.nl
+a-feeds.a-english.ccmo.nl
+ftp.ccmo.nl
+sdm.ccmo.nl

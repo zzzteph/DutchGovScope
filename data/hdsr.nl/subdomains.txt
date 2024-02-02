@@ -8,7 +8,6 @@ testbegrippen.hdsr.nl
 loket.hdsr.nl
 uconnect.hdsr.nl
 cawuitwijkfirewall.hdsr.nl
-digikoppeling-test.hdsr.nl
 webservices.hdsr.nl
 redactie.hdsr.nl
 autodiscover.hdsr.nl
@@ -29,5 +28,6 @@ geoservices.hdsr.nl
 hdsr.nl
 kantoor.hdsr.nl
 intranet.ad.hdsr.nl
-digikoppeling.hdsr.nl
 waterkwaliteitinbeeld.hdsr.nl
+digikoppeling.hdsr.nl
+digikoppeling-test.hdsr.nl

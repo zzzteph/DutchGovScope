@@ -2,5 +2,5 @@ feeds.ncab.nl
 ncab.nl
 opendata.ncab.nl
 www.ncab.nl
-mail.ncab.nl
 hostmaster.ncab.nl
+mail.ncab.nl

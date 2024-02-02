@@ -6,13 +6,14 @@
 
  - **SSL Grade**:
  - **HTTP Security Grade**:C
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:0
 
 
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/justid.nl/subdomains.txt)|29|Alive subdomains|
 |[urls.txt](/data/justid.nl/urls.txt)|26|Urls|
-|[all_subdomains.txt](/data/justid.nl/all_subdomains.txt)|63|All found subdomains (history)|
+|[all_subdomains.txt](/data/justid.nl/all_subdomains.txt)|62|All found subdomains (history)|
 
 
 ## Statistics

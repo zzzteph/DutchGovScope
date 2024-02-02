@@ -6,13 +6,14 @@
 
  - **SSL Grade**:
  - **HTTP Security Grade**:B
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:0
 
 
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/ncsc.nl/subdomains.txt)|48|Alive subdomains|
 |[urls.txt](/data/ncsc.nl/urls.txt)|27|Urls|
-|[all_subdomains.txt](/data/ncsc.nl/all_subdomains.txt)|91|All found subdomains (history)|
+|[all_subdomains.txt](/data/ncsc.nl/all_subdomains.txt)|80|All found subdomains (history)|
 
 
 ## Statistics

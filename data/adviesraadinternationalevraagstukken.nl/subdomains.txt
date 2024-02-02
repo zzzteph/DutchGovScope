@@ -2,3 +2,5 @@ feeds.adviesraadinternationalevraagstukken.nl
 opendata.adviesraadinternationalevraagstukken.nl
 www.adviesraadinternationalevraagstukken.nl
 adviesraadinternationalevraagstukken.nl
+a-feeds.adviesraadinternationalevraagstukken.nl
+a-opendata.adviesraadinternationalevraagstukken.nl

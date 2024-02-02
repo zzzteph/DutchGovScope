@@ -3,7 +3,6 @@ tickets.bdmuseum.nl
 www.bdmuseum.nl
 www.bdreauconseilw.bdmuseum.nl
 www.staging.bdmuseum.nl
-www.tickets.bdmuseum.nl
 2019www.bdmuseum.nl
 bdmuseum.nl
 19www.bdmuseum.nl
@@ -12,3 +11,4 @@ bdmuseum.nlwww.bdmuseum.nl
 bdmuseuni.nlwww.bdmuseum.nl
 ofwww.bdmuseum.nl
 rotterdamwww.bdmuseum.nl
+www.tickets.bdmuseum.nl

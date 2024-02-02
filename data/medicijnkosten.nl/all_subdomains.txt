@@ -1,11 +1,11 @@
 proto.medicijnkosten.nl
 www.medicijnkosten.nl
 www-ac.medicijnkosten.nl
-www-ow.medicijnkosten.nl
-www-ts.medicijnkosten.nl
-andwww.medicijnkosten.nl
 medicijnkosten.nl
 www-dev.medicijnkosten.nl
-www-tst.medicijnkosten.nl
 www-acc.medicijnkosten.nl
+www-ow.medicijnkosten.nl
+andwww.medicijnkosten.nl
+www-tst.medicijnkosten.nl
 www-p.medicijnkosten.nl
+www-ts.medicijnkosten.nl

@@ -1,9 +1,6 @@
 https://a-downloads.persberichten.rijksoverheid.nl
 https://a-rss.persberichten.rijksoverheid.nl
 https://acc-mailing.rijksoverheid.nl
-https://acc.prikkenzonderafspraak.rijksoverheid.nl
-https://acc.quarantainecheck.rijksoverheid.nl
-https://acc.quarantaineverklaring.rijksoverheid.nl
 https://coronadashboard.rijksoverheid.nl
 http://dns-web10.rijksoverheid.nl
 http://dns-web300.rijksoverheid.nl
@@ -20,9 +17,6 @@ https://mailing.rijksoverheid.nl
 https://opendata.rijksoverheid.nl
 https://opendata.persberichten.rijksoverheid.nl
 https://persberichten.rijksoverheid.nl
-https://prikkenzonderafspraak.rijksoverheid.nl
-https://quarantainecheck.rijksoverheid.nl
-https://quarantaineverklaring.rijksoverheid.nl
 https://redir.rijksoverheid.nl
 https://rss.persberichten.rijksoverheid.nl
 https://static.rijksoverheid.nl

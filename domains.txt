@@ -42,7 +42,6 @@ beschikbaarheidbijdrage-medische-vervolgopleidingen.nl
 big-register.nl
 bigregister.nl
 binnenhofrenovatie.nl
-brabant.nl
 brabantbusinessmedia.nl
 braic.nl
 bureauicttoetsing.nl
@@ -1165,7 +1164,6 @@ webtooliso20400.nl
 monitorlandschap.nl
 nieuwjaarstoost.nl
 npkd.nl
-asbestovertredingenarbeidsinspectie.nl
 werkenbijhetcjib.nl
 functiemix.nl
 nladag.nl
@@ -1214,9 +1212,6 @@ auditdienstrijk.nl
 onslevendlandschap.nl
 adronderzoek.nl
 bedrijfsvoeringrijk.nl
-wwwvergroent.nl
-www-alert.nl
-alert.nl
 projecta44.nl
 agendanatuurinclusief.nl
 irealisatie.nl
@@ -1225,4 +1220,6 @@ circulairinkopen.nl
 investeringsimpulsspv.nl
 overeuropa.nl
 platformrijksoverheid.nl
-wwwsportraad.nl
+infrankrijk.nl
+leefbarometer.nl
+brabant.nl

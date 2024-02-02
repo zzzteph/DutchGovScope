@@ -6,13 +6,14 @@
 
  - **SSL Grade**:A+
  - **HTTP Security Grade**:C
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:0
 
 
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/ep-online.nl/subdomains.txt)|20|Alive subdomains|
 |[urls.txt](/data/ep-online.nl/urls.txt)|18|Urls|
-|[all_subdomains.txt](/data/ep-online.nl/all_subdomains.txt)|75|All found subdomains (history)|
+|[all_subdomains.txt](/data/ep-online.nl/all_subdomains.txt)|64|All found subdomains (history)|
 
 
 ## Statistics
@@ -21,7 +22,7 @@
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[https://afmelden.ep-online.nl](https://afmelden.ep-online.nl)| **A+**| **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|500 - Internal s...|
-|[https://afmelden-preprod.ep-online.nl](https://afmelden-preprod.ep-online.nl)| **A+**| **C**||:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|500 - Internal s...|
+|[https://afmelden-preprod.ep-online.nl](https://afmelden-preprod.ep-online.nl)| **A+**| **C**||:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|Service Unavaila...|
 |[https://downloadpdf.ep-online.nl](https://downloadpdf.ep-online.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS|Not Found|
 |[https://downloadpdf-preprod.ep-online.nl](https://downloadpdf-preprod.ep-online.nl)| **A+**| **A**||:o: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|IIS Windows Serv...|
 |[https://maatwerkadvies.api.ep-online.nl](https://maatwerkadvies.api.ep-online.nl)| **A+**| **C**||:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||

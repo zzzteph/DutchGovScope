@@ -74,7 +74,7 @@ https://watergegevens.rijkswaterstaat.nl
 https://waterwebservices.rijkswaterstaat.nl
 https://waterwebservices.beta.rijkswaterstaat.nl
 http://webmail.rijkswaterstaat.nl
-http://werkenbij.rijkswaterstaat.nl
+https://werkenbij.rijkswaterstaat.nl
 https://www.rijkswaterstaat.nl
 https://www.bezoekerscentrum.rijkswaterstaat.nl
 https://www.watergegevens.rijkswaterstaat.nl

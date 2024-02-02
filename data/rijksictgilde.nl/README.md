@@ -6,13 +6,14 @@
 
  - **SSL Grade**:
  - **HTTP Security Grade**:A
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:0
 
 
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/rijksictgilde.nl/subdomains.txt)|2|Alive subdomains|
 |[urls.txt](/data/rijksictgilde.nl/urls.txt)|2|Urls|
-|[all_subdomains.txt](/data/rijksictgilde.nl/all_subdomains.txt)|24|All found subdomains (history)|
+|[all_subdomains.txt](/data/rijksictgilde.nl/all_subdomains.txt)|23|All found subdomains (history)|
 
 
 ## Statistics

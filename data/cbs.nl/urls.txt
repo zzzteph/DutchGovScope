@@ -171,3 +171,4 @@ https://mijn.cbs.nl
 https://mijn-api.cbs.nl
 https://uitwisseling.cbs.nl
 https://beh-iam.acceptatie.cbs.nl
+https://amunet.cbs.nl

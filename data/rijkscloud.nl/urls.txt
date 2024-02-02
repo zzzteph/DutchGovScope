@@ -26,7 +26,6 @@ https://dbe-t.rvb.rijkscloud.nl
 https://dev.fib.ienw.rijkscloud.nl
 https://developer.ix.rijkscloud.nl
 https://docs.performance.ix.rijkscloud.nl
-https://documentation.ix.rijkscloud.nl
 https://dvrvb-app-acc.rvb.rijkscloud.nl
 https://dvrvb-gui-acc.rvb.rijkscloud.nl
 https://factuur.dbe-t.rvb.rijkscloud.nl
@@ -102,7 +101,6 @@ https://registry.gitlab.analyse.ilt.rijkscloud.nl
 https://registry.gitlab.datascience.rijkscloud.nl
 https://registry.gitlab.ix.rijkscloud.nl
 https://registry.gitlab.wibo.ienw.rijkscloud.nl
-https://repo.ix.rijkscloud.nl
 https://repo2.ix.rijkscloud.nl
 https://rstudio.alma.jvs.ix.rijkscloud.nl
 https://rstudio.analyse.ilt.rijkscloud.nl
@@ -135,15 +133,13 @@ https://ssp.estota.rijkscloud.nl
 https://ssp.ix.rijkscloud.nl
 https://stats.duo.rijkscloud.nl
 https://status.rijkscloud.nl
-https://superset.dev.fib.ienw.rijkscloud.nl
 https://uno.dfront.rijkscloud.nl
 https://webmail.rijkscloud.nl
 https://www.rijkscloud.nl
 https://rijkscloud.nl
 https://openstack.gn3.rijkscloud.nl
+http://status.gn3.rijkscloud.nl
 https://portal.ip.test.duo.rijkscloud.nl
 https://ip.test.duo.rijkscloud.nl
 https://rstudio.ip.test.duo.rijkscloud.nl
 https://projects.pages.ds-ocw.rijkscloud.nl
-https://registry.gitlab.cloudbroker.rijkscloud.nl
-https://gitlab.cloudbroker.rijkscloud.nl

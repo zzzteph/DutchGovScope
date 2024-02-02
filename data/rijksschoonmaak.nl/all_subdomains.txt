@@ -1,10 +1,10 @@
-english.rijksschoonmaak.nl
 feeds.rijksschoonmaak.nl
-feeds.english.rijksschoonmaak.nl
-magazines.rijksschoonmaak.nl
-magazines.english.rijksschoonmaak.nl
-magazinesintern.rijksschoonmaak.nl
 opendata.rijksschoonmaak.nl
-opendata.english.rijksschoonmaak.nl
 www.rijksschoonmaak.nl
 rijksschoonmaak.nl
+english.rijksschoonmaak.nl
+magazinesintern.rijksschoonmaak.nl
+opendata.english.rijksschoonmaak.nl
+feeds.english.rijksschoonmaak.nl
+magazines.english.rijksschoonmaak.nl
+magazines.rijksschoonmaak.nl

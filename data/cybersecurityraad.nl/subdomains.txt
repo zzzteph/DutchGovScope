@@ -3,3 +3,7 @@ magazines.cybersecurityraad.nl
 opendata.cybersecurityraad.nl
 www.cybersecurityraad.nl
 cybersecurityraad.nl
+a-feeds.cybersecurityraad.nl
+a-magazines.cybersecurityraad.nl
+a-opendata.cybersecurityraad.nl
+a-www.cybersecurityraad.nl

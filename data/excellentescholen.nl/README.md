@@ -6,13 +6,14 @@
 
  - **SSL Grade**:A+
  - **HTTP Security Grade**:A
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:0
 
 
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/excellentescholen.nl/subdomains.txt)|5|Alive subdomains|
 |[urls.txt](/data/excellentescholen.nl/urls.txt)|4|Urls|
-|[all_subdomains.txt](/data/excellentescholen.nl/all_subdomains.txt)|12|All found subdomains (history)|
+|[all_subdomains.txt](/data/excellentescholen.nl/all_subdomains.txt)|14|All found subdomains (history)|
 
 
 ## Statistics

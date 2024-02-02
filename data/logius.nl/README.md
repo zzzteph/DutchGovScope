@@ -6,13 +6,14 @@
 
  - **SSL Grade**:
  - **HTTP Security Grade**:D
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:0
 
 
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/logius.nl/subdomains.txt)|69|Alive subdomains|
 |[urls.txt](/data/logius.nl/urls.txt)|50|Urls|
-|[all_subdomains.txt](/data/logius.nl/all_subdomains.txt)|117|All found subdomains (history)|
+|[all_subdomains.txt](/data/logius.nl/all_subdomains.txt)|115|All found subdomains (history)|
 
 
 ## Statistics
@@ -29,8 +30,8 @@
 |[http://amp-idp.logius.nl](http://amp-idp.logius.nl)| | **F**|Picard-LB| | | | | | | | :white_check_mark: | |||
 |[http://amp-idp-pre.logius.nl](http://amp-idp-pre.logius.nl)| | **F**|Picard-LB| | | | | | | | :white_check_mark: | |||
 |[http://amp-pre.logius.nl](http://amp-pre.logius.nl)| | **F**|Picard-LB| | | | | | | | :white_check_mark: | |||
-|[https://bvd-pre.mev.logius.nl](https://bvd-pre.mev.logius.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS Java||
-|[https://bvd.mev.logius.nl](https://bvd.mev.logius.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS Java||
+|[https://bvd-pre.mev.logius.nl](https://bvd-pre.mev.logius.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||
+|[https://bvd.mev.logius.nl](https://bvd.mev.logius.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||
 |[http://ca-devportal.logius.nl](http://ca-devportal.logius.nl)| | **F**|Picard-LB| | | | | | | | :white_check_mark: | |||
 |[http://ca-devportal-pre.logius.nl](http://ca-devportal-pre.logius.nl)| | **F**|Picard-LB| | | | | | | | :white_check_mark: | |||
 |[https://ca-idp.logius.nl](https://ca-idp.logius.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|404 Not Found|
@@ -40,7 +41,7 @@
 |[https://channels.lpc.logius.nl](https://channels.lpc.logius.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS|Logius Private C...|
 |[http://clienteleitsm.logius.nl](http://clienteleitsm.logius.nl)| | **F**|BigIP| | | | | | | | :white_check_mark: | |F5 BigIP||
 |[http://clienteleitsm-acceptatie.logius.nl](http://clienteleitsm-acceptatie.logius.nl)| | **F**|BigIP| | | | | | | | :white_check_mark: | |F5 BigIP||
-|[https://comcms.logius.nl](https://comcms.logius.nl)| | **B**|nginx| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Drupal:10 HSTS Nginx PHP:8.1.27|Redirecting to h...|
+|[https://comcms.logius.nl](https://comcms.logius.nl)| | **B**|nginx| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Drupal HSTS Nginx PHP:8.1.27|Redirecting to h...|
 |[http://docs.lpc.logius.nl](http://docs.lpc.logius.nl)| | **F**|Picard-LB| | | | | | | | :white_check_mark: | |||
 |[http://git-az1.lpc.logius.nl](http://git-az1.lpc.logius.nl)| | **F**|Picard-LB| | | | | | | | :white_check_mark: | |||
 |[http://git-az2.lpc.logius.nl](http://git-az2.lpc.logius.nl)| | **F**|Picard-LB| | | | | | | | :white_check_mark: | |||

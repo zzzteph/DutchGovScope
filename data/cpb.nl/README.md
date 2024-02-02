@@ -6,13 +6,14 @@
 
  - **SSL Grade**:
  - **HTTP Security Grade**:C
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:0
 
 
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/cpb.nl/subdomains.txt)|22|Alive subdomains|
 |[urls.txt](/data/cpb.nl/urls.txt)|11|Urls|
-|[all_subdomains.txt](/data/cpb.nl/all_subdomains.txt)|317|All found subdomains (history)|
+|[all_subdomains.txt](/data/cpb.nl/all_subdomains.txt)|56|All found subdomains (history)|
 
 
 ## Statistics

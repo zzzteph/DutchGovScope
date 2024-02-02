@@ -6,11 +6,12 @@
 
  - **SSL Grade**:A+
  - **HTTP Security Grade**:A
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:0
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/advisorycouncilinternationalaffairs.nl/subdomains.txt)|4|Alive subdomains|
+|[subdomains.txt](/data/advisorycouncilinternationalaffairs.nl/subdomains.txt)|7|Alive subdomains|
 |[urls.txt](/data/advisorycouncilinternationalaffairs.nl/urls.txt)|4|Urls|
 |[all_subdomains.txt](/data/advisorycouncilinternationalaffairs.nl/all_subdomains.txt)|9|All found subdomains (history)|
 

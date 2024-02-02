@@ -1,5 +1,8 @@
-a-www.covm.nl
 feeds.covm.nl
 opendata.covm.nl
 www.covm.nl
 covm.nl
+a-www.covm.nl
+a-feeds.covm.nl
+autoconfig.covm.nl
+autodiscover.covm.nl

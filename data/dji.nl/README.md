@@ -6,12 +6,13 @@
 
  - **SSL Grade**:A+
  - **HTTP Security Grade**:A
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:0
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/dji.nl/subdomains.txt)|27|Alive subdomains|
-|[urls.txt](/data/dji.nl/urls.txt)|14|Urls|
+|[subdomains.txt](/data/dji.nl/subdomains.txt)|32|Alive subdomains|
+|[urls.txt](/data/dji.nl/urls.txt)|18|Urls|
 |[all_subdomains.txt](/data/dji.nl/all_subdomains.txt)|59|All found subdomains (history)|
 
 
@@ -34,4 +35,8 @@
 |[https://zorgconnect.dji.nl](https://zorgconnect.dji.nl)| **A+**| **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Microsoft ASP.NET||
 |[https://zorgconnect-acpt.dji.nl](https://zorgconnect-acpt.dji.nl)| **A+**| **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS||
 |[https://dji.nl](https://dji.nl)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
+|[https://acc.beeldbellen.dji.nl](https://acc.beeldbellen.dji.nl)| | **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Nginx|403 Forbidden|
+|[https://beeldbellen.dji.nl](https://beeldbellen.dji.nl)| | **B**|nginx| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS Nginx|Beeldbellen Just...|
+|[https://video-acc.beeldbellen.dji.nl](https://video-acc.beeldbellen.dji.nl)| | **C**|nginx/1.18.0 (Ubuntu)| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Nginx:1.18.0 Ubuntu|Beeldbellen Just...|
+|[https://video.beeldbellen.dji.nl](https://video.beeldbellen.dji.nl)| | **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Nginx|Beeldbellen Just...|
 

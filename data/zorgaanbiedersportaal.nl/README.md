@@ -6,13 +6,14 @@
 
  - **SSL Grade**:
  - **HTTP Security Grade**:A
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:0
 
 
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/zorgaanbiedersportaal.nl/subdomains.txt)|18|Alive subdomains|
 |[urls.txt](/data/zorgaanbiedersportaal.nl/urls.txt)|18|Urls|
-|[all_subdomains.txt](/data/zorgaanbiedersportaal.nl/all_subdomains.txt)|21|All found subdomains (history)|
+|[all_subdomains.txt](/data/zorgaanbiedersportaal.nl/all_subdomains.txt)|18|All found subdomains (history)|
 
 
 ## Statistics

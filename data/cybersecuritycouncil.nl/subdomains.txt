@@ -2,3 +2,6 @@ feeds.cybersecuritycouncil.nl
 opendata.cybersecuritycouncil.nl
 www.cybersecuritycouncil.nl
 cybersecuritycouncil.nl
+a-opendata.cybersecuritycouncil.nl
+a-www.cybersecuritycouncil.nl
+a-feeds.cybersecuritycouncil.nl

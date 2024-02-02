@@ -6,13 +6,14 @@
 
  - **SSL Grade**:
  - **HTTP Security Grade**:E
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:0
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/meldknop.nl/subdomains.txt)|11|Alive subdomains|
+|[subdomains.txt](/data/meldknop.nl/subdomains.txt)|9|Alive subdomains|
 |[urls.txt](/data/meldknop.nl/urls.txt)|9|Urls|
-|[all_subdomains.txt](/data/meldknop.nl/all_subdomains.txt)|11|All found subdomains (history)|
+|[all_subdomains.txt](/data/meldknop.nl/all_subdomains.txt)|9|All found subdomains (history)|
 
 
 ## Statistics

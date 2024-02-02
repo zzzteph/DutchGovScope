@@ -6,13 +6,14 @@
 
  - **SSL Grade**:A+
  - **HTTP Security Grade**:C
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:0
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/domeinenrz.nl/subdomains.txt)|26|Alive subdomains|
+|[subdomains.txt](/data/domeinenrz.nl/subdomains.txt)|35|Alive subdomains|
 |[urls.txt](/data/domeinenrz.nl/urls.txt)|16|Urls|
-|[all_subdomains.txt](/data/domeinenrz.nl/all_subdomains.txt)|45|All found subdomains (history)|
+|[all_subdomains.txt](/data/domeinenrz.nl/all_subdomains.txt)|44|All found subdomains (history)|
 
 
 ## Statistics

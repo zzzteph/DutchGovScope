@@ -1,10 +1,10 @@
-english.topsectoren.nl
 feeds.topsectoren.nl
-feeds.english.topsectoren.nl
-magazines.topsectoren.nl
-magazines.english.topsectoren.nl
-magazinesintern.topsectoren.nl
 opendata.topsectoren.nl
-opendata.english.topsectoren.nl
 www.topsectoren.nl
 topsectoren.nl
+english.topsectoren.nl
+magazines.english.topsectoren.nl
+magazinesintern.topsectoren.nl
+opendata.english.topsectoren.nl
+feeds.english.topsectoren.nl
+magazines.topsectoren.nl

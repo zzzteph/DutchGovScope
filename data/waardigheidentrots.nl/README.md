@@ -5,7 +5,8 @@
 
 
  - **SSL Grade**:
- - **HTTP Security Grade**:C
+ - **HTTP Security Grade**:B
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:0
 
 
 | File       | Count | Info |
@@ -24,5 +25,5 @@
 |[https://www.waardigheidentrots.nl](https://www.waardigheidentrots.nl)| | **B**||:warning: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Azure Azure Front Door Google Tag Manager HSTS Microsoft ASP.NET|Waardigheid en t...|
 |[https://portaal.waardigheidentrots.nl](https://portaal.waardigheidentrots.nl)| | **C**|Microsoft-IIS/10.0|:white_check_mark: |:white_check_mark: | | |:warning: | | | :white_check_mark: | |Azure HSTS IIS:10.0 Microsoft ASP.NET Windows Server|Waardigheid en t...|
 |[https://waardigheidentrots.nl](https://waardigheidentrots.nl)| | **B**||:warning: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Azure Azure Front Door HSTS Microsoft ASP.NET||
-|[https://archief.waardigheidentrots.nl](https://archief.waardigheidentrots.nl)| | **F**|nginx|:warning: | | | | | :white_check_mark: | | :white_check_mark: | |HSTS Nginx||
+|[https://archief.waardigheidentrots.nl](https://archief.waardigheidentrots.nl)| | **A**|nginx|:warning: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 

@@ -1,4 +1,4 @@
-geoserver-acc.nsl-monitoring.nl
 mt2011.nsl-monitoring.nl
 viewer2010.nsl-monitoring.nl
 viewer2011.nsl-monitoring.nl
+geoserver-acc.nsl-monitoring.nl

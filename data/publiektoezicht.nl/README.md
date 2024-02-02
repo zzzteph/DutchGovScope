@@ -6,13 +6,14 @@
 
  - **SSL Grade**:
  - **HTTP Security Grade**:A
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:0
 
 
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/publiektoezicht.nl/subdomains.txt)|1|Alive subdomains|
 |[urls.txt](/data/publiektoezicht.nl/urls.txt)|1|Urls|
-|[all_subdomains.txt](/data/publiektoezicht.nl/all_subdomains.txt)|2|All found subdomains (history)|
+|[all_subdomains.txt](/data/publiektoezicht.nl/all_subdomains.txt)|1|All found subdomains (history)|
 
 
 ## Statistics

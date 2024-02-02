@@ -1,9 +1,3 @@
-a-english.bigregister.nl
-a-feeds.bigregister.nl
-a-feeds.a-english.bigregister.nl
-a-opendata.bigregister.nl
-a-opendata.a-english.bigregister.nl
-a-www.bigregister.nl
 acceptatie.advieswijzer.bigregister.nl
 acceptatie.api.bigregister.nl
 acceptatie.beheer.bigregister.nl
@@ -25,3 +19,9 @@ www.bigregister.nl
 zoeken.bigregister.nl
 bigregister.nl
 acceptatie.tea.bigregister.nl
+a-www.bigregister.nl
+a-english.bigregister.nl
+a-opendata.bigregister.nl
+a-feeds.a-english.bigregister.nl
+a-opendata.a-english.bigregister.nl
+a-feeds.bigregister.nl

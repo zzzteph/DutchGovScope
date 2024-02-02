@@ -1,6 +1,6 @@
-mail.europaomdehoek.nl
 www.europaomdehoek.nl
 europaomdehoek.nl
 20072020.europaomdehoek.nl
 feeds.europaomdehoek.nl
 opendata.europaomdehoek.nl
+mail.europaomdehoek.nl

@@ -6,11 +6,12 @@
 
  - **SSL Grade**:A+
  - **HTTP Security Grade**:A
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:0
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/aanbiedersmedicijnen.nl/subdomains.txt)|5|Alive subdomains|
+|[subdomains.txt](/data/aanbiedersmedicijnen.nl/subdomains.txt)|8|Alive subdomains|
 |[urls.txt](/data/aanbiedersmedicijnen.nl/urls.txt)|4|Urls|
 |[all_subdomains.txt](/data/aanbiedersmedicijnen.nl/all_subdomains.txt)|16|All found subdomains (history)|
 

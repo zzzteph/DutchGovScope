@@ -6,8 +6,8 @@ media.platformwow.nl
 water.platformwow.nl
 weg.platformwow.nl
 www.platformwow.nl
-www.water.platformwow.nl
-jaarverslag2014.platformwow.nl
 legacy.platformwow.nl
-www.weg.platformwow.nl
 platformwow.nl
+jaarverslag2014.platformwow.nl
+www.weg.platformwow.nl
+www.water.platformwow.nl

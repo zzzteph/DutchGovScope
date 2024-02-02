@@ -5,10 +5,9 @@ registration.one-conference.nl
 stats.one-conference.nl
 www.one-conference.nl
 www.acc.one-conference.nl
-www.emagazine.one-conference.nl
 www.new.one-conference.nl
 www.registration.one-conference.nl
 www.stats.one-conference.nl
 one-conference.nl
 wcag-2.1-inspectie-www.one-conference.nl
-autodiscover.one-conference.nl
+www.emagazine.one-conference.nl

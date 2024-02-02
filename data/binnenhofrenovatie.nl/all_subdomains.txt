@@ -4,3 +4,4 @@ www.binnenhofrenovatie.nl
 binnenhofrenovatie.nl
 a-opendata.binnenhofrenovatie.nl
 a-www.binnenhofrenovatie.nl
+a-feeds.binnenhofrenovatie.nl

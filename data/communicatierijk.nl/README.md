@@ -6,11 +6,12 @@
 
  - **SSL Grade**:A+
  - **HTTP Security Grade**:A
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:0
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/communicatierijk.nl/subdomains.txt)|9|Alive subdomains|
+|[subdomains.txt](/data/communicatierijk.nl/subdomains.txt)|12|Alive subdomains|
 |[urls.txt](/data/communicatierijk.nl/urls.txt)|6|Urls|
 |[all_subdomains.txt](/data/communicatierijk.nl/all_subdomains.txt)|26|All found subdomains (history)|
 

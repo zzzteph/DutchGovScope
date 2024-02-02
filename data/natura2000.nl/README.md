@@ -6,13 +6,14 @@
 
  - **SSL Grade**:
  - **HTTP Security Grade**:C
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:0
 
 
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/natura2000.nl/subdomains.txt)|5|Alive subdomains|
 |[urls.txt](/data/natura2000.nl/urls.txt)|5|Urls|
-|[all_subdomains.txt](/data/natura2000.nl/all_subdomains.txt)|13|All found subdomains (history)|
+|[all_subdomains.txt](/data/natura2000.nl/all_subdomains.txt)|7|All found subdomains (history)|
 
 
 ## Statistics

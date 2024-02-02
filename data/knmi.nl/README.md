@@ -6,13 +6,14 @@
 
  - **SSL Grade**:
  - **HTTP Security Grade**:E
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:0
 
 
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/knmi.nl/subdomains.txt)|156|Alive subdomains|
 |[urls.txt](/data/knmi.nl/urls.txt)|61|Urls|
-|[all_subdomains.txt](/data/knmi.nl/all_subdomains.txt)|308|All found subdomains (history)|
+|[all_subdomains.txt](/data/knmi.nl/all_subdomains.txt)|264|All found subdomains (history)|
 
 
 ## Statistics
@@ -35,7 +36,7 @@
 |[https://consultatie.knmi.nl](https://consultatie.knmi.nl)| | **F**|Apache/2.4.25 (Debian)|:o: | | | | | | | :white_check_mark: | |Amazon ALB Amazon Web Services Apache HTTP Server:2.4.25 CakePHP Debian PHP:5.6.40||
 |[https://daggegevens.knmi.nl](https://daggegevens.knmi.nl)| | **E**||:warning: | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Ruby Ruby on Rails|Dagwaarden van w...|
 |[https://data.knmi.nl](https://data.knmi.nl)| | **A**|awselb/2.0| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |Amazon ELB Amazon Web Services|301 Moved Perman...|
-|[https://datalab.knmi.nl](https://datalab.knmi.nl)| | **F**|Apache/2| | | | | | | | :white_check_mark: | |Apache HTTP Server:2 MySQL PHP WPML:4.6.7 WordPress:6.4.1 Yoast SEO:21.5|KNMI datalab - K...|
+|[https://datalab.knmi.nl](https://datalab.knmi.nl)| | **F**|Apache/2| | | | | | | | :white_check_mark: | |Apache HTTP Server:2 MySQL PHP WPML:4.6.9 WordPress:6.4.2 Yoast SEO:21.9.1|KNMI datalab - K...|
 |[https://dataplatform.knmi.nl](https://dataplatform.knmi.nl)| | **A**|gunicorn| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |Amazon S3 Amazon Web Services Ckan:2.9.9 HSTS Java PostgreSQL Python Solr gunicorn|Welcome - KNMI D...|
 |[https://developer.dataplatform.knmi.nl](https://developer.dataplatform.knmi.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |Bootstrap HSTS|KNMI Developer p...|
 |[http://download.webmail.knmi.nl](http://download.webmail.knmi.nl)| | **E**|| | | | | | | | :white_check_mark: | |||

@@ -6,6 +6,7 @@
 
  - **SSL Grade**:
  - **HTTP Security Grade**:F
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:0
 
 
 | File       | Count | Info |
@@ -22,7 +23,7 @@
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[https://webmail.onsleger.nl](https://webmail.onsleger.nl)| | **F**|LiteSpeed|:white_check_mark: | | | | | | | :white_check_mark: | |HTTP/3 LiteSpeed|Webmail-aanmeldi...|
 |[https://www.onsleger.nl](https://www.onsleger.nl)| | **F**|LiteSpeed| | | | | | | | :white_check_mark: | |HTTP/3 LiteSpeed Litespeed Cache||
-|[https://onsleger.nl](https://onsleger.nl)| | **F**|LiteSpeed| | | | | | | | :white_check_mark: | |HTTP/3 LiteSpeed Litespeed Cache MySQL PHP Slider Revolution:6.6.12 WordPress:6.2.3 wpBakery|onsleger – Onsle...|
+|[https://onsleger.nl](https://onsleger.nl)| | **F**|LiteSpeed| | | | | | | | :white_check_mark: | |HTTP/3 LiteSpeed Litespeed Cache MySQL PHP Slider Revolution:6.6.12 WordPress:6.2.4 wpBakery|onsleger – Onsle...|
 |[https://mail.onsleger.nl](https://mail.onsleger.nl)| | **F**|LiteSpeed| | | | | | | | :white_check_mark: | |HTTP/3 LiteSpeed Litespeed Cache||
 |[https://webdisk.onsleger.nl](https://webdisk.onsleger.nl)| | **F**|LiteSpeed| | | | | | | | :white_check_mark: | |Basic HTTP/3 LiteSpeed||
 |[https://cpcalendars.onsleger.nl](https://cpcalendars.onsleger.nl)| | **F**|LiteSpeed| | | | | | | | :white_check_mark: | |HTTP/3 LiteSpeed|403 Forbidden|

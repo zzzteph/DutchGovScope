@@ -1,5 +1,5 @@
-intranet.bereiknu.nl
 www.bereiknu.nl
-www.intranet.bereiknu.nl
 bereiknu.nl
+intranet.bereiknu.nl
 test.bereiknu.nl
+www.intranet.bereiknu.nl

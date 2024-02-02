@@ -6,6 +6,7 @@
 
  - **SSL Grade**:
  - **HTTP Security Grade**:C
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:0
 
 
 | File       | Count | Info |
@@ -22,6 +23,6 @@
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[https://www.amlc.nl](https://www.amlc.nl)| | **A**||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS MySQL PHP WordPress Yoast SEO:21.8|AMLC - Anti Mone...|
 |[https://amlc.nl](https://amlc.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|301 Moved Perman...|
-|[https://21www.amlc.nl](https://21www.amlc.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||
-|[https://8www.amlc.nl](https://8www.amlc.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||
+|[https://21www.amlc.nl](https://21www.amlc.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS MySQL PHP WordPress Yoast SEO:21.8|AMLC - Anti Mone...|
+|[https://8www.amlc.nl](https://8www.amlc.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS MySQL PHP WordPress Yoast SEO:21.8|AMLC - Anti Mone...|
 

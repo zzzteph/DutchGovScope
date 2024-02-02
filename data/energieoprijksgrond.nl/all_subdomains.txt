@@ -1,7 +1,7 @@
-feeds.energieoprijksgrond.nl
-opendata.energieoprijksgrond.nl
 www.energieoprijksgrond.nl
 energieoprijksgrond.nl
+feeds.energieoprijksgrond.nl
+opendata.energieoprijksgrond.nl
 english.energieoprijksgrond.nl
 feeds.english.energieoprijksgrond.nl
 magazines.energieoprijksgrond.nl

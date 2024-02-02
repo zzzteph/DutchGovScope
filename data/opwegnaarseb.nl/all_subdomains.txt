@@ -2,10 +2,7 @@ cdn.opwegnaarseb.nl
 cpanel.opwegnaarseb.nl
 e-learning.opwegnaarseb.nl
 mail.opwegnaarseb.nl
-media.opwegnaarseb.nl
 webmail.opwegnaarseb.nl
 www.opwegnaarseb.nl
 opwegnaarseb.nl
-birdseye.gis.opwegnaarseb.nl
-ncell.opwegnaarseb.nl
-marksandspencer.opwegnaarseb.nl
+media.opwegnaarseb.nl

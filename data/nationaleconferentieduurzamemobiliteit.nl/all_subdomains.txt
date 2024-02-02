@@ -2,10 +2,10 @@
 app.nationaleconferentieduurzamemobiliteit.nl
 nationaleconferentieduurzamemobiliteit.nl
 www.nationaleconferentieduurzamemobiliteit.nl
-www.app.nationaleconferentieduurzamemobiliteit.nl
-www.20210215.nationaleconferentieduurzamemobiliteit.nl
 talkshow.nationaleconferentieduurzamemobiliteit.nl
-www.talkshow.nationaleconferentieduurzamemobiliteit.nl
-dev.nationaleconferentieduurzamemobiliteit.nl
 www.dev.nationaleconferentieduurzamemobiliteit.nl
+dev.nationaleconferentieduurzamemobiliteit.nl
 mail.nationaleconferentieduurzamemobiliteit.nl
+www.20210215.nationaleconferentieduurzamemobiliteit.nl
+www.app.nationaleconferentieduurzamemobiliteit.nl
+www.talkshow.nationaleconferentieduurzamemobiliteit.nl

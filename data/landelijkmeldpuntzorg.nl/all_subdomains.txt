@@ -1,4 +1,4 @@
 landelijkmeldpuntzorg.nl
 www.landelijkmeldpuntzorg.nl
-sip.landelijkmeldpuntzorg.nl
 sdm.landelijkmeldpuntzorg.nl
+sip.landelijkmeldpuntzorg.nl

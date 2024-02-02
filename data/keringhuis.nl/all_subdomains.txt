@@ -1,9 +1,9 @@
 adressen.keringhuis.nl
-mail.keringhuis.nl
-new.keringhuis.nl
 old.keringhuis.nl
 www.keringhuis.nl
-www.mail.keringhuis.nl
 symposium.keringhuis.nl
 www.symposium.keringhuis.nl
 keringhuis.nl
+mail.keringhuis.nl
+new.keringhuis.nl
+www.mail.keringhuis.nl

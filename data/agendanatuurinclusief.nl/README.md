@@ -6,11 +6,12 @@
 
  - **SSL Grade**:
  - **HTTP Security Grade**:F
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:0
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/agendanatuurinclusief.nl/subdomains.txt)|0|Alive subdomains|
+|[subdomains.txt](/data/agendanatuurinclusief.nl/subdomains.txt)|2|Alive subdomains|
 |[urls.txt](/data/agendanatuurinclusief.nl/urls.txt)|0|Urls|
 |[all_subdomains.txt](/data/agendanatuurinclusief.nl/all_subdomains.txt)|3|All found subdomains (history)|
 

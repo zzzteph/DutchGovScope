@@ -2,3 +2,6 @@ feeds.erfgoeddeal.nl
 opendata.erfgoeddeal.nl
 www.erfgoeddeal.nl
 erfgoeddeal.nl
+a-www.erfgoeddeal.nl
+a-feeds.erfgoeddeal.nl
+a-opendata.erfgoeddeal.nl

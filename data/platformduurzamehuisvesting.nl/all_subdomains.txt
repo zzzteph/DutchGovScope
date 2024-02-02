@@ -4,11 +4,10 @@ energieke-vastgoedorganisaties.platformduurzamehuisvesting.nl
 evo.platformduurzamehuisvesting.nl
 hostmaster.platformduurzamehuisvesting.nl
 imap.platformduurzamehuisvesting.nl
-kieswijzer.platformduurzamehuisvesting.nl
 kompasenergiewetgeving.platformduurzamehuisvesting.nl
 mail.platformduurzamehuisvesting.nl
 smtp.platformduurzamehuisvesting.nl
 www.platformduurzamehuisvesting.nl
 speeltuin.platformduurzamehuisvesting.nl
 platformduurzamehuisvesting.nl
-autodiscover.platformduurzamehuisvesting.nl
+kieswijzer.platformduurzamehuisvesting.nl

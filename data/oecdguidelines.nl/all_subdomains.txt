@@ -1,6 +1,6 @@
 feeds.oecdguidelines.nl
-magazines.oecdguidelines.nl
-magazinesintern.oecdguidelines.nl
 opendata.oecdguidelines.nl
 www.oecdguidelines.nl
 oecdguidelines.nl
+magazinesintern.oecdguidelines.nl
+magazines.oecdguidelines.nl

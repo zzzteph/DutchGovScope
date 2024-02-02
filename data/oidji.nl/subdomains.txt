@@ -5,5 +5,5 @@ klas.oidji.nl
 opendata.oidji.nl
 sophie.oidji.nl
 www.oidji.nl
-class.oidji.nl
 oidji.nl
+class.oidji.nl

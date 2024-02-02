@@ -2,3 +2,5 @@ feeds.dutchrapporteur.nl
 opendata.dutchrapporteur.nl
 www.dutchrapporteur.nl
 dutchrapporteur.nl
+a-opendata.dutchrapporteur.nl
+a-www.dutchrapporteur.nl

@@ -7,4 +7,5 @@ a-feeds.beheerautoriteitwaddenzee.nl
 a-opendata.beheerautoriteitwaddenzee.nl
 a-www.beheerautoriteitwaddenzee.nl
 i-www.beheerautoriteitwaddenzee.nl
+o-www.beheerautoriteitwaddenzee.nl
 t-www.beheerautoriteitwaddenzee.nl

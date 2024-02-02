@@ -6,13 +6,14 @@
 
  - **SSL Grade**:
  - **HTTP Security Grade**:A
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:0
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/ienc-kennisportaal.nl/subdomains.txt)|7|Alive subdomains|
+|[subdomains.txt](/data/ienc-kennisportaal.nl/subdomains.txt)|3|Alive subdomains|
 |[urls.txt](/data/ienc-kennisportaal.nl/urls.txt)|3|Urls|
-|[all_subdomains.txt](/data/ienc-kennisportaal.nl/all_subdomains.txt)|7|All found subdomains (history)|
+|[all_subdomains.txt](/data/ienc-kennisportaal.nl/all_subdomains.txt)|3|All found subdomains (history)|
 
 
 ## Statistics

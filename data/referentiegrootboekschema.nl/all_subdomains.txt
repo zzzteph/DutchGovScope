@@ -3,7 +3,7 @@ mail.referentiegrootboekschema.nl
 prod-dictu.referentiegrootboekschema.nl
 test-dictu.referentiegrootboekschema.nl
 www.referentiegrootboekschema.nl
-www.acc-dictu.referentiegrootboekschema.nl
-www.test-dictu.referentiegrootboekschema.nl
-ww.referentiegrootboekschema.nl
 referentiegrootboekschema.nl
+www.test-dictu.referentiegrootboekschema.nl
+www.acc-dictu.referentiegrootboekschema.nl
+ww.referentiegrootboekschema.nl

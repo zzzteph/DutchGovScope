@@ -6,13 +6,14 @@
 
  - **SSL Grade**:
  - **HTTP Security Grade**:D
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:0
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/ssc-campus.nl/subdomains.txt)|31|Alive subdomains|
+|[subdomains.txt](/data/ssc-campus.nl/subdomains.txt)|29|Alive subdomains|
 |[urls.txt](/data/ssc-campus.nl/urls.txt)|17|Urls|
-|[all_subdomains.txt](/data/ssc-campus.nl/all_subdomains.txt)|544|All found subdomains (history)|
+|[all_subdomains.txt](/data/ssc-campus.nl/all_subdomains.txt)|538|All found subdomains (history)|
 
 
 ## Statistics

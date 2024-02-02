@@ -1,9 +1,9 @@
 autodiscover.atgb.nl
+www.atgb.nl
+atgb.nl
 cpanel.atgb.nl
 cpcalendars.atgb.nl
 cpcontacts.atgb.nl
 mail.atgb.nl
 webdisk.atgb.nl
 webmail.atgb.nl
-www.atgb.nl
-atgb.nl

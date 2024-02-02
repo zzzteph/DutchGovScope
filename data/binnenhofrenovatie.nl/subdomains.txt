@@ -2,3 +2,5 @@ feeds.binnenhofrenovatie.nl
 opendata.binnenhofrenovatie.nl
 www.binnenhofrenovatie.nl
 binnenhofrenovatie.nl
+a-opendata.binnenhofrenovatie.nl
+a-www.binnenhofrenovatie.nl

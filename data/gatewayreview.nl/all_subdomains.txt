@@ -1,7 +1,7 @@
-feeds.gatewayreview.nl
-opendata.gatewayreview.nl
 www.gatewayreview.nl
 gatewayreview.nl
+feeds.gatewayreview.nl
+opendata.gatewayreview.nl
 english.gatewayreview.nl
 feeds.english.gatewayreview.nl
 magazines.english.gatewayreview.nl

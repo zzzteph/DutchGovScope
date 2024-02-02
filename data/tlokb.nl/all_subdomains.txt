@@ -1,9 +1,9 @@
 feeds.tlokb.nl
-import.tlokb.nl
-import-auth.tlokb.nl
-importacc.tlokb.nl
-importacc-auth.tlokb.nl
 opendata.tlokb.nl
 register.tlokb.nl
 www.tlokb.nl
 tlokb.nl
+import.tlokb.nl
+importacc.tlokb.nl
+importacc-auth.tlokb.nl
+import-auth.tlokb.nl

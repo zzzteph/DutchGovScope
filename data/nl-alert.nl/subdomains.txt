@@ -1,11 +1,11 @@
 www.nl-alert.nl
-app.nl-alert.nl
-lms.test.nl-alert.nl
-lms.opleiding.nl-alert.nl
-lms.prod.nl-alert.nl
 feeds.nl-alert.nl
 nl-alert.nl
 opendata.nl-alert.nl
 opleiding.nl-alert.nl
 prod.nl-alert.nl
 test.nl-alert.nl
+app.nl-alert.nl
+lms.opleiding.nl-alert.nl
+lms.prod.nl-alert.nl
+lms.test.nl-alert.nl

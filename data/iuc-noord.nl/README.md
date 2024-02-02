@@ -6,11 +6,12 @@
 
  - **SSL Grade**:
  - **HTTP Security Grade**:B
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:0
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/iuc-noord.nl/subdomains.txt)|5|Alive subdomains|
+|[subdomains.txt](/data/iuc-noord.nl/subdomains.txt)|3|Alive subdomains|
 |[urls.txt](/data/iuc-noord.nl/urls.txt)|2|Urls|
 |[all_subdomains.txt](/data/iuc-noord.nl/all_subdomains.txt)|6|All found subdomains (history)|
 
