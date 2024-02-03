@@ -6,7 +6,7 @@
 
  - **SSL Grade**:
  - **HTTP Security Grade**:A
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:0
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:9
 
 
 | File       | Count | Info |
@@ -24,7 +24,7 @@
 |[https://a-downloads.persberichten.rijksoverheid.nl](https://a-downloads.persberichten.rijksoverheid.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|404 - Not Found|
 |[https://a-rss.persberichten.rijksoverheid.nl](https://a-rss.persberichten.rijksoverheid.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Basic HSTS Nginx||
 |[https://acc-mailing.rijksoverheid.nl](https://acc-mailing.rijksoverheid.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS|403 - Forbidden:...|
-|[https://coronadashboard.rijksoverheid.nl](https://coronadashboard.rijksoverheid.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Azure Azure Front Door Fourthwall:prd-5548-ee71e0b71 HSTS Next.js Node.js React Webpack|Coronadashboard...|
+|[https://coronadashboard.rijksoverheid.nl](https://coronadashboard.rijksoverheid.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Azure Azure Front Door|Service unavaila...|
 |[http://dns-web10.rijksoverheid.nl](http://dns-web10.rijksoverheid.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server||
 |[http://dns-web300.rijksoverheid.nl](http://dns-web300.rijksoverheid.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server||
 |[https://downloads.persberichten.rijksoverheid.nl](https://downloads.persberichten.rijksoverheid.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|404 - Not Found|

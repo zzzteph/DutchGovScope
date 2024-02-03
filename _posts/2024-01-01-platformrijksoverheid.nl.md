@@ -7,7 +7,7 @@ all_subdomains_count: 207
 urls_count: 19
 ssl_rank: 
 http_rank: A
-security_txt: 0
+security_txt: 6
 url_link: /data/platformrijksoverheid.nl/urls.txt
 all_subdomains_link: /data/platformrijksoverheid.nl/all_subdomains.txt
 subdomains_link: /data/platformrijksoverheid.nl/subdomains.txt
@@ -22,7 +22,7 @@ tags: dutchgov
 
  - **SSL Grade**:
  - **HTTP Security Grade**:A
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:0
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:6
 
 
 | File       | Count | Info |

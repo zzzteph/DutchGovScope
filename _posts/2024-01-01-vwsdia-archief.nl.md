@@ -7,7 +7,7 @@ all_subdomains_count: 2
 urls_count: 2
 ssl_rank: 
 http_rank: D
-security_txt: 0
+security_txt: 2
 url_link: /data/vwsdia-archief.nl/urls.txt
 all_subdomains_link: /data/vwsdia-archief.nl/all_subdomains.txt
 subdomains_link: /data/vwsdia-archief.nl/subdomains.txt
@@ -22,7 +22,7 @@ tags: dutchgov
 
  - **SSL Grade**:
  - **HTTP Security Grade**:D
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:0
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:2
 
 
 | File       | Count | Info |

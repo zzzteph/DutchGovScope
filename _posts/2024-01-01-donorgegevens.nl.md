@@ -7,7 +7,7 @@ all_subdomains_count: 34
 urls_count: 10
 ssl_rank: A
 http_rank: A
-security_txt: 0
+security_txt: 9
 url_link: /data/donorgegevens.nl/urls.txt
 all_subdomains_link: /data/donorgegevens.nl/all_subdomains.txt
 subdomains_link: /data/donorgegevens.nl/subdomains.txt
@@ -22,7 +22,7 @@ tags: dutchgov
 
  - **SSL Grade**:A
  - **HTTP Security Grade**:A
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:0
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:9
 
 
 | File       | Count | Info |

@@ -7,7 +7,7 @@ all_subdomains_count: 14
 urls_count: 8
 ssl_rank: A+
 http_rank: A
-security_txt: 0
+security_txt: 8
 url_link: /data/dienstterugkeerenvertrek.nl/urls.txt
 all_subdomains_link: /data/dienstterugkeerenvertrek.nl/all_subdomains.txt
 subdomains_link: /data/dienstterugkeerenvertrek.nl/subdomains.txt
@@ -22,7 +22,7 @@ tags: dutchgov
 
  - **SSL Grade**:A+
  - **HTTP Security Grade**:A
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:0
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:8
 
 
 | File       | Count | Info |

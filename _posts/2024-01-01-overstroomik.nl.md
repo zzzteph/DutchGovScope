@@ -7,7 +7,7 @@ all_subdomains_count: 3
 urls_count: 3
 ssl_rank: 
 http_rank: A
-security_txt: 0
+security_txt: 3
 url_link: /data/overstroomik.nl/urls.txt
 all_subdomains_link: /data/overstroomik.nl/all_subdomains.txt
 subdomains_link: /data/overstroomik.nl/subdomains.txt
@@ -22,7 +22,7 @@ tags: dutchgov
 
  - **SSL Grade**:
  - **HTTP Security Grade**:A
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:0
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:3
 
 
 | File       | Count | Info |

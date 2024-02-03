@@ -7,7 +7,7 @@ all_subdomains_count: 272
 urls_count: 72
 ssl_rank: 
 http_rank: C
-security_txt: 0
+security_txt: 20
 url_link: /data/noord-holland.nl/urls.txt
 all_subdomains_link: /data/noord-holland.nl/all_subdomains.txt
 subdomains_link: /data/noord-holland.nl/subdomains.txt
@@ -22,7 +22,7 @@ tags: dutchgov
 
  - **SSL Grade**:
  - **HTTP Security Grade**:C
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:0
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:20
 
 
 | File       | Count | Info |

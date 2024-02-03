@@ -7,7 +7,7 @@ all_subdomains_count: 4
 urls_count: 2
 ssl_rank: B
 http_rank: B
-security_txt: 0
+security_txt: 1
 url_link: /data/antisemitismebestrijding.nl/urls.txt
 all_subdomains_link: /data/antisemitismebestrijding.nl/all_subdomains.txt
 subdomains_link: /data/antisemitismebestrijding.nl/subdomains.txt
@@ -22,7 +22,7 @@ tags: dutchgov
 
  - **SSL Grade**:B
  - **HTTP Security Grade**:B
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:0
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:1
 
 
 | File       | Count | Info |

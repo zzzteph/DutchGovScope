@@ -7,7 +7,7 @@ all_subdomains_count: 24
 urls_count: 16
 ssl_rank: 
 http_rank: D
-security_txt: 0
+security_txt: 1
 url_link: /data/investinholland.com/urls.txt
 all_subdomains_link: /data/investinholland.com/all_subdomains.txt
 subdomains_link: /data/investinholland.com/subdomains.txt
@@ -22,7 +22,7 @@ tags: dutchgov
 
  - **SSL Grade**:
  - **HTTP Security Grade**:D
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:0
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:1
 
 
 | File       | Count | Info |

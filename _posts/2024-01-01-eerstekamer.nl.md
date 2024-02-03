@@ -7,7 +7,7 @@ all_subdomains_count: 35
 urls_count: 18
 ssl_rank: A+
 http_rank: C
-security_txt: 0
+security_txt: 8
 url_link: /data/eerstekamer.nl/urls.txt
 all_subdomains_link: /data/eerstekamer.nl/all_subdomains.txt
 subdomains_link: /data/eerstekamer.nl/subdomains.txt
@@ -22,7 +22,7 @@ tags: dutchgov
 
  - **SSL Grade**:A+
  - **HTTP Security Grade**:C
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:0
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:8
 
 
 | File       | Count | Info |

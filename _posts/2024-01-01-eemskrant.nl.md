@@ -7,7 +7,7 @@ all_subdomains_count: 17
 urls_count: 17
 ssl_rank: A
 http_rank: F
-security_txt: 0
+security_txt: 2
 url_link: /data/eemskrant.nl/urls.txt
 all_subdomains_link: /data/eemskrant.nl/all_subdomains.txt
 subdomains_link: /data/eemskrant.nl/subdomains.txt
@@ -22,7 +22,7 @@ tags: dutchgov
 
  - **SSL Grade**:A
  - **HTTP Security Grade**:F
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:0
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:2
 
 
 | File       | Count | Info |

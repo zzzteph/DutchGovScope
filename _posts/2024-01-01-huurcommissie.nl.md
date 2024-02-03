@@ -7,7 +7,7 @@ all_subdomains_count: 57
 urls_count: 13
 ssl_rank: 
 http_rank: B
-security_txt: 0
+security_txt: 7
 url_link: /data/huurcommissie.nl/urls.txt
 all_subdomains_link: /data/huurcommissie.nl/all_subdomains.txt
 subdomains_link: /data/huurcommissie.nl/subdomains.txt
@@ -22,7 +22,7 @@ tags: dutchgov
 
  - **SSL Grade**:
  - **HTTP Security Grade**:B
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:0
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:7
 
 
 | File       | Count | Info |

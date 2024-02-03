@@ -7,7 +7,7 @@ all_subdomains_count: 12
 urls_count: 3
 ssl_rank: 
 http_rank: B
-security_txt: 0
+security_txt: 1
 url_link: /data/rijksinkopen.nl/urls.txt
 all_subdomains_link: /data/rijksinkopen.nl/all_subdomains.txt
 subdomains_link: /data/rijksinkopen.nl/subdomains.txt
@@ -22,7 +22,7 @@ tags: dutchgov
 
  - **SSL Grade**:
  - **HTTP Security Grade**:B
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:0
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:1
 
 
 | File       | Count | Info |

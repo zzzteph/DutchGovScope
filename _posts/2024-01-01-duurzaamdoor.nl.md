@@ -7,7 +7,7 @@ all_subdomains_count: 9
 urls_count: 4
 ssl_rank: 
 http_rank: C
-security_txt: 0
+security_txt: 2
 url_link: /data/duurzaamdoor.nl/urls.txt
 all_subdomains_link: /data/duurzaamdoor.nl/all_subdomains.txt
 subdomains_link: /data/duurzaamdoor.nl/subdomains.txt
@@ -22,7 +22,7 @@ tags: dutchgov
 
  - **SSL Grade**:
  - **HTTP Security Grade**:C
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:0
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:2
 
 
 | File       | Count | Info |

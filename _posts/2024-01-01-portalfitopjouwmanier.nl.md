@@ -3,11 +3,11 @@ layout: default
 title: "portalfitopjouwmanier.nl"
 permalink: "/dutchgov/portalfitopjouwmanier.nl.html"
 subdomains_count: 4
-all_subdomains_count: 4
+all_subdomains_count: 7
 urls_count: 4
 ssl_rank: 
 http_rank: A
-security_txt: 0
+security_txt: 4
 url_link: /data/portalfitopjouwmanier.nl/urls.txt
 all_subdomains_link: /data/portalfitopjouwmanier.nl/all_subdomains.txt
 subdomains_link: /data/portalfitopjouwmanier.nl/subdomains.txt
@@ -22,14 +22,14 @@ tags: dutchgov
 
  - **SSL Grade**:
  - **HTTP Security Grade**:A
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:0
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:4
 
 
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/DutchGovScope/data/portalfitopjouwmanier.nl/subdomains.txt)|4|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/portalfitopjouwmanier.nl/urls.txt)|4|Urls|
-|[all_subdomains.txt](/DutchGovScope/data/portalfitopjouwmanier.nl/all_subdomains.txt)|4|All found subdomains (history)|
+|[all_subdomains.txt](/DutchGovScope/data/portalfitopjouwmanier.nl/all_subdomains.txt)|7|All found subdomains (history)|
 
 
 ## Statistics

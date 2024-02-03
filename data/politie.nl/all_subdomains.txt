@@ -240,3 +240,4 @@ telewerken.politie.nl
 ptd2-db.politie.nl
 confluence.dist.politie.nl
 connect2-test.ows2.politie.nl
+issues.politie.nl

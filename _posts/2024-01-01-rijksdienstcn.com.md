@@ -7,7 +7,7 @@ all_subdomains_count: 49
 urls_count: 17
 ssl_rank: 
 http_rank: B
-security_txt: 0
+security_txt: 12
 url_link: /data/rijksdienstcn.com/urls.txt
 all_subdomains_link: /data/rijksdienstcn.com/all_subdomains.txt
 subdomains_link: /data/rijksdienstcn.com/subdomains.txt
@@ -22,7 +22,7 @@ tags: dutchgov
 
  - **SSL Grade**:
  - **HTTP Security Grade**:B
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:0
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:12
 
 
 | File       | Count | Info |

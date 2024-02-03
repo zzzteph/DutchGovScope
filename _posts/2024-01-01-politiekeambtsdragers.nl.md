@@ -7,7 +7,7 @@ all_subdomains_count: 23
 urls_count: 6
 ssl_rank: 
 http_rank: B
-security_txt: 0
+security_txt: 5
 url_link: /data/politiekeambtsdragers.nl/urls.txt
 all_subdomains_link: /data/politiekeambtsdragers.nl/all_subdomains.txt
 subdomains_link: /data/politiekeambtsdragers.nl/subdomains.txt
@@ -22,7 +22,7 @@ tags: dutchgov
 
  - **SSL Grade**:
  - **HTTP Security Grade**:B
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:0
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:5
 
 
 | File       | Count | Info |

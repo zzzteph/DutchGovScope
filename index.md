@@ -37,17 +37,18 @@ This structured approach ensures that our repository is always up-to-date and ac
 ## Summary
  - Number of domains: **1224**
  - Number of subdomains: **16858**
- - Number of urls: **10121**
+ - Number of urls: **10120**
  -  Average HTTP Security headers rank: **B**
  - Average SSL grade: **A-**
- - Number of [security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/): **0**
+ - Number of [security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/): **5203**
 ### Repository Structure
- - [domains.txt](/DutchGovScope/dutchgov/domains.txt): List of **1224** domains in scope
- - [subdomains.txt](/DutchGovScope/dutchgov/subdomains.txt): Detailed list of **16858** alive subdomains.
- - [urls.txt](/DutchGovScope/dutchgov/urls.txt): Compilation of **10121** URLs.
- - [all_subdomains.txt](/DutchGovScope/dutchgov/all_subdomains.txt): All **34753** subdomains that were found all over the time 
+ - [domains.txt](https://raw.githubusercontent.com/zzzteph/DutchGovScope/main/storage/dutchgov/domains.txt): List of **1224** domains in scope
+ - [subdomains.txt](https://raw.githubusercontent.com/zzzteph/DutchGovScope/main/storage/dutchgov/subdomains.txt): Detailed list of **16858** alive subdomains.
+ - [urls.txt](https://raw.githubusercontent.com/zzzteph/DutchGovScope/main/storage/dutchgov/urls.txt): Compilation of **10120** URLs.
+ - [all_subdomains.txt](https://raw.githubusercontent.com/zzzteph/DutchGovScope/main/storage/dutchgov/all_subdomains.txt): All **34757** subdomains that were found all over the time 
 ## Links and acknowledgements
- - [basisbeveiliging.nl](https://basisbeveiliging.nl/) \- *How well the Dutch government implements basic security requirements with great security map!*
+ - [bug-bounty-dutch-goverment-scope.md](https://gist.github.com/zzzteph/99a7bd2acde12cb4b2626fc9261bc56d)
+ - [basisbeveiliging.nl](https://basisbeveiliging.nl/)
  - [overheid.nl](https://www.overheid.nl/english/dutch-government-websites)
  - [random-robbie/f985ad14fede2c04ac82dd89653f52ad](https://gist.github.com/random-robbie/f985ad14fede2c04ac82dd89653f52ad)
  - [communicatierijk.nl](https://www.communicatierijk.nl/vakkennis/r/rijkswebsites/verplichte-richtlijnen/websiteregister-rijksoverheid)

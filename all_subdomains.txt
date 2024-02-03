@@ -18411,6 +18411,12 @@ magazines.platformrijksoverheidonline.nl
 opendata.platformrijksoverheidonline.nl
 www.platformrijksoverheidonline.nl
 platformrijksoverheidonline.nl
+a-feeds.platformrijksoverheidonline.nl
+a-magazines.platformrijksoverheidonline.nl
+a-www.platformrijksoverheidonline.nl
+i-www.platformrijksoverheidonline.nl
+o-www.platformrijksoverheidonline.nl
+t-www.platformrijksoverheidonline.nl
 www.podcastdedienst.nl
 podcastdedienst.nl
 rss.acceptatie.politie.nl
@@ -18655,6 +18661,7 @@ telewerken.politie.nl
 ptd2-db.politie.nl
 confluence.dist.politie.nl
 connect2-test.ows2.politie.nl
+issues.politie.nl
 feeds.politiekeambtsdragers.nl
 opendata.politiekeambtsdragers.nl
 www.politiekeambtsdragers.nl

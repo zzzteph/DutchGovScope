@@ -7,7 +7,7 @@ all_subdomains_count: 178
 urls_count: 87
 ssl_rank: 
 http_rank: C
-security_txt: 0
+security_txt: 32
 url_link: /data/provincie-utrecht.nl/urls.txt
 all_subdomains_link: /data/provincie-utrecht.nl/all_subdomains.txt
 subdomains_link: /data/provincie-utrecht.nl/subdomains.txt
@@ -22,7 +22,7 @@ tags: dutchgov
 
  - **SSL Grade**:
  - **HTTP Security Grade**:C
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:0
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:32
 
 
 | File       | Count | Info |
