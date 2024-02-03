@@ -21,3 +21,9 @@ magazinesintern.deutsch.postedworkers.nl
 magazines.postedworkers.nl
 magazines.english.postedworkers.nl
 magazinesintern.postedworkers.nl
+a-feeds.postedworkers.nl
+a-opendata.a-english.postedworkers.nl
+a-opendata.postedworkers.nl
+a-www.postedworkers.nl
+a-english.postedworkers.nl
+a-feeds.a-english.postedworkers.nl

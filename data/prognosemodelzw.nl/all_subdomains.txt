@@ -2,3 +2,6 @@ feeds.prognosemodelzw.nl
 opendata.prognosemodelzw.nl
 www.prognosemodelzw.nl
 prognosemodelzw.nl
+a-feeds.prognosemodelzw.nl
+a-opendata.prognosemodelzw.nl
+a-www.prognosemodelzw.nl
