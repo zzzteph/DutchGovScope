@@ -2,7 +2,7 @@
 layout: default
 title: "forensischinstituut.nl"
 permalink: "/dutchgov/forensischinstituut.nl.html"
-subdomains_count: 18
+subdomains_count: 20
 all_subdomains_count: 37
 urls_count: 11
 ssl_rank: A+
@@ -27,7 +27,7 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/forensischinstituut.nl/subdomains.txt)|18|Alive subdomains|
+|[subdomains.txt](/DutchGovScope/data/forensischinstituut.nl/subdomains.txt)|20|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/forensischinstituut.nl/urls.txt)|11|Urls|
 |[all_subdomains.txt](/DutchGovScope/data/forensischinstituut.nl/all_subdomains.txt)|37|All found subdomains (history)|
 

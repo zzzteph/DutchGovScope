@@ -30,3 +30,5 @@ a-opendata.a-english.ikz.nl
 www.secure2.ikz.nl
 webmail.ikz.nl
 portal.ikz.nl
+autodiscover.ikz.nl
+dashboards.ikz.nl

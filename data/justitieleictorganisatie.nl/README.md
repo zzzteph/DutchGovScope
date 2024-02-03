@@ -11,9 +11,9 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/justitieleictorganisatie.nl/subdomains.txt)|7|Alive subdomains|
+|[subdomains.txt](/data/justitieleictorganisatie.nl/subdomains.txt)|10|Alive subdomains|
 |[urls.txt](/data/justitieleictorganisatie.nl/urls.txt)|7|Urls|
-|[all_subdomains.txt](/data/justitieleictorganisatie.nl/all_subdomains.txt)|7|All found subdomains (history)|
+|[all_subdomains.txt](/data/justitieleictorganisatie.nl/all_subdomains.txt)|10|All found subdomains (history)|
 
 
 ## Statistics

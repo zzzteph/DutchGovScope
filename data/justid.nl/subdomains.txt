@@ -27,3 +27,7 @@ justid.nl
 guest.justid.nl
 mam.justid.nl
 sfbwconf.justid.nl
+a-feeds.justid.nl
+a-opendata.justid.nl
+a-www.justid.nl
+sfbav.justid.nl

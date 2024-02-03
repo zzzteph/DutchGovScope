@@ -3,7 +3,7 @@ layout: default
 title: "monitorlangdurigezorg.nl"
 permalink: "/dutchgov/monitorlangdurigezorg.nl.html"
 subdomains_count: 4
-all_subdomains_count: 11
+all_subdomains_count: 14
 urls_count: 4
 ssl_rank: 
 http_rank: A
@@ -29,7 +29,7 @@ tags: dutchgov
 |------------|-------|------|
 |[subdomains.txt](/DutchGovScope/data/monitorlangdurigezorg.nl/subdomains.txt)|4|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/monitorlangdurigezorg.nl/urls.txt)|4|Urls|
-|[all_subdomains.txt](/DutchGovScope/data/monitorlangdurigezorg.nl/all_subdomains.txt)|11|All found subdomains (history)|
+|[all_subdomains.txt](/DutchGovScope/data/monitorlangdurigezorg.nl/all_subdomains.txt)|14|All found subdomains (history)|
 
 
 ## Statistics

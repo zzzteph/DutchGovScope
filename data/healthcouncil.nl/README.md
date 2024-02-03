@@ -11,7 +11,7 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/healthcouncil.nl/subdomains.txt)|7|Alive subdomains|
+|[subdomains.txt](/data/healthcouncil.nl/subdomains.txt)|8|Alive subdomains|
 |[urls.txt](/data/healthcouncil.nl/urls.txt)|4|Urls|
 |[all_subdomains.txt](/data/healthcouncil.nl/all_subdomains.txt)|12|All found subdomains (history)|
 

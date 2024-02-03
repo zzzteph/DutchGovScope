@@ -13,7 +13,7 @@
 |------------|-------|------|
 |[subdomains.txt](/data/medicineshortagesdefects.nl/subdomains.txt)|4|Alive subdomains|
 |[urls.txt](/data/medicineshortagesdefects.nl/urls.txt)|4|Urls|
-|[all_subdomains.txt](/data/medicineshortagesdefects.nl/all_subdomains.txt)|6|All found subdomains (history)|
+|[all_subdomains.txt](/data/medicineshortagesdefects.nl/all_subdomains.txt)|9|All found subdomains (history)|
 
 
 ## Statistics

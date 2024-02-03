@@ -11,7 +11,7 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/goudenpiramide.nl/subdomains.txt)|4|Alive subdomains|
+|[subdomains.txt](/data/goudenpiramide.nl/subdomains.txt)|7|Alive subdomains|
 |[urls.txt](/data/goudenpiramide.nl/urls.txt)|4|Urls|
 |[all_subdomains.txt](/data/goudenpiramide.nl/all_subdomains.txt)|12|All found subdomains (history)|
 

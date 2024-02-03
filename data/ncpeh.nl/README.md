@@ -13,7 +13,7 @@
 |------------|-------|------|
 |[subdomains.txt](/data/ncpeh.nl/subdomains.txt)|10|Alive subdomains|
 |[urls.txt](/data/ncpeh.nl/urls.txt)|10|Urls|
-|[all_subdomains.txt](/data/ncpeh.nl/all_subdomains.txt)|10|All found subdomains (history)|
+|[all_subdomains.txt](/data/ncpeh.nl/all_subdomains.txt)|12|All found subdomains (history)|
 
 
 ## Statistics

@@ -43,3 +43,13 @@ rijkspas.minienw.nl
 www.mpn.minienw.nl
 www.mpn-pre.minienw.nl
 www.pre.service.mpn.minienw.nl
+cms.minienw.nl
+csp.minienw.nl
+e-learning.minienw.nl
+imagine.minienw.nl
+rijksoverheid.minienw.nl
+web.minienw.nl
+intra.minienw.nl
+isms.minienw.nl
+leerportaal.minienw.nl
+localhost.minienw.nl

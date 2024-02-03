@@ -16,3 +16,6 @@ english.onswater.nl
 feeds.english.onswater.nl
 magazinesintern.english.onswater.nl
 opendata.english.onswater.nl
+a-feeds.onswater.nl
+a-opendata.onswater.nl
+a-www.onswater.nl

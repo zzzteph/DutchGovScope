@@ -25,3 +25,7 @@ www.odnhn-dc-wp01.internal.odnhn.nl
 sip.odnhn.nl
 cms.odnhn.nl
 www.vpn.odnhn.nl
+autodiscover.odnhn.nl
+email.odnhn.nl
+enterpriseregistration.odnhn.nl
+koppeling.odnhn.nl

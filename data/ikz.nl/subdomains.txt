@@ -8,3 +8,5 @@ mta-sts.ikz.nl
 a-opendata.ikz.nl
 a-www.ikz.nl
 a-feeds.ikz.nl
+autodiscover.ikz.nl
+dashboards.ikz.nl

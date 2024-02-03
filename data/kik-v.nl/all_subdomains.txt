@@ -3,3 +3,6 @@ opendata.kik-v.nl
 www.kik-v.nl
 kik-v.nl
 589cfc0bb0e7.kik-v.nl
+a-opendata.kik-v.nl
+a-www.kik-v.nl
+a-feeds.kik-v.nl

@@ -3,7 +3,7 @@ layout: default
 title: "nlontwikkelingssamenwerking.nl"
 permalink: "/dutchgov/nlontwikkelingssamenwerking.nl.html"
 subdomains_count: 4
-all_subdomains_count: 4
+all_subdomains_count: 6
 urls_count: 4
 ssl_rank: 
 http_rank: E
@@ -29,7 +29,7 @@ tags: dutchgov
 |------------|-------|------|
 |[subdomains.txt](/DutchGovScope/data/nlontwikkelingssamenwerking.nl/subdomains.txt)|4|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/nlontwikkelingssamenwerking.nl/urls.txt)|4|Urls|
-|[all_subdomains.txt](/DutchGovScope/data/nlontwikkelingssamenwerking.nl/all_subdomains.txt)|4|All found subdomains (history)|
+|[all_subdomains.txt](/DutchGovScope/data/nlontwikkelingssamenwerking.nl/all_subdomains.txt)|6|All found subdomains (history)|
 
 
 ## Statistics

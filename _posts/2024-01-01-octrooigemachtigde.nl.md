@@ -3,7 +3,7 @@ layout: default
 title: "octrooigemachtigde.nl"
 permalink: "/dutchgov/octrooigemachtigde.nl.html"
 subdomains_count: 5
-all_subdomains_count: 5
+all_subdomains_count: 7
 urls_count: 4
 ssl_rank: 
 http_rank: D
@@ -29,7 +29,7 @@ tags: dutchgov
 |------------|-------|------|
 |[subdomains.txt](/DutchGovScope/data/octrooigemachtigde.nl/subdomains.txt)|5|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/octrooigemachtigde.nl/urls.txt)|4|Urls|
-|[all_subdomains.txt](/DutchGovScope/data/octrooigemachtigde.nl/all_subdomains.txt)|5|All found subdomains (history)|
+|[all_subdomains.txt](/DutchGovScope/data/octrooigemachtigde.nl/all_subdomains.txt)|7|All found subdomains (history)|
 
 
 ## Statistics

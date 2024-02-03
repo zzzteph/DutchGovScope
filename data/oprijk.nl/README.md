@@ -13,7 +13,7 @@
 |------------|-------|------|
 |[subdomains.txt](/data/oprijk.nl/subdomains.txt)|4|Alive subdomains|
 |[urls.txt](/data/oprijk.nl/urls.txt)|4|Urls|
-|[all_subdomains.txt](/data/oprijk.nl/all_subdomains.txt)|4|All found subdomains (history)|
+|[all_subdomains.txt](/data/oprijk.nl/all_subdomains.txt)|7|All found subdomains (history)|
 
 
 ## Statistics

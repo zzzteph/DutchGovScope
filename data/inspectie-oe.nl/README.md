@@ -11,9 +11,9 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/inspectie-oe.nl/subdomains.txt)|11|Alive subdomains|
+|[subdomains.txt](/data/inspectie-oe.nl/subdomains.txt)|17|Alive subdomains|
 |[urls.txt](/data/inspectie-oe.nl/urls.txt)|7|Urls|
-|[all_subdomains.txt](/data/inspectie-oe.nl/all_subdomains.txt)|18|All found subdomains (history)|
+|[all_subdomains.txt](/data/inspectie-oe.nl/all_subdomains.txt)|24|All found subdomains (history)|
 
 
 ## Statistics

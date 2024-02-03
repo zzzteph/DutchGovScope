@@ -14,3 +14,5 @@ magazines.english.nix18.nl
 magazinesintern.nix18.nl
 www.materiaal.nix18.nl
 materialen.nix18.nl
+a-feeds.nix18.nl
+a-opendata.nix18.nl

@@ -11,7 +11,7 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/gratisvog.nl/subdomains.txt)|9|Alive subdomains|
+|[subdomains.txt](/data/gratisvog.nl/subdomains.txt)|12|Alive subdomains|
 |[urls.txt](/data/gratisvog.nl/urls.txt)|9|Urls|
 |[all_subdomains.txt](/data/gratisvog.nl/all_subdomains.txt)|16|All found subdomains (history)|
 

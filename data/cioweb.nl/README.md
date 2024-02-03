@@ -12,7 +12,7 @@
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/cioweb.nl/subdomains.txt)|6|Alive subdomains|
-|[urls.txt](/data/cioweb.nl/urls.txt)|2|Urls|
+|[urls.txt](/data/cioweb.nl/urls.txt)|4|Urls|
 |[all_subdomains.txt](/data/cioweb.nl/all_subdomains.txt)|6|All found subdomains (history)|
 
 
@@ -23,4 +23,6 @@
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[https://www.cioweb.nl](https://www.cioweb.nl)| **A+**| **C**|Apache/2.4.56 (Fedora Linux) OpenSSL/3.0.8| |:white_check_mark: | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.56 Fedora HSTS MySQL OpenSSL:3.0.8 PHP:8.1.16 UIKit WordPress:6.4.3 Yoast SEO:21.9.1|Welkom op CIO we...|
 |[https://cioweb.nl](https://cioweb.nl)| **A+**| **C**|Apache/2.4.56 (Fedora Linux) OpenSSL/3.0.8| |:white_check_mark: | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.56 Fedora HSTS OpenSSL:3.0.8|301 Moved Perman...|
+|[http://autodiscover.cioweb.nl](http://autodiscover.cioweb.nl)| | **B**|Microsoft-IIS/10.0|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server||
+|[https://ftp.cioweb.nl](https://ftp.cioweb.nl)| | **F**|Apache/2.4.56 (Fedora Linux) OpenSSL/3.0.8| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.56 Fedora HSTS OpenSSL:3.0.8|301 Moved Perman...|
 

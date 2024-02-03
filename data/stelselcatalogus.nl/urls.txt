@@ -5,3 +5,4 @@ https://www.stelselcatalogus.nl
 https://stelselcatalogus.nl
 http://digitaleoverheid.stelselcatalogus.nl
 https://editor.stelselcatalogus.nl
+https://preprod.keycloak.stelselcatalogus.nl

@@ -18,3 +18,4 @@ vluchtinfo-test.douane.nl
 vluchtinfo.douane.nl
 wpx-80-aix-http.acc.douane.nl
 zoekengebruikstarief.douane.nl
+assistent.internetaankopen.douane.nl

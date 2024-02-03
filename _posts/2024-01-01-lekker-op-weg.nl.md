@@ -3,7 +3,7 @@ layout: default
 title: "lekker-op-weg.nl"
 permalink: "/dutchgov/lekker-op-weg.nl.html"
 subdomains_count: 4
-all_subdomains_count: 4
+all_subdomains_count: 7
 urls_count: 4
 ssl_rank: 
 http_rank: A
@@ -29,7 +29,7 @@ tags: dutchgov
 |------------|-------|------|
 |[subdomains.txt](/DutchGovScope/data/lekker-op-weg.nl/subdomains.txt)|4|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/lekker-op-weg.nl/urls.txt)|4|Urls|
-|[all_subdomains.txt](/DutchGovScope/data/lekker-op-weg.nl/all_subdomains.txt)|4|All found subdomains (history)|
+|[all_subdomains.txt](/DutchGovScope/data/lekker-op-weg.nl/all_subdomains.txt)|7|All found subdomains (history)|
 
 
 ## Statistics

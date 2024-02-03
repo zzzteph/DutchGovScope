@@ -2,8 +2,8 @@
 layout: default
 title: "investinholland.com"
 permalink: "/dutchgov/investinholland.com.html"
-subdomains_count: 16
-all_subdomains_count: 22
+subdomains_count: 18
+all_subdomains_count: 24
 urls_count: 16
 ssl_rank: 
 http_rank: D
@@ -27,9 +27,9 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/investinholland.com/subdomains.txt)|16|Alive subdomains|
+|[subdomains.txt](/DutchGovScope/data/investinholland.com/subdomains.txt)|18|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/investinholland.com/urls.txt)|16|Urls|
-|[all_subdomains.txt](/DutchGovScope/data/investinholland.com/all_subdomains.txt)|22|All found subdomains (history)|
+|[all_subdomains.txt](/DutchGovScope/data/investinholland.com/all_subdomains.txt)|24|All found subdomains (history)|
 
 
 ## Statistics
@@ -49,7 +49,7 @@ tags: dutchgov
 |[http://smtp.japan.investinholland.com](http://smtp.japan.investinholland.com)| | **F**|cloudflare| | | | | | | | :white_check_mark: | |Cloudflare||
 |[https://taiwan.investinholland.com](https://taiwan.investinholland.com)| | **C**|cloudflare| |:white_check_mark: | | | | | | :white_check_mark: | |Cloudflare Google Tag Manager HSTS MySQL PHP Plesk WPML:4.6.5 WordPress:6.3.3|荷蘭投資局(NFIA)...|
 |[https://uk.investinholland.com](https://uk.investinholland.com)| | **C**|cloudflare| |:white_check_mark: | | | | | | :white_check_mark: | |Cloudflare HSTS Plesk|301 Moved Perman...|
-|[https://www.investinholland.com](https://www.investinholland.com)| | **C**|cloudflare| |:white_check_mark: | | | | | | :white_check_mark: | |Cloudflare|Attention Requir...|
+|[https://www.investinholland.com](https://www.investinholland.com)| | **C**|cloudflare| |:white_check_mark: | | | | | | :white_check_mark: | |Cloudflare HSTS Plesk||
 |[http://www.bak-jp.investinholland.com](http://www.bak-jp.investinholland.com)| | **F**|cloudflare| | | | | | | | :white_check_mark: | |Cloudflare||
 |[http://www.japan.investinholland.com](http://www.japan.investinholland.com)| | **F**|cloudflare| | | | | | | | :white_check_mark: | |Cloudflare||
 |[https://investinholland.com](https://investinholland.com)| | **C**|cloudflare| |:white_check_mark: | | | | | | :white_check_mark: | |Cloudflare Google Tag Manager HSTS MySQL PHP Plesk WPML:4.6.5 WordPress:6.3.3|NFIA, part of In...|

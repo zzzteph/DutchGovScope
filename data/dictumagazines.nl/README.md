@@ -11,7 +11,7 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/dictumagazines.nl/subdomains.txt)|2|Alive subdomains|
+|[subdomains.txt](/data/dictumagazines.nl/subdomains.txt)|3|Alive subdomains|
 |[urls.txt](/data/dictumagazines.nl/urls.txt)|2|Urls|
 |[all_subdomains.txt](/data/dictumagazines.nl/all_subdomains.txt)|8|All found subdomains (history)|
 

@@ -27,3 +27,9 @@ sdm.frd.ssonet.nl
 emr.ssonet.nl
 sip.frd.ssonet.nl
 ns3.ssonet.nl
+kk4-rksdns1.ssonet.nl
+smtp2.ssonet.nl
+sync.ssonet.nl
+schoolleidersregistervo.ssonet.nl
+kk4-rksdns2.ssonet.nl
+empic.ssonet.nl

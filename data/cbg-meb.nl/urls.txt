@@ -13,3 +13,5 @@ https://sts.cbg-meb.nl
 https://vpn.cbg-meb.nl
 https://www.cbg-meb.nl
 https://cbg-meb.nl
+https://enterpriseregistration.cbg-meb.nl
+https://msoid.cbg-meb.nl

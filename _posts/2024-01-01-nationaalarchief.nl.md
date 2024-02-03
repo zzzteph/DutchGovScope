@@ -3,7 +3,7 @@ layout: default
 title: "nationaalarchief.nl"
 permalink: "/dutchgov/nationaalarchief.nl.html"
 subdomains_count: 92
-all_subdomains_count: 180
+all_subdomains_count: 185
 urls_count: 3
 ssl_rank: 
 http_rank: D
@@ -29,7 +29,7 @@ tags: dutchgov
 |------------|-------|------|
 |[subdomains.txt](/DutchGovScope/data/nationaalarchief.nl/subdomains.txt)|92|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/nationaalarchief.nl/urls.txt)|3|Urls|
-|[all_subdomains.txt](/DutchGovScope/data/nationaalarchief.nl/all_subdomains.txt)|180|All found subdomains (history)|
+|[all_subdomains.txt](/DutchGovScope/data/nationaalarchief.nl/all_subdomains.txt)|185|All found subdomains (history)|
 
 
 ## Statistics

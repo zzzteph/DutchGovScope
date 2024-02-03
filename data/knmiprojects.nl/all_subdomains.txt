@@ -9,3 +9,6 @@ magazinesintern.english.knmiprojects.nl
 magazinesintern.knmiprojects.nl
 magazines.knmiprojects.nl
 opendata.english.knmiprojects.nl
+a-feeds.knmiprojects.nl
+a-opendata.knmiprojects.nl
+a-www.knmiprojects.nl

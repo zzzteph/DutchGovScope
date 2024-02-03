@@ -5,14 +5,14 @@
 
 
  - **SSL Grade**:C
- - **HTTP Security Grade**:C
+ - **HTTP Security Grade**:D
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:0
 
 
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/acm.nl/subdomains.txt)|56|Alive subdomains|
-|[urls.txt](/data/acm.nl/urls.txt)|18|Urls|
+|[urls.txt](/data/acm.nl/urls.txt)|24|Urls|
 |[all_subdomains.txt](/data/acm.nl/all_subdomains.txt)|84|All found subdomains (history)|
 
 
@@ -39,4 +39,10 @@
 |[https://bijna.acm.nl](https://bijna.acm.nl)| **F**| **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|403 Forbidden|
 |[https://remote.services.acm.nl](https://remote.services.acm.nl)| **A+**| **A**||:warning: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Microsoft ASP.NET||
 |[https://acm.nl](https://acm.nl)| **A+**| **A**|Apache| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS|301 Moved Perman...|
+|[https://ftp.acm.nl](https://ftp.acm.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|301 Moved Perman...|
+|[https://enterpriseenrollment.acm.nl](https://enterpriseenrollment.acm.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||
+|[https://enterpriseregistration.acm.nl](https://enterpriseregistration.acm.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
+|[https://mbg.acm.nl](https://mbg.acm.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|Redirecting...|
+|[https://mijn-acc.acm.nl](https://mijn-acc.acm.nl)| | **F**|nginx/1.25.3| | | | | | | | :white_check_mark: | |Nginx:1.25.3|403 Forbidden|
+|[https://mijn-tst.acm.nl](https://mijn-tst.acm.nl)| | **F**|nginx/1.25.3| | | | | | | | :white_check_mark: | |Nginx:1.25.3|403 Forbidden|
 

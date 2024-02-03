@@ -13,7 +13,7 @@
 |------------|-------|------|
 |[subdomains.txt](/data/loketkennisveiligheid.nl/subdomains.txt)|7|Alive subdomains|
 |[urls.txt](/data/loketkennisveiligheid.nl/urls.txt)|7|Urls|
-|[all_subdomains.txt](/data/loketkennisveiligheid.nl/all_subdomains.txt)|7|All found subdomains (history)|
+|[all_subdomains.txt](/data/loketkennisveiligheid.nl/all_subdomains.txt)|14|All found subdomains (history)|
 
 
 ## Statistics

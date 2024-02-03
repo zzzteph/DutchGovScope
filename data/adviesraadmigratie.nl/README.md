@@ -11,7 +11,7 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/adviesraadmigratie.nl/subdomains.txt)|6|Alive subdomains|
+|[subdomains.txt](/data/adviesraadmigratie.nl/subdomains.txt)|7|Alive subdomains|
 |[urls.txt](/data/adviesraadmigratie.nl/urls.txt)|4|Urls|
 |[all_subdomains.txt](/data/adviesraadmigratie.nl/all_subdomains.txt)|7|All found subdomains (history)|
 

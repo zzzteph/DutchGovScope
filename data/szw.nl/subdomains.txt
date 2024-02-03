@@ -29,3 +29,4 @@ gemeentevragen.szw.nl
 resultaten-wsw.szw.nl
 verlofwijzer.szw.nl
 webmail.szw.nl
+home.szw.nl

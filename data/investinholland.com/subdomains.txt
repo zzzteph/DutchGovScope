@@ -14,3 +14,5 @@ www.investinholland.com
 www.bak-jp.investinholland.com
 www.japan.investinholland.com
 investinholland.com
+autodiscover.investinholland.com
+localhost.investinholland.com

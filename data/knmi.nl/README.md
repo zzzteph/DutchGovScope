@@ -13,7 +13,7 @@
 |------------|-------|------|
 |[subdomains.txt](/data/knmi.nl/subdomains.txt)|156|Alive subdomains|
 |[urls.txt](/data/knmi.nl/urls.txt)|61|Urls|
-|[all_subdomains.txt](/data/knmi.nl/all_subdomains.txt)|264|All found subdomains (history)|
+|[all_subdomains.txt](/data/knmi.nl/all_subdomains.txt)|266|All found subdomains (history)|
 
 
 ## Statistics

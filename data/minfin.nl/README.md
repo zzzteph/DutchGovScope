@@ -13,7 +13,7 @@
 |------------|-------|------|
 |[subdomains.txt](/data/minfin.nl/subdomains.txt)|65|Alive subdomains|
 |[urls.txt](/data/minfin.nl/urls.txt)|8|Urls|
-|[all_subdomains.txt](/data/minfin.nl/all_subdomains.txt)|85|All found subdomains (history)|
+|[all_subdomains.txt](/data/minfin.nl/all_subdomains.txt)|88|All found subdomains (history)|
 
 
 ## Statistics

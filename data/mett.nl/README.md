@@ -12,7 +12,7 @@
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/mett.nl/subdomains.txt)|356|Alive subdomains|
-|[urls.txt](/data/mett.nl/urls.txt)|350|Urls|
+|[urls.txt](/data/mett.nl/urls.txt)|352|Urls|
 |[all_subdomains.txt](/data/mett.nl/all_subdomains.txt)|362|All found subdomains (history)|
 
 
@@ -371,4 +371,6 @@
 |[https://vindpaleislofen.mett.nl](https://vindpaleislofen.mett.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | ||Document Moved|
 |[https://energiehout.mett.nl](https://energiehout.mett.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET|Object moved|
 |[https://bio-enerco.mett.nl](https://bio-enerco.mett.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET|Object moved|
+|[https://regiohoogeland.demo.mett.nl](https://regiohoogeland.demo.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Document Moved|
+|[https://bequan.demo.mett.nl](https://bequan.demo.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Document Moved|
 

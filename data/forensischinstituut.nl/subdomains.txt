@@ -16,3 +16,5 @@ a-www.forensischinstituut.nl
 english.forensischinstituut.nl
 mail.forensischinstituut.nl
 mijnacademy.forensischinstituut.nl
+pop.forensischinstituut.nl
+test.forensischinstituut.nl

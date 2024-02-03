@@ -13,7 +13,7 @@
 |------------|-------|------|
 |[subdomains.txt](/data/minez.nl/subdomains.txt)|45|Alive subdomains|
 |[urls.txt](/data/minez.nl/urls.txt)|18|Urls|
-|[all_subdomains.txt](/data/minez.nl/all_subdomains.txt)|341|All found subdomains (history)|
+|[all_subdomains.txt](/data/minez.nl/all_subdomains.txt)|342|All found subdomains (history)|
 
 
 ## Statistics
@@ -35,7 +35,7 @@
 |[https://eidas.minez.nl](https://eidas.minez.nl)| | **A**||:o: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://eidasmw.minez.nl](https://eidasmw.minez.nl)| | **A**||:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://vws-demo.minez.nl](https://vws-demo.minez.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
-|[http://pmt-acc.minez.nl](http://pmt-acc.minez.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET||
+|[https://pmt-acc.minez.nl](https://pmt-acc.minez.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET||
 |[https://ibabs.minez.nl](https://ibabs.minez.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET||
 |[https://authpmt-acc.minez.nl](https://authpmt-acc.minez.nl)| | **A**||:o: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|iBabs - Meet in...|
 |[https://authpmt.minez.nl](https://authpmt.minez.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|iBabs - Meet in...|

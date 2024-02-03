@@ -12,7 +12,7 @@
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/awti.nl/subdomains.txt)|15|Alive subdomains|
-|[urls.txt](/data/awti.nl/urls.txt)|10|Urls|
+|[urls.txt](/data/awti.nl/urls.txt)|11|Urls|
 |[all_subdomains.txt](/data/awti.nl/all_subdomains.txt)|22|All found subdomains (history)|
 
 
@@ -31,4 +31,5 @@
 |[https://vpn.awti.nl](https://vpn.awti.nl)| **F**| **F**|Microsoft-IIS/10.0| | | | | | | | :white_check_mark: | |IIS:10.0 Windows Server||
 |[https://www.awti.nl](https://www.awti.nl)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Home | Adviesraa...|
 |[https://awti.nl](https://awti.nl)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
+|[https://ts.awti.nl](https://ts.awti.nl)| | **F**|Microsoft-IIS/10.0| | | | | | | | :white_check_mark: | |IIS:10.0 Windows Server||
 

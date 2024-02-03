@@ -2,3 +2,6 @@ feeds.huiselijkgeweld.nl
 opendata.huiselijkgeweld.nl
 www.huiselijkgeweld.nl
 huiselijkgeweld.nl
+a-feeds.huiselijkgeweld.nl
+a-opendata.huiselijkgeweld.nl
+a-www.huiselijkgeweld.nl

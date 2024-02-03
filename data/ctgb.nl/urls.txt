@@ -22,5 +22,5 @@ http://public.mst-acc.ctgb.nl
 http://autodiscover.ctgb.nl
 https://testconn.ctgb.nl
 https://password.ctgb.nl
-http://acm.ctgb.nl
+https://acm.ctgb.nl
 https://ctgb.nl

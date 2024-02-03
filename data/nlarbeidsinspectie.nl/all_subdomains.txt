@@ -9,3 +9,5 @@ feeds.nlarbeidsinspectie.nl
 nlarbeidsinspectie.nl
 test.resultaten.nlarbeidsinspectie.nl
 www.asbestovertredingen.nlarbeidsinspectie.nl
+a-feeds.nlarbeidsinspectie.nl
+a-www.nlarbeidsinspectie.nl

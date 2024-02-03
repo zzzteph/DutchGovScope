@@ -41,3 +41,8 @@ test.meldingen.inspectieszw.nl
 preprod-iszw-ca.inspectieszw.nl
 services.inspectieszw.nl
 acc2-nl-iszw-minezk-tvs-etd-saml-client-sign.inspectieszw.nl
+a-feeds.inspectieszw.nl
+a-opendata.inspectieszw.nl
+a-www.inspectieszw.nl
+don.inspectieszw.nl
+localhost.inspectieszw.nl

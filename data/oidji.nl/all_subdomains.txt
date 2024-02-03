@@ -9,3 +9,6 @@ oidji.nl
 class.oidji.nl
 elo.oidji.nl
 www.elo.oidji.nl
+a-feeds.oidji.nl
+a-opendata.oidji.nl
+a-www.oidji.nl

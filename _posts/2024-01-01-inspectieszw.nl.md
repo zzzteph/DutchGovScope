@@ -2,8 +2,8 @@
 layout: default
 title: "inspectieszw.nl"
 permalink: "/dutchgov/inspectieszw.nl.html"
-subdomains_count: 9
-all_subdomains_count: 43
+subdomains_count: 14
+all_subdomains_count: 48
 urls_count: 9
 ssl_rank: 
 http_rank: B
@@ -27,9 +27,9 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/inspectieszw.nl/subdomains.txt)|9|Alive subdomains|
+|[subdomains.txt](/DutchGovScope/data/inspectieszw.nl/subdomains.txt)|14|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/inspectieszw.nl/urls.txt)|9|Urls|
-|[all_subdomains.txt](/DutchGovScope/data/inspectieszw.nl/all_subdomains.txt)|43|All found subdomains (history)|
+|[all_subdomains.txt](/DutchGovScope/data/inspectieszw.nl/all_subdomains.txt)|48|All found subdomains (history)|
 
 
 ## Statistics

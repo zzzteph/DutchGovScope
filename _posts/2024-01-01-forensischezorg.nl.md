@@ -2,7 +2,7 @@
 layout: default
 title: "forensischezorg.nl"
 permalink: "/dutchgov/forensischezorg.nl.html"
-subdomains_count: 5
+subdomains_count: 9
 all_subdomains_count: 9
 urls_count: 4
 ssl_rank: A+
@@ -27,7 +27,7 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/forensischezorg.nl/subdomains.txt)|5|Alive subdomains|
+|[subdomains.txt](/DutchGovScope/data/forensischezorg.nl/subdomains.txt)|9|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/forensischezorg.nl/urls.txt)|4|Urls|
 |[all_subdomains.txt](/DutchGovScope/data/forensischezorg.nl/all_subdomains.txt)|9|All found subdomains (history)|
 

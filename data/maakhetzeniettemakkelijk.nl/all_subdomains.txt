@@ -9,3 +9,5 @@ feeds.english.maakhetzeniettemakkelijk.nl
 magazines.english.maakhetzeniettemakkelijk.nl
 magazines.maakhetzeniettemakkelijk.nl
 opendata.english.maakhetzeniettemakkelijk.nl
+a-feeds.maakhetzeniettemakkelijk.nl
+a-opendata.maakhetzeniettemakkelijk.nl

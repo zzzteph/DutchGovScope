@@ -262,3 +262,5 @@ www.jira.knmi.nl
 tgms.rijkspas.knmi.nl
 geoweb-test.knmi.nl
 knmi-sfsc-w01p.knmi.nl
+dcpc.knmi.nl
+test.knmi.nl

@@ -20,3 +20,7 @@ recidive.justitie.nl
 bibob.justitie.nl
 intranet.justitie.nl
 mot.justitie.nl
+csg.justitie.nl
+ihg.justitie.nl
+smtp1.justitie.nl
+spam.justitie.nl

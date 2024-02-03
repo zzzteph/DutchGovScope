@@ -11,9 +11,9 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/minienm.nl/subdomains.txt)|61|Alive subdomains|
+|[subdomains.txt](/data/minienm.nl/subdomains.txt)|60|Alive subdomains|
 |[urls.txt](/data/minienm.nl/urls.txt)|17|Urls|
-|[all_subdomains.txt](/data/minienm.nl/all_subdomains.txt)|128|All found subdomains (history)|
+|[all_subdomains.txt](/data/minienm.nl/all_subdomains.txt)|133|All found subdomains (history)|
 
 
 ## Statistics

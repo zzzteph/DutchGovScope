@@ -9,3 +9,10 @@ magazinesintern.english.nederlanddigitaal.nl
 magazinesintern.nederlanddigitaal.nl
 magazines.nederlanddigitaal.nl
 opendata.english.nederlanddigitaal.nl
+a-feeds.nederlanddigitaal.nl
+a-opendata.nederlanddigitaal.nl
+a-www.nederlanddigitaal.nl
+aanmelder.nederlanddigitaal.nl
+i-www.nederlanddigitaal.nl
+o-www.nederlanddigitaal.nl
+t-www.nederlanddigitaal.nl

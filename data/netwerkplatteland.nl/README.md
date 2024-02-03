@@ -13,7 +13,7 @@
 |------------|-------|------|
 |[subdomains.txt](/data/netwerkplatteland.nl/subdomains.txt)|5|Alive subdomains|
 |[urls.txt](/data/netwerkplatteland.nl/urls.txt)|5|Urls|
-|[all_subdomains.txt](/data/netwerkplatteland.nl/all_subdomains.txt)|7|All found subdomains (history)|
+|[all_subdomains.txt](/data/netwerkplatteland.nl/all_subdomains.txt)|14|All found subdomains (history)|
 
 
 ## Statistics

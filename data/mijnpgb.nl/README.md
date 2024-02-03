@@ -13,7 +13,7 @@
 |------------|-------|------|
 |[subdomains.txt](/data/mijnpgb.nl/subdomains.txt)|4|Alive subdomains|
 |[urls.txt](/data/mijnpgb.nl/urls.txt)|4|Urls|
-|[all_subdomains.txt](/data/mijnpgb.nl/all_subdomains.txt)|13|All found subdomains (history)|
+|[all_subdomains.txt](/data/mijnpgb.nl/all_subdomains.txt)|16|All found subdomains (history)|
 
 
 ## Statistics

@@ -11,3 +11,6 @@ navigator.oesorichtlijnen.nl
 english.oesorichtlijnen.nl
 feeds.english.oesorichtlijnen.nl
 magazines.english.oesorichtlijnen.nl
+a-feeds.oesorichtlijnen.nl
+a-opendata.oesorichtlijnen.nl
+a-www.oesorichtlijnen.nl

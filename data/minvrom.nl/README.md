@@ -13,7 +13,7 @@
 |------------|-------|------|
 |[subdomains.txt](/data/minvrom.nl/subdomains.txt)|10|Alive subdomains|
 |[urls.txt](/data/minvrom.nl/urls.txt)|2|Urls|
-|[all_subdomains.txt](/data/minvrom.nl/all_subdomains.txt)|17|All found subdomains (history)|
+|[all_subdomains.txt](/data/minvrom.nl/all_subdomains.txt)|25|All found subdomains (history)|
 
 
 ## Statistics

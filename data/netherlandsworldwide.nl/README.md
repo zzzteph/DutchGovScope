@@ -13,7 +13,7 @@
 |------------|-------|------|
 |[subdomains.txt](/data/netherlandsworldwide.nl/subdomains.txt)|4|Alive subdomains|
 |[urls.txt](/data/netherlandsworldwide.nl/urls.txt)|3|Urls|
-|[all_subdomains.txt](/data/netherlandsworldwide.nl/all_subdomains.txt)|16|All found subdomains (history)|
+|[all_subdomains.txt](/data/netherlandsworldwide.nl/all_subdomains.txt)|17|All found subdomains (history)|
 
 
 ## Statistics

@@ -12,7 +12,7 @@
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/zuid-holland.nl/subdomains.txt)|73|Alive subdomains|
-|[urls.txt](/data/zuid-holland.nl/urls.txt)|67|Urls|
+|[urls.txt](/data/zuid-holland.nl/urls.txt)|69|Urls|
 |[all_subdomains.txt](/data/zuid-holland.nl/all_subdomains.txt)|135|All found subdomains (history)|
 
 
@@ -88,4 +88,6 @@
 |[https://keuzehulpverkeersmaatregelen.zuid-holland.nl](https://keuzehulpverkeersmaatregelen.zuid-holland.nl)| | **D**|waitress|:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | |Azure Bootstrap:5.1.3 HSTS|Keuzehulp werkba...|
 |[https://omgevingsdocumenten.zuid-holland.nl](https://omgevingsdocumenten.zuid-holland.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://investerenin.zuid-holland.nl](https://investerenin.zuid-holland.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||
+|[https://preprod-belastingen.zuid-holland.nl](https://preprod-belastingen.zuid-holland.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS|Object moved|
+|[https://belastingen.zuid-holland.nl](https://belastingen.zuid-holland.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS|Object moved|
 

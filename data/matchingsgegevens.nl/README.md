@@ -13,7 +13,7 @@
 |------------|-------|------|
 |[subdomains.txt](/data/matchingsgegevens.nl/subdomains.txt)|4|Alive subdomains|
 |[urls.txt](/data/matchingsgegevens.nl/urls.txt)|4|Urls|
-|[all_subdomains.txt](/data/matchingsgegevens.nl/all_subdomains.txt)|4|All found subdomains (history)|
+|[all_subdomains.txt](/data/matchingsgegevens.nl/all_subdomains.txt)|7|All found subdomains (history)|
 
 
 ## Statistics

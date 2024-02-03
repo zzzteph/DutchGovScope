@@ -11,7 +11,7 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/ctgb.nl/subdomains.txt)|50|Alive subdomains|
+|[subdomains.txt](/data/ctgb.nl/subdomains.txt)|51|Alive subdomains|
 |[urls.txt](/data/ctgb.nl/urls.txt)|26|Urls|
 |[all_subdomains.txt](/data/ctgb.nl/all_subdomains.txt)|116|All found subdomains (history)|
 
@@ -45,6 +45,6 @@
 |[http://autodiscover.ctgb.nl](http://autodiscover.ctgb.nl)| **A**| **F**|BigIP| | | | | | | | :white_check_mark: | |F5 BigIP||
 |[https://testconn.ctgb.nl](https://testconn.ctgb.nl)| **B**| **F**|BigIP| | | | | | | | :white_check_mark: | |F5 BigIP||
 |[https://password.ctgb.nl](https://password.ctgb.nl)| **B**| **E**|| | | | | | | | :white_check_mark: | |HSTS Java||
-|[http://acm.ctgb.nl](http://acm.ctgb.nl)| **B**| **B**|BigIP| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |F5 BigIP||
+|[https://acm.ctgb.nl](https://acm.ctgb.nl)| **B**| **B**|nginx| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS Java Nginx||
 |[https://ctgb.nl](https://ctgb.nl)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
 

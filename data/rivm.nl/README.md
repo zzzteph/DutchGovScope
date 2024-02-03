@@ -12,7 +12,7 @@
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/rivm.nl/subdomains.txt)|396|Alive subdomains|
-|[urls.txt](/data/rivm.nl/urls.txt)|264|Urls|
+|[urls.txt](/data/rivm.nl/urls.txt)|266|Urls|
 |[all_subdomains.txt](/data/rivm.nl/all_subdomains.txt)|918|All found subdomains (history)|
 
 
@@ -285,4 +285,6 @@
 |[https://manveldapp-beheer.rivm.nl](https://manveldapp-beheer.rivm.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |HSTS Nginx|Mendix|
 |[https://dev-lsp.rivm.nl](https://dev-lsp.rivm.nl)| | **F**|Microsoft-Azure-Application-Gateway/v2| | | | | | | | :white_check_mark: | ||404 Not Found|
 |[https://api.dev-lsp.rivm.nl](https://api.dev-lsp.rivm.nl)| | **F**|Microsoft-Azure-Application-Gateway/v2| | | | | | | | :white_check_mark: | ||404 Not Found|
+|[https://tst-lsp.rivm.nl](https://tst-lsp.rivm.nl)| | **F**|Microsoft-Azure-Application-Gateway/v2| | | | | | | | :white_check_mark: | ||404 Not Found|
+|[https://api.tst-lsp.rivm.nl](https://api.tst-lsp.rivm.nl)| | **F**|Microsoft-Azure-Application-Gateway/v2| | | | | | | | :white_check_mark: | ||404 Not Found|
 

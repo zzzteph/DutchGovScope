@@ -13,7 +13,7 @@
 |------------|-------|------|
 |[subdomains.txt](/data/nrgd.nl/subdomains.txt)|7|Alive subdomains|
 |[urls.txt](/data/nrgd.nl/urls.txt)|7|Urls|
-|[all_subdomains.txt](/data/nrgd.nl/all_subdomains.txt)|11|All found subdomains (history)|
+|[all_subdomains.txt](/data/nrgd.nl/all_subdomains.txt)|17|All found subdomains (history)|
 
 
 ## Statistics

@@ -225,3 +225,4 @@ testresultaten-webdav.vm-05.azure.grid.rws.nl
 risicodatabase.rws.nl
 wiki-intern.rws.nl
 acceptatie.nlhull.rws.nl
+relay-2s.rws.nl

@@ -48,3 +48,4 @@ apiservices.ctgb.nl
 i-www.ctgb.nl
 o-www.ctgb.nl
 t-www.ctgb.nl
+portaal.ctgb.nl

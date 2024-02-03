@@ -2,8 +2,8 @@
 layout: default
 title: "it-academieoverheid.nl"
 permalink: "/dutchgov/it-academieoverheid.nl.html"
-subdomains_count: 5
-all_subdomains_count: 12
+subdomains_count: 7
+all_subdomains_count: 14
 urls_count: 5
 ssl_rank: 
 http_rank: A
@@ -27,9 +27,9 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/it-academieoverheid.nl/subdomains.txt)|5|Alive subdomains|
+|[subdomains.txt](/DutchGovScope/data/it-academieoverheid.nl/subdomains.txt)|7|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/it-academieoverheid.nl/urls.txt)|5|Urls|
-|[all_subdomains.txt](/DutchGovScope/data/it-academieoverheid.nl/all_subdomains.txt)|12|All found subdomains (history)|
+|[all_subdomains.txt](/DutchGovScope/data/it-academieoverheid.nl/all_subdomains.txt)|14|All found subdomains (history)|
 
 
 ## Statistics

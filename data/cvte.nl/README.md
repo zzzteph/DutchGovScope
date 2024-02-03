@@ -12,7 +12,7 @@
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/cvte.nl/subdomains.txt)|11|Alive subdomains|
-|[urls.txt](/data/cvte.nl/urls.txt)|7|Urls|
+|[urls.txt](/data/cvte.nl/urls.txt)|8|Urls|
 |[all_subdomains.txt](/data/cvte.nl/all_subdomains.txt)|19|All found subdomains (history)|
 
 
@@ -28,4 +28,5 @@
 |[https://www.cvte.nl](https://www.cvte.nl)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|College voor Toe...|
 |[https://cvte.nl](https://cvte.nl)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
 |[https://autodiscover.cvte.nl](https://autodiscover.cvte.nl)| **B**| **E**|Microsoft-IIS/10.0| | | | | | :white_check_mark: | | :white_check_mark: | |IIS:10.0 Windows Server||
+|[https://wg.cvte.nl](https://wg.cvte.nl)| | **F**|Microsoft-IIS/10.0| | | | | | | | :white_check_mark: | |IIS:10.0 Windows Server||
 

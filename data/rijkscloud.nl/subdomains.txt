@@ -511,3 +511,16 @@ vpn01.gn3.rijkscloud.nl
 vpn02.gn2.rijkscloud.nl
 vpn02.gn3.rijkscloud.nl
 vpn2.ec.rijkscloud.nl
+whatsip.test.ix.rijkscloud.nl
+dhcp2.ec.rijkscloud.nl
+login-a.rvb.rijkscloud.nl
+dvrvb-a.rvb.rijkscloud.nl
+ns1.ec.rijkscloud.nl
+ntp1.ec.rijkscloud.nl
+ntp2.rw1.rijkscloud.nl
+oms-o.rvb.rijkscloud.nl
+prx1.gn2.rijkscloud.nl
+prx1.gn3.rijkscloud.nl
+prx2.gn3.rijkscloud.nl
+resolv1.ec.rijkscloud.nl
+vcda-cs.ec.rijkscloud.nl

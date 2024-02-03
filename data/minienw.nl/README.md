@@ -13,7 +13,7 @@
 |------------|-------|------|
 |[subdomains.txt](/data/minienw.nl/subdomains.txt)|23|Alive subdomains|
 |[urls.txt](/data/minienw.nl/urls.txt)|7|Urls|
-|[all_subdomains.txt](/data/minienw.nl/all_subdomains.txt)|45|All found subdomains (history)|
+|[all_subdomains.txt](/data/minienw.nl/all_subdomains.txt)|55|All found subdomains (history)|
 
 
 ## Statistics

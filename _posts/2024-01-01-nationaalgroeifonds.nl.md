@@ -3,7 +3,7 @@ layout: default
 title: "nationaalgroeifonds.nl"
 permalink: "/dutchgov/nationaalgroeifonds.nl.html"
 subdomains_count: 4
-all_subdomains_count: 4
+all_subdomains_count: 9
 urls_count: 4
 ssl_rank: 
 http_rank: A
@@ -29,7 +29,7 @@ tags: dutchgov
 |------------|-------|------|
 |[subdomains.txt](/DutchGovScope/data/nationaalgroeifonds.nl/subdomains.txt)|4|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/nationaalgroeifonds.nl/urls.txt)|4|Urls|
-|[all_subdomains.txt](/DutchGovScope/data/nationaalgroeifonds.nl/all_subdomains.txt)|4|All found subdomains (history)|
+|[all_subdomains.txt](/DutchGovScope/data/nationaalgroeifonds.nl/all_subdomains.txt)|9|All found subdomains (history)|
 
 
 ## Statistics

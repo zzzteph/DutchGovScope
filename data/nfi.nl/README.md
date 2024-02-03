@@ -13,7 +13,7 @@
 |------------|-------|------|
 |[subdomains.txt](/data/nfi.nl/subdomains.txt)|13|Alive subdomains|
 |[urls.txt](/data/nfi.nl/urls.txt)|12|Urls|
-|[all_subdomains.txt](/data/nfi.nl/all_subdomains.txt)|17|All found subdomains (history)|
+|[all_subdomains.txt](/data/nfi.nl/all_subdomains.txt)|19|All found subdomains (history)|
 
 
 ## Statistics

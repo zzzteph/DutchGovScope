@@ -3,7 +3,7 @@ layout: default
 title: "luchtvaartindetoekomst.nl"
 permalink: "/dutchgov/luchtvaartindetoekomst.nl.html"
 subdomains_count: 4
-all_subdomains_count: 5
+all_subdomains_count: 8
 urls_count: 4
 ssl_rank: 
 http_rank: A
@@ -29,7 +29,7 @@ tags: dutchgov
 |------------|-------|------|
 |[subdomains.txt](/DutchGovScope/data/luchtvaartindetoekomst.nl/subdomains.txt)|4|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/luchtvaartindetoekomst.nl/urls.txt)|4|Urls|
-|[all_subdomains.txt](/DutchGovScope/data/luchtvaartindetoekomst.nl/all_subdomains.txt)|5|All found subdomains (history)|
+|[all_subdomains.txt](/DutchGovScope/data/luchtvaartindetoekomst.nl/all_subdomains.txt)|8|All found subdomains (history)|
 
 
 ## Statistics

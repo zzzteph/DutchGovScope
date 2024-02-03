@@ -12,3 +12,9 @@ plutonium.justitie.nl
 relay.justitie.nl
 smtp2.justitie.nl
 testjep.justitie.nl
+deskundigenregister.justitie.nl
+gesubsidieerde-rechtsbijstand.justitie.nl
+csg.justitie.nl
+ihg.justitie.nl
+smtp1.justitie.nl
+spam.justitie.nl

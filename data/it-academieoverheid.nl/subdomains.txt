@@ -3,3 +3,5 @@ opendata.it-academieoverheid.nl
 www.it-academieoverheid.nl
 it-academieoverheid.nl
 leerplatform.it-academieoverheid.nl
+a-opendata.it-academieoverheid.nl
+a-www.it-academieoverheid.nl

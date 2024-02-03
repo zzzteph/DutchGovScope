@@ -74,3 +74,5 @@ diane.extern.minszw.nl
 win4023vm.extern.minszw.nl
 acc-bvrin.minszw.nl
 dvs-qas.minszw.nl
+ftp.minszw.nl
+webmail.minszw.nl

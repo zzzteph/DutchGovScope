@@ -40,3 +40,4 @@ www.bayplanviewer2.bics.nl
 www.livra.bics.nl
 www.ds2.bics.nl
 www.nlrdms.bics.nl
+migratie.bics.nl

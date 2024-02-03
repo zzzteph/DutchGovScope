@@ -25,3 +25,9 @@ qsync.onderwijsraad.nl
 www.pushmail.onderwijsraad.nl
 opendata.english.onderwijsraad.nl
 metis.onderwijsraad.nl
+a-feeds.onderwijsraad.nl
+a-www.onderwijsraad.nl
+control.onderwijsraad.nl
+ts2.onderwijsraad.nl
+webmail.onderwijsraad.nl
+webhook.onderwijsraad.nl

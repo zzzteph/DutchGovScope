@@ -9,3 +9,6 @@ magazines.monitorlangdurigezorg.nl
 magazinesintern.english.monitorlangdurigezorg.nl
 feeds.english.monitorlangdurigezorg.nl
 opendata.english.monitorlangdurigezorg.nl
+a-feeds.monitorlangdurigezorg.nl
+a-opendata.monitorlangdurigezorg.nl
+a-www.monitorlangdurigezorg.nl

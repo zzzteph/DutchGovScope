@@ -8,3 +8,4 @@ https://smtp1.awti.nl
 https://vpn.awti.nl
 https://www.awti.nl
 https://awti.nl
+https://ts.awti.nl

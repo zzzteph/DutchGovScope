@@ -10,3 +10,7 @@ digikoppeling.isdbollenstreek.nl
 dkd.isdbollenstreek.nl
 mail.isdbollenstreek.nl
 mijnloket.isdbollenstreek.nl
+autodiscover.isdbollenstreek.nl
+cloudconnector.isdbollenstreek.nl
+pop3.isdbollenstreek.nl
+smtp.isdbollenstreek.nl

@@ -11,9 +11,9 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/isdbollenstreek.nl/subdomains.txt)|12|Alive subdomains|
+|[subdomains.txt](/data/isdbollenstreek.nl/subdomains.txt)|16|Alive subdomains|
 |[urls.txt](/data/isdbollenstreek.nl/urls.txt)|5|Urls|
-|[all_subdomains.txt](/data/isdbollenstreek.nl/all_subdomains.txt)|14|All found subdomains (history)|
+|[all_subdomains.txt](/data/isdbollenstreek.nl/all_subdomains.txt)|18|All found subdomains (history)|
 
 
 ## Statistics

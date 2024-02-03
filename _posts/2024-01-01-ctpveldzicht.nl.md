@@ -4,7 +4,7 @@ title: "ctpveldzicht.nl"
 permalink: "/dutchgov/ctpveldzicht.nl.html"
 subdomains_count: 12
 all_subdomains_count: 14
-urls_count: 8
+urls_count: 9
 ssl_rank: C
 http_rank: C
 security_txt: 0
@@ -28,7 +28,7 @@ tags: dutchgov
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/DutchGovScope/data/ctpveldzicht.nl/subdomains.txt)|12|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/ctpveldzicht.nl/urls.txt)|8|Urls|
+|[urls.txt](/DutchGovScope/data/ctpveldzicht.nl/urls.txt)|9|Urls|
 |[all_subdomains.txt](/DutchGovScope/data/ctpveldzicht.nl/all_subdomains.txt)|14|All found subdomains (history)|
 
 
@@ -45,4 +45,5 @@ tags: dutchgov
 |[https://ctpveldzicht.nl](https://ctpveldzicht.nl)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
 |[https://ftp.ctpveldzicht.nl](https://ftp.ctpveldzicht.nl)| **F**| **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|Default site|
 |[https://staging.ctpveldzicht.nl](https://staging.ctpveldzicht.nl)| **F**| **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|Default site|
+|[https://mail.ctpveldzicht.nl](https://mail.ctpveldzicht.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|Default site|
 

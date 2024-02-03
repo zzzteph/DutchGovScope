@@ -12,7 +12,7 @@
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/tweedekamer.nl/subdomains.txt)|141|Alive subdomains|
-|[urls.txt](/data/tweedekamer.nl/urls.txt)|111|Urls|
+|[urls.txt](/data/tweedekamer.nl/urls.txt)|113|Urls|
 |[all_subdomains.txt](/data/tweedekamer.nl/all_subdomains.txt)|237|All found subdomains (history)|
 
 
@@ -132,4 +132,6 @@
 |[https://sesam.tweedekamer.nl](https://sesam.tweedekamer.nl)| | **B**|BigIP|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |F5 BigIP||
 |[https://kva-test.tweedekamer.nl](https://kva-test.tweedekamer.nl)| | **F**|BigIP|:warning: | | | | | :white_check_mark: | | :white_check_mark: | |F5 BigIP||
 |[https://kva-tst.tweedekamer.nl](https://kva-tst.tweedekamer.nl)| | **B**|BigIP|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |F5 BigIP||
+|[https://vip-acc.tweedekamer.nl](https://vip-acc.tweedekamer.nl)| | **B**|BigIP|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |F5 BigIP||
+|[https://opendata-wiki.tweedekamer.nl](https://opendata-wiki.tweedekamer.nl)| | **B**|BigIP|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |F5 BigIP||
 

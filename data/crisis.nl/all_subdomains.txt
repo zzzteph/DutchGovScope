@@ -3,3 +3,11 @@ crisis.nl
 cms.crisis.nl
 remote.crisis.nl
 acc.crisis.nl
+crisis01.crisis.nl
+crisis02.crisis.nl
+crisis05.crisis.nl
+remote01.crisis.nl
+crisis04.crisis.nl
+denkvooruit.crisis.nl
+training13.crisis.nl
+www2.crisis.nl

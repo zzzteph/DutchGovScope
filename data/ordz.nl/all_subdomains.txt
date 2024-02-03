@@ -12,3 +12,6 @@ www.elearning.ordz.nl
 english.ordz.nl
 magazinesintern.ordz.nl
 magazines.ordz.nl
+a-feeds.ordz.nl
+a-opendata.ordz.nl
+a-www.ordz.nl

@@ -6,3 +6,4 @@ https://staging.english.ctpveldzicht.nl
 https://ctpveldzicht.nl
 https://ftp.ctpveldzicht.nl
 https://staging.ctpveldzicht.nl
+https://mail.ctpveldzicht.nl

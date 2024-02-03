@@ -2,7 +2,7 @@
 layout: default
 title: "healthcouncil.nl"
 permalink: "/dutchgov/healthcouncil.nl.html"
-subdomains_count: 7
+subdomains_count: 8
 all_subdomains_count: 12
 urls_count: 4
 ssl_rank: 
@@ -27,7 +27,7 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/healthcouncil.nl/subdomains.txt)|7|Alive subdomains|
+|[subdomains.txt](/DutchGovScope/data/healthcouncil.nl/subdomains.txt)|8|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/healthcouncil.nl/urls.txt)|4|Urls|
 |[all_subdomains.txt](/DutchGovScope/data/healthcouncil.nl/all_subdomains.txt)|12|All found subdomains (history)|
 

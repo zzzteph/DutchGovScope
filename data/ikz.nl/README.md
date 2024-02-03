@@ -11,9 +11,9 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/ikz.nl/subdomains.txt)|10|Alive subdomains|
+|[subdomains.txt](/data/ikz.nl/subdomains.txt)|12|Alive subdomains|
 |[urls.txt](/data/ikz.nl/urls.txt)|7|Urls|
-|[all_subdomains.txt](/data/ikz.nl/all_subdomains.txt)|32|All found subdomains (history)|
+|[all_subdomains.txt](/data/ikz.nl/all_subdomains.txt)|34|All found subdomains (history)|
 
 
 ## Statistics

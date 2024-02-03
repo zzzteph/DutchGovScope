@@ -9,3 +9,4 @@ sip.myroom.anvs.nl
 sdm.anvs.nl
 acc2.loket.anvs.nl
 processen.anvs.nl
+www.loket.anvs.nl

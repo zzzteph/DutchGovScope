@@ -11,9 +11,9 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/informatiehuishouding.nl/subdomains.txt)|6|Alive subdomains|
+|[subdomains.txt](/data/informatiehuishouding.nl/subdomains.txt)|9|Alive subdomains|
 |[urls.txt](/data/informatiehuishouding.nl/urls.txt)|6|Urls|
-|[all_subdomains.txt](/data/informatiehuishouding.nl/all_subdomains.txt)|12|All found subdomains (history)|
+|[all_subdomains.txt](/data/informatiehuishouding.nl/all_subdomains.txt)|15|All found subdomains (history)|
 
 
 ## Statistics

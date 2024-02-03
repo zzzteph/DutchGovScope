@@ -10,3 +10,7 @@ magazines.english.kimnet.nl
 forum.kimnet.nl
 magazines.kimnet.nl
 magazinesintern.kimnet.nl
+a-english.kimnet.nl
+a-feeds.a-english.kimnet.nl
+a-feeds.kimnet.nl
+a-opendata.kimnet.nl

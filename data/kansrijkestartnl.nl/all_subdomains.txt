@@ -11,3 +11,5 @@ magazinesintern.kansrijkestartnl.nl
 opendata.english.kansrijkestartnl.nl
 english.kansrijkestartnl.nl
 www.menukaart.kansrijkestartnl.nl
+a-feeds.kansrijkestartnl.nl
+a-www.kansrijkestartnl.nl

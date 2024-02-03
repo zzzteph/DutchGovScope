@@ -2,7 +2,7 @@
 layout: default
 title: "gratisvog.nl"
 permalink: "/dutchgov/gratisvog.nl.html"
-subdomains_count: 9
+subdomains_count: 12
 all_subdomains_count: 16
 urls_count: 9
 ssl_rank: A+
@@ -27,7 +27,7 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/gratisvog.nl/subdomains.txt)|9|Alive subdomains|
+|[subdomains.txt](/DutchGovScope/data/gratisvog.nl/subdomains.txt)|12|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/gratisvog.nl/urls.txt)|9|Urls|
 |[all_subdomains.txt](/DutchGovScope/data/gratisvog.nl/all_subdomains.txt)|16|All found subdomains (history)|
 

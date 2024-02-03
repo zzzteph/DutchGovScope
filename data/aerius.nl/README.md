@@ -11,9 +11,9 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/aerius.nl/subdomains.txt)|54|Alive subdomains|
-|[urls.txt](/data/aerius.nl/urls.txt)|20|Urls|
-|[all_subdomains.txt](/data/aerius.nl/all_subdomains.txt)|56|All found subdomains (history)|
+|[subdomains.txt](/data/aerius.nl/subdomains.txt)|56|Alive subdomains|
+|[urls.txt](/data/aerius.nl/urls.txt)|21|Urls|
+|[all_subdomains.txt](/data/aerius.nl/all_subdomains.txt)|57|All found subdomains (history)|
 
 
 ## Statistics
@@ -41,4 +41,5 @@
 |[https://regelingsondersteuning.aerius.nl](https://regelingsondersteuning.aerius.nl)| | **B**||:warning: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS Java|AERIUS® Check|
 |[https://auth-dev.aerius.nl](https://auth-dev.aerius.nl)| | **B**|Server|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Amazon CloudFront Amazon Web Services Bootstrap HSTS|Signin|
 |[https://auth-register-dev.aerius.nl](https://auth-register-dev.aerius.nl)| | **B**|Server|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Amazon CloudFront Amazon Web Services Bootstrap HSTS|Signin|
+|[https://link.aerius.nl](https://link.aerius.nl)| | **E**|| | | | | | | | :white_check_mark: | |Bootstrap:4.3.1|Not Found | Shli...|
 

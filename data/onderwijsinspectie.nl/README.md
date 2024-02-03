@@ -13,7 +13,7 @@
 |------------|-------|------|
 |[subdomains.txt](/data/onderwijsinspectie.nl/subdomains.txt)|14|Alive subdomains|
 |[urls.txt](/data/onderwijsinspectie.nl/urls.txt)|14|Urls|
-|[all_subdomains.txt](/data/onderwijsinspectie.nl/all_subdomains.txt)|21|All found subdomains (history)|
+|[all_subdomains.txt](/data/onderwijsinspectie.nl/all_subdomains.txt)|27|All found subdomains (history)|
 
 
 ## Statistics

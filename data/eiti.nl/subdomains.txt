@@ -8,3 +8,4 @@ a-www.eiti.nl
 i-www.eiti.nl
 o-www.eiti.nl
 t-www.eiti.nl
+a-opendata.eiti.nl

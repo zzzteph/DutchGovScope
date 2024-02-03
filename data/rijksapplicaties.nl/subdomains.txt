@@ -244,3 +244,4 @@ ssc.test.syn.rijksapplicaties.nl
 rvb-flowboard.rijksapplicaties.nl
 rso.acc.syn.rijksapplicaties.nl
 catfmh.syn.rijksapplicaties.nl
+bva.rijksapplicaties.nl

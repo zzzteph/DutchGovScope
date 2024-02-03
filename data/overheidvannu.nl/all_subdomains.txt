@@ -11,3 +11,7 @@ english.overheidvannu.nl
 magazinesintern.english.overheidvannu.nl
 magazinesintern.overheidvannu.nl
 opendata.english.overheidvannu.nl
+a-feeds.overheidvannu.nl
+a-magazines.overheidvannu.nl
+a-opendata.overheidvannu.nl
+a-www.overheidvannu.nl

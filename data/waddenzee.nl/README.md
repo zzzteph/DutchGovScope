@@ -13,7 +13,7 @@
 |------------|-------|------|
 |[subdomains.txt](/data/waddenzee.nl/subdomains.txt)|10|Alive subdomains|
 |[urls.txt](/data/waddenzee.nl/urls.txt)|10|Urls|
-|[all_subdomains.txt](/data/waddenzee.nl/all_subdomains.txt)|11|All found subdomains (history)|
+|[all_subdomains.txt](/data/waddenzee.nl/all_subdomains.txt)|22|All found subdomains (history)|
 
 
 ## Statistics

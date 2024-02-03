@@ -5,3 +5,7 @@ royal-house.nl
 a-feeds.royal-house.nl
 a-opendata.royal-house.nl
 a-www.royal-house.nl
+a-magazinesintern.royal-house.nl
+a-magazines.royal-house.nl
+magazines.royal-house.nl
+magazinesintern.royal-house.nl

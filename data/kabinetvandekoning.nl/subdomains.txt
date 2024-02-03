@@ -13,3 +13,9 @@ a-opendata.kabinetvandekoning.nl
 a-www.kabinetvandekoning.nl
 a-english.kabinetvandekoning.nl
 mail2.kabinetvandekoning.nl
+autodiscover.kabinetvandekoning.nl
+enterpriseenrollment.kabinetvandekoning.nl
+enterpriseregistration.kabinetvandekoning.nl
+i-www.kabinetvandekoning.nl
+o-www.kabinetvandekoning.nl
+t-www.kabinetvandekoning.nl

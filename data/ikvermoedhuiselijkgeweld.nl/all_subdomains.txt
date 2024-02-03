@@ -9,3 +9,5 @@ magazinesintern.english.ikvermoedhuiselijkgeweld.nl
 english.ikvermoedhuiselijkgeweld.nl
 feeds.english.ikvermoedhuiselijkgeweld.nl
 magazines.ikvermoedhuiselijkgeweld.nl
+a-feeds.ikvermoedhuiselijkgeweld.nl
+a-opendata.ikvermoedhuiselijkgeweld.nl

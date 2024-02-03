@@ -3,3 +3,5 @@ opendata.gelijke-kansen.nl
 www.gelijke-kansen.nl
 gelijke-kansen.nl
 a-www.gelijke-kansen.nl
+a-feeds.gelijke-kansen.nl
+a-opendata.gelijke-kansen.nl

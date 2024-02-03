@@ -13,7 +13,7 @@
 |------------|-------|------|
 |[subdomains.txt](/data/kinderbescherming.nl/subdomains.txt)|12|Alive subdomains|
 |[urls.txt](/data/kinderbescherming.nl/urls.txt)|7|Urls|
-|[all_subdomains.txt](/data/kinderbescherming.nl/all_subdomains.txt)|18|All found subdomains (history)|
+|[all_subdomains.txt](/data/kinderbescherming.nl/all_subdomains.txt)|22|All found subdomains (history)|
 
 
 ## Statistics

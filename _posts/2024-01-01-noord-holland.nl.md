@@ -3,7 +3,7 @@ layout: default
 title: "noord-holland.nl"
 permalink: "/dutchgov/noord-holland.nl.html"
 subdomains_count: 102
-all_subdomains_count: 269
+all_subdomains_count: 272
 urls_count: 72
 ssl_rank: 
 http_rank: C
@@ -29,7 +29,7 @@ tags: dutchgov
 |------------|-------|------|
 |[subdomains.txt](/DutchGovScope/data/noord-holland.nl/subdomains.txt)|102|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/noord-holland.nl/urls.txt)|72|Urls|
-|[all_subdomains.txt](/DutchGovScope/data/noord-holland.nl/all_subdomains.txt)|269|All found subdomains (history)|
+|[all_subdomains.txt](/DutchGovScope/data/noord-holland.nl/all_subdomains.txt)|272|All found subdomains (history)|
 
 
 ## Statistics
@@ -56,7 +56,7 @@ tags: dutchgov
 |[https://acc.subsidies.noord-holland.nl](https://acc.subsidies.noord-holland.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://geoservices2.noord-holland.nl](https://geoservices2.noord-holland.nl)| | **C**|Microsoft-IIS/10.0| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS IIS:10.0 Microsoft ASP.NET Windows Server|IIS Windows Serv...|
 |[https://geoapps4.noord-holland.nl](https://geoapps4.noord-holland.nl)| | **C**|Microsoft-IIS/10.0| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS IIS:10.0 Microsoft ASP.NET Windows Server|Provincie Noord-...|
-|[https://owas.noord-holland.nl](https://owas.noord-holland.nl)| | **C**|Microsoft-IIS/8.0| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS IIS:8.0 Microsoft ASP.NET:4.0.30319 Windows Server|404 - File or di...|
+|[https://owas.noord-holland.nl](https://owas.noord-holland.nl)| | **C**|Microsoft-IIS/8.0| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS IIS:8.0 Microsoft ASP.NET Windows Server|404 - File or di...|
 |[https://mail.noord-holland.nl](https://mail.noord-holland.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://acc.mijnsubsidie.noord-holland.nl](https://acc.mijnsubsidie.noord-holland.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|ClientPortal|
 |[https://datalab.noord-holland.nl](https://datalab.noord-holland.nl)| | **E**|nginx| | | | | | | :white_check_mark: | :white_check_mark: | |D3 NVD3 Nginx|Dataiku|

@@ -11,9 +11,9 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/justitie.nl/subdomains.txt)|14|Alive subdomains|
+|[subdomains.txt](/data/justitie.nl/subdomains.txt)|20|Alive subdomains|
 |[urls.txt](/data/justitie.nl/urls.txt)|5|Urls|
-|[all_subdomains.txt](/data/justitie.nl/all_subdomains.txt)|22|All found subdomains (history)|
+|[all_subdomains.txt](/data/justitie.nl/all_subdomains.txt)|26|All found subdomains (history)|
 
 
 ## Statistics

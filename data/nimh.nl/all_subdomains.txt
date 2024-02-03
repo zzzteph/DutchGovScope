@@ -3,3 +3,9 @@ beeldbank.nimh.nl
 feeds.nimh.nl
 nimh.nl
 opendata.nimh.nl
+a-feeds.nimh.nl
+a-opendata.nimh.nl
+a-www.nimh.nl
+i-www.nimh.nl
+o-www.nimh.nl
+t-www.nimh.nl

@@ -516,3 +516,11 @@ access-acc.minvenj.nl
 lyncwebdir-ext-01.minvenj.nl
 acc-chronos.justis.minvenj.nl
 acc.ecodex.justid.minvenj.nl
+airs.minvenj.nl
+dc01.minvenj.nl
+oci.minvenj.nl
+jubes.minvenj.nl
+md.minvenj.nl
+md1.minvenj.nl
+mdp.minvenj.nl
+sftp.minvenj.nl

@@ -11,7 +11,7 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/europaomdehoek.nl/subdomains.txt)|6|Alive subdomains|
+|[subdomains.txt](/data/europaomdehoek.nl/subdomains.txt)|16|Alive subdomains|
 |[urls.txt](/data/europaomdehoek.nl/urls.txt)|5|Urls|
 |[all_subdomains.txt](/data/europaomdehoek.nl/all_subdomains.txt)|16|All found subdomains (history)|
 

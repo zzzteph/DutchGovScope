@@ -10,3 +10,6 @@ magazinesintern.english.informatiehuishouding.nl
 magazinesintern.informatiehuishouding.nl
 opendata.english.informatiehuishouding.nl
 magazines.english.informatiehuishouding.nl
+a-feeds.informatiehuishouding.nl
+a-opendata.informatiehuishouding.nl
+a-www.informatiehuishouding.nl

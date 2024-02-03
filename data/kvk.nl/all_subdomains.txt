@@ -479,3 +479,10 @@ facilitair.kvk.nl
 statisch.acp.kvk.nl
 www.werkplek.kvk.nl
 web-api4.kvk.nl
+admin.kvk.nl
+blog.kvk.nl
+dbadmin.kvk.nl
+docs.kvk.nl
+nas.kvk.nl
+owa.kvk.nl
+sslvpn.kvk.nl

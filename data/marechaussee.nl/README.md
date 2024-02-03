@@ -13,7 +13,7 @@
 |------------|-------|------|
 |[subdomains.txt](/data/marechaussee.nl/subdomains.txt)|7|Alive subdomains|
 |[urls.txt](/data/marechaussee.nl/urls.txt)|7|Urls|
-|[all_subdomains.txt](/data/marechaussee.nl/all_subdomains.txt)|7|All found subdomains (history)|
+|[all_subdomains.txt](/data/marechaussee.nl/all_subdomains.txt)|17|All found subdomains (history)|
 
 
 ## Statistics

@@ -5,14 +5,14 @@
 
 
  - **SSL Grade**:A
- - **HTTP Security Grade**:B
+ - **HTTP Security Grade**:C
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:0
 
 
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/cbg-meb.nl/subdomains.txt)|34|Alive subdomains|
-|[urls.txt](/data/cbg-meb.nl/urls.txt)|15|Urls|
+|[urls.txt](/data/cbg-meb.nl/urls.txt)|17|Urls|
 |[all_subdomains.txt](/data/cbg-meb.nl/all_subdomains.txt)|61|All found subdomains (history)|
 
 
@@ -36,4 +36,6 @@
 |[https://vpn.cbg-meb.nl](https://vpn.cbg-meb.nl)| **A**| **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
 |[https://www.cbg-meb.nl](https://www.cbg-meb.nl)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Home | College t...|
 |[https://cbg-meb.nl](https://cbg-meb.nl)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
+|[https://enterpriseregistration.cbg-meb.nl](https://enterpriseregistration.cbg-meb.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
+|[https://msoid.cbg-meb.nl](https://msoid.cbg-meb.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Object moved|
 

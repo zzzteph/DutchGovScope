@@ -348,3 +348,5 @@ https://nad.mett.nl
 https://vindpaleislofen.mett.nl
 https://energiehout.mett.nl
 https://bio-enerco.mett.nl
+https://regiohoogeland.demo.mett.nl
+https://bequan.demo.mett.nl

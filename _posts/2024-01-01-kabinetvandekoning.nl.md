@@ -2,8 +2,8 @@
 layout: default
 title: "kabinetvandekoning.nl"
 permalink: "/dutchgov/kabinetvandekoning.nl.html"
-subdomains_count: 15
-all_subdomains_count: 23
+subdomains_count: 21
+all_subdomains_count: 29
 urls_count: 8
 ssl_rank: 
 http_rank: A
@@ -27,9 +27,9 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/kabinetvandekoning.nl/subdomains.txt)|15|Alive subdomains|
+|[subdomains.txt](/DutchGovScope/data/kabinetvandekoning.nl/subdomains.txt)|21|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/kabinetvandekoning.nl/urls.txt)|8|Urls|
-|[all_subdomains.txt](/DutchGovScope/data/kabinetvandekoning.nl/all_subdomains.txt)|23|All found subdomains (history)|
+|[all_subdomains.txt](/DutchGovScope/data/kabinetvandekoning.nl/all_subdomains.txt)|29|All found subdomains (history)|
 
 
 ## Statistics

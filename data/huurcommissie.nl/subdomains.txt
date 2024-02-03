@@ -31,3 +31,11 @@ synergy.huurcommissie.nl
 webmail.huurcommissie.nl
 lyncdiscover.huurcommissie.nl
 sip.huurcommissie.nl
+a-feeds.huurcommissie.nl
+a-opendata.huurcommissie.nl
+a-www.huurcommissie.nl
+enterpriseenrollment.huurcommissie.nl
+enterpriseregistration.huurcommissie.nl
+msoid.huurcommissie.nl
+sftp.huurcommissie.nl
+www-p.huurcommissie.nl

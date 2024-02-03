@@ -96,3 +96,14 @@ test.melvin.ndw.nu
 ncis-express.ndw.nu
 www.melvin.ndw.nu
 ncis-internal.ndw.nu
+a-english.ndw.nu
+a-feeds.a-english.ndw.nu
+a-feeds.ndw.nu
+a-opendata.a-english.ndw.nu
+a-www.ndw.nu
+admin.ndw.nu
+data-staging.ndw.nu
+docs.staging.ndw.nu
+mijn.staging.ndw.nu
+extranet.ndw.nu
+mail.ndw.nu

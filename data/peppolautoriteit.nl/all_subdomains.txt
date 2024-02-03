@@ -8,3 +8,6 @@ status.senders.peppolautoriteit.nl
 senders.peppolautoriteit.nl
 test.senders.peppolautoriteit.nl
 www.senders.peppolautoriteit.nl
+a-feeds.peppolautoriteit.nl
+a-opendata.peppolautoriteit.nl
+a-www.peppolautoriteit.nl

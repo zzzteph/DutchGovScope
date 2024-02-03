@@ -48,7 +48,6 @@ mimsmp.sap.minienm.nl
 mimxip.saphttp.minienm.nl
 mimxiq.saphttp.minienm.nl
 portaalsp.minienm.nl
-publicaties.minienm.nl
 rwbxip.saphttp.minienm.nl
 rwbxiq.saphttp.minienm.nl
 sapportal.intranet.minienm.nl

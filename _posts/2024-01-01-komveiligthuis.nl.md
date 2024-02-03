@@ -3,7 +3,7 @@ layout: default
 title: "komveiligthuis.nl"
 permalink: "/dutchgov/komveiligthuis.nl.html"
 subdomains_count: 4
-all_subdomains_count: 4
+all_subdomains_count: 7
 urls_count: 4
 ssl_rank: 
 http_rank: A
@@ -29,7 +29,7 @@ tags: dutchgov
 |------------|-------|------|
 |[subdomains.txt](/DutchGovScope/data/komveiligthuis.nl/subdomains.txt)|4|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/komveiligthuis.nl/urls.txt)|4|Urls|
-|[all_subdomains.txt](/DutchGovScope/data/komveiligthuis.nl/all_subdomains.txt)|4|All found subdomains (history)|
+|[all_subdomains.txt](/DutchGovScope/data/komveiligthuis.nl/all_subdomains.txt)|7|All found subdomains (history)|
 
 
 ## Statistics
@@ -40,5 +40,5 @@ tags: dutchgov
 |[https://feeds.komveiligthuis.nl](https://feeds.komveiligthuis.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://opendata.komveiligthuis.nl](https://opendata.komveiligthuis.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://www.komveiligthuis.nl](https://www.komveiligthuis.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Kom veilig Thuis...|
-|[https://komveiligthuis.nl](https://komveiligthuis.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
+|[https://komveiligthuis.nl](https://komveiligthuis.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
 

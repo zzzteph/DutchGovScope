@@ -11,9 +11,9 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/iob-evaluatie.nl/subdomains.txt)|9|Alive subdomains|
+|[subdomains.txt](/data/iob-evaluatie.nl/subdomains.txt)|14|Alive subdomains|
 |[urls.txt](/data/iob-evaluatie.nl/urls.txt)|7|Urls|
-|[all_subdomains.txt](/data/iob-evaluatie.nl/all_subdomains.txt)|12|All found subdomains (history)|
+|[all_subdomains.txt](/data/iob-evaluatie.nl/all_subdomains.txt)|17|All found subdomains (history)|
 
 
 ## Statistics

@@ -77,3 +77,6 @@ sync.om.nl
 www.moordzaak.om.nl
 ketenpartner.loket.om.nl
 mijnzaak.loket.om.nl
+a-www.om.nl
+a-feeds.om.nl
+a-opendata.om.nl

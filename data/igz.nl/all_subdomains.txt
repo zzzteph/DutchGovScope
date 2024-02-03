@@ -9,3 +9,4 @@ survey-test.igz.nl
 survey.igz.nl
 test-survey.igz.nl
 onderhoud.igz.nl
+localhost.igz.nl

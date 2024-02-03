@@ -13,7 +13,7 @@
 |------------|-------|------|
 |[subdomains.txt](/data/mccg.nl/subdomains.txt)|4|Alive subdomains|
 |[urls.txt](/data/mccg.nl/urls.txt)|4|Urls|
-|[all_subdomains.txt](/data/mccg.nl/all_subdomains.txt)|4|All found subdomains (history)|
+|[all_subdomains.txt](/data/mccg.nl/all_subdomains.txt)|9|All found subdomains (history)|
 
 
 ## Statistics

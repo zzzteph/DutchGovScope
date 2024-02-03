@@ -11,7 +11,7 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/huisvoorklokkenluiders.nl/subdomains.txt)|7|Alive subdomains|
+|[subdomains.txt](/data/huisvoorklokkenluiders.nl/subdomains.txt)|11|Alive subdomains|
 |[urls.txt](/data/huisvoorklokkenluiders.nl/urls.txt)|5|Urls|
 |[all_subdomains.txt](/data/huisvoorklokkenluiders.nl/all_subdomains.txt)|21|All found subdomains (history)|
 

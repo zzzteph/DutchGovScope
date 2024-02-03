@@ -2,3 +2,6 @@ feeds.matchingsgegevens.nl
 matchingsgegevens.nl
 opendata.matchingsgegevens.nl
 www.matchingsgegevens.nl
+a-feeds.matchingsgegevens.nl
+a-opendata.matchingsgegevens.nl
+a-www.matchingsgegevens.nl

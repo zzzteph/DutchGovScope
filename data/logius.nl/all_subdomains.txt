@@ -113,3 +113,5 @@ authenticatie.logius.nl
 iam-containerplatform-az2.lpc.logius.nl
 koppelvlak.logius.nl
 preprod.portaal.digipoort.logius.nl
+lca.logius.nl
+mev.logius.nl

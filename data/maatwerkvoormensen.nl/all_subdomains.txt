@@ -9,3 +9,5 @@ magazinesintern.maatwerkvoormensen.nl
 magazines.english.maatwerkvoormensen.nl
 magazinesintern.english.maatwerkvoormensen.nl
 opendata.english.maatwerkvoormensen.nl
+a-opendata.maatwerkvoormensen.nl
+a-www.maatwerkvoormensen.nl

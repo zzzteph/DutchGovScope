@@ -41,3 +41,4 @@ english.minaz.nl
 ppazdigikoppeling.minaz.nl
 mdm.minaz.nl
 accrijkspas.minaz.nl
+gateway.minaz.nl

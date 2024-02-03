@@ -9,3 +9,6 @@ magazinesintern.meldpuntgeneesmiddelentekortendefecten.nl
 english.meldpuntgeneesmiddelentekortendefecten.nl
 magazines.english.meldpuntgeneesmiddelentekortendefecten.nl
 opendata.english.meldpuntgeneesmiddelentekortendefecten.nl
+a-opendata.meldpuntgeneesmiddelentekortendefecten.nl
+a-www.meldpuntgeneesmiddelentekortendefecten.nl
+a-feeds.meldpuntgeneesmiddelentekortendefecten.nl

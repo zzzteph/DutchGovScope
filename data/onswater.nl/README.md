@@ -13,7 +13,7 @@
 |------------|-------|------|
 |[subdomains.txt](/data/onswater.nl/subdomains.txt)|4|Alive subdomains|
 |[urls.txt](/data/onswater.nl/urls.txt)|4|Urls|
-|[all_subdomains.txt](/data/onswater.nl/all_subdomains.txt)|18|All found subdomains (history)|
+|[all_subdomains.txt](/data/onswater.nl/all_subdomains.txt)|21|All found subdomains (history)|
 
 
 ## Statistics

@@ -3,7 +3,7 @@ layout: default
 title: "netherlandsworldwide.nl"
 permalink: "/dutchgov/netherlandsworldwide.nl.html"
 subdomains_count: 4
-all_subdomains_count: 16
+all_subdomains_count: 17
 urls_count: 3
 ssl_rank: 
 http_rank: A
@@ -29,7 +29,7 @@ tags: dutchgov
 |------------|-------|------|
 |[subdomains.txt](/DutchGovScope/data/netherlandsworldwide.nl/subdomains.txt)|4|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/netherlandsworldwide.nl/urls.txt)|3|Urls|
-|[all_subdomains.txt](/DutchGovScope/data/netherlandsworldwide.nl/all_subdomains.txt)|16|All found subdomains (history)|
+|[all_subdomains.txt](/DutchGovScope/data/netherlandsworldwide.nl/all_subdomains.txt)|17|All found subdomains (history)|
 
 
 ## Statistics

@@ -13,7 +13,7 @@
 |------------|-------|------|
 |[subdomains.txt](/data/jaarverantwoordingzorg.nl/subdomains.txt)|7|Alive subdomains|
 |[urls.txt](/data/jaarverantwoordingzorg.nl/urls.txt)|4|Urls|
-|[all_subdomains.txt](/data/jaarverantwoordingzorg.nl/all_subdomains.txt)|21|All found subdomains (history)|
+|[all_subdomains.txt](/data/jaarverantwoordingzorg.nl/all_subdomains.txt)|22|All found subdomains (history)|
 
 
 ## Statistics

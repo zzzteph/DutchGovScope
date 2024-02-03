@@ -16,3 +16,9 @@ https://remote.acm.nl
 https://bijna.acm.nl
 https://remote.services.acm.nl
 https://acm.nl
+https://ftp.acm.nl
+https://enterpriseenrollment.acm.nl
+https://enterpriseregistration.acm.nl
+https://mbg.acm.nl
+https://mijn-acc.acm.nl
+https://mijn-tst.acm.nl

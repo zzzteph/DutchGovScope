@@ -12,3 +12,8 @@ www-old.kiesraad.nl
 magazines.english.kiesraad.nl
 magazinesintern.kiesraad.nl
 magazines.kiesraad.nl
+a-opendata.a-english.kiesraad.nl
+a-opendata.kiesraad.nl
+a-www.kiesraad.nl
+a-english.kiesraad.nl
+a-feeds.a-english.kiesraad.nl

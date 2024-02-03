@@ -11,7 +11,7 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/euthanasiecommissie.nl/subdomains.txt)|8|Alive subdomains|
+|[subdomains.txt](/data/euthanasiecommissie.nl/subdomains.txt)|12|Alive subdomains|
 |[urls.txt](/data/euthanasiecommissie.nl/urls.txt)|7|Urls|
 |[all_subdomains.txt](/data/euthanasiecommissie.nl/all_subdomains.txt)|17|All found subdomains (history)|
 

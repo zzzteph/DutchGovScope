@@ -2,7 +2,7 @@
 layout: default
 title: "antennebureau.nl"
 permalink: "/dutchgov/antennebureau.nl.html"
-subdomains_count: 13
+subdomains_count: 14
 all_subdomains_count: 28
 urls_count: 4
 ssl_rank: A+
@@ -27,7 +27,7 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/antennebureau.nl/subdomains.txt)|13|Alive subdomains|
+|[subdomains.txt](/DutchGovScope/data/antennebureau.nl/subdomains.txt)|14|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/antennebureau.nl/urls.txt)|4|Urls|
 |[all_subdomains.txt](/DutchGovScope/data/antennebureau.nl/all_subdomains.txt)|28|All found subdomains (history)|
 

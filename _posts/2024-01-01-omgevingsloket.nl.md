@@ -3,7 +3,7 @@ layout: default
 title: "omgevingsloket.nl"
 permalink: "/dutchgov/omgevingsloket.nl.html"
 subdomains_count: 50
-all_subdomains_count: 75
+all_subdomains_count: 76
 urls_count: 12
 ssl_rank: 
 http_rank: B
@@ -29,7 +29,7 @@ tags: dutchgov
 |------------|-------|------|
 |[subdomains.txt](/DutchGovScope/data/omgevingsloket.nl/subdomains.txt)|50|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/omgevingsloket.nl/urls.txt)|12|Urls|
-|[all_subdomains.txt](/DutchGovScope/data/omgevingsloket.nl/all_subdomains.txt)|75|All found subdomains (history)|
+|[all_subdomains.txt](/DutchGovScope/data/omgevingsloket.nl/all_subdomains.txt)|76|All found subdomains (history)|
 
 
 ## Statistics

@@ -11,7 +11,7 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/gobiernodireino.nl/subdomains.txt)|5|Alive subdomains|
+|[subdomains.txt](/data/gobiernodireino.nl/subdomains.txt)|7|Alive subdomains|
 |[urls.txt](/data/gobiernodireino.nl/urls.txt)|4|Urls|
 |[all_subdomains.txt](/data/gobiernodireino.nl/all_subdomains.txt)|9|All found subdomains (history)|
 

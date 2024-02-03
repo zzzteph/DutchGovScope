@@ -63,3 +63,11 @@ lyncdiscover.nvwa.nl
 www.formulieren.nvwa.nl
 www.english.nvwa.nl
 www2.nvwa.nl
+a-opendata.nvwa.nl
+a-english.nvwa.nl
+a-feeds.a-english.nvwa.nl
+a-feeds.nvwa.nl
+a-magazines.nvwa.nl
+a-magazinesintern.nvwa.nl
+a-opendata.a-english.nvwa.nl
+service.nvwa.nl

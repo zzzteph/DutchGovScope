@@ -11,3 +11,8 @@ https://wordaddin.eerstekamer.nl
 https://wordcms.eerstekamer.nl
 https://www.eerstekamer.nl
 https://eerstekamer.nl
+https://enterpriseenrollment.eerstekamer.nl
+https://enterpriseregistration.eerstekamer.nl
+https://ftp.eerstekamer.nl
+https://mail.eerstekamer.nl
+https://liquit.eerstekamer.nl

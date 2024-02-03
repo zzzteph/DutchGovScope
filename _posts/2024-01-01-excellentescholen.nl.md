@@ -2,7 +2,7 @@
 layout: default
 title: "excellentescholen.nl"
 permalink: "/dutchgov/excellentescholen.nl.html"
-subdomains_count: 5
+subdomains_count: 7
 all_subdomains_count: 14
 urls_count: 4
 ssl_rank: A+
@@ -27,7 +27,7 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/excellentescholen.nl/subdomains.txt)|5|Alive subdomains|
+|[subdomains.txt](/DutchGovScope/data/excellentescholen.nl/subdomains.txt)|7|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/excellentescholen.nl/urls.txt)|4|Urls|
 |[all_subdomains.txt](/DutchGovScope/data/excellentescholen.nl/all_subdomains.txt)|14|All found subdomains (history)|
 

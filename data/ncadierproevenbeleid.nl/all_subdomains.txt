@@ -19,3 +19,6 @@ a-magazines.ncadierproevenbeleid.nl
 magazines.english.ncadierproevenbeleid.nl
 magazinesintern.english.ncadierproevenbeleid.nl
 magazines.ncadierproevenbeleid.nl
+i-www.ncadierproevenbeleid.nl
+o-www.ncadierproevenbeleid.nl
+t-www.ncadierproevenbeleid.nl

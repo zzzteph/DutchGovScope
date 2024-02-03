@@ -2,3 +2,6 @@ infopuntonbedoeldzwanger.nl
 www.infopuntonbedoeldzwanger.nl
 opendata.infopuntonbedoeldzwanger.nl
 feeds.infopuntonbedoeldzwanger.nl
+a-feeds.infopuntonbedoeldzwanger.nl
+a-www.infopuntonbedoeldzwanger.nl
+autodiscover.infopuntonbedoeldzwanger.nl

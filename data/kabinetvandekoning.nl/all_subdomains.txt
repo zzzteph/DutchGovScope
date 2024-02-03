@@ -21,3 +21,9 @@ magazines.english.kabinetvandekoning.nl
 a-magazines.kabinetvandekoning.nl
 magazines.kabinetvandekoning.nl
 magazinesintern.kabinetvandekoning.nl
+autodiscover.kabinetvandekoning.nl
+enterpriseenrollment.kabinetvandekoning.nl
+enterpriseregistration.kabinetvandekoning.nl
+i-www.kabinetvandekoning.nl
+o-www.kabinetvandekoning.nl
+t-www.kabinetvandekoning.nl

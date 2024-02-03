@@ -9,3 +9,6 @@ opendata.english.nederlandse-sportraad.nl
 magazines.english.nederlandse-sportraad.nl
 magazinesintern.english.nederlandse-sportraad.nl
 magazines.nederlandse-sportraad.nl
+a-feeds.nederlandse-sportraad.nl
+a-opendata.nederlandse-sportraad.nl
+a-www.nederlandse-sportraad.nl

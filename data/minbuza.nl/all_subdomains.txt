@@ -129,3 +129,8 @@ www.apiacc.minbuza.nl
 nvis.bio.minbuza.nl
 pow.minbuza.nl
 www.mxl.minbuza.nl
+admanager.minbuza.nl
+links.minbuza.nl
+mx5.minbuza.nl
+selfservice.minbuza.nl
+testloket.minbuza.nl

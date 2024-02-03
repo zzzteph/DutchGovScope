@@ -2,3 +2,6 @@ feeds.internationalerechtshulp.nl
 opendata.internationalerechtshulp.nl
 www.internationalerechtshulp.nl
 internationalerechtshulp.nl
+a-feeds.internationalerechtshulp.nl
+a-opendata.internationalerechtshulp.nl
+a-www.internationalerechtshulp.nl

@@ -3,7 +3,7 @@ layout: default
 title: "marechaussee.nl"
 permalink: "/dutchgov/marechaussee.nl.html"
 subdomains_count: 7
-all_subdomains_count: 7
+all_subdomains_count: 17
 urls_count: 7
 ssl_rank: 
 http_rank: A
@@ -29,7 +29,7 @@ tags: dutchgov
 |------------|-------|------|
 |[subdomains.txt](/DutchGovScope/data/marechaussee.nl/subdomains.txt)|7|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/marechaussee.nl/urls.txt)|7|Urls|
-|[all_subdomains.txt](/DutchGovScope/data/marechaussee.nl/all_subdomains.txt)|7|All found subdomains (history)|
+|[all_subdomains.txt](/DutchGovScope/data/marechaussee.nl/all_subdomains.txt)|17|All found subdomains (history)|
 
 
 ## Statistics

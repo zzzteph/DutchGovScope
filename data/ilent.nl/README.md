@@ -11,9 +11,9 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/ilent.nl/subdomains.txt)|46|Alive subdomains|
+|[subdomains.txt](/data/ilent.nl/subdomains.txt)|56|Alive subdomains|
 |[urls.txt](/data/ilent.nl/urls.txt)|20|Urls|
-|[all_subdomains.txt](/data/ilent.nl/all_subdomains.txt)|77|All found subdomains (history)|
+|[all_subdomains.txt](/data/ilent.nl/all_subdomains.txt)|87|All found subdomains (history)|
 
 
 ## Statistics

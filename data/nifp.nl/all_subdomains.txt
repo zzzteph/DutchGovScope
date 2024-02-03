@@ -7,3 +7,6 @@ nifp.nl
 extranet.nifp.nl
 www.jeugd.nifp.nl
 mail.nifp.nl
+a-opendata.nifp.nl
+a-www.nifp.nl
+a-feeds.nifp.nl

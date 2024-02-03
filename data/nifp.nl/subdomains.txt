@@ -4,3 +4,4 @@ opendata.nifp.nl
 rapporteursnet.nifp.nl
 www.nifp.nl
 nifp.nl
+mail.nifp.nl

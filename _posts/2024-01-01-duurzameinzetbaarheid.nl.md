@@ -3,7 +3,7 @@ layout: default
 title: "duurzameinzetbaarheid.nl"
 permalink: "/dutchgov/duurzameinzetbaarheid.nl.html"
 subdomains_count: 2
-all_subdomains_count: 2
+all_subdomains_count: 7
 urls_count: 2
 ssl_rank: A+
 http_rank: A
@@ -29,7 +29,7 @@ tags: dutchgov
 |------------|-------|------|
 |[subdomains.txt](/DutchGovScope/data/duurzameinzetbaarheid.nl/subdomains.txt)|2|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/duurzameinzetbaarheid.nl/urls.txt)|2|Urls|
-|[all_subdomains.txt](/DutchGovScope/data/duurzameinzetbaarheid.nl/all_subdomains.txt)|2|All found subdomains (history)|
+|[all_subdomains.txt](/DutchGovScope/data/duurzameinzetbaarheid.nl/all_subdomains.txt)|7|All found subdomains (history)|
 
 
 ## Statistics

@@ -9,3 +9,9 @@ sip.nrgd.nl
 forum.nrgd.nl
 nieuwsbrieven.nrgd.nl
 webservice.nrgd.nl
+a-opendata.a-english.nrgd.nl
+a-opendata.nrgd.nl
+a-www.nrgd.nl
+a-english.nrgd.nl
+a-feeds.a-english.nrgd.nl
+a-feeds.nrgd.nl

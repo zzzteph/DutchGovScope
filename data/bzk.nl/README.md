@@ -13,7 +13,7 @@
 |------------|-------|------|
 |[subdomains.txt](/data/bzk.nl/subdomains.txt)|2|Alive subdomains|
 |[urls.txt](/data/bzk.nl/urls.txt)|2|Urls|
-|[all_subdomains.txt](/data/bzk.nl/all_subdomains.txt)|4|All found subdomains (history)|
+|[all_subdomains.txt](/data/bzk.nl/all_subdomains.txt)|7|All found subdomains (history)|
 
 
 ## Statistics

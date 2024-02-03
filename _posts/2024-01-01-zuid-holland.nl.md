@@ -4,7 +4,7 @@ title: "zuid-holland.nl"
 permalink: "/dutchgov/zuid-holland.nl.html"
 subdomains_count: 73
 all_subdomains_count: 135
-urls_count: 67
+urls_count: 69
 ssl_rank: 
 http_rank: B
 security_txt: 0
@@ -28,7 +28,7 @@ tags: dutchgov
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/DutchGovScope/data/zuid-holland.nl/subdomains.txt)|73|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/zuid-holland.nl/urls.txt)|67|Urls|
+|[urls.txt](/DutchGovScope/data/zuid-holland.nl/urls.txt)|69|Urls|
 |[all_subdomains.txt](/DutchGovScope/data/zuid-holland.nl/all_subdomains.txt)|135|All found subdomains (history)|
 
 
@@ -104,4 +104,6 @@ tags: dutchgov
 |[https://keuzehulpverkeersmaatregelen.zuid-holland.nl](https://keuzehulpverkeersmaatregelen.zuid-holland.nl)| | **D**|waitress|:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | |Azure Bootstrap:5.1.3 HSTS|Keuzehulp werkba...|
 |[https://omgevingsdocumenten.zuid-holland.nl](https://omgevingsdocumenten.zuid-holland.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://investerenin.zuid-holland.nl](https://investerenin.zuid-holland.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||
+|[https://preprod-belastingen.zuid-holland.nl](https://preprod-belastingen.zuid-holland.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS|Object moved|
+|[https://belastingen.zuid-holland.nl](https://belastingen.zuid-holland.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS|Object moved|
 

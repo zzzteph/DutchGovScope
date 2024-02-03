@@ -12,7 +12,7 @@
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/pleio.nl/subdomains.txt)|461|Alive subdomains|
-|[urls.txt](/data/pleio.nl/urls.txt)|456|Urls|
+|[urls.txt](/data/pleio.nl/urls.txt)|457|Urls|
 |[all_subdomains.txt](/data/pleio.nl/all_subdomains.txt)|462|All found subdomains (history)|
 
 
@@ -477,4 +477,5 @@
 |[https://mimir-gateway.pleio.nl](https://mimir-gateway.pleio.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|403 Forbidden|
 |[https://www.integra-levroeghulp.pleio.nl](https://www.integra-levroeghulp.pleio.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS|404 Not Found|
 |[https://levroeghulp.pleio.nl](https://levroeghulp.pleio.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Domeinnaam nog n...|
+|[https://aangifteselectie-chat.pleio.nl](https://aangifteselectie-chat.pleio.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|403 Forbidden|
 

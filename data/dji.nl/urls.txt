@@ -16,3 +16,5 @@ https://acc.beeldbellen.dji.nl
 https://beeldbellen.dji.nl
 https://video-acc.beeldbellen.dji.nl
 https://video.beeldbellen.dji.nl
+https://cdn.dji.nl
+https://ftp.dji.nl

@@ -13,7 +13,7 @@
 |------------|-------|------|
 |[subdomains.txt](/data/minjus.nl/subdomains.txt)|43|Alive subdomains|
 |[urls.txt](/data/minjus.nl/urls.txt)|25|Urls|
-|[all_subdomains.txt](/data/minjus.nl/all_subdomains.txt)|444|All found subdomains (history)|
+|[all_subdomains.txt](/data/minjus.nl/all_subdomains.txt)|447|All found subdomains (history)|
 
 
 ## Statistics

@@ -3,7 +3,7 @@ layout: default
 title: "waddenzee.nl"
 permalink: "/dutchgov/waddenzee.nl.html"
 subdomains_count: 10
-all_subdomains_count: 11
+all_subdomains_count: 22
 urls_count: 10
 ssl_rank: 
 http_rank: B
@@ -29,7 +29,7 @@ tags: dutchgov
 |------------|-------|------|
 |[subdomains.txt](/DutchGovScope/data/waddenzee.nl/subdomains.txt)|10|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/waddenzee.nl/urls.txt)|10|Urls|
-|[all_subdomains.txt](/DutchGovScope/data/waddenzee.nl/all_subdomains.txt)|11|All found subdomains (history)|
+|[all_subdomains.txt](/DutchGovScope/data/waddenzee.nl/all_subdomains.txt)|22|All found subdomains (history)|
 
 
 ## Statistics

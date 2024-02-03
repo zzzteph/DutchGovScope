@@ -78,3 +78,11 @@ apigw-dmz.ncsc.nl
 sip.ncsc.nl
 share.ncsc.nl
 chat1.ncsc.nl
+a-feeds.ncsc.nl
+a-magazines.ncsc.nl
+a-opendata.a-english.ncsc.nl
+a-opendata.ncsc.nl
+a-www.ncsc.nl
+a-feeds.a-english.ncsc.nl
+arp.ncsc.nl
+misp.ncsc.nl

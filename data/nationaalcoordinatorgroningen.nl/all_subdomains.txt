@@ -27,3 +27,7 @@ magazines.english.nationaalcoordinatorgroningen.nl
 magazines.nationaalcoordinatorgroningen.nl
 lyncdiscover.nationaalcoordinatorgroningen.nl
 magazinesintern.nationaalcoordinatorgroningen.nl
+a-feeds.nationaalcoordinatorgroningen.nl
+a-opendata.nationaalcoordinatorgroningen.nl
+o-www.nationaalcoordinatorgroningen.nl
+t-www.nationaalcoordinatorgroningen.nl

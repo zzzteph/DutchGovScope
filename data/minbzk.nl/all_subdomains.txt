@@ -78,3 +78,7 @@ dmmr.minbzk.nl
 www.veiligheid.minbzk.nl
 cas.minbzk.nl
 ivop.minbzk.nl
+www2.minbzk.nl
+proxy01.minbzk.nl
+redactie.minbzk.nl
+www-test.minbzk.nl

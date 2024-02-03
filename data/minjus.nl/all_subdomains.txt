@@ -442,3 +442,6 @@ gdisw0949.ad.minjus.nl
 zrpweb2.a-rechtspraak.minjus.nl
 aob.dji.minjus.nl
 login-jboss-acpt.dji.minjus.nl
+enterpriseenrollment.minjus.nl
+ihg.minjus.nl
+smtp3.minjus.nl

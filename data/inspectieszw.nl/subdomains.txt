@@ -7,3 +7,8 @@ opendata.inspectieszw.nl
 test.melding.inspectieszw.nl
 www.inspectieszw.nl
 inspectieszw.nl
+a-feeds.inspectieszw.nl
+a-opendata.inspectieszw.nl
+a-www.inspectieszw.nl
+don.inspectieszw.nl
+localhost.inspectieszw.nl

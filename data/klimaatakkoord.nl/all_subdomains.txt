@@ -19,3 +19,8 @@ a-feeds.a-english.klimaatakkoord.nl
 a-magazinesintern.klimaatakkoord.nl
 a-magazines.klimaatakkoord.nl
 english.klimaatakkoord.nl
+autodiscover.klimaatakkoord.nl
+enterpriseenrollment.klimaatakkoord.nl
+enterpriseregistration.klimaatakkoord.nl
+i-www.klimaatakkoord.nl
+o-www.klimaatakkoord.nl

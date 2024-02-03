@@ -9,3 +9,6 @@ magazinesintern.english.mirta15papendrechtgorinchem.nl
 magazinesintern.mirta15papendrechtgorinchem.nl
 magazines.mirta15papendrechtgorinchem.nl
 opendata.english.mirta15papendrechtgorinchem.nl
+a-feeds.mirta15papendrechtgorinchem.nl
+a-opendata.mirta15papendrechtgorinchem.nl
+a-www.mirta15papendrechtgorinchem.nl

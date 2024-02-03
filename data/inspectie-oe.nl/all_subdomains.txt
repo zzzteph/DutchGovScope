@@ -16,3 +16,9 @@ meet.inspectie-oe.nl
 magazines.english.inspectie-oe.nl
 magazinesintern.english.inspectie-oe.nl
 www.brs.inspectie-oe.nl
+a-feeds.a-english.inspectie-oe.nl
+a-feeds.inspectie-oe.nl
+a-opendata.a-english.inspectie-oe.nl
+a-opendata.inspectie-oe.nl
+a-www.inspectie-oe.nl
+a-english.inspectie-oe.nl

@@ -5,3 +5,7 @@ opendata.huisvoorklokkenluiders.nl
 huisvoorklokkenluiders.nl
 sdm.huisvoorklokkenluiders.nl
 sip.huisvoorklokkenluiders.nl
+a-feeds.huisvoorklokkenluiders.nl
+a-opendata.huisvoorklokkenluiders.nl
+a-www.huisvoorklokkenluiders.nl
+mijn.huisvoorklokkenluiders.nl

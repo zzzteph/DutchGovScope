@@ -4,3 +4,6 @@ www.oecdguidelines.nl
 oecdguidelines.nl
 magazinesintern.oecdguidelines.nl
 magazines.oecdguidelines.nl
+a-www.oecdguidelines.nl
+a-feeds.oecdguidelines.nl
+a-opendata.oecdguidelines.nl

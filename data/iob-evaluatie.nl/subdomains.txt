@@ -7,3 +7,8 @@ www.iob-evaluatie.nl
 iob-evaluatie.nl
 a-www.iob-evaluatie.nl
 archief.iob-evaluatie.nl
+a-opendata.a-english.iob-evaluatie.nl
+a-opendata.iob-evaluatie.nl
+a-english.iob-evaluatie.nl
+a-feeds.a-english.iob-evaluatie.nl
+a-feeds.iob-evaluatie.nl

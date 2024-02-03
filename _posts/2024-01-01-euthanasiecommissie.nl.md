@@ -2,7 +2,7 @@
 layout: default
 title: "euthanasiecommissie.nl"
 permalink: "/dutchgov/euthanasiecommissie.nl.html"
-subdomains_count: 8
+subdomains_count: 12
 all_subdomains_count: 17
 urls_count: 7
 ssl_rank: A+
@@ -27,7 +27,7 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/euthanasiecommissie.nl/subdomains.txt)|8|Alive subdomains|
+|[subdomains.txt](/DutchGovScope/data/euthanasiecommissie.nl/subdomains.txt)|12|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/euthanasiecommissie.nl/urls.txt)|7|Urls|
 |[all_subdomains.txt](/DutchGovScope/data/euthanasiecommissie.nl/all_subdomains.txt)|17|All found subdomains (history)|
 

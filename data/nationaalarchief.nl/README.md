@@ -13,7 +13,7 @@
 |------------|-------|------|
 |[subdomains.txt](/data/nationaalarchief.nl/subdomains.txt)|92|Alive subdomains|
 |[urls.txt](/data/nationaalarchief.nl/urls.txt)|3|Urls|
-|[all_subdomains.txt](/data/nationaalarchief.nl/all_subdomains.txt)|180|All found subdomains (history)|
+|[all_subdomains.txt](/data/nationaalarchief.nl/all_subdomains.txt)|185|All found subdomains (history)|
 
 
 ## Statistics

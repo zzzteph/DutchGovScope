@@ -9,3 +9,9 @@ opendata.english.overalsnelinternet.nl
 magazinesintern.overalsnelinternet.nl
 magazines.english.overalsnelinternet.nl
 magazinesintern.english.overalsnelinternet.nl
+a-feeds.overalsnelinternet.nl
+a-opendata.overalsnelinternet.nl
+a-www.overalsnelinternet.nl
+i-www.overalsnelinternet.nl
+o-www.overalsnelinternet.nl
+t-www.overalsnelinternet.nl

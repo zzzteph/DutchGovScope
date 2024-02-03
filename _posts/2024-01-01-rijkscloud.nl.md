@@ -2,9 +2,9 @@
 layout: default
 title: "rijkscloud.nl"
 permalink: "/dutchgov/rijkscloud.nl.html"
-subdomains_count: 513
-all_subdomains_count: 706
-urls_count: 145
+subdomains_count: 526
+all_subdomains_count: 709
+urls_count: 147
 ssl_rank: 
 http_rank: B
 security_txt: 0
@@ -27,9 +27,9 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/rijkscloud.nl/subdomains.txt)|513|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/rijkscloud.nl/urls.txt)|145|Urls|
-|[all_subdomains.txt](/DutchGovScope/data/rijkscloud.nl/all_subdomains.txt)|706|All found subdomains (history)|
+|[subdomains.txt](/DutchGovScope/data/rijkscloud.nl/subdomains.txt)|526|Alive subdomains|
+|[urls.txt](/DutchGovScope/data/rijkscloud.nl/urls.txt)|147|Urls|
+|[all_subdomains.txt](/DutchGovScope/data/rijkscloud.nl/all_subdomains.txt)|709|All found subdomains (history)|
 
 
 ## Statistics
@@ -182,4 +182,6 @@ tags: dutchgov
 |[https://ip.test.duo.rijkscloud.nl](https://ip.test.duo.rijkscloud.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://rstudio.ip.test.duo.rijkscloud.nl](https://rstudio.ip.test.duo.rijkscloud.nl)| | **C**|RStudio| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
 |[https://projects.pages.ds-ocw.rijkscloud.nl](https://projects.pages.ds-ocw.rijkscloud.nl)| | **A**|nginx|:warning: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
+|[https://documentation.ix.rijkscloud.nl](https://documentation.ix.rijkscloud.nl)| | **C**|Apache| |:white_check_mark: | | | | | | :white_check_mark: | |Apache HTTP Server HSTS Hugo:0.58.1|Home :: PaaS-Lin...|
+|[https://repo.ix.rijkscloud.nl](https://repo.ix.rijkscloud.nl)| | **C**|Apache| |:white_check_mark: | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|403 Forbidden|
 

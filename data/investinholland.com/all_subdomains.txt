@@ -20,3 +20,5 @@ japan.dev.investinholland.com
 taiwan.dev.investinholland.com
 dev.uk.investinholland.com
 www.china.investinholland.com
+autodiscover.investinholland.com
+localhost.investinholland.com

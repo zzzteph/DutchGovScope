@@ -9,3 +9,6 @@ magazines.mirtoverzicht.nl
 english.mirtoverzicht.nl
 feeds.english.mirtoverzicht.nl
 magazines.english.mirtoverzicht.nl
+a-www.mirtoverzicht.nl
+a-feeds.mirtoverzicht.nl
+a-opendata.mirtoverzicht.nl

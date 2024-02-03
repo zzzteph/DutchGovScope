@@ -175,3 +175,4 @@ mijn-api.dnb.nl
 api-tzpubliekscontact.dnb.nl
 sip.dnb.nl
 api-tzpubliekscontact-tst.dnb.nl
+sftp.dnb.nl

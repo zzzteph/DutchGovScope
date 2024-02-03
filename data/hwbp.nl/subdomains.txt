@@ -2,3 +2,5 @@ feeds.hwbp.nl
 opendata.hwbp.nl
 www.hwbp.nl
 hwbp.nl
+a-feeds.hwbp.nl
+a-opendata.hwbp.nl

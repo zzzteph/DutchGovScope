@@ -11,7 +11,7 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/bedrijvenbeleidinbeeld.nl/subdomains.txt)|9|Alive subdomains|
+|[subdomains.txt](/data/bedrijvenbeleidinbeeld.nl/subdomains.txt)|10|Alive subdomains|
 |[urls.txt](/data/bedrijvenbeleidinbeeld.nl/urls.txt)|4|Urls|
 |[all_subdomains.txt](/data/bedrijvenbeleidinbeeld.nl/all_subdomains.txt)|16|All found subdomains (history)|
 

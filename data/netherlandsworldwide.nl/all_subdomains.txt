@@ -14,3 +14,4 @@ magazinesintern.netherlandsworldwide.nl
 magazines.netherlandsworldwide.nl
 a-magazinesintern.netherlandsworldwide.nl
 a-magazines.netherlandsworldwide.nl
+update.netherlandsworldwide.nl

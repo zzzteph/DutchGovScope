@@ -3,7 +3,7 @@ layout: default
 title: "maakhetzeniettemakkelijk.nl"
 permalink: "/dutchgov/maakhetzeniettemakkelijk.nl.html"
 subdomains_count: 5
-all_subdomains_count: 11
+all_subdomains_count: 13
 urls_count: 4
 ssl_rank: 
 http_rank: A
@@ -29,7 +29,7 @@ tags: dutchgov
 |------------|-------|------|
 |[subdomains.txt](/DutchGovScope/data/maakhetzeniettemakkelijk.nl/subdomains.txt)|5|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/maakhetzeniettemakkelijk.nl/urls.txt)|4|Urls|
-|[all_subdomains.txt](/DutchGovScope/data/maakhetzeniettemakkelijk.nl/all_subdomains.txt)|11|All found subdomains (history)|
+|[all_subdomains.txt](/DutchGovScope/data/maakhetzeniettemakkelijk.nl/all_subdomains.txt)|13|All found subdomains (history)|
 
 
 ## Statistics

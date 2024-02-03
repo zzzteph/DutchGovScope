@@ -2,7 +2,7 @@
 layout: default
 title: "huisvoorklokkenluiders.nl"
 permalink: "/dutchgov/huisvoorklokkenluiders.nl.html"
-subdomains_count: 7
+subdomains_count: 11
 all_subdomains_count: 21
 urls_count: 5
 ssl_rank: 
@@ -27,7 +27,7 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/huisvoorklokkenluiders.nl/subdomains.txt)|7|Alive subdomains|
+|[subdomains.txt](/DutchGovScope/data/huisvoorklokkenluiders.nl/subdomains.txt)|11|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/huisvoorklokkenluiders.nl/urls.txt)|5|Urls|
 |[all_subdomains.txt](/DutchGovScope/data/huisvoorklokkenluiders.nl/all_subdomains.txt)|21|All found subdomains (history)|
 

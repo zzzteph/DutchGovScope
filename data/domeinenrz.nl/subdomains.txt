@@ -33,3 +33,4 @@ a-www.domeinenrz.nl
 dft.domeinenrz.nl
 enterpriseenrollment.domeinenrz.nl
 services2.domeinenrz.nl
+vpn2.domeinenrz.nl

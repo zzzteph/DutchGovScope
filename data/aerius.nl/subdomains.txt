@@ -52,3 +52,5 @@ acceptatie-connect.aerius.nl
 klimaatwebwinkel.likmodel.aerius.nl
 ftp.aerius.nl
 mail.aerius.nl
+auth-register-gat.aerius.nl
+www.blogbank.aerius.nl

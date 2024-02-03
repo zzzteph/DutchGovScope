@@ -3,3 +3,5 @@ opendata.fmhaaglanden.nl
 www.fmhaaglanden.nl
 fmhaaglanden.nl
 a-www.fmhaaglanden.nl
+a-feeds.fmhaaglanden.nl
+a-opendata.fmhaaglanden.nl

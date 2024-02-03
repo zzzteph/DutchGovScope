@@ -152,3 +152,4 @@ https://tgox.rws.nl
 https://techniekacademie.rws.nl
 http://acceptatie.gbvi.rws.nl
 https://keycloak-test.vm-02.azure.grid.rws.nl
+https://keycloak-acc.vm-02.azure.grid.rws.nl

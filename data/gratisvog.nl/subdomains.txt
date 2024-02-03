@@ -7,3 +7,6 @@ psrp.gratisvog.nl
 www.gratisvog.nl
 zoeken.gratisvog.nl
 gratisvog.nl
+a-feeds.gratisvog.nl
+a-opendata.gratisvog.nl
+a-www.gratisvog.nl

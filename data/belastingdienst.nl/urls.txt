@@ -9,7 +9,7 @@ https://betalen-cnf.belastingdienst.nl
 https://brm.belastingdienst.nl
 https://bvs.belastingdienst.nl
 https://cciwebstats.belastingdienst.nl
-https://centraalaanspreekpuntpensioenen.belastingdienst.nl
+http://centraalaanspreekpuntpensioenen.belastingdienst.nl
 https://connectpeople.belastingdienst.nl
 https://connectpeoplereg.belastingdienst.nl
 https://cpapps.belastingdienst.nl

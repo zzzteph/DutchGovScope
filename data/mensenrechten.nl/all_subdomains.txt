@@ -31,3 +31,15 @@ www.form.mensenrechten.nl
 www.intranet.mensenrechten.nl
 meedoencms.mensenrechten.nl
 meedoen.mensenrechten.nl
+a-opendata.mensenrechten.nl
+a-www.mensenrechten.nl
+autodiscover.mensenrechten.nl
+enterpriseenrollment.mensenrechten.nl
+enterpriseregistration.mensenrechten.nl
+formulier.mensenrechten.nl
+ftp.mensenrechten.nl
+micc.mensenrechten.nl
+thuiswerken.mensenrechten.nl
+mx2.mensenrechten.nl
+mx3.mensenrechten.nl
+mx4.mensenrechten.nl

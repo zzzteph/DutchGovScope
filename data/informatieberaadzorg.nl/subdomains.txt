@@ -3,3 +3,6 @@ opendata.informatieberaadzorg.nl
 platform.informatieberaadzorg.nl
 www.informatieberaadzorg.nl
 informatieberaadzorg.nl
+a-feeds.informatieberaadzorg.nl
+a-opendata.informatieberaadzorg.nl
+a-www.informatieberaadzorg.nl

@@ -13,7 +13,7 @@
 |------------|-------|------|
 |[subdomains.txt](/data/lintjes.nl/subdomains.txt)|4|Alive subdomains|
 |[urls.txt](/data/lintjes.nl/urls.txt)|4|Urls|
-|[all_subdomains.txt](/data/lintjes.nl/all_subdomains.txt)|11|All found subdomains (history)|
+|[all_subdomains.txt](/data/lintjes.nl/all_subdomains.txt)|14|All found subdomains (history)|
 
 
 ## Statistics

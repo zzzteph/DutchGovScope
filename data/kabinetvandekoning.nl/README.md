@@ -11,9 +11,9 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/kabinetvandekoning.nl/subdomains.txt)|15|Alive subdomains|
+|[subdomains.txt](/data/kabinetvandekoning.nl/subdomains.txt)|21|Alive subdomains|
 |[urls.txt](/data/kabinetvandekoning.nl/urls.txt)|8|Urls|
-|[all_subdomains.txt](/data/kabinetvandekoning.nl/all_subdomains.txt)|23|All found subdomains (history)|
+|[all_subdomains.txt](/data/kabinetvandekoning.nl/all_subdomains.txt)|29|All found subdomains (history)|
 
 
 ## Statistics

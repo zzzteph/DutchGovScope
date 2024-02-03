@@ -19,3 +19,9 @@ publicaties.onderwijsinspectie.nl
 www.contactformulier.onderwijsinspectie.nl
 magazines.english.onderwijsinspectie.nl
 magazinesintern.onderwijsinspectie.nl
+a-feeds.a-english.onderwijsinspectie.nl
+a-feeds.onderwijsinspectie.nl
+a-opendata.a-english.onderwijsinspectie.nl
+a-opendata.onderwijsinspectie.nl
+a-www.onderwijsinspectie.nl
+a-magazines.onderwijsinspectie.nl

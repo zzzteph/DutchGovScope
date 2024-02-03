@@ -11,7 +11,7 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/antennebureau.nl/subdomains.txt)|13|Alive subdomains|
+|[subdomains.txt](/data/antennebureau.nl/subdomains.txt)|14|Alive subdomains|
 |[urls.txt](/data/antennebureau.nl/urls.txt)|4|Urls|
 |[all_subdomains.txt](/data/antennebureau.nl/all_subdomains.txt)|28|All found subdomains (history)|
 

@@ -6,3 +6,7 @@ opendata.english.euthanasiecommissie.nl
 www.euthanasiecommissie.nl
 euthanasiecommissie.nl
 a-www.euthanasiecommissie.nl
+a-english.euthanasiecommissie.nl
+a-feeds.euthanasiecommissie.nl
+a-opendata.a-english.euthanasiecommissie.nl
+a-opendata.euthanasiecommissie.nl

@@ -11,7 +11,7 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/gdi.nl/subdomains.txt)|6|Alive subdomains|
+|[subdomains.txt](/data/gdi.nl/subdomains.txt)|8|Alive subdomains|
 |[urls.txt](/data/gdi.nl/urls.txt)|3|Urls|
 |[all_subdomains.txt](/data/gdi.nl/all_subdomains.txt)|10|All found subdomains (history)|
 

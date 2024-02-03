@@ -11,7 +11,7 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/forensischezorg.nl/subdomains.txt)|5|Alive subdomains|
+|[subdomains.txt](/data/forensischezorg.nl/subdomains.txt)|9|Alive subdomains|
 |[urls.txt](/data/forensischezorg.nl/urls.txt)|4|Urls|
 |[all_subdomains.txt](/data/forensischezorg.nl/all_subdomains.txt)|9|All found subdomains (history)|
 

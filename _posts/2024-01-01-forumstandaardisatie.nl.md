@@ -2,7 +2,7 @@
 layout: default
 title: "forumstandaardisatie.nl"
 permalink: "/dutchgov/forumstandaardisatie.nl.html"
-subdomains_count: 7
+subdomains_count: 8
 all_subdomains_count: 26
 urls_count: 6
 ssl_rank: 
@@ -27,7 +27,7 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/forumstandaardisatie.nl/subdomains.txt)|7|Alive subdomains|
+|[subdomains.txt](/DutchGovScope/data/forumstandaardisatie.nl/subdomains.txt)|8|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/forumstandaardisatie.nl/urls.txt)|6|Urls|
 |[all_subdomains.txt](/DutchGovScope/data/forumstandaardisatie.nl/all_subdomains.txt)|26|All found subdomains (history)|
 

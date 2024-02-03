@@ -9,3 +9,6 @@ english.komuitjeschuld.nl
 feeds.english.komuitjeschuld.nl
 magazinesintern.komuitjeschuld.nl
 opendata.english.komuitjeschuld.nl
+a-opendata.komuitjeschuld.nl
+a-www.komuitjeschuld.nl
+a-feeds.komuitjeschuld.nl

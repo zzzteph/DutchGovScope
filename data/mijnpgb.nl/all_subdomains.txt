@@ -11,3 +11,6 @@ magazinesintern.mijnpgb.nl
 magazines.mijnpgb.nl
 opendata.english.mijnpgb.nl
 ww38.mijnpgb.nl
+a-feeds.mijnpgb.nl
+a-opendata.mijnpgb.nl
+a-www.mijnpgb.nl

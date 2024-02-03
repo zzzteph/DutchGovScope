@@ -3,7 +3,7 @@ layout: default
 title: "jaarverantwoordingzorg.nl"
 permalink: "/dutchgov/jaarverantwoordingzorg.nl.html"
 subdomains_count: 7
-all_subdomains_count: 21
+all_subdomains_count: 22
 urls_count: 4
 ssl_rank: 
 http_rank: A
@@ -29,7 +29,7 @@ tags: dutchgov
 |------------|-------|------|
 |[subdomains.txt](/DutchGovScope/data/jaarverantwoordingzorg.nl/subdomains.txt)|7|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/jaarverantwoordingzorg.nl/urls.txt)|4|Urls|
-|[all_subdomains.txt](/DutchGovScope/data/jaarverantwoordingzorg.nl/all_subdomains.txt)|21|All found subdomains (history)|
+|[all_subdomains.txt](/DutchGovScope/data/jaarverantwoordingzorg.nl/all_subdomains.txt)|22|All found subdomains (history)|
 
 
 ## Statistics

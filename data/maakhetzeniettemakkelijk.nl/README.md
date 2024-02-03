@@ -13,7 +13,7 @@
 |------------|-------|------|
 |[subdomains.txt](/data/maakhetzeniettemakkelijk.nl/subdomains.txt)|5|Alive subdomains|
 |[urls.txt](/data/maakhetzeniettemakkelijk.nl/urls.txt)|4|Urls|
-|[all_subdomains.txt](/data/maakhetzeniettemakkelijk.nl/all_subdomains.txt)|11|All found subdomains (history)|
+|[all_subdomains.txt](/data/maakhetzeniettemakkelijk.nl/all_subdomains.txt)|13|All found subdomains (history)|
 
 
 ## Statistics

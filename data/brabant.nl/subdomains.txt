@@ -124,3 +124,11 @@ mailfilter.brabant.nl
 brain-ontw.brabant.nl
 www.brabant.nl
 api.brabant.nl
+www.kaarten.brabant.nl
+fs-up-sts01.brabant.nl
+informatie-acpt.brabant.nl
+informatie-ext.brabant.nl
+mik-acpt.brabant.nl
+mobicert.brabant.nl
+specials-acpt.brabant.nl
+webmail-acpt.brabant.nl

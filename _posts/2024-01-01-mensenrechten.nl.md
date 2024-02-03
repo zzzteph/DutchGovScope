@@ -3,7 +3,7 @@ layout: default
 title: "mensenrechten.nl"
 permalink: "/dutchgov/mensenrechten.nl.html"
 subdomains_count: 22
-all_subdomains_count: 33
+all_subdomains_count: 45
 urls_count: 14
 ssl_rank: 
 http_rank: A
@@ -29,7 +29,7 @@ tags: dutchgov
 |------------|-------|------|
 |[subdomains.txt](/DutchGovScope/data/mensenrechten.nl/subdomains.txt)|22|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/mensenrechten.nl/urls.txt)|14|Urls|
-|[all_subdomains.txt](/DutchGovScope/data/mensenrechten.nl/all_subdomains.txt)|33|All found subdomains (history)|
+|[all_subdomains.txt](/DutchGovScope/data/mensenrechten.nl/all_subdomains.txt)|45|All found subdomains (history)|
 
 
 ## Statistics

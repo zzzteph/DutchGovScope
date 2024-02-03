@@ -226,3 +226,5 @@ nwodhesx02-irmc.nwo.nl
 nwodhvwgw02.nwo.nl
 adfs.nwo.nl
 ipms.nwo.nl
+enterpriseenrollment.nwo.nl
+radius.nwo.nl

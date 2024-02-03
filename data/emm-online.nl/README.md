@@ -11,7 +11,7 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/emm-online.nl/subdomains.txt)|4|Alive subdomains|
+|[subdomains.txt](/data/emm-online.nl/subdomains.txt)|7|Alive subdomains|
 |[urls.txt](/data/emm-online.nl/urls.txt)|4|Urls|
 |[all_subdomains.txt](/data/emm-online.nl/all_subdomains.txt)|7|All found subdomains (history)|
 

@@ -4,3 +4,5 @@ opendata.nponderwijs.nl
 www.nponderwijs.nl
 nponderwijs.nl
 www.kennis.nponderwijs.nl
+a-opendata.nponderwijs.nl
+a-www.nponderwijs.nl

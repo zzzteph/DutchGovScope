@@ -3,7 +3,7 @@ layout: default
 title: "digitoegankelijk.nl"
 permalink: "/dutchgov/digitoegankelijk.nl.html"
 subdomains_count: 9
-all_subdomains_count: 17
+all_subdomains_count: 18
 urls_count: 9
 ssl_rank: 
 http_rank: C
@@ -29,7 +29,7 @@ tags: dutchgov
 |------------|-------|------|
 |[subdomains.txt](/DutchGovScope/data/digitoegankelijk.nl/subdomains.txt)|9|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/digitoegankelijk.nl/urls.txt)|9|Urls|
-|[all_subdomains.txt](/DutchGovScope/data/digitoegankelijk.nl/all_subdomains.txt)|17|All found subdomains (history)|
+|[all_subdomains.txt](/DutchGovScope/data/digitoegankelijk.nl/all_subdomains.txt)|18|All found subdomains (history)|
 
 
 ## Statistics

@@ -262,3 +262,5 @@ https://sterftecijfers.rivm.nl
 https://manveldapp-beheer.rivm.nl
 https://dev-lsp.rivm.nl
 https://api.dev-lsp.rivm.nl
+https://tst-lsp.rivm.nl
+https://api.tst-lsp.rivm.nl

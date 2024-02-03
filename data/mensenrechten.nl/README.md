@@ -13,7 +13,7 @@
 |------------|-------|------|
 |[subdomains.txt](/data/mensenrechten.nl/subdomains.txt)|22|Alive subdomains|
 |[urls.txt](/data/mensenrechten.nl/urls.txt)|14|Urls|
-|[all_subdomains.txt](/data/mensenrechten.nl/all_subdomains.txt)|33|All found subdomains (history)|
+|[all_subdomains.txt](/data/mensenrechten.nl/all_subdomains.txt)|45|All found subdomains (history)|
 
 
 ## Statistics

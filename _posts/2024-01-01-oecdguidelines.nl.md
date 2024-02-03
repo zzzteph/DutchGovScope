@@ -3,7 +3,7 @@ layout: default
 title: "oecdguidelines.nl"
 permalink: "/dutchgov/oecdguidelines.nl.html"
 subdomains_count: 4
-all_subdomains_count: 6
+all_subdomains_count: 9
 urls_count: 4
 ssl_rank: 
 http_rank: A
@@ -29,7 +29,7 @@ tags: dutchgov
 |------------|-------|------|
 |[subdomains.txt](/DutchGovScope/data/oecdguidelines.nl/subdomains.txt)|4|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/oecdguidelines.nl/urls.txt)|4|Urls|
-|[all_subdomains.txt](/DutchGovScope/data/oecdguidelines.nl/all_subdomains.txt)|6|All found subdomains (history)|
+|[all_subdomains.txt](/DutchGovScope/data/oecdguidelines.nl/all_subdomains.txt)|9|All found subdomains (history)|
 
 
 ## Statistics
@@ -39,6 +39,6 @@ tags: dutchgov
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[https://feeds.oecdguidelines.nl](https://feeds.oecdguidelines.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://opendata.oecdguidelines.nl](https://opendata.oecdguidelines.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
-|[https://www.oecdguidelines.nl](https://www.oecdguidelines.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Home | National...|
+|[https://www.oecdguidelines.nl](https://www.oecdguidelines.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://oecdguidelines.nl](https://oecdguidelines.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
 

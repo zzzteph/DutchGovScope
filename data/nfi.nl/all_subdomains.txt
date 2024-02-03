@@ -15,3 +15,5 @@ mail.nfi.nl
 rds01.hansken.nfi.nl
 library.nfi.nl
 edofa.nfi.nl
+pm-bounces.nfi.nl
+smtp.nfi.nl

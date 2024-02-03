@@ -126,3 +126,8 @@ mimbodci.sap.minienm.nl
 adresgids.minienm.nl
 mimbmj.sap.minienm.nl
 www.epublicatie.minienm.nl
+dcc.minienm.nl
+e-learning.minienm.nl
+intra.minienm.nl
+leerportaal.minienm.nl
+localhost.minienm.nl

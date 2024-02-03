@@ -13,7 +13,7 @@
 |------------|-------|------|
 |[subdomains.txt](/data/nponderwijs.nl/subdomains.txt)|5|Alive subdomains|
 |[urls.txt](/data/nponderwijs.nl/urls.txt)|5|Urls|
-|[all_subdomains.txt](/data/nponderwijs.nl/all_subdomains.txt)|6|All found subdomains (history)|
+|[all_subdomains.txt](/data/nponderwijs.nl/all_subdomains.txt)|8|All found subdomains (history)|
 
 
 ## Statistics

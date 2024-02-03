@@ -16,3 +16,10 @@ pan.emissieautoriteit.nl
 sip.emissieautoriteit.nl
 a-www.emissieautoriteit.nl
 sdm.emissieautoriteit.nl
+a-feeds.emissieautoriteit.nl
+a-magazines.emissieautoriteit.nl
+a-opendata.emissieautoriteit.nl
+dap.emissieautoriteit.nl
+dpp.emissieautoriteit.nl
+jap.emissieautoriteit.nl
+jpp.emissieautoriteit.nl

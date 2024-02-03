@@ -4,3 +4,6 @@ magazines.informatiehuishouding.nl
 opendata.informatiehuishouding.nl
 www.informatiehuishouding.nl
 informatiehuishouding.nl
+a-feeds.informatiehuishouding.nl
+a-opendata.informatiehuishouding.nl
+a-www.informatiehuishouding.nl

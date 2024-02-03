@@ -2,3 +2,6 @@ feeds.mirttrajecten.nl
 opendata.mirttrajecten.nl
 www.mirttrajecten.nl
 mirttrajecten.nl
+a-feeds.mirttrajecten.nl
+a-opendata.mirttrajecten.nl
+a-www.mirttrajecten.nl

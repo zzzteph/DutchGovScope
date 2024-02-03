@@ -11,7 +11,7 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/economischeveiligheid.nl/subdomains.txt)|9|Alive subdomains|
+|[subdomains.txt](/data/economischeveiligheid.nl/subdomains.txt)|10|Alive subdomains|
 |[urls.txt](/data/economischeveiligheid.nl/urls.txt)|4|Urls|
 |[all_subdomains.txt](/data/economischeveiligheid.nl/all_subdomains.txt)|10|All found subdomains (history)|
 

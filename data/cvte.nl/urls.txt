@@ -5,3 +5,4 @@ https://opendata.cvte.nl
 https://www.cvte.nl
 https://cvte.nl
 https://autodiscover.cvte.nl
+https://wg.cvte.nl

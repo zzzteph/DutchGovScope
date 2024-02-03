@@ -3,3 +3,6 @@ opendata.luchtvaartindetoekomst.nl
 www.luchtvaartindetoekomst.nl
 luchtvaartindetoekomst.nl
 www.luchtvaartindetoekomst.nl.luchtvaartindetoekomst.nl
+a-feeds.luchtvaartindetoekomst.nl
+a-opendata.luchtvaartindetoekomst.nl
+a-www.luchtvaartindetoekomst.nl

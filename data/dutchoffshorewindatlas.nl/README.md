@@ -11,7 +11,7 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/dutchoffshorewindatlas.nl/subdomains.txt)|6|Alive subdomains|
+|[subdomains.txt](/data/dutchoffshorewindatlas.nl/subdomains.txt)|7|Alive subdomains|
 |[urls.txt](/data/dutchoffshorewindatlas.nl/urls.txt)|4|Urls|
 |[all_subdomains.txt](/data/dutchoffshorewindatlas.nl/all_subdomains.txt)|9|All found subdomains (history)|
 

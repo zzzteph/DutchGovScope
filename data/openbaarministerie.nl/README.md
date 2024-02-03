@@ -13,7 +13,7 @@
 |------------|-------|------|
 |[subdomains.txt](/data/openbaarministerie.nl/subdomains.txt)|4|Alive subdomains|
 |[urls.txt](/data/openbaarministerie.nl/urls.txt)|3|Urls|
-|[all_subdomains.txt](/data/openbaarministerie.nl/all_subdomains.txt)|11|All found subdomains (history)|
+|[all_subdomains.txt](/data/openbaarministerie.nl/all_subdomains.txt)|12|All found subdomains (history)|
 
 
 ## Statistics

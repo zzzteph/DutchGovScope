@@ -3,7 +3,7 @@ layout: default
 title: "loketkennisveiligheid.nl"
 permalink: "/dutchgov/loketkennisveiligheid.nl.html"
 subdomains_count: 7
-all_subdomains_count: 7
+all_subdomains_count: 14
 urls_count: 7
 ssl_rank: 
 http_rank: A
@@ -29,7 +29,7 @@ tags: dutchgov
 |------------|-------|------|
 |[subdomains.txt](/DutchGovScope/data/loketkennisveiligheid.nl/subdomains.txt)|7|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/loketkennisveiligheid.nl/urls.txt)|7|Urls|
-|[all_subdomains.txt](/DutchGovScope/data/loketkennisveiligheid.nl/all_subdomains.txt)|7|All found subdomains (history)|
+|[all_subdomains.txt](/DutchGovScope/data/loketkennisveiligheid.nl/all_subdomains.txt)|14|All found subdomains (history)|
 
 
 ## Statistics

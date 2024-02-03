@@ -5,3 +5,9 @@ opendata.knmidata.nl
 opendata.english.knmidata.nl
 www.knmidata.nl
 knmidata.nl
+a-feeds.a-english.knmidata.nl
+a-feeds.knmidata.nl
+a-opendata.a-english.knmidata.nl
+a-opendata.knmidata.nl
+a-www.knmidata.nl
+a-english.knmidata.nl

@@ -13,7 +13,7 @@
 |------------|-------|------|
 |[subdomains.txt](/data/platformrijksoverheidonline.nl/subdomains.txt)|5|Alive subdomains|
 |[urls.txt](/data/platformrijksoverheidonline.nl/urls.txt)|5|Urls|
-|[all_subdomains.txt](/data/platformrijksoverheidonline.nl/all_subdomains.txt)|5|All found subdomains (history)|
+|[all_subdomains.txt](/data/platformrijksoverheidonline.nl/all_subdomains.txt)|11|All found subdomains (history)|
 
 
 ## Statistics

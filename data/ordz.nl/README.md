@@ -13,7 +13,7 @@
 |------------|-------|------|
 |[subdomains.txt](/data/ordz.nl/subdomains.txt)|6|Alive subdomains|
 |[urls.txt](/data/ordz.nl/urls.txt)|5|Urls|
-|[all_subdomains.txt](/data/ordz.nl/all_subdomains.txt)|14|All found subdomains (history)|
+|[all_subdomains.txt](/data/ordz.nl/all_subdomains.txt)|17|All found subdomains (history)|
 
 
 ## Statistics

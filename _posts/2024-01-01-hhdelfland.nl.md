@@ -2,7 +2,7 @@
 layout: default
 title: "hhdelfland.nl"
 permalink: "/dutchgov/hhdelfland.nl.html"
-subdomains_count: 58
+subdomains_count: 60
 all_subdomains_count: 219
 urls_count: 24
 ssl_rank: 
@@ -27,7 +27,7 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/hhdelfland.nl/subdomains.txt)|58|Alive subdomains|
+|[subdomains.txt](/DutchGovScope/data/hhdelfland.nl/subdomains.txt)|60|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/hhdelfland.nl/urls.txt)|24|Urls|
 |[all_subdomains.txt](/DutchGovScope/data/hhdelfland.nl/all_subdomains.txt)|219|All found subdomains (history)|
 

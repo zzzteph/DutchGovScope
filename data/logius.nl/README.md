@@ -13,7 +13,7 @@
 |------------|-------|------|
 |[subdomains.txt](/data/logius.nl/subdomains.txt)|69|Alive subdomains|
 |[urls.txt](/data/logius.nl/urls.txt)|50|Urls|
-|[all_subdomains.txt](/data/logius.nl/all_subdomains.txt)|115|All found subdomains (history)|
+|[all_subdomains.txt](/data/logius.nl/all_subdomains.txt)|117|All found subdomains (history)|
 
 
 ## Statistics
@@ -22,7 +22,7 @@
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[https://acc-dictu.logius.nl](https://acc-dictu.logius.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Basic Nginx|401 Authorizatio...|
-|[https://acc-dictu.comcms.logius.nl](https://acc-dictu.comcms.logius.nl)| | **E**|nginx/1.24.0| | | | | | :white_check_mark: | | :white_check_mark: | |Drupal:10 Nginx:1.24.0 PHP:8.1.27|Redirecting to h...|
+|[https://acc-dictu.comcms.logius.nl](https://acc-dictu.comcms.logius.nl)| | **E**|nginx/1.24.0| | | | | | :white_check_mark: | | :white_check_mark: | |Drupal Nginx:1.24.0 PHP:8.1.27|Redirecting to h...|
 |[https://acc-dictu.kennisbank.logius.nl](https://acc-dictu.kennisbank.logius.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Basic Nginx|401 Authorizatio...|
 |[http://acc.oinregister.logius.nl](http://acc.oinregister.logius.nl)| | **F**|Picard-LB| | | | | | | | :white_check_mark: | |||
 |[http://acpt-machtigen.digipoort.logius.nl](http://acpt-machtigen.digipoort.logius.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |||

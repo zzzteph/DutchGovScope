@@ -178,3 +178,8 @@ www.acpt.nationaalarchief.nl
 gaf.perf.nationaalarchief.nl
 registratietool.test.nationaalarchief.nl
 e-depot-poc.test.nationaalarchief.nl
+en.test.nationaalarchief.nl
+es.test.nationaalarchief.nl
+fr.test.nationaalarchief.nl
+localhost.nationaalarchief.nl
+onderwijs.nationaalarchief.nl

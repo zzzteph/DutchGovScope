@@ -3,7 +3,7 @@ layout: default
 title: "nponderwijs.nl"
 permalink: "/dutchgov/nponderwijs.nl.html"
 subdomains_count: 5
-all_subdomains_count: 6
+all_subdomains_count: 8
 urls_count: 5
 ssl_rank: 
 http_rank: A
@@ -29,7 +29,7 @@ tags: dutchgov
 |------------|-------|------|
 |[subdomains.txt](/DutchGovScope/data/nponderwijs.nl/subdomains.txt)|5|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/nponderwijs.nl/urls.txt)|5|Urls|
-|[all_subdomains.txt](/DutchGovScope/data/nponderwijs.nl/all_subdomains.txt)|6|All found subdomains (history)|
+|[all_subdomains.txt](/DutchGovScope/data/nponderwijs.nl/all_subdomains.txt)|8|All found subdomains (history)|
 
 
 ## Statistics

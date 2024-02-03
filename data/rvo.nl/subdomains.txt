@@ -150,3 +150,5 @@ upnl-zw-acc.mijn.rvo.nl
 upnl-zw.mijn.rvo.nl
 wba-acc.rvo.nl
 ienrregister.rvo.nl
+lyncdiscover.rvo.nl
+sip.rvo.nl

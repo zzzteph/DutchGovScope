@@ -2,8 +2,8 @@
 layout: default
 title: "kennisopenbaarbestuur.nl"
 permalink: "/dutchgov/kennisopenbaarbestuur.nl.html"
-subdomains_count: 4
-all_subdomains_count: 6
+subdomains_count: 8
+all_subdomains_count: 10
 urls_count: 4
 ssl_rank: 
 http_rank: A
@@ -27,9 +27,9 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/kennisopenbaarbestuur.nl/subdomains.txt)|4|Alive subdomains|
+|[subdomains.txt](/DutchGovScope/data/kennisopenbaarbestuur.nl/subdomains.txt)|8|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/kennisopenbaarbestuur.nl/urls.txt)|4|Urls|
-|[all_subdomains.txt](/DutchGovScope/data/kennisopenbaarbestuur.nl/all_subdomains.txt)|6|All found subdomains (history)|
+|[all_subdomains.txt](/DutchGovScope/data/kennisopenbaarbestuur.nl/all_subdomains.txt)|10|All found subdomains (history)|
 
 
 ## Statistics

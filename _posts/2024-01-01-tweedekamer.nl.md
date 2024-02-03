@@ -4,7 +4,7 @@ title: "tweedekamer.nl"
 permalink: "/dutchgov/tweedekamer.nl.html"
 subdomains_count: 141
 all_subdomains_count: 237
-urls_count: 111
+urls_count: 113
 ssl_rank: 
 http_rank: C
 security_txt: 0
@@ -28,7 +28,7 @@ tags: dutchgov
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/DutchGovScope/data/tweedekamer.nl/subdomains.txt)|141|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/tweedekamer.nl/urls.txt)|111|Urls|
+|[urls.txt](/DutchGovScope/data/tweedekamer.nl/urls.txt)|113|Urls|
 |[all_subdomains.txt](/DutchGovScope/data/tweedekamer.nl/all_subdomains.txt)|237|All found subdomains (history)|
 
 
@@ -148,4 +148,6 @@ tags: dutchgov
 |[https://sesam.tweedekamer.nl](https://sesam.tweedekamer.nl)| | **B**|BigIP|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |F5 BigIP||
 |[https://kva-test.tweedekamer.nl](https://kva-test.tweedekamer.nl)| | **F**|BigIP|:warning: | | | | | :white_check_mark: | | :white_check_mark: | |F5 BigIP||
 |[https://kva-tst.tweedekamer.nl](https://kva-tst.tweedekamer.nl)| | **B**|BigIP|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |F5 BigIP||
+|[https://vip-acc.tweedekamer.nl](https://vip-acc.tweedekamer.nl)| | **B**|BigIP|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |F5 BigIP||
+|[https://opendata-wiki.tweedekamer.nl](https://opendata-wiki.tweedekamer.nl)| | **B**|BigIP|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |F5 BigIP||
 

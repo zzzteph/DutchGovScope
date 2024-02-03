@@ -2,7 +2,7 @@
 layout: default
 title: "expertisecentrummggz.nl"
 permalink: "/dutchgov/expertisecentrummggz.nl.html"
-subdomains_count: 4
+subdomains_count: 9
 all_subdomains_count: 16
 urls_count: 4
 ssl_rank: A+
@@ -27,7 +27,7 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/expertisecentrummggz.nl/subdomains.txt)|4|Alive subdomains|
+|[subdomains.txt](/DutchGovScope/data/expertisecentrummggz.nl/subdomains.txt)|9|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/expertisecentrummggz.nl/urls.txt)|4|Urls|
 |[all_subdomains.txt](/DutchGovScope/data/expertisecentrummggz.nl/all_subdomains.txt)|16|All found subdomains (history)|
 

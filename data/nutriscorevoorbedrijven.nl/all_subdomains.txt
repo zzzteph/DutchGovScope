@@ -2,3 +2,6 @@ feeds.nutriscorevoorbedrijven.nl
 nutriscorevoorbedrijven.nl
 opendata.nutriscorevoorbedrijven.nl
 www.nutriscorevoorbedrijven.nl
+a-feeds.nutriscorevoorbedrijven.nl
+a-opendata.nutriscorevoorbedrijven.nl
+a-www.nutriscorevoorbedrijven.nl

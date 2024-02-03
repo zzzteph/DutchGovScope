@@ -3,7 +3,7 @@ layout: default
 title: "royal-house.nl"
 permalink: "/dutchgov/royal-house.nl.html"
 subdomains_count: 7
-all_subdomains_count: 7
+all_subdomains_count: 11
 urls_count: 4
 ssl_rank: 
 http_rank: A
@@ -29,7 +29,7 @@ tags: dutchgov
 |------------|-------|------|
 |[subdomains.txt](/DutchGovScope/data/royal-house.nl/subdomains.txt)|7|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/royal-house.nl/urls.txt)|4|Urls|
-|[all_subdomains.txt](/DutchGovScope/data/royal-house.nl/all_subdomains.txt)|7|All found subdomains (history)|
+|[all_subdomains.txt](/DutchGovScope/data/royal-house.nl/all_subdomains.txt)|11|All found subdomains (history)|
 
 
 ## Statistics

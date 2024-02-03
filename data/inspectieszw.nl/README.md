@@ -11,9 +11,9 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/inspectieszw.nl/subdomains.txt)|9|Alive subdomains|
+|[subdomains.txt](/data/inspectieszw.nl/subdomains.txt)|14|Alive subdomains|
 |[urls.txt](/data/inspectieszw.nl/urls.txt)|9|Urls|
-|[all_subdomains.txt](/data/inspectieszw.nl/all_subdomains.txt)|43|All found subdomains (history)|
+|[all_subdomains.txt](/data/inspectieszw.nl/all_subdomains.txt)|48|All found subdomains (history)|
 
 
 ## Statistics

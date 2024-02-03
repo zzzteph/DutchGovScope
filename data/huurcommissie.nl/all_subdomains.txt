@@ -47,3 +47,11 @@ sharefile.huurcommissie.nl
 mobile.huurcommissie.nl
 secure-a.huurcommissie.nl
 dialin.huurcommissie.nl
+a-feeds.huurcommissie.nl
+a-opendata.huurcommissie.nl
+a-www.huurcommissie.nl
+enterpriseenrollment.huurcommissie.nl
+enterpriseregistration.huurcommissie.nl
+msoid.huurcommissie.nl
+sftp.huurcommissie.nl
+www-p.huurcommissie.nl

@@ -4,3 +4,7 @@ www.kennisopenbaarbestuur.nl
 kennisopenbaarbestuur.nl
 acc.kennisopenbaarbestuur.nl
 vanwww.kennisopenbaarbestuur.nl
+a-feeds.kennisopenbaarbestuur.nl
+a-opendata.kennisopenbaarbestuur.nl
+a-www.kennisopenbaarbestuur.nl
+test.kennisopenbaarbestuur.nl

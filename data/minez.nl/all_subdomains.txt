@@ -339,3 +339,4 @@ www.acc-eidas-bc.minez.nl
 acc2-nl-ilt-tvs-etd-saml-client-2wssl.minez.nl
 acc-nl-nvwa-tvs-etd-saml-client-enc.minez.nl
 tst-nl-at-tvs-digid-saml-client-2wssl.minez.nl
+forms.minez.nl

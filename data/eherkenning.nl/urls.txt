@@ -22,3 +22,4 @@ https://test-dictu.eherkenning.nl
 https://wiki.eherkenning.nl
 https://www.eherkenning.nl
 https://eherkenning.nl
+https://acceptatie.eherkenning.nl

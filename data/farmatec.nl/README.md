@@ -11,7 +11,7 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/farmatec.nl/subdomains.txt)|10|Alive subdomains|
+|[subdomains.txt](/data/farmatec.nl/subdomains.txt)|15|Alive subdomains|
 |[urls.txt](/data/farmatec.nl/urls.txt)|9|Urls|
 |[all_subdomains.txt](/data/farmatec.nl/all_subdomains.txt)|29|All found subdomains (history)|
 
@@ -25,9 +25,9 @@
 |[https://english.farmatec.nl](https://english.farmatec.nl)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Home | Farmatec|
 |[https://feeds.farmatec.nl](https://feeds.farmatec.nl)| **A+**| **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://feeds.english.farmatec.nl](https://feeds.english.farmatec.nl)| **A+**| **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
-|[https://hulpmiddelen.farmatec.nl](https://hulpmiddelen.farmatec.nl)| **A**| **A**|-| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
+|[https://hulpmiddelen.farmatec.nl](https://hulpmiddelen.farmatec.nl)| **A**| **A**|-| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Hulpmiddelen|
 |[https://opendata.farmatec.nl](https://opendata.farmatec.nl)| **A+**| **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://opendata.english.farmatec.nl](https://opendata.english.farmatec.nl)| **A+**| **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://www.farmatec.nl](https://www.farmatec.nl)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Home | Farmatec|
-|[https://farmatec.nl](https://farmatec.nl)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
+|[https://farmatec.nl](https://farmatec.nl)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
 

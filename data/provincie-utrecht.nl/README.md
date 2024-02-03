@@ -11,7 +11,7 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/provincie-utrecht.nl/subdomains.txt)|103|Alive subdomains|
+|[subdomains.txt](/data/provincie-utrecht.nl/subdomains.txt)|104|Alive subdomains|
 |[urls.txt](/data/provincie-utrecht.nl/urls.txt)|87|Urls|
 |[all_subdomains.txt](/data/provincie-utrecht.nl/all_subdomains.txt)|178|All found subdomains (history)|
 

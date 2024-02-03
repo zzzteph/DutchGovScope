@@ -11,3 +11,5 @@ vr.ofgv.nl
 mx1.ofgv.nl
 ofgvtransfer.ofgv.nl
 smtp.ofgv.nl
+telewerken.ofgv.nl
+sharefile.ofgv.nl

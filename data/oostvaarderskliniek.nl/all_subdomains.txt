@@ -7,3 +7,6 @@ ftp.oostvaarderskliniek.nl
 mail.oostvaarderskliniek.nl
 pop.oostvaarderskliniek.nl
 smtp.oostvaarderskliniek.nl
+a-feeds.oostvaarderskliniek.nl
+a-opendata.oostvaarderskliniek.nl
+a-www.oostvaarderskliniek.nl

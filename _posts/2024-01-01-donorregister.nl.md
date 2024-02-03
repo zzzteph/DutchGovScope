@@ -5,7 +5,7 @@ permalink: "/dutchgov/donorregister.nl.html"
 subdomains_count: 25
 all_subdomains_count: 45
 urls_count: 14
-ssl_rank: A+
+ssl_rank: A-
 http_rank: A
 security_txt: 0
 url_link: /data/donorregister.nl/urls.txt
@@ -20,7 +20,7 @@ tags: dutchgov
 ## Summary data
 
 
- - **SSL Grade**:A+
+ - **SSL Grade**:A-
  - **HTTP Security Grade**:A
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:0
 
@@ -40,7 +40,7 @@ tags: dutchgov
 |[https://acceptatie.beheer.donorregister.nl](https://acceptatie.beheer.donorregister.nl)| **A**| **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://acceptatie.mijn.donorregister.nl](https://acceptatie.mijn.donorregister.nl)| **A**| **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://acceptatie.raadplegen.donorregister.nl](https://acceptatie.raadplegen.donorregister.nl)| **A**| **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
-|[http://acceptatie.webservices.donorregister.nl](http://acceptatie.webservices.donorregister.nl)| | **F**|BigIP| | | | | | | | :white_check_mark: | |F5 BigIP||
+|[http://acceptatie.webservices.donorregister.nl](http://acceptatie.webservices.donorregister.nl)| **F**| **F**|BigIP| | | | | | | | :white_check_mark: | |F5 BigIP||
 |[https://beheer.donorregister.nl](https://beheer.donorregister.nl)| **A**| **A**|-| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://english.donorregister.nl](https://english.donorregister.nl)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Home | Donorregi...|
 |[https://feeds.donorregister.nl](https://feeds.donorregister.nl)| **A+**| **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||

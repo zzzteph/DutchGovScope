@@ -10,3 +10,4 @@ a-opendata.a-english.denkvooruit.nl
 a-www.denkvooruit.nl
 a-english.denkvooruit.nl
 a-feeds.a-english.denkvooruit.nl
+a-opendata.denkvooruit.nl

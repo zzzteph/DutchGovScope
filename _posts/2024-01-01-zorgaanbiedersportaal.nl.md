@@ -3,7 +3,7 @@ layout: default
 title: "zorgaanbiedersportaal.nl"
 permalink: "/dutchgov/zorgaanbiedersportaal.nl.html"
 subdomains_count: 18
-all_subdomains_count: 18
+all_subdomains_count: 21
 urls_count: 18
 ssl_rank: 
 http_rank: A
@@ -29,7 +29,7 @@ tags: dutchgov
 |------------|-------|------|
 |[subdomains.txt](/DutchGovScope/data/zorgaanbiedersportaal.nl/subdomains.txt)|18|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/zorgaanbiedersportaal.nl/urls.txt)|18|Urls|
-|[all_subdomains.txt](/DutchGovScope/data/zorgaanbiedersportaal.nl/all_subdomains.txt)|18|All found subdomains (history)|
+|[all_subdomains.txt](/DutchGovScope/data/zorgaanbiedersportaal.nl/all_subdomains.txt)|21|All found subdomains (history)|
 
 
 ## Statistics

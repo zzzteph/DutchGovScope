@@ -11,7 +11,7 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/szw.nl/subdomains.txt)|31|Alive subdomains|
+|[subdomains.txt](/data/szw.nl/subdomains.txt)|32|Alive subdomains|
 |[urls.txt](/data/szw.nl/urls.txt)|2|Urls|
 |[all_subdomains.txt](/data/szw.nl/all_subdomains.txt)|58|All found subdomains (history)|
 

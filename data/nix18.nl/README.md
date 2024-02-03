@@ -13,7 +13,7 @@
 |------------|-------|------|
 |[subdomains.txt](/data/nix18.nl/subdomains.txt)|4|Alive subdomains|
 |[urls.txt](/data/nix18.nl/urls.txt)|4|Urls|
-|[all_subdomains.txt](/data/nix18.nl/all_subdomains.txt)|16|All found subdomains (history)|
+|[all_subdomains.txt](/data/nix18.nl/all_subdomains.txt)|18|All found subdomains (history)|
 
 
 ## Statistics

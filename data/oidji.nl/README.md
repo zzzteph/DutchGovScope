@@ -13,7 +13,7 @@
 |------------|-------|------|
 |[subdomains.txt](/data/oidji.nl/subdomains.txt)|9|Alive subdomains|
 |[urls.txt](/data/oidji.nl/urls.txt)|7|Urls|
-|[all_subdomains.txt](/data/oidji.nl/all_subdomains.txt)|11|All found subdomains (history)|
+|[all_subdomains.txt](/data/oidji.nl/all_subdomains.txt)|14|All found subdomains (history)|
 
 
 ## Statistics

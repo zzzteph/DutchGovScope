@@ -32,7 +32,7 @@
 |[https://brm.belastingdienst.nl](https://brm.belastingdienst.nl)| **A+**| **C**||:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | |HSTS IBM DataPower||
 |[https://bvs.belastingdienst.nl](https://bvs.belastingdienst.nl)| **A**| **E**|| | | | | | | | :white_check_mark: | ||Toegang geblokke...|
 |[https://cciwebstats.belastingdienst.nl](https://cciwebstats.belastingdienst.nl)| **A**| **E**|| | | | | | | | :white_check_mark: | ||Toegang geblokke...|
-|[https://centraalaanspreekpuntpensioenen.belastingdienst.nl](https://centraalaanspreekpuntpensioenen.belastingdienst.nl)| **A+**| **A**||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS MySQL PHP WordPress Yoast SEO:21.8|Home | Centraal...|
+|[http://centraalaanspreekpuntpensioenen.belastingdienst.nl](http://centraalaanspreekpuntpensioenen.belastingdienst.nl)| **A+**| **B**|BigIP|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |F5 BigIP||
 |[https://connectpeople.belastingdienst.nl](https://connectpeople.belastingdienst.nl)| **A+**| **A**||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|ConnectPeople Lo...|
 |[https://connectpeoplereg.belastingdienst.nl](https://connectpeoplereg.belastingdienst.nl)| **A+**| **B**||:warning: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://cpapps.belastingdienst.nl](https://cpapps.belastingdienst.nl)| **A+**| **A**||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Access Denied|
@@ -46,9 +46,9 @@
 |[https://fibb1.belastingdienst.nl](https://fibb1.belastingdienst.nl)| **A**| **E**|| | | | | | | | :white_check_mark: | ||Request Rejected|
 |[https://fibe1.belastingdienst.nl](https://fibe1.belastingdienst.nl)| **A+**| **B**||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS|Er is een fout o...|
 |[https://fibi1.belastingdienst.nl](https://fibi1.belastingdienst.nl)| **A**| **E**|| | | | | | | | :white_check_mark: | ||Request Rejected|
-|[https://fibz1.belastingdienst.nl](https://fibz1.belastingdienst.nl)| **A**| **F**|BigIP| | | | | | | | :white_check_mark: | |F5 BigIP|Belastingdienst...|
+|[https://fibz1.belastingdienst.nl](https://fibz1.belastingdienst.nl)| **A**| **E**|| | | | | | | | :white_check_mark: | |F5 BigIP|Request Rejected|
 |[https://filetransfer.belastingdienst.nl](https://filetransfer.belastingdienst.nl)| **A**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|302 Found|
-|[https://filetransfer.ont.belastingdienst.nl](https://filetransfer.ont.belastingdienst.nl)| **A**| **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|302 Found|
+|[https://filetransfer.ont.belastingdienst.nl](https://filetransfer.ont.belastingdienst.nl)| **A**| **B**|nginx| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS Nginx|302 Found|
 |[https://fmis.belastingdienst.nl](https://fmis.belastingdienst.nl)| **A**| **E**|| | | | | | | | :white_check_mark: | ||Toegang geblokke...|
 |[https://fmis.acc.belastingdienst.nl](https://fmis.acc.belastingdienst.nl)| **A**| **E**|| | | | | | | | :white_check_mark: | ||Toegang geblokke...|
 |[https://fsvportaal.belastingdienst.nl](https://fsvportaal.belastingdienst.nl)| **A+**| **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS YouTube|FSV - Home|
@@ -129,7 +129,7 @@
 |[http://verleendekinderopvang.acc.belastingdienst.nl](http://verleendekinderopvang.acc.belastingdienst.nl)| **A+**| **A**|BigIP| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |F5 BigIP||
 |[http://verzekeringsproducten.acc.belastingdienst.nl](http://verzekeringsproducten.acc.belastingdienst.nl)| **A+**| **A**|BigIP| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |F5 BigIP||
 |[http://wagenparkgegevens.acc.belastingdienst.nl](http://wagenparkgegevens.acc.belastingdienst.nl)| **A+**| **A**|BigIP| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |F5 BigIP||
-|[https://wwwfcinetorg.belastingdienst.nl](https://wwwfcinetorg.belastingdienst.nl)| **F**| **E**|| | | | | | | | :white_check_mark: | |HSTS MySQL PHP WordPress Yoast SEO Premium:21.8 Yoast SEO:21.8|Home | FCInet &...|
+|[https://wwwfcinetorg.belastingdienst.nl](https://wwwfcinetorg.belastingdienst.nl)| **F**| **E**|| | | | | | | | :white_check_mark: | |HSTS MySQL PHP WordPress||
 |[https://werkenbijde.belastingdienst.nl](https://werkenbijde.belastingdienst.nl)| **F**| **F**|Ponos Maximum| | | | | | | | :white_check_mark: | |HSTS|418 I'm a teapot|
 |[https://geen.belastingdienst.nl](https://geen.belastingdienst.nl)| **F**| **F**|BigIP| | | | | | | | :white_check_mark: | |F5 BigIP||
 |[https://jouw.belastingdienst.nl](https://jouw.belastingdienst.nl)| **F**| **F**|BigIP| | | | | | | | :white_check_mark: | |F5 BigIP||

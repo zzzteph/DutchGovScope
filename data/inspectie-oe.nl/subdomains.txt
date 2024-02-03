@@ -9,3 +9,9 @@ autodiscover.inspectie-oe.nl
 brs.inspectie-oe.nl
 lyncdiscover.inspectie-oe.nl
 sip.inspectie-oe.nl
+a-feeds.a-english.inspectie-oe.nl
+a-feeds.inspectie-oe.nl
+a-opendata.a-english.inspectie-oe.nl
+a-opendata.inspectie-oe.nl
+a-www.inspectie-oe.nl
+a-english.inspectie-oe.nl

@@ -5,3 +5,10 @@ feeds.loketkennisveiligheid.nl
 www.loketkennisveiligheid.nl
 feeds.english.loketkennisveiligheid.nl
 loketkennisveiligheid.nl
+a-feeds.a-english.loketkennisveiligheid.nl
+a-feeds.loketkennisveiligheid.nl
+a-opendata.a-english.loketkennisveiligheid.nl
+a-opendata.loketkennisveiligheid.nl
+a-www.loketkennisveiligheid.nl
+a-english.loketkennisveiligheid.nl
+netwerk.loketkennisveiligheid.nl

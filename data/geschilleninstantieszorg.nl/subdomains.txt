@@ -3,3 +3,5 @@ opendata.geschilleninstantieszorg.nl
 www.geschilleninstantieszorg.nl
 geschilleninstantieszorg.nl
 a-www.geschilleninstantieszorg.nl
+a-feeds.geschilleninstantieszorg.nl
+a-opendata.geschilleninstantieszorg.nl

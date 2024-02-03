@@ -14,3 +14,6 @@ gw.ivd.nl
 magazinesintern.english.ivd.nl
 magazines.english.ivd.nl
 www.rdt.ivd.nl
+a-opendata.ivd.nl
+i-www.ivd.nl
+t-www.ivd.nl

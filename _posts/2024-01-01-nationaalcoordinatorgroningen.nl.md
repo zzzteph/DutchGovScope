@@ -3,7 +3,7 @@ layout: default
 title: "nationaalcoordinatorgroningen.nl"
 permalink: "/dutchgov/nationaalcoordinatorgroningen.nl.html"
 subdomains_count: 17
-all_subdomains_count: 29
+all_subdomains_count: 33
 urls_count: 11
 ssl_rank: 
 http_rank: D
@@ -29,7 +29,7 @@ tags: dutchgov
 |------------|-------|------|
 |[subdomains.txt](/DutchGovScope/data/nationaalcoordinatorgroningen.nl/subdomains.txt)|17|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/nationaalcoordinatorgroningen.nl/urls.txt)|11|Urls|
-|[all_subdomains.txt](/DutchGovScope/data/nationaalcoordinatorgroningen.nl/all_subdomains.txt)|29|All found subdomains (history)|
+|[all_subdomains.txt](/DutchGovScope/data/nationaalcoordinatorgroningen.nl/all_subdomains.txt)|33|All found subdomains (history)|
 
 
 ## Statistics

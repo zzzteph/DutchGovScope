@@ -5,3 +5,6 @@ opendata.justitieleictorganisatie.nl
 www.justitieleictorganisatie.nl
 connect.justitieleictorganisatie.nl
 justitieleictorganisatie.nl
+a-www.justitieleictorganisatie.nl
+a-feeds.justitieleictorganisatie.nl
+a-opendata.justitieleictorganisatie.nl

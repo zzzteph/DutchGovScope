@@ -11,7 +11,7 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/eiti.nl/subdomains.txt)|10|Alive subdomains|
+|[subdomains.txt](/data/eiti.nl/subdomains.txt)|11|Alive subdomains|
 |[urls.txt](/data/eiti.nl/urls.txt)|5|Urls|
 |[all_subdomains.txt](/data/eiti.nl/all_subdomains.txt)|11|All found subdomains (history)|
 

@@ -7,3 +7,4 @@ a-feeds.bedrijvenbeleidinbeeld.nl
 a-opendata.bedrijvenbeleidinbeeld.nl
 i-www.bedrijvenbeleidinbeeld.nl
 o-www.bedrijvenbeleidinbeeld.nl
+t-www.bedrijvenbeleidinbeeld.nl

@@ -5,7 +5,7 @@ permalink: "/dutchgov/derijkscampus.nl.html"
 subdomains_count: 8
 all_subdomains_count: 14
 urls_count: 5
-ssl_rank: A+
+ssl_rank: A-
 http_rank: A
 security_txt: 0
 url_link: /data/derijkscampus.nl/urls.txt
@@ -20,7 +20,7 @@ tags: dutchgov
 ## Summary data
 
 
- - **SSL Grade**:A+
+ - **SSL Grade**:A-
  - **HTTP Security Grade**:A
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:0
 
@@ -41,5 +41,5 @@ tags: dutchgov
 |[https://opendata.derijkscampus.nl](https://opendata.derijkscampus.nl)| **A+**| **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://www.derijkscampus.nl](https://www.derijkscampus.nl)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Home | Derijksca...|
 |[https://derijkscampus.nl](https://derijkscampus.nl)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
-|[https://online.derijkscampus.nl](https://online.derijkscampus.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Document Moved|
+|[https://online.derijkscampus.nl](https://online.derijkscampus.nl)| **F**| **E**|| | | | | | | | :white_check_mark: | ||Document Moved|
 

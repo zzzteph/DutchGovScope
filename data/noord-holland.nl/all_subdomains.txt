@@ -267,3 +267,6 @@ wachtwoordvergeten.noord-holland.nl
 smtp.ads.noord-holland.nl
 xentialtest.noord-holland.nl
 pnhbop.noord-holland.nl
+enterpriseenrollment.noord-holland.nl
+enterpriseregistration.noord-holland.nl
+hybrid.noord-holland.nl

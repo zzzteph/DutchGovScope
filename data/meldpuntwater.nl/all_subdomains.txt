@@ -1,3 +1,5 @@
 www.meldpuntwater.nl
 meldpuntwater.nl
 fotoalbum.meldpuntwater.nl
+ftp.meldpuntwater.nl
+mail.meldpuntwater.nl

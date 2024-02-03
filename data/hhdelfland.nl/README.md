@@ -11,7 +11,7 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/hhdelfland.nl/subdomains.txt)|58|Alive subdomains|
+|[subdomains.txt](/data/hhdelfland.nl/subdomains.txt)|60|Alive subdomains|
 |[urls.txt](/data/hhdelfland.nl/urls.txt)|24|Urls|
 |[all_subdomains.txt](/data/hhdelfland.nl/all_subdomains.txt)|219|All found subdomains (history)|
 

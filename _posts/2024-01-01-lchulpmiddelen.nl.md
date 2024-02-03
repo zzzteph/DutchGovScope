@@ -3,7 +3,7 @@ layout: default
 title: "lchulpmiddelen.nl"
 permalink: "/dutchgov/lchulpmiddelen.nl.html"
 subdomains_count: 13
-all_subdomains_count: 15
+all_subdomains_count: 19
 urls_count: 13
 ssl_rank: 
 http_rank: D
@@ -29,7 +29,7 @@ tags: dutchgov
 |------------|-------|------|
 |[subdomains.txt](/DutchGovScope/data/lchulpmiddelen.nl/subdomains.txt)|13|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/lchulpmiddelen.nl/urls.txt)|13|Urls|
-|[all_subdomains.txt](/DutchGovScope/data/lchulpmiddelen.nl/all_subdomains.txt)|15|All found subdomains (history)|
+|[all_subdomains.txt](/DutchGovScope/data/lchulpmiddelen.nl/all_subdomains.txt)|19|All found subdomains (history)|
 
 
 ## Statistics

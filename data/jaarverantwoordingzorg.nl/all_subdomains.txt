@@ -19,3 +19,4 @@ a-magazinesintern.a-english.jaarverantwoordingzorg.nl
 feeds.english.jaarverantwoordingzorg.nl
 a-feeds.a-english.jaarverantwoordingzorg.nl
 a-magazines.a-english.jaarverantwoordingzorg.nl
+resultaten-toegankelijkheidsonderzoek-www.jaarverantwoordingzorg.nl

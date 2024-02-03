@@ -27,5 +27,5 @@
 |[https://www.inspectie-jenv.nl](https://www.inspectie-jenv.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Home | Inspectie...|
 |[https://zaaksysteem.inspectie-jenv.nl](https://zaaksysteem.inspectie-jenv.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS|Moved|
 |[https://zaaksysteem-acc.inspectie-jenv.nl](https://zaaksysteem-acc.inspectie-jenv.nl)| | **A**||:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Moved|
-|[https://inspectie-jenv.nl](https://inspectie-jenv.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
+|[https://inspectie-jenv.nl](https://inspectie-jenv.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 

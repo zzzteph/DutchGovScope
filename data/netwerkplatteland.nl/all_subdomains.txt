@@ -5,3 +5,10 @@ www.netwerkplatteland.nl
 netwerkplatteland.nl
 acc.netwerkplatteland.nl
 prod.netwerkplatteland.nl
+www2.netwerkplatteland.nl
+mailing.netwerkplatteland.nl
+a-feeds.netwerkplatteland.nl
+a-opendata.netwerkplatteland.nl
+i-www.netwerkplatteland.nl
+o-www.netwerkplatteland.nl
+t-www.netwerkplatteland.nl

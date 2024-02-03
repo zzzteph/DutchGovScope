@@ -32,3 +32,6 @@ grc.p-direkt.nl
 grct.p-direkt.nl
 opendata.english.p-direkt.nl
 feeds.english.p-direkt.nl
+a-feeds.p-direkt.nl
+a-opendata.p-direkt.nl
+a-www.p-direkt.nl

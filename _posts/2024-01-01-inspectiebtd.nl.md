@@ -2,8 +2,8 @@
 layout: default
 title: "inspectiebtd.nl"
 permalink: "/dutchgov/inspectiebtd.nl.html"
-subdomains_count: 4
-all_subdomains_count: 4
+subdomains_count: 6
+all_subdomains_count: 6
 urls_count: 4
 ssl_rank: 
 http_rank: A
@@ -27,9 +27,9 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/inspectiebtd.nl/subdomains.txt)|4|Alive subdomains|
+|[subdomains.txt](/DutchGovScope/data/inspectiebtd.nl/subdomains.txt)|6|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/inspectiebtd.nl/urls.txt)|4|Urls|
-|[all_subdomains.txt](/DutchGovScope/data/inspectiebtd.nl/all_subdomains.txt)|4|All found subdomains (history)|
+|[all_subdomains.txt](/DutchGovScope/data/inspectiebtd.nl/all_subdomains.txt)|6|All found subdomains (history)|
 
 
 ## Statistics

@@ -15,3 +15,11 @@ gegevenscatalogus.minvrom.nl
 vrom.minvrom.nl
 swfvz0012.minvrom.nl
 db.minvrom.nl
+cache1.minvrom.nl
+localhost.minvrom.nl
+mail2.minvrom.nl
+ns1.minvrom.nl
+ns2.minvrom.nl
+vio.minvrom.nl
+vsb.minvrom.nl
+wifi.minvrom.nl

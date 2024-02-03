@@ -10,3 +10,5 @@ magazinesintern.english.it-academieoverheid.nl
 magazinesintern.it-academieoverheid.nl
 magazines.it-academieoverheid.nl
 opendata.english.it-academieoverheid.nl
+a-opendata.it-academieoverheid.nl
+a-www.it-academieoverheid.nl

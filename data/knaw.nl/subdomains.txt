@@ -1323,3 +1323,13 @@ dataverse-fetcher.labs.dans.knaw.nl
 wp-15.dev.huc.knaw.nl
 wp-12.dev.huc.knaw.nl
 mfa.nioo.knaw.nl
+support.huc.knaw.nl
+bedevaart.meertens.knaw.nl
+lennep.resources.huygens.knaw.nl
+staging.huc.knaw.nl
+adagia.resources.huygens.knaw.nl
+mimore.meertens.knaw.nl
+test.elastic.dans.knaw.nl
+proservice.sd.di.huc.knaw.nl
+wp-04.dev.huc.knaw.nl
+wp-13.dev.huc.knaw.nl

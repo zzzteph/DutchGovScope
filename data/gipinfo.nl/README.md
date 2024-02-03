@@ -11,7 +11,7 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/gipinfo.nl/subdomains.txt)|3|Alive subdomains|
+|[subdomains.txt](/data/gipinfo.nl/subdomains.txt)|5|Alive subdomains|
 |[urls.txt](/data/gipinfo.nl/urls.txt)|2|Urls|
 |[all_subdomains.txt](/data/gipinfo.nl/all_subdomains.txt)|5|All found subdomains (history)|
 
@@ -21,6 +21,6 @@
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://www.gipinfo.nl](https://www.gipinfo.nl)| **A+**| **A**||:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
+|[https://www.gipinfo.nl](https://www.gipinfo.nl)| **A+**| **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://gipinfo.nl](https://gipinfo.nl)| **A+**| **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 

@@ -11,7 +11,7 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/hetcvte.nl/subdomains.txt)|6|Alive subdomains|
+|[subdomains.txt](/data/hetcvte.nl/subdomains.txt)|10|Alive subdomains|
 |[urls.txt](/data/hetcvte.nl/urls.txt)|6|Urls|
 |[all_subdomains.txt](/data/hetcvte.nl/all_subdomains.txt)|12|All found subdomains (history)|
 

@@ -108,3 +108,5 @@ cluster5.cms.platformrijksoverheid.nl
 a-ps2.platformrijksoverheid.nl
 site2.platformrijksoverheid.nl
 platformrijksoverheid.nl
+i-ps.platformrijksoverheid.nl
+o-ps.platformrijksoverheid.nl

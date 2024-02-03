@@ -2,3 +2,9 @@ feeds.pagw.nl
 www.pagw.nl
 opendata.pagw.nl
 pagw.nl
+a-feeds.pagw.nl
+a-opendata.pagw.nl
+a-www.pagw.nl
+i-www.pagw.nl
+o-www.pagw.nl
+t-www.pagw.nl

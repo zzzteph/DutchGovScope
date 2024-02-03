@@ -2,7 +2,7 @@
 layout: default
 title: "denkvooruit.nl"
 permalink: "/dutchgov/denkvooruit.nl.html"
-subdomains_count: 12
+subdomains_count: 13
 all_subdomains_count: 13
 urls_count: 7
 ssl_rank: A+
@@ -27,7 +27,7 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/denkvooruit.nl/subdomains.txt)|12|Alive subdomains|
+|[subdomains.txt](/DutchGovScope/data/denkvooruit.nl/subdomains.txt)|13|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/denkvooruit.nl/urls.txt)|7|Urls|
 |[all_subdomains.txt](/DutchGovScope/data/denkvooruit.nl/all_subdomains.txt)|13|All found subdomains (history)|
 
