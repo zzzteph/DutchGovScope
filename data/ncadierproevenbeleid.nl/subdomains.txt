@@ -11,3 +11,6 @@ a-feeds.a-english.ncadierproevenbeleid.nl
 a-feeds.ncadierproevenbeleid.nl
 a-opendata.a-english.ncadierproevenbeleid.nl
 a-opendata.ncadierproevenbeleid.nl
+i-www.ncadierproevenbeleid.nl
+o-www.ncadierproevenbeleid.nl
+t-www.ncadierproevenbeleid.nl

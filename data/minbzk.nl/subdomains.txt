@@ -36,3 +36,7 @@ webmail.rgd.minbzk.nl
 wireless.rgd.minbzk.nl
 veiligheid.minbzk.nl
 www.veiligheid.minbzk.nl
+www2.minbzk.nl
+proxy01.minbzk.nl
+redactie.minbzk.nl
+www-test.minbzk.nl

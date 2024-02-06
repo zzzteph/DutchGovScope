@@ -13,7 +13,7 @@
 |------------|-------|------|
 |[subdomains.txt](/data/owinsp.nl/subdomains.txt)|18|Alive subdomains|
 |[urls.txt](/data/owinsp.nl/urls.txt)|15|Urls|
-|[all_subdomains.txt](/data/owinsp.nl/all_subdomains.txt)|51|All found subdomains (history)|
+|[all_subdomains.txt](/data/owinsp.nl/all_subdomains.txt)|52|All found subdomains (history)|
 
 
 ## Statistics

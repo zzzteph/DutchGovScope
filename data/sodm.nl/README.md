@@ -11,9 +11,9 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/sodm.nl/subdomains.txt)|10|Alive subdomains|
+|[subdomains.txt](/data/sodm.nl/subdomains.txt)|14|Alive subdomains|
 |[urls.txt](/data/sodm.nl/urls.txt)|4|Urls|
-|[all_subdomains.txt](/data/sodm.nl/all_subdomains.txt)|16|All found subdomains (history)|
+|[all_subdomains.txt](/data/sodm.nl/all_subdomains.txt)|20|All found subdomains (history)|
 
 
 ## Statistics

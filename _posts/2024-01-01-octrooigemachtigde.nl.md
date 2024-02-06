@@ -2,9 +2,9 @@
 layout: default
 title: "octrooigemachtigde.nl"
 permalink: "/dutchgov/octrooigemachtigde.nl.html"
-subdomains_count: 5
+subdomains_count: 7
 all_subdomains_count: 7
-urls_count: 4
+urls_count: 6
 ssl_rank: 
 http_rank: D
 security_txt: 2
@@ -27,8 +27,8 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/octrooigemachtigde.nl/subdomains.txt)|5|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/octrooigemachtigde.nl/urls.txt)|4|Urls|
+|[subdomains.txt](/DutchGovScope/data/octrooigemachtigde.nl/subdomains.txt)|7|Alive subdomains|
+|[urls.txt](/DutchGovScope/data/octrooigemachtigde.nl/urls.txt)|6|Urls|
 |[all_subdomains.txt](/DutchGovScope/data/octrooigemachtigde.nl/all_subdomains.txt)|7|All found subdomains (history)|
 
 
@@ -41,4 +41,6 @@ tags: dutchgov
 |[https://www.octrooigemachtigde.nl](https://www.octrooigemachtigde.nl)| | **B**|Apache/2|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server:2 HSTS PHP:7.3.33|Orde van Octrooi...|
 |[https://octrooigemachtigde.nl](https://octrooigemachtigde.nl)| | **B**|Apache/2|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server:2|302 Found|
 |[https://www.en.octrooigemachtigde.nl](https://www.en.octrooigemachtigde.nl)| | **F**|Apache/2| | | | | | | | :white_check_mark: | |Apache HTTP Server:2|302 Found|
+|[http://autodiscover.octrooigemachtigde.nl](http://autodiscover.octrooigemachtigde.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
+|[https://ftp.octrooigemachtigde.nl](https://ftp.octrooigemachtigde.nl)| | **F**|Apache/2| | | | | | | | :white_check_mark: | |Apache HTTP Server:2||
 

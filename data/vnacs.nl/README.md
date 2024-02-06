@@ -11,9 +11,9 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/vnacs.nl/subdomains.txt)|13|Alive subdomains|
+|[subdomains.txt](/data/vnacs.nl/subdomains.txt)|19|Alive subdomains|
 |[urls.txt](/data/vnacs.nl/urls.txt)|13|Urls|
-|[all_subdomains.txt](/data/vnacs.nl/all_subdomains.txt)|13|All found subdomains (history)|
+|[all_subdomains.txt](/data/vnacs.nl/all_subdomains.txt)|19|All found subdomains (history)|
 
 
 ## Statistics

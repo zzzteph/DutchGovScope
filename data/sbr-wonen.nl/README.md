@@ -13,7 +13,7 @@
 |------------|-------|------|
 |[subdomains.txt](/data/sbr-wonen.nl/subdomains.txt)|12|Alive subdomains|
 |[urls.txt](/data/sbr-wonen.nl/urls.txt)|11|Urls|
-|[all_subdomains.txt](/data/sbr-wonen.nl/all_subdomains.txt)|14|All found subdomains (history)|
+|[all_subdomains.txt](/data/sbr-wonen.nl/all_subdomains.txt)|2535|All found subdomains (history)|
 
 
 ## Statistics

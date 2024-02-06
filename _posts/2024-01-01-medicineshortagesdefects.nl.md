@@ -2,7 +2,7 @@
 layout: default
 title: "medicineshortagesdefects.nl"
 permalink: "/dutchgov/medicineshortagesdefects.nl.html"
-subdomains_count: 4
+subdomains_count: 7
 all_subdomains_count: 9
 urls_count: 4
 ssl_rank: 
@@ -27,7 +27,7 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/medicineshortagesdefects.nl/subdomains.txt)|4|Alive subdomains|
+|[subdomains.txt](/DutchGovScope/data/medicineshortagesdefects.nl/subdomains.txt)|7|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/medicineshortagesdefects.nl/urls.txt)|4|Urls|
 |[all_subdomains.txt](/DutchGovScope/data/medicineshortagesdefects.nl/all_subdomains.txt)|9|All found subdomains (history)|
 

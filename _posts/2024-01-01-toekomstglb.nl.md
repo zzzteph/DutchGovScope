@@ -2,8 +2,8 @@
 layout: default
 title: "toekomstglb.nl"
 permalink: "/dutchgov/toekomstglb.nl.html"
-subdomains_count: 4
-all_subdomains_count: 5
+subdomains_count: 10
+all_subdomains_count: 11
 urls_count: 4
 ssl_rank: 
 http_rank: A
@@ -27,9 +27,9 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/toekomstglb.nl/subdomains.txt)|4|Alive subdomains|
+|[subdomains.txt](/DutchGovScope/data/toekomstglb.nl/subdomains.txt)|10|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/toekomstglb.nl/urls.txt)|4|Urls|
-|[all_subdomains.txt](/DutchGovScope/data/toekomstglb.nl/all_subdomains.txt)|5|All found subdomains (history)|
+|[all_subdomains.txt](/DutchGovScope/data/toekomstglb.nl/all_subdomains.txt)|11|All found subdomains (history)|
 
 
 ## Statistics

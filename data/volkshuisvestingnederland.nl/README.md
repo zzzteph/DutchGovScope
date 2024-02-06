@@ -11,9 +11,9 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/volkshuisvestingnederland.nl/subdomains.txt)|4|Alive subdomains|
+|[subdomains.txt](/data/volkshuisvestingnederland.nl/subdomains.txt)|7|Alive subdomains|
 |[urls.txt](/data/volkshuisvestingnederland.nl/urls.txt)|4|Urls|
-|[all_subdomains.txt](/data/volkshuisvestingnederland.nl/all_subdomains.txt)|5|All found subdomains (history)|
+|[all_subdomains.txt](/data/volkshuisvestingnederland.nl/all_subdomains.txt)|8|All found subdomains (history)|
 
 
 ## Statistics

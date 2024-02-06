@@ -85,3 +85,11 @@ dji-acpt.connect.minvenj.nl
 ssc-i-acpt.connect.minvenj.nl
 webmail.dtv.connect.minvenj.nl
 webmail-acpt.dji.connect.minvenj.nl
+airs.minvenj.nl
+dc01.minvenj.nl
+oci.minvenj.nl
+jubes.minvenj.nl
+md.minvenj.nl
+md1.minvenj.nl
+mdp.minvenj.nl
+sftp.minvenj.nl

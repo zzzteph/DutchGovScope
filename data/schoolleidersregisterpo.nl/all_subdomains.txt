@@ -27,3 +27,9 @@ acceptatie.mijn.schoolleidersregisterpo.nl
 www.instrument.schoolleidersregisterpo.nl
 mijn.schoolleidersregisterpo.nl
 english.schoolleidersregisterpo.nl
+a-feeds.schoolleidersregisterpo.nl
+a-opendata.schoolleidersregisterpo.nl
+a-www.schoolleidersregisterpo.nl
+enterpriseenrollment.schoolleidersregisterpo.nl
+enterpriseregistration.schoolleidersregisterpo.nl
+mail.schoolleidersregisterpo.nl

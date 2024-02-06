@@ -2,3 +2,9 @@ feeds.toekomstglb.nl
 opendata.toekomstglb.nl
 www.toekomstglb.nl
 toekomstglb.nl
+a-feeds.toekomstglb.nl
+a-opendata.toekomstglb.nl
+a-www.toekomstglb.nl
+i-www.toekomstglb.nl
+o-www.toekomstglb.nl
+t-www.toekomstglb.nl

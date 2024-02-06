@@ -2,8 +2,8 @@
 layout: default
 title: "statiagovernment.com"
 permalink: "/dutchgov/statiagovernment.com.html"
-subdomains_count: 4
-all_subdomains_count: 9
+subdomains_count: 7
+all_subdomains_count: 12
 urls_count: 4
 ssl_rank: 
 http_rank: A
@@ -27,9 +27,9 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/statiagovernment.com/subdomains.txt)|4|Alive subdomains|
+|[subdomains.txt](/DutchGovScope/data/statiagovernment.com/subdomains.txt)|7|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/statiagovernment.com/urls.txt)|4|Urls|
-|[all_subdomains.txt](/DutchGovScope/data/statiagovernment.com/all_subdomains.txt)|9|All found subdomains (history)|
+|[all_subdomains.txt](/DutchGovScope/data/statiagovernment.com/all_subdomains.txt)|12|All found subdomains (history)|
 
 
 ## Statistics

@@ -2,3 +2,6 @@ www.lekker-op-weg.nl
 feeds.lekker-op-weg.nl
 opendata.lekker-op-weg.nl
 lekker-op-weg.nl
+a-opendata.lekker-op-weg.nl
+a-www.lekker-op-weg.nl
+a-feeds.lekker-op-weg.nl

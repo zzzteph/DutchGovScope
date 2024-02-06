@@ -13,7 +13,7 @@
 |------------|-------|------|
 |[subdomains.txt](/data/mobilitylab.nl/subdomains.txt)|2|Alive subdomains|
 |[urls.txt](/data/mobilitylab.nl/urls.txt)|2|Urls|
-|[all_subdomains.txt](/data/mobilitylab.nl/all_subdomains.txt)|3|All found subdomains (history)|
+|[all_subdomains.txt](/data/mobilitylab.nl/all_subdomains.txt)|6|All found subdomains (history)|
 
 
 ## Statistics

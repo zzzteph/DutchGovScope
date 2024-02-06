@@ -11,9 +11,9 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/sso-ict.nl/subdomains.txt)|3|Alive subdomains|
+|[subdomains.txt](/data/sso-ict.nl/subdomains.txt)|5|Alive subdomains|
 |[urls.txt](/data/sso-ict.nl/urls.txt)|2|Urls|
-|[all_subdomains.txt](/data/sso-ict.nl/all_subdomains.txt)|4|All found subdomains (history)|
+|[all_subdomains.txt](/data/sso-ict.nl/all_subdomains.txt)|6|All found subdomains (history)|
 
 
 ## Statistics

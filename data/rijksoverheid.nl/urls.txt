@@ -3,7 +3,6 @@ https://a-rss.persberichten.rijksoverheid.nl
 https://acc-mailing.rijksoverheid.nl
 https://coronadashboard.rijksoverheid.nl
 http://dns-web10.rijksoverheid.nl
-http://dns-web300.rijksoverheid.nl
 https://downloads.persberichten.rijksoverheid.nl
 https://e-maildiensten.rijksoverheid.nl
 https://feeds.rijksoverheid.nl

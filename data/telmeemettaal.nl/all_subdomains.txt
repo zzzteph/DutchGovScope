@@ -3,3 +3,7 @@ mail.telmeemettaal.nl
 opendata.telmeemettaal.nl
 www.telmeemettaal.nl
 telmeemettaal.nl
+a-feeds.telmeemettaal.nl
+a-opendata.telmeemettaal.nl
+a-www.telmeemettaal.nl
+staging.telmeemettaal.nl

@@ -5,3 +5,4 @@ internationalerechtshulp.nl
 a-feeds.internationalerechtshulp.nl
 a-opendata.internationalerechtshulp.nl
 a-www.internationalerechtshulp.nl
+toegankelijkheidsrapportage-www.internationalerechtshulp.nl

@@ -9,3 +9,6 @@ uzipas.uziregister.nl
 www.uziregister.nl
 uziregister.nl
 acc.uziregister.nl
+a-feeds.uziregister.nl
+a-opendata.uziregister.nl
+a-www.uziregister.nl

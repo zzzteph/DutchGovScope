@@ -11,9 +11,9 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/sscict.nl/subdomains.txt)|14|Alive subdomains|
+|[subdomains.txt](/data/sscict.nl/subdomains.txt)|21|Alive subdomains|
 |[urls.txt](/data/sscict.nl/urls.txt)|4|Urls|
-|[all_subdomains.txt](/data/sscict.nl/all_subdomains.txt)|20|All found subdomains (history)|
+|[all_subdomains.txt](/data/sscict.nl/all_subdomains.txt)|27|All found subdomains (history)|
 
 
 ## Statistics

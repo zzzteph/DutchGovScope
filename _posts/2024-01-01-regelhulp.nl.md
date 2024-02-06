@@ -2,8 +2,8 @@
 layout: default
 title: "regelhulp.nl"
 permalink: "/dutchgov/regelhulp.nl.html"
-subdomains_count: 4
-all_subdomains_count: 16
+subdomains_count: 7
+all_subdomains_count: 19
 urls_count: 4
 ssl_rank: 
 http_rank: A
@@ -27,9 +27,9 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/regelhulp.nl/subdomains.txt)|4|Alive subdomains|
+|[subdomains.txt](/DutchGovScope/data/regelhulp.nl/subdomains.txt)|7|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/regelhulp.nl/urls.txt)|4|Urls|
-|[all_subdomains.txt](/DutchGovScope/data/regelhulp.nl/all_subdomains.txt)|16|All found subdomains (history)|
+|[all_subdomains.txt](/DutchGovScope/data/regelhulp.nl/all_subdomains.txt)|19|All found subdomains (history)|
 
 
 ## Statistics

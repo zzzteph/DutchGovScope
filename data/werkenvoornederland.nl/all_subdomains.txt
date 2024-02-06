@@ -33,3 +33,4 @@ test2.werkenvoornederland.nl
 www.test1.www.werkenvoornederland.nl
 www.rijkstrainee.werkenvoornederland.nl
 sandbox.www.werkenvoornederland.nl
+a-magazines.werkenvoornederland.nl

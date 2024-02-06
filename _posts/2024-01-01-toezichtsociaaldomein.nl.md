@@ -2,8 +2,8 @@
 layout: default
 title: "toezichtsociaaldomein.nl"
 permalink: "/dutchgov/toezichtsociaaldomein.nl.html"
-subdomains_count: 9
-all_subdomains_count: 18
+subdomains_count: 11
+all_subdomains_count: 20
 urls_count: 5
 ssl_rank: 
 http_rank: A
@@ -27,9 +27,9 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/toezichtsociaaldomein.nl/subdomains.txt)|9|Alive subdomains|
+|[subdomains.txt](/DutchGovScope/data/toezichtsociaaldomein.nl/subdomains.txt)|11|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/toezichtsociaaldomein.nl/urls.txt)|5|Urls|
-|[all_subdomains.txt](/DutchGovScope/data/toezichtsociaaldomein.nl/all_subdomains.txt)|18|All found subdomains (history)|
+|[all_subdomains.txt](/DutchGovScope/data/toezichtsociaaldomein.nl/all_subdomains.txt)|20|All found subdomains (history)|
 
 
 ## Statistics

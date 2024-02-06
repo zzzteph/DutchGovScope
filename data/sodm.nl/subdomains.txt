@@ -8,3 +8,7 @@ productie.sodm.nl
 test.sodm.nl
 lyncdiscover.sodm.nl
 sip.sodm.nl
+a-feeds.sodm.nl
+i-www.sodm.nl
+o-www.sodm.nl
+t-www.sodm.nl

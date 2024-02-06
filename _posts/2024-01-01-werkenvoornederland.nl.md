@@ -2,8 +2,8 @@
 layout: default
 title: "werkenvoornederland.nl"
 permalink: "/dutchgov/werkenvoornederland.nl.html"
-subdomains_count: 19
-all_subdomains_count: 35
+subdomains_count: 20
+all_subdomains_count: 36
 urls_count: 19
 ssl_rank: 
 http_rank: B
@@ -27,9 +27,9 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/werkenvoornederland.nl/subdomains.txt)|19|Alive subdomains|
+|[subdomains.txt](/DutchGovScope/data/werkenvoornederland.nl/subdomains.txt)|20|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/werkenvoornederland.nl/urls.txt)|19|Urls|
-|[all_subdomains.txt](/DutchGovScope/data/werkenvoornederland.nl/all_subdomains.txt)|35|All found subdomains (history)|
+|[all_subdomains.txt](/DutchGovScope/data/werkenvoornederland.nl/all_subdomains.txt)|36|All found subdomains (history)|
 
 
 ## Statistics

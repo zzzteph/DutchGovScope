@@ -2,3 +2,6 @@ feeds.watkanmijhelpen.nl
 opendata.watkanmijhelpen.nl
 www.watkanmijhelpen.nl
 watkanmijhelpen.nl
+a-feeds.watkanmijhelpen.nl
+a-opendata.watkanmijhelpen.nl
+a-www.watkanmijhelpen.nl

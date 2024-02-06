@@ -11,7 +11,7 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/politie.nl/subdomains.txt)|123|Alive subdomains|
+|[subdomains.txt](/data/politie.nl/subdomains.txt)|124|Alive subdomains|
 |[urls.txt](/data/politie.nl/urls.txt)|29|Urls|
 |[all_subdomains.txt](/data/politie.nl/all_subdomains.txt)|243|All found subdomains (history)|
 
@@ -22,7 +22,7 @@
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[https://rss.acceptatie.politie.nl](https://rss.acceptatie.politie.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Access Denied|
-|[https://carriere.politie.nl](https://carriere.politie.nl)| | **A**||:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|302 Found|
+|[https://carriere.politie.nl](https://carriere.politie.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|302 Found|
 |[https://c2000-ras02.politie.nl](https://c2000-ras02.politie.nl)| | **A**|Apache| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS|User Portal|
 |[https://fts.politie.nl](https://fts.politie.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://publicaties.politie.nl](https://publicaties.politie.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
@@ -31,7 +31,7 @@
 |[https://www.acceptatie.politie.nl](https://www.acceptatie.politie.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Access Denied|
 |[https://transferium.politie.nl](https://transferium.politie.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS||
 |[https://transferium.gslb-trf.politie.nl](https://transferium.gslb-trf.politie.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||
-|[http://api.politie.nl](http://api.politie.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
+|[https://api.politie.nl](https://api.politie.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Helaas is er een...|
 |[https://tbo.politie.nl](https://tbo.politie.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS|<font color="red...|
 |[https://edison.politie.nl](https://edison.politie.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|404 Not Found|
 |[https://sso.politie.nl](https://sso.politie.nl)| | **C**||:warning: |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |F5 BigIP HSTS||

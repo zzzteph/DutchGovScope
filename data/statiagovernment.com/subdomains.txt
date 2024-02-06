@@ -2,3 +2,6 @@ feeds.statiagovernment.com
 opendata.statiagovernment.com
 statiagovernment.com
 www.statiagovernment.com
+a-feeds.statiagovernment.com
+a-opendata.statiagovernment.com
+a-www.statiagovernment.com

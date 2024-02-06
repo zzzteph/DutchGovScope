@@ -2,8 +2,8 @@
 layout: default
 title: "loketgezondleven.nl"
 permalink: "/dutchgov/loketgezondleven.nl.html"
-subdomains_count: 9
-all_subdomains_count: 12
+subdomains_count: 10
+all_subdomains_count: 13
 urls_count: 7
 ssl_rank: 
 http_rank: D
@@ -27,9 +27,9 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/loketgezondleven.nl/subdomains.txt)|9|Alive subdomains|
+|[subdomains.txt](/DutchGovScope/data/loketgezondleven.nl/subdomains.txt)|10|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/loketgezondleven.nl/urls.txt)|7|Urls|
-|[all_subdomains.txt](/DutchGovScope/data/loketgezondleven.nl/all_subdomains.txt)|12|All found subdomains (history)|
+|[all_subdomains.txt](/DutchGovScope/data/loketgezondleven.nl/all_subdomains.txt)|13|All found subdomains (history)|
 
 
 ## Statistics

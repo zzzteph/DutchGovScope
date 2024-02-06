@@ -12,3 +12,5 @@ webdisk.waardigheidentrots.nl
 cpcalendars.waardigheidentrots.nl
 www.registratie.waardigheidentrots.nl
 cloud.waardigheidentrots.nl
+api.waardigheidentrots.nl
+cms.waardigheidentrots.nl

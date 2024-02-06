@@ -9,3 +9,6 @@ feeds.english.vrachtwagenheffing.nl
 magazines.english.vrachtwagenheffing.nl
 magazinesintern.english.vrachtwagenheffing.nl
 opendata.english.vrachtwagenheffing.nl
+a-feeds.vrachtwagenheffing.nl
+a-opendata.vrachtwagenheffing.nl
+a-www.vrachtwagenheffing.nl

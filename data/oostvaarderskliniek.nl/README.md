@@ -11,7 +11,7 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/oostvaarderskliniek.nl/subdomains.txt)|9|Alive subdomains|
+|[subdomains.txt](/data/oostvaarderskliniek.nl/subdomains.txt)|12|Alive subdomains|
 |[urls.txt](/data/oostvaarderskliniek.nl/urls.txt)|5|Urls|
 |[all_subdomains.txt](/data/oostvaarderskliniek.nl/all_subdomains.txt)|12|All found subdomains (history)|
 

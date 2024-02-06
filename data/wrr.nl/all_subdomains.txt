@@ -15,3 +15,11 @@ magazinesintern.wrr.nl
 beheer.wrr.nl
 mobile.wrr.nl
 wcms.wrr.nl
+a-english.wrr.nl
+a-feeds.a-english.wrr.nl
+a-feeds.wrr.nl
+a-magazines.wrr.nl
+a-www.wrr.nl
+i-www.wrr.nl
+o-www.wrr.nl
+t-www.wrr.nl

@@ -16,3 +16,5 @@ https://acceptatie.mijn.melding.zorgaanbiedersportaal.nl
 https://acceptatie.zoeken.zorgaanbiedersportaal.nl
 https://zoeken.zorgaanbiedersportaal.nl
 https://acceptatie.mijn.locatieregister.zorgaanbiedersportaal.nl
+https://acceptatie.api.zorgaanbiedersportaal.nl
+http://api.zorgaanbiedersportaal.nl

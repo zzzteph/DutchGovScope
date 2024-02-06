@@ -11,3 +11,9 @@ papiamento.vnacs.nl
 papiamentu.vnacs.nl
 english.vnacs.nl
 vnacs.nl
+a-english.vnacs.nl
+a-feeds.a-english.vnacs.nl
+a-feeds.vnacs.nl
+a-opendata.a-english.vnacs.nl
+a-opendata.vnacs.nl
+a-www.vnacs.nl

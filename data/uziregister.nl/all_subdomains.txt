@@ -12,3 +12,6 @@ acc.uziregister.nl
 acceptatie.uziregister.nl
 digid.ontwikkel.uziregister.nl
 www.acc.uziregister.nl
+a-feeds.uziregister.nl
+a-opendata.uziregister.nl
+a-www.uziregister.nl

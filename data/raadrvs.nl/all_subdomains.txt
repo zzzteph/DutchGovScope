@@ -13,3 +13,6 @@ magazines.raadrvs.nl
 werkagenda.raadrvs.nl
 english.raadrvs.nl
 feeds.english.raadrvs.nl
+a-www.raadrvs.nl
+a-feeds.raadrvs.nl
+a-opendata.raadrvs.nl

@@ -11,3 +11,6 @@ raadplegen.uboregistertrusts.nl
 api.uboregistertrusts.nl
 app.uboregistertrusts.nl
 mail.uboregistertrusts.nl
+a-feeds.uboregistertrusts.nl
+a-opendata.uboregistertrusts.nl
+a-www.uboregistertrusts.nl

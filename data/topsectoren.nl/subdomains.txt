@@ -2,3 +2,15 @@ feeds.topsectoren.nl
 opendata.topsectoren.nl
 www.topsectoren.nl
 topsectoren.nl
+a-feeds.topsectoren.nl
+a-opendata.topsectoren.nl
+a-www.topsectoren.nl
+autodiscover.topsectoren.nl
+exchange.topsectoren.nl
+i-www.topsectoren.nl
+webmail.topsectoren.nl
+mail.topsectoren.nl
+msoid.topsectoren.nl
+o-www.topsectoren.nl
+preview.topsectoren.nl
+t-www.topsectoren.nl

@@ -11,9 +11,9 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/gezondeleefomgeving.nl/subdomains.txt)|5|Alive subdomains|
+|[subdomains.txt](/data/gezondeleefomgeving.nl/subdomains.txt)|6|Alive subdomains|
 |[urls.txt](/data/gezondeleefomgeving.nl/urls.txt)|3|Urls|
-|[all_subdomains.txt](/data/gezondeleefomgeving.nl/all_subdomains.txt)|6|All found subdomains (history)|
+|[all_subdomains.txt](/data/gezondeleefomgeving.nl/all_subdomains.txt)|7|All found subdomains (history)|
 
 
 ## Statistics

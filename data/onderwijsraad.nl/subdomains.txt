@@ -10,3 +10,9 @@ formdesk.onderwijsraad.nl
 mail.onderwijsraad.nl
 rdgateway.onderwijsraad.nl
 webshop.onderwijsraad.nl
+a-feeds.onderwijsraad.nl
+a-www.onderwijsraad.nl
+control.onderwijsraad.nl
+ts2.onderwijsraad.nl
+webmail.onderwijsraad.nl
+webhook.onderwijsraad.nl

@@ -2,3 +2,7 @@ feeds.wpfc2020.com
 opendata.wpfc2020.com
 www.wpfc2020.com
 wpfc2020.com
+a-feeds.wpfc2020.com
+a-opendata.wpfc2020.com
+a-www.wpfc2020.com
+email.mail.wpfc2020.com

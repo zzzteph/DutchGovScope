@@ -11,9 +11,9 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/toetsingscommissievp.nl/subdomains.txt)|4|Alive subdomains|
+|[subdomains.txt](/data/toetsingscommissievp.nl/subdomains.txt)|7|Alive subdomains|
 |[urls.txt](/data/toetsingscommissievp.nl/urls.txt)|4|Urls|
-|[all_subdomains.txt](/data/toetsingscommissievp.nl/all_subdomains.txt)|10|All found subdomains (history)|
+|[all_subdomains.txt](/data/toetsingscommissievp.nl/all_subdomains.txt)|13|All found subdomains (history)|
 
 
 ## Statistics

@@ -11,9 +11,9 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/toetredingzorgaanbieders.nl/subdomains.txt)|4|Alive subdomains|
+|[subdomains.txt](/data/toetredingzorgaanbieders.nl/subdomains.txt)|7|Alive subdomains|
 |[urls.txt](/data/toetredingzorgaanbieders.nl/urls.txt)|4|Urls|
-|[all_subdomains.txt](/data/toetredingzorgaanbieders.nl/all_subdomains.txt)|4|All found subdomains (history)|
+|[all_subdomains.txt](/data/toetredingzorgaanbieders.nl/all_subdomains.txt)|7|All found subdomains (history)|
 
 
 ## Statistics

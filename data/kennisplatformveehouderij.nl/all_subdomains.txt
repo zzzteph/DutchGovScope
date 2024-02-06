@@ -1,3 +1,4 @@
 www.kennisplatformveehouderij.nl
 kennisplatformveehouderij.nl
 acceptatie.kennisplatformveehouderij.nl
+localhost.kennisplatformveehouderij.nl

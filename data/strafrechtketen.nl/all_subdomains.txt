@@ -9,3 +9,6 @@ magazinesintern.english.strafrechtketen.nl
 magazinesintern.strafrechtketen.nl
 magazines.strafrechtketen.nl
 opendata.english.strafrechtketen.nl
+a-feeds.strafrechtketen.nl
+a-opendata.strafrechtketen.nl
+a-www.strafrechtketen.nl

@@ -8,3 +8,5 @@ acceptatie.vaarweginformatie.nl
 www.api.vaarweginformatie.nl
 www.acceptatie.vaarweginformatie.nl
 www.vaarmelder.vaarweginformatie.nl
+ftp.vaarweginformatie.nl
+mail.vaarweginformatie.nl

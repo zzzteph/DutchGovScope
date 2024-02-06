@@ -24,3 +24,4 @@ vergader.hogeraad.nl
 cexwe2.hogeraad.nl
 cexwe1.hogeraad.nl
 sync2.hogeraad.nl
+crl.hogeraad.nl

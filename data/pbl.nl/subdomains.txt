@@ -38,3 +38,7 @@ mam.pbl.nl
 ftp.pbl.nl
 acc-pebbles.pbl.nl
 acc-dataportaal.pbl.nl
+mail.pbl.nl
+msoid.pbl.nl
+prd-www.pbl.nl
+sftp.pbl.nl

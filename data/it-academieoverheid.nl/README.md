@@ -4,7 +4,7 @@
 ## Summary data
 
 
- - **SSL Grade**:
+ - **SSL Grade**:A+
  - **HTTP Security Grade**:A
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:4
 
@@ -21,9 +21,9 @@
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://feeds.it-academieoverheid.nl](https://feeds.it-academieoverheid.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
-|[https://opendata.it-academieoverheid.nl](https://opendata.it-academieoverheid.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
-|[https://www.it-academieoverheid.nl](https://www.it-academieoverheid.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Home | RijksAcad...|
-|[https://it-academieoverheid.nl](https://it-academieoverheid.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
-|[https://leerplatform.it-academieoverheid.nl](https://leerplatform.it-academieoverheid.nl)| | **D**|nginx/1.24.0|:warning: |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Moodle Nginx:1.24.0 PHP|Startpagina | RA...|
+|[https://feeds.it-academieoverheid.nl](https://feeds.it-academieoverheid.nl)| **A+**| **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
+|[https://opendata.it-academieoverheid.nl](https://opendata.it-academieoverheid.nl)| **A+**| **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
+|[https://www.it-academieoverheid.nl](https://www.it-academieoverheid.nl)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Home | RijksAcad...|
+|[https://it-academieoverheid.nl](https://it-academieoverheid.nl)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
+|[https://leerplatform.it-academieoverheid.nl](https://leerplatform.it-academieoverheid.nl)| **A+**| **D**|nginx/1.24.0|:warning: |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Moodle Nginx:1.24.0 PHP|Startpagina | RA...|
 

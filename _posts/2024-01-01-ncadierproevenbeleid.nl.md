@@ -2,7 +2,7 @@
 layout: default
 title: "ncadierproevenbeleid.nl"
 permalink: "/dutchgov/ncadierproevenbeleid.nl.html"
-subdomains_count: 13
+subdomains_count: 16
 all_subdomains_count: 24
 urls_count: 7
 ssl_rank: 
@@ -27,7 +27,7 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/ncadierproevenbeleid.nl/subdomains.txt)|13|Alive subdomains|
+|[subdomains.txt](/DutchGovScope/data/ncadierproevenbeleid.nl/subdomains.txt)|16|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/ncadierproevenbeleid.nl/urls.txt)|7|Urls|
 |[all_subdomains.txt](/DutchGovScope/data/ncadierproevenbeleid.nl/all_subdomains.txt)|24|All found subdomains (history)|
 

@@ -2,8 +2,8 @@
 layout: default
 title: "doeonbeperktmee.nl"
 permalink: "/dutchgov/doeonbeperktmee.nl.html"
-subdomains_count: 6
-all_subdomains_count: 6
+subdomains_count: 9
+all_subdomains_count: 9
 urls_count: 6
 ssl_rank: 
 http_rank: B
@@ -27,9 +27,9 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/doeonbeperktmee.nl/subdomains.txt)|6|Alive subdomains|
+|[subdomains.txt](/DutchGovScope/data/doeonbeperktmee.nl/subdomains.txt)|9|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/doeonbeperktmee.nl/urls.txt)|6|Urls|
-|[all_subdomains.txt](/DutchGovScope/data/doeonbeperktmee.nl/all_subdomains.txt)|6|All found subdomains (history)|
+|[all_subdomains.txt](/DutchGovScope/data/doeonbeperktmee.nl/all_subdomains.txt)|9|All found subdomains (history)|
 
 
 ## Statistics

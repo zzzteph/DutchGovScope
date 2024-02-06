@@ -8,3 +8,5 @@ magazines.english.innovatie-estafette.nl
 magazines.innovatie-estafette.nl
 magazinesintern.innovatie-estafette.nl
 opendata.english.innovatie-estafette.nl
+mail.innovatie-estafette.nl
+highcontrast.innovatie-estafette.nl

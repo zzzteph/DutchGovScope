@@ -475,3 +475,4 @@ www.a3.digid.nl
 api-a1.digid.nl
 was-acc1.digid.nl
 soap.acc5.machtigen.digid.nl
+mu.digid.nl

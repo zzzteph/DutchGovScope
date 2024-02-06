@@ -21,3 +21,6 @@ mpc-vdaf.tropomi.eu
 loki.tropomi.eu
 odin.tropomi.eu
 thor.tropomi.eu
+a-feeds.tropomi.eu
+a-opendata.tropomi.eu
+a-www.tropomi.eu

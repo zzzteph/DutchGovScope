@@ -5,3 +5,6 @@ www.rijksinnovatiecommunity.nl
 rijksinnovatiecommunity.nl
 tools-acc.rijksinnovatiecommunity.nl
 tools.rijksinnovatiecommunity.nl
+a-feeds.rijksinnovatiecommunity.nl
+a-opendata.rijksinnovatiecommunity.nl
+a-www.rijksinnovatiecommunity.nl

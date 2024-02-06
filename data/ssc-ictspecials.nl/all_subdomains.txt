@@ -6,3 +6,5 @@ feeds.english.ssc-ictspecials.nl
 feeds.ssc-ictspecials.nl
 opendata.english.ssc-ictspecials.nl
 opendata.ssc-ictspecials.nl
+a-intern.ssc-ictspecials.nl
+a-www.ssc-ictspecials.nl

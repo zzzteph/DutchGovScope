@@ -10,3 +10,7 @@ english.programmasociaaldomein.nl
 magazines.programmasociaaldomein.nl
 magazinesintern.english.programmasociaaldomein.nl
 magazinesintern.programmasociaaldomein.nl
+a-opendata.programmasociaaldomein.nl
+a-www.programmasociaaldomein.nl
+a-feeds.programmasociaaldomein.nl
+autodiscover.programmasociaaldomein.nl

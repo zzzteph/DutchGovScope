@@ -9,3 +9,6 @@ english.staatsexamensvo.nl
 feeds.english.staatsexamensvo.nl
 magazines.staatsexamensvo.nl
 magazinesintern.staatsexamensvo.nl
+a-feeds.staatsexamensvo.nl
+a-opendata.staatsexamensvo.nl
+a-www.staatsexamensvo.nl

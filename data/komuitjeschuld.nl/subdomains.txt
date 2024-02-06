@@ -2,3 +2,6 @@ feeds.komuitjeschuld.nl
 opendata.komuitjeschuld.nl
 www.komuitjeschuld.nl
 komuitjeschuld.nl
+a-opendata.komuitjeschuld.nl
+a-www.komuitjeschuld.nl
+a-feeds.komuitjeschuld.nl

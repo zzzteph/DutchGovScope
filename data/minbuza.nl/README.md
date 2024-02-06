@@ -11,8 +11,8 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/minbuza.nl/subdomains.txt)|27|Alive subdomains|
-|[urls.txt](/data/minbuza.nl/urls.txt)|14|Urls|
+|[subdomains.txt](/data/minbuza.nl/subdomains.txt)|32|Alive subdomains|
+|[urls.txt](/data/minbuza.nl/urls.txt)|15|Urls|
 |[all_subdomains.txt](/data/minbuza.nl/all_subdomains.txt)|136|All found subdomains (history)|
 
 
@@ -35,4 +35,5 @@
 |[https://wifiportal.minbuza.nl](https://wifiportal.minbuza.nl)| | **F**|cloudflare| | | | | | | | :white_check_mark: | |Cloudflare|403 Forbidden|
 |[https://www.minbuza.nl](https://www.minbuza.nl)| | **A**|Microsoft-IIS/10.0| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Azure HSTS IIS:10.0 Microsoft ASP.NET Windows Server|Document Moved|
 |[https://minbuza.nl](https://minbuza.nl)| | **A**|Microsoft-IIS/10.0| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Azure HSTS IIS:10.0 Microsoft ASP.NET Windows Server|Document Moved|
+|[https://links.minbuza.nl](https://links.minbuza.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|404 Not Found|
 

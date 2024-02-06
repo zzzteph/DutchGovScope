@@ -11,9 +11,9 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/volksgezondheidenzorg.info/subdomains.txt)|8|Alive subdomains|
-|[urls.txt](/data/volksgezondheidenzorg.info/urls.txt)|8|Urls|
-|[all_subdomains.txt](/data/volksgezondheidenzorg.info/all_subdomains.txt)|9|All found subdomains (history)|
+|[subdomains.txt](/data/volksgezondheidenzorg.info/subdomains.txt)|9|Alive subdomains|
+|[urls.txt](/data/volksgezondheidenzorg.info/urls.txt)|9|Urls|
+|[all_subdomains.txt](/data/volksgezondheidenzorg.info/all_subdomains.txt)|10|All found subdomains (history)|
 
 
 ## Statistics
@@ -29,4 +29,5 @@
 |[http://test.volksgezondheidenzorg.info](http://test.volksgezondheidenzorg.info)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://www.volksgezondheidenzorg.info](https://www.volksgezondheidenzorg.info)| | **A**|Apache| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS|301 Moved Perman...|
 |[https://volksgezondheidenzorg.info](https://volksgezondheidenzorg.info)| | **A**|Apache| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS|301 Moved Perman...|
+|[http://localhost.volksgezondheidenzorg.info](http://localhost.volksgezondheidenzorg.info)| | **D**|nginx| | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Nginx|Welcome to nginx...|
 

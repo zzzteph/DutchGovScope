@@ -2,8 +2,8 @@
 layout: default
 title: "mobiliteitsbank.nl"
 permalink: "/dutchgov/mobiliteitsbank.nl.html"
-subdomains_count: 10
-all_subdomains_count: 22
+subdomains_count: 11
+all_subdomains_count: 23
 urls_count: 10
 ssl_rank: 
 http_rank: C
@@ -27,9 +27,9 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/mobiliteitsbank.nl/subdomains.txt)|10|Alive subdomains|
+|[subdomains.txt](/DutchGovScope/data/mobiliteitsbank.nl/subdomains.txt)|11|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/mobiliteitsbank.nl/urls.txt)|10|Urls|
-|[all_subdomains.txt](/DutchGovScope/data/mobiliteitsbank.nl/all_subdomains.txt)|22|All found subdomains (history)|
+|[all_subdomains.txt](/DutchGovScope/data/mobiliteitsbank.nl/all_subdomains.txt)|23|All found subdomains (history)|
 
 
 ## Statistics

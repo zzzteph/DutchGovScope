@@ -13,3 +13,5 @@ retour.uzi-register.nl
 applicatieserver.raac.uzi-register.nl
 reporting.raac.uzi-register.nl
 www.intrekken.uzi-register.nl
+cms.uzi-register.nl
+ldap.uzi-register.nl

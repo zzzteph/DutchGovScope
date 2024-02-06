@@ -4,3 +4,6 @@ opendata.tuchtcollege-gezondheidszorg.nl
 www.tuchtcollege-gezondheidszorg.nl
 tuchtcollege-gezondheidszorg.nl
 a-www.tuchtcollege-gezondheidszorg.nl
+a-feeds.tuchtcollege-gezondheidszorg.nl
+a-magazines.tuchtcollege-gezondheidszorg.nl
+a-opendata.tuchtcollege-gezondheidszorg.nl

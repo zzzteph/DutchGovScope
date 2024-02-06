@@ -15,3 +15,7 @@ zakelijk-acc.nationaalcoordinatorgroningen.nl
 zakelijk.nationaalcoordinatorgroningen.nl
 sip.nationaalcoordinatorgroningen.nl
 lyncdiscover.nationaalcoordinatorgroningen.nl
+a-feeds.nationaalcoordinatorgroningen.nl
+a-opendata.nationaalcoordinatorgroningen.nl
+o-www.nationaalcoordinatorgroningen.nl
+t-www.nationaalcoordinatorgroningen.nl

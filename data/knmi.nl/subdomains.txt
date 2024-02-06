@@ -154,3 +154,5 @@ zabbix.knmi.nl
 acc.mijn.knmi.nl
 saca-bmkg.knmi.nl
 exons-website-manager.acc.mijn.knmi.nl
+dcpc.knmi.nl
+test.knmi.nl

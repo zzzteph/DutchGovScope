@@ -12,3 +12,6 @@ magazinesintern.english.rijksinnovatiecommunity.nl
 magazinesintern.rijksinnovatiecommunity.nl
 magazines.rijksinnovatiecommunity.nl
 opendata.english.rijksinnovatiecommunity.nl
+a-feeds.rijksinnovatiecommunity.nl
+a-opendata.rijksinnovatiecommunity.nl
+a-www.rijksinnovatiecommunity.nl

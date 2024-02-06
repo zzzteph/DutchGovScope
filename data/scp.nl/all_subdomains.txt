@@ -49,3 +49,10 @@ magazines.english.scp.nl
 zoek.scp.nl
 sip.scp.nl
 magazinesintern.scp.nl
+a-opendata.a-english.scp.nl
+a-opendata.scp.nl
+a-www.scp.nl
+a-english.scp.nl
+a-feeds.a-english.scp.nl
+a-feeds.scp.nl
+test.scp.nl

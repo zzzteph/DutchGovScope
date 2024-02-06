@@ -1,3 +1,7 @@
 http://beeldbank.nationaalarchief.nl
 https://servicebureau.nationaalarchief.nl
 https://bibliotheek.nationaalarchief.nl
+https://en.test.nationaalarchief.nl
+https://es.test.nationaalarchief.nl
+https://fr.test.nationaalarchief.nl
+http://localhost.nationaalarchief.nl

@@ -4,3 +4,7 @@ www.ondernemersplein.nl
 opendata.ondernemersplein.nl
 opendata.acp.ondernemersplein.nl
 autodiscover.ondernemersplein.nl
+enterpriseenrollment.ondernemersplein.nl
+enterpriseregistration.ondernemersplein.nl
+mail.ondernemersplein.nl
+msoid.ondernemersplein.nl

@@ -20,3 +20,4 @@ https://www.nctv.nl
 https://nctv.nl
 https://dev.kennisbankterrorisme.nctv.nl
 https://dev.cbrnsecurity.nctv.nl
+https://elearning-lcp-egt.nctv.nl

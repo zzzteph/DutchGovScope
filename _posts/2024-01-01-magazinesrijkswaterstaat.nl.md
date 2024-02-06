@@ -2,8 +2,8 @@
 layout: default
 title: "magazinesrijkswaterstaat.nl"
 permalink: "/dutchgov/magazinesrijkswaterstaat.nl.html"
-subdomains_count: 4
-all_subdomains_count: 10
+subdomains_count: 5
+all_subdomains_count: 11
 urls_count: 3
 ssl_rank: 
 http_rank: A
@@ -27,9 +27,9 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/magazinesrijkswaterstaat.nl/subdomains.txt)|4|Alive subdomains|
+|[subdomains.txt](/DutchGovScope/data/magazinesrijkswaterstaat.nl/subdomains.txt)|5|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/magazinesrijkswaterstaat.nl/urls.txt)|3|Urls|
-|[all_subdomains.txt](/DutchGovScope/data/magazinesrijkswaterstaat.nl/all_subdomains.txt)|10|All found subdomains (history)|
+|[all_subdomains.txt](/DutchGovScope/data/magazinesrijkswaterstaat.nl/all_subdomains.txt)|11|All found subdomains (history)|
 
 
 ## Statistics
@@ -39,5 +39,5 @@ tags: dutchgov
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[https://intern.magazinesrijkswaterstaat.nl](https://intern.magazinesrijkswaterstaat.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Kiosk | Magazine...|
 |[https://www.magazinesrijkswaterstaat.nl](https://www.magazinesrijkswaterstaat.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Kiosk | Magazine...|
-|[https://magazinesrijkswaterstaat.nl](https://magazinesrijkswaterstaat.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
+|[https://magazinesrijkswaterstaat.nl](https://magazinesrijkswaterstaat.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
 

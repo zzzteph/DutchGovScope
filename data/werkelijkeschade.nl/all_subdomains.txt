@@ -2,3 +2,6 @@ feeds.werkelijkeschade.nl
 opendata.werkelijkeschade.nl
 werkelijkeschade.nl
 www.werkelijkeschade.nl
+a-feeds.werkelijkeschade.nl
+a-opendata.werkelijkeschade.nl
+a-www.werkelijkeschade.nl

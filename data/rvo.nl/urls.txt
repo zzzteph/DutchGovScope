@@ -95,3 +95,5 @@ https://test-wetten.rvo.nl
 https://english-data.rvo.nl
 http://bpa.rvo.nl
 https://english-prod.rvo.nl
+https://sandbox.rvo.nl
+https://redesign.rvo.nl

@@ -3,3 +3,5 @@ opendata.werkaanuitvoering.nl
 wauke.werkaanuitvoering.nl
 www.werkaanuitvoering.nl
 werkaanuitvoering.nl
+a-feeds.werkaanuitvoering.nl
+a-opendata.werkaanuitvoering.nl

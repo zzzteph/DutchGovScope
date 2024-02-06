@@ -11,3 +11,9 @@ opendata.english.mijncn.nl
 mijncn.nl
 i-login.mijncn.nl
 login.acc.mijncn.nl
+a-feeds.a-english.mijncn.nl
+a-feeds.mijncn.nl
+a-opendata.a-english.mijncn.nl
+a-opendata.mijncn.nl
+a-www.mijncn.nl
+a-english.mijncn.nl

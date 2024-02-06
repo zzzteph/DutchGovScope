@@ -5,3 +5,13 @@ marechaussee.nl
 opendata.english.marechaussee.nl
 opendata.marechaussee.nl
 www.marechaussee.nl
+a-feeds.a-english.marechaussee.nl
+a-feeds.marechaussee.nl
+a-opendata.a-english.marechaussee.nl
+a-opendata.marechaussee.nl
+a-www.marechaussee.nl
+a-english.marechaussee.nl
+i-www.marechaussee.nl
+o-www.marechaussee.nl
+t-www.marechaussee.nl
+www1.marechaussee.nl

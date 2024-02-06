@@ -13,3 +13,5 @@ acceptatie.rtlnieuws.nl
 blogs.rtlnieuws.nl
 test.rtlnieuws.nl
 msgs.rtlnieuws.nl
+dev-beta.rtlnieuws.nl
+prod.rtlnieuws.nl

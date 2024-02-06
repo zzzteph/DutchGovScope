@@ -85,3 +85,12 @@ www.pandora.vechtstromen.nl
 vcenter.vechtstromen.nl
 hybrid.vechtstromen.nl
 callback.vechtstromen.nl
+av2.vechtstromen.nl
+enterpriseenrollment.vechtstromen.nl
+enterpriseregistration.vechtstromen.nl
+ftp.vechtstromen.nl
+geoweb.vechtstromen.nl
+localhost.vechtstromen.nl
+prime.vechtstromen.nl
+sharefile.vechtstromen.nl
+topdesk-test.vechtstromen.nl

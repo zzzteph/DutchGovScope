@@ -5,3 +5,4 @@ https://feeds.riec.nl
 https://mdm.zwb.riec.nl
 https://opendata.riec.nl
 https://riec.nl
+https://autoconfig.riec.nl

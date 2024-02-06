@@ -2,3 +2,6 @@ feeds.onswater.nl
 opendata.onswater.nl
 www.onswater.nl
 onswater.nl
+a-feeds.onswater.nl
+a-opendata.onswater.nl
+a-www.onswater.nl

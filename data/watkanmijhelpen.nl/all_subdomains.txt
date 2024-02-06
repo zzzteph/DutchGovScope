@@ -9,3 +9,6 @@ magazines.watkanmijhelpen.nl
 opendata.english.watkanmijhelpen.nl
 english.watkanmijhelpen.nl
 magazinesintern.watkanmijhelpen.nl
+a-feeds.watkanmijhelpen.nl
+a-opendata.watkanmijhelpen.nl
+a-www.watkanmijhelpen.nl

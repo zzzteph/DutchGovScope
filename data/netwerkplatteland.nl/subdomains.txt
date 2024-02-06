@@ -3,3 +3,8 @@ opendata.netwerkplatteland.nl
 projecten.netwerkplatteland.nl
 www.netwerkplatteland.nl
 netwerkplatteland.nl
+a-feeds.netwerkplatteland.nl
+a-opendata.netwerkplatteland.nl
+i-www.netwerkplatteland.nl
+o-www.netwerkplatteland.nl
+t-www.netwerkplatteland.nl

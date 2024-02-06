@@ -4,3 +4,9 @@ www.gezondeschool.nl
 gezondeschool.nl
 preview.gezondeschool.nl
 acceptatie.gezondeschool.nl
+autodiscover.gezondeschool.nl
+enterpriseenrollment.gezondeschool.nl
+enterpriseregistration.gezondeschool.nl
+info.gezondeschool.nl
+localhost.gezondeschool.nl
+msoid.gezondeschool.nl

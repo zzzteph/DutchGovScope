@@ -11,9 +11,9 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/basisinformatie-overstromingen.nl/subdomains.txt)|7|Alive subdomains|
+|[subdomains.txt](/data/basisinformatie-overstromingen.nl/subdomains.txt)|8|Alive subdomains|
 |[urls.txt](/data/basisinformatie-overstromingen.nl/urls.txt)|7|Urls|
-|[all_subdomains.txt](/data/basisinformatie-overstromingen.nl/all_subdomains.txt)|12|All found subdomains (history)|
+|[all_subdomains.txt](/data/basisinformatie-overstromingen.nl/all_subdomains.txt)|13|All found subdomains (history)|
 
 
 ## Statistics

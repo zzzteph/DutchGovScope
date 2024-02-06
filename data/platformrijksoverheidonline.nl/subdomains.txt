@@ -3,3 +3,9 @@ magazines.platformrijksoverheidonline.nl
 opendata.platformrijksoverheidonline.nl
 www.platformrijksoverheidonline.nl
 platformrijksoverheidonline.nl
+a-feeds.platformrijksoverheidonline.nl
+a-magazines.platformrijksoverheidonline.nl
+a-www.platformrijksoverheidonline.nl
+i-www.platformrijksoverheidonline.nl
+o-www.platformrijksoverheidonline.nl
+t-www.platformrijksoverheidonline.nl

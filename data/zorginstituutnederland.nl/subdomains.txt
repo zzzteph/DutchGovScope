@@ -12,3 +12,13 @@ proto.zorginstituutnederland.nl
 passwordmanager.zorginstituutnederland.nl
 ra.zorginstituutnederland.nl
 www-ac.zorginstituutnederland.nl
+a-english.zorginstituutnederland.nl
+a-feeds.a-english.zorginstituutnederland.nl
+a-feeds.zorginstituutnederland.nl
+a-opendata.a-english.zorginstituutnederland.nl
+a-opendata.zorginstituutnederland.nl
+a-www.zorginstituutnederland.nl
+ra1.zorginstituutnederland.nl
+ra2.zorginstituutnederland.nl
+www-ow.zorginstituutnederland.nl
+www-ts.zorginstituutnederland.nl

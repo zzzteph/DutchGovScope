@@ -5,15 +5,15 @@
 
 
  - **SSL Grade**:
- - **HTTP Security Grade**:B
+ - **HTTP Security Grade**:C
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:3
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/ondernemersplein.nl/subdomains.txt)|6|Alive subdomains|
-|[urls.txt](/data/ondernemersplein.nl/urls.txt)|6|Urls|
-|[all_subdomains.txt](/data/ondernemersplein.nl/all_subdomains.txt)|27|All found subdomains (history)|
+|[subdomains.txt](/data/ondernemersplein.nl/subdomains.txt)|10|Alive subdomains|
+|[urls.txt](/data/ondernemersplein.nl/urls.txt)|9|Urls|
+|[all_subdomains.txt](/data/ondernemersplein.nl/all_subdomains.txt)|31|All found subdomains (history)|
 
 
 ## Statistics
@@ -27,4 +27,7 @@
 |[https://opendata.ondernemersplein.nl](https://opendata.ondernemersplein.nl)| | **C**|| |:white_check_mark: | :warning:| | | | | :white_check_mark: | |HSTS||
 |[https://opendata.acp.ondernemersplein.nl](https://opendata.acp.ondernemersplein.nl)| | **C**|| |:white_check_mark: | :warning:| | | | | :white_check_mark: | |HSTS||
 |[http://autodiscover.ondernemersplein.nl](http://autodiscover.ondernemersplein.nl)| | **B**|Microsoft-IIS/10.0|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server||
+|[https://enterpriseenrollment.ondernemersplein.nl](https://enterpriseenrollment.ondernemersplein.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||
+|[https://enterpriseregistration.ondernemersplein.nl](https://enterpriseregistration.ondernemersplein.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
+|[https://msoid.ondernemersplein.nl](https://msoid.ondernemersplein.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Object moved|
 

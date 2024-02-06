@@ -2,3 +2,9 @@ nationalebijenstrategie.nl
 www.nationalebijenstrategie.nl
 feeds.nationalebijenstrategie.nl
 opendata.nationalebijenstrategie.nl
+a-feeds.nationalebijenstrategie.nl
+a-opendata.nationalebijenstrategie.nl
+a-www.nationalebijenstrategie.nl
+i-www.nationalebijenstrategie.nl
+o-www.nationalebijenstrategie.nl
+t-www.nationalebijenstrategie.nl

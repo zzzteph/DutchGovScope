@@ -111,3 +111,7 @@ https://kva-test.tweedekamer.nl
 https://kva-tst.tweedekamer.nl
 https://vip-acc.tweedekamer.nl
 https://opendata-wiki.tweedekamer.nl
+https://enterpriseenrollment.tweedekamer.nl
+https://enterpriseregistration.tweedekamer.nl
+http://localhost.tweedekamer.nl
+https://msoid.tweedekamer.nl

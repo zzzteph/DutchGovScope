@@ -11,9 +11,9 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/rdi.nl/subdomains.txt)|14|Alive subdomains|
+|[subdomains.txt](/data/rdi.nl/subdomains.txt)|28|Alive subdomains|
 |[urls.txt](/data/rdi.nl/urls.txt)|14|Urls|
-|[all_subdomains.txt](/data/rdi.nl/all_subdomains.txt)|21|All found subdomains (history)|
+|[all_subdomains.txt](/data/rdi.nl/all_subdomains.txt)|35|All found subdomains (history)|
 
 
 ## Statistics

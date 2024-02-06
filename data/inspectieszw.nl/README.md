@@ -4,7 +4,7 @@
 ## Summary data
 
 
- - **SSL Grade**:
+ - **SSL Grade**:C
  - **HTTP Security Grade**:B
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:6
 
@@ -12,7 +12,7 @@
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/inspectieszw.nl/subdomains.txt)|14|Alive subdomains|
-|[urls.txt](/data/inspectieszw.nl/urls.txt)|9|Urls|
+|[urls.txt](/data/inspectieszw.nl/urls.txt)|10|Urls|
 |[all_subdomains.txt](/data/inspectieszw.nl/all_subdomains.txt)|48|All found subdomains (history)|
 
 
@@ -21,13 +21,14 @@
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://acceptatie.melding.inspectieszw.nl](https://acceptatie.melding.inspectieszw.nl)| | **A**|Microsoft-IIS/10.0|:warning: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS IIS:10.0 Windows Server|Document Moved|
+|[https://acceptatie.melding.inspectieszw.nl](https://acceptatie.melding.inspectieszw.nl)| **A+**| **A**|Microsoft-IIS/10.0|:warning: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS IIS:10.0 Windows Server|Document Moved|
 |[https://asbestovertredingen.inspectieszw.nl](https://asbestovertredingen.inspectieszw.nl)| | **A**|nginx|:warning: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Nginx|410 Gone|
-|[https://feeds.inspectieszw.nl](https://feeds.inspectieszw.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
-|[https://melding.inspectieszw.nl](https://melding.inspectieszw.nl)| | **A**|Microsoft-IIS/10.0|:warning: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server|Document Moved|
-|[http://monitor.inspectieszw.nl](http://monitor.inspectieszw.nl)| | **F**|BigIP| | | | | | | | :white_check_mark: | |F5 BigIP||
-|[https://opendata.inspectieszw.nl](https://opendata.inspectieszw.nl)| | **A**|Microsoft-HTTPAPI/2.0| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
-|[https://test.melding.inspectieszw.nl](https://test.melding.inspectieszw.nl)| | **A**|Microsoft-IIS/10.0|:warning: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS IIS:10.0 Windows Server|Document Moved|
-|[https://www.inspectieszw.nl](https://www.inspectieszw.nl)| | **A**|Microsoft-IIS/10.0| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS IIS:10.0 Windows Server|Document Moved|
-|[https://inspectieszw.nl](https://inspectieszw.nl)| | **A**|Microsoft-IIS/10.0| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS IIS:10.0 Windows Server|Document Moved|
+|[https://feeds.inspectieszw.nl](https://feeds.inspectieszw.nl)| **F**| **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
+|[https://melding.inspectieszw.nl](https://melding.inspectieszw.nl)| **B**| **A**|Microsoft-IIS/10.0|:warning: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server|Document Moved|
+|[http://monitor.inspectieszw.nl](http://monitor.inspectieszw.nl)| **F**| **F**|BigIP| | | | | | | | :white_check_mark: | |F5 BigIP||
+|[https://opendata.inspectieszw.nl](https://opendata.inspectieszw.nl)| **F**| **A**|Microsoft-HTTPAPI/2.0| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
+|[https://test.melding.inspectieszw.nl](https://test.melding.inspectieszw.nl)| **A+**| **A**|Microsoft-IIS/10.0|:warning: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS IIS:10.0 Windows Server|Document Moved|
+|[https://www.inspectieszw.nl](https://www.inspectieszw.nl)| **A+**| **A**|Microsoft-IIS/10.0| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS IIS:10.0 Windows Server|Document Moved|
+|[https://inspectieszw.nl](https://inspectieszw.nl)| **A+**| **A**|Microsoft-IIS/10.0| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS IIS:10.0 Windows Server|Document Moved|
+|[http://localhost.inspectieszw.nl](http://localhost.inspectieszw.nl)| | **D**|nginx| | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Nginx|Welcome to nginx...|
 

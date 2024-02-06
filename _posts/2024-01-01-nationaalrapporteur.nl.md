@@ -2,7 +2,7 @@
 layout: default
 title: "nationaalrapporteur.nl"
 permalink: "/dutchgov/nationaalrapporteur.nl.html"
-subdomains_count: 4
+subdomains_count: 7
 all_subdomains_count: 8
 urls_count: 4
 ssl_rank: 
@@ -27,7 +27,7 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/nationaalrapporteur.nl/subdomains.txt)|4|Alive subdomains|
+|[subdomains.txt](/DutchGovScope/data/nationaalrapporteur.nl/subdomains.txt)|7|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/nationaalrapporteur.nl/urls.txt)|4|Urls|
 |[all_subdomains.txt](/DutchGovScope/data/nationaalrapporteur.nl/all_subdomains.txt)|8|All found subdomains (history)|
 

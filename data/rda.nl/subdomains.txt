@@ -11,3 +11,6 @@ a-feeds.rda.nl
 a-opendata.a-english.rda.nl
 a-opendata.rda.nl
 a-www.rda.nl
+i-www.rda.nl
+o-www.rda.nl
+t-www.rda.nl

@@ -2,8 +2,8 @@
 layout: default
 title: "hhdelfland.nl"
 permalink: "/dutchgov/hhdelfland.nl.html"
-subdomains_count: 60
-all_subdomains_count: 219
+subdomains_count: 64
+all_subdomains_count: 223
 urls_count: 24
 ssl_rank: 
 http_rank: C
@@ -27,9 +27,9 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/hhdelfland.nl/subdomains.txt)|60|Alive subdomains|
+|[subdomains.txt](/DutchGovScope/data/hhdelfland.nl/subdomains.txt)|64|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/hhdelfland.nl/urls.txt)|24|Urls|
-|[all_subdomains.txt](/DutchGovScope/data/hhdelfland.nl/all_subdomains.txt)|219|All found subdomains (history)|
+|[all_subdomains.txt](/DutchGovScope/data/hhdelfland.nl/all_subdomains.txt)|223|All found subdomains (history)|
 
 
 ## Statistics
@@ -45,7 +45,7 @@ tags: dutchgov
 |[https://loket.hhdelfland.nl](https://loket.hhdelfland.nl)| | **A**|Microsoft-IIS/10.0|:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |IIS:10.0 Windows Server||
 |[https://samenwerkingsportaal.hhdelfland.nl](https://samenwerkingsportaal.hhdelfland.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0||
 |[https://beeldbank-bo.hhdelfland.nl](https://beeldbank-bo.hhdelfland.nl)| | **B**|Picture Pack|:warning: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:4.0.30319|Picture Pack|
-|[https://beeldbank.hhdelfland.nl](https://beeldbank.hhdelfland.nl)| | **B**||:warning: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET|Homepage | Beeld...|
+|[https://beeldbank.hhdelfland.nl](https://beeldbank.hhdelfland.nl)| | **B**||:warning: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:4.0.30319|Homepage | Beeld...|
 |[https://burgerloket.hhdelfland.nl](https://burgerloket.hhdelfland.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|301 Moved Perman...|
 |[https://hhdelfland.nl](https://hhdelfland.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:-|Object moved|
 |[http://autodiscover.hhdelfland.nl](http://autodiscover.hhdelfland.nl)| | **B**|Microsoft-IIS/10.0|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server||

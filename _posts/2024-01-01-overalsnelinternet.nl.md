@@ -2,7 +2,7 @@
 layout: default
 title: "overalsnelinternet.nl"
 permalink: "/dutchgov/overalsnelinternet.nl.html"
-subdomains_count: 4
+subdomains_count: 10
 all_subdomains_count: 17
 urls_count: 4
 ssl_rank: 
@@ -27,7 +27,7 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/overalsnelinternet.nl/subdomains.txt)|4|Alive subdomains|
+|[subdomains.txt](/DutchGovScope/data/overalsnelinternet.nl/subdomains.txt)|10|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/overalsnelinternet.nl/urls.txt)|4|Urls|
 |[all_subdomains.txt](/DutchGovScope/data/overalsnelinternet.nl/all_subdomains.txt)|17|All found subdomains (history)|
 

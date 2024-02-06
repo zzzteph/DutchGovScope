@@ -11,7 +11,7 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/mijncn.nl/subdomains.txt)|13|Alive subdomains|
+|[subdomains.txt](/data/mijncn.nl/subdomains.txt)|19|Alive subdomains|
 |[urls.txt](/data/mijncn.nl/urls.txt)|12|Urls|
 |[all_subdomains.txt](/data/mijncn.nl/all_subdomains.txt)|19|All found subdomains (history)|
 

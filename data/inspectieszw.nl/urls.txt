@@ -7,3 +7,4 @@ https://opendata.inspectieszw.nl
 https://test.melding.inspectieszw.nl
 https://www.inspectieszw.nl
 https://inspectieszw.nl
+http://localhost.inspectieszw.nl

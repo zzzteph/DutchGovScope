@@ -270,3 +270,13 @@ sfb.svb.nl
 ota-clientconfig.svb.nl
 secure3.svb.nl
 portal2.svb.nl
+enterpriseenrollment.svb.nl
+enterpriseregistration.svb.nl
+mijn-a.svb.nl
+mijnoverheid.svb.nl
+mta.svb.nl
+ns2.svb.nl
+pre.svb.nl
+www-o.svb.nl
+www-s.svb.nl
+www-t.svb.nl

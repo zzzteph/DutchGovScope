@@ -2,3 +2,6 @@ feeds.mijnpgb.nl
 opendata.mijnpgb.nl
 www.mijnpgb.nl
 mijnpgb.nl
+a-feeds.mijnpgb.nl
+a-opendata.mijnpgb.nl
+a-www.mijnpgb.nl

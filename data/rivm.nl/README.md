@@ -11,9 +11,9 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/rivm.nl/subdomains.txt)|396|Alive subdomains|
-|[urls.txt](/data/rivm.nl/urls.txt)|266|Urls|
-|[all_subdomains.txt](/data/rivm.nl/all_subdomains.txt)|918|All found subdomains (history)|
+|[subdomains.txt](/data/rivm.nl/subdomains.txt)|397|Alive subdomains|
+|[urls.txt](/data/rivm.nl/urls.txt)|267|Urls|
+|[all_subdomains.txt](/data/rivm.nl/all_subdomains.txt)|920|All found subdomains (history)|
 
 
 ## Statistics
@@ -146,7 +146,7 @@
 |[http://kosteneffectiviteit-preventie.rivm.nl](http://kosteneffectiviteit-preventie.rivm.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |||
 |[https://lci.rivm.nl](https://lci.rivm.nl)| | **A**|Apache| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server Bootstrap Drupal:10 HSTS PHP:8.1.14|LCI richtlijnen|
 |[https://leren.rivm.nl](https://leren.rivm.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Welcome to The E...|
-|[https://lmm.rivm.nl](https://lmm.rivm.nl)| | **B**|Microsoft-IIS/10.0| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS IIS:10.0 Microsoft ASP.NET Windows Server|Landelijk Meetne...|
+|[https://lmm.rivm.nl](https://lmm.rivm.nl)| | **B**|Microsoft-IIS/10.0| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS IIS:10.0 Microsoft ASP.NET:4.0.30319 Windows Server|Landelijk Meetne...|
 |[https://login.rivm.nl](https://login.rivm.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
 |[https://login-ext.rivm.nl](https://login-ext.rivm.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Java||
 |[http://login-test-ext.rivm.nl](http://login-test-ext.rivm.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
@@ -158,7 +158,7 @@
 |[https://mcra.rivm.nl](https://mcra.rivm.nl)| | **B**|Microsoft-IIS/10.0| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS IIS:10.0 Microsoft ASP.NET Windows Server||
 |[http://mcra-test.rivm.nl](http://mcra-test.rivm.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://mcra-training.rivm.nl](https://mcra-training.rivm.nl)| | **F**|Microsoft-Azure-Application-Gateway/v2| | | | | | | | :white_check_mark: | |||
-|[http://mebi.rivm.nl](http://mebi.rivm.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS IIS:10.0 Microsoft ASP.NET Windows Server||
+|[https://mebi.rivm.nl](https://mebi.rivm.nl)| | **A**|Microsoft-IIS/10.0| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS IIS:10.0 Microsoft ASP.NET Windows Server||
 |[http://mebi-backoffice.rivm.nl](http://mebi-backoffice.rivm.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://menukaart-kansrijkestart-nl.rivm.nl](https://menukaart-kansrijkestart-nl.rivm.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://mgk.osiris.rivm.nl](https://mgk.osiris.rivm.nl)| | **D**||:warning: |:white_check_mark: | | | | | | :white_check_mark: | |F5 BigIP HSTS||
@@ -287,4 +287,5 @@
 |[https://api.dev-lsp.rivm.nl](https://api.dev-lsp.rivm.nl)| | **F**|Microsoft-Azure-Application-Gateway/v2| | | | | | | | :white_check_mark: | ||404 Not Found|
 |[https://tst-lsp.rivm.nl](https://tst-lsp.rivm.nl)| | **F**|Microsoft-Azure-Application-Gateway/v2| | | | | | | | :white_check_mark: | ||404 Not Found|
 |[https://api.tst-lsp.rivm.nl](https://api.tst-lsp.rivm.nl)| | **F**|Microsoft-Azure-Application-Gateway/v2| | | | | | | | :white_check_mark: | ||404 Not Found|
+|[https://lsp.rivm.nl](https://lsp.rivm.nl)| | **F**|Microsoft-Azure-Application-Gateway/v2| | | | | | | | :white_check_mark: | ||404 Not Found|
 

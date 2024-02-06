@@ -16,3 +16,5 @@ english.toezichtsociaaldomein.nl
 a-magazinesintern.a-english.toezichtsociaaldomein.nl
 magazines.english.toezichtsociaaldomein.nl
 magazinesintern.toezichtsociaaldomein.nl
+a-feeds.toezichtsociaaldomein.nl
+a-opendata.toezichtsociaaldomein.nl

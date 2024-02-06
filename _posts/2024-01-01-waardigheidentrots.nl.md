@@ -2,8 +2,8 @@
 layout: default
 title: "waardigheidentrots.nl"
 permalink: "/dutchgov/waardigheidentrots.nl.html"
-subdomains_count: 5
-all_subdomains_count: 14
+subdomains_count: 7
+all_subdomains_count: 16
 urls_count: 5
 ssl_rank: 
 http_rank: B
@@ -27,9 +27,9 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/waardigheidentrots.nl/subdomains.txt)|5|Alive subdomains|
+|[subdomains.txt](/DutchGovScope/data/waardigheidentrots.nl/subdomains.txt)|7|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/waardigheidentrots.nl/urls.txt)|5|Urls|
-|[all_subdomains.txt](/DutchGovScope/data/waardigheidentrots.nl/all_subdomains.txt)|14|All found subdomains (history)|
+|[all_subdomains.txt](/DutchGovScope/data/waardigheidentrots.nl/all_subdomains.txt)|16|All found subdomains (history)|
 
 
 ## Statistics

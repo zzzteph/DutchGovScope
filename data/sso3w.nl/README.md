@@ -11,9 +11,9 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/sso3w.nl/subdomains.txt)|17|Alive subdomains|
+|[subdomains.txt](/data/sso3w.nl/subdomains.txt)|23|Alive subdomains|
 |[urls.txt](/data/sso3w.nl/urls.txt)|17|Urls|
-|[all_subdomains.txt](/data/sso3w.nl/all_subdomains.txt)|24|All found subdomains (history)|
+|[all_subdomains.txt](/data/sso3w.nl/all_subdomains.txt)|30|All found subdomains (history)|
 
 
 ## Statistics

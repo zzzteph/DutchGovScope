@@ -11,9 +11,9 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/tropomi.eu/subdomains.txt)|23|Alive subdomains|
+|[subdomains.txt](/data/tropomi.eu/subdomains.txt)|26|Alive subdomains|
 |[urls.txt](/data/tropomi.eu/urls.txt)|20|Urls|
-|[all_subdomains.txt](/data/tropomi.eu/all_subdomains.txt)|24|All found subdomains (history)|
+|[all_subdomains.txt](/data/tropomi.eu/all_subdomains.txt)|27|All found subdomains (history)|
 
 
 ## Statistics

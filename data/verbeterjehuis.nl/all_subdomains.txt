@@ -7,3 +7,6 @@ test-www.verbeterjehuis.nl
 drents-energieloket.verbeterjehuis.nl
 mail.verbeterjehuis.nl
 slimwoner.verbeterjehuis.nl
+cms.verbeterjehuis.nl
+content.verbeterjehuis.nl
+localhost.verbeterjehuis.nl

@@ -7,3 +7,6 @@ sophie.oidji.nl
 www.oidji.nl
 oidji.nl
 class.oidji.nl
+a-feeds.oidji.nl
+a-opendata.oidji.nl
+a-www.oidji.nl

@@ -43,7 +43,6 @@ ep.noord-holland.nl
 vacatures.noord-holland.nl
 bestanden.noord-holland.nl
 kennisportaalovk.noord-holland.nl
-ftps.noord-holland.nl
 lync.noord-holland.nl
 sip1.noord-holland.nl
 mijnsubsidie.noord-holland.nl
@@ -56,7 +55,6 @@ pvkontakt.noord-holland.nl
 geoservices3.noord-holland.nl
 portal-b.noord-holland.nl
 maovpn.noord-holland.nl
-maovpn-test.noord-holland.nl
 eidbroker-pre.noord-holland.nl
 eidbroker.noord-holland.nl
 fleetmanager.noord-holland.nl
@@ -100,3 +98,6 @@ wifi.noord-holland.nl
 oe.noord-holland.nl
 fioriacc-portal.noord-holland.nl
 oe-test.noord-holland.nl
+enterpriseenrollment.noord-holland.nl
+enterpriseregistration.noord-holland.nl
+hybrid.noord-holland.nl

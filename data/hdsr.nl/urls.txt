@@ -7,7 +7,6 @@ https://cawfirewall.hdsr.nl
 https://testbegrippen.hdsr.nl
 https://loket.hdsr.nl
 https://uconnect.hdsr.nl
-https://cawuitwijkfirewall.hdsr.nl
 https://webservices.hdsr.nl
 https://redactie.hdsr.nl
 http://autodiscover.hdsr.nl

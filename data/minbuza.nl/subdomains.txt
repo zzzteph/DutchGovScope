@@ -25,3 +25,8 @@ o1.ptr5542.minbuza.nl
 o3.mail.minbuza.nl
 sip.meet.minbuza.nl
 streaming.minbuza.nl
+admanager.minbuza.nl
+links.minbuza.nl
+mx5.minbuza.nl
+selfservice.minbuza.nl
+testloket.minbuza.nl

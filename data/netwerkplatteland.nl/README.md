@@ -11,7 +11,7 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/netwerkplatteland.nl/subdomains.txt)|5|Alive subdomains|
+|[subdomains.txt](/data/netwerkplatteland.nl/subdomains.txt)|10|Alive subdomains|
 |[urls.txt](/data/netwerkplatteland.nl/urls.txt)|5|Urls|
 |[all_subdomains.txt](/data/netwerkplatteland.nl/all_subdomains.txt)|14|All found subdomains (history)|
 

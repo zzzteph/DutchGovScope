@@ -3,7 +3,7 @@ layout: default
 title: "hulpmiddelenzorg.nl"
 permalink: "/dutchgov/hulpmiddelenzorg.nl.html"
 subdomains_count: 2
-all_subdomains_count: 9
+all_subdomains_count: 10
 urls_count: 2
 ssl_rank: 
 http_rank: A
@@ -29,7 +29,7 @@ tags: dutchgov
 |------------|-------|------|
 |[subdomains.txt](/DutchGovScope/data/hulpmiddelenzorg.nl/subdomains.txt)|2|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/hulpmiddelenzorg.nl/urls.txt)|2|Urls|
-|[all_subdomains.txt](/DutchGovScope/data/hulpmiddelenzorg.nl/all_subdomains.txt)|9|All found subdomains (history)|
+|[all_subdomains.txt](/DutchGovScope/data/hulpmiddelenzorg.nl/all_subdomains.txt)|10|All found subdomains (history)|
 
 
 ## Statistics

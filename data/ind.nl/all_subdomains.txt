@@ -63,3 +63,4 @@ p166st201.ind.nl
 rw.ind.nl
 bvv-a7.inkomend.extern.ind.nl
 jubes-ota.uitgaand.extern.ind.nl
+localhost.ind.nl

@@ -13,7 +13,7 @@
 |------------|-------|------|
 |[subdomains.txt](/data/versnellingshuisce.nl/subdomains.txt)|7|Alive subdomains|
 |[urls.txt](/data/versnellingshuisce.nl/urls.txt)|7|Urls|
-|[all_subdomains.txt](/data/versnellingshuisce.nl/all_subdomains.txt)|7|All found subdomains (history)|
+|[all_subdomains.txt](/data/versnellingshuisce.nl/all_subdomains.txt)|8|All found subdomains (history)|
 
 
 ## Statistics

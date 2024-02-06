@@ -6,3 +6,4 @@ kostenvanziektentool.volksgezondheidenzorg.info
 test.volksgezondheidenzorg.info
 www.volksgezondheidenzorg.info
 volksgezondheidenzorg.info
+localhost.volksgezondheidenzorg.info

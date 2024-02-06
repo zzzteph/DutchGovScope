@@ -28,3 +28,4 @@ english.rijksrecherche.nl
 a-feeds.a-english.rijksrecherche.nl
 a-magazinesintern.rijksrecherche.nl
 dailin.rijksrecherche.nl
+redactie.rijksrecherche.nl

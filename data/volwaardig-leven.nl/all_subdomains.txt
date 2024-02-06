@@ -9,3 +9,6 @@ magazines.volwaardig-leven.nl
 opendata.english.volwaardig-leven.nl
 feeds.english.volwaardig-leven.nl
 magazinesintern.english.volwaardig-leven.nl
+a-feeds.volwaardig-leven.nl
+a-opendata.volwaardig-leven.nl
+a-www.volwaardig-leven.nl

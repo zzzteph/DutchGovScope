@@ -11,3 +11,7 @@ test.apps.lchulpmiddelen.nl
 webdisk.lchulpmiddelen.nl
 www.lchulpmiddelen.nl
 lchulpmiddelen.nl
+a-feeds.lchulpmiddelen.nl
+a-opendata.lchulpmiddelen.nl
+a-www.lchulpmiddelen.nl
+whm.lchulpmiddelen.nl

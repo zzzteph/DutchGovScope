@@ -223,7 +223,7 @@ https://stelselcatalogus.int.omgevingswet.overheid.nl
 https://stelselcatalogus.kta.omgevingswet.overheid.nl
 https://stelselcatalogus.omgevingswet.overheid.nl
 https://stelselcatalogus.pfm.omgevingswet.overheid.nl
-https://stelselcatalogus.pre.omgevingswet.overheid.nl
+http://stelselcatalogus.pre.omgevingswet.overheid.nl
 https://stijl.mijn.overheid.nl
 https://stijlgids.overheid.nl
 https://sts.koop.overheid.nl
@@ -330,3 +330,7 @@ https://gegevensbijbesluiten.overheid.nl
 https://digid-stub.lpc.mijn.overheid.nl
 https://eidas-stub.lpc.mijn.overheid.nl
 https://wetgevingskalender-acc.overheid.nl
+https://autodiscover.overheid.nl
+http://beta8.overheid.nl
+https://community.developer.overheid.nl
+https://ftp.overheid.nl

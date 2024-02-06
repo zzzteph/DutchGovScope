@@ -11,9 +11,9 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/staatsexamensnt2.nl/subdomains.txt)|4|Alive subdomains|
+|[subdomains.txt](/data/staatsexamensnt2.nl/subdomains.txt)|7|Alive subdomains|
 |[urls.txt](/data/staatsexamensnt2.nl/urls.txt)|4|Urls|
-|[all_subdomains.txt](/data/staatsexamensnt2.nl/all_subdomains.txt)|5|All found subdomains (history)|
+|[all_subdomains.txt](/data/staatsexamensnt2.nl/all_subdomains.txt)|8|All found subdomains (history)|
 
 
 ## Statistics

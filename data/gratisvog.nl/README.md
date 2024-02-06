@@ -29,5 +29,5 @@
 |[https://psrp.gratisvog.nl](https://psrp.gratisvog.nl)| **A**| **C**||:white_check_mark: | | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HTTP/3||
 |[https://www.gratisvog.nl](https://www.gratisvog.nl)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Regeling voor vr...|
 |[https://zoeken.gratisvog.nl](https://zoeken.gratisvog.nl)| **A+**| **A**|LiteSpeed|:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS HTTP/3 LiteSpeed|Toegelaten organ...|
-|[https://gratisvog.nl](https://gratisvog.nl)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
+|[https://gratisvog.nl](https://gratisvog.nl)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 

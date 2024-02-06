@@ -12,7 +12,7 @@
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/ctgb.nl/subdomains.txt)|51|Alive subdomains|
-|[urls.txt](/data/ctgb.nl/urls.txt)|26|Urls|
+|[urls.txt](/data/ctgb.nl/urls.txt)|27|Urls|
 |[all_subdomains.txt](/data/ctgb.nl/all_subdomains.txt)|116|All found subdomains (history)|
 
 
@@ -47,4 +47,5 @@
 |[https://password.ctgb.nl](https://password.ctgb.nl)| **B**| **E**|| | | | | | | | :white_check_mark: | |HSTS Java||
 |[https://acm.ctgb.nl](https://acm.ctgb.nl)| **B**| **B**|nginx| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS Java Nginx||
 |[https://ctgb.nl](https://ctgb.nl)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
+|[https://portaal.ctgb.nl](https://portaal.ctgb.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |HSTS Java Nginx||
 

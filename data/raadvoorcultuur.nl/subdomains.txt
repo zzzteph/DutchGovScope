@@ -2,3 +2,6 @@ opendata.raadvoorcultuur.nl
 www.raadvoorcultuur.nl
 feeds.raadvoorcultuur.nl
 raadvoorcultuur.nl
+a-feeds.raadvoorcultuur.nl
+a-opendata.raadvoorcultuur.nl
+a-www.raadvoorcultuur.nl

@@ -2,8 +2,8 @@
 layout: default
 title: "ssc-ictspecials.nl"
 permalink: "/dutchgov/ssc-ictspecials.nl.html"
-subdomains_count: 3
-all_subdomains_count: 8
+subdomains_count: 5
+all_subdomains_count: 10
 urls_count: 3
 ssl_rank: 
 http_rank: A
@@ -27,9 +27,9 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/ssc-ictspecials.nl/subdomains.txt)|3|Alive subdomains|
+|[subdomains.txt](/DutchGovScope/data/ssc-ictspecials.nl/subdomains.txt)|5|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/ssc-ictspecials.nl/urls.txt)|3|Urls|
-|[all_subdomains.txt](/DutchGovScope/data/ssc-ictspecials.nl/all_subdomains.txt)|8|All found subdomains (history)|
+|[all_subdomains.txt](/DutchGovScope/data/ssc-ictspecials.nl/all_subdomains.txt)|10|All found subdomains (history)|
 
 
 ## Statistics

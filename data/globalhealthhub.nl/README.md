@@ -11,9 +11,9 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/globalhealthhub.nl/subdomains.txt)|7|Alive subdomains|
+|[subdomains.txt](/data/globalhealthhub.nl/subdomains.txt)|12|Alive subdomains|
 |[urls.txt](/data/globalhealthhub.nl/urls.txt)|7|Urls|
-|[all_subdomains.txt](/data/globalhealthhub.nl/all_subdomains.txt)|7|All found subdomains (history)|
+|[all_subdomains.txt](/data/globalhealthhub.nl/all_subdomains.txt)|12|All found subdomains (history)|
 
 
 ## Statistics

@@ -2,9 +2,9 @@
 layout: default
 title: "volksgezondheidenzorg.info"
 permalink: "/dutchgov/volksgezondheidenzorg.info.html"
-subdomains_count: 8
-all_subdomains_count: 9
-urls_count: 8
+subdomains_count: 9
+all_subdomains_count: 10
+urls_count: 9
 ssl_rank: 
 http_rank: C
 security_txt: 4
@@ -27,9 +27,9 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/volksgezondheidenzorg.info/subdomains.txt)|8|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/volksgezondheidenzorg.info/urls.txt)|8|Urls|
-|[all_subdomains.txt](/DutchGovScope/data/volksgezondheidenzorg.info/all_subdomains.txt)|9|All found subdomains (history)|
+|[subdomains.txt](/DutchGovScope/data/volksgezondheidenzorg.info/subdomains.txt)|9|Alive subdomains|
+|[urls.txt](/DutchGovScope/data/volksgezondheidenzorg.info/urls.txt)|9|Urls|
+|[all_subdomains.txt](/DutchGovScope/data/volksgezondheidenzorg.info/all_subdomains.txt)|10|All found subdomains (history)|
 
 
 ## Statistics
@@ -45,4 +45,5 @@ tags: dutchgov
 |[http://test.volksgezondheidenzorg.info](http://test.volksgezondheidenzorg.info)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://www.volksgezondheidenzorg.info](https://www.volksgezondheidenzorg.info)| | **A**|Apache| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS|301 Moved Perman...|
 |[https://volksgezondheidenzorg.info](https://volksgezondheidenzorg.info)| | **A**|Apache| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS|301 Moved Perman...|
+|[http://localhost.volksgezondheidenzorg.info](http://localhost.volksgezondheidenzorg.info)| | **D**|nginx| | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Nginx|Welcome to nginx...|
 

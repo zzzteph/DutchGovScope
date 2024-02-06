@@ -42,3 +42,13 @@ wachtwoordreset.vallei-veluwe.nl
 www.wachtwoordreset.vallei-veluwe.nl
 mx2.vallei-veluwe.nl
 traps.vallei-veluwe.nl
+auth.vallei-veluwe.nl
+enterpriseenrollment.vallei-veluwe.nl
+enterpriseregistration.vallei-veluwe.nl
+geotest.vallei-veluwe.nl
+geo.vallei-veluwe.nl
+omi.vallei-veluwe.nl
+rds.vallei-veluwe.nl
+protect.vallei-veluwe.nl
+vdi.vallei-veluwe.nl
+gisib.vallei-veluwe.nl

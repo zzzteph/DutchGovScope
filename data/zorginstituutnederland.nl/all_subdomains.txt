@@ -27,3 +27,13 @@ magazines.english.zorginstituutnederland.nl
 magazines.zorginstituutnederland.nl
 www-ac.buitenland.zorginstituutnederland.nl
 glossarium.zorginstituutnederland.nl
+a-english.zorginstituutnederland.nl
+a-feeds.a-english.zorginstituutnederland.nl
+a-feeds.zorginstituutnederland.nl
+a-opendata.a-english.zorginstituutnederland.nl
+a-opendata.zorginstituutnederland.nl
+a-www.zorginstituutnederland.nl
+ra1.zorginstituutnederland.nl
+ra2.zorginstituutnederland.nl
+www-ow.zorginstituutnederland.nl
+www-ts.zorginstituutnederland.nl

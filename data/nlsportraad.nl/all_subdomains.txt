@@ -1,3 +1,6 @@
 nlsportraad.nl
 www.nlsportraad.nl
 mailings.nlsportraad.nl
+link.nlsportraad.nl
+sdm.nlsportraad.nl
+sip.nlsportraad.nl

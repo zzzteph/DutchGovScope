@@ -4,3 +4,6 @@ postergenerator.puurrookvrij.nl
 www.puurrookvrij.nl
 server01.puurrookvrij.nl
 puurrookvrij.nl
+a-opendata.puurrookvrij.nl
+a-www.puurrookvrij.nl
+a-feeds.puurrookvrij.nl

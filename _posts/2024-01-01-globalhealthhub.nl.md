@@ -2,8 +2,8 @@
 layout: default
 title: "globalhealthhub.nl"
 permalink: "/dutchgov/globalhealthhub.nl.html"
-subdomains_count: 7
-all_subdomains_count: 7
+subdomains_count: 12
+all_subdomains_count: 12
 urls_count: 7
 ssl_rank: 
 http_rank: A
@@ -27,9 +27,9 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/globalhealthhub.nl/subdomains.txt)|7|Alive subdomains|
+|[subdomains.txt](/DutchGovScope/data/globalhealthhub.nl/subdomains.txt)|12|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/globalhealthhub.nl/urls.txt)|7|Urls|
-|[all_subdomains.txt](/DutchGovScope/data/globalhealthhub.nl/all_subdomains.txt)|7|All found subdomains (history)|
+|[all_subdomains.txt](/DutchGovScope/data/globalhealthhub.nl/all_subdomains.txt)|12|All found subdomains (history)|
 
 
 ## Statistics

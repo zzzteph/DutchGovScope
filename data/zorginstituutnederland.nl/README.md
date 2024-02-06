@@ -11,9 +11,9 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/zorginstituutnederland.nl/subdomains.txt)|14|Alive subdomains|
+|[subdomains.txt](/data/zorginstituutnederland.nl/subdomains.txt)|24|Alive subdomains|
 |[urls.txt](/data/zorginstituutnederland.nl/urls.txt)|11|Urls|
-|[all_subdomains.txt](/data/zorginstituutnederland.nl/all_subdomains.txt)|29|All found subdomains (history)|
+|[all_subdomains.txt](/data/zorginstituutnederland.nl/all_subdomains.txt)|39|All found subdomains (history)|
 
 
 ## Statistics

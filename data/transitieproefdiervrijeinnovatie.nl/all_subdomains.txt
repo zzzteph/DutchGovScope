@@ -9,3 +9,9 @@ english.transitieproefdiervrijeinnovatie.nl
 feeds.english.transitieproefdiervrijeinnovatie.nl
 magazines.english.transitieproefdiervrijeinnovatie.nl
 magazinesintern.english.transitieproefdiervrijeinnovatie.nl
+a-feeds.transitieproefdiervrijeinnovatie.nl
+a-opendata.transitieproefdiervrijeinnovatie.nl
+a-www.transitieproefdiervrijeinnovatie.nl
+i-www.transitieproefdiervrijeinnovatie.nl
+o-www.transitieproefdiervrijeinnovatie.nl
+t-www.transitieproefdiervrijeinnovatie.nl

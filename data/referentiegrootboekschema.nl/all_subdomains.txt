@@ -7,3 +7,5 @@ referentiegrootboekschema.nl
 www.test-dictu.referentiegrootboekschema.nl
 www.acc-dictu.referentiegrootboekschema.nl
 ww.referentiegrootboekschema.nl
+acceptatie.referentiegrootboekschema.nl
+ftp.referentiegrootboekschema.nl

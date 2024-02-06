@@ -33,3 +33,7 @@ sync.ssonet.nl
 schoolleidersregistervo.ssonet.nl
 kk4-rksdns2.ssonet.nl
 empic.ssonet.nl
+localhost.ssonet.nl
+prime.ssonet.nl
+systeembeheer.ssonet.nl
+webmessenger.ssonet.nl

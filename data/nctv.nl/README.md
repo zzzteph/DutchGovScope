@@ -11,8 +11,8 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/nctv.nl/subdomains.txt)|26|Alive subdomains|
-|[urls.txt](/data/nctv.nl/urls.txt)|22|Urls|
+|[subdomains.txt](/data/nctv.nl/subdomains.txt)|32|Alive subdomains|
+|[urls.txt](/data/nctv.nl/urls.txt)|23|Urls|
 |[all_subdomains.txt](/data/nctv.nl/all_subdomains.txt)|49|All found subdomains (history)|
 
 
@@ -43,4 +43,5 @@
 |[https://nctv.nl](https://nctv.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
 |[https://dev.kennisbankterrorisme.nctv.nl](https://dev.kennisbankterrorisme.nctv.nl)| | **F**|Apache/2| | | | | | | | :white_check_mark: | |Apache HTTP Server:2|dev.kennisbankte...|
 |[https://dev.cbrnsecurity.nctv.nl](https://dev.cbrnsecurity.nctv.nl)| | **F**|Apache/2| | | | | | | | :white_check_mark: | |Apache HTTP Server:2||
+|[https://elearning-lcp-egt.nctv.nl](https://elearning-lcp-egt.nctv.nl)| | **F**|Apache/2| | | | | | | | :white_check_mark: | |Apache HTTP Server:2|Online module: L...|
 

@@ -59,3 +59,4 @@ qa-client.opentext.rvig.nl
 vid.vidpilot.idm.rvig.nl
 produ.opentext.rvig.nl
 magazines.english.rvig.nl
+mail2.rvig.nl

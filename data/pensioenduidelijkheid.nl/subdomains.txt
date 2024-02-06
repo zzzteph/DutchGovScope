@@ -2,3 +2,6 @@ www.pensioenduidelijkheid.nl
 pensioenduidelijkheid.nl
 feeds.pensioenduidelijkheid.nl
 opendata.pensioenduidelijkheid.nl
+a-feeds.pensioenduidelijkheid.nl
+a-opendata.pensioenduidelijkheid.nl
+a-www.pensioenduidelijkheid.nl

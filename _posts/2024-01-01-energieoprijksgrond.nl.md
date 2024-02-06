@@ -3,7 +3,7 @@ layout: default
 title: "energieoprijksgrond.nl"
 permalink: "/dutchgov/energieoprijksgrond.nl.html"
 subdomains_count: 2
-all_subdomains_count: 11
+all_subdomains_count: 12
 urls_count: 2
 ssl_rank: 
 http_rank: A
@@ -29,7 +29,7 @@ tags: dutchgov
 |------------|-------|------|
 |[subdomains.txt](/DutchGovScope/data/energieoprijksgrond.nl/subdomains.txt)|2|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/energieoprijksgrond.nl/urls.txt)|2|Urls|
-|[all_subdomains.txt](/DutchGovScope/data/energieoprijksgrond.nl/all_subdomains.txt)|11|All found subdomains (history)|
+|[all_subdomains.txt](/DutchGovScope/data/energieoprijksgrond.nl/all_subdomains.txt)|12|All found subdomains (history)|
 
 
 ## Statistics

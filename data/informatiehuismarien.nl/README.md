@@ -13,7 +13,7 @@
 |------------|-------|------|
 |[subdomains.txt](/data/informatiehuismarien.nl/subdomains.txt)|2|Alive subdomains|
 |[urls.txt](/data/informatiehuismarien.nl/urls.txt)|2|Urls|
-|[all_subdomains.txt](/data/informatiehuismarien.nl/all_subdomains.txt)|2|All found subdomains (history)|
+|[all_subdomains.txt](/data/informatiehuismarien.nl/all_subdomains.txt)|5|All found subdomains (history)|
 
 
 ## Statistics

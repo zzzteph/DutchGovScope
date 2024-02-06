@@ -9,3 +9,6 @@ app.nl-alert.nl
 lms.opleiding.nl-alert.nl
 lms.prod.nl-alert.nl
 lms.test.nl-alert.nl
+a-feeds.nl-alert.nl
+a-opendata.nl-alert.nl
+a-www.nl-alert.nl

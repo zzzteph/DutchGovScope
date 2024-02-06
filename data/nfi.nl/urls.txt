@@ -10,3 +10,4 @@ https://anyconnect.nfi.nl
 https://hybrid.nfi.nl
 https://mailtestmijn.nfi.nl
 https://autodiscover.nfi.nl
+http://pm-bounces.nfi.nl

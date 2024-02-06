@@ -5,15 +5,15 @@
 
 
  - **SSL Grade**:
- - **HTTP Security Grade**:A
+ - **HTTP Security Grade**:B
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:9
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/rekenkamer.nl/subdomains.txt)|22|Alive subdomains|
-|[urls.txt](/data/rekenkamer.nl/urls.txt)|10|Urls|
-|[all_subdomains.txt](/data/rekenkamer.nl/all_subdomains.txt)|74|All found subdomains (history)|
+|[subdomains.txt](/data/rekenkamer.nl/subdomains.txt)|25|Alive subdomains|
+|[urls.txt](/data/rekenkamer.nl/urls.txt)|12|Urls|
+|[all_subdomains.txt](/data/rekenkamer.nl/all_subdomains.txt)|77|All found subdomains (history)|
 
 
 ## Statistics
@@ -31,4 +31,6 @@
 |[https://www.rekenkamer.nl](https://www.rekenkamer.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Home | Algemene...|
 |[https://fileshare.rekenkamer.nl](https://fileshare.rekenkamer.nl)| | **A**|| |:white_check_mark: | | |:warning: | | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://werkplek.rekenkamer.nl](https://werkplek.rekenkamer.nl)| | **D**||:warning: | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Microsoft ASP.NET||
+|[https://enterpriseenrollment.rekenkamer.nl](https://enterpriseenrollment.rekenkamer.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||
+|[https://enterpriseregistration.rekenkamer.nl](https://enterpriseregistration.rekenkamer.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 

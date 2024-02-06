@@ -2,7 +2,7 @@
 layout: default
 title: "postedworkers.nl"
 permalink: "/dutchgov/postedworkers.nl.html"
-subdomains_count: 17
+subdomains_count: 23
 all_subdomains_count: 29
 urls_count: 14
 ssl_rank: 
@@ -27,7 +27,7 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/postedworkers.nl/subdomains.txt)|17|Alive subdomains|
+|[subdomains.txt](/DutchGovScope/data/postedworkers.nl/subdomains.txt)|23|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/postedworkers.nl/urls.txt)|14|Urls|
 |[all_subdomains.txt](/DutchGovScope/data/postedworkers.nl/all_subdomains.txt)|29|All found subdomains (history)|
 

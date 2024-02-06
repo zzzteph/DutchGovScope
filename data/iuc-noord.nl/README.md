@@ -11,9 +11,9 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/iuc-noord.nl/subdomains.txt)|5|Alive subdomains|
+|[subdomains.txt](/data/iuc-noord.nl/subdomains.txt)|6|Alive subdomains|
 |[urls.txt](/data/iuc-noord.nl/urls.txt)|2|Urls|
-|[all_subdomains.txt](/data/iuc-noord.nl/all_subdomains.txt)|6|All found subdomains (history)|
+|[all_subdomains.txt](/data/iuc-noord.nl/all_subdomains.txt)|7|All found subdomains (history)|
 
 
 ## Statistics

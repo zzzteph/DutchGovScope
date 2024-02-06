@@ -8,3 +8,5 @@ https://opendata.rekenkamer.nl
 https://www.rekenkamer.nl
 https://fileshare.rekenkamer.nl
 https://werkplek.rekenkamer.nl
+https://enterpriseenrollment.rekenkamer.nl
+https://enterpriseregistration.rekenkamer.nl

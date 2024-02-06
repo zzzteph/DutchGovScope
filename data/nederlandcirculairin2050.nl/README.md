@@ -11,7 +11,7 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/nederlandcirculairin2050.nl/subdomains.txt)|4|Alive subdomains|
+|[subdomains.txt](/data/nederlandcirculairin2050.nl/subdomains.txt)|6|Alive subdomains|
 |[urls.txt](/data/nederlandcirculairin2050.nl/urls.txt)|4|Urls|
 |[all_subdomains.txt](/data/nederlandcirculairin2050.nl/all_subdomains.txt)|6|All found subdomains (history)|
 

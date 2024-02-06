@@ -11,9 +11,9 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/hogeraad.nl/subdomains.txt)|26|Alive subdomains|
+|[subdomains.txt](/data/hogeraad.nl/subdomains.txt)|27|Alive subdomains|
 |[urls.txt](/data/hogeraad.nl/urls.txt)|20|Urls|
-|[all_subdomains.txt](/data/hogeraad.nl/all_subdomains.txt)|68|All found subdomains (history)|
+|[all_subdomains.txt](/data/hogeraad.nl/all_subdomains.txt)|69|All found subdomains (history)|
 
 
 ## Statistics

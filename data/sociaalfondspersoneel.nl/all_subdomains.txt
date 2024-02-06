@@ -2,3 +2,5 @@ feeds.sociaalfondspersoneel.nl
 opendata.sociaalfondspersoneel.nl
 sociaalfondspersoneel.nl
 www.sociaalfondspersoneel.nl
+a-feeds.sociaalfondspersoneel.nl
+a-www.sociaalfondspersoneel.nl

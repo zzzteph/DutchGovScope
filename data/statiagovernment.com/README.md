@@ -11,9 +11,9 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/statiagovernment.com/subdomains.txt)|4|Alive subdomains|
+|[subdomains.txt](/data/statiagovernment.com/subdomains.txt)|7|Alive subdomains|
 |[urls.txt](/data/statiagovernment.com/urls.txt)|4|Urls|
-|[all_subdomains.txt](/data/statiagovernment.com/all_subdomains.txt)|9|All found subdomains (history)|
+|[all_subdomains.txt](/data/statiagovernment.com/all_subdomains.txt)|12|All found subdomains (history)|
 
 
 ## Statistics

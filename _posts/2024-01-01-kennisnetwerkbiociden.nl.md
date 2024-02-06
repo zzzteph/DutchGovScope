@@ -3,7 +3,7 @@ layout: default
 title: "kennisnetwerkbiociden.nl"
 permalink: "/dutchgov/kennisnetwerkbiociden.nl.html"
 subdomains_count: 2
-all_subdomains_count: 2
+all_subdomains_count: 3
 urls_count: 2
 ssl_rank: 
 http_rank: A
@@ -29,7 +29,7 @@ tags: dutchgov
 |------------|-------|------|
 |[subdomains.txt](/DutchGovScope/data/kennisnetwerkbiociden.nl/subdomains.txt)|2|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/kennisnetwerkbiociden.nl/urls.txt)|2|Urls|
-|[all_subdomains.txt](/DutchGovScope/data/kennisnetwerkbiociden.nl/all_subdomains.txt)|2|All found subdomains (history)|
+|[all_subdomains.txt](/DutchGovScope/data/kennisnetwerkbiociden.nl/all_subdomains.txt)|3|All found subdomains (history)|
 
 
 ## Statistics

@@ -3,3 +3,5 @@ www.waardigheidentrots.nl
 portaal.waardigheidentrots.nl
 waardigheidentrots.nl
 archief.waardigheidentrots.nl
+api.waardigheidentrots.nl
+cms.waardigheidentrots.nl

@@ -13,7 +13,7 @@
 |------------|-------|------|
 |[subdomains.txt](/data/signalenleefomgeving.nl/subdomains.txt)|2|Alive subdomains|
 |[urls.txt](/data/signalenleefomgeving.nl/urls.txt)|2|Urls|
-|[all_subdomains.txt](/data/signalenleefomgeving.nl/all_subdomains.txt)|2|All found subdomains (history)|
+|[all_subdomains.txt](/data/signalenleefomgeving.nl/all_subdomains.txt)|3|All found subdomains (history)|
 
 
 ## Statistics

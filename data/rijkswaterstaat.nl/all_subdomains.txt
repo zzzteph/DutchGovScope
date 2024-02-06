@@ -652,3 +652,6 @@ bas.intranet.rijkswaterstaat.nl
 opleiding.fmis.intranet.rijkswaterstaat.nl
 www.sign.openam.rijkswaterstaat.nl
 acc-werkplek.rijkswaterstaat.nl
+acceptatie.rijkswaterstaat.nl
+wifi1.rijkswaterstaat.nl
+wifi2.rijkswaterstaat.nl

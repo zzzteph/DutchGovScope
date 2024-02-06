@@ -21,3 +21,13 @@ widscan-acc.minienw.nl
 adresgids.minienw.nl
 widscan.minienw.nl
 adresgids2.minienw.nl
+cms.minienw.nl
+csp.minienw.nl
+e-learning.minienw.nl
+imagine.minienw.nl
+rijksoverheid.minienw.nl
+web.minienw.nl
+intra.minienw.nl
+isms.minienw.nl
+leerportaal.minienw.nl
+localhost.minienw.nl

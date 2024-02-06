@@ -7,3 +7,4 @@ test-dictu.digitoegankelijk.nl
 www.digitoegankelijk.nl
 digitoegankelijk.nl
 dashboard-keten.digitoegankelijk.nl
+monitor.digitoegankelijk.nl

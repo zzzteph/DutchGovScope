@@ -8,3 +8,6 @@ magazines.english.toetsingscommissievp.nl
 opendata.english.toetsingscommissievp.nl
 magazinesintern.toetsingscommissievp.nl
 magazines.toetsingscommissievp.nl
+a-feeds.toetsingscommissievp.nl
+a-opendata.toetsingscommissievp.nl
+a-www.toetsingscommissievp.nl

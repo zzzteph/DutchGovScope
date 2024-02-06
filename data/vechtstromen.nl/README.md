@@ -11,9 +11,9 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/vechtstromen.nl/subdomains.txt)|40|Alive subdomains|
+|[subdomains.txt](/data/vechtstromen.nl/subdomains.txt)|49|Alive subdomains|
 |[urls.txt](/data/vechtstromen.nl/urls.txt)|30|Urls|
-|[all_subdomains.txt](/data/vechtstromen.nl/all_subdomains.txt)|87|All found subdomains (history)|
+|[all_subdomains.txt](/data/vechtstromen.nl/all_subdomains.txt)|96|All found subdomains (history)|
 
 
 ## Statistics

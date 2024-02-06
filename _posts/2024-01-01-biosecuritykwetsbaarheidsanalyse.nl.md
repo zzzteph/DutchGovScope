@@ -3,7 +3,7 @@ layout: default
 title: "biosecuritykwetsbaarheidsanalyse.nl"
 permalink: "/dutchgov/biosecuritykwetsbaarheidsanalyse.nl.html"
 subdomains_count: 2
-all_subdomains_count: 3
+all_subdomains_count: 4
 urls_count: 2
 ssl_rank: 
 http_rank: C
@@ -29,7 +29,7 @@ tags: dutchgov
 |------------|-------|------|
 |[subdomains.txt](/DutchGovScope/data/biosecuritykwetsbaarheidsanalyse.nl/subdomains.txt)|2|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/biosecuritykwetsbaarheidsanalyse.nl/urls.txt)|2|Urls|
-|[all_subdomains.txt](/DutchGovScope/data/biosecuritykwetsbaarheidsanalyse.nl/all_subdomains.txt)|3|All found subdomains (history)|
+|[all_subdomains.txt](/DutchGovScope/data/biosecuritykwetsbaarheidsanalyse.nl/all_subdomains.txt)|4|All found subdomains (history)|
 
 
 ## Statistics

@@ -1,0 +1,2 @@
+autodiscover.beheerrijksoverheid.nl
+test.beheerrijksoverheid.nl

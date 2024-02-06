@@ -11,9 +11,9 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/zorgaanbiedersportaal.nl/subdomains.txt)|18|Alive subdomains|
-|[urls.txt](/data/zorgaanbiedersportaal.nl/urls.txt)|18|Urls|
-|[all_subdomains.txt](/data/zorgaanbiedersportaal.nl/all_subdomains.txt)|21|All found subdomains (history)|
+|[subdomains.txt](/data/zorgaanbiedersportaal.nl/subdomains.txt)|20|Alive subdomains|
+|[urls.txt](/data/zorgaanbiedersportaal.nl/urls.txt)|20|Urls|
+|[all_subdomains.txt](/data/zorgaanbiedersportaal.nl/all_subdomains.txt)|23|All found subdomains (history)|
 
 
 ## Statistics
@@ -39,4 +39,6 @@
 |[https://acceptatie.zoeken.zorgaanbiedersportaal.nl](https://acceptatie.zoeken.zorgaanbiedersportaal.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://zoeken.zorgaanbiedersportaal.nl](https://zoeken.zorgaanbiedersportaal.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Zorgaanbiederspo...|
 |[https://acceptatie.mijn.locatieregister.zorgaanbiedersportaal.nl](https://acceptatie.mijn.locatieregister.zorgaanbiedersportaal.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
+|[https://acceptatie.api.zorgaanbiedersportaal.nl](https://acceptatie.api.zorgaanbiedersportaal.nl)| | **F**|-| | | | | | | | :white_check_mark: | |HSTS||
+|[http://api.zorgaanbiedersportaal.nl](http://api.zorgaanbiedersportaal.nl)| | **F**|BigIP| | | | | | | | :white_check_mark: | |F5 BigIP||
 

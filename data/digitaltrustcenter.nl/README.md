@@ -11,9 +11,9 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/digitaltrustcenter.nl/subdomains.txt)|6|Alive subdomains|
+|[subdomains.txt](/data/digitaltrustcenter.nl/subdomains.txt)|7|Alive subdomains|
 |[urls.txt](/data/digitaltrustcenter.nl/urls.txt)|6|Urls|
-|[all_subdomains.txt](/data/digitaltrustcenter.nl/all_subdomains.txt)|16|All found subdomains (history)|
+|[all_subdomains.txt](/data/digitaltrustcenter.nl/all_subdomains.txt)|17|All found subdomains (history)|
 
 
 ## Statistics

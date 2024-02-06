@@ -13,7 +13,7 @@
 |------------|-------|------|
 |[subdomains.txt](/data/bestrijdingsmiddelen-omwonenden.nl/subdomains.txt)|2|Alive subdomains|
 |[urls.txt](/data/bestrijdingsmiddelen-omwonenden.nl/urls.txt)|2|Urls|
-|[all_subdomains.txt](/data/bestrijdingsmiddelen-omwonenden.nl/all_subdomains.txt)|2|All found subdomains (history)|
+|[all_subdomains.txt](/data/bestrijdingsmiddelen-omwonenden.nl/all_subdomains.txt)|3|All found subdomains (history)|
 
 
 ## Statistics

@@ -85,7 +85,6 @@ monitoromgevingsbeleid.provincie-utrecht.nl
 omgevingsbeleid.provincie-utrecht.nl
 zsd.provincie-utrecht.nl
 ib.provincie-utrecht.nl
-portal.provincie-utrecht.nl
 sap-crma.provincie-utrecht.nl
 sap-crmo.provincie-utrecht.nl
 scan.provincie-utrecht.nl
@@ -102,3 +101,12 @@ wortel175.tstweb.provincie-utrecht.nl
 wortel175.wwwcms.provincie-utrecht.nl
 wortel176.tst.provincie-utrecht.nl
 nnnwijzer.provincie-utrecht.nl
+govroam.provincie-utrecht.nl
+iapp.provincie-utrecht.nl
+mfa.provincie-utrecht.nl
+autodiscover.provincie-utrecht.nl
+burgemeesters.provincie-utrecht.nl
+ris.provincie-utrecht.nl
+hth.provincie-utrecht.nl
+imap.provincie-utrecht.nl
+localhost.provincie-utrecht.nl

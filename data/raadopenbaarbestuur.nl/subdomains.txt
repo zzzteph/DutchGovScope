@@ -9,3 +9,4 @@ a-www.raadopenbaarbestuur.nl
 forum.raadopenbaarbestuur.nl
 sdm.raadopenbaarbestuur.nl
 sip.raadopenbaarbestuur.nl
+discussie.raadopenbaarbestuur.nl

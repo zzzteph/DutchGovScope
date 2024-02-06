@@ -11,9 +11,9 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/rcgog.nl/subdomains.txt)|5|Alive subdomains|
+|[subdomains.txt](/data/rcgog.nl/subdomains.txt)|8|Alive subdomains|
 |[urls.txt](/data/rcgog.nl/urls.txt)|4|Urls|
-|[all_subdomains.txt](/data/rcgog.nl/all_subdomains.txt)|5|All found subdomains (history)|
+|[all_subdomains.txt](/data/rcgog.nl/all_subdomains.txt)|8|All found subdomains (history)|
 
 
 ## Statistics

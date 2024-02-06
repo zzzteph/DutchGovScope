@@ -20,3 +20,6 @@ a-magazinesintern.pulsefishing.eu
 a-magazines.pulsefishing.eu
 a-opendata.a-english.pulsefishing.eu
 prod.pulsefishing.eu
+i-www.pulsefishing.eu
+o-www.pulsefishing.eu
+t-www.pulsefishing.eu

@@ -45,3 +45,11 @@ vtrack-acc.nvwa.nl
 vtrack.nvwa.nl
 sip.nvwa.nl
 lyncdiscover.nvwa.nl
+a-opendata.nvwa.nl
+a-english.nvwa.nl
+a-feeds.a-english.nvwa.nl
+a-feeds.nvwa.nl
+a-magazines.nvwa.nl
+a-magazinesintern.nvwa.nl
+a-opendata.a-english.nvwa.nl
+service.nvwa.nl

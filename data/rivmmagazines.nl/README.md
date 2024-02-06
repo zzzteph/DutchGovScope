@@ -13,7 +13,7 @@
 |------------|-------|------|
 |[subdomains.txt](/data/rivmmagazines.nl/subdomains.txt)|3|Alive subdomains|
 |[urls.txt](/data/rivmmagazines.nl/urls.txt)|3|Urls|
-|[all_subdomains.txt](/data/rivmmagazines.nl/all_subdomains.txt)|3|All found subdomains (history)|
+|[all_subdomains.txt](/data/rivmmagazines.nl/all_subdomains.txt)|5|All found subdomains (history)|
 
 
 ## Statistics

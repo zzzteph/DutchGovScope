@@ -13,7 +13,7 @@
 |------------|-------|------|
 |[subdomains.txt](/data/dictumagazines.nl/subdomains.txt)|3|Alive subdomains|
 |[urls.txt](/data/dictumagazines.nl/urls.txt)|2|Urls|
-|[all_subdomains.txt](/data/dictumagazines.nl/all_subdomains.txt)|8|All found subdomains (history)|
+|[all_subdomains.txt](/data/dictumagazines.nl/all_subdomains.txt)|11|All found subdomains (history)|
 
 
 ## Statistics

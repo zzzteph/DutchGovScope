@@ -72,3 +72,14 @@ backbone.ndw.nu
 dvmservices.ndw.nu
 opendata-ref.ndw.nu
 stats.ndw.nu
+a-english.ndw.nu
+a-feeds.a-english.ndw.nu
+a-feeds.ndw.nu
+a-opendata.a-english.ndw.nu
+a-www.ndw.nu
+admin.ndw.nu
+data-staging.ndw.nu
+docs.staging.ndw.nu
+mijn.staging.ndw.nu
+extranet.ndw.nu
+mail.ndw.nu

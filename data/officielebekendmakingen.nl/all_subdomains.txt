@@ -61,3 +61,6 @@ www-acc.officielebekendmakingen.nl
 beheersite-op-tst.officielebekendmakingen.nl
 www.preprod.officielebekendmakingen.nl
 cs-kabs-tst-trunk.officielebekendmakingen.nl
+bestanden.officielebekendmakingen.nl
+localhost.officielebekendmakingen.nl
+servicedesk.officielebekendmakingen.nl

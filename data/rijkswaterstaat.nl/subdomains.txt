@@ -121,3 +121,6 @@ vpr.rijkswaterstaat.nl
 werkenbij.api.rijkswaterstaat.nl
 www1.rijkswaterstaat.nl
 alliant.rijkswaterstaat.nl
+acceptatie.rijkswaterstaat.nl
+wifi1.rijkswaterstaat.nl
+wifi2.rijkswaterstaat.nl

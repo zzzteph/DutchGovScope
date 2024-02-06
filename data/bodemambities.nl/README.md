@@ -13,7 +13,7 @@
 |------------|-------|------|
 |[subdomains.txt](/data/bodemambities.nl/subdomains.txt)|3|Alive subdomains|
 |[urls.txt](/data/bodemambities.nl/urls.txt)|3|Urls|
-|[all_subdomains.txt](/data/bodemambities.nl/all_subdomains.txt)|5|All found subdomains (history)|
+|[all_subdomains.txt](/data/bodemambities.nl/all_subdomains.txt)|6|All found subdomains (history)|
 
 
 ## Statistics

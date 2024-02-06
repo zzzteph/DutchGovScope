@@ -2,3 +2,6 @@ feeds.rijksbredekennisagenda.nl
 opendata.rijksbredekennisagenda.nl
 www.rijksbredekennisagenda.nl
 rijksbredekennisagenda.nl
+a-feeds.rijksbredekennisagenda.nl
+a-opendata.rijksbredekennisagenda.nl
+a-www.rijksbredekennisagenda.nl

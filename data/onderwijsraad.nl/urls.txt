@@ -6,3 +6,6 @@ https://extranet.onderwijsraad.nl
 https://pushmail.onderwijsraad.nl
 https://www.onderwijsraad.nl
 https://onderwijsraad.nl
+https://ts2.onderwijsraad.nl
+https://webmail.onderwijsraad.nl
+https://webhook.onderwijsraad.nl

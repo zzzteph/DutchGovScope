@@ -11,9 +11,9 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/scp.nl/subdomains.txt)|27|Alive subdomains|
+|[subdomains.txt](/data/scp.nl/subdomains.txt)|34|Alive subdomains|
 |[urls.txt](/data/scp.nl/urls.txt)|20|Urls|
-|[all_subdomains.txt](/data/scp.nl/all_subdomains.txt)|51|All found subdomains (history)|
+|[all_subdomains.txt](/data/scp.nl/all_subdomains.txt)|58|All found subdomains (history)|
 
 
 ## Statistics

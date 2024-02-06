@@ -2,3 +2,4 @@ magazines.openbaarministerie.nl
 www.openbaarministerie.nl
 openbaarministerie.nl
 a-magazines.openbaarministerie.nl
+redactie.openbaarministerie.nl

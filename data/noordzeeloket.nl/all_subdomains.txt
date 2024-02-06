@@ -2,3 +2,4 @@ windmolensopzee.noordzeeloket.nl
 www.noordzeeloket.nl
 noordzeeloket.nl
 staging.noordzeeloket.nl
+management.noordzeeloket.nl

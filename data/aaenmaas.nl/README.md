@@ -11,9 +11,9 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/aaenmaas.nl/subdomains.txt)|19|Alive subdomains|
+|[subdomains.txt](/data/aaenmaas.nl/subdomains.txt)|35|Alive subdomains|
 |[urls.txt](/data/aaenmaas.nl/urls.txt)|16|Urls|
-|[all_subdomains.txt](/data/aaenmaas.nl/all_subdomains.txt)|58|All found subdomains (history)|
+|[all_subdomains.txt](/data/aaenmaas.nl/all_subdomains.txt)|74|All found subdomains (history)|
 
 
 ## Statistics
@@ -21,7 +21,7 @@
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[http://www.aaenmaas.nl](http://www.aaenmaas.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Microsoft ASP.NET:-|Object moved|
+|[https://www.aaenmaas.nl](https://www.aaenmaas.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Google Tag Manager HSTS Microsoft ASP.NET:-|Home - Waterscha...|
 |[https://helloid.aaenmaas.nl](https://helloid.aaenmaas.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |Azure HSTS|Object moved|
 |[https://lync.aaenmaas.nl](https://lync.aaenmaas.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|403 - Forbidden:...|
 |[https://maps.aaenmaas.nl](https://maps.aaenmaas.nl)| | **A**|Apache/2.4.57 (Win64) OpenSSL/3.1.2| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server:2.4.57 OpenSSL:3.1.2 Windows Server|302 Found|

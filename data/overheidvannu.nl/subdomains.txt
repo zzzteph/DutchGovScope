@@ -3,3 +3,7 @@ magazines.overheidvannu.nl
 opendata.overheidvannu.nl
 www.overheidvannu.nl
 overheidvannu.nl
+a-feeds.overheidvannu.nl
+a-magazines.overheidvannu.nl
+a-opendata.overheidvannu.nl
+a-www.overheidvannu.nl

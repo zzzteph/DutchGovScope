@@ -11,9 +11,9 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/tib-ivd.nl/subdomains.txt)|8|Alive subdomains|
+|[subdomains.txt](/data/tib-ivd.nl/subdomains.txt)|14|Alive subdomains|
 |[urls.txt](/data/tib-ivd.nl/urls.txt)|4|Urls|
-|[all_subdomains.txt](/data/tib-ivd.nl/all_subdomains.txt)|15|All found subdomains (history)|
+|[all_subdomains.txt](/data/tib-ivd.nl/all_subdomains.txt)|21|All found subdomains (history)|
 
 
 ## Statistics

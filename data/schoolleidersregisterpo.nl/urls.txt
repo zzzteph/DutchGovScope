@@ -5,3 +5,5 @@ https://www.schoolleidersregisterpo.nl
 http://autodiscover.schoolleidersregisterpo.nl
 http://ftp.schoolleidersregisterpo.nl
 https://schoolleidersregisterpo.nl
+https://enterpriseenrollment.schoolleidersregisterpo.nl
+https://enterpriseregistration.schoolleidersregisterpo.nl

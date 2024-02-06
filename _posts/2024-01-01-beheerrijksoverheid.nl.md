@@ -2,8 +2,8 @@
 layout: default
 title: "beheerrijksoverheid.nl"
 permalink: "/dutchgov/beheerrijksoverheid.nl.html"
-subdomains_count: 0
-all_subdomains_count: 2
+subdomains_count: 2
+all_subdomains_count: 4
 urls_count: 0
 ssl_rank: 
 http_rank: F
@@ -27,9 +27,9 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/beheerrijksoverheid.nl/subdomains.txt)|0|Alive subdomains|
+|[subdomains.txt](/DutchGovScope/data/beheerrijksoverheid.nl/subdomains.txt)|2|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/beheerrijksoverheid.nl/urls.txt)|0|Urls|
-|[all_subdomains.txt](/DutchGovScope/data/beheerrijksoverheid.nl/all_subdomains.txt)|2|All found subdomains (history)|
+|[all_subdomains.txt](/DutchGovScope/data/beheerrijksoverheid.nl/all_subdomains.txt)|4|All found subdomains (history)|
 
 
 ## Statistics

@@ -226,3 +226,9 @@ risicodatabase.rws.nl
 wiki-intern.rws.nl
 acceptatie.nlhull.rws.nl
 relay-2s.rws.nl
+access.rws.nl
+bnc3.rws.nl
+enterpriseenrollment.rws.nl
+lims.rws.nl
+securelogin.rws.nl
+webcon.rws.nl

@@ -7,3 +7,4 @@ webdisk.hulpmiddelenzorg.nl
 webmail.hulpmiddelenzorg.nl
 cpcalendars.hulpmiddelenzorg.nl
 cpanel.hulpmiddelenzorg.nl
+autodiscover.hulpmiddelenzorg.nl

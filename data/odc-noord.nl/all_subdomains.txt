@@ -227,3 +227,8 @@ sp-acc.confluence.odc-noord.nl
 pp.odc-noord.nl
 git1.minions.odc-noord.nl
 ntp3.odc-noord.nl
+acc.odc-noord.nl
+ns.odc-noord.nl
+ns01.odc-noord.nl
+ns02.odc-noord.nl
+s2s.odc-noord.nl

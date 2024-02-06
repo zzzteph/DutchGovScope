@@ -15,3 +15,7 @@ wwwold.rijksacademie.nl
 swr.rijksacademie.nl
 inschrijven.rijksacademie.nl
 members.rijksacademie.nl
+a-feeds.rijksacademie.nl
+a-opendata.rijksacademie.nl
+a-www.rijksacademie.nl
+autodiscover.rijksacademie.nl

@@ -11,9 +11,9 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/veiligtatoeerenenpiercen.nl/subdomains.txt)|2|Alive subdomains|
+|[subdomains.txt](/data/veiligtatoeerenenpiercen.nl/subdomains.txt)|3|Alive subdomains|
 |[urls.txt](/data/veiligtatoeerenenpiercen.nl/urls.txt)|2|Urls|
-|[all_subdomains.txt](/data/veiligtatoeerenenpiercen.nl/all_subdomains.txt)|2|All found subdomains (history)|
+|[all_subdomains.txt](/data/veiligtatoeerenenpiercen.nl/all_subdomains.txt)|3|All found subdomains (history)|
 
 
 ## Statistics

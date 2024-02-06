@@ -2,8 +2,8 @@
 layout: default
 title: "zorginstituutnederland.nl"
 permalink: "/dutchgov/zorginstituutnederland.nl.html"
-subdomains_count: 14
-all_subdomains_count: 29
+subdomains_count: 24
+all_subdomains_count: 39
 urls_count: 11
 ssl_rank: 
 http_rank: A
@@ -27,9 +27,9 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/zorginstituutnederland.nl/subdomains.txt)|14|Alive subdomains|
+|[subdomains.txt](/DutchGovScope/data/zorginstituutnederland.nl/subdomains.txt)|24|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/zorginstituutnederland.nl/urls.txt)|11|Urls|
-|[all_subdomains.txt](/DutchGovScope/data/zorginstituutnederland.nl/all_subdomains.txt)|29|All found subdomains (history)|
+|[all_subdomains.txt](/DutchGovScope/data/zorginstituutnederland.nl/all_subdomains.txt)|39|All found subdomains (history)|
 
 
 ## Statistics

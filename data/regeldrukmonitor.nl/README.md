@@ -11,9 +11,9 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/regeldrukmonitor.nl/subdomains.txt)|4|Alive subdomains|
+|[subdomains.txt](/data/regeldrukmonitor.nl/subdomains.txt)|10|Alive subdomains|
 |[urls.txt](/data/regeldrukmonitor.nl/urls.txt)|4|Urls|
-|[all_subdomains.txt](/data/regeldrukmonitor.nl/all_subdomains.txt)|4|All found subdomains (history)|
+|[all_subdomains.txt](/data/regeldrukmonitor.nl/all_subdomains.txt)|10|All found subdomains (history)|
 
 
 ## Statistics

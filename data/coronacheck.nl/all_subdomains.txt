@@ -109,3 +109,4 @@ www.provider.coronacheck.nl
 www.helpdesk.coronacheck.nl
 www.external-api.coronacheck.nl
 www.external-api.acc.coronacheck.nl
+api-test.coronacheck.nl

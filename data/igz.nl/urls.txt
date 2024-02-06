@@ -1,3 +1,4 @@
 https://www.igz.nl
 https://igz.nl
 https://onderhoud.igz.nl
+http://localhost.igz.nl

@@ -2,3 +2,6 @@ feeds.wordtaakstrafbegeleider.nl
 opendata.wordtaakstrafbegeleider.nl
 www.wordtaakstrafbegeleider.nl
 wordtaakstrafbegeleider.nl
+a-opendata.wordtaakstrafbegeleider.nl
+a-www.wordtaakstrafbegeleider.nl
+a-feeds.wordtaakstrafbegeleider.nl

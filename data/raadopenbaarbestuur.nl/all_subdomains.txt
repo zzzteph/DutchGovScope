@@ -23,3 +23,4 @@ a-magazines.raadopenbaarbestuur.nl
 feeds.english.raadopenbaarbestuur.nl
 opendata.english.raadopenbaarbestuur.nl
 a-english.raadopenbaarbestuur.nl
+discussie.raadopenbaarbestuur.nl

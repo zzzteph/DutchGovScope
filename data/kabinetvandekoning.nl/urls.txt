@@ -6,3 +6,6 @@ https://opendata.kabinetvandekoning.nl
 https://opendata.english.kabinetvandekoning.nl
 https://www.kabinetvandekoning.nl
 https://kabinetvandekoning.nl
+http://autodiscover.kabinetvandekoning.nl
+https://enterpriseenrollment.kabinetvandekoning.nl
+https://enterpriseregistration.kabinetvandekoning.nl

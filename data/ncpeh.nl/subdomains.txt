@@ -8,3 +8,5 @@ portaal.ncpeh.nl
 uzipas.portaal.ncpeh.nl
 www.ncpeh.nl
 ncpeh.nl
+a-www.ncpeh.nl
+a-opendata.ncpeh.nl

@@ -2,3 +2,5 @@ feeds.maatwerkvoormensen.nl
 opendata.maatwerkvoormensen.nl
 www.maatwerkvoormensen.nl
 maatwerkvoormensen.nl
+a-opendata.maatwerkvoormensen.nl
+a-www.maatwerkvoormensen.nl

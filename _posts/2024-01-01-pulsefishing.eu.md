@@ -2,8 +2,8 @@
 layout: default
 title: "pulsefishing.eu"
 permalink: "/dutchgov/pulsefishing.eu.html"
-subdomains_count: 7
-all_subdomains_count: 22
+subdomains_count: 10
+all_subdomains_count: 25
 urls_count: 4
 ssl_rank: 
 http_rank: A
@@ -27,9 +27,9 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/pulsefishing.eu/subdomains.txt)|7|Alive subdomains|
+|[subdomains.txt](/DutchGovScope/data/pulsefishing.eu/subdomains.txt)|10|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/pulsefishing.eu/urls.txt)|4|Urls|
-|[all_subdomains.txt](/DutchGovScope/data/pulsefishing.eu/all_subdomains.txt)|22|All found subdomains (history)|
+|[all_subdomains.txt](/DutchGovScope/data/pulsefishing.eu/all_subdomains.txt)|25|All found subdomains (history)|
 
 
 ## Statistics

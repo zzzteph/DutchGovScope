@@ -11,9 +11,9 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/aerius.nl/subdomains.txt)|56|Alive subdomains|
-|[urls.txt](/data/aerius.nl/urls.txt)|21|Urls|
-|[all_subdomains.txt](/data/aerius.nl/all_subdomains.txt)|57|All found subdomains (history)|
+|[subdomains.txt](/data/aerius.nl/subdomains.txt)|743|Alive subdomains|
+|[urls.txt](/data/aerius.nl/urls.txt)|22|Urls|
+|[all_subdomains.txt](/data/aerius.nl/all_subdomains.txt)|748|All found subdomains (history)|
 
 
 ## Statistics
@@ -30,7 +30,7 @@
 |[https://monitor.aerius.nl](https://monitor.aerius.nl)| | **F**|Jetty(9.4.18.v20190429)| | | | | | | | :white_check_mark: | |Java Jekyll:4.0.0 Jetty:9.4.18 Ruby|Over AERIUS Moni...|
 |[https://nexus.aerius.nl](https://nexus.aerius.nl)| | **D**|Nexus/3.63.0-01 (OSS)| | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | ||Sonatype Nexus R...|
 |[https://nexus-docker.aerius.nl](https://nexus-docker.aerius.nl)| | **F**|Jetty(9.4.53.v20231009)| | | | | | | | :white_check_mark: | |Java Jetty:9.4.53|Error 400 Not a...|
-|[https://pdok.aerius.nl](https://pdok.aerius.nl)| | **C**|Apache| |:white_check_mark: | | | | | | :white_check_mark: | |Apache HTTP Server HSTS||
+|[https://pdok.aerius.nl](https://pdok.aerius.nl)| | **C**|Apache| |:white_check_mark: | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|403 Forbidden|
 |[https://regionaal-register.aerius.nl](https://regionaal-register.aerius.nl)| | **F**|awselb/2.0| | | | | | | | :white_check_mark: | |Amazon ELB Amazon Web Services||
 |[https://register.aerius.nl](https://register.aerius.nl)| | **F**|nginx/1.25.2| | | | | | | | :white_check_mark: | |Nginx:1.25.2||
 |[https://scenario.aerius.nl](https://scenario.aerius.nl)| | **C**|Apache| |:white_check_mark: | | | | | | :white_check_mark: | |Apache HTTP Server HSTS||
@@ -42,4 +42,5 @@
 |[https://auth-dev.aerius.nl](https://auth-dev.aerius.nl)| | **B**|Server|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Amazon CloudFront Amazon Web Services Bootstrap HSTS|Signin|
 |[https://auth-register-dev.aerius.nl](https://auth-register-dev.aerius.nl)| | **B**|Server|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Amazon CloudFront Amazon Web Services Bootstrap HSTS|Signin|
 |[https://link.aerius.nl](https://link.aerius.nl)| | **E**|| | | | | | | | :white_check_mark: | |Bootstrap:4.3.1|Not Found | Shli...|
+|[https://auth-register-gat.aerius.nl](https://auth-register-gat.aerius.nl)| | **B**|Server|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Amazon CloudFront Amazon Web Services Bootstrap HSTS|Signin|
 

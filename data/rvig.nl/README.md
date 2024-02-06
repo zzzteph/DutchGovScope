@@ -11,9 +11,9 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/rvig.nl/subdomains.txt)|26|Alive subdomains|
+|[subdomains.txt](/data/rvig.nl/subdomains.txt)|27|Alive subdomains|
 |[urls.txt](/data/rvig.nl/urls.txt)|15|Urls|
-|[all_subdomains.txt](/data/rvig.nl/all_subdomains.txt)|61|All found subdomains (history)|
+|[all_subdomains.txt](/data/rvig.nl/all_subdomains.txt)|62|All found subdomains (history)|
 
 
 ## Statistics
@@ -25,7 +25,7 @@
 |[https://acc.intranet.rvig.nl](https://acc.intranet.rvig.nl)| | **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Nginx|403 Forbidden|
 |[https://intranet.rvig.nl](https://intranet.rvig.nl)| | **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Nginx|403 Forbidden|
 |[https://login.idm.rvig.nl](https://login.idm.rvig.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Java||
-|[https://login.npr.idm.rvig.nl](https://login.npr.idm.rvig.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Java||
+|[https://login.npr.idm.rvig.nl](https://login.npr.idm.rvig.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Java||
 |[https://prod.rvig.nl](https://prod.rvig.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
 |[https://publicaties.rvig.nl](https://publicaties.rvig.nl)| | **A**|wadp2|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache Tomcat Green Valley CMS HSTS Java|Home - Toptaken|
 |[https://rni-webform.rvig.nl](https://rni-webform.rvig.nl)| | **B**||:white_check_mark: |:white_check_mark: | | | :white_check_mark:| | | :white_check_mark: | |HSTS|RNI vooraanmeldi...|

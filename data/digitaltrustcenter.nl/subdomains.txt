@@ -4,3 +4,4 @@ test.digitaltrustcenter.nl
 tools.digitaltrustcenter.nl
 www.digitaltrustcenter.nl
 digitaltrustcenter.nl
+prod.digitaltrustcenter.nl

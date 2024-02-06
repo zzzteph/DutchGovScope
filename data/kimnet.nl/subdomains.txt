@@ -6,3 +6,7 @@ opendata.english.kimnet.nl
 www.kimnet.nl
 kimnet.nl
 a-www.kimnet.nl
+a-english.kimnet.nl
+a-feeds.a-english.kimnet.nl
+a-feeds.kimnet.nl
+a-opendata.kimnet.nl

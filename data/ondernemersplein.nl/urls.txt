@@ -4,3 +4,6 @@ https://www.ondernemersplein.nl
 https://opendata.ondernemersplein.nl
 https://opendata.acp.ondernemersplein.nl
 http://autodiscover.ondernemersplein.nl
+https://enterpriseenrollment.ondernemersplein.nl
+https://enterpriseregistration.ondernemersplein.nl
+https://msoid.ondernemersplein.nl

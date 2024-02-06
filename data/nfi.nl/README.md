@@ -11,8 +11,8 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/nfi.nl/subdomains.txt)|13|Alive subdomains|
-|[urls.txt](/data/nfi.nl/urls.txt)|12|Urls|
+|[subdomains.txt](/data/nfi.nl/subdomains.txt)|15|Alive subdomains|
+|[urls.txt](/data/nfi.nl/urls.txt)|13|Urls|
 |[all_subdomains.txt](/data/nfi.nl/all_subdomains.txt)|19|All found subdomains (history)|
 
 
@@ -33,4 +33,5 @@
 |[https://hybrid.nfi.nl](https://hybrid.nfi.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|Index of /|
 |[https://mailtestmijn.nfi.nl](https://mailtestmijn.nfi.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|403 Forbidden|
 |[https://autodiscover.nfi.nl](https://autodiscover.nfi.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|403 Forbidden|
+|[http://pm-bounces.nfi.nl](http://pm-bounces.nfi.nl)| | **F**|nginx/1.25.3| | | | | | | | :white_check_mark: | |Nginx:1.25.3|Postmark — Email...|
 

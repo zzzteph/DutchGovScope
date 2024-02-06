@@ -87,3 +87,10 @@ cannabisbureau.ssoict.nl
 productie.live.vananaarbeter.ssoict.nl
 productie.live.centrumpp.ssoict.nl
 web2.ssoict.nl
+delphi.ssoict.nl
+docgen.ssoict.nl
+evenementen.ssoict.nl
+helpdesk.ssoict.nl
+klantenportaal.ssoict.nl
+test.ssoict.nl
+opmanager.ssoict.nl

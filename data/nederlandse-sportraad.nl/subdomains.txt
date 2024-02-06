@@ -2,3 +2,6 @@ feeds.nederlandse-sportraad.nl
 opendata.nederlandse-sportraad.nl
 www.nederlandse-sportraad.nl
 nederlandse-sportraad.nl
+a-feeds.nederlandse-sportraad.nl
+a-opendata.nederlandse-sportraad.nl
+a-www.nederlandse-sportraad.nl

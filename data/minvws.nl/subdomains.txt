@@ -27,3 +27,6 @@ www.werkenbij.minvws.nl
 www.wmo-awbz.minvws.nl
 vws.minvws.nl
 vws2a.minvws.nl
+huisstijl.minvws.nl
+werkenbij.minvws.nl
+inspect.minvws.nl

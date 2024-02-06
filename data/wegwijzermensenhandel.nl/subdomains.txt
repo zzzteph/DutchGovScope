@@ -2,3 +2,6 @@ feeds.wegwijzermensenhandel.nl
 opendata.wegwijzermensenhandel.nl
 www.wegwijzermensenhandel.nl
 wegwijzermensenhandel.nl
+a-feeds.wegwijzermensenhandel.nl
+a-opendata.wegwijzermensenhandel.nl
+a-www.wegwijzermensenhandel.nl

@@ -7,3 +7,4 @@ test.volksgezondheidenzorg.info
 www.volksgezondheidenzorg.info
 volksgezondheidenzorg.info
 demo.volksgezondheidenzorg.info
+localhost.volksgezondheidenzorg.info

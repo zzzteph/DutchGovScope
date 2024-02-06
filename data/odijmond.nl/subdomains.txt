@@ -3,3 +3,12 @@ open-wave.odijmond.nl
 odijmond.nl
 www.odijmond.nl
 gisviewer.odijmond.nl
+dc.odijmond.nl
+intranet.odijmond.nl
+redactie.odijmond.nl
+join.odijmond.nl
+rdgw.odijmond.nl
+localhost.odijmond.nl
+osb.odijmond.nl
+rd.odijmond.nl
+vpn.odijmond.nl

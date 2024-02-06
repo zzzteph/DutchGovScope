@@ -11,3 +11,5 @@ hybrid.nfi.nl
 mailtestmijn.nfi.nl
 autodiscover.nfi.nl
 oshift-testmijn.nfi.nl
+pm-bounces.nfi.nl
+smtp.nfi.nl

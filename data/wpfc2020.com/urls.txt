@@ -2,3 +2,4 @@ https://feeds.wpfc2020.com
 https://opendata.wpfc2020.com
 https://www.wpfc2020.com
 https://wpfc2020.com
+https://email.mail.wpfc2020.com

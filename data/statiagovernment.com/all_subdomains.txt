@@ -7,3 +7,6 @@ webmail.statiagovernment.com
 autodiscover.statiagovernment.com
 mail.statiagovernment.com
 webdisk.statiagovernment.com
+a-feeds.statiagovernment.com
+a-opendata.statiagovernment.com
+a-www.statiagovernment.com

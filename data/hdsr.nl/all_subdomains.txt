@@ -107,3 +107,4 @@ vapd-wsus04.ad.hdsr.nl
 loket-tst.hdsr.nl
 vapd-cs06.ad.hdsr.nl
 captive-portal.hdsr.nl
+localhost.hdsr.nl

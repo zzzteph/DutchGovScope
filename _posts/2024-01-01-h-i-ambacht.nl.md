@@ -55,7 +55,7 @@ tags: dutchgov
 |[https://raad.h-i-ambacht.nl](https://raad.h-i-ambacht.nl)| **A+**| **A**|Apache|:warning: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS|hendrikidoambach...|
 |[https://gisibgeoserver-test.h-i-ambacht.nl](https://gisibgeoserver-test.h-i-ambacht.nl)| **B**| **A**|| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |||
 |[https://rxlaunch-signicat-preprod.h-i-ambacht.nl](https://rxlaunch-signicat-preprod.h-i-ambacht.nl)| **A+**| **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
-|[https://vergunningintaker.h-i-ambacht.nl](https://vergunningintaker.h-i-ambacht.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Express HSTS Node.js||
+|[https://vergunningintaker.h-i-ambacht.nl](https://vergunningintaker.h-i-ambacht.nl)| **A+**| **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Express HSTS Node.js||
 |[https://vthbroker.h-i-ambacht.nl](https://vthbroker.h-i-ambacht.nl)| **A+**| **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
 |[https://omgevingsvisie.h-i-ambacht.nl](https://omgevingsvisie.h-i-ambacht.nl)| | **C**|Apache| |:white_check_mark: | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|Omgevingsvisie H...|
 

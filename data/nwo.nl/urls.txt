@@ -14,5 +14,5 @@ https://impact.nwo.nl
 https://intranet-acc.nwo.nl
 https://nwopen-api.nwo.nl
 https://nwo.nl
-https://vpnportal.nwo.nl
 https://vpnportal-supplier.nwo.nl
+https://enterpriseenrollment.nwo.nl

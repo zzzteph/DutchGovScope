@@ -176,3 +176,12 @@ p2prd.provincie-utrecht.nl
 zaaksysteem.provincie-utrecht.nl
 www.wandelen.provincie-utrecht.nl
 lyncdir.provincie-utrecht.nl
+govroam.provincie-utrecht.nl
+iapp.provincie-utrecht.nl
+mfa.provincie-utrecht.nl
+autodiscover.provincie-utrecht.nl
+burgemeesters.provincie-utrecht.nl
+ris.provincie-utrecht.nl
+hth.provincie-utrecht.nl
+imap.provincie-utrecht.nl
+localhost.provincie-utrecht.nl

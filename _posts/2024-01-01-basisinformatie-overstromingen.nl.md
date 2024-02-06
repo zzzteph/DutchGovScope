@@ -2,8 +2,8 @@
 layout: default
 title: "basisinformatie-overstromingen.nl"
 permalink: "/dutchgov/basisinformatie-overstromingen.nl.html"
-subdomains_count: 7
-all_subdomains_count: 12
+subdomains_count: 8
+all_subdomains_count: 13
 urls_count: 7
 ssl_rank: 
 http_rank: B
@@ -27,9 +27,9 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/basisinformatie-overstromingen.nl/subdomains.txt)|7|Alive subdomains|
+|[subdomains.txt](/DutchGovScope/data/basisinformatie-overstromingen.nl/subdomains.txt)|8|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/basisinformatie-overstromingen.nl/urls.txt)|7|Urls|
-|[all_subdomains.txt](/DutchGovScope/data/basisinformatie-overstromingen.nl/all_subdomains.txt)|12|All found subdomains (history)|
+|[all_subdomains.txt](/DutchGovScope/data/basisinformatie-overstromingen.nl/all_subdomains.txt)|13|All found subdomains (history)|
 
 
 ## Statistics

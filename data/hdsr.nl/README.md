@@ -11,9 +11,9 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/hdsr.nl/subdomains.txt)|33|Alive subdomains|
-|[urls.txt](/data/hdsr.nl/urls.txt)|31|Urls|
-|[all_subdomains.txt](/data/hdsr.nl/all_subdomains.txt)|109|All found subdomains (history)|
+|[subdomains.txt](/data/hdsr.nl/subdomains.txt)|34|Alive subdomains|
+|[urls.txt](/data/hdsr.nl/urls.txt)|30|Urls|
+|[all_subdomains.txt](/data/hdsr.nl/all_subdomains.txt)|110|All found subdomains (history)|
 
 
 ## Statistics
@@ -30,7 +30,6 @@
 |[https://testbegrippen.hdsr.nl](https://testbegrippen.hdsr.nl)| | **E**|| | | | | | | | :white_check_mark: | |Basic||
 |[https://loket.hdsr.nl](https://loket.hdsr.nl)| | **C**|Apache| |:white_check_mark: | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
 |[https://uconnect.hdsr.nl](https://uconnect.hdsr.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|403 Forbidden|
-|[https://cawuitwijkfirewall.hdsr.nl](https://cawuitwijkfirewall.hdsr.nl)| | **A**|xxxx|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Java|User Portal|
 |[https://webservices.hdsr.nl](https://webservices.hdsr.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|403 Forbidden|
 |[https://redactie.hdsr.nl](https://redactie.hdsr.nl)| | **A**|-|:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:-|Object moved|
 |[http://autodiscover.hdsr.nl](http://autodiscover.hdsr.nl)| | **B**|Microsoft-IIS/10.0|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server||

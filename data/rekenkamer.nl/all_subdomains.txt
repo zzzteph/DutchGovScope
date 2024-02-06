@@ -72,3 +72,6 @@ arlocalbox.rekenkamer.nl
 flexplek.rekenkamer.nl
 t-ed-info-01.rekenkamer.nl
 magazinesintern.english.rekenkamer.nl
+connect.rekenkamer.nl
+enterpriseenrollment.rekenkamer.nl
+enterpriseregistration.rekenkamer.nl

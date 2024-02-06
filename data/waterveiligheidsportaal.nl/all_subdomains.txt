@@ -1,2 +1,3 @@
 www.waterveiligheidsportaal.nl
 waterveiligheidsportaal.nl
+localhost.waterveiligheidsportaal.nl

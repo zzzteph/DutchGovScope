@@ -2,8 +2,8 @@
 layout: default
 title: "digitaltrustcenter.nl"
 permalink: "/dutchgov/digitaltrustcenter.nl.html"
-subdomains_count: 6
-all_subdomains_count: 16
+subdomains_count: 7
+all_subdomains_count: 17
 urls_count: 6
 ssl_rank: 
 http_rank: C
@@ -27,9 +27,9 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/digitaltrustcenter.nl/subdomains.txt)|6|Alive subdomains|
+|[subdomains.txt](/DutchGovScope/data/digitaltrustcenter.nl/subdomains.txt)|7|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/digitaltrustcenter.nl/urls.txt)|6|Urls|
-|[all_subdomains.txt](/DutchGovScope/data/digitaltrustcenter.nl/all_subdomains.txt)|16|All found subdomains (history)|
+|[all_subdomains.txt](/DutchGovScope/data/digitaltrustcenter.nl/all_subdomains.txt)|17|All found subdomains (history)|
 
 
 ## Statistics

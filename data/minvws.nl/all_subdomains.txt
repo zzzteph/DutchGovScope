@@ -59,3 +59,4 @@ www.rl.minvws.nl
 huisstijl.minvws.nl
 werkenbij.minvws.nl
 inspect.minvws.nl
+2023-10-13.toegankelijkheidsonderzoek.openvws.open.minvws.nl

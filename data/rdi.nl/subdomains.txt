@@ -12,3 +12,17 @@ rdi.nl
 prod.radar.rdi.nl
 callbook.rdi.nl
 onderzoek.rdi.nl
+a-feeds.rdi.nl
+a-opendata.rdi.nl
+a-www.rdi.nl
+application.rdi.nl
+av.rdi.nl
+dialin.rdi.nl
+ftp.rdi.nl
+i-www.rdi.nl
+login.rdi.nl
+mijn-acc.rdi.nl
+t-www.rdi.nl
+test.rdi.nl
+web.rdi.nl
+webmail.rdi.nl

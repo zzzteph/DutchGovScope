@@ -12,3 +12,5 @@ acceptatie.dafuser.raac.uzi-register-test.nl
 raac-daf.uzi-register-test.nl
 www.intrekken.uzi-register-test.nl
 www2.uzi-register-test.nl
+cms.uzi-register-test.nl
+ldap.uzi-register-test.nl

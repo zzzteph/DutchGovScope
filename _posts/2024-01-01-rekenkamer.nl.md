@@ -2,11 +2,11 @@
 layout: default
 title: "rekenkamer.nl"
 permalink: "/dutchgov/rekenkamer.nl.html"
-subdomains_count: 22
-all_subdomains_count: 74
-urls_count: 10
+subdomains_count: 25
+all_subdomains_count: 77
+urls_count: 12
 ssl_rank: 
-http_rank: A
+http_rank: B
 security_txt: 9
 url_link: /data/rekenkamer.nl/urls.txt
 all_subdomains_link: /data/rekenkamer.nl/all_subdomains.txt
@@ -21,15 +21,15 @@ tags: dutchgov
 
 
  - **SSL Grade**:
- - **HTTP Security Grade**:A
+ - **HTTP Security Grade**:B
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:9
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/rekenkamer.nl/subdomains.txt)|22|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/rekenkamer.nl/urls.txt)|10|Urls|
-|[all_subdomains.txt](/DutchGovScope/data/rekenkamer.nl/all_subdomains.txt)|74|All found subdomains (history)|
+|[subdomains.txt](/DutchGovScope/data/rekenkamer.nl/subdomains.txt)|25|Alive subdomains|
+|[urls.txt](/DutchGovScope/data/rekenkamer.nl/urls.txt)|12|Urls|
+|[all_subdomains.txt](/DutchGovScope/data/rekenkamer.nl/all_subdomains.txt)|77|All found subdomains (history)|
 
 
 ## Statistics
@@ -47,4 +47,6 @@ tags: dutchgov
 |[https://www.rekenkamer.nl](https://www.rekenkamer.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Home | Algemene...|
 |[https://fileshare.rekenkamer.nl](https://fileshare.rekenkamer.nl)| | **A**|| |:white_check_mark: | | |:warning: | | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://werkplek.rekenkamer.nl](https://werkplek.rekenkamer.nl)| | **D**||:warning: | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Microsoft ASP.NET||
+|[https://enterpriseenrollment.rekenkamer.nl](https://enterpriseenrollment.rekenkamer.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||
+|[https://enterpriseregistration.rekenkamer.nl](https://enterpriseregistration.rekenkamer.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 

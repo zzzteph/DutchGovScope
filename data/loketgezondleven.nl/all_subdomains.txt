@@ -10,3 +10,4 @@ productie.loketgezondleven.nl
 www.interventies.loketgezondleven.nl
 acceptatie.drupal.loketgezondleven.nl
 drupal.loketgezondleven.nl
+localhost.loketgezondleven.nl

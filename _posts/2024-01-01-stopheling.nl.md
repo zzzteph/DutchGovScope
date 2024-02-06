@@ -2,12 +2,12 @@
 layout: default
 title: "stopheling.nl"
 permalink: "/dutchgov/stopheling.nl.html"
-subdomains_count: 12
-all_subdomains_count: 25
-urls_count: 12
+subdomains_count: 16
+all_subdomains_count: 29
+urls_count: 13
 ssl_rank: 
 http_rank: C
-security_txt: 6
+security_txt: 7
 url_link: /data/stopheling.nl/urls.txt
 all_subdomains_link: /data/stopheling.nl/all_subdomains.txt
 subdomains_link: /data/stopheling.nl/subdomains.txt
@@ -22,14 +22,14 @@ tags: dutchgov
 
  - **SSL Grade**:
  - **HTTP Security Grade**:C
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:6
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:7
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/stopheling.nl/subdomains.txt)|12|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/stopheling.nl/urls.txt)|12|Urls|
-|[all_subdomains.txt](/DutchGovScope/data/stopheling.nl/all_subdomains.txt)|25|All found subdomains (history)|
+|[subdomains.txt](/DutchGovScope/data/stopheling.nl/subdomains.txt)|16|Alive subdomains|
+|[urls.txt](/DutchGovScope/data/stopheling.nl/urls.txt)|13|Urls|
+|[all_subdomains.txt](/DutchGovScope/data/stopheling.nl/all_subdomains.txt)|29|All found subdomains (history)|
 
 
 ## Statistics
@@ -49,4 +49,5 @@ tags: dutchgov
 |[https://dorbeheer.stopheling.nl](https://dorbeheer.stopheling.nl)| | **B**|| | | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Azure Azure Front Door||
 |[https://aanvraagformulier.stopheling.nl](https://aanvraagformulier.stopheling.nl)| | **D**|Microsoft-IIS/10.0|:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server|Object moved|
 |[https://test-api.stopheling.nl](https://test-api.stopheling.nl)| | **F**|Microsoft-IIS/10.0|:white_check_mark: | | | | | | | :white_check_mark: | |Azure IIS:10.0 Microsoft ASP.NET Windows Server||
+|[https://accp.stopheling.nl](https://accp.stopheling.nl)| | **D**|Microsoft-IIS/10.0|:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | |Azure HSTS IIS:10.0 Microsoft ASP.NET Windows Server|Stop Heling | Ho...|
 

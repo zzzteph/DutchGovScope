@@ -2,8 +2,8 @@
 layout: default
 title: "vallei-veluwe.nl"
 permalink: "/dutchgov/vallei-veluwe.nl.html"
-subdomains_count: 15
-all_subdomains_count: 44
+subdomains_count: 24
+all_subdomains_count: 54
 urls_count: 11
 ssl_rank: 
 http_rank: A
@@ -27,9 +27,9 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/vallei-veluwe.nl/subdomains.txt)|15|Alive subdomains|
+|[subdomains.txt](/DutchGovScope/data/vallei-veluwe.nl/subdomains.txt)|24|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/vallei-veluwe.nl/urls.txt)|11|Urls|
-|[all_subdomains.txt](/DutchGovScope/data/vallei-veluwe.nl/all_subdomains.txt)|44|All found subdomains (history)|
+|[all_subdomains.txt](/DutchGovScope/data/vallei-veluwe.nl/all_subdomains.txt)|54|All found subdomains (history)|
 
 
 ## Statistics

@@ -19,7 +19,6 @@ https://beeldbank.cbs.nl
 https://beeldbank-beheer.cbs.nl
 https://beo.cbs.nl
 https://bestandslevering.cbs.nl
-https://beta.cbs.nl
 https://beta-dataportal.cbs.nl
 https://beta-odata4.cbs.nl
 https://betaopendata.cbs.nl
@@ -69,7 +68,6 @@ https://historischebeelden.cbs.nl
 https://historischebeeldenbeheer.cbs.nl
 https://ihg.cbs.nl
 https://intdevtestlogin.cbs.nl
-https://isi.cbs.nl
 https://iv3-controle.cbs.nl
 https://iv3-controle-api.cbs.nl
 https://iv3-pilot.cbs.nl
@@ -151,7 +149,6 @@ https://videos.cbs.nl
 https://vocabs.cbs.nl
 https://vpn1.cbs.nl
 https://webext.cbs.nl
-https://webserver.cbs.nl
 https://welkombij.cbs.nl
 https://werkplek.cbs.nl
 https://werkpleksso.cbs.nl
@@ -162,7 +159,6 @@ https://www-test.cbs.nl
 https://www.databestanden.cbs.nl
 https://www.historisch.cbs.nl
 https://www.ihg.cbs.nl
-https://www1.cbs.nl
 https://cbs.nl
 https://ot-opendata.cbs.nl
 https://login.cbs.nl
@@ -177,3 +173,8 @@ https://login-databestanden.test.cbs.nl
 https://mijn.acceptatie.cbs.nl
 http://mijn-acceptatie.cbs.nl
 https://brandportal.cbs.nl
+http://sdmx-dataexplorer-beta.cbs.nl
+http://sdmx-share.cbs.nl
+http://sdmx-dataviewer.cbs.nl
+http://sdmx-search-beta.cbs.nl
+http://sdmx-api-beta.cbs.nl

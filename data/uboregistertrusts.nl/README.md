@@ -11,9 +11,9 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/uboregistertrusts.nl/subdomains.txt)|13|Alive subdomains|
+|[subdomains.txt](/data/uboregistertrusts.nl/subdomains.txt)|16|Alive subdomains|
 |[urls.txt](/data/uboregistertrusts.nl/urls.txt)|4|Urls|
-|[all_subdomains.txt](/data/uboregistertrusts.nl/all_subdomains.txt)|13|All found subdomains (history)|
+|[all_subdomains.txt](/data/uboregistertrusts.nl/all_subdomains.txt)|16|All found subdomains (history)|
 
 
 ## Statistics

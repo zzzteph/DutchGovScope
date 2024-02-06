@@ -37,3 +37,5 @@ vibec.nwo.nl
 webconf.nwo.nl
 sip.nwo.nl
 lyncdiscover.nwo.nl
+enterpriseenrollment.nwo.nl
+radius.nwo.nl

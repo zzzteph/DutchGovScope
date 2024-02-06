@@ -6,12 +6,12 @@
 
  - **SSL Grade**:
  - **HTTP Security Grade**:B
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:18
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:19
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/ncsc.nl/subdomains.txt)|48|Alive subdomains|
+|[subdomains.txt](/data/ncsc.nl/subdomains.txt)|56|Alive subdomains|
 |[urls.txt](/data/ncsc.nl/urls.txt)|27|Urls|
 |[all_subdomains.txt](/data/ncsc.nl/all_subdomains.txt)|88|All found subdomains (history)|
 
@@ -47,5 +47,5 @@
 |[https://api.mijn.acc.ncsc.nl](https://api.mijn.acc.ncsc.nl)| | **A**|none| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://mijn.acc.ncsc.nl](https://mijn.acc.ncsc.nl)| | **D**|none|:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
 |[https://vulnerabilities.ncsc.nl](https://vulnerabilities.ncsc.nl)| | **A**|none| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS|403 Forbidden|
-|[https://gitnmp.arp.ncsc.nl](https://gitnmp.arp.ncsc.nl)| | **F**|none| | | | | | | | :white_check_mark: | |HSTS||
+|[https://gitnmp.arp.ncsc.nl](https://gitnmp.arp.ncsc.nl)| | **F**|none| | | | | | | | :white_check_mark: | |HSTS|403 Forbidden|
 

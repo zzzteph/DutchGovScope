@@ -8,3 +8,5 @@ beta.rtlnieuws.nl
 facts.rtlnieuws.nl
 ruttesrapport.rtlnieuws.nl
 blogs.rtlnieuws.nl
+dev-beta.rtlnieuws.nl
+prod.rtlnieuws.nl

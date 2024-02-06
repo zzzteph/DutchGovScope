@@ -217,3 +217,7 @@ niptest.hhdelfland.nl
 www.watertoetsportaal.hhdelfland.nl
 helius02.hhdelfland.nl
 meet.hhdelfland.nl
+airwatch.hhdelfland.nl
+enterpriseenrollment.hhdelfland.nl
+fileshare.hhdelfland.nl
+passwordreset.hhdelfland.nl

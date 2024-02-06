@@ -11,9 +11,9 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/overheid.nl/subdomains.txt)|974|Alive subdomains|
-|[urls.txt](/data/overheid.nl/urls.txt)|332|Urls|
-|[all_subdomains.txt](/data/overheid.nl/all_subdomains.txt)|5187|All found subdomains (history)|
+|[subdomains.txt](/data/overheid.nl/subdomains.txt)|4854|Alive subdomains|
+|[urls.txt](/data/overheid.nl/urls.txt)|336|Urls|
+|[all_subdomains.txt](/data/overheid.nl/all_subdomains.txt)|5202|All found subdomains (history)|
 
 
 ## Statistics
@@ -246,7 +246,7 @@
 |[https://stelselcatalogus.kta.omgevingswet.overheid.nl](https://stelselcatalogus.kta.omgevingswet.overheid.nl)| | **A**|Unspecified| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS|Stelselcatalogus...|
 |[https://stelselcatalogus.omgevingswet.overheid.nl](https://stelselcatalogus.omgevingswet.overheid.nl)| | **A**|unspecified| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS|Stelselcatalogus...|
 |[https://stelselcatalogus.pfm.omgevingswet.overheid.nl](https://stelselcatalogus.pfm.omgevingswet.overheid.nl)| | **A**|Unspecified| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS|Stelselcatalogus...|
-|[https://stelselcatalogus.pre.omgevingswet.overheid.nl](https://stelselcatalogus.pre.omgevingswet.overheid.nl)| | **A**|unspecified| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS|Stelselcatalogus...|
+|[http://stelselcatalogus.pre.omgevingswet.overheid.nl](http://stelselcatalogus.pre.omgevingswet.overheid.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS||
 |[https://stijl.mijn.overheid.nl](https://stijl.mijn.overheid.nl)| | **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Nginx|Webpack App|
 |[https://stijlgids.overheid.nl](https://stijlgids.overheid.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS|URI - Performer...|
 |[https://sts.koop.overheid.nl](https://sts.koop.overheid.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
@@ -353,4 +353,8 @@
 |[https://digid-stub.lpc.mijn.overheid.nl](https://digid-stub.lpc.mijn.overheid.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|403 Forbidden|
 |[https://eidas-stub.lpc.mijn.overheid.nl](https://eidas-stub.lpc.mijn.overheid.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|403 Forbidden|
 |[https://wetgevingskalender-acc.overheid.nl](https://wetgevingskalender-acc.overheid.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS|403 Forbidden|
+|[https://autodiscover.overheid.nl](https://autodiscover.overheid.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Not Found|
+|[http://beta8.overheid.nl](http://beta8.overheid.nl)| | **F**|BigIP| | | | | | | | :white_check_mark: | |F5 BigIP||
+|[https://community.developer.overheid.nl](https://community.developer.overheid.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
+|[https://ftp.overheid.nl](https://ftp.overheid.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS||
 

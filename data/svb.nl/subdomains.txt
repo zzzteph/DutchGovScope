@@ -154,3 +154,13 @@ autorizationtepr.entreepgb.svb.nl
 wifi.svb.nl
 mijnwmo-siam-a.svb.nl
 sa.svb.nl
+enterpriseenrollment.svb.nl
+enterpriseregistration.svb.nl
+mijn-a.svb.nl
+mijnoverheid.svb.nl
+mta.svb.nl
+ns2.svb.nl
+pre.svb.nl
+www-o.svb.nl
+www-s.svb.nl
+www-t.svb.nl

@@ -15,3 +15,9 @@ url6099.mail.postedworkers.nl
 meldloket-acc.postedworkers.nl
 meldloket-pa.postedworkers.nl
 meldloket-test.postedworkers.nl
+a-feeds.postedworkers.nl
+a-opendata.a-english.postedworkers.nl
+a-opendata.postedworkers.nl
+a-www.postedworkers.nl
+a-english.postedworkers.nl
+a-feeds.a-english.postedworkers.nl

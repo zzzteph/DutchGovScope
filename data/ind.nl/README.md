@@ -13,7 +13,7 @@
 |------------|-------|------|
 |[subdomains.txt](/data/ind.nl/subdomains.txt)|17|Alive subdomains|
 |[urls.txt](/data/ind.nl/urls.txt)|12|Urls|
-|[all_subdomains.txt](/data/ind.nl/all_subdomains.txt)|65|All found subdomains (history)|
+|[all_subdomains.txt](/data/ind.nl/all_subdomains.txt)|66|All found subdomains (history)|
 
 
 ## Statistics
@@ -27,7 +27,7 @@
 |[https://ediensten.ind.nl](https://ediensten.ind.nl)| | **A**|Apache|:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS|A-Select Filter...|
 |[https://eforms.ind.nl](https://eforms.ind.nl)| | **B**||:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
 |[https://oap.ind.nl](https://oap.ind.nl)| | **D**|Apache|:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|403 Forbidden|
-|[https://public.portal.ind.nl](https://public.portal.ind.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Java|Portaal Zakelijk...|
+|[http://public.portal.ind.nl](http://public.portal.ind.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Java||
 |[https://statistics.ind.nl](https://statistics.ind.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS||
 |[https://www.ind.nl](https://www.ind.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
 |[https://www.academie.ind.nl](https://www.academie.ind.nl)| | **B**|Class|:white_check_mark: |:white_check_mark: | | |:warning: | | :white_check_mark: | :white_check_mark: | |HSTS||

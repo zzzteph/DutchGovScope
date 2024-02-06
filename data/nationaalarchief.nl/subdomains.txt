@@ -90,3 +90,8 @@ matomo.nationaalarchief.nl
 lod-data-acpt.nationaalarchief.nl
 lyncdiscover.nationaalarchief.nl
 sip.nationaalarchief.nl
+en.test.nationaalarchief.nl
+es.test.nationaalarchief.nl
+fr.test.nationaalarchief.nl
+localhost.nationaalarchief.nl
+onderwijs.nationaalarchief.nl

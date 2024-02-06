@@ -2,3 +2,6 @@ feeds.knmiprojects.nl
 opendata.knmiprojects.nl
 www.knmiprojects.nl
 knmiprojects.nl
+a-feeds.knmiprojects.nl
+a-opendata.knmiprojects.nl
+a-www.knmiprojects.nl

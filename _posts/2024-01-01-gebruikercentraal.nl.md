@@ -66,7 +66,7 @@ tags: dutchgov
 |[https://designsystem.gebruikercentraal.nl](https://designsystem.gebruikercentraal.nl)| | **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Nginx PHP:8.0.30||
 |[https://designthinking.gebruikercentraal.nl](https://designthinking.gebruikercentraal.nl)| | **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Nginx PHP:8.0.30||
 |[https://directduidelijk.gebruikercentraal.nl](https://directduidelijk.gebruikercentraal.nl)| | **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Nginx PHP:8.0.30||
-|[https://expertpanel.gebruikercentraal.nl](https://expertpanel.gebruikercentraal.nl)| | **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS MySQL Nginx PHP:8.0.30 WordPress:6.4.2 Yoast SEO:21.7|Expertpanel Gebr...|
+|[https://expertpanel.gebruikercentraal.nl](https://expertpanel.gebruikercentraal.nl)| | **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS MySQL Nginx PHP:8.0.30 WordPress:6.4.2 Yoast SEO:21.7|Gebruiker Centra...|
 |[https://inclusie.gebruikercentraal.nl](https://inclusie.gebruikercentraal.nl)| | **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS MySQL Nginx PHP:8.0.30 WordPress:6.4.2 Yoast SEO:21.7|Home - Ontwerpen...|
 |[https://inclusiekader.gebruikercentraal.nl](https://inclusiekader.gebruikercentraal.nl)| | **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Nginx PHP:8.0.30||
 |[https://inclusievedienstverlening.gebruikercentraal.nl](https://inclusievedienstverlening.gebruikercentraal.nl)| | **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Nginx PHP:8.0.30||

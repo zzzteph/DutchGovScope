@@ -2,8 +2,8 @@
 layout: default
 title: "tuchtcollege-gezondheidszorg.nl"
 permalink: "/dutchgov/tuchtcollege-gezondheidszorg.nl.html"
-subdomains_count: 6
-all_subdomains_count: 11
+subdomains_count: 9
+all_subdomains_count: 14
 urls_count: 5
 ssl_rank: 
 http_rank: A
@@ -27,9 +27,9 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/tuchtcollege-gezondheidszorg.nl/subdomains.txt)|6|Alive subdomains|
+|[subdomains.txt](/DutchGovScope/data/tuchtcollege-gezondheidszorg.nl/subdomains.txt)|9|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/tuchtcollege-gezondheidszorg.nl/urls.txt)|5|Urls|
-|[all_subdomains.txt](/DutchGovScope/data/tuchtcollege-gezondheidszorg.nl/all_subdomains.txt)|11|All found subdomains (history)|
+|[all_subdomains.txt](/DutchGovScope/data/tuchtcollege-gezondheidszorg.nl/all_subdomains.txt)|14|All found subdomains (history)|
 
 
 ## Statistics

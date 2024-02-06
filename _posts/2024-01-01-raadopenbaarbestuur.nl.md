@@ -2,8 +2,8 @@
 layout: default
 title: "raadopenbaarbestuur.nl"
 permalink: "/dutchgov/raadopenbaarbestuur.nl.html"
-subdomains_count: 11
-all_subdomains_count: 25
+subdomains_count: 12
+all_subdomains_count: 26
 urls_count: 5
 ssl_rank: 
 http_rank: A
@@ -27,9 +27,9 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/raadopenbaarbestuur.nl/subdomains.txt)|11|Alive subdomains|
+|[subdomains.txt](/DutchGovScope/data/raadopenbaarbestuur.nl/subdomains.txt)|12|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/raadopenbaarbestuur.nl/urls.txt)|5|Urls|
-|[all_subdomains.txt](/DutchGovScope/data/raadopenbaarbestuur.nl/all_subdomains.txt)|25|All found subdomains (history)|
+|[all_subdomains.txt](/DutchGovScope/data/raadopenbaarbestuur.nl/all_subdomains.txt)|26|All found subdomains (history)|
 
 
 ## Statistics
@@ -41,5 +41,5 @@ tags: dutchgov
 |[https://www.raadopenbaarbestuur.nl](https://www.raadopenbaarbestuur.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Home | Raad voor...|
 |[https://feeds.raadopenbaarbestuur.nl](https://feeds.raadopenbaarbestuur.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://raadopenbaarbestuur.nl](https://raadopenbaarbestuur.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
-|[https://digitaal.raadopenbaarbestuur.nl](https://digitaal.raadopenbaarbestuur.nl)| | **A**|imunify360-webshield/1.21| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Imunify360:1.21|One moment, plea...|
+|[https://digitaal.raadopenbaarbestuur.nl](https://digitaal.raadopenbaarbestuur.nl)| | **A**|Apache/2| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server:2 PHP:7.3.33||
 

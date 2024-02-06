@@ -191,4 +191,12 @@ pr.kvk.nl
 em4955.kvk.nl
 lyncdiscover.kvk.nl
 sip.kvk.nl
+tbadmin.kvk.nl
 fed-lms.kvk.nl
+admin.kvk.nl
+blog.kvk.nl
+dbadmin.kvk.nl
+docs.kvk.nl
+nas.kvk.nl
+owa.kvk.nl
+sslvpn.kvk.nl

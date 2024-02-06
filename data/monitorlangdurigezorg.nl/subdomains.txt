@@ -2,3 +2,6 @@ feeds.monitorlangdurigezorg.nl
 opendata.monitorlangdurigezorg.nl
 www.monitorlangdurigezorg.nl
 monitorlangdurigezorg.nl
+a-feeds.monitorlangdurigezorg.nl
+a-opendata.monitorlangdurigezorg.nl
+a-www.monitorlangdurigezorg.nl

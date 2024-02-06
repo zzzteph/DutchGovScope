@@ -11,7 +11,7 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/nwo.nl/subdomains.txt)|39|Alive subdomains|
+|[subdomains.txt](/data/nwo.nl/subdomains.txt)|41|Alive subdomains|
 |[urls.txt](/data/nwo.nl/urls.txt)|18|Urls|
 |[all_subdomains.txt](/data/nwo.nl/all_subdomains.txt)|230|All found subdomains (history)|
 
@@ -23,7 +23,7 @@
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[https://www.isaac.nwo.nl](https://www.isaac.nwo.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
 |[https://impacttest.nwo.nl](https://impacttest.nwo.nl)| | **F**|nginx/1.18.0 (Ubuntu)| | | | | | | | :white_check_mark: | |Nginx:1.18.0 Ubuntu|NWO Impact|
-|[https://matomo.nwo.nl](https://matomo.nwo.nl)| | **D**|Apache|:white_check_mark: | | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server|Matomo › Error|
+|[https://matomo.nwo.nl](https://matomo.nwo.nl)| | **D**|Apache|:white_check_mark: | | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |AngularJS Apache HTTP Server Matomo Analytics|Sign in - Matomo|
 |[https://enterpriseregistration.nwo.nl](https://enterpriseregistration.nwo.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||
 |[https://byod.nwo.nl](https://byod.nwo.nl)| | **C**|server| | | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | ||302 Found|
 |[https://isaac.nwo.nl](https://isaac.nwo.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
@@ -37,6 +37,6 @@
 |[https://intranet-acc.nwo.nl](https://intranet-acc.nwo.nl)| | **A**|Apache|:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS||
 |[https://nwopen-api.nwo.nl](https://nwopen-api.nwo.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server Microsoft ASP.NET|Nothing to see|
 |[https://nwo.nl](https://nwo.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | :white_check_mark: |HSTS|301 Moved Perman...|
-|[https://vpnportal.nwo.nl](https://vpnportal.nwo.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||
 |[https://vpnportal-supplier.nwo.nl](https://vpnportal-supplier.nwo.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
+|[https://enterpriseenrollment.nwo.nl](https://enterpriseenrollment.nwo.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||
 

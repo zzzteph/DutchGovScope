@@ -15,3 +15,5 @@ https://www.sociaalfonds.minienm.nl
 https://www.startpagina.sap.minienm.nl
 https://minienm.nl
 https://rijksoverheid.minienm.nl
+https://dcc.minienm.nl
+http://localhost.minienm.nl

@@ -1,2 +1,3 @@
 https://www.gipinfo.nl
 https://gipinfo.nl
+http://ftp.gipinfo.nl

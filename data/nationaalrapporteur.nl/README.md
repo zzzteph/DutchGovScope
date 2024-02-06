@@ -11,7 +11,7 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/nationaalrapporteur.nl/subdomains.txt)|4|Alive subdomains|
+|[subdomains.txt](/data/nationaalrapporteur.nl/subdomains.txt)|7|Alive subdomains|
 |[urls.txt](/data/nationaalrapporteur.nl/urls.txt)|4|Urls|
 |[all_subdomains.txt](/data/nationaalrapporteur.nl/all_subdomains.txt)|8|All found subdomains (history)|
 

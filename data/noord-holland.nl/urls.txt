@@ -4,13 +4,12 @@ https://subsidies.noord-holland.nl
 https://meet.noord-holland.nl
 https://data.noord-holland.nl
 http://zoeken.noord-holland.nl
-http://dataiku.noord-holland.nl
+https://dataiku.noord-holland.nl
 https://esm.noord-holland.nl
-https://api.data.noord-holland.nl
 https://statensite.noord-holland.nl
 https://formulieren.noord-holland.nl
 https://developer.noord-holland.nl
-http://design-node.datalab-prod.aws.noord-holland.nl
+https://design-node.datalab-prod.aws.noord-holland.nl
 https://sva-a8a9.noord-holland.nl
 https://geoapps2.noord-holland.nl
 https://leidraadlc.noord-holland.nl
@@ -43,7 +42,6 @@ http://ep.noord-holland.nl
 https://vacatures.noord-holland.nl
 https://bestanden.noord-holland.nl
 https://kennisportaalovk.noord-holland.nl
-http://ftps.noord-holland.nl
 https://lync.noord-holland.nl
 https://sip1.noord-holland.nl
 https://mijnsubsidie.noord-holland.nl
@@ -56,7 +54,6 @@ https://pvkontakt.noord-holland.nl
 https://geoservices3.noord-holland.nl
 https://portal-b.noord-holland.nl
 https://maovpn.noord-holland.nl
-https://maovpn-test.noord-holland.nl
 https://eidbroker-pre.noord-holland.nl
 https://eidbroker.noord-holland.nl
 https://fleetmanager.noord-holland.nl
@@ -70,3 +67,5 @@ https://api.openstad.noord-holland.nl
 https://auth.openstad.noord-holland.nl
 https://img.openstad.noord-holland.nl
 https://www.openstad.noord-holland.nl
+https://enterpriseenrollment.noord-holland.nl
+https://enterpriseregistration.noord-holland.nl

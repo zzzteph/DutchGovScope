@@ -11,9 +11,9 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/rvens.nl/subdomains.txt)|2|Alive subdomains|
+|[subdomains.txt](/data/rvens.nl/subdomains.txt)|6|Alive subdomains|
 |[urls.txt](/data/rvens.nl/urls.txt)|2|Urls|
-|[all_subdomains.txt](/data/rvens.nl/all_subdomains.txt)|2|All found subdomains (history)|
+|[all_subdomains.txt](/data/rvens.nl/all_subdomains.txt)|6|All found subdomains (history)|
 
 
 ## Statistics

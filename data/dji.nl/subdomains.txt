@@ -30,3 +30,4 @@ a-opendata.dji.nl
 a-www.dji.nl
 cdn.dji.nl
 ftp.dji.nl
+mgmt.beeldbellen.dji.nl

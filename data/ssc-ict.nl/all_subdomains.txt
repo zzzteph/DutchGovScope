@@ -62,3 +62,7 @@ plekchecker.ssc-ict.nl
 sbc-prd-a-tenant01.dwrt1.ssc-ict.nl
 sbc-prd-a-tenant05.dwrt5.ssc-ict.nl
 sbc-prd-b-tenant05.dwrt5.ssc-ict.nl
+a-feeds.ssc-ict.nl
+a-opendata.ssc-ict.nl
+a-www.ssc-ict.nl
+localhost.ssc-ict.nl

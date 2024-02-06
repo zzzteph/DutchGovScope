@@ -3,3 +3,4 @@ sub.gezondekinderopvang.nl
 test.gezondekinderopvang.nl
 www.gezondekinderopvang.nl
 gezondekinderopvang.nl
+localhost.gezondekinderopvang.nl

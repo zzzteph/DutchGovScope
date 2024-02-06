@@ -6,12 +6,12 @@
 
  - **SSL Grade**:
  - **HTTP Security Grade**:C
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:2
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:3
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/minbzk.nl/subdomains.txt)|38|Alive subdomains|
+|[subdomains.txt](/data/minbzk.nl/subdomains.txt)|42|Alive subdomains|
 |[urls.txt](/data/minbzk.nl/urls.txt)|9|Urls|
 |[all_subdomains.txt](/data/minbzk.nl/all_subdomains.txt)|84|All found subdomains (history)|
 

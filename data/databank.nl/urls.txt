@@ -134,10 +134,9 @@ https://neptunus.databank.nl
 https://gemeente.databank.nl
 https://ftgelderiand.databank.nl
 https://www.amsterdam.rosopen.databank.nl
-https://test-mbotransparant.databank.nl
 https://dd.databank.nl
 https://00klimaatmonitor.databank.nl
-https://beta-adc.databank.nl
+http://beta-adc.databank.nl
 https://drenthe.databank.nl
 https://beta-velsen.databank.nl
 https://zorgimpuls.rosopen.databank.nl
@@ -160,7 +159,7 @@ https://blog.databank.nl
 https://www5b.databank.nl
 https://kli-maatmonitor.databank.nl
 https://test.kvk-zwn.databank.nl
-https://velsen.databank.nl
+http://velsen.databank.nl
 https://zonh.rosopen.databank.nl
 https://xroads.databank.nl
 https://beta.bvz.waves.databank.nl
@@ -267,7 +266,7 @@ https://klimaatmoni-tor.databank.nl
 https://jdscan.databank.nl
 https://ddd.databank.nl
 https://beta-datawonen.databank.nl
-https://beta-klimaatmonitor.databank.nl
+http://beta-klimaatmonitor.databank.nl
 https://httpsbeta-vivet.databank.nl
 https://httpscvo.databank.nl
 https://httpswinkelgebiedenscan.databank.nl

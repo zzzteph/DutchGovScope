@@ -24,3 +24,4 @@ toegangslaag-gn2.rvig.nl
 toegangslaag-gn3.rvig.nl
 toegangslaag.rvig.nl
 idbs.idm.rvig.nl
+mail2.rvig.nl

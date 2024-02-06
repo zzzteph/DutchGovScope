@@ -2,8 +2,8 @@
 layout: default
 title: "uboregistertrusts.nl"
 permalink: "/dutchgov/uboregistertrusts.nl.html"
-subdomains_count: 13
-all_subdomains_count: 13
+subdomains_count: 16
+all_subdomains_count: 16
 urls_count: 4
 ssl_rank: 
 http_rank: A
@@ -27,9 +27,9 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/uboregistertrusts.nl/subdomains.txt)|13|Alive subdomains|
+|[subdomains.txt](/DutchGovScope/data/uboregistertrusts.nl/subdomains.txt)|16|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/uboregistertrusts.nl/urls.txt)|4|Urls|
-|[all_subdomains.txt](/DutchGovScope/data/uboregistertrusts.nl/all_subdomains.txt)|13|All found subdomains (history)|
+|[all_subdomains.txt](/DutchGovScope/data/uboregistertrusts.nl/all_subdomains.txt)|16|All found subdomains (history)|
 
 
 ## Statistics

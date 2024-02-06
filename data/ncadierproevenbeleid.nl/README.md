@@ -11,7 +11,7 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/ncadierproevenbeleid.nl/subdomains.txt)|13|Alive subdomains|
+|[subdomains.txt](/data/ncadierproevenbeleid.nl/subdomains.txt)|16|Alive subdomains|
 |[urls.txt](/data/ncadierproevenbeleid.nl/urls.txt)|7|Urls|
 |[all_subdomains.txt](/data/ncadierproevenbeleid.nl/all_subdomains.txt)|24|All found subdomains (history)|
 

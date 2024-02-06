@@ -48,3 +48,4 @@ smtps.omgevingsloket.nl
 syslog.omgevingsloket.nl
 test.omgevingsloket.nl
 wiki.omgevingsloket.nl
+opstap.omgevingsloket.nl

@@ -10,3 +10,12 @@ www.wodc.nl
 wodc.nl
 www.portal-eji.wodc.nl
 kennisbank.wodc.nl
+a-feeds.wodc.nl
+a-magazines.wodc.nl
+a-opendata.a-english.wodc.nl
+a-opendata.wodc.nl
+a-www.wodc.nl
+a-english.wodc.nl
+a-feeds.a-english.wodc.nl
+ftp.wodc.nl
+mail.wodc.nl

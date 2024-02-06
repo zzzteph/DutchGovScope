@@ -21,7 +21,7 @@ https://geluidregister.rijkswaterstaat.nl
 https://geo.rijkswaterstaat.nl
 https://geoservices.rijkswaterstaat.nl
 https://geoweb.rijkswaterstaat.nl
-https://hld.rijkswaterstaat.nl
+http://hld.rijkswaterstaat.nl
 https://iam.rijkswaterstaat.nl
 https://inloggen.rijkswaterstaat.nl
 https://loket.rijkswaterstaat.nl

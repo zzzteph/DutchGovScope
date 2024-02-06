@@ -89,3 +89,15 @@ testmailmdm.flevoland.nl
 mailmdm.flevoland.nl
 www.risicokaart.flevoland.nl
 tunnelmdm.flevoland.nl
+pki.flevoland.nl
+autodiscover.test.flevoland.nl
+bodem.flevoland.nl
+geotest.flevoland.nl
+cmis.flevoland.nl
+enterpriseenrollment.flevoland.nl
+enterpriseregistration.test.flevoland.nl
+enterpriseregistration.flevoland.nl
+hlf.flevoland.nl
+ldap.flevoland.nl
+msoid.flevoland.nl
+uat.flevoland.nl

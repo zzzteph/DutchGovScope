@@ -2,3 +2,6 @@ feeds.rcihh.nl
 opendata.rcihh.nl
 rcihh.nl
 www.rcihh.nl
+a-feeds.rcihh.nl
+a-opendata.rcihh.nl
+a-www.rcihh.nl

@@ -12,3 +12,7 @@ https://leren.mensenrechten.nl
 https://feeds.mensenrechten.nl
 https://complaintform.mensenrechten.nl
 https://academie.mensenrechten.nl
+http://autodiscover.mensenrechten.nl
+https://enterpriseenrollment.mensenrechten.nl
+https://enterpriseregistration.mensenrechten.nl
+http://micc.mensenrechten.nl

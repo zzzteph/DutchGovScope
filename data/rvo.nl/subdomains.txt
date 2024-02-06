@@ -152,3 +152,6 @@ wba-acc.rvo.nl
 ienrregister.rvo.nl
 lyncdiscover.rvo.nl
 sip.rvo.nl
+sandbox.rvo.nl
+redesign.rvo.nl
+staging-mijn.rvo.nl

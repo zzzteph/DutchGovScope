@@ -24,3 +24,9 @@ lplp.nctv.nl
 securityzkh.nctv.nl
 toolbox-extremisme.nctv.nl
 elearning-lcp-egt.nctv.nl
+a-www.nctv.nl
+a-english.nctv.nl
+a-feeds.a-english.nctv.nl
+a-feeds.nctv.nl
+a-magazines.nctv.nl
+a-opendata.nctv.nl

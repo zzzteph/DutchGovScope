@@ -9,7 +9,7 @@ https://betalen-cnf.belastingdienst.nl
 https://brm.belastingdienst.nl
 https://bvs.belastingdienst.nl
 https://cciwebstats.belastingdienst.nl
-http://centraalaanspreekpuntpensioenen.belastingdienst.nl
+https://centraalaanspreekpuntpensioenen.belastingdienst.nl
 https://connectpeople.belastingdienst.nl
 https://connectpeoplereg.belastingdienst.nl
 https://cpapps.belastingdienst.nl
@@ -50,7 +50,6 @@ https://moodle.vcdn.belastingdienst.nl
 https://mta-sts.belastingdienst.nl
 https://mul-mkt.belastingdienst.nl
 https://mul-redirect.belastingdienst.nl
-https://mwr-app-api.belastingdienst.nl
 https://mwr-app-api-ota.belastingdienst.nl
 https://mwr-app-cdn.belastingdienst.nl
 https://mwr-app-cdn-ota.belastingdienst.nl
@@ -114,11 +113,11 @@ https://werkenbij.belastingdienst.nl
 https://mijnaanvraag.belastingdienst.nl
 https://mijn-aanvraag.belastingdienst.nl
 https://instroom.belastingdienst.nl
-https://gdlo.belastingdienst.nl
-https://gegevensuitwisseling.belastingdienst.nl
-https://gpi.belastingdienst.nl
-https://ovverklaringen.belastingdienst.nl
-https://verleendekinderopvang.belastingdienst.nl
-https://verzekeringsproducten.belastingdienst.nl
-https://wagenparkgegevens.belastingdienst.nl
+http://gdlo.belastingdienst.nl
+http://gegevensuitwisseling.belastingdienst.nl
+http://gpi.belastingdienst.nl
+http://ovverklaringen.belastingdienst.nl
+http://verleendekinderopvang.belastingdienst.nl
+http://verzekeringsproducten.belastingdienst.nl
+http://wagenparkgegevens.belastingdienst.nl
 https://adobe-analytics-dc.belastingdienst.nl

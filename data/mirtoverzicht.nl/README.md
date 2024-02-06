@@ -11,7 +11,7 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/mirtoverzicht.nl/subdomains.txt)|5|Alive subdomains|
+|[subdomains.txt](/data/mirtoverzicht.nl/subdomains.txt)|8|Alive subdomains|
 |[urls.txt](/data/mirtoverzicht.nl/urls.txt)|4|Urls|
 |[all_subdomains.txt](/data/mirtoverzicht.nl/all_subdomains.txt)|14|All found subdomains (history)|
 

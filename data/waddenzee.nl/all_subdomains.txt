@@ -20,3 +20,5 @@ www2.waddenzee.nl
 mapserver.waddenzee.nl
 test43.waddenzee.nl
 worldheritage.waddenzee.nl
+analytics.waddenzee.nl
+autodiscover.waddenzee.nl

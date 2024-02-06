@@ -13,3 +13,4 @@ verifier-api.acc.coronacheck.nl
 web.acc.coronacheck.nl
 www.coronacheck.nl
 coronacheck.nl
+api-test.coronacheck.nl

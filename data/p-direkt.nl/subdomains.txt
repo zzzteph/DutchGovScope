@@ -17,3 +17,6 @@ aladdin.p-direkt.nl
 bwi.minbzk.nl.p-direkt.nl
 mail.aladdin.p-direkt.nl
 stats.aladdin.p-direkt.nl
+a-feeds.p-direkt.nl
+a-opendata.p-direkt.nl
+a-www.p-direkt.nl

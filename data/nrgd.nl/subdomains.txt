@@ -5,3 +5,9 @@ www.nrgd.nl
 feeds.nrgd.nl
 english.nrgd.nl
 nrgd.nl
+a-opendata.a-english.nrgd.nl
+a-opendata.nrgd.nl
+a-www.nrgd.nl
+a-english.nrgd.nl
+a-feeds.a-english.nrgd.nl
+a-feeds.nrgd.nl

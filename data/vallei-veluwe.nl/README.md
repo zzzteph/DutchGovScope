@@ -11,9 +11,9 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/vallei-veluwe.nl/subdomains.txt)|15|Alive subdomains|
+|[subdomains.txt](/data/vallei-veluwe.nl/subdomains.txt)|24|Alive subdomains|
 |[urls.txt](/data/vallei-veluwe.nl/urls.txt)|11|Urls|
-|[all_subdomains.txt](/data/vallei-veluwe.nl/all_subdomains.txt)|44|All found subdomains (history)|
+|[all_subdomains.txt](/data/vallei-veluwe.nl/all_subdomains.txt)|54|All found subdomains (history)|
 
 
 ## Statistics

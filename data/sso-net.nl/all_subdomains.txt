@@ -6,3 +6,4 @@ www1.sso-net.nl
 www6.sso-net.nl
 www5.sso-net.nl
 www4.sso-net.nl
+localhost.sso-net.nl

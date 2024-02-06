@@ -5,3 +5,6 @@ pulsefishing.eu
 a-feeds.pulsefishing.eu
 a-opendata.pulsefishing.eu
 a-www.pulsefishing.eu
+i-www.pulsefishing.eu
+o-www.pulsefishing.eu
+t-www.pulsefishing.eu

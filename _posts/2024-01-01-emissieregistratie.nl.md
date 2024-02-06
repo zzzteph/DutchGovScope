@@ -2,8 +2,8 @@
 layout: default
 title: "emissieregistratie.nl"
 permalink: "/dutchgov/emissieregistratie.nl.html"
-subdomains_count: 12
-all_subdomains_count: 14
+subdomains_count: 13
+all_subdomains_count: 15
 urls_count: 11
 ssl_rank: 
 http_rank: D
@@ -27,9 +27,9 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/emissieregistratie.nl/subdomains.txt)|12|Alive subdomains|
+|[subdomains.txt](/DutchGovScope/data/emissieregistratie.nl/subdomains.txt)|13|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/emissieregistratie.nl/urls.txt)|11|Urls|
-|[all_subdomains.txt](/DutchGovScope/data/emissieregistratie.nl/all_subdomains.txt)|14|All found subdomains (history)|
+|[all_subdomains.txt](/DutchGovScope/data/emissieregistratie.nl/all_subdomains.txt)|15|All found subdomains (history)|
 
 
 ## Statistics

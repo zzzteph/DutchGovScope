@@ -2,3 +2,6 @@ rijksorganisatieodi.nl
 www.rijksorganisatieodi.nl
 feeds.rijksorganisatieodi.nl
 opendata.rijksorganisatieodi.nl
+a-opendata.rijksorganisatieodi.nl
+a-www.rijksorganisatieodi.nl
+a-feeds.rijksorganisatieodi.nl

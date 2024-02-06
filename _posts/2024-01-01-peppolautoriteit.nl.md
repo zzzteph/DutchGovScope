@@ -2,7 +2,7 @@
 layout: default
 title: "peppolautoriteit.nl"
 permalink: "/dutchgov/peppolautoriteit.nl.html"
-subdomains_count: 6
+subdomains_count: 9
 all_subdomains_count: 13
 urls_count: 6
 ssl_rank: 
@@ -27,7 +27,7 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/peppolautoriteit.nl/subdomains.txt)|6|Alive subdomains|
+|[subdomains.txt](/DutchGovScope/data/peppolautoriteit.nl/subdomains.txt)|9|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/peppolautoriteit.nl/urls.txt)|6|Urls|
 |[all_subdomains.txt](/DutchGovScope/data/peppolautoriteit.nl/all_subdomains.txt)|13|All found subdomains (history)|
 

@@ -11,7 +11,7 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/programmamenscentraal.nl/subdomains.txt)|4|Alive subdomains|
+|[subdomains.txt](/data/programmamenscentraal.nl/subdomains.txt)|9|Alive subdomains|
 |[urls.txt](/data/programmamenscentraal.nl/urls.txt)|4|Urls|
 |[all_subdomains.txt](/data/programmamenscentraal.nl/all_subdomains.txt)|9|All found subdomains (history)|
 

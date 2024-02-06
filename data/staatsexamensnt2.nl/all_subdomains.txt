@@ -3,3 +3,6 @@ opendata.staatsexamensnt2.nl
 www.staatsexamensnt2.nl
 staatsexamensnt2.nl
 nieuw.staatsexamensnt2.nl
+a-feeds.staatsexamensnt2.nl
+a-opendata.staatsexamensnt2.nl
+a-www.staatsexamensnt2.nl

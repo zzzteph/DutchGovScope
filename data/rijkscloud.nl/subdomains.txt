@@ -524,3 +524,7 @@ prx1.gn3.rijkscloud.nl
 prx2.gn3.rijkscloud.nl
 resolv1.ec.rijkscloud.nl
 vcda-cs.ec.rijkscloud.nl
+nifi-registry.test.ix.rijkscloud.nl
+elkdmz1.ec.rijkscloud.nl
+ns02.gn1.rijkscloud.nl
+ns00.gn2.rijkscloud.nl

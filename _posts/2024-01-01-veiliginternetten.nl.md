@@ -3,7 +3,7 @@ layout: default
 title: "veiliginternetten.nl"
 permalink: "/dutchgov/veiliginternetten.nl.html"
 subdomains_count: 8
-all_subdomains_count: 9
+all_subdomains_count: 10
 urls_count: 6
 ssl_rank: 
 http_rank: C
@@ -29,7 +29,7 @@ tags: dutchgov
 |------------|-------|------|
 |[subdomains.txt](/DutchGovScope/data/veiliginternetten.nl/subdomains.txt)|8|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/veiliginternetten.nl/urls.txt)|6|Urls|
-|[all_subdomains.txt](/DutchGovScope/data/veiliginternetten.nl/all_subdomains.txt)|9|All found subdomains (history)|
+|[all_subdomains.txt](/DutchGovScope/data/veiliginternetten.nl/all_subdomains.txt)|10|All found subdomains (history)|
 
 
 ## Statistics

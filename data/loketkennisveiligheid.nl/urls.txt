@@ -5,3 +5,4 @@ https://feeds.loketkennisveiligheid.nl
 https://www.loketkennisveiligheid.nl
 https://feeds.english.loketkennisveiligheid.nl
 https://loketkennisveiligheid.nl
+https://netwerk.loketkennisveiligheid.nl

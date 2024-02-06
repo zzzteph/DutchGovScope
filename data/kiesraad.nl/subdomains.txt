@@ -9,3 +9,8 @@ kennisbank.kiesraad.nl
 sdm.kiesraad.nl
 sip.kiesraad.nl
 www-old.kiesraad.nl
+a-opendata.a-english.kiesraad.nl
+a-opendata.kiesraad.nl
+a-www.kiesraad.nl
+a-english.kiesraad.nl
+a-feeds.a-english.kiesraad.nl

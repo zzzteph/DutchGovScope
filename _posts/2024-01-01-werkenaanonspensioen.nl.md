@@ -2,8 +2,8 @@
 layout: default
 title: "werkenaanonspensioen.nl"
 permalink: "/dutchgov/werkenaanonspensioen.nl.html"
-subdomains_count: 5
-all_subdomains_count: 5
+subdomains_count: 8
+all_subdomains_count: 8
 urls_count: 5
 ssl_rank: 
 http_rank: A
@@ -27,9 +27,9 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/werkenaanonspensioen.nl/subdomains.txt)|5|Alive subdomains|
+|[subdomains.txt](/DutchGovScope/data/werkenaanonspensioen.nl/subdomains.txt)|8|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/werkenaanonspensioen.nl/urls.txt)|5|Urls|
-|[all_subdomains.txt](/DutchGovScope/data/werkenaanonspensioen.nl/all_subdomains.txt)|5|All found subdomains (history)|
+|[all_subdomains.txt](/DutchGovScope/data/werkenaanonspensioen.nl/all_subdomains.txt)|8|All found subdomains (history)|
 
 
 ## Statistics

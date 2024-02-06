@@ -5,3 +5,8 @@ feeds.globalhealthhub.nl
 globalhealthhub.nl
 opendata.globalhealthhub.nl
 www.globalhealthhub.nl
+a-english.globalhealthhub.nl
+a-feeds.a-english.globalhealthhub.nl
+a-feeds.globalhealthhub.nl
+a-opendata.a-english.globalhealthhub.nl
+a-opendata.globalhealthhub.nl

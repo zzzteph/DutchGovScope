@@ -9,3 +9,4 @@ www.kennisbank.helpdeskwater.nl
 apps.helpdeskwater.nl
 www.kennisbanktest.helpdeskwater.nl
 mail.helpdeskwater.nl
+ftp.helpdeskwater.nl

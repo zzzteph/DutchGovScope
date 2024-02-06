@@ -11,9 +11,9 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/watkanmijhelpen.nl/subdomains.txt)|4|Alive subdomains|
+|[subdomains.txt](/data/watkanmijhelpen.nl/subdomains.txt)|7|Alive subdomains|
 |[urls.txt](/data/watkanmijhelpen.nl/urls.txt)|4|Urls|
-|[all_subdomains.txt](/data/watkanmijhelpen.nl/all_subdomains.txt)|11|All found subdomains (history)|
+|[all_subdomains.txt](/data/watkanmijhelpen.nl/all_subdomains.txt)|14|All found subdomains (history)|
 
 
 ## Statistics

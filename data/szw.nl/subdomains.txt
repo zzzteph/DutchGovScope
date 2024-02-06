@@ -30,3 +30,6 @@ resultaten-wsw.szw.nl
 verlofwijzer.szw.nl
 webmail.szw.nl
 home.szw.nl
+homepage.szw.nl
+iz.szw.nl
+webmail2.szw.nl

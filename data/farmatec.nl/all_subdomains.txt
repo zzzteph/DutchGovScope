@@ -27,3 +27,6 @@ a-feeds.farmatec.nl
 a-opendata.a-english.farmatec.nl
 a-opendata.farmatec.nl
 a-english.farmatec.nl
+rapportage-onderzoek-digitoegankelijkheid-www.farmatec.nl
+rapportage-onderzoek-digitoegankelijkheid-acceptatie.hulpmiddelen.farmatec.nl
+rapportage-onderzoek-digitoegankelijkheid-hulpmiddelen.farmatec.nl

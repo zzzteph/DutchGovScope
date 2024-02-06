@@ -2,3 +2,6 @@ feeds.uitkomstgerichtezorg.nl
 opendata.uitkomstgerichtezorg.nl
 www.uitkomstgerichtezorg.nl
 uitkomstgerichtezorg.nl
+a-www.uitkomstgerichtezorg.nl
+a-feeds.uitkomstgerichtezorg.nl
+a-opendata.uitkomstgerichtezorg.nl

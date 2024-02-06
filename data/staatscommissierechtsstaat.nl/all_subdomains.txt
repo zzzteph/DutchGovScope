@@ -2,3 +2,6 @@ www.staatscommissierechtsstaat.nl
 staatscommissierechtsstaat.nl
 feeds.staatscommissierechtsstaat.nl
 opendata.staatscommissierechtsstaat.nl
+a-feeds.staatscommissierechtsstaat.nl
+a-opendata.staatscommissierechtsstaat.nl
+a-www.staatscommissierechtsstaat.nl

@@ -36,3 +36,7 @@ sbc-prd-b-tenant03.dwrt3.ssc-ict.nl
 sbc-prd-b-tenant04.dwrt4.ssc-ict.nl
 sbc-ota-a-tenant04.ssc-ict.nl
 sbc-prd-b-tenant02.dwrt2.ssc-ict.nl
+a-feeds.ssc-ict.nl
+a-opendata.ssc-ict.nl
+a-www.ssc-ict.nl
+localhost.ssc-ict.nl

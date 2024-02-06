@@ -2,8 +2,8 @@
 layout: default
 title: "nlsportraad.nl"
 permalink: "/dutchgov/nlsportraad.nl.html"
-subdomains_count: 3
-all_subdomains_count: 3
+subdomains_count: 6
+all_subdomains_count: 6
 urls_count: 3
 ssl_rank: 
 http_rank: B
@@ -27,9 +27,9 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/nlsportraad.nl/subdomains.txt)|3|Alive subdomains|
+|[subdomains.txt](/DutchGovScope/data/nlsportraad.nl/subdomains.txt)|6|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/nlsportraad.nl/urls.txt)|3|Urls|
-|[all_subdomains.txt](/DutchGovScope/data/nlsportraad.nl/all_subdomains.txt)|3|All found subdomains (history)|
+|[all_subdomains.txt](/DutchGovScope/data/nlsportraad.nl/all_subdomains.txt)|6|All found subdomains (history)|
 
 
 ## Statistics

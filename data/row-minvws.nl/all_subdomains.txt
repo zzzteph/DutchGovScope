@@ -8,3 +8,6 @@ magazines.english.row-minvws.nl
 magazinesintern.row-minvws.nl
 magazines.row-minvws.nl
 opendata.english.row-minvws.nl
+a-feeds.row-minvws.nl
+a-opendata.row-minvws.nl
+a-www.row-minvws.nl

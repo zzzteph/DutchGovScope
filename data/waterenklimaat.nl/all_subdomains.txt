@@ -16,3 +16,9 @@ dev.waterenklimaat.nl
 www.euwijzer.waterenklimaat.nl
 lab3.waterenklimaat.nl
 lab4.waterenklimaat.nl
+a-english.waterenklimaat.nl
+a-feeds.a-english.waterenklimaat.nl
+a-feeds.waterenklimaat.nl
+a-opendata.a-english.waterenklimaat.nl
+a-opendata.waterenklimaat.nl
+a-www.waterenklimaat.nl

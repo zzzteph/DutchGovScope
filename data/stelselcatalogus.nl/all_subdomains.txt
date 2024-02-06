@@ -19,3 +19,4 @@ acc.keycloak.stelselcatalogus.nl
 acc.marktplaats.stelselcatalogus.nl
 acc.editor.stelselcatalogus.nl
 acc-editor.stelselcatalogus.nl
+marktplaats.stelselcatalogus.nl

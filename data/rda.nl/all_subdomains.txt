@@ -17,3 +17,6 @@ a-magazines.a-english.rda.nl
 magazinesintern.rda.nl
 magazines.rda.nl
 a-magazines.rda.nl
+i-www.rda.nl
+o-www.rda.nl
+t-www.rda.nl

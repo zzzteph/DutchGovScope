@@ -11,9 +11,9 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/natura2000.nl/subdomains.txt)|5|Alive subdomains|
+|[subdomains.txt](/data/natura2000.nl/subdomains.txt)|6|Alive subdomains|
 |[urls.txt](/data/natura2000.nl/urls.txt)|5|Urls|
-|[all_subdomains.txt](/data/natura2000.nl/all_subdomains.txt)|7|All found subdomains (history)|
+|[all_subdomains.txt](/data/natura2000.nl/all_subdomains.txt)|8|All found subdomains (history)|
 
 
 ## Statistics

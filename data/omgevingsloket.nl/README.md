@@ -11,7 +11,7 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/omgevingsloket.nl/subdomains.txt)|50|Alive subdomains|
+|[subdomains.txt](/data/omgevingsloket.nl/subdomains.txt)|51|Alive subdomains|
 |[urls.txt](/data/omgevingsloket.nl/urls.txt)|12|Urls|
 |[all_subdomains.txt](/data/omgevingsloket.nl/all_subdomains.txt)|76|All found subdomains (history)|
 

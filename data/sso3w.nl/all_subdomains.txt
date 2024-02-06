@@ -22,3 +22,9 @@ www.travelpoint.sso3w.nl
 magazines.english.sso3w.nl
 magazinesintern.english.sso3w.nl
 magazinesintern.sso3w.nl
+a-english.sso3w.nl
+a-feeds.a-english.sso3w.nl
+a-feeds.sso3w.nl
+a-magazines.sso3w.nl
+a-opendata.a-english.sso3w.nl
+a-www.sso3w.nl

@@ -6,3 +6,6 @@ zovar.nl
 ocsp.zovar.nl
 formulieren.zovar.nl
 ldap.zovar.nl
+a-feeds.zovar.nl
+a-opendata.zovar.nl
+a-www.zovar.nl

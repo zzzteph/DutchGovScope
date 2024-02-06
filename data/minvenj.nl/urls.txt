@@ -22,3 +22,4 @@ https://ssci-ossplanning.minvenj.nl
 https://minvenj.nl
 https://dialin.dtv.minvenj.nl
 https://schedule.dtv.minvenj.nl
+https://oci.minvenj.nl

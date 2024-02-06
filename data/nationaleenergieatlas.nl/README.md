@@ -11,9 +11,9 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/nationaleenergieatlas.nl/subdomains.txt)|3|Alive subdomains|
+|[subdomains.txt](/data/nationaleenergieatlas.nl/subdomains.txt)|4|Alive subdomains|
 |[urls.txt](/data/nationaleenergieatlas.nl/urls.txt)|2|Urls|
-|[all_subdomains.txt](/data/nationaleenergieatlas.nl/all_subdomains.txt)|5|All found subdomains (history)|
+|[all_subdomains.txt](/data/nationaleenergieatlas.nl/all_subdomains.txt)|6|All found subdomains (history)|
 
 
 ## Statistics

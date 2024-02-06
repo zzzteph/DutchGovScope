@@ -14,3 +14,5 @@ dioxins-congener-hen.apps.feedfoodtransfer.nl
 dioxins-totalteq-hen.apps.feedfoodtransfer.nl
 apps.feedfoodtransfer.nl
 apps.acceptatie.feedfoodtransfer.nl
+dev.apps.feedfoodtransfer.nl
+mail.apps.feedfoodtransfer.nl

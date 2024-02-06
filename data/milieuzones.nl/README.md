@@ -11,9 +11,9 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/milieuzones.nl/subdomains.txt)|5|Alive subdomains|
+|[subdomains.txt](/data/milieuzones.nl/subdomains.txt)|6|Alive subdomains|
 |[urls.txt](/data/milieuzones.nl/urls.txt)|4|Urls|
-|[all_subdomains.txt](/data/milieuzones.nl/all_subdomains.txt)|8|All found subdomains (history)|
+|[all_subdomains.txt](/data/milieuzones.nl/all_subdomains.txt)|9|All found subdomains (history)|
 
 
 ## Statistics

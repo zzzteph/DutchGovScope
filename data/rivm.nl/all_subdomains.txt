@@ -916,3 +916,5 @@ fncew01-int-a.rivm.nl
 svl03-int-p.rivm.nl
 sso.api-int.alt.rivm.nl
 www.migratie.rivm.nl
+lsp.rivm.nl
+dashview.rivm.nl

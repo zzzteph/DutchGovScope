@@ -7,3 +7,6 @@ import.tlokb.nl
 importacc.tlokb.nl
 importacc-auth.tlokb.nl
 import-auth.tlokb.nl
+a-feeds.tlokb.nl
+a-opendata.tlokb.nl
+a-www.tlokb.nl

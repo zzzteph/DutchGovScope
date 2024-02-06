@@ -11,9 +11,9 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/loketgezondleven.nl/subdomains.txt)|9|Alive subdomains|
+|[subdomains.txt](/data/loketgezondleven.nl/subdomains.txt)|10|Alive subdomains|
 |[urls.txt](/data/loketgezondleven.nl/urls.txt)|7|Urls|
-|[all_subdomains.txt](/data/loketgezondleven.nl/all_subdomains.txt)|12|All found subdomains (history)|
+|[all_subdomains.txt](/data/loketgezondleven.nl/all_subdomains.txt)|13|All found subdomains (history)|
 
 
 ## Statistics

@@ -6,3 +6,9 @@ english.wkr.nl
 feeds.english.wkr.nl
 opendata.english.wkr.nl
 sedo.wkr.nl
+a-www.wkr.nl
+a-feeds.wkr.nl
+a-opendata.wkr.nl
+i-www.wkr.nl
+o-www.wkr.nl
+t-www.wkr.nl

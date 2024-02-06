@@ -2,8 +2,8 @@
 layout: default
 title: "milieuzones.nl"
 permalink: "/dutchgov/milieuzones.nl.html"
-subdomains_count: 5
-all_subdomains_count: 8
+subdomains_count: 6
+all_subdomains_count: 9
 urls_count: 4
 ssl_rank: 
 http_rank: C
@@ -27,9 +27,9 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/milieuzones.nl/subdomains.txt)|5|Alive subdomains|
+|[subdomains.txt](/DutchGovScope/data/milieuzones.nl/subdomains.txt)|6|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/milieuzones.nl/urls.txt)|4|Urls|
-|[all_subdomains.txt](/DutchGovScope/data/milieuzones.nl/all_subdomains.txt)|8|All found subdomains (history)|
+|[all_subdomains.txt](/DutchGovScope/data/milieuzones.nl/all_subdomains.txt)|9|All found subdomains (history)|
 
 
 ## Statistics

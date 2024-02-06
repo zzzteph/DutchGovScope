@@ -3,7 +3,7 @@ layout: default
 title: "versnellingshuisce.nl"
 permalink: "/dutchgov/versnellingshuisce.nl.html"
 subdomains_count: 7
-all_subdomains_count: 7
+all_subdomains_count: 8
 urls_count: 7
 ssl_rank: 
 http_rank: D
@@ -29,7 +29,7 @@ tags: dutchgov
 |------------|-------|------|
 |[subdomains.txt](/DutchGovScope/data/versnellingshuisce.nl/subdomains.txt)|7|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/versnellingshuisce.nl/urls.txt)|7|Urls|
-|[all_subdomains.txt](/DutchGovScope/data/versnellingshuisce.nl/all_subdomains.txt)|7|All found subdomains (history)|
+|[all_subdomains.txt](/DutchGovScope/data/versnellingshuisce.nl/all_subdomains.txt)|8|All found subdomains (history)|
 
 
 ## Statistics

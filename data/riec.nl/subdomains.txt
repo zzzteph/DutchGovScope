@@ -11,3 +11,5 @@ a-opendata.riec.nl
 a-www.riec.nl
 sentry1.zwb.riec.nl
 zwb.riec.nl
+autoconfig.riec.nl
+ob.riec.nl

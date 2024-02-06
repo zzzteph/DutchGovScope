@@ -11,7 +11,7 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/nponderwijs.nl/subdomains.txt)|5|Alive subdomains|
+|[subdomains.txt](/data/nponderwijs.nl/subdomains.txt)|7|Alive subdomains|
 |[urls.txt](/data/nponderwijs.nl/urls.txt)|5|Urls|
 |[all_subdomains.txt](/data/nponderwijs.nl/all_subdomains.txt)|8|All found subdomains (history)|
 

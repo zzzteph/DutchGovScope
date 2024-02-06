@@ -67,3 +67,5 @@ stelselcatalogus.logius.nl
 svn.logius.nl
 wiki.logius.nl
 preprod.portaal.digipoort.logius.nl
+lca.logius.nl
+mev.logius.nl

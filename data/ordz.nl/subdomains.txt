@@ -4,3 +4,6 @@ opendata.ordz.nl
 www.ordz.nl
 ordz.nl
 acceptatie.ordz.nl
+a-feeds.ordz.nl
+a-opendata.ordz.nl
+a-www.ordz.nl

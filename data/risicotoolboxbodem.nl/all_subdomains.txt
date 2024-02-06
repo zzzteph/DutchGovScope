@@ -8,3 +8,4 @@ www.test3.risicotoolboxbodem.nl
 test2.risicotoolboxbodem.nl
 www.test2.risicotoolboxbodem.nl
 www.test.risicotoolboxbodem.nl
+localhost.risicotoolboxbodem.nl

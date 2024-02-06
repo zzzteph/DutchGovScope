@@ -5,14 +5,14 @@
 
 
  - **SSL Grade**:
- - **HTTP Security Grade**:D
+ - **HTTP Security Grade**:E
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:2
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/minienm.nl/subdomains.txt)|60|Alive subdomains|
-|[urls.txt](/data/minienm.nl/urls.txt)|17|Urls|
+|[subdomains.txt](/data/minienm.nl/subdomains.txt)|65|Alive subdomains|
+|[urls.txt](/data/minienm.nl/urls.txt)|19|Urls|
 |[all_subdomains.txt](/data/minienm.nl/all_subdomains.txt)|133|All found subdomains (history)|
 
 
@@ -38,4 +38,6 @@
 |[https://www.startpagina.sap.minienm.nl](https://www.startpagina.sap.minienm.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
 |[https://minienm.nl](https://minienm.nl)| | **A**|Microsoft-IIS/10.0| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS IIS:10.0 Windows Server|Document Moved|
 |[https://rijksoverheid.minienm.nl](https://rijksoverheid.minienm.nl)| | **F**|Apache/2| | | | | | | | :white_check_mark: | |Apache HTTP Server:2|403 Forbidden|
+|[https://dcc.minienm.nl](https://dcc.minienm.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
+|[http://localhost.minienm.nl](http://localhost.minienm.nl)| | **D**|nginx| | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Nginx|Welcome to nginx...|
 

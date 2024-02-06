@@ -2,3 +2,9 @@ feeds.toekomstvisiegewasbescherming2030.nl
 opendata.toekomstvisiegewasbescherming2030.nl
 toekomstvisiegewasbescherming2030.nl
 www.toekomstvisiegewasbescherming2030.nl
+a-feeds.toekomstvisiegewasbescherming2030.nl
+a-opendata.toekomstvisiegewasbescherming2030.nl
+a-www.toekomstvisiegewasbescherming2030.nl
+i-www.toekomstvisiegewasbescherming2030.nl
+o-www.toekomstvisiegewasbescherming2030.nl
+t-www.toekomstvisiegewasbescherming2030.nl

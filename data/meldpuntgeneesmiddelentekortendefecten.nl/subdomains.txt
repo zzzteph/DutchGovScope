@@ -2,3 +2,6 @@ feeds.meldpuntgeneesmiddelentekortendefecten.nl
 opendata.meldpuntgeneesmiddelentekortendefecten.nl
 www.meldpuntgeneesmiddelentekortendefecten.nl
 meldpuntgeneesmiddelentekortendefecten.nl
+a-opendata.meldpuntgeneesmiddelentekortendefecten.nl
+a-www.meldpuntgeneesmiddelentekortendefecten.nl
+a-feeds.meldpuntgeneesmiddelentekortendefecten.nl

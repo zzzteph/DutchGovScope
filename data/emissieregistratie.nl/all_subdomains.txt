@@ -12,3 +12,4 @@ emissieregistratie.nl
 er-extra.emissieregistratie.nl
 productie.emissieregistratie.nl
 data-test.emissieregistratie.nl
+localhost.emissieregistratie.nl

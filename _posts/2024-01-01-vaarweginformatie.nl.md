@@ -2,8 +2,8 @@
 layout: default
 title: "vaarweginformatie.nl"
 permalink: "/dutchgov/vaarweginformatie.nl.html"
-subdomains_count: 5
-all_subdomains_count: 10
+subdomains_count: 7
+all_subdomains_count: 12
 urls_count: 5
 ssl_rank: 
 http_rank: C
@@ -27,9 +27,9 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/vaarweginformatie.nl/subdomains.txt)|5|Alive subdomains|
+|[subdomains.txt](/DutchGovScope/data/vaarweginformatie.nl/subdomains.txt)|7|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/vaarweginformatie.nl/urls.txt)|5|Urls|
-|[all_subdomains.txt](/DutchGovScope/data/vaarweginformatie.nl/all_subdomains.txt)|10|All found subdomains (history)|
+|[all_subdomains.txt](/DutchGovScope/data/vaarweginformatie.nl/all_subdomains.txt)|12|All found subdomains (history)|
 
 
 ## Statistics

@@ -11,7 +11,7 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/postedworkers.nl/subdomains.txt)|17|Alive subdomains|
+|[subdomains.txt](/data/postedworkers.nl/subdomains.txt)|23|Alive subdomains|
 |[urls.txt](/data/postedworkers.nl/urls.txt)|14|Urls|
 |[all_subdomains.txt](/data/postedworkers.nl/all_subdomains.txt)|29|All found subdomains (history)|
 

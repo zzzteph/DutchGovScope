@@ -2,3 +2,6 @@ feeds.vrachtwagenheffing.nl
 opendata.vrachtwagenheffing.nl
 www.vrachtwagenheffing.nl
 vrachtwagenheffing.nl
+a-feeds.vrachtwagenheffing.nl
+a-opendata.vrachtwagenheffing.nl
+a-www.vrachtwagenheffing.nl

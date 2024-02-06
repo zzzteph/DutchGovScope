@@ -2,8 +2,8 @@
 layout: default
 title: "gezondekinderopvang.nl"
 permalink: "/dutchgov/gezondekinderopvang.nl.html"
-subdomains_count: 5
-all_subdomains_count: 5
+subdomains_count: 6
+all_subdomains_count: 6
 urls_count: 5
 ssl_rank: 
 http_rank: B
@@ -27,9 +27,9 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/gezondekinderopvang.nl/subdomains.txt)|5|Alive subdomains|
+|[subdomains.txt](/DutchGovScope/data/gezondekinderopvang.nl/subdomains.txt)|6|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/gezondekinderopvang.nl/urls.txt)|5|Urls|
-|[all_subdomains.txt](/DutchGovScope/data/gezondekinderopvang.nl/all_subdomains.txt)|5|All found subdomains (history)|
+|[all_subdomains.txt](/DutchGovScope/data/gezondekinderopvang.nl/all_subdomains.txt)|6|All found subdomains (history)|
 
 
 ## Statistics

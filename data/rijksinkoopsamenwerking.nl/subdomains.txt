@@ -2,3 +2,6 @@ www.rijksinkoopsamenwerking.nl
 rijksinkoopsamenwerking.nl
 feeds.rijksinkoopsamenwerking.nl
 opendata.rijksinkoopsamenwerking.nl
+a-feeds.rijksinkoopsamenwerking.nl
+a-opendata.rijksinkoopsamenwerking.nl
+a-www.rijksinkoopsamenwerking.nl

@@ -3,3 +3,11 @@ https://open-wave.odijmond.nl
 https://odijmond.nl
 https://www.odijmond.nl
 https://gisviewer.odijmond.nl
+https://dc.odijmond.nl
+https://intranet.odijmond.nl
+https://redactie.odijmond.nl
+https://join.odijmond.nl
+https://rdgw.odijmond.nl
+http://localhost.odijmond.nl
+https://rd.odijmond.nl
+https://vpn.odijmond.nl

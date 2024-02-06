@@ -25,3 +25,5 @@ feeds.english.riec.nl
 magazines.english.riec.nl
 magazinesintern.english.riec.nl
 a-opendata.a-english.riec.nl
+autoconfig.riec.nl
+ob.riec.nl

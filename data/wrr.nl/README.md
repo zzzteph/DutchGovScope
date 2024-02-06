@@ -11,9 +11,9 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/wrr.nl/subdomains.txt)|9|Alive subdomains|
+|[subdomains.txt](/data/wrr.nl/subdomains.txt)|17|Alive subdomains|
 |[urls.txt](/data/wrr.nl/urls.txt)|9|Urls|
-|[all_subdomains.txt](/data/wrr.nl/all_subdomains.txt)|17|All found subdomains (history)|
+|[all_subdomains.txt](/data/wrr.nl/all_subdomains.txt)|25|All found subdomains (history)|
 
 
 ## Statistics

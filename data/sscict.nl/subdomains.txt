@@ -12,3 +12,10 @@ rijksconnect.sscict.nl
 harmony-lindenhorst-almata.sscict.nl
 ras.sscict.nl
 plato-minfin.sscict.nl
+livemaps.sscict.nl
+localhost.sscict.nl
+metrix.sscict.nl
+ns1.sscict.nl
+ns2.sscict.nl
+redirects.sscict.nl
+rte.sscict.nl

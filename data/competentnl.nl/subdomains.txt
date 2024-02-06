@@ -2,3 +2,6 @@ www.competentnl.nl
 competentnl.nl
 feeds.competentnl.nl
 opendata.competentnl.nl
+a-feeds.competentnl.nl
+a-opendata.competentnl.nl
+a-www.competentnl.nl

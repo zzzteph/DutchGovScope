@@ -2,3 +2,6 @@ versterkencyberweerbaarheid.nl
 www.versterkencyberweerbaarheid.nl
 feeds.versterkencyberweerbaarheid.nl
 opendata.versterkencyberweerbaarheid.nl
+a-feeds.versterkencyberweerbaarheid.nl
+a-opendata.versterkencyberweerbaarheid.nl
+a-www.versterkencyberweerbaarheid.nl

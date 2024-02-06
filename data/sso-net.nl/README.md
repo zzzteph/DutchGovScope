@@ -11,9 +11,9 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/sso-net.nl/subdomains.txt)|2|Alive subdomains|
+|[subdomains.txt](/data/sso-net.nl/subdomains.txt)|3|Alive subdomains|
 |[urls.txt](/data/sso-net.nl/urls.txt)|2|Urls|
-|[all_subdomains.txt](/data/sso-net.nl/all_subdomains.txt)|8|All found subdomains (history)|
+|[all_subdomains.txt](/data/sso-net.nl/all_subdomains.txt)|9|All found subdomains (history)|
 
 
 ## Statistics

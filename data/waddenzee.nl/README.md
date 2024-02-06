@@ -11,9 +11,9 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/waddenzee.nl/subdomains.txt)|10|Alive subdomains|
+|[subdomains.txt](/data/waddenzee.nl/subdomains.txt)|12|Alive subdomains|
 |[urls.txt](/data/waddenzee.nl/urls.txt)|10|Urls|
-|[all_subdomains.txt](/data/waddenzee.nl/all_subdomains.txt)|22|All found subdomains (history)|
+|[all_subdomains.txt](/data/waddenzee.nl/all_subdomains.txt)|24|All found subdomains (history)|
 
 
 ## Statistics

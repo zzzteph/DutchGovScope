@@ -47,3 +47,4 @@ magazinesintern.english.rijksdienstcn.com
 a-magazinesintern.a-english.rijksdienstcn.com
 studiefinanciering.rijksdienstcn.com
 magazines.papiamentu.rijksdienstcn.com
+fmg.rijksdienstcn.com

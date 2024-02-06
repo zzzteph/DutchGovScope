@@ -24,3 +24,4 @@ https://testconn.ctgb.nl
 https://password.ctgb.nl
 https://acm.ctgb.nl
 https://ctgb.nl
+https://portaal.ctgb.nl

@@ -2,8 +2,8 @@
 layout: default
 title: "uziregister.nl"
 permalink: "/dutchgov/uziregister.nl.html"
-subdomains_count: 11
-all_subdomains_count: 14
+subdomains_count: 14
+all_subdomains_count: 17
 urls_count: 10
 ssl_rank: 
 http_rank: A
@@ -27,9 +27,9 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/uziregister.nl/subdomains.txt)|11|Alive subdomains|
+|[subdomains.txt](/DutchGovScope/data/uziregister.nl/subdomains.txt)|14|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/uziregister.nl/urls.txt)|10|Urls|
-|[all_subdomains.txt](/DutchGovScope/data/uziregister.nl/all_subdomains.txt)|14|All found subdomains (history)|
+|[all_subdomains.txt](/DutchGovScope/data/uziregister.nl/all_subdomains.txt)|17|All found subdomains (history)|
 
 
 ## Statistics

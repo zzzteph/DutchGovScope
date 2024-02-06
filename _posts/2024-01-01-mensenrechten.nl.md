@@ -2,11 +2,11 @@
 layout: default
 title: "mensenrechten.nl"
 permalink: "/dutchgov/mensenrechten.nl.html"
-subdomains_count: 22
+subdomains_count: 34
 all_subdomains_count: 45
-urls_count: 14
+urls_count: 18
 ssl_rank: 
-http_rank: A
+http_rank: B
 security_txt: 7
 url_link: /data/mensenrechten.nl/urls.txt
 all_subdomains_link: /data/mensenrechten.nl/all_subdomains.txt
@@ -21,14 +21,14 @@ tags: dutchgov
 
 
  - **SSL Grade**:
- - **HTTP Security Grade**:A
+ - **HTTP Security Grade**:B
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:7
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/mensenrechten.nl/subdomains.txt)|22|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/mensenrechten.nl/urls.txt)|14|Urls|
+|[subdomains.txt](/DutchGovScope/data/mensenrechten.nl/subdomains.txt)|34|Alive subdomains|
+|[urls.txt](/DutchGovScope/data/mensenrechten.nl/urls.txt)|18|Urls|
 |[all_subdomains.txt](/DutchGovScope/data/mensenrechten.nl/all_subdomains.txt)|45|All found subdomains (history)|
 
 
@@ -51,4 +51,8 @@ tags: dutchgov
 |[https://feeds.mensenrechten.nl](https://feeds.mensenrechten.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://complaintform.mensenrechten.nl](https://complaintform.mensenrechten.nl)| | **A**|Microsoft-IIS/10.0| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS IIS:10.0 Windows Server hCaptcha|Meld discriminat...|
 |[https://academie.mensenrechten.nl](https://academie.mensenrechten.nl)| | **A**|Apache| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS Moodle PHP|Doorverwijspagin...|
+|[http://autodiscover.mensenrechten.nl](http://autodiscover.mensenrechten.nl)| | **B**|Microsoft-IIS/10.0|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server||
+|[https://enterpriseenrollment.mensenrechten.nl](https://enterpriseenrollment.mensenrechten.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||
+|[https://enterpriseregistration.mensenrechten.nl](https://enterpriseregistration.mensenrechten.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
+|[http://micc.mensenrechten.nl](http://micc.mensenrechten.nl)| | **D**|-| | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | ||IIS Windows Serv...|
 

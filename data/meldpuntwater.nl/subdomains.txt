@@ -1,2 +1,4 @@
 www.meldpuntwater.nl
 meldpuntwater.nl
+ftp.meldpuntwater.nl
+mail.meldpuntwater.nl

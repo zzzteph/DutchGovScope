@@ -6,3 +6,5 @@ webmail.farmingthefuture.nl
 webdisk.farmingthefuture.nl
 mail.farmingthefuture.nl
 cpanel.farmingthefuture.nl
+acc.farmingthefuture.nl
+test.farmingthefuture.nl

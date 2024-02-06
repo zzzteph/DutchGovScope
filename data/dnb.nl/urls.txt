@@ -108,3 +108,4 @@ https://atender.dnb.nl
 https://apps.sharepoint.dnb.nl
 https://enterpriseenrollment.dnb.nl
 http://mediaportal.dnb.nl
+https://sftp.dnb.nl

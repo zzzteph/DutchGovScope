@@ -9,3 +9,6 @@ a-magazinesintern.royal-house.nl
 a-magazines.royal-house.nl
 magazines.royal-house.nl
 magazinesintern.royal-house.nl
+i-www.royal-house.nl
+o-www.royal-house.nl
+t-www.royal-house.nl

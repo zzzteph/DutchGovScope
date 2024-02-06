@@ -8,3 +8,6 @@ opendata.english.rijksschoonmaak.nl
 feeds.english.rijksschoonmaak.nl
 magazines.english.rijksschoonmaak.nl
 magazines.rijksschoonmaak.nl
+a-feeds.rijksschoonmaak.nl
+a-opendata.rijksschoonmaak.nl
+a-www.rijksschoonmaak.nl

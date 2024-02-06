@@ -6,13 +6,13 @@
 
  - **SSL Grade**:
  - **HTTP Security Grade**:C
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:43
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:44
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/ndw.nu/subdomains.txt)|74|Alive subdomains|
-|[urls.txt](/data/ndw.nu/urls.txt)|71|Urls|
+|[subdomains.txt](/data/ndw.nu/subdomains.txt)|85|Alive subdomains|
+|[urls.txt](/data/ndw.nu/urls.txt)|75|Urls|
 |[all_subdomains.txt](/data/ndw.nu/all_subdomains.txt)|109|All found subdomains (history)|
 
 
@@ -92,4 +92,8 @@
 |[https://wegkenmerken.staging.ndw.nu](https://wegkenmerken.staging.ndw.nu)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|Wegkenmerken - N...|
 |[https://bereikbaarheid.ndw.nu](https://bereikbaarheid.ndw.nu)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|Bereikbaarheidsk...|
 |[https://backbone.ndw.nu](https://backbone.ndw.nu)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|NDW Backbone|
+|[https://data-staging.ndw.nu](https://data-staging.ndw.nu)| | **F**|Microsoft-Azure-Application-Gateway/v2| | | | | | | | :white_check_mark: | ||404 Not Found|
+|[https://docs.staging.ndw.nu](https://docs.staging.ndw.nu)| | **A**|| |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | |HSTS MkDocs:1.5.3 Python|NDW Docs|
+|[https://mijn.staging.ndw.nu](https://mijn.staging.ndw.nu)| | **D**|Apache/2.4.57 (Debian)| | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server:2.4.57 Debian|mijn NDW|
+|[https://mail.ndw.nu](https://mail.ndw.nu)| | **F**|IceWarp/13.0.3.10 x64| | | | | | | | :white_check_mark: | |HSTS|302 Document Mov...|
 

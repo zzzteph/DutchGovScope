@@ -11,9 +11,9 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/rtlnieuws.nl/subdomains.txt)|10|Alive subdomains|
-|[urls.txt](/data/rtlnieuws.nl/urls.txt)|6|Urls|
-|[all_subdomains.txt](/data/rtlnieuws.nl/all_subdomains.txt)|15|All found subdomains (history)|
+|[subdomains.txt](/data/rtlnieuws.nl/subdomains.txt)|12|Alive subdomains|
+|[urls.txt](/data/rtlnieuws.nl/urls.txt)|8|Urls|
+|[all_subdomains.txt](/data/rtlnieuws.nl/all_subdomains.txt)|17|All found subdomains (history)|
 
 
 ## Statistics
@@ -27,4 +27,6 @@
 |[https://acc-beta.rtlnieuws.nl](https://acc-beta.rtlnieuws.nl)| | **F**|AkamaiGHost| | | | | | | | :white_check_mark: | |Basic|Access Denied|
 |[https://sso.rtlnieuws.nl](https://sso.rtlnieuws.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://cookies.rtlnieuws.nl](https://cookies.rtlnieuws.nl)| | **F**|AkamaiGHost| | | | | | | | :white_check_mark: | ||Error|
+|[https://dev-beta.rtlnieuws.nl](https://dev-beta.rtlnieuws.nl)| | **F**|AkamaiGHost| | | | | | | | :white_check_mark: | |Basic|Access Denied|
+|[https://prod.rtlnieuws.nl](https://prod.rtlnieuws.nl)| | **F**|AkamaiGHost| | | | | | | | :white_check_mark: | |Basic|Access Denied|
 

@@ -2,11 +2,11 @@
 layout: default
 title: "rijksservices.nl"
 permalink: "/dutchgov/rijksservices.nl.html"
-subdomains_count: 3
-all_subdomains_count: 3
-urls_count: 3
+subdomains_count: 4
+all_subdomains_count: 4
+urls_count: 4
 ssl_rank: 
-http_rank: A
+http_rank: B
 security_txt: 3
 url_link: /data/rijksservices.nl/urls.txt
 all_subdomains_link: /data/rijksservices.nl/all_subdomains.txt
@@ -21,15 +21,15 @@ tags: dutchgov
 
 
  - **SSL Grade**:
- - **HTTP Security Grade**:A
+ - **HTTP Security Grade**:B
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:3
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/rijksservices.nl/subdomains.txt)|3|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/rijksservices.nl/urls.txt)|3|Urls|
-|[all_subdomains.txt](/DutchGovScope/data/rijksservices.nl/all_subdomains.txt)|3|All found subdomains (history)|
+|[subdomains.txt](/DutchGovScope/data/rijksservices.nl/subdomains.txt)|4|Alive subdomains|
+|[urls.txt](/DutchGovScope/data/rijksservices.nl/urls.txt)|4|Urls|
+|[all_subdomains.txt](/DutchGovScope/data/rijksservices.nl/all_subdomains.txt)|4|All found subdomains (history)|
 
 
 ## Statistics
@@ -40,4 +40,5 @@ tags: dutchgov
 |[https://apps.rijksservices.nl](https://apps.rijksservices.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Azure Azure Front Door Bootstrap HSTS Microsoft ASP.NET:4.0.30319|Home | Appdistri...|
 |[https://rijksservices.nl](https://rijksservices.nl)| | **A**|Microsoft-IIS/10.0| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS IIS:10.0 Windows Server|Document Moved|
 |[https://www.rijksservices.nl](https://www.rijksservices.nl)| | **A**|Microsoft-IIS/10.0| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS IIS:10.0 Windows Server|Document Moved|
+|[https://apps-tst.rijksservices.nl](https://apps-tst.rijksservices.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx||
 

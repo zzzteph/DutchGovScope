@@ -6,3 +6,4 @@ prod.milieuzones.nl
 www2.milieuzones.nl
 www.acc.milieuzones.nl
 www.test.milieuzones.nl
+autodiscover.milieuzones.nl

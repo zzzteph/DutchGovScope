@@ -23,3 +23,8 @@ www.sharefile.ofgv.nl
 www.kenniscentrum.ofgv.nl
 da.ofgv.nl
 www.webmail.ofgv.nl
+enterpriseenrollment.ofgv.nl
+enterpriseregistration.ofgv.nl
+ftp.ofgv.nl
+mail.ofgv.nl
+vpn.ofgv.nl

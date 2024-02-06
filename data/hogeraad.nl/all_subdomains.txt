@@ -66,3 +66,4 @@ sync2.hogeraad.nl
 stats-acc.hogeraad.nl
 cexwe.hogeraad.nl
 smtp.hogeraad.nl
+crl.hogeraad.nl

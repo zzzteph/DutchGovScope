@@ -11,7 +11,7 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/ordz.nl/subdomains.txt)|6|Alive subdomains|
+|[subdomains.txt](/data/ordz.nl/subdomains.txt)|9|Alive subdomains|
 |[urls.txt](/data/ordz.nl/urls.txt)|5|Urls|
 |[all_subdomains.txt](/data/ordz.nl/all_subdomains.txt)|17|All found subdomains (history)|
 

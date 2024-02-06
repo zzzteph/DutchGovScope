@@ -11,9 +11,9 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/rijksdienstcn.com/subdomains.txt)|32|Alive subdomains|
+|[subdomains.txt](/data/rijksdienstcn.com/subdomains.txt)|33|Alive subdomains|
 |[urls.txt](/data/rijksdienstcn.com/urls.txt)|17|Urls|
-|[all_subdomains.txt](/data/rijksdienstcn.com/all_subdomains.txt)|49|All found subdomains (history)|
+|[all_subdomains.txt](/data/rijksdienstcn.com/all_subdomains.txt)|50|All found subdomains (history)|
 
 
 ## Statistics

@@ -2,11 +2,11 @@
 layout: default
 title: "digitoegankelijk.nl"
 permalink: "/dutchgov/digitoegankelijk.nl.html"
-subdomains_count: 9
+subdomains_count: 10
 all_subdomains_count: 18
 urls_count: 9
 ssl_rank: 
-http_rank: C
+http_rank: B
 security_txt: 6
 url_link: /data/digitoegankelijk.nl/urls.txt
 all_subdomains_link: /data/digitoegankelijk.nl/all_subdomains.txt
@@ -21,13 +21,13 @@ tags: dutchgov
 
 
  - **SSL Grade**:
- - **HTTP Security Grade**:C
+ - **HTTP Security Grade**:B
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:6
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/digitoegankelijk.nl/subdomains.txt)|9|Alive subdomains|
+|[subdomains.txt](/DutchGovScope/data/digitoegankelijk.nl/subdomains.txt)|10|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/digitoegankelijk.nl/urls.txt)|9|Urls|
 |[all_subdomains.txt](/DutchGovScope/data/digitoegankelijk.nl/all_subdomains.txt)|18|All found subdomains (history)|
 
@@ -43,7 +43,7 @@ tags: dutchgov
 |[https://kennisbank.digitoegankelijk.nl](https://kennisbank.digitoegankelijk.nl)| | **C**|Apache/2| |:white_check_mark: | | | | | | :white_check_mark: | |Apache HTTP Server:2 HSTS MySQL PHP WordPress:6.4.3|Kennisbank DigiT...|
 |[https://prod-dictu.digitoegankelijk.nl](https://prod-dictu.digitoegankelijk.nl)| | **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |Basic HSTS Nginx|401 Authorizatio...|
 |[https://test-dictu.digitoegankelijk.nl](https://test-dictu.digitoegankelijk.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Basic Nginx|401 Authorizatio...|
-|[https://www.digitoegankelijk.nl](https://www.digitoegankelijk.nl)| | **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Nginx|502 Bad Gateway|
-|[https://digitoegankelijk.nl](https://digitoegankelijk.nl)| | **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Nginx|502 Bad Gateway|
+|[https://www.digitoegankelijk.nl](https://www.digitoegankelijk.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Drupal:10 HSTS Nginx PHP|Een toegankelijk...|
+|[https://digitoegankelijk.nl](https://digitoegankelijk.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Drupal:10 HSTS Nginx PHP|Een toegankelijk...|
 |[https://dashboard-keten.digitoegankelijk.nl](https://dashboard-keten.digitoegankelijk.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Basic HSTS Nginx|401 Authorizatio...|
 

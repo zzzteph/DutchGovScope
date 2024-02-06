@@ -11,9 +11,9 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/rcihh.nl/subdomains.txt)|4|Alive subdomains|
+|[subdomains.txt](/data/rcihh.nl/subdomains.txt)|7|Alive subdomains|
 |[urls.txt](/data/rcihh.nl/urls.txt)|4|Urls|
-|[all_subdomains.txt](/data/rcihh.nl/all_subdomains.txt)|4|All found subdomains (history)|
+|[all_subdomains.txt](/data/rcihh.nl/all_subdomains.txt)|7|All found subdomains (history)|
 
 
 ## Statistics

@@ -4,3 +4,6 @@ www.toekomstreligieuserfgoed.nl
 toekomstreligieuserfgoed.nl
 test.toekomstreligieuserfgoed.nl
 prod.toekomstreligieuserfgoed.nl
+a-feeds.toekomstreligieuserfgoed.nl
+a-opendata.toekomstreligieuserfgoed.nl
+a-www.toekomstreligieuserfgoed.nl

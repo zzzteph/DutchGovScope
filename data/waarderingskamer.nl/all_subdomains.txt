@@ -41,3 +41,4 @@ acceptatie.mijn.waarderingskamer.nl
 wem-staging.waarderingskamer.nl
 portal.waarderingskamer.nl
 www.mijn.waarderingskamer.nl
+www.wem-live.waarderingskamer.nl

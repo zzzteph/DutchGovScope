@@ -69,3 +69,7 @@ https://caas.ndw.nu
 https://wegkenmerken.staging.ndw.nu
 https://bereikbaarheid.ndw.nu
 https://backbone.ndw.nu
+https://data-staging.ndw.nu
+https://docs.staging.ndw.nu
+https://mijn.staging.ndw.nu
+https://mail.ndw.nu

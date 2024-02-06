@@ -9,3 +9,4 @@ www.amice-gemnet.lma.nl
 www.amice.lma.nl
 www.test.lma.nl
 www.acceptatie.lma.nl
+bnc3.lma.nl

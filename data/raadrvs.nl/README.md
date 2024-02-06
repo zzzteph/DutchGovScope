@@ -11,9 +11,9 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/raadrvs.nl/subdomains.txt)|7|Alive subdomains|
+|[subdomains.txt](/data/raadrvs.nl/subdomains.txt)|10|Alive subdomains|
 |[urls.txt](/data/raadrvs.nl/urls.txt)|5|Urls|
-|[all_subdomains.txt](/data/raadrvs.nl/all_subdomains.txt)|15|All found subdomains (history)|
+|[all_subdomains.txt](/data/raadrvs.nl/all_subdomains.txt)|18|All found subdomains (history)|
 
 
 ## Statistics
@@ -25,5 +25,5 @@
 |[https://feeds.raadrvs.nl](https://feeds.raadrvs.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://opendata.raadrvs.nl](https://opendata.raadrvs.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://www.raadrvs.nl](https://www.raadrvs.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Homepagina Raad...|
-|[https://adviezen.raadrvs.nl](https://adviezen.raadrvs.nl)| | **A**|imunify360-webshield/1.21| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Imunify360:1.21|One moment, plea...|
+|[https://adviezen.raadrvs.nl](https://adviezen.raadrvs.nl)| | **A**|Apache/2| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server:2||
 

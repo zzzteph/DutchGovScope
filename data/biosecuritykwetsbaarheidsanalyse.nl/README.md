@@ -13,7 +13,7 @@
 |------------|-------|------|
 |[subdomains.txt](/data/biosecuritykwetsbaarheidsanalyse.nl/subdomains.txt)|2|Alive subdomains|
 |[urls.txt](/data/biosecuritykwetsbaarheidsanalyse.nl/urls.txt)|2|Urls|
-|[all_subdomains.txt](/data/biosecuritykwetsbaarheidsanalyse.nl/all_subdomains.txt)|3|All found subdomains (history)|
+|[all_subdomains.txt](/data/biosecuritykwetsbaarheidsanalyse.nl/all_subdomains.txt)|4|All found subdomains (history)|
 
 
 ## Statistics

@@ -2,8 +2,8 @@
 layout: default
 title: "werkenvoorinternationaleorganisaties.nl"
 permalink: "/dutchgov/werkenvoorinternationaleorganisaties.nl.html"
-subdomains_count: 5
-all_subdomains_count: 11
+subdomains_count: 7
+all_subdomains_count: 13
 urls_count: 5
 ssl_rank: 
 http_rank: A
@@ -27,9 +27,9 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/werkenvoorinternationaleorganisaties.nl/subdomains.txt)|5|Alive subdomains|
+|[subdomains.txt](/DutchGovScope/data/werkenvoorinternationaleorganisaties.nl/subdomains.txt)|7|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/werkenvoorinternationaleorganisaties.nl/urls.txt)|5|Urls|
-|[all_subdomains.txt](/DutchGovScope/data/werkenvoorinternationaleorganisaties.nl/all_subdomains.txt)|11|All found subdomains (history)|
+|[all_subdomains.txt](/DutchGovScope/data/werkenvoorinternationaleorganisaties.nl/all_subdomains.txt)|13|All found subdomains (history)|
 
 
 ## Statistics

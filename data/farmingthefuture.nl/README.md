@@ -13,7 +13,7 @@
 |------------|-------|------|
 |[subdomains.txt](/data/farmingthefuture.nl/subdomains.txt)|1|Alive subdomains|
 |[urls.txt](/data/farmingthefuture.nl/urls.txt)|1|Urls|
-|[all_subdomains.txt](/data/farmingthefuture.nl/all_subdomains.txt)|8|All found subdomains (history)|
+|[all_subdomains.txt](/data/farmingthefuture.nl/all_subdomains.txt)|10|All found subdomains (history)|
 
 
 ## Statistics

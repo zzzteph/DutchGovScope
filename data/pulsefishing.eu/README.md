@@ -11,9 +11,9 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/pulsefishing.eu/subdomains.txt)|7|Alive subdomains|
+|[subdomains.txt](/data/pulsefishing.eu/subdomains.txt)|10|Alive subdomains|
 |[urls.txt](/data/pulsefishing.eu/urls.txt)|4|Urls|
-|[all_subdomains.txt](/data/pulsefishing.eu/all_subdomains.txt)|22|All found subdomains (history)|
+|[all_subdomains.txt](/data/pulsefishing.eu/all_subdomains.txt)|25|All found subdomains (history)|
 
 
 ## Statistics

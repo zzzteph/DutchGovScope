@@ -2,8 +2,8 @@
 layout: default
 title: "prosecutionservice.nl"
 permalink: "/dutchgov/prosecutionservice.nl.html"
-subdomains_count: 6
-all_subdomains_count: 8
+subdomains_count: 9
+all_subdomains_count: 11
 urls_count: 6
 ssl_rank: 
 http_rank: B
@@ -27,9 +27,9 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/prosecutionservice.nl/subdomains.txt)|6|Alive subdomains|
+|[subdomains.txt](/DutchGovScope/data/prosecutionservice.nl/subdomains.txt)|9|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/prosecutionservice.nl/urls.txt)|6|Urls|
-|[all_subdomains.txt](/DutchGovScope/data/prosecutionservice.nl/all_subdomains.txt)|8|All found subdomains (history)|
+|[all_subdomains.txt](/DutchGovScope/data/prosecutionservice.nl/all_subdomains.txt)|11|All found subdomains (history)|
 
 
 ## Statistics

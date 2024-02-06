@@ -58,3 +58,7 @@ wist-fpi.hhdelfland.nl
 workspace.hhdelfland.nl
 sip.hhdelfland.nl
 opendata.hhdelfland.nl
+airwatch.hhdelfland.nl
+enterpriseenrollment.hhdelfland.nl
+fileshare.hhdelfland.nl
+passwordreset.hhdelfland.nl

@@ -3,3 +3,5 @@ opendata.maakhetzeniettemakkelijk.nl
 www.maakhetzeniettemakkelijk.nl
 maakhetzeniettemakkelijk.nl
 a-www.maakhetzeniettemakkelijk.nl
+a-feeds.maakhetzeniettemakkelijk.nl
+a-opendata.maakhetzeniettemakkelijk.nl

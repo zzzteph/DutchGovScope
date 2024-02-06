@@ -11,9 +11,9 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/dji.nl/subdomains.txt)|32|Alive subdomains|
+|[subdomains.txt](/data/dji.nl/subdomains.txt)|33|Alive subdomains|
 |[urls.txt](/data/dji.nl/urls.txt)|20|Urls|
-|[all_subdomains.txt](/data/dji.nl/all_subdomains.txt)|59|All found subdomains (history)|
+|[all_subdomains.txt](/data/dji.nl/all_subdomains.txt)|60|All found subdomains (history)|
 
 
 ## Statistics

@@ -43,3 +43,4 @@ upeu-tst.minez.nl
 xapps.minez.nl
 sip.minez.nl
 lyncdiscover.minez.nl
+forms.minez.nl

@@ -3,3 +3,6 @@ feeds.rcgog.nl
 opendata.rcgog.nl
 rcgog.nl
 autodiscover.rcgog.nl
+a-feeds.rcgog.nl
+a-opendata.rcgog.nl
+a-www.rcgog.nl

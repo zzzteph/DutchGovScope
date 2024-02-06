@@ -14,3 +14,6 @@ aanvragen.service.regelhulp.nl
 gemeente.regelhulp.nl
 gemeente-acc.regelhulp.nl
 zorgregelaar.regelhulp.nl
+a-feeds.regelhulp.nl
+a-opendata.regelhulp.nl
+a-www.regelhulp.nl

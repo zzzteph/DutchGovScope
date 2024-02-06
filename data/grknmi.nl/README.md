@@ -12,7 +12,7 @@
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/grknmi.nl/subdomains.txt)|3|Alive subdomains|
-|[urls.txt](/data/grknmi.nl/urls.txt)|3|Urls|
+|[urls.txt](/data/grknmi.nl/urls.txt)|0|Urls|
 |[all_subdomains.txt](/data/grknmi.nl/all_subdomains.txt)|3|All found subdomains (history)|
 
 
@@ -21,7 +21,4 @@
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://grknmi.nl](https://grknmi.nl)| | **F**|Apache/2| | | | | | | | :white_check_mark: | |Apache HTTP Server:2 PHP:7.2.34|Welkom bij de ge...|
-|[https://www.grknmi.nl](https://www.grknmi.nl)| | **F**|Apache/2| | | | | | | | :white_check_mark: | |Apache HTTP Server:2 PHP:7.2.34|Welkom bij de ge...|
-|[https://mail.grknmi.nl](https://mail.grknmi.nl)| | **F**|Apache/2| | | | | | | | :white_check_mark: | |Apache HTTP Server:2||
 

@@ -1,3 +1,4 @@
 www.nationaleenergieatlas.nl
 nationaleenergieatlas.nl
 acceptatie.nationaleenergieatlas.nl
+localhost.nationaleenergieatlas.nl

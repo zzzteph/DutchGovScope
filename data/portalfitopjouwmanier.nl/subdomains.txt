@@ -2,3 +2,6 @@ feeds.portalfitopjouwmanier.nl
 opendata.portalfitopjouwmanier.nl
 www.portalfitopjouwmanier.nl
 portalfitopjouwmanier.nl
+a-feeds.portalfitopjouwmanier.nl
+a-opendata.portalfitopjouwmanier.nl
+a-www.portalfitopjouwmanier.nl

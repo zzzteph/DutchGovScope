@@ -5,3 +5,6 @@ www.tlokb.nl
 tlokb.nl
 import.tlokb.nl
 importacc.tlokb.nl
+a-feeds.tlokb.nl
+a-opendata.tlokb.nl
+a-www.tlokb.nl

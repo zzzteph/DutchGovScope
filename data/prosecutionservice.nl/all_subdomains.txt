@@ -6,3 +6,6 @@ www.prosecutionservice.nl
 prosecutionservice.nl
 magazinesintern.prosecutionservice.nl
 magazines.prosecutionservice.nl
+a-feeds.prosecutionservice.nl
+a-opendata.prosecutionservice.nl
+a-www.prosecutionservice.nl

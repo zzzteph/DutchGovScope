@@ -11,7 +11,7 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/om.nl/subdomains.txt)|27|Alive subdomains|
+|[subdomains.txt](/data/om.nl/subdomains.txt)|30|Alive subdomains|
 |[urls.txt](/data/om.nl/urls.txt)|25|Urls|
 |[all_subdomains.txt](/data/om.nl/all_subdomains.txt)|82|All found subdomains (history)|
 
@@ -29,7 +29,7 @@
 |[https://opendata.om.nl](https://opendata.om.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://www.om.nl](https://www.om.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Home | Openbaar...|
 |[https://nevenbetrekkingen.om.nl](https://nevenbetrekkingen.om.nl)| | **D**|| | | | | | :white_check_mark: | | :white_check_mark: | |Microsoft ASP.NET:4.0.30319|Nevenbetrekkinge...|
-|[https://snelheidsovertredingen.om.nl](https://snelheidsovertredingen.om.nl)| | **D**|| | | | | | :white_check_mark: | | :white_check_mark: | |Microsoft ASP.NET|Tarieven snelhei...|
+|[https://snelheidsovertredingen.om.nl](https://snelheidsovertredingen.om.nl)| | **D**|| | | | | | :white_check_mark: | | :white_check_mark: | |Microsoft ASP.NET:4.0.30319|Tarieven snelhei...|
 |[https://www2.om.nl](https://www2.om.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Not Found|
 |[https://media.om.nl](https://media.om.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
 |[https://strafdossiermh17.acc.om.nl](https://strafdossiermh17.acc.om.nl)| | **F**|nginx/1.25.1| | | | | | | | :white_check_mark: | |HSTS Nginx:1.25.1|Strafdossier MH1...|

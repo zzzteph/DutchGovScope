@@ -2,8 +2,8 @@
 layout: default
 title: "atlasleefomgeving.nl"
 permalink: "/dutchgov/atlasleefomgeving.nl.html"
-subdomains_count: 7
-all_subdomains_count: 8
+subdomains_count: 11
+all_subdomains_count: 12
 urls_count: 5
 ssl_rank: 
 http_rank: C
@@ -27,9 +27,9 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/atlasleefomgeving.nl/subdomains.txt)|7|Alive subdomains|
+|[subdomains.txt](/DutchGovScope/data/atlasleefomgeving.nl/subdomains.txt)|11|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/atlasleefomgeving.nl/urls.txt)|5|Urls|
-|[all_subdomains.txt](/DutchGovScope/data/atlasleefomgeving.nl/all_subdomains.txt)|8|All found subdomains (history)|
+|[all_subdomains.txt](/DutchGovScope/data/atlasleefomgeving.nl/all_subdomains.txt)|12|All found subdomains (history)|
 
 
 ## Statistics

@@ -168,3 +168,6 @@ feeds.english.persberichten.rijksoverheid.nl
 www.statistiek.rijksoverheid.nl
 magazines.persberichten.rijksoverheid.nl
 persbericht.rijksoverheid.nl
+i-www.rijksoverheid.nl
+landingpage.rijksoverheid.nl
+relay.rijksoverheid.nl

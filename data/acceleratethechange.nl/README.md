@@ -13,7 +13,7 @@
 |------------|-------|------|
 |[subdomains.txt](/data/acceleratethechange.nl/subdomains.txt)|1|Alive subdomains|
 |[urls.txt](/data/acceleratethechange.nl/urls.txt)|1|Urls|
-|[all_subdomains.txt](/data/acceleratethechange.nl/all_subdomains.txt)|2|All found subdomains (history)|
+|[all_subdomains.txt](/data/acceleratethechange.nl/all_subdomains.txt)|4|All found subdomains (history)|
 
 
 ## Statistics

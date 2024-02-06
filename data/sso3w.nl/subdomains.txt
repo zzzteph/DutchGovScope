@@ -15,3 +15,9 @@ sso3w.nl
 cmv-kandidaat.sso3w.nl
 prd.btp.sso3w.nl
 acc.cmv-kandidaat.sso3w.nl
+a-english.sso3w.nl
+a-feeds.a-english.sso3w.nl
+a-feeds.sso3w.nl
+a-magazines.sso3w.nl
+a-opendata.a-english.sso3w.nl
+a-www.sso3w.nl

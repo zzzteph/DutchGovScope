@@ -536,3 +536,7 @@ sssc-nm-dnac-am3-01.int.ssc-campus.nl
 ctgb-cvad-a02p.int.ssc-campus.nl
 sscc-ccc-w05p.int.ssc-campus.nl
 rivm-biofl-l01p.rivm.ssc-campus.nl
+sscc-coblr-l02p.int.ssc-campus.nl
+localhost.ssc-campus.nl
+radius1.ssc-campus.nl
+radius2.ssc-campus.nl

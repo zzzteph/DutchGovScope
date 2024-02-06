@@ -5,3 +5,6 @@ www.raadrvs.nl
 adviezen.raadrvs.nl
 sdm.raadrvs.nl
 sip.raadrvs.nl
+a-www.raadrvs.nl
+a-feeds.raadrvs.nl
+a-opendata.raadrvs.nl

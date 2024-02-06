@@ -5,3 +5,5 @@ https://vpzf.ikz.nl
 https://www.ikz.nl
 https://ikz.nl
 https://mta-sts.ikz.nl
+http://autodiscover.ikz.nl
+https://dashboards.ikz.nl

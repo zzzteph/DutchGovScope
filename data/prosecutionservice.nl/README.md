@@ -11,9 +11,9 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/prosecutionservice.nl/subdomains.txt)|6|Alive subdomains|
+|[subdomains.txt](/data/prosecutionservice.nl/subdomains.txt)|9|Alive subdomains|
 |[urls.txt](/data/prosecutionservice.nl/urls.txt)|6|Urls|
-|[all_subdomains.txt](/data/prosecutionservice.nl/all_subdomains.txt)|8|All found subdomains (history)|
+|[all_subdomains.txt](/data/prosecutionservice.nl/all_subdomains.txt)|11|All found subdomains (history)|
 
 
 ## Statistics

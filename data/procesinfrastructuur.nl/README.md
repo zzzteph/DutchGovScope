@@ -13,7 +13,7 @@
 |------------|-------|------|
 |[subdomains.txt](/data/procesinfrastructuur.nl/subdomains.txt)|132|Alive subdomains|
 |[urls.txt](/data/procesinfrastructuur.nl/urls.txt)|4|Urls|
-|[all_subdomains.txt](/data/procesinfrastructuur.nl/all_subdomains.txt)|134|All found subdomains (history)|
+|[all_subdomains.txt](/data/procesinfrastructuur.nl/all_subdomains.txt)|135|All found subdomains (history)|
 
 
 ## Statistics

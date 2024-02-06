@@ -30,3 +30,4 @@ bon.rijksdienstcn.com
 mail.rijksdienstcn.com
 mobile.rijksdienstcn.com
 webmail.rijksdienstcn.com
+fmg.rijksdienstcn.com

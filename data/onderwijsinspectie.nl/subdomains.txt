@@ -12,3 +12,9 @@ www.onderwijsinspectie.nl
 www.zoekscholen.onderwijsinspectie.nl
 zoekscholen.onderwijsinspectie.nl
 onderwijsinspectie.nl
+a-feeds.a-english.onderwijsinspectie.nl
+a-feeds.onderwijsinspectie.nl
+a-opendata.a-english.onderwijsinspectie.nl
+a-opendata.onderwijsinspectie.nl
+a-www.onderwijsinspectie.nl
+a-magazines.onderwijsinspectie.nl

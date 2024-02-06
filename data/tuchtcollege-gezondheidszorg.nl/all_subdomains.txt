@@ -9,3 +9,6 @@ feeds.english.tuchtcollege-gezondheidszorg.nl
 opendata.english.tuchtcollege-gezondheidszorg.nl
 magazines.english.tuchtcollege-gezondheidszorg.nl
 magazinesintern.tuchtcollege-gezondheidszorg.nl
+a-feeds.tuchtcollege-gezondheidszorg.nl
+a-magazines.tuchtcollege-gezondheidszorg.nl
+a-opendata.tuchtcollege-gezondheidszorg.nl

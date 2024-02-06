@@ -1,3 +1,5 @@
 intern.ssc-ictspecials.nl
 www.ssc-ictspecials.nl
 ssc-ictspecials.nl
+a-intern.ssc-ictspecials.nl
+a-www.ssc-ictspecials.nl

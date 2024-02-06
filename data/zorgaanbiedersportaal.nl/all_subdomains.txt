@@ -19,3 +19,5 @@ acceptatie.mijn.locatieregister.zorgaanbiedersportaal.nl
 acceptatie.mijn.toelating.zorgaanbiedersportaal.nl
 signing.toelatingsvergunning.zorgaanbiedersportaal.nl
 mijn.toelating.zorgaanbiedersportaal.nl
+acceptatie.api.zorgaanbiedersportaal.nl
+api.zorgaanbiedersportaal.nl

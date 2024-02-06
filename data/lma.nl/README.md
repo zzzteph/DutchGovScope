@@ -11,9 +11,9 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/lma.nl/subdomains.txt)|5|Alive subdomains|
+|[subdomains.txt](/data/lma.nl/subdomains.txt)|6|Alive subdomains|
 |[urls.txt](/data/lma.nl/urls.txt)|5|Urls|
-|[all_subdomains.txt](/data/lma.nl/all_subdomains.txt)|11|All found subdomains (history)|
+|[all_subdomains.txt](/data/lma.nl/all_subdomains.txt)|12|All found subdomains (history)|
 
 
 ## Statistics

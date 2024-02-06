@@ -8,3 +8,4 @@ english.magazinesrijkswaterstaat.nl
 feeds.english.magazinesrijkswaterstaat.nl
 opendata.english.magazinesrijkswaterstaat.nl
 opendata.magazinesrijkswaterstaat.nl
+a-intern.magazinesrijkswaterstaat.nl

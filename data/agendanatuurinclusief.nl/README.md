@@ -12,7 +12,7 @@
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/agendanatuurinclusief.nl/subdomains.txt)|3|Alive subdomains|
-|[urls.txt](/data/agendanatuurinclusief.nl/urls.txt)|2|Urls|
+|[urls.txt](/data/agendanatuurinclusief.nl/urls.txt)|3|Urls|
 |[all_subdomains.txt](/data/agendanatuurinclusief.nl/all_subdomains.txt)|3|All found subdomains (history)|
 
 
@@ -23,4 +23,5 @@
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[https://agendanatuurinclusief.nl](https://agendanatuurinclusief.nl)| | **F**|Apache/2| | | | | | | | :white_check_mark: | |Apache HTTP Server:2 Elementor:3.19.0 MySQL PHP:8.1.26 WordPress:6.4.3 Yoast SEO:21.9.1|Home - Agenda na...|
 |[https://www.agendanatuurinclusief.nl](https://www.agendanatuurinclusief.nl)| | **F**|Apache/2| | | | | | | | :white_check_mark: | |Apache HTTP Server:2 PHP:8.1.26||
+|[https://mail.agendanatuurinclusief.nl](https://mail.agendanatuurinclusief.nl)| | **F**|Apache/2| | | | | | | | :white_check_mark: | |Apache HTTP Server:2||
 

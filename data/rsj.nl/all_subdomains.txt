@@ -11,3 +11,8 @@ english.rsj.nl
 magazinesintern.english.rsj.nl
 magazines.rsj.nl
 abonneren.rsj.nl
+a-feeds.rsj.nl
+a-opendata.rsj.nl
+a-www.rsj.nl
+congres.rsj.nl
+databases.rsj.nl

@@ -3,3 +3,4 @@ prod.amice.lma.nl
 test.lma.nl
 www.lma.nl
 lma.nl
+bnc3.lma.nl

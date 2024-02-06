@@ -11,9 +11,9 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/rijksoverheid.nl/subdomains.txt)|93|Alive subdomains|
-|[urls.txt](/data/rijksoverheid.nl/urls.txt)|28|Urls|
-|[all_subdomains.txt](/data/rijksoverheid.nl/all_subdomains.txt)|170|All found subdomains (history)|
+|[subdomains.txt](/data/rijksoverheid.nl/subdomains.txt)|96|Alive subdomains|
+|[urls.txt](/data/rijksoverheid.nl/urls.txt)|27|Urls|
+|[all_subdomains.txt](/data/rijksoverheid.nl/all_subdomains.txt)|173|All found subdomains (history)|
 
 
 ## Statistics
@@ -24,9 +24,8 @@
 |[https://a-downloads.persberichten.rijksoverheid.nl](https://a-downloads.persberichten.rijksoverheid.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|404 - Not Found|
 |[https://a-rss.persberichten.rijksoverheid.nl](https://a-rss.persberichten.rijksoverheid.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Basic HSTS Nginx||
 |[https://acc-mailing.rijksoverheid.nl](https://acc-mailing.rijksoverheid.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS|403 - Forbidden:...|
-|[https://coronadashboard.rijksoverheid.nl](https://coronadashboard.rijksoverheid.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Azure Azure Front Door|Service unavaila...|
+|[https://coronadashboard.rijksoverheid.nl](https://coronadashboard.rijksoverheid.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Azure Azure Front Door Fourthwall:prd-5548-ee71e0b71 HSTS Next.js Node.js React Webpack|Coronadashboard...|
 |[http://dns-web10.rijksoverheid.nl](http://dns-web10.rijksoverheid.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server||
-|[http://dns-web300.rijksoverheid.nl](http://dns-web300.rijksoverheid.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server||
 |[https://downloads.persberichten.rijksoverheid.nl](https://downloads.persberichten.rijksoverheid.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|404 - Not Found|
 |[https://e-maildiensten.rijksoverheid.nl](https://e-maildiensten.rijksoverheid.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS|403 - Forbidden:...|
 |[https://feeds.rijksoverheid.nl](https://feeds.rijksoverheid.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||

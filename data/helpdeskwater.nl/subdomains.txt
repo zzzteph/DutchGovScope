@@ -4,3 +4,4 @@ kennisbanktest.helpdeskwater.nl
 www.helpdeskwater.nl
 helpdeskwater.nl
 mail.helpdeskwater.nl
+ftp.helpdeskwater.nl

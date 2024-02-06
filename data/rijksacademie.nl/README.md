@@ -11,9 +11,9 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/rijksacademie.nl/subdomains.txt)|14|Alive subdomains|
-|[urls.txt](/data/rijksacademie.nl/urls.txt)|7|Urls|
-|[all_subdomains.txt](/data/rijksacademie.nl/all_subdomains.txt)|17|All found subdomains (history)|
+|[subdomains.txt](/data/rijksacademie.nl/subdomains.txt)|18|Alive subdomains|
+|[urls.txt](/data/rijksacademie.nl/urls.txt)|8|Urls|
+|[all_subdomains.txt](/data/rijksacademie.nl/all_subdomains.txt)|21|All found subdomains (history)|
 
 
 ## Statistics
@@ -28,4 +28,5 @@
 |[https://opendata.rijksacademie.nl](https://opendata.rijksacademie.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://www.rijksacademie.nl](https://www.rijksacademie.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Home | Rijksacad...|
 |[https://rijksacademie.nl](https://rijksacademie.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
+|[http://autodiscover.rijksacademie.nl](http://autodiscover.rijksacademie.nl)| | **B**|Microsoft-IIS/10.0|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server||
 

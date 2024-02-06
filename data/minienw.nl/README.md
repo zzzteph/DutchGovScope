@@ -5,14 +5,14 @@
 
 
  - **SSL Grade**:
- - **HTTP Security Grade**:A
+ - **HTTP Security Grade**:B
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:2
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/minienw.nl/subdomains.txt)|23|Alive subdomains|
-|[urls.txt](/data/minienw.nl/urls.txt)|7|Urls|
+|[subdomains.txt](/data/minienw.nl/subdomains.txt)|33|Alive subdomains|
+|[urls.txt](/data/minienw.nl/urls.txt)|9|Urls|
 |[all_subdomains.txt](/data/minienw.nl/all_subdomains.txt)|55|All found subdomains (history)|
 
 
@@ -28,4 +28,6 @@
 |[https://www.minienw.nl](https://www.minienw.nl)| | **A**|Microsoft-IIS/10.0| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS IIS:10.0 Windows Server|Document Moved|
 |[https://publicaties.minienw.nl](https://publicaties.minienw.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
 |[https://minienw.nl](https://minienw.nl)| | **A**|Microsoft-IIS/10.0| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS IIS:10.0 Windows Server|Document Moved|
+|[https://csp.minienw.nl](https://csp.minienw.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS|Trust Service Pr...|
+|[http://localhost.minienw.nl](http://localhost.minienw.nl)| | **D**|nginx| | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Nginx|Welcome to nginx...|
 

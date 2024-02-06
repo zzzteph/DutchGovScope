@@ -13,7 +13,7 @@
 |------------|-------|------|
 |[subdomains.txt](/data/waarderingskamer.nl/subdomains.txt)|23|Alive subdomains|
 |[urls.txt](/data/waarderingskamer.nl/urls.txt)|12|Urls|
-|[all_subdomains.txt](/data/waarderingskamer.nl/all_subdomains.txt)|43|All found subdomains (history)|
+|[all_subdomains.txt](/data/waarderingskamer.nl/all_subdomains.txt)|44|All found subdomains (history)|
 
 
 ## Statistics

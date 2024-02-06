@@ -8,3 +8,5 @@ www.registersocialehygiene.nl
 mijn.registersocialehygiene.nl
 feeds.registersocialehygiene.nl
 opendata.registersocialehygiene.nl
+a-feeds.registersocialehygiene.nl
+a-opendata.registersocialehygiene.nl

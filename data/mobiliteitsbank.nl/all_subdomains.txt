@@ -20,3 +20,4 @@ migratie.mobiliteitsbank.nl
 www.test1.www.mobiliteitsbank.nl
 test2.www.mobiliteitsbank.nl
 benchmarking.mobiliteitsbank.nl
+acceptatie.mobiliteitsbank.nl

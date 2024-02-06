@@ -3,3 +3,6 @@ feeds.werkenaanonspensioen.nl
 opendata.werkenaanonspensioen.nl
 zoeken.werkenaanonspensioen.nl
 werkenaanonspensioen.nl
+a-opendata.werkenaanonspensioen.nl
+a-www.werkenaanonspensioen.nl
+a-feeds.werkenaanonspensioen.nl

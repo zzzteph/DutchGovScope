@@ -1807,3 +1807,9 @@ metadata-enhancer.labs.dans.knaw.nl
 packaging.labs.dans.knaw.nl
 vangogh-tiles.dev.huc.knaw.nl
 wp-14.dev.huc.knaw.nl
+facades.labs.dans.knaw.nl
+wp-11.dev.huc.knaw.nl
+databeheer.huygens.knaw.nl
+facades-conversion.labs.dans.knaw.nl
+oai-harvester.labs.dans.knaw.nl
+ga-wp3.sd.di.huc.knaw.nl

@@ -1,9 +1,1 @@
-english.waterenklimaat.nl
-euwijzer.waterenklimaat.nl
-feeds.waterenklimaat.nl
-feeds.english.waterenklimaat.nl
-opendata.waterenklimaat.nl
-opendata.english.waterenklimaat.nl
-www.waterenklimaat.nl
-waterenklimaat.nl
 cpanel.waterenklimaat.nl

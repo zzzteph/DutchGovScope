@@ -11,9 +11,9 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/werkenvoornederland.nl/subdomains.txt)|19|Alive subdomains|
+|[subdomains.txt](/data/werkenvoornederland.nl/subdomains.txt)|20|Alive subdomains|
 |[urls.txt](/data/werkenvoornederland.nl/urls.txt)|19|Urls|
-|[all_subdomains.txt](/data/werkenvoornederland.nl/all_subdomains.txt)|35|All found subdomains (history)|
+|[all_subdomains.txt](/data/werkenvoornederland.nl/all_subdomains.txt)|36|All found subdomains (history)|
 
 
 ## Statistics

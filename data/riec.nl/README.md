@@ -11,9 +11,9 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/riec.nl/subdomains.txt)|13|Alive subdomains|
-|[urls.txt](/data/riec.nl/urls.txt)|7|Urls|
-|[all_subdomains.txt](/data/riec.nl/all_subdomains.txt)|27|All found subdomains (history)|
+|[subdomains.txt](/data/riec.nl/subdomains.txt)|15|Alive subdomains|
+|[urls.txt](/data/riec.nl/urls.txt)|8|Urls|
+|[all_subdomains.txt](/data/riec.nl/all_subdomains.txt)|29|All found subdomains (history)|
 
 
 ## Statistics
@@ -28,4 +28,5 @@
 |[https://mdm.zwb.riec.nl](https://mdm.zwb.riec.nl)| | **F**|server| | | | | | | | :white_check_mark: | ||302 Found|
 |[https://opendata.riec.nl](https://opendata.riec.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://riec.nl](https://riec.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
+|[https://autoconfig.riec.nl](https://autoconfig.riec.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|Autodiscover|
 

@@ -1148,3 +1148,9 @@ mqtt-0090cfc1-56cb-4409-b7cc-24259776877c.grid.rws.nl
 mqtt-88fe350a-462e-4b2f-a816-9dcc144d63b1.grid.rws.nl
 acc-werkplek.rws.nl
 relay-2s.rws.nl
+access.rws.nl
+bnc3.rws.nl
+enterpriseenrollment.rws.nl
+lims.rws.nl
+securelogin.rws.nl
+webcon.rws.nl

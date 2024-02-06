@@ -13,7 +13,7 @@
 |------------|-------|------|
 |[subdomains.txt](/data/biociden.nl/subdomains.txt)|2|Alive subdomains|
 |[urls.txt](/data/biociden.nl/urls.txt)|2|Urls|
-|[all_subdomains.txt](/data/biociden.nl/all_subdomains.txt)|2|All found subdomains (history)|
+|[all_subdomains.txt](/data/biociden.nl/all_subdomains.txt)|3|All found subdomains (history)|
 
 
 ## Statistics
