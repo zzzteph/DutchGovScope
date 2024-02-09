@@ -11,7 +11,7 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/werkenbijdeoverheid.nl/subdomains.txt)|16|Alive subdomains|
+|[subdomains.txt](/data/werkenbijdeoverheid.nl/subdomains.txt)|17|Alive subdomains|
 |[urls.txt](/data/werkenbijdeoverheid.nl/urls.txt)|15|Urls|
 |[all_subdomains.txt](/data/werkenbijdeoverheid.nl/all_subdomains.txt)|50|All found subdomains (history)|
 

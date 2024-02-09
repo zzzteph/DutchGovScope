@@ -19,3 +19,8 @@ test.bronhouderportaal-bro.nl
 pre.bronhouderportaal-bro.nl
 sad.bronhouderportaal-bro.nl
 acc-tno.bronhouderportaal-bro.nl
+acc2.bronhouderportaal-bro.nl
+demo2.bronhouderportaal-bro.nl
+dev.bronhouderportaal-bro.nl
+sso-dev.bronhouderportaal-bro.nl
+localhost.bronhouderportaal-bro.nl

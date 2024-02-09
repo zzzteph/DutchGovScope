@@ -14,3 +14,13 @@ https://testeloket.aaenmaas.nl
 https://meet.aaenmaas.nl
 https://dialin.aaenmaas.nl
 https://eloket.aaenmaas.nl
+https://amira.aaenmaas.nl
+https://geoportal.aaenmaas.nl
+https://gisservices.aaenmaas.nl
+https://luchtfoto.aaenmaas.nl
+https://webgis.aaenmaas.nl
+https://ucc.aaenmaas.nl
+http://was.aaenmaas.nl
+https://geoservices.aaenmaas.nl
+https://vpn.aaenmaas.nl
+https://wik.aaenmaas.nl

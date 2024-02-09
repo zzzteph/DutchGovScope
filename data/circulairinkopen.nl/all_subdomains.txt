@@ -2,3 +2,6 @@ circulairinkopen.nl
 feeds.circulairinkopen.nl
 opendata.circulairinkopen.nl
 www.circulairinkopen.nl
+a-feeds.circulairinkopen.nl
+a-opendata.circulairinkopen.nl
+a-www.circulairinkopen.nl

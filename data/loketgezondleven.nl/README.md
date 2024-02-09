@@ -12,7 +12,7 @@
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/loketgezondleven.nl/subdomains.txt)|10|Alive subdomains|
-|[urls.txt](/data/loketgezondleven.nl/urls.txt)|7|Urls|
+|[urls.txt](/data/loketgezondleven.nl/urls.txt)|8|Urls|
 |[all_subdomains.txt](/data/loketgezondleven.nl/all_subdomains.txt)|13|All found subdomains (history)|
 
 
@@ -28,4 +28,5 @@
 |[https://toolkits.loketgezondleven.nl](https://toolkits.loketgezondleven.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS Varnish||
 |[https://www.loketgezondleven.nl](https://www.loketgezondleven.nl)| | **A**|Apache| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server Drupal HSTS PHP|Loket Gezond Lev...|
 |[https://loketgezondleven.nl](https://loketgezondleven.nl)| | **A**|Apache| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS|301 Moved Perman...|
+|[http://localhost.loketgezondleven.nl](http://localhost.loketgezondleven.nl)| | **D**|nginx| | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Nginx|Welcome to nginx...|
 

@@ -135,3 +135,7 @@ gbastub.cibg.nl
 www.prototype.cibg.nl
 www.acceptatie.designsystem.cibg.nl
 magazinesintern.cibg.nl
+acceptatie.beheer.generiekeregistratiedienst.cibg.nl
+beheer.generiekeregistratiedienst.cibg.nl
+behandel.generiekeregistratiedienst.cibg.nl
+acceptatie.behandel.generiekeregistratiedienst.cibg.nl

@@ -11,9 +11,9 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/werkenbijhetcjib.nl/subdomains.txt)|1|Alive subdomains|
+|[subdomains.txt](/data/werkenbijhetcjib.nl/subdomains.txt)|2|Alive subdomains|
 |[urls.txt](/data/werkenbijhetcjib.nl/urls.txt)|1|Urls|
-|[all_subdomains.txt](/data/werkenbijhetcjib.nl/all_subdomains.txt)|1|All found subdomains (history)|
+|[all_subdomains.txt](/data/werkenbijhetcjib.nl/all_subdomains.txt)|2|All found subdomains (history)|
 
 
 ## Statistics

@@ -11,9 +11,9 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/actieleernetwerk.nl/subdomains.txt)|2|Alive subdomains|
+|[subdomains.txt](/data/actieleernetwerk.nl/subdomains.txt)|5|Alive subdomains|
 |[urls.txt](/data/actieleernetwerk.nl/urls.txt)|2|Urls|
-|[all_subdomains.txt](/data/actieleernetwerk.nl/all_subdomains.txt)|2|All found subdomains (history)|
+|[all_subdomains.txt](/data/actieleernetwerk.nl/all_subdomains.txt)|5|All found subdomains (history)|
 
 
 ## Statistics

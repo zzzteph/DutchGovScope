@@ -12,7 +12,7 @@
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/ssonet.nl/subdomains.txt)|39|Alive subdomains|
-|[urls.txt](/data/ssonet.nl/urls.txt)|4|Urls|
+|[urls.txt](/data/ssonet.nl/urls.txt)|5|Urls|
 |[all_subdomains.txt](/data/ssonet.nl/all_subdomains.txt)|88|All found subdomains (history)|
 
 
@@ -25,4 +25,5 @@
 |[https://www.ssonet.nl](https://www.ssonet.nl)| | **A**|Microsoft-IIS/10.0| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS IIS:10.0 Windows Server|Document Moved|
 |[http://exchange.ssonet.nl](http://exchange.ssonet.nl)| | **F**|BigIP| | | | | | | | :white_check_mark: | |F5 BigIP||
 |[https://storingsdienst.rgd.ssonet.nl](https://storingsdienst.rgd.ssonet.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
+|[http://localhost.ssonet.nl](http://localhost.ssonet.nl)| | **D**|nginx| | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Nginx|Welcome to nginx...|
 

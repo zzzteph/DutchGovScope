@@ -11,9 +11,9 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/wachtrijbooster.nl/subdomains.txt)|3|Alive subdomains|
+|[subdomains.txt](/data/wachtrijbooster.nl/subdomains.txt)|4|Alive subdomains|
 |[urls.txt](/data/wachtrijbooster.nl/urls.txt)|3|Urls|
-|[all_subdomains.txt](/data/wachtrijbooster.nl/all_subdomains.txt)|4|All found subdomains (history)|
+|[all_subdomains.txt](/data/wachtrijbooster.nl/all_subdomains.txt)|5|All found subdomains (history)|
 
 
 ## Statistics

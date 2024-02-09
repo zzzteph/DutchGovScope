@@ -142,3 +142,5 @@ mytoken.dictu.nl
 ns1.gslb.dictu.nl
 ns2.gslb.dictu.nl
 webservices2.dictu.nl
+test2.dictu.nl
+leerportaal.dictu.nl

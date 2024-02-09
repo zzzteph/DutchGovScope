@@ -4,9 +4,9 @@ title: "gezondekinderopvang.nl"
 permalink: "/dutchgov/gezondekinderopvang.nl.html"
 subdomains_count: 6
 all_subdomains_count: 6
-urls_count: 5
+urls_count: 6
 ssl_rank: 
-http_rank: B
+http_rank: C
 security_txt: 4
 url_link: /data/gezondekinderopvang.nl/urls.txt
 all_subdomains_link: /data/gezondekinderopvang.nl/all_subdomains.txt
@@ -21,14 +21,14 @@ tags: dutchgov
 
 
  - **SSL Grade**:
- - **HTTP Security Grade**:B
+ - **HTTP Security Grade**:C
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:4
 
 
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/DutchGovScope/data/gezondekinderopvang.nl/subdomains.txt)|6|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/gezondekinderopvang.nl/urls.txt)|5|Urls|
+|[urls.txt](/DutchGovScope/data/gezondekinderopvang.nl/urls.txt)|6|Urls|
 |[all_subdomains.txt](/DutchGovScope/data/gezondekinderopvang.nl/all_subdomains.txt)|6|All found subdomains (history)|
 
 
@@ -42,4 +42,5 @@ tags: dutchgov
 |[http://test.gezondekinderopvang.nl](http://test.gezondekinderopvang.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://www.gezondekinderopvang.nl](https://www.gezondekinderopvang.nl)| | **A**|Apache| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server Drupal HSTS PHP|Home | Gezonde K...|
 |[https://gezondekinderopvang.nl](https://gezondekinderopvang.nl)| | **A**|Apache| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS|301 Moved Perman...|
+|[http://localhost.gezondekinderopvang.nl](http://localhost.gezondekinderopvang.nl)| | **D**|nginx| | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Nginx|Welcome to nginx...|
 

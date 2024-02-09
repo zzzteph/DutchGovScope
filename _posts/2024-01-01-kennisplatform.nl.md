@@ -2,8 +2,8 @@
 layout: default
 title: "kennisplatform.nl"
 permalink: "/dutchgov/kennisplatform.nl.html"
-subdomains_count: 4
-all_subdomains_count: 4
+subdomains_count: 12
+all_subdomains_count: 12
 urls_count: 2
 ssl_rank: 
 http_rank: B
@@ -27,9 +27,9 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/kennisplatform.nl/subdomains.txt)|4|Alive subdomains|
+|[subdomains.txt](/DutchGovScope/data/kennisplatform.nl/subdomains.txt)|12|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/kennisplatform.nl/urls.txt)|2|Urls|
-|[all_subdomains.txt](/DutchGovScope/data/kennisplatform.nl/all_subdomains.txt)|4|All found subdomains (history)|
+|[all_subdomains.txt](/DutchGovScope/data/kennisplatform.nl/all_subdomains.txt)|12|All found subdomains (history)|
 
 
 ## Statistics

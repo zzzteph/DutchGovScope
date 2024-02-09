@@ -6,3 +6,5 @@ cdn.naarnederland.nl
 mobile.naarnederland.nl
 www.naarnederland.nlwww.naarnederland.nl
 restitutie.naarnederland.nl
+acc.naarnederland.nl
+autodiscover.naarnederland.nl

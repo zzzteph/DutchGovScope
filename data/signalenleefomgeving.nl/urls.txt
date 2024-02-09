@@ -1,2 +1,3 @@
 https://www.signalenleefomgeving.nl
 https://signalenleefomgeving.nl
+http://localhost.signalenleefomgeving.nl

@@ -2,8 +2,8 @@
 layout: default
 title: "leerenontwikkelplein.nl"
 permalink: "/dutchgov/leerenontwikkelplein.nl.html"
-subdomains_count: 6
-all_subdomains_count: 14
+subdomains_count: 9
+all_subdomains_count: 17
 urls_count: 6
 ssl_rank: 
 http_rank: A
@@ -27,9 +27,9 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/leerenontwikkelplein.nl/subdomains.txt)|6|Alive subdomains|
+|[subdomains.txt](/DutchGovScope/data/leerenontwikkelplein.nl/subdomains.txt)|9|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/leerenontwikkelplein.nl/urls.txt)|6|Urls|
-|[all_subdomains.txt](/DutchGovScope/data/leerenontwikkelplein.nl/all_subdomains.txt)|14|All found subdomains (history)|
+|[all_subdomains.txt](/DutchGovScope/data/leerenontwikkelplein.nl/all_subdomains.txt)|17|All found subdomains (history)|
 
 
 ## Statistics

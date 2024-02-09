@@ -38,6 +38,6 @@ tags: dutchgov
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[https://accept.nldigitalgovernment.nl](https://accept.nldigitalgovernment.nl)| | **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |Basic HSTS Nginx|401 Authorizatio...|
-|[https://www.nldigitalgovernment.nl](https://www.nldigitalgovernment.nl)| | **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS MySQL Nginx PHP:8.0.30 WordPress:6.4.3 Yoast SEO:21.8.1|Home 2 - Digital...|
+|[https://www.nldigitalgovernment.nl](https://www.nldigitalgovernment.nl)| | **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS MySQL Nginx PHP:8.0.30 WordPress:6.4.3 Yoast SEO:22.0|Home 2 - Digital...|
 |[https://nldigitalgovernment.nl](https://nldigitalgovernment.nl)| | **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Nginx PHP:8.0.30||
 

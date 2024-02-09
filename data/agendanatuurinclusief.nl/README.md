@@ -5,7 +5,7 @@
 
 
  - **SSL Grade**:
- - **HTTP Security Grade**:F
+ - **HTTP Security Grade**:E
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:0
 
 
@@ -21,7 +21,7 @@
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://agendanatuurinclusief.nl](https://agendanatuurinclusief.nl)| | **F**|Apache/2| | | | | | | | :white_check_mark: | |Apache HTTP Server:2 Elementor:3.19.0 MySQL PHP:8.1.26 WordPress:6.4.3 Yoast SEO:21.9.1|Home - Agenda na...|
-|[https://www.agendanatuurinclusief.nl](https://www.agendanatuurinclusief.nl)| | **F**|Apache/2| | | | | | | | :white_check_mark: | |Apache HTTP Server:2 PHP:8.1.26||
+|[https://agendanatuurinclusief.nl](https://agendanatuurinclusief.nl)| | **B**|Apache/2| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server:2|301 Moved Perman...|
+|[https://www.agendanatuurinclusief.nl](https://www.agendanatuurinclusief.nl)| | **F**|Apache/2| | | | | | | | :white_check_mark: | |Apache HTTP Server:2|301 Moved Perman...|
 |[https://mail.agendanatuurinclusief.nl](https://mail.agendanatuurinclusief.nl)| | **F**|Apache/2| | | | | | | | :white_check_mark: | |Apache HTTP Server:2||
 

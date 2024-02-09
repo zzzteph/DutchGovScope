@@ -173,8 +173,8 @@ https://login-databestanden.test.cbs.nl
 https://mijn.acceptatie.cbs.nl
 http://mijn-acceptatie.cbs.nl
 https://brandportal.cbs.nl
-http://sdmx-dataexplorer-beta.cbs.nl
-http://sdmx-share.cbs.nl
-http://sdmx-dataviewer.cbs.nl
-http://sdmx-search-beta.cbs.nl
-http://sdmx-api-beta.cbs.nl
+https://sdmx-dataexplorer-beta.cbs.nl
+https://sdmx-share.cbs.nl
+https://sdmx-dataviewer.cbs.nl
+https://sdmx-search-beta.cbs.nl
+https://sdmx-api-beta.cbs.nl

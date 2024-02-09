@@ -11,9 +11,9 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/samenbouwenaanbereikbaarheid.nl/subdomains.txt)|3|Alive subdomains|
+|[subdomains.txt](/data/samenbouwenaanbereikbaarheid.nl/subdomains.txt)|4|Alive subdomains|
 |[urls.txt](/data/samenbouwenaanbereikbaarheid.nl/urls.txt)|3|Urls|
-|[all_subdomains.txt](/data/samenbouwenaanbereikbaarheid.nl/all_subdomains.txt)|4|All found subdomains (history)|
+|[all_subdomains.txt](/data/samenbouwenaanbereikbaarheid.nl/all_subdomains.txt)|5|All found subdomains (history)|
 
 
 ## Statistics

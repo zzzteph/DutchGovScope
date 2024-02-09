@@ -15,3 +15,11 @@ followup.perined.nl
 sets.perined.nl
 insight.perined.nl
 mail.perined.nl
+e2e1.info.perined.nl
+1311.perined.nl
+scars.perined.nl
+evaluatie.perined.nl
+autodiscover.perined.nl
+control.perined.nl
+localhost.perined.nl
+webmail.perined.nl

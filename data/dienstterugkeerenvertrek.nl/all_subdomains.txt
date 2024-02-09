@@ -12,3 +12,5 @@ a-english.dienstterugkeerenvertrek.nl
 a-feeds.a-english.dienstterugkeerenvertrek.nl
 a-opendata.a-english.dienstterugkeerenvertrek.nl
 a-www.dienstterugkeerenvertrek.nl
+a-opendata.dienstterugkeerenvertrek.nl
+a-feeds.dienstterugkeerenvertrek.nl

@@ -10,3 +10,4 @@ opwww.valys.nl
 mijn.valys.nl
 uurwww.valys.nl
 vita.valys.nl
+autodiscover.valys.nl

@@ -1,3 +1,8 @@
 mail.prettigcontactmetdeoverheid.nl
 www.prettigcontactmetdeoverheid.nl
 prettigcontactmetdeoverheid.nl
+autoconfig.prettigcontactmetdeoverheid.nl
+autodiscover.prettigcontactmetdeoverheid.nl
+ftp.prettigcontactmetdeoverheid.nl
+pop.prettigcontactmetdeoverheid.nl
+smtp.prettigcontactmetdeoverheid.nl

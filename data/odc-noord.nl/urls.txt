@@ -84,7 +84,7 @@ https://vpn.gn2.koop-a.odc-noord.nl
 https://vpn.gn2.koop-p.odc-noord.nl
 https://vpn.gn2.koop-t.odc-noord.nl
 https://vpn.rvb.odc-noord.nl
-http://vws-acc.jira.odc-noord.nl
+https://vws-acc.jira.odc-noord.nl
 https://vws-prd.jira.odc-noord.nl
 https://www.odc-noord.nl
 https://vpn.gn2.koop-pp.odc-noord.nl

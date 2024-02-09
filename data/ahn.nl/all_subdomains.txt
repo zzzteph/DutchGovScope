@@ -7,3 +7,5 @@ hoogtetool.ahn.nl
 www.techniek.ahn.nl
 webmail.ahn.nl
 beta.ahn.nl
+autodiscover.ahn.nl
+msoid.ahn.nl

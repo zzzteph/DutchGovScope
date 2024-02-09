@@ -11,9 +11,9 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/onslevendlandschap.nl/subdomains.txt)|4|Alive subdomains|
+|[subdomains.txt](/data/onslevendlandschap.nl/subdomains.txt)|10|Alive subdomains|
 |[urls.txt](/data/onslevendlandschap.nl/urls.txt)|4|Urls|
-|[all_subdomains.txt](/data/onslevendlandschap.nl/all_subdomains.txt)|4|All found subdomains (history)|
+|[all_subdomains.txt](/data/onslevendlandschap.nl/all_subdomains.txt)|10|All found subdomains (history)|
 
 
 ## Statistics

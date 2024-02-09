@@ -3,7 +3,7 @@ layout: default
 title: "infopuntonbedoeldzwanger.nl"
 permalink: "/dutchgov/infopuntonbedoeldzwanger.nl.html"
 subdomains_count: 7
-all_subdomains_count: 7
+all_subdomains_count: 8
 urls_count: 5
 ssl_rank: A+
 http_rank: A
@@ -29,7 +29,7 @@ tags: dutchgov
 |------------|-------|------|
 |[subdomains.txt](/DutchGovScope/data/infopuntonbedoeldzwanger.nl/subdomains.txt)|7|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/infopuntonbedoeldzwanger.nl/urls.txt)|5|Urls|
-|[all_subdomains.txt](/DutchGovScope/data/infopuntonbedoeldzwanger.nl/all_subdomains.txt)|7|All found subdomains (history)|
+|[all_subdomains.txt](/DutchGovScope/data/infopuntonbedoeldzwanger.nl/all_subdomains.txt)|8|All found subdomains (history)|
 
 
 ## Statistics

@@ -24,5 +24,5 @@
 |[https://feeds.toolboxbeleidsevaluaties.nl](https://feeds.toolboxbeleidsevaluaties.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://opendata.toolboxbeleidsevaluaties.nl](https://opendata.toolboxbeleidsevaluaties.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://www.toolboxbeleidsevaluaties.nl](https://www.toolboxbeleidsevaluaties.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Home | Toolbox B...|
-|[https://toolboxbeleidsevaluaties.nl](https://toolboxbeleidsevaluaties.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
+|[https://toolboxbeleidsevaluaties.nl](https://toolboxbeleidsevaluaties.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 

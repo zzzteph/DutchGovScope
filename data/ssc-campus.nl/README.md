@@ -11,8 +11,8 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/ssc-campus.nl/subdomains.txt)|31|Alive subdomains|
-|[urls.txt](/data/ssc-campus.nl/urls.txt)|17|Urls|
+|[subdomains.txt](/data/ssc-campus.nl/subdomains.txt)|34|Alive subdomains|
+|[urls.txt](/data/ssc-campus.nl/urls.txt)|18|Urls|
 |[all_subdomains.txt](/data/ssc-campus.nl/all_subdomains.txt)|542|All found subdomains (history)|
 
 
@@ -38,4 +38,5 @@
 |[https://testconn-mp.ssc-campus.nl](https://testconn-mp.ssc-campus.nl)| | **F**|BigIP|:warning: | | | | | :white_check_mark: | | :white_check_mark: | |F5 BigIP||
 |[https://www.ssc-campus.nl](https://www.ssc-campus.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|301 Moved Perman...|
 |[https://ssc-campus.nl](https://ssc-campus.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|301 Moved Perman...|
+|[http://localhost.ssc-campus.nl](http://localhost.ssc-campus.nl)| | **D**|nginx| | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Nginx|Welcome to nginx...|
 

@@ -5,14 +5,14 @@
 
 
  - **SSL Grade**:
- - **HTTP Security Grade**:F
+ - **HTTP Security Grade**:B
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:0
 
 
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/beheerrijksoverheid.nl/subdomains.txt)|2|Alive subdomains|
-|[urls.txt](/data/beheerrijksoverheid.nl/urls.txt)|0|Urls|
+|[urls.txt](/data/beheerrijksoverheid.nl/urls.txt)|1|Urls|
 |[all_subdomains.txt](/data/beheerrijksoverheid.nl/all_subdomains.txt)|4|All found subdomains (history)|
 
 
@@ -21,4 +21,5 @@
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
+|[http://autodiscover.beheerrijksoverheid.nl](http://autodiscover.beheerrijksoverheid.nl)| | **B**|Microsoft-IIS/10.0|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server||
 

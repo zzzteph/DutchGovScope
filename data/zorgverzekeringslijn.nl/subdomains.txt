@@ -5,3 +5,13 @@ trainingen.zorgverzekeringslijn.nl
 wiki.zorgverzekeringslijn.nl
 www.zorgverzekeringslijn.nl
 zorgverzekeringslijn.nl
+autodiscover.zorgverzekeringslijn.nl
+enterpriseenrollment.zorgverzekeringslijn.nl
+enterpriseregistration.zorgverzekeringslijn.nl
+ftp.zorgverzekeringslijn.nl
+mail.zorgverzekeringslijn.nl
+old.zorgverzekeringslijn.nl
+webmail.zorgverzekeringslijn.nl
+localhost.zorgverzekeringslijn.nl
+mail2.zorgverzekeringslijn.nl
+new.zorgverzekeringslijn.nl

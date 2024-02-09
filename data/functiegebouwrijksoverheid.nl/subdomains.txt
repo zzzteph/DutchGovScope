@@ -3,3 +3,4 @@ csotest.functiegebouwrijksoverheid.nl
 odc.functiegebouwrijksoverheid.nl
 www.functiegebouwrijksoverheid.nl
 functiegebouwrijksoverheid.nl
+sandbox.functiegebouwrijksoverheid.nl

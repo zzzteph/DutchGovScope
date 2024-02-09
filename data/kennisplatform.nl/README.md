@@ -11,9 +11,9 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/kennisplatform.nl/subdomains.txt)|4|Alive subdomains|
+|[subdomains.txt](/data/kennisplatform.nl/subdomains.txt)|12|Alive subdomains|
 |[urls.txt](/data/kennisplatform.nl/urls.txt)|2|Urls|
-|[all_subdomains.txt](/data/kennisplatform.nl/all_subdomains.txt)|4|All found subdomains (history)|
+|[all_subdomains.txt](/data/kennisplatform.nl/all_subdomains.txt)|12|All found subdomains (history)|
 
 
 ## Statistics

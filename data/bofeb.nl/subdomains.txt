@@ -1,3 +1,5 @@
 mijn.bofeb.nl
 www.bofeb.nl
 bofeb.nl
+autodiscover.bofeb.nl
+mail.bofeb.nl

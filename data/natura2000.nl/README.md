@@ -5,14 +5,14 @@
 
 
  - **SSL Grade**:
- - **HTTP Security Grade**:C
+ - **HTTP Security Grade**:D
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:2
 
 
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/natura2000.nl/subdomains.txt)|6|Alive subdomains|
-|[urls.txt](/data/natura2000.nl/urls.txt)|5|Urls|
+|[urls.txt](/data/natura2000.nl/urls.txt)|6|Urls|
 |[all_subdomains.txt](/data/natura2000.nl/all_subdomains.txt)|8|All found subdomains (history)|
 
 
@@ -26,4 +26,5 @@
 |[https://test.natura2000.nl](https://test.natura2000.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Basic Nginx|401 Authorizatio...|
 |[https://www.natura2000.nl](https://www.natura2000.nl)| | **A**|nginx| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Drupal:10 HSTS Nginx PHP|Natura 2000 | na...|
 |[https://natura2000.nl](https://natura2000.nl)| | **A**|nginx| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
+|[https://prod.natura2000.nl](https://prod.natura2000.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
 

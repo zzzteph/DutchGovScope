@@ -8,3 +8,5 @@ http://bmw9520.waddenzee.nl
 http://wadzee9520.waddenzee.nl
 http://gebiedagen2.waddenzee.nl
 https://datahuiswadden.waddenzee.nl
+http://analytics.waddenzee.nl
+http://autodiscover.waddenzee.nl

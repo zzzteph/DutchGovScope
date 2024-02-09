@@ -2,3 +2,4 @@ https://acc.milieuzones.nl
 https://test.milieuzones.nl
 https://www.milieuzones.nl
 https://milieuzones.nl
+http://autodiscover.milieuzones.nl

@@ -4,7 +4,7 @@ title: "waddenzee.nl"
 permalink: "/dutchgov/waddenzee.nl.html"
 subdomains_count: 12
 all_subdomains_count: 24
-urls_count: 10
+urls_count: 12
 ssl_rank: 
 http_rank: B
 security_txt: 6
@@ -28,7 +28,7 @@ tags: dutchgov
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/DutchGovScope/data/waddenzee.nl/subdomains.txt)|12|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/waddenzee.nl/urls.txt)|10|Urls|
+|[urls.txt](/DutchGovScope/data/waddenzee.nl/urls.txt)|12|Urls|
 |[all_subdomains.txt](/DutchGovScope/data/waddenzee.nl/all_subdomains.txt)|24|All found subdomains (history)|
 
 
@@ -47,4 +47,6 @@ tags: dutchgov
 |[http://wadzee9520.waddenzee.nl](http://wadzee9520.waddenzee.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
 |[http://gebiedagen2.waddenzee.nl](http://gebiedagen2.waddenzee.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
 |[https://datahuiswadden.waddenzee.nl](https://datahuiswadden.waddenzee.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:-|Home - datahuisw...|
+|[http://analytics.waddenzee.nl](http://analytics.waddenzee.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
+|[http://autodiscover.waddenzee.nl](http://autodiscover.waddenzee.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |||
 

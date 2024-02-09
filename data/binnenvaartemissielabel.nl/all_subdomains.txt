@@ -5,3 +5,7 @@ www.binnenvaartemissielabel.nl
 staging.binnenvaartemissielabel.nl
 webmail.binnenvaartemissielabel.nl
 mail.binnenvaartemissielabel.nl
+autodiscover.binnenvaartemissielabel.nl
+email.mg.binnenvaartemissielabel.nl
+ftp.binnenvaartemissielabel.nl
+test.binnenvaartemissielabel.nl

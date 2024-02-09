@@ -2,9 +2,9 @@
 layout: default
 title: "hulpmiddelenzorg.nl"
 permalink: "/dutchgov/hulpmiddelenzorg.nl.html"
-subdomains_count: 2
+subdomains_count: 3
 all_subdomains_count: 10
-urls_count: 2
+urls_count: 3
 ssl_rank: 
 http_rank: A
 security_txt: 0
@@ -27,8 +27,8 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/hulpmiddelenzorg.nl/subdomains.txt)|2|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/hulpmiddelenzorg.nl/urls.txt)|2|Urls|
+|[subdomains.txt](/DutchGovScope/data/hulpmiddelenzorg.nl/subdomains.txt)|3|Alive subdomains|
+|[urls.txt](/DutchGovScope/data/hulpmiddelenzorg.nl/urls.txt)|3|Urls|
 |[all_subdomains.txt](/DutchGovScope/data/hulpmiddelenzorg.nl/all_subdomains.txt)|10|All found subdomains (history)|
 
 
@@ -39,4 +39,5 @@ tags: dutchgov
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[https://www.hulpmiddelenzorg.nl](https://www.hulpmiddelenzorg.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bootstrap Google Tag Manager HSTS MySQL Nginx PHP WordPress Yoast SEO:21.9.1|Kennisgemeenscha...|
 |[https://hulpmiddelenzorg.nl](https://hulpmiddelenzorg.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
+|[http://autodiscover.hulpmiddelenzorg.nl](http://autodiscover.hulpmiddelenzorg.nl)| | **B**|Microsoft-IIS/10.0|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server||
 

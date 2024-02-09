@@ -4,3 +4,4 @@ www.landelijkeadviescommissieplaatsing.nl
 landelijkeadviescommissieplaatsing.nl
 a-feeds.landelijkeadviescommissieplaatsing.nl
 a-www.landelijkeadviescommissieplaatsing.nl
+a-opendata.landelijkeadviescommissieplaatsing.nl

@@ -63,7 +63,6 @@ http://autodiscover.rivm.nl
 https://beleving.rivm.nl
 https://bestellingen.rivm.nl
 http://bggo.rivm.nl
-http://biokap.rivm.nl
 https://biotechnologie.rivm.nl
 http://caontb.rivm.nl
 https://cdif.osiris.rivm.nl
@@ -265,3 +264,4 @@ https://api.dev-lsp.rivm.nl
 https://tst-lsp.rivm.nl
 https://api.tst-lsp.rivm.nl
 https://lsp.rivm.nl
+http://dashview.rivm.nl

@@ -13,7 +13,7 @@
 |------------|-------|------|
 |[subdomains.txt](/data/kiesraad.nl/subdomains.txt)|16|Alive subdomains|
 |[urls.txt](/data/kiesraad.nl/urls.txt)|7|Urls|
-|[all_subdomains.txt](/data/kiesraad.nl/all_subdomains.txt)|19|All found subdomains (history)|
+|[all_subdomains.txt](/data/kiesraad.nl/all_subdomains.txt)|20|All found subdomains (history)|
 
 
 ## Statistics

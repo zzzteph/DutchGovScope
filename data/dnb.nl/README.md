@@ -6,14 +6,14 @@
 
  - **SSL Grade**:A-
  - **HTTP Security Grade**:C
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:28
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:29
 
 
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/dnb.nl/subdomains.txt)|178|Alive subdomains|
 |[urls.txt](/data/dnb.nl/urls.txt)|111|Urls|
-|[all_subdomains.txt](/data/dnb.nl/all_subdomains.txt)|282|All found subdomains (history)|
+|[all_subdomains.txt](/data/dnb.nl/all_subdomains.txt)|284|All found subdomains (history)|
 
 
 ## Statistics
@@ -68,7 +68,7 @@
 |[https://mockapp-test.dnb.nl](https://mockapp-test.dnb.nl)| **A+**| **A**|| |:white_check_mark: | | |:warning: | | | :white_check_mark: | |Azure Azure Front Door HSTS|Mijn Dienst|
 |[https://stepui-acc.azure.dnb.nl](https://stepui-acc.azure.dnb.nl)| **A**| **E**|| | | | | | | | :white_check_mark: | |Bootstrap:4.1.1|Azure Static Web...|
 |[https://mijn-dev.dnb.nl](https://mijn-dev.dnb.nl)| **A**| **E**|| | | | | | | | :white_check_mark: | |Azure Azure Front Door|Forbidden|
-|[https://login-test.dnb.nl](https://login-test.dnb.nl)| **A+**| **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Azure Azure Front Door|Forbidden|
+|[https://login-test.dnb.nl](https://login-test.dnb.nl)| **A+**| **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Azure Azure Front Door HSTS||
 |[https://docs.riks.azure.dnb.nl](https://docs.riks.azure.dnb.nl)| **A**| **E**|| | | | | | | | :white_check_mark: | |Bootstrap:4.1.1|Azure Static Web...|
 |[https://mockapp-dev.dnb.nl](https://mockapp-dev.dnb.nl)| **A**| **E**|| | | | | | | | :white_check_mark: | |Azure Azure Front Door|Forbidden|
 |[https://dkeservice-staging.dnb.nl](https://dkeservice-staging.dnb.nl)| **F**| **F**|Microsoft-Azure-Application-Gateway/v2| | | | | | | | :white_check_mark: | ||404 Not Found|
@@ -88,7 +88,7 @@
 |[https://mijnresolutie.azure.dnb.nl](https://mijnresolutie.azure.dnb.nl)| **A**| **E**|| | | | | | | | :white_check_mark: | |Bootstrap:4.1.1|Azure Static Web...|
 |[https://dkeservice.dnb.nl](https://dkeservice.dnb.nl)| **F**| **F**|Microsoft-Azure-Application-Gateway/v2| | | | | | | | :white_check_mark: | ||404 Not Found|
 |[https://dlo.dnb.nl](https://dlo.dnb.nl)| **A+**| **A**||:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |Azure Azure Front Door HSTS||
-|[https://mijn.dnb.nl](https://mijn.dnb.nl)| **A+**| **A**|| |:white_check_mark: | | |:warning: | | | :white_check_mark: | |Azure Azure Front Door|Forbidden|
+|[https://mijn.dnb.nl](https://mijn.dnb.nl)| **A+**| **A**|| |:white_check_mark: | | |:warning: | | | :white_check_mark: | |Azure Azure Front Door HSTS|Mijn DNB|
 |[https://pmhdsk-ci.dnb.nl](https://pmhdsk-ci.dnb.nl)| | **E**|| | | | | | | | :white_check_mark: | |Bootstrap IIS:10.0 Microsoft ASP.NET Windows Server|Web App - Unavai...|
 |[https://projects.sharepoint.dnb.nl](https://projects.sharepoint.dnb.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://docs.riks-ci.azure.dnb.nl](https://docs.riks-ci.azure.dnb.nl)| **A**| **E**|| | | | | | | | :white_check_mark: | |Bootstrap:4.1.1|Azure Static Web...|
@@ -106,26 +106,26 @@
 |[https://login-pp.dnb.nl](https://login-pp.dnb.nl)| **A+**| **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Azure Azure Front Door HSTS||
 |[https://api.dataloop.dnb.nl](https://api.dataloop.dnb.nl)| **A+**| **C**|| |:white_check_mark: | :warning:| | | | | :white_check_mark: | |HSTS|FastAPI - Swagge...|
 |[https://classic.dataloop.dnb.nl](https://classic.dataloop.dnb.nl)| **A+**| **A**||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Redirecting...|
-|[https://classic.dataloop-acc.dnb.nl](https://classic.dataloop-acc.dnb.nl)| **A+**| **A**||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Redirecting...|
+|[https://classic.dataloop-acc.dnb.nl](https://classic.dataloop-acc.dnb.nl)| **A+**| **B**|Microsoft-Azure-Application-Gateway/v2|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Error - De Neder...|
 |[https://api.dataloop-test.dnb.nl](https://api.dataloop-test.dnb.nl)| **A+**| **C**|| |:white_check_mark: | :warning:| | | | | :white_check_mark: | |HSTS|FastAPI - Swagge...|
 |[https://classic.dataloop-test.dnb.nl](https://classic.dataloop-test.dnb.nl)| **A+**| **A**||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Redirecting...|
 |[https://tzkalender-tst.dnb.nl](https://tzkalender-tst.dnb.nl)| **A**| **A**|| |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | |HSTS|Supervision Cale...|
 |[https://tzkalender-dev.dnb.nl](https://tzkalender-dev.dnb.nl)| **A**| **A**|| |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | |HSTS|Supervision Cale...|
-|[https://screening.dnb.nl](https://screening.dnb.nl)| **A+**| **E**|| | | | | | | | :white_check_mark: | |Azure Azure Front Door|Service unavaila...|
+|[https://screening.dnb.nl](https://screening.dnb.nl)| **A+**| **A**||:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |Azure Azure Front Door HSTS||
 |[https://tzkalender.dnb.nl](https://tzkalender.dnb.nl)| **F**| **E**|| | | | | | | | :white_check_mark: | ||Microsoft Azure...|
 |[https://tzkalender-acc.dnb.nl](https://tzkalender-acc.dnb.nl)| **A**| **A**|| |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | |HSTS|Supervision Cale...|
-|[https://mijnatm-tst.azure.dnb.nl](https://mijnatm-tst.azure.dnb.nl)| **A**| **E**|| | | | | | | | :white_check_mark: | |Bootstrap:4.1.1|Azure Static Web...|
-|[https://mijnatm-acc.azure.dnb.nl](https://mijnatm-acc.azure.dnb.nl)| **A**| **E**|| | | | | | | | :white_check_mark: | |Bootstrap:4.1.1|Azure Static Web...|
+|[https://mijnatm-tst.azure.dnb.nl](https://mijnatm-tst.azure.dnb.nl)| **A**| **E**|| | | | | | | | :white_check_mark: | |Bootstrap:5.2.3|Azure Static Web...|
+|[https://mijnatm-acc.azure.dnb.nl](https://mijnatm-acc.azure.dnb.nl)| **A**| **E**|| | | | | | | | :white_check_mark: | |Bootstrap:5.2.3|Azure Static Web...|
 |[https://tzorganisatiegegevens-tst.dnb.nl](https://tzorganisatiegegevens-tst.dnb.nl)| **A**| **A**|| |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | |HSTS|Organisation Det...|
 |[https://tzorganisatiegegevens-dev.dnb.nl](https://tzorganisatiegegevens-dev.dnb.nl)| **A**| **A**|| |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | |HSTS|Organisation Det...|
-|[https://stepui.azure.dnb.nl](https://stepui.azure.dnb.nl)| **A**| **E**|| | | | | | | | :white_check_mark: | |Bootstrap:4.1.1|Azure Static Web...|
+|[https://stepui.azure.dnb.nl](https://stepui.azure.dnb.nl)| **A**| **E**|| | | | | | | | :white_check_mark: | |Bootstrap:5.2.3|Azure Static Web...|
 |[https://api-tzkalender-acc.dnb.nl](https://api-tzkalender-acc.dnb.nl)| **A**| **E**|| | | | | | | | :white_check_mark: | ||Web App - Unavai...|
 |[https://api-tzkalender-tst.dnb.nl](https://api-tzkalender-tst.dnb.nl)| **A**| **E**|| | | | | | | | :white_check_mark: | ||Web App - Unavai...|
 |[https://api-tzkalender-dev.dnb.nl](https://api-tzkalender-dev.dnb.nl)| **A**| **E**|| | | | | | | | :white_check_mark: | ||Web App - Unavai...|
-|[https://mijnatm.azure.dnb.nl](https://mijnatm.azure.dnb.nl)| **A**| **E**|| | | | | | | | :white_check_mark: | |Bootstrap:4.1.1|Azure Static Web...|
-|[https://tzpubliekscontact-dev.dnb.nl](https://tzpubliekscontact-dev.dnb.nl)| **F**| **A**|| |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | |Azure Azure Front Door|Page not found|
+|[https://mijnatm.azure.dnb.nl](https://mijnatm.azure.dnb.nl)| **A**| **E**|| | | | | | | | :white_check_mark: | |Bootstrap:5.2.3|Azure Static Web...|
+|[https://tzpubliekscontact-dev.dnb.nl](https://tzpubliekscontact-dev.dnb.nl)| **F**| **A**|| |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | |Azure Azure Front Door HSTS|Mijn DNB - Publi...|
 |[https://tzpubliekscontact-tst.dnb.nl](https://tzpubliekscontact-tst.dnb.nl)| **F**| **A**|| |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | |Azure Azure Front Door|Page not found|
-|[https://tzpubliekscontact-acc.dnb.nl](https://tzpubliekscontact-acc.dnb.nl)| | **E**|| | | | | | | | :white_check_mark: | |Azure Azure Front Door|Page not found|
+|[https://tzpubliekscontact-acc.dnb.nl](https://tzpubliekscontact-acc.dnb.nl)| | **A**|| |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | |Azure Azure Front Door HSTS|Mijn DNB - Publi...|
 |[https://tzpubliekscontact.dnb.nl](https://tzpubliekscontact.dnb.nl)| | **E**|| | | | | | | | :white_check_mark: | |Azure Azure Front Door|Page not found|
 |[https://atender.dnb.nl](https://atender.dnb.nl)| **B**| **E**|| | | | | | | | :white_check_mark: | |Microsoft ASP.NET||
 |[https://apps.sharepoint.dnb.nl](https://apps.sharepoint.dnb.nl)| | **E**|| | | | | | | | :white_check_mark: | |||

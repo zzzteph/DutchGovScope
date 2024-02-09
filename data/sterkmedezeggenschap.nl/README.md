@@ -11,9 +11,9 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/sterkmedezeggenschap.nl/subdomains.txt)|2|Alive subdomains|
+|[subdomains.txt](/data/sterkmedezeggenschap.nl/subdomains.txt)|6|Alive subdomains|
 |[urls.txt](/data/sterkmedezeggenschap.nl/urls.txt)|2|Urls|
-|[all_subdomains.txt](/data/sterkmedezeggenschap.nl/all_subdomains.txt)|2|All found subdomains (history)|
+|[all_subdomains.txt](/data/sterkmedezeggenschap.nl/all_subdomains.txt)|6|All found subdomains (history)|
 
 
 ## Statistics

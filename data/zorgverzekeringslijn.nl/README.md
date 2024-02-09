@@ -11,9 +11,9 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/zorgverzekeringslijn.nl/subdomains.txt)|7|Alive subdomains|
+|[subdomains.txt](/data/zorgverzekeringslijn.nl/subdomains.txt)|17|Alive subdomains|
 |[urls.txt](/data/zorgverzekeringslijn.nl/urls.txt)|7|Urls|
-|[all_subdomains.txt](/data/zorgverzekeringslijn.nl/all_subdomains.txt)|11|All found subdomains (history)|
+|[all_subdomains.txt](/data/zorgverzekeringslijn.nl/all_subdomains.txt)|21|All found subdomains (history)|
 
 
 ## Statistics

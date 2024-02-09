@@ -11,9 +11,9 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/poraad.nl/subdomains.txt)|29|Alive subdomains|
+|[subdomains.txt](/data/poraad.nl/subdomains.txt)|33|Alive subdomains|
 |[urls.txt](/data/poraad.nl/urls.txt)|13|Urls|
-|[all_subdomains.txt](/data/poraad.nl/all_subdomains.txt)|37|All found subdomains (history)|
+|[all_subdomains.txt](/data/poraad.nl/all_subdomains.txt)|41|All found subdomains (history)|
 
 
 ## Statistics

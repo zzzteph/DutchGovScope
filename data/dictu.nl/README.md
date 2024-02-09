@@ -11,7 +11,7 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/dictu.nl/subdomains.txt)|144|Alive subdomains|
+|[subdomains.txt](/data/dictu.nl/subdomains.txt)|146|Alive subdomains|
 |[urls.txt](/data/dictu.nl/urls.txt)|73|Urls|
 |[all_subdomains.txt](/data/dictu.nl/all_subdomains.txt)|281|All found subdomains (history)|
 
@@ -91,7 +91,7 @@
 |[https://test-azure06.dictu.nl](https://test-azure06.dictu.nl)| | **F**|nginx/1.19.2| | | | | | | | :white_check_mark: | |Bootstrap:4.1.1 Nginx:1.19.2|Microsoft Azure...|
 |[https://acc.fhub.dictu.nl](https://acc.fhub.dictu.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||
 |[http://pam.dictu.nl](http://pam.dictu.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
-|[https://asb.datasluis.dictu.nl](https://asb.datasluis.dictu.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Basic HSTS|Unauthorized|
+|[https://asb.datasluis.dictu.nl](https://asb.datasluis.dictu.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Redirect|
 |[http://authpms.dictu.nl](http://authpms.dictu.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://authpms-acc.dictu.nl](https://authpms-acc.dictu.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|iBabs - Meet in...|
 

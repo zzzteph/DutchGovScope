@@ -13,7 +13,7 @@
 |------------|-------|------|
 |[subdomains.txt](/data/ivd.nl/subdomains.txt)|8|Alive subdomains|
 |[urls.txt](/data/ivd.nl/urls.txt)|4|Urls|
-|[all_subdomains.txt](/data/ivd.nl/all_subdomains.txt)|19|All found subdomains (history)|
+|[all_subdomains.txt](/data/ivd.nl/all_subdomains.txt)|21|All found subdomains (history)|
 
 
 ## Statistics

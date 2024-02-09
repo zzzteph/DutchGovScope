@@ -655,3 +655,5 @@ acc-werkplek.rijkswaterstaat.nl
 acceptatie.rijkswaterstaat.nl
 wifi1.rijkswaterstaat.nl
 wifi2.rijkswaterstaat.nl
+acp.live.werkenbij.rijkswaterstaat.nl
+wcag-2.1-inspectie-bezoekerscentrum.rijkswaterstaat.nl

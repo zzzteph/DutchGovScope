@@ -12,7 +12,7 @@
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/logius.nl/subdomains.txt)|71|Alive subdomains|
-|[urls.txt](/data/logius.nl/urls.txt)|51|Urls|
+|[urls.txt](/data/logius.nl/urls.txt)|52|Urls|
 |[all_subdomains.txt](/data/logius.nl/all_subdomains.txt)|117|All found subdomains (history)|
 
 
@@ -42,6 +42,7 @@
 |[http://clienteleitsm.logius.nl](http://clienteleitsm.logius.nl)| | **F**|BigIP| | | | | | | | :white_check_mark: | |F5 BigIP||
 |[http://clienteleitsm-acceptatie.logius.nl](http://clienteleitsm-acceptatie.logius.nl)| | **F**|BigIP| | | | | | | | :white_check_mark: | |F5 BigIP||
 |[https://comcms.logius.nl](https://comcms.logius.nl)| | **B**|nginx| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Drupal:10 HSTS Nginx PHP:8.1.27|Redirecting to h...|
+|[http://docs.lpc.logius.nl](http://docs.lpc.logius.nl)| | **F**|Picard-LB| | | | | | | | :white_check_mark: | |||
 |[http://git-az1.lpc.logius.nl](http://git-az1.lpc.logius.nl)| | **F**|Picard-LB| | | | | | | | :white_check_mark: | |||
 |[http://git-az2.lpc.logius.nl](http://git-az2.lpc.logius.nl)| | **F**|Picard-LB| | | | | | | | :white_check_mark: | |||
 |[http://git.lpc.logius.nl](http://git.lpc.logius.nl)| | **F**|Picard-LB| | | | | | | | :white_check_mark: | |||
@@ -59,9 +60,9 @@
 |[https://prod-dictu.logius.nl](https://prod-dictu.logius.nl)| **F**| **F**|nginx| | | | | | | | :white_check_mark: | |Drupal:10 HSTS Nginx PHP|Home | Forum Sta...|
 |[https://sb-dictu.logius.nl](https://sb-dictu.logius.nl)| **A**| **F**|nginx| | | | | | | | :white_check_mark: | |Basic Nginx|401 Authorizatio...|
 |[https://test-dictu.logius.nl](https://test-dictu.logius.nl)| **A**| **F**|nginx| | | | | | | | :white_check_mark: | |Basic Nginx|401 Authorizatio...|
-|[https://test-dictu.comcms.logius.nl](https://test-dictu.comcms.logius.nl)| **A**| **D**|nginx| | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Drupal:10 Nginx PHP|Redirecting to h...|
+|[https://test-dictu.comcms.logius.nl](https://test-dictu.comcms.logius.nl)| **A**| **D**|nginx| | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Drupal Nginx PHP|Redirecting to h...|
 |[https://test-dictu.kennisbank.logius.nl](https://test-dictu.kennisbank.logius.nl)| **A**| **F**|nginx| | | | | | | | :white_check_mark: | |Basic Nginx|401 Authorizatio...|
-|[http://test-machtigen.digipoort.logius.nl](http://test-machtigen.digipoort.logius.nl)| **A+**| **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |||
+|[http://test-machtigen.digipoort.logius.nl](http://test-machtigen.digipoort.logius.nl)| **A+**| **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |||
 |[https://www.logius.nl](https://www.logius.nl)| **A+**| **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Drupal:10 HSTS Nginx PHP|Logius | Logius|
 |[http://www.lpc.logius.nl](http://www.lpc.logius.nl)| | **F**|Picard-LB| | | | | | | | :white_check_mark: | |||
 |[https://prod-dictu.comcms.logius.nl](https://prod-dictu.comcms.logius.nl)| **F**| **F**|nginx| | | | | | | | :white_check_mark: | |HSTS Nginx PHP:8.1.27||

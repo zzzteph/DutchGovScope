@@ -2,3 +2,5 @@ proto.medicijnkosten.nl
 www.medicijnkosten.nl
 www-ac.medicijnkosten.nl
 medicijnkosten.nl
+cms-dev.medicijnkosten.nl
+cms-tst.medicijnkosten.nl

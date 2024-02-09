@@ -2,3 +2,5 @@ https://ssoict.nl
 https://www.ssoict.nl
 https://arbeidsinspectie.ssoict.nl
 https://wts.klantenportaal.ssoict.nl
+https://klantenportaal.ssoict.nl
+https://test.ssoict.nl

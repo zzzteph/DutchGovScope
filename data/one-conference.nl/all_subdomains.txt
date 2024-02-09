@@ -11,3 +11,6 @@ www.stats.one-conference.nl
 one-conference.nl
 wcag-2.1-inspectie-www.one-conference.nl
 www.emagazine.one-conference.nl
+aanmelder.one-conference.nl
+autodiscover.one-conference.nl
+dev.registration.one-conference.nl

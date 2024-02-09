@@ -3,7 +3,7 @@ layout: default
 title: "kansrijkestartnl.nl"
 permalink: "/dutchgov/kansrijkestartnl.nl.html"
 subdomains_count: 7
-all_subdomains_count: 15
+all_subdomains_count: 16
 urls_count: 5
 ssl_rank: A+
 http_rank: A
@@ -29,7 +29,7 @@ tags: dutchgov
 |------------|-------|------|
 |[subdomains.txt](/DutchGovScope/data/kansrijkestartnl.nl/subdomains.txt)|7|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/kansrijkestartnl.nl/urls.txt)|5|Urls|
-|[all_subdomains.txt](/DutchGovScope/data/kansrijkestartnl.nl/all_subdomains.txt)|15|All found subdomains (history)|
+|[all_subdomains.txt](/DutchGovScope/data/kansrijkestartnl.nl/all_subdomains.txt)|16|All found subdomains (history)|
 
 
 ## Statistics

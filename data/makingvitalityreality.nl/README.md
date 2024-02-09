@@ -11,9 +11,9 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/makingvitalityreality.nl/subdomains.txt)|3|Alive subdomains|
+|[subdomains.txt](/data/makingvitalityreality.nl/subdomains.txt)|4|Alive subdomains|
 |[urls.txt](/data/makingvitalityreality.nl/urls.txt)|3|Urls|
-|[all_subdomains.txt](/data/makingvitalityreality.nl/all_subdomains.txt)|3|All found subdomains (history)|
+|[all_subdomains.txt](/data/makingvitalityreality.nl/all_subdomains.txt)|4|All found subdomains (history)|
 
 
 ## Statistics

@@ -10,3 +10,4 @@ magazinesintern.innovatie-estafette.nl
 opendata.english.innovatie-estafette.nl
 mail.innovatie-estafette.nl
 highcontrast.innovatie-estafette.nl
+rapport-herinspectie-digitoegankelijkhed-www.innovatie-estafette.nl

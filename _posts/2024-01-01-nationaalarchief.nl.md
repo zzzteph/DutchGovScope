@@ -5,7 +5,7 @@ permalink: "/dutchgov/nationaalarchief.nl.html"
 subdomains_count: 97
 all_subdomains_count: 185
 urls_count: 7
-ssl_rank: 
+ssl_rank: B
 http_rank: E
 security_txt: 1
 url_link: /data/nationaalarchief.nl/urls.txt
@@ -20,7 +20,7 @@ tags: dutchgov
 ## Summary data
 
 
- - **SSL Grade**:
+ - **SSL Grade**:B
  - **HTTP Security Grade**:E
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:1
 
@@ -38,8 +38,8 @@ tags: dutchgov
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[http://beeldbank.nationaalarchief.nl](http://beeldbank.nationaalarchief.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |HTTP/3 Nginx||
-|[https://servicebureau.nationaalarchief.nl](https://servicebureau.nationaalarchief.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Login|
-|[https://bibliotheek.nationaalarchief.nl](https://bibliotheek.nationaalarchief.nl)| | **F**|Central System Dispatcher/1.1| | | | | | | | :white_check_mark: | |HSTS||
+|[https://servicebureau.nationaalarchief.nl](https://servicebureau.nationaalarchief.nl)| **B**| **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Login|
+|[https://bibliotheek.nationaalarchief.nl](https://bibliotheek.nationaalarchief.nl)| **B**| **F**|Central System Dispatcher/1.1| | | | | | | | :white_check_mark: | |HSTS||
 |[https://en.test.nationaalarchief.nl](https://en.test.nationaalarchief.nl)| | **F**|gtranslate| | | | | | | | :white_check_mark: | |||
 |[https://es.test.nationaalarchief.nl](https://es.test.nationaalarchief.nl)| | **F**|gtranslate| | | | | | | | :white_check_mark: | |||
 |[https://fr.test.nationaalarchief.nl](https://fr.test.nationaalarchief.nl)| | **F**|gtranslate| | | | | | | | :white_check_mark: | |||

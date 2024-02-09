@@ -11,7 +11,7 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/rivmmagazines.nl/subdomains.txt)|3|Alive subdomains|
+|[subdomains.txt](/data/rivmmagazines.nl/subdomains.txt)|5|Alive subdomains|
 |[urls.txt](/data/rivmmagazines.nl/urls.txt)|3|Urls|
 |[all_subdomains.txt](/data/rivmmagazines.nl/all_subdomains.txt)|5|All found subdomains (history)|
 

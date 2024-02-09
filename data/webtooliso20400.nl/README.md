@@ -11,9 +11,9 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/webtooliso20400.nl/subdomains.txt)|3|Alive subdomains|
+|[subdomains.txt](/data/webtooliso20400.nl/subdomains.txt)|6|Alive subdomains|
 |[urls.txt](/data/webtooliso20400.nl/urls.txt)|3|Urls|
-|[all_subdomains.txt](/data/webtooliso20400.nl/all_subdomains.txt)|4|All found subdomains (history)|
+|[all_subdomains.txt](/data/webtooliso20400.nl/all_subdomains.txt)|7|All found subdomains (history)|
 
 
 ## Statistics

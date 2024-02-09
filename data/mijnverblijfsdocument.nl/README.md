@@ -4,7 +4,7 @@
 ## Summary data
 
 
- - **SSL Grade**:
+ - **SSL Grade**:B
  - **HTTP Security Grade**:B
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:0
 
@@ -21,6 +21,6 @@
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://www.mijnverblijfsdocument.nl](https://www.mijnverblijfsdocument.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |Bloomreach Bootstrap HSTS|My Residence Doc...|
-|[https://mijnverblijfsdocument.nl](https://mijnverblijfsdocument.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |Bloomreach Bootstrap HSTS|My Residence Doc...|
+|[https://www.mijnverblijfsdocument.nl](https://www.mijnverblijfsdocument.nl)| **B**| **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |Bloomreach Bootstrap HSTS|My Residence Doc...|
+|[https://mijnverblijfsdocument.nl](https://mijnverblijfsdocument.nl)| **B**| **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |Bloomreach Bootstrap HSTS|My Residence Doc...|
 

@@ -1,2 +1,3 @@
 https://www.vipasbest.nl
-https://vipasbest.nl
+http://vipasbest.nl
+http://localhost.vipasbest.nl

@@ -2,9 +2,9 @@
 layout: default
 title: "risicotoolboxbodem.nl"
 permalink: "/dutchgov/risicotoolboxbodem.nl.html"
-subdomains_count: 7
+subdomains_count: 8
 all_subdomains_count: 11
-urls_count: 6
+urls_count: 7
 ssl_rank: 
 http_rank: D
 security_txt: 1
@@ -27,8 +27,8 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/risicotoolboxbodem.nl/subdomains.txt)|7|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/risicotoolboxbodem.nl/urls.txt)|6|Urls|
+|[subdomains.txt](/DutchGovScope/data/risicotoolboxbodem.nl/subdomains.txt)|8|Alive subdomains|
+|[urls.txt](/DutchGovScope/data/risicotoolboxbodem.nl/urls.txt)|7|Urls|
 |[all_subdomains.txt](/DutchGovScope/data/risicotoolboxbodem.nl/all_subdomains.txt)|11|All found subdomains (history)|
 
 
@@ -43,4 +43,5 @@ tags: dutchgov
 |[https://risicotoolboxbodem.nl](https://risicotoolboxbodem.nl)| | **D**||:warning: |:white_check_mark: | | | | | | :white_check_mark: | |||
 |[https://nieuwestoffen.risicotoolboxbodem.nl](https://nieuwestoffen.risicotoolboxbodem.nl)| | **C**|Microsoft-IIS/10.0| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS IIS:10.0 Microsoft ASP.NET Windows Server|- Nieuwe Stoffen|
 |[https://feedback.risicotoolboxbodem.nl](https://feedback.risicotoolboxbodem.nl)| | **C**|Microsoft-IIS/10.0| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS IIS:10.0 Microsoft ASP.NET Windows Server|- Nieuwe Stoffen|
+|[http://localhost.risicotoolboxbodem.nl](http://localhost.risicotoolboxbodem.nl)| | **D**|nginx| | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Nginx|Welcome to nginx...|
 

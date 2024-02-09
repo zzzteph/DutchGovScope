@@ -14,3 +14,4 @@ pentest.gratisvog.nl
 a-feeds.gratisvog.nl
 a-opendata.gratisvog.nl
 a-www.gratisvog.nl
+rapportage-onderzoek-digitoegankelijkheid-aanmelden.gratisvog.nl

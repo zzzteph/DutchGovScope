@@ -1,2 +1,3 @@
 https://www.veiligtatoeerenenpiercen.nl
 https://veiligtatoeerenenpiercen.nl
+http://localhost.veiligtatoeerenenpiercen.nl

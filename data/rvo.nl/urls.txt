@@ -1,7 +1,6 @@
 https://acc.rvo.nl
 https://acc-cms.rvo.nl
 https://acc-cms.projects.rvo.nl
-https://acc-dvu.rvo.nl
 https://acc-english.rvo.nl
 https://acc-geocontent.rvo.nl
 https://acc-webform.rvo.nl
@@ -29,7 +28,7 @@ http://gdi.rvo.nl
 https://geocontent.rvo.nl
 https://geoservices.rvo.nl
 https://gtpa.rvo.nl
-https://ih-static.rvo.nl
+http://ih-static.rvo.nl
 https://infographics.rvo.nl
 https://informatiehuis.rvo.nl
 https://intra.rvo.nl

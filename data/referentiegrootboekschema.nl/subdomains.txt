@@ -4,3 +4,5 @@ prod-dictu.referentiegrootboekschema.nl
 test-dictu.referentiegrootboekschema.nl
 www.referentiegrootboekschema.nl
 referentiegrootboekschema.nl
+acceptatie.referentiegrootboekschema.nl
+ftp.referentiegrootboekschema.nl

@@ -7,7 +7,7 @@ all_subdomains_count: 12
 urls_count: 5
 ssl_rank: 
 http_rank: C
-security_txt: 3
+security_txt: 5
 url_link: /data/vaarweginformatie.nl/urls.txt
 all_subdomains_link: /data/vaarweginformatie.nl/all_subdomains.txt
 subdomains_link: /data/vaarweginformatie.nl/subdomains.txt
@@ -22,7 +22,7 @@ tags: dutchgov
 
  - **SSL Grade**:
  - **HTTP Security Grade**:C
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:3
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:5
 
 
 | File       | Count | Info |
@@ -38,8 +38,8 @@ tags: dutchgov
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[https://api.acceptatie.vaarweginformatie.nl](https://api.acceptatie.vaarweginformatie.nl)| | **F**|APISIX/2.15.0| | | | | | | | :white_check_mark: | |Apache APISIX:2.15.0||
-|[https://www.vaarweginformatie.nl](https://www.vaarweginformatie.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |||
-|[https://vaarweginformatie.nl](https://vaarweginformatie.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |||
+|[https://www.vaarweginformatie.nl](https://www.vaarweginformatie.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |||
+|[https://vaarweginformatie.nl](https://vaarweginformatie.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |||
 |[https://vaarmelder.vaarweginformatie.nl](https://vaarmelder.vaarweginformatie.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |||
 |[https://api.vaarweginformatie.nl](https://api.vaarweginformatie.nl)| | **C**|APISIX/2.15.0| |:white_check_mark: | | | | | | :white_check_mark: | |Apache APISIX:2.15.0 HSTS||
 

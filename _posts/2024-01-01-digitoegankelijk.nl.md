@@ -4,10 +4,10 @@ title: "digitoegankelijk.nl"
 permalink: "/dutchgov/digitoegankelijk.nl.html"
 subdomains_count: 10
 all_subdomains_count: 18
-urls_count: 9
+urls_count: 10
 ssl_rank: 
 http_rank: B
-security_txt: 6
+security_txt: 7
 url_link: /data/digitoegankelijk.nl/urls.txt
 all_subdomains_link: /data/digitoegankelijk.nl/all_subdomains.txt
 subdomains_link: /data/digitoegankelijk.nl/subdomains.txt
@@ -22,13 +22,13 @@ tags: dutchgov
 
  - **SSL Grade**:
  - **HTTP Security Grade**:B
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:6
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:7
 
 
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/DutchGovScope/data/digitoegankelijk.nl/subdomains.txt)|10|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/digitoegankelijk.nl/urls.txt)|9|Urls|
+|[urls.txt](/DutchGovScope/data/digitoegankelijk.nl/urls.txt)|10|Urls|
 |[all_subdomains.txt](/DutchGovScope/data/digitoegankelijk.nl/all_subdomains.txt)|18|All found subdomains (history)|
 
 
@@ -46,4 +46,5 @@ tags: dutchgov
 |[https://www.digitoegankelijk.nl](https://www.digitoegankelijk.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Drupal:10 HSTS Nginx PHP|Een toegankelijk...|
 |[https://digitoegankelijk.nl](https://digitoegankelijk.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Drupal:10 HSTS Nginx PHP|Een toegankelijk...|
 |[https://dashboard-keten.digitoegankelijk.nl](https://dashboard-keten.digitoegankelijk.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Basic HSTS Nginx|401 Authorizatio...|
+|[https://monitor.digitoegankelijk.nl](https://monitor.digitoegankelijk.nl)| | **B**|cloudflare| |:white_check_mark: | :warning:| | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Amazon CloudFront Amazon Web Services Cloudflare HSTS|Under constructi...|
 

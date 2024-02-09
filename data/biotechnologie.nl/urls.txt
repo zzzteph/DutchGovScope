@@ -1,2 +1,9 @@
 https://biotechnologie.nl
 https://www.biotechnologie.nl
+https://autodiscover.biotechnologie.nl
+https://enterpriseenrollment.biotechnologie.nl
+https://enterpriseregistration.biotechnologie.nl
+https://ftp.biotechnologie.nl
+https://lyncdiscover.biotechnologie.nl
+https://mail.biotechnologie.nl
+https://sip.biotechnologie.nl

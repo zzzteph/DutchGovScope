@@ -11,8 +11,8 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/hulpmiddelenzorg.nl/subdomains.txt)|2|Alive subdomains|
-|[urls.txt](/data/hulpmiddelenzorg.nl/urls.txt)|2|Urls|
+|[subdomains.txt](/data/hulpmiddelenzorg.nl/subdomains.txt)|3|Alive subdomains|
+|[urls.txt](/data/hulpmiddelenzorg.nl/urls.txt)|3|Urls|
 |[all_subdomains.txt](/data/hulpmiddelenzorg.nl/all_subdomains.txt)|10|All found subdomains (history)|
 
 
@@ -23,4 +23,5 @@
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[https://www.hulpmiddelenzorg.nl](https://www.hulpmiddelenzorg.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bootstrap Google Tag Manager HSTS MySQL Nginx PHP WordPress Yoast SEO:21.9.1|Kennisgemeenscha...|
 |[https://hulpmiddelenzorg.nl](https://hulpmiddelenzorg.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
+|[http://autodiscover.hulpmiddelenzorg.nl](http://autodiscover.hulpmiddelenzorg.nl)| | **B**|Microsoft-IIS/10.0|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server||
 

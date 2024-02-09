@@ -21,6 +21,6 @@
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://www.sustainabilitymethod.nl](https://www.sustainabilitymethod.nl)| | **B**|nginx|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx PHP:8.2.15|RIVM Sustainabil...|
-|[https://sustainabilitymethod.nl](https://sustainabilitymethod.nl)| | **B**|nginx|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx PHP:8.2.15|RIVM Sustainabil...|
+|[https://www.sustainabilitymethod.nl](https://www.sustainabilitymethod.nl)| | **B**|nginx|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Debian HSTS Nginx PHP:8.3.2|RIVM Sustainabil...|
+|[https://sustainabilitymethod.nl](https://sustainabilitymethod.nl)| | **B**|nginx|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Debian HSTS Nginx PHP:8.3.2|RIVM Sustainabil...|
 

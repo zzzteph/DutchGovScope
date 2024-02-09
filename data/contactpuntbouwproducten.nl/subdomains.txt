@@ -2,3 +2,4 @@ autodiscover.contactpuntbouwproducten.nl
 mail.contactpuntbouwproducten.nl
 www.contactpuntbouwproducten.nl
 contactpuntbouwproducten.nl
+autoconfig.contactpuntbouwproducten.nl

@@ -5,14 +5,14 @@
 
 
  - **SSL Grade**:
- - **HTTP Security Grade**:B
+ - **HTTP Security Grade**:C
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:1
 
 
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/pbl.nl/subdomains.txt)|44|Alive subdomains|
-|[urls.txt](/data/pbl.nl/urls.txt)|20|Urls|
+|[urls.txt](/data/pbl.nl/urls.txt)|23|Urls|
 |[all_subdomains.txt](/data/pbl.nl/all_subdomains.txt)|82|All found subdomains (history)|
 
 
@@ -34,11 +34,14 @@
 |[https://piwik.pbl.nl](https://piwik.pbl.nl)| | **A**|Apache| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS|Test Page for th...|
 |[https://roadsfromrio.pbl.nl](https://roadsfromrio.pbl.nl)| | **A**|Microsoft-Azure-Application-Gateway/v2|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: ||301 Moved Perman...|
 |[https://sandbox.pbl.nl](https://sandbox.pbl.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|Test Page for th...|
-|[https://survey.pbl.nl](https://survey.pbl.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|Oups?|
+|[https://survey.pbl.nl](https://survey.pbl.nl)| | **C**|nginx|:white_check_mark: |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | |HSTS Nginx|Planbureau voor...|
 |[https://themasites.pbl.nl](https://themasites.pbl.nl)| | **A**|Microsoft-Azure-Application-Gateway/v2|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: ||301 Moved Perman...|
 |[https://webmail.pbl.nl](https://webmail.pbl.nl)| | **F**|Microsoft-IIS/10.0| | | | | | | | :white_check_mark: | |HSTS IIS:10.0 Microsoft ASP.NET Windows Server||
 |[https://webservices.pbl.nl](https://webservices.pbl.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|Test Page for th...|
 |[https://www.pbl.nl](https://www.pbl.nl)| | **A**||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Drupal:10 HSTS PHP|Home | Planburea...|
 |[https://pbl.nl](https://pbl.nl)| | **A**|Microsoft-Azure-Application-Gateway/v2| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Apache HTTP Server HSTS|301 Moved Perman...|
 |[https://mailings.pbl.nl](https://mailings.pbl.nl)| | **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Nginx||
+|[https://mail.pbl.nl](https://mail.pbl.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|404 Not Found|
+|[https://msoid.pbl.nl](https://msoid.pbl.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Object moved|
+|[https://prd-www.pbl.nl](https://prd-www.pbl.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|301 Moved Perman...|
 

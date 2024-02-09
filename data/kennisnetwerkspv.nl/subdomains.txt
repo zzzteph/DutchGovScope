@@ -1,2 +1,3 @@
 www.kennisnetwerkspv.nl
 kennisnetwerkspv.nl
+autodiscover.kennisnetwerkspv.nl

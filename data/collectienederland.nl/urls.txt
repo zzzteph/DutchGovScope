@@ -2,3 +2,5 @@ https://data.collectienederland.nl
 https://wo2.collectienederland.nl
 https://www.collectienederland.nl
 https://collectienederland.nl
+https://ftp.collectienederland.nl
+https://musea.collectienederland.nl

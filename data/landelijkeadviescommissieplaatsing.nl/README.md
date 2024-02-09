@@ -13,7 +13,7 @@
 |------------|-------|------|
 |[subdomains.txt](/data/landelijkeadviescommissieplaatsing.nl/subdomains.txt)|6|Alive subdomains|
 |[urls.txt](/data/landelijkeadviescommissieplaatsing.nl/urls.txt)|4|Urls|
-|[all_subdomains.txt](/data/landelijkeadviescommissieplaatsing.nl/all_subdomains.txt)|6|All found subdomains (history)|
+|[all_subdomains.txt](/data/landelijkeadviescommissieplaatsing.nl/all_subdomains.txt)|7|All found subdomains (history)|
 
 
 ## Statistics
@@ -24,5 +24,5 @@
 |[https://feeds.landelijkeadviescommissieplaatsing.nl](https://feeds.landelijkeadviescommissieplaatsing.nl)| **A+**| **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://opendata.landelijkeadviescommissieplaatsing.nl](https://opendata.landelijkeadviescommissieplaatsing.nl)| **A+**| **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://www.landelijkeadviescommissieplaatsing.nl](https://www.landelijkeadviescommissieplaatsing.nl)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Home | Landelijk...|
-|[https://landelijkeadviescommissieplaatsing.nl](https://landelijkeadviescommissieplaatsing.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
+|[https://landelijkeadviescommissieplaatsing.nl](https://landelijkeadviescommissieplaatsing.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 

@@ -7,3 +7,8 @@ staging.bouwplaatsirm.nl
 schaduw-15dec.bouwplaatsirm.nl
 oudirm.bouwplaatsirm.nl
 prod.bouwplaatsirm.nl
+autodiscover.bouwplaatsirm.nl
+enterpriseenrollment.bouwplaatsirm.nl
+enterpriseregistration.bouwplaatsirm.nl
+gitlab.bouwplaatsirm.nl
+msoid.bouwplaatsirm.nl

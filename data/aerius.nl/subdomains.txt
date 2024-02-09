@@ -741,3 +741,8 @@ link.pr.aerius.nl
 mail.pr.aerius.nl
 search-dev.aerius.nl
 www-staging.aerius.nl
+teste.colegionscarmo.aerius.nl
+support.apple.com.authenticate-access.aerius.nl
+valliant.rede.aerius.nl
+test9.seller.aerius.nl
+www.appleid.apple.com.my.aerius.nl

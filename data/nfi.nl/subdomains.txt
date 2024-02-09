@@ -13,3 +13,6 @@ autodiscover.nfi.nl
 oshift-testmijn.nfi.nl
 pm-bounces.nfi.nl
 smtp.nfi.nl
+link.pr.nfi.nl
+www.mijn.nfi.nl
+9120834.nfi.nl

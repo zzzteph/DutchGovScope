@@ -4,3 +4,6 @@ www.mobilityhappiness.nl
 www.development.mobilityhappiness.nl
 www.mobiliteitsalliantie.mobilityhappiness.nl
 mobilityhappiness.nl
+autodiscover.mobilityhappiness.nl
+ftp.mobilityhappiness.nl
+mail.mobilityhappiness.nl

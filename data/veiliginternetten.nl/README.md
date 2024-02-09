@@ -11,8 +11,8 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/veiliginternetten.nl/subdomains.txt)|8|Alive subdomains|
-|[urls.txt](/data/veiliginternetten.nl/urls.txt)|6|Urls|
+|[subdomains.txt](/data/veiliginternetten.nl/subdomains.txt)|9|Alive subdomains|
+|[urls.txt](/data/veiliginternetten.nl/urls.txt)|7|Urls|
 |[all_subdomains.txt](/data/veiliginternetten.nl/all_subdomains.txt)|10|All found subdomains (history)|
 
 
@@ -27,4 +27,5 @@
 |[https://vs6844.veiliginternetten.nl](https://vs6844.veiliginternetten.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|301 Moved Perman...|
 |[https://www.veiliginternetten.nl](https://www.veiliginternetten.nl)| | **B**|Apache| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS|301 Moved Perman...|
 |[https://veiliginternetten.nl](https://veiliginternetten.nl)| | **B**|Apache| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server Bootstrap HSTS|Antwoord op vrag...|
+|[http://autodiscover.veiliginternetten.nl](http://autodiscover.veiliginternetten.nl)| | **B**|Microsoft-IIS/10.0|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server||
 

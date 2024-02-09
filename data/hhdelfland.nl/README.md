@@ -12,7 +12,7 @@
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/hhdelfland.nl/subdomains.txt)|64|Alive subdomains|
-|[urls.txt](/data/hhdelfland.nl/urls.txt)|24|Urls|
+|[urls.txt](/data/hhdelfland.nl/urls.txt)|26|Urls|
 |[all_subdomains.txt](/data/hhdelfland.nl/all_subdomains.txt)|223|All found subdomains (history)|
 
 
@@ -45,4 +45,6 @@
 |[https://watertoetsportaal-a.hhdelfland.nl](https://watertoetsportaal-a.hhdelfland.nl)| | **A**|Microsoft-IIS/10.0| |:white_check_mark: | | | :white_check_mark:| | | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server|Document Moved|
 |[https://grondwaterportaal.hhdelfland.nl](https://grondwaterportaal.hhdelfland.nl)| | **A**|Microsoft-IIS/10.0| |:white_check_mark: | | | :white_check_mark:| | | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server|Document Moved|
 |[https://startstopmelding.hhdelfland.nl](https://startstopmelding.hhdelfland.nl)| | **D**|Microsoft-IIS/10.0| | | | | :white_check_mark:| | | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server|403 - Forbidden:...|
+|[https://enterpriseenrollment.hhdelfland.nl](https://enterpriseenrollment.hhdelfland.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||
+|[https://passwordreset.hhdelfland.nl](https://passwordreset.hhdelfland.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Microsoft Online...|
 

@@ -4,3 +4,8 @@ prettigcontactmetdeoverheid.nl
 www.training.prettigcontactmetdeoverheid.nl
 nieuws.prettigcontactmetdeoverheid.nl
 training.prettigcontactmetdeoverheid.nl
+autoconfig.prettigcontactmetdeoverheid.nl
+autodiscover.prettigcontactmetdeoverheid.nl
+ftp.prettigcontactmetdeoverheid.nl
+pop.prettigcontactmetdeoverheid.nl
+smtp.prettigcontactmetdeoverheid.nl

@@ -2,8 +2,8 @@
 layout: default
 title: "zorginzicht.nl"
 permalink: "/dutchgov/zorginzicht.nl.html"
-subdomains_count: 14
-all_subdomains_count: 22
+subdomains_count: 20
+all_subdomains_count: 28
 urls_count: 9
 ssl_rank: 
 http_rank: D
@@ -27,9 +27,9 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/zorginzicht.nl/subdomains.txt)|14|Alive subdomains|
+|[subdomains.txt](/DutchGovScope/data/zorginzicht.nl/subdomains.txt)|20|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/zorginzicht.nl/urls.txt)|9|Urls|
-|[all_subdomains.txt](/DutchGovScope/data/zorginzicht.nl/all_subdomains.txt)|22|All found subdomains (history)|
+|[all_subdomains.txt](/DutchGovScope/data/zorginzicht.nl/all_subdomains.txt)|28|All found subdomains (history)|
 
 
 ## Statistics

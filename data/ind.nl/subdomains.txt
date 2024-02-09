@@ -15,3 +15,4 @@ checkout-acc.portal.ind.nl
 daf.ind.nl
 checkout.portal.ind.nl
 checkout-tst.portal.ind.nl
+localhost.ind.nl

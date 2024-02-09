@@ -47,3 +47,6 @@ a-feeds.a-english.nctv.nl
 a-feeds.nctv.nl
 a-magazines.nctv.nl
 a-opendata.nctv.nl
+toegankelijkheidsonderzoek-kennisbankterrorisme.nctv.nl
+toegankelijkheidsonderzoek-english.nctv.nl
+test.nctv.nl

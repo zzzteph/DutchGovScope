@@ -8,3 +8,4 @@ https://vacaturezoekservice-acceptatie.mobiliteitsbank.nl
 http://vacaturezoekservice-test.mobiliteitsbank.nl
 https://www.mobiliteitsbank.nl
 https://mobiliteitsbank.nl
+https://acceptatie.mobiliteitsbank.nl

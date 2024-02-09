@@ -11,9 +11,9 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/grondstoffenscanner.nl/subdomains.txt)|5|Alive subdomains|
+|[subdomains.txt](/data/grondstoffenscanner.nl/subdomains.txt)|7|Alive subdomains|
 |[urls.txt](/data/grondstoffenscanner.nl/urls.txt)|5|Urls|
-|[all_subdomains.txt](/data/grondstoffenscanner.nl/all_subdomains.txt)|6|All found subdomains (history)|
+|[all_subdomains.txt](/data/grondstoffenscanner.nl/all_subdomains.txt)|8|All found subdomains (history)|
 
 
 ## Statistics

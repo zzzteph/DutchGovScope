@@ -2,8 +2,8 @@
 layout: default
 title: "circulairinkopen.nl"
 permalink: "/dutchgov/circulairinkopen.nl.html"
-subdomains_count: 4
-all_subdomains_count: 4
+subdomains_count: 7
+all_subdomains_count: 7
 urls_count: 4
 ssl_rank: 
 http_rank: A
@@ -27,9 +27,9 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/circulairinkopen.nl/subdomains.txt)|4|Alive subdomains|
+|[subdomains.txt](/DutchGovScope/data/circulairinkopen.nl/subdomains.txt)|7|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/circulairinkopen.nl/urls.txt)|4|Urls|
-|[all_subdomains.txt](/DutchGovScope/data/circulairinkopen.nl/all_subdomains.txt)|4|All found subdomains (history)|
+|[all_subdomains.txt](/DutchGovScope/data/circulairinkopen.nl/all_subdomains.txt)|7|All found subdomains (history)|
 
 
 ## Statistics

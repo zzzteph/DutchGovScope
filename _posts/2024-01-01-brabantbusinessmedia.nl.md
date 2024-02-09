@@ -2,8 +2,8 @@
 layout: default
 title: "brabantbusinessmedia.nl"
 permalink: "/dutchgov/brabantbusinessmedia.nl.html"
-subdomains_count: 4
-all_subdomains_count: 4
+subdomains_count: 4527
+all_subdomains_count: 4527
 urls_count: 4
 ssl_rank: C
 http_rank: E
@@ -27,9 +27,9 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/brabantbusinessmedia.nl/subdomains.txt)|4|Alive subdomains|
+|[subdomains.txt](/DutchGovScope/data/brabantbusinessmedia.nl/subdomains.txt)|4527|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/brabantbusinessmedia.nl/urls.txt)|4|Urls|
-|[all_subdomains.txt](/DutchGovScope/data/brabantbusinessmedia.nl/all_subdomains.txt)|4|All found subdomains (history)|
+|[all_subdomains.txt](/DutchGovScope/data/brabantbusinessmedia.nl/all_subdomains.txt)|4527|All found subdomains (history)|
 
 
 ## Statistics

@@ -220,3 +220,13 @@ mobicert.brabant.nl
 specials-acpt.brabant.nl
 webmail-acpt.brabant.nl
 informatie-rws.brabant.nl
+blog.brabant.nl
+pki.brabant.nl
+enterpriseenrollment.brabant.nl
+enterpriseregistration.brabant.nl
+fta.brabant.nl
+layar.brabant.nl
+msoid.brabant.nl
+ndes.brabant.nl
+webcast.brabant.nl
+www-test.brabant.nl

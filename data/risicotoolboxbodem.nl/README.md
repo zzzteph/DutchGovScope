@@ -11,8 +11,8 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/risicotoolboxbodem.nl/subdomains.txt)|7|Alive subdomains|
-|[urls.txt](/data/risicotoolboxbodem.nl/urls.txt)|6|Urls|
+|[subdomains.txt](/data/risicotoolboxbodem.nl/subdomains.txt)|8|Alive subdomains|
+|[urls.txt](/data/risicotoolboxbodem.nl/urls.txt)|7|Urls|
 |[all_subdomains.txt](/data/risicotoolboxbodem.nl/all_subdomains.txt)|11|All found subdomains (history)|
 
 
@@ -27,4 +27,5 @@
 |[https://risicotoolboxbodem.nl](https://risicotoolboxbodem.nl)| | **D**||:warning: |:white_check_mark: | | | | | | :white_check_mark: | |||
 |[https://nieuwestoffen.risicotoolboxbodem.nl](https://nieuwestoffen.risicotoolboxbodem.nl)| | **C**|Microsoft-IIS/10.0| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS IIS:10.0 Microsoft ASP.NET Windows Server|- Nieuwe Stoffen|
 |[https://feedback.risicotoolboxbodem.nl](https://feedback.risicotoolboxbodem.nl)| | **C**|Microsoft-IIS/10.0| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS IIS:10.0 Microsoft ASP.NET Windows Server|- Nieuwe Stoffen|
+|[http://localhost.risicotoolboxbodem.nl](http://localhost.risicotoolboxbodem.nl)| | **D**|nginx| | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Nginx|Welcome to nginx...|
 

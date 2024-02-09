@@ -13,7 +13,7 @@
 |------------|-------|------|
 |[subdomains.txt](/data/spaceoffice.nl/subdomains.txt)|5|Alive subdomains|
 |[urls.txt](/data/spaceoffice.nl/urls.txt)|3|Urls|
-|[all_subdomains.txt](/data/spaceoffice.nl/all_subdomains.txt)|5|All found subdomains (history)|
+|[all_subdomains.txt](/data/spaceoffice.nl/all_subdomains.txt)|6|All found subdomains (history)|
 
 
 ## Statistics

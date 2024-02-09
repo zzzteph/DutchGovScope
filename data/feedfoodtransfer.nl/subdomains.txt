@@ -12,3 +12,5 @@ pfos-pfoa-cow.apps.feedfoodtransfer.nl
 aflatoxinb1m1-cow.apps.feedfoodtransfer.nl
 dioxins-congener-hen.apps.feedfoodtransfer.nl
 dioxins-totalteq-hen.apps.feedfoodtransfer.nl
+dev.apps.feedfoodtransfer.nl
+mail.apps.feedfoodtransfer.nl

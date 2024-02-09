@@ -23,3 +23,6 @@ www-tst.officielebekendmakingen.nl
 web01-nabs.officielebekendmakingen.nl
 zoek-tst.officielebekendmakingen.nl
 www-acc.officielebekendmakingen.nl
+bestanden.officielebekendmakingen.nl
+localhost.officielebekendmakingen.nl
+servicedesk.officielebekendmakingen.nl

@@ -4,7 +4,7 @@ title: "atlasnatuurlijkkapitaal.nl"
 permalink: "/dutchgov/atlasnatuurlijkkapitaal.nl.html"
 subdomains_count: 6
 all_subdomains_count: 6
-urls_count: 5
+urls_count: 6
 ssl_rank: 
 http_rank: D
 security_txt: 2
@@ -28,7 +28,7 @@ tags: dutchgov
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/DutchGovScope/data/atlasnatuurlijkkapitaal.nl/subdomains.txt)|6|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/atlasnatuurlijkkapitaal.nl/urls.txt)|5|Urls|
+|[urls.txt](/DutchGovScope/data/atlasnatuurlijkkapitaal.nl/urls.txt)|6|Urls|
 |[all_subdomains.txt](/DutchGovScope/data/atlasnatuurlijkkapitaal.nl/all_subdomains.txt)|6|All found subdomains (history)|
 
 
@@ -42,4 +42,5 @@ tags: dutchgov
 |[http://test.atlasnatuurlijkkapitaal.nl](http://test.atlasnatuurlijkkapitaal.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://www.atlasnatuurlijkkapitaal.nl](https://www.atlasnatuurlijkkapitaal.nl)| | **A**|Apache| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server Drupal HSTS PHP|Atlas Natuurlijk...|
 |[https://atlasnatuurlijkkapitaal.nl](https://atlasnatuurlijkkapitaal.nl)| | **A**|Apache| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS|301 Moved Perman...|
+|[https://prd.atlasnatuurlijkkapitaal.nl](https://prd.atlasnatuurlijkkapitaal.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|webserver|
 

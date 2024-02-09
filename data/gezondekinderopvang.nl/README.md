@@ -5,14 +5,14 @@
 
 
  - **SSL Grade**:
- - **HTTP Security Grade**:B
+ - **HTTP Security Grade**:C
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:4
 
 
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/gezondekinderopvang.nl/subdomains.txt)|6|Alive subdomains|
-|[urls.txt](/data/gezondekinderopvang.nl/urls.txt)|5|Urls|
+|[urls.txt](/data/gezondekinderopvang.nl/urls.txt)|6|Urls|
 |[all_subdomains.txt](/data/gezondekinderopvang.nl/all_subdomains.txt)|6|All found subdomains (history)|
 
 
@@ -26,4 +26,5 @@
 |[http://test.gezondekinderopvang.nl](http://test.gezondekinderopvang.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://www.gezondekinderopvang.nl](https://www.gezondekinderopvang.nl)| | **A**|Apache| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server Drupal HSTS PHP|Home | Gezonde K...|
 |[https://gezondekinderopvang.nl](https://gezondekinderopvang.nl)| | **A**|Apache| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS|301 Moved Perman...|
+|[http://localhost.gezondekinderopvang.nl](http://localhost.gezondekinderopvang.nl)| | **D**|nginx| | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Nginx|Welcome to nginx...|
 

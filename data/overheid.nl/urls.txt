@@ -223,7 +223,7 @@ https://stelselcatalogus.int.omgevingswet.overheid.nl
 https://stelselcatalogus.kta.omgevingswet.overheid.nl
 https://stelselcatalogus.omgevingswet.overheid.nl
 https://stelselcatalogus.pfm.omgevingswet.overheid.nl
-http://stelselcatalogus.pre.omgevingswet.overheid.nl
+https://stelselcatalogus.pre.omgevingswet.overheid.nl
 https://stijl.mijn.overheid.nl
 https://stijlgids.overheid.nl
 https://sts.koop.overheid.nl

@@ -6,3 +6,7 @@ www.acc.cruksregister.nl
 www.test.cruksregister.nl
 toolkit.cruksregister.nl
 www.toolkit.cruksregister.nl
+grafana.cruksregister.nl
+jaeger.cruksregister.nl
+pingdom.cruksregister.nl
+testing.cruksregister.nl

@@ -67,3 +67,6 @@ max.acc.dusi.rdobeheer.nl
 taiga.rdobeheer.nl
 cmhelpdesk.rdobeheer.nl
 noc.rdobeheer.nl
+acc.rdobeheer.nl
+outgoing.rdobeheer.nl
+stats.rdobeheer.nl

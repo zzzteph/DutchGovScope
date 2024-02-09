@@ -13,7 +13,7 @@
 |------------|-------|------|
 |[subdomains.txt](/data/kimnet.nl/subdomains.txt)|12|Alive subdomains|
 |[urls.txt](/data/kimnet.nl/urls.txt)|7|Urls|
-|[all_subdomains.txt](/data/kimnet.nl/all_subdomains.txt)|16|All found subdomains (history)|
+|[all_subdomains.txt](/data/kimnet.nl/all_subdomains.txt)|17|All found subdomains (history)|
 
 
 ## Statistics

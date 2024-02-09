@@ -1,2 +1,3 @@
 https://www.kennisnetwerkbiociden.nl
 https://kennisnetwerkbiociden.nl
+http://localhost.kennisnetwerkbiociden.nl

@@ -2,3 +2,5 @@ auditdienstrijk.nl
 feeds.auditdienstrijk.nl
 opendata.auditdienstrijk.nl
 www.auditdienstrijk.nl
+a-www.auditdienstrijk.nl
+a-feeds.auditdienstrijk.nl

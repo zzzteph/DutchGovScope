@@ -86,7 +86,6 @@ pleintest.noord-holland.nl
 portal-bs.noord-holland.nl
 projectruimte.noord-holland.nl
 qep.noord-holland.nl
-qlikdatagwpoc-prod.aws.noord-holland.nl
 qlikgw-accp.aws.noord-holland.nl
 qlikgw-prod.aws.noord-holland.nl
 servicepuntportal.noord-holland.nl

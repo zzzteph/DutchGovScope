@@ -1,3 +1,6 @@
 http://content.mindergrondrisico.nl
 https://www.mindergrondrisico.nl
 https://mindergrondrisico.nl
+http://ftp.mindergrondrisico.nl
+http://mail.mindergrondrisico.nl
+http://staging.mindergrondrisico.nl

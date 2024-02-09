@@ -12,7 +12,7 @@
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/sscict.nl/subdomains.txt)|21|Alive subdomains|
-|[urls.txt](/data/sscict.nl/urls.txt)|4|Urls|
+|[urls.txt](/data/sscict.nl/urls.txt)|5|Urls|
 |[all_subdomains.txt](/data/sscict.nl/all_subdomains.txt)|27|All found subdomains (history)|
 
 
@@ -25,4 +25,5 @@
 |[https://www.sscict.nl](https://www.sscict.nl)| | **A**|Microsoft-IIS/10.0| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS IIS:10.0 Windows Server|Document Moved|
 |[https://idtappp01.sscict.nl](https://idtappp01.sscict.nl)| | **E**|| | | | | | | | :white_check_mark: | ||| (403)|
 |[https://idtappa01.sscict.nl](https://idtappa01.sscict.nl)| | **E**|| | | | | | | | :white_check_mark: | ||| (403)|
+|[http://localhost.sscict.nl](http://localhost.sscict.nl)| | **D**|nginx| | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Nginx|Welcome to nginx...|
 

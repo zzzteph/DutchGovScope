@@ -11,9 +11,9 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/rijksfinancien.nl/subdomains.txt)|10|Alive subdomains|
+|[subdomains.txt](/data/rijksfinancien.nl/subdomains.txt)|13|Alive subdomains|
 |[urls.txt](/data/rijksfinancien.nl/urls.txt)|7|Urls|
-|[all_subdomains.txt](/data/rijksfinancien.nl/all_subdomains.txt)|24|All found subdomains (history)|
+|[all_subdomains.txt](/data/rijksfinancien.nl/all_subdomains.txt)|27|All found subdomains (history)|
 
 
 ## Statistics

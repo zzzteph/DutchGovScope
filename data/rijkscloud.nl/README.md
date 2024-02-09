@@ -11,9 +11,9 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/rijkscloud.nl/subdomains.txt)|530|Alive subdomains|
-|[urls.txt](/data/rijkscloud.nl/urls.txt)|147|Urls|
-|[all_subdomains.txt](/data/rijkscloud.nl/all_subdomains.txt)|719|All found subdomains (history)|
+|[subdomains.txt](/data/rijkscloud.nl/subdomains.txt)|539|Alive subdomains|
+|[urls.txt](/data/rijkscloud.nl/urls.txt)|148|Urls|
+|[all_subdomains.txt](/data/rijkscloud.nl/all_subdomains.txt)|720|All found subdomains (history)|
 
 
 ## Statistics
@@ -30,7 +30,7 @@
 |[https://apps.alma.jvs.ix.rijkscloud.nl](https://apps.alma.jvs.ix.rijkscloud.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://chat-dev.rijkscloud.nl](https://chat-dev.rijkscloud.nl)| | **A**|Apache| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS|GitLab Mattermos...|
 |[https://chat.datascience.rijkscloud.nl](https://chat.datascience.rijkscloud.nl)| | **A**|Apache| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS|GitLab Mattermos...|
-|[https://chat.ix.rijkscloud.nl](https://chat.ix.rijkscloud.nl)| | **A**|Apache| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS||
+|[https://chat.ix.rijkscloud.nl](https://chat.ix.rijkscloud.nl)| | **A**|Apache| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS|GitLab Mattermos...|
 |[https://dashboard.analytics.ienw.rijkscloud.nl](https://dashboard.analytics.ienw.rijkscloud.nl)| | **C**|gunicorn|:warning: |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS Python gunicorn|Redirecting...|
 |[https://dashboards-at.dstrial-inspectieraad.rijkscloud.nl](https://dashboards-at.dstrial-inspectieraad.rijkscloud.nl)| | **A**|| |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | |HSTS Java||
 |[https://dashboards-private.ilt.rijkscloud.nl](https://dashboards-private.ilt.rijkscloud.nl)| | **A**|| |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | |HSTS Java||
@@ -154,8 +154,9 @@
 |[https://sso.dbe-t.rvb.rijkscloud.nl](https://sso.dbe-t.rvb.rijkscloud.nl)| | **C**|Microsoft-IIS/10.0| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS IIS:10.0 Microsoft ASP.NET Windows Server||
 |[https://ssp.estota.rijkscloud.nl](https://ssp.estota.rijkscloud.nl)| | **E**|| | | | | | | | :white_check_mark: | |Basic||
 |[https://ssp.ix.rijkscloud.nl](https://ssp.ix.rijkscloud.nl)| | **C**|rijkscloud.nl|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS|Redirecting...|
-|[https://stats.duo.rijkscloud.nl](https://stats.duo.rijkscloud.nl)| | **B**|Apache|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |AngularJS Apache HTTP Server HSTS Matomo Analytics|Sign in - Matomo|
+|[https://stats.duo.rijkscloud.nl](https://stats.duo.rijkscloud.nl)| | **B**|Apache|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS|Matomo › Error|
 |[https://status.rijkscloud.nl](https://status.rijkscloud.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| | :white_check_mark: | :white_check_mark: | |Bootstrap:3.4.1 HSTS|ODCN Status page|
+|[https://superset.dev.fib.ienw.rijkscloud.nl](https://superset.dev.fib.ienw.rijkscloud.nl)| | **C**|gunicorn|:warning: |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS Python gunicorn|Redirecting...|
 |[https://uno.dfront.rijkscloud.nl](https://uno.dfront.rijkscloud.nl)| | **C**|Apache| |:white_check_mark: | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|Uno Documentatie|
 |[https://webmail.rijkscloud.nl](https://webmail.rijkscloud.nl)| | **C**|Apache|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server Bootstrap HSTS PHP RoundCube|Roundcube Webmai...|
 |[https://www.rijkscloud.nl](https://www.rijkscloud.nl)| | **C**|Apache| |:white_check_mark: | | | | | | :white_check_mark: | |Apache HTTP Server HSTS||

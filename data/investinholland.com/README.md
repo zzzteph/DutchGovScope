@@ -30,7 +30,7 @@
 |[https://german.investinholland.com](https://german.investinholland.com)| **B**| **C**|cloudflare| |:white_check_mark: | | | | | | :white_check_mark: | |Cloudflare Google Tag Manager HSTS MySQL PHP Plesk WPML:4.6.5 WordPress:6.3.3|Die NFIA, die zu...|
 |[https://japan.investinholland.com](https://japan.investinholland.com)| **B**| **C**|cloudflare| |:white_check_mark: | | | | | | :white_check_mark: | |Cloudflare Google Tag Manager HSTS MySQL PHP Plesk WPML:4.6.5 WordPress:6.3.3|外国直接投資：オ...|
 |[https://korea.investinholland.com](https://korea.investinholland.com)| | **C**|cloudflare| |:white_check_mark: | | | | | | :white_check_mark: | |Cloudflare Google Tag Manager HSTS MySQL PHP Plesk WPML:4.6.5 WordPress:6.3.3|네덜란드 투자진...|
-|[http://smtp.japan.investinholland.com](http://smtp.japan.investinholland.com)| | **F**|cloudflare| | | | | | | | :white_check_mark: | |Cloudflare HTTP/2||
+|[http://smtp.japan.investinholland.com](http://smtp.japan.investinholland.com)| | **F**|cloudflare| | | | | | | | :white_check_mark: | |Cloudflare||
 |[https://taiwan.investinholland.com](https://taiwan.investinholland.com)| **B**| **C**|cloudflare| |:white_check_mark: | | | | | | :white_check_mark: | |Cloudflare Google Tag Manager HSTS MySQL PHP Plesk WPML:4.6.5 WordPress:6.3.3|荷蘭投資局(NFIA)...|
 |[https://uk.investinholland.com](https://uk.investinholland.com)| **B**| **C**|cloudflare| |:white_check_mark: | | | | | | :white_check_mark: | |Cloudflare HSTS Plesk|301 Moved Perman...|
 |[https://www.investinholland.com](https://www.investinholland.com)| **B**| **C**|cloudflare| |:white_check_mark: | | | | | | :white_check_mark: | |Cloudflare HSTS Plesk||

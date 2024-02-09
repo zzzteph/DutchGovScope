@@ -7,3 +7,4 @@ https://test-dictu.digitoegankelijk.nl
 https://www.digitoegankelijk.nl
 https://digitoegankelijk.nl
 https://dashboard-keten.digitoegankelijk.nl
+https://monitor.digitoegankelijk.nl

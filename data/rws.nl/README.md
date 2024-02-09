@@ -11,8 +11,8 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/rws.nl/subdomains.txt)|234|Alive subdomains|
-|[urls.txt](/data/rws.nl/urls.txt)|155|Urls|
+|[subdomains.txt](/data/rws.nl/subdomains.txt)|235|Alive subdomains|
+|[urls.txt](/data/rws.nl/urls.txt)|156|Urls|
 |[all_subdomains.txt](/data/rws.nl/all_subdomains.txt)|1156|All found subdomains (history)|
 
 
@@ -96,8 +96,8 @@
 |[https://nlhull.rws.nl](https://nlhull.rws.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS|TOPdesk|
 |[https://nlrdms.rws.nl](https://nlrdms.rws.nl)| | **B**||:warning: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://noos.matroos.rws.nl](https://noos.matroos.rws.nl)| | **B**|Apache| |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS|Homepage|
-|[https://office.systeem.rws.nl](https://office.systeem.rws.nl)| | **C**|Microsoft-IIS/10.0| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS IIS:10.0 Microsoft ASP.NET:4.0.30319 Windows Server|404 - File or di...|
-|[https://open.rws.nl](https://open.rws.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Azure Azure Front Door||
+|[https://office.systeem.rws.nl](https://office.systeem.rws.nl)| | **C**|Microsoft-IIS/10.0| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS IIS:10.0 Microsoft ASP.NET Windows Server|404 - File or di...|
+|[https://open.rws.nl](https://open.rws.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Azure Azure Front Door|Service unavaila...|
 |[https://otl.rws.nl](https://otl.rws.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:-|OTL Publicatieom...|
 |[https://overstroomik.rws.nl](https://overstroomik.rws.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |||
 |[https://overstroomik-acceptance.rws.nl](https://overstroomik-acceptance.rws.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
@@ -159,7 +159,7 @@
 |[https://www.rws.nl](https://www.rws.nl)| | **C**|Microsoft-Azure-Application-Gateway/v2|:warning: |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | ||301 Moved Perman...|
 |[https://www.aqualarm.rws.nl](https://www.aqualarm.rws.nl)| | **C**||:warning: |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |||
 |[https://www.waterberichtgeving.rws.nl](https://www.waterberichtgeving.rws.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server Bootstrap HSTS|Home - Watermana...|
-|[https://www.watergegevens.rws.nl](https://www.watergegevens.rws.nl)| | **F**|Microsoft-IIS/8.5| | | | | | | | :white_check_mark: | |IIS:8.5 Microsoft ASP.NET Windows Server|500 - Internal s...|
+|[https://www.watergegevens.rws.nl](https://www.watergegevens.rws.nl)| | **F**|Microsoft-IIS/8.5| | | | | | | | :white_check_mark: | |IIS:8.5 Microsoft ASP.NET Windows Server|Document Moved|
 |[https://www.werkenbij.rws.nl](https://www.werkenbij.rws.nl)| | **C**|Microsoft-Azure-Application-Gateway/v2|:warning: |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | ||301 Moved Perman...|
 |[http://xwd.rws.nl](http://xwd.rws.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://zwerfafval.rws.nl](https://zwerfafval.rws.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:-|Object moved|
@@ -176,4 +176,5 @@
 |[http://acceptatie.gbvi.rws.nl](http://acceptatie.gbvi.rws.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://keycloak-test.vm-02.azure.grid.rws.nl](https://keycloak-test.vm-02.azure.grid.rws.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Welcome to Keycl...|
 |[https://keycloak-acc.vm-02.azure.grid.rws.nl](https://keycloak-acc.vm-02.azure.grid.rws.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Welcome to Keycl...|
+|[https://enterpriseenrollment.rws.nl](https://enterpriseenrollment.rws.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||
 

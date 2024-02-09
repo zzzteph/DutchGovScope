@@ -8,3 +8,10 @@ https://vpn.kansspelautoriteit.nl
 https://webmail.kansspelautoriteit.nl
 https://www.kansspelautoriteit.nl
 https://kansspelautoriteit.nl
+https://desktop.kansspelautoriteit.nl
+https://ems.kansspelautoriteit.nl
+https://enterpriseenrollment.kansspelautoriteit.nl
+https://enterpriseregistration.kansspelautoriteit.nl
+https://mfa.kansspelautoriteit.nl
+https://uag1.kansspelautoriteit.nl
+https://vdi.kansspelautoriteit.nl

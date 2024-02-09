@@ -1,2 +1,4 @@
 www.innova58.nl
 innova58.nl
+autodiscover.innova58.nl
+msoid.innova58.nl

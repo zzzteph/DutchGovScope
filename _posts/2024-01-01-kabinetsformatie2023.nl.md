@@ -2,8 +2,8 @@
 layout: default
 title: "kabinetsformatie2023.nl"
 permalink: "/dutchgov/kabinetsformatie2023.nl.html"
-subdomains_count: 4
-all_subdomains_count: 4
+subdomains_count: 10
+all_subdomains_count: 10
 urls_count: 4
 ssl_rank: 
 http_rank: A
@@ -27,9 +27,9 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/kabinetsformatie2023.nl/subdomains.txt)|4|Alive subdomains|
+|[subdomains.txt](/DutchGovScope/data/kabinetsformatie2023.nl/subdomains.txt)|10|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/kabinetsformatie2023.nl/urls.txt)|4|Urls|
-|[all_subdomains.txt](/DutchGovScope/data/kabinetsformatie2023.nl/all_subdomains.txt)|4|All found subdomains (history)|
+|[all_subdomains.txt](/DutchGovScope/data/kabinetsformatie2023.nl/all_subdomains.txt)|10|All found subdomains (history)|
 
 
 ## Statistics

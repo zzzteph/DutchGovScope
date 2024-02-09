@@ -5,15 +5,15 @@
 
 
  - **SSL Grade**:
- - **HTTP Security Grade**:E
+ - **HTTP Security Grade**:D
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:1
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/naarnederland.nl/subdomains.txt)|4|Alive subdomains|
-|[urls.txt](/data/naarnederland.nl/urls.txt)|4|Urls|
-|[all_subdomains.txt](/data/naarnederland.nl/all_subdomains.txt)|8|All found subdomains (history)|
+|[subdomains.txt](/data/naarnederland.nl/subdomains.txt)|6|Alive subdomains|
+|[urls.txt](/data/naarnederland.nl/urls.txt)|3|Urls|
+|[all_subdomains.txt](/data/naarnederland.nl/all_subdomains.txt)|10|All found subdomains (history)|
 
 
 ## Statistics
@@ -24,5 +24,4 @@
 |[http://mail.naarnederland.nl](http://mail.naarnederland.nl)| | **C**|ghs| | | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | ||301 Moved|
 |[https://www.naarnederland.nl](https://www.naarnederland.nl)| | **E**|Apache|:o: |:white_check_mark: | | | | | | :white_check_mark: | |Apache HTTP Server HSTS MySQL PHP WPML:4.1.1 WordPress:5.3.17|Naar Nederland –...|
 |[https://naarnederland.nl](https://naarnederland.nl)| | **E**|Apache|:o: |:white_check_mark: | | | | | | :white_check_mark: | |Apache HTTP Server HSTS||
-|[http://cdn.naarnederland.nl](http://cdn.naarnederland.nl)| | **F**|VellanceBlast| | | | | | | | :white_check_mark: | |||
 

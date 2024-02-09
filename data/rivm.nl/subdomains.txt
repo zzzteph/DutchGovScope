@@ -63,7 +63,6 @@ autodiscover.rivm.nl
 beleving.rivm.nl
 bestellingen.rivm.nl
 bggo.rivm.nl
-biokap.rivm.nl
 biotechnologie.rivm.nl
 caontb.rivm.nl
 cdif.osiris.rivm.nl
@@ -395,3 +394,4 @@ a-ewrs.rivm.nl
 apex-cmm.rivm.nl
 lsocom2.rivm.nl
 lsp.rivm.nl
+dashview.rivm.nl

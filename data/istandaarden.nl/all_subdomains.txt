@@ -26,3 +26,5 @@ www-tst.istandaarden.nl
 testarchitectuur.istandaarden.nl
 www-ts.istandaarden.nl
 modellen.istandaarden.nl
+ftp.istandaarden.nl
+pm-bounces.istandaarden.nl

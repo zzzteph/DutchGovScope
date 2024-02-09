@@ -19,6 +19,7 @@ https://channels.lpc.logius.nl
 http://clienteleitsm.logius.nl
 http://clienteleitsm-acceptatie.logius.nl
 https://comcms.logius.nl
+http://docs.lpc.logius.nl
 http://git-az1.lpc.logius.nl
 http://git-az2.lpc.logius.nl
 http://git.lpc.logius.nl

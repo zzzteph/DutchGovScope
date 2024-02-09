@@ -4,7 +4,7 @@ title: "collectienederland.nl"
 permalink: "/dutchgov/collectienederland.nl.html"
 subdomains_count: 6
 all_subdomains_count: 6
-urls_count: 4
+urls_count: 6
 ssl_rank: 
 http_rank: F
 security_txt: 0
@@ -28,7 +28,7 @@ tags: dutchgov
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/DutchGovScope/data/collectienederland.nl/subdomains.txt)|6|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/collectienederland.nl/urls.txt)|4|Urls|
+|[urls.txt](/DutchGovScope/data/collectienederland.nl/urls.txt)|6|Urls|
 |[all_subdomains.txt](/DutchGovScope/data/collectienederland.nl/all_subdomains.txt)|6|All found subdomains (history)|
 
 
@@ -41,4 +41,6 @@ tags: dutchgov
 |[https://wo2.collectienederland.nl](https://wo2.collectienederland.nl)| | **F**|nginx/1.18.0 (Ubuntu)| | | | | | | | :white_check_mark: | |Bootstrap Nginx:1.18.0 Ubuntu|Cultuurgoederen...|
 |[https://www.collectienederland.nl](https://www.collectienederland.nl)| | **F**|nginx/1.19.6| | | | | | | | :white_check_mark: | |Bootstrap Nginx:1.19.6|Collectie Nederl...|
 |[https://collectienederland.nl](https://collectienederland.nl)| | **F**|nginx/1.19.6| | | | | | | | :white_check_mark: | |Bootstrap Nginx:1.19.6|Collectie Nederl...|
+|[https://ftp.collectienederland.nl](https://ftp.collectienederland.nl)| | **F**|nginx/1.19.6| | | | | | | | :white_check_mark: | |Nginx:1.19.6|502 Bad Gateway|
+|[https://musea.collectienederland.nl](https://musea.collectienederland.nl)| | **F**|nginx/1.19.6| | | | | | | | :white_check_mark: | |Nginx:1.19.6|502 Bad Gateway|
 

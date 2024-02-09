@@ -2,8 +2,8 @@
 layout: default
 title: "zwemwater.nl"
 permalink: "/dutchgov/zwemwater.nl.html"
-subdomains_count: 20
-all_subdomains_count: 20
+subdomains_count: 176
+all_subdomains_count: 176
 urls_count: 19
 ssl_rank: 
 http_rank: D
@@ -27,9 +27,9 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/zwemwater.nl/subdomains.txt)|20|Alive subdomains|
+|[subdomains.txt](/DutchGovScope/data/zwemwater.nl/subdomains.txt)|176|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/zwemwater.nl/urls.txt)|19|Urls|
-|[all_subdomains.txt](/DutchGovScope/data/zwemwater.nl/all_subdomains.txt)|20|All found subdomains (history)|
+|[all_subdomains.txt](/DutchGovScope/data/zwemwater.nl/all_subdomains.txt)|176|All found subdomains (history)|
 
 
 ## Statistics

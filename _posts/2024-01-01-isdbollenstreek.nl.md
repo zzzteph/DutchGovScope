@@ -2,7 +2,7 @@
 layout: default
 title: "isdbollenstreek.nl"
 permalink: "/dutchgov/isdbollenstreek.nl.html"
-subdomains_count: 16
+subdomains_count: 14
 all_subdomains_count: 18
 urls_count: 6
 ssl_rank: A
@@ -27,7 +27,7 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/isdbollenstreek.nl/subdomains.txt)|16|Alive subdomains|
+|[subdomains.txt](/DutchGovScope/data/isdbollenstreek.nl/subdomains.txt)|14|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/isdbollenstreek.nl/urls.txt)|6|Urls|
 |[all_subdomains.txt](/DutchGovScope/data/isdbollenstreek.nl/all_subdomains.txt)|18|All found subdomains (history)|
 

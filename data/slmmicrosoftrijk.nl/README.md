@@ -22,5 +22,5 @@
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[https://www.slmmicrosoftrijk.nl](https://www.slmmicrosoftrijk.nl)| | **F**|nginx/1.24.0| | | | | | | | :white_check_mark: | |Nginx:1.24.0||
-|[http://slmmicrosoftrijk.nl](http://slmmicrosoftrijk.nl)| | **F**|nginx/1.24.0| | | | | | | | :white_check_mark: | |Nginx:1.24.0|301 Moved Perman...|
+|[https://slmmicrosoftrijk.nl](https://slmmicrosoftrijk.nl)| | **F**|nginx/1.24.0| | | | | | | | :white_check_mark: | |MySQL Nginx:1.24.0 PHP WordPress:6.3.3 Yoast SEO:21.5|Home - SLM Micro...|
 

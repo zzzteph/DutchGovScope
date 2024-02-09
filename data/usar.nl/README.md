@@ -11,9 +11,9 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/usar.nl/subdomains.txt)|4|Alive subdomains|
+|[subdomains.txt](/data/usar.nl/subdomains.txt)|5|Alive subdomains|
 |[urls.txt](/data/usar.nl/urls.txt)|3|Urls|
-|[all_subdomains.txt](/data/usar.nl/all_subdomains.txt)|5|All found subdomains (history)|
+|[all_subdomains.txt](/data/usar.nl/all_subdomains.txt)|6|All found subdomains (history)|
 
 
 ## Statistics

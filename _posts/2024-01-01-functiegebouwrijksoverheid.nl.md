@@ -2,7 +2,7 @@
 layout: default
 title: "functiegebouwrijksoverheid.nl"
 permalink: "/dutchgov/functiegebouwrijksoverheid.nl.html"
-subdomains_count: 5
+subdomains_count: 6
 all_subdomains_count: 10
 urls_count: 5
 ssl_rank: 
@@ -27,7 +27,7 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/functiegebouwrijksoverheid.nl/subdomains.txt)|5|Alive subdomains|
+|[subdomains.txt](/DutchGovScope/data/functiegebouwrijksoverheid.nl/subdomains.txt)|6|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/functiegebouwrijksoverheid.nl/urls.txt)|5|Urls|
 |[all_subdomains.txt](/DutchGovScope/data/functiegebouwrijksoverheid.nl/all_subdomains.txt)|10|All found subdomains (history)|
 

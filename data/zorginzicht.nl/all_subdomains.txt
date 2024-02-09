@@ -20,3 +20,9 @@ sp.zorginzicht.nl
 www-p.zorginzicht.nl
 www-ts.zorginzicht.nl
 www2-ts.zorginzicht.nl
+acc2.zorginzicht.nl
+mysites.zorginzicht.nl
+portal.zorginzicht.nl
+pr.zorginzicht.nl
+prod2.zorginzicht.nl
+tp.zorginzicht.nl

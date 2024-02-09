@@ -2,11 +2,11 @@
 layout: default
 title: "vipasbest.nl"
 permalink: "/dutchgov/vipasbest.nl.html"
-subdomains_count: 2
+subdomains_count: 3
 all_subdomains_count: 3
-urls_count: 2
+urls_count: 3
 ssl_rank: 
-http_rank: A
+http_rank: B
 security_txt: 2
 url_link: /data/vipasbest.nl/urls.txt
 all_subdomains_link: /data/vipasbest.nl/all_subdomains.txt
@@ -21,14 +21,14 @@ tags: dutchgov
 
 
  - **SSL Grade**:
- - **HTTP Security Grade**:A
+ - **HTTP Security Grade**:B
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:2
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/vipasbest.nl/subdomains.txt)|2|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/vipasbest.nl/urls.txt)|2|Urls|
+|[subdomains.txt](/DutchGovScope/data/vipasbest.nl/subdomains.txt)|3|Alive subdomains|
+|[urls.txt](/DutchGovScope/data/vipasbest.nl/urls.txt)|3|Urls|
 |[all_subdomains.txt](/DutchGovScope/data/vipasbest.nl/all_subdomains.txt)|3|All found subdomains (history)|
 
 
@@ -38,5 +38,6 @@ tags: dutchgov
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[https://www.vipasbest.nl](https://www.vipasbest.nl)| | **A**|Apache| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server Drupal HSTS PHP|Validatie- en In...|
-|[https://vipasbest.nl](https://vipasbest.nl)| | **A**|Apache| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS|301 Moved Perman...|
+|[http://vipasbest.nl](http://vipasbest.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS||
+|[http://localhost.vipasbest.nl](http://localhost.vipasbest.nl)| | **D**|nginx| | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Nginx|Welcome to nginx...|
 

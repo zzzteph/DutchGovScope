@@ -8,4 +8,5 @@ vacaturezoekservice-acceptatie.mobiliteitsbank.nl
 vacaturezoekservice-test.mobiliteitsbank.nl
 www.mobiliteitsbank.nl
 mobiliteitsbank.nl
+sandbox.mobiliteitsbank.nl
 acceptatie.mobiliteitsbank.nl

@@ -9,3 +9,9 @@ https://www.vallei-veluwe.nl
 https://redactie.vallei-veluwe.nl
 https://eloket.vallei-veluwe.nl
 https://testeloket.vallei-veluwe.nl
+https://enterpriseenrollment.vallei-veluwe.nl
+https://enterpriseregistration.vallei-veluwe.nl
+https://geotest.vallei-veluwe.nl
+https://geo.vallei-veluwe.nl
+https://protect.vallei-veluwe.nl
+https://vdi.vallei-veluwe.nl

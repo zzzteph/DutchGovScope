@@ -21,3 +21,5 @@ acceptatie.woz-it.waarderingskamer.nl
 acceptatie.mijn.waarderingskamer.nl
 wem-staging.waarderingskamer.nl
 portal.waarderingskamer.nl
+mail.waarderingskamer.nl
+webmail.waarderingskamer.nl

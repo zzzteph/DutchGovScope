@@ -12,3 +12,9 @@ tpk-ac.zorginzicht.nl
 odb-ac.zorginzicht.nl
 www-dev.zorginzicht.nl
 sp.zorginzicht.nl
+acc2.zorginzicht.nl
+mysites.zorginzicht.nl
+portal.zorginzicht.nl
+pr.zorginzicht.nl
+prod2.zorginzicht.nl
+tp.zorginzicht.nl

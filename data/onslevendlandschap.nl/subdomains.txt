@@ -2,3 +2,9 @@ onslevendlandschap.nl
 feeds.onslevendlandschap.nl
 opendata.onslevendlandschap.nl
 www.onslevendlandschap.nl
+a-opendata.onslevendlandschap.nl
+a-www.onslevendlandschap.nl
+a-feeds.onslevendlandschap.nl
+i-www.onslevendlandschap.nl
+o-www.onslevendlandschap.nl
+t-www.onslevendlandschap.nl

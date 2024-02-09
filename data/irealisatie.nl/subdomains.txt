@@ -9,3 +9,8 @@ helpdesk.irealisatie.nl
 www.irealisatie.nl
 nextcloud.irealisatie.nl
 irealisatie.nl
+acc.irealisatie.nl
+gitea.irealisatie.nl
+noc.irealisatie.nl
+outgoing.irealisatie.nl
+taiga.irealisatie.nl

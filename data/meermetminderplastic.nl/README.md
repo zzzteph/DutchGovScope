@@ -11,9 +11,9 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/meermetminderplastic.nl/subdomains.txt)|4|Alive subdomains|
+|[subdomains.txt](/data/meermetminderplastic.nl/subdomains.txt)|5|Alive subdomains|
 |[urls.txt](/data/meermetminderplastic.nl/urls.txt)|4|Urls|
-|[all_subdomains.txt](/data/meermetminderplastic.nl/all_subdomains.txt)|4|All found subdomains (history)|
+|[all_subdomains.txt](/data/meermetminderplastic.nl/all_subdomains.txt)|5|All found subdomains (history)|
 
 
 ## Statistics

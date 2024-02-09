@@ -11,8 +11,8 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/kansspelautoriteit.nl/subdomains.txt)|17|Alive subdomains|
-|[urls.txt](/data/kansspelautoriteit.nl/urls.txt)|10|Urls|
+|[subdomains.txt](/data/kansspelautoriteit.nl/subdomains.txt)|26|Alive subdomains|
+|[urls.txt](/data/kansspelautoriteit.nl/urls.txt)|17|Urls|
 |[all_subdomains.txt](/data/kansspelautoriteit.nl/all_subdomains.txt)|98|All found subdomains (history)|
 
 
@@ -31,4 +31,11 @@
 |[https://webmail.kansspelautoriteit.nl](https://webmail.kansspelautoriteit.nl)| | **E**|Microsoft-IIS/10.0| | | | | | :white_check_mark: | | :white_check_mark: | |IIS:10.0 Windows Server||
 |[https://www.kansspelautoriteit.nl](https://www.kansspelautoriteit.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:-|Object moved|
 |[https://kansspelautoriteit.nl](https://kansspelautoriteit.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:-|Home - Kansspela...|
+|[https://desktop.kansspelautoriteit.nl](https://desktop.kansspelautoriteit.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Document Moved|
+|[https://ems.kansspelautoriteit.nl](https://ems.kansspelautoriteit.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||
+|[https://enterpriseenrollment.kansspelautoriteit.nl](https://enterpriseenrollment.kansspelautoriteit.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||
+|[https://enterpriseregistration.kansspelautoriteit.nl](https://enterpriseregistration.kansspelautoriteit.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
+|[https://mfa.kansspelautoriteit.nl](https://mfa.kansspelautoriteit.nl)| | **C**||:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | ||Document Moved|
+|[https://uag1.kansspelautoriteit.nl](https://uag1.kansspelautoriteit.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
+|[https://vdi.kansspelautoriteit.nl](https://vdi.kansspelautoriteit.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 

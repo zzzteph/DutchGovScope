@@ -5,7 +5,7 @@ permalink: "/dutchgov/netherlandsworldwide.nl.html"
 subdomains_count: 5
 all_subdomains_count: 17
 urls_count: 4
-ssl_rank: 
+ssl_rank: A+
 http_rank: B
 security_txt: 2
 url_link: /data/netherlandsworldwide.nl/urls.txt
@@ -20,7 +20,7 @@ tags: dutchgov
 ## Summary data
 
 
- - **SSL Grade**:
+ - **SSL Grade**:A+
  - **HTTP Security Grade**:B
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:2
 
@@ -37,8 +37,8 @@ tags: dutchgov
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://preview.netherlandsworldwide.nl](https://preview.netherlandsworldwide.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
-|[https://www.netherlandsworldwide.nl](https://www.netherlandsworldwide.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |Bloomreach HSTS HTTP/3|Home | Netherlan...|
-|[https://netherlandsworldwide.nl](https://netherlandsworldwide.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS HTTP/3||
+|[https://preview.netherlandsworldwide.nl](https://preview.netherlandsworldwide.nl)| **A+**| **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
+|[https://www.netherlandsworldwide.nl](https://www.netherlandsworldwide.nl)| **A+**| **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |Bloomreach HSTS HTTP/3|Home | Netherlan...|
+|[https://netherlandsworldwide.nl](https://netherlandsworldwide.nl)| **A+**| **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS HTTP/3||
 |[http://update.netherlandsworldwide.nl](http://update.netherlandsworldwide.nl)| | **D**|nginx| | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Nginx|Welcome to nginx...|
 

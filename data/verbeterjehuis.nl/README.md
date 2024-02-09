@@ -12,7 +12,7 @@
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/verbeterjehuis.nl/subdomains.txt)|7|Alive subdomains|
-|[urls.txt](/data/verbeterjehuis.nl/urls.txt)|4|Urls|
+|[urls.txt](/data/verbeterjehuis.nl/urls.txt)|7|Urls|
 |[all_subdomains.txt](/data/verbeterjehuis.nl/all_subdomains.txt)|12|All found subdomains (history)|
 
 
@@ -25,4 +25,7 @@
 |[https://energyportpeelland.verbeterjehuis.nl](https://energyportpeelland.verbeterjehuis.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Microsoft Azure...|
 |[https://verbeterjehuis.nl](https://verbeterjehuis.nl)| | **A**|cloudflare| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Cloudflare HSTS|Document Moved|
 |[https://groenesubsidiewijzer.verbeterjehuis.nl](https://groenesubsidiewijzer.verbeterjehuis.nl)| | **A**|cloudflare| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Cloudflare HSTS|Object moved|
+|[https://cms.verbeterjehuis.nl](https://cms.verbeterjehuis.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Document Moved|
+|[http://content.verbeterjehuis.nl](http://content.verbeterjehuis.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |||
+|[http://localhost.verbeterjehuis.nl](http://localhost.verbeterjehuis.nl)| | **D**|nginx| | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Nginx|Welcome to nginx...|
 

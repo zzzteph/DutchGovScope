@@ -12,7 +12,7 @@
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/sso-ict.nl/subdomains.txt)|5|Alive subdomains|
-|[urls.txt](/data/sso-ict.nl/urls.txt)|2|Urls|
+|[urls.txt](/data/sso-ict.nl/urls.txt)|3|Urls|
 |[all_subdomains.txt](/data/sso-ict.nl/all_subdomains.txt)|6|All found subdomains (history)|
 
 
@@ -23,4 +23,5 @@
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[https://sso-ict.nl](https://sso-ict.nl)| | **A**|Microsoft-IIS/10.0| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS IIS:10.0 Windows Server|Document Moved|
 |[https://www.sso-ict.nl](https://www.sso-ict.nl)| | **A**|Microsoft-IIS/10.0| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS IIS:10.0 Windows Server|Document Moved|
+|[http://localhost.sso-ict.nl](http://localhost.sso-ict.nl)| | **D**|nginx| | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Nginx|Welcome to nginx...|
 

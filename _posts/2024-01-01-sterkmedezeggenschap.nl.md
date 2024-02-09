@@ -2,8 +2,8 @@
 layout: default
 title: "sterkmedezeggenschap.nl"
 permalink: "/dutchgov/sterkmedezeggenschap.nl.html"
-subdomains_count: 2
-all_subdomains_count: 2
+subdomains_count: 6
+all_subdomains_count: 6
 urls_count: 2
 ssl_rank: 
 http_rank: F
@@ -27,9 +27,9 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/sterkmedezeggenschap.nl/subdomains.txt)|2|Alive subdomains|
+|[subdomains.txt](/DutchGovScope/data/sterkmedezeggenschap.nl/subdomains.txt)|6|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/sterkmedezeggenschap.nl/urls.txt)|2|Urls|
-|[all_subdomains.txt](/DutchGovScope/data/sterkmedezeggenschap.nl/all_subdomains.txt)|2|All found subdomains (history)|
+|[all_subdomains.txt](/DutchGovScope/data/sterkmedezeggenschap.nl/all_subdomains.txt)|6|All found subdomains (history)|
 
 
 ## Statistics

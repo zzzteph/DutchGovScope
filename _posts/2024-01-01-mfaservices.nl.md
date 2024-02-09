@@ -4,10 +4,10 @@ title: "mfaservices.nl"
 permalink: "/dutchgov/mfaservices.nl.html"
 subdomains_count: 135
 all_subdomains_count: 263
-urls_count: 58
+urls_count: 59
 ssl_rank: 
 http_rank: C
-security_txt: 8
+security_txt: 9
 url_link: /data/mfaservices.nl/urls.txt
 all_subdomains_link: /data/mfaservices.nl/all_subdomains.txt
 subdomains_link: /data/mfaservices.nl/subdomains.txt
@@ -22,13 +22,13 @@ tags: dutchgov
 
  - **SSL Grade**:
  - **HTTP Security Grade**:C
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:8
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:9
 
 
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/DutchGovScope/data/mfaservices.nl/subdomains.txt)|135|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/mfaservices.nl/urls.txt)|58|Urls|
+|[urls.txt](/DutchGovScope/data/mfaservices.nl/urls.txt)|59|Urls|
 |[all_subdomains.txt](/DutchGovScope/data/mfaservices.nl/all_subdomains.txt)|263|All found subdomains (history)|
 
 
@@ -95,4 +95,5 @@ tags: dutchgov
 |[https://snd.cdn.consular.mfaservices.nl](https://snd.cdn.consular.mfaservices.nl)| | **D**|cloudflare|:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | |Azure Azure Front Door Cloudflare Cloudflare Bot Management HSTS|Consular Service...|
 |[https://tst.cdn.consular.mfaservices.nl](https://tst.cdn.consular.mfaservices.nl)| | **D**|cloudflare|:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | |Azure Azure Front Door Cloudflare Cloudflare Bot Management HSTS|Consular Service...|
 |[https://url9097.consular.mfaservices.nl](https://url9097.consular.mfaservices.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|404 Not Found|
+|[https://dev.sq.mfaservices.nl](https://dev.sq.mfaservices.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Application Request Routing:3.0 HSTS IIS Java SonarQubes|SonarQube|
 

@@ -2,8 +2,8 @@
 layout: default
 title: "prettigcontactmetdeoverheid.nl"
 permalink: "/dutchgov/prettigcontactmetdeoverheid.nl.html"
-subdomains_count: 3
-all_subdomains_count: 6
+subdomains_count: 8
+all_subdomains_count: 11
 urls_count: 3
 ssl_rank: 
 http_rank: D
@@ -27,9 +27,9 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/prettigcontactmetdeoverheid.nl/subdomains.txt)|3|Alive subdomains|
+|[subdomains.txt](/DutchGovScope/data/prettigcontactmetdeoverheid.nl/subdomains.txt)|8|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/prettigcontactmetdeoverheid.nl/urls.txt)|3|Urls|
-|[all_subdomains.txt](/DutchGovScope/data/prettigcontactmetdeoverheid.nl/all_subdomains.txt)|6|All found subdomains (history)|
+|[all_subdomains.txt](/DutchGovScope/data/prettigcontactmetdeoverheid.nl/all_subdomains.txt)|11|All found subdomains (history)|
 
 
 ## Statistics

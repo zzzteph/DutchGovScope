@@ -16,3 +16,4 @@ owinsp.nl
 autodiscover.owinsp.nl
 sip.owinsp.nl
 lyncdiscover.owinsp.nl
+bounce.owinsp.nl

@@ -11,8 +11,8 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/owinsp.nl/subdomains.txt)|18|Alive subdomains|
-|[urls.txt](/data/owinsp.nl/urls.txt)|15|Urls|
+|[subdomains.txt](/data/owinsp.nl/subdomains.txt)|19|Alive subdomains|
+|[urls.txt](/data/owinsp.nl/urls.txt)|16|Urls|
 |[all_subdomains.txt](/data/owinsp.nl/all_subdomains.txt)|52|All found subdomains (history)|
 
 
@@ -36,4 +36,5 @@
 |[https://broker.isd.owinsp.nl](https://broker.isd.owinsp.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
 |[https://broker.isd.acc.owinsp.nl](https://broker.isd.acc.owinsp.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
 |[https://owinsp.nl](https://owinsp.nl)| | **F**|Apache/2| | | | | | | | :white_check_mark: | |Apache HTTP Server:2|301 Moved Perman...|
+|[https://bounce.owinsp.nl](https://bounce.owinsp.nl)| | **F**|Microsoft-Azure-Application-Gateway/v2| | | | | | | | :white_check_mark: | ||404 Not Found|
 

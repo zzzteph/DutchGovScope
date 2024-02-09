@@ -1,2 +1,3 @@
 https://www.nationaleenergieatlas.nl
 https://nationaleenergieatlas.nl
+http://localhost.nationaleenergieatlas.nl

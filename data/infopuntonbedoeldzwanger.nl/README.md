@@ -13,7 +13,7 @@
 |------------|-------|------|
 |[subdomains.txt](/data/infopuntonbedoeldzwanger.nl/subdomains.txt)|7|Alive subdomains|
 |[urls.txt](/data/infopuntonbedoeldzwanger.nl/urls.txt)|5|Urls|
-|[all_subdomains.txt](/data/infopuntonbedoeldzwanger.nl/all_subdomains.txt)|7|All found subdomains (history)|
+|[all_subdomains.txt](/data/infopuntonbedoeldzwanger.nl/all_subdomains.txt)|8|All found subdomains (history)|
 
 
 ## Statistics

@@ -54,3 +54,4 @@ a-www.ncsc.nl
 a-feeds.a-english.ncsc.nl
 arp.ncsc.nl
 misp.ncsc.nl
+a-english.ncsc.nl

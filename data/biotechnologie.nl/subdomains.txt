@@ -1,2 +1,9 @@
 biotechnologie.nl
 www.biotechnologie.nl
+autodiscover.biotechnologie.nl
+enterpriseenrollment.biotechnologie.nl
+enterpriseregistration.biotechnologie.nl
+ftp.biotechnologie.nl
+lyncdiscover.biotechnologie.nl
+mail.biotechnologie.nl
+sip.biotechnologie.nl

@@ -2,8 +2,8 @@
 layout: default
 title: "samenbouwenaanbereikbaarheid.nl"
 permalink: "/dutchgov/samenbouwenaanbereikbaarheid.nl.html"
-subdomains_count: 3
-all_subdomains_count: 4
+subdomains_count: 4
+all_subdomains_count: 5
 urls_count: 3
 ssl_rank: 
 http_rank: D
@@ -27,9 +27,9 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/samenbouwenaanbereikbaarheid.nl/subdomains.txt)|3|Alive subdomains|
+|[subdomains.txt](/DutchGovScope/data/samenbouwenaanbereikbaarheid.nl/subdomains.txt)|4|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/samenbouwenaanbereikbaarheid.nl/urls.txt)|3|Urls|
-|[all_subdomains.txt](/DutchGovScope/data/samenbouwenaanbereikbaarheid.nl/all_subdomains.txt)|4|All found subdomains (history)|
+|[all_subdomains.txt](/DutchGovScope/data/samenbouwenaanbereikbaarheid.nl/all_subdomains.txt)|5|All found subdomains (history)|
 
 
 ## Statistics

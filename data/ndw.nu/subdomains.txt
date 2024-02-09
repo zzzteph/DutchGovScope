@@ -83,3 +83,8 @@ docs.staging.ndw.nu
 mijn.staging.ndw.nu
 extranet.ndw.nu
 mail.ndw.nu
+shared-services.ndw.nu
+stats.staging.ndw.nu
+shared-services.staging.ndw.nu
+maps.staging.ndw.nu
+nls.staging.ndw.nu

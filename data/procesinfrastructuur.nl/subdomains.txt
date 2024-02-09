@@ -130,3 +130,4 @@ bezorgen-dgp.procesinfrastructuur.nl
 preprod-diginetwerk.procesinfrastructuur.nl
 test-bd-internet.procesinfrastructuur.nl
 exp1-beheer.procesinfrastructuur.nl
+ebf.procesinfrastructuur.nl

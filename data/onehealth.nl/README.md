@@ -5,14 +5,14 @@
 
 
  - **SSL Grade**:
- - **HTTP Security Grade**:A
+ - **HTTP Security Grade**:B
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:2
 
 
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/onehealth.nl/subdomains.txt)|3|Alive subdomains|
-|[urls.txt](/data/onehealth.nl/urls.txt)|2|Urls|
+|[urls.txt](/data/onehealth.nl/urls.txt)|3|Urls|
 |[all_subdomains.txt](/data/onehealth.nl/all_subdomains.txt)|3|All found subdomains (history)|
 
 
@@ -23,4 +23,5 @@
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[https://www.onehealth.nl](https://www.onehealth.nl)| | **A**|Apache| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server Drupal HSTS PHP|Home | One Healt...|
 |[https://onehealth.nl](https://onehealth.nl)| | **A**|Apache| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS|301 Moved Perman...|
+|[http://localhost.onehealth.nl](http://localhost.onehealth.nl)| | **D**|nginx| | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Nginx|Welcome to nginx...|
 

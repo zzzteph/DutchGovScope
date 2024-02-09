@@ -15,3 +15,12 @@ api-proeftuin.kansspelautoriteit.nl
 send.kansspelautoriteit.nl
 sandbox.kansspelautoriteit.nl
 api-proeftuin-acc.kansspelautoriteit.nl
+api-test.kansspelautoriteit.nl
+desktop.kansspelautoriteit.nl
+ems.kansspelautoriteit.nl
+enterpriseenrollment.kansspelautoriteit.nl
+enterpriseregistration.kansspelautoriteit.nl
+mfa.kansspelautoriteit.nl
+uag1.kansspelautoriteit.nl
+vdi.kansspelautoriteit.nl
+vditest.kansspelautoriteit.nl

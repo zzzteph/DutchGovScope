@@ -22,3 +22,5 @@ https://startstopmelding-a.hhdelfland.nl
 https://watertoetsportaal-a.hhdelfland.nl
 https://grondwaterportaal.hhdelfland.nl
 https://startstopmelding.hhdelfland.nl
+https://enterpriseenrollment.hhdelfland.nl
+https://passwordreset.hhdelfland.nl

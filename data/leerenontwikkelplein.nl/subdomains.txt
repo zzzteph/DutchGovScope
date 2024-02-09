@@ -4,3 +4,6 @@ feeds.leerenontwikkelplein.nl
 leerenontwikkelplein.nl
 opendata.leerenontwikkelplein.nl
 www.leerenontwikkelplein.nl
+a-feeds.leerenontwikkelplein.nl
+a-opendata.leerenontwikkelplein.nl
+a-www.leerenontwikkelplein.nl

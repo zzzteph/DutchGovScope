@@ -6,13 +6,13 @@
 
  - **SSL Grade**:
  - **HTTP Security Grade**:A
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:13
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:19
 
 
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/duo.nl/subdomains.txt)|73|Alive subdomains|
-|[urls.txt](/data/duo.nl/urls.txt)|24|Urls|
+|[urls.txt](/data/duo.nl/urls.txt)|31|Urls|
 |[all_subdomains.txt](/data/duo.nl/all_subdomains.txt)|199|All found subdomains (history)|
 
 
@@ -28,7 +28,7 @@
 |[https://digidzakelijk.duo.nl](https://digidzakelijk.duo.nl)| | **A**||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Inloggen - Mijn...|
 |[https://eidas-mijn.duo.nl](https://eidas-mijn.duo.nl)| | **A**||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[http://enterpriseenrollment.duo.nl](http://enterpriseenrollment.duo.nl)| | **F**|Microsoft-IIS/10.0| | | | | | | | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server|Document Moved|
-|[https://idposr.duo.nl](https://idposr.duo.nl)| | **A**|WebSEAL/10.0.6.0| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Moved Temporaril...|
+|[https://idposr.duo.nl](https://idposr.duo.nl)| | **A**|WebSEAL/10.0.7.0| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Moved Temporaril...|
 |[https://instellingsinformatie.duo.nl](https://instellingsinformatie.duo.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET|Document Moved|
 |[https://instellingsinformatie.scha.duo.nl](https://instellingsinformatie.scha.duo.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET:4.0.30319|Object moved|
 |[https://mijn.duo.nl](https://mijn.duo.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |||
@@ -45,4 +45,11 @@
 |[https://xbrlonderwijsportaal-acp.duo.nl](https://xbrlonderwijsportaal-acp.duo.nl)| | **A**|istio-envoy| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Amazon Web Services Envoy HSTS|Serviceportaal|
 |[https://zakelijk.duo.nl](https://zakelijk.duo.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|zakelijk.duo.nl|
 |[https://duo.nl](https://duo.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Amazon S3 Amazon Web Services HSTS Java||
+|[https://vt-digidzakelijk.duo.nl](https://vt-digidzakelijk.duo.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Inloggen - Mijn...|
+|[https://vt-apps.duo.nl](https://vt-apps.duo.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|vt.duo.nl|
+|[https://vt-idposr.duo.nl](https://vt-idposr.duo.nl)| | **A**|WebSEAL/10.0.7.0| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Moved Temporaril...|
+|[https://test-onderwijsdata.duo.nl](https://test-onderwijsdata.duo.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
+|[https://vt-zakelijk.duo.nl](https://vt-zakelijk.duo.nl)| | **A**||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Inloggen op Mijn...|
+|[https://vt-mijn.duo.nl](https://vt-mijn.duo.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
+|[https://vt-eidas-mijn.duo.nl](https://vt-eidas-mijn.duo.nl)| | **A**||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 

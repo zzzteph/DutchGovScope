@@ -11,9 +11,9 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/contactpuntbouwproducten.nl/subdomains.txt)|4|Alive subdomains|
+|[subdomains.txt](/data/contactpuntbouwproducten.nl/subdomains.txt)|5|Alive subdomains|
 |[urls.txt](/data/contactpuntbouwproducten.nl/urls.txt)|4|Urls|
-|[all_subdomains.txt](/data/contactpuntbouwproducten.nl/all_subdomains.txt)|5|All found subdomains (history)|
+|[all_subdomains.txt](/data/contactpuntbouwproducten.nl/all_subdomains.txt)|6|All found subdomains (history)|
 
 
 ## Statistics

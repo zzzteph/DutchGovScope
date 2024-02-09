@@ -12,3 +12,7 @@ acc.mpl.stelselcatalogus.nl
 preprod.keycloak.stelselcatalogus.nl
 acc.keycloak.stelselcatalogus.nl
 acc.editor.stelselcatalogus.nl
+acc.data.stelselcatalogus.nl
+acc.www.stelselcatalogus.nl
+data.stelselcatalogus.nl
+preprod.www.stelselcatalogus.nl

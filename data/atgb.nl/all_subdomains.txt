@@ -7,3 +7,6 @@ cpcontacts.atgb.nl
 mail.atgb.nl
 webdisk.atgb.nl
 webmail.atgb.nl
+enterpriseenrollment.atgb.nl
+ftp.atgb.nl
+mysql.atgb.nl

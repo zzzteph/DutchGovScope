@@ -2,8 +2,8 @@
 layout: default
 title: "makingvitalityreality.nl"
 permalink: "/dutchgov/makingvitalityreality.nl.html"
-subdomains_count: 3
-all_subdomains_count: 3
+subdomains_count: 4
+all_subdomains_count: 4
 urls_count: 3
 ssl_rank: 
 http_rank: B
@@ -27,9 +27,9 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/makingvitalityreality.nl/subdomains.txt)|3|Alive subdomains|
+|[subdomains.txt](/DutchGovScope/data/makingvitalityreality.nl/subdomains.txt)|4|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/makingvitalityreality.nl/urls.txt)|3|Urls|
-|[all_subdomains.txt](/DutchGovScope/data/makingvitalityreality.nl/all_subdomains.txt)|3|All found subdomains (history)|
+|[all_subdomains.txt](/DutchGovScope/data/makingvitalityreality.nl/all_subdomains.txt)|4|All found subdomains (history)|
 
 
 ## Statistics

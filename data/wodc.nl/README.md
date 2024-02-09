@@ -28,7 +28,7 @@
 |[https://magazines.wodc.nl](https://magazines.wodc.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://opendata.wodc.nl](https://opendata.wodc.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://opendata.english.wodc.nl](https://opendata.english.wodc.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
-|[https://repository.wodc.nl](https://repository.wodc.nl)| | **C**|Apache/2.2.34 (Amazon)| |:white_check_mark: | | | | | | :white_check_mark: | |Amazon EC2 Amazon Web Services Apache HTTP Server:2.2.34 HSTS|403 Forbidden|
+|[https://repository.wodc.nl](https://repository.wodc.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|403 Forbidden|
 |[https://www.wodc.nl](https://www.wodc.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Home | WODC - We...|
 |[https://wodc.nl](https://wodc.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
 

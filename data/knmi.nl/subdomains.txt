@@ -156,3 +156,4 @@ saca-bmkg.knmi.nl
 exons-website-manager.acc.mijn.knmi.nl
 dcpc.knmi.nl
 test.knmi.nl
+cdn.klimaatscenarios-data.knmi.nl

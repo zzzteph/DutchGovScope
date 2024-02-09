@@ -1,2 +1,3 @@
 https://www.ggo-vergunningverlening.nl
 https://ggo-vergunningverlening.nl
+http://localhost.ggo-vergunningverlening.nl

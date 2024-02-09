@@ -1,7 +1,6 @@
 acc.rvo.nl
 acc-cms.rvo.nl
 acc-cms.projects.rvo.nl
-acc-dvu.rvo.nl
 acc-english.rvo.nl
 acc-geocontent.rvo.nl
 acc-webform.rvo.nl

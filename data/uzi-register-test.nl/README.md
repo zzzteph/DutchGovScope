@@ -11,7 +11,7 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/uzi-register-test.nl/subdomains.txt)|7|Alive subdomains|
+|[subdomains.txt](/data/uzi-register-test.nl/subdomains.txt)|6|Alive subdomains|
 |[urls.txt](/data/uzi-register-test.nl/urls.txt)|4|Urls|
 |[all_subdomains.txt](/data/uzi-register-test.nl/all_subdomains.txt)|16|All found subdomains (history)|
 

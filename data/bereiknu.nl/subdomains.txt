@@ -1,2 +1,4 @@
 www.bereiknu.nl
 bereiknu.nl
+ftp.bereiknu.nl
+mail.bereiknu.nl

@@ -3,3 +3,5 @@ https://www.waardigheidentrots.nl
 https://portaal.waardigheidentrots.nl
 https://waardigheidentrots.nl
 https://archief.waardigheidentrots.nl
+https://api.waardigheidentrots.nl
+https://cms.waardigheidentrots.nl

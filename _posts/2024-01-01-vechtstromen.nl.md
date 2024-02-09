@@ -4,10 +4,10 @@ title: "vechtstromen.nl"
 permalink: "/dutchgov/vechtstromen.nl.html"
 subdomains_count: 49
 all_subdomains_count: 96
-urls_count: 30
+urls_count: 35
 ssl_rank: 
-http_rank: B
-security_txt: 8
+http_rank: C
+security_txt: 9
 url_link: /data/vechtstromen.nl/urls.txt
 all_subdomains_link: /data/vechtstromen.nl/all_subdomains.txt
 subdomains_link: /data/vechtstromen.nl/subdomains.txt
@@ -21,14 +21,14 @@ tags: dutchgov
 
 
  - **SSL Grade**:
- - **HTTP Security Grade**:B
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:8
+ - **HTTP Security Grade**:C
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:9
 
 
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/DutchGovScope/data/vechtstromen.nl/subdomains.txt)|49|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/vechtstromen.nl/urls.txt)|30|Urls|
+|[urls.txt](/DutchGovScope/data/vechtstromen.nl/urls.txt)|35|Urls|
 |[all_subdomains.txt](/DutchGovScope/data/vechtstromen.nl/all_subdomains.txt)|96|All found subdomains (history)|
 
 
@@ -67,4 +67,9 @@ tags: dutchgov
 |[https://formulieren.vechtstromen.nl](https://formulieren.vechtstromen.nl)| | **A**|Microsoft-IIS/10.0| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |IIS:10.0 Windows Server||
 |[https://test.formulieren.vechtstromen.nl](https://test.formulieren.vechtstromen.nl)| | **A**|Microsoft-IIS/10.0| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |IIS:10.0 Windows Server||
 |[https://securetest.vechtstromen.nl](https://securetest.vechtstromen.nl)| | **A**|Layer7-API-Gateway| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS||
+|[https://enterpriseenrollment.vechtstromen.nl](https://enterpriseenrollment.vechtstromen.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||
+|[https://enterpriseregistration.vechtstromen.nl](https://enterpriseregistration.vechtstromen.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
+|[https://geoweb.vechtstromen.nl](https://geoweb.vechtstromen.nl)| | **A**|Microsoft-IIS/10.0| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS IIS:10.0 Microsoft ASP.NET Windows Server|Document Moved|
+|[http://localhost.vechtstromen.nl](http://localhost.vechtstromen.nl)| | **D**|nginx| | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Nginx|Welcome to nginx...|
+|[https://topdesk-test.vechtstromen.nl](https://topdesk-test.vechtstromen.nl)| | **F**|cloudflare| | | | | | | | :white_check_mark: | |Cloudflare|403 Forbidden|
 

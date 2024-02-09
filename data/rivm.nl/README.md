@@ -6,7 +6,7 @@
 
  - **SSL Grade**:
  - **HTTP Security Grade**:D
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:71
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:70
 
 
 | File       | Count | Info |
@@ -86,7 +86,6 @@
 |[https://beleving.rivm.nl](https://beleving.rivm.nl)| | **B**|nginx| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS Nginx|Mendix|
 |[https://bestellingen.rivm.nl](https://bestellingen.rivm.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |||
 |[http://bggo.rivm.nl](http://bggo.rivm.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |||
-|[http://biokap.rivm.nl](http://biokap.rivm.nl)| | **F**||:o: | | | | | | | :white_check_mark: | |||
 |[https://biotechnologie.rivm.nl](https://biotechnologie.rivm.nl)| | **A**|Apache| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server Drupal HSTS PHP|Biotechnologie |...|
 |[http://caontb.rivm.nl](http://caontb.rivm.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://cdif.osiris.rivm.nl](https://cdif.osiris.rivm.nl)| | **D**||:warning: |:white_check_mark: | | | | | | :white_check_mark: | |F5 BigIP HSTS||
@@ -146,14 +145,14 @@
 |[http://kosteneffectiviteit-preventie.rivm.nl](http://kosteneffectiviteit-preventie.rivm.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |||
 |[https://lci.rivm.nl](https://lci.rivm.nl)| | **A**|Apache| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server Bootstrap Drupal:10 HSTS PHP:8.1.14|LCI richtlijnen|
 |[https://leren.rivm.nl](https://leren.rivm.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Welcome to The E...|
-|[https://lmm.rivm.nl](https://lmm.rivm.nl)| | **B**|Microsoft-IIS/10.0| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS IIS:10.0 Microsoft ASP.NET:4.0.30319 Windows Server|Landelijk Meetne...|
+|[https://lmm.rivm.nl](https://lmm.rivm.nl)| | **B**|Microsoft-IIS/10.0| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS IIS:10.0 Microsoft ASP.NET Windows Server|Landelijk Meetne...|
 |[https://login.rivm.nl](https://login.rivm.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
 |[https://login-ext.rivm.nl](https://login-ext.rivm.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Java||
 |[http://login-test-ext.rivm.nl](http://login-test-ext.rivm.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://longcovid.rivm.nl](https://longcovid.rivm.nl)| | **B**|Apache|:white_check_mark: |:white_check_mark: | | | :white_check_mark:| | | :white_check_mark: | |Apache HTTP Server HSTS|LongCOVID-onderz...|
 |[http://macotra.rivm.nl](http://macotra.rivm.nl)| | **D**||:warning: |:white_check_mark: | | | | | | :white_check_mark: | |||
 |[https://magazines.rivm.nl](https://magazines.rivm.nl)| | **B**|Apache/2.4.34 (Red Hat) PHP/7.3.33| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server:2.4.34 Drupal:7 HSTS PHP:7.3.33 Red Hat|RIVM Magazines|
-|[https://man.rivm.nl](https://man.rivm.nl)| | **B**|Microsoft-IIS/10.0| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS IIS:10.0 Microsoft ASP.NET Windows Server|Meetresultaten M...|
+|[https://man.rivm.nl](https://man.rivm.nl)| | **B**|Microsoft-IIS/10.0| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS IIS:10.0 Microsoft ASP.NET:4.0.30319 Windows Server|Meetresultaten M...|
 |[http://maps.rivm.nl](http://maps.rivm.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://mcra.rivm.nl](https://mcra.rivm.nl)| | **B**|Microsoft-IIS/10.0| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS IIS:10.0 Microsoft ASP.NET Windows Server||
 |[http://mcra-test.rivm.nl](http://mcra-test.rivm.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
@@ -288,4 +287,5 @@
 |[https://tst-lsp.rivm.nl](https://tst-lsp.rivm.nl)| | **F**|Microsoft-Azure-Application-Gateway/v2| | | | | | | | :white_check_mark: | ||404 Not Found|
 |[https://api.tst-lsp.rivm.nl](https://api.tst-lsp.rivm.nl)| | **F**|Microsoft-Azure-Application-Gateway/v2| | | | | | | | :white_check_mark: | ||404 Not Found|
 |[https://lsp.rivm.nl](https://lsp.rivm.nl)| | **F**|Microsoft-Azure-Application-Gateway/v2| | | | | | | | :white_check_mark: | ||404 Not Found|
+|[http://dashview.rivm.nl](http://dashview.rivm.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 

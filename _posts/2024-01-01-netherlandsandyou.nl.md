@@ -5,7 +5,7 @@ permalink: "/dutchgov/netherlandsandyou.nl.html"
 subdomains_count: 5
 all_subdomains_count: 18
 urls_count: 5
-ssl_rank: 
+ssl_rank: A
 http_rank: D
 security_txt: 2
 url_link: /data/netherlandsandyou.nl/urls.txt
@@ -20,7 +20,7 @@ tags: dutchgov
 ## Summary data
 
 
- - **SSL Grade**:
+ - **SSL Grade**:A
  - **HTTP Security Grade**:D
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:2
 
@@ -39,7 +39,7 @@ tags: dutchgov
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[https://acc.netherlandsandyou.nl](https://acc.netherlandsandyou.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|403 Forbidden|
 |[https://dev.netherlandsandyou.nl](https://dev.netherlandsandyou.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|403 Forbidden|
-|[https://tst.netherlandsandyou.nl](https://tst.netherlandsandyou.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|403 Forbidden|
-|[https://www.netherlandsandyou.nl](https://www.netherlandsandyou.nl)| | **A**|Apache|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS Java|Home - Netherlan...|
-|[https://netherlandsandyou.nl](https://netherlandsandyou.nl)| | **A**|Apache|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server|301 Moved Perman...|
+|[https://tst.netherlandsandyou.nl](https://tst.netherlandsandyou.nl)| **A**| **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|403 Forbidden|
+|[https://www.netherlandsandyou.nl](https://www.netherlandsandyou.nl)| **A+**| **A**|Apache|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS Java|Home - Netherlan...|
+|[https://netherlandsandyou.nl](https://netherlandsandyou.nl)| **A**| **A**|Apache|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server|301 Moved Perman...|
 

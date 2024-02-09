@@ -9,3 +9,5 @@ andwww.medicijnkosten.nl
 www-tst.medicijnkosten.nl
 www-p.medicijnkosten.nl
 www-ts.medicijnkosten.nl
+cms-dev.medicijnkosten.nl
+cms-tst.medicijnkosten.nl

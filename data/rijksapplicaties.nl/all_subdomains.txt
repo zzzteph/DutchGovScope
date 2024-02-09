@@ -308,3 +308,13 @@ ubrshamail02.syn.rijksapplicaties.nl
 catfmh.syn.rijksapplicaties.nl
 acc.login-bzk.rijksapplicaties.nl
 bva.rijksapplicaties.nl
+app1.rijksapplicaties.nl
+rosi.rijksapplicaties.nl
+stap.rijksapplicaties.nl
+sth.rijksapplicaties.nl
+eres.rijksapplicaties.nl
+app3.rijksapplicaties.nl
+prisma.rijksapplicaties.nl
+woo.rijksapplicaties.nl
+dpt.rijksapplicaties.nl
+app2.rijksapplicaties.nl

@@ -11,9 +11,9 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/transparantiebenchmark.nl/subdomains.txt)|1|Alive subdomains|
+|[subdomains.txt](/data/transparantiebenchmark.nl/subdomains.txt)|3|Alive subdomains|
 |[urls.txt](/data/transparantiebenchmark.nl/urls.txt)|0|Urls|
-|[all_subdomains.txt](/data/transparantiebenchmark.nl/all_subdomains.txt)|4|All found subdomains (history)|
+|[all_subdomains.txt](/data/transparantiebenchmark.nl/all_subdomains.txt)|6|All found subdomains (history)|
 
 
 ## Statistics

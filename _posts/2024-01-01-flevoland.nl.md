@@ -4,10 +4,10 @@ title: "flevoland.nl"
 permalink: "/dutchgov/flevoland.nl.html"
 subdomains_count: 103
 all_subdomains_count: 219
-urls_count: 72
+urls_count: 79
 ssl_rank: 
 http_rank: C
-security_txt: 25
+security_txt: 24
 url_link: /data/flevoland.nl/urls.txt
 all_subdomains_link: /data/flevoland.nl/all_subdomains.txt
 subdomains_link: /data/flevoland.nl/subdomains.txt
@@ -22,13 +22,13 @@ tags: dutchgov
 
  - **SSL Grade**:
  - **HTTP Security Grade**:C
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:25
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:24
 
 
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/DutchGovScope/data/flevoland.nl/subdomains.txt)|103|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/flevoland.nl/urls.txt)|72|Urls|
+|[urls.txt](/DutchGovScope/data/flevoland.nl/urls.txt)|79|Urls|
 |[all_subdomains.txt](/DutchGovScope/data/flevoland.nl/all_subdomains.txt)|219|All found subdomains (history)|
 
 
@@ -63,6 +63,7 @@ tags: dutchgov
 |[http://uworktest.flevoland.nl](http://uworktest.flevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://www.begroting2020.flevoland.nl](https://www.begroting2020.flevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Microsoft Azure...|
 |[https://pushmail.flevoland.nl](https://pushmail.flevoland.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |||
+|[http://test-intranet.flevoland.nl](http://test-intranet.flevoland.nl)| | **A**||:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://geo.flevoland.nl](https://geo.flevoland.nl)| | **F**|Microsoft-IIS/10.0| | | | | | | | :white_check_mark: | |IIS:10.0 Windows Server|403 - Forbidden:...|
 |[https://desktop.flevoland.nl](https://desktop.flevoland.nl)| | **B**|| | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |||
 |[https://historische-luchtfoto.flevoland.nl](https://historische-luchtfoto.flevoland.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu|301 Moved Perman...|
@@ -71,7 +72,7 @@ tags: dutchgov
 |[https://exchange.flevoland.nl](https://exchange.flevoland.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |||
 |[https://gensys.flevoland.nl](https://gensys.flevoland.nl)| | **A**||:warning: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET||
 |[https://flevoland.nl](https://flevoland.nl)| | **C**|Microsoft-IIS/10.0| |:white_check_mark: | | | | | | :white_check_mark: | |Google Tag Manager HSTS IIS:10.0 Microsoft ASP.NET:4.0.30319 Windows Server|Welkom bij provi...|
-|[https://www.flevoland.nl](https://www.flevoland.nl)| | **C**|Microsoft-IIS/10.0| |:white_check_mark: | | | | | | :white_check_mark: | |Google Tag Manager HSTS IIS:10.0 Microsoft ASP.NET:4.0.30319 Windows Server|Welkom bij provi...|
+|[https://www.flevoland.nl](https://www.flevoland.nl)| | **C**|Microsoft-IIS/10.0| |:white_check_mark: | | | | | | :white_check_mark: | |Google Tag Manager HSTS IIS:10.0 Microsoft ASP.NET Windows Server|Welkom bij provi...|
 |[https://www.omgevingsplan.flevoland.nl](https://www.omgevingsplan.flevoland.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu|301 Moved Perman...|
 |[http://mail.flevoland.nl](http://mail.flevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Deze website is...|
 |[https://hetverhaalvan.flevoland.nl](https://hetverhaalvan.flevoland.nl)| | **A**|Apache/2.4.29 (Ubuntu)| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu|301 Moved Perman...|
@@ -107,6 +108,12 @@ tags: dutchgov
 |[https://georegister.flevoland.nl](https://georegister.flevoland.nl)| | **A**|Apache|:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
 |[https://georegister-intern.flevoland.nl](https://georegister-intern.flevoland.nl)| | **A**|Apache|:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
 |[https://eloket.flevoland.nl](https://eloket.flevoland.nl)| | **A**|unspecified|:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache Tomcat Fourthwall:1.0.191.039 Fourthwall:eloket_ui_main-2024.008.002 HSTS Java MariaDB Skolengo:1.0.191.039|Djuma portal|
-|[https://testeloket.flevoland.nl](https://testeloket.flevoland.nl)| | **A**|unspecified|:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache Tomcat Fourthwall:1.0.191.039 Fourthwall:eloket_ui_main-2024.008.002 HSTS Java MariaDB Skolengo:1.0.191.039|Djuma portal|
+|[https://testeloket.flevoland.nl](https://testeloket.flevoland.nl)| | **A**|unspecified|:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Onderhoud|
 |[https://testmonitorwonen.flevoland.nl](https://testmonitorwonen.flevoland.nl)| | **F**|Microsoft-IIS/10.0| | | | | | | | :white_check_mark: | |IIS:10.0 React Windows Server|Planregistratie...|
+|[http://pki.flevoland.nl](http://pki.flevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
+|[http://autodiscover.test.flevoland.nl](http://autodiscover.test.flevoland.nl)| | **A**|Microsoft-IIS/10.0| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server||
+|[https://enterpriseenrollment.flevoland.nl](https://enterpriseenrollment.flevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||
+|[https://enterpriseregistration.test.flevoland.nl](https://enterpriseregistration.test.flevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
+|[https://enterpriseregistration.flevoland.nl](https://enterpriseregistration.flevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
+|[https://msoid.flevoland.nl](https://msoid.flevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Object moved|
 

@@ -4,3 +4,5 @@ www.grondstoffenscanner.nl
 www.acc.grondstoffenscanner.nl
 grondstoffenscanner.nl
 www.beheer.acc.grondstoffenscanner.nl
+tst.grondstoffenscanner.nl
+beheer.grondstoffenscanner.nl

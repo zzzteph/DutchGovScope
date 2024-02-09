@@ -1,3 +1,4 @@
 challenges.sportinnovator.nl
 sportinnovator.nl
 www.sportinnovator.nl
+autodiscover.sportinnovator.nl

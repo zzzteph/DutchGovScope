@@ -133,6 +133,7 @@ https://ssp.estota.rijkscloud.nl
 https://ssp.ix.rijkscloud.nl
 https://stats.duo.rijkscloud.nl
 https://status.rijkscloud.nl
+https://superset.dev.fib.ienw.rijkscloud.nl
 https://uno.dfront.rijkscloud.nl
 https://webmail.rijkscloud.nl
 https://www.rijkscloud.nl

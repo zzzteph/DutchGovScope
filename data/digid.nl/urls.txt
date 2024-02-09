@@ -30,3 +30,4 @@ https://www.digid.nl
 https://www.machtigen.digid.nl
 https://digid.nl
 https://helpdesk.machtigen.digid.nl
+https://mu.digid.nl

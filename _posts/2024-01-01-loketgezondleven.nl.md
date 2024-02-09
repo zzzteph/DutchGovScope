@@ -4,7 +4,7 @@ title: "loketgezondleven.nl"
 permalink: "/dutchgov/loketgezondleven.nl.html"
 subdomains_count: 10
 all_subdomains_count: 13
-urls_count: 7
+urls_count: 8
 ssl_rank: 
 http_rank: D
 security_txt: 3
@@ -28,7 +28,7 @@ tags: dutchgov
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/DutchGovScope/data/loketgezondleven.nl/subdomains.txt)|10|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/loketgezondleven.nl/urls.txt)|7|Urls|
+|[urls.txt](/DutchGovScope/data/loketgezondleven.nl/urls.txt)|8|Urls|
 |[all_subdomains.txt](/DutchGovScope/data/loketgezondleven.nl/all_subdomains.txt)|13|All found subdomains (history)|
 
 
@@ -44,4 +44,5 @@ tags: dutchgov
 |[https://toolkits.loketgezondleven.nl](https://toolkits.loketgezondleven.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS Varnish||
 |[https://www.loketgezondleven.nl](https://www.loketgezondleven.nl)| | **A**|Apache| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server Drupal HSTS PHP|Loket Gezond Lev...|
 |[https://loketgezondleven.nl](https://loketgezondleven.nl)| | **A**|Apache| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS|301 Moved Perman...|
+|[http://localhost.loketgezondleven.nl](http://localhost.loketgezondleven.nl)| | **D**|nginx| | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Nginx|Welcome to nginx...|
 

@@ -3,7 +3,7 @@ layout: default
 title: "informatiehuishouding.nl"
 permalink: "/dutchgov/informatiehuishouding.nl.html"
 subdomains_count: 9
-all_subdomains_count: 15
+all_subdomains_count: 16
 urls_count: 6
 ssl_rank: A+
 http_rank: A
@@ -29,7 +29,7 @@ tags: dutchgov
 |------------|-------|------|
 |[subdomains.txt](/DutchGovScope/data/informatiehuishouding.nl/subdomains.txt)|9|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/informatiehuishouding.nl/urls.txt)|6|Urls|
-|[all_subdomains.txt](/DutchGovScope/data/informatiehuishouding.nl/all_subdomains.txt)|15|All found subdomains (history)|
+|[all_subdomains.txt](/DutchGovScope/data/informatiehuishouding.nl/all_subdomains.txt)|16|All found subdomains (history)|
 
 
 ## Statistics

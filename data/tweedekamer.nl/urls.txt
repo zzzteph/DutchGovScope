@@ -99,7 +99,7 @@ https://onbewerktarchief.tweedekamer.nl
 https://corsa-vvd.tweedekamer.nl
 https://huisstijlsjablonen.tweedekamer.nl
 https://openbare-tzr.tweedekamer.nl
-https://datavisualisaties.tweedekamer.nl
+http://datavisualisaties.tweedekamer.nl
 https://kva.tweedekamer.nl
 https://kva-acc.tweedekamer.nl
 https://groepsbezoek.tweedekamer.nl

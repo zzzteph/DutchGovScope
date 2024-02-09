@@ -2,9 +2,9 @@
 layout: default
 title: "ssc-campus.nl"
 permalink: "/dutchgov/ssc-campus.nl.html"
-subdomains_count: 31
+subdomains_count: 34
 all_subdomains_count: 542
-urls_count: 17
+urls_count: 18
 ssl_rank: 
 http_rank: D
 security_txt: 5
@@ -27,8 +27,8 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/ssc-campus.nl/subdomains.txt)|31|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/ssc-campus.nl/urls.txt)|17|Urls|
+|[subdomains.txt](/DutchGovScope/data/ssc-campus.nl/subdomains.txt)|34|Alive subdomains|
+|[urls.txt](/DutchGovScope/data/ssc-campus.nl/urls.txt)|18|Urls|
 |[all_subdomains.txt](/DutchGovScope/data/ssc-campus.nl/all_subdomains.txt)|542|All found subdomains (history)|
 
 
@@ -54,4 +54,5 @@ tags: dutchgov
 |[https://testconn-mp.ssc-campus.nl](https://testconn-mp.ssc-campus.nl)| | **F**|BigIP|:warning: | | | | | :white_check_mark: | | :white_check_mark: | |F5 BigIP||
 |[https://www.ssc-campus.nl](https://www.ssc-campus.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|301 Moved Perman...|
 |[https://ssc-campus.nl](https://ssc-campus.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|301 Moved Perman...|
+|[http://localhost.ssc-campus.nl](http://localhost.ssc-campus.nl)| | **D**|nginx| | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Nginx|Welcome to nginx...|
 

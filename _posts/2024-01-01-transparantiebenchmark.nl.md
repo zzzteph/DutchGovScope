@@ -2,8 +2,8 @@
 layout: default
 title: "transparantiebenchmark.nl"
 permalink: "/dutchgov/transparantiebenchmark.nl.html"
-subdomains_count: 1
-all_subdomains_count: 4
+subdomains_count: 3
+all_subdomains_count: 6
 urls_count: 0
 ssl_rank: 
 http_rank: F
@@ -27,9 +27,9 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/transparantiebenchmark.nl/subdomains.txt)|1|Alive subdomains|
+|[subdomains.txt](/DutchGovScope/data/transparantiebenchmark.nl/subdomains.txt)|3|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/transparantiebenchmark.nl/urls.txt)|0|Urls|
-|[all_subdomains.txt](/DutchGovScope/data/transparantiebenchmark.nl/all_subdomains.txt)|4|All found subdomains (history)|
+|[all_subdomains.txt](/DutchGovScope/data/transparantiebenchmark.nl/all_subdomains.txt)|6|All found subdomains (history)|
 
 
 ## Statistics

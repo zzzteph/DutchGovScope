@@ -4,3 +4,4 @@ https://test.digitaltrustcenter.nl
 https://tools.digitaltrustcenter.nl
 https://www.digitaltrustcenter.nl
 https://digitaltrustcenter.nl
+https://prod.digitaltrustcenter.nl

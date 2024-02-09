@@ -2,8 +2,8 @@
 layout: default
 title: "keringhuis.nl"
 permalink: "/dutchgov/keringhuis.nl.html"
-subdomains_count: 6
-all_subdomains_count: 9
+subdomains_count: 10
+all_subdomains_count: 13
 urls_count: 6
 ssl_rank: 
 http_rank: E
@@ -27,9 +27,9 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/keringhuis.nl/subdomains.txt)|6|Alive subdomains|
+|[subdomains.txt](/DutchGovScope/data/keringhuis.nl/subdomains.txt)|10|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/keringhuis.nl/urls.txt)|6|Urls|
-|[all_subdomains.txt](/DutchGovScope/data/keringhuis.nl/all_subdomains.txt)|9|All found subdomains (history)|
+|[all_subdomains.txt](/DutchGovScope/data/keringhuis.nl/all_subdomains.txt)|13|All found subdomains (history)|
 
 
 ## Statistics

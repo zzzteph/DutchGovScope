@@ -11,9 +11,9 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/innova58.nl/subdomains.txt)|2|Alive subdomains|
+|[subdomains.txt](/data/innova58.nl/subdomains.txt)|4|Alive subdomains|
 |[urls.txt](/data/innova58.nl/urls.txt)|2|Urls|
-|[all_subdomains.txt](/data/innova58.nl/all_subdomains.txt)|2|All found subdomains (history)|
+|[all_subdomains.txt](/data/innova58.nl/all_subdomains.txt)|4|All found subdomains (history)|
 
 
 ## Statistics

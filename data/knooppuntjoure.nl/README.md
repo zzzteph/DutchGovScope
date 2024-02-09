@@ -11,9 +11,9 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/knooppuntjoure.nl/subdomains.txt)|3|Alive subdomains|
+|[subdomains.txt](/data/knooppuntjoure.nl/subdomains.txt)|6|Alive subdomains|
 |[urls.txt](/data/knooppuntjoure.nl/urls.txt)|3|Urls|
-|[all_subdomains.txt](/data/knooppuntjoure.nl/all_subdomains.txt)|3|All found subdomains (history)|
+|[all_subdomains.txt](/data/knooppuntjoure.nl/all_subdomains.txt)|6|All found subdomains (history)|
 
 
 ## Statistics

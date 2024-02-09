@@ -35,7 +35,7 @@
 |[https://feeds.rijksdienstcn.com](https://feeds.rijksdienstcn.com)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://opendata.papiamentu.rijksdienstcn.com](https://opendata.papiamentu.rijksdienstcn.com)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://sso.rijksdienstcn.com](https://sso.rijksdienstcn.com)| | **D**||:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |||
-|[https://passwordreset.rijksdienstcn.com](https://passwordreset.rijksdienstcn.com)| | **F**|Microsoft-IIS/10.0| | | | | | | | :white_check_mark: | |HSTS IIS:10.0 Microsoft ASP.NET Windows Server|SSRPM Web Interf...|
+|[https://passwordreset.rijksdienstcn.com](https://passwordreset.rijksdienstcn.com)| | **F**|Microsoft-IIS/10.0| | | | | | | | :white_check_mark: | |HSTS IIS:10.0 Microsoft ASP.NET Windows Server|SSRPM_TITLE|
 |[https://feeds.english.rijksdienstcn.com](https://feeds.english.rijksdienstcn.com)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://rijksdienstcn.com](https://rijksdienstcn.com)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
 

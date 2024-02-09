@@ -11,9 +11,9 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/csirtdsp.nl/subdomains.txt)|5|Alive subdomains|
+|[subdomains.txt](/data/csirtdsp.nl/subdomains.txt)|7|Alive subdomains|
 |[urls.txt](/data/csirtdsp.nl/urls.txt)|3|Urls|
-|[all_subdomains.txt](/data/csirtdsp.nl/all_subdomains.txt)|5|All found subdomains (history)|
+|[all_subdomains.txt](/data/csirtdsp.nl/all_subdomains.txt)|7|All found subdomains (history)|
 
 
 ## Statistics

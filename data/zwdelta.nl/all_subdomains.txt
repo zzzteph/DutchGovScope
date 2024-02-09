@@ -4,3 +4,5 @@ www.zwdelta.nl
 www.platform.zwdelta.nl
 zwdelta.nl
 mail2.zwdelta.nl
+bnc3.zwdelta.nl
+mail.zwdelta.nl

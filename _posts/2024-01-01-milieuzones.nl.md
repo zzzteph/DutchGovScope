@@ -4,7 +4,7 @@ title: "milieuzones.nl"
 permalink: "/dutchgov/milieuzones.nl.html"
 subdomains_count: 6
 all_subdomains_count: 9
-urls_count: 4
+urls_count: 5
 ssl_rank: 
 http_rank: C
 security_txt: 2
@@ -28,7 +28,7 @@ tags: dutchgov
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/DutchGovScope/data/milieuzones.nl/subdomains.txt)|6|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/milieuzones.nl/urls.txt)|4|Urls|
+|[urls.txt](/DutchGovScope/data/milieuzones.nl/urls.txt)|5|Urls|
 |[all_subdomains.txt](/DutchGovScope/data/milieuzones.nl/all_subdomains.txt)|9|All found subdomains (history)|
 
 
@@ -41,4 +41,5 @@ tags: dutchgov
 |[https://test.milieuzones.nl](https://test.milieuzones.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Basic Nginx|401 Authorizatio...|
 |[https://www.milieuzones.nl](https://www.milieuzones.nl)| | **A**|nginx| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Drupal:10 HSTS Nginx PHP|Milieuzones in N...|
 |[https://milieuzones.nl](https://milieuzones.nl)| | **A**|nginx| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
+|[http://autodiscover.milieuzones.nl](http://autodiscover.milieuzones.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|Eclipse GlassFis...|
 

@@ -25,5 +25,5 @@
 |[https://opendata.werkenbijdeeu.nl](https://opendata.werkenbijdeeu.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://vacature.werkenbijdeeu.nl](https://vacature.werkenbijdeeu.nl)| | **A**|Apache| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS|Werken bij de EU|
 |[https://www.werkenbijdeeu.nl](https://www.werkenbijdeeu.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Home | Werken bi...|
-|[https://werkenbijdeeu.nl](https://werkenbijdeeu.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
+|[https://werkenbijdeeu.nl](https://werkenbijdeeu.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 

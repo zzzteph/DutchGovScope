@@ -2,9 +2,9 @@
 layout: default
 title: "mobiliteitsbank.nl"
 permalink: "/dutchgov/mobiliteitsbank.nl.html"
-subdomains_count: 11
+subdomains_count: 12
 all_subdomains_count: 23
-urls_count: 10
+urls_count: 11
 ssl_rank: 
 http_rank: C
 security_txt: 4
@@ -27,8 +27,8 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/mobiliteitsbank.nl/subdomains.txt)|11|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/mobiliteitsbank.nl/urls.txt)|10|Urls|
+|[subdomains.txt](/DutchGovScope/data/mobiliteitsbank.nl/subdomains.txt)|12|Alive subdomains|
+|[urls.txt](/DutchGovScope/data/mobiliteitsbank.nl/urls.txt)|11|Urls|
 |[all_subdomains.txt](/DutchGovScope/data/mobiliteitsbank.nl/all_subdomains.txt)|23|All found subdomains (history)|
 
 
@@ -47,4 +47,5 @@ tags: dutchgov
 |[http://vacaturezoekservice-test.mobiliteitsbank.nl](http://vacaturezoekservice-test.mobiliteitsbank.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://www.mobiliteitsbank.nl](https://www.mobiliteitsbank.nl)| | **B**|cloudflare|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Cloudflare HSTS Java||
 |[https://mobiliteitsbank.nl](https://mobiliteitsbank.nl)| | **B**|cloudflare|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Cloudflare HSTS||
+|[https://acceptatie.mobiliteitsbank.nl](https://acceptatie.mobiliteitsbank.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|403 Forbidden|
 

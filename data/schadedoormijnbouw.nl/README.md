@@ -5,14 +5,14 @@
 
 
  - **SSL Grade**:
- - **HTTP Security Grade**:A
+ - **HTTP Security Grade**:B
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:4
 
 
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/schadedoormijnbouw.nl/subdomains.txt)|9|Alive subdomains|
-|[urls.txt](/data/schadedoormijnbouw.nl/urls.txt)|4|Urls|
+|[urls.txt](/data/schadedoormijnbouw.nl/urls.txt)|5|Urls|
 |[all_subdomains.txt](/data/schadedoormijnbouw.nl/all_subdomains.txt)|29|All found subdomains (history)|
 
 
@@ -25,4 +25,5 @@
 |[https://www.schadedoormijnbouw.nl](https://www.schadedoormijnbouw.nl)| | **A**|| |:white_check_mark: | | |:warning: | | :white_check_mark: | :white_check_mark: | |Azure Azure Edge Network Azure Front Door HSTS||
 |[https://schadedoormijnbouw.nl](https://schadedoormijnbouw.nl)| | **A**|| |:white_check_mark: | | |:warning: | | :white_check_mark: | :white_check_mark: | |HSTS|Document Moved|
 |[https://forum.schadedoormijnbouw.nl](https://forum.schadedoormijnbouw.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | | :white_check_mark: | :white_check_mark: | |Azure Azure Edge Network Azure Front Door HSTS Microsoft ASP.NET|Forums|
+|[https://tracking.schadedoormijnbouw.nl](https://tracking.schadedoormijnbouw.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |HSTS Nginx PHP||
 

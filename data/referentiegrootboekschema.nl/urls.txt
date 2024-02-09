@@ -4,3 +4,4 @@ https://prod-dictu.referentiegrootboekschema.nl
 https://test-dictu.referentiegrootboekschema.nl
 https://www.referentiegrootboekschema.nl
 https://referentiegrootboekschema.nl
+https://ftp.referentiegrootboekschema.nl

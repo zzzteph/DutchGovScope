@@ -11,9 +11,9 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/brabantbusinessmedia.nl/subdomains.txt)|4|Alive subdomains|
+|[subdomains.txt](/data/brabantbusinessmedia.nl/subdomains.txt)|4527|Alive subdomains|
 |[urls.txt](/data/brabantbusinessmedia.nl/urls.txt)|4|Urls|
-|[all_subdomains.txt](/data/brabantbusinessmedia.nl/all_subdomains.txt)|4|All found subdomains (history)|
+|[all_subdomains.txt](/data/brabantbusinessmedia.nl/all_subdomains.txt)|4527|All found subdomains (history)|
 
 
 ## Statistics

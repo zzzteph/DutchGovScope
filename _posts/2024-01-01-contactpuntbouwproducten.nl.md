@@ -2,8 +2,8 @@
 layout: default
 title: "contactpuntbouwproducten.nl"
 permalink: "/dutchgov/contactpuntbouwproducten.nl.html"
-subdomains_count: 4
-all_subdomains_count: 5
+subdomains_count: 5
+all_subdomains_count: 6
 urls_count: 4
 ssl_rank: 
 http_rank: C
@@ -27,9 +27,9 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/contactpuntbouwproducten.nl/subdomains.txt)|4|Alive subdomains|
+|[subdomains.txt](/DutchGovScope/data/contactpuntbouwproducten.nl/subdomains.txt)|5|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/contactpuntbouwproducten.nl/urls.txt)|4|Urls|
-|[all_subdomains.txt](/DutchGovScope/data/contactpuntbouwproducten.nl/all_subdomains.txt)|5|All found subdomains (history)|
+|[all_subdomains.txt](/DutchGovScope/data/contactpuntbouwproducten.nl/all_subdomains.txt)|6|All found subdomains (history)|
 
 
 ## Statistics

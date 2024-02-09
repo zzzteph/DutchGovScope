@@ -28,3 +28,8 @@ https://login.vechtstromen.nl
 https://formulieren.vechtstromen.nl
 https://test.formulieren.vechtstromen.nl
 https://securetest.vechtstromen.nl
+https://enterpriseenrollment.vechtstromen.nl
+https://enterpriseregistration.vechtstromen.nl
+https://geoweb.vechtstromen.nl
+http://localhost.vechtstromen.nl
+https://topdesk-test.vechtstromen.nl

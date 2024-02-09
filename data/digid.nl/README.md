@@ -11,8 +11,8 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/digid.nl/subdomains.txt)|241|Alive subdomains|
-|[urls.txt](/data/digid.nl/urls.txt)|32|Urls|
+|[subdomains.txt](/data/digid.nl/subdomains.txt)|242|Alive subdomains|
+|[urls.txt](/data/digid.nl/urls.txt)|33|Urls|
 |[all_subdomains.txt](/data/digid.nl/all_subdomains.txt)|478|All found subdomains (history)|
 
 
@@ -53,4 +53,5 @@
 |[https://www.machtigen.digid.nl](https://www.machtigen.digid.nl)| | **A**|Apache| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
 |[https://digid.nl](https://digid.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://helpdesk.machtigen.digid.nl](https://helpdesk.machtigen.digid.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Helpdeskportaal|
+|[https://mu.digid.nl](https://mu.digid.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 

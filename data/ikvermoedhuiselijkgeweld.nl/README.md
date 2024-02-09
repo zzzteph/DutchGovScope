@@ -13,7 +13,7 @@
 |------------|-------|------|
 |[subdomains.txt](/data/ikvermoedhuiselijkgeweld.nl/subdomains.txt)|6|Alive subdomains|
 |[urls.txt](/data/ikvermoedhuiselijkgeweld.nl/urls.txt)|4|Urls|
-|[all_subdomains.txt](/data/ikvermoedhuiselijkgeweld.nl/all_subdomains.txt)|13|All found subdomains (history)|
+|[all_subdomains.txt](/data/ikvermoedhuiselijkgeweld.nl/all_subdomains.txt)|14|All found subdomains (history)|
 
 
 ## Statistics

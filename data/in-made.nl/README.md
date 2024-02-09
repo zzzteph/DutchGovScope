@@ -13,7 +13,7 @@
 |------------|-------|------|
 |[subdomains.txt](/data/in-made.nl/subdomains.txt)|6|Alive subdomains|
 |[urls.txt](/data/in-made.nl/urls.txt)|4|Urls|
-|[all_subdomains.txt](/data/in-made.nl/all_subdomains.txt)|6|All found subdomains (history)|
+|[all_subdomains.txt](/data/in-made.nl/all_subdomains.txt)|7|All found subdomains (history)|
 
 
 ## Statistics

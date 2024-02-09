@@ -76,3 +76,4 @@ acc-bvrin.minszw.nl
 dvs-qas.minszw.nl
 ftp.minszw.nl
 webmail.minszw.nl
+www.caobank.minszw.nl

@@ -12,3 +12,4 @@ localhost.odijmond.nl
 osb.odijmond.nl
 rd.odijmond.nl
 vpn.odijmond.nl
+acc-open-wave.odijmond.nl

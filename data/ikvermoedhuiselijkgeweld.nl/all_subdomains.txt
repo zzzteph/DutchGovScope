@@ -11,3 +11,4 @@ feeds.english.ikvermoedhuiselijkgeweld.nl
 magazines.ikvermoedhuiselijkgeweld.nl
 a-feeds.ikvermoedhuiselijkgeweld.nl
 a-opendata.ikvermoedhuiselijkgeweld.nl
+a-www.ikvermoedhuiselijkgeweld.nl

@@ -20,3 +20,7 @@ acc.marktplaats.stelselcatalogus.nl
 acc.editor.stelselcatalogus.nl
 acc-editor.stelselcatalogus.nl
 marktplaats.stelselcatalogus.nl
+acc.data.stelselcatalogus.nl
+acc.www.stelselcatalogus.nl
+data.stelselcatalogus.nl
+preprod.www.stelselcatalogus.nl

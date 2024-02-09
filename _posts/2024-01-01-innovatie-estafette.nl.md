@@ -3,7 +3,7 @@ layout: default
 title: "innovatie-estafette.nl"
 permalink: "/dutchgov/innovatie-estafette.nl.html"
 subdomains_count: 2
-all_subdomains_count: 12
+all_subdomains_count: 13
 urls_count: 2
 ssl_rank: A+
 http_rank: A
@@ -29,7 +29,7 @@ tags: dutchgov
 |------------|-------|------|
 |[subdomains.txt](/DutchGovScope/data/innovatie-estafette.nl/subdomains.txt)|2|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/innovatie-estafette.nl/urls.txt)|2|Urls|
-|[all_subdomains.txt](/DutchGovScope/data/innovatie-estafette.nl/all_subdomains.txt)|12|All found subdomains (history)|
+|[all_subdomains.txt](/DutchGovScope/data/innovatie-estafette.nl/all_subdomains.txt)|13|All found subdomains (history)|
 
 
 ## Statistics

@@ -14,7 +14,7 @@ https://brabant.nl
 https://brabantnext.brabant.nl
 https://brains-acc.brabant.nl
 https://brains.brabant.nl
-https://bzv-a.brabant.nl
+http://bzv-a.brabant.nl
 https://bzv.brabant.nl
 https://connect-with.brabant.nl
 https://ondertekenen.brabant.nl
@@ -53,13 +53,13 @@ https://brainps-acpt.brabant.nl
 https://brainps-ontw.brabant.nl
 https://wifi.brabant.nl
 https://dagstaatmonitors.brabant.nl
-http://api-acpt.brabant.nl
+https://api-acpt.brabant.nl
 https://www.wegen.brabant.nl
 https://draf.brabant.nl
 https://samenwerken.brabant.nl
 http://atlas-acpt.brabant.nl
 https://huisstijl.brabant.nl
-http://www-ontw.brabant.nl
+https://www-ontw.brabant.nl
 http://torenvalk.brabant.nl
 https://opendata.brabant.nl
 https://brainps.brabant.nl
@@ -70,7 +70,7 @@ http://slechtvalk.brabant.nl
 https://esb-acpt.brabant.nl
 https://longread.brabant.nl
 http://videoserver2.brabant.nl
-https://brain-ontw.brabant.nl
+http://brain-ontw.brabant.nl
 https://www.brabant.nl
 https://api.brabant.nl
 https://mik-acpt.brabant.nl

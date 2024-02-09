@@ -2,3 +2,6 @@ hoogpkb.nl
 www.hoogpkb.nl
 aanvraag.hoogpkb.nl
 hostmaster.hoogpkb.nl
+autodiscover.hoogpkb.nl
+ftp.hoogpkb.nl
+ssh.hoogpkb.nl

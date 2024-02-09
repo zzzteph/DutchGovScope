@@ -11,9 +11,9 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/prettigcontactmetdeoverheid.nl/subdomains.txt)|3|Alive subdomains|
+|[subdomains.txt](/data/prettigcontactmetdeoverheid.nl/subdomains.txt)|8|Alive subdomains|
 |[urls.txt](/data/prettigcontactmetdeoverheid.nl/urls.txt)|3|Urls|
-|[all_subdomains.txt](/data/prettigcontactmetdeoverheid.nl/all_subdomains.txt)|6|All found subdomains (history)|
+|[all_subdomains.txt](/data/prettigcontactmetdeoverheid.nl/all_subdomains.txt)|11|All found subdomains (history)|
 
 
 ## Statistics

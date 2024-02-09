@@ -2,9 +2,9 @@
 layout: default
 title: "referentiegrootboekschema.nl"
 permalink: "/dutchgov/referentiegrootboekschema.nl.html"
-subdomains_count: 6
+subdomains_count: 8
 all_subdomains_count: 11
-urls_count: 6
+urls_count: 7
 ssl_rank: 
 http_rank: D
 security_txt: 3
@@ -27,8 +27,8 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/referentiegrootboekschema.nl/subdomains.txt)|6|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/referentiegrootboekschema.nl/urls.txt)|6|Urls|
+|[subdomains.txt](/DutchGovScope/data/referentiegrootboekschema.nl/subdomains.txt)|8|Alive subdomains|
+|[urls.txt](/DutchGovScope/data/referentiegrootboekschema.nl/urls.txt)|7|Urls|
 |[all_subdomains.txt](/DutchGovScope/data/referentiegrootboekschema.nl/all_subdomains.txt)|11|All found subdomains (history)|
 
 
@@ -43,4 +43,5 @@ tags: dutchgov
 |[https://test-dictu.referentiegrootboekschema.nl](https://test-dictu.referentiegrootboekschema.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Basic Nginx|401 Authorizatio...|
 |[https://www.referentiegrootboekschema.nl](https://www.referentiegrootboekschema.nl)| | **A**|nginx| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Drupal:10 HSTS Nginx PHP|Home | Referenti...|
 |[https://referentiegrootboekschema.nl](https://referentiegrootboekschema.nl)| | **A**|nginx| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Drupal:10 HSTS Nginx PHP|Home | Referenti...|
+|[https://ftp.referentiegrootboekschema.nl](https://ftp.referentiegrootboekschema.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Drupal:10 HSTS Nginx PHP|Home | Forum Sta...|
 

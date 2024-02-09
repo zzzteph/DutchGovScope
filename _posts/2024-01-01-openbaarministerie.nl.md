@@ -5,7 +5,7 @@ permalink: "/dutchgov/openbaarministerie.nl.html"
 subdomains_count: 5
 all_subdomains_count: 12
 urls_count: 3
-ssl_rank: 
+ssl_rank: A-
 http_rank: A
 security_txt: 3
 url_link: /data/openbaarministerie.nl/urls.txt
@@ -20,7 +20,7 @@ tags: dutchgov
 ## Summary data
 
 
- - **SSL Grade**:
+ - **SSL Grade**:A-
  - **HTTP Security Grade**:A
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:3
 
@@ -37,7 +37,7 @@ tags: dutchgov
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://magazines.openbaarministerie.nl](https://magazines.openbaarministerie.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Kiosk | Magazine...|
-|[https://www.openbaarministerie.nl](https://www.openbaarministerie.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |||
+|[https://magazines.openbaarministerie.nl](https://magazines.openbaarministerie.nl)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Kiosk | Magazine...|
+|[https://www.openbaarministerie.nl](https://www.openbaarministerie.nl)| **B**| **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |||
 |[https://openbaarministerie.nl](https://openbaarministerie.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |||
 

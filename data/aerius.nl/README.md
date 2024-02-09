@@ -6,13 +6,13 @@
 
  - **SSL Grade**:
  - **HTTP Security Grade**:D
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:4
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:7
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/aerius.nl/subdomains.txt)|743|Alive subdomains|
-|[urls.txt](/data/aerius.nl/urls.txt)|22|Urls|
+|[subdomains.txt](/data/aerius.nl/subdomains.txt)|748|Alive subdomains|
+|[urls.txt](/data/aerius.nl/urls.txt)|29|Urls|
 |[all_subdomains.txt](/data/aerius.nl/all_subdomains.txt)|748|All found subdomains (history)|
 
 
@@ -25,7 +25,7 @@
 |[https://calculator.aerius.nl](https://calculator.aerius.nl)| | **B**||:warning: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS Java|AERIUS® Calculat...|
 |[https://connect.aerius.nl](https://connect.aerius.nl)| | **F**|awselb/2.0| | | | | | | | :white_check_mark: | |Amazon ELB Amazon Web Services||
 |[https://imaer.aerius.nl](https://imaer.aerius.nl)| | **F**|AmazonS3| | | | | | | | :white_check_mark: | |Amazon CloudFront Amazon S3 Amazon Web Services HTTP/3||
-|[https://mattermost.aerius.nl](https://mattermost.aerius.nl)| | **C**|| | | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | ||Mattermost|
+|[https://mattermost.aerius.nl](https://mattermost.aerius.nl)| | **C**|| | | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |||
 |[https://mgmt.aerius.nl](https://mgmt.aerius.nl)| | **F**|Jetty(10.0.18)|:white_check_mark: | | | | | | | :white_check_mark: | |Java Jenkins:2.426.2 Jetty:10.0.18||
 |[https://monitor.aerius.nl](https://monitor.aerius.nl)| | **F**|Jetty(9.4.18.v20190429)| | | | | | | | :white_check_mark: | |Java Jekyll:4.0.0 Jetty:9.4.18 Ruby|Over AERIUS Moni...|
 |[https://nexus.aerius.nl](https://nexus.aerius.nl)| | **D**|Nexus/3.63.0-01 (OSS)| | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | ||Sonatype Nexus R...|
@@ -35,12 +35,19 @@
 |[https://register.aerius.nl](https://register.aerius.nl)| | **F**|nginx/1.25.2| | | | | | | | :white_check_mark: | |Nginx:1.25.2||
 |[https://scenario.aerius.nl](https://scenario.aerius.nl)| | **C**|Apache| |:white_check_mark: | | | | | | :white_check_mark: | |Apache HTTP Server HSTS||
 |[https://search.aerius.nl](https://search.aerius.nl)| | **E**|| | | | | | | | :white_check_mark: | ||AERIUS Search Re...|
-|[https://www.aerius.nl](https://www.aerius.nl)| | **F**|AmazonS3| | | | | | | | :white_check_mark: | |Amazon CloudFront Amazon S3 Amazon Web Services HTTP/3 Vue.js|AERIUS | Rekenin...|
-|[https://aerius.nl](https://aerius.nl)| | **E**|| | | | | | | | :white_check_mark: | |Amazon CloudFront Amazon Web Services HTTP/3||
+|[https://www.aerius.nl](https://www.aerius.nl)| | **A**|awselb/2.0| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Amazon ELB Amazon Web Services|301 Moved Perman...|
+|[https://aerius.nl](https://aerius.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Amazon CloudFront Amazon Web Services HTTP/3||
 |[https://docs.aerius.nl](https://docs.aerius.nl)| | **F**|AmazonS3| | | | | | | | :white_check_mark: | |Amazon CloudFront Amazon S3 Amazon Web Services||
 |[https://regelingsondersteuning.aerius.nl](https://regelingsondersteuning.aerius.nl)| | **B**||:warning: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS Java|AERIUS® Check|
 |[https://auth-dev.aerius.nl](https://auth-dev.aerius.nl)| | **B**|Server|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Amazon CloudFront Amazon Web Services Bootstrap HSTS|Signin|
 |[https://auth-register-dev.aerius.nl](https://auth-register-dev.aerius.nl)| | **B**|Server|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Amazon CloudFront Amazon Web Services Bootstrap HSTS|Signin|
 |[https://link.aerius.nl](https://link.aerius.nl)| | **E**|| | | | | | | | :white_check_mark: | |Bootstrap:4.3.1|Not Found | Shli...|
 |[https://auth-register-gat.aerius.nl](https://auth-register-gat.aerius.nl)| | **B**|Server|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Amazon CloudFront Amazon Web Services Bootstrap HSTS|Signin|
+|[https://docs-dev.aerius.nl](https://docs-dev.aerius.nl)| | **F**|AmazonS3| | | | | | | | :white_check_mark: | |Amazon CloudFront Amazon S3 Amazon Web Services||
+|[https://docs-staging.aerius.nl](https://docs-staging.aerius.nl)| | **F**|AmazonS3| | | | | | | | :white_check_mark: | |Amazon CloudFront Amazon S3 Amazon Web Services||
+|[https://grafana-dev.aerius.nl](https://grafana-dev.aerius.nl)| | **C**|| | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |||
+|[https://link.pr.aerius.nl](https://link.pr.aerius.nl)| | **F**|awselb/2.0| | | | | | | | :white_check_mark: | |Amazon ELB Amazon Web Services||
+|[https://mail.pr.aerius.nl](https://mail.pr.aerius.nl)| | **F**|awselb/2.0| | | | | | | | :white_check_mark: | |Amazon ELB Amazon Web Services||
+|[https://search-dev.aerius.nl](https://search-dev.aerius.nl)| | **E**|| | | | | | | | :white_check_mark: | ||AERIUS Search Re...|
+|[https://www-staging.aerius.nl](https://www-staging.aerius.nl)| | **F**|AmazonS3| | | | | | | | :white_check_mark: | |Amazon CloudFront Amazon S3 Amazon Web Services HTTP/3 Vue.js|AERIUS | Rekenin...|
 

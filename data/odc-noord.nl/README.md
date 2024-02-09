@@ -11,9 +11,9 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/odc-noord.nl/subdomains.txt)|130|Alive subdomains|
+|[subdomains.txt](/data/odc-noord.nl/subdomains.txt)|132|Alive subdomains|
 |[urls.txt](/data/odc-noord.nl/urls.txt)|92|Urls|
-|[all_subdomains.txt](/data/odc-noord.nl/all_subdomains.txt)|234|All found subdomains (history)|
+|[all_subdomains.txt](/data/odc-noord.nl/all_subdomains.txt)|238|All found subdomains (history)|
 
 
 ## Statistics
@@ -21,9 +21,9 @@
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://acc.iaas-portal.odc-noord.nl](https://acc.iaas-portal.odc-noord.nl)| | **C**|Apache/2.4.37 (Red Hat Enterprise Linux) OpenSSL/1.1.1k| |:white_check_mark: | | | | | | :white_check_mark: | |AngularJS Apache HTTP Server:2.4.37 HSTS OpenSSL:1.1.1k Red Hat||
+|[https://acc.iaas-portal.odc-noord.nl](https://acc.iaas-portal.odc-noord.nl)| | **E**|| | | | | | | | :white_check_mark: | |AngularJS Apache HTTP Server:2.4.37 HSTS OpenSSL:1.1.1k Red Hat||
 |[https://acc.login.odc-noord.nl](https://acc.login.odc-noord.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
-|[https://acc.paas-portal.odc-noord.nl](https://acc.paas-portal.odc-noord.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |AngularJS HSTS||
+|[https://acc.paas-portal.odc-noord.nl](https://acc.paas-portal.odc-noord.nl)| | **E**|| | | | | | | | :white_check_mark: | |AngularJS HSTS||
 |[https://bd-acc.topdesk.odc-noord.nl](https://bd-acc.topdesk.odc-noord.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Login|
 |[https://bd-prd.topdesk.odc-noord.nl](https://bd-prd.topdesk.odc-noord.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Login|
 |[https://dci-acc.topdesk.odc-noord.nl](https://dci-acc.topdesk.odc-noord.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
@@ -52,9 +52,9 @@
 |[https://iucn-acc.topdesk.odc-noord.nl](https://iucn-acc.topdesk.odc-noord.nl)| | **E**|| | | | | | | | :white_check_mark: | ||ODC-Noord | (403...|
 |[https://iucn-prd.topdesk.odc-noord.nl](https://iucn-prd.topdesk.odc-noord.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Login|
 |[https://ivho-acc.confluence.odc-noord.nl](https://ivho-acc.confluence.odc-noord.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Atlassian Confluence HSTS Java||
-|[https://ivho-acc.jira.odc-noord.nl](https://ivho-acc.jira.odc-noord.nl)| | **A**||:warning: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
+|[https://ivho-acc.jira.odc-noord.nl](https://ivho-acc.jira.odc-noord.nl)| | **A**||:warning: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Java||
 |[https://ivho-prd.confluence.odc-noord.nl](https://ivho-prd.confluence.odc-noord.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Atlassian Confluence HSTS Java||
-|[https://ivho-prd.jira.odc-noord.nl](https://ivho-prd.jira.odc-noord.nl)| | **A**||:warning: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Java||
+|[https://ivho-prd.jira.odc-noord.nl](https://ivho-prd.jira.odc-noord.nl)| | **A**||:warning: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://ivho-staf-acc.topdesk.odc-noord.nl](https://ivho-staf-acc.topdesk.odc-noord.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|Login|
 |[https://ivho-staf-prd.topdesk.odc-noord.nl](https://ivho-staf-prd.topdesk.odc-noord.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Login|
 |[https://login.odc-noord.nl](https://login.odc-noord.nl)| | **A**||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
@@ -107,8 +107,8 @@
 |[https://vpn.gn2.koop-p.odc-noord.nl](https://vpn.gn2.koop-p.odc-noord.nl)| | **F**|OpenVPN-AS| | | | | | | | :white_check_mark: | |||
 |[https://vpn.gn2.koop-t.odc-noord.nl](https://vpn.gn2.koop-t.odc-noord.nl)| | **F**|OpenVPN-AS| | | | | | | | :white_check_mark: | |||
 |[https://vpn.rvb.odc-noord.nl](https://vpn.rvb.odc-noord.nl)| | **F**|OpenVPN-AS| | | | | | | | :white_check_mark: | |||
-|[http://vws-acc.jira.odc-noord.nl](http://vws-acc.jira.odc-noord.nl)| | **A**||:warning: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Java||
-|[https://vws-prd.jira.odc-noord.nl](https://vws-prd.jira.odc-noord.nl)| | **A**||:warning: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Java||
+|[https://vws-acc.jira.odc-noord.nl](https://vws-acc.jira.odc-noord.nl)| | **A**||:warning: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Java||
+|[https://vws-prd.jira.odc-noord.nl](https://vws-prd.jira.odc-noord.nl)| | **A**||:warning: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://www.odc-noord.nl](https://www.odc-noord.nl)| | **A**|WSGIServer/0.2 CPython/3.8.13| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bootstrap HSTS|Home|
 |[https://vpn.gn2.koop-pp.odc-noord.nl](https://vpn.gn2.koop-pp.odc-noord.nl)| | **F**|OpenVPN-AS| | | | | | | | :white_check_mark: | |||
 |[https://odc-noord.nl](https://odc-noord.nl)| | **C**|Apache| |:white_check_mark: | | | | | | :white_check_mark: | |Apache HTTP Server HSTS||

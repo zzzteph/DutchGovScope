@@ -12,3 +12,6 @@ staging-inspectie-szw.leerenontwikkelplein.nl
 staging-vws.leerenontwikkelplein.nl
 staging-szw.leerenontwikkelplein.nl
 ocw.leerenontwikkelplein.nl
+a-feeds.leerenontwikkelplein.nl
+a-opendata.leerenontwikkelplein.nl
+a-www.leerenontwikkelplein.nl

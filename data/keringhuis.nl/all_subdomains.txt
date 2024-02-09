@@ -7,3 +7,7 @@ keringhuis.nl
 mail.keringhuis.nl
 new.keringhuis.nl
 www.mail.keringhuis.nl
+admin.keringhuis.nl
+localhost.keringhuis.nl
+pop.keringhuis.nl
+quiz.keringhuis.nl

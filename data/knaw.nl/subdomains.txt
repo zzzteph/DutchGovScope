@@ -1357,3 +1357,6 @@ facades.labs.dans.knaw.nl
 wp-11.dev.huc.knaw.nl
 databeheer.huygens.knaw.nl
 facades-conversion.labs.dans.knaw.nl
+oai-harvester.labs.dans.knaw.nl
+ga-wp3.sd.di.huc.knaw.nl
+facades-formats.labs.dans.knaw.nl

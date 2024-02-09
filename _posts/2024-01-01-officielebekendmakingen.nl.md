@@ -2,7 +2,7 @@
 layout: default
 title: "officielebekendmakingen.nl"
 permalink: "/dutchgov/officielebekendmakingen.nl.html"
-subdomains_count: 25
+subdomains_count: 28
 all_subdomains_count: 66
 urls_count: 14
 ssl_rank: 
@@ -27,7 +27,7 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/officielebekendmakingen.nl/subdomains.txt)|25|Alive subdomains|
+|[subdomains.txt](/DutchGovScope/data/officielebekendmakingen.nl/subdomains.txt)|28|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/officielebekendmakingen.nl/urls.txt)|14|Urls|
 |[all_subdomains.txt](/DutchGovScope/data/officielebekendmakingen.nl/all_subdomains.txt)|66|All found subdomains (history)|
 

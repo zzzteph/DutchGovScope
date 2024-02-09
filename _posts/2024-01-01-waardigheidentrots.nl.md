@@ -4,9 +4,9 @@ title: "waardigheidentrots.nl"
 permalink: "/dutchgov/waardigheidentrots.nl.html"
 subdomains_count: 7
 all_subdomains_count: 16
-urls_count: 5
+urls_count: 7
 ssl_rank: 
-http_rank: B
+http_rank: C
 security_txt: 5
 url_link: /data/waardigheidentrots.nl/urls.txt
 all_subdomains_link: /data/waardigheidentrots.nl/all_subdomains.txt
@@ -21,14 +21,14 @@ tags: dutchgov
 
 
  - **SSL Grade**:
- - **HTTP Security Grade**:B
+ - **HTTP Security Grade**:C
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:5
 
 
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/DutchGovScope/data/waardigheidentrots.nl/subdomains.txt)|7|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/waardigheidentrots.nl/urls.txt)|5|Urls|
+|[urls.txt](/DutchGovScope/data/waardigheidentrots.nl/urls.txt)|7|Urls|
 |[all_subdomains.txt](/DutchGovScope/data/waardigheidentrots.nl/all_subdomains.txt)|16|All found subdomains (history)|
 
 
@@ -42,4 +42,6 @@ tags: dutchgov
 |[https://portaal.waardigheidentrots.nl](https://portaal.waardigheidentrots.nl)| | **C**|Microsoft-IIS/10.0|:white_check_mark: |:white_check_mark: | | |:warning: | | | :white_check_mark: | |Azure HSTS IIS:10.0 Microsoft ASP.NET Windows Server|Waardigheid en t...|
 |[https://waardigheidentrots.nl](https://waardigheidentrots.nl)| | **B**||:warning: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Azure Azure Front Door HSTS Microsoft ASP.NET||
 |[https://archief.waardigheidentrots.nl](https://archief.waardigheidentrots.nl)| | **A**|nginx|:warning: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
+|[https://api.waardigheidentrots.nl](https://api.waardigheidentrots.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Web App - Unavai...|
+|[https://cms.waardigheidentrots.nl](https://cms.waardigheidentrots.nl)| | **F**||:white_check_mark: | | :warning:| | | | | :white_check_mark: | |Azure||
 

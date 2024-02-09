@@ -2,7 +2,7 @@
 layout: default
 title: "dictumagazines.nl"
 permalink: "/dutchgov/dictumagazines.nl.html"
-subdomains_count: 3
+subdomains_count: 6
 all_subdomains_count: 11
 urls_count: 2
 ssl_rank: 
@@ -27,7 +27,7 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/dictumagazines.nl/subdomains.txt)|3|Alive subdomains|
+|[subdomains.txt](/DutchGovScope/data/dictumagazines.nl/subdomains.txt)|6|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/dictumagazines.nl/urls.txt)|2|Urls|
 |[all_subdomains.txt](/DutchGovScope/data/dictumagazines.nl/all_subdomains.txt)|11|All found subdomains (history)|
 

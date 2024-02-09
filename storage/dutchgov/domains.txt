@@ -1225,3 +1225,7 @@ brabant.nl
 wwwvergroent.nl
 www-alert.nl
 wwwsportraad.nl
+wwwarbeidsinspectie.nl
+wwwlabourauthority.nl
+asbestovertredingenarbeidsinspectie.nl
+wwwinfrankrijk.nl

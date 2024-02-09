@@ -1,2 +1,4 @@
 www.blankenburgverbinding.nl
 blankenburgverbinding.nl
+ftp.blankenburgverbinding.nl
+mail.blankenburgverbinding.nl

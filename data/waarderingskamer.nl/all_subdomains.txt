@@ -42,3 +42,10 @@ wem-staging.waarderingskamer.nl
 portal.waarderingskamer.nl
 www.mijn.waarderingskamer.nl
 www.wem-live.waarderingskamer.nl
+acceptatie.join.waarderingskamer.nl
+www.facturen.waarderingskamer.nl
+www.basic-test.acceptatie.woz-it.waarderingskamer.nl
+www.acceptatie.mijn.waarderingskamer.nl
+www.acceptatie.woz-it.waarderingskamer.nl
+mail.waarderingskamer.nl
+webmail.waarderingskamer.nl

@@ -6,7 +6,7 @@ subdomains_count: 4
 all_subdomains_count: 16
 urls_count: 4
 ssl_rank: 
-http_rank: D
+http_rank: C
 security_txt: 0
 url_link: /data/gipdatabank.nl/urls.txt
 all_subdomains_link: /data/gipdatabank.nl/all_subdomains.txt
@@ -21,7 +21,7 @@ tags: dutchgov
 
 
  - **SSL Grade**:
- - **HTTP Security Grade**:D
+ - **HTTP Security Grade**:C
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:0
 
 
@@ -39,6 +39,6 @@ tags: dutchgov
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[https://proto.gipdatabank.nl](https://proto.gipdatabank.nl)| | **F**|GitHub.com| | | :warning:| | | | | :white_check_mark: | |Fastly GitHub Pages Varnish|GIPdatabank.nl|
 |[https://www.gipdatabank.nl](https://www.gipdatabank.nl)| | **B**|Solvinity Server|:white_check_mark: |:white_check_mark: | | |:warning: | | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS|GIPdatabank.nl|
-|[https://www-ac.gipdatabank.nl](https://www-ac.gipdatabank.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server Basic|401 Unauthorized|
+|[https://www-ac.gipdatabank.nl](https://www-ac.gipdatabank.nl)| | **B**|Solvinity Server|:white_check_mark: |:white_check_mark: | | |:warning: | | :white_check_mark: | :white_check_mark: | |HSTS|GIPdatabank.nl|
 |[https://gipdatabank.nl](https://gipdatabank.nl)| | **B**|Apache|:white_check_mark: |:white_check_mark: | | |:warning: | | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS|301 Moved Perman...|
 

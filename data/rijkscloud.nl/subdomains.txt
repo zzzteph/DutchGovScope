@@ -528,3 +528,12 @@ nifi-registry.test.ix.rijkscloud.nl
 elkdmz1.ec.rijkscloud.nl
 ns02.gn1.rijkscloud.nl
 ns00.gn2.rijkscloud.nl
+kit-release.cvr.rvb.rijkscloud.nl
+ad1.rijkscloud.nl
+ns.rijkscloud.nl
+ns01.rijkscloud.nl
+ns02.rijkscloud.nl
+pki.rijkscloud.nl
+rvb.rijkscloud.nl
+smtp02.rijkscloud.nl
+smtp05.rijkscloud.nl
