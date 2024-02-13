@@ -11,7 +11,7 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/expertisecentrummggz.nl/subdomains.txt)|9|Alive subdomains|
+|[subdomains.txt](/data/expertisecentrummggz.nl/subdomains.txt)|10|Alive subdomains|
 |[urls.txt](/data/expertisecentrummggz.nl/urls.txt)|4|Urls|
 |[all_subdomains.txt](/data/expertisecentrummggz.nl/all_subdomains.txt)|17|All found subdomains (history)|
 

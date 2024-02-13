@@ -27,5 +27,5 @@
 |[https://opendata.justitieleictorganisatie.nl](https://opendata.justitieleictorganisatie.nl)| **A+**| **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://www.justitieleictorganisatie.nl](https://www.justitieleictorganisatie.nl)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Home | Justitiël...|
 |[https://connect.justitieleictorganisatie.nl](https://connect.justitieleictorganisatie.nl)| **A+**| **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS||
-|[https://justitieleictorganisatie.nl](https://justitieleictorganisatie.nl)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
+|[https://justitieleictorganisatie.nl](https://justitieleictorganisatie.nl)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 

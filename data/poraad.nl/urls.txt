@@ -11,3 +11,7 @@ https://stbtest.poraad.nl
 https://acc2.poraad.nl
 https://poraad.nl
 https://sectorrapportage2022.poraad.nl
+https://acc3.poraad.nl
+https://email.mg.poraad.nl
+https://enterpriseregistration.poraad.nl
+https://nieuwsbrief.poraad.nl

@@ -11,7 +11,7 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/klimaatakkoord.nl/subdomains.txt)|12|Alive subdomains|
+|[subdomains.txt](/data/klimaatakkoord.nl/subdomains.txt)|13|Alive subdomains|
 |[urls.txt](/data/klimaatakkoord.nl/urls.txt)|7|Urls|
 |[all_subdomains.txt](/data/klimaatakkoord.nl/all_subdomains.txt)|27|All found subdomains (history)|
 

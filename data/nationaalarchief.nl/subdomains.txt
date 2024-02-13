@@ -95,3 +95,5 @@ es.test.nationaalarchief.nl
 fr.test.nationaalarchief.nl
 localhost.nationaalarchief.nl
 onderwijs.nationaalarchief.nl
+amh.nationaalarchief.nl
+de.test.nationaalarchief.nl

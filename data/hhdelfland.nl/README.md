@@ -11,9 +11,9 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/hhdelfland.nl/subdomains.txt)|64|Alive subdomains|
-|[urls.txt](/data/hhdelfland.nl/urls.txt)|26|Urls|
-|[all_subdomains.txt](/data/hhdelfland.nl/all_subdomains.txt)|223|All found subdomains (history)|
+|[subdomains.txt](/data/hhdelfland.nl/subdomains.txt)|65|Alive subdomains|
+|[urls.txt](/data/hhdelfland.nl/urls.txt)|25|Urls|
+|[all_subdomains.txt](/data/hhdelfland.nl/all_subdomains.txt)|224|All found subdomains (history)|
 
 
 ## Statistics
@@ -33,7 +33,6 @@
 |[https://burgerloket.hhdelfland.nl](https://burgerloket.hhdelfland.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|301 Moved Perman...|
 |[https://hhdelfland.nl](https://hhdelfland.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:-|Object moved|
 |[http://autodiscover.hhdelfland.nl](http://autodiscover.hhdelfland.nl)| | **B**|Microsoft-IIS/10.0|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server||
-|[https://connect.hhdelfland.nl](https://connect.hhdelfland.nl)| | **F**|xxxxxxxx-xxxxx| | | | | | | | :white_check_mark: | |HSTS||
 |[https://samenwerkingsportaaltest.hhdelfland.nl](https://samenwerkingsportaaltest.hhdelfland.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0||
 |[https://samenwerkingsportaalcms.hhdelfland.nl](https://samenwerkingsportaalcms.hhdelfland.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0||
 |[https://sts.hhdelfland.nl](https://sts.hhdelfland.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|

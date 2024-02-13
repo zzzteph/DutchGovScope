@@ -5,7 +5,7 @@ permalink: "/dutchgov/volwaardig-leven.nl.html"
 subdomains_count: 7
 all_subdomains_count: 14
 urls_count: 4
-ssl_rank: 
+ssl_rank: A+
 http_rank: A
 security_txt: 4
 url_link: /data/volwaardig-leven.nl/urls.txt
@@ -20,7 +20,7 @@ tags: dutchgov
 ## Summary data
 
 
- - **SSL Grade**:
+ - **SSL Grade**:A+
  - **HTTP Security Grade**:A
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:4
 
@@ -40,5 +40,5 @@ tags: dutchgov
 |[https://feeds.volwaardig-leven.nl](https://feeds.volwaardig-leven.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://opendata.volwaardig-leven.nl](https://opendata.volwaardig-leven.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://www.volwaardig-leven.nl](https://www.volwaardig-leven.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Home | Volwaardi...|
-|[https://volwaardig-leven.nl](https://volwaardig-leven.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
+|[https://volwaardig-leven.nl](https://volwaardig-leven.nl)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
 

@@ -540,3 +540,5 @@ sscc-coblr-l02p.int.ssc-campus.nl
 localhost.ssc-campus.nl
 radius1.ssc-campus.nl
 radius2.ssc-campus.nl
+rhaap-hub.int.ssc-campus.nl
+rhaap-ontwikkel.int.ssc-campus.nl

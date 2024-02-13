@@ -12,7 +12,7 @@
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/perined.nl/subdomains.txt)|25|Alive subdomains|
-|[urls.txt](/data/perined.nl/urls.txt)|15|Urls|
+|[urls.txt](/data/perined.nl/urls.txt)|22|Urls|
 |[all_subdomains.txt](/data/perined.nl/all_subdomains.txt)|25|All found subdomains (history)|
 
 
@@ -36,4 +36,11 @@
 |[https://15assets.perined.nl](https://15assets.perined.nl)| | **F**|Apache/2.4.58 (Amazon Linux) OpenSSL/3.0.8| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.58 HSTS OpenSSL:3.0.8|301 Moved Perman...|
 |[https://followup.perined.nl](https://followup.perined.nl)| | **F**|nginx|:white_check_mark: | | | | | | :white_check_mark: | :white_check_mark: | |Microsoft ASP.NET Nginx|LNR Follow-Up|
 |[https://sets.perined.nl](https://sets.perined.nl)| | **F**|Apache/2.4.58 (Amazon Linux) OpenSSL/3.0.8| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.58 HSTS OpenSSL:3.0.8|301 Moved Perman...|
+|[https://e2e1.info.perined.nl](https://e2e1.info.perined.nl)| | **F**|Apache/2.4.58 (Amazon Linux) OpenSSL/3.0.8| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.58 HSTS OpenSSL:3.0.8|301 Moved Perman...|
+|[https://1311.perined.nl](https://1311.perined.nl)| | **F**|Apache/2.4.58 (Amazon Linux) OpenSSL/3.0.8| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.58 HSTS OpenSSL:3.0.8|301 Moved Perman...|
+|[https://scars.perined.nl](https://scars.perined.nl)| | **F**|Apache/2.4.58 (Amazon Linux) OpenSSL/3.0.8| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.58 HSTS OpenSSL:3.0.8|301 Moved Perman...|
+|[https://evaluatie.perined.nl](https://evaluatie.perined.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Microsoft ASP.NET Nginx|Stellingen|
+|[http://autodiscover.perined.nl](http://autodiscover.perined.nl)| | **B**|Microsoft-IIS/10.0|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server||
+|[http://localhost.perined.nl](http://localhost.perined.nl)| | **D**|nginx| | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Nginx|Welcome to nginx...|
+|[https://webmail.perined.nl](https://webmail.perined.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|Test Page for th...|
 

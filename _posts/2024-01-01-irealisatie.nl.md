@@ -2,12 +2,12 @@
 layout: default
 title: "irealisatie.nl"
 permalink: "/dutchgov/irealisatie.nl.html"
-subdomains_count: 16
+subdomains_count: 18
 all_subdomains_count: 19
-urls_count: 11
+urls_count: 16
 ssl_rank: 
-http_rank: B
-security_txt: 9
+http_rank: C
+security_txt: 11
 url_link: /data/irealisatie.nl/urls.txt
 all_subdomains_link: /data/irealisatie.nl/all_subdomains.txt
 subdomains_link: /data/irealisatie.nl/subdomains.txt
@@ -21,14 +21,14 @@ tags: dutchgov
 
 
  - **SSL Grade**:
- - **HTTP Security Grade**:B
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:9
+ - **HTTP Security Grade**:C
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:11
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/irealisatie.nl/subdomains.txt)|16|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/irealisatie.nl/urls.txt)|11|Urls|
+|[subdomains.txt](/DutchGovScope/data/irealisatie.nl/subdomains.txt)|18|Alive subdomains|
+|[urls.txt](/DutchGovScope/data/irealisatie.nl/urls.txt)|16|Urls|
 |[all_subdomains.txt](/DutchGovScope/data/irealisatie.nl/all_subdomains.txt)|19|All found subdomains (history)|
 
 
@@ -45,7 +45,12 @@ tags: dutchgov
 |[https://static.test.dpr.irealisatie.nl](https://static.test.dpr.irealisatie.nl)| | **B**|Apache| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS||
 |[https://web.test.dpr.irealisatie.nl](https://web.test.dpr.irealisatie.nl)| | **B**|Apache| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server Basic HSTS|401 Unauthorized|
 |[https://helpdesk.irealisatie.nl](https://helpdesk.irealisatie.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS||
-|[https://www.irealisatie.nl](https://www.irealisatie.nl)| | **A**|Apache| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |Apache HTTP Server Basic HSTS|401 Unauthorized|
+|[https://www.irealisatie.nl](https://www.irealisatie.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS|iRealisatie  - W...|
 |[https://nextcloud.irealisatie.nl](https://nextcloud.irealisatie.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nextcloud PHP||
-|[https://irealisatie.nl](https://irealisatie.nl)| | **A**|Apache| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |Apache HTTP Server Basic HSTS|401 Unauthorized|
+|[https://irealisatie.nl](https://irealisatie.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS|iRealisatie  - W...|
+|[http://acc.irealisatie.nl](http://acc.irealisatie.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
+|[http://gitea.irealisatie.nl](http://gitea.irealisatie.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
+|[http://taiga.irealisatie.nl](http://taiga.irealisatie.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
+|[https://mailcatch.acc.dpr.irealisatie.nl](https://mailcatch.acc.dpr.irealisatie.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS||
+|[https://mailcatch.test.dpr.irealisatie.nl](https://mailcatch.test.dpr.irealisatie.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS||
 

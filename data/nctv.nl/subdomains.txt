@@ -31,3 +31,4 @@ a-feeds.nctv.nl
 a-magazines.nctv.nl
 a-opendata.nctv.nl
 test.nctv.nl
+a-opendata.a-english.nctv.nl

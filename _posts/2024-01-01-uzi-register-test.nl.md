@@ -2,10 +2,10 @@
 layout: default
 title: "uzi-register-test.nl"
 permalink: "/dutchgov/uzi-register-test.nl.html"
-subdomains_count: 6
+subdomains_count: 7
 all_subdomains_count: 16
 urls_count: 4
-ssl_rank: 
+ssl_rank: C
 http_rank: A
 security_txt: 1
 url_link: /data/uzi-register-test.nl/urls.txt
@@ -20,14 +20,14 @@ tags: dutchgov
 ## Summary data
 
 
- - **SSL Grade**:
+ - **SSL Grade**:C
  - **HTTP Security Grade**:A
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:1
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/uzi-register-test.nl/subdomains.txt)|6|Alive subdomains|
+|[subdomains.txt](/DutchGovScope/data/uzi-register-test.nl/subdomains.txt)|7|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/uzi-register-test.nl/urls.txt)|4|Urls|
 |[all_subdomains.txt](/DutchGovScope/data/uzi-register-test.nl/all_subdomains.txt)|16|All found subdomains (history)|
 
@@ -37,8 +37,8 @@ tags: dutchgov
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://www.uzi-register-test.nl](https://www.uzi-register-test.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|301 Moved Perman...|
+|[https://www.uzi-register-test.nl](https://www.uzi-register-test.nl)| **A+**| **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|301 Moved Perman...|
 |[http://ocsp.uzi-register-test.nl](http://ocsp.uzi-register-test.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
-|[https://www.csp.uzi-register-test.nl](https://www.csp.uzi-register-test.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS|Home | Zorg CSP|
+|[https://www.csp.uzi-register-test.nl](https://www.csp.uzi-register-test.nl)| **F**| **E**|| | | | | | | | :white_check_mark: | |HSTS|Home | Zorg CSP|
 |[https://uzi-register-test.nl](https://uzi-register-test.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|301 Moved Perman...|
 

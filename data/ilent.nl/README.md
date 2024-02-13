@@ -12,7 +12,7 @@
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/ilent.nl/subdomains.txt)|56|Alive subdomains|
-|[urls.txt](/data/ilent.nl/urls.txt)|20|Urls|
+|[urls.txt](/data/ilent.nl/urls.txt)|21|Urls|
 |[all_subdomains.txt](/data/ilent.nl/all_subdomains.txt)|87|All found subdomains (history)|
 
 
@@ -23,7 +23,6 @@
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[https://acc.data.ilent.nl](https://acc.data.ilent.nl)| **F**| **E**|| | | | | | | | :white_check_mark: | |||
 |[https://acc.e-loket.ilent.nl](https://acc.e-loket.ilent.nl)| **A**| **E**||:white_check_mark: | | | | | :white_check_mark: | | :white_check_mark: | ||IIS Windows Serv...|
-|[http://acc.inspecteur.ilent.nl](http://acc.inspecteur.ilent.nl)| | **F**|Microsoft-IIS/8.5| | | | | | | | :white_check_mark: | |IIS:8.5 Microsoft ASP.NET Windows Server|Onderhoud|
 |[https://acceptatie.wio.ilent.nl](https://acceptatie.wio.ilent.nl)| **B**| **F**|Microsoft-IIS/10.0| | | | | | | | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server|IIS Windows Serv...|
 |[https://data.ilent.nl](https://data.ilent.nl)| **A**| **A**||:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://e-loket.ilent.nl](https://e-loket.ilent.nl)| **A+**| **A**||:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS|Object moved|
@@ -41,4 +40,6 @@
 |[https://wio.ilent.nl](https://wio.ilent.nl)| **A**| **F**|Microsoft-IIS/10.0| | | | | | | | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server|IIS Windows Serv...|
 |[https://www.ilent.nl](https://www.ilent.nl)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Home | Inspectie...|
 |[https://ilent.nl](https://ilent.nl)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
+|[https://staging.meldingen.ilent.nl](https://staging.meldingen.ilent.nl)| | **F**|openresty/1.25.3.1| | | | | | | | :white_check_mark: | |Nginx OpenResty:1.25.3.1|301 Moved Perman...|
+|[https://meldingen.ilent.nl](https://meldingen.ilent.nl)| | **F**|openresty/1.25.3.1| | | | | | | | :white_check_mark: | |Nginx OpenResty:1.25.3.1|301 Moved Perman...|
 

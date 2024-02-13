@@ -5,3 +5,4 @@ it-academieoverheid.nl
 leerplatform.it-academieoverheid.nl
 a-opendata.it-academieoverheid.nl
 a-www.it-academieoverheid.nl
+a-feeds.it-academieoverheid.nl

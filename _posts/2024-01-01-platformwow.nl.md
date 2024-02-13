@@ -4,10 +4,10 @@ title: "platformwow.nl"
 permalink: "/dutchgov/platformwow.nl.html"
 subdomains_count: 19
 all_subdomains_count: 21
-urls_count: 15
+urls_count: 14
 ssl_rank: 
 http_rank: D
-security_txt: 1
+security_txt: 0
 url_link: /data/platformwow.nl/urls.txt
 all_subdomains_link: /data/platformwow.nl/all_subdomains.txt
 subdomains_link: /data/platformwow.nl/subdomains.txt
@@ -22,13 +22,13 @@ tags: dutchgov
 
  - **SSL Grade**:
  - **HTTP Security Grade**:D
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:1
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:0
 
 
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/DutchGovScope/data/platformwow.nl/subdomains.txt)|19|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/platformwow.nl/urls.txt)|15|Urls|
+|[urls.txt](/DutchGovScope/data/platformwow.nl/urls.txt)|14|Urls|
 |[all_subdomains.txt](/DutchGovScope/data/platformwow.nl/all_subdomains.txt)|21|All found subdomains (history)|
 
 
@@ -50,6 +50,5 @@ tags: dutchgov
 |[https://formulieren.platformwow.nl](https://formulieren.platformwow.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|Powerful tool fo...|
 |[https://nieuw.platformwow.nl](https://nieuw.platformwow.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
 |[https://pop.platformwow.nl](https://pop.platformwow.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
-|[http://mail.platformwow.nl](http://mail.platformwow.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server Varnish:6.1|TransIP - Reserv...|
 |[https://webmail.platformwow.nl](https://webmail.platformwow.nl)| | **F**|Apache/2.4.25 (Debian) mod_fastcgi/mod_fastcgi-SNAP-0910052141| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.25 Debian mod_fastcgi|TransIP Webmail...|
 

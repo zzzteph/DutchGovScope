@@ -13,3 +13,10 @@ https://cwww.perined.nl
 https://15assets.perined.nl
 https://followup.perined.nl
 https://sets.perined.nl
+https://e2e1.info.perined.nl
+https://1311.perined.nl
+https://scars.perined.nl
+https://evaluatie.perined.nl
+http://autodiscover.perined.nl
+http://localhost.perined.nl
+https://webmail.perined.nl

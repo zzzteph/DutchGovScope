@@ -15,3 +15,5 @@ a-www.wrr.nl
 i-www.wrr.nl
 o-www.wrr.nl
 t-www.wrr.nl
+a-opendata.a-english.wrr.nl
+a-opendata.wrr.nl

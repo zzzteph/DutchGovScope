@@ -3,8 +3,8 @@ layout: default
 title: "officielebekendmakingen.nl"
 permalink: "/dutchgov/officielebekendmakingen.nl.html"
 subdomains_count: 28
-all_subdomains_count: 66
-urls_count: 14
+all_subdomains_count: 67
+urls_count: 15
 ssl_rank: 
 http_rank: B
 security_txt: 1
@@ -28,8 +28,8 @@ tags: dutchgov
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/DutchGovScope/data/officielebekendmakingen.nl/subdomains.txt)|28|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/officielebekendmakingen.nl/urls.txt)|14|Urls|
-|[all_subdomains.txt](/DutchGovScope/data/officielebekendmakingen.nl/all_subdomains.txt)|66|All found subdomains (history)|
+|[urls.txt](/DutchGovScope/data/officielebekendmakingen.nl/urls.txt)|15|Urls|
+|[all_subdomains.txt](/DutchGovScope/data/officielebekendmakingen.nl/all_subdomains.txt)|67|All found subdomains (history)|
 
 
 ## Statistics
@@ -51,4 +51,5 @@ tags: dutchgov
 |[https://officielebekendmakingen.nl](https://officielebekendmakingen.nl)| | **A**|BigIP|:warning: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |F5 BigIP HSTS||
 |[https://zoek-preprod.officielebekendmakingen.nl](https://zoek-preprod.officielebekendmakingen.nl)| | **C**||:warning: |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS||
 |[https://www-preprod.officielebekendmakingen.nl](https://www-preprod.officielebekendmakingen.nl)| | **C**||:warning: |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS Microsoft ASP.NET|Zoeken in alle d...|
+|[http://localhost.officielebekendmakingen.nl](http://localhost.officielebekendmakingen.nl)| | **D**|nginx| | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Nginx|Welcome to nginx...|
 

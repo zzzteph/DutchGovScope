@@ -5,3 +5,6 @@ www.pkioverheid.nl
 pkioverheid.nl
 domorganisatieservicesocsp-g3.pkioverheid.nl
 rootocsp-g3.pkioverheid.nl
+oid.pkioverheid.nl
+cp.pkioverheid.nl
+por.pkioverheid.nl

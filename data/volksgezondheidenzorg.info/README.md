@@ -4,7 +4,7 @@
 ## Summary data
 
 
- - **SSL Grade**:
+ - **SSL Grade**:A+
  - **HTTP Security Grade**:C
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:4
 
@@ -25,9 +25,9 @@
 |[http://acceptatie.costofillnesstool.volksgezondheidenzorg.info](http://acceptatie.costofillnesstool.volksgezondheidenzorg.info)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[http://acceptatie.kostenvanziektentool.volksgezondheidenzorg.info](http://acceptatie.kostenvanziektentool.volksgezondheidenzorg.info)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://costofillnesstool.volksgezondheidenzorg.info](https://costofillnesstool.volksgezondheidenzorg.info)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |||
-|[https://kostenvanziektentool.volksgezondheidenzorg.info](https://kostenvanziektentool.volksgezondheidenzorg.info)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |||
+|[https://kostenvanziektentool.volksgezondheidenzorg.info](https://kostenvanziektentool.volksgezondheidenzorg.info)| **A**| **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |||
 |[http://test.volksgezondheidenzorg.info](http://test.volksgezondheidenzorg.info)| | **E**|| | | | | | | | :white_check_mark: | |||
-|[https://www.volksgezondheidenzorg.info](https://www.volksgezondheidenzorg.info)| | **A**|Apache| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS|301 Moved Perman...|
-|[https://volksgezondheidenzorg.info](https://volksgezondheidenzorg.info)| | **A**|Apache| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS|301 Moved Perman...|
+|[https://www.volksgezondheidenzorg.info](https://www.volksgezondheidenzorg.info)| **A+**| **A**|Apache| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS|301 Moved Perman...|
+|[https://volksgezondheidenzorg.info](https://volksgezondheidenzorg.info)| **A+**| **A**|Apache| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS|301 Moved Perman...|
 |[http://localhost.volksgezondheidenzorg.info](http://localhost.volksgezondheidenzorg.info)| | **D**|nginx| | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Nginx|Welcome to nginx...|
 

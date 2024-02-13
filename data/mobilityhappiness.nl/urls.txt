@@ -4,3 +4,5 @@ https://www.mobilityhappiness.nl
 https://www.development.mobilityhappiness.nl
 https://www.mobiliteitsalliantie.mobilityhappiness.nl
 https://mobilityhappiness.nl
+https://autodiscover.mobilityhappiness.nl
+http://ftp.mobilityhappiness.nl

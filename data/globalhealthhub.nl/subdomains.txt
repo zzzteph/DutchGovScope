@@ -10,3 +10,4 @@ a-feeds.a-english.globalhealthhub.nl
 a-feeds.globalhealthhub.nl
 a-opendata.a-english.globalhealthhub.nl
 a-opendata.globalhealthhub.nl
+a-www.globalhealthhub.nl

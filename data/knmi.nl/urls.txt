@@ -59,3 +59,4 @@ https://mqtt.dataplatform.knmi.nl
 https://origin.klimaatscenarios-data.knmi.nl
 https://anonymous.api.dataplatform.knmi.nl
 https://cms-origin.klimaatscenarios-data.knmi.nl
+https://cdn.klimaatscenarios-data.knmi.nl

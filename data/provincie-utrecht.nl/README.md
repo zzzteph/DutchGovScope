@@ -11,9 +11,9 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/provincie-utrecht.nl/subdomains.txt)|112|Alive subdomains|
+|[subdomains.txt](/data/provincie-utrecht.nl/subdomains.txt)|113|Alive subdomains|
 |[urls.txt](/data/provincie-utrecht.nl/urls.txt)|94|Urls|
-|[all_subdomains.txt](/data/provincie-utrecht.nl/all_subdomains.txt)|187|All found subdomains (history)|
+|[all_subdomains.txt](/data/provincie-utrecht.nl/all_subdomains.txt)|188|All found subdomains (history)|
 
 
 ## Statistics
@@ -93,7 +93,7 @@
 |[https://ruimtelijkeplannen.provincie-utrecht.nl](https://ruimtelijkeplannen.provincie-utrecht.nl)| | **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |Bootstrap HSTS Nginx|Plannenviewer Pr...|
 |[https://omgevingswet.provincie-utrecht.nl](https://omgevingswet.provincie-utrecht.nl)| | **A**|Apache| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
 |[https://monitorklimaatadaptatie.provincie-utrecht.nl](https://monitorklimaatadaptatie.provincie-utrecht.nl)| | **F**|nginx/1.24.0| | | | | | | | :white_check_mark: | |Google Tag Manager MySQL Nginx:1.24.0 PHP WordPress:6.0.2|Monitoring Klima...|
-|[https://sslvpn-hth.provincie-utrecht.nl](https://sslvpn-hth.provincie-utrecht.nl)| | **F**|xxxxxxxx-xxxxx| | | | | | | | :white_check_mark: | |HSTS||
+|[https://sslvpn-hth.provincie-utrecht.nl](https://sslvpn-hth.provincie-utrecht.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||
 |[https://search.provincie-utrecht.nl](https://search.provincie-utrecht.nl)| | **B**|nginx/1.18.0 (Ubuntu)|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx:1.18.0 Ubuntu||
 |[https://search-a.provincie-utrecht.nl](https://search-a.provincie-utrecht.nl)| | **E**|nginx/1.18.0 (Ubuntu)|:o: |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Nginx:1.18.0 Ubuntu|Redirecting to h...|
 |[https://geofme-test.provincie-utrecht.nl](https://geofme-test.provincie-utrecht.nl)| | **D**|Apache|:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | |Apache HTTP Server HSTS Java||
@@ -104,7 +104,7 @@
 |[https://octopus-docs.provincie-utrecht.nl](https://octopus-docs.provincie-utrecht.nl)| | **F**||:white_check_mark: | | | | | | | :white_check_mark: | |Azure Azure Front Door Microsoft ASP.NET||
 |[https://octopus.provincie-utrecht.nl](https://octopus.provincie-utrecht.nl)| | **A**||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Azure Azure Front Door Azure Monitor HSTS|Object moved|
 |[https://erfgoedexpertteam.provincie-utrecht.nl](https://erfgoedexpertteam.provincie-utrecht.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|Website not conf...|
-|[https://monitoromgevingsbeleid.provincie-utrecht.nl](https://monitoromgevingsbeleid.provincie-utrecht.nl)| | **A**|Microsoft-IIS/10.0|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Amazon S3 Amazon Web Services Azure Edge Network HSTS IIS:10.0 Microsoft ASP.NET:4.0.30319 MyFonts Windows Server|Home - Monitor o...|
+|[https://monitoromgevingsbeleid.provincie-utrecht.nl](https://monitoromgevingsbeleid.provincie-utrecht.nl)| | **A**|Microsoft-IIS/10.0|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Amazon S3 Amazon Web Services Azure Edge Network HSTS IIS:10.0 Microsoft ASP.NET MyFonts Windows Server|Home - Monitor o...|
 |[https://omgevingsbeleid.provincie-utrecht.nl](https://omgevingsbeleid.provincie-utrecht.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://zsd.provincie-utrecht.nl](https://zsd.provincie-utrecht.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS Java||
 |[https://ib.provincie-utrecht.nl](https://ib.provincie-utrecht.nl)| | **E**|| | | | | | | | :white_check_mark: | ||404 Not Found|

@@ -10,3 +10,4 @@ enterpriseenrollment.klimaatakkoord.nl
 enterpriseregistration.klimaatakkoord.nl
 i-www.klimaatakkoord.nl
 o-www.klimaatakkoord.nl
+t-www.klimaatakkoord.nl

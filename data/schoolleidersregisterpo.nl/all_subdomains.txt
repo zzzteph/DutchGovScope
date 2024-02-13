@@ -33,3 +33,4 @@ a-www.schoolleidersregisterpo.nl
 enterpriseenrollment.schoolleidersregisterpo.nl
 enterpriseregistration.schoolleidersregisterpo.nl
 mail.schoolleidersregisterpo.nl
+aanmelder.schoolleidersregisterpo.nl

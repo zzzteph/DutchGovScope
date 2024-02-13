@@ -20,3 +20,4 @@ a-opendata.nationaalcoordinatorgroningen.nl
 o-www.nationaalcoordinatorgroningen.nl
 t-www.nationaalcoordinatorgroningen.nl
 intranet-tst.nationaalcoordinatorgroningen.nl
+i-www.nationaalcoordinatorgroningen.nl

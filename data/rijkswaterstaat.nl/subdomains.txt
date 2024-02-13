@@ -124,3 +124,4 @@ alliant.rijkswaterstaat.nl
 acceptatie.rijkswaterstaat.nl
 wifi1.rijkswaterstaat.nl
 wifi2.rijkswaterstaat.nl
+sawa.rijkswaterstaat.nl

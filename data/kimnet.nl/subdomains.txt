@@ -10,3 +10,4 @@ a-english.kimnet.nl
 a-feeds.a-english.kimnet.nl
 a-feeds.kimnet.nl
 a-opendata.kimnet.nl
+a-opendata.a-english.kimnet.nl

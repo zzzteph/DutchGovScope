@@ -2,8 +2,8 @@
 layout: default
 title: "nationalacademy.nl"
 permalink: "/dutchgov/nationalacademy.nl.html"
-subdomains_count: 6
-all_subdomains_count: 6
+subdomains_count: 7
+all_subdomains_count: 7
 urls_count: 4
 ssl_rank: A+
 http_rank: A
@@ -27,9 +27,9 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/nationalacademy.nl/subdomains.txt)|6|Alive subdomains|
+|[subdomains.txt](/DutchGovScope/data/nationalacademy.nl/subdomains.txt)|7|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/nationalacademy.nl/urls.txt)|4|Urls|
-|[all_subdomains.txt](/DutchGovScope/data/nationalacademy.nl/all_subdomains.txt)|6|All found subdomains (history)|
+|[all_subdomains.txt](/DutchGovScope/data/nationalacademy.nl/all_subdomains.txt)|7|All found subdomains (history)|
 
 
 ## Statistics
@@ -40,5 +40,5 @@ tags: dutchgov
 |[https://feeds.nationalacademy.nl](https://feeds.nationalacademy.nl)| **A+**| **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://opendata.nationalacademy.nl](https://opendata.nationalacademy.nl)| **A+**| **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://www.nationalacademy.nl](https://www.nationalacademy.nl)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Home | National...|
-|[https://nationalacademy.nl](https://nationalacademy.nl)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
+|[https://nationalacademy.nl](https://nationalacademy.nl)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
 

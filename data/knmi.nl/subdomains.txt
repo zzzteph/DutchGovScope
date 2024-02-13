@@ -134,7 +134,6 @@ netauth.knmi.nl
 nmdc.knmi.nl
 nmdcacc.knmi.nl
 nmdctest.knmi.nl
-ns1.knmi.nl
 oldwww.knmi.nl
 opendap-dm1.knmi.nl
 opendap-dm2.knmi.nl

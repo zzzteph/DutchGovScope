@@ -10,7 +10,6 @@ https://beeldbank.hhdelfland.nl
 https://burgerloket.hhdelfland.nl
 https://hhdelfland.nl
 http://autodiscover.hhdelfland.nl
-https://connect.hhdelfland.nl
 https://samenwerkingsportaaltest.hhdelfland.nl
 https://samenwerkingsportaalcms.hhdelfland.nl
 https://sts.hhdelfland.nl

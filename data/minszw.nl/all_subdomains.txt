@@ -77,3 +77,4 @@ dvs-qas.minszw.nl
 ftp.minszw.nl
 webmail.minszw.nl
 www.caobank.minszw.nl
+onva-3f.minszw.nl

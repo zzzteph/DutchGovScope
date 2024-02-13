@@ -11,7 +11,7 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/it-academieoverheid.nl/subdomains.txt)|7|Alive subdomains|
+|[subdomains.txt](/data/it-academieoverheid.nl/subdomains.txt)|8|Alive subdomains|
 |[urls.txt](/data/it-academieoverheid.nl/urls.txt)|5|Urls|
 |[all_subdomains.txt](/data/it-academieoverheid.nl/all_subdomains.txt)|15|All found subdomains (history)|
 

@@ -14,3 +14,5 @@ gitea.irealisatie.nl
 noc.irealisatie.nl
 outgoing.irealisatie.nl
 taiga.irealisatie.nl
+mailcatch.acc.dpr.irealisatie.nl
+mailcatch.test.dpr.irealisatie.nl

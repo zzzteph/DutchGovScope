@@ -1,7 +1,6 @@
 https://acceptatie.sawa-vth.nl
 http://genconnector.sawa-vth.nl
 https://genconnector-acceptatie.sawa-vth.nl
-https://genconnector-test.sawa-vth.nl
 https://map.sawa-vth.nl
 https://map-acceptatie.sawa-vth.nl
 https://office.sawa-vth.nl

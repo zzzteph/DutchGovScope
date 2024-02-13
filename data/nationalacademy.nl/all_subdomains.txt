@@ -4,3 +4,4 @@ www.nationalacademy.nl
 nationalacademy.nl
 a-www.nationalacademy.nl
 a-feeds.nationalacademy.nl
+a-opendata.nationalacademy.nl

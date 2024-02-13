@@ -3,7 +3,7 @@ layout: default
 title: "helpdesk-efactureren.nl"
 permalink: "/dutchgov/helpdesk-efactureren.nl.html"
 subdomains_count: 3
-all_subdomains_count: 13
+all_subdomains_count: 14
 urls_count: 3
 ssl_rank: 
 http_rank: C
@@ -29,7 +29,7 @@ tags: dutchgov
 |------------|-------|------|
 |[subdomains.txt](/DutchGovScope/data/helpdesk-efactureren.nl/subdomains.txt)|3|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/helpdesk-efactureren.nl/urls.txt)|3|Urls|
-|[all_subdomains.txt](/DutchGovScope/data/helpdesk-efactureren.nl/all_subdomains.txt)|13|All found subdomains (history)|
+|[all_subdomains.txt](/DutchGovScope/data/helpdesk-efactureren.nl/all_subdomains.txt)|14|All found subdomains (history)|
 
 
 ## Statistics

@@ -12,7 +12,7 @@
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/kennisnetwerkspv.nl/subdomains.txt)|3|Alive subdomains|
-|[urls.txt](/data/kennisnetwerkspv.nl/urls.txt)|2|Urls|
+|[urls.txt](/data/kennisnetwerkspv.nl/urls.txt)|3|Urls|
 |[all_subdomains.txt](/data/kennisnetwerkspv.nl/all_subdomains.txt)|3|All found subdomains (history)|
 
 
@@ -23,4 +23,5 @@
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[https://www.kennisnetwerkspv.nl](https://www.kennisnetwerkspv.nl)| | **A**|Microsoft-IIS/10.0|:warning: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Azure Google Tag Manager HSTS IIS:10.0 Kentico CMS Microsoft ASP.NET Windows Server|Home - Kennisnet...|
 |[https://kennisnetwerkspv.nl](https://kennisnetwerkspv.nl)| | **A**|Microsoft-IIS/10.0|:warning: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Azure Google Tag Manager HSTS IIS:10.0 Kentico CMS Microsoft ASP.NET Windows Server|Home - Kennisnet...|
+|[http://autodiscover.kennisnetwerkspv.nl](http://autodiscover.kennisnetwerkspv.nl)| | **B**|Microsoft-IIS/10.0|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server||
 

@@ -13,3 +13,4 @@ https://www-acceptatie2.werkenbijdeoverheid.nl
 https://www-sandbox.werkenbijdeoverheid.nl
 http://www-test2.werkenbijdeoverheid.nl
 https://werkenbijdeoverheid.nl
+https://sandbox.werkenbijdeoverheid.nl

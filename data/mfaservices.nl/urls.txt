@@ -56,4 +56,3 @@ https://dev.cdn.consular.mfaservices.nl
 https://snd.cdn.consular.mfaservices.nl
 https://tst.cdn.consular.mfaservices.nl
 https://url9097.consular.mfaservices.nl
-https://dev.sq.mfaservices.nl

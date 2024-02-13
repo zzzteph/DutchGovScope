@@ -57,7 +57,7 @@ https://om-ont.topdesk.odc-noord.nl
 https://om.topdesk.odc-noord.nl
 https://omdemo.topdesk.odc-noord.nl
 https://paas-portal.odc-noord.nl
-https://pgb-acc.confluence.odc-noord.nl
+http://pgb-acc.confluence.odc-noord.nl
 https://pgb-acc.topdesk.odc-noord.nl
 https://pgb-iam.odc-noord.nl
 https://pgb-prd.confluence.odc-noord.nl
@@ -90,3 +90,5 @@ https://www.odc-noord.nl
 https://vpn.gn2.koop-pp.odc-noord.nl
 https://odc-noord.nl
 https://vpn.ocw.odc-noord.nl
+https://rw-iene-prd.topdesk.odc-noord.nl
+https://rw-iene-acc.topdesk.odc-noord.nl

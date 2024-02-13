@@ -2,12 +2,12 @@
 layout: default
 title: "minjenv-events.nl"
 permalink: "/dutchgov/minjenv-events.nl.html"
-subdomains_count: 28
-all_subdomains_count: 28
-urls_count: 26
+subdomains_count: 29
+all_subdomains_count: 29
+urls_count: 29
 ssl_rank: 
 http_rank: A
-security_txt: 26
+security_txt: 29
 url_link: /data/minjenv-events.nl/urls.txt
 all_subdomains_link: /data/minjenv-events.nl/all_subdomains.txt
 subdomains_link: /data/minjenv-events.nl/subdomains.txt
@@ -22,14 +22,14 @@ tags: dutchgov
 
  - **SSL Grade**:
  - **HTTP Security Grade**:A
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:26
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:29
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/minjenv-events.nl/subdomains.txt)|28|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/minjenv-events.nl/urls.txt)|26|Urls|
-|[all_subdomains.txt](/DutchGovScope/data/minjenv-events.nl/all_subdomains.txt)|28|All found subdomains (history)|
+|[subdomains.txt](/DutchGovScope/data/minjenv-events.nl/subdomains.txt)|29|Alive subdomains|
+|[urls.txt](/DutchGovScope/data/minjenv-events.nl/urls.txt)|29|Urls|
+|[all_subdomains.txt](/DutchGovScope/data/minjenv-events.nl/all_subdomains.txt)|29|All found subdomains (history)|
 
 
 ## Statistics
@@ -63,4 +63,7 @@ tags: dutchgov
 |[https://svsdigitaalplein.minjenv-events.nl](https://svsdigitaalplein.minjenv-events.nl)| | **A**|nginx| |:white_check_mark: | :warning:| |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx Plesk||
 |[https://werkconferentierechtsbijstandbijdetijd.minjenv-events.nl](https://werkconferentierechtsbijstandbijdetijd.minjenv-events.nl)| | **A**|nginx| |:white_check_mark: | :warning:| |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx Plesk||
 |[https://wodc50jaar.minjenv-events.nl](https://wodc50jaar.minjenv-events.nl)| | **A**|nginx| |:white_check_mark: | :warning:| |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx Plesk||
+|[https://sptm2024.minjenv-events.nl](https://sptm2024.minjenv-events.nl)| | **A**|nginx| |:white_check_mark: | :warning:| |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx Plesk||
+|[https://jenvcarriereevent2023.minjenv-events.nl](https://jenvcarriereevent2023.minjenv-events.nl)| | **A**|nginx| |:white_check_mark: | :warning:| |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx Plesk||
+|[https://lhc2024.minjenv-events.nl](https://lhc2024.minjenv-events.nl)| | **A**|nginx| |:white_check_mark: | :warning:| |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx Plesk||
 

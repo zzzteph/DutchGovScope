@@ -4,7 +4,7 @@ title: "one-conference.nl"
 permalink: "/dutchgov/one-conference.nl.html"
 subdomains_count: 15
 all_subdomains_count: 16
-urls_count: 12
+urls_count: 15
 ssl_rank: 
 http_rank: C
 security_txt: 3
@@ -28,7 +28,7 @@ tags: dutchgov
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/DutchGovScope/data/one-conference.nl/subdomains.txt)|15|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/one-conference.nl/urls.txt)|12|Urls|
+|[urls.txt](/DutchGovScope/data/one-conference.nl/urls.txt)|15|Urls|
 |[all_subdomains.txt](/DutchGovScope/data/one-conference.nl/all_subdomains.txt)|16|All found subdomains (history)|
 
 
@@ -49,4 +49,7 @@ tags: dutchgov
 |[https://www.stats.one-conference.nl](https://www.stats.one-conference.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS||
 |[https://one-conference.nl](https://one-conference.nl)| | **A**|Apache| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS MySQL PHP WordPress Yoast SEO:21.0|Home - One Confe...|
 |[https://wcag-2.1-inspectie-www.one-conference.nl](https://wcag-2.1-inspectie-www.one-conference.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS||
+|[https://aanmelder.one-conference.nl](https://aanmelder.one-conference.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|404 Not Found|
+|[http://autodiscover.one-conference.nl](http://autodiscover.one-conference.nl)| | **B**|Microsoft-IIS/10.0|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server||
+|[https://dev.registration.one-conference.nl](https://dev.registration.one-conference.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|Momice|
 

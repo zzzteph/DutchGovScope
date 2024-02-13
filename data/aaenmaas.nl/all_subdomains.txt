@@ -72,3 +72,4 @@ tunnel1.aaenmaas.nl
 tunnel2.aaenmaas.nl
 vpn.aaenmaas.nl
 wik.aaenmaas.nl
+maps2.aaenmaas.nl

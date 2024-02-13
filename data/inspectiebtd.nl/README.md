@@ -11,7 +11,7 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/inspectiebtd.nl/subdomains.txt)|6|Alive subdomains|
+|[subdomains.txt](/data/inspectiebtd.nl/subdomains.txt)|7|Alive subdomains|
 |[urls.txt](/data/inspectiebtd.nl/urls.txt)|4|Urls|
 |[all_subdomains.txt](/data/inspectiebtd.nl/all_subdomains.txt)|7|All found subdomains (history)|
 

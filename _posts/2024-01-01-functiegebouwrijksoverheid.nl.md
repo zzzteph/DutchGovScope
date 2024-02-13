@@ -4,7 +4,7 @@ title: "functiegebouwrijksoverheid.nl"
 permalink: "/dutchgov/functiegebouwrijksoverheid.nl.html"
 subdomains_count: 6
 all_subdomains_count: 10
-urls_count: 5
+urls_count: 6
 ssl_rank: 
 http_rank: C
 security_txt: 2
@@ -28,7 +28,7 @@ tags: dutchgov
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/DutchGovScope/data/functiegebouwrijksoverheid.nl/subdomains.txt)|6|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/functiegebouwrijksoverheid.nl/urls.txt)|5|Urls|
+|[urls.txt](/DutchGovScope/data/functiegebouwrijksoverheid.nl/urls.txt)|6|Urls|
 |[all_subdomains.txt](/DutchGovScope/data/functiegebouwrijksoverheid.nl/all_subdomains.txt)|10|All found subdomains (history)|
 
 
@@ -42,4 +42,5 @@ tags: dutchgov
 |[https://odc.functiegebouwrijksoverheid.nl](https://odc.functiegebouwrijksoverheid.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
 |[https://www.functiegebouwrijksoverheid.nl](https://www.functiegebouwrijksoverheid.nl)| | **B**|cloudflare|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach Bootstrap:4.3.1 Cloudflare Google Tag Manager HSTS|Home - Functiege...|
 |[https://functiegebouwrijksoverheid.nl](https://functiegebouwrijksoverheid.nl)| | **B**|cloudflare|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Cloudflare HSTS||
+|[https://sandbox.functiegebouwrijksoverheid.nl](https://sandbox.functiegebouwrijksoverheid.nl)| | **D**|cloudflare|:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | |Basic Cloudflare HSTS|Authentication R...|
 

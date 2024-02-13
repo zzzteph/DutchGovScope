@@ -4,3 +4,4 @@ www.ikvermoedhuiselijkgeweld.nl
 ikvermoedhuiselijkgeweld.nl
 a-feeds.ikvermoedhuiselijkgeweld.nl
 a-opendata.ikvermoedhuiselijkgeweld.nl
+a-www.ikvermoedhuiselijkgeweld.nl

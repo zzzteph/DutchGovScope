@@ -4,7 +4,7 @@
 ## Summary data
 
 
- - **SSL Grade**:
+ - **SSL Grade**:A-
  - **HTTP Security Grade**:A
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:5
 
@@ -22,9 +22,9 @@
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[https://feeds.puurrookvrij.nl](https://feeds.puurrookvrij.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
-|[https://opendata.puurrookvrij.nl](https://opendata.puurrookvrij.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
-|[https://postergenerator.puurrookvrij.nl](https://postergenerator.puurrookvrij.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|Maak uw eigen PU...|
-|[https://www.puurrookvrij.nl](https://www.puurrookvrij.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Puur Rookvrij –...|
-|[https://server01.puurrookvrij.nl](https://server01.puurrookvrij.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx||
-|[https://puurrookvrij.nl](https://puurrookvrij.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
+|[https://opendata.puurrookvrij.nl](https://opendata.puurrookvrij.nl)| **A+**| **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
+|[https://postergenerator.puurrookvrij.nl](https://postergenerator.puurrookvrij.nl)| **A+**| **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|Maak uw eigen PU...|
+|[https://www.puurrookvrij.nl](https://www.puurrookvrij.nl)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Puur Rookvrij –...|
+|[https://server01.puurrookvrij.nl](https://server01.puurrookvrij.nl)| **F**| **F**|nginx| | | | | | | | :white_check_mark: | |Nginx||
+|[https://puurrookvrij.nl](https://puurrookvrij.nl)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
 

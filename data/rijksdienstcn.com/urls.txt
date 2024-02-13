@@ -3,7 +3,6 @@ https://www.rijksdienstcn.com
 https://vpnbon.rijksdienstcn.com
 https://fs.rijksdienstcn.com
 https://papiamentu.rijksdienstcn.com
-https://push.rijksdienstcn.com
 https://feeds.papiamentu.rijksdienstcn.com
 https://portal.rijksdienstcn.com
 https://fileshare.rijksdienstcn.com

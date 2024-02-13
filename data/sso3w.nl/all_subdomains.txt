@@ -28,3 +28,4 @@ a-feeds.sso3w.nl
 a-magazines.sso3w.nl
 a-opendata.a-english.sso3w.nl
 a-www.sso3w.nl
+a-opendata.sso3w.nl

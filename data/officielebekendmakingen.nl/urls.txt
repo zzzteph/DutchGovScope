@@ -12,3 +12,4 @@ https://zoek.officielebekendmakingen.nl
 https://officielebekendmakingen.nl
 https://zoek-preprod.officielebekendmakingen.nl
 https://www-preprod.officielebekendmakingen.nl
+http://localhost.officielebekendmakingen.nl

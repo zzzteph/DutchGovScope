@@ -11,7 +11,7 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/onderwijsinspectie.nl/subdomains.txt)|20|Alive subdomains|
+|[subdomains.txt](/data/onderwijsinspectie.nl/subdomains.txt)|21|Alive subdomains|
 |[urls.txt](/data/onderwijsinspectie.nl/urls.txt)|14|Urls|
 |[all_subdomains.txt](/data/onderwijsinspectie.nl/all_subdomains.txt)|28|All found subdomains (history)|
 

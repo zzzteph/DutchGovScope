@@ -11,9 +11,9 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/nationalacademy.nl/subdomains.txt)|6|Alive subdomains|
+|[subdomains.txt](/data/nationalacademy.nl/subdomains.txt)|7|Alive subdomains|
 |[urls.txt](/data/nationalacademy.nl/urls.txt)|4|Urls|
-|[all_subdomains.txt](/data/nationalacademy.nl/all_subdomains.txt)|6|All found subdomains (history)|
+|[all_subdomains.txt](/data/nationalacademy.nl/all_subdomains.txt)|7|All found subdomains (history)|
 
 
 ## Statistics
@@ -24,5 +24,5 @@
 |[https://feeds.nationalacademy.nl](https://feeds.nationalacademy.nl)| **A+**| **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://opendata.nationalacademy.nl](https://opendata.nationalacademy.nl)| **A+**| **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://www.nationalacademy.nl](https://www.nationalacademy.nl)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Home | National...|
-|[https://nationalacademy.nl](https://nationalacademy.nl)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
+|[https://nationalacademy.nl](https://nationalacademy.nl)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
 

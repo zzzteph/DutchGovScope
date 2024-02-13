@@ -1,8 +1,16 @@
 https://insite.nfi.nl
 https://training.nfi.nl
-http://nfi.nl
+https://mijn.nfi.nl
+https://www.nfi.nl
+https://ontwikkelpunt.nfi.nl
+https://testmijn.nfi.nl
+https://nfi.nl
+https://jep.nfi.nl
 https://anyconnect.nfi.nl
 https://hybrid.nfi.nl
 https://mailtestmijn.nfi.nl
 https://autodiscover.nfi.nl
 http://pm-bounces.nfi.nl
+https://link.pr.nfi.nl
+https://www.mijn.nfi.nl
+https://9120834.nfi.nl

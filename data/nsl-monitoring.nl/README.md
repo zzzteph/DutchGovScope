@@ -5,14 +5,14 @@
 
 
  - **SSL Grade**:
- - **HTTP Security Grade**:F
+ - **HTTP Security Grade**:D
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:0
 
 
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/nsl-monitoring.nl/subdomains.txt)|7|Alive subdomains|
-|[urls.txt](/data/nsl-monitoring.nl/urls.txt)|0|Urls|
+|[urls.txt](/data/nsl-monitoring.nl/urls.txt)|1|Urls|
 |[all_subdomains.txt](/data/nsl-monitoring.nl/all_subdomains.txt)|15|All found subdomains (history)|
 
 
@@ -21,4 +21,5 @@
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
+|[http://localhost.nsl-monitoring.nl](http://localhost.nsl-monitoring.nl)| | **D**|nginx| | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Nginx|Welcome to nginx...|
 

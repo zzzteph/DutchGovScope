@@ -4,9 +4,9 @@ title: "grondstoffenscanner.nl"
 permalink: "/dutchgov/grondstoffenscanner.nl.html"
 subdomains_count: 7
 all_subdomains_count: 8
-urls_count: 5
+urls_count: 7
 ssl_rank: 
-http_rank: B
+http_rank: C
 security_txt: 1
 url_link: /data/grondstoffenscanner.nl/urls.txt
 all_subdomains_link: /data/grondstoffenscanner.nl/all_subdomains.txt
@@ -21,14 +21,14 @@ tags: dutchgov
 
 
  - **SSL Grade**:
- - **HTTP Security Grade**:B
+ - **HTTP Security Grade**:C
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:1
 
 
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/DutchGovScope/data/grondstoffenscanner.nl/subdomains.txt)|7|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/grondstoffenscanner.nl/urls.txt)|5|Urls|
+|[urls.txt](/DutchGovScope/data/grondstoffenscanner.nl/urls.txt)|7|Urls|
 |[all_subdomains.txt](/DutchGovScope/data/grondstoffenscanner.nl/all_subdomains.txt)|8|All found subdomains (history)|
 
 
@@ -42,4 +42,6 @@ tags: dutchgov
 |[https://www.grondstoffenscanner.nl](https://www.grondstoffenscanner.nl)| | **A**|Microsoft-IIS/10.0| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS IIS:10.0 Windows Server|Grondstoffenscan...|
 |[https://www.acc.grondstoffenscanner.nl](https://www.acc.grondstoffenscanner.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
 |[https://grondstoffenscanner.nl](https://grondstoffenscanner.nl)| | **A**|Microsoft-IIS/10.0| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS IIS:10.0 Windows Server|Document Moved|
+|[https://tst.grondstoffenscanner.nl](https://tst.grondstoffenscanner.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
+|[https://beheer.grondstoffenscanner.nl](https://beheer.grondstoffenscanner.nl)| | **F**|Microsoft-IIS/10.0| | | | | | | | :white_check_mark: | |HSTS IIS:10.0 Windows Server|Grondstoffenscan...|
 

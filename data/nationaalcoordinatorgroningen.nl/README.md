@@ -11,9 +11,9 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/nationaalcoordinatorgroningen.nl/subdomains.txt)|22|Alive subdomains|
-|[urls.txt](/data/nationaalcoordinatorgroningen.nl/urls.txt)|11|Urls|
-|[all_subdomains.txt](/data/nationaalcoordinatorgroningen.nl/all_subdomains.txt)|34|All found subdomains (history)|
+|[subdomains.txt](/data/nationaalcoordinatorgroningen.nl/subdomains.txt)|23|Alive subdomains|
+|[urls.txt](/data/nationaalcoordinatorgroningen.nl/urls.txt)|12|Urls|
+|[all_subdomains.txt](/data/nationaalcoordinatorgroningen.nl/all_subdomains.txt)|35|All found subdomains (history)|
 
 
 ## Statistics
@@ -32,4 +32,5 @@
 |[https://opendata.nationaalcoordinatorgroningen.nl](https://opendata.nationaalcoordinatorgroningen.nl)| **A+**| **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://www.nationaalcoordinatorgroningen.nl](https://www.nationaalcoordinatorgroningen.nl)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|NCG | Nationaal...|
 |[https://nationaalcoordinatorgroningen.nl](https://nationaalcoordinatorgroningen.nl)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
+|[https://intranet-tst.nationaalcoordinatorgroningen.nl](https://intranet-tst.nationaalcoordinatorgroningen.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|403 Forbidden|
 

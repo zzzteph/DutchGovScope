@@ -12,7 +12,7 @@
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/zorginzicht.nl/subdomains.txt)|20|Alive subdomains|
-|[urls.txt](/data/zorginzicht.nl/urls.txt)|9|Urls|
+|[urls.txt](/data/zorginzicht.nl/urls.txt)|10|Urls|
 |[all_subdomains.txt](/data/zorginzicht.nl/all_subdomains.txt)|28|All found subdomains (history)|
 
 
@@ -30,4 +30,5 @@
 |[https://www-ac.zorginzicht.nl](https://www-ac.zorginzicht.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server Basic|401 Unauthorized|
 |[http://www-pr.zorginzicht.nl](http://www-pr.zorginzicht.nl)| | **F**|BigIP| | | | | | | | :white_check_mark: | |F5 BigIP||
 |[https://zorginzicht.nl](https://zorginzicht.nl)| | **B**|Apache|:white_check_mark: |:white_check_mark: | | |:warning: | | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS|301 Moved Perman...|
+|[https://pr.zorginzicht.nl](https://pr.zorginzicht.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|403 Forbidden|
 

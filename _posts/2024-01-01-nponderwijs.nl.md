@@ -2,8 +2,8 @@
 layout: default
 title: "nponderwijs.nl"
 permalink: "/dutchgov/nponderwijs.nl.html"
-subdomains_count: 7
-all_subdomains_count: 8
+subdomains_count: 8
+all_subdomains_count: 9
 urls_count: 5
 ssl_rank: A+
 http_rank: A
@@ -27,9 +27,9 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/nponderwijs.nl/subdomains.txt)|7|Alive subdomains|
+|[subdomains.txt](/DutchGovScope/data/nponderwijs.nl/subdomains.txt)|8|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/nponderwijs.nl/urls.txt)|5|Urls|
-|[all_subdomains.txt](/DutchGovScope/data/nponderwijs.nl/all_subdomains.txt)|8|All found subdomains (history)|
+|[all_subdomains.txt](/DutchGovScope/data/nponderwijs.nl/all_subdomains.txt)|9|All found subdomains (history)|
 
 
 ## Statistics
@@ -41,5 +41,5 @@ tags: dutchgov
 |[https://kennis.nponderwijs.nl](https://kennis.nponderwijs.nl)| **A+**| **C**|Apache/2| |:white_check_mark: | | | | | | :white_check_mark: | |Apache HTTP Server:2 HSTS||
 |[https://opendata.nponderwijs.nl](https://opendata.nponderwijs.nl)| **A+**| **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://www.nponderwijs.nl](https://www.nponderwijs.nl)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Home | Nationaal...|
-|[https://nponderwijs.nl](https://nponderwijs.nl)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
+|[https://nponderwijs.nl](https://nponderwijs.nl)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
 

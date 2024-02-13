@@ -12,7 +12,7 @@
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/mobiliteitsbank.nl/subdomains.txt)|12|Alive subdomains|
-|[urls.txt](/data/mobiliteitsbank.nl/urls.txt)|11|Urls|
+|[urls.txt](/data/mobiliteitsbank.nl/urls.txt)|12|Urls|
 |[all_subdomains.txt](/data/mobiliteitsbank.nl/all_subdomains.txt)|23|All found subdomains (history)|
 
 
@@ -31,5 +31,6 @@
 |[http://vacaturezoekservice-test.mobiliteitsbank.nl](http://vacaturezoekservice-test.mobiliteitsbank.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://www.mobiliteitsbank.nl](https://www.mobiliteitsbank.nl)| | **B**|cloudflare|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Cloudflare HSTS Java||
 |[https://mobiliteitsbank.nl](https://mobiliteitsbank.nl)| | **B**|cloudflare|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Cloudflare HSTS||
+|[https://sandbox.mobiliteitsbank.nl](https://sandbox.mobiliteitsbank.nl)| | **D**|cloudflare|:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | |Basic Cloudflare HSTS|Authentication R...|
 |[https://acceptatie.mobiliteitsbank.nl](https://acceptatie.mobiliteitsbank.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|403 Forbidden|
 

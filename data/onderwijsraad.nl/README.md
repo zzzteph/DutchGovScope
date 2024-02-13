@@ -11,9 +11,9 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/onderwijsraad.nl/subdomains.txt)|18|Alive subdomains|
+|[subdomains.txt](/data/onderwijsraad.nl/subdomains.txt)|19|Alive subdomains|
 |[urls.txt](/data/onderwijsraad.nl/urls.txt)|11|Urls|
-|[all_subdomains.txt](/data/onderwijsraad.nl/all_subdomains.txt)|33|All found subdomains (history)|
+|[all_subdomains.txt](/data/onderwijsraad.nl/all_subdomains.txt)|34|All found subdomains (history)|
 
 
 ## Statistics

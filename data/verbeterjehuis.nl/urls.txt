@@ -3,5 +3,5 @@ https://energyportpeelland.verbeterjehuis.nl
 https://verbeterjehuis.nl
 https://groenesubsidiewijzer.verbeterjehuis.nl
 https://cms.verbeterjehuis.nl
-http://content.verbeterjehuis.nl
+https://content.verbeterjehuis.nl
 http://localhost.verbeterjehuis.nl

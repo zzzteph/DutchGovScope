@@ -10,3 +10,6 @@ https://www.registration.one-conference.nl
 https://www.stats.one-conference.nl
 https://one-conference.nl
 https://wcag-2.1-inspectie-www.one-conference.nl
+https://aanmelder.one-conference.nl
+http://autodiscover.one-conference.nl
+https://dev.registration.one-conference.nl

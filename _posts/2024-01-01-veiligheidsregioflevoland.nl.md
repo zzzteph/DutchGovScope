@@ -2,8 +2,8 @@
 layout: default
 title: "veiligheidsregioflevoland.nl"
 permalink: "/dutchgov/veiligheidsregioflevoland.nl.html"
-subdomains_count: 91
-all_subdomains_count: 91
+subdomains_count: 191
+all_subdomains_count: 191
 urls_count: 91
 ssl_rank: 
 http_rank: F
@@ -27,9 +27,9 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/veiligheidsregioflevoland.nl/subdomains.txt)|91|Alive subdomains|
+|[subdomains.txt](/DutchGovScope/data/veiligheidsregioflevoland.nl/subdomains.txt)|191|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/veiligheidsregioflevoland.nl/urls.txt)|91|Urls|
-|[all_subdomains.txt](/DutchGovScope/data/veiligheidsregioflevoland.nl/all_subdomains.txt)|91|All found subdomains (history)|
+|[all_subdomains.txt](/DutchGovScope/data/veiligheidsregioflevoland.nl/all_subdomains.txt)|191|All found subdomains (history)|
 
 
 ## Statistics

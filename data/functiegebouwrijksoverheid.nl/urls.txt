@@ -3,3 +3,4 @@ https://csotest.functiegebouwrijksoverheid.nl
 https://odc.functiegebouwrijksoverheid.nl
 https://www.functiegebouwrijksoverheid.nl
 https://functiegebouwrijksoverheid.nl
+https://sandbox.functiegebouwrijksoverheid.nl

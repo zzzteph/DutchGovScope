@@ -3,7 +3,7 @@ layout: default
 title: "greendeals.nl"
 permalink: "/dutchgov/greendeals.nl.html"
 subdomains_count: 5
-all_subdomains_count: 5
+all_subdomains_count: 6
 urls_count: 5
 ssl_rank: 
 http_rank: C
@@ -29,7 +29,7 @@ tags: dutchgov
 |------------|-------|------|
 |[subdomains.txt](/DutchGovScope/data/greendeals.nl/subdomains.txt)|5|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/greendeals.nl/urls.txt)|5|Urls|
-|[all_subdomains.txt](/DutchGovScope/data/greendeals.nl/all_subdomains.txt)|5|All found subdomains (history)|
+|[all_subdomains.txt](/DutchGovScope/data/greendeals.nl/all_subdomains.txt)|6|All found subdomains (history)|
 
 
 ## Statistics

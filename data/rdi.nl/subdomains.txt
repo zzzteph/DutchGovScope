@@ -26,3 +26,6 @@ t-www.rdi.nl
 test.rdi.nl
 web.rdi.nl
 webmail.rdi.nl
+nox.radar.rdi.nl
+a-magazines.rdi.nl
+o-www.rdi.nl

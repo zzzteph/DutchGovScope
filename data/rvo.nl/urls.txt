@@ -28,7 +28,7 @@ http://gdi.rvo.nl
 https://geocontent.rvo.nl
 https://geoservices.rvo.nl
 https://gtpa.rvo.nl
-http://ih-static.rvo.nl
+https://ih-static.rvo.nl
 https://infographics.rvo.nl
 https://informatiehuis.rvo.nl
 https://intra.rvo.nl
@@ -74,7 +74,7 @@ https://www.mijn.rvo.nl
 https://gdi-a.rvo.nl
 http://gbatmv.rvo.nl
 https://sys-staging-mijn.rvo.nl
-https://epbdwebservices-preprod.rvo.nl
+http://epbdwebservices-preprod.rvo.nl
 https://kennisbank-tst.rvo.nl
 http://energielabel-checker.rvo.nl
 http://ezines.rvo.nl

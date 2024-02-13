@@ -25,7 +25,7 @@
 |[https://werkbezoek.minvws.nl](https://werkbezoek.minvws.nl)| **A+**| **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Index | Minister...|
 |[https://english.minvws.nl](https://english.minvws.nl)| **F**| **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|403 Forbidden|
 |[https://open.minvws.nl](https://open.minvws.nl)| **A+**| **A**|nginx| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|Home |...|
-|[https://yivi.pilot.uzi-online.minvws.nl](https://yivi.pilot.uzi-online.minvws.nl)| | **A**||:warning: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS|YIVI Disclosure|
+|[https://yivi.pilot.uzi-online.minvws.nl](https://yivi.pilot.uzi-online.minvws.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS|Server Error|
 |[https://www.minvws.nl](https://www.minvws.nl)| **A+**| **A**|Microsoft-IIS/10.0| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS IIS:10.0 Windows Server|Document Moved|
 |[https://minvws.nl](https://minvws.nl)| **A+**| **A**|Microsoft-IIS/10.0| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS IIS:10.0 Windows Server|Document Moved|
 |[https://www.vragenlijst.minvws.nl](https://www.vragenlijst.minvws.nl)| **B**| **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|301 Moved Perman...|

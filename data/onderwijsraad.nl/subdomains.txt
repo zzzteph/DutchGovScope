@@ -16,3 +16,4 @@ control.onderwijsraad.nl
 ts2.onderwijsraad.nl
 webmail.onderwijsraad.nl
 webhook.onderwijsraad.nl
+a-opendata.onderwijsraad.nl

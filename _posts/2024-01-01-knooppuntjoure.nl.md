@@ -4,7 +4,7 @@ title: "knooppuntjoure.nl"
 permalink: "/dutchgov/knooppuntjoure.nl.html"
 subdomains_count: 6
 all_subdomains_count: 6
-urls_count: 3
+urls_count: 6
 ssl_rank: 
 http_rank: F
 security_txt: 2
@@ -28,7 +28,7 @@ tags: dutchgov
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/DutchGovScope/data/knooppuntjoure.nl/subdomains.txt)|6|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/knooppuntjoure.nl/urls.txt)|3|Urls|
+|[urls.txt](/DutchGovScope/data/knooppuntjoure.nl/urls.txt)|6|Urls|
 |[all_subdomains.txt](/DutchGovScope/data/knooppuntjoure.nl/all_subdomains.txt)|6|All found subdomains (history)|
 
 
@@ -40,4 +40,7 @@ tags: dutchgov
 |[https://mail.knooppuntjoure.nl](https://mail.knooppuntjoure.nl)| | **F**|cloudflare| | | | | | | | :white_check_mark: | |Cloudflare HTTP/3||
 |[https://www.knooppuntjoure.nl](https://www.knooppuntjoure.nl)| | **F**|cloudflare| | | | | | | | :white_check_mark: | |Cloudflare HTTP/3 MySQL PHP:8.0.30 WordPress|Knooppuntjoure.n...|
 |[https://knooppuntjoure.nl](https://knooppuntjoure.nl)| | **F**|cloudflare| | | | | | | | :white_check_mark: | |Cloudflare HTTP/3 PHP:8.0.30||
+|[https://pop.knooppuntjoure.nl](https://pop.knooppuntjoure.nl)| | **F**|cloudflare| | | | | | | | :white_check_mark: | |Cloudflare HTTP/3||
+|[https://smtp.knooppuntjoure.nl](https://smtp.knooppuntjoure.nl)| | **F**|cloudflare| | | | | | | | :white_check_mark: | |Cloudflare HTTP/3||
+|[https://ftp.knooppuntjoure.nl](https://ftp.knooppuntjoure.nl)| | **F**|cloudflare| | | | | | | | :white_check_mark: | |Cloudflare HTTP/3||
 

@@ -154,3 +154,4 @@ sapi.tweedekamer.nl
 ssrpm.tweedekamer.nl
 test5.tweedekamer.nl
 tridion.tweedekamer.nl
+autoconfig.beta.tweedekamer.nl

@@ -11,9 +11,9 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/nponderwijs.nl/subdomains.txt)|7|Alive subdomains|
+|[subdomains.txt](/data/nponderwijs.nl/subdomains.txt)|8|Alive subdomains|
 |[urls.txt](/data/nponderwijs.nl/urls.txt)|5|Urls|
-|[all_subdomains.txt](/data/nponderwijs.nl/all_subdomains.txt)|8|All found subdomains (history)|
+|[all_subdomains.txt](/data/nponderwijs.nl/all_subdomains.txt)|9|All found subdomains (history)|
 
 
 ## Statistics
@@ -25,5 +25,5 @@
 |[https://kennis.nponderwijs.nl](https://kennis.nponderwijs.nl)| **A+**| **C**|Apache/2| |:white_check_mark: | | | | | | :white_check_mark: | |Apache HTTP Server:2 HSTS||
 |[https://opendata.nponderwijs.nl](https://opendata.nponderwijs.nl)| **A+**| **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://www.nponderwijs.nl](https://www.nponderwijs.nl)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Home | Nationaal...|
-|[https://nponderwijs.nl](https://nponderwijs.nl)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
+|[https://nponderwijs.nl](https://nponderwijs.nl)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
 

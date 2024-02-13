@@ -5,3 +5,4 @@ www.nponderwijs.nl
 nponderwijs.nl
 a-opendata.nponderwijs.nl
 a-www.nponderwijs.nl
+a-feeds.nponderwijs.nl

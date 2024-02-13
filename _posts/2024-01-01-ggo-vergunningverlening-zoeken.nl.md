@@ -4,7 +4,7 @@ title: "ggo-vergunningverlening-zoeken.nl"
 permalink: "/dutchgov/ggo-vergunningverlening-zoeken.nl.html"
 subdomains_count: 5
 all_subdomains_count: 6
-urls_count: 3
+urls_count: 4
 ssl_rank: 
 http_rank: E
 security_txt: 0
@@ -28,7 +28,7 @@ tags: dutchgov
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/DutchGovScope/data/ggo-vergunningverlening-zoeken.nl/subdomains.txt)|5|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/ggo-vergunningverlening-zoeken.nl/urls.txt)|3|Urls|
+|[urls.txt](/DutchGovScope/data/ggo-vergunningverlening-zoeken.nl/urls.txt)|4|Urls|
 |[all_subdomains.txt](/DutchGovScope/data/ggo-vergunningverlening-zoeken.nl/all_subdomains.txt)|6|All found subdomains (history)|
 
 
@@ -39,5 +39,6 @@ tags: dutchgov
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[http://acceptatie.ggo-vergunningverlening-zoeken.nl](http://acceptatie.ggo-vergunningverlening-zoeken.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://www.ggo-vergunningverlening-zoeken.nl](https://www.ggo-vergunningverlening-zoeken.nl)| | **D**|Microsoft-IIS/8.5|:warning: |:white_check_mark: | | | | | | :white_check_mark: | |HSTS IIS:8.5 Microsoft ASP.NET:4.0.30319 Windows Server|Grip web|
-|[https://ggo-vergunningverlening-zoeken.nl](https://ggo-vergunningverlening-zoeken.nl)| | **D**|Microsoft-IIS/8.5|:warning: |:white_check_mark: | | | | | | :white_check_mark: | |HSTS IIS:8.5 Microsoft ASP.NET Windows Server|Grip web|
+|[https://ggo-vergunningverlening-zoeken.nl](https://ggo-vergunningverlening-zoeken.nl)| | **D**|Microsoft-IIS/8.5|:warning: |:white_check_mark: | | | | | | :white_check_mark: | |HSTS IIS:8.5 Microsoft ASP.NET:4.0.30319 Windows Server|Grip web|
+|[http://localhost.ggo-vergunningverlening-zoeken.nl](http://localhost.ggo-vergunningverlening-zoeken.nl)| | **D**|nginx| | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Nginx|Welcome to nginx...|
 

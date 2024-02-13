@@ -11,9 +11,9 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/sociaalfondspersoneel.nl/subdomains.txt)|6|Alive subdomains|
+|[subdomains.txt](/data/sociaalfondspersoneel.nl/subdomains.txt)|7|Alive subdomains|
 |[urls.txt](/data/sociaalfondspersoneel.nl/urls.txt)|4|Urls|
-|[all_subdomains.txt](/data/sociaalfondspersoneel.nl/all_subdomains.txt)|6|All found subdomains (history)|
+|[all_subdomains.txt](/data/sociaalfondspersoneel.nl/all_subdomains.txt)|7|All found subdomains (history)|
 
 
 ## Statistics

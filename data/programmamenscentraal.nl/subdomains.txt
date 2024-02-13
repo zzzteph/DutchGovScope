@@ -7,3 +7,4 @@ a-feeds.programmamenscentraal.nl
 i-www.programmamenscentraal.nl
 o-www.programmamenscentraal.nl
 t-www.programmamenscentraal.nl
+a-opendata.programmamenscentraal.nl

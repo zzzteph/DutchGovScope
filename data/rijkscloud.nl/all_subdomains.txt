@@ -718,3 +718,4 @@ rvb.rijkscloud.nl
 smtp02.rijkscloud.nl
 smtp05.rijkscloud.nl
 quality-time-ldap.devops.rvb.rijkscloud.nl
+portal-performance.test.ix.rijkscloud.nl

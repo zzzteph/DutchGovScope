@@ -2,9 +2,9 @@
 layout: default
 title: "nationaalarchief.nl"
 permalink: "/dutchgov/nationaalarchief.nl.html"
-subdomains_count: 97
-all_subdomains_count: 185
-urls_count: 7
+subdomains_count: 99
+all_subdomains_count: 187
+urls_count: 9
 ssl_rank: B
 http_rank: E
 security_txt: 1
@@ -27,9 +27,9 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/nationaalarchief.nl/subdomains.txt)|97|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/nationaalarchief.nl/urls.txt)|7|Urls|
-|[all_subdomains.txt](/DutchGovScope/data/nationaalarchief.nl/all_subdomains.txt)|185|All found subdomains (history)|
+|[subdomains.txt](/DutchGovScope/data/nationaalarchief.nl/subdomains.txt)|99|Alive subdomains|
+|[urls.txt](/DutchGovScope/data/nationaalarchief.nl/urls.txt)|9|Urls|
+|[all_subdomains.txt](/DutchGovScope/data/nationaalarchief.nl/all_subdomains.txt)|187|All found subdomains (history)|
 
 
 ## Statistics
@@ -44,4 +44,6 @@ tags: dutchgov
 |[https://es.test.nationaalarchief.nl](https://es.test.nationaalarchief.nl)| | **F**|gtranslate| | | | | | | | :white_check_mark: | |||
 |[https://fr.test.nationaalarchief.nl](https://fr.test.nationaalarchief.nl)| | **F**|gtranslate| | | | | | | | :white_check_mark: | |||
 |[http://localhost.nationaalarchief.nl](http://localhost.nationaalarchief.nl)| | **D**|nginx| | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Nginx|Welcome to nginx...|
+|[http://amh.nationaalarchief.nl](http://amh.nationaalarchief.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
+|[https://de.test.nationaalarchief.nl](https://de.test.nationaalarchief.nl)| | **F**|gtranslate| | | | | | | | :white_check_mark: | |||
 

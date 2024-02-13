@@ -6,14 +6,14 @@
 
  - **SSL Grade**:
  - **HTTP Security Grade**:A
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:3
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:5
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/werkenvoornederland-events.nl/subdomains.txt)|4|Alive subdomains|
-|[urls.txt](/data/werkenvoornederland-events.nl/urls.txt)|3|Urls|
-|[all_subdomains.txt](/data/werkenvoornederland-events.nl/all_subdomains.txt)|4|All found subdomains (history)|
+|[subdomains.txt](/data/werkenvoornederland-events.nl/subdomains.txt)|5|Alive subdomains|
+|[urls.txt](/data/werkenvoornederland-events.nl/urls.txt)|5|Urls|
+|[all_subdomains.txt](/data/werkenvoornederland-events.nl/all_subdomains.txt)|5|All found subdomains (history)|
 
 
 ## Statistics
@@ -24,4 +24,6 @@
 |[https://openhuis.werkenvoornederland-events.nl](https://openhuis.werkenvoornederland-events.nl)| | **A**|nginx| |:white_check_mark: | :warning:| |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx Plesk||
 |[https://werkenvoornederland-events.nl](https://werkenvoornederland-events.nl)| | **A**|nginx| |:white_check_mark: | :warning:| |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx Plesk||
 |[https://i-partnerschap.werkenvoornederland-events.nl](https://i-partnerschap.werkenvoornederland-events.nl)| | **A**|nginx| |:white_check_mark: | :warning:| |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx Plesk||
+|[https://www.werkenvoornederland-events.nl](https://www.werkenvoornederland-events.nl)| | **A**|nginx| |:white_check_mark: | :warning:| |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx Plesk||
+|[https://ocwcarierrekansen.werkenvoornederland-events.nl](https://ocwcarierrekansen.werkenvoornederland-events.nl)| | **A**|nginx| |:white_check_mark: | :warning:| |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx Plesk||
 

@@ -1,2 +1,4 @@
 https://www.blankenburgverbinding.nl
 https://blankenburgverbinding.nl
+https://ftp.blankenburgverbinding.nl
+https://mail.blankenburgverbinding.nl

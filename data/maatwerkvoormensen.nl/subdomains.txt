@@ -4,3 +4,4 @@ www.maatwerkvoormensen.nl
 maatwerkvoormensen.nl
 a-opendata.maatwerkvoormensen.nl
 a-www.maatwerkvoormensen.nl
+a-feeds.maatwerkvoormensen.nl

@@ -5,14 +5,14 @@
 
 
  - **SSL Grade**:
- - **HTTP Security Grade**:F
+ - **HTTP Security Grade**:E
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:0
 
 
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/meermetminderplastic.nl/subdomains.txt)|5|Alive subdomains|
-|[urls.txt](/data/meermetminderplastic.nl/urls.txt)|4|Urls|
+|[urls.txt](/data/meermetminderplastic.nl/urls.txt)|5|Urls|
 |[all_subdomains.txt](/data/meermetminderplastic.nl/all_subdomains.txt)|5|All found subdomains (history)|
 
 
@@ -25,4 +25,5 @@
 |[https://monitoring.meermetminderplastic.nl](https://monitoring.meermetminderplastic.nl)| | **E**|| | | | | | | | :white_check_mark: | |Azure HSTS Microsoft ASP.NET|Object moved|
 |[https://www.meermetminderplastic.nl](https://www.meermetminderplastic.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |MailChimp Nginx PHP Pimcore|Meer met minder...|
 |[https://meermetminderplastic.nl](https://meermetminderplastic.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx PHP Pimcore|Redirecting to h...|
+|[http://autodiscover.meermetminderplastic.nl](http://autodiscover.meermetminderplastic.nl)| | **B**|Microsoft-IIS/10.0|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server||
 

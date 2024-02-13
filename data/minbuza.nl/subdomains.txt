@@ -30,3 +30,4 @@ links.minbuza.nl
 mx5.minbuza.nl
 selfservice.minbuza.nl
 testloket.minbuza.nl
+mobiel.minbuza.nl

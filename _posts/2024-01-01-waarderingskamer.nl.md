@@ -4,7 +4,7 @@ title: "waarderingskamer.nl"
 permalink: "/dutchgov/waarderingskamer.nl.html"
 subdomains_count: 25
 all_subdomains_count: 51
-urls_count: 12
+urls_count: 13
 ssl_rank: 
 http_rank: C
 security_txt: 4
@@ -28,7 +28,7 @@ tags: dutchgov
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/DutchGovScope/data/waarderingskamer.nl/subdomains.txt)|25|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/waarderingskamer.nl/urls.txt)|12|Urls|
+|[urls.txt](/DutchGovScope/data/waarderingskamer.nl/urls.txt)|13|Urls|
 |[all_subdomains.txt](/DutchGovScope/data/waarderingskamer.nl/all_subdomains.txt)|51|All found subdomains (history)|
 
 
@@ -49,4 +49,5 @@ tags: dutchgov
 |[https://waarderingskamer.nl](https://waarderingskamer.nl)| | **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |Nginx|301 Moved Perman...|
 |[https://scim.waarderingskamer.nl](https://scim.waarderingskamer.nl)| | **B**|| | | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |||
 |[https://search.waarderingskamer.nl](https://search.waarderingskamer.nl)| | **B**|nginx| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS Nginx||
+|[https://webmail.waarderingskamer.nl](https://webmail.waarderingskamer.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|301 Moved Perman...|
 

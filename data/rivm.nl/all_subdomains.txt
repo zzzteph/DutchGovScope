@@ -918,3 +918,6 @@ sso.api-int.alt.rivm.nl
 www.migratie.rivm.nl
 lsp.rivm.nl
 dashview.rivm.nl
+spoor.rivm.nl
+api.acc-lsp.rivm.nl
+acc-lsp.rivm.nl

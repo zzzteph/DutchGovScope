@@ -7,3 +7,4 @@ a-opendata.mccg.nl
 a-www.mccg.nl
 i-www.mccg.nl
 t-www.mccg.nl
+o-www.mccg.nl

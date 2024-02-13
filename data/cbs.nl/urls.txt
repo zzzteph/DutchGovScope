@@ -152,7 +152,6 @@ https://webext.cbs.nl
 https://welkombij.cbs.nl
 https://werkplek.cbs.nl
 https://werkpleksso.cbs.nl
-https://werkplektest.cbs.nl
 https://www.cbs.nl
 https://www-acc.cbs.nl
 https://www-test.cbs.nl

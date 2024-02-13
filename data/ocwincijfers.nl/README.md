@@ -13,7 +13,7 @@
 |------------|-------|------|
 |[subdomains.txt](/data/ocwincijfers.nl/subdomains.txt)|7|Alive subdomains|
 |[urls.txt](/data/ocwincijfers.nl/urls.txt)|4|Urls|
-|[all_subdomains.txt](/data/ocwincijfers.nl/all_subdomains.txt)|21|All found subdomains (history)|
+|[all_subdomains.txt](/data/ocwincijfers.nl/all_subdomains.txt)|22|All found subdomains (history)|
 
 
 ## Statistics

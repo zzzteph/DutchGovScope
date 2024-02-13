@@ -1,3 +1,5 @@
 https://test.csirtdsp.nl
 https://www.csirtdsp.nl
 https://csirtdsp.nl
+https://acc.csirtdsp.nl
+https://prod.csirtdsp.nl

@@ -2,8 +2,8 @@
 layout: default
 title: "waarzitwatin.nl"
 permalink: "/dutchgov/waarzitwatin.nl.html"
-subdomains_count: 86
-all_subdomains_count: 86
+subdomains_count: 87
+all_subdomains_count: 87
 urls_count: 86
 ssl_rank: 
 http_rank: F
@@ -27,9 +27,9 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/waarzitwatin.nl/subdomains.txt)|86|Alive subdomains|
+|[subdomains.txt](/DutchGovScope/data/waarzitwatin.nl/subdomains.txt)|87|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/waarzitwatin.nl/urls.txt)|86|Urls|
-|[all_subdomains.txt](/DutchGovScope/data/waarzitwatin.nl/all_subdomains.txt)|86|All found subdomains (history)|
+|[all_subdomains.txt](/DutchGovScope/data/waarzitwatin.nl/all_subdomains.txt)|87|All found subdomains (history)|
 
 
 ## Statistics

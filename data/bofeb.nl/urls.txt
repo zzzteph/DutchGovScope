@@ -1,3 +1,5 @@
 https://mijn.bofeb.nl
 https://www.bofeb.nl
 https://bofeb.nl
+http://autodiscover.bofeb.nl
+http://mail.bofeb.nl

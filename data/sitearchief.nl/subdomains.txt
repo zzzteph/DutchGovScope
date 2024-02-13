@@ -84,3 +84,8 @@ kadaster.sitearchief.nl
 meldkamer.sitearchief.nl
 politie.sitearchief.nl
 overzicht.sitearchief.nl
+forensischinstituut.sitearchief.nl
+rsj.sitearchief.nl
+waarderingskamer.sitearchief.nl
+sodm.sitearchief.nl
+minocw.sitearchief.nl

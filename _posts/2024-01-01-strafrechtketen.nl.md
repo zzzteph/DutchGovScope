@@ -5,7 +5,7 @@ permalink: "/dutchgov/strafrechtketen.nl.html"
 subdomains_count: 7
 all_subdomains_count: 14
 urls_count: 4
-ssl_rank: 
+ssl_rank: A+
 http_rank: A
 security_txt: 4
 url_link: /data/strafrechtketen.nl/urls.txt
@@ -20,7 +20,7 @@ tags: dutchgov
 ## Summary data
 
 
- - **SSL Grade**:
+ - **SSL Grade**:A+
  - **HTTP Security Grade**:A
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:4
 
@@ -40,5 +40,5 @@ tags: dutchgov
 |[https://feeds.strafrechtketen.nl](https://feeds.strafrechtketen.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://opendata.strafrechtketen.nl](https://opendata.strafrechtketen.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://www.strafrechtketen.nl](https://www.strafrechtketen.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Home | Strafrech...|
-|[https://strafrechtketen.nl](https://strafrechtketen.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
+|[https://strafrechtketen.nl](https://strafrechtketen.nl)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
 

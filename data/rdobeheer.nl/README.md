@@ -12,7 +12,7 @@
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/rdobeheer.nl/subdomains.txt)|72|Alive subdomains|
-|[urls.txt](/data/rdobeheer.nl/urls.txt)|68|Urls|
+|[urls.txt](/data/rdobeheer.nl/urls.txt)|70|Urls|
 |[all_subdomains.txt](/data/rdobeheer.nl/all_subdomains.txt)|91|All found subdomains (history)|
 
 
@@ -59,10 +59,10 @@
 |[https://www2.acc.dusi.rdobeheer.nl](https://www2.acc.dusi.rdobeheer.nl)| | **A**|Apache| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS||
 |[https://portal2.acc.dusi.rdobeheer.nl](https://portal2.acc.dusi.rdobeheer.nl)| | **A**|Apache| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS||
 |[https://mailcatch.acc.dusi.rdobeheer.nl](https://mailcatch.acc.dusi.rdobeheer.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS||
-|[http://co.acc.dusi.rdobeheer.nl](http://co.acc.dusi.rdobeheer.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS||
-|[http://stagefonds.acc.dusi.rdobeheer.nl](http://stagefonds.acc.dusi.rdobeheer.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS||
+|[https://co.acc.dusi.rdobeheer.nl](https://co.acc.dusi.rdobeheer.nl)| | **A**|Apache| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS||
+|[https://stagefonds.acc.dusi.rdobeheer.nl](https://stagefonds.acc.dusi.rdobeheer.nl)| | **A**|Apache| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS||
 |[https://portalco.acc.dusi.rdobeheer.nl](https://portalco.acc.dusi.rdobeheer.nl)| | **A**|Apache| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS||
-|[http://extern.acc.dusi.rdobeheer.nl](http://extern.acc.dusi.rdobeheer.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS||
+|[https://extern.acc.dusi.rdobeheer.nl](https://extern.acc.dusi.rdobeheer.nl)| | **A**|Apache| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS||
 |[https://web.test.dpr.rdobeheer.nl](https://web.test.dpr.rdobeheer.nl)| | **B**|Apache| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server Basic HSTS|401 Unauthorized|
 |[https://webtooling.rdobeheer.nl](https://webtooling.rdobeheer.nl)| | **A**|Apache| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS|RDO Beheer - web...|
 |[https://stagefonds.test.dusi.rdobeheer.nl](https://stagefonds.test.dusi.rdobeheer.nl)| | **A**|Apache| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS||
@@ -70,8 +70,8 @@
 |[https://portal.test.dusi.rdobeheer.nl](https://portal.test.dusi.rdobeheer.nl)| | **A**|Apache| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS||
 |[https://mailcatch.test.dusi.rdobeheer.nl](https://mailcatch.test.dusi.rdobeheer.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS||
 |[https://portal2.test.dusi.rdobeheer.nl](https://portal2.test.dusi.rdobeheer.nl)| | **A**|Apache| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS||
-|[https://portalco.test.dusi.rdobeheer.nl](https://portalco.test.dusi.rdobeheer.nl)| | **A**|Apache| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS||
-|[http://www2.test.dusi.rdobeheer.nl](http://www2.test.dusi.rdobeheer.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS||
+|[http://portalco.test.dusi.rdobeheer.nl](http://portalco.test.dusi.rdobeheer.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS||
+|[https://www2.test.dusi.rdobeheer.nl](https://www2.test.dusi.rdobeheer.nl)| | **B**|Apache| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS||
 |[https://co.test.dusi.rdobeheer.nl](https://co.test.dusi.rdobeheer.nl)| | **A**|Apache| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS||
 |[https://www.test.dusi.rdobeheer.nl](https://www.test.dusi.rdobeheer.nl)| | **A**|Apache| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS||
 |[https://balie.test.woo.rdobeheer.nl](https://balie.test.woo.rdobeheer.nl)| | **B**|Apache| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server Basic HSTS|401 Unauthorized|
@@ -89,4 +89,6 @@
 |[https://max.acc.dusi.rdobeheer.nl](https://max.acc.dusi.rdobeheer.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |Basic HSTS|401 Unauthorized|
 |[https://taiga.rdobeheer.nl](https://taiga.rdobeheer.nl)| | **B**|nginx| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS Nginx|Taiga|
 |[http://cmhelpdesk.rdobeheer.nl](http://cmhelpdesk.rdobeheer.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||
+|[http://acc.rdobeheer.nl](http://acc.rdobeheer.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
+|[https://stats.rdobeheer.nl](https://stats.rdobeheer.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |HSTS Nginx|302 Found|
 

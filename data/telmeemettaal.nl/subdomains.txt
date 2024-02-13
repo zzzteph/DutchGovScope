@@ -7,3 +7,4 @@ a-feeds.telmeemettaal.nl
 a-opendata.telmeemettaal.nl
 a-www.telmeemettaal.nl
 staging.telmeemettaal.nl
+ftp.telmeemettaal.nl

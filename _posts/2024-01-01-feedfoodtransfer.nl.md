@@ -3,7 +3,7 @@ layout: default
 title: "feedfoodtransfer.nl"
 permalink: "/dutchgov/feedfoodtransfer.nl.html"
 subdomains_count: 16
-all_subdomains_count: 18
+all_subdomains_count: 19
 urls_count: 16
 ssl_rank: 
 http_rank: B
@@ -29,7 +29,7 @@ tags: dutchgov
 |------------|-------|------|
 |[subdomains.txt](/DutchGovScope/data/feedfoodtransfer.nl/subdomains.txt)|16|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/feedfoodtransfer.nl/urls.txt)|16|Urls|
-|[all_subdomains.txt](/DutchGovScope/data/feedfoodtransfer.nl/all_subdomains.txt)|18|All found subdomains (history)|
+|[all_subdomains.txt](/DutchGovScope/data/feedfoodtransfer.nl/all_subdomains.txt)|19|All found subdomains (history)|
 
 
 ## Statistics
@@ -40,7 +40,7 @@ tags: dutchgov
 |[https://acceptatie.feedfoodtransfer.nl](https://acceptatie.feedfoodtransfer.nl)| | **D**||:warning: |:white_check_mark: | | | | | | :white_check_mark: | |F5 BigIP HSTS||
 |[https://cadmium-pig.apps.feedfoodtransfer.nl](https://cadmium-pig.apps.feedfoodtransfer.nl)| | **C**||:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | |Bootstrap HSTS||
 |[https://www.feedfoodtransfer.nl](https://www.feedfoodtransfer.nl)| | **B**|Apache| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS|301 Moved Perman...|
-|[http://feedfoodtransfer.nl](http://feedfoodtransfer.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS||
+|[https://feedfoodtransfer.nl](https://feedfoodtransfer.nl)| | **B**|Apache| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS|301 Moved Perman...|
 |[https://dieldrinhcblindane-hen.apps.feedfoodtransfer.nl](https://dieldrinhcblindane-hen.apps.feedfoodtransfer.nl)| | **C**||:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | |Bootstrap HSTS||
 |[http://dioxins-totalteq-hen-acc.apps.feedfoodtransfer.nl](http://dioxins-totalteq-hen-acc.apps.feedfoodtransfer.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://ndlpcb-hen.apps.feedfoodtransfer.nl](https://ndlpcb-hen.apps.feedfoodtransfer.nl)| | **C**||:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | |Bootstrap HSTS||

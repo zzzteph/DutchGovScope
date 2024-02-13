@@ -9,3 +9,4 @@ https://30www.valys.nl
 https://opwww.valys.nl
 https://mijn.valys.nl
 https://uurwww.valys.nl
+http://autodiscover.valys.nl

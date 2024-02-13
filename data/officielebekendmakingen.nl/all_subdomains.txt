@@ -64,3 +64,4 @@ cs-kabs-tst-trunk.officielebekendmakingen.nl
 bestanden.officielebekendmakingen.nl
 localhost.officielebekendmakingen.nl
 servicedesk.officielebekendmakingen.nl
+www.beheer-sgd-acc.officielebekendmakingen.nl

@@ -17,3 +17,4 @@ http://webmail.werkenvoornederland.nl
 https://www.werkenvoornederland.nl
 https://www-sandbox.werkenvoornederland.nl
 https://werkenvoornederland.nl
+https://sandbox.werkenvoornederland.nl

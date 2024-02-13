@@ -2,8 +2,8 @@
 layout: default
 title: "onderwijsraad.nl"
 permalink: "/dutchgov/onderwijsraad.nl.html"
-subdomains_count: 18
-all_subdomains_count: 33
+subdomains_count: 19
+all_subdomains_count: 34
 urls_count: 11
 ssl_rank: A-
 http_rank: D
@@ -27,9 +27,9 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/onderwijsraad.nl/subdomains.txt)|18|Alive subdomains|
+|[subdomains.txt](/DutchGovScope/data/onderwijsraad.nl/subdomains.txt)|19|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/onderwijsraad.nl/urls.txt)|11|Urls|
-|[all_subdomains.txt](/DutchGovScope/data/onderwijsraad.nl/all_subdomains.txt)|33|All found subdomains (history)|
+|[all_subdomains.txt](/DutchGovScope/data/onderwijsraad.nl/all_subdomains.txt)|34|All found subdomains (history)|
 
 
 ## Statistics

@@ -12,8 +12,8 @@
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/dictu.nl/subdomains.txt)|146|Alive subdomains|
-|[urls.txt](/data/dictu.nl/urls.txt)|73|Urls|
-|[all_subdomains.txt](/data/dictu.nl/all_subdomains.txt)|281|All found subdomains (history)|
+|[urls.txt](/data/dictu.nl/urls.txt)|74|Urls|
+|[all_subdomains.txt](/data/dictu.nl/all_subdomains.txt)|282|All found subdomains (history)|
 
 
 ## Statistics
@@ -29,11 +29,11 @@
 |[https://asb.webftp.dictu.nl](https://asb.webftp.dictu.nl)| | **E**|| | | | | | | | :white_check_mark: | |Basic|Redirect|
 |[https://auth.dictu.nl](https://auth.dictu.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|302 Found|
 |[https://auth-acc.dictu.nl](https://auth-acc.dictu.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|302 Found|
-|[https://auth-tst.dictu.nl](https://auth-tst.dictu.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS|302 Found|
-|[https://avd.datasluis.dictu.nl](https://avd.datasluis.dictu.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Redirect|
+|[https://auth-tst.dictu.nl](https://auth-tst.dictu.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS|Oracle Access Ma...|
+|[https://avd.datasluis.dictu.nl](https://avd.datasluis.dictu.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Basic HSTS|Unauthorized|
 |[https://avd.webftp.dictu.nl](https://avd.webftp.dictu.nl)| | **E**|| | | | | | | | :white_check_mark: | |Basic|Redirect|
 |[https://bpp.datasluis.dictu.nl](https://bpp.datasluis.dictu.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Redirect|
-|[https://bpp.webftp.dictu.nl](https://bpp.webftp.dictu.nl)| | **E**|| | | | | | | | :white_check_mark: | |Basic|Redirect|
+|[https://bpp.webftp.dictu.nl](https://bpp.webftp.dictu.nl)| | **E**|| | | | | | | | :white_check_mark: | |Basic|Unauthorized|
 |[http://c-pki.dictu.nl](http://c-pki.dictu.nl)| | **F**|Microsoft-IIS/8.5| | | | | | | | :white_check_mark: | |IIS:8.5 Windows Server|c-pki.dictu.nl -...|
 |[http://c-pki-acc.dictu.nl](http://c-pki-acc.dictu.nl)| | **D**|| | | | | | :white_check_mark: | | :white_check_mark: | ||c-pki-acc.dictu....|
 |[http://c-pki.extranet.dictu.nl](http://c-pki.extranet.dictu.nl)| | **F**|Microsoft-IIS/8.5| | | | | | | | :white_check_mark: | |IIS:8.5 Windows Server|c-pki.extranet.d...|
@@ -41,7 +41,7 @@
 |[https://cbo-a.dictu.nl](https://cbo-a.dictu.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |||
 |[https://cbo-b.dictu.nl](https://cbo-b.dictu.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |||
 |[https://datasluis.dictu.nl](https://datasluis.dictu.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Redirect|
-|[https://engine.acc.fhub.dictu.nl](https://engine.acc.fhub.dictu.nl)| | **B**|Apache|:warning: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS|OpenConext - Met...|
+|[https://engine.acc.fhub.dictu.nl](https://engine.acc.fhub.dictu.nl)| | **B**|Apache|:warning: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS|dictu - Metadata...|
 |[https://engine.fhub.dictu.nl](https://engine.fhub.dictu.nl)| | **D**|Apache|:warning: |:white_check_mark: | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|dictu - Metadata...|
 |[https://fhub.dictu.nl](https://fhub.dictu.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||
 |[https://gisextern.dictu.nl](https://gisextern.dictu.nl)| | **C**||:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|IIS Windows Serv...|
@@ -81,7 +81,7 @@
 |[https://vpn.dictu.nl](https://vpn.dictu.nl)| | **B**|CPWS| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS|403 Forbidden|
 |[https://vpna.dictu.nl](https://vpna.dictu.nl)| | **B**|CPWS| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS|403 Forbidden|
 |[https://vpnb.dictu.nl](https://vpnb.dictu.nl)| | **B**|CPWS| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS|403 Forbidden|
-|[https://webftp.dictu.nl](https://webftp.dictu.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Redirect|
+|[https://webftp.dictu.nl](https://webftp.dictu.nl)| | **E**|| | | | | | | | :white_check_mark: | |Basic|Unauthorized|
 |[https://wifi.dictu.nl](https://wifi.dictu.nl)| | **B**||:warning: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Redirecting to h...|
 |[https://www.dictu.nl](https://www.dictu.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Drupal HSTS Nginx PHP|Home | Dictu.nl|
 |[https://snow-cw.dictu.nl](https://snow-cw.dictu.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0||
@@ -94,4 +94,5 @@
 |[https://asb.datasluis.dictu.nl](https://asb.datasluis.dictu.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Redirect|
 |[http://authpms.dictu.nl](http://authpms.dictu.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://authpms-acc.dictu.nl](https://authpms-acc.dictu.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|iBabs - Meet in...|
+|[https://test2.dictu.nl](https://test2.dictu.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Basic Nginx|401 Authorizatio...|
 

@@ -11,9 +11,9 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/aaenmaas.nl/subdomains.txt)|35|Alive subdomains|
+|[subdomains.txt](/data/aaenmaas.nl/subdomains.txt)|36|Alive subdomains|
 |[urls.txt](/data/aaenmaas.nl/urls.txt)|26|Urls|
-|[all_subdomains.txt](/data/aaenmaas.nl/all_subdomains.txt)|74|All found subdomains (history)|
+|[all_subdomains.txt](/data/aaenmaas.nl/all_subdomains.txt)|75|All found subdomains (history)|
 
 
 ## Statistics

@@ -9,3 +9,4 @@ a-www.platformrijksoverheidonline.nl
 i-www.platformrijksoverheidonline.nl
 o-www.platformrijksoverheidonline.nl
 t-www.platformrijksoverheidonline.nl
+a-opendata.platformrijksoverheidonline.nl

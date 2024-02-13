@@ -1,3 +1,5 @@
 https://simcms.ahn.nl
 https://www.ahn.nl
 https://ahn.nl
+http://autodiscover.ahn.nl
+https://msoid.ahn.nl

@@ -8,3 +8,4 @@ enterpriseenrollment.ondernemersplein.nl
 enterpriseregistration.ondernemersplein.nl
 mail.ondernemersplein.nl
 msoid.ondernemersplein.nl
+pop.ondernemersplein.nl

@@ -2,10 +2,10 @@
 layout: default
 title: "innovatiex.nl"
 permalink: "/dutchgov/innovatiex.nl.html"
-subdomains_count: 7
-all_subdomains_count: 7
+subdomains_count: 8
+all_subdomains_count: 8
 urls_count: 5
-ssl_rank: 
+ssl_rank: A+
 http_rank: B
 security_txt: 4
 url_link: /data/innovatiex.nl/urls.txt
@@ -20,16 +20,16 @@ tags: dutchgov
 ## Summary data
 
 
- - **SSL Grade**:
+ - **SSL Grade**:A+
  - **HTTP Security Grade**:B
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:4
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/innovatiex.nl/subdomains.txt)|7|Alive subdomains|
+|[subdomains.txt](/DutchGovScope/data/innovatiex.nl/subdomains.txt)|8|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/innovatiex.nl/urls.txt)|5|Urls|
-|[all_subdomains.txt](/DutchGovScope/data/innovatiex.nl/all_subdomains.txt)|7|All found subdomains (history)|
+|[all_subdomains.txt](/DutchGovScope/data/innovatiex.nl/all_subdomains.txt)|8|All found subdomains (history)|
 
 
 ## Statistics
@@ -37,9 +37,9 @@ tags: dutchgov
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://feeds.innovatiex.nl](https://feeds.innovatiex.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
-|[https://innovatiex.nl](https://innovatiex.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
-|[https://opendata.innovatiex.nl](https://opendata.innovatiex.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
-|[https://www.innovatiex.nl](https://www.innovatiex.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Home | Innovatie...|
+|[https://feeds.innovatiex.nl](https://feeds.innovatiex.nl)| **A+**| **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
+|[https://innovatiex.nl](https://innovatiex.nl)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
+|[https://opendata.innovatiex.nl](https://opendata.innovatiex.nl)| **A+**| **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
+|[https://www.innovatiex.nl](https://www.innovatiex.nl)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Home | Innovatie...|
 |[https://expo.innovatiex.nl](https://expo.innovatiex.nl)| | **F**|WebServer| | | | | | | | :white_check_mark: | |Bootstrap HSTS PHP||
 

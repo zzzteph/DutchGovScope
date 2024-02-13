@@ -11,7 +11,7 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/kimnet.nl/subdomains.txt)|12|Alive subdomains|
+|[subdomains.txt](/data/kimnet.nl/subdomains.txt)|13|Alive subdomains|
 |[urls.txt](/data/kimnet.nl/urls.txt)|7|Urls|
 |[all_subdomains.txt](/data/kimnet.nl/all_subdomains.txt)|17|All found subdomains (history)|
 

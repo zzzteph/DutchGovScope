@@ -11,8 +11,8 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/sawa-vth.nl/subdomains.txt)|12|Alive subdomains|
-|[urls.txt](/data/sawa-vth.nl/urls.txt)|12|Urls|
+|[subdomains.txt](/data/sawa-vth.nl/subdomains.txt)|11|Alive subdomains|
+|[urls.txt](/data/sawa-vth.nl/urls.txt)|11|Urls|
 |[all_subdomains.txt](/data/sawa-vth.nl/all_subdomains.txt)|25|All found subdomains (history)|
 
 
@@ -24,7 +24,6 @@
 |[https://acceptatie.sawa-vth.nl](https://acceptatie.sawa-vth.nl)| | **A**|Microsoft-IIS/10.0|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS IIS:10.0 Microsoft ASP.NET Windows Server|PowerBrowser 202...|
 |[http://genconnector.sawa-vth.nl](http://genconnector.sawa-vth.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://genconnector-acceptatie.sawa-vth.nl](https://genconnector-acceptatie.sawa-vth.nl)| | **F**|Microsoft-IIS/10.0| | | | | | | | :white_check_mark: | |HSTS IIS:10.0 Microsoft ASP.NET Windows Server||
-|[https://genconnector-test.sawa-vth.nl](https://genconnector-test.sawa-vth.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
 |[https://map.sawa-vth.nl](https://map.sawa-vth.nl)| | **F**|Microsoft-IIS/10.0|:warning: | | | | | | | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server||
 |[https://map-acceptatie.sawa-vth.nl](https://map-acceptatie.sawa-vth.nl)| | **F**|Microsoft-IIS/10.0|:warning: | | | | | | | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server||
 |[https://office.sawa-vth.nl](https://office.sawa-vth.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Website niet bes...|

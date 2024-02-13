@@ -19,3 +19,4 @@ a-magazinesintern.ocwincijfers.nl
 a-opendata.a-english.ocwincijfers.nl
 magazines.english.ocwincijfers.nl
 magazinesintern.english.ocwincijfers.nl
+nieuwe-www.ocwincijfers.nl

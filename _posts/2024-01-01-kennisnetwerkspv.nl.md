@@ -4,7 +4,7 @@ title: "kennisnetwerkspv.nl"
 permalink: "/dutchgov/kennisnetwerkspv.nl.html"
 subdomains_count: 3
 all_subdomains_count: 3
-urls_count: 2
+urls_count: 3
 ssl_rank: 
 http_rank: A
 security_txt: 0
@@ -28,7 +28,7 @@ tags: dutchgov
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/DutchGovScope/data/kennisnetwerkspv.nl/subdomains.txt)|3|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/kennisnetwerkspv.nl/urls.txt)|2|Urls|
+|[urls.txt](/DutchGovScope/data/kennisnetwerkspv.nl/urls.txt)|3|Urls|
 |[all_subdomains.txt](/DutchGovScope/data/kennisnetwerkspv.nl/all_subdomains.txt)|3|All found subdomains (history)|
 
 
@@ -39,4 +39,5 @@ tags: dutchgov
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[https://www.kennisnetwerkspv.nl](https://www.kennisnetwerkspv.nl)| | **A**|Microsoft-IIS/10.0|:warning: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Azure Google Tag Manager HSTS IIS:10.0 Kentico CMS Microsoft ASP.NET Windows Server|Home - Kennisnet...|
 |[https://kennisnetwerkspv.nl](https://kennisnetwerkspv.nl)| | **A**|Microsoft-IIS/10.0|:warning: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Azure Google Tag Manager HSTS IIS:10.0 Kentico CMS Microsoft ASP.NET Windows Server|Home - Kennisnet...|
+|[http://autodiscover.kennisnetwerkspv.nl](http://autodiscover.kennisnetwerkspv.nl)| | **B**|Microsoft-IIS/10.0|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server||
 

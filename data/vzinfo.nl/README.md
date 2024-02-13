@@ -4,7 +4,7 @@
 ## Summary data
 
 
- - **SSL Grade**:
+ - **SSL Grade**:A
  - **HTTP Security Grade**:C
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:2
 
@@ -21,11 +21,11 @@
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://www.vzinfo.nl](https://www.vzinfo.nl)| | **A**|Apache| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server Drupal HSTS PHP|VZinfo | Volksge...|
+|[https://www.vzinfo.nl](https://www.vzinfo.nl)| **B**| **A**|Apache| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server Drupal HSTS PHP|VZinfo | Volksge...|
 |[https://vzinfo.nl](https://vzinfo.nl)| | **A**|Apache| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS|301 Moved Perman...|
 |[https://buurtatlas.vzinfo.nl](https://buurtatlas.vzinfo.nl)| | **C**||:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | |Bootstrap:4.6.0 HSTS React|Home | Buurtatla...|
 |[https://sterftedashboard.vzinfo.nl](https://sterftedashboard.vzinfo.nl)| | **C**||:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | |Bootstrap:4.6.0 HSTS||
 |[http://nzrdashboard.vzinfo.nl](http://nzrdashboard.vzinfo.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
-|[https://sterftedashboard-regionaal.vzinfo.nl](https://sterftedashboard-regionaal.vzinfo.nl)| | **C**||:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | |Bootstrap:4.6.0 HSTS React||
-|[https://mondgezondheidsdashboard.vzinfo.nl](https://mondgezondheidsdashboard.vzinfo.nl)| | **C**||:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | |Bootstrap:5.2.2 HSTS||
+|[https://sterftedashboard-regionaal.vzinfo.nl](https://sterftedashboard-regionaal.vzinfo.nl)| **A+**| **C**||:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | |Bootstrap:4.6.0 HSTS React||
+|[https://mondgezondheidsdashboard.vzinfo.nl](https://mondgezondheidsdashboard.vzinfo.nl)| **A+**| **C**||:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | |Bootstrap:5.2.2 HSTS||
 

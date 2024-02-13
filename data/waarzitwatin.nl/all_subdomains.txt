@@ -84,3 +84,4 @@ dev.staging.waarzitwatin.nl
 nl.staging.waarzitwatin.nl
 proxy.staging.waarzitwatin.nl
 jenkins.staging.waarzitwatin.nl
+link.staging.waarzitwatin.nl

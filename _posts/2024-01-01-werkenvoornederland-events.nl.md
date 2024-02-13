@@ -2,12 +2,12 @@
 layout: default
 title: "werkenvoornederland-events.nl"
 permalink: "/dutchgov/werkenvoornederland-events.nl.html"
-subdomains_count: 4
-all_subdomains_count: 4
-urls_count: 3
+subdomains_count: 5
+all_subdomains_count: 5
+urls_count: 5
 ssl_rank: 
 http_rank: A
-security_txt: 3
+security_txt: 5
 url_link: /data/werkenvoornederland-events.nl/urls.txt
 all_subdomains_link: /data/werkenvoornederland-events.nl/all_subdomains.txt
 subdomains_link: /data/werkenvoornederland-events.nl/subdomains.txt
@@ -22,14 +22,14 @@ tags: dutchgov
 
  - **SSL Grade**:
  - **HTTP Security Grade**:A
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:3
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:5
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/werkenvoornederland-events.nl/subdomains.txt)|4|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/werkenvoornederland-events.nl/urls.txt)|3|Urls|
-|[all_subdomains.txt](/DutchGovScope/data/werkenvoornederland-events.nl/all_subdomains.txt)|4|All found subdomains (history)|
+|[subdomains.txt](/DutchGovScope/data/werkenvoornederland-events.nl/subdomains.txt)|5|Alive subdomains|
+|[urls.txt](/DutchGovScope/data/werkenvoornederland-events.nl/urls.txt)|5|Urls|
+|[all_subdomains.txt](/DutchGovScope/data/werkenvoornederland-events.nl/all_subdomains.txt)|5|All found subdomains (history)|
 
 
 ## Statistics
@@ -40,4 +40,6 @@ tags: dutchgov
 |[https://openhuis.werkenvoornederland-events.nl](https://openhuis.werkenvoornederland-events.nl)| | **A**|nginx| |:white_check_mark: | :warning:| |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx Plesk||
 |[https://werkenvoornederland-events.nl](https://werkenvoornederland-events.nl)| | **A**|nginx| |:white_check_mark: | :warning:| |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx Plesk||
 |[https://i-partnerschap.werkenvoornederland-events.nl](https://i-partnerschap.werkenvoornederland-events.nl)| | **A**|nginx| |:white_check_mark: | :warning:| |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx Plesk||
+|[https://www.werkenvoornederland-events.nl](https://www.werkenvoornederland-events.nl)| | **A**|nginx| |:white_check_mark: | :warning:| |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx Plesk||
+|[https://ocwcarierrekansen.werkenvoornederland-events.nl](https://ocwcarierrekansen.werkenvoornederland-events.nl)| | **A**|nginx| |:white_check_mark: | :warning:| |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx Plesk||
 

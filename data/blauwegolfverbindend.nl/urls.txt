@@ -1,3 +1,5 @@
 https://acceptatie.blauwegolfverbindend.nl
 https://www.blauwegolfverbindend.nl
 https://blauwegolfverbindend.nl
+http://ftp.blauwegolfverbindend.nl
+http://localhost.blauwegolfverbindend.nl

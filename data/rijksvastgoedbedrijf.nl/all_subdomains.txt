@@ -20,3 +20,4 @@ a-magazines.rijksvastgoedbedrijf.nl
 a-opendata.a-english.rijksvastgoedbedrijf.nl
 magazines.english.rijksvastgoedbedrijf.nl
 magazinesintern.english.rijksvastgoedbedrijf.nl
+contentonderzoek-www.rijksvastgoedbedrijf.nl

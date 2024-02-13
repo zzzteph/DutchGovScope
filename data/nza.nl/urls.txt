@@ -35,3 +35,4 @@ https://wachttijden.nza.nl
 https://mta-sts.nza.nl
 https://dbcleergang.nza.nl
 https://dkdlmodel.nza.nl
+http://zpa.nza.nl

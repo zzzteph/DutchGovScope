@@ -12,7 +12,7 @@
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/rijksapplicaties.nl/subdomains.txt)|257|Alive subdomains|
-|[urls.txt](/data/rijksapplicaties.nl/urls.txt)|212|Urls|
+|[urls.txt](/data/rijksapplicaties.nl/urls.txt)|222|Urls|
 |[all_subdomains.txt](/data/rijksapplicaties.nl/all_subdomains.txt)|320|All found subdomains (history)|
 
 
@@ -233,4 +233,14 @@
 |[https://rvb-mva.rijksapplicaties.nl](https://rvb-mva.rijksapplicaties.nl)| | **C**|nginx|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS Nginx||
 |[https://rvb-flowboard.rijksapplicaties.nl](https://rvb-flowboard.rijksapplicaties.nl)| | **C**|nginx|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS Nginx||
 |[https://bva.rijksapplicaties.nl](https://bva.rijksapplicaties.nl)| | **C**|nginx|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS Nginx||
+|[https://app1.rijksapplicaties.nl](https://app1.rijksapplicaties.nl)| | **E**|nginx| | | | |:warning: | | | :white_check_mark: | |Nginx||
+|[https://rosi.rijksapplicaties.nl](https://rosi.rijksapplicaties.nl)| | **E**|nginx| | | | |:warning: | | | :white_check_mark: | |Nginx||
+|[https://stap.rijksapplicaties.nl](https://stap.rijksapplicaties.nl)| | **E**|nginx| | | | |:warning: | | | :white_check_mark: | |Nginx||
+|[https://sth.rijksapplicaties.nl](https://sth.rijksapplicaties.nl)| | **E**|nginx| | | | |:warning: | | | :white_check_mark: | |Nginx||
+|[https://eres.rijksapplicaties.nl](https://eres.rijksapplicaties.nl)| | **E**|nginx| | | | |:warning: | | | :white_check_mark: | |Nginx||
+|[https://app3.rijksapplicaties.nl](https://app3.rijksapplicaties.nl)| | **E**|nginx| | | | |:warning: | | | :white_check_mark: | |Nginx||
+|[https://prisma.rijksapplicaties.nl](https://prisma.rijksapplicaties.nl)| | **E**|nginx| | | | |:warning: | | | :white_check_mark: | |Nginx||
+|[https://woo.rijksapplicaties.nl](https://woo.rijksapplicaties.nl)| | **E**|nginx| | | | |:warning: | | | :white_check_mark: | |Nginx||
+|[https://dpt.rijksapplicaties.nl](https://dpt.rijksapplicaties.nl)| | **E**|nginx| | | | |:warning: | | | :white_check_mark: | |Nginx||
+|[https://app2.rijksapplicaties.nl](https://app2.rijksapplicaties.nl)| | **E**|nginx| | | | |:warning: | | | :white_check_mark: | |Nginx||
 

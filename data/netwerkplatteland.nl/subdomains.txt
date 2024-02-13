@@ -8,3 +8,4 @@ a-opendata.netwerkplatteland.nl
 i-www.netwerkplatteland.nl
 o-www.netwerkplatteland.nl
 t-www.netwerkplatteland.nl
+a-www.netwerkplatteland.nl

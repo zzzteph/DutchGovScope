@@ -11,9 +11,9 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/minbuza.nl/subdomains.txt)|32|Alive subdomains|
+|[subdomains.txt](/data/minbuza.nl/subdomains.txt)|33|Alive subdomains|
 |[urls.txt](/data/minbuza.nl/urls.txt)|15|Urls|
-|[all_subdomains.txt](/data/minbuza.nl/all_subdomains.txt)|136|All found subdomains (history)|
+|[all_subdomains.txt](/data/minbuza.nl/all_subdomains.txt)|137|All found subdomains (history)|
 
 
 ## Statistics

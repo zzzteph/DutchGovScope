@@ -12,7 +12,7 @@
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/knooppuntjoure.nl/subdomains.txt)|6|Alive subdomains|
-|[urls.txt](/data/knooppuntjoure.nl/urls.txt)|3|Urls|
+|[urls.txt](/data/knooppuntjoure.nl/urls.txt)|6|Urls|
 |[all_subdomains.txt](/data/knooppuntjoure.nl/all_subdomains.txt)|6|All found subdomains (history)|
 
 
@@ -24,4 +24,7 @@
 |[https://mail.knooppuntjoure.nl](https://mail.knooppuntjoure.nl)| | **F**|cloudflare| | | | | | | | :white_check_mark: | |Cloudflare HTTP/3||
 |[https://www.knooppuntjoure.nl](https://www.knooppuntjoure.nl)| | **F**|cloudflare| | | | | | | | :white_check_mark: | |Cloudflare HTTP/3 MySQL PHP:8.0.30 WordPress|Knooppuntjoure.n...|
 |[https://knooppuntjoure.nl](https://knooppuntjoure.nl)| | **F**|cloudflare| | | | | | | | :white_check_mark: | |Cloudflare HTTP/3 PHP:8.0.30||
+|[https://pop.knooppuntjoure.nl](https://pop.knooppuntjoure.nl)| | **F**|cloudflare| | | | | | | | :white_check_mark: | |Cloudflare HTTP/3||
+|[https://smtp.knooppuntjoure.nl](https://smtp.knooppuntjoure.nl)| | **F**|cloudflare| | | | | | | | :white_check_mark: | |Cloudflare HTTP/3||
+|[https://ftp.knooppuntjoure.nl](https://ftp.knooppuntjoure.nl)| | **F**|cloudflare| | | | | | | | :white_check_mark: | |Cloudflare HTTP/3||
 

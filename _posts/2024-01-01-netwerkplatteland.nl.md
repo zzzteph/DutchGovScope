@@ -2,8 +2,8 @@
 layout: default
 title: "netwerkplatteland.nl"
 permalink: "/dutchgov/netwerkplatteland.nl.html"
-subdomains_count: 10
-all_subdomains_count: 14
+subdomains_count: 11
+all_subdomains_count: 15
 urls_count: 5
 ssl_rank: A
 http_rank: A
@@ -27,9 +27,9 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/netwerkplatteland.nl/subdomains.txt)|10|Alive subdomains|
+|[subdomains.txt](/DutchGovScope/data/netwerkplatteland.nl/subdomains.txt)|11|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/netwerkplatteland.nl/urls.txt)|5|Urls|
-|[all_subdomains.txt](/DutchGovScope/data/netwerkplatteland.nl/all_subdomains.txt)|14|All found subdomains (history)|
+|[all_subdomains.txt](/DutchGovScope/data/netwerkplatteland.nl/all_subdomains.txt)|15|All found subdomains (history)|
 
 
 ## Statistics

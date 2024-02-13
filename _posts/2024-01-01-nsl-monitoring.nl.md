@@ -4,9 +4,9 @@ title: "nsl-monitoring.nl"
 permalink: "/dutchgov/nsl-monitoring.nl.html"
 subdomains_count: 7
 all_subdomains_count: 15
-urls_count: 0
+urls_count: 1
 ssl_rank: 
-http_rank: F
+http_rank: D
 security_txt: 0
 url_link: /data/nsl-monitoring.nl/urls.txt
 all_subdomains_link: /data/nsl-monitoring.nl/all_subdomains.txt
@@ -21,14 +21,14 @@ tags: dutchgov
 
 
  - **SSL Grade**:
- - **HTTP Security Grade**:F
+ - **HTTP Security Grade**:D
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:0
 
 
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/DutchGovScope/data/nsl-monitoring.nl/subdomains.txt)|7|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/nsl-monitoring.nl/urls.txt)|0|Urls|
+|[urls.txt](/DutchGovScope/data/nsl-monitoring.nl/urls.txt)|1|Urls|
 |[all_subdomains.txt](/DutchGovScope/data/nsl-monitoring.nl/all_subdomains.txt)|15|All found subdomains (history)|
 
 
@@ -37,4 +37,5 @@ tags: dutchgov
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
+|[http://localhost.nsl-monitoring.nl](http://localhost.nsl-monitoring.nl)| | **D**|nginx| | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Nginx|Welcome to nginx...|
 

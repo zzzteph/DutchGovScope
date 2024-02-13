@@ -62,3 +62,4 @@ airwatch.hhdelfland.nl
 enterpriseenrollment.hhdelfland.nl
 fileshare.hhdelfland.nl
 passwordreset.hhdelfland.nl
+enterpriseregistration.hhdelfland.nl

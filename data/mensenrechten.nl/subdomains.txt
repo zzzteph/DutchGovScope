@@ -32,3 +32,5 @@ thuiswerken.mensenrechten.nl
 mx2.mensenrechten.nl
 mx3.mensenrechten.nl
 mx4.mensenrechten.nl
+a-feeds.mensenrechten.nl
+pax.mensenrechten.nl

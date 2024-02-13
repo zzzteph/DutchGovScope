@@ -9,3 +9,8 @@ https://helpdesk.irealisatie.nl
 https://www.irealisatie.nl
 https://nextcloud.irealisatie.nl
 https://irealisatie.nl
+http://acc.irealisatie.nl
+http://gitea.irealisatie.nl
+http://taiga.irealisatie.nl
+https://mailcatch.acc.dpr.irealisatie.nl
+https://mailcatch.test.dpr.irealisatie.nl

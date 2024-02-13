@@ -134,7 +134,6 @@ https://neptunus.databank.nl
 https://gemeente.databank.nl
 https://ftgelderiand.databank.nl
 https://www.amsterdam.rosopen.databank.nl
-https://test-mbotransparant.databank.nl
 https://dd.databank.nl
 https://00klimaatmonitor.databank.nl
 https://beta-adc.databank.nl
@@ -283,7 +282,7 @@ https://httpsenergiecijfers.databank.nl
 https://httpsvue.databank.nl
 https://httpsprognosemodelzw.databank.nl
 https://httpslive-waves.databank.nl
-https://beta-klimaatbeleid.databank.nl
+http://beta-klimaatbeleid.databank.nl
 https://beta-dcmr.databank.nl
 https://frieslandsnb.databank.nl
 https://gip.databank.nl
@@ -929,14 +928,14 @@ https://adc.databank.nl
 https://alliander.databank.nl
 https://zag.databank.nl
 https://detailhandel.databank.nl
-https://bbm.databank.nl
+http://bbm.databank.nl
 http://cak.databank.nl
 https://po.databank.nl
 https://vo.databank.nl
 http://deloitte.databank.nl
 https://fortuna.databank.nl
 https://gg.databank.nl
-https://rabobank.databank.nl
+http://rabobank.databank.nl
 https://waddinxveen.databank.nl
 https://mre.databank.nl
 https://oom.databank.nl

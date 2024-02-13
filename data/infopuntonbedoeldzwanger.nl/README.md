@@ -11,7 +11,7 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/infopuntonbedoeldzwanger.nl/subdomains.txt)|7|Alive subdomains|
+|[subdomains.txt](/data/infopuntonbedoeldzwanger.nl/subdomains.txt)|8|Alive subdomains|
 |[urls.txt](/data/infopuntonbedoeldzwanger.nl/urls.txt)|5|Urls|
 |[all_subdomains.txt](/data/infopuntonbedoeldzwanger.nl/all_subdomains.txt)|8|All found subdomains (history)|
 

@@ -5,7 +5,7 @@ permalink: "/dutchgov/rijksinkopen.nl.html"
 subdomains_count: 10
 all_subdomains_count: 12
 urls_count: 3
-ssl_rank: 
+ssl_rank: A+
 http_rank: B
 security_txt: 1
 url_link: /data/rijksinkopen.nl/urls.txt
@@ -20,7 +20,7 @@ tags: dutchgov
 ## Summary data
 
 
- - **SSL Grade**:
+ - **SSL Grade**:A+
  - **HTTP Security Grade**:B
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:1
 
@@ -37,7 +37,7 @@ tags: dutchgov
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://plink.rijksinkopen.nl](https://plink.rijksinkopen.nl)| | **A**|Apache| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Apache HTTP Server HSTS||
-|[https://leveranciersportaal.rijksinkopen.nl](https://leveranciersportaal.rijksinkopen.nl)| | **C**|nginx|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS Microsoft ASP.NET Nginx|Leveranciersport...|
-|[https://lp.rijksinkopen.nl](https://lp.rijksinkopen.nl)| | **C**|nginx|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS Microsoft ASP.NET Nginx|Leveranciersport...|
+|[https://plink.rijksinkopen.nl](https://plink.rijksinkopen.nl)| **A+**| **A**|Apache| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Apache HTTP Server HSTS||
+|[https://leveranciersportaal.rijksinkopen.nl](https://leveranciersportaal.rijksinkopen.nl)| **A+**| **C**|nginx|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS Microsoft ASP.NET Nginx|Leveranciersport...|
+|[https://lp.rijksinkopen.nl](https://lp.rijksinkopen.nl)| **A+**| **C**|nginx|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS Microsoft ASP.NET Nginx|Leveranciersport...|
 

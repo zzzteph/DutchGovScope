@@ -5,3 +5,4 @@ www.kansrijkestartnl.nl
 kansrijkestartnl.nl
 a-feeds.kansrijkestartnl.nl
 a-www.kansrijkestartnl.nl
+a-opendata.kansrijkestartnl.nl

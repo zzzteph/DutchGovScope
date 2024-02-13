@@ -3,7 +3,7 @@ layout: default
 title: "ssc-campus.nl"
 permalink: "/dutchgov/ssc-campus.nl.html"
 subdomains_count: 34
-all_subdomains_count: 542
+all_subdomains_count: 544
 urls_count: 18
 ssl_rank: 
 http_rank: D
@@ -29,7 +29,7 @@ tags: dutchgov
 |------------|-------|------|
 |[subdomains.txt](/DutchGovScope/data/ssc-campus.nl/subdomains.txt)|34|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/ssc-campus.nl/urls.txt)|18|Urls|
-|[all_subdomains.txt](/DutchGovScope/data/ssc-campus.nl/all_subdomains.txt)|542|All found subdomains (history)|
+|[all_subdomains.txt](/DutchGovScope/data/ssc-campus.nl/all_subdomains.txt)|544|All found subdomains (history)|
 
 
 ## Statistics

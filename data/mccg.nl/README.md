@@ -11,9 +11,9 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/mccg.nl/subdomains.txt)|9|Alive subdomains|
+|[subdomains.txt](/data/mccg.nl/subdomains.txt)|10|Alive subdomains|
 |[urls.txt](/data/mccg.nl/urls.txt)|4|Urls|
-|[all_subdomains.txt](/data/mccg.nl/all_subdomains.txt)|9|All found subdomains (history)|
+|[all_subdomains.txt](/data/mccg.nl/all_subdomains.txt)|10|All found subdomains (history)|
 
 
 ## Statistics

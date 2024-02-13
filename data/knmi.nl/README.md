@@ -5,14 +5,14 @@
 
 
  - **SSL Grade**:B+
- - **HTTP Security Grade**:E
+ - **HTTP Security Grade**:D
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:9
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/knmi.nl/subdomains.txt)|159|Alive subdomains|
-|[urls.txt](/data/knmi.nl/urls.txt)|61|Urls|
+|[subdomains.txt](/data/knmi.nl/subdomains.txt)|158|Alive subdomains|
+|[urls.txt](/data/knmi.nl/urls.txt)|62|Urls|
 |[all_subdomains.txt](/data/knmi.nl/all_subdomains.txt)|267|All found subdomains (history)|
 
 
@@ -63,7 +63,7 @@
 |[https://tyk-cdn.dataplatform.knmi.nl](https://tyk-cdn.dataplatform.knmi.nl)| **A**| **F**|AmazonS3| | | | | | | | :white_check_mark: | |Amazon CloudFront Amazon S3 Amazon Web Services||
 |[https://w3dxweb.knmi.nl](https://w3dxweb.knmi.nl)| **B**| **F**|Apache/2.4.37 (Red Hat Enterprise Linux) OpenSSL/1.1.1k| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.37 Basic OpenSSL:1.1.1k Red Hat|401 Unauthorized|
 |[http://webmail.knmi.nl](http://webmail.knmi.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
-|[https://wms-viewer.dataplatform.knmi.nl](https://wms-viewer.dataplatform.knmi.nl)| **B**| **C**|AmazonS3| |:white_check_mark: | | | | | | :white_check_mark: | |Amazon CloudFront Amazon S3 Amazon Web Services HSTS|KNMI - Data Plat...|
+|[https://wms-viewer.dataplatform.knmi.nl](https://wms-viewer.dataplatform.knmi.nl)| **B**| **D**|AmazonS3| |:white_check_mark: | :warning:| | | | | :white_check_mark: | |Amazon CloudFront Amazon S3 Amazon Web Services HSTS|KNMI - Data Plat...|
 |[https://wow.knmi.nl](https://wow.knmi.nl)| **A+**| **B**|nginx| |:white_check_mark: | | |:warning: | | | :white_check_mark: | |Bootstrap HSTS Nginx|WOW-NL: Jouw wee...|
 |[https://www.knmi.nl](https://www.knmi.nl)| **A+**| **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Amazon CloudFront Amazon Web Services HSTS||
 |[https://www.daggegevens.knmi.nl](https://www.daggegevens.knmi.nl)| **A**| **E**||:warning: | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Ruby Ruby on Rails|Dagwaarden van w...|
@@ -82,4 +82,5 @@
 |[https://origin.klimaatscenarios-data.knmi.nl](https://origin.klimaatscenarios-data.knmi.nl)| | **F**|awselb/2.0| | | | | | | | :white_check_mark: | |Amazon ELB Amazon Web Services||
 |[https://anonymous.api.dataplatform.knmi.nl](https://anonymous.api.dataplatform.knmi.nl)| **A**| **F**|nginx/1.24.0| | | | | | | | :white_check_mark: | |Nginx:1.24.0|404 Not Found|
 |[https://cms-origin.klimaatscenarios-data.knmi.nl](https://cms-origin.klimaatscenarios-data.knmi.nl)| | **F**|awselb/2.0| | | | | | | | :white_check_mark: | |Amazon ELB Amazon Web Services||
+|[https://cdn.klimaatscenarios-data.knmi.nl](https://cdn.klimaatscenarios-data.knmi.nl)| | **A**|AmazonS3| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Amazon CloudFront Amazon S3 Amazon Web Services HSTS||
 

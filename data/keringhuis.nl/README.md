@@ -12,7 +12,7 @@
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/keringhuis.nl/subdomains.txt)|10|Alive subdomains|
-|[urls.txt](/data/keringhuis.nl/urls.txt)|6|Urls|
+|[urls.txt](/data/keringhuis.nl/urls.txt)|8|Urls|
 |[all_subdomains.txt](/data/keringhuis.nl/all_subdomains.txt)|13|All found subdomains (history)|
 
 
@@ -27,4 +27,6 @@
 |[https://symposium.keringhuis.nl](https://symposium.keringhuis.nl)| | **F**|Apache/2.4.41 (Ubuntu)|:o: | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server:2.4.41 Bootstrap:4.6.0 PHP Ubuntu|Symposium Maesla...|
 |[https://www.symposium.keringhuis.nl](https://www.symposium.keringhuis.nl)| | **F**|Apache/2.4.41 (Ubuntu)|:o: | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server:2.4.41 Bootstrap:4.6.0 PHP Ubuntu|Symposium Maesla...|
 |[https://keringhuis.nl](https://keringhuis.nl)| | **E**|Apache|:o: |:white_check_mark: | | | | | | :white_check_mark: | |Apache HTTP Server HSTS PHP|Keringhuis|
+|[http://localhost.keringhuis.nl](http://localhost.keringhuis.nl)| | **D**|nginx| | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Nginx|Welcome to nginx...|
+|[https://pop.keringhuis.nl](https://pop.keringhuis.nl)| | **F**|IceWarp/13.0.3.10 x64| | | | | | | | :white_check_mark: | |HSTS|302 Document Mov...|
 
