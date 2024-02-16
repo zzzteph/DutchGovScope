@@ -11,8 +11,8 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/rivm.nl/subdomains.txt)|398|Alive subdomains|
-|[urls.txt](/data/rivm.nl/urls.txt)|267|Urls|
+|[subdomains.txt](/data/rivm.nl/subdomains.txt)|400|Alive subdomains|
+|[urls.txt](/data/rivm.nl/urls.txt)|268|Urls|
 |[all_subdomains.txt](/data/rivm.nl/all_subdomains.txt)|923|All found subdomains (history)|
 
 
@@ -288,4 +288,5 @@
 |[https://api.tst-lsp.rivm.nl](https://api.tst-lsp.rivm.nl)| | **F**|Microsoft-Azure-Application-Gateway/v2| | | | | | | | :white_check_mark: | ||404 Not Found|
 |[https://lsp.rivm.nl](https://lsp.rivm.nl)| | **F**|Microsoft-Azure-Application-Gateway/v2| | | | | | | | :white_check_mark: | ||404 Not Found|
 |[http://dashview.rivm.nl](http://dashview.rivm.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
+|[http://spoor.rivm.nl](http://spoor.rivm.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 

@@ -2,5 +2,5 @@ https://www.regioburgemeesters.nl
 https://regioburgemeesters.nl
 https://dialin.regioburgemeesters.nl
 https://lyncdiscover.regioburgemeesters.nl
-http://meet.regioburgemeesters.nl
+https://meet.regioburgemeesters.nl
 https://sip.regioburgemeesters.nl

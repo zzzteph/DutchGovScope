@@ -41,5 +41,5 @@ tags: dutchgov
 |[https://magazines.jeugdautoriteit.nl](https://magazines.jeugdautoriteit.nl)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://opendata.jeugdautoriteit.nl](https://opendata.jeugdautoriteit.nl)| **A+**| **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://www.jeugdautoriteit.nl](https://www.jeugdautoriteit.nl)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Home | Jeugdauto...|
-|[https://jeugdautoriteit.nl](https://jeugdautoriteit.nl)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
+|[https://jeugdautoriteit.nl](https://jeugdautoriteit.nl)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 

@@ -4,7 +4,7 @@
 ## Summary data
 
 
- - **SSL Grade**:
+ - **SSL Grade**:A+
  - **HTTP Security Grade**:C
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:2
 
@@ -21,7 +21,7 @@
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://www.volksgezondheidtoekomstverkenning.nl](https://www.volksgezondheidtoekomstverkenning.nl)| | **B**|Apache| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server Drupal HSTS PHP|Home | Volksgezo...|
-|[https://volksgezondheidtoekomstverkenning.nl](https://volksgezondheidtoekomstverkenning.nl)| | **B**|Apache| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS|301 Moved Perman...|
+|[https://www.volksgezondheidtoekomstverkenning.nl](https://www.volksgezondheidtoekomstverkenning.nl)| **A+**| **B**|Apache| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server Drupal HSTS PHP|Home | Volksgezo...|
+|[https://volksgezondheidtoekomstverkenning.nl](https://volksgezondheidtoekomstverkenning.nl)| **A+**| **B**|Apache| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS|301 Moved Perman...|
 |[http://localhost.volksgezondheidtoekomstverkenning.nl](http://localhost.volksgezondheidtoekomstverkenning.nl)| | **D**|nginx| | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Nginx|Welcome to nginx...|
 

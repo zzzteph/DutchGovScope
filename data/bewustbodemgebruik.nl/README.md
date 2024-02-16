@@ -23,7 +23,7 @@
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[https://mail.bewustbodemgebruik.nl](https://mail.bewustbodemgebruik.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|This is the defa...|
 |[https://www.bewustbodemgebruik.nl](https://www.bewustbodemgebruik.nl)| | **E**|nginx| | | | | | | :white_check_mark: | :white_check_mark: | |Nginx SiteGround||
-|[https://bewustbodemgebruik.nl](https://bewustbodemgebruik.nl)| | **E**|nginx| | | | | | | :white_check_mark: | :white_check_mark: | |MySQL Nginx PHP WordPress|Bewust Bodemgebr...|
+|[https://bewustbodemgebruik.nl](https://bewustbodemgebruik.nl)| | **E**|nginx| | | | | | | :white_check_mark: | :white_check_mark: | |MySQL Nginx PHP SiteGround WordPress|Bewust Bodemgebr...|
 |[https://autoconfig.bewustbodemgebruik.nl](https://autoconfig.bewustbodemgebruik.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|This is the defa...|
 |[http://autodiscover.bewustbodemgebruik.nl](http://autodiscover.bewustbodemgebruik.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx||
 |[https://ftp.bewustbodemgebruik.nl](https://ftp.bewustbodemgebruik.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|This is the defa...|

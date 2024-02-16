@@ -190,6 +190,7 @@ zoeken2.acp.kvk.nl
 pr.kvk.nl
 em4955.kvk.nl
 lyncdiscover.kvk.nl
+admin.tbadmin.kvk.nl
 sip.kvk.nl
 tbadmin.kvk.nl
 fed-lms.kvk.nl

@@ -4,3 +4,4 @@ atgb.nl
 enterpriseenrollment.atgb.nl
 ftp.atgb.nl
 mysql.atgb.nl
+enterpriseregistration.atgb.nl

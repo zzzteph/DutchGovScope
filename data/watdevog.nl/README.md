@@ -4,7 +4,7 @@
 ## Summary data
 
 
- - **SSL Grade**:
+ - **SSL Grade**:B
  - **HTTP Security Grade**:E
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:0
 
@@ -21,6 +21,6 @@
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://www.watdevog.nl](https://www.watdevog.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||
-|[https://watdevog.nl](https://watdevog.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||
+|[https://www.watdevog.nl](https://www.watdevog.nl)| **B**| **E**|| | | | | | | | :white_check_mark: | |HSTS||
+|[https://watdevog.nl](https://watdevog.nl)| **B**| **E**|| | | | | | | | :white_check_mark: | |HSTS||
 

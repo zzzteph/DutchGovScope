@@ -3,9 +3,9 @@ layout: default
 title: "verbeterjehuis.nl"
 permalink: "/dutchgov/verbeterjehuis.nl.html"
 subdomains_count: 7
-all_subdomains_count: 12
+all_subdomains_count: 13
 urls_count: 7
-ssl_rank: 
+ssl_rank: A+
 http_rank: A
 security_txt: 0
 url_link: /data/verbeterjehuis.nl/urls.txt
@@ -20,7 +20,7 @@ tags: dutchgov
 ## Summary data
 
 
- - **SSL Grade**:
+ - **SSL Grade**:A+
  - **HTTP Security Grade**:A
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:0
 
@@ -29,7 +29,7 @@ tags: dutchgov
 |------------|-------|------|
 |[subdomains.txt](/DutchGovScope/data/verbeterjehuis.nl/subdomains.txt)|7|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/verbeterjehuis.nl/urls.txt)|7|Urls|
-|[all_subdomains.txt](/DutchGovScope/data/verbeterjehuis.nl/all_subdomains.txt)|12|All found subdomains (history)|
+|[all_subdomains.txt](/DutchGovScope/data/verbeterjehuis.nl/all_subdomains.txt)|13|All found subdomains (history)|
 
 
 ## Statistics
@@ -37,10 +37,10 @@ tags: dutchgov
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://www.verbeterjehuis.nl](https://www.verbeterjehuis.nl)| | **A**|cloudflare| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Cloudflare HSTS|Alles over je hu...|
+|[https://www.verbeterjehuis.nl](https://www.verbeterjehuis.nl)| **A+**| **A**|cloudflare| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Cloudflare HSTS|Alles over je hu...|
 |[https://energyportpeelland.verbeterjehuis.nl](https://energyportpeelland.verbeterjehuis.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Microsoft Azure...|
-|[https://verbeterjehuis.nl](https://verbeterjehuis.nl)| | **A**|cloudflare| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Cloudflare HSTS|Document Moved|
-|[https://groenesubsidiewijzer.verbeterjehuis.nl](https://groenesubsidiewijzer.verbeterjehuis.nl)| | **A**|cloudflare| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Cloudflare HSTS|Object moved|
+|[https://verbeterjehuis.nl](https://verbeterjehuis.nl)| **A+**| **A**|cloudflare| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Cloudflare HSTS|Document Moved|
+|[https://groenesubsidiewijzer.verbeterjehuis.nl](https://groenesubsidiewijzer.verbeterjehuis.nl)| **A+**| **A**|cloudflare| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Cloudflare HSTS|Object moved|
 |[https://cms.verbeterjehuis.nl](https://cms.verbeterjehuis.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Document Moved|
 |[https://content.verbeterjehuis.nl](https://content.verbeterjehuis.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[http://localhost.verbeterjehuis.nl](http://localhost.verbeterjehuis.nl)| | **D**|nginx| | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Nginx|Welcome to nginx...|

@@ -2,8 +2,8 @@
 layout: default
 title: "regioburgemeesters.nl"
 permalink: "/dutchgov/regioburgemeesters.nl.html"
-subdomains_count: 8
-all_subdomains_count: 9
+subdomains_count: 9
+all_subdomains_count: 10
 urls_count: 6
 ssl_rank: 
 http_rank: E
@@ -27,9 +27,9 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/regioburgemeesters.nl/subdomains.txt)|8|Alive subdomains|
+|[subdomains.txt](/DutchGovScope/data/regioburgemeesters.nl/subdomains.txt)|9|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/regioburgemeesters.nl/urls.txt)|6|Urls|
-|[all_subdomains.txt](/DutchGovScope/data/regioburgemeesters.nl/all_subdomains.txt)|9|All found subdomains (history)|
+|[all_subdomains.txt](/DutchGovScope/data/regioburgemeesters.nl/all_subdomains.txt)|10|All found subdomains (history)|
 
 
 ## Statistics
@@ -41,6 +41,6 @@ tags: dutchgov
 |[https://regioburgemeesters.nl](https://regioburgemeesters.nl)| | **D**|nginx|:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | |Bootstrap HSTS Nginx PHP:8.0.30|Home - Regioburg...|
 |[https://dialin.regioburgemeesters.nl](https://dialin.regioburgemeesters.nl)| | **F**|Microsoft-IIS/10.0| | | | | | | | :white_check_mark: | |HSTS IIS:10.0 Windows Server|Conferencing Dia...|
 |[https://lyncdiscover.regioburgemeesters.nl](https://lyncdiscover.regioburgemeesters.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
-|[http://meet.regioburgemeesters.nl](http://meet.regioburgemeesters.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||
+|[https://meet.regioburgemeesters.nl](https://meet.regioburgemeesters.nl)| | **F**|Microsoft-IIS/10.0| | | | | | | | :white_check_mark: | |HSTS IIS:10.0 Windows Server||
 |[https://sip.regioburgemeesters.nl](https://sip.regioburgemeesters.nl)| | **C**|RTC/6.0| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
 

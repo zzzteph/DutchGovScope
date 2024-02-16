@@ -4,7 +4,7 @@
 ## Summary data
 
 
- - **SSL Grade**:
+ - **SSL Grade**:A+
  - **HTTP Security Grade**:A
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:2
 
@@ -21,6 +21,6 @@
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://www.mirta2deilvught.nl](https://www.mirta2deilvught.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET|Object moved|
-|[https://mirta2deilvught.nl](https://mirta2deilvught.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET|Object moved|
+|[https://www.mirta2deilvught.nl](https://www.mirta2deilvught.nl)| **A+**| **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET|Object moved|
+|[https://mirta2deilvught.nl](https://mirta2deilvught.nl)| **A+**| **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET|Object moved|
 

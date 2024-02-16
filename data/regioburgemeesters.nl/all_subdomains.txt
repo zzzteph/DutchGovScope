@@ -7,3 +7,4 @@ sip.regioburgemeesters.nl
 access.regioburgemeesters.nl
 conf.regioburgemeesters.nl
 webservices.regioburgemeesters.nl
+redactie.regioburgemeesters.nl

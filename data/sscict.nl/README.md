@@ -4,7 +4,7 @@
 ## Summary data
 
 
- - **SSL Grade**:
+ - **SSL Grade**:A+
  - **HTTP Security Grade**:C
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:2
 
@@ -21,8 +21,8 @@
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://sscict.nl](https://sscict.nl)| | **A**|Microsoft-IIS/10.0| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS IIS:10.0 Windows Server|Document Moved|
-|[https://www.sscict.nl](https://www.sscict.nl)| | **A**|Microsoft-IIS/10.0| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS IIS:10.0 Windows Server|Document Moved|
+|[https://sscict.nl](https://sscict.nl)| **A+**| **A**|Microsoft-IIS/10.0| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS IIS:10.0 Windows Server|Document Moved|
+|[https://www.sscict.nl](https://www.sscict.nl)| **A+**| **A**|Microsoft-IIS/10.0| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS IIS:10.0 Windows Server|Document Moved|
 |[https://idtappp01.sscict.nl](https://idtappp01.sscict.nl)| | **E**|| | | | | | | | :white_check_mark: | ||| (403)|
 |[https://idtappa01.sscict.nl](https://idtappa01.sscict.nl)| | **E**|| | | | | | | | :white_check_mark: | ||| (403)|
 |[http://localhost.sscict.nl](http://localhost.sscict.nl)| | **D**|nginx| | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Nginx|Welcome to nginx...|

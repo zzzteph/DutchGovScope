@@ -11,7 +11,7 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/anvs.nl/subdomains.txt)|12|Alive subdomains|
+|[subdomains.txt](/data/anvs.nl/subdomains.txt)|11|Alive subdomains|
 |[urls.txt](/data/anvs.nl/urls.txt)|4|Urls|
 |[all_subdomains.txt](/data/anvs.nl/all_subdomains.txt)|12|All found subdomains (history)|
 

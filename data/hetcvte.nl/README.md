@@ -4,15 +4,15 @@
 ## Summary data
 
 
- - **SSL Grade**:E
- - **HTTP Security Grade**:D
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:3
+ - **SSL Grade**:C
+ - **HTTP Security Grade**:E
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:1
 
 
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/hetcvte.nl/subdomains.txt)|10|Alive subdomains|
-|[urls.txt](/data/hetcvte.nl/urls.txt)|10|Urls|
+|[urls.txt](/data/hetcvte.nl/urls.txt)|8|Urls|
 |[all_subdomains.txt](/data/hetcvte.nl/all_subdomains.txt)|12|All found subdomains (history)|
 
 
@@ -25,8 +25,6 @@
 |[https://da.hetcvte.nl](https://da.hetcvte.nl)| **F**| **F**|Microsoft-IIS/10.0| | | | | | | | :white_check_mark: | |IIS:10.0 Windows Server||
 |[https://mbg.hetcvte.nl](https://mbg.hetcvte.nl)| **A+**| **A**|Apache| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS|Redirecting...|
 |[https://micollab.hetcvte.nl](https://micollab.hetcvte.nl)| **A+**| **A**|Apache| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS|Redirecting...|
-|[https://www.hetcvte.nl](https://www.hetcvte.nl)| **F**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Nginx|301 Moved Perman...|
-|[https://hetcvte.nl](https://hetcvte.nl)| **F**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Nginx|301 Moved Perman...|
 |[https://mail.hetcvte.nl](https://mail.hetcvte.nl)| | **F**|Microsoft-IIS/10.0| | | | | | | | :white_check_mark: | |IIS:10.0 Windows Server||
 |[https://ts.hetcvte.nl](https://ts.hetcvte.nl)| | **F**|Microsoft-IIS/10.0| | | | | | | | :white_check_mark: | |IIS:10.0 Windows Server||
 |[https://webmail.hetcvte.nl](https://webmail.hetcvte.nl)| | **F**|Microsoft-IIS/10.0| | | | | | | | :white_check_mark: | |IIS:10.0 Windows Server||

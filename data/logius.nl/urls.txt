@@ -10,7 +10,6 @@ http://amp-pre.logius.nl
 https://bvd-pre.mev.logius.nl
 https://bvd.mev.logius.nl
 http://ca-devportal.logius.nl
-http://ca-devportal-pre.logius.nl
 https://ca-idp.logius.nl
 https://ca-idp-pre.logius.nl
 http://channels-az1.lpc.logius.nl
@@ -20,6 +19,7 @@ http://clienteleitsm.logius.nl
 http://clienteleitsm-acceptatie.logius.nl
 https://comcms.logius.nl
 http://docs.lpc.logius.nl
+http://git-az1.lpc.logius.nl
 http://git-az2.lpc.logius.nl
 http://git.lpc.logius.nl
 https://gitdocumentatie.logius.nl

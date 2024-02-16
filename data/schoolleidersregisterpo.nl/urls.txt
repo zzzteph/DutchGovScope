@@ -7,3 +7,4 @@ http://ftp.schoolleidersregisterpo.nl
 https://schoolleidersregisterpo.nl
 https://enterpriseenrollment.schoolleidersregisterpo.nl
 https://enterpriseregistration.schoolleidersregisterpo.nl
+https://aanmelder.schoolleidersregisterpo.nl

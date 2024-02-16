@@ -11,8 +11,8 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/irealisatie.nl/subdomains.txt)|18|Alive subdomains|
-|[urls.txt](/data/irealisatie.nl/urls.txt)|16|Urls|
+|[subdomains.txt](/data/irealisatie.nl/subdomains.txt)|19|Alive subdomains|
+|[urls.txt](/data/irealisatie.nl/urls.txt)|17|Urls|
 |[all_subdomains.txt](/data/irealisatie.nl/all_subdomains.txt)|19|All found subdomains (history)|
 
 
@@ -32,6 +32,7 @@
 |[https://www.irealisatie.nl](https://www.irealisatie.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS|iRealisatie  - W...|
 |[https://nextcloud.irealisatie.nl](https://nextcloud.irealisatie.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nextcloud PHP||
 |[https://irealisatie.nl](https://irealisatie.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS|iRealisatie  - W...|
+|[http://collabora.irealisatie.nl](http://collabora.irealisatie.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[http://acc.irealisatie.nl](http://acc.irealisatie.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[http://gitea.irealisatie.nl](http://gitea.irealisatie.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[http://taiga.irealisatie.nl](http://taiga.irealisatie.nl)| | **E**|| | | | | | | | :white_check_mark: | |||

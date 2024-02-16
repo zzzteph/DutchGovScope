@@ -2,9 +2,9 @@
 layout: default
 title: "rwscregelaar.nl"
 permalink: "/dutchgov/rwscregelaar.nl.html"
-subdomains_count: 2171
-all_subdomains_count: 2171
-urls_count: 2171
+subdomains_count: 2081
+all_subdomains_count: 2247
+urls_count: 1993
 ssl_rank: 
 http_rank: F
 security_txt: 0
@@ -27,9 +27,9 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/rwscregelaar.nl/subdomains.txt)|2171|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/rwscregelaar.nl/urls.txt)|2171|Urls|
-|[all_subdomains.txt](/DutchGovScope/data/rwscregelaar.nl/all_subdomains.txt)|2171|All found subdomains (history)|
+|[subdomains.txt](/DutchGovScope/data/rwscregelaar.nl/subdomains.txt)|2081|Alive subdomains|
+|[urls.txt](/DutchGovScope/data/rwscregelaar.nl/urls.txt)|1993|Urls|
+|[all_subdomains.txt](/DutchGovScope/data/rwscregelaar.nl/all_subdomains.txt)|2247|All found subdomains (history)|
 
 
 ## Statistics
@@ -489,198 +489,34 @@ tags: dutchgov
 |[https://fairwaymc.rwscregelaar.nl](https://fairwaymc.rwscregelaar.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu|DAT.Mobility|
 |[https://have.rwscregelaar.nl](https://have.rwscregelaar.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu|DAT.Mobility|
 |[https://burlesque.rwscregelaar.nl](https://burlesque.rwscregelaar.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu|DAT.Mobility|
-|[https://hybrid3.rwscregelaar.nl](https://hybrid3.rwscregelaar.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu|DAT.Mobility|
-|[https://4man.rwscregelaar.nl](https://4man.rwscregelaar.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu|DAT.Mobility|
-|[https://lool.rwscregelaar.nl](https://lool.rwscregelaar.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu|DAT.Mobility|
-|[https://betty.rwscregelaar.nl](https://betty.rwscregelaar.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu|DAT.Mobility|
-|[https://tzj.rwscregelaar.nl](https://tzj.rwscregelaar.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu|DAT.Mobility|
-|[https://pav.rwscregelaar.nl](https://pav.rwscregelaar.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu|DAT.Mobility|
-|[https://mta8.rwscregelaar.nl](https://mta8.rwscregelaar.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu|DAT.Mobility|
-|[https://poppies.rwscregelaar.nl](https://poppies.rwscregelaar.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu|DAT.Mobility|
-|[https://landal.rwscregelaar.nl](https://landal.rwscregelaar.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu|DAT.Mobility|
-|[https://bige.rwscregelaar.nl](https://bige.rwscregelaar.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu|DAT.Mobility|
-|[https://xn--citron-tva.rwscregelaar.nl](https://xn--citron-tva.rwscregelaar.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu|DAT.Mobility|
-|[https://zomato.rwscregelaar.nl](https://zomato.rwscregelaar.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu|DAT.Mobility|
-|[https://fizika.rwscregelaar.nl](https://fizika.rwscregelaar.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu|DAT.Mobility|
-|[https://web3663.rwscregelaar.nl](https://web3663.rwscregelaar.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu|DAT.Mobility|
-|[https://mathijs.rwscregelaar.nl](https://mathijs.rwscregelaar.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu|DAT.Mobility|
-|[https://click.message.rwscregelaar.nl](https://click.message.rwscregelaar.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu|DAT.Mobility|
-|[https://dalia.rwscregelaar.nl](https://dalia.rwscregelaar.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu|DAT.Mobility|
-|[https://neri.rwscregelaar.nl](https://neri.rwscregelaar.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu|DAT.Mobility|
-|[https://steadfast.rwscregelaar.nl](https://steadfast.rwscregelaar.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu|DAT.Mobility|
-|[https://off-road.rwscregelaar.nl](https://off-road.rwscregelaar.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu|DAT.Mobility|
-|[https://grover.rwscregelaar.nl](https://grover.rwscregelaar.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu|DAT.Mobility|
-|[https://dataviz.rwscregelaar.nl](https://dataviz.rwscregelaar.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu|DAT.Mobility|
-|[https://ubc.rwscregelaar.nl](https://ubc.rwscregelaar.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu|DAT.Mobility|
-|[https://regional.rwscregelaar.nl](https://regional.rwscregelaar.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu|DAT.Mobility|
-|[https://zik.rwscregelaar.nl](https://zik.rwscregelaar.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu|DAT.Mobility|
-|[https://thunar.rwscregelaar.nl](https://thunar.rwscregelaar.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu|DAT.Mobility|
-|[https://jenna.rwscregelaar.nl](https://jenna.rwscregelaar.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu|DAT.Mobility|
-|[https://sinister.rwscregelaar.nl](https://sinister.rwscregelaar.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu|DAT.Mobility|
-|[https://99www.rwscregelaar.nl](https://99www.rwscregelaar.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu|DAT.Mobility|
-|[https://herveld.rwscregelaar.nl](https://herveld.rwscregelaar.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu|DAT.Mobility|
-|[https://jkb.rwscregelaar.nl](https://jkb.rwscregelaar.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu|DAT.Mobility|
-|[https://iff.rwscregelaar.nl](https://iff.rwscregelaar.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu|DAT.Mobility|
-|[https://blog.secure.rwscregelaar.nl](https://blog.secure.rwscregelaar.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu|DAT.Mobility|
-|[https://blackeyes.rwscregelaar.nl](https://blackeyes.rwscregelaar.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu|DAT.Mobility|
-|[https://vlagtwedde.rwscregelaar.nl](https://vlagtwedde.rwscregelaar.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu|DAT.Mobility|
-|[https://citycontrol.rwscregelaar.nl](https://citycontrol.rwscregelaar.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu|DAT.Mobility|
-|[https://dailydeals.rwscregelaar.nl](https://dailydeals.rwscregelaar.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu|DAT.Mobility|
-|[https://origin-beta.rwscregelaar.nl](https://origin-beta.rwscregelaar.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu|DAT.Mobility|
-|[https://steenbergen.rwscregelaar.nl](https://steenbergen.rwscregelaar.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu|DAT.Mobility|
-|[https://beroerte.rwscregelaar.nl](https://beroerte.rwscregelaar.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu|DAT.Mobility|
-|[https://facetoface.rwscregelaar.nl](https://facetoface.rwscregelaar.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu|DAT.Mobility|
-|[https://iseg.rwscregelaar.nl](https://iseg.rwscregelaar.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu|DAT.Mobility|
-|[https://3dx.rwscregelaar.nl](https://3dx.rwscregelaar.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu|DAT.Mobility|
-|[https://nadym.rwscregelaar.nl](https://nadym.rwscregelaar.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu|DAT.Mobility|
-|[https://hoekvanholland.rwscregelaar.nl](https://hoekvanholland.rwscregelaar.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu|DAT.Mobility|
-|[https://ota.rwscregelaar.nl](https://ota.rwscregelaar.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu|DAT.Mobility|
-|[https://eigen-webwinkels.rwscregelaar.nl](https://eigen-webwinkels.rwscregelaar.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu|DAT.Mobility|
-|[https://web4840.rwscregelaar.nl](https://web4840.rwscregelaar.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu|DAT.Mobility|
-|[https://talktalk.rwscregelaar.nl](https://talktalk.rwscregelaar.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu|DAT.Mobility|
-|[https://jhb.rwscregelaar.nl](https://jhb.rwscregelaar.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu|DAT.Mobility|
-|[https://steve.rwscregelaar.nl](https://steve.rwscregelaar.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu|DAT.Mobility|
-|[https://connectedhome.rwscregelaar.nl](https://connectedhome.rwscregelaar.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu|DAT.Mobility|
-|[https://cp4.rwscregelaar.nl](https://cp4.rwscregelaar.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu|DAT.Mobility|
-|[https://t24.rwscregelaar.nl](https://t24.rwscregelaar.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu|DAT.Mobility|
-|[https://dudley.rwscregelaar.nl](https://dudley.rwscregelaar.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu|DAT.Mobility|
-|[https://web6049.rwscregelaar.nl](https://web6049.rwscregelaar.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu|DAT.Mobility|
-|[https://swib.rwscregelaar.nl](https://swib.rwscregelaar.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu|DAT.Mobility|
-|[https://niobe.rwscregelaar.nl](https://niobe.rwscregelaar.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu|DAT.Mobility|
-|[https://kah.rwscregelaar.nl](https://kah.rwscregelaar.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu|DAT.Mobility|
-|[https://subsidie.rwscregelaar.nl](https://subsidie.rwscregelaar.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu|DAT.Mobility|
-|[https://werkbon.rwscregelaar.nl](https://werkbon.rwscregelaar.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu|DAT.Mobility|
-|[https://csr21.arch.rwscregelaar.nl](https://csr21.arch.rwscregelaar.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu|DAT.Mobility|
-|[https://dep.rwscregelaar.nl](https://dep.rwscregelaar.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu|DAT.Mobility|
-|[https://blaricum.rwscregelaar.nl](https://blaricum.rwscregelaar.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu|DAT.Mobility|
-|[https://colorful.rwscregelaar.nl](https://colorful.rwscregelaar.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu|DAT.Mobility|
-|[https://youp.rwscregelaar.nl](https://youp.rwscregelaar.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu|DAT.Mobility|
-|[https://aeolian.rwscregelaar.nl](https://aeolian.rwscregelaar.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu|DAT.Mobility|
-|[https://orthopedie.rwscregelaar.nl](https://orthopedie.rwscregelaar.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu|DAT.Mobility|
-|[https://lpta009.itd.rwscregelaar.nl](https://lpta009.itd.rwscregelaar.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu|DAT.Mobility|
-|[https://imgsrv.rwscregelaar.nl](https://imgsrv.rwscregelaar.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu|DAT.Mobility|
-|[https://autodiscover.research.rwscregelaar.nl](https://autodiscover.research.rwscregelaar.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu|DAT.Mobility|
-|[https://chesapeake.rwscregelaar.nl](https://chesapeake.rwscregelaar.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu|DAT.Mobility|
-|[https://voipa04b.rwscregelaar.nl](https://voipa04b.rwscregelaar.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu|DAT.Mobility|
-|[https://onderzoek.rwscregelaar.nl](https://onderzoek.rwscregelaar.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu|DAT.Mobility|
-|[https://venebrugge.rwscregelaar.nl](https://venebrugge.rwscregelaar.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu|DAT.Mobility|
-|[https://3n.rwscregelaar.nl](https://3n.rwscregelaar.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu|DAT.Mobility|
-|[https://test-static.rwscregelaar.nl](https://test-static.rwscregelaar.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu|DAT.Mobility|
-|[https://web17064.rwscregelaar.nl](https://web17064.rwscregelaar.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu|DAT.Mobility|
-|[https://vdb.rwscregelaar.nl](https://vdb.rwscregelaar.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu|DAT.Mobility|
-|[https://streams.rwscregelaar.nl](https://streams.rwscregelaar.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu|DAT.Mobility|
-|[https://inventario.rwscregelaar.nl](https://inventario.rwscregelaar.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu|DAT.Mobility|
-|[https://herasat.rwscregelaar.nl](https://herasat.rwscregelaar.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu|DAT.Mobility|
-|[https://spambox.rwscregelaar.nl](https://spambox.rwscregelaar.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu|DAT.Mobility|
-|[https://hijken.rwscregelaar.nl](https://hijken.rwscregelaar.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu|DAT.Mobility|
-|[https://a-s.rwscregelaar.nl](https://a-s.rwscregelaar.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu|DAT.Mobility|
-|[https://eti.rwscregelaar.nl](https://eti.rwscregelaar.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu|DAT.Mobility|
-|[https://slaapkamers.rwscregelaar.nl](https://slaapkamers.rwscregelaar.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu|DAT.Mobility|
-|[https://tup.rwscregelaar.nl](https://tup.rwscregelaar.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu|DAT.Mobility|
-|[https://baner.rwscregelaar.nl](https://baner.rwscregelaar.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu|DAT.Mobility|
-|[https://wiki.cloud.rwscregelaar.nl](https://wiki.cloud.rwscregelaar.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu|DAT.Mobility|
-|[https://godlinze.rwscregelaar.nl](https://godlinze.rwscregelaar.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu|DAT.Mobility|
-|[https://scholing.rwscregelaar.nl](https://scholing.rwscregelaar.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu|DAT.Mobility|
-|[https://www-miyagi-7620.rwscregelaar.nl](https://www-miyagi-7620.rwscregelaar.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu|DAT.Mobility|
-|[https://316.rwscregelaar.nl](https://316.rwscregelaar.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu|DAT.Mobility|
-|[https://airtel.rwscregelaar.nl](https://airtel.rwscregelaar.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu|DAT.Mobility|
-|[https://csp-report.rwscregelaar.nl](https://csp-report.rwscregelaar.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu|DAT.Mobility|
-|[https://vapi.rwscregelaar.nl](https://vapi.rwscregelaar.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu|DAT.Mobility|
-|[https://problemsolving.rwscregelaar.nl](https://problemsolving.rwscregelaar.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu|DAT.Mobility|
-|[https://devd.rwscregelaar.nl](https://devd.rwscregelaar.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu|DAT.Mobility|
-|[https://medley.rwscregelaar.nl](https://medley.rwscregelaar.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu|DAT.Mobility|
-|[https://drukwerkverspreiding.rwscregelaar.nl](https://drukwerkverspreiding.rwscregelaar.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu|DAT.Mobility|
-|[https://hhs.rwscregelaar.nl](https://hhs.rwscregelaar.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu|DAT.Mobility|
-|[https://dirt.rwscregelaar.nl](https://dirt.rwscregelaar.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu|DAT.Mobility|
-|[https://lh4.rwscregelaar.nl](https://lh4.rwscregelaar.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu|DAT.Mobility|
-|[https://promed.rwscregelaar.nl](https://promed.rwscregelaar.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu|DAT.Mobility|
-|[https://server46.rwscregelaar.nl](https://server46.rwscregelaar.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu|DAT.Mobility|
-|[https://exame.rwscregelaar.nl](https://exame.rwscregelaar.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu|DAT.Mobility|
-|[https://preservation.rwscregelaar.nl](https://preservation.rwscregelaar.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu|DAT.Mobility|
-|[https://web5760.rwscregelaar.nl](https://web5760.rwscregelaar.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu|DAT.Mobility|
-|[https://web6491.rwscregelaar.nl](https://web6491.rwscregelaar.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu|DAT.Mobility|
-|[https://mailin.rwscregelaar.nl](https://mailin.rwscregelaar.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu|DAT.Mobility|
-|[https://r01.rwscregelaar.nl](https://r01.rwscregelaar.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu|DAT.Mobility|
-|[https://beltoon.rwscregelaar.nl](https://beltoon.rwscregelaar.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu|DAT.Mobility|
-|[https://crook.rwscregelaar.nl](https://crook.rwscregelaar.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu|DAT.Mobility|
-|[https://kerstdag.rwscregelaar.nl](https://kerstdag.rwscregelaar.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu|DAT.Mobility|
-|[https://halal.rwscregelaar.nl](https://halal.rwscregelaar.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu|DAT.Mobility|
-|[https://nailart.rwscregelaar.nl](https://nailart.rwscregelaar.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu|DAT.Mobility|
-|[https://pechora.rwscregelaar.nl](https://pechora.rwscregelaar.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu|DAT.Mobility|
-|[https://test-apps.rwscregelaar.nl](https://test-apps.rwscregelaar.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu|DAT.Mobility|
-|[https://axes.rwscregelaar.nl](https://axes.rwscregelaar.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu|DAT.Mobility|
-|[https://bhb.rwscregelaar.nl](https://bhb.rwscregelaar.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu|DAT.Mobility|
-|[https://eplus.rwscregelaar.nl](https://eplus.rwscregelaar.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu|DAT.Mobility|
-|[https://gameonline.rwscregelaar.nl](https://gameonline.rwscregelaar.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu|DAT.Mobility|
-|[https://iceman.rwscregelaar.nl](https://iceman.rwscregelaar.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu|DAT.Mobility|
-|[https://i11.rwscregelaar.nl](https://i11.rwscregelaar.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu|DAT.Mobility|
-|[https://kimovsk.rwscregelaar.nl](https://kimovsk.rwscregelaar.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu|DAT.Mobility|
-|[https://forever21.rwscregelaar.nl](https://forever21.rwscregelaar.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu|DAT.Mobility|
-|[https://ishow.rwscregelaar.nl](https://ishow.rwscregelaar.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu|DAT.Mobility|
-|[https://vin.rwscregelaar.nl](https://vin.rwscregelaar.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu|DAT.Mobility|
-|[https://nederforum.rwscregelaar.nl](https://nederforum.rwscregelaar.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu|DAT.Mobility|
-|[https://kf.rwscregelaar.nl](https://kf.rwscregelaar.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu|DAT.Mobility|
-|[https://reuseldemierden.rwscregelaar.nl](https://reuseldemierden.rwscregelaar.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu|DAT.Mobility|
-|[https://ejobs.rwscregelaar.nl](https://ejobs.rwscregelaar.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu|DAT.Mobility|
-|[https://aggregaten.rwscregelaar.nl](https://aggregaten.rwscregelaar.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu|DAT.Mobility|
-|[https://052.rwscregelaar.nl](https://052.rwscregelaar.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu|DAT.Mobility|
-|[https://ommen.rwscregelaar.nl](https://ommen.rwscregelaar.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu|DAT.Mobility|
-|[https://ucc.rwscregelaar.nl](https://ucc.rwscregelaar.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu|DAT.Mobility|
-|[https://helpspot.rwscregelaar.nl](https://helpspot.rwscregelaar.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu|DAT.Mobility|
-|[https://dohod.rwscregelaar.nl](https://dohod.rwscregelaar.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu|DAT.Mobility|
 |[https://img170.rwscregelaar.nl](https://img170.rwscregelaar.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu|DAT.Mobility|
-|[https://playtest.rwscregelaar.nl](https://playtest.rwscregelaar.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu|DAT.Mobility|
-|[https://margot.rwscregelaar.nl](https://margot.rwscregelaar.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu|DAT.Mobility|
-|[https://instacart.rwscregelaar.nl](https://instacart.rwscregelaar.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu|DAT.Mobility|
-|[https://polyesterproducten.rwscregelaar.nl](https://polyesterproducten.rwscregelaar.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu|DAT.Mobility|
-|[https://allens.rwscregelaar.nl](https://allens.rwscregelaar.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu|DAT.Mobility|
-|[https://finding.rwscregelaar.nl](https://finding.rwscregelaar.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu|DAT.Mobility|
-|[https://proces.rwscregelaar.nl](https://proces.rwscregelaar.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu|DAT.Mobility|
 |[https://ussd.rwscregelaar.nl](https://ussd.rwscregelaar.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu|DAT.Mobility|
-|[https://web4340.rwscregelaar.nl](https://web4340.rwscregelaar.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu|DAT.Mobility|
-|[https://toby.rwscregelaar.nl](https://toby.rwscregelaar.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu|DAT.Mobility|
 |[https://otoplenie.rwscregelaar.nl](https://otoplenie.rwscregelaar.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu|DAT.Mobility|
-|[https://web4868.rwscregelaar.nl](https://web4868.rwscregelaar.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu|DAT.Mobility|
-|[https://www-gp-web-1620.rwscregelaar.nl](https://www-gp-web-1620.rwscregelaar.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu|DAT.Mobility|
-|[https://cim-api.app.rwscregelaar.nl](https://cim-api.app.rwscregelaar.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu|DAT.Mobility|
 |[https://gorno-altajsk.rwscregelaar.nl](https://gorno-altajsk.rwscregelaar.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu|DAT.Mobility|
 |[https://letras.rwscregelaar.nl](https://letras.rwscregelaar.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu|DAT.Mobility|
 |[https://demo.blog.rwscregelaar.nl](https://demo.blog.rwscregelaar.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu|DAT.Mobility|
 |[https://allesvakantie.rwscregelaar.nl](https://allesvakantie.rwscregelaar.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu|DAT.Mobility|
-|[https://miscellaneous.rwscregelaar.nl](https://miscellaneous.rwscregelaar.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu|DAT.Mobility|
 |[https://onze.rwscregelaar.nl](https://onze.rwscregelaar.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu|DAT.Mobility|
-|[https://acts.rwscregelaar.nl](https://acts.rwscregelaar.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu|DAT.Mobility|
-|[https://gabber.rwscregelaar.nl](https://gabber.rwscregelaar.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu|DAT.Mobility|
 |[https://tomita.rwscregelaar.nl](https://tomita.rwscregelaar.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu|DAT.Mobility|
 |[https://sabio.rwscregelaar.nl](https://sabio.rwscregelaar.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu|DAT.Mobility|
-|[https://cayman.rwscregelaar.nl](https://cayman.rwscregelaar.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu|DAT.Mobility|
 |[https://dogood.rwscregelaar.nl](https://dogood.rwscregelaar.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu|DAT.Mobility|
-|[https://traditions.rwscregelaar.nl](https://traditions.rwscregelaar.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu|DAT.Mobility|
 |[https://perl.rwscregelaar.nl](https://perl.rwscregelaar.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu|DAT.Mobility|
 |[https://n37.rwscregelaar.nl](https://n37.rwscregelaar.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu|DAT.Mobility|
 |[https://stratenmaker.rwscregelaar.nl](https://stratenmaker.rwscregelaar.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu|DAT.Mobility|
-|[https://sultan.rwscregelaar.nl](https://sultan.rwscregelaar.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu|DAT.Mobility|
 |[https://404notfound.rwscregelaar.nl](https://404notfound.rwscregelaar.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu|DAT.Mobility|
 |[https://shop.staging.rwscregelaar.nl](https://shop.staging.rwscregelaar.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu|DAT.Mobility|
-|[https://wacom.rwscregelaar.nl](https://wacom.rwscregelaar.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu|DAT.Mobility|
 |[https://a36.rwscregelaar.nl](https://a36.rwscregelaar.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu|DAT.Mobility|
 |[https://pm.rwscregelaar.nl](https://pm.rwscregelaar.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu|DAT.Mobility|
 |[https://tls.app.rwscregelaar.nl](https://tls.app.rwscregelaar.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu|DAT.Mobility|
-|[https://editor.disk.rwscregelaar.nl](https://editor.disk.rwscregelaar.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu|DAT.Mobility|
 |[https://kenya.rwscregelaar.nl](https://kenya.rwscregelaar.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu|DAT.Mobility|
 |[https://web18478.rwscregelaar.nl](https://web18478.rwscregelaar.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu|DAT.Mobility|
 |[https://kabel.rwscregelaar.nl](https://kabel.rwscregelaar.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu|DAT.Mobility|
 |[https://mysecurity.rwscregelaar.nl](https://mysecurity.rwscregelaar.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu|DAT.Mobility|
 |[https://incite.rwscregelaar.nl](https://incite.rwscregelaar.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu|DAT.Mobility|
-|[https://renovatie.rwscregelaar.nl](https://renovatie.rwscregelaar.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu|DAT.Mobility|
-|[https://hantuchova.rwscregelaar.nl](https://hantuchova.rwscregelaar.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu|DAT.Mobility|
-|[https://dartclubs.rwscregelaar.nl](https://dartclubs.rwscregelaar.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu|DAT.Mobility|
 |[https://adlabs.rwscregelaar.nl](https://adlabs.rwscregelaar.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu|DAT.Mobility|
-|[https://gerrit.rwscregelaar.nl](https://gerrit.rwscregelaar.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu|DAT.Mobility|
 |[https://philippine.rwscregelaar.nl](https://philippine.rwscregelaar.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu|DAT.Mobility|
 |[https://pct.rwscregelaar.nl](https://pct.rwscregelaar.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu|DAT.Mobility|
 |[https://web17738.rwscregelaar.nl](https://web17738.rwscregelaar.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu|DAT.Mobility|
-|[https://webmail.files.rwscregelaar.nl](https://webmail.files.rwscregelaar.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu|DAT.Mobility|
 |[https://mpa.rwscregelaar.nl](https://mpa.rwscregelaar.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu|DAT.Mobility|
 |[https://mailhub2.rwscregelaar.nl](https://mailhub2.rwscregelaar.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu|DAT.Mobility|
 |[https://mkb-zzp.rwscregelaar.nl](https://mkb-zzp.rwscregelaar.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu|DAT.Mobility|
@@ -722,9 +558,7 @@ tags: dutchgov
 |[https://jenkins-prod.rwscregelaar.nl](https://jenkins-prod.rwscregelaar.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu|DAT.Mobility|
 |[https://trans.rwscregelaar.nl](https://trans.rwscregelaar.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu|DAT.Mobility|
 |[https://wwd.rwscregelaar.nl](https://wwd.rwscregelaar.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu|DAT.Mobility|
-|[https://hakim.rwscregelaar.nl](https://hakim.rwscregelaar.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu|DAT.Mobility|
 |[https://allgame.rwscregelaar.nl](https://allgame.rwscregelaar.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu|DAT.Mobility|
-|[https://e10.rwscregelaar.nl](https://e10.rwscregelaar.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu|DAT.Mobility|
 |[https://country-music.rwscregelaar.nl](https://country-music.rwscregelaar.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu|DAT.Mobility|
 |[https://yelo.rwscregelaar.nl](https://yelo.rwscregelaar.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu|DAT.Mobility|
 |[https://yuntu.rwscregelaar.nl](https://yuntu.rwscregelaar.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu|DAT.Mobility|
@@ -1641,12 +1475,9 @@ tags: dutchgov
 |[https://chimaera.rwscregelaar.nl](https://chimaera.rwscregelaar.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu|DAT.Mobility|
 |[https://lyncws.rwscregelaar.nl](https://lyncws.rwscregelaar.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu|DAT.Mobility|
 |[https://tuncay.rwscregelaar.nl](https://tuncay.rwscregelaar.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu|DAT.Mobility|
-|[https://ereports.rwscregelaar.nl](https://ereports.rwscregelaar.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu|DAT.Mobility|
-|[https://lokale-seo.rwscregelaar.nl](https://lokale-seo.rwscregelaar.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu|DAT.Mobility|
-|[https://alphadev.rwscregelaar.nl](https://alphadev.rwscregelaar.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu|DAT.Mobility|
-|[https://samer.rwscregelaar.nl](https://samer.rwscregelaar.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu|DAT.Mobility|
-|[https://verzekeringvergelijking.rwscregelaar.nl](https://verzekeringvergelijking.rwscregelaar.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu|DAT.Mobility|
-|[https://vermillion.rwscregelaar.nl](https://vermillion.rwscregelaar.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu|DAT.Mobility|
+|[http://ereports.rwscregelaar.nl](http://ereports.rwscregelaar.nl)| | **E**|Apache/2.4.29 (Ubuntu)| | | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server:2.4.29 Ubuntu|DAT.Mobility|
+|[http://lokale-seo.rwscregelaar.nl](http://lokale-seo.rwscregelaar.nl)| | **E**|Apache/2.4.29 (Ubuntu)| | | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server:2.4.29 Ubuntu|DAT.Mobility|
+|[http://alphadev.rwscregelaar.nl](http://alphadev.rwscregelaar.nl)| | **E**|Apache/2.4.29 (Ubuntu)| | | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server:2.4.29 Ubuntu|DAT.Mobility|
 |[https://web18453.rwscregelaar.nl](https://web18453.rwscregelaar.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu|DAT.Mobility|
 |[https://randolph.rwscregelaar.nl](https://randolph.rwscregelaar.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu|DAT.Mobility|
 |[https://stage4.rwscregelaar.nl](https://stage4.rwscregelaar.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu|DAT.Mobility|
@@ -1659,33 +1490,24 @@ tags: dutchgov
 |[https://git.test.rwscregelaar.nl](https://git.test.rwscregelaar.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu|DAT.Mobility|
 |[https://mason.rwscregelaar.nl](https://mason.rwscregelaar.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu|DAT.Mobility|
 |[https://magia.rwscregelaar.nl](https://magia.rwscregelaar.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu|DAT.Mobility|
-|[https://nfm.rwscregelaar.nl](https://nfm.rwscregelaar.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu|DAT.Mobility|
-|[https://integriteit.rwscregelaar.nl](https://integriteit.rwscregelaar.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu|DAT.Mobility|
-|[https://gemeente.rwscregelaar.nl](https://gemeente.rwscregelaar.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu|DAT.Mobility|
-|[https://api-global.rwscregelaar.nl](https://api-global.rwscregelaar.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu|DAT.Mobility|
-|[https://ga.app.rwscregelaar.nl](https://ga.app.rwscregelaar.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu|DAT.Mobility|
-|[https://chats.rwscregelaar.nl](https://chats.rwscregelaar.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu|DAT.Mobility|
-|[https://fieldtrip.rwscregelaar.nl](https://fieldtrip.rwscregelaar.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu|DAT.Mobility|
+|[http://fieldtrip.rwscregelaar.nl](http://fieldtrip.rwscregelaar.nl)| | **E**|Apache/2.4.29 (Ubuntu)| | | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server:2.4.29 Ubuntu|DAT.Mobility|
 |[https://dietpills.rwscregelaar.nl](https://dietpills.rwscregelaar.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu|DAT.Mobility|
 |[https://web3926.rwscregelaar.nl](https://web3926.rwscregelaar.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu|DAT.Mobility|
 |[https://micronet.rwscregelaar.nl](https://micronet.rwscregelaar.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu|DAT.Mobility|
 |[https://albatros.rwscregelaar.nl](https://albatros.rwscregelaar.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu|DAT.Mobility|
 |[https://egypte-oudheid.rwscregelaar.nl](https://egypte-oudheid.rwscregelaar.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu|DAT.Mobility|
 |[https://profile-dev.rwscregelaar.nl](https://profile-dev.rwscregelaar.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu|DAT.Mobility|
-|[https://monolit.rwscregelaar.nl](https://monolit.rwscregelaar.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu|DAT.Mobility|
-|[https://partners-portal.rwscregelaar.nl](https://partners-portal.rwscregelaar.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu|DAT.Mobility|
-|[https://ip10.rwscregelaar.nl](https://ip10.rwscregelaar.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu|DAT.Mobility|
-|[https://radius3.rwscregelaar.nl](https://radius3.rwscregelaar.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu|DAT.Mobility|
+|[http://monolit.rwscregelaar.nl](http://monolit.rwscregelaar.nl)| | **E**|Apache/2.4.29 (Ubuntu)| | | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server:2.4.29 Ubuntu|DAT.Mobility|
+|[http://partners-portal.rwscregelaar.nl](http://partners-portal.rwscregelaar.nl)| | **E**|Apache/2.4.29 (Ubuntu)| | | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server:2.4.29 Ubuntu|DAT.Mobility|
+|[http://ip10.rwscregelaar.nl](http://ip10.rwscregelaar.nl)| | **E**|Apache/2.4.29 (Ubuntu)| | | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server:2.4.29 Ubuntu|DAT.Mobility|
+|[http://radius3.rwscregelaar.nl](http://radius3.rwscregelaar.nl)| | **E**|Apache/2.4.29 (Ubuntu)| | | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server:2.4.29 Ubuntu|DAT.Mobility|
 |[https://vcs2.rwscregelaar.nl](https://vcs2.rwscregelaar.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu|DAT.Mobility|
 |[https://yarden.rwscregelaar.nl](https://yarden.rwscregelaar.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu|DAT.Mobility|
-|[https://christchurch.rwscregelaar.nl](https://christchurch.rwscregelaar.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu|DAT.Mobility|
-|[https://web13238.rwscregelaar.nl](https://web13238.rwscregelaar.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu|DAT.Mobility|
-|[https://xena.rwscregelaar.nl](https://xena.rwscregelaar.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu|DAT.Mobility|
-|[https://sux.rwscregelaar.nl](https://sux.rwscregelaar.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu|DAT.Mobility|
-|[https://pagerduty.rwscregelaar.nl](https://pagerduty.rwscregelaar.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu|DAT.Mobility|
-|[https://moonrise.rwscregelaar.nl](https://moonrise.rwscregelaar.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu|DAT.Mobility|
-|[https://beep.rwscregelaar.nl](https://beep.rwscregelaar.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu|DAT.Mobility|
-|[https://briz.rwscregelaar.nl](https://briz.rwscregelaar.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu|DAT.Mobility|
+|[http://christchurch.rwscregelaar.nl](http://christchurch.rwscregelaar.nl)| | **E**|Apache/2.4.29 (Ubuntu)| | | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server:2.4.29 Ubuntu|DAT.Mobility|
+|[http://web13238.rwscregelaar.nl](http://web13238.rwscregelaar.nl)| | **E**|Apache/2.4.29 (Ubuntu)| | | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server:2.4.29 Ubuntu|DAT.Mobility|
+|[http://moonrise.rwscregelaar.nl](http://moonrise.rwscregelaar.nl)| | **E**|Apache/2.4.29 (Ubuntu)| | | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server:2.4.29 Ubuntu|DAT.Mobility|
+|[http://beep.rwscregelaar.nl](http://beep.rwscregelaar.nl)| | **E**|Apache/2.4.29 (Ubuntu)| | | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server:2.4.29 Ubuntu|DAT.Mobility|
+|[http://briz.rwscregelaar.nl](http://briz.rwscregelaar.nl)| | **E**|Apache/2.4.29 (Ubuntu)| | | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server:2.4.29 Ubuntu|DAT.Mobility|
 |[https://cybermax.rwscregelaar.nl](https://cybermax.rwscregelaar.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu|DAT.Mobility|
 |[https://xdr.rwscregelaar.nl](https://xdr.rwscregelaar.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu|DAT.Mobility|
 |[https://nca.rwscregelaar.nl](https://nca.rwscregelaar.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu|DAT.Mobility|

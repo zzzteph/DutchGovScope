@@ -2,8 +2,8 @@
 layout: default
 title: "tweedekamer.nl"
 permalink: "/dutchgov/tweedekamer.nl.html"
-subdomains_count: 157
-all_subdomains_count: 253
+subdomains_count: 159
+all_subdomains_count: 255
 urls_count: 117
 ssl_rank: A-
 http_rank: C
@@ -27,9 +27,9 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/tweedekamer.nl/subdomains.txt)|157|Alive subdomains|
+|[subdomains.txt](/DutchGovScope/data/tweedekamer.nl/subdomains.txt)|159|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/tweedekamer.nl/urls.txt)|117|Urls|
-|[all_subdomains.txt](/DutchGovScope/data/tweedekamer.nl/all_subdomains.txt)|253|All found subdomains (history)|
+|[all_subdomains.txt](/DutchGovScope/data/tweedekamer.nl/all_subdomains.txt)|255|All found subdomains (history)|
 
 
 ## Statistics
@@ -138,7 +138,7 @@ tags: dutchgov
 |[https://corsa-vvd.tweedekamer.nl](https://corsa-vvd.tweedekamer.nl)| **A**| **B**|BigIP|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |F5 BigIP||
 |[https://huisstijlsjablonen.tweedekamer.nl](https://huisstijlsjablonen.tweedekamer.nl)| **A**| **B**|BigIP|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |F5 BigIP||
 |[https://openbare-tzr.tweedekamer.nl](https://openbare-tzr.tweedekamer.nl)| **A**| **B**|BigIP|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |F5 BigIP||
-|[http://datavisualisaties.tweedekamer.nl](http://datavisualisaties.tweedekamer.nl)| **A**| **B**|BigIP|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |F5 BigIP||
+|[https://datavisualisaties.tweedekamer.nl](https://datavisualisaties.tweedekamer.nl)| **A**| **B**|BigIP|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |F5 BigIP||
 |[https://kva.tweedekamer.nl](https://kva.tweedekamer.nl)| **A**| **B**|BigIP|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |F5 BigIP||
 |[https://kva-acc.tweedekamer.nl](https://kva-acc.tweedekamer.nl)| **A**| **B**|BigIP|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |F5 BigIP||
 |[https://groepsbezoek.tweedekamer.nl](https://groepsbezoek.tweedekamer.nl)| | **A**|nginx| |:white_check_mark: | | | :white_check_mark:| | :white_check_mark: | :white_check_mark: | |HSTS Nginx PHP||

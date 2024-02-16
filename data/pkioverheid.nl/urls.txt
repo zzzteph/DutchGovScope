@@ -5,3 +5,6 @@ https://www.pkioverheid.nl
 https://pkioverheid.nl
 http://domorganisatieservicesocsp-g3.pkioverheid.nl
 http://rootocsp-g3.pkioverheid.nl
+https://oid.pkioverheid.nl
+https://cp.pkioverheid.nl
+http://por.pkioverheid.nl

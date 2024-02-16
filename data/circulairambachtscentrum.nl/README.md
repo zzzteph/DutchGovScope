@@ -4,7 +4,7 @@
 ## Summary data
 
 
- - **SSL Grade**:
+ - **SSL Grade**:A+
  - **HTTP Security Grade**:A
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:2
 
@@ -21,6 +21,6 @@
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://circulairambachtscentrum.nl](https://circulairambachtscentrum.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:-|Home - Circulair...|
-|[https://www.circulairambachtscentrum.nl](https://www.circulairambachtscentrum.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:-|Object moved|
+|[https://circulairambachtscentrum.nl](https://circulairambachtscentrum.nl)| **A+**| **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:-|Home - Circulair...|
+|[https://www.circulairambachtscentrum.nl](https://www.circulairambachtscentrum.nl)| **A+**| **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:-|Object moved|
 

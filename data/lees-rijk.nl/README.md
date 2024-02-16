@@ -4,7 +4,7 @@
 ## Summary data
 
 
- - **SSL Grade**:
+ - **SSL Grade**:A+
  - **HTTP Security Grade**:C
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:0
 
@@ -21,9 +21,9 @@
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://acc.lees-rijk.nl](https://acc.lees-rijk.nl)| | **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |Drupal HSTS Nginx PHP||
-|[https://producten.lees-rijk.nl](https://producten.lees-rijk.nl)| | **B**||:o: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
-|[https://www.lees-rijk.nl](https://www.lees-rijk.nl)| | **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |Drupal HSTS Nginx PHP||
-|[https://www.acc.lees-rijk.nl](https://www.acc.lees-rijk.nl)| | **A**|nginx| |:white_check_mark: | | | :white_check_mark:| | | :white_check_mark: | |Drupal HSTS Nginx PHP|Redirecting to /...|
-|[https://lees-rijk.nl](https://lees-rijk.nl)| | **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
+|[https://acc.lees-rijk.nl](https://acc.lees-rijk.nl)| **A+**| **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |Drupal HSTS Nginx PHP||
+|[https://producten.lees-rijk.nl](https://producten.lees-rijk.nl)| **A+**| **B**||:o: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
+|[https://www.lees-rijk.nl](https://www.lees-rijk.nl)| **A+**| **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |Drupal HSTS Nginx PHP||
+|[https://www.acc.lees-rijk.nl](https://www.acc.lees-rijk.nl)| **A+**| **A**|nginx| |:white_check_mark: | | | :white_check_mark:| | | :white_check_mark: | |Drupal HSTS Nginx PHP|Redirecting to /...|
+|[https://lees-rijk.nl](https://lees-rijk.nl)| **A+**| **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
 

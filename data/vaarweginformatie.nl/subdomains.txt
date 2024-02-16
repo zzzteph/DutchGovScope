@@ -3,5 +3,7 @@ www.vaarweginformatie.nl
 vaarweginformatie.nl
 vaarmelder.vaarweginformatie.nl
 api.vaarweginformatie.nl
+acceptatie.vaarweginformatie.nl
+www.acceptatie.vaarweginformatie.nl
 ftp.vaarweginformatie.nl
 mail.vaarweginformatie.nl

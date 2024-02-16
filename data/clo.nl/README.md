@@ -4,7 +4,7 @@
 ## Summary data
 
 
- - **SSL Grade**:
+ - **SSL Grade**:B+
  - **HTTP Security Grade**:A
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:0
 
@@ -21,8 +21,8 @@
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://acc-www.clo.nl](https://acc-www.clo.nl)| | **A**|Apache| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Apache HTTP Server Basic Drupal HSTS PHP:7.3.33||
-|[https://tst-www.clo.nl](https://tst-www.clo.nl)| | **A**|Apache| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Apache HTTP Server Basic Drupal HSTS PHP:7.3.33||
-|[https://www.clo.nl](https://www.clo.nl)| | **A**||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Drupal:10 HSTS PHP|Home | Compendiu...|
-|[https://clo.nl](https://clo.nl)| | **A**|Microsoft-Azure-Application-Gateway/v2| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Apache HTTP Server HSTS|301 Moved Perman...|
+|[http://acc-www.clo.nl](http://acc-www.clo.nl)| **B**| **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Apache HTTP Server Basic Drupal HSTS PHP:7.3.33||
+|[http://tst-www.clo.nl](http://tst-www.clo.nl)| **B**| **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Apache HTTP Server Basic Drupal HSTS PHP:7.3.33||
+|[https://www.clo.nl](https://www.clo.nl)| **A-**| **A**||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Drupal:10 HSTS PHP|Home | Compendiu...|
+|[https://clo.nl](https://clo.nl)| **A-**| **A**|Microsoft-Azure-Application-Gateway/v2| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Apache HTTP Server HSTS|301 Moved Perman...|
 

@@ -2,9 +2,9 @@
 layout: default
 title: "emissieautoriteit.nl"
 permalink: "/dutchgov/emissieautoriteit.nl.html"
-subdomains_count: 25
-all_subdomains_count: 37
-urls_count: 12
+subdomains_count: 26
+all_subdomains_count: 38
+urls_count: 13
 ssl_rank: A+
 http_rank: A
 security_txt: 6
@@ -27,9 +27,9 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/emissieautoriteit.nl/subdomains.txt)|25|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/emissieautoriteit.nl/urls.txt)|12|Urls|
-|[all_subdomains.txt](/DutchGovScope/data/emissieautoriteit.nl/all_subdomains.txt)|37|All found subdomains (history)|
+|[subdomains.txt](/DutchGovScope/data/emissieautoriteit.nl/subdomains.txt)|26|Alive subdomains|
+|[urls.txt](/DutchGovScope/data/emissieautoriteit.nl/urls.txt)|13|Urls|
+|[all_subdomains.txt](/DutchGovScope/data/emissieautoriteit.nl/all_subdomains.txt)|38|All found subdomains (history)|
 
 
 ## Statistics
@@ -49,4 +49,5 @@ tags: dutchgov
 |[https://rev.emissieautoriteit.nl](https://rev.emissieautoriteit.nl)| **B**| **F**|nginx| | | | | | | | :white_check_mark: | |HSTS Nginx|Mendix|
 |[https://www.emissieautoriteit.nl](https://www.emissieautoriteit.nl)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Home | Nederland...|
 |[https://emissieautoriteit.nl](https://emissieautoriteit.nl)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
+|[https://jpp.emissieautoriteit.nl](https://jpp.emissieautoriteit.nl)| | **F**|Apache/2.4.52 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.52 Ubuntu|ownCloud|
 

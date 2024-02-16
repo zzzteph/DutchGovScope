@@ -5,7 +5,7 @@
 
 
  - **SSL Grade**:A
- - **HTTP Security Grade**:C
+ - **HTTP Security Grade**:B
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:9
 
 
@@ -27,8 +27,8 @@
 |[https://enterpriseenrollment.cbg-meb.nl](https://enterpriseenrollment.cbg-meb.nl)| **F**| **E**|| | | | | | | | :white_check_mark: | |HSTS||
 |[https://feeds.cbg-meb.nl](https://feeds.cbg-meb.nl)| **A+**| **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://feeds.english.cbg-meb.nl](https://feeds.english.cbg-meb.nl)| **A+**| **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
-|[https://mdm.cbg-meb.nl](https://mdm.cbg-meb.nl)| **A+**| **C**|server| | | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | ||302 Found|
-|[https://mdm-t.cbg-meb.nl](https://mdm-t.cbg-meb.nl)| **A+**| **C**|server| | | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | ||302 Found|
+|[https://mdm.cbg-meb.nl](https://mdm.cbg-meb.nl)| **A+**| **A**|server| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|302 Found|
+|[https://mdm-t.cbg-meb.nl](https://mdm-t.cbg-meb.nl)| **A+**| **A**|server| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|302 Found|
 |[https://mijnwerkplek.cbg-meb.nl](https://mijnwerkplek.cbg-meb.nl)| **A+**| **E**|Microsoft-IIS/10.0|:o: |:white_check_mark: | | | | | | :white_check_mark: | |HSTS IIS:10.0 Microsoft ASP.NET Windows Server|Document Moved|
 |[https://opendata.cbg-meb.nl](https://opendata.cbg-meb.nl)| **A+**| **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://opendata.english.cbg-meb.nl](https://opendata.english.cbg-meb.nl)| **A+**| **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||

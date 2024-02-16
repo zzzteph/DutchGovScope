@@ -7,6 +7,5 @@ tst.loket.anvs.nl
 sip.anvs.nl
 sip.myroom.anvs.nl
 sdm.anvs.nl
-acc2.loket.anvs.nl
 processen.anvs.nl
 www.loket.anvs.nl

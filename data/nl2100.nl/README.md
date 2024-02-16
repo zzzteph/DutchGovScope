@@ -13,7 +13,7 @@
 |------------|-------|------|
 |[subdomains.txt](/data/nl2100.nl/subdomains.txt)|184|Alive subdomains|
 |[urls.txt](/data/nl2100.nl/urls.txt)|184|Urls|
-|[all_subdomains.txt](/data/nl2100.nl/all_subdomains.txt)|184|All found subdomains (history)|
+|[all_subdomains.txt](/data/nl2100.nl/all_subdomains.txt)|320|All found subdomains (history)|
 
 
 ## Statistics
@@ -68,7 +68,7 @@
 |[https://asc-static.nl2100.nl](https://asc-static.nl2100.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|Web Server's Def...|
 |[https://rhc.nl2100.nl](https://rhc.nl2100.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|Web Server's Def...|
 |[https://n33.nl2100.nl](https://n33.nl2100.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|Web Server's Def...|
-|[https://bogus.nl2100.nl](https://bogus.nl2100.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|Test Page for th...|
+|[https://bogus.nl2100.nl](https://bogus.nl2100.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|Web Server's Def...|
 |[https://macbeth.nl2100.nl](https://macbeth.nl2100.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|Web Server's Def...|
 |[https://milas.nl2100.nl](https://milas.nl2100.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|Web Server's Def...|
 |[https://instructions.nl2100.nl](https://instructions.nl2100.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|Web Server's Def...|

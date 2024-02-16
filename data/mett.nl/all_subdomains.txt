@@ -636,3 +636,6 @@ subtest.mett.nl
 deployment.mett.nl
 camera1.mett.nl
 coaster.mett.nl
+klimaatkrachtiggo.mett.nl
+samenhaaksbergen.mett.nl
+helpdeskzonopwek.mett.nl

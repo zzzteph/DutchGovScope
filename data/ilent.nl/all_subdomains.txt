@@ -85,3 +85,4 @@ staging.intranet.ilent.nl
 vergunningen.ilent.nl
 wa.ilent.nl
 webaccess.ilent.nl
+toegankelijkheidsonderzoek-www.ilent.nl

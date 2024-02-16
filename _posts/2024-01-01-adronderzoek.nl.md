@@ -4,9 +4,9 @@ title: "adronderzoek.nl"
 permalink: "/dutchgov/adronderzoek.nl.html"
 subdomains_count: 2
 all_subdomains_count: 2
-urls_count: 1
+urls_count: 0
 ssl_rank: 
-http_rank: A
+http_rank: F
 security_txt: 0
 url_link: /data/adronderzoek.nl/urls.txt
 all_subdomains_link: /data/adronderzoek.nl/all_subdomains.txt
@@ -21,14 +21,14 @@ tags: dutchgov
 
 
  - **SSL Grade**:
- - **HTTP Security Grade**:A
+ - **HTTP Security Grade**:F
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:0
 
 
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/DutchGovScope/data/adronderzoek.nl/subdomains.txt)|2|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/adronderzoek.nl/urls.txt)|1|Urls|
+|[urls.txt](/DutchGovScope/data/adronderzoek.nl/urls.txt)|0|Urls|
 |[all_subdomains.txt](/DutchGovScope/data/adronderzoek.nl/all_subdomains.txt)|2|All found subdomains (history)|
 
 
@@ -37,5 +37,4 @@ tags: dutchgov
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://adronderzoek.nl](https://adronderzoek.nl)| | **A**|Apache|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS PHP|ADR Onderzoek|
 

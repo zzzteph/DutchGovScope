@@ -4,7 +4,7 @@
 ## Summary data
 
 
- - **SSL Grade**:
+ - **SSL Grade**:B-
  - **HTTP Security Grade**:C
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:2
 
@@ -21,9 +21,9 @@
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://ssonet.nl](https://ssonet.nl)| | **A**|Microsoft-IIS/10.0| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS IIS:10.0 Windows Server|Document Moved|
-|[https://www.ssonet.nl](https://www.ssonet.nl)| | **A**|Microsoft-IIS/10.0| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS IIS:10.0 Windows Server|Document Moved|
+|[https://ssonet.nl](https://ssonet.nl)| **A+**| **A**|Microsoft-IIS/10.0| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS IIS:10.0 Windows Server|Document Moved|
+|[https://www.ssonet.nl](https://www.ssonet.nl)| **A+**| **A**|Microsoft-IIS/10.0| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS IIS:10.0 Windows Server|Document Moved|
 |[http://exchange.ssonet.nl](http://exchange.ssonet.nl)| | **F**|BigIP| | | | | | | | :white_check_mark: | |F5 BigIP||
-|[https://storingsdienst.rgd.ssonet.nl](https://storingsdienst.rgd.ssonet.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
+|[https://storingsdienst.rgd.ssonet.nl](https://storingsdienst.rgd.ssonet.nl)| **F**| **E**|| | | | | | | | :white_check_mark: | |||
 |[http://localhost.ssonet.nl](http://localhost.ssonet.nl)| | **D**|nginx| | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Nginx|Welcome to nginx...|
 

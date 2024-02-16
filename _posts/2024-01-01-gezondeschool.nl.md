@@ -5,7 +5,7 @@ permalink: "/dutchgov/gezondeschool.nl.html"
 subdomains_count: 12
 all_subdomains_count: 14
 urls_count: 10
-ssl_rank: 
+ssl_rank: A+
 http_rank: D
 security_txt: 3
 url_link: /data/gezondeschool.nl/urls.txt
@@ -20,7 +20,7 @@ tags: dutchgov
 ## Summary data
 
 
- - **SSL Grade**:
+ - **SSL Grade**:A+
  - **HTTP Security Grade**:D
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:3
 
@@ -39,8 +39,8 @@ tags: dutchgov
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[http://sub.gezondeschool.nl](http://sub.gezondeschool.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |||
 |[http://test.gezondeschool.nl](http://test.gezondeschool.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
-|[https://www.gezondeschool.nl](https://www.gezondeschool.nl)| | **A**|Apache| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server Drupal HSTS PHP|Gezonde School |...|
-|[https://gezondeschool.nl](https://gezondeschool.nl)| | **A**|Apache| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS|301 Moved Perman...|
+|[https://www.gezondeschool.nl](https://www.gezondeschool.nl)| **A+**| **A**|Apache| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server Drupal HSTS PHP|Gezonde School |...|
+|[https://gezondeschool.nl](https://gezondeschool.nl)| **A+**| **A**|Apache| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS|301 Moved Perman...|
 |[http://autodiscover.gezondeschool.nl](http://autodiscover.gezondeschool.nl)| | **B**|Microsoft-IIS/10.0|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server||
 |[https://enterpriseenrollment.gezondeschool.nl](https://enterpriseenrollment.gezondeschool.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||
 |[https://enterpriseregistration.gezondeschool.nl](https://enterpriseregistration.gezondeschool.nl)| | **E**|| | | | | | | | :white_check_mark: | |||

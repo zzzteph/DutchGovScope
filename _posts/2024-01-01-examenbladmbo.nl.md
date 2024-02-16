@@ -5,7 +5,7 @@ permalink: "/dutchgov/examenbladmbo.nl.html"
 subdomains_count: 3
 all_subdomains_count: 3
 urls_count: 3
-ssl_rank: 
+ssl_rank: A+
 http_rank: A
 security_txt: 3
 url_link: /data/examenbladmbo.nl/urls.txt
@@ -20,7 +20,7 @@ tags: dutchgov
 ## Summary data
 
 
- - **SSL Grade**:
+ - **SSL Grade**:A+
  - **HTTP Security Grade**:A
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:3
 
@@ -37,7 +37,7 @@ tags: dutchgov
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://www.examenbladmbo.nl](https://www.examenbladmbo.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |Drupal:10 HSTS PHP|Examenbladmbo.nl|
-|[https://examenbladmbo.nl](https://examenbladmbo.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | ||308 Permanent Re...|
-|[https://mijn.examenbladmbo.nl](https://mijn.examenbladmbo.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Drupal:10 HSTS PHP|Redirecting to h...|
+|[https://www.examenbladmbo.nl](https://www.examenbladmbo.nl)| **A+**| **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |Drupal:10 HSTS PHP|Examenbladmbo.nl|
+|[https://examenbladmbo.nl](https://examenbladmbo.nl)| **A**| **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | ||308 Permanent Re...|
+|[https://mijn.examenbladmbo.nl](https://mijn.examenbladmbo.nl)| **A+**| **A**|| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Drupal:10 HSTS PHP|Redirecting to h...|
 

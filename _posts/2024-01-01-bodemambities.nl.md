@@ -5,7 +5,7 @@ permalink: "/dutchgov/bodemambities.nl.html"
 subdomains_count: 4
 all_subdomains_count: 6
 urls_count: 4
-ssl_rank: 
+ssl_rank: A+
 http_rank: C
 security_txt: 2
 url_link: /data/bodemambities.nl/urls.txt
@@ -20,7 +20,7 @@ tags: dutchgov
 ## Summary data
 
 
- - **SSL Grade**:
+ - **SSL Grade**:A+
  - **HTTP Security Grade**:C
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:2
 
@@ -38,7 +38,7 @@ tags: dutchgov
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[http://acceptatie.zoek.bodemambities.nl](http://acceptatie.zoek.bodemambities.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
-|[https://www.bodemambities.nl](https://www.bodemambities.nl)| | **A**|Apache| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server Drupal HSTS PHP|Bodemambities |...|
+|[https://www.bodemambities.nl](https://www.bodemambities.nl)| **A+**| **A**|Apache| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server Drupal HSTS PHP|Bodemambities |...|
 |[https://bodemambities.nl](https://bodemambities.nl)| | **A**|Apache| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS|301 Moved Perman...|
 |[http://localhost.bodemambities.nl](http://localhost.bodemambities.nl)| | **D**|nginx| | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Nginx|Welcome to nginx...|
 

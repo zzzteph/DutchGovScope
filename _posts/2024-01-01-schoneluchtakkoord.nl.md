@@ -5,7 +5,7 @@ permalink: "/dutchgov/schoneluchtakkoord.nl.html"
 subdomains_count: 3
 all_subdomains_count: 4
 urls_count: 3
-ssl_rank: 
+ssl_rank: A+
 http_rank: A
 security_txt: 3
 url_link: /data/schoneluchtakkoord.nl/urls.txt
@@ -20,7 +20,7 @@ tags: dutchgov
 ## Summary data
 
 
- - **SSL Grade**:
+ - **SSL Grade**:A+
  - **HTTP Security Grade**:A
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:3
 
@@ -37,7 +37,7 @@ tags: dutchgov
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://samenwerken.schoneluchtakkoord.nl](https://samenwerken.schoneluchtakkoord.nl)| | **A**||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Object moved|
-|[https://www.schoneluchtakkoord.nl](https://www.schoneluchtakkoord.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:-|Home - Schone lu...|
-|[https://schoneluchtakkoord.nl](https://schoneluchtakkoord.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:-|Object moved|
+|[https://samenwerken.schoneluchtakkoord.nl](https://samenwerken.schoneluchtakkoord.nl)| **A+**| **A**||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Object moved|
+|[https://www.schoneluchtakkoord.nl](https://www.schoneluchtakkoord.nl)| **A+**| **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:-|Home - Schone lu...|
+|[https://schoneluchtakkoord.nl](https://schoneluchtakkoord.nl)| **A+**| **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:-|Object moved|
 

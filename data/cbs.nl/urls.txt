@@ -52,7 +52,6 @@ https://doemee.cbs.nl
 https://dossierportal.cbs.nl
 https://download.cbs.nl
 https://egain-com.cbs.nl
-https://ems.cbs.nl
 https://evenementen.cbs.nl
 https://fubecasper.cbs.nl
 https://geodata.cbs.nl
@@ -172,8 +171,8 @@ https://login-databestanden.test.cbs.nl
 https://mijn.acceptatie.cbs.nl
 http://mijn-acceptatie.cbs.nl
 https://brandportal.cbs.nl
-https://sdmx-dataexplorer-beta.cbs.nl
-https://sdmx-share.cbs.nl
-https://sdmx-dataviewer.cbs.nl
-https://sdmx-search-beta.cbs.nl
-https://sdmx-api-beta.cbs.nl
+http://sdmx-dataexplorer-beta.cbs.nl
+http://sdmx-share.cbs.nl
+http://sdmx-dataviewer.cbs.nl
+http://sdmx-search-beta.cbs.nl
+http://sdmx-api-beta.cbs.nl

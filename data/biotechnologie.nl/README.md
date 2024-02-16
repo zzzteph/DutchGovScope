@@ -4,7 +4,7 @@
 ## Summary data
 
 
- - **SSL Grade**:
+ - **SSL Grade**:A+
  - **HTTP Security Grade**:B
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:2
 
@@ -21,7 +21,7 @@
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://biotechnologie.nl](https://biotechnologie.nl)| | **A**|cloudflare| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Cloudflare HSTS HTTP/3|301 Moved Perman...|
+|[https://biotechnologie.nl](https://biotechnologie.nl)| **A+**| **A**|cloudflare| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Cloudflare HSTS HTTP/3|301 Moved Perman...|
 |[https://www.biotechnologie.nl](https://www.biotechnologie.nl)| | **A**|cloudflare| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Cloudflare HSTS HTTP/3 MySQL PHP WordPress Yoast SEO:21.9.1|Home - Biotechno...|
 |[https://autodiscover.biotechnologie.nl](https://autodiscover.biotechnologie.nl)| | **B**|cloudflare| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Cloudflare HSTS HTTP/3||
 |[https://enterpriseenrollment.biotechnologie.nl](https://enterpriseenrollment.biotechnologie.nl)| | **F**|cloudflare| | | | | | | | :white_check_mark: | |Cloudflare HSTS HTTP/3||

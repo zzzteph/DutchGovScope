@@ -1,4 +1,4 @@
-https://acc-www.pbl.nl
+http://acc-www.pbl.nl
 http://autodiscover.pbl.nl
 https://data.pbl.nl
 https://dataportaal.pbl.nl
@@ -20,4 +20,4 @@ https://pbl.nl
 https://mailings.pbl.nl
 https://mail.pbl.nl
 https://msoid.pbl.nl
-https://prd-www.pbl.nl
+http://prd-www.pbl.nl

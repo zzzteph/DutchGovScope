@@ -11,9 +11,9 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/mett.nl/subdomains.txt)|384|Alive subdomains|
+|[subdomains.txt](/data/mett.nl/subdomains.txt)|635|Alive subdomains|
 |[urls.txt](/data/mett.nl/urls.txt)|371|Urls|
-|[all_subdomains.txt](/data/mett.nl/all_subdomains.txt)|638|All found subdomains (history)|
+|[all_subdomains.txt](/data/mett.nl/all_subdomains.txt)|641|All found subdomains (history)|
 
 
 ## Statistics

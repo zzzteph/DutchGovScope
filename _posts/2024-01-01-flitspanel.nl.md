@@ -5,7 +5,7 @@ permalink: "/dutchgov/flitspanel.nl.html"
 subdomains_count: 4
 all_subdomains_count: 4
 urls_count: 4
-ssl_rank: 
+ssl_rank: B+
 http_rank: C
 security_txt: 2
 url_link: /data/flitspanel.nl/urls.txt
@@ -20,7 +20,7 @@ tags: dutchgov
 ## Summary data
 
 
- - **SSL Grade**:
+ - **SSL Grade**:B+
  - **HTTP Security Grade**:C
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:2
 
@@ -37,8 +37,8 @@ tags: dutchgov
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://accept.flitspanel.nl](https://accept.flitspanel.nl)| | **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |Basic HSTS Nginx|401 Unauthorized|
-|[https://test.flitspanel.nl](https://test.flitspanel.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|Web Server's Def...|
-|[https://www.flitspanel.nl](https://www.flitspanel.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
-|[https://flitspanel.nl](https://flitspanel.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
+|[https://accept.flitspanel.nl](https://accept.flitspanel.nl)| **A+**| **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |Basic HSTS Nginx|401 Unauthorized|
+|[https://test.flitspanel.nl](https://test.flitspanel.nl)| **F**| **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|Web Server's Def...|
+|[https://www.flitspanel.nl](https://www.flitspanel.nl)| **A+**| **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
+|[https://flitspanel.nl](https://flitspanel.nl)| **A+**| **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
 

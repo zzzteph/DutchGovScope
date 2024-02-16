@@ -4,7 +4,7 @@
 ## Summary data
 
 
- - **SSL Grade**:
+ - **SSL Grade**:A+
  - **HTTP Security Grade**:B
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:4
 
@@ -21,9 +21,9 @@
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://mijndossier.schadedoormijnbouw.nl](https://mijndossier.schadedoormijnbouw.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Java||
-|[https://www.schadedoormijnbouw.nl](https://www.schadedoormijnbouw.nl)| | **A**|| |:white_check_mark: | | |:warning: | | :white_check_mark: | :white_check_mark: | |Azure Azure Edge Network Azure Front Door HSTS||
-|[https://schadedoormijnbouw.nl](https://schadedoormijnbouw.nl)| | **A**|| |:white_check_mark: | | |:warning: | | :white_check_mark: | :white_check_mark: | |HSTS|Document Moved|
-|[https://forum.schadedoormijnbouw.nl](https://forum.schadedoormijnbouw.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | | :white_check_mark: | :white_check_mark: | |Azure Azure Edge Network Azure Front Door HSTS Microsoft ASP.NET|Forums|
+|[https://mijndossier.schadedoormijnbouw.nl](https://mijndossier.schadedoormijnbouw.nl)| **A+**| **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Java||
+|[https://www.schadedoormijnbouw.nl](https://www.schadedoormijnbouw.nl)| **A+**| **A**|| |:white_check_mark: | | |:warning: | | :white_check_mark: | :white_check_mark: | |Azure Azure Edge Network Azure Front Door HSTS||
+|[https://schadedoormijnbouw.nl](https://schadedoormijnbouw.nl)| **A+**| **A**|| |:white_check_mark: | | |:warning: | | :white_check_mark: | :white_check_mark: | |HSTS|Document Moved|
+|[https://forum.schadedoormijnbouw.nl](https://forum.schadedoormijnbouw.nl)| **A+**| **A**||:white_check_mark: |:white_check_mark: | | |:warning: | | :white_check_mark: | :white_check_mark: | |Azure Azure Edge Network Azure Front Door HSTS Microsoft ASP.NET|Forums|
 |[https://tracking.schadedoormijnbouw.nl](https://tracking.schadedoormijnbouw.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |HSTS Nginx PHP||
 

@@ -4,7 +4,7 @@
 ## Summary data
 
 
- - **SSL Grade**:
+ - **SSL Grade**:A+
  - **HTTP Security Grade**:A
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:2
 
@@ -21,7 +21,7 @@
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://downloads.rijkswaterstaatdata.nl](https://downloads.rijkswaterstaatdata.nl)| | **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Nginx|Index of /|
-|[https://www.rijkswaterstaatdata.nl](https://www.rijkswaterstaatdata.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:-|Object moved|
-|[https://rijkswaterstaatdata.nl](https://rijkswaterstaatdata.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:-|Home - Data Rijk...|
+|[https://downloads.rijkswaterstaatdata.nl](https://downloads.rijkswaterstaatdata.nl)| **A+**| **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Nginx|Index of /|
+|[https://www.rijkswaterstaatdata.nl](https://www.rijkswaterstaatdata.nl)| **A+**| **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:-|Object moved|
+|[https://rijkswaterstaatdata.nl](https://rijkswaterstaatdata.nl)| **A+**| **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:-|Home - Data Rijk...|
 

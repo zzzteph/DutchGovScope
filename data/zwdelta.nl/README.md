@@ -23,7 +23,7 @@
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[https://acceptatie.zwdelta.nl](https://acceptatie.zwdelta.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |MySQL Nginx PHP WordPress|Aanbouw - ACC si...|
 |[https://platform.zwdelta.nl](https://platform.zwdelta.nl)| | **A**||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Object moved|
-|[https://www.zwdelta.nl](https://www.zwdelta.nl)| | **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |Google Tag Manager HSTS MySQL Nginx PHP WordPress:6.4.2 Yoast SEO:21.9.1|Home - Zuidweste...|
+|[https://www.zwdelta.nl](https://www.zwdelta.nl)| | **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |Google Tag Manager HSTS MySQL Nginx PHP WordPress:6.4.3 Yoast SEO:22.0|Home - Zuidweste...|
 |[https://www.platform.zwdelta.nl](https://www.platform.zwdelta.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | ||Document Moved|
 |[https://zwdelta.nl](https://zwdelta.nl)| | **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Nginx||
 

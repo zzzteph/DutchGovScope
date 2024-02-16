@@ -96,7 +96,9 @@ websign.noord-holland.nl
 wifi.noord-holland.nl
 oe.noord-holland.nl
 fioriacc-portal.noord-holland.nl
+nhlvsbcp002.noord-holland.nl
 oe-test.noord-holland.nl
+nhlvsbcp001.noord-holland.nl
 enterpriseenrollment.noord-holland.nl
 enterpriseregistration.noord-holland.nl
 hybrid.noord-holland.nl

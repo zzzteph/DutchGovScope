@@ -10,6 +10,7 @@ https://beeldbank.hhdelfland.nl
 https://burgerloket.hhdelfland.nl
 https://hhdelfland.nl
 http://autodiscover.hhdelfland.nl
+https://connect.hhdelfland.nl
 https://samenwerkingsportaaltest.hhdelfland.nl
 https://samenwerkingsportaalcms.hhdelfland.nl
 https://sts.hhdelfland.nl
@@ -23,3 +24,4 @@ https://grondwaterportaal.hhdelfland.nl
 https://startstopmelding.hhdelfland.nl
 https://enterpriseenrollment.hhdelfland.nl
 https://passwordreset.hhdelfland.nl
+https://enterpriseregistration.hhdelfland.nl

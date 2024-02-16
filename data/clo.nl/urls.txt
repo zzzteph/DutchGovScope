@@ -1,4 +1,4 @@
-https://acc-www.clo.nl
-https://tst-www.clo.nl
+http://acc-www.clo.nl
+http://tst-www.clo.nl
 https://www.clo.nl
 https://clo.nl

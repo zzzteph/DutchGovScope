@@ -1,5 +1,6 @@
 https://acc.data.ilent.nl
 https://acc.e-loket.ilent.nl
+http://acc.inspecteur.ilent.nl
 https://acceptatie.wio.ilent.nl
 https://data.ilent.nl
 https://e-loket.ilent.nl

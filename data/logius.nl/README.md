@@ -33,7 +33,6 @@
 |[https://bvd-pre.mev.logius.nl](https://bvd-pre.mev.logius.nl)| **B**| **E**|| | | | | | | | :white_check_mark: | |HSTS||
 |[https://bvd.mev.logius.nl](https://bvd.mev.logius.nl)| **B**| **E**|| | | | | | | | :white_check_mark: | |HSTS||
 |[http://ca-devportal.logius.nl](http://ca-devportal.logius.nl)| | **F**|Picard-LB| | | | | | | | :white_check_mark: | |||
-|[http://ca-devportal-pre.logius.nl](http://ca-devportal-pre.logius.nl)| | **F**|Picard-LB| | | | | | | | :white_check_mark: | |||
 |[https://ca-idp.logius.nl](https://ca-idp.logius.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|404 Not Found|
 |[https://ca-idp-pre.logius.nl](https://ca-idp-pre.logius.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|404 Not Found|
 |[http://channels-az1.lpc.logius.nl](http://channels-az1.lpc.logius.nl)| | **F**|Picard-LB| | | | | | | | :white_check_mark: | |||
@@ -43,6 +42,7 @@
 |[http://clienteleitsm-acceptatie.logius.nl](http://clienteleitsm-acceptatie.logius.nl)| | **F**|BigIP| | | | | | | | :white_check_mark: | |F5 BigIP||
 |[https://comcms.logius.nl](https://comcms.logius.nl)| | **B**|nginx| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Drupal HSTS Nginx PHP:8.1.27|Redirecting to h...|
 |[http://docs.lpc.logius.nl](http://docs.lpc.logius.nl)| | **F**|Picard-LB| | | | | | | | :white_check_mark: | |||
+|[http://git-az1.lpc.logius.nl](http://git-az1.lpc.logius.nl)| | **F**|Picard-LB| | | | | | | | :white_check_mark: | |||
 |[http://git-az2.lpc.logius.nl](http://git-az2.lpc.logius.nl)| | **F**|Picard-LB| | | | | | | | :white_check_mark: | |||
 |[http://git.lpc.logius.nl](http://git.lpc.logius.nl)| | **F**|Picard-LB| | | | | | | | :white_check_mark: | |||
 |[https://gitdocumentatie.logius.nl](https://gitdocumentatie.logius.nl)| **A+**| **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Nginx|403 Forbidden|

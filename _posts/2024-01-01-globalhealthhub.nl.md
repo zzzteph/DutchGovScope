@@ -41,7 +41,7 @@ tags: dutchgov
 |[https://feeds.english.globalhealthhub.nl](https://feeds.english.globalhealthhub.nl)| **A+**| **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://opendata.english.globalhealthhub.nl](https://opendata.english.globalhealthhub.nl)| **A+**| **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://feeds.globalhealthhub.nl](https://feeds.globalhealthhub.nl)| **A+**| **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
-|[https://globalhealthhub.nl](https://globalhealthhub.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
-|[https://opendata.globalhealthhub.nl](https://opendata.globalhealthhub.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
-|[https://www.globalhealthhub.nl](https://www.globalhealthhub.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Home | Global He...|
+|[https://globalhealthhub.nl](https://globalhealthhub.nl)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
+|[https://opendata.globalhealthhub.nl](https://opendata.globalhealthhub.nl)| **A+**| **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
+|[https://www.globalhealthhub.nl](https://www.globalhealthhub.nl)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Home | Global He...|
 

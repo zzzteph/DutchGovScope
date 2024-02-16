@@ -4,7 +4,7 @@
 ## Summary data
 
 
- - **SSL Grade**:
+ - **SSL Grade**:A+
  - **HTTP Security Grade**:B
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:2
 
@@ -21,8 +21,8 @@
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://files.klimaatadaptatienederland.nl](https://files.klimaatadaptatienederland.nl)| | **F**|-| | | | | | | | :white_check_mark: | |||
-|[https://woordenboek.klimaatadaptatienederland.nl](https://woordenboek.klimaatadaptatienederland.nl)| | **B**|Apache| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS||
-|[https://www.klimaatadaptatienederland.nl](https://www.klimaatadaptatienederland.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:-|Object moved|
-|[https://klimaatadaptatienederland.nl](https://klimaatadaptatienederland.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Google Tag Manager HSTS Microsoft ASP.NET:-|Home - Klimaatad...|
+|[https://files.klimaatadaptatienederland.nl](https://files.klimaatadaptatienederland.nl)| **A**| **F**|-| | | | | | | | :white_check_mark: | |||
+|[https://woordenboek.klimaatadaptatienederland.nl](https://woordenboek.klimaatadaptatienederland.nl)| **A+**| **B**|Apache| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS||
+|[https://www.klimaatadaptatienederland.nl](https://www.klimaatadaptatienederland.nl)| **A+**| **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:-|Object moved|
+|[https://klimaatadaptatienederland.nl](https://klimaatadaptatienederland.nl)| **A+**| **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Google Tag Manager HSTS Microsoft ASP.NET:-|Home - Klimaatad...|
 

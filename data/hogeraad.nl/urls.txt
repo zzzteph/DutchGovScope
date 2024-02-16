@@ -6,14 +6,14 @@ https://mobiel.hogeraad.nl
 https://siam.hogeraad.nl
 http://wolk.hogeraad.nl
 https://auth.hogeraad.nl
-https://postbus.hogeraad.nl
+http://postbus.hogeraad.nl
 https://apps.hogeraad.nl
 https://www-acc.hogeraad.nl
 https://www.hogeraad.nl
 https://siam-acc.hogeraad.nl
 https://sts.hogeraad.nl
 http://autodiscover.hogeraad.nl
-https://postbus-acc.hogeraad.nl
+http://postbus-acc.hogeraad.nl
 https://mijnzaak-acc.hogeraad.nl
 https://mail.hogeraad.nl
 https://hogeraad.nl

@@ -4,7 +4,7 @@
 ## Summary data
 
 
- - **SSL Grade**:
+ - **SSL Grade**:A+
  - **HTTP Security Grade**:A
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:2
 
@@ -21,6 +21,6 @@
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://www.dutchsocialmediaguide.nl](https://www.dutchsocialmediaguide.nl)| | **A**|Apache|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS|301 Moved Perman...|
-|[https://dutchsocialmediaguide.nl](https://dutchsocialmediaguide.nl)| | **A**|Apache|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS|301 Moved Perman...|
+|[https://www.dutchsocialmediaguide.nl](https://www.dutchsocialmediaguide.nl)| **A+**| **A**|Apache|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS|301 Moved Perman...|
+|[https://dutchsocialmediaguide.nl](https://dutchsocialmediaguide.nl)| **A+**| **A**|Apache|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS|301 Moved Perman...|
 

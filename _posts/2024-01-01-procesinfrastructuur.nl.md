@@ -5,7 +5,7 @@ permalink: "/dutchgov/procesinfrastructuur.nl.html"
 subdomains_count: 133
 all_subdomains_count: 135
 urls_count: 4
-ssl_rank: 
+ssl_rank: C
 http_rank: D
 security_txt: 1
 url_link: /data/procesinfrastructuur.nl/urls.txt
@@ -20,7 +20,7 @@ tags: dutchgov
 ## Summary data
 
 
- - **SSL Grade**:
+ - **SSL Grade**:C
  - **HTTP Security Grade**:D
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:1
 
@@ -37,8 +37,8 @@ tags: dutchgov
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://aansluiten.procesinfrastructuur.nl](https://aansluiten.procesinfrastructuur.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS IBM DataPower Java|Aansluit Suite D...|
+|[https://aansluiten.procesinfrastructuur.nl](https://aansluiten.procesinfrastructuur.nl)| **A+**| **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS IBM DataPower Java|Aansluit Suite D...|
 |[http://cs-portaal.procesinfrastructuur.nl](http://cs-portaal.procesinfrastructuur.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS|302 Found|
-|[http://dashboard.procesinfrastructuur.nl](http://dashboard.procesinfrastructuur.nl)| | **E**|| | | | | | | | :white_check_mark: | ||302 Found|
+|[http://dashboard.procesinfrastructuur.nl](http://dashboard.procesinfrastructuur.nl)| **F**| **E**|| | | | | | | | :white_check_mark: | ||302 Found|
 |[http://test-afleveren.procesinfrastructuur.nl](http://test-afleveren.procesinfrastructuur.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 

@@ -24,3 +24,5 @@ mfa.kansspelautoriteit.nl
 uag1.kansspelautoriteit.nl
 vdi.kansspelautoriteit.nl
 vditest.kansspelautoriteit.nl
+acc.kansspelautoriteit.nl
+sftp.kansspelautoriteit.nl

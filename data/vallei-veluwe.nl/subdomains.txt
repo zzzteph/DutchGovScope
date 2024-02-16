@@ -12,6 +12,7 @@ testeloket.vallei-veluwe.nl
 api.vallei-veluwe.nl
 mx1.vallei-veluwe.nl
 geoportaal.vallei-veluwe.nl
+mx2.vallei-veluwe.nl
 auth.vallei-veluwe.nl
 enterpriseenrollment.vallei-veluwe.nl
 enterpriseregistration.vallei-veluwe.nl

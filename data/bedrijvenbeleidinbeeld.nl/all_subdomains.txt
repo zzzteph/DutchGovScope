@@ -14,3 +14,4 @@ a-opendata.bedrijvenbeleidinbeeld.nl
 i-www.bedrijvenbeleidinbeeld.nl
 o-www.bedrijvenbeleidinbeeld.nl
 t-www.bedrijvenbeleidinbeeld.nl
+bijlage-labelanalyses-missiegedreven-innovatiebeleid-voor-www.bedrijvenbeleidinbeeld.nl

@@ -11,7 +11,7 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/sbr-wonen.nl/subdomains.txt)|2533|Alive subdomains|
+|[subdomains.txt](/data/sbr-wonen.nl/subdomains.txt)|4987|Alive subdomains|
 |[urls.txt](/data/sbr-wonen.nl/urls.txt)|2530|Urls|
 |[all_subdomains.txt](/data/sbr-wonen.nl/all_subdomains.txt)|4989|All found subdomains (history)|
 

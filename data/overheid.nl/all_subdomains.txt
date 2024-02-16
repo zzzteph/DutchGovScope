@@ -7490,3 +7490,12 @@ sitewww.overheid.nl
 gegevensdelen.acc4.mijn.overheid.nl
 gegevensdelen.acc5.mijn.overheid.nl
 gegevensdelen.acc3.mijn.overheid.nl
+api-tst-sp.cup.overheid.nl
+www.api-tst-sp.cup.overheid.nl
+acc.digid-stub.lpc.mijn.overheid.nl
+acc.eidas-stub.lpc.mijn.overheid.nl
+ww.overheid.nl
+13.88data.overheid.nl
+beta-wetten-acc.overheid.nl
+13data.overheid.nl
+www.overuw-buurt.overheid.nl

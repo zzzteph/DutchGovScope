@@ -1362,3 +1362,7 @@ ga-wp3.sd.di.huc.knaw.nl
 facades-formats.labs.dans.knaw.nl
 wp-02.dev.huc.knaw.nl
 infratemplater.labs.dans.knaw.nl
+wp-17.dev.huc.knaw.nl
+minio2.labs.dans.knaw.nl
+wp-05.dev.huc.knaw.nl
+vangogh-api.dev.huc.knaw.nl

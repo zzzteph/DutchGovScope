@@ -4,7 +4,7 @@
 ## Summary data
 
 
- - **SSL Grade**:
+ - **SSL Grade**:A
  - **HTTP Security Grade**:C
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:5
 
@@ -21,36 +21,36 @@
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://werkplek.hdsr.nl](https://werkplek.hdsr.nl)| | **C**|BigIP|:warning: |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |F5 BigIP||
-|[https://zaaksysteem.hdsr.nl](https://zaaksysteem.hdsr.nl)| | **A**||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Moved|
-|[https://ftp-hdsr.hdsr.nl](https://ftp-hdsr.hdsr.nl)| | **A**|xxxx|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Java|User Portal|
-|[https://loket-acc.hdsr.nl](https://loket-acc.hdsr.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
-|[https://webdiensten.hdsr.nl](https://webdiensten.hdsr.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|403 Forbidden|
-|[https://cawfirewall.hdsr.nl](https://cawfirewall.hdsr.nl)| | **A**|xxxx|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Java|User Portal|
-|[https://testbegrippen.hdsr.nl](https://testbegrippen.hdsr.nl)| | **E**|| | | | | | | | :white_check_mark: | |Basic||
+|[https://werkplek.hdsr.nl](https://werkplek.hdsr.nl)| **A**| **C**|BigIP|:warning: |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |F5 BigIP||
+|[https://zaaksysteem.hdsr.nl](https://zaaksysteem.hdsr.nl)| **A+**| **A**||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Moved|
+|[https://ftp-hdsr.hdsr.nl](https://ftp-hdsr.hdsr.nl)| **A+**| **A**|xxxx|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Java|User Portal|
+|[https://loket-acc.hdsr.nl](https://loket-acc.hdsr.nl)| **F**| **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
+|[https://webdiensten.hdsr.nl](https://webdiensten.hdsr.nl)| **A**| **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|403 Forbidden|
+|[https://cawfirewall.hdsr.nl](https://cawfirewall.hdsr.nl)| **A+**| **A**|xxxx|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Java|User Portal|
+|[https://testbegrippen.hdsr.nl](https://testbegrippen.hdsr.nl)| **A**| **E**|| | | | | | | | :white_check_mark: | |Basic||
 |[https://loket.hdsr.nl](https://loket.hdsr.nl)| | **C**|Apache| |:white_check_mark: | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
-|[https://uconnect.hdsr.nl](https://uconnect.hdsr.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|403 Forbidden|
+|[https://uconnect.hdsr.nl](https://uconnect.hdsr.nl)| **A**| **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|403 Forbidden|
 |[https://cawuitwijkfirewall.hdsr.nl](https://cawuitwijkfirewall.hdsr.nl)| | **A**|xxxx|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Java|User Portal|
 |[https://webservices.hdsr.nl](https://webservices.hdsr.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|403 Forbidden|
-|[https://redactie.hdsr.nl](https://redactie.hdsr.nl)| | **A**|-|:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:-|Object moved|
+|[https://redactie.hdsr.nl](https://redactie.hdsr.nl)| **A+**| **A**|-|:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:-|Object moved|
 |[http://autodiscover.hdsr.nl](http://autodiscover.hdsr.nl)| | **B**|Microsoft-IIS/10.0|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server||
 |[https://www.hdsr.nl](https://www.hdsr.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:-|Home - HDSR|
-|[https://mrb.hdsr.nl](https://mrb.hdsr.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|403 Forbidden|
-|[https://testkennis.hdsr.nl](https://testkennis.hdsr.nl)| | **B**|Apache| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS||
-|[https://geoweb.hdsr.nl](https://geoweb.hdsr.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|403 Forbidden|
+|[https://mrb.hdsr.nl](https://mrb.hdsr.nl)| **A**| **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|403 Forbidden|
+|[https://testkennis.hdsr.nl](https://testkennis.hdsr.nl)| **A+**| **B**|Apache| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS||
+|[https://geoweb.hdsr.nl](https://geoweb.hdsr.nl)| **A**| **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|403 Forbidden|
 |[http://www1.hdsr.nl](http://www1.hdsr.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
-|[https://kennis.hdsr.nl](https://kennis.hdsr.nl)| | **B**|Apache| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS||
-|[https://kaarten.hdsr.nl](https://kaarten.hdsr.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|403 Forbidden|
-|[https://begrippen.hdsr.nl](https://begrippen.hdsr.nl)| | **B**|Apache| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS||
-|[https://zaaksysteem-acc.hdsr.nl](https://zaaksysteem-acc.hdsr.nl)| | **A**||:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Moved|
+|[https://kennis.hdsr.nl](https://kennis.hdsr.nl)| **A+**| **B**|Apache| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS||
+|[https://kaarten.hdsr.nl](https://kaarten.hdsr.nl)| **A**| **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|403 Forbidden|
+|[https://begrippen.hdsr.nl](https://begrippen.hdsr.nl)| **A+**| **B**|Apache| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS||
+|[https://zaaksysteem-acc.hdsr.nl](https://zaaksysteem-acc.hdsr.nl)| **A+**| **A**||:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Moved|
 |[http://zoeken.hdsr.nl](http://zoeken.hdsr.nl)| | **F**|-| | | | | | | | :white_check_mark: | |Microsoft ASP.NET:-|Document Moved|
-|[https://uconnect-acc.hdsr.nl](https://uconnect-acc.hdsr.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|403 Forbidden|
-|[https://wsus.hdsr.nl](https://wsus.hdsr.nl)| | **A**|xxxx|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Java|User Portal|
+|[https://uconnect-acc.hdsr.nl](https://uconnect-acc.hdsr.nl)| **A**| **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|403 Forbidden|
+|[https://wsus.hdsr.nl](https://wsus.hdsr.nl)| **A+**| **A**|xxxx|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Java|User Portal|
 |[https://remote-pa.hdsr.nl](https://remote-pa.hdsr.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||
-|[https://geoservices.hdsr.nl](https://geoservices.hdsr.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server Microsoft ASP.NET|IIS Windows Serv...|
-|[https://hdsr.nl](https://hdsr.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:-|Object moved|
-|[https://kantoor.hdsr.nl](https://kantoor.hdsr.nl)| | **A**|xxxx|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Java|User Portal|
-|[https://intranet.ad.hdsr.nl](https://intranet.ad.hdsr.nl)| | **B**|-|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Microsoft ASP.NET:-|Object moved|
+|[https://geoservices.hdsr.nl](https://geoservices.hdsr.nl)| **A**| **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server Microsoft ASP.NET|IIS Windows Serv...|
+|[https://hdsr.nl](https://hdsr.nl)| **A+**| **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:-|Object moved|
+|[https://kantoor.hdsr.nl](https://kantoor.hdsr.nl)| **A+**| **A**|xxxx|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Java|User Portal|
+|[https://intranet.ad.hdsr.nl](https://intranet.ad.hdsr.nl)| **A**| **B**|-|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Microsoft ASP.NET:-|Object moved|
 |[https://waterkwaliteitinbeeld.hdsr.nl](https://waterkwaliteitinbeeld.hdsr.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| | | :white_check_mark: | |HSTS Microsoft ASP.NET:-|Object moved|
 |[http://localhost.hdsr.nl](http://localhost.hdsr.nl)| | **D**|nginx| | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Nginx|Welcome to nginx...|
 

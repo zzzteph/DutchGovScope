@@ -4,7 +4,7 @@
 ## Summary data
 
 
- - **SSL Grade**:
+ - **SSL Grade**:C
  - **HTTP Security Grade**:F
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:0
 
@@ -21,6 +21,6 @@
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://www.toezichtresultaten.nl](https://www.toezichtresultaten.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|Toezichtresultat...|
-|[https://toezichtresultaten.nl](https://toezichtresultaten.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|Toezichtresultat...|
+|[https://www.toezichtresultaten.nl](https://www.toezichtresultaten.nl)| **D**| **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|Toezichtresultat...|
+|[https://toezichtresultaten.nl](https://toezichtresultaten.nl)| **B**| **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|Toezichtresultat...|
 

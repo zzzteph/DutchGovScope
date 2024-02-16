@@ -6,3 +6,4 @@ meet.regioburgemeesters.nl
 sip.regioburgemeesters.nl
 access.regioburgemeesters.nl
 conf.regioburgemeesters.nl
+redactie.regioburgemeesters.nl

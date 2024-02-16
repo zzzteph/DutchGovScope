@@ -5,7 +5,7 @@ permalink: "/dutchgov/uitvoeringarbeidsvoorwaardenwetgeving.nl.html"
 subdomains_count: 2
 all_subdomains_count: 2
 urls_count: 2
-ssl_rank: 
+ssl_rank: A+
 http_rank: B
 security_txt: 0
 url_link: /data/uitvoeringarbeidsvoorwaardenwetgeving.nl/urls.txt
@@ -20,7 +20,7 @@ tags: dutchgov
 ## Summary data
 
 
- - **SSL Grade**:
+ - **SSL Grade**:A+
  - **HTTP Security Grade**:B
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:0
 
@@ -37,6 +37,6 @@ tags: dutchgov
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://www.uitvoeringarbeidsvoorwaardenwetgeving.nl](https://www.uitvoeringarbeidsvoorwaardenwetgeving.nl)| | **B**|nginx| |:white_check_mark: | | |:warning: | | | :white_check_mark: | |HSTS Nginx|302 Found|
-|[https://uitvoeringarbeidsvoorwaardenwetgeving.nl](https://uitvoeringarbeidsvoorwaardenwetgeving.nl)| | **B**|nginx| |:white_check_mark: | | |:warning: | | | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
+|[https://www.uitvoeringarbeidsvoorwaardenwetgeving.nl](https://www.uitvoeringarbeidsvoorwaardenwetgeving.nl)| **A+**| **B**|nginx| |:white_check_mark: | | |:warning: | | | :white_check_mark: | |HSTS Nginx|302 Found|
+|[https://uitvoeringarbeidsvoorwaardenwetgeving.nl](https://uitvoeringarbeidsvoorwaardenwetgeving.nl)| **A+**| **B**|nginx| |:white_check_mark: | | |:warning: | | | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
 

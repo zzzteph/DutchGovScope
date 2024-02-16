@@ -39,7 +39,7 @@ https://opendata.cibg.nl
 https://portaal.competent.cibg.nl
 https://prototype.cibg.nl
 https://publicaties.cibg.nl
-https://publicwebservices.cibg.nl
+http://publicwebservices.cibg.nl
 http://publicwebservices-dcr.cibg.nl
 http://stijlgids.cibg.nl
 http://test.digikoppeling.cibg.nl

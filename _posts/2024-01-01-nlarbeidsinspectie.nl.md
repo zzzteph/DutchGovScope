@@ -3,7 +3,7 @@ layout: default
 title: "nlarbeidsinspectie.nl"
 permalink: "/dutchgov/nlarbeidsinspectie.nl.html"
 subdomains_count: 12
-all_subdomains_count: 13
+all_subdomains_count: 14
 urls_count: 10
 ssl_rank: A+
 http_rank: A
@@ -29,7 +29,7 @@ tags: dutchgov
 |------------|-------|------|
 |[subdomains.txt](/DutchGovScope/data/nlarbeidsinspectie.nl/subdomains.txt)|12|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/nlarbeidsinspectie.nl/urls.txt)|10|Urls|
-|[all_subdomains.txt](/DutchGovScope/data/nlarbeidsinspectie.nl/all_subdomains.txt)|13|All found subdomains (history)|
+|[all_subdomains.txt](/DutchGovScope/data/nlarbeidsinspectie.nl/all_subdomains.txt)|14|All found subdomains (history)|
 
 
 ## Statistics

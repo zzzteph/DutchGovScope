@@ -4,7 +4,7 @@
 ## Summary data
 
 
- - **SSL Grade**:
+ - **SSL Grade**:A+
  - **HTTP Security Grade**:B
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:0
 
@@ -21,6 +21,6 @@
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://www.waterveiligheidsportaal.nl](https://www.waterveiligheidsportaal.nl)| | **B**|Apache| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
-|[https://waterveiligheidsportaal.nl](https://waterveiligheidsportaal.nl)| | **B**|Apache| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |AngularJS Apache HTTP Server HSTS|Waterveiligheids...|
+|[https://www.waterveiligheidsportaal.nl](https://www.waterveiligheidsportaal.nl)| **A+**| **B**|Apache| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
+|[https://waterveiligheidsportaal.nl](https://waterveiligheidsportaal.nl)| **A+**| **B**|Apache| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |AngularJS Apache HTTP Server HSTS|Waterveiligheids...|
 

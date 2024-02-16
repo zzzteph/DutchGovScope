@@ -5,7 +5,7 @@ permalink: "/dutchgov/innovatie-expo2023.nl.html"
 subdomains_count: 2
 all_subdomains_count: 2
 urls_count: 2
-ssl_rank: 
+ssl_rank: A+
 http_rank: A
 security_txt: 0
 url_link: /data/innovatie-expo2023.nl/urls.txt
@@ -20,7 +20,7 @@ tags: dutchgov
 ## Summary data
 
 
- - **SSL Grade**:
+ - **SSL Grade**:A+
  - **HTTP Security Grade**:A
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:0
 
@@ -37,6 +37,6 @@ tags: dutchgov
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://www.innovatie-expo2023.nl](https://www.innovatie-expo2023.nl)| | **A**||:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bootstrap HSTS PHP jQuery jQuery-pjax|InnovatieExpo 20...|
+|[https://www.innovatie-expo2023.nl](https://www.innovatie-expo2023.nl)| **A+**| **A**||:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bootstrap HSTS PHP jQuery jQuery-pjax|InnovatieExpo 20...|
 |[http://innovatie-expo2023.nl](http://innovatie-expo2023.nl)| | **A**|nginx/1.22.1|:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Nginx:1.22.1|301 Moved Perman...|
 

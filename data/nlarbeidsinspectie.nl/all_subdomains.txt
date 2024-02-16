@@ -11,3 +11,4 @@ test.resultaten.nlarbeidsinspectie.nl
 www.asbestovertredingen.nlarbeidsinspectie.nl
 a-feeds.nlarbeidsinspectie.nl
 a-www.nlarbeidsinspectie.nl
+a-opendata.nlarbeidsinspectie.nl

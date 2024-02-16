@@ -236,3 +236,9 @@ rw-iene-prd.topdesk.odc-noord.nl
 iaas-portal-gn3.odc-noord.nl
 paas-portal-gn3.odc-noord.nl
 rw-iene-acc.topdesk.odc-noord.nl
+ns01.bzkdgvbrnpr.odc-noord.nl
+ns.bzkdgvbrnpr.odc-noord.nl
+ns02.bzkdgvbrnpr.odc-noord.nl
+ns01.confluence.odc-noord.nl
+ns.confluence.odc-noord.nl
+ns02.confluence.odc-noord.nl

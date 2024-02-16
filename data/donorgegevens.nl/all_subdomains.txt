@@ -32,3 +32,4 @@ magazines.english.donorgegevens.nl
 magazines.donorgegevens.nl
 www.acc.aanvraag.donorgegevens.nl
 a-magazinesintern.a-english.donorgegevens.nl
+resultaten-toegankelijkheidsonderzoek-aanvraag.donorgegevens.nl-en-klinieken.donorgegevens.nl

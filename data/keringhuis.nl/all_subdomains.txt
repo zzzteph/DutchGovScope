@@ -11,3 +11,4 @@ admin.keringhuis.nl
 localhost.keringhuis.nl
 pop.keringhuis.nl
 quiz.keringhuis.nl
+autodiscover.keringhuis.nl

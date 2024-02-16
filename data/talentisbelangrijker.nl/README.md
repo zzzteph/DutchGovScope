@@ -4,7 +4,7 @@
 ## Summary data
 
 
- - **SSL Grade**:
+ - **SSL Grade**:B-
  - **HTTP Security Grade**:B
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:2
 
@@ -21,7 +21,7 @@
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://feedback.talentisbelangrijker.nl](https://feedback.talentisbelangrijker.nl)| | **E**|| | | | | | | | :white_check_mark: | |Azure HSTS|Startpagina|
-|[https://www.talentisbelangrijker.nl](https://www.talentisbelangrijker.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET YouTube|Object moved|
-|[https://talentisbelangrijker.nl](https://talentisbelangrijker.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET YouTube|Object moved|
+|[https://feedback.talentisbelangrijker.nl](https://feedback.talentisbelangrijker.nl)| **F**| **E**|| | | | | | | | :white_check_mark: | |Azure HSTS|Startpagina|
+|[https://www.talentisbelangrijker.nl](https://www.talentisbelangrijker.nl)| **A+**| **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET YouTube|Object moved|
+|[https://talentisbelangrijker.nl](https://talentisbelangrijker.nl)| **A+**| **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET YouTube|Object moved|
 

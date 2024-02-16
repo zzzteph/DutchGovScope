@@ -37,6 +37,6 @@ tags: dutchgov
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://www.verkeersveiligheidscampagnes.nl](https://www.verkeersveiligheidscampagnes.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET|Object moved|
-|[https://verkeersveiligheidscampagnes.nl](https://verkeersveiligheidscampagnes.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET|Object moved|
+|[http://www.verkeersveiligheidscampagnes.nl](http://www.verkeersveiligheidscampagnes.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET||
+|[http://verkeersveiligheidscampagnes.nl](http://verkeersveiligheidscampagnes.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET||
 

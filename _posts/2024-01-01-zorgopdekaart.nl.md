@@ -5,7 +5,7 @@ permalink: "/dutchgov/zorgopdekaart.nl.html"
 subdomains_count: 2
 all_subdomains_count: 2
 urls_count: 2
-ssl_rank: 
+ssl_rank: B
 http_rank: B
 security_txt: 0
 url_link: /data/zorgopdekaart.nl/urls.txt
@@ -20,7 +20,7 @@ tags: dutchgov
 ## Summary data
 
 
- - **SSL Grade**:
+ - **SSL Grade**:B
  - **HTTP Security Grade**:B
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:0
 
@@ -37,6 +37,6 @@ tags: dutchgov
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://www.zorgopdekaart.nl](https://www.zorgopdekaart.nl)| | **B**|Microsoft-IIS/10.0|:warning: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS IIS:10.0 PHP:7.2.26 Windows Server|Redirecting to n...|
-|[https://zorgopdekaart.nl](https://zorgopdekaart.nl)| | **B**|Microsoft-IIS/10.0|:warning: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS IIS:10.0 PHP:7.2.26 Windows Server|Redirecting to n...|
+|[https://www.zorgopdekaart.nl](https://www.zorgopdekaart.nl)| **B**| **B**|Microsoft-IIS/10.0|:warning: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS IIS:10.0 PHP:7.2.26 Windows Server|Redirecting to n...|
+|[https://zorgopdekaart.nl](https://zorgopdekaart.nl)| **B**| **B**|Microsoft-IIS/10.0|:warning: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS IIS:10.0 PHP:7.2.26 Windows Server|Redirecting to n...|
 

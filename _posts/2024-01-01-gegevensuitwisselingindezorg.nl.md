@@ -40,5 +40,5 @@ tags: dutchgov
 |[https://feeds.gegevensuitwisselingindezorg.nl](https://feeds.gegevensuitwisselingindezorg.nl)| **A+**| **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://opendata.gegevensuitwisselingindezorg.nl](https://opendata.gegevensuitwisselingindezorg.nl)| **A+**| **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://www.gegevensuitwisselingindezorg.nl](https://www.gegevensuitwisselingindezorg.nl)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Home | Gegevensu...|
-|[https://gegevensuitwisselingindezorg.nl](https://gegevensuitwisselingindezorg.nl)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
+|[https://gegevensuitwisselingindezorg.nl](https://gegevensuitwisselingindezorg.nl)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
 

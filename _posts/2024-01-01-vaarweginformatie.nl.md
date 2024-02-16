@@ -2,10 +2,10 @@
 layout: default
 title: "vaarweginformatie.nl"
 permalink: "/dutchgov/vaarweginformatie.nl.html"
-subdomains_count: 7
+subdomains_count: 9
 all_subdomains_count: 12
 urls_count: 5
-ssl_rank: 
+ssl_rank: A
 http_rank: C
 security_txt: 5
 url_link: /data/vaarweginformatie.nl/urls.txt
@@ -20,14 +20,14 @@ tags: dutchgov
 ## Summary data
 
 
- - **SSL Grade**:
+ - **SSL Grade**:A
  - **HTTP Security Grade**:C
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:5
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/vaarweginformatie.nl/subdomains.txt)|7|Alive subdomains|
+|[subdomains.txt](/DutchGovScope/data/vaarweginformatie.nl/subdomains.txt)|9|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/vaarweginformatie.nl/urls.txt)|5|Urls|
 |[all_subdomains.txt](/DutchGovScope/data/vaarweginformatie.nl/all_subdomains.txt)|12|All found subdomains (history)|
 
@@ -37,9 +37,9 @@ tags: dutchgov
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://api.acceptatie.vaarweginformatie.nl](https://api.acceptatie.vaarweginformatie.nl)| | **F**|APISIX/2.15.0| | | | | | | | :white_check_mark: | |Apache APISIX:2.15.0||
-|[https://www.vaarweginformatie.nl](https://www.vaarweginformatie.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |||
-|[https://vaarweginformatie.nl](https://vaarweginformatie.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |||
-|[https://vaarmelder.vaarweginformatie.nl](https://vaarmelder.vaarweginformatie.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |||
+|[https://api.acceptatie.vaarweginformatie.nl](https://api.acceptatie.vaarweginformatie.nl)| **B**| **F**|APISIX/2.15.0| | | | | | | | :white_check_mark: | |Apache APISIX:2.15.0||
+|[https://www.vaarweginformatie.nl](https://www.vaarweginformatie.nl)| **A+**| **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |||
+|[https://vaarweginformatie.nl](https://vaarweginformatie.nl)| **A+**| **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |||
+|[https://vaarmelder.vaarweginformatie.nl](https://vaarmelder.vaarweginformatie.nl)| **A+**| **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |||
 |[https://api.vaarweginformatie.nl](https://api.vaarweginformatie.nl)| | **C**|APISIX/2.15.0| |:white_check_mark: | | | | | | :white_check_mark: | |Apache APISIX:2.15.0 HSTS||
 

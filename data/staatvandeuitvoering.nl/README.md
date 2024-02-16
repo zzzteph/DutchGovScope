@@ -4,7 +4,7 @@
 ## Summary data
 
 
- - **SSL Grade**:
+ - **SSL Grade**:A+
  - **HTTP Security Grade**:A
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:2
 
@@ -21,6 +21,6 @@
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://www.staatvandeuitvoering.nl](https://www.staatvandeuitvoering.nl)| | **A**|nginx| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
-|[https://staatvandeuitvoering.nl](https://staatvandeuitvoering.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Gravity Forms HSTS MySQL PHP WordPress Yoast SEO:21.9.1|De Staat van de...|
+|[https://www.staatvandeuitvoering.nl](https://www.staatvandeuitvoering.nl)| **A+**| **A**|nginx| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
+|[https://staatvandeuitvoering.nl](https://staatvandeuitvoering.nl)| **A**| **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Gravity Forms HSTS MySQL PHP WordPress Yoast SEO:21.9.1|De Staat van de...|
 

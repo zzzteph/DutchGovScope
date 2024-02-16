@@ -46,8 +46,8 @@ https://stagefonds.test.dusi.rdobeheer.nl
 https://extern.test.dusi.rdobeheer.nl
 https://portal.test.dusi.rdobeheer.nl
 https://mailcatch.test.dusi.rdobeheer.nl
-https://portal2.test.dusi.rdobeheer.nl
-http://portalco.test.dusi.rdobeheer.nl
+http://portal2.test.dusi.rdobeheer.nl
+https://portalco.test.dusi.rdobeheer.nl
 https://www2.test.dusi.rdobeheer.nl
 https://co.test.dusi.rdobeheer.nl
 https://www.test.dusi.rdobeheer.nl

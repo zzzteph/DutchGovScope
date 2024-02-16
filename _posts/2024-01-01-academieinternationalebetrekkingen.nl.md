@@ -5,7 +5,7 @@ permalink: "/dutchgov/academieinternationalebetrekkingen.nl.html"
 subdomains_count: 2
 all_subdomains_count: 10
 urls_count: 2
-ssl_rank: 
+ssl_rank: A+
 http_rank: B
 security_txt: 0
 url_link: /data/academieinternationalebetrekkingen.nl/urls.txt
@@ -20,7 +20,7 @@ tags: dutchgov
 ## Summary data
 
 
- - **SSL Grade**:
+ - **SSL Grade**:A+
  - **HTTP Security Grade**:B
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:0
 
@@ -37,6 +37,6 @@ tags: dutchgov
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://www.academieinternationalebetrekkingen.nl](https://www.academieinternationalebetrekkingen.nl)| | **B**|Class|:white_check_mark: |:white_check_mark: | | |:warning: | | :white_check_mark: | :white_check_mark: | |HSTS||
-|[https://academieinternationalebetrekkingen.nl](https://academieinternationalebetrekkingen.nl)| | **B**|Class|:white_check_mark: |:white_check_mark: | | |:warning: | | :white_check_mark: | :white_check_mark: | |HSTS||
+|[https://www.academieinternationalebetrekkingen.nl](https://www.academieinternationalebetrekkingen.nl)| **A+**| **B**|Class|:white_check_mark: |:white_check_mark: | | |:warning: | | :white_check_mark: | :white_check_mark: | |HSTS||
+|[https://academieinternationalebetrekkingen.nl](https://academieinternationalebetrekkingen.nl)| **A+**| **B**|Class|:white_check_mark: |:white_check_mark: | | |:warning: | | :white_check_mark: | :white_check_mark: | |HSTS||
 

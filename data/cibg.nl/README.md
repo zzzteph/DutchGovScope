@@ -6,7 +6,7 @@
 
  - **SSL Grade**:B
  - **HTTP Security Grade**:C
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:24
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:23
 
 
 | File       | Count | Info |
@@ -55,20 +55,20 @@
 |[https://eherkenning.services.cibg.nl](https://eherkenning.services.cibg.nl)| **F**| **E**|| | | | | | | | :white_check_mark: | |HSTS|302 Found|
 |[https://feeds.cibg.nl](https://feeds.cibg.nl)| **A+**| **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://forms.klopt.cibg.nl](https://forms.klopt.cibg.nl)| **A**| **E**|| | | | | | | | :white_check_mark: | ||404 Not Found|
-|[https://lir.cibg.nl](https://lir.cibg.nl)| **A**| **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Landelijk Implan...|
+|[https://lir.cibg.nl](https://lir.cibg.nl)| **A**| **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://manager.klopt.cibg.nl](https://manager.klopt.cibg.nl)| **A**| **F**||:white_check_mark: | | | | | | | :white_check_mark: | |||
 |[https://meldingen.klopt.cibg.nl](https://meldingen.klopt.cibg.nl)| **B**| **E**|| | | | | | | | :white_check_mark: | |Amazon ALB Amazon Web Services HSTS Microsoft ASP.NET|Object moved|
 |[https://opendata.cibg.nl](https://opendata.cibg.nl)| **A+**| **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://portaal.competent.cibg.nl](https://portaal.competent.cibg.nl)| **A**| **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://prototype.cibg.nl](https://prototype.cibg.nl)| **B**| **F**|-| | | | | | | | :white_check_mark: | |Basic HSTS||
 |[https://publicaties.cibg.nl](https://publicaties.cibg.nl)| **F**| **E**|| | | | | | | | :white_check_mark: | |HSTS|404 - Not Found...|
-|[https://publicwebservices.cibg.nl](https://publicwebservices.cibg.nl)| **A**| **F**|-| | | | | | | | :white_check_mark: | |HSTS||
+|[http://publicwebservices.cibg.nl](http://publicwebservices.cibg.nl)| **A**| **F**|BigIP| | | | | | | | :white_check_mark: | |F5 BigIP||
 |[http://publicwebservices-dcr.cibg.nl](http://publicwebservices-dcr.cibg.nl)| **A**| **A**|BigIP| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |F5 BigIP||
 |[http://stijlgids.cibg.nl](http://stijlgids.cibg.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[http://test.digikoppeling.cibg.nl](http://test.digikoppeling.cibg.nl)| **F**| **D**|-| | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |||
 |[https://test.publicwebservices.cibg.nl](https://test.publicwebservices.cibg.nl)| **A**| **A**|-| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://tmv.cibg.nl](https://tmv.cibg.nl)| **A**| **A**|-| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
-|[https://uzipas.lir.cibg.nl](https://uzipas.lir.cibg.nl)| **A**| **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Landelijk Implan...|
+|[https://uzipas.lir.cibg.nl](https://uzipas.lir.cibg.nl)| **A**| **A**|-| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://webchat.klopt.cibg.nl](https://webchat.klopt.cibg.nl)| **A**| **E**|| | | | | | | | :white_check_mark: | ||404 Not Found|
 |[http://webservices.lrza.cibg.nl](http://webservices.lrza.cibg.nl)| **F**| **F**|BigIP| | | | | | | | :white_check_mark: | |F5 BigIP||
 |[https://www.cibg.nl](https://www.cibg.nl)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Home | CIBG|

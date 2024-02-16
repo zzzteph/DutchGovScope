@@ -4,7 +4,7 @@
 ## Summary data
 
 
- - **SSL Grade**:
+ - **SSL Grade**:A+
  - **HTTP Security Grade**:C
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:0
 
@@ -21,6 +21,6 @@
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://www.dustex.nl](https://www.dustex.nl)| | **C**|Microsoft-IIS/10.0|:warning: |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS IIS:10.0 Microsoft ASP.NET:4.0.30319 Windows Server|DustEx|
-|[https://dustex.nl](https://dustex.nl)| | **C**|Microsoft-IIS/10.0|:warning: |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS IIS:10.0 Microsoft ASP.NET:4.0.30319 Windows Server|DustEx|
+|[https://www.dustex.nl](https://www.dustex.nl)| **A+**| **C**|Microsoft-IIS/10.0|:warning: |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS IIS:10.0 Microsoft ASP.NET:4.0.30319 Windows Server|DustEx|
+|[https://dustex.nl](https://dustex.nl)| **A+**| **C**|Microsoft-IIS/10.0|:warning: |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS IIS:10.0 Microsoft ASP.NET:4.0.30319 Windows Server|DustEx|
 

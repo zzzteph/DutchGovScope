@@ -4,8 +4,8 @@ title: "waarzitwatin.nl"
 permalink: "/dutchgov/waarzitwatin.nl.html"
 subdomains_count: 87
 all_subdomains_count: 87
-urls_count: 86
-ssl_rank: 
+urls_count: 87
+ssl_rank: A+
 http_rank: F
 security_txt: 0
 url_link: /data/waarzitwatin.nl/urls.txt
@@ -20,7 +20,7 @@ tags: dutchgov
 ## Summary data
 
 
- - **SSL Grade**:
+ - **SSL Grade**:A+
  - **HTTP Security Grade**:F
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:0
 
@@ -28,7 +28,7 @@ tags: dutchgov
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/DutchGovScope/data/waarzitwatin.nl/subdomains.txt)|87|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/waarzitwatin.nl/urls.txt)|86|Urls|
+|[urls.txt](/DutchGovScope/data/waarzitwatin.nl/urls.txt)|87|Urls|
 |[all_subdomains.txt](/DutchGovScope/data/waarzitwatin.nl/all_subdomains.txt)|87|All found subdomains (history)|
 
 
@@ -37,9 +37,9 @@ tags: dutchgov
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://staging.waarzitwatin.nl](https://staging.waarzitwatin.nl)| | **F**|CloudFront| | | | | | | | :white_check_mark: | |AWS WAF Captcha Amazon CloudFront Amazon Web Services|Human Verificati...|
+|[https://staging.waarzitwatin.nl](https://staging.waarzitwatin.nl)| **A**| **F**|CloudFront| | | | | | | | :white_check_mark: | |AWS WAF Captcha Amazon CloudFront Amazon Web Services|Human Verificati...|
 |[https://www.waarzitwatin.nl](https://www.waarzitwatin.nl)| | **F**|cloudflare| | | | | | | | :white_check_mark: | |AWS WAF Captcha Amazon CloudFront Amazon Web Services Cloudflare HTTP/3|Human Verificati...|
-|[https://waarzitwatin.nl](https://waarzitwatin.nl)| | **F**|CloudFront| | | | | | | | :white_check_mark: | |AWS WAF Captcha Amazon CloudFront Amazon Web Services|Human Verificati...|
+|[https://waarzitwatin.nl](https://waarzitwatin.nl)| **A+**| **F**|CloudFront| | | | | | | | :white_check_mark: | |AWS WAF Captcha Amazon CloudFront Amazon Web Services|Human Verificati...|
 |[https://files.staging.waarzitwatin.nl](https://files.staging.waarzitwatin.nl)| | **F**|CloudFront| | | | | | | | :white_check_mark: | |AWS WAF Captcha Amazon CloudFront Amazon Web Services|Human Verificati...|
 |[https://kibana.staging.waarzitwatin.nl](https://kibana.staging.waarzitwatin.nl)| | **F**|CloudFront| | | | | | | | :white_check_mark: | |AWS WAF Captcha Amazon CloudFront Amazon Web Services|Human Verificati...|
 |[https://mijn.staging.waarzitwatin.nl](https://mijn.staging.waarzitwatin.nl)| | **F**|CloudFront| | | | | | | | :white_check_mark: | |AWS WAF Captcha Amazon CloudFront Amazon Web Services|Human Verificati...|
@@ -123,4 +123,5 @@ tags: dutchgov
 |[https://nl.staging.waarzitwatin.nl](https://nl.staging.waarzitwatin.nl)| | **F**|CloudFront| | | | | | | | :white_check_mark: | |AWS WAF Captcha Amazon CloudFront Amazon Web Services|Human Verificati...|
 |[https://proxy.staging.waarzitwatin.nl](https://proxy.staging.waarzitwatin.nl)| | **F**|CloudFront| | | | | | | | :white_check_mark: | |AWS WAF Captcha Amazon CloudFront Amazon Web Services|Human Verificati...|
 |[https://jenkins.staging.waarzitwatin.nl](https://jenkins.staging.waarzitwatin.nl)| | **F**|CloudFront| | | | | | | | :white_check_mark: | |AWS WAF Captcha Amazon CloudFront Amazon Web Services|Human Verificati...|
+|[https://link.staging.waarzitwatin.nl](https://link.staging.waarzitwatin.nl)| | **F**|CloudFront| | | | | | | | :white_check_mark: | |AWS WAF Captcha Amazon CloudFront Amazon Web Services|Human Verificati...|
 

@@ -5,7 +5,7 @@ permalink: "/dutchgov/zorgvoorinnoveren.nl.html"
 subdomains_count: 2
 all_subdomains_count: 12
 urls_count: 2
-ssl_rank: 
+ssl_rank: A+
 http_rank: A
 security_txt: 0
 url_link: /data/zorgvoorinnoveren.nl/urls.txt
@@ -20,7 +20,7 @@ tags: dutchgov
 ## Summary data
 
 
- - **SSL Grade**:
+ - **SSL Grade**:A+
  - **HTTP Security Grade**:A
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:0
 
@@ -37,6 +37,6 @@ tags: dutchgov
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://www.zorgvoorinnoveren.nl](https://www.zorgvoorinnoveren.nl)| | **A**|nginx| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx|Jij stippelt de...|
-|[https://zorgvoorinnoveren.nl](https://zorgvoorinnoveren.nl)| | **A**|nginx| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx|Jij stippelt de...|
+|[https://www.zorgvoorinnoveren.nl](https://www.zorgvoorinnoveren.nl)| **A+**| **A**|nginx| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx|Jij stippelt de...|
+|[https://zorgvoorinnoveren.nl](https://zorgvoorinnoveren.nl)| **A+**| **A**|nginx| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx|Jij stippelt de...|
 

@@ -5,7 +5,7 @@ permalink: "/dutchgov/talentisbelangrijker.nl.html"
 subdomains_count: 3
 all_subdomains_count: 3
 urls_count: 3
-ssl_rank: 
+ssl_rank: B-
 http_rank: B
 security_txt: 2
 url_link: /data/talentisbelangrijker.nl/urls.txt
@@ -20,7 +20,7 @@ tags: dutchgov
 ## Summary data
 
 
- - **SSL Grade**:
+ - **SSL Grade**:B-
  - **HTTP Security Grade**:B
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:2
 
@@ -37,7 +37,7 @@ tags: dutchgov
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://feedback.talentisbelangrijker.nl](https://feedback.talentisbelangrijker.nl)| | **E**|| | | | | | | | :white_check_mark: | |Azure HSTS|Startpagina|
-|[https://www.talentisbelangrijker.nl](https://www.talentisbelangrijker.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET YouTube|Object moved|
-|[https://talentisbelangrijker.nl](https://talentisbelangrijker.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET YouTube|Object moved|
+|[https://feedback.talentisbelangrijker.nl](https://feedback.talentisbelangrijker.nl)| **F**| **E**|| | | | | | | | :white_check_mark: | |Azure HSTS|Startpagina|
+|[https://www.talentisbelangrijker.nl](https://www.talentisbelangrijker.nl)| **A+**| **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET YouTube|Object moved|
+|[https://talentisbelangrijker.nl](https://talentisbelangrijker.nl)| **A+**| **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET YouTube|Object moved|
 

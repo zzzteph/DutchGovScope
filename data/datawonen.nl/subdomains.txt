@@ -1,10 +1,8 @@
 bbsh.datawonen.nl
 btiv.datawonen.nl
-cowb.datawonen.nl
 dfg.datawonen.nl
 disco.datawonen.nl
 hcib.datawonen.nl
-portal.datawonen.nl
 primos.datawonen.nl
 prognoses.datawonen.nl
 syswov.datawonen.nl
@@ -14,6 +12,5 @@ datawonen.nl
 55plus.datawonen.nl
 ibw.datawonen.nl
 kaarten.datawonen.nl
-prestatie-opkaart.datawonen.nl
 mn.datawonen.nl
 begrippenlijst.datawonen.nl

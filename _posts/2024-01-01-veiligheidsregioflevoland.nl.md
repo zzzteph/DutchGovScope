@@ -4,8 +4,8 @@ title: "veiligheidsregioflevoland.nl"
 permalink: "/dutchgov/veiligheidsregioflevoland.nl.html"
 subdomains_count: 191
 all_subdomains_count: 191
-urls_count: 91
-ssl_rank: 
+urls_count: 191
+ssl_rank: B
 http_rank: F
 security_txt: 2
 url_link: /data/veiligheidsregioflevoland.nl/urls.txt
@@ -20,7 +20,7 @@ tags: dutchgov
 ## Summary data
 
 
- - **SSL Grade**:
+ - **SSL Grade**:B
  - **HTTP Security Grade**:F
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:2
 
@@ -28,7 +28,7 @@ tags: dutchgov
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/DutchGovScope/data/veiligheidsregioflevoland.nl/subdomains.txt)|191|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/veiligheidsregioflevoland.nl/urls.txt)|91|Urls|
+|[urls.txt](/DutchGovScope/data/veiligheidsregioflevoland.nl/urls.txt)|191|Urls|
 |[all_subdomains.txt](/DutchGovScope/data/veiligheidsregioflevoland.nl/all_subdomains.txt)|191|All found subdomains (history)|
 
 
@@ -39,11 +39,11 @@ tags: dutchgov
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[http://veiligheidsregioflevoland.nlwww.veiligheidsregioflevoland.nl](http://veiligheidsregioflevoland.nlwww.veiligheidsregioflevoland.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
 |[http://websitewww.veiligheidsregioflevoland.nl](http://websitewww.veiligheidsregioflevoland.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
-|[https://mail.veiligheidsregioflevoland.nl](https://mail.veiligheidsregioflevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||
-|[https://elo.veiligheidsregioflevoland.nl](https://elo.veiligheidsregioflevoland.nl)| | **E**|-| | | | | | | :white_check_mark: | :white_check_mark: | |Microsoft ASP.NET:-|CK Mensenmassa|
-|[https://redactie.veiligheidsregioflevoland.nl](https://redactie.veiligheidsregioflevoland.nl)| | **A**|-|:white_check_mark: |:white_check_mark: | | | :white_check_mark:| | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:-|Object moved|
-|[https://veiligheidsregioflevoland.nl](https://veiligheidsregioflevoland.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:-|Object moved|
-|[https://www.veiligheidsregioflevoland.nl](https://www.veiligheidsregioflevoland.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:-|Home - Website V...|
+|[https://mail.veiligheidsregioflevoland.nl](https://mail.veiligheidsregioflevoland.nl)| **F**| **E**|| | | | | | | | :white_check_mark: | |HSTS||
+|[https://elo.veiligheidsregioflevoland.nl](https://elo.veiligheidsregioflevoland.nl)| **A**| **E**|-| | | | | | | :white_check_mark: | :white_check_mark: | |Microsoft ASP.NET:-|CK Mensenmassa|
+|[https://redactie.veiligheidsregioflevoland.nl](https://redactie.veiligheidsregioflevoland.nl)| **A**| **A**|-|:white_check_mark: |:white_check_mark: | | | :white_check_mark:| | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:-|Object moved|
+|[https://veiligheidsregioflevoland.nl](https://veiligheidsregioflevoland.nl)| **A**| **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:-|Object moved|
+|[https://www.veiligheidsregioflevoland.nl](https://www.veiligheidsregioflevoland.nl)| **A**| **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:-|Home - Website V...|
 |[http://lelystadinternetwww.veiligheidsregioflevoland.nl](http://lelystadinternetwww.veiligheidsregioflevoland.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
 |[http://autodiscover.veiligheidsregioflevoland.nl](http://autodiscover.veiligheidsregioflevoland.nl)| | **B**|Microsoft-IIS/10.0|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server||
 |[https://enterpriseenrollment.veiligheidsregioflevoland.nl](https://enterpriseenrollment.veiligheidsregioflevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||
@@ -128,4 +128,104 @@ tags: dutchgov
 |[http://1test.veiligheidsregioflevoland.nl](http://1test.veiligheidsregioflevoland.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
 |[http://cdn20.veiligheidsregioflevoland.nl](http://cdn20.veiligheidsregioflevoland.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
 |[http://www-gp-web-1544.veiligheidsregioflevoland.nl](http://www-gp-web-1544.veiligheidsregioflevoland.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
+|[http://mailgw1.veiligheidsregioflevoland.nl](http://mailgw1.veiligheidsregioflevoland.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
+|[http://askim.veiligheidsregioflevoland.nl](http://askim.veiligheidsregioflevoland.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
+|[http://webdisk.team.veiligheidsregioflevoland.nl](http://webdisk.team.veiligheidsregioflevoland.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
+|[http://test62.veiligheidsregioflevoland.nl](http://test62.veiligheidsregioflevoland.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
+|[http://venhorst.veiligheidsregioflevoland.nl](http://venhorst.veiligheidsregioflevoland.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
+|[http://algemeen.veiligheidsregioflevoland.nl](http://algemeen.veiligheidsregioflevoland.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
+|[http://aloa.veiligheidsregioflevoland.nl](http://aloa.veiligheidsregioflevoland.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
+|[http://101boys.veiligheidsregioflevoland.nl](http://101boys.veiligheidsregioflevoland.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
+|[http://oio.veiligheidsregioflevoland.nl](http://oio.veiligheidsregioflevoland.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
+|[http://coat.veiligheidsregioflevoland.nl](http://coat.veiligheidsregioflevoland.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
+|[http://mwb.veiligheidsregioflevoland.nl](http://mwb.veiligheidsregioflevoland.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
+|[http://admire.veiligheidsregioflevoland.nl](http://admire.veiligheidsregioflevoland.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
+|[http://13artspl.veiligheidsregioflevoland.nl](http://13artspl.veiligheidsregioflevoland.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
+|[http://dev-2.veiligheidsregioflevoland.nl](http://dev-2.veiligheidsregioflevoland.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
+|[http://verint.veiligheidsregioflevoland.nl](http://verint.veiligheidsregioflevoland.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
+|[http://luigi.veiligheidsregioflevoland.nl](http://luigi.veiligheidsregioflevoland.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
+|[http://prop.veiligheidsregioflevoland.nl](http://prop.veiligheidsregioflevoland.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
+|[http://cs105.veiligheidsregioflevoland.nl](http://cs105.veiligheidsregioflevoland.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
+|[http://pokemonscarlet.veiligheidsregioflevoland.nl](http://pokemonscarlet.veiligheidsregioflevoland.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
+|[http://arcgisportal.veiligheidsregioflevoland.nl](http://arcgisportal.veiligheidsregioflevoland.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
+|[http://kostuums.veiligheidsregioflevoland.nl](http://kostuums.veiligheidsregioflevoland.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
+|[http://paardengek.veiligheidsregioflevoland.nl](http://paardengek.veiligheidsregioflevoland.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
+|[http://web5588.veiligheidsregioflevoland.nl](http://web5588.veiligheidsregioflevoland.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
+|[http://servix.veiligheidsregioflevoland.nl](http://servix.veiligheidsregioflevoland.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
+|[http://grootspoor.veiligheidsregioflevoland.nl](http://grootspoor.veiligheidsregioflevoland.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
+|[http://yulin.veiligheidsregioflevoland.nl](http://yulin.veiligheidsregioflevoland.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
+|[http://web6810.veiligheidsregioflevoland.nl](http://web6810.veiligheidsregioflevoland.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
+|[http://bioslife.veiligheidsregioflevoland.nl](http://bioslife.veiligheidsregioflevoland.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
+|[http://jeugdboeken.veiligheidsregioflevoland.nl](http://jeugdboeken.veiligheidsregioflevoland.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
+|[http://nfo.veiligheidsregioflevoland.nl](http://nfo.veiligheidsregioflevoland.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
+|[http://245.veiligheidsregioflevoland.nl](http://245.veiligheidsregioflevoland.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
+|[http://microsites.veiligheidsregioflevoland.nl](http://microsites.veiligheidsregioflevoland.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
+|[http://wen.veiligheidsregioflevoland.nl](http://wen.veiligheidsregioflevoland.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
+|[http://web6376.veiligheidsregioflevoland.nl](http://web6376.veiligheidsregioflevoland.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
+|[http://techtraining.veiligheidsregioflevoland.nl](http://techtraining.veiligheidsregioflevoland.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
+|[http://qpr.veiligheidsregioflevoland.nl](http://qpr.veiligheidsregioflevoland.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
+|[http://retreats.veiligheidsregioflevoland.nl](http://retreats.veiligheidsregioflevoland.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
+|[http://nozomi.veiligheidsregioflevoland.nl](http://nozomi.veiligheidsregioflevoland.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
+|[http://web5930.veiligheidsregioflevoland.nl](http://web5930.veiligheidsregioflevoland.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
+|[http://betterday.users.veiligheidsregioflevoland.nl](http://betterday.users.veiligheidsregioflevoland.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
+|[http://tractorpullingteams.veiligheidsregioflevoland.nl](http://tractorpullingteams.veiligheidsregioflevoland.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
+|[http://vakantie-bulgarije.veiligheidsregioflevoland.nl](http://vakantie-bulgarije.veiligheidsregioflevoland.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
+|[http://at.app.veiligheidsregioflevoland.nl](http://at.app.veiligheidsregioflevoland.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
+|[http://quattro.veiligheidsregioflevoland.nl](http://quattro.veiligheidsregioflevoland.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
+|[http://duif.veiligheidsregioflevoland.nl](http://duif.veiligheidsregioflevoland.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
+|[http://universitas.veiligheidsregioflevoland.nl](http://universitas.veiligheidsregioflevoland.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
+|[http://cryptic.veiligheidsregioflevoland.nl](http://cryptic.veiligheidsregioflevoland.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
+|[http://blackwood.veiligheidsregioflevoland.nl](http://blackwood.veiligheidsregioflevoland.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
+|[http://nexus-dev.veiligheidsregioflevoland.nl](http://nexus-dev.veiligheidsregioflevoland.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
+|[http://secondopinion.veiligheidsregioflevoland.nl](http://secondopinion.veiligheidsregioflevoland.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
+|[http://barrow.veiligheidsregioflevoland.nl](http://barrow.veiligheidsregioflevoland.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
+|[http://iframes.veiligheidsregioflevoland.nl](http://iframes.veiligheidsregioflevoland.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
+|[http://tracer.veiligheidsregioflevoland.nl](http://tracer.veiligheidsregioflevoland.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
+|[http://hebei.veiligheidsregioflevoland.nl](http://hebei.veiligheidsregioflevoland.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
+|[http://south-park.veiligheidsregioflevoland.nl](http://south-park.veiligheidsregioflevoland.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
+|[http://alertmanager.monitoring.veiligheidsregioflevoland.nl](http://alertmanager.monitoring.veiligheidsregioflevoland.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
+|[http://maybe.veiligheidsregioflevoland.nl](http://maybe.veiligheidsregioflevoland.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
+|[http://wo2.veiligheidsregioflevoland.nl](http://wo2.veiligheidsregioflevoland.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
+|[http://wot.veiligheidsregioflevoland.nl](http://wot.veiligheidsregioflevoland.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
+|[http://lnp.veiligheidsregioflevoland.nl](http://lnp.veiligheidsregioflevoland.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
+|[http://412.veiligheidsregioflevoland.nl](http://412.veiligheidsregioflevoland.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
+|[http://arthas.veiligheidsregioflevoland.nl](http://arthas.veiligheidsregioflevoland.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
+|[http://praxis.veiligheidsregioflevoland.nl](http://praxis.veiligheidsregioflevoland.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
+|[http://0117-hoofdplaat.veiligheidsregioflevoland.nl](http://0117-hoofdplaat.veiligheidsregioflevoland.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
+|[http://fietsonderdelen.veiligheidsregioflevoland.nl](http://fietsonderdelen.veiligheidsregioflevoland.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
+|[http://rossosh.veiligheidsregioflevoland.nl](http://rossosh.veiligheidsregioflevoland.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
+|[http://outreach.veiligheidsregioflevoland.nl](http://outreach.veiligheidsregioflevoland.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
+|[http://webdisk.media.veiligheidsregioflevoland.nl](http://webdisk.media.veiligheidsregioflevoland.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
+|[http://web5014.veiligheidsregioflevoland.nl](http://web5014.veiligheidsregioflevoland.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
+|[http://pharmacy.veiligheidsregioflevoland.nl](http://pharmacy.veiligheidsregioflevoland.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
+|[http://dev.registration.veiligheidsregioflevoland.nl](http://dev.registration.veiligheidsregioflevoland.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
+|[http://truster.veiligheidsregioflevoland.nl](http://truster.veiligheidsregioflevoland.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
+|[http://acaketorememberva.veiligheidsregioflevoland.nl](http://acaketorememberva.veiligheidsregioflevoland.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
+|[http://vruchten.veiligheidsregioflevoland.nl](http://vruchten.veiligheidsregioflevoland.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
+|[http://web4058.veiligheidsregioflevoland.nl](http://web4058.veiligheidsregioflevoland.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
+|[http://noordoostpolder.veiligheidsregioflevoland.nl](http://noordoostpolder.veiligheidsregioflevoland.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
+|[http://ccps.veiligheidsregioflevoland.nl](http://ccps.veiligheidsregioflevoland.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
+|[http://mail8.veiligheidsregioflevoland.nl](http://mail8.veiligheidsregioflevoland.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
+|[http://naya.veiligheidsregioflevoland.nl](http://naya.veiligheidsregioflevoland.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
+|[http://smedia.veiligheidsregioflevoland.nl](http://smedia.veiligheidsregioflevoland.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
+|[http://spanbroek.veiligheidsregioflevoland.nl](http://spanbroek.veiligheidsregioflevoland.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
+|[http://exame.veiligheidsregioflevoland.nl](http://exame.veiligheidsregioflevoland.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
+|[http://www-0-1.veiligheidsregioflevoland.nl](http://www-0-1.veiligheidsregioflevoland.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
+|[http://perevozki.veiligheidsregioflevoland.nl](http://perevozki.veiligheidsregioflevoland.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
+|[http://radar.metrika.veiligheidsregioflevoland.nl](http://radar.metrika.veiligheidsregioflevoland.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
+|[http://mta-sts.api.veiligheidsregioflevoland.nl](http://mta-sts.api.veiligheidsregioflevoland.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
+|[http://apci.veiligheidsregioflevoland.nl](http://apci.veiligheidsregioflevoland.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
+|[http://ad9.veiligheidsregioflevoland.nl](http://ad9.veiligheidsregioflevoland.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
+|[http://buri.veiligheidsregioflevoland.nl](http://buri.veiligheidsregioflevoland.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
+|[http://uitnodigingen.veiligheidsregioflevoland.nl](http://uitnodigingen.veiligheidsregioflevoland.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
+|[http://mri.veiligheidsregioflevoland.nl](http://mri.veiligheidsregioflevoland.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
+|[http://cari.veiligheidsregioflevoland.nl](http://cari.veiligheidsregioflevoland.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
+|[http://rabot.veiligheidsregioflevoland.nl](http://rabot.veiligheidsregioflevoland.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
+|[http://magistr.veiligheidsregioflevoland.nl](http://magistr.veiligheidsregioflevoland.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
+|[http://api.openbanking.veiligheidsregioflevoland.nl](http://api.openbanking.veiligheidsregioflevoland.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
+|[http://pokerface.veiligheidsregioflevoland.nl](http://pokerface.veiligheidsregioflevoland.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
+|[http://taichi.veiligheidsregioflevoland.nl](http://taichi.veiligheidsregioflevoland.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
+|[http://mail-new.veiligheidsregioflevoland.nl](http://mail-new.veiligheidsregioflevoland.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
+|[http://critter.veiligheidsregioflevoland.nl](http://critter.veiligheidsregioflevoland.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
+|[http://deca.veiligheidsregioflevoland.nl](http://deca.veiligheidsregioflevoland.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
 

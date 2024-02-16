@@ -3,7 +3,7 @@ layout: default
 title: "nederlandcirculairin2050.nl"
 permalink: "/dutchgov/nederlandcirculairin2050.nl.html"
 subdomains_count: 6
-all_subdomains_count: 6
+all_subdomains_count: 7
 urls_count: 4
 ssl_rank: A+
 http_rank: A
@@ -29,7 +29,7 @@ tags: dutchgov
 |------------|-------|------|
 |[subdomains.txt](/DutchGovScope/data/nederlandcirculairin2050.nl/subdomains.txt)|6|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/nederlandcirculairin2050.nl/urls.txt)|4|Urls|
-|[all_subdomains.txt](/DutchGovScope/data/nederlandcirculairin2050.nl/all_subdomains.txt)|6|All found subdomains (history)|
+|[all_subdomains.txt](/DutchGovScope/data/nederlandcirculairin2050.nl/all_subdomains.txt)|7|All found subdomains (history)|
 
 
 ## Statistics

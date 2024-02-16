@@ -12,7 +12,7 @@
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/eindtoetspo.nl/subdomains.txt)|2|Alive subdomains|
-|[urls.txt](/data/eindtoetspo.nl/urls.txt)|2|Urls|
+|[urls.txt](/data/eindtoetspo.nl/urls.txt)|0|Urls|
 |[all_subdomains.txt](/data/eindtoetspo.nl/all_subdomains.txt)|2|All found subdomains (history)|
 
 
@@ -21,6 +21,4 @@
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://eindtoetspo.nl](https://eindtoetspo.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|404 Not Found|
-|[https://www.eindtoetspo.nl](https://www.eindtoetspo.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|404 Not Found|
 

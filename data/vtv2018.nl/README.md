@@ -4,7 +4,7 @@
 ## Summary data
 
 
- - **SSL Grade**:
+ - **SSL Grade**:A+
  - **HTTP Security Grade**:C
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:2
 
@@ -23,6 +23,6 @@
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[http://acceptatie.vtv2018.nl](http://acceptatie.vtv2018.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[http://test.vtv2018.nl](http://test.vtv2018.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
-|[https://www.vtv2018.nl](https://www.vtv2018.nl)| | **A**|Apache| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server Drupal HSTS PHP|Een gezond vooru...|
-|[https://vtv2018.nl](https://vtv2018.nl)| | **A**|Apache| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS|301 Moved Perman...|
+|[https://www.vtv2018.nl](https://www.vtv2018.nl)| **A+**| **A**|Apache| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server Drupal HSTS PHP|Een gezond vooru...|
+|[https://vtv2018.nl](https://vtv2018.nl)| **A+**| **A**|Apache| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS|301 Moved Perman...|
 

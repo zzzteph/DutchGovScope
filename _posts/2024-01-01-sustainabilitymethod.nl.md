@@ -5,7 +5,7 @@ permalink: "/dutchgov/sustainabilitymethod.nl.html"
 subdomains_count: 2
 all_subdomains_count: 2
 urls_count: 2
-ssl_rank: 
+ssl_rank: A+
 http_rank: B
 security_txt: 0
 url_link: /data/sustainabilitymethod.nl/urls.txt
@@ -20,7 +20,7 @@ tags: dutchgov
 ## Summary data
 
 
- - **SSL Grade**:
+ - **SSL Grade**:A+
  - **HTTP Security Grade**:B
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:0
 
@@ -37,6 +37,6 @@ tags: dutchgov
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://www.sustainabilitymethod.nl](https://www.sustainabilitymethod.nl)| | **B**|nginx|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Debian HSTS Nginx PHP:8.3.2|RIVM Sustainabil...|
-|[https://sustainabilitymethod.nl](https://sustainabilitymethod.nl)| | **B**|nginx|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Debian HSTS Nginx PHP:8.3.2|RIVM Sustainabil...|
+|[https://www.sustainabilitymethod.nl](https://www.sustainabilitymethod.nl)| **A+**| **B**|nginx|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Debian HSTS Nginx PHP:8.3.2|RIVM Sustainabil...|
+|[https://sustainabilitymethod.nl](https://sustainabilitymethod.nl)| **A+**| **B**|nginx|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Debian HSTS Nginx PHP:8.3.2|RIVM Sustainabil...|
 

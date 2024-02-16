@@ -4,7 +4,7 @@
 ## Summary data
 
 
- - **SSL Grade**:
+ - **SSL Grade**:D
  - **HTTP Security Grade**:C
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:1
 
@@ -21,6 +21,6 @@
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://www.nl-works.nl](https://www.nl-works.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS|Domeinnaam nog n...|
-|[https://nl-works.nl](https://nl-works.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |||
+|[https://www.nl-works.nl](https://www.nl-works.nl)| **F**| **E**|| | | | | | | | :white_check_mark: | |HSTS|Domeinnaam nog n...|
+|[https://nl-works.nl](https://nl-works.nl)| **A**| **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |||
 

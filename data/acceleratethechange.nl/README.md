@@ -4,7 +4,7 @@
 ## Summary data
 
 
- - **SSL Grade**:
+ - **SSL Grade**:A+
  - **HTTP Security Grade**:D
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:1
 
@@ -21,7 +21,7 @@
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://acceleratethechange.nl](https://acceleratethechange.nl)| | **A**|Apache| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server Drupal:10 HSTS PHP|Homepage | Accel...|
+|[https://acceleratethechange.nl](https://acceleratethechange.nl)| **A+**| **A**|Apache| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server Drupal:10 HSTS PHP|Homepage | Accel...|
 |[https://acc.acceleratethechange.nl](https://acc.acceleratethechange.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Basic Nginx|401 Authorizatio...|
 |[https://test.acceleratethechange.nl](https://test.acceleratethechange.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Basic Nginx|401 Authorizatio...|
 

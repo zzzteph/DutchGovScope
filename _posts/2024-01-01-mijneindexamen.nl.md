@@ -5,7 +5,7 @@ permalink: "/dutchgov/mijneindexamen.nl.html"
 subdomains_count: 2
 all_subdomains_count: 2
 urls_count: 2
-ssl_rank: 
+ssl_rank: A+
 http_rank: B
 security_txt: 0
 url_link: /data/mijneindexamen.nl/urls.txt
@@ -20,7 +20,7 @@ tags: dutchgov
 ## Summary data
 
 
- - **SSL Grade**:
+ - **SSL Grade**:A+
  - **HTTP Security Grade**:B
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:0
 
@@ -37,6 +37,6 @@ tags: dutchgov
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://www.mijneindexamen.nl](https://www.mijneindexamen.nl)| | **B**|nginx|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
-|[https://mijneindexamen.nl](https://mijneindexamen.nl)| | **B**|nginx|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
+|[https://www.mijneindexamen.nl](https://www.mijneindexamen.nl)| **A+**| **B**|nginx|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
+|[https://mijneindexamen.nl](https://mijneindexamen.nl)| **A+**| **B**|nginx|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
 

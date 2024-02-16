@@ -4,7 +4,7 @@
 ## Summary data
 
 
- - **SSL Grade**:
+ - **SSL Grade**:A+
  - **HTTP Security Grade**:B
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:2
 
@@ -21,7 +21,7 @@
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://www.akkoordverbeteringproductsamenstelling.nl](https://www.akkoordverbeteringproductsamenstelling.nl)| | **A**|Apache| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server Drupal HSTS PHP|Akkoord verbeter...|
+|[https://www.akkoordverbeteringproductsamenstelling.nl](https://www.akkoordverbeteringproductsamenstelling.nl)| **A+**| **A**|Apache| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server Drupal HSTS PHP|Akkoord verbeter...|
 |[https://akkoordverbeteringproductsamenstelling.nl](https://akkoordverbeteringproductsamenstelling.nl)| | **A**|Apache| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS|301 Moved Perman...|
 |[http://localhost.akkoordverbeteringproductsamenstelling.nl](http://localhost.akkoordverbeteringproductsamenstelling.nl)| | **D**|nginx| | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Nginx|Welcome to nginx...|
 

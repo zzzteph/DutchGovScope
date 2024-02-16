@@ -4,7 +4,7 @@
 ## Summary data
 
 
- - **SSL Grade**:
+ - **SSL Grade**:E
  - **HTTP Security Grade**:F
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:0
 
@@ -21,8 +21,8 @@
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://test.mi-cert.nl](https://test.mi-cert.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Basic Nginx|401 Authorizatio...|
-|[https://www.mi-cert.nl](https://www.mi-cert.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server Bootstrap HSTS Joomla PHP|Home | MI-Cert.n...|
-|[https://mi-cert.nl](https://mi-cert.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server Bootstrap HSTS Joomla PHP|Home | MI-Cert.n...|
+|[https://test.mi-cert.nl](https://test.mi-cert.nl)| **F**| **F**|nginx| | | | | | | | :white_check_mark: | |Basic Nginx|401 Authorizatio...|
+|[https://www.mi-cert.nl](https://www.mi-cert.nl)| **F**| **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server Bootstrap HSTS Joomla PHP|Home | MI-Cert.n...|
+|[https://mi-cert.nl](https://mi-cert.nl)| **B**| **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server Bootstrap HSTS Joomla PHP|Home | MI-Cert.n...|
 |[https://acc.mi-cert.nl](https://acc.mi-cert.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Basic HSTS Nginx|401 Authorizatio...|
 

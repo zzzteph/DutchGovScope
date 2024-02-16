@@ -84,3 +84,4 @@ https://dev.staging.waarzitwatin.nl
 https://nl.staging.waarzitwatin.nl
 https://proxy.staging.waarzitwatin.nl
 https://jenkins.staging.waarzitwatin.nl
+https://link.staging.waarzitwatin.nl

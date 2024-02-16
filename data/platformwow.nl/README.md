@@ -4,7 +4,7 @@
 ## Summary data
 
 
- - **SSL Grade**:
+ - **SSL Grade**:B-
  - **HTTP Security Grade**:D
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:0
 
@@ -21,16 +21,16 @@
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://cdn.platformwow.nl](https://cdn.platformwow.nl)| | **B**|ECAcc (frc/4C86)|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Alpine.js Azure Azure CDN Google Tag Manager HSTS|Platform WOW|
-|[https://email.platformwow.nl](https://email.platformwow.nl)| | **C**|Spotler| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
-|[https://jaarverslag2015.platformwow.nl](https://jaarverslag2015.platformwow.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|404 Not Found|
-|[https://jaarverslag2016.platformwow.nl](https://jaarverslag2016.platformwow.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|404 Not Found|
-|[https://media.platformwow.nl](https://media.platformwow.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | :warning:| | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0||
-|[https://water.platformwow.nl](https://water.platformwow.nl)| | **B**|Microsoft-IIS/10.0|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Azure HSTS IIS:10.0 Windows Server|Document Moved|
-|[https://weg.platformwow.nl](https://weg.platformwow.nl)| | **B**|Microsoft-IIS/10.0|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Azure HSTS IIS:10.0 Windows Server|Document Moved|
-|[https://www.platformwow.nl](https://www.platformwow.nl)| | **B**|Microsoft-IIS/10.0|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Azure HSTS IIS:10.0 Windows Server|Document Moved|
-|[https://legacy.platformwow.nl](https://legacy.platformwow.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
-|[https://platformwow.nl](https://platformwow.nl)| | **A**||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Alpine.js Azure Google Tag Manager HSTS|Platform WOW|
+|[https://cdn.platformwow.nl](https://cdn.platformwow.nl)| **A+**| **B**|ECAcc (frc/4C86)|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Alpine.js Azure Azure CDN Google Tag Manager HSTS|Platform WOW|
+|[https://email.platformwow.nl](https://email.platformwow.nl)| **A+**| **C**|Spotler| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
+|[https://jaarverslag2015.platformwow.nl](https://jaarverslag2015.platformwow.nl)| **F**| **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|404 Not Found|
+|[https://jaarverslag2016.platformwow.nl](https://jaarverslag2016.platformwow.nl)| **F**| **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|404 Not Found|
+|[https://media.platformwow.nl](https://media.platformwow.nl)| **A**| **F**|Microsoft-HTTPAPI/2.0| | | :warning:| | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0||
+|[https://water.platformwow.nl](https://water.platformwow.nl)| **A+**| **B**|Microsoft-IIS/10.0|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Azure HSTS IIS:10.0 Windows Server|Document Moved|
+|[https://weg.platformwow.nl](https://weg.platformwow.nl)| **A+**| **B**|Microsoft-IIS/10.0|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Azure HSTS IIS:10.0 Windows Server|Document Moved|
+|[https://www.platformwow.nl](https://www.platformwow.nl)| **A+**| **B**|Microsoft-IIS/10.0|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Azure HSTS IIS:10.0 Windows Server|Document Moved|
+|[https://legacy.platformwow.nl](https://legacy.platformwow.nl)| **F**| **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
+|[https://platformwow.nl](https://platformwow.nl)| **A+**| **A**||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Alpine.js Azure Google Tag Manager HSTS|Platform WOW|
 |[https://formulieren.platformwow.nl](https://formulieren.platformwow.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|Powerful tool fo...|
 |[https://nieuw.platformwow.nl](https://nieuw.platformwow.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
 |[https://pop.platformwow.nl](https://pop.platformwow.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|

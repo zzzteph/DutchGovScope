@@ -13,3 +13,9 @@ osb.odijmond.nl
 rd.odijmond.nl
 vpn.odijmond.nl
 acc-open-wave.odijmond.nl
+dusk-open-wave.odijmond.nl
+dusk-acc-open-wave.odijmond.nl
+db.open-wave.odijmond.nl
+db.acc-open-wave.odijmond.nl
+jointest.odijmond.nl
+osb-test.odijmond.nl
