@@ -721,3 +721,8 @@ quality-time-ldap.devops.rvb.rijkscloud.nl
 portal-performance.test.ix.rijkscloud.nl
 sonarqube-old.devops.rvb.rijkscloud.nl
 sonarqube2.devops.rvb.rijkscloud.nl
+esb-demo.cvr.rvb.rijkscloud.nl
+zbxprx2.ec.rijkscloud.nl
+vpn04.ec.rijkscloud.nl
+vpn02.ec.rijkscloud.nl
+vpn03.ec.rijkscloud.nl

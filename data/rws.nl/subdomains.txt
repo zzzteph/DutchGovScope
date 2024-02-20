@@ -247,3 +247,4 @@ compliance.gridacc.rws.nl
 iot.gridacc.rws.nl
 status.gridacc.rws.nl
 www.gridacc.rws.nl
+acc-werkplek.gw01-gslb.rws.nl

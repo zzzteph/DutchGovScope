@@ -4,7 +4,7 @@
 ## Summary data
 
 
- - **SSL Grade**:
+ - **SSL Grade**:A+
  - **HTTP Security Grade**:D
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:0
 
@@ -21,8 +21,8 @@
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://www.kennisplatform.nl](https://www.kennisplatform.nl)| | **C**|Apache/2|:white_check_mark: |:white_check_mark: | :warning:| | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server:2 CodeIgniter HSTS PHP Slick jQuery|Voor al uw vrage...|
-|[https://kennisplatform.nl](https://kennisplatform.nl)| | **B**|Apache/2| |:white_check_mark: | :warning:| | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server:2 CodeIgniter HSTS PHP||
+|[https://www.kennisplatform.nl](https://www.kennisplatform.nl)| **A+**| **C**|Apache/2|:white_check_mark: |:white_check_mark: | :warning:| | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server:2 CodeIgniter HSTS PHP Slick jQuery|Voor al uw vrage...|
+|[https://kennisplatform.nl](https://kennisplatform.nl)| **A+**| **B**|Apache/2| |:white_check_mark: | :warning:| | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server:2 CodeIgniter HSTS PHP||
 |[http://autodiscover.kennisplatform.nl](http://autodiscover.kennisplatform.nl)| | **B**|Microsoft-IIS/10.0|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server||
 |[http://localhost.kennisplatform.nl](http://localhost.kennisplatform.nl)| | **D**|nginx| | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Nginx|Welcome to nginx...|
 |[https://media01.kennisplatform.nl](https://media01.kennisplatform.nl)| | **F**|imunify360-webshield/1.21| | | | | | | | :white_check_mark: | |Amazon CloudFront Amazon Web Services HSTS Imunify360:1.21||

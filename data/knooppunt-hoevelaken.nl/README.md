@@ -21,6 +21,6 @@
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://www.knooppunt-hoevelaken.nl](https://www.knooppunt-hoevelaken.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|Domeinnaam is ge...|
-|[https://knooppunt-hoevelaken.nl](https://knooppunt-hoevelaken.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|Domeinnaam is ge...|
+|[https://www.knooppunt-hoevelaken.nl](https://www.knooppunt-hoevelaken.nl)| **F**| **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|Domeinnaam is ge...|
+|[https://knooppunt-hoevelaken.nl](https://knooppunt-hoevelaken.nl)| **F**| **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|Domeinnaam is ge...|
 

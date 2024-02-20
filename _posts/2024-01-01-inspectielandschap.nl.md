@@ -5,7 +5,7 @@ permalink: "/dutchgov/inspectielandschap.nl.html"
 subdomains_count: 1
 all_subdomains_count: 2
 urls_count: 1
-ssl_rank: 
+ssl_rank: A
 http_rank: F
 security_txt: 0
 url_link: /data/inspectielandschap.nl/urls.txt
@@ -20,7 +20,7 @@ tags: dutchgov
 ## Summary data
 
 
- - **SSL Grade**:
+ - **SSL Grade**:A
  - **HTTP Security Grade**:F
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:0
 
@@ -37,5 +37,5 @@ tags: dutchgov
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://inspectielandschap.nl](https://inspectielandschap.nl)| | **F**|AmazonS3| | | | | | | | :white_check_mark: | |Amazon CloudFront Amazon S3 Amazon Web Services||
+|[https://inspectielandschap.nl](https://inspectielandschap.nl)| **A**| **F**|AmazonS3| | | | | | | | :white_check_mark: | |Amazon CloudFront Amazon S3 Amazon Web Services||
 

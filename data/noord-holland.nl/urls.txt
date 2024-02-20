@@ -2,15 +2,14 @@ https://mailings.noord-holland.nl
 https://apollo4.noord-holland.nl
 https://subsidies.noord-holland.nl
 https://meet.noord-holland.nl
-https://data.noord-holland.nl
 http://zoeken.noord-holland.nl
-https://dataiku.noord-holland.nl
+http://dataiku.noord-holland.nl
 https://esm.noord-holland.nl
 https://api.data.noord-holland.nl
 https://statensite.noord-holland.nl
 https://formulieren.noord-holland.nl
 https://developer.noord-holland.nl
-https://design-node.datalab-prod.aws.noord-holland.nl
+http://design-node.datalab-prod.aws.noord-holland.nl
 https://sva-a8a9.noord-holland.nl
 https://geoapps2.noord-holland.nl
 https://leidraadlc.noord-holland.nl
@@ -22,7 +21,6 @@ https://mail.noord-holland.nl
 https://acc.mijnsubsidie.noord-holland.nl
 https://datalab.noord-holland.nl
 https://financien.noord-holland.nl
-https://cijfers.noord-holland.nl
 https://owas1.noord-holland.nl
 https://automation-node.datalab-prod.aws.noord-holland.nl
 https://geoapps.noord-holland.nl
@@ -60,6 +58,7 @@ https://eidbroker.noord-holland.nl
 https://fleetmanager.noord-holland.nl
 https://qliksense.noord-holland.nl
 https://fleet-manager.datalab-prod.aws.noord-holland.nl
+https://pleinoud.noord-holland.nl
 https://lms.noord-holland.nl
 https://openstad.noord-holland.nl
 https://admin.openstad.noord-holland.nl

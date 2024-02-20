@@ -38,7 +38,7 @@
 |[http://duurzameenergie.ez.nl](http://duurzameenergie.ez.nl)| **F**| **E**|| | | | | | | | :white_check_mark: | |||
 |[http://futureinternet.ez.nl](http://futureinternet.ez.nl)| **F**| **E**|| | | | | | | | :white_check_mark: | |||
 |[http://videos.ez.nl](http://videos.ez.nl)| **F**| **E**|| | | | | | | | :white_check_mark: | |||
-|[http://crashteamoneerlijkeconcurrentie.ez.nl](http://crashteamoneerlijkeconcurrentie.ez.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
+|[http://crashteamoneerlijkeconcurrentie.ez.nl](http://crashteamoneerlijkeconcurrentie.ez.nl)| **F**| **E**|| | | | | | | | :white_check_mark: | |||
 |[http://ondernemen.ez.nl](http://ondernemen.ez.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[http://pers.ez.nl](http://pers.ez.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[http://prinsjesdag.ez.nl](http://prinsjesdag.ez.nl)| | **E**|| | | | | | | | :white_check_mark: | |||

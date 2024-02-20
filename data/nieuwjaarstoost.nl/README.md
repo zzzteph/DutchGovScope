@@ -21,6 +21,6 @@
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://nieuwjaarstoost.nl](https://nieuwjaarstoost.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|Geen webhosting...|
-|[https://www.nieuwjaarstoost.nl](https://www.nieuwjaarstoost.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|Geen webhosting...|
+|[https://nieuwjaarstoost.nl](https://nieuwjaarstoost.nl)| **F**| **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|Geen webhosting...|
+|[https://www.nieuwjaarstoost.nl](https://www.nieuwjaarstoost.nl)| **F**| **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|Geen webhosting...|
 

@@ -4,7 +4,7 @@
 ## Summary data
 
 
- - **SSL Grade**:
+ - **SSL Grade**:C
  - **HTTP Security Grade**:C
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:2
 
@@ -21,8 +21,8 @@
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://clinicaltrialregister.nl](https://clinicaltrialregister.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
-|[https://www.clinicaltrialregister.nl](https://www.clinicaltrialregister.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
-|[https://test.clinicaltrialregister.nl](https://test.clinicaltrialregister.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
-|[https://acc.clinicaltrialregister.nl](https://acc.clinicaltrialregister.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
+|[https://clinicaltrialregister.nl](https://clinicaltrialregister.nl)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
+|[https://www.clinicaltrialregister.nl](https://www.clinicaltrialregister.nl)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
+|[https://test.clinicaltrialregister.nl](https://test.clinicaltrialregister.nl)| **F**| **F**|nginx| | | | | | | | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
+|[https://acc.clinicaltrialregister.nl](https://acc.clinicaltrialregister.nl)| **F**| **F**|nginx| | | | | | | | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
 

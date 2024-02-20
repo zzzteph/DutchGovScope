@@ -4,7 +4,7 @@
 ## Summary data
 
 
- - **SSL Grade**:
+ - **SSL Grade**:A+
  - **HTTP Security Grade**:A
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:2
 
@@ -21,6 +21,6 @@
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://nkw2023.nl](https://nkw2023.nl)| | **A**|Netlify| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Netlify Next.js Node.js React Webpack|Nationale Klimaa...|
-|[https://www.nkw2023.nl](https://www.nkw2023.nl)| | **A**|Netlify| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Netlify||
+|[https://nkw2023.nl](https://nkw2023.nl)| **A+**| **A**|Netlify| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Netlify Next.js Node.js React Webpack|Nationale Klimaa...|
+|[https://www.nkw2023.nl](https://www.nkw2023.nl)| **A+**| **A**|Netlify| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Netlify||
 

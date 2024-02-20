@@ -9,7 +9,7 @@ https://feeds.english.nvwa.nl
 https://forms.nvwa.nl
 https://forms-acc.nvwa.nl
 https://formulieren.nvwa.nl
-https://formulieren-acc.nvwa.nl
+http://formulieren-acc.nvwa.nl
 https://inspectieresultaten.nvwa.nl
 https://ivo.nvwa.nl
 https://ivo-acc.nvwa.nl
@@ -18,7 +18,7 @@ https://iwelcome-preprod.nvwa.nl
 https://magazines.nvwa.nl
 https://magazinesintern.nvwa.nl
 https://mijn.nvwa.nl
-https://mijn-acc.nvwa.nl
+http://mijn-acc.nvwa.nl
 https://openbare-inspectieresultaten.nvwa.nl
 https://opendata.nvwa.nl
 https://opendata.english.nvwa.nl

@@ -4,7 +4,7 @@
 ## Summary data
 
 
- - **SSL Grade**:
+ - **SSL Grade**:A+
  - **HTTP Security Grade**:D
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:0
 
@@ -21,6 +21,6 @@
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://www.regioatlas.nl](https://www.regioatlas.nl)| | **D**||:o: |:white_check_mark: | | | | | | :white_check_mark: | |HSTS PHP|Home - RegioAtla...|
-|[https://regioatlas.nl](https://regioatlas.nl)| | **D**||:o: |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|301 Moved Perman...|
+|[https://www.regioatlas.nl](https://www.regioatlas.nl)| **A+**| **D**||:o: |:white_check_mark: | | | | | | :white_check_mark: | |HSTS PHP|Home - RegioAtla...|
+|[https://regioatlas.nl](https://regioatlas.nl)| **A+**| **D**||:o: |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|301 Moved Perman...|
 

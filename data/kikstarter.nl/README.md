@@ -4,7 +4,7 @@
 ## Summary data
 
 
- - **SSL Grade**:
+ - **SSL Grade**:B
  - **HTTP Security Grade**:C
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:0
 
@@ -21,8 +21,8 @@
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://acceptatie.kikstarter.nl](https://acceptatie.kikstarter.nl)| | **A**|istio-envoy| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Envoy HSTS|KIK-Starter|
-|[https://www.kikstarter.nl](https://www.kikstarter.nl)| | **F**|istio-envoy| | | | | | | | :white_check_mark: | |HSTS||
-|[https://sso.test.kikstarter.nl](https://sso.test.kikstarter.nl)| | **F**|istio-envoy| | | | | | | | :white_check_mark: | |||
-|[https://test.kikstarter.nl](https://test.kikstarter.nl)| | **A**|istio-envoy| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Envoy HSTS|KIK-Starter|
+|[https://acceptatie.kikstarter.nl](https://acceptatie.kikstarter.nl)| **A+**| **A**|istio-envoy| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Envoy HSTS|KIK-Starter|
+|[https://www.kikstarter.nl](https://www.kikstarter.nl)| **F**| **F**|istio-envoy| | | | | | | | :white_check_mark: | |HSTS||
+|[https://sso.test.kikstarter.nl](https://sso.test.kikstarter.nl)| **A**| **F**|istio-envoy| | | | | | | | :white_check_mark: | |||
+|[https://test.kikstarter.nl](https://test.kikstarter.nl)| **A+**| **A**|istio-envoy| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Envoy HSTS|KIK-Starter|
 

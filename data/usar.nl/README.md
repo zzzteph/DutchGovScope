@@ -4,7 +4,7 @@
 ## Summary data
 
 
- - **SSL Grade**:
+ - **SSL Grade**:A+
  - **HTTP Security Grade**:C
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:1
 
@@ -21,7 +21,7 @@
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://base.usar.nl](https://base.usar.nl)| | **D**||:o: |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|Redirecting to h...|
-|[https://www.usar.nl](https://www.usar.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |Google Tag Manager HSTS YouTube|USAR.NL: Special...|
-|[https://usar.nl](https://usar.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|301 Moved Perman...|
+|[https://base.usar.nl](https://base.usar.nl)| **A+**| **D**||:o: |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|Redirecting to h...|
+|[https://www.usar.nl](https://www.usar.nl)| **A+**| **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |Google Tag Manager HSTS YouTube|USAR.NL: Special...|
+|[https://usar.nl](https://usar.nl)| **A+**| **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|301 Moved Perman...|
 

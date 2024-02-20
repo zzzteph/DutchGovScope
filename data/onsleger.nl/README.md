@@ -29,6 +29,6 @@
 |[https://cpcalendars.onsleger.nl](https://cpcalendars.onsleger.nl)| **A**| **F**|LiteSpeed| | | | | | | | :white_check_mark: | |HTTP/3 LiteSpeed|403 Forbidden|
 |[https://cpcontacts.onsleger.nl](https://cpcontacts.onsleger.nl)| **A**| **F**|LiteSpeed| | | | | | | | :white_check_mark: | |HTTP/3 LiteSpeed|403 Forbidden|
 |[https://autodiscover.onsleger.nl](https://autodiscover.onsleger.nl)| **A**| **F**|LiteSpeed| | | | | | | | :white_check_mark: | |HTTP/3 LiteSpeed Litespeed Cache||
-|[https://cpanel.onsleger.nl](https://cpanel.onsleger.nl)| **A**| **F**|LiteSpeed|:white_check_mark: | | | | | | | :white_check_mark: | |HTTP/3 LiteSpeed cPanel|cPanel Login|
+|[https://cpanel.onsleger.nl](https://cpanel.onsleger.nl)| **A**| **F**|LiteSpeed|:white_check_mark: | | | | | | | :white_check_mark: | |HTTP/3 LiteSpeed cPanel|cPanel-aanmeldin...|
 |[https://ipv6.onsleger.nl](https://ipv6.onsleger.nl)| **A**| **F**|LiteSpeed| | | | | | | | :white_check_mark: | |HTTP/3 LiteSpeed Litespeed Cache||
 

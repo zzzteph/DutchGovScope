@@ -11,7 +11,7 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/knmi.nl/subdomains.txt)|158|Alive subdomains|
+|[subdomains.txt](/data/knmi.nl/subdomains.txt)|159|Alive subdomains|
 |[urls.txt](/data/knmi.nl/urls.txt)|62|Urls|
 |[all_subdomains.txt](/data/knmi.nl/all_subdomains.txt)|267|All found subdomains (history)|
 
@@ -81,6 +81,6 @@
 |[https://mqtt.dataplatform.knmi.nl](https://mqtt.dataplatform.knmi.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://origin.klimaatscenarios-data.knmi.nl](https://origin.klimaatscenarios-data.knmi.nl)| | **F**|awselb/2.0| | | | | | | | :white_check_mark: | |Amazon ELB Amazon Web Services||
 |[https://anonymous.api.dataplatform.knmi.nl](https://anonymous.api.dataplatform.knmi.nl)| **A**| **F**|nginx/1.24.0| | | | | | | | :white_check_mark: | |Nginx:1.24.0|404 Not Found|
-|[https://cms-origin.klimaatscenarios-data.knmi.nl](https://cms-origin.klimaatscenarios-data.knmi.nl)| | **F**|awselb/2.0| | | | | | | | :white_check_mark: | |Amazon ELB Amazon Web Services||
+|[https://cms-origin.klimaatscenarios-data.knmi.nl](https://cms-origin.klimaatscenarios-data.knmi.nl)| **A**| **F**|awselb/2.0| | | | | | | | :white_check_mark: | |Amazon ELB Amazon Web Services||
 |[https://cdn.klimaatscenarios-data.knmi.nl](https://cdn.klimaatscenarios-data.knmi.nl)| | **A**|AmazonS3| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Amazon CloudFront Amazon S3 Amazon Web Services HSTS||
 

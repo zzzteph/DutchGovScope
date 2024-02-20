@@ -6,7 +6,7 @@ https://mobiel.hogeraad.nl
 https://siam.hogeraad.nl
 http://wolk.hogeraad.nl
 https://auth.hogeraad.nl
-http://postbus.hogeraad.nl
+https://postbus.hogeraad.nl
 https://apps.hogeraad.nl
 https://www-acc.hogeraad.nl
 https://www.hogeraad.nl

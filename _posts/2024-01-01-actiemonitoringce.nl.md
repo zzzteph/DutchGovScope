@@ -4,8 +4,8 @@ title: "actiemonitoringce.nl"
 permalink: "/dutchgov/actiemonitoringce.nl.html"
 subdomains_count: 3
 all_subdomains_count: 3
-urls_count: 2
-ssl_rank: 
+urls_count: 3
+ssl_rank: A+
 http_rank: D
 security_txt: 0
 url_link: /data/actiemonitoringce.nl/urls.txt
@@ -20,7 +20,7 @@ tags: dutchgov
 ## Summary data
 
 
- - **SSL Grade**:
+ - **SSL Grade**:A+
  - **HTTP Security Grade**:D
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:0
 
@@ -28,7 +28,7 @@ tags: dutchgov
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/DutchGovScope/data/actiemonitoringce.nl/subdomains.txt)|3|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/actiemonitoringce.nl/urls.txt)|2|Urls|
+|[urls.txt](/DutchGovScope/data/actiemonitoringce.nl/urls.txt)|3|Urls|
 |[all_subdomains.txt](/DutchGovScope/data/actiemonitoringce.nl/all_subdomains.txt)|3|All found subdomains (history)|
 
 
@@ -37,6 +37,7 @@ tags: dutchgov
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://www.actiemonitoringce.nl](https://www.actiemonitoringce.nl)| | **D**|Microsoft-IIS/8.5|:warning: |:white_check_mark: | | | | | | :white_check_mark: | |Bootstrap HSTS IIS:8.5 Microsoft ASP.NET:4.0.30319 Windows Server|RisicotoolboxBod...|
-|[https://actiemonitoringce.nl](https://actiemonitoringce.nl)| | **D**|Microsoft-IIS/8.5|:warning: |:white_check_mark: | | | | | | :white_check_mark: | |Bootstrap HSTS IIS:8.5 Microsoft ASP.NET:4.0.30319 Windows Server|RisicotoolboxBod...|
+|[https://www.actiemonitoringce.nl](https://www.actiemonitoringce.nl)| **A+**| **D**|Microsoft-IIS/8.5|:warning: |:white_check_mark: | | | | | | :white_check_mark: | |Bootstrap HSTS IIS:8.5 Microsoft ASP.NET:4.0.30319 Windows Server|RisicotoolboxBod...|
+|[https://actiemonitoringce.nl](https://actiemonitoringce.nl)| **A+**| **D**|Microsoft-IIS/8.5|:warning: |:white_check_mark: | | | | | | :white_check_mark: | |Bootstrap HSTS IIS:8.5 Microsoft ASP.NET:4.0.30319 Windows Server|RisicotoolboxBod...|
+|[http://localhost.actiemonitoringce.nl](http://localhost.actiemonitoringce.nl)| | **D**|nginx| | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Nginx|Welcome to nginx...|
 

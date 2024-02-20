@@ -3,11 +3,11 @@ layout: default
 title: "feedfoodtransfer.nl"
 permalink: "/dutchgov/feedfoodtransfer.nl.html"
 subdomains_count: 17
-all_subdomains_count: 19
-urls_count: 16
+all_subdomains_count: 20
+urls_count: 17
 ssl_rank: A+
 http_rank: B
-security_txt: 6
+security_txt: 7
 url_link: /data/feedfoodtransfer.nl/urls.txt
 all_subdomains_link: /data/feedfoodtransfer.nl/all_subdomains.txt
 subdomains_link: /data/feedfoodtransfer.nl/subdomains.txt
@@ -22,14 +22,14 @@ tags: dutchgov
 
  - **SSL Grade**:A+
  - **HTTP Security Grade**:B
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:6
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:7
 
 
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/DutchGovScope/data/feedfoodtransfer.nl/subdomains.txt)|17|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/feedfoodtransfer.nl/urls.txt)|16|Urls|
-|[all_subdomains.txt](/DutchGovScope/data/feedfoodtransfer.nl/all_subdomains.txt)|19|All found subdomains (history)|
+|[urls.txt](/DutchGovScope/data/feedfoodtransfer.nl/urls.txt)|17|Urls|
+|[all_subdomains.txt](/DutchGovScope/data/feedfoodtransfer.nl/all_subdomains.txt)|20|All found subdomains (history)|
 
 
 ## Statistics
@@ -53,4 +53,5 @@ tags: dutchgov
 |[https://dioxins-totalteq-hen.apps.feedfoodtransfer.nl](https://dioxins-totalteq-hen.apps.feedfoodtransfer.nl)| **A+**| **C**||:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | |Bootstrap HSTS||
 |[https://dev.apps.feedfoodtransfer.nl](https://dev.apps.feedfoodtransfer.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |||
 |[https://mail.apps.feedfoodtransfer.nl](https://mail.apps.feedfoodtransfer.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |||
+|[https://uat.apps.feedfoodtransfer.nl](https://uat.apps.feedfoodtransfer.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |||
 

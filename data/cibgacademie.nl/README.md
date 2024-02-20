@@ -21,6 +21,6 @@
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://www.cibgacademie.nl](https://www.cibgacademie.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS|301 Moved Perman...|
-|[https://cibgacademie.nl](https://cibgacademie.nl)| | **F**|openresty/1.7.10.1| | | | | | | | :white_check_mark: | |HSTS Nginx OpenResty:1.7.10.1|301 Moved Perman...|
+|[https://www.cibgacademie.nl](https://www.cibgacademie.nl)| **F**| **E**|| | | | | | | | :white_check_mark: | |HSTS|301 Moved Perman...|
+|[https://cibgacademie.nl](https://cibgacademie.nl)| **F**| **F**|openresty/1.7.10.1| | | | | | | | :white_check_mark: | |HSTS Nginx OpenResty:1.7.10.1|301 Moved Perman...|
 

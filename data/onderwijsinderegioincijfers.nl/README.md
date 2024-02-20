@@ -4,7 +4,7 @@
 ## Summary data
 
 
- - **SSL Grade**:
+ - **SSL Grade**:A+
  - **HTTP Security Grade**:C
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:0
 
@@ -21,6 +21,6 @@
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://www.onderwijsinderegioincijfers.nl](https://www.onderwijsinderegioincijfers.nl)| | **C**|Apache/2| |:white_check_mark: | | | | | | :white_check_mark: | |Apache HTTP Server:2 HSTS|301 Moved Perman...|
-|[https://onderwijsinderegioincijfers.nl](https://onderwijsinderegioincijfers.nl)| | **C**|Apache/2| |:white_check_mark: | | | | | | :white_check_mark: | |Apache HTTP Server:2 HSTS|301 Moved Perman...|
+|[https://www.onderwijsinderegioincijfers.nl](https://www.onderwijsinderegioincijfers.nl)| **A+**| **C**|Apache/2| |:white_check_mark: | | | | | | :white_check_mark: | |Apache HTTP Server:2 HSTS|301 Moved Perman...|
+|[https://onderwijsinderegioincijfers.nl](https://onderwijsinderegioincijfers.nl)| **A+**| **C**|Apache/2| |:white_check_mark: | | | | | | :white_check_mark: | |Apache HTTP Server:2 HSTS|301 Moved Perman...|
 

@@ -5,3 +5,4 @@ groenesubsidiewijzer.verbeterjehuis.nl
 cms.verbeterjehuis.nl
 content.verbeterjehuis.nl
 localhost.verbeterjehuis.nl
+test-u8-www.verbeterjehuis.nl

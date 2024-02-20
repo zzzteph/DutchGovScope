@@ -4,7 +4,7 @@
 ## Summary data
 
 
- - **SSL Grade**:
+ - **SSL Grade**:A
  - **HTTP Security Grade**:F
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:0
 
@@ -21,6 +21,6 @@
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://www.toegangsociaaldomein.nl](https://www.toegangsociaaldomein.nl)| | **F**|lighttpd|:white_check_mark: | | | | | | | :white_check_mark: | |PHP lighttpd|Toezicht Sociaal...|
-|[https://toegangsociaaldomein.nl](https://toegangsociaaldomein.nl)| | **F**|lighttpd|:white_check_mark: | | | | | | | :white_check_mark: | |lighttpd||
+|[https://www.toegangsociaaldomein.nl](https://www.toegangsociaaldomein.nl)| **A**| **F**|lighttpd|:white_check_mark: | | | | | | | :white_check_mark: | |PHP lighttpd|Toezicht Sociaal...|
+|[https://toegangsociaaldomein.nl](https://toegangsociaaldomein.nl)| **A**| **F**|lighttpd|:white_check_mark: | | | | | | | :white_check_mark: | |lighttpd||
 

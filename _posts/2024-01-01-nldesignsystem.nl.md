@@ -5,7 +5,7 @@ permalink: "/dutchgov/nldesignsystem.nl.html"
 subdomains_count: 3
 all_subdomains_count: 3
 urls_count: 3
-ssl_rank: 
+ssl_rank: A+
 http_rank: C
 security_txt: 0
 url_link: /data/nldesignsystem.nl/urls.txt
@@ -20,7 +20,7 @@ tags: dutchgov
 ## Summary data
 
 
- - **SSL Grade**:
+ - **SSL Grade**:A+
  - **HTTP Security Grade**:C
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:0
 
@@ -37,7 +37,7 @@ tags: dutchgov
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://storybook.nldesignsystem.nl](https://storybook.nldesignsystem.nl)| | **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Nginx Plesk|Storybook - NL D...|
-|[https://www.nldesignsystem.nl](https://www.nldesignsystem.nl)| | **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |Docusaurus:3.1.0 HSTS Nginx Plesk React Webpack|NL Design System...|
-|[https://nldesignsystem.nl](https://nldesignsystem.nl)| | **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |Docusaurus:3.1.0 HSTS Nginx Plesk React Webpack|NL Design System...|
+|[https://storybook.nldesignsystem.nl](https://storybook.nldesignsystem.nl)| **A+**| **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Nginx Plesk|Storybook - NL D...|
+|[https://www.nldesignsystem.nl](https://www.nldesignsystem.nl)| **A+**| **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |Docusaurus:3.1.0 HSTS Nginx Plesk React Webpack|NL Design System...|
+|[https://nldesignsystem.nl](https://nldesignsystem.nl)| **A+**| **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |Docusaurus:3.1.0 HSTS Nginx Plesk React Webpack|NL Design System...|
 

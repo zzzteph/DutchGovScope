@@ -4,7 +4,7 @@
 ## Summary data
 
 
- - **SSL Grade**:
+ - **SSL Grade**:A+
  - **HTTP Security Grade**:C
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:0
 
@@ -21,9 +21,9 @@
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://simcms.ahn.nl](https://simcms.ahn.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS|403 Forbidden|
-|[https://www.ahn.nl](https://www.ahn.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS|403 Forbidden|
-|[https://ahn.nl](https://ahn.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS|301 Moved Perman...|
+|[https://simcms.ahn.nl](https://simcms.ahn.nl)| **A+**| **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS|403 Forbidden|
+|[https://www.ahn.nl](https://www.ahn.nl)| **A+**| **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS|403 Forbidden|
+|[https://ahn.nl](https://ahn.nl)| **A+**| **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS|301 Moved Perman...|
 |[http://autodiscover.ahn.nl](http://autodiscover.ahn.nl)| | **F**|Microsoft-IIS/10.0| | | | | | | | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server||
 |[https://msoid.ahn.nl](https://msoid.ahn.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Object moved|
 

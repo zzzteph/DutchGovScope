@@ -45,6 +45,6 @@ tags: dutchgov
 |[https://test-dictu.digitoegankelijk.nl](https://test-dictu.digitoegankelijk.nl)| **A**| **F**|nginx| | | | | | | | :white_check_mark: | |Basic Nginx|401 Authorizatio...|
 |[https://www.digitoegankelijk.nl](https://www.digitoegankelijk.nl)| **A+**| **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Drupal:10 HSTS Nginx PHP|Een toegankelijk...|
 |[https://digitoegankelijk.nl](https://digitoegankelijk.nl)| **A+**| **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Drupal:10 HSTS Nginx PHP|Een toegankelijk...|
-|[https://dashboard-keten.digitoegankelijk.nl](https://dashboard-keten.digitoegankelijk.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Basic HSTS Nginx|401 Authorizatio...|
+|[https://dashboard-keten.digitoegankelijk.nl](https://dashboard-keten.digitoegankelijk.nl)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Basic HSTS Nginx|401 Authorizatio...|
 |[https://monitor.digitoegankelijk.nl](https://monitor.digitoegankelijk.nl)| | **B**|cloudflare| |:white_check_mark: | :warning:| | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Amazon CloudFront Amazon Web Services Cloudflare HSTS||
 

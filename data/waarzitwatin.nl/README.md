@@ -11,9 +11,9 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/waarzitwatin.nl/subdomains.txt)|87|Alive subdomains|
+|[subdomains.txt](/data/waarzitwatin.nl/subdomains.txt)|106|Alive subdomains|
 |[urls.txt](/data/waarzitwatin.nl/urls.txt)|87|Urls|
-|[all_subdomains.txt](/data/waarzitwatin.nl/all_subdomains.txt)|87|All found subdomains (history)|
+|[all_subdomains.txt](/data/waarzitwatin.nl/all_subdomains.txt)|106|All found subdomains (history)|
 
 
 ## Statistics

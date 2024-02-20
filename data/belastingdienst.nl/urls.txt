@@ -53,7 +53,7 @@ https://mul-redirect.belastingdienst.nl
 https://mwr-app-api-ota.belastingdienst.nl
 https://mwr-app-cdn.belastingdienst.nl
 https://mwr-app-cdn-ota.belastingdienst.nl
-http://odb.belastingdienst.nl
+https://odb.belastingdienst.nl
 https://onboarding.belastingdienst.nl
 https://opleiding-ola.belastingdienst.nl
 https://over-ons.belastingdienst.nl

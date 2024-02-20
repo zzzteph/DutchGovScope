@@ -540,3 +540,4 @@ smtp05.rijkscloud.nl
 quality-time-ldap.devops.rvb.rijkscloud.nl
 portal-performance.test.ix.rijkscloud.nl
 sonarqube-old.devops.rvb.rijkscloud.nl
+sonarqube2.devops.rvb.rijkscloud.nl

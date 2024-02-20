@@ -3,3 +3,4 @@ https://www.vaarweginformatie.nl
 https://vaarweginformatie.nl
 https://vaarmelder.vaarweginformatie.nl
 https://api.vaarweginformatie.nl
+https://acceptatie.vaarweginformatie.nl

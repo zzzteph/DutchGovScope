@@ -40,5 +40,5 @@ tags: dutchgov
 |[https://feeds.prognosemodelzw.nl](https://feeds.prognosemodelzw.nl)| **A+**| **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://opendata.prognosemodelzw.nl](https://opendata.prognosemodelzw.nl)| **A+**| **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://www.prognosemodelzw.nl](https://www.prognosemodelzw.nl)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Home | Prognosem...|
-|[https://prognosemodelzw.nl](https://prognosemodelzw.nl)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
+|[https://prognosemodelzw.nl](https://prognosemodelzw.nl)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 

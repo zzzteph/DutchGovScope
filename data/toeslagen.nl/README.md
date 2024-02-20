@@ -6,13 +6,13 @@
 
  - **SSL Grade**:A+
  - **HTTP Security Grade**:B
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:8
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:9
 
 
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/toeslagen.nl/subdomains.txt)|38|Alive subdomains|
-|[urls.txt](/data/toeslagen.nl/urls.txt)|11|Urls|
+|[urls.txt](/data/toeslagen.nl/urls.txt)|12|Urls|
 |[all_subdomains.txt](/data/toeslagen.nl/all_subdomains.txt)|61|All found subdomains (history)|
 
 
@@ -31,5 +31,6 @@
 |[https://fed01.toeslagen.nl](https://fed01.toeslagen.nl)| **A+**| **C**||:warning: |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS|403 - Forbidden:...|
 |[http://inkomen.toeslagen.nl](http://inkomen.toeslagen.nl)| | **F**|BigIP| | | | | | | | :white_check_mark: | |F5 BigIP||
 |[https://fibt1.toeslagen.nl](https://fibt1.toeslagen.nl)| **A**| **E**|| | | | | | | | :white_check_mark: | ||Request Rejected|
-|[https://werken.toeslagen.nl](https://werken.toeslagen.nl)| **A**| **A**|Ponos Maximum|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Werken bij de Be...|
+|[https://werken.toeslagen.nl](https://werken.toeslagen.nl)| **A**| **A**|Ponos Maximum| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS||
+|[https://werkenbij.toeslagen.nl](https://werkenbij.toeslagen.nl)| | **A**|Ponos Maximum| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS||
 

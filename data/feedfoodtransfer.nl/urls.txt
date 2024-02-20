@@ -14,3 +14,4 @@ https://dioxins-congener-hen.apps.feedfoodtransfer.nl
 https://dioxins-totalteq-hen.apps.feedfoodtransfer.nl
 https://dev.apps.feedfoodtransfer.nl
 https://mail.apps.feedfoodtransfer.nl
+https://uat.apps.feedfoodtransfer.nl

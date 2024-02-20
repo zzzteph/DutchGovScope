@@ -4,7 +4,7 @@
 ## Summary data
 
 
- - **SSL Grade**:
+ - **SSL Grade**:D
  - **HTTP Security Grade**:F
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:0
 
@@ -21,20 +21,20 @@
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://intern.survey.collector.owinsp.nl](https://intern.survey.collector.owinsp.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|503 Service Unav...|
-|[https://isd.owinsp.nl](https://isd.owinsp.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS Java||
-|[https://isd.acc.owinsp.nl](https://isd.acc.owinsp.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS Java||
-|[https://pit.collector.owinsp.nl](https://pit.collector.owinsp.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|503 Service Unav...|
-|[https://pit.collectora.acc.owinsp.nl](https://pit.collectora.acc.owinsp.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|503 Service Unav...|
-|[https://pitng.owinsp.nl](https://pitng.owinsp.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|Toezichtresultat...|
-|[https://pitng.acceptatie.owinsp.nl](https://pitng.acceptatie.owinsp.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS||
-|[https://pitng.ontwikkel.owinsp.nl](https://pitng.ontwikkel.owinsp.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server Bloomreach HSTS|ONTWIKKEL Onderh...|
-|[https://pitng.test.owinsp.nl](https://pitng.test.owinsp.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server Bloomreach HSTS|TEST Onderhoud -...|
-|[https://portal.survey.collector.owinsp.nl](https://portal.survey.collector.owinsp.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|503 Service Unav...|
-|[https://portal.survey.collectora.acc.owinsp.nl](https://portal.survey.collectora.acc.owinsp.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|503 Service Unav...|
-|[https://www.owinsp.nl](https://www.owinsp.nl)| | **F**|Apache/2| | | | | | | | :white_check_mark: | |Apache HTTP Server:2|301 Moved Perman...|
-|[https://broker.isd.owinsp.nl](https://broker.isd.owinsp.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
-|[https://broker.isd.acc.owinsp.nl](https://broker.isd.acc.owinsp.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
-|[https://owinsp.nl](https://owinsp.nl)| | **F**|Apache/2| | | | | | | | :white_check_mark: | |Apache HTTP Server:2|301 Moved Perman...|
+|[https://intern.survey.collector.owinsp.nl](https://intern.survey.collector.owinsp.nl)| **F**| **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|503 Service Unav...|
+|[https://isd.owinsp.nl](https://isd.owinsp.nl)| **B**| **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS Java||
+|[https://isd.acc.owinsp.nl](https://isd.acc.owinsp.nl)| **B**| **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS Java||
+|[https://pit.collector.owinsp.nl](https://pit.collector.owinsp.nl)| **F**| **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|503 Service Unav...|
+|[https://pit.collectora.acc.owinsp.nl](https://pit.collectora.acc.owinsp.nl)| **F**| **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|503 Service Unav...|
+|[https://pitng.owinsp.nl](https://pitng.owinsp.nl)| **B**| **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|Toezichtresultat...|
+|[https://pitng.acceptatie.owinsp.nl](https://pitng.acceptatie.owinsp.nl)| **B**| **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS||
+|[https://pitng.ontwikkel.owinsp.nl](https://pitng.ontwikkel.owinsp.nl)| **B**| **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server Bloomreach HSTS|ONTWIKKEL Onderh...|
+|[https://pitng.test.owinsp.nl](https://pitng.test.owinsp.nl)| **B**| **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server Bloomreach HSTS|TEST Onderhoud -...|
+|[https://portal.survey.collector.owinsp.nl](https://portal.survey.collector.owinsp.nl)| **F**| **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|503 Service Unav...|
+|[https://portal.survey.collectora.acc.owinsp.nl](https://portal.survey.collectora.acc.owinsp.nl)| **F**| **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|503 Service Unav...|
+|[https://www.owinsp.nl](https://www.owinsp.nl)| **F**| **F**|Apache/2| | | | | | | | :white_check_mark: | |Apache HTTP Server:2|301 Moved Perman...|
+|[https://broker.isd.owinsp.nl](https://broker.isd.owinsp.nl)| **A+**| **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
+|[https://broker.isd.acc.owinsp.nl](https://broker.isd.acc.owinsp.nl)| **A+**| **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
+|[https://owinsp.nl](https://owinsp.nl)| **F**| **F**|Apache/2| | | | | | | | :white_check_mark: | |Apache HTTP Server:2|301 Moved Perman...|
 |[https://bounce.owinsp.nl](https://bounce.owinsp.nl)| | **F**|Microsoft-Azure-Application-Gateway/v2| | | | | | | | :white_check_mark: | ||404 Not Found|
 

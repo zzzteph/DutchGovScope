@@ -4,7 +4,7 @@
 ## Summary data
 
 
- - **SSL Grade**:B+
+ - **SSL Grade**:B
  - **HTTP Security Grade**:B
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:19
 
@@ -47,6 +47,6 @@
 |[https://api.mijn.acc.ncsc.nl](https://api.mijn.acc.ncsc.nl)| **B**| **A**|none| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://mijn.acc.ncsc.nl](https://mijn.acc.ncsc.nl)| | **D**|none|:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
 |[https://vulnerabilities.ncsc.nl](https://vulnerabilities.ncsc.nl)| **A+**| **A**|none| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS|403 Forbidden|
-|[https://gitnmp.arp.ncsc.nl](https://gitnmp.arp.ncsc.nl)| | **F**|none| | | | | | | | :white_check_mark: | |HSTS|403 Forbidden|
+|[https://gitnmp.arp.ncsc.nl](https://gitnmp.arp.ncsc.nl)| **F**| **F**|none| | | | | | | | :white_check_mark: | |HSTS|403 Forbidden|
 |[https://wds.ncsc.nl](https://wds.ncsc.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Object moved|
 

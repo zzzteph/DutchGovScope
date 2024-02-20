@@ -4,7 +4,7 @@
 ## Summary data
 
 
- - **SSL Grade**:
+ - **SSL Grade**:A
  - **HTTP Security Grade**:D
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:2
 
@@ -21,6 +21,6 @@
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://vwsdia-archief.nl](https://vwsdia-archief.nl)| | **D**|nginx/1.20.1| | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Nginx:1.20.1||
-|[https://www.vwsdia-archief.nl](https://www.vwsdia-archief.nl)| | **D**|nginx/1.20.1| | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Nginx:1.20.1||
+|[https://vwsdia-archief.nl](https://vwsdia-archief.nl)| **A**| **D**|nginx/1.20.1| | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Nginx:1.20.1||
+|[https://www.vwsdia-archief.nl](https://www.vwsdia-archief.nl)| **A**| **D**|nginx/1.20.1| | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Nginx:1.20.1||
 

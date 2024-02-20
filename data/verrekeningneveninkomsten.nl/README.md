@@ -4,7 +4,7 @@
 ## Summary data
 
 
- - **SSL Grade**:
+ - **SSL Grade**:A+
  - **HTTP Security Grade**:C
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:0
 
@@ -21,6 +21,6 @@
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://www.verrekeningneveninkomsten.nl](https://www.verrekeningneveninkomsten.nl)| | **C**|Apache|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server Drupal HSTS PHP||
-|[https://verrekeningneveninkomsten.nl](https://verrekeningneveninkomsten.nl)| | **C**|Apache|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server Drupal HSTS PHP||
+|[https://www.verrekeningneveninkomsten.nl](https://www.verrekeningneveninkomsten.nl)| **A+**| **C**|Apache|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server Drupal HSTS PHP||
+|[https://verrekeningneveninkomsten.nl](https://verrekeningneveninkomsten.nl)| **A+**| **C**|Apache|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server Drupal HSTS PHP||
 

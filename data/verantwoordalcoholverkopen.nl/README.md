@@ -4,7 +4,7 @@
 ## Summary data
 
 
- - **SSL Grade**:
+ - **SSL Grade**:A
  - **HTTP Security Grade**:F
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:0
 
@@ -21,6 +21,6 @@
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://www.verantwoordalcoholverkopen.nl](https://www.verantwoordalcoholverkopen.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|301 Moved Perman...|
-|[https://verantwoordalcoholverkopen.nl](https://verantwoordalcoholverkopen.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Bootstrap Nginx|Verantwoord alco...|
+|[https://www.verantwoordalcoholverkopen.nl](https://www.verantwoordalcoholverkopen.nl)| **A**| **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|301 Moved Perman...|
+|[https://verantwoordalcoholverkopen.nl](https://verantwoordalcoholverkopen.nl)| **A**| **F**|nginx| | | | | | | | :white_check_mark: | |Bootstrap Nginx|Verantwoord alco...|
 

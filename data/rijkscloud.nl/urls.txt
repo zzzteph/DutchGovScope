@@ -94,7 +94,6 @@ http://portal117.rijkscloud.nl
 https://portal118.rijkscloud.nl
 https://proxy-lab.rvb.rijkscloud.nl
 https://pw.rvb.rijkscloud.nl
-https://rabbitmq.rvb.rijkscloud.nl
 https://rb.rvb.rijkscloud.nl
 https://registry.git.ivho.rijkscloud.nl
 https://registry.gitlab.analyse.ilt.rijkscloud.nl
@@ -133,7 +132,6 @@ https://ssp.estota.rijkscloud.nl
 https://ssp.ix.rijkscloud.nl
 https://stats.duo.rijkscloud.nl
 https://status.rijkscloud.nl
-https://superset.dev.fib.ienw.rijkscloud.nl
 https://uno.dfront.rijkscloud.nl
 https://webmail.rijkscloud.nl
 https://www.rijkscloud.nl

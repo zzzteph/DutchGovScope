@@ -4,9 +4,9 @@
 ## Summary data
 
 
- - **SSL Grade**:A
+ - **SSL Grade**:A-
  - **HTTP Security Grade**:E
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:6
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:7
 
 
 | File       | Count | Info |
@@ -32,9 +32,9 @@
 |[https://idkbb.duurzamecao.nl](https://idkbb.duurzamecao.nl)| **A**| **F**|nginx| | | | | | | | :white_check_mark: | |MySQL Nginx PHP WooCommerce:8.0.1 WordPress:6.3.3 Yoast SEO:22.0|IDKB B|
 |[https://idkbf.duurzamecao.nl](https://idkbf.duurzamecao.nl)| **A**| **F**|nginx| | | | | | | | :white_check_mark: | |MySQL Nginx PHP WooCommerce:8.0.2 WordPress:6.3.3 Yoast SEO:22.0|IDKB F|
 |[https://idkbd.duurzamecao.nl](https://idkbd.duurzamecao.nl)| **A**| **F**|nginx| | | | | | | | :white_check_mark: | |MySQL Nginx PHP WooCommerce:8.0.1 WordPress:6.3.3 Yoast SEO:22.0|IDKB D|
-|[https://idkb.duurzamecao.nl](https://idkb.duurzamecao.nl)| **A**| **F**|nginx| | | | | | | | :white_check_mark: | |MySQL Nginx PHP WooCommerce:8.0.1 WordPress:6.3.3|Home - Rijkstool...|
+|[https://idkb.duurzamecao.nl](https://idkb.duurzamecao.nl)| **A**| **F**|nginx| | | | | | | | :white_check_mark: | |MySQL Nginx PHP WooCommerce:8.0.1 WordPress:6.3.3 Yoast SEO:22.0|Rijkstools|
 |[https://idkbe.duurzamecao.nl](https://idkbe.duurzamecao.nl)| **A**| **F**|nginx| | | | | | | | :white_check_mark: | |MySQL Nginx PHP WooCommerce:8.0.1 WordPress:6.3.3 Yoast SEO:22.0|IDKB E|
 |[https://idkba.duurzamecao.nl](https://idkba.duurzamecao.nl)| **A**| **F**|nginx| | | | | | | | :white_check_mark: | |MySQL Nginx PHP WooCommerce:8.0.1 WordPress:6.3.3 Yoast SEO:22.0|IDKB A|
 |[https://www.duurzamecao.nl](https://www.duurzamecao.nl)| **A**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Nginx||
-|[https://autodiscover.duurzamecao.nl](https://autodiscover.duurzamecao.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
+|[https://autodiscover.duurzamecao.nl](https://autodiscover.duurzamecao.nl)| **F**| **E**|| | | | | | | | :white_check_mark: | |||
 

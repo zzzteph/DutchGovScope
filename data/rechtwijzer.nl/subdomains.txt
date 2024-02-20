@@ -20,3 +20,9 @@ www1.test.rechtwijzer.nl
 b2b.test.rechtwijzer.nl
 blog.test.rechtwijzer.nl
 nl.test.rechtwijzer.nl
+pay.test.rechtwijzer.nl
+search.test.rechtwijzer.nl
+loket.test.rechtwijzer.nl
+admin.test.rechtwijzer.nl
+images.test.rechtwijzer.nl
+portal.test.rechtwijzer.nl

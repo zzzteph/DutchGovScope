@@ -4,7 +4,7 @@
 ## Summary data
 
 
- - **SSL Grade**:
+ - **SSL Grade**:A+
  - **HTTP Security Grade**:B
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:0
 
@@ -21,9 +21,9 @@
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://webtooliso20400.nl](https://webtooliso20400.nl)| | **A**|nginx|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
-|[https://www.webtooliso20400.nl](https://www.webtooliso20400.nl)| | **A**|nginx|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx PHP ZURB Foundation|Webtool ISO 2040...|
-|[https://acc.webtooliso20400.nl](https://acc.webtooliso20400.nl)| | **A**|nginx|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx PHP ZURB Foundation|Webtool ISO 2040...|
+|[https://webtooliso20400.nl](https://webtooliso20400.nl)| **A+**| **A**|nginx|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
+|[https://www.webtooliso20400.nl](https://www.webtooliso20400.nl)| **A+**| **A**|nginx|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx PHP ZURB Foundation|Webtool ISO 2040...|
+|[https://acc.webtooliso20400.nl](https://acc.webtooliso20400.nl)| **A+**| **A**|nginx|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx PHP ZURB Foundation|Webtool ISO 2040...|
 |[https://acc-cms.webtooliso20400.nl](https://acc-cms.webtooliso20400.nl)| | **C**|nginx|:warning: |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS Nginx||
 |[https://cms.webtooliso20400.nl](https://cms.webtooliso20400.nl)| | **C**|nginx|:warning: |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS Nginx||
 |[https://cmd.webtooliso20400.nl](https://cmd.webtooliso20400.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |HSTS Nginx|Redirecting to /...|

@@ -1,4 +1,4 @@
-https://aankoopcalculator.aerius.nl
+http://aankoopcalculator.aerius.nl
 https://calculator.aerius.nl
 https://connect.aerius.nl
 https://imaer.aerius.nl
@@ -10,7 +10,7 @@ https://nexus-docker.aerius.nl
 https://pdok.aerius.nl
 https://regionaal-register.aerius.nl
 https://register.aerius.nl
-https://scenario.aerius.nl
+http://scenario.aerius.nl
 https://search.aerius.nl
 https://www.aerius.nl
 https://aerius.nl

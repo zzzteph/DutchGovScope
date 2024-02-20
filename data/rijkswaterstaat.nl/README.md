@@ -53,12 +53,12 @@
 |[https://mars.rijkswaterstaat.nl](https://mars.rijkswaterstaat.nl)| **A**| **E**|| | | | | | | | :white_check_mark: | ||Website niet bes...|
 |[http://meridian.rijkswaterstaat.nl](http://meridian.rijkswaterstaat.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://nieuwsbrieven.rijkswaterstaat.nl](https://nieuwsbrieven.rijkswaterstaat.nl)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Home | Nieuwsbri...|
-|[https://open.rijkswaterstaat.nl](https://open.rijkswaterstaat.nl)| **A+**| **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Azure Azure Front Door HSTS Microsoft ASP.NET|Homepage - Rijks...|
+|[https://open.rijkswaterstaat.nl](https://open.rijkswaterstaat.nl)| **A+**| **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Azure Azure Front Door|Service unavaila...|
 |[https://opendata.nieuwsbrieven.rijkswaterstaat.nl](https://opendata.nieuwsbrieven.rijkswaterstaat.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://opleiding.spin2.rijkswaterstaat.nl](https://opleiding.spin2.rijkswaterstaat.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://overstroomik.rijkswaterstaat.nl](https://overstroomik.rijkswaterstaat.nl)| **A**| **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |||
 |[https://preprod.iam.rijkswaterstaat.nl](https://preprod.iam.rijkswaterstaat.nl)| **A+**| **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
-|[https://protide.rijkswaterstaat.nl](https://protide.rijkswaterstaat.nl)| **A**| **A**|ChartaWebServer rws-epvw-prt202|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
+|[https://protide.rijkswaterstaat.nl](https://protide.rijkswaterstaat.nl)| **A**| **A**|ChartaWebServer rws-epvw-prt201|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[http://prs.rijkswaterstaat.nl](http://prs.rijkswaterstaat.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://rhel8.wabinfo.rijkswaterstaat.nl](https://rhel8.wabinfo.rijkswaterstaat.nl)| **F**| **E**|| | | | | | | | :white_check_mark: | |||
 |[https://spin.rijkswaterstaat.nl](https://spin.rijkswaterstaat.nl)| **A+**| **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |||
@@ -93,7 +93,7 @@
 |[http://viya.rijkswaterstaat.nl](http://viya.rijkswaterstaat.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://wabinfo.rijkswaterstaat.nl](https://wabinfo.rijkswaterstaat.nl)| **A+**| **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |||
 |[https://wachtwoord.rijkswaterstaat.nl](https://wachtwoord.rijkswaterstaat.nl)| **A**| **E**|| | | | | | | | :white_check_mark: | |||
-|[https://watergegevens.rijkswaterstaat.nl](https://watergegevens.rijkswaterstaat.nl)| **F**| **F**|Microsoft-IIS/8.5| | | | | | | | :white_check_mark: | |IIS:8.5 Microsoft ASP.NET Windows Server|500 - Internal s...|
+|[https://watergegevens.rijkswaterstaat.nl](https://watergegevens.rijkswaterstaat.nl)| **F**| **F**|Microsoft-IIS/8.5| | | | | | | | :white_check_mark: | |IIS:8.5 Microsoft ASP.NET Windows Server|Document Moved|
 |[https://waterwebservices.rijkswaterstaat.nl](https://waterwebservices.rijkswaterstaat.nl)| **A+**| **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|Welcome to Rijks...|
 |[https://waterwebservices.beta.rijkswaterstaat.nl](https://waterwebservices.beta.rijkswaterstaat.nl)| **B**| **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|Welcome to Rijks...|
 |[http://webmail.rijkswaterstaat.nl](http://webmail.rijkswaterstaat.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
@@ -103,7 +103,7 @@
 |[https://www.watergegevens.rijkswaterstaat.nl](https://www.watergegevens.rijkswaterstaat.nl)| **F**| **F**|Microsoft-IIS/8.5| | | | | | | | :white_check_mark: | |IIS:8.5 Microsoft ASP.NET Windows Server|Document Moved|
 |[https://www.werkenbij.rijkswaterstaat.nl](https://www.werkenbij.rijkswaterstaat.nl)| **A**| **C**|Microsoft-Azure-Application-Gateway/v2|:warning: |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | ||301 Moved Perman...|
 |[https://zaaksysteem.rijkswaterstaat.nl](https://zaaksysteem.rijkswaterstaat.nl)| **A+**| **A**||:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Moved|
-|[http://zwerfafval.rijkswaterstaat.nl](http://zwerfafval.rijkswaterstaat.nl)| **A+**| **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Microsoft ASP.NET:-|Object moved|
+|[https://zwerfafval.rijkswaterstaat.nl](https://zwerfafval.rijkswaterstaat.nl)| **A+**| **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:-|Home - Zwerfafva...|
 |[https://rijkswaterstaat.nl](https://rijkswaterstaat.nl)| **A**| **C**|Microsoft-Azure-Application-Gateway/v2|:warning: |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | ||301 Moved Perman...|
 |[https://innovatie-test.rijkswaterstaat.nl](https://innovatie-test.rijkswaterstaat.nl)| **A+**| **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
 |[https://bmm2016.rijkswaterstaat.nl](https://bmm2016.rijkswaterstaat.nl)| **A+**| **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |||

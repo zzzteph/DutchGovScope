@@ -1,5 +1,5 @@
 http://acceptatie.atlasleefomgeving.nl
 https://prd.atlasleefomgeving.nl
-https://rivm.atlasleefomgeving.nl
+http://rivm.atlasleefomgeving.nl
 https://www.atlasleefomgeving.nl
 https://atlasleefomgeving.nl

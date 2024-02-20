@@ -4,15 +4,15 @@
 ## Summary data
 
 
- - **SSL Grade**:
- - **HTTP Security Grade**:A
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:5
+ - **SSL Grade**:B+
+ - **HTTP Security Grade**:B
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:3
 
 
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/inburgeren.nl/subdomains.txt)|9|Alive subdomains|
-|[urls.txt](/data/inburgeren.nl/urls.txt)|6|Urls|
+|[urls.txt](/data/inburgeren.nl/urls.txt)|4|Urls|
 |[all_subdomains.txt](/data/inburgeren.nl/all_subdomains.txt)|11|All found subdomains (history)|
 
 
@@ -21,10 +21,8 @@
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://en.inburgeren.nl](https://en.inburgeren.nl)| | **E**|| | | | | | | | :white_check_mark: | |Amazon S3 Amazon Web Services HSTS Java||
-|[https://mijn.inburgeren.nl](https://mijn.inburgeren.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
-|[https://www.inburgeren.nl](https://www.inburgeren.nl)| | **A**||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Google Tag Manager HSTS Java|DUO - Inburgeren|
-|[https://inburgeren.nl](https://inburgeren.nl)| | **A**||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Google Tag Manager HSTS Java|DUO - Inburgeren|
-|[https://staging.inburgeren.nl](https://staging.inburgeren.nl)| | **A**||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Google Tag Manager HSTS Java|DUO - Inburgeren|
-|[https://vt-mijn.inburgeren.nl](https://vt-mijn.inburgeren.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
+|[https://en.inburgeren.nl](https://en.inburgeren.nl)| **F**| **E**|| | | | | | | | :white_check_mark: | |Amazon S3 Amazon Web Services HSTS Java||
+|[https://mijn.inburgeren.nl](https://mijn.inburgeren.nl)| **A+**| **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
+|[https://www.inburgeren.nl](https://www.inburgeren.nl)| **A+**| **A**||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Google Tag Manager HSTS Java|DUO - Inburgeren|
+|[https://inburgeren.nl](https://inburgeren.nl)| **A+**| **A**||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Google Tag Manager HSTS Java|DUO - Inburgeren|
 

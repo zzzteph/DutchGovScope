@@ -6,8 +6,8 @@ subdomains_count: 2
 all_subdomains_count: 2
 urls_count: 2
 ssl_rank: A+
-http_rank: A
-security_txt: 2
+http_rank: C
+security_txt: 0
 url_link: /data/steunpuntcoronazorgen.nl/urls.txt
 all_subdomains_link: /data/steunpuntcoronazorgen.nl/all_subdomains.txt
 subdomains_link: /data/steunpuntcoronazorgen.nl/subdomains.txt
@@ -21,8 +21,8 @@ tags: dutchgov
 
 
  - **SSL Grade**:A+
- - **HTTP Security Grade**:A
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:2
+ - **HTTP Security Grade**:C
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:0
 
 
 | File       | Count | Info |
@@ -37,6 +37,6 @@ tags: dutchgov
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://www.steunpuntcoronazorgen.nl](https://www.steunpuntcoronazorgen.nl)| **A+**| **A**|Apache| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server Drupal HSTS PHP|Steunpunt Corona...|
-|[https://steunpuntcoronazorgen.nl](https://steunpuntcoronazorgen.nl)| **A+**| **A**|Apache| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS|301 Moved Perman...|
+|[https://www.steunpuntcoronazorgen.nl](https://www.steunpuntcoronazorgen.nl)| **A+**| **C**|Apache| |:white_check_mark: | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|webserver|
+|[https://steunpuntcoronazorgen.nl](https://steunpuntcoronazorgen.nl)| **A+**| **C**|Apache| |:white_check_mark: | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|webserver|
 

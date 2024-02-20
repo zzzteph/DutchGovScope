@@ -28,3 +28,4 @@ voiskwb.datawonen.nl
 www.hcib.datawonen.nl
 prestatieafspraken.datawonen.nl
 www.gsb.datawonen.nl
+pwik.datawonen.nl

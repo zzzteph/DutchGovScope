@@ -13,7 +13,7 @@
 |------------|-------|------|
 |[subdomains.txt](/data/pkioverheid.nl/subdomains.txt)|10|Alive subdomains|
 |[urls.txt](/data/pkioverheid.nl/urls.txt)|10|Urls|
-|[all_subdomains.txt](/data/pkioverheid.nl/all_subdomains.txt)|24|All found subdomains (history)|
+|[all_subdomains.txt](/data/pkioverheid.nl/all_subdomains.txt)|25|All found subdomains (history)|
 
 
 ## Statistics
@@ -22,7 +22,7 @@
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[https://cert.pkioverheid.nl](https://cert.pkioverheid.nl)| **A+**| **A**|Apache| |:white_check_mark: | :warning:| | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS|Overzicht PKIove...|
-|[https://cps.pkioverheid.nl](https://cps.pkioverheid.nl)| **A**| **A**|Apache| |:white_check_mark: | :warning:| | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS|Certification Pr...|
+|[https://cps.pkioverheid.nl](https://cps.pkioverheid.nl)| **A**| **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Certification Pr...|
 |[https://crl.pkioverheid.nl](https://crl.pkioverheid.nl)| **A+**| **A**|Apache| |:white_check_mark: | :warning:| | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS|PKIoverheid Cert...|
 |[https://www.pkioverheid.nl](https://www.pkioverheid.nl)| **A+**| **A**|Apache| |:white_check_mark: | :warning:| | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
 |[https://pkioverheid.nl](https://pkioverheid.nl)| **A+**| **A**|Apache| |:white_check_mark: | :warning:| | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|

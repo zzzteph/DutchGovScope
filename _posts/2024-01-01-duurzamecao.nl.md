@@ -5,9 +5,9 @@ permalink: "/dutchgov/duurzamecao.nl.html"
 subdomains_count: 16
 all_subdomains_count: 16
 urls_count: 16
-ssl_rank: A
+ssl_rank: A-
 http_rank: E
-security_txt: 6
+security_txt: 7
 url_link: /data/duurzamecao.nl/urls.txt
 all_subdomains_link: /data/duurzamecao.nl/all_subdomains.txt
 subdomains_link: /data/duurzamecao.nl/subdomains.txt
@@ -20,9 +20,9 @@ tags: dutchgov
 ## Summary data
 
 
- - **SSL Grade**:A
+ - **SSL Grade**:A-
  - **HTTP Security Grade**:E
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:6
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:7
 
 
 | File       | Count | Info |
@@ -48,9 +48,9 @@ tags: dutchgov
 |[https://idkbb.duurzamecao.nl](https://idkbb.duurzamecao.nl)| **A**| **F**|nginx| | | | | | | | :white_check_mark: | |MySQL Nginx PHP WooCommerce:8.0.1 WordPress:6.3.3 Yoast SEO:22.0|IDKB B|
 |[https://idkbf.duurzamecao.nl](https://idkbf.duurzamecao.nl)| **A**| **F**|nginx| | | | | | | | :white_check_mark: | |MySQL Nginx PHP WooCommerce:8.0.2 WordPress:6.3.3 Yoast SEO:22.0|IDKB F|
 |[https://idkbd.duurzamecao.nl](https://idkbd.duurzamecao.nl)| **A**| **F**|nginx| | | | | | | | :white_check_mark: | |MySQL Nginx PHP WooCommerce:8.0.1 WordPress:6.3.3 Yoast SEO:22.0|IDKB D|
-|[https://idkb.duurzamecao.nl](https://idkb.duurzamecao.nl)| **A**| **F**|nginx| | | | | | | | :white_check_mark: | |MySQL Nginx PHP WooCommerce:8.0.1 WordPress:6.3.3|Home - Rijkstool...|
+|[https://idkb.duurzamecao.nl](https://idkb.duurzamecao.nl)| **A**| **F**|nginx| | | | | | | | :white_check_mark: | |MySQL Nginx PHP WooCommerce:8.0.1 WordPress:6.3.3 Yoast SEO:22.0|Rijkstools|
 |[https://idkbe.duurzamecao.nl](https://idkbe.duurzamecao.nl)| **A**| **F**|nginx| | | | | | | | :white_check_mark: | |MySQL Nginx PHP WooCommerce:8.0.1 WordPress:6.3.3 Yoast SEO:22.0|IDKB E|
 |[https://idkba.duurzamecao.nl](https://idkba.duurzamecao.nl)| **A**| **F**|nginx| | | | | | | | :white_check_mark: | |MySQL Nginx PHP WooCommerce:8.0.1 WordPress:6.3.3 Yoast SEO:22.0|IDKB A|
 |[https://www.duurzamecao.nl](https://www.duurzamecao.nl)| **A**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Nginx||
-|[https://autodiscover.duurzamecao.nl](https://autodiscover.duurzamecao.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
+|[https://autodiscover.duurzamecao.nl](https://autodiscover.duurzamecao.nl)| **F**| **E**|| | | | | | | | :white_check_mark: | |||
 

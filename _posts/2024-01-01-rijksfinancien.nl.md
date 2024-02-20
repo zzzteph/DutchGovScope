@@ -5,7 +5,7 @@ permalink: "/dutchgov/rijksfinancien.nl.html"
 subdomains_count: 13
 all_subdomains_count: 27
 urls_count: 7
-ssl_rank: 
+ssl_rank: A-
 http_rank: B
 security_txt: 3
 url_link: /data/rijksfinancien.nl/urls.txt
@@ -20,7 +20,7 @@ tags: dutchgov
 ## Summary data
 
 
- - **SSL Grade**:
+ - **SSL Grade**:A-
  - **HTTP Security Grade**:B
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:3
 
@@ -37,11 +37,11 @@ tags: dutchgov
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://archief.rijksfinancien.nl](https://archief.rijksfinancien.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bootstrap Drupal HSTS PHP|Welkom | Rijksfi...|
-|[https://rbv.rijksfinancien.nl](https://rbv.rijksfinancien.nl)| | **B**|Apache| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server Drupal:10 HSTS PHP:8.1.26|Home | Rijksbegr...|
-|[https://rbv-acc.rijksfinancien.nl](https://rbv-acc.rijksfinancien.nl)| | **B**|Apache| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server Drupal:10 HSTS PHP:8.1.27|Home | Rijksbegr...|
-|[https://www.rijksfinancien.nl](https://www.rijksfinancien.nl)| | **A**|| |:white_check_mark: | :warning:| | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Drupal HSTS PHP|Laatste updates...|
-|[http://rijksfinancien.nl](http://rijksfinancien.nl)| | **F**|BigIP| | | | | | | | :white_check_mark: | |F5 BigIP||
-|[https://evaluaties-acc.rijksfinancien.nl](https://evaluaties-acc.rijksfinancien.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|403 Forbidden|
+|[https://archief.rijksfinancien.nl](https://archief.rijksfinancien.nl)| **A+**| **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bootstrap Drupal HSTS PHP|Welkom | Rijksfi...|
+|[https://rbv.rijksfinancien.nl](https://rbv.rijksfinancien.nl)| **B**| **B**|Apache| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server Drupal:10 HSTS PHP:8.1.26|Home | Rijksbegr...|
+|[https://rbv-acc.rijksfinancien.nl](https://rbv-acc.rijksfinancien.nl)| **B**| **B**|Apache| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server Drupal:10 HSTS PHP:8.1.27|Home | Rijksbegr...|
+|[https://www.rijksfinancien.nl](https://www.rijksfinancien.nl)| **A+**| **A**|| |:white_check_mark: | :warning:| | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Drupal HSTS PHP|Laatste updates...|
+|[http://rijksfinancien.nl](http://rijksfinancien.nl)| **A**| **F**|BigIP| | | | | | | | :white_check_mark: | |F5 BigIP||
+|[https://evaluaties-acc.rijksfinancien.nl](https://evaluaties-acc.rijksfinancien.nl)| **A+**| **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|403 Forbidden|
 |[http://evaluaties.rijksfinancien.nl](http://evaluaties.rijksfinancien.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 

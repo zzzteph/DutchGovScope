@@ -90,6 +90,7 @@ www.wegen.brabant.nl
 fs-ms-exdns03.brabant.nl
 dplockers.brabant.nl
 draf.brabant.nl
+proxy.brabant.nl
 geopoc.brabant.nl
 samenwerken.brabant.nl
 www.opendata.brabant.nl

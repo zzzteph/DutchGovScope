@@ -15,3 +15,5 @@ https://acc3.poraad.nl
 https://email.mg.poraad.nl
 https://enterpriseregistration.poraad.nl
 https://nieuwsbrief.poraad.nl
+https://enterpriseenrollment.poraad.nl
+https://msoid.poraad.nl

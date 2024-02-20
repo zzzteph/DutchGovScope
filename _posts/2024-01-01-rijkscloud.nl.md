@@ -2,10 +2,10 @@
 layout: default
 title: "rijkscloud.nl"
 permalink: "/dutchgov/rijkscloud.nl.html"
-subdomains_count: 542
-all_subdomains_count: 723
-urls_count: 148
-ssl_rank: A+
+subdomains_count: 543
+all_subdomains_count: 728
+urls_count: 146
+ssl_rank: A
 http_rank: B
 security_txt: 46
 url_link: /data/rijkscloud.nl/urls.txt
@@ -20,16 +20,16 @@ tags: dutchgov
 ## Summary data
 
 
- - **SSL Grade**:A+
+ - **SSL Grade**:A
  - **HTTP Security Grade**:B
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:46
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/rijkscloud.nl/subdomains.txt)|542|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/rijkscloud.nl/urls.txt)|148|Urls|
-|[all_subdomains.txt](/DutchGovScope/data/rijkscloud.nl/all_subdomains.txt)|723|All found subdomains (history)|
+|[subdomains.txt](/DutchGovScope/data/rijkscloud.nl/subdomains.txt)|543|Alive subdomains|
+|[urls.txt](/DutchGovScope/data/rijkscloud.nl/urls.txt)|146|Urls|
+|[all_subdomains.txt](/DutchGovScope/data/rijkscloud.nl/all_subdomains.txt)|728|All found subdomains (history)|
 
 
 ## Statistics
@@ -133,56 +133,54 @@ tags: dutchgov
 |[https://portal118.rijkscloud.nl](https://portal118.rijkscloud.nl)| **A+**| **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Microsoft ASP.NET||
 |[https://proxy-lab.rvb.rijkscloud.nl](https://proxy-lab.rvb.rijkscloud.nl)| **A**| **E**|| | | | | | | | :white_check_mark: | |||
 |[https://pw.rvb.rijkscloud.nl](https://pw.rvb.rijkscloud.nl)| **A+**| **A**|Apache|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Apache HTTP Server HSTS Nextcloud PHP||
-|[https://rabbitmq.rvb.rijkscloud.nl](https://rabbitmq.rvb.rijkscloud.nl)| | **E**|| | | | | | | | :white_check_mark: | |Basic||
 |[https://rb.rvb.rijkscloud.nl](https://rb.rvb.rijkscloud.nl)| **A+**| **A**|Apache|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Apache HTTP Server HSTS Nextcloud PHP||
 |[https://registry.git.ivho.rijkscloud.nl](https://registry.git.ivho.rijkscloud.nl)| **A+**| **C**|Apache| |:white_check_mark: | | | | | | :white_check_mark: | |Apache HTTP Server HSTS||
 |[https://registry.gitlab.analyse.ilt.rijkscloud.nl](https://registry.gitlab.analyse.ilt.rijkscloud.nl)| **A+**| **C**|Apache| |:white_check_mark: | | | | | | :white_check_mark: | |Apache HTTP Server HSTS||
 |[https://registry.gitlab.datascience.rijkscloud.nl](https://registry.gitlab.datascience.rijkscloud.nl)| **A+**| **C**|Apache| |:white_check_mark: | | | | | | :white_check_mark: | |Apache HTTP Server HSTS||
 |[https://registry.gitlab.ix.rijkscloud.nl](https://registry.gitlab.ix.rijkscloud.nl)| **A+**| **C**|Apache| |:white_check_mark: | | | | | | :white_check_mark: | |Apache HTTP Server HSTS||
-|[https://registry.gitlab.wibo.ienw.rijkscloud.nl](https://registry.gitlab.wibo.ienw.rijkscloud.nl)| | **C**|Apache| |:white_check_mark: | | | | | | :white_check_mark: | |Apache HTTP Server HSTS||
-|[https://repo2.ix.rijkscloud.nl](https://repo2.ix.rijkscloud.nl)| | **C**|Apache| |:white_check_mark: | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|403 Forbidden|
-|[https://rstudio.alma.jvs.ix.rijkscloud.nl](https://rstudio.alma.jvs.ix.rijkscloud.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
-|[https://rstudio.analyse.ilt.rijkscloud.nl](https://rstudio.analyse.ilt.rijkscloud.nl)| | **C**|RStudio| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
-|[https://rstudio.cursus.rijkscloud.nl](https://rstudio.cursus.rijkscloud.nl)| | **C**|RStudio| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
-|[https://rstudio.ds-ocw.rijkscloud.nl](https://rstudio.ds-ocw.rijkscloud.nl)| | **C**|RStudio| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
-|[https://rstudio.ds-ocw2.rijkscloud.nl](https://rstudio.ds-ocw2.rijkscloud.nl)| | **C**|RStudio| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
-|[https://rstudio.dstrial-inspectieraad.rijkscloud.nl](https://rstudio.dstrial-inspectieraad.rijkscloud.nl)| | **C**|RStudio| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
-|[https://rstudio.fib.ienw.rijkscloud.nl](https://rstudio.fib.ienw.rijkscloud.nl)| | **C**|RStudio| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
-|[https://rstudio.hr-ienw.rijkscloud.nl](https://rstudio.hr-ienw.rijkscloud.nl)| | **C**|RStudio| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
-|[https://rstudio.ilt.rijkscloud.nl](https://rstudio.ilt.rijkscloud.nl)| | **C**|RStudio| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
-|[https://rstudio.ilt-analyse.rijkscloud.nl](https://rstudio.ilt-analyse.rijkscloud.nl)| | **C**|RStudio| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
-|[https://rstudio.informatieproducten.duo.rijkscloud.nl](https://rstudio.informatieproducten.duo.rijkscloud.nl)| | **C**|RStudio| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
-|[https://rstudio.ipi.rijkscloud.nl](https://rstudio.ipi.rijkscloud.nl)| | **C**|RStudio| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
-|[https://rstudio.ivho.rijkscloud.nl](https://rstudio.ivho.rijkscloud.nl)| | **C**|RStudio| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
-|[https://rstudio.kim.rijkscloud.nl](https://rstudio.kim.rijkscloud.nl)| | **C**|RStudio| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
-|[https://rstudio.rekenkamer-ds1.rijkscloud.nl](https://rstudio.rekenkamer-ds1.rijkscloud.nl)| | **C**|RStudio| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
-|[https://rstudio.ritp.rijkscloud.nl](https://rstudio.ritp.rijkscloud.nl)| | **C**|RStudio| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
-|[https://sectstssp.ix.rijkscloud.nl](https://sectstssp.ix.rijkscloud.nl)| | **D**|rijkscloud.nl|:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|Redirecting...|
-|[https://securetransfer.rijkscloud.nl](https://securetransfer.rijkscloud.nl)| | **A**|nginx securetransfer.rijkscloud.nl|:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bootstrap:57654573e259 Django HSTS Nginx Python|ODCN Secure Tran...|
-|[https://sensu.ix.rijkscloud.nl](https://sensu.ix.rijkscloud.nl)| | **E**|| | | | | | | | :white_check_mark: | |Basic||
-|[https://shiny.cursus.rijkscloud.nl](https://shiny.cursus.rijkscloud.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
-|[https://shiny.ds-ocw.rijkscloud.nl](https://shiny.ds-ocw.rijkscloud.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|Index of /|
-|[https://shiny.ds-ocw2.rijkscloud.nl](https://shiny.ds-ocw2.rijkscloud.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
-|[https://shiny.hr-ienw.rijkscloud.nl](https://shiny.hr-ienw.rijkscloud.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|Index of /|
-|[https://shiny.ivho.rijkscloud.nl](https://shiny.ivho.rijkscloud.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|Index of /|
-|[https://shiny.rekenkamer-ds1.rijkscloud.nl](https://shiny.rekenkamer-ds1.rijkscloud.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|Page Redirection|
-|[https://shiny.ritp.rijkscloud.nl](https://shiny.ritp.rijkscloud.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|Index of /|
+|[https://registry.gitlab.wibo.ienw.rijkscloud.nl](https://registry.gitlab.wibo.ienw.rijkscloud.nl)| **A+**| **C**|Apache| |:white_check_mark: | | | | | | :white_check_mark: | |Apache HTTP Server HSTS||
+|[https://repo2.ix.rijkscloud.nl](https://repo2.ix.rijkscloud.nl)| **A+**| **C**|Apache| |:white_check_mark: | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|403 Forbidden|
+|[https://rstudio.alma.jvs.ix.rijkscloud.nl](https://rstudio.alma.jvs.ix.rijkscloud.nl)| **F**| **E**|| | | | | | | | :white_check_mark: | |||
+|[https://rstudio.analyse.ilt.rijkscloud.nl](https://rstudio.analyse.ilt.rijkscloud.nl)| **A+**| **C**|RStudio| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
+|[https://rstudio.cursus.rijkscloud.nl](https://rstudio.cursus.rijkscloud.nl)| **A+**| **C**|RStudio| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
+|[https://rstudio.ds-ocw.rijkscloud.nl](https://rstudio.ds-ocw.rijkscloud.nl)| **A+**| **C**|RStudio| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
+|[https://rstudio.ds-ocw2.rijkscloud.nl](https://rstudio.ds-ocw2.rijkscloud.nl)| **A+**| **C**|RStudio| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
+|[https://rstudio.dstrial-inspectieraad.rijkscloud.nl](https://rstudio.dstrial-inspectieraad.rijkscloud.nl)| **A+**| **C**|RStudio| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
+|[https://rstudio.fib.ienw.rijkscloud.nl](https://rstudio.fib.ienw.rijkscloud.nl)| **A+**| **C**|RStudio| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
+|[https://rstudio.hr-ienw.rijkscloud.nl](https://rstudio.hr-ienw.rijkscloud.nl)| **A+**| **C**|RStudio| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
+|[https://rstudio.ilt.rijkscloud.nl](https://rstudio.ilt.rijkscloud.nl)| **A+**| **C**|RStudio| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
+|[https://rstudio.ilt-analyse.rijkscloud.nl](https://rstudio.ilt-analyse.rijkscloud.nl)| **A+**| **C**|RStudio| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
+|[https://rstudio.informatieproducten.duo.rijkscloud.nl](https://rstudio.informatieproducten.duo.rijkscloud.nl)| **A+**| **C**|RStudio| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
+|[https://rstudio.ipi.rijkscloud.nl](https://rstudio.ipi.rijkscloud.nl)| **A+**| **C**|RStudio| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
+|[https://rstudio.ivho.rijkscloud.nl](https://rstudio.ivho.rijkscloud.nl)| **A+**| **C**|RStudio| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
+|[https://rstudio.kim.rijkscloud.nl](https://rstudio.kim.rijkscloud.nl)| **A+**| **C**|RStudio| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
+|[https://rstudio.rekenkamer-ds1.rijkscloud.nl](https://rstudio.rekenkamer-ds1.rijkscloud.nl)| **A+**| **C**|RStudio| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
+|[https://rstudio.ritp.rijkscloud.nl](https://rstudio.ritp.rijkscloud.nl)| **A+**| **C**|RStudio| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
+|[https://sectstssp.ix.rijkscloud.nl](https://sectstssp.ix.rijkscloud.nl)| **A+**| **D**|rijkscloud.nl|:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|Redirecting...|
+|[https://securetransfer.rijkscloud.nl](https://securetransfer.rijkscloud.nl)| **A+**| **A**|nginx securetransfer.rijkscloud.nl|:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bootstrap:57654573e259 Django HSTS Nginx Python|ODCN Secure Tran...|
+|[https://sensu.ix.rijkscloud.nl](https://sensu.ix.rijkscloud.nl)| **A**| **E**|| | | | | | | | :white_check_mark: | |Basic||
+|[https://shiny.cursus.rijkscloud.nl](https://shiny.cursus.rijkscloud.nl)| **A+**| **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
+|[https://shiny.ds-ocw.rijkscloud.nl](https://shiny.ds-ocw.rijkscloud.nl)| **A+**| **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|Index of /|
+|[https://shiny.ds-ocw2.rijkscloud.nl](https://shiny.ds-ocw2.rijkscloud.nl)| **A**| **E**|| | | | | | | | :white_check_mark: | |||
+|[https://shiny.hr-ienw.rijkscloud.nl](https://shiny.hr-ienw.rijkscloud.nl)| **A+**| **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|Index of /|
+|[https://shiny.ivho.rijkscloud.nl](https://shiny.ivho.rijkscloud.nl)| **A+**| **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|Index of /|
+|[https://shiny.rekenkamer-ds1.rijkscloud.nl](https://shiny.rekenkamer-ds1.rijkscloud.nl)| **A+**| **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|Page Redirection|
+|[https://shiny.ritp.rijkscloud.nl](https://shiny.ritp.rijkscloud.nl)| **A+**| **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|Index of /|
 |[https://sso.dbe-t.rvb.rijkscloud.nl](https://sso.dbe-t.rvb.rijkscloud.nl)| | **C**|Microsoft-IIS/10.0| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS IIS:10.0 Microsoft ASP.NET Windows Server||
-|[https://ssp.estota.rijkscloud.nl](https://ssp.estota.rijkscloud.nl)| | **E**|| | | | | | | | :white_check_mark: | |Basic||
-|[https://ssp.ix.rijkscloud.nl](https://ssp.ix.rijkscloud.nl)| | **C**|rijkscloud.nl|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS|Redirecting...|
-|[https://stats.duo.rijkscloud.nl](https://stats.duo.rijkscloud.nl)| | **B**|Apache|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |AngularJS Apache HTTP Server HSTS Matomo Analytics|Sign in - Matomo|
-|[https://status.rijkscloud.nl](https://status.rijkscloud.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| | :white_check_mark: | :white_check_mark: | |Bootstrap:3.4.1 HSTS|ODCN Status page|
-|[https://superset.dev.fib.ienw.rijkscloud.nl](https://superset.dev.fib.ienw.rijkscloud.nl)| | **C**|gunicorn|:warning: |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS Python gunicorn|Redirecting...|
-|[https://uno.dfront.rijkscloud.nl](https://uno.dfront.rijkscloud.nl)| | **C**|Apache| |:white_check_mark: | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|Uno Documentatie|
-|[https://webmail.rijkscloud.nl](https://webmail.rijkscloud.nl)| | **C**|Apache|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server Bootstrap HSTS PHP RoundCube|Roundcube Webmai...|
-|[https://www.rijkscloud.nl](https://www.rijkscloud.nl)| | **C**|Apache| |:white_check_mark: | | | | | | :white_check_mark: | |Apache HTTP Server HSTS||
-|[https://rijkscloud.nl](https://rijkscloud.nl)| | **C**|Apache| |:white_check_mark: | | | | | | :white_check_mark: | |Apache HTTP Server HSTS||
-|[https://openstack.gn3.rijkscloud.nl](https://openstack.gn3.rijkscloud.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
+|[https://ssp.estota.rijkscloud.nl](https://ssp.estota.rijkscloud.nl)| **F**| **E**|| | | | | | | | :white_check_mark: | |Basic||
+|[https://ssp.ix.rijkscloud.nl](https://ssp.ix.rijkscloud.nl)| **A+**| **C**|rijkscloud.nl|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS|Redirecting...|
+|[https://stats.duo.rijkscloud.nl](https://stats.duo.rijkscloud.nl)| **A+**| **B**|Apache|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |AngularJS Apache HTTP Server HSTS Matomo Analytics|Sign in - Matomo|
+|[https://status.rijkscloud.nl](https://status.rijkscloud.nl)| **A+**| **A**|| |:white_check_mark: | | | :white_check_mark:| | :white_check_mark: | :white_check_mark: | |Bootstrap:3.4.1 HSTS|ODCN Status page|
+|[https://uno.dfront.rijkscloud.nl](https://uno.dfront.rijkscloud.nl)| **A+**| **C**|Apache| |:white_check_mark: | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|Uno Documentatie|
+|[https://webmail.rijkscloud.nl](https://webmail.rijkscloud.nl)| **A+**| **C**|Apache|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server Bootstrap HSTS PHP RoundCube|Roundcube Webmai...|
+|[https://www.rijkscloud.nl](https://www.rijkscloud.nl)| **A+**| **C**|Apache| |:white_check_mark: | | | | | | :white_check_mark: | |Apache HTTP Server HSTS||
+|[https://rijkscloud.nl](https://rijkscloud.nl)| **A+**| **C**|Apache| |:white_check_mark: | | | | | | :white_check_mark: | |Apache HTTP Server HSTS||
+|[https://openstack.gn3.rijkscloud.nl](https://openstack.gn3.rijkscloud.nl)| **F**| **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
 |[http://status.gn3.rijkscloud.nl](http://status.gn3.rijkscloud.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
-|[https://portal.ip.test.duo.rijkscloud.nl](https://portal.ip.test.duo.rijkscloud.nl)| | **A**|| |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | |HSTS Java||
-|[https://ip.test.duo.rijkscloud.nl](https://ip.test.duo.rijkscloud.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
-|[https://rstudio.ip.test.duo.rijkscloud.nl](https://rstudio.ip.test.duo.rijkscloud.nl)| | **C**|RStudio| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
-|[https://projects.pages.ds-ocw.rijkscloud.nl](https://projects.pages.ds-ocw.rijkscloud.nl)| | **A**|nginx|:warning: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
+|[https://portal.ip.test.duo.rijkscloud.nl](https://portal.ip.test.duo.rijkscloud.nl)| **A+**| **A**|| |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | |HSTS Java||
+|[https://ip.test.duo.rijkscloud.nl](https://ip.test.duo.rijkscloud.nl)| **A**| **E**|| | | | | | | | :white_check_mark: | |||
+|[https://rstudio.ip.test.duo.rijkscloud.nl](https://rstudio.ip.test.duo.rijkscloud.nl)| **A+**| **C**|RStudio| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
+|[https://projects.pages.ds-ocw.rijkscloud.nl](https://projects.pages.ds-ocw.rijkscloud.nl)| **A+**| **A**|nginx|:warning: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://documentation.ix.rijkscloud.nl](https://documentation.ix.rijkscloud.nl)| | **C**|Apache| |:white_check_mark: | | | | | | :white_check_mark: | |Apache HTTP Server HSTS Hugo:0.58.1|Home :: PaaS-Lin...|
 |[https://repo.ix.rijkscloud.nl](https://repo.ix.rijkscloud.nl)| | **C**|Apache| |:white_check_mark: | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|403 Forbidden|
 

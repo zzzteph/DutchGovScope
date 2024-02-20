@@ -21,6 +21,6 @@
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://www.a4burgerveen-n14.nl](https://www.a4burgerveen-n14.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Document Moved|
-|[https://a4burgerveen-n14.nl](https://a4burgerveen-n14.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Document Moved|
+|[https://www.a4burgerveen-n14.nl](https://www.a4burgerveen-n14.nl)| **F**| **E**|| | | | | | | | :white_check_mark: | ||Document Moved|
+|[https://a4burgerveen-n14.nl](https://a4burgerveen-n14.nl)| **F**| **E**|| | | | | | | | :white_check_mark: | ||Document Moved|
 

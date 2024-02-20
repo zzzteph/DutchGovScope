@@ -41,5 +41,5 @@ tags: dutchgov
 |[https://www.examenblad.nl](https://www.examenblad.nl)| **A+**| **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |Drupal:10 HSTS PHP|Examenblad.nl|
 |[https://www.nieuwsbrief.examenblad.nl](https://www.nieuwsbrief.examenblad.nl)| **F**| **E**|| | | | | | | | :white_check_mark: | ||301 Moved Perman...|
 |[https://examenblad.nl](https://examenblad.nl)| **A**| **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | ||308 Permanent Re...|
-|[https://mijn.examenblad.nl](https://mijn.examenblad.nl)| **A+**| **A**|| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Drupal HSTS PHP|Redirecting to h...|
+|[https://mijn.examenblad.nl](https://mijn.examenblad.nl)| **A+**| **A**|| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Drupal:10 HSTS PHP|Redirecting to h...|
 

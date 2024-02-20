@@ -4,7 +4,7 @@
 ## Summary data
 
 
- - **SSL Grade**:
+ - **SSL Grade**:B
  - **HTTP Security Grade**:A
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:0
 
@@ -21,7 +21,7 @@
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://www.kennisnetwerkspv.nl](https://www.kennisnetwerkspv.nl)| | **A**|Microsoft-IIS/10.0|:warning: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Azure Google Tag Manager HSTS IIS:10.0 Kentico CMS Microsoft ASP.NET Windows Server|Home - Kennisnet...|
-|[https://kennisnetwerkspv.nl](https://kennisnetwerkspv.nl)| | **A**|Microsoft-IIS/10.0|:warning: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Azure Google Tag Manager HSTS IIS:10.0 Kentico CMS Microsoft ASP.NET Windows Server|Home - Kennisnet...|
+|[https://www.kennisnetwerkspv.nl](https://www.kennisnetwerkspv.nl)| **B**| **A**|Microsoft-IIS/10.0|:warning: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Azure Google Tag Manager HSTS IIS:10.0 Kentico CMS Microsoft ASP.NET Windows Server|Home - Kennisnet...|
+|[https://kennisnetwerkspv.nl](https://kennisnetwerkspv.nl)| **B**| **A**|Microsoft-IIS/10.0|:warning: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Azure Google Tag Manager HSTS IIS:10.0 Kentico CMS Microsoft ASP.NET Windows Server|Home - Kennisnet...|
 |[http://autodiscover.kennisnetwerkspv.nl](http://autodiscover.kennisnetwerkspv.nl)| | **B**|Microsoft-IIS/10.0|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server||
 

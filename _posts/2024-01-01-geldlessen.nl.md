@@ -5,7 +5,7 @@ permalink: "/dutchgov/geldlessen.nl.html"
 subdomains_count: 5
 all_subdomains_count: 8
 urls_count: 5
-ssl_rank: 
+ssl_rank: A+
 http_rank: B
 security_txt: 2
 url_link: /data/geldlessen.nl/urls.txt
@@ -20,7 +20,7 @@ tags: dutchgov
 ## Summary data
 
 
- - **SSL Grade**:
+ - **SSL Grade**:A+
  - **HTTP Security Grade**:B
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:2
 
@@ -37,9 +37,9 @@ tags: dutchgov
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://dashboard.geldlessen.nl](https://dashboard.geldlessen.nl)| | **A**|Apache/2.4.41 (Ubuntu)| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server:2.4.41 HSTS Ubuntu|geldlessen.lesse...|
-|[https://digiles.geldlessen.nl](https://digiles.geldlessen.nl)| | **B**|Apache/2.4.41 (Ubuntu)| |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | |Apache HTTP Server:2.4.41 HSTS Ubuntu|geldlessen.lesse...|
-|[https://themalessen.geldlessen.nl](https://themalessen.geldlessen.nl)| | **C**|Apache/2.4.41 (Ubuntu)|:o: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server:2.4.41 HSTS PHP Ubuntu|Geldlessen - PO...|
-|[https://www.geldlessen.nl](https://www.geldlessen.nl)| | **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |Google Tag Manager HSTS Nginx|Home - Geldlesse...|
-|[https://geldlessen.nl](https://geldlessen.nl)| | **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
+|[https://dashboard.geldlessen.nl](https://dashboard.geldlessen.nl)| **A+**| **A**|Apache/2.4.41 (Ubuntu)| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server:2.4.41 HSTS Ubuntu|geldlessen.lesse...|
+|[https://digiles.geldlessen.nl](https://digiles.geldlessen.nl)| **A+**| **B**|Apache| |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS|geldlessen.lesse...|
+|[https://themalessen.geldlessen.nl](https://themalessen.geldlessen.nl)| **A+**| **B**|Apache/2.4.41 (Ubuntu)|:warning: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server:2.4.41 HSTS PHP Ubuntu|Geldlessen - PO...|
+|[https://www.geldlessen.nl](https://www.geldlessen.nl)| **A+**| **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |Google Tag Manager HSTS Nginx|Home - Geldlesse...|
+|[https://geldlessen.nl](https://geldlessen.nl)| **A+**| **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
 

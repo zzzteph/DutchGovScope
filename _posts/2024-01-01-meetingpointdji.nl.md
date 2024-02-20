@@ -5,7 +5,7 @@ permalink: "/dutchgov/meetingpointdji.nl.html"
 subdomains_count: 1
 all_subdomains_count: 2
 urls_count: 1
-ssl_rank: 
+ssl_rank: A
 http_rank: F
 security_txt: 0
 url_link: /data/meetingpointdji.nl/urls.txt
@@ -20,7 +20,7 @@ tags: dutchgov
 ## Summary data
 
 
- - **SSL Grade**:
+ - **SSL Grade**:A
  - **HTTP Security Grade**:F
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:0
 
@@ -37,5 +37,5 @@ tags: dutchgov
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://www.meetingpointdji.nl](https://www.meetingpointdji.nl)| | **F**|Microsoft-IIS/10.0|:white_check_mark: | | | | | | | :white_check_mark: | |Azure IIS:10.0 Microsoft ASP.NET Windows Server|Meeting_Point_DJ...|
+|[https://www.meetingpointdji.nl](https://www.meetingpointdji.nl)| **A**| **F**|Microsoft-IIS/10.0|:white_check_mark: | | | | | | | :white_check_mark: | |Azure IIS:10.0 Microsoft ASP.NET Windows Server|Meeting_Point_DJ...|
 

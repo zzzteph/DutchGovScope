@@ -4,7 +4,7 @@
 ## Summary data
 
 
- - **SSL Grade**:
+ - **SSL Grade**:A+
  - **HTTP Security Grade**:A
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:2
 
@@ -21,6 +21,6 @@
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://www.bromonitor.nl](https://www.bromonitor.nl)| | **A**|| |:white_check_mark: | :warning:| |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS|BRO Monitor|
-|[https://bromonitor.nl](https://bromonitor.nl)| | **A**|| |:white_check_mark: | :warning:| |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS|BRO Monitor|
+|[https://www.bromonitor.nl](https://www.bromonitor.nl)| **A+**| **A**|| |:white_check_mark: | :warning:| |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS|BRO Monitor|
+|[https://bromonitor.nl](https://bromonitor.nl)| **A+**| **A**|| |:white_check_mark: | :warning:| |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS|BRO Monitor|
 

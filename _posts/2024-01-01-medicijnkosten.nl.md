@@ -5,7 +5,7 @@ permalink: "/dutchgov/medicijnkosten.nl.html"
 subdomains_count: 6
 all_subdomains_count: 13
 urls_count: 4
-ssl_rank: 
+ssl_rank: A+
 http_rank: C
 security_txt: 0
 url_link: /data/medicijnkosten.nl/urls.txt
@@ -20,7 +20,7 @@ tags: dutchgov
 ## Summary data
 
 
- - **SSL Grade**:
+ - **SSL Grade**:A+
  - **HTTP Security Grade**:C
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:0
 
@@ -37,8 +37,8 @@ tags: dutchgov
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://proto.medicijnkosten.nl](https://proto.medicijnkosten.nl)| | **F**|GitHub.com| | | :warning:| | | | | :white_check_mark: | |Fastly GitHub Pages Varnish|Medicijnkosten.n...|
-|[https://www.medicijnkosten.nl](https://www.medicijnkosten.nl)| | **B**|Solvinity Server|:white_check_mark: |:white_check_mark: | | |:warning: | | :white_check_mark: | :white_check_mark: | |HSTS|Medicijnkosten.n...|
-|[https://www-ac.medicijnkosten.nl](https://www-ac.medicijnkosten.nl)| | **B**|Solvinity Server|:white_check_mark: |:white_check_mark: | | |:warning: | | :white_check_mark: | :white_check_mark: | |HSTS|Medicijnkosten.n...|
-|[https://medicijnkosten.nl](https://medicijnkosten.nl)| | **B**|Apache|:white_check_mark: |:white_check_mark: | | |:warning: | | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS|301 Moved Perman...|
+|[https://proto.medicijnkosten.nl](https://proto.medicijnkosten.nl)| **A**| **F**|GitHub.com| | | :warning:| | | | | :white_check_mark: | |Fastly GitHub Pages Varnish|Medicijnkosten.n...|
+|[https://www.medicijnkosten.nl](https://www.medicijnkosten.nl)| **A+**| **B**|Solvinity Server|:white_check_mark: |:white_check_mark: | | |:warning: | | :white_check_mark: | :white_check_mark: | |HSTS|Medicijnkosten.n...|
+|[https://www-ac.medicijnkosten.nl](https://www-ac.medicijnkosten.nl)| **A+**| **B**|Solvinity Server|:white_check_mark: |:white_check_mark: | | |:warning: | | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS|Medicijnkosten.n...|
+|[https://medicijnkosten.nl](https://medicijnkosten.nl)| **A+**| **B**|Apache|:white_check_mark: |:white_check_mark: | | |:warning: | | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS|301 Moved Perman...|
 

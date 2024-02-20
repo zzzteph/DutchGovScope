@@ -5,7 +5,7 @@ permalink: "/dutchgov/incidentmanagement.nl.html"
 subdomains_count: 5
 all_subdomains_count: 5
 urls_count: 4
-ssl_rank: 
+ssl_rank: C
 http_rank: C
 security_txt: 2
 url_link: /data/incidentmanagement.nl/urls.txt
@@ -20,7 +20,7 @@ tags: dutchgov
 ## Summary data
 
 
- - **SSL Grade**:
+ - **SSL Grade**:C
  - **HTTP Security Grade**:C
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:2
 
@@ -37,8 +37,8 @@ tags: dutchgov
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://webshop.incidentmanagement.nl](https://webshop.incidentmanagement.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx||
-|[https://www.incidentmanagement.nl](https://www.incidentmanagement.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET|Object moved|
-|[https://www.webshop.incidentmanagement.nl](https://www.webshop.incidentmanagement.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx||
-|[https://incidentmanagement.nl](https://incidentmanagement.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET|Object moved|
+|[https://webshop.incidentmanagement.nl](https://webshop.incidentmanagement.nl)| **F**| **F**|nginx| | | | | | | | :white_check_mark: | |Nginx||
+|[https://www.incidentmanagement.nl](https://www.incidentmanagement.nl)| **A+**| **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET|Object moved|
+|[https://www.webshop.incidentmanagement.nl](https://www.webshop.incidentmanagement.nl)| **F**| **F**|nginx| | | | | | | | :white_check_mark: | |Nginx||
+|[https://incidentmanagement.nl](https://incidentmanagement.nl)| **A+**| **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET|Object moved|
 

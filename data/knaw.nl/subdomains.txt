@@ -1366,3 +1366,4 @@ wp-17.dev.huc.knaw.nl
 minio2.labs.dans.knaw.nl
 wp-05.dev.huc.knaw.nl
 vangogh-api.dev.huc.knaw.nl
+wp-10.dev.huc.knaw.nl

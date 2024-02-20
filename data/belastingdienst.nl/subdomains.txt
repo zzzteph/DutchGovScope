@@ -474,10 +474,4 @@ mijndouane.str12.tst.belastingdienst.nl
 vepana.vcdn.belastingdienst.nl
 sadp.belastingdienst.nl
 betaalportaal-cnf.belastingdienst.nl
-webservices-digin.belastingdienst.nl
-stturn-tst.belastingdienst.nl
-sipreg.belastingdienst.nl
-t-test.belastingdienst.nl
-gpa-rest-test.belastingdienst.nl
-idro.ont.belastingdienst.nl
 ontimegtw.ont.belastingdienst.nl

@@ -5,7 +5,7 @@ permalink: "/dutchgov/internetconsultatie.nl.html"
 subdomains_count: 7
 all_subdomains_count: 9
 urls_count: 4
-ssl_rank: 
+ssl_rank: B+
 http_rank: A
 security_txt: 1
 url_link: /data/internetconsultatie.nl/urls.txt
@@ -20,7 +20,7 @@ tags: dutchgov
 ## Summary data
 
 
- - **SSL Grade**:
+ - **SSL Grade**:B+
  - **HTTP Security Grade**:A
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:1
 
@@ -37,8 +37,8 @@ tags: dutchgov
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://acceptatie.internetconsultatie.nl](https://acceptatie.internetconsultatie.nl)| | **F**|BigIP| | | | | | | | :white_check_mark: | |F5 BigIP||
-|[https://cma.internetconsultatie.nl](https://cma.internetconsultatie.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Object moved|
-|[https://www.internetconsultatie.nl](https://www.internetconsultatie.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET|Overheid.nl | Co...|
-|[https://internetconsultatie.nl](https://internetconsultatie.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET|Overheid.nl | Co...|
+|[https://acceptatie.internetconsultatie.nl](https://acceptatie.internetconsultatie.nl)| **F**| **F**|BigIP| | | | | | | | :white_check_mark: | |F5 BigIP||
+|[https://cma.internetconsultatie.nl](https://cma.internetconsultatie.nl)| **A+**| **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Object moved|
+|[https://www.internetconsultatie.nl](https://www.internetconsultatie.nl)| **A+**| **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET|Overheid.nl | Co...|
+|[https://internetconsultatie.nl](https://internetconsultatie.nl)| **A+**| **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET|Overheid.nl | Co...|
 

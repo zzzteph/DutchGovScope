@@ -4,16 +4,16 @@
 ## Summary data
 
 
- - **SSL Grade**:B
+ - **SSL Grade**:C
  - **HTTP Security Grade**:F
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:2
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/veiligheidsregioflevoland.nl/subdomains.txt)|191|Alive subdomains|
+|[subdomains.txt](/data/veiligheidsregioflevoland.nl/subdomains.txt)|279|Alive subdomains|
 |[urls.txt](/data/veiligheidsregioflevoland.nl/urls.txt)|191|Urls|
-|[all_subdomains.txt](/data/veiligheidsregioflevoland.nl/all_subdomains.txt)|191|All found subdomains (history)|
+|[all_subdomains.txt](/data/veiligheidsregioflevoland.nl/all_subdomains.txt)|279|All found subdomains (history)|
 
 
 ## Statistics
@@ -30,9 +30,9 @@
 |[https://www.veiligheidsregioflevoland.nl](https://www.veiligheidsregioflevoland.nl)| **A**| **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:-|Home - Website V...|
 |[http://lelystadinternetwww.veiligheidsregioflevoland.nl](http://lelystadinternetwww.veiligheidsregioflevoland.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
 |[http://autodiscover.veiligheidsregioflevoland.nl](http://autodiscover.veiligheidsregioflevoland.nl)| | **B**|Microsoft-IIS/10.0|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server||
-|[https://enterpriseenrollment.veiligheidsregioflevoland.nl](https://enterpriseenrollment.veiligheidsregioflevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||
+|[https://enterpriseenrollment.veiligheidsregioflevoland.nl](https://enterpriseenrollment.veiligheidsregioflevoland.nl)| **F**| **E**|| | | | | | | | :white_check_mark: | |HSTS||
 |[https://msoid.veiligheidsregioflevoland.nl](https://msoid.veiligheidsregioflevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Object moved|
-|[https://enterpriseregistration.veiligheidsregioflevoland.nl](https://enterpriseregistration.veiligheidsregioflevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
+|[https://enterpriseregistration.veiligheidsregioflevoland.nl](https://enterpriseregistration.veiligheidsregioflevoland.nl)| **F**| **E**|| | | | | | | | :white_check_mark: | |||
 |[http://hostmaster.veiligheidsregioflevoland.nl](http://hostmaster.veiligheidsregioflevoland.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
 |[http://onedigital.veiligheidsregioflevoland.nl](http://onedigital.veiligheidsregioflevoland.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
 |[http://vfr.veiligheidsregioflevoland.nl](http://vfr.veiligheidsregioflevoland.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|

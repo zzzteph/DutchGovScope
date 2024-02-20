@@ -51,6 +51,6 @@
 |[https://hdsr.nl](https://hdsr.nl)| **A+**| **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:-|Object moved|
 |[https://kantoor.hdsr.nl](https://kantoor.hdsr.nl)| **A+**| **A**|xxxx|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Java|User Portal|
 |[https://intranet.ad.hdsr.nl](https://intranet.ad.hdsr.nl)| **A**| **B**|-|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Microsoft ASP.NET:-|Object moved|
-|[https://waterkwaliteitinbeeld.hdsr.nl](https://waterkwaliteitinbeeld.hdsr.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| | | :white_check_mark: | |HSTS Microsoft ASP.NET:-|Object moved|
+|[https://waterkwaliteitinbeeld.hdsr.nl](https://waterkwaliteitinbeeld.hdsr.nl)| **A+**| **A**|-| |:white_check_mark: | | | :white_check_mark:| | | :white_check_mark: | |HSTS Microsoft ASP.NET:-|Object moved|
 |[http://localhost.hdsr.nl](http://localhost.hdsr.nl)| | **D**|nginx| | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Nginx|Welcome to nginx...|
 

@@ -253,3 +253,5 @@ tridion.tweedekamer.nl
 autoconfig.beta.tweedekamer.nl
 plein2-acc.tweedekamer.nl
 plein2-test.tweedekamer.nl
+staging.beta.tweedekamer.nl
+uat.beta.tweedekamer.nl

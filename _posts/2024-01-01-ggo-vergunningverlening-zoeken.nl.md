@@ -5,7 +5,7 @@ permalink: "/dutchgov/ggo-vergunningverlening-zoeken.nl.html"
 subdomains_count: 5
 all_subdomains_count: 6
 urls_count: 4
-ssl_rank: 
+ssl_rank: A+
 http_rank: E
 security_txt: 0
 url_link: /data/ggo-vergunningverlening-zoeken.nl/urls.txt
@@ -20,7 +20,7 @@ tags: dutchgov
 ## Summary data
 
 
- - **SSL Grade**:
+ - **SSL Grade**:A+
  - **HTTP Security Grade**:E
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:0
 
@@ -38,7 +38,7 @@ tags: dutchgov
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[http://acceptatie.ggo-vergunningverlening-zoeken.nl](http://acceptatie.ggo-vergunningverlening-zoeken.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
-|[https://www.ggo-vergunningverlening-zoeken.nl](https://www.ggo-vergunningverlening-zoeken.nl)| | **D**|Microsoft-IIS/8.5|:warning: |:white_check_mark: | | | | | | :white_check_mark: | |HSTS IIS:8.5 Microsoft ASP.NET Windows Server|Grip web|
-|[https://ggo-vergunningverlening-zoeken.nl](https://ggo-vergunningverlening-zoeken.nl)| | **D**|Microsoft-IIS/8.5|:warning: |:white_check_mark: | | | | | | :white_check_mark: | |HSTS IIS:8.5 Microsoft ASP.NET:4.0.30319 Windows Server|Grip web|
+|[https://www.ggo-vergunningverlening-zoeken.nl](https://www.ggo-vergunningverlening-zoeken.nl)| **A+**| **D**|Microsoft-IIS/8.5|:warning: |:white_check_mark: | | | | | | :white_check_mark: | |HSTS IIS:8.5 Microsoft ASP.NET:4.0.30319 Windows Server|Grip web|
+|[https://ggo-vergunningverlening-zoeken.nl](https://ggo-vergunningverlening-zoeken.nl)| **A+**| **D**|Microsoft-IIS/8.5|:warning: |:white_check_mark: | | | | | | :white_check_mark: | |HSTS IIS:8.5 Microsoft ASP.NET:4.0.30319 Windows Server|Grip web|
 |[http://localhost.ggo-vergunningverlening-zoeken.nl](http://localhost.ggo-vergunningverlening-zoeken.nl)| | **D**|nginx| | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Nginx|Welcome to nginx...|
 

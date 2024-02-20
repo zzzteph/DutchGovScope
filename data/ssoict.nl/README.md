@@ -11,7 +11,7 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/ssoict.nl/subdomains.txt)|96|Alive subdomains|
+|[subdomains.txt](/data/ssoict.nl/subdomains.txt)|98|Alive subdomains|
 |[urls.txt](/data/ssoict.nl/urls.txt)|6|Urls|
 |[all_subdomains.txt](/data/ssoict.nl/all_subdomains.txt)|117|All found subdomains (history)|
 

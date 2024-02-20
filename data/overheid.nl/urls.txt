@@ -165,7 +165,7 @@ https://ruimte.dmo.omgevingswet.overheid.nl
 https://ruimte.int.omgevingswet.overheid.nl
 https://ruimte.kta.omgevingswet.overheid.nl
 https://ruimte.omgevingswet.overheid.nl
-https://ruimte.pfm.omgevingswet.overheid.nl
+http://ruimte.pfm.omgevingswet.overheid.nl
 https://ruimte.pre.omgevingswet.overheid.nl
 https://service.acc.omgevingswet.overheid.nl
 https://service.bta.omgevingswet.overheid.nl

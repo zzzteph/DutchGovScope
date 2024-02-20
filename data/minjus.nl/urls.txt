@@ -22,5 +22,4 @@ https://schedule.acpt.dji.minjus.nl
 https://sip003.dji.minjus.nl
 https://schedule.dji.minjus.nl
 https://enterpriseenrollment.avt.minjus.nl
-https://meet.acpt.dji.minjus.nl
 https://enterpriseenrollment.minjus.nl

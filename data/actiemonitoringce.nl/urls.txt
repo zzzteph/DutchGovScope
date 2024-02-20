@@ -1,2 +1,3 @@
 https://www.actiemonitoringce.nl
 https://actiemonitoringce.nl
+http://localhost.actiemonitoringce.nl

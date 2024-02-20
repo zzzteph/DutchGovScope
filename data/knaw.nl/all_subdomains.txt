@@ -1821,3 +1821,5 @@ minio2.labs.dans.knaw.nl
 wp-05.dev.huc.knaw.nl
 vangogh-api.dev.huc.knaw.nl
 wp-10.dev.huc.knaw.nl
+wp-01.dev.huc.knaw.nl
+ai-similia.labs.dans.knaw.nl

@@ -217,3 +217,5 @@ hlf.flevoland.nl
 ldap.flevoland.nl
 msoid.flevoland.nl
 uat.flevoland.nl
+vhqibws1wd01.fra3.sap.flevoland.nl
+vhqibdclcc01.fra3.sap.flevoland.nl

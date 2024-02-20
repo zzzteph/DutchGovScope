@@ -21,6 +21,6 @@
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://www.zeroemissiedoelgroepenvervoer.nl](https://www.zeroemissiedoelgroepenvervoer.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Object moved per...|
-|[https://zeroemissiedoelgroepenvervoer.nl](https://zeroemissiedoelgroepenvervoer.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Object moved per...|
+|[https://www.zeroemissiedoelgroepenvervoer.nl](https://www.zeroemissiedoelgroepenvervoer.nl)| **F**| **E**|| | | | | | | | :white_check_mark: | ||Object moved per...|
+|[https://zeroemissiedoelgroepenvervoer.nl](https://zeroemissiedoelgroepenvervoer.nl)| **F**| **E**|| | | | | | | | :white_check_mark: | ||Object moved per...|
 

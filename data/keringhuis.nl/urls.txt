@@ -6,3 +6,4 @@ https://www.symposium.keringhuis.nl
 https://keringhuis.nl
 http://localhost.keringhuis.nl
 https://pop.keringhuis.nl
+http://autodiscover.keringhuis.nl

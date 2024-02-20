@@ -7,7 +7,7 @@ all_subdomains_count: 23
 urls_count: 12
 ssl_rank: B+
 http_rank: C
-security_txt: 4
+security_txt: 6
 url_link: /data/mobiliteitsbank.nl/urls.txt
 all_subdomains_link: /data/mobiliteitsbank.nl/all_subdomains.txt
 subdomains_link: /data/mobiliteitsbank.nl/subdomains.txt
@@ -22,7 +22,7 @@ tags: dutchgov
 
  - **SSL Grade**:B+
  - **HTTP Security Grade**:C
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:4
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:6
 
 
 | File       | Count | Info |

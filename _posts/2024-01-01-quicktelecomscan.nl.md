@@ -5,7 +5,7 @@ permalink: "/dutchgov/quicktelecomscan.nl.html"
 subdomains_count: 3
 all_subdomains_count: 3
 urls_count: 3
-ssl_rank: 
+ssl_rank: A
 http_rank: D
 security_txt: 2
 url_link: /data/quicktelecomscan.nl/urls.txt
@@ -20,7 +20,7 @@ tags: dutchgov
 ## Summary data
 
 
- - **SSL Grade**:
+ - **SSL Grade**:A
  - **HTTP Security Grade**:D
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:2
 
@@ -37,7 +37,7 @@ tags: dutchgov
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://www.quicktelecomscan.nl](https://www.quicktelecomscan.nl)| | **D**|nginx/1.20.1| | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Nginx:1.20.1 PHP||
-|[https://quicktelecomscan.nl](https://quicktelecomscan.nl)| | **D**|nginx/1.20.1| | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Nginx:1.20.1 PHP||
+|[https://www.quicktelecomscan.nl](https://www.quicktelecomscan.nl)| **A**| **D**|nginx/1.20.1| | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Nginx:1.20.1 PHP||
+|[https://quicktelecomscan.nl](https://quicktelecomscan.nl)| **A**| **D**|nginx/1.20.1| | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Nginx:1.20.1 PHP||
 |[https://email.mg.quicktelecomscan.nl](https://email.mg.quicktelecomscan.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 

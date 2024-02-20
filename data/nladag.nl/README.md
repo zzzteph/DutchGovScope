@@ -4,7 +4,7 @@
 ## Summary data
 
 
- - **SSL Grade**:
+ - **SSL Grade**:A
  - **HTTP Security Grade**:F
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:1
 
@@ -22,6 +22,6 @@
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[https://nladag.nl](https://nladag.nl)| | **E**|cloudflare|:o: |:white_check_mark: | | | | | | :white_check_mark: | |Cloudflare HSTS HTTP/3 PHP|Home NL Arbeidsi...|
-|[https://mail.nladag.nl](https://mail.nladag.nl)| | **F**|Apache|:o: | | | | | | | :white_check_mark: | |Apache HTTP Server PHP||
+|[https://mail.nladag.nl](https://mail.nladag.nl)| **A**| **F**|Apache|:o: | | | | | | | :white_check_mark: | |Apache HTTP Server PHP||
 |[https://www.nladag.nl](https://www.nladag.nl)| | **E**|cloudflare|:o: |:white_check_mark: | | | | | | :white_check_mark: | |Cloudflare HSTS HTTP/3 PHP||
 

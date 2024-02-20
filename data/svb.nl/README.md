@@ -6,7 +6,7 @@
 
  - **SSL Grade**:B+
  - **HTTP Security Grade**:C
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:26
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:25
 
 
 | File       | Count | Info |
@@ -24,7 +24,7 @@
 |[https://rdsapplications03.svb.nl](https://rdsapplications03.svb.nl)| **A**| **F**|Microsoft-IIS/10.0| | | | | | | | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server|IIS Windows Serv...|
 |[https://cmsintranet.svb.nl](https://cmsintranet.svb.nl)| **A+**| **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|403 - Forbidden:...|
 |[https://applicationstest.svb.nl](https://applicationstest.svb.nl)| **A**| **F**|Microsoft-IIS/10.0| | | | | | | | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server|IIS Windows Serv...|
-|[https://gemeenten.svb.nl](https://gemeenten.svb.nl)| **B**| **A**||:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
+|[https://gemeenten.svb.nl](https://gemeenten.svb.nl)| **B**| **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[http://cb.entreepgb.svb.nl](http://cb.entreepgb.svb.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://secure5.svb.nl](https://secure5.svb.nl)| **B**| **C**||:warning: |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS|Sociale Verzeker...|
 |[https://rdsapplications07.svb.nl](https://rdsapplications07.svb.nl)| **A**| **F**|Microsoft-IIS/10.0| | | | | | | | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server|IIS Windows Serv...|
@@ -34,14 +34,14 @@
 |[https://mijnsvb.svb.nl](https://mijnsvb.svb.nl)| **B**| **A**||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|302 Found|
 |[https://live.svb.nl](https://live.svb.nl)| | **C**|cloudflare| |:white_check_mark: | | | | | | :white_check_mark: | |Cloudflare HSTS|Page Not Found|
 |[https://remotedesktop.svb.nl](https://remotedesktop.svb.nl)| **A**| **F**|Microsoft-IIS/10.0| | | | | | | | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server|IIS Windows Serv...|
-|[https://autorization.entreepgb.svb.nl](https://autorization.entreepgb.svb.nl)| **A+**| **A**|Webserver|:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET|Inloggen - PGB P...|
-|[https://portal.entreepgb.svb.nl](https://portal.entreepgb.svb.nl)| | **A**|Webserver|:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
-|[https://pgbverwerkingservice.entreepgb.svb.nl](https://pgbverwerkingservice.entreepgb.svb.nl)| **F**| **F**|Webserver| | | | | | | | :white_check_mark: | |HSTS|403 - Forbidden:...|
+|[https://autorization.entreepgb.svb.nl](https://autorization.entreepgb.svb.nl)| **A+**| **A**|Webserver| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Google Tag Manager HSTS|Foutpagina|
+|[https://portal.entreepgb.svb.nl](https://portal.entreepgb.svb.nl)| | **A**|Webserver| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Google Tag Manager HSTS|Foutpagina|
+|[https://pgbverwerkingservice.entreepgb.svb.nl](https://pgbverwerkingservice.entreepgb.svb.nl)| **F**| **F**|Webserver| | | | | | | | :white_check_mark: | |Google Tag Manager HSTS|Foutpagina|
 |[https://app.svb.nl](https://app.svb.nl)| | **A**||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |||
 |[https://mft-acc.svb.nl](https://mft-acc.svb.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Redirect|
 |[https://app-o.svb.nl](https://app-o.svb.nl)| **A**| **A**||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |||
 |[https://rdsapplications10.svb.nl](https://rdsapplications10.svb.nl)| | **F**|Microsoft-IIS/10.0| | | | | | | | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server|IIS Windows Serv...|
-|[https://onderzoek.svb.nl](https://onderzoek.svb.nl)| **A**| **A**|BigIP|:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |F5 BigIP||
+|[https://onderzoek.svb.nl](https://onderzoek.svb.nl)| **A**| **A**|BigIP| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |F5 BigIP||
 |[https://apps.svb.nl](https://apps.svb.nl)| **B**| **E**|| | | | | | | | :white_check_mark: | ||404 Not Found|
 |[https://rdsapplications00.svb.nl](https://rdsapplications00.svb.nl)| | **F**|Microsoft-IIS/10.0| | | | | | | | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server|IIS Windows Serv...|
 |[https://mijnwmo-siam.svb.nl](https://mijnwmo-siam.svb.nl)| **B**| **A**||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|A-Select Filter...|
@@ -64,7 +64,7 @@
 |[http://www.entreepgb.svb.nl](http://www.entreepgb.svb.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://rdsapplications04.svb.nl](https://rdsapplications04.svb.nl)| **A**| **F**|Microsoft-IIS/10.0| | | | | | | | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server|IIS Windows Serv...|
 |[https://rdsapplications02.svb.nl](https://rdsapplications02.svb.nl)| **A**| **F**|Microsoft-IIS/10.0| | | | | | | | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server|IIS Windows Serv...|
-|[https://test-cmsintranet.svb.nl](https://test-cmsintranet.svb.nl)| **A+**| **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|403 - Forbidden:...|
+|[https://test-cmsintranet.svb.nl](https://test-cmsintranet.svb.nl)| **A+**| **A**|Microsoft-IIS/8.5| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS IIS:8.5 Windows Server|403 - Forbidden:...|
 |[https://rdsapplications01.svb.nl](https://rdsapplications01.svb.nl)| **A**| **F**|Microsoft-IIS/10.0| | | | | | | | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server|IIS Windows Serv...|
 |[https://downloaddomain.svb.nl](https://downloaddomain.svb.nl)| **A**| **B**|BigIP|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |F5 BigIP||
 |[https://internetdienstensiam.svb.nl](https://internetdienstensiam.svb.nl)| **B**| **A**||:warning: |:white_check_mark: | :warning:| | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|SVB foutmelding|

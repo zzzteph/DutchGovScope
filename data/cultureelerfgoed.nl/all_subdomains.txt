@@ -129,3 +129,4 @@ a-opendata.cultureelerfgoed.nl
 a-english.cultureelerfgoed.nl
 ipv6.cultureelerfgoed.nl
 wfs.cultureelerfgoed.nl
+toegankelijkheidsonderzoek-monumentenregister.cultureelerfgoed.nl

@@ -2,7 +2,7 @@
 layout: default
 title: "atlasleefomgeving.nl"
 permalink: "/dutchgov/atlasleefomgeving.nl.html"
-subdomains_count: 11
+subdomains_count: 12
 all_subdomains_count: 13
 urls_count: 5
 ssl_rank: C
@@ -27,7 +27,7 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/atlasleefomgeving.nl/subdomains.txt)|11|Alive subdomains|
+|[subdomains.txt](/DutchGovScope/data/atlasleefomgeving.nl/subdomains.txt)|12|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/atlasleefomgeving.nl/urls.txt)|5|Urls|
 |[all_subdomains.txt](/DutchGovScope/data/atlasleefomgeving.nl/all_subdomains.txt)|13|All found subdomains (history)|
 
@@ -39,7 +39,7 @@ tags: dutchgov
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[http://acceptatie.atlasleefomgeving.nl](http://acceptatie.atlasleefomgeving.nl)| **A**| **E**|| | | | | | | | :white_check_mark: | |||
 |[https://prd.atlasleefomgeving.nl](https://prd.atlasleefomgeving.nl)| **F**| **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|webserver|
-|[https://rivm.atlasleefomgeving.nl](https://rivm.atlasleefomgeving.nl)| **F**| **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS||
+|[http://rivm.atlasleefomgeving.nl](http://rivm.atlasleefomgeving.nl)| **F**| **E**|| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS||
 |[https://www.atlasleefomgeving.nl](https://www.atlasleefomgeving.nl)| **A+**| **A**|Apache| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Apache HTTP Server Drupal HSTS PHP|Atlas Leefomgevi...|
 |[https://atlasleefomgeving.nl](https://atlasleefomgeving.nl)| **A+**| **A**|Apache| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Apache HTTP Server HSTS|301 Moved Perman...|
 

@@ -3,7 +3,7 @@ layout: default
 title: "ssc-campus.nl"
 permalink: "/dutchgov/ssc-campus.nl.html"
 subdomains_count: 34
-all_subdomains_count: 544
+all_subdomains_count: 546
 urls_count: 18
 ssl_rank: C
 http_rank: D
@@ -29,7 +29,7 @@ tags: dutchgov
 |------------|-------|------|
 |[subdomains.txt](/DutchGovScope/data/ssc-campus.nl/subdomains.txt)|34|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/ssc-campus.nl/urls.txt)|18|Urls|
-|[all_subdomains.txt](/DutchGovScope/data/ssc-campus.nl/all_subdomains.txt)|544|All found subdomains (history)|
+|[all_subdomains.txt](/DutchGovScope/data/ssc-campus.nl/all_subdomains.txt)|546|All found subdomains (history)|
 
 
 ## Statistics
@@ -43,7 +43,7 @@ tags: dutchgov
 |[https://connect-mp.ssc-campus.nl](https://connect-mp.ssc-campus.nl)| **B**| **F**|BigIP|:warning: | | | | | :white_check_mark: | | :white_check_mark: | |F5 BigIP||
 |[https://esp.ssc-campus.nl](https://esp.ssc-campus.nl)| **B**| **C**|Apache| |:white_check_mark: | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|Access Gateway|
 |[https://fs.ssc-campus.nl](https://fs.ssc-campus.nl)| **B**| **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
-|[http://login.ssc-campus.nl](http://login.ssc-campus.nl)| **B**| **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Java||
+|[https://login.ssc-campus.nl](https://login.ssc-campus.nl)| **B**| **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Java||
 |[https://mededeling.ssc-campus.nl](https://mededeling.ssc-campus.nl)| **F**| **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|301 Moved Perman...|
 |[https://modellenplatform.ssc-campus.nl](https://modellenplatform.ssc-campus.nl)| **B**| **B**|Apache|:warning: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
 |[https://modellenplatform-rekenen.ssc-campus.nl](https://modellenplatform-rekenen.ssc-campus.nl)| **A+**| **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS||

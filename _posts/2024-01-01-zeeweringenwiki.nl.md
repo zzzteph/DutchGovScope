@@ -5,7 +5,7 @@ permalink: "/dutchgov/zeeweringenwiki.nl.html"
 subdomains_count: 4
 all_subdomains_count: 4
 urls_count: 4
-ssl_rank: 
+ssl_rank: A
 http_rank: F
 security_txt: 0
 url_link: /data/zeeweringenwiki.nl/urls.txt
@@ -20,7 +20,7 @@ tags: dutchgov
 ## Summary data
 
 
- - **SSL Grade**:
+ - **SSL Grade**:A
  - **HTTP Security Grade**:F
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:0
 
@@ -37,8 +37,8 @@ tags: dutchgov
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://mail.zeeweringenwiki.nl](https://mail.zeeweringenwiki.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|403 Forbidden|
-|[https://www.zeeweringenwiki.nl](https://www.zeeweringenwiki.nl)| | **F**|Apache|:white_check_mark: | | | | | | | :white_check_mark: | |Apache HTTP Server|301 Moved Perman...|
-|[https://zeeweringenwiki.nl](https://zeeweringenwiki.nl)| | **F**|Apache|:white_check_mark: | | | | | | | :white_check_mark: | |Apache HTTP Server|301 Moved Perman...|
+|[https://mail.zeeweringenwiki.nl](https://mail.zeeweringenwiki.nl)| **A**| **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|403 Forbidden|
+|[https://www.zeeweringenwiki.nl](https://www.zeeweringenwiki.nl)| **A**| **F**|Apache|:white_check_mark: | | | | | | | :white_check_mark: | |Apache HTTP Server|301 Moved Perman...|
+|[https://zeeweringenwiki.nl](https://zeeweringenwiki.nl)| **A**| **F**|Apache|:white_check_mark: | | | | | | | :white_check_mark: | |Apache HTTP Server|301 Moved Perman...|
 |[https://ftp.zeeweringenwiki.nl](https://ftp.zeeweringenwiki.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server||
 

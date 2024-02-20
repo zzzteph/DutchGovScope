@@ -4,7 +4,7 @@
 ## Summary data
 
 
- - **SSL Grade**:
+ - **SSL Grade**:A
  - **HTTP Security Grade**:D
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:3
 
@@ -21,18 +21,18 @@
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://acceptatie.istandaarden.nl](https://acceptatie.istandaarden.nl)| | **B**|istio-envoy|:white_check_mark: |:white_check_mark: | | |:warning: | | :white_check_mark: | :white_check_mark: | |||
-|[https://informatiemodel.istandaarden.nl](https://informatiemodel.istandaarden.nl)| | **F**|nginx/1.14.0 (Ubuntu)| | | | | | | | :white_check_mark: | |HSTS Nginx:1.14.0 Ubuntu||
-|[https://modules.istandaarden.nl](https://modules.istandaarden.nl)| | **B**|istio-envoy|:white_check_mark: |:white_check_mark: | | |:warning: | | :white_check_mark: | :white_check_mark: | |||
-|[https://proto.istandaarden.nl](https://proto.istandaarden.nl)| | **F**|GitHub.com| | | :warning:| | | | | :white_check_mark: | |Fastly GitHub Pages Varnish|Home|
-|[https://registry.istandaarden.nl](https://registry.istandaarden.nl)| | **F**|istio-envoy| | | | | | | | :white_check_mark: | |Envoy||
-|[https://repository.istandaarden.nl](https://repository.istandaarden.nl)| | **C**|istio-envoy|:white_check_mark: | | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Envoy||
-|[https://sso.istandaarden.nl](https://sso.istandaarden.nl)| | **F**|istio-envoy| | | | | | | | :white_check_mark: | |||
-|[https://sso.acceptatie.istandaarden.nl](https://sso.acceptatie.istandaarden.nl)| | **F**|istio-envoy| | | | | | | | :white_check_mark: | |||
-|[https://www.istandaarden.nl](https://www.istandaarden.nl)| | **B**|Solvinity Server|:white_check_mark: |:white_check_mark: | | |:warning: | | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS|iStandaarden|
-|[https://www-ac.istandaarden.nl](https://www-ac.istandaarden.nl)| | **B**|Solvinity Server|:white_check_mark: |:white_check_mark: | | |:warning: | | :white_check_mark: | :white_check_mark: | |HSTS|iStandaarden|
-|[https://istandaarden.nl](https://istandaarden.nl)| | **B**|Apache|:white_check_mark: |:white_check_mark: | | |:warning: | | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS|301 Moved Perman...|
-|[https://registry.acceptatie.istandaarden.nl](https://registry.acceptatie.istandaarden.nl)| | **F**|istio-envoy| | | | | | | | :white_check_mark: | |Envoy||
-|[https://repository.acceptatie.istandaarden.nl](https://repository.acceptatie.istandaarden.nl)| | **C**|istio-envoy|:white_check_mark: | | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Envoy||
+|[https://acceptatie.istandaarden.nl](https://acceptatie.istandaarden.nl)| **A**| **B**|istio-envoy|:white_check_mark: |:white_check_mark: | | |:warning: | | :white_check_mark: | :white_check_mark: | |||
+|[https://informatiemodel.istandaarden.nl](https://informatiemodel.istandaarden.nl)| **A+**| **F**|nginx/1.14.0 (Ubuntu)| | | | | | | | :white_check_mark: | |HSTS Nginx:1.14.0 Ubuntu||
+|[https://modules.istandaarden.nl](https://modules.istandaarden.nl)| **A**| **B**|istio-envoy|:white_check_mark: |:white_check_mark: | | |:warning: | | :white_check_mark: | :white_check_mark: | |||
+|[https://proto.istandaarden.nl](https://proto.istandaarden.nl)| **A**| **F**|GitHub.com| | | :warning:| | | | | :white_check_mark: | |Fastly GitHub Pages Varnish|Home|
+|[https://registry.istandaarden.nl](https://registry.istandaarden.nl)| **A**| **F**|istio-envoy| | | | | | | | :white_check_mark: | |Envoy||
+|[https://repository.istandaarden.nl](https://repository.istandaarden.nl)| **A**| **C**|istio-envoy|:white_check_mark: | | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Envoy||
+|[https://sso.istandaarden.nl](https://sso.istandaarden.nl)| **A**| **F**|istio-envoy| | | | | | | | :white_check_mark: | |||
+|[https://sso.acceptatie.istandaarden.nl](https://sso.acceptatie.istandaarden.nl)| **A**| **F**|istio-envoy| | | | | | | | :white_check_mark: | |||
+|[https://www.istandaarden.nl](https://www.istandaarden.nl)| **A+**| **B**|Solvinity Server|:white_check_mark: |:white_check_mark: | | |:warning: | | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS|iStandaarden|
+|[https://www-ac.istandaarden.nl](https://www-ac.istandaarden.nl)| **A+**| **B**|Solvinity Server|:white_check_mark: |:white_check_mark: | | |:warning: | | :white_check_mark: | :white_check_mark: | |HSTS|iStandaarden|
+|[https://istandaarden.nl](https://istandaarden.nl)| **A+**| **B**|Apache|:white_check_mark: |:white_check_mark: | | |:warning: | | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS|301 Moved Perman...|
+|[https://registry.acceptatie.istandaarden.nl](https://registry.acceptatie.istandaarden.nl)| **A**| **F**|istio-envoy| | | | | | | | :white_check_mark: | |Envoy||
+|[https://repository.acceptatie.istandaarden.nl](https://repository.acceptatie.istandaarden.nl)| **A**| **C**|istio-envoy|:white_check_mark: | | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Envoy||
 |[http://pm-bounces.istandaarden.nl](http://pm-bounces.istandaarden.nl)| | **F**|nginx/1.25.3| | | | | | | | :white_check_mark: | |Nginx:1.25.3|Postmark — Email...|
 

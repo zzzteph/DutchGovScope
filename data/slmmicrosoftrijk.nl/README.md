@@ -4,7 +4,7 @@
 ## Summary data
 
 
- - **SSL Grade**:
+ - **SSL Grade**:A
  - **HTTP Security Grade**:F
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:0
 
@@ -21,6 +21,6 @@
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://www.slmmicrosoftrijk.nl](https://www.slmmicrosoftrijk.nl)| | **F**|nginx/1.24.0| | | | | | | | :white_check_mark: | |Nginx:1.24.0||
-|[https://slmmicrosoftrijk.nl](https://slmmicrosoftrijk.nl)| | **F**|nginx/1.24.0| | | | | | | | :white_check_mark: | |MySQL Nginx:1.24.0 PHP WordPress Yoast SEO:22.0|Home - SLM Micro...|
+|[https://www.slmmicrosoftrijk.nl](https://www.slmmicrosoftrijk.nl)| **A**| **F**|nginx/1.24.0| | | | | | | | :white_check_mark: | |Nginx:1.24.0||
+|[https://slmmicrosoftrijk.nl](https://slmmicrosoftrijk.nl)| **A**| **F**|nginx/1.24.0| | | | | | | | :white_check_mark: | |MySQL Nginx:1.24.0 PHP WordPress Yoast SEO:22.0|Home - SLM Micro...|
 

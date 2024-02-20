@@ -1,8 +1,8 @@
 https://mail.bewustbodemgebruik.nl
-https://www.bewustbodemgebruik.nl
+http://www.bewustbodemgebruik.nl
 https://bewustbodemgebruik.nl
 https://autoconfig.bewustbodemgebruik.nl
-http://autodiscover.bewustbodemgebruik.nl
+https://autodiscover.bewustbodemgebruik.nl
 https://ftp.bewustbodemgebruik.nl
 https://ssh.bewustbodemgebruik.nl
 http://localhost.bewustbodemgebruik.nl

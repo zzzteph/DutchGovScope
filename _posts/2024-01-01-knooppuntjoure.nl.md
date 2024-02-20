@@ -5,7 +5,7 @@ permalink: "/dutchgov/knooppuntjoure.nl.html"
 subdomains_count: 6
 all_subdomains_count: 6
 urls_count: 6
-ssl_rank: 
+ssl_rank: B
 http_rank: F
 security_txt: 2
 url_link: /data/knooppuntjoure.nl/urls.txt
@@ -20,7 +20,7 @@ tags: dutchgov
 ## Summary data
 
 
- - **SSL Grade**:
+ - **SSL Grade**:B
  - **HTTP Security Grade**:F
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:2
 
@@ -37,9 +37,9 @@ tags: dutchgov
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://mail.knooppuntjoure.nl](https://mail.knooppuntjoure.nl)| | **F**|cloudflare| | | | | | | | :white_check_mark: | |Cloudflare HTTP/3||
-|[https://www.knooppuntjoure.nl](https://www.knooppuntjoure.nl)| | **F**|cloudflare| | | | | | | | :white_check_mark: | |Cloudflare HTTP/3 MySQL PHP:8.0.30 WordPress|Knooppuntjoure.n...|
-|[https://knooppuntjoure.nl](https://knooppuntjoure.nl)| | **F**|cloudflare| | | | | | | | :white_check_mark: | |Cloudflare HTTP/3 PHP:8.0.30||
+|[https://mail.knooppuntjoure.nl](https://mail.knooppuntjoure.nl)| **B**| **F**|cloudflare| | | | | | | | :white_check_mark: | |Cloudflare HTTP/3||
+|[https://www.knooppuntjoure.nl](https://www.knooppuntjoure.nl)| **B**| **F**|cloudflare| | | | | | | | :white_check_mark: | |Cloudflare HTTP/3 MySQL PHP:8.0.30 WordPress|Knooppuntjoure.n...|
+|[https://knooppuntjoure.nl](https://knooppuntjoure.nl)| **B**| **F**|cloudflare| | | | | | | | :white_check_mark: | |Cloudflare HTTP/3 PHP:8.0.30||
 |[https://pop.knooppuntjoure.nl](https://pop.knooppuntjoure.nl)| | **F**|cloudflare| | | | | | | | :white_check_mark: | |Cloudflare HTTP/3||
 |[https://smtp.knooppuntjoure.nl](https://smtp.knooppuntjoure.nl)| | **F**|cloudflare| | | | | | | | :white_check_mark: | |Cloudflare HTTP/3||
 |[https://ftp.knooppuntjoure.nl](https://ftp.knooppuntjoure.nl)| | **F**|cloudflare| | | | | | | | :white_check_mark: | |Cloudflare HTTP/3||

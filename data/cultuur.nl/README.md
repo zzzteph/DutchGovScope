@@ -6,7 +6,7 @@
 
  - **SSL Grade**:B
  - **HTTP Security Grade**:E
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:3
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:4
 
 
 | File       | Count | Info |
@@ -30,5 +30,5 @@
 |[https://cloud.cultuur.nl](https://cloud.cultuur.nl)| | **E**|Microsoft-IIS/10.0| | | | | | :white_check_mark: | | :white_check_mark: | |IIS:10.0 Windows Server||
 |[https://autodiscover.cultuur.nl](https://autodiscover.cultuur.nl)| | **F**|Microsoft-IIS/10.0| | | | | | | | :white_check_mark: | |IIS:10.0 Windows Server||
 |[https://intranet.cultuur.nl](https://intranet.cultuur.nl)| | **F**|Microsoft-IIS/10.0| | | | | | | | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Microsoft SharePoint:16.0.0.10389 NTLM Windows Server||
-|[https://cultuur.nl](https://cultuur.nl)| **F**| **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
+|[https://cultuur.nl](https://cultuur.nl)| **F**| **A**|Microsoft-IIS/8.5| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |IIS:8.5 Microsoft ASP.NET Windows Server|Document Moved|
 

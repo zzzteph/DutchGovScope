@@ -4,3 +4,4 @@ https://dialin.regioburgemeesters.nl
 https://lyncdiscover.regioburgemeesters.nl
 https://meet.regioburgemeesters.nl
 https://sip.regioburgemeesters.nl
+https://redactie.regioburgemeesters.nl

@@ -4,10 +4,10 @@ title: "toeslagen.nl"
 permalink: "/dutchgov/toeslagen.nl.html"
 subdomains_count: 38
 all_subdomains_count: 61
-urls_count: 11
+urls_count: 12
 ssl_rank: A+
 http_rank: B
-security_txt: 8
+security_txt: 9
 url_link: /data/toeslagen.nl/urls.txt
 all_subdomains_link: /data/toeslagen.nl/all_subdomains.txt
 subdomains_link: /data/toeslagen.nl/subdomains.txt
@@ -22,13 +22,13 @@ tags: dutchgov
 
  - **SSL Grade**:A+
  - **HTTP Security Grade**:B
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:8
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:9
 
 
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/DutchGovScope/data/toeslagen.nl/subdomains.txt)|38|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/toeslagen.nl/urls.txt)|11|Urls|
+|[urls.txt](/DutchGovScope/data/toeslagen.nl/urls.txt)|12|Urls|
 |[all_subdomains.txt](/DutchGovScope/data/toeslagen.nl/all_subdomains.txt)|61|All found subdomains (history)|
 
 
@@ -47,5 +47,6 @@ tags: dutchgov
 |[https://fed01.toeslagen.nl](https://fed01.toeslagen.nl)| **A+**| **C**||:warning: |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS|403 - Forbidden:...|
 |[http://inkomen.toeslagen.nl](http://inkomen.toeslagen.nl)| | **F**|BigIP| | | | | | | | :white_check_mark: | |F5 BigIP||
 |[https://fibt1.toeslagen.nl](https://fibt1.toeslagen.nl)| **A**| **E**|| | | | | | | | :white_check_mark: | ||Request Rejected|
-|[https://werken.toeslagen.nl](https://werken.toeslagen.nl)| **A**| **A**|Ponos Maximum|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Werken bij de Be...|
+|[https://werken.toeslagen.nl](https://werken.toeslagen.nl)| **A**| **A**|Ponos Maximum| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS||
+|[https://werkenbij.toeslagen.nl](https://werkenbij.toeslagen.nl)| | **A**|Ponos Maximum| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS||
 

@@ -542,3 +542,5 @@ radius1.ssc-campus.nl
 radius2.ssc-campus.nl
 rhaap-hub.int.ssc-campus.nl
 rhaap-ontwikkel.int.ssc-campus.nl
+rivm-prapp-l02t.rivm.ssc-campus.nl
+sscc-ddict-a01p.ddi.ssc-campus.nl

@@ -5,7 +5,7 @@ permalink: "/dutchgov/samenbouwenaanbereikbaarheid.nl.html"
 subdomains_count: 4
 all_subdomains_count: 5
 urls_count: 4
-ssl_rank: 
+ssl_rank: B-
 http_rank: E
 security_txt: 2
 url_link: /data/samenbouwenaanbereikbaarheid.nl/urls.txt
@@ -20,7 +20,7 @@ tags: dutchgov
 ## Summary data
 
 
- - **SSL Grade**:
+ - **SSL Grade**:B-
  - **HTTP Security Grade**:E
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:2
 
@@ -37,8 +37,8 @@ tags: dutchgov
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://samenbouwenaanbereikbaarheid.nl](https://samenbouwenaanbereikbaarheid.nl)| | **C**|| |:white_check_mark: | :warning:| | | | | :white_check_mark: | |HSTS||
-|[https://www.samenbouwenaanbereikbaarheid.nl](https://www.samenbouwenaanbereikbaarheid.nl)| | **D**|nginx| |:white_check_mark: | :warning:| | | | | :white_check_mark: | |Glyphicons HSTS Nginx|Home :: Samen Bo...|
-|[https://staging.samenbouwenaanbereikbaarheid.nl](https://staging.samenbouwenaanbereikbaarheid.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
+|[https://samenbouwenaanbereikbaarheid.nl](https://samenbouwenaanbereikbaarheid.nl)| **A+**| **C**|| |:white_check_mark: | :warning:| | | | | :white_check_mark: | |HSTS||
+|[https://www.samenbouwenaanbereikbaarheid.nl](https://www.samenbouwenaanbereikbaarheid.nl)| **A+**| **D**|nginx| |:white_check_mark: | :warning:| | | | | :white_check_mark: | |Glyphicons HSTS Nginx|Home :: Samen Bo...|
+|[https://staging.samenbouwenaanbereikbaarheid.nl](https://staging.samenbouwenaanbereikbaarheid.nl)| **F**| **E**|| | | | | | | | :white_check_mark: | |||
 |[http://pm-bounces.samenbouwenaanbereikbaarheid.nl](http://pm-bounces.samenbouwenaanbereikbaarheid.nl)| | **F**|nginx/1.25.3| | | | | | | | :white_check_mark: | |Nginx:1.25.3|Postmark — Email...|
 

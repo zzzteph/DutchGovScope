@@ -4,7 +4,7 @@
 ## Summary data
 
 
- - **SSL Grade**:
+ - **SSL Grade**:A
  - **HTTP Security Grade**:D
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:0
 
@@ -21,8 +21,8 @@
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://wachtrijbooster.nl](https://wachtrijbooster.nl)| | **E**|cloudflare| | | | | | :white_check_mark: | | :white_check_mark: | |Cloudflare HTTP/3|Attention Requir...|
-|[https://aanmelden.wachtrijbooster.nl](https://aanmelden.wachtrijbooster.nl)| | **C**|cloudflare| |:white_check_mark: | | | | | | :white_check_mark: | |Cloudflare HTTP/3||
-|[https://www.wachtrijbooster.nl](https://www.wachtrijbooster.nl)| | **C**|cloudflare| | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Cloudflare HTTP/3|Online een afspr...|
+|[https://wachtrijbooster.nl](https://wachtrijbooster.nl)| **A**| **E**|cloudflare| | | | | | :white_check_mark: | | :white_check_mark: | |Cloudflare HTTP/3|Attention Requir...|
+|[https://aanmelden.wachtrijbooster.nl](https://aanmelden.wachtrijbooster.nl)| **A**| **C**|cloudflare| |:white_check_mark: | | | | | | :white_check_mark: | |Cloudflare HTTP/3||
+|[https://www.wachtrijbooster.nl](https://www.wachtrijbooster.nl)| **A**| **C**|cloudflare| | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Cloudflare HTTP/3|Online een afspr...|
 |[https://api.wachtrijbooster.nl](https://api.wachtrijbooster.nl)| | **F**|cloudflare| | | | | | | | :white_check_mark: | |Cloudflare HSTS HTTP/3||
 

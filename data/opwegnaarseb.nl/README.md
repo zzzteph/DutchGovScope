@@ -4,7 +4,7 @@
 ## Summary data
 
 
- - **SSL Grade**:
+ - **SSL Grade**:C
  - **HTTP Security Grade**:E
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:2
 
@@ -21,11 +21,11 @@
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://cdn.opwegnaarseb.nl](https://cdn.opwegnaarseb.nl)| | **E**|| | | | | | | | :white_check_mark: | |Azure Azure Front Door||
-|[https://cpanel.opwegnaarseb.nl](https://cpanel.opwegnaarseb.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server cPanel|cPanel Login|
-|[https://e-learning.opwegnaarseb.nl](https://e-learning.opwegnaarseb.nl)| | **F**|Microsoft-IIS/10.0| | | | | | | | :white_check_mark: | |IIS:10.0 Windows Server|403 - Forbidden:...|
-|[https://mail.opwegnaarseb.nl](https://mail.opwegnaarseb.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|Index of /|
-|[https://webmail.opwegnaarseb.nl](https://webmail.opwegnaarseb.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|Webmail Login|
-|[https://www.opwegnaarseb.nl](https://www.opwegnaarseb.nl)| | **C**|nginx/1.25.3| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Nginx:1.25.3|SEB|
-|[https://opwegnaarseb.nl](https://opwegnaarseb.nl)| | **C**|nginx/1.25.3| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Nginx:1.25.3|SEB|
+|[https://cdn.opwegnaarseb.nl](https://cdn.opwegnaarseb.nl)| **A**| **E**|| | | | | | | | :white_check_mark: | |Azure Azure Front Door||
+|[https://cpanel.opwegnaarseb.nl](https://cpanel.opwegnaarseb.nl)| **F**| **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server cPanel|cPanel Login|
+|[https://e-learning.opwegnaarseb.nl](https://e-learning.opwegnaarseb.nl)| **A**| **F**|Microsoft-IIS/10.0| | | | | | | | :white_check_mark: | |IIS:10.0 Windows Server|403 - Forbidden:...|
+|[https://mail.opwegnaarseb.nl](https://mail.opwegnaarseb.nl)| **F**| **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|Index of /|
+|[https://webmail.opwegnaarseb.nl](https://webmail.opwegnaarseb.nl)| **F**| **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|Webmail Login|
+|[https://www.opwegnaarseb.nl](https://www.opwegnaarseb.nl)| **A**| **C**|nginx/1.25.4| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Nginx:1.25.4|SEB|
+|[https://opwegnaarseb.nl](https://opwegnaarseb.nl)| **A**| **C**|nginx/1.25.4| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Nginx:1.25.4|SEB|
 

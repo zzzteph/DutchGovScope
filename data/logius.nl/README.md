@@ -12,7 +12,7 @@
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/logius.nl/subdomains.txt)|71|Alive subdomains|
-|[urls.txt](/data/logius.nl/urls.txt)|51|Urls|
+|[urls.txt](/data/logius.nl/urls.txt)|52|Urls|
 |[all_subdomains.txt](/data/logius.nl/all_subdomains.txt)|117|All found subdomains (history)|
 
 
@@ -33,6 +33,7 @@
 |[https://bvd-pre.mev.logius.nl](https://bvd-pre.mev.logius.nl)| **B**| **E**|| | | | | | | | :white_check_mark: | |HSTS||
 |[https://bvd.mev.logius.nl](https://bvd.mev.logius.nl)| **B**| **E**|| | | | | | | | :white_check_mark: | |HSTS||
 |[http://ca-devportal.logius.nl](http://ca-devportal.logius.nl)| | **F**|Picard-LB| | | | | | | | :white_check_mark: | |||
+|[http://ca-devportal-pre.logius.nl](http://ca-devportal-pre.logius.nl)| | **F**|Picard-LB| | | | | | | | :white_check_mark: | |||
 |[https://ca-idp.logius.nl](https://ca-idp.logius.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|404 Not Found|
 |[https://ca-idp-pre.logius.nl](https://ca-idp-pre.logius.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|404 Not Found|
 |[http://channels-az1.lpc.logius.nl](http://channels-az1.lpc.logius.nl)| | **F**|Picard-LB| | | | | | | | :white_check_mark: | |||

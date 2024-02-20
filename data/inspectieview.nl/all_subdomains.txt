@@ -49,3 +49,4 @@ bim.inspectieview.nl
 binnenvaart.acc.inspectieview.nl
 tst.inspectieview.nl
 gebruikregistratie-tst.inspectieview.nl
+acc.auth.wegvervoer.inspectieview.nl

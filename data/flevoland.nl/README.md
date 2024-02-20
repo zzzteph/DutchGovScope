@@ -13,7 +13,7 @@
 |------------|-------|------|
 |[subdomains.txt](/data/flevoland.nl/subdomains.txt)|103|Alive subdomains|
 |[urls.txt](/data/flevoland.nl/urls.txt)|78|Urls|
-|[all_subdomains.txt](/data/flevoland.nl/all_subdomains.txt)|219|All found subdomains (history)|
+|[all_subdomains.txt](/data/flevoland.nl/all_subdomains.txt)|221|All found subdomains (history)|
 
 
 ## Statistics
@@ -46,7 +46,7 @@
 |[http://uworktest.flevoland.nl](http://uworktest.flevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://www.begroting2020.flevoland.nl](https://www.begroting2020.flevoland.nl)| **F**| **E**|| | | | | | | | :white_check_mark: | ||Microsoft Azure...|
 |[https://pushmail.flevoland.nl](https://pushmail.flevoland.nl)| **A+**| **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |||
-|[http://test-intranet.flevoland.nl](http://test-intranet.flevoland.nl)| **A+**| **A**||:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
+|[https://test-intranet.flevoland.nl](https://test-intranet.flevoland.nl)| **A+**| **A**||:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://geo.flevoland.nl](https://geo.flevoland.nl)| **B**| **F**|Microsoft-IIS/10.0| | | | | | | | :white_check_mark: | |IIS:10.0 Windows Server|403 - Forbidden:...|
 |[https://desktop.flevoland.nl](https://desktop.flevoland.nl)| **A**| **B**|| | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |||
 |[https://historische-luchtfoto.flevoland.nl](https://historische-luchtfoto.flevoland.nl)| **B**| **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu|301 Moved Perman...|

@@ -74,7 +74,7 @@ https://www.mijn.rvo.nl
 https://gdi-a.rvo.nl
 http://gbatmv.rvo.nl
 https://sys-staging-mijn.rvo.nl
-http://epbdwebservices-preprod.rvo.nl
+https://epbdwebservices-preprod.rvo.nl
 https://kennisbank-tst.rvo.nl
 http://energielabel-checker.rvo.nl
 http://ezines.rvo.nl

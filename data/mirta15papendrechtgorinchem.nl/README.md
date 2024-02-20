@@ -24,5 +24,5 @@
 |[https://feeds.mirta15papendrechtgorinchem.nl](https://feeds.mirta15papendrechtgorinchem.nl)| **A+**| **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://opendata.mirta15papendrechtgorinchem.nl](https://opendata.mirta15papendrechtgorinchem.nl)| **A+**| **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://www.mirta15papendrechtgorinchem.nl](https://www.mirta15papendrechtgorinchem.nl)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Home | MIRT A15...|
-|[https://mirta15papendrechtgorinchem.nl](https://mirta15papendrechtgorinchem.nl)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
+|[https://mirta15papendrechtgorinchem.nl](https://mirta15papendrechtgorinchem.nl)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
 

@@ -80,7 +80,7 @@ https://www.bezoekerscentrum.rijkswaterstaat.nl
 https://www.watergegevens.rijkswaterstaat.nl
 https://www.werkenbij.rijkswaterstaat.nl
 https://zaaksysteem.rijkswaterstaat.nl
-http://zwerfafval.rijkswaterstaat.nl
+https://zwerfafval.rijkswaterstaat.nl
 https://rijkswaterstaat.nl
 https://innovatie-test.rijkswaterstaat.nl
 https://bmm2016.rijkswaterstaat.nl

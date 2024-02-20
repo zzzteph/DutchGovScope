@@ -5,7 +5,7 @@ permalink: "/dutchgov/tradewithnl.nl.html"
 subdomains_count: 4
 all_subdomains_count: 4
 urls_count: 4
-ssl_rank: 
+ssl_rank: A+
 http_rank: C
 security_txt: 2
 url_link: /data/tradewithnl.nl/urls.txt
@@ -20,7 +20,7 @@ tags: dutchgov
 ## Summary data
 
 
- - **SSL Grade**:
+ - **SSL Grade**:A+
  - **HTTP Security Grade**:C
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:2
 
@@ -37,8 +37,8 @@ tags: dutchgov
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://tradewithnl.nl](https://tradewithnl.nl)| | **A**|Apache| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server Drupal:10 HSTS PHP|Homepage | Trade...|
-|[https://www.tradewithnl.nl](https://www.tradewithnl.nl)| | **A**|Apache| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS|301 Moved Perman...|
+|[https://tradewithnl.nl](https://tradewithnl.nl)| **A+**| **A**|Apache| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server Drupal:10 HSTS PHP|Homepage | Trade...|
+|[https://www.tradewithnl.nl](https://www.tradewithnl.nl)| **A+**| **A**|Apache| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS|301 Moved Perman...|
 |[https://acc.tradewithnl.nl](https://acc.tradewithnl.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Basic Nginx|401 Authorizatio...|
 |[https://test.tradewithnl.nl](https://test.tradewithnl.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Basic Nginx|401 Authorizatio...|
 

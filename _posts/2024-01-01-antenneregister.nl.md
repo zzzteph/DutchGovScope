@@ -5,7 +5,7 @@ permalink: "/dutchgov/antenneregister.nl.html"
 subdomains_count: 5
 all_subdomains_count: 9
 urls_count: 3
-ssl_rank: 
+ssl_rank: B-
 http_rank: C
 security_txt: 2
 url_link: /data/antenneregister.nl/urls.txt
@@ -20,7 +20,7 @@ tags: dutchgov
 ## Summary data
 
 
- - **SSL Grade**:
+ - **SSL Grade**:B-
  - **HTTP Security Grade**:C
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:2
 
@@ -37,7 +37,7 @@ tags: dutchgov
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://antenneregister.nl](https://antenneregister.nl)| | **A**||:o: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Document Moved|
-|[http://acc.antenneregister.nl](http://acc.antenneregister.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
-|[https://www.antenneregister.nl](https://www.antenneregister.nl)| | **A**||:o: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Document Moved|
+|[https://antenneregister.nl](https://antenneregister.nl)| **A+**| **A**||:o: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Document Moved|
+|[http://acc.antenneregister.nl](http://acc.antenneregister.nl)| **F**| **E**|| | | | | | | | :white_check_mark: | |||
+|[https://www.antenneregister.nl](https://www.antenneregister.nl)| **A+**| **A**||:o: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Document Moved|
 

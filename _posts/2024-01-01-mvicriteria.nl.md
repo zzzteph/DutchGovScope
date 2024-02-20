@@ -5,7 +5,7 @@ permalink: "/dutchgov/mvicriteria.nl.html"
 subdomains_count: 2
 all_subdomains_count: 2
 urls_count: 2
-ssl_rank: 
+ssl_rank: A+
 http_rank: D
 security_txt: 0
 url_link: /data/mvicriteria.nl/urls.txt
@@ -20,7 +20,7 @@ tags: dutchgov
 ## Summary data
 
 
- - **SSL Grade**:
+ - **SSL Grade**:A+
  - **HTTP Security Grade**:D
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:0
 
@@ -37,6 +37,6 @@ tags: dutchgov
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://www.mvicriteria.nl](https://www.mvicriteria.nl)| | **D**||:warning: |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|Redirecting to h...|
-|[https://mvicriteria.nl](https://mvicriteria.nl)| | **D**||:warning: |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|308 Permanent Re...|
+|[https://www.mvicriteria.nl](https://www.mvicriteria.nl)| **A+**| **D**||:warning: |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|Redirecting to h...|
+|[https://mvicriteria.nl](https://mvicriteria.nl)| **A+**| **D**||:warning: |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|308 Permanent Re...|
 

@@ -4,7 +4,7 @@
 ## Summary data
 
 
- - **SSL Grade**:
+ - **SSL Grade**:B-
  - **HTTP Security Grade**:E
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:0
 
@@ -21,9 +21,9 @@
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://mail.prettigcontactmetdeoverheid.nl](https://mail.prettigcontactmetdeoverheid.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|Domein niet gevo...|
-|[https://www.prettigcontactmetdeoverheid.nl](https://www.prettigcontactmetdeoverheid.nl)| | **C**|Apache| |:white_check_mark: | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|Website offline|
-|[https://prettigcontactmetdeoverheid.nl](https://prettigcontactmetdeoverheid.nl)| | **C**|Apache| |:white_check_mark: | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|Website offline|
+|[https://mail.prettigcontactmetdeoverheid.nl](https://mail.prettigcontactmetdeoverheid.nl)| **F**| **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|Domein niet gevo...|
+|[https://www.prettigcontactmetdeoverheid.nl](https://www.prettigcontactmetdeoverheid.nl)| **A+**| **C**|Apache| |:white_check_mark: | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|Website offline|
+|[https://prettigcontactmetdeoverheid.nl](https://prettigcontactmetdeoverheid.nl)| **A+**| **C**|Apache| |:white_check_mark: | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|Website offline|
 |[https://autoconfig.prettigcontactmetdeoverheid.nl](https://autoconfig.prettigcontactmetdeoverheid.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|301 Moved Perman...|
 |[https://autodiscover.prettigcontactmetdeoverheid.nl](https://autodiscover.prettigcontactmetdeoverheid.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|301 Moved Perman...|
 |[https://ftp.prettigcontactmetdeoverheid.nl](https://ftp.prettigcontactmetdeoverheid.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|Domein niet gevo...|

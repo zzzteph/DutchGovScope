@@ -5,7 +5,7 @@ permalink: "/dutchgov/samenmetenaanluchtkwaliteit.nl.html"
 subdomains_count: 5
 all_subdomains_count: 5
 urls_count: 5
-ssl_rank: 
+ssl_rank: A
 http_rank: A
 security_txt: 4
 url_link: /data/samenmetenaanluchtkwaliteit.nl/urls.txt
@@ -20,7 +20,7 @@ tags: dutchgov
 ## Summary data
 
 
- - **SSL Grade**:
+ - **SSL Grade**:A
  - **HTTP Security Grade**:A
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:4
 
@@ -37,9 +37,9 @@ tags: dutchgov
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://acceptatie.samenmetenaanluchtkwaliteit.nl](https://acceptatie.samenmetenaanluchtkwaliteit.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |||
-|[https://test.samenmetenaanluchtkwaliteit.nl](https://test.samenmetenaanluchtkwaliteit.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |||
-|[https://www.samenmetenaanluchtkwaliteit.nl](https://www.samenmetenaanluchtkwaliteit.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |||
-|[https://samenmetenaanluchtkwaliteit.nl](https://samenmetenaanluchtkwaliteit.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |||
+|[https://acceptatie.samenmetenaanluchtkwaliteit.nl](https://acceptatie.samenmetenaanluchtkwaliteit.nl)| **A**| **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |||
+|[https://test.samenmetenaanluchtkwaliteit.nl](https://test.samenmetenaanluchtkwaliteit.nl)| **A**| **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |||
+|[https://www.samenmetenaanluchtkwaliteit.nl](https://www.samenmetenaanluchtkwaliteit.nl)| **A**| **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |||
+|[https://samenmetenaanluchtkwaliteit.nl](https://samenmetenaanluchtkwaliteit.nl)| **A**| **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |||
 |[http://localhost.samenmetenaanluchtkwaliteit.nl](http://localhost.samenmetenaanluchtkwaliteit.nl)| | **D**|nginx| | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Nginx|Welcome to nginx...|
 

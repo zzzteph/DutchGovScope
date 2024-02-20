@@ -4,7 +4,7 @@
 ## Summary data
 
 
- - **SSL Grade**:
+ - **SSL Grade**:A+
  - **HTTP Security Grade**:B
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:0
 
@@ -21,6 +21,6 @@
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://www.rijkswaterstaatstrooit.nl](https://www.rijkswaterstaatstrooit.nl)| | **B**|nginx/1.21.3| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS Nginx:1.21.3 Varnish:6.0|Strooikaart | Ri...|
-|[https://rijkswaterstaatstrooit.nl](https://rijkswaterstaatstrooit.nl)| | **B**|nginx/1.21.3| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS Nginx:1.21.3 Varnish:6.0|Strooikaart | Ri...|
+|[https://www.rijkswaterstaatstrooit.nl](https://www.rijkswaterstaatstrooit.nl)| **A+**| **B**|nginx/1.21.3| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS Nginx:1.21.3 Varnish:6.0|Strooikaart | Ri...|
+|[https://rijkswaterstaatstrooit.nl](https://rijkswaterstaatstrooit.nl)| **A+**| **B**|nginx/1.21.3| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS Nginx:1.21.3 Varnish:6.0|Strooikaart | Ri...|
 

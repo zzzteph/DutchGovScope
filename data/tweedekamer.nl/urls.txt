@@ -115,3 +115,5 @@ https://enterpriseenrollment.tweedekamer.nl
 https://enterpriseregistration.tweedekamer.nl
 http://localhost.tweedekamer.nl
 https://msoid.tweedekamer.nl
+https://plein2-acc.tweedekamer.nl
+https://plein2-test.tweedekamer.nl

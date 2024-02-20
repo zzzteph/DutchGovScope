@@ -7,7 +7,7 @@ all_subdomains_count: 36
 urls_count: 20
 ssl_rank: A-
 http_rank: B
-security_txt: 12
+security_txt: 15
 url_link: /data/werkenvoornederland.nl/urls.txt
 all_subdomains_link: /data/werkenvoornederland.nl/all_subdomains.txt
 subdomains_link: /data/werkenvoornederland.nl/subdomains.txt
@@ -22,7 +22,7 @@ tags: dutchgov
 
  - **SSL Grade**:A-
  - **HTTP Security Grade**:B
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:12
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:15
 
 
 | File       | Count | Info |

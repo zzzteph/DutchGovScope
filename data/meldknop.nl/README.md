@@ -4,7 +4,7 @@
 ## Summary data
 
 
- - **SSL Grade**:
+ - **SSL Grade**:E
  - **HTTP Security Grade**:F
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:0
 
@@ -21,15 +21,15 @@
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://www.meldknop.nl](https://www.meldknop.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS MySQL Nginx PHP WordPress Yoast SEO:22.0|Meldknop.nl - Ie...|
-|[https://corrupt.meldknop.nl](https://corrupt.meldknop.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx||
-|[https://66wz.meldknop.nl](https://66wz.meldknop.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx||
-|[https://shanghaiershouhuangguanche.meldknop.nl](https://shanghaiershouhuangguanche.meldknop.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx||
-|[https://meldknop.nl](https://meldknop.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
-|[https://nwww.meldknop.nl](https://nwww.meldknop.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx||
-|[https://shai.meldknop.nl](https://shai.meldknop.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx||
-|[https://ftpadmin1.meldknop.nl](https://ftpadmin1.meldknop.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx||
-|[https://mobielwww.meldknop.nl](https://mobielwww.meldknop.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx||
+|[https://www.meldknop.nl](https://www.meldknop.nl)| **A+**| **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS MySQL Nginx PHP WordPress Yoast SEO:22.0|Meldknop.nl - Ie...|
+|[https://corrupt.meldknop.nl](https://corrupt.meldknop.nl)| **F**| **F**|nginx| | | | | | | | :white_check_mark: | |Nginx||
+|[https://66wz.meldknop.nl](https://66wz.meldknop.nl)| **F**| **F**|nginx| | | | | | | | :white_check_mark: | |Nginx||
+|[https://shanghaiershouhuangguanche.meldknop.nl](https://shanghaiershouhuangguanche.meldknop.nl)| **F**| **F**|nginx| | | | | | | | :white_check_mark: | |Nginx||
+|[https://meldknop.nl](https://meldknop.nl)| **A+**| **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
+|[https://nwww.meldknop.nl](https://nwww.meldknop.nl)| **F**| **F**|nginx| | | | | | | | :white_check_mark: | |Nginx||
+|[https://shai.meldknop.nl](https://shai.meldknop.nl)| **F**| **F**|nginx| | | | | | | | :white_check_mark: | |Nginx||
+|[https://ftpadmin1.meldknop.nl](https://ftpadmin1.meldknop.nl)| **F**| **F**|nginx| | | | | | | | :white_check_mark: | |Nginx||
+|[https://mobielwww.meldknop.nl](https://mobielwww.meldknop.nl)| **F**| **F**|nginx| | | | | | | | :white_check_mark: | |Nginx||
 |[https://financieel-overzicht.meldknop.nl](https://financieel-overzicht.meldknop.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx||
 |[https://venturi.meldknop.nl](https://venturi.meldknop.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx||
 |[https://2pac.meldknop.nl](https://2pac.meldknop.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx||

@@ -12,7 +12,7 @@
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/odijmond.nl/subdomains.txt)|21|Alive subdomains|
-|[urls.txt](/data/odijmond.nl/urls.txt)|14|Urls|
+|[urls.txt](/data/odijmond.nl/urls.txt)|17|Urls|
 |[all_subdomains.txt](/data/odijmond.nl/all_subdomains.txt)|28|All found subdomains (history)|
 
 
@@ -35,4 +35,7 @@
 |[https://rd.odijmond.nl](https://rd.odijmond.nl)| | **E**|Microsoft-IIS/10.0|:o: |:white_check_mark: | | | | | | :white_check_mark: | |HSTS IIS:10.0 Microsoft ASP.NET Windows Server|Document Moved|
 |[https://vpn.odijmond.nl](https://vpn.odijmond.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS|Fireware XTM Use...|
 |[https://acc-open-wave.odijmond.nl](https://acc-open-wave.odijmond.nl)| | **F**|Apache|:o: | | | | | | | :white_check_mark: | |Apache HTTP Server PHP:8.1.25||
+|[https://dusk-open-wave.odijmond.nl](https://dusk-open-wave.odijmond.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|403 Forbidden|
+|[https://dusk-acc-open-wave.odijmond.nl](https://dusk-acc-open-wave.odijmond.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|403 Forbidden|
+|[https://jointest.odijmond.nl](https://jointest.odijmond.nl)| | **B**||:warning: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 

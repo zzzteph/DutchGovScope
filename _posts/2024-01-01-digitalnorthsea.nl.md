@@ -37,6 +37,6 @@ tags: dutchgov
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://digitalnorthsea.nl](https://digitalnorthsea.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Alpine.js HSTS Nginx|Op weg naar een...|
-|[https://www.digitalnorthsea.nl](https://www.digitalnorthsea.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|301 Moved Perman...|
+|[https://digitalnorthsea.nl](https://digitalnorthsea.nl)| **F**| **F**|nginx| | | | | | | | :white_check_mark: | |Alpine.js HSTS Nginx|Op weg naar een...|
+|[https://www.digitalnorthsea.nl](https://www.digitalnorthsea.nl)| **F**| **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|301 Moved Perman...|
 

@@ -5,7 +5,7 @@ permalink: "/dutchgov/vwsdia-archief.nl.html"
 subdomains_count: 2
 all_subdomains_count: 2
 urls_count: 2
-ssl_rank: 
+ssl_rank: A
 http_rank: D
 security_txt: 2
 url_link: /data/vwsdia-archief.nl/urls.txt
@@ -20,7 +20,7 @@ tags: dutchgov
 ## Summary data
 
 
- - **SSL Grade**:
+ - **SSL Grade**:A
  - **HTTP Security Grade**:D
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:2
 
@@ -37,6 +37,6 @@ tags: dutchgov
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://vwsdia-archief.nl](https://vwsdia-archief.nl)| | **D**|nginx/1.20.1| | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Nginx:1.20.1||
-|[https://www.vwsdia-archief.nl](https://www.vwsdia-archief.nl)| | **D**|nginx/1.20.1| | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Nginx:1.20.1||
+|[https://vwsdia-archief.nl](https://vwsdia-archief.nl)| **A**| **D**|nginx/1.20.1| | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Nginx:1.20.1||
+|[https://www.vwsdia-archief.nl](https://www.vwsdia-archief.nl)| **A**| **D**|nginx/1.20.1| | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Nginx:1.20.1||
 

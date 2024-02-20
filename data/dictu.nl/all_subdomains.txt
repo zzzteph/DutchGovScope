@@ -280,3 +280,4 @@ webservice-risa-tst.dictu.nl
 test2.dictu.nl
 leerportaal.dictu.nl
 acc2.dictu.nl
+bod1-t.dictu.nl

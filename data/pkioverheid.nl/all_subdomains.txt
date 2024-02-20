@@ -22,3 +22,4 @@ por.pkioverheid.nl
 roottest-g2.pkioverheid.nl
 roottest-g3-expired.pkioverheid.nl
 roottest-ev-expired.pkioverheid.nl
+trialrootocsp-g3.ocsp.pkioverheid.nl

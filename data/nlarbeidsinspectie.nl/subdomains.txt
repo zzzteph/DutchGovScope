@@ -10,3 +10,4 @@ nlarbeidsinspectie.nl
 test.resultaten.nlarbeidsinspectie.nl
 a-feeds.nlarbeidsinspectie.nl
 a-www.nlarbeidsinspectie.nl
+a-opendata.nlarbeidsinspectie.nl

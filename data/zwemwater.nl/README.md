@@ -4,7 +4,7 @@
 ## Summary data
 
 
- - **SSL Grade**:
+ - **SSL Grade**:C
  - **HTTP Security Grade**:F
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:8
 
@@ -12,7 +12,7 @@
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/zwemwater.nl/subdomains.txt)|235|Alive subdomains|
-|[urls.txt](/data/zwemwater.nl/urls.txt)|174|Urls|
+|[urls.txt](/data/zwemwater.nl/urls.txt)|233|Urls|
 |[all_subdomains.txt](/data/zwemwater.nl/all_subdomains.txt)|235|All found subdomains (history)|
 
 
@@ -21,25 +21,25 @@
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://acc.zwemwater.nl](https://acc.zwemwater.nl)| | **B**|Apache| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
-|[https://www.zwemwater.nl](https://www.zwemwater.nl)| | **B**|Apache| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server Drupal:7 HSTS PHP|Vind een zwemple...|
-|[https://zwemwater.nl](https://zwemwater.nl)| | **B**|Apache| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS|301 Moved Perman...|
-|[https://nederlandwww.zwemwater.nl](https://nederlandwww.zwemwater.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
-|[https://ogcgeo.zwemwater.nl](https://ogcgeo.zwemwater.nl)| | **B**|Apache| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS||
-|[https://pubgeo.zwemwater.nl](https://pubgeo.zwemwater.nl)| | **C**|Apache| |:white_check_mark: | :warning:| | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS||
-|[https://register.zwemwater.nl](https://register.zwemwater.nl)| | **B**|Apache|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
-|[https://wwww.zwemwater.nl](https://wwww.zwemwater.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
-|[https://9986734www.zwemwater.nl](https://9986734www.zwemwater.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
-|[https://opwww.zwemwater.nl](https://opwww.zwemwater.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
-|[https://acc-inspiregeo.zwemwater.nl](https://acc-inspiregeo.zwemwater.nl)| | **B**|Apache| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
-|[https://acc-ogcgeo.zwemwater.nl](https://acc-ogcgeo.zwemwater.nl)| | **B**|Apache| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
-|[https://acc-pubgeo.zwemwater.nl](https://acc-pubgeo.zwemwater.nl)| | **B**|Apache| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
-|[https://inspiregeo.zwemwater.nl](https://inspiregeo.zwemwater.nl)| | **B**|Apache| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS||
-|[https://acc-register.zwemwater.nl](https://acc-register.zwemwater.nl)| | **B**|Apache| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
-|[https://acc-pub.zwemwater.nl](https://acc-pub.zwemwater.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
-|[https://pre-pub.zwemwater.nl](https://pre-pub.zwemwater.nl)| | **B**|Apache| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
-|[https://enwww.zwemwater.nl](https://enwww.zwemwater.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
-|[https://zwemlocatieswww.zwemwater.nl](https://zwemlocatieswww.zwemwater.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
+|[https://acc.zwemwater.nl](https://acc.zwemwater.nl)| **A+**| **B**|Apache| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
+|[https://www.zwemwater.nl](https://www.zwemwater.nl)| **A+**| **B**|Apache| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server Drupal:7 HSTS PHP|Vind een zwemple...|
+|[https://zwemwater.nl](https://zwemwater.nl)| **A+**| **B**|Apache| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS|301 Moved Perman...|
+|[https://nederlandwww.zwemwater.nl](https://nederlandwww.zwemwater.nl)| **F**| **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
+|[https://ogcgeo.zwemwater.nl](https://ogcgeo.zwemwater.nl)| **A+**| **B**|Apache| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS||
+|[https://pubgeo.zwemwater.nl](https://pubgeo.zwemwater.nl)| **A+**| **C**|Apache| |:white_check_mark: | :warning:| | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS||
+|[https://register.zwemwater.nl](https://register.zwemwater.nl)| **A+**| **B**|Apache|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
+|[https://wwww.zwemwater.nl](https://wwww.zwemwater.nl)| **F**| **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
+|[https://9986734www.zwemwater.nl](https://9986734www.zwemwater.nl)| **F**| **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
+|[https://opwww.zwemwater.nl](https://opwww.zwemwater.nl)| **F**| **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
+|[https://acc-inspiregeo.zwemwater.nl](https://acc-inspiregeo.zwemwater.nl)| **A+**| **B**|Apache| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
+|[https://acc-ogcgeo.zwemwater.nl](https://acc-ogcgeo.zwemwater.nl)| **A+**| **B**|Apache| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
+|[https://acc-pubgeo.zwemwater.nl](https://acc-pubgeo.zwemwater.nl)| **A+**| **B**|Apache| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
+|[https://inspiregeo.zwemwater.nl](https://inspiregeo.zwemwater.nl)| **A+**| **B**|Apache| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS||
+|[https://acc-register.zwemwater.nl](https://acc-register.zwemwater.nl)| **A+**| **B**|Apache| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
+|[https://acc-pub.zwemwater.nl](https://acc-pub.zwemwater.nl)| **F**| **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
+|[https://pre-pub.zwemwater.nl](https://pre-pub.zwemwater.nl)| **A+**| **B**|Apache| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
+|[https://enwww.zwemwater.nl](https://enwww.zwemwater.nl)| **F**| **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
+|[https://zwemlocatieswww.zwemwater.nl](https://zwemlocatieswww.zwemwater.nl)| **F**| **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
 |[https://external-api.mediabilling.zwemwater.nl](https://external-api.mediabilling.zwemwater.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
 |[https://apis.test.zwemwater.nl](https://apis.test.zwemwater.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
 |[https://web3749.zwemwater.nl](https://web3749.zwemwater.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
@@ -195,4 +195,63 @@
 |[https://ftp.zwemwater.nl](https://ftp.zwemwater.nl)| | **B**|Apache| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
 |[http://localhost.zwemwater.nl](http://localhost.zwemwater.nl)| | **D**|nginx| | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Nginx|Welcome to nginx...|
 |[https://webmail.zwemwater.nl](https://webmail.zwemwater.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx Plesk|Aralto ICT|
+|[https://pci.zwemwater.nl](https://pci.zwemwater.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
+|[https://adipex.zwemwater.nl](https://adipex.zwemwater.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
+|[https://6789.zwemwater.nl](https://6789.zwemwater.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
+|[https://symptomen.zwemwater.nl](https://symptomen.zwemwater.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
+|[https://lodo.zwemwater.nl](https://lodo.zwemwater.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
+|[https://alimi.zwemwater.nl](https://alimi.zwemwater.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
+|[https://forums.app.zwemwater.nl](https://forums.app.zwemwater.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
+|[https://noginsk.zwemwater.nl](https://noginsk.zwemwater.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
+|[https://dizel.zwemwater.nl](https://dizel.zwemwater.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
+|[https://judi.zwemwater.nl](https://judi.zwemwater.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
+|[https://pbt.zwemwater.nl](https://pbt.zwemwater.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
+|[https://chancellor.zwemwater.nl](https://chancellor.zwemwater.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
+|[https://dolby.zwemwater.nl](https://dolby.zwemwater.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
+|[https://mountainbikers.zwemwater.nl](https://mountainbikers.zwemwater.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
+|[https://edelmetaal.zwemwater.nl](https://edelmetaal.zwemwater.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
+|[https://teef.zwemwater.nl](https://teef.zwemwater.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
+|[https://o365wac.zwemwater.nl](https://o365wac.zwemwater.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
+|[https://mail.yy568.zwemwater.nl](https://mail.yy568.zwemwater.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
+|[https://cate.zwemwater.nl](https://cate.zwemwater.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
+|[https://ddoc.zwemwater.nl](https://ddoc.zwemwater.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
+|[https://vps-hosting.zwemwater.nl](https://vps-hosting.zwemwater.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
+|[https://beverage.zwemwater.nl](https://beverage.zwemwater.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
+|[https://myfeed.zwemwater.nl](https://myfeed.zwemwater.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
+|[https://zarabotay.zwemwater.nl](https://zarabotay.zwemwater.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
+|[https://persoonlijkebeschermingsmiddelen.zwemwater.nl](https://persoonlijkebeschermingsmiddelen.zwemwater.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
+|[https://web4633.zwemwater.nl](https://web4633.zwemwater.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
+|[https://vanalles.zwemwater.nl](https://vanalles.zwemwater.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
+|[https://hijab.zwemwater.nl](https://hijab.zwemwater.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
+|[https://rescue.zwemwater.nl](https://rescue.zwemwater.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
+|[https://akc.zwemwater.nl](https://akc.zwemwater.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
+|[https://origin-sso.zwemwater.nl](https://origin-sso.zwemwater.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
+|[https://wishlist.zwemwater.nl](https://wishlist.zwemwater.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
+|[https://placeholder.zwemwater.nl](https://placeholder.zwemwater.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
+|[https://archipro.zwemwater.nl](https://archipro.zwemwater.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
+|[https://snickers.zwemwater.nl](https://snickers.zwemwater.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
+|[https://fredvanderwal.zwemwater.nl](https://fredvanderwal.zwemwater.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
+|[https://lijnden.zwemwater.nl](https://lijnden.zwemwater.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
+|[https://bartok.zwemwater.nl](https://bartok.zwemwater.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
+|[https://cees.zwemwater.nl](https://cees.zwemwater.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
+|[https://simplyred.zwemwater.nl](https://simplyred.zwemwater.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
+|[https://612.zwemwater.nl](https://612.zwemwater.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
+|[https://bubbels.zwemwater.nl](https://bubbels.zwemwater.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
+|[https://inmate.zwemwater.nl](https://inmate.zwemwater.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
+|[https://scarface.zwemwater.nl](https://scarface.zwemwater.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
+|[https://2040.zwemwater.nl](https://2040.zwemwater.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
+|[https://kombu.zwemwater.nl](https://kombu.zwemwater.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
+|[https://mytrip.zwemwater.nl](https://mytrip.zwemwater.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
+|[https://prikbord.zwemwater.nl](https://prikbord.zwemwater.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
+|[https://fokke.zwemwater.nl](https://fokke.zwemwater.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
+|[https://ccbn.zwemwater.nl](https://ccbn.zwemwater.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
+|[https://status-api.zwemwater.nl](https://status-api.zwemwater.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
+|[https://mst.zwemwater.nl](https://mst.zwemwater.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
+|[https://crmonline.zwemwater.nl](https://crmonline.zwemwater.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
+|[https://sonenbreugel.zwemwater.nl](https://sonenbreugel.zwemwater.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
+|[https://759.zwemwater.nl](https://759.zwemwater.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
+|[https://test.git.zwemwater.nl](https://test.git.zwemwater.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
+|[https://youfone-simonly.zwemwater.nl](https://youfone-simonly.zwemwater.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
+|[https://snoop.zwemwater.nl](https://snoop.zwemwater.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
+|[https://saturday.zwemwater.nl](https://saturday.zwemwater.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
 

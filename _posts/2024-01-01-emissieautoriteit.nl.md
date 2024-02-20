@@ -4,10 +4,10 @@ title: "emissieautoriteit.nl"
 permalink: "/dutchgov/emissieautoriteit.nl.html"
 subdomains_count: 26
 all_subdomains_count: 38
-urls_count: 13
+urls_count: 14
 ssl_rank: A+
-http_rank: A
-security_txt: 6
+http_rank: B
+security_txt: 7
 url_link: /data/emissieautoriteit.nl/urls.txt
 all_subdomains_link: /data/emissieautoriteit.nl/all_subdomains.txt
 subdomains_link: /data/emissieautoriteit.nl/subdomains.txt
@@ -21,14 +21,14 @@ tags: dutchgov
 
 
  - **SSL Grade**:A+
- - **HTTP Security Grade**:A
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:6
+ - **HTTP Security Grade**:B
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:7
 
 
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/DutchGovScope/data/emissieautoriteit.nl/subdomains.txt)|26|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/emissieautoriteit.nl/urls.txt)|13|Urls|
+|[urls.txt](/DutchGovScope/data/emissieautoriteit.nl/urls.txt)|14|Urls|
 |[all_subdomains.txt](/DutchGovScope/data/emissieautoriteit.nl/all_subdomains.txt)|38|All found subdomains (history)|
 
 
@@ -50,4 +50,5 @@ tags: dutchgov
 |[https://www.emissieautoriteit.nl](https://www.emissieautoriteit.nl)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Home | Nederland...|
 |[https://emissieautoriteit.nl](https://emissieautoriteit.nl)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
 |[https://jpp.emissieautoriteit.nl](https://jpp.emissieautoriteit.nl)| | **F**|Apache/2.4.52 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.52 Ubuntu|ownCloud|
+|[https://preprodehp2.emissieautoriteit.nl](https://preprodehp2.emissieautoriteit.nl)| | **B**|nginx| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS Nginx|Mendix|
 

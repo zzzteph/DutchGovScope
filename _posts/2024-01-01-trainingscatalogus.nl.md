@@ -3,7 +3,7 @@ layout: default
 title: "trainingscatalogus.nl"
 permalink: "/dutchgov/trainingscatalogus.nl.html"
 subdomains_count: 85
-all_subdomains_count: 95
+all_subdomains_count: 120
 urls_count: 82
 ssl_rank: A+
 http_rank: B
@@ -29,7 +29,7 @@ tags: dutchgov
 |------------|-------|------|
 |[subdomains.txt](/DutchGovScope/data/trainingscatalogus.nl/subdomains.txt)|85|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/trainingscatalogus.nl/urls.txt)|82|Urls|
-|[all_subdomains.txt](/DutchGovScope/data/trainingscatalogus.nl/all_subdomains.txt)|95|All found subdomains (history)|
+|[all_subdomains.txt](/DutchGovScope/data/trainingscatalogus.nl/all_subdomains.txt)|120|All found subdomains (history)|
 
 
 ## Statistics
@@ -101,7 +101,7 @@ tags: dutchgov
 |[https://bd.trainingscatalogus.nl](https://bd.trainingscatalogus.nl)| **A+**| **B**|Class|:white_check_mark: |:white_check_mark: | | |:warning: | | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://apgrechtenbeheerenict.trainingscatalogus.nl](https://apgrechtenbeheerenict.trainingscatalogus.nl)| **A+**| **B**|Class|:white_check_mark: |:white_check_mark: | | |:warning: | | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://vgz.trainingscatalogus.nl](https://vgz.trainingscatalogus.nl)| **A+**| **B**|Class|:white_check_mark: |:white_check_mark: | | |:warning: | | :white_check_mark: | :white_check_mark: | |HSTS||
-|[https://minfin.trainingscatalogus.nl](https://minfin.trainingscatalogus.nl)| | **B**|Class|:white_check_mark: |:white_check_mark: | | |:warning: | | :white_check_mark: | :white_check_mark: | |HSTS||
+|[https://minfin.trainingscatalogus.nl](https://minfin.trainingscatalogus.nl)| **A+**| **B**|Class|:white_check_mark: |:white_check_mark: | | |:warning: | | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://abdleeromgeving.trainingscatalogus.nl](https://abdleeromgeving.trainingscatalogus.nl)| | **A**|Apache|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS Moodle PHP|Doorverwijspagin...|
 |[https://buza.trainingscatalogus.nl](https://buza.trainingscatalogus.nl)| | **F**|Microsoft-Azure-Application-Gateway/v2| | | | | | | | :white_check_mark: | ||404 Not Found|
 |[https://ciz.trainingscatalogus.nl](https://ciz.trainingscatalogus.nl)| | **C**|Class|:white_check_mark: |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | |HSTS||
@@ -111,7 +111,7 @@ tags: dutchgov
 |[https://cjib.trainingscatalogus.nl](https://cjib.trainingscatalogus.nl)| | **B**|Class|:white_check_mark: |:white_check_mark: | | |:warning: | | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://demo.trainingscatalogus.nl](https://demo.trainingscatalogus.nl)| | **C**|Class|:white_check_mark: |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://jio.trainingscatalogus.nl](https://jio.trainingscatalogus.nl)| | **B**|Class|:white_check_mark: |:white_check_mark: | | |:warning: | | :white_check_mark: | :white_check_mark: | |HSTS||
-|[https://dashboard.trainingscatalogus.nl](https://dashboard.trainingscatalogus.nl)| | **F**|cloudflare| | | | | | | | :white_check_mark: | |Cloudflare|403 Forbidden|
+|[https://dashboard.trainingscatalogus.nl](https://dashboard.trainingscatalogus.nl)| | **F**|Apache/2.4.37 (Red Hat Enterprise Linux) OpenSSL/1.1.1k| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.37 OpenSSL:1.1.1k Red Hat|403 Forbidden|
 |[https://nfi.trainingscatalogus.nl](https://nfi.trainingscatalogus.nl)| | **B**|Class|:white_check_mark: |:white_check_mark: | | |:warning: | | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://prorail.trainingscatalogus.nl](https://prorail.trainingscatalogus.nl)| | **F**|Microsoft-Azure-Application-Gateway/v2| | | | | | | | :white_check_mark: | ||404 Not Found|
 |[https://rbo.trainingscatalogus.nl](https://rbo.trainingscatalogus.nl)| | **F**|Microsoft-Azure-Application-Gateway/v2| | | | | | | | :white_check_mark: | ||404 Not Found|

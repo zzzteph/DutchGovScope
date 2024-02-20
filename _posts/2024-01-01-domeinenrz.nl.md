@@ -3,7 +3,7 @@ layout: default
 title: "domeinenrz.nl"
 permalink: "/dutchgov/domeinenrz.nl.html"
 subdomains_count: 36
-all_subdomains_count: 44
+all_subdomains_count: 45
 urls_count: 17
 ssl_rank: B
 http_rank: C
@@ -29,7 +29,7 @@ tags: dutchgov
 |------------|-------|------|
 |[subdomains.txt](/DutchGovScope/data/domeinenrz.nl/subdomains.txt)|36|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/domeinenrz.nl/urls.txt)|17|Urls|
-|[all_subdomains.txt](/DutchGovScope/data/domeinenrz.nl/all_subdomains.txt)|44|All found subdomains (history)|
+|[all_subdomains.txt](/DutchGovScope/data/domeinenrz.nl/all_subdomains.txt)|45|All found subdomains (history)|
 
 
 ## Statistics

@@ -7,7 +7,7 @@ all_subdomains_count: 5
 urls_count: 4
 ssl_rank: A
 http_rank: C
-security_txt: 2
+security_txt: 3
 url_link: /data/beeldkompas.nl/urls.txt
 all_subdomains_link: /data/beeldkompas.nl/all_subdomains.txt
 subdomains_link: /data/beeldkompas.nl/subdomains.txt
@@ -22,7 +22,7 @@ tags: dutchgov
 
  - **SSL Grade**:A
  - **HTTP Security Grade**:C
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:2
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:3
 
 
 | File       | Count | Info |

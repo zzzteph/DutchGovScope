@@ -94,3 +94,5 @@ helpdesk.ssoict.nl
 klantenportaal.ssoict.nl
 test.ssoict.nl
 opmanager.ssoict.nl
+staging-1ntra-ienw.ssoict.nl
+hulpmiddelen.farmatec.ssoict.nl

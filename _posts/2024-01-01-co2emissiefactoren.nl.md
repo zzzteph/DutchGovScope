@@ -43,5 +43,5 @@ tags: dutchgov
 |[https://co2emissiefactoren.nl](https://co2emissiefactoren.nl)| **A**| **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|301 Moved Perman...|
 |[https://atwww.co2emissiefactoren.nl](https://atwww.co2emissiefactoren.nl)| **F**| **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|403 Forbidden|
 |[https://vanwww.co2emissiefactoren.nl](https://vanwww.co2emissiefactoren.nl)| **F**| **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|403 Forbidden|
-|[https://webmail.co2emissiefactoren.nl](https://webmail.co2emissiefactoren.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server Bootstrap|Webmail :: Welco...|
+|[https://webmail.co2emissiefactoren.nl](https://webmail.co2emissiefactoren.nl)| **F**| **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server Bootstrap|Webmail :: Welco...|
 
