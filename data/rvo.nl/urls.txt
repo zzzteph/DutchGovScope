@@ -24,7 +24,6 @@ https://emobility.rvo.nl
 https://energieslag.rvo.nl
 https://english.rvo.nl
 https://epbdwebservices.rvo.nl
-http://gdi.rvo.nl
 https://geocontent.rvo.nl
 https://geoservices.rvo.nl
 https://gtpa.rvo.nl
@@ -80,7 +79,6 @@ http://energielabel-checker.rvo.nl
 http://ezines.rvo.nl
 https://kennisbank-acc.rvo.nl
 https://gtpa-acc.rvo.nl
-https://handelsmissies.rvo.nl
 https://egeo.rvo.nl
 https://rvo.nl
 https://aoep-iam.rvo.nl

@@ -38,7 +38,7 @@ tags: dutchgov
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[https://acc-api.dh.doc-direkt.nl](https://acc-api.dh.doc-direkt.nl)| **B**| **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
-|[https://acc-dh.doc-direkt.nl](https://acc-dh.doc-direkt.nl)| **B**| **A**||:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Document Moved|
+|[https://acc-dh.doc-direkt.nl](https://acc-dh.doc-direkt.nl)| **B**| **A**||:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |AngularJS HSTS|SigningHub|
 |[https://acc-m.dh.doc-direkt.nl](https://acc-m.dh.doc-direkt.nl)| **B**| **A**|| |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | |AngularJS HSTS||
 |[https://api.dh.doc-direkt.nl](https://api.dh.doc-direkt.nl)| **A+**| **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://dh.doc-direkt.nl](https://dh.doc-direkt.nl)| **A+**| **A**||:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Document Moved|

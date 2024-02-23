@@ -58,9 +58,7 @@ mta-p.svb.nl
 autodiscover.svb.nl
 mft-prd.svb.nl
 mijntpw.svb.nl
-ac-sipmed.svb.nl
 ac.sa.svb.nl
-acsbca1aws-nat.svb.nl
 apim-icc-a.svb.nl
 apim-icc-t.svb.nl
 apim-icc.svb.nl
@@ -132,14 +130,11 @@ mx2.svb.nl
 mx3.svb.nl
 mx4.svb.nl
 ns1.svb.nl
-ota-sipmed.svb.nl
 portalaccp.entreepgb.svb.nl
 pra.svb.nl
 prp.svb.nl
 secure4.svb.nl
-uc-sipmed.svb.nl
 uc.sa.svb.nl
-ucsbca1aws-nat.svb.nl
 vpn.svb.nl
 lyncdiscover.svb.nl
 pgbverwerkingserviceaccp.entreepgb.svb.nl

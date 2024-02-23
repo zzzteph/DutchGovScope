@@ -7,7 +7,7 @@ all_subdomains_count: 75
 urls_count: 72
 ssl_rank: A+
 http_rank: C
-security_txt: 45
+security_txt: 0
 url_link: /data/gebruikercentraal.nl/urls.txt
 all_subdomains_link: /data/gebruikercentraal.nl/all_subdomains.txt
 subdomains_link: /data/gebruikercentraal.nl/subdomains.txt
@@ -22,7 +22,7 @@ tags: dutchgov
 
  - **SSL Grade**:A+
  - **HTTP Security Grade**:C
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:45
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:0
 
 
 | File       | Count | Info |

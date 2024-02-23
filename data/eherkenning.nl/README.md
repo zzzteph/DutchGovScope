@@ -44,6 +44,6 @@
 |[https://test-dictu.eherkenning.nl](https://test-dictu.eherkenning.nl)| **A**| **F**|nginx| | | | | | | | :white_check_mark: | |Basic Nginx|401 Authorizatio...|
 |[https://wiki.eherkenning.nl](https://wiki.eherkenning.nl)| **A+**| **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Atlassian Confluence HSTS Java||
 |[https://www.eherkenning.nl](https://www.eherkenning.nl)| **A+**| **A**|nginx| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Drupal HSTS Nginx PHP|Redirecting to h...|
-|[https://eherkenning.nl](https://eherkenning.nl)| **A+**| **A**|nginx| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Drupal HSTS Nginx PHP|Redirecting to h...|
+|[https://eherkenning.nl](https://eherkenning.nl)| **A+**| **A**|nginx| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Nginx|301 Moved Perman...|
 |[https://acceptatie.eherkenning.nl](https://acceptatie.eherkenning.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx||
 

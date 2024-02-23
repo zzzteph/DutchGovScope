@@ -9,7 +9,6 @@ https://ucs.acm.nl
 https://cryptshare.acm.nl
 https://probeer.acm.nl
 https://ucs.services.acm.nl
-https://meeting.acm.nl
 https://vsp.services.acm.nl
 https://auth.acm.nl
 https://remote.acm.nl

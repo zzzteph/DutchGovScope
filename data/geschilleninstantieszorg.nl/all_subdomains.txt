@@ -11,3 +11,4 @@ magazines.english.geschilleninstantieszorg.nl
 magazines.geschilleninstantieszorg.nl
 a-feeds.geschilleninstantieszorg.nl
 a-opendata.geschilleninstantieszorg.nl
+resultaten-toegankelijkheidsonderzoek-www.geschilleninstantieszorg.nl

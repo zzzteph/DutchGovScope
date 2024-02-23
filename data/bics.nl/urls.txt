@@ -4,7 +4,6 @@ https://hsacc.bics.nl
 https://livra.bics.nl
 https://livra2.bics.nl
 http://nlhull.bics.nl
-http://nlhull2.bics.nl
 http://nlrdms.bics.nl
 https://www.bics.nl
 https://bicsdrupalacc.bics.nl

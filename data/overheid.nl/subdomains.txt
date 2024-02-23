@@ -9268,3 +9268,6 @@ weten.overheid.nl
 weben.overheid.nl
 vs-puc-redactie-acc.overheid.nl
 ten.overheid.nl
+portalwww.overheid.nl
+websiteorganisaties.overheid.nl
+rijks.overheid.nl

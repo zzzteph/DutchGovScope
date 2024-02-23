@@ -11,7 +11,7 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/pkioverheid.nl/subdomains.txt)|10|Alive subdomains|
+|[subdomains.txt](/data/pkioverheid.nl/subdomains.txt)|11|Alive subdomains|
 |[urls.txt](/data/pkioverheid.nl/urls.txt)|10|Urls|
 |[all_subdomains.txt](/data/pkioverheid.nl/all_subdomains.txt)|25|All found subdomains (history)|
 

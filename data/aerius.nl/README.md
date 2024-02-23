@@ -11,7 +11,7 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/aerius.nl/subdomains.txt)|3436|Alive subdomains|
+|[subdomains.txt](/data/aerius.nl/subdomains.txt)|3437|Alive subdomains|
 |[urls.txt](/data/aerius.nl/urls.txt)|29|Urls|
 |[all_subdomains.txt](/data/aerius.nl/all_subdomains.txt)|3437|All found subdomains (history)|
 
@@ -37,7 +37,7 @@
 |[https://search.aerius.nl](https://search.aerius.nl)| **A**| **E**|| | | | | | | | :white_check_mark: | ||AERIUS Search Re...|
 |[https://www.aerius.nl](https://www.aerius.nl)| **A**| **A**|awselb/2.0| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Amazon ELB Amazon Web Services|301 Moved Perman...|
 |[https://aerius.nl](https://aerius.nl)| **A**| **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Amazon CloudFront Amazon Web Services HTTP/3||
-|[https://docs.aerius.nl](https://docs.aerius.nl)| **A**| **F**|AmazonS3| | | | | | | | :white_check_mark: | |Amazon CloudFront Amazon S3 Amazon Web Services||
+|[https://docs.aerius.nl](https://docs.aerius.nl)| **A**| **F**|AmazonS3| | | | | | | | :white_check_mark: | |Amazon CloudFront Amazon S3 Amazon Web Services HTTP/3||
 |[https://regelingsondersteuning.aerius.nl](https://regelingsondersteuning.aerius.nl)| **A+**| **B**||:warning: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS Java|AERIUS® Check|
 |[https://auth-dev.aerius.nl](https://auth-dev.aerius.nl)| | **B**|Server|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Amazon CloudFront Amazon Web Services Bootstrap HSTS|Signin|
 |[https://auth-register-dev.aerius.nl](https://auth-register-dev.aerius.nl)| **B**| **B**|Server|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Amazon CloudFront Amazon Web Services Bootstrap HSTS|Signin|

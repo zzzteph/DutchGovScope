@@ -141,7 +141,6 @@ mgk.osiris.rivm.nl
 mijn.rivm.nl
 mijnsap.rivm.nl
 milieuportaal.rivm.nl
-modcat.rivm.nl
 nevo.rivm.nl
 nevo-online.rivm.nl
 nieuwsbrief.rivm.nl
@@ -398,3 +397,4 @@ dashview.rivm.nl
 spoor.rivm.nl
 api.acc-lsp.rivm.nl
 acc-lsp.rivm.nl
+teebstad-app.rivm.nl

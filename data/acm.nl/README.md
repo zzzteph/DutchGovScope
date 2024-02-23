@@ -12,7 +12,7 @@
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/acm.nl/subdomains.txt)|56|Alive subdomains|
-|[urls.txt](/data/acm.nl/urls.txt)|24|Urls|
+|[urls.txt](/data/acm.nl/urls.txt)|23|Urls|
 |[all_subdomains.txt](/data/acm.nl/all_subdomains.txt)|84|All found subdomains (history)|
 
 
@@ -32,7 +32,6 @@
 |[https://cryptshare.acm.nl](https://cryptshare.acm.nl)| **A+**| **A**|| |:white_check_mark: | | |:warning: | | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://probeer.acm.nl](https://probeer.acm.nl)| **F**| **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|403 Forbidden|
 |[https://ucs.services.acm.nl](https://ucs.services.acm.nl)| **F**| **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|Redirecting...|
-|[https://meeting.acm.nl](https://meeting.acm.nl)| **A**| **E**|ScreenConnect/21.14.5924.8013-1538391777 Microsoft-HTTPAPI/2.0| | | | | | :white_check_mark: | | :white_check_mark: | |Microsoft HTTPAPI:2.0|ACM Remote Suppo...|
 |[https://vsp.services.acm.nl](https://vsp.services.acm.nl)| **A**| **D**|server| | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | ||302 Found|
 |[https://auth.acm.nl](https://auth.acm.nl)| **A**| **A**|Microsoft-IIS/10.0| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server|Document Moved|
 |[https://remote.acm.nl](https://remote.acm.nl)| **A+**| **A**||:warning: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Microsoft ASP.NET||

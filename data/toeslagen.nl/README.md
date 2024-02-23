@@ -31,6 +31,6 @@
 |[https://fed01.toeslagen.nl](https://fed01.toeslagen.nl)| **A+**| **C**||:warning: |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS|403 - Forbidden:...|
 |[http://inkomen.toeslagen.nl](http://inkomen.toeslagen.nl)| | **F**|BigIP| | | | | | | | :white_check_mark: | |F5 BigIP||
 |[https://fibt1.toeslagen.nl](https://fibt1.toeslagen.nl)| **A**| **E**|| | | | | | | | :white_check_mark: | ||Request Rejected|
-|[https://werken.toeslagen.nl](https://werken.toeslagen.nl)| **A**| **A**|Ponos Maximum| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS||
-|[https://werkenbij.toeslagen.nl](https://werkenbij.toeslagen.nl)| | **A**|Ponos Maximum| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS||
+|[https://werken.toeslagen.nl](https://werken.toeslagen.nl)| **A**| **A**|Ponos Maximum| |:white_check_mark: | :warning:| |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
+|[https://werkenbij.toeslagen.nl](https://werkenbij.toeslagen.nl)| | **A**|Ponos Maximum| |:white_check_mark: | :warning:| |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 

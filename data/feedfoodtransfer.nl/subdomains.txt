@@ -15,3 +15,4 @@ dioxins-totalteq-hen.apps.feedfoodtransfer.nl
 dev.apps.feedfoodtransfer.nl
 mail.apps.feedfoodtransfer.nl
 uat.apps.feedfoodtransfer.nl
+staging.apps.feedfoodtransfer.nl

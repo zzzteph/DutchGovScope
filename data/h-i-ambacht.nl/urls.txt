@@ -18,3 +18,4 @@ https://gisibgeoserver-test.h-i-ambacht.nl
 https://rxlaunch-signicat-preprod.h-i-ambacht.nl
 https://vergunningintaker.h-i-ambacht.nl
 https://vthbroker.h-i-ambacht.nl
+https://omgevingsvisie.h-i-ambacht.nl

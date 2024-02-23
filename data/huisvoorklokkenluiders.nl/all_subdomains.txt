@@ -19,3 +19,4 @@ a-feeds.huisvoorklokkenluiders.nl
 a-opendata.huisvoorklokkenluiders.nl
 a-www.huisvoorklokkenluiders.nl
 mijn.huisvoorklokkenluiders.nl
+integriteitswijzer.huisvoorklokkenluiders.nl

@@ -24,7 +24,6 @@ emobility.rvo.nl
 energieslag.rvo.nl
 english.rvo.nl
 epbdwebservices.rvo.nl
-gdi.rvo.nl
 geocontent.rvo.nl
 geoservices.rvo.nl
 gtpa.rvo.nl

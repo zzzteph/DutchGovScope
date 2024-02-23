@@ -2,7 +2,7 @@
 layout: default
 title: "inspectieview.nl"
 permalink: "/dutchgov/inspectieview.nl.html"
-subdomains_count: 21
+subdomains_count: 22
 all_subdomains_count: 52
 urls_count: 9
 ssl_rank: A-
@@ -27,7 +27,7 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/inspectieview.nl/subdomains.txt)|21|Alive subdomains|
+|[subdomains.txt](/DutchGovScope/data/inspectieview.nl/subdomains.txt)|22|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/inspectieview.nl/urls.txt)|9|Urls|
 |[all_subdomains.txt](/DutchGovScope/data/inspectieview.nl/all_subdomains.txt)|52|All found subdomains (history)|
 

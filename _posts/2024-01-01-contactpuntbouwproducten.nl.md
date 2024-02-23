@@ -40,6 +40,6 @@ tags: dutchgov
 |[http://autodiscover.contactpuntbouwproducten.nl](http://autodiscover.contactpuntbouwproducten.nl)| | **B**|Microsoft-IIS/10.0|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server||
 |[https://mail.contactpuntbouwproducten.nl](https://mail.contactpuntbouwproducten.nl)| **B**| **F**|Microsoft-IIS/8.5| | | | | | | | :white_check_mark: | |IIS:8.5 Microsoft ASP.NET Windows Server||
 |[https://www.contactpuntbouwproducten.nl](https://www.contactpuntbouwproducten.nl)| **B**| **A**|Microsoft-IIS/8.5| |:white_check_mark: | | | :white_check_mark:| | | :white_check_mark: | |HSTS IIS:8.5 Microsoft ASP.NET:4.0.30319 Windows Server|Object moved|
-|[https://contactpuntbouwproducten.nl](https://contactpuntbouwproducten.nl)| **B**| **A**|Microsoft-IIS/8.5| |:white_check_mark: | | | :white_check_mark:| | | :white_check_mark: | |HSTS IIS:8.5 Microsoft ASP.NET Windows Server|Object moved|
+|[https://contactpuntbouwproducten.nl](https://contactpuntbouwproducten.nl)| **B**| **A**|Microsoft-IIS/8.5| |:white_check_mark: | | | :white_check_mark:| | | :white_check_mark: | |HSTS IIS:8.5 Microsoft ASP.NET:4.0.30319 Windows Server|Object moved|
 |[https://autoconfig.contactpuntbouwproducten.nl](https://autoconfig.contactpuntbouwproducten.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|Autodiscover|
 

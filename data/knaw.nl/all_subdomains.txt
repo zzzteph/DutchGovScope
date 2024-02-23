@@ -1823,3 +1823,5 @@ vangogh-api.dev.huc.knaw.nl
 wp-10.dev.huc.knaw.nl
 wp-01.dev.huc.knaw.nl
 ai-similia.labs.dans.knaw.nl
+wp-16.dev.huc.knaw.nl
+ss31.dans.knaw.nl

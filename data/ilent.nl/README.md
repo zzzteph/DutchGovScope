@@ -42,5 +42,5 @@
 |[https://www.ilent.nl](https://www.ilent.nl)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Home | Inspectie...|
 |[https://ilent.nl](https://ilent.nl)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
 |[https://staging.meldingen.ilent.nl](https://staging.meldingen.ilent.nl)| | **F**|openresty/1.25.3.1| | | | | | | | :white_check_mark: | |Nginx OpenResty:1.25.3.1|301 Moved Perman...|
-|[http://meldingen.ilent.nl](http://meldingen.ilent.nl)| | **F**|openresty/1.25.3.1| | | | | | | | :white_check_mark: | |Nginx OpenResty:1.25.3.1|301 Moved Perman...|
+|[https://meldingen.ilent.nl](https://meldingen.ilent.nl)| | **F**|openresty/1.25.3.1| | | | | | | | :white_check_mark: | |Nginx OpenResty:1.25.3.1|301 Moved Perman...|
 

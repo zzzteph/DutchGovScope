@@ -12,7 +12,7 @@
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/rivm.nl/subdomains.txt)|400|Alive subdomains|
-|[urls.txt](/data/rivm.nl/urls.txt)|270|Urls|
+|[urls.txt](/data/rivm.nl/urls.txt)|269|Urls|
 |[all_subdomains.txt](/data/rivm.nl/all_subdomains.txt)|925|All found subdomains (history)|
 
 
@@ -164,7 +164,6 @@
 |[https://mijn.rivm.nl](https://mijn.rivm.nl)| **A+**| **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |||
 |[https://mijnsap.rivm.nl](https://mijnsap.rivm.nl)| **A**| **E**|| | | | | | | | :white_check_mark: | |||
 |[http://milieuportaal.rivm.nl](http://milieuportaal.rivm.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
-|[http://modcat.rivm.nl](http://modcat.rivm.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://nevo.rivm.nl](https://nevo.rivm.nl)| **A+**| **D**|Microsoft-IIS/10.0|:warning: |:white_check_mark: | | | | | | :white_check_mark: | |Bootstrap:4 HSTS IIS:10.0 Microsoft ASP.NET Windows Server|Nederlands Voedi...|
 |[https://nevo-online.rivm.nl](https://nevo-online.rivm.nl)| **A+**| **D**|Microsoft-IIS/10.0|:warning: |:white_check_mark: | | | | | | :white_check_mark: | |Bootstrap:4 HSTS IIS:10.0 Microsoft ASP.NET Windows Server|Nederlands Voedi...|
 |[https://nieuwsbrief.rivm.nl](https://nieuwsbrief.rivm.nl)| **A**| **F**|nginx| | | | | | | | :white_check_mark: | |Nginx||
@@ -179,11 +178,11 @@
 |[https://password.rivm.nl](https://password.rivm.nl)| **A+**| **D**|BigIP|:warning: |:white_check_mark: | | | | | | :white_check_mark: | |F5 BigIP HSTS||
 |[https://password-link.rivm.nl](https://password-link.rivm.nl)| **B**| **C**|Apache| |:white_check_mark: | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|Access Gateway|
 |[http://password.osiris.rivm.nl](http://password.osiris.rivm.nl)| **A**| **E**|| | | | | | | | :white_check_mark: | |||
-|[https://portie-online.rivm.nl](https://portie-online.rivm.nl)| **A+**| **D**|Microsoft-IIS/10.0|:warning: |:white_check_mark: | | | | | | :white_check_mark: | |Bootstrap HSTS IIS:10.0 Microsoft ASP.NET:4.0.30319 Windows Server|Portie-online |...|
+|[https://portie-online.rivm.nl](https://portie-online.rivm.nl)| **A+**| **D**|Microsoft-IIS/10.0|:warning: |:white_check_mark: | | | | | | :white_check_mark: | |Bootstrap HSTS IIS:10.0 Microsoft ASP.NET Windows Server|Portie-online |...|
 |[https://pre-login.rivm.nl](https://pre-login.rivm.nl)| **A+**| **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
 |[https://pre-uzi.rivm.nl](https://pre-uzi.rivm.nl)| **A+**| **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
 |[https://prezies.osiris.rivm.nl](https://prezies.osiris.rivm.nl)| **A+**| **A**|| |:white_check_mark: | :warning:| |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET|Object moved|
-|[https://proastweb.rivm.nl](https://proastweb.rivm.nl)| **A+**| **D**|Microsoft-IIS/10.0|:white_check_mark: | | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bootstrap HSTS IIS:10.0 Microsoft ASP.NET:4.0.30319 Windows Server|Overview - PROAS...|
+|[https://proastweb.rivm.nl](https://proastweb.rivm.nl)| **A+**| **C**|Microsoft-IIS/10.0| | | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bootstrap HSTS IIS:10.0 Microsoft ASP.NET:4.0.30319 Windows Server|Overview - PROAS...|
 |[https://productie.rivm.nl](https://productie.rivm.nl)| **A+**| **D**||:warning: |:white_check_mark: | | | | | | :white_check_mark: | |F5 BigIP HSTS||
 |[http://prohibit.osiris.rivm.nl](http://prohibit.osiris.rivm.nl)| **A**| **E**|| | | | | | | | :white_check_mark: | |||
 |[https://proofofconcept.rivm.nl](https://proofofconcept.rivm.nl)| **A+**| **C**||:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | |Bootstrap HSTS|DKH-Dashboard Le...|

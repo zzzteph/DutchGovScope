@@ -44,3 +44,4 @@ migratie.bics.nl
 ftp.bics.nl
 lms.bics.nl
 sps.bics.nl
+bicsweb3.bics.nl

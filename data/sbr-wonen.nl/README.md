@@ -11,8 +11,8 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/sbr-wonen.nl/subdomains.txt)|4987|Alive subdomains|
-|[urls.txt](/data/sbr-wonen.nl/urls.txt)|4984|Urls|
+|[subdomains.txt](/data/sbr-wonen.nl/subdomains.txt)|8769|Alive subdomains|
+|[urls.txt](/data/sbr-wonen.nl/urls.txt)|4980|Urls|
 |[all_subdomains.txt](/data/sbr-wonen.nl/all_subdomains.txt)|8771|All found subdomains (history)|
 
 
@@ -2876,7 +2876,7 @@
 |[https://kolham.sbr-wonen.nl](https://kolham.sbr-wonen.nl)| | **F**|Apache/2| | | | | | | | :white_check_mark: | |Apache HTTP Server:2||
 |[https://web4980.sbr-wonen.nl](https://web4980.sbr-wonen.nl)| | **F**|Apache/2| | | | | | | | :white_check_mark: | |Apache HTTP Server:2||
 |[https://cashflow.sbr-wonen.nl](https://cashflow.sbr-wonen.nl)| | **F**|Apache/2| | | | | | | | :white_check_mark: | |Apache HTTP Server:2||
-|[https://refactoring.sbr-wonen.nl](https://refactoring.sbr-wonen.nl)| | **F**|Apache/2| | | | | | | | :white_check_mark: | |Apache HTTP Server:2||
+|[http://refactoring.sbr-wonen.nl](http://refactoring.sbr-wonen.nl)| | **F**|Apache/2| | | | | | | | :white_check_mark: | |Apache HTTP Server:2||
 |[https://abio.sbr-wonen.nl](https://abio.sbr-wonen.nl)| | **F**|Apache/2| | | | | | | | :white_check_mark: | |Apache HTTP Server:2||
 |[https://maarsbergen.sbr-wonen.nl](https://maarsbergen.sbr-wonen.nl)| | **F**|Apache/2| | | | | | | | :white_check_mark: | |Apache HTTP Server:2||
 |[https://airconditioning.sbr-wonen.nl](https://airconditioning.sbr-wonen.nl)| | **F**|Apache/2| | | | | | | | :white_check_mark: | |Apache HTTP Server:2||
@@ -2900,13 +2900,9 @@
 |[https://kovylkino.sbr-wonen.nl](https://kovylkino.sbr-wonen.nl)| | **F**|Apache/2| | | | | | | | :white_check_mark: | |Apache HTTP Server:2||
 |[https://schwartz.sbr-wonen.nl](https://schwartz.sbr-wonen.nl)| | **F**|Apache/2| | | | | | | | :white_check_mark: | |Apache HTTP Server:2||
 |[https://wolfteam.sbr-wonen.nl](https://wolfteam.sbr-wonen.nl)| | **F**|Apache/2| | | | | | | | :white_check_mark: | |Apache HTTP Server:2||
-|[https://phelps.sbr-wonen.nl](https://phelps.sbr-wonen.nl)| | **F**|Apache/2| | | | | | | | :white_check_mark: | |Apache HTTP Server:2||
-|[https://new.tv.sbr-wonen.nl](https://new.tv.sbr-wonen.nl)| | **F**|Apache/2| | | | | | | | :white_check_mark: | |Apache HTTP Server:2||
-|[https://homes.sbr-wonen.nl](https://homes.sbr-wonen.nl)| | **F**|Apache/2| | | | | | | | :white_check_mark: | |Apache HTTP Server:2||
+|[http://homes.sbr-wonen.nl](http://homes.sbr-wonen.nl)| | **F**|Apache/2| | | | | | | | :white_check_mark: | |Apache HTTP Server:2||
 |[https://pecos.sbr-wonen.nl](https://pecos.sbr-wonen.nl)| | **F**|Apache/2| | | | | | | | :white_check_mark: | |Apache HTTP Server:2||
 |[https://insu.sbr-wonen.nl](https://insu.sbr-wonen.nl)| | **F**|Apache/2| | | | | | | | :white_check_mark: | |Apache HTTP Server:2||
-|[https://members3.sbr-wonen.nl](https://members3.sbr-wonen.nl)| | **F**|Apache/2| | | | | | | | :white_check_mark: | |Apache HTTP Server:2||
-|[https://radcliffe.sbr-wonen.nl](https://radcliffe.sbr-wonen.nl)| | **F**|Apache/2| | | | | | | | :white_check_mark: | |Apache HTTP Server:2||
 |[https://test-services.sbr-wonen.nl](https://test-services.sbr-wonen.nl)| | **F**|Apache/2| | | | | | | | :white_check_mark: | |Apache HTTP Server:2||
 |[https://key2.sbr-wonen.nl](https://key2.sbr-wonen.nl)| | **F**|Apache/2| | | | | | | | :white_check_mark: | |Apache HTTP Server:2||
 |[https://atty.sbr-wonen.nl](https://atty.sbr-wonen.nl)| | **F**|Apache/2| | | | | | | | :white_check_mark: | |Apache HTTP Server:2||
@@ -3154,7 +3150,7 @@
 |[https://testsso.sbr-wonen.nl](https://testsso.sbr-wonen.nl)| | **F**|Apache/2| | | | | | | | :white_check_mark: | |Apache HTTP Server:2||
 |[https://and.sbr-wonen.nl](https://and.sbr-wonen.nl)| | **F**|Apache/2| | | | | | | | :white_check_mark: | |Apache HTTP Server:2||
 |[https://dac.sbr-wonen.nl](https://dac.sbr-wonen.nl)| | **F**|Apache/2| | | | | | | | :white_check_mark: | |Apache HTTP Server:2||
-|[https://dingo.sbr-wonen.nl](https://dingo.sbr-wonen.nl)| | **F**|Apache/2| | | | | | | | :white_check_mark: | |Apache HTTP Server:2||
+|[http://dingo.sbr-wonen.nl](http://dingo.sbr-wonen.nl)| | **F**|Apache/2| | | | | | | | :white_check_mark: | |Apache HTTP Server:2||
 |[https://genio.sbr-wonen.nl](https://genio.sbr-wonen.nl)| | **F**|Apache/2| | | | | | | | :white_check_mark: | |Apache HTTP Server:2||
 |[https://sdcc.sbr-wonen.nl](https://sdcc.sbr-wonen.nl)| | **F**|Apache/2| | | | | | | | :white_check_mark: | |Apache HTTP Server:2||
 |[https://allens.sbr-wonen.nl](https://allens.sbr-wonen.nl)| | **F**|Apache/2| | | | | | | | :white_check_mark: | |Apache HTTP Server:2||
@@ -3167,7 +3163,7 @@
 |[https://stinger.sbr-wonen.nl](https://stinger.sbr-wonen.nl)| | **F**|Apache/2| | | | | | | | :white_check_mark: | |Apache HTTP Server:2||
 |[https://combatarms.sbr-wonen.nl](https://combatarms.sbr-wonen.nl)| | **F**|Apache/2| | | | | | | | :white_check_mark: | |Apache HTTP Server:2||
 |[https://alsou.sbr-wonen.nl](https://alsou.sbr-wonen.nl)| | **F**|Apache/2| | | | | | | | :white_check_mark: | |Apache HTTP Server:2||
-|[https://dmn.sbr-wonen.nl](https://dmn.sbr-wonen.nl)| | **F**|Apache/2| | | | | | | | :white_check_mark: | |Apache HTTP Server:2||
+|[http://dmn.sbr-wonen.nl](http://dmn.sbr-wonen.nl)| | **F**|Apache/2| | | | | | | | :white_check_mark: | |Apache HTTP Server:2||
 |[https://graves.sbr-wonen.nl](https://graves.sbr-wonen.nl)| | **F**|Apache/2| | | | | | | | :white_check_mark: | |Apache HTTP Server:2||
 |[https://autogids.sbr-wonen.nl](https://autogids.sbr-wonen.nl)| | **F**|Apache/2| | | | | | | | :white_check_mark: | |Apache HTTP Server:2||
 |[https://personio.sbr-wonen.nl](https://personio.sbr-wonen.nl)| | **F**|Apache/2| | | | | | | | :white_check_mark: | |Apache HTTP Server:2||
@@ -4967,8 +4963,8 @@
 |[https://log.sbr-wonen.nl](https://log.sbr-wonen.nl)| | **F**|Apache/2| | | | | | | | :white_check_mark: | |Apache HTTP Server:2||
 |[https://xyu.sbr-wonen.nl](https://xyu.sbr-wonen.nl)| | **F**|Apache/2| | | | | | | | :white_check_mark: | |Apache HTTP Server:2||
 |[https://veiligdelen.sbr-wonen.nl](https://veiligdelen.sbr-wonen.nl)| | **F**|Apache/2| | | | | | | | :white_check_mark: | |Apache HTTP Server:2||
-|[https://telephone.sbr-wonen.nl](https://telephone.sbr-wonen.nl)| | **F**|Apache/2| | | | | | | | :white_check_mark: | |Apache HTTP Server:2||
-|[https://imap.app.sbr-wonen.nl](https://imap.app.sbr-wonen.nl)| | **F**|Apache/2| | | | | | | | :white_check_mark: | |Apache HTTP Server:2||
+|[http://telephone.sbr-wonen.nl](http://telephone.sbr-wonen.nl)| | **F**|Apache/2| | | | | | | | :white_check_mark: | |Apache HTTP Server:2||
+|[http://imap.app.sbr-wonen.nl](http://imap.app.sbr-wonen.nl)| | **F**|Apache/2| | | | | | | | :white_check_mark: | |Apache HTTP Server:2||
 |[https://nathalie.sbr-wonen.nl](https://nathalie.sbr-wonen.nl)| | **F**|Apache/2| | | | | | | | :white_check_mark: | |Apache HTTP Server:2||
 |[https://paltalk.sbr-wonen.nl](https://paltalk.sbr-wonen.nl)| | **F**|Apache/2| | | | | | | | :white_check_mark: | |Apache HTTP Server:2||
 |[https://streaming1.sbr-wonen.nl](https://streaming1.sbr-wonen.nl)| | **F**|Apache/2| | | | | | | | :white_check_mark: | |Apache HTTP Server:2||

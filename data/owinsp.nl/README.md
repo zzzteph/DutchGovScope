@@ -23,7 +23,7 @@
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[https://intern.survey.collector.owinsp.nl](https://intern.survey.collector.owinsp.nl)| **F**| **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|503 Service Unav...|
 |[https://isd.owinsp.nl](https://isd.owinsp.nl)| **B**| **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS Java||
-|[https://isd.acc.owinsp.nl](https://isd.acc.owinsp.nl)| **B**| **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS Java||
+|[https://isd.acc.owinsp.nl](https://isd.acc.owinsp.nl)| **B**| **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|301 Moved Perman...|
 |[https://pit.collector.owinsp.nl](https://pit.collector.owinsp.nl)| **F**| **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|503 Service Unav...|
 |[https://pit.collectora.acc.owinsp.nl](https://pit.collectora.acc.owinsp.nl)| **F**| **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|503 Service Unav...|
 |[https://pitng.owinsp.nl](https://pitng.owinsp.nl)| **B**| **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|Toezichtresultat...|

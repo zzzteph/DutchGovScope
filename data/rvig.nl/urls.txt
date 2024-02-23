@@ -5,8 +5,8 @@ https://login.idm.rvig.nl
 https://login.npr.idm.rvig.nl
 https://prod.rvig.nl
 https://publicaties.rvig.nl
-https://rni-webform.rvig.nl
-https://rni-webform-acc.rvig.nl
+http://rni-webform.rvig.nl
+http://rni-webform-acc.rvig.nl
 https://test.rvig.nl
 https://test.intranet.rvig.nl
 https://www.rvig.nl

@@ -7,7 +7,7 @@ all_subdomains_count: 3
 urls_count: 3
 ssl_rank: A+
 http_rank: C
-security_txt: 2
+security_txt: 0
 url_link: /data/nldigitalgovernment.nl/urls.txt
 all_subdomains_link: /data/nldigitalgovernment.nl/all_subdomains.txt
 subdomains_link: /data/nldigitalgovernment.nl/subdomains.txt
@@ -22,7 +22,7 @@ tags: dutchgov
 
  - **SSL Grade**:A+
  - **HTTP Security Grade**:C
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:2
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:0
 
 
 | File       | Count | Info |

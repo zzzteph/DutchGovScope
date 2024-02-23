@@ -141,7 +141,6 @@ https://mgk.osiris.rivm.nl
 https://mijn.rivm.nl
 https://mijnsap.rivm.nl
 http://milieuportaal.rivm.nl
-http://modcat.rivm.nl
 https://nevo.rivm.nl
 https://nevo-online.rivm.nl
 https://nieuwsbrief.rivm.nl

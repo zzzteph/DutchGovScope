@@ -4,7 +4,7 @@ title: "flevoland.nl"
 permalink: "/dutchgov/flevoland.nl.html"
 subdomains_count: 103
 all_subdomains_count: 221
-urls_count: 78
+urls_count: 79
 ssl_rank: A-
 http_rank: C
 security_txt: 25
@@ -28,7 +28,7 @@ tags: dutchgov
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/DutchGovScope/data/flevoland.nl/subdomains.txt)|103|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/flevoland.nl/urls.txt)|78|Urls|
+|[urls.txt](/DutchGovScope/data/flevoland.nl/urls.txt)|79|Urls|
 |[all_subdomains.txt](/DutchGovScope/data/flevoland.nl/all_subdomains.txt)|221|All found subdomains (history)|
 
 
@@ -54,6 +54,7 @@ tags: dutchgov
 |[https://jaarverslag2018.flevoland.nl](https://jaarverslag2018.flevoland.nl)| **A+**| **C**|Microsoft-IIS/10.0|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Azure HSTS IIS:10.0 Windows Server|Home | Jaarversl...|
 |[https://testmdm.flevoland.nl](https://testmdm.flevoland.nl)| **A**| **A**|server| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|302 Found|
 |[https://nnn.flevoland.nl](https://nnn.flevoland.nl)| **B**| **A**|Apache/2.4.29 (Ubuntu)| |:white_check_mark: | | | :white_check_mark:| | | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu|301 Moved Perman...|
+|[https://esb-preprod.flevoland.nl](https://esb-preprod.flevoland.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
 |[https://adfs.flevoland.nl](https://adfs.flevoland.nl)| **A+**| **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Not Found|
 |[https://begroting2020.flevoland.nl](https://begroting2020.flevoland.nl)| **A+**| **A**|Microsoft-IIS/10.0|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Azure HSTS IIS:10.0 Windows Server|Home | Begroting...|
 |[https://micollab.flevoland.nl](https://micollab.flevoland.nl)| **B**| **A**|Apache| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS|Redirecting...|

@@ -12,7 +12,7 @@
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/waarzitwatin.nl/subdomains.txt)|106|Alive subdomains|
-|[urls.txt](/data/waarzitwatin.nl/urls.txt)|87|Urls|
+|[urls.txt](/data/waarzitwatin.nl/urls.txt)|106|Urls|
 |[all_subdomains.txt](/data/waarzitwatin.nl/all_subdomains.txt)|106|All found subdomains (history)|
 
 
@@ -22,7 +22,7 @@
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[https://staging.waarzitwatin.nl](https://staging.waarzitwatin.nl)| **A**| **F**|CloudFront| | | | | | | | :white_check_mark: | |AWS WAF Captcha Amazon CloudFront Amazon Web Services|Human Verificati...|
-|[https://www.waarzitwatin.nl](https://www.waarzitwatin.nl)| | **F**|cloudflare| | | | | | | | :white_check_mark: | |AWS WAF Captcha Amazon CloudFront Amazon Web Services Cloudflare HTTP/3|Human Verificati...|
+|[https://www.waarzitwatin.nl](https://www.waarzitwatin.nl)| | **F**|cloudflare| | | | | | | | :white_check_mark: | |Amazon CloudFront Amazon Web Services Cloudflare HSTS HTTP/3|301 Moved Perman...|
 |[https://waarzitwatin.nl](https://waarzitwatin.nl)| **A+**| **F**|CloudFront| | | | | | | | :white_check_mark: | |AWS WAF Captcha Amazon CloudFront Amazon Web Services|Human Verificati...|
 |[https://files.staging.waarzitwatin.nl](https://files.staging.waarzitwatin.nl)| | **F**|CloudFront| | | | | | | | :white_check_mark: | |AWS WAF Captcha Amazon CloudFront Amazon Web Services|Human Verificati...|
 |[https://kibana.staging.waarzitwatin.nl](https://kibana.staging.waarzitwatin.nl)| | **F**|CloudFront| | | | | | | | :white_check_mark: | |AWS WAF Captcha Amazon CloudFront Amazon Web Services|Human Verificati...|
@@ -108,4 +108,23 @@
 |[https://proxy.staging.waarzitwatin.nl](https://proxy.staging.waarzitwatin.nl)| | **F**|CloudFront| | | | | | | | :white_check_mark: | |AWS WAF Captcha Amazon CloudFront Amazon Web Services|Human Verificati...|
 |[https://jenkins.staging.waarzitwatin.nl](https://jenkins.staging.waarzitwatin.nl)| | **F**|CloudFront| | | | | | | | :white_check_mark: | |AWS WAF Captcha Amazon CloudFront Amazon Web Services|Human Verificati...|
 |[https://link.staging.waarzitwatin.nl](https://link.staging.waarzitwatin.nl)| | **F**|CloudFront| | | | | | | | :white_check_mark: | |AWS WAF Captcha Amazon CloudFront Amazon Web Services|Human Verificati...|
+|[https://crm.staging.waarzitwatin.nl](https://crm.staging.waarzitwatin.nl)| | **F**|CloudFront| | | | | | | | :white_check_mark: | |AWS WAF Captcha Amazon CloudFront Amazon Web Services|Human Verificati...|
+|[https://new.staging.waarzitwatin.nl](https://new.staging.waarzitwatin.nl)| | **F**|CloudFront| | | | | | | | :white_check_mark: | |AWS WAF Captcha Amazon CloudFront Amazon Web Services|Human Verificati...|
+|[https://careers.staging.waarzitwatin.nl](https://careers.staging.waarzitwatin.nl)| | **F**|CloudFront| | | | | | | | :white_check_mark: | |AWS WAF Captcha Amazon CloudFront Amazon Web Services|Human Verificati...|
+|[https://kcs.staging.waarzitwatin.nl](https://kcs.staging.waarzitwatin.nl)| | **F**|CloudFront| | | | | | | | :white_check_mark: | |AWS WAF Captcha Amazon CloudFront Amazon Web Services|Human Verificati...|
+|[https://staging.staging.waarzitwatin.nl](https://staging.staging.waarzitwatin.nl)| | **F**|CloudFront| | | | | | | | :white_check_mark: | |AWS WAF Captcha Amazon CloudFront Amazon Web Services|Human Verificati...|
+|[https://v6.staging.waarzitwatin.nl](https://v6.staging.waarzitwatin.nl)| | **F**|CloudFront| | | | | | | | :white_check_mark: | |AWS WAF Captcha Amazon CloudFront Amazon Web Services|Human Verificati...|
+|[https://secure.staging.waarzitwatin.nl](https://secure.staging.waarzitwatin.nl)| | **F**|CloudFront| | | | | | | | :white_check_mark: | |AWS WAF Captcha Amazon CloudFront Amazon Web Services|Human Verificati...|
+|[https://v3.staging.waarzitwatin.nl](https://v3.staging.waarzitwatin.nl)| | **F**|CloudFront| | | | | | | | :white_check_mark: | |AWS WAF Captcha Amazon CloudFront Amazon Web Services|Human Verificati...|
+|[https://build.staging.waarzitwatin.nl](https://build.staging.waarzitwatin.nl)| | **F**|CloudFront| | | | | | | | :white_check_mark: | |AWS WAF Captcha Amazon CloudFront Amazon Web Services|Human Verificati...|
+|[https://gateway.staging.waarzitwatin.nl](https://gateway.staging.waarzitwatin.nl)| | **F**|CloudFront| | | | | | | | :white_check_mark: | |AWS WAF Captcha Amazon CloudFront Amazon Web Services|Human Verificati...|
+|[https://api.staging.waarzitwatin.nl](https://api.staging.waarzitwatin.nl)| | **F**|CloudFront| | | | | | | | :white_check_mark: | |AWS WAF Captcha Amazon CloudFront Amazon Web Services|Human Verificati...|
+|[https://edit.staging.waarzitwatin.nl](https://edit.staging.waarzitwatin.nl)| | **F**|CloudFront| | | | | | | | :white_check_mark: | |AWS WAF Captcha Amazon CloudFront Amazon Web Services|Human Verificati...|
+|[https://fr.staging.waarzitwatin.nl](https://fr.staging.waarzitwatin.nl)| | **F**|CloudFront| | | | | | | | :white_check_mark: | |AWS WAF Captcha Amazon CloudFront Amazon Web Services|Human Verificati...|
+|[https://jobs.staging.waarzitwatin.nl](https://jobs.staging.waarzitwatin.nl)| | **F**|CloudFront| | | | | | | | :white_check_mark: | |AWS WAF Captcha Amazon CloudFront Amazon Web Services|Human Verificati...|
+|[https://mail.staging.waarzitwatin.nl](https://mail.staging.waarzitwatin.nl)| | **F**|CloudFront| | | | | | | | :white_check_mark: | |AWS WAF Captcha Amazon CloudFront Amazon Web Services|Human Verificati...|
+|[https://en.staging.waarzitwatin.nl](https://en.staging.waarzitwatin.nl)| | **F**|CloudFront| | | | | | | | :white_check_mark: | |AWS WAF Captcha Amazon CloudFront Amazon Web Services|Human Verificati...|
+|[https://vault.staging.waarzitwatin.nl](https://vault.staging.waarzitwatin.nl)| | **F**|CloudFront| | | | | | | | :white_check_mark: | |AWS WAF Captcha Amazon CloudFront Amazon Web Services|Human Verificati...|
+|[https://store.staging.waarzitwatin.nl](https://store.staging.waarzitwatin.nl)| | **F**|CloudFront| | | | | | | | :white_check_mark: | |AWS WAF Captcha Amazon CloudFront Amazon Web Services|Human Verificati...|
+|[https://it.staging.waarzitwatin.nl](https://it.staging.waarzitwatin.nl)| | **F**|CloudFront| | | | | | | | :white_check_mark: | |AWS WAF Captcha Amazon CloudFront Amazon Web Services|Human Verificati...|
 

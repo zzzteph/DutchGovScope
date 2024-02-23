@@ -51,7 +51,7 @@ tags: dutchgov
 |[https://staten.zuid-holland.nl](https://staten.zuid-holland.nl)| **A+**| **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:-|Object moved|
 |[https://ro.zuid-holland.nl](https://ro.zuid-holland.nl)| **A+**| **C**||:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|ro.zuid-holland....|
 |[https://inbeeld.zuid-holland.nl](https://inbeeld.zuid-holland.nl)| **A+**| **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
-|[https://geo-test.zuid-holland.nl](https://geo-test.zuid-holland.nl)| **A+**| **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
+|[https://geo-test.zuid-holland.nl](https://geo-test.zuid-holland.nl)| **A+**| **F**|webserver| | | | | | | | :white_check_mark: | |HSTS||
 |[https://opendata.zuid-holland.nl](https://opendata.zuid-holland.nl)| **A+**| **C**||:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
 |[https://ruimtelijkeplannen.zuid-holland.nl](https://ruimtelijkeplannen.zuid-holland.nl)| **B**| **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |Bootstrap HSTS Nginx|Ruimtelijke plan...|
 |[https://wapenfeiten.zuid-holland.nl](https://wapenfeiten.zuid-holland.nl)| **A**| **E**|Apache| | | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server Drupal:8 PHP|Wapenfeiten: de...|

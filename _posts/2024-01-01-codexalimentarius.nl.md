@@ -2,7 +2,7 @@
 layout: default
 title: "codexalimentarius.nl"
 permalink: "/dutchgov/codexalimentarius.nl.html"
-subdomains_count: 4
+subdomains_count: 10
 all_subdomains_count: 12
 urls_count: 4
 ssl_rank: A+
@@ -27,7 +27,7 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/codexalimentarius.nl/subdomains.txt)|4|Alive subdomains|
+|[subdomains.txt](/DutchGovScope/data/codexalimentarius.nl/subdomains.txt)|10|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/codexalimentarius.nl/urls.txt)|4|Urls|
 |[all_subdomains.txt](/DutchGovScope/data/codexalimentarius.nl/all_subdomains.txt)|12|All found subdomains (history)|
 

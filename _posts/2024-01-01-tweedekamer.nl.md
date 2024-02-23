@@ -3,7 +3,7 @@ layout: default
 title: "tweedekamer.nl"
 permalink: "/dutchgov/tweedekamer.nl.html"
 subdomains_count: 161
-all_subdomains_count: 257
+all_subdomains_count: 259
 urls_count: 119
 ssl_rank: A-
 http_rank: C
@@ -29,7 +29,7 @@ tags: dutchgov
 |------------|-------|------|
 |[subdomains.txt](/DutchGovScope/data/tweedekamer.nl/subdomains.txt)|161|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/tweedekamer.nl/urls.txt)|119|Urls|
-|[all_subdomains.txt](/DutchGovScope/data/tweedekamer.nl/all_subdomains.txt)|257|All found subdomains (history)|
+|[all_subdomains.txt](/DutchGovScope/data/tweedekamer.nl/all_subdomains.txt)|259|All found subdomains (history)|
 
 
 ## Statistics
@@ -74,7 +74,7 @@ tags: dutchgov
 |[https://acc.meldingenapp.tweedekamer.nl](https://acc.meldingenapp.tweedekamer.nl)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Drupal:9 HSTS Nginx PHP|Home | Plein2 Me...|
 |[https://sts.test.tweedekamer.nl](https://sts.test.tweedekamer.nl)| **A**| **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
 |[https://livestreaming.b67bu.tweedekamer.nl](https://livestreaming.b67bu.tweedekamer.nl)| **A**| **F**|ECAcc (frc/4C86)| | | | | | | | :white_check_mark: | |Azure Azure CDN|Your Azure Funct...|
-|[https://livestream-media-backup.tweedekamer.nl](https://livestream-media-backup.tweedekamer.nl)| **A**| **F**|ECAcc (frc/4C86)| | | :warning:| | | | | :white_check_mark: | |Azure Azure CDN||
+|[https://livestream-media-backup.tweedekamer.nl](https://livestream-media-backup.tweedekamer.nl)| **A**| **F**|Microsoft-IIS/10.0| | | :warning:| | | | | :white_check_mark: | |IIS:10.0 Windows Server||
 |[https://houseofrepresentatives.test.tweedekamer.nl](https://houseofrepresentatives.test.tweedekamer.nl)| **A-**| **C**|nginx/1.25.4| |:white_check_mark: | | | | | | :white_check_mark: | |Basic Nginx:1.25.4|401 Authorizatio...|
 |[https://livestream-backup.tweedekamer.nl](https://livestream-backup.tweedekamer.nl)| **A**| **F**|ECAcc (frc/4C86)| | | | | | | | :white_check_mark: | |Azure Azure CDN|Your Azure Funct...|
 |[https://debatgemist.acceptatie.tweedekamer.nl](https://debatgemist.acceptatie.tweedekamer.nl)| **A**| **A**|| |:white_check_mark: | | |:warning: | | :white_check_mark: | :white_check_mark: | |Amazon CloudFront Amazon Web Services||

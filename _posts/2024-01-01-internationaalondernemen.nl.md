@@ -3,7 +3,7 @@ layout: default
 title: "internationaalondernemen.nl"
 permalink: "/dutchgov/internationaalondernemen.nl.html"
 subdomains_count: 8
-all_subdomains_count: 8
+all_subdomains_count: 10
 urls_count: 8
 ssl_rank: E
 http_rank: E
@@ -29,7 +29,7 @@ tags: dutchgov
 |------------|-------|------|
 |[subdomains.txt](/DutchGovScope/data/internationaalondernemen.nl/subdomains.txt)|8|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/internationaalondernemen.nl/urls.txt)|8|Urls|
-|[all_subdomains.txt](/DutchGovScope/data/internationaalondernemen.nl/all_subdomains.txt)|8|All found subdomains (history)|
+|[all_subdomains.txt](/DutchGovScope/data/internationaalondernemen.nl/all_subdomains.txt)|10|All found subdomains (history)|
 
 
 ## Statistics

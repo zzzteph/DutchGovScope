@@ -2,8 +2,8 @@
 layout: default
 title: "ienc-kennisportaal.nl"
 permalink: "/dutchgov/ienc-kennisportaal.nl.html"
-subdomains_count: 3
-all_subdomains_count: 3
+subdomains_count: 6
+all_subdomains_count: 6
 urls_count: 3
 ssl_rank: B
 http_rank: A
@@ -27,9 +27,9 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/ienc-kennisportaal.nl/subdomains.txt)|3|Alive subdomains|
+|[subdomains.txt](/DutchGovScope/data/ienc-kennisportaal.nl/subdomains.txt)|6|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/ienc-kennisportaal.nl/urls.txt)|3|Urls|
-|[all_subdomains.txt](/DutchGovScope/data/ienc-kennisportaal.nl/all_subdomains.txt)|3|All found subdomains (history)|
+|[all_subdomains.txt](/DutchGovScope/data/ienc-kennisportaal.nl/all_subdomains.txt)|6|All found subdomains (history)|
 
 
 ## Statistics

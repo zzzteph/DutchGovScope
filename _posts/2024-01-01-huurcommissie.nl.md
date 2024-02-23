@@ -3,7 +3,7 @@ layout: default
 title: "huurcommissie.nl"
 permalink: "/dutchgov/huurcommissie.nl.html"
 subdomains_count: 41
-all_subdomains_count: 57
+all_subdomains_count: 58
 urls_count: 16
 ssl_rank: A+
 http_rank: C
@@ -29,7 +29,7 @@ tags: dutchgov
 |------------|-------|------|
 |[subdomains.txt](/DutchGovScope/data/huurcommissie.nl/subdomains.txt)|41|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/huurcommissie.nl/urls.txt)|16|Urls|
-|[all_subdomains.txt](/DutchGovScope/data/huurcommissie.nl/all_subdomains.txt)|57|All found subdomains (history)|
+|[all_subdomains.txt](/DutchGovScope/data/huurcommissie.nl/all_subdomains.txt)|58|All found subdomains (history)|
 
 
 ## Statistics
@@ -39,7 +39,7 @@ tags: dutchgov
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[https://www.huurcommissie.nl](https://www.huurcommissie.nl)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Home | Huurcommi...|
 |[https://opendata.huurcommissie.nl](https://opendata.huurcommissie.nl)| **A+**| **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
-|[https://hip-acc.huurcommissie.nl](https://hip-acc.huurcommissie.nl)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS Nginx|Huurcommissie|
+|[https://hip-acc.huurcommissie.nl](https://hip-acc.huurcommissie.nl)| **A+**| **A**|nginx| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS Nginx|Huurcommissie|
 |[https://adfs.huurcommissie.nl](https://adfs.huurcommissie.nl)| **B**| **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
 |[https://checkjeprijs.huurcommissie.nl](https://checkjeprijs.huurcommissie.nl)| **A+**| **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
 |[http://autodiscover.huurcommissie.nl](http://autodiscover.huurcommissie.nl)| | **E**|Microsoft-IIS/10.0| | | | | | :white_check_mark: | | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server||

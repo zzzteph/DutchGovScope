@@ -2853,7 +2853,7 @@ https://atoom.sbr-wonen.nl
 https://kolham.sbr-wonen.nl
 https://web4980.sbr-wonen.nl
 https://cashflow.sbr-wonen.nl
-https://refactoring.sbr-wonen.nl
+http://refactoring.sbr-wonen.nl
 https://abio.sbr-wonen.nl
 https://maarsbergen.sbr-wonen.nl
 https://airconditioning.sbr-wonen.nl
@@ -2877,13 +2877,9 @@ https://govno.sbr-wonen.nl
 https://kovylkino.sbr-wonen.nl
 https://schwartz.sbr-wonen.nl
 https://wolfteam.sbr-wonen.nl
-https://phelps.sbr-wonen.nl
-https://new.tv.sbr-wonen.nl
-https://homes.sbr-wonen.nl
+http://homes.sbr-wonen.nl
 https://pecos.sbr-wonen.nl
 https://insu.sbr-wonen.nl
-https://members3.sbr-wonen.nl
-https://radcliffe.sbr-wonen.nl
 https://test-services.sbr-wonen.nl
 https://key2.sbr-wonen.nl
 https://atty.sbr-wonen.nl
@@ -3131,7 +3127,7 @@ https://wilburmaddox85.sbr-wonen.nl
 https://testsso.sbr-wonen.nl
 https://and.sbr-wonen.nl
 https://dac.sbr-wonen.nl
-https://dingo.sbr-wonen.nl
+http://dingo.sbr-wonen.nl
 https://genio.sbr-wonen.nl
 https://sdcc.sbr-wonen.nl
 https://allens.sbr-wonen.nl
@@ -3144,7 +3140,7 @@ https://web.blog.sbr-wonen.nl
 https://stinger.sbr-wonen.nl
 https://combatarms.sbr-wonen.nl
 https://alsou.sbr-wonen.nl
-https://dmn.sbr-wonen.nl
+http://dmn.sbr-wonen.nl
 https://graves.sbr-wonen.nl
 https://autogids.sbr-wonen.nl
 https://personio.sbr-wonen.nl
@@ -4944,8 +4940,8 @@ https://bose.sbr-wonen.nl
 https://log.sbr-wonen.nl
 https://xyu.sbr-wonen.nl
 https://veiligdelen.sbr-wonen.nl
-https://telephone.sbr-wonen.nl
-https://imap.app.sbr-wonen.nl
+http://telephone.sbr-wonen.nl
+http://imap.app.sbr-wonen.nl
 https://nathalie.sbr-wonen.nl
 https://paltalk.sbr-wonen.nl
 https://streaming1.sbr-wonen.nl

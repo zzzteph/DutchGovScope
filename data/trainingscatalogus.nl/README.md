@@ -5,15 +5,15 @@
 
 
  - **SSL Grade**:A+
- - **HTTP Security Grade**:B
+ - **HTTP Security Grade**:C
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:17
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/trainingscatalogus.nl/subdomains.txt)|85|Alive subdomains|
+|[subdomains.txt](/data/trainingscatalogus.nl/subdomains.txt)|110|Alive subdomains|
 |[urls.txt](/data/trainingscatalogus.nl/urls.txt)|82|Urls|
-|[all_subdomains.txt](/data/trainingscatalogus.nl/all_subdomains.txt)|120|All found subdomains (history)|
+|[all_subdomains.txt](/data/trainingscatalogus.nl/all_subdomains.txt)|123|All found subdomains (history)|
 
 
 ## Statistics
@@ -71,7 +71,7 @@
 |[https://ez-lms.trainingscatalogus.nl](https://ez-lms.trainingscatalogus.nl)| **A+**| **A**|Class|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Access is denied...|
 |[https://lms-stater.trainingscatalogus.nl](https://lms-stater.trainingscatalogus.nl)| **A+**| **A**|Class|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Access is denied...|
 |[https://appgw-prd-04.trainingscatalogus.nl](https://appgw-prd-04.trainingscatalogus.nl)| **A**| **F**|Microsoft-Azure-Application-Gateway/v2| | | | | | | | :white_check_mark: | ||404 Not Found|
-|[https://class-t.trainingscatalogus.nl](https://class-t.trainingscatalogus.nl)| **A+**| **B**|Class|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
+|[https://class-t.trainingscatalogus.nl](https://class-t.trainingscatalogus.nl)| **A+**| **F**|Microsoft-Azure-Application-Gateway/v2| | | | | | | | :white_check_mark: | |HSTS|502 Bad Gateway|
 |[https://lms-demo.trainingscatalogus.nl](https://lms-demo.trainingscatalogus.nl)| **A+**| **A**|Class|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Access is denied...|
 |[https://class-p.trainingscatalogus.nl](https://class-p.trainingscatalogus.nl)| **A+**| **C**|Class|:white_check_mark: |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://senzer.trainingscatalogus.nl](https://senzer.trainingscatalogus.nl)| **A+**| **B**|Class|:white_check_mark: |:white_check_mark: | | |:warning: | | :white_check_mark: | :white_check_mark: | |HSTS||

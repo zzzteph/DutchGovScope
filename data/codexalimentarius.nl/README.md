@@ -11,7 +11,7 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/codexalimentarius.nl/subdomains.txt)|4|Alive subdomains|
+|[subdomains.txt](/data/codexalimentarius.nl/subdomains.txt)|10|Alive subdomains|
 |[urls.txt](/data/codexalimentarius.nl/urls.txt)|4|Urls|
 |[all_subdomains.txt](/data/codexalimentarius.nl/all_subdomains.txt)|12|All found subdomains (history)|
 

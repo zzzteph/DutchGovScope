@@ -59,3 +59,5 @@ lyncdiscover.cbg-meb.nl
 enterpriseregistration.cbg-meb.nl
 msoid.cbg-meb.nl
 sftp.cbg-meb.nl
+b2bi-acc.cbg-meb.nl
+b2bi.cbg-meb.nl

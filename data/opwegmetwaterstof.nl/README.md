@@ -11,7 +11,7 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/opwegmetwaterstof.nl/subdomains.txt)|3|Alive subdomains|
+|[subdomains.txt](/data/opwegmetwaterstof.nl/subdomains.txt)|5|Alive subdomains|
 |[urls.txt](/data/opwegmetwaterstof.nl/urls.txt)|2|Urls|
 |[all_subdomains.txt](/data/opwegmetwaterstof.nl/all_subdomains.txt)|5|All found subdomains (history)|
 

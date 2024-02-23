@@ -2,9 +2,9 @@
 layout: default
 title: "deafsluitdijk.nl"
 permalink: "/dutchgov/deafsluitdijk.nl.html"
-subdomains_count: 22
+subdomains_count: 25
 all_subdomains_count: 25
-urls_count: 21
+urls_count: 18
 ssl_rank: D
 http_rank: E
 security_txt: 0
@@ -27,8 +27,8 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/deafsluitdijk.nl/subdomains.txt)|22|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/deafsluitdijk.nl/urls.txt)|21|Urls|
+|[subdomains.txt](/DutchGovScope/data/deafsluitdijk.nl/subdomains.txt)|25|Alive subdomains|
+|[urls.txt](/DutchGovScope/data/deafsluitdijk.nl/urls.txt)|18|Urls|
 |[all_subdomains.txt](/DutchGovScope/data/deafsluitdijk.nl/all_subdomains.txt)|25|All found subdomains (history)|
 
 
@@ -46,10 +46,7 @@ tags: dutchgov
 |[https://noord-holland.nlwww.deafsluitdijk.nl](https://noord-holland.nlwww.deafsluitdijk.nl)| **F**| **F**|openresty| | | | | | | | :white_check_mark: | |HSTS Nginx OpenResty|Welcome|
 |[https://web16959.deafsluitdijk.nl](https://web16959.deafsluitdijk.nl)| | **F**|openresty| | | | | | | | :white_check_mark: | |HSTS Nginx OpenResty|Welcome|
 |[http://autodiscover.deafsluitdijk.nl](http://autodiscover.deafsluitdijk.nl)| | **B**|Microsoft-IIS/10.0|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server||
-|[https://heroic.deafsluitdijk.nl](https://heroic.deafsluitdijk.nl)| | **F**|openresty| | | | | | | | :white_check_mark: | |HSTS Nginx OpenResty|Welcome|
-|[https://afval-container-verhuur.deafsluitdijk.nl](https://afval-container-verhuur.deafsluitdijk.nl)| | **F**|openresty| | | | | | | | :white_check_mark: | |HSTS Nginx OpenResty|Welcome|
-|[https://ebill2.deafsluitdijk.nl](https://ebill2.deafsluitdijk.nl)| | **F**|openresty| | | | | | | | :white_check_mark: | |HSTS Nginx OpenResty|Welcome|
-|[https://486.deafsluitdijk.nl](https://486.deafsluitdijk.nl)| | **F**|openresty| | | | | | | | :white_check_mark: | |HSTS Nginx OpenResty|Welcome|
+|[http://486.deafsluitdijk.nl](http://486.deafsluitdijk.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS Varnish|301 Moved Perman...|
 |[https://trast.deafsluitdijk.nl](https://trast.deafsluitdijk.nl)| | **F**|openresty| | | | | | | | :white_check_mark: | |HSTS Nginx OpenResty|Welcome|
 |[https://hideip-uk.deafsluitdijk.nl](https://hideip-uk.deafsluitdijk.nl)| | **F**|openresty| | | | | | | | :white_check_mark: | |HSTS Nginx OpenResty|Welcome|
 |[https://kki.deafsluitdijk.nl](https://kki.deafsluitdijk.nl)| | **F**|openresty| | | | | | | | :white_check_mark: | |HSTS Nginx OpenResty|Welcome|

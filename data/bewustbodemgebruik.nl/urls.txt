@@ -1,6 +1,6 @@
-https://mail.bewustbodemgebruik.nl
-http://www.bewustbodemgebruik.nl
-https://bewustbodemgebruik.nl
+http://mail.bewustbodemgebruik.nl
+https://www.bewustbodemgebruik.nl
+http://bewustbodemgebruik.nl
 https://autoconfig.bewustbodemgebruik.nl
 https://autodiscover.bewustbodemgebruik.nl
 https://ftp.bewustbodemgebruik.nl

@@ -12,7 +12,7 @@
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/dji.nl/subdomains.txt)|33|Alive subdomains|
-|[urls.txt](/data/dji.nl/urls.txt)|16|Urls|
+|[urls.txt](/data/dji.nl/urls.txt)|20|Urls|
 |[all_subdomains.txt](/data/dji.nl/all_subdomains.txt)|60|All found subdomains (history)|
 
 
@@ -35,6 +35,10 @@
 |[https://zorgconnect.dji.nl](https://zorgconnect.dji.nl)| **A+**| **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Microsoft ASP.NET||
 |[https://zorgconnect-acpt.dji.nl](https://zorgconnect-acpt.dji.nl)| **A+**| **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS||
 |[https://dji.nl](https://dji.nl)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
+|[https://acc.beeldbellen.dji.nl](https://acc.beeldbellen.dji.nl)| | **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Nginx|403 Forbidden|
+|[https://beeldbellen.dji.nl](https://beeldbellen.dji.nl)| | **B**|nginx| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS Nginx|Beeldbellen Just...|
+|[https://video-acc.beeldbellen.dji.nl](https://video-acc.beeldbellen.dji.nl)| | **C**|nginx/1.18.0 (Ubuntu)| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Nginx:1.18.0 Ubuntu|Beeldbellen Just...|
+|[https://video.beeldbellen.dji.nl](https://video.beeldbellen.dji.nl)| | **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Nginx|Beeldbellen Just...|
 |[https://cdn.dji.nl](https://cdn.dji.nl)| | **F**|nginx/1.18.0 + Phusion Passenger(R) 6.0.18| | | | | | | | :white_check_mark: | |Nginx:1.18.0 Phusion Passenger:6.0.18|Service temporar...|
 |[https://ftp.dji.nl](https://ftp.dji.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Microsoft Azure...|
 

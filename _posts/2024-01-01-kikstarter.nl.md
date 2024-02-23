@@ -3,10 +3,10 @@ layout: default
 title: "kikstarter.nl"
 permalink: "/dutchgov/kikstarter.nl.html"
 subdomains_count: 4
-all_subdomains_count: 4
+all_subdomains_count: 5
 urls_count: 4
 ssl_rank: B
-http_rank: C
+http_rank: B
 security_txt: 0
 url_link: /data/kikstarter.nl/urls.txt
 all_subdomains_link: /data/kikstarter.nl/all_subdomains.txt
@@ -21,7 +21,7 @@ tags: dutchgov
 
 
  - **SSL Grade**:B
- - **HTTP Security Grade**:C
+ - **HTTP Security Grade**:B
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:0
 
 
@@ -29,7 +29,7 @@ tags: dutchgov
 |------------|-------|------|
 |[subdomains.txt](/DutchGovScope/data/kikstarter.nl/subdomains.txt)|4|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/kikstarter.nl/urls.txt)|4|Urls|
-|[all_subdomains.txt](/DutchGovScope/data/kikstarter.nl/all_subdomains.txt)|4|All found subdomains (history)|
+|[all_subdomains.txt](/DutchGovScope/data/kikstarter.nl/all_subdomains.txt)|5|All found subdomains (history)|
 
 
 ## Statistics
@@ -38,7 +38,7 @@ tags: dutchgov
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[https://acceptatie.kikstarter.nl](https://acceptatie.kikstarter.nl)| **A+**| **A**|istio-envoy| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Envoy HSTS|KIK-Starter|
-|[https://www.kikstarter.nl](https://www.kikstarter.nl)| **F**| **F**|istio-envoy| | | | | | | | :white_check_mark: | |HSTS||
+|[https://www.kikstarter.nl](https://www.kikstarter.nl)| **F**| **A**|istio-envoy| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Envoy HSTS|KIK-Starter|
 |[https://sso.test.kikstarter.nl](https://sso.test.kikstarter.nl)| **A**| **F**|istio-envoy| | | | | | | | :white_check_mark: | |||
 |[https://test.kikstarter.nl](https://test.kikstarter.nl)| **A+**| **A**|istio-envoy| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Envoy HSTS|KIK-Starter|
 

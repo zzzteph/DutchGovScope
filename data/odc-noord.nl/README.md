@@ -11,9 +11,9 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/odc-noord.nl/subdomains.txt)|140|Alive subdomains|
+|[subdomains.txt](/data/odc-noord.nl/subdomains.txt)|141|Alive subdomains|
 |[urls.txt](/data/odc-noord.nl/urls.txt)|94|Urls|
-|[all_subdomains.txt](/data/odc-noord.nl/all_subdomains.txt)|244|All found subdomains (history)|
+|[all_subdomains.txt](/data/odc-noord.nl/all_subdomains.txt)|245|All found subdomains (history)|
 
 
 ## Statistics
@@ -62,9 +62,9 @@
 |[https://logius-acc.jira.odc-noord.nl](https://logius-acc.jira.odc-noord.nl)| **B**| **E**|| | | | | | | | :white_check_mark: | ||ODC-Noord | (403...|
 |[https://logius-prd.confluence.odc-noord.nl](https://logius-prd.confluence.odc-noord.nl)| **B**| **E**|| | | | | | | | :white_check_mark: | ||ODC-Noord | (403...|
 |[https://logius-prd.jira.odc-noord.nl](https://logius-prd.jira.odc-noord.nl)| **B**| **E**|| | | | | | | | :white_check_mark: | ||ODC-Noord | (403...|
-|[https://na-acc.topdesk.odc-noord.nl](https://na-acc.topdesk.odc-noord.nl)| **B**| **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Login|
+|[https://na-acc.topdesk.odc-noord.nl](https://na-acc.topdesk.odc-noord.nl)| **B**| **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|Login|
 |[https://na-prd.topdesk.odc-noord.nl](https://na-prd.topdesk.odc-noord.nl)| **B**| **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Login|
-|[https://nfi-acc.topdesk.odc-noord.nl](https://nfi-acc.topdesk.odc-noord.nl)| **B**| **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Login|
+|[https://nfi-acc.topdesk.odc-noord.nl](https://nfi-acc.topdesk.odc-noord.nl)| **B**| **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|Login|
 |[https://nfi-prd.topdesk.odc-noord.nl](https://nfi-prd.topdesk.odc-noord.nl)| **B**| **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Login|
 |[https://odcn-acc.confluence.odc-noord.nl](https://odcn-acc.confluence.odc-noord.nl)| **B**| **E**|| | | | | | | | :white_check_mark: | ||ODC-Noord | (403...|
 |[https://odcn-acc.jira.odc-noord.nl](https://odcn-acc.jira.odc-noord.nl)| **B**| **E**|| | | | | | | | :white_check_mark: | ||ODC-Noord | (403...|

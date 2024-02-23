@@ -1,11 +1,9 @@
 afspraak.domeinenrz.nl
-crl.domeinenrz.nl
 english.domeinenrz.nl
 enterpriseregistration.domeinenrz.nl
 feeds.domeinenrz.nl
 feeds.english.domeinenrz.nl
 mail.domeinenrz.nl
-ndes.domeinenrz.nl
 opendata.domeinenrz.nl
 opendata.english.domeinenrz.nl
 ras.domeinenrz.nl

@@ -37,20 +37,20 @@ tags: dutchgov
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://idkbc.duurzamecao.nl](https://idkbc.duurzamecao.nl)| **A**| **F**|nginx| | | | | | | | :white_check_mark: | |MySQL Nginx PHP WooCommerce:8.0.1 WordPress:6.3.3 Yoast SEO:22.0|IDKB C|
+|[https://idkbc.duurzamecao.nl](https://idkbc.duurzamecao.nl)| **A**| **F**|nginx| | | | | | | | :white_check_mark: | |MySQL Nginx PHP WooCommerce:8.0.1 WordPress:6.3.3 Yoast SEO:22.1|IDKB C|
 |[https://duurzamecao.nl](https://duurzamecao.nl)| **A**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Nginx||
-|[https://verminder-ewaste.duurzamecao.nl](https://verminder-ewaste.duurzamecao.nl)| **A**| **F**|nginx| | | | | | | | :white_check_mark: | |MySQL Nginx PHP WordPress Yoast SEO:22.0|Verminder eWaste|
+|[https://verminder-ewaste.duurzamecao.nl](https://verminder-ewaste.duurzamecao.nl)| **A**| **F**|nginx| | | | | | | | :white_check_mark: | |MySQL Nginx PHP WordPress Yoast SEO:22.1|Verminder eWaste|
 |[https://uitjes.duurzamecao.nl](https://uitjes.duurzamecao.nl)| **A**| **F**|nginx| | | | | | | | :white_check_mark: | |MySQL Nginx PHP WordPress jQuery prettyPhoto|Home - Duurzame...|
-|[https://verduurzamingwoning.duurzamecao.nl](https://verduurzamingwoning.duurzamecao.nl)| **A**| **F**|nginx| | | | | | | | :white_check_mark: | |MySQL Nginx PHP WordPress Yoast SEO:22.0|Verduurzaam je w...|
-|[https://lekkergezond.duurzamecao.nl](https://lekkergezond.duurzamecao.nl)| **A**| **F**|nginx| | | | | | | | :white_check_mark: | |MySQL Nginx PHP Site Kit:1.107.0 WordPress Yoast SEO:22.0|Lekker gezond|
-|[https://fixjerijk.duurzamecao.nl](https://fixjerijk.duurzamecao.nl)| **A**| **F**|nginx| | | | | | | | :white_check_mark: | |MySQL Nginx PHP WordPress Yoast SEO:22.0|Fix je Rijk!|
+|[https://verduurzamingwoning.duurzamecao.nl](https://verduurzamingwoning.duurzamecao.nl)| **A**| **F**|nginx| | | | | | | | :white_check_mark: | |MySQL Nginx PHP WordPress Yoast SEO:22.1|Verduurzaam je w...|
+|[https://lekkergezond.duurzamecao.nl](https://lekkergezond.duurzamecao.nl)| **A**| **F**|nginx| | | | | | | | :white_check_mark: | |MySQL Nginx PHP Site Kit:1.107.0 WordPress Yoast SEO:22.1|Lekker gezond|
+|[https://fixjerijk.duurzamecao.nl](https://fixjerijk.duurzamecao.nl)| **A**| **F**|nginx| | | | | | | | :white_check_mark: | |MySQL Nginx PHP WordPress Yoast SEO:22.1|Fix je Rijk!|
 |[https://teamuitje.duurzamecao.nl](https://teamuitje.duurzamecao.nl)| **A**| **F**|nginx| | | | | | | | :white_check_mark: | |MySQL Nginx PHP WordPress|Home - Rijkstool...|
-|[https://idkbb.duurzamecao.nl](https://idkbb.duurzamecao.nl)| **A**| **F**|nginx| | | | | | | | :white_check_mark: | |MySQL Nginx PHP WooCommerce:8.0.1 WordPress:6.3.3 Yoast SEO:22.0|IDKB B|
-|[https://idkbf.duurzamecao.nl](https://idkbf.duurzamecao.nl)| **A**| **F**|nginx| | | | | | | | :white_check_mark: | |MySQL Nginx PHP WooCommerce:8.0.2 WordPress:6.3.3 Yoast SEO:22.0|IDKB F|
-|[https://idkbd.duurzamecao.nl](https://idkbd.duurzamecao.nl)| **A**| **F**|nginx| | | | | | | | :white_check_mark: | |MySQL Nginx PHP WooCommerce:8.0.1 WordPress:6.3.3 Yoast SEO:22.0|IDKB D|
-|[https://idkb.duurzamecao.nl](https://idkb.duurzamecao.nl)| **A**| **F**|nginx| | | | | | | | :white_check_mark: | |MySQL Nginx PHP WooCommerce:8.0.1 WordPress:6.3.3 Yoast SEO:22.0|Rijkstools|
-|[https://idkbe.duurzamecao.nl](https://idkbe.duurzamecao.nl)| **A**| **F**|nginx| | | | | | | | :white_check_mark: | |MySQL Nginx PHP WooCommerce:8.0.1 WordPress:6.3.3 Yoast SEO:22.0|IDKB E|
-|[https://idkba.duurzamecao.nl](https://idkba.duurzamecao.nl)| **A**| **F**|nginx| | | | | | | | :white_check_mark: | |MySQL Nginx PHP WooCommerce:8.0.1 WordPress:6.3.3 Yoast SEO:22.0|IDKB A|
+|[https://idkbb.duurzamecao.nl](https://idkbb.duurzamecao.nl)| **A**| **F**|nginx| | | | | | | | :white_check_mark: | |MySQL Nginx PHP WooCommerce:8.0.1 WordPress:6.3.3 Yoast SEO:22.1|IDKB B|
+|[https://idkbf.duurzamecao.nl](https://idkbf.duurzamecao.nl)| **A**| **F**|nginx| | | | | | | | :white_check_mark: | |MySQL Nginx PHP WooCommerce:8.0.2 WordPress:6.3.3 Yoast SEO:22.1|IDKB F|
+|[https://idkbd.duurzamecao.nl](https://idkbd.duurzamecao.nl)| **A**| **F**|nginx| | | | | | | | :white_check_mark: | |MySQL Nginx PHP WooCommerce:8.0.1 WordPress:6.3.3 Yoast SEO:22.1|IDKB D|
+|[https://idkb.duurzamecao.nl](https://idkb.duurzamecao.nl)| **A**| **F**|nginx| | | | | | | | :white_check_mark: | |MySQL Nginx PHP WooCommerce:8.0.1 WordPress:6.3.3 Yoast SEO:22.1|Rijkstools|
+|[https://idkbe.duurzamecao.nl](https://idkbe.duurzamecao.nl)| **A**| **F**|nginx| | | | | | | | :white_check_mark: | |MySQL Nginx PHP WooCommerce:8.0.1 WordPress:6.3.3 Yoast SEO:22.1|IDKB E|
+|[https://idkba.duurzamecao.nl](https://idkba.duurzamecao.nl)| **A**| **F**|nginx| | | | | | | | :white_check_mark: | |MySQL Nginx PHP WooCommerce:8.0.1 WordPress:6.3.3 Yoast SEO:22.1|IDKB A|
 |[https://www.duurzamecao.nl](https://www.duurzamecao.nl)| **A**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Nginx||
 |[https://autodiscover.duurzamecao.nl](https://autodiscover.duurzamecao.nl)| **F**| **E**|| | | | | | | | :white_check_mark: | |||
 

@@ -53,3 +53,4 @@ intra.minienw.nl
 isms.minienw.nl
 leerportaal.minienw.nl
 localhost.minienw.nl
+rpa.minienw.nl

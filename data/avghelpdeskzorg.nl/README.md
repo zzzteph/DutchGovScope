@@ -24,5 +24,5 @@
 |[https://feeds.avghelpdeskzorg.nl](https://feeds.avghelpdeskzorg.nl)| **A+**| **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://opendata.avghelpdeskzorg.nl](https://opendata.avghelpdeskzorg.nl)| **A+**| **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://www.avghelpdeskzorg.nl](https://www.avghelpdeskzorg.nl)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|home | AVG-Helpd...|
-|[https://avghelpdeskzorg.nl](https://avghelpdeskzorg.nl)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
+|[https://avghelpdeskzorg.nl](https://avghelpdeskzorg.nl)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 

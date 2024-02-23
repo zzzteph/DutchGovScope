@@ -46,6 +46,7 @@ https://geotest.provincie-utrecht.nl
 https://gis-test.provincie-utrecht.nl
 https://auth-preprod.provincie-utrecht.nl
 https://planoview.provincie-utrecht.nl
+https://regiotramutrecht.provincie-utrecht.nl
 https://wortel175.provincie-utrecht.nl
 https://intranet.provincie-utrecht.nl
 https://innerweb.provincie-utrecht.nl

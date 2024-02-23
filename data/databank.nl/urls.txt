@@ -49,7 +49,7 @@ https://holland-rijnland.databank.nl
 https://horizon.databank.nl
 https://ivm11.databank.nl
 https://klimaatmonitor.databank.nl
-http://kso2011.databank.nl
+https://kso2011.databank.nl
 https://limburg.databank.nl
 https://mbotransparant.databank.nl
 https://municipalbarometer.databank.nl

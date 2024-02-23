@@ -37,9 +37,9 @@ tags: dutchgov
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://mail.bewustbodemgebruik.nl](https://mail.bewustbodemgebruik.nl)| **F**| **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|This is the defa...|
-|[http://www.bewustbodemgebruik.nl](http://www.bewustbodemgebruik.nl)| **A**| **E**|nginx| | | | | | | :white_check_mark: | :white_check_mark: | |Nginx SiteGround||
-|[https://bewustbodemgebruik.nl](https://bewustbodemgebruik.nl)| **A**| **E**|nginx| | | | | | | :white_check_mark: | :white_check_mark: | |MySQL Nginx PHP SiteGround WordPress|Bewust Bodemgebr...|
+|[http://mail.bewustbodemgebruik.nl](http://mail.bewustbodemgebruik.nl)| **F**| **F**|nginx| | | | | | | | :white_check_mark: | |Nginx||
+|[https://www.bewustbodemgebruik.nl](https://www.bewustbodemgebruik.nl)| **A**| **E**|nginx| | | | | | | :white_check_mark: | :white_check_mark: | |Nginx SiteGround||
+|[http://bewustbodemgebruik.nl](http://bewustbodemgebruik.nl)| **A**| **E**|nginx| | | | | | | :white_check_mark: | :white_check_mark: | |MySQL Nginx PHP WordPress|Bewust Bodemgebr...|
 |[https://autoconfig.bewustbodemgebruik.nl](https://autoconfig.bewustbodemgebruik.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|This is the defa...|
 |[https://autodiscover.bewustbodemgebruik.nl](https://autodiscover.bewustbodemgebruik.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|This is the defa...|
 |[https://ftp.bewustbodemgebruik.nl](https://ftp.bewustbodemgebruik.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|This is the defa...|

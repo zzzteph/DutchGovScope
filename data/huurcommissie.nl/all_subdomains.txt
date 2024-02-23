@@ -55,3 +55,4 @@ enterpriseregistration.huurcommissie.nl
 msoid.huurcommissie.nl
 sftp.huurcommissie.nl
 www-p.huurcommissie.nl
+vpn.huurcommissie.nl

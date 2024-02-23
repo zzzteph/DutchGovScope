@@ -38,7 +38,7 @@ tags: dutchgov
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[https://mail.leidraadse.nl](https://mail.leidraadse.nl)| **F**| **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|Default Parallel...|
-|[https://webmail.leidraadse.nl](https://webmail.leidraadse.nl)| **F**| **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server PHP:8.2.15|Internal Error|
+|[https://webmail.leidraadse.nl](https://webmail.leidraadse.nl)| **F**| **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server PHP:8.2.16|Internal Error|
 |[https://www.leidraadse.nl](https://www.leidraadse.nl)| **A**| **F**|Apache|:o: | | | | | | | :white_check_mark: | |Apache HTTP Server PHP|Welkom | Leidraa...|
 |[https://leidraadse.nl](https://leidraadse.nl)| **A**| **F**|Apache|:o: | | | | | | | :white_check_mark: | |Apache HTTP Server PHP|Welkom | Leidraa...|
 

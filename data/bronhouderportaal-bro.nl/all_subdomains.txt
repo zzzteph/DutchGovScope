@@ -24,3 +24,9 @@ demo2.bronhouderportaal-bro.nl
 dev.bronhouderportaal-bro.nl
 sso-dev.bronhouderportaal-bro.nl
 localhost.bronhouderportaal-bro.nl
+sso-demo2.bronhouderportaal-bro.nl
+sso-acc.bronhouderportaal-bro.nl
+sso-test-tno.bronhouderportaal-bro.nl
+test-tno.bronhouderportaal-bro.nl
+sso-test-tno2.bronhouderportaal-bro.nl
+test-tno2.bronhouderportaal-bro.nl

@@ -4,7 +4,7 @@
 ## Summary data
 
 
- - **SSL Grade**:A-
+ - **SSL Grade**:B-
  - **HTTP Security Grade**:B
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:4
 
@@ -26,5 +26,5 @@
 |[https://autodiscover.collegesanering.nl](https://autodiscover.collegesanering.nl)| **F**| **F**|Microsoft-IIS/10.0| | | | | | | | :white_check_mark: | |IIS:10.0 Windows Server||
 |[https://www.collegesanering.nl](https://www.collegesanering.nl)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|College sanering...|
 |[https://collegesanering.nl](https://collegesanering.nl)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
-|[https://webmail.collegesanering.nl](https://webmail.collegesanering.nl)| | **F**|ScreenConnect/23.5.8.8598-1317879931 Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|ConnectWise Scre...|
+|[https://webmail.collegesanering.nl](https://webmail.collegesanering.nl)| **F**| **F**|ScreenConnect/23.9.8.8811-1317879931 Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|ConnectWise Scre...|
 

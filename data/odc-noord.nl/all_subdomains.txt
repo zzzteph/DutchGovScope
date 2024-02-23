@@ -242,3 +242,4 @@ ns02.bzkdgvbrnpr.odc-noord.nl
 ns01.confluence.odc-noord.nl
 ns.confluence.odc-noord.nl
 ns02.confluence.odc-noord.nl
+vpn.gn2.acc.odc-noord.nl

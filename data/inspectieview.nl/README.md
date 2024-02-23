@@ -11,7 +11,7 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/inspectieview.nl/subdomains.txt)|21|Alive subdomains|
+|[subdomains.txt](/data/inspectieview.nl/subdomains.txt)|22|Alive subdomains|
 |[urls.txt](/data/inspectieview.nl/urls.txt)|9|Urls|
 |[all_subdomains.txt](/data/inspectieview.nl/all_subdomains.txt)|52|All found subdomains (history)|
 

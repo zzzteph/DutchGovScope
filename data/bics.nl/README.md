@@ -6,14 +6,14 @@
 
  - **SSL Grade**:E
  - **HTTP Security Grade**:E
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:3
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:2
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/bics.nl/subdomains.txt)|28|Alive subdomains|
-|[urls.txt](/data/bics.nl/urls.txt)|14|Urls|
-|[all_subdomains.txt](/data/bics.nl/all_subdomains.txt)|46|All found subdomains (history)|
+|[subdomains.txt](/data/bics.nl/subdomains.txt)|29|Alive subdomains|
+|[urls.txt](/data/bics.nl/urls.txt)|13|Urls|
+|[all_subdomains.txt](/data/bics.nl/all_subdomains.txt)|47|All found subdomains (history)|
 
 
 ## Statistics
@@ -27,7 +27,6 @@
 |[https://livra.bics.nl](https://livra.bics.nl)| **F**| **E**|| | | | | | | | :white_check_mark: | |||
 |[https://livra2.bics.nl](https://livra2.bics.nl)| **F**| **E**|| | | | | | | | :white_check_mark: | |HSTS||
 |[http://nlhull.bics.nl](http://nlhull.bics.nl)| **F**| **E**|| | | | | | | | :white_check_mark: | |||
-|[http://nlhull2.bics.nl](http://nlhull2.bics.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[http://nlrdms.bics.nl](http://nlrdms.bics.nl)| **F**| **E**|| | | | | | | | :white_check_mark: | |||
 |[https://www.bics.nl](https://www.bics.nl)| **B**| **A**|Apache| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server Drupal:7 HSTS PHP:7.2.24|Welkom op de BIC...|
 |[https://bicsdrupalacc.bics.nl](https://bicsdrupalacc.bics.nl)| **B**| **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server Drupal:10 PHP:8.1.27 SDL Tridion|Home | BICS-webs...|

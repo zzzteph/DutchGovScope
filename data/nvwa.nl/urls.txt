@@ -9,7 +9,7 @@ https://feeds.english.nvwa.nl
 https://forms.nvwa.nl
 https://forms-acc.nvwa.nl
 https://formulieren.nvwa.nl
-http://formulieren-acc.nvwa.nl
+https://formulieren-acc.nvwa.nl
 https://inspectieresultaten.nvwa.nl
 https://ivo.nvwa.nl
 https://ivo-acc.nvwa.nl

@@ -2,7 +2,7 @@
 layout: default
 title: "pkioverheid.nl"
 permalink: "/dutchgov/pkioverheid.nl.html"
-subdomains_count: 10
+subdomains_count: 11
 all_subdomains_count: 25
 urls_count: 10
 ssl_rank: A+
@@ -27,7 +27,7 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/pkioverheid.nl/subdomains.txt)|10|Alive subdomains|
+|[subdomains.txt](/DutchGovScope/data/pkioverheid.nl/subdomains.txt)|11|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/pkioverheid.nl/urls.txt)|10|Urls|
 |[all_subdomains.txt](/DutchGovScope/data/pkioverheid.nl/all_subdomains.txt)|25|All found subdomains (history)|
 

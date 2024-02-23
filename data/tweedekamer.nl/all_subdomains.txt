@@ -255,3 +255,5 @@ plein2-acc.tweedekamer.nl
 plein2-test.tweedekamer.nl
 staging.beta.tweedekamer.nl
 uat.beta.tweedekamer.nl
+sesam-test.tweedekamer.nl
+sesam-acc.tweedekamer.nl

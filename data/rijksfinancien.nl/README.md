@@ -27,5 +27,5 @@
 |[https://www.rijksfinancien.nl](https://www.rijksfinancien.nl)| **A+**| **A**|| |:white_check_mark: | :warning:| | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Drupal HSTS PHP|Laatste updates...|
 |[http://rijksfinancien.nl](http://rijksfinancien.nl)| **A**| **F**|BigIP| | | | | | | | :white_check_mark: | |F5 BigIP||
 |[https://evaluaties-acc.rijksfinancien.nl](https://evaluaties-acc.rijksfinancien.nl)| **A+**| **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|403 Forbidden|
-|[http://evaluaties.rijksfinancien.nl](http://evaluaties.rijksfinancien.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
+|[https://evaluaties.rijksfinancien.nl](https://evaluaties.rijksfinancien.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|403 Forbidden|
 

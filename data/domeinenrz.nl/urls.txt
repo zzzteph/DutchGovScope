@@ -1,11 +1,9 @@
 https://afspraak.domeinenrz.nl
-https://crl.domeinenrz.nl
 https://english.domeinenrz.nl
 https://enterpriseregistration.domeinenrz.nl
 https://feeds.domeinenrz.nl
 https://feeds.english.domeinenrz.nl
 https://mail.domeinenrz.nl
-https://ndes.domeinenrz.nl
 https://opendata.domeinenrz.nl
 https://opendata.english.domeinenrz.nl
 https://ras.domeinenrz.nl

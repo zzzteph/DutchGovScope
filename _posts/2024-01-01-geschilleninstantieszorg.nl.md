@@ -3,7 +3,7 @@ layout: default
 title: "geschilleninstantieszorg.nl"
 permalink: "/dutchgov/geschilleninstantieszorg.nl.html"
 subdomains_count: 7
-all_subdomains_count: 13
+all_subdomains_count: 14
 urls_count: 4
 ssl_rank: A+
 http_rank: A
@@ -29,7 +29,7 @@ tags: dutchgov
 |------------|-------|------|
 |[subdomains.txt](/DutchGovScope/data/geschilleninstantieszorg.nl/subdomains.txt)|7|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/geschilleninstantieszorg.nl/urls.txt)|4|Urls|
-|[all_subdomains.txt](/DutchGovScope/data/geschilleninstantieszorg.nl/all_subdomains.txt)|13|All found subdomains (history)|
+|[all_subdomains.txt](/DutchGovScope/data/geschilleninstantieszorg.nl/all_subdomains.txt)|14|All found subdomains (history)|
 
 
 ## Statistics
