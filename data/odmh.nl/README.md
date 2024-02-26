@@ -11,9 +11,9 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/odmh.nl/subdomains.txt)|55|Alive subdomains|
-|[urls.txt](/data/odmh.nl/urls.txt)|38|Urls|
-|[all_subdomains.txt](/data/odmh.nl/all_subdomains.txt)|73|All found subdomains (history)|
+|[subdomains.txt](/data/odmh.nl/subdomains.txt)|56|Alive subdomains|
+|[urls.txt](/data/odmh.nl/urls.txt)|37|Urls|
+|[all_subdomains.txt](/data/odmh.nl/all_subdomains.txt)|74|All found subdomains (history)|
 
 
 ## Statistics
@@ -49,7 +49,6 @@
 |[https://docs.odmh.nl](https://docs.odmh.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|403 Forbidden|
 |[https://mfa.odmh.nl](https://mfa.odmh.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|403 Forbidden|
 |[https://rdsgateway.odmh.nl](https://rdsgateway.odmh.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|IIS Windows Serv...|
-|[https://vpn.odmh.nl](https://vpn.odmh.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|403 Forbidden|
 |[https://micollab.odmh.nl](https://micollab.odmh.nl)| | **A**|Apache| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS|Redirecting...|
 |[https://pow.odmh.nl](https://pow.odmh.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server Microsoft ASP.NET SPNEGO|401 - Unauthoriz...|
 |[https://publicaties.odmh.nl](https://publicaties.odmh.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|404 Not Found|

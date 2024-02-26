@@ -4,9 +4,9 @@ title: "ienc-kennisportaal.nl"
 permalink: "/dutchgov/ienc-kennisportaal.nl.html"
 subdomains_count: 6
 all_subdomains_count: 6
-urls_count: 3
+urls_count: 4
 ssl_rank: B
-http_rank: A
+http_rank: B
 security_txt: 0
 url_link: /data/ienc-kennisportaal.nl/urls.txt
 all_subdomains_link: /data/ienc-kennisportaal.nl/all_subdomains.txt
@@ -21,14 +21,14 @@ tags: dutchgov
 
 
  - **SSL Grade**:B
- - **HTTP Security Grade**:A
+ - **HTTP Security Grade**:B
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:0
 
 
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/DutchGovScope/data/ienc-kennisportaal.nl/subdomains.txt)|6|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/ienc-kennisportaal.nl/urls.txt)|3|Urls|
+|[urls.txt](/DutchGovScope/data/ienc-kennisportaal.nl/urls.txt)|4|Urls|
 |[all_subdomains.txt](/DutchGovScope/data/ienc-kennisportaal.nl/all_subdomains.txt)|6|All found subdomains (history)|
 
 
@@ -40,4 +40,5 @@ tags: dutchgov
 |[https://gc.ienc-kennisportaal.nl](https://gc.ienc-kennisportaal.nl)| **B**| **A**|Apache| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS||
 |[https://www.ienc-kennisportaal.nl](https://www.ienc-kennisportaal.nl)| **B**| **A**|Apache| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS||
 |[https://ienc-kennisportaal.nl](https://ienc-kennisportaal.nl)| **B**| **A**|Apache| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS MySQL PHP WordPress|IENC Kennisporta...|
+|[https://ftp.ienc-kennisportaal.nl](https://ftp.ienc-kennisportaal.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS||
 

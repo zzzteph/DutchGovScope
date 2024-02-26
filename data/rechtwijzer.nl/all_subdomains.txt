@@ -42,3 +42,5 @@ admin.test.rechtwijzer.nl
 preview.test.rechtwijzer.nl
 images.test.rechtwijzer.nl
 portal.test.rechtwijzer.nl
+web.test.rechtwijzer.nl
+amp.test.rechtwijzer.nl

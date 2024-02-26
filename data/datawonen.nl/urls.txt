@@ -14,3 +14,4 @@ https://ibw.datawonen.nl
 https://kaarten.datawonen.nl
 https://mn.datawonen.nl
 https://begrippenlijst.datawonen.nl
+https://pwik.datawonen.nl

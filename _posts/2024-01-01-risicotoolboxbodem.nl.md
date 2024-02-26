@@ -37,9 +37,9 @@ tags: dutchgov
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://test.risicotoolboxbodem.nl](https://test.risicotoolboxbodem.nl)| **A+**| **D**|Microsoft-IIS/8.5|:warning: |:white_check_mark: | | | | | | :white_check_mark: | |Bootstrap HSTS IIS:8.5 Microsoft ASP.NET Windows Server|RisicotoolboxBod...|
+|[https://test.risicotoolboxbodem.nl](https://test.risicotoolboxbodem.nl)| **A+**| **D**|Microsoft-IIS/8.5|:warning: |:white_check_mark: | | | | | | :white_check_mark: | |Bootstrap HSTS IIS:8.5 Microsoft ASP.NET:4.0.30319 Windows Server|RisicotoolboxBod...|
 |[https://test3.risicotoolboxbodem.nl](https://test3.risicotoolboxbodem.nl)| **A+**| **F**|Microsoft-IIS/10.0| | | | | | | | :white_check_mark: | |HSTS IIS:10.0 Microsoft ASP.NET Windows Server||
-|[https://www.risicotoolboxbodem.nl](https://www.risicotoolboxbodem.nl)| **A+**| **D**|Microsoft-IIS/8.5|:warning: |:white_check_mark: | | | | | | :white_check_mark: | |Bootstrap HSTS IIS:8.5 Microsoft ASP.NET:4.0.30319 Windows Server|RisicotoolboxBod...|
+|[https://www.risicotoolboxbodem.nl](https://www.risicotoolboxbodem.nl)| **A+**| **D**|Microsoft-IIS/8.5|:warning: |:white_check_mark: | | | | | | :white_check_mark: | |Bootstrap HSTS IIS:8.5 Microsoft ASP.NET Windows Server|RisicotoolboxBod...|
 |[https://risicotoolboxbodem.nl](https://risicotoolboxbodem.nl)| **A**| **D**||:warning: |:white_check_mark: | | | | | | :white_check_mark: | |||
 |[https://nieuwestoffen.risicotoolboxbodem.nl](https://nieuwestoffen.risicotoolboxbodem.nl)| **A+**| **C**|Microsoft-IIS/10.0| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS IIS:10.0 Microsoft ASP.NET Windows Server|- Nieuwe Stoffen|
 |[https://feedback.risicotoolboxbodem.nl](https://feedback.risicotoolboxbodem.nl)| **A+**| **C**|Microsoft-IIS/10.0| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS IIS:10.0 Microsoft ASP.NET Windows Server|- Nieuwe Stoffen|

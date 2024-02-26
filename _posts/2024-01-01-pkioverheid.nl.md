@@ -4,10 +4,10 @@ title: "pkioverheid.nl"
 permalink: "/dutchgov/pkioverheid.nl.html"
 subdomains_count: 11
 all_subdomains_count: 25
-urls_count: 10
+urls_count: 11
 ssl_rank: A+
 http_rank: A
-security_txt: 7
+security_txt: 8
 url_link: /data/pkioverheid.nl/urls.txt
 all_subdomains_link: /data/pkioverheid.nl/all_subdomains.txt
 subdomains_link: /data/pkioverheid.nl/subdomains.txt
@@ -22,13 +22,13 @@ tags: dutchgov
 
  - **SSL Grade**:A+
  - **HTTP Security Grade**:A
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:7
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:8
 
 
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/DutchGovScope/data/pkioverheid.nl/subdomains.txt)|11|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/pkioverheid.nl/urls.txt)|10|Urls|
+|[urls.txt](/DutchGovScope/data/pkioverheid.nl/urls.txt)|11|Urls|
 |[all_subdomains.txt](/DutchGovScope/data/pkioverheid.nl/all_subdomains.txt)|25|All found subdomains (history)|
 
 
@@ -47,4 +47,5 @@ tags: dutchgov
 |[https://oid.pkioverheid.nl](https://oid.pkioverheid.nl)| | **A**|| |:white_check_mark: | :warning:| | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Object Identifie...|
 |[https://cp.pkioverheid.nl](https://cp.pkioverheid.nl)| | **A**|| |:white_check_mark: | :warning:| | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Certificate Poli...|
 |[http://por.pkioverheid.nl](http://por.pkioverheid.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|KPN TSP - CRL Di...|
+|[http://trialrootocsp-g3.ocsp.pkioverheid.nl](http://trialrootocsp-g3.ocsp.pkioverheid.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 

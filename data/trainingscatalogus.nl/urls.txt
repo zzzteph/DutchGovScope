@@ -80,3 +80,16 @@ https://stedin.trainingscatalogus.nl
 https://ftp.trainingscatalogus.nl
 https://sectest.trainingscatalogus.nl
 https://services-dev.trainingscatalogus.nl
+https://leeromgeving-rotterdam-a.trainingscatalogus.nl
+https://ind-a.trainingscatalogus.nl
+https://leeromgeving-rotterdam.trainingscatalogus.nl
+https://buza-a.trainingscatalogus.nl
+https://buza-lms-a.trainingscatalogus.nl
+https://buza-lms.trainingscatalogus.nl
+https://parnassialeeromgeving.trainingscatalogus.nl
+https://ez-a.trainingscatalogus.nl
+https://lms-ciz.trainingscatalogus.nl
+https://leeromgeving-moodle-t.trainingscatalogus.nl
+https://schiphol-lms-a.trainingscatalogus.nl
+https://ciz-a.trainingscatalogus.nl
+https://ciz-lms-a.trainingscatalogus.nl

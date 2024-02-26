@@ -257,3 +257,5 @@ staging.beta.tweedekamer.nl
 uat.beta.tweedekamer.nl
 sesam-test.tweedekamer.nl
 sesam-acc.tweedekamer.nl
+web.beta.tweedekamer.nl
+cpanel.beta.tweedekamer.nl

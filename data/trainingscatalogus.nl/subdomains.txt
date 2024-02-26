@@ -108,3 +108,6 @@ sso.test.trainingscatalogus.nl
 pop.test.trainingscatalogus.nl
 secure.test.trainingscatalogus.nl
 smtp.test.trainingscatalogus.nl
+course-api.schiphol-lms-a.trainingscatalogus.nl
+scim-api.schiphol-lms-a.trainingscatalogus.nl
+enrollment-api.schiphol-lms-a.trainingscatalogus.nl

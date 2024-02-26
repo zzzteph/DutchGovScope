@@ -11,7 +11,7 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/meldknop.nl/subdomains.txt)|99|Alive subdomains|
+|[subdomains.txt](/data/meldknop.nl/subdomains.txt)|102|Alive subdomains|
 |[urls.txt](/data/meldknop.nl/urls.txt)|99|Urls|
 |[all_subdomains.txt](/data/meldknop.nl/all_subdomains.txt)|102|All found subdomains (history)|
 

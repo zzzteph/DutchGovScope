@@ -2,8 +2,8 @@
 layout: default
 title: "toezichtfestival.nl"
 permalink: "/dutchgov/toezichtfestival.nl.html"
-subdomains_count: 17
-all_subdomains_count: 17
+subdomains_count: 18
+all_subdomains_count: 18
 urls_count: 17
 ssl_rank: E
 http_rank: E
@@ -27,9 +27,9 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/toezichtfestival.nl/subdomains.txt)|17|Alive subdomains|
+|[subdomains.txt](/DutchGovScope/data/toezichtfestival.nl/subdomains.txt)|18|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/toezichtfestival.nl/urls.txt)|17|Urls|
-|[all_subdomains.txt](/DutchGovScope/data/toezichtfestival.nl/all_subdomains.txt)|17|All found subdomains (history)|
+|[all_subdomains.txt](/DutchGovScope/data/toezichtfestival.nl/all_subdomains.txt)|18|All found subdomains (history)|
 
 
 ## Statistics

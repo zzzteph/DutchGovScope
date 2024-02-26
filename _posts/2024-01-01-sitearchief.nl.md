@@ -2,8 +2,8 @@
 layout: default
 title: "sitearchief.nl"
 permalink: "/dutchgov/sitearchief.nl.html"
-subdomains_count: 94
-all_subdomains_count: 94
+subdomains_count: 127
+all_subdomains_count: 127
 urls_count: 94
 ssl_rank: A+
 http_rank: A
@@ -27,9 +27,9 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/sitearchief.nl/subdomains.txt)|94|Alive subdomains|
+|[subdomains.txt](/DutchGovScope/data/sitearchief.nl/subdomains.txt)|127|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/sitearchief.nl/urls.txt)|94|Urls|
-|[all_subdomains.txt](/DutchGovScope/data/sitearchief.nl/all_subdomains.txt)|94|All found subdomains (history)|
+|[all_subdomains.txt](/DutchGovScope/data/sitearchief.nl/all_subdomains.txt)|127|All found subdomains (history)|
 
 
 ## Statistics
@@ -115,7 +115,7 @@ tags: dutchgov
 |[https://cbr.sitearchief.nl](https://cbr.sitearchief.nl)| | **A**|nginx|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx|Sitearchief - CB...|
 |[https://dji.sitearchief.nl](https://dji.sitearchief.nl)| | **A**|nginx|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx|Sitearchief - Di...|
 |[https://cpb.sitearchief.nl](https://cpb.sitearchief.nl)| | **A**|nginx|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx|Sitearchief - CP...|
-|[https://deeplink.sitearchief.nl](https://deeplink.sitearchief.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx||
+|[https://deeplink.sitearchief.nl](https://deeplink.sitearchief.nl)| | **F**|nginx/1.25.4| | | | | | | | :white_check_mark: | |Nginx:1.25.4||
 |[https://eerstekamer.sitearchief.nl](https://eerstekamer.sitearchief.nl)| | **A**|nginx|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx|Sitearchief - Ee...|
 |[https://rekenkamer.sitearchief.nl](https://rekenkamer.sitearchief.nl)| | **A**|nginx|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx|Sitearchief - Re...|
 |[https://scp.sitearchief.nl](https://scp.sitearchief.nl)| | **A**|nginx|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx|Sitearchief - So...|

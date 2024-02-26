@@ -104,3 +104,5 @@ en.staging.waarzitwatin.nl
 vault.staging.waarzitwatin.nl
 store.staging.waarzitwatin.nl
 it.staging.waarzitwatin.nl
+data.staging.waarzitwatin.nl
+origin.staging.waarzitwatin.nl

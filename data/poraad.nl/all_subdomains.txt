@@ -41,3 +41,4 @@ enterpriseregistration.poraad.nl
 nieuwsbrief.poraad.nl
 enterpriseenrollment.poraad.nl
 msoid.poraad.nl
+over-mijn.poraad.nl

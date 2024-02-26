@@ -11,9 +11,9 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/brabant.nl/subdomains.txt)|146|Alive subdomains|
+|[subdomains.txt](/data/brabant.nl/subdomains.txt)|147|Alive subdomains|
 |[urls.txt](/data/brabant.nl/urls.txt)|78|Urls|
-|[all_subdomains.txt](/data/brabant.nl/all_subdomains.txt)|232|All found subdomains (history)|
+|[all_subdomains.txt](/data/brabant.nl/all_subdomains.txt)|233|All found subdomains (history)|
 
 
 ## Statistics

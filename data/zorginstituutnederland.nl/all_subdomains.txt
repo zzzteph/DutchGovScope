@@ -37,3 +37,5 @@ ra1.zorginstituutnederland.nl
 ra2.zorginstituutnederland.nl
 www-ow.zorginstituutnederland.nl
 www-ts.zorginstituutnederland.nl
+www-dev.zorginstituutnederland.nl
+www-tst.zorginstituutnederland.nl

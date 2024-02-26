@@ -1,7 +1,3 @@
-e-loket.isdbollenstreek.nl
-e-loket-test.isdbollenstreek.nl
-mijnloket-test.isdbollenstreek.nl
-www.isdbollenstreek.nl
 isdbollenstreek.nl
 cloudadapter-prod.isdbollenstreek.nl
 cloudadapter-test.isdbollenstreek.nl

@@ -11,9 +11,9 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/rivm.nl/subdomains.txt)|400|Alive subdomains|
-|[urls.txt](/data/rivm.nl/urls.txt)|269|Urls|
-|[all_subdomains.txt](/data/rivm.nl/all_subdomains.txt)|925|All found subdomains (history)|
+|[subdomains.txt](/data/rivm.nl/subdomains.txt)|401|Alive subdomains|
+|[urls.txt](/data/rivm.nl/urls.txt)|270|Urls|
+|[all_subdomains.txt](/data/rivm.nl/all_subdomains.txt)|926|All found subdomains (history)|
 
 
 ## Statistics
@@ -290,4 +290,5 @@
 |[http://spoor.rivm.nl](http://spoor.rivm.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://api.acc-lsp.rivm.nl](https://api.acc-lsp.rivm.nl)| | **F**|Microsoft-Azure-Application-Gateway/v2| | | | | | | | :white_check_mark: | ||404 Not Found|
 |[https://acc-lsp.rivm.nl](https://acc-lsp.rivm.nl)| | **F**|Microsoft-Azure-Application-Gateway/v2| | | | | | | | :white_check_mark: | ||404 Not Found|
+|[https://teebstad-app.rivm.nl](https://teebstad-app.rivm.nl)| | **C**||:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | |Bootstrap:3.4.1 HSTS||
 

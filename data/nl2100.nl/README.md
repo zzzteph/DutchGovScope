@@ -11,7 +11,7 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/nl2100.nl/subdomains.txt)|320|Alive subdomains|
+|[subdomains.txt](/data/nl2100.nl/subdomains.txt)|474|Alive subdomains|
 |[urls.txt](/data/nl2100.nl/urls.txt)|320|Urls|
 |[all_subdomains.txt](/data/nl2100.nl/all_subdomains.txt)|474|All found subdomains (history)|
 

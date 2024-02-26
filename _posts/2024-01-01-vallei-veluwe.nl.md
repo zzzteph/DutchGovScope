@@ -51,7 +51,7 @@ tags: dutchgov
 |[https://enterpriseenrollment.vallei-veluwe.nl](https://enterpriseenrollment.vallei-veluwe.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||
 |[https://enterpriseregistration.vallei-veluwe.nl](https://enterpriseregistration.vallei-veluwe.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://geotest.vallei-veluwe.nl](https://geotest.vallei-veluwe.nl)| | **A**|Microsoft-IIS/10.0| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS IIS:10.0 Microsoft ASP.NET:4.0.30319 Windows Server||
-|[https://geo.vallei-veluwe.nl](https://geo.vallei-veluwe.nl)| | **A**|Microsoft-IIS/10.0| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS IIS:10.0 Microsoft ASP.NET Windows Server||
+|[https://geo.vallei-veluwe.nl](https://geo.vallei-veluwe.nl)| | **A**|Microsoft-IIS/10.0| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS IIS:10.0 Microsoft ASP.NET:4.0.30319 Windows Server||
 |[https://protect.vallei-veluwe.nl](https://protect.vallei-veluwe.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://vdi.vallei-veluwe.nl](https://vdi.vallei-veluwe.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||
 

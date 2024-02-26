@@ -21,3 +21,6 @@ mailcatch.test.ggdcontact.irealisatie.nl
 portal.test.ggdcontact.irealisatie.nl
 gateway.test.ggdcontact.irealisatie.nl
 messagebox.test.ggdcontact.irealisatie.nl
+test.dpr.irealisatie.nl
+acc.dpr.irealisatie.nl
+web.acc.dpr.irealisatie.nl

@@ -52,3 +52,5 @@ https://cibg.nl
 https://portaal.digilevering.cibg.nl
 https://acceptatie.portaal.digilevering.cibg.nl
 http://styleguide.cibg.nl
+https://acceptatie.beheer.generiekeregistratiedienst.cibg.nl
+https://acceptatie.behandel.generiekeregistratiedienst.cibg.nl

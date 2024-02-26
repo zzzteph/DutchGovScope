@@ -6,13 +6,13 @@
 
  - **SSL Grade**:B
  - **HTTP Security Grade**:C
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:24
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:26
 
 
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/cibg.nl/subdomains.txt)|77|Alive subdomains|
-|[urls.txt](/data/cibg.nl/urls.txt)|54|Urls|
+|[urls.txt](/data/cibg.nl/urls.txt)|56|Urls|
 |[all_subdomains.txt](/data/cibg.nl/all_subdomains.txt)|141|All found subdomains (history)|
 
 
@@ -75,4 +75,6 @@
 |[https://portaal.digilevering.cibg.nl](https://portaal.digilevering.cibg.nl)| **A**| **A**|-| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://acceptatie.portaal.digilevering.cibg.nl](https://acceptatie.portaal.digilevering.cibg.nl)| **A**| **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[http://styleguide.cibg.nl](http://styleguide.cibg.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
+|[https://acceptatie.beheer.generiekeregistratiedienst.cibg.nl](https://acceptatie.beheer.generiekeregistratiedienst.cibg.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
+|[https://acceptatie.behandel.generiekeregistratiedienst.cibg.nl](https://acceptatie.behandel.generiekeregistratiedienst.cibg.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 

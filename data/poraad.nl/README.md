@@ -13,7 +13,7 @@
 |------------|-------|------|
 |[subdomains.txt](/data/poraad.nl/subdomains.txt)|35|Alive subdomains|
 |[urls.txt](/data/poraad.nl/urls.txt)|19|Urls|
-|[all_subdomains.txt](/data/poraad.nl/all_subdomains.txt)|43|All found subdomains (history)|
+|[all_subdomains.txt](/data/poraad.nl/all_subdomains.txt)|44|All found subdomains (history)|
 
 
 ## Statistics
@@ -32,7 +32,7 @@
 |[https://www.poraad.nl](https://www.poraad.nl)| **A+**| **A**|| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Drupal:10 Google Tag Manager HSTS PHP|Home | PO-Raad|
 |[https://stbtest.poraad.nl](https://stbtest.poraad.nl)| **F**| **F**|Microsoft-IIS/10.0| | | | | | | | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server||
 |[https://acc2.poraad.nl](https://acc2.poraad.nl)| **F**| **F**|nginx| | | | | | | | :white_check_mark: | |Basic Nginx|401 Authorizatio...|
-|[https://poraad.nl](https://poraad.nl)| **A**| **A**|| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | ||308 Permanent Re...|
+|[https://poraad.nl](https://poraad.nl)| **A**| **A**|| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS|308 Permanent Re...|
 |[https://sectorrapportage2022.poraad.nl](https://sectorrapportage2022.poraad.nl)| **A**| **F**|nginx|:o: | | | | | | | :white_check_mark: | |Alpine.js Nginx|Sectorrapportage...|
 |[https://acc3.poraad.nl](https://acc3.poraad.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Basic Nginx|401 Authorizatio...|
 |[https://email.mg.poraad.nl](https://email.mg.poraad.nl)| | **E**|| | | | | | | | :white_check_mark: | |||

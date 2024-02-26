@@ -12,7 +12,7 @@
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/perined.nl/subdomains.txt)|26|Alive subdomains|
-|[urls.txt](/data/perined.nl/urls.txt)|22|Urls|
+|[urls.txt](/data/perined.nl/urls.txt)|23|Urls|
 |[all_subdomains.txt](/data/perined.nl/all_subdomains.txt)|26|All found subdomains (history)|
 
 
@@ -43,4 +43,5 @@
 |[http://autodiscover.perined.nl](http://autodiscover.perined.nl)| | **B**|Microsoft-IIS/10.0|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server||
 |[http://localhost.perined.nl](http://localhost.perined.nl)| | **D**|nginx| | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Nginx|Welcome to nginx...|
 |[https://webmail.perined.nl](https://webmail.perined.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|Test Page for th...|
+|[https://cbgwww.palga.nlwww.iknl.nlwww.perined.nl](https://cbgwww.palga.nlwww.iknl.nlwww.perined.nl)| | **F**|Apache/2.4.58 (Amazon Linux) OpenSSL/3.0.8| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.58 HSTS OpenSSL:3.0.8|301 Moved Perman...|
 

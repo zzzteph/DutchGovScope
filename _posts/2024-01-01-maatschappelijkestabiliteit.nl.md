@@ -2,8 +2,8 @@
 layout: default
 title: "maatschappelijkestabiliteit.nl"
 permalink: "/dutchgov/maatschappelijkestabiliteit.nl.html"
-subdomains_count: 3
-all_subdomains_count: 3
+subdomains_count: 99
+all_subdomains_count: 99
 urls_count: 3
 ssl_rank: 
 http_rank: E
@@ -27,9 +27,9 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/maatschappelijkestabiliteit.nl/subdomains.txt)|3|Alive subdomains|
+|[subdomains.txt](/DutchGovScope/data/maatschappelijkestabiliteit.nl/subdomains.txt)|99|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/maatschappelijkestabiliteit.nl/urls.txt)|3|Urls|
-|[all_subdomains.txt](/DutchGovScope/data/maatschappelijkestabiliteit.nl/all_subdomains.txt)|3|All found subdomains (history)|
+|[all_subdomains.txt](/DutchGovScope/data/maatschappelijkestabiliteit.nl/all_subdomains.txt)|99|All found subdomains (history)|
 
 
 ## Statistics

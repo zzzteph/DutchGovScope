@@ -544,3 +544,8 @@ rhaap-hub.int.ssc-campus.nl
 rhaap-ontwikkel.int.ssc-campus.nl
 rivm-prapp-l02t.rivm.ssc-campus.nl
 sscc-ddict-a01p.ddi.ssc-campus.nl
+rivm-meta-l01p.rivm.ssc-campus.nl
+rivm-meta-l01t.rivm.ssc-campus.nl
+rivm-meta-l02t.rivm.ssc-campus.nl
+rivm-meta-l03t.rivm.ssc-campus.nl
+rivm-meta-l01a.rivm.ssc-campus.nl

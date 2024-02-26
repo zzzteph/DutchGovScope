@@ -11,9 +11,9 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/keringhuis.nl/subdomains.txt)|11|Alive subdomains|
+|[subdomains.txt](/data/keringhuis.nl/subdomains.txt)|12|Alive subdomains|
 |[urls.txt](/data/keringhuis.nl/urls.txt)|9|Urls|
-|[all_subdomains.txt](/data/keringhuis.nl/all_subdomains.txt)|14|All found subdomains (history)|
+|[all_subdomains.txt](/data/keringhuis.nl/all_subdomains.txt)|15|All found subdomains (history)|
 
 
 ## Statistics

@@ -6,7 +6,7 @@ subdomains_count: 4
 all_subdomains_count: 5
 urls_count: 4
 ssl_rank: A
-http_rank: C
+http_rank: B
 security_txt: 3
 url_link: /data/beeldkompas.nl/urls.txt
 all_subdomains_link: /data/beeldkompas.nl/all_subdomains.txt
@@ -21,7 +21,7 @@ tags: dutchgov
 
 
  - **SSL Grade**:A
- - **HTTP Security Grade**:C
+ - **HTTP Security Grade**:B
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:3
 
 
@@ -39,6 +39,6 @@ tags: dutchgov
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[https://accept.beeldkompas.nl](https://accept.beeldkompas.nl)| | **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Nginx Plesk|Beeldkompas|
 |[https://cms.beeldkompas.nl](https://cms.beeldkompas.nl)| | **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS MySQL Nginx PHP:7.2.34 WordPress||
-|[https://www.beeldkompas.nl](https://www.beeldkompas.nl)| **A**| **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Nginx Plesk|Beeldkompas|
-|[https://beeldkompas.nl](https://beeldkompas.nl)| **A**| **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Nginx Plesk|301 Moved Perman...|
+|[https://www.beeldkompas.nl](https://www.beeldkompas.nl)| **A**| **A**|nginx| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS Nginx Plesk|Beeldkompas|
+|[https://beeldkompas.nl](https://beeldkompas.nl)| **A**| **A**|nginx| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS Nginx Plesk|301 Moved Perman...|
 

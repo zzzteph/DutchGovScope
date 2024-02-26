@@ -6,7 +6,7 @@
 
  - **SSL Grade**:B
  - **HTTP Security Grade**:E
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:10
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:11
 
 
 | File       | Count | Info |
@@ -23,7 +23,7 @@
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[https://acceptatie.sawa-vth.nl](https://acceptatie.sawa-vth.nl)| **A**| **A**|Microsoft-IIS/10.0|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS IIS:10.0 Microsoft ASP.NET Windows Server|PowerBrowser 202...|
 |[http://genconnector.sawa-vth.nl](http://genconnector.sawa-vth.nl)| **F**| **E**|| | | | | | | | :white_check_mark: | |||
-|[https://genconnector-acceptatie.sawa-vth.nl](https://genconnector-acceptatie.sawa-vth.nl)| **F**| **F**|Microsoft-IIS/10.0| | | | | | | | :white_check_mark: | |HSTS IIS:10.0 Microsoft ASP.NET Windows Server||
+|[http://genconnector-acceptatie.sawa-vth.nl](http://genconnector-acceptatie.sawa-vth.nl)| **F**| **E**|| | | | | | | | :white_check_mark: | |HSTS IIS:10.0 Microsoft ASP.NET Windows Server||
 |[https://map.sawa-vth.nl](https://map.sawa-vth.nl)| **A**| **F**|Microsoft-IIS/10.0|:warning: | | | | | | | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server||
 |[https://map-acceptatie.sawa-vth.nl](https://map-acceptatie.sawa-vth.nl)| **A**| **F**|Microsoft-IIS/10.0|:warning: | | | | | | | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server||
 |[https://office.sawa-vth.nl](https://office.sawa-vth.nl)| **A**| **E**|| | | | | | | | :white_check_mark: | ||Website niet bes...|

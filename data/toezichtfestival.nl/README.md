@@ -11,9 +11,9 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/toezichtfestival.nl/subdomains.txt)|17|Alive subdomains|
+|[subdomains.txt](/data/toezichtfestival.nl/subdomains.txt)|18|Alive subdomains|
 |[urls.txt](/data/toezichtfestival.nl/urls.txt)|17|Urls|
-|[all_subdomains.txt](/data/toezichtfestival.nl/all_subdomains.txt)|17|All found subdomains (history)|
+|[all_subdomains.txt](/data/toezichtfestival.nl/all_subdomains.txt)|18|All found subdomains (history)|
 
 
 ## Statistics

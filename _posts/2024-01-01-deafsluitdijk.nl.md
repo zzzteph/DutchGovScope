@@ -3,8 +3,8 @@ layout: default
 title: "deafsluitdijk.nl"
 permalink: "/dutchgov/deafsluitdijk.nl.html"
 subdomains_count: 25
-all_subdomains_count: 25
-urls_count: 18
+all_subdomains_count: 31
+urls_count: 21
 ssl_rank: D
 http_rank: E
 security_txt: 0
@@ -28,8 +28,8 @@ tags: dutchgov
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/DutchGovScope/data/deafsluitdijk.nl/subdomains.txt)|25|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/deafsluitdijk.nl/urls.txt)|18|Urls|
-|[all_subdomains.txt](/DutchGovScope/data/deafsluitdijk.nl/all_subdomains.txt)|25|All found subdomains (history)|
+|[urls.txt](/DutchGovScope/data/deafsluitdijk.nl/urls.txt)|21|Urls|
+|[all_subdomains.txt](/DutchGovScope/data/deafsluitdijk.nl/all_subdomains.txt)|31|All found subdomains (history)|
 
 
 ## Statistics
@@ -55,4 +55,7 @@ tags: dutchgov
 |[https://testsp.deafsluitdijk.nl](https://testsp.deafsluitdijk.nl)| | **F**|openresty| | | | | | | | :white_check_mark: | |HSTS Nginx OpenResty|Welcome|
 |[https://aaaw.deafsluitdijk.nl](https://aaaw.deafsluitdijk.nl)| | **F**|openresty| | | | | | | | :white_check_mark: | |HSTS Nginx OpenResty|Welcome|
 |[https://pic3.deafsluitdijk.nl](https://pic3.deafsluitdijk.nl)| | **F**|openresty| | | | | | | | :white_check_mark: | |HSTS Nginx OpenResty|Welcome|
+|[https://inwww.deafsluitdijk.nl](https://inwww.deafsluitdijk.nl)| | **F**|openresty| | | | | | | | :white_check_mark: | |HSTS Nginx OpenResty|Welcome|
+|[https://www.rijkswaterstaat.nlwww.deafsluitdijk.nl](https://www.rijkswaterstaat.nlwww.deafsluitdijk.nl)| | **F**|openresty| | | | | | | | :white_check_mark: | |HSTS Nginx OpenResty|Welcome|
+|[https://slan.frlinwww.deafsluitdijk.nl](https://slan.frlinwww.deafsluitdijk.nl)| | **F**|openresty| | | | | | | | :white_check_mark: | |HSTS Nginx OpenResty|Welcome|
 

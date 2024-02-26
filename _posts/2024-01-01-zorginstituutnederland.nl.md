@@ -2,9 +2,9 @@
 layout: default
 title: "zorginstituutnederland.nl"
 permalink: "/dutchgov/zorginstituutnederland.nl.html"
-subdomains_count: 24
-all_subdomains_count: 39
-urls_count: 11
+subdomains_count: 26
+all_subdomains_count: 41
+urls_count: 12
 ssl_rank: A+
 http_rank: A
 security_txt: 8
@@ -27,9 +27,9 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/zorginstituutnederland.nl/subdomains.txt)|24|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/zorginstituutnederland.nl/urls.txt)|11|Urls|
-|[all_subdomains.txt](/DutchGovScope/data/zorginstituutnederland.nl/all_subdomains.txt)|39|All found subdomains (history)|
+|[subdomains.txt](/DutchGovScope/data/zorginstituutnederland.nl/subdomains.txt)|26|Alive subdomains|
+|[urls.txt](/DutchGovScope/data/zorginstituutnederland.nl/urls.txt)|12|Urls|
+|[all_subdomains.txt](/DutchGovScope/data/zorginstituutnederland.nl/all_subdomains.txt)|41|All found subdomains (history)|
 
 
 ## Statistics
@@ -48,4 +48,5 @@ tags: dutchgov
 |[https://www.zorginstituutnederland.nl](https://www.zorginstituutnederland.nl)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Home | Zorginsti...|
 |[https://zorginstituutnederland.nl](https://zorginstituutnederland.nl)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
 |[https://proto.zorginstituutnederland.nl](https://proto.zorginstituutnederland.nl)| **A**| **A**|GitHub.com|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Fastly GitHub Pages Varnish|302 Found|
+|[https://www-ac.zorginstituutnederland.nl](https://www-ac.zorginstituutnederland.nl)| | **F**|Solvinity Server| | | | | | | | :white_check_mark: | ||HTTP Status 404...|
 

@@ -101,3 +101,4 @@ hlf.flevoland.nl
 ldap.flevoland.nl
 msoid.flevoland.nl
 uat.flevoland.nl
+mbg-proxy.flevoland.nl

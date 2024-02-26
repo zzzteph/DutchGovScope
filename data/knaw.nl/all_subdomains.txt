@@ -1825,3 +1825,5 @@ wp-01.dev.huc.knaw.nl
 ai-similia.labs.dans.knaw.nl
 wp-16.dev.huc.knaw.nl
 ss31.dans.knaw.nl
+repository-assistant.labs.dans.knaw.nl
+wp-03.dev.huc.knaw.nl

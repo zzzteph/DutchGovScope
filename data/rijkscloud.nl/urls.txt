@@ -21,7 +21,6 @@ https://dashboards.ipi.rijkscloud.nl
 https://datadrop.datafabriek.ienw.rijkscloud.nl
 https://datadrop.dev-datafabriek.ienw.rijkscloud.nl
 https://datatool.datafabriek.ienw.rijkscloud.nl
-https://datatool.dev-datafabriek.ienw.rijkscloud.nl
 https://dbe-t.rvb.rijkscloud.nl
 https://dev.fib.ienw.rijkscloud.nl
 https://developer.ix.rijkscloud.nl

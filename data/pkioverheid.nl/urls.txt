@@ -8,3 +8,4 @@ http://rootocsp-g3.pkioverheid.nl
 https://oid.pkioverheid.nl
 https://cp.pkioverheid.nl
 http://por.pkioverheid.nl
+http://trialrootocsp-g3.ocsp.pkioverheid.nl

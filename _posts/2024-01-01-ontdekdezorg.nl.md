@@ -37,7 +37,7 @@ tags: dutchgov
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://mail.ontdekdezorg.nl](https://mail.ontdekdezorg.nl)| **F**| **F**|Apache/2| | | | | | | | :white_check_mark: | |Apache HTTP Server:2|403 Forbidden|
+|[https://mail.ontdekdezorg.nl](https://mail.ontdekdezorg.nl)| **F**| **F**|Apache/2| | | | | | | | :white_check_mark: | |Apache HTTP Server:2|301 Moved Perman...|
 |[https://postergenerator.ontdekdezorg.nl](https://postergenerator.ontdekdezorg.nl)| **A+**| **C**|nginx|:o: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Laravel Nginx PHP|Postergenerator|
 |[https://staging.ontdekdezorg.nl](https://staging.ontdekdezorg.nl)| **A**| **F**|nginx| | | | | | | | :white_check_mark: | |Basic Nginx|401 Authorizatio...|
 |[https://toolkit.ontdekdezorg.nl](https://toolkit.ontdekdezorg.nl)| **A+**| **C**|nginx|:o: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx OWL Carousel PHP jQuery|Toolkit - Werken...|

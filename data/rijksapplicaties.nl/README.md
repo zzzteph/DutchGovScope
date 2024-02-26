@@ -11,9 +11,9 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/rijksapplicaties.nl/subdomains.txt)|257|Alive subdomains|
+|[subdomains.txt](/data/rijksapplicaties.nl/subdomains.txt)|262|Alive subdomains|
 |[urls.txt](/data/rijksapplicaties.nl/urls.txt)|222|Urls|
-|[all_subdomains.txt](/data/rijksapplicaties.nl/all_subdomains.txt)|320|All found subdomains (history)|
+|[all_subdomains.txt](/data/rijksapplicaties.nl/all_subdomains.txt)|325|All found subdomains (history)|
 
 
 ## Statistics
@@ -228,7 +228,7 @@
 |[https://bio.acc.rijksapplicaties.nl](https://bio.acc.rijksapplicaties.nl)| **F**| **F**|nginx| | | | | | | | :white_check_mark: | |HSTS Nginx||
 |[https://dpt.acc.rijksapplicaties.nl](https://dpt.acc.rijksapplicaties.nl)| **F**| **F**|nginx| | | | | | | | :white_check_mark: | |HSTS Nginx||
 |[http://qr-app-webservice.rijksapplicaties.nl](http://qr-app-webservice.rijksapplicaties.nl)| **A**| **E**|| | | | | | | | :white_check_mark: | ||302 Found|
-|[https://acc.rijksapplicaties.nl](https://acc.rijksapplicaties.nl)| **F**| **F**|nginx| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET Nginx|Rijksapplicaties...|
+|[http://acc.rijksapplicaties.nl](http://acc.rijksapplicaties.nl)| **F**| **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET Nginx|302 Found|
 |[https://fvp.acc.rijksapplicaties.nl](https://fvp.acc.rijksapplicaties.nl)| **F**| **F**|nginx| | | | | | | | :white_check_mark: | |Nginx||
 |[https://rvb-mva.rijksapplicaties.nl](https://rvb-mva.rijksapplicaties.nl)| **A+**| **C**|nginx|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS Nginx||
 |[https://rvb-flowboard.rijksapplicaties.nl](https://rvb-flowboard.rijksapplicaties.nl)| | **C**|nginx|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS Nginx||

@@ -2,8 +2,8 @@
 layout: default
 title: "infrankrijk.nl"
 permalink: "/dutchgov/infrankrijk.nl.html"
-subdomains_count: 1
-all_subdomains_count: 2
+subdomains_count: 2
+all_subdomains_count: 3
 urls_count: 1
 ssl_rank: 
 http_rank: F
@@ -27,9 +27,9 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/infrankrijk.nl/subdomains.txt)|1|Alive subdomains|
+|[subdomains.txt](/DutchGovScope/data/infrankrijk.nl/subdomains.txt)|2|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/infrankrijk.nl/urls.txt)|1|Urls|
-|[all_subdomains.txt](/DutchGovScope/data/infrankrijk.nl/all_subdomains.txt)|2|All found subdomains (history)|
+|[all_subdomains.txt](/DutchGovScope/data/infrankrijk.nl/all_subdomains.txt)|3|All found subdomains (history)|
 
 
 ## Statistics

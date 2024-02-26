@@ -11,7 +11,7 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/kikstarter.nl/subdomains.txt)|4|Alive subdomains|
+|[subdomains.txt](/data/kikstarter.nl/subdomains.txt)|5|Alive subdomains|
 |[urls.txt](/data/kikstarter.nl/urls.txt)|4|Urls|
 |[all_subdomains.txt](/data/kikstarter.nl/all_subdomains.txt)|5|All found subdomains (history)|
 

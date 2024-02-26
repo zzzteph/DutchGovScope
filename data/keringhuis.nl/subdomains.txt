@@ -9,3 +9,4 @@ localhost.keringhuis.nl
 pop.keringhuis.nl
 quiz.keringhuis.nl
 autodiscover.keringhuis.nl
+smtpdma.keringhuis.nl

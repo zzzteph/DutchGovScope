@@ -205,7 +205,7 @@ http://rldb-webservice.rijksapplicaties.nl
 https://bio.acc.rijksapplicaties.nl
 https://dpt.acc.rijksapplicaties.nl
 http://qr-app-webservice.rijksapplicaties.nl
-https://acc.rijksapplicaties.nl
+http://acc.rijksapplicaties.nl
 https://fvp.acc.rijksapplicaties.nl
 https://rvb-mva.rijksapplicaties.nl
 https://rvb-flowboard.rijksapplicaties.nl

@@ -3,7 +3,7 @@ layout: default
 title: "autoriteitnvs.nl"
 permalink: "/dutchgov/autoriteitnvs.nl.html"
 subdomains_count: 17
-all_subdomains_count: 23
+all_subdomains_count: 24
 urls_count: 8
 ssl_rank: A+
 http_rank: A
@@ -29,7 +29,7 @@ tags: dutchgov
 |------------|-------|------|
 |[subdomains.txt](/DutchGovScope/data/autoriteitnvs.nl/subdomains.txt)|17|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/autoriteitnvs.nl/urls.txt)|8|Urls|
-|[all_subdomains.txt](/DutchGovScope/data/autoriteitnvs.nl/all_subdomains.txt)|23|All found subdomains (history)|
+|[all_subdomains.txt](/DutchGovScope/data/autoriteitnvs.nl/all_subdomains.txt)|24|All found subdomains (history)|
 
 
 ## Statistics

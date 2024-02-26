@@ -12,8 +12,8 @@
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/deafsluitdijk.nl/subdomains.txt)|25|Alive subdomains|
-|[urls.txt](/data/deafsluitdijk.nl/urls.txt)|18|Urls|
-|[all_subdomains.txt](/data/deafsluitdijk.nl/all_subdomains.txt)|25|All found subdomains (history)|
+|[urls.txt](/data/deafsluitdijk.nl/urls.txt)|21|Urls|
+|[all_subdomains.txt](/data/deafsluitdijk.nl/all_subdomains.txt)|31|All found subdomains (history)|
 
 
 ## Statistics
@@ -39,4 +39,7 @@
 |[https://testsp.deafsluitdijk.nl](https://testsp.deafsluitdijk.nl)| | **F**|openresty| | | | | | | | :white_check_mark: | |HSTS Nginx OpenResty|Welcome|
 |[https://aaaw.deafsluitdijk.nl](https://aaaw.deafsluitdijk.nl)| | **F**|openresty| | | | | | | | :white_check_mark: | |HSTS Nginx OpenResty|Welcome|
 |[https://pic3.deafsluitdijk.nl](https://pic3.deafsluitdijk.nl)| | **F**|openresty| | | | | | | | :white_check_mark: | |HSTS Nginx OpenResty|Welcome|
+|[https://inwww.deafsluitdijk.nl](https://inwww.deafsluitdijk.nl)| | **F**|openresty| | | | | | | | :white_check_mark: | |HSTS Nginx OpenResty|Welcome|
+|[https://www.rijkswaterstaat.nlwww.deafsluitdijk.nl](https://www.rijkswaterstaat.nlwww.deafsluitdijk.nl)| | **F**|openresty| | | | | | | | :white_check_mark: | |HSTS Nginx OpenResty|Welcome|
+|[https://slan.frlinwww.deafsluitdijk.nl](https://slan.frlinwww.deafsluitdijk.nl)| | **F**|openresty| | | | | | | | :white_check_mark: | |HSTS Nginx OpenResty|Welcome|
 

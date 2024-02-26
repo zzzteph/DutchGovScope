@@ -1,5 +1,5 @@
-http://amice.lma.nl
-http://prod.amice.lma.nl
+https://amice.lma.nl
+https://prod.amice.lma.nl
 https://test.lma.nl
 https://www.lma.nl
 https://lma.nl

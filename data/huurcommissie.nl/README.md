@@ -11,7 +11,7 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/huurcommissie.nl/subdomains.txt)|41|Alive subdomains|
+|[subdomains.txt](/data/huurcommissie.nl/subdomains.txt)|42|Alive subdomains|
 |[urls.txt](/data/huurcommissie.nl/urls.txt)|16|Urls|
 |[all_subdomains.txt](/data/huurcommissie.nl/all_subdomains.txt)|58|All found subdomains (history)|
 

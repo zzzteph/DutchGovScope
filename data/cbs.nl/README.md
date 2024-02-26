@@ -6,13 +6,13 @@
 
  - **SSL Grade**:A-
  - **HTTP Security Grade**:D
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:110
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:111
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/cbs.nl/subdomains.txt)|216|Alive subdomains|
-|[urls.txt](/data/cbs.nl/urls.txt)|173|Urls|
+|[subdomains.txt](/data/cbs.nl/subdomains.txt)|221|Alive subdomains|
+|[urls.txt](/data/cbs.nl/urls.txt)|178|Urls|
 |[all_subdomains.txt](/data/cbs.nl/all_subdomains.txt)|300|All found subdomains (history)|
 
 
@@ -194,4 +194,9 @@
 |[https://mijn.acceptatie.cbs.nl](https://mijn.acceptatie.cbs.nl)| | **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |Basic HSTS Nginx|401 Authorizatio...|
 |[http://mijn-acceptatie.cbs.nl](http://mijn-acceptatie.cbs.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://brandportal.cbs.nl](https://brandportal.cbs.nl)| | **F**|Apache/2| | | | | | | | :white_check_mark: | |Apache HTTP Server:2||
+|[http://sdmx-dataexplorer-beta.cbs.nl](http://sdmx-dataexplorer-beta.cbs.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Express HSTS Node.js||
+|[http://sdmx-share.cbs.nl](http://sdmx-share.cbs.nl)| | **E**|| | | | | | | | :white_check_mark: | |Express Node.js||
+|[http://sdmx-dataviewer.cbs.nl](http://sdmx-dataviewer.cbs.nl)| | **E**|| | | | | | | | :white_check_mark: | |Express Node.js||
+|[http://sdmx-search-beta.cbs.nl](http://sdmx-search-beta.cbs.nl)| | **B**|| |:white_check_mark: | :warning:| | :white_check_mark:| | | :white_check_mark: | |Express HSTS Node.js|Error|
+|[http://sdmx-api-beta.cbs.nl](http://sdmx-api-beta.cbs.nl)| | **F**|Kestrel| | | | | | | | :white_check_mark: | |Express Kestrel Microsoft ASP.NET Node.js||
 

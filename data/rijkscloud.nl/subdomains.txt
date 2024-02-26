@@ -546,3 +546,5 @@ zbxprx2.ec.rijkscloud.nl
 vpn04.ec.rijkscloud.nl
 vpn02.ec.rijkscloud.nl
 vpn03.ec.rijkscloud.nl
+api-performance.test.ix.rijkscloud.nl
+kit-art.cvr.rvb.rijkscloud.nl

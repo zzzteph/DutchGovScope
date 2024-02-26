@@ -46,7 +46,7 @@ tags: dutchgov
 |[https://acc.login.consular.mfaservices.nl](https://acc.login.consular.mfaservices.nl)| **A+**| **C**|cloudflare|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Cloudflare Cloudflare Bot Management HSTS|Attention Requir...|
 |[https://acc.nww.mfaservices.nl](https://acc.nww.mfaservices.nl)| **A**| **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|403 Forbidden|
 |[https://acc.protocol.mfaservices.nl](https://acc.protocol.mfaservices.nl)| **A**| **C**||:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | |Azure HSTS||
-|[https://consular.mfaservices.nl](https://consular.mfaservices.nl)| **A+**| **B**|cloudflare|:white_check_mark: |:white_check_mark: | | |:warning: | | :white_check_mark: | :white_check_mark: | |Azure Azure Front Door Cloudflare Cloudflare Bot Management HSTS|Ministry of Fore...|
+|[https://consular.mfaservices.nl](https://consular.mfaservices.nl)| **A+**| **B**|cloudflare|:white_check_mark: |:white_check_mark: | | |:warning: | | :white_check_mark: | :white_check_mark: | |Cloudflare Cloudflare Bot Management HSTS||
 |[https://consular-service.consular.mfaservices.nl](https://consular-service.consular.mfaservices.nl)| **A+**| **C**|cloudflare|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Cloudflare Cloudflare Bot Management HSTS|Attention Requir...|
 |[https://countrydashboard.mfaservices.nl](https://countrydashboard.mfaservices.nl)| **A+**| **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
 |[https://dev-insights.mfaservices.nl](https://dev-insights.mfaservices.nl)| **F**| **F**|Microsoft-Azure-Application-Gateway/v2| | | | | | | | :white_check_mark: | ||404 Not Found|

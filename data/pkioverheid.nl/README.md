@@ -6,13 +6,13 @@
 
  - **SSL Grade**:A+
  - **HTTP Security Grade**:A
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:7
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:8
 
 
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/pkioverheid.nl/subdomains.txt)|11|Alive subdomains|
-|[urls.txt](/data/pkioverheid.nl/urls.txt)|10|Urls|
+|[urls.txt](/data/pkioverheid.nl/urls.txt)|11|Urls|
 |[all_subdomains.txt](/data/pkioverheid.nl/all_subdomains.txt)|25|All found subdomains (history)|
 
 
@@ -31,4 +31,5 @@
 |[https://oid.pkioverheid.nl](https://oid.pkioverheid.nl)| | **A**|| |:white_check_mark: | :warning:| | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Object Identifie...|
 |[https://cp.pkioverheid.nl](https://cp.pkioverheid.nl)| | **A**|| |:white_check_mark: | :warning:| | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Certificate Poli...|
 |[http://por.pkioverheid.nl](http://por.pkioverheid.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|KPN TSP - CRL Di...|
+|[http://trialrootocsp-g3.ocsp.pkioverheid.nl](http://trialrootocsp-g3.ocsp.pkioverheid.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 

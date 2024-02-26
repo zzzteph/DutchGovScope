@@ -5,8 +5,8 @@
 
 
  - **SSL Grade**:A+
- - **HTTP Security Grade**:A
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:0
+ - **HTTP Security Grade**:F
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:2
 
 
 | File       | Count | Info |
@@ -21,6 +21,6 @@
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://www.innovatie-expo2023.nl](https://www.innovatie-expo2023.nl)| **A+**| **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS PHP||
-|[http://innovatie-expo2023.nl](http://innovatie-expo2023.nl)| | **A**|nginx/1.22.1| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Nginx:1.22.1|301 Moved Perman...|
+|[http://www.innovatie-expo2023.nl](http://www.innovatie-expo2023.nl)| **A+**| **F**|nginx/1.22.1| | | | | | | | :white_check_mark: | |Nginx:1.22.1|Oops, something...|
+|[http://innovatie-expo2023.nl](http://innovatie-expo2023.nl)| | **F**|nginx/1.22.1| | | | | | | | :white_check_mark: | |Nginx:1.22.1|301 Moved Perman...|
 

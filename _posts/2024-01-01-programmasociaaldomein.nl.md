@@ -2,12 +2,12 @@
 layout: default
 title: "programmasociaaldomein.nl"
 permalink: "/dutchgov/programmasociaaldomein.nl.html"
-subdomains_count: 9
+subdomains_count: 5
 all_subdomains_count: 16
-urls_count: 4
-ssl_rank: A+
-http_rank: A
-security_txt: 4
+urls_count: 0
+ssl_rank: 
+http_rank: F
+security_txt: 0
 url_link: /data/programmasociaaldomein.nl/urls.txt
 all_subdomains_link: /data/programmasociaaldomein.nl/all_subdomains.txt
 subdomains_link: /data/programmasociaaldomein.nl/subdomains.txt
@@ -20,15 +20,15 @@ tags: dutchgov
 ## Summary data
 
 
- - **SSL Grade**:A+
- - **HTTP Security Grade**:A
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:4
+ - **SSL Grade**:
+ - **HTTP Security Grade**:F
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:0
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/programmasociaaldomein.nl/subdomains.txt)|9|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/programmasociaaldomein.nl/urls.txt)|4|Urls|
+|[subdomains.txt](/DutchGovScope/data/programmasociaaldomein.nl/subdomains.txt)|5|Alive subdomains|
+|[urls.txt](/DutchGovScope/data/programmasociaaldomein.nl/urls.txt)|0|Urls|
 |[all_subdomains.txt](/DutchGovScope/data/programmasociaaldomein.nl/all_subdomains.txt)|16|All found subdomains (history)|
 
 
@@ -37,8 +37,4 @@ tags: dutchgov
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://feeds.programmasociaaldomein.nl](https://feeds.programmasociaaldomein.nl)| **A+**| **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
-|[https://opendata.programmasociaaldomein.nl](https://opendata.programmasociaaldomein.nl)| **A+**| **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
-|[https://www.programmasociaaldomein.nl](https://www.programmasociaaldomein.nl)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Home | Programma...|
-|[https://programmasociaaldomein.nl](https://programmasociaaldomein.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
 

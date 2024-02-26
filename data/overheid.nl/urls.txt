@@ -334,3 +334,4 @@ https://autodiscover.overheid.nl
 http://beta8.overheid.nl
 https://community.developer.overheid.nl
 https://ftp.overheid.nl
+https://beta-wetten-acc.overheid.nl

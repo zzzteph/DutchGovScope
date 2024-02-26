@@ -42,7 +42,6 @@ beschikbaarheidbijdrage-medische-vervolgopleidingen.nl
 big-register.nl
 bigregister.nl
 binnenhofrenovatie.nl
-brabantbusinessmedia.nl
 braic.nl
 bureauicttoetsing.nl
 bureauncdr.nl
@@ -938,7 +937,6 @@ platformwow.nl
 nas-adaptatietool.nl
 toegangtotdeoverheid.nl
 rijkscloud.nl
-sbr-wonen.nl
 versnellingshuisce.nl
 owinsp.nl
 publiektoezicht.nl

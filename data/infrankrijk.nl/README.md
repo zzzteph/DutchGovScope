@@ -11,9 +11,9 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/infrankrijk.nl/subdomains.txt)|1|Alive subdomains|
+|[subdomains.txt](/data/infrankrijk.nl/subdomains.txt)|2|Alive subdomains|
 |[urls.txt](/data/infrankrijk.nl/urls.txt)|1|Urls|
-|[all_subdomains.txt](/data/infrankrijk.nl/all_subdomains.txt)|2|All found subdomains (history)|
+|[all_subdomains.txt](/data/infrankrijk.nl/all_subdomains.txt)|3|All found subdomains (history)|
 
 
 ## Statistics
