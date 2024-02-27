@@ -12,7 +12,7 @@
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/brabant.nl/subdomains.txt)|147|Alive subdomains|
-|[urls.txt](/data/brabant.nl/urls.txt)|78|Urls|
+|[urls.txt](/data/brabant.nl/urls.txt)|76|Urls|
 |[all_subdomains.txt](/data/brabant.nl/all_subdomains.txt)|233|All found subdomains (history)|
 
 
@@ -60,11 +60,9 @@
 |[https://onderzoeksbank.brabant.nl](https://onderzoeksbank.brabant.nl)| | **F**|Apache/2| | | | | | | | :white_check_mark: | |Apache HTTP Server:2 HSTS PHP:5.6.40|Onderzoeksbank B...|
 |[https://psarchief.brabant.nl](https://psarchief.brabant.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|GO. Server|
 |[https://publicaties.brabant.nl](https://publicaties.brabant.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||
-|[https://startformulier.brabant.nl](https://startformulier.brabant.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Service|
-|[https://startformuliertest.brabant.nl](https://startformuliertest.brabant.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
 |[https://vpn.brabant.nl](https://vpn.brabant.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||
 |[https://webmail.brabant.nl](https://webmail.brabant.nl)| | **A**||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |||
-|[https://wegen.brabant.nl](https://wegen.brabant.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET|Object moved|
+|[http://wegen.brabant.nl](http://wegen.brabant.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET||
 |[https://werkenvoor.brabant.nl](https://werkenvoor.brabant.nl)| | **A**||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET|Werken bij de pr...|
 |[https://werkplek.brabant.nl](https://werkplek.brabant.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS||
 |[https://facilitor.brabant.nl](https://facilitor.brabant.nl)| | **B**|BigIP|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |F5 BigIP||

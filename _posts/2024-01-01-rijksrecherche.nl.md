@@ -41,7 +41,7 @@ tags: dutchgov
 |[https://opendata.rijksrecherche.nl](https://opendata.rijksrecherche.nl)| **A+**| **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://rijksrecherche.nl](https://rijksrecherche.nl)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
 |[https://www.rijksrecherche.nl](https://www.rijksrecherche.nl)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Rijksrecherche |...|
-|[https://dialin.rijksrecherche.nl](https://dialin.rijksrecherche.nl)| **F**| **F**|Microsoft-IIS/10.0| | | | | | | | :white_check_mark: | |HSTS IIS:10.0 Windows Server|Conferencing Dia...|
+|[https://dialin.rijksrecherche.nl](https://dialin.rijksrecherche.nl)| **F**| **F**|Microsoft-IIS/10.0| | | | | | | | :white_check_mark: | |HSTS IIS:10.0 Windows Server||
 |[https://lyncdiscover.rijksrecherche.nl](https://lyncdiscover.rijksrecherche.nl)| **F**| **E**|| | | | | | | | :white_check_mark: | |||
 |[https://meet.rijksrecherche.nl](https://meet.rijksrecherche.nl)| **F**| **E**|| | | | | | | | :white_check_mark: | |HSTS|Skype for Busine...|
 |[https://sip.rijksrecherche.nl](https://sip.rijksrecherche.nl)| **A+**| **C**|RTC/6.0| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||

@@ -11,7 +11,7 @@ https://login.aaenmaas.nl
 https://oa.aaenmaas.nl
 https://webmail.aaenmaas.nl
 https://testeloket.aaenmaas.nl
-http://meet.aaenmaas.nl
+https://meet.aaenmaas.nl
 https://dialin.aaenmaas.nl
 https://eloket.aaenmaas.nl
 https://amira.aaenmaas.nl

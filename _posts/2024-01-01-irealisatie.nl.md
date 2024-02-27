@@ -4,10 +4,10 @@ title: "irealisatie.nl"
 permalink: "/dutchgov/irealisatie.nl.html"
 subdomains_count: 26
 all_subdomains_count: 26
-urls_count: 17
+urls_count: 21
 ssl_rank: 
 http_rank: B
-security_txt: 12
+security_txt: 16
 url_link: /data/irealisatie.nl/urls.txt
 all_subdomains_link: /data/irealisatie.nl/all_subdomains.txt
 subdomains_link: /data/irealisatie.nl/subdomains.txt
@@ -22,13 +22,13 @@ tags: dutchgov
 
  - **SSL Grade**:
  - **HTTP Security Grade**:B
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:12
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:16
 
 
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/DutchGovScope/data/irealisatie.nl/subdomains.txt)|26|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/irealisatie.nl/urls.txt)|17|Urls|
+|[urls.txt](/DutchGovScope/data/irealisatie.nl/urls.txt)|21|Urls|
 |[all_subdomains.txt](/DutchGovScope/data/irealisatie.nl/all_subdomains.txt)|26|All found subdomains (history)|
 
 
@@ -54,4 +54,8 @@ tags: dutchgov
 |[http://taiga.irealisatie.nl](http://taiga.irealisatie.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://mailcatch.acc.dpr.irealisatie.nl](https://mailcatch.acc.dpr.irealisatie.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS||
 |[https://mailcatch.test.dpr.irealisatie.nl](https://mailcatch.test.dpr.irealisatie.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS||
+|[https://mailcatch.test.ggdcontact.irealisatie.nl](https://mailcatch.test.ggdcontact.irealisatie.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Basic HSTS|401 Unauthorized|
+|[https://portal.test.ggdcontact.irealisatie.nl](https://portal.test.ggdcontact.irealisatie.nl)| | **B**|Apache| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server Basic HSTS|401 Unauthorized|
+|[https://gateway.test.ggdcontact.irealisatie.nl](https://gateway.test.ggdcontact.irealisatie.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS|Redirecting to h...|
+|[https://messagebox.test.ggdcontact.irealisatie.nl](https://messagebox.test.ggdcontact.irealisatie.nl)| | **B**|Apache| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server Basic HSTS|401 Unauthorized|
 

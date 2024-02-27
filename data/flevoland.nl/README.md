@@ -12,7 +12,7 @@
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/flevoland.nl/subdomains.txt)|104|Alive subdomains|
-|[urls.txt](/data/flevoland.nl/urls.txt)|79|Urls|
+|[urls.txt](/data/flevoland.nl/urls.txt)|76|Urls|
 |[all_subdomains.txt](/data/flevoland.nl/all_subdomains.txt)|222|All found subdomains (history)|
 
 
@@ -28,7 +28,6 @@
 |[http://geo2.flevoland.nl](http://geo2.flevoland.nl)| **A**| **E**|| | | | | | | | :white_check_mark: | |||
 |[https://cmsintranet.flevoland.nl](https://cmsintranet.flevoland.nl)| **A+**| **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|403 - Forbidden:...|
 |[http://embraceintranet.flevoland.nl](http://embraceintranet.flevoland.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
-|[https://esb-ibabs.flevoland.nl](https://esb-ibabs.flevoland.nl)| **B**| **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Service|
 |[https://formulieren.flevoland.nl](https://formulieren.flevoland.nl)| **A+**| **A**||:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Pagina bestaat n...|
 |[https://preprodformulieren.flevoland.nl](https://preprodformulieren.flevoland.nl)| **A+**| **A**||:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Pagina bestaat n...|
 |[https://luchtfoto.flevoland.nl](https://luchtfoto.flevoland.nl)| **B**| **F**|Microsoft-IIS/10.0| | | | | | | | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server|IIS Windows Serv...|
@@ -71,7 +70,7 @@
 |[https://www.bodemrapportage.flevoland.nl](https://www.bodemrapportage.flevoland.nl)| **B**| **F**|Apache/2.4.29 (Ubuntu)|:warning: | | | |:warning: | | | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu|301 Moved Perman...|
 |[https://competentie.flevoland.nl](https://competentie.flevoland.nl)| **A+**| **B**|Apache|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS PHP:5.6.35|:: CM online 201...|
 |[https://meepraten.flevoland.nl](https://meepraten.flevoland.nl)| **A+**| **A**|Apache|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
-|[http://localhost.flevoland.nl](http://localhost.flevoland.nl)| | **D**|nginx| | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Nginx|Welcome to nginx...|
+|[http://localhost.flevoland.nl](http://localhost.flevoland.nl)| | **F**|nginx|:o: | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Laravel Nginx PHP|Weakpass|
 |[https://mgt.flevoland.nl](https://mgt.flevoland.nl)| **B**| **A**|Apache/2.4.29 (Ubuntu)| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu|Apache2 Ubuntu D...|
 |[https://begroting2019.flevoland.nl](https://begroting2019.flevoland.nl)| **A+**| **C**|Microsoft-IIS/10.0|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Azure HSTS IIS:10.0 Windows Server|Home | Begroting...|
 |[https://webmail.flevoland.nl](https://webmail.flevoland.nl)| **A+**| **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |||
@@ -80,13 +79,11 @@
 |[https://mdm.flevoland.nl](https://mdm.flevoland.nl)| **A**| **A**|server| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|302 Found|
 |[https://vps-prod-01.flevoland.nl](https://vps-prod-01.flevoland.nl)| **B**| **C**|Apache/2.4.29 (Ubuntu)| |:white_check_mark: | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu|301 Moved Perman...|
 |[https://intranet-bestanden.flevoland.nl](https://intranet-bestanden.flevoland.nl)| **B**| **A**|Apache/2.4.29 (Ubuntu)| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu|403 Forbidden|
-|[https://esb-ibabs-preprod.flevoland.nl](https://esb-ibabs-preprod.flevoland.nl)| **B**| **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
 |[https://geo3.flevoland.nl](https://geo3.flevoland.nl)| **B**| **E**|| | | | | | | | :white_check_mark: | |||
 |[https://ehs.flevoland.nl](https://ehs.flevoland.nl)| **B**| **A**|Apache/2.4.29 (Ubuntu)| |:white_check_mark: | | | :white_check_mark:| | | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu|301 Moved Perman...|
 |[https://regiotaxi.flevoland.nl](https://regiotaxi.flevoland.nl)| **B**| **C**|Apache/2.4.29 (Ubuntu)| |:white_check_mark: | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu|301 Moved Perman...|
 |[https://natuurbeheerplan.flevoland.nl](https://natuurbeheerplan.flevoland.nl)| **B**| **A**|Apache/2.4.29 (Ubuntu)| |:white_check_mark: | | | :white_check_mark:| | | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu|301 Moved Perman...|
 |[https://test.flevoland.nl](https://test.flevoland.nl)| **B**| **F**|Microsoft-Azure-Application-Gateway/v2| | | | | | | | :white_check_mark: | ||502 Bad Gateway|
-|[https://smartmobility.flevoland.nl](https://smartmobility.flevoland.nl)| **A**| **A**|nginx| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://vps-prod-03.flevoland.nl](https://vps-prod-03.flevoland.nl)| **F**| **F**|Apache/2| | | | | | | | :white_check_mark: | |Apache HTTP Server:2||
 |[https://monitorwonen.flevoland.nl](https://monitorwonen.flevoland.nl)| **A**| **F**|Microsoft-IIS/10.0| | | | | | | | :white_check_mark: | |IIS:10.0 React Windows Server|Planregistratie...|
 |[https://georegister.flevoland.nl](https://georegister.flevoland.nl)| **A+**| **A**|Apache|:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|

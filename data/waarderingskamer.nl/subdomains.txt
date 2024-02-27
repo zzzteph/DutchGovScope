@@ -13,6 +13,7 @@ search.waarderingskamer.nl
 acceptatie.api.waarderingskamer.nl
 gatekeeper.waarderingskamer.nl
 lvwozportaal.waarderingskamer.nl
+acceptatie.waarderingskamer.nl
 vpn2.waarderingskamer.nl
 vpn.waarderingskamer.nl
 api.waarderingskamer.nl

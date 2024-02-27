@@ -2,12 +2,12 @@
 layout: default
 title: "digitalnorthsea.nl"
 permalink: "/dutchgov/digitalnorthsea.nl.html"
-subdomains_count: 2
+subdomains_count: 4
 all_subdomains_count: 4
-urls_count: 2
+urls_count: 4
 ssl_rank: 
-http_rank: F
-security_txt: 0
+http_rank: C
+security_txt: 2
 url_link: /data/digitalnorthsea.nl/urls.txt
 all_subdomains_link: /data/digitalnorthsea.nl/all_subdomains.txt
 subdomains_link: /data/digitalnorthsea.nl/subdomains.txt
@@ -21,14 +21,14 @@ tags: dutchgov
 
 
  - **SSL Grade**:
- - **HTTP Security Grade**:F
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:0
+ - **HTTP Security Grade**:C
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:2
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/digitalnorthsea.nl/subdomains.txt)|2|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/digitalnorthsea.nl/urls.txt)|2|Urls|
+|[subdomains.txt](/DutchGovScope/data/digitalnorthsea.nl/subdomains.txt)|4|Alive subdomains|
+|[urls.txt](/DutchGovScope/data/digitalnorthsea.nl/urls.txt)|4|Urls|
 |[all_subdomains.txt](/DutchGovScope/data/digitalnorthsea.nl/all_subdomains.txt)|4|All found subdomains (history)|
 
 
@@ -39,4 +39,6 @@ tags: dutchgov
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[https://digitalnorthsea.nl](https://digitalnorthsea.nl)| **F**| **F**|nginx| | | | | | | | :white_check_mark: | |Alpine.js HSTS Nginx|Op weg naar een...|
 |[https://www.digitalnorthsea.nl](https://www.digitalnorthsea.nl)| **F**| **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|301 Moved Perman...|
+|[https://feeds.digitalnorthsea.nl](https://feeds.digitalnorthsea.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
+|[https://opendata.digitalnorthsea.nl](https://opendata.digitalnorthsea.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 

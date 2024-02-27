@@ -5,14 +5,14 @@
 
 
  - **SSL Grade**:C
- - **HTTP Security Grade**:D
+ - **HTTP Security Grade**:E
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:4
 
 
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/bronhouderportaal-bro.nl/subdomains.txt)|31|Alive subdomains|
-|[urls.txt](/data/bronhouderportaal-bro.nl/urls.txt)|16|Urls|
+|[urls.txt](/data/bronhouderportaal-bro.nl/urls.txt)|18|Urls|
 |[all_subdomains.txt](/data/bronhouderportaal-bro.nl/all_subdomains.txt)|32|All found subdomains (history)|
 
 
@@ -37,4 +37,6 @@
 |[https://acc2.bronhouderportaal-bro.nl](https://acc2.bronhouderportaal-bro.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|403 Forbidden|
 |[https://demo2.bronhouderportaal-bro.nl](https://demo2.bronhouderportaal-bro.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|403 Forbidden|
 |[http://localhost.bronhouderportaal-bro.nl](http://localhost.bronhouderportaal-bro.nl)| | **D**|nginx| | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Nginx|Welcome to nginx...|
+|[https://sso-demo2.bronhouderportaal-bro.nl](https://sso-demo2.bronhouderportaal-bro.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|403 Forbidden|
+|[http://sso-acc.bronhouderportaal-bro.nl](http://sso-acc.bronhouderportaal-bro.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 

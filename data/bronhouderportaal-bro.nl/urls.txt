@@ -14,3 +14,5 @@ https://bronhouderportaal-bro.nl
 https://acc2.bronhouderportaal-bro.nl
 https://demo2.bronhouderportaal-bro.nl
 http://localhost.bronhouderportaal-bro.nl
+https://sso-demo2.bronhouderportaal-bro.nl
+http://sso-acc.bronhouderportaal-bro.nl

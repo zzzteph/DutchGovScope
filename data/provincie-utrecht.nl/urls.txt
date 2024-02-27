@@ -41,7 +41,6 @@ https://login.provincie-utrecht.nl
 https://socialintranet.provincie-utrecht.nl
 https://formulieren.provincie-utrecht.nl
 https://vctu-api.provincie-utrecht.nl
-https://esb.provincie-utrecht.nl
 https://geotest.provincie-utrecht.nl
 https://gis-test.provincie-utrecht.nl
 https://auth-preprod.provincie-utrecht.nl
@@ -59,7 +58,6 @@ https://provincie-utrecht.nl
 https://atlas.provincie-utrecht.nl
 https://oem.provincie-utrecht.nl
 https://mailing.provincie-utrecht.nl
-https://esb-preprod.provincie-utrecht.nl
 https://webkaart.provincie-utrecht.nl
 https://vctu.provincie-utrecht.nl
 https://socialintranet-acc.provincie-utrecht.nl

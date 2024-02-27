@@ -5,14 +5,14 @@
 
 
  - **SSL Grade**:B+
- - **HTTP Security Grade**:C
+ - **HTTP Security Grade**:D
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:4
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/waarderingskamer.nl/subdomains.txt)|26|Alive subdomains|
-|[urls.txt](/data/waarderingskamer.nl/urls.txt)|13|Urls|
+|[subdomains.txt](/data/waarderingskamer.nl/subdomains.txt)|27|Alive subdomains|
+|[urls.txt](/data/waarderingskamer.nl/urls.txt)|14|Urls|
 |[all_subdomains.txt](/data/waarderingskamer.nl/all_subdomains.txt)|52|All found subdomains (history)|
 
 
@@ -33,5 +33,6 @@
 |[https://waarderingskamer.nl](https://waarderingskamer.nl)| **A**| **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |Nginx|301 Moved Perman...|
 |[https://scim.waarderingskamer.nl](https://scim.waarderingskamer.nl)| **A**| **B**|| | | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |||
 |[https://search.waarderingskamer.nl](https://search.waarderingskamer.nl)| **A+**| **B**|nginx| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS Nginx||
+|[https://acceptatie.waarderingskamer.nl](https://acceptatie.waarderingskamer.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |HSTS Nginx|403 Forbidden|
 |[https://webmail.waarderingskamer.nl](https://webmail.waarderingskamer.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|301 Moved Perman...|
 

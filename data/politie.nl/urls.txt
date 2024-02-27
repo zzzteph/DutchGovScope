@@ -1,6 +1,5 @@
 https://rss.acceptatie.politie.nl
 https://carriere.politie.nl
-https://c2000-ras02.politie.nl
 https://fts.politie.nl
 https://publicaties.politie.nl
 https://kombijde.politie.nl
@@ -21,7 +20,6 @@ https://data.politie.nl
 https://bu.politie.nl
 https://kombijde.acceptatie.politie.nl
 https://mdc-ras-01.politie.nl
-https://c2000-ras01.politie.nl
 https://aangifte.politie.nl
 https://transferium-db.politie.nl
 https://transferium-oh.politie.nl

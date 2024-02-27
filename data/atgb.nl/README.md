@@ -13,7 +13,7 @@
 |------------|-------|------|
 |[subdomains.txt](/data/atgb.nl/subdomains.txt)|7|Alive subdomains|
 |[urls.txt](/data/atgb.nl/urls.txt)|6|Urls|
-|[all_subdomains.txt](/data/atgb.nl/all_subdomains.txt)|13|All found subdomains (history)|
+|[all_subdomains.txt](/data/atgb.nl/all_subdomains.txt)|14|All found subdomains (history)|
 
 
 ## Statistics

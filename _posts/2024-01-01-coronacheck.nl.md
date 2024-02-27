@@ -49,7 +49,7 @@ tags: dutchgov
 |[https://verifier-api-cdn.coronacheck.nl](https://verifier-api-cdn.coronacheck.nl)| **A+**| **A**|nginx| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS Nginx||
 |[https://verifier-api-cdn.acc.coronacheck.nl](https://verifier-api-cdn.acc.coronacheck.nl)| **A+**| **A**|nginx| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS Nginx||
 |[https://verifier-api.acc.coronacheck.nl](https://verifier-api.acc.coronacheck.nl)| **A+**| **A**|nginx| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS Nginx||
-|[https://web.acc.coronacheck.nl](https://web.acc.coronacheck.nl)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |Basic HSTS Nginx|401 Unauthorized|
+|[https://web.acc.coronacheck.nl](https://web.acc.coronacheck.nl)| **A+**| **A**|nginx| |:white_check_mark: | :warning:| |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Basic HSTS Nginx|401 Unauthorized|
 |[https://www.coronacheck.nl](https://www.coronacheck.nl)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|302 Found|
 |[https://coronacheck.nl](https://coronacheck.nl)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|302 Found|
 

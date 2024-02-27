@@ -12,7 +12,7 @@
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/bics.nl/subdomains.txt)|29|Alive subdomains|
-|[urls.txt](/data/bics.nl/urls.txt)|13|Urls|
+|[urls.txt](/data/bics.nl/urls.txt)|14|Urls|
 |[all_subdomains.txt](/data/bics.nl/all_subdomains.txt)|47|All found subdomains (history)|
 
 
@@ -34,4 +34,5 @@
 |[https://bicsweb1.bics.nl](https://bicsweb1.bics.nl)| **F**| **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
 |[https://bicsweb2.bics.nl](https://bicsweb2.bics.nl)| **F**| **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|HTTP Server Test...|
 |[https://bicsaccweb1.bics.nl](https://bicsaccweb1.bics.nl)| **F**| **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
+|[https://bicsweb3.bics.nl](https://bicsweb3.bics.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server Drupal:10 PHP SDL Tridion|Home | BICS-webs...|
 

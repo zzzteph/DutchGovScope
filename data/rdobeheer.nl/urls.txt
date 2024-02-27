@@ -68,3 +68,7 @@ http://taiga.rdobeheer.nl
 http://cmhelpdesk.rdobeheer.nl
 http://acc.rdobeheer.nl
 https://stats.rdobeheer.nl
+http://acc.dusi.rdobeheer.nl
+http://test.dpr.rdobeheer.nl
+http://acc.dpr.rdobeheer.nl
+http://test.dusi.rdobeheer.nl

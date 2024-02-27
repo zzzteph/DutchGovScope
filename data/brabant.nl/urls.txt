@@ -37,11 +37,9 @@ https://nieuws.brabant.nl
 https://onderzoeksbank.brabant.nl
 https://psarchief.brabant.nl
 https://publicaties.brabant.nl
-https://startformulier.brabant.nl
-https://startformuliertest.brabant.nl
 https://vpn.brabant.nl
 https://webmail.brabant.nl
-https://wegen.brabant.nl
+http://wegen.brabant.nl
 https://werkenvoor.brabant.nl
 https://werkplek.brabant.nl
 https://facilitor.brabant.nl

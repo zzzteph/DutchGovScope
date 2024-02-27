@@ -2,6 +2,9 @@ www.wkr.nl
 wkr.nl
 feeds.wkr.nl
 opendata.wkr.nl
+english.wkr.nl
+feeds.english.wkr.nl
+opendata.english.wkr.nl
 a-www.wkr.nl
 a-feeds.wkr.nl
 a-opendata.wkr.nl

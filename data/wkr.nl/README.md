@@ -11,7 +11,7 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/wkr.nl/subdomains.txt)|10|Alive subdomains|
+|[subdomains.txt](/data/wkr.nl/subdomains.txt)|13|Alive subdomains|
 |[urls.txt](/data/wkr.nl/urls.txt)|4|Urls|
 |[all_subdomains.txt](/data/wkr.nl/all_subdomains.txt)|14|All found subdomains (history)|
 

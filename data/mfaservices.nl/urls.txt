@@ -56,5 +56,3 @@ https://dev.cdn.consular.mfaservices.nl
 https://snd.cdn.consular.mfaservices.nl
 https://tst.cdn.consular.mfaservices.nl
 https://url9097.consular.mfaservices.nl
-http://tst.api.brp.mfaservices.nl
-http://dev.api.brp.mfaservices.nl

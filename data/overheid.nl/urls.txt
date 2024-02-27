@@ -319,7 +319,7 @@ https://www.integratie02.omgevingswet.overheid.nl
 https://kwaliteitsdashboard-koop.overheid.nl
 https://pki.overheid.nl
 https://editor-drp.overheid.nl
-https://editor-drp-acc.overheid.nl
+http://editor-drp-acc.overheid.nl
 https://editor-drp-preprd.overheid.nl
 https://iknowcimow.omgevingswet.overheid.nl
 https://iknowcimow.acc.omgevingswet.overheid.nl

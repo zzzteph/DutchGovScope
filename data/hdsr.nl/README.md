@@ -4,7 +4,7 @@
 ## Summary data
 
 
- - **SSL Grade**:A
+ - **SSL Grade**:A+
  - **HTTP Security Grade**:C
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:5
 
@@ -12,7 +12,7 @@
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/hdsr.nl/subdomains.txt)|34|Alive subdomains|
-|[urls.txt](/data/hdsr.nl/urls.txt)|32|Urls|
+|[urls.txt](/data/hdsr.nl/urls.txt)|29|Urls|
 |[all_subdomains.txt](/data/hdsr.nl/all_subdomains.txt)|110|All found subdomains (history)|
 
 
@@ -24,11 +24,9 @@
 |[https://werkplek.hdsr.nl](https://werkplek.hdsr.nl)| **A**| **C**|BigIP|:warning: |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |F5 BigIP||
 |[https://zaaksysteem.hdsr.nl](https://zaaksysteem.hdsr.nl)| **A+**| **A**||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Moved|
 |[https://ftp-hdsr.hdsr.nl](https://ftp-hdsr.hdsr.nl)| **A+**| **A**|xxxx|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Java|User Portal|
-|[https://loket-acc.hdsr.nl](https://loket-acc.hdsr.nl)| **F**| **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
 |[https://webdiensten.hdsr.nl](https://webdiensten.hdsr.nl)| **A**| **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|403 Forbidden|
 |[https://cawfirewall.hdsr.nl](https://cawfirewall.hdsr.nl)| **A+**| **A**|xxxx|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Java|User Portal|
 |[https://testbegrippen.hdsr.nl](https://testbegrippen.hdsr.nl)| **A**| **E**|| | | | | | | | :white_check_mark: | |Basic||
-|[https://loket.hdsr.nl](https://loket.hdsr.nl)| | **C**|Apache| |:white_check_mark: | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
 |[https://uconnect.hdsr.nl](https://uconnect.hdsr.nl)| **A**| **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|403 Forbidden|
 |[https://cawuitwijkfirewall.hdsr.nl](https://cawuitwijkfirewall.hdsr.nl)| | **A**|xxxx|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Java|User Portal|
 |[https://webservices.hdsr.nl](https://webservices.hdsr.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|403 Forbidden|
@@ -46,7 +44,6 @@
 |[http://zoeken.hdsr.nl](http://zoeken.hdsr.nl)| | **F**|-| | | | | | | | :white_check_mark: | |Microsoft ASP.NET:-|Document Moved|
 |[https://uconnect-acc.hdsr.nl](https://uconnect-acc.hdsr.nl)| **A**| **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|403 Forbidden|
 |[https://wsus.hdsr.nl](https://wsus.hdsr.nl)| **A+**| **A**|xxxx|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Java|User Portal|
-|[https://remote-pa.hdsr.nl](https://remote-pa.hdsr.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||
 |[https://geoservices.hdsr.nl](https://geoservices.hdsr.nl)| **A**| **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server Microsoft ASP.NET|IIS Windows Serv...|
 |[https://hdsr.nl](https://hdsr.nl)| **A+**| **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:-|Object moved|
 |[https://kantoor.hdsr.nl](https://kantoor.hdsr.nl)| **A+**| **A**|xxxx|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Java|User Portal|

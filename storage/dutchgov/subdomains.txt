@@ -688,6 +688,7 @@ proxy.socint.belastingdienst.nl
 psproxy-tao1.belastingdienst.nl
 webdiensten-conf1.belastingdienst.nl
 gtmb.str11.acc.belastingdienst.nl
+sadp.acc.belastingdienst.nl
 webservices-test2.belastingdienst.nl
 gtmd.str14.acc.belastingdienst.nl
 moodletst.vcdn.belastingdienst.nl
@@ -3082,10 +3083,6 @@ a-english.iob-evaluatie.nl
 a-feeds.a-english.iob-evaluatie.nl
 a-feeds.iob-evaluatie.nl
 isdbollenstreek.nl
-cloudadapter-prod.isdbollenstreek.nl
-cloudadapter-test.isdbollenstreek.nl
-digikoppeling-test.isdbollenstreek.nl
-digikoppeling.isdbollenstreek.nl
 dkd.isdbollenstreek.nl
 mail.isdbollenstreek.nl
 mijnloket.isdbollenstreek.nl
@@ -21207,6 +21204,9 @@ www.wkr.nl
 wkr.nl
 feeds.wkr.nl
 opendata.wkr.nl
+english.wkr.nl
+feeds.english.wkr.nl
+opendata.english.wkr.nl
 a-www.wkr.nl
 a-feeds.wkr.nl
 a-opendata.wkr.nl
@@ -22239,7 +22239,6 @@ scan.provincie-utrecht.nl
 smtp01.provincie-utrecht.nl
 smtp02.provincie-utrecht.nl
 tercera.provincie-utrecht.nl
-vpn-hth.provincie-utrecht.nl
 vribc-hth.provincie-utrecht.nl
 webkaarttest.provincie-utrecht.nl
 wifi.provincie-utrecht.nl
@@ -35020,6 +35019,8 @@ www.levjenv.nl
 levjenv.nl
 digitalnorthsea.nl
 www.digitalnorthsea.nl
+feeds.digitalnorthsea.nl
+opendata.digitalnorthsea.nl
 aanmelden.brba.nl
 aanmelden.acc.brba.nl
 helpdesk.brba.nl
@@ -37441,7 +37442,6 @@ enterpriseenrollment.bouwplaatsirm.nl
 enterpriseregistration.bouwplaatsirm.nl
 gitlab.bouwplaatsirm.nl
 msoid.bouwplaatsirm.nl
-mail.coordinatiestroomlijn.nl
 mta-sts.coordinatiestroomlijn.nl
 www.coordinatiestroomlijn.nl
 coordinatiestroomlijn.nl
@@ -39812,6 +39812,7 @@ search.waarderingskamer.nl
 acceptatie.api.waarderingskamer.nl
 gatekeeper.waarderingskamer.nl
 lvwozportaal.waarderingskamer.nl
+acceptatie.waarderingskamer.nl
 vpn2.waarderingskamer.nl
 vpn.waarderingskamer.nl
 api.waarderingskamer.nl

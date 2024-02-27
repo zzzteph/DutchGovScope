@@ -25,7 +25,7 @@ https://hld.rijkswaterstaat.nl
 https://iam.rijkswaterstaat.nl
 https://inloggen.rijkswaterstaat.nl
 https://loket.rijkswaterstaat.nl
-http://loket.acceptatie.rijkswaterstaat.nl
+https://loket.acceptatie.rijkswaterstaat.nl
 https://maps.rijkswaterstaat.nl
 https://mars.rijkswaterstaat.nl
 http://meridian.rijkswaterstaat.nl

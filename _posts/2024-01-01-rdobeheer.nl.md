@@ -4,7 +4,7 @@ title: "rdobeheer.nl"
 permalink: "/dutchgov/rdobeheer.nl.html"
 subdomains_count: 76
 all_subdomains_count: 95
-urls_count: 70
+urls_count: 74
 ssl_rank: A+
 http_rank: B
 security_txt: 55
@@ -28,7 +28,7 @@ tags: dutchgov
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/DutchGovScope/data/rdobeheer.nl/subdomains.txt)|76|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/rdobeheer.nl/urls.txt)|70|Urls|
+|[urls.txt](/DutchGovScope/data/rdobeheer.nl/urls.txt)|74|Urls|
 |[all_subdomains.txt](/DutchGovScope/data/rdobeheer.nl/all_subdomains.txt)|95|All found subdomains (history)|
 
 
@@ -107,4 +107,8 @@ tags: dutchgov
 |[http://cmhelpdesk.rdobeheer.nl](http://cmhelpdesk.rdobeheer.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||
 |[http://acc.rdobeheer.nl](http://acc.rdobeheer.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://stats.rdobeheer.nl](https://stats.rdobeheer.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |HSTS Nginx|302 Found|
+|[http://acc.dusi.rdobeheer.nl](http://acc.dusi.rdobeheer.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
+|[http://test.dpr.rdobeheer.nl](http://test.dpr.rdobeheer.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
+|[http://acc.dpr.rdobeheer.nl](http://acc.dpr.rdobeheer.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
+|[http://test.dusi.rdobeheer.nl](http://test.dusi.rdobeheer.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 

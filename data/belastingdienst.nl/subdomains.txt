@@ -345,6 +345,7 @@ proxy.socint.belastingdienst.nl
 psproxy-tao1.belastingdienst.nl
 webdiensten-conf1.belastingdienst.nl
 gtmb.str11.acc.belastingdienst.nl
+sadp.acc.belastingdienst.nl
 webservices-test2.belastingdienst.nl
 gtmd.str14.acc.belastingdienst.nl
 moodletst.vcdn.belastingdienst.nl

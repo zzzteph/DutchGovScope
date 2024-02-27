@@ -1,2 +1,4 @@
 https://digitalnorthsea.nl
 https://www.digitalnorthsea.nl
+https://feeds.digitalnorthsea.nl
+https://opendata.digitalnorthsea.nl

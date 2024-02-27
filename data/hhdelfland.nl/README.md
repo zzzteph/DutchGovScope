@@ -5,14 +5,14 @@
 
 
  - **SSL Grade**:B-
- - **HTTP Security Grade**:C
+ - **HTTP Security Grade**:D
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:6
 
 
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/hhdelfland.nl/subdomains.txt)|66|Alive subdomains|
-|[urls.txt](/data/hhdelfland.nl/urls.txt)|27|Urls|
+|[urls.txt](/data/hhdelfland.nl/urls.txt)|39|Urls|
 |[all_subdomains.txt](/data/hhdelfland.nl/all_subdomains.txt)|225|All found subdomains (history)|
 
 
@@ -45,6 +45,18 @@
 |[https://watertoetsportaal-a.hhdelfland.nl](https://watertoetsportaal-a.hhdelfland.nl)| **B**| **A**|Microsoft-IIS/10.0| |:white_check_mark: | | | :white_check_mark:| | | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server|Document Moved|
 |[https://grondwaterportaal.hhdelfland.nl](https://grondwaterportaal.hhdelfland.nl)| **B**| **A**|Microsoft-IIS/10.0| |:white_check_mark: | | | :white_check_mark:| | | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server|Document Moved|
 |[https://startstopmelding.hhdelfland.nl](https://startstopmelding.hhdelfland.nl)| **B**| **D**|Microsoft-IIS/10.0| | | | | :white_check_mark:| | | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server|403 - Forbidden:...|
+|[https://geoviewerhhd.hhdelfland.nl](https://geoviewerhhd.hhdelfland.nl)| | **F**|Microsoft-IIS/10.0| | | | | | | | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server|Secure Portal Re...|
+|[https://geo.hhdelfland.nl](https://geo.hhdelfland.nl)| | **F**|Microsoft-IIS/10.0| | | | | | | | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server|Secure Portal Re...|
+|[https://geoportaalhhd.hhdelfland.nl](https://geoportaalhhd.hhdelfland.nl)| | **F**|Microsoft-IIS/10.0| | | | | | | | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server|Secure Portal Re...|
+|[https://geoview.hhdelfland.nl](https://geoview.hhdelfland.nl)| | **F**|Microsoft-IIS/10.0| | | | | | | | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server|Secure Portal Re...|
+|[https://geoapps.hhdelfland.nl](https://geoapps.hhdelfland.nl)| | **F**|Microsoft-IIS/10.0| | | | | | | | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server|Linkjes naar Ver...|
+|[https://geoappstest.hhdelfland.nl](https://geoappstest.hhdelfland.nl)| | **F**|Microsoft-IIS/10.0| | | | | | | | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server|Linkjes naar Ver...|
+|[https://geoportaaltest.hhdelfland.nl](https://geoportaaltest.hhdelfland.nl)| | **F**|Microsoft-IIS/10.0| | | | | | | | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server|Secure Portal Re...|
+|[https://geoviewhhd.hhdelfland.nl](https://geoviewhhd.hhdelfland.nl)| | **F**|Microsoft-IIS/10.0| | | | | | | | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server|GeoWeb Server|
+|[https://remote.hhdelfland.nl](https://remote.hhdelfland.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Java|VMware Horizon|
+|[https://remotetest.hhdelfland.nl](https://remotetest.hhdelfland.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Java|VMware Horizon|
+|[https://testopendata.hhdelfland.nl](https://testopendata.hhdelfland.nl)| | **F**|Web| | | | | | | | :white_check_mark: | ||HTTP Status 404...|
+|[https://workspace.hhdelfland.nl](https://workspace.hhdelfland.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://enterpriseenrollment.hhdelfland.nl](https://enterpriseenrollment.hhdelfland.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||
 |[https://passwordreset.hhdelfland.nl](https://passwordreset.hhdelfland.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Microsoft Online...|
 |[https://enterpriseregistration.hhdelfland.nl](https://enterpriseregistration.hhdelfland.nl)| | **E**|| | | | | | | | :white_check_mark: | |||

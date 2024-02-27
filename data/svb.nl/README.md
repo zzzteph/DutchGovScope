@@ -41,7 +41,7 @@
 |[https://mft-acc.svb.nl](https://mft-acc.svb.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Redirect|
 |[https://app-o.svb.nl](https://app-o.svb.nl)| **A**| **A**||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |||
 |[https://rdsapplications10.svb.nl](https://rdsapplications10.svb.nl)| | **F**|Microsoft-IIS/10.0| | | | | | | | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server|IIS Windows Serv...|
-|[https://onderzoek.svb.nl](https://onderzoek.svb.nl)| **A**| **A**|BigIP| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |F5 BigIP||
+|[https://onderzoek.svb.nl](https://onderzoek.svb.nl)| **A**| **A**|BigIP|:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |F5 BigIP||
 |[https://apps.svb.nl](https://apps.svb.nl)| **B**| **E**|| | | | | | | | :white_check_mark: | ||404 Not Found|
 |[https://rdsapplications00.svb.nl](https://rdsapplications00.svb.nl)| | **F**|Microsoft-IIS/10.0| | | | | | | | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server|IIS Windows Serv...|
 |[https://mijnwmo-siam.svb.nl](https://mijnwmo-siam.svb.nl)| **B**| **A**||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|A-Select Filter...|
@@ -58,13 +58,13 @@
 |[https://rdsapplications05.svb.nl](https://rdsapplications05.svb.nl)| **A**| **F**|Microsoft-IIS/10.0| | | | | | | | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server|IIS Windows Serv...|
 |[https://myprint.svb.nl](https://myprint.svb.nl)| **F**| **E**|| | | | | | | | :white_check_mark: | |||
 |[https://desktop.entreepgb.svb.nl](https://desktop.entreepgb.svb.nl)| **A**| **F**|Microsoft-IIS/10.0|:o: | | | | | :white_check_mark: | | :white_check_mark: | |IIS:10.0 Windows Server|Document Moved|
-|[https://events.svb.nl](https://events.svb.nl)| **A+**| **A**||:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Amazon S3 Amazon Web Services HSTS||
+|[https://events.svb.nl](https://events.svb.nl)| **A+**| **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Amazon S3 Amazon Web Services HSTS||
 |[https://app-t.svb.nl](https://app-t.svb.nl)| **A**| **A**||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |||
 |[https://mijnpgb-siam.svb.nl](https://mijnpgb-siam.svb.nl)| **B**| **A**||:warning: |:white_check_mark: | :warning:| | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|302 Found|
 |[http://www.entreepgb.svb.nl](http://www.entreepgb.svb.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://rdsapplications04.svb.nl](https://rdsapplications04.svb.nl)| **A**| **F**|Microsoft-IIS/10.0| | | | | | | | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server|IIS Windows Serv...|
 |[https://rdsapplications02.svb.nl](https://rdsapplications02.svb.nl)| **A**| **F**|Microsoft-IIS/10.0| | | | | | | | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server|IIS Windows Serv...|
-|[https://test-cmsintranet.svb.nl](https://test-cmsintranet.svb.nl)| **A+**| **A**|Microsoft-IIS/8.5| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS IIS:8.5 Windows Server|403 - Forbidden:...|
+|[https://test-cmsintranet.svb.nl](https://test-cmsintranet.svb.nl)| **A+**| **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|403 - Forbidden:...|
 |[https://rdsapplications01.svb.nl](https://rdsapplications01.svb.nl)| **A**| **F**|Microsoft-IIS/10.0| | | | | | | | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server|IIS Windows Serv...|
 |[https://downloaddomain.svb.nl](https://downloaddomain.svb.nl)| **A**| **B**|BigIP|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |F5 BigIP||
 |[https://internetdienstensiam.svb.nl](https://internetdienstensiam.svb.nl)| **B**| **A**||:warning: |:white_check_mark: | :warning:| | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|SVB foutmelding|
