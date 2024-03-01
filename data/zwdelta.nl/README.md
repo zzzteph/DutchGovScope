@@ -13,7 +13,7 @@
 |------------|-------|------|
 |[subdomains.txt](/data/zwdelta.nl/subdomains.txt)|7|Alive subdomains|
 |[urls.txt](/data/zwdelta.nl/urls.txt)|5|Urls|
-|[all_subdomains.txt](/data/zwdelta.nl/all_subdomains.txt)|8|All found subdomains (history)|
+|[all_subdomains.txt](/data/zwdelta.nl/all_subdomains.txt)|9|All found subdomains (history)|
 
 
 ## Statistics

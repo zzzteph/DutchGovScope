@@ -40,5 +40,5 @@
 |[https://rijksoverheid.minienm.nl](https://rijksoverheid.minienm.nl)| **F**| **F**|Apache/2| | | | | | | | :white_check_mark: | |Apache HTTP Server:2|403 Forbidden|
 |[https://web.minienm.nl](https://web.minienm.nl)| | **F**|Apache/2| | | | | | | | :white_check_mark: | |Apache HTTP Server:2|403 Forbidden|
 |[https://dcc.minienm.nl](https://dcc.minienm.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
-|[http://localhost.minienm.nl](http://localhost.minienm.nl)| | **D**|nginx| | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Nginx|Welcome to nginx...|
+|[http://localhost.minienm.nl](http://localhost.minienm.nl)| | **F**|nginx|:o: | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Laravel Nginx PHP|Weakpass|
 

@@ -3117,7 +3117,6 @@ a-feeds.jaarverantwoordingzorg.nl
 a-opendata.jaarverantwoordingzorg.nl
 www.jaarverslagenzorg.nl
 jaarverslagenzorg.nl
-ftp.jaarverslagenzorg.nl
 www.jaofnee.nl
 jaofnee.nl
 www.jensen.nl
@@ -18836,10 +18835,6 @@ o-www.programmamenscentraal.nl
 t-www.programmamenscentraal.nl
 a-opendata.programmamenscentraal.nl
 mail.programmasociaaldomein.nl
-a-opendata.programmasociaaldomein.nl
-a-www.programmasociaaldomein.nl
-a-feeds.programmasociaaldomein.nl
-autodiscover.programmasociaaldomein.nl
 opendata.prosecutionservice.nl
 criminalfilesmh17.prosecutionservice.nl
 criminalfilesmh17.acc.prosecutionservice.nl

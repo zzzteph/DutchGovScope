@@ -13,7 +13,7 @@
 |------------|-------|------|
 |[subdomains.txt](/data/bodemrichtlijn.nl/subdomains.txt)|1084|Alive subdomains|
 |[urls.txt](/data/bodemrichtlijn.nl/urls.txt)|1084|Urls|
-|[all_subdomains.txt](/data/bodemrichtlijn.nl/all_subdomains.txt)|1085|All found subdomains (history)|
+|[all_subdomains.txt](/data/bodemrichtlijn.nl/all_subdomains.txt)|1113|All found subdomains (history)|
 
 
 ## Statistics

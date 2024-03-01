@@ -13,7 +13,7 @@
 |------------|-------|------|
 |[subdomains.txt](/data/biedboek.nl/subdomains.txt)|148|Alive subdomains|
 |[urls.txt](/data/biedboek.nl/urls.txt)|148|Urls|
-|[all_subdomains.txt](/data/biedboek.nl/all_subdomains.txt)|148|All found subdomains (history)|
+|[all_subdomains.txt](/data/biedboek.nl/all_subdomains.txt)|430|All found subdomains (history)|
 
 
 ## Statistics

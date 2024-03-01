@@ -13,7 +13,7 @@
 |------------|-------|------|
 |[subdomains.txt](/data/nvwa.nl/subdomains.txt)|55|Alive subdomains|
 |[urls.txt](/data/nvwa.nl/urls.txt)|38|Urls|
-|[all_subdomains.txt](/data/nvwa.nl/all_subdomains.txt)|73|All found subdomains (history)|
+|[all_subdomains.txt](/data/nvwa.nl/all_subdomains.txt)|74|All found subdomains (history)|
 
 
 ## Statistics

@@ -11,7 +11,7 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/programmasociaaldomein.nl/subdomains.txt)|5|Alive subdomains|
+|[subdomains.txt](/data/programmasociaaldomein.nl/subdomains.txt)|1|Alive subdomains|
 |[urls.txt](/data/programmasociaaldomein.nl/urls.txt)|0|Urls|
 |[all_subdomains.txt](/data/programmasociaaldomein.nl/all_subdomains.txt)|16|All found subdomains (history)|
 

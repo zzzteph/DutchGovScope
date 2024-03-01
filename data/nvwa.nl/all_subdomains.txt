@@ -71,3 +71,4 @@ a-magazines.nvwa.nl
 a-magazinesintern.nvwa.nl
 a-opendata.a-english.nvwa.nl
 service.nvwa.nl
+labvantage.nvwa.nl

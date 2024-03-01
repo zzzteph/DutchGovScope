@@ -6,14 +6,14 @@
 
  - **SSL Grade**:B+
  - **HTTP Security Grade**:E
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:13
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:14
 
 
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/knaw.nl/subdomains.txt)|1373|Alive subdomains|
-|[urls.txt](/data/knaw.nl/urls.txt)|256|Urls|
-|[all_subdomains.txt](/data/knaw.nl/all_subdomains.txt)|1829|All found subdomains (history)|
+|[urls.txt](/data/knaw.nl/urls.txt)|270|Urls|
+|[all_subdomains.txt](/data/knaw.nl/all_subdomains.txt)|1834|All found subdomains (history)|
 
 
 ## Statistics
@@ -271,10 +271,24 @@
 |[https://wp-15.dev.huc.knaw.nl](https://wp-15.dev.huc.knaw.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |HSTS Nginx|404 Not Found|
 |[https://wp-12.dev.huc.knaw.nl](https://wp-12.dev.huc.knaw.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |HSTS Nginx|404 Not Found|
 |[https://mfa.nioo.knaw.nl](https://mfa.nioo.knaw.nl)| | **D**|Apache| |:white_check_mark: | :warning:| | | | | :white_check_mark: | |Apache HTTP Server|301 Moved Perman...|
+|[https://support.huc.knaw.nl](https://support.huc.knaw.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|403 Forbidden|
+|[https://bedevaart.meertens.knaw.nl](https://bedevaart.meertens.knaw.nl)| | **D**|nginx|:warning: |:white_check_mark: | | | | | | :white_check_mark: | |CodeIgniter HSTS Nginx PHP:8.1.23|Bedevaarten in N...|
+|[https://lennep.resources.huygens.knaw.nl](https://lennep.resources.huygens.knaw.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |MySQL Nginx PHP:8.0.30 WordPress:6.4.3|De voetreis van...|
+|[https://staging.huc.knaw.nl](https://staging.huc.knaw.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |MySQL Nginx PHP:7.4.33 WordPress:6.4.3 Yoast SEO:22.1 wpBakery|Home - KNAW Huma...|
+|[https://adagia.resources.huygens.knaw.nl](https://adagia.resources.huygens.knaw.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx Plesk|Adagia|
+|[https://mimore.meertens.knaw.nl](https://mimore.meertens.knaw.nl)| | **E**|nginx|:o: |:white_check_mark: | | | | | | :white_check_mark: | |Google Tag Manager HSTS Nginx PHP:8.1.23|MIMORE|
+|[https://proservice.sd.di.huc.knaw.nl](https://proservice.sd.di.huc.knaw.nl)| | **D**|nginx| |:white_check_mark: | :warning:| | | | | :white_check_mark: | |HSTS Nginx||
+|[https://wp-04.dev.huc.knaw.nl](https://wp-04.dev.huc.knaw.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |HSTS Nginx|404 Not Found|
+|[https://wp-13.dev.huc.knaw.nl](https://wp-13.dev.huc.knaw.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |HSTS Nginx|404 Not Found|
+|[https://digitallibrary.knaw.nl](https://digitallibrary.knaw.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|301 Moved Perman...|
+|[https://elaborate.knaw.nl](https://elaborate.knaw.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|301 Moved Perman...|
 |[http://googleapps.knaw.nl](http://googleapps.knaw.nl)| | **D**|ghs|:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | ||302 Moved|
+|[https://hug.knaw.nl](https://hug.knaw.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx||
+|[https://huh.knaw.nl](https://huh.knaw.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx||
 |[https://hulpopafstand.knaw.nl](https://hulpopafstand.knaw.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |HSTS Matomo Analytics Nginx|Sign in - Matomo|
 |[https://remotesupport.knaw.nl](https://remotesupport.knaw.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |HSTS Matomo Analytics Nginx|Sign in - Matomo|
 |[https://portus.knaw.nl](https://portus.knaw.nl)| | **A**|Apache|:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS|- Portus|
+|[https://repository.knaw.nl](https://repository.knaw.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Ivanti(R) Cloud...|
 |[https://wp-16.dev.huc.knaw.nl](https://wp-16.dev.huc.knaw.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |HSTS Nginx|404 Not Found|
 |[https://ss31.dans.knaw.nl](https://ss31.dans.knaw.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|Index of /|
 

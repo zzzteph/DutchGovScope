@@ -36,16 +36,16 @@ This structured approach ensures that our repository is always up-to-date and ac
  - **CORS:** :white_check_mark: if *CORS* header is set without issues (+10)
 ## Summary
  - Number of domains: **1230**
- - Number of subdomains: **42025**
- - Number of urls: **18366**
+ - Number of subdomains: **42020**
+ - Number of urls: **18380**
  -  Average HTTP Security headers rank: **C**
  - Average SSL grade: **A-**
- - Number of [security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/): **6673**
+ - Number of [security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/): **6675**
 ### Repository Structure
  - [domains.txt](https://raw.githubusercontent.com/zzzteph/DutchGovScope/main/storage/dutchgov/domains.txt): List of **1230** domains in scope
- - [subdomains.txt](https://raw.githubusercontent.com/zzzteph/DutchGovScope/main/storage/dutchgov/subdomains.txt): Detailed list of **42025** alive subdomains.
- - [urls.txt](https://raw.githubusercontent.com/zzzteph/DutchGovScope/main/storage/dutchgov/urls.txt): Compilation of **18366** URLs.
- - [all_subdomains.txt](https://raw.githubusercontent.com/zzzteph/DutchGovScope/main/storage/dutchgov/all_subdomains.txt): All **56409** subdomains that were found all over the time 
+ - [subdomains.txt](https://raw.githubusercontent.com/zzzteph/DutchGovScope/main/storage/dutchgov/subdomains.txt): Detailed list of **42020** alive subdomains.
+ - [urls.txt](https://raw.githubusercontent.com/zzzteph/DutchGovScope/main/storage/dutchgov/urls.txt): Compilation of **18380** URLs.
+ - [all_subdomains.txt](https://raw.githubusercontent.com/zzzteph/DutchGovScope/main/storage/dutchgov/all_subdomains.txt): All **61954** subdomains that were found all over the time 
 ## Links and acknowledgements
  - [bug-bounty-dutch-goverment-scope.md](https://gist.github.com/zzzteph/99a7bd2acde12cb4b2626fc9261bc56d)
  - [basisbeveiliging.nl](https://basisbeveiliging.nl/)
