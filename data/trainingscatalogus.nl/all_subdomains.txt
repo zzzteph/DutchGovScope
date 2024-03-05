@@ -129,3 +129,10 @@ ldap.test.trainingscatalogus.nl
 oauth.test.trainingscatalogus.nl
 services.test.trainingscatalogus.nl
 enterpriseregistration.test.trainingscatalogus.nl
+autodiscover.test.trainingscatalogus.nl
+www1.test.trainingscatalogus.nl
+autoconfig.test.trainingscatalogus.nl
+jira.test.trainingscatalogus.nl
+chat.test.trainingscatalogus.nl
+inproces.test.trainingscatalogus.nl
+sip.test.trainingscatalogus.nl

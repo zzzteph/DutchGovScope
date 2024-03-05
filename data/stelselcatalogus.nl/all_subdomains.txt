@@ -24,3 +24,6 @@ acc.data.stelselcatalogus.nl
 acc.www.stelselcatalogus.nl
 data.stelselcatalogus.nl
 preprod.www.stelselcatalogus.nl
+begrippen.stelselcatalogus.nl
+acc.begrippen.stelselcatalogus.nl
+preprod.begrippen.stelselcatalogus.nl

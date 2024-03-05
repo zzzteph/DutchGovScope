@@ -1,0 +1,12 @@
+digitalenoordzee.nl
+feeds.digitalenoordzee.nl
+opendata.digitalenoordzee.nl
+www.digitalenoordzee.nl
+events.digitalenoordzee.nl
+www.events.digitalenoordzee.nl
+api.digitalenoordzee.nl
+metrics.digitalenoordzee.nl
+spx-oec.digitalenoordzee.nl
+spx.oec.digitalenoordzee.nl
+www.spx-oec.digitalenoordzee.nl
+www.spx.oec.digitalenoordzee.nl

@@ -20,3 +20,5 @@ mailserver1.ahn.nl
 beachvolley.ahn.nl
 alstom.ahn.nl
 sh.wagbridge.ahn.nl
+reggae.ahn.nl
+312diningdiva.ahn.nl

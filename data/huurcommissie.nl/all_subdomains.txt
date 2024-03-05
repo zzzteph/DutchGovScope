@@ -56,3 +56,10 @@ msoid.huurcommissie.nl
 sftp.huurcommissie.nl
 www-p.huurcommissie.nl
 vpn.huurcommissie.nl
+scansys.huurcommissie.nl
+www.scansys.huurcommissie.nl
+www.synergy.huurcommissie.nl
+shopper.huurcommissie.nl
+www.shopper.huurcommissie.nl
+sumatra.huurcommissie.nl
+www.sumatra.huurcommissie.nl

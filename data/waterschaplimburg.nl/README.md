@@ -13,7 +13,7 @@
 |------------|-------|------|
 |[subdomains.txt](/data/waterschaplimburg.nl/subdomains.txt)|269|Alive subdomains|
 |[urls.txt](/data/waterschaplimburg.nl/urls.txt)|263|Urls|
-|[all_subdomains.txt](/data/waterschaplimburg.nl/all_subdomains.txt)|272|All found subdomains (history)|
+|[all_subdomains.txt](/data/waterschaplimburg.nl/all_subdomains.txt)|381|All found subdomains (history)|
 
 
 ## Statistics

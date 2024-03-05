@@ -5,3 +5,4 @@ veiligepubliekedienstverlening.nl
 a-www.veiligepubliekedienstverlening.nl
 a-feeds.veiligepubliekedienstverlening.nl
 a-opendata.veiligepubliekedienstverlening.nl
+toolbox.veiligepubliekedienstverlening.nl

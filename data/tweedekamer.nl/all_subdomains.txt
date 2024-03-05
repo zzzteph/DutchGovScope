@@ -260,3 +260,5 @@ sesam-acc.tweedekamer.nl
 web.beta.tweedekamer.nl
 cpanel.beta.tweedekamer.nl
 apm-acc.tweedekamer.nl
+apps.beta.tweedekamer.nl
+cdn.beta.tweedekamer.nl

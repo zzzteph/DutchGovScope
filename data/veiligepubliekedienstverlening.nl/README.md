@@ -13,7 +13,7 @@
 |------------|-------|------|
 |[subdomains.txt](/data/veiligepubliekedienstverlening.nl/subdomains.txt)|7|Alive subdomains|
 |[urls.txt](/data/veiligepubliekedienstverlening.nl/urls.txt)|4|Urls|
-|[all_subdomains.txt](/data/veiligepubliekedienstverlening.nl/all_subdomains.txt)|7|All found subdomains (history)|
+|[all_subdomains.txt](/data/veiligepubliekedienstverlening.nl/all_subdomains.txt)|8|All found subdomains (history)|
 
 
 ## Statistics

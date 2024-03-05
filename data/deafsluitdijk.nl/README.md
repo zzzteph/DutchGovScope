@@ -13,7 +13,7 @@
 |------------|-------|------|
 |[subdomains.txt](/data/deafsluitdijk.nl/subdomains.txt)|25|Alive subdomains|
 |[urls.txt](/data/deafsluitdijk.nl/urls.txt)|21|Urls|
-|[all_subdomains.txt](/data/deafsluitdijk.nl/all_subdomains.txt)|31|All found subdomains (history)|
+|[all_subdomains.txt](/data/deafsluitdijk.nl/all_subdomains.txt)|63|All found subdomains (history)|
 
 
 ## Statistics

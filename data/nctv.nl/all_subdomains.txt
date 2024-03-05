@@ -51,3 +51,4 @@ toegankelijkheidsonderzoek-kennisbankterrorisme.nctv.nl
 toegankelijkheidsonderzoek-english.nctv.nl
 test.nctv.nl
 a-opendata.a-english.nctv.nl
+elearning-zvjz-uk.nctv.nl

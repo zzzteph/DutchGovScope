@@ -3,7 +3,7 @@ layout: default
 title: "stelselcatalogus.nl"
 permalink: "/dutchgov/stelselcatalogus.nl.html"
 subdomains_count: 18
-all_subdomains_count: 26
+all_subdomains_count: 29
 urls_count: 9
 ssl_rank: A+
 http_rank: B
@@ -29,7 +29,7 @@ tags: dutchgov
 |------------|-------|------|
 |[subdomains.txt](/DutchGovScope/data/stelselcatalogus.nl/subdomains.txt)|18|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/stelselcatalogus.nl/urls.txt)|9|Urls|
-|[all_subdomains.txt](/DutchGovScope/data/stelselcatalogus.nl/all_subdomains.txt)|26|All found subdomains (history)|
+|[all_subdomains.txt](/DutchGovScope/data/stelselcatalogus.nl/all_subdomains.txt)|29|All found subdomains (history)|
 
 
 ## Statistics

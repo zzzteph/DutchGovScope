@@ -3,7 +3,7 @@ layout: default
 title: "huurcommissie.nl"
 permalink: "/dutchgov/huurcommissie.nl.html"
 subdomains_count: 42
-all_subdomains_count: 58
+all_subdomains_count: 65
 urls_count: 16
 ssl_rank: A+
 http_rank: C
@@ -29,7 +29,7 @@ tags: dutchgov
 |------------|-------|------|
 |[subdomains.txt](/DutchGovScope/data/huurcommissie.nl/subdomains.txt)|42|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/huurcommissie.nl/urls.txt)|16|Urls|
-|[all_subdomains.txt](/DutchGovScope/data/huurcommissie.nl/all_subdomains.txt)|58|All found subdomains (history)|
+|[all_subdomains.txt](/DutchGovScope/data/huurcommissie.nl/all_subdomains.txt)|65|All found subdomains (history)|
 
 
 ## Statistics
