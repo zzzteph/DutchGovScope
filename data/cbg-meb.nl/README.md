@@ -11,7 +11,7 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/cbg-meb.nl/subdomains.txt)|34|Alive subdomains|
+|[subdomains.txt](/data/cbg-meb.nl/subdomains.txt)|36|Alive subdomains|
 |[urls.txt](/data/cbg-meb.nl/urls.txt)|17|Urls|
 |[all_subdomains.txt](/data/cbg-meb.nl/all_subdomains.txt)|63|All found subdomains (history)|
 

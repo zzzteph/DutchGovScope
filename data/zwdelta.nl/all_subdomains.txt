@@ -7,3 +7,4 @@ mail2.zwdelta.nl
 bnc3.zwdelta.nl
 mail.zwdelta.nl
 acc.platform.zwdelta.nl
+stg.platform.zwdelta.nl

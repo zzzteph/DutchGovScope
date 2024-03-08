@@ -13,7 +13,7 @@
 |------------|-------|------|
 |[subdomains.txt](/data/hansken.org/subdomains.txt)|9|Alive subdomains|
 |[urls.txt](/data/hansken.org/urls.txt)|9|Urls|
-|[all_subdomains.txt](/data/hansken.org/all_subdomains.txt)|12|All found subdomains (history)|
+|[all_subdomains.txt](/data/hansken.org/all_subdomains.txt)|15|All found subdomains (history)|
 
 
 ## Statistics

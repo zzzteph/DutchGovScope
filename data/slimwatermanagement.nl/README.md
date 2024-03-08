@@ -13,7 +13,7 @@
 |------------|-------|------|
 |[subdomains.txt](/data/slimwatermanagement.nl/subdomains.txt)|2|Alive subdomains|
 |[urls.txt](/data/slimwatermanagement.nl/urls.txt)|2|Urls|
-|[all_subdomains.txt](/data/slimwatermanagement.nl/all_subdomains.txt)|2|All found subdomains (history)|
+|[all_subdomains.txt](/data/slimwatermanagement.nl/all_subdomains.txt)|3|All found subdomains (history)|
 
 
 ## Statistics

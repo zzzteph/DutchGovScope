@@ -10,3 +10,6 @@ docs.hansken.org
 helm.hansken.org
 container.hansken.org
 hackathon.hansken.org
+downloads.hansken.org
+academic-registry.hansken.org
+lea-registry.hansken.org

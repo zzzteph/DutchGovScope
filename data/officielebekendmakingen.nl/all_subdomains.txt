@@ -65,3 +65,4 @@ bestanden.officielebekendmakingen.nl
 localhost.officielebekendmakingen.nl
 servicedesk.officielebekendmakingen.nl
 www.beheer-sgd-acc.officielebekendmakingen.nl
+www.zoek-acc.officielebekendmakingen.nl

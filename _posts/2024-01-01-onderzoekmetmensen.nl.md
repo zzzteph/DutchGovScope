@@ -3,7 +3,7 @@ layout: default
 title: "onderzoekmetmensen.nl"
 permalink: "/dutchgov/onderzoekmetmensen.nl.html"
 subdomains_count: 6
-all_subdomains_count: 6
+all_subdomains_count: 7
 urls_count: 6
 ssl_rank: A+
 http_rank: D
@@ -29,7 +29,7 @@ tags: dutchgov
 |------------|-------|------|
 |[subdomains.txt](/DutchGovScope/data/onderzoekmetmensen.nl/subdomains.txt)|6|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/onderzoekmetmensen.nl/urls.txt)|6|Urls|
-|[all_subdomains.txt](/DutchGovScope/data/onderzoekmetmensen.nl/all_subdomains.txt)|6|All found subdomains (history)|
+|[all_subdomains.txt](/DutchGovScope/data/onderzoekmetmensen.nl/all_subdomains.txt)|7|All found subdomains (history)|
 
 
 ## Statistics

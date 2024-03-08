@@ -11,7 +11,7 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/feedfoodtransfer.nl/subdomains.txt)|18|Alive subdomains|
+|[subdomains.txt](/data/feedfoodtransfer.nl/subdomains.txt)|19|Alive subdomains|
 |[urls.txt](/data/feedfoodtransfer.nl/urls.txt)|18|Urls|
 |[all_subdomains.txt](/data/feedfoodtransfer.nl/all_subdomains.txt)|22|All found subdomains (history)|
 

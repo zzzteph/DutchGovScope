@@ -111,3 +111,11 @@ smtp.test.trainingscatalogus.nl
 course-api.schiphol-lms-a.trainingscatalogus.nl
 scim-api.schiphol-lms-a.trainingscatalogus.nl
 enrollment-api.schiphol-lms-a.trainingscatalogus.nl
+dashboard.test.trainingscatalogus.nl
+support.test.trainingscatalogus.nl
+digikoppeling.test.trainingscatalogus.nl
+payments.test.trainingscatalogus.nl
+ldap.test.trainingscatalogus.nl
+oauth.test.trainingscatalogus.nl
+services.test.trainingscatalogus.nl
+enterpriseregistration.test.trainingscatalogus.nl

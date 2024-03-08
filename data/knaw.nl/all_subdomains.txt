@@ -1832,3 +1832,5 @@ monitoring.huc.knaw.nl
 dataverse-mapper.labs.dans.knaw.nl
 vangogh-letters.dev.huc.knaw.nl
 keur.knaw.nl
+enterpriseenrollment.knaw.nl
+enterpriseregistration.knaw.nl
