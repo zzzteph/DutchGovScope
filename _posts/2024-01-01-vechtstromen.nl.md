@@ -2,8 +2,8 @@
 layout: default
 title: "vechtstromen.nl"
 permalink: "/dutchgov/vechtstromen.nl.html"
-subdomains_count: 50
-all_subdomains_count: 99
+subdomains_count: 51
+all_subdomains_count: 100
 urls_count: 36
 ssl_rank: A-
 http_rank: C
@@ -27,9 +27,9 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/vechtstromen.nl/subdomains.txt)|50|Alive subdomains|
+|[subdomains.txt](/DutchGovScope/data/vechtstromen.nl/subdomains.txt)|51|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/vechtstromen.nl/urls.txt)|36|Urls|
-|[all_subdomains.txt](/DutchGovScope/data/vechtstromen.nl/all_subdomains.txt)|99|All found subdomains (history)|
+|[all_subdomains.txt](/DutchGovScope/data/vechtstromen.nl/all_subdomains.txt)|100|All found subdomains (history)|
 
 
 ## Statistics

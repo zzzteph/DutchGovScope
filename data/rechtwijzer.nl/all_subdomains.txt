@@ -53,3 +53,12 @@ webmail.test.rechtwijzer.nl
 ssl.test.rechtwijzer.nl
 ldap.test.rechtwijzer.nl
 pop.test.rechtwijzer.nl
+servicedesk.test.rechtwijzer.nl
+email.test.rechtwijzer.nl
+support.test.rechtwijzer.nl
+magento.test.rechtwijzer.nl
+fr.test.rechtwijzer.nl
+connect.test.rechtwijzer.nl
+meet.test.rechtwijzer.nl
+service.test.rechtwijzer.nl
+intranet.test.rechtwijzer.nl

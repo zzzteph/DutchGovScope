@@ -2,3 +2,4 @@ https://acceptatie.kikstarter.nl
 https://www.kikstarter.nl
 https://sso.test.kikstarter.nl
 https://test.kikstarter.nl
+http://nuts.kikstarter.nl

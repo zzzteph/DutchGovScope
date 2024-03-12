@@ -5,14 +5,14 @@
 
 
  - **SSL Grade**:A+
- - **HTTP Security Grade**:C
+ - **HTTP Security Grade**:B
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:4
 
 
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/rijksacademie.nl/subdomains.txt)|18|Alive subdomains|
-|[urls.txt](/data/rijksacademie.nl/urls.txt)|9|Urls|
+|[urls.txt](/data/rijksacademie.nl/urls.txt)|8|Urls|
 |[all_subdomains.txt](/data/rijksacademie.nl/all_subdomains.txt)|21|All found subdomains (history)|
 
 
@@ -28,6 +28,5 @@
 |[https://opendata.rijksacademie.nl](https://opendata.rijksacademie.nl)| **A+**| **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://www.rijksacademie.nl](https://www.rijksacademie.nl)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Home | Rijksacad...|
 |[https://rijksacademie.nl](https://rijksacademie.nl)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
-|[https://infoscherm.rijksacademie.nl](https://infoscherm.rijksacademie.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|Web Server's Def...|
 |[http://autodiscover.rijksacademie.nl](http://autodiscover.rijksacademie.nl)| | **B**|Microsoft-IIS/10.0|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server||
 

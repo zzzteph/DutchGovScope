@@ -81,6 +81,7 @@ testjeplite.minvenj.nl
 webmail-acpt.ssc-i.connect.minvenj.nl
 webmail.ssc-i.connect.minvenj.nl
 webmail.dji.connect.minvenj.nl
+pi-vught-dji-intranet.minvenj.nl
 dji-acpt.connect.minvenj.nl
 ssc-i-acpt.connect.minvenj.nl
 webmail.dtv.connect.minvenj.nl

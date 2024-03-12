@@ -1,6 +1,5 @@
 acc.inspectieresultaten.nvwa.nl
 acc2.inspectieresultaten.nvwa.nl
-demo-nvwa.nvwa.nl
 e-certnl.nvwa.nl
 e-certnl-acc.nvwa.nl
 english.nvwa.nl

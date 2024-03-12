@@ -6,7 +6,7 @@ subdomains_count: 3
 all_subdomains_count: 3
 urls_count: 3
 ssl_rank: A+
-http_rank: D
+http_rank: E
 security_txt: 0
 url_link: /data/actiemonitoringce.nl/urls.txt
 all_subdomains_link: /data/actiemonitoringce.nl/all_subdomains.txt
@@ -21,7 +21,7 @@ tags: dutchgov
 
 
  - **SSL Grade**:A+
- - **HTTP Security Grade**:D
+ - **HTTP Security Grade**:E
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:0
 
 
@@ -39,5 +39,5 @@ tags: dutchgov
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[https://www.actiemonitoringce.nl](https://www.actiemonitoringce.nl)| **A+**| **D**|Microsoft-IIS/8.5|:warning: |:white_check_mark: | | | | | | :white_check_mark: | |Bootstrap HSTS IIS:8.5 Microsoft ASP.NET:4.0.30319 Windows Server|RisicotoolboxBod...|
 |[https://actiemonitoringce.nl](https://actiemonitoringce.nl)| **A+**| **D**|Microsoft-IIS/8.5|:warning: |:white_check_mark: | | | | | | :white_check_mark: | |Bootstrap HSTS IIS:8.5 Microsoft ASP.NET Windows Server|RisicotoolboxBod...|
-|[http://localhost.actiemonitoringce.nl](http://localhost.actiemonitoringce.nl)| | **D**|nginx| | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Nginx|Welcome to nginx...|
+|[http://localhost.actiemonitoringce.nl](http://localhost.actiemonitoringce.nl)| | **F**|nginx|:o: | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Laravel Nginx PHP|Weakpass|
 

@@ -4,9 +4,9 @@ title: "eherkenning.nl"
 permalink: "/dutchgov/eherkenning.nl.html"
 subdomains_count: 35
 all_subdomains_count: 78
-urls_count: 25
+urls_count: 24
 ssl_rank: A+
-http_rank: C
+http_rank: B
 security_txt: 4
 url_link: /data/eherkenning.nl/urls.txt
 all_subdomains_link: /data/eherkenning.nl/all_subdomains.txt
@@ -21,14 +21,14 @@ tags: dutchgov
 
 
  - **SSL Grade**:A+
- - **HTTP Security Grade**:C
+ - **HTTP Security Grade**:B
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:4
 
 
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/DutchGovScope/data/eherkenning.nl/subdomains.txt)|35|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/eherkenning.nl/urls.txt)|25|Urls|
+|[urls.txt](/DutchGovScope/data/eherkenning.nl/urls.txt)|24|Urls|
 |[all_subdomains.txt](/DutchGovScope/data/eherkenning.nl/all_subdomains.txt)|78|All found subdomains (history)|
 
 
@@ -38,7 +38,6 @@ tags: dutchgov
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[https://acc-dictu.eherkenning.nl](https://acc-dictu.eherkenning.nl)| **A**| **F**|nginx| | | | | | | | :white_check_mark: | |Basic Nginx|401 Authorizatio...|
-|[https://creaim-etoegang.sso.eherkenning.nl](https://creaim-etoegang.sso.eherkenning.nl)| **F**| **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|KPN IDentity Ser...|
 |[https://digidentity-accept.sso.eherkenning.nl](https://digidentity-accept.sso.eherkenning.nl)| **A+**| **E**|| | | | | | | | :white_check_mark: | |HSTS||
 |[https://digidentity-preproduction.sso.eherkenning.nl](https://digidentity-preproduction.sso.eherkenning.nl)| **A+**| **E**|| | | | | | | | :white_check_mark: | |HSTS||
 |[https://digidentity-staging.sso.eherkenning.nl](https://digidentity-staging.sso.eherkenning.nl)| **A+**| **E**|| | | | | | | | :white_check_mark: | |HSTS||
@@ -60,6 +59,6 @@ tags: dutchgov
 |[https://test-dictu.eherkenning.nl](https://test-dictu.eherkenning.nl)| **A**| **F**|nginx| | | | | | | | :white_check_mark: | |Basic Nginx|401 Authorizatio...|
 |[https://wiki.eherkenning.nl](https://wiki.eherkenning.nl)| **A+**| **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Atlassian Confluence HSTS Java||
 |[https://www.eherkenning.nl](https://www.eherkenning.nl)| **A+**| **A**|nginx| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Drupal HSTS Nginx PHP|Redirecting to h...|
-|[https://eherkenning.nl](https://eherkenning.nl)| **A+**| **A**|nginx| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Nginx|301 Moved Perman...|
+|[https://eherkenning.nl](https://eherkenning.nl)| **A+**| **A**|nginx| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
 |[https://acceptatie.eherkenning.nl](https://acceptatie.eherkenning.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx||
 

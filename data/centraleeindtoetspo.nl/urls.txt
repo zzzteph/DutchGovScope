@@ -1,7 +1,4 @@
-https://feeds.centraleeindtoetspo.nl
 https://inschrijvingcet-a.centraleeindtoetspo.nl
 https://inschrijvingdcet-a.centraleeindtoetspo.nl
-https://opendata.centraleeindtoetspo.nl
-https://rcet-a.centraleeindtoetspo.nl
 https://www.centraleeindtoetspo.nl
 https://centraleeindtoetspo.nl

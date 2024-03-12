@@ -11,9 +11,9 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/aeriusproducten.nl/subdomains.txt)|0|Alive subdomains|
+|[subdomains.txt](/data/aeriusproducten.nl/subdomains.txt)|3|Alive subdomains|
 |[urls.txt](/data/aeriusproducten.nl/urls.txt)|0|Urls|
-|[all_subdomains.txt](/data/aeriusproducten.nl/all_subdomains.txt)|4|All found subdomains (history)|
+|[all_subdomains.txt](/data/aeriusproducten.nl/all_subdomains.txt)|10|All found subdomains (history)|
 
 
 ## Statistics

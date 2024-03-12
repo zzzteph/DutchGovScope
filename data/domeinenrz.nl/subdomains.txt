@@ -13,14 +13,10 @@ vuurwerk.domeinenrz.nl
 www.domeinenrz.nl
 domeinenrz.nl
 bdx.domeinenrz.nl
-bp2-acc.domeinenrz.nl
 dfp.domeinenrz.nl
-telewerken.domeinenrz.nl
 login.domeinenrz.nl
 services1.domeinenrz.nl
 ras2.domeinenrz.nl
-mail2.domeinenrz.nl
-telewerken2.domeinenrz.nl
 vpn3.domeinenrz.nl
 a-english.domeinenrz.nl
 a-feeds.a-english.domeinenrz.nl

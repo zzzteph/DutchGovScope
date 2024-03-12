@@ -11,7 +11,7 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/nctv.nl/subdomains.txt)|34|Alive subdomains|
+|[subdomains.txt](/data/nctv.nl/subdomains.txt)|35|Alive subdomains|
 |[urls.txt](/data/nctv.nl/urls.txt)|23|Urls|
 |[all_subdomains.txt](/data/nctv.nl/all_subdomains.txt)|54|All found subdomains (history)|
 

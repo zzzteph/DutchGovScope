@@ -6,13 +6,13 @@
 
  - **SSL Grade**:B+
  - **HTTP Security Grade**:C
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:38
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:39
 
 
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/rvo.nl/subdomains.txt)|155|Alive subdomains|
-|[urls.txt](/data/rvo.nl/urls.txt)|96|Urls|
+|[urls.txt](/data/rvo.nl/urls.txt)|104|Urls|
 |[all_subdomains.txt](/data/rvo.nl/all_subdomains.txt)|270|All found subdomains (history)|
 
 
@@ -115,6 +115,14 @@
 |[https://english-data.rvo.nl](https://english-data.rvo.nl)| **A+**| **E**|| | | | | | | | :white_check_mark: | |Drupal HSTS PHP Varnish||
 |[http://bpa.rvo.nl](http://bpa.rvo.nl)| **B**| **E**|| | | | | | | | :white_check_mark: | |||
 |[https://english-prod.rvo.nl](https://english-prod.rvo.nl)| **F**| **E**|| | | | | | | | :white_check_mark: | |HSTS|403 Forbidden|
+|[https://argocd-infra.efiling.mijnoctrooi.rvo.nl](https://argocd-infra.efiling.mijnoctrooi.rvo.nl)| | **F**|Server| | | | | | | | :white_check_mark: | |||
+|[https://efiling.mijnoctrooi.rvo.nl](https://efiling.mijnoctrooi.rvo.nl)| | **F**|Server| | | | | | | | :white_check_mark: | |||
+|[https://monitoring-infra.efiling.mijnoctrooi.rvo.nl](https://monitoring-infra.efiling.mijnoctrooi.rvo.nl)| | **F**|Server| | | | | | | | :white_check_mark: | |||
+|[https://monitoring.efiling.mijnoctrooi.rvo.nl](https://monitoring.efiling.mijnoctrooi.rvo.nl)| | **F**|Server| | | | | | | | :white_check_mark: | |||
+|[https://sonarqube-infra.efiling.mijnoctrooi.rvo.nl](https://sonarqube-infra.efiling.mijnoctrooi.rvo.nl)| | **F**|Server| | | | | | | | :white_check_mark: | |||
+|[https://vault-infra.efiling.mijnoctrooi.rvo.nl](https://vault-infra.efiling.mijnoctrooi.rvo.nl)| | **F**|Server| | | | | | | | :white_check_mark: | |||
+|[https://vault.efiling.mijnoctrooi.rvo.nl](https://vault.efiling.mijnoctrooi.rvo.nl)| | **F**|Server| | | | | | | | :white_check_mark: | |||
+|[https://mijnoctrooi.rvo.nl](https://mijnoctrooi.rvo.nl)| | **A**|Server| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |||
 |[https://sandbox.rvo.nl](https://sandbox.rvo.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS|403 Forbidden|
 |[https://redesign.rvo.nl](https://redesign.rvo.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Basic Nginx|401 Authorizatio...|
 

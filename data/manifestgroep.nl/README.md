@@ -13,7 +13,7 @@
 |------------|-------|------|
 |[subdomains.txt](/data/manifestgroep.nl/subdomains.txt)|2|Alive subdomains|
 |[urls.txt](/data/manifestgroep.nl/urls.txt)|2|Urls|
-|[all_subdomains.txt](/data/manifestgroep.nl/all_subdomains.txt)|2|All found subdomains (history)|
+|[all_subdomains.txt](/data/manifestgroep.nl/all_subdomains.txt)|3|All found subdomains (history)|
 
 
 ## Statistics

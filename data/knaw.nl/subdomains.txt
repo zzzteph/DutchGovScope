@@ -267,7 +267,6 @@ alfalablog.huygens.knaw.nl
 charterbank.huygens.knaw.nl
 clusiuscorrespondence.huygens.knaw.nl
 editiewetenschap1.huygens.knaw.nl
-en.huygens.knaw.nl
 kroniekvankampen.huygens.knaw.nl
 migrant.huygens.knaw.nl
 staging.meertens.knaw.nl
@@ -1373,3 +1372,8 @@ wp-16.dev.huc.knaw.nl
 ss31.dans.knaw.nl
 repository-assistant.labs.dans.knaw.nl
 wp-03.dev.huc.knaw.nl
+esta.sd.di.huc.knaw.nl
+monitoring.huc.knaw.nl
+dataverse-mapper.labs.dans.knaw.nl
+vangogh-letters.dev.huc.knaw.nl
+keur.knaw.nl

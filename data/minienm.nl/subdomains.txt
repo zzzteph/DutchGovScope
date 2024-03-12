@@ -55,6 +55,7 @@ sdm.minienm.nl
 services-hprm-acc.minienm.nl
 services-hprm.minienm.nl
 sip.minienm.nl
+adresgids2.minienm.nl
 web.minienm.nl
 widscan.minienm.nl
 widscan-acc.minienm.nl

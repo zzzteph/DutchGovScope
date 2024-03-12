@@ -26,10 +26,10 @@
 |[https://loket.h-i-ambacht.nl](https://loket.h-i-ambacht.nl)| **A+**| **A**||:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bootstrap HSTS Java Material Design Lite|Loket van Gemeen...|
 |[https://gisibgeoserver.h-i-ambacht.nl](https://gisibgeoserver.h-i-ambacht.nl)| **B**| **A**|| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |||
 |[https://zaken.h-i-ambacht.nl](https://zaken.h-i-ambacht.nl)| **B**| **A**||:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |||
-|[https://gisib-test.h-i-ambacht.nl](https://gisib-test.h-i-ambacht.nl)| **B**| **B**||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS Microsoft ASP.NET|Object moved|
+|[http://gisib-test.h-i-ambacht.nl](http://gisib-test.h-i-ambacht.nl)| **B**| **B**||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS Microsoft ASP.NET||
 |[https://web.h-i-ambacht.nl](https://web.h-i-ambacht.nl)| **A+**| **A**|nginx| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|You received ema...|
 |[https://loket.test.h-i-ambacht.nl](https://loket.test.h-i-ambacht.nl)| **A+**| **A**||:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Java|Fout|
-|[https://vergunningintaker-preprod.h-i-ambacht.nl](https://vergunningintaker-preprod.h-i-ambacht.nl)| **A+**| **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Express HSTS Node.js||
+|[http://vergunningintaker-preprod.h-i-ambacht.nl](http://vergunningintaker-preprod.h-i-ambacht.nl)| **A+**| **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Express HSTS Node.js||
 |[https://college.h-i-ambacht.nl](https://college.h-i-ambacht.nl)| **A+**| **B**|Apache|:white_check_mark: |:white_check_mark: | | |:warning: | | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
 |[https://gisib.h-i-ambacht.nl](https://gisib.h-i-ambacht.nl)| **B**| **B**||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS Microsoft ASP.NET|Object moved|
 |[https://www.h-i-ambacht.nl](https://www.h-i-ambacht.nl)| **A+**| **A**||:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache Tomcat Green Valley CMS HSTS Java|Inwoners - Gemee...|
@@ -39,7 +39,7 @@
 |[https://raad.h-i-ambacht.nl](https://raad.h-i-ambacht.nl)| **A+**| **A**|Apache|:warning: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS|hendrikidoambach...|
 |[https://gisibgeoserver-test.h-i-ambacht.nl](https://gisibgeoserver-test.h-i-ambacht.nl)| **B**| **A**|| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |||
 |[https://rxlaunch-signicat-preprod.h-i-ambacht.nl](https://rxlaunch-signicat-preprod.h-i-ambacht.nl)| **A+**| **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
-|[https://vergunningintaker.h-i-ambacht.nl](https://vergunningintaker.h-i-ambacht.nl)| **A+**| **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Express HSTS Node.js||
+|[http://vergunningintaker.h-i-ambacht.nl](http://vergunningintaker.h-i-ambacht.nl)| **A+**| **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Express HSTS Node.js||
 |[https://vthbroker.h-i-ambacht.nl](https://vthbroker.h-i-ambacht.nl)| **A+**| **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
 |[https://omgevingsvisie.h-i-ambacht.nl](https://omgevingsvisie.h-i-ambacht.nl)| **A+**| **C**|Apache| |:white_check_mark: | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|Omgevingsvisie H...|
 

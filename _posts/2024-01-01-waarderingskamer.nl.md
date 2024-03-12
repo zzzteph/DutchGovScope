@@ -2,12 +2,12 @@
 layout: default
 title: "waarderingskamer.nl"
 permalink: "/dutchgov/waarderingskamer.nl.html"
-subdomains_count: 27
+subdomains_count: 25
 all_subdomains_count: 52
-urls_count: 14
-ssl_rank: B+
+urls_count: 12
+ssl_rank: A-
 http_rank: D
-security_txt: 4
+security_txt: 3
 url_link: /data/waarderingskamer.nl/urls.txt
 all_subdomains_link: /data/waarderingskamer.nl/all_subdomains.txt
 subdomains_link: /data/waarderingskamer.nl/subdomains.txt
@@ -20,15 +20,15 @@ tags: dutchgov
 ## Summary data
 
 
- - **SSL Grade**:B+
+ - **SSL Grade**:A-
  - **HTTP Security Grade**:D
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:4
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:3
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/waarderingskamer.nl/subdomains.txt)|27|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/waarderingskamer.nl/urls.txt)|14|Urls|
+|[subdomains.txt](/DutchGovScope/data/waarderingskamer.nl/subdomains.txt)|25|Alive subdomains|
+|[urls.txt](/DutchGovScope/data/waarderingskamer.nl/urls.txt)|12|Urls|
 |[all_subdomains.txt](/DutchGovScope/data/waarderingskamer.nl/all_subdomains.txt)|52|All found subdomains (history)|
 
 
@@ -45,10 +45,8 @@ tags: dutchgov
 |[http://wem-live.waarderingskamer.nl](http://wem-live.waarderingskamer.nl)| **A**| **E**|| | | | | | | | :white_check_mark: | ||302 Found|
 |[https://woz-it.waarderingskamer.nl](https://woz-it.waarderingskamer.nl)| **A+**| **C**|nginx|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS Microsoft ASP.NET Nginx|WOZ-IT|
 |[https://www.waarderingskamer.nl](https://www.waarderingskamer.nl)| **A+**| **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |Alpine.js Craft CMS HSTS Nginx SEOmatic Yii|Home|
-|[https://www.gemeenteportaal.waarderingskamer.nl](https://www.gemeenteportaal.waarderingskamer.nl)| **F**| **A**|wdk| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://waarderingskamer.nl](https://waarderingskamer.nl)| **A**| **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |Nginx|301 Moved Perman...|
 |[https://scim.waarderingskamer.nl](https://scim.waarderingskamer.nl)| **A**| **B**|| | | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |||
 |[https://search.waarderingskamer.nl](https://search.waarderingskamer.nl)| **A+**| **B**|nginx| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS Nginx||
 |[https://acceptatie.waarderingskamer.nl](https://acceptatie.waarderingskamer.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |HSTS Nginx|403 Forbidden|
-|[https://webmail.waarderingskamer.nl](https://webmail.waarderingskamer.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|301 Moved Perman...|
 

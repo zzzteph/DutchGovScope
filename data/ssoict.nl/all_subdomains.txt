@@ -115,3 +115,7 @@ test.ssoict.nl
 opmanager.ssoict.nl
 staging-1ntra-ienw.ssoict.nl
 hulpmiddelen.farmatec.ssoict.nl
+staging-1ntra-server1.ssoict.nl
+staging-1ntra-kiforms.ssoict.nl
+idmszw.ssoict.nl
+klasseburo.ssoict.nl

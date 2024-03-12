@@ -3,7 +3,6 @@ https://staging.werkenbij.kvk.nl
 https://ondernemersplein.kvk.nl
 https://www.kvk.nl
 https://cia.tst.ondernemersplein.kvk.nl
-https://microcontent.ondernemersplein.kvk.nl
 https://view.email.kvk.nl
 https://ondertekenen-id.kvk.nl
 https://ondertekenen.acp.kvk.nl

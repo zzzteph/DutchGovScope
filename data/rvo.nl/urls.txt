@@ -92,5 +92,13 @@ https://test-wetten.rvo.nl
 https://english-data.rvo.nl
 http://bpa.rvo.nl
 https://english-prod.rvo.nl
+https://argocd-infra.efiling.mijnoctrooi.rvo.nl
+https://efiling.mijnoctrooi.rvo.nl
+https://monitoring-infra.efiling.mijnoctrooi.rvo.nl
+https://monitoring.efiling.mijnoctrooi.rvo.nl
+https://sonarqube-infra.efiling.mijnoctrooi.rvo.nl
+https://vault-infra.efiling.mijnoctrooi.rvo.nl
+https://vault.efiling.mijnoctrooi.rvo.nl
+https://mijnoctrooi.rvo.nl
 https://sandbox.rvo.nl
 https://redesign.rvo.nl

@@ -6,13 +6,13 @@
 
  - **SSL Grade**:A-
  - **HTTP Security Grade**:C
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:78
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:80
 
 
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/rivm.nl/subdomains.txt)|401|Alive subdomains|
-|[urls.txt](/data/rivm.nl/urls.txt)|270|Urls|
+|[urls.txt](/data/rivm.nl/urls.txt)|273|Urls|
 |[all_subdomains.txt](/data/rivm.nl/all_subdomains.txt)|931|All found subdomains (history)|
 
 
@@ -283,6 +283,9 @@
 |[https://manveldapp-beheer.rivm.nl](https://manveldapp-beheer.rivm.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |HSTS Nginx|Mendix|
 |[https://dev-lsp.rivm.nl](https://dev-lsp.rivm.nl)| **F**| **F**|Microsoft-Azure-Application-Gateway/v2| | | | | | | | :white_check_mark: | ||404 Not Found|
 |[https://api.dev-lsp.rivm.nl](https://api.dev-lsp.rivm.nl)| **F**| **F**|Microsoft-Azure-Application-Gateway/v2| | | | | | | | :white_check_mark: | ||404 Not Found|
+|[http://lkvis.rivm.nl](http://lkvis.rivm.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
+|[https://www.rivm.nl](https://www.rivm.nl)| | **A**|Apache| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Apache HTTP Server Drupal HSTS PHP|Rijksinstituut v...|
+|[https://rivm.nl](https://rivm.nl)| | **A**|Apache| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Apache HTTP Server HSTS|301 Moved Perman...|
 |[https://tst-lsp.rivm.nl](https://tst-lsp.rivm.nl)| | **F**|Microsoft-Azure-Application-Gateway/v2| | | | | | | | :white_check_mark: | ||404 Not Found|
 |[https://api.tst-lsp.rivm.nl](https://api.tst-lsp.rivm.nl)| | **F**|Microsoft-Azure-Application-Gateway/v2| | | | | | | | :white_check_mark: | ||404 Not Found|
 |[https://lsp.rivm.nl](https://lsp.rivm.nl)| | **F**|Microsoft-Azure-Application-Gateway/v2| | | | | | | | :white_check_mark: | ||404 Not Found|

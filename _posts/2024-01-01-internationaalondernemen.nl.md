@@ -4,7 +4,7 @@ title: "internationaalondernemen.nl"
 permalink: "/dutchgov/internationaalondernemen.nl.html"
 subdomains_count: 10
 all_subdomains_count: 10
-urls_count: 8
+urls_count: 10
 ssl_rank: E
 http_rank: E
 security_txt: 0
@@ -28,7 +28,7 @@ tags: dutchgov
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/DutchGovScope/data/internationaalondernemen.nl/subdomains.txt)|10|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/internationaalondernemen.nl/urls.txt)|8|Urls|
+|[urls.txt](/DutchGovScope/data/internationaalondernemen.nl/urls.txt)|10|Urls|
 |[all_subdomains.txt](/DutchGovScope/data/internationaalondernemen.nl/all_subdomains.txt)|10|All found subdomains (history)|
 
 
@@ -45,4 +45,6 @@ tags: dutchgov
 |[https://internationaalondernemen.nl](https://internationaalondernemen.nl)| **A**| **A**|Apache| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS|301 Moved Perman...|
 |[https://nsi.bgwww.internationaalondernemen.nl](https://nsi.bgwww.internationaalondernemen.nl)| **F**| **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|An Error Occurre...|
 |[https://epp.eurostat.ec.europa.euwww.internationaalondernemen.nl](https://epp.eurostat.ec.europa.euwww.internationaalondernemen.nl)| **F**| **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|An Error Occurre...|
+|[https://mail.internationaalondernemen.nl](https://mail.internationaalondernemen.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|Total Design - S...|
+|[https://ftp.internationaalondernemen.nl](https://ftp.internationaalondernemen.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|An Error Occurre...|
 

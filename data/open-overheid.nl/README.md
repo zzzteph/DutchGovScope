@@ -13,7 +13,7 @@
 |------------|-------|------|
 |[subdomains.txt](/data/open-overheid.nl/subdomains.txt)|11|Alive subdomains|
 |[urls.txt](/data/open-overheid.nl/urls.txt)|8|Urls|
-|[all_subdomains.txt](/data/open-overheid.nl/all_subdomains.txt)|11|All found subdomains (history)|
+|[all_subdomains.txt](/data/open-overheid.nl/all_subdomains.txt)|12|All found subdomains (history)|
 
 
 ## Statistics

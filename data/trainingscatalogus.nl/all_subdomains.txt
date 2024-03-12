@@ -136,3 +136,10 @@ jira.test.trainingscatalogus.nl
 chat.test.trainingscatalogus.nl
 inproces.test.trainingscatalogus.nl
 sip.test.trainingscatalogus.nl
+audit.test.trainingscatalogus.nl
+cpcalendars.test.trainingscatalogus.nl
+loket.test.trainingscatalogus.nl
+research.test.trainingscatalogus.nl
+static.test.trainingscatalogus.nl
+service.test.trainingscatalogus.nl
+gitlab.test.trainingscatalogus.nl

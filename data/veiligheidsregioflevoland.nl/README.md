@@ -11,9 +11,9 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/veiligheidsregioflevoland.nl/subdomains.txt)|356|Alive subdomains|
+|[subdomains.txt](/data/veiligheidsregioflevoland.nl/subdomains.txt)|3566|Alive subdomains|
 |[urls.txt](/data/veiligheidsregioflevoland.nl/urls.txt)|279|Urls|
-|[all_subdomains.txt](/data/veiligheidsregioflevoland.nl/all_subdomains.txt)|3566|All found subdomains (history)|
+|[all_subdomains.txt](/data/veiligheidsregioflevoland.nl/all_subdomains.txt)|6166|All found subdomains (history)|
 
 
 ## Statistics

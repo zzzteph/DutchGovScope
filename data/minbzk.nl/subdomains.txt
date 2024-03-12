@@ -40,3 +40,4 @@ www2.minbzk.nl
 proxy01.minbzk.nl
 redactie.minbzk.nl
 www-test.minbzk.nl
+mail2.vno.minbzk.nl

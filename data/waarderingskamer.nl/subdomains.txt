@@ -6,7 +6,6 @@ mijn.waarderingskamer.nl
 wem-live.waarderingskamer.nl
 woz-it.waarderingskamer.nl
 www.waarderingskamer.nl
-www.gemeenteportaal.waarderingskamer.nl
 waarderingskamer.nl
 scim.waarderingskamer.nl
 search.waarderingskamer.nl
@@ -23,5 +22,4 @@ acceptatie.mijn.waarderingskamer.nl
 wem-staging.waarderingskamer.nl
 portal.waarderingskamer.nl
 mail.waarderingskamer.nl
-webmail.waarderingskamer.nl
 testnoc.waarderingskamer.nl

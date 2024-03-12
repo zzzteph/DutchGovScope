@@ -2,8 +2,8 @@
 layout: default
 title: "digitalenoordzee.nl"
 permalink: "/dutchgov/digitalenoordzee.nl.html"
-subdomains_count: 0
-all_subdomains_count: 12
+subdomains_count: 8
+all_subdomains_count: 15
 urls_count: 0
 ssl_rank: 
 http_rank: F
@@ -27,9 +27,9 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/digitalenoordzee.nl/subdomains.txt)|0|Alive subdomains|
+|[subdomains.txt](/DutchGovScope/data/digitalenoordzee.nl/subdomains.txt)|8|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/digitalenoordzee.nl/urls.txt)|0|Urls|
-|[all_subdomains.txt](/DutchGovScope/data/digitalenoordzee.nl/all_subdomains.txt)|12|All found subdomains (history)|
+|[all_subdomains.txt](/DutchGovScope/data/digitalenoordzee.nl/all_subdomains.txt)|15|All found subdomains (history)|
 
 
 ## Statistics

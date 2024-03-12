@@ -58,7 +58,6 @@ https://maovpn.noord-holland.nl
 https://eidbroker-pre.noord-holland.nl
 https://eidbroker.noord-holland.nl
 https://fleetmanager.noord-holland.nl
-https://qliksense.noord-holland.nl
 https://fleet-manager.datalab-prod.aws.noord-holland.nl
 https://pleinoud.noord-holland.nl
 https://lms.noord-holland.nl

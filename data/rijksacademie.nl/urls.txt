@@ -5,5 +5,4 @@ https://nieuwsbrief.rijksacademie.nl
 https://opendata.rijksacademie.nl
 https://www.rijksacademie.nl
 https://rijksacademie.nl
-https://infoscherm.rijksacademie.nl
 http://autodiscover.rijksacademie.nl

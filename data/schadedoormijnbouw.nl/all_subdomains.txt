@@ -27,3 +27,5 @@ test.schadedoormijnbouw.nl
 sip.schadedoormijnbouw.nl
 acc-cms.schadedoormijnbouw.nl
 tracking.schadedoormijnbouw.nl
+rri-oa.schadedoormijnbouw.nl
+rri.schadedoormijnbouw.nl

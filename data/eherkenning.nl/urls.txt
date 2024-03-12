@@ -1,5 +1,4 @@
 https://acc-dictu.eherkenning.nl
-https://creaim-etoegang.sso.eherkenning.nl
 https://digidentity-accept.sso.eherkenning.nl
 https://digidentity-preproduction.sso.eherkenning.nl
 https://digidentity-staging.sso.eherkenning.nl

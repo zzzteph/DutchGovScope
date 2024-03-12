@@ -32,3 +32,4 @@ a-magazines.nctv.nl
 a-opendata.nctv.nl
 test.nctv.nl
 a-opendata.a-english.nctv.nl
+elearning-zvjz-uk.nctv.nl

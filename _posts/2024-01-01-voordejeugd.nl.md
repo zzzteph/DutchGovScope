@@ -2,7 +2,7 @@
 layout: default
 title: "voordejeugd.nl"
 permalink: "/dutchgov/voordejeugd.nl.html"
-subdomains_count: 5
+subdomains_count: 3
 all_subdomains_count: 7
 urls_count: 3
 ssl_rank: A-
@@ -27,7 +27,7 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/voordejeugd.nl/subdomains.txt)|5|Alive subdomains|
+|[subdomains.txt](/DutchGovScope/data/voordejeugd.nl/subdomains.txt)|3|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/voordejeugd.nl/urls.txt)|3|Urls|
 |[all_subdomains.txt](/DutchGovScope/data/voordejeugd.nl/all_subdomains.txt)|7|All found subdomains (history)|
 

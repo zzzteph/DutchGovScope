@@ -2,11 +2,11 @@
 layout: default
 title: "steunpuntcoronazorgen.nl"
 permalink: "/dutchgov/steunpuntcoronazorgen.nl.html"
-subdomains_count: 2
+subdomains_count: 0
 all_subdomains_count: 2
-urls_count: 2
-ssl_rank: A+
-http_rank: C
+urls_count: 0
+ssl_rank: 
+http_rank: F
 security_txt: 0
 url_link: /data/steunpuntcoronazorgen.nl/urls.txt
 all_subdomains_link: /data/steunpuntcoronazorgen.nl/all_subdomains.txt
@@ -20,15 +20,15 @@ tags: dutchgov
 ## Summary data
 
 
- - **SSL Grade**:A+
- - **HTTP Security Grade**:C
+ - **SSL Grade**:
+ - **HTTP Security Grade**:F
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:0
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/steunpuntcoronazorgen.nl/subdomains.txt)|2|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/steunpuntcoronazorgen.nl/urls.txt)|2|Urls|
+|[subdomains.txt](/DutchGovScope/data/steunpuntcoronazorgen.nl/subdomains.txt)|0|Alive subdomains|
+|[urls.txt](/DutchGovScope/data/steunpuntcoronazorgen.nl/urls.txt)|0|Urls|
 |[all_subdomains.txt](/DutchGovScope/data/steunpuntcoronazorgen.nl/all_subdomains.txt)|2|All found subdomains (history)|
 
 
@@ -37,6 +37,4 @@ tags: dutchgov
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://www.steunpuntcoronazorgen.nl](https://www.steunpuntcoronazorgen.nl)| **A+**| **C**|Apache| |:white_check_mark: | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|webserver|
-|[https://steunpuntcoronazorgen.nl](https://steunpuntcoronazorgen.nl)| **A+**| **C**|Apache| |:white_check_mark: | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|webserver|
 

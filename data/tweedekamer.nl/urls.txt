@@ -107,7 +107,6 @@ https://viv.tweedekamer.nl
 https://viv-acc.tweedekamer.nl
 https://apm.tweedekamer.nl
 https://sesam.tweedekamer.nl
-https://kva-test.tweedekamer.nl
 https://kva-tst.tweedekamer.nl
 https://vip-acc.tweedekamer.nl
 https://opendata-wiki.tweedekamer.nl
@@ -117,3 +116,5 @@ http://localhost.tweedekamer.nl
 https://msoid.tweedekamer.nl
 https://plein2-acc.tweedekamer.nl
 https://plein2-test.tweedekamer.nl
+https://sesam-test.tweedekamer.nl
+https://sesam-acc.tweedekamer.nl

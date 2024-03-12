@@ -93,3 +93,6 @@ https://leeromgeving-moodle-t.trainingscatalogus.nl
 https://schiphol-lms-a.trainingscatalogus.nl
 https://ciz-a.trainingscatalogus.nl
 https://ciz-lms-a.trainingscatalogus.nl
+https://course-api.schiphol-lms-a.trainingscatalogus.nl
+https://scim-api.schiphol-lms-a.trainingscatalogus.nl
+https://enrollment-api.schiphol-lms-a.trainingscatalogus.nl

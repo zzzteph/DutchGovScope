@@ -3,6 +3,7 @@ https://acc-dictu.comcms.logius.nl
 https://acc-dictu.kennisbank.logius.nl
 http://acc.oinregister.logius.nl
 http://acpt-machtigen.digipoort.logius.nl
+http://amp.logius.nl
 http://amp-idp.logius.nl
 http://amp-idp-pre.logius.nl
 http://amp-pre.logius.nl

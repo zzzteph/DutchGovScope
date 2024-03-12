@@ -1,3 +1,10 @@
 https://plink.rijksinkopen.nl
 https://leveranciersportaal.rijksinkopen.nl
 https://lp.rijksinkopen.nl
+https://cp.rijksinkopen.nl
+https://catalogusplatform.rijksinkopen.nl
+https://opl-cp.rijksinkopen.nl
+https://opleiding-catalogusplatform.rijksinkopen.nl
+http://tr-cp.rijksinkopen.nl
+https://pp-cp.rijksinkopen.nl
+https://preprod-catalogusplatform.rijksinkopen.nl

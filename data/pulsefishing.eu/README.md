@@ -4,15 +4,15 @@
 ## Summary data
 
 
- - **SSL Grade**:A+
- - **HTTP Security Grade**:A
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:4
+ - **SSL Grade**:
+ - **HTTP Security Grade**:F
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:0
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/pulsefishing.eu/subdomains.txt)|10|Alive subdomains|
-|[urls.txt](/data/pulsefishing.eu/urls.txt)|4|Urls|
+|[subdomains.txt](/data/pulsefishing.eu/subdomains.txt)|0|Alive subdomains|
+|[urls.txt](/data/pulsefishing.eu/urls.txt)|0|Urls|
 |[all_subdomains.txt](/data/pulsefishing.eu/all_subdomains.txt)|25|All found subdomains (history)|
 
 
@@ -21,8 +21,4 @@
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://feeds.pulsefishing.eu](https://feeds.pulsefishing.eu)| **A+**| **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
-|[https://opendata.pulsefishing.eu](https://opendata.pulsefishing.eu)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
-|[https://www.pulsefishing.eu](https://www.pulsefishing.eu)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Home | Pulse Fis...|
-|[https://pulsefishing.eu](https://pulsefishing.eu)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
 

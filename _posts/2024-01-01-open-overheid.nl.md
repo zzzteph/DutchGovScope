@@ -3,7 +3,7 @@ layout: default
 title: "open-overheid.nl"
 permalink: "/dutchgov/open-overheid.nl.html"
 subdomains_count: 11
-all_subdomains_count: 11
+all_subdomains_count: 12
 urls_count: 8
 ssl_rank: B-
 http_rank: C
@@ -29,7 +29,7 @@ tags: dutchgov
 |------------|-------|------|
 |[subdomains.txt](/DutchGovScope/data/open-overheid.nl/subdomains.txt)|11|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/open-overheid.nl/urls.txt)|8|Urls|
-|[all_subdomains.txt](/DutchGovScope/data/open-overheid.nl/all_subdomains.txt)|11|All found subdomains (history)|
+|[all_subdomains.txt](/DutchGovScope/data/open-overheid.nl/all_subdomains.txt)|12|All found subdomains (history)|
 
 
 ## Statistics

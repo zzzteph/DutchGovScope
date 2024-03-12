@@ -11,3 +11,6 @@ a-opendata.wkr.nl
 i-www.wkr.nl
 o-www.wkr.nl
 t-www.wkr.nl
+a-opendata.a-english.wkr.nl
+a-english.wkr.nl
+a-feeds.a-english.wkr.nl

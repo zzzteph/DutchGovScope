@@ -13,7 +13,7 @@
 |------------|-------|------|
 |[subdomains.txt](/data/sso-net.nl/subdomains.txt)|3|Alive subdomains|
 |[urls.txt](/data/sso-net.nl/urls.txt)|3|Urls|
-|[all_subdomains.txt](/data/sso-net.nl/all_subdomains.txt)|9|All found subdomains (history)|
+|[all_subdomains.txt](/data/sso-net.nl/all_subdomains.txt)|10|All found subdomains (history)|
 
 
 ## Statistics

@@ -188,6 +188,7 @@ zoeken.acp.kvk.nl
 zoeken1.acp.kvk.nl
 zoeken2.acp.kvk.nl
 pr.kvk.nl
+tbserver.kvk.nl
 em4955.kvk.nl
 lyncdiscover.kvk.nl
 admin.tbadmin.kvk.nl

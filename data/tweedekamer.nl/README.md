@@ -6,14 +6,14 @@
 
  - **SSL Grade**:A-
  - **HTTP Security Grade**:C
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:69
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:70
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/tweedekamer.nl/subdomains.txt)|165|Alive subdomains|
-|[urls.txt](/data/tweedekamer.nl/urls.txt)|119|Urls|
-|[all_subdomains.txt](/data/tweedekamer.nl/all_subdomains.txt)|264|All found subdomains (history)|
+|[subdomains.txt](/data/tweedekamer.nl/subdomains.txt)|167|Alive subdomains|
+|[urls.txt](/data/tweedekamer.nl/urls.txt)|120|Urls|
+|[all_subdomains.txt](/data/tweedekamer.nl/all_subdomains.txt)|267|All found subdomains (history)|
 
 
 ## Statistics
@@ -130,7 +130,6 @@
 |[https://viv-acc.tweedekamer.nl](https://viv-acc.tweedekamer.nl)| **A**| **B**|BigIP|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |F5 BigIP||
 |[https://apm.tweedekamer.nl](https://apm.tweedekamer.nl)| **A**| **B**|BigIP|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |F5 BigIP||
 |[https://sesam.tweedekamer.nl](https://sesam.tweedekamer.nl)| **A**| **B**|BigIP|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |F5 BigIP||
-|[https://kva-test.tweedekamer.nl](https://kva-test.tweedekamer.nl)| **A**| **F**|BigIP|:warning: | | | | | :white_check_mark: | | :white_check_mark: | |F5 BigIP||
 |[https://kva-tst.tweedekamer.nl](https://kva-tst.tweedekamer.nl)| **A**| **B**|BigIP|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |F5 BigIP||
 |[https://vip-acc.tweedekamer.nl](https://vip-acc.tweedekamer.nl)| | **B**|BigIP|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |F5 BigIP||
 |[https://opendata-wiki.tweedekamer.nl](https://opendata-wiki.tweedekamer.nl)| | **B**|BigIP|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |F5 BigIP||
@@ -140,4 +139,6 @@
 |[https://msoid.tweedekamer.nl](https://msoid.tweedekamer.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Object moved|
 |[https://plein2-acc.tweedekamer.nl](https://plein2-acc.tweedekamer.nl)| | **B**|BigIP|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |F5 BigIP||
 |[https://plein2-test.tweedekamer.nl](https://plein2-test.tweedekamer.nl)| | **B**|BigIP|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |F5 BigIP||
+|[https://sesam-test.tweedekamer.nl](https://sesam-test.tweedekamer.nl)| | **B**|BigIP|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |F5 BigIP||
+|[https://sesam-acc.tweedekamer.nl](https://sesam-acc.tweedekamer.nl)| | **B**|BigIP|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |F5 BigIP||
 

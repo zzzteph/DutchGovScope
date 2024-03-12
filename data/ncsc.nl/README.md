@@ -48,5 +48,5 @@
 |[https://mijn.acc.ncsc.nl](https://mijn.acc.ncsc.nl)| | **D**|none|:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
 |[https://vulnerabilities.ncsc.nl](https://vulnerabilities.ncsc.nl)| **A+**| **A**|none| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS|Index of /|
 |[https://gitnmp.arp.ncsc.nl](https://gitnmp.arp.ncsc.nl)| **F**| **F**|none| | | | | | | | :white_check_mark: | |HSTS|403 Forbidden|
-|[https://wds.ncsc.nl](https://wds.ncsc.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Object moved|
+|[https://wds.ncsc.nl](https://wds.ncsc.nl)| **B**| **E**|| | | | | | | | :white_check_mark: | ||Object moved|
 

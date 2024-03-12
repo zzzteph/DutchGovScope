@@ -61,3 +61,15 @@ toss.deafsluitdijk.nl
 id.cloud.deafsluitdijk.nl
 cw01host9.deafsluitdijk.nl
 darkerthanblack.deafsluitdijk.nl
+medi.deafsluitdijk.nl
+plausible.deafsluitdijk.nl
+mcdn.deafsluitdijk.nl
+bladen.deafsluitdijk.nl
+copp.deafsluitdijk.nl
+rembrandt.deafsluitdijk.nl
+api-service.deafsluitdijk.nl
+city.deafsluitdijk.nl
+vologda.deafsluitdijk.nl
+office-365-business-premium.deafsluitdijk.nl
+tattoo-piercing.deafsluitdijk.nl
+strm.deafsluitdijk.nl

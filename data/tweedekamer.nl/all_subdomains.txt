@@ -262,3 +262,6 @@ cpanel.beta.tweedekamer.nl
 apm-acc.tweedekamer.nl
 apps.beta.tweedekamer.nl
 cdn.beta.tweedekamer.nl
+internal.beta.tweedekamer.nl
+mail.beta.tweedekamer.nl
+secure.beta.tweedekamer.nl

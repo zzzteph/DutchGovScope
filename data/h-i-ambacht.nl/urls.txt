@@ -3,10 +3,10 @@ http://autodiscover.h-i-ambacht.nl
 https://loket.h-i-ambacht.nl
 https://gisibgeoserver.h-i-ambacht.nl
 https://zaken.h-i-ambacht.nl
-https://gisib-test.h-i-ambacht.nl
+http://gisib-test.h-i-ambacht.nl
 https://web.h-i-ambacht.nl
 https://loket.test.h-i-ambacht.nl
-https://vergunningintaker-preprod.h-i-ambacht.nl
+http://vergunningintaker-preprod.h-i-ambacht.nl
 https://college.h-i-ambacht.nl
 https://gisib.h-i-ambacht.nl
 https://www.h-i-ambacht.nl
@@ -16,6 +16,6 @@ https://loket.acceptatie.h-i-ambacht.nl
 https://raad.h-i-ambacht.nl
 https://gisibgeoserver-test.h-i-ambacht.nl
 https://rxlaunch-signicat-preprod.h-i-ambacht.nl
-https://vergunningintaker.h-i-ambacht.nl
+http://vergunningintaker.h-i-ambacht.nl
 https://vthbroker.h-i-ambacht.nl
 https://omgevingsvisie.h-i-ambacht.nl

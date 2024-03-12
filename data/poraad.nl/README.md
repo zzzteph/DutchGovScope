@@ -4,15 +4,15 @@
 ## Summary data
 
 
- - **SSL Grade**:C
+ - **SSL Grade**:B
  - **HTTP Security Grade**:E
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:0
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/poraad.nl/subdomains.txt)|35|Alive subdomains|
-|[urls.txt](/data/poraad.nl/urls.txt)|19|Urls|
+|[subdomains.txt](/data/poraad.nl/subdomains.txt)|28|Alive subdomains|
+|[urls.txt](/data/poraad.nl/urls.txt)|17|Urls|
 |[all_subdomains.txt](/data/poraad.nl/all_subdomains.txt)|44|All found subdomains (history)|
 
 
@@ -28,9 +28,7 @@
 |[https://manometer.poraad.nl](https://manometer.poraad.nl)| **B**| **F**|Microsoft-IIS/10.0| | | | | | | | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET:4.0.30319 Windows Server||
 |[https://sectorrapportage.poraad.nl](https://sectorrapportage.poraad.nl)| **A**| **F**|nginx| | | | | | | | :white_check_mark: | |Cloudways Divi:4.21.0 MySQL Nginx PHP WordPress:6.4.3 Yoast SEO:21.5|Sectorrapportage...|
 |[https://sectorrapportage2021.poraad.nl](https://sectorrapportage2021.poraad.nl)| **A**| **F**|nginx|:o: | | | | | | | :white_check_mark: | |Nginx|Home - povoraad|
-|[https://stb.poraad.nl](https://stb.poraad.nl)| **F**| **F**|Microsoft-IIS/10.0| | | | | | | | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server||
 |[https://www.poraad.nl](https://www.poraad.nl)| **A+**| **A**|| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Drupal:10 Google Tag Manager HSTS PHP|Home | PO-Raad|
-|[https://stbtest.poraad.nl](https://stbtest.poraad.nl)| **F**| **F**|Microsoft-IIS/10.0| | | | | | | | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server||
 |[https://acc2.poraad.nl](https://acc2.poraad.nl)| **F**| **F**|nginx| | | | | | | | :white_check_mark: | |Basic Nginx|401 Authorizatio...|
 |[https://poraad.nl](https://poraad.nl)| **A**| **A**|| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS|308 Permanent Re...|
 |[https://sectorrapportage2022.poraad.nl](https://sectorrapportage2022.poraad.nl)| **A**| **F**|nginx|:o: | | | | | | | :white_check_mark: | |Alpine.js Nginx|Sectorrapportage...|

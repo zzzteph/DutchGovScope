@@ -14,3 +14,4 @@ https://hip.huurcommissie.nl
 https://enterpriseenrollment.huurcommissie.nl
 https://enterpriseregistration.huurcommissie.nl
 https://msoid.huurcommissie.nl
+https://vpn.huurcommissie.nl

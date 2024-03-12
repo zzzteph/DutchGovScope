@@ -86,3 +86,5 @@ localhost.ssonet.nl
 prime.ssonet.nl
 systeembeheer.ssonet.nl
 webmessenger.ssonet.nl
+nwu-rksdns1.ssonet.nl
+nwu-rksdns2.ssonet.nl

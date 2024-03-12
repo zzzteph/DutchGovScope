@@ -58,7 +58,6 @@ maovpn.noord-holland.nl
 eidbroker-pre.noord-holland.nl
 eidbroker.noord-holland.nl
 fleetmanager.noord-holland.nl
-qliksense.noord-holland.nl
 fleet-manager.datalab-prod.aws.noord-holland.nl
 pleinoud.noord-holland.nl
 lms.noord-holland.nl

@@ -11,9 +11,9 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/stelselcatalogus.nl/subdomains.txt)|18|Alive subdomains|
+|[subdomains.txt](/data/stelselcatalogus.nl/subdomains.txt)|21|Alive subdomains|
 |[urls.txt](/data/stelselcatalogus.nl/urls.txt)|9|Urls|
-|[all_subdomains.txt](/data/stelselcatalogus.nl/all_subdomains.txt)|29|All found subdomains (history)|
+|[all_subdomains.txt](/data/stelselcatalogus.nl/all_subdomains.txt)|30|All found subdomains (history)|
 
 
 ## Statistics

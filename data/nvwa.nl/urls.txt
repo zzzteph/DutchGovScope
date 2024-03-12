@@ -1,6 +1,5 @@
 https://acc.inspectieresultaten.nvwa.nl
 https://acc2.inspectieresultaten.nvwa.nl
-https://demo-nvwa.nvwa.nl
 https://e-certnl.nvwa.nl
 https://e-certnl-acc.nvwa.nl
 https://english.nvwa.nl
