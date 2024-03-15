@@ -6,14 +6,14 @@
 
  - **SSL Grade**:A-
  - **HTTP Security Grade**:A
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:77
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:78
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/pleio.nl/subdomains.txt)|1308|Alive subdomains|
+|[subdomains.txt](/data/pleio.nl/subdomains.txt)|1391|Alive subdomains|
 |[urls.txt](/data/pleio.nl/urls.txt)|1303|Urls|
-|[all_subdomains.txt](/data/pleio.nl/all_subdomains.txt)|1392|All found subdomains (history)|
+|[all_subdomains.txt](/data/pleio.nl/all_subdomains.txt)|1402|All found subdomains (history)|
 
 
 ## Statistics
@@ -940,7 +940,7 @@
 |[https://wld.pleio.nl](https://wld.pleio.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Domeinnaam nog n...|
 |[https://net5.pleio.nl](https://net5.pleio.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Domeinnaam nog n...|
 |[https://mailer4.pleio.nl](https://mailer4.pleio.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Domeinnaam nog n...|
-|[https://vng.pleio.nl](https://vng.pleio.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Domeinnaam nog n...|
+|[https://vng.pleio.nl](https://vng.pleio.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache Tomcat Fourthwall:1.0.0 HSTS Java MariaDB Skolengo:1.0.0|VNG Pleio Samenw...|
 |[https://venturi.pleio.nl](https://venturi.pleio.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Domeinnaam nog n...|
 |[https://aamc.pleio.nl](https://aamc.pleio.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Domeinnaam nog n...|
 |[https://blackmores.pleio.nl](https://blackmores.pleio.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Domeinnaam nog n...|

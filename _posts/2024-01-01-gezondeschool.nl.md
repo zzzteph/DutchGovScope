@@ -45,6 +45,6 @@ tags: dutchgov
 |[https://enterpriseenrollment.gezondeschool.nl](https://enterpriseenrollment.gezondeschool.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||
 |[https://enterpriseregistration.gezondeschool.nl](https://enterpriseregistration.gezondeschool.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://info.gezondeschool.nl](https://info.gezondeschool.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|404 Not Found|
-|[http://localhost.gezondeschool.nl](http://localhost.gezondeschool.nl)| | **D**|nginx| | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Nginx|Welcome to nginx...|
+|[http://localhost.gezondeschool.nl](http://localhost.gezondeschool.nl)| | **F**|nginx|:o: | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Laravel Nginx PHP|Weakpass|
 |[https://msoid.gezondeschool.nl](https://msoid.gezondeschool.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Object moved|
 

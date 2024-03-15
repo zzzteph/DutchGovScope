@@ -12,7 +12,7 @@
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/pbl.nl/subdomains.txt)|44|Alive subdomains|
-|[urls.txt](/data/pbl.nl/urls.txt)|23|Urls|
+|[urls.txt](/data/pbl.nl/urls.txt)|22|Urls|
 |[all_subdomains.txt](/data/pbl.nl/all_subdomains.txt)|82|All found subdomains (history)|
 
 
@@ -43,5 +43,4 @@
 |[https://mailings.pbl.nl](https://mailings.pbl.nl)| **A+**| **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Nginx||
 |[https://mail.pbl.nl](https://mail.pbl.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|404 Not Found|
 |[https://msoid.pbl.nl](https://msoid.pbl.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Object moved|
-|[http://prd-www.pbl.nl](http://prd-www.pbl.nl)| | **E**|| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS||
 

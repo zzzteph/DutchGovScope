@@ -323,3 +323,6 @@ edh-webservice.rijksapplicaties.nl
 wpo-webservice.staging.rijksapplicaties.nl
 app1.acc.rijksapplicaties.nl
 wpo-webservice.rijksapplicaties.nl
+rvb-dfss.rijksapplicaties.nl
+monitor.rijksapplicaties.nl
+bda.rijksapplicaties.nl

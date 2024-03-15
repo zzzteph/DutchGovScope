@@ -10,3 +10,4 @@ https://waarderingskamer.nl
 https://scim.waarderingskamer.nl
 https://search.waarderingskamer.nl
 https://acceptatie.waarderingskamer.nl
+http://testnoc.waarderingskamer.nl

@@ -11,8 +11,8 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/samenwerkenaanontwerpkracht.nl/subdomains.txt)|2|Alive subdomains|
-|[urls.txt](/data/samenwerkenaanontwerpkracht.nl/urls.txt)|2|Urls|
+|[subdomains.txt](/data/samenwerkenaanontwerpkracht.nl/subdomains.txt)|0|Alive subdomains|
+|[urls.txt](/data/samenwerkenaanontwerpkracht.nl/urls.txt)|0|Urls|
 |[all_subdomains.txt](/data/samenwerkenaanontwerpkracht.nl/all_subdomains.txt)|2|All found subdomains (history)|
 
 
@@ -21,6 +21,4 @@
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://www.samenwerkenaanontwerpkracht.nl](https://www.samenwerkenaanontwerpkracht.nl)| **F**| **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|Domein niet gevo...|
-|[https://samenwerkenaanontwerpkracht.nl](https://samenwerkenaanontwerpkracht.nl)| **F**| **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|Domein niet gevo...|
 

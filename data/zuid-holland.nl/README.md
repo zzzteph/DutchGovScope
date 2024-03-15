@@ -6,13 +6,13 @@
 
  - **SSL Grade**:A
  - **HTTP Security Grade**:B
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:20
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:19
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/zuid-holland.nl/subdomains.txt)|74|Alive subdomains|
-|[urls.txt](/data/zuid-holland.nl/urls.txt)|70|Urls|
+|[subdomains.txt](/data/zuid-holland.nl/subdomains.txt)|73|Alive subdomains|
+|[urls.txt](/data/zuid-holland.nl/urls.txt)|69|Urls|
 |[all_subdomains.txt](/data/zuid-holland.nl/all_subdomains.txt)|136|All found subdomains (history)|
 
 
@@ -67,7 +67,6 @@
 |[https://geodata.zuid-holland.nl](https://geodata.zuid-holland.nl)| **A**| **A**||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Java||
 |[https://geoservices.zuid-holland.nl](https://geoservices.zuid-holland.nl)| **A+**| **C**||:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
 |[https://beterwordenvancorona.zuid-holland.nl](https://beterwordenvancorona.zuid-holland.nl)| **A+**| **B**|Apache| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server Drupal HSTS PHP|Redirecting to h...|
-|[https://zonnewijzer.zuid-holland.nl](https://zonnewijzer.zuid-holland.nl)| **A**| **A**|nginx|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Azure HSTS Nginx|Zonnewijzer|
 |[https://geo-fms.zuid-holland.nl](https://geo-fms.zuid-holland.nl)| **A+**| **C**||:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Java||
 |[https://nieuwsbrief.zuid-holland.nl](https://nieuwsbrief.zuid-holland.nl)| **A+**| **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Nginx||
 |[https://lta.zuid-holland.nl](https://lta.zuid-holland.nl)| **A**| **E**|gunicorn| | | | | | :white_check_mark: | | :white_check_mark: | |Python gunicorn|Lange Termijn Ag...|

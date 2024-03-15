@@ -28,7 +28,6 @@ login.vechtstromen.nl
 formulieren.vechtstromen.nl
 test.formulieren.vechtstromen.nl
 securetest.vechtstromen.nl
-trend-os-edge.vechtstromen.nl
 lyncdiscover.vechtstromen.nl
 sip.vechtstromen.nl
 digip.vechtstromen.nl
@@ -49,3 +48,5 @@ sharefile.vechtstromen.nl
 topdesk-test.vechtstromen.nl
 pop.vechtstromen.nl
 zaaksysteem.vechtstromen.nl
+acceptatie-zaaksysteem.vechtstromen.nl
+sdwan.vechtstromen.nl

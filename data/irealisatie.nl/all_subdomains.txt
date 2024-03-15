@@ -28,3 +28,5 @@ web.test.mgo.irealisatie.nl
 max.test.mgo.irealisatie.nl
 dva.test.mgo.irealisatie.nl
 lo-ad.test.mgo.irealisatie.nl
+static.acc.dpr.irealisatie.nl
+storage.test.mgo.irealisatie.nl

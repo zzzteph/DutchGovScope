@@ -32,5 +32,5 @@
 |[https://previewnext.emissieregistratie.nl](https://previewnext.emissieregistratie.nl)| **B**| **F**||:warning: | | | | | | | :white_check_mark: | |F5 BigIP HSTS||
 |[https://www.emissieregistratie.nl](https://www.emissieregistratie.nl)| **A+**| **A**|Apache| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server Drupal HSTS PHP|Alle emissiegege...|
 |[https://emissieregistratie.nl](https://emissieregistratie.nl)| **A+**| **A**|Apache| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS|301 Moved Perman...|
-|[http://localhost.emissieregistratie.nl](http://localhost.emissieregistratie.nl)| | **D**|nginx| | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Nginx|Welcome to nginx...|
+|[http://localhost.emissieregistratie.nl](http://localhost.emissieregistratie.nl)| | **F**|nginx|:o: | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Laravel Nginx PHP|Weakpass|
 

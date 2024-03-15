@@ -2,7 +2,7 @@
 layout: default
 title: "vechtstromen.nl"
 permalink: "/dutchgov/vechtstromen.nl.html"
-subdomains_count: 51
+subdomains_count: 52
 all_subdomains_count: 100
 urls_count: 36
 ssl_rank: A-
@@ -27,7 +27,7 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/vechtstromen.nl/subdomains.txt)|51|Alive subdomains|
+|[subdomains.txt](/DutchGovScope/data/vechtstromen.nl/subdomains.txt)|52|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/vechtstromen.nl/urls.txt)|36|Urls|
 |[all_subdomains.txt](/DutchGovScope/data/vechtstromen.nl/all_subdomains.txt)|100|All found subdomains (history)|
 
@@ -70,7 +70,7 @@ tags: dutchgov
 |[https://enterpriseenrollment.vechtstromen.nl](https://enterpriseenrollment.vechtstromen.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||
 |[https://enterpriseregistration.vechtstromen.nl](https://enterpriseregistration.vechtstromen.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://geoweb.vechtstromen.nl](https://geoweb.vechtstromen.nl)| | **A**|Microsoft-IIS/10.0| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS IIS:10.0 Microsoft ASP.NET Windows Server|Document Moved|
-|[http://localhost.vechtstromen.nl](http://localhost.vechtstromen.nl)| | **D**|nginx| | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Nginx|Welcome to nginx...|
+|[http://localhost.vechtstromen.nl](http://localhost.vechtstromen.nl)| | **F**|nginx|:o: | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Laravel Nginx PHP|Weakpass|
 |[https://topdesk-test.vechtstromen.nl](https://topdesk-test.vechtstromen.nl)| | **F**|cloudflare| | | | | | | | :white_check_mark: | |Cloudflare|403 Forbidden|
 |[https://pop.vechtstromen.nl](https://pop.vechtstromen.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|404 Not Found|
 

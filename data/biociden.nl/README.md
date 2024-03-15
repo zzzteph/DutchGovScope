@@ -5,7 +5,7 @@
 
 
  - **SSL Grade**:A+
- - **HTTP Security Grade**:B
+ - **HTTP Security Grade**:C
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:2
 
 
@@ -23,5 +23,5 @@
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[https://www.biociden.nl](https://www.biociden.nl)| **A+**| **A**|Apache| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server Drupal HSTS PHP|Home | Biociden|
 |[https://biociden.nl](https://biociden.nl)| **A+**| **A**|Apache| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS|301 Moved Perman...|
-|[http://localhost.biociden.nl](http://localhost.biociden.nl)| | **D**|nginx| | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Nginx|Welcome to nginx...|
+|[http://localhost.biociden.nl](http://localhost.biociden.nl)| | **F**|nginx|:o: | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Laravel Nginx PHP|Weakpass|
 

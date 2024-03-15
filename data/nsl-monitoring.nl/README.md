@@ -5,7 +5,7 @@
 
 
  - **SSL Grade**:
- - **HTTP Security Grade**:D
+ - **HTTP Security Grade**:F
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:0
 
 
@@ -21,5 +21,5 @@
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[http://localhost.nsl-monitoring.nl](http://localhost.nsl-monitoring.nl)| | **D**|nginx| | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Nginx|Welcome to nginx...|
+|[http://localhost.nsl-monitoring.nl](http://localhost.nsl-monitoring.nl)| | **F**|nginx|:o: | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Laravel Nginx PHP|Weakpass|
 

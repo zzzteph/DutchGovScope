@@ -6,7 +6,7 @@ subdomains_count: 3
 all_subdomains_count: 3
 urls_count: 3
 ssl_rank: A+
-http_rank: B
+http_rank: C
 security_txt: 2
 url_link: /data/rijksvaccinatieprogramma.nl/urls.txt
 all_subdomains_link: /data/rijksvaccinatieprogramma.nl/all_subdomains.txt
@@ -21,7 +21,7 @@ tags: dutchgov
 
 
  - **SSL Grade**:A+
- - **HTTP Security Grade**:B
+ - **HTTP Security Grade**:C
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:2
 
 
@@ -39,5 +39,5 @@ tags: dutchgov
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[https://www.rijksvaccinatieprogramma.nl](https://www.rijksvaccinatieprogramma.nl)| **A+**| **A**|Apache| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS|301 Moved Perman...|
 |[https://rijksvaccinatieprogramma.nl](https://rijksvaccinatieprogramma.nl)| **A+**| **A**|Apache| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server Drupal HSTS PHP|Rijksvaccinatiep...|
-|[http://localhost.rijksvaccinatieprogramma.nl](http://localhost.rijksvaccinatieprogramma.nl)| | **D**|nginx| | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Nginx|Welcome to nginx...|
+|[http://localhost.rijksvaccinatieprogramma.nl](http://localhost.rijksvaccinatieprogramma.nl)| | **F**|nginx|:o: | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Laravel Nginx PHP|Weakpass|
 

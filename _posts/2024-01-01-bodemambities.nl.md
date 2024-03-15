@@ -40,5 +40,5 @@ tags: dutchgov
 |[http://acceptatie.zoek.bodemambities.nl](http://acceptatie.zoek.bodemambities.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://www.bodemambities.nl](https://www.bodemambities.nl)| **A+**| **A**|Apache| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server Drupal HSTS PHP|Bodemambities |...|
 |[https://bodemambities.nl](https://bodemambities.nl)| | **A**|Apache| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS|301 Moved Perman...|
-|[http://localhost.bodemambities.nl](http://localhost.bodemambities.nl)| | **D**|nginx| | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Nginx|Welcome to nginx...|
+|[http://localhost.bodemambities.nl](http://localhost.bodemambities.nl)| | **F**|nginx|:o: | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Laravel Nginx PHP|Weakpass|
 

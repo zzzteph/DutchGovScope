@@ -27,5 +27,5 @@
 |[https://risicotoolboxbodem.nl](https://risicotoolboxbodem.nl)| **A**| **D**||:warning: |:white_check_mark: | | | | | | :white_check_mark: | |||
 |[https://nieuwestoffen.risicotoolboxbodem.nl](https://nieuwestoffen.risicotoolboxbodem.nl)| **A+**| **C**|Microsoft-IIS/10.0| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS IIS:10.0 Microsoft ASP.NET Windows Server|- Nieuwe Stoffen|
 |[https://feedback.risicotoolboxbodem.nl](https://feedback.risicotoolboxbodem.nl)| **A+**| **C**|Microsoft-IIS/10.0| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS IIS:10.0 Microsoft ASP.NET Windows Server|- Nieuwe Stoffen|
-|[http://localhost.risicotoolboxbodem.nl](http://localhost.risicotoolboxbodem.nl)| | **D**|nginx| | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Nginx|Welcome to nginx...|
+|[http://localhost.risicotoolboxbodem.nl](http://localhost.risicotoolboxbodem.nl)| | **F**|nginx|:o: | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Laravel Nginx PHP|Weakpass|
 

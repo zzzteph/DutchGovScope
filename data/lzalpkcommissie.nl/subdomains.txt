@@ -2,3 +2,6 @@ feeds.lzalpkcommissie.nl
 lzalpkcommissie.nl
 opendata.lzalpkcommissie.nl
 www.lzalpkcommissie.nl
+a-feeds.lzalpkcommissie.nl
+a-opendata.lzalpkcommissie.nl
+a-www.lzalpkcommissie.nl

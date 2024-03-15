@@ -313,6 +313,17 @@ https://hulpopafstand.knaw.nl
 https://remotesupport.knaw.nl
 https://portus.knaw.nl
 https://repository.knaw.nl
+https://metadata-enhancer.labs.dans.knaw.nl
+https://packaging.labs.dans.knaw.nl
+https://vangogh-tiles.dev.huc.knaw.nl
+https://wp-14.dev.huc.knaw.nl
+https://facades.labs.dans.knaw.nl
+https://wp-11.dev.huc.knaw.nl
+https://databeheer.huygens.knaw.nl
+https://facades-conversion.labs.dans.knaw.nl
+https://oai-harvester.labs.dans.knaw.nl
+https://ga-wp3.sd.di.huc.knaw.nl
+https://facades-formats.labs.dans.knaw.nl
 https://minio2.labs.dans.knaw.nl
 https://wp-05.dev.huc.knaw.nl
 https://vangogh-api.dev.huc.knaw.nl

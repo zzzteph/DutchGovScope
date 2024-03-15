@@ -113,3 +113,4 @@ shared-services.staging.ndw.nu
 maps.staging.ndw.nu
 nls.staging.ndw.nu
 internal.ndw.nu
+design.staging.ndw.nu

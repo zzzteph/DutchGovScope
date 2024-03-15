@@ -5,7 +5,7 @@
 
 
  - **SSL Grade**:A+
- - **HTTP Security Grade**:B
+ - **HTTP Security Grade**:C
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:2
 
 
@@ -23,5 +23,5 @@
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[https://www.akkoordverbeteringproductsamenstelling.nl](https://www.akkoordverbeteringproductsamenstelling.nl)| **A+**| **A**|Apache| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server Drupal HSTS PHP|Akkoord verbeter...|
 |[https://akkoordverbeteringproductsamenstelling.nl](https://akkoordverbeteringproductsamenstelling.nl)| | **A**|Apache| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS|301 Moved Perman...|
-|[http://localhost.akkoordverbeteringproductsamenstelling.nl](http://localhost.akkoordverbeteringproductsamenstelling.nl)| | **D**|nginx| | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Nginx|Welcome to nginx...|
+|[http://localhost.akkoordverbeteringproductsamenstelling.nl](http://localhost.akkoordverbeteringproductsamenstelling.nl)| | **F**|nginx|:o: | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Laravel Nginx PHP|Weakpass|
 

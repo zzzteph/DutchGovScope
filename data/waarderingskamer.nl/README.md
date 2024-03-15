@@ -12,7 +12,7 @@
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/waarderingskamer.nl/subdomains.txt)|25|Alive subdomains|
-|[urls.txt](/data/waarderingskamer.nl/urls.txt)|12|Urls|
+|[urls.txt](/data/waarderingskamer.nl/urls.txt)|13|Urls|
 |[all_subdomains.txt](/data/waarderingskamer.nl/all_subdomains.txt)|52|All found subdomains (history)|
 
 
@@ -33,4 +33,5 @@
 |[https://scim.waarderingskamer.nl](https://scim.waarderingskamer.nl)| **A**| **B**|| | | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |||
 |[https://search.waarderingskamer.nl](https://search.waarderingskamer.nl)| **A+**| **B**|nginx| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS Nginx||
 |[https://acceptatie.waarderingskamer.nl](https://acceptatie.waarderingskamer.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |HSTS Nginx|403 Forbidden|
+|[http://testnoc.waarderingskamer.nl](http://testnoc.waarderingskamer.nl)| | **F**|nginx|:o: | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Laravel Nginx PHP|Weakpass|
 

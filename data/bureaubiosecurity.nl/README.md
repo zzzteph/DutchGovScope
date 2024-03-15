@@ -5,7 +5,7 @@
 
 
  - **SSL Grade**:A+
- - **HTTP Security Grade**:B
+ - **HTTP Security Grade**:C
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:2
 
 
@@ -24,5 +24,5 @@
 |[https://cms.bureaubiosecurity.nl](https://cms.bureaubiosecurity.nl)| **A+**| **C**|nginx| |:white_check_mark: | :warning:| | | :white_check_mark: | | :white_check_mark: | |Drupal HSTS Nginx PHP|Redirecting to h...|
 |[https://www.bureaubiosecurity.nl](https://www.bureaubiosecurity.nl)| **A+**| **A**|Apache| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server Drupal HSTS PHP|Bureau Biosecuri...|
 |[https://bureaubiosecurity.nl](https://bureaubiosecurity.nl)| **A+**| **A**|Apache| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS|301 Moved Perman...|
-|[http://localhost.bureaubiosecurity.nl](http://localhost.bureaubiosecurity.nl)| | **D**|nginx| | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Nginx|Welcome to nginx...|
+|[http://localhost.bureaubiosecurity.nl](http://localhost.bureaubiosecurity.nl)| | **F**|nginx|:o: | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Laravel Nginx PHP|Weakpass|
 

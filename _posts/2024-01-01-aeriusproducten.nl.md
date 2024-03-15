@@ -2,7 +2,7 @@
 layout: default
 title: "aeriusproducten.nl"
 permalink: "/dutchgov/aeriusproducten.nl.html"
-subdomains_count: 3
+subdomains_count: 10
 all_subdomains_count: 10
 urls_count: 0
 ssl_rank: 
@@ -27,7 +27,7 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/aeriusproducten.nl/subdomains.txt)|3|Alive subdomains|
+|[subdomains.txt](/DutchGovScope/data/aeriusproducten.nl/subdomains.txt)|10|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/aeriusproducten.nl/urls.txt)|0|Urls|
 |[all_subdomains.txt](/DutchGovScope/data/aeriusproducten.nl/all_subdomains.txt)|10|All found subdomains (history)|
 

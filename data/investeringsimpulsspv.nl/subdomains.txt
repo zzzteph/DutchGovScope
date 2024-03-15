@@ -1,4 +1,3 @@
 www.investeringsimpulsspv.nl
-hostmaster.investeringsimpulsspv.nl
 mail.investeringsimpulsspv.nl
 investeringsimpulsspv.nl

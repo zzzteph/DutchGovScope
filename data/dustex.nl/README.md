@@ -13,7 +13,7 @@
 |------------|-------|------|
 |[subdomains.txt](/data/dustex.nl/subdomains.txt)|3|Alive subdomains|
 |[urls.txt](/data/dustex.nl/urls.txt)|2|Urls|
-|[all_subdomains.txt](/data/dustex.nl/all_subdomains.txt)|4|All found subdomains (history)|
+|[all_subdomains.txt](/data/dustex.nl/all_subdomains.txt)|6|All found subdomains (history)|
 
 
 ## Statistics

@@ -1,2 +1,3 @@
 manifestgroep.nl
 www.manifestgroep.nl
+autodiscover.manifestgroep.nl

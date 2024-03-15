@@ -11,7 +11,7 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/waterschaplimburg.nl/subdomains.txt)|378|Alive subdomains|
+|[subdomains.txt](/data/waterschaplimburg.nl/subdomains.txt)|471|Alive subdomains|
 |[urls.txt](/data/waterschaplimburg.nl/urls.txt)|263|Urls|
 |[all_subdomains.txt](/data/waterschaplimburg.nl/all_subdomains.txt)|474|All found subdomains (history)|
 

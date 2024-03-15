@@ -13,7 +13,7 @@
 |------------|-------|------|
 |[subdomains.txt](/data/rijksapplicaties.nl/subdomains.txt)|262|Alive subdomains|
 |[urls.txt](/data/rijksapplicaties.nl/urls.txt)|222|Urls|
-|[all_subdomains.txt](/data/rijksapplicaties.nl/all_subdomains.txt)|325|All found subdomains (history)|
+|[all_subdomains.txt](/data/rijksapplicaties.nl/all_subdomains.txt)|328|All found subdomains (history)|
 
 
 ## Statistics

@@ -11,7 +11,7 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/digitalenoordzee.nl/subdomains.txt)|8|Alive subdomains|
+|[subdomains.txt](/data/digitalenoordzee.nl/subdomains.txt)|11|Alive subdomains|
 |[urls.txt](/data/digitalenoordzee.nl/urls.txt)|0|Urls|
 |[all_subdomains.txt](/data/digitalenoordzee.nl/all_subdomains.txt)|15|All found subdomains (history)|
 

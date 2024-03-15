@@ -1,3 +1,10 @@
 www.aeriusproducten.nl
 aeriusproducten.nl
 feeds.aeriusproducten.nl
+opendata.aeriusproducten.nl
+a-opendata.aeriusproducten.nl
+a-www.aeriusproducten.nl
+a-feeds.aeriusproducten.nl
+i-www.aeriusproducten.nl
+o-www.aeriusproducten.nl
+t-www.aeriusproducten.nl

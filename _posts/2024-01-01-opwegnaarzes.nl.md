@@ -46,5 +46,5 @@ tags: dutchgov
 |[http://autodiscover.opwegnaarzes.nl](http://autodiscover.opwegnaarzes.nl)| | **B**|Microsoft-IIS/10.0|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server||
 |[https://enterpriseenrollment.opwegnaarzes.nl](https://enterpriseenrollment.opwegnaarzes.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||
 |[https://enterpriseregistration.opwegnaarzes.nl](https://enterpriseregistration.opwegnaarzes.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
-|[http://pm-bounces.opwegnaarzes.nl](http://pm-bounces.opwegnaarzes.nl)| | **F**|nginx/1.25.3| | | | | | | | :white_check_mark: | |Nginx:1.25.3|Postmark — Email...|
+|[http://pm-bounces.opwegnaarzes.nl](http://pm-bounces.opwegnaarzes.nl)| | **F**|nginx/1.25.4| | | | | | | | :white_check_mark: | |Nginx:1.25.4|Postmark — Email...|
 

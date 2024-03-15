@@ -11,7 +11,7 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/komuitjeschuld.nl/subdomains.txt)|7|Alive subdomains|
+|[subdomains.txt](/data/komuitjeschuld.nl/subdomains.txt)|4|Alive subdomains|
 |[urls.txt](/data/komuitjeschuld.nl/urls.txt)|4|Urls|
 |[all_subdomains.txt](/data/komuitjeschuld.nl/all_subdomains.txt)|14|All found subdomains (history)|
 

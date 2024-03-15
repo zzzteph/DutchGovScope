@@ -140,3 +140,5 @@ ns.confluence.odc-noord.nl
 ns02.confluence.odc-noord.nl
 vpn.gn2.acc.odc-noord.nl
 login-gn3.odc-noord.nl
+ns01.jira.odc-noord.nl
+ns.jira.odc-noord.nl

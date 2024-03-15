@@ -12,7 +12,7 @@
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/istandaarden.nl/subdomains.txt)|15|Alive subdomains|
-|[urls.txt](/data/istandaarden.nl/urls.txt)|15|Urls|
+|[urls.txt](/data/istandaarden.nl/urls.txt)|14|Urls|
 |[all_subdomains.txt](/data/istandaarden.nl/all_subdomains.txt)|30|All found subdomains (history)|
 
 
@@ -34,6 +34,5 @@
 |[https://istandaarden.nl](https://istandaarden.nl)| **A+**| **B**|Apache|:white_check_mark: |:white_check_mark: | | |:warning: | | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS|301 Moved Perman...|
 |[https://registry.acceptatie.istandaarden.nl](https://registry.acceptatie.istandaarden.nl)| **A**| **F**|istio-envoy| | | | | | | | :white_check_mark: | |Envoy||
 |[https://repository.acceptatie.istandaarden.nl](https://repository.acceptatie.istandaarden.nl)| **A**| **C**|istio-envoy|:white_check_mark: | | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Envoy||
-|[https://ftp.istandaarden.nl](https://ftp.istandaarden.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||
-|[http://pm-bounces.istandaarden.nl](http://pm-bounces.istandaarden.nl)| | **F**|nginx/1.25.3| | | | | | | | :white_check_mark: | |Nginx:1.25.3|Postmark — Email...|
+|[http://pm-bounces.istandaarden.nl](http://pm-bounces.istandaarden.nl)| | **F**|nginx/1.25.4| | | | | | | | :white_check_mark: | |Nginx:1.25.4|Postmark — Email...|
 

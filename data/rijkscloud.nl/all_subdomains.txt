@@ -729,3 +729,11 @@ vpn03.ec.rijkscloud.nl
 api-performance.test.ix.rijkscloud.nl
 kit-art.cvr.rvb.rijkscloud.nl
 kit-demo.cvr.rvb.rijkscloud.nl
+diplomaonderzoek.dfront.rijkscloud.nl
+steppingstone.dfront.rijkscloud.nl
+particulier.dfront.rijkscloud.nl
+vpn.ctf.rijkscloud.nl
+ipa2.ec.rijkscloud.nl
+elk.dgdoobi.rijkscloud.nl
+afwijkend-examineren.dfront.rijkscloud.nl
+shinyproxy.bdds.rijkscloud.nl

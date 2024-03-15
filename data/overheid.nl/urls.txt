@@ -1,7 +1,6 @@
 https://acc-internationaal.ondernemen.overheid.nl
 https://acc.omgevingswet.overheid.nl
 https://afval.omgevingswet.overheid.nl
-https://afval.pre.omgevingswet.overheid.nl
 https://algoritme.overheid.nl
 https://algoritmen.overheid.nl
 https://algoritmes.overheid.nl
@@ -33,9 +32,7 @@ https://beheerportaal.tst2905.omgevingswet.overheid.nl
 http://beta.overheid.nl
 https://bgt.basisregistraties.overheid.nl
 https://bodem-ondergrond.omgevingswet.overheid.nl
-https://bodem-ondergrond.pre.omgevingswet.overheid.nl
 https://bouw.omgevingswet.overheid.nl
-https://bouw.pre.omgevingswet.overheid.nl
 https://brk.basisregistraties.overheid.nl
 https://brk.test.basisregistraties.overheid.nl
 https://brt.basisregistraties.overheid.nl
@@ -51,12 +48,10 @@ https://componenten.overheid.nl
 https://componenten-acc.overheid.nl
 https://componenten-tst.overheid.nl
 https://content.omgevingswet.overheid.nl
-https://content.pre.omgevingswet.overheid.nl
 https://contentbeheer.acc.omgevingswet.overheid.nl
 https://contentbeheer.omgevingswet.overheid.nl
 https://contentbeheer.tst.omgevingswet.overheid.nl
 https://cultureel-erfgoed.omgevingswet.overheid.nl
-https://cultureel-erfgoed.pre.omgevingswet.overheid.nl
 https://cursus.drop.overheid.nl
 https://data.overheid.nl
 https://decentrale.regelgeving.overheid.nl
@@ -74,7 +69,6 @@ https://ebms.contentbeheer.omgevingswet.overheid.nl
 https://ebms.service.bta.omgevingswet.overheid.nl
 https://enabling.omgevingswet.overheid.nl
 https://externe-veiligheid.omgevingswet.overheid.nl
-https://externe-veiligheid.pre.omgevingswet.overheid.nl
 https://feature-105-edge-z1vq9x.review.developer.overheid.nl
 https://forum.developer.overheid.nl
 https://gegevensdelen.mijn.overheid.nl
@@ -110,7 +104,6 @@ https://mfa.koop.overheid.nl
 https://mijn.overheid.nl
 https://mnd.overheid.nl
 https://natuur.omgevingswet.overheid.nl
-https://natuur.pre.omgevingswet.overheid.nl
 https://omgevingswet.overheid.nl
 https://ondertekeningsviewer.overheid.nl
 https://open.overheid.nl
@@ -160,7 +153,6 @@ https://renvooiservice.overheid.nl
 https://renvooiservice-eto.overheid.nl
 https://repository.overheid.nl
 https://repository-eto.overheid.nl
-https://ruimte.acc.omgevingswet.overheid.nl
 https://ruimte.dmo.omgevingswet.overheid.nl
 https://ruimte.int.omgevingswet.overheid.nl
 https://ruimte.kta.omgevingswet.overheid.nl
@@ -208,7 +200,6 @@ https://standaarden.overheid.nl
 https://standaarden-acc.overheid.nl
 https://standaarden-tst.overheid.nl
 https://standaarden.omgevingswet.overheid.nl
-https://standaarden.pre.omgevingswet.overheid.nl
 https://static.demo.mijn.overheid.nl
 https://static.mijn.overheid.nl
 https://static.preprod.mijn.overheid.nl
@@ -242,7 +233,6 @@ https://verdragenbank-acc.overheid.nl
 https://verkeersbesluiten.overheid.nl
 https://vpn.koop.overheid.nl
 https://water.omgevingswet.overheid.nl
-https://water.pre.omgevingswet.overheid.nl
 https://wetgeving.omgevingswet.overheid.nl
 https://wetgeving.pre.omgevingswet.overheid.nl
 https://wetgevingskalender.overheid.nl

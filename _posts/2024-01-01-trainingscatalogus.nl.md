@@ -2,8 +2,8 @@
 layout: default
 title: "trainingscatalogus.nl"
 permalink: "/dutchgov/trainingscatalogus.nl.html"
-subdomains_count: 128
-all_subdomains_count: 145
+subdomains_count: 135
+all_subdomains_count: 147
 urls_count: 98
 ssl_rank: A+
 http_rank: B
@@ -27,9 +27,9 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/trainingscatalogus.nl/subdomains.txt)|128|Alive subdomains|
+|[subdomains.txt](/DutchGovScope/data/trainingscatalogus.nl/subdomains.txt)|135|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/trainingscatalogus.nl/urls.txt)|98|Urls|
-|[all_subdomains.txt](/DutchGovScope/data/trainingscatalogus.nl/all_subdomains.txt)|145|All found subdomains (history)|
+|[all_subdomains.txt](/DutchGovScope/data/trainingscatalogus.nl/all_subdomains.txt)|147|All found subdomains (history)|
 
 
 ## Statistics
@@ -107,7 +107,7 @@ tags: dutchgov
 |[https://ciz.trainingscatalogus.nl](https://ciz.trainingscatalogus.nl)| | **C**|Class|:white_check_mark: |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://archipel.trainingscatalogus.nl](https://archipel.trainingscatalogus.nl)| | **C**|Class|:white_check_mark: |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://ez.trainingscatalogus.nl](https://ez.trainingscatalogus.nl)| | **B**|Class|:white_check_mark: |:white_check_mark: | | |:warning: | | :white_check_mark: | :white_check_mark: | |HSTS||
-|[https://ncsc.trainingscatalogus.nl](https://ncsc.trainingscatalogus.nl)| | **B**|Class|:white_check_mark: |:white_check_mark: | | |:warning: | | :white_check_mark: | :white_check_mark: | |HSTS||
+|[http://ncsc.trainingscatalogus.nl](http://ncsc.trainingscatalogus.nl)| | **B**|Microsoft-Azure-Application-Gateway/v2|:white_check_mark: |:white_check_mark: | | |:warning: | | :white_check_mark: | :white_check_mark: | |HSTS|301 Moved Perman...|
 |[https://cjib.trainingscatalogus.nl](https://cjib.trainingscatalogus.nl)| | **B**|Class|:white_check_mark: |:white_check_mark: | | |:warning: | | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://demo.trainingscatalogus.nl](https://demo.trainingscatalogus.nl)| | **C**|Class|:white_check_mark: |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://jio.trainingscatalogus.nl](https://jio.trainingscatalogus.nl)| | **B**|Class|:white_check_mark: |:white_check_mark: | | |:warning: | | :white_check_mark: | :white_check_mark: | |HSTS||

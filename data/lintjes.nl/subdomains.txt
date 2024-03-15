@@ -2,7 +2,6 @@ feeds.lintjes.nl
 lintjes.nl
 opendata.lintjes.nl
 www.lintjes.nl
-jaarverslag2018.lintjes.nl
 a-feeds.lintjes.nl
 a-opendata.lintjes.nl
 a-www.lintjes.nl

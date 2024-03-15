@@ -31,7 +31,6 @@ https://cia.ondernemersplein.kvk.nl
 https://msoid.kvk.nl
 https://ondertekenen.kvk.nl
 https://static.kvk.nl
-https://tdep.kvk.nl
 https://api.ondernemersplein.kvk.nl
 https://vpn.kvk.nl
 https://ondernemerspanel.kvk.nl

@@ -13,7 +13,7 @@
 |------------|-------|------|
 |[subdomains.txt](/data/acm.nl/subdomains.txt)|56|Alive subdomains|
 |[urls.txt](/data/acm.nl/urls.txt)|23|Urls|
-|[all_subdomains.txt](/data/acm.nl/all_subdomains.txt)|84|All found subdomains (history)|
+|[all_subdomains.txt](/data/acm.nl/all_subdomains.txt)|86|All found subdomains (history)|
 
 
 ## Statistics

@@ -2,9 +2,9 @@
 layout: default
 title: "samenwerkenaanontwerpkracht.nl"
 permalink: "/dutchgov/samenwerkenaanontwerpkracht.nl.html"
-subdomains_count: 2
+subdomains_count: 0
 all_subdomains_count: 2
-urls_count: 2
+urls_count: 0
 ssl_rank: 
 http_rank: F
 security_txt: 0
@@ -27,8 +27,8 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/samenwerkenaanontwerpkracht.nl/subdomains.txt)|2|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/samenwerkenaanontwerpkracht.nl/urls.txt)|2|Urls|
+|[subdomains.txt](/DutchGovScope/data/samenwerkenaanontwerpkracht.nl/subdomains.txt)|0|Alive subdomains|
+|[urls.txt](/DutchGovScope/data/samenwerkenaanontwerpkracht.nl/urls.txt)|0|Urls|
 |[all_subdomains.txt](/DutchGovScope/data/samenwerkenaanontwerpkracht.nl/all_subdomains.txt)|2|All found subdomains (history)|
 
 
@@ -37,6 +37,4 @@ tags: dutchgov
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://www.samenwerkenaanontwerpkracht.nl](https://www.samenwerkenaanontwerpkracht.nl)| **F**| **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|Domein niet gevo...|
-|[https://samenwerkenaanontwerpkracht.nl](https://samenwerkenaanontwerpkracht.nl)| **F**| **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|Domein niet gevo...|
 

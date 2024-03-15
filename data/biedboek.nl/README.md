@@ -11,7 +11,7 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/biedboek.nl/subdomains.txt)|430|Alive subdomains|
+|[subdomains.txt](/data/biedboek.nl/subdomains.txt)|1644|Alive subdomains|
 |[urls.txt](/data/biedboek.nl/urls.txt)|148|Urls|
 |[all_subdomains.txt](/data/biedboek.nl/all_subdomains.txt)|1644|All found subdomains (history)|
 
@@ -167,6 +167,6 @@
 |[http://autodiscover.biedboek.nl](http://autodiscover.biedboek.nl)| | **B**|Microsoft-IIS/10.0|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server||
 |[https://enterpriseenrollment.biedboek.nl](https://enterpriseenrollment.biedboek.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||
 |[https://enterpriseregistration.biedboek.nl](https://enterpriseregistration.biedboek.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
-|[http://localhost.biedboek.nl](http://localhost.biedboek.nl)| | **D**|nginx| | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Nginx|Welcome to nginx...|
+|[http://localhost.biedboek.nl](http://localhost.biedboek.nl)| | **F**|nginx|:o: | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Laravel Nginx PHP|Weakpass|
 |[https://msoid.biedboek.nl](https://msoid.biedboek.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Object moved|
 

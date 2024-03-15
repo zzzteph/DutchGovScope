@@ -2,7 +2,7 @@
 layout: default
 title: "komuitjeschuld.nl"
 permalink: "/dutchgov/komuitjeschuld.nl.html"
-subdomains_count: 7
+subdomains_count: 4
 all_subdomains_count: 14
 urls_count: 4
 ssl_rank: A+
@@ -27,7 +27,7 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/komuitjeschuld.nl/subdomains.txt)|7|Alive subdomains|
+|[subdomains.txt](/DutchGovScope/data/komuitjeschuld.nl/subdomains.txt)|4|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/komuitjeschuld.nl/urls.txt)|4|Urls|
 |[all_subdomains.txt](/DutchGovScope/data/komuitjeschuld.nl/all_subdomains.txt)|14|All found subdomains (history)|
 

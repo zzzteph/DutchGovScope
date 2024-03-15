@@ -12,7 +12,7 @@
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/kvk.nl/subdomains.txt)|204|Alive subdomains|
-|[urls.txt](/data/kvk.nl/urls.txt)|60|Urls|
+|[urls.txt](/data/kvk.nl/urls.txt)|59|Urls|
 |[all_subdomains.txt](/data/kvk.nl/all_subdomains.txt)|490|All found subdomains (history)|
 
 
@@ -54,7 +54,6 @@
 |[https://msoid.kvk.nl](https://msoid.kvk.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Object moved|
 |[https://ondertekenen.kvk.nl](https://ondertekenen.kvk.nl)| **A+**| **B**|nginx| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS Nginx||
 |[https://static.kvk.nl](https://static.kvk.nl)| **A+**| **C**|| |:white_check_mark: | :warning:| | | | | :white_check_mark: | |HSTS|403 - Forbidden:...|
-|[https://tdep.kvk.nl](https://tdep.kvk.nl)| **A+**| **A**|nginx| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS Nginx||
 |[https://api.ondernemersplein.kvk.nl](https://api.ondernemersplein.kvk.nl)| **A+**| **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
 |[https://vpn.kvk.nl](https://vpn.kvk.nl)| **B**| **A**||:warning: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://ondernemerspanel.kvk.nl](https://ondernemerspanel.kvk.nl)| **A+**| **A**||:warning: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Ondernemerspanel|

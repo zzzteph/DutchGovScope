@@ -5,7 +5,7 @@
 
 
  - **SSL Grade**:A+
- - **HTTP Security Grade**:A
+ - **HTTP Security Grade**:B
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:2
 
 
@@ -23,5 +23,5 @@
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[https://sso-ict.nl](https://sso-ict.nl)| **A+**| **A**|Microsoft-IIS/10.0| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS IIS:10.0 Windows Server|Document Moved|
 |[https://www.sso-ict.nl](https://www.sso-ict.nl)| **A+**| **A**|Microsoft-IIS/10.0| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS IIS:10.0 Windows Server|Document Moved|
-|[http://localhost.sso-ict.nl](http://localhost.sso-ict.nl)| | **D**|nginx| | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Nginx|Welcome to nginx...|
+|[http://localhost.sso-ict.nl](http://localhost.sso-ict.nl)| | **F**|nginx|:o: | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Laravel Nginx PHP|Weakpass|
 

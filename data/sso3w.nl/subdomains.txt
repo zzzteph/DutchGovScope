@@ -23,3 +23,4 @@ a-opendata.a-english.sso3w.nl
 a-www.sso3w.nl
 a-opendata.sso3w.nl
 cmv-opdrachtgever.sso3w.nl
+esb.btp.sso3w.nl

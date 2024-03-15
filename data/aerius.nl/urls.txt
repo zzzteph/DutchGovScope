@@ -21,7 +21,7 @@ https://auth-register-dev.aerius.nl
 https://link.aerius.nl
 https://auth-register-gat.aerius.nl
 https://docs-dev.aerius.nl
-https://docs-staging.aerius.nl
+http://docs-staging.aerius.nl
 https://grafana-dev.aerius.nl
 https://link.pr.aerius.nl
 https://mail.pr.aerius.nl

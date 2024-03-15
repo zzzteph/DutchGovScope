@@ -11,7 +11,7 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/amlc.nl/subdomains.txt)|4|Alive subdomains|
+|[subdomains.txt](/data/amlc.nl/subdomains.txt)|5|Alive subdomains|
 |[urls.txt](/data/amlc.nl/urls.txt)|4|Urls|
 |[all_subdomains.txt](/data/amlc.nl/all_subdomains.txt)|5|All found subdomains (history)|
 

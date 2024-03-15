@@ -68,7 +68,7 @@ https://buza.trainingscatalogus.nl
 https://ciz.trainingscatalogus.nl
 https://archipel.trainingscatalogus.nl
 https://ez.trainingscatalogus.nl
-https://ncsc.trainingscatalogus.nl
+http://ncsc.trainingscatalogus.nl
 https://cjib.trainingscatalogus.nl
 https://demo.trainingscatalogus.nl
 https://jio.trainingscatalogus.nl

@@ -39,5 +39,5 @@ tags: dutchgov
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[https://www.registerexterneveiligheid.nl](https://www.registerexterneveiligheid.nl)| **A+**| **B**|Apache| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server Drupal HSTS PHP SDL Tridion|Register Externe...|
 |[https://registerexterneveiligheid.nl](https://registerexterneveiligheid.nl)| **A+**| **B**|Apache| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS|301 Moved Perman...|
-|[http://localhost.registerexterneveiligheid.nl](http://localhost.registerexterneveiligheid.nl)| | **D**|nginx| | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Nginx|Welcome to nginx...|
+|[http://localhost.registerexterneveiligheid.nl](http://localhost.registerexterneveiligheid.nl)| | **F**|nginx|:o: | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Laravel Nginx PHP|Weakpass|
 

@@ -11,7 +11,7 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/hansken.org/subdomains.txt)|9|Alive subdomains|
+|[subdomains.txt](/data/hansken.org/subdomains.txt)|12|Alive subdomains|
 |[urls.txt](/data/hansken.org/urls.txt)|9|Urls|
 |[all_subdomains.txt](/data/hansken.org/all_subdomains.txt)|15|All found subdomains (history)|
 

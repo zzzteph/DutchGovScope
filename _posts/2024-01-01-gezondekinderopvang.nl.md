@@ -42,5 +42,5 @@ tags: dutchgov
 |[http://test.gezondekinderopvang.nl](http://test.gezondekinderopvang.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://www.gezondekinderopvang.nl](https://www.gezondekinderopvang.nl)| **A+**| **A**|Apache| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server Drupal HSTS PHP|Home | Gezonde K...|
 |[https://gezondekinderopvang.nl](https://gezondekinderopvang.nl)| **A+**| **A**|Apache| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS|301 Moved Perman...|
-|[http://localhost.gezondekinderopvang.nl](http://localhost.gezondekinderopvang.nl)| | **D**|nginx| | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Nginx|Welcome to nginx...|
+|[http://localhost.gezondekinderopvang.nl](http://localhost.gezondekinderopvang.nl)| | **F**|nginx|:o: | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Laravel Nginx PHP|Weakpass|
 

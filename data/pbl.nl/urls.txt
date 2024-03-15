@@ -20,4 +20,3 @@ https://pbl.nl
 https://mailings.pbl.nl
 https://mail.pbl.nl
 https://msoid.pbl.nl
-http://prd-www.pbl.nl

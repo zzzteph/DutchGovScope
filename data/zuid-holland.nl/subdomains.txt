@@ -44,7 +44,6 @@ dataloket.zuid-holland.nl
 geodata.zuid-holland.nl
 geoservices.zuid-holland.nl
 beterwordenvancorona.zuid-holland.nl
-zonnewijzer.zuid-holland.nl
 geo-fms.zuid-holland.nl
 nieuwsbrief.zuid-holland.nl
 lta.zuid-holland.nl

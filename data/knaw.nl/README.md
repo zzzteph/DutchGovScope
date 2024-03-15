@@ -11,8 +11,8 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/knaw.nl/subdomains.txt)|1379|Alive subdomains|
-|[urls.txt](/data/knaw.nl/urls.txt)|320|Urls|
+|[subdomains.txt](/data/knaw.nl/subdomains.txt)|1381|Alive subdomains|
+|[urls.txt](/data/knaw.nl/urls.txt)|331|Urls|
 |[all_subdomains.txt](/data/knaw.nl/all_subdomains.txt)|1836|All found subdomains (history)|
 
 
@@ -336,6 +336,17 @@
 |[https://remotesupport.knaw.nl](https://remotesupport.knaw.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |HSTS Matomo Analytics Nginx|Sign in - Matomo|
 |[https://portus.knaw.nl](https://portus.knaw.nl)| | **A**|Apache|:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS|- Portus|
 |[https://repository.knaw.nl](https://repository.knaw.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Ivanti(R) Cloud...|
+|[https://metadata-enhancer.labs.dans.knaw.nl](https://metadata-enhancer.labs.dans.knaw.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
+|[https://packaging.labs.dans.knaw.nl](https://packaging.labs.dans.knaw.nl)| | **F**|uvicorn| | | | | | | | :white_check_mark: | |Python Uvicorn||
+|[https://vangogh-tiles.dev.huc.knaw.nl](https://vangogh-tiles.dev.huc.knaw.nl)| | **F**|Apache/2.4.41 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.41 Ubuntu|Unauthorized|
+|[https://wp-14.dev.huc.knaw.nl](https://wp-14.dev.huc.knaw.nl)| | **F**|Apache/2.4.41 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.41 Ubuntu|Unauthorized|
+|[https://facades.labs.dans.knaw.nl](https://facades.labs.dans.knaw.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
+|[https://wp-11.dev.huc.knaw.nl](https://wp-11.dev.huc.knaw.nl)| | **F**|Apache/2.4.41 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.41 Ubuntu|Unauthorized|
+|[https://databeheer.huygens.knaw.nl](https://databeheer.huygens.knaw.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server Google Tag Manager MySQL PHP WordPress|Het Nationale Le...|
+|[https://facades-conversion.labs.dans.knaw.nl](https://facades-conversion.labs.dans.knaw.nl)| | **F**|uvicorn| | | | | | | | :white_check_mark: | |Python Uvicorn||
+|[https://oai-harvester.labs.dans.knaw.nl](https://oai-harvester.labs.dans.knaw.nl)| | **F**|uvicorn| | | | | | | | :white_check_mark: | |Python Uvicorn||
+|[https://ga-wp3.sd.di.huc.knaw.nl](https://ga-wp3.sd.di.huc.knaw.nl)| | **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Nginx|Golden Agents |...|
+|[https://facades-formats.labs.dans.knaw.nl](https://facades-formats.labs.dans.knaw.nl)| | **F**|uvicorn| | | | | | | | :white_check_mark: | |Python Uvicorn||
 |[https://minio2.labs.dans.knaw.nl](https://minio2.labs.dans.knaw.nl)| | **D**|MinIO Console| | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | ||MinIO Console|
 |[https://wp-05.dev.huc.knaw.nl](https://wp-05.dev.huc.knaw.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |HSTS Nginx|404 Not Found|
 |[https://vangogh-api.dev.huc.knaw.nl](https://vangogh-api.dev.huc.knaw.nl)| | **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Nginx|403 Forbidden|

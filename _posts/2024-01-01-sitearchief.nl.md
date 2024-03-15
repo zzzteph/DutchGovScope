@@ -4,10 +4,10 @@ title: "sitearchief.nl"
 permalink: "/dutchgov/sitearchief.nl.html"
 subdomains_count: 127
 all_subdomains_count: 127
-urls_count: 94
+urls_count: 127
 ssl_rank: A+
 http_rank: A
-security_txt: 63
+security_txt: 93
 url_link: /data/sitearchief.nl/urls.txt
 all_subdomains_link: /data/sitearchief.nl/all_subdomains.txt
 subdomains_link: /data/sitearchief.nl/subdomains.txt
@@ -22,13 +22,13 @@ tags: dutchgov
 
  - **SSL Grade**:A+
  - **HTTP Security Grade**:A
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:63
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:93
 
 
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/DutchGovScope/data/sitearchief.nl/subdomains.txt)|127|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/sitearchief.nl/urls.txt)|94|Urls|
+|[urls.txt](/DutchGovScope/data/sitearchief.nl/urls.txt)|127|Urls|
 |[all_subdomains.txt](/DutchGovScope/data/sitearchief.nl/all_subdomains.txt)|127|All found subdomains (history)|
 
 
@@ -131,4 +131,37 @@ tags: dutchgov
 |[https://minbuza.sitearchief.nl](https://minbuza.sitearchief.nl)| | **A**|nginx|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx|Sitearchief - Mi...|
 |[https://onderwijsinspectie.sitearchief.nl](https://onderwijsinspectie.sitearchief.nl)| | **A**|nginx|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx|Sitearchief - In...|
 |[https://lintjes.sitearchief.nl](https://lintjes.sitearchief.nl)| | **A**|nginx|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx|Sitearchief - Ka...|
+|[https://autoriteitnvs.sitearchief.nl](https://autoriteitnvs.sitearchief.nl)| | **A**|nginx|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx|Sitearchief - Au...|
+|[https://dienstterugkeerenvertrek.sitearchief.nl](https://dienstterugkeerenvertrek.sitearchief.nl)| | **A**|nginx|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx|Sitearchief - Di...|
+|[https://dienstuitvoeringonderwijs.sitearchief.nl](https://dienstuitvoeringonderwijs.sitearchief.nl)| | **A**|nginx|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx|Sitearchief - Di...|
+|[https://staatsbosbeheer.sitearchief.nl](https://staatsbosbeheer.sitearchief.nl)| | **A**|nginx|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx|Sitearchief - St...|
+|[https://diensttoeslagen.sitearchief.nl](https://diensttoeslagen.sitearchief.nl)| | **A**|nginx|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx|Sitearchief - Di...|
+|[https://awti.sitearchief.nl](https://awti.sitearchief.nl)| | **A**|nginx|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx|Sitearchief - AW...|
+|[https://archief53.sitearchief.nl](https://archief53.sitearchief.nl)| | **B**|nginx/1.25.4| |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | |HSTS Nginx:1.25.4|HTTP Status 404...|
+|[https://imagineminienm1.sitearchief.nl](https://imagineminienm1.sitearchief.nl)| | **A**|nginx|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx|Sitearchief - iM...|
+|[https://ccmo.sitearchief.nl](https://ccmo.sitearchief.nl)| | **A**|nginx|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx|Sitearchief - Ce...|
+|[https://dopingautoriteit.sitearchief.nl](https://dopingautoriteit.sitearchief.nl)| | **A**|nginx|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx|Sitearchief - Do...|
+|[https://nationaleombudsman.sitearchief.nl](https://nationaleombudsman.sitearchief.nl)| | **A**|nginx|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx|Sitearchief - Na...|
+|[https://dus-i.sitearchief.nl](https://dus-i.sitearchief.nl)| | **A**|nginx|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx|Sitearchief - DU...|
+|[https://justid.sitearchief.nl](https://justid.sitearchief.nl)| | **A**|nginx|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx|Sitearchief - Ju...|
+|[https://raadrvs.sitearchief.nl](https://raadrvs.sitearchief.nl)| | **A**|nginx|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx|Sitearchief - Ra...|
+|[https://kabinetkoning.sitearchief.nl](https://kabinetkoning.sitearchief.nl)| | **A**|nginx|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx|Sitearchief - Ka...|
+|[https://hogeraad.sitearchief.nl](https://hogeraad.sitearchief.nl)| | **A**|nginx|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx|Sitearchief - Ho...|
+|[https://kiesraad.sitearchief.nl](https://kiesraad.sitearchief.nl)| | **A**|nginx|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx|Sitearchief - Ki...|
+|[https://aivd.sitearchief.nl](https://aivd.sitearchief.nl)| | **A**|nginx|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx|Sitearchief - AI...|
+|[https://inspectie-oe.sitearchief.nl](https://inspectie-oe.sitearchief.nl)| | **A**|nginx|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx|Sitearchief - In...|
+|[https://kinderbescherming.sitearchief.nl](https://kinderbescherming.sitearchief.nl)| | **A**|nginx|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx|Sitearchief - ki...|
+|[https://raadvanstate.sitearchief.nl](https://raadvanstate.sitearchief.nl)| | **A**|nginx|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx|Sitearchief - Ra...|
+|[https://politieacademie.sitearchief.nl](https://politieacademie.sitearchief.nl)| | **A**|nginx|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx|Sitearchief - Po...|
+|[https://abx04.sitearchief.nl](https://abx04.sitearchief.nl)| | **C**|nginx|:o: |:white_check_mark: | :warning:| |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|Archiefweb|
+|[https://sociaalfondspersoneel.sitearchief.nl](https://sociaalfondspersoneel.sitearchief.nl)| | **A**|nginx|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx|Sitearchief - So...|
+|[https://schadefonds.sitearchief.nl](https://schadefonds.sitearchief.nl)| | **A**|nginx|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx|Sitearchief - Sc...|
+|[https://raadvoorcultuur.sitearchief.nl](https://raadvoorcultuur.sitearchief.nl)| | **A**|nginx|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx|Sitearchief - Ra...|
+|[https://nvao.sitearchief.nl](https://nvao.sitearchief.nl)| | **A**|nginx|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx|Sitearchief - Ne...|
+|[https://zoekintranscripties.sitearchief.nl](https://zoekintranscripties.sitearchief.nl)| | **A**|nginx|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx|Sitearchief - Zo...|
+|[https://cdho.sitearchief.nl](https://cdho.sitearchief.nl)| | **A**|nginx|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx|Sitearchief - Co...|
+|[https://archief52.sitearchief.nl](https://archief52.sitearchief.nl)| | **B**|nginx/1.25.4| |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | |HSTS Nginx:1.25.4|HTTP Status 404...|
+|[https://sportraad.sitearchief.nl](https://sportraad.sitearchief.nl)| | **A**|nginx|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx|Sitearchief - Ne...|
+|[https://abx03.sitearchief.nl](https://abx03.sitearchief.nl)| | **A**|nginx|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx|Archiefweb|
+|[https://niwo.sitearchief.nl](https://niwo.sitearchief.nl)| | **A**|nginx|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx|Sitearchief - NI...|
 

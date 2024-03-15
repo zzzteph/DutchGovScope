@@ -99,3 +99,4 @@ https://autoconfig.meldknop.nl
 https://autodiscover.meldknop.nl
 https://www.vraaghetdepolitie.nlwww.meldknop.nl
 https://www.sociaalmetmedia.nlwww.newkidsontheweb.nlwww.meldknop.nl
+https://ftp.meldknop.nl

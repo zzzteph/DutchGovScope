@@ -11,7 +11,7 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/aerius.nl/subdomains.txt)|7598|Alive subdomains|
+|[subdomains.txt](/data/aerius.nl/subdomains.txt)|9801|Alive subdomains|
 |[urls.txt](/data/aerius.nl/urls.txt)|29|Urls|
 |[all_subdomains.txt](/data/aerius.nl/all_subdomains.txt)|9801|All found subdomains (history)|
 
@@ -44,7 +44,7 @@
 |[https://link.aerius.nl](https://link.aerius.nl)| | **E**|| | | | | | | | :white_check_mark: | |Bootstrap:4.3.1|Not Found | Shli...|
 |[https://auth-register-gat.aerius.nl](https://auth-register-gat.aerius.nl)| | **B**|Server|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Amazon CloudFront Amazon Web Services Bootstrap HSTS|Signin|
 |[https://docs-dev.aerius.nl](https://docs-dev.aerius.nl)| | **F**|AmazonS3| | | | | | | | :white_check_mark: | |Amazon CloudFront Amazon S3 Amazon Web Services HTTP/3||
-|[https://docs-staging.aerius.nl](https://docs-staging.aerius.nl)| | **F**|AmazonS3| | | | | | | | :white_check_mark: | |Amazon CloudFront Amazon S3 Amazon Web Services HTTP/3||
+|[http://docs-staging.aerius.nl](http://docs-staging.aerius.nl)| | **F**|CloudFront| | | | | | | | :white_check_mark: | |Amazon CloudFront Amazon Web Services|ERROR: The reque...|
 |[https://grafana-dev.aerius.nl](https://grafana-dev.aerius.nl)| | **C**|| | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |||
 |[https://link.pr.aerius.nl](https://link.pr.aerius.nl)| | **F**|awselb/2.0| | | | | | | | :white_check_mark: | |Amazon ELB Amazon Web Services||
 |[https://mail.pr.aerius.nl](https://mail.pr.aerius.nl)| | **F**|awselb/2.0| | | | | | | | :white_check_mark: | |Amazon ELB Amazon Web Services||

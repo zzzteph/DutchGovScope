@@ -2,7 +2,7 @@
 layout: default
 title: "waterschaplimburg.nl"
 permalink: "/dutchgov/waterschaplimburg.nl.html"
-subdomains_count: 378
+subdomains_count: 471
 all_subdomains_count: 474
 urls_count: 263
 ssl_rank: A
@@ -27,7 +27,7 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/waterschaplimburg.nl/subdomains.txt)|378|Alive subdomains|
+|[subdomains.txt](/DutchGovScope/data/waterschaplimburg.nl/subdomains.txt)|471|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/waterschaplimburg.nl/urls.txt)|263|Urls|
 |[all_subdomains.txt](/DutchGovScope/data/waterschaplimburg.nl/all_subdomains.txt)|474|All found subdomains (history)|
 

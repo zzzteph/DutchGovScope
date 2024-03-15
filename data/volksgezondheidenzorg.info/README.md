@@ -29,5 +29,5 @@
 |[http://test.volksgezondheidenzorg.info](http://test.volksgezondheidenzorg.info)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://www.volksgezondheidenzorg.info](https://www.volksgezondheidenzorg.info)| **A+**| **A**|Apache| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS|301 Moved Perman...|
 |[https://volksgezondheidenzorg.info](https://volksgezondheidenzorg.info)| **A+**| **A**|Apache| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS|301 Moved Perman...|
-|[http://localhost.volksgezondheidenzorg.info](http://localhost.volksgezondheidenzorg.info)| | **D**|nginx| | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Nginx|Welcome to nginx...|
+|[http://localhost.volksgezondheidenzorg.info](http://localhost.volksgezondheidenzorg.info)| | **F**|nginx|:o: | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Laravel Nginx PHP|Weakpass|
 

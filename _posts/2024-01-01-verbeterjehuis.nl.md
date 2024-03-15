@@ -43,6 +43,6 @@ tags: dutchgov
 |[https://groenesubsidiewijzer.verbeterjehuis.nl](https://groenesubsidiewijzer.verbeterjehuis.nl)| **A+**| **A**|cloudflare| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Cloudflare HSTS|Object moved|
 |[https://cms.verbeterjehuis.nl](https://cms.verbeterjehuis.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Document Moved|
 |[https://content.verbeterjehuis.nl](https://content.verbeterjehuis.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
-|[http://localhost.verbeterjehuis.nl](http://localhost.verbeterjehuis.nl)| | **D**|nginx| | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Nginx|Welcome to nginx...|
+|[http://localhost.verbeterjehuis.nl](http://localhost.verbeterjehuis.nl)| | **F**|nginx|:o: | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Laravel Nginx PHP|Weakpass|
 |[https://test-u8-www.verbeterjehuis.nl](https://test-u8-www.verbeterjehuis.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Web App - Unavai...|
 

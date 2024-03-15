@@ -7,3 +7,6 @@ training.hansken.org
 www.hansken.org
 hansken.org
 docs.hansken.org
+downloads.hansken.org
+academic-registry.hansken.org
+lea-registry.hansken.org

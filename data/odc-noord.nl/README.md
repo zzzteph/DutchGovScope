@@ -11,8 +11,8 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/odc-noord.nl/subdomains.txt)|142|Alive subdomains|
-|[urls.txt](/data/odc-noord.nl/urls.txt)|97|Urls|
+|[subdomains.txt](/data/odc-noord.nl/subdomains.txt)|144|Alive subdomains|
+|[urls.txt](/data/odc-noord.nl/urls.txt)|95|Urls|
 |[all_subdomains.txt](/data/odc-noord.nl/all_subdomains.txt)|249|All found subdomains (history)|
 
 
@@ -113,9 +113,7 @@
 |[https://vpn.gn2.koop-pp.odc-noord.nl](https://vpn.gn2.koop-pp.odc-noord.nl)| | **F**|OpenVPN-AS| | | | | | | | :white_check_mark: | |||
 |[https://odc-noord.nl](https://odc-noord.nl)| **A+**| **C**|Apache| |:white_check_mark: | | | | | | :white_check_mark: | |Apache HTTP Server HSTS||
 |[https://vpn.ocw.odc-noord.nl](https://vpn.ocw.odc-noord.nl)| | **F**|OpenVPN-AS| | | | | | | | :white_check_mark: | |||
-|[https://rw-iene-prd.topdesk.odc-noord.nl](https://rw-iene-prd.topdesk.odc-noord.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://iaas-portal-gn3.odc-noord.nl](https://iaas-portal-gn3.odc-noord.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |AngularJS HSTS||
 |[https://paas-portal-gn3.odc-noord.nl](https://paas-portal-gn3.odc-noord.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |AngularJS HSTS||
-|[https://rw-iene-acc.topdesk.odc-noord.nl](https://rw-iene-acc.topdesk.odc-noord.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://vpn.gn2.acc.odc-noord.nl](https://vpn.gn2.acc.odc-noord.nl)| | **F**|OpenVPN-AS| | | | | | | | :white_check_mark: | |||
 

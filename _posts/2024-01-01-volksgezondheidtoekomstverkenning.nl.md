@@ -39,5 +39,5 @@ tags: dutchgov
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[https://www.volksgezondheidtoekomstverkenning.nl](https://www.volksgezondheidtoekomstverkenning.nl)| **A+**| **B**|Apache| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server Drupal HSTS PHP|Home | Volksgezo...|
 |[https://volksgezondheidtoekomstverkenning.nl](https://volksgezondheidtoekomstverkenning.nl)| **A+**| **B**|Apache| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS|301 Moved Perman...|
-|[http://localhost.volksgezondheidtoekomstverkenning.nl](http://localhost.volksgezondheidtoekomstverkenning.nl)| | **D**|nginx| | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Nginx|Welcome to nginx...|
+|[http://localhost.volksgezondheidtoekomstverkenning.nl](http://localhost.volksgezondheidtoekomstverkenning.nl)| | **F**|nginx|:o: | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Laravel Nginx PHP|Weakpass|
 

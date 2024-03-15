@@ -33,5 +33,5 @@
 |[https://www.academie.ind.nl](https://www.academie.ind.nl)| **A+**| **B**|Class|:white_check_mark: |:white_check_mark: | | |:warning: | | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://ind.nl](https://ind.nl)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Drupal HSTS Nginx PHP|Redirecting to h...|
 |[https://xmpp.chat.ind.nl](https://xmpp.chat.ind.nl)| **A+**| **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|301 Moved Perman...|
-|[http://localhost.ind.nl](http://localhost.ind.nl)| | **D**|nginx| | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Nginx|Welcome to nginx...|
+|[http://localhost.ind.nl](http://localhost.ind.nl)| | **F**|nginx|:o: | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Laravel Nginx PHP|Weakpass|
 

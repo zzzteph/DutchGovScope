@@ -11,7 +11,7 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/hdsr.nl/subdomains.txt)|33|Alive subdomains|
+|[subdomains.txt](/data/hdsr.nl/subdomains.txt)|34|Alive subdomains|
 |[urls.txt](/data/hdsr.nl/urls.txt)|29|Urls|
 |[all_subdomains.txt](/data/hdsr.nl/all_subdomains.txt)|110|All found subdomains (history)|
 
@@ -49,5 +49,5 @@
 |[https://kantoor.hdsr.nl](https://kantoor.hdsr.nl)| **A+**| **A**|xxxx|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Java|User Portal|
 |[https://intranet.ad.hdsr.nl](https://intranet.ad.hdsr.nl)| **A**| **B**|-|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Microsoft ASP.NET:-|Object moved|
 |[https://waterkwaliteitinbeeld.hdsr.nl](https://waterkwaliteitinbeeld.hdsr.nl)| **A+**| **A**|-| |:white_check_mark: | | | :white_check_mark:| | | :white_check_mark: | |HSTS Microsoft ASP.NET:-|Object moved|
-|[http://localhost.hdsr.nl](http://localhost.hdsr.nl)| | **D**|nginx| | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Nginx|Welcome to nginx...|
+|[http://localhost.hdsr.nl](http://localhost.hdsr.nl)| | **F**|nginx|:o: | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Laravel Nginx PHP|Weakpass|
 

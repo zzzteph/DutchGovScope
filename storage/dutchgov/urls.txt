@@ -917,7 +917,6 @@ https://feeds.derijkscampus.nl
 https://opendata.derijkscampus.nl
 https://www.derijkscampus.nl
 https://derijkscampus.nl
-https://online.derijkscampus.nl
 https://opendata.deutsch.postedworkers.nl
 https://deutsch.postedworkers.nl
 https://feeds.deutsch.postedworkers.nl
@@ -2235,6 +2234,17 @@ https://hulpopafstand.knaw.nl
 https://remotesupport.knaw.nl
 https://portus.knaw.nl
 https://repository.knaw.nl
+https://metadata-enhancer.labs.dans.knaw.nl
+https://packaging.labs.dans.knaw.nl
+https://vangogh-tiles.dev.huc.knaw.nl
+https://wp-14.dev.huc.knaw.nl
+https://facades.labs.dans.knaw.nl
+https://wp-11.dev.huc.knaw.nl
+https://databeheer.huygens.knaw.nl
+https://facades-conversion.labs.dans.knaw.nl
+https://oai-harvester.labs.dans.knaw.nl
+https://ga-wp3.sd.di.huc.knaw.nl
+https://facades-formats.labs.dans.knaw.nl
 https://minio2.labs.dans.knaw.nl
 https://wp-05.dev.huc.knaw.nl
 https://vangogh-api.dev.huc.knaw.nl
@@ -2363,7 +2373,6 @@ https://cia.ondernemersplein.kvk.nl
 https://msoid.kvk.nl
 https://ondertekenen.kvk.nl
 https://static.kvk.nl
-https://tdep.kvk.nl
 https://api.ondernemersplein.kvk.nl
 https://vpn.kvk.nl
 https://ondernemerspanel.kvk.nl
@@ -3431,7 +3440,6 @@ https://overdedouane.nl
 https://acc-internationaal.ondernemen.overheid.nl
 https://acc.omgevingswet.overheid.nl
 https://afval.omgevingswet.overheid.nl
-https://afval.pre.omgevingswet.overheid.nl
 https://algoritme.overheid.nl
 https://algoritmen.overheid.nl
 https://algoritmes.overheid.nl
@@ -3463,9 +3471,7 @@ https://beheerportaal.tst2905.omgevingswet.overheid.nl
 http://beta.overheid.nl
 https://bgt.basisregistraties.overheid.nl
 https://bodem-ondergrond.omgevingswet.overheid.nl
-https://bodem-ondergrond.pre.omgevingswet.overheid.nl
 https://bouw.omgevingswet.overheid.nl
-https://bouw.pre.omgevingswet.overheid.nl
 https://brk.basisregistraties.overheid.nl
 https://brk.test.basisregistraties.overheid.nl
 https://brt.basisregistraties.overheid.nl
@@ -3481,12 +3487,10 @@ https://componenten.overheid.nl
 https://componenten-acc.overheid.nl
 https://componenten-tst.overheid.nl
 https://content.omgevingswet.overheid.nl
-https://content.pre.omgevingswet.overheid.nl
 https://contentbeheer.acc.omgevingswet.overheid.nl
 https://contentbeheer.omgevingswet.overheid.nl
 https://contentbeheer.tst.omgevingswet.overheid.nl
 https://cultureel-erfgoed.omgevingswet.overheid.nl
-https://cultureel-erfgoed.pre.omgevingswet.overheid.nl
 https://cursus.drop.overheid.nl
 https://data.overheid.nl
 https://decentrale.regelgeving.overheid.nl
@@ -3504,7 +3508,6 @@ https://ebms.contentbeheer.omgevingswet.overheid.nl
 https://ebms.service.bta.omgevingswet.overheid.nl
 https://enabling.omgevingswet.overheid.nl
 https://externe-veiligheid.omgevingswet.overheid.nl
-https://externe-veiligheid.pre.omgevingswet.overheid.nl
 https://feature-105-edge-z1vq9x.review.developer.overheid.nl
 https://forum.developer.overheid.nl
 https://gegevensdelen.mijn.overheid.nl
@@ -3540,7 +3543,6 @@ https://mfa.koop.overheid.nl
 https://mijn.overheid.nl
 https://mnd.overheid.nl
 https://natuur.omgevingswet.overheid.nl
-https://natuur.pre.omgevingswet.overheid.nl
 https://omgevingswet.overheid.nl
 https://ondertekeningsviewer.overheid.nl
 https://open.overheid.nl
@@ -3590,7 +3592,6 @@ https://renvooiservice.overheid.nl
 https://renvooiservice-eto.overheid.nl
 https://repository.overheid.nl
 https://repository-eto.overheid.nl
-https://ruimte.acc.omgevingswet.overheid.nl
 https://ruimte.dmo.omgevingswet.overheid.nl
 https://ruimte.int.omgevingswet.overheid.nl
 https://ruimte.kta.omgevingswet.overheid.nl
@@ -3638,7 +3639,6 @@ https://standaarden.overheid.nl
 https://standaarden-acc.overheid.nl
 https://standaarden-tst.overheid.nl
 https://standaarden.omgevingswet.overheid.nl
-https://standaarden.pre.omgevingswet.overheid.nl
 https://static.demo.mijn.overheid.nl
 https://static.mijn.overheid.nl
 https://static.preprod.mijn.overheid.nl
@@ -3672,7 +3672,6 @@ https://verdragenbank-acc.overheid.nl
 https://verkeersbesluiten.overheid.nl
 https://vpn.koop.overheid.nl
 https://water.omgevingswet.overheid.nl
-https://water.pre.omgevingswet.overheid.nl
 https://wetgeving.omgevingswet.overheid.nl
 https://wetgeving.pre.omgevingswet.overheid.nl
 https://wetgevingskalender.overheid.nl
@@ -5592,6 +5591,7 @@ http://autodiscover.odmh.nl
 https://docs.odmh.nl
 https://mfa.odmh.nl
 https://rdsgateway.odmh.nl
+https://vpn.odmh.nl
 https://micollab.odmh.nl
 https://pow.odmh.nl
 https://publicaties.odmh.nl
@@ -5959,7 +5959,6 @@ https://iapp.provincie-utrecht.nl
 https://mfa.provincie-utrecht.nl
 http://autodiscover.provincie-utrecht.nl
 https://burgemeesters.provincie-utrecht.nl
-https://ris.provincie-utrecht.nl
 http://localhost.provincie-utrecht.nl
 https://rmb.provincie-utrecht.nl
 https://kennis.zuid-holland.nl
@@ -6008,7 +6007,6 @@ https://dataloket.zuid-holland.nl
 https://geodata.zuid-holland.nl
 https://geoservices.zuid-holland.nl
 https://beterwordenvancorona.zuid-holland.nl
-https://zonnewijzer.zuid-holland.nl
 https://geo-fms.zuid-holland.nl
 https://nieuwsbrief.zuid-holland.nl
 https://lta.zuid-holland.nl
@@ -6830,10 +6828,8 @@ https://www.odc-noord.nl
 https://vpn.gn2.koop-pp.odc-noord.nl
 https://odc-noord.nl
 https://vpn.ocw.odc-noord.nl
-https://rw-iene-prd.topdesk.odc-noord.nl
 https://iaas-portal-gn3.odc-noord.nl
 https://paas-portal-gn3.odc-noord.nl
-https://rw-iene-acc.topdesk.odc-noord.nl
 https://vpn.gn2.acc.odc-noord.nl
 https://www.iuc-noord.nl
 https://iuc-noord.nl
@@ -7223,7 +7219,6 @@ https://pbl.nl
 https://mailings.pbl.nl
 https://mail.pbl.nl
 https://msoid.pbl.nl
-http://prd-www.pbl.nl
 https://accept.digitaleoverheid.nl
 http://magazine-nl.digitaleoverheid.nl
 https://www.digitaleoverheid.nl
@@ -7305,7 +7300,7 @@ https://auth-register-dev.aerius.nl
 https://link.aerius.nl
 https://auth-register-gat.aerius.nl
 https://docs-dev.aerius.nl
-https://docs-staging.aerius.nl
+http://docs-staging.aerius.nl
 https://grafana-dev.aerius.nl
 https://link.pr.aerius.nl
 https://mail.pr.aerius.nl
@@ -9301,7 +9296,7 @@ https://buza.trainingscatalogus.nl
 https://ciz.trainingscatalogus.nl
 https://archipel.trainingscatalogus.nl
 https://ez.trainingscatalogus.nl
-https://ncsc.trainingscatalogus.nl
+http://ncsc.trainingscatalogus.nl
 https://cjib.trainingscatalogus.nl
 https://demo.trainingscatalogus.nl
 https://jio.trainingscatalogus.nl
@@ -9389,6 +9384,7 @@ https://signaleringleefomgevingengezondheid.nl
 https://acceptatie.zorgcsp.nl
 https://www.zorgcsp.nl
 https://zorgcsp.nl
+https://ldap.zorgcsp.nl
 https://www.sustainabilitymethod.nl
 https://sustainabilitymethod.nl
 https://farmingthefuture.nl
@@ -13013,8 +13009,6 @@ https://www.jokesmitprijs.nl
 https://jokesmitprijs.nl
 https://www.onderwijsinderegioincijfers.nl
 https://onderwijsinderegioincijfers.nl
-https://www.samenwerkenaanontwerpkracht.nl
-https://samenwerkenaanontwerpkracht.nl
 https://www.sportakkoord.nl
 https://sportakkoord.nl
 https://www.verantwoordalcoholverkopen.nl
@@ -13057,6 +13051,7 @@ https://geluidgegevens.nl
 https://www.geluidgegevens.nl
 https://www.grondstoffenscanner.nl
 https://grondstoffenscanner.nl
+https://tst.grondstoffenscanner.nl
 https://beheer.grondstoffenscanner.nl
 https://mail.logan.nl.internationaalondernemen.nl
 https://www.internationaalondernemen.nl
@@ -13102,7 +13097,6 @@ https://www-ac.istandaarden.nl
 https://istandaarden.nl
 https://registry.acceptatie.istandaarden.nl
 https://repository.acceptatie.istandaarden.nl
-https://ftp.istandaarden.nl
 http://pm-bounces.istandaarden.nl
 https://www.iinterimrijk.nl
 https://iinterimrijk.nl
@@ -13128,9 +13122,6 @@ http://digitalezorgzandbak.nl
 https://accept.emnnetherlands.nl
 https://www.emnnetherlands.nl
 https://emnnetherlands.nl
-https://www.helpdeskbouwregels.nl
-https://beheer.helpdeskbouwregels.nl
-https://helpdeskbouwregels.nl
 https://www.igjacademie.nl
 https://igjacademie.nl
 https://mail.igjacademie.nl
@@ -13431,6 +13422,7 @@ https://autoconfig.meldknop.nl
 https://autodiscover.meldknop.nl
 https://www.vraaghetdepolitie.nlwww.meldknop.nl
 https://www.sociaalmetmedia.nlwww.newkidsontheweb.nlwww.meldknop.nl
+https://ftp.meldknop.nl
 https://www.inspireaanmerking.nl
 https://inspireaanmerking.nl
 https://bestuurlijkespecial.weerbaredigitaleoverheid.nl
@@ -14689,6 +14681,7 @@ https://enterpriseenrollment.bouwplaatsirm.nl
 https://enterpriseregistration.bouwplaatsirm.nl
 https://gitlab.bouwplaatsirm.nl
 https://msoid.bouwplaatsirm.nl
+https://mail.coordinatiestroomlijn.nl
 https://mta-sts.coordinatiestroomlijn.nl
 https://www.coordinatiestroomlijn.nl
 https://coordinatiestroomlijn.nl
@@ -14714,6 +14707,9 @@ https://kennis.fiod.nl
 https://platformafpakken.fiod.nl
 https://www.fiod.nl
 https://fiod.nl
+https://ftp.grknmi.nl
+https://pop.grknmi.nl
+https://smtp.grknmi.nl
 https://www.kennisnetwerkspv.nl
 https://kennisnetwerkspv.nl
 http://autodiscover.kennisnetwerkspv.nl
@@ -17026,6 +17022,7 @@ https://waarderingskamer.nl
 https://scim.waarderingskamer.nl
 https://search.waarderingskamer.nl
 https://acceptatie.waarderingskamer.nl
+http://testnoc.waarderingskamer.nl
 https://makingvitalityreality.nl
 https://www.makingvitalityreality.nl
 https://acc.makingvitalityreality.nl
@@ -17124,6 +17121,39 @@ https://minocw.sitearchief.nl
 https://minbuza.sitearchief.nl
 https://onderwijsinspectie.sitearchief.nl
 https://lintjes.sitearchief.nl
+https://autoriteitnvs.sitearchief.nl
+https://dienstterugkeerenvertrek.sitearchief.nl
+https://dienstuitvoeringonderwijs.sitearchief.nl
+https://staatsbosbeheer.sitearchief.nl
+https://diensttoeslagen.sitearchief.nl
+https://awti.sitearchief.nl
+https://archief53.sitearchief.nl
+https://imagineminienm1.sitearchief.nl
+https://ccmo.sitearchief.nl
+https://dopingautoriteit.sitearchief.nl
+https://nationaleombudsman.sitearchief.nl
+https://dus-i.sitearchief.nl
+https://justid.sitearchief.nl
+https://raadrvs.sitearchief.nl
+https://kabinetkoning.sitearchief.nl
+https://hogeraad.sitearchief.nl
+https://kiesraad.sitearchief.nl
+https://aivd.sitearchief.nl
+https://inspectie-oe.sitearchief.nl
+https://kinderbescherming.sitearchief.nl
+https://raadvanstate.sitearchief.nl
+https://politieacademie.sitearchief.nl
+https://abx04.sitearchief.nl
+https://sociaalfondspersoneel.sitearchief.nl
+https://schadefonds.sitearchief.nl
+https://raadvoorcultuur.sitearchief.nl
+https://nvao.sitearchief.nl
+https://zoekintranscripties.sitearchief.nl
+https://cdho.sitearchief.nl
+https://archief52.sitearchief.nl
+https://sportraad.sitearchief.nl
+https://abx03.sitearchief.nl
+https://niwo.sitearchief.nl
 https://www.kik-starter.nl
 https://kik-starter.nl
 https://acc.allesisgezondheid.nl
@@ -17196,9 +17226,6 @@ https://dev.cdn.consular.mfaservices.nl
 https://snd.cdn.consular.mfaservices.nl
 https://tst.cdn.consular.mfaservices.nl
 https://url9097.consular.mfaservices.nl
-http://www.bereiknu.nl
-http://bereiknu.nl
-http://ftp.bereiknu.nl
 https://mail.bewustbodemgebruik.nl
 https://www.bewustbodemgebruik.nl
 https://bewustbodemgebruik.nl
@@ -18164,7 +18191,6 @@ https://feeds.circulairinkopen.nl
 https://opendata.circulairinkopen.nl
 https://www.circulairinkopen.nl
 https://www.investeringsimpulsspv.nl
-https://hostmaster.investeringsimpulsspv.nl
 https://mail.investeringsimpulsspv.nl
 https://investeringsimpulsspv.nl
 https://feeds.overeuropa.nl

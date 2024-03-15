@@ -2,8 +2,8 @@
 layout: default
 title: "tweedekamer.nl"
 permalink: "/dutchgov/tweedekamer.nl.html"
-subdomains_count: 167
-all_subdomains_count: 267
+subdomains_count: 170
+all_subdomains_count: 271
 urls_count: 120
 ssl_rank: A-
 http_rank: C
@@ -27,9 +27,9 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/tweedekamer.nl/subdomains.txt)|167|Alive subdomains|
+|[subdomains.txt](/DutchGovScope/data/tweedekamer.nl/subdomains.txt)|170|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/tweedekamer.nl/urls.txt)|120|Urls|
-|[all_subdomains.txt](/DutchGovScope/data/tweedekamer.nl/all_subdomains.txt)|267|All found subdomains (history)|
+|[all_subdomains.txt](/DutchGovScope/data/tweedekamer.nl/all_subdomains.txt)|271|All found subdomains (history)|
 
 
 ## Statistics
@@ -151,7 +151,7 @@ tags: dutchgov
 |[https://opendata-wiki.tweedekamer.nl](https://opendata-wiki.tweedekamer.nl)| | **B**|BigIP|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |F5 BigIP||
 |[https://enterpriseenrollment.tweedekamer.nl](https://enterpriseenrollment.tweedekamer.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||
 |[https://enterpriseregistration.tweedekamer.nl](https://enterpriseregistration.tweedekamer.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
-|[http://localhost.tweedekamer.nl](http://localhost.tweedekamer.nl)| | **D**|nginx| | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Nginx|Welcome to nginx...|
+|[http://localhost.tweedekamer.nl](http://localhost.tweedekamer.nl)| | **F**|nginx|:o: | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Laravel Nginx PHP|Weakpass|
 |[https://msoid.tweedekamer.nl](https://msoid.tweedekamer.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Object moved|
 |[https://plein2-acc.tweedekamer.nl](https://plein2-acc.tweedekamer.nl)| | **B**|BigIP|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |F5 BigIP||
 |[https://plein2-test.tweedekamer.nl](https://plein2-test.tweedekamer.nl)| | **B**|BigIP|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |F5 BigIP||

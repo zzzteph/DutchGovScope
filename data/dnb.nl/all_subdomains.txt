@@ -283,3 +283,5 @@ sftp.dnb.nl
 spf.dnb.nl
 dnb-brochure-good-practice-integrity-risk-appetite.pdfumbracoprd.dnb.nl
 rmdm-beheerapp-dev.azure.dnb.nl
+rmdm-beheerapp-tst.azure.dnb.nl
+screening-acc.dnb.nl

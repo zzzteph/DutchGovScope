@@ -71,7 +71,6 @@ test.cibg.nl
 www2.zorgcsp.cibg.nl
 acc.cibg.nl
 styleguide.cibg.nl
-a-magazinesintern.a-english.cibg.nl
 acceptatie.beheer.generiekeregistratiedienst.cibg.nl
 beheer.generiekeregistratiedienst.cibg.nl
 behandel.generiekeregistratiedienst.cibg.nl
