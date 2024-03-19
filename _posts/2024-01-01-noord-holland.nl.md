@@ -2,9 +2,9 @@
 layout: default
 title: "noord-holland.nl"
 permalink: "/dutchgov/noord-holland.nl.html"
-subdomains_count: 103
+subdomains_count: 102
 all_subdomains_count: 274
-urls_count: 71
+urls_count: 69
 ssl_rank: A-
 http_rank: B
 security_txt: 20
@@ -27,8 +27,8 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/noord-holland.nl/subdomains.txt)|103|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/noord-holland.nl/urls.txt)|71|Urls|
+|[subdomains.txt](/DutchGovScope/data/noord-holland.nl/subdomains.txt)|102|Alive subdomains|
+|[urls.txt](/DutchGovScope/data/noord-holland.nl/urls.txt)|69|Urls|
 |[all_subdomains.txt](/DutchGovScope/data/noord-holland.nl/all_subdomains.txt)|274|All found subdomains (history)|
 
 
@@ -41,11 +41,9 @@ tags: dutchgov
 |[https://apollo4.noord-holland.nl](https://apollo4.noord-holland.nl)| **B**| **F**|awselb/2.0| | | | | | | | :white_check_mark: | |Amazon ELB Amazon Web Services|503 Service Temp...|
 |[https://subsidies.noord-holland.nl](https://subsidies.noord-holland.nl)| **A+**| **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://meet.noord-holland.nl](https://meet.noord-holland.nl)| **A**| **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|Skype for Busine...|
-|[https://data.noord-holland.nl](https://data.noord-holland.nl)| **A+**| **A**|Microsoft-IIS/10.0|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS IIS:10.0 Microsoft ASP.NET Windows Server|Document Moved|
 |[http://zoeken.noord-holland.nl](http://zoeken.noord-holland.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[http://dataiku.noord-holland.nl](http://dataiku.noord-holland.nl)| **B**| **F**|awselb/2.0| | | | | | | | :white_check_mark: | |Amazon ELB Amazon Web Services|301 Moved Perman...|
 |[https://esm.noord-holland.nl](https://esm.noord-holland.nl)| **A+**| **A**|cloudflare| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Cloudflare HSTS|Login|
-|[https://api.data.noord-holland.nl](https://api.data.noord-holland.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://statensite.noord-holland.nl](https://statensite.noord-holland.nl)| **A+**| **A**||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS||
 |[https://formulieren.noord-holland.nl](https://formulieren.noord-holland.nl)| **A+**| **A**||:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Object moved|
 |[https://developer.noord-holland.nl](https://developer.noord-holland.nl)| **A+**| **A**|| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Bootstrap HSTS|Developer portaa...|
@@ -59,11 +57,11 @@ tags: dutchgov
 |[https://owas.noord-holland.nl](https://owas.noord-holland.nl)| **A**| **C**|Microsoft-IIS/8.0| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS IIS:8.0 Microsoft ASP.NET:4.0.30319 Windows Server|404 - File or di...|
 |[https://mail.noord-holland.nl](https://mail.noord-holland.nl)| **A**| **E**|| | | | | | | | :white_check_mark: | |||
 |[https://acc.mijnsubsidie.noord-holland.nl](https://acc.mijnsubsidie.noord-holland.nl)| **A+**| **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|ClientPortal|
-|[https://datalab.noord-holland.nl](https://datalab.noord-holland.nl)| **B**| **C**|nginx| | | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |D3 NVD3 Nginx|Dataiku|
+|[https://datalab.noord-holland.nl](https://datalab.noord-holland.nl)| **B**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |D3 HSTS NVD3 Nginx|Dataiku|
 |[https://financien.noord-holland.nl](https://financien.noord-holland.nl)| **A+**| **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Azure Azure Front Door HSTS||
-|[https://cijfers.noord-holland.nl](https://cijfers.noord-holland.nl)| **A+**| **A**|Microsoft-IIS/10.0|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Amazon S3 Amazon Web Services Azure Edge Network HSTS IIS:10.0 Microsoft ASP.NET MyFonts Windows Server|Brede Basismonit...|
+|[https://cijfers.noord-holland.nl](https://cijfers.noord-holland.nl)| **A+**| **A**|Microsoft-IIS/10.0|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Amazon S3 Amazon Web Services Azure Edge Network HSTS IIS:10.0 Microsoft ASP.NET:4.0.30319 MyFonts Windows Server|Brede Basismonit...|
 |[https://owas1.noord-holland.nl](https://owas1.noord-holland.nl)| | **C**|Microsoft-IIS/8.0| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS IIS:8.0 Microsoft ASP.NET Windows Server|404 - File or di...|
-|[https://automation-node.datalab-prod.aws.noord-holland.nl](https://automation-node.datalab-prod.aws.noord-holland.nl)| **B**| **C**|nginx| | | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |D3 NVD3 Nginx|Dataiku|
+|[https://automation-node.datalab-prod.aws.noord-holland.nl](https://automation-node.datalab-prod.aws.noord-holland.nl)| **B**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |D3 HSTS NVD3 Nginx|Dataiku|
 |[https://geoapps.noord-holland.nl](https://geoapps.noord-holland.nl)| **B**| **C**|Microsoft-IIS/10.0| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS IIS:10.0 Microsoft ASP.NET Windows Server||
 |[https://lyncdiscover.noord-holland.nl](https://lyncdiscover.noord-holland.nl)| **A**| **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
 |[https://cag.noord-holland.nl](https://cag.noord-holland.nl)| **A**| **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Microsoft ASP.NET||

@@ -39,10 +39,8 @@ https://enterpriseregistration.rws.nl
 https://eov-api.acceptatie.rws.nl
 https://eov.acceptatie.rws.nl
 https://esb.rws.nl
-https://evenementen.rws.nl
 https://fam.rws.nl
 https://fat-acc.vm-02.azure.grid.rws.nl
-https://fat-test.vm-02.azure.grid.rws.nl
 https://fat.vm-02.azure.grid.rws.nl
 https://federatie.rws.nl
 https://geo.rws.nl
@@ -51,7 +49,6 @@ https://geostenen.grid.rws.nl
 https://geoweb.rws.nl
 https://getij.rws.nl
 http://git.rws.nl
-https://gmg301.rws.nl
 https://grafana.vm-02.azure.grid.rws.nl
 https://grid.rws.nl
 https://gridacc.rws.nl

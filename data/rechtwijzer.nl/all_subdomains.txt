@@ -62,3 +62,9 @@ connect.test.rechtwijzer.nl
 meet.test.rechtwijzer.nl
 service.test.rechtwijzer.nl
 intranet.test.rechtwijzer.nl
+old.test.rechtwijzer.nl
+demo.test.rechtwijzer.nl
+autodiscover.test.rechtwijzer.nl
+cpcontacts.test.rechtwijzer.nl
+auth.test.rechtwijzer.nl
+kibana.test.rechtwijzer.nl

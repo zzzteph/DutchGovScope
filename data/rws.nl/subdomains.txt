@@ -42,7 +42,6 @@ esb.rws.nl
 evenementen.rws.nl
 fam.rws.nl
 fat-acc.vm-02.azure.grid.rws.nl
-fat-test.vm-02.azure.grid.rws.nl
 fat.vm-02.azure.grid.rws.nl
 federatie.rws.nl
 geo.rws.nl

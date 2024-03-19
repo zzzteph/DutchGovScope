@@ -31,7 +31,6 @@ https://demo-wmm.databank.nl
 https://demo.neptunus.databank.nl
 https://demo.vmbodoorstroom.databank.nl
 https://dgstat.databank.nl
-http://diversiteitsindex.databank.nl
 http://ebc.databank.nl
 https://energiecijfers.databank.nl
 https://erfgoed.databank.nl
@@ -76,14 +75,12 @@ https://wmm-demo.databank.nl
 https://wozbenchmark.databank.nl
 https://wsjg.databank.nl
 https://wsp.waves.databank.nl
-http://www.databank.nl
 https://www.afvalmonitor.databank.nl
 https://www.arbeidsmarkt.databank.nl
 https://www.arbeidsmarkthoreca.databank.nl
 https://www.brabant.databank.nl
 https://www.cbc.databank.nl
 https://www.dgstat.databank.nl
-http://www.diversiteitsindex.databank.nl
 https://www.energiecijfers.databank.nl
 https://www.fryslan.databank.nl
 https://www.gelderland.databank.nl
@@ -95,7 +92,7 @@ https://www.staatvanutrecht.databank.nl
 https://www.veiligheidsmonitor.demo.databank.nl
 https://zeeland.databank.nl
 https://zeeland-prv.databank.nl
-https://zeelandscan.databank.nl
+http://zeelandscan.databank.nl
 http://zorgmonitor.databank.nl
 https://manager.databank.nl
 https://grc2go.databank.nl
@@ -232,7 +229,6 @@ https://primostijdreeks.databank.nl
 https://afval-monitor.databank.nl
 https://www.veiligheidsmonitor.databank.nl
 https://prognoses.databank.nl
-http://databank.nl
 https://h6.databank.nl
 https://arbeidsmarktdetailhandel.databank.nl
 https://asre.databank.nl
@@ -283,7 +279,7 @@ https://httpsenergiecijfers.databank.nl
 https://httpsvue.databank.nl
 https://httpsprognosemodelzw.databank.nl
 https://httpslive-waves.databank.nl
-https://beta-klimaatbeleid.databank.nl
+http://beta-klimaatbeleid.databank.nl
 https://beta-dcmr.databank.nl
 https://frieslandsnb.databank.nl
 https://gip.databank.nl

@@ -7,7 +7,7 @@ all_subdomains_count: 47
 urls_count: 18
 ssl_rank: A-
 http_rank: B
-security_txt: 7
+security_txt: 6
 url_link: /data/mensenrechten.nl/urls.txt
 all_subdomains_link: /data/mensenrechten.nl/all_subdomains.txt
 subdomains_link: /data/mensenrechten.nl/subdomains.txt
@@ -22,7 +22,7 @@ tags: dutchgov
 
  - **SSL Grade**:A-
  - **HTTP Security Grade**:B
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:7
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:6
 
 
 | File       | Count | Info |

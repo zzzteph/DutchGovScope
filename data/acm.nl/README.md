@@ -11,7 +11,7 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/acm.nl/subdomains.txt)|56|Alive subdomains|
+|[subdomains.txt](/data/acm.nl/subdomains.txt)|57|Alive subdomains|
 |[urls.txt](/data/acm.nl/urls.txt)|23|Urls|
 |[all_subdomains.txt](/data/acm.nl/all_subdomains.txt)|86|All found subdomains (history)|
 
@@ -42,6 +42,6 @@
 |[https://enterpriseenrollment.acm.nl](https://enterpriseenrollment.acm.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||
 |[https://enterpriseregistration.acm.nl](https://enterpriseregistration.acm.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://mbg.acm.nl](https://mbg.acm.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|Redirecting...|
-|[https://mijn-acc.acm.nl](https://mijn-acc.acm.nl)| | **F**|nginx/1.25.3| | | | | | | | :white_check_mark: | |Nginx:1.25.3|403 Forbidden|
-|[https://mijn-tst.acm.nl](https://mijn-tst.acm.nl)| | **F**|nginx/1.25.3| | | | | | | | :white_check_mark: | |Nginx:1.25.3|403 Forbidden|
+|[https://mijn-acc.acm.nl](https://mijn-acc.acm.nl)| | **F**|nginx/1.25.4| | | | | | | | :white_check_mark: | |Nginx:1.25.4|403 Forbidden|
+|[https://mijn-tst.acm.nl](https://mijn-tst.acm.nl)| | **F**|nginx/1.25.4| | | | | | | | :white_check_mark: | |Nginx:1.25.4|403 Forbidden|
 

@@ -37,8 +37,8 @@ tags: dutchgov
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://acc.milieuzones.nl](https://acc.milieuzones.nl)| **F**| **F**|nginx| | | | | | | | :white_check_mark: | |Basic Nginx|401 Authorizatio...|
-|[https://test.milieuzones.nl](https://test.milieuzones.nl)| **F**| **F**|nginx| | | | | | | | :white_check_mark: | |Basic Nginx|401 Authorizatio...|
+|[https://acc.milieuzones.nl](https://acc.milieuzones.nl)| **F**| **F**|nginx| | | | | | | | :white_check_mark: | |Basic HSTS Nginx|401 Authorizatio...|
+|[https://test.milieuzones.nl](https://test.milieuzones.nl)| **F**| **F**|nginx| | | | | | | | :white_check_mark: | |Basic HSTS Nginx|401 Authorizatio...|
 |[https://www.milieuzones.nl](https://www.milieuzones.nl)| **A+**| **A**|nginx| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Drupal:10 HSTS Nginx PHP|Milieuzones in N...|
 |[https://milieuzones.nl](https://milieuzones.nl)| **A+**| **A**|nginx| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
 |[http://autodiscover.milieuzones.nl](http://autodiscover.milieuzones.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|Eclipse GlassFis...|

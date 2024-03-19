@@ -40,5 +40,5 @@ tags: dutchgov
 |[https://samenbouwenaanbereikbaarheid.nl](https://samenbouwenaanbereikbaarheid.nl)| **A+**| **C**|| |:white_check_mark: | :warning:| | | | | :white_check_mark: | |HSTS||
 |[https://www.samenbouwenaanbereikbaarheid.nl](https://www.samenbouwenaanbereikbaarheid.nl)| **A+**| **D**|nginx| |:white_check_mark: | :warning:| | | | | :white_check_mark: | |Glyphicons HSTS Nginx|Home :: Samen Bo...|
 |[https://staging.samenbouwenaanbereikbaarheid.nl](https://staging.samenbouwenaanbereikbaarheid.nl)| **F**| **E**|| | | | | | | | :white_check_mark: | |||
-|[http://pm-bounces.samenbouwenaanbereikbaarheid.nl](http://pm-bounces.samenbouwenaanbereikbaarheid.nl)| | **F**|nginx/1.25.3| | | | | | | | :white_check_mark: | |Nginx:1.25.3|Postmark — Email...|
+|[http://pm-bounces.samenbouwenaanbereikbaarheid.nl](http://pm-bounces.samenbouwenaanbereikbaarheid.nl)| | **F**|nginx/1.25.4| | | | | | | | :white_check_mark: | |Nginx:1.25.4|Postmark — Email...|
 

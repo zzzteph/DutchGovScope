@@ -2,7 +2,6 @@ mailings.noord-holland.nl
 apollo4.noord-holland.nl
 subsidies.noord-holland.nl
 meet.noord-holland.nl
-data.noord-holland.nl
 zoeken.noord-holland.nl
 dataiku.noord-holland.nl
 esm.noord-holland.nl

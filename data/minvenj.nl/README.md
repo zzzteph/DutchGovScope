@@ -23,10 +23,10 @@
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[https://acc-ssci-ossplanning.minvenj.nl](https://acc-ssci-ossplanning.minvenj.nl)| **B**| **F**|Microsoft-IIS/8.5| | | | | | | | :white_check_mark: | |IIS:8.5 Microsoft ASP.NET Windows Server|403 - Forbidden:...|
 |[https://emrmdm.minvenj.nl](https://emrmdm.minvenj.nl)| **F**| **F**|server| | | | | | | | :white_check_mark: | ||302 Found|
-|[http://dwr.gdi.minvenj.nl](http://dwr.gdi.minvenj.nl)| | **D**|nginx| | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Nginx|Welcome to nginx...|
+|[http://dwr.gdi.minvenj.nl](http://dwr.gdi.minvenj.nl)| | **F**|nginx|:o: | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Laravel Nginx PHP|Weakpass|
 |[https://cparegister.minvenj.nl](https://cparegister.minvenj.nl)| **B**| **A**|nginx|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bootstrap Django HSTS Nginx Python|Home –...|
 |[https://dtv.connect.minvenj.nl](https://dtv.connect.minvenj.nl)| **A+**| **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS||
-|[http://pdw.gdi.minvenj.nl](http://pdw.gdi.minvenj.nl)| | **D**|nginx| | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Nginx|Welcome to nginx...|
+|[http://pdw.gdi.minvenj.nl](http://pdw.gdi.minvenj.nl)| | **F**|nginx|:o: | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Laravel Nginx PHP|Weakpass|
 |[https://www.minvenj.nl](https://www.minvenj.nl)| **B**| **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[http://apps.minvenj.nl](http://apps.minvenj.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://ap.connect.minvenj.nl](https://ap.connect.minvenj.nl)| **A+**| **A**||:warning: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Microsoft ASP.NET||
@@ -40,7 +40,7 @@
 |[https://autodiscover.dtv.minvenj.nl](https://autodiscover.dtv.minvenj.nl)| **F**| **E**|| | | | | | | | :white_check_mark: | |||
 |[https://lyncdiscover.acpt.dji.minvenj.nl](https://lyncdiscover.acpt.dji.minvenj.nl)| **F**| **E**|| | | | | | | | :white_check_mark: | |||
 |[https://enterpriseenrollment.dtv.minvenj.nl](https://enterpriseenrollment.dtv.minvenj.nl)| **A+**| **C**|server| | | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | ||302 Found|
-|[http://dwr-2.gdi.minvenj.nl](http://dwr-2.gdi.minvenj.nl)| | **D**|nginx| | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Nginx|Welcome to nginx...|
+|[http://dwr-2.gdi.minvenj.nl](http://dwr-2.gdi.minvenj.nl)| | **F**|nginx|:o: | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Laravel Nginx PHP|Weakpass|
 |[https://ssci-ossplanning.minvenj.nl](https://ssci-ossplanning.minvenj.nl)| **B**| **F**|Microsoft-IIS/8.5| | | | | | | | :white_check_mark: | |IIS:8.5 Microsoft ASP.NET Windows Server|403 - Forbidden:...|
 |[https://minvenj.nl](https://minvenj.nl)| **B**| **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://dialin.dtv.minvenj.nl](https://dialin.dtv.minvenj.nl)| **F**| **E**|| | | | | | | | :white_check_mark: | |||

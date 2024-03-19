@@ -6,7 +6,7 @@
 
  - **SSL Grade**:
  - **HTTP Security Grade**:D
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:19
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:20
 
 
 | File       | Count | Info |
@@ -90,7 +90,7 @@
 |[https://api.brabant.nl](https://api.brabant.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|403 - Forbidden:...|
 |[https://mik-acpt.brabant.nl](https://mik-acpt.brabant.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|Page Redirection|
 |[http://informatie-rws.brabant.nl](http://informatie-rws.brabant.nl)| | **F**|BigIP| | | | | | | | :white_check_mark: | |F5 BigIP||
-|[https://blog.brabant.nl](https://blog.brabant.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|This is the defa...|
+|[http://blog.brabant.nl](http://blog.brabant.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx||
 |[https://pki.brabant.nl](https://pki.brabant.nl)| | **F**|Microsoft-Azure-Application-Gateway/v2| | | | | | | | :white_check_mark: | ||404 Not Found|
 |[https://enterpriseenrollment.brabant.nl](https://enterpriseenrollment.brabant.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||
 |[https://enterpriseregistration.brabant.nl](https://enterpriseregistration.brabant.nl)| | **E**|| | | | | | | | :white_check_mark: | |||

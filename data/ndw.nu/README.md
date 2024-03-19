@@ -40,7 +40,7 @@
 |[https://feeds.english.ndw.nu](https://feeds.english.ndw.nu)| **A+**| **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://iam.ndw.nu](https://iam.ndw.nu)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Welcome to Keycl...|
 |[https://keycloak.ndw.nu](https://keycloak.ndw.nu)| | **E**|| | | | | | | | :white_check_mark: | ||Microsoft Azure...|
-|[https://maps.ndw.nu](https://maps.ndw.nu)| | **F**|Apache/2.4.57 (Unix)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.57 Bootstrap UNIX|NDW Maps|
+|[https://maps.ndw.nu](https://maps.ndw.nu)| | **F**|Apache/2.4.58 (Unix)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.58 Bootstrap UNIX|NDW Maps|
 |[https://melvin.ndw.nu](https://melvin.ndw.nu)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | | :white_check_mark: | :white_check_mark: | |HSTS Nginx|Melvin|
 |[https://mijn.ndw.nu](https://mijn.ndw.nu)| | **D**|Apache/2.4.57 (Debian)| | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server:2.4.57 Debian|mijn NDW|
 |[https://mijnrdtmnl.ndw.nu](https://mijnrdtmnl.ndw.nu)| **B**| **A**|nginx/1.24.0| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS Nginx:1.24.0|RdtWebPortal|
@@ -50,7 +50,7 @@
 |[https://mlops-tracking.ndw.nu](https://mlops-tracking.ndw.nu)| **B**| **F**|Microsoft-Azure-Application-Gateway/v2| | | | | | | | :white_check_mark: | ||404 Not Found|
 |[https://mogin.ndw.nu](https://mogin.ndw.nu)| **F**| **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS PHP|Mogin|
 |[https://ncis.ndw.nu](https://ncis.ndw.nu)| **B**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS Nginx|NCIS Web Portaal|
-|[https://ndss-idea.ndw.nu](https://ndss-idea.ndw.nu)| | **B**|Werkzeug/1.0.1 Python/3.10.13|:warning: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |Flask:1.0.1 HSTS Python:3.10.13||
+|[https://ndss-idea.ndw.nu](https://ndss-idea.ndw.nu)| | **E**|| | | | | | | | :white_check_mark: | |Flask:1.0.1 HSTS Python:3.10.13||
 |[https://ndwviewer.ndw.nu](https://ndwviewer.ndw.nu)| **B**| **A**|Apache/2.4.56 (Debian)| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server:2.4.56 Debian HSTS|NDW Viewer|
 |[https://nls.ndw.nu](https://nls.ndw.nu)| | **F**|nginx/1.24.0| | | | | | | | :white_check_mark: | |Nginx:1.24.0|NlsFrontend|
 |[https://nt.ndw.nu](https://nt.ndw.nu)| **B**| **E**|| | | | | | | | :white_check_mark: | |AngularJS||
@@ -87,7 +87,7 @@
 |[https://vm-ivra.staging.ndw.nu](https://vm-ivra.staging.ndw.nu)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|VM-IVRA|
 |[https://ncis-ref.ndw.nu](https://ncis-ref.ndw.nu)| **B**| **A**|Microsoft-Azure-Application-Gateway/v2| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | ||301 Moved Perman...|
 |[https://ncis.staging.ndw.nu](https://ncis.staging.ndw.nu)| **A+**| **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS|NCIS Web Portaal|
-|[http://pm-bounces.ndw.nu](http://pm-bounces.ndw.nu)| | **F**|nginx/1.25.3| | | | | | | | :white_check_mark: | |Nginx:1.25.3|Postmark — Email...|
+|[http://pm-bounces.ndw.nu](http://pm-bounces.ndw.nu)| | **F**|nginx/1.25.4| | | | | | | | :white_check_mark: | |Nginx:1.25.4|Postmark — Email...|
 |[https://caas.ndw.nu](https://caas.ndw.nu)| **A**| **E**|| | | | | | | | :white_check_mark: | |||
 |[https://wegkenmerken.staging.ndw.nu](https://wegkenmerken.staging.ndw.nu)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|Wegkenmerken - N...|
 |[https://bereikbaarheid.ndw.nu](https://bereikbaarheid.ndw.nu)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|Bereikbaarheidsk...|

@@ -255,8 +255,9 @@ prisma.rijksapplicaties.nl
 woo.rijksapplicaties.nl
 dpt.rijksapplicaties.nl
 app2.rijksapplicaties.nl
-edh.rijksapplicaties.nl
-edh-webservice.rijksapplicaties.nl
 wpo-webservice.staging.rijksapplicaties.nl
 app1.acc.rijksapplicaties.nl
 wpo-webservice.rijksapplicaties.nl
+rvb-dfss.rijksapplicaties.nl
+monitor.rijksapplicaties.nl
+bda.rijksapplicaties.nl

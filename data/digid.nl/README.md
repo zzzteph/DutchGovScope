@@ -26,15 +26,15 @@
 |[https://api-preprod2.digid.nl](https://api-preprod2.digid.nl)| **F**| **E**|| | | | | | | | :white_check_mark: | |||
 |[https://app.digid.nl](https://app.digid.nl)| **A+**| **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://app-preprod1.digid.nl](https://app-preprod1.digid.nl)| **A+**| **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
-|[https://app-preprod2.digid.nl](https://app-preprod2.digid.nl)| **A+**| **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS|DigiD - Pagina n...|
+|[https://app-preprod2.digid.nl](https://app-preprod2.digid.nl)| **A+**| **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://balieportaal.digid.nl](https://balieportaal.digid.nl)| **A+**| **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Balieportaal|
 |[https://beta.machtigen.digid.nl](https://beta.machtigen.digid.nl)| **A+**| **A**|Apache| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
 |[https://eid.digid.nl](https://eid.digid.nl)| **A+**| **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://eid-preprod1.digid.nl](https://eid-preprod1.digid.nl)| **A+**| **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
-|[https://eid-preprod2.digid.nl](https://eid-preprod2.digid.nl)| **A+**| **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|DigiD - Pagina n...|
+|[https://eid-preprod2.digid.nl](https://eid-preprod2.digid.nl)| **A+**| **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://login.digid.nl](https://login.digid.nl)| **A+**| **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://login.pp1.digid.nl](https://login.pp1.digid.nl)| **A+**| **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
-|[https://login.pp2.digid.nl](https://login.pp2.digid.nl)| **A+**| **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS|DigiD - Pagina n...|
+|[https://login.pp2.digid.nl](https://login.pp2.digid.nl)| **A+**| **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://machtigen.digid.nl](https://machtigen.digid.nl)| **A**| **A**|Apache| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server Express HSTS Node.js|DigiD Machtigen|
 |[https://mijn.digid.nl](https://mijn.digid.nl)| **A+**| **A**||:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Ruby Ruby on Rails||
 |[https://mijn.preprod1.digid.nl](https://mijn.preprod1.digid.nl)| **A+**| **A**||:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Ruby Ruby on Rails||

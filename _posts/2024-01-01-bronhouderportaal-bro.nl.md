@@ -52,7 +52,7 @@ tags: dutchgov
 |[https://bronhouderportaal-bro.nl](https://bronhouderportaal-bro.nl)| **A+**| **B**|Apache|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS|301 Moved Perman...|
 |[https://acc2.bronhouderportaal-bro.nl](https://acc2.bronhouderportaal-bro.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|403 Forbidden|
 |[https://demo2.bronhouderportaal-bro.nl](https://demo2.bronhouderportaal-bro.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|403 Forbidden|
-|[http://localhost.bronhouderportaal-bro.nl](http://localhost.bronhouderportaal-bro.nl)| | **D**|nginx| | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Nginx|Welcome to nginx...|
+|[http://localhost.bronhouderportaal-bro.nl](http://localhost.bronhouderportaal-bro.nl)| | **F**|nginx|:o: | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Laravel Nginx PHP|Weakpass|
 |[https://sso-demo2.bronhouderportaal-bro.nl](https://sso-demo2.bronhouderportaal-bro.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|403 Forbidden|
 |[http://sso-acc.bronhouderportaal-bro.nl](http://sso-acc.bronhouderportaal-bro.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 

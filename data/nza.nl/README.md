@@ -6,7 +6,7 @@
 
  - **SSL Grade**:A+
  - **HTTP Security Grade**:B
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:21
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:22
 
 
 | File       | Count | Info |
@@ -26,7 +26,7 @@
 |[https://nza-form6.nza.nl](https://nza-form6.nza.nl)| **A+**| **B**|nginx| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS Nginx|Mendix|
 |[https://nza-form5.nza.nl](https://nza-form5.nza.nl)| **A+**| **B**|nginx| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS Nginx|Mendix|
 |[https://mijn-accp.nza.nl](https://mijn-accp.nza.nl)| **A+**| **B**|nginx| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS Nginx|Mijn NZa|
-|[https://werkenbijde.nza.nl](https://werkenbijde.nza.nl)| **A**| **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server Elementor:3.19.2 MySQL PHP WordPress|Home - Werken bi...|
+|[https://werkenbijde.nza.nl](https://werkenbijde.nza.nl)| **A**| **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server Elementor:3.20.0 MySQL PHP WordPress|Home - Werken bi...|
 |[https://nza.nl](https://nza.nl)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
 |[https://zorgproducten.nza.nl](https://zorgproducten.nza.nl)| **A+**| **A**|nginx|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Azure HSTS Microsoft ASP.NET Nginx|NZa zorgproducta...|
 |[https://leren.nza.nl](https://leren.nza.nl)| **A+**| **A**|Apache| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS|301 Moved Perman...|
@@ -55,7 +55,7 @@
 |[https://zorgvraagtypering-test.nza.nl](https://zorgvraagtypering-test.nza.nl)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS Nginx|NZa Zorgvraagtyp...|
 |[https://tovertool.nza.nl](https://tovertool.nza.nl)| **A+**| **B**|nginx| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS Nginx|403 Forbidden|
 |[https://wachttijden.nza.nl](https://wachttijden.nza.nl)| **A+**| **B**|nginx| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS Nginx|NZA - Wachttijde...|
-|[https://mta-sts.nza.nl](https://mta-sts.nza.nl)| **A**| **A**|nginx| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Nginx|302 Found|
+|[https://mta-sts.nza.nl](https://mta-sts.nza.nl)| **A**| **A**|nginx| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|302 Found|
 |[https://dbcleergang.nza.nl](https://dbcleergang.nza.nl)| **A+**| **A**|Apache| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS|301 Moved Perman...|
 |[https://dkdlmodel.nza.nl](https://dkdlmodel.nza.nl)| | **A**|nginx| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|Draagkracht Draa...|
 |[http://zpa.nza.nl](http://zpa.nza.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|301 Moved Perman...|

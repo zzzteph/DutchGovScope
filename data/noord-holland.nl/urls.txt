@@ -2,11 +2,9 @@ https://mailings.noord-holland.nl
 https://apollo4.noord-holland.nl
 https://subsidies.noord-holland.nl
 https://meet.noord-holland.nl
-https://data.noord-holland.nl
 http://zoeken.noord-holland.nl
 http://dataiku.noord-holland.nl
 https://esm.noord-holland.nl
-https://api.data.noord-holland.nl
 https://statensite.noord-holland.nl
 https://formulieren.noord-holland.nl
 https://developer.noord-holland.nl

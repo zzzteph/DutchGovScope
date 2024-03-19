@@ -6,7 +6,7 @@
 
  - **SSL Grade**:A+
  - **HTTP Security Grade**:A
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:8
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:7
 
 
 | File       | Count | Info |
@@ -21,10 +21,10 @@
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://cert.pkioverheid.nl](https://cert.pkioverheid.nl)| **A+**| **A**|Apache| |:white_check_mark: | :warning:| | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS|Overzicht PKIove...|
+|[https://cert.pkioverheid.nl](https://cert.pkioverheid.nl)| **A+**| **A**|| |:white_check_mark: | :warning:| | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Overview of PKIo...|
 |[https://cps.pkioverheid.nl](https://cps.pkioverheid.nl)| **A**| **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Certification Pr...|
-|[https://crl.pkioverheid.nl](https://crl.pkioverheid.nl)| **A+**| **A**|Apache| |:white_check_mark: | :warning:| | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS|PKIoverheid Cert...|
-|[https://www.pkioverheid.nl](https://www.pkioverheid.nl)| **A+**| **A**|Apache| |:white_check_mark: | :warning:| | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
+|[https://crl.pkioverheid.nl](https://crl.pkioverheid.nl)| **A+**| **A**|| |:white_check_mark: | :warning:| | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|PKIoverheid Cert...|
+|[http://www.pkioverheid.nl](http://www.pkioverheid.nl)| **A+**| **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|KPN TSP - CRL Di...|
 |[https://pkioverheid.nl](https://pkioverheid.nl)| **A+**| **A**|Apache| |:white_check_mark: | :warning:| | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
 |[http://domorganisatieservicesocsp-g3.pkioverheid.nl](http://domorganisatieservicesocsp-g3.pkioverheid.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[http://rootocsp-g3.pkioverheid.nl](http://rootocsp-g3.pkioverheid.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||

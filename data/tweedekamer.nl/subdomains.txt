@@ -168,3 +168,7 @@ cdn.beta.tweedekamer.nl
 internal.beta.tweedekamer.nl
 mail.beta.tweedekamer.nl
 secure.beta.tweedekamer.nl
+handboekgc-acc.tweedekamer.nl
+handboekdao.tweedekamer.nl
+handboekgpbw-acc.tweedekamer.nl
+handboekgc.tweedekamer.nl

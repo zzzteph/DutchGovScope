@@ -11,9 +11,9 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/zwemwater.nl/subdomains.txt)|416|Alive subdomains|
+|[subdomains.txt](/data/zwemwater.nl/subdomains.txt)|458|Alive subdomains|
 |[urls.txt](/data/zwemwater.nl/urls.txt)|359|Urls|
-|[all_subdomains.txt](/data/zwemwater.nl/all_subdomains.txt)|458|All found subdomains (history)|
+|[all_subdomains.txt](/data/zwemwater.nl/all_subdomains.txt)|460|All found subdomains (history)|
 
 
 ## Statistics
@@ -193,7 +193,7 @@
 |[https://freespace.zwemwater.nl](https://freespace.zwemwater.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
 |[https://acpt.zwemwater.nl](https://acpt.zwemwater.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
 |[https://ftp.zwemwater.nl](https://ftp.zwemwater.nl)| | **B**|Apache| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
-|[http://localhost.zwemwater.nl](http://localhost.zwemwater.nl)| | **D**|nginx| | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Nginx|Welcome to nginx...|
+|[http://localhost.zwemwater.nl](http://localhost.zwemwater.nl)| | **F**|nginx|:o: | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Laravel Nginx PHP|Weakpass|
 |[https://webmail.zwemwater.nl](https://webmail.zwemwater.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx Plesk|Aralto ICT|
 |[https://pci.zwemwater.nl](https://pci.zwemwater.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
 |[https://adipex.zwemwater.nl](https://adipex.zwemwater.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|

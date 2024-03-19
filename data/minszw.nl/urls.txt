@@ -3,4 +3,4 @@ https://siam.minszw.nl
 https://minszw.nl
 https://gemeenteloket.minszw.nl
 https://www.gemeenteloket.minszw.nl
-https://testsiam.minszw.nl
+http://testsiam.minszw.nl

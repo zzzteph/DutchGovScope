@@ -1,3 +1,6 @@
 www.investeringsimpulsspv.nl
 mail.investeringsimpulsspv.nl
 investeringsimpulsspv.nl
+ftp.investeringsimpulsspv.nl
+pop.investeringsimpulsspv.nl
+smtp.investeringsimpulsspv.nl

@@ -27,8 +27,8 @@
 |[https://beheer.ncpeh.nl](https://beheer.ncpeh.nl)| **A**| **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://feeds.ncpeh.nl](https://feeds.ncpeh.nl)| **A+**| **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://opendata.ncpeh.nl](https://opendata.ncpeh.nl)| **A+**| **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
-|[https://portaal.ncpeh.nl](https://portaal.ncpeh.nl)| **A**| **A**|-| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|NCPEH|
-|[https://uzipas.portaal.ncpeh.nl](https://uzipas.portaal.ncpeh.nl)| | **A**|-| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|NCPEH|
+|[https://portaal.ncpeh.nl](https://portaal.ncpeh.nl)| **A**| **A**|-| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|NCPeH-NL|
+|[https://uzipas.portaal.ncpeh.nl](https://uzipas.portaal.ncpeh.nl)| | **A**|-| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|NCPeH-NL|
 |[https://www.ncpeh.nl](https://www.ncpeh.nl)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Home | NCPeH-NL|
 |[https://ncpeh.nl](https://ncpeh.nl)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
 

@@ -133,3 +133,5 @@ research.test.trainingscatalogus.nl
 static.test.trainingscatalogus.nl
 service.test.trainingscatalogus.nl
 gitlab.test.trainingscatalogus.nl
+gemeentedenhaag-lms.trainingscatalogus.nl
+lms-rotterdam.trainingscatalogus.nl

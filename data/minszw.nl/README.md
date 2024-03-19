@@ -26,5 +26,5 @@
 |[https://minszw.nl](https://minszw.nl)| **A+**| **A**|Microsoft-IIS/10.0| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS IIS:10.0 Windows Server|Document Moved|
 |[https://gemeenteloket.minszw.nl](https://gemeenteloket.minszw.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
 |[https://www.gemeenteloket.minszw.nl](https://www.gemeenteloket.minszw.nl)| **F**| **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
-|[https://testsiam.minszw.nl](https://testsiam.minszw.nl)| **A+**| **A**|N.A.| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Authentication F...|
+|[http://testsiam.minszw.nl](http://testsiam.minszw.nl)| **A+**| **A**|awselb/2.0| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Amazon ELB Amazon Web Services|301 Moved Perman...|
 

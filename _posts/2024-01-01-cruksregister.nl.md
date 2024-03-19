@@ -41,7 +41,7 @@ tags: dutchgov
 |[https://cruksregister.nl](https://cruksregister.nl)| **A+**| **A**|cloudflare| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bootstrap:1 Cloudflare HSTS|Centraal Registe...|
 |[https://test.cruksregister.nl](https://test.cruksregister.nl)| **A+**| **A**|cloudflare| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bootstrap:1 Cloudflare HSTS|Centraal Registe...|
 |[https://acc.cruksregister.nl](https://acc.cruksregister.nl)| **A+**| **B**|cloudflare| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Cloudflare HSTS|Attention Requir...|
-|[https://grafana.cruksregister.nl](https://grafana.cruksregister.nl)| | **A**|cloudflare| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Cloudflare HSTS|Attention Requir...|
+|[https://grafana.cruksregister.nl](https://grafana.cruksregister.nl)| | **A**|cloudflare| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Cloudflare HSTS||
 |[https://jaeger.cruksregister.nl](https://jaeger.cruksregister.nl)| | **A**|cloudflare| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Cloudflare HSTS|404 Not Found|
 |[https://pingdom.cruksregister.nl](https://pingdom.cruksregister.nl)| | **A**|cloudflare| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Cloudflare HSTS|404 Not Found|
 |[http://testing.cruksregister.nl](http://testing.cruksregister.nl)| | **F**|cloudflare| | | | | | | | :white_check_mark: | |Cloudflare||

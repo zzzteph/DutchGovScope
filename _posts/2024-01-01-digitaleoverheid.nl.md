@@ -7,7 +7,7 @@ all_subdomains_count: 8
 urls_count: 5
 ssl_rank: A+
 http_rank: C
-security_txt: 0
+security_txt: 2
 url_link: /data/digitaleoverheid.nl/urls.txt
 all_subdomains_link: /data/digitaleoverheid.nl/all_subdomains.txt
 subdomains_link: /data/digitaleoverheid.nl/subdomains.txt
@@ -22,7 +22,7 @@ tags: dutchgov
 
  - **SSL Grade**:A+
  - **HTTP Security Grade**:C
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:0
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:2
 
 
 | File       | Count | Info |
@@ -39,7 +39,7 @@ tags: dutchgov
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[https://accept.digitaleoverheid.nl](https://accept.digitaleoverheid.nl)| **A+**| **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |Basic HSTS Nginx|401 Authorizatio...|
 |[http://magazine-nl.digitaleoverheid.nl](http://magazine-nl.digitaleoverheid.nl)| | **C**|| | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | ||404 - Not Found|
-|[https://www.digitaleoverheid.nl](https://www.digitaleoverheid.nl)| **A+**| **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS MySQL Nginx PHP:8.0.30 WordPress:6.4.3 Yoast SEO:22.0|Home - Digitale...|
+|[https://www.digitaleoverheid.nl](https://www.digitaleoverheid.nl)| **A+**| **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS MySQL Nginx PHP:8.0.30 WordPress:6.4.3 Yoast SEO:22.2|Home - Digitale...|
 |[https://digitaleoverheid.nl](https://digitaleoverheid.nl)| **A+**| **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS MySQL Nginx PHP:8.0.30 WordPress||
 |[http://magazine-en.digitaleoverheid.nl](http://magazine-en.digitaleoverheid.nl)| | **C**|| | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | ||404 - Not Found|
 

@@ -11,7 +11,7 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/maatschappelijkestabiliteit.nl/subdomains.txt)|30196|Alive subdomains|
+|[subdomains.txt](/data/maatschappelijkestabiliteit.nl/subdomains.txt)|74459|Alive subdomains|
 |[urls.txt](/data/maatschappelijkestabiliteit.nl/urls.txt)|3|Urls|
 |[all_subdomains.txt](/data/maatschappelijkestabiliteit.nl/all_subdomains.txt)|74459|All found subdomains (history)|
 

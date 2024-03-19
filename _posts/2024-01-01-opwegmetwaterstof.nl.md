@@ -37,8 +37,8 @@ tags: dutchgov
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://www.opwegmetwaterstof.nl](https://www.opwegmetwaterstof.nl)| **A**| **F**|Apache/2| | | | | | | | :white_check_mark: | |Apache HTTP Server:2 PHP:7.4.33||
-|[https://opwegmetwaterstof.nl](https://opwegmetwaterstof.nl)| **A**| **F**|Apache/2| | | | | | | | :white_check_mark: | |Apache HTTP Server:2 Google Tag Manager MySQL PHP:7.4.33 WordPress||
+|[https://www.opwegmetwaterstof.nl](https://www.opwegmetwaterstof.nl)| **A**| **F**|Apache/2| | | | | | | | :white_check_mark: | |Apache HTTP Server:2|403 Forbidden|
+|[https://opwegmetwaterstof.nl](https://opwegmetwaterstof.nl)| **A**| **F**|Apache/2| | | | | | | | :white_check_mark: | |Apache HTTP Server:2|403 Forbidden|
 |[https://email.mg.opwegmetwaterstof.nl](https://email.mg.opwegmetwaterstof.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://email.opwegmetwaterstof.nl](https://email.opwegmetwaterstof.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 

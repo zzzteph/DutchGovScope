@@ -1,4 +1,3 @@
-http://acc-www.pbl.nl
 http://autodiscover.pbl.nl
 https://data.pbl.nl
 https://dataportaal.pbl.nl

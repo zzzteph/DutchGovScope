@@ -41,5 +41,5 @@ tags: dutchgov
 |[https://www.zeeweringen.nl](https://www.zeeweringen.nl)| **A**| **F**|nginx/1.24.0| | | | | | | | :white_check_mark: | |Nginx:1.24.0|Zeeweringen|
 |[https://ww2.zeeweringen.nl](https://ww2.zeeweringen.nl)| **F**| **F**|nginx/1.24.0| | | | | | | | :white_check_mark: | |Nginx:1.24.0|Hostnet: Uw dome...|
 |[https://conferentie.zeeweringen.nl](https://conferentie.zeeweringen.nl)| **F**| **F**|nginx/1.24.0| | | | | | | | :white_check_mark: | |Nginx:1.24.0|Hostnet: Uw dome...|
-|[https://zeeweringen.nl](https://zeeweringen.nl)| **A**| **F**|nginx/1.24.0| | | | | | | | :white_check_mark: | |Nginx:1.24.0|403-forbidden|
+|[https://zeeweringen.nl](https://zeeweringen.nl)| **A**| **F**|nginx/1.24.0| | | | | | | | :white_check_mark: | |Nginx:1.24.0|Zeeweringen|
 

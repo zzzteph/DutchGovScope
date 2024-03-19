@@ -6,7 +6,7 @@ subdomains_count: 17
 all_subdomains_count: 21
 urls_count: 16
 ssl_rank: A
-http_rank: C
+http_rank: D
 security_txt: 3
 url_link: /data/zorgverzekeringslijn.nl/urls.txt
 all_subdomains_link: /data/zorgverzekeringslijn.nl/all_subdomains.txt
@@ -21,7 +21,7 @@ tags: dutchgov
 
 
  - **SSL Grade**:A
- - **HTTP Security Grade**:C
+ - **HTTP Security Grade**:D
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:3
 
 
@@ -51,6 +51,6 @@ tags: dutchgov
 |[https://mail.zorgverzekeringslijn.nl](https://mail.zorgverzekeringslijn.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|Test Page for th...|
 |[https://old.zorgverzekeringslijn.nl](https://old.zorgverzekeringslijn.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|Test Page for th...|
 |[https://webmail.zorgverzekeringslijn.nl](https://webmail.zorgverzekeringslijn.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|Test Page for th...|
-|[http://localhost.zorgverzekeringslijn.nl](http://localhost.zorgverzekeringslijn.nl)| | **D**|nginx| | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Nginx|Welcome to nginx...|
+|[http://localhost.zorgverzekeringslijn.nl](http://localhost.zorgverzekeringslijn.nl)| | **F**|nginx|:o: | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Laravel Nginx PHP|Weakpass|
 |[https://mail2.zorgverzekeringslijn.nl](https://mail2.zorgverzekeringslijn.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|301 Moved Perman...|
 

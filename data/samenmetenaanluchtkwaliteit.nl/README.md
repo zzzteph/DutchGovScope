@@ -5,7 +5,7 @@
 
 
  - **SSL Grade**:A
- - **HTTP Security Grade**:A
+ - **HTTP Security Grade**:B
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:4
 
 
@@ -25,5 +25,5 @@
 |[https://test.samenmetenaanluchtkwaliteit.nl](https://test.samenmetenaanluchtkwaliteit.nl)| **A**| **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |||
 |[https://www.samenmetenaanluchtkwaliteit.nl](https://www.samenmetenaanluchtkwaliteit.nl)| **A**| **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |||
 |[https://samenmetenaanluchtkwaliteit.nl](https://samenmetenaanluchtkwaliteit.nl)| **A**| **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |||
-|[http://localhost.samenmetenaanluchtkwaliteit.nl](http://localhost.samenmetenaanluchtkwaliteit.nl)| | **D**|nginx| | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Nginx|Welcome to nginx...|
+|[http://localhost.samenmetenaanluchtkwaliteit.nl](http://localhost.samenmetenaanluchtkwaliteit.nl)| | **F**|nginx|:o: | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Laravel Nginx PHP|Weakpass|
 

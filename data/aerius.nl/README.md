@@ -13,7 +13,7 @@
 |------------|-------|------|
 |[subdomains.txt](/data/aerius.nl/subdomains.txt)|9801|Alive subdomains|
 |[urls.txt](/data/aerius.nl/urls.txt)|29|Urls|
-|[all_subdomains.txt](/data/aerius.nl/all_subdomains.txt)|9801|All found subdomains (history)|
+|[all_subdomains.txt](/data/aerius.nl/all_subdomains.txt)|12429|All found subdomains (history)|
 
 
 ## Statistics
@@ -32,7 +32,7 @@
 |[https://nexus-docker.aerius.nl](https://nexus-docker.aerius.nl)| **A**| **F**|Jetty(9.4.53.v20231009)| | | | | | | | :white_check_mark: | |Java Jetty:9.4.53|Error 400 Not a...|
 |[https://pdok.aerius.nl](https://pdok.aerius.nl)| **A**| **F**|awselb/2.0| | | | | | | | :white_check_mark: | |Amazon ELB Amazon Web Services||
 |[https://regionaal-register.aerius.nl](https://regionaal-register.aerius.nl)| **A**| **F**|awselb/2.0| | | | | | | | :white_check_mark: | |Amazon ELB Amazon Web Services||
-|[https://register.aerius.nl](https://register.aerius.nl)| **A**| **F**|nginx/1.25.2| | | | | | | | :white_check_mark: | |Nginx:1.25.2||
+|[https://register.aerius.nl](https://register.aerius.nl)| **A**| **F**|nginx/1.25.4| | | | | | | | :white_check_mark: | |Nginx:1.25.4||
 |[http://scenario.aerius.nl](http://scenario.aerius.nl)| **A+**| **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |Apache HTTP Server HSTS||
 |[https://search.aerius.nl](https://search.aerius.nl)| **A**| **E**|| | | | | | | | :white_check_mark: | ||AERIUS Search Re...|
 |[https://www.aerius.nl](https://www.aerius.nl)| **A**| **A**|awselb/2.0| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Amazon ELB Amazon Web Services|301 Moved Perman...|
