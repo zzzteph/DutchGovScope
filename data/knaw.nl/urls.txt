@@ -324,8 +324,11 @@ https://facades-conversion.labs.dans.knaw.nl
 https://oai-harvester.labs.dans.knaw.nl
 https://ga-wp3.sd.di.huc.knaw.nl
 https://facades-formats.labs.dans.knaw.nl
+https://wp-02.dev.huc.knaw.nl
 https://minio2.labs.dans.knaw.nl
 https://wp-05.dev.huc.knaw.nl
 https://vangogh-api.dev.huc.knaw.nl
+https://wp-10.dev.huc.knaw.nl
+https://wp-01.dev.huc.knaw.nl
 https://wp-16.dev.huc.knaw.nl
 https://ss31.dans.knaw.nl

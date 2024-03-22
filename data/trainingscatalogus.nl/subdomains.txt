@@ -135,3 +135,6 @@ service.test.trainingscatalogus.nl
 gitlab.test.trainingscatalogus.nl
 gemeentedenhaag-lms.trainingscatalogus.nl
 lms-rotterdam.trainingscatalogus.nl
+svb-lms-a.scim-api.trainingscatalogus.nl
+vgz-lms-a.enrollment-api.trainingscatalogus.nl
+vgz-lms-a.scim-api.trainingscatalogus.nl

@@ -6,13 +6,13 @@
 
  - **SSL Grade**:A-
  - **HTTP Security Grade**:A
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:76
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:77
 
 
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/pleio.nl/subdomains.txt)|1401|Alive subdomains|
-|[urls.txt](/data/pleio.nl/urls.txt)|1303|Urls|
+|[urls.txt](/data/pleio.nl/urls.txt)|1304|Urls|
 |[all_subdomains.txt](/data/pleio.nl/all_subdomains.txt)|1511|All found subdomains (history)|
 
 
@@ -1126,6 +1126,7 @@
 |[https://bluerain.pleio.nl](https://bluerain.pleio.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Domeinnaam nog n...|
 |[https://ysselsteyn.pleio.nl](https://ysselsteyn.pleio.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Domeinnaam nog n...|
 |[https://3am.pleio.nl](https://3am.pleio.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Domeinnaam nog n...|
+|[https://stoppenmetondernemen.pleio.nl](https://stoppenmetondernemen.pleio.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://moodle-odcn.pleio.nl](https://moodle-odcn.pleio.nl)| | **F**|nginx/1.24.0| | | | | | | | :white_check_mark: | |HSTS Nginx:1.24.0|Doorverwijspagin...|
 |[https://qastaging.pleio.nl](https://qastaging.pleio.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Domeinnaam nog n...|
 |[https://idesk.pleio.nl](https://idesk.pleio.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Domeinnaam nog n...|

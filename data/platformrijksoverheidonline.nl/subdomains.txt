@@ -10,4 +10,5 @@ i-www.platformrijksoverheidonline.nl
 o-www.platformrijksoverheidonline.nl
 t-www.platformrijksoverheidonline.nl
 a-opendata.platformrijksoverheidonline.nl
+handleiding.platformrijksoverheidonline.nl
 api.abonneren.platformrijksoverheidonline.nl

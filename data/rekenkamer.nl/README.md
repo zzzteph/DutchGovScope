@@ -13,7 +13,7 @@
 |------------|-------|------|
 |[subdomains.txt](/data/rekenkamer.nl/subdomains.txt)|25|Alive subdomains|
 |[urls.txt](/data/rekenkamer.nl/urls.txt)|12|Urls|
-|[all_subdomains.txt](/data/rekenkamer.nl/all_subdomains.txt)|77|All found subdomains (history)|
+|[all_subdomains.txt](/data/rekenkamer.nl/all_subdomains.txt)|79|All found subdomains (history)|
 
 
 ## Statistics

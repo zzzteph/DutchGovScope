@@ -39,5 +39,4 @@ a-feeds.nza.nl
 a-magazines.nza.nl
 a-opendata.nza.nl
 a-www.nza.nl
-nza-portaal1.nza.nl
 zpa.nza.nl

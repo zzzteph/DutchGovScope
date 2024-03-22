@@ -208,6 +208,7 @@ rvp-beheer-demo.devops.rvb.rijkscloud.nl
 registry.gitlab.dgdoobi.rijkscloud.nl
 krv-demo.cvr.rvb.rijkscloud.nl
 keycloak-devops.devops.rvb.rijkscloud.nl
+dataiku.abibzk.rijkscloud.nl
 iuc-wsgi-acc.rijkscloud.nl
 rstudio.test.ix.rijkscloud.nl
 jupyter.test.ix.rijkscloud.nl
@@ -549,3 +550,11 @@ vpn03.ec.rijkscloud.nl
 api-performance.test.ix.rijkscloud.nl
 kit-art.cvr.rvb.rijkscloud.nl
 kit-demo.cvr.rvb.rijkscloud.nl
+diplomaonderzoek.dfront.rijkscloud.nl
+steppingstone.dfront.rijkscloud.nl
+particulier.dfront.rijkscloud.nl
+vpn.ctf.rijkscloud.nl
+ipa2.ec.rijkscloud.nl
+elk.dgdoobi.rijkscloud.nl
+afwijkend-examineren.dfront.rijkscloud.nl
+shinyproxy.bdds.rijkscloud.nl

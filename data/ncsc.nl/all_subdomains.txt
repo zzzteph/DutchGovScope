@@ -88,3 +88,5 @@ arp.ncsc.nl
 misp.ncsc.nl
 a-english.ncsc.nl
 lists.ncsc.nl
+registreren.ncsc.nl
+melden.ncsc.nl

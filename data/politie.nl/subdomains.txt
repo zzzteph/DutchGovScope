@@ -81,7 +81,6 @@ mtp-pre.politie.nl
 mtp.politie.nl
 mvpn-pre.gslbppe.politie.nl
 mvpn-tst.ows2.politie.nl
-mvpn.gslbpe.politie.nl
 nexus.politie.nl
 ns1.gslb-trf.politie.nl
 ns1.gslbpe.politie.nl
@@ -101,11 +100,9 @@ sonarqube.politie.nl
 sophos.politie.nl
 sso-pa.politie.nl
 ssovpnappa-pre.gslbppe.politie.nl
-ssovpnappa-tst.ows2.politie.nl
 ssovpnappa.gslbpe.politie.nl
 ssovpnappi-pre.gslbppe.politie.nl
 ssovpnappi.gslbpe.politie.nl
-ssovpnintune-tst.ows2.politie.nl
 tele-db.politie.nl
 tele-od.politie.nl
 vaoa.politie.nl
@@ -122,3 +119,4 @@ emm.politie.nl
 connect-pre.politie.nl
 hub.politie.nl
 issues.politie.nl
+onderzoek.politie.nl

@@ -28,7 +28,6 @@ login.vechtstromen.nl
 formulieren.vechtstromen.nl
 test.formulieren.vechtstromen.nl
 securetest.vechtstromen.nl
-lyncdiscover.vechtstromen.nl
 sip.vechtstromen.nl
 digip.vechtstromen.nl
 dialin2.vechtstromen.nl

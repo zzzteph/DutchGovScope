@@ -2243,9 +2243,12 @@ https://facades-conversion.labs.dans.knaw.nl
 https://oai-harvester.labs.dans.knaw.nl
 https://ga-wp3.sd.di.huc.knaw.nl
 https://facades-formats.labs.dans.knaw.nl
+https://wp-02.dev.huc.knaw.nl
 https://minio2.labs.dans.knaw.nl
 https://wp-05.dev.huc.knaw.nl
 https://vangogh-api.dev.huc.knaw.nl
+https://wp-10.dev.huc.knaw.nl
+https://wp-01.dev.huc.knaw.nl
 https://wp-16.dev.huc.knaw.nl
 https://ss31.dans.knaw.nl
 https://adaguc.knmi.nl
@@ -2804,6 +2807,8 @@ https://en.test.nationaalarchief.nl
 https://es.test.nationaalarchief.nl
 https://fr.test.nationaalarchief.nl
 http://localhost.nationaalarchief.nl
+http://amh.nationaalarchief.nl
+https://de.test.nationaalarchief.nl
 https://aip.nationaalcoordinatorgroningen.nl
 http://aip-acc.nationaalcoordinatorgroningen.nl
 https://feeds.nationaalcoordinatorgroningen.nl
@@ -4474,7 +4479,6 @@ https://rivm.nl
 https://tst-lsp.rivm.nl
 https://api.tst-lsp.rivm.nl
 https://lsp.rivm.nl
-http://dashview.rivm.nl
 http://spoor.rivm.nl
 https://api.acc-lsp.rivm.nl
 https://acc-lsp.rivm.nl
@@ -5954,6 +5958,7 @@ https://iapp.provincie-utrecht.nl
 https://mfa.provincie-utrecht.nl
 http://autodiscover.provincie-utrecht.nl
 https://burgemeesters.provincie-utrecht.nl
+https://ris.provincie-utrecht.nl
 http://localhost.provincie-utrecht.nl
 https://rmb.provincie-utrecht.nl
 https://kennis.zuid-holland.nl
@@ -8991,6 +8996,7 @@ https://web4729.pleio.nl
 https://bluerain.pleio.nl
 https://ysselsteyn.pleio.nl
 https://3am.pleio.nl
+https://stoppenmetondernemen.pleio.nl
 https://moodle-odcn.pleio.nl
 https://qastaging.pleio.nl
 https://idesk.pleio.nl
@@ -17669,6 +17675,7 @@ https://werkconferentierechtsbijstandbijdetijd.minjenv-events.nl
 https://wodc50jaar.minjenv-events.nl
 https://sptm2024.minjenv-events.nl
 https://jenvcarriereevent2023.minjenv-events.nl
+https://lhc2024.minjenv-events.nl
 https://postmaster.ertms.nl
 http://www.ertms.nl
 http://ertms.nl
@@ -18090,6 +18097,7 @@ https://openhuis.werkenvoornederland-events.nl
 https://werkenvoornederland-events.nl
 https://i-partnerschap.werkenvoornederland-events.nl
 https://www.werkenvoornederland-events.nl
+https://ocwcarierrekansen.werkenvoornederland-events.nl
 http://www.circularfestivals.nl
 http://circularfestivals.nl
 https://jenvbredewerkagenda.nl

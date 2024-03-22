@@ -2,7 +2,7 @@
 layout: default
 title: "allesoversport.nl"
 permalink: "/dutchgov/allesoversport.nl.html"
-subdomains_count: 306
+subdomains_count: 312
 all_subdomains_count: 314
 urls_count: 306
 ssl_rank: C
@@ -27,7 +27,7 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/allesoversport.nl/subdomains.txt)|306|Alive subdomains|
+|[subdomains.txt](/DutchGovScope/data/allesoversport.nl/subdomains.txt)|312|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/allesoversport.nl/urls.txt)|306|Urls|
 |[all_subdomains.txt](/DutchGovScope/data/allesoversport.nl/all_subdomains.txt)|314|All found subdomains (history)|
 

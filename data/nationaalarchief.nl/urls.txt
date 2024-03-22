@@ -38,3 +38,5 @@ https://en.test.nationaalarchief.nl
 https://es.test.nationaalarchief.nl
 https://fr.test.nationaalarchief.nl
 http://localhost.nationaalarchief.nl
+http://amh.nationaalarchief.nl
+https://de.test.nationaalarchief.nl

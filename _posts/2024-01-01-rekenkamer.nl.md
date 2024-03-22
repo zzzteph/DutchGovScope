@@ -3,7 +3,7 @@ layout: default
 title: "rekenkamer.nl"
 permalink: "/dutchgov/rekenkamer.nl.html"
 subdomains_count: 25
-all_subdomains_count: 77
+all_subdomains_count: 79
 urls_count: 12
 ssl_rank: A+
 http_rank: B
@@ -29,7 +29,7 @@ tags: dutchgov
 |------------|-------|------|
 |[subdomains.txt](/DutchGovScope/data/rekenkamer.nl/subdomains.txt)|25|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/rekenkamer.nl/urls.txt)|12|Urls|
-|[all_subdomains.txt](/DutchGovScope/data/rekenkamer.nl/all_subdomains.txt)|77|All found subdomains (history)|
+|[all_subdomains.txt](/DutchGovScope/data/rekenkamer.nl/all_subdomains.txt)|79|All found subdomains (history)|
 
 
 ## Statistics

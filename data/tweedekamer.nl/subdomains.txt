@@ -172,3 +172,7 @@ handboekgc-acc.tweedekamer.nl
 handboekdao.tweedekamer.nl
 handboekgpbw-acc.tweedekamer.nl
 handboekgc.tweedekamer.nl
+search.beta.tweedekamer.nl
+test.beta.tweedekamer.nl
+login.beta.tweedekamer.nl
+portal.beta.tweedekamer.nl

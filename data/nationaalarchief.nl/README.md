@@ -12,7 +12,7 @@
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/nationaalarchief.nl/subdomains.txt)|101|Alive subdomains|
-|[urls.txt](/data/nationaalarchief.nl/urls.txt)|40|Urls|
+|[urls.txt](/data/nationaalarchief.nl/urls.txt)|42|Urls|
 |[all_subdomains.txt](/data/nationaalarchief.nl/all_subdomains.txt)|189|All found subdomains (history)|
 
 
@@ -61,4 +61,6 @@
 |[https://es.test.nationaalarchief.nl](https://es.test.nationaalarchief.nl)| | **F**|gtranslate| | | | | | | | :white_check_mark: | |||
 |[https://fr.test.nationaalarchief.nl](https://fr.test.nationaalarchief.nl)| | **F**|gtranslate| | | | | | | | :white_check_mark: | |||
 |[http://localhost.nationaalarchief.nl](http://localhost.nationaalarchief.nl)| | **F**|nginx|:o: | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Laravel Nginx PHP|Weakpass|
+|[http://amh.nationaalarchief.nl](http://amh.nationaalarchief.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
+|[https://de.test.nationaalarchief.nl](https://de.test.nationaalarchief.nl)| | **F**|gtranslate| | | | | | | | :white_check_mark: | |||
 

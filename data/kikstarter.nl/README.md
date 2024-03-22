@@ -13,7 +13,7 @@
 |------------|-------|------|
 |[subdomains.txt](/data/kikstarter.nl/subdomains.txt)|5|Alive subdomains|
 |[urls.txt](/data/kikstarter.nl/urls.txt)|5|Urls|
-|[all_subdomains.txt](/data/kikstarter.nl/all_subdomains.txt)|5|All found subdomains (history)|
+|[all_subdomains.txt](/data/kikstarter.nl/all_subdomains.txt)|6|All found subdomains (history)|
 
 
 ## Statistics

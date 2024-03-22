@@ -3,3 +3,4 @@ www.kikstarter.nl
 sso.test.kikstarter.nl
 test.kikstarter.nl
 nuts.kikstarter.nl
+kikstarter.nl

@@ -3,7 +3,7 @@ layout: default
 title: "agendanatuurinclusief.nl"
 permalink: "/dutchgov/agendanatuurinclusief.nl.html"
 subdomains_count: 3
-all_subdomains_count: 3
+all_subdomains_count: 4
 urls_count: 3
 ssl_rank: 
 http_rank: E
@@ -29,7 +29,7 @@ tags: dutchgov
 |------------|-------|------|
 |[subdomains.txt](/DutchGovScope/data/agendanatuurinclusief.nl/subdomains.txt)|3|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/agendanatuurinclusief.nl/urls.txt)|3|Urls|
-|[all_subdomains.txt](/DutchGovScope/data/agendanatuurinclusief.nl/all_subdomains.txt)|3|All found subdomains (history)|
+|[all_subdomains.txt](/DutchGovScope/data/agendanatuurinclusief.nl/all_subdomains.txt)|4|All found subdomains (history)|
 
 
 ## Statistics

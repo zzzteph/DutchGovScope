@@ -11,9 +11,9 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/rivm.nl/subdomains.txt)|402|Alive subdomains|
-|[urls.txt](/data/rivm.nl/urls.txt)|273|Urls|
-|[all_subdomains.txt](/data/rivm.nl/all_subdomains.txt)|931|All found subdomains (history)|
+|[subdomains.txt](/data/rivm.nl/subdomains.txt)|401|Alive subdomains|
+|[urls.txt](/data/rivm.nl/urls.txt)|272|Urls|
+|[all_subdomains.txt](/data/rivm.nl/all_subdomains.txt)|934|All found subdomains (history)|
 
 
 ## Statistics
@@ -289,7 +289,6 @@
 |[https://tst-lsp.rivm.nl](https://tst-lsp.rivm.nl)| | **F**|Microsoft-Azure-Application-Gateway/v2| | | | | | | | :white_check_mark: | ||404 Not Found|
 |[https://api.tst-lsp.rivm.nl](https://api.tst-lsp.rivm.nl)| | **F**|Microsoft-Azure-Application-Gateway/v2| | | | | | | | :white_check_mark: | ||404 Not Found|
 |[https://lsp.rivm.nl](https://lsp.rivm.nl)| | **F**|Microsoft-Azure-Application-Gateway/v2| | | | | | | | :white_check_mark: | ||404 Not Found|
-|[http://dashview.rivm.nl](http://dashview.rivm.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[http://spoor.rivm.nl](http://spoor.rivm.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://api.acc-lsp.rivm.nl](https://api.acc-lsp.rivm.nl)| | **F**|Microsoft-Azure-Application-Gateway/v2| | | | | | | | :white_check_mark: | ||404 Not Found|
 |[https://acc-lsp.rivm.nl](https://acc-lsp.rivm.nl)| | **F**|Microsoft-Azure-Application-Gateway/v2| | | | | | | | :white_check_mark: | ||404 Not Found|

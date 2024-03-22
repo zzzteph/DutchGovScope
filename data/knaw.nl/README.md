@@ -12,7 +12,7 @@
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/knaw.nl/subdomains.txt)|1381|Alive subdomains|
-|[urls.txt](/data/knaw.nl/urls.txt)|331|Urls|
+|[urls.txt](/data/knaw.nl/urls.txt)|334|Urls|
 |[all_subdomains.txt](/data/knaw.nl/all_subdomains.txt)|1836|All found subdomains (history)|
 
 
@@ -347,9 +347,12 @@
 |[https://oai-harvester.labs.dans.knaw.nl](https://oai-harvester.labs.dans.knaw.nl)| | **F**|uvicorn| | | | | | | | :white_check_mark: | |Python Uvicorn||
 |[https://ga-wp3.sd.di.huc.knaw.nl](https://ga-wp3.sd.di.huc.knaw.nl)| | **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Nginx|Golden Agents |...|
 |[https://facades-formats.labs.dans.knaw.nl](https://facades-formats.labs.dans.knaw.nl)| | **F**|uvicorn| | | | | | | | :white_check_mark: | |Python Uvicorn||
+|[https://wp-02.dev.huc.knaw.nl](https://wp-02.dev.huc.knaw.nl)| | **F**|Apache/2.4.41 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.41 Ubuntu|Unauthorized|
 |[https://minio2.labs.dans.knaw.nl](https://minio2.labs.dans.knaw.nl)| | **D**|MinIO Console| | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | ||MinIO Console|
 |[https://wp-05.dev.huc.knaw.nl](https://wp-05.dev.huc.knaw.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |HSTS Nginx|404 Not Found|
 |[https://vangogh-api.dev.huc.knaw.nl](https://vangogh-api.dev.huc.knaw.nl)| | **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Nginx|403 Forbidden|
+|[https://wp-10.dev.huc.knaw.nl](https://wp-10.dev.huc.knaw.nl)| | **F**|Apache/2.4.41 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.41 Ubuntu|Unauthorized|
+|[https://wp-01.dev.huc.knaw.nl](https://wp-01.dev.huc.knaw.nl)| | **F**|Apache/2.4.41 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.41 Ubuntu|Unauthorized|
 |[https://wp-16.dev.huc.knaw.nl](https://wp-16.dev.huc.knaw.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |HSTS Nginx|404 Not Found|
 |[https://ss31.dans.knaw.nl](https://ss31.dans.knaw.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|Index of /|
 

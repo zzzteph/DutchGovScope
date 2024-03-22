@@ -65,6 +65,7 @@ communicatie.zuid-holland.nl
 keuzehulpverkeersmaatregelen.zuid-holland.nl
 omgevingsdocumenten.zuid-holland.nl
 investerenin.zuid-holland.nl
+data.zuid-holland.nl
 preprod-belastingen.zuid-holland.nl
 vaartuigvolgsysteem.zuid-holland.nl
 www.ivs.zuid-holland.nl

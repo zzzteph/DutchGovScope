@@ -2,3 +2,5 @@ acc.veterinairtuchtcollege.nl
 www.veterinairtuchtcollege.nl
 veterinairtuchtcollege.nl
 www.acc.veterinairtuchtcollege.nl
+feeds.veterinairtuchtcollege.nl
+opendata.veterinairtuchtcollege.nl

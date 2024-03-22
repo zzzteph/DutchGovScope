@@ -11,7 +11,7 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/politie.nl/subdomains.txt)|124|Alive subdomains|
+|[subdomains.txt](/data/politie.nl/subdomains.txt)|122|Alive subdomains|
 |[urls.txt](/data/politie.nl/urls.txt)|27|Urls|
 |[all_subdomains.txt](/data/politie.nl/all_subdomains.txt)|246|All found subdomains (history)|
 

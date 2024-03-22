@@ -11,7 +11,7 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/nza.nl/subdomains.txt)|43|Alive subdomains|
+|[subdomains.txt](/data/nza.nl/subdomains.txt)|42|Alive subdomains|
 |[urls.txt](/data/nza.nl/urls.txt)|38|Urls|
 |[all_subdomains.txt](/data/nza.nl/all_subdomains.txt)|122|All found subdomains (history)|
 

@@ -178,3 +178,4 @@ api-tzpubliekscontact-tst.dnb.nl
 sftp.dnb.nl
 rmdm-beheerapp-dev.azure.dnb.nl
 rmdm-beheerapp-tst.azure.dnb.nl
+screening-acc.dnb.nl

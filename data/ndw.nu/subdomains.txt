@@ -88,3 +88,4 @@ stats.staging.ndw.nu
 shared-services.staging.ndw.nu
 maps.staging.ndw.nu
 nls.staging.ndw.nu
+design.staging.ndw.nu
