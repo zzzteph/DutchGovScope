@@ -12,7 +12,7 @@
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/slimwatermanagement.nl/subdomains.txt)|3|Alive subdomains|
-|[urls.txt](/data/slimwatermanagement.nl/urls.txt)|2|Urls|
+|[urls.txt](/data/slimwatermanagement.nl/urls.txt)|3|Urls|
 |[all_subdomains.txt](/data/slimwatermanagement.nl/all_subdomains.txt)|3|All found subdomains (history)|
 
 
@@ -23,4 +23,5 @@
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[https://www.slimwatermanagement.nl](https://www.slimwatermanagement.nl)| **A+**| **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:-|Slim Watermanage...|
 |[https://slimwatermanagement.nl](https://slimwatermanagement.nl)| **A+**| **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:-|Object moved|
+|[https://poc.slimwatermanagement.nl](https://poc.slimwatermanagement.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 

@@ -33,3 +33,4 @@ wifi.eerstekamer.nl
 lyncdiscover.eerstekamer.nl
 www.api.eerstekamer.nl
 www.redactie.eerstekamer.nl
+lv109366-web01-out.eerstekamer.nl

@@ -23,7 +23,7 @@ http://uwork.flevoland.nl
 http://uworktest.flevoland.nl
 https://www.begroting2020.flevoland.nl
 https://pushmail.flevoland.nl
-https://test-intranet.flevoland.nl
+http://test-intranet.flevoland.nl
 https://geo.flevoland.nl
 https://desktop.flevoland.nl
 https://historische-luchtfoto.flevoland.nl
@@ -74,3 +74,4 @@ https://enterpriseenrollment.flevoland.nl
 https://enterpriseregistration.test.flevoland.nl
 https://enterpriseregistration.flevoland.nl
 https://msoid.flevoland.nl
+https://mbg-proxy.flevoland.nl

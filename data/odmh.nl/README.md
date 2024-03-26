@@ -13,7 +13,7 @@
 |------------|-------|------|
 |[subdomains.txt](/data/odmh.nl/subdomains.txt)|56|Alive subdomains|
 |[urls.txt](/data/odmh.nl/urls.txt)|38|Urls|
-|[all_subdomains.txt](/data/odmh.nl/all_subdomains.txt)|74|All found subdomains (history)|
+|[all_subdomains.txt](/data/odmh.nl/all_subdomains.txt)|75|All found subdomains (history)|
 
 
 ## Statistics

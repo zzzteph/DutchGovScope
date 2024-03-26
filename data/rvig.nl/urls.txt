@@ -11,5 +11,5 @@ https://test.rvig.nl
 https://test.intranet.rvig.nl
 https://www.rvig.nl
 https://rvig.nl
-https://idapps.npr.idm.rvig.nl
+http://idapps.npr.idm.rvig.nl
 https://idbs.npr.idm.rvig.nl

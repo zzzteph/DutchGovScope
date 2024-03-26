@@ -24,5 +24,5 @@
 |[https://www.helpdesk-efactureren.nl](https://www.helpdesk-efactureren.nl)| **A+**| **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Drupal:10 HSTS Nginx PHP|E-factureren aan...|
 |[https://helpdesk-efactureren.nl](https://helpdesk-efactureren.nl)| **A+**| **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
 |[https://acc.helpdesk-efactureren.nl](https://acc.helpdesk-efactureren.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Basic HSTS Nginx|401 Authorizatio...|
-|[https://test.helpdesk-efactureren.nl](https://test.helpdesk-efactureren.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Basic Nginx|401 Authorizatio...|
+|[https://test.helpdesk-efactureren.nl](https://test.helpdesk-efactureren.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Basic HSTS Nginx|401 Authorizatio...|
 

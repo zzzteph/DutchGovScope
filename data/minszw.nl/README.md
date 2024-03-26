@@ -12,7 +12,7 @@
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/minszw.nl/subdomains.txt)|14|Alive subdomains|
-|[urls.txt](/data/minszw.nl/urls.txt)|6|Urls|
+|[urls.txt](/data/minszw.nl/urls.txt)|7|Urls|
 |[all_subdomains.txt](/data/minszw.nl/all_subdomains.txt)|82|All found subdomains (history)|
 
 
@@ -27,4 +27,5 @@
 |[https://gemeenteloket.minszw.nl](https://gemeenteloket.minszw.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
 |[https://www.gemeenteloket.minszw.nl](https://www.gemeenteloket.minszw.nl)| **F**| **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
 |[http://testsiam.minszw.nl](http://testsiam.minszw.nl)| **A+**| **A**|awselb/2.0| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Amazon ELB Amazon Web Services|301 Moved Perman...|
+|[https://werkbezoek.minszw.nl](https://werkbezoek.minszw.nl)| | **E**||:o: | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | ||Index | Minister...|
 

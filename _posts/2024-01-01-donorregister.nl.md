@@ -3,7 +3,7 @@ layout: default
 title: "donorregister.nl"
 permalink: "/dutchgov/donorregister.nl.html"
 subdomains_count: 25
-all_subdomains_count: 45
+all_subdomains_count: 46
 urls_count: 14
 ssl_rank: A-
 http_rank: A
@@ -29,7 +29,7 @@ tags: dutchgov
 |------------|-------|------|
 |[subdomains.txt](/DutchGovScope/data/donorregister.nl/subdomains.txt)|25|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/donorregister.nl/urls.txt)|14|Urls|
-|[all_subdomains.txt](/DutchGovScope/data/donorregister.nl/all_subdomains.txt)|45|All found subdomains (history)|
+|[all_subdomains.txt](/DutchGovScope/data/donorregister.nl/all_subdomains.txt)|46|All found subdomains (history)|
 
 
 ## Statistics

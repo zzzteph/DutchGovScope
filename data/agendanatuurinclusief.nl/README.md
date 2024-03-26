@@ -11,7 +11,7 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/agendanatuurinclusief.nl/subdomains.txt)|3|Alive subdomains|
+|[subdomains.txt](/data/agendanatuurinclusief.nl/subdomains.txt)|4|Alive subdomains|
 |[urls.txt](/data/agendanatuurinclusief.nl/urls.txt)|3|Urls|
 |[all_subdomains.txt](/data/agendanatuurinclusief.nl/all_subdomains.txt)|4|All found subdomains (history)|
 

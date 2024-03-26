@@ -5,14 +5,14 @@
 
 
  - **SSL Grade**:A+
- - **HTTP Security Grade**:C
+ - **HTTP Security Grade**:D
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:0
 
 
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/atgb.nl/subdomains.txt)|8|Alive subdomains|
-|[urls.txt](/data/atgb.nl/urls.txt)|6|Urls|
+|[urls.txt](/data/atgb.nl/urls.txt)|7|Urls|
 |[all_subdomains.txt](/data/atgb.nl/all_subdomains.txt)|14|All found subdomains (history)|
 
 
@@ -27,4 +27,5 @@
 |[https://enterpriseenrollment.atgb.nl](https://enterpriseenrollment.atgb.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||
 |[https://ftp.atgb.nl](https://ftp.atgb.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server||
 |[https://enterpriseregistration.atgb.nl](https://enterpriseregistration.atgb.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
+|[https://msoid.atgb.nl](https://msoid.atgb.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Object moved|
 

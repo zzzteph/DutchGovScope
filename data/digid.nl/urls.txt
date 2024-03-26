@@ -30,4 +30,5 @@ https://www.digid.nl
 https://www.machtigen.digid.nl
 https://digid.nl
 https://helpdesk.machtigen.digid.nl
+http://app-a4.digid.nl
 https://mu.digid.nl

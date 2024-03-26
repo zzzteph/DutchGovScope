@@ -2,7 +2,7 @@
 layout: default
 title: "noord-holland.nl"
 permalink: "/dutchgov/noord-holland.nl.html"
-subdomains_count: 102
+subdomains_count: 100
 all_subdomains_count: 274
 urls_count: 69
 ssl_rank: A-
@@ -27,7 +27,7 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/noord-holland.nl/subdomains.txt)|102|Alive subdomains|
+|[subdomains.txt](/DutchGovScope/data/noord-holland.nl/subdomains.txt)|100|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/noord-holland.nl/urls.txt)|69|Urls|
 |[all_subdomains.txt](/DutchGovScope/data/noord-holland.nl/all_subdomains.txt)|274|All found subdomains (history)|
 
@@ -97,7 +97,7 @@ tags: dutchgov
 |[https://fleetmanager.noord-holland.nl](https://fleetmanager.noord-holland.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|Fleet Manager|
 |[https://fleet-manager.datalab-prod.aws.noord-holland.nl](https://fleet-manager.datalab-prod.aws.noord-holland.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|Fleet Manager|
 |[https://pleinoud.noord-holland.nl](https://pleinoud.noord-holland.nl)| | **B**|Green Valley|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Java||
-|[https://lms.noord-holland.nl](https://lms.noord-holland.nl)| | **A**|nginx|:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bootstrap:3.3.5 HSTS Nginx Nicepage:5.9.6 PHP:8.2.16|Thuis|
+|[https://lms.noord-holland.nl](https://lms.noord-holland.nl)| | **A**|nginx|:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bootstrap:3.3.5 HSTS Nginx Nicepage:5.9.6 PHP:8.2.17|Thuis|
 |[https://openstad.noord-holland.nl](https://openstad.noord-holland.nl)| **A+**| **B**||:o: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |||
 |[https://admin.openstad.noord-holland.nl](https://admin.openstad.noord-holland.nl)| **A+**| **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |||
 |[https://api.openstad.noord-holland.nl](https://api.openstad.noord-holland.nl)| **A+**| **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |||

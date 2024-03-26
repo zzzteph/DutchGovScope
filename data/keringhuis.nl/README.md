@@ -12,7 +12,7 @@
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/keringhuis.nl/subdomains.txt)|12|Alive subdomains|
-|[urls.txt](/data/keringhuis.nl/urls.txt)|9|Urls|
+|[urls.txt](/data/keringhuis.nl/urls.txt)|10|Urls|
 |[all_subdomains.txt](/data/keringhuis.nl/all_subdomains.txt)|15|All found subdomains (history)|
 
 
@@ -30,4 +30,5 @@
 |[http://localhost.keringhuis.nl](http://localhost.keringhuis.nl)| | **F**|nginx|:o: | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Laravel Nginx PHP|Weakpass|
 |[https://pop.keringhuis.nl](https://pop.keringhuis.nl)| | **F**|IceWarp/13.0.3.10 x64| | | | | | | | :white_check_mark: | |HSTS|302 Document Mov...|
 |[http://autodiscover.keringhuis.nl](http://autodiscover.keringhuis.nl)| | **B**|Microsoft-IIS/10.0|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server||
+|[https://smtpdma.keringhuis.nl](https://smtpdma.keringhuis.nl)| | **F**|IceWarp/13.0.3.10 x64| | | | | | | | :white_check_mark: | |HSTS|302 Document Mov...|
 

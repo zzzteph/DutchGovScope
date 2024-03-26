@@ -6,13 +6,13 @@
 
  - **SSL Grade**:A-
  - **HTTP Security Grade**:A
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:19
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:20
 
 
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/digid.nl/subdomains.txt)|242|Alive subdomains|
-|[urls.txt](/data/digid.nl/urls.txt)|33|Urls|
+|[urls.txt](/data/digid.nl/urls.txt)|34|Urls|
 |[all_subdomains.txt](/data/digid.nl/all_subdomains.txt)|478|All found subdomains (history)|
 
 
@@ -53,5 +53,6 @@
 |[https://www.machtigen.digid.nl](https://www.machtigen.digid.nl)| **A+**| **A**|Apache| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
 |[https://digid.nl](https://digid.nl)| **A**| **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://helpdesk.machtigen.digid.nl](https://helpdesk.machtigen.digid.nl)| **A+**| **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Machtigen via He...|
+|[http://app-a4.digid.nl](http://app-a4.digid.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://mu.digid.nl](https://mu.digid.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 

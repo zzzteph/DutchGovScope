@@ -2,11 +2,11 @@
 layout: default
 title: "astraonline.nl"
 permalink: "/dutchgov/astraonline.nl.html"
-subdomains_count: 2
+subdomains_count: 4
 all_subdomains_count: 4
-urls_count: 2
-ssl_rank: A+
-http_rank: B
+urls_count: 4
+ssl_rank: B+
+http_rank: C
 security_txt: 0
 url_link: /data/astraonline.nl/urls.txt
 all_subdomains_link: /data/astraonline.nl/all_subdomains.txt
@@ -20,15 +20,15 @@ tags: dutchgov
 ## Summary data
 
 
- - **SSL Grade**:A+
- - **HTTP Security Grade**:B
+ - **SSL Grade**:B+
+ - **HTTP Security Grade**:C
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:0
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/astraonline.nl/subdomains.txt)|2|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/astraonline.nl/urls.txt)|2|Urls|
+|[subdomains.txt](/DutchGovScope/data/astraonline.nl/subdomains.txt)|4|Alive subdomains|
+|[urls.txt](/DutchGovScope/data/astraonline.nl/urls.txt)|4|Urls|
 |[all_subdomains.txt](/DutchGovScope/data/astraonline.nl/all_subdomains.txt)|4|All found subdomains (history)|
 
 
@@ -38,5 +38,7 @@ tags: dutchgov
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[https://astraonline.nl](https://astraonline.nl)| **A+**| **B**|Apache| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS|301 Moved Perman...|
+|[https://www.astraonline.nl](https://www.astraonline.nl)| **A+**| **B**|Apache| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS||
 |[https://redactie.astraonline.nl](https://redactie.astraonline.nl)| **A+**| **C**|Apache|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS||
+|[https://mail.astraonline.nl](https://mail.astraonline.nl)| **F**| **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
 

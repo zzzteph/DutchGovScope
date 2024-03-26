@@ -1,2 +1,2 @@
-http://programmavivet.nl
-http://www.programmavivet.nl
+https://programmavivet.nl
+https://www.programmavivet.nl

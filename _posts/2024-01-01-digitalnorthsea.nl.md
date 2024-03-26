@@ -6,8 +6,8 @@ subdomains_count: 7
 all_subdomains_count: 7
 urls_count: 4
 ssl_rank: 
-http_rank: C
-security_txt: 2
+http_rank: A
+security_txt: 4
 url_link: /data/digitalnorthsea.nl/urls.txt
 all_subdomains_link: /data/digitalnorthsea.nl/all_subdomains.txt
 subdomains_link: /data/digitalnorthsea.nl/subdomains.txt
@@ -21,8 +21,8 @@ tags: dutchgov
 
 
  - **SSL Grade**:
- - **HTTP Security Grade**:C
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:2
+ - **HTTP Security Grade**:A
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:4
 
 
 | File       | Count | Info |
@@ -37,8 +37,8 @@ tags: dutchgov
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://digitalnorthsea.nl](https://digitalnorthsea.nl)| **F**| **F**|nginx| | | | | | | | :white_check_mark: | |Alpine.js HSTS Nginx|Op weg naar een...|
-|[https://www.digitalnorthsea.nl](https://www.digitalnorthsea.nl)| **F**| **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|301 Moved Perman...|
+|[https://digitalnorthsea.nl](https://digitalnorthsea.nl)| **F**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
+|[https://www.digitalnorthsea.nl](https://www.digitalnorthsea.nl)| **F**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Home | Digital N...|
 |[https://feeds.digitalnorthsea.nl](https://feeds.digitalnorthsea.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://opendata.digitalnorthsea.nl](https://opendata.digitalnorthsea.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 

@@ -2,7 +2,7 @@
 layout: default
 title: "mirta15papendrechtgorinchem.nl"
 permalink: "/dutchgov/mirta15papendrechtgorinchem.nl.html"
-subdomains_count: 0
+subdomains_count: 2
 all_subdomains_count: 14
 urls_count: 0
 ssl_rank: 
@@ -27,7 +27,7 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/mirta15papendrechtgorinchem.nl/subdomains.txt)|0|Alive subdomains|
+|[subdomains.txt](/DutchGovScope/data/mirta15papendrechtgorinchem.nl/subdomains.txt)|2|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/mirta15papendrechtgorinchem.nl/urls.txt)|0|Urls|
 |[all_subdomains.txt](/DutchGovScope/data/mirta15papendrechtgorinchem.nl/all_subdomains.txt)|14|All found subdomains (history)|
 

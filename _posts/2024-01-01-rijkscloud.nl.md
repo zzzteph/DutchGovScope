@@ -2,9 +2,9 @@
 layout: default
 title: "rijkscloud.nl"
 permalink: "/dutchgov/rijkscloud.nl.html"
-subdomains_count: 560
+subdomains_count: 558
 all_subdomains_count: 739
-urls_count: 141
+urls_count: 140
 ssl_rank: A+
 http_rank: B
 security_txt: 46
@@ -27,8 +27,8 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/rijkscloud.nl/subdomains.txt)|560|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/rijkscloud.nl/urls.txt)|141|Urls|
+|[subdomains.txt](/DutchGovScope/data/rijkscloud.nl/subdomains.txt)|558|Alive subdomains|
+|[urls.txt](/DutchGovScope/data/rijkscloud.nl/urls.txt)|140|Urls|
 |[all_subdomains.txt](/DutchGovScope/data/rijkscloud.nl/all_subdomains.txt)|739|All found subdomains (history)|
 
 
@@ -65,7 +65,6 @@ tags: dutchgov
 |[https://dev.fib.ienw.rijkscloud.nl](https://dev.fib.ienw.rijkscloud.nl)| **A+**| **C**|gunicorn|:warning: |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS Python gunicorn||
 |[https://developer.ix.rijkscloud.nl](https://developer.ix.rijkscloud.nl)| **A+**| **C**|Apache| |:white_check_mark: | | | | | | :white_check_mark: | |Apache HTTP Server HSTS Hugo:0.85.0|Home :: PaaS-Lin...|
 |[https://docs.performance.ix.rijkscloud.nl](https://docs.performance.ix.rijkscloud.nl)| **A+**| **C**|Apache| |:white_check_mark: | | | | | | :white_check_mark: | |Apache HTTP Server HSTS Hugo:0.53|JMetering Docume...|
-|[https://dvrvb-app-acc.rvb.rijkscloud.nl](https://dvrvb-app-acc.rvb.rijkscloud.nl)| **F**| **E**|| | | | | | | | :white_check_mark: | |||
 |[https://dvrvb-gui-acc.rvb.rijkscloud.nl](https://dvrvb-gui-acc.rvb.rijkscloud.nl)| **A+**| **A**|Apache| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS|DVRVB|
 |[https://factuur.dbe-t.rvb.rijkscloud.nl](https://factuur.dbe-t.rvb.rijkscloud.nl)| | **A**||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Object moved|
 |[https://git-dev.rijkscloud.nl](https://git-dev.rijkscloud.nl)| **A+**| **A**|nginx|:warning: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||

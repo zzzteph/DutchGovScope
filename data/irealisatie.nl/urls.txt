@@ -19,3 +19,9 @@ https://mailcatch.test.ggdcontact.irealisatie.nl
 https://portal.test.ggdcontact.irealisatie.nl
 https://gateway.test.ggdcontact.irealisatie.nl
 https://messagebox.test.ggdcontact.irealisatie.nl
+http://test.dpr.irealisatie.nl
+http://acc.dpr.irealisatie.nl
+https://web.acc.dpr.irealisatie.nl
+https://web.test.mgo.irealisatie.nl
+https://max.test.mgo.irealisatie.nl
+https://dva.test.mgo.irealisatie.nl

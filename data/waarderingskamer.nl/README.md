@@ -24,7 +24,7 @@
 |[https://autodiscover.waarderingskamer.nl](https://autodiscover.waarderingskamer.nl)| **A**| **E**|Microsoft-IIS/10.0| | | | | | :white_check_mark: | | :white_check_mark: | |IIS:10.0 Windows Server||
 |[https://download.waarderingskamer.nl](https://download.waarderingskamer.nl)| **A**| **E**|Microsoft-IIS/10.0| | | | | | :white_check_mark: | | :white_check_mark: | |IIS:10.0 Windows Server||
 |[https://exchange.waarderingskamer.nl](https://exchange.waarderingskamer.nl)| **A**| **E**|Microsoft-IIS/10.0| | | | | | :white_check_mark: | | :white_check_mark: | |IIS:10.0 Windows Server||
-|[http://gemeenteportaal.waarderingskamer.nl](http://gemeenteportaal.waarderingskamer.nl)| **F**| **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|302 Found|
+|[https://gemeenteportaal.waarderingskamer.nl](https://gemeenteportaal.waarderingskamer.nl)| **F**| **C**|nginx|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |Nginx|301 Moved Perman...|
 |[https://mijn.waarderingskamer.nl](https://mijn.waarderingskamer.nl)| **A+**| **C**|nginx|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS Microsoft ASP.NET Nginx|Mijn Waarderings...|
 |[http://wem-live.waarderingskamer.nl](http://wem-live.waarderingskamer.nl)| **A**| **E**|| | | | | | | | :white_check_mark: | ||302 Found|
 |[https://woz-it.waarderingskamer.nl](https://woz-it.waarderingskamer.nl)| **A+**| **C**|nginx|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS Microsoft ASP.NET Nginx|WOZ-IT|
@@ -32,6 +32,6 @@
 |[https://waarderingskamer.nl](https://waarderingskamer.nl)| **A**| **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |Nginx|301 Moved Perman...|
 |[https://scim.waarderingskamer.nl](https://scim.waarderingskamer.nl)| **A**| **B**|| | | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |||
 |[https://search.waarderingskamer.nl](https://search.waarderingskamer.nl)| **A+**| **B**|nginx| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS Nginx||
-|[https://acceptatie.waarderingskamer.nl](https://acceptatie.waarderingskamer.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |HSTS Nginx|403 Forbidden|
+|[https://acceptatie.waarderingskamer.nl](https://acceptatie.waarderingskamer.nl)| | **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |Alpine.js Craft CMS HSTS Nginx SEOmatic Yii|Home|
 |[http://testnoc.waarderingskamer.nl](http://testnoc.waarderingskamer.nl)| | **F**|nginx|:o: | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Laravel Nginx PHP|Weakpass|
 

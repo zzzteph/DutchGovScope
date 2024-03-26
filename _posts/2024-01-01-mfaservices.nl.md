@@ -2,8 +2,8 @@
 layout: default
 title: "mfaservices.nl"
 permalink: "/dutchgov/mfaservices.nl.html"
-subdomains_count: 135
-all_subdomains_count: 265
+subdomains_count: 136
+all_subdomains_count: 266
 urls_count: 58
 ssl_rank: A-
 http_rank: C
@@ -27,9 +27,9 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/mfaservices.nl/subdomains.txt)|135|Alive subdomains|
+|[subdomains.txt](/DutchGovScope/data/mfaservices.nl/subdomains.txt)|136|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/mfaservices.nl/urls.txt)|58|Urls|
-|[all_subdomains.txt](/DutchGovScope/data/mfaservices.nl/all_subdomains.txt)|265|All found subdomains (history)|
+|[all_subdomains.txt](/DutchGovScope/data/mfaservices.nl/all_subdomains.txt)|266|All found subdomains (history)|
 
 
 ## Statistics
@@ -46,7 +46,7 @@ tags: dutchgov
 |[https://acc.login.consular.mfaservices.nl](https://acc.login.consular.mfaservices.nl)| **A+**| **C**|cloudflare|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Cloudflare Cloudflare Bot Management HSTS|Attention Requir...|
 |[https://acc.nww.mfaservices.nl](https://acc.nww.mfaservices.nl)| **A**| **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|403 Forbidden|
 |[https://acc.protocol.mfaservices.nl](https://acc.protocol.mfaservices.nl)| **A**| **C**||:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | |Azure HSTS||
-|[https://consular.mfaservices.nl](https://consular.mfaservices.nl)| **A+**| **B**|cloudflare|:white_check_mark: |:white_check_mark: | | |:warning: | | :white_check_mark: | :white_check_mark: | |Cloudflare Cloudflare Bot Management HSTS||
+|[https://consular.mfaservices.nl](https://consular.mfaservices.nl)| **A+**| **B**|cloudflare|:white_check_mark: |:white_check_mark: | | |:warning: | | :white_check_mark: | :white_check_mark: | |Azure Azure Front Door Cloudflare Cloudflare Bot Management HSTS|Ministry of Fore...|
 |[https://consular-service.consular.mfaservices.nl](https://consular-service.consular.mfaservices.nl)| **A+**| **C**|cloudflare|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Cloudflare Cloudflare Bot Management HSTS|Attention Requir...|
 |[https://countrydashboard.mfaservices.nl](https://countrydashboard.mfaservices.nl)| **A+**| **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
 |[https://dev-insights.mfaservices.nl](https://dev-insights.mfaservices.nl)| **F**| **F**|Microsoft-Azure-Application-Gateway/v2| | | | | | | | :white_check_mark: | ||404 Not Found|
@@ -84,10 +84,10 @@ tags: dutchgov
 |[https://survey.datalab.mfaservices.nl](https://survey.datalab.mfaservices.nl)| **A**| **F**|Apache|:white_check_mark: | | | | | | :white_check_mark: | :white_check_mark: | |Apache HTTP Server Bootstrap PHP|Datalab|
 |[https://tst.consular.mfaservices.nl](https://tst.consular.mfaservices.nl)| **A+**| **D**|cloudflare|:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | |Azure Azure Front Door Cloudflare Cloudflare Bot Management HSTS|Consular Service...|
 |[https://tst.consular-service.consular.mfaservices.nl](https://tst.consular-service.consular.mfaservices.nl)| **A+**| **C**|cloudflare|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Cloudflare Cloudflare Bot Management HSTS|Attention Requir...|
-|[https://tst.esp.mfaservices.nl](https://tst.esp.mfaservices.nl)| **A**| **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|403 Forbidden|
-|[https://tst.liferay.mfaservices.nl](https://tst.liferay.mfaservices.nl)| **A**| **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|403 Forbidden|
+|[https://tst.esp.mfaservices.nl](https://tst.esp.mfaservices.nl)| **A**| **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|500 Proxy Error|
+|[https://tst.liferay.mfaservices.nl](https://tst.liferay.mfaservices.nl)| **A**| **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|500 Proxy Error|
 |[https://tst.login.consular.mfaservices.nl](https://tst.login.consular.mfaservices.nl)| **A+**| **C**|cloudflare|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Cloudflare Cloudflare Bot Management HSTS|Attention Requir...|
-|[https://tst.nww.mfaservices.nl](https://tst.nww.mfaservices.nl)| **A**| **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|403 Forbidden|
+|[https://tst.nww.mfaservices.nl](https://tst.nww.mfaservices.nl)| **A**| **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|500 Proxy Error|
 |[https://tst.protocol.mfaservices.nl](https://tst.protocol.mfaservices.nl)| **A**| **C**||:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | |Azure HSTS||
 |[https://acc.cdn.consular.mfaservices.nl](https://acc.cdn.consular.mfaservices.nl)| **A+**| **C**|cloudflare|:white_check_mark: |:white_check_mark: | | |:warning: | | | :white_check_mark: | |Azure Azure Front Door Cloudflare Cloudflare Bot Management HSTS||
 |[https://cdn.consular.mfaservices.nl](https://cdn.consular.mfaservices.nl)| **A+**| **C**|cloudflare|:white_check_mark: |:white_check_mark: | | |:warning: | | | :white_check_mark: | |Azure Azure Front Door Cloudflare Cloudflare Bot Management HSTS||

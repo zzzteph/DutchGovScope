@@ -8,9 +8,7 @@ infographics.pbl.nl
 kwaliteitvanleven.pbl.nl
 leidraad.pbl.nl
 models.pbl.nl
-piwik.pbl.nl
 roadsfromrio.pbl.nl
-sandbox.pbl.nl
 survey.pbl.nl
 themasites.pbl.nl
 webmail.pbl.nl

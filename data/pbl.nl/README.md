@@ -11,8 +11,8 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/pbl.nl/subdomains.txt)|44|Alive subdomains|
-|[urls.txt](/data/pbl.nl/urls.txt)|21|Urls|
+|[subdomains.txt](/data/pbl.nl/subdomains.txt)|42|Alive subdomains|
+|[urls.txt](/data/pbl.nl/urls.txt)|19|Urls|
 |[all_subdomains.txt](/data/pbl.nl/all_subdomains.txt)|82|All found subdomains (history)|
 
 
@@ -30,9 +30,7 @@
 |[https://kwaliteitvanleven.pbl.nl](https://kwaliteitvanleven.pbl.nl)| **D**| **A**|Microsoft-Azure-Application-Gateway/v2| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | ||301 Moved Perman...|
 |[https://leidraad.pbl.nl](https://leidraad.pbl.nl)| **C**| **B**||:o: |:white_check_mark: | | | :white_check_mark:| | :white_check_mark: | :white_check_mark: | |Bootstrap:3.3.1 HSTS PHP|Leidraad voor Om...|
 |[https://models.pbl.nl](https://models.pbl.nl)| **B**| **C**|nginx/1.20.1| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Nginx:1.20.1 PHP:7.2.34||
-|[https://piwik.pbl.nl](https://piwik.pbl.nl)| **A+**| **A**|Apache| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS|Test Page for th...|
 |[https://roadsfromrio.pbl.nl](https://roadsfromrio.pbl.nl)| **D**| **A**|Microsoft-Azure-Application-Gateway/v2| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | ||301 Moved Perman...|
-|[https://sandbox.pbl.nl](https://sandbox.pbl.nl)| **F**| **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|Test Page for th...|
 |[https://survey.pbl.nl](https://survey.pbl.nl)| **A+**| **C**|nginx|:white_check_mark: |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | |HSTS Nginx|Planbureau voor...|
 |[https://themasites.pbl.nl](https://themasites.pbl.nl)| **A-**| **A**|Microsoft-Azure-Application-Gateway/v2| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | ||301 Moved Perman...|
 |[https://webmail.pbl.nl](https://webmail.pbl.nl)| **F**| **F**|Microsoft-IIS/10.0| | | | | | | | :white_check_mark: | |HSTS IIS:10.0 Microsoft ASP.NET Windows Server||

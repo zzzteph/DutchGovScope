@@ -6,13 +6,13 @@
 
  - **SSL Grade**:A+
  - **HTTP Security Grade**:B
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:15
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:16
 
 
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/sso3w.nl/subdomains.txt)|26|Alive subdomains|
-|[urls.txt](/data/sso3w.nl/urls.txt)|17|Urls|
+|[urls.txt](/data/sso3w.nl/urls.txt)|19|Urls|
 |[all_subdomains.txt](/data/sso3w.nl/all_subdomains.txt)|34|All found subdomains (history)|
 
 
@@ -38,4 +38,6 @@
 |[https://cmv-kandidaat.sso3w.nl](https://cmv-kandidaat.sso3w.nl)| **A+**| **C**||:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | |Azure HSTS|BuZa 3W|
 |[https://prd.btp.sso3w.nl](https://prd.btp.sso3w.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
 |[https://acc.cmv-kandidaat.sso3w.nl](https://acc.cmv-kandidaat.sso3w.nl)| | **C**||:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | |Azure HSTS|BuZa 3W|
+|[https://cmv-opdrachtgever.sso3w.nl](https://cmv-opdrachtgever.sso3w.nl)| | **C**||:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | |Azure HSTS|**KLANTNAAM**|
+|[https://esb.btp.sso3w.nl](https://esb.btp.sso3w.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
 

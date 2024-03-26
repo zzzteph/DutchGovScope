@@ -2,11 +2,11 @@
 layout: default
 title: "deafsluitdijk.nl"
 permalink: "/dutchgov/deafsluitdijk.nl.html"
-subdomains_count: 75
-all_subdomains_count: 104
-urls_count: 24
+subdomains_count: 104
+all_subdomains_count: 105
+urls_count: 62
 ssl_rank: D
-http_rank: E
+http_rank: F
 security_txt: 0
 url_link: /data/deafsluitdijk.nl/urls.txt
 all_subdomains_link: /data/deafsluitdijk.nl/all_subdomains.txt
@@ -21,15 +21,15 @@ tags: dutchgov
 
 
  - **SSL Grade**:D
- - **HTTP Security Grade**:E
+ - **HTTP Security Grade**:F
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:0
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/deafsluitdijk.nl/subdomains.txt)|75|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/deafsluitdijk.nl/urls.txt)|24|Urls|
-|[all_subdomains.txt](/DutchGovScope/data/deafsluitdijk.nl/all_subdomains.txt)|104|All found subdomains (history)|
+|[subdomains.txt](/DutchGovScope/data/deafsluitdijk.nl/subdomains.txt)|104|Alive subdomains|
+|[urls.txt](/DutchGovScope/data/deafsluitdijk.nl/urls.txt)|62|Urls|
+|[all_subdomains.txt](/DutchGovScope/data/deafsluitdijk.nl/all_subdomains.txt)|105|All found subdomains (history)|
 
 
 ## Statistics
@@ -61,4 +61,42 @@ tags: dutchgov
 |[https://inwww.deafsluitdijk.nl](https://inwww.deafsluitdijk.nl)| | **F**|openresty| | | | | | | | :white_check_mark: | |HSTS Nginx OpenResty|Welcome|
 |[https://www.rijkswaterstaat.nlwww.deafsluitdijk.nl](https://www.rijkswaterstaat.nlwww.deafsluitdijk.nl)| | **F**|openresty| | | | | | | | :white_check_mark: | |HSTS Nginx OpenResty|Welcome|
 |[https://slan.frlinwww.deafsluitdijk.nl](https://slan.frlinwww.deafsluitdijk.nl)| | **F**|openresty| | | | | | | | :white_check_mark: | |HSTS Nginx OpenResty|Welcome|
+|[https://portret.deafsluitdijk.nl](https://portret.deafsluitdijk.nl)| | **F**|openresty| | | | | | | | :white_check_mark: | |HSTS Nginx OpenResty|Welcome|
+|[https://power.deafsluitdijk.nl](https://power.deafsluitdijk.nl)| | **F**|openresty| | | | | | | | :white_check_mark: | |HSTS Nginx OpenResty|Welcome|
+|[https://adultwebcams.deafsluitdijk.nl](https://adultwebcams.deafsluitdijk.nl)| | **F**|openresty| | | | | | | | :white_check_mark: | |HSTS Nginx OpenResty|Welcome|
+|[https://web5148.deafsluitdijk.nl](https://web5148.deafsluitdijk.nl)| | **F**|openresty| | | | | | | | :white_check_mark: | |HSTS Nginx OpenResty|Welcome|
+|[https://lelab.deafsluitdijk.nl](https://lelab.deafsluitdijk.nl)| | **F**|openresty| | | | | | | | :white_check_mark: | |HSTS Nginx OpenResty|Welcome|
+|[https://rapunzel.deafsluitdijk.nl](https://rapunzel.deafsluitdijk.nl)| | **F**|openresty| | | | | | | | :white_check_mark: | |HSTS Nginx OpenResty|Welcome|
+|[https://134healthzone.deafsluitdijk.nl](https://134healthzone.deafsluitdijk.nl)| | **F**|openresty| | | | | | | | :white_check_mark: | |HSTS Nginx OpenResty|Welcome|
+|[https://korg.deafsluitdijk.nl](https://korg.deafsluitdijk.nl)| | **F**|openresty| | | | | | | | :white_check_mark: | |HSTS Nginx OpenResty|Welcome|
+|[https://vkyc.deafsluitdijk.nl](https://vkyc.deafsluitdijk.nl)| | **F**|openresty| | | | | | | | :white_check_mark: | |HSTS Nginx OpenResty|Welcome|
+|[https://babao.deafsluitdijk.nl](https://babao.deafsluitdijk.nl)| | **F**|openresty| | | | | | | | :white_check_mark: | |HSTS Nginx OpenResty|Welcome|
+|[https://2downloadapk.deafsluitdijk.nl](https://2downloadapk.deafsluitdijk.nl)| | **F**|openresty| | | | | | | | :white_check_mark: | |HSTS Nginx OpenResty|Welcome|
+|[https://agat.deafsluitdijk.nl](https://agat.deafsluitdijk.nl)| | **F**|openresty| | | | | | | | :white_check_mark: | |HSTS Nginx OpenResty|Welcome|
+|[https://snark.deafsluitdijk.nl](https://snark.deafsluitdijk.nl)| | **F**|openresty| | | | | | | | :white_check_mark: | |HSTS Nginx OpenResty|Welcome|
+|[https://orgs.deafsluitdijk.nl](https://orgs.deafsluitdijk.nl)| | **F**|openresty| | | | | | | | :white_check_mark: | |HSTS Nginx OpenResty|Welcome|
+|[https://web6337.deafsluitdijk.nl](https://web6337.deafsluitdijk.nl)| | **F**|openresty| | | | | | | | :white_check_mark: | |HSTS Nginx OpenResty|Welcome|
+|[https://impossible.deafsluitdijk.nl](https://impossible.deafsluitdijk.nl)| | **F**|openresty| | | | | | | | :white_check_mark: | |HSTS Nginx OpenResty|Welcome|
+|[https://koo.deafsluitdijk.nl](https://koo.deafsluitdijk.nl)| | **F**|openresty| | | | | | | | :white_check_mark: | |HSTS Nginx OpenResty|Welcome|
+|[https://toon.deafsluitdijk.nl](https://toon.deafsluitdijk.nl)| | **F**|openresty| | | | | | | | :white_check_mark: | |HSTS Nginx OpenResty|Welcome|
+|[https://informationsecurity.deafsluitdijk.nl](https://informationsecurity.deafsluitdijk.nl)| | **F**|openresty| | | | | | | | :white_check_mark: | |HSTS Nginx OpenResty|Welcome|
+|[https://langbroek.deafsluitdijk.nl](https://langbroek.deafsluitdijk.nl)| | **F**|openresty| | | | | | | | :white_check_mark: | |HSTS Nginx OpenResty|Welcome|
+|[https://o19.email.deafsluitdijk.nl](https://o19.email.deafsluitdijk.nl)| | **F**|openresty| | | | | | | | :white_check_mark: | |HSTS Nginx OpenResty|Welcome|
+|[https://devauth.deafsluitdijk.nl](https://devauth.deafsluitdijk.nl)| | **F**|openresty| | | | | | | | :white_check_mark: | |HSTS Nginx OpenResty|Welcome|
+|[https://chula.deafsluitdijk.nl](https://chula.deafsluitdijk.nl)| | **F**|openresty| | | | | | | | :white_check_mark: | |HSTS Nginx OpenResty|Welcome|
+|[https://www1.blog.deafsluitdijk.nl](https://www1.blog.deafsluitdijk.nl)| | **F**|openresty| | | | | | | | :white_check_mark: | |HSTS Nginx OpenResty|Welcome|
+|[https://moz.deafsluitdijk.nl](https://moz.deafsluitdijk.nl)| | **F**|openresty| | | | | | | | :white_check_mark: | |HSTS Nginx OpenResty|Welcome|
+|[https://amer.deafsluitdijk.nl](https://amer.deafsluitdijk.nl)| | **F**|openresty| | | | | | | | :white_check_mark: | |HSTS Nginx OpenResty|Welcome|
+|[https://biom.deafsluitdijk.nl](https://biom.deafsluitdijk.nl)| | **F**|openresty| | | | | | | | :white_check_mark: | |HSTS Nginx OpenResty|Welcome|
+|[https://jse.deafsluitdijk.nl](https://jse.deafsluitdijk.nl)| | **F**|openresty| | | | | | | | :white_check_mark: | |HSTS Nginx OpenResty|Welcome|
+|[https://t-mobile-flex-simonly.deafsluitdijk.nl](https://t-mobile-flex-simonly.deafsluitdijk.nl)| | **F**|openresty| | | | | | | | :white_check_mark: | |HSTS Nginx OpenResty|Welcome|
+|[https://bzc.deafsluitdijk.nl](https://bzc.deafsluitdijk.nl)| | **F**|openresty| | | | | | | | :white_check_mark: | |HSTS Nginx OpenResty|Welcome|
+|[https://sherlock-test.deafsluitdijk.nl](https://sherlock-test.deafsluitdijk.nl)| | **F**|openresty| | | | | | | | :white_check_mark: | |HSTS Nginx OpenResty|Welcome|
+|[https://webstat.deafsluitdijk.nl](https://webstat.deafsluitdijk.nl)| | **F**|openresty| | | | | | | | :white_check_mark: | |HSTS Nginx OpenResty|Welcome|
+|[https://7th.deafsluitdijk.nl](https://7th.deafsluitdijk.nl)| | **F**|openresty| | | | | | | | :white_check_mark: | |HSTS Nginx OpenResty|Welcome|
+|[https://046-beek.deafsluitdijk.nl](https://046-beek.deafsluitdijk.nl)| | **F**|openresty| | | | | | | | :white_check_mark: | |HSTS Nginx OpenResty|Welcome|
+|[https://toss.deafsluitdijk.nl](https://toss.deafsluitdijk.nl)| | **F**|openresty| | | | | | | | :white_check_mark: | |HSTS Nginx OpenResty|Welcome|
+|[https://id.cloud.deafsluitdijk.nl](https://id.cloud.deafsluitdijk.nl)| | **F**|openresty| | | | | | | | :white_check_mark: | |HSTS Nginx OpenResty|Welcome|
+|[https://cw01host9.deafsluitdijk.nl](https://cw01host9.deafsluitdijk.nl)| | **F**|openresty| | | | | | | | :white_check_mark: | |HSTS Nginx OpenResty|Welcome|
+|[https://darkerthanblack.deafsluitdijk.nl](https://darkerthanblack.deafsluitdijk.nl)| | **F**|openresty| | | | | | | | :white_check_mark: | |HSTS Nginx OpenResty|Welcome|
 

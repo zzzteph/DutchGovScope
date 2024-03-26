@@ -34,3 +34,5 @@ https://geoweb.vechtstromen.nl
 http://localhost.vechtstromen.nl
 https://topdesk-test.vechtstromen.nl
 https://pop.vechtstromen.nl
+https://zaaksysteem.vechtstromen.nl
+https://acceptatie-zaaksysteem.vechtstromen.nl

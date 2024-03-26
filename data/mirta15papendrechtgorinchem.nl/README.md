@@ -11,7 +11,7 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/mirta15papendrechtgorinchem.nl/subdomains.txt)|0|Alive subdomains|
+|[subdomains.txt](/data/mirta15papendrechtgorinchem.nl/subdomains.txt)|2|Alive subdomains|
 |[urls.txt](/data/mirta15papendrechtgorinchem.nl/urls.txt)|0|Urls|
 |[all_subdomains.txt](/data/mirta15papendrechtgorinchem.nl/all_subdomains.txt)|14|All found subdomains (history)|
 

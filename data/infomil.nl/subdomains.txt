@@ -1,4 +1,3 @@
-controle-informatieplicht.infomil.nl
 femnederland.infomil.nl
 femtoezicht.infomil.nl
 files.infomil.nl

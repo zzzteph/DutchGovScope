@@ -26,7 +26,6 @@ dbe-t.rvb.rijkscloud.nl
 dev.fib.ienw.rijkscloud.nl
 developer.ix.rijkscloud.nl
 docs.performance.ix.rijkscloud.nl
-dvrvb-app-acc.rvb.rijkscloud.nl
 dvrvb-gui-acc.rvb.rijkscloud.nl
 factuur.dbe-t.rvb.rijkscloud.nl
 git-dev.rijkscloud.nl
@@ -208,7 +207,6 @@ rvp-beheer-demo.devops.rvb.rijkscloud.nl
 registry.gitlab.dgdoobi.rijkscloud.nl
 krv-demo.cvr.rvb.rijkscloud.nl
 keycloak-devops.devops.rvb.rijkscloud.nl
-dataiku.abibzk.rijkscloud.nl
 iuc-wsgi-acc.rijkscloud.nl
 rstudio.test.ix.rijkscloud.nl
 jupyter.test.ix.rijkscloud.nl

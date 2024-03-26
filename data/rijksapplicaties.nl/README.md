@@ -11,8 +11,8 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/rijksapplicaties.nl/subdomains.txt)|263|Alive subdomains|
-|[urls.txt](/data/rijksapplicaties.nl/urls.txt)|222|Urls|
+|[subdomains.txt](/data/rijksapplicaties.nl/subdomains.txt)|266|Alive subdomains|
+|[urls.txt](/data/rijksapplicaties.nl/urls.txt)|225|Urls|
 |[all_subdomains.txt](/data/rijksapplicaties.nl/all_subdomains.txt)|331|All found subdomains (history)|
 
 
@@ -58,7 +58,7 @@
 |[https://via-i.staging.rijksapplicaties.nl](https://via-i.staging.rijksapplicaties.nl)| **A+**| **C**|nginx|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS Nginx||
 |[https://kda.staging.rijksapplicaties.nl](https://kda.staging.rijksapplicaties.nl)| **A**| **F**|nginx| | | | | | | | :white_check_mark: | |Nginx||
 |[https://rvb-cpt.rijksapplicaties.nl](https://rvb-cpt.rijksapplicaties.nl)| **A+**| **C**|nginx|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS Nginx||
-|[https://rvb-ssp.staging.rijksapplicaties.nl](https://rvb-ssp.staging.rijksapplicaties.nl)| **A+**| **C**|nginx|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS Nginx||
+|[https://rvb-ssp.staging.rijksapplicaties.nl](https://rvb-ssp.staging.rijksapplicaties.nl)| **A+**| **F**|nginx| | | | | | | | :white_check_mark: | |Nginx||
 |[https://ipkd-orders.rijksapplicaties.nl](https://ipkd-orders.rijksapplicaties.nl)| **A+**| **C**|nginx|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS Nginx||
 |[https://ipkd-orders.staging.rijksapplicaties.nl](https://ipkd-orders.staging.rijksapplicaties.nl)| **A+**| **C**|nginx|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS Nginx||
 |[https://via.rijksapplicaties.nl](https://via.rijksapplicaties.nl)| **A+**| **C**|nginx|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS Nginx||
@@ -228,7 +228,7 @@
 |[https://bio.acc.rijksapplicaties.nl](https://bio.acc.rijksapplicaties.nl)| **F**| **F**|nginx| | | | | | | | :white_check_mark: | |HSTS Nginx||
 |[https://dpt.acc.rijksapplicaties.nl](https://dpt.acc.rijksapplicaties.nl)| **F**| **F**|nginx| | | | | | | | :white_check_mark: | |HSTS Nginx||
 |[http://qr-app-webservice.rijksapplicaties.nl](http://qr-app-webservice.rijksapplicaties.nl)| **A**| **E**|| | | | | | | | :white_check_mark: | ||302 Found|
-|[http://acc.rijksapplicaties.nl](http://acc.rijksapplicaties.nl)| **F**| **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET Nginx|302 Found|
+|[https://acc.rijksapplicaties.nl](https://acc.rijksapplicaties.nl)| **F**| **F**|nginx| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET Nginx|Rijksapplicaties...|
 |[https://fvp.acc.rijksapplicaties.nl](https://fvp.acc.rijksapplicaties.nl)| **F**| **F**|nginx| | | | | | | | :white_check_mark: | |Nginx||
 |[https://rvb-mva.rijksapplicaties.nl](https://rvb-mva.rijksapplicaties.nl)| **A+**| **C**|nginx|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS Nginx||
 |[https://rvb-flowboard.rijksapplicaties.nl](https://rvb-flowboard.rijksapplicaties.nl)| | **C**|nginx|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS Nginx||
@@ -243,4 +243,7 @@
 |[https://woo.rijksapplicaties.nl](https://woo.rijksapplicaties.nl)| | **E**|nginx| | | | |:warning: | | | :white_check_mark: | |Nginx||
 |[https://dpt.rijksapplicaties.nl](https://dpt.rijksapplicaties.nl)| | **E**|nginx| | | | |:warning: | | | :white_check_mark: | |Nginx||
 |[https://app2.rijksapplicaties.nl](https://app2.rijksapplicaties.nl)| | **E**|nginx| | | | |:warning: | | | :white_check_mark: | |Nginx||
+|[http://wpo-webservice.staging.rijksapplicaties.nl](http://wpo-webservice.staging.rijksapplicaties.nl)| | **E**|| | | | | | | | :white_check_mark: | ||302 Found|
+|[https://app1.acc.rijksapplicaties.nl](https://app1.acc.rijksapplicaties.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx||
+|[http://wpo-webservice.rijksapplicaties.nl](http://wpo-webservice.rijksapplicaties.nl)| | **E**|| | | | | | | | :white_check_mark: | ||302 Found|
 

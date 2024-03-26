@@ -1,5 +1,7 @@
 https://acceptatie.zwdelta.nl
-http://platform.zwdelta.nl
+https://platform.zwdelta.nl
 https://www.zwdelta.nl
 https://www.platform.zwdelta.nl
 https://zwdelta.nl
+https://acc.platform.zwdelta.nl
+https://stg.platform.zwdelta.nl

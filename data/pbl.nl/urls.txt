@@ -7,9 +7,7 @@ https://infographics.pbl.nl
 https://kwaliteitvanleven.pbl.nl
 https://leidraad.pbl.nl
 https://models.pbl.nl
-https://piwik.pbl.nl
 https://roadsfromrio.pbl.nl
-https://sandbox.pbl.nl
 https://survey.pbl.nl
 https://themasites.pbl.nl
 https://webmail.pbl.nl

@@ -22,7 +22,6 @@ https://rss.persberichten.rijksoverheid.nl
 https://static.rijksoverheid.nl
 https://statistiek.rijksoverheid.nl
 https://teverantwoordenregelingen.rijksoverheid.nl
-https://wobcovid19.rijksoverheid.nl
 https://www.rijksoverheid.nl
 https://rijksoverheid.nl
 https://sdg.rijksoverheid.nl

@@ -133,3 +133,4 @@ esp-api-portal.acc-consular.mfaservices.nl
 auth.mfaservices.nl
 o1.ptr4698.acc-consular.mfaservices.nl
 o1.ptr6472.consular.mfaservices.nl
+o1.ptr6210.snd.consular.mfaservices.nl

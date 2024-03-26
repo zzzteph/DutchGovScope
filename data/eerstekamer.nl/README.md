@@ -13,7 +13,7 @@
 |------------|-------|------|
 |[subdomains.txt](/data/eerstekamer.nl/subdomains.txt)|26|Alive subdomains|
 |[urls.txt](/data/eerstekamer.nl/urls.txt)|18|Urls|
-|[all_subdomains.txt](/data/eerstekamer.nl/all_subdomains.txt)|35|All found subdomains (history)|
+|[all_subdomains.txt](/data/eerstekamer.nl/all_subdomains.txt)|36|All found subdomains (history)|
 
 
 ## Statistics

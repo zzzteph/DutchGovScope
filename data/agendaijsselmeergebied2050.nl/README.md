@@ -4,15 +4,15 @@
 ## Summary data
 
 
- - **SSL Grade**:
- - **HTTP Security Grade**:F
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:0
+ - **SSL Grade**:A+
+ - **HTTP Security Grade**:A
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:2
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/agendaijsselmeergebied2050.nl/subdomains.txt)|0|Alive subdomains|
-|[urls.txt](/data/agendaijsselmeergebied2050.nl/urls.txt)|0|Urls|
+|[subdomains.txt](/data/agendaijsselmeergebied2050.nl/subdomains.txt)|2|Alive subdomains|
+|[urls.txt](/data/agendaijsselmeergebied2050.nl/urls.txt)|2|Urls|
 |[all_subdomains.txt](/data/agendaijsselmeergebied2050.nl/all_subdomains.txt)|21|All found subdomains (history)|
 
 
@@ -21,4 +21,6 @@
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
+|[https://www.agendaijsselmeergebied2050.nl](https://www.agendaijsselmeergebied2050.nl)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Home | Agenda IJ...|
+|[https://agendaijsselmeergebied2050.nl](https://agendaijsselmeergebied2050.nl)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
 

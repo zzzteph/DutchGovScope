@@ -26,7 +26,6 @@ https://dbe-t.rvb.rijkscloud.nl
 https://dev.fib.ienw.rijkscloud.nl
 https://developer.ix.rijkscloud.nl
 https://docs.performance.ix.rijkscloud.nl
-https://dvrvb-app-acc.rvb.rijkscloud.nl
 https://dvrvb-gui-acc.rvb.rijkscloud.nl
 https://factuur.dbe-t.rvb.rijkscloud.nl
 https://git-dev.rijkscloud.nl

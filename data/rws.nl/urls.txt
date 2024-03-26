@@ -41,6 +41,7 @@ https://eov.acceptatie.rws.nl
 https://esb.rws.nl
 https://fam.rws.nl
 https://fat-acc.vm-02.azure.grid.rws.nl
+https://fat-test.vm-02.azure.grid.rws.nl
 https://fat.vm-02.azure.grid.rws.nl
 https://federatie.rws.nl
 https://geo.rws.nl

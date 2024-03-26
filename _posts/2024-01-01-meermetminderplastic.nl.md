@@ -4,9 +4,9 @@ title: "meermetminderplastic.nl"
 permalink: "/dutchgov/meermetminderplastic.nl.html"
 subdomains_count: 5
 all_subdomains_count: 5
-urls_count: 5
-ssl_rank: A+
-http_rank: E
+urls_count: 4
+ssl_rank: A
+http_rank: D
 security_txt: 0
 url_link: /data/meermetminderplastic.nl/urls.txt
 all_subdomains_link: /data/meermetminderplastic.nl/all_subdomains.txt
@@ -20,15 +20,15 @@ tags: dutchgov
 ## Summary data
 
 
- - **SSL Grade**:A+
- - **HTTP Security Grade**:E
+ - **SSL Grade**:A
+ - **HTTP Security Grade**:D
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:0
 
 
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/DutchGovScope/data/meermetminderplastic.nl/subdomains.txt)|5|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/meermetminderplastic.nl/urls.txt)|5|Urls|
+|[urls.txt](/DutchGovScope/data/meermetminderplastic.nl/urls.txt)|4|Urls|
 |[all_subdomains.txt](/DutchGovScope/data/meermetminderplastic.nl/all_subdomains.txt)|5|All found subdomains (history)|
 
 
@@ -37,8 +37,7 @@ tags: dutchgov
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://forum.meermetminderplastic.nl](https://forum.meermetminderplastic.nl)| **A+**| **F**|nginx|:warning: | | | | | | | :white_check_mark: | |HSTS Nginx||
-|[https://monitoring.meermetminderplastic.nl](https://monitoring.meermetminderplastic.nl)| **A+**| **C**||:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | |Azure HSTS|Startpagina|
+|[https://monitoring.meermetminderplastic.nl](https://monitoring.meermetminderplastic.nl)| **A+**| **A**||:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |Azure HSTS|Startpagina|
 |[https://www.meermetminderplastic.nl](https://www.meermetminderplastic.nl)| **A**| **F**|nginx| | | | | | | | :white_check_mark: | |MailChimp Nginx PHP Pimcore|Meer met minder...|
 |[https://meermetminderplastic.nl](https://meermetminderplastic.nl)| **A**| **F**|nginx| | | | | | | | :white_check_mark: | |Nginx PHP Pimcore|Redirecting to h...|
 |[http://autodiscover.meermetminderplastic.nl](http://autodiscover.meermetminderplastic.nl)| | **B**|Microsoft-IIS/10.0|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server||

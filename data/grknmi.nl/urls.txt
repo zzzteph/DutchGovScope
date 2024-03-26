@@ -1,3 +1,6 @@
+https://grknmi.nl
+https://www.grknmi.nl
+https://mail.grknmi.nl
 https://ftp.grknmi.nl
 https://pop.grknmi.nl
 https://smtp.grknmi.nl

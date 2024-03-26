@@ -104,3 +104,5 @@ https://en.staging.waarzitwatin.nl
 https://vault.staging.waarzitwatin.nl
 https://store.staging.waarzitwatin.nl
 https://it.staging.waarzitwatin.nl
+https://data.staging.waarzitwatin.nl
+https://origin.staging.waarzitwatin.nl

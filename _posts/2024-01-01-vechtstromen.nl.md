@@ -4,10 +4,10 @@ title: "vechtstromen.nl"
 permalink: "/dutchgov/vechtstromen.nl.html"
 subdomains_count: 51
 all_subdomains_count: 100
-urls_count: 36
+urls_count: 38
 ssl_rank: A-
 http_rank: C
-security_txt: 9
+security_txt: 11
 url_link: /data/vechtstromen.nl/urls.txt
 all_subdomains_link: /data/vechtstromen.nl/all_subdomains.txt
 subdomains_link: /data/vechtstromen.nl/subdomains.txt
@@ -22,13 +22,13 @@ tags: dutchgov
 
  - **SSL Grade**:A-
  - **HTTP Security Grade**:C
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:9
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:11
 
 
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/DutchGovScope/data/vechtstromen.nl/subdomains.txt)|51|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/vechtstromen.nl/urls.txt)|36|Urls|
+|[urls.txt](/DutchGovScope/data/vechtstromen.nl/urls.txt)|38|Urls|
 |[all_subdomains.txt](/DutchGovScope/data/vechtstromen.nl/all_subdomains.txt)|100|All found subdomains (history)|
 
 
@@ -73,4 +73,6 @@ tags: dutchgov
 |[http://localhost.vechtstromen.nl](http://localhost.vechtstromen.nl)| | **F**|nginx|:o: | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Laravel Nginx PHP|Weakpass|
 |[https://topdesk-test.vechtstromen.nl](https://topdesk-test.vechtstromen.nl)| | **F**|cloudflare| | | | | | | | :white_check_mark: | |Cloudflare|403 Forbidden|
 |[https://pop.vechtstromen.nl](https://pop.vechtstromen.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|404 Not Found|
+|[https://zaaksysteem.vechtstromen.nl](https://zaaksysteem.vechtstromen.nl)| | **A**||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Moved|
+|[https://acceptatie-zaaksysteem.vechtstromen.nl](https://acceptatie-zaaksysteem.vechtstromen.nl)| | **A**||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Moved|
 

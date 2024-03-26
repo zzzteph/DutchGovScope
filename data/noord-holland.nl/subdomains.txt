@@ -80,13 +80,11 @@ fioriacc-srm.noord-holland.nl
 vsbacc.noord-holland.nl
 vsbprd.noord-holland.nl
 govroam.noord-holland.nl
-pleintest.noord-holland.nl
 portal-bs.noord-holland.nl
 projectruimte.noord-holland.nl
 qep.noord-holland.nl
 qlikgw-accp.aws.noord-holland.nl
 qlikgw-prod.aws.noord-holland.nl
-servicepuntportal.noord-holland.nl
 vl.noord-holland.nl
 web.noord-holland.nl
 web1.noord-holland.nl

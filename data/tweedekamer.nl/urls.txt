@@ -9,7 +9,6 @@ https://service.tweedekamer.nl
 https://pwk.tweedekamer.nl
 https://tweedekamer.acceptatie.tweedekamer.nl
 https://cdn.debatdirect.tweedekamer.nl
-https://sip.videovergaderen.tweedekamer.nl
 https://woningcorporaties.tweedekamer.nl
 https://sts.tweedekamer.nl
 https://plus.debatdirect.tweedekamer.nl
@@ -17,7 +16,6 @@ https://houseofrepresentatives.acceptatie.tweedekamer.nl
 https://gegevensmagazijn.tweedekamer.nl
 https://debatdirect.tweedekamer.nl
 https://rapportaardgaswinning.tweedekamer.nl
-https://ext02.videovergaderen.tweedekamer.nl
 https://opendata.tweedekamer.nl
 https://stats.debatdirect.tweedekamer.nl
 https://livestreaming-thumb.b67bu.tweedekamer.nl
@@ -55,7 +53,6 @@ https://livestream-thumb.tweedekamer.nl
 https://api.debatdirect.tweedekamer.nl
 https://werkenbij.tweedekamer.nl
 https://opendata.acceptatie.tweedekamer.nl
-https://ext01.videovergaderen.tweedekamer.nl
 https://tweedekamer.nl
 https://livestreaming.b67acc.tweedekamer.nl
 https://plein2.tweedekamer.nl
@@ -118,3 +115,4 @@ https://plein2-acc.tweedekamer.nl
 https://plein2-test.tweedekamer.nl
 https://sesam-test.tweedekamer.nl
 https://sesam-acc.tweedekamer.nl
+https://apm-acc.tweedekamer.nl

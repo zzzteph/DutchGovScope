@@ -4,7 +4,7 @@ title: "slimwatermanagement.nl"
 permalink: "/dutchgov/slimwatermanagement.nl.html"
 subdomains_count: 3
 all_subdomains_count: 3
-urls_count: 2
+urls_count: 3
 ssl_rank: A+
 http_rank: A
 security_txt: 2
@@ -28,7 +28,7 @@ tags: dutchgov
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/DutchGovScope/data/slimwatermanagement.nl/subdomains.txt)|3|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/slimwatermanagement.nl/urls.txt)|2|Urls|
+|[urls.txt](/DutchGovScope/data/slimwatermanagement.nl/urls.txt)|3|Urls|
 |[all_subdomains.txt](/DutchGovScope/data/slimwatermanagement.nl/all_subdomains.txt)|3|All found subdomains (history)|
 
 
@@ -39,4 +39,5 @@ tags: dutchgov
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[https://www.slimwatermanagement.nl](https://www.slimwatermanagement.nl)| **A+**| **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:-|Slim Watermanage...|
 |[https://slimwatermanagement.nl](https://slimwatermanagement.nl)| **A+**| **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:-|Object moved|
+|[https://poc.slimwatermanagement.nl](https://poc.slimwatermanagement.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 

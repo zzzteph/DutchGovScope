@@ -68,3 +68,6 @@ autodiscover.test.rechtwijzer.nl
 cpcontacts.test.rechtwijzer.nl
 auth.test.rechtwijzer.nl
 kibana.test.rechtwijzer.nl
+ftp.test.rechtwijzer.nl
+rest.test.rechtwijzer.nl
+burgerloket.test.rechtwijzer.nl

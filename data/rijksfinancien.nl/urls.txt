@@ -2,6 +2,6 @@ https://archief.rijksfinancien.nl
 https://rbv.rijksfinancien.nl
 https://rbv-acc.rijksfinancien.nl
 https://www.rijksfinancien.nl
-http://rijksfinancien.nl
+https://rijksfinancien.nl
 https://evaluaties-acc.rijksfinancien.nl
 https://evaluaties.rijksfinancien.nl

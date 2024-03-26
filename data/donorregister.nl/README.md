@@ -13,7 +13,7 @@
 |------------|-------|------|
 |[subdomains.txt](/data/donorregister.nl/subdomains.txt)|25|Alive subdomains|
 |[urls.txt](/data/donorregister.nl/urls.txt)|14|Urls|
-|[all_subdomains.txt](/data/donorregister.nl/all_subdomains.txt)|45|All found subdomains (history)|
+|[all_subdomains.txt](/data/donorregister.nl/all_subdomains.txt)|46|All found subdomains (history)|
 
 
 ## Statistics

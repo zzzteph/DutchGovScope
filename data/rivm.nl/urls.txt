@@ -117,7 +117,7 @@ https://influxs.rivm.nl
 https://informatiehulp.rivm.nl
 http://inspire.rivm.nl
 https://ivac.rivm.nl
-https://jira.rivm.nl
+http://jira.rivm.nl
 https://kiddi.rivm.nl
 http://kosteneffectiviteit-preventie.rivm.nl
 https://lci.rivm.nl
@@ -173,7 +173,7 @@ http://sars2-kiemsurveillance.rivm.nl
 http://search.rivm.nl
 https://secure.rivm.nl
 http://secure-acceptatie.grip.rivm.nl
-http://secure-test.rivm.nl
+https://secure-test.rivm.nl
 https://secure.grip.rivm.nl
 https://securemail.rivm.nl
 https://sensors.rivm.nl

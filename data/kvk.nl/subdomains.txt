@@ -195,6 +195,7 @@ sip.kvk.nl
 www3.kvk.nl
 tbadmin.kvk.nl
 fed-lms.kvk.nl
+diensten2.kvk.nl
 admin.kvk.nl
 blog.kvk.nl
 dbadmin.kvk.nl

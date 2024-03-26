@@ -6,8 +6,8 @@ subdomains_count: 21
 all_subdomains_count: 30
 urls_count: 9
 ssl_rank: A+
-http_rank: B
-security_txt: 4
+http_rank: A
+security_txt: 5
 url_link: /data/stelselcatalogus.nl/urls.txt
 all_subdomains_link: /data/stelselcatalogus.nl/all_subdomains.txt
 subdomains_link: /data/stelselcatalogus.nl/subdomains.txt
@@ -21,8 +21,8 @@ tags: dutchgov
 
 
  - **SSL Grade**:A+
- - **HTTP Security Grade**:B
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:4
+ - **HTTP Security Grade**:A
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:5
 
 
 | File       | Count | Info |
@@ -37,7 +37,7 @@ tags: dutchgov
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://opendata.stelselcatalogus.nl](https://opendata.stelselcatalogus.nl)| **A+**| **F**|Stelselcatalogus| | | | | | | | :white_check_mark: | |HSTS|Logius Stelselca...|
+|[https://opendata.stelselcatalogus.nl](https://opendata.stelselcatalogus.nl)| **A+**| **A**|Stelselcatalogus| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Logius Stelselca...|
 |[https://preprod.stelselcatalogus.nl](https://preprod.stelselcatalogus.nl)| **A+**| **A**|Stelselcatalogus| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Logius Stelselca...|
 |[https://preprod.opendata.stelselcatalogus.nl](https://preprod.opendata.stelselcatalogus.nl)| **A+**| **A**|Stelselcatalogus| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Logius Stelselca...|
 |[https://www.stelselcatalogus.nl](https://www.stelselcatalogus.nl)| **A+**| **A**|Stelselcatalogus| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Logius Stelselca...|

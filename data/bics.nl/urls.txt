@@ -9,6 +9,5 @@ https://www.bics.nl
 https://bicsdrupalacc.bics.nl
 https://bics.nl
 https://bicsweb1.bics.nl
-https://bicsweb2.bics.nl
 https://bicsaccweb1.bics.nl
 https://bicsweb3.bics.nl

@@ -6,13 +6,13 @@
 
  - **SSL Grade**:B+
  - **HTTP Security Grade**:C
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:93
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:94
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/rws.nl/subdomains.txt)|249|Alive subdomains|
-|[urls.txt](/data/rws.nl/urls.txt)|169|Urls|
+|[subdomains.txt](/data/rws.nl/subdomains.txt)|251|Alive subdomains|
+|[urls.txt](/data/rws.nl/urls.txt)|170|Urls|
 |[all_subdomains.txt](/data/rws.nl/all_subdomains.txt)|1177|All found subdomains (history)|
 
 
@@ -64,6 +64,7 @@
 |[https://esb.rws.nl](https://esb.rws.nl)| **A**| **F**||:o: | | | | | | | :white_check_mark: | |||
 |[https://fam.rws.nl](https://fam.rws.nl)| **A**| **E**|| | | | | | | | :white_check_mark: | |||
 |[https://fat-acc.vm-02.azure.grid.rws.nl](https://fat-acc.vm-02.azure.grid.rws.nl)| **A+**| **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|iwks-hwtest-fron...|
+|[https://fat-test.vm-02.azure.grid.rws.nl](https://fat-test.vm-02.azure.grid.rws.nl)| **A+**| **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|iwks-hwtest-fron...|
 |[https://fat.vm-02.azure.grid.rws.nl](https://fat.vm-02.azure.grid.rws.nl)| **A+**| **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|iwks-hwtest-fron...|
 |[https://federatie.rws.nl](https://federatie.rws.nl)| **A**| **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
 |[https://geo.rws.nl](https://geo.rws.nl)| **A+**| **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Nginx|Landingspagina I...|

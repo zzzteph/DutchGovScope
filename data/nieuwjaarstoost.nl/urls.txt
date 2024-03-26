@@ -1,2 +1,3 @@
 https://nieuwjaarstoost.nl
 https://www.nieuwjaarstoost.nl
+http://localhost.nieuwjaarstoost.nl

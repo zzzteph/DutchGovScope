@@ -1,4 +1,3 @@
 apps.rijksservices.nl
 rijksservices.nl
-www.rijksservices.nl
 apps-tst.rijksservices.nl

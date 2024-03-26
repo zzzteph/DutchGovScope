@@ -22,7 +22,7 @@
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[https://mail.logan.nl.internationaalondernemen.nl](https://mail.logan.nl.internationaalondernemen.nl)| **F**| **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|An Error Occurre...|
-|[https://www.internationaalondernemen.nl](https://www.internationaalondernemen.nl)| **A**| **A**|Apache| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server Google Tag Manager HSTS MySQL PHP W3 Total Cache WordPress Yoast SEO:20.13|Internationaal O...|
+|[https://www.internationaalondernemen.nl](https://www.internationaalondernemen.nl)| **A**| **A**|Apache| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server Google Tag Manager HSTS W3 Total Cache WordPress Yoast SEO:20.13|Internationaal O...|
 |[https://nl.internationaalondernemen.nl](https://nl.internationaalondernemen.nl)| **F**| **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|An Error Occurre...|
 |[https://internationaalondernemen.nlwww.internationaalondernemen.nl](https://internationaalondernemen.nlwww.internationaalondernemen.nl)| **F**| **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|An Error Occurre...|
 |[https://ww.internationaalondernemen.nl](https://ww.internationaalondernemen.nl)| **F**| **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|An Error Occurre...|

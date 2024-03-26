@@ -1,4 +1,3 @@
-mail.coordinatiestroomlijn.nl
 mta-sts.coordinatiestroomlijn.nl
 www.coordinatiestroomlijn.nl
 coordinatiestroomlijn.nl

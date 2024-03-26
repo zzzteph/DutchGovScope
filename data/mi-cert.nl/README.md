@@ -5,14 +5,14 @@
 
 
  - **SSL Grade**:E
- - **HTTP Security Grade**:F
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:0
+ - **HTTP Security Grade**:E
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:1
 
 
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/mi-cert.nl/subdomains.txt)|5|Alive subdomains|
-|[urls.txt](/data/mi-cert.nl/urls.txt)|4|Urls|
+|[urls.txt](/data/mi-cert.nl/urls.txt)|5|Urls|
 |[all_subdomains.txt](/data/mi-cert.nl/all_subdomains.txt)|5|All found subdomains (history)|
 
 
@@ -25,4 +25,5 @@
 |[https://www.mi-cert.nl](https://www.mi-cert.nl)| **F**| **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server Bootstrap HSTS Joomla PHP|Home | MI-Cert.n...|
 |[https://mi-cert.nl](https://mi-cert.nl)| **B**| **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server Bootstrap HSTS Joomla PHP|Home | MI-Cert.n...|
 |[https://acc.mi-cert.nl](https://acc.mi-cert.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Basic HSTS Nginx|401 Authorizatio...|
+|[https://prod.mi-cert.nl](https://prod.mi-cert.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Drupal HSTS Nginx PHP|Dutch Certificat...|
 

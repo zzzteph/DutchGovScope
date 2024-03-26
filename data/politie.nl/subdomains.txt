@@ -81,6 +81,7 @@ mtp-pre.politie.nl
 mtp.politie.nl
 mvpn-pre.gslbppe.politie.nl
 mvpn-tst.ows2.politie.nl
+mvpn.gslbpe.politie.nl
 nexus.politie.nl
 ns1.gslb-trf.politie.nl
 ns1.gslbpe.politie.nl
@@ -100,6 +101,7 @@ sonarqube.politie.nl
 sophos.politie.nl
 sso-pa.politie.nl
 ssovpnappa-pre.gslbppe.politie.nl
+ssovpnappa-tst.ows2.politie.nl
 ssovpnappa.gslbpe.politie.nl
 ssovpnappi-pre.gslbppe.politie.nl
 ssovpnappi.gslbpe.politie.nl

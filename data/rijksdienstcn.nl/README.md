@@ -11,7 +11,7 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/rijksdienstcn.nl/subdomains.txt)|0|Alive subdomains|
+|[subdomains.txt](/data/rijksdienstcn.nl/subdomains.txt)|2|Alive subdomains|
 |[urls.txt](/data/rijksdienstcn.nl/urls.txt)|0|Urls|
 |[all_subdomains.txt](/data/rijksdienstcn.nl/all_subdomains.txt)|2|All found subdomains (history)|
 

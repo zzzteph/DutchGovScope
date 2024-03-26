@@ -138,3 +138,11 @@ lms-rotterdam.trainingscatalogus.nl
 svb-lms-a.scim-api.trainingscatalogus.nl
 vgz-lms-a.enrollment-api.trainingscatalogus.nl
 vgz-lms-a.scim-api.trainingscatalogus.nl
+nl.test.trainingscatalogus.nl
+staging.test.trainingscatalogus.nl
+images.test.trainingscatalogus.nl
+demo.test.trainingscatalogus.nl
+cpanel.test.trainingscatalogus.nl
+connect.test.trainingscatalogus.nl
+amp.test.trainingscatalogus.nl
+vgz-lms-a.course-api.trainingscatalogus.nl

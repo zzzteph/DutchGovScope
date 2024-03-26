@@ -22,7 +22,7 @@
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[https://webshop.incidentmanagement.nl](https://webshop.incidentmanagement.nl)| **F**| **F**|nginx| | | | | | | | :white_check_mark: | |Nginx||
-|[http://www.incidentmanagement.nl](http://www.incidentmanagement.nl)| **A+**| **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET||
+|[https://www.incidentmanagement.nl](https://www.incidentmanagement.nl)| **A+**| **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET|Object moved|
 |[https://www.webshop.incidentmanagement.nl](https://www.webshop.incidentmanagement.nl)| **F**| **F**|nginx| | | | | | | | :white_check_mark: | |Nginx||
-|[http://incidentmanagement.nl](http://incidentmanagement.nl)| **A+**| **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET||
+|[https://incidentmanagement.nl](https://incidentmanagement.nl)| **A+**| **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET|Object moved|
 

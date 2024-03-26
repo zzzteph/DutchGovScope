@@ -6,13 +6,13 @@
 
  - **SSL Grade**:A-
  - **HTTP Security Grade**:D
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:111
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:110
 
 
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/cbs.nl/subdomains.txt)|221|Alive subdomains|
-|[urls.txt](/data/cbs.nl/urls.txt)|183|Urls|
+|[urls.txt](/data/cbs.nl/urls.txt)|178|Urls|
 |[all_subdomains.txt](/data/cbs.nl/all_subdomains.txt)|300|All found subdomains (history)|
 
 
@@ -192,16 +192,11 @@
 |[https://mijn.cbs.nl](https://mijn.cbs.nl)| **B**| **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Nginx|Welkom op Mijn C...|
 |[https://mijn-api.cbs.nl](https://mijn-api.cbs.nl)| **A+**| **C**|Kestrel| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Kestrel Microsoft ASP.NET||
 |[https://uitwisseling.cbs.nl](https://uitwisseling.cbs.nl)| **A**| **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
-|[https://beh-iam.acceptatie.cbs.nl](https://beh-iam.acceptatie.cbs.nl)| **A+**| **C**|Microsoft-IIS/10.0|:warning: |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Bootstrap HSTS IIS:10.0 Microsoft ASP.NET Windows Server|Login voor intde...|
+|[https://beh-iam.acceptatie.cbs.nl](https://beh-iam.acceptatie.cbs.nl)| **A+**| **C**|Microsoft-IIS/10.0|:warning: |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Bootstrap HSTS IIS:10.0 Microsoft ASP.NET:4.0.30319 Windows Server|Login voor intde...|
 |[https://amunet.cbs.nl](https://amunet.cbs.nl)| **B**| **E**|| | | | | | | | :white_check_mark: | ||Amunet|
 |[https://dataset.acceptatie.cbs.nl](https://dataset.acceptatie.cbs.nl)| | **C**|| |:white_check_mark: | :warning:| | | | | :white_check_mark: | |HSTS|CCB OData Endpoi...|
 |[https://login-databestanden.test.cbs.nl](https://login-databestanden.test.cbs.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Welcome to Keycl...|
 |[https://mijn.acceptatie.cbs.nl](https://mijn.acceptatie.cbs.nl)| | **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |Basic HSTS Nginx|401 Authorizatio...|
 |[http://mijn-acceptatie.cbs.nl](http://mijn-acceptatie.cbs.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://brandportal.cbs.nl](https://brandportal.cbs.nl)| | **F**|Apache/2| | | | | | | | :white_check_mark: | |Apache HTTP Server:2||
-|[http://sdmx-dataexplorer-beta.cbs.nl](http://sdmx-dataexplorer-beta.cbs.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Express HSTS Node.js||
-|[http://sdmx-share.cbs.nl](http://sdmx-share.cbs.nl)| | **E**|| | | | | | | | :white_check_mark: | |Express Node.js||
-|[http://sdmx-dataviewer.cbs.nl](http://sdmx-dataviewer.cbs.nl)| | **E**|| | | | | | | | :white_check_mark: | |Express Node.js||
-|[http://sdmx-search-beta.cbs.nl](http://sdmx-search-beta.cbs.nl)| | **B**|| |:white_check_mark: | :warning:| | :white_check_mark:| | | :white_check_mark: | |Express HSTS Node.js|Error|
-|[http://sdmx-api-beta.cbs.nl](http://sdmx-api-beta.cbs.nl)| | **F**|Kestrel| | | | | | | | :white_check_mark: | |Express Kestrel Microsoft ASP.NET Node.js||
 

@@ -43,3 +43,4 @@ magazinesintern.domeinenrz.nl
 magazines.english.domeinenrz.nl
 vpn2.domeinenrz.nl
 toegankelijkheidsonderzoek-english.domeinenrz.nl
+autodiscover.domeinenrz.nl

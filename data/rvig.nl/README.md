@@ -5,7 +5,7 @@
 
 
  - **SSL Grade**:A
- - **HTTP Security Grade**:B
+ - **HTTP Security Grade**:A
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:10
 
 
@@ -34,6 +34,6 @@
 |[https://test.intranet.rvig.nl](https://test.intranet.rvig.nl)| **A+**| **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Nginx|403 Forbidden|
 |[https://www.rvig.nl](https://www.rvig.nl)| **A**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Drupal HSTS Nginx PHP:8.1.27|Home | RvIG|
 |[https://rvig.nl](https://rvig.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
-|[https://idapps.npr.idm.rvig.nl](https://idapps.npr.idm.rvig.nl)| **B**| **C**||:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
-|[https://idbs.npr.idm.rvig.nl](https://idbs.npr.idm.rvig.nl)| **B**| **A**||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Response|
+|[http://idapps.npr.idm.rvig.nl](http://idapps.npr.idm.rvig.nl)| **B**| **C**||:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
+|[https://idbs.npr.idm.rvig.nl](https://idbs.npr.idm.rvig.nl)| **B**| **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Java||
 

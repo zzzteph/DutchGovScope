@@ -12,7 +12,7 @@
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/waarzitwatin.nl/subdomains.txt)|108|Alive subdomains|
-|[urls.txt](/data/waarzitwatin.nl/urls.txt)|106|Urls|
+|[urls.txt](/data/waarzitwatin.nl/urls.txt)|108|Urls|
 |[all_subdomains.txt](/data/waarzitwatin.nl/all_subdomains.txt)|108|All found subdomains (history)|
 
 
@@ -127,4 +127,6 @@
 |[https://vault.staging.waarzitwatin.nl](https://vault.staging.waarzitwatin.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Amazon CloudFront Amazon Web Services Apache HTTP Server|404 Not Found|
 |[https://store.staging.waarzitwatin.nl](https://store.staging.waarzitwatin.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Amazon CloudFront Amazon Web Services Apache HTTP Server|404 Not Found|
 |[https://it.staging.waarzitwatin.nl](https://it.staging.waarzitwatin.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Amazon CloudFront Amazon Web Services Apache HTTP Server|404 Not Found|
+|[https://data.staging.waarzitwatin.nl](https://data.staging.waarzitwatin.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Amazon CloudFront Amazon Web Services Apache HTTP Server|404 Not Found|
+|[https://origin.staging.waarzitwatin.nl](https://origin.staging.waarzitwatin.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Amazon CloudFront Amazon Web Services Apache HTTP Server|404 Not Found|
 

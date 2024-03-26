@@ -37,7 +37,7 @@ tags: dutchgov
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://www.investeringsimpulsspv.nl](https://www.investeringsimpulsspv.nl)| | **F**|Apache/2| | | | | | | | :white_check_mark: | |Apache HTTP Server:2 MySQL PHP:8.2.15 WordPress||
+|[https://www.investeringsimpulsspv.nl](https://www.investeringsimpulsspv.nl)| | **F**|Apache/2| | | | | | | | :white_check_mark: | |Apache HTTP Server:2 MySQL PHP:8.2.16 WordPress||
 |[https://mail.investeringsimpulsspv.nl](https://mail.investeringsimpulsspv.nl)| | **F**|Apache/2| | | | | | | | :white_check_mark: | |Apache HTTP Server:2||
-|[https://investeringsimpulsspv.nl](https://investeringsimpulsspv.nl)| | **F**|Apache/2| | | | | | | | :white_check_mark: | |Apache HTTP Server:2 Bootstrap MySQL PHP:8.2.15 WordPress Yoast SEO:22.0|Investeringsimpu...|
+|[https://investeringsimpulsspv.nl](https://investeringsimpulsspv.nl)| | **F**|Apache/2| | | | | | | | :white_check_mark: | |Apache HTTP Server:2 Bootstrap MySQL PHP:8.2.16 WordPress Yoast SEO:22.0|Investeringsimpu...|
 

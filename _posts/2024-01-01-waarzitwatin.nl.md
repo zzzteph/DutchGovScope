@@ -4,7 +4,7 @@ title: "waarzitwatin.nl"
 permalink: "/dutchgov/waarzitwatin.nl.html"
 subdomains_count: 108
 all_subdomains_count: 108
-urls_count: 106
+urls_count: 108
 ssl_rank: A+
 http_rank: F
 security_txt: 0
@@ -28,7 +28,7 @@ tags: dutchgov
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/DutchGovScope/data/waarzitwatin.nl/subdomains.txt)|108|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/waarzitwatin.nl/urls.txt)|106|Urls|
+|[urls.txt](/DutchGovScope/data/waarzitwatin.nl/urls.txt)|108|Urls|
 |[all_subdomains.txt](/DutchGovScope/data/waarzitwatin.nl/all_subdomains.txt)|108|All found subdomains (history)|
 
 
@@ -143,4 +143,6 @@ tags: dutchgov
 |[https://vault.staging.waarzitwatin.nl](https://vault.staging.waarzitwatin.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Amazon CloudFront Amazon Web Services Apache HTTP Server|404 Not Found|
 |[https://store.staging.waarzitwatin.nl](https://store.staging.waarzitwatin.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Amazon CloudFront Amazon Web Services Apache HTTP Server|404 Not Found|
 |[https://it.staging.waarzitwatin.nl](https://it.staging.waarzitwatin.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Amazon CloudFront Amazon Web Services Apache HTTP Server|404 Not Found|
+|[https://data.staging.waarzitwatin.nl](https://data.staging.waarzitwatin.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Amazon CloudFront Amazon Web Services Apache HTTP Server|404 Not Found|
+|[https://origin.staging.waarzitwatin.nl](https://origin.staging.waarzitwatin.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Amazon CloudFront Amazon Web Services Apache HTTP Server|404 Not Found|
 

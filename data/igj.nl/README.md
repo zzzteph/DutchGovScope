@@ -5,14 +5,14 @@
 
 
  - **SSL Grade**:A+
- - **HTTP Security Grade**:A
+ - **HTTP Security Grade**:B
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:8
 
 
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/igj.nl/subdomains.txt)|54|Alive subdomains|
-|[urls.txt](/data/igj.nl/urls.txt)|13|Urls|
+|[urls.txt](/data/igj.nl/urls.txt)|15|Urls|
 |[all_subdomains.txt](/data/igj.nl/all_subdomains.txt)|73|All found subdomains (history)|
 
 
@@ -34,4 +34,6 @@
 |[https://www.igj.nl](https://www.igj.nl)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|IGJ.nl | Inspect...|
 |[https://www.abonneren.toezichtdocumenten.igj.nl](https://www.abonneren.toezichtdocumenten.igj.nl)| | **F**|Microsoft-IIS/8.5| | | | | | | | :white_check_mark: | |Bloomreach IIS:8.5 Microsoft ASP.NET:4.0.30319 Windows Server|Inspectie voor d...|
 |[https://igj.nl](https://igj.nl)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
+|[https://toezichtopzorgnetwerken.igj.nl](https://toezichtopzorgnetwerken.igj.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |HSTS Nginx|3CX Webclient|
+|[https://onstoezicht.igj.nl](https://onstoezicht.igj.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |HSTS Nginx|3CX Webclient|
 

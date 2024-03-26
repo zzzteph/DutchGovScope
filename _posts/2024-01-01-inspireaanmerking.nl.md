@@ -7,7 +7,7 @@ all_subdomains_count: 2
 urls_count: 2
 ssl_rank: 
 http_rank: B
-security_txt: 2
+security_txt: 1
 url_link: /data/inspireaanmerking.nl/urls.txt
 all_subdomains_link: /data/inspireaanmerking.nl/all_subdomains.txt
 subdomains_link: /data/inspireaanmerking.nl/subdomains.txt
@@ -22,7 +22,7 @@ tags: dutchgov
 
  - **SSL Grade**:
  - **HTTP Security Grade**:B
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:2
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:1
 
 
 | File       | Count | Info |
@@ -37,6 +37,6 @@ tags: dutchgov
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://www.inspireaanmerking.nl](https://www.inspireaanmerking.nl)| | **B**|cloudflare| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Cloudflare Drupal:10 HSTS HTTP/3 PHP|Home | INSPIRE A...|
-|[https://inspireaanmerking.nl](https://inspireaanmerking.nl)| | **B**|cloudflare| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Cloudflare HSTS HTTP/3|308 Permanent Re...|
+|[https://www.inspireaanmerking.nl](https://www.inspireaanmerking.nl)| | **B**|cloudflare| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Cloudflare HSTS HTTP/3|301 Moved Perman...|
+|[https://inspireaanmerking.nl](https://inspireaanmerking.nl)| | **C**|cloudflare| |:white_check_mark: | | | | | | :white_check_mark: | |Cloudflare HSTS HTTP/3|404 Not Found|
 
