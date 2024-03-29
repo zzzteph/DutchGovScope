@@ -28,12 +28,12 @@
 |[https://checkjeprijs.huurcommissie.nl](https://checkjeprijs.huurcommissie.nl)| **A+**| **A**|| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS||
 |[http://autodiscover.huurcommissie.nl](http://autodiscover.huurcommissie.nl)| | **E**|Microsoft-IIS/10.0| | | | | | :white_check_mark: | | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server||
 |[https://zaaksysteem-accept.huurcommissie.nl](https://zaaksysteem-accept.huurcommissie.nl)| | **D**|| | | | | | :white_check_mark: | | :white_check_mark: | |HSTS|Moved|
-|[https://portaal.huurcommissie.nl](https://portaal.huurcommissie.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS Nginx|Huurcommissie|
+|[https://portaal.huurcommissie.nl](https://portaal.huurcommissie.nl)| | **A**|nginx| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS Nginx|Huurcommissie|
 |[https://mijn.huurcommissie.nl](https://mijn.huurcommissie.nl)| **A+**| **D**|| | | | | | :white_check_mark: | | :white_check_mark: | |HSTS|Moved|
 |[https://telewerk.huurcommissie.nl](https://telewerk.huurcommissie.nl)| **A+**| **A**||:warning: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Microsoft ASP.NET||
 |[https://feeds.huurcommissie.nl](https://feeds.huurcommissie.nl)| **A+**| **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://huurcommissie.nl](https://huurcommissie.nl)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
-|[https://hip.huurcommissie.nl](https://hip.huurcommissie.nl)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS Nginx|Huurcommissie|
+|[https://hip.huurcommissie.nl](https://hip.huurcommissie.nl)| **A+**| **A**|nginx| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS Nginx|Huurcommissie|
 |[https://enterpriseenrollment.huurcommissie.nl](https://enterpriseenrollment.huurcommissie.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||
 |[https://enterpriseregistration.huurcommissie.nl](https://enterpriseregistration.huurcommissie.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://msoid.huurcommissie.nl](https://msoid.huurcommissie.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Object moved|

@@ -393,9 +393,11 @@ a-ewrs.rivm.nl
 apex-cmm.rivm.nl
 lsocom2.rivm.nl
 lsp.rivm.nl
+dashview.rivm.nl
 spoor.rivm.nl
 api.acc-lsp.rivm.nl
 acc-lsp.rivm.nl
 teebstad-app.rivm.nl
 micha.rivm.nl
 stikstofdepositiedata.rivm.nl
+ggdiamdemo.rivm.nl

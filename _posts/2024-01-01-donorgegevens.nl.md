@@ -7,7 +7,7 @@ all_subdomains_count: 35
 urls_count: 10
 ssl_rank: A
 http_rank: A
-security_txt: 8
+security_txt: 9
 url_link: /data/donorgegevens.nl/urls.txt
 all_subdomains_link: /data/donorgegevens.nl/all_subdomains.txt
 subdomains_link: /data/donorgegevens.nl/subdomains.txt
@@ -22,7 +22,7 @@ tags: dutchgov
 
  - **SSL Grade**:A
  - **HTTP Security Grade**:A
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:8
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:9
 
 
 | File       | Count | Info |
@@ -37,10 +37,10 @@ tags: dutchgov
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://aanvraag.donorgegevens.nl](https://aanvraag.donorgegevens.nl)| **A**| **A**|-| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
+|[https://aanvraag.donorgegevens.nl](https://aanvraag.donorgegevens.nl)| **A**| **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://acceptatie.aanvraag.donorgegevens.nl](https://acceptatie.aanvraag.donorgegevens.nl)| **A**| **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://acceptatie.behandel.donorgegevens.nl](https://acceptatie.behandel.donorgegevens.nl)| **A**| **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
-|[https://acceptatie.klinieken.donorgegevens.nl](https://acceptatie.klinieken.donorgegevens.nl)| **A**| **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Donorgegevens kl...|
+|[https://acceptatie.klinieken.donorgegevens.nl](https://acceptatie.klinieken.donorgegevens.nl)| **A**| **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://behandel.donorgegevens.nl](https://behandel.donorgegevens.nl)| **A**| **A**|-| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://feeds.donorgegevens.nl](https://feeds.donorgegevens.nl)| **A+**| **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://klinieken.donorgegevens.nl](https://klinieken.donorgegevens.nl)| **A**| **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||

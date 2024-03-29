@@ -6,13 +6,13 @@
 
  - **SSL Grade**:A-
  - **HTTP Security Grade**:C
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:81
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:82
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/rivm.nl/subdomains.txt)|401|Alive subdomains|
-|[urls.txt](/data/rivm.nl/urls.txt)|272|Urls|
+|[subdomains.txt](/data/rivm.nl/subdomains.txt)|403|Alive subdomains|
+|[urls.txt](/data/rivm.nl/urls.txt)|274|Urls|
 |[all_subdomains.txt](/data/rivm.nl/all_subdomains.txt)|944|All found subdomains (history)|
 
 
@@ -289,8 +289,10 @@
 |[https://tst-lsp.rivm.nl](https://tst-lsp.rivm.nl)| | **F**|Microsoft-Azure-Application-Gateway/v2| | | | | | | | :white_check_mark: | ||404 Not Found|
 |[https://api.tst-lsp.rivm.nl](https://api.tst-lsp.rivm.nl)| | **F**|Microsoft-Azure-Application-Gateway/v2| | | | | | | | :white_check_mark: | ||404 Not Found|
 |[https://lsp.rivm.nl](https://lsp.rivm.nl)| | **F**|Microsoft-Azure-Application-Gateway/v2| | | | | | | | :white_check_mark: | ||404 Not Found|
+|[http://dashview.rivm.nl](http://dashview.rivm.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[http://spoor.rivm.nl](http://spoor.rivm.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |||
 |[https://api.acc-lsp.rivm.nl](https://api.acc-lsp.rivm.nl)| | **F**|uvicorn| | | | | | | | :white_check_mark: | |Python Uvicorn||
 |[https://acc-lsp.rivm.nl](https://acc-lsp.rivm.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS|LabSentiNL|
 |[https://teebstad-app.rivm.nl](https://teebstad-app.rivm.nl)| | **C**||:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | |Bootstrap:3.4.1 HSTS||
+|[http://stikstofdepositiedata.rivm.nl](http://stikstofdepositiedata.rivm.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 

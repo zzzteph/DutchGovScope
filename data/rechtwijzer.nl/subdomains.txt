@@ -3,19 +3,6 @@ www.rechtwijzer.nl
 test.rechtwijzer.nl
 www2.rechtwijzer.nl
 kart.rechtwijzer.nl
-app.test.rechtwijzer.nl
-cdn.test.rechtwijzer.nl
-webdisk.test.rechtwijzer.nl
-access.test.rechtwijzer.nl
-jira.test.rechtwijzer.nl
-audit.test.rechtwijzer.nl
-partners.test.rechtwijzer.nl
-en.test.rechtwijzer.nl
-de.test.rechtwijzer.nl
-acct.rechtwijzer.nl
-cms.rechtwijzer.nl
-ehbo.rechtwijzer.nl
-localhost.rechtwijzer.nl
 pay.test.rechtwijzer.nl
 search.test.rechtwijzer.nl
 loket.test.rechtwijzer.nl
@@ -38,3 +25,6 @@ autodiscover.test.rechtwijzer.nl
 cpcontacts.test.rechtwijzer.nl
 auth.test.rechtwijzer.nl
 kibana.test.rechtwijzer.nl
+ftp.test.rechtwijzer.nl
+rest.test.rechtwijzer.nl
+burgerloket.test.rechtwijzer.nl

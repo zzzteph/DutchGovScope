@@ -3,7 +3,7 @@ layout: default
 title: "kanselarij.nl"
 permalink: "/dutchgov/kanselarij.nl.html"
 subdomains_count: 0
-all_subdomains_count: 6
+all_subdomains_count: 7
 urls_count: 0
 ssl_rank: 
 http_rank: F
@@ -29,7 +29,7 @@ tags: dutchgov
 |------------|-------|------|
 |[subdomains.txt](/DutchGovScope/data/kanselarij.nl/subdomains.txt)|0|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/kanselarij.nl/urls.txt)|0|Urls|
-|[all_subdomains.txt](/DutchGovScope/data/kanselarij.nl/all_subdomains.txt)|6|All found subdomains (history)|
+|[all_subdomains.txt](/DutchGovScope/data/kanselarij.nl/all_subdomains.txt)|7|All found subdomains (history)|
 
 
 ## Statistics

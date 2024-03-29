@@ -2,11 +2,11 @@
 layout: default
 title: "digitaltrustcenter.nl"
 permalink: "/dutchgov/digitaltrustcenter.nl.html"
-subdomains_count: 7
+subdomains_count: 6
 all_subdomains_count: 17
-urls_count: 7
+urls_count: 6
 ssl_rank: B-
-http_rank: C
+http_rank: B
 security_txt: 4
 url_link: /data/digitaltrustcenter.nl/urls.txt
 all_subdomains_link: /data/digitaltrustcenter.nl/all_subdomains.txt
@@ -21,14 +21,14 @@ tags: dutchgov
 
 
  - **SSL Grade**:B-
- - **HTTP Security Grade**:C
+ - **HTTP Security Grade**:B
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:4
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/digitaltrustcenter.nl/subdomains.txt)|7|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/digitaltrustcenter.nl/urls.txt)|7|Urls|
+|[subdomains.txt](/DutchGovScope/data/digitaltrustcenter.nl/subdomains.txt)|6|Alive subdomains|
+|[urls.txt](/DutchGovScope/data/digitaltrustcenter.nl/urls.txt)|6|Urls|
 |[all_subdomains.txt](/DutchGovScope/data/digitaltrustcenter.nl/all_subdomains.txt)|17|All found subdomains (history)|
 
 
@@ -43,5 +43,4 @@ tags: dutchgov
 |[https://tools.digitaltrustcenter.nl](https://tools.digitaltrustcenter.nl)| **A+**| **A**|Apache| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS||
 |[https://www.digitaltrustcenter.nl](https://www.digitaltrustcenter.nl)| **A+**| **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Drupal HSTS Nginx PHP|Home | Digital T...|
 |[https://digitaltrustcenter.nl](https://digitaltrustcenter.nl)| **A+**| **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
-|[https://prod.digitaltrustcenter.nl](https://prod.digitaltrustcenter.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
 

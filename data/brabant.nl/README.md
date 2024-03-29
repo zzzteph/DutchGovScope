@@ -12,7 +12,7 @@
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/brabant.nl/subdomains.txt)|149|Alive subdomains|
-|[urls.txt](/data/brabant.nl/urls.txt)|76|Urls|
+|[urls.txt](/data/brabant.nl/urls.txt)|78|Urls|
 |[all_subdomains.txt](/data/brabant.nl/all_subdomains.txt)|235|All found subdomains (history)|
 
 
@@ -97,4 +97,6 @@
 |[https://msoid.brabant.nl](https://msoid.brabant.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Object moved|
 |[https://ndes.brabant.nl](https://ndes.brabant.nl)| | **E**|| | | | | | | | :white_check_mark: | ||This page can't...|
 |[https://webcast.brabant.nl](https://webcast.brabant.nl)| | **F**|AmazonS3| | | | | | | | :white_check_mark: | |Amazon CloudFront Amazon S3 Amazon Web Services HTTP/3 Material Design Lite|Loading ...|
+|[https://signing.brabant.nl](https://signing.brabant.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS||
+|[https://signing.pre.brabant.nl](https://signing.pre.brabant.nl)| | **A**|Apache| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS||
 

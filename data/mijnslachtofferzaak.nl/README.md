@@ -13,7 +13,7 @@
 |------------|-------|------|
 |[subdomains.txt](/data/mijnslachtofferzaak.nl/subdomains.txt)|7|Alive subdomains|
 |[urls.txt](/data/mijnslachtofferzaak.nl/urls.txt)|7|Urls|
-|[all_subdomains.txt](/data/mijnslachtofferzaak.nl/all_subdomains.txt)|9|All found subdomains (history)|
+|[all_subdomains.txt](/data/mijnslachtofferzaak.nl/all_subdomains.txt)|10|All found subdomains (history)|
 
 
 ## Statistics

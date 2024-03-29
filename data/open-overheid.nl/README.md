@@ -6,13 +6,13 @@
 
  - **SSL Grade**:B-
  - **HTTP Security Grade**:C
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:4
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:5
 
 
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/open-overheid.nl/subdomains.txt)|12|Alive subdomains|
-|[urls.txt](/data/open-overheid.nl/urls.txt)|8|Urls|
+|[urls.txt](/data/open-overheid.nl/urls.txt)|9|Urls|
 |[all_subdomains.txt](/data/open-overheid.nl/all_subdomains.txt)|12|All found subdomains (history)|
 
 
@@ -29,4 +29,5 @@
 |[https://pop.open-overheid.nl](https://pop.open-overheid.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|Domein niet gevo...|
 |[https://smtp.open-overheid.nl](https://smtp.open-overheid.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|Domein niet gevo...|
 |[https://ftp.open-overheid.nl](https://ftp.open-overheid.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|Domein niet gevo...|
+|[https://wooincijfers.open-overheid.nl](https://wooincijfers.open-overheid.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS|ICTU DevOps|
 

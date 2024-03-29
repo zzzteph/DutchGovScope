@@ -23,3 +23,4 @@ a-feeds.donorregister.nl
 a-opendata.a-english.donorregister.nl
 a-opendata.donorregister.nl
 a-www.donorregister.nl
+staging.raadplegen.donorregister.nl

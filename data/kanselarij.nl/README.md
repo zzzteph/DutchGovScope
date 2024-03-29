@@ -13,7 +13,7 @@
 |------------|-------|------|
 |[subdomains.txt](/data/kanselarij.nl/subdomains.txt)|0|Alive subdomains|
 |[urls.txt](/data/kanselarij.nl/urls.txt)|0|Urls|
-|[all_subdomains.txt](/data/kanselarij.nl/all_subdomains.txt)|6|All found subdomains (history)|
+|[all_subdomains.txt](/data/kanselarij.nl/all_subdomains.txt)|7|All found subdomains (history)|
 
 
 ## Statistics

@@ -4,9 +4,9 @@ title: "platformrijksoverheidonline.nl"
 permalink: "/dutchgov/platformrijksoverheidonline.nl.html"
 subdomains_count: 14
 all_subdomains_count: 14
-urls_count: 6
+urls_count: 7
 ssl_rank: A+
-http_rank: A
+http_rank: B
 security_txt: 5
 url_link: /data/platformrijksoverheidonline.nl/urls.txt
 all_subdomains_link: /data/platformrijksoverheidonline.nl/all_subdomains.txt
@@ -21,14 +21,14 @@ tags: dutchgov
 
 
  - **SSL Grade**:A+
- - **HTTP Security Grade**:A
+ - **HTTP Security Grade**:B
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:5
 
 
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/DutchGovScope/data/platformrijksoverheidonline.nl/subdomains.txt)|14|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/platformrijksoverheidonline.nl/urls.txt)|6|Urls|
+|[urls.txt](/DutchGovScope/data/platformrijksoverheidonline.nl/urls.txt)|7|Urls|
 |[all_subdomains.txt](/DutchGovScope/data/platformrijksoverheidonline.nl/all_subdomains.txt)|14|All found subdomains (history)|
 
 
@@ -43,4 +43,5 @@ tags: dutchgov
 |[https://www.platformrijksoverheidonline.nl](https://www.platformrijksoverheidonline.nl)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Home | Platform...|
 |[https://platformrijksoverheidonline.nl](https://platformrijksoverheidonline.nl)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
 |[http://handleiding.platformrijksoverheidonline.nl](http://handleiding.platformrijksoverheidonline.nl)| | **F**|AkamaiGHost| | | | | | | | :white_check_mark: | ||Invalid URL|
+|[https://api.abonneren.platformrijksoverheidonline.nl](https://api.abonneren.platformrijksoverheidonline.nl)| | **E**|| | | | | | | | :white_check_mark: | |HTTP/3|not found|
 

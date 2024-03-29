@@ -23,3 +23,5 @@ sslvpn.rekenkamer.nl
 connect.rekenkamer.nl
 enterpriseenrollment.rekenkamer.nl
 enterpriseregistration.rekenkamer.nl
+onsgeldontcijferd-test.rekenkamer.nl
+onsgeldontcijferd.rekenkamer.nl

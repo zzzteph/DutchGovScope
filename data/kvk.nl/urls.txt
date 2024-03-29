@@ -1,5 +1,4 @@
 https://diensten.kvk.nl
-https://staging.werkenbij.kvk.nl
 https://ondernemersplein.kvk.nl
 https://www.kvk.nl
 https://cia.tst.ondernemersplein.kvk.nl
@@ -56,4 +55,6 @@ https://events.kvk.nl
 https://admin.tbadmin.dev.kvk.nl
 https://admin.tbadmin.npo.kvk.nl
 https://admin.tbadmin.kvk.nl
+https://www3.kvk.nl
 https://tbadmin.kvk.nl
+https://diensten2.kvk.nl

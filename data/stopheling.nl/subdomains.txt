@@ -15,3 +15,5 @@ ltu.stopheling.nl
 mail.stopheling.nl
 pop.stopheling.nl
 test-bp.stopheling.nl
+ltu-admin.stopheling.nl
+ltu-api.stopheling.nl

@@ -13,7 +13,7 @@
 |------------|-------|------|
 |[subdomains.txt](/data/kansspelautoriteit.nl/subdomains.txt)|28|Alive subdomains|
 |[urls.txt](/data/kansspelautoriteit.nl/urls.txt)|18|Urls|
-|[all_subdomains.txt](/data/kansspelautoriteit.nl/all_subdomains.txt)|100|All found subdomains (history)|
+|[all_subdomains.txt](/data/kansspelautoriteit.nl/all_subdomains.txt)|102|All found subdomains (history)|
 
 
 ## Statistics

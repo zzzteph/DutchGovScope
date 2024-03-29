@@ -73,3 +73,4 @@ belastingen.zuid-holland.nl
 icdesk.zuid-holland.nl
 webmail.zuid-holland.nl
 jaaroverzichtcommissarisvandekoning2023.zuid-holland.nl
+geoweb.zuid-holland.nl

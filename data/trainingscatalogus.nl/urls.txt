@@ -68,7 +68,7 @@ https://buza.trainingscatalogus.nl
 https://ciz.trainingscatalogus.nl
 https://archipel.trainingscatalogus.nl
 https://ez.trainingscatalogus.nl
-http://ncsc.trainingscatalogus.nl
+https://ncsc.trainingscatalogus.nl
 https://cjib.trainingscatalogus.nl
 https://demo.trainingscatalogus.nl
 https://jio.trainingscatalogus.nl
@@ -96,3 +96,5 @@ https://ciz-lms-a.trainingscatalogus.nl
 https://course-api.schiphol-lms-a.trainingscatalogus.nl
 https://scim-api.schiphol-lms-a.trainingscatalogus.nl
 https://enrollment-api.schiphol-lms-a.trainingscatalogus.nl
+https://gemeentedenhaag-lms.trainingscatalogus.nl
+https://lms-rotterdam.trainingscatalogus.nl

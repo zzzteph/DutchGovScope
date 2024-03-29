@@ -2,9 +2,9 @@
 layout: default
 title: "cocreatesa.nl"
 permalink: "/dutchgov/cocreatesa.nl.html"
-subdomains_count: 1250
+subdomains_count: 1249
 all_subdomains_count: 1250
-urls_count: 1250
+urls_count: 1249
 ssl_rank: 
 http_rank: F
 security_txt: 0
@@ -27,8 +27,8 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/cocreatesa.nl/subdomains.txt)|1250|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/cocreatesa.nl/urls.txt)|1250|Urls|
+|[subdomains.txt](/DutchGovScope/data/cocreatesa.nl/subdomains.txt)|1249|Alive subdomains|
+|[urls.txt](/DutchGovScope/data/cocreatesa.nl/urls.txt)|1249|Urls|
 |[all_subdomains.txt](/DutchGovScope/data/cocreatesa.nl/all_subdomains.txt)|1250|All found subdomains (history)|
 
 
@@ -246,7 +246,6 @@ tags: dutchgov
 |[https://images.blog.cocreatesa.nl](https://images.blog.cocreatesa.nl)| | **F**|nginx/1.24.0| | | | | | | | :white_check_mark: | |Nginx:1.24.0|Hostnet: Uw dome...|
 |[https://evertsoord.cocreatesa.nl](https://evertsoord.cocreatesa.nl)| | **F**|nginx/1.24.0| | | | | | | | :white_check_mark: | |Nginx:1.24.0|Hostnet: Uw dome...|
 |[https://fanta.cocreatesa.nl](https://fanta.cocreatesa.nl)| | **F**|nginx/1.24.0| | | | | | | | :white_check_mark: | |Nginx:1.24.0|Hostnet: Uw dome...|
-|[https://web18884.cocreatesa.nl](https://web18884.cocreatesa.nl)| | **F**|nginx/1.24.0| | | | | | | | :white_check_mark: | |Nginx:1.24.0|Hostnet: Uw dome...|
 |[https://cocomo.cocreatesa.nl](https://cocomo.cocreatesa.nl)| | **F**|nginx/1.24.0| | | | | | | | :white_check_mark: | |Nginx:1.24.0|Hostnet: Uw dome...|
 |[https://p8.cocreatesa.nl](https://p8.cocreatesa.nl)| | **F**|nginx/1.24.0| | | | | | | | :white_check_mark: | |Nginx:1.24.0|Hostnet: Uw dome...|
 |[https://jira.internal.cocreatesa.nl](https://jira.internal.cocreatesa.nl)| | **F**|nginx/1.24.0| | | | | | | | :white_check_mark: | |Nginx:1.24.0|Hostnet: Uw dome...|

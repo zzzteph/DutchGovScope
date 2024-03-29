@@ -11,3 +11,4 @@ crisis04.crisis.nl
 denkvooruit.crisis.nl
 training13.crisis.nl
 www2.crisis.nl
+test.crisis.nl

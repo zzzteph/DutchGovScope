@@ -4,3 +4,4 @@ webmail.kanselarij.nl
 daisy.kanselarij.nl
 kanselarij.nl
 www.kanselarij.nl
+kaexchange.kanselarij.nl

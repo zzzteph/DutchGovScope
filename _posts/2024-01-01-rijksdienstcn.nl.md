@@ -3,7 +3,7 @@ layout: default
 title: "rijksdienstcn.nl"
 permalink: "/dutchgov/rijksdienstcn.nl.html"
 subdomains_count: 2
-all_subdomains_count: 2
+all_subdomains_count: 5
 urls_count: 0
 ssl_rank: 
 http_rank: F
@@ -29,7 +29,7 @@ tags: dutchgov
 |------------|-------|------|
 |[subdomains.txt](/DutchGovScope/data/rijksdienstcn.nl/subdomains.txt)|2|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/rijksdienstcn.nl/urls.txt)|0|Urls|
-|[all_subdomains.txt](/DutchGovScope/data/rijksdienstcn.nl/all_subdomains.txt)|2|All found subdomains (history)|
+|[all_subdomains.txt](/DutchGovScope/data/rijksdienstcn.nl/all_subdomains.txt)|5|All found subdomains (history)|
 
 
 ## Statistics

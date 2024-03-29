@@ -148,8 +148,15 @@ upnl-zw-acc.mijn.rvo.nl
 upnl-zw.mijn.rvo.nl
 wba-acc.rvo.nl
 ienrregister.rvo.nl
+sonarqube-infra-edu.efiling.mijnoctrooi.rvo.nl
+argocd-infra-edu.efiling.mijnoctrooi.rvo.nl
 lyncdiscover.rvo.nl
+vault-infra-edu.efiling.mijnoctrooi.rvo.nl
+edu.efiling.mijnoctrooi.rvo.nl
 sip.rvo.nl
+monitoring-infra-edu.efiling.mijnoctrooi.rvo.nl
+vault-edu.efiling.mijnoctrooi.rvo.nl
+monitoring-edu.efiling.mijnoctrooi.rvo.nl
 sandbox.rvo.nl
 redesign.rvo.nl
 staging-mijn.rvo.nl

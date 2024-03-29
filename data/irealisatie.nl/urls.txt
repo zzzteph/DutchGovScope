@@ -25,3 +25,6 @@ https://web.acc.dpr.irealisatie.nl
 https://web.test.mgo.irealisatie.nl
 https://max.test.mgo.irealisatie.nl
 https://dva.test.mgo.irealisatie.nl
+https://lo-ad.test.mgo.irealisatie.nl
+https://static.acc.dpr.irealisatie.nl
+https://storage.test.mgo.irealisatie.nl

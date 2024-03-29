@@ -1,5 +1,8 @@
 https://acc-referentiegegevens.justid.nl
 https://ainformatieportaal.justid.nl
+https://autodiscover.justid.nl
+https://dialin.justid.nl
+https://ews-external.justid.nl
 https://feeds.justid.nl
 https://informatieportaal.justid.nl
 https://iob.justid.nl

@@ -12,7 +12,7 @@
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/ssc-ict.nl/subdomains.txt)|42|Alive subdomains|
-|[urls.txt](/data/ssc-ict.nl/urls.txt)|11|Urls|
+|[urls.txt](/data/ssc-ict.nl/urls.txt)|10|Urls|
 |[all_subdomains.txt](/data/ssc-ict.nl/all_subdomains.txt)|68|All found subdomains (history)|
 
 
@@ -31,5 +31,4 @@
 |[https://opendata.ssc-ict.nl](https://opendata.ssc-ict.nl)| **A+**| **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://www.ssc-ict.nl](https://www.ssc-ict.nl)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Home | SSC-ICT |...|
 |[https://ssc-ict.nl](https://ssc-ict.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
-|[http://localhost.ssc-ict.nl](http://localhost.ssc-ict.nl)| | **F**|nginx|:o: | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Laravel Nginx PHP|Weakpass|
 

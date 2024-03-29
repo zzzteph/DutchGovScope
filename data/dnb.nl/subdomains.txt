@@ -179,3 +179,7 @@ sftp.dnb.nl
 rmdm-beheerapp-dev.azure.dnb.nl
 rmdm-beheerapp-tst.azure.dnb.nl
 screening-acc.dnb.nl
+tz-organisatiegegevens-acc.dnb.nl
+tz-organisatiegegevens-tst.dnb.nl
+tz-organisatiegegevens-dev.dnb.nl
+tz-organisatiegegevens.dnb.nl

@@ -1,2 +1,3 @@
 https://manifestgroep.nl
 https://www.manifestgroep.nl
+http://autodiscover.manifestgroep.nl

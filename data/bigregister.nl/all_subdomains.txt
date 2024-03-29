@@ -41,3 +41,4 @@ a-opendata.a-english.bigregister.nl
 resultaten-toegankelijkheidsonderzoek-www.bigregister.nl
 a-magazines.a-english.bigregister.nl
 a-feeds.bigregister.nl
+acceptatie.behandel.bigregister.nl

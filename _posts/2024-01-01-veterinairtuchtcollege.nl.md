@@ -2,7 +2,7 @@
 layout: default
 title: "veterinairtuchtcollege.nl"
 permalink: "/dutchgov/veterinairtuchtcollege.nl.html"
-subdomains_count: 3
+subdomains_count: 5
 all_subdomains_count: 6
 urls_count: 3
 ssl_rank: B-
@@ -27,7 +27,7 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/veterinairtuchtcollege.nl/subdomains.txt)|3|Alive subdomains|
+|[subdomains.txt](/DutchGovScope/data/veterinairtuchtcollege.nl/subdomains.txt)|5|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/veterinairtuchtcollege.nl/urls.txt)|3|Urls|
 |[all_subdomains.txt](/DutchGovScope/data/veterinairtuchtcollege.nl/all_subdomains.txt)|6|All found subdomains (history)|
 

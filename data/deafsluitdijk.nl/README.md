@@ -12,7 +12,7 @@
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/deafsluitdijk.nl/subdomains.txt)|104|Alive subdomains|
-|[urls.txt](/data/deafsluitdijk.nl/urls.txt)|62|Urls|
+|[urls.txt](/data/deafsluitdijk.nl/urls.txt)|74|Urls|
 |[all_subdomains.txt](/data/deafsluitdijk.nl/all_subdomains.txt)|105|All found subdomains (history)|
 
 
@@ -83,4 +83,16 @@
 |[https://id.cloud.deafsluitdijk.nl](https://id.cloud.deafsluitdijk.nl)| | **F**|openresty| | | | | | | | :white_check_mark: | |HSTS Nginx OpenResty|Welcome|
 |[https://cw01host9.deafsluitdijk.nl](https://cw01host9.deafsluitdijk.nl)| | **F**|openresty| | | | | | | | :white_check_mark: | |HSTS Nginx OpenResty|Welcome|
 |[https://darkerthanblack.deafsluitdijk.nl](https://darkerthanblack.deafsluitdijk.nl)| | **F**|openresty| | | | | | | | :white_check_mark: | |HSTS Nginx OpenResty|Welcome|
+|[https://medi.deafsluitdijk.nl](https://medi.deafsluitdijk.nl)| | **F**|openresty| | | | | | | | :white_check_mark: | |HSTS Nginx OpenResty|Welcome|
+|[https://plausible.deafsluitdijk.nl](https://plausible.deafsluitdijk.nl)| | **F**|openresty| | | | | | | | :white_check_mark: | |HSTS Nginx OpenResty|Welcome|
+|[https://mcdn.deafsluitdijk.nl](https://mcdn.deafsluitdijk.nl)| | **F**|openresty| | | | | | | | :white_check_mark: | |HSTS Nginx OpenResty|Welcome|
+|[https://bladen.deafsluitdijk.nl](https://bladen.deafsluitdijk.nl)| | **F**|openresty| | | | | | | | :white_check_mark: | |HSTS Nginx OpenResty|Welcome|
+|[https://copp.deafsluitdijk.nl](https://copp.deafsluitdijk.nl)| | **F**|openresty| | | | | | | | :white_check_mark: | |HSTS Nginx OpenResty|Welcome|
+|[https://rembrandt.deafsluitdijk.nl](https://rembrandt.deafsluitdijk.nl)| | **F**|openresty| | | | | | | | :white_check_mark: | |HSTS Nginx OpenResty|Welcome|
+|[https://api-service.deafsluitdijk.nl](https://api-service.deafsluitdijk.nl)| | **F**|openresty| | | | | | | | :white_check_mark: | |HSTS Nginx OpenResty|Welcome|
+|[https://city.deafsluitdijk.nl](https://city.deafsluitdijk.nl)| | **F**|openresty| | | | | | | | :white_check_mark: | |HSTS Nginx OpenResty|Welcome|
+|[https://vologda.deafsluitdijk.nl](https://vologda.deafsluitdijk.nl)| | **F**|openresty| | | | | | | | :white_check_mark: | |HSTS Nginx OpenResty|Welcome|
+|[https://office-365-business-premium.deafsluitdijk.nl](https://office-365-business-premium.deafsluitdijk.nl)| | **F**|openresty| | | | | | | | :white_check_mark: | |HSTS Nginx OpenResty|Welcome|
+|[https://tattoo-piercing.deafsluitdijk.nl](https://tattoo-piercing.deafsluitdijk.nl)| | **F**|openresty| | | | | | | | :white_check_mark: | |HSTS Nginx OpenResty|Welcome|
+|[https://strm.deafsluitdijk.nl](https://strm.deafsluitdijk.nl)| | **F**|openresty| | | | | | | | :white_check_mark: | |HSTS Nginx OpenResty|Welcome|
 

@@ -29,7 +29,6 @@ https://designsystem.cibg.nl
 https://desktop.klopt.cibg.nl
 http://digikoppeling.cibg.nl
 http://digikoppeling2.cibg.nl
-https://eherkenning.services.cibg.nl
 https://feeds.cibg.nl
 https://forms.klopt.cibg.nl
 https://lir.cibg.nl
@@ -38,7 +37,7 @@ https://meldingen.klopt.cibg.nl
 https://opendata.cibg.nl
 https://portaal.competent.cibg.nl
 https://prototype.cibg.nl
-https://publicaties.cibg.nl
+http://publicaties.cibg.nl
 https://publicwebservices.cibg.nl
 http://publicwebservices-dcr.cibg.nl
 http://stijlgids.cibg.nl

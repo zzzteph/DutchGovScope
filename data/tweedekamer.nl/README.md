@@ -6,14 +6,14 @@
 
  - **SSL Grade**:A-
  - **HTTP Security Grade**:C
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:71
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:75
 
 
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/tweedekamer.nl/subdomains.txt)|178|Alive subdomains|
-|[urls.txt](/data/tweedekamer.nl/urls.txt)|118|Urls|
-|[all_subdomains.txt](/data/tweedekamer.nl/all_subdomains.txt)|275|All found subdomains (history)|
+|[urls.txt](/data/tweedekamer.nl/urls.txt)|122|Urls|
+|[all_subdomains.txt](/data/tweedekamer.nl/all_subdomains.txt)|276|All found subdomains (history)|
 
 
 ## Statistics
@@ -139,4 +139,8 @@
 |[https://sesam-test.tweedekamer.nl](https://sesam-test.tweedekamer.nl)| | **B**|BigIP|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |F5 BigIP||
 |[https://sesam-acc.tweedekamer.nl](https://sesam-acc.tweedekamer.nl)| | **B**|BigIP|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |F5 BigIP||
 |[https://apm-acc.tweedekamer.nl](https://apm-acc.tweedekamer.nl)| | **B**|BigIP|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |F5 BigIP||
+|[https://handboekgc-acc.tweedekamer.nl](https://handboekgc-acc.tweedekamer.nl)| | **B**|BigIP|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |F5 BigIP||
+|[https://handboekdao.tweedekamer.nl](https://handboekdao.tweedekamer.nl)| | **B**|BigIP|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |F5 BigIP||
+|[https://handboekgpbw-acc.tweedekamer.nl](https://handboekgpbw-acc.tweedekamer.nl)| | **B**|BigIP|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |F5 BigIP||
+|[https://handboekgc.tweedekamer.nl](https://handboekgc.tweedekamer.nl)| | **B**|BigIP|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |F5 BigIP||
 

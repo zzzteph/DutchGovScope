@@ -33,7 +33,7 @@ https://cdn.test.nioo.knaw.nl
 https://www.ws.uat.nioo.knaw.nl
 https://mailtrap.uat.nioo.knaw.nl
 https://www.pureapi.nioo.knaw.nl
-https://cbsweb.cbs.knaw.nl
+http://cbsweb.cbs.knaw.nl
 https://bodemdierendag.nioo.knaw.nl
 https://raadpleging.knaw.nl
 https://dataportal.nioo.knaw.nl
@@ -51,7 +51,7 @@ https://uat.back2roots.nioo.knaw.nl
 https://donation.wi.knaw.nl
 https://uri.did.zandbak.dans.knaw.nl
 https://flippinglakes.nioo.knaw.nl
-https://www.cbs.knaw.nl
+http://www.cbs.knaw.nl
 https://www.ws.test.intranet.nioo.knaw.nl
 https://test.vpn.nioo.knaw.nl
 https://ws.uat.nioo.knaw.nl
@@ -181,7 +181,7 @@ https://www.cdn.uat.intranet.nioo.knaw.nl
 https://art-of-reasoning.huygens.knaw.nl
 https://reserve.knaw.nl
 https://oud.nioo.knaw.nl
-https://www2.cbs.knaw.nl
+http://www2.cbs.knaw.nl
 https://mailtrap.uat.promise.nioo.knaw.nl
 https://www.mailtrap.test.backtoroots.nioo.knaw.nl
 https://webstats.test.nioo.knaw.nl
@@ -191,7 +191,7 @@ https://www.ws.test.backtoroots.nioo.knaw.nl
 https://uat.intranet.nioo.knaw.nl
 https://intranet.nioo.knaw.nl
 https://mijnloonstrook.knaw.nl
-https://cbs.knaw.nl
+http://cbs.knaw.nl
 https://oroc.knaw.nl
 https://workforce.acceptance.knaw.nl
 https://ws.uat.back2roots.nioo.knaw.nl
@@ -725,7 +725,7 @@ https://registrar.labs.dans.knaw.nl
 https://intranetzonder.knaw.nl
 https://parsr.labs.dans.knaw.nl
 https://worldengine.labs.dans.knaw.nl
-https://ga.sd.di.huc.knaw.nl
+http://ga.sd.di.huc.knaw.nl
 https://dataminter.labs.dans.knaw.nl
 https://resolve.labs.dans.knaw.nl
 https://adminer.wordpress.dans.knaw.nl
@@ -761,7 +761,7 @@ https://wp-11.dev.huc.knaw.nl
 https://databeheer.huygens.knaw.nl
 https://facades-conversion.labs.dans.knaw.nl
 https://oai-harvester.labs.dans.knaw.nl
-https://ga-wp3.sd.di.huc.knaw.nl
+http://ga-wp3.sd.di.huc.knaw.nl
 https://facades-formats.labs.dans.knaw.nl
 https://wp-02.dev.huc.knaw.nl
 https://infratemplater.labs.dans.knaw.nl

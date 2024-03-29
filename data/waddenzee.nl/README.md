@@ -31,6 +31,6 @@
 |[http://wadzee9520.waddenzee.nl](http://wadzee9520.waddenzee.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
 |[http://gebiedagen2.waddenzee.nl](http://gebiedagen2.waddenzee.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
 |[https://datahuiswadden.waddenzee.nl](https://datahuiswadden.waddenzee.nl)| **A**| **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:-|Home - datahuisw...|
-|[http://analytics.waddenzee.nl](http://analytics.waddenzee.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
+|[http://analytics.waddenzee.nl](http://analytics.waddenzee.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
 |[http://autodiscover.waddenzee.nl](http://autodiscover.waddenzee.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |||
 

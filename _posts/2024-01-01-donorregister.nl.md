@@ -2,12 +2,12 @@
 layout: default
 title: "donorregister.nl"
 permalink: "/dutchgov/donorregister.nl.html"
-subdomains_count: 25
+subdomains_count: 26
 all_subdomains_count: 46
 urls_count: 14
 ssl_rank: A-
 http_rank: A
-security_txt: 13
+security_txt: 12
 url_link: /data/donorregister.nl/urls.txt
 all_subdomains_link: /data/donorregister.nl/all_subdomains.txt
 subdomains_link: /data/donorregister.nl/subdomains.txt
@@ -22,12 +22,12 @@ tags: dutchgov
 
  - **SSL Grade**:A-
  - **HTTP Security Grade**:A
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:13
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:12
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/donorregister.nl/subdomains.txt)|25|Alive subdomains|
+|[subdomains.txt](/DutchGovScope/data/donorregister.nl/subdomains.txt)|26|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/donorregister.nl/urls.txt)|14|Urls|
 |[all_subdomains.txt](/DutchGovScope/data/donorregister.nl/all_subdomains.txt)|46|All found subdomains (history)|
 
@@ -45,7 +45,7 @@ tags: dutchgov
 |[https://english.donorregister.nl](https://english.donorregister.nl)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Home | Donorregi...|
 |[https://feeds.donorregister.nl](https://feeds.donorregister.nl)| **A+**| **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://feeds.english.donorregister.nl](https://feeds.english.donorregister.nl)| **A+**| **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
-|[https://mijn.donorregister.nl](https://mijn.donorregister.nl)| **A**| **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
+|[https://mijn.donorregister.nl](https://mijn.donorregister.nl)| **A**| **A**|-| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Mijn registratie|
 |[https://opendata.donorregister.nl](https://opendata.donorregister.nl)| **A+**| **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://opendata.english.donorregister.nl](https://opendata.english.donorregister.nl)| **A+**| **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://raadplegen.donorregister.nl](https://raadplegen.donorregister.nl)| **A**| **A**|-| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||

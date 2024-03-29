@@ -1,3 +1,4 @@
 https://sso-net.nl
 https://www.sso-net.nl
 http://localhost.sso-net.nl
+https://inspecteur.sso-net.nl

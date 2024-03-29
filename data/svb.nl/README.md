@@ -13,7 +13,7 @@
 |------------|-------|------|
 |[subdomains.txt](/data/svb.nl/subdomains.txt)|161|Alive subdomains|
 |[urls.txt](/data/svb.nl/urls.txt)|60|Urls|
-|[all_subdomains.txt](/data/svb.nl/all_subdomains.txt)|282|All found subdomains (history)|
+|[all_subdomains.txt](/data/svb.nl/all_subdomains.txt)|283|All found subdomains (history)|
 
 
 ## Statistics

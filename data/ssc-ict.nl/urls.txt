@@ -8,4 +8,3 @@ https://feeds.ssc-ict.nl
 https://opendata.ssc-ict.nl
 https://www.ssc-ict.nl
 https://ssc-ict.nl
-http://localhost.ssc-ict.nl

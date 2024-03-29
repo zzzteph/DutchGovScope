@@ -24,3 +24,4 @@ control.perined.nl
 localhost.perined.nl
 webmail.perined.nl
 cbgwww.palga.nlwww.iknl.nlwww.perined.nl
+webmail02.perined.nl

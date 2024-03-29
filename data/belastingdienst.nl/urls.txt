@@ -118,7 +118,7 @@ https://gegevensuitwisseling.belastingdienst.nl
 https://gpi.belastingdienst.nl
 https://ovverklaringen.belastingdienst.nl
 https://verleendekinderopvang.belastingdienst.nl
-https://verzekeringsproducten.belastingdienst.nl
+http://verzekeringsproducten.belastingdienst.nl
 https://wagenparkgegevens.belastingdienst.nl
 https://adobe-analytics-dc.belastingdienst.nl
 https://mul-mbc.belastingdienst.nl

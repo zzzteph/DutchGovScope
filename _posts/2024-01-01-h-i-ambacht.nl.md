@@ -42,8 +42,8 @@ tags: dutchgov
 |[https://loket.h-i-ambacht.nl](https://loket.h-i-ambacht.nl)| **A+**| **A**||:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bootstrap HSTS Java Material Design Lite|Loket van Gemeen...|
 |[https://gisibgeoserver.h-i-ambacht.nl](https://gisibgeoserver.h-i-ambacht.nl)| **B**| **A**|| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |||
 |[https://zaken.h-i-ambacht.nl](https://zaken.h-i-ambacht.nl)| **B**| **A**||:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |||
-|[http://gisib-test.h-i-ambacht.nl](http://gisib-test.h-i-ambacht.nl)| **B**| **B**||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS Microsoft ASP.NET||
-|[https://web.h-i-ambacht.nl](https://web.h-i-ambacht.nl)| **A+**| **A**|nginx| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|You received ema...|
+|[https://gisib-test.h-i-ambacht.nl](https://gisib-test.h-i-ambacht.nl)| **B**| **B**||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS Microsoft ASP.NET|Object moved|
+|[https://web.h-i-ambacht.nl](https://web.h-i-ambacht.nl)| **A+**| **F**|nginx| | | | | | | | :white_check_mark: | |HSTS Nginx||
 |[https://loket.test.h-i-ambacht.nl](https://loket.test.h-i-ambacht.nl)| **A+**| **A**||:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Java|Fout|
 |[http://vergunningintaker-preprod.h-i-ambacht.nl](http://vergunningintaker-preprod.h-i-ambacht.nl)| **A+**| **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Express HSTS Node.js||
 |[https://college.h-i-ambacht.nl](https://college.h-i-ambacht.nl)| **A+**| **B**|Apache|:white_check_mark: |:white_check_mark: | | |:warning: | | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
