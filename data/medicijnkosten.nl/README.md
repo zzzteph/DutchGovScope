@@ -11,7 +11,7 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/medicijnkosten.nl/subdomains.txt)|6|Alive subdomains|
+|[subdomains.txt](/data/medicijnkosten.nl/subdomains.txt)|4|Alive subdomains|
 |[urls.txt](/data/medicijnkosten.nl/urls.txt)|4|Urls|
 |[all_subdomains.txt](/data/medicijnkosten.nl/all_subdomains.txt)|13|All found subdomains (history)|
 

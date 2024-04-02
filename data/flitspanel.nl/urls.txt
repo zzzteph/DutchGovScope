@@ -1,4 +1,2 @@
-https://accept.flitspanel.nl
-https://test.flitspanel.nl
 https://www.flitspanel.nl
 https://flitspanel.nl

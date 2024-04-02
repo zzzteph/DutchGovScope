@@ -12,7 +12,7 @@
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/dnb.nl/subdomains.txt)|185|Alive subdomains|
-|[urls.txt](/data/dnb.nl/urls.txt)|111|Urls|
+|[urls.txt](/data/dnb.nl/urls.txt)|112|Urls|
 |[all_subdomains.txt](/data/dnb.nl/all_subdomains.txt)|291|All found subdomains (history)|
 
 
@@ -132,4 +132,5 @@
 |[https://sftp.dnb.nl](https://sftp.dnb.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0||
 |[https://rmdm-beheerapp-dev.azure.dnb.nl](https://rmdm-beheerapp-dev.azure.dnb.nl)| | **E**|| | | | | | | | :white_check_mark: | |Bootstrap:5.2.3|Azure Static Web...|
 |[https://rmdm-beheerapp-tst.azure.dnb.nl](https://rmdm-beheerapp-tst.azure.dnb.nl)| | **E**|| | | | | | | | :white_check_mark: | |Bootstrap:5.2.3|Azure Static Web...|
+|[https://screening-acc.dnb.nl](https://screening-acc.dnb.nl)| | **A**||:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |Azure Azure Front Door HSTS||
 

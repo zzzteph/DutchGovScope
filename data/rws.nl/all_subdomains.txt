@@ -1177,3 +1177,5 @@ acc-werkplek.gw01-gslb.rws.nl
 dmz-fcd-acc-data-raw-validator.vm-04.azure.grid.rws.nl
 traefik-dashboard.dmz.vm-04.azure.grid.rws.nl
 mip-proxy-acc.rws.nl
+bemobile-trajectorien-fcd-acc.dmz.vm-04.azure.grid.rws.nl
+bemobile-aid-triggers-fcd-acc.dmz.vm-04.azure.grid.rws.nl

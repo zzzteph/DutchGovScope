@@ -65,5 +65,6 @@ https://communicatie.zuid-holland.nl
 https://keuzehulpverkeersmaatregelen.zuid-holland.nl
 https://omgevingsdocumenten.zuid-holland.nl
 https://investerenin.zuid-holland.nl
+https://data.zuid-holland.nl
 https://preprod-belastingen.zuid-holland.nl
 https://belastingen.zuid-holland.nl

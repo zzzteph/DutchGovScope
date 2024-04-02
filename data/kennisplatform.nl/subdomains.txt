@@ -1,5 +1,6 @@
 www.kennisplatform.nl
 kennisplatform.nl
+acceptatie.kennisplatform.nl
 samenwerken.kennisplatform.nl
 autodiscover.kennisplatform.nl
 ftp.kennisplatform.nl

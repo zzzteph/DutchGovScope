@@ -2,8 +2,8 @@
 layout: default
 title: "deafsluitdijk.nl"
 permalink: "/dutchgov/deafsluitdijk.nl.html"
-subdomains_count: 104
-all_subdomains_count: 105
+subdomains_count: 105
+all_subdomains_count: 124
 urls_count: 74
 ssl_rank: D
 http_rank: F
@@ -27,9 +27,9 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/deafsluitdijk.nl/subdomains.txt)|104|Alive subdomains|
+|[subdomains.txt](/DutchGovScope/data/deafsluitdijk.nl/subdomains.txt)|105|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/deafsluitdijk.nl/urls.txt)|74|Urls|
-|[all_subdomains.txt](/DutchGovScope/data/deafsluitdijk.nl/all_subdomains.txt)|105|All found subdomains (history)|
+|[all_subdomains.txt](/DutchGovScope/data/deafsluitdijk.nl/all_subdomains.txt)|124|All found subdomains (history)|
 
 
 ## Statistics

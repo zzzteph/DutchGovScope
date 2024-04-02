@@ -1,3 +1,6 @@
 https://www.investeringsimpulsspv.nl
 https://mail.investeringsimpulsspv.nl
 https://investeringsimpulsspv.nl
+https://ftp.investeringsimpulsspv.nl
+https://pop.investeringsimpulsspv.nl
+https://smtp.investeringsimpulsspv.nl

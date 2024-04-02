@@ -35,7 +35,6 @@ git.iaas.rijkscloud.nl
 git.ivho.rijkscloud.nl
 gitlab.analyse.ilt.rijkscloud.nl
 gitlab.datascience.rijkscloud.nl
-gitlab.dctplg1.ix.rijkscloud.nl
 gitlab.ds-ocw.rijkscloud.nl
 gitlab.ix.rijkscloud.nl
 gitlab.ritp.rijkscloud.nl
@@ -48,7 +47,6 @@ informatieproducten.duo.rijkscloud.nl
 infrabeheer.rvb.rijkscloud.nl
 ip.rijkscloud.nl
 ipi.rijkscloud.nl
-iron-hand.ix.rijkscloud.nl
 jupyter.alma.jvs.ix.rijkscloud.nl
 jupyter.analyse.ilt.rijkscloud.nl
 jupyter.cursus.rijkscloud.nl
@@ -147,7 +145,6 @@ gdw-art.cvr.rvb.rijkscloud.nl
 kibana.ix.rijkscloud.nl
 resolv2.gn1.rijkscloud.nl
 rstudio.abibzk.rijkscloud.nl
-jupyter.dctplg1.ix.rijkscloud.nl
 keycloak.mintst.rijkscloud.nl
 gis-art.devops.rvb.rijkscloud.nl
 gitlab.rvig.rijkscloud.nl
@@ -171,7 +168,6 @@ jupyter.jvs.ix.rijkscloud.nl
 jenkins-test.devops.rvb.rijkscloud.nl
 ceph-prx2.gn1.rijkscloud.nl
 gitlab.prisma.rijkscloud.nl
-registry.gitlab.bdds.rijkscloud.nl
 registry.gitlab.rvb.rijkscloud.nl
 uvid-demo.cvr.rvb.rijkscloud.nl
 bob-release.devops.rvb.rijkscloud.nl
@@ -189,7 +185,6 @@ glmig.tst.ix.rijkscloud.nl
 ceph-prx3.gn1.rijkscloud.nl
 fbs-demo.devops.rvb.rijkscloud.nl
 rstudio.p-direkt.rijkscloud.nl
-pgadmin.dctplg1.ix.rijkscloud.nl
 shiny.oprijk.minbzk.rijkscloud.nl
 portal.ec.rijkscloud.nl
 repo.so.rijkscloud.nl
@@ -225,7 +220,6 @@ mail1.gn1.rijkscloud.nl
 gitlab.test.ix.rijkscloud.nl
 gitlab.test.rijkscloud.nl
 uvid-release.devops.rvb.rijkscloud.nl
-rstudio.bdds.rijkscloud.nl
 krv-art.devops.rvb.rijkscloud.nl
 portaal-iuc-acceptatie.rijkscloud.nl
 redash.iaas.rijkscloud.nl
@@ -269,7 +263,6 @@ testapp.devops.rvb.rijkscloud.nl
 shiny.acict.rijkscloud.nl
 gn0.rijkscloud.nl
 rmq1.ocw.rijkscloud.nl
-gitlab.bdds.rijkscloud.nl
 registry.gitlab.test.ix.rijkscloud.nl
 gitlab.gn2.rijkscloud.nl
 rstudio.jvs.ix.rijkscloud.nl
@@ -277,7 +270,6 @@ jupyter.abibzk.rijkscloud.nl
 demowebsite.ix.rijkscloud.nl
 quality-time.devops.rvb.rijkscloud.nl
 fbs-release.cvr.rvb.rijkscloud.nl
-rstudio.dctplg1.ix.rijkscloud.nl
 keycloak.devops.rvb.rijkscloud.nl
 documentation.ix.rijkscloud.nl
 ceph-prx1.gn1.rijkscloud.nl
@@ -304,7 +296,6 @@ fbs-release.devops.rvb.rijkscloud.nl
 blog.rijkscloud.nl
 objects.gn3.rijkscloud.nl
 gitlab.rvb.rijkscloud.nl
-dashboards.dctplg1.ix.rijkscloud.nl
 fbs-demo.cvr.rvb.rijkscloud.nl
 rmq.front.ix.rijkscloud.nl
 dvrvb-api-acc.rvb.rijkscloud.nl
@@ -398,10 +389,6 @@ ceph-prx5.gn3.rijkscloud.nl
 ceph-prx6.gn3.rijkscloud.nl
 clefw.gn2.rijkscloud.nl
 clhf1.ec.rijkscloud.nl
-dashboards.bdds.rijkscloud.nl
-jupyter.bdds.rijkscloud.nl
-keycloak.dctplg1.ix.rijkscloud.nl
-nifi.dctplg1.ix.rijkscloud.nl
 dhcp.gn3.rijkscloud.nl
 dhcp1.ec.rijkscloud.nl
 dhcp1.gn1.rijkscloud.nl

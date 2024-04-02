@@ -1,4 +1,2 @@
-accept.flitspanel.nl
-test.flitspanel.nl
 www.flitspanel.nl
 flitspanel.nl

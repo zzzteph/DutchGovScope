@@ -98,3 +98,6 @@ https://scim-api.schiphol-lms-a.trainingscatalogus.nl
 https://enrollment-api.schiphol-lms-a.trainingscatalogus.nl
 https://gemeentedenhaag-lms.trainingscatalogus.nl
 https://lms-rotterdam.trainingscatalogus.nl
+https://svb-lms-a.scim-api.trainingscatalogus.nl
+https://vgz-lms-a.enrollment-api.trainingscatalogus.nl
+https://vgz-lms-a.scim-api.trainingscatalogus.nl

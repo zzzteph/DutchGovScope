@@ -3,12 +3,11 @@ https://apollo4.noord-holland.nl
 https://subsidies.noord-holland.nl
 https://meet.noord-holland.nl
 http://zoeken.noord-holland.nl
-http://dataiku.noord-holland.nl
+https://dataiku.noord-holland.nl
 https://esm.noord-holland.nl
-https://statensite.noord-holland.nl
 https://formulieren.noord-holland.nl
 https://developer.noord-holland.nl
-http://design-node.datalab-prod.aws.noord-holland.nl
+https://design-node.datalab-prod.aws.noord-holland.nl
 https://sva-a8a9.noord-holland.nl
 https://geoapps2.noord-holland.nl
 https://leidraadlc.noord-holland.nl
@@ -44,12 +43,9 @@ https://kennisportaalovk.noord-holland.nl
 https://lync.noord-holland.nl
 https://sip1.noord-holland.nl
 https://mijnsubsidie.noord-holland.nl
-https://www.noord-holland.nl
 https://sta.noord-holland.nl
 https://geoservices.noord-holland.nl
 https://geoservices4.noord-holland.nl
-https://noord-holland.nl
-https://pvkontakt.noord-holland.nl
 https://geoservices3.noord-holland.nl
 https://portal-b.noord-holland.nl
 https://maovpn.noord-holland.nl

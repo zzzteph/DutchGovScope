@@ -146,3 +146,9 @@ cpanel.test.trainingscatalogus.nl
 connect.test.trainingscatalogus.nl
 amp.test.trainingscatalogus.nl
 vgz-lms-a.course-api.trainingscatalogus.nl
+access.test.trainingscatalogus.nl
+ns.test.trainingscatalogus.nl
+developer.test.trainingscatalogus.nl
+old.test.trainingscatalogus.nl
+test.test.trainingscatalogus.nl
+download.test.trainingscatalogus.nl

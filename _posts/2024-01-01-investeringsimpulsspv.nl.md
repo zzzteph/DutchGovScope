@@ -4,7 +4,7 @@ title: "investeringsimpulsspv.nl"
 permalink: "/dutchgov/investeringsimpulsspv.nl.html"
 subdomains_count: 6
 all_subdomains_count: 7
-urls_count: 3
+urls_count: 6
 ssl_rank: 
 http_rank: F
 security_txt: 0
@@ -28,7 +28,7 @@ tags: dutchgov
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/DutchGovScope/data/investeringsimpulsspv.nl/subdomains.txt)|6|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/investeringsimpulsspv.nl/urls.txt)|3|Urls|
+|[urls.txt](/DutchGovScope/data/investeringsimpulsspv.nl/urls.txt)|6|Urls|
 |[all_subdomains.txt](/DutchGovScope/data/investeringsimpulsspv.nl/all_subdomains.txt)|7|All found subdomains (history)|
 
 
@@ -40,4 +40,7 @@ tags: dutchgov
 |[https://www.investeringsimpulsspv.nl](https://www.investeringsimpulsspv.nl)| | **F**|Apache/2| | | | | | | | :white_check_mark: | |Apache HTTP Server:2 MySQL PHP:8.2.16 WordPress||
 |[https://mail.investeringsimpulsspv.nl](https://mail.investeringsimpulsspv.nl)| | **F**|Apache/2| | | | | | | | :white_check_mark: | |Apache HTTP Server:2||
 |[https://investeringsimpulsspv.nl](https://investeringsimpulsspv.nl)| | **F**|Apache/2| | | | | | | | :white_check_mark: | |Apache HTTP Server:2 Bootstrap MySQL PHP:8.2.16 WordPress Yoast SEO:22.0|Investeringsimpu...|
+|[https://ftp.investeringsimpulsspv.nl](https://ftp.investeringsimpulsspv.nl)| | **F**|Apache/2| | | | | | | | :white_check_mark: | |Apache HTTP Server:2||
+|[https://pop.investeringsimpulsspv.nl](https://pop.investeringsimpulsspv.nl)| | **F**|Apache/2| | | | | | | | :white_check_mark: | |Apache HTTP Server:2||
+|[https://smtp.investeringsimpulsspv.nl](https://smtp.investeringsimpulsspv.nl)| | **F**|Apache/2| | | | | | | | :white_check_mark: | |Apache HTTP Server:2||
 

@@ -3,7 +3,7 @@ layout: default
 title: "waarzitwatin.nl"
 permalink: "/dutchgov/waarzitwatin.nl.html"
 subdomains_count: 108
-all_subdomains_count: 108
+all_subdomains_count: 109
 urls_count: 108
 ssl_rank: A+
 http_rank: F
@@ -29,7 +29,7 @@ tags: dutchgov
 |------------|-------|------|
 |[subdomains.txt](/DutchGovScope/data/waarzitwatin.nl/subdomains.txt)|108|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/waarzitwatin.nl/urls.txt)|108|Urls|
-|[all_subdomains.txt](/DutchGovScope/data/waarzitwatin.nl/all_subdomains.txt)|108|All found subdomains (history)|
+|[all_subdomains.txt](/DutchGovScope/data/waarzitwatin.nl/all_subdomains.txt)|109|All found subdomains (history)|
 
 
 ## Statistics
@@ -37,9 +37,9 @@ tags: dutchgov
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://staging.waarzitwatin.nl](https://staging.waarzitwatin.nl)| **A**| **F**|Apache| | | | | | | | :white_check_mark: | |Amazon CloudFront Amazon Web Services Apache HTTP Server|Redirecting to h...|
-|[https://www.waarzitwatin.nl](https://www.waarzitwatin.nl)| | **F**|cloudflare| | | | | | | | :white_check_mark: | |Amazon CloudFront Amazon Web Services Cloudflare HSTS HTTP/3|301 Moved Perman...|
-|[https://waarzitwatin.nl](https://waarzitwatin.nl)| **A+**| **F**|Apache| | | | | | | | :white_check_mark: | |Amazon CloudFront Amazon Web Services Apache HTTP Server HSTS Laravel October CMS|Waarzitwatin.nl...|
+|[https://staging.waarzitwatin.nl](https://staging.waarzitwatin.nl)| **A**| **F**|Apache|:warning: | | | | | | | :white_check_mark: | |Amazon CloudFront Amazon Web Services Apache HTTP Server|Redirecting to h...|
+|[https://www.waarzitwatin.nl](https://www.waarzitwatin.nl)| | **D**|cloudflare|:warning: |:white_check_mark: | | | | | | :white_check_mark: | |Amazon CloudFront Amazon Web Services Cloudflare HSTS HTTP/3|301 Moved Perman...|
+|[https://waarzitwatin.nl](https://waarzitwatin.nl)| **A+**| **D**|Apache|:warning: |:white_check_mark: | | | | | | :white_check_mark: | |Amazon CloudFront Amazon Web Services Apache HTTP Server HSTS Laravel October CMS|Waarzitwatin.nl...|
 |[https://files.staging.waarzitwatin.nl](https://files.staging.waarzitwatin.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Amazon CloudFront Amazon Web Services Apache HTTP Server|404 Not Found|
 |[https://kibana.staging.waarzitwatin.nl](https://kibana.staging.waarzitwatin.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Amazon CloudFront Amazon Web Services Apache HTTP Server|404 Not Found|
 |[https://mijn.staging.waarzitwatin.nl](https://mijn.staging.waarzitwatin.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Amazon CloudFront Amazon Web Services Apache HTTP Server|404 Not Found|

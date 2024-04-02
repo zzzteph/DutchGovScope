@@ -105,6 +105,7 @@ ssovpnappa-tst.ows2.politie.nl
 ssovpnappa.gslbpe.politie.nl
 ssovpnappi-pre.gslbppe.politie.nl
 ssovpnappi.gslbpe.politie.nl
+ssovpnintune-tst.ows2.politie.nl
 tele-db.politie.nl
 tele-od.politie.nl
 vaoa.politie.nl

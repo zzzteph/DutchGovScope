@@ -39,4 +39,3 @@ sbc-prd-b-tenant02.dwrt2.ssc-ict.nl
 a-feeds.ssc-ict.nl
 a-opendata.ssc-ict.nl
 a-www.ssc-ict.nl
-localhost.ssc-ict.nl

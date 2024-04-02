@@ -6,14 +6,14 @@
 
  - **SSL Grade**:A-
  - **HTTP Security Grade**:A
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:184
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:191
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/mett.nl/subdomains.txt)|2562|Alive subdomains|
-|[urls.txt](/data/mett.nl/urls.txt)|2296|Urls|
-|[all_subdomains.txt](/data/mett.nl/all_subdomains.txt)|3647|All found subdomains (history)|
+|[subdomains.txt](/data/mett.nl/subdomains.txt)|3641|Alive subdomains|
+|[urls.txt](/data/mett.nl/urls.txt)|2305|Urls|
+|[all_subdomains.txt](/data/mett.nl/all_subdomains.txt)|4624|All found subdomains (history)|
 
 
 ## Statistics
@@ -374,13 +374,14 @@
 |[https://regiohoogeland.demo.mett.nl](https://regiohoogeland.demo.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Document Moved|
 |[https://bequan.demo.mett.nl](https://bequan.demo.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Document Moved|
 |[https://meedenkenarnhem.mett.nl](https://meedenkenarnhem.mett.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET hCaptcha|Object moved|
+|[https://adfs.mett.nl](https://adfs.mett.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | ||Document Moved|
 |[https://api.mett.nl](https://api.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Microsoft Azure...|
 |[http://autodiscover.mett.nl](http://autodiscover.mett.nl)| | **B**|Microsoft-IIS/10.0|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server||
 |[https://dev.mett.nl](https://dev.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Microsoft Azure...|
 |[https://faber.mett.nl](https://faber.mett.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | ||Document Moved|
 |[https://ftp.mett.nl](https://ftp.mett.nl)| | **F**|Apache/2| | | | | | | | :white_check_mark: | |Apache HTTP Server:2||
 |[https://robert.mett.nl](https://robert.mett.nl)| | **A**||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Object moved|
-|[https://tom.mett.nl](https://tom.mett.nl)| | **A**|| |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET|Object moved|
+|[http://tom.mett.nl](http://tom.mett.nl)| | **A**|| |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET||
 |[https://htx.mett.nl](https://htx.mett.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET|Object moved|
 |[https://iii.mett.nl](https://iii.mett.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | ||Document Moved|
 |[https://performance.mett.nl](https://performance.mett.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx Pingdom Uptime Monitoring|Pingdom Public R...|
@@ -2317,4 +2318,12 @@
 |[https://core-api.mett.nl](https://core-api.mett.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | ||Document Moved|
 |[https://gazeta.mett.nl](https://gazeta.mett.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | ||Document Moved|
 |[https://achiko.mett.nl](https://achiko.mett.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | ||Document Moved|
+|[https://deambachtapeldoorn.mett.nl](https://deambachtapeldoorn.mett.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET YouTube|Object moved|
+|[https://denkmeewoonin.mett.nl](https://denkmeewoonin.mett.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET|Object moved|
+|[https://mooinl.mett.nl](https://mooinl.mett.nl)| | **A**||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Object moved|
+|[https://wegwijzeraquathermie.mett.nl](https://wegwijzeraquathermie.mett.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET|Object moved|
+|[https://zichtopnl.mett.nl](https://zichtopnl.mett.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET|Object moved|
+|[https://timpaan.mett.nl](https://timpaan.mett.nl)| | **A**||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Object moved|
+|[http://iis01.mett.nl](http://iis01.mett.nl)| | **A**|Microsoft-IIS/10.0| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server|Document Moved|
+|[https://nestedcomments.mett.nl](https://nestedcomments.mett.nl)| | **A**||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Object moved|
 

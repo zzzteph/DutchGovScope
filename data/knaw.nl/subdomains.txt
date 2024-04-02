@@ -424,7 +424,6 @@ sites.dans.knaw.nl
 act.easy.dans.knaw.nl
 demo.easy.dans.knaw.nl
 peasy11.dans.knaw.nl
-addn11.dans.knaw.nl
 adfs.knaw.nl
 adfs2.cbs.knaw.nl
 adlib.rathenau.knaw.nl
@@ -662,7 +661,6 @@ dendro.dans.knaw.nl
 vocabularies.dans.knaw.nl
 web11.dans.knaw.nl
 develop.dans.knaw.nl
-develop21.dans.knaw.nl
 nexus.dans.knaw.nl
 develop31.dans.knaw.nl
 dhcp1-template.knaw.nl
@@ -906,7 +904,6 @@ oraclebi31.knaw.nl
 oraclebiadm21.knaw.nl
 oracledb21.knaw.nl
 oracleoem21.knaw.nl
-oraclesso21.knaw.nl
 pand29gbs.bureau.knaw.nl
 password.knaw.nl
 password51-iis.knaw.nl
@@ -1165,14 +1162,12 @@ taoracledb21.knaw.nl
 taoracledb22.knaw.nl
 taoracledb23.knaw.nl
 taoracleoem21.knaw.nl
-taoraclesso21.knaw.nl
 taoraclesso31.knaw.nl
 tar31.dans.knaw.nl
 tdd31.dans.knaw.nl
 tclarin11.dans.knaw.nl
 tclarin31.dans.knaw.nl
 tddn.dans.knaw.nl
-tddn11.dans.knaw.nl
 tdvnl.dans.knaw.nl
 tdvnl31.dans.knaw.nl
 teasy.dans.knaw.nl

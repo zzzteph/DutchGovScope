@@ -11,8 +11,8 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/rwscregelaar.nl/subdomains.txt)|2246|Alive subdomains|
-|[urls.txt](/data/rwscregelaar.nl/urls.txt)|2246|Urls|
+|[subdomains.txt](/data/rwscregelaar.nl/subdomains.txt)|2247|Alive subdomains|
+|[urls.txt](/data/rwscregelaar.nl/urls.txt)|2247|Urls|
 |[all_subdomains.txt](/data/rwscregelaar.nl/all_subdomains.txt)|2247|All found subdomains (history)|
 
 
@@ -2154,6 +2154,7 @@
 |[https://navigation.rwscregelaar.nl](https://navigation.rwscregelaar.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu|DAT.Mobility|
 |[https://oetztal.rwscregelaar.nl](https://oetztal.rwscregelaar.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu|DAT.Mobility|
 |[https://web7383.rwscregelaar.nl](https://web7383.rwscregelaar.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu|DAT.Mobility|
+|[https://ehc.rwscregelaar.nl](https://ehc.rwscregelaar.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu|DAT.Mobility|
 |[https://dacia-velgen.rwscregelaar.nl](https://dacia-velgen.rwscregelaar.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu|DAT.Mobility|
 |[https://kaitori.rwscregelaar.nl](https://kaitori.rwscregelaar.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu|DAT.Mobility|
 |[https://tong.rwscregelaar.nl](https://tong.rwscregelaar.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu|DAT.Mobility|

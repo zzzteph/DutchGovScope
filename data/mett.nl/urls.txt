@@ -351,13 +351,14 @@ https://bio-enerco.mett.nl
 https://regiohoogeland.demo.mett.nl
 https://bequan.demo.mett.nl
 https://meedenkenarnhem.mett.nl
+https://adfs.mett.nl
 https://api.mett.nl
 http://autodiscover.mett.nl
 https://dev.mett.nl
 https://faber.mett.nl
 https://ftp.mett.nl
 https://robert.mett.nl
-https://tom.mett.nl
+http://tom.mett.nl
 https://htx.mett.nl
 https://iii.mett.nl
 https://performance.mett.nl
@@ -2294,3 +2295,11 @@ https://api-staging.mett.nl
 https://core-api.mett.nl
 https://gazeta.mett.nl
 https://achiko.mett.nl
+https://deambachtapeldoorn.mett.nl
+https://denkmeewoonin.mett.nl
+https://mooinl.mett.nl
+https://wegwijzeraquathermie.mett.nl
+https://zichtopnl.mett.nl
+https://timpaan.mett.nl
+http://iis01.mett.nl
+https://nestedcomments.mett.nl

@@ -67,7 +67,7 @@ https://www.brabant.nl
 https://api.brabant.nl
 https://mik-acpt.brabant.nl
 http://informatie-rws.brabant.nl
-http://blog.brabant.nl
+https://blog.brabant.nl
 https://pki.brabant.nl
 https://enterpriseenrollment.brabant.nl
 https://enterpriseregistration.brabant.nl

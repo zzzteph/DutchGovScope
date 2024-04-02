@@ -22,3 +22,5 @@ api.apps.feedfoodtransfer.nl
 admin.apps.feedfoodtransfer.nl
 us.apps.feedfoodtransfer.nl
 blog.apps.feedfoodtransfer.nl
+login.apps.feedfoodtransfer.nl
+webdisk.apps.feedfoodtransfer.nl

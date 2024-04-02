@@ -77,3 +77,4 @@ https://stats.staging.ndw.nu
 https://shared-services.staging.ndw.nu
 https://maps.staging.ndw.nu
 https://nls.staging.ndw.nu
+https://design.staging.ndw.nu

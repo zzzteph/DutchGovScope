@@ -5,3 +5,8 @@ daisy.kanselarij.nl
 kanselarij.nl
 www.kanselarij.nl
 kaexchange.kanselarij.nl
+mail.kanselarij.nl
+mail1.kanselarij.nl
+portal.kanselarij.nl
+sdm.kanselarij.nl
+sip.kanselarij.nl

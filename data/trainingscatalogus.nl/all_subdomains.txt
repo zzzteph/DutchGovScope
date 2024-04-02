@@ -162,3 +162,10 @@ developer.test.trainingscatalogus.nl
 old.test.trainingscatalogus.nl
 test.test.trainingscatalogus.nl
 download.test.trainingscatalogus.nl
+api.test.trainingscatalogus.nl
+dev.test.trainingscatalogus.nl
+kcs.test.trainingscatalogus.nl
+de.test.trainingscatalogus.nl
+backoffice.test.trainingscatalogus.nl
+www2.test.trainingscatalogus.nl
+wiki.test.trainingscatalogus.nl

@@ -109,3 +109,4 @@ http://mediaportal.dnb.nl
 https://sftp.dnb.nl
 https://rmdm-beheerapp-dev.azure.dnb.nl
 https://rmdm-beheerapp-tst.azure.dnb.nl
+https://screening-acc.dnb.nl

@@ -6,7 +6,7 @@
 
  - **SSL Grade**:A+
  - **HTTP Security Grade**:A
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:10
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:11
 
 
 | File       | Count | Info |
@@ -24,8 +24,8 @@
 |[https://cert.pkioverheid.nl](https://cert.pkioverheid.nl)| **A+**| **A**|| |:white_check_mark: | :warning:| | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Overview of PKIo...|
 |[https://cps.pkioverheid.nl](https://cps.pkioverheid.nl)| **A**| **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Certification Pr...|
 |[https://crl.pkioverheid.nl](https://crl.pkioverheid.nl)| **A+**| **A**|| |:white_check_mark: | :warning:| | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|PKIoverheid Cert...|
-|[http://www.pkioverheid.nl](http://www.pkioverheid.nl)| **A+**| **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|KPN TSP - CRL Di...|
-|[https://pkioverheid.nl](https://pkioverheid.nl)| **A+**| **A**|Apache| |:white_check_mark: | :warning:| | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
+|[https://www.pkioverheid.nl](https://www.pkioverheid.nl)| **A+**| **A**|| |:white_check_mark: | :warning:| | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Overview of PKIo...|
+|[https://pkioverheid.nl](https://pkioverheid.nl)| **A+**| **A**|| |:white_check_mark: | :warning:| | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Overview of PKIo...|
 |[http://domorganisatieservicesocsp-g3.pkioverheid.nl](http://domorganisatieservicesocsp-g3.pkioverheid.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[http://rootocsp-g3.pkioverheid.nl](http://rootocsp-g3.pkioverheid.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://oid.pkioverheid.nl](https://oid.pkioverheid.nl)| | **A**|| |:white_check_mark: | :warning:| | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Object Identifie...|

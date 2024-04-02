@@ -11,7 +11,7 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/bodemrichtlijn.nl/subdomains.txt)|1441|Alive subdomains|
+|[subdomains.txt](/data/bodemrichtlijn.nl/subdomains.txt)|1495|Alive subdomains|
 |[urls.txt](/data/bodemrichtlijn.nl/urls.txt)|1231|Urls|
 |[all_subdomains.txt](/data/bodemrichtlijn.nl/all_subdomains.txt)|1497|All found subdomains (history)|
 

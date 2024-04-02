@@ -19,3 +19,4 @@ staging.apps.feedfoodtransfer.nl
 api.apps.feedfoodtransfer.nl
 admin.apps.feedfoodtransfer.nl
 us.apps.feedfoodtransfer.nl
+blog.apps.feedfoodtransfer.nl

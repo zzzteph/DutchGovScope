@@ -69,8 +69,6 @@ signon.ibabs.minvenj.nl
 ssc-i.ibabs.minvenj.nl
 sip.acpt.dtv.minvenj.nl
 sip.gdi.minvenj.nl
-smtp1.minvenj.nl
-smtp2.minvenj.nl
 ssc-i.ourmeeting.minvenj.nl
 ssc-i.ourmeetingdocs.minvenj.nl
 ssc-i.petear.minvenj.nl

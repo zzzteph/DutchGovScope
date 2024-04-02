@@ -21,11 +21,11 @@
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://test.risicotoolboxbodem.nl](https://test.risicotoolboxbodem.nl)| **A+**| **D**|Microsoft-IIS/8.5|:warning: |:white_check_mark: | | | | | | :white_check_mark: | |HSTS IIS:8.5 Microsoft ASP.NET:4.0.30319 Windows Server|Object moved|
-|[https://test3.risicotoolboxbodem.nl](https://test3.risicotoolboxbodem.nl)| **A+**| **F**|Microsoft-IIS/10.0| | | | | | | | :white_check_mark: | |HSTS IIS:10.0 Microsoft ASP.NET Windows Server||
+|[https://test.risicotoolboxbodem.nl](https://test.risicotoolboxbodem.nl)| **A+**| **D**|Microsoft-IIS/8.5|:warning: |:white_check_mark: | | | | | | :white_check_mark: | |Bootstrap HSTS IIS:8.5 Microsoft ASP.NET Windows Server|RisicotoolboxBod...|
+|[https://test3.risicotoolboxbodem.nl](https://test3.risicotoolboxbodem.nl)| **A+**| **F**|Microsoft-IIS/10.0| | | | | | | | :white_check_mark: | |HSTS IIS:10.0 Microsoft ASP.NET Windows Server|Welkom - Nieuwe...|
 |[https://www.risicotoolboxbodem.nl](https://www.risicotoolboxbodem.nl)| **A+**| **D**|Microsoft-IIS/8.5|:warning: |:white_check_mark: | | | | | | :white_check_mark: | |Bootstrap HSTS IIS:8.5 Microsoft ASP.NET Windows Server|RisicotoolboxBod...|
 |[https://risicotoolboxbodem.nl](https://risicotoolboxbodem.nl)| **A**| **D**||:warning: |:white_check_mark: | | | | | | :white_check_mark: | |||
-|[https://nieuwestoffen.risicotoolboxbodem.nl](https://nieuwestoffen.risicotoolboxbodem.nl)| **A+**| **C**|Microsoft-IIS/10.0| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS IIS:10.0 Microsoft ASP.NET Windows Server|- Nieuwe Stoffen|
-|[https://feedback.risicotoolboxbodem.nl](https://feedback.risicotoolboxbodem.nl)| **A+**| **C**|Microsoft-IIS/10.0| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS IIS:10.0 Microsoft ASP.NET Windows Server|- Nieuwe Stoffen|
+|[https://nieuwestoffen.risicotoolboxbodem.nl](https://nieuwestoffen.risicotoolboxbodem.nl)| **A+**| **C**|Microsoft-IIS/10.0| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS IIS:10.0 Microsoft ASP.NET Windows Server|Welkom - Nieuwe...|
+|[https://feedback.risicotoolboxbodem.nl](https://feedback.risicotoolboxbodem.nl)| **A+**| **C**|Microsoft-IIS/10.0|:warning: |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS IIS:10.0 Microsoft ASP.NET Windows Server||
 |[http://localhost.risicotoolboxbodem.nl](http://localhost.risicotoolboxbodem.nl)| | **F**|nginx|:o: | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Laravel Nginx PHP|Weakpass|
 

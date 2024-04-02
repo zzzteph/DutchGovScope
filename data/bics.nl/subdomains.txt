@@ -10,7 +10,6 @@ www.bics.nl
 bicsdrupalacc.bics.nl
 bics.nl
 bicsweb1.bics.nl
-bicsweb2.bics.nl
 bicsaccweb1.bics.nl
 activation.bics.nl
 bayplanviewer2.bics.nl

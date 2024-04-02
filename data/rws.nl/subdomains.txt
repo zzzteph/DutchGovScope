@@ -209,7 +209,6 @@ wwwmig.rws.nl
 smtp.rws.nl
 acceptatie.nlrmds-re.rws.nl
 www-rws2011.rws.nl
-test.rws-a5-a.azure.gridacc.rws.nl
 bathymetrie.rws.nl
 guestportal2.rws.nl
 bgapi.public.vm-05.azure.grid.rws.nl

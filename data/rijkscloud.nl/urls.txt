@@ -35,7 +35,6 @@ https://git.iaas.rijkscloud.nl
 https://git.ivho.rijkscloud.nl
 https://gitlab.analyse.ilt.rijkscloud.nl
 https://gitlab.datascience.rijkscloud.nl
-https://gitlab.dctplg1.ix.rijkscloud.nl
 https://gitlab.ds-ocw.rijkscloud.nl
 https://gitlab.ix.rijkscloud.nl
 https://gitlab.ritp.rijkscloud.nl
@@ -48,7 +47,6 @@ https://informatieproducten.duo.rijkscloud.nl
 https://infrabeheer.rvb.rijkscloud.nl
 https://ip.rijkscloud.nl
 https://ipi.rijkscloud.nl
-https://iron-hand.ix.rijkscloud.nl
 https://jupyter.alma.jvs.ix.rijkscloud.nl
 https://jupyter.analyse.ilt.rijkscloud.nl
 https://jupyter.cursus.rijkscloud.nl
@@ -132,9 +130,13 @@ https://webmail.rijkscloud.nl
 https://www.rijkscloud.nl
 https://rijkscloud.nl
 https://openstack.gn3.rijkscloud.nl
+http://status.gn3.rijkscloud.nl
 https://portal.ip.test.duo.rijkscloud.nl
 https://ip.test.duo.rijkscloud.nl
 https://rstudio.ip.test.duo.rijkscloud.nl
 https://projects.pages.ds-ocw.rijkscloud.nl
 https://documentation.ix.rijkscloud.nl
 https://repo.ix.rijkscloud.nl
+https://diplomaonderzoek.dfront.rijkscloud.nl
+https://particulier.dfront.rijkscloud.nl
+https://afwijkend-examineren.dfront.rijkscloud.nl

@@ -23,7 +23,7 @@
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[https://accept.digitaleoverheid.nl](https://accept.digitaleoverheid.nl)| **A+**| **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |Basic HSTS Nginx|401 Authorizatio...|
 |[http://magazine-nl.digitaleoverheid.nl](http://magazine-nl.digitaleoverheid.nl)| | **C**|| | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | ||404 - Not Found|
-|[https://www.digitaleoverheid.nl](https://www.digitaleoverheid.nl)| **A+**| **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS MySQL Nginx PHP:8.0.30 WordPress:6.4.3 Yoast SEO:22.2|Home - Digitale...|
+|[https://www.digitaleoverheid.nl](https://www.digitaleoverheid.nl)| **A+**| **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS MySQL Nginx PHP:8.0.30 WordPress:6.4.3 Yoast SEO:22.3|Home - Digitale...|
 |[https://digitaleoverheid.nl](https://digitaleoverheid.nl)| **A+**| **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS MySQL Nginx PHP:8.0.30 WordPress||
 |[http://magazine-en.digitaleoverheid.nl](http://magazine-en.digitaleoverheid.nl)| | **C**|| | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | ||404 - Not Found|
 

@@ -31,7 +31,7 @@
 |[https://idposr.duo.nl](https://idposr.duo.nl)| **A+**| **A**|WebSEAL/10.0.7.0| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Moved Temporaril...|
 |[https://instellingsinformatie.duo.nl](https://instellingsinformatie.duo.nl)| **A+**| **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET|Document Moved|
 |[https://instellingsinformatie.scha.duo.nl](https://instellingsinformatie.scha.duo.nl)| **A+**| **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET:4.0.30319|Object moved|
-|[https://mijn.duo.nl](https://mijn.duo.nl)| **A**| **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |||
+|[https://mijn.duo.nl](https://mijn.duo.nl)| **A**| **A**||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |||
 |[https://onderwijsdata.duo.nl](https://onderwijsdata.duo.nl)| **A+**| **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://personenregisterkinderopvang.duo.nl](https://personenregisterkinderopvang.duo.nl)| **A+**| **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Personenregister...|
 |[https://rio-kennisbank.duo.nl](https://rio-kennisbank.duo.nl)| **A+**| **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Google Tag Manager HSTS Java|Kennisbank|

@@ -11,7 +11,7 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/domeinenrz.nl/subdomains.txt)|31|Alive subdomains|
+|[subdomains.txt](/data/domeinenrz.nl/subdomains.txt)|32|Alive subdomains|
 |[urls.txt](/data/domeinenrz.nl/urls.txt)|15|Urls|
 |[all_subdomains.txt](/data/domeinenrz.nl/all_subdomains.txt)|47|All found subdomains (history)|
 

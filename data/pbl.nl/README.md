@@ -6,7 +6,7 @@
 
  - **SSL Grade**:B-
  - **HTTP Security Grade**:C
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:4
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:5
 
 
 | File       | Count | Info |
@@ -22,11 +22,11 @@
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[http://autodiscover.pbl.nl](http://autodiscover.pbl.nl)| | **E**|Microsoft-IIS/10.0| | | | | | :white_check_mark: | | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server||
-|[https://data.pbl.nl](https://data.pbl.nl)| **A+**| **A**|Apache| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS||
+|[https://data.pbl.nl](https://data.pbl.nl)| **A+**| **A**|Microsoft-Azure-Application-Gateway/v2| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS|301 Moved Perman...|
 |[https://dataportaal.pbl.nl](https://dataportaal.pbl.nl)| **A-**| **A**|| |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | |HSTS|PBL Dataportaal...|
 |[https://dwo.pbl.nl](https://dwo.pbl.nl)| **A+**| **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS||
 |[https://fs.pbl.nl](https://fs.pbl.nl)| **B**| **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
-|[https://infographics.pbl.nl](https://infographics.pbl.nl)| **A-**| **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS PHP:8.1.22||
+|[https://infographics.pbl.nl](https://infographics.pbl.nl)| **A-**| **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS PHP:8.1.27||
 |[https://kwaliteitvanleven.pbl.nl](https://kwaliteitvanleven.pbl.nl)| **D**| **A**|Microsoft-Azure-Application-Gateway/v2| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | ||301 Moved Perman...|
 |[https://leidraad.pbl.nl](https://leidraad.pbl.nl)| **C**| **B**||:o: |:white_check_mark: | | | :white_check_mark:| | :white_check_mark: | :white_check_mark: | |Bootstrap:3.3.1 HSTS PHP|Leidraad voor Om...|
 |[https://models.pbl.nl](https://models.pbl.nl)| **B**| **C**|nginx/1.20.1| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Nginx:1.20.1 PHP:7.2.34||

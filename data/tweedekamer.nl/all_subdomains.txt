@@ -274,3 +274,4 @@ test.beta.tweedekamer.nl
 login.beta.tweedekamer.nl
 portal.beta.tweedekamer.nl
 planon-live.tweedekamer.nl
+autodiscover.beta.tweedekamer.nl

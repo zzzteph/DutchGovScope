@@ -6,14 +6,14 @@
 
  - **SSL Grade**:A
  - **HTTP Security Grade**:E
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:134
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:216
 
 
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/waterschaplimburg.nl/subdomains.txt)|671|Alive subdomains|
-|[urls.txt](/data/waterschaplimburg.nl/urls.txt)|464|Urls|
-|[all_subdomains.txt](/data/waterschaplimburg.nl/all_subdomains.txt)|674|All found subdomains (history)|
+|[urls.txt](/data/waterschaplimburg.nl/urls.txt)|563|Urls|
+|[all_subdomains.txt](/data/waterschaplimburg.nl/all_subdomains.txt)|760|All found subdomains (history)|
 
 
 ## Statistics
@@ -485,4 +485,103 @@
 |[http://olifanten.waterschaplimburg.nl](http://olifanten.waterschaplimburg.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
 |[http://mweb.waterschaplimburg.nl](http://mweb.waterschaplimburg.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
 |[http://vrijgezellenfeestjes.waterschaplimburg.nl](http://vrijgezellenfeestjes.waterschaplimburg.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
+|[http://vs21.waterschaplimburg.nl](http://vs21.waterschaplimburg.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
+|[http://advocaat-soorten.waterschaplimburg.nl](http://advocaat-soorten.waterschaplimburg.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
+|[http://linan.waterschaplimburg.nl](http://linan.waterschaplimburg.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
+|[http://globalservices.waterschaplimburg.nl](http://globalservices.waterschaplimburg.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
+|[http://happykids.waterschaplimburg.nl](http://happykids.waterschaplimburg.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
+|[http://48up.waterschaplimburg.nl](http://48up.waterschaplimburg.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
+|[http://boysandgirls.waterschaplimburg.nl](http://boysandgirls.waterschaplimburg.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
+|[http://trouwringen.waterschaplimburg.nl](http://trouwringen.waterschaplimburg.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
+|[http://gkar.waterschaplimburg.nl](http://gkar.waterschaplimburg.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
+|[http://fleece-hoofdband.waterschaplimburg.nl](http://fleece-hoofdband.waterschaplimburg.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
+|[http://mail3.email.waterschaplimburg.nl](http://mail3.email.waterschaplimburg.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
+|[http://desc.waterschaplimburg.nl](http://desc.waterschaplimburg.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
+|[http://whitestone.waterschaplimburg.nl](http://whitestone.waterschaplimburg.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
+|[http://ebony.waterschaplimburg.nl](http://ebony.waterschaplimburg.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
+|[http://exotisch-koken.waterschaplimburg.nl](http://exotisch-koken.waterschaplimburg.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
+|[http://web4923.waterschaplimburg.nl](http://web4923.waterschaplimburg.nl)| | **E**|Microsoft-HTTPAPI/2.0| | | | | | :white_check_mark: | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
+|[http://aimp.waterschaplimburg.nl](http://aimp.waterschaplimburg.nl)| | **E**|Microsoft-HTTPAPI/2.0| | | | | | :white_check_mark: | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
+|[http://web3830.waterschaplimburg.nl](http://web3830.waterschaplimburg.nl)| | **D**|| | | | | | :white_check_mark: | | :white_check_mark: | ||Attack Detected|
+|[http://waterlandkerkje.waterschaplimburg.nl](http://waterlandkerkje.waterschaplimburg.nl)| | **D**|| | | | | | :white_check_mark: | | :white_check_mark: | ||Attack Detected|
+|[http://statsd.waterschaplimburg.nl](http://statsd.waterschaplimburg.nl)| | **D**|| | | | | | :white_check_mark: | | :white_check_mark: | ||Attack Detected|
+|[http://jisc.waterschaplimburg.nl](http://jisc.waterschaplimburg.nl)| | **D**|| | | | | | :white_check_mark: | | :white_check_mark: | ||Attack Detected|
+|[http://genieten.waterschaplimburg.nl](http://genieten.waterschaplimburg.nl)| | **D**|| | | | | | :white_check_mark: | | :white_check_mark: | ||Attack Detected|
+|[http://liv.waterschaplimburg.nl](http://liv.waterschaplimburg.nl)| | **D**|| | | | | | :white_check_mark: | | :white_check_mark: | ||Attack Detected|
+|[http://registers.waterschaplimburg.nl](http://registers.waterschaplimburg.nl)| | **D**|| | | | | | :white_check_mark: | | :white_check_mark: | ||Attack Detected|
+|[http://web17097.waterschaplimburg.nl](http://web17097.waterschaplimburg.nl)| | **D**|| | | | | | :white_check_mark: | | :white_check_mark: | ||Attack Detected|
+|[http://web3616.waterschaplimburg.nl](http://web3616.waterschaplimburg.nl)| | **D**|| | | | | | :white_check_mark: | | :white_check_mark: | ||Attack Detected|
+|[http://vbi.waterschaplimburg.nl](http://vbi.waterschaplimburg.nl)| | **D**|| | | | | | :white_check_mark: | | :white_check_mark: | ||Attack Detected|
+|[http://grafana-prod.waterschaplimburg.nl](http://grafana-prod.waterschaplimburg.nl)| | **D**|| | | | | | :white_check_mark: | | :white_check_mark: | ||Attack Detected|
+|[http://lettelbert.waterschaplimburg.nl](http://lettelbert.waterschaplimburg.nl)| | **D**|| | | | | | :white_check_mark: | | :white_check_mark: | ||Attack Detected|
+|[http://ehr.waterschaplimburg.nl](http://ehr.waterschaplimburg.nl)| | **D**|| | | | | | :white_check_mark: | | :white_check_mark: | ||Attack Detected|
+|[http://arabica.waterschaplimburg.nl](http://arabica.waterschaplimburg.nl)| | **D**|| | | | | | :white_check_mark: | | :white_check_mark: | ||Attack Detected|
+|[http://prove.waterschaplimburg.nl](http://prove.waterschaplimburg.nl)| | **D**|| | | | | | :white_check_mark: | | :white_check_mark: | ||Attack Detected|
+|[http://street-art.waterschaplimburg.nl](http://street-art.waterschaplimburg.nl)| | **D**|| | | | | | :white_check_mark: | | :white_check_mark: | ||Attack Detected|
+|[http://www78.waterschaplimburg.nl](http://www78.waterschaplimburg.nl)| | **D**|| | | | | | :white_check_mark: | | :white_check_mark: | ||Attack Detected|
+|[http://1002.waterschaplimburg.nl](http://1002.waterschaplimburg.nl)| | **D**|| | | | | | :white_check_mark: | | :white_check_mark: | ||Attack Detected|
+|[http://bigboss.waterschaplimburg.nl](http://bigboss.waterschaplimburg.nl)| | **D**|| | | | | | :white_check_mark: | | :white_check_mark: | ||Attack Detected|
+|[http://aiops.waterschaplimburg.nl](http://aiops.waterschaplimburg.nl)| | **D**|| | | | | | :white_check_mark: | | :white_check_mark: | ||Attack Detected|
+|[http://lovemusic.waterschaplimburg.nl](http://lovemusic.waterschaplimburg.nl)| | **D**|| | | | | | :white_check_mark: | | :white_check_mark: | ||Attack Detected|
+|[http://web3548.waterschaplimburg.nl](http://web3548.waterschaplimburg.nl)| | **D**|| | | | | | :white_check_mark: | | :white_check_mark: | ||Attack Detected|
+|[http://email.recruiting.waterschaplimburg.nl](http://email.recruiting.waterschaplimburg.nl)| | **D**|| | | | | | :white_check_mark: | | :white_check_mark: | ||Attack Detected|
+|[http://sjoelen.waterschaplimburg.nl](http://sjoelen.waterschaplimburg.nl)| | **D**|| | | | | | :white_check_mark: | | :white_check_mark: | ||Attack Detected|
+|[http://syndicated.waterschaplimburg.nl](http://syndicated.waterschaplimburg.nl)| | **D**|| | | | | | :white_check_mark: | | :white_check_mark: | ||Attack Detected|
+|[http://avic.waterschaplimburg.nl](http://avic.waterschaplimburg.nl)| | **D**|| | | | | | :white_check_mark: | | :white_check_mark: | ||Attack Detected|
+|[http://test60.waterschaplimburg.nl](http://test60.waterschaplimburg.nl)| | **D**|| | | | | | :white_check_mark: | | :white_check_mark: | ||Attack Detected|
+|[http://eloise.waterschaplimburg.nl](http://eloise.waterschaplimburg.nl)| | **D**|| | | | | | :white_check_mark: | | :white_check_mark: | ||Attack Detected|
+|[http://web3402.waterschaplimburg.nl](http://web3402.waterschaplimburg.nl)| | **D**|| | | | | | :white_check_mark: | | :white_check_mark: | ||Attack Detected|
+|[http://famos.waterschaplimburg.nl](http://famos.waterschaplimburg.nl)| | **D**|| | | | | | :white_check_mark: | | :white_check_mark: | ||Attack Detected|
+|[http://censored.waterschaplimburg.nl](http://censored.waterschaplimburg.nl)| | **D**|| | | | | | :white_check_mark: | | :white_check_mark: | ||Attack Detected|
+|[http://entropia.waterschaplimburg.nl](http://entropia.waterschaplimburg.nl)| | **D**|| | | | | | :white_check_mark: | | :white_check_mark: | ||Attack Detected|
+|[http://dontclickthis.waterschaplimburg.nl](http://dontclickthis.waterschaplimburg.nl)| | **D**|| | | | | | :white_check_mark: | | :white_check_mark: | ||Attack Detected|
+|[http://gayboy.waterschaplimburg.nl](http://gayboy.waterschaplimburg.nl)| | **D**|| | | | | | :white_check_mark: | | :white_check_mark: | ||Attack Detected|
+|[http://apk.waterschaplimburg.nl](http://apk.waterschaplimburg.nl)| | **D**|| | | | | | :white_check_mark: | | :white_check_mark: | ||Attack Detected|
+|[http://alistairmclean.waterschaplimburg.nl](http://alistairmclean.waterschaplimburg.nl)| | **D**|| | | | | | :white_check_mark: | | :white_check_mark: | ||Attack Detected|
+|[http://dagmar.waterschaplimburg.nl](http://dagmar.waterschaplimburg.nl)| | **D**|| | | | | | :white_check_mark: | | :white_check_mark: | ||Attack Detected|
+|[http://forum.api.waterschaplimburg.nl](http://forum.api.waterschaplimburg.nl)| | **D**|| | | | | | :white_check_mark: | | :white_check_mark: | ||Attack Detected|
+|[http://roshal.waterschaplimburg.nl](http://roshal.waterschaplimburg.nl)| | **D**|| | | | | | :white_check_mark: | | :white_check_mark: | ||Attack Detected|
+|[http://front3.waterschaplimburg.nl](http://front3.waterschaplimburg.nl)| | **D**|| | | | | | :white_check_mark: | | :white_check_mark: | ||Attack Detected|
+|[http://marillion.waterschaplimburg.nl](http://marillion.waterschaplimburg.nl)| | **D**|| | | | | | :white_check_mark: | | :white_check_mark: | ||Attack Detected|
+|[http://newmediadm.waterschaplimburg.nl](http://newmediadm.waterschaplimburg.nl)| | **D**|| | | | | | :white_check_mark: | | :white_check_mark: | ||Attack Detected|
+|[http://lastcall.waterschaplimburg.nl](http://lastcall.waterschaplimburg.nl)| | **D**|| | | | | | :white_check_mark: | | :white_check_mark: | ||Attack Detected|
+|[http://washingtonpost.waterschaplimburg.nl](http://washingtonpost.waterschaplimburg.nl)| | **D**|| | | | | | :white_check_mark: | | :white_check_mark: | ||Attack Detected|
+|[http://tools.app.waterschaplimburg.nl](http://tools.app.waterschaplimburg.nl)| | **D**|| | | | | | :white_check_mark: | | :white_check_mark: | ||Attack Detected|
+|[http://vergelijk-mijn-telefoon.waterschaplimburg.nl](http://vergelijk-mijn-telefoon.waterschaplimburg.nl)| | **D**|| | | | | | :white_check_mark: | | :white_check_mark: | ||Attack Detected|
+|[http://finanzas.waterschaplimburg.nl](http://finanzas.waterschaplimburg.nl)| | **D**|| | | | | | :white_check_mark: | | :white_check_mark: | ||Attack Detected|
+|[http://5b.waterschaplimburg.nl](http://5b.waterschaplimburg.nl)| | **D**|| | | | | | :white_check_mark: | | :white_check_mark: | ||Attack Detected|
+|[http://powertools.waterschaplimburg.nl](http://powertools.waterschaplimburg.nl)| | **D**|| | | | | | :white_check_mark: | | :white_check_mark: | ||Attack Detected|
+|[http://softik.waterschaplimburg.nl](http://softik.waterschaplimburg.nl)| | **D**|| | | | | | :white_check_mark: | | :white_check_mark: | ||Attack Detected|
+|[http://kanada.waterschaplimburg.nl](http://kanada.waterschaplimburg.nl)| | **D**|| | | | | | :white_check_mark: | | :white_check_mark: | ||Attack Detected|
+|[http://interactives.waterschaplimburg.nl](http://interactives.waterschaplimburg.nl)| | **D**|| | | | | | :white_check_mark: | | :white_check_mark: | ||Attack Detected|
+|[http://mordoviya.waterschaplimburg.nl](http://mordoviya.waterschaplimburg.nl)| | **D**|| | | | | | :white_check_mark: | | :white_check_mark: | ||Attack Detected|
+|[http://al4.waterschaplimburg.nl](http://al4.waterschaplimburg.nl)| | **D**|| | | | | | :white_check_mark: | | :white_check_mark: | ||Attack Detected|
+|[http://gezondheid-mannen.waterschaplimburg.nl](http://gezondheid-mannen.waterschaplimburg.nl)| | **D**|| | | | | | :white_check_mark: | | :white_check_mark: | ||Attack Detected|
+|[http://x-men.waterschaplimburg.nl](http://x-men.waterschaplimburg.nl)| | **D**|| | | | | | :white_check_mark: | | :white_check_mark: | ||Attack Detected|
+|[http://paddy.waterschaplimburg.nl](http://paddy.waterschaplimburg.nl)| | **D**|| | | | | | :white_check_mark: | | :white_check_mark: | ||Attack Detected|
+|[http://livelife.waterschaplimburg.nl](http://livelife.waterschaplimburg.nl)| | **D**|| | | | | | :white_check_mark: | | :white_check_mark: | ||Attack Detected|
+|[http://barsa.waterschaplimburg.nl](http://barsa.waterschaplimburg.nl)| | **D**|| | | | | | :white_check_mark: | | :white_check_mark: | ||Attack Detected|
+|[http://fhi.waterschaplimburg.nl](http://fhi.waterschaplimburg.nl)| | **D**|| | | | | | :white_check_mark: | | :white_check_mark: | ||Attack Detected|
+|[http://webmail.sec.waterschaplimburg.nl](http://webmail.sec.waterschaplimburg.nl)| | **D**|| | | | | | :white_check_mark: | | :white_check_mark: | ||Attack Detected|
+|[http://mailfilter1.waterschaplimburg.nl](http://mailfilter1.waterschaplimburg.nl)| | **D**|| | | | | | :white_check_mark: | | :white_check_mark: | ||Attack Detected|
+|[http://nazgul.waterschaplimburg.nl](http://nazgul.waterschaplimburg.nl)| | **D**|| | | | | | :white_check_mark: | | :white_check_mark: | ||Attack Detected|
+|[http://hccc.waterschaplimburg.nl](http://hccc.waterschaplimburg.nl)| | **D**|| | | | | | :white_check_mark: | | :white_check_mark: | ||Attack Detected|
+|[http://dmitrievka.waterschaplimburg.nl](http://dmitrievka.waterschaplimburg.nl)| | **D**|| | | | | | :white_check_mark: | | :white_check_mark: | ||Attack Detected|
+|[http://annem.waterschaplimburg.nl](http://annem.waterschaplimburg.nl)| | **D**|| | | | | | :white_check_mark: | | :white_check_mark: | ||Attack Detected|
+|[http://cloud.tc.waterschaplimburg.nl](http://cloud.tc.waterschaplimburg.nl)| | **D**|| | | | | | :white_check_mark: | | :white_check_mark: | ||Attack Detected|
+|[http://kona.waterschaplimburg.nl](http://kona.waterschaplimburg.nl)| | **D**|| | | | | | :white_check_mark: | | :white_check_mark: | ||Attack Detected|
+|[http://pavia.waterschaplimburg.nl](http://pavia.waterschaplimburg.nl)| | **D**|| | | | | | :white_check_mark: | | :white_check_mark: | ||Attack Detected|
+|[http://5elementfood.waterschaplimburg.nl](http://5elementfood.waterschaplimburg.nl)| | **D**|| | | | | | :white_check_mark: | | :white_check_mark: | ||Attack Detected|
+|[http://a35.waterschaplimburg.nl](http://a35.waterschaplimburg.nl)| | **D**|| | | | | | :white_check_mark: | | :white_check_mark: | ||Attack Detected|
+|[http://osb.waterschaplimburg.nl](http://osb.waterschaplimburg.nl)| | **D**|| | | | | | :white_check_mark: | | :white_check_mark: | ||Attack Detected|
+|[http://mikhail.waterschaplimburg.nl](http://mikhail.waterschaplimburg.nl)| | **D**|| | | | | | :white_check_mark: | | :white_check_mark: | ||Attack Detected|
+|[http://reservations.waterschaplimburg.nl](http://reservations.waterschaplimburg.nl)| | **D**|| | | | | | :white_check_mark: | | :white_check_mark: | ||Attack Detected|
+|[http://jct.waterschaplimburg.nl](http://jct.waterschaplimburg.nl)| | **D**|| | | | | | :white_check_mark: | | :white_check_mark: | ||Attack Detected|
+|[http://dnsmaster.waterschaplimburg.nl](http://dnsmaster.waterschaplimburg.nl)| | **D**|| | | | | | :white_check_mark: | | :white_check_mark: | ||Attack Detected|
+|[http://azora.waterschaplimburg.nl](http://azora.waterschaplimburg.nl)| | **D**|| | | | | | :white_check_mark: | | :white_check_mark: | ||Attack Detected|
+|[http://tv2.waterschaplimburg.nl](http://tv2.waterschaplimburg.nl)| | **D**|| | | | | | :white_check_mark: | | :white_check_mark: | ||Attack Detected|
+|[http://roeder.waterschaplimburg.nl](http://roeder.waterschaplimburg.nl)| | **D**|| | | | | | :white_check_mark: | | :white_check_mark: | ||Attack Detected|
+|[http://peppermint.waterschaplimburg.nl](http://peppermint.waterschaplimburg.nl)| | **D**|| | | | | | :white_check_mark: | | :white_check_mark: | ||Attack Detected|
+|[http://bolhov.waterschaplimburg.nl](http://bolhov.waterschaplimburg.nl)| | **D**|| | | | | | :white_check_mark: | | :white_check_mark: | ||Attack Detected|
+|[http://mebel.waterschaplimburg.nl](http://mebel.waterschaplimburg.nl)| | **D**|| | | | | | :white_check_mark: | | :white_check_mark: | ||Attack Detected|
 
