@@ -8,7 +8,7 @@ https://inloggen-preprod.waterschaplimburg.nl
 http://pdok.waterschaplimburg.nl
 https://wikixl-saml.acceptatie.waterschaplimburg.nl
 https://begrippen.waterschaplimburg.nl
-https://test-cms-eef.waterschaplimburg.nl
+http://test-cms-eef.waterschaplimburg.nl
 https://mail.waterschaplimburg.nl
 https://spapps.waterschaplimburg.nl
 https://cms-eef.waterschaplimburg.nl
@@ -29,6 +29,7 @@ https://digikoppeling.waterschaplimburg.nl
 https://metelkaar.waterschaplimburg.nl
 https://redactie.waterschaplimburg.nl
 https://www.waterschaplimburg.nl
+http://test-eef.waterschaplimburg.nl
 https://open.waterschaplimburg.nl
 http://zgw.waterschaplimburg.nl
 http://100www.waterschaplimburg.nl

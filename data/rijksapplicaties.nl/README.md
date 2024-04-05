@@ -12,7 +12,7 @@
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/rijksapplicaties.nl/subdomains.txt)|266|Alive subdomains|
-|[urls.txt](/data/rijksapplicaties.nl/urls.txt)|228|Urls|
+|[urls.txt](/data/rijksapplicaties.nl/urls.txt)|231|Urls|
 |[all_subdomains.txt](/data/rijksapplicaties.nl/all_subdomains.txt)|331|All found subdomains (history)|
 
 
@@ -249,4 +249,7 @@
 |[https://rvb-dfss.rijksapplicaties.nl](https://rvb-dfss.rijksapplicaties.nl)| | **C**|nginx|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS Nginx||
 |[https://monitor.rijksapplicaties.nl](https://monitor.rijksapplicaties.nl)| | **C**|nginx|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS Nginx||
 |[https://bda.rijksapplicaties.nl](https://bda.rijksapplicaties.nl)| | **E**|nginx| | | | |:warning: | | | :white_check_mark: | |Nginx||
+|[https://rvb-dtc-webservice.staging.rijksapplicaties.nl](https://rvb-dtc-webservice.staging.rijksapplicaties.nl)| | **C**|nginx|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS Nginx||
+|[https://app1.staging.rijksapplicaties.nl](https://app1.staging.rijksapplicaties.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx||
+|[https://monitor.staging.rijksapplicaties.nl](https://monitor.staging.rijksapplicaties.nl)| | **C**|nginx|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS Nginx||
 

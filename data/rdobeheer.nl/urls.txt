@@ -2,7 +2,6 @@ https://login.proeftuin.uzi-online.rdobeheer.nl
 https://login.pilot.uzi-online.acc.rdobeheer.nl
 https://acme.proeftuin.uzi-online.rdobeheer.nl
 http://login.pilot.proeftuin.uzi-online.rdobeheer.nl
-https://vpn.rdobeheer.nl
 http://helpdesk.acc.rdobeheer.nl
 https://helpdesk.rdobeheer.nl
 http://login-uzi.proeftuin.uzi-online.rdobeheer.nl
@@ -40,14 +39,14 @@ https://co.acc.dusi.rdobeheer.nl
 https://stagefonds.acc.dusi.rdobeheer.nl
 https://portalco.acc.dusi.rdobeheer.nl
 https://extern.acc.dusi.rdobeheer.nl
-https://web.test.dpr.rdobeheer.nl
+http://web.test.dpr.rdobeheer.nl
 https://webtooling.rdobeheer.nl
 https://stagefonds.test.dusi.rdobeheer.nl
 https://extern.test.dusi.rdobeheer.nl
 https://portal.test.dusi.rdobeheer.nl
 https://mailcatch.test.dusi.rdobeheer.nl
 https://portal2.test.dusi.rdobeheer.nl
-http://portalco.test.dusi.rdobeheer.nl
+https://portalco.test.dusi.rdobeheer.nl
 https://www2.test.dusi.rdobeheer.nl
 https://co.test.dusi.rdobeheer.nl
 https://www.test.dusi.rdobeheer.nl

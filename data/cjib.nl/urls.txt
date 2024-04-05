@@ -12,6 +12,7 @@ https://mail.cjib.nl
 https://pay.cjib.nl
 https://pay-acc.cjib.nl
 https://sfb.cjib.nl
+https://sfbsip.cjib.nl
 https://sfbweb.cjib.nl
 https://werken.cjib.nl
 https://www.cjib.nl

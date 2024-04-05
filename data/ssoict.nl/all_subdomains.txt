@@ -119,3 +119,4 @@ staging-1ntra-server1.ssoict.nl
 staging-1ntra-kiforms.ssoict.nl
 idmszw.ssoict.nl
 klasseburo.ssoict.nl
+productie.live.sociaalfonds.ssoict.nl

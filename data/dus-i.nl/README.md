@@ -13,7 +13,7 @@
 |------------|-------|------|
 |[subdomains.txt](/data/dus-i.nl/subdomains.txt)|16|Alive subdomains|
 |[urls.txt](/data/dus-i.nl/urls.txt)|13|Urls|
-|[all_subdomains.txt](/data/dus-i.nl/all_subdomains.txt)|37|All found subdomains (history)|
+|[all_subdomains.txt](/data/dus-i.nl/all_subdomains.txt)|38|All found subdomains (history)|
 
 
 ## Statistics

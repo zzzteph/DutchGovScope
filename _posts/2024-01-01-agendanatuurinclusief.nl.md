@@ -4,7 +4,7 @@ title: "agendanatuurinclusief.nl"
 permalink: "/dutchgov/agendanatuurinclusief.nl.html"
 subdomains_count: 4
 all_subdomains_count: 4
-urls_count: 3
+urls_count: 4
 ssl_rank: 
 http_rank: E
 security_txt: 1
@@ -28,7 +28,7 @@ tags: dutchgov
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/DutchGovScope/data/agendanatuurinclusief.nl/subdomains.txt)|4|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/agendanatuurinclusief.nl/urls.txt)|3|Urls|
+|[urls.txt](/DutchGovScope/data/agendanatuurinclusief.nl/urls.txt)|4|Urls|
 |[all_subdomains.txt](/DutchGovScope/data/agendanatuurinclusief.nl/all_subdomains.txt)|4|All found subdomains (history)|
 
 
@@ -40,4 +40,5 @@ tags: dutchgov
 |[https://agendanatuurinclusief.nl](https://agendanatuurinclusief.nl)| | **C**|Apache/2|:warning: |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server:2|302 Found|
 |[https://www.agendanatuurinclusief.nl](https://www.agendanatuurinclusief.nl)| | **F**|Apache/2| | | | | | | | :white_check_mark: | |Apache HTTP Server:2|302 Found|
 |[https://mail.agendanatuurinclusief.nl](https://mail.agendanatuurinclusief.nl)| | **F**|Apache/2| | | | | | | | :white_check_mark: | |Apache HTTP Server:2||
+|[https://hostmaster.agendanatuurinclusief.nl](https://hostmaster.agendanatuurinclusief.nl)| | **F**|Apache/2| | | | | | | | :white_check_mark: | |Apache HTTP Server:2||
 

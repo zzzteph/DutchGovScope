@@ -4,7 +4,7 @@ title: "provincie-utrecht.nl"
 permalink: "/dutchgov/provincie-utrecht.nl.html"
 subdomains_count: 113
 all_subdomains_count: 188
-urls_count: 92
+urls_count: 93
 ssl_rank: A-
 http_rank: C
 security_txt: 33
@@ -28,7 +28,7 @@ tags: dutchgov
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/DutchGovScope/data/provincie-utrecht.nl/subdomains.txt)|113|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/provincie-utrecht.nl/urls.txt)|92|Urls|
+|[urls.txt](/DutchGovScope/data/provincie-utrecht.nl/urls.txt)|93|Urls|
 |[all_subdomains.txt](/DutchGovScope/data/provincie-utrecht.nl/all_subdomains.txt)|188|All found subdomains (history)|
 
 
@@ -118,6 +118,7 @@ tags: dutchgov
 |[https://octopus-docs.provincie-utrecht.nl](https://octopus-docs.provincie-utrecht.nl)| **A**| **F**||:white_check_mark: | | | | | | | :white_check_mark: | |Azure Azure Front Door Microsoft ASP.NET||
 |[https://octopus.provincie-utrecht.nl](https://octopus.provincie-utrecht.nl)| **A+**| **A**||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Azure Azure Front Door Azure Monitor HSTS|Object moved|
 |[https://erfgoedexpertteam.provincie-utrecht.nl](https://erfgoedexpertteam.provincie-utrecht.nl)| **F**| **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|Website not conf...|
+|[https://monitoromgevingsbeleid.provincie-utrecht.nl](https://monitoromgevingsbeleid.provincie-utrecht.nl)| **A+**| **A**|Microsoft-IIS/10.0|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Amazon S3 Amazon Web Services Azure Edge Network HSTS IIS:10.0 Microsoft ASP.NET:4.0.30319 MyFonts Windows Server|Home - Monitor o...|
 |[https://omgevingsbeleid.provincie-utrecht.nl](https://omgevingsbeleid.provincie-utrecht.nl)| **A+**| **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://zsd.provincie-utrecht.nl](https://zsd.provincie-utrecht.nl)| **F**| **E**|| | | | | | | | :white_check_mark: | |HSTS Java||
 |[https://ib.provincie-utrecht.nl](https://ib.provincie-utrecht.nl)| **F**| **E**|| | | | | | | | :white_check_mark: | ||404 Not Found|

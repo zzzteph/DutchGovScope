@@ -22,6 +22,6 @@
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[https://acceptatie.topshuis.nl](https://acceptatie.topshuis.nl)| **A**| **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|Topshuis | Meeti...|
-|[https://www.topshuis.nl](https://www.topshuis.nl)| **A**| **F**|nginx| | | | | | | | :white_check_mark: | |Google Tag Manager MySQL Nginx PHP WordPress:6.4.3 Yoast SEO:22.2|Topshuis | Meeti...|
+|[https://www.topshuis.nl](https://www.topshuis.nl)| **A**| **F**|nginx| | | | | | | | :white_check_mark: | |Google Tag Manager MySQL Nginx PHP WordPress:6.5 Yoast SEO:22.4|Topshuis | Meeti...|
 |[https://topshuis.nl](https://topshuis.nl)| **A**| **F**|nginx| | | | | | | | :white_check_mark: | |Nginx||
 

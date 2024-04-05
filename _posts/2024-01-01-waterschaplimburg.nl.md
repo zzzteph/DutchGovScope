@@ -4,10 +4,10 @@ title: "waterschaplimburg.nl"
 permalink: "/dutchgov/waterschaplimburg.nl.html"
 subdomains_count: 671
 all_subdomains_count: 760
-urls_count: 563
+urls_count: 564
 ssl_rank: A
 http_rank: E
-security_txt: 216
+security_txt: 217
 url_link: /data/waterschaplimburg.nl/urls.txt
 all_subdomains_link: /data/waterschaplimburg.nl/all_subdomains.txt
 subdomains_link: /data/waterschaplimburg.nl/subdomains.txt
@@ -22,13 +22,13 @@ tags: dutchgov
 
  - **SSL Grade**:A
  - **HTTP Security Grade**:E
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:216
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:217
 
 
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/DutchGovScope/data/waterschaplimburg.nl/subdomains.txt)|671|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/waterschaplimburg.nl/urls.txt)|563|Urls|
+|[urls.txt](/DutchGovScope/data/waterschaplimburg.nl/urls.txt)|564|Urls|
 |[all_subdomains.txt](/DutchGovScope/data/waterschaplimburg.nl/all_subdomains.txt)|760|All found subdomains (history)|
 
 
@@ -47,7 +47,7 @@ tags: dutchgov
 |[http://pdok.waterschaplimburg.nl](http://pdok.waterschaplimburg.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
 |[https://wikixl-saml.acceptatie.waterschaplimburg.nl](https://wikixl-saml.acceptatie.waterschaplimburg.nl)| **A+**| **B**|Apache| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS|Redirect|
 |[https://begrippen.waterschaplimburg.nl](https://begrippen.waterschaplimburg.nl)| **A+**| **B**|Apache| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS||
-|[https://test-cms-eef.waterschaplimburg.nl](https://test-cms-eef.waterschaplimburg.nl)| **A+**| **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|403 - Forbidden:...|
+|[http://test-cms-eef.waterschaplimburg.nl](http://test-cms-eef.waterschaplimburg.nl)| **A+**| **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Document Moved|
 |[https://mail.waterschaplimburg.nl](https://mail.waterschaplimburg.nl)| **B**| **E**|Microsoft-IIS/8.5| | | | | | :white_check_mark: | | :white_check_mark: | |IIS:8.5 Windows Server||
 |[https://spapps.waterschaplimburg.nl](https://spapps.waterschaplimburg.nl)| **A**| **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|TransIP - Reserv...|
 |[https://cms-eef.waterschaplimburg.nl](https://cms-eef.waterschaplimburg.nl)| **A+**| **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|403 - Forbidden:...|
@@ -68,6 +68,7 @@ tags: dutchgov
 |[https://metelkaar.waterschaplimburg.nl](https://metelkaar.waterschaplimburg.nl)| **A+**| **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET|Object moved|
 |[https://redactie.waterschaplimburg.nl](https://redactie.waterschaplimburg.nl)| **A**| **A**|-|:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:-|Object moved|
 |[https://www.waterschaplimburg.nl](https://www.waterschaplimburg.nl)| **A**| **A**|-| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Google Tag Manager HSTS Microsoft ASP.NET:- MyFonts|Home - Waterscha...|
+|[http://test-eef.waterschaplimburg.nl](http://test-eef.waterschaplimburg.nl)| **A+**| **A**||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://open.waterschaplimburg.nl](https://open.waterschaplimburg.nl)| **A+**| **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Azure Azure Front Door HSTS Microsoft ASP.NET|Home - Waterscha...|
 |[http://zgw.waterschaplimburg.nl](http://zgw.waterschaplimburg.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
 |[http://100www.waterschaplimburg.nl](http://100www.waterschaplimburg.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|

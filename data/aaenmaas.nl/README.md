@@ -6,7 +6,7 @@
 
  - **SSL Grade**:A-
  - **HTTP Security Grade**:C
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:8
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:9
 
 
 | File       | Count | Info |
@@ -36,7 +36,7 @@
 |[https://testeloket.aaenmaas.nl](https://testeloket.aaenmaas.nl)| **A+**| **A**|unspecified|:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache Tomcat Fourthwall:1.0.194.059 Fourthwall:eloket_ui_main-2024.066.002 HSTS Java MariaDB Skolengo:1.0.194.059|Djuma portal|
 |[https://meet.aaenmaas.nl](https://meet.aaenmaas.nl)| **A+**| **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|Skype for Busine...|
 |[https://dialin.aaenmaas.nl](https://dialin.aaenmaas.nl)| **A+**| **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|Conferencing Dia...|
-|[https://eloket.aaenmaas.nl](https://eloket.aaenmaas.nl)| **A+**| **A**|unspecified|:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Onderhoud|
+|[https://eloket.aaenmaas.nl](https://eloket.aaenmaas.nl)| **A+**| **A**|unspecified|:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache Tomcat Fourthwall:1.0.194.059 Fourthwall:eloket_ui_main-2024.066.002 HSTS Java MariaDB Skolengo:1.0.194.059|Djuma portal|
 |[https://amira.aaenmaas.nl](https://amira.aaenmaas.nl)| | **A**||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |||
 |[https://geoportal.aaenmaas.nl](https://geoportal.aaenmaas.nl)| | **F**||:warning: | | | | | | | :white_check_mark: | |Microsoft ASP.NET|IIS Windows Serv...|
 |[https://gisservices.aaenmaas.nl](https://gisservices.aaenmaas.nl)| | **F**||:warning: | | | | | | | :white_check_mark: | |Microsoft ASP.NET|IIS Windows Serv...|

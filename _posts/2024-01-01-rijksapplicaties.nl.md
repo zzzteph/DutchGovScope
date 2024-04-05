@@ -4,7 +4,7 @@ title: "rijksapplicaties.nl"
 permalink: "/dutchgov/rijksapplicaties.nl.html"
 subdomains_count: 266
 all_subdomains_count: 331
-urls_count: 228
+urls_count: 231
 ssl_rank: A+
 http_rank: C
 security_txt: 0
@@ -28,7 +28,7 @@ tags: dutchgov
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/DutchGovScope/data/rijksapplicaties.nl/subdomains.txt)|266|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/rijksapplicaties.nl/urls.txt)|228|Urls|
+|[urls.txt](/DutchGovScope/data/rijksapplicaties.nl/urls.txt)|231|Urls|
 |[all_subdomains.txt](/DutchGovScope/data/rijksapplicaties.nl/all_subdomains.txt)|331|All found subdomains (history)|
 
 
@@ -265,4 +265,7 @@ tags: dutchgov
 |[https://rvb-dfss.rijksapplicaties.nl](https://rvb-dfss.rijksapplicaties.nl)| | **C**|nginx|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS Nginx||
 |[https://monitor.rijksapplicaties.nl](https://monitor.rijksapplicaties.nl)| | **C**|nginx|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS Nginx||
 |[https://bda.rijksapplicaties.nl](https://bda.rijksapplicaties.nl)| | **E**|nginx| | | | |:warning: | | | :white_check_mark: | |Nginx||
+|[https://rvb-dtc-webservice.staging.rijksapplicaties.nl](https://rvb-dtc-webservice.staging.rijksapplicaties.nl)| | **C**|nginx|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS Nginx||
+|[https://app1.staging.rijksapplicaties.nl](https://app1.staging.rijksapplicaties.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx||
+|[https://monitor.staging.rijksapplicaties.nl](https://monitor.staging.rijksapplicaties.nl)| | **C**|nginx|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS Nginx||
 

@@ -6,7 +6,7 @@
 
  - **SSL Grade**:A-
  - **HTTP Security Grade**:C
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:24
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:25
 
 
 | File       | Count | Info |
@@ -88,7 +88,7 @@
 |[https://monitorwonen.flevoland.nl](https://monitorwonen.flevoland.nl)| **A**| **F**|Microsoft-IIS/10.0| | | | | | | | :white_check_mark: | |IIS:10.0 React Windows Server|Planregistratie...|
 |[https://georegister.flevoland.nl](https://georegister.flevoland.nl)| **A+**| **A**|Apache|:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
 |[https://georegister-intern.flevoland.nl](https://georegister-intern.flevoland.nl)| **A+**| **A**|Apache|:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
-|[https://eloket.flevoland.nl](https://eloket.flevoland.nl)| **A+**| **A**|unspecified|:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Onderhoud|
+|[https://eloket.flevoland.nl](https://eloket.flevoland.nl)| **A+**| **A**|unspecified|:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache Tomcat Fourthwall:1.0.194.059 Fourthwall:eloket_ui_main-2024.066.002 HSTS Java MariaDB Skolengo:1.0.194.059|Djuma portal|
 |[https://testeloket.flevoland.nl](https://testeloket.flevoland.nl)| **A+**| **A**|unspecified|:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache Tomcat Fourthwall:1.0.194.059 Fourthwall:eloket_ui_main-2024.066.002 HSTS Java MariaDB Skolengo:1.0.194.059|Djuma portal|
 |[https://testmonitorwonen.flevoland.nl](https://testmonitorwonen.flevoland.nl)| **A**| **F**|Microsoft-IIS/10.0| | | | | | | | :white_check_mark: | |IIS:10.0 React Windows Server|Planregistratie...|
 |[http://pki.flevoland.nl](http://pki.flevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |||

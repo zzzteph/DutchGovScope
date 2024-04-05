@@ -4,7 +4,7 @@ title: "stopheling.nl"
 permalink: "/dutchgov/stopheling.nl.html"
 subdomains_count: 19
 all_subdomains_count: 32
-urls_count: 15
+urls_count: 17
 ssl_rank: A-
 http_rank: C
 security_txt: 7
@@ -28,7 +28,7 @@ tags: dutchgov
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/DutchGovScope/data/stopheling.nl/subdomains.txt)|19|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/stopheling.nl/urls.txt)|15|Urls|
+|[urls.txt](/DutchGovScope/data/stopheling.nl/urls.txt)|17|Urls|
 |[all_subdomains.txt](/DutchGovScope/data/stopheling.nl/all_subdomains.txt)|32|All found subdomains (history)|
 
 
@@ -52,4 +52,6 @@ tags: dutchgov
 |[https://accp.stopheling.nl](https://accp.stopheling.nl)| | **D**|Microsoft-IIS/10.0|:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | |Azure HSTS IIS:10.0 Microsoft ASP.NET Windows Server|Stop Heling | Ho...|
 |[https://ltu.stopheling.nl](https://ltu.stopheling.nl)| | **F**|nginx/1.18.0 (Ubuntu)| | | | | | | | :white_check_mark: | |Nginx:1.18.0 Ubuntu||
 |[https://test-bp.stopheling.nl](https://test-bp.stopheling.nl)| | **D**|Microsoft-IIS/10.0|:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | |Azure HSTS IIS:10.0 Windows Server|Previder.K9.Blaz...|
+|[https://ltu-admin.stopheling.nl](https://ltu-admin.stopheling.nl)| | **F**|nginx/1.18.0 (Ubuntu)| | | | | | | | :white_check_mark: | |Nginx:1.18.0 Ubuntu||
+|[https://ltu-api.stopheling.nl](https://ltu-api.stopheling.nl)| | **F**|nginx/1.18.0 (Ubuntu)| | | | | | | | :white_check_mark: | |Nginx:1.18.0 Ubuntu|Welcome to nginx...|
 

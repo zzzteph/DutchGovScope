@@ -21,7 +21,7 @@
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://app.brabant.nl](https://app.brabant.nl)| | **F**|LiteSpeed| | | | | | | | :white_check_mark: | |HTTP/3 LiteSpeed||
+|[https://app.brabant.nl](https://app.brabant.nl)| | **F**|LiteSpeed| | | | | | | | :white_check_mark: | |HTTP/3 LiteSpeed Microsoft Word: 14||
 |[https://aris.brabant.nl](https://aris.brabant.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bootstrap HSTS||
 |[https://autorisatie-preprod.brabant.nl](https://autorisatie-preprod.brabant.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
 |[https://autorisatie-prod.brabant.nl](https://autorisatie-prod.brabant.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
@@ -33,11 +33,11 @@
 |[https://beeldbank.brabant.nl](https://beeldbank.brabant.nl)| | **B**||:warning: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:4.0.30319|Homepage | Provi...|
 |[https://begroting.brabant.nl](https://begroting.brabant.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Azure HSTS Microsoft ASP.NET|P&C portaal Prov...|
 |[https://blogs.brabant.nl](https://blogs.brabant.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|This is the defa...|
-|[https://brabant.nl](https://brabant.nl)| | **B**|BigIP|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |F5 BigIP HSTS||
+|[https://brabant.nl](https://brabant.nl)| | **A**|BigIP|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |F5 BigIP HSTS||
 |[https://brabantnext.brabant.nl](https://brabantnext.brabant.nl)| | **A**|HYPE| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:hype||
 |[https://brains-acc.brabant.nl](https://brains-acc.brabant.nl)| | **B**|Apache|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS||
 |[https://brains.brabant.nl](https://brains.brabant.nl)| | **B**|Apache|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS||
-|[https://bzv-a.brabant.nl](https://bzv-a.brabant.nl)| | **C**|Microsoft-IIS/10.0|:warning: |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS IIS:10.0 Microsoft ASP.NET Windows Server||
+|[https://bzv-a.brabant.nl](https://bzv-a.brabant.nl)| | **C**|Microsoft-IIS/10.0|:warning: |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS IIS:10.0 Microsoft ASP.NET:4.0.30319 Windows Server||
 |[https://bzv.brabant.nl](https://bzv.brabant.nl)| | **C**|Microsoft-IIS/10.0|:warning: |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS IIS:10.0 Microsoft ASP.NET:4.0.30319 Windows Server||
 |[https://connect-with.brabant.nl](https://connect-with.brabant.nl)| | **B**|nginx| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS Nginx|Document Moved|
 |[https://ondertekenen.brabant.nl](https://ondertekenen.brabant.nl)| | **B**|nginx| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS Nginx||
@@ -51,7 +51,7 @@
 |[https://digicheck.brabant.nl](https://digicheck.brabant.nl)| | **C**||:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | |Google Tag Manager HSTS Microsoft ASP.NET|Login|
 |[https://esb-test.brabant.nl](https://esb-test.brabant.nl)| | **F**|BigIP| | | | | | | | :white_check_mark: | |F5 BigIP|The page cannot...|
 |[https://esb.brabant.nl](https://esb.brabant.nl)| | **F**|BigIP| | | | | | | | :white_check_mark: | |F5 BigIP|The page cannot...|
-|[https://formulieren.brabant.nl](https://formulieren.brabant.nl)| | **A**||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Object moved|
+|[https://formulieren.brabant.nl](https://formulieren.brabant.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Object moved|
 |[https://georegister.brabant.nl](https://georegister.brabant.nl)| | **A**|Apache|:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
 |[https://grondwaterstand.brabant.nl](https://grondwaterstand.brabant.nl)| | **B**|nginx/1.18.0 (Ubuntu)| |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | |HSTS Nginx:1.18.0 Ubuntu|301 Moved Perman...|
 |[https://id.brabant.nl](https://id.brabant.nl)| | **A**||:warning: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS|302 Found|
@@ -73,20 +73,20 @@
 |[https://wifi.brabant.nl](https://wifi.brabant.nl)| | **F**|cloudflare| | | | | | | | :white_check_mark: | |Cloudflare|403 Forbidden|
 |[https://www.wegen.brabant.nl](https://www.wegen.brabant.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Document Moved|
 |[https://draf.brabant.nl](https://draf.brabant.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|403 - Forbidden:...|
-|[https://samenwerken.brabant.nl](https://samenwerken.brabant.nl)| | **A**|BigIP|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |F5 BigIP||
+|[https://samenwerken.brabant.nl](https://samenwerken.brabant.nl)| | **B**|BigIP|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |F5 BigIP||
 |[http://atlas-acpt.brabant.nl](http://atlas-acpt.brabant.nl)| | **F**|BigIP| | | | | | | | :white_check_mark: | |F5 BigIP||
-|[https://huisstijl.brabant.nl](https://huisstijl.brabant.nl)| | **A**||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Google Tag Manager HSTS Microsoft ASP.NET|Home - Huisstijl...|
+|[https://huisstijl.brabant.nl](https://huisstijl.brabant.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Google Tag Manager HSTS Microsoft ASP.NET|Home - Huisstijl...|
 |[http://torenvalk.brabant.nl](http://torenvalk.brabant.nl)| | **F**|BigIP| | | | | | | | :white_check_mark: | |F5 BigIP||
 |[https://opendata.brabant.nl](https://opendata.brabant.nl)| | **A**|BigIP| |:white_check_mark: | | | :white_check_mark:| | | :white_check_mark: | |F5 BigIP||
-|[https://brainps.brabant.nl](https://brainps.brabant.nl)| | **A**||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Google Tag Manager HSTS Microsoft ASP.NET|Home BrainPS - B...|
+|[https://brainps.brabant.nl](https://brainps.brabant.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Google Tag Manager HSTS Microsoft ASP.NET|Home BrainPS - B...|
 |[http://detoekomstbegintnu.brabant.nl](http://detoekomstbegintnu.brabant.nl)| | **F**|Apache/2.4.58 (IUS) mod_fcgid/2.3.9| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.58|This site has be...|
-|[https://english.brabant.nl](https://english.brabant.nl)| | **A**||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Google Tag Manager HSTS Microsoft ASP.NET YouTube|Home - The Provi...|
+|[https://english.brabant.nl](https://english.brabant.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Google Tag Manager HSTS Microsoft ASP.NET YouTube|Home - The Provi...|
 |[https://specials.brabant.nl](https://specials.brabant.nl)| | **C**|Microsoft-HTTPAPI/2.0| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Microsoft HTTPAPI:2.0|Not Found|
 |[http://slechtvalk.brabant.nl](http://slechtvalk.brabant.nl)| | **F**|BigIP| | | | | | | | :white_check_mark: | |F5 BigIP||
 |[https://esb-acpt.brabant.nl](https://esb-acpt.brabant.nl)| | **F**|BigIP| | | | | | | | :white_check_mark: | |F5 BigIP|The page cannot...|
 |[https://longread.brabant.nl](https://longread.brabant.nl)| | **C**|Microsoft-HTTPAPI/2.0| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Microsoft HTTPAPI:2.0|Not Found|
 |[http://videoserver2.brabant.nl](http://videoserver2.brabant.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Index page|
-|[https://www.brabant.nl](https://www.brabant.nl)| | **A**||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Google Tag Manager HSTS Microsoft ASP.NET|Home Brabant.nl...|
+|[https://www.brabant.nl](https://www.brabant.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Google Tag Manager HSTS Microsoft ASP.NET|Home Brabant.nl...|
 |[https://api.brabant.nl](https://api.brabant.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|403 - Forbidden:...|
 |[https://mik-acpt.brabant.nl](https://mik-acpt.brabant.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|Page Redirection|
 |[http://informatie-rws.brabant.nl](http://informatie-rws.brabant.nl)| | **F**|BigIP| | | | | | | | :white_check_mark: | |F5 BigIP||

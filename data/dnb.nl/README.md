@@ -6,13 +6,13 @@
 
  - **SSL Grade**:A-
  - **HTTP Security Grade**:C
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:29
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:32
 
 
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/dnb.nl/subdomains.txt)|185|Alive subdomains|
-|[urls.txt](/data/dnb.nl/urls.txt)|112|Urls|
+|[urls.txt](/data/dnb.nl/urls.txt)|116|Urls|
 |[all_subdomains.txt](/data/dnb.nl/all_subdomains.txt)|291|All found subdomains (history)|
 
 
@@ -133,4 +133,8 @@
 |[https://rmdm-beheerapp-dev.azure.dnb.nl](https://rmdm-beheerapp-dev.azure.dnb.nl)| | **E**|| | | | | | | | :white_check_mark: | |Bootstrap:5.2.3|Azure Static Web...|
 |[https://rmdm-beheerapp-tst.azure.dnb.nl](https://rmdm-beheerapp-tst.azure.dnb.nl)| | **E**|| | | | | | | | :white_check_mark: | |Bootstrap:5.2.3|Azure Static Web...|
 |[https://screening-acc.dnb.nl](https://screening-acc.dnb.nl)| | **A**||:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |Azure Azure Front Door HSTS||
+|[https://tz-organisatiegegevens-acc.dnb.nl](https://tz-organisatiegegevens-acc.dnb.nl)| | **A**|| |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | |Azure Azure Front Door HSTS|Organisation Det...|
+|[https://tz-organisatiegegevens-tst.dnb.nl](https://tz-organisatiegegevens-tst.dnb.nl)| | **A**|| |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | |Azure Azure Front Door HSTS|Organisation Det...|
+|[https://tz-organisatiegegevens-dev.dnb.nl](https://tz-organisatiegegevens-dev.dnb.nl)| | **A**|| |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | |Azure Azure Front Door HSTS|Organisation Det...|
+|[https://tz-organisatiegegevens.dnb.nl](https://tz-organisatiegegevens.dnb.nl)| | **E**|| | | | | | | | :white_check_mark: | |Azure Azure Front Door|Page not found|
 

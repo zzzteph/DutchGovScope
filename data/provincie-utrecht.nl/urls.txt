@@ -79,6 +79,7 @@ https://octopus-acc.provincie-utrecht.nl
 https://octopus-docs.provincie-utrecht.nl
 https://octopus.provincie-utrecht.nl
 https://erfgoedexpertteam.provincie-utrecht.nl
+https://monitoromgevingsbeleid.provincie-utrecht.nl
 https://omgevingsbeleid.provincie-utrecht.nl
 https://zsd.provincie-utrecht.nl
 https://ib.provincie-utrecht.nl

@@ -12,7 +12,7 @@
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/ncsc.nl/subdomains.txt)|59|Alive subdomains|
-|[urls.txt](/data/ncsc.nl/urls.txt)|27|Urls|
+|[urls.txt](/data/ncsc.nl/urls.txt)|29|Urls|
 |[all_subdomains.txt](/data/ncsc.nl/all_subdomains.txt)|92|All found subdomains (history)|
 
 
@@ -48,4 +48,6 @@
 |[https://mijn.acc.ncsc.nl](https://mijn.acc.ncsc.nl)| | **D**|none|:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
 |[https://vulnerabilities.ncsc.nl](https://vulnerabilities.ncsc.nl)| **A+**| **A**|none| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS|Index of /|
 |[https://gitnmp.arp.ncsc.nl](https://gitnmp.arp.ncsc.nl)| **F**| **F**|none| | | | | | | | :white_check_mark: | |HSTS|403 Forbidden|
+|[https://registreren.ncsc.nl](https://registreren.ncsc.nl)| | **F**|none| | | | | | | | :white_check_mark: | |HSTS||
+|[https://melden.ncsc.nl](https://melden.ncsc.nl)| | **F**|none| | | | | | | | :white_check_mark: | |HSTS||
 

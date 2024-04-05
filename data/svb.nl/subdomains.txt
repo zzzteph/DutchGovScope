@@ -159,3 +159,4 @@ pre.svb.nl
 www-o.svb.nl
 www-s.svb.nl
 www-t.svb.nl
+canary-svb.svb.nl

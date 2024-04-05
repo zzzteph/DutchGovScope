@@ -22,3 +22,4 @@ https://xbrlonderwijsportaal.duo.nl
 https://xbrlonderwijsportaal-acp.duo.nl
 https://zakelijk.duo.nl
 https://duo.nl
+https://vt-zakelijk.duo.nl

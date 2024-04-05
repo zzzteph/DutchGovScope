@@ -13,7 +13,7 @@
 |------------|-------|------|
 |[subdomains.txt](/data/minaz.nl/subdomains.txt)|13|Alive subdomains|
 |[urls.txt](/data/minaz.nl/urls.txt)|6|Urls|
-|[all_subdomains.txt](/data/minaz.nl/all_subdomains.txt)|45|All found subdomains (history)|
+|[all_subdomains.txt](/data/minaz.nl/all_subdomains.txt)|46|All found subdomains (history)|
 
 
 ## Statistics

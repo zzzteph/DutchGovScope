@@ -101,3 +101,4 @@ https://lms-rotterdam.trainingscatalogus.nl
 https://svb-lms-a.scim-api.trainingscatalogus.nl
 https://vgz-lms-a.enrollment-api.trainingscatalogus.nl
 https://vgz-lms-a.scim-api.trainingscatalogus.nl
+https://vgz-lms-a.course-api.trainingscatalogus.nl

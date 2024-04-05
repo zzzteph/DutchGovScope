@@ -169,3 +169,6 @@ de.test.trainingscatalogus.nl
 backoffice.test.trainingscatalogus.nl
 www2.test.trainingscatalogus.nl
 wiki.test.trainingscatalogus.nl
+course-api.schiphol-lms.trainingscatalogus.nl
+enrollment-api.schiphol-lms.trainingscatalogus.nl
+scim-api.schiphol-lms.trainingscatalogus.nl

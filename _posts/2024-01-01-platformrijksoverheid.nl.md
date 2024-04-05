@@ -43,7 +43,7 @@ tags: dutchgov
 |[https://ps3.platformrijksoverheid.nl](https://ps3.platformrijksoverheid.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://opendata.platformrijksoverheid.nl](https://opendata.platformrijksoverheid.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|Niet gevonden|
 |[https://a-api.a-subscribe.platformrijksoverheid.nl](https://a-api.a-subscribe.platformrijksoverheid.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
-|[https://survey-metrics.platformrijksoverheid.nl](https://survey-metrics.platformrijksoverheid.nl)| | **F**|gunicorn| | | | | | | | :white_check_mark: | |HSTS Python gunicorn||
+|[https://survey-metrics.platformrijksoverheid.nl](https://survey-metrics.platformrijksoverheid.nl)| | **D**|gunicorn| |:white_check_mark: | :warning:| | | | | :white_check_mark: | |HSTS Python gunicorn||
 |[https://opendata3.platformrijksoverheid.nl](https://opendata3.platformrijksoverheid.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://opendata2.platformrijksoverheid.nl](https://opendata2.platformrijksoverheid.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://ps2.platformrijksoverheid.nl](https://ps2.platformrijksoverheid.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||

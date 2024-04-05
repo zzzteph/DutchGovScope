@@ -12,8 +12,8 @@
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/trainingscatalogus.nl/subdomains.txt)|154|Alive subdomains|
-|[urls.txt](/data/trainingscatalogus.nl/urls.txt)|103|Urls|
-|[all_subdomains.txt](/data/trainingscatalogus.nl/all_subdomains.txt)|171|All found subdomains (history)|
+|[urls.txt](/data/trainingscatalogus.nl/urls.txt)|104|Urls|
+|[all_subdomains.txt](/data/trainingscatalogus.nl/all_subdomains.txt)|174|All found subdomains (history)|
 
 
 ## Statistics
@@ -124,4 +124,5 @@
 |[https://svb-lms-a.scim-api.trainingscatalogus.nl](https://svb-lms-a.scim-api.trainingscatalogus.nl)| | **F**|Microsoft-IIS/10.0|:white_check_mark: | | | | | | | :white_check_mark: | |Azure IIS:10.0 Microsoft ASP.NET Windows Server||
 |[https://vgz-lms-a.enrollment-api.trainingscatalogus.nl](https://vgz-lms-a.enrollment-api.trainingscatalogus.nl)| | **F**|Microsoft-IIS/10.0|:white_check_mark: | | | | | | | :white_check_mark: | |Azure IIS:10.0 Microsoft ASP.NET Windows Server||
 |[https://vgz-lms-a.scim-api.trainingscatalogus.nl](https://vgz-lms-a.scim-api.trainingscatalogus.nl)| | **F**|Microsoft-IIS/10.0|:white_check_mark: | | | | | | | :white_check_mark: | |Azure IIS:10.0 Microsoft ASP.NET Windows Server||
+|[https://vgz-lms-a.course-api.trainingscatalogus.nl](https://vgz-lms-a.course-api.trainingscatalogus.nl)| | **F**|Microsoft-IIS/10.0|:white_check_mark: | | | | | | | :white_check_mark: | |Azure IIS:10.0 Microsoft ASP.NET Windows Server||
 

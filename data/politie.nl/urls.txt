@@ -7,7 +7,7 @@ https://evenementen.politie.nl
 https://www.acceptatie.politie.nl
 https://transferium.politie.nl
 https://transferium.gslb-trf.politie.nl
-https://api.politie.nl
+http://api.politie.nl
 https://tbo.politie.nl
 https://edison.politie.nl
 https://sso.politie.nl

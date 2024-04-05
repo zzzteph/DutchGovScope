@@ -1508,3 +1508,5 @@ vvm.pleio.nl
 appgate.pleio.nl
 alig.pleio.nl
 accportal.pleio.nl
+dgh-admin.pleio.nl
+dgh.pleio.nl

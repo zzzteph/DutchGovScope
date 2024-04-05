@@ -30,7 +30,7 @@
 |[https://www.acceptatie.politie.nl](https://www.acceptatie.politie.nl)| **A+**| **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Access Denied|
 |[https://transferium.politie.nl](https://transferium.politie.nl)| **A+**| **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS||
 |[https://transferium.gslb-trf.politie.nl](https://transferium.gslb-trf.politie.nl)| **F**| **E**|| | | | | | | | :white_check_mark: | |HSTS||
-|[https://api.politie.nl](https://api.politie.nl)| **A+**| **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Helaas is er een...|
+|[http://api.politie.nl](http://api.politie.nl)| **A+**| **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://tbo.politie.nl](https://tbo.politie.nl)| **F**| **E**|| | | | | | | | :white_check_mark: | |HSTS|<font color="red...|
 |[https://edison.politie.nl](https://edison.politie.nl)| **A+**| **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|404 Not Found|
 |[https://sso.politie.nl](https://sso.politie.nl)| **B**| **C**||:warning: |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |F5 BigIP HSTS||

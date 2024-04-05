@@ -38,7 +38,7 @@
 |[http://stagiairs.werkenvoornederland.nl](http://stagiairs.werkenvoornederland.nl)| | **A**||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |||
 |[http://webmail.werkenvoornederland.nl](http://webmail.werkenvoornederland.nl)| | **C**|ghs| | | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | ||301 Moved|
 |[https://www.werkenvoornederland.nl](https://www.werkenvoornederland.nl)| **A+**| **B**|cloudflare|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach Cloudflare Google Tag Manager HSTS|Ons land in jouw...|
-|[https://www-sandbox.werkenvoornederland.nl](https://www-sandbox.werkenvoornederland.nl)| **F**| **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server Basic HSTS|401 Unauthorized|
+|[https://www-sandbox.werkenvoornederland.nl](https://www-sandbox.werkenvoornederland.nl)| **F**| **E**|| | | | | | | | :white_check_mark: | |Apache HTTP Server Basic HSTS||
 |[https://werkenvoornederland.nl](https://werkenvoornederland.nl)| **A+**| **B**|cloudflare|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Cloudflare HSTS||
 |[https://sandbox.werkenvoornederland.nl](https://sandbox.werkenvoornederland.nl)| | **D**|cloudflare|:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | |Basic Cloudflare HSTS|Authentication R...|
 

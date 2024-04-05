@@ -10,5 +10,4 @@ https://preprodrev.emissieautoriteit.nl
 https://rev.emissieautoriteit.nl
 https://www.emissieautoriteit.nl
 https://emissieautoriteit.nl
-https://jpp.emissieautoriteit.nl
 https://preprodehp2.emissieautoriteit.nl

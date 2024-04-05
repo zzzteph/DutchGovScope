@@ -1,6 +1,6 @@
 https://balie.woo.irealisatie.nl
 https://helpdesk.acc.irealisatie.nl
-https://login.irealisatie.nl
+http://login.irealisatie.nl
 https://stats.irealisatie.nl
 https://vpn.irealisatie.nl
 https://static.test.dpr.irealisatie.nl
@@ -28,3 +28,5 @@ https://dva.test.mgo.irealisatie.nl
 https://lo-ad.test.mgo.irealisatie.nl
 https://static.acc.dpr.irealisatie.nl
 https://storage.test.mgo.irealisatie.nl
+http://acme.proeftuin.uzi-online.irealisatie.nl
+http://test.mgo.irealisatie.nl

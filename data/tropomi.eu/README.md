@@ -5,7 +5,7 @@
 
 
  - **SSL Grade**:A
- - **HTTP Security Grade**:C
+ - **HTTP Security Grade**:B
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:15
 
 
@@ -23,22 +23,22 @@
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[https://tropomi.eu](https://tropomi.eu)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
 |[https://mpc-vdaf-server.tropomi.eu](https://mpc-vdaf-server.tropomi.eu)| **A+**| **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Nginx|S5P Validation S...|
-|[https://mps.tropomi.eu](https://mps.tropomi.eu)| **A+**| **C**|Apache| |:white_check_mark: | :warning:| | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS||
-|[https://mps5.tropomi.eu](https://mps5.tropomi.eu)| **A+**| **C**|Apache| |:white_check_mark: | :warning:| | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS||
-|[https://mps4.tropomi.eu](https://mps4.tropomi.eu)| **A+**| **C**|Apache| |:white_check_mark: | :warning:| | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS||
+|[https://mps.tropomi.eu](https://mps.tropomi.eu)| **A+**| **B**|Apache| |:white_check_mark: | :warning:| | :white_check_mark:| | | :white_check_mark: | |Apache HTTP Server HSTS||
+|[https://mps5.tropomi.eu](https://mps5.tropomi.eu)| **A+**| **B**|Apache| |:white_check_mark: | :warning:| | :white_check_mark:| | | :white_check_mark: | |Apache HTTP Server HSTS||
+|[https://mps4.tropomi.eu](https://mps4.tropomi.eu)| **A+**| **B**|Apache| |:white_check_mark: | :warning:| | :white_check_mark:| | | :white_check_mark: | |Apache HTTP Server HSTS||
 |[https://idaf.tropomi.eu](https://idaf.tropomi.eu)| **F**| **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS||
-|[https://mps2.tropomi.eu](https://mps2.tropomi.eu)| **A+**| **C**|Apache| |:white_check_mark: | :warning:| | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS||
-|[https://mps8.tropomi.eu](https://mps8.tropomi.eu)| **A+**| **C**|Apache| |:white_check_mark: | :warning:| | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS||
-|[https://surf.tropomi.eu](https://surf.tropomi.eu)| **A+**| **B**|Apache| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS||
-|[https://mpc-l2.tropomi.eu](https://mpc-l2.tropomi.eu)| **A+**| **B**|Apache| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server Bootstrap HSTS|S5P MPC L2 QC Po...|
-|[https://mps0.tropomi.eu](https://mps0.tropomi.eu)| **A+**| **C**|Apache| |:white_check_mark: | :warning:| | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS||
-|[https://mps3.tropomi.eu](https://mps3.tropomi.eu)| **A+**| **C**|Apache| |:white_check_mark: | :warning:| | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS||
-|[https://mps6.tropomi.eu](https://mps6.tropomi.eu)| **A+**| **C**|Apache| |:white_check_mark: | :warning:| | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS||
+|[https://mps2.tropomi.eu](https://mps2.tropomi.eu)| **A+**| **B**|Apache| |:white_check_mark: | :warning:| | :white_check_mark:| | | :white_check_mark: | |Apache HTTP Server HSTS||
+|[https://mps8.tropomi.eu](https://mps8.tropomi.eu)| **A+**| **B**|Apache| |:white_check_mark: | :warning:| | :white_check_mark:| | | :white_check_mark: | |Apache HTTP Server HSTS||
+|[https://surf.tropomi.eu](https://surf.tropomi.eu)| **A+**| **A**|Apache| |:white_check_mark: | | | :white_check_mark:| | | :white_check_mark: | |Apache HTTP Server HSTS||
+|[https://mpc-l2.tropomi.eu](https://mpc-l2.tropomi.eu)| **A+**| **A**|Apache| |:white_check_mark: | | | :white_check_mark:| | | :white_check_mark: | |Apache HTTP Server Bootstrap HSTS|S5P MPC L2 QC Po...|
+|[https://mps0.tropomi.eu](https://mps0.tropomi.eu)| **A+**| **B**|Apache| |:white_check_mark: | :warning:| | :white_check_mark:| | | :white_check_mark: | |Apache HTTP Server HSTS||
+|[https://mps3.tropomi.eu](https://mps3.tropomi.eu)| **A+**| **B**|Apache| |:white_check_mark: | :warning:| | :white_check_mark:| | | :white_check_mark: | |Apache HTTP Server HSTS||
+|[https://mps6.tropomi.eu](https://mps6.tropomi.eu)| **A+**| **B**|Apache| |:white_check_mark: | :warning:| | :white_check_mark:| | | :white_check_mark: | |Apache HTTP Server HSTS||
 |[https://feeds.tropomi.eu](https://feeds.tropomi.eu)| **A+**| **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://www.tropomi.eu](https://www.tropomi.eu)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|TROPOMI Observin...|
-|[https://mps1.tropomi.eu](https://mps1.tropomi.eu)| **A+**| **C**|Apache| |:white_check_mark: | :warning:| | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS||
+|[https://mps1.tropomi.eu](https://mps1.tropomi.eu)| **A+**| **B**|Apache| |:white_check_mark: | :warning:| | :white_check_mark:| | | :white_check_mark: | |Apache HTTP Server HSTS||
 |[https://opendata.tropomi.eu](https://opendata.tropomi.eu)| **A+**| **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
-|[https://mps7.tropomi.eu](https://mps7.tropomi.eu)| **A+**| **C**|Apache| |:white_check_mark: | :warning:| | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS||
+|[https://mps7.tropomi.eu](https://mps7.tropomi.eu)| **A+**| **B**|Apache| |:white_check_mark: | :warning:| | :white_check_mark:| | | :white_check_mark: | |Apache HTTP Server HSTS||
 |[https://mps9.tropomi.eu](https://mps9.tropomi.eu)| **A**| **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|503 Service Unav...|
 |[https://mpc-vdaf.tropomi.eu](https://mpc-vdaf.tropomi.eu)| **A+**| **C**|Apache|:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | |Apache HTTP Server HSTS Joomla PHP|s5p-mpc-vdaf - H...|
 

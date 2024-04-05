@@ -1512,3 +1512,5 @@ accportal.pleio.nl
 dgh-admin.pleio.nl
 dgh.pleio.nl
 lev.pleio.nl
+moodle3.pleio.nl
+shared-hosting.pleio.nl

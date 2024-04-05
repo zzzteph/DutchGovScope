@@ -110,3 +110,7 @@ https://sftp.dnb.nl
 https://rmdm-beheerapp-dev.azure.dnb.nl
 https://rmdm-beheerapp-tst.azure.dnb.nl
 https://screening-acc.dnb.nl
+https://tz-organisatiegegevens-acc.dnb.nl
+https://tz-organisatiegegevens-tst.dnb.nl
+https://tz-organisatiegegevens-dev.dnb.nl
+https://tz-organisatiegegevens.dnb.nl

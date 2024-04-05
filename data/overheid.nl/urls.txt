@@ -272,7 +272,7 @@ http://www.pki.overheid.nl
 https://beta2-prod-data.overheid.nl
 https://overheid.nl
 https://import-acc.organisaties.overheid.nl
-http://ebms.contentbeheer.acc.omgevingswet.overheid.nl
+https://ebms.contentbeheer.acc.omgevingswet.overheid.nl
 https://data-acc.overheid.nl
 https://besluitpreviewservice-eto.overheid.nl
 https://besluitpreviewservice.overheid.nl

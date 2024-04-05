@@ -3,5 +3,4 @@ https://magazines.platformrijksoverheidonline.nl
 https://opendata.platformrijksoverheidonline.nl
 https://www.platformrijksoverheidonline.nl
 https://platformrijksoverheidonline.nl
-http://handleiding.platformrijksoverheidonline.nl
 https://api.abonneren.platformrijksoverheidonline.nl

@@ -272,3 +272,4 @@ https://api.acc-lsp.rivm.nl
 https://acc-lsp.rivm.nl
 https://teebstad-app.rivm.nl
 http://stikstofdepositiedata.rivm.nl
+https://ggdiamdemo.rivm.nl

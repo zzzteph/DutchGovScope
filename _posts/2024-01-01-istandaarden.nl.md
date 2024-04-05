@@ -38,7 +38,7 @@ tags: dutchgov
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[https://acceptatie.istandaarden.nl](https://acceptatie.istandaarden.nl)| **A**| **B**|istio-envoy|:white_check_mark: |:white_check_mark: | | |:warning: | | :white_check_mark: | :white_check_mark: | |||
-|[https://informatiemodel.istandaarden.nl](https://informatiemodel.istandaarden.nl)| **A+**| **F**|nginx/1.14.0 (Ubuntu)| | | | | | | | :white_check_mark: | |HSTS Nginx:1.14.0 Ubuntu||
+|[https://informatiemodel.istandaarden.nl](https://informatiemodel.istandaarden.nl)| **A+**| **F**|nginx/1.18.0 (Ubuntu)| | | | | | | | :white_check_mark: | |HSTS Nginx:1.18.0 Ubuntu||
 |[https://modules.istandaarden.nl](https://modules.istandaarden.nl)| **A**| **B**|istio-envoy|:white_check_mark: |:white_check_mark: | | |:warning: | | :white_check_mark: | :white_check_mark: | |||
 |[https://proto.istandaarden.nl](https://proto.istandaarden.nl)| **A**| **F**|GitHub.com| | | :warning:| | | | | :white_check_mark: | |Fastly GitHub Pages Varnish|Home|
 |[https://registry.istandaarden.nl](https://registry.istandaarden.nl)| **A**| **F**|istio-envoy| | | | | | | | :white_check_mark: | |Envoy||

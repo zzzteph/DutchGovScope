@@ -6,13 +6,13 @@
 
  - **SSL Grade**:A-
  - **HTTP Security Grade**:A
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:13
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:14
 
 
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/duo.nl/subdomains.txt)|73|Alive subdomains|
-|[urls.txt](/data/duo.nl/urls.txt)|24|Urls|
+|[urls.txt](/data/duo.nl/urls.txt)|25|Urls|
 |[all_subdomains.txt](/data/duo.nl/all_subdomains.txt)|199|All found subdomains (history)|
 
 
@@ -45,4 +45,5 @@
 |[https://xbrlonderwijsportaal-acp.duo.nl](https://xbrlonderwijsportaal-acp.duo.nl)| **A+**| **A**|istio-envoy| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Amazon Web Services Envoy HSTS|Serviceportaal|
 |[https://zakelijk.duo.nl](https://zakelijk.duo.nl)| **A+**| **A**||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Inloggen op Mijn...|
 |[https://duo.nl](https://duo.nl)| **A+**| **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Amazon S3 Amazon Web Services HSTS Java||
+|[https://vt-zakelijk.duo.nl](https://vt-zakelijk.duo.nl)| | **A**||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Inloggen op Mijn...|
 

@@ -15,6 +15,6 @@ https://dioxins-totalteq-hen.apps.feedfoodtransfer.nl
 https://dev.apps.feedfoodtransfer.nl
 https://mail.apps.feedfoodtransfer.nl
 https://uat.apps.feedfoodtransfer.nl
-https://staging.apps.feedfoodtransfer.nl
 https://api.apps.feedfoodtransfer.nl
 https://admin.apps.feedfoodtransfer.nl
+https://us.apps.feedfoodtransfer.nl

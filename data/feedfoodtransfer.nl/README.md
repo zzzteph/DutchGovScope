@@ -38,7 +38,7 @@
 |[https://dev.apps.feedfoodtransfer.nl](https://dev.apps.feedfoodtransfer.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |||
 |[https://mail.apps.feedfoodtransfer.nl](https://mail.apps.feedfoodtransfer.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |||
 |[https://uat.apps.feedfoodtransfer.nl](https://uat.apps.feedfoodtransfer.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |||
-|[https://staging.apps.feedfoodtransfer.nl](https://staging.apps.feedfoodtransfer.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |||
 |[https://api.apps.feedfoodtransfer.nl](https://api.apps.feedfoodtransfer.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |||
 |[https://admin.apps.feedfoodtransfer.nl](https://admin.apps.feedfoodtransfer.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |||
+|[https://us.apps.feedfoodtransfer.nl](https://us.apps.feedfoodtransfer.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |||
 

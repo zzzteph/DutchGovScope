@@ -6,13 +6,13 @@
 
  - **SSL Grade**:C
  - **HTTP Security Grade**:D
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:6
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:8
 
 
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/odc-noord.nl/subdomains.txt)|144|Alive subdomains|
-|[urls.txt](/data/odc-noord.nl/urls.txt)|96|Urls|
+|[urls.txt](/data/odc-noord.nl/urls.txt)|97|Urls|
 |[all_subdomains.txt](/data/odc-noord.nl/all_subdomains.txt)|249|All found subdomains (history)|
 
 
@@ -53,8 +53,8 @@
 |[https://iucn-prd.topdesk.odc-noord.nl](https://iucn-prd.topdesk.odc-noord.nl)| **B**| **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Login|
 |[http://ivho-acc.confluence.odc-noord.nl](http://ivho-acc.confluence.odc-noord.nl)| **B**| **E**|| | | | | | | | :white_check_mark: | |Atlassian Confluence HSTS Java||
 |[http://ivho-acc.jira.odc-noord.nl](http://ivho-acc.jira.odc-noord.nl)| **B**| **E**|| | | | | | | | :white_check_mark: | |HSTS||
-|[http://ivho-prd.confluence.odc-noord.nl](http://ivho-prd.confluence.odc-noord.nl)| **B**| **E**|| | | | | | | | :white_check_mark: | |Atlassian Confluence HSTS Java||
-|[http://ivho-prd.jira.odc-noord.nl](http://ivho-prd.jira.odc-noord.nl)| **B**| **E**|| | | | | | | | :white_check_mark: | |HSTS Java||
+|[https://ivho-prd.confluence.odc-noord.nl](https://ivho-prd.confluence.odc-noord.nl)| **B**| **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Atlassian Confluence HSTS Java||
+|[https://ivho-prd.jira.odc-noord.nl](https://ivho-prd.jira.odc-noord.nl)| **B**| **A**||:warning: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Java||
 |[https://ivho-staf-acc.topdesk.odc-noord.nl](https://ivho-staf-acc.topdesk.odc-noord.nl)| **B**| **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|Login|
 |[https://ivho-staf-prd.topdesk.odc-noord.nl](https://ivho-staf-prd.topdesk.odc-noord.nl)| **B**| **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Login|
 |[https://login.odc-noord.nl](https://login.odc-noord.nl)| | **A**||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
@@ -113,6 +113,7 @@
 |[https://vpn.gn2.koop-pp.odc-noord.nl](https://vpn.gn2.koop-pp.odc-noord.nl)| | **F**|OpenVPN-AS| | | | | | | | :white_check_mark: | |||
 |[https://odc-noord.nl](https://odc-noord.nl)| **A+**| **C**|Apache| |:white_check_mark: | | | | | | :white_check_mark: | |Apache HTTP Server HSTS||
 |[https://vpn.ocw.odc-noord.nl](https://vpn.ocw.odc-noord.nl)| | **F**|OpenVPN-AS| | | | | | | | :white_check_mark: | |||
+|[https://vpn.gn3.koop-a.odc-noord.nl](https://vpn.gn3.koop-a.odc-noord.nl)| | **F**|OpenVPN-AS| | | | | | | | :white_check_mark: | |||
 |[https://iaas-portal-gn3.odc-noord.nl](https://iaas-portal-gn3.odc-noord.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |AngularJS HSTS||
 |[https://paas-portal-gn3.odc-noord.nl](https://paas-portal-gn3.odc-noord.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |AngularJS HSTS||
 |[https://vpn.gn2.acc.odc-noord.nl](https://vpn.gn2.acc.odc-noord.nl)| | **F**|OpenVPN-AS| | | | | | | | :white_check_mark: | |||

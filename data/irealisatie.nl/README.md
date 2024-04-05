@@ -12,7 +12,7 @@
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/irealisatie.nl/subdomains.txt)|34|Alive subdomains|
-|[urls.txt](/data/irealisatie.nl/urls.txt)|30|Urls|
+|[urls.txt](/data/irealisatie.nl/urls.txt)|32|Urls|
 |[all_subdomains.txt](/data/irealisatie.nl/all_subdomains.txt)|35|All found subdomains (history)|
 
 
@@ -23,10 +23,10 @@
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[https://balie.woo.irealisatie.nl](https://balie.woo.irealisatie.nl)| | **B**|Apache| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server Basic HSTS|401 Unauthorized|
 |[https://helpdesk.acc.irealisatie.nl](https://helpdesk.acc.irealisatie.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS||
-|[https://login.irealisatie.nl](https://login.irealisatie.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS|Welcome to Keycl...|
-|[https://stats.irealisatie.nl](https://stats.irealisatie.nl)| | **C**|nginx|:white_check_mark: |:white_check_mark: | :warning:| |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS Nginx|Matomo › Error|
+|[http://login.irealisatie.nl](http://login.irealisatie.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||
+|[https://stats.irealisatie.nl](https://stats.irealisatie.nl)| | **C**|nginx|:white_check_mark: |:white_check_mark: | :warning:| |:warning: | :white_check_mark: | | :white_check_mark: | |AngularJS HSTS Matomo Analytics Nginx|Sign in - Matomo|
 |[https://vpn.irealisatie.nl](https://vpn.irealisatie.nl)| | **A**|Apache| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS||
-|[https://static.test.dpr.irealisatie.nl](https://static.test.dpr.irealisatie.nl)| | **B**|Apache| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS Hugo:0.121.1|Verwerkingsregis...|
+|[https://static.test.dpr.irealisatie.nl](https://static.test.dpr.irealisatie.nl)| | **B**|Apache| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS Hugo:0.124.1|Verwerkingsregis...|
 |[https://web.test.dpr.irealisatie.nl](https://web.test.dpr.irealisatie.nl)| | **B**|Apache| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server Basic HSTS|401 Unauthorized|
 |[https://helpdesk.irealisatie.nl](https://helpdesk.irealisatie.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Ruby Ruby on Rails|iRealisatie Help...|
 |[https://www.irealisatie.nl](https://www.irealisatie.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS|iRealisatie  - W...|
@@ -51,4 +51,6 @@
 |[https://lo-ad.test.mgo.irealisatie.nl](https://lo-ad.test.mgo.irealisatie.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS||
 |[https://static.acc.dpr.irealisatie.nl](https://static.acc.dpr.irealisatie.nl)| | **B**|Apache| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS Hugo:0.124.1|Verwerkingsregis...|
 |[https://storage.test.mgo.irealisatie.nl](https://storage.test.mgo.irealisatie.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS||
+|[http://acme.proeftuin.uzi-online.irealisatie.nl](http://acme.proeftuin.uzi-online.irealisatie.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
+|[http://test.mgo.irealisatie.nl](http://test.mgo.irealisatie.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 

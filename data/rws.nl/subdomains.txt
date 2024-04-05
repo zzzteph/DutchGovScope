@@ -248,3 +248,5 @@ status.gridacc.rws.nl
 www.gridacc.rws.nl
 acc-werkplek.gw01-gslb.rws.nl
 dmz-fcd-acc-data-raw-validator.vm-04.azure.grid.rws.nl
+traefik-dashboard.dmz.vm-04.azure.grid.rws.nl
+mip-proxy-acc.rws.nl

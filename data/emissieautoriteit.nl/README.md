@@ -12,8 +12,8 @@
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/emissieautoriteit.nl/subdomains.txt)|26|Alive subdomains|
-|[urls.txt](/data/emissieautoriteit.nl/urls.txt)|14|Urls|
-|[all_subdomains.txt](/data/emissieautoriteit.nl/all_subdomains.txt)|38|All found subdomains (history)|
+|[urls.txt](/data/emissieautoriteit.nl/urls.txt)|13|Urls|
+|[all_subdomains.txt](/data/emissieautoriteit.nl/all_subdomains.txt)|39|All found subdomains (history)|
 
 
 ## Statistics
@@ -33,6 +33,5 @@
 |[https://rev.emissieautoriteit.nl](https://rev.emissieautoriteit.nl)| **B**| **F**|nginx| | | | | | | | :white_check_mark: | |HSTS Nginx|Mendix|
 |[https://www.emissieautoriteit.nl](https://www.emissieautoriteit.nl)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Home | Nederland...|
 |[https://emissieautoriteit.nl](https://emissieautoriteit.nl)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
-|[https://jpp.emissieautoriteit.nl](https://jpp.emissieautoriteit.nl)| | **F**|Apache/2.4.52 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.52 Ubuntu|ownCloud|
 |[https://preprodehp2.emissieautoriteit.nl](https://preprodehp2.emissieautoriteit.nl)| | **A**|nginx| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|Emissiehandel Po...|
 
