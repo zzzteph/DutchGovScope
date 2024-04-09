@@ -4,9 +4,9 @@ title: "one-conference.nl"
 permalink: "/dutchgov/one-conference.nl.html"
 subdomains_count: 25
 all_subdomains_count: 26
-urls_count: 15
+urls_count: 25
 ssl_rank: D
-http_rank: C
+http_rank: D
 security_txt: 3
 url_link: /data/one-conference.nl/urls.txt
 all_subdomains_link: /data/one-conference.nl/all_subdomains.txt
@@ -21,14 +21,14 @@ tags: dutchgov
 
 
  - **SSL Grade**:D
- - **HTTP Security Grade**:C
+ - **HTTP Security Grade**:D
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:3
 
 
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/DutchGovScope/data/one-conference.nl/subdomains.txt)|25|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/one-conference.nl/urls.txt)|15|Urls|
+|[urls.txt](/DutchGovScope/data/one-conference.nl/urls.txt)|25|Urls|
 |[all_subdomains.txt](/DutchGovScope/data/one-conference.nl/all_subdomains.txt)|26|All found subdomains (history)|
 
 
@@ -52,4 +52,14 @@ tags: dutchgov
 |[https://aanmelder.one-conference.nl](https://aanmelder.one-conference.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|404 Not Found|
 |[http://autodiscover.one-conference.nl](http://autodiscover.one-conference.nl)| | **B**|Microsoft-IIS/10.0|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server||
 |[https://dev.registration.one-conference.nl](https://dev.registration.one-conference.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|Momice|
+|[https://freesim.one-conference.nl](https://freesim.one-conference.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS||
+|[https://ka.one-conference.nl](https://ka.one-conference.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS||
+|[https://1bestpub.one-conference.nl](https://1bestpub.one-conference.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS||
+|[https://nostromo.one-conference.nl](https://nostromo.one-conference.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS||
+|[https://admin-dev.one-conference.nl](https://admin-dev.one-conference.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS||
+|[https://cxzy.one-conference.nl](https://cxzy.one-conference.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS||
+|[https://avtomir.one-conference.nl](https://avtomir.one-conference.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS||
+|[https://adultshop.one-conference.nl](https://adultshop.one-conference.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS||
+|[https://kieran.one-conference.nl](https://kieran.one-conference.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS||
+|[https://70.one-conference.nl](https://70.one-conference.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS||
 

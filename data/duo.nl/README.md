@@ -4,15 +4,15 @@
 ## Summary data
 
 
- - **SSL Grade**:A-
+ - **SSL Grade**:A+
  - **HTTP Security Grade**:A
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:14
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/duo.nl/subdomains.txt)|73|Alive subdomains|
-|[urls.txt](/data/duo.nl/urls.txt)|25|Urls|
+|[subdomains.txt](/data/duo.nl/subdomains.txt)|71|Alive subdomains|
+|[urls.txt](/data/duo.nl/urls.txt)|23|Urls|
 |[all_subdomains.txt](/data/duo.nl/all_subdomains.txt)|199|All found subdomains (history)|
 
 
@@ -21,7 +21,6 @@
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://2bron.duo.nl](https://2bron.duo.nl)| **F**| **E**|| | | | | | | | :white_check_mark: | |||
 |[https://apps.duo.nl](https://apps.duo.nl)| **A+**| **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|apps.duo.nl|
 |[https://cijfers.duo.nl](https://cijfers.duo.nl)| **A+**| **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|403 - Forbidden:...|
 |[https://data.duo.nl](https://data.duo.nl)| **A+**| **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |||
@@ -37,7 +36,6 @@
 |[https://rio-kennisbank.duo.nl](https://rio-kennisbank.duo.nl)| **A+**| **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Google Tag Manager HSTS Java|Kennisbank|
 |[https://staging.duo.nl](https://staging.duo.nl)| **A+**| **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Amazon S3 Amazon Web Services HSTS Java||
 |[https://uag.duo.nl](https://uag.duo.nl)| **A+**| **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Java|VMware Horizon|
-|[https://vt-2bron.duo.nl](https://vt-2bron.duo.nl)| **F**| **E**|| | | | | | | | :white_check_mark: | |||
 |[https://vt-personenregisterkinderopvang.duo.nl](https://vt-personenregisterkinderopvang.duo.nl)| **A+**| **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Personenregister...|
 |[https://werkplek.duo.nl](https://werkplek.duo.nl)| **A+**| **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Java|VMware Horizon|
 |[https://www.duo.nl](https://www.duo.nl)| **A+**| **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Amazon S3 Amazon Web Services HSTS Java||

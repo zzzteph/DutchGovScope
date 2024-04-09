@@ -35,7 +35,7 @@
 |[https://test-api.stopheling.nl](https://test-api.stopheling.nl)| **A**| **F**|Microsoft-IIS/10.0|:white_check_mark: | | | | | | | :white_check_mark: | |Azure IIS:10.0 Microsoft ASP.NET Windows Server||
 |[https://accp.stopheling.nl](https://accp.stopheling.nl)| | **D**|Microsoft-IIS/10.0|:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | |Azure HSTS IIS:10.0 Microsoft ASP.NET Windows Server|Stop Heling | Ho...|
 |[https://ltu.stopheling.nl](https://ltu.stopheling.nl)| | **F**|nginx/1.18.0 (Ubuntu)| | | | | | | | :white_check_mark: | |Nginx:1.18.0 Ubuntu||
-|[https://test-bp.stopheling.nl](https://test-bp.stopheling.nl)| | **D**|Microsoft-IIS/10.0|:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | |Azure HSTS IIS:10.0 Windows Server|Previder.K9.Blaz...|
+|[https://test-bp.stopheling.nl](https://test-bp.stopheling.nl)| | **D**|Microsoft-IIS/10.0|:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | |Azure HSTS IIS:10.0 Windows Server|Bedrijvenportaal...|
 |[https://ltu-admin.stopheling.nl](https://ltu-admin.stopheling.nl)| | **F**|nginx/1.18.0 (Ubuntu)| | | | | | | | :white_check_mark: | |Nginx:1.18.0 Ubuntu||
 |[https://ltu-api.stopheling.nl](https://ltu-api.stopheling.nl)| | **F**|nginx/1.18.0 (Ubuntu)| | | | | | | | :white_check_mark: | |Nginx:1.18.0 Ubuntu|Welcome to nginx...|
 

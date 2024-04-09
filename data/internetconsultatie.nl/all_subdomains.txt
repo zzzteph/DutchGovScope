@@ -7,3 +7,4 @@ cma-acc.internetconsultatie.nl
 sip.internetconsultatie.nl
 www.cma-acc.internetconsultatie.nl
 acc.internetconsultatie.nl
+www.cma.internetconsultatie.nl

@@ -3,7 +3,7 @@ layout: default
 title: "internetconsultatie.nl"
 permalink: "/dutchgov/internetconsultatie.nl.html"
 subdomains_count: 7
-all_subdomains_count: 9
+all_subdomains_count: 10
 urls_count: 4
 ssl_rank: B+
 http_rank: A
@@ -29,7 +29,7 @@ tags: dutchgov
 |------------|-------|------|
 |[subdomains.txt](/DutchGovScope/data/internetconsultatie.nl/subdomains.txt)|7|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/internetconsultatie.nl/urls.txt)|4|Urls|
-|[all_subdomains.txt](/DutchGovScope/data/internetconsultatie.nl/all_subdomains.txt)|9|All found subdomains (history)|
+|[all_subdomains.txt](/DutchGovScope/data/internetconsultatie.nl/all_subdomains.txt)|10|All found subdomains (history)|
 
 
 ## Statistics

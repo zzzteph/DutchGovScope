@@ -54,3 +54,6 @@ kibana.test.rechtwijzer.nl
 ftp.test.rechtwijzer.nl
 rest.test.rechtwijzer.nl
 burgerloket.test.rechtwijzer.nl
+api2.test.rechtwijzer.nl
+autoconfig.test.rechtwijzer.nl
+origin.test.rechtwijzer.nl

@@ -282,14 +282,12 @@ demohermans.huygens.knaw.nl
 gesantheiligenlands.huygens.knaw.nl
 huygens.knaw.nl
 inventaris.huygens.knaw.nl
-serrure.mvn.huygens.knaw.nl
 charriere.huygens.knaw.nl
 ckcc.huygens.knaw.nl
 clusiuscorrespondence2.huygens.knaw.nl
 interedition.huygens.knaw.nl
 margarethaklooster.huygens.knaw.nl
 meertenspanel.meertens.knaw.nl
-mvn.huygens.knaw.nl
 www.imlc.huygens.knaw.nl
 aanwezigheidsbord.huc.knaw.nl
 abbesteegh.huygens.knaw.nl
@@ -312,7 +310,6 @@ database.dutch-caribbean.huygens.knaw.nl
 demo.repository.huygens.knaw.nl
 test2.marginalia.huygens.knaw.nl
 xml.huygens.knaw.nl
-test.mvn.huygens.knaw.nl
 acc.alexandria.huygens.knaw.nl
 acc.repository.huygens.knaw.nl
 alexandria.huygens.knaw.nl
@@ -505,7 +502,6 @@ archieven.meertens.knaw.nl
 cdn.huygens.knaw.nl
 nvb.meertens.knaw.nl
 data.globalise.huygens.knaw.nl
-edities.mvn.huygens.knaw.nl
 momfer.meertens.knaw.nl
 odb.huc.knaw.nl
 www.momfer.meertens.knaw.nl
@@ -558,14 +554,12 @@ dynamics.huygens.knaw.nl
 francodevrije.huygens.knaw.nl
 hattem.huygens.knaw.nl
 digitalforensics.huygens.knaw.nl
-hbsr.mvn.huygens.knaw.nl
 historiagotthorum.huygens.knaw.nl
 literariteit2.huygens.knaw.nl
 rembrandtdocuments.huygens.knaw.nl
 romanvanwalewein.huygens.knaw.nl
 vertrokken-nederlands.meertens.knaw.nl
 brieven-correspondenten-1900.huygens.knaw.nl
-bs.mvn.huygens.knaw.nl
 fanny.huygens.knaw.nl
 literaryquality.huygens.knaw.nl
 www.huc.knaw.nl
@@ -578,7 +572,6 @@ wp-08.dev.huc.knaw.nl
 brieven-prudens-van-duyse.huygens.knaw.nl
 brievenhermans.huygens.knaw.nl
 dwc.huygens.knaw.nl
-freckenhorst.mvn.huygens.knaw.nl
 huc.knaw.nl
 lancelotmss.huygens.knaw.nl
 lime.meertens.knaw.nl
@@ -587,7 +580,6 @@ beheerd-bureau.knaw.nl
 behi192.huygens.knaw.nl
 hi19.huygens.knaw.nl
 respons.meertens.knaw.nl
-vds.mvn.huygens.knaw.nl
 voornamen.meertens.knaw.nl
 beta.huc.knaw.nl
 dubbeltje.meertens.knaw.nl
@@ -639,9 +631,7 @@ nidi.idp.knaw.nl
 citrix.knaw.nl
 cloud.knaw.nl
 ckan.nioo.knaw.nl
-clarin11.dans.knaw.nl
 dariah-beta.dans.knaw.nl
-clarin31.dans.knaw.nl
 cmdi2rdf.meertens.knaw.nl
 cpd.bureau.knaw.nl
 fotoarchief.bureau.knaw.nl
@@ -1165,8 +1155,6 @@ taoracleoem21.knaw.nl
 taoraclesso31.knaw.nl
 tar31.dans.knaw.nl
 tdd31.dans.knaw.nl
-tclarin11.dans.knaw.nl
-tclarin31.dans.knaw.nl
 tddn.dans.knaw.nl
 tdvnl.dans.knaw.nl
 tdvnl31.dans.knaw.nl
@@ -1213,7 +1201,6 @@ videoconf02.knaw.nl
 view.herseninstituut.knaw.nl
 view.nin.knaw.nl
 vpn.knaw.nl
-vsoi11.dans.knaw.nl
 vsoi.dans.knaw.nl
 web01.knaw.nl
 web02.huygens.knaw.nl

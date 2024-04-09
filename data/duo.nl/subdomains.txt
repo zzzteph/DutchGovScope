@@ -1,4 +1,3 @@
-2bron.duo.nl
 apps.duo.nl
 cijfers.duo.nl
 data.duo.nl
@@ -14,7 +13,6 @@ personenregisterkinderopvang.duo.nl
 rio-kennisbank.duo.nl
 staging.duo.nl
 uag.duo.nl
-vt-2bron.duo.nl
 vt-personenregisterkinderopvang.duo.nl
 werkplek.duo.nl
 www.duo.nl

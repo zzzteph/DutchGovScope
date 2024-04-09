@@ -3,4 +3,6 @@ www-ac.zorgcijfersdatabank.nl
 proto.zorgcijfersdatabank.nl
 zorgcijfersdatabank.nl
 www-ow.zorgcijfersdatabank.nl
+www-dev.zorgcijfersdatabank.nl
+www-tst.zorgcijfersdatabank.nl
 www-ts.zorgcijfersdatabank.nl

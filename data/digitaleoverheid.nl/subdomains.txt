@@ -1,5 +1,3 @@
 accept.digitaleoverheid.nl
-magazine-nl.digitaleoverheid.nl
 www.digitaleoverheid.nl
 digitaleoverheid.nl
-magazine-en.digitaleoverheid.nl

@@ -2,12 +2,12 @@
 layout: default
 title: "feedfoodtransfer.nl"
 permalink: "/dutchgov/feedfoodtransfer.nl.html"
-subdomains_count: 22
+subdomains_count: 24
 all_subdomains_count: 26
-urls_count: 20
+urls_count: 21
 ssl_rank: A+
 http_rank: A
-security_txt: 10
+security_txt: 11
 url_link: /data/feedfoodtransfer.nl/urls.txt
 all_subdomains_link: /data/feedfoodtransfer.nl/all_subdomains.txt
 subdomains_link: /data/feedfoodtransfer.nl/subdomains.txt
@@ -22,13 +22,13 @@ tags: dutchgov
 
  - **SSL Grade**:A+
  - **HTTP Security Grade**:A
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:10
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:11
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/feedfoodtransfer.nl/subdomains.txt)|22|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/feedfoodtransfer.nl/urls.txt)|20|Urls|
+|[subdomains.txt](/DutchGovScope/data/feedfoodtransfer.nl/subdomains.txt)|24|Alive subdomains|
+|[urls.txt](/DutchGovScope/data/feedfoodtransfer.nl/urls.txt)|21|Urls|
 |[all_subdomains.txt](/DutchGovScope/data/feedfoodtransfer.nl/all_subdomains.txt)|26|All found subdomains (history)|
 
 
@@ -57,4 +57,5 @@ tags: dutchgov
 |[https://api.apps.feedfoodtransfer.nl](https://api.apps.feedfoodtransfer.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |||
 |[https://admin.apps.feedfoodtransfer.nl](https://admin.apps.feedfoodtransfer.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |||
 |[https://us.apps.feedfoodtransfer.nl](https://us.apps.feedfoodtransfer.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |||
+|[https://blog.apps.feedfoodtransfer.nl](https://blog.apps.feedfoodtransfer.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |||
 

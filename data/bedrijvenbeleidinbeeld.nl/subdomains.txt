@@ -8,3 +8,4 @@ a-opendata.bedrijvenbeleidinbeeld.nl
 i-www.bedrijvenbeleidinbeeld.nl
 o-www.bedrijvenbeleidinbeeld.nl
 t-www.bedrijvenbeleidinbeeld.nl
+ondernemingsklimaat.bedrijvenbeleidinbeeld.nl

@@ -2,12 +2,12 @@
 layout: default
 title: "kanselarij.nl"
 permalink: "/dutchgov/kanselarij.nl.html"
-subdomains_count: 6
+subdomains_count: 11
 all_subdomains_count: 12
-urls_count: 0
+urls_count: 2
 ssl_rank: 
-http_rank: F
-security_txt: 0
+http_rank: C
+security_txt: 1
 url_link: /data/kanselarij.nl/urls.txt
 all_subdomains_link: /data/kanselarij.nl/all_subdomains.txt
 subdomains_link: /data/kanselarij.nl/subdomains.txt
@@ -21,14 +21,14 @@ tags: dutchgov
 
 
  - **SSL Grade**:
- - **HTTP Security Grade**:F
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:0
+ - **HTTP Security Grade**:C
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:1
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/kanselarij.nl/subdomains.txt)|6|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/kanselarij.nl/urls.txt)|0|Urls|
+|[subdomains.txt](/DutchGovScope/data/kanselarij.nl/subdomains.txt)|11|Alive subdomains|
+|[urls.txt](/DutchGovScope/data/kanselarij.nl/urls.txt)|2|Urls|
 |[all_subdomains.txt](/DutchGovScope/data/kanselarij.nl/all_subdomains.txt)|12|All found subdomains (history)|
 
 
@@ -37,4 +37,6 @@ tags: dutchgov
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
+|[https://kanselarij.nl](https://kanselarij.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
+|[https://www.kanselarij.nl](https://www.kanselarij.nl)| | **A**|Microsoft-HTTPAPI/2.0| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
 

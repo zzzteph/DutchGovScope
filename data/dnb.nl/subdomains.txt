@@ -112,8 +112,6 @@ acceptatie.toezicht.dnb.nl
 cbs-dnb.dnb.nl
 cbs-dnba.dnb.nl
 cs2a.dnb.nl
-delfi.dnb.nl
-delfispoorboekjes.dnb.nl
 dp-dnb.dnb.nl
 dp-dnba.dnb.nl
 guest.dnb.nl

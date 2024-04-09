@@ -106,3 +106,4 @@ store.staging.waarzitwatin.nl
 it.staging.waarzitwatin.nl
 data.staging.waarzitwatin.nl
 origin.staging.waarzitwatin.nl
+es.staging.waarzitwatin.nl

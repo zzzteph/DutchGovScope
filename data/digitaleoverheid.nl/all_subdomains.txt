@@ -6,3 +6,4 @@ www.magazine-en.digitaleoverheid.nl
 www.magazine-nl.digitaleoverheid.nl
 visieopidentiteit.digitaleoverheid.nl
 magazine-en.digitaleoverheid.nl
+test.digitaleoverheid.nl

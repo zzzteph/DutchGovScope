@@ -11,8 +11,8 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/bodemrichtlijn.nl/subdomains.txt)|1496|Alive subdomains|
-|[urls.txt](/data/bodemrichtlijn.nl/urls.txt)|1442|Urls|
+|[subdomains.txt](/data/bodemrichtlijn.nl/subdomains.txt)|1494|Alive subdomains|
+|[urls.txt](/data/bodemrichtlijn.nl/urls.txt)|1440|Urls|
 |[all_subdomains.txt](/data/bodemrichtlijn.nl/all_subdomains.txt)|1575|All found subdomains (history)|
 
 
@@ -217,7 +217,6 @@
 |[https://momondo.bodemrichtlijn.nl](https://momondo.bodemrichtlijn.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Microsoft Azure...|
 |[https://res5.email-services.bodemrichtlijn.nl](https://res5.email-services.bodemrichtlijn.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Microsoft Azure...|
 |[https://onlinemarketingseo.bodemrichtlijn.nl](https://onlinemarketingseo.bodemrichtlijn.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Microsoft Azure...|
-|[https://cust50.bodemrichtlijn.nl](https://cust50.bodemrichtlijn.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Microsoft Azure...|
 |[https://nep.bodemrichtlijn.nl](https://nep.bodemrichtlijn.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Microsoft Azure...|
 |[https://cs256.bodemrichtlijn.nl](https://cs256.bodemrichtlijn.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Microsoft Azure...|
 |[https://gamezone.bodemrichtlijn.nl](https://gamezone.bodemrichtlijn.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Microsoft Azure...|
@@ -227,7 +226,6 @@
 |[https://salaris.bodemrichtlijn.nl](https://salaris.bodemrichtlijn.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Microsoft Azure...|
 |[https://natascha.bodemrichtlijn.nl](https://natascha.bodemrichtlijn.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Microsoft Azure...|
 |[https://northernlights.bodemrichtlijn.nl](https://northernlights.bodemrichtlijn.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Microsoft Azure...|
-|[https://web5282.bodemrichtlijn.nl](https://web5282.bodemrichtlijn.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Microsoft Azure...|
 |[https://saab.bodemrichtlijn.nl](https://saab.bodemrichtlijn.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Microsoft Azure...|
 |[https://stoppenmetroken.bodemrichtlijn.nl](https://stoppenmetroken.bodemrichtlijn.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Microsoft Azure...|
 |[https://mtc.bodemrichtlijn.nl](https://mtc.bodemrichtlijn.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Microsoft Azure...|

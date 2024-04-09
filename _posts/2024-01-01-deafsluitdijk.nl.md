@@ -2,9 +2,9 @@
 layout: default
 title: "deafsluitdijk.nl"
 permalink: "/dutchgov/deafsluitdijk.nl.html"
-subdomains_count: 105
-all_subdomains_count: 124
-urls_count: 103
+subdomains_count: 124
+all_subdomains_count: 127
+urls_count: 104
 ssl_rank: D
 http_rank: F
 security_txt: 0
@@ -27,9 +27,9 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/deafsluitdijk.nl/subdomains.txt)|105|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/deafsluitdijk.nl/urls.txt)|103|Urls|
-|[all_subdomains.txt](/DutchGovScope/data/deafsluitdijk.nl/all_subdomains.txt)|124|All found subdomains (history)|
+|[subdomains.txt](/DutchGovScope/data/deafsluitdijk.nl/subdomains.txt)|124|Alive subdomains|
+|[urls.txt](/DutchGovScope/data/deafsluitdijk.nl/urls.txt)|104|Urls|
+|[all_subdomains.txt](/DutchGovScope/data/deafsluitdijk.nl/all_subdomains.txt)|127|All found subdomains (history)|
 
 
 ## Statistics
@@ -140,4 +140,5 @@ tags: dutchgov
 |[https://aksen.deafsluitdijk.nl](https://aksen.deafsluitdijk.nl)| | **F**|openresty| | | | | | | | :white_check_mark: | |HSTS Nginx OpenResty|Welcome|
 |[https://balloon.deafsluitdijk.nl](https://balloon.deafsluitdijk.nl)| | **F**|openresty| | | | | | | | :white_check_mark: | |HSTS Nginx OpenResty|Welcome|
 |[https://vps109.deafsluitdijk.nl](https://vps109.deafsluitdijk.nl)| | **F**|openresty| | | | | | | | :white_check_mark: | |HSTS Nginx OpenResty|Welcome|
+|[https://web3794.deafsluitdijk.nl](https://web3794.deafsluitdijk.nl)| | **F**|openresty| | | | | | | | :white_check_mark: | |HSTS Nginx OpenResty|Welcome|
 

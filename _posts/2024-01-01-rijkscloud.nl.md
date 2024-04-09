@@ -2,8 +2,8 @@
 layout: default
 title: "rijkscloud.nl"
 permalink: "/dutchgov/rijkscloud.nl.html"
-subdomains_count: 545
-all_subdomains_count: 739
+subdomains_count: 546
+all_subdomains_count: 741
 urls_count: 142
 ssl_rank: A+
 http_rank: B
@@ -27,9 +27,9 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/rijkscloud.nl/subdomains.txt)|545|Alive subdomains|
+|[subdomains.txt](/DutchGovScope/data/rijkscloud.nl/subdomains.txt)|546|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/rijkscloud.nl/urls.txt)|142|Urls|
-|[all_subdomains.txt](/DutchGovScope/data/rijkscloud.nl/all_subdomains.txt)|739|All found subdomains (history)|
+|[all_subdomains.txt](/DutchGovScope/data/rijkscloud.nl/all_subdomains.txt)|741|All found subdomains (history)|
 
 
 ## Statistics

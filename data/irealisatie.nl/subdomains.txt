@@ -32,3 +32,4 @@ static.acc.dpr.irealisatie.nl
 storage.test.mgo.irealisatie.nl
 acme.proeftuin.uzi-online.irealisatie.nl
 test.mgo.irealisatie.nl
+app-api.test.mgo.irealisatie.nl

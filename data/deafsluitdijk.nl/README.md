@@ -11,9 +11,9 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/deafsluitdijk.nl/subdomains.txt)|105|Alive subdomains|
-|[urls.txt](/data/deafsluitdijk.nl/urls.txt)|103|Urls|
-|[all_subdomains.txt](/data/deafsluitdijk.nl/all_subdomains.txt)|124|All found subdomains (history)|
+|[subdomains.txt](/data/deafsluitdijk.nl/subdomains.txt)|124|Alive subdomains|
+|[urls.txt](/data/deafsluitdijk.nl/urls.txt)|104|Urls|
+|[all_subdomains.txt](/data/deafsluitdijk.nl/all_subdomains.txt)|127|All found subdomains (history)|
 
 
 ## Statistics
@@ -124,4 +124,5 @@
 |[https://aksen.deafsluitdijk.nl](https://aksen.deafsluitdijk.nl)| | **F**|openresty| | | | | | | | :white_check_mark: | |HSTS Nginx OpenResty|Welcome|
 |[https://balloon.deafsluitdijk.nl](https://balloon.deafsluitdijk.nl)| | **F**|openresty| | | | | | | | :white_check_mark: | |HSTS Nginx OpenResty|Welcome|
 |[https://vps109.deafsluitdijk.nl](https://vps109.deafsluitdijk.nl)| | **F**|openresty| | | | | | | | :white_check_mark: | |HSTS Nginx OpenResty|Welcome|
+|[https://web3794.deafsluitdijk.nl](https://web3794.deafsluitdijk.nl)| | **F**|openresty| | | | | | | | :white_check_mark: | |HSTS Nginx OpenResty|Welcome|
 

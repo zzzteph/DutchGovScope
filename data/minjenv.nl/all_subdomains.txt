@@ -1,0 +1,15 @@
+aanbodmodel-tst.coa.minjenv.nl
+acc.jubes.minjenv.nl
+enterpriseenrollment.dji.minjenv.nl
+enterpriseenrollment.dtv.minjenv.nl
+enterpriseregistration.dtv.minjenv.nl
+mail1.minjenv.nl
+mail2.minjenv.nl
+minjenv.nl
+www.minjenv.nl
+mx2.minjenv.nl
+mx3.minjenv.nl
+mx4.minjenv.nl
+mx5.minjenv.nl
+mx6.minjenv.nl
+vc.dji.minjenv.nl

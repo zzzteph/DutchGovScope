@@ -12,7 +12,7 @@
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/nvwa.nl/subdomains.txt)|55|Alive subdomains|
-|[urls.txt](/data/nvwa.nl/urls.txt)|37|Urls|
+|[urls.txt](/data/nvwa.nl/urls.txt)|38|Urls|
 |[all_subdomains.txt](/data/nvwa.nl/all_subdomains.txt)|74|All found subdomains (history)|
 
 
@@ -58,4 +58,5 @@
 |[https://nvwa.nl](https://nvwa.nl)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
 |[https://e-certnl-sch.nvwa.nl](https://e-certnl-sch.nvwa.nl)| **A+**| **C**||:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|403 Forbidden|
 |[https://labvantage-acc.nvwa.nl](https://labvantage-acc.nvwa.nl)| **A+**| **E**|| | | | | | | | :white_check_mark: | |HSTS|Error 404--Not F...|
+|[https://labvantage.nvwa.nl](https://labvantage.nvwa.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS|Error 404--Not F...|
 

@@ -12,7 +12,7 @@
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/odmh.nl/subdomains.txt)|57|Alive subdomains|
-|[urls.txt](/data/odmh.nl/urls.txt)|38|Urls|
+|[urls.txt](/data/odmh.nl/urls.txt)|39|Urls|
 |[all_subdomains.txt](/data/odmh.nl/all_subdomains.txt)|75|All found subdomains (history)|
 
 
@@ -59,4 +59,5 @@
 |[https://geoportaal.odmh.nl](https://geoportaal.odmh.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|403 Forbidden|
 |[https://mobielwerken.odmh.nl](https://mobielwerken.odmh.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server Microsoft ASP.NET|500 - Internal s...|
 |[https://rdweb.odmh.nl](https://rdweb.odmh.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|IIS Windows Serv...|
+|[https://media.odmh.nl](https://media.odmh.nl)| | **E**|| | | | | | | | :white_check_mark: | |Azure Azure Front Door||
 

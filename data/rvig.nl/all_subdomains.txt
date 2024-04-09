@@ -63,3 +63,6 @@ mail2.rvig.nl
 lap.rvp.reis.idm.rvig.nl
 prod.intranet.rvig.nl
 acc2.intranet.rvig.nl
+lap.rvp.reis.npr.idm.rvig.nl
+lap.api.reis.idm.rvig.nl
+app-portal.npr.idm.rvig.nl

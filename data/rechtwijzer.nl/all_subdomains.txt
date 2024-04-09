@@ -75,3 +75,4 @@ api2.test.rechtwijzer.nl
 autoconfig.test.rechtwijzer.nl
 squit2020.test.rechtwijzer.nl
 origin.test.rechtwijzer.nl
+cpanel.test.rechtwijzer.nl

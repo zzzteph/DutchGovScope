@@ -11,7 +11,7 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/knaw.nl/subdomains.txt)|1376|Alive subdomains|
+|[subdomains.txt](/data/knaw.nl/subdomains.txt)|1363|Alive subdomains|
 |[urls.txt](/data/knaw.nl/urls.txt)|776|Urls|
 |[all_subdomains.txt](/data/knaw.nl/all_subdomains.txt)|1837|All found subdomains (history)|
 

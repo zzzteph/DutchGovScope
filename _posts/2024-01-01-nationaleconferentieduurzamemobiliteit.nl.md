@@ -2,7 +2,7 @@
 layout: default
 title: "nationaleconferentieduurzamemobiliteit.nl"
 permalink: "/dutchgov/nationaleconferentieduurzamemobiliteit.nl.html"
-subdomains_count: 4
+subdomains_count: 0
 all_subdomains_count: 11
 urls_count: 0
 ssl_rank: 
@@ -27,7 +27,7 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/nationaleconferentieduurzamemobiliteit.nl/subdomains.txt)|4|Alive subdomains|
+|[subdomains.txt](/DutchGovScope/data/nationaleconferentieduurzamemobiliteit.nl/subdomains.txt)|0|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/nationaleconferentieduurzamemobiliteit.nl/urls.txt)|0|Urls|
 |[all_subdomains.txt](/DutchGovScope/data/nationaleconferentieduurzamemobiliteit.nl/all_subdomains.txt)|11|All found subdomains (history)|
 

@@ -6,13 +6,13 @@
 
  - **SSL Grade**:A+
  - **HTTP Security Grade**:A
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:10
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:11
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/feedfoodtransfer.nl/subdomains.txt)|22|Alive subdomains|
-|[urls.txt](/data/feedfoodtransfer.nl/urls.txt)|20|Urls|
+|[subdomains.txt](/data/feedfoodtransfer.nl/subdomains.txt)|24|Alive subdomains|
+|[urls.txt](/data/feedfoodtransfer.nl/urls.txt)|21|Urls|
 |[all_subdomains.txt](/data/feedfoodtransfer.nl/all_subdomains.txt)|26|All found subdomains (history)|
 
 
@@ -41,4 +41,5 @@
 |[https://api.apps.feedfoodtransfer.nl](https://api.apps.feedfoodtransfer.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |||
 |[https://admin.apps.feedfoodtransfer.nl](https://admin.apps.feedfoodtransfer.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |||
 |[https://us.apps.feedfoodtransfer.nl](https://us.apps.feedfoodtransfer.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |||
+|[https://blog.apps.feedfoodtransfer.nl](https://blog.apps.feedfoodtransfer.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |||
 

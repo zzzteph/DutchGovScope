@@ -36,3 +36,4 @@ https://wifi.odmh.nl
 https://geoportaal.odmh.nl
 https://mobielwerken.odmh.nl
 https://rdweb.odmh.nl
+https://media.odmh.nl

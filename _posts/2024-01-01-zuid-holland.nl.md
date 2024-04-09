@@ -3,7 +3,7 @@ layout: default
 title: "zuid-holland.nl"
 permalink: "/dutchgov/zuid-holland.nl.html"
 subdomains_count: 76
-all_subdomains_count: 138
+all_subdomains_count: 139
 urls_count: 72
 ssl_rank: A
 http_rank: B
@@ -29,7 +29,7 @@ tags: dutchgov
 |------------|-------|------|
 |[subdomains.txt](/DutchGovScope/data/zuid-holland.nl/subdomains.txt)|76|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/zuid-holland.nl/urls.txt)|72|Urls|
-|[all_subdomains.txt](/DutchGovScope/data/zuid-holland.nl/all_subdomains.txt)|138|All found subdomains (history)|
+|[all_subdomains.txt](/DutchGovScope/data/zuid-holland.nl/all_subdomains.txt)|139|All found subdomains (history)|
 
 
 ## Statistics

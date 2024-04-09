@@ -2,12 +2,12 @@
 layout: default
 title: "tweedekamer.nl"
 permalink: "/dutchgov/tweedekamer.nl.html"
-subdomains_count: 178
+subdomains_count: 180
 all_subdomains_count: 279
-urls_count: 121
+urls_count: 122
 ssl_rank: A-
 http_rank: C
-security_txt: 73
+security_txt: 74
 url_link: /data/tweedekamer.nl/urls.txt
 all_subdomains_link: /data/tweedekamer.nl/all_subdomains.txt
 subdomains_link: /data/tweedekamer.nl/subdomains.txt
@@ -22,13 +22,13 @@ tags: dutchgov
 
  - **SSL Grade**:A-
  - **HTTP Security Grade**:C
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:73
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:74
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/tweedekamer.nl/subdomains.txt)|178|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/tweedekamer.nl/urls.txt)|121|Urls|
+|[subdomains.txt](/DutchGovScope/data/tweedekamer.nl/subdomains.txt)|180|Alive subdomains|
+|[urls.txt](/DutchGovScope/data/tweedekamer.nl/urls.txt)|122|Urls|
 |[all_subdomains.txt](/DutchGovScope/data/tweedekamer.nl/all_subdomains.txt)|279|All found subdomains (history)|
 
 
@@ -155,6 +155,7 @@ tags: dutchgov
 |[https://sesam-test.tweedekamer.nl](https://sesam-test.tweedekamer.nl)| | **B**|BigIP|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |F5 BigIP||
 |[https://sesam-acc.tweedekamer.nl](https://sesam-acc.tweedekamer.nl)| | **B**|BigIP|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |F5 BigIP||
 |[https://apm-acc.tweedekamer.nl](https://apm-acc.tweedekamer.nl)| | **B**|BigIP|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |F5 BigIP||
+|[https://handboekgc-acc.tweedekamer.nl](https://handboekgc-acc.tweedekamer.nl)| | **B**|BigIP|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |F5 BigIP||
 |[https://handboekdao.tweedekamer.nl](https://handboekdao.tweedekamer.nl)| | **B**|BigIP|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |F5 BigIP||
 |[https://handboekgpbw-acc.tweedekamer.nl](https://handboekgpbw-acc.tweedekamer.nl)| | **B**|BigIP|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |F5 BigIP||
 |[https://handboekgc.tweedekamer.nl](https://handboekgc.tweedekamer.nl)| | **B**|BigIP|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |F5 BigIP||

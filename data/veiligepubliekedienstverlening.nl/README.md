@@ -5,7 +5,7 @@
 
 
  - **SSL Grade**:A+
- - **HTTP Security Grade**:B
+ - **HTTP Security Grade**:A
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:4
 
 
@@ -25,5 +25,5 @@
 |[https://opendata.veiligepubliekedienstverlening.nl](https://opendata.veiligepubliekedienstverlening.nl)| **A+**| **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://www.veiligepubliekedienstverlening.nl](https://www.veiligepubliekedienstverlening.nl)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Veilige publieke...|
 |[https://veiligepubliekedienstverlening.nl](https://veiligepubliekedienstverlening.nl)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
-|[http://toolbox.veiligepubliekedienstverlening.nl](http://toolbox.veiligepubliekedienstverlening.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server Basic|401 Unauthorized|
+|[https://toolbox.veiligepubliekedienstverlening.nl](https://toolbox.veiligepubliekedienstverlening.nl)| | **C**|Apache| |:white_check_mark: | | | | | | :white_check_mark: | |Apache HTTP Server Basic HSTS|401 Unauthorized|
 

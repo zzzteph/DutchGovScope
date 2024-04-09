@@ -4,3 +4,4 @@ nlflag.nl
 lesmousquetaires.nlflag.nl
 mail.nlflag.nl
 ftp.nlflag.nl
+autodiscover.nlflag.nl

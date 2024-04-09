@@ -116,6 +116,7 @@ https://plein2-test.tweedekamer.nl
 https://sesam-test.tweedekamer.nl
 https://sesam-acc.tweedekamer.nl
 https://apm-acc.tweedekamer.nl
+https://handboekgc-acc.tweedekamer.nl
 https://handboekdao.tweedekamer.nl
 https://handboekgpbw-acc.tweedekamer.nl
 https://handboekgc.tweedekamer.nl

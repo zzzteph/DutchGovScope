@@ -1,4 +1,3 @@
-https://2bron.duo.nl
 https://apps.duo.nl
 https://cijfers.duo.nl
 https://data.duo.nl
@@ -14,7 +13,6 @@ https://personenregisterkinderopvang.duo.nl
 https://rio-kennisbank.duo.nl
 https://staging.duo.nl
 https://uag.duo.nl
-https://vt-2bron.duo.nl
 https://vt-personenregisterkinderopvang.duo.nl
 https://werkplek.duo.nl
 https://www.duo.nl
