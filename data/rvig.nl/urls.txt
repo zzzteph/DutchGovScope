@@ -13,3 +13,4 @@ https://www.rvig.nl
 https://rvig.nl
 http://idapps.npr.idm.rvig.nl
 https://idbs.npr.idm.rvig.nl
+https://lap.rvp.reis.idm.rvig.nl

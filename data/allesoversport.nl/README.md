@@ -13,7 +13,7 @@
 |------------|-------|------|
 |[subdomains.txt](/data/allesoversport.nl/subdomains.txt)|312|Alive subdomains|
 |[urls.txt](/data/allesoversport.nl/urls.txt)|312|Urls|
-|[all_subdomains.txt](/data/allesoversport.nl/all_subdomains.txt)|314|All found subdomains (history)|
+|[all_subdomains.txt](/data/allesoversport.nl/all_subdomains.txt)|316|All found subdomains (history)|
 
 
 ## Statistics

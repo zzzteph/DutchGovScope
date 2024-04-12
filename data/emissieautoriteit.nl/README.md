@@ -11,7 +11,7 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/emissieautoriteit.nl/subdomains.txt)|26|Alive subdomains|
+|[subdomains.txt](/data/emissieautoriteit.nl/subdomains.txt)|27|Alive subdomains|
 |[urls.txt](/data/emissieautoriteit.nl/urls.txt)|13|Urls|
 |[all_subdomains.txt](/data/emissieautoriteit.nl/all_subdomains.txt)|39|All found subdomains (history)|
 

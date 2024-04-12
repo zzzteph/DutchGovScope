@@ -14,3 +14,4 @@ mailings.dus-i.nl
 a-feeds.dus-i.nl
 a-opendata.dus-i.nl
 a-www.dus-i.nl
+start.dus-i.nl

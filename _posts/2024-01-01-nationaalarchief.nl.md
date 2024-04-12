@@ -4,7 +4,7 @@ title: "nationaalarchief.nl"
 permalink: "/dutchgov/nationaalarchief.nl.html"
 subdomains_count: 102
 all_subdomains_count: 190
-urls_count: 43
+urls_count: 44
 ssl_rank: C
 http_rank: D
 security_txt: 9
@@ -28,7 +28,7 @@ tags: dutchgov
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/DutchGovScope/data/nationaalarchief.nl/subdomains.txt)|102|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/nationaalarchief.nl/urls.txt)|43|Urls|
+|[urls.txt](/DutchGovScope/data/nationaalarchief.nl/urls.txt)|44|Urls|
 |[all_subdomains.txt](/DutchGovScope/data/nationaalarchief.nl/all_subdomains.txt)|190|All found subdomains (history)|
 
 
@@ -80,4 +80,5 @@ tags: dutchgov
 |[http://amh.nationaalarchief.nl](http://amh.nationaalarchief.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://de.test.nationaalarchief.nl](https://de.test.nationaalarchief.nl)| | **F**|gtranslate| | | | | | | | :white_check_mark: | |||
 |[https://ontorefine.nationaalarchief.nl](https://ontorefine.nationaalarchief.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|403 Forbidden|
+|[https://id.test.nationaalarchief.nl](https://id.test.nationaalarchief.nl)| | **F**|gtranslate| | | | | | | | :white_check_mark: | |||
 

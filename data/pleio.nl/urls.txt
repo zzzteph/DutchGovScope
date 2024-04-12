@@ -1503,3 +1503,5 @@ https://vvm.pleio.nl
 https://appgate.pleio.nl
 https://alig.pleio.nl
 https://accportal.pleio.nl
+https://dgh-admin.pleio.nl
+https://dgh.pleio.nl

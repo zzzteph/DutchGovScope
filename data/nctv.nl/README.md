@@ -11,8 +11,8 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/nctv.nl/subdomains.txt)|34|Alive subdomains|
-|[urls.txt](/data/nctv.nl/urls.txt)|23|Urls|
+|[subdomains.txt](/data/nctv.nl/subdomains.txt)|35|Alive subdomains|
+|[urls.txt](/data/nctv.nl/urls.txt)|24|Urls|
 |[all_subdomains.txt](/data/nctv.nl/all_subdomains.txt)|54|All found subdomains (history)|
 
 
@@ -21,6 +21,7 @@
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
+|[https://cbrnsecurity.nctv.nl](https://cbrnsecurity.nctv.nl)| **B**| **F**|Apache/2| | | | | | | | :white_check_mark: | |Apache HTTP Server:2 Bootstrap CodeIgniter ExpressionEngine PHP|CBRNE|
 |[https://cyberawareness.nctv.nl](https://cyberawareness.nctv.nl)| **F**| **F**|Apache/2| | | | | | | | :white_check_mark: | |Apache HTTP Server:2||
 |[https://elearning-atb.nctv.nl](https://elearning-atb.nctv.nl)| **F**| **F**|Apache/2| | | | | | | | :white_check_mark: | |Apache HTTP Server:2||
 |[https://elearning-basiscrisisbeheersing.nctv.nl](https://elearning-basiscrisisbeheersing.nctv.nl)| **F**| **F**|Apache/2| | | | | | | | :white_check_mark: | |Apache HTTP Server:2||

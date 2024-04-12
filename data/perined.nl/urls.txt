@@ -21,3 +21,4 @@ http://autodiscover.perined.nl
 http://localhost.perined.nl
 https://webmail.perined.nl
 https://cbgwww.palga.nlwww.iknl.nlwww.perined.nl
+https://webmail02.perined.nl

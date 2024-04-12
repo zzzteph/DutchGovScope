@@ -12,7 +12,7 @@
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/vallei-veluwe.nl/subdomains.txt)|24|Alive subdomains|
-|[urls.txt](/data/vallei-veluwe.nl/urls.txt)|17|Urls|
+|[urls.txt](/data/vallei-veluwe.nl/urls.txt)|15|Urls|
 |[all_subdomains.txt](/data/vallei-veluwe.nl/all_subdomains.txt)|54|All found subdomains (history)|
 
 
@@ -34,8 +34,6 @@
 |[https://testeloket.vallei-veluwe.nl](https://testeloket.vallei-veluwe.nl)| **A+**| **A**|unspecified|:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache Tomcat Fourthwall:1.0.194.059 Fourthwall:eloket_ui_main-2024.066.002 HSTS Java MariaDB Skolengo:1.0.194.059|Djuma portal|
 |[https://enterpriseenrollment.vallei-veluwe.nl](https://enterpriseenrollment.vallei-veluwe.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||
 |[https://enterpriseregistration.vallei-veluwe.nl](https://enterpriseregistration.vallei-veluwe.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
-|[https://geotest.vallei-veluwe.nl](https://geotest.vallei-veluwe.nl)| | **A**|Microsoft-IIS/10.0| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS IIS:10.0 Microsoft ASP.NET:4.0.30319 Windows Server||
-|[https://geo.vallei-veluwe.nl](https://geo.vallei-veluwe.nl)| | **A**|Microsoft-IIS/10.0| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS IIS:10.0 Microsoft ASP.NET Windows Server||
 |[https://protect.vallei-veluwe.nl](https://protect.vallei-veluwe.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://vdi.vallei-veluwe.nl](https://vdi.vallei-veluwe.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||
 

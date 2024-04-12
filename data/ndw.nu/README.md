@@ -6,13 +6,13 @@
 
  - **SSL Grade**:B
  - **HTTP Security Grade**:C
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:48
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:49
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/ndw.nu/subdomains.txt)|93|Alive subdomains|
-|[urls.txt](/data/ndw.nu/urls.txt)|80|Urls|
+|[subdomains.txt](/data/ndw.nu/subdomains.txt)|94|Alive subdomains|
+|[urls.txt](/data/ndw.nu/urls.txt)|82|Urls|
 |[all_subdomains.txt](/data/ndw.nu/all_subdomains.txt)|119|All found subdomains (history)|
 
 
@@ -101,4 +101,6 @@
 |[https://maps.staging.ndw.nu](https://maps.staging.ndw.nu)| | **F**|Apache/2.4.58 (Unix)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.58 Bootstrap UNIX|NDW Maps|
 |[https://nls.staging.ndw.nu](https://nls.staging.ndw.nu)| | **F**|nginx/1.24.0| | | | | | | | :white_check_mark: | |Nginx:1.24.0|NlsFrontend|
 |[https://design.staging.ndw.nu](https://design.staging.ndw.nu)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|@storybook/angul...|
+|[https://security.ndw.nu](https://security.ndw.nu)| | **F**|Microsoft-Azure-Application-Gateway/v2| | | | | | | | :white_check_mark: | ||404 Not Found|
+|[https://security.staging.ndw.nu](https://security.staging.ndw.nu)| | **E**|| | | | | | | | :white_check_mark: | |||
 

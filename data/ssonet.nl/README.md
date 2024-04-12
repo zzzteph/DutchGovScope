@@ -5,7 +5,7 @@
 
 
  - **SSL Grade**:B-
- - **HTTP Security Grade**:C
+ - **HTTP Security Grade**:D
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:2
 
 
@@ -25,5 +25,5 @@
 |[https://www.ssonet.nl](https://www.ssonet.nl)| **A+**| **A**|Microsoft-IIS/10.0| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS IIS:10.0 Windows Server|Document Moved|
 |[http://exchange.ssonet.nl](http://exchange.ssonet.nl)| | **E**|| | | | | | | | :white_check_mark: | |F5 BigIP||
 |[https://storingsdienst.rgd.ssonet.nl](https://storingsdienst.rgd.ssonet.nl)| **F**| **E**|| | | | | | | | :white_check_mark: | |||
-|[http://localhost.ssonet.nl](http://localhost.ssonet.nl)| | **F**|nginx|:o: | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Laravel Nginx PHP|Weakpass|
+|[http://localhost.ssonet.nl](http://localhost.ssonet.nl)| | **F**|nginx| | | :warning:| | | | | :white_check_mark: | |Nginx|(404 Not Found)|
 

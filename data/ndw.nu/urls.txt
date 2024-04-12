@@ -78,3 +78,5 @@ https://shared-services.staging.ndw.nu
 https://maps.staging.ndw.nu
 https://nls.staging.ndw.nu
 https://design.staging.ndw.nu
+https://security.ndw.nu
+https://security.staging.ndw.nu

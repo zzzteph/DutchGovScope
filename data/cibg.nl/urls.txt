@@ -14,7 +14,6 @@ https://acceptatie.publicwebservices.cibg.nl
 https://acceptatie.tmv.cibg.nl
 https://acceptatie.uzipas.lir.cibg.nl
 http://ag-dcr.cibg.nl
-https://alm.cibg.nl
 http://api.kcc.cibg.nl
 https://api.klopt.cibg.nl
 https://applicationframework.cibg.nl

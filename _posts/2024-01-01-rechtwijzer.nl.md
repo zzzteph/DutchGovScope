@@ -40,5 +40,5 @@ tags: dutchgov
 |[https://rechtwijzer.nl](https://rechtwijzer.nl)| **A**| **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Home - Rechtwijz...|
 |[https://www.rechtwijzer.nl](https://www.rechtwijzer.nl)| **A**| **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Object moved|
 |[http://ehbo.rechtwijzer.nl](http://ehbo.rechtwijzer.nl)| | **F**|Apache/2.4.6 (CentOS)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.6 CentOS PHP:7.2.10|Dit domein is ge...|
-|[http://localhost.rechtwijzer.nl](http://localhost.rechtwijzer.nl)| | **F**|nginx|:o: | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Laravel Nginx PHP|Weakpass|
+|[http://localhost.rechtwijzer.nl](http://localhost.rechtwijzer.nl)| | **F**|nginx| | | :warning:| | | | | :white_check_mark: | |Nginx|(404 Not Found)|
 

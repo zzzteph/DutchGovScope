@@ -26,3 +26,5 @@ toegangslaag.rvig.nl
 idbs.idm.rvig.nl
 mail2.rvig.nl
 lap.rvp.reis.idm.rvig.nl
+prod.intranet.rvig.nl
+acc2.intranet.rvig.nl

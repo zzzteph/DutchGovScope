@@ -62,7 +62,6 @@ https://good.cbs.nl
 https://helpmee.cbs.nl
 https://highcharts.cbs.nl
 https://highcharts-acc.cbs.nl
-https://highcharts-test.cbs.nl
 https://historisch.cbs.nl
 https://historischebeelden.cbs.nl
 https://historischebeeldenbeheer.cbs.nl
@@ -71,7 +70,6 @@ https://intdevtestlogin.cbs.nl
 https://isi.cbs.nl
 https://iv3-controle.cbs.nl
 https://iv3-controle-api.cbs.nl
-https://iv3-pilot.cbs.nl
 https://iv3statline.cbs.nl
 https://iv3statline2.cbs.nl
 https://jeugdmonitor.cbs.nl
@@ -121,7 +119,6 @@ https://projecten.cbs.nl
 http://qbes.cbs.nl
 https://redactie.cbs.nl
 https://redactie-acc.cbs.nl
-https://redactie-test.cbs.nl
 https://research.cbs.nl
 https://rgs.cbs.nl
 https://rivmopendata.cbs.nl
@@ -157,7 +154,6 @@ https://werkpleksso.cbs.nl
 https://werkplektest.cbs.nl
 https://www.cbs.nl
 https://www-acc.cbs.nl
-https://www-test.cbs.nl
 https://www.databestanden.cbs.nl
 https://www.historisch.cbs.nl
 https://www.ihg.cbs.nl
@@ -168,7 +164,7 @@ https://login.cbs.nl
 https://sbi.acceptatie.cbs.nl
 https://mijn.cbs.nl
 https://mijn-api.cbs.nl
-https://uitwisseling.cbs.nl
+http://uitwisseling.cbs.nl
 https://beh-iam.acceptatie.cbs.nl
 https://amunet.cbs.nl
 https://dataset.acceptatie.cbs.nl

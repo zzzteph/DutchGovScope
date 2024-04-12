@@ -6,7 +6,7 @@ subdomains_count: 4
 all_subdomains_count: 4
 urls_count: 4
 ssl_rank: A
-http_rank: B
+http_rank: A
 security_txt: 3
 url_link: /data/leidenincijfers.nl/urls.txt
 all_subdomains_link: /data/leidenincijfers.nl/all_subdomains.txt
@@ -21,7 +21,7 @@ tags: dutchgov
 
 
  - **SSL Grade**:A
- - **HTTP Security Grade**:B
+ - **HTTP Security Grade**:A
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:3
 
 
@@ -37,8 +37,8 @@ tags: dutchgov
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://www.leidenincijfers.nl](https://www.leidenincijfers.nl)| **A**| **A**|Apache| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server||
-|[https://leidenincijfers.nl](https://leidenincijfers.nl)| **A**| **A**|Apache| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server||
-|[https://mail.leidenincijfers.nl](https://mail.leidenincijfers.nl)| | **A**|Apache| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server||
+|[https://www.leidenincijfers.nl](https://www.leidenincijfers.nl)| **A**| **A**|Apache| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server||
+|[https://leidenincijfers.nl](https://leidenincijfers.nl)| **A**| **A**|Apache| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server||
+|[https://mail.leidenincijfers.nl](https://mail.leidenincijfers.nl)| | **A**|Apache| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server||
 |[https://autodiscover.leidenincijfers.nl](https://autodiscover.leidenincijfers.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 

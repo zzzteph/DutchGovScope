@@ -51,7 +51,6 @@ geostenen.grid.rws.nl
 geoweb.rws.nl
 getij.rws.nl
 git.rws.nl
-gmg301.rws.nl
 grafana.vm-02.azure.grid.rws.nl
 grid.rws.nl
 gridacc.rws.nl
@@ -79,7 +78,6 @@ otl.rws.nl
 overstroomik.rws.nl
 overstroomik-acceptance.rws.nl
 pgadmin.vm-02.azure.grid.rws.nl
-pilot.sluisplanning.rws.nl
 port-enc.rws.nl
 preprod.beterbediend.rws.nl
 programmaplan.vm-02.azure.grid.rws.nl

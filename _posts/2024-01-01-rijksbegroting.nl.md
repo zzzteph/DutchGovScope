@@ -3,7 +3,7 @@ layout: default
 title: "rijksbegroting.nl"
 permalink: "/dutchgov/rijksbegroting.nl.html"
 subdomains_count: 6
-all_subdomains_count: 10
+all_subdomains_count: 13
 urls_count: 6
 ssl_rank: A+
 http_rank: A
@@ -29,7 +29,7 @@ tags: dutchgov
 |------------|-------|------|
 |[subdomains.txt](/DutchGovScope/data/rijksbegroting.nl/subdomains.txt)|6|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/rijksbegroting.nl/urls.txt)|6|Urls|
-|[all_subdomains.txt](/DutchGovScope/data/rijksbegroting.nl/all_subdomains.txt)|10|All found subdomains (history)|
+|[all_subdomains.txt](/DutchGovScope/data/rijksbegroting.nl/all_subdomains.txt)|13|All found subdomains (history)|
 
 
 ## Statistics

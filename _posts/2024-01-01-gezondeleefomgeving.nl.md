@@ -6,7 +6,7 @@ subdomains_count: 6
 all_subdomains_count: 7
 urls_count: 4
 ssl_rank: A-
-http_rank: C
+http_rank: D
 security_txt: 2
 url_link: /data/gezondeleefomgeving.nl/urls.txt
 all_subdomains_link: /data/gezondeleefomgeving.nl/all_subdomains.txt
@@ -21,7 +21,7 @@ tags: dutchgov
 
 
  - **SSL Grade**:A-
- - **HTTP Security Grade**:C
+ - **HTTP Security Grade**:D
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:2
 
 
@@ -40,5 +40,5 @@ tags: dutchgov
 |[https://www.gezondeleefomgeving.nl](https://www.gezondeleefomgeving.nl)| **A+**| **A**|Apache| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server Drupal HSTS PHP|Home | Gezonde L...|
 |[https://gezondeleefomgeving.nl](https://gezondeleefomgeving.nl)| **A+**| **A**|Apache| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS|301 Moved Perman...|
 |[http://bibliotheek.gezondeleefomgeving.nl](http://bibliotheek.gezondeleefomgeving.nl)| **B**| **E**|| | | | | | | | :white_check_mark: | |||
-|[http://localhost.gezondeleefomgeving.nl](http://localhost.gezondeleefomgeving.nl)| | **F**|nginx|:o: | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Laravel Nginx PHP|Weakpass|
+|[http://localhost.gezondeleefomgeving.nl](http://localhost.gezondeleefomgeving.nl)| | **F**|nginx| | | :warning:| | | | | :white_check_mark: | |Nginx|(404 Not Found)|
 

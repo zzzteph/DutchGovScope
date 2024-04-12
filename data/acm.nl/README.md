@@ -5,14 +5,14 @@
 
 
  - **SSL Grade**:C
- - **HTTP Security Grade**:D
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:7
+ - **HTTP Security Grade**:C
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:9
 
 
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/acm.nl/subdomains.txt)|58|Alive subdomains|
-|[urls.txt](/data/acm.nl/urls.txt)|23|Urls|
+|[urls.txt](/data/acm.nl/urls.txt)|25|Urls|
 |[all_subdomains.txt](/data/acm.nl/all_subdomains.txt)|86|All found subdomains (history)|
 
 
@@ -44,4 +44,6 @@
 |[https://mbg.acm.nl](https://mbg.acm.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|Redirecting...|
 |[https://mijn-acc.acm.nl](https://mijn-acc.acm.nl)| | **F**|nginx/1.25.4| | | | | | | | :white_check_mark: | |Nginx:1.25.4|403 Forbidden|
 |[https://mijn-tst.acm.nl](https://mijn-tst.acm.nl)| | **F**|nginx/1.25.4| | | | | | | | :white_check_mark: | |Nginx:1.25.4|403 Forbidden|
+|[https://werkplek.acm.nl](https://werkplek.acm.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS||
+|[https://werkplek.services.acm.nl](https://werkplek.services.acm.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS||
 

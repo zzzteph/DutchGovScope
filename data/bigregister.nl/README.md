@@ -6,13 +6,13 @@
 
  - **SSL Grade**:A
  - **HTTP Security Grade**:A
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:20
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:21
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/bigregister.nl/subdomains.txt)|27|Alive subdomains|
-|[urls.txt](/data/bigregister.nl/urls.txt)|21|Urls|
+|[subdomains.txt](/data/bigregister.nl/subdomains.txt)|28|Alive subdomains|
+|[urls.txt](/data/bigregister.nl/urls.txt)|22|Urls|
 |[all_subdomains.txt](/data/bigregister.nl/all_subdomains.txt)|44|All found subdomains (history)|
 
 
@@ -42,4 +42,5 @@
 |[https://zoeken.bigregister.nl](https://zoeken.bigregister.nl)| **A**| **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Zorgverlener opz...|
 |[https://bigregister.nl](https://bigregister.nl)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
 |[https://acceptatie.tea.bigregister.nl](https://acceptatie.tea.bigregister.nl)| **A**| **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
+|[https://acceptatie.behandel.bigregister.nl](https://acceptatie.behandel.bigregister.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 

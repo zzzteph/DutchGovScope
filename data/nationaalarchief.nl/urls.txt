@@ -41,3 +41,4 @@ http://localhost.nationaalarchief.nl
 http://amh.nationaalarchief.nl
 https://de.test.nationaalarchief.nl
 https://ontorefine.nationaalarchief.nl
+https://id.test.nationaalarchief.nl

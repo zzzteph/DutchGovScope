@@ -3,7 +3,7 @@ layout: default
 title: "sitearchief.nl"
 permalink: "/dutchgov/sitearchief.nl.html"
 subdomains_count: 127
-all_subdomains_count: 127
+all_subdomains_count: 129
 urls_count: 127
 ssl_rank: A+
 http_rank: A
@@ -29,7 +29,7 @@ tags: dutchgov
 |------------|-------|------|
 |[subdomains.txt](/DutchGovScope/data/sitearchief.nl/subdomains.txt)|127|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/sitearchief.nl/urls.txt)|127|Urls|
-|[all_subdomains.txt](/DutchGovScope/data/sitearchief.nl/all_subdomains.txt)|127|All found subdomains (history)|
+|[all_subdomains.txt](/DutchGovScope/data/sitearchief.nl/all_subdomains.txt)|129|All found subdomains (history)|
 
 
 ## Statistics

@@ -54,5 +54,5 @@ tags: dutchgov
 |[https://testconn-mp.ssc-campus.nl](https://testconn-mp.ssc-campus.nl)| **B**| **F**|BigIP|:warning: | | | | | :white_check_mark: | | :white_check_mark: | |F5 BigIP||
 |[https://www.ssc-campus.nl](https://www.ssc-campus.nl)| **B**| **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|301 Moved Perman...|
 |[https://ssc-campus.nl](https://ssc-campus.nl)| **B**| **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|301 Moved Perman...|
-|[http://localhost.ssc-campus.nl](http://localhost.ssc-campus.nl)| | **F**|nginx|:o: | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Laravel Nginx PHP|Weakpass|
+|[http://localhost.ssc-campus.nl](http://localhost.ssc-campus.nl)| | **F**|nginx| | | :warning:| | | | | :white_check_mark: | |Nginx|(404 Not Found)|
 

@@ -13,7 +13,7 @@
 |------------|-------|------|
 |[subdomains.txt](/data/rijksbegroting.nl/subdomains.txt)|6|Alive subdomains|
 |[urls.txt](/data/rijksbegroting.nl/urls.txt)|6|Urls|
-|[all_subdomains.txt](/data/rijksbegroting.nl/all_subdomains.txt)|10|All found subdomains (history)|
+|[all_subdomains.txt](/data/rijksbegroting.nl/all_subdomains.txt)|13|All found subdomains (history)|
 
 
 ## Statistics

@@ -31,7 +31,7 @@
 |[https://redactie.odijmond.nl](https://redactie.odijmond.nl)| | **A**|-|:white_check_mark: |:white_check_mark: | | | :white_check_mark:| | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:-|Object moved|
 |[https://join.odijmond.nl](https://join.odijmond.nl)| | **A**||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Document Moved|
 |[https://rdgw.odijmond.nl](https://rdgw.odijmond.nl)| | **A**||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |||
-|[http://localhost.odijmond.nl](http://localhost.odijmond.nl)| | **F**|nginx|:o: | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Laravel Nginx PHP|Weakpass|
+|[http://localhost.odijmond.nl](http://localhost.odijmond.nl)| | **F**|nginx| | | :warning:| | | | | :white_check_mark: | |Nginx|(404 Not Found)|
 |[https://rd.odijmond.nl](https://rd.odijmond.nl)| | **D**||:o: |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|Connection denie...|
 |[https://vpn.odijmond.nl](https://vpn.odijmond.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS|Fireware XTM Use...|
 |[https://acc-open-wave.odijmond.nl](https://acc-open-wave.odijmond.nl)| | **F**|Apache|:o: | | | | | | | :white_check_mark: | |Apache HTTP Server PHP:8.1.27||

@@ -5,14 +5,14 @@
 
 
  - **SSL Grade**:A
- - **HTTP Security Grade**:A
+ - **HTTP Security Grade**:B
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:10
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/rvig.nl/subdomains.txt)|28|Alive subdomains|
-|[urls.txt](/data/rvig.nl/urls.txt)|15|Urls|
+|[subdomains.txt](/data/rvig.nl/subdomains.txt)|30|Alive subdomains|
+|[urls.txt](/data/rvig.nl/urls.txt)|16|Urls|
 |[all_subdomains.txt](/data/rvig.nl/all_subdomains.txt)|68|All found subdomains (history)|
 
 
@@ -36,4 +36,5 @@
 |[https://rvig.nl](https://rvig.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
 |[http://idapps.npr.idm.rvig.nl](http://idapps.npr.idm.rvig.nl)| **B**| **C**||:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
 |[https://idbs.npr.idm.rvig.nl](https://idbs.npr.idm.rvig.nl)| **B**| **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Java||
+|[https://lap.rvp.reis.idm.rvig.nl](https://lap.rvp.reis.idm.rvig.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
 

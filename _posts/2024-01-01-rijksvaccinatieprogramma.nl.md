@@ -39,5 +39,5 @@ tags: dutchgov
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[https://www.rijksvaccinatieprogramma.nl](https://www.rijksvaccinatieprogramma.nl)| **A+**| **A**|Apache| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS|301 Moved Perman...|
 |[https://rijksvaccinatieprogramma.nl](https://rijksvaccinatieprogramma.nl)| **A+**| **A**|Apache| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server Drupal HSTS PHP|Rijksvaccinatiep...|
-|[http://localhost.rijksvaccinatieprogramma.nl](http://localhost.rijksvaccinatieprogramma.nl)| | **F**|nginx|:o: | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Laravel Nginx PHP|Weakpass|
+|[http://localhost.rijksvaccinatieprogramma.nl](http://localhost.rijksvaccinatieprogramma.nl)| | **F**|nginx| | | :warning:| | | | | :white_check_mark: | |Nginx|(404 Not Found)|
 

@@ -4,7 +4,7 @@ title: "vallei-veluwe.nl"
 permalink: "/dutchgov/vallei-veluwe.nl.html"
 subdomains_count: 24
 all_subdomains_count: 54
-urls_count: 17
+urls_count: 15
 ssl_rank: A
 http_rank: B
 security_txt: 6
@@ -28,7 +28,7 @@ tags: dutchgov
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/DutchGovScope/data/vallei-veluwe.nl/subdomains.txt)|24|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/vallei-veluwe.nl/urls.txt)|17|Urls|
+|[urls.txt](/DutchGovScope/data/vallei-veluwe.nl/urls.txt)|15|Urls|
 |[all_subdomains.txt](/DutchGovScope/data/vallei-veluwe.nl/all_subdomains.txt)|54|All found subdomains (history)|
 
 
@@ -50,8 +50,6 @@ tags: dutchgov
 |[https://testeloket.vallei-veluwe.nl](https://testeloket.vallei-veluwe.nl)| **A+**| **A**|unspecified|:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache Tomcat Fourthwall:1.0.194.059 Fourthwall:eloket_ui_main-2024.066.002 HSTS Java MariaDB Skolengo:1.0.194.059|Djuma portal|
 |[https://enterpriseenrollment.vallei-veluwe.nl](https://enterpriseenrollment.vallei-veluwe.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||
 |[https://enterpriseregistration.vallei-veluwe.nl](https://enterpriseregistration.vallei-veluwe.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
-|[https://geotest.vallei-veluwe.nl](https://geotest.vallei-veluwe.nl)| | **A**|Microsoft-IIS/10.0| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS IIS:10.0 Microsoft ASP.NET:4.0.30319 Windows Server||
-|[https://geo.vallei-veluwe.nl](https://geo.vallei-veluwe.nl)| | **A**|Microsoft-IIS/10.0| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS IIS:10.0 Microsoft ASP.NET Windows Server||
 |[https://protect.vallei-veluwe.nl](https://protect.vallei-veluwe.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://vdi.vallei-veluwe.nl](https://vdi.vallei-veluwe.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||
 

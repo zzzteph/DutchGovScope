@@ -5,13 +5,13 @@
 
 
  - **SSL Grade**:B+
- - **HTTP Security Grade**:C
+ - **HTTP Security Grade**:D
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:94
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/rws.nl/subdomains.txt)|254|Alive subdomains|
+|[subdomains.txt](/data/rws.nl/subdomains.txt)|252|Alive subdomains|
 |[urls.txt](/data/rws.nl/urls.txt)|170|Urls|
 |[all_subdomains.txt](/data/rws.nl/all_subdomains.txt)|1181|All found subdomains (history)|
 
@@ -100,7 +100,6 @@
 |[https://overstroomik.rws.nl](https://overstroomik.rws.nl)| **A**| **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |||
 |[http://overstroomik-acceptance.rws.nl](http://overstroomik-acceptance.rws.nl)| **F**| **E**|| | | | | | | | :white_check_mark: | |||
 |[https://pgadmin.vm-02.azure.grid.rws.nl](https://pgadmin.vm-02.azure.grid.rws.nl)| **F**| **E**|| | | | | | | | :white_check_mark: | |HSTS|404 Not Found|
-|[https://pilot.sluisplanning.rws.nl](https://pilot.sluisplanning.rws.nl)| **A+**| **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
 |[https://port-enc.rws.nl](https://port-enc.rws.nl)| **A+**| **C**|Kestrel|:warning: |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS Kestrel Microsoft ASP.NET||
 |[https://preprod.beterbediend.rws.nl](https://preprod.beterbediend.rws.nl)| **A+**| **C**|Apache/2.4.58 (Unix)| |:white_check_mark: | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.58 HSTS UNIX|Beter Bediend|
 |[https://programmaplan.vm-02.azure.grid.rws.nl](https://programmaplan.vm-02.azure.grid.rws.nl)| **A**| **A**||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | ||302 Found|
@@ -191,4 +190,5 @@
 |[https://status.gridacc.rws.nl](https://status.gridacc.rws.nl)| | **F**|Microsoft-Azure-Application-Gateway/v2| | | | | | | | :white_check_mark: | ||307 Temporary Re...|
 |[https://www.gridacc.rws.nl](https://www.gridacc.rws.nl)| | **C**|Microsoft-Azure-Application-Gateway/v2| |:white_check_mark: | | | | | | :white_check_mark: | ||301 Moved Perman...|
 |[https://acc-werkplek.gw01-gslb.rws.nl](https://acc-werkplek.gw01-gslb.rws.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||
+|[http://mip-proxy-acc.rws.nl](http://mip-proxy-acc.rws.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 

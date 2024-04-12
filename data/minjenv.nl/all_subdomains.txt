@@ -13,3 +13,4 @@ mx4.minjenv.nl
 mx5.minjenv.nl
 mx6.minjenv.nl
 vc.dji.minjenv.nl
+mx1.minjenv.nl

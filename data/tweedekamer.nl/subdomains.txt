@@ -178,3 +178,5 @@ login.beta.tweedekamer.nl
 portal.beta.tweedekamer.nl
 planon-live.tweedekamer.nl
 autodiscover.beta.tweedekamer.nl
+samenwerkruimten.tweedekamer.nl
+oracle-financials.tweedekamer.nl

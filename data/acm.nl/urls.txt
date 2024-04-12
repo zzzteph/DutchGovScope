@@ -21,3 +21,5 @@ https://enterpriseregistration.acm.nl
 https://mbg.acm.nl
 https://mijn-acc.acm.nl
 https://mijn-tst.acm.nl
+https://werkplek.acm.nl
+https://werkplek.services.acm.nl

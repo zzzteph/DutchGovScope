@@ -40,5 +40,5 @@ tags: dutchgov
 |[https://cms.bureaubiosecurity.nl](https://cms.bureaubiosecurity.nl)| **A+**| **C**|nginx| |:white_check_mark: | :warning:| | | :white_check_mark: | | :white_check_mark: | |Drupal HSTS Nginx PHP|Redirecting to h...|
 |[https://www.bureaubiosecurity.nl](https://www.bureaubiosecurity.nl)| **A+**| **A**|Apache| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server Drupal HSTS PHP|Bureau Biosecuri...|
 |[https://bureaubiosecurity.nl](https://bureaubiosecurity.nl)| **A+**| **A**|Apache| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS|301 Moved Perman...|
-|[http://localhost.bureaubiosecurity.nl](http://localhost.bureaubiosecurity.nl)| | **F**|nginx|:o: | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Laravel Nginx PHP|Weakpass|
+|[http://localhost.bureaubiosecurity.nl](http://localhost.bureaubiosecurity.nl)| | **F**|nginx| | | :warning:| | | | | :white_check_mark: | |Nginx|(404 Not Found)|
 

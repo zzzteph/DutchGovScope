@@ -77,7 +77,6 @@ https://otl.rws.nl
 https://overstroomik.rws.nl
 http://overstroomik-acceptance.rws.nl
 https://pgadmin.vm-02.azure.grid.rws.nl
-https://pilot.sluisplanning.rws.nl
 https://port-enc.rws.nl
 https://preprod.beterbediend.rws.nl
 https://programmaplan.vm-02.azure.grid.rws.nl
@@ -168,3 +167,4 @@ https://iot.gridacc.rws.nl
 https://status.gridacc.rws.nl
 https://www.gridacc.rws.nl
 https://acc-werkplek.gw01-gslb.rws.nl
+http://mip-proxy-acc.rws.nl

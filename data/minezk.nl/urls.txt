@@ -3,3 +3,4 @@ http://scanapp.minezk.nl
 https://acc.datacatalogus.minezk.nl
 https://minezk.nl
 https://fmis.minezk.nl
+https://datacatalogus.minezk.nl

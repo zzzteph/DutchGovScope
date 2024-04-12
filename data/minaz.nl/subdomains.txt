@@ -11,3 +11,4 @@ pazbb.minaz.nl
 sharefile.minaz.nl
 rin.minaz.nl
 gateway.minaz.nl
+emailcluster.minaz.nl

@@ -13,7 +13,7 @@
 |------------|-------|------|
 |[subdomains.txt](/data/sitearchief.nl/subdomains.txt)|127|Alive subdomains|
 |[urls.txt](/data/sitearchief.nl/urls.txt)|127|Urls|
-|[all_subdomains.txt](/data/sitearchief.nl/all_subdomains.txt)|127|All found subdomains (history)|
+|[all_subdomains.txt](/data/sitearchief.nl/all_subdomains.txt)|129|All found subdomains (history)|
 
 
 ## Statistics

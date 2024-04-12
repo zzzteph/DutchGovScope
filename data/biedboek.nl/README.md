@@ -12,8 +12,8 @@
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/biedboek.nl/subdomains.txt)|1651|Alive subdomains|
-|[urls.txt](/data/biedboek.nl/urls.txt)|1650|Urls|
-|[all_subdomains.txt](/data/biedboek.nl/all_subdomains.txt)|1651|All found subdomains (history)|
+|[urls.txt](/data/biedboek.nl/urls.txt)|1651|Urls|
+|[all_subdomains.txt](/data/biedboek.nl/all_subdomains.txt)|1663|All found subdomains (history)|
 
 
 ## Statistics
@@ -1671,4 +1671,5 @@
 |[https://ncca.biedboek.nl](https://ncca.biedboek.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
 |[https://databridge.biedboek.nl](https://databridge.biedboek.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
 |[https://testlive.biedboek.nl](https://testlive.biedboek.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
+|[https://clotho.biedboek.nl](https://clotho.biedboek.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
 

@@ -5,3 +5,5 @@ minezk.nl
 sip.minezk.nl
 lyncdiscover.minezk.nl
 fmis.minezk.nl
+datacatalogus.minezk.nl
+scanapp-acc.minezk.nl

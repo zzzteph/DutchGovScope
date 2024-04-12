@@ -13,7 +13,7 @@
 |------------|-------|------|
 |[subdomains.txt](/data/noord-holland.nl/subdomains.txt)|100|Alive subdomains|
 |[urls.txt](/data/noord-holland.nl/urls.txt)|65|Urls|
-|[all_subdomains.txt](/data/noord-holland.nl/all_subdomains.txt)|274|All found subdomains (history)|
+|[all_subdomains.txt](/data/noord-holland.nl/all_subdomains.txt)|275|All found subdomains (history)|
 
 
 ## Statistics

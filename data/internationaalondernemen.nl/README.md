@@ -13,7 +13,7 @@
 |------------|-------|------|
 |[subdomains.txt](/data/internationaalondernemen.nl/subdomains.txt)|10|Alive subdomains|
 |[urls.txt](/data/internationaalondernemen.nl/urls.txt)|10|Urls|
-|[all_subdomains.txt](/data/internationaalondernemen.nl/all_subdomains.txt)|10|All found subdomains (history)|
+|[all_subdomains.txt](/data/internationaalondernemen.nl/all_subdomains.txt)|12|All found subdomains (history)|
 
 
 ## Statistics
