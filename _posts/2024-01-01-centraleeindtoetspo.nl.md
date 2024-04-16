@@ -2,7 +2,7 @@
 layout: default
 title: "centraleeindtoetspo.nl"
 permalink: "/dutchgov/centraleeindtoetspo.nl.html"
-subdomains_count: 5
+subdomains_count: 0
 all_subdomains_count: 29
 urls_count: 0
 ssl_rank: 
@@ -27,7 +27,7 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/centraleeindtoetspo.nl/subdomains.txt)|5|Alive subdomains|
+|[subdomains.txt](/DutchGovScope/data/centraleeindtoetspo.nl/subdomains.txt)|0|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/centraleeindtoetspo.nl/urls.txt)|0|Urls|
 |[all_subdomains.txt](/DutchGovScope/data/centraleeindtoetspo.nl/all_subdomains.txt)|29|All found subdomains (history)|
 

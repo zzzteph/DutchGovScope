@@ -37,7 +37,7 @@ tags: dutchgov
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://autodiscover.kansspelautoriteit.nl](https://autodiscover.kansspelautoriteit.nl)| **B**| **E**|Microsoft-IIS/10.0| | | | | | :white_check_mark: | | :white_check_mark: | |IIS:10.0 Windows Server||
+|[https://autodiscover.kansspelautoriteit.nl](https://autodiscover.kansspelautoriteit.nl)| **B**| **F**|Microsoft-IIS/10.0| | | | | | | | :white_check_mark: | |IIS:10.0 Windows Server||
 |[https://file.kansspelautoriteit.nl](https://file.kansspelautoriteit.nl)| **A+**| **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://formulieren.kansspelautoriteit.nl](https://formulieren.kansspelautoriteit.nl)| **A+**| **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:-|Formulierenoverz...|
 |[https://mx.kansspelautoriteit.nl](https://mx.kansspelautoriteit.nl)| **B**| **E**|Microsoft-IIS/10.0 Microsoft-HTTPAPI/2.0| | | | | | :white_check_mark: | | :white_check_mark: | |IIS:10.0 Microsoft HTTPAPI:2.0 Windows Server||

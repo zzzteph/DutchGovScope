@@ -1,10 +1,7 @@
-https://bbsh.datawonen.nl
 https://btiv.datawonen.nl
 https://dfg.datawonen.nl
-https://disco.datawonen.nl
 https://hcib.datawonen.nl
 https://primos.datawonen.nl
-https://prognoses.datawonen.nl
 https://syswov.datawonen.nl
 https://vois.datawonen.nl
 https://www.datawonen.nl

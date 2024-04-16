@@ -2292,7 +2292,7 @@ https://achiko.mett.nl
 https://deambachtapeldoorn.mett.nl
 https://denkmeewoonin.mett.nl
 https://mooinl.mett.nl
-https://wegwijzeraquathermie.mett.nl
+http://wegwijzeraquathermie.mett.nl
 https://zichtopnl.mett.nl
 https://timpaan.mett.nl
 http://iis01.mett.nl

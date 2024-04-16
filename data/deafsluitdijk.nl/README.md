@@ -11,8 +11,8 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/deafsluitdijk.nl/subdomains.txt)|124|Alive subdomains|
-|[urls.txt](/data/deafsluitdijk.nl/urls.txt)|104|Urls|
+|[subdomains.txt](/data/deafsluitdijk.nl/subdomains.txt)|94|Alive subdomains|
+|[urls.txt](/data/deafsluitdijk.nl/urls.txt)|74|Urls|
 |[all_subdomains.txt](/data/deafsluitdijk.nl/all_subdomains.txt)|127|All found subdomains (history)|
 
 
@@ -28,7 +28,6 @@
 |[https://deafsluitdijk.nl](https://deafsluitdijk.nl)| **A**| **A**|openresty| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |Google Tag Manager HSTS MySQL Nginx OpenResty PHP Site Kit:1.119.0 Varnish WordPress Yoast SEO:22.0|De Afsluitdijk -...|
 |[https://en.deafsluitdijk.nl](https://en.deafsluitdijk.nl)| | **F**|openresty| | | | | | | | :white_check_mark: | |HSTS Nginx OpenResty|Welcome|
 |[https://noord-holland.nlwww.deafsluitdijk.nl](https://noord-holland.nlwww.deafsluitdijk.nl)| **F**| **F**|openresty| | | | | | | | :white_check_mark: | |HSTS Nginx OpenResty|Welcome|
-|[https://web16959.deafsluitdijk.nl](https://web16959.deafsluitdijk.nl)| | **F**|openresty| | | | | | | | :white_check_mark: | |HSTS Nginx OpenResty|Welcome|
 |[http://autodiscover.deafsluitdijk.nl](http://autodiscover.deafsluitdijk.nl)| | **B**|Microsoft-IIS/10.0|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server||
 |[https://heroic.deafsluitdijk.nl](https://heroic.deafsluitdijk.nl)| | **F**|openresty| | | | | | | | :white_check_mark: | |HSTS Nginx OpenResty|Welcome|
 |[https://afval-container-verhuur.deafsluitdijk.nl](https://afval-container-verhuur.deafsluitdijk.nl)| | **F**|openresty| | | | | | | | :white_check_mark: | |HSTS Nginx OpenResty|Welcome|
@@ -95,34 +94,5 @@
 |[https://office-365-business-premium.deafsluitdijk.nl](https://office-365-business-premium.deafsluitdijk.nl)| | **F**|openresty| | | | | | | | :white_check_mark: | |HSTS Nginx OpenResty|Welcome|
 |[https://tattoo-piercing.deafsluitdijk.nl](https://tattoo-piercing.deafsluitdijk.nl)| | **F**|openresty| | | | | | | | :white_check_mark: | |HSTS Nginx OpenResty|Welcome|
 |[https://strm.deafsluitdijk.nl](https://strm.deafsluitdijk.nl)| | **F**|openresty| | | | | | | | :white_check_mark: | |HSTS Nginx OpenResty|Welcome|
-|[https://amana.deafsluitdijk.nl](https://amana.deafsluitdijk.nl)| | **F**|openresty| | | | | | | | :white_check_mark: | |HSTS Nginx OpenResty|Welcome|
-|[https://penisvergroting.deafsluitdijk.nl](https://penisvergroting.deafsluitdijk.nl)| | **F**|openresty| | | | | | | | :white_check_mark: | |HSTS Nginx OpenResty|Welcome|
-|[https://ivote.deafsluitdijk.nl](https://ivote.deafsluitdijk.nl)| | **F**|openresty| | | | | | | | :white_check_mark: | |HSTS Nginx OpenResty|Welcome|
-|[https://wcg.deafsluitdijk.nl](https://wcg.deafsluitdijk.nl)| | **F**|openresty| | | | | | | | :white_check_mark: | |HSTS Nginx OpenResty|Welcome|
-|[https://nieuwersluis.deafsluitdijk.nl](https://nieuwersluis.deafsluitdijk.nl)| | **F**|openresty| | | | | | | | :white_check_mark: | |HSTS Nginx OpenResty|Welcome|
-|[https://ancona.deafsluitdijk.nl](https://ancona.deafsluitdijk.nl)| | **F**|openresty| | | | | | | | :white_check_mark: | |HSTS Nginx OpenResty|Welcome|
-|[https://illuminati.deafsluitdijk.nl](https://illuminati.deafsluitdijk.nl)| | **F**|openresty| | | | | | | | :white_check_mark: | |HSTS Nginx OpenResty|Welcome|
-|[https://vmtest.deafsluitdijk.nl](https://vmtest.deafsluitdijk.nl)| | **F**|openresty| | | | | | | | :white_check_mark: | |HSTS Nginx OpenResty|Welcome|
-|[https://servicenow.deafsluitdijk.nl](https://servicenow.deafsluitdijk.nl)| | **F**|openresty| | | | | | | | :white_check_mark: | |HSTS Nginx OpenResty|Welcome|
-|[https://soa-test.deafsluitdijk.nl](https://soa-test.deafsluitdijk.nl)| | **F**|openresty| | | | | | | | :white_check_mark: | |HSTS Nginx OpenResty|Welcome|
-|[https://brigit.deafsluitdijk.nl](https://brigit.deafsluitdijk.nl)| | **F**|openresty| | | | | | | | :white_check_mark: | |HSTS Nginx OpenResty|Welcome|
-|[https://homestar.deafsluitdijk.nl](https://homestar.deafsluitdijk.nl)| | **F**|openresty| | | | | | | | :white_check_mark: | |HSTS Nginx OpenResty|Welcome|
-|[https://cowww.deafsluitdijk.nl](https://cowww.deafsluitdijk.nl)| | **F**|openresty| | | | | | | | :white_check_mark: | |HSTS Nginx OpenResty|Welcome|
-|[https://m17.updates.deafsluitdijk.nl](https://m17.updates.deafsluitdijk.nl)| | **F**|openresty| | | | | | | | :white_check_mark: | |HSTS Nginx OpenResty|Welcome|
-|[https://radom.deafsluitdijk.nl](https://radom.deafsluitdijk.nl)| | **F**|openresty| | | | | | | | :white_check_mark: | |HSTS Nginx OpenResty|Welcome|
-|[https://c-5uwzmx78pmca09x24bx78kx2eowwotmagvlqkibqwvx2ekwu.g00.deafsluitdijk.nl](https://c-5uwzmx78pmca09x24bx78kx2eowwotmagvlqkibqwvx2ekwu.g00.deafsluitdijk.nl)| | **F**|openresty| | | | | | | | :white_check_mark: | |HSTS Nginx OpenResty|Welcome|
-|[https://web6196.deafsluitdijk.nl](https://web6196.deafsluitdijk.nl)| | **F**|openresty| | | | | | | | :white_check_mark: | |HSTS Nginx OpenResty|Welcome|
-|[https://vip01.deafsluitdijk.nl](https://vip01.deafsluitdijk.nl)| | **F**|openresty| | | | | | | | :white_check_mark: | |HSTS Nginx OpenResty|Welcome|
-|[https://host247.deafsluitdijk.nl](https://host247.deafsluitdijk.nl)| | **F**|openresty| | | | | | | | :white_check_mark: | |HSTS Nginx OpenResty|Welcome|
-|[https://web3731.deafsluitdijk.nl](https://web3731.deafsluitdijk.nl)| | **F**|openresty| | | | | | | | :white_check_mark: | |HSTS Nginx OpenResty|Welcome|
-|[https://lsk.deafsluitdijk.nl](https://lsk.deafsluitdijk.nl)| | **F**|openresty| | | | | | | | :white_check_mark: | |HSTS Nginx OpenResty|Welcome|
-|[https://clue.deafsluitdijk.nl](https://clue.deafsluitdijk.nl)| | **F**|openresty| | | | | | | | :white_check_mark: | |HSTS Nginx OpenResty|Welcome|
-|[https://taboe.deafsluitdijk.nl](https://taboe.deafsluitdijk.nl)| | **F**|openresty| | | | | | | | :white_check_mark: | |HSTS Nginx OpenResty|Welcome|
-|[https://tv-providers.deafsluitdijk.nl](https://tv-providers.deafsluitdijk.nl)| | **F**|openresty| | | | | | | | :white_check_mark: | |HSTS Nginx OpenResty|Welcome|
-|[https://vgc.deafsluitdijk.nl](https://vgc.deafsluitdijk.nl)| | **F**|openresty| | | | | | | | :white_check_mark: | |HSTS Nginx OpenResty|Welcome|
-|[https://dashboard.alpha.deafsluitdijk.nl](https://dashboard.alpha.deafsluitdijk.nl)| | **F**|openresty| | | | | | | | :white_check_mark: | |HSTS Nginx OpenResty|Welcome|
-|[https://aksen.deafsluitdijk.nl](https://aksen.deafsluitdijk.nl)| | **F**|openresty| | | | | | | | :white_check_mark: | |HSTS Nginx OpenResty|Welcome|
-|[https://balloon.deafsluitdijk.nl](https://balloon.deafsluitdijk.nl)| | **F**|openresty| | | | | | | | :white_check_mark: | |HSTS Nginx OpenResty|Welcome|
-|[https://vps109.deafsluitdijk.nl](https://vps109.deafsluitdijk.nl)| | **F**|openresty| | | | | | | | :white_check_mark: | |HSTS Nginx OpenResty|Welcome|
 |[https://web3794.deafsluitdijk.nl](https://web3794.deafsluitdijk.nl)| | **F**|openresty| | | | | | | | :white_check_mark: | |HSTS Nginx OpenResty|Welcome|
 

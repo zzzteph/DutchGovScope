@@ -162,3 +162,7 @@ wiki.test.trainingscatalogus.nl
 course-api.schiphol-lms.trainingscatalogus.nl
 enrollment-api.schiphol-lms.trainingscatalogus.nl
 scim-api.schiphol-lms.trainingscatalogus.nl
+rest.test.trainingscatalogus.nl
+online.test.trainingscatalogus.nl
+admin.test.trainingscatalogus.nl
+content.test.trainingscatalogus.nl

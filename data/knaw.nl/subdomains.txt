@@ -463,7 +463,6 @@ hucdrive.s3.huc.knaw.nl
 limesurvey.comtes.huygens.knaw.nl
 paste.huc.knaw.nl
 pland.meertens.knaw.nl
-svnmvn.huygens.knaw.nl
 transcriptions.globalise.huygens.knaw.nl
 svnmondxml.huygens.knaw.nl
 api.diplomatieke-getuigenissen.huygens.knaw.nl

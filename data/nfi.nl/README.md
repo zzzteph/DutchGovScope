@@ -23,7 +23,7 @@
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[https://insite.nfi.nl](https://insite.nfi.nl)| | **A**|Apache| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Apache HTTP Server HSTS||
 |[https://training.nfi.nl](https://training.nfi.nl)| | **F**|Microsoft-IIS/10.0|:white_check_mark: | | | | | | | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server|Object moved|
-|[https://mijn.nfi.nl](https://mijn.nfi.nl)| | **A**|Apache/2.4.57 (Red Hat Enterprise Linux)| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server:2.4.57 Drupal HSTS PHP:8.1.27 Red Hat|Redirecting to h...|
+|[https://mijn.nfi.nl](https://mijn.nfi.nl)| | **A**|Apache/2.4.57 (Red Hat Enterprise Linux)| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server:2.4.57 Drupal HSTS PHP:8.1.27 Red Hat|Redirecting to h...|
 |[https://www.nfi.nl](https://www.nfi.nl)| **A+**| **A**|Apache| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS|301 Moved Perman...|
 |[https://ontwikkelpunt.nfi.nl](https://ontwikkelpunt.nfi.nl)| | **B**|Class|:white_check_mark: |:white_check_mark: | | |:warning: | | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://testmijn.nfi.nl](https://testmijn.nfi.nl)| **F**| **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|403 Forbidden|

@@ -11,8 +11,8 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/meldpuntwater.nl/subdomains.txt)|2|Alive subdomains|
-|[urls.txt](/data/meldpuntwater.nl/urls.txt)|2|Urls|
+|[subdomains.txt](/data/meldpuntwater.nl/subdomains.txt)|0|Alive subdomains|
+|[urls.txt](/data/meldpuntwater.nl/urls.txt)|0|Urls|
 |[all_subdomains.txt](/data/meldpuntwater.nl/all_subdomains.txt)|5|All found subdomains (history)|
 
 
@@ -21,6 +21,4 @@
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://ftp.meldpuntwater.nl](https://ftp.meldpuntwater.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
-|[https://mail.meldpuntwater.nl](https://mail.meldpuntwater.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
 

@@ -11,9 +11,9 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/bureauwbtv.nl/subdomains.txt)|0|Alive subdomains|
+|[subdomains.txt](/data/bureauwbtv.nl/subdomains.txt)|4|Alive subdomains|
 |[urls.txt](/data/bureauwbtv.nl/urls.txt)|0|Urls|
-|[all_subdomains.txt](/data/bureauwbtv.nl/all_subdomains.txt)|5|All found subdomains (history)|
+|[all_subdomains.txt](/data/bureauwbtv.nl/all_subdomains.txt)|6|All found subdomains (history)|
 
 
 ## Statistics

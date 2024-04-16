@@ -5,7 +5,7 @@
 
 
  - **SSL Grade**:A+
- - **HTTP Security Grade**:B
+ - **HTTP Security Grade**:A
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:0
 
 
@@ -21,6 +21,6 @@
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://www.academieinternationalebetrekkingen.nl](https://www.academieinternationalebetrekkingen.nl)| **A+**| **B**|Class|:white_check_mark: |:white_check_mark: | | |:warning: | | :white_check_mark: | :white_check_mark: | |HSTS||
-|[https://academieinternationalebetrekkingen.nl](https://academieinternationalebetrekkingen.nl)| **A+**| **B**|Class|:white_check_mark: |:white_check_mark: | | |:warning: | | :white_check_mark: | :white_check_mark: | |HSTS||
+|[https://www.academieinternationalebetrekkingen.nl](https://www.academieinternationalebetrekkingen.nl)| **A+**| **A**|Class| |:white_check_mark: | | |:warning: | | :white_check_mark: | :white_check_mark: | |HSTS|Tijdelijke werkz...|
+|[https://academieinternationalebetrekkingen.nl](https://academieinternationalebetrekkingen.nl)| **A+**| **A**|Class| |:white_check_mark: | | |:warning: | | :white_check_mark: | :white_check_mark: | |HSTS|Tijdelijke werkz...|
 

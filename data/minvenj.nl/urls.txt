@@ -6,7 +6,6 @@ https://dtv.connect.minvenj.nl
 http://pdw.gdi.minvenj.nl
 https://www.minvenj.nl
 http://apps.minvenj.nl
-https://ap.connect.minvenj.nl
 https://statistics.ind.minvenj.nl
 https://sip.dtv.minvenj.nl
 https://lyncdiscover.acpt.dtv.minvenj.nl

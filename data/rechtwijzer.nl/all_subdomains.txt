@@ -76,3 +76,6 @@ autoconfig.test.rechtwijzer.nl
 squit2020.test.rechtwijzer.nl
 origin.test.rechtwijzer.nl
 cpanel.test.rechtwijzer.nl
+apps.test.rechtwijzer.nl
+secure.test.rechtwijzer.nl
+oauth.test.rechtwijzer.nl

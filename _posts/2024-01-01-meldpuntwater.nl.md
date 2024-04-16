@@ -2,9 +2,9 @@
 layout: default
 title: "meldpuntwater.nl"
 permalink: "/dutchgov/meldpuntwater.nl.html"
-subdomains_count: 2
+subdomains_count: 0
 all_subdomains_count: 5
-urls_count: 2
+urls_count: 0
 ssl_rank: 
 http_rank: F
 security_txt: 0
@@ -27,8 +27,8 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/meldpuntwater.nl/subdomains.txt)|2|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/meldpuntwater.nl/urls.txt)|2|Urls|
+|[subdomains.txt](/DutchGovScope/data/meldpuntwater.nl/subdomains.txt)|0|Alive subdomains|
+|[urls.txt](/DutchGovScope/data/meldpuntwater.nl/urls.txt)|0|Urls|
 |[all_subdomains.txt](/DutchGovScope/data/meldpuntwater.nl/all_subdomains.txt)|5|All found subdomains (history)|
 
 
@@ -37,6 +37,4 @@ tags: dutchgov
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://ftp.meldpuntwater.nl](https://ftp.meldpuntwater.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
-|[https://mail.meldpuntwater.nl](https://mail.meldpuntwater.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
 

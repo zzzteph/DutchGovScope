@@ -544,3 +544,5 @@ ipa2.ec.rijkscloud.nl
 elk.dgdoobi.rijkscloud.nl
 afwijkend-examineren.dfront.rijkscloud.nl
 shinyproxy.bdds.rijkscloud.nl
+zakelijk.dfront.rijkscloud.nl
+kennisbank.dfront.rijkscloud.nl

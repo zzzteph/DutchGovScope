@@ -6,7 +6,7 @@
 
  - **SSL Grade**:B
  - **HTTP Security Grade**:D
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:3
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:4
 
 
 | File       | Count | Info |
@@ -22,7 +22,7 @@
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[http://acceptatie.loketgezondleven.nl](http://acceptatie.loketgezondleven.nl)| **F**| **E**|| | | | | | | | :white_check_mark: | |||
-|[https://interventies.loketgezondleven.nl](https://interventies.loketgezondleven.nl)| **A+**| **B**|Apache/2.4.34 (Red Hat) PHP/7.3.33| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server:2.4.34 Drupal HSTS PHP:7.3.33 Red Hat|Atlasinfectiezie...|
+|[https://interventies.loketgezondleven.nl](https://interventies.loketgezondleven.nl)| **A+**| **A**|Apache/2.4.34 (Red Hat) PHP/7.3.33| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server:2.4.34 Drupal HSTS PHP:7.3.33 Red Hat|Atlasinfectiezie...|
 |[https://prerelease.loketgezondleven.nl](https://prerelease.loketgezondleven.nl)| **F**| **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|webserver|
 |[https://test.loketgezondleven.nl](https://test.loketgezondleven.nl)| **A+**| **D**||:warning: |:white_check_mark: | | | | | | :white_check_mark: | |F5 BigIP HSTS||
 |[https://toolkits.loketgezondleven.nl](https://toolkits.loketgezondleven.nl)| **A+**| **E**|| | | | | | | | :white_check_mark: | |HSTS Varnish||

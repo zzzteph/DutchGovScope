@@ -146,3 +146,4 @@ test2.dictu.nl
 leerportaal.dictu.nl
 acc2.dictu.nl
 bod1-t.dictu.nl
+bod2-o.dictu.nl

@@ -2,7 +2,6 @@ https://app.brabant.nl
 https://aris.brabant.nl
 https://autorisatie-preprod.brabant.nl
 https://autorisatie-prod.brabant.nl
-https://bbma.brabant.nl
 https://bevolkingsprognose.brabant.nl
 https://bevolkingsprognose2014.brabant.nl
 https://bevolkingsprognose2017.brabant.nl

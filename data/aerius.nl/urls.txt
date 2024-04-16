@@ -27,3 +27,4 @@ https://link.pr.aerius.nl
 https://mail.pr.aerius.nl
 https://search-dev.aerius.nl
 https://www-staging.aerius.nl
+https://connect-staging.aerius.nl

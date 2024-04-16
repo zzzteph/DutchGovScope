@@ -4,7 +4,6 @@ autodiscover.brabant.nl
 email.brabant.nl
 autorisatie-preprod.brabant.nl
 autorisatie-prod.brabant.nl
-bbma.brabant.nl
 bevolkingsprognose.brabant.nl
 bevolkingsprognose2014.brabant.nl
 bevolkingsprognose2017.brabant.nl
@@ -96,6 +95,7 @@ samenwerken.brabant.nl
 www.opendata.brabant.nl
 videoserver.brabant.nl
 atlas-acpt.brabant.nl
+wachtwoord.brabant.nl
 ns4.brabant.nl
 mail231.brabant.nl
 mail230.brabant.nl

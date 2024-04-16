@@ -51,6 +51,6 @@ tags: dutchgov
 |[https://mail.zorgverzekeringslijn.nl](https://mail.zorgverzekeringslijn.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|Test Page for th...|
 |[https://old.zorgverzekeringslijn.nl](https://old.zorgverzekeringslijn.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|Test Page for th...|
 |[https://webmail.zorgverzekeringslijn.nl](https://webmail.zorgverzekeringslijn.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|Test Page for th...|
-|[http://localhost.zorgverzekeringslijn.nl](http://localhost.zorgverzekeringslijn.nl)| | **F**|nginx|:o: | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Laravel Nginx PHP|Weakpass|
+|[http://localhost.zorgverzekeringslijn.nl](http://localhost.zorgverzekeringslijn.nl)| | **F**|nginx| | | :warning:| | | | | :white_check_mark: | |Nginx|(404 Not Found)|
 |[https://mail2.zorgverzekeringslijn.nl](https://mail2.zorgverzekeringslijn.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|301 Moved Perman...|
 

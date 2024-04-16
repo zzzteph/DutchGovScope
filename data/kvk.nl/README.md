@@ -11,7 +11,7 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/kvk.nl/subdomains.txt)|205|Alive subdomains|
+|[subdomains.txt](/data/kvk.nl/subdomains.txt)|195|Alive subdomains|
 |[urls.txt](/data/kvk.nl/urls.txt)|61|Urls|
 |[all_subdomains.txt](/data/kvk.nl/all_subdomains.txt)|490|All found subdomains (history)|
 

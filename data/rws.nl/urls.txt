@@ -145,7 +145,7 @@ https://tst-onderwaterobjecten.rws.nl
 https://tst-sonarreg.rws.nl
 https://waterberichtgeving-sitrap.rws.nl
 https://webportaal.rws.nl
-https://tgox.rws.nl
+http://tgox.rws.nl
 https://techniekacademie.rws.nl
 http://acceptatie.gbvi.rws.nl
 https://keycloak-test.vm-02.azure.grid.rws.nl

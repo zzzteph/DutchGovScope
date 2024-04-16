@@ -11,9 +11,9 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/aerius.nl/subdomains.txt)|16915|Alive subdomains|
-|[urls.txt](/data/aerius.nl/urls.txt)|29|Urls|
-|[all_subdomains.txt](/data/aerius.nl/all_subdomains.txt)|18992|All found subdomains (history)|
+|[subdomains.txt](/data/aerius.nl/subdomains.txt)|18991|Alive subdomains|
+|[urls.txt](/data/aerius.nl/urls.txt)|30|Urls|
+|[all_subdomains.txt](/data/aerius.nl/all_subdomains.txt)|21789|All found subdomains (history)|
 
 
 ## Statistics
@@ -50,4 +50,5 @@
 |[https://mail.pr.aerius.nl](https://mail.pr.aerius.nl)| | **F**|awselb/2.0| | | | | | | | :white_check_mark: | |Amazon ELB Amazon Web Services||
 |[https://search-dev.aerius.nl](https://search-dev.aerius.nl)| | **E**|| | | | | | | | :white_check_mark: | ||AERIUS Search Re...|
 |[https://www-staging.aerius.nl](https://www-staging.aerius.nl)| | **F**|AmazonS3| | | | | | | | :white_check_mark: | |Amazon CloudFront Amazon S3 Amazon Web Services HTTP/3 Vue.js|AERIUS | Rekenin...|
+|[https://connect-staging.aerius.nl](https://connect-staging.aerius.nl)| | **F**|awselb/2.0| | | | | | | | :white_check_mark: | |Amazon ELB Amazon Web Services||
 

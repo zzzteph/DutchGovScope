@@ -43,5 +43,5 @@ tags: dutchgov
 |[https://pop.datachallenge.nl](https://pop.datachallenge.nl)| | **F**|Apache/2| | | | | | | | :white_check_mark: | |Apache HTTP Server:2 MySQL PHP WordPress||
 |[https://smtp.datachallenge.nl](https://smtp.datachallenge.nl)| | **F**|Apache/2| | | | | | | | :white_check_mark: | |Apache HTTP Server:2 MySQL PHP WordPress||
 |[https://ftp.datachallenge.nl](https://ftp.datachallenge.nl)| | **F**|Apache/2| | | | | | | | :white_check_mark: | |Apache HTTP Server:2 MySQL PHP WordPress||
-|[http://localhost.datachallenge.nl](http://localhost.datachallenge.nl)| | **F**|nginx|:o: | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Laravel Nginx PHP|Weakpass|
+|[http://localhost.datachallenge.nl](http://localhost.datachallenge.nl)| | **F**|nginx| | | :warning:| | | | | :white_check_mark: | |Nginx|(404 Not Found)|
 

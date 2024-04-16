@@ -1,10 +1,7 @@
-bbsh.datawonen.nl
 btiv.datawonen.nl
 dfg.datawonen.nl
-disco.datawonen.nl
 hcib.datawonen.nl
 primos.datawonen.nl
-prognoses.datawonen.nl
 syswov.datawonen.nl
 vois.datawonen.nl
 www.datawonen.nl

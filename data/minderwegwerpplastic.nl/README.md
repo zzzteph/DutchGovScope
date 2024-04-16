@@ -5,7 +5,7 @@
 
 
  - **SSL Grade**:B
- - **HTTP Security Grade**:F
+ - **HTTP Security Grade**:C
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:0
 
 
@@ -21,6 +21,6 @@
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://minderwegwerpplastic.nl](https://minderwegwerpplastic.nl)| **B**| **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|Home | Ministeri...|
+|[https://minderwegwerpplastic.nl](https://minderwegwerpplastic.nl)| **B**| **A**|Apache|:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS|Home | Ministeri...|
 |[https://www.minderwegwerpplastic.nl](https://www.minderwegwerpplastic.nl)| **B**| **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|301 Moved Perman...|
 

@@ -229,7 +229,6 @@ bnc3.rws.nl
 enterpriseenrollment.rws.nl
 lims.rws.nl
 securelogin.rws.nl
-webcon.rws.nl
 splunkhec.grid.rws.nl
 splunkhec.gridacc.rws.nl
 status.grid.rws.nl

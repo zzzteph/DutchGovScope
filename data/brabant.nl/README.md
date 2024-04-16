@@ -12,7 +12,7 @@
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/brabant.nl/subdomains.txt)|149|Alive subdomains|
-|[urls.txt](/data/brabant.nl/urls.txt)|78|Urls|
+|[urls.txt](/data/brabant.nl/urls.txt)|77|Urls|
 |[all_subdomains.txt](/data/brabant.nl/all_subdomains.txt)|235|All found subdomains (history)|
 
 
@@ -25,7 +25,6 @@
 |[https://aris.brabant.nl](https://aris.brabant.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bootstrap HSTS||
 |[https://autorisatie-preprod.brabant.nl](https://autorisatie-preprod.brabant.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
 |[https://autorisatie-prod.brabant.nl](https://autorisatie-prod.brabant.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
-|[https://bbma.brabant.nl](https://bbma.brabant.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|Total Design - S...|
 |[https://bevolkingsprognose.brabant.nl](https://bevolkingsprognose.brabant.nl)| | **A**|Apache| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS|De bevolkings- e...|
 |[https://bevolkingsprognose2014.brabant.nl](https://bevolkingsprognose2014.brabant.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|Total Design - S...|
 |[https://bevolkingsprognose2017.brabant.nl](https://bevolkingsprognose2017.brabant.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|Total Design - S...|

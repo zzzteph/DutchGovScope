@@ -6,13 +6,13 @@
 
  - **SSL Grade**:A-
  - **HTTP Security Grade**:A
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:81
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:82
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/pleio.nl/subdomains.txt)|1515|Alive subdomains|
-|[urls.txt](/data/pleio.nl/urls.txt)|1507|Urls|
+|[subdomains.txt](/data/pleio.nl/subdomains.txt)|1519|Alive subdomains|
+|[urls.txt](/data/pleio.nl/urls.txt)|1508|Urls|
 |[all_subdomains.txt](/data/pleio.nl/all_subdomains.txt)|1520|All found subdomains (history)|
 
 
@@ -1528,4 +1528,5 @@
 |[https://accportal.pleio.nl](https://accportal.pleio.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Domeinnaam nog n...|
 |[https://dgh-admin.pleio.nl](https://dgh-admin.pleio.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|403 Forbidden|
 |[https://dgh.pleio.nl](https://dgh.pleio.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|403 Forbidden|
+|[https://lev.pleio.nl](https://lev.pleio.nl)| | **C**|nginx/1.24.0|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS Moodle Nginx:1.24.0 PHP|Startpagina | le...|
 

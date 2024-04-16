@@ -106,3 +106,4 @@ https://store.staging.waarzitwatin.nl
 https://it.staging.waarzitwatin.nl
 https://data.staging.waarzitwatin.nl
 https://origin.staging.waarzitwatin.nl
+https://es.staging.waarzitwatin.nl

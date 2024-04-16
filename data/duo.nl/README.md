@@ -24,13 +24,13 @@
 |[https://apps.duo.nl](https://apps.duo.nl)| **A+**| **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|apps.duo.nl|
 |[https://cijfers.duo.nl](https://cijfers.duo.nl)| **A+**| **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|403 - Forbidden:...|
 |[https://data.duo.nl](https://data.duo.nl)| **A+**| **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |||
-|[https://digidzakelijk.duo.nl](https://digidzakelijk.duo.nl)| **A+**| **A**||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Inloggen - Mijn...|
+|[https://digidzakelijk.duo.nl](https://digidzakelijk.duo.nl)| **A+**| **A**||:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Inloggen - Mijn...|
 |[https://eidas-mijn.duo.nl](https://eidas-mijn.duo.nl)| **A+**| **A**||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[http://enterpriseenrollment.duo.nl](http://enterpriseenrollment.duo.nl)| | **F**|Microsoft-IIS/10.0| | | | | | | | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server|Document Moved|
 |[https://idposr.duo.nl](https://idposr.duo.nl)| **A+**| **A**|WebSEAL/10.0.7.0| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Moved Temporaril...|
 |[https://instellingsinformatie.duo.nl](https://instellingsinformatie.duo.nl)| **A+**| **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET|Document Moved|
 |[https://instellingsinformatie.scha.duo.nl](https://instellingsinformatie.scha.duo.nl)| **A+**| **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET:4.0.30319|Object moved|
-|[https://mijn.duo.nl](https://mijn.duo.nl)| **A**| **A**||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |||
+|[https://mijn.duo.nl](https://mijn.duo.nl)| **A**| **A**||:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |||
 |[https://onderwijsdata.duo.nl](https://onderwijsdata.duo.nl)| **A+**| **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://personenregisterkinderopvang.duo.nl](https://personenregisterkinderopvang.duo.nl)| **A+**| **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Personenregister...|
 |[https://rio-kennisbank.duo.nl](https://rio-kennisbank.duo.nl)| **A+**| **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Google Tag Manager HSTS Java|Kennisbank|

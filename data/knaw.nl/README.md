@@ -11,8 +11,8 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/knaw.nl/subdomains.txt)|1364|Alive subdomains|
-|[urls.txt](/data/knaw.nl/urls.txt)|776|Urls|
+|[subdomains.txt](/data/knaw.nl/subdomains.txt)|1363|Alive subdomains|
+|[urls.txt](/data/knaw.nl/urls.txt)|775|Urls|
 |[all_subdomains.txt](/data/knaw.nl/all_subdomains.txt)|1837|All found subdomains (history)|
 
 
@@ -468,7 +468,6 @@
 |[http://limesurvey.comtes.huygens.knaw.nl](http://limesurvey.comtes.huygens.knaw.nl)| **A+**| **D**|nginx|:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | |Nginx|301 Moved Perman...|
 |[http://paste.huc.knaw.nl](http://paste.huc.knaw.nl)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Nginx|301 Moved Perman...|
 |[http://pland.meertens.knaw.nl](http://pland.meertens.knaw.nl)| **A+**| **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |Nginx|301 Moved Perman...|
-|[http://svnmvn.huygens.knaw.nl](http://svnmvn.huygens.knaw.nl)| **A+**| **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |Nginx|301 Moved Perman...|
 |[http://transcriptions.globalise.huygens.knaw.nl](http://transcriptions.globalise.huygens.knaw.nl)| **A+**| **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |Nginx|301 Moved Perman...|
 |[http://svnmondxml.huygens.knaw.nl](http://svnmondxml.huygens.knaw.nl)| **A+**| **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |Nginx|301 Moved Perman...|
 |[http://api.diplomatieke-getuigenissen.huygens.knaw.nl](http://api.diplomatieke-getuigenissen.huygens.knaw.nl)| **A+**| **D**|nginx| |:white_check_mark: | :warning:| | | | | :white_check_mark: | |Nginx|301 Moved Perman...|

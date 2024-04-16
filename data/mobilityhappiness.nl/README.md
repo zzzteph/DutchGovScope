@@ -6,13 +6,13 @@
 
  - **SSL Grade**:
  - **HTTP Security Grade**:F
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:1
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:0
 
 
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/mobilityhappiness.nl/subdomains.txt)|9|Alive subdomains|
-|[urls.txt](/data/mobilityhappiness.nl/urls.txt)|8|Urls|
+|[urls.txt](/data/mobilityhappiness.nl/urls.txt)|7|Urls|
 |[all_subdomains.txt](/data/mobilityhappiness.nl/all_subdomains.txt)|9|All found subdomains (history)|
 
 
@@ -28,5 +28,4 @@
 |[https://www.mobiliteitsalliantie.mobilityhappiness.nl](https://www.mobiliteitsalliantie.mobilityhappiness.nl)| **F**| **F**|nginx| | | | | | | | :white_check_mark: | |Nginx||
 |[https://mobilityhappiness.nl](https://mobilityhappiness.nl)| **F**| **F**|nginx| | | | | | | | :white_check_mark: | |Nginx||
 |[https://autodiscover.mobilityhappiness.nl](https://autodiscover.mobilityhappiness.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|Argeweb Webmail...|
-|[http://ftp.mobilityhappiness.nl](http://ftp.mobilityhappiness.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server Bootstrap:4.3.1 PHP:7.4.33 Varnish|geregistreerd vi...|
 

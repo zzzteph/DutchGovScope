@@ -2,8 +2,8 @@
 layout: default
 title: "bureauwbtv.nl"
 permalink: "/dutchgov/bureauwbtv.nl.html"
-subdomains_count: 0
-all_subdomains_count: 5
+subdomains_count: 4
+all_subdomains_count: 6
 urls_count: 0
 ssl_rank: 
 http_rank: F
@@ -27,9 +27,9 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/bureauwbtv.nl/subdomains.txt)|0|Alive subdomains|
+|[subdomains.txt](/DutchGovScope/data/bureauwbtv.nl/subdomains.txt)|4|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/bureauwbtv.nl/urls.txt)|0|Urls|
-|[all_subdomains.txt](/DutchGovScope/data/bureauwbtv.nl/all_subdomains.txt)|5|All found subdomains (history)|
+|[all_subdomains.txt](/DutchGovScope/data/bureauwbtv.nl/all_subdomains.txt)|6|All found subdomains (history)|
 
 
 ## Statistics

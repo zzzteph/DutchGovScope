@@ -445,7 +445,6 @@ http://hucdrive.s3.huc.knaw.nl
 http://limesurvey.comtes.huygens.knaw.nl
 http://paste.huc.knaw.nl
 http://pland.meertens.knaw.nl
-http://svnmvn.huygens.knaw.nl
 http://transcriptions.globalise.huygens.knaw.nl
 http://svnmondxml.huygens.knaw.nl
 http://api.diplomatieke-getuigenissen.huygens.knaw.nl

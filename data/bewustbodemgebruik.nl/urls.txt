@@ -3,6 +3,6 @@ https://www.bewustbodemgebruik.nl
 https://bewustbodemgebruik.nl
 https://autoconfig.bewustbodemgebruik.nl
 https://autodiscover.bewustbodemgebruik.nl
-http://ftp.bewustbodemgebruik.nl
+https://ftp.bewustbodemgebruik.nl
 https://ssh.bewustbodemgebruik.nl
 http://localhost.bewustbodemgebruik.nl

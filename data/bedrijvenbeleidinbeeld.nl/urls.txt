@@ -2,3 +2,4 @@ https://feeds.bedrijvenbeleidinbeeld.nl
 https://opendata.bedrijvenbeleidinbeeld.nl
 https://www.bedrijvenbeleidinbeeld.nl
 https://bedrijvenbeleidinbeeld.nl
+https://ondernemingsklimaat.bedrijvenbeleidinbeeld.nl

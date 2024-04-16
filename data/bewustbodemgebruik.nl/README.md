@@ -26,7 +26,7 @@
 |[https://bewustbodemgebruik.nl](https://bewustbodemgebruik.nl)| **A**| **E**|nginx| | | | | | | :white_check_mark: | :white_check_mark: | |MySQL Nginx PHP WordPress|Bewust Bodemgebr...|
 |[https://autoconfig.bewustbodemgebruik.nl](https://autoconfig.bewustbodemgebruik.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|This is the defa...|
 |[https://autodiscover.bewustbodemgebruik.nl](https://autodiscover.bewustbodemgebruik.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|This is the defa...|
-|[http://ftp.bewustbodemgebruik.nl](http://ftp.bewustbodemgebruik.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx||
+|[https://ftp.bewustbodemgebruik.nl](https://ftp.bewustbodemgebruik.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|This is the defa...|
 |[https://ssh.bewustbodemgebruik.nl](https://ssh.bewustbodemgebruik.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|This is the defa...|
-|[http://localhost.bewustbodemgebruik.nl](http://localhost.bewustbodemgebruik.nl)| | **F**|nginx|:o: | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Laravel Nginx PHP|Weakpass|
+|[http://localhost.bewustbodemgebruik.nl](http://localhost.bewustbodemgebruik.nl)| | **F**|nginx| | | :warning:| | | | | :white_check_mark: | |Nginx|(404 Not Found)|
 
