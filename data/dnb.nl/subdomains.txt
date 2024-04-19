@@ -102,7 +102,6 @@ api-tzkalender-dev.dnb.nl
 mijnatm.azure.dnb.nl
 tzpubliekscontact-dev.dnb.nl
 tzpubliekscontact-tst.dnb.nl
-api-tzpubliekscontact-dev.dnb.nl
 tzpubliekscontact-acc.dnb.nl
 tzpubliekscontact.dnb.nl
 atender.dnb.nl

@@ -6,7 +6,7 @@
 
  - **SSL Grade**:B+
  - **HTTP Security Grade**:C
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:38
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:40
 
 
 | File       | Count | Info |
@@ -110,7 +110,7 @@
 |[https://test-cms.projecten.rvo.nl](https://test-cms.projecten.rvo.nl)| **A**| **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |Basic HSTS Nginx|401 Authorizatio...|
 |[https://prod.wetten.rvo.nl](https://prod.wetten.rvo.nl)| **A**| **F**|nginx| | | | | | | | :white_check_mark: | |Basic Nginx|401 Authorizatio...|
 |[https://wetten.rvo.nl](https://wetten.rvo.nl)| **A+**| **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Drupal HSTS Nginx PHP|Redirecting to h...|
-|[https://acc-wetten.rvo.nl](https://acc-wetten.rvo.nl)| **A**| **E**|nginx/1.24.0| | | | | | :white_check_mark: | | :white_check_mark: | |Drupal Nginx:1.24.0 PHP:8.1.27|Redirecting to h...|
+|[https://acc-wetten.rvo.nl](https://acc-wetten.rvo.nl)| **A**| **E**|nginx/1.24.0| | | | | | :white_check_mark: | | :white_check_mark: | |Drupal Nginx:1.24.0 PHP:8.1.28|Redirecting to h...|
 |[https://test-wetten.rvo.nl](https://test-wetten.rvo.nl)| **A**| **F**|nginx/1.24.0| | | | | | | | :white_check_mark: | |Basic Nginx:1.24.0|401 Authorizatio...|
 |[https://english-data.rvo.nl](https://english-data.rvo.nl)| **A+**| **E**|| | | | | | | | :white_check_mark: | |Drupal HSTS PHP Varnish||
 |[http://bpa.rvo.nl](http://bpa.rvo.nl)| **B**| **E**|| | | | | | | | :white_check_mark: | |||

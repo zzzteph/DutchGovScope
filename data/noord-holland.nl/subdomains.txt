@@ -98,3 +98,4 @@ nhlvsbcp001.noord-holland.nl
 enterpriseenrollment.noord-holland.nl
 enterpriseregistration.noord-holland.nl
 hybrid.noord-holland.nl
+druktemonitor.noord-holland.nl

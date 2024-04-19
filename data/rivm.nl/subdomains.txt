@@ -248,7 +248,6 @@ acc-tdv.rivm.nl
 support.rivm.nl
 www.acc-mijn.rivm.nl
 acc.aiz.osiris.rivm.nl
-sftp-nxt.rivm.nl
 fs-pub.rivm.nl
 acc-isis-ar-rapportage.rivm.nl
 mijnlmm.rivm.nl
@@ -401,3 +400,4 @@ teebstad-app.rivm.nl
 micha.rivm.nl
 stikstofdepositiedata.rivm.nl
 ggdiamdemo.rivm.nl
+developer.rivm.nl

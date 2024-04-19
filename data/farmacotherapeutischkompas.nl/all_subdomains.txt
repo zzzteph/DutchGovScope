@@ -14,3 +14,5 @@ cms-dev.farmacotherapeutischkompas.nl
 cms-ow.farmacotherapeutischkompas.nl
 cms-tst.farmacotherapeutischkompas.nl
 www-p.farmacotherapeutischkompas.nl
+cms-acc.farmacotherapeutischkompas.nl
+cms-p.farmacotherapeutischkompas.nl

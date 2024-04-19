@@ -8,7 +8,7 @@ https://inloggen-preprod.waterschaplimburg.nl
 http://pdok.waterschaplimburg.nl
 https://wikixl-saml.acceptatie.waterschaplimburg.nl
 https://begrippen.waterschaplimburg.nl
-http://test-cms-eef.waterschaplimburg.nl
+https://test-cms-eef.waterschaplimburg.nl
 https://mail.waterschaplimburg.nl
 https://spapps.waterschaplimburg.nl
 https://cms-eef.waterschaplimburg.nl

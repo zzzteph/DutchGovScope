@@ -6,7 +6,7 @@ subdomains_count: 2
 all_subdomains_count: 2
 urls_count: 2
 ssl_rank: A+
-http_rank: A
+http_rank: E
 security_txt: 2
 url_link: /data/n3werkzaamheden.nl/urls.txt
 all_subdomains_link: /data/n3werkzaamheden.nl/all_subdomains.txt
@@ -21,7 +21,7 @@ tags: dutchgov
 
 
  - **SSL Grade**:A+
- - **HTTP Security Grade**:A
+ - **HTTP Security Grade**:E
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:2
 
 
@@ -37,6 +37,6 @@ tags: dutchgov
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://www.n3werkzaamheden.nl](https://www.n3werkzaamheden.nl)| **A+**| **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET|Object moved|
-|[https://n3werkzaamheden.nl](https://n3werkzaamheden.nl)| **A+**| **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET|Object moved|
+|[https://www.n3werkzaamheden.nl](https://www.n3werkzaamheden.nl)| **A+**| **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Object moved|
+|[https://n3werkzaamheden.nl](https://n3werkzaamheden.nl)| **A+**| **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Object moved|
 

@@ -4,7 +4,7 @@ title: "trainingscatalogus.nl"
 permalink: "/dutchgov/trainingscatalogus.nl.html"
 subdomains_count: 168
 all_subdomains_count: 181
-urls_count: 104
+urls_count: 107
 ssl_rank: A+
 http_rank: C
 security_txt: 26
@@ -28,7 +28,7 @@ tags: dutchgov
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/DutchGovScope/data/trainingscatalogus.nl/subdomains.txt)|168|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/trainingscatalogus.nl/urls.txt)|104|Urls|
+|[urls.txt](/DutchGovScope/data/trainingscatalogus.nl/urls.txt)|107|Urls|
 |[all_subdomains.txt](/DutchGovScope/data/trainingscatalogus.nl/all_subdomains.txt)|181|All found subdomains (history)|
 
 
@@ -141,4 +141,7 @@ tags: dutchgov
 |[https://vgz-lms-a.enrollment-api.trainingscatalogus.nl](https://vgz-lms-a.enrollment-api.trainingscatalogus.nl)| | **F**|Microsoft-IIS/10.0|:white_check_mark: | | | | | | | :white_check_mark: | |Azure IIS:10.0 Microsoft ASP.NET Windows Server||
 |[https://vgz-lms-a.scim-api.trainingscatalogus.nl](https://vgz-lms-a.scim-api.trainingscatalogus.nl)| | **F**|Microsoft-IIS/10.0|:white_check_mark: | | | | | | | :white_check_mark: | |Azure IIS:10.0 Microsoft ASP.NET Windows Server||
 |[https://vgz-lms-a.course-api.trainingscatalogus.nl](https://vgz-lms-a.course-api.trainingscatalogus.nl)| | **F**|Microsoft-IIS/10.0|:white_check_mark: | | | | | | | :white_check_mark: | |Azure IIS:10.0 Microsoft ASP.NET Windows Server||
+|[https://course-api.schiphol-lms.trainingscatalogus.nl](https://course-api.schiphol-lms.trainingscatalogus.nl)| | **F**|Microsoft-IIS/10.0|:white_check_mark: | | | | | | | :white_check_mark: | |Azure IIS:10.0 Microsoft ASP.NET Windows Server||
+|[https://enrollment-api.schiphol-lms.trainingscatalogus.nl](https://enrollment-api.schiphol-lms.trainingscatalogus.nl)| | **F**|Microsoft-IIS/10.0|:white_check_mark: | | | | | | | :white_check_mark: | |Azure IIS:10.0 Microsoft ASP.NET Windows Server||
+|[https://scim-api.schiphol-lms.trainingscatalogus.nl](https://scim-api.schiphol-lms.trainingscatalogus.nl)| | **F**|Microsoft-IIS/10.0|:white_check_mark: | | | | | | | :white_check_mark: | |Azure IIS:10.0 Microsoft ASP.NET Windows Server||
 

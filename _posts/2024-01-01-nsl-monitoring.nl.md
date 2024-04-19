@@ -2,9 +2,9 @@
 layout: default
 title: "nsl-monitoring.nl"
 permalink: "/dutchgov/nsl-monitoring.nl.html"
-subdomains_count: 7
+subdomains_count: 5
 all_subdomains_count: 15
-urls_count: 1
+urls_count: 0
 ssl_rank: 
 http_rank: F
 security_txt: 0
@@ -27,8 +27,8 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/nsl-monitoring.nl/subdomains.txt)|7|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/nsl-monitoring.nl/urls.txt)|1|Urls|
+|[subdomains.txt](/DutchGovScope/data/nsl-monitoring.nl/subdomains.txt)|5|Alive subdomains|
+|[urls.txt](/DutchGovScope/data/nsl-monitoring.nl/urls.txt)|0|Urls|
 |[all_subdomains.txt](/DutchGovScope/data/nsl-monitoring.nl/all_subdomains.txt)|15|All found subdomains (history)|
 
 
@@ -37,5 +37,4 @@ tags: dutchgov
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[http://localhost.nsl-monitoring.nl](http://localhost.nsl-monitoring.nl)| | **F**|nginx| | | :warning:| | | | | :white_check_mark: | |Nginx|(404 Not Found)|
 

@@ -6,7 +6,7 @@
 
  - **SSL Grade**:C
  - **HTTP Security Grade**:E
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:2
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:0
 
 
 | File       | Count | Info |
@@ -28,9 +28,9 @@
 |[https://klantpreferentie2019.perined.nl](https://klantpreferentie2019.perined.nl)| **F**| **F**|Apache/2.4.58 (Amazon Linux) OpenSSL/3.0.8| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.58 HSTS OpenSSL:3.0.8|301 Moved Perman...|
 |[https://lnr.perined.nl](https://lnr.perined.nl)| **B**| **F**|nginx|:white_check_mark: | | | | | | :white_check_mark: | :white_check_mark: | |Microsoft ASP.NET Nginx|LNR2|
 |[https://vragenlijst.perined.nl](https://vragenlijst.perined.nl)| **B**| **E**|nginx| | | | | | | :white_check_mark: | :white_check_mark: | |Nginx||
-|[https://www.perined.nl](https://www.perined.nl)| **A+**| **C**|Apache|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server Bootstrap:4.5.2 HSTS Typekit|Perined | Home|
+|[https://www.perined.nl](https://www.perined.nl)| **A+**| **C**|Apache| |:white_check_mark: | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|503 Service Unav...|
 |[https://assets.perined.nl](https://assets.perined.nl)| **A+**| **C**|AmazonS3| |:white_check_mark: | | | | | | :white_check_mark: | |Amazon S3 Amazon Web Services HSTS||
-|[https://perined.nl](https://perined.nl)| **A+**| **C**|Apache/2.4.58 (Amazon Linux) OpenSSL/3.0.8|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server:2.4.58 HSTS OpenSSL:3.0.8|301 Moved Perman...|
+|[https://perined.nl](https://perined.nl)| **A+**| **C**|Apache/2.4.58 (Amazon Linux) OpenSSL/3.0.8| |:white_check_mark: | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.58 HSTS OpenSSL:3.0.8|301 Moved Perman...|
 |[https://2015assets.perined.nl](https://2015assets.perined.nl)| **F**| **F**|Apache/2.4.58 (Amazon Linux) OpenSSL/3.0.8| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.58 HSTS OpenSSL:3.0.8|301 Moved Perman...|
 |[https://cwww.perined.nl](https://cwww.perined.nl)| **F**| **F**|Apache/2.4.58 (Amazon Linux) OpenSSL/3.0.8| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.58 HSTS OpenSSL:3.0.8|301 Moved Perman...|
 |[https://15assets.perined.nl](https://15assets.perined.nl)| **F**| **F**|Apache/2.4.58 (Amazon Linux) OpenSSL/3.0.8| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.58 HSTS OpenSSL:3.0.8|301 Moved Perman...|

@@ -21,7 +21,6 @@ mailtrap.uat.backtoroots.nioo.knaw.nl
 nioo.knaw.nl
 solr.zandbak.dans.knaw.nl
 sparql.zandbak.dans.knaw.nl
-talking-data.blog.dans.knaw.nl
 www.herseninstituut.knaw.nl
 acc.cms21.knaw.nl
 www.promise.nioo.knaw.nl

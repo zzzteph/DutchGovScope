@@ -12,7 +12,7 @@
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/dus-i.nl/subdomains.txt)|17|Alive subdomains|
-|[urls.txt](/data/dus-i.nl/urls.txt)|13|Urls|
+|[urls.txt](/data/dus-i.nl/urls.txt)|14|Urls|
 |[all_subdomains.txt](/data/dus-i.nl/all_subdomains.txt)|38|All found subdomains (history)|
 
 
@@ -34,4 +34,5 @@
 |[https://gebruiker-beheer.dus-i.nl](https://gebruiker-beheer.dus-i.nl)| **A+**| **B**|Apache| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server Basic HSTS|401 Unauthorized|
 |[https://aanvraag.dus-i.nl](https://aanvraag.dus-i.nl)| **A+**| **A**|Apache| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS|DUS-I|
 |[https://mailings.dus-i.nl](https://mailings.dus-i.nl)| **A**| **F**|nginx| | | | | | | | :white_check_mark: | |Nginx||
+|[http://start.dus-i.nl](http://start.dus-i.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 

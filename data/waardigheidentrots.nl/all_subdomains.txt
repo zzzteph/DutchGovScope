@@ -14,3 +14,4 @@ www.registratie.waardigheidentrots.nl
 cloud.waardigheidentrots.nl
 api.waardigheidentrots.nl
 cms.waardigheidentrots.nl
+m906.waardigheidentrots.nl

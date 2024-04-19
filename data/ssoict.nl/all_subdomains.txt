@@ -120,3 +120,4 @@ staging-1ntra-kiforms.ssoict.nl
 idmszw.ssoict.nl
 klasseburo.ssoict.nl
 productie.live.sociaalfonds.ssoict.nl
+passagiersrechten.ssoict.nl

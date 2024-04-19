@@ -7,7 +7,7 @@ all_subdomains_count: 1235
 urls_count: 751
 ssl_rank: A
 http_rank: E
-security_txt: 586
+security_txt: 585
 url_link: /data/waterschaplimburg.nl/urls.txt
 all_subdomains_link: /data/waterschaplimburg.nl/all_subdomains.txt
 subdomains_link: /data/waterschaplimburg.nl/subdomains.txt
@@ -22,7 +22,7 @@ tags: dutchgov
 
  - **SSL Grade**:A
  - **HTTP Security Grade**:E
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:586
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:585
 
 
 | File       | Count | Info |
@@ -47,7 +47,7 @@ tags: dutchgov
 |[http://pdok.waterschaplimburg.nl](http://pdok.waterschaplimburg.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
 |[https://wikixl-saml.acceptatie.waterschaplimburg.nl](https://wikixl-saml.acceptatie.waterschaplimburg.nl)| **A+**| **B**|Apache| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS|Redirect|
 |[https://begrippen.waterschaplimburg.nl](https://begrippen.waterschaplimburg.nl)| **A+**| **B**|Apache| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS||
-|[http://test-cms-eef.waterschaplimburg.nl](http://test-cms-eef.waterschaplimburg.nl)| **A+**| **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Document Moved|
+|[https://test-cms-eef.waterschaplimburg.nl](https://test-cms-eef.waterschaplimburg.nl)| **A+**| **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|403 - Forbidden:...|
 |[https://mail.waterschaplimburg.nl](https://mail.waterschaplimburg.nl)| **B**| **E**|Microsoft-IIS/8.5| | | | | | :white_check_mark: | | :white_check_mark: | |IIS:8.5 Windows Server||
 |[https://spapps.waterschaplimburg.nl](https://spapps.waterschaplimburg.nl)| **A**| **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|TransIP - Reserv...|
 |[https://cms-eef.waterschaplimburg.nl](https://cms-eef.waterschaplimburg.nl)| **A+**| **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|403 - Forbidden:...|
@@ -65,7 +65,7 @@ tags: dutchgov
 |[http://nextcloud.waterschaplimburg.nl](http://nextcloud.waterschaplimburg.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
 |[https://subsidie.waterschaplimburg.nl](https://subsidie.waterschaplimburg.nl)| **A+**| **A**||:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bootstrap HSTS Microsoft ASP.NET|Home - Waterscha...|
 |[https://digikoppeling.waterschaplimburg.nl](https://digikoppeling.waterschaplimburg.nl)| **F**| **F**|unspecified| | | | | | | | :white_check_mark: | |||
-|[https://metelkaar.waterschaplimburg.nl](https://metelkaar.waterschaplimburg.nl)| **A+**| **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET|Object moved|
+|[https://metelkaar.waterschaplimburg.nl](https://metelkaar.waterschaplimburg.nl)| **A+**| **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET||
 |[https://redactie.waterschaplimburg.nl](https://redactie.waterschaplimburg.nl)| **A**| **A**|-|:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:-|Object moved|
 |[https://www.waterschaplimburg.nl](https://www.waterschaplimburg.nl)| **A**| **A**|-| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Google Tag Manager HSTS Microsoft ASP.NET:- MyFonts|Home - Waterscha...|
 |[http://test-eef.waterschaplimburg.nl](http://test-eef.waterschaplimburg.nl)| **A+**| **A**||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||

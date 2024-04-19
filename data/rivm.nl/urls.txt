@@ -189,7 +189,6 @@ https://statline.rivm.nl
 https://tapir.rivm.nl
 https://teebstad.rivm.nl
 https://teekcontrol.rivm.nl
-https://test-fides.rivm.nl
 http://test-veldmonitoring.rivm.nl
 http://test.crios.rivm.nl
 http://test.lci.rivm.nl
@@ -248,7 +247,6 @@ http://acc-tdv.rivm.nl
 https://support.rivm.nl
 https://www.acc-mijn.rivm.nl
 http://acc.aiz.osiris.rivm.nl
-http://sftp-nxt.rivm.nl
 https://fs-pub.rivm.nl
 http://acc-isis-ar-rapportage.rivm.nl
 https://mijnlmm.rivm.nl

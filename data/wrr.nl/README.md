@@ -21,7 +21,7 @@
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://web.wrr.nl](https://web.wrr.nl)| **A+**| **F**|nginx| | | | | | | | :white_check_mark: | |HSTS Nginx||
+|[https://web.wrr.nl](https://web.wrr.nl)| **A+**| **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|502 Bad Gateway|
 |[https://english.wrr.nl](https://english.wrr.nl)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Home | The Nethe...|
 |[https://feeds.english.wrr.nl](https://feeds.english.wrr.nl)| **A+**| **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://feeds.wrr.nl](https://feeds.wrr.nl)| **A+**| **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||

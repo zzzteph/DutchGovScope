@@ -30,7 +30,7 @@
 |[https://sso.istandaarden.nl](https://sso.istandaarden.nl)| **A**| **F**|istio-envoy| | | | | | | | :white_check_mark: | |||
 |[https://sso.acceptatie.istandaarden.nl](https://sso.acceptatie.istandaarden.nl)| **A**| **F**|istio-envoy| | | | | | | | :white_check_mark: | |||
 |[https://www.istandaarden.nl](https://www.istandaarden.nl)| **A+**| **B**|Solvinity Server|:white_check_mark: |:white_check_mark: | | |:warning: | | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS|iStandaarden|
-|[https://www-ac.istandaarden.nl](https://www-ac.istandaarden.nl)| **A+**| **B**|Solvinity Server|:white_check_mark: |:white_check_mark: | | |:warning: | | :white_check_mark: | :white_check_mark: | |HSTS|iStandaarden|
+|[https://www-ac.istandaarden.nl](https://www-ac.istandaarden.nl)| **A+**| **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server Basic|401 Unauthorized|
 |[https://istandaarden.nl](https://istandaarden.nl)| **A+**| **B**|Apache|:white_check_mark: |:white_check_mark: | | |:warning: | | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS|301 Moved Perman...|
 |[https://registry.acceptatie.istandaarden.nl](https://registry.acceptatie.istandaarden.nl)| **A**| **F**|istio-envoy| | | | | | | | :white_check_mark: | |Envoy||
 |[https://repository.acceptatie.istandaarden.nl](https://repository.acceptatie.istandaarden.nl)| **A**| **C**|istio-envoy|:white_check_mark: | | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Envoy||

@@ -11,7 +11,7 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/vechtstromen.nl/subdomains.txt)|51|Alive subdomains|
+|[subdomains.txt](/data/vechtstromen.nl/subdomains.txt)|53|Alive subdomains|
 |[urls.txt](/data/vechtstromen.nl/urls.txt)|38|Urls|
 |[all_subdomains.txt](/data/vechtstromen.nl/all_subdomains.txt)|102|All found subdomains (history)|
 
@@ -44,8 +44,8 @@
 |[https://secure.vechtstromen.nl](https://secure.vechtstromen.nl)| **A+**| **B**|Layer7-API-Gateway|:o: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |Fortinet FortiGate HSTS||
 |[https://helloid.vechtstromen.nl](https://helloid.vechtstromen.nl)| **A+**| **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |Azure HSTS|Object moved|
 |[https://testkaarten.vechtstromen.nl](https://testkaarten.vechtstromen.nl)| **A**| **E**|| | | | | | | | :white_check_mark: | |||
-|[https://vaultfs.vechtstromen.nl](https://vaultfs.vechtstromen.nl)| **A+**| **A**|nginx/1.25.3| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Amazon S3 Amazon Web Services HSTS Nginx:1.25.3|Psono|
-|[https://vault.vechtstromen.nl](https://vault.vechtstromen.nl)| **A+**| **A**|nginx/1.25.3| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Amazon S3 Amazon Web Services HSTS Nginx:1.25.3|Psono|
+|[https://vaultfs.vechtstromen.nl](https://vaultfs.vechtstromen.nl)| **A+**| **A**|nginx/1.25.4| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Amazon S3 Amazon Web Services HSTS Nginx:1.25.4|Psono|
+|[https://vault.vechtstromen.nl](https://vault.vechtstromen.nl)| **A+**| **A**|nginx/1.25.4| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Amazon S3 Amazon Web Services HSTS Nginx:1.25.4|Psono|
 |[https://blaeudamo-a.vechtstromen.nl](https://blaeudamo-a.vechtstromen.nl)| **A**| **E**|| | | | | | | | :white_check_mark: | |||
 |[https://login.vechtstromen.nl](https://login.vechtstromen.nl)| **B**| **B**|| | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |||
 |[https://formulieren.vechtstromen.nl](https://formulieren.vechtstromen.nl)| **A+**| **A**|Microsoft-IIS/10.0| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |IIS:10.0 Windows Server||

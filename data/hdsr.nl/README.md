@@ -11,8 +11,8 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/hdsr.nl/subdomains.txt)|33|Alive subdomains|
-|[urls.txt](/data/hdsr.nl/urls.txt)|28|Urls|
+|[subdomains.txt](/data/hdsr.nl/subdomains.txt)|34|Alive subdomains|
+|[urls.txt](/data/hdsr.nl/urls.txt)|29|Urls|
 |[all_subdomains.txt](/data/hdsr.nl/all_subdomains.txt)|110|All found subdomains (history)|
 
 
@@ -41,6 +41,7 @@
 |[https://kaarten.hdsr.nl](https://kaarten.hdsr.nl)| **A**| **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|403 Forbidden|
 |[https://begrippen.hdsr.nl](https://begrippen.hdsr.nl)| **A+**| **B**|Apache| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS||
 |[https://zaaksysteem-acc.hdsr.nl](https://zaaksysteem-acc.hdsr.nl)| **A+**| **A**||:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Moved|
+|[http://zoeken.hdsr.nl](http://zoeken.hdsr.nl)| | **F**|-| | | | | | | | :white_check_mark: | |Microsoft ASP.NET:-|Document Moved|
 |[https://uconnect-acc.hdsr.nl](https://uconnect-acc.hdsr.nl)| **A**| **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|403 Forbidden|
 |[https://wsus.hdsr.nl](https://wsus.hdsr.nl)| **A+**| **A**|xxxx|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Java|User Portal|
 |[https://geoservices.hdsr.nl](https://geoservices.hdsr.nl)| **A**| **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server Microsoft ASP.NET|IIS Windows Serv...|

@@ -39,7 +39,7 @@
 |[https://app.svb.nl](https://app.svb.nl)| | **A**||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |||
 |[https://mft-acc.svb.nl](https://mft-acc.svb.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Redirect|
 |[https://app-o.svb.nl](https://app-o.svb.nl)| **A**| **A**||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |||
-|[https://onderzoek.svb.nl](https://onderzoek.svb.nl)| **A**| **A**|BigIP| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |F5 BigIP||
+|[https://onderzoek.svb.nl](https://onderzoek.svb.nl)| **A**| **A**|BigIP|:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |F5 BigIP||
 |[https://apps.svb.nl](https://apps.svb.nl)| **B**| **E**|| | | | | | | | :white_check_mark: | ||404 Not Found|
 |[https://rdsapplications00.svb.nl](https://rdsapplications00.svb.nl)| | **F**|Microsoft-IIS/10.0| | | | | | | | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server|IIS Windows Serv...|
 |[https://mijnwmo-siam.svb.nl](https://mijnwmo-siam.svb.nl)| **B**| **A**||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|A-Select Filter...|
@@ -56,7 +56,7 @@
 |[https://rdsapplications05.svb.nl](https://rdsapplications05.svb.nl)| **A**| **F**|Microsoft-IIS/10.0| | | | | | | | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server|IIS Windows Serv...|
 |[https://myprint.svb.nl](https://myprint.svb.nl)| **F**| **E**|| | | | | | | | :white_check_mark: | |||
 |[https://desktop.entreepgb.svb.nl](https://desktop.entreepgb.svb.nl)| **A**| **F**|Microsoft-IIS/10.0|:o: | | | | | :white_check_mark: | | :white_check_mark: | |IIS:10.0 Windows Server|Document Moved|
-|[https://events.svb.nl](https://events.svb.nl)| **A+**| **A**||:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Amazon S3 Amazon Web Services HSTS||
+|[https://events.svb.nl](https://events.svb.nl)| **A+**| **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Amazon S3 Amazon Web Services HSTS||
 |[https://app-t.svb.nl](https://app-t.svb.nl)| **A**| **A**||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |||
 |[https://mijnpgb-siam.svb.nl](https://mijnpgb-siam.svb.nl)| **B**| **A**||:warning: |:white_check_mark: | :warning:| | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|302 Found|
 |[http://www.entreepgb.svb.nl](http://www.entreepgb.svb.nl)| | **E**|| | | | | | | | :white_check_mark: | |||

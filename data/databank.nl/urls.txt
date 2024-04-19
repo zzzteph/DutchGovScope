@@ -1757,7 +1757,6 @@ http://accept-noordholland.databank.nl
 https://arbeidsmarktoomt.databank.nl
 http://accept-abc.databank.nl
 https://beta-mboscanner.databank.nl
-https://accept-klimaatmonitor.databank.nl
 http://beta-geldersefinancien.databank.nl
 http://accept-prognosemodelzw.databank.nl
 https://beta-arbeidsmarktstl.databank.nl
@@ -1767,9 +1766,10 @@ https://beta-ciz.databank.nl
 http://beta-ovdashboard.databank.nl
 http://bfontwikkeling.databank.nl
 http://beta-vgm.databank.nl
-http://beta-duurzamemobiliteit.databank.nl
+https://beta-duurzamemobiliteit.databank.nl
 https://cname-test-adc.databank.nl
 https://demo-klimaatportaal.databank.nl
+http://accept-ebc.databank.nl
 http://beta-nbtc.databank.nl
 https://cname-beta-adc.databank.nl
 https://beta-cbc.databank.nl
@@ -1777,8 +1777,8 @@ https://beta-bvz-waves.databank.nl
 https://veiligheidsmonitor.demo.databank.nl
 https://beta-waddinxveen.databank.nl
 https://cname-forecast-adc.databank.nl
-http://beta-bronnenbeheer.databank.nl
-https://beta-afvalmonitor.databank.nl
+https://beta-bronnenbeheer.databank.nl
+http://beta-afvalmonitor.databank.nl
 https://jeugdgezondheid.databank.nl
 https://ggddemo.databank.nl
 https://demo-pwc.databank.nl

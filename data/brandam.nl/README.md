@@ -21,22 +21,22 @@
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://innovatieacademie.brandam.nl](https://innovatieacademie.brandam.nl)| **A+**| **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS MySQL Nginx PHP WordPress:6.4.3 Yoast SEO:22.4|Innovatie Academ...|
+|[https://innovatieacademie.brandam.nl](https://innovatieacademie.brandam.nl)| **A+**| **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS MySQL Nginx PHP WordPress:6.4.4 Yoast SEO:22.5|Innovatie Academ...|
 |[https://acvg.brandam.nl](https://acvg.brandam.nl)| **A+**| **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Nginx||
-|[https://brandam.nl](https://brandam.nl)| **A+**| **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS MySQL Nginx PHP WordPress:6.4.3 Yoast SEO:22.4|BranDAM|
+|[https://brandam.nl](https://brandam.nl)| **A+**| **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS MySQL Nginx PHP WordPress:6.4.4 Yoast SEO:22.5|BranDAM|
 |[https://mail.brandam.nl](https://mail.brandam.nl)| **F**| **F**|nginx| | | | | | | | :white_check_mark: | |Nginx||
 |[https://www.innovatieacademie.brandam.nl](https://www.innovatieacademie.brandam.nl)| **F**| **F**|nginx| | | | | | | | :white_check_mark: | |Nginx||
-|[https://glb.brandam.nl](https://glb.brandam.nl)| **A+**| **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS MySQL Nginx PHP WordPress:6.4.3 Yoast SEO:22.4|GLB|
-|[https://bzktransparant.brandam.nl](https://bzktransparant.brandam.nl)| **A+**| **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS MySQL Nginx PHP WordPress:6.4.3 Yoast SEO:22.4|BZK transparant|
-|[https://ocwpdr.brandam.nl](https://ocwpdr.brandam.nl)| **A+**| **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS MySQL Nginx PHP WordPress:6.4.3 Yoast SEO:22.4|OCW tegen discri...|
-|[https://ncdr.brandam.nl](https://ncdr.brandam.nl)| **A+**| **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS MySQL Nginx PHP WordPress:6.4.3 Yoast SEO:22.4|NCDR|
-|[https://ketenconferentie2022.brandam.nl](https://ketenconferentie2022.brandam.nl)| **A+**| **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS MySQL Nginx PHP WordPress:6.4.3 Yoast SEO:22.4|Ketenconferentie...|
+|[https://glb.brandam.nl](https://glb.brandam.nl)| **A+**| **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS MySQL Nginx PHP WordPress:6.4.4 Yoast SEO:22.5|GLB|
+|[https://bzktransparant.brandam.nl](https://bzktransparant.brandam.nl)| **A+**| **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS MySQL Nginx PHP WordPress:6.4.4 Yoast SEO:22.5|BZK transparant|
+|[https://ocwpdr.brandam.nl](https://ocwpdr.brandam.nl)| **A+**| **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS MySQL Nginx PHP WordPress:6.4.4 Yoast SEO:22.5|OCW tegen discri...|
+|[https://ncdr.brandam.nl](https://ncdr.brandam.nl)| **A+**| **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS MySQL Nginx PHP WordPress:6.4.4 Yoast SEO:22.5|NCDR|
+|[https://ketenconferentie2022.brandam.nl](https://ketenconferentie2022.brandam.nl)| **A+**| **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS MySQL Nginx PHP WordPress:6.4.4 Yoast SEO:22.5|Ketenconferentie...|
 |[https://www.brandam.nl](https://www.brandam.nl)| **A+**| **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Nginx||
-|[https://vormvijf.brandam.nl](https://vormvijf.brandam.nl)| **A+**| **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS MySQL Nginx PHP WordPress:6.4.3 Yoast SEO:22.4|VormVijf|
-|[https://szw-via.brandam.nl](https://szw-via.brandam.nl)| **A+**| **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS MySQL Nginx PHP WordPress:6.4.3 Yoast SEO:22.4|SZW - Voor een I...|
-|[https://ezklnv.brandam.nl](https://ezklnv.brandam.nl)| **A+**| **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS MySQL Nginx PHP WordPress:6.4.3 Yoast SEO:22.4|Duurzaam EZK & L...|
+|[https://vormvijf.brandam.nl](https://vormvijf.brandam.nl)| **A+**| **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS MySQL Nginx PHP WordPress:6.4.4 Yoast SEO:22.5|VormVijf|
+|[https://szw-via.brandam.nl](https://szw-via.brandam.nl)| **A+**| **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS MySQL Nginx PHP WordPress:6.4.4 Yoast SEO:22.5|SZW - Voor een I...|
+|[https://ezklnv.brandam.nl](https://ezklnv.brandam.nl)| **A+**| **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS MySQL Nginx PHP WordPress:6.4.4 Yoast SEO:22.5|Duurzaam EZK & L...|
 |[https://emancipatienota.brandam.nl](https://emancipatienota.brandam.nl)| **A+**| **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Nginx||
-|[https://strategiede.brandam.nl](https://strategiede.brandam.nl)| | **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS MySQL Nginx PHP WordPress:6.4.3 Yoast SEO:22.4|EZK Strategie Di...|
+|[https://strategiede.brandam.nl](https://strategiede.brandam.nl)| | **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS MySQL Nginx PHP WordPress:6.4.4 Yoast SEO:22.5|EZK Strategie Di...|
 |[https://ncdrrapport.brandam.nl](https://ncdrrapport.brandam.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|The account host...|
 |[https://ocw-tegen-discriminatie-en-racisme.brandam.nl](https://ocw-tegen-discriminatie-en-racisme.brandam.nl)| **A+**| **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Nginx||
 

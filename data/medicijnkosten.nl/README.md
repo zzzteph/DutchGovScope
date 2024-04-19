@@ -5,7 +5,7 @@
 
 
  - **SSL Grade**:A+
- - **HTTP Security Grade**:C
+ - **HTTP Security Grade**:D
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:0
 
 
@@ -23,6 +23,6 @@
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[https://proto.medicijnkosten.nl](https://proto.medicijnkosten.nl)| **A**| **F**|GitHub.com| | | :warning:| | | | | :white_check_mark: | |Fastly GitHub Pages Varnish|Medicijnkosten.n...|
 |[https://www.medicijnkosten.nl](https://www.medicijnkosten.nl)| **A+**| **B**|Solvinity Server|:white_check_mark: |:white_check_mark: | | |:warning: | | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS|Medicijnkosten.n...|
-|[https://www-ac.medicijnkosten.nl](https://www-ac.medicijnkosten.nl)| **A+**| **B**|Solvinity Server|:white_check_mark: |:white_check_mark: | | |:warning: | | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS|Medicijnkosten.n...|
+|[https://www-ac.medicijnkosten.nl](https://www-ac.medicijnkosten.nl)| **A+**| **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server Basic|401 Unauthorized|
 |[https://medicijnkosten.nl](https://medicijnkosten.nl)| **A+**| **B**|Apache|:white_check_mark: |:white_check_mark: | | |:warning: | | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS|301 Moved Perman...|
 

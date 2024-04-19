@@ -102,3 +102,6 @@ https://svb-lms-a.scim-api.trainingscatalogus.nl
 https://vgz-lms-a.enrollment-api.trainingscatalogus.nl
 https://vgz-lms-a.scim-api.trainingscatalogus.nl
 https://vgz-lms-a.course-api.trainingscatalogus.nl
+https://course-api.schiphol-lms.trainingscatalogus.nl
+https://enrollment-api.schiphol-lms.trainingscatalogus.nl
+https://scim-api.schiphol-lms.trainingscatalogus.nl

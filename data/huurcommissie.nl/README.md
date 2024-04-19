@@ -12,7 +12,7 @@
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/huurcommissie.nl/subdomains.txt)|45|Alive subdomains|
-|[urls.txt](/data/huurcommissie.nl/urls.txt)|17|Urls|
+|[urls.txt](/data/huurcommissie.nl/urls.txt)|18|Urls|
 |[all_subdomains.txt](/data/huurcommissie.nl/all_subdomains.txt)|65|All found subdomains (history)|
 
 
@@ -34,6 +34,7 @@
 |[https://feeds.huurcommissie.nl](https://feeds.huurcommissie.nl)| **A+**| **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://huurcommissie.nl](https://huurcommissie.nl)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
 |[https://hip.huurcommissie.nl](https://hip.huurcommissie.nl)| **A+**| **A**|nginx| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS Nginx|Huurcommissie|
+|[https://synergy.huurcommissie.nl](https://synergy.huurcommissie.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
 |[https://enterpriseenrollment.huurcommissie.nl](https://enterpriseenrollment.huurcommissie.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||
 |[https://enterpriseregistration.huurcommissie.nl](https://enterpriseregistration.huurcommissie.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://msoid.huurcommissie.nl](https://msoid.huurcommissie.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Object moved|

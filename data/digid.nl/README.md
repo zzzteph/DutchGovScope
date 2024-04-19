@@ -5,14 +5,14 @@
 
 
  - **SSL Grade**:A-
- - **HTTP Security Grade**:A
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:20
+ - **HTTP Security Grade**:B
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:26
 
 
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/digid.nl/subdomains.txt)|242|Alive subdomains|
-|[urls.txt](/data/digid.nl/urls.txt)|34|Urls|
+|[urls.txt](/data/digid.nl/urls.txt)|40|Urls|
 |[all_subdomains.txt](/data/digid.nl/all_subdomains.txt)|478|All found subdomains (history)|
 
 
@@ -53,6 +53,12 @@
 |[https://www.machtigen.digid.nl](https://www.machtigen.digid.nl)| **A+**| **A**|Apache| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
 |[https://digid.nl](https://digid.nl)| **A**| **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://helpdesk.machtigen.digid.nl](https://helpdesk.machtigen.digid.nl)| **A+**| **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Machtigen via He...|
+|[http://app-a5.digid.nl](http://app-a5.digid.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
+|[https://app-o1.digid.nl](https://app-o1.digid.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
+|[http://app-a1.digid.nl](http://app-a1.digid.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
+|[http://app-a6.digid.nl](http://app-a6.digid.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
+|[http://app-a2.digid.nl](http://app-a2.digid.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[http://app-a4.digid.nl](http://app-a4.digid.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
+|[http://app-a3.digid.nl](http://app-a3.digid.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://mu.digid.nl](https://mu.digid.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 

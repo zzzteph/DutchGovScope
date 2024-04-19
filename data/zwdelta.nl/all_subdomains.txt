@@ -8,3 +8,4 @@ bnc3.zwdelta.nl
 mail.zwdelta.nl
 acc.platform.zwdelta.nl
 stg.platform.zwdelta.nl
+api.platform.zwdelta.nl

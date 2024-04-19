@@ -23,6 +23,6 @@
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[https://minvrom.nl](https://minvrom.nl)| **A+**| **A**|Microsoft-IIS/10.0| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS IIS:10.0 Windows Server|Document Moved|
 |[https://www.minvrom.nl](https://www.minvrom.nl)| **A+**| **A**|Microsoft-IIS/10.0| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS IIS:10.0 Windows Server|Document Moved|
-|[http://localhost.minvrom.nl](http://localhost.minvrom.nl)| | **F**|nginx|:o: | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Laravel Nginx PHP|Weakpass|
+|[http://localhost.minvrom.nl](http://localhost.minvrom.nl)| | **F**|nginx| | | :warning:| | | | | :white_check_mark: | |Nginx|(404 Not Found)|
 |[https://wifi.minvrom.nl](https://wifi.minvrom.nl)| | **F**|cloudflare| | | | | | | | :white_check_mark: | |Cloudflare|403 Forbidden|
 

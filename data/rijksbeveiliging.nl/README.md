@@ -5,7 +5,7 @@
 
 
  - **SSL Grade**:A+
- - **HTTP Security Grade**:B
+ - **HTTP Security Grade**:C
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:2
 
 
@@ -21,7 +21,7 @@
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://talent.rijksbeveiliging.nl](https://talent.rijksbeveiliging.nl)| **A+**| **C**|Class|:white_check_mark: |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | |HSTS||
+|[http://talent.rijksbeveiliging.nl](http://talent.rijksbeveiliging.nl)| **A+**| **F**|Microsoft-Azure-Application-Gateway/v2| | | | | | | | :white_check_mark: | |HSTS|301 Moved Perman...|
 |[https://www.rijksbeveiliging.nl](https://www.rijksbeveiliging.nl)| | **A**|Microsoft-IIS/10.0| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS IIS:10.0 Windows Server|Document Moved|
 |[https://rijksbeveiliging.nl](https://rijksbeveiliging.nl)| **A+**| **A**|Microsoft-IIS/10.0| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS IIS:10.0 Windows Server|Document Moved|
 |[https://melding.rijksbeveiliging.nl](https://melding.rijksbeveiliging.nl)| | **E**|| | | | | | | | :white_check_mark: | |||

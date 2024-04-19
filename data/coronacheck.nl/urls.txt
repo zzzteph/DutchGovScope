@@ -1,5 +1,5 @@
 http://digid.acc.coronacheck.nl
-https://helpdesk.coronacheck.nl
+http://helpdesk.coronacheck.nl
 https://holder-api.coronacheck.nl
 https://holder-api-cdn.coronacheck.nl
 https://holder-api-cdn.acc.coronacheck.nl

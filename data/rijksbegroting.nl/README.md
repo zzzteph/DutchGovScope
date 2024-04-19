@@ -6,7 +6,7 @@
 
  - **SSL Grade**:A+
  - **HTTP Security Grade**:A
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:4
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:3
 
 
 | File       | Count | Info |
@@ -22,7 +22,7 @@
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[https://archief.rijksbegroting.nl](https://archief.rijksbegroting.nl)| **A+**| **A**|| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS|Rijksbegroting.n...|
-|[https://archief-acc.rijksbegroting.nl](https://archief-acc.rijksbegroting.nl)| **A+**| **A**|| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS|Rijksbegroting.n...|
+|[https://archief-acc.rijksbegroting.nl](https://archief-acc.rijksbegroting.nl)| **A+**| **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Rijksbegroting.n...|
 |[https://extrainfo.rijksbegroting.nl](https://extrainfo.rijksbegroting.nl)| **A+**| **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|302 Found|
 |[https://opendata.rijksbegroting.nl](https://opendata.rijksbegroting.nl)| **A+**| **A**|| |:white_check_mark: | :warning:| | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|302 Found|
 |[https://www.rijksbegroting.nl](https://www.rijksbegroting.nl)| **A+**| **A**|| |:white_check_mark: | :warning:| | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|302 Found|

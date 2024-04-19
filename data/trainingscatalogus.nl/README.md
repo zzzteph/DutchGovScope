@@ -12,7 +12,7 @@
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/trainingscatalogus.nl/subdomains.txt)|168|Alive subdomains|
-|[urls.txt](/data/trainingscatalogus.nl/urls.txt)|104|Urls|
+|[urls.txt](/data/trainingscatalogus.nl/urls.txt)|107|Urls|
 |[all_subdomains.txt](/data/trainingscatalogus.nl/all_subdomains.txt)|181|All found subdomains (history)|
 
 
@@ -125,4 +125,7 @@
 |[https://vgz-lms-a.enrollment-api.trainingscatalogus.nl](https://vgz-lms-a.enrollment-api.trainingscatalogus.nl)| | **F**|Microsoft-IIS/10.0|:white_check_mark: | | | | | | | :white_check_mark: | |Azure IIS:10.0 Microsoft ASP.NET Windows Server||
 |[https://vgz-lms-a.scim-api.trainingscatalogus.nl](https://vgz-lms-a.scim-api.trainingscatalogus.nl)| | **F**|Microsoft-IIS/10.0|:white_check_mark: | | | | | | | :white_check_mark: | |Azure IIS:10.0 Microsoft ASP.NET Windows Server||
 |[https://vgz-lms-a.course-api.trainingscatalogus.nl](https://vgz-lms-a.course-api.trainingscatalogus.nl)| | **F**|Microsoft-IIS/10.0|:white_check_mark: | | | | | | | :white_check_mark: | |Azure IIS:10.0 Microsoft ASP.NET Windows Server||
+|[https://course-api.schiphol-lms.trainingscatalogus.nl](https://course-api.schiphol-lms.trainingscatalogus.nl)| | **F**|Microsoft-IIS/10.0|:white_check_mark: | | | | | | | :white_check_mark: | |Azure IIS:10.0 Microsoft ASP.NET Windows Server||
+|[https://enrollment-api.schiphol-lms.trainingscatalogus.nl](https://enrollment-api.schiphol-lms.trainingscatalogus.nl)| | **F**|Microsoft-IIS/10.0|:white_check_mark: | | | | | | | :white_check_mark: | |Azure IIS:10.0 Microsoft ASP.NET Windows Server||
+|[https://scim-api.schiphol-lms.trainingscatalogus.nl](https://scim-api.schiphol-lms.trainingscatalogus.nl)| | **F**|Microsoft-IIS/10.0|:white_check_mark: | | | | | | | :white_check_mark: | |Azure IIS:10.0 Microsoft ASP.NET Windows Server||
 

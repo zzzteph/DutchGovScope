@@ -23,7 +23,7 @@
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[https://moordzaak.om.nl](https://moordzaak.om.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Heroku Nginx|OM Moordgame|
 |[https://murder-case.om.nl](https://murder-case.om.nl)| **B**| **F**|nginx| | | | | | | | :white_check_mark: | |Heroku Nginx|OM Moordgame|
-|[https://boetebase.om.nl](https://boetebase.om.nl)| **B**| **D**|| | | | | | :white_check_mark: | | :white_check_mark: | |Microsoft ASP.NET:4.0.30319|Boetebase - Open...|
+|[https://boetebase.om.nl](https://boetebase.om.nl)| **B**| **D**|| | | | | | :white_check_mark: | | :white_check_mark: | |Microsoft ASP.NET|Boetebase - Open...|
 |[https://feeds.om.nl](https://feeds.om.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://om.nl](https://om.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
 |[https://opendata.om.nl](https://opendata.om.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||

@@ -4,8 +4,6 @@ feeds.nationaalcoordinatorgroningen.nl
 intranet.nationaalcoordinatorgroningen.nl
 intranet-acc.nationaalcoordinatorgroningen.nl
 intranet-prod.nationaalcoordinatorgroningen.nl
-kennisbank-acc.nationaalcoordinatorgroningen.nl
-kennisbank-tst.nationaalcoordinatorgroningen.nl
 opendata.nationaalcoordinatorgroningen.nl
 www.nationaalcoordinatorgroningen.nl
 nationaalcoordinatorgroningen.nl

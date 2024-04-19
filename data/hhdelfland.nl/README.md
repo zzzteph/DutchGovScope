@@ -21,7 +21,7 @@
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://samenveiligwerken.hhdelfland.nl](https://samenveiligwerken.hhdelfland.nl)| **A+**| **D**|Apache/2.4.56 (Debian)|:warning: |:white_check_mark: | :warning:| | :white_check_mark:| | | :white_check_mark: | |Apache HTTP Server:2.4.56 Bootstrap Debian HSTS|Veilig Delfland|
+|[https://samenveiligwerken.hhdelfland.nl](https://samenveiligwerken.hhdelfland.nl)| **A+**| **D**|Apache/2.4.59 (Debian)|:warning: |:white_check_mark: | :warning:| | :white_check_mark:| | | :white_check_mark: | |Apache HTTP Server:2.4.59 Bootstrap Debian HSTS|Veilig Delfland|
 |[https://inloggen.hhdelfland.nl](https://inloggen.hhdelfland.nl)| **A+**| **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
 |[https://inloggen-preprod.hhdelfland.nl](https://inloggen-preprod.hhdelfland.nl)| **A+**| **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
 |[https://samenwerkingsportaalcmstest.hhdelfland.nl](https://samenwerkingsportaalcmstest.hhdelfland.nl)| **F**| **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0||

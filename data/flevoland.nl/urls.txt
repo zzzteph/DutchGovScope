@@ -23,7 +23,6 @@ http://uwork.flevoland.nl
 http://uworktest.flevoland.nl
 https://www.begroting2020.flevoland.nl
 https://pushmail.flevoland.nl
-http://test-intranet.flevoland.nl
 https://geo.flevoland.nl
 https://desktop.flevoland.nl
 https://historische-luchtfoto.flevoland.nl

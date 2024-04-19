@@ -23,6 +23,6 @@
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[https://www.bromonitor.nl](https://www.bromonitor.nl)| **A+**| **A**|| |:white_check_mark: | :warning:| |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS|BRO Monitor|
 |[https://bromonitor.nl](https://bromonitor.nl)| **A+**| **A**|| |:white_check_mark: | :warning:| |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS|BRO Monitor|
-|[https://test.bromonitor.nl](https://test.bromonitor.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS|ICTU DevOps|
+|[https://test.bromonitor.nl](https://test.bromonitor.nl)| | **A**|| |:white_check_mark: | :warning:| |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS|BRO Monitor|
 |[https://acc.bromonitor.nl](https://acc.bromonitor.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS|ICTU DevOps|
 

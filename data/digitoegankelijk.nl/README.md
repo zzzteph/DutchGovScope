@@ -30,5 +30,5 @@
 |[https://www.digitoegankelijk.nl](https://www.digitoegankelijk.nl)| **A+**| **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Drupal:10 HSTS Nginx PHP|Een toegankelijk...|
 |[https://digitoegankelijk.nl](https://digitoegankelijk.nl)| **A+**| **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
 |[https://dashboard-keten.digitoegankelijk.nl](https://dashboard-keten.digitoegankelijk.nl)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Basic HSTS Nginx|401 Authorizatio...|
-|[https://monitor.digitoegankelijk.nl](https://monitor.digitoegankelijk.nl)| | **B**|cloudflare| |:white_check_mark: | :warning:| | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Amazon CloudFront Amazon Web Services Cloudflare HSTS||
+|[https://monitor.digitoegankelijk.nl](https://monitor.digitoegankelijk.nl)| | **A**|cloudflare| |:white_check_mark: | :warning:| | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Amazon CloudFront Amazon Web Services Cloudflare HSTS||
 

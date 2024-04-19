@@ -38,5 +38,5 @@
 |[http://www.japan.investinholland.com](http://www.japan.investinholland.com)| | **F**|cloudflare| | | | | | | | :white_check_mark: | |Cloudflare||
 |[https://investinholland.com](https://investinholland.com)| **B**| **C**|cloudflare| |:white_check_mark: | | | | | | :white_check_mark: | |Cloudflare Google Tag Manager HSTS MySQL PHP Plesk WPML:4.6.9 WordPress:6.4.4|NFIA, part of In...|
 |[http://autodiscover.investinholland.com](http://autodiscover.investinholland.com)| | **B**|Microsoft-IIS/10.0|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server||
-|[http://localhost.investinholland.com](http://localhost.investinholland.com)| | **F**|nginx|:o: | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Laravel Nginx PHP|Weakpass|
+|[http://localhost.investinholland.com](http://localhost.investinholland.com)| | **F**|nginx| | | :warning:| | | | | :white_check_mark: | |Nginx|(404 Not Found)|
 

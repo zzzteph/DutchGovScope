@@ -21,7 +21,6 @@ https://mailtrap.uat.backtoroots.nioo.knaw.nl
 https://nioo.knaw.nl
 https://solr.zandbak.dans.knaw.nl
 https://sparql.zandbak.dans.knaw.nl
-http://talking-data.blog.dans.knaw.nl
 https://www.herseninstituut.knaw.nl
 https://acc.cms21.knaw.nl
 https://www.promise.nioo.knaw.nl

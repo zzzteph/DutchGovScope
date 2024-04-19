@@ -11,7 +11,7 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/noord-holland.nl/subdomains.txt)|100|Alive subdomains|
+|[subdomains.txt](/data/noord-holland.nl/subdomains.txt)|101|Alive subdomains|
 |[urls.txt](/data/noord-holland.nl/urls.txt)|69|Urls|
 |[all_subdomains.txt](/data/noord-holland.nl/all_subdomains.txt)|275|All found subdomains (history)|
 
@@ -81,7 +81,7 @@
 |[https://fleetmanager.noord-holland.nl](https://fleetmanager.noord-holland.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|Fleet Manager|
 |[https://fleet-manager.datalab-prod.aws.noord-holland.nl](https://fleet-manager.datalab-prod.aws.noord-holland.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|Fleet Manager|
 |[https://pleinoud.noord-holland.nl](https://pleinoud.noord-holland.nl)| | **F**|Green Valley| | | | | | | | :white_check_mark: | |HSTS Java||
-|[https://lms.noord-holland.nl](https://lms.noord-holland.nl)| | **A**|nginx|:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bootstrap:3.3.5 HSTS Nginx Nicepage:5.9.6 PHP:8.2.17|Thuis|
+|[https://lms.noord-holland.nl](https://lms.noord-holland.nl)| | **A**|nginx|:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bootstrap:3.3.5 HSTS Nginx PHP:8.2.18|LMS Noord-Hollan...|
 |[https://openstad.noord-holland.nl](https://openstad.noord-holland.nl)| **A+**| **B**||:o: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |||
 |[https://admin.openstad.noord-holland.nl](https://admin.openstad.noord-holland.nl)| **A+**| **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |||
 |[https://api.openstad.noord-holland.nl](https://api.openstad.noord-holland.nl)| **A+**| **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |||

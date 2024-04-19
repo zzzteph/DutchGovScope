@@ -17,7 +17,6 @@ demo-geoservices.rijkswaterstaat.nl
 esb.rijkswaterstaat.nl
 etl.rijkswaterstaat.nl
 feeds.nieuwsbrieven.rijkswaterstaat.nl
-geluidregister.rijkswaterstaat.nl
 geo.rijkswaterstaat.nl
 geoservices.rijkswaterstaat.nl
 geoweb.rijkswaterstaat.nl

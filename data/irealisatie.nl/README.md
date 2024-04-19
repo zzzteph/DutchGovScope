@@ -13,7 +13,7 @@
 |------------|-------|------|
 |[subdomains.txt](/data/irealisatie.nl/subdomains.txt)|36|Alive subdomains|
 |[urls.txt](/data/irealisatie.nl/urls.txt)|33|Urls|
-|[all_subdomains.txt](/data/irealisatie.nl/all_subdomains.txt)|36|All found subdomains (history)|
+|[all_subdomains.txt](/data/irealisatie.nl/all_subdomains.txt)|38|All found subdomains (history)|
 
 
 ## Statistics
@@ -24,7 +24,7 @@
 |[https://balie.woo.irealisatie.nl](https://balie.woo.irealisatie.nl)| | **B**|Apache| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server Basic HSTS|401 Unauthorized|
 |[https://helpdesk.acc.irealisatie.nl](https://helpdesk.acc.irealisatie.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS||
 |[http://login.irealisatie.nl](http://login.irealisatie.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||
-|[https://stats.irealisatie.nl](https://stats.irealisatie.nl)| | **C**|nginx|:white_check_mark: |:white_check_mark: | :warning:| |:warning: | :white_check_mark: | | :white_check_mark: | |AngularJS HSTS Matomo Analytics Nginx|Sign in - Matomo|
+|[https://stats.irealisatie.nl](https://stats.irealisatie.nl)| | **B**|nginx|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |AngularJS HSTS Matomo Analytics Nginx|Sign in - Matomo|
 |[https://vpn.irealisatie.nl](https://vpn.irealisatie.nl)| | **A**|Apache| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS||
 |[https://static.test.dpr.irealisatie.nl](https://static.test.dpr.irealisatie.nl)| | **B**|Apache| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS Hugo:0.124.1|Verwerkingsregis...|
 |[https://web.test.dpr.irealisatie.nl](https://web.test.dpr.irealisatie.nl)| | **B**|Apache| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server Basic HSTS|401 Unauthorized|

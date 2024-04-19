@@ -125,3 +125,5 @@ archief52.sitearchief.nl
 sportraad.sitearchief.nl
 abx03.sitearchief.nl
 niwo.sitearchief.nl
+archief60.sitearchief.nl
+abx05.sitearchief.nl

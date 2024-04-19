@@ -11,7 +11,7 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/rijksapplicaties.nl/subdomains.txt)|266|Alive subdomains|
+|[subdomains.txt](/data/rijksapplicaties.nl/subdomains.txt)|267|Alive subdomains|
 |[urls.txt](/data/rijksapplicaties.nl/urls.txt)|231|Urls|
 |[all_subdomains.txt](/data/rijksapplicaties.nl/all_subdomains.txt)|332|All found subdomains (history)|
 
@@ -150,7 +150,7 @@
 |[https://dib-ocw.staging.rijksapplicaties.nl](https://dib-ocw.staging.rijksapplicaties.nl)| | **C**|nginx|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS Nginx||
 |[https://p14-vws.rijksapplicaties.nl](https://p14-vws.rijksapplicaties.nl)| | **C**|nginx|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS Nginx||
 |[https://ncg-ivd.rijksapplicaties.nl](https://ncg-ivd.rijksapplicaties.nl)| **A+**| **C**|nginx|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS Nginx||
-|[https://kwiv.rijksapplicaties.nl](https://kwiv.rijksapplicaties.nl)| **A+**| **C**|nginx|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS Microsoft ASP.NET Nginx|KWIV (Kwaliteits...|
+|[https://kwiv.rijksapplicaties.nl](https://kwiv.rijksapplicaties.nl)| **A+**| **C**|nginx|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS Microsoft ASP.NET Nginx|EXT - Kwaliteits...|
 |[https://vssr.staging.rijksapplicaties.nl](https://vssr.staging.rijksapplicaties.nl)| **A+**| **C**|nginx|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS Microsoft ASP.NET Nginx|ACC - VSSR|
 |[https://fac.staging.rijksapplicaties.nl](https://fac.staging.rijksapplicaties.nl)| **A+**| **C**|nginx|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS Nginx||
 |[https://ncg-hr-prewens.rijksapplicaties.nl](https://ncg-hr-prewens.rijksapplicaties.nl)| **A+**| **C**|nginx|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS Nginx||
@@ -215,7 +215,7 @@
 |[https://fvp.staging.rijksapplicaties.nl](https://fvp.staging.rijksapplicaties.nl)| **A+**| **C**|nginx|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS Nginx||
 |[https://wps.rijksapplicaties.nl](https://wps.rijksapplicaties.nl)| **A+**| **C**|nginx|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS Nginx||
 |[https://wps.staging.rijksapplicaties.nl](https://wps.staging.rijksapplicaties.nl)| **A+**| **C**|nginx|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS Nginx||
-|[https://kwiv.staging.rijksapplicaties.nl](https://kwiv.staging.rijksapplicaties.nl)| **A+**| **C**|nginx|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS Microsoft ASP.NET Nginx|KWIV (Kwaliteits...|
+|[https://kwiv.staging.rijksapplicaties.nl](https://kwiv.staging.rijksapplicaties.nl)| **A+**| **C**|nginx|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS Microsoft ASP.NET Nginx|EXT - Kwaliteits...|
 |[https://rvb-vmr.staging.rijksapplicaties.nl](https://rvb-vmr.staging.rijksapplicaties.nl)| **A+**| **C**|nginx|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS Nginx||
 |[https://rvb-bcr.staging.rijksapplicaties.nl](https://rvb-bcr.staging.rijksapplicaties.nl)| **A+**| **C**|nginx|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS Nginx||
 |[https://staging.rijksapplicaties.nl](https://staging.rijksapplicaties.nl)| **A**| **F**|nginx| | | | | | | | :white_check_mark: | |Nginx||
@@ -226,7 +226,7 @@
 |[http://dpp-webservice.rijksapplicaties.nl](http://dpp-webservice.rijksapplicaties.nl)| **A**| **E**|| | | | | | | | :white_check_mark: | ||302 Found|
 |[http://rldb-webservice.rijksapplicaties.nl](http://rldb-webservice.rijksapplicaties.nl)| **A**| **E**|| | | | | | | | :white_check_mark: | ||302 Found|
 |[https://bio.acc.rijksapplicaties.nl](https://bio.acc.rijksapplicaties.nl)| **F**| **F**|nginx| | | | | | | | :white_check_mark: | |HSTS Nginx||
-|[https://dpt.acc.rijksapplicaties.nl](https://dpt.acc.rijksapplicaties.nl)| **F**| **F**|nginx| | | | | | | | :white_check_mark: | |HSTS Nginx||
+|[https://dpt.acc.rijksapplicaties.nl](https://dpt.acc.rijksapplicaties.nl)| **F**| **F**|nginx| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET Nginx|DigiPoort transa...|
 |[http://qr-app-webservice.rijksapplicaties.nl](http://qr-app-webservice.rijksapplicaties.nl)| **A**| **E**|| | | | | | | | :white_check_mark: | ||302 Found|
 |[https://acc.rijksapplicaties.nl](https://acc.rijksapplicaties.nl)| **F**| **F**|nginx| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET Nginx|Rijksapplicaties...|
 |[https://fvp.acc.rijksapplicaties.nl](https://fvp.acc.rijksapplicaties.nl)| **F**| **F**|nginx| | | | | | | | :white_check_mark: | |Nginx||

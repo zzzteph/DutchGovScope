@@ -36,3 +36,6 @@ zinl.nl
 www.zinl.nl
 enterpriseregistration.zinl.nl
 rstudio-acc.zinl.nl
+rundeck-acc.zinl.nl
+acc.tableau.zinl.nl
+tableau.zinl.nl

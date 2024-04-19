@@ -11,8 +11,8 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/nsl-monitoring.nl/subdomains.txt)|7|Alive subdomains|
-|[urls.txt](/data/nsl-monitoring.nl/urls.txt)|1|Urls|
+|[subdomains.txt](/data/nsl-monitoring.nl/subdomains.txt)|5|Alive subdomains|
+|[urls.txt](/data/nsl-monitoring.nl/urls.txt)|0|Urls|
 |[all_subdomains.txt](/data/nsl-monitoring.nl/all_subdomains.txt)|15|All found subdomains (history)|
 
 
@@ -21,5 +21,4 @@
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[http://localhost.nsl-monitoring.nl](http://localhost.nsl-monitoring.nl)| | **F**|nginx| | | :warning:| | | | | :white_check_mark: | |Nginx|(404 Not Found)|
 

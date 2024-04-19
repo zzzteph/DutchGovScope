@@ -5,14 +5,14 @@
 
 
  - **SSL Grade**:A
- - **HTTP Security Grade**:B
+ - **HTTP Security Grade**:C
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:4
 
 
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/minezk.nl/subdomains.txt)|9|Alive subdomains|
-|[urls.txt](/data/minezk.nl/urls.txt)|6|Urls|
+|[urls.txt](/data/minezk.nl/urls.txt)|7|Urls|
 |[all_subdomains.txt](/data/minezk.nl/all_subdomains.txt)|9|All found subdomains (history)|
 
 
@@ -27,4 +27,5 @@
 |[https://minezk.nl](https://minezk.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |||
 |[https://fmis.minezk.nl](https://fmis.minezk.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS||
 |[https://datacatalogus.minezk.nl](https://datacatalogus.minezk.nl)| | **A**|Apache|:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
+|[http://scanapp-acc.minezk.nl](http://scanapp-acc.minezk.nl)| | **F**|BigIP| | | | | | | | :white_check_mark: | |F5 BigIP||
 

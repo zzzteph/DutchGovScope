@@ -40,5 +40,5 @@ tags: dutchgov
 |[https://preview.netherlandsworldwide.nl](https://preview.netherlandsworldwide.nl)| **A+**| **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
 |[https://www.netherlandsworldwide.nl](https://www.netherlandsworldwide.nl)| **A+**| **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |Bloomreach HSTS HTTP/3|Home | Netherlan...|
 |[https://netherlandsworldwide.nl](https://netherlandsworldwide.nl)| **A+**| **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS HTTP/3||
-|[http://update.netherlandsworldwide.nl](http://update.netherlandsworldwide.nl)| | **F**|nginx|:o: | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Laravel Nginx PHP|Weakpass|
+|[http://update.netherlandsworldwide.nl](http://update.netherlandsworldwide.nl)| | **F**|nginx| | | :warning:| | | | | :white_check_mark: | |Nginx|(404 Not Found)|
 

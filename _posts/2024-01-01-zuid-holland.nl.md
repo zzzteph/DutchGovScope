@@ -37,7 +37,7 @@ tags: dutchgov
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://kennis.zuid-holland.nl](https://kennis.zuid-holland.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Elementor:3.18.3 HSTS MySQL Nginx PHP:8.1.27 WordPress|Home - Kennis -...|
+|[https://kennis.zuid-holland.nl](https://kennis.zuid-holland.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Elementor:3.18.3 HSTS MySQL Nginx PHP:8.1.28 WordPress|Home - Kennis -...|
 |[https://geoportaal.zuid-holland.nl](https://geoportaal.zuid-holland.nl)| **A+**| **C**||:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
 |[http://coalitieakkoord.zuid-holland.nl](http://coalitieakkoord.zuid-holland.nl)| | **D**|-|:white_check_mark: | | | | :white_check_mark:| | :white_check_mark: | :white_check_mark: | |Microsoft ASP.NET:-|The page cannot...|
 |[https://api.openstad.zuid-holland.nl](https://api.openstad.zuid-holland.nl)| **A+**| **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS||
@@ -62,7 +62,7 @@ tags: dutchgov
 |[http://jaaroverzichtcommissarisvandekoning2022.zuid-holland.nl](http://jaaroverzichtcommissarisvandekoning2022.zuid-holland.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Microsoft ASP.NET:-|Object moved|
 |[https://img.openstad.zuid-holland.nl](https://img.openstad.zuid-holland.nl)| **A+**| **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Express HSTS Node.js|Error|
 |[https://jaaroverzichtcommissarisvandekoning2019.zuid-holland.nl](https://jaaroverzichtcommissarisvandekoning2019.zuid-holland.nl)| **A+**| **B**|Apache| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server Drupal:8 HSTS PHP|Jaaroverzicht Co...|
-|[https://circulair.zuid-holland.nl](https://circulair.zuid-holland.nl)| | **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |Elementor:3.19.4 HSTS MySQL Nginx PHP:8.1.27 WordPress:6.5 Yoast SEO:22.2|Home - Circulair...|
+|[https://circulair.zuid-holland.nl](https://circulair.zuid-holland.nl)| | **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |Elementor:3.19.4 HSTS MySQL Nginx PHP:8.1.28 WordPress:6.5.2 Yoast SEO:22.2|Home - Circulair...|
 |[https://subsidieportaal.zuid-holland.nl](https://subsidieportaal.zuid-holland.nl)| **A+**| **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|ClientPortal|
 |[https://archeologie2.zuid-holland.nl](https://archeologie2.zuid-holland.nl)| **B**| **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server Microsoft ASP.NET|403 - Forbidden:...|
 |[https://archeologie.zuid-holland.nl](https://archeologie.zuid-holland.nl)| **A+**| **A**|nginx|:warning: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|Home - Provincia...|
@@ -77,12 +77,12 @@ tags: dutchgov
 |[https://www.openstad.zuid-holland.nl](https://www.openstad.zuid-holland.nl)| **A**| **D**||:o: |:white_check_mark: | | | | | | :white_check_mark: | ||308 Permanent Re...|
 |[https://jaaroverzichtcommissarisvandekoning2021.zuid-holland.nl](https://jaaroverzichtcommissarisvandekoning2021.zuid-holland.nl)| **A**| **B**|Apache| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server Drupal:9 HSTS PHP|Jaaroverzicht Co...|
 |[https://aanvragen.zuid-holland.nl](https://aanvragen.zuid-holland.nl)| **A+**| **A**||:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Pagina bestaat n...|
-|[https://toekomstscenarios.zuid-holland.nl](https://toekomstscenarios.zuid-holland.nl)| **A+**| **B**|Apache| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server Drupal:8 HSTS PHP|Redirecting to h...|
+|[https://toekomstscenarios.zuid-holland.nl](https://toekomstscenarios.zuid-holland.nl)| **A+**| **B**|Apache| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server Drupal HSTS PHP|Redirecting to h...|
 |[https://www.zuid-holland.nl](https://www.zuid-holland.nl)| **A+**| **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Google Tag Manager HSTS Microsoft ASP.NET:-|Home - Provincie...|
 |[https://dataloket.zuid-holland.nl](https://dataloket.zuid-holland.nl)| **A**| **B**|nginx|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |Azure HSTS Nginx|Dataloket Provin...|
 |[https://geodata.zuid-holland.nl](https://geodata.zuid-holland.nl)| **A**| **A**||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Java||
 |[https://geoservices.zuid-holland.nl](https://geoservices.zuid-holland.nl)| **A+**| **C**||:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
-|[https://beterwordenvancorona.zuid-holland.nl](https://beterwordenvancorona.zuid-holland.nl)| **A+**| **B**|Apache| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server Drupal HSTS PHP|Redirecting to h...|
+|[https://beterwordenvancorona.zuid-holland.nl](https://beterwordenvancorona.zuid-holland.nl)| **A+**| **B**|Apache| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server Drupal:8 HSTS PHP|Redirecting to h...|
 |[https://geo-fms.zuid-holland.nl](https://geo-fms.zuid-holland.nl)| **A+**| **C**||:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Java||
 |[https://nieuwsbrief.zuid-holland.nl](https://nieuwsbrief.zuid-holland.nl)| **A+**| **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Nginx||
 |[https://lta.zuid-holland.nl](https://lta.zuid-holland.nl)| **A**| **E**|gunicorn| | | | | | :white_check_mark: | | :white_check_mark: | |Python gunicorn|Lange Termijn Ag...|

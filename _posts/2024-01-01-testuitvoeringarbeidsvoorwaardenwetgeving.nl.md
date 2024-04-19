@@ -38,5 +38,5 @@ tags: dutchgov
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[https://www.testuitvoeringarbeidsvoorwaardenwetgeving.nl](https://www.testuitvoeringarbeidsvoorwaardenwetgeving.nl)| **A+**| **B**|nginx| |:white_check_mark: | | |:warning: | | | :white_check_mark: | |HSTS Nginx|302 Found|
-|[https://testuitvoeringarbeidsvoorwaardenwetgeving.nl](https://testuitvoeringarbeidsvoorwaardenwetgeving.nl)| **A+**| **B**|nginx| |:white_check_mark: | | |:warning: | | | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
+|[https://testuitvoeringarbeidsvoorwaardenwetgeving.nl](https://testuitvoeringarbeidsvoorwaardenwetgeving.nl)| **A+**| **B**|nginx| |:white_check_mark: | | |:warning: | | | :white_check_mark: | |HSTS Nginx|302 Found|
 

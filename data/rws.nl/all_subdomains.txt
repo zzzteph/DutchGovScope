@@ -1179,3 +1179,4 @@ traefik-dashboard.dmz.vm-04.azure.grid.rws.nl
 mip-proxy-acc.rws.nl
 bemobile-trajectorien-fcd-acc.dmz.vm-04.azure.grid.rws.nl
 bemobile-aid-triggers-fcd-acc.dmz.vm-04.azure.grid.rws.nl
+werkt-dit-cert-wel.dmz.vm-04.azure.grid.rws.nl

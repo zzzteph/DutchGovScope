@@ -264,3 +264,4 @@ bda.rijksapplicaties.nl
 rvb-dtc-webservice.staging.rijksapplicaties.nl
 app1.staging.rijksapplicaties.nl
 monitor.staging.rijksapplicaties.nl
+fbp.rijksapplicaties.nl

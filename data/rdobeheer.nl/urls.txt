@@ -9,7 +9,7 @@ https://max.proeftuin.uzi-online.rdobeheer.nl
 https://yivi.proeftuin.uzi-online.rdobeheer.nl
 https://proeftuin.uzi-online.rdobeheer.nl
 https://oidc.proeftuin.uzi-online.rdobeheer.nl
-https://collabora.acc.rdobeheer.nl
+http://collabora.acc.rdobeheer.nl
 https://balie.acc.woo.rdobeheer.nl
 https://nextcloud.acc.rdobeheer.nl
 https://mailcatch.acc.rdobeheer.nl

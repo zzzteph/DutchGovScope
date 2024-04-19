@@ -17,7 +17,6 @@ https://demo-geoservices.rijkswaterstaat.nl
 https://esb.rijkswaterstaat.nl
 https://etl.rijkswaterstaat.nl
 https://feeds.nieuwsbrieven.rijkswaterstaat.nl
-https://geluidregister.rijkswaterstaat.nl
 https://geo.rijkswaterstaat.nl
 https://geoservices.rijkswaterstaat.nl
 https://geoweb.rijkswaterstaat.nl
@@ -25,7 +24,7 @@ https://hld.rijkswaterstaat.nl
 https://iam.rijkswaterstaat.nl
 https://inloggen.rijkswaterstaat.nl
 https://loket.rijkswaterstaat.nl
-https://loket.acceptatie.rijkswaterstaat.nl
+http://loket.acceptatie.rijkswaterstaat.nl
 https://maps.rijkswaterstaat.nl
 https://mars.rijkswaterstaat.nl
 http://meridian.rijkswaterstaat.nl
