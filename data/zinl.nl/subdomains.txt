@@ -39,3 +39,8 @@ rstudio-acc.zinl.nl
 rundeck-acc.zinl.nl
 acc.tableau.zinl.nl
 tableau.zinl.nl
+cmg.zinl.nl
+enterpriseenrollment.zinl.nl
+jenkins.zinl.nl
+sipexternal.zinl.nl
+sslvpn.zinl.nl

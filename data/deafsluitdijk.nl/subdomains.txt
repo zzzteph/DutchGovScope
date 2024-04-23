@@ -1,9 +1,5 @@
-hostmaster.deafsluitdijk.nl
 reserveren.deafsluitdijk.nl
-staging.deafsluitdijk.nl
 www.deafsluitdijk.nl
 deafsluitdijk.nl
-en.deafsluitdijk.nl
-noord-holland.nlwww.deafsluitdijk.nl
 autodiscover.deafsluitdijk.nl
 mail.deafsluitdijk.nl

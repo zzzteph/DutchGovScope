@@ -4,3 +4,4 @@ opendata.a2vonderenkerensheide.nl
 www.a2vonderenkerensheide.nl
 a-feeds.a2vonderenkerensheide.nl
 a-www.a2vonderenkerensheide.nl
+a-opendata.a2vonderenkerensheide.nl

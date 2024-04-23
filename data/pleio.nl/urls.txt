@@ -1506,3 +1506,7 @@ https://accportal.pleio.nl
 https://dgh-admin.pleio.nl
 https://dgh.pleio.nl
 https://lev.pleio.nl
+https://algoritmen.pleio.nl
+https://www.odachterhoek.pleio.nl
+https://minbuza.nljajaneegelijkmanifestgroepmanifestgroep.pleio.nl
+https://manifestgroepmanifestgroep.pleio.nl

@@ -57,3 +57,6 @@ burgerloket.test.rechtwijzer.nl
 api2.test.rechtwijzer.nl
 autoconfig.test.rechtwijzer.nl
 origin.test.rechtwijzer.nl
+apps.test.rechtwijzer.nl
+secure.test.rechtwijzer.nl
+oauth.test.rechtwijzer.nl

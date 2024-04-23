@@ -121,3 +121,5 @@ https://handboekdao.tweedekamer.nl
 https://handboekgpbw-acc.tweedekamer.nl
 https://handboekgc.tweedekamer.nl
 https://planon-live.tweedekamer.nl
+https://samenwerkruimten.tweedekamer.nl
+https://oracle-financials.tweedekamer.nl

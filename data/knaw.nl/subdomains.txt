@@ -870,7 +870,6 @@ mysql.dans.knaw.nl
 mysql11.dans.knaw.nl
 mysql11.niod.knaw.nl
 mysql12.meertens.knaw.nl
-nagios.knaw.nl
 opsview.knaw.nl
 nhi-adfs.nin.knaw.nl
 nhi-adfs01.herseninstituut.knaw.nl

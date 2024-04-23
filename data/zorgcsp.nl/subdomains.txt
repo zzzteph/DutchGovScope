@@ -1,4 +1,3 @@
-acceptatie.zorgcsp.nl
 www.zorgcsp.nl
 zorgcsp.nl
 secure.zorgcsp.nl

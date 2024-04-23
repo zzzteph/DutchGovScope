@@ -11,7 +11,7 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/veterinairtuchtcollege.nl/subdomains.txt)|11|Alive subdomains|
+|[subdomains.txt](/data/veterinairtuchtcollege.nl/subdomains.txt)|10|Alive subdomains|
 |[urls.txt](/data/veterinairtuchtcollege.nl/urls.txt)|4|Urls|
 |[all_subdomains.txt](/data/veterinairtuchtcollege.nl/all_subdomains.txt)|12|All found subdomains (history)|
 

@@ -772,3 +772,4 @@ https://dataverse-mapper.labs.dans.knaw.nl
 https://vangogh-letters.dev.huc.knaw.nl
 https://enterpriseenrollment.knaw.nl
 https://enterpriseregistration.knaw.nl
+http://kaartenbank.meertens.knaw.nl

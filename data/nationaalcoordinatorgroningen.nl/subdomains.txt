@@ -8,7 +8,6 @@ opendata.nationaalcoordinatorgroningen.nl
 www.nationaalcoordinatorgroningen.nl
 nationaalcoordinatorgroningen.nl
 a-www.nationaalcoordinatorgroningen.nl
-kennisbank.nationaalcoordinatorgroningen.nl
 zakelijk-acc.nationaalcoordinatorgroningen.nl
 zakelijk.nationaalcoordinatorgroningen.nl
 sip.nationaalcoordinatorgroningen.nl

@@ -11,9 +11,9 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/a2vonderenkerensheide.nl/subdomains.txt)|4|Alive subdomains|
+|[subdomains.txt](/data/a2vonderenkerensheide.nl/subdomains.txt)|6|Alive subdomains|
 |[urls.txt](/data/a2vonderenkerensheide.nl/urls.txt)|0|Urls|
-|[all_subdomains.txt](/data/a2vonderenkerensheide.nl/all_subdomains.txt)|6|All found subdomains (history)|
+|[all_subdomains.txt](/data/a2vonderenkerensheide.nl/all_subdomains.txt)|7|All found subdomains (history)|
 
 
 ## Statistics

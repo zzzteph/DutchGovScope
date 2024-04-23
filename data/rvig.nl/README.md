@@ -12,7 +12,7 @@
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/rvig.nl/subdomains.txt)|30|Alive subdomains|
-|[urls.txt](/data/rvig.nl/urls.txt)|17|Urls|
+|[urls.txt](/data/rvig.nl/urls.txt)|18|Urls|
 |[all_subdomains.txt](/data/rvig.nl/all_subdomains.txt)|68|All found subdomains (history)|
 
 
@@ -38,4 +38,5 @@
 |[https://idbs.npr.idm.rvig.nl](https://idbs.npr.idm.rvig.nl)| **B**| **A**||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|HTTP Status 500...|
 |[https://prod.intranet.rvig.nl](https://prod.intranet.rvig.nl)| | **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Nginx|403 Forbidden|
 |[https://acc2.intranet.rvig.nl](https://acc2.intranet.rvig.nl)| | **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Nginx|403 Forbidden|
+|[https://lap.rvp.reis.npr.idm.rvig.nl](https://lap.rvp.reis.npr.idm.rvig.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
 

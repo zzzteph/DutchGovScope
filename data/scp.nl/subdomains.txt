@@ -25,6 +25,7 @@ mam.scp.nl
 ns1.scp.nl
 ns2.scp.nl
 sf.scp.nl
+magazines.scp.nl
 a-opendata.a-english.scp.nl
 a-opendata.scp.nl
 a-www.scp.nl

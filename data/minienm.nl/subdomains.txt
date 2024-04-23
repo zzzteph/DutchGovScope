@@ -65,3 +65,5 @@ e-learning.minienm.nl
 intra.minienm.nl
 leerportaal.minienm.nl
 localhost.minienm.nl
+mimsmtp02.sapsmtp.minienm.nl
+mimsmtp01.sapsmtp.minienm.nl

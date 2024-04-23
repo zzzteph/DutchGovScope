@@ -2,7 +2,7 @@
 layout: default
 title: "onslevendlandschap.nl"
 permalink: "/dutchgov/onslevendlandschap.nl.html"
-subdomains_count: 10
+subdomains_count: 11
 all_subdomains_count: 11
 urls_count: 4
 ssl_rank: A+
@@ -27,7 +27,7 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/onslevendlandschap.nl/subdomains.txt)|10|Alive subdomains|
+|[subdomains.txt](/DutchGovScope/data/onslevendlandschap.nl/subdomains.txt)|11|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/onslevendlandschap.nl/urls.txt)|4|Urls|
 |[all_subdomains.txt](/DutchGovScope/data/onslevendlandschap.nl/all_subdomains.txt)|11|All found subdomains (history)|
 

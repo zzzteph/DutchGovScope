@@ -11,8 +11,8 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/knaw.nl/subdomains.txt)|1362|Alive subdomains|
-|[urls.txt](/data/knaw.nl/urls.txt)|774|Urls|
+|[subdomains.txt](/data/knaw.nl/subdomains.txt)|1361|Alive subdomains|
+|[urls.txt](/data/knaw.nl/urls.txt)|775|Urls|
 |[all_subdomains.txt](/data/knaw.nl/all_subdomains.txt)|1837|All found subdomains (history)|
 
 
@@ -795,4 +795,5 @@
 |[https://vangogh-letters.dev.huc.knaw.nl](https://vangogh-letters.dev.huc.knaw.nl)| | **F**|Apache/2.4.41 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.41 Ubuntu|Unauthorized|
 |[https://enterpriseenrollment.knaw.nl](https://enterpriseenrollment.knaw.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||
 |[https://enterpriseregistration.knaw.nl](https://enterpriseregistration.knaw.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
+|[http://kaartenbank.meertens.knaw.nl](http://kaartenbank.meertens.knaw.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|301 Moved Perman...|
 

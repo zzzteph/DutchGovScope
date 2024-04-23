@@ -12,7 +12,7 @@
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/nlflag.nl/subdomains.txt)|7|Alive subdomains|
-|[urls.txt](/data/nlflag.nl/urls.txt)|6|Urls|
+|[urls.txt](/data/nlflag.nl/urls.txt)|7|Urls|
 |[all_subdomains.txt](/data/nlflag.nl/all_subdomains.txt)|7|All found subdomains (history)|
 
 
@@ -27,4 +27,5 @@
 |[https://lesmousquetaires.nlflag.nl](https://lesmousquetaires.nlflag.nl)| **F**| **F**|nginx| | | | | | | | :white_check_mark: | |Nginx||
 |[https://mail.nlflag.nl](https://mail.nlflag.nl)| **F**| **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|Web Server's Def...|
 |[https://ftp.nlflag.nl](https://ftp.nlflag.nl)| **F**| **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|Web Server's Def...|
+|[http://autodiscover.nlflag.nl](http://autodiscover.nlflag.nl)| | **B**|Microsoft-IIS/10.0|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server||
 

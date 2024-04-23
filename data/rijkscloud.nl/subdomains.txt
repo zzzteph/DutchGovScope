@@ -47,7 +47,6 @@ informatieproducten.duo.rijkscloud.nl
 infrabeheer.rvb.rijkscloud.nl
 ip.rijkscloud.nl
 ipi.rijkscloud.nl
-iron-hand.ix.rijkscloud.nl
 jupyter.alma.jvs.ix.rijkscloud.nl
 jupyter.analyse.ilt.rijkscloud.nl
 jupyter.cursus.rijkscloud.nl

@@ -153,13 +153,10 @@ post.dnb.nl
 traveler.dnb.nl
 www-origin.dnb.nl
 umbracoacc.dnb.nl
-api-tzpubliekscontact-acc.dnb.nl
 lyncdiscover.dnb.nl
 api-tzkalender.dnb.nl
 mijn-api.dnb.nl
-api-tzpubliekscontact.dnb.nl
 sip.dnb.nl
-api-tzpubliekscontact-tst.dnb.nl
 sftp.dnb.nl
 rmdm-beheerapp-dev.azure.dnb.nl
 rmdm-beheerapp-tst.azure.dnb.nl

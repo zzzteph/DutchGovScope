@@ -1,5 +1,2 @@
 mt2011.nsl-monitoring.nl
-viewer2010.nsl-monitoring.nl
-viewer2011.nsl-monitoring.nl
-geoserver-acc.nsl-monitoring.nl
 app2.nsl-monitoring.nl

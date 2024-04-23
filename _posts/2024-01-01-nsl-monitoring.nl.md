@@ -2,7 +2,7 @@
 layout: default
 title: "nsl-monitoring.nl"
 permalink: "/dutchgov/nsl-monitoring.nl.html"
-subdomains_count: 5
+subdomains_count: 2
 all_subdomains_count: 15
 urls_count: 0
 ssl_rank: 
@@ -27,7 +27,7 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/nsl-monitoring.nl/subdomains.txt)|5|Alive subdomains|
+|[subdomains.txt](/DutchGovScope/data/nsl-monitoring.nl/subdomains.txt)|2|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/nsl-monitoring.nl/urls.txt)|0|Urls|
 |[all_subdomains.txt](/DutchGovScope/data/nsl-monitoring.nl/all_subdomains.txt)|15|All found subdomains (history)|
 

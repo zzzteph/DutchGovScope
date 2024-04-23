@@ -162,7 +162,6 @@ webservices.preprod.kvk.nl
 webservices.preprod.osb.kvk.nl
 webservices.tst.kvk.nl
 webservices11.preprod.osb.kvk.nl
-webservices4.acp.kvk.nl
 webservices5.acp.osb.kvk.nl
 webservices6.acp.osb.kvk.nl
 website.acp.kvk.nl

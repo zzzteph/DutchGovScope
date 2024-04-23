@@ -12,8 +12,8 @@
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/ndw.nu/subdomains.txt)|94|Alive subdomains|
-|[urls.txt](/data/ndw.nu/urls.txt)|84|Urls|
-|[all_subdomains.txt](/data/ndw.nu/all_subdomains.txt)|120|All found subdomains (history)|
+|[urls.txt](/data/ndw.nu/urls.txt)|85|Urls|
+|[all_subdomains.txt](/data/ndw.nu/all_subdomains.txt)|121|All found subdomains (history)|
 
 
 ## Statistics
@@ -105,4 +105,5 @@
 |[https://design.staging.ndw.nu](https://design.staging.ndw.nu)| | **A**|| |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | |HSTS MkDocs:1.5.3 Python|NDW Docs|
 |[https://security.ndw.nu](https://security.ndw.nu)| | **F**|Microsoft-Azure-Application-Gateway/v2| | | | | | | | :white_check_mark: | ||404 Not Found|
 |[https://security.staging.ndw.nu](https://security.staging.ndw.nu)| | **E**|| | | | | | | | :white_check_mark: | |||
+|[https://design.ndw.nu](https://design.ndw.nu)| | **F**|Microsoft-Azure-Application-Gateway/v2| | | | | | | | :white_check_mark: | ||404 Not Found|
 

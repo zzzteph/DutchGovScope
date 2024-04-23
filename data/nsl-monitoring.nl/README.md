@@ -11,7 +11,7 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/nsl-monitoring.nl/subdomains.txt)|5|Alive subdomains|
+|[subdomains.txt](/data/nsl-monitoring.nl/subdomains.txt)|2|Alive subdomains|
 |[urls.txt](/data/nsl-monitoring.nl/urls.txt)|0|Urls|
 |[all_subdomains.txt](/data/nsl-monitoring.nl/all_subdomains.txt)|15|All found subdomains (history)|
 

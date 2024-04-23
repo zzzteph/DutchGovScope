@@ -12,7 +12,7 @@
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/huurcommissie.nl/subdomains.txt)|45|Alive subdomains|
-|[urls.txt](/data/huurcommissie.nl/urls.txt)|18|Urls|
+|[urls.txt](/data/huurcommissie.nl/urls.txt)|19|Urls|
 |[all_subdomains.txt](/data/huurcommissie.nl/all_subdomains.txt)|65|All found subdomains (history)|
 
 
@@ -39,4 +39,5 @@
 |[https://enterpriseregistration.huurcommissie.nl](https://enterpriseregistration.huurcommissie.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://msoid.huurcommissie.nl](https://msoid.huurcommissie.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Object moved|
 |[https://vpn.huurcommissie.nl](https://vpn.huurcommissie.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
+|[https://sumatra.huurcommissie.nl](https://sumatra.huurcommissie.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
 

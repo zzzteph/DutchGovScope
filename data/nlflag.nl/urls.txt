@@ -4,3 +4,4 @@ https://nlflag.nl
 https://lesmousquetaires.nlflag.nl
 https://mail.nlflag.nl
 https://ftp.nlflag.nl
+http://autodiscover.nlflag.nl

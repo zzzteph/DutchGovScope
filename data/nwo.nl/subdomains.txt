@@ -35,6 +35,7 @@ personenimport.nwo.nl
 platformcs-project.nwo.nl
 vibec.nwo.nl
 webconf.nwo.nl
+stockfoto.nwo.nl
 sip.nwo.nl
 lyncdiscover.nwo.nl
 enterpriseenrollment.nwo.nl

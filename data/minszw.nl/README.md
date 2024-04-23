@@ -27,5 +27,5 @@
 |[https://gemeenteloket.minszw.nl](https://gemeenteloket.minszw.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
 |[https://www.gemeenteloket.minszw.nl](https://www.gemeenteloket.minszw.nl)| **F**| **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
 |[https://testsiam.minszw.nl](https://testsiam.minszw.nl)| **A+**| **A**|N.A.| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Authentication F...|
-|[https://werkbezoek.minszw.nl](https://werkbezoek.minszw.nl)| | **E**||:o: | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | ||Index | Minister...|
+|[https://werkbezoek.minszw.nl](https://werkbezoek.minszw.nl)| | **E**||:o: | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | ||Voorpagina | Min...|
 

@@ -29,6 +29,5 @@ hdsr.nl
 kantoor.hdsr.nl
 intranet.ad.hdsr.nl
 waterkwaliteitinbeeld.hdsr.nl
-digikoppeling.hdsr.nl
 digikoppeling-test.hdsr.nl
 localhost.hdsr.nl

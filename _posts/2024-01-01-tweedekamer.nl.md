@@ -2,12 +2,12 @@
 layout: default
 title: "tweedekamer.nl"
 permalink: "/dutchgov/tweedekamer.nl.html"
-subdomains_count: 182
-all_subdomains_count: 284
-urls_count: 123
+subdomains_count: 185
+all_subdomains_count: 286
+urls_count: 125
 ssl_rank: A-
 http_rank: C
-security_txt: 75
+security_txt: 77
 url_link: /data/tweedekamer.nl/urls.txt
 all_subdomains_link: /data/tweedekamer.nl/all_subdomains.txt
 subdomains_link: /data/tweedekamer.nl/subdomains.txt
@@ -22,14 +22,14 @@ tags: dutchgov
 
  - **SSL Grade**:A-
  - **HTTP Security Grade**:C
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:75
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:77
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/tweedekamer.nl/subdomains.txt)|182|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/tweedekamer.nl/urls.txt)|123|Urls|
-|[all_subdomains.txt](/DutchGovScope/data/tweedekamer.nl/all_subdomains.txt)|284|All found subdomains (history)|
+|[subdomains.txt](/DutchGovScope/data/tweedekamer.nl/subdomains.txt)|185|Alive subdomains|
+|[urls.txt](/DutchGovScope/data/tweedekamer.nl/urls.txt)|125|Urls|
+|[all_subdomains.txt](/DutchGovScope/data/tweedekamer.nl/all_subdomains.txt)|286|All found subdomains (history)|
 
 
 ## Statistics
@@ -160,4 +160,6 @@ tags: dutchgov
 |[https://handboekgpbw-acc.tweedekamer.nl](https://handboekgpbw-acc.tweedekamer.nl)| | **B**|BigIP|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |F5 BigIP||
 |[https://handboekgc.tweedekamer.nl](https://handboekgc.tweedekamer.nl)| | **B**|BigIP|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |F5 BigIP||
 |[https://planon-live.tweedekamer.nl](https://planon-live.tweedekamer.nl)| | **B**|BigIP|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |F5 BigIP||
+|[https://samenwerkruimten.tweedekamer.nl](https://samenwerkruimten.tweedekamer.nl)| | **B**|BigIP|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |F5 BigIP||
+|[https://oracle-financials.tweedekamer.nl](https://oracle-financials.tweedekamer.nl)| | **B**|BigIP|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |F5 BigIP||
 

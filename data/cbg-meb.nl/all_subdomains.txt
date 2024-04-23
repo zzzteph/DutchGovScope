@@ -63,3 +63,4 @@ b2bi-acc.cbg-meb.nl
 b2bi.cbg-meb.nl
 eurs-next.cbg-meb.nl
 rabbitmq.cbg-meb.nl
+www.db.cbg-meb.nl

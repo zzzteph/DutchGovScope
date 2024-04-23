@@ -118,3 +118,4 @@ security.ndw.nu
 security.staging.ndw.nu
 design.ndw.nu
 sentry.ndw.nu
+viz.ndw.nu
