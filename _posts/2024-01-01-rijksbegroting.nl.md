@@ -2,12 +2,12 @@
 layout: default
 title: "rijksbegroting.nl"
 permalink: "/dutchgov/rijksbegroting.nl.html"
-subdomains_count: 6
+subdomains_count: 9
 all_subdomains_count: 13
-urls_count: 6
+urls_count: 9
 ssl_rank: A+
 http_rank: A
-security_txt: 3
+security_txt: 5
 url_link: /data/rijksbegroting.nl/urls.txt
 all_subdomains_link: /data/rijksbegroting.nl/all_subdomains.txt
 subdomains_link: /data/rijksbegroting.nl/subdomains.txt
@@ -22,13 +22,13 @@ tags: dutchgov
 
  - **SSL Grade**:A+
  - **HTTP Security Grade**:A
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:3
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:5
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/rijksbegroting.nl/subdomains.txt)|6|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/rijksbegroting.nl/urls.txt)|6|Urls|
+|[subdomains.txt](/DutchGovScope/data/rijksbegroting.nl/subdomains.txt)|9|Alive subdomains|
+|[urls.txt](/DutchGovScope/data/rijksbegroting.nl/urls.txt)|9|Urls|
 |[all_subdomains.txt](/DutchGovScope/data/rijksbegroting.nl/all_subdomains.txt)|13|All found subdomains (history)|
 
 
@@ -43,4 +43,7 @@ tags: dutchgov
 |[https://opendata.rijksbegroting.nl](https://opendata.rijksbegroting.nl)| **A+**| **A**|| |:white_check_mark: | :warning:| | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|302 Found|
 |[https://www.rijksbegroting.nl](https://www.rijksbegroting.nl)| **A+**| **A**|| |:white_check_mark: | :warning:| | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|302 Found|
 |[https://rijksbegroting.nl](https://rijksbegroting.nl)| **A+**| **A**|| |:white_check_mark: | :warning:| | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|302 Found|
+|[https://extrainfo-acc.rijksbegroting.nl](https://extrainfo-acc.rijksbegroting.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|302 Found|
+|[https://opendata-acc.rijksbegroting.nl](https://opendata-acc.rijksbegroting.nl)| | **A**|| |:white_check_mark: | :warning:| | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|302 Found|
+|[https://www-acc.rijksbegroting.nl](https://www-acc.rijksbegroting.nl)| | **A**|| |:white_check_mark: | :warning:| | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|302 Found|
 

@@ -2,9 +2,9 @@
 layout: default
 title: "trainingscatalogus.nl"
 permalink: "/dutchgov/trainingscatalogus.nl.html"
-subdomains_count: 168
+subdomains_count: 171
 all_subdomains_count: 186
-urls_count: 107
+urls_count: 106
 ssl_rank: A+
 http_rank: C
 security_txt: 26
@@ -27,8 +27,8 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/trainingscatalogus.nl/subdomains.txt)|168|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/trainingscatalogus.nl/urls.txt)|107|Urls|
+|[subdomains.txt](/DutchGovScope/data/trainingscatalogus.nl/subdomains.txt)|171|Alive subdomains|
+|[urls.txt](/DutchGovScope/data/trainingscatalogus.nl/urls.txt)|106|Urls|
 |[all_subdomains.txt](/DutchGovScope/data/trainingscatalogus.nl/all_subdomains.txt)|186|All found subdomains (history)|
 
 
@@ -118,7 +118,6 @@ tags: dutchgov
 |[https://stedin.trainingscatalogus.nl](https://stedin.trainingscatalogus.nl)| | **F**|Microsoft-IIS/10.0| | | | | | | | :white_check_mark: | |IIS:10.0 Windows Server|IIS Windows Serv...|
 |[https://ftp.trainingscatalogus.nl](https://ftp.trainingscatalogus.nl)| | **F**|Microsoft-Azure-Application-Gateway/v2| | | | | | | | :white_check_mark: | ||404 Not Found|
 |[https://sectest.trainingscatalogus.nl](https://sectest.trainingscatalogus.nl)| | **A**|Class|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
-|[https://services-dev.trainingscatalogus.nl](https://services-dev.trainingscatalogus.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Error 404 (Not F...|
 |[https://leeromgeving-rotterdam-a.trainingscatalogus.nl](https://leeromgeving-rotterdam-a.trainingscatalogus.nl)| | **A**|Apache| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS Moodle PHP|Doorverwijspagin...|
 |[https://ind-a.trainingscatalogus.nl](https://ind-a.trainingscatalogus.nl)| | **B**|Class|:white_check_mark: |:white_check_mark: | | |:warning: | | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://leeromgeving-rotterdam.trainingscatalogus.nl](https://leeromgeving-rotterdam.trainingscatalogus.nl)| | **A**|Apache| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS Moodle PHP|Doorverwijspagin...|

@@ -9,4 +9,3 @@ media01.kennisplatform.nl
 media02.kennisplatform.nl
 media03.kennisplatform.nl
 msoid.kennisplatform.nl
-new.kennisplatform.nl

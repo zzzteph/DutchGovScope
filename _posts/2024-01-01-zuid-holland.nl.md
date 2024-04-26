@@ -4,10 +4,10 @@ title: "zuid-holland.nl"
 permalink: "/dutchgov/zuid-holland.nl.html"
 subdomains_count: 77
 all_subdomains_count: 139
-urls_count: 72
+urls_count: 73
 ssl_rank: A
 http_rank: B
-security_txt: 20
+security_txt: 21
 url_link: /data/zuid-holland.nl/urls.txt
 all_subdomains_link: /data/zuid-holland.nl/all_subdomains.txt
 subdomains_link: /data/zuid-holland.nl/subdomains.txt
@@ -22,13 +22,13 @@ tags: dutchgov
 
  - **SSL Grade**:A
  - **HTTP Security Grade**:B
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:20
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:21
 
 
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/DutchGovScope/data/zuid-holland.nl/subdomains.txt)|77|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/zuid-holland.nl/urls.txt)|72|Urls|
+|[urls.txt](/DutchGovScope/data/zuid-holland.nl/urls.txt)|73|Urls|
 |[all_subdomains.txt](/DutchGovScope/data/zuid-holland.nl/all_subdomains.txt)|139|All found subdomains (history)|
 
 
@@ -109,4 +109,5 @@ tags: dutchgov
 |[https://belastingen.zuid-holland.nl](https://belastingen.zuid-holland.nl)| | **A**||:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Object moved|
 |[https://jaaroverzichtcommissarisvandekoning2023.zuid-holland.nl](https://jaaroverzichtcommissarisvandekoning2023.zuid-holland.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:-|Object moved|
 |[https://geoweb.zuid-holland.nl](https://geoweb.zuid-holland.nl)| | **F**||:white_check_mark: | | | | | | | :white_check_mark: | |||
+|[https://denkmeemet.zuid-holland.nl](https://denkmeemet.zuid-holland.nl)| | **B**||:o: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |||
 

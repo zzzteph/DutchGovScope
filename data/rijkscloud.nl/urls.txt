@@ -139,3 +139,5 @@ https://repo.ix.rijkscloud.nl
 https://diplomaonderzoek.dfront.rijkscloud.nl
 https://particulier.dfront.rijkscloud.nl
 https://afwijkend-examineren.dfront.rijkscloud.nl
+https://zakelijk.dfront.rijkscloud.nl
+https://kennisbank.dfront.rijkscloud.nl

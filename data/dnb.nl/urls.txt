@@ -74,7 +74,6 @@ http://autodiscover.dnb.nl
 https://api.dataloop-acc.dnb.nl
 https://dataloop-acc.dnb.nl
 https://dataloop-test.dnb.nl
-https://planon-a.dnb.nl
 https://api-staging.developer.dnb.nl
 https://mockapp-pp.dnb.nl
 https://mijn-test.dnb.nl
@@ -94,9 +93,6 @@ https://mijnatm-acc.azure.dnb.nl
 https://tzorganisatiegegevens-tst.dnb.nl
 https://tzorganisatiegegevens-dev.dnb.nl
 https://stepui.azure.dnb.nl
-https://api-tzkalender-acc.dnb.nl
-https://api-tzkalender-tst.dnb.nl
-https://api-tzkalender-dev.dnb.nl
 https://mijnatm.azure.dnb.nl
 https://tzpubliekscontact-dev.dnb.nl
 https://tzpubliekscontact-tst.dnb.nl

@@ -1,0 +1,10 @@
+https://adfs.zinl.nl
+https://mail.zinl.nl
+https://mx1.zinl.nl
+https://autodiscover.zinl.nl
+https://mdm.zinl.nl
+https://office.zinl.nl
+https://portal.zinl.nl
+https://zinl.nl
+https://www.zinl.nl
+https://enterpriseregistration.zinl.nl

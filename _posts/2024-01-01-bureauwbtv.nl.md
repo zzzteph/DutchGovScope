@@ -4,10 +4,10 @@ title: "bureauwbtv.nl"
 permalink: "/dutchgov/bureauwbtv.nl.html"
 subdomains_count: 5
 all_subdomains_count: 6
-urls_count: 0
+urls_count: 4
 ssl_rank: 
-http_rank: F
-security_txt: 0
+http_rank: B
+security_txt: 2
 url_link: /data/bureauwbtv.nl/urls.txt
 all_subdomains_link: /data/bureauwbtv.nl/all_subdomains.txt
 subdomains_link: /data/bureauwbtv.nl/subdomains.txt
@@ -21,14 +21,14 @@ tags: dutchgov
 
 
  - **SSL Grade**:
- - **HTTP Security Grade**:F
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:0
+ - **HTTP Security Grade**:B
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:2
 
 
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/DutchGovScope/data/bureauwbtv.nl/subdomains.txt)|5|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/bureauwbtv.nl/urls.txt)|0|Urls|
+|[urls.txt](/DutchGovScope/data/bureauwbtv.nl/urls.txt)|4|Urls|
 |[all_subdomains.txt](/DutchGovScope/data/bureauwbtv.nl/all_subdomains.txt)|6|All found subdomains (history)|
 
 
@@ -37,4 +37,8 @@ tags: dutchgov
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
+|[https://zoekeentolkvertaler.bureauwbtv.nl](https://zoekeentolkvertaler.bureauwbtv.nl)| | **B**|nginx| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS Nginx|Mendix|
+|[https://bureauwbtv.nl](https://bureauwbtv.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Object moved|
+|[https://www.bureauwbtv.nl](https://www.bureauwbtv.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Home - Raad voor...|
+|[http://uptime.bureauwbtv.nl](http://uptime.bureauwbtv.nl)| | **F**|Caddy| | | | | | | | :white_check_mark: | |Caddy||
 

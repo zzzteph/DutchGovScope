@@ -6,13 +6,13 @@
 
  - **SSL Grade**:A+
  - **HTTP Security Grade**:A
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:14
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:13
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/feedfoodtransfer.nl/subdomains.txt)|24|Alive subdomains|
-|[urls.txt](/data/feedfoodtransfer.nl/urls.txt)|24|Urls|
+|[subdomains.txt](/data/feedfoodtransfer.nl/subdomains.txt)|23|Alive subdomains|
+|[urls.txt](/data/feedfoodtransfer.nl/urls.txt)|23|Urls|
 |[all_subdomains.txt](/data/feedfoodtransfer.nl/all_subdomains.txt)|27|All found subdomains (history)|
 
 
@@ -36,7 +36,6 @@
 |[https://dioxins-congener-hen.apps.feedfoodtransfer.nl](https://dioxins-congener-hen.apps.feedfoodtransfer.nl)| **A+**| **C**||:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | |Bootstrap HSTS||
 |[https://dioxins-totalteq-hen.apps.feedfoodtransfer.nl](https://dioxins-totalteq-hen.apps.feedfoodtransfer.nl)| **A+**| **C**||:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | |Bootstrap HSTS||
 |[https://dev.apps.feedfoodtransfer.nl](https://dev.apps.feedfoodtransfer.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |||
-|[https://mail.apps.feedfoodtransfer.nl](https://mail.apps.feedfoodtransfer.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |||
 |[https://uat.apps.feedfoodtransfer.nl](https://uat.apps.feedfoodtransfer.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |||
 |[https://staging.apps.feedfoodtransfer.nl](https://staging.apps.feedfoodtransfer.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |||
 |[https://api.apps.feedfoodtransfer.nl](https://api.apps.feedfoodtransfer.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |||

@@ -2,9 +2,9 @@
 layout: default
 title: "bodemrichtlijn.nl"
 permalink: "/dutchgov/bodemrichtlijn.nl.html"
-subdomains_count: 1602
+subdomains_count: 1669
 all_subdomains_count: 1671
-urls_count: 1574
+urls_count: 1601
 ssl_rank: C
 http_rank: E
 security_txt: 3
@@ -27,8 +27,8 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/bodemrichtlijn.nl/subdomains.txt)|1602|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/bodemrichtlijn.nl/urls.txt)|1574|Urls|
+|[subdomains.txt](/DutchGovScope/data/bodemrichtlijn.nl/subdomains.txt)|1669|Alive subdomains|
+|[urls.txt](/DutchGovScope/data/bodemrichtlijn.nl/urls.txt)|1601|Urls|
 |[all_subdomains.txt](/DutchGovScope/data/bodemrichtlijn.nl/all_subdomains.txt)|1671|All found subdomains (history)|
 
 
@@ -329,7 +329,6 @@ tags: dutchgov
 |[https://seiya.bodemrichtlijn.nl](https://seiya.bodemrichtlijn.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Microsoft Azure...|
 |[https://www-gp-web-1724.bodemrichtlijn.nl](https://www-gp-web-1724.bodemrichtlijn.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Microsoft Azure...|
 |[https://tetsu.bodemrichtlijn.nl](https://tetsu.bodemrichtlijn.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Microsoft Azure...|
-|[https://nuxeo.bodemrichtlijn.nl](https://nuxeo.bodemrichtlijn.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Microsoft Azure...|
 |[https://test-search.bodemrichtlijn.nl](https://test-search.bodemrichtlijn.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Microsoft Azure...|
 |[https://www-3-2.bodemrichtlijn.nl](https://www-3-2.bodemrichtlijn.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Microsoft Azure...|
 |[https://ued.bodemrichtlijn.nl](https://ued.bodemrichtlijn.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Microsoft Azure...|
@@ -1611,4 +1610,32 @@ tags: dutchgov
 |[https://stoelverhogers.bodemrichtlijn.nl](https://stoelverhogers.bodemrichtlijn.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Microsoft Azure...|
 |[https://chris.bodemrichtlijn.nl](https://chris.bodemrichtlijn.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Microsoft Azure...|
 |[https://gaycams.bodemrichtlijn.nl](https://gaycams.bodemrichtlijn.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Microsoft Azure...|
+|[https://icard.bodemrichtlijn.nl](https://icard.bodemrichtlijn.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Microsoft Azure...|
+|[https://leninsk-kuznetskiy.bodemrichtlijn.nl](https://leninsk-kuznetskiy.bodemrichtlijn.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Microsoft Azure...|
+|[https://gdansk.bodemrichtlijn.nl](https://gdansk.bodemrichtlijn.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Microsoft Azure...|
+|[https://shanwei.bodemrichtlijn.nl](https://shanwei.bodemrichtlijn.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Microsoft Azure...|
+|[https://claudette.bodemrichtlijn.nl](https://claudette.bodemrichtlijn.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Microsoft Azure...|
+|[https://web6769.bodemrichtlijn.nl](https://web6769.bodemrichtlijn.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Microsoft Azure...|
+|[https://tetra.bodemrichtlijn.nl](https://tetra.bodemrichtlijn.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Microsoft Azure...|
+|[https://alondra.bodemrichtlijn.nl](https://alondra.bodemrichtlijn.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Microsoft Azure...|
+|[https://geoff.bodemrichtlijn.nl](https://geoff.bodemrichtlijn.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Microsoft Azure...|
+|[https://tines.bodemrichtlijn.nl](https://tines.bodemrichtlijn.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Microsoft Azure...|
+|[https://mature.bodemrichtlijn.nl](https://mature.bodemrichtlijn.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Microsoft Azure...|
+|[https://web106.bodemrichtlijn.nl](https://web106.bodemrichtlijn.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Microsoft Azure...|
+|[https://phill.bodemrichtlijn.nl](https://phill.bodemrichtlijn.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Microsoft Azure...|
+|[https://atoc.bodemrichtlijn.nl](https://atoc.bodemrichtlijn.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Microsoft Azure...|
+|[https://rbn.bodemrichtlijn.nl](https://rbn.bodemrichtlijn.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Microsoft Azure...|
+|[https://vhd.bodemrichtlijn.nl](https://vhd.bodemrichtlijn.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Microsoft Azure...|
+|[https://bbh.bodemrichtlijn.nl](https://bbh.bodemrichtlijn.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Microsoft Azure...|
+|[https://smtprelay01.bodemrichtlijn.nl](https://smtprelay01.bodemrichtlijn.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Microsoft Azure...|
+|[https://tien.bodemrichtlijn.nl](https://tien.bodemrichtlijn.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Microsoft Azure...|
+|[https://api.preview.bodemrichtlijn.nl](https://api.preview.bodemrichtlijn.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Microsoft Azure...|
+|[https://customerhelp.bodemrichtlijn.nl](https://customerhelp.bodemrichtlijn.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Microsoft Azure...|
+|[https://plug-in.bodemrichtlijn.nl](https://plug-in.bodemrichtlijn.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Microsoft Azure...|
+|[https://citytrips.bodemrichtlijn.nl](https://citytrips.bodemrichtlijn.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Microsoft Azure...|
+|[https://paradis.bodemrichtlijn.nl](https://paradis.bodemrichtlijn.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Microsoft Azure...|
+|[https://comtech.bodemrichtlijn.nl](https://comtech.bodemrichtlijn.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Microsoft Azure...|
+|[https://exm.bodemrichtlijn.nl](https://exm.bodemrichtlijn.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Microsoft Azure...|
+|[https://links.notifications.bodemrichtlijn.nl](https://links.notifications.bodemrichtlijn.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Microsoft Azure...|
+|[https://alerte-antivirus.bodemrichtlijn.nl](https://alerte-antivirus.bodemrichtlijn.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Microsoft Azure...|
 

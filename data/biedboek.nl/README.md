@@ -12,7 +12,7 @@
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/biedboek.nl/subdomains.txt)|1663|Alive subdomains|
-|[urls.txt](/data/biedboek.nl/urls.txt)|1651|Urls|
+|[urls.txt](/data/biedboek.nl/urls.txt)|1663|Urls|
 |[all_subdomains.txt](/data/biedboek.nl/all_subdomains.txt)|1663|All found subdomains (history)|
 
 
@@ -1672,4 +1672,16 @@
 |[https://databridge.biedboek.nl](https://databridge.biedboek.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
 |[https://testlive.biedboek.nl](https://testlive.biedboek.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
 |[https://clotho.biedboek.nl](https://clotho.biedboek.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
+|[https://mail.survey.biedboek.nl](https://mail.survey.biedboek.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
+|[https://gku.biedboek.nl](https://gku.biedboek.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
+|[https://eclair.biedboek.nl](https://eclair.biedboek.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
+|[https://kroonprinses.biedboek.nl](https://kroonprinses.biedboek.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
+|[https://fuego.biedboek.nl](https://fuego.biedboek.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
+|[https://ire.biedboek.nl](https://ire.biedboek.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
+|[https://login.corp.biedboek.nl](https://login.corp.biedboek.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
+|[https://passport2.biedboek.nl](https://passport2.biedboek.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
+|[https://snout.balance.biedboek.nl](https://snout.balance.biedboek.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
+|[https://kkn.biedboek.nl](https://kkn.biedboek.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
+|[https://frontend.office.prod.clops.biedboek.nl](https://frontend.office.prod.clops.biedboek.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
+|[https://medium.biedboek.nl](https://medium.biedboek.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
 

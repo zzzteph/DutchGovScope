@@ -12,7 +12,7 @@
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/nationaalarchief.nl/subdomains.txt)|102|Alive subdomains|
-|[urls.txt](/data/nationaalarchief.nl/urls.txt)|44|Urls|
+|[urls.txt](/data/nationaalarchief.nl/urls.txt)|43|Urls|
 |[all_subdomains.txt](/data/nationaalarchief.nl/all_subdomains.txt)|190|All found subdomains (history)|
 
 
@@ -33,7 +33,6 @@
 |[https://acpt.nationaalarchief.nl](https://acpt.nationaalarchief.nl)| **A**| **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|403 Forbidden|
 |[https://actorenregister.acpt.nationaalarchief.nl](https://actorenregister.acpt.nationaalarchief.nl)| **A**| **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|403 Forbidden|
 |[https://actorenregister.nationaalarchief.nl](https://actorenregister.nationaalarchief.nl)| **A+**| **A**|nginx| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Drupal:9 HSTS Nginx PHP|Welkom | Actoren...|
-|[https://actorenregister.test.nationaalarchief.nl](https://actorenregister.test.nationaalarchief.nl)| **A**| **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|403 Forbidden|
 |[https://cbs.acpt.nationaalarchief.nl](https://cbs.acpt.nationaalarchief.nl)| **A**| **E**|| | | | | | | | :white_check_mark: | |||
 |[https://cbs.nationaalarchief.nl](https://cbs.nationaalarchief.nl)| **A**| **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |||
 |[https://chat.nationaalarchief.nl](https://chat.nationaalarchief.nl)| **A+**| **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Mattermost|

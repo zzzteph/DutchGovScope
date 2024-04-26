@@ -2,7 +2,7 @@
 layout: default
 title: "rwscregelaar.nl"
 permalink: "/dutchgov/rwscregelaar.nl.html"
-subdomains_count: 2247
+subdomains_count: 2248
 all_subdomains_count: 2248
 urls_count: 2247
 ssl_rank: 
@@ -27,7 +27,7 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/rwscregelaar.nl/subdomains.txt)|2247|Alive subdomains|
+|[subdomains.txt](/DutchGovScope/data/rwscregelaar.nl/subdomains.txt)|2248|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/rwscregelaar.nl/urls.txt)|2247|Urls|
 |[all_subdomains.txt](/DutchGovScope/data/rwscregelaar.nl/all_subdomains.txt)|2248|All found subdomains (history)|
 

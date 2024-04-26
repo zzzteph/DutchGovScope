@@ -79,7 +79,6 @@ https://rbo.trainingscatalogus.nl
 https://stedin.trainingscatalogus.nl
 https://ftp.trainingscatalogus.nl
 https://sectest.trainingscatalogus.nl
-https://services-dev.trainingscatalogus.nl
 https://leeromgeving-rotterdam-a.trainingscatalogus.nl
 https://ind-a.trainingscatalogus.nl
 https://leeromgeving-rotterdam.trainingscatalogus.nl

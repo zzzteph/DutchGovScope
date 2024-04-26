@@ -4,3 +4,6 @@ extrainfo.rijksbegroting.nl
 opendata.rijksbegroting.nl
 www.rijksbegroting.nl
 rijksbegroting.nl
+extrainfo-acc.rijksbegroting.nl
+opendata-acc.rijksbegroting.nl
+www-acc.rijksbegroting.nl

@@ -1,3 +1,2 @@
 www.registerexterneveiligheid.nl
 registerexterneveiligheid.nl
-localhost.registerexterneveiligheid.nl

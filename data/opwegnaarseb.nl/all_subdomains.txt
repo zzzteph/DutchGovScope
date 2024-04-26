@@ -6,3 +6,6 @@ webmail.opwegnaarseb.nl
 www.opwegnaarseb.nl
 opwegnaarseb.nl
 media.opwegnaarseb.nl
+birdseye.gis.opwegnaarseb.nl
+ncell.opwegnaarseb.nl
+marksandspencer.opwegnaarseb.nl

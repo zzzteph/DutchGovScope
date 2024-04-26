@@ -7,6 +7,7 @@ https://api.linkeddata.cultureelerfgoed.nl
 https://archis.cultureelerfgoed.nl
 https://archisarchief.cultureelerfgoed.nl
 https://beeldbank.cultureelerfgoed.nl
+https://catalogus.cultureelerfgoed.nl
 https://data.cultureelerfgoed.nl
 https://data.geo.cultureelerfgoed.nl
 http://doorzoeker.cultureelerfgoed.nl

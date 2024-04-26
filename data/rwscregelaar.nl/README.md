@@ -11,7 +11,7 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/rwscregelaar.nl/subdomains.txt)|2247|Alive subdomains|
+|[subdomains.txt](/data/rwscregelaar.nl/subdomains.txt)|2248|Alive subdomains|
 |[urls.txt](/data/rwscregelaar.nl/urls.txt)|2247|Urls|
 |[all_subdomains.txt](/data/rwscregelaar.nl/all_subdomains.txt)|2248|All found subdomains (history)|
 

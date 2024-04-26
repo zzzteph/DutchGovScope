@@ -6,13 +6,13 @@
 
  - **SSL Grade**:B+
  - **HTTP Security Grade**:C
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:40
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:41
 
 
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/rvo.nl/subdomains.txt)|163|Alive subdomains|
-|[urls.txt](/data/rvo.nl/urls.txt)|104|Urls|
+|[urls.txt](/data/rvo.nl/urls.txt)|105|Urls|
 |[all_subdomains.txt](/data/rvo.nl/all_subdomains.txt)|271|All found subdomains (history)|
 
 
@@ -125,4 +125,5 @@
 |[https://mijnoctrooi.rvo.nl](https://mijnoctrooi.rvo.nl)| | **A**|Server| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |||
 |[https://sandbox.rvo.nl](https://sandbox.rvo.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS|403 Forbidden|
 |[https://redesign.rvo.nl](https://redesign.rvo.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Basic Nginx|401 Authorizatio...|
+|[https://gdi-b.rvo.nl](https://gdi-b.rvo.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS|Onderhoud Pagina|
 

@@ -2,9 +2,9 @@
 layout: default
 title: "kennisplatform.nl"
 permalink: "/dutchgov/kennisplatform.nl.html"
-subdomains_count: 12
+subdomains_count: 11
 all_subdomains_count: 12
-urls_count: 9
+urls_count: 8
 ssl_rank: A+
 http_rank: E
 security_txt: 0
@@ -27,8 +27,8 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/kennisplatform.nl/subdomains.txt)|12|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/kennisplatform.nl/urls.txt)|9|Urls|
+|[subdomains.txt](/DutchGovScope/data/kennisplatform.nl/subdomains.txt)|11|Alive subdomains|
+|[urls.txt](/DutchGovScope/data/kennisplatform.nl/urls.txt)|8|Urls|
 |[all_subdomains.txt](/DutchGovScope/data/kennisplatform.nl/all_subdomains.txt)|12|All found subdomains (history)|
 
 
@@ -45,5 +45,4 @@ tags: dutchgov
 |[https://media02.kennisplatform.nl](https://media02.kennisplatform.nl)| | **F**|imunify360-webshield/1.21| | | | | | | | :white_check_mark: | |Amazon CloudFront Amazon Web Services HSTS Imunify360:1.21||
 |[https://media03.kennisplatform.nl](https://media03.kennisplatform.nl)| | **F**|imunify360-webshield/1.21| | | | | | | | :white_check_mark: | |Amazon CloudFront Amazon Web Services HSTS Imunify360:1.21||
 |[https://msoid.kennisplatform.nl](https://msoid.kennisplatform.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Object moved|
-|[https://new.kennisplatform.nl](https://new.kennisplatform.nl)| | **F**|Apache/2.4.7 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.7 Ubuntu|Easy Made IT|
 

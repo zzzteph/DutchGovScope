@@ -166,3 +166,6 @@ rest.test.trainingscatalogus.nl
 online.test.trainingscatalogus.nl
 admin.test.trainingscatalogus.nl
 content.test.trainingscatalogus.nl
+payment.test.trainingscatalogus.nl
+mta-sts.test.trainingscatalogus.nl
+web.test.trainingscatalogus.nl

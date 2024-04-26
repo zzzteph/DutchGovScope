@@ -60,3 +60,5 @@ huisstijl.minvws.nl
 werkenbij.minvws.nl
 inspect.minvws.nl
 2023-10-13.toegankelijkheidsonderzoek.openvws.open.minvws.nl
+connect.test.who.minvws.nl
+sign.test.who.minvws.nl

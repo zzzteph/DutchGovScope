@@ -4,7 +4,7 @@ title: "internationaalondernemen.nl"
 permalink: "/dutchgov/internationaalondernemen.nl.html"
 subdomains_count: 12
 all_subdomains_count: 12
-urls_count: 10
+urls_count: 12
 ssl_rank: E
 http_rank: E
 security_txt: 0
@@ -28,7 +28,7 @@ tags: dutchgov
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/DutchGovScope/data/internationaalondernemen.nl/subdomains.txt)|12|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/internationaalondernemen.nl/urls.txt)|10|Urls|
+|[urls.txt](/DutchGovScope/data/internationaalondernemen.nl/urls.txt)|12|Urls|
 |[all_subdomains.txt](/DutchGovScope/data/internationaalondernemen.nl/all_subdomains.txt)|12|All found subdomains (history)|
 
 
@@ -47,4 +47,6 @@ tags: dutchgov
 |[https://epp.eurostat.ec.europa.euwww.internationaalondernemen.nl](https://epp.eurostat.ec.europa.euwww.internationaalondernemen.nl)| **F**| **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|An Error Occurre...|
 |[https://mail.internationaalondernemen.nl](https://mail.internationaalondernemen.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|Total Design - S...|
 |[https://ftp.internationaalondernemen.nl](https://ftp.internationaalondernemen.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|An Error Occurre...|
+|[https://www.foodfromholland.comwww.internationaalondernemen.nl](https://www.foodfromholland.comwww.internationaalondernemen.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|An Error Occurre...|
+|[https://vanwww.internationaalondernemen.nl](https://vanwww.internationaalondernemen.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|An Error Occurre...|
 

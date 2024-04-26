@@ -12,7 +12,7 @@
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/allesoversport.nl/subdomains.txt)|307|Alive subdomains|
-|[urls.txt](/data/allesoversport.nl/urls.txt)|305|Urls|
+|[urls.txt](/data/allesoversport.nl/urls.txt)|307|Urls|
 |[all_subdomains.txt](/data/allesoversport.nl/all_subdomains.txt)|316|All found subdomains (history)|
 
 
@@ -326,4 +326,6 @@
 |[https://tnoargumentenbeweegvriendelijkeomgevingwww.allesoversport.nl](https://tnoargumentenbeweegvriendelijkeomgevingwww.allesoversport.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS Varnish:6.2|Default site|
 |[https://ww.allesoversport.nl](https://ww.allesoversport.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS Varnish|Default site|
 |[https://vriendelijkeomgevingwww.allesoversport.nl](https://vriendelijkeomgevingwww.allesoversport.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS Varnish|Default site|
+|[https://www.kenniscentrumsportenbewegen.nlwww.allesoversport.nl](https://www.kenniscentrumsportenbewegen.nlwww.allesoversport.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS Varnish:6.2|Default site|
+|[https://kenniscentrumsportenbewegen.nlwww.kenniscentrumsportenbewegen.nlwww.allesoversport.nl](https://kenniscentrumsportenbewegen.nlwww.kenniscentrumsportenbewegen.nlwww.allesoversport.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS Varnish:6.2|Default site|
 

@@ -24,9 +24,9 @@
 |[https://exchangerate.douane.nl](https://exchangerate.douane.nl)| **A+**| **B**||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS IBM DataPower||
 |[https://exchangeratetest.douane.nl](https://exchangeratetest.douane.nl)| **A+**| **B**||:warning: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS IBM DataPower||
 |[http://mobiel.douane.nl](http://mobiel.douane.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |||
-|[https://nh.douane.nl](https://nh.douane.nl)| **A+**| **A**||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS MySQL PHP WordPress Yoast SEO Premium:22.0 Yoast SEO:22.0|Home | Nationale...|
+|[https://nh.douane.nl](https://nh.douane.nl)| **A+**| **A**||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS MySQL PHP WordPress Yoast SEO Premium:22.4 Yoast SEO:22.4|Home | Nationale...|
 |[https://reizigers.douane.nl](https://reizigers.douane.nl)| **F**| **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
-|[https://tarief.douane.nl](https://tarief.douane.nl)| **A+**| **B**|BigIP|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |F5 BigIP||
+|[https://tarief.douane.nl](https://tarief.douane.nl)| **A+**| **B**|BigIP|:white_check_mark: |:white_check_mark: | :warning:| |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |F5 BigIP||
 |[https://validationcalculation.douane.nl](https://validationcalculation.douane.nl)| **A+**| **A**|| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS IBM DataPower||
 |[https://validationcalculationtest.douane.nl](https://validationcalculationtest.douane.nl)| **A+**| **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS IBM DataPower||
 |[https://werken.douane.nl](https://werken.douane.nl)| **A**| **A**|Ponos Maximum|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Werken bij de Do...|

@@ -12,7 +12,7 @@
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/rivm.nl/subdomains.txt)|403|Alive subdomains|
-|[urls.txt](/data/rivm.nl/urls.txt)|273|Urls|
+|[urls.txt](/data/rivm.nl/urls.txt)|275|Urls|
 |[all_subdomains.txt](/data/rivm.nl/all_subdomains.txt)|946|All found subdomains (history)|
 
 
@@ -284,6 +284,7 @@
 |[http://lkvis.rivm.nl](http://lkvis.rivm.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://www.rivm.nl](https://www.rivm.nl)| | **A**|Apache| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Apache HTTP Server Drupal HSTS PHP|Rijksinstituut v...|
 |[https://rivm.nl](https://rivm.nl)| | **A**|Apache| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Apache HTTP Server HSTS|301 Moved Perman...|
+|[http://sftp.rivm.nl](http://sftp.rivm.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://tst-lsp.rivm.nl](https://tst-lsp.rivm.nl)| | **F**|Microsoft-Azure-Application-Gateway/v2| | | | | | | | :white_check_mark: | ||404 Not Found|
 |[https://api.tst-lsp.rivm.nl](https://api.tst-lsp.rivm.nl)| | **F**|Microsoft-Azure-Application-Gateway/v2| | | | | | | | :white_check_mark: | ||404 Not Found|
 |[https://lsp.rivm.nl](https://lsp.rivm.nl)| | **F**|Microsoft-Azure-Application-Gateway/v2| | | | | | | | :white_check_mark: | ||404 Not Found|
@@ -294,4 +295,5 @@
 |[https://teebstad-app.rivm.nl](https://teebstad-app.rivm.nl)| | **C**||:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | |Bootstrap:4.6.0 HSTS||
 |[http://stikstofdepositiedata.rivm.nl](http://stikstofdepositiedata.rivm.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://ggdiamdemo.rivm.nl](https://ggdiamdemo.rivm.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||
+|[http://developer.rivm.nl](http://developer.rivm.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 

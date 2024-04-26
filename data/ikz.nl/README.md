@@ -27,7 +27,7 @@
 |[https://vpzf.ikz.nl](https://vpzf.ikz.nl)| **A+**| **B**|nginx| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS Nginx|Deze pagina is m...|
 |[https://www.ikz.nl](https://www.ikz.nl)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Home | Informati...|
 |[https://ikz.nl](https://ikz.nl)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
-|[https://mta-sts.ikz.nl](https://mta-sts.ikz.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|403 Forbidden|
+|[https://mta-sts.ikz.nl](https://mta-sts.ikz.nl)| | **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Nginx|Nothing here|
 |[http://autodiscover.ikz.nl](http://autodiscover.ikz.nl)| | **B**|Microsoft-IIS/10.0|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server||
 |[https://dashboards.ikz.nl](https://dashboards.ikz.nl)| | **F**|openresty| | | | | | | | :white_check_mark: | |Nginx OpenResty||
 

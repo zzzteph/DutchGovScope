@@ -1,5 +1,4 @@
 https://diensten.kvk.nl
-https://staging.werkenbij.kvk.nl
 https://ondernemersplein.kvk.nl
 https://www.kvk.nl
 https://cia.tst.ondernemersplein.kvk.nl

@@ -1,3 +1,2 @@
 https://www.registerexterneveiligheid.nl
 https://registerexterneveiligheid.nl
-http://localhost.registerexterneveiligheid.nl

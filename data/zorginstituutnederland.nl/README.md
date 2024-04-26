@@ -13,7 +13,7 @@
 |------------|-------|------|
 |[subdomains.txt](/data/zorginstituutnederland.nl/subdomains.txt)|26|Alive subdomains|
 |[urls.txt](/data/zorginstituutnederland.nl/urls.txt)|12|Urls|
-|[all_subdomains.txt](/data/zorginstituutnederland.nl/all_subdomains.txt)|41|All found subdomains (history)|
+|[all_subdomains.txt](/data/zorginstituutnederland.nl/all_subdomains.txt)|43|All found subdomains (history)|
 
 
 ## Statistics

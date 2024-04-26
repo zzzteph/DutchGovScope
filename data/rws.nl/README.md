@@ -11,8 +11,8 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/rws.nl/subdomains.txt)|251|Alive subdomains|
-|[urls.txt](/data/rws.nl/urls.txt)|170|Urls|
+|[subdomains.txt](/data/rws.nl/subdomains.txt)|249|Alive subdomains|
+|[urls.txt](/data/rws.nl/urls.txt)|168|Urls|
 |[all_subdomains.txt](/data/rws.nl/all_subdomains.txt)|1182|All found subdomains (history)|
 
 
@@ -180,11 +180,9 @@
 |[https://status.grid.rws.nl](https://status.grid.rws.nl)| | **F**|Microsoft-Azure-Application-Gateway/v2| | | | | | | | :white_check_mark: | ||307 Temporary Re...|
 |[https://www.grid.rws.nl](https://www.grid.rws.nl)| | **C**|Microsoft-Azure-Application-Gateway/v2| |:white_check_mark: | | | | | | :white_check_mark: | ||301 Moved Perman...|
 |[https://backend.grid.rws.nl](https://backend.grid.rws.nl)| | **F**|Microsoft-Azure-Application-Gateway/v2| | | | | | | | :white_check_mark: | ||307 Temporary Re...|
-|[https://chat.grid.rws.nl](https://chat.grid.rws.nl)| | **F**|Microsoft-Azure-Application-Gateway/v2| | | | | | | | :white_check_mark: | ||502 Bad Gateway|
 |[https://compliance.grid.rws.nl](https://compliance.grid.rws.nl)| | **F**|Microsoft-Azure-Application-Gateway/v2| | | | | | | | :white_check_mark: | ||307 Temporary Re...|
 |[https://iot.grid.rws.nl](https://iot.grid.rws.nl)| | **C**|Microsoft-Azure-Application-Gateway/v2| |:white_check_mark: | | | | | | :white_check_mark: | ||301 Moved Perman...|
 |[https://backend.gridacc.rws.nl](https://backend.gridacc.rws.nl)| | **F**|Microsoft-Azure-Application-Gateway/v2| | | | | | | | :white_check_mark: | ||307 Temporary Re...|
-|[https://chat-a.gridacc.rws.nl](https://chat-a.gridacc.rws.nl)| | **F**|Microsoft-Azure-Application-Gateway/v2| | | | | | | | :white_check_mark: | ||502 Bad Gateway|
 |[https://compliance.gridacc.rws.nl](https://compliance.gridacc.rws.nl)| | **F**|Microsoft-Azure-Application-Gateway/v2| | | | | | | | :white_check_mark: | ||307 Temporary Re...|
 |[https://iot.gridacc.rws.nl](https://iot.gridacc.rws.nl)| | **C**|Microsoft-Azure-Application-Gateway/v2| |:white_check_mark: | | | | | | :white_check_mark: | ||301 Moved Perman...|
 |[https://status.gridacc.rws.nl](https://status.gridacc.rws.nl)| | **F**|Microsoft-Azure-Application-Gateway/v2| | | | | | | | :white_check_mark: | ||307 Temporary Re...|

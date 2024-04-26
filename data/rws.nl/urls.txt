@@ -157,11 +157,9 @@ https://splunkhec.gridacc.rws.nl
 https://status.grid.rws.nl
 https://www.grid.rws.nl
 https://backend.grid.rws.nl
-https://chat.grid.rws.nl
 https://compliance.grid.rws.nl
 https://iot.grid.rws.nl
 https://backend.gridacc.rws.nl
-https://chat-a.gridacc.rws.nl
 https://compliance.gridacc.rws.nl
 https://iot.gridacc.rws.nl
 https://status.gridacc.rws.nl

@@ -3,4 +3,3 @@ gezondeleefomgeving.nl
 bibliotheek.gezondeleefomgeving.nl
 test.gezondeleefomgeving.nl
 acceptatie.gezondeleefomgeving.nl
-localhost.gezondeleefomgeving.nl

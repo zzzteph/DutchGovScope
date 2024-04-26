@@ -31,3 +31,4 @@ https://storage.test.mgo.irealisatie.nl
 http://acme.proeftuin.uzi-online.irealisatie.nl
 http://test.mgo.irealisatie.nl
 https://app-api.test.mgo.irealisatie.nl
+https://balie.dpr.irealisatie.nl

@@ -4,7 +4,7 @@ title: "one-conference.nl"
 permalink: "/dutchgov/one-conference.nl.html"
 subdomains_count: 26
 all_subdomains_count: 27
-urls_count: 25
+urls_count: 26
 ssl_rank: D
 http_rank: D
 security_txt: 3
@@ -28,7 +28,7 @@ tags: dutchgov
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/DutchGovScope/data/one-conference.nl/subdomains.txt)|26|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/one-conference.nl/urls.txt)|25|Urls|
+|[urls.txt](/DutchGovScope/data/one-conference.nl/urls.txt)|26|Urls|
 |[all_subdomains.txt](/DutchGovScope/data/one-conference.nl/all_subdomains.txt)|27|All found subdomains (history)|
 
 
@@ -62,4 +62,5 @@ tags: dutchgov
 |[https://adultshop.one-conference.nl](https://adultshop.one-conference.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS||
 |[https://kieran.one-conference.nl](https://kieran.one-conference.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS||
 |[https://70.one-conference.nl](https://70.one-conference.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS||
+|[https://advert.one-conference.nl](https://advert.one-conference.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS||
 

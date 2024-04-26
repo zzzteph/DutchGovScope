@@ -234,11 +234,9 @@ splunkhec.gridacc.rws.nl
 status.grid.rws.nl
 www.grid.rws.nl
 backend.grid.rws.nl
-chat.grid.rws.nl
 compliance.grid.rws.nl
 iot.grid.rws.nl
 backend.gridacc.rws.nl
-chat-a.gridacc.rws.nl
 compliance.gridacc.rws.nl
 iot.gridacc.rws.nl
 status.gridacc.rws.nl

@@ -12,7 +12,7 @@
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/rijkscloud.nl/subdomains.txt)|547|Alive subdomains|
-|[urls.txt](/data/rijkscloud.nl/urls.txt)|141|Urls|
+|[urls.txt](/data/rijkscloud.nl/urls.txt)|143|Urls|
 |[all_subdomains.txt](/data/rijkscloud.nl/all_subdomains.txt)|741|All found subdomains (history)|
 
 
@@ -162,4 +162,6 @@
 |[https://diplomaonderzoek.dfront.rijkscloud.nl](https://diplomaonderzoek.dfront.rijkscloud.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|Uno Documentatie|
 |[https://particulier.dfront.rijkscloud.nl](https://particulier.dfront.rijkscloud.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|Uno Documentatie|
 |[https://afwijkend-examineren.dfront.rijkscloud.nl](https://afwijkend-examineren.dfront.rijkscloud.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|Uno Documentatie|
+|[https://zakelijk.dfront.rijkscloud.nl](https://zakelijk.dfront.rijkscloud.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|Uno Documentatie|
+|[https://kennisbank.dfront.rijkscloud.nl](https://kennisbank.dfront.rijkscloud.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|Uno Documentatie|
 

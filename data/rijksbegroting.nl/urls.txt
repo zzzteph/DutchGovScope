@@ -4,3 +4,6 @@ https://extrainfo.rijksbegroting.nl
 https://opendata.rijksbegroting.nl
 https://www.rijksbegroting.nl
 https://rijksbegroting.nl
+https://extrainfo-acc.rijksbegroting.nl
+https://opendata-acc.rijksbegroting.nl
+https://www-acc.rijksbegroting.nl

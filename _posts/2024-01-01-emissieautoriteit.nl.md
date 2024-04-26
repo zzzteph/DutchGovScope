@@ -3,7 +3,7 @@ layout: default
 title: "emissieautoriteit.nl"
 permalink: "/dutchgov/emissieautoriteit.nl.html"
 subdomains_count: 27
-all_subdomains_count: 39
+all_subdomains_count: 40
 urls_count: 15
 ssl_rank: A+
 http_rank: A
@@ -29,7 +29,7 @@ tags: dutchgov
 |------------|-------|------|
 |[subdomains.txt](/DutchGovScope/data/emissieautoriteit.nl/subdomains.txt)|27|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/emissieautoriteit.nl/urls.txt)|15|Urls|
-|[all_subdomains.txt](/DutchGovScope/data/emissieautoriteit.nl/all_subdomains.txt)|39|All found subdomains (history)|
+|[all_subdomains.txt](/DutchGovScope/data/emissieautoriteit.nl/all_subdomains.txt)|40|All found subdomains (history)|
 
 
 ## Statistics

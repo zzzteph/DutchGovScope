@@ -6,7 +6,7 @@
 
  - **SSL Grade**:B
  - **HTTP Security Grade**:C
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:30
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:29
 
 
 | File       | Count | Info |
@@ -53,14 +53,14 @@
 |[http://digikoppeling2.cibg.nl](http://digikoppeling2.cibg.nl)| **F**| **F**|BigIP| | | | | | | | :white_check_mark: | |F5 BigIP||
 |[https://feeds.cibg.nl](https://feeds.cibg.nl)| **A+**| **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://forms.klopt.cibg.nl](https://forms.klopt.cibg.nl)| **A**| **E**|| | | | | | | | :white_check_mark: | ||404 Not Found|
-|[https://lir.cibg.nl](https://lir.cibg.nl)| **A**| **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
+|[https://lir.cibg.nl](https://lir.cibg.nl)| **A**| **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Landelijk Implan...|
 |[https://manager.klopt.cibg.nl](https://manager.klopt.cibg.nl)| **A**| **F**||:white_check_mark: | | | | | | | :white_check_mark: | |||
 |[https://meldingen.klopt.cibg.nl](https://meldingen.klopt.cibg.nl)| **B**| **E**|| | | | | | | | :white_check_mark: | |Amazon ALB Amazon Web Services HSTS Microsoft ASP.NET|Object moved|
 |[https://opendata.cibg.nl](https://opendata.cibg.nl)| **A+**| **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://portaal.competent.cibg.nl](https://portaal.competent.cibg.nl)| **A**| **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://prototype.cibg.nl](https://prototype.cibg.nl)| **B**| **A**|-| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Basic HSTS||
 |[http://publicaties.cibg.nl](http://publicaties.cibg.nl)| **F**| **F**||:o: | | | | | | | :white_check_mark: | |HSTS|Service Unavaila...|
-|[https://publicwebservices.cibg.nl](https://publicwebservices.cibg.nl)| **A**| **F**|-| | | | | | | | :white_check_mark: | |HSTS||
+|[http://publicwebservices.cibg.nl](http://publicwebservices.cibg.nl)| **A**| **F**|BigIP| | | | | | | | :white_check_mark: | |F5 BigIP||
 |[http://publicwebservices-dcr.cibg.nl](http://publicwebservices-dcr.cibg.nl)| **A**| **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |F5 BigIP||
 |[http://stijlgids.cibg.nl](http://stijlgids.cibg.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[http://test.digikoppeling.cibg.nl](http://test.digikoppeling.cibg.nl)| **F**| **D**|-| | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |||

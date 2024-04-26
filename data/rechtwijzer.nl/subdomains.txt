@@ -32,6 +32,7 @@ mijn.test.rechtwijzer.nl
 staging.test.rechtwijzer.nl
 mobile.test.rechtwijzer.nl
 assets.test.rechtwijzer.nl
+test.test.rechtwijzer.nl
 webmail.test.rechtwijzer.nl
 ssl.test.rechtwijzer.nl
 ldap.test.rechtwijzer.nl

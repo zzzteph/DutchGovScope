@@ -2,12 +2,12 @@
 layout: default
 title: "feedfoodtransfer.nl"
 permalink: "/dutchgov/feedfoodtransfer.nl.html"
-subdomains_count: 24
+subdomains_count: 23
 all_subdomains_count: 27
-urls_count: 24
+urls_count: 23
 ssl_rank: A+
 http_rank: A
-security_txt: 14
+security_txt: 13
 url_link: /data/feedfoodtransfer.nl/urls.txt
 all_subdomains_link: /data/feedfoodtransfer.nl/all_subdomains.txt
 subdomains_link: /data/feedfoodtransfer.nl/subdomains.txt
@@ -22,13 +22,13 @@ tags: dutchgov
 
  - **SSL Grade**:A+
  - **HTTP Security Grade**:A
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:14
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:13
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/feedfoodtransfer.nl/subdomains.txt)|24|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/feedfoodtransfer.nl/urls.txt)|24|Urls|
+|[subdomains.txt](/DutchGovScope/data/feedfoodtransfer.nl/subdomains.txt)|23|Alive subdomains|
+|[urls.txt](/DutchGovScope/data/feedfoodtransfer.nl/urls.txt)|23|Urls|
 |[all_subdomains.txt](/DutchGovScope/data/feedfoodtransfer.nl/all_subdomains.txt)|27|All found subdomains (history)|
 
 
@@ -52,7 +52,6 @@ tags: dutchgov
 |[https://dioxins-congener-hen.apps.feedfoodtransfer.nl](https://dioxins-congener-hen.apps.feedfoodtransfer.nl)| **A+**| **C**||:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | |Bootstrap HSTS||
 |[https://dioxins-totalteq-hen.apps.feedfoodtransfer.nl](https://dioxins-totalteq-hen.apps.feedfoodtransfer.nl)| **A+**| **C**||:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | |Bootstrap HSTS||
 |[https://dev.apps.feedfoodtransfer.nl](https://dev.apps.feedfoodtransfer.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |||
-|[https://mail.apps.feedfoodtransfer.nl](https://mail.apps.feedfoodtransfer.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |||
 |[https://uat.apps.feedfoodtransfer.nl](https://uat.apps.feedfoodtransfer.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |||
 |[https://staging.apps.feedfoodtransfer.nl](https://staging.apps.feedfoodtransfer.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |||
 |[https://api.apps.feedfoodtransfer.nl](https://api.apps.feedfoodtransfer.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |||

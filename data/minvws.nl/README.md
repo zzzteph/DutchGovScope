@@ -13,7 +13,7 @@
 |------------|-------|------|
 |[subdomains.txt](/data/minvws.nl/subdomains.txt)|32|Alive subdomains|
 |[urls.txt](/data/minvws.nl/urls.txt)|11|Urls|
-|[all_subdomains.txt](/data/minvws.nl/all_subdomains.txt)|62|All found subdomains (history)|
+|[all_subdomains.txt](/data/minvws.nl/all_subdomains.txt)|64|All found subdomains (history)|
 
 
 ## Statistics
