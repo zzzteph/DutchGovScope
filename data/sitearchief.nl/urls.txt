@@ -125,3 +125,5 @@ https://archief52.sitearchief.nl
 https://sportraad.sitearchief.nl
 https://abx03.sitearchief.nl
 https://niwo.sitearchief.nl
+https://archief60.sitearchief.nl
+https://abx05.sitearchief.nl

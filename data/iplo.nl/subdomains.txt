@@ -4,3 +4,4 @@ redactie-tl.iplo.nl
 tl.iplo.nl
 www.iplo.nl
 iplo.nl
+chw.iplo.nl

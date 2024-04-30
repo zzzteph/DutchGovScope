@@ -284,3 +284,4 @@ oracle-financials-ontw.tweedekamer.nl
 oracle-financials-acc.tweedekamer.nl
 fr.beta.tweedekamer.nl
 cognos.tweedekamer.nl
+de.beta.tweedekamer.nl

@@ -281,6 +281,7 @@ demohermans.huygens.knaw.nl
 gesantheiligenlands.huygens.knaw.nl
 huygens.knaw.nl
 inventaris.huygens.knaw.nl
+serrure.mvn.huygens.knaw.nl
 charriere.huygens.knaw.nl
 ckcc.huygens.knaw.nl
 clusiuscorrespondence2.huygens.knaw.nl
@@ -462,6 +463,7 @@ hucdrive.s3.huc.knaw.nl
 limesurvey.comtes.huygens.knaw.nl
 paste.huc.knaw.nl
 pland.meertens.knaw.nl
+svnmvn.huygens.knaw.nl
 transcriptions.globalise.huygens.knaw.nl
 svnmondxml.huygens.knaw.nl
 api.diplomatieke-getuigenissen.huygens.knaw.nl
@@ -500,6 +502,7 @@ archieven.meertens.knaw.nl
 cdn.huygens.knaw.nl
 nvb.meertens.knaw.nl
 data.globalise.huygens.knaw.nl
+edities.mvn.huygens.knaw.nl
 momfer.meertens.knaw.nl
 odb.huc.knaw.nl
 www.momfer.meertens.knaw.nl
@@ -552,12 +555,14 @@ dynamics.huygens.knaw.nl
 francodevrije.huygens.knaw.nl
 hattem.huygens.knaw.nl
 digitalforensics.huygens.knaw.nl
+hbsr.mvn.huygens.knaw.nl
 historiagotthorum.huygens.knaw.nl
 literariteit2.huygens.knaw.nl
 rembrandtdocuments.huygens.knaw.nl
 romanvanwalewein.huygens.knaw.nl
 vertrokken-nederlands.meertens.knaw.nl
 brieven-correspondenten-1900.huygens.knaw.nl
+bs.mvn.huygens.knaw.nl
 fanny.huygens.knaw.nl
 literaryquality.huygens.knaw.nl
 www.huc.knaw.nl
@@ -570,6 +575,7 @@ wp-08.dev.huc.knaw.nl
 brieven-prudens-van-duyse.huygens.knaw.nl
 brievenhermans.huygens.knaw.nl
 dwc.huygens.knaw.nl
+freckenhorst.mvn.huygens.knaw.nl
 huc.knaw.nl
 lancelotmss.huygens.knaw.nl
 lime.meertens.knaw.nl
@@ -578,6 +584,7 @@ beheerd-bureau.knaw.nl
 behi192.huygens.knaw.nl
 hi19.huygens.knaw.nl
 respons.meertens.knaw.nl
+vds.mvn.huygens.knaw.nl
 voornamen.meertens.knaw.nl
 beta.huc.knaw.nl
 dubbeltje.meertens.knaw.nl

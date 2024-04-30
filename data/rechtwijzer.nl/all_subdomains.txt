@@ -82,3 +82,7 @@ oauth.test.rechtwijzer.nl
 sts.test.rechtwijzer.nl
 services.test.rechtwijzer.nl
 developer.test.rechtwijzer.nl
+www2.test.rechtwijzer.nl
+webstats.test.rechtwijzer.nl
+chat.test.rechtwijzer.nl
+shop.test.rechtwijzer.nl

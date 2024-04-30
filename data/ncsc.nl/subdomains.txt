@@ -42,7 +42,6 @@ nspnws.ncsc.nl
 orchestrator.ncsc.nl
 privaat.octomon.ncsc.nl
 taranis.ncsc.nl
-tip-acceptatie.ncsc.nl
 tip.ncsc.nl
 uag.ncsc.nl
 wds.ncsc.nl

@@ -12,8 +12,8 @@
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/cocreatesa.nl/subdomains.txt)|1261|Alive subdomains|
-|[urls.txt](/data/cocreatesa.nl/urls.txt)|1250|Urls|
-|[all_subdomains.txt](/data/cocreatesa.nl/all_subdomains.txt)|1261|All found subdomains (history)|
+|[urls.txt](/data/cocreatesa.nl/urls.txt)|1261|Urls|
+|[all_subdomains.txt](/data/cocreatesa.nl/all_subdomains.txt)|1337|All found subdomains (history)|
 
 
 ## Statistics
@@ -1271,4 +1271,15 @@
 |[https://kloosterzande.cocreatesa.nl](https://kloosterzande.cocreatesa.nl)| | **F**|nginx/1.24.0| | | | | | | | :white_check_mark: | |Nginx:1.24.0|Hostnet: Uw dome...|
 |[https://krr.cocreatesa.nl](https://krr.cocreatesa.nl)| | **F**|nginx/1.24.0| | | | | | | | :white_check_mark: | |Nginx:1.24.0|Hostnet: Uw dome...|
 |[https://digitalinclusion.cocreatesa.nl](https://digitalinclusion.cocreatesa.nl)| | **F**|nginx/1.24.0| | | | | | | | :white_check_mark: | |Nginx:1.24.0|Hostnet: Uw dome...|
+|[https://web17073.cocreatesa.nl](https://web17073.cocreatesa.nl)| | **F**|nginx/1.24.0| | | | | | | | :white_check_mark: | |Nginx:1.24.0|Hostnet: Uw dome...|
+|[https://ova.cocreatesa.nl](https://ova.cocreatesa.nl)| | **F**|nginx/1.24.0| | | | | | | | :white_check_mark: | |Nginx:1.24.0|Hostnet: Uw dome...|
+|[https://winterschool.cocreatesa.nl](https://winterschool.cocreatesa.nl)| | **F**|nginx/1.24.0| | | | | | | | :white_check_mark: | |Nginx:1.24.0|Hostnet: Uw dome...|
+|[https://donar.cocreatesa.nl](https://donar.cocreatesa.nl)| | **F**|nginx/1.24.0| | | | | | | | :white_check_mark: | |Nginx:1.24.0|Hostnet: Uw dome...|
+|[https://ayurveda.cocreatesa.nl](https://ayurveda.cocreatesa.nl)| | **F**|nginx/1.24.0| | | | | | | | :white_check_mark: | |Nginx:1.24.0|Hostnet: Uw dome...|
+|[https://blogx.dev.cocreatesa.nl](https://blogx.dev.cocreatesa.nl)| | **F**|nginx/1.24.0| | | | | | | | :white_check_mark: | |Nginx:1.24.0|Hostnet: Uw dome...|
+|[https://mail.en.cocreatesa.nl](https://mail.en.cocreatesa.nl)| | **F**|nginx/1.24.0| | | | | | | | :white_check_mark: | |Nginx:1.24.0|Hostnet: Uw dome...|
+|[https://kledingverf.cocreatesa.nl](https://kledingverf.cocreatesa.nl)| | **F**|nginx/1.24.0| | | | | | | | :white_check_mark: | |Nginx:1.24.0|Hostnet: Uw dome...|
+|[https://dreamland.cocreatesa.nl](https://dreamland.cocreatesa.nl)| | **F**|nginx/1.24.0| | | | | | | | :white_check_mark: | |Nginx:1.24.0|Hostnet: Uw dome...|
+|[https://leutingewolde.cocreatesa.nl](https://leutingewolde.cocreatesa.nl)| | **F**|nginx/1.24.0| | | | | | | | :white_check_mark: | |Nginx:1.24.0|Hostnet: Uw dome...|
+|[https://simeiz.cocreatesa.nl](https://simeiz.cocreatesa.nl)| | **F**|nginx/1.24.0| | | | | | | | :white_check_mark: | |Nginx:1.24.0|Hostnet: Uw dome...|
 

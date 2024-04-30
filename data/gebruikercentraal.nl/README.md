@@ -13,7 +13,7 @@
 |------------|-------|------|
 |[subdomains.txt](/data/gebruikercentraal.nl/subdomains.txt)|50|Alive subdomains|
 |[urls.txt](/data/gebruikercentraal.nl/urls.txt)|50|Urls|
-|[all_subdomains.txt](/data/gebruikercentraal.nl/all_subdomains.txt)|75|All found subdomains (history)|
+|[all_subdomains.txt](/data/gebruikercentraal.nl/all_subdomains.txt)|76|All found subdomains (history)|
 
 
 ## Statistics

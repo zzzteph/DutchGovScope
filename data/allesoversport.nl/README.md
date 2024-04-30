@@ -4,15 +4,15 @@
 ## Summary data
 
 
- - **SSL Grade**:A+
+ - **SSL Grade**:C
  - **HTTP Security Grade**:E
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:1
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:4
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/allesoversport.nl/subdomains.txt)|307|Alive subdomains|
-|[urls.txt](/data/allesoversport.nl/urls.txt)|307|Urls|
+|[subdomains.txt](/data/allesoversport.nl/subdomains.txt)|314|Alive subdomains|
+|[urls.txt](/data/allesoversport.nl/urls.txt)|314|Urls|
 |[all_subdomains.txt](/data/allesoversport.nl/all_subdomains.txt)|316|All found subdomains (history)|
 
 
@@ -21,7 +21,14 @@
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
+|[https://auteurs.allesoversport.nl](https://auteurs.allesoversport.nl)| **A+**| **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS MySQL PHP Varnish:6.2 WordPress Yoast SEO:20.13|Home - Kenniscen...|
+|[https://mail.allesoversport.nl](https://mail.allesoversport.nl)| **F**| **E**|| | | | | | | | :white_check_mark: | |HSTS Varnish:6.2|Default site|
+|[https://repo.allesoversport.nl](https://repo.allesoversport.nl)| **A+**| **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS PHP|Redirecting to /...|
+|[https://sportakkoord.allesoversport.nl](https://sportakkoord.allesoversport.nl)| **A+**| **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Varnish|302 Found|
+|[https://w906.allesoversport.nl](https://w906.allesoversport.nl)| **F**| **E**|| | | | | | | | :white_check_mark: | |HSTS Varnish|Default site|
 |[https://www.allesoversport.nl](https://www.allesoversport.nl)| **A+**| **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Google Tag Manager HSTS MySQL PHP Varnish:6.2 WordPress|Allesoversport.n...|
+|[https://kcsport.nlwww.kenniscentrumsport.nlwww.allesoversport.nl](https://kcsport.nlwww.kenniscentrumsport.nlwww.allesoversport.nl)| **F**| **E**|| | | | | | | | :white_check_mark: | |HSTS Varnish|Default site|
+|[https://allesoversport.nl](https://allesoversport.nl)| **A+**| **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Varnish:6.2|301 Moved Perman...|
 |[https://afspraakjes.allesoversport.nl](https://afspraakjes.allesoversport.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS Varnish:6.2|Default site|
 |[https://facebok.allesoversport.nl](https://facebok.allesoversport.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS Varnish:6.2|Default site|
 |[https://cruisecontrol.allesoversport.nl](https://cruisecontrol.allesoversport.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS Varnish|Default site|

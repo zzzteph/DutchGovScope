@@ -13,7 +13,7 @@
 |------------|-------|------|
 |[subdomains.txt](/data/irealisatie.nl/subdomains.txt)|38|Alive subdomains|
 |[urls.txt](/data/irealisatie.nl/urls.txt)|34|Urls|
-|[all_subdomains.txt](/data/irealisatie.nl/all_subdomains.txt)|40|All found subdomains (history)|
+|[all_subdomains.txt](/data/irealisatie.nl/all_subdomains.txt)|41|All found subdomains (history)|
 
 
 ## Statistics

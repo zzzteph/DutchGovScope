@@ -1180,3 +1180,7 @@ mip-proxy-acc.rws.nl
 bemobile-trajectorien-fcd-acc.dmz.vm-04.azure.grid.rws.nl
 bemobile-aid-triggers-fcd-acc.dmz.vm-04.azure.grid.rws.nl
 werkt-dit-cert-wel.dmz.vm-04.azure.grid.rws.nl
+nginx-test.dmz.vm-04.azure.grid.rws.nl
+nginx-test2.dmz.vm-04.azure.grid.rws.nl
+nginx-test4.dmz.vm-04.azure.grid.rws.nl
+argocd.dmz.vm-04.azure.grid.rws.nl

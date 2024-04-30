@@ -11,7 +11,7 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/verbeterjehuis.nl/subdomains.txt)|8|Alive subdomains|
+|[subdomains.txt](/data/verbeterjehuis.nl/subdomains.txt)|9|Alive subdomains|
 |[urls.txt](/data/verbeterjehuis.nl/urls.txt)|8|Urls|
 |[all_subdomains.txt](/data/verbeterjehuis.nl/all_subdomains.txt)|14|All found subdomains (history)|
 

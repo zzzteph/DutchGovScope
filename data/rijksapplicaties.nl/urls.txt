@@ -60,7 +60,6 @@ https://rvb-rbb.staging.rijksapplicaties.nl
 https://via.staging.rijksapplicaties.nl
 https://aanwezigheid-ilab.staging.rijksapplicaties.nl
 https://rvb-relatiemanagement.staging.rijksapplicaties.nl
-https://cotero.rijksapplicaties.nl
 https://cedar.rijksapplicaties.nl
 https://rvb-cpt.staging.rijksapplicaties.nl
 https://rijksevents-ot.staging.rijksapplicaties.nl
@@ -166,7 +165,6 @@ https://bio.staging.rijksapplicaties.nl
 https://lup.staging.rijksapplicaties.nl
 https://mpx.staging.rijksapplicaties.nl
 https://dib-ienw.staging.rijksapplicaties.nl
-https://cotero.staging.rijksapplicaties.nl
 https://dino.staging.rijksapplicaties.nl
 https://dsa.staging.rijksapplicaties.nl
 https://switchbox.staging.rijksapplicaties.nl
@@ -229,3 +227,4 @@ https://bda.rijksapplicaties.nl
 https://rvb-dtc-webservice.staging.rijksapplicaties.nl
 https://app1.staging.rijksapplicaties.nl
 https://monitor.staging.rijksapplicaties.nl
+https://fbp.rijksapplicaties.nl

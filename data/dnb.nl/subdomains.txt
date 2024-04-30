@@ -167,3 +167,6 @@ tz-organisatiegegevens-dev.dnb.nl
 tz-organisatiegegevens.dnb.nl
 knowledge.sharepoint.dnb.nl
 tz-aanvragen-dev.dnb.nl
+tz-aanvragen-tst.dnb.nl
+federated-login-pp.dnb.nl
+federated-login.dnb.nl

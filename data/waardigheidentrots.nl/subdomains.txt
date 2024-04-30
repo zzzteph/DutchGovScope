@@ -6,3 +6,4 @@ archief.waardigheidentrots.nl
 registratie.waardigheidentrots.nl
 api.waardigheidentrots.nl
 cms.waardigheidentrots.nl
+m906.waardigheidentrots.nl

@@ -183,3 +183,7 @@ oracle-financials.tweedekamer.nl
 content.beta.tweedekamer.nl
 admin.beta.tweedekamer.nl
 dev.beta.tweedekamer.nl
+oracle-financials-ontw.tweedekamer.nl
+oracle-financials-acc.tweedekamer.nl
+fr.beta.tweedekamer.nl
+cognos.tweedekamer.nl

@@ -12,7 +12,7 @@
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/meldknop.nl/subdomains.txt)|107|Alive subdomains|
-|[urls.txt](/data/meldknop.nl/urls.txt)|105|Urls|
+|[urls.txt](/data/meldknop.nl/urls.txt)|107|Urls|
 |[all_subdomains.txt](/data/meldknop.nl/all_subdomains.txt)|107|All found subdomains (history)|
 
 
@@ -126,4 +126,6 @@
 |[https://www.weetwatzegamen.nlwww.digibewust.nlwww.sociaalmetmedia.nlwww.newkidsontheweb.nlwww.meldknop.nl](https://www.weetwatzegamen.nlwww.digibewust.nlwww.sociaalmetmedia.nlwww.newkidsontheweb.nlwww.meldknop.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx||
 |[https://www.leshulp.nlwww.mediaopvoeding.nlwww.weetwatzegamen.nlwww.digibewust.nlwww.sociaalmetmedia.nlwww.newkidsontheweb.nlwww.meldknop.nl](https://www.leshulp.nlwww.mediaopvoeding.nlwww.weetwatzegamen.nlwww.digibewust.nlwww.sociaalmetmedia.nlwww.newkidsontheweb.nlwww.meldknop.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx||
 |[https://www.digibewust.nlwww.sociaalmetmedia.nlwww.newkidsontheweb.nlwww.meldknop.nl](https://www.digibewust.nlwww.sociaalmetmedia.nlwww.newkidsontheweb.nlwww.meldknop.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx||
+|[https://www.helpwanted.nlwww.meldknop.nl](https://www.helpwanted.nlwww.meldknop.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx||
+|[https://www.newkidsontheweb.nlwww.meldknop.nl](https://www.newkidsontheweb.nlwww.meldknop.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx||
 

@@ -11,7 +11,7 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/waardigheidentrots.nl/subdomains.txt)|8|Alive subdomains|
+|[subdomains.txt](/data/waardigheidentrots.nl/subdomains.txt)|9|Alive subdomains|
 |[urls.txt](/data/waardigheidentrots.nl/urls.txt)|8|Urls|
 |[all_subdomains.txt](/data/waardigheidentrots.nl/all_subdomains.txt)|17|All found subdomains (history)|
 

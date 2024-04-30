@@ -60,7 +60,6 @@ rvb-rbb.staging.rijksapplicaties.nl
 via.staging.rijksapplicaties.nl
 aanwezigheid-ilab.staging.rijksapplicaties.nl
 rvb-relatiemanagement.staging.rijksapplicaties.nl
-cotero.rijksapplicaties.nl
 cedar.rijksapplicaties.nl
 rvb-cpt.staging.rijksapplicaties.nl
 rijksevents-ot.staging.rijksapplicaties.nl
@@ -166,7 +165,6 @@ bio.staging.rijksapplicaties.nl
 lup.staging.rijksapplicaties.nl
 mpx.staging.rijksapplicaties.nl
 dib-ienw.staging.rijksapplicaties.nl
-cotero.staging.rijksapplicaties.nl
 dino.staging.rijksapplicaties.nl
 dsa.staging.rijksapplicaties.nl
 switchbox.staging.rijksapplicaties.nl

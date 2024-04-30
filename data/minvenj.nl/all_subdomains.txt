@@ -524,3 +524,4 @@ md.minvenj.nl
 md1.minvenj.nl
 mdp.minvenj.nl
 sftp.minvenj.nl
+ccmind.diensten.minvenj.nl

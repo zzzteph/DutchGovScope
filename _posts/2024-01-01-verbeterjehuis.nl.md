@@ -2,7 +2,7 @@
 layout: default
 title: "verbeterjehuis.nl"
 permalink: "/dutchgov/verbeterjehuis.nl.html"
-subdomains_count: 8
+subdomains_count: 9
 all_subdomains_count: 14
 urls_count: 8
 ssl_rank: A+
@@ -27,7 +27,7 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/verbeterjehuis.nl/subdomains.txt)|8|Alive subdomains|
+|[subdomains.txt](/DutchGovScope/data/verbeterjehuis.nl/subdomains.txt)|9|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/verbeterjehuis.nl/urls.txt)|8|Urls|
 |[all_subdomains.txt](/DutchGovScope/data/verbeterjehuis.nl/all_subdomains.txt)|14|All found subdomains (history)|
 

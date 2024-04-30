@@ -61,3 +61,6 @@ origin.test.rechtwijzer.nl
 apps.test.rechtwijzer.nl
 secure.test.rechtwijzer.nl
 oauth.test.rechtwijzer.nl
+sts.test.rechtwijzer.nl
+services.test.rechtwijzer.nl
+developer.test.rechtwijzer.nl

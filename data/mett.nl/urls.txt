@@ -1792,8 +1792,14 @@ https://alpha0.mett.nl
 https://brj.mett.nl
 https://echostar.mett.nl
 https://aws-www.mett.nl
-http://dou.mett.nl
-http://aden.mett.nl
+https://gng.mett.nl
+https://discover.mett.nl
+https://oswald.mett.nl
+https://1024.mett.nl
+https://geol.mett.nl
+https://tt1.mett.nl
+https://dou.mett.nl
+https://aden.mett.nl
 https://booty.mett.nl
 https://payadmin.mett.nl
 https://tta.mett.nl

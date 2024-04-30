@@ -6,13 +6,13 @@
 
  - **SSL Grade**:A+
  - **HTTP Security Grade**:A
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:93
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:94
 
 
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/sitearchief.nl/subdomains.txt)|129|Alive subdomains|
-|[urls.txt](/data/sitearchief.nl/urls.txt)|127|Urls|
+|[urls.txt](/data/sitearchief.nl/urls.txt)|129|Urls|
 |[all_subdomains.txt](/data/sitearchief.nl/all_subdomains.txt)|129|All found subdomains (history)|
 
 
@@ -148,4 +148,6 @@
 |[https://sportraad.sitearchief.nl](https://sportraad.sitearchief.nl)| | **A**|nginx|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx|Sitearchief - Ne...|
 |[https://abx03.sitearchief.nl](https://abx03.sitearchief.nl)| | **A**|nginx|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx|Archiefweb|
 |[https://niwo.sitearchief.nl](https://niwo.sitearchief.nl)| | **A**|nginx|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx|Sitearchief - NI...|
+|[https://archief60.sitearchief.nl](https://archief60.sitearchief.nl)| | **B**|nginx/1.25.5| |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | |HSTS Nginx:1.25.5|HTTP Status 404...|
+|[https://abx05.sitearchief.nl](https://abx05.sitearchief.nl)| | **A**|nginx|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx PHP:8.2.18|Archiefweb|
 

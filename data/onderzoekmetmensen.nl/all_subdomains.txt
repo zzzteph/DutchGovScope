@@ -5,3 +5,5 @@ acc.onderzoekmetmensen.nl
 portaal-acc.onderzoekmetmensen.nl
 portaal-tst.onderzoekmetmensen.nl
 docs.onderzoekmetmensen.nl
+pmon-acc.onderzoekmetmensen.nl
+pmon-tst.onderzoekmetmensen.nl
