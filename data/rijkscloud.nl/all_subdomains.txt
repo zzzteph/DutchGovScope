@@ -739,3 +739,5 @@ afwijkend-examineren.dfront.rijkscloud.nl
 shinyproxy.bdds.rijkscloud.nl
 zakelijk.dfront.rijkscloud.nl
 kennisbank.dfront.rijkscloud.nl
+elkprx2.ec.rijkscloud.nl
+registry.bdds.rijkscloud.nl

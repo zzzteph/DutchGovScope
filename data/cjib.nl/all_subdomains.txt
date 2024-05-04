@@ -45,3 +45,4 @@ signing.dloket.cjib.nl
 www.analytics.cjib.nl
 jaarbericht2008.cjib.nl
 cjib-www.cjib.nl
+vpn.cjib.nl

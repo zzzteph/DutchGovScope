@@ -12,7 +12,7 @@
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/minienm.nl/subdomains.txt)|69|Alive subdomains|
-|[urls.txt](/data/minienm.nl/urls.txt)|20|Urls|
+|[urls.txt](/data/minienm.nl/urls.txt)|17|Urls|
 |[all_subdomains.txt](/data/minienm.nl/all_subdomains.txt)|135|All found subdomains (history)|
 
 
@@ -24,7 +24,6 @@
 |[https://acc.service.mpn.minienm.nl](https://acc.service.mpn.minienm.nl)| **B**| **F**|nginx/1.25.4| | | | | | | | :white_check_mark: | |Nginx:1.25.4|MPN ACCEPTATIE i...|
 |[https://bct.csp.minienm.nl](https://bct.csp.minienm.nl)| **A+**| **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|301 Moved Perman...|
 |[https://csp.minienm.nl](https://csp.minienm.nl)| **A+**| **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|301 Moved Perman...|
-|[https://epublicatie.minienm.nl](https://epublicatie.minienm.nl)| **F**| **F**|Apache/2| | | | | | | | :white_check_mark: | |Apache HTTP Server:2|403 Forbidden|
 |[https://mpn.minienm.nl](https://mpn.minienm.nl)| **B**| **F**|nginx/1.25.4| | | | | | | | :white_check_mark: | |Nginx:1.25.4|Mobiliteitspanel...|
 |[https://mpn-acc.minienm.nl](https://mpn-acc.minienm.nl)| **B**| **F**|nginx/1.25.4| | | | | | | | :white_check_mark: | |Nginx:1.25.4|MPN ACCEPTATIE i...|
 |[https://mpn-pre.minienm.nl](https://mpn-pre.minienm.nl)| **B**| **F**|nginx/1.25.4| | | | | | | | :white_check_mark: | |Nginx:1.25.4|MPN PRE-Producti...|
@@ -37,8 +36,6 @@
 |[https://www.sociaalfonds.minienm.nl](https://www.sociaalfonds.minienm.nl)| **F**| **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
 |[https://www.startpagina.sap.minienm.nl](https://www.startpagina.sap.minienm.nl)| **F**| **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
 |[https://minienm.nl](https://minienm.nl)| **A+**| **A**|Microsoft-IIS/10.0| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS IIS:10.0 Windows Server|Document Moved|
-|[https://rijksoverheid.minienm.nl](https://rijksoverheid.minienm.nl)| **F**| **F**|Apache/2| | | | | | | | :white_check_mark: | |Apache HTTP Server:2|403 Forbidden|
-|[https://web.minienm.nl](https://web.minienm.nl)| | **F**|Apache/2| | | | | | | | :white_check_mark: | |Apache HTTP Server:2|403 Forbidden|
 |[https://dcc.minienm.nl](https://dcc.minienm.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
 |[http://localhost.minienm.nl](http://localhost.minienm.nl)| | **F**|nginx| | | :warning:| | | | | :white_check_mark: | |Nginx|(404 Not Found)|
 

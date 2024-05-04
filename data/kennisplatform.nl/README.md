@@ -5,14 +5,14 @@
 
 
  - **SSL Grade**:A+
- - **HTTP Security Grade**:E
+ - **HTTP Security Grade**:D
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:0
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/kennisplatform.nl/subdomains.txt)|11|Alive subdomains|
-|[urls.txt](/data/kennisplatform.nl/urls.txt)|8|Urls|
+|[subdomains.txt](/data/kennisplatform.nl/subdomains.txt)|12|Alive subdomains|
+|[urls.txt](/data/kennisplatform.nl/urls.txt)|5|Urls|
 |[all_subdomains.txt](/data/kennisplatform.nl/all_subdomains.txt)|12|All found subdomains (history)|
 
 
@@ -25,8 +25,5 @@
 |[https://kennisplatform.nl](https://kennisplatform.nl)| **A+**| **B**|Apache/2| |:white_check_mark: | :warning:| | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server:2 CodeIgniter HSTS PHP||
 |[http://autodiscover.kennisplatform.nl](http://autodiscover.kennisplatform.nl)| | **B**|Microsoft-IIS/10.0|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server||
 |[http://localhost.kennisplatform.nl](http://localhost.kennisplatform.nl)| | **F**|nginx| | | :warning:| | | | | :white_check_mark: | |Nginx|(404 Not Found)|
-|[https://media01.kennisplatform.nl](https://media01.kennisplatform.nl)| | **F**|imunify360-webshield/1.21| | | | | | | | :white_check_mark: | |Amazon CloudFront Amazon Web Services HSTS Imunify360:1.21||
-|[https://media02.kennisplatform.nl](https://media02.kennisplatform.nl)| | **F**|imunify360-webshield/1.21| | | | | | | | :white_check_mark: | |Amazon CloudFront Amazon Web Services HSTS Imunify360:1.21||
-|[https://media03.kennisplatform.nl](https://media03.kennisplatform.nl)| | **F**|imunify360-webshield/1.21| | | | | | | | :white_check_mark: | |Amazon CloudFront Amazon Web Services HSTS Imunify360:1.21||
 |[https://msoid.kennisplatform.nl](https://msoid.kennisplatform.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Object moved|
 

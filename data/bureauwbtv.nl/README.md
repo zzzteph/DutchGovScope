@@ -5,14 +5,14 @@
 
 
  - **SSL Grade**:
- - **HTTP Security Grade**:B
+ - **HTTP Security Grade**:C
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:2
 
 
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/bureauwbtv.nl/subdomains.txt)|5|Alive subdomains|
-|[urls.txt](/data/bureauwbtv.nl/urls.txt)|4|Urls|
+|[urls.txt](/data/bureauwbtv.nl/urls.txt)|5|Urls|
 |[all_subdomains.txt](/data/bureauwbtv.nl/all_subdomains.txt)|6|All found subdomains (history)|
 
 
@@ -25,4 +25,5 @@
 |[https://bureauwbtv.nl](https://bureauwbtv.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Object moved|
 |[https://www.bureauwbtv.nl](https://www.bureauwbtv.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Home - Raad voor...|
 |[http://uptime.bureauwbtv.nl](http://uptime.bureauwbtv.nl)| | **F**|Caddy| | | | | | | | :white_check_mark: | |Caddy||
+|[http://localhost.bureauwbtv.nl](http://localhost.bureauwbtv.nl)| | **F**|nginx| | | :warning:| | | | | :white_check_mark: | |Nginx|(404 Not Found)|
 

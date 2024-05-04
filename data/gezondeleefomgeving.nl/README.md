@@ -5,14 +5,14 @@
 
 
  - **SSL Grade**:A-
- - **HTTP Security Grade**:B
+ - **HTTP Security Grade**:D
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:2
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/gezondeleefomgeving.nl/subdomains.txt)|5|Alive subdomains|
-|[urls.txt](/data/gezondeleefomgeving.nl/urls.txt)|3|Urls|
+|[subdomains.txt](/data/gezondeleefomgeving.nl/subdomains.txt)|6|Alive subdomains|
+|[urls.txt](/data/gezondeleefomgeving.nl/urls.txt)|4|Urls|
 |[all_subdomains.txt](/data/gezondeleefomgeving.nl/all_subdomains.txt)|7|All found subdomains (history)|
 
 
@@ -24,4 +24,5 @@
 |[https://www.gezondeleefomgeving.nl](https://www.gezondeleefomgeving.nl)| **A+**| **A**|Apache| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server Drupal HSTS PHP|Home | Gezonde L...|
 |[https://gezondeleefomgeving.nl](https://gezondeleefomgeving.nl)| **A+**| **A**|Apache| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS|301 Moved Perman...|
 |[http://bibliotheek.gezondeleefomgeving.nl](http://bibliotheek.gezondeleefomgeving.nl)| **B**| **E**|| | | | | | | | :white_check_mark: | |||
+|[http://localhost.gezondeleefomgeving.nl](http://localhost.gezondeleefomgeving.nl)| | **F**|nginx| | | :warning:| | | | | :white_check_mark: | |Nginx|(404 Not Found)|
 

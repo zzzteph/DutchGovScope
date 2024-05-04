@@ -6,12 +6,12 @@
 
  - **SSL Grade**:B
  - **HTTP Security Grade**:C
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:49
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:50
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/ndw.nu/subdomains.txt)|95|Alive subdomains|
+|[subdomains.txt](/data/ndw.nu/subdomains.txt)|96|Alive subdomains|
 |[urls.txt](/data/ndw.nu/urls.txt)|85|Urls|
 |[all_subdomains.txt](/data/ndw.nu/all_subdomains.txt)|121|All found subdomains (history)|
 
@@ -31,11 +31,11 @@
 |[https://dataquality.ndw.nu](https://dataquality.ndw.nu)| **B**| **A**|gunicorn|:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Python gunicorn|Redirecting...|
 |[https://dexter.ndw.nu](https://dexter.ndw.nu)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|NDW Dexter|
 |[https://diego.ndw.nu](https://diego.ndw.nu)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|Diego - Digitali...|
-|[https://docs.ndw.nu](https://docs.ndw.nu)| **A**| **A**|| |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | |HSTS MkDocs:1.5.3 Python|NDW Docs|
+|[https://docs.ndw.nu](https://docs.ndw.nu)| **A**| **A**|| |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | |HSTS MkDocs:1.6.0 Python|NDW Docs|
 |[https://drs.ndw.nu](https://drs.ndw.nu)| **F**| **F**|Microsoft-Azure-Application-Gateway/v2| | | | | | | | :white_check_mark: | ||404 Not Found|
 |[https://english.ndw.nu](https://english.ndw.nu)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Home | National...|
 |[https://faq.ndw.nu](https://faq.ndw.nu)| **B**| **B**|Microsoft-Azure-Application-Gateway/v2| |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | ||307 Temporary Re...|
-|[https://fbmonitor.ndw.nu](https://fbmonitor.ndw.nu)| **B**| **A**|Apache/2.4.57 (Debian)| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server:2.4.57 Debian HSTS|NDW FB Dashboard|
+|[https://fbmonitor.ndw.nu](https://fbmonitor.ndw.nu)| **B**| **A**|Apache/2.4.59 (Debian)| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server:2.4.59 Debian HSTS|NDW FB Dashboard|
 |[https://feeds.ndw.nu](https://feeds.ndw.nu)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://feeds.english.ndw.nu](https://feeds.english.ndw.nu)| **A+**| **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://iam.ndw.nu](https://iam.ndw.nu)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Welcome to Keycl...|
@@ -51,9 +51,9 @@
 |[https://mogin.ndw.nu](https://mogin.ndw.nu)| **F**| **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS PHP|Mogin|
 |[https://ncis.ndw.nu](https://ncis.ndw.nu)| **B**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS Nginx|NCIS Web Portaal|
 |[https://ndss-idea.ndw.nu](https://ndss-idea.ndw.nu)| | **E**|| | | | | | | | :white_check_mark: | |Flask:1.0.1 HSTS Python:3.10.13||
-|[https://ndwviewer.ndw.nu](https://ndwviewer.ndw.nu)| **B**| **A**|Apache/2.4.57 (Debian)| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server:2.4.57 Debian HSTS|NDW Viewer|
+|[https://ndwviewer.ndw.nu](https://ndwviewer.ndw.nu)| **B**| **A**|Apache/2.4.59 (Debian)| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server:2.4.59 Debian HSTS|NDW Viewer|
 |[https://nls.ndw.nu](https://nls.ndw.nu)| | **F**|nginx/1.24.0| | | | | | | | :white_check_mark: | |Nginx:1.24.0|NlsFrontend|
-|[https://nt.ndw.nu](https://nt.ndw.nu)| **B**| **E**|| | | | | | | | :white_check_mark: | |AngularJS||
+|[https://nt.ndw.nu](https://nt.ndw.nu)| **B**| **C**|Microsoft-Azure-Application-Gateway/v2| | | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |AngularJS|301 Moved Perman...|
 |[https://ntm.ndw.nu](https://ntm.ndw.nu)| **A**| **C**|nginx| | | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Nginx|Nationaal Toegan...|
 |[https://open-data.ndw.nu](https://open-data.ndw.nu)| **A+**| **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://opendata.ndw.nu](https://opendata.ndw.nu)| **A**| **F**|Apache/2.4.58 (Unix) OpenSSL/3.1.4| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.58 Bootstrap OpenSSL:3.1.4 UNIX|NDW open data|
@@ -102,7 +102,7 @@
 |[https://shared-services.staging.ndw.nu](https://shared-services.staging.ndw.nu)| | **F**|Microsoft-Azure-Application-Gateway/v2| | | | | | | | :white_check_mark: | ||404 Not Found|
 |[https://maps.staging.ndw.nu](https://maps.staging.ndw.nu)| | **F**|Apache/2.4.59 (Unix)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.59 Bootstrap UNIX|NDW Maps|
 |[https://nls.staging.ndw.nu](https://nls.staging.ndw.nu)| | **F**|nginx/1.24.0| | | | | | | | :white_check_mark: | |Nginx:1.24.0|NlsFrontend|
-|[https://design.staging.ndw.nu](https://design.staging.ndw.nu)| | **A**|| |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | |HSTS MkDocs:1.5.3 Python|NDW Docs|
+|[https://design.staging.ndw.nu](https://design.staging.ndw.nu)| | **A**|| |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | |HSTS MkDocs:1.6.0 Python|NDW Docs|
 |[https://security.ndw.nu](https://security.ndw.nu)| | **F**|Microsoft-Azure-Application-Gateway/v2| | | | | | | | :white_check_mark: | ||404 Not Found|
 |[https://security.staging.ndw.nu](https://security.staging.ndw.nu)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://design.ndw.nu](https://design.ndw.nu)| | **F**|Microsoft-Azure-Application-Gateway/v2| | | | | | | | :white_check_mark: | ||404 Not Found|

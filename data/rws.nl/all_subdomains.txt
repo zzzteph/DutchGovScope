@@ -1184,3 +1184,4 @@ nginx-test.dmz.vm-04.azure.grid.rws.nl
 nginx-test2.dmz.vm-04.azure.grid.rws.nl
 nginx-test4.dmz.vm-04.azure.grid.rws.nl
 argocd.dmz.vm-04.azure.grid.rws.nl
+nginx-test3.dmz.vm-04.azure.grid.rws.nl

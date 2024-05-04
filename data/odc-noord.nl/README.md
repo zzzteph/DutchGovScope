@@ -4,7 +4,7 @@
 ## Summary data
 
 
- - **SSL Grade**:C
+ - **SSL Grade**:B-
  - **HTTP Security Grade**:D
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:8
 
@@ -12,8 +12,8 @@
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/odc-noord.nl/subdomains.txt)|144|Alive subdomains|
-|[urls.txt](/data/odc-noord.nl/urls.txt)|97|Urls|
-|[all_subdomains.txt](/data/odc-noord.nl/all_subdomains.txt)|250|All found subdomains (history)|
+|[urls.txt](/data/odc-noord.nl/urls.txt)|89|Urls|
+|[all_subdomains.txt](/data/odc-noord.nl/all_subdomains.txt)|260|All found subdomains (history)|
 
 
 ## Statistics
@@ -75,10 +75,6 @@
 |[https://odcn-prd.confluence.odc-noord.nl](https://odcn-prd.confluence.odc-noord.nl)| **B**| **E**|| | | | | | | | :white_check_mark: | ||ODC-Noord | (403...|
 |[https://odcn-prd.jira.odc-noord.nl](https://odcn-prd.jira.odc-noord.nl)| **B**| **E**|| | | | | | | | :white_check_mark: | ||ODC-Noord | (403...|
 |[https://odcn-prd.topdesk.odc-noord.nl](https://odcn-prd.topdesk.odc-noord.nl)| **B**| **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|Login|
-|[https://om-acc.topdesk.odc-noord.nl](https://om-acc.topdesk.odc-noord.nl)| **F**| **E**|| | | | | | | | :white_check_mark: | |||
-|[https://om-ont.topdesk.odc-noord.nl](https://om-ont.topdesk.odc-noord.nl)| **F**| **E**|| | | | | | | | :white_check_mark: | |||
-|[https://om.topdesk.odc-noord.nl](https://om.topdesk.odc-noord.nl)| **F**| **E**|| | | | | | | | :white_check_mark: | |||
-|[https://omdemo.topdesk.odc-noord.nl](https://omdemo.topdesk.odc-noord.nl)| **F**| **E**|| | | | | | | | :white_check_mark: | |||
 |[https://paas-portal.odc-noord.nl](https://paas-portal.odc-noord.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |AngularJS HSTS||
 |[https://pgb-acc.confluence.odc-noord.nl](https://pgb-acc.confluence.odc-noord.nl)| **B**| **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Atlassian Confluence HSTS Java||
 |[https://pgb-acc.topdesk.odc-noord.nl](https://pgb-acc.topdesk.odc-noord.nl)| **B**| **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|Login|
@@ -92,13 +88,9 @@
 |[https://rvig-acc.topdesk.odc-noord.nl](https://rvig-acc.topdesk.odc-noord.nl)| **B**| **E**|| | | | | | | | :white_check_mark: | ||ODC-Noord | (403...|
 |[https://rvig-prd.jira.odc-noord.nl](https://rvig-prd.jira.odc-noord.nl)| **B**| **E**|| | | | | | | | :white_check_mark: | ||ODC-Noord | (403...|
 |[https://rvig-prd.topdesk.odc-noord.nl](https://rvig-prd.topdesk.odc-noord.nl)| **B**| **E**|| | | | | | | | :white_check_mark: | ||ODC-Noord | (403...|
-|[https://rvigg-acc.topdesk.odc-noord.nl](https://rvigg-acc.topdesk.odc-noord.nl)| **F**| **E**|| | | | | | | | :white_check_mark: | |||
 |[https://socjenv-acc.topdesk.odc-noord.nl](https://socjenv-acc.topdesk.odc-noord.nl)| **B**| **E**|| | | | | | | | :white_check_mark: | ||ODC-Noord | (403...|
 |[https://socjenv-prd.topdesk.odc-noord.nl](https://socjenv-prd.topdesk.odc-noord.nl)| **B**| **E**|| | | | | | | | :white_check_mark: | ||ODC-Noord | (403...|
-|[https://sp-acc.topdesk.odc-noord.nl](https://sp-acc.topdesk.odc-noord.nl)| **F**| **E**|| | | | | | | | :white_check_mark: | |||
-|[https://sp-prd.topdesk.odc-noord.nl](https://sp-prd.topdesk.odc-noord.nl)| **F**| **E**|| | | | | | | | :white_check_mark: | |||
 |[https://terraform.odc-noord.nl](https://terraform.odc-noord.nl)| | **E**|| | | | | | | | :white_check_mark: | ||ODC-Noord | (403...|
-|[https://topdesk.odc-noord.nl](https://topdesk.odc-noord.nl)| **F**| **E**|| | | | | | | | :white_check_mark: | |||
 |[https://vpn.a4.odc-noord.nl](https://vpn.a4.odc-noord.nl)| **A**| **E**|OpenVPN-AS| | | | | | :white_check_mark: | | :white_check_mark: | |||
 |[https://vpn.bzkdgvbrnpr.odc-noord.nl](https://vpn.bzkdgvbrnpr.odc-noord.nl)| | **F**|TwistedWeb/20.3.0dev0| | | | | | | | :white_check_mark: | |TwistedWeb:20.3.0||
 |[https://vpn.bzknpr.odc-noord.nl](https://vpn.bzknpr.odc-noord.nl)| | **E**|OpenVPN-AS| | | | | | :white_check_mark: | | :white_check_mark: | |||

@@ -2,7 +2,7 @@
 layout: default
 title: "rechtwijzer.nl"
 permalink: "/dutchgov/rechtwijzer.nl.html"
-subdomains_count: 66
+subdomains_count: 83
 all_subdomains_count: 88
 urls_count: 4
 ssl_rank: A
@@ -27,7 +27,7 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/rechtwijzer.nl/subdomains.txt)|66|Alive subdomains|
+|[subdomains.txt](/DutchGovScope/data/rechtwijzer.nl/subdomains.txt)|83|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/rechtwijzer.nl/urls.txt)|4|Urls|
 |[all_subdomains.txt](/DutchGovScope/data/rechtwijzer.nl/all_subdomains.txt)|88|All found subdomains (history)|
 

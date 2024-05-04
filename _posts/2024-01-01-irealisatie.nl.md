@@ -2,8 +2,8 @@
 layout: default
 title: "irealisatie.nl"
 permalink: "/dutchgov/irealisatie.nl.html"
-subdomains_count: 38
-all_subdomains_count: 41
+subdomains_count: 39
+all_subdomains_count: 42
 urls_count: 34
 ssl_rank: 
 http_rank: B
@@ -27,9 +27,9 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/irealisatie.nl/subdomains.txt)|38|Alive subdomains|
+|[subdomains.txt](/DutchGovScope/data/irealisatie.nl/subdomains.txt)|39|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/irealisatie.nl/urls.txt)|34|Urls|
-|[all_subdomains.txt](/DutchGovScope/data/irealisatie.nl/all_subdomains.txt)|41|All found subdomains (history)|
+|[all_subdomains.txt](/DutchGovScope/data/irealisatie.nl/all_subdomains.txt)|42|All found subdomains (history)|
 
 
 ## Statistics
@@ -48,7 +48,7 @@ tags: dutchgov
 |[https://www.irealisatie.nl](https://www.irealisatie.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS|iRealisatie  - W...|
 |[https://nextcloud.irealisatie.nl](https://nextcloud.irealisatie.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nextcloud PHP||
 |[https://irealisatie.nl](https://irealisatie.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS|iRealisatie  - W...|
-|[http://collabora.irealisatie.nl](http://collabora.irealisatie.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
+|[https://collabora.irealisatie.nl](https://collabora.irealisatie.nl)| | **F**|COOLWSD HTTP Server 23.05.10.1| | | | | | | | :white_check_mark: | |||
 |[http://acc.irealisatie.nl](http://acc.irealisatie.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[http://gitea.irealisatie.nl](http://gitea.irealisatie.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[http://taiga.irealisatie.nl](http://taiga.irealisatie.nl)| | **E**|| | | | | | | | :white_check_mark: | |||

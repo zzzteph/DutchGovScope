@@ -45,7 +45,7 @@ tags: dutchgov
 |[https://vacaturezoekservice.mobiliteitsbank.nl](https://vacaturezoekservice.mobiliteitsbank.nl)| **B**| **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
 |[https://vacaturezoekservice-acceptatie.mobiliteitsbank.nl](https://vacaturezoekservice-acceptatie.mobiliteitsbank.nl)| **F**| **E**|| | | | | | | | :white_check_mark: | |||
 |[http://vacaturezoekservice-test.mobiliteitsbank.nl](http://vacaturezoekservice-test.mobiliteitsbank.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
-|[https://www.mobiliteitsbank.nl](https://www.mobiliteitsbank.nl)| **A+**| **B**|cloudflare|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Cloudflare HSTS Java||
+|[https://www.mobiliteitsbank.nl](https://www.mobiliteitsbank.nl)| **A+**| **B**|cloudflare|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Cloudflare HSTS||
 |[https://mobiliteitsbank.nl](https://mobiliteitsbank.nl)| **A+**| **B**|cloudflare|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Cloudflare HSTS||
 |[https://sandbox.mobiliteitsbank.nl](https://sandbox.mobiliteitsbank.nl)| | **D**|cloudflare|:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | |Basic Cloudflare HSTS|Authentication R...|
 |[https://acceptatie.mobiliteitsbank.nl](https://acceptatie.mobiliteitsbank.nl)| | **E**|| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS||

@@ -2,6 +2,7 @@ www.verbeterjehuis.nl
 energyportpeelland.verbeterjehuis.nl
 verbeterjehuis.nl
 groenesubsidiewijzer.verbeterjehuis.nl
+test-www.verbeterjehuis.nl
 cms.verbeterjehuis.nl
 content.verbeterjehuis.nl
 localhost.verbeterjehuis.nl

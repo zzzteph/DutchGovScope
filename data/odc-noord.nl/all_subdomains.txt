@@ -248,3 +248,13 @@ login-gn3.odc-noord.nl
 ns01.jira.odc-noord.nl
 ns.jira.odc-noord.nl
 ns02.jira.odc-noord.nl
+vault-01.gn2.odc-noord.nl
+vault.gn2.odc-noord.nl
+vault.odc-noord.nl
+vault-02.gn2.odc-noord.nl
+vault-03.gn2.odc-noord.nl
+vault-test-01.gn2.odc-noord.nl
+vault-test.gn2.odc-noord.nl
+vault-test.odc-noord.nl
+vault-test-02.gn2.odc-noord.nl
+vault-test-03.gn2.odc-noord.nl

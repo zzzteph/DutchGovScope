@@ -22,11 +22,10 @@ https://datadrop.datafabriek.ienw.rijkscloud.nl
 https://datadrop.dev-datafabriek.ienw.rijkscloud.nl
 https://datatool.datafabriek.ienw.rijkscloud.nl
 https://datatool.dev-datafabriek.ienw.rijkscloud.nl
-http://dbe-t.rvb.rijkscloud.nl
+https://dbe-t.rvb.rijkscloud.nl
 https://dev.fib.ienw.rijkscloud.nl
 https://developer.ix.rijkscloud.nl
 https://docs.performance.ix.rijkscloud.nl
-https://dvrvb-gui-acc.rvb.rijkscloud.nl
 https://factuur.dbe-t.rvb.rijkscloud.nl
 https://git-dev.rijkscloud.nl
 https://git.dfront.rijkscloud.nl
@@ -63,7 +62,6 @@ https://jupyter.ivho.rijkscloud.nl
 https://jupyter.kim.rijkscloud.nl
 https://jupyter.ritp.rijkscloud.nl
 https://jupyter.wntbzk.rijkscloud.nl
-https://keycloak-acc.rvb.rijkscloud.nl
 https://keycloak.analyse.ilt.rijkscloud.nl
 https://kibana.dev.fib.ienw.rijkscloud.nl
 https://mail.rijkscloud.nl

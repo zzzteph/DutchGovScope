@@ -89,3 +89,4 @@ webmessenger.ssonet.nl
 nwu-rksdns1.ssonet.nl
 nwu-rksdns2.ssonet.nl
 servers.ssonet.nl
+test3.ssonet.nl

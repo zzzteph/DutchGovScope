@@ -36,3 +36,4 @@ app-api.test.mgo.irealisatie.nl
 balie.dpr.irealisatie.nl
 start.test.dusi.irealisatie.nl
 start.acc.dusi.irealisatie.nl
+collabora.acc.irealisatie.nl

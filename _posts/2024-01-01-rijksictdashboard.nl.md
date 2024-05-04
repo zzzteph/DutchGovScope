@@ -6,8 +6,8 @@ subdomains_count: 7
 all_subdomains_count: 7
 urls_count: 7
 ssl_rank: A+
-http_rank: B
-security_txt: 3
+http_rank: A
+security_txt: 4
 url_link: /data/rijksictdashboard.nl/urls.txt
 all_subdomains_link: /data/rijksictdashboard.nl/all_subdomains.txt
 subdomains_link: /data/rijksictdashboard.nl/subdomains.txt
@@ -21,8 +21,8 @@ tags: dutchgov
 
 
  - **SSL Grade**:A+
- - **HTTP Security Grade**:B
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:3
+ - **HTTP Security Grade**:A
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:4
 
 
 | File       | Count | Info |
@@ -42,6 +42,6 @@ tags: dutchgov
 |[https://acc.rijksictdashboard.nl](https://acc.rijksictdashboard.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS|Rijks ICT-dashbo...|
 |[https://beheer.rijksictdashboard.nl](https://beheer.rijksictdashboard.nl)| **A+**| **C**||:warning: |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS||
 |[https://rijksictdashboard.nl](https://rijksictdashboard.nl)| **A+**| **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS|Rijks ICT-dashbo...|
-|[https://test.beheer.rijksictdashboard.nl](https://test.beheer.rijksictdashboard.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||
-|[https://test.rijksictdashboard.nl](https://test.rijksictdashboard.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS|Rijks ICT-dashbo...|
+|[https://test.beheer.rijksictdashboard.nl](https://test.beheer.rijksictdashboard.nl)| | **C**||:warning: |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS||
+|[https://test.rijksictdashboard.nl](https://test.rijksictdashboard.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS|Rijks ICT-dashbo...|
 

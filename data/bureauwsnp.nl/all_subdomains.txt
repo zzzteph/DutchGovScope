@@ -4,3 +4,7 @@ ws-acc.bureauwsnp.nl
 mail.bureauwsnp.nl
 www.mail.bureauwsnp.nl
 ws.bureauwsnp.nl
+pop3.bureauwsnp.nl
+webmail.bureauwsnp.nl
+ftp.bureauwsnp.nl
+lists.bureauwsnp.nl

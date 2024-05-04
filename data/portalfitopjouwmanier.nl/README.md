@@ -11,7 +11,7 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/portalfitopjouwmanier.nl/subdomains.txt)|3|Alive subdomains|
+|[subdomains.txt](/data/portalfitopjouwmanier.nl/subdomains.txt)|0|Alive subdomains|
 |[urls.txt](/data/portalfitopjouwmanier.nl/urls.txt)|0|Urls|
 |[all_subdomains.txt](/data/portalfitopjouwmanier.nl/all_subdomains.txt)|7|All found subdomains (history)|
 

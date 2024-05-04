@@ -2,7 +2,4 @@ https://www.kennisplatform.nl
 https://kennisplatform.nl
 http://autodiscover.kennisplatform.nl
 http://localhost.kennisplatform.nl
-https://media01.kennisplatform.nl
-https://media02.kennisplatform.nl
-https://media03.kennisplatform.nl
 https://msoid.kennisplatform.nl

@@ -37,9 +37,9 @@ tags: dutchgov
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://staging.waarzitwatin.nl](https://staging.waarzitwatin.nl)| **A**| **F**|Apache| | | :warning:| | | | | :white_check_mark: | |Amazon CloudFront Amazon Web Services Apache HTTP Server|Redirecting to h...|
-|[https://www.waarzitwatin.nl](https://www.waarzitwatin.nl)| | **F**|cloudflare| | | | | | | | :white_check_mark: | |Amazon CloudFront Amazon Web Services Cloudflare HSTS HTTP/3|301 Moved Perman...|
-|[https://waarzitwatin.nl](https://waarzitwatin.nl)| **A+**| **F**|Apache| | | | | | | | :white_check_mark: | |Amazon CloudFront Amazon Web Services Apache HTTP Server HSTS Laravel October CMS|Waarzitwatin.nl...|
+|[https://staging.waarzitwatin.nl](https://staging.waarzitwatin.nl)| **A**| **F**|Apache|:warning: | | | | | | | :white_check_mark: | |Amazon CloudFront Amazon Web Services Apache HTTP Server|Redirecting to h...|
+|[https://www.waarzitwatin.nl](https://www.waarzitwatin.nl)| | **F**|cloudflare| | | | | | | | :white_check_mark: | |AWS WAF Captcha Amazon CloudFront Amazon Web Services Cloudflare HTTP/3|Human Verificati...|
+|[https://waarzitwatin.nl](https://waarzitwatin.nl)| **A+**| **D**|Apache|:warning: |:white_check_mark: | | | | | | :white_check_mark: | |Amazon CloudFront Amazon Web Services Apache HTTP Server HSTS Laravel October CMS|Waarzitwatin.nl...|
 |[https://files.staging.waarzitwatin.nl](https://files.staging.waarzitwatin.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Amazon CloudFront Amazon Web Services Apache HTTP Server|404 Not Found|
 |[https://kibana.staging.waarzitwatin.nl](https://kibana.staging.waarzitwatin.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Amazon CloudFront Amazon Web Services Apache HTTP Server|404 Not Found|
 |[https://mijn.staging.waarzitwatin.nl](https://mijn.staging.waarzitwatin.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Amazon CloudFront Amazon Web Services Apache HTTP Server|404 Not Found|
@@ -123,7 +123,7 @@ tags: dutchgov
 |[https://nl.staging.waarzitwatin.nl](https://nl.staging.waarzitwatin.nl)| | **F**|Apache| | | :warning:| | | | | :white_check_mark: | |Amazon CloudFront Amazon Web Services Apache HTTP Server|404 Not Found|
 |[https://proxy.staging.waarzitwatin.nl](https://proxy.staging.waarzitwatin.nl)| | **F**|Apache| | | :warning:| | | | | :white_check_mark: | |Amazon CloudFront Amazon Web Services Apache HTTP Server|404 Not Found|
 |[https://jenkins.staging.waarzitwatin.nl](https://jenkins.staging.waarzitwatin.nl)| | **F**|Apache| | | :warning:| | | | | :white_check_mark: | |Amazon CloudFront Amazon Web Services Apache HTTP Server|404 Not Found|
-|[https://link.staging.waarzitwatin.nl](https://link.staging.waarzitwatin.nl)| | **F**|Apache| | | :warning:| | | | | :white_check_mark: | |Amazon CloudFront Amazon Web Services Apache HTTP Server|404 Not Found|
+|[https://link.staging.waarzitwatin.nl](https://link.staging.waarzitwatin.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Amazon CloudFront Amazon Web Services Apache HTTP Server|404 Not Found|
 |[https://crm.staging.waarzitwatin.nl](https://crm.staging.waarzitwatin.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Amazon CloudFront Amazon Web Services Apache HTTP Server|404 Not Found|
 |[https://new.staging.waarzitwatin.nl](https://new.staging.waarzitwatin.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Amazon CloudFront Amazon Web Services Apache HTTP Server|404 Not Found|
 |[https://careers.staging.waarzitwatin.nl](https://careers.staging.waarzitwatin.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Amazon CloudFront Amazon Web Services Apache HTTP Server|404 Not Found|
@@ -143,7 +143,7 @@ tags: dutchgov
 |[https://vault.staging.waarzitwatin.nl](https://vault.staging.waarzitwatin.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Amazon CloudFront Amazon Web Services Apache HTTP Server|404 Not Found|
 |[https://store.staging.waarzitwatin.nl](https://store.staging.waarzitwatin.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Amazon CloudFront Amazon Web Services Apache HTTP Server|404 Not Found|
 |[https://it.staging.waarzitwatin.nl](https://it.staging.waarzitwatin.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Amazon CloudFront Amazon Web Services Apache HTTP Server|404 Not Found|
-|[https://data.staging.waarzitwatin.nl](https://data.staging.waarzitwatin.nl)| | **F**|Apache| | | :warning:| | | | | :white_check_mark: | |Amazon CloudFront Amazon Web Services Apache HTTP Server|404 Not Found|
-|[https://origin.staging.waarzitwatin.nl](https://origin.staging.waarzitwatin.nl)| | **F**|Apache| | | :warning:| | | | | :white_check_mark: | |Amazon CloudFront Amazon Web Services Apache HTTP Server|404 Not Found|
+|[https://data.staging.waarzitwatin.nl](https://data.staging.waarzitwatin.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Amazon CloudFront Amazon Web Services Apache HTTP Server|404 Not Found|
+|[https://origin.staging.waarzitwatin.nl](https://origin.staging.waarzitwatin.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Amazon CloudFront Amazon Web Services Apache HTTP Server|404 Not Found|
 |[https://es.staging.waarzitwatin.nl](https://es.staging.waarzitwatin.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Amazon CloudFront Amazon Web Services Apache HTTP Server|404 Not Found|
 

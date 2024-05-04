@@ -45,7 +45,6 @@ https://lync.noord-holland.nl
 https://sip1.noord-holland.nl
 https://mijnsubsidie.noord-holland.nl
 https://www.noord-holland.nl
-https://sta.noord-holland.nl
 https://geoservices.noord-holland.nl
 https://geoservices4.noord-holland.nl
 https://noord-holland.nl

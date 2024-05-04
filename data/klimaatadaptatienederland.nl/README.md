@@ -23,6 +23,6 @@
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[https://files.klimaatadaptatienederland.nl](https://files.klimaatadaptatienederland.nl)| **A**| **F**|-| | | | | | | | :white_check_mark: | |||
 |[https://woordenboek.klimaatadaptatienederland.nl](https://woordenboek.klimaatadaptatienederland.nl)| **A+**| **B**|Apache| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS||
-|[https://www.klimaatadaptatienederland.nl](https://www.klimaatadaptatienederland.nl)| **A+**| **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:-|Object moved|
+|[https://www.klimaatadaptatienederland.nl](https://www.klimaatadaptatienederland.nl)| **A+**| **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Microsoft ASP.NET:-|Document Moved|
 |[https://klimaatadaptatienederland.nl](https://klimaatadaptatienederland.nl)| **A+**| **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Google Tag Manager HSTS Microsoft ASP.NET:-|Home - Klimaatad...|
 

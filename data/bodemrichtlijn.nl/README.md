@@ -11,8 +11,8 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/bodemrichtlijn.nl/subdomains.txt)|1669|Alive subdomains|
-|[urls.txt](/data/bodemrichtlijn.nl/urls.txt)|1601|Urls|
+|[subdomains.txt](/data/bodemrichtlijn.nl/subdomains.txt)|1670|Alive subdomains|
+|[urls.txt](/data/bodemrichtlijn.nl/urls.txt)|1602|Urls|
 |[all_subdomains.txt](/data/bodemrichtlijn.nl/all_subdomains.txt)|1671|All found subdomains (history)|
 
 
@@ -313,6 +313,7 @@
 |[https://seiya.bodemrichtlijn.nl](https://seiya.bodemrichtlijn.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Microsoft Azure...|
 |[https://www-gp-web-1724.bodemrichtlijn.nl](https://www-gp-web-1724.bodemrichtlijn.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Microsoft Azure...|
 |[https://tetsu.bodemrichtlijn.nl](https://tetsu.bodemrichtlijn.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Microsoft Azure...|
+|[https://nuxeo.bodemrichtlijn.nl](https://nuxeo.bodemrichtlijn.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Microsoft Azure...|
 |[https://test-search.bodemrichtlijn.nl](https://test-search.bodemrichtlijn.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Microsoft Azure...|
 |[https://www-3-2.bodemrichtlijn.nl](https://www-3-2.bodemrichtlijn.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Microsoft Azure...|
 |[https://ued.bodemrichtlijn.nl](https://ued.bodemrichtlijn.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Microsoft Azure...|

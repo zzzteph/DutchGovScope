@@ -12,7 +12,7 @@
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/minfin.nl/subdomains.txt)|68|Alive subdomains|
-|[urls.txt](/data/minfin.nl/urls.txt)|9|Urls|
+|[urls.txt](/data/minfin.nl/urls.txt)|8|Urls|
 |[all_subdomains.txt](/data/minfin.nl/all_subdomains.txt)|88|All found subdomains (history)|
 
 
@@ -25,7 +25,6 @@
 |[https://english.minfin.nl](https://english.minfin.nl)| **F**| **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|403 Forbidden|
 |[https://rds.minfin.nl](https://rds.minfin.nl)| **A+**| **A**||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |F5 BigIP HSTS||
 |[https://remote.minfin.nl](https://remote.minfin.nl)| **A+**| **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Java|VMware Horizon|
-|[http://vdi.minfin.nl](http://vdi.minfin.nl)| **A+**| **A**||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Java|302 Found|
 |[https://www.minfin.nl](https://www.minfin.nl)| **A+**| **A**|Microsoft-IIS/10.0| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS IIS:10.0 Windows Server|Document Moved|
 |[https://minfin.nl](https://minfin.nl)| **A+**| **A**|Microsoft-IIS/10.0| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS IIS:10.0 Windows Server|Document Moved|
 |[https://mijnschatkist.minfin.nl](https://mijnschatkist.minfin.nl)| **A**| **C**|| | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET|403 Forbidden|

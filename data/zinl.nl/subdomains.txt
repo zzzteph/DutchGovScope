@@ -26,7 +26,6 @@ centry2.zinl.nl
 conf.zinl.nl
 lyncdiscover.zinl.nl
 sip.zinl.nl
-skype.zinl.nl
 mdm.zinl.nl
 office.zinl.nl
 portal.zinl.nl

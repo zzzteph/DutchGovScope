@@ -279,8 +279,6 @@ https://5312.rwscregelaar.nl
 https://www-ktest4.rwscregelaar.nl
 https://yoo.rwscregelaar.nl
 https://ns63.rwscregelaar.nl
-https://enough.rwscregelaar.nl
-https://tetris.rwscregelaar.nl
 https://yanglab.rwscregelaar.nl
 https://zerotrust.rwscregelaar.nl
 https://zi.rwscregelaar.nl

@@ -9,7 +9,7 @@ https://helpdesk.irealisatie.nl
 https://www.irealisatie.nl
 https://nextcloud.irealisatie.nl
 https://irealisatie.nl
-http://collabora.irealisatie.nl
+https://collabora.irealisatie.nl
 http://acc.irealisatie.nl
 http://gitea.irealisatie.nl
 http://taiga.irealisatie.nl

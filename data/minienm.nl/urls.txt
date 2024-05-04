@@ -1,7 +1,6 @@
 https://acc.service.mpn.minienm.nl
 https://bct.csp.minienm.nl
 https://csp.minienm.nl
-https://epublicatie.minienm.nl
 https://mpn.minienm.nl
 https://mpn-acc.minienm.nl
 https://mpn-pre.minienm.nl
@@ -14,7 +13,5 @@ https://www.minienm.nl
 https://www.sociaalfonds.minienm.nl
 https://www.startpagina.sap.minienm.nl
 https://minienm.nl
-https://rijksoverheid.minienm.nl
-https://web.minienm.nl
 https://dcc.minienm.nl
 http://localhost.minienm.nl

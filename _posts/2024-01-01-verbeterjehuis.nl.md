@@ -2,8 +2,8 @@
 layout: default
 title: "verbeterjehuis.nl"
 permalink: "/dutchgov/verbeterjehuis.nl.html"
-subdomains_count: 9
-all_subdomains_count: 14
+subdomains_count: 10
+all_subdomains_count: 15
 urls_count: 8
 ssl_rank: A+
 http_rank: B
@@ -27,9 +27,9 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/verbeterjehuis.nl/subdomains.txt)|9|Alive subdomains|
+|[subdomains.txt](/DutchGovScope/data/verbeterjehuis.nl/subdomains.txt)|10|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/verbeterjehuis.nl/urls.txt)|8|Urls|
-|[all_subdomains.txt](/DutchGovScope/data/verbeterjehuis.nl/all_subdomains.txt)|14|All found subdomains (history)|
+|[all_subdomains.txt](/DutchGovScope/data/verbeterjehuis.nl/all_subdomains.txt)|15|All found subdomains (history)|
 
 
 ## Statistics
@@ -44,5 +44,5 @@ tags: dutchgov
 |[https://cms.verbeterjehuis.nl](https://cms.verbeterjehuis.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Document Moved|
 |[https://content.verbeterjehuis.nl](https://content.verbeterjehuis.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[http://localhost.verbeterjehuis.nl](http://localhost.verbeterjehuis.nl)| | **F**|nginx| | | :warning:| | | | | :white_check_mark: | |Nginx|(404 Not Found)|
-|[https://test-u8-www.verbeterjehuis.nl](https://test-u8-www.verbeterjehuis.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Web App - Unavai...|
+|[https://test-u8-www.verbeterjehuis.nl](https://test-u8-www.verbeterjehuis.nl)| | **B**|cloudflare| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Cloudflare HSTS|Attention Requir...|
 

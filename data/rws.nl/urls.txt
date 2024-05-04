@@ -115,7 +115,7 @@ https://tunnelservice-werkstation-3.vm-02.azure.grid.rws.nl
 https://tunnelservice-werkstation.vm-02.azure.grid.rws.nl
 https://uitwijk-vitaal.matroos.rws.nl
 https://v14.rws.nl
-http://vegetatiemonitor.rws.nl
+https://vegetatiemonitor.rws.nl
 https://vitaal.matroos.rws.nl
 https://wabinfo.rws.nl
 https://wachtwoord.rws.nl
@@ -145,7 +145,7 @@ https://tst-onderwaterobjecten.rws.nl
 https://tst-sonarreg.rws.nl
 https://waterberichtgeving-sitrap.rws.nl
 https://webportaal.rws.nl
-http://tgox.rws.nl
+https://tgox.rws.nl
 https://techniekacademie.rws.nl
 http://acceptatie.gbvi.rws.nl
 https://keycloak-test.vm-02.azure.grid.rws.nl

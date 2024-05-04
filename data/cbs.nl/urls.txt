@@ -9,3 +9,4 @@ https://login-databestanden.test.cbs.nl
 https://mijn.acceptatie.cbs.nl
 http://mijn-acceptatie.cbs.nl
 https://brandportal.cbs.nl
+https://search.beta.cbs.nl

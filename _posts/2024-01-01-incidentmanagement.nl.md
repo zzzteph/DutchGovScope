@@ -2,8 +2,8 @@
 layout: default
 title: "incidentmanagement.nl"
 permalink: "/dutchgov/incidentmanagement.nl.html"
-subdomains_count: 5
-all_subdomains_count: 6
+subdomains_count: 6
+all_subdomains_count: 7
 urls_count: 4
 ssl_rank: C
 http_rank: F
@@ -27,9 +27,9 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/incidentmanagement.nl/subdomains.txt)|5|Alive subdomains|
+|[subdomains.txt](/DutchGovScope/data/incidentmanagement.nl/subdomains.txt)|6|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/incidentmanagement.nl/urls.txt)|4|Urls|
-|[all_subdomains.txt](/DutchGovScope/data/incidentmanagement.nl/all_subdomains.txt)|6|All found subdomains (history)|
+|[all_subdomains.txt](/DutchGovScope/data/incidentmanagement.nl/all_subdomains.txt)|7|All found subdomains (history)|
 
 
 ## Statistics

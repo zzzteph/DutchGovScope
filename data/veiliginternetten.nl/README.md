@@ -5,8 +5,8 @@
 
 
  - **SSL Grade**:B+
- - **HTTP Security Grade**:C
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:2
+ - **HTTP Security Grade**:D
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:3
 
 
 | File       | Count | Info |
@@ -21,7 +21,7 @@
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://check.veiliginternetten.nl](https://check.veiliginternetten.nl)| **B**| **B**|cloudflare| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Cloudflare HSTS HTTP/3|Just a moment...|
+|[https://check.veiliginternetten.nl](https://check.veiliginternetten.nl)| **B**| **D**|cloudflare|:o: |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Cloudflare HSTS HTTP/3|Check de Link -...|
 |[https://enquete.veiliginternetten.nl](https://enquete.veiliginternetten.nl)| **A+**| **A**|| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Amazon CloudFront Amazon Web Services HSTS|Object moved|
 |[https://mailing.veiliginternetten.nl](https://mailing.veiliginternetten.nl)| **A**| **F**|nginx| | | | | | | | :white_check_mark: | |Nginx||
 |[https://vs6844.veiliginternetten.nl](https://vs6844.veiliginternetten.nl)| **F**| **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|301 Moved Perman...|

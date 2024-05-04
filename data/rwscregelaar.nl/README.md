@@ -11,8 +11,8 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/rwscregelaar.nl/subdomains.txt)|2248|Alive subdomains|
-|[urls.txt](/data/rwscregelaar.nl/urls.txt)|2247|Urls|
+|[subdomains.txt](/data/rwscregelaar.nl/subdomains.txt)|2246|Alive subdomains|
+|[urls.txt](/data/rwscregelaar.nl/urls.txt)|2245|Urls|
 |[all_subdomains.txt](/data/rwscregelaar.nl/all_subdomains.txt)|2248|All found subdomains (history)|
 
 
@@ -302,8 +302,6 @@
 |[https://www-ktest4.rwscregelaar.nl](https://www-ktest4.rwscregelaar.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu|DAT.Mobility|
 |[https://yoo.rwscregelaar.nl](https://yoo.rwscregelaar.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu|DAT.Mobility|
 |[https://ns63.rwscregelaar.nl](https://ns63.rwscregelaar.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu|DAT.Mobility|
-|[https://enough.rwscregelaar.nl](https://enough.rwscregelaar.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu|DAT.Mobility|
-|[https://tetris.rwscregelaar.nl](https://tetris.rwscregelaar.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu|DAT.Mobility|
 |[https://yanglab.rwscregelaar.nl](https://yanglab.rwscregelaar.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu|DAT.Mobility|
 |[https://zerotrust.rwscregelaar.nl](https://zerotrust.rwscregelaar.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu|DAT.Mobility|
 |[https://zi.rwscregelaar.nl](https://zi.rwscregelaar.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu|DAT.Mobility|

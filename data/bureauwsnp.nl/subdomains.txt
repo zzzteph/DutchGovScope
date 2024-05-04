@@ -1,2 +1,3 @@
 bureauwsnp.nl
 www.bureauwsnp.nl
+mail.bureauwsnp.nl

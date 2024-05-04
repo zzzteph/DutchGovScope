@@ -39,5 +39,5 @@ tags: dutchgov
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[https://www.examenbladmbo.nl](https://www.examenbladmbo.nl)| **A+**| **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |Drupal:10 HSTS PHP|Examenbladmbo.nl|
 |[https://examenbladmbo.nl](https://examenbladmbo.nl)| **A**| **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS|308 Permanent Re...|
-|[https://mijn.examenbladmbo.nl](https://mijn.examenbladmbo.nl)| **A+**| **A**|| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Drupal HSTS PHP|Redirecting to h...|
+|[https://mijn.examenbladmbo.nl](https://mijn.examenbladmbo.nl)| **A+**| **A**|| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Drupal:10 HSTS PHP|Redirecting to h...|
 

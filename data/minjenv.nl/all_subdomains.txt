@@ -19,3 +19,5 @@ mx01.minjenv.nl
 mx02.minjenv.nl
 mx03.minjenv.nl
 mx04.minjenv.nl
+crm-acpt.connect.minjenv.nl
+autodiscover.dtv.minjenv.nl

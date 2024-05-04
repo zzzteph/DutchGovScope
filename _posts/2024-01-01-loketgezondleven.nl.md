@@ -7,7 +7,7 @@ all_subdomains_count: 13
 urls_count: 8
 ssl_rank: B
 http_rank: D
-security_txt: 4
+security_txt: 3
 url_link: /data/loketgezondleven.nl/urls.txt
 all_subdomains_link: /data/loketgezondleven.nl/all_subdomains.txt
 subdomains_link: /data/loketgezondleven.nl/subdomains.txt
@@ -22,7 +22,7 @@ tags: dutchgov
 
  - **SSL Grade**:B
  - **HTTP Security Grade**:D
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:4
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:3
 
 
 | File       | Count | Info |

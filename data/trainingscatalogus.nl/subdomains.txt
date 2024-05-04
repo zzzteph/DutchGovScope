@@ -169,3 +169,8 @@ content.test.trainingscatalogus.nl
 payment.test.trainingscatalogus.nl
 mta-sts.test.trainingscatalogus.nl
 web.test.trainingscatalogus.nl
+partners.test.trainingscatalogus.nl
+app.test.trainingscatalogus.nl
+test2.test.trainingscatalogus.nl
+forum.test.trainingscatalogus.nl
+imap.test.trainingscatalogus.nl

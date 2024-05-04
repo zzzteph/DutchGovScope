@@ -189,3 +189,4 @@ squit2020.test.trainingscatalogus.nl
 apps.test.trainingscatalogus.nl
 contentbeheer.test.trainingscatalogus.nl
 my.test.trainingscatalogus.nl
+parnassia-lms.trainingscatalogus.nl

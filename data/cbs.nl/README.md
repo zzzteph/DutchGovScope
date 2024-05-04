@@ -6,13 +6,13 @@
 
  - **SSL Grade**:A
  - **HTTP Security Grade**:C
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:7
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:8
 
 
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/cbs.nl/subdomains.txt)|54|Alive subdomains|
-|[urls.txt](/data/cbs.nl/urls.txt)|11|Urls|
+|[urls.txt](/data/cbs.nl/urls.txt)|12|Urls|
 |[all_subdomains.txt](/data/cbs.nl/all_subdomains.txt)|301|All found subdomains (history)|
 
 
@@ -27,9 +27,10 @@
 |[https://cbs.nl](https://cbs.nl)| **A+**| **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|301 Moved Perman...|
 |[https://beh-iam.acceptatie.cbs.nl](https://beh-iam.acceptatie.cbs.nl)| **A+**| **C**|Microsoft-IIS/10.0|:warning: |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Bootstrap HSTS IIS:10.0 Microsoft ASP.NET:4.0.30319 Windows Server|Login voor intde...|
 |[https://amunet.cbs.nl](https://amunet.cbs.nl)| **B**| **E**|| | | | | | | | :white_check_mark: | ||Amunet|
-|[https://dataset.acceptatie.cbs.nl](https://dataset.acceptatie.cbs.nl)| | **C**|| |:white_check_mark: | :warning:| | | | | :white_check_mark: | |HSTS|CCB OData Endpoi...|
+|[https://dataset.acceptatie.cbs.nl](https://dataset.acceptatie.cbs.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||
 |[https://login-databestanden.test.cbs.nl](https://login-databestanden.test.cbs.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Welcome to Keycl...|
 |[https://mijn.acceptatie.cbs.nl](https://mijn.acceptatie.cbs.nl)| | **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |Basic HSTS Nginx|401 Authorizatio...|
 |[http://mijn-acceptatie.cbs.nl](http://mijn-acceptatie.cbs.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://brandportal.cbs.nl](https://brandportal.cbs.nl)| | **F**|Apache/2| | | | | | | | :white_check_mark: | |Apache HTTP Server:2||
+|[https://search.beta.cbs.nl](https://search.beta.cbs.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 

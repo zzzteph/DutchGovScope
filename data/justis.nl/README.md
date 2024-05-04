@@ -13,7 +13,7 @@
 |------------|-------|------|
 |[subdomains.txt](/data/justis.nl/subdomains.txt)|13|Alive subdomains|
 |[urls.txt](/data/justis.nl/urls.txt)|12|Urls|
-|[all_subdomains.txt](/data/justis.nl/all_subdomains.txt)|15|All found subdomains (history)|
+|[all_subdomains.txt](/data/justis.nl/all_subdomains.txt)|16|All found subdomains (history)|
 
 
 ## Statistics

@@ -6,7 +6,6 @@ https://ontwikkelpunt.nfi.nl
 https://testmijn.nfi.nl
 https://nfi.nl
 https://jep.nfi.nl
-https://anyconnect.nfi.nl
 https://hybrid.nfi.nl
 https://mailtestmijn.nfi.nl
 https://autodiscover.nfi.nl

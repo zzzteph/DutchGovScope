@@ -8,3 +8,5 @@ https://portal.zinl.nl
 https://zinl.nl
 https://www.zinl.nl
 https://enterpriseregistration.zinl.nl
+https://cmg.zinl.nl
+https://enterpriseenrollment.zinl.nl

@@ -2,8 +2,8 @@
 layout: default
 title: "trainingscatalogus.nl"
 permalink: "/dutchgov/trainingscatalogus.nl.html"
-subdomains_count: 171
-all_subdomains_count: 191
+subdomains_count: 176
+all_subdomains_count: 192
 urls_count: 106
 ssl_rank: A+
 http_rank: C
@@ -27,9 +27,9 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/trainingscatalogus.nl/subdomains.txt)|171|Alive subdomains|
+|[subdomains.txt](/DutchGovScope/data/trainingscatalogus.nl/subdomains.txt)|176|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/trainingscatalogus.nl/urls.txt)|106|Urls|
-|[all_subdomains.txt](/DutchGovScope/data/trainingscatalogus.nl/all_subdomains.txt)|191|All found subdomains (history)|
+|[all_subdomains.txt](/DutchGovScope/data/trainingscatalogus.nl/all_subdomains.txt)|192|All found subdomains (history)|
 
 
 ## Statistics
@@ -46,13 +46,13 @@ tags: dutchgov
 |[https://djileeromgeving-a.trainingscatalogus.nl](https://djileeromgeving-a.trainingscatalogus.nl)| **A+**| **A**|Apache|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS Moodle PHP|Doorverwijspagin...|
 |[https://ez-leeromgeving-a.trainingscatalogus.nl](https://ez-leeromgeving-a.trainingscatalogus.nl)| **A+**| **D**|Apache|:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | |Apache HTTP Server HSTS Moodle PHP|Doorverwijspagin...|
 |[https://gemeentedenhaag.trainingscatalogus.nl](https://gemeentedenhaag.trainingscatalogus.nl)| **A+**| **B**|Class|:white_check_mark: |:white_check_mark: | | |:warning: | | :white_check_mark: | :white_check_mark: | |HSTS||
-|[https://gemeentedenhaag-a.trainingscatalogus.nl](https://gemeentedenhaag-a.trainingscatalogus.nl)| **A+**| **B**|Class|:white_check_mark: |:white_check_mark: | | |:warning: | | :white_check_mark: | :white_check_mark: | |HSTS||
+|[https://gemeentedenhaag-a.trainingscatalogus.nl](https://gemeentedenhaag-a.trainingscatalogus.nl)| **A+**| **C**|Class|:white_check_mark: |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://ind.trainingscatalogus.nl](https://ind.trainingscatalogus.nl)| **A**| **F**|Microsoft-Azure-Application-Gateway/v2| | | | | | | | :white_check_mark: | ||404 Not Found|
 |[https://ketenpartnerdji.trainingscatalogus.nl](https://ketenpartnerdji.trainingscatalogus.nl)| **A**| **F**|Microsoft-Azure-Application-Gateway/v2| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|404 Not Found|
 |[https://leeromgeving-minvenj.trainingscatalogus.nl](https://leeromgeving-minvenj.trainingscatalogus.nl)| **A+**| **C**|Apache| |:white_check_mark: | | | | | | :white_check_mark: | |Apache HTTP Server HSTS Moodle PHP|Doorverwijspagin...|
 |[https://leeromgeving-svb.trainingscatalogus.nl](https://leeromgeving-svb.trainingscatalogus.nl)| **A+**| **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS Moodle PHP|Doorverwijspagin...|
 |[https://parnassialeeromgeving-a.trainingscatalogus.nl](https://parnassialeeromgeving-a.trainingscatalogus.nl)| **A+**| **D**|Apache|:warning: |:white_check_mark: | | | | | | :white_check_mark: | |Apache HTTP Server HSTS Moodle PHP|Startpagina | Pa...|
-|[https://radio.trainingscatalogus.nl](https://radio.trainingscatalogus.nl)| **A**| **D**|nginx|:warning: |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
+|[https://radio.trainingscatalogus.nl](https://radio.trainingscatalogus.nl)| **A**| **D**|nginx|:warning: |:white_check_mark: | | | | | | :white_check_mark: | |Nginx|Web Server's Def...|
 |[https://szw.trainingscatalogus.nl](https://szw.trainingscatalogus.nl)| **A**| **B**|Microsoft-IIS/10.0|:white_check_mark: |:white_check_mark: | | |:warning: | | :white_check_mark: | :white_check_mark: | |IIS:10.0 Windows Server|Document Moved|
 |[https://szw-a.trainingscatalogus.nl](https://szw-a.trainingscatalogus.nl)| **A**| **F**|Microsoft-Azure-Application-Gateway/v2| | | | | | | | :white_check_mark: | ||404 Not Found|
 |[https://zorgspectrumleeromgeving-a.trainingscatalogus.nl](https://zorgspectrumleeromgeving-a.trainingscatalogus.nl)| **A+**| **C**|Apache| |:white_check_mark: | | | | | | :white_check_mark: | |Apache HTTP Server HSTS Moodle PHP|Doorverwijspagin...|

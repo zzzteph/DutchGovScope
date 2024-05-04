@@ -23,5 +23,5 @@
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[https://staging.e-cert.nl](https://staging.e-cert.nl)| **A+**| **C**|Prometheus|:warning: |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://www.e-cert.nl](https://www.e-cert.nl)| **A+**| **A**|Prometheus| |:white_check_mark: | | |:warning: | | :white_check_mark: | :white_check_mark: | |HSTS|301 Moved Perman...|
-|[https://e-cert.nl](https://e-cert.nl)| **A+**| **A**|Prometheus| |:white_check_mark: | | |:warning: | | :white_check_mark: | :white_check_mark: | |HSTS MySQL PHP Redis Redis Object Cache WPML:4.6.9 WordPress|Home | e-CertNL|
+|[https://e-cert.nl](https://e-cert.nl)| **A+**| **A**|Prometheus| |:white_check_mark: | | |:warning: | | :white_check_mark: | :white_check_mark: | |HSTS MySQL PHP Redis Redis Object Cache WPML:4.6.10 WordPress|Home | e-CertNL|
 

@@ -12,7 +12,7 @@
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/dictu.nl/subdomains.txt)|149|Alive subdomains|
-|[urls.txt](/data/dictu.nl/urls.txt)|74|Urls|
+|[urls.txt](/data/dictu.nl/urls.txt)|75|Urls|
 |[all_subdomains.txt](/data/dictu.nl/all_subdomains.txt)|284|All found subdomains (history)|
 
 
@@ -21,7 +21,7 @@
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://acc.dictu.nl](https://acc.dictu.nl)| **F**| **F**|nginx| | | | | | | | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
+|[https://acc.dictu.nl](https://acc.dictu.nl)| **F**| **F**|nginx/1.24.0| | | | | | | | :white_check_mark: | |Nginx:1.24.0|301 Moved Perman...|
 |[https://acc.gisextern.dictu.nl](https://acc.gisextern.dictu.nl)| **F**| **E**|| | | | | | | | :white_check_mark: | |HSTS|Document Moved|
 |[https://acc.intranet-demo.dictu.nl](https://acc.intranet-demo.dictu.nl)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |Drupal HSTS Nginx PHP|Redirecting to /...|
 |[https://acc.rd.dictu.nl](https://acc.rd.dictu.nl)| **A+**| **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS|Error|
@@ -55,7 +55,7 @@
 |[https://mft.webftp.dictu.nl](https://mft.webftp.dictu.nl)| **B**| **E**|| | | | | | | | :white_check_mark: | |Basic|Redirect|
 |[https://mijntoken.dictu.nl](https://mijntoken.dictu.nl)| **B**| **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Oracle Dynamic Monitoring Service Oracle WebLogic Server|302 Moved Tempor...|
 |[https://pms.dictu.nl](https://pms.dictu.nl)| **B**| **C**||:warning: |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS Microsoft ASP.NET|Object moved|
-|[http://pms-acc.dictu.nl](http://pms-acc.dictu.nl)| **A+**| **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET||
+|[https://pms-acc.dictu.nl](https://pms-acc.dictu.nl)| **A+**| **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET||
 |[https://procesweb-test.dictu.nl](https://procesweb-test.dictu.nl)| **A+**| **E**|awselb/2.0|:white_check_mark: | | | | :white_check_mark:| | | :white_check_mark: | |Amazon ELB Amazon Web Services HSTS||
 |[https://prod.dictu.nl](https://prod.dictu.nl)| **A**| **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|403 Forbidden|
 |[http://rijkspas2ocsp.dictu.nl](http://rijkspas2ocsp.dictu.nl)| | **E**|Microsoft-IIS/8.5| | | | | | :white_check_mark: | | :white_check_mark: | |IIS:8.5 Windows Server|403 - Forbidden:...|
@@ -66,9 +66,10 @@
 |[http://rijkspascrlcert2-acc.dictu.nl](http://rijkspascrlcert2-acc.dictu.nl)| | **D**|| | | | | | :white_check_mark: | | :white_check_mark: | ||rijkspascrlcert2...|
 |[http://rijkspasocsp1.extranet.dictu.nl](http://rijkspasocsp1.extranet.dictu.nl)| | **E**|Microsoft-IIS/8.5| | | | | | :white_check_mark: | | :white_check_mark: | |IIS:8.5 Windows Server|403 - Forbidden:...|
 |[http://rijkspasocsp2.dictu.nl](http://rijkspasocsp2.dictu.nl)| | **E**|Microsoft-IIS/8.5| | | | | | :white_check_mark: | | :white_check_mark: | |IIS:8.5 Windows Server|403 - Forbidden:...|
-|[http://rijkspasocsp2-acc.dictu.nl](http://rijkspasocsp2-acc.dictu.nl)| | **D**|| | | | | | :white_check_mark: | | :white_check_mark: | ||403 - Forbidden:...|
+|[http://rijkspasocsp2-acc.dictu.nl](http://rijkspasocsp2-acc.dictu.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Service Unavaila...|
 |[https://servicedesk.dictu.nl](https://servicedesk.dictu.nl)| **A**| **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|403 Forbidden|
 |[https://sfs.dictu.nl](https://sfs.dictu.nl)| **F**| **F**|Seclore Server| | | | | | | | :white_check_mark: | |Java||
+|[https://sfs-acc.dictu.nl](https://sfs-acc.dictu.nl)| **A+**| **A**|Seclore Server|:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Java||
 |[https://simplesamlidp.dictu.nl](https://simplesamlidp.dictu.nl)| **A**| **F**|nginx| | | | | | | | :white_check_mark: | |Basic Nginx|401 Authorizatio...|
 |[https://simplesamlidp-acc.dictu.nl](https://simplesamlidp-acc.dictu.nl)| **F**| **F**|nginx| | | | | | | | :white_check_mark: | |Basic Nginx|401 Authorizatio...|
 |[https://test.dictu.nl](https://test.dictu.nl)| **F**| **F**|nginx| | | | | | | | :white_check_mark: | |Basic Nginx|401 Authorizatio...|

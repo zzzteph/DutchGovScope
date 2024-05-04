@@ -5,14 +5,14 @@
 
 
  - **SSL Grade**:
- - **HTTP Security Grade**:D
+ - **HTTP Security Grade**:E
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:3
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/zinl.nl/subdomains.txt)|46|Alive subdomains|
-|[urls.txt](/data/zinl.nl/urls.txt)|10|Urls|
+|[subdomains.txt](/data/zinl.nl/subdomains.txt)|45|Alive subdomains|
+|[urls.txt](/data/zinl.nl/urls.txt)|12|Urls|
 |[all_subdomains.txt](/data/zinl.nl/all_subdomains.txt)|91|All found subdomains (history)|
 
 
@@ -31,4 +31,6 @@
 |[https://zinl.nl](https://zinl.nl)| | **A**|BigIP| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |F5 BigIP HSTS||
 |[https://www.zinl.nl](https://www.zinl.nl)| | **A**|BigIP| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |F5 BigIP HSTS||
 |[https://enterpriseregistration.zinl.nl](https://enterpriseregistration.zinl.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
+|[https://cmg.zinl.nl](https://cmg.zinl.nl)| | **F**|Microsoft-IIS/10.0| | | | | | | | :white_check_mark: | |IIS:10.0 Windows Server|403 - Forbidden:...|
+|[https://enterpriseenrollment.zinl.nl](https://enterpriseenrollment.zinl.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||
 

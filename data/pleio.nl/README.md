@@ -11,7 +11,7 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/pleio.nl/subdomains.txt)|1520|Alive subdomains|
+|[subdomains.txt](/data/pleio.nl/subdomains.txt)|1521|Alive subdomains|
 |[urls.txt](/data/pleio.nl/urls.txt)|1512|Urls|
 |[all_subdomains.txt](/data/pleio.nl/all_subdomains.txt)|1522|All found subdomains (history)|
 
@@ -300,7 +300,7 @@
 |[https://class.pleio.nl](https://class.pleio.nl)| **A+**| **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Domeinnaam nog n...|
 |[https://grenzeloossamen-werken.pleio.nl](https://grenzeloossamen-werken.pleio.nl)| **A+**| **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Domeinnaam nog n...|
 |[https://kennisnetwekdata.pleio.nl](https://kennisnetwekdata.pleio.nl)| **A+**| **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Domeinnaam nog n...|
-|[https://regelbeheer.pleio.nl](https://regelbeheer.pleio.nl)| **A+**| **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache Tomcat Fourthwall:1.0.0 HSTS Java MariaDB Skolengo:1.0.0|Regelbeheersing|
+|[https://regelbeheer.pleio.nl](https://regelbeheer.pleio.nl)| **A+**| **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache Tomcat Fourthwall:1.0.0 HSTS Java MariaDB Skolengo:1.0.0|Regelbeheer|
 |[https://digistandaarden.pleio.nl](https://digistandaarden.pleio.nl)| **A+**| **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Domeinnaam nog n...|
 |[https://kleinlef.pleio.nl](https://kleinlef.pleio.nl)| **A+**| **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache Tomcat Fourthwall:1.0.0 HSTS Java MariaDB Skolengo:1.0.0|KleinLef|
 |[https://imd.pleio.nl](https://imd.pleio.nl)| **A+**| **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache Tomcat Fourthwall:1.0.0 HSTS Java MariaDB Skolengo:1.0.0|Intermediairdage...|

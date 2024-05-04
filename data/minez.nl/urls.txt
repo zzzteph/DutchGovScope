@@ -12,7 +12,7 @@ https://eidasmw-acc.minez.nl
 https://eidas.minez.nl
 https://eidasmw.minez.nl
 https://vws-demo.minez.nl
-https://pmt-acc.minez.nl
+http://pmt-acc.minez.nl
 https://ibabs.minez.nl
 https://authpmt-acc.minez.nl
 https://authpmt.minez.nl

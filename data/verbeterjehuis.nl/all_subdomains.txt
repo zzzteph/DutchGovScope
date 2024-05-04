@@ -12,3 +12,4 @@ content.verbeterjehuis.nl
 localhost.verbeterjehuis.nl
 test-u8-www.verbeterjehuis.nl
 acc-u8-www.verbeterjehuis.nl
+acc-www.verbeterjehuis.nl
