@@ -50,3 +50,4 @@ www.acceptatie.woz-it.waarderingskamer.nl
 mail.waarderingskamer.nl
 webmail.waarderingskamer.nl
 testnoc.waarderingskamer.nl
+basic-test.woz-it.waarderingskamer.nl

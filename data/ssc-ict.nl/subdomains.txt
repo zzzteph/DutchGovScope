@@ -31,7 +31,6 @@ sbc-prd-a-tenant01.ssc-ict.nl
 sbc-prd-a-tenant02.dwrt2.ssc-ict.nl
 sbc-prd-a-tenant03.dwrt3.ssc-ict.nl
 sbc-prd-a-tenant04.dwrt4.ssc-ict.nl
-sbc-prd-b-tenant01.ssc-ict.nl
 sbc-prd-b-tenant03.dwrt3.ssc-ict.nl
 sbc-prd-b-tenant04.dwrt4.ssc-ict.nl
 sbc-ota-a-tenant04.ssc-ict.nl

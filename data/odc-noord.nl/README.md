@@ -4,15 +4,15 @@
 ## Summary data
 
 
- - **SSL Grade**:B-
- - **HTTP Security Grade**:D
+ - **SSL Grade**:B
+ - **HTTP Security Grade**:C
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:8
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/odc-noord.nl/subdomains.txt)|144|Alive subdomains|
-|[urls.txt](/data/odc-noord.nl/urls.txt)|89|Urls|
+|[subdomains.txt](/data/odc-noord.nl/subdomains.txt)|145|Alive subdomains|
+|[urls.txt](/data/odc-noord.nl/urls.txt)|83|Urls|
 |[all_subdomains.txt](/data/odc-noord.nl/all_subdomains.txt)|260|All found subdomains (history)|
 
 
@@ -26,8 +26,6 @@
 |[https://acc.paas-portal.odc-noord.nl](https://acc.paas-portal.odc-noord.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |AngularJS HSTS||
 |[https://bd-acc.topdesk.odc-noord.nl](https://bd-acc.topdesk.odc-noord.nl)| **B**| **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Login|
 |[https://bd-prd.topdesk.odc-noord.nl](https://bd-prd.topdesk.odc-noord.nl)| **B**| **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Login|
-|[https://dci-acc.topdesk.odc-noord.nl](https://dci-acc.topdesk.odc-noord.nl)| **F**| **E**|| | | | | | | | :white_check_mark: | |||
-|[https://dci-prd.topdesk.odc-noord.nl](https://dci-prd.topdesk.odc-noord.nl)| **F**| **E**|| | | | | | | | :white_check_mark: | |||
 |[https://doc-direkt-acc.topdesk.odc-noord.nl](https://doc-direkt-acc.topdesk.odc-noord.nl)| **B**| **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|Login|
 |[https://doc-direkt-prd.topdesk.odc-noord.nl](https://doc-direkt-prd.topdesk.odc-noord.nl)| **B**| **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|Login|
 |[https://docdirekt-ont-va.topdesk.odc-noord.nl](https://docdirekt-ont-va.topdesk.odc-noord.nl)| | **E**|| | | | | | | | :white_check_mark: | ||ODC-Noord | (403...|
@@ -38,16 +36,12 @@
 |[https://duo-prd.topdesk.odc-noord.nl](https://duo-prd.topdesk.odc-noord.nl)| **B**| **E**|| | | | | | | | :white_check_mark: | ||ODC-Noord | (403...|
 |[https://duo-prd2.topdesk.odc-noord.nl](https://duo-prd2.topdesk.odc-noord.nl)| **B**| **E**|| | | | | | | | :white_check_mark: | ||ODC-Noord | (403...|
 |[https://duo2-acc.topdesk.odc-noord.nl](https://duo2-acc.topdesk.odc-noord.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
-|[https://duo2-ont.topdesk.odc-noord.nl](https://duo2-ont.topdesk.odc-noord.nl)| **F**| **E**|| | | | | | | | :white_check_mark: | |||
-|[https://duo2-prd.topdesk.odc-noord.nl](https://duo2-prd.topdesk.odc-noord.nl)| **F**| **E**|| | | | | | | | :white_check_mark: | |||
 |[https://iaas-portal.odc-noord.nl](https://iaas-portal.odc-noord.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |AngularJS HSTS||
 |[https://iam.odc-noord.nl](https://iam.odc-noord.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://idp.sandbox.odc-noord.nl](https://idp.sandbox.odc-noord.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://iene-acc.topdesk.odc-noord.nl](https://iene-acc.topdesk.odc-noord.nl)| **B**| **E**|| | | | | | | | :white_check_mark: | ||ODC-Noord | (403...|
 |[https://iene-prd.topdesk.odc-noord.nl](https://iene-prd.topdesk.odc-noord.nl)| **B**| **E**|| | | | | | | | :white_check_mark: | ||ODC-Noord | (403...|
-|[https://ilt-acc.confluence.odc-noord.nl](https://ilt-acc.confluence.odc-noord.nl)| **F**| **E**|| | | | | | | | :white_check_mark: | |||
 |[https://ilt-acc.topdesk.odc-noord.nl](https://ilt-acc.topdesk.odc-noord.nl)| **B**| **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|Login|
-|[https://ilt-prd.confluence.odc-noord.nl](https://ilt-prd.confluence.odc-noord.nl)| **F**| **E**|| | | | | | | | :white_check_mark: | |||
 |[https://ilt-prd.topdesk.odc-noord.nl](https://ilt-prd.topdesk.odc-noord.nl)| **B**| **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|Login|
 |[https://iucn-acc.topdesk.odc-noord.nl](https://iucn-acc.topdesk.odc-noord.nl)| **B**| **E**|| | | | | | | | :white_check_mark: | ||ODC-Noord | (403...|
 |[https://iucn-prd.topdesk.odc-noord.nl](https://iucn-prd.topdesk.odc-noord.nl)| **B**| **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Login|
@@ -65,7 +59,7 @@
 |[https://na-acc.topdesk.odc-noord.nl](https://na-acc.topdesk.odc-noord.nl)| **B**| **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|Login|
 |[https://na-prd.topdesk.odc-noord.nl](https://na-prd.topdesk.odc-noord.nl)| **B**| **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Login|
 |[https://nfi-acc.topdesk.odc-noord.nl](https://nfi-acc.topdesk.odc-noord.nl)| **B**| **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|Login|
-|[https://nfi-prd.topdesk.odc-noord.nl](https://nfi-prd.topdesk.odc-noord.nl)| **B**| **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Login|
+|[https://nfi-prd.topdesk.odc-noord.nl](https://nfi-prd.topdesk.odc-noord.nl)| **B**| **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|Login|
 |[https://odcn-acc.confluence.odc-noord.nl](https://odcn-acc.confluence.odc-noord.nl)| **B**| **E**|| | | | | | | | :white_check_mark: | ||ODC-Noord | (403...|
 |[https://odcn-acc.jira.odc-noord.nl](https://odcn-acc.jira.odc-noord.nl)| **B**| **E**|| | | | | | | | :white_check_mark: | ||ODC-Noord | (403...|
 |[https://odcn-acc.topdesk.odc-noord.nl](https://odcn-acc.topdesk.odc-noord.nl)| **B**| **E**|| | | | | | | | :white_check_mark: | ||ODC-Noord | (403...|

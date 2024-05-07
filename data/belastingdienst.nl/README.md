@@ -6,13 +6,13 @@
 
  - **SSL Grade**:A-
  - **HTTP Security Grade**:C
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:48
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:49
 
 
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/belastingdienst.nl/subdomains.txt)|484|Alive subdomains|
-|[urls.txt](/data/belastingdienst.nl/urls.txt)|126|Urls|
+|[urls.txt](/data/belastingdienst.nl/urls.txt)|127|Urls|
 |[all_subdomains.txt](/data/belastingdienst.nl/all_subdomains.txt)|795|All found subdomains (history)|
 
 
@@ -144,6 +144,7 @@
 |[https://verzekeringsproducten.belastingdienst.nl](https://verzekeringsproducten.belastingdienst.nl)| **A+**| **A**|istio-envoy| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Envoy HSTS|BD end users por...|
 |[https://wagenparkgegevens.belastingdienst.nl](https://wagenparkgegevens.belastingdienst.nl)| **A+**| **C**|istio-envoy| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
 |[https://adobe-analytics-dc.belastingdienst.nl](https://adobe-analytics-dc.belastingdienst.nl)| **A+**| **B**|jag| |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | |HSTS||
+|[https://intermediairdagen.belastingdienst.nl](https://intermediairdagen.belastingdienst.nl)| | **A**|BigIP|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |F5 BigIP||
 |[https://mul-mbc.belastingdienst.nl](https://mul-mbc.belastingdienst.nl)| **A**| **F**||:warning: | | | | | | | :white_check_mark: | |Microsoft ASP.NET|Aangifte Inkomst...|
 |[https://sadp.belastingdienst.nl](https://sadp.belastingdienst.nl)| **A+**| **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Home - Aangifte-...|
 |[https://rwn.belastingdienst.nl](https://rwn.belastingdienst.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Request Rejected|

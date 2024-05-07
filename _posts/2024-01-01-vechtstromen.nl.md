@@ -39,7 +39,7 @@ tags: dutchgov
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[https://apps-tst.vechtstromen.nl](https://apps-tst.vechtstromen.nl)| **A+**| **B**||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS Microsoft ASP.NET|Login|
 |[https://www.vechtstromen.nl](https://www.vechtstromen.nl)| **A+**| **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:-|Home - Vechtstro...|
-|[https://app.vechtstromen.nl](https://app.vechtstromen.nl)| **A+**| **B**|-|:white_check_mark: |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Microsoft ASP.NET:-|The page cannot...|
+|[https://app.vechtstromen.nl](https://app.vechtstromen.nl)| **A+**| **E**|-| | | | | | | :white_check_mark: | :white_check_mark: | |Microsoft ASP.NET:-|500 - Internal s...|
 |[https://www.topdesk.vechtstromen.nl](https://www.topdesk.vechtstromen.nl)| **F**| **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|topdesk.vechtstr...|
 |[http://autodiscover.vechtstromen.nl](http://autodiscover.vechtstromen.nl)| | **B**|Microsoft-IIS/10.0|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server||
 |[https://intranet.vechtstromen.nl](https://intranet.vechtstromen.nl)| **A+**| **B**|-|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:-|Object moved|
@@ -57,7 +57,7 @@ tags: dutchgov
 |[https://werkplek.vechtstromen.nl](https://werkplek.vechtstromen.nl)| **A**| **D**||:warning: | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Microsoft ASP.NET||
 |[https://open.vechtstromen.nl](https://open.vechtstromen.nl)| **A+**| **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Azure Azure Front Door HSTS Microsoft ASP.NET|Home - Vechtstro...|
 |[https://smtp.vechtstromen.nl](https://smtp.vechtstromen.nl)| **F**| **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|404 Not Found|
-|[https://secure.vechtstromen.nl](https://secure.vechtstromen.nl)| **A+**| **B**|Layer7-API-Gateway|:o: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |Fortinet FortiGate HSTS||
+|[https://secure.vechtstromen.nl](https://secure.vechtstromen.nl)| **A+**| **A**|Layer7-API-Gateway| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS||
 |[https://helloid.vechtstromen.nl](https://helloid.vechtstromen.nl)| **A+**| **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |Azure HSTS|Object moved|
 |[https://testkaarten.vechtstromen.nl](https://testkaarten.vechtstromen.nl)| **A**| **E**|| | | | | | | | :white_check_mark: | |||
 |[https://vaultfs.vechtstromen.nl](https://vaultfs.vechtstromen.nl)| **A+**| **A**|nginx/1.25.4| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Amazon S3 Amazon Web Services HSTS Nginx:1.25.4|Psono|
@@ -66,7 +66,7 @@ tags: dutchgov
 |[https://login.vechtstromen.nl](https://login.vechtstromen.nl)| **B**| **B**|| | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |||
 |[https://formulieren.vechtstromen.nl](https://formulieren.vechtstromen.nl)| **A+**| **A**|Microsoft-IIS/10.0| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |IIS:10.0 Windows Server||
 |[https://test.formulieren.vechtstromen.nl](https://test.formulieren.vechtstromen.nl)| **A+**| **A**|Microsoft-IIS/10.0| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |IIS:10.0 Windows Server||
-|[https://securetest.vechtstromen.nl](https://securetest.vechtstromen.nl)| **A+**| **B**|Layer7-API-Gateway|:o: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |Fortinet FortiGate HSTS||
+|[https://securetest.vechtstromen.nl](https://securetest.vechtstromen.nl)| **A+**| **A**|Layer7-API-Gateway| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS||
 |[https://enterpriseenrollment.vechtstromen.nl](https://enterpriseenrollment.vechtstromen.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||
 |[https://enterpriseregistration.vechtstromen.nl](https://enterpriseregistration.vechtstromen.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://geoweb.vechtstromen.nl](https://geoweb.vechtstromen.nl)| | **A**|Microsoft-IIS/10.0| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS IIS:10.0 Microsoft ASP.NET Windows Server|Document Moved|

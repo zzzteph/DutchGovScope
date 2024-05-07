@@ -6,14 +6,14 @@
 
  - **SSL Grade**:A-
  - **HTTP Security Grade**:C
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:31
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:32
 
 
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/dnb.nl/subdomains.txt)|172|Alive subdomains|
-|[urls.txt](/data/dnb.nl/urls.txt)|113|Urls|
-|[all_subdomains.txt](/data/dnb.nl/all_subdomains.txt)|296|All found subdomains (history)|
+|[urls.txt](/data/dnb.nl/urls.txt)|114|Urls|
+|[all_subdomains.txt](/data/dnb.nl/all_subdomains.txt)|297|All found subdomains (history)|
 
 
 ## Statistics
@@ -119,8 +119,8 @@
 |[https://mijnatm.azure.dnb.nl](https://mijnatm.azure.dnb.nl)| **A**| **E**|| | | | | | | | :white_check_mark: | |Bootstrap:5.2.3|Azure Static Web...|
 |[https://tzpubliekscontact-dev.dnb.nl](https://tzpubliekscontact-dev.dnb.nl)| **F**| **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Azure Azure Front Door HSTS|Mijn DNB - Publi...|
 |[https://tzpubliekscontact-tst.dnb.nl](https://tzpubliekscontact-tst.dnb.nl)| **F**| **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Azure Azure Front Door HSTS|Mijn DNB - Publi...|
-|[https://tzpubliekscontact-acc.dnb.nl](https://tzpubliekscontact-acc.dnb.nl)| **A**| **A**|| |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | |Azure Azure Front Door HSTS|Mijn DNB - Publi...|
-|[https://tzpubliekscontact.dnb.nl](https://tzpubliekscontact.dnb.nl)| **F**| **A**|| |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | |Azure Azure Front Door HSTS|Mijn DNB - Publi...|
+|[https://tzpubliekscontact-acc.dnb.nl](https://tzpubliekscontact-acc.dnb.nl)| **A**| **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Azure Azure Front Door HSTS|Mijn DNB - Publi...|
+|[https://tzpubliekscontact.dnb.nl](https://tzpubliekscontact.dnb.nl)| **F**| **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Azure Azure Front Door HSTS|Mijn DNB - Publi...|
 |[https://atender.dnb.nl](https://atender.dnb.nl)| **B**| **E**|| | | | | | | | :white_check_mark: | |Microsoft ASP.NET||
 |[https://apps.sharepoint.dnb.nl](https://apps.sharepoint.dnb.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://enterpriseenrollment.dnb.nl](https://enterpriseenrollment.dnb.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||
@@ -134,4 +134,5 @@
 |[https://tz-organisatiegegevens-dev.dnb.nl](https://tz-organisatiegegevens-dev.dnb.nl)| | **A**|| |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | |Azure Azure Front Door HSTS|Organisation Det...|
 |[https://tz-organisatiegegevens.dnb.nl](https://tz-organisatiegegevens.dnb.nl)| | **E**|| | | | | | | | :white_check_mark: | |Azure Azure Front Door|Page not found|
 |[https://knowledge.sharepoint.dnb.nl](https://knowledge.sharepoint.dnb.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
+|[https://tz-aanvragen-dev.dnb.nl](https://tz-aanvragen-dev.dnb.nl)| | **A**|| |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | |Azure Azure Front Door HSTS|Supervision Appl...|
 

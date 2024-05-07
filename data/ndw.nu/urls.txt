@@ -83,3 +83,4 @@ https://design.staging.ndw.nu
 https://security.ndw.nu
 https://security.staging.ndw.nu
 https://design.ndw.nu
+https://sentry.ndw.nu

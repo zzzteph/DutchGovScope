@@ -13,7 +13,7 @@
 |------------|-------|------|
 |[subdomains.txt](/data/meldknop.nl/subdomains.txt)|107|Alive subdomains|
 |[urls.txt](/data/meldknop.nl/urls.txt)|107|Urls|
-|[all_subdomains.txt](/data/meldknop.nl/all_subdomains.txt)|107|All found subdomains (history)|
+|[all_subdomains.txt](/data/meldknop.nl/all_subdomains.txt)|109|All found subdomains (history)|
 
 
 ## Statistics
@@ -21,7 +21,7 @@
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://www.meldknop.nl](https://www.meldknop.nl)| **A+**| **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS MySQL Nginx PHP WordPress Yoast SEO:22.5|Meldknop.nl - Ie...|
+|[https://www.meldknop.nl](https://www.meldknop.nl)| **A+**| **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS MySQL Nginx PHP WordPress Yoast SEO:22.6|Meldknop.nl - Ie...|
 |[https://corrupt.meldknop.nl](https://corrupt.meldknop.nl)| **F**| **F**|nginx| | | | | | | | :white_check_mark: | |Nginx||
 |[https://66wz.meldknop.nl](https://66wz.meldknop.nl)| **F**| **F**|nginx| | | | | | | | :white_check_mark: | |Nginx||
 |[https://shanghaiershouhuangguanche.meldknop.nl](https://shanghaiershouhuangguanche.meldknop.nl)| **F**| **F**|nginx| | | | | | | | :white_check_mark: | |Nginx||

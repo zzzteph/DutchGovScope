@@ -6,7 +6,6 @@ http://acc-duvo-web-api.rivm.nl
 http://acc-jira.rivm.nl
 https://acc-mijn.rivm.nl
 https://acc-nieuwsbrieven.rivm.nl
-https://acc-sso-osiris.rivm.nl
 https://acc-veldmonitoring.rivm.nl
 http://acc-vtcc.rivm.nl
 http://acceptatie.rivm.nl
@@ -272,4 +271,3 @@ https://acc-lsp.rivm.nl
 https://teebstad-app.rivm.nl
 http://stikstofdepositiedata.rivm.nl
 https://ggdiamdemo.rivm.nl
-http://developer.rivm.nl

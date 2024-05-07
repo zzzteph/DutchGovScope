@@ -29,7 +29,6 @@ https://digikoppeling.waterschaplimburg.nl
 https://metelkaar.waterschaplimburg.nl
 https://redactie.waterschaplimburg.nl
 https://www.waterschaplimburg.nl
-http://test-eef.waterschaplimburg.nl
 https://open.waterschaplimburg.nl
 http://zgw.waterschaplimburg.nl
 http://100www.waterschaplimburg.nl

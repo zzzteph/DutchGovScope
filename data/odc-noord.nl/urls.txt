@@ -3,8 +3,6 @@ https://acc.login.odc-noord.nl
 https://acc.paas-portal.odc-noord.nl
 https://bd-acc.topdesk.odc-noord.nl
 https://bd-prd.topdesk.odc-noord.nl
-https://dci-acc.topdesk.odc-noord.nl
-https://dci-prd.topdesk.odc-noord.nl
 https://doc-direkt-acc.topdesk.odc-noord.nl
 https://doc-direkt-prd.topdesk.odc-noord.nl
 https://docdirekt-ont-va.topdesk.odc-noord.nl
@@ -15,16 +13,12 @@ https://duo-ont2.topdesk.odc-noord.nl
 https://duo-prd.topdesk.odc-noord.nl
 https://duo-prd2.topdesk.odc-noord.nl
 https://duo2-acc.topdesk.odc-noord.nl
-https://duo2-ont.topdesk.odc-noord.nl
-https://duo2-prd.topdesk.odc-noord.nl
 https://iaas-portal.odc-noord.nl
 https://iam.odc-noord.nl
 https://idp.sandbox.odc-noord.nl
 https://iene-acc.topdesk.odc-noord.nl
 https://iene-prd.topdesk.odc-noord.nl
-https://ilt-acc.confluence.odc-noord.nl
 https://ilt-acc.topdesk.odc-noord.nl
-https://ilt-prd.confluence.odc-noord.nl
 https://ilt-prd.topdesk.odc-noord.nl
 https://iucn-acc.topdesk.odc-noord.nl
 https://iucn-prd.topdesk.odc-noord.nl

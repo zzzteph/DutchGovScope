@@ -233,7 +233,7 @@ https://water.omgevingswet.overheid.nl
 https://wetgeving.omgevingswet.overheid.nl
 https://wetgeving.pre.omgevingswet.overheid.nl
 https://wetgevingskalender.overheid.nl
-http://wetten.overheid.nl
+https://wetten.overheid.nl
 https://wetten-acc.overheid.nl
 https://wettenpocket-acc.overheid.nl
 https://wordimport.drop.overheid.nl

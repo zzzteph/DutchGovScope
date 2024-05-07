@@ -11,7 +11,7 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/cocreatesa.nl/subdomains.txt)|1261|Alive subdomains|
+|[subdomains.txt](/data/cocreatesa.nl/subdomains.txt)|1337|Alive subdomains|
 |[urls.txt](/data/cocreatesa.nl/urls.txt)|1261|Urls|
 |[all_subdomains.txt](/data/cocreatesa.nl/all_subdomains.txt)|1387|All found subdomains (history)|
 
@@ -21,8 +21,8 @@
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://cocreatesa.nl](https://cocreatesa.nl)| | **F**|nginx/1.24.0| | | | | | | | :white_check_mark: | |Nginx:1.24.0 PHP:8.1.27|WordPress › Erro...|
-|[https://www.cocreatesa.nl](https://www.cocreatesa.nl)| | **F**|nginx/1.24.0| | | | | | | | :white_check_mark: | |Nginx:1.24.0 PHP:8.1.27|WordPress › Erro...|
+|[https://cocreatesa.nl](https://cocreatesa.nl)| | **F**|nginx/1.24.0| | | | | | | | :white_check_mark: | |Nginx:1.24.0 PHP:8.1.28|WordPress › Erro...|
+|[https://www.cocreatesa.nl](https://www.cocreatesa.nl)| | **F**|nginx/1.24.0| | | | | | | | :white_check_mark: | |Nginx:1.24.0 PHP:8.1.28|WordPress › Erro...|
 |[https://webmail.cocreatesa.nl](https://webmail.cocreatesa.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|301 Moved Perman...|
 |[https://mt.cocreatesa.nl](https://mt.cocreatesa.nl)| | **F**|nginx/1.24.0| | | | | | | | :white_check_mark: | |Nginx:1.24.0|Hostnet: Uw dome...|
 |[https://installer.cocreatesa.nl](https://installer.cocreatesa.nl)| | **F**|nginx/1.24.0| | | | | | | | :white_check_mark: | |Nginx:1.24.0|Hostnet: Uw dome...|

@@ -21,12 +21,12 @@
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://pv.zorgverzekeringslijn.nl](https://pv.zorgverzekeringslijn.nl)| **A+**| **F**|nginx| | | | | | | | :white_check_mark: | |HSTS Nginx||
+|[https://pv.zorgverzekeringslijn.nl](https://pv.zorgverzekeringslijn.nl)| **A+**| **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://test.zorgverzekeringslijn.nl](https://test.zorgverzekeringslijn.nl)| **A**| **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server Basic|401 Unauthorized|
 |[https://test.trainingen.zorgverzekeringslijn.nl](https://test.trainingen.zorgverzekeringslijn.nl)| **A**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Nginx|Redirecting to h...|
 |[https://trainingen.zorgverzekeringslijn.nl](https://trainingen.zorgverzekeringslijn.nl)| **A**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Nginx|Redirecting to h...|
 |[https://wiki.zorgverzekeringslijn.nl](https://wiki.zorgverzekeringslijn.nl)| **B**| **F**|nginx|:white_check_mark: | | | | | | | :white_check_mark: | |Nginx|Test Page for th...|
-|[https://www.zorgverzekeringslijn.nl](https://www.zorgverzekeringslijn.nl)| **A+**| **A**|Apache| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Apache HTTP Server Google Tag Manager HSTS MySQL PHP WordPress:6.4.4 Yoast SEO:22.3|Zorgverzekerings...|
+|[https://www.zorgverzekeringslijn.nl](https://www.zorgverzekeringslijn.nl)| **A+**| **A**|Apache| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Apache HTTP Server Google Tag Manager HSTS MySQL PHP WordPress:6.5.2 Yoast SEO:22.5|Zorgverzekerings...|
 |[https://zorgverzekeringslijn.nl](https://zorgverzekeringslijn.nl)| **A+**| **A**|Apache| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Apache HTTP Server HSTS|301 Moved Perman...|
 |[http://autodiscover.zorgverzekeringslijn.nl](http://autodiscover.zorgverzekeringslijn.nl)| | **B**|Microsoft-IIS/10.0|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server||
 |[https://enterpriseenrollment.zorgverzekeringslijn.nl](https://enterpriseenrollment.zorgverzekeringslijn.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||

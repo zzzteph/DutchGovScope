@@ -2,8 +2,8 @@
 layout: default
 title: "stopheling.nl"
 permalink: "/dutchgov/stopheling.nl.html"
-subdomains_count: 19
-all_subdomains_count: 33
+subdomains_count: 20
+all_subdomains_count: 34
 urls_count: 17
 ssl_rank: A-
 http_rank: D
@@ -27,9 +27,9 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/stopheling.nl/subdomains.txt)|19|Alive subdomains|
+|[subdomains.txt](/DutchGovScope/data/stopheling.nl/subdomains.txt)|20|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/stopheling.nl/urls.txt)|17|Urls|
-|[all_subdomains.txt](/DutchGovScope/data/stopheling.nl/all_subdomains.txt)|33|All found subdomains (history)|
+|[all_subdomains.txt](/DutchGovScope/data/stopheling.nl/all_subdomains.txt)|34|All found subdomains (history)|
 
 
 ## Statistics

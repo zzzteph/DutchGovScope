@@ -5,6 +5,7 @@ https://gemeenten.svb.nl
 http://cb.entreepgb.svb.nl
 https://secure5.svb.nl
 https://rdsapplications07.svb.nl
+https://rdsapplications08.svb.nl
 https://leveranciersvdi.svb.nl
 https://www.svb.nl
 https://mijnsvb.svb.nl
@@ -16,6 +17,7 @@ https://pgbverwerkingservice.entreepgb.svb.nl
 https://app.svb.nl
 https://mft-acc.svb.nl
 https://app-o.svb.nl
+https://rdsapplications10.svb.nl
 https://onderzoek.svb.nl
 https://apps.svb.nl
 https://rdsapplications00.svb.nl
@@ -50,8 +52,6 @@ https://assyst.svb.nl
 https://mydev.svb.nl
 https://svb.nl
 https://mydesktop.svb.nl
-https://mta-a.svb.nl
-https://mta-p.svb.nl
 https://autodiscover.svb.nl
 https://mft-prd.svb.nl
 https://mijntpw.svb.nl

@@ -11,7 +11,7 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/ssc-ict.nl/subdomains.txt)|43|Alive subdomains|
+|[subdomains.txt](/data/ssc-ict.nl/subdomains.txt)|42|Alive subdomains|
 |[urls.txt](/data/ssc-ict.nl/urls.txt)|10|Urls|
 |[all_subdomains.txt](/data/ssc-ict.nl/all_subdomains.txt)|68|All found subdomains (history)|
 

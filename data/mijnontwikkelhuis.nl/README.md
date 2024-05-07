@@ -21,6 +21,6 @@
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[http://www.mijnontwikkelhuis.nl](http://www.mijnontwikkelhuis.nl)| **A+**| **B**|Microsoft-Azure-Application-Gateway/v2|:white_check_mark: |:white_check_mark: | | |:warning: | | :white_check_mark: | :white_check_mark: | |HSTS|301 Moved Perman...|
-|[http://mijnontwikkelhuis.nl](http://mijnontwikkelhuis.nl)| **A**| **B**|Microsoft-Azure-Application-Gateway/v2|:white_check_mark: |:white_check_mark: | | |:warning: | | :white_check_mark: | :white_check_mark: | |IIS:10.0 Windows Server|301 Moved Perman...|
+|[https://www.mijnontwikkelhuis.nl](https://www.mijnontwikkelhuis.nl)| **A+**| **B**|Class|:white_check_mark: |:white_check_mark: | | |:warning: | | :white_check_mark: | :white_check_mark: | |HSTS||
+|[https://mijnontwikkelhuis.nl](https://mijnontwikkelhuis.nl)| **A**| **B**|Microsoft-IIS/10.0|:white_check_mark: |:white_check_mark: | | |:warning: | | :white_check_mark: | :white_check_mark: | |IIS:10.0 Windows Server|Document Moved|
 

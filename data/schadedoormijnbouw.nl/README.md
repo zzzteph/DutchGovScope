@@ -11,7 +11,7 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/schadedoormijnbouw.nl/subdomains.txt)|9|Alive subdomains|
+|[subdomains.txt](/data/schadedoormijnbouw.nl/subdomains.txt)|10|Alive subdomains|
 |[urls.txt](/data/schadedoormijnbouw.nl/urls.txt)|5|Urls|
 |[all_subdomains.txt](/data/schadedoormijnbouw.nl/all_subdomains.txt)|32|All found subdomains (history)|
 

@@ -12,7 +12,7 @@
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/officielebekendmakingen.nl/subdomains.txt)|28|Alive subdomains|
-|[urls.txt](/data/officielebekendmakingen.nl/urls.txt)|15|Urls|
+|[urls.txt](/data/officielebekendmakingen.nl/urls.txt)|17|Urls|
 |[all_subdomains.txt](/data/officielebekendmakingen.nl/all_subdomains.txt)|70|All found subdomains (history)|
 
 
@@ -35,5 +35,7 @@
 |[https://officielebekendmakingen.nl](https://officielebekendmakingen.nl)| **A+**| **A**|BigIP|:warning: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |F5 BigIP HSTS||
 |[https://zoek-preprod.officielebekendmakingen.nl](https://zoek-preprod.officielebekendmakingen.nl)| **A+**| **C**||:warning: |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS||
 |[https://www-preprod.officielebekendmakingen.nl](https://www-preprod.officielebekendmakingen.nl)| **A+**| **C**||:warning: |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS Microsoft ASP.NET|Zoeken in alle d...|
+|[https://zoek-acc.officielebekendmakingen.nl](https://zoek-acc.officielebekendmakingen.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|403 Forbidden|
+|[https://www-acc.officielebekendmakingen.nl](https://www-acc.officielebekendmakingen.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|403 Forbidden|
 |[http://localhost.officielebekendmakingen.nl](http://localhost.officielebekendmakingen.nl)| | **F**|nginx| | | :warning:| | | | | :white_check_mark: | |Nginx|(404 Not Found)|
 

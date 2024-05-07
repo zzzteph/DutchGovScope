@@ -2,12 +2,12 @@
 layout: default
 title: "irealisatie.nl"
 permalink: "/dutchgov/irealisatie.nl.html"
-subdomains_count: 39
-all_subdomains_count: 42
-urls_count: 34
+subdomains_count: 41
+all_subdomains_count: 48
+urls_count: 36
 ssl_rank: 
 http_rank: B
-security_txt: 25
+security_txt: 27
 url_link: /data/irealisatie.nl/urls.txt
 all_subdomains_link: /data/irealisatie.nl/all_subdomains.txt
 subdomains_link: /data/irealisatie.nl/subdomains.txt
@@ -22,14 +22,14 @@ tags: dutchgov
 
  - **SSL Grade**:
  - **HTTP Security Grade**:B
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:25
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:27
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/irealisatie.nl/subdomains.txt)|39|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/irealisatie.nl/urls.txt)|34|Urls|
-|[all_subdomains.txt](/DutchGovScope/data/irealisatie.nl/all_subdomains.txt)|42|All found subdomains (history)|
+|[subdomains.txt](/DutchGovScope/data/irealisatie.nl/subdomains.txt)|41|Alive subdomains|
+|[urls.txt](/DutchGovScope/data/irealisatie.nl/urls.txt)|36|Urls|
+|[all_subdomains.txt](/DutchGovScope/data/irealisatie.nl/all_subdomains.txt)|48|All found subdomains (history)|
 
 
 ## Statistics
@@ -40,14 +40,14 @@ tags: dutchgov
 |[https://balie.woo.irealisatie.nl](https://balie.woo.irealisatie.nl)| | **B**|Apache| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server Basic HSTS|401 Unauthorized|
 |[https://helpdesk.acc.irealisatie.nl](https://helpdesk.acc.irealisatie.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS||
 |[http://login.irealisatie.nl](http://login.irealisatie.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||
-|[https://stats.irealisatie.nl](https://stats.irealisatie.nl)| | **B**|nginx|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |AngularJS HSTS Matomo Analytics Nginx|Sign in - Matomo|
+|[https://stats.irealisatie.nl](https://stats.irealisatie.nl)| | **B**|nginx|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS Nginx|Matomo › Error|
 |[https://vpn.irealisatie.nl](https://vpn.irealisatie.nl)| | **A**|Apache| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS||
 |[https://static.test.dpr.irealisatie.nl](https://static.test.dpr.irealisatie.nl)| | **B**|Apache| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS Hugo:0.124.1|Verwerkingsregis...|
 |[https://web.test.dpr.irealisatie.nl](https://web.test.dpr.irealisatie.nl)| | **B**|Apache| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server Basic HSTS|401 Unauthorized|
 |[https://helpdesk.irealisatie.nl](https://helpdesk.irealisatie.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Ruby Ruby on Rails|iRealisatie Help...|
-|[https://www.irealisatie.nl](https://www.irealisatie.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS|iRealisatie  - W...|
+|[https://www.irealisatie.nl](https://www.irealisatie.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS|iRealisatie  - S...|
 |[https://nextcloud.irealisatie.nl](https://nextcloud.irealisatie.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nextcloud PHP||
-|[https://irealisatie.nl](https://irealisatie.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS|iRealisatie  - W...|
+|[https://irealisatie.nl](https://irealisatie.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS|iRealisatie  - S...|
 |[https://collabora.irealisatie.nl](https://collabora.irealisatie.nl)| | **F**|COOLWSD HTTP Server 23.05.10.1| | | | | | | | :white_check_mark: | |||
 |[http://acc.irealisatie.nl](http://acc.irealisatie.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[http://gitea.irealisatie.nl](http://gitea.irealisatie.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
@@ -71,4 +71,6 @@ tags: dutchgov
 |[http://test.mgo.irealisatie.nl](http://test.mgo.irealisatie.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://app-api.test.mgo.irealisatie.nl](https://app-api.test.mgo.irealisatie.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS||
 |[https://balie.dpr.irealisatie.nl](https://balie.dpr.irealisatie.nl)| | **B**|Apache| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server Basic HSTS|401 Unauthorized|
+|[https://start.test.dusi.irealisatie.nl](https://start.test.dusi.irealisatie.nl)| | **A**|Apache| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS||
+|[https://start.acc.dusi.irealisatie.nl](https://start.acc.dusi.irealisatie.nl)| | **A**|Apache| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS||
 

@@ -6,13 +6,13 @@
 
  - **SSL Grade**:A+
  - **HTTP Security Grade**:C
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:5
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:6
 
 
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/waardigheidentrots.nl/subdomains.txt)|9|Alive subdomains|
-|[urls.txt](/data/waardigheidentrots.nl/urls.txt)|8|Urls|
+|[urls.txt](/data/waardigheidentrots.nl/urls.txt)|9|Urls|
 |[all_subdomains.txt](/data/waardigheidentrots.nl/all_subdomains.txt)|17|All found subdomains (history)|
 
 
@@ -29,4 +29,5 @@
 |[https://registratie.waardigheidentrots.nl](https://registratie.waardigheidentrots.nl)| | **A**|nginx|:white_check_mark: |:white_check_mark: | | | :white_check_mark:| | :white_check_mark: | :white_check_mark: | |Amazon S3 Amazon Web Services HSTS Nginx PHP|Congres Waardigh...|
 |[https://api.waardigheidentrots.nl](https://api.waardigheidentrots.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Web App - Unavai...|
 |[https://cms.waardigheidentrots.nl](https://cms.waardigheidentrots.nl)| | **F**||:white_check_mark: | | :warning:| | | | | :white_check_mark: | |Azure||
+|[https://m906.waardigheidentrots.nl](https://m906.waardigheidentrots.nl)| | **E**|-|:o: | | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Amazon ALB Amazon CloudFront Amazon Web Services||
 

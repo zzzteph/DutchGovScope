@@ -32,3 +32,5 @@ http://acme.proeftuin.uzi-online.irealisatie.nl
 http://test.mgo.irealisatie.nl
 https://app-api.test.mgo.irealisatie.nl
 https://balie.dpr.irealisatie.nl
+https://start.test.dusi.irealisatie.nl
+https://start.acc.dusi.irealisatie.nl

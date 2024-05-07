@@ -2,3 +2,9 @@ atkm.nl
 opendata.atkm.nl
 www.atkm.nl
 feeds.atkm.nl
+a-feeds.atkm.nl
+a-opendata.atkm.nl
+a-www.atkm.nl
+autodiscover.atkm.nl
+enterpriseenrollment.atkm.nl
+enterpriseregistration.atkm.nl

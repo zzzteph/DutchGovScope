@@ -4,7 +4,7 @@ title: "huurcommissie.nl"
 permalink: "/dutchgov/huurcommissie.nl.html"
 subdomains_count: 45
 all_subdomains_count: 65
-urls_count: 19
+urls_count: 21
 ssl_rank: A+
 http_rank: C
 security_txt: 7
@@ -28,7 +28,7 @@ tags: dutchgov
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/DutchGovScope/data/huurcommissie.nl/subdomains.txt)|45|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/huurcommissie.nl/urls.txt)|19|Urls|
+|[urls.txt](/DutchGovScope/data/huurcommissie.nl/urls.txt)|21|Urls|
 |[all_subdomains.txt](/DutchGovScope/data/huurcommissie.nl/all_subdomains.txt)|65|All found subdomains (history)|
 
 
@@ -55,5 +55,7 @@ tags: dutchgov
 |[https://enterpriseregistration.huurcommissie.nl](https://enterpriseregistration.huurcommissie.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://msoid.huurcommissie.nl](https://msoid.huurcommissie.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Object moved|
 |[https://vpn.huurcommissie.nl](https://vpn.huurcommissie.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
+|[https://scansys.huurcommissie.nl](https://scansys.huurcommissie.nl)| | **A**|Microsoft-IIS/10.0|:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS IIS:10.0 Windows Server|ImageCapture - L...|
+|[https://shopper.huurcommissie.nl](https://shopper.huurcommissie.nl)| | **F**|Microsoft-IIS/10.0| | | | | | | | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET SPNEGO Windows Server||
 |[https://sumatra.huurcommissie.nl](https://sumatra.huurcommissie.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
 

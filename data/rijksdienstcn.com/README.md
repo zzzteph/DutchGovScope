@@ -6,7 +6,7 @@
 
  - **SSL Grade**:A
  - **HTTP Security Grade**:B
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:11
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:12
 
 
 | File       | Count | Info |
@@ -24,7 +24,7 @@
 |[https://english.rijksdienstcn.com](https://english.rijksdienstcn.com)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Home | Rijksdien...|
 |[https://www.rijksdienstcn.com](https://www.rijksdienstcn.com)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Home | Rijksdien...|
 |[https://vpnbon.rijksdienstcn.com](https://vpnbon.rijksdienstcn.com)| **B**| **F**|xxxxxxxx-xxxxx| | | | | | | | :white_check_mark: | |HSTS||
-|[https://fs.rijksdienstcn.com](https://fs.rijksdienstcn.com)| **B**| **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Service Unavaila...|
+|[https://fs.rijksdienstcn.com](https://fs.rijksdienstcn.com)| **B**| **E**|Microsoft-HTTPAPI/2.0| | | | | | :white_check_mark: | | :white_check_mark: | |Microsoft HTTPAPI:2.0||
 |[https://papiamentu.rijksdienstcn.com](https://papiamentu.rijksdienstcn.com)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Home | Rijksdien...|
 |[https://feeds.papiamentu.rijksdienstcn.com](https://feeds.papiamentu.rijksdienstcn.com)| **A+**| **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://portal.rijksdienstcn.com](https://portal.rijksdienstcn.com)| | **F**|xxxxxxxx-xxxxx| | | | | | | | :white_check_mark: | |HSTS||

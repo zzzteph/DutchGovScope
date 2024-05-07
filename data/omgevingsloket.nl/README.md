@@ -4,15 +4,15 @@
 ## Summary data
 
 
- - **SSL Grade**:C
+ - **SSL Grade**:D
  - **HTTP Security Grade**:B
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:5
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:4
 
 
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/omgevingsloket.nl/subdomains.txt)|51|Alive subdomains|
-|[urls.txt](/data/omgevingsloket.nl/urls.txt)|12|Urls|
+|[urls.txt](/data/omgevingsloket.nl/urls.txt)|11|Urls|
 |[all_subdomains.txt](/data/omgevingsloket.nl/all_subdomains.txt)|76|All found subdomains (history)|
 
 
@@ -27,7 +27,6 @@
 |[https://gw-shr.omgevingsloket.nl](https://gw-shr.omgevingsloket.nl)| | **A**|Apache| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS|User Portal|
 |[https://inr.omgevingsloket.nl](https://inr.omgevingsloket.nl)| | **A**|Apache| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS|Omgevingsloket o...|
 |[https://intake.omgevingsloket.nl](https://intake.omgevingsloket.nl)| **F**| **A**|Apache| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS|Omgevingsloket o...|
-|[https://olo-a-elk.omgevingsloket.nl](https://olo-a-elk.omgevingsloket.nl)| **A**| **E**|nginx/1.20.1| | | | |:warning: | | | :white_check_mark: | |Nginx:1.20.1||
 |[https://sao.omgevingsloket.nl](https://sao.omgevingsloket.nl)| | **A**|Apache| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS|Omgevingsloket o...|
 |[https://tao.omgevingsloket.nl](https://tao.omgevingsloket.nl)| | **A**|Apache| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS|Omgevingsloket o...|
 |[https://www.omgevingsloket.nl](https://www.omgevingsloket.nl)| | **A**|Apache| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS|Omgevingsloket o...|

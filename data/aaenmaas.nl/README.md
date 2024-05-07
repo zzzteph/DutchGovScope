@@ -33,8 +33,8 @@
 |[https://login.aaenmaas.nl](https://login.aaenmaas.nl)| **A+**| **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |||
 |[https://oa.aaenmaas.nl](https://oa.aaenmaas.nl)| **A**| **E**|| | | | | | | | :white_check_mark: | |||
 |[https://webmail.aaenmaas.nl](https://webmail.aaenmaas.nl)| **F**| **F**|Microsoft-IIS/10.0| | | | | | | | :white_check_mark: | |HSTS IIS:10.0 Microsoft ASP.NET Windows Server||
-|[https://testeloket.aaenmaas.nl](https://testeloket.aaenmaas.nl)| **A+**| **A**|unspecified|:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache Tomcat Fourthwall:1.0.195.057 Fourthwall:eloket_ui_main-2024.086.001 HSTS Java MariaDB Skolengo:1.0.195.057|Djuma portal|
-|[https://meet.aaenmaas.nl](https://meet.aaenmaas.nl)| **A+**| **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|Skype for Busine...|
+|[https://testeloket.aaenmaas.nl](https://testeloket.aaenmaas.nl)| **A+**| **A**|unspecified|:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache Tomcat Fourthwall:1.0.196.092 Fourthwall:eloket_ui_main-2024.110.001 HSTS Java MariaDB Skolengo:1.0.196.092|Djuma portal|
+|[http://meet.aaenmaas.nl](http://meet.aaenmaas.nl)| **A+**| **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|Document Moved|
 |[https://dialin.aaenmaas.nl](https://dialin.aaenmaas.nl)| **A+**| **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|Conferencing Dia...|
 |[https://eloket.aaenmaas.nl](https://eloket.aaenmaas.nl)| **A+**| **A**|unspecified|:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache Tomcat Fourthwall:1.0.195.057 Fourthwall:eloket_ui_main-2024.086.001 HSTS Java MariaDB Skolengo:1.0.195.057|Djuma portal|
 |[https://amira.aaenmaas.nl](https://amira.aaenmaas.nl)| | **A**||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |||

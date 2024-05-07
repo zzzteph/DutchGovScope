@@ -37,7 +37,7 @@ tags: dutchgov
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://vraagje.doeonbeperktmee.nl](https://vraagje.doeonbeperktmee.nl)| **A**| **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|Onbeperkt meedoe...|
+|[https://vraagje.doeonbeperktmee.nl](https://vraagje.doeonbeperktmee.nl)| **A**| **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|Vraagje | Onbepe...|
 |[https://deploy-vraagje.doeonbeperktmee.nl](https://deploy-vraagje.doeonbeperktmee.nl)| **A**| **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|403 Forbidden|
 |[https://doeonbeperktmee.nl](https://doeonbeperktmee.nl)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
 |[https://feeds.doeonbeperktmee.nl](https://feeds.doeonbeperktmee.nl)| **A+**| **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||

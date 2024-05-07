@@ -4,7 +4,7 @@ title: "h-i-ambacht.nl"
 permalink: "/dutchgov/h-i-ambacht.nl.html"
 subdomains_count: 21
 all_subdomains_count: 29
-urls_count: 20
+urls_count: 21
 ssl_rank: A
 http_rank: A
 security_txt: 9
@@ -28,7 +28,7 @@ tags: dutchgov
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/DutchGovScope/data/h-i-ambacht.nl/subdomains.txt)|21|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/h-i-ambacht.nl/urls.txt)|20|Urls|
+|[urls.txt](/DutchGovScope/data/h-i-ambacht.nl/urls.txt)|21|Urls|
 |[all_subdomains.txt](/DutchGovScope/data/h-i-ambacht.nl/all_subdomains.txt)|29|All found subdomains (history)|
 
 
@@ -57,4 +57,5 @@ tags: dutchgov
 |[https://rxlaunch-signicat-preprod.h-i-ambacht.nl](https://rxlaunch-signicat-preprod.h-i-ambacht.nl)| **A+**| **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
 |[http://vergunningintaker.h-i-ambacht.nl](http://vergunningintaker.h-i-ambacht.nl)| **A+**| **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Express HSTS Node.js||
 |[https://vthbroker.h-i-ambacht.nl](https://vthbroker.h-i-ambacht.nl)| **A+**| **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
+|[https://omgevingsvisie.h-i-ambacht.nl](https://omgevingsvisie.h-i-ambacht.nl)| **A+**| **C**|Apache| |:white_check_mark: | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|Omgevingsvisie H...|
 

@@ -6,7 +6,7 @@
 
  - **SSL Grade**:B+
  - **HTTP Security Grade**:B
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:9
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:10
 
 
 | File       | Count | Info |
@@ -21,7 +21,7 @@
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://analytics.cjib.nl](https://analytics.cjib.nl)| **B**| **F**|nginx/1.21.6| | | | | | | | :white_check_mark: | |AngularJS HSTS Matomo Analytics Nginx:1.21.6|Sign in - Matomo|
+|[https://analytics.cjib.nl](https://analytics.cjib.nl)| **B**| **B**|nginx/1.21.6|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |AngularJS HSTS Matomo Analytics Nginx:1.21.6|Sign in - Matomo|
 |[https://analytics-acc.cjib.nl](https://analytics-acc.cjib.nl)| **B**| **B**|nginx/1.21.6|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS Nginx:1.21.6|Matomo › Error|
 |[https://autodiscover.cjib.nl](https://autodiscover.cjib.nl)| **B**| **C**|Microsoft-IIS/10.0| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS IIS:10.0 Windows Server||
 |[https://binnenplein.cjib.nl](https://binnenplein.cjib.nl)| **A**| **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|403 Forbidden|
@@ -29,7 +29,7 @@
 |[https://businessportaal-acc.cjib.nl](https://businessportaal-acc.cjib.nl)| **B**| **A**|Apache|:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
 |[https://digitaalloket.cjib.nl](https://digitaalloket.cjib.nl)| **B**| **A**|Apache|:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
 |[https://digitaalloket-acc.cjib.nl](https://digitaalloket-acc.cjib.nl)| **B**| **A**|Apache|:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
-|[https://dsp.cjib.nl](https://dsp.cjib.nl)| **B**| **A**|| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS Oracle Dynamic Monitoring Service Oracle WebLogic Server|302 Moved Tempor...|
+|[https://dsp.cjib.nl](https://dsp.cjib.nl)| **B**| **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Oracle Dynamic Monitoring Service Oracle WebLogic Server|302 Moved Tempor...|
 |[https://lyncdiscover.cjib.nl](https://lyncdiscover.cjib.nl)| **A+**| **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |Azure HSTS||
 |[https://mail.cjib.nl](https://mail.cjib.nl)| **B**| **C**|Microsoft-IIS/10.0| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS IIS:10.0 Windows Server||
 |[https://pay.cjib.nl](https://pay.cjib.nl)| **B**| **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||

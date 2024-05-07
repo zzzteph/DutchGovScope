@@ -22,7 +22,7 @@
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[https://20201103.toezichtfestival.nl](https://20201103.toezichtfestival.nl)| **F**| **F**|Apache/2| | | | | | | | :white_check_mark: | |Apache HTTP Server:2|403 Forbidden|
-|[https://app.toezichtfestival.nl](https://app.toezichtfestival.nl)| **A+**| **A**|Apache/2|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server:2 Bootstrap HSTS|Home - Toezicht...|
+|[https://app.toezichtfestival.nl](https://app.toezichtfestival.nl)| **A+**| **B**|Apache/2|:white_check_mark: |:white_check_mark: | :warning:| |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server:2 Bootstrap HSTS|Spitz App|
 |[https://app2019.toezichtfestival.nl](https://app2019.toezichtfestival.nl)| **F**| **F**|Apache/2| | | | | | | | :white_check_mark: | |Apache HTTP Server:2|403 Forbidden|
 |[https://app2020.toezichtfestival.nl](https://app2020.toezichtfestival.nl)| **F**| **F**|Apache/2| | | | | | | | :white_check_mark: | |Apache HTTP Server:2|403 Forbidden|
 |[https://app2022.toezichtfestival.nl](https://app2022.toezichtfestival.nl)| **F**| **F**|Apache/2| | | | | | | | :white_check_mark: | |Apache HTTP Server:2|403 Forbidden|

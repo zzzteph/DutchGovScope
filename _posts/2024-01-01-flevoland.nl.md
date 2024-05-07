@@ -4,10 +4,10 @@ title: "flevoland.nl"
 permalink: "/dutchgov/flevoland.nl.html"
 subdomains_count: 105
 all_subdomains_count: 223
-urls_count: 76
+urls_count: 77
 ssl_rank: A-
 http_rank: C
-security_txt: 24
+security_txt: 25
 url_link: /data/flevoland.nl/urls.txt
 all_subdomains_link: /data/flevoland.nl/all_subdomains.txt
 subdomains_link: /data/flevoland.nl/subdomains.txt
@@ -22,13 +22,13 @@ tags: dutchgov
 
  - **SSL Grade**:A-
  - **HTTP Security Grade**:C
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:24
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:25
 
 
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/DutchGovScope/data/flevoland.nl/subdomains.txt)|105|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/flevoland.nl/urls.txt)|76|Urls|
+|[urls.txt](/DutchGovScope/data/flevoland.nl/urls.txt)|77|Urls|
 |[all_subdomains.txt](/DutchGovScope/data/flevoland.nl/all_subdomains.txt)|223|All found subdomains (history)|
 
 
@@ -62,6 +62,7 @@ tags: dutchgov
 |[http://uworktest.flevoland.nl](http://uworktest.flevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://www.begroting2020.flevoland.nl](https://www.begroting2020.flevoland.nl)| **F**| **E**|| | | | | | | | :white_check_mark: | ||Microsoft Azure...|
 |[https://pushmail.flevoland.nl](https://pushmail.flevoland.nl)| **A+**| **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |||
+|[http://test-intranet.flevoland.nl](http://test-intranet.flevoland.nl)| **A+**| **A**||:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://geo.flevoland.nl](https://geo.flevoland.nl)| **B**| **F**|Microsoft-IIS/10.0| | | | | | | | :white_check_mark: | |IIS:10.0 Windows Server|403 - Forbidden:...|
 |[https://desktop.flevoland.nl](https://desktop.flevoland.nl)| **A**| **B**|| | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |||
 |[https://historische-luchtfoto.flevoland.nl](https://historische-luchtfoto.flevoland.nl)| **B**| **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu|301 Moved Perman...|
@@ -104,7 +105,7 @@ tags: dutchgov
 |[https://georegister.flevoland.nl](https://georegister.flevoland.nl)| **A+**| **A**|Apache|:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
 |[https://georegister-intern.flevoland.nl](https://georegister-intern.flevoland.nl)| **A+**| **A**|Apache|:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
 |[https://eloket.flevoland.nl](https://eloket.flevoland.nl)| **A+**| **A**|unspecified|:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache Tomcat Fourthwall:1.0.195.057 Fourthwall:eloket_ui_main-2024.086.001 HSTS Java MariaDB Skolengo:1.0.195.057|Djuma portal|
-|[https://testeloket.flevoland.nl](https://testeloket.flevoland.nl)| **A+**| **A**|unspecified|:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache Tomcat Fourthwall:1.0.195.057 Fourthwall:eloket_ui_main-2024.086.001 HSTS Java MariaDB Skolengo:1.0.195.057|Djuma portal|
+|[https://testeloket.flevoland.nl](https://testeloket.flevoland.nl)| **A+**| **A**|unspecified|:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache Tomcat Fourthwall:1.0.196.092 Fourthwall:eloket_ui_main-2024.110.001 HSTS Java MariaDB Skolengo:1.0.196.092|Djuma portal|
 |[https://testmonitorwonen.flevoland.nl](https://testmonitorwonen.flevoland.nl)| **A**| **F**|Microsoft-IIS/10.0| | | | | | | | :white_check_mark: | |IIS:10.0 React Windows Server|Planregistratie...|
 |[http://pki.flevoland.nl](http://pki.flevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[http://autodiscover.test.flevoland.nl](http://autodiscover.test.flevoland.nl)| | **A**|Microsoft-IIS/10.0| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server||

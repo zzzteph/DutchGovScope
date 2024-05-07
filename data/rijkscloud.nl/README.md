@@ -5,14 +5,14 @@
 
 
  - **SSL Grade**:A+
- - **HTTP Security Grade**:B
+ - **HTTP Security Grade**:C
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:45
 
 
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/rijkscloud.nl/subdomains.txt)|547|Alive subdomains|
-|[urls.txt](/data/rijkscloud.nl/urls.txt)|141|Urls|
+|[urls.txt](/data/rijkscloud.nl/urls.txt)|158|Urls|
 |[all_subdomains.txt](/data/rijkscloud.nl/all_subdomains.txt)|743|All found subdomains (history)|
 
 
@@ -155,8 +155,25 @@
 |[https://ip.test.duo.rijkscloud.nl](https://ip.test.duo.rijkscloud.nl)| **A**| **E**|| | | | | | | | :white_check_mark: | |||
 |[https://rstudio.ip.test.duo.rijkscloud.nl](https://rstudio.ip.test.duo.rijkscloud.nl)| **A+**| **C**|RStudio| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
 |[https://projects.pages.ds-ocw.rijkscloud.nl](https://projects.pages.ds-ocw.rijkscloud.nl)| **A+**| **A**|nginx|:warning: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
+|[https://codeserver.test.ix.rijkscloud.nl](https://codeserver.test.ix.rijkscloud.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
+|[https://nifi.test.ix.rijkscloud.nl](https://nifi.test.ix.rijkscloud.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
+|[https://pgadmin.test.ix.rijkscloud.nl](https://pgadmin.test.ix.rijkscloud.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
+|[https://rstudio.test.ix.rijkscloud.nl](https://rstudio.test.ix.rijkscloud.nl)| | **C**|RStudio| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
+|[https://jupyter.test.ix.rijkscloud.nl](https://jupyter.test.ix.rijkscloud.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
+|[https://keycloak.test.ix.rijkscloud.nl](https://keycloak.test.ix.rijkscloud.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Welcome to Keycl...|
+|[https://gitlab.test.ix.rijkscloud.nl](https://gitlab.test.ix.rijkscloud.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
+|[https://shiny.test.ix.rijkscloud.nl](https://shiny.test.ix.rijkscloud.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
+|[https://sonarqube.test.ix.rijkscloud.nl](https://sonarqube.test.ix.rijkscloud.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
+|[https://registry.gitlab.test.ix.rijkscloud.nl](https://registry.gitlab.test.ix.rijkscloud.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://documentation.ix.rijkscloud.nl](https://documentation.ix.rijkscloud.nl)| | **C**|Apache| |:white_check_mark: | | | | | | :white_check_mark: | |Apache HTTP Server HSTS Hugo:0.58.1|Home :: PaaS-Lin...|
+|[https://nexus.test.ix.rijkscloud.nl](https://nexus.test.ix.rijkscloud.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
+|[https://dashboards.test.ix.rijkscloud.nl](https://dashboards.test.ix.rijkscloud.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
+|[https://portal.test.ix.rijkscloud.nl](https://portal.test.ix.rijkscloud.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://repo.ix.rijkscloud.nl](https://repo.ix.rijkscloud.nl)| | **C**|Apache| |:white_check_mark: | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|403 Forbidden|
+|[https://sonar-lts.test.ix.rijkscloud.nl](https://sonar-lts.test.ix.rijkscloud.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
+|[https://whatsip.test.ix.rijkscloud.nl](https://whatsip.test.ix.rijkscloud.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
+|[https://nifi-registry.test.ix.rijkscloud.nl](https://nifi-registry.test.ix.rijkscloud.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
+|[https://portal-performance.test.ix.rijkscloud.nl](https://portal-performance.test.ix.rijkscloud.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://diplomaonderzoek.dfront.rijkscloud.nl](https://diplomaonderzoek.dfront.rijkscloud.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|Uno Documentatie|
 |[https://particulier.dfront.rijkscloud.nl](https://particulier.dfront.rijkscloud.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|Uno Documentatie|
 |[https://afwijkend-examineren.dfront.rijkscloud.nl](https://afwijkend-examineren.dfront.rijkscloud.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|Uno Documentatie|

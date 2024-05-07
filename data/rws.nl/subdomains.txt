@@ -244,4 +244,4 @@ www.gridacc.rws.nl
 acc-werkplek.gw01-gslb.rws.nl
 traefik-dashboard.dmz.vm-04.azure.grid.rws.nl
 mip-proxy-acc.rws.nl
-werkt-dit-cert-wel.dmz.vm-04.azure.grid.rws.nl
+nginx-test.dmz.vm-04.azure.grid.rws.nl

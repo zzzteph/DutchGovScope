@@ -68,3 +68,5 @@ lap.api.reis.idm.rvig.nl
 app-portal.npr.idm.rvig.nl
 lap.api.reis.npr.idm.rvig.nl
 rni-portal-acc.rvig.nl
+api.reis.idm.rvig.nl
+rvp.reis.idm.rvig.nl

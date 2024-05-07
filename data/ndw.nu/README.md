@@ -12,7 +12,7 @@
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/ndw.nu/subdomains.txt)|96|Alive subdomains|
-|[urls.txt](/data/ndw.nu/urls.txt)|85|Urls|
+|[urls.txt](/data/ndw.nu/urls.txt)|86|Urls|
 |[all_subdomains.txt](/data/ndw.nu/all_subdomains.txt)|121|All found subdomains (history)|
 
 
@@ -94,9 +94,9 @@
 |[https://backbone.ndw.nu](https://backbone.ndw.nu)| **A**| **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|NDW Backbone|
 |[https://stats.ndw.nu](https://stats.ndw.nu)| | **F**|Microsoft-Azure-Application-Gateway/v2| | | | | | | | :white_check_mark: | ||404 Not Found|
 |[https://data-staging.ndw.nu](https://data-staging.ndw.nu)| | **F**|Microsoft-Azure-Application-Gateway/v2| | | | | | | | :white_check_mark: | ||404 Not Found|
-|[https://docs.staging.ndw.nu](https://docs.staging.ndw.nu)| | **A**|| |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | |HSTS MkDocs:1.5.3 Python|NDW Docs|
+|[https://docs.staging.ndw.nu](https://docs.staging.ndw.nu)| | **A**|| |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | |HSTS MkDocs:1.6.0 Python|NDW Docs|
 |[https://mijn.staging.ndw.nu](https://mijn.staging.ndw.nu)| | **D**|Apache/2.4.57 (Debian)| | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server:2.4.57 Debian|mijn NDW|
-|[https://mail.ndw.nu](https://mail.ndw.nu)| | **F**|IceWarp/13.0.3.10 x64| | | | | | | | :white_check_mark: | |HSTS|302 Document Mov...|
+|[https://mail.ndw.nu](https://mail.ndw.nu)| | **F**|IceWarp/13.0.3.11 x64| | | | | | | | :white_check_mark: | |HSTS|302 Document Mov...|
 |[https://shared-services.ndw.nu](https://shared-services.ndw.nu)| | **F**|Microsoft-Azure-Application-Gateway/v2| | | | | | | | :white_check_mark: | ||404 Not Found|
 |[https://stats.staging.ndw.nu](https://stats.staging.ndw.nu)| | **D**|Apache/2.4.57 (Debian)|:white_check_mark: | | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server:2.4.57 Debian Matomo Analytics PHP:8.2.15|Sign in - Matomo|
 |[https://shared-services.staging.ndw.nu](https://shared-services.staging.ndw.nu)| | **F**|Microsoft-Azure-Application-Gateway/v2| | | | | | | | :white_check_mark: | ||404 Not Found|
@@ -106,4 +106,5 @@
 |[https://security.ndw.nu](https://security.ndw.nu)| | **F**|Microsoft-Azure-Application-Gateway/v2| | | | | | | | :white_check_mark: | ||404 Not Found|
 |[https://security.staging.ndw.nu](https://security.staging.ndw.nu)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://design.ndw.nu](https://design.ndw.nu)| | **F**|Microsoft-Azure-Application-Gateway/v2| | | | | | | | :white_check_mark: | ||404 Not Found|
+|[https://sentry.ndw.nu](https://sentry.ndw.nu)| | **F**|Microsoft-Azure-Application-Gateway/v2| | | | | | | | :white_check_mark: | ||404 Not Found|
 

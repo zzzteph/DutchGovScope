@@ -5,8 +5,8 @@
 
 
  - **SSL Grade**:A+
- - **HTTP Security Grade**:C
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:1
+ - **HTTP Security Grade**:D
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:0
 
 
 | File       | Count | Info |
@@ -22,5 +22,5 @@
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[http://www.kennisplatformvhg.nl](http://www.kennisplatformvhg.nl)| **A**| **E**|| | | | | | | | :white_check_mark: | |||
-|[https://kennisplatformvhg.nl](https://kennisplatformvhg.nl)| **A+**| **A**|Apache| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS||
+|[https://kennisplatformvhg.nl](https://kennisplatformvhg.nl)| **A+**| **B**|Apache| |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS||
 

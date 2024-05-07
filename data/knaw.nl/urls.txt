@@ -281,6 +281,7 @@ https://demohermans.huygens.knaw.nl
 https://gesantheiligenlands.huygens.knaw.nl
 https://huygens.knaw.nl
 https://inventaris.huygens.knaw.nl
+https://serrure.mvn.huygens.knaw.nl
 https://charriere.huygens.knaw.nl
 https://ckcc.huygens.knaw.nl
 https://clusiuscorrespondence2.huygens.knaw.nl
@@ -420,7 +421,7 @@ http://hucsys.huc.knaw.nl
 http://registry.huc.knaw.nl
 http://registry.notary.huc.knaw.nl
 http://admin.k8s.huc.knaw.nl
-http://ci.huygens.knaw.nl
+https://ci.huygens.knaw.nl
 http://code.huc.knaw.nl
 http://deploy.huc.knaw.nl
 http://hucdrive-internal.huc.knaw.nl
@@ -444,6 +445,7 @@ http://hucdrive.s3.huc.knaw.nl
 http://limesurvey.comtes.huygens.knaw.nl
 http://paste.huc.knaw.nl
 http://pland.meertens.knaw.nl
+http://svnmvn.huygens.knaw.nl
 http://transcriptions.globalise.huygens.knaw.nl
 http://svnmondxml.huygens.knaw.nl
 http://api.diplomatieke-getuigenissen.huygens.knaw.nl
@@ -451,6 +453,7 @@ http://athena.huygens.knaw.nl
 http://kaart.meertens.knaw.nl
 http://menschenenbergen.huygens.knaw.nl
 http://mgw.meertens.knaw.nl
+https://repository.huygens.knaw.nl
 http://sand.meertens.knaw.nl
 http://meertenspublicaties.meertens.knaw.nl
 http://odb-api.huc.knaw.nl
@@ -479,6 +482,7 @@ http://martianus.huygens.knaw.nl
 http://archieven.meertens.knaw.nl
 http://nvb.meertens.knaw.nl
 http://data.globalise.huygens.knaw.nl
+http://edities.mvn.huygens.knaw.nl
 http://odb.huc.knaw.nl
 http://graphs.globalise.huygens.knaw.nl
 http://retro.meertens.knaw.nl
@@ -511,12 +515,14 @@ https://dynamics.huygens.knaw.nl
 https://francodevrije.huygens.knaw.nl
 https://hattem.huygens.knaw.nl
 https://digitalforensics.huygens.knaw.nl
+https://hbsr.mvn.huygens.knaw.nl
 https://historiagotthorum.huygens.knaw.nl
 https://literariteit2.huygens.knaw.nl
 https://rembrandtdocuments.huygens.knaw.nl
 https://romanvanwalewein.huygens.knaw.nl
 https://vertrokken-nederlands.meertens.knaw.nl
 https://brieven-correspondenten-1900.huygens.knaw.nl
+https://bs.mvn.huygens.knaw.nl
 https://fanny.huygens.knaw.nl
 https://literaryquality.huygens.knaw.nl
 https://www.huc.knaw.nl
@@ -529,6 +535,7 @@ https://wp-08.dev.huc.knaw.nl
 https://brieven-prudens-van-duyse.huygens.knaw.nl
 https://brievenhermans.huygens.knaw.nl
 https://dwc.huygens.knaw.nl
+https://freckenhorst.mvn.huygens.knaw.nl
 https://huc.knaw.nl
 https://lancelotmss.huygens.knaw.nl
 https://lime.meertens.knaw.nl
@@ -536,6 +543,7 @@ https://vereijck.huygens.knaw.nl
 http://behi192.huygens.knaw.nl
 http://hi19.huygens.knaw.nl
 https://respons.meertens.knaw.nl
+https://vds.mvn.huygens.knaw.nl
 https://voornamen.meertens.knaw.nl
 https://beta.huc.knaw.nl
 https://dubbeltje.meertens.knaw.nl

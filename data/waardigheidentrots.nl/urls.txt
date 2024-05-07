@@ -6,3 +6,4 @@ https://archief.waardigheidentrots.nl
 https://registratie.waardigheidentrots.nl
 https://api.waardigheidentrots.nl
 https://cms.waardigheidentrots.nl
+https://m906.waardigheidentrots.nl

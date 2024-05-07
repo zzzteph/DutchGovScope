@@ -16,4 +16,6 @@ https://enterpriseenrollment.huurcommissie.nl
 https://enterpriseregistration.huurcommissie.nl
 https://msoid.huurcommissie.nl
 https://vpn.huurcommissie.nl
+https://scansys.huurcommissie.nl
+https://shopper.huurcommissie.nl
 https://sumatra.huurcommissie.nl

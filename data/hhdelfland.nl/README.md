@@ -55,7 +55,7 @@
 |[https://geoviewhhd.hhdelfland.nl](https://geoviewhhd.hhdelfland.nl)| | **F**|Microsoft-IIS/10.0| | | | | | | | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server|GeoWeb Server|
 |[https://remote.hhdelfland.nl](https://remote.hhdelfland.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Java|VMware Horizon|
 |[https://remotetest.hhdelfland.nl](https://remotetest.hhdelfland.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Java|VMware Horizon|
-|[https://testopendata.hhdelfland.nl](https://testopendata.hhdelfland.nl)| | **F**|Web| | | | | | | | :white_check_mark: | ||HTTP Status 404...|
+|[https://testopendata.hhdelfland.nl](https://testopendata.hhdelfland.nl)| | **F**|Web| | | | | | | | :white_check_mark: | ||Apache Tomcat/10...|
 |[https://workspace.hhdelfland.nl](https://workspace.hhdelfland.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://enterpriseenrollment.hhdelfland.nl](https://enterpriseenrollment.hhdelfland.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||
 |[https://passwordreset.hhdelfland.nl](https://passwordreset.hhdelfland.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Microsoft Online...|

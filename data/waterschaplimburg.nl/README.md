@@ -6,14 +6,14 @@
 
  - **SSL Grade**:A
  - **HTTP Security Grade**:E
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:1028
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:1027
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/waterschaplimburg.nl/subdomains.txt)|1333|Alive subdomains|
-|[urls.txt](/data/waterschaplimburg.nl/urls.txt)|1226|Urls|
-|[all_subdomains.txt](/data/waterschaplimburg.nl/all_subdomains.txt)|1441|All found subdomains (history)|
+|[subdomains.txt](/data/waterschaplimburg.nl/subdomains.txt)|1438|Alive subdomains|
+|[urls.txt](/data/waterschaplimburg.nl/urls.txt)|1225|Urls|
+|[all_subdomains.txt](/data/waterschaplimburg.nl/all_subdomains.txt)|1528|All found subdomains (history)|
 
 
 ## Statistics
@@ -49,10 +49,9 @@
 |[http://nextcloud.waterschaplimburg.nl](http://nextcloud.waterschaplimburg.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
 |[https://subsidie.waterschaplimburg.nl](https://subsidie.waterschaplimburg.nl)| **A+**| **A**||:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bootstrap HSTS Microsoft ASP.NET|Home - Waterscha...|
 |[https://digikoppeling.waterschaplimburg.nl](https://digikoppeling.waterschaplimburg.nl)| **F**| **F**|unspecified| | | | | | | | :white_check_mark: | |||
-|[https://metelkaar.waterschaplimburg.nl](https://metelkaar.waterschaplimburg.nl)| **A+**| **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET||
+|[https://metelkaar.waterschaplimburg.nl](https://metelkaar.waterschaplimburg.nl)| **A+**| **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET|Object moved|
 |[https://redactie.waterschaplimburg.nl](https://redactie.waterschaplimburg.nl)| **A**| **A**|-|:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:-|Object moved|
 |[https://www.waterschaplimburg.nl](https://www.waterschaplimburg.nl)| **A**| **A**|-| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Google Tag Manager HSTS Microsoft ASP.NET:- MyFonts|Home - Waterscha...|
-|[http://test-eef.waterschaplimburg.nl](http://test-eef.waterschaplimburg.nl)| **A+**| **A**||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://open.waterschaplimburg.nl](https://open.waterschaplimburg.nl)| **A+**| **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Azure Azure Front Door HSTS Microsoft ASP.NET|Home - Waterscha...|
 |[http://zgw.waterschaplimburg.nl](http://zgw.waterschaplimburg.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
 |[http://100www.waterschaplimburg.nl](http://100www.waterschaplimburg.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|

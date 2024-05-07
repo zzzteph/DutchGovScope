@@ -4,10 +4,10 @@ title: "mfaservices.nl"
 permalink: "/dutchgov/mfaservices.nl.html"
 subdomains_count: 137
 all_subdomains_count: 266
-urls_count: 59
+urls_count: 58
 ssl_rank: A-
 http_rank: C
-security_txt: 9
+security_txt: 8
 url_link: /data/mfaservices.nl/urls.txt
 all_subdomains_link: /data/mfaservices.nl/all_subdomains.txt
 subdomains_link: /data/mfaservices.nl/subdomains.txt
@@ -22,13 +22,13 @@ tags: dutchgov
 
  - **SSL Grade**:A-
  - **HTTP Security Grade**:C
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:9
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:8
 
 
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/DutchGovScope/data/mfaservices.nl/subdomains.txt)|137|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/mfaservices.nl/urls.txt)|59|Urls|
+|[urls.txt](/DutchGovScope/data/mfaservices.nl/urls.txt)|58|Urls|
 |[all_subdomains.txt](/DutchGovScope/data/mfaservices.nl/all_subdomains.txt)|266|All found subdomains (history)|
 
 
@@ -95,5 +95,4 @@ tags: dutchgov
 |[https://snd.cdn.consular.mfaservices.nl](https://snd.cdn.consular.mfaservices.nl)| **A+**| **D**|cloudflare|:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | |Azure Azure Front Door Cloudflare Cloudflare Bot Management HSTS|Consular Service...|
 |[https://tst.cdn.consular.mfaservices.nl](https://tst.cdn.consular.mfaservices.nl)| **A+**| **D**|cloudflare|:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | |Azure Azure Front Door Cloudflare Cloudflare Bot Management HSTS|Consular Service...|
 |[https://url9097.consular.mfaservices.nl](https://url9097.consular.mfaservices.nl)| **F**| **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|404 Not Found|
-|[https://dev.sq.mfaservices.nl](https://dev.sq.mfaservices.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Application Request Routing:3.0 HSTS IIS Java SonarQubes|SonarQube|
 

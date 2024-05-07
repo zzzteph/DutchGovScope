@@ -11,9 +11,9 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/stopheling.nl/subdomains.txt)|19|Alive subdomains|
+|[subdomains.txt](/data/stopheling.nl/subdomains.txt)|20|Alive subdomains|
 |[urls.txt](/data/stopheling.nl/urls.txt)|17|Urls|
-|[all_subdomains.txt](/data/stopheling.nl/all_subdomains.txt)|33|All found subdomains (history)|
+|[all_subdomains.txt](/data/stopheling.nl/all_subdomains.txt)|34|All found subdomains (history)|
 
 
 ## Statistics

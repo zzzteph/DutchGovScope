@@ -5,3 +5,4 @@ https://www.platform.zwdelta.nl
 https://zwdelta.nl
 https://acc.platform.zwdelta.nl
 https://stg.platform.zwdelta.nl
+https://api.platform.zwdelta.nl

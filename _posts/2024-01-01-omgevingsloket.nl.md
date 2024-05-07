@@ -4,10 +4,10 @@ title: "omgevingsloket.nl"
 permalink: "/dutchgov/omgevingsloket.nl.html"
 subdomains_count: 51
 all_subdomains_count: 76
-urls_count: 12
-ssl_rank: C
+urls_count: 11
+ssl_rank: D
 http_rank: B
-security_txt: 5
+security_txt: 4
 url_link: /data/omgevingsloket.nl/urls.txt
 all_subdomains_link: /data/omgevingsloket.nl/all_subdomains.txt
 subdomains_link: /data/omgevingsloket.nl/subdomains.txt
@@ -20,15 +20,15 @@ tags: dutchgov
 ## Summary data
 
 
- - **SSL Grade**:C
+ - **SSL Grade**:D
  - **HTTP Security Grade**:B
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:5
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:4
 
 
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/DutchGovScope/data/omgevingsloket.nl/subdomains.txt)|51|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/omgevingsloket.nl/urls.txt)|12|Urls|
+|[urls.txt](/DutchGovScope/data/omgevingsloket.nl/urls.txt)|11|Urls|
 |[all_subdomains.txt](/DutchGovScope/data/omgevingsloket.nl/all_subdomains.txt)|76|All found subdomains (history)|
 
 
@@ -43,7 +43,6 @@ tags: dutchgov
 |[https://gw-shr.omgevingsloket.nl](https://gw-shr.omgevingsloket.nl)| | **A**|Apache| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS|User Portal|
 |[https://inr.omgevingsloket.nl](https://inr.omgevingsloket.nl)| | **A**|Apache| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS|Omgevingsloket o...|
 |[https://intake.omgevingsloket.nl](https://intake.omgevingsloket.nl)| **F**| **A**|Apache| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS|Omgevingsloket o...|
-|[https://olo-a-elk.omgevingsloket.nl](https://olo-a-elk.omgevingsloket.nl)| **A**| **E**|nginx/1.20.1| | | | |:warning: | | | :white_check_mark: | |Nginx:1.20.1||
 |[https://sao.omgevingsloket.nl](https://sao.omgevingsloket.nl)| | **A**|Apache| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS|Omgevingsloket o...|
 |[https://tao.omgevingsloket.nl](https://tao.omgevingsloket.nl)| | **A**|Apache| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS|Omgevingsloket o...|
 |[https://www.omgevingsloket.nl](https://www.omgevingsloket.nl)| | **A**|Apache| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS|Omgevingsloket o...|

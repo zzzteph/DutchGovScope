@@ -6,14 +6,14 @@
 
  - **SSL Grade**:C
  - **HTTP Security Grade**:F
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:97
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:136
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/veiligheidsregioflevoland.nl/subdomains.txt)|22162|Alive subdomains|
+|[subdomains.txt](/data/veiligheidsregioflevoland.nl/subdomains.txt)|24752|Alive subdomains|
 |[urls.txt](/data/veiligheidsregioflevoland.nl/urls.txt)|19439|Urls|
-|[all_subdomains.txt](/data/veiligheidsregioflevoland.nl/all_subdomains.txt)|24752|All found subdomains (history)|
+|[all_subdomains.txt](/data/veiligheidsregioflevoland.nl/all_subdomains.txt)|26745|All found subdomains (history)|
 
 
 ## Statistics
@@ -397,7 +397,7 @@
 |[http://homeplus.veiligheidsregioflevoland.nl](http://homeplus.veiligheidsregioflevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
 |[http://sndev.veiligheidsregioflevoland.nl](http://sndev.veiligheidsregioflevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
 |[http://bruiloftmuziek.veiligheidsregioflevoland.nl](http://bruiloftmuziek.veiligheidsregioflevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
-|[http://host16.veiligheidsregioflevoland.nl](http://host16.veiligheidsregioflevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
+|[http://host16.veiligheidsregioflevoland.nl](http://host16.veiligheidsregioflevoland.nl)| | **D**|| | | | | | :white_check_mark: | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
 |[http://web3625.veiligheidsregioflevoland.nl](http://web3625.veiligheidsregioflevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
 |[http://web5261.veiligheidsregioflevoland.nl](http://web5261.veiligheidsregioflevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
 |[http://welsh-springer.veiligheidsregioflevoland.nl](http://welsh-springer.veiligheidsregioflevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
@@ -466,7 +466,7 @@
 |[http://ikev2.veiligheidsregioflevoland.nl](http://ikev2.veiligheidsregioflevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
 |[http://proclub.veiligheidsregioflevoland.nl](http://proclub.veiligheidsregioflevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
 |[http://uspto.veiligheidsregioflevoland.nl](http://uspto.veiligheidsregioflevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
-|[http://lln.veiligheidsregioflevoland.nl](http://lln.veiligheidsregioflevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
+|[http://lln.veiligheidsregioflevoland.nl](http://lln.veiligheidsregioflevoland.nl)| | **D**|| | | | | | :white_check_mark: | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
 |[http://passcode.veiligheidsregioflevoland.nl](http://passcode.veiligheidsregioflevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
 |[http://rubtsovsk.veiligheidsregioflevoland.nl](http://rubtsovsk.veiligheidsregioflevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
 |[http://test.community.veiligheidsregioflevoland.nl](http://test.community.veiligheidsregioflevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
@@ -484,7 +484,7 @@
 |[http://capito.veiligheidsregioflevoland.nl](http://capito.veiligheidsregioflevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
 |[http://croquet.veiligheidsregioflevoland.nl](http://croquet.veiligheidsregioflevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
 |[http://n6.veiligheidsregioflevoland.nl](http://n6.veiligheidsregioflevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
-|[http://graniet.veiligheidsregioflevoland.nl](http://graniet.veiligheidsregioflevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
+|[http://graniet.veiligheidsregioflevoland.nl](http://graniet.veiligheidsregioflevoland.nl)| | **D**|| | | | | | :white_check_mark: | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
 |[http://captiveportal-login.veiligheidsregioflevoland.nl](http://captiveportal-login.veiligheidsregioflevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
 |[http://djs.veiligheidsregioflevoland.nl](http://djs.veiligheidsregioflevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
 |[http://lacework.veiligheidsregioflevoland.nl](http://lacework.veiligheidsregioflevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
@@ -502,7 +502,7 @@
 |[http://ovp.veiligheidsregioflevoland.nl](http://ovp.veiligheidsregioflevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
 |[http://username.veiligheidsregioflevoland.nl](http://username.veiligheidsregioflevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
 |[http://u12.veiligheidsregioflevoland.nl](http://u12.veiligheidsregioflevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
-|[http://fortran.veiligheidsregioflevoland.nl](http://fortran.veiligheidsregioflevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
+|[http://fortran.veiligheidsregioflevoland.nl](http://fortran.veiligheidsregioflevoland.nl)| | **D**|| | | | | | :white_check_mark: | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
 |[http://aandachtvoor-anaal.veiligheidsregioflevoland.nl](http://aandachtvoor-anaal.veiligheidsregioflevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
 |[http://welten.veiligheidsregioflevoland.nl](http://welten.veiligheidsregioflevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
 |[http://napi.veiligheidsregioflevoland.nl](http://napi.veiligheidsregioflevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
@@ -512,17 +512,17 @@
 |[http://alcor.veiligheidsregioflevoland.nl](http://alcor.veiligheidsregioflevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
 |[http://slimex.veiligheidsregioflevoland.nl](http://slimex.veiligheidsregioflevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
 |[http://marketer.veiligheidsregioflevoland.nl](http://marketer.veiligheidsregioflevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
-|[http://precise.veiligheidsregioflevoland.nl](http://precise.veiligheidsregioflevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
+|[http://precise.veiligheidsregioflevoland.nl](http://precise.veiligheidsregioflevoland.nl)| | **D**|| | | | | | :white_check_mark: | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
 |[http://klarenbeek.veiligheidsregioflevoland.nl](http://klarenbeek.veiligheidsregioflevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
 |[http://kodak.veiligheidsregioflevoland.nl](http://kodak.veiligheidsregioflevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
 |[http://link.mailer.veiligheidsregioflevoland.nl](http://link.mailer.veiligheidsregioflevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
 |[http://link2.veiligheidsregioflevoland.nl](http://link2.veiligheidsregioflevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
 |[http://iconic.veiligheidsregioflevoland.nl](http://iconic.veiligheidsregioflevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
 |[http://web46.veiligheidsregioflevoland.nl](http://web46.veiligheidsregioflevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
-|[http://asdfg.veiligheidsregioflevoland.nl](http://asdfg.veiligheidsregioflevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
+|[http://asdfg.veiligheidsregioflevoland.nl](http://asdfg.veiligheidsregioflevoland.nl)| | **D**|| | | | | | :white_check_mark: | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
 |[http://roku.veiligheidsregioflevoland.nl](http://roku.veiligheidsregioflevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
 |[http://vendedores.veiligheidsregioflevoland.nl](http://vendedores.veiligheidsregioflevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
-|[http://reportes.veiligheidsregioflevoland.nl](http://reportes.veiligheidsregioflevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
+|[http://reportes.veiligheidsregioflevoland.nl](http://reportes.veiligheidsregioflevoland.nl)| | **D**|| | | | | | :white_check_mark: | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
 |[http://tasktop.veiligheidsregioflevoland.nl](http://tasktop.veiligheidsregioflevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
 |[http://nosferatu.veiligheidsregioflevoland.nl](http://nosferatu.veiligheidsregioflevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
 |[http://barnaul.veiligheidsregioflevoland.nl](http://barnaul.veiligheidsregioflevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
@@ -538,7 +538,7 @@
 |[http://www-56.veiligheidsregioflevoland.nl](http://www-56.veiligheidsregioflevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
 |[http://ows-dmnsapi.veiligheidsregioflevoland.nl](http://ows-dmnsapi.veiligheidsregioflevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
 |[http://godofwar.veiligheidsregioflevoland.nl](http://godofwar.veiligheidsregioflevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
-|[http://santino.veiligheidsregioflevoland.nl](http://santino.veiligheidsregioflevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
+|[http://santino.veiligheidsregioflevoland.nl](http://santino.veiligheidsregioflevoland.nl)| | **D**|| | | | | | :white_check_mark: | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
 |[http://jaarverslag2008.veiligheidsregioflevoland.nl](http://jaarverslag2008.veiligheidsregioflevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
 |[http://finlay.veiligheidsregioflevoland.nl](http://finlay.veiligheidsregioflevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
 |[http://ows-dmnsapi-test.veiligheidsregioflevoland.nl](http://ows-dmnsapi-test.veiligheidsregioflevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
@@ -552,19 +552,19 @@
 |[http://ws10.veiligheidsregioflevoland.nl](http://ws10.veiligheidsregioflevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
 |[http://check.app.veiligheidsregioflevoland.nl](http://check.app.veiligheidsregioflevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
 |[http://codehub.veiligheidsregioflevoland.nl](http://codehub.veiligheidsregioflevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
-|[http://advertise.veiligheidsregioflevoland.nl](http://advertise.veiligheidsregioflevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
+|[http://advertise.veiligheidsregioflevoland.nl](http://advertise.veiligheidsregioflevoland.nl)| | **D**|| | | | | | :white_check_mark: | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
 |[http://barbarian.veiligheidsregioflevoland.nl](http://barbarian.veiligheidsregioflevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
 |[http://yida.veiligheidsregioflevoland.nl](http://yida.veiligheidsregioflevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
 |[http://socialize.veiligheidsregioflevoland.nl](http://socialize.veiligheidsregioflevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
 |[http://263.veiligheidsregioflevoland.nl](http://263.veiligheidsregioflevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
 |[http://heart-surgery-ntm-infection-lawsuit.veiligheidsregioflevoland.nl](http://heart-surgery-ntm-infection-lawsuit.veiligheidsregioflevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
-|[http://tasc.veiligheidsregioflevoland.nl](http://tasc.veiligheidsregioflevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
+|[http://tasc.veiligheidsregioflevoland.nl](http://tasc.veiligheidsregioflevoland.nl)| | **D**|| | | | | | :white_check_mark: | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
 |[http://961.veiligheidsregioflevoland.nl](http://961.veiligheidsregioflevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
 |[http://ads-api.veiligheidsregioflevoland.nl](http://ads-api.veiligheidsregioflevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
 |[http://renovatie.veiligheidsregioflevoland.nl](http://renovatie.veiligheidsregioflevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
 |[http://blueforce.veiligheidsregioflevoland.nl](http://blueforce.veiligheidsregioflevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
 |[http://3bee.veiligheidsregioflevoland.nl](http://3bee.veiligheidsregioflevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
-|[http://web17881.veiligheidsregioflevoland.nl](http://web17881.veiligheidsregioflevoland.nl)| | **D**|| | | | | | :white_check_mark: | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
+|[http://web17881.veiligheidsregioflevoland.nl](http://web17881.veiligheidsregioflevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
 |[http://ocio.veiligheidsregioflevoland.nl](http://ocio.veiligheidsregioflevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
 |[http://in2.veiligheidsregioflevoland.nl](http://in2.veiligheidsregioflevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
 |[http://piraat.veiligheidsregioflevoland.nl](http://piraat.veiligheidsregioflevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
@@ -577,7 +577,7 @@
 |[http://wielrentraining.veiligheidsregioflevoland.nl](http://wielrentraining.veiligheidsregioflevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
 |[http://balinge.veiligheidsregioflevoland.nl](http://balinge.veiligheidsregioflevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
 |[http://elektronica-winkel.veiligheidsregioflevoland.nl](http://elektronica-winkel.veiligheidsregioflevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
-|[http://peer.veiligheidsregioflevoland.nl](http://peer.veiligheidsregioflevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
+|[http://peer.veiligheidsregioflevoland.nl](http://peer.veiligheidsregioflevoland.nl)| | **D**|| | | | | | :white_check_mark: | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
 |[http://devogelvriend.veiligheidsregioflevoland.nl](http://devogelvriend.veiligheidsregioflevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
 |[http://staging.v2.veiligheidsregioflevoland.nl](http://staging.v2.veiligheidsregioflevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
 |[http://wijdenes.veiligheidsregioflevoland.nl](http://wijdenes.veiligheidsregioflevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
@@ -645,7 +645,7 @@
 |[http://insert.veiligheidsregioflevoland.nl](http://insert.veiligheidsregioflevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
 |[http://img2.veiligheidsregioflevoland.nl](http://img2.veiligheidsregioflevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
 |[http://fhg.veiligheidsregioflevoland.nl](http://fhg.veiligheidsregioflevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
-|[http://seo-optimalisatie.veiligheidsregioflevoland.nl](http://seo-optimalisatie.veiligheidsregioflevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
+|[http://seo-optimalisatie.veiligheidsregioflevoland.nl](http://seo-optimalisatie.veiligheidsregioflevoland.nl)| | **D**|| | | | | | :white_check_mark: | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
 |[http://worldhotels.veiligheidsregioflevoland.nl](http://worldhotels.veiligheidsregioflevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
 |[http://anc.veiligheidsregioflevoland.nl](http://anc.veiligheidsregioflevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
 |[http://tolkien.veiligheidsregioflevoland.nl](http://tolkien.veiligheidsregioflevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
@@ -939,7 +939,7 @@
 |[http://monkeys.veiligheidsregioflevoland.nl](http://monkeys.veiligheidsregioflevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
 |[http://dhcp1.veiligheidsregioflevoland.nl](http://dhcp1.veiligheidsregioflevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
 |[http://casteren.veiligheidsregioflevoland.nl](http://casteren.veiligheidsregioflevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
-|[http://collector3.veiligheidsregioflevoland.nl](http://collector3.veiligheidsregioflevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
+|[http://collector3.veiligheidsregioflevoland.nl](http://collector3.veiligheidsregioflevoland.nl)| | **D**|| | | | | | :white_check_mark: | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
 |[http://jasonlee.veiligheidsregioflevoland.nl](http://jasonlee.veiligheidsregioflevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
 |[http://subaru.veiligheidsregioflevoland.nl](http://subaru.veiligheidsregioflevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
 |[http://tvs.veiligheidsregioflevoland.nl](http://tvs.veiligheidsregioflevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
@@ -992,7 +992,7 @@
 |[http://web6410.veiligheidsregioflevoland.nl](http://web6410.veiligheidsregioflevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
 |[http://backup1.veiligheidsregioflevoland.nl](http://backup1.veiligheidsregioflevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
 |[http://citrix.api.veiligheidsregioflevoland.nl](http://citrix.api.veiligheidsregioflevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
-|[http://skutsje.veiligheidsregioflevoland.nl](http://skutsje.veiligheidsregioflevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
+|[http://skutsje.veiligheidsregioflevoland.nl](http://skutsje.veiligheidsregioflevoland.nl)| | **D**|| | | | | | :white_check_mark: | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
 |[http://callcenter.veiligheidsregioflevoland.nl](http://callcenter.veiligheidsregioflevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
 |[http://homepage3.veiligheidsregioflevoland.nl](http://homepage3.veiligheidsregioflevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
 |[http://eels.veiligheidsregioflevoland.nl](http://eels.veiligheidsregioflevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
@@ -1043,7 +1043,7 @@
 |[http://geldnodig.veiligheidsregioflevoland.nl](http://geldnodig.veiligheidsregioflevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
 |[http://cs221.veiligheidsregioflevoland.nl](http://cs221.veiligheidsregioflevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
 |[http://dropje.veiligheidsregioflevoland.nl](http://dropje.veiligheidsregioflevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
-|[http://web5897.veiligheidsregioflevoland.nl](http://web5897.veiligheidsregioflevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
+|[http://web5897.veiligheidsregioflevoland.nl](http://web5897.veiligheidsregioflevoland.nl)| | **D**|| | | | | | :white_check_mark: | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
 |[http://redirectvirusgoogle.veiligheidsregioflevoland.nl](http://redirectvirusgoogle.veiligheidsregioflevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
 |[http://baymak.veiligheidsregioflevoland.nl](http://baymak.veiligheidsregioflevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
 |[http://vgp.veiligheidsregioflevoland.nl](http://vgp.veiligheidsregioflevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
@@ -1059,7 +1059,7 @@
 |[http://andes.veiligheidsregioflevoland.nl](http://andes.veiligheidsregioflevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
 |[http://puerto-rico.veiligheidsregioflevoland.nl](http://puerto-rico.veiligheidsregioflevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
 |[http://knd.veiligheidsregioflevoland.nl](http://knd.veiligheidsregioflevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
-|[http://psb.veiligheidsregioflevoland.nl](http://psb.veiligheidsregioflevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
+|[http://psb.veiligheidsregioflevoland.nl](http://psb.veiligheidsregioflevoland.nl)| | **D**|| | | | | | :white_check_mark: | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
 |[http://daytrader-worden.veiligheidsregioflevoland.nl](http://daytrader-worden.veiligheidsregioflevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
 |[http://diary.veiligheidsregioflevoland.nl](http://diary.veiligheidsregioflevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
 |[http://dominoweb.veiligheidsregioflevoland.nl](http://dominoweb.veiligheidsregioflevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
@@ -1085,7 +1085,7 @@
 |[http://bch.veiligheidsregioflevoland.nl](http://bch.veiligheidsregioflevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
 |[http://bedroomdesign.veiligheidsregioflevoland.nl](http://bedroomdesign.veiligheidsregioflevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
 |[http://owd.veiligheidsregioflevoland.nl](http://owd.veiligheidsregioflevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
-|[http://mookenmiddelaar.veiligheidsregioflevoland.nl](http://mookenmiddelaar.veiligheidsregioflevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
+|[http://mookenmiddelaar.veiligheidsregioflevoland.nl](http://mookenmiddelaar.veiligheidsregioflevoland.nl)| | **D**|| | | | | | :white_check_mark: | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
 |[http://inertia.veiligheidsregioflevoland.nl](http://inertia.veiligheidsregioflevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
 |[http://roadtrip.veiligheidsregioflevoland.nl](http://roadtrip.veiligheidsregioflevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
 |[http://guides.veiligheidsregioflevoland.nl](http://guides.veiligheidsregioflevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
@@ -1097,7 +1097,7 @@
 |[http://watching-tv.veiligheidsregioflevoland.nl](http://watching-tv.veiligheidsregioflevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
 |[http://metselaar.veiligheidsregioflevoland.nl](http://metselaar.veiligheidsregioflevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
 |[http://murphy.veiligheidsregioflevoland.nl](http://murphy.veiligheidsregioflevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
-|[http://knopka.veiligheidsregioflevoland.nl](http://knopka.veiligheidsregioflevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
+|[http://knopka.veiligheidsregioflevoland.nl](http://knopka.veiligheidsregioflevoland.nl)| | **D**|| | | | | | :white_check_mark: | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
 |[http://gamefreak.veiligheidsregioflevoland.nl](http://gamefreak.veiligheidsregioflevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
 |[http://youth.veiligheidsregioflevoland.nl](http://youth.veiligheidsregioflevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
 |[http://carlo.veiligheidsregioflevoland.nl](http://carlo.veiligheidsregioflevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
@@ -1110,13 +1110,13 @@
 |[http://scherbinka.veiligheidsregioflevoland.nl](http://scherbinka.veiligheidsregioflevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
 |[http://adam-test.veiligheidsregioflevoland.nl](http://adam-test.veiligheidsregioflevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
 |[http://anzio-velgen.veiligheidsregioflevoland.nl](http://anzio-velgen.veiligheidsregioflevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
-|[http://apiblog.veiligheidsregioflevoland.nl](http://apiblog.veiligheidsregioflevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
+|[http://apiblog.veiligheidsregioflevoland.nl](http://apiblog.veiligheidsregioflevoland.nl)| | **D**|| | | | | | :white_check_mark: | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
 |[http://futur.veiligheidsregioflevoland.nl](http://futur.veiligheidsregioflevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
 |[http://lig.veiligheidsregioflevoland.nl](http://lig.veiligheidsregioflevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
-|[http://wereldberoemde-musea.veiligheidsregioflevoland.nl](http://wereldberoemde-musea.veiligheidsregioflevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
+|[http://wereldberoemde-musea.veiligheidsregioflevoland.nl](http://wereldberoemde-musea.veiligheidsregioflevoland.nl)| | **D**|| | | | | | :white_check_mark: | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
 |[http://noten.veiligheidsregioflevoland.nl](http://noten.veiligheidsregioflevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
 |[http://sifa.veiligheidsregioflevoland.nl](http://sifa.veiligheidsregioflevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
-|[http://duty.veiligheidsregioflevoland.nl](http://duty.veiligheidsregioflevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
+|[http://duty.veiligheidsregioflevoland.nl](http://duty.veiligheidsregioflevoland.nl)| | **D**|| | | | | | :white_check_mark: | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
 |[http://hints.veiligheidsregioflevoland.nl](http://hints.veiligheidsregioflevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
 |[http://alphaville.veiligheidsregioflevoland.nl](http://alphaville.veiligheidsregioflevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
 |[http://web5327.veiligheidsregioflevoland.nl](http://web5327.veiligheidsregioflevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
@@ -1187,7 +1187,7 @@
 |[http://oldwebmail.veiligheidsregioflevoland.nl](http://oldwebmail.veiligheidsregioflevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
 |[http://tnv.veiligheidsregioflevoland.nl](http://tnv.veiligheidsregioflevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
 |[http://free-xxx.veiligheidsregioflevoland.nl](http://free-xxx.veiligheidsregioflevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
-|[http://kingo.veiligheidsregioflevoland.nl](http://kingo.veiligheidsregioflevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
+|[http://kingo.veiligheidsregioflevoland.nl](http://kingo.veiligheidsregioflevoland.nl)| | **D**|| | | | | | :white_check_mark: | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
 |[http://imit.veiligheidsregioflevoland.nl](http://imit.veiligheidsregioflevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
 |[http://staging.intranet.veiligheidsregioflevoland.nl](http://staging.intranet.veiligheidsregioflevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
 |[http://kelvin.veiligheidsregioflevoland.nl](http://kelvin.veiligheidsregioflevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
@@ -1205,7 +1205,7 @@
 |[http://webpac.veiligheidsregioflevoland.nl](http://webpac.veiligheidsregioflevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
 |[http://lamborghini.veiligheidsregioflevoland.nl](http://lamborghini.veiligheidsregioflevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
 |[http://asetus2.veiligheidsregioflevoland.nl](http://asetus2.veiligheidsregioflevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
-|[http://3400.veiligheidsregioflevoland.nl](http://3400.veiligheidsregioflevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
+|[http://3400.veiligheidsregioflevoland.nl](http://3400.veiligheidsregioflevoland.nl)| | **D**|| | | | | | :white_check_mark: | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
 |[http://cyberdog.veiligheidsregioflevoland.nl](http://cyberdog.veiligheidsregioflevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
 |[http://serials.veiligheidsregioflevoland.nl](http://serials.veiligheidsregioflevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
 |[http://artefact.veiligheidsregioflevoland.nl](http://artefact.veiligheidsregioflevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
@@ -1288,7 +1288,7 @@
 |[http://web5468.veiligheidsregioflevoland.nl](http://web5468.veiligheidsregioflevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
 |[http://admin-www.veiligheidsregioflevoland.nl](http://admin-www.veiligheidsregioflevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
 |[http://btec.veiligheidsregioflevoland.nl](http://btec.veiligheidsregioflevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
-|[http://wku.veiligheidsregioflevoland.nl](http://wku.veiligheidsregioflevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
+|[http://wku.veiligheidsregioflevoland.nl](http://wku.veiligheidsregioflevoland.nl)| | **D**|| | | | | | :white_check_mark: | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
 |[http://mta.care.veiligheidsregioflevoland.nl](http://mta.care.veiligheidsregioflevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
 |[http://nl15.veiligheidsregioflevoland.nl](http://nl15.veiligheidsregioflevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
 |[http://website-g7g.veiligheidsregioflevoland.nl](http://website-g7g.veiligheidsregioflevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
@@ -1314,7 +1314,7 @@
 |[http://selling.veiligheidsregioflevoland.nl](http://selling.veiligheidsregioflevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
 |[http://vragenlijsten.veiligheidsregioflevoland.nl](http://vragenlijsten.veiligheidsregioflevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
 |[http://apre.veiligheidsregioflevoland.nl](http://apre.veiligheidsregioflevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
-|[http://guadeloupe.veiligheidsregioflevoland.nl](http://guadeloupe.veiligheidsregioflevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
+|[http://guadeloupe.veiligheidsregioflevoland.nl](http://guadeloupe.veiligheidsregioflevoland.nl)| | **D**|| | | | | | :white_check_mark: | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
 |[http://spillman.veiligheidsregioflevoland.nl](http://spillman.veiligheidsregioflevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
 |[http://mysite.veiligheidsregioflevoland.nl](http://mysite.veiligheidsregioflevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
 |[http://void.veiligheidsregioflevoland.nl](http://void.veiligheidsregioflevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
@@ -1394,7 +1394,7 @@
 |[http://mfa.veiligheidsregioflevoland.nl](http://mfa.veiligheidsregioflevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
 |[http://pc29.veiligheidsregioflevoland.nl](http://pc29.veiligheidsregioflevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
 |[http://campaigns.veiligheidsregioflevoland.nl](http://campaigns.veiligheidsregioflevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
-|[http://i-tech.veiligheidsregioflevoland.nl](http://i-tech.veiligheidsregioflevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
+|[http://i-tech.veiligheidsregioflevoland.nl](http://i-tech.veiligheidsregioflevoland.nl)| | **D**|| | | | | | :white_check_mark: | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
 |[http://avega.veiligheidsregioflevoland.nl](http://avega.veiligheidsregioflevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
 |[http://mt3.veiligheidsregioflevoland.nl](http://mt3.veiligheidsregioflevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
 |[http://soe.veiligheidsregioflevoland.nl](http://soe.veiligheidsregioflevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
@@ -1452,7 +1452,7 @@
 |[http://kala.veiligheidsregioflevoland.nl](http://kala.veiligheidsregioflevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
 |[http://servers.api.veiligheidsregioflevoland.nl](http://servers.api.veiligheidsregioflevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
 |[http://baset.veiligheidsregioflevoland.nl](http://baset.veiligheidsregioflevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
-|[http://kyz.veiligheidsregioflevoland.nl](http://kyz.veiligheidsregioflevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
+|[http://kyz.veiligheidsregioflevoland.nl](http://kyz.veiligheidsregioflevoland.nl)| | **D**|| | | | | | :white_check_mark: | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
 |[http://partnerdev.veiligheidsregioflevoland.nl](http://partnerdev.veiligheidsregioflevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
 |[http://hostmaster.hostmaster.hostmaster.cpanel.veiligheidsregioflevoland.nl](http://hostmaster.hostmaster.hostmaster.cpanel.veiligheidsregioflevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
 |[http://rc.veiligheidsregioflevoland.nl](http://rc.veiligheidsregioflevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
@@ -1579,7 +1579,7 @@
 |[http://ankeveen.veiligheidsregioflevoland.nl](http://ankeveen.veiligheidsregioflevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
 |[http://waterfall.veiligheidsregioflevoland.nl](http://waterfall.veiligheidsregioflevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
 |[http://1922.veiligheidsregioflevoland.nl](http://1922.veiligheidsregioflevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
-|[http://phdadmission.veiligheidsregioflevoland.nl](http://phdadmission.veiligheidsregioflevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
+|[http://phdadmission.veiligheidsregioflevoland.nl](http://phdadmission.veiligheidsregioflevoland.nl)| | **D**|| | | | | | :white_check_mark: | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
 |[http://web7250.veiligheidsregioflevoland.nl](http://web7250.veiligheidsregioflevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
 |[http://groepsverblijven.veiligheidsregioflevoland.nl](http://groepsverblijven.veiligheidsregioflevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
 |[http://blackgospel.veiligheidsregioflevoland.nl](http://blackgospel.veiligheidsregioflevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
@@ -1646,7 +1646,7 @@
 |[http://engwierum.veiligheidsregioflevoland.nl](http://engwierum.veiligheidsregioflevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
 |[http://whois.veiligheidsregioflevoland.nl](http://whois.veiligheidsregioflevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
 |[http://laptop.veiligheidsregioflevoland.nl](http://laptop.veiligheidsregioflevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
-|[http://euclid.veiligheidsregioflevoland.nl](http://euclid.veiligheidsregioflevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
+|[http://euclid.veiligheidsregioflevoland.nl](http://euclid.veiligheidsregioflevoland.nl)| | **D**|| | | | | | :white_check_mark: | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
 |[http://sandbox.dev.veiligheidsregioflevoland.nl](http://sandbox.dev.veiligheidsregioflevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
 |[http://web5418.veiligheidsregioflevoland.nl](http://web5418.veiligheidsregioflevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
 |[http://goryachiy-klyuch.veiligheidsregioflevoland.nl](http://goryachiy-klyuch.veiligheidsregioflevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
@@ -1677,7 +1677,7 @@
 |[http://norovirus.veiligheidsregioflevoland.nl](http://norovirus.veiligheidsregioflevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
 |[http://spw.veiligheidsregioflevoland.nl](http://spw.veiligheidsregioflevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
 |[http://gtech.veiligheidsregioflevoland.nl](http://gtech.veiligheidsregioflevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
-|[http://battlestar.veiligheidsregioflevoland.nl](http://battlestar.veiligheidsregioflevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
+|[http://battlestar.veiligheidsregioflevoland.nl](http://battlestar.veiligheidsregioflevoland.nl)| | **D**|| | | | | | :white_check_mark: | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
 |[http://online-vakantie-boeken.veiligheidsregioflevoland.nl](http://online-vakantie-boeken.veiligheidsregioflevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
 |[http://asn.veiligheidsregioflevoland.nl](http://asn.veiligheidsregioflevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
 |[http://admin.openstad.veiligheidsregioflevoland.nl](http://admin.openstad.veiligheidsregioflevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
@@ -1696,7 +1696,7 @@
 |[http://internetwinkel.veiligheidsregioflevoland.nl](http://internetwinkel.veiligheidsregioflevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
 |[http://standrews.veiligheidsregioflevoland.nl](http://standrews.veiligheidsregioflevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
 |[http://stermzoekmachineoptimalisatie.veiligheidsregioflevoland.nl](http://stermzoekmachineoptimalisatie.veiligheidsregioflevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
-|[http://montgomerycounty.veiligheidsregioflevoland.nl](http://montgomerycounty.veiligheidsregioflevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
+|[http://montgomerycounty.veiligheidsregioflevoland.nl](http://montgomerycounty.veiligheidsregioflevoland.nl)| | **D**|| | | | | | :white_check_mark: | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
 |[http://projectm.veiligheidsregioflevoland.nl](http://projectm.veiligheidsregioflevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
 |[http://horoscopen.veiligheidsregioflevoland.nl](http://horoscopen.veiligheidsregioflevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
 |[http://poi.veiligheidsregioflevoland.nl](http://poi.veiligheidsregioflevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
@@ -1717,7 +1717,7 @@
 |[http://altf4.veiligheidsregioflevoland.nl](http://altf4.veiligheidsregioflevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
 |[http://lizzie-mcguire.veiligheidsregioflevoland.nl](http://lizzie-mcguire.veiligheidsregioflevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
 |[http://liwan.veiligheidsregioflevoland.nl](http://liwan.veiligheidsregioflevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
-|[http://novy-urengoy.veiligheidsregioflevoland.nl](http://novy-urengoy.veiligheidsregioflevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
+|[http://novy-urengoy.veiligheidsregioflevoland.nl](http://novy-urengoy.veiligheidsregioflevoland.nl)| | **D**|| | | | | | :white_check_mark: | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
 |[http://fris.veiligheidsregioflevoland.nl](http://fris.veiligheidsregioflevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
 |[http://ajin.veiligheidsregioflevoland.nl](http://ajin.veiligheidsregioflevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
 |[http://ppemysite.veiligheidsregioflevoland.nl](http://ppemysite.veiligheidsregioflevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
@@ -1803,7 +1803,7 @@
 |[http://ulg.veiligheidsregioflevoland.nl](http://ulg.veiligheidsregioflevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
 |[http://mercure.veiligheidsregioflevoland.nl](http://mercure.veiligheidsregioflevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
 |[http://kashira.veiligheidsregioflevoland.nl](http://kashira.veiligheidsregioflevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
-|[http://app.connect.veiligheidsregioflevoland.nl](http://app.connect.veiligheidsregioflevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
+|[http://app.connect.veiligheidsregioflevoland.nl](http://app.connect.veiligheidsregioflevoland.nl)| | **D**|| | | | | | :white_check_mark: | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
 |[http://fapiao.veiligheidsregioflevoland.nl](http://fapiao.veiligheidsregioflevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
 |[http://zerkalo.veiligheidsregioflevoland.nl](http://zerkalo.veiligheidsregioflevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
 |[http://3umbrellas.veiligheidsregioflevoland.nl](http://3umbrellas.veiligheidsregioflevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
@@ -1911,7 +1911,7 @@
 |[http://oracle.veiligheidsregioflevoland.nl](http://oracle.veiligheidsregioflevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
 |[http://google-chrome.veiligheidsregioflevoland.nl](http://google-chrome.veiligheidsregioflevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
 |[http://aay.veiligheidsregioflevoland.nl](http://aay.veiligheidsregioflevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
-|[http://www-24.veiligheidsregioflevoland.nl](http://www-24.veiligheidsregioflevoland.nl)| | **D**|| | | | | | :white_check_mark: | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
+|[http://www-24.veiligheidsregioflevoland.nl](http://www-24.veiligheidsregioflevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
 |[http://dinesh.veiligheidsregioflevoland.nl](http://dinesh.veiligheidsregioflevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
 |[http://tph.veiligheidsregioflevoland.nl](http://tph.veiligheidsregioflevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
 |[http://osd.veiligheidsregioflevoland.nl](http://osd.veiligheidsregioflevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
@@ -1950,7 +1950,7 @@
 |[http://cs196.veiligheidsregioflevoland.nl](http://cs196.veiligheidsregioflevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
 |[http://jvb.veiligheidsregioflevoland.nl](http://jvb.veiligheidsregioflevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
 |[http://topdesk-test.veiligheidsregioflevoland.nl](http://topdesk-test.veiligheidsregioflevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
-|[http://t10.veiligheidsregioflevoland.nl](http://t10.veiligheidsregioflevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
+|[http://t10.veiligheidsregioflevoland.nl](http://t10.veiligheidsregioflevoland.nl)| | **D**|| | | | | | :white_check_mark: | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
 |[http://web5872.veiligheidsregioflevoland.nl](http://web5872.veiligheidsregioflevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
 |[http://lb-02.veiligheidsregioflevoland.nl](http://lb-02.veiligheidsregioflevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
 |[http://loterijenvergelijker.veiligheidsregioflevoland.nl](http://loterijenvergelijker.veiligheidsregioflevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
@@ -2327,12 +2327,12 @@
 |[http://netsec.veiligheidsregioflevoland.nl](http://netsec.veiligheidsregioflevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
 |[http://stage-ca.veiligheidsregioflevoland.nl](http://stage-ca.veiligheidsregioflevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
 |[http://irobot.veiligheidsregioflevoland.nl](http://irobot.veiligheidsregioflevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
-|[http://kellen.veiligheidsregioflevoland.nl](http://kellen.veiligheidsregioflevoland.nl)| | **D**|| | | | | | :white_check_mark: | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
+|[http://kellen.veiligheidsregioflevoland.nl](http://kellen.veiligheidsregioflevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
 |[http://sextoy.veiligheidsregioflevoland.nl](http://sextoy.veiligheidsregioflevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
 |[http://ca-craigslist.veiligheidsregioflevoland.nl](http://ca-craigslist.veiligheidsregioflevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
 |[http://kbc.veiligheidsregioflevoland.nl](http://kbc.veiligheidsregioflevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
 |[http://fietsmerken.veiligheidsregioflevoland.nl](http://fietsmerken.veiligheidsregioflevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
-|[http://wham.veiligheidsregioflevoland.nl](http://wham.veiligheidsregioflevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
+|[http://wham.veiligheidsregioflevoland.nl](http://wham.veiligheidsregioflevoland.nl)| | **D**|| | | | | | :white_check_mark: | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
 |[http://speed-ix.veiligheidsregioflevoland.nl](http://speed-ix.veiligheidsregioflevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
 |[http://cumshot.veiligheidsregioflevoland.nl](http://cumshot.veiligheidsregioflevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
 |[http://linde.veiligheidsregioflevoland.nl](http://linde.veiligheidsregioflevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
@@ -2424,8 +2424,8 @@
 |[http://zw.veiligheidsregioflevoland.nl](http://zw.veiligheidsregioflevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
 |[http://mhe.veiligheidsregioflevoland.nl](http://mhe.veiligheidsregioflevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
 |[http://lobith.veiligheidsregioflevoland.nl](http://lobith.veiligheidsregioflevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
-|[http://mystaging.veiligheidsregioflevoland.nl](http://mystaging.veiligheidsregioflevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
-|[http://embers.veiligheidsregioflevoland.nl](http://embers.veiligheidsregioflevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
+|[http://mystaging.veiligheidsregioflevoland.nl](http://mystaging.veiligheidsregioflevoland.nl)| | **D**|| | | | | | :white_check_mark: | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
+|[http://embers.veiligheidsregioflevoland.nl](http://embers.veiligheidsregioflevoland.nl)| | **D**|| | | | | | :white_check_mark: | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
 |[http://freemediacodecs.veiligheidsregioflevoland.nl](http://freemediacodecs.veiligheidsregioflevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
 |[http://brussel.veiligheidsregioflevoland.nl](http://brussel.veiligheidsregioflevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
 |[http://devpartner.veiligheidsregioflevoland.nl](http://devpartner.veiligheidsregioflevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
@@ -2695,8 +2695,8 @@
 |[http://hedgefunds.veiligheidsregioflevoland.nl](http://hedgefunds.veiligheidsregioflevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
 |[http://condor.veiligheidsregioflevoland.nl](http://condor.veiligheidsregioflevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
 |[http://linkinbio.veiligheidsregioflevoland.nl](http://linkinbio.veiligheidsregioflevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
-|[http://code42.veiligheidsregioflevoland.nl](http://code42.veiligheidsregioflevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
-|[http://609.veiligheidsregioflevoland.nl](http://609.veiligheidsregioflevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
+|[http://code42.veiligheidsregioflevoland.nl](http://code42.veiligheidsregioflevoland.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
+|[http://609.veiligheidsregioflevoland.nl](http://609.veiligheidsregioflevoland.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
 |[http://mua.veiligheidsregioflevoland.nl](http://mua.veiligheidsregioflevoland.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
 |[http://uoc.veiligheidsregioflevoland.nl](http://uoc.veiligheidsregioflevoland.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
 |[http://diendan.veiligheidsregioflevoland.nl](http://diendan.veiligheidsregioflevoland.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|

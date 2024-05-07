@@ -2,8 +2,8 @@
 layout: default
 title: "masterplanbasisvaardigheden.nl"
 permalink: "/dutchgov/masterplanbasisvaardigheden.nl.html"
-subdomains_count: 0
-all_subdomains_count: 4
+subdomains_count: 3
+all_subdomains_count: 7
 urls_count: 0
 ssl_rank: 
 http_rank: F
@@ -27,9 +27,9 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/masterplanbasisvaardigheden.nl/subdomains.txt)|0|Alive subdomains|
+|[subdomains.txt](/DutchGovScope/data/masterplanbasisvaardigheden.nl/subdomains.txt)|3|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/masterplanbasisvaardigheden.nl/urls.txt)|0|Urls|
-|[all_subdomains.txt](/DutchGovScope/data/masterplanbasisvaardigheden.nl/all_subdomains.txt)|4|All found subdomains (history)|
+|[all_subdomains.txt](/DutchGovScope/data/masterplanbasisvaardigheden.nl/all_subdomains.txt)|7|All found subdomains (history)|
 
 
 ## Statistics

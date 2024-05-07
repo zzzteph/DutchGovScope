@@ -11,7 +11,7 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/hoogpkb.nl/subdomains.txt)|7|Alive subdomains|
+|[subdomains.txt](/data/hoogpkb.nl/subdomains.txt)|9|Alive subdomains|
 |[urls.txt](/data/hoogpkb.nl/urls.txt)|6|Urls|
 |[all_subdomains.txt](/data/hoogpkb.nl/all_subdomains.txt)|10|All found subdomains (history)|
 

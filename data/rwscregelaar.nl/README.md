@@ -12,7 +12,7 @@
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/rwscregelaar.nl/subdomains.txt)|2246|Alive subdomains|
-|[urls.txt](/data/rwscregelaar.nl/urls.txt)|2245|Urls|
+|[urls.txt](/data/rwscregelaar.nl/urls.txt)|2246|Urls|
 |[all_subdomains.txt](/data/rwscregelaar.nl/all_subdomains.txt)|2248|All found subdomains (history)|
 
 
@@ -2266,4 +2266,5 @@
 |[https://web6046.rwscregelaar.nl](https://web6046.rwscregelaar.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu|DAT.Mobility|
 |[https://824.rwscregelaar.nl](https://824.rwscregelaar.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu|DAT.Mobility|
 |[https://verzekering-auto.rwscregelaar.nl](https://verzekering-auto.rwscregelaar.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu|DAT.Mobility|
+|[https://2020-discovery-ds-public.rwscregelaar.nl](https://2020-discovery-ds-public.rwscregelaar.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu|DAT.Mobility|
 

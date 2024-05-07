@@ -123,3 +123,5 @@ https://handboekgc.tweedekamer.nl
 https://planon-live.tweedekamer.nl
 https://samenwerkruimten.tweedekamer.nl
 https://oracle-financials.tweedekamer.nl
+https://oracle-financials-ontw.tweedekamer.nl
+https://oracle-financials-acc.tweedekamer.nl

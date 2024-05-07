@@ -21,10 +21,10 @@
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://www.cruksregister.nl](https://www.cruksregister.nl)| **A+**| **A**|cloudflare| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Cloudflare HSTS|302 Found|
-|[https://cruksregister.nl](https://cruksregister.nl)| **A+**| **A**|cloudflare| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bootstrap:1 Cloudflare HSTS|Centraal Registe...|
-|[https://test.cruksregister.nl](https://test.cruksregister.nl)| **A+**| **B**|cloudflare| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Cloudflare HSTS|Attention Requir...|
-|[https://acc.cruksregister.nl](https://acc.cruksregister.nl)| **A+**| **B**|cloudflare| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Cloudflare HSTS|Attention Requir...|
+|[https://www.cruksregister.nl](https://www.cruksregister.nl)| **A+**| **A**|cloudflare| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Cloudflare HSTS HTTP/3|302 Found|
+|[https://cruksregister.nl](https://cruksregister.nl)| **A+**| **A**|cloudflare| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bootstrap:1 Cloudflare HSTS HTTP/3|Centraal Registe...|
+|[https://test.cruksregister.nl](https://test.cruksregister.nl)| **A+**| **B**|cloudflare| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Cloudflare HSTS HTTP/3|Attention Requir...|
+|[https://acc.cruksregister.nl](https://acc.cruksregister.nl)| **A+**| **B**|cloudflare| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Cloudflare HSTS HTTP/3|Attention Requir...|
 |[https://grafana.cruksregister.nl](https://grafana.cruksregister.nl)| | **A**|cloudflare| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Cloudflare HSTS HTTP/3||
 |[https://jaeger.cruksregister.nl](https://jaeger.cruksregister.nl)| | **A**|cloudflare| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Cloudflare HSTS HTTP/3|404 Not Found|
 |[https://pingdom.cruksregister.nl](https://pingdom.cruksregister.nl)| | **A**|cloudflare| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Cloudflare HSTS HTTP/3|404 Not Found|
