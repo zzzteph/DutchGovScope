@@ -12,7 +12,7 @@
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/ndw.nu/subdomains.txt)|96|Alive subdomains|
-|[urls.txt](/data/ndw.nu/urls.txt)|86|Urls|
+|[urls.txt](/data/ndw.nu/urls.txt)|87|Urls|
 |[all_subdomains.txt](/data/ndw.nu/all_subdomains.txt)|121|All found subdomains (history)|
 
 
@@ -107,4 +107,5 @@
 |[https://security.staging.ndw.nu](https://security.staging.ndw.nu)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://design.ndw.nu](https://design.ndw.nu)| | **F**|Microsoft-Azure-Application-Gateway/v2| | | | | | | | :white_check_mark: | ||404 Not Found|
 |[https://sentry.ndw.nu](https://sentry.ndw.nu)| | **F**|Microsoft-Azure-Application-Gateway/v2| | | | | | | | :white_check_mark: | ||404 Not Found|
+|[https://viz.ndw.nu](https://viz.ndw.nu)| | **F**|Microsoft-Azure-Application-Gateway/v2| | | | | | | | :white_check_mark: | ||404 Not Found|
 

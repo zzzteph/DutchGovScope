@@ -1,3 +1,4 @@
 feeds.masterplanbasisvaardigheden.nl
 masterplanbasisvaardigheden.nl
 opendata.masterplanbasisvaardigheden.nl
+www.masterplanbasisvaardigheden.nl

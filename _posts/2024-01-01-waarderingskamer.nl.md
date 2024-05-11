@@ -2,7 +2,7 @@
 layout: default
 title: "waarderingskamer.nl"
 permalink: "/dutchgov/waarderingskamer.nl.html"
-subdomains_count: 25
+subdomains_count: 24
 all_subdomains_count: 53
 urls_count: 13
 ssl_rank: A-
@@ -27,7 +27,7 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/waarderingskamer.nl/subdomains.txt)|25|Alive subdomains|
+|[subdomains.txt](/DutchGovScope/data/waarderingskamer.nl/subdomains.txt)|24|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/waarderingskamer.nl/urls.txt)|13|Urls|
 |[all_subdomains.txt](/DutchGovScope/data/waarderingskamer.nl/all_subdomains.txt)|53|All found subdomains (history)|
 

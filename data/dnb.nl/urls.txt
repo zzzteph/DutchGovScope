@@ -112,3 +112,6 @@ https://tz-organisatiegegevens-dev.dnb.nl
 https://tz-organisatiegegevens.dnb.nl
 https://knowledge.sharepoint.dnb.nl
 https://tz-aanvragen-dev.dnb.nl
+https://tz-aanvragen-tst.dnb.nl
+https://federated-login-pp.dnb.nl
+https://federated-login.dnb.nl

@@ -22,3 +22,4 @@ https://us.apps.feedfoodtransfer.nl
 https://blog.apps.feedfoodtransfer.nl
 https://login.apps.feedfoodtransfer.nl
 https://webdisk.apps.feedfoodtransfer.nl
+https://jira.apps.feedfoodtransfer.nl

@@ -46,3 +46,6 @@ timeline.test.zm.irealisatie.nl
 qualification.test.zm.irealisatie.nl
 metadata.test.zm.irealisatie.nl
 addressing.test.zm.irealisatie.nl
+www.test.zm.irealisatie.nl
+acc.dusi.irealisatie.nl
+test.dusi.irealisatie.nl

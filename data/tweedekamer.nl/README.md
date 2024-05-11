@@ -12,7 +12,7 @@
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/tweedekamer.nl/subdomains.txt)|190|Alive subdomains|
-|[urls.txt](/data/tweedekamer.nl/urls.txt)|127|Urls|
+|[urls.txt](/data/tweedekamer.nl/urls.txt)|128|Urls|
 |[all_subdomains.txt](/data/tweedekamer.nl/all_subdomains.txt)|287|All found subdomains (history)|
 
 
@@ -148,4 +148,5 @@
 |[https://oracle-financials.tweedekamer.nl](https://oracle-financials.tweedekamer.nl)| | **B**|BigIP|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |F5 BigIP||
 |[https://oracle-financials-ontw.tweedekamer.nl](https://oracle-financials-ontw.tweedekamer.nl)| | **F**|BigIP| | | | | | | | :white_check_mark: | |F5 BigIP||
 |[https://oracle-financials-acc.tweedekamer.nl](https://oracle-financials-acc.tweedekamer.nl)| | **F**|BigIP| | | | | | | | :white_check_mark: | |F5 BigIP||
+|[https://cognos.tweedekamer.nl](https://cognos.tweedekamer.nl)| | **F**|BigIP| | | | | | | | :white_check_mark: | |F5 BigIP||
 

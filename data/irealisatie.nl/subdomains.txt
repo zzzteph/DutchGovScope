@@ -39,3 +39,4 @@ start.acc.dusi.irealisatie.nl
 collabora.acc.irealisatie.nl
 stats.test.mgo.irealisatie.nl
 uren.acc.irealisatie.nl
+uren.irealisatie.nl

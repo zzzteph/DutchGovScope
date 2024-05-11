@@ -35,13 +35,11 @@ grnms108.duo.nl
 xml-test.duo.nl
 grnap176.duo.nl
 node2.kafka-facet.duo.nl
-digidcc-mijn.duo.nl
 veiligbron.scha.duo.nl
 lyncdiscover.duo.nl
 vt-webservice-szw.duo.nl
 node3.kafka-facet.duo.nl
 vt-idposr.duo.nl
-vt-digidcc-mijn.duo.nl
 as-derb-01.duo.nl
 werkplek-tijdelijk1.duo.nl
 test-onderwijsdata.duo.nl

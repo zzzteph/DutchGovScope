@@ -11,7 +11,7 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/incidentmanagement.nl/subdomains.txt)|6|Alive subdomains|
+|[subdomains.txt](/data/incidentmanagement.nl/subdomains.txt)|7|Alive subdomains|
 |[urls.txt](/data/incidentmanagement.nl/urls.txt)|4|Urls|
 |[all_subdomains.txt](/data/incidentmanagement.nl/all_subdomains.txt)|8|All found subdomains (history)|
 

@@ -1,4 +1,3 @@
 autodiscover.contactpuntbouwproducten.nl
 www.contactpuntbouwproducten.nl
 contactpuntbouwproducten.nl
-test.contactpuntbouwproducten.nl

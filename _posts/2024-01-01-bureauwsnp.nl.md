@@ -2,7 +2,7 @@
 layout: default
 title: "bureauwsnp.nl"
 permalink: "/dutchgov/bureauwsnp.nl.html"
-subdomains_count: 3
+subdomains_count: 7
 all_subdomains_count: 10
 urls_count: 2
 ssl_rank: 
@@ -27,7 +27,7 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/bureauwsnp.nl/subdomains.txt)|3|Alive subdomains|
+|[subdomains.txt](/DutchGovScope/data/bureauwsnp.nl/subdomains.txt)|7|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/bureauwsnp.nl/urls.txt)|2|Urls|
 |[all_subdomains.txt](/DutchGovScope/data/bureauwsnp.nl/all_subdomains.txt)|10|All found subdomains (history)|
 

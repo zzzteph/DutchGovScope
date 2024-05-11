@@ -174,3 +174,9 @@ app.test.trainingscatalogus.nl
 test2.test.trainingscatalogus.nl
 forum.test.trainingscatalogus.nl
 imap.test.trainingscatalogus.nl
+burgerloket.test.trainingscatalogus.nl
+squit2020.test.trainingscatalogus.nl
+apps.test.trainingscatalogus.nl
+contentbeheer.test.trainingscatalogus.nl
+my.test.trainingscatalogus.nl
+parnassia-lms.trainingscatalogus.nl

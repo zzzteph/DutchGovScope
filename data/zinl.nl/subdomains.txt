@@ -41,5 +41,4 @@ tableau.zinl.nl
 cmg.zinl.nl
 enterpriseenrollment.zinl.nl
 jenkins.zinl.nl
-sipexternal.zinl.nl
 sslvpn.zinl.nl

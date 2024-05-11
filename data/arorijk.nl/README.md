@@ -11,8 +11,8 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/arorijk.nl/subdomains.txt)|4|Alive subdomains|
-|[urls.txt](/data/arorijk.nl/urls.txt)|4|Urls|
+|[subdomains.txt](/data/arorijk.nl/subdomains.txt)|3|Alive subdomains|
+|[urls.txt](/data/arorijk.nl/urls.txt)|3|Urls|
 |[all_subdomains.txt](/data/arorijk.nl/all_subdomains.txt)|4|All found subdomains (history)|
 
 
@@ -24,5 +24,4 @@
 |[https://static.arorijk.nl](https://static.arorijk.nl)| **A+**| **A**|| |:white_check_mark: | | | :white_check_mark:| | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://www.arorijk.nl](https://www.arorijk.nl)| **A+**| **A**||:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Ruby Ruby on Rails|Agressie Registr...|
 |[https://arorijk.nl](https://arorijk.nl)| **A+**| **A**||:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Ruby Ruby on Rails|Agressie Registr...|
-|[https://next.arorijk.nl](https://next.arorijk.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS|Pagina niet gevo...|
 

@@ -16,7 +16,6 @@ acceptatie.waarderingskamer.nl
 vpn2.waarderingskamer.nl
 vpn.waarderingskamer.nl
 api.waarderingskamer.nl
-basic-test.acceptatie.woz-it.waarderingskamer.nl
 acceptatie.woz-it.waarderingskamer.nl
 acceptatie.mijn.waarderingskamer.nl
 wem-staging.waarderingskamer.nl

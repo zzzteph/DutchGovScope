@@ -29,6 +29,7 @@ portal1.pbl.nl
 mobile.pbl.nl
 acc-themasites.pbl.nl
 www2.pbl.nl
+pebbles.pbl.nl
 acc-leidraad.pbl.nl
 mdm.pbl.nl
 acc.pbl.nl

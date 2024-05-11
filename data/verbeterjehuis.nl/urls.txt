@@ -7,3 +7,4 @@ https://cms.verbeterjehuis.nl
 https://content.verbeterjehuis.nl
 http://localhost.verbeterjehuis.nl
 https://test-u8-www.verbeterjehuis.nl
+https://acc-u8-www.verbeterjehuis.nl

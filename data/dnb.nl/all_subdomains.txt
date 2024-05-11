@@ -295,3 +295,4 @@ tz-aanvragen-tst.dnb.nl
 federated-login-pp.dnb.nl
 federated-login.dnb.nl
 monet-dev.dnb.nl
+monet-tst.dnb.nl

@@ -125,3 +125,4 @@ https://samenwerkruimten.tweedekamer.nl
 https://oracle-financials.tweedekamer.nl
 https://oracle-financials-ontw.tweedekamer.nl
 https://oracle-financials-acc.tweedekamer.nl
+https://cognos.tweedekamer.nl

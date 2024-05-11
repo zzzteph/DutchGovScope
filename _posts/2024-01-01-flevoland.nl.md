@@ -4,7 +4,7 @@ title: "flevoland.nl"
 permalink: "/dutchgov/flevoland.nl.html"
 subdomains_count: 105
 all_subdomains_count: 223
-urls_count: 77
+urls_count: 78
 ssl_rank: A-
 http_rank: C
 security_txt: 25
@@ -28,7 +28,7 @@ tags: dutchgov
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/DutchGovScope/data/flevoland.nl/subdomains.txt)|105|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/flevoland.nl/urls.txt)|77|Urls|
+|[urls.txt](/DutchGovScope/data/flevoland.nl/urls.txt)|78|Urls|
 |[all_subdomains.txt](/DutchGovScope/data/flevoland.nl/all_subdomains.txt)|223|All found subdomains (history)|
 
 
@@ -114,4 +114,5 @@ tags: dutchgov
 |[https://enterpriseregistration.flevoland.nl](https://enterpriseregistration.flevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://msoid.flevoland.nl](https://msoid.flevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Object moved|
 |[https://mbg-proxy.flevoland.nl](https://mbg-proxy.flevoland.nl)| | **A**|Apache| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS|Redirecting...|
+|[https://gebouwbeheer.flevoland.nl](https://gebouwbeheer.flevoland.nl)| | **F**|Microsoft-IIS/10.0| | | | | | | | :white_check_mark: | |IIS:10.0 Windows Server|IIS Windows|
 
