@@ -43,13 +43,13 @@ tags: dutchgov
 |[https://cdn-6.eemskrant.nl](https://cdn-6.eemskrant.nl)| **F**| **F**|LiteSpeed| | | | | | | | :white_check_mark: | |Bootstrap HTTP/3 LiteSpeed|Domeinnaam geres...|
 |[https://cdn-1.eemskrant.nl](https://cdn-1.eemskrant.nl)| **F**| **F**|LiteSpeed| | | | | | | | :white_check_mark: | |Bootstrap HTTP/3 LiteSpeed|Domeinnaam geres...|
 |[https://pop.eemskrant.nl](https://pop.eemskrant.nl)| **F**| **F**|LiteSpeed| | | | | | | | :white_check_mark: | |Bootstrap HTTP/3 LiteSpeed|Domeinnaam geres...|
-|[https://www.eemskrant.nl](https://www.eemskrant.nl)| **A**| **F**|LiteSpeed| | | | | | | | :white_check_mark: | |HTTP/3 LiteSpeed MySQL PHP:8.2.16 Site Kit:1.125.0 WordPress Yoast SEO:22.5|Eemskrant.nl Nie...|
+|[https://www.eemskrant.nl](https://www.eemskrant.nl)| **A**| **F**|LiteSpeed| | | | | | | | :white_check_mark: | |HTTP/3 LiteSpeed MySQL PHP:8.2.18 Site Kit:1.126.0 WordPress Yoast SEO:22.6|Eemskrant.nl Nie...|
 |[https://archief.eemskrant.nl](https://archief.eemskrant.nl)| **F**| **F**|LiteSpeed| | | | | | | | :white_check_mark: | |Bootstrap HTTP/3 LiteSpeed|Domeinnaam geres...|
 |[https://smtp.eemskrant.nl](https://smtp.eemskrant.nl)| **F**| **F**|LiteSpeed| | | | | | | | :white_check_mark: | |Bootstrap HTTP/3 LiteSpeed|Domeinnaam geres...|
 |[https://cdn-4.eemskrant.nl](https://cdn-4.eemskrant.nl)| **F**| **F**|LiteSpeed| | | | | | | | :white_check_mark: | |Bootstrap HTTP/3 LiteSpeed|Domeinnaam geres...|
 |[https://cdn-0.eemskrant.nl](https://cdn-0.eemskrant.nl)| **F**| **F**|LiteSpeed| | | | | | | | :white_check_mark: | |Bootstrap HTTP/3 LiteSpeed|Domeinnaam geres...|
 |[https://cdn.eemskrant.nl](https://cdn.eemskrant.nl)| **F**| **F**|LiteSpeed| | | | | | | | :white_check_mark: | |Bootstrap HTTP/3 LiteSpeed|Domeinnaam geres...|
-|[https://eemskrant.nl](https://eemskrant.nl)| **A**| **F**|LiteSpeed| | | | | | | | :white_check_mark: | |HTTP/3 LiteSpeed PHP:8.2.16||
+|[https://eemskrant.nl](https://eemskrant.nl)| **A**| **F**|LiteSpeed| | | | | | | | :white_check_mark: | |HTTP/3 LiteSpeed PHP:8.2.18||
 |[https://mail.eemskrant.nl](https://mail.eemskrant.nl)| **F**| **F**|LiteSpeed| | | | | | | | :white_check_mark: | |Bootstrap HTTP/3 LiteSpeed|Domeinnaam geres...|
 |[https://cdn-5.eemskrant.nl](https://cdn-5.eemskrant.nl)| **F**| **F**|LiteSpeed| | | | | | | | :white_check_mark: | |Bootstrap HTTP/3 LiteSpeed|Domeinnaam geres...|
 |[https://cdn-2.eemskrant.nl](https://cdn-2.eemskrant.nl)| **F**| **F**|LiteSpeed| | | | | | | | :white_check_mark: | |Bootstrap HTTP/3 LiteSpeed|Domeinnaam geres...|

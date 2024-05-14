@@ -46,7 +46,7 @@ tags: dutchgov
 |[https://opendata.domeinenrz.nl](https://opendata.domeinenrz.nl)| **A+**| **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://opendata.english.domeinenrz.nl](https://opendata.english.domeinenrz.nl)| **A+**| **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://ras.domeinenrz.nl](https://ras.domeinenrz.nl)| **A**| **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
-|[https://verkoop.domeinenrz.nl](https://verkoop.domeinenrz.nl)| **A+**| **B**|Apache|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS PHP|Verkoop bij insc...|
+|[https://verkoop.domeinenrz.nl](https://verkoop.domeinenrz.nl)| **A+**| **B**|Apache|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS PHP|Verkoop bij Insc...|
 |[https://verkooptest.domeinenrz.nl](https://verkooptest.domeinenrz.nl)| **B**| **B**|Apache|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server Basic HSTS||
 |[https://vuurwerk.domeinenrz.nl](https://vuurwerk.domeinenrz.nl)| **A**| **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server Basic|401 Unauthorized|
 |[https://www.domeinenrz.nl](https://www.domeinenrz.nl)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Home | Domeinen...|

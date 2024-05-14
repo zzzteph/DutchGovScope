@@ -11,7 +11,7 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/minvenj.nl/subdomains.txt)|93|Alive subdomains|
+|[subdomains.txt](/data/minvenj.nl/subdomains.txt)|92|Alive subdomains|
 |[urls.txt](/data/minvenj.nl/urls.txt)|24|Urls|
 |[all_subdomains.txt](/data/minvenj.nl/all_subdomains.txt)|527|All found subdomains (history)|
 

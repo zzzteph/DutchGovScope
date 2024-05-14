@@ -2,7 +2,7 @@
 layout: default
 title: "platformwow.nl"
 permalink: "/dutchgov/platformwow.nl.html"
-subdomains_count: 19
+subdomains_count: 22
 all_subdomains_count: 24
 urls_count: 14
 ssl_rank: B-
@@ -27,7 +27,7 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/platformwow.nl/subdomains.txt)|19|Alive subdomains|
+|[subdomains.txt](/DutchGovScope/data/platformwow.nl/subdomains.txt)|22|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/platformwow.nl/urls.txt)|14|Urls|
 |[all_subdomains.txt](/DutchGovScope/data/platformwow.nl/all_subdomains.txt)|24|All found subdomains (history)|
 

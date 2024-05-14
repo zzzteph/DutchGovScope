@@ -9,8 +9,6 @@ opendata.english.onderwijsinspectie.nl
 toezichtresultaten.onderwijsinspectie.nl
 toezichtresultaten.acc.onderwijsinspectie.nl
 www.onderwijsinspectie.nl
-www.zoekscholen.onderwijsinspectie.nl
-zoekscholen.onderwijsinspectie.nl
 onderwijsinspectie.nl
 a-feeds.a-english.onderwijsinspectie.nl
 a-feeds.onderwijsinspectie.nl

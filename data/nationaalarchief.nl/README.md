@@ -12,7 +12,7 @@
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/nationaalarchief.nl/subdomains.txt)|102|Alive subdomains|
-|[urls.txt](/data/nationaalarchief.nl/urls.txt)|43|Urls|
+|[urls.txt](/data/nationaalarchief.nl/urls.txt)|44|Urls|
 |[all_subdomains.txt](/data/nationaalarchief.nl/all_subdomains.txt)|190|All found subdomains (history)|
 
 
@@ -24,15 +24,16 @@
 |[http://beeldbank.nationaalarchief.nl](http://beeldbank.nationaalarchief.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |HTTP/3 Nginx||
 |[https://servicebureau.nationaalarchief.nl](https://servicebureau.nationaalarchief.nl)| **B**| **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Login|
 |[https://bibliotheek.nationaalarchief.nl](https://bibliotheek.nationaalarchief.nl)| **B**| **F**|Central System Dispatcher/1.1| | | | | | | | :white_check_mark: | |HSTS||
-|[https://www1.nationaalarchief.nl](https://www1.nationaalarchief.nl)| **F**| **F**|nginx/1.25.1| | | | | | | | :white_check_mark: | |HSTS Nginx:1.25.1||
-|[https://aankomst.nationaalarchief.nl](https://aankomst.nationaalarchief.nl)| **F**| **F**|nginx/1.25.1| | | | | | | | :white_check_mark: | |HSTS Nginx:1.25.1||
-|[https://oranjehotel.nationaalarchief.nl](https://oranjehotel.nationaalarchief.nl)| **F**| **F**|nginx/1.25.1| | | | | | | | :white_check_mark: | |HSTS Nginx:1.25.1||
-|[https://vocbesatzungen.nationaalarchief.nl](https://vocbesatzungen.nationaalarchief.nl)| **F**| **F**|nginx/1.25.1| | | | | | | | :white_check_mark: | |HSTS Nginx:1.25.1||
-|[https://vocopvarenden.nationaalarchief.nl](https://vocopvarenden.nationaalarchief.nl)| **F**| **F**|nginx/1.25.1| | | | | | | | :white_check_mark: | |HSTS Nginx:1.25.1||
-|[https://vocseavoyagers.nationaalarchief.nl](https://vocseavoyagers.nationaalarchief.nl)| **F**| **F**|nginx/1.25.1| | | | | | | | :white_check_mark: | |HSTS Nginx:1.25.1||
+|[https://www1.nationaalarchief.nl](https://www1.nationaalarchief.nl)| **F**| **F**|nginx/1.25.3| | | | | | | | :white_check_mark: | |HSTS Nginx:1.25.3||
+|[https://aankomst.nationaalarchief.nl](https://aankomst.nationaalarchief.nl)| **F**| **F**|nginx/1.25.3| | | | | | | | :white_check_mark: | |HSTS Nginx:1.25.3||
+|[https://oranjehotel.nationaalarchief.nl](https://oranjehotel.nationaalarchief.nl)| **F**| **F**|nginx/1.25.3| | | | | | | | :white_check_mark: | |HSTS Nginx:1.25.3||
+|[https://vocbesatzungen.nationaalarchief.nl](https://vocbesatzungen.nationaalarchief.nl)| **F**| **F**|nginx/1.25.3| | | | | | | | :white_check_mark: | |HSTS Nginx:1.25.3||
+|[https://vocopvarenden.nationaalarchief.nl](https://vocopvarenden.nationaalarchief.nl)| **F**| **F**|nginx/1.25.3| | | | | | | | :white_check_mark: | |HSTS Nginx:1.25.3||
+|[https://vocseavoyagers.nationaalarchief.nl](https://vocseavoyagers.nationaalarchief.nl)| **F**| **F**|nginx/1.25.3| | | | | | | | :white_check_mark: | |HSTS Nginx:1.25.3||
 |[https://acpt.nationaalarchief.nl](https://acpt.nationaalarchief.nl)| **A**| **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|403 Forbidden|
 |[https://actorenregister.acpt.nationaalarchief.nl](https://actorenregister.acpt.nationaalarchief.nl)| **A**| **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|403 Forbidden|
 |[https://actorenregister.nationaalarchief.nl](https://actorenregister.nationaalarchief.nl)| **A+**| **A**|nginx| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Drupal:9 HSTS Nginx PHP|Welkom | Actoren...|
+|[https://actorenregister.test.nationaalarchief.nl](https://actorenregister.test.nationaalarchief.nl)| **A**| **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|403 Forbidden|
 |[https://cbs.acpt.nationaalarchief.nl](https://cbs.acpt.nationaalarchief.nl)| **A**| **E**|| | | | | | | | :white_check_mark: | |||
 |[https://cbs.nationaalarchief.nl](https://cbs.nationaalarchief.nl)| **A**| **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |||
 |[https://chat.nationaalarchief.nl](https://chat.nationaalarchief.nl)| **A+**| **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Mattermost|
@@ -44,10 +45,10 @@
 |[https://en.nationaalarchief.nl](https://en.nationaalarchief.nl)| **B**| **A**|nginx| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Nginx|301 Moved Perman...|
 |[https://nationaalarchief.nl](https://nationaalarchief.nl)| **B**| **A**|nginx| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Nginx|301 Moved Perman...|
 |[https://www.nationaalarchief.nl](https://www.nationaalarchief.nl)| **B**| **A**|nginx| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Drupal HSTS Nginx PHP|Nationaal Archie...|
-|[https://gaf.nationaalarchief.nl](https://gaf.nationaalarchief.nl)| **F**| **F**|nginx/1.25.1| | | | | | | | :white_check_mark: | |Drupal HSTS Nginx:1.25.1 PHP||
-|[https://registratietool.nationaalarchief.nl](https://registratietool.nationaalarchief.nl)| **A+**| **A**|nginx/1.25.1| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Drupal HSTS Nginx:1.25.1 PHP||
+|[https://gaf.nationaalarchief.nl](https://gaf.nationaalarchief.nl)| **F**| **F**|nginx/1.25.3| | | | | | | | :white_check_mark: | |Drupal HSTS Nginx:1.25.3 PHP||
+|[https://registratietool.nationaalarchief.nl](https://registratietool.nationaalarchief.nl)| **A+**| **A**|nginx/1.25.3| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Drupal HSTS Nginx:1.25.3 PHP||
 |[https://graphdb.nationaalarchief.nl](https://graphdb.nationaalarchief.nl)| **A**| **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|403 Forbidden|
-|[https://lbrproxy.prod.nationaalarchief.nl](https://lbrproxy.prod.nationaalarchief.nl)| **F**| **F**|nginx/1.25.1| | | | | | | | :white_check_mark: | |Nginx:1.25.1|301 Moved Perman...|
+|[https://lbrproxy.prod.nationaalarchief.nl](https://lbrproxy.prod.nationaalarchief.nl)| **F**| **F**|nginx/1.25.3| | | | | | | | :white_check_mark: | |Nginx:1.25.3|301 Moved Perman...|
 |[https://lbrproxy.test.nationaalarchief.nl](https://lbrproxy.test.nationaalarchief.nl)| **F**| **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|403 Forbidden|
 |[https://test.nationaalarchief.nl](https://test.nationaalarchief.nl)| **A**| **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|403 Forbidden|
 |[https://meeting.nationaalarchief.nl](https://meeting.nationaalarchief.nl)| **A+**| **B**|nginx| |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | |HSTS Nginx|Jitsi Meet|

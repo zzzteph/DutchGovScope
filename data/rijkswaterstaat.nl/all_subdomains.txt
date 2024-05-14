@@ -658,3 +658,11 @@ wifi2.rijkswaterstaat.nl
 acp.live.werkenbij.rijkswaterstaat.nl
 wcag-2.1-inspectie-bezoekerscentrum.rijkswaterstaat.nl
 sawa.rijkswaterstaat.nl
+v14.rijkswaterstaat.nl
+t01062013.botova.rijkswaterstaat.nl
+sftp.esb.intranet.rijkswaterstaat.nl
+www.sftp.esb.intranet.rijkswaterstaat.nl
+acceptatie.sftp.esb.intranet.rijkswaterstaat.nl
+www.acceptatie.sftp.esb.intranet.rijkswaterstaat.nl
+test.sftp.esb.intranet.rijkswaterstaat.nl
+www.test.sftp.esb.intranet.rijkswaterstaat.nl

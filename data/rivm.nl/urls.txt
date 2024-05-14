@@ -260,7 +260,6 @@ https://api.dev-lsp.rivm.nl
 http://lkvis.rivm.nl
 https://www.rivm.nl
 https://rivm.nl
-http://sftp.rivm.nl
 https://tst-lsp.rivm.nl
 https://api.tst-lsp.rivm.nl
 https://lsp.rivm.nl

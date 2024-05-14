@@ -2,9 +2,9 @@
 layout: default
 title: "onderwijsinspectie.nl"
 permalink: "/dutchgov/onderwijsinspectie.nl.html"
-subdomains_count: 21
+subdomains_count: 19
 all_subdomains_count: 28
-urls_count: 14
+urls_count: 12
 ssl_rank: A
 http_rank: B
 security_txt: 9
@@ -27,8 +27,8 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/onderwijsinspectie.nl/subdomains.txt)|21|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/onderwijsinspectie.nl/urls.txt)|14|Urls|
+|[subdomains.txt](/DutchGovScope/data/onderwijsinspectie.nl/subdomains.txt)|19|Alive subdomains|
+|[urls.txt](/DutchGovScope/data/onderwijsinspectie.nl/urls.txt)|12|Urls|
 |[all_subdomains.txt](/DutchGovScope/data/onderwijsinspectie.nl/all_subdomains.txt)|28|All found subdomains (history)|
 
 
@@ -48,7 +48,5 @@ tags: dutchgov
 |[https://toezichtresultaten.onderwijsinspectie.nl](https://toezichtresultaten.onderwijsinspectie.nl)| **B**| **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|Toezichtresultat...|
 |[https://toezichtresultaten.acc.onderwijsinspectie.nl](https://toezichtresultaten.acc.onderwijsinspectie.nl)| **B**| **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|Toezichtresultat...|
 |[https://www.onderwijsinspectie.nl](https://www.onderwijsinspectie.nl)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Inspectie van he...|
-|[https://www.zoekscholen.onderwijsinspectie.nl](https://www.zoekscholen.onderwijsinspectie.nl)| **B**| **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|301 Moved Perman...|
-|[https://zoekscholen.onderwijsinspectie.nl](https://zoekscholen.onderwijsinspectie.nl)| **B**| **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|301 Moved Perman...|
 |[https://onderwijsinspectie.nl](https://onderwijsinspectie.nl)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
 

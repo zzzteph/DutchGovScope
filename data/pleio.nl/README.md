@@ -12,7 +12,7 @@
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/pleio.nl/subdomains.txt)|1521|Alive subdomains|
-|[urls.txt](/data/pleio.nl/urls.txt)|1513|Urls|
+|[urls.txt](/data/pleio.nl/urls.txt)|1514|Urls|
 |[all_subdomains.txt](/data/pleio.nl/all_subdomains.txt)|1522|All found subdomains (history)|
 
 
@@ -1534,4 +1534,5 @@
 |[https://minbuza.nljajaneegelijkmanifestgroepmanifestgroep.pleio.nl](https://minbuza.nljajaneegelijkmanifestgroepmanifestgroep.pleio.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS|404 Not Found|
 |[https://manifestgroepmanifestgroep.pleio.nl](https://manifestgroepmanifestgroep.pleio.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Domeinnaam nog n...|
 |[https://videobellen-jwt-moderator.pleio.nl](https://videobellen-jwt-moderator.pleio.nl)| | **C**|nginx/1.18.0 (Ubuntu)| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Nginx:1.18.0 Ubuntu|Jitsi Meet|
+|[https://dgh-chat.pleio.nl](https://dgh-chat.pleio.nl)| | **B**||:warning: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Ruby Ruby on Rails||
 

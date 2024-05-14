@@ -3,7 +3,6 @@ accept.beeldbank.gebruikercentraal.nl
 accept.designthinking.gebruikercentraal.nl
 accept.expertpanel.gebruikercentraal.nl
 accept.inclusie.gebruikercentraal.nl
-accept.inclusivedesign.gebruikercentraal.nl
 accept.lint.gebruikercentraal.nl
 accept.optimaaldigitaal.gebruikercentraal.nl
 accept.rotterdammer.gebruikercentraal.nl
@@ -20,7 +19,6 @@ expertpanel.gebruikercentraal.nl
 inclusie.gebruikercentraal.nl
 inclusiekader.gebruikercentraal.nl
 inclusievedienstverlening.gebruikercentraal.nl
-inclusivedesign.gebruikercentraal.nl
 lint.gebruikercentraal.nl
 maturityscan.gebruikercentraal.nl
 optimaaldigitaal.gebruikercentraal.nl

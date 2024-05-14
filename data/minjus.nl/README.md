@@ -6,13 +6,13 @@
 
  - **SSL Grade**:A-
  - **HTTP Security Grade**:D
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:5
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:4
 
 
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/minjus.nl/subdomains.txt)|46|Alive subdomains|
-|[urls.txt](/data/minjus.nl/urls.txt)|25|Urls|
+|[urls.txt](/data/minjus.nl/urls.txt)|24|Urls|
 |[all_subdomains.txt](/data/minjus.nl/all_subdomains.txt)|448|All found subdomains (history)|
 
 
@@ -44,6 +44,5 @@
 |[https://sip003.dji.minjus.nl](https://sip003.dji.minjus.nl)| | **F**|RTC/6.0| | | | | | | | :white_check_mark: | |HSTS||
 |[https://schedule.dji.minjus.nl](https://schedule.dji.minjus.nl)| **A+**| **C**|Microsoft-IIS/10.0| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS IIS:10.0 Windows Server|403 - Forbidden:...|
 |[https://enterpriseenrollment.avt.minjus.nl](https://enterpriseenrollment.avt.minjus.nl)| **A+**| **C**|server| | | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | ||302 Found|
-|[https://meet.acpt.dji.minjus.nl](https://meet.acpt.dji.minjus.nl)| **A+**| **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|Skype for Busine...|
 |[https://enterpriseenrollment.minjus.nl](https://enterpriseenrollment.minjus.nl)| | **F**|server| | | | | | | | :white_check_mark: | ||302 Found|
 

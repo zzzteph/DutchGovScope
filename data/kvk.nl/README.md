@@ -12,7 +12,7 @@
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/kvk.nl/subdomains.txt)|194|Alive subdomains|
-|[urls.txt](/data/kvk.nl/urls.txt)|60|Urls|
+|[urls.txt](/data/kvk.nl/urls.txt)|61|Urls|
 |[all_subdomains.txt](/data/kvk.nl/all_subdomains.txt)|490|All found subdomains (history)|
 
 
@@ -22,6 +22,7 @@
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[https://diensten.kvk.nl](https://diensten.kvk.nl)| **A+**| **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|301 Moved Perman...|
+|[https://staging.werkenbij.kvk.nl](https://staging.werkenbij.kvk.nl)| **B**| **C**||:warning: |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Google Tag Manager HSTS Microsoft ASP.NET|Vacatures en car...|
 |[https://ondernemersplein.kvk.nl](https://ondernemersplein.kvk.nl)| **A**| **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |Google Tag Manager HSTS|Ondernemersplein...|
 |[https://www.kvk.nl](https://www.kvk.nl)| **A+**| **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach Google Tag Manager HSTS|KVK - Kamer van...|
 |[https://cia.tst.ondernemersplein.kvk.nl](https://cia.tst.ondernemersplein.kvk.nl)| **A+**| **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||

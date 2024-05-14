@@ -7,7 +7,7 @@ all_subdomains_count: 39
 urls_count: 12
 ssl_rank: A
 http_rank: A
-security_txt: 10
+security_txt: 11
 url_link: /data/diergeneeskunderegister.nl/urls.txt
 all_subdomains_link: /data/diergeneeskunderegister.nl/all_subdomains.txt
 subdomains_link: /data/diergeneeskunderegister.nl/subdomains.txt
@@ -22,7 +22,7 @@ tags: dutchgov
 
  - **SSL Grade**:A
  - **HTTP Security Grade**:A
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:10
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:11
 
 
 | File       | Count | Info |

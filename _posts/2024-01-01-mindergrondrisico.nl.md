@@ -41,6 +41,6 @@ tags: dutchgov
 |[https://www.mindergrondrisico.nl](https://www.mindergrondrisico.nl)| **A+**| **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:-|Object moved|
 |[https://mindergrondrisico.nl](https://mindergrondrisico.nl)| **A+**| **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:-|Home - Minder gr...|
 |[http://ftp.mindergrondrisico.nl](http://ftp.mindergrondrisico.nl)| | **D**|| | | | | | | :white_check_mark: | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
-|[http://mail.mindergrondrisico.nl](http://mail.mindergrondrisico.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
+|[http://mail.mindergrondrisico.nl](http://mail.mindergrondrisico.nl)| | **D**|| | | | | | | :white_check_mark: | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
 |[http://staging.mindergrondrisico.nl](http://staging.mindergrondrisico.nl)| | **D**|| | | | | | | :white_check_mark: | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
 

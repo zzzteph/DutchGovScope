@@ -11,8 +11,8 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/rvig.nl/subdomains.txt)|31|Alive subdomains|
-|[urls.txt](/data/rvig.nl/urls.txt)|18|Urls|
+|[subdomains.txt](/data/rvig.nl/subdomains.txt)|33|Alive subdomains|
+|[urls.txt](/data/rvig.nl/urls.txt)|19|Urls|
 |[all_subdomains.txt](/data/rvig.nl/all_subdomains.txt)|72|All found subdomains (history)|
 
 
@@ -39,4 +39,5 @@
 |[https://prod.intranet.rvig.nl](https://prod.intranet.rvig.nl)| | **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Nginx|403 Forbidden|
 |[https://acc2.intranet.rvig.nl](https://acc2.intranet.rvig.nl)| | **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Nginx|403 Forbidden|
 |[https://lap.rvp.reis.npr.idm.rvig.nl](https://lap.rvp.reis.npr.idm.rvig.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
+|[http://lap.api.reis.npr.idm.rvig.nl](http://lap.api.reis.npr.idm.rvig.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 

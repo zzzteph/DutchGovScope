@@ -6,14 +6,14 @@
 
  - **SSL Grade**:
  - **HTTP Security Grade**:B
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:27
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:28
 
 
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/irealisatie.nl/subdomains.txt)|42|Alive subdomains|
-|[urls.txt](/data/irealisatie.nl/urls.txt)|36|Urls|
-|[all_subdomains.txt](/data/irealisatie.nl/all_subdomains.txt)|51|All found subdomains (history)|
+|[urls.txt](/data/irealisatie.nl/urls.txt)|38|Urls|
+|[all_subdomains.txt](/data/irealisatie.nl/all_subdomains.txt)|53|All found subdomains (history)|
 
 
 ## Statistics
@@ -50,11 +50,13 @@
 |[https://dva.test.mgo.irealisatie.nl](https://dva.test.mgo.irealisatie.nl)| | **B**|| |:white_check_mark: | :warning:| | | :white_check_mark: | | :white_check_mark: | |HSTS||
 |[https://lo-ad.test.mgo.irealisatie.nl](https://lo-ad.test.mgo.irealisatie.nl)| | **B**|| |:white_check_mark: | :warning:| | | :white_check_mark: | | :white_check_mark: | |HSTS||
 |[https://static.acc.dpr.irealisatie.nl](https://static.acc.dpr.irealisatie.nl)| | **B**|Apache| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS Hugo:0.124.1|Verwerkingsregis...|
-|[https://storage.test.mgo.irealisatie.nl](https://storage.test.mgo.irealisatie.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS||
+|[https://storage.test.mgo.irealisatie.nl](https://storage.test.mgo.irealisatie.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS||
 |[http://acme.proeftuin.uzi-online.irealisatie.nl](http://acme.proeftuin.uzi-online.irealisatie.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[http://test.mgo.irealisatie.nl](http://test.mgo.irealisatie.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://app-api.test.mgo.irealisatie.nl](https://app-api.test.mgo.irealisatie.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS||
-|[https://balie.dpr.irealisatie.nl](https://balie.dpr.irealisatie.nl)| | **B**|Apache| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server Basic HSTS|401 Unauthorized|
+|[https://balie.dpr.irealisatie.nl](https://balie.dpr.irealisatie.nl)| | **A**||:warning: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Redirecting to h...|
 |[https://start.test.dusi.irealisatie.nl](https://start.test.dusi.irealisatie.nl)| | **A**|Apache| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS||
 |[https://start.acc.dusi.irealisatie.nl](https://start.acc.dusi.irealisatie.nl)| | **A**|Apache| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS||
+|[https://collabora.acc.irealisatie.nl](https://collabora.acc.irealisatie.nl)| | **F**|COOLWSD HTTP Server 24.04.1.4| | | | | | | | :white_check_mark: | |||
+|[https://stats.test.mgo.irealisatie.nl](https://stats.test.mgo.irealisatie.nl)| | **B**|Apache| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server Basic HSTS|401 Unauthorized|
 

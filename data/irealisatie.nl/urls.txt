@@ -34,3 +34,5 @@ https://app-api.test.mgo.irealisatie.nl
 https://balie.dpr.irealisatie.nl
 https://start.test.dusi.irealisatie.nl
 https://start.acc.dusi.irealisatie.nl
+https://collabora.acc.irealisatie.nl
+https://stats.test.mgo.irealisatie.nl

@@ -2,9 +2,9 @@
 layout: default
 title: "rwscregelaar.nl"
 permalink: "/dutchgov/rwscregelaar.nl.html"
-subdomains_count: 2246
+subdomains_count: 2248
 all_subdomains_count: 2248
-urls_count: 2246
+urls_count: 2248
 ssl_rank: 
 http_rank: F
 security_txt: 0
@@ -27,8 +27,8 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/rwscregelaar.nl/subdomains.txt)|2246|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/rwscregelaar.nl/urls.txt)|2246|Urls|
+|[subdomains.txt](/DutchGovScope/data/rwscregelaar.nl/subdomains.txt)|2248|Alive subdomains|
+|[urls.txt](/DutchGovScope/data/rwscregelaar.nl/urls.txt)|2248|Urls|
 |[all_subdomains.txt](/DutchGovScope/data/rwscregelaar.nl/all_subdomains.txt)|2248|All found subdomains (history)|
 
 
@@ -318,6 +318,8 @@ tags: dutchgov
 |[https://www-ktest4.rwscregelaar.nl](https://www-ktest4.rwscregelaar.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu|DAT.Mobility|
 |[https://yoo.rwscregelaar.nl](https://yoo.rwscregelaar.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu|DAT.Mobility|
 |[https://ns63.rwscregelaar.nl](https://ns63.rwscregelaar.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu|DAT.Mobility|
+|[https://enough.rwscregelaar.nl](https://enough.rwscregelaar.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu|DAT.Mobility|
+|[https://tetris.rwscregelaar.nl](https://tetris.rwscregelaar.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu|DAT.Mobility|
 |[https://yanglab.rwscregelaar.nl](https://yanglab.rwscregelaar.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu|DAT.Mobility|
 |[https://zerotrust.rwscregelaar.nl](https://zerotrust.rwscregelaar.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu|DAT.Mobility|
 |[https://zi.rwscregelaar.nl](https://zi.rwscregelaar.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu|DAT.Mobility|

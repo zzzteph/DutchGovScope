@@ -298,6 +298,7 @@ https://emailtemplates.overheid.nl
 https://gegevensbijbesluiten.overheid.nl
 https://digid-stub.lpc.mijn.overheid.nl
 https://eidas-stub.lpc.mijn.overheid.nl
+http://stubs.lpc.mijn.overheid.nl
 https://wetgevingskalender-acc.overheid.nl
 https://beta-wetten.overheid.nl
 https://autodiscover.overheid.nl

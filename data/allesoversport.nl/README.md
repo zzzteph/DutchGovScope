@@ -334,5 +334,5 @@
 |[https://ww.allesoversport.nl](https://ww.allesoversport.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS Varnish:6.2|Default site|
 |[https://vriendelijkeomgevingwww.allesoversport.nl](https://vriendelijkeomgevingwww.allesoversport.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS Varnish:6.2|Default site|
 |[https://www.kenniscentrumsportenbewegen.nlwww.allesoversport.nl](https://www.kenniscentrumsportenbewegen.nlwww.allesoversport.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS Varnish:6.2|Default site|
-|[https://kenniscentrumsportenbewegen.nlwww.kenniscentrumsportenbewegen.nlwww.allesoversport.nl](https://kenniscentrumsportenbewegen.nlwww.kenniscentrumsportenbewegen.nlwww.allesoversport.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS Varnish:6.2|Default site|
+|[https://kenniscentrumsportenbewegen.nlwww.kenniscentrumsportenbewegen.nlwww.allesoversport.nl](https://kenniscentrumsportenbewegen.nlwww.kenniscentrumsportenbewegen.nlwww.allesoversport.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS Varnish|Default site|
 

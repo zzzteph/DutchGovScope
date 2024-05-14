@@ -11,7 +11,7 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/masterplanbasisvaardigheden.nl/subdomains.txt)|4|Alive subdomains|
+|[subdomains.txt](/data/masterplanbasisvaardigheden.nl/subdomains.txt)|7|Alive subdomains|
 |[urls.txt](/data/masterplanbasisvaardigheden.nl/urls.txt)|0|Urls|
 |[all_subdomains.txt](/data/masterplanbasisvaardigheden.nl/all_subdomains.txt)|7|All found subdomains (history)|
 

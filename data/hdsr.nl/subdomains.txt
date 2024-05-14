@@ -7,9 +7,7 @@ cawfirewall.hdsr.nl
 testbegrippen.hdsr.nl
 loket.hdsr.nl
 uconnect.hdsr.nl
-cawuitwijkfirewall.hdsr.nl
 webservices.hdsr.nl
-redactie.hdsr.nl
 autodiscover.hdsr.nl
 www.hdsr.nl
 mrb.hdsr.nl
@@ -23,7 +21,6 @@ zaaksysteem-acc.hdsr.nl
 zoeken.hdsr.nl
 uconnect-acc.hdsr.nl
 wsus.hdsr.nl
-remote-pa.hdsr.nl
 geoservices.hdsr.nl
 hdsr.nl
 kantoor.hdsr.nl

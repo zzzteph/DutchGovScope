@@ -17,3 +17,6 @@ pop.platformwow.nl
 mail.platformwow.nl
 new.platformwow.nl
 webmail.platformwow.nl
+www.jaarverslag2015.platformwow.nl
+www.jaarverslag2016.platformwow.nl
+www.nieuw.platformwow.nl

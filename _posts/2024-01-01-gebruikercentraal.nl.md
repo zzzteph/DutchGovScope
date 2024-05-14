@@ -2,9 +2,9 @@
 layout: default
 title: "gebruikercentraal.nl"
 permalink: "/dutchgov/gebruikercentraal.nl.html"
-subdomains_count: 51
+subdomains_count: 49
 all_subdomains_count: 76
-urls_count: 50
+urls_count: 48
 ssl_rank: A+
 http_rank: C
 security_txt: 35
@@ -27,8 +27,8 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/gebruikercentraal.nl/subdomains.txt)|51|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/gebruikercentraal.nl/urls.txt)|50|Urls|
+|[subdomains.txt](/DutchGovScope/data/gebruikercentraal.nl/subdomains.txt)|49|Alive subdomains|
+|[urls.txt](/DutchGovScope/data/gebruikercentraal.nl/urls.txt)|48|Urls|
 |[all_subdomains.txt](/DutchGovScope/data/gebruikercentraal.nl/all_subdomains.txt)|76|All found subdomains (history)|
 
 
@@ -42,7 +42,6 @@ tags: dutchgov
 |[https://accept.designthinking.gebruikercentraal.nl](https://accept.designthinking.gebruikercentraal.nl)| **A+**| **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |Basic HSTS Nginx|401 Authorizatio...|
 |[https://accept.expertpanel.gebruikercentraal.nl](https://accept.expertpanel.gebruikercentraal.nl)| **A+**| **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |Basic HSTS Nginx|401 Authorizatio...|
 |[https://accept.inclusie.gebruikercentraal.nl](https://accept.inclusie.gebruikercentraal.nl)| **A+**| **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |Basic HSTS Nginx|401 Authorizatio...|
-|[https://accept.inclusivedesign.gebruikercentraal.nl](https://accept.inclusivedesign.gebruikercentraal.nl)| **F**| **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|Web Server's Def...|
 |[https://accept.lint.gebruikercentraal.nl](https://accept.lint.gebruikercentraal.nl)| **A+**| **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |Basic HSTS Nginx|401 Authorizatio...|
 |[https://accept.optimaaldigitaal.gebruikercentraal.nl](https://accept.optimaaldigitaal.gebruikercentraal.nl)| **A+**| **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |Basic HSTS Nginx|401 Authorizatio...|
 |[https://accept.rotterdammer.gebruikercentraal.nl](https://accept.rotterdammer.gebruikercentraal.nl)| **A+**| **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |Basic HSTS Nginx|401 Authorizatio...|
@@ -59,7 +58,6 @@ tags: dutchgov
 |[https://inclusie.gebruikercentraal.nl](https://inclusie.gebruikercentraal.nl)| **A+**| **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Nginx PHP:8.0.30||
 |[https://inclusiekader.gebruikercentraal.nl](https://inclusiekader.gebruikercentraal.nl)| **A+**| **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Nginx PHP:8.0.30||
 |[https://inclusievedienstverlening.gebruikercentraal.nl](https://inclusievedienstverlening.gebruikercentraal.nl)| **A+**| **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Nginx PHP:8.0.30||
-|[https://inclusivedesign.gebruikercentraal.nl](https://inclusivedesign.gebruikercentraal.nl)| **F**| **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|Web Server's Def...|
 |[https://lint.gebruikercentraal.nl](https://lint.gebruikercentraal.nl)| **A+**| **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS MySQL Nginx PHP:8.0.30 WordPress:6.4.4 Yoast SEO:22.3|Leesbaarheidsins...|
 |[https://maturityscan.gebruikercentraal.nl](https://maturityscan.gebruikercentraal.nl)| **A+**| **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Nginx PHP:8.0.30||
 |[https://optimaaldigitaal.gebruikercentraal.nl](https://optimaaldigitaal.gebruikercentraal.nl)| **A+**| **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS MySQL Nginx PHP:8.0.30 WordPress:6.4.4 Yoast SEO:22.3|Optimaal Digitaa...|

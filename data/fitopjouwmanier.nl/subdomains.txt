@@ -1,5 +1,0 @@
-staging.fitopjouwmanier.nl
-www.fitopjouwmanier.nl
-fitopjouwmanier.nl
-server01.fitopjouwmanier.nl
-deploy.fitopjouwmanier.nl

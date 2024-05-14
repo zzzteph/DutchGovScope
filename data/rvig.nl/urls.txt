@@ -16,3 +16,4 @@ https://idbs.npr.idm.rvig.nl
 https://prod.intranet.rvig.nl
 https://acc2.intranet.rvig.nl
 https://lap.rvp.reis.npr.idm.rvig.nl
+http://lap.api.reis.npr.idm.rvig.nl

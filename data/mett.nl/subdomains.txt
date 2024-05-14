@@ -10197,7 +10197,6 @@ cms-acc.mett.nl
 instructure.mett.nl
 sharm-el-sheik.mett.nl
 oboyan.mett.nl
-autoconfig.login.mett.nl
 coold.mett.nl
 pizzahut.mett.nl
 eigen-webwinkel.mett.nl
@@ -14028,3 +14027,9 @@ wieland.mett.nl
 www-6-3.mett.nl
 minibike.mett.nl
 gx.mett.nl
+testmij.mett.nl
+logeion.mett.nl
+croteuge.mett.nl
+nplw.mett.nl
+emmengeeftenergie.mett.nl
+energiekmaasgouw.mett.nl

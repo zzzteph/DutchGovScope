@@ -9,6 +9,4 @@ https://opendata.english.onderwijsinspectie.nl
 https://toezichtresultaten.onderwijsinspectie.nl
 https://toezichtresultaten.acc.onderwijsinspectie.nl
 https://www.onderwijsinspectie.nl
-https://www.zoekscholen.onderwijsinspectie.nl
-https://zoekscholen.onderwijsinspectie.nl
 https://onderwijsinspectie.nl

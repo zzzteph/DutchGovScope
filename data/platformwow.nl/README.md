@@ -11,7 +11,7 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/platformwow.nl/subdomains.txt)|19|Alive subdomains|
+|[subdomains.txt](/data/platformwow.nl/subdomains.txt)|22|Alive subdomains|
 |[urls.txt](/data/platformwow.nl/urls.txt)|14|Urls|
 |[all_subdomains.txt](/data/platformwow.nl/all_subdomains.txt)|24|All found subdomains (history)|
 

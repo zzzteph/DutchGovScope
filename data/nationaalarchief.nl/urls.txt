@@ -10,6 +10,7 @@ https://vocseavoyagers.nationaalarchief.nl
 https://acpt.nationaalarchief.nl
 https://actorenregister.acpt.nationaalarchief.nl
 https://actorenregister.nationaalarchief.nl
+https://actorenregister.test.nationaalarchief.nl
 https://cbs.acpt.nationaalarchief.nl
 https://cbs.nationaalarchief.nl
 https://chat.nationaalarchief.nl

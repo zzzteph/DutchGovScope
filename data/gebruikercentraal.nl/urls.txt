@@ -3,7 +3,6 @@ https://accept.beeldbank.gebruikercentraal.nl
 https://accept.designthinking.gebruikercentraal.nl
 https://accept.expertpanel.gebruikercentraal.nl
 https://accept.inclusie.gebruikercentraal.nl
-https://accept.inclusivedesign.gebruikercentraal.nl
 https://accept.lint.gebruikercentraal.nl
 https://accept.optimaaldigitaal.gebruikercentraal.nl
 https://accept.rotterdammer.gebruikercentraal.nl
@@ -20,7 +19,6 @@ https://expertpanel.gebruikercentraal.nl
 https://inclusie.gebruikercentraal.nl
 https://inclusiekader.gebruikercentraal.nl
 https://inclusievedienstverlening.gebruikercentraal.nl
-https://inclusivedesign.gebruikercentraal.nl
 https://lint.gebruikercentraal.nl
 https://maturityscan.gebruikercentraal.nl
 https://optimaaldigitaal.gebruikercentraal.nl

@@ -30,7 +30,7 @@
 |[https://archis.cultureelerfgoed.nl](https://archis.cultureelerfgoed.nl)| **A+**| **B**|Apache| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |AngularJS Apache HTTP Server HSTS|Archis - Rijksdi...|
 |[https://archisarchief.cultureelerfgoed.nl](https://archisarchief.cultureelerfgoed.nl)| **B**| **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|403 - Forbidden:...|
 |[https://beeldbank.cultureelerfgoed.nl](https://beeldbank.cultureelerfgoed.nl)| **A+**| **B**|nginx|:warning: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS HTTP/3 Joomla Nginx PHP ZURB Foundation|Home | Beeldbank...|
-|[https://catalogus.cultureelerfgoed.nl](https://catalogus.cultureelerfgoed.nl)| **B**| **F**|Microsoft-IIS/10.0|:white_check_mark: | | | | | | | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET:4.0.30319 Windows Server|Object moved|
+|[https://catalogus.cultureelerfgoed.nl](https://catalogus.cultureelerfgoed.nl)| **B**| **F**|Microsoft-IIS/10.0|:white_check_mark: | | | | | | | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server|Object moved|
 |[https://data.cultureelerfgoed.nl](https://data.cultureelerfgoed.nl)| **A+**| **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|- PoolParty Link...|
 |[https://data.geo.cultureelerfgoed.nl](https://data.geo.cultureelerfgoed.nl)| **A+**| **A**||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Java|GeolinQ|
 |[http://doorzoeker.cultureelerfgoed.nl](http://doorzoeker.cultureelerfgoed.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
@@ -87,7 +87,7 @@
 |[https://e1.acc.archis.cultureelerfgoed.nl](https://e1.acc.archis.cultureelerfgoed.nl)| **A+**| **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|403 Forbidden|
 |[https://e2.acc.archis.cultureelerfgoed.nl](https://e2.acc.archis.cultureelerfgoed.nl)| **A+**| **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|403 Forbidden|
 |[https://e3.acc.archis.cultureelerfgoed.nl](https://e3.acc.archis.cultureelerfgoed.nl)| **F**| **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|403 Forbidden|
-|[https://e4.acc.archis.cultureelerfgoed.nl](https://e4.acc.archis.cultureelerfgoed.nl)| **F**| **E**|| | | | | | | | :white_check_mark: | |HSTS|Pagina niet gevo...|
+|[https://e4.acc.archis.cultureelerfgoed.nl](https://e4.acc.archis.cultureelerfgoed.nl)| **F**| **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|403 Forbidden|
 |[https://e5.acc.archis.cultureelerfgoed.nl](https://e5.acc.archis.cultureelerfgoed.nl)| **F**| **E**|| | | | | | | | :white_check_mark: | |HSTS|Pagina niet gevo...|
 |[https://e6.acc.archis.cultureelerfgoed.nl](https://e6.acc.archis.cultureelerfgoed.nl)| **F**| **E**|| | | | | | | | :white_check_mark: | |HSTS|Pagina niet gevo...|
 |[https://e7.acc.archis.cultureelerfgoed.nl](https://e7.acc.archis.cultureelerfgoed.nl)| **F**| **E**|| | | | | | | | :white_check_mark: | |HSTS|Pagina niet gevo...|

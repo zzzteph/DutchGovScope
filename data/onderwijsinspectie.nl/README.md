@@ -11,8 +11,8 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/onderwijsinspectie.nl/subdomains.txt)|21|Alive subdomains|
-|[urls.txt](/data/onderwijsinspectie.nl/urls.txt)|14|Urls|
+|[subdomains.txt](/data/onderwijsinspectie.nl/subdomains.txt)|19|Alive subdomains|
+|[urls.txt](/data/onderwijsinspectie.nl/urls.txt)|12|Urls|
 |[all_subdomains.txt](/data/onderwijsinspectie.nl/all_subdomains.txt)|28|All found subdomains (history)|
 
 
@@ -32,7 +32,5 @@
 |[https://toezichtresultaten.onderwijsinspectie.nl](https://toezichtresultaten.onderwijsinspectie.nl)| **B**| **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|Toezichtresultat...|
 |[https://toezichtresultaten.acc.onderwijsinspectie.nl](https://toezichtresultaten.acc.onderwijsinspectie.nl)| **B**| **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|Toezichtresultat...|
 |[https://www.onderwijsinspectie.nl](https://www.onderwijsinspectie.nl)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Inspectie van he...|
-|[https://www.zoekscholen.onderwijsinspectie.nl](https://www.zoekscholen.onderwijsinspectie.nl)| **B**| **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|301 Moved Perman...|
-|[https://zoekscholen.onderwijsinspectie.nl](https://zoekscholen.onderwijsinspectie.nl)| **B**| **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|301 Moved Perman...|
 |[https://onderwijsinspectie.nl](https://onderwijsinspectie.nl)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
 

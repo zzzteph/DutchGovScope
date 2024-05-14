@@ -38,8 +38,8 @@ tags: dutchgov
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[https://zoekeentolkvertaler.bureauwbtv.nl](https://zoekeentolkvertaler.bureauwbtv.nl)| | **B**|nginx| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS Nginx|Mendix|
-|[https://bureauwbtv.nl](https://bureauwbtv.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Object moved|
-|[https://www.bureauwbtv.nl](https://www.bureauwbtv.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Home - Raad voor...|
+|[https://bureauwbtv.nl](https://bureauwbtv.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:-|Object moved|
+|[https://www.bureauwbtv.nl](https://www.bureauwbtv.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:-|Home - Raad voor...|
 |[http://uptime.bureauwbtv.nl](http://uptime.bureauwbtv.nl)| | **F**|Caddy| | | | | | | | :white_check_mark: | |Caddy||
 |[http://localhost.bureauwbtv.nl](http://localhost.bureauwbtv.nl)| | **F**|nginx| | | :warning:| | | | | :white_check_mark: | |Nginx|(404 Not Found)|
 

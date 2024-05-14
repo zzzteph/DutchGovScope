@@ -6,7 +6,6 @@ dtv.connect.minvenj.nl
 pdw.gdi.minvenj.nl
 www.minvenj.nl
 apps.minvenj.nl
-ap.connect.minvenj.nl
 statistics.ind.minvenj.nl
 sip.dtv.minvenj.nl
 lyncdiscover.acpt.dtv.minvenj.nl

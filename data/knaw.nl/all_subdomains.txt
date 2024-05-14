@@ -1837,3 +1837,5 @@ enterpriseregistration.knaw.nl
 kaartenbank.meertens.knaw.nl
 cmdi.sd.di.huc.knaw.nl
 cl.nioo.knaw.nl
+cto.nioo.knaw.nl
+wp-09.dev.huc.knaw.nl

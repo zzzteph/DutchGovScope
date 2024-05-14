@@ -279,6 +279,8 @@ dms1.rwscregelaar.nl
 www-ktest4.rwscregelaar.nl
 yoo.rwscregelaar.nl
 ns63.rwscregelaar.nl
+enough.rwscregelaar.nl
+tetris.rwscregelaar.nl
 yanglab.rwscregelaar.nl
 zerotrust.rwscregelaar.nl
 zi.rwscregelaar.nl
