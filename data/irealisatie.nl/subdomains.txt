@@ -40,3 +40,12 @@ collabora.acc.irealisatie.nl
 stats.test.mgo.irealisatie.nl
 uren.acc.irealisatie.nl
 uren.irealisatie.nl
+pseudonym.test.zm.irealisatie.nl
+localisation.test.zm.irealisatie.nl
+timeline.test.zm.irealisatie.nl
+qualification.test.zm.irealisatie.nl
+metadata.test.zm.irealisatie.nl
+addressing.test.zm.irealisatie.nl
+www.test.zm.irealisatie.nl
+acc.dusi.irealisatie.nl
+test.dusi.irealisatie.nl

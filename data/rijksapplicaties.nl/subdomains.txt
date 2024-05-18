@@ -263,3 +263,8 @@ rvb-dtc-webservice.staging.rijksapplicaties.nl
 app1.staging.rijksapplicaties.nl
 monitor.staging.rijksapplicaties.nl
 fbp.rijksapplicaties.nl
+rvb-dtc-webservice.rijksapplicaties.nl
+rvb-arr.rijksapplicaties.nl
+mijn-ncg.rijksapplicaties.nl
+rvb-ifr.rijksapplicaties.nl
+npcemaatregelenmonitor.rijksapplicaties.nl

@@ -36,3 +36,4 @@ https://start.test.dusi.irealisatie.nl
 https://start.acc.dusi.irealisatie.nl
 https://collabora.acc.irealisatie.nl
 https://stats.test.mgo.irealisatie.nl
+https://uren.acc.irealisatie.nl

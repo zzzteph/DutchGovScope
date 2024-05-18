@@ -4,15 +4,15 @@
 ## Summary data
 
 
- - **SSL Grade**:B-
- - **HTTP Security Grade**:C
+ - **SSL Grade**:B
+ - **HTTP Security Grade**:B
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:6
 
 
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/pbl.nl/subdomains.txt)|43|Alive subdomains|
-|[urls.txt](/data/pbl.nl/urls.txt)|19|Urls|
+|[urls.txt](/data/pbl.nl/urls.txt)|18|Urls|
 |[all_subdomains.txt](/data/pbl.nl/all_subdomains.txt)|96|All found subdomains (history)|
 
 
@@ -34,7 +34,6 @@
 |[https://survey.pbl.nl](https://survey.pbl.nl)| **A+**| **C**|nginx|:white_check_mark: |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | |HSTS Nginx|Planbureau voor...|
 |[https://themasites.pbl.nl](https://themasites.pbl.nl)| **A-**| **A**|Microsoft-Azure-Application-Gateway/v2| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | ||301 Moved Perman...|
 |[https://webmail.pbl.nl](https://webmail.pbl.nl)| **F**| **F**|Microsoft-IIS/10.0| | | | | | | | :white_check_mark: | |HSTS IIS:10.0 Microsoft ASP.NET Windows Server||
-|[https://webservices.pbl.nl](https://webservices.pbl.nl)| **F**| **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|Test Page for th...|
 |[https://www.pbl.nl](https://www.pbl.nl)| **A-**| **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Drupal:10 HSTS PHP|Home | Planburea...|
 |[https://pbl.nl](https://pbl.nl)| **A-**| **A**|Microsoft-Azure-Application-Gateway/v2| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS|301 Moved Perman...|
 |[https://mailings.pbl.nl](https://mailings.pbl.nl)| **A+**| **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Nginx||

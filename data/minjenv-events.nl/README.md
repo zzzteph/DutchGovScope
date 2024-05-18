@@ -11,7 +11,7 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/minjenv-events.nl/subdomains.txt)|29|Alive subdomains|
+|[subdomains.txt](/data/minjenv-events.nl/subdomains.txt)|31|Alive subdomains|
 |[urls.txt](/data/minjenv-events.nl/urls.txt)|29|Urls|
 |[all_subdomains.txt](/data/minjenv-events.nl/all_subdomains.txt)|31|All found subdomains (history)|
 

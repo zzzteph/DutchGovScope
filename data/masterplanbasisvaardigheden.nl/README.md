@@ -5,14 +5,14 @@
 
 
  - **SSL Grade**:
- - **HTTP Security Grade**:F
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:0
+ - **HTTP Security Grade**:A
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:3
 
 
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/masterplanbasisvaardigheden.nl/subdomains.txt)|7|Alive subdomains|
-|[urls.txt](/data/masterplanbasisvaardigheden.nl/urls.txt)|0|Urls|
+|[urls.txt](/data/masterplanbasisvaardigheden.nl/urls.txt)|3|Urls|
 |[all_subdomains.txt](/data/masterplanbasisvaardigheden.nl/all_subdomains.txt)|7|All found subdomains (history)|
 
 
@@ -21,4 +21,7 @@
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
+|[https://feeds.masterplanbasisvaardigheden.nl](https://feeds.masterplanbasisvaardigheden.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
+|[https://masterplanbasisvaardigheden.nl](https://masterplanbasisvaardigheden.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
+|[https://opendata.masterplanbasisvaardigheden.nl](https://opendata.masterplanbasisvaardigheden.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 

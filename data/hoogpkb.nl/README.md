@@ -12,7 +12,7 @@
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/hoogpkb.nl/subdomains.txt)|9|Alive subdomains|
-|[urls.txt](/data/hoogpkb.nl/urls.txt)|6|Urls|
+|[urls.txt](/data/hoogpkb.nl/urls.txt)|8|Urls|
 |[all_subdomains.txt](/data/hoogpkb.nl/all_subdomains.txt)|10|All found subdomains (history)|
 
 
@@ -27,4 +27,6 @@
 |[https://hostmaster.hoogpkb.nl](https://hostmaster.hoogpkb.nl)| **F**| **F**|nginx| | | | | | | | :white_check_mark: | |Nginx||
 |[http://autodiscover.hoogpkb.nl](http://autodiscover.hoogpkb.nl)| | **B**|Microsoft-IIS/10.0|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server||
 |[https://ftp.hoogpkb.nl](https://ftp.hoogpkb.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server||
+|[https://barcelona.hoogpkb.nl](https://barcelona.hoogpkb.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx||
+|[https://moms.hoogpkb.nl](https://moms.hoogpkb.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx||
 

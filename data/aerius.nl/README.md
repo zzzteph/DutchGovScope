@@ -28,7 +28,7 @@
 |[https://mattermost.aerius.nl](https://mattermost.aerius.nl)| **A**| **C**|| | | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | ||Mattermost|
 |[https://mgmt.aerius.nl](https://mgmt.aerius.nl)| **A**| **F**|Jetty(10.0.20)|:white_check_mark: | | | | | | | :white_check_mark: | |Java Jenkins:2.440.3 Jetty:10.0.20||
 |[https://monitor.aerius.nl](https://monitor.aerius.nl)| **A**| **F**|Jetty(9.4.18.v20190429)| | | | | | | | :white_check_mark: | |Java Jekyll:4.0.0 Jetty:9.4.18 Ruby|Over AERIUS Moni...|
-|[https://nexus.aerius.nl](https://nexus.aerius.nl)| **A**| **D**|Nexus/3.63.0-01 (OSS)| | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | ||Sonatype Nexus R...|
+|[https://nexus.aerius.nl](https://nexus.aerius.nl)| **A**| **D**|Nexus/3.68.0-04 (OSS)| | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | ||Sonatype Nexus R...|
 |[https://nexus-docker.aerius.nl](https://nexus-docker.aerius.nl)| **A**| **F**|Jetty(9.4.53.v20231009)| | | | | | | | :white_check_mark: | |Java Jetty:9.4.53|Error 400 Not a...|
 |[https://pdok.aerius.nl](https://pdok.aerius.nl)| **A**| **F**|awselb/2.0| | | | | | | | :white_check_mark: | |Amazon ELB Amazon Web Services||
 |[https://regionaal-register.aerius.nl](https://regionaal-register.aerius.nl)| **A**| **F**|awselb/2.0| | | | | | | | :white_check_mark: | |Amazon ELB Amazon Web Services||

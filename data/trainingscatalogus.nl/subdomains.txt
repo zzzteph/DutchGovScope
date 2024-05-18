@@ -180,3 +180,7 @@ apps.test.trainingscatalogus.nl
 contentbeheer.test.trainingscatalogus.nl
 my.test.trainingscatalogus.nl
 parnassia-lms.trainingscatalogus.nl
+webmail.test.trainingscatalogus.nl
+kibana.test.trainingscatalogus.nl
+search.test.trainingscatalogus.nl
+origin.test.trainingscatalogus.nl

@@ -38,7 +38,7 @@ tags: dutchgov
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[https://staging.waarzitwatin.nl](https://staging.waarzitwatin.nl)| **A**| **F**|Apache|:warning: | | | | | | | :white_check_mark: | |Amazon CloudFront Amazon Web Services Apache HTTP Server|Redirecting to h...|
-|[https://www.waarzitwatin.nl](https://www.waarzitwatin.nl)| | **F**|cloudflare| | | | | | | | :white_check_mark: | |AWS WAF Captcha Amazon CloudFront Amazon Web Services Cloudflare HTTP/3|Human Verificati...|
+|[https://www.waarzitwatin.nl](https://www.waarzitwatin.nl)| | **D**|cloudflare|:warning: |:white_check_mark: | | | | | | :white_check_mark: | |AWS WAF Captcha Amazon CloudFront Amazon Web Services Cloudflare HTTP/3|Human Verificati...|
 |[https://waarzitwatin.nl](https://waarzitwatin.nl)| **A+**| **D**|Apache|:warning: |:white_check_mark: | | | | | | :white_check_mark: | |Amazon CloudFront Amazon Web Services Apache HTTP Server HSTS Laravel October CMS|Waarzitwatin.nl...|
 |[https://files.staging.waarzitwatin.nl](https://files.staging.waarzitwatin.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Amazon CloudFront Amazon Web Services Apache HTTP Server|404 Not Found|
 |[https://kibana.staging.waarzitwatin.nl](https://kibana.staging.waarzitwatin.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Amazon CloudFront Amazon Web Services Apache HTTP Server|404 Not Found|

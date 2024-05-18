@@ -6,14 +6,14 @@
 
  - **SSL Grade**:
  - **HTTP Security Grade**:B
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:28
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:29
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/irealisatie.nl/subdomains.txt)|42|Alive subdomains|
-|[urls.txt](/data/irealisatie.nl/urls.txt)|38|Urls|
-|[all_subdomains.txt](/data/irealisatie.nl/all_subdomains.txt)|53|All found subdomains (history)|
+|[subdomains.txt](/data/irealisatie.nl/subdomains.txt)|51|Alive subdomains|
+|[urls.txt](/data/irealisatie.nl/urls.txt)|39|Urls|
+|[all_subdomains.txt](/data/irealisatie.nl/all_subdomains.txt)|54|All found subdomains (history)|
 
 
 ## Statistics
@@ -59,4 +59,5 @@
 |[https://start.acc.dusi.irealisatie.nl](https://start.acc.dusi.irealisatie.nl)| | **A**|Apache| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS||
 |[https://collabora.acc.irealisatie.nl](https://collabora.acc.irealisatie.nl)| | **F**|COOLWSD HTTP Server 24.04.1.4| | | | | | | | :white_check_mark: | |||
 |[https://stats.test.mgo.irealisatie.nl](https://stats.test.mgo.irealisatie.nl)| | **B**|Apache| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server Basic HSTS|401 Unauthorized|
+|[https://uren.acc.irealisatie.nl](https://uren.acc.irealisatie.nl)| | **A**|Apache| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server Basic HSTS|401 Unauthorized|
 

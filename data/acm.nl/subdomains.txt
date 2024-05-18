@@ -25,7 +25,6 @@ ipsec.acm.nl
 mail1.acm.nl
 sentry.services.acm.nl
 api.services.acm.nl
-fems.services.acm.nl
 denkmee.nieuw.acm.nl
 mail3.acm.nl
 api-a.services.acm.nl

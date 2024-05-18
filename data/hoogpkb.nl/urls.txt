@@ -4,3 +4,5 @@ https://aanvraag.hoogpkb.nl
 https://hostmaster.hoogpkb.nl
 http://autodiscover.hoogpkb.nl
 https://ftp.hoogpkb.nl
+https://barcelona.hoogpkb.nl
+https://moms.hoogpkb.nl

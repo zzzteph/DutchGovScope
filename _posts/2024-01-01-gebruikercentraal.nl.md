@@ -4,10 +4,10 @@ title: "gebruikercentraal.nl"
 permalink: "/dutchgov/gebruikercentraal.nl.html"
 subdomains_count: 49
 all_subdomains_count: 76
-urls_count: 48
+urls_count: 49
 ssl_rank: A+
 http_rank: C
-security_txt: 35
+security_txt: 36
 url_link: /data/gebruikercentraal.nl/urls.txt
 all_subdomains_link: /data/gebruikercentraal.nl/all_subdomains.txt
 subdomains_link: /data/gebruikercentraal.nl/subdomains.txt
@@ -22,13 +22,13 @@ tags: dutchgov
 
  - **SSL Grade**:A+
  - **HTTP Security Grade**:C
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:35
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:36
 
 
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/DutchGovScope/data/gebruikercentraal.nl/subdomains.txt)|49|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/gebruikercentraal.nl/urls.txt)|48|Urls|
+|[urls.txt](/DutchGovScope/data/gebruikercentraal.nl/urls.txt)|49|Urls|
 |[all_subdomains.txt](/DutchGovScope/data/gebruikercentraal.nl/all_subdomains.txt)|76|All found subdomains (history)|
 
 
@@ -85,4 +85,5 @@ tags: dutchgov
 |[https://omnichannel.gebruikercentraal.nl](https://omnichannel.gebruikercentraal.nl)| **A+**| **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Nginx PHP:8.0.30||
 |[https://duidelijk.gebruikercentraal.nl](https://duidelijk.gebruikercentraal.nl)| **A+**| **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Nginx PHP:8.0.30||
 |[https://toolkittaal.gebruikercentraal.nl](https://toolkittaal.gebruikercentraal.nl)| **A+**| **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS MySQL Nginx PHP:8.0.30 WordPress:6.4.4 Yoast SEO:22.3|Toolkit Taal – M...|
+|[https://toolkitinclusie.gebruikercentraal.nl](https://toolkitinclusie.gebruikercentraal.nl)| | **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS MySQL Nginx PHP:8.0.30 WordPress:6.5.2 Yoast SEO:22.3|Home - Ontwerpen...|
 

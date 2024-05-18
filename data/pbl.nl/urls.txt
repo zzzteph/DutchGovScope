@@ -11,7 +11,6 @@ https://roadsfromrio.pbl.nl
 https://survey.pbl.nl
 https://themasites.pbl.nl
 https://webmail.pbl.nl
-https://webservices.pbl.nl
 https://www.pbl.nl
 https://pbl.nl
 https://mailings.pbl.nl
