@@ -198,3 +198,8 @@ sts.test.trainingscatalogus.nl
 lyncdiscover.test.trainingscatalogus.nl
 mijn.test.trainingscatalogus.nl
 account.test.trainingscatalogus.nl
+mobile.test.trainingscatalogus.nl
+email.test.trainingscatalogus.nl
+ws.test.trainingscatalogus.nl
+api2.test.trainingscatalogus.nl
+be.test.trainingscatalogus.nl

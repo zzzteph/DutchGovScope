@@ -11,8 +11,8 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/verbeterjehuis.nl/subdomains.txt)|11|Alive subdomains|
-|[urls.txt](/data/verbeterjehuis.nl/urls.txt)|10|Urls|
+|[subdomains.txt](/data/verbeterjehuis.nl/subdomains.txt)|21|Alive subdomains|
+|[urls.txt](/data/verbeterjehuis.nl/urls.txt)|11|Urls|
 |[all_subdomains.txt](/data/verbeterjehuis.nl/all_subdomains.txt)|25|All found subdomains (history)|
 
 
@@ -31,4 +31,5 @@
 |[http://localhost.verbeterjehuis.nl](http://localhost.verbeterjehuis.nl)| | **F**|nginx| | | :warning:| | | | | :white_check_mark: | |Nginx|(404 Not Found)|
 |[https://test-u8-www.verbeterjehuis.nl](https://test-u8-www.verbeterjehuis.nl)| | **B**|cloudflare| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Cloudflare HSTS|Attention Requir...|
 |[https://acc-u8-www.verbeterjehuis.nl](https://acc-u8-www.verbeterjehuis.nl)| | **B**|cloudflare| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Cloudflare HSTS|Attention Requir...|
+|[https://acc-www.verbeterjehuis.nl](https://acc-www.verbeterjehuis.nl)| | **B**|cloudflare| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Cloudflare HSTS|Attention Requir...|
 

@@ -5,14 +5,14 @@
 
 
  - **SSL Grade**:C
- - **HTTP Security Grade**:F
+ - **HTTP Security Grade**:E
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:2
 
 
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/incidentmanagement.nl/subdomains.txt)|7|Alive subdomains|
-|[urls.txt](/data/incidentmanagement.nl/urls.txt)|4|Urls|
+|[urls.txt](/data/incidentmanagement.nl/urls.txt)|5|Urls|
 |[all_subdomains.txt](/data/incidentmanagement.nl/all_subdomains.txt)|8|All found subdomains (history)|
 
 
@@ -25,4 +25,5 @@
 |[https://www.incidentmanagement.nl](https://www.incidentmanagement.nl)| **A+**| **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Object moved|
 |[https://www.webshop.incidentmanagement.nl](https://www.webshop.incidentmanagement.nl)| **F**| **F**|nginx| | | | | | | | :white_check_mark: | |Nginx||
 |[https://incidentmanagement.nl](https://incidentmanagement.nl)| **A+**| **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Object moved|
+|[https://revi.incidentmanagement.nl](https://revi.incidentmanagement.nl)| | **A**|Apache| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS Moodle PHP|Doorverwijspagin...|
 

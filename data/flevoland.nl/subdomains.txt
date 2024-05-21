@@ -103,3 +103,4 @@ msoid.flevoland.nl
 uat.flevoland.nl
 mbg-proxy.flevoland.nl
 gebouwbeheer.flevoland.nl
+res.flevoland.nl

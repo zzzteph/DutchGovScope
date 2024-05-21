@@ -5,14 +5,14 @@
 
 
  - **SSL Grade**:C
- - **HTTP Security Grade**:E
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:2
+ - **HTTP Security Grade**:D
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:3
 
 
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/minienm.nl/subdomains.txt)|69|Alive subdomains|
-|[urls.txt](/data/minienm.nl/urls.txt)|17|Urls|
+|[urls.txt](/data/minienm.nl/urls.txt)|18|Urls|
 |[all_subdomains.txt](/data/minienm.nl/all_subdomains.txt)|135|All found subdomains (history)|
 
 
@@ -36,6 +36,7 @@
 |[https://www.sociaalfonds.minienm.nl](https://www.sociaalfonds.minienm.nl)| **F**| **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
 |[https://www.startpagina.sap.minienm.nl](https://www.startpagina.sap.minienm.nl)| **F**| **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
 |[https://minienm.nl](https://minienm.nl)| **A+**| **A**|Microsoft-IIS/10.0| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS IIS:10.0 Windows Server|Document Moved|
+|[https://web.minienm.nl](https://web.minienm.nl)| | **A**|Microsoft-IIS/10.0|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS IIS:10.0 Windows Server|Document Moved|
 |[https://dcc.minienm.nl](https://dcc.minienm.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
 |[http://localhost.minienm.nl](http://localhost.minienm.nl)| | **F**|nginx| | | :warning:| | | | | :white_check_mark: | |Nginx|(404 Not Found)|
 

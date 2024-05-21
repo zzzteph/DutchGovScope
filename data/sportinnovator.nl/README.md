@@ -12,7 +12,7 @@
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/sportinnovator.nl/subdomains.txt)|5|Alive subdomains|
-|[urls.txt](/data/sportinnovator.nl/urls.txt)|4|Urls|
+|[urls.txt](/data/sportinnovator.nl/urls.txt)|5|Urls|
 |[all_subdomains.txt](/data/sportinnovator.nl/all_subdomains.txt)|5|All found subdomains (history)|
 
 
@@ -25,4 +25,5 @@
 |[https://sportinnovator.nl](https://sportinnovator.nl)| **A+**| **B**|Apache|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS|301 Moved Perman...|
 |[https://www.sportinnovator.nl](https://www.sportinnovator.nl)| **A+**| **B**|Apache|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server Craft CMS HSTS Yii|SportInnovator|
 |[http://autodiscover.sportinnovator.nl](http://autodiscover.sportinnovator.nl)| | **B**|Microsoft-IIS/10.0|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server||
+|[https://academy.sportinnovator.nl](https://academy.sportinnovator.nl)| | **C**|Apache| |:white_check_mark: | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
 

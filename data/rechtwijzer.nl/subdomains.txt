@@ -86,3 +86,4 @@ webstats.test.rechtwijzer.nl
 chat.test.rechtwijzer.nl
 shop.test.rechtwijzer.nl
 smtp.test.rechtwijzer.nl
+bewerk.test.rechtwijzer.nl

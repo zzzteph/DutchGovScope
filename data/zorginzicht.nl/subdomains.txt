@@ -7,9 +7,15 @@ www.zorginzicht.nl
 www-ac.zorginzicht.nl
 www-pr.zorginzicht.nl
 zorginzicht.nl
+www-tst.zorginzicht.nl
 tpk-ac.zorginzicht.nl
 odb-ac.zorginzicht.nl
+www-dev.zorginzicht.nl
+www-acc.zorginzicht.nl
+www-ow.zorginzicht.nl
 sp.zorginzicht.nl
+www-ts.zorginzicht.nl
+www2-ts.zorginzicht.nl
 acc2.zorginzicht.nl
 mysites.zorginzicht.nl
 portal.zorginzicht.nl

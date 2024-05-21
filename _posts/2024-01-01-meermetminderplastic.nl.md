@@ -2,9 +2,9 @@
 layout: default
 title: "meermetminderplastic.nl"
 permalink: "/dutchgov/meermetminderplastic.nl.html"
-subdomains_count: 5
+subdomains_count: 4
 all_subdomains_count: 5
-urls_count: 4
+urls_count: 3
 ssl_rank: A
 http_rank: D
 security_txt: 0
@@ -27,8 +27,8 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/meermetminderplastic.nl/subdomains.txt)|5|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/meermetminderplastic.nl/urls.txt)|4|Urls|
+|[subdomains.txt](/DutchGovScope/data/meermetminderplastic.nl/subdomains.txt)|4|Alive subdomains|
+|[urls.txt](/DutchGovScope/data/meermetminderplastic.nl/urls.txt)|3|Urls|
 |[all_subdomains.txt](/DutchGovScope/data/meermetminderplastic.nl/all_subdomains.txt)|5|All found subdomains (history)|
 
 
@@ -40,5 +40,4 @@ tags: dutchgov
 |[https://monitoring.meermetminderplastic.nl](https://monitoring.meermetminderplastic.nl)| **A+**| **A**||:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |Azure HSTS|Startpagina|
 |[https://www.meermetminderplastic.nl](https://www.meermetminderplastic.nl)| **A**| **F**|nginx| | | | | | | | :white_check_mark: | |MailChimp Nginx PHP Pimcore|Meer met minder...|
 |[https://meermetminderplastic.nl](https://meermetminderplastic.nl)| **A**| **F**|nginx| | | | | | | | :white_check_mark: | |Nginx PHP Pimcore|Redirecting to h...|
-|[http://autodiscover.meermetminderplastic.nl](http://autodiscover.meermetminderplastic.nl)| | **B**|Microsoft-IIS/10.0|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server||
 

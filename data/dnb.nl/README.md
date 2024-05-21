@@ -6,7 +6,7 @@
 
  - **SSL Grade**:A-
  - **HTTP Security Grade**:C
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:32
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:33
 
 
 | File       | Count | Info |
@@ -128,11 +128,11 @@
 |[https://sftp.dnb.nl](https://sftp.dnb.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0||
 |[https://rmdm-beheerapp-dev.azure.dnb.nl](https://rmdm-beheerapp-dev.azure.dnb.nl)| | **E**|| | | | | | | | :white_check_mark: | |Bootstrap:5.2.3|Azure Static Web...|
 |[https://rmdm-beheerapp-tst.azure.dnb.nl](https://rmdm-beheerapp-tst.azure.dnb.nl)| | **E**|| | | | | | | | :white_check_mark: | |Bootstrap:5.2.3|Azure Static Web...|
-|[https://screening-acc.dnb.nl](https://screening-acc.dnb.nl)| | **E**|| | | | | | | | :white_check_mark: | |Azure Azure Front Door|Service unavaila...|
-|[https://tz-organisatiegegevens-acc.dnb.nl](https://tz-organisatiegegevens-acc.dnb.nl)| | **A**|| |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | |Azure Azure Front Door HSTS|Organisation Det...|
-|[https://tz-organisatiegegevens-tst.dnb.nl](https://tz-organisatiegegevens-tst.dnb.nl)| | **A**|| |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | |Azure Azure Front Door HSTS|Organisation Det...|
-|[https://tz-organisatiegegevens-dev.dnb.nl](https://tz-organisatiegegevens-dev.dnb.nl)| | **A**|| |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | |Azure Azure Front Door HSTS|Organisation Det...|
-|[https://tz-organisatiegegevens.dnb.nl](https://tz-organisatiegegevens.dnb.nl)| | **E**|| | | | | | | | :white_check_mark: | |Azure Azure Front Door|Page not found|
+|[https://screening-acc.dnb.nl](https://screening-acc.dnb.nl)| | **A**||:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |Azure Azure Front Door HSTS||
+|[https://tz-organisatiegegevens-acc.dnb.nl](https://tz-organisatiegegevens-acc.dnb.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Azure Azure Front Door HSTS|Organisation Det...|
+|[https://tz-organisatiegegevens-tst.dnb.nl](https://tz-organisatiegegevens-tst.dnb.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Azure Azure Front Door HSTS|Organisation Det...|
+|[https://tz-organisatiegegevens-dev.dnb.nl](https://tz-organisatiegegevens-dev.dnb.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Azure Azure Front Door HSTS|Organisation Det...|
+|[https://tz-organisatiegegevens.dnb.nl](https://tz-organisatiegegevens.dnb.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Azure Azure Front Door HSTS|Organisation Det...|
 |[https://knowledge.sharepoint.dnb.nl](https://knowledge.sharepoint.dnb.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://tz-aanvragen-dev.dnb.nl](https://tz-aanvragen-dev.dnb.nl)| | **A**|| |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | |Azure Azure Front Door HSTS|Supervision Appl...|
 |[https://tz-aanvragen-tst.dnb.nl](https://tz-aanvragen-tst.dnb.nl)| | **E**|| | | | | | | | :white_check_mark: | |Azure Azure Front Door||

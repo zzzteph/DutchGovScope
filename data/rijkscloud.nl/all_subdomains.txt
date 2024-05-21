@@ -741,3 +741,4 @@ zakelijk.dfront.rijkscloud.nl
 kennisbank.dfront.rijkscloud.nl
 elkprx2.ec.rijkscloud.nl
 registry.bdds.rijkscloud.nl
+nifi.demo.ix.rijkscloud.nl

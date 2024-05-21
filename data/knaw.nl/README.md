@@ -11,8 +11,8 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/knaw.nl/subdomains.txt)|1371|Alive subdomains|
-|[urls.txt](/data/knaw.nl/urls.txt)|783|Urls|
+|[subdomains.txt](/data/knaw.nl/subdomains.txt)|1372|Alive subdomains|
+|[urls.txt](/data/knaw.nl/urls.txt)|784|Urls|
 |[all_subdomains.txt](/data/knaw.nl/all_subdomains.txt)|1843|All found subdomains (history)|
 
 
@@ -792,7 +792,6 @@
 |[https://vangogh-api.dev.huc.knaw.nl](https://vangogh-api.dev.huc.knaw.nl)| | **C**|Apache/2.4.41 (Ubuntu)| |:white_check_mark: | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.41 Ubuntu|Unauthorized|
 |[https://wp-10.dev.huc.knaw.nl](https://wp-10.dev.huc.knaw.nl)| | **F**|Apache/2.4.41 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.41 Ubuntu|Unauthorized|
 |[https://wp-01.dev.huc.knaw.nl](https://wp-01.dev.huc.knaw.nl)| | **F**|Apache/2.4.41 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.41 Ubuntu|Unauthorized|
-|[https://ai-similia.labs.dans.knaw.nl](https://ai-similia.labs.dans.knaw.nl)| | **F**|uvicorn| | | | | | | | :white_check_mark: | |Python Uvicorn||
 |[https://wp-16.dev.huc.knaw.nl](https://wp-16.dev.huc.knaw.nl)| | **F**|Apache/2.4.41 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.41 Ubuntu|Unauthorized|
 |[https://ss31.dans.knaw.nl](https://ss31.dans.knaw.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|Index of /|
 |[https://repository-assistant.labs.dans.knaw.nl](https://repository-assistant.labs.dans.knaw.nl)| | **F**|uvicorn| | | | | | | | :white_check_mark: | |Python Uvicorn||
@@ -804,4 +803,6 @@
 |[https://enterpriseenrollment.knaw.nl](https://enterpriseenrollment.knaw.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||
 |[https://enterpriseregistration.knaw.nl](https://enterpriseregistration.knaw.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[http://kaartenbank.meertens.knaw.nl](http://kaartenbank.meertens.knaw.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|301 Moved Perman...|
+|[http://cmdi.sd.di.huc.knaw.nl](http://cmdi.sd.di.huc.knaw.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|301 Moved Perman...|
+|[https://cl.nioo.knaw.nl](https://cl.nioo.knaw.nl)| | **B**|nginx| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Drupal HSTS Nginx PHP Varnish:6.2|Redirecting to h...|
 

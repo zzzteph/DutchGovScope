@@ -11,7 +11,7 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/zorginzicht.nl/subdomains.txt)|18|Alive subdomains|
+|[subdomains.txt](/data/zorginzicht.nl/subdomains.txt)|24|Alive subdomains|
 |[urls.txt](/data/zorginzicht.nl/urls.txt)|10|Urls|
 |[all_subdomains.txt](/data/zorginzicht.nl/all_subdomains.txt)|28|All found subdomains (history)|
 

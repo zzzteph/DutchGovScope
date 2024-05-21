@@ -2,9 +2,9 @@
 layout: default
 title: "kansspelautoriteit.nl"
 permalink: "/dutchgov/kansspelautoriteit.nl.html"
-subdomains_count: 28
+subdomains_count: 27
 all_subdomains_count: 102
-urls_count: 18
+urls_count: 17
 ssl_rank: A-
 http_rank: C
 security_txt: 2
@@ -27,8 +27,8 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/kansspelautoriteit.nl/subdomains.txt)|28|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/kansspelautoriteit.nl/urls.txt)|18|Urls|
+|[subdomains.txt](/DutchGovScope/data/kansspelautoriteit.nl/subdomains.txt)|27|Alive subdomains|
+|[urls.txt](/DutchGovScope/data/kansspelautoriteit.nl/urls.txt)|17|Urls|
 |[all_subdomains.txt](/DutchGovScope/data/kansspelautoriteit.nl/all_subdomains.txt)|102|All found subdomains (history)|
 
 
@@ -37,10 +37,10 @@ tags: dutchgov
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://autodiscover.kansspelautoriteit.nl](https://autodiscover.kansspelautoriteit.nl)| **B**| **F**|Microsoft-IIS/10.0| | | | | | | | :white_check_mark: | |IIS:10.0 Windows Server||
+|[https://autodiscover.kansspelautoriteit.nl](https://autodiscover.kansspelautoriteit.nl)| **B**| **E**|Microsoft-IIS/10.0| | | | | | :white_check_mark: | | :white_check_mark: | |IIS:10.0 Windows Server||
 |[https://file.kansspelautoriteit.nl](https://file.kansspelautoriteit.nl)| **A+**| **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://formulieren.kansspelautoriteit.nl](https://formulieren.kansspelautoriteit.nl)| **A+**| **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:-|Formulierenoverz...|
-|[https://mx.kansspelautoriteit.nl](https://mx.kansspelautoriteit.nl)| **B**| **F**|Microsoft-IIS/10.0 Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |IIS:10.0 Microsoft HTTPAPI:2.0 Windows Server||
+|[https://mx.kansspelautoriteit.nl](https://mx.kansspelautoriteit.nl)| **B**| **E**|Microsoft-IIS/10.0 Microsoft-HTTPAPI/2.0| | | | | | :white_check_mark: | | :white_check_mark: | |IIS:10.0 Microsoft HTTPAPI:2.0 Windows Server||
 |[https://portal.kansspelautoriteit.nl](https://portal.kansspelautoriteit.nl)| **B**| **E**|| | | | | | | | :white_check_mark: | ||Document Moved|
 |[https://sts.kansspelautoriteit.nl](https://sts.kansspelautoriteit.nl)| **B**| **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
 |[https://vpn.kansspelautoriteit.nl](https://vpn.kansspelautoriteit.nl)| **A**| **A**|| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS Pulse Secure||
@@ -48,7 +48,6 @@ tags: dutchgov
 |[https://www.kansspelautoriteit.nl](https://www.kansspelautoriteit.nl)| **A+**| **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:-|Object moved|
 |[https://kansspelautoriteit.nl](https://kansspelautoriteit.nl)| **A+**| **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:-|Home - Kansspela...|
 |[https://desktop.kansspelautoriteit.nl](https://desktop.kansspelautoriteit.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Document Moved|
-|[https://ems.kansspelautoriteit.nl](https://ems.kansspelautoriteit.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||
 |[https://enterpriseenrollment.kansspelautoriteit.nl](https://enterpriseenrollment.kansspelautoriteit.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||
 |[https://enterpriseregistration.kansspelautoriteit.nl](https://enterpriseregistration.kansspelautoriteit.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://mfa.kansspelautoriteit.nl](https://mfa.kansspelautoriteit.nl)| | **C**||:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | ||Document Moved|

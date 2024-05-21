@@ -11,7 +11,7 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/zorgcijfersdatabank.nl/subdomains.txt)|8|Alive subdomains|
+|[subdomains.txt](/data/zorgcijfersdatabank.nl/subdomains.txt)|9|Alive subdomains|
 |[urls.txt](/data/zorgcijfersdatabank.nl/urls.txt)|4|Urls|
 |[all_subdomains.txt](/data/zorgcijfersdatabank.nl/all_subdomains.txt)|13|All found subdomains (history)|
 

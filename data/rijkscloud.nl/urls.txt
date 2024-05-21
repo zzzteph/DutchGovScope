@@ -22,7 +22,7 @@ https://datadrop.datafabriek.ienw.rijkscloud.nl
 https://datadrop.dev-datafabriek.ienw.rijkscloud.nl
 https://datatool.datafabriek.ienw.rijkscloud.nl
 https://datatool.dev-datafabriek.ienw.rijkscloud.nl
-https://dbe-t.rvb.rijkscloud.nl
+http://dbe-t.rvb.rijkscloud.nl
 https://dev.fib.ienw.rijkscloud.nl
 https://developer.ix.rijkscloud.nl
 https://docs.performance.ix.rijkscloud.nl
@@ -128,6 +128,7 @@ https://webmail.rijkscloud.nl
 https://www.rijkscloud.nl
 https://rijkscloud.nl
 https://openstack.gn3.rijkscloud.nl
+http://status.gn3.rijkscloud.nl
 https://portal.ip.test.duo.rijkscloud.nl
 https://ip.test.duo.rijkscloud.nl
 https://rstudio.ip.test.duo.rijkscloud.nl
@@ -151,6 +152,7 @@ https://sonar-lts.test.ix.rijkscloud.nl
 https://whatsip.test.ix.rijkscloud.nl
 https://nifi-registry.test.ix.rijkscloud.nl
 https://portal-performance.test.ix.rijkscloud.nl
+https://api-performance.test.ix.rijkscloud.nl
 https://diplomaonderzoek.dfront.rijkscloud.nl
 https://particulier.dfront.rijkscloud.nl
 https://afwijkend-examineren.dfront.rijkscloud.nl

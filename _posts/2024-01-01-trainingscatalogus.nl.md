@@ -3,11 +3,11 @@ layout: default
 title: "trainingscatalogus.nl"
 permalink: "/dutchgov/trainingscatalogus.nl.html"
 subdomains_count: 186
-all_subdomains_count: 200
-urls_count: 106
+all_subdomains_count: 205
+urls_count: 107
 ssl_rank: A+
 http_rank: C
-security_txt: 26
+security_txt: 27
 url_link: /data/trainingscatalogus.nl/urls.txt
 all_subdomains_link: /data/trainingscatalogus.nl/all_subdomains.txt
 subdomains_link: /data/trainingscatalogus.nl/subdomains.txt
@@ -22,14 +22,14 @@ tags: dutchgov
 
  - **SSL Grade**:A+
  - **HTTP Security Grade**:C
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:26
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:27
 
 
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/DutchGovScope/data/trainingscatalogus.nl/subdomains.txt)|186|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/trainingscatalogus.nl/urls.txt)|106|Urls|
-|[all_subdomains.txt](/DutchGovScope/data/trainingscatalogus.nl/all_subdomains.txt)|200|All found subdomains (history)|
+|[urls.txt](/DutchGovScope/data/trainingscatalogus.nl/urls.txt)|107|Urls|
+|[all_subdomains.txt](/DutchGovScope/data/trainingscatalogus.nl/all_subdomains.txt)|205|All found subdomains (history)|
 
 
 ## Statistics
@@ -143,4 +143,5 @@ tags: dutchgov
 |[https://course-api.schiphol-lms.trainingscatalogus.nl](https://course-api.schiphol-lms.trainingscatalogus.nl)| | **F**|Microsoft-IIS/10.0|:white_check_mark: | | | | | | | :white_check_mark: | |Azure IIS:10.0 Microsoft ASP.NET Windows Server||
 |[https://enrollment-api.schiphol-lms.trainingscatalogus.nl](https://enrollment-api.schiphol-lms.trainingscatalogus.nl)| | **F**|Microsoft-IIS/10.0|:white_check_mark: | | | | | | | :white_check_mark: | |Azure IIS:10.0 Microsoft ASP.NET Windows Server||
 |[https://scim-api.schiphol-lms.trainingscatalogus.nl](https://scim-api.schiphol-lms.trainingscatalogus.nl)| | **F**|Microsoft-IIS/10.0|:white_check_mark: | | | | | | | :white_check_mark: | |Azure IIS:10.0 Microsoft ASP.NET Windows Server||
+|[https://parnassia-lms.trainingscatalogus.nl](https://parnassia-lms.trainingscatalogus.nl)| | **A**|Class|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Access is denied...|
 

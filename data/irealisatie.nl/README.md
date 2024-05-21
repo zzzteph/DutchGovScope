@@ -6,13 +6,13 @@
 
  - **SSL Grade**:
  - **HTTP Security Grade**:B
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:29
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:30
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/irealisatie.nl/subdomains.txt)|51|Alive subdomains|
-|[urls.txt](/data/irealisatie.nl/urls.txt)|39|Urls|
+|[subdomains.txt](/data/irealisatie.nl/subdomains.txt)|53|Alive subdomains|
+|[urls.txt](/data/irealisatie.nl/urls.txt)|40|Urls|
 |[all_subdomains.txt](/data/irealisatie.nl/all_subdomains.txt)|54|All found subdomains (history)|
 
 
@@ -32,7 +32,7 @@
 |[https://www.irealisatie.nl](https://www.irealisatie.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS|iRealisatie  - S...|
 |[https://nextcloud.irealisatie.nl](https://nextcloud.irealisatie.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nextcloud PHP||
 |[https://irealisatie.nl](https://irealisatie.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS|iRealisatie  - S...|
-|[https://collabora.irealisatie.nl](https://collabora.irealisatie.nl)| | **F**|COOLWSD HTTP Server 23.05.10.1| | | | | | | | :white_check_mark: | |||
+|[https://collabora.irealisatie.nl](https://collabora.irealisatie.nl)| | **F**|COOLWSD HTTP Server 24.04.1.4| | | | | | | | :white_check_mark: | |||
 |[http://acc.irealisatie.nl](http://acc.irealisatie.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[http://gitea.irealisatie.nl](http://gitea.irealisatie.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[http://taiga.irealisatie.nl](http://taiga.irealisatie.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
@@ -60,4 +60,5 @@
 |[https://collabora.acc.irealisatie.nl](https://collabora.acc.irealisatie.nl)| | **F**|COOLWSD HTTP Server 24.04.1.4| | | | | | | | :white_check_mark: | |||
 |[https://stats.test.mgo.irealisatie.nl](https://stats.test.mgo.irealisatie.nl)| | **B**|Apache| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server Basic HSTS|401 Unauthorized|
 |[https://uren.acc.irealisatie.nl](https://uren.acc.irealisatie.nl)| | **A**|Apache| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server Basic HSTS|401 Unauthorized|
+|[https://uren.irealisatie.nl](https://uren.irealisatie.nl)| | **A**|Apache| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server Basic HSTS|401 Unauthorized|
 

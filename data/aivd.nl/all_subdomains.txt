@@ -39,3 +39,5 @@ a-feeds.a-english.aivd.nl
 buvo-eopg.aivd.nl
 outbound-eopg.aivd.nl
 fbadmin-eopg-accp.aivd.nl
+id-lap.reis.aivd.nl
+id-lap-eopg.reis.aivd.nl

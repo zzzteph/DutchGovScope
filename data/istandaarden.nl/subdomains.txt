@@ -11,5 +11,10 @@ www-ac.istandaarden.nl
 istandaarden.nl
 registry.acceptatie.istandaarden.nl
 repository.acceptatie.istandaarden.nl
+www-dev.istandaarden.nl
+www-acc.istandaarden.nl
+www-ow.istandaarden.nl
+www-tst.istandaarden.nl
+www-ts.istandaarden.nl
 ftp.istandaarden.nl
 pm-bounces.istandaarden.nl

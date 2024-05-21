@@ -5,14 +5,14 @@
 
 
  - **SSL Grade**:B-
- - **HTTP Security Grade**:D
+ - **HTTP Security Grade**:E
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:0
 
 
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/platformwow.nl/subdomains.txt)|22|Alive subdomains|
-|[urls.txt](/data/platformwow.nl/urls.txt)|14|Urls|
+|[urls.txt](/data/platformwow.nl/urls.txt)|17|Urls|
 |[all_subdomains.txt](/data/platformwow.nl/all_subdomains.txt)|24|All found subdomains (history)|
 
 
@@ -21,7 +21,7 @@
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://cdn.platformwow.nl](https://cdn.platformwow.nl)| **A+**| **B**|ECAcc (frc/4C86)|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Alpine.js Azure Azure CDN Google Tag Manager HSTS|Platform WOW|
+|[https://cdn.platformwow.nl](https://cdn.platformwow.nl)| **A+**| **B**|ECAcc (ska/F775)|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Alpine.js Azure Azure CDN Google Tag Manager HSTS|Platform WOW|
 |[https://email.platformwow.nl](https://email.platformwow.nl)| **A+**| **C**|Spotler| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
 |[https://jaarverslag2015.platformwow.nl](https://jaarverslag2015.platformwow.nl)| **F**| **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|404 Not Found|
 |[https://jaarverslag2016.platformwow.nl](https://jaarverslag2016.platformwow.nl)| **F**| **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|404 Not Found|
@@ -35,4 +35,7 @@
 |[https://nieuw.platformwow.nl](https://nieuw.platformwow.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
 |[https://pop.platformwow.nl](https://pop.platformwow.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
 |[https://webmail.platformwow.nl](https://webmail.platformwow.nl)| | **F**|Apache/2.4.25 (Debian) mod_fastcgi/mod_fastcgi-SNAP-0910052141| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.25 Debian mod_fastcgi|TransIP Webmail...|
+|[https://www.jaarverslag2015.platformwow.nl](https://www.jaarverslag2015.platformwow.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|404 Not Found|
+|[https://www.jaarverslag2016.platformwow.nl](https://www.jaarverslag2016.platformwow.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|404 Not Found|
+|[https://www.nieuw.platformwow.nl](https://www.nieuw.platformwow.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
 

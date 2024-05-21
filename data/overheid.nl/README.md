@@ -11,9 +11,9 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/overheid.nl/subdomains.txt)|39914|Alive subdomains|
+|[subdomains.txt](/data/overheid.nl/subdomains.txt)|42344|Alive subdomains|
 |[urls.txt](/data/overheid.nl/urls.txt)|308|Urls|
-|[all_subdomains.txt](/data/overheid.nl/all_subdomains.txt)|44762|All found subdomains (history)|
+|[all_subdomains.txt](/data/overheid.nl/all_subdomains.txt)|44764|All found subdomains (history)|
 
 
 ## Statistics

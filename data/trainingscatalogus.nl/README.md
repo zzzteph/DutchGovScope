@@ -6,14 +6,14 @@
 
  - **SSL Grade**:A+
  - **HTTP Security Grade**:C
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:26
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:27
 
 
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/trainingscatalogus.nl/subdomains.txt)|186|Alive subdomains|
-|[urls.txt](/data/trainingscatalogus.nl/urls.txt)|106|Urls|
-|[all_subdomains.txt](/data/trainingscatalogus.nl/all_subdomains.txt)|200|All found subdomains (history)|
+|[urls.txt](/data/trainingscatalogus.nl/urls.txt)|107|Urls|
+|[all_subdomains.txt](/data/trainingscatalogus.nl/all_subdomains.txt)|205|All found subdomains (history)|
 
 
 ## Statistics
@@ -127,4 +127,5 @@
 |[https://course-api.schiphol-lms.trainingscatalogus.nl](https://course-api.schiphol-lms.trainingscatalogus.nl)| | **F**|Microsoft-IIS/10.0|:white_check_mark: | | | | | | | :white_check_mark: | |Azure IIS:10.0 Microsoft ASP.NET Windows Server||
 |[https://enrollment-api.schiphol-lms.trainingscatalogus.nl](https://enrollment-api.schiphol-lms.trainingscatalogus.nl)| | **F**|Microsoft-IIS/10.0|:white_check_mark: | | | | | | | :white_check_mark: | |Azure IIS:10.0 Microsoft ASP.NET Windows Server||
 |[https://scim-api.schiphol-lms.trainingscatalogus.nl](https://scim-api.schiphol-lms.trainingscatalogus.nl)| | **F**|Microsoft-IIS/10.0|:white_check_mark: | | | | | | | :white_check_mark: | |Azure IIS:10.0 Microsoft ASP.NET Windows Server||
+|[https://parnassia-lms.trainingscatalogus.nl](https://parnassia-lms.trainingscatalogus.nl)| | **A**|Class|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Access is denied...|
 

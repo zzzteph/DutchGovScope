@@ -13,7 +13,7 @@
 |------------|-------|------|
 |[subdomains.txt](/data/aivd.nl/subdomains.txt)|20|Alive subdomains|
 |[urls.txt](/data/aivd.nl/urls.txt)|11|Urls|
-|[all_subdomains.txt](/data/aivd.nl/all_subdomains.txt)|41|All found subdomains (history)|
+|[all_subdomains.txt](/data/aivd.nl/all_subdomains.txt)|43|All found subdomains (history)|
 
 
 ## Statistics

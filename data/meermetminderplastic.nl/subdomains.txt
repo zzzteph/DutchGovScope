@@ -2,4 +2,3 @@ forum.meermetminderplastic.nl
 monitoring.meermetminderplastic.nl
 www.meermetminderplastic.nl
 meermetminderplastic.nl
-autodiscover.meermetminderplastic.nl

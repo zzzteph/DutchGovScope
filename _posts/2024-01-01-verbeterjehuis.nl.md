@@ -2,9 +2,9 @@
 layout: default
 title: "verbeterjehuis.nl"
 permalink: "/dutchgov/verbeterjehuis.nl.html"
-subdomains_count: 11
+subdomains_count: 21
 all_subdomains_count: 25
-urls_count: 10
+urls_count: 11
 ssl_rank: A+
 http_rank: B
 security_txt: 0
@@ -27,8 +27,8 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/verbeterjehuis.nl/subdomains.txt)|11|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/verbeterjehuis.nl/urls.txt)|10|Urls|
+|[subdomains.txt](/DutchGovScope/data/verbeterjehuis.nl/subdomains.txt)|21|Alive subdomains|
+|[urls.txt](/DutchGovScope/data/verbeterjehuis.nl/urls.txt)|11|Urls|
 |[all_subdomains.txt](/DutchGovScope/data/verbeterjehuis.nl/all_subdomains.txt)|25|All found subdomains (history)|
 
 
@@ -47,4 +47,5 @@ tags: dutchgov
 |[http://localhost.verbeterjehuis.nl](http://localhost.verbeterjehuis.nl)| | **F**|nginx| | | :warning:| | | | | :white_check_mark: | |Nginx|(404 Not Found)|
 |[https://test-u8-www.verbeterjehuis.nl](https://test-u8-www.verbeterjehuis.nl)| | **B**|cloudflare| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Cloudflare HSTS|Attention Requir...|
 |[https://acc-u8-www.verbeterjehuis.nl](https://acc-u8-www.verbeterjehuis.nl)| | **B**|cloudflare| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Cloudflare HSTS|Attention Requir...|
+|[https://acc-www.verbeterjehuis.nl](https://acc-www.verbeterjehuis.nl)| | **B**|cloudflare| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Cloudflare HSTS|Attention Requir...|
 

@@ -4,9 +4,9 @@ title: "incidentmanagement.nl"
 permalink: "/dutchgov/incidentmanagement.nl.html"
 subdomains_count: 7
 all_subdomains_count: 8
-urls_count: 4
+urls_count: 5
 ssl_rank: C
-http_rank: F
+http_rank: E
 security_txt: 2
 url_link: /data/incidentmanagement.nl/urls.txt
 all_subdomains_link: /data/incidentmanagement.nl/all_subdomains.txt
@@ -21,14 +21,14 @@ tags: dutchgov
 
 
  - **SSL Grade**:C
- - **HTTP Security Grade**:F
+ - **HTTP Security Grade**:E
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:2
 
 
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/DutchGovScope/data/incidentmanagement.nl/subdomains.txt)|7|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/incidentmanagement.nl/urls.txt)|4|Urls|
+|[urls.txt](/DutchGovScope/data/incidentmanagement.nl/urls.txt)|5|Urls|
 |[all_subdomains.txt](/DutchGovScope/data/incidentmanagement.nl/all_subdomains.txt)|8|All found subdomains (history)|
 
 
@@ -41,4 +41,5 @@ tags: dutchgov
 |[https://www.incidentmanagement.nl](https://www.incidentmanagement.nl)| **A+**| **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Object moved|
 |[https://www.webshop.incidentmanagement.nl](https://www.webshop.incidentmanagement.nl)| **F**| **F**|nginx| | | | | | | | :white_check_mark: | |Nginx||
 |[https://incidentmanagement.nl](https://incidentmanagement.nl)| **A+**| **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Object moved|
+|[https://revi.incidentmanagement.nl](https://revi.incidentmanagement.nl)| | **A**|Apache| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS Moodle PHP|Doorverwijspagin...|
 

@@ -4,9 +4,9 @@ title: "onderzoekmetmensen.nl"
 permalink: "/dutchgov/onderzoekmetmensen.nl.html"
 subdomains_count: 9
 all_subdomains_count: 9
-urls_count: 6
+urls_count: 8
 ssl_rank: A+
-http_rank: D
+http_rank: E
 security_txt: 2
 url_link: /data/onderzoekmetmensen.nl/urls.txt
 all_subdomains_link: /data/onderzoekmetmensen.nl/all_subdomains.txt
@@ -21,14 +21,14 @@ tags: dutchgov
 
 
  - **SSL Grade**:A+
- - **HTTP Security Grade**:D
+ - **HTTP Security Grade**:E
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:2
 
 
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/DutchGovScope/data/onderzoekmetmensen.nl/subdomains.txt)|9|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/onderzoekmetmensen.nl/urls.txt)|6|Urls|
+|[urls.txt](/DutchGovScope/data/onderzoekmetmensen.nl/urls.txt)|8|Urls|
 |[all_subdomains.txt](/DutchGovScope/data/onderzoekmetmensen.nl/all_subdomains.txt)|9|All found subdomains (history)|
 
 
@@ -43,4 +43,6 @@ tags: dutchgov
 |[https://acc.onderzoekmetmensen.nl](https://acc.onderzoekmetmensen.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Basic HSTS Nginx|401 Authorizatio...|
 |[https://portaal-acc.onderzoekmetmensen.nl](https://portaal-acc.onderzoekmetmensen.nl)| | **F**|nginx/1.26.0| | | | | | | | :white_check_mark: | |Basic Nginx:1.26.0|401 Authorizatio...|
 |[https://portaal-tst.onderzoekmetmensen.nl](https://portaal-tst.onderzoekmetmensen.nl)| | **F**|nginx/1.26.0| | | | | | | | :white_check_mark: | |Basic HSTS Nginx:1.26.0|401 Authorizatio...|
+|[https://pmon-acc.onderzoekmetmensen.nl](https://pmon-acc.onderzoekmetmensen.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Basic HSTS Nginx|401 Authorizatio...|
+|[https://pmon-tst.onderzoekmetmensen.nl](https://pmon-tst.onderzoekmetmensen.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Basic HSTS Nginx|401 Authorizatio...|
 

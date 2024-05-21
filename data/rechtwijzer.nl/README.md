@@ -11,9 +11,9 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/rechtwijzer.nl/subdomains.txt)|88|Alive subdomains|
+|[subdomains.txt](/data/rechtwijzer.nl/subdomains.txt)|89|Alive subdomains|
 |[urls.txt](/data/rechtwijzer.nl/urls.txt)|4|Urls|
-|[all_subdomains.txt](/data/rechtwijzer.nl/all_subdomains.txt)|90|All found subdomains (history)|
+|[all_subdomains.txt](/data/rechtwijzer.nl/all_subdomains.txt)|93|All found subdomains (history)|
 
 
 ## Statistics

@@ -35,7 +35,7 @@ https://test.redactie.gebruikercentraal.nl
 https://test.rotterdammer.gebruikercentraal.nl
 https://test.volwassenheidsscan.gebruikercentraal.nl
 https://volwassenheidsscan.gebruikercentraal.nl
-http://www.gebruikercentraal.nl
+https://www.gebruikercentraal.nl
 https://accept.international.gebruikercentraal.nl
 https://test.international.gebruikercentraal.nl
 https://test.toolkittaal.gebruikercentraal.nl

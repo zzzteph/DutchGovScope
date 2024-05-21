@@ -2,7 +2,7 @@
 layout: default
 title: "istandaarden.nl"
 permalink: "/dutchgov/istandaarden.nl.html"
-subdomains_count: 15
+subdomains_count: 20
 all_subdomains_count: 30
 urls_count: 14
 ssl_rank: A
@@ -27,7 +27,7 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/istandaarden.nl/subdomains.txt)|15|Alive subdomains|
+|[subdomains.txt](/DutchGovScope/data/istandaarden.nl/subdomains.txt)|20|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/istandaarden.nl/urls.txt)|14|Urls|
 |[all_subdomains.txt](/DutchGovScope/data/istandaarden.nl/all_subdomains.txt)|30|All found subdomains (history)|
 

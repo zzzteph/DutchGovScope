@@ -38,7 +38,7 @@ tags: dutchgov
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[https://admin.webmail.werkenbijdefensie.nl](https://admin.webmail.werkenbijdefensie.nl)| **A**| **C**|Ponos Maximum| | | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |||
-|[https://api.werkenbijdefensie.nl](https://api.werkenbijdefensie.nl)| **A**| **D**|Ponos Maximum| | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | ||404 Not Found|
+|[https://api.werkenbijdefensie.nl](https://api.werkenbijdefensie.nl)| **A**| **D**|Ponos Maximum| | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|418 I'm a teapot|
 |[https://api.luchtgevechtsleiding.werkenbijdefensie.nl](https://api.luchtgevechtsleiding.werkenbijdefensie.nl)| **A+**| **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Nginx||
 |[https://luchtgevechtsleiding.werkenbijdefensie.nl](https://luchtgevechtsleiding.werkenbijdefensie.nl)| **A+**| **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Google Tag Manager HSTS Nginx|LGL Serious Game...|
 |[https://toolkit.werkenbijdefensie.nl](https://toolkit.werkenbijdefensie.nl)| **A+**| **A**|Ponos Maximum|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Redirecting to p...|

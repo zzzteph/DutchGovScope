@@ -101,7 +101,7 @@
 |[https://stats.staging.ndw.nu](https://stats.staging.ndw.nu)| | **D**|Apache/2.4.57 (Debian)|:white_check_mark: | | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server:2.4.57 Debian Matomo Analytics PHP:8.2.15|Sign in - Matomo|
 |[https://shared-services.staging.ndw.nu](https://shared-services.staging.ndw.nu)| | **F**|Microsoft-Azure-Application-Gateway/v2| | | | | | | | :white_check_mark: | ||404 Not Found|
 |[https://maps.staging.ndw.nu](https://maps.staging.ndw.nu)| | **F**|Apache/2.4.59 (Unix)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.59 Bootstrap UNIX|NDW Maps|
-|[https://nls.staging.ndw.nu](https://nls.staging.ndw.nu)| | **F**|nginx/1.24.0| | | | | | | | :white_check_mark: | |Nginx:1.24.0|NlsFrontend|
+|[https://nls.staging.ndw.nu](https://nls.staging.ndw.nu)| | **F**|nginx/1.26.0| | | | | | | | :white_check_mark: | |Nginx:1.26.0|NlsFrontend|
 |[https://design.staging.ndw.nu](https://design.staging.ndw.nu)| | **A**|| |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | |HSTS MkDocs:1.6.0 Python|NDW Docs|
 |[https://security.ndw.nu](https://security.ndw.nu)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://security.staging.ndw.nu](https://security.staging.ndw.nu)| | **E**|| | | | | | | | :white_check_mark: | |||

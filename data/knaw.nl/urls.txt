@@ -769,7 +769,6 @@ https://wp-05.dev.huc.knaw.nl
 https://vangogh-api.dev.huc.knaw.nl
 https://wp-10.dev.huc.knaw.nl
 https://wp-01.dev.huc.knaw.nl
-https://ai-similia.labs.dans.knaw.nl
 https://wp-16.dev.huc.knaw.nl
 https://ss31.dans.knaw.nl
 https://repository-assistant.labs.dans.knaw.nl
@@ -781,3 +780,5 @@ https://vangogh-letters.dev.huc.knaw.nl
 https://enterpriseenrollment.knaw.nl
 https://enterpriseregistration.knaw.nl
 http://kaartenbank.meertens.knaw.nl
+http://cmdi.sd.di.huc.knaw.nl
+https://cl.nioo.knaw.nl

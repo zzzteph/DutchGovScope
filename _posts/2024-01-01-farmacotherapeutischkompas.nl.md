@@ -2,7 +2,7 @@
 layout: default
 title: "farmacotherapeutischkompas.nl"
 permalink: "/dutchgov/farmacotherapeutischkompas.nl.html"
-subdomains_count: 6
+subdomains_count: 15
 all_subdomains_count: 18
 urls_count: 5
 ssl_rank: A
@@ -27,7 +27,7 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/farmacotherapeutischkompas.nl/subdomains.txt)|6|Alive subdomains|
+|[subdomains.txt](/DutchGovScope/data/farmacotherapeutischkompas.nl/subdomains.txt)|15|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/farmacotherapeutischkompas.nl/urls.txt)|5|Urls|
 |[all_subdomains.txt](/DutchGovScope/data/farmacotherapeutischkompas.nl/all_subdomains.txt)|18|All found subdomains (history)|
 

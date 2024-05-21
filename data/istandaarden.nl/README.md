@@ -11,7 +11,7 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/istandaarden.nl/subdomains.txt)|15|Alive subdomains|
+|[subdomains.txt](/data/istandaarden.nl/subdomains.txt)|20|Alive subdomains|
 |[urls.txt](/data/istandaarden.nl/urls.txt)|14|Urls|
 |[all_subdomains.txt](/data/istandaarden.nl/all_subdomains.txt)|30|All found subdomains (history)|
 

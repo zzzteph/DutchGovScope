@@ -4,9 +4,9 @@ title: "monitorlandschap.nl"
 permalink: "/dutchgov/monitorlandschap.nl.html"
 subdomains_count: 2
 all_subdomains_count: 2
-urls_count: 1
+urls_count: 2
 ssl_rank: A
-http_rank: A
+http_rank: C
 security_txt: 0
 url_link: /data/monitorlandschap.nl/urls.txt
 all_subdomains_link: /data/monitorlandschap.nl/all_subdomains.txt
@@ -21,14 +21,14 @@ tags: dutchgov
 
 
  - **SSL Grade**:A
- - **HTTP Security Grade**:A
+ - **HTTP Security Grade**:C
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:0
 
 
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/DutchGovScope/data/monitorlandschap.nl/subdomains.txt)|2|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/monitorlandschap.nl/urls.txt)|1|Urls|
+|[urls.txt](/DutchGovScope/data/monitorlandschap.nl/urls.txt)|2|Urls|
 |[all_subdomains.txt](/DutchGovScope/data/monitorlandschap.nl/all_subdomains.txt)|2|All found subdomains (history)|
 
 
@@ -38,4 +38,5 @@ tags: dutchgov
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[https://www.monitorlandschap.nl](https://www.monitorlandschap.nl)| **A**| **A**|| |:white_check_mark: | | | :white_check_mark:| | | :white_check_mark: | |HSTS|Monitor Landscha...|
+|[https://monitorlandschap.nl](https://monitorlandschap.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 
