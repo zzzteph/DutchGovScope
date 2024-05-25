@@ -16,3 +16,4 @@ https://test-bp.stopheling.nl
 https://ltu-admin.stopheling.nl
 https://ltu-api.stopheling.nl
 https://accp-bp.stopheling.nl
+https://test-developer.stopheling.nl

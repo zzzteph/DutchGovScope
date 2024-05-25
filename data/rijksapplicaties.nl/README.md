@@ -13,7 +13,7 @@
 |------------|-------|------|
 |[subdomains.txt](/data/rijksapplicaties.nl/subdomains.txt)|270|Alive subdomains|
 |[urls.txt](/data/rijksapplicaties.nl/urls.txt)|230|Urls|
-|[all_subdomains.txt](/data/rijksapplicaties.nl/all_subdomains.txt)|337|All found subdomains (history)|
+|[all_subdomains.txt](/data/rijksapplicaties.nl/all_subdomains.txt)|338|All found subdomains (history)|
 
 
 ## Statistics
@@ -29,7 +29,7 @@
 |[https://login-ocw.staging.rijksapplicaties.nl](https://login-ocw.staging.rijksapplicaties.nl)| **A+**| **C**|nginx|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS Microsoft ASP.NET Nginx|Login|
 |[https://fac-webservice.staging.rijksapplicaties.nl](https://fac-webservice.staging.rijksapplicaties.nl)| **A+**| **C**|nginx|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS Nginx||
 |[https://dib-rws.rijksapplicaties.nl](https://dib-rws.rijksapplicaties.nl)| **A+**| **C**|nginx|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS Nginx||
-|[https://login-nl.staging.rijksapplicaties.nl](https://login-nl.staging.rijksapplicaties.nl)| **A+**| **C**|nginx|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS Microsoft ASP.NET Nginx|Login|
+|[https://login-nl.staging.rijksapplicaties.nl](https://login-nl.staging.rijksapplicaties.nl)| **A+**| **C**|nginx|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS Microsoft ASP.NET Nginx|GV - Centrale Lo...|
 |[https://login-az.staging.rijksapplicaties.nl](https://login-az.staging.rijksapplicaties.nl)| **A+**| **C**|nginx|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS Microsoft ASP.NET Nginx|Login|
 |[https://login-ienw.staging.rijksapplicaties.nl](https://login-ienw.staging.rijksapplicaties.nl)| **A+**| **C**|nginx|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS Microsoft ASP.NET Nginx|Login IenW|
 |[https://login-fin.staging.rijksapplicaties.nl](https://login-fin.staging.rijksapplicaties.nl)| **A+**| **C**|nginx|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS Microsoft ASP.NET Nginx|Login|

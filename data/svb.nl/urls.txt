@@ -5,7 +5,6 @@ https://gemeenten.svb.nl
 http://cb.entreepgb.svb.nl
 https://secure5.svb.nl
 https://rdsapplications07.svb.nl
-https://rdsapplications08.svb.nl
 https://leveranciersvdi.svb.nl
 https://www.svb.nl
 https://mijnsvb.svb.nl
@@ -17,7 +16,6 @@ https://pgbverwerkingservice.entreepgb.svb.nl
 https://app.svb.nl
 https://mft-acc.svb.nl
 https://app-o.svb.nl
-https://rdsapplications10.svb.nl
 https://onderzoek.svb.nl
 https://apps.svb.nl
 https://rdsapplications00.svb.nl
@@ -30,7 +28,7 @@ https://pages.svb.nl
 https://rdsapplications06.svb.nl
 https://mijnpgb.svb.nl
 https://leerplein.svb.nl
-https://test-intranet.svb.nl
+http://test-intranet.svb.nl
 https://outlook.svb.nl
 https://rdsapplications05.svb.nl
 https://myprint.svb.nl
@@ -41,7 +39,7 @@ https://mijnpgb-siam.svb.nl
 http://www.entreepgb.svb.nl
 https://rdsapplications04.svb.nl
 https://rdsapplications02.svb.nl
-https://test-cmsintranet.svb.nl
+http://test-cmsintranet.svb.nl
 https://rdsapplications01.svb.nl
 https://downloaddomain.svb.nl
 https://internetdienstensiam.svb.nl

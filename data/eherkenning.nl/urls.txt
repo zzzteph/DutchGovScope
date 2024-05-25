@@ -4,7 +4,6 @@ https://digidentity-preproduction.sso.eherkenning.nl
 https://digidentity-staging.sso.eherkenning.nl
 https://digidentity.sso.eherkenning.nl
 https://extranet.eherkenning.nl
-https://issues.eherkenning.nl
 https://kpn-eid-acc.sso.eherkenning.nl
 https://kpn-eid-pp.sso.eherkenning.nl
 https://kpn-eid.sso.eherkenning.nl

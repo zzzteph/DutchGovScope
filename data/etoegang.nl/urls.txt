@@ -1,4 +1,3 @@
-https://afsprakenstelsel.etoegang.nl
 https://aggregator.etoegang.nl
 https://simulator.etoegang.nl
 https://s3.etoegang.nl

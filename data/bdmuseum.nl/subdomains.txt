@@ -1,6 +1,5 @@
 staging.bdmuseum.nl
 tickets.bdmuseum.nl
-www.bdmuseum.nl
 www.bdreauconseilw.bdmuseum.nl
 www.staging.bdmuseum.nl
 2019www.bdmuseum.nl

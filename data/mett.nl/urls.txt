@@ -4242,8 +4242,8 @@ https://teck.mett.nl
 https://eenum.mett.nl
 https://boxershorts.mett.nl
 https://lpi.mett.nl
-http://swiss.mett.nl
-http://wwwdev.mett.nl
+https://swiss.mett.nl
+https://wwwdev.mett.nl
 https://esolutions.mett.nl
 https://cjw.mett.nl
 https://global-api.mett.nl
@@ -14012,3 +14012,9 @@ https://wieland.mett.nl
 https://www-6-3.mett.nl
 https://minibike.mett.nl
 https://gx.mett.nl
+https://testmij.mett.nl
+https://logeion.mett.nl
+https://croteuge.mett.nl
+http://nplw.mett.nl
+https://emmengeeftenergie.mett.nl
+http://energiekmaasgouw.mett.nl

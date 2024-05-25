@@ -9,7 +9,7 @@ https://viep.brba.nl
 https://viep.acc.brba.nl
 https://viep.test.brba.nl
 https://web.acc.brba.nl
-http://web.test.brba.nl
+https://web.test.brba.nl
 https://www.brba.nl
-http://aanmelden.test.brba.nl
+https://aanmelden.test.brba.nl
 https://brba.nl

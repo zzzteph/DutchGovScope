@@ -5,7 +5,6 @@ gemeenten.svb.nl
 cb.entreepgb.svb.nl
 secure5.svb.nl
 rdsapplications07.svb.nl
-rdsapplications08.svb.nl
 leveranciersvdi.svb.nl
 www.svb.nl
 mijnsvb.svb.nl
@@ -17,7 +16,6 @@ pgbverwerkingservice.entreepgb.svb.nl
 app.svb.nl
 mft-acc.svb.nl
 app-o.svb.nl
-rdsapplications10.svb.nl
 onderzoek.svb.nl
 apps.svb.nl
 rdsapplications00.svb.nl
@@ -48,7 +46,6 @@ internetdienstensiam.svb.nl
 formulieren.svb.nl
 app-a.svb.nl
 intranet.svb.nl
-rdsapplications09.svb.nl
 assyst.svb.nl
 mydev.svb.nl
 svb.nl

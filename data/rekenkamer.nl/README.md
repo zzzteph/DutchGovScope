@@ -34,5 +34,5 @@
 |[https://enterpriseenrollment.rekenkamer.nl](https://enterpriseenrollment.rekenkamer.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||
 |[https://enterpriseregistration.rekenkamer.nl](https://enterpriseregistration.rekenkamer.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://onsgeldontcijferd-test.rekenkamer.nl](https://onsgeldontcijferd-test.rekenkamer.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS|404 Not Found|
-|[https://onsgeldontcijferd.rekenkamer.nl](https://onsgeldontcijferd.rekenkamer.nl)| | **E**|| | | | | | | | :white_check_mark: | |Basic HSTS|401 Authorizatio...|
+|[https://onsgeldontcijferd.rekenkamer.nl](https://onsgeldontcijferd.rekenkamer.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS|Ons geld ontcijf...|
 

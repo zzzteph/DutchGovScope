@@ -650,7 +650,7 @@ https://ninweb.knaw.nl
 https://twww11.meertens.knaw.nl
 https://openskos.meertens.knaw.nl
 https://oracleapp21.knaw.nl
-https://password.knaw.nl
+http://password.knaw.nl
 https://pdvnl31.dans.knaw.nl
 https://rathenau-wiki.knaw.nl
 https://sc-adfs.spinozacentre.knaw.nl

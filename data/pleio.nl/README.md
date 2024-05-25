@@ -12,7 +12,7 @@
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/pleio.nl/subdomains.txt)|1521|Alive subdomains|
-|[urls.txt](/data/pleio.nl/urls.txt)|1514|Urls|
+|[urls.txt](/data/pleio.nl/urls.txt)|1515|Urls|
 |[all_subdomains.txt](/data/pleio.nl/all_subdomains.txt)|1522|All found subdomains (history)|
 
 
@@ -477,6 +477,7 @@
 |[https://mimir-gateway.pleio.nl](https://mimir-gateway.pleio.nl)| **A+**| **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|403 Forbidden|
 |[https://www.integra-levroeghulp.pleio.nl](https://www.integra-levroeghulp.pleio.nl)| **F**| **E**|| | | | | | | | :white_check_mark: | |HSTS|404 Not Found|
 |[https://levroeghulp.pleio.nl](https://levroeghulp.pleio.nl)| **A+**| **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Domeinnaam nog n...|
+|[https://logger.pleio.nl](https://logger.pleio.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Domeinnaam nog n...|
 |[https://aangifteselectie-chat.pleio.nl](https://aangifteselectie-chat.pleio.nl)| | **B**||:warning: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Ruby Ruby on Rails|Chatwoot|
 |[https://alright.pleio.nl](https://alright.pleio.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Domeinnaam nog n...|
 |[https://divo.pleio.nl](https://divo.pleio.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Domeinnaam nog n...|

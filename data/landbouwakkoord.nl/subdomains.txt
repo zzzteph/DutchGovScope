@@ -1,4 +1,2 @@
 landbouwakkoord.nl
 www.landbouwakkoord.nl
-feeds.landbouwakkoord.nl
-opendata.landbouwakkoord.nl

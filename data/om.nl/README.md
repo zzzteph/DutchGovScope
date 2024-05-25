@@ -37,7 +37,7 @@
 |[https://verkeer.loket.om.nl](https://verkeer.loket.om.nl)| **B**| **A**|Apache|:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS|301 Moved Perman...|
 |[https://verkeer.acc.loket.om.nl](https://verkeer.acc.loket.om.nl)| **B**| **A**|Apache|:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS|301 Moved Perman...|
 |[https://fcvpn.om.nl](https://fcvpn.om.nl)| **A+**| **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Microsoft ASP.NET||
-|[https://strafdossiermh17.om.nl](https://strafdossiermh17.om.nl)| **B**| **F**|nginx/1.25.1| | | | | | | | :white_check_mark: | |HSTS Nginx:1.25.1|Strafdossier MH1...|
+|[https://strafdossiermh17.om.nl](https://strafdossiermh17.om.nl)| **B**| **F**|nginx/1.25.5| | | | | | | | :white_check_mark: | |HSTS Nginx:1.25.5|Strafdossier MH1...|
 |[https://dialin.om.nl](https://dialin.om.nl)| | **F**|Microsoft-IIS/10.0| | | | | | | | :white_check_mark: | |HSTS IIS:10.0 Windows Server|Conferencing Dia...|
 |[https://lyncdiscover.om.nl](https://lyncdiscover.om.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://meet.om.nl](https://meet.om.nl)| **F**| **E**|| | | | | | | | :white_check_mark: | |HSTS|Skype for Busine...|

@@ -11,7 +11,7 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/vzinfo.nl/subdomains.txt)|7|Alive subdomains|
+|[subdomains.txt](/data/vzinfo.nl/subdomains.txt)|8|Alive subdomains|
 |[urls.txt](/data/vzinfo.nl/urls.txt)|7|Urls|
 |[all_subdomains.txt](/data/vzinfo.nl/all_subdomains.txt)|8|All found subdomains (history)|
 

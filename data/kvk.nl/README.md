@@ -6,13 +6,13 @@
 
  - **SSL Grade**:A-
  - **HTTP Security Grade**:B
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:24
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:22
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/kvk.nl/subdomains.txt)|194|Alive subdomains|
-|[urls.txt](/data/kvk.nl/urls.txt)|61|Urls|
+|[subdomains.txt](/data/kvk.nl/subdomains.txt)|192|Alive subdomains|
+|[urls.txt](/data/kvk.nl/urls.txt)|59|Urls|
 |[all_subdomains.txt](/data/kvk.nl/all_subdomains.txt)|490|All found subdomains (history)|
 
 
@@ -37,7 +37,6 @@
 |[https://swp.kvk.nl](https://swp.kvk.nl)| **A+**| **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Microsoft ASP.NET||
 |[https://web-api.kvk.nl](https://web-api.kvk.nl)| **A+**| **A**|| |:white_check_mark: | | | :white_check_mark:| | | :white_check_mark: | |HSTS|403 - Forbidden:...|
 |[http://pki-g2.kvk.nl](http://pki-g2.kvk.nl)| **F**| **F**|Microsoft-IIS/10.0| | | | | | | | :white_check_mark: | |IIS:10.0 Windows Server|pki-g2.kvk.nl -...|
-|[https://onderzoek.kvk.nl](https://onderzoek.kvk.nl)| **A+**| **D**||:warning: |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|Survey4|
 |[https://enterpriseenrollment.kvk.nl](https://enterpriseenrollment.kvk.nl)| **F**| **E**|| | | | | | | | :white_check_mark: | |HSTS||
 |[https://kvk.nl](https://kvk.nl)| **A+**| **A**|BigIP|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |F5 BigIP HSTS||
 |[http://autodiscover.kvk.nl](http://autodiscover.kvk.nl)| | **B**|Microsoft-IIS/10.0|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server||
@@ -56,7 +55,6 @@
 |[https://static.kvk.nl](https://static.kvk.nl)| **A+**| **C**|| |:white_check_mark: | :warning:| | | | | :white_check_mark: | |HSTS|403 - Forbidden:...|
 |[https://api.ondernemersplein.kvk.nl](https://api.ondernemersplein.kvk.nl)| **A+**| **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
 |[https://vpn.kvk.nl](https://vpn.kvk.nl)| **B**| **A**||:warning: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
-|[https://ondernemerspanel.kvk.nl](https://ondernemerspanel.kvk.nl)| **A+**| **A**||:warning: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Ondernemerspanel|
 |[https://status.kvk.nl](https://status.kvk.nl)| **A+**| **B**|nginx/1.23.4|:warning: |:white_check_mark: | | |:warning: | | :white_check_mark: | :white_check_mark: | |HSTS Nginx:1.23.4|KVK Statuspagina|
 |[https://zoeken.ondernemersplein.kvk.nl](https://zoeken.ondernemersplein.kvk.nl)| **A+**| **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
 |[http://schemas.kvk.nl](http://schemas.kvk.nl)| **F**| **F**|Microsoft-IIS/10.0| | | :warning:| | | | | :white_check_mark: | |IIS:10.0 Windows Server|schemas.kvk.nl -...|

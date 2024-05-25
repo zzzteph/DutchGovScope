@@ -37,10 +37,10 @@ tags: dutchgov
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://en.octrooigemachtigde.nl](https://en.octrooigemachtigde.nl)| **F**| **F**|Apache/2| | | | | | | | :white_check_mark: | |Apache HTTP Server:2|302 Found|
+|[https://en.octrooigemachtigde.nl](https://en.octrooigemachtigde.nl)| **F**| **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|302 Found|
 |[https://www.octrooigemachtigde.nl](https://www.octrooigemachtigde.nl)| **A+**| **B**|Apache/2|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server:2 HSTS PHP:7.3.33|Orde van Octrooi...|
 |[https://octrooigemachtigde.nl](https://octrooigemachtigde.nl)| **A**| **B**|Apache/2|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server:2|302 Found|
 |[https://www.en.octrooigemachtigde.nl](https://www.en.octrooigemachtigde.nl)| **F**| **F**|Apache/2| | | | | | | | :white_check_mark: | |Apache HTTP Server:2|302 Found|
 |[http://autodiscover.octrooigemachtigde.nl](http://autodiscover.octrooigemachtigde.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
-|[https://ftp.octrooigemachtigde.nl](https://ftp.octrooigemachtigde.nl)| | **F**|Apache/2| | | | | | | | :white_check_mark: | |Apache HTTP Server:2||
+|[https://ftp.octrooigemachtigde.nl](https://ftp.octrooigemachtigde.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server||
 

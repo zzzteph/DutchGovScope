@@ -36,7 +36,7 @@
 |[https://api.subscribe.platformrijksoverheid.nl](https://api.subscribe.platformrijksoverheid.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://ps1.platformrijksoverheid.nl](https://ps1.platformrijksoverheid.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://ps4.platformrijksoverheid.nl](https://ps4.platformrijksoverheid.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
-|[https://survey.platformrijksoverheid.nl](https://survey.platformrijksoverheid.nl)| | **D**|nginx|:o: |:white_check_mark: | :warning:| | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|Redirecting...|
+|[https://survey.platformrijksoverheid.nl](https://survey.platformrijksoverheid.nl)| | **C**|nginx| |:white_check_mark: | :warning:| | | | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://survey-deploy.platformrijksoverheid.nl](https://survey-deploy.platformrijksoverheid.nl)| | **B**|nginx| |:white_check_mark: | :warning:| | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Amazon CloudFront Amazon Web Services HSTS Nginx||
 |[https://a-subscribe.platformrijksoverheid.nl](https://a-subscribe.platformrijksoverheid.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://subscribe.platformrijksoverheid.nl](https://subscribe.platformrijksoverheid.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||

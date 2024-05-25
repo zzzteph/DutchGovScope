@@ -12,7 +12,7 @@
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/justis.nl/subdomains.txt)|14|Alive subdomains|
-|[urls.txt](/data/justis.nl/urls.txt)|12|Urls|
+|[urls.txt](/data/justis.nl/urls.txt)|13|Urls|
 |[all_subdomains.txt](/data/justis.nl/all_subdomains.txt)|16|All found subdomains (history)|
 
 
@@ -33,4 +33,5 @@
 |[https://www.justis.nl](https://www.justis.nl)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Drupal:10 HSTS Nginx PHP|Justis | De scre...|
 |[https://justis.nl](https://justis.nl)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Drupal:10 HSTS Nginx PHP|Justis | De scre...|
 |[https://prod.intranet.justis.nl](https://prod.intranet.justis.nl)| **B**| **F**|nginx| | | | | | | | :white_check_mark: | |HSTS Nginx|403 Forbidden|
+|[https://validata.justis.nl](https://validata.justis.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS Nginx||
 

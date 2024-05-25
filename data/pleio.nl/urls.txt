@@ -454,6 +454,7 @@ https://riec-liec-academie.pleio.nl
 https://mimir-gateway.pleio.nl
 https://www.integra-levroeghulp.pleio.nl
 https://levroeghulp.pleio.nl
+https://logger.pleio.nl
 https://aangifteselectie-chat.pleio.nl
 https://alright.pleio.nl
 https://divo.pleio.nl

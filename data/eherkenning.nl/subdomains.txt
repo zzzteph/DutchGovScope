@@ -5,7 +5,6 @@ digidentity-preproduction.sso.eherkenning.nl
 digidentity-staging.sso.eherkenning.nl
 digidentity.sso.eherkenning.nl
 extranet.eherkenning.nl
-issues.eherkenning.nl
 kpn-eid-acc.sso.eherkenning.nl
 kpn-eid-pp.sso.eherkenning.nl
 kpn-eid.sso.eherkenning.nl

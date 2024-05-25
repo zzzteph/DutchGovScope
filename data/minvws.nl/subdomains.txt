@@ -14,7 +14,6 @@ cibg.minvws.nl
 emailservice.minvws.nl
 idm.minvws.nl
 portal2.minvws.nl
-rijkspas.minvws.nl
 row.minvws.nl
 www.row.minvws.nl
 sdm.minvws.nl

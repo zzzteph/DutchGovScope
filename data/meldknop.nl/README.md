@@ -12,7 +12,7 @@
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/meldknop.nl/subdomains.txt)|109|Alive subdomains|
-|[urls.txt](/data/meldknop.nl/urls.txt)|107|Urls|
+|[urls.txt](/data/meldknop.nl/urls.txt)|109|Urls|
 |[all_subdomains.txt](/data/meldknop.nl/all_subdomains.txt)|109|All found subdomains (history)|
 
 
@@ -21,7 +21,7 @@
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://www.meldknop.nl](https://www.meldknop.nl)| **A+**| **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS MySQL Nginx PHP WordPress Yoast SEO:22.6|Meldknop.nl - Ie...|
+|[https://www.meldknop.nl](https://www.meldknop.nl)| **A+**| **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS MySQL Nginx PHP WordPress Yoast SEO:22.7|Meldknop.nl - Ie...|
 |[https://corrupt.meldknop.nl](https://corrupt.meldknop.nl)| **F**| **F**|nginx| | | | | | | | :white_check_mark: | |Nginx||
 |[https://66wz.meldknop.nl](https://66wz.meldknop.nl)| **F**| **F**|nginx| | | | | | | | :white_check_mark: | |Nginx||
 |[https://shanghaiershouhuangguanche.meldknop.nl](https://shanghaiershouhuangguanche.meldknop.nl)| **F**| **F**|nginx| | | | | | | | :white_check_mark: | |Nginx||
@@ -128,4 +128,6 @@
 |[https://www.digibewust.nlwww.sociaalmetmedia.nlwww.newkidsontheweb.nlwww.meldknop.nl](https://www.digibewust.nlwww.sociaalmetmedia.nlwww.newkidsontheweb.nlwww.meldknop.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx||
 |[https://www.helpwanted.nlwww.meldknop.nl](https://www.helpwanted.nlwww.meldknop.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx||
 |[https://www.newkidsontheweb.nlwww.meldknop.nl](https://www.newkidsontheweb.nlwww.meldknop.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx||
+|[https://www.mediaopvoeding.nlwww.weetwatzegamen.nlwww.digibewust.nlwww.sociaalmetmedia.nlwww.newkidsontheweb.nlwww.meldknop.nl](https://www.mediaopvoeding.nlwww.weetwatzegamen.nlwww.digibewust.nlwww.sociaalmetmedia.nlwww.newkidsontheweb.nlwww.meldknop.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx||
+|[https://www.mediawijzer.nlwww.leshulp.nlwww.mediaopvoeding.nlwww.weetwatzegamen.nlwww.digibewust.nlwww.sociaalmetmedia.nlwww.newkidsontheweb.nlwww.meldknop.nl](https://www.mediawijzer.nlwww.leshulp.nlwww.mediaopvoeding.nlwww.weetwatzegamen.nlwww.digibewust.nlwww.sociaalmetmedia.nlwww.newkidsontheweb.nlwww.meldknop.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx||
 

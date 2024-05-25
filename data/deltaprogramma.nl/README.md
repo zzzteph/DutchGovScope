@@ -11,7 +11,7 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/deltaprogramma.nl/subdomains.txt)|18|Alive subdomains|
+|[subdomains.txt](/data/deltaprogramma.nl/subdomains.txt)|19|Alive subdomains|
 |[urls.txt](/data/deltaprogramma.nl/urls.txt)|11|Urls|
 |[all_subdomains.txt](/data/deltaprogramma.nl/all_subdomains.txt)|20|All found subdomains (history)|
 

@@ -1,5 +1,4 @@
 https://acc-geo.rijkswaterstaat.nl
-https://acc-inloggen.rijkswaterstaat.nl
 https://acc-maps.rijkswaterstaat.nl
 https://acceptatie.botova.rijkswaterstaat.nl
 https://acceptatie.esb.rijkswaterstaat.nl

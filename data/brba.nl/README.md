@@ -6,7 +6,7 @@
 
  - **SSL Grade**:A+
  - **HTTP Security Grade**:C
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:9
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:11
 
 
 | File       | Count | Info |
@@ -21,8 +21,8 @@
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://aanmelden.brba.nl](https://aanmelden.brba.nl)| **A+**| **B**||:warning: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS|BRBA-AANMELDEN|
-|[https://aanmelden.acc.brba.nl](https://aanmelden.acc.brba.nl)| **A+**| **B**||:warning: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS|Redirecting to h...|
+|[https://aanmelden.brba.nl](https://aanmelden.brba.nl)| **A+**| **B**|Apache|:warning: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
+|[https://aanmelden.acc.brba.nl](https://aanmelden.acc.brba.nl)| **A+**| **B**|Apache|:warning: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
 |[https://helpdesk.brba.nl](https://helpdesk.brba.nl)| **A+**| **A**|| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS||
 |[http://keiko.brba.nl](http://keiko.brba.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[http://uzi.brba.nl](http://uzi.brba.nl)| **A**| **E**|| | | | | | | | :white_check_mark: | |||
@@ -30,10 +30,10 @@
 |[http://uzi.test.brba.nl](http://uzi.test.brba.nl)| **A**| **E**|| | | | | | | | :white_check_mark: | |||
 |[https://viep.brba.nl](https://viep.brba.nl)| **A+**| **B**||:warning: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS|Redirecting to h...|
 |[https://viep.acc.brba.nl](https://viep.acc.brba.nl)| **A+**| **A**||:warning: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS|Redirecting to h...|
-|[https://viep.test.brba.nl](https://viep.test.brba.nl)| **A+**| **B**||:warning: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS|Redirecting to h...|
+|[https://viep.test.brba.nl](https://viep.test.brba.nl)| **A+**| **B**||:warning: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS Laravel PHP|Redirecting to h...|
 |[https://web.acc.brba.nl](https://web.acc.brba.nl)| **A+**| **B**||:warning: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS|Redirecting to h...|
-|[http://web.test.brba.nl](http://web.test.brba.nl)| **A**| **E**|| | | | | | | | :white_check_mark: | |||
+|[https://web.test.brba.nl](https://web.test.brba.nl)| **A**| **B**||:warning: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS|Redirecting to h...|
 |[https://www.brba.nl](https://www.brba.nl)| **A+**| **B**||:warning: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS|Redirecting to h...|
-|[http://aanmelden.test.brba.nl](http://aanmelden.test.brba.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
+|[https://aanmelden.test.brba.nl](https://aanmelden.test.brba.nl)| | **B**|Apache|:warning: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
 |[https://brba.nl](https://brba.nl)| **A+**| **B**||:warning: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS|Redirecting to h...|
 

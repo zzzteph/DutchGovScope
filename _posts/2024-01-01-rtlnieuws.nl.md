@@ -42,7 +42,7 @@ tags: dutchgov
 |[https://acc.rtlnieuws.nl](https://acc.rtlnieuws.nl)| | **F**|AkamaiGHost| | | | | | | | :white_check_mark: | |Basic|Access Denied|
 |[https://acc-beta.rtlnieuws.nl](https://acc-beta.rtlnieuws.nl)| | **F**|AkamaiGHost| | | | | | | | :white_check_mark: | |Basic|Access Denied|
 |[https://sso.rtlnieuws.nl](https://sso.rtlnieuws.nl)| **F**| **E**|| | | | | | | | :white_check_mark: | |||
-|[https://cookies.rtlnieuws.nl](https://cookies.rtlnieuws.nl)| **A**| **F**|AkamaiGHost| | | | | | | | :white_check_mark: | ||Internal Server...|
+|[https://cookies.rtlnieuws.nl](https://cookies.rtlnieuws.nl)| **A**| **F**|AkamaiGHost| | | | | | | | :white_check_mark: | ||Service Unavaila...|
 |[https://dev-beta.rtlnieuws.nl](https://dev-beta.rtlnieuws.nl)| | **F**|AkamaiGHost| | | | | | | | :white_check_mark: | |Basic|Access Denied|
 |[https://prod.rtlnieuws.nl](https://prod.rtlnieuws.nl)| | **F**|AkamaiGHost| | | | | | | | :white_check_mark: | |Basic|Access Denied|
 

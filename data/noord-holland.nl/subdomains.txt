@@ -5,7 +5,6 @@ meet.noord-holland.nl
 zoeken.noord-holland.nl
 dataiku.noord-holland.nl
 esm.noord-holland.nl
-api.data.noord-holland.nl
 statensite.noord-holland.nl
 formulieren.noord-holland.nl
 developer.noord-holland.nl

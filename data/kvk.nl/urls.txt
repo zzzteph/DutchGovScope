@@ -14,7 +14,6 @@ https://downloadservice.kvk.nl
 https://swp.kvk.nl
 https://web-api.kvk.nl
 http://pki-g2.kvk.nl
-https://onderzoek.kvk.nl
 https://enterpriseenrollment.kvk.nl
 https://kvk.nl
 http://autodiscover.kvk.nl
@@ -33,7 +32,6 @@ https://ondertekenen.kvk.nl
 https://static.kvk.nl
 https://api.ondernemersplein.kvk.nl
 https://vpn.kvk.nl
-https://ondernemerspanel.kvk.nl
 https://status.kvk.nl
 https://zoeken.ondernemersplein.kvk.nl
 http://schemas.kvk.nl

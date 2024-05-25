@@ -37,7 +37,7 @@ tags: dutchgov
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://www.actieleernetwerk.nl](https://www.actieleernetwerk.nl)| **A+**| **C**|LiteSpeed| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS HTTP/3 LiteSpeed WP Rocket WordPress Yoast SEO:22.5|Actie Leer Netwe...|
+|[https://www.actieleernetwerk.nl](https://www.actieleernetwerk.nl)| **A+**| **C**|LiteSpeed| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS HTTP/3 LiteSpeed WP Rocket WordPress Yoast SEO:22.6|Actie Leer Netwe...|
 |[https://actieleernetwerk.nl](https://actieleernetwerk.nl)| **A**| **C**|LiteSpeed| |:white_check_mark: | | | | | | :white_check_mark: | |HTTP/3 LiteSpeed|301 Moved Perman...|
 |[https://aanmelder.actieleernetwerk.nl](https://aanmelder.actieleernetwerk.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|404 Not Found|
 |[http://autodiscover.actieleernetwerk.nl](http://autodiscover.actieleernetwerk.nl)| | **B**|Microsoft-IIS/10.0|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server||

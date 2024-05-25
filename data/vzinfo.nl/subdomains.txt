@@ -5,3 +5,4 @@ sterftedashboard.vzinfo.nl
 nzrdashboard.vzinfo.nl
 sterftedashboard-regionaal.vzinfo.nl
 mondgezondheidsdashboard.vzinfo.nl
+ziektelast.vzinfo.nl

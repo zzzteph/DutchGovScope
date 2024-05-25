@@ -1,4 +1,3 @@
 https://www.gdi.nl
 https://test.webplatform.gdi.nl
 https://gdi.nl
-http://ontwikkel-cms.crs.gdi.nl

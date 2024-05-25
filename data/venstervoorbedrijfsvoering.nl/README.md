@@ -5,8 +5,8 @@
 
 
  - **SSL Grade**:A+
- - **HTTP Security Grade**:C
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:0
+ - **HTTP Security Grade**:B
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:2
 
 
 | File       | Count | Info |
@@ -21,6 +21,6 @@
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://venstervoorbedrijfsvoering.nl](https://venstervoorbedrijfsvoering.nl)| **A+**| **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Nginx PHP:8.0.30||
-|[https://www.venstervoorbedrijfsvoering.nl](https://www.venstervoorbedrijfsvoering.nl)| **A+**| **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS MySQL Nginx PHP:8.0.30 Typekit WordPress:6.2.5 Yoast SEO:20.6 wpBakery|Homepage - Venst...|
+|[https://venstervoorbedrijfsvoering.nl](https://venstervoorbedrijfsvoering.nl)| **A+**| **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
+|[https://www.venstervoorbedrijfsvoering.nl](https://www.venstervoorbedrijfsvoering.nl)| **A+**| **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
 

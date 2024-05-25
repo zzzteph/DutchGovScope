@@ -1275,7 +1275,6 @@ vangogh.dev.huc.knaw.nl
 grosintranet-test.knaw.nl
 sep.nioo.knaw.nl
 submitaon.nin.knaw.nl
-server-s01.nin.knaw.nl
 intranet.herseninstituut.knaw.nl
 gitlab.bioinf.nioo.knaw.nl
 test-dendro.dans.knaw.nl
@@ -1370,3 +1369,4 @@ kaartenbank.meertens.knaw.nl
 cmdi.sd.di.huc.knaw.nl
 cl.nioo.knaw.nl
 cto.nioo.knaw.nl
+wp-09.dev.huc.knaw.nl

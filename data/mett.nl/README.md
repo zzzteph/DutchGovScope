@@ -6,13 +6,13 @@
 
  - **SSL Grade**:A-
  - **HTTP Security Grade**:E
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:13370
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:13376
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/mett.nl/subdomains.txt)|16957|Alive subdomains|
-|[urls.txt](/data/mett.nl/urls.txt)|14014|Urls|
+|[subdomains.txt](/data/mett.nl/subdomains.txt)|17061|Alive subdomains|
+|[urls.txt](/data/mett.nl/urls.txt)|14020|Urls|
 |[all_subdomains.txt](/data/mett.nl/all_subdomains.txt)|19784|All found subdomains (history)|
 
 
@@ -218,7 +218,7 @@
 |[https://collectievekracht.mett.nl](https://collectievekracht.mett.nl)| **A+**| **E**|| | | | | | | | :white_check_mark: | |Google Tag Manager HSTS Microsoft ASP.NET YouTube|Object moved|
 |[https://resrotterdamdenhaag.mett.nl](https://resrotterdamdenhaag.mett.nl)| **A+**| **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Object moved|
 |[https://samensittardgeleen.mett.nl](https://samensittardgeleen.mett.nl)| **A**| **E**|| | | | | | | | :white_check_mark: | ||Document Moved|
-|[https://werkom.mett.nl](https://werkom.mett.nl)| **A+**| **E**|| | | | | | | | :white_check_mark: | |HSTS|Service Unavaila...|
+|[https://werkom.mett.nl](https://werkom.mett.nl)| **A+**| **E**|| | | | | | | | :white_check_mark: | |HSTS|Object moved|
 |[https://wijkvoorinitiatieven.mett.nl](https://wijkvoorinitiatieven.mett.nl)| **A**| **E**|| | | | | | | | :white_check_mark: | ||Document Moved|
 |[https://wijkenwebsite.mett.nl](https://wijkenwebsite.mett.nl)| **A+**| **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Object moved|
 |[https://becis.mett.nl](https://becis.mett.nl)| **A**| **E**|| | | | | | | | :white_check_mark: | ||Document Moved|
@@ -4265,8 +4265,8 @@
 |[https://eenum.mett.nl](https://eenum.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Document Moved|
 |[https://boxershorts.mett.nl](https://boxershorts.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Document Moved|
 |[https://lpi.mett.nl](https://lpi.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Document Moved|
-|[http://swiss.mett.nl](http://swiss.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
-|[http://wwwdev.mett.nl](http://wwwdev.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
+|[https://swiss.mett.nl](https://swiss.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Document Moved|
+|[https://wwwdev.mett.nl](https://wwwdev.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Document Moved|
 |[https://esolutions.mett.nl](https://esolutions.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Document Moved|
 |[https://cjw.mett.nl](https://cjw.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Document Moved|
 |[https://global-api.mett.nl](https://global-api.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Document Moved|
@@ -4359,7 +4359,7 @@
 |[https://myacc.mett.nl](https://myacc.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Document Moved|
 |[https://krit.mett.nl](https://krit.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Document Moved|
 |[https://sletat.mett.nl](https://sletat.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Document Moved|
-|[https://wmb.mett.nl](https://wmb.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Document Moved|
+|[https://wmb.mett.nl](https://wmb.mett.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | ||Document Moved|
 |[https://pxd.mett.nl](https://pxd.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Document Moved|
 |[https://diamanten.mett.nl](https://diamanten.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Document Moved|
 |[https://atletiek.mett.nl](https://atletiek.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Document Moved|
@@ -4472,7 +4472,7 @@
 |[https://sexchats.mett.nl](https://sexchats.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Document Moved|
 |[https://issuer.mett.nl](https://issuer.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Document Moved|
 |[https://genealogy.mett.nl](https://genealogy.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Document Moved|
-|[https://staging1.mett.nl](https://staging1.mett.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | ||Document Moved|
+|[https://staging1.mett.nl](https://staging1.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Document Moved|
 |[https://shop.sandbox.mett.nl](https://shop.sandbox.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Document Moved|
 |[https://optimusprime.mett.nl](https://optimusprime.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Document Moved|
 |[https://accounts2.mett.nl](https://accounts2.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Document Moved|
@@ -14035,4 +14035,10 @@
 |[https://www-6-3.mett.nl](https://www-6-3.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Document Moved|
 |[https://minibike.mett.nl](https://minibike.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Document Moved|
 |[https://gx.mett.nl](https://gx.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Document Moved|
+|[https://testmij.mett.nl](https://testmij.mett.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET|Object moved|
+|[https://logeion.mett.nl](https://logeion.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Object moved|
+|[https://croteuge.mett.nl](https://croteuge.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Object moved|
+|[http://nplw.mett.nl](http://nplw.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
+|[https://emmengeeftenergie.mett.nl](https://emmengeeftenergie.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET hCaptcha|Object moved|
+|[http://energiekmaasgouw.mett.nl](http://energiekmaasgouw.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 

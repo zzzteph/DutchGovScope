@@ -10,3 +10,4 @@ https://vogcheck.justis.nl
 https://www.justis.nl
 https://justis.nl
 https://prod.intranet.justis.nl
+https://validata.justis.nl

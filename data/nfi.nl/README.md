@@ -11,9 +11,9 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/nfi.nl/subdomains.txt)|18|Alive subdomains|
-|[urls.txt](/data/nfi.nl/urls.txt)|15|Urls|
-|[all_subdomains.txt](/data/nfi.nl/all_subdomains.txt)|22|All found subdomains (history)|
+|[subdomains.txt](/data/nfi.nl/subdomains.txt)|17|Alive subdomains|
+|[urls.txt](/data/nfi.nl/urls.txt)|14|Urls|
+|[all_subdomains.txt](/data/nfi.nl/all_subdomains.txt)|23|All found subdomains (history)|
 
 
 ## Statistics
@@ -22,7 +22,6 @@
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[https://insite.nfi.nl](https://insite.nfi.nl)| | **A**|Apache| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Apache HTTP Server HSTS||
-|[https://training.nfi.nl](https://training.nfi.nl)| | **F**|Microsoft-IIS/10.0|:white_check_mark: | | | | | | | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server|Object moved|
 |[https://mijn.nfi.nl](https://mijn.nfi.nl)| | **A**|Apache| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server Drupal HSTS PHP|Redirecting to h...|
 |[https://www.nfi.nl](https://www.nfi.nl)| **A+**| **A**|Apache| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS|301 Moved Perman...|
 |[https://ontwikkelpunt.nfi.nl](https://ontwikkelpunt.nfi.nl)| | **B**|Class|:white_check_mark: |:white_check_mark: | | |:warning: | | :white_check_mark: | :white_check_mark: | |HSTS||

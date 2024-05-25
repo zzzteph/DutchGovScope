@@ -11,7 +11,7 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/databank.nl/subdomains.txt)|10589|Alive subdomains|
+|[subdomains.txt](/data/databank.nl/subdomains.txt)|11484|Alive subdomains|
 |[urls.txt](/data/databank.nl/urls.txt)|9626|Urls|
 |[all_subdomains.txt](/data/databank.nl/all_subdomains.txt)|12660|All found subdomains (history)|
 

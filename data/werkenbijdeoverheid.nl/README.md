@@ -32,7 +32,7 @@
 |[https://vacaturezoekservice-accept.werkenbijdeoverheid.nl](https://vacaturezoekservice-accept.werkenbijdeoverheid.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[http://vacaturezoekservice-test.werkenbijdeoverheid.nl](http://vacaturezoekservice-test.werkenbijdeoverheid.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://www.werkenbijdeoverheid.nl](https://www.werkenbijdeoverheid.nl)| **A+**| **B**|cloudflare|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach Cloudflare Google Tag Manager HSTS React Typekit|Hét startpunt va...|
-|[https://www-acceptatie2.werkenbijdeoverheid.nl](https://www-acceptatie2.werkenbijdeoverheid.nl)| **F**| **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|403 Forbidden|
+|[https://www-acceptatie2.werkenbijdeoverheid.nl](https://www-acceptatie2.werkenbijdeoverheid.nl)| **F**| **E**|| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS||
 |[https://www-sandbox.werkenbijdeoverheid.nl](https://www-sandbox.werkenbijdeoverheid.nl)| **F**| **E**|| | | | | | | | :white_check_mark: | |Apache HTTP Server Basic HSTS||
 |[http://www-test2.werkenbijdeoverheid.nl](http://www-test2.werkenbijdeoverheid.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://werkenbijdeoverheid.nl](https://werkenbijdeoverheid.nl)| **A+**| **B**|cloudflare|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Cloudflare HSTS||

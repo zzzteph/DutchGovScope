@@ -184,3 +184,7 @@ webmail.test.trainingscatalogus.nl
 kibana.test.trainingscatalogus.nl
 search.test.trainingscatalogus.nl
 origin.test.trainingscatalogus.nl
+sts.test.trainingscatalogus.nl
+lyncdiscover.test.trainingscatalogus.nl
+mijn.test.trainingscatalogus.nl
+account.test.trainingscatalogus.nl

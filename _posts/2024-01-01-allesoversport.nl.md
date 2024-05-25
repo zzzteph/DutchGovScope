@@ -38,12 +38,12 @@ tags: dutchgov
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[https://auteurs.allesoversport.nl](https://auteurs.allesoversport.nl)| **A+**| **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS MySQL PHP Varnish:6.2 WordPress Yoast SEO:20.13|Home - Kenniscen...|
-|[https://mail.allesoversport.nl](https://mail.allesoversport.nl)| **F**| **E**|| | | | | | | | :white_check_mark: | |HSTS Varnish:6.2|Default site|
+|[https://mail.allesoversport.nl](https://mail.allesoversport.nl)| **F**| **E**|| | | | | | | | :white_check_mark: | |HSTS Varnish|Default site|
 |[https://repo.allesoversport.nl](https://repo.allesoversport.nl)| **A+**| **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS PHP|Redirecting to /...|
 |[https://sportakkoord.allesoversport.nl](https://sportakkoord.allesoversport.nl)| **A+**| **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Varnish:6.2|302 Found|
 |[https://w906.allesoversport.nl](https://w906.allesoversport.nl)| **F**| **E**|| | | | | | | | :white_check_mark: | |HSTS Varnish:6.2|Default site|
 |[https://www.allesoversport.nl](https://www.allesoversport.nl)| **A+**| **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Google Tag Manager HSTS MySQL PHP Varnish:6.2 WordPress|Allesoversport.n...|
-|[https://kcsport.nlwww.kenniscentrumsport.nlwww.allesoversport.nl](https://kcsport.nlwww.kenniscentrumsport.nlwww.allesoversport.nl)| **F**| **E**|| | | | | | | | :white_check_mark: | |HSTS Varnish:6.2|Default site|
+|[https://kcsport.nlwww.kenniscentrumsport.nlwww.allesoversport.nl](https://kcsport.nlwww.kenniscentrumsport.nlwww.allesoversport.nl)| **F**| **E**|| | | | | | | | :white_check_mark: | |HSTS Varnish|Default site|
 |[https://allesoversport.nl](https://allesoversport.nl)| **A+**| **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Varnish:6.2|301 Moved Perman...|
 |[https://afspraakjes.allesoversport.nl](https://afspraakjes.allesoversport.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS Varnish|Default site|
 |[https://facebok.allesoversport.nl](https://facebok.allesoversport.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS Varnish|Default site|

@@ -11,8 +11,8 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/bdmuseum.nl/subdomains.txt)|13|Alive subdomains|
-|[urls.txt](/data/bdmuseum.nl/urls.txt)|13|Urls|
+|[subdomains.txt](/data/bdmuseum.nl/subdomains.txt)|12|Alive subdomains|
+|[urls.txt](/data/bdmuseum.nl/urls.txt)|12|Urls|
 |[all_subdomains.txt](/data/bdmuseum.nl/all_subdomains.txt)|14|All found subdomains (history)|
 
 
@@ -21,13 +21,12 @@
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://staging.bdmuseum.nl](https://staging.bdmuseum.nl)| **A**| **F**|LiteSpeed|:white_check_mark: | | | | | :white_check_mark: | | :white_check_mark: | |HTTP/3 LiteSpeed MySQL PHP:7.4.33 Performance Lab:2.7.0 WPML:4.6.8 WordPress|Belasting & Doua...|
+|[https://staging.bdmuseum.nl](https://staging.bdmuseum.nl)| **A**| **F**|LiteSpeed| | | | | | | | :white_check_mark: | |Basic HTTP/3 LiteSpeed Plesk|401 Authorizatio...|
 |[https://tickets.bdmuseum.nl](https://tickets.bdmuseum.nl)| **A+**| **C**|cloudflare| |:white_check_mark: | :warning:| | | :white_check_mark: | | :white_check_mark: | |Cloudflare Google Cloud Google Cloud CDN HSTS HTTP/3||
-|[https://www.bdmuseum.nl](https://www.bdmuseum.nl)| **A**| **B**|LiteSpeed|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS HTTP/3 LiteSpeed MySQL PHP Performance Lab:2.7.0 Plesk WPML:4.6.8 WordPress|Belasting & Doua...|
 |[https://www.bdreauconseilw.bdmuseum.nl](https://www.bdreauconseilw.bdmuseum.nl)| **F**| **F**|LiteSpeed| | | | | | | | :white_check_mark: | |HTTP/3 LiteSpeed Plesk||
-|[https://www.staging.bdmuseum.nl](https://www.staging.bdmuseum.nl)| **A**| **B**|LiteSpeed|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HTTP/3 LiteSpeed MySQL PHP:7.4.33 Performance Lab:2.7.0 WPML:4.6.8 WordPress|Belasting & Doua...|
+|[https://www.staging.bdmuseum.nl](https://www.staging.bdmuseum.nl)| **A**| **B**|LiteSpeed|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Basic HTTP/3 LiteSpeed Plesk|401 Authorizatio...|
 |[https://2019www.bdmuseum.nl](https://2019www.bdmuseum.nl)| **F**| **F**|LiteSpeed| | | | | | | | :white_check_mark: | |HTTP/3 LiteSpeed Plesk||
-|[https://bdmuseum.nl](https://bdmuseum.nl)| **A+**| **B**|LiteSpeed|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS HTTP/3 LiteSpeed|301 Moved Perman...|
+|[https://bdmuseum.nl](https://bdmuseum.nl)| **A+**| **A**|LiteSpeed| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS HTTP/3 LiteSpeed|301 Moved Perman...|
 |[https://19www.bdmuseum.nl](https://19www.bdmuseum.nl)| **F**| **F**|LiteSpeed| | | | | | | | :white_check_mark: | |HTTP/3 LiteSpeed Plesk||
 |[https://bdmuseum.niwww.bdmuseum.nl](https://bdmuseum.niwww.bdmuseum.nl)| | **F**|LiteSpeed| | | | | | | | :white_check_mark: | |HTTP/3 LiteSpeed Plesk||
 |[https://bdmuseum.nlwww.bdmuseum.nl](https://bdmuseum.nlwww.bdmuseum.nl)| | **F**|LiteSpeed| | | | | | | | :white_check_mark: | |HTTP/3 LiteSpeed Plesk||

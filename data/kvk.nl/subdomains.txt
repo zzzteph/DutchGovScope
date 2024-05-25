@@ -15,7 +15,6 @@ downloadservice.kvk.nl
 swp.kvk.nl
 web-api.kvk.nl
 pki-g2.kvk.nl
-onderzoek.kvk.nl
 enterpriseenrollment.kvk.nl
 kvk.nl
 autodiscover.kvk.nl
@@ -34,7 +33,6 @@ ondertekenen.kvk.nl
 static.kvk.nl
 api.ondernemersplein.kvk.nl
 vpn.kvk.nl
-ondernemerspanel.kvk.nl
 status.kvk.nl
 zoeken.ondernemersplein.kvk.nl
 schemas.kvk.nl

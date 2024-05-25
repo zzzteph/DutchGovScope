@@ -437,7 +437,6 @@ webservices.str10.acc.belastingdienst.nl
 webdiensten.str12.acc.belastingdienst.nl
 webdiensten.str13.acc.belastingdienst.nl
 webservices.str12.acc.belastingdienst.nl
-webservices.str13.acc.belastingdienst.nl
 webdiensten.str13.tst.belastingdienst.nl
 webservices.str13.tst.belastingdienst.nl
 webdiensten.str2.tst.belastingdienst.nl
