@@ -13,7 +13,7 @@
 |------------|-------|------|
 |[subdomains.txt](/data/valys.nl/subdomains.txt)|271|Alive subdomains|
 |[urls.txt](/data/valys.nl/urls.txt)|270|Urls|
-|[all_subdomains.txt](/data/valys.nl/all_subdomains.txt)|277|All found subdomains (history)|
+|[all_subdomains.txt](/data/valys.nl/all_subdomains.txt)|338|All found subdomains (history)|
 
 
 ## Statistics

@@ -6,13 +6,13 @@
 
  - **SSL Grade**:A+
  - **HTTP Security Grade**:A
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:29
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:31
 
 
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/minjenv-events.nl/subdomains.txt)|31|Alive subdomains|
-|[urls.txt](/data/minjenv-events.nl/urls.txt)|29|Urls|
+|[urls.txt](/data/minjenv-events.nl/urls.txt)|31|Urls|
 |[all_subdomains.txt](/data/minjenv-events.nl/all_subdomains.txt)|31|All found subdomains (history)|
 
 
@@ -50,4 +50,6 @@
 |[https://sptm2024.minjenv-events.nl](https://sptm2024.minjenv-events.nl)| | **A**|nginx| |:white_check_mark: | :warning:| |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx Plesk||
 |[https://jenvcarriereevent2023.minjenv-events.nl](https://jenvcarriereevent2023.minjenv-events.nl)| | **A**|nginx| |:white_check_mark: | :warning:| |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx Plesk||
 |[https://lhc2024.minjenv-events.nl](https://lhc2024.minjenv-events.nl)| | **A**|nginx| |:white_check_mark: | :warning:| |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx Plesk||
+|[https://lhc2024february15.minjenv-events.nl](https://lhc2024february15.minjenv-events.nl)| | **A**|nginx| |:white_check_mark: | :warning:| |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx Plesk||
+|[https://stateoftheart2023.minjenv-events.nl](https://stateoftheart2023.minjenv-events.nl)| | **A**|nginx| |:white_check_mark: | :warning:| |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx Plesk||
 

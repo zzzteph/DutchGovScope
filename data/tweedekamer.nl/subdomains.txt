@@ -188,3 +188,6 @@ oracle-financials-acc.tweedekamer.nl
 fr.beta.tweedekamer.nl
 cognos.tweedekamer.nl
 de.beta.tweedekamer.nl
+auth.beta.tweedekamer.nl
+my.beta.tweedekamer.nl
+webdisk.beta.tweedekamer.nl

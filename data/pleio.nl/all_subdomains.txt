@@ -1520,3 +1520,9 @@ minbuza.nljajaneegelijkmanifestgroepmanifestgroep.pleio.nl
 manifestgroepmanifestgroep.pleio.nl
 videobellen-jwt-moderator.pleio.nl
 dgh-chat.pleio.nl
+meedoenmetgebruikercentraal.pleio.nl
+community-edusources.pleio.nl
+edusources.pleio.nl
+del-taprogramma.pleio.nl
+haltewerk.pleio.nl
+dsocommunity.pleio.nl

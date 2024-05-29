@@ -4,7 +4,7 @@ title: "leidraadse.nl"
 permalink: "/dutchgov/leidraadse.nl.html"
 subdomains_count: 6
 all_subdomains_count: 6
-urls_count: 5
+urls_count: 6
 ssl_rank: D
 http_rank: F
 security_txt: 0
@@ -28,7 +28,7 @@ tags: dutchgov
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/DutchGovScope/data/leidraadse.nl/subdomains.txt)|6|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/leidraadse.nl/urls.txt)|5|Urls|
+|[urls.txt](/DutchGovScope/data/leidraadse.nl/urls.txt)|6|Urls|
 |[all_subdomains.txt](/DutchGovScope/data/leidraadse.nl/all_subdomains.txt)|6|All found subdomains (history)|
 
 
@@ -42,4 +42,5 @@ tags: dutchgov
 |[https://www.leidraadse.nl](https://www.leidraadse.nl)| **A**| **F**|Apache|:o: | | | | | | | :white_check_mark: | |Apache HTTP Server PHP|Welkom | Leidraa...|
 |[https://leidraadse.nl](https://leidraadse.nl)| **A**| **F**|Apache|:o: | | | | | | | :white_check_mark: | |Apache HTTP Server PHP|Welkom | Leidraa...|
 |[http://localhost.leidraadse.nl](http://localhost.leidraadse.nl)| | **F**|nginx| | | :warning:| | | | | :white_check_mark: | |Nginx|(404 Not Found)|
+|[https://7www.leidraadse.nl](https://7www.leidraadse.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|Default Parallel...|
 

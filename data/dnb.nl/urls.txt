@@ -115,3 +115,5 @@ https://tz-aanvragen-dev.dnb.nl
 https://tz-aanvragen-tst.dnb.nl
 https://federated-login-pp.dnb.nl
 https://federated-login.dnb.nl
+https://monet-dev.dnb.nl
+https://monet-tst.dnb.nl

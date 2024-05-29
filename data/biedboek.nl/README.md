@@ -6,13 +6,13 @@
 
  - **SSL Grade**:B+
  - **HTTP Security Grade**:F
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:7
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:8
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/biedboek.nl/subdomains.txt)|1741|Alive subdomains|
-|[urls.txt](/data/biedboek.nl/urls.txt)|1712|Urls|
+|[subdomains.txt](/data/biedboek.nl/subdomains.txt)|2487|Alive subdomains|
+|[urls.txt](/data/biedboek.nl/urls.txt)|1741|Urls|
 |[all_subdomains.txt](/data/biedboek.nl/all_subdomains.txt)|2487|All found subdomains (history)|
 
 
@@ -1733,4 +1733,33 @@
 |[https://excursies.biedboek.nl](https://excursies.biedboek.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
 |[https://jul.biedboek.nl](https://jul.biedboek.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
 |[https://esigaret.biedboek.nl](https://esigaret.biedboek.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
+|[https://deployment.biedboek.nl](https://deployment.biedboek.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Web App - Unavai...|
+|[https://productie-nieuw.biedboek.nl](https://productie-nieuw.biedboek.nl)| | **C**||:white_check_mark: | | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Azure React|Vastgoed en zake...|
+|[https://sourcemaps.biedboek.nl](https://sourcemaps.biedboek.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
+|[https://web4981.biedboek.nl](https://web4981.biedboek.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
+|[https://spell.biedboek.nl](https://spell.biedboek.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
+|[https://ns116.biedboek.nl](https://ns116.biedboek.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
+|[https://autograph.biedboek.nl](https://autograph.biedboek.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
+|[https://blooming.biedboek.nl](https://blooming.biedboek.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
+|[https://3333.biedboek.nl](https://3333.biedboek.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
+|[https://crypta.biedboek.nl](https://crypta.biedboek.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
+|[https://darksun.biedboek.nl](https://darksun.biedboek.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
+|[https://image-cdn.biedboek.nl](https://image-cdn.biedboek.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
+|[https://shahty.biedboek.nl](https://shahty.biedboek.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
+|[https://skypemeet.biedboek.nl](https://skypemeet.biedboek.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
+|[https://milly.biedboek.nl](https://milly.biedboek.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
+|[https://cape.biedboek.nl](https://cape.biedboek.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
+|[https://alyssa.biedboek.nl](https://alyssa.biedboek.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
+|[https://eesveen.biedboek.nl](https://eesveen.biedboek.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
+|[https://ghg.biedboek.nl](https://ghg.biedboek.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
+|[https://loodgieter.biedboek.nl](https://loodgieter.biedboek.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
+|[https://issuu.biedboek.nl](https://issuu.biedboek.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
+|[https://heerjansdam.biedboek.nl](https://heerjansdam.biedboek.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
+|[https://bette.biedboek.nl](https://bette.biedboek.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
+|[https://blueray.biedboek.nl](https://blueray.biedboek.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
+|[https://eend.biedboek.nl](https://eend.biedboek.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
+|[https://frivillig.biedboek.nl](https://frivillig.biedboek.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
+|[https://web4874.biedboek.nl](https://web4874.biedboek.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
+|[https://citrix.biedboek.nl](https://citrix.biedboek.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
+|[https://tams.nursing.biedboek.nl](https://tams.nursing.biedboek.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
 

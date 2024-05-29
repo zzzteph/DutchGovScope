@@ -79,5 +79,4 @@ https://vpn.ocw.odc-noord.nl
 https://vpn.gn3.koop-a.odc-noord.nl
 https://iaas-portal-gn3.odc-noord.nl
 https://paas-portal-gn3.odc-noord.nl
-https://vpn.gn2.acc.odc-noord.nl
 https://login-gn3.odc-noord.nl

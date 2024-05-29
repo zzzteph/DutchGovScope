@@ -9,3 +9,8 @@ lyncdiscover.prolander.nl
 lync.prolander.nl
 meet.prolander.nl
 sip.prolander.nl
+autodiscover.prolander.nl
+enterpriseenrollment.prolander.nl
+enterpriseregistration.prolander.nl
+localhost.prolander.nl
+p8.prolander.nl

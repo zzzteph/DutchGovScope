@@ -2,7 +2,7 @@
 layout: default
 title: "doc-direkt.nl"
 permalink: "/dutchgov/doc-direkt.nl.html"
-subdomains_count: 9
+subdomains_count: 7
 all_subdomains_count: 20
 urls_count: 7
 ssl_rank: A-
@@ -27,7 +27,7 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/doc-direkt.nl/subdomains.txt)|9|Alive subdomains|
+|[subdomains.txt](/DutchGovScope/data/doc-direkt.nl/subdomains.txt)|7|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/doc-direkt.nl/urls.txt)|7|Urls|
 |[all_subdomains.txt](/DutchGovScope/data/doc-direkt.nl/all_subdomains.txt)|20|All found subdomains (history)|
 

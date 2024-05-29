@@ -3,7 +3,7 @@ layout: default
 title: "rijksoverheid.nl"
 permalink: "/dutchgov/rijksoverheid.nl.html"
 subdomains_count: 96
-all_subdomains_count: 173
+all_subdomains_count: 174
 urls_count: 27
 ssl_rank: A+
 http_rank: A
@@ -29,7 +29,7 @@ tags: dutchgov
 |------------|-------|------|
 |[subdomains.txt](/DutchGovScope/data/rijksoverheid.nl/subdomains.txt)|96|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/rijksoverheid.nl/urls.txt)|27|Urls|
-|[all_subdomains.txt](/DutchGovScope/data/rijksoverheid.nl/all_subdomains.txt)|173|All found subdomains (history)|
+|[all_subdomains.txt](/DutchGovScope/data/rijksoverheid.nl/all_subdomains.txt)|174|All found subdomains (history)|
 
 
 ## Statistics

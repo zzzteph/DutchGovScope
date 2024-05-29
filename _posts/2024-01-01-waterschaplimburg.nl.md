@@ -2,12 +2,12 @@
 layout: default
 title: "waterschaplimburg.nl"
 permalink: "/dutchgov/waterschaplimburg.nl.html"
-subdomains_count: 1611
-all_subdomains_count: 1699
+subdomains_count: 1696
+all_subdomains_count: 1814
 urls_count: 1519
 ssl_rank: A
 http_rank: E
-security_txt: 1288
+security_txt: 1272
 url_link: /data/waterschaplimburg.nl/urls.txt
 all_subdomains_link: /data/waterschaplimburg.nl/all_subdomains.txt
 subdomains_link: /data/waterschaplimburg.nl/subdomains.txt
@@ -22,14 +22,14 @@ tags: dutchgov
 
  - **SSL Grade**:A
  - **HTTP Security Grade**:E
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:1288
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:1272
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/waterschaplimburg.nl/subdomains.txt)|1611|Alive subdomains|
+|[subdomains.txt](/DutchGovScope/data/waterschaplimburg.nl/subdomains.txt)|1696|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/waterschaplimburg.nl/urls.txt)|1519|Urls|
-|[all_subdomains.txt](/DutchGovScope/data/waterschaplimburg.nl/all_subdomains.txt)|1699|All found subdomains (history)|
+|[all_subdomains.txt](/DutchGovScope/data/waterschaplimburg.nl/all_subdomains.txt)|1814|All found subdomains (history)|
 
 
 ## Statistics
@@ -317,7 +317,7 @@ tags: dutchgov
 |[http://valeo.waterschaplimburg.nl](http://valeo.waterschaplimburg.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
 |[http://rejoice.waterschaplimburg.nl](http://rejoice.waterschaplimburg.nl)| | **E**|Microsoft-HTTPAPI/2.0| | | | | | :white_check_mark: | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
 |[http://fitnessbank.waterschaplimburg.nl](http://fitnessbank.waterschaplimburg.nl)| | **E**|Microsoft-HTTPAPI/2.0| | | | | | :white_check_mark: | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
-|[http://etech.waterschaplimburg.nl](http://etech.waterschaplimburg.nl)| | **E**|Microsoft-HTTPAPI/2.0| | | | | | :white_check_mark: | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
+|[http://etech.waterschaplimburg.nl](http://etech.waterschaplimburg.nl)| | **D**|| | | | | | :white_check_mark: | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
 |[http://invoices.waterschaplimburg.nl](http://invoices.waterschaplimburg.nl)| | **D**|| | | | | | :white_check_mark: | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
 |[http://leidscherijn.waterschaplimburg.nl](http://leidscherijn.waterschaplimburg.nl)| | **D**|| | | | | | :white_check_mark: | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
 |[http://provincie-utrecht.waterschaplimburg.nl](http://provincie-utrecht.waterschaplimburg.nl)| | **D**|| | | | | | :white_check_mark: | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
@@ -616,9 +616,9 @@ tags: dutchgov
 |[http://redirector.waterschaplimburg.nl](http://redirector.waterschaplimburg.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
 |[http://mail.pics.waterschaplimburg.nl](http://mail.pics.waterschaplimburg.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
 |[http://francine.waterschaplimburg.nl](http://francine.waterschaplimburg.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
-|[http://geileoma.waterschaplimburg.nl](http://geileoma.waterschaplimburg.nl)| | **E**|Microsoft-HTTPAPI/2.0| | | | | | :white_check_mark: | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
+|[http://geileoma.waterschaplimburg.nl](http://geileoma.waterschaplimburg.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
 |[http://716.waterschaplimburg.nl](http://716.waterschaplimburg.nl)| | **E**|Microsoft-HTTPAPI/2.0| | | | | | :white_check_mark: | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
-|[http://medische-apparatuur.waterschaplimburg.nl](http://medische-apparatuur.waterschaplimburg.nl)| | **D**|| | | | | | :white_check_mark: | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
+|[http://medische-apparatuur.waterschaplimburg.nl](http://medische-apparatuur.waterschaplimburg.nl)| | **E**|Microsoft-HTTPAPI/2.0| | | | | | :white_check_mark: | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
 |[http://hotels-venetie.waterschaplimburg.nl](http://hotels-venetie.waterschaplimburg.nl)| | **D**|| | | | | | :white_check_mark: | | :white_check_mark: | ||Attack Detected|
 |[http://schrijf.waterschaplimburg.nl](http://schrijf.waterschaplimburg.nl)| | **D**|| | | | | | :white_check_mark: | | :white_check_mark: | ||Attack Detected|
 |[http://264.waterschaplimburg.nl](http://264.waterschaplimburg.nl)| | **D**|| | | | | | :white_check_mark: | | :white_check_mark: | ||Attack Detected|
@@ -1263,24 +1263,24 @@ tags: dutchgov
 |[http://stucomm-api-acc.waterschaplimburg.nl](http://stucomm-api-acc.waterschaplimburg.nl)| | **D**|| | | | | | :white_check_mark: | | :white_check_mark: | ||Attack Detected|
 |[http://myproject.waterschaplimburg.nl](http://myproject.waterschaplimburg.nl)| | **D**|| | | | | | :white_check_mark: | | :white_check_mark: | ||Attack Detected|
 |[http://animalhealth.waterschaplimburg.nl](http://animalhealth.waterschaplimburg.nl)| | **D**|| | | | | | :white_check_mark: | | :white_check_mark: | ||Attack Detected|
-|[http://bontebok.waterschaplimburg.nl](http://bontebok.waterschaplimburg.nl)| | **D**|| | | | | | :white_check_mark: | | :white_check_mark: | ||Attack Detected|
-|[http://wbl.waterschaplimburg.nl](http://wbl.waterschaplimburg.nl)| | **D**|| | | | | | :white_check_mark: | | :white_check_mark: | ||Attack Detected|
-|[http://wowe.waterschaplimburg.nl](http://wowe.waterschaplimburg.nl)| | **D**|| | | | | | :white_check_mark: | | :white_check_mark: | ||Attack Detected|
-|[http://aandb.waterschaplimburg.nl](http://aandb.waterschaplimburg.nl)| | **D**|| | | | | | :white_check_mark: | | :white_check_mark: | ||Attack Detected|
-|[http://rtk.waterschaplimburg.nl](http://rtk.waterschaplimburg.nl)| | **D**|| | | | | | :white_check_mark: | | :white_check_mark: | ||Attack Detected|
-|[http://slipknot.waterschaplimburg.nl](http://slipknot.waterschaplimburg.nl)| | **D**|| | | | | | :white_check_mark: | | :white_check_mark: | ||Attack Detected|
-|[http://tinallinge.waterschaplimburg.nl](http://tinallinge.waterschaplimburg.nl)| | **D**|| | | | | | :white_check_mark: | | :white_check_mark: | ||Attack Detected|
-|[http://identity.waterschaplimburg.nl](http://identity.waterschaplimburg.nl)| | **D**|| | | | | | :white_check_mark: | | :white_check_mark: | ||Attack Detected|
-|[http://autodiscover.business.waterschaplimburg.nl](http://autodiscover.business.waterschaplimburg.nl)| | **D**|| | | | | | :white_check_mark: | | :white_check_mark: | ||Attack Detected|
-|[http://baobao.waterschaplimburg.nl](http://baobao.waterschaplimburg.nl)| | **D**|| | | | | | :white_check_mark: | | :white_check_mark: | ||Attack Detected|
-|[http://bruxelles.waterschaplimburg.nl](http://bruxelles.waterschaplimburg.nl)| | **D**|| | | | | | :white_check_mark: | | :white_check_mark: | ||Attack Detected|
-|[http://stans.waterschaplimburg.nl](http://stans.waterschaplimburg.nl)| | **D**|| | | | | | :white_check_mark: | | :white_check_mark: | ||Attack Detected|
-|[http://scx.waterschaplimburg.nl](http://scx.waterschaplimburg.nl)| | **D**|| | | | | | :white_check_mark: | | :white_check_mark: | ||Attack Detected|
-|[http://acteurs-actrices.waterschaplimburg.nl](http://acteurs-actrices.waterschaplimburg.nl)| | **D**|| | | | | | :white_check_mark: | | :white_check_mark: | ||Attack Detected|
-|[http://erotiek-links.waterschaplimburg.nl](http://erotiek-links.waterschaplimburg.nl)| | **D**|| | | | | | :white_check_mark: | | :white_check_mark: | ||Attack Detected|
-|[http://borskoe.waterschaplimburg.nl](http://borskoe.waterschaplimburg.nl)| | **D**|| | | | | | :white_check_mark: | | :white_check_mark: | ||Attack Detected|
-|[http://dgtl.waterschaplimburg.nl](http://dgtl.waterschaplimburg.nl)| | **D**|| | | | | | :white_check_mark: | | :white_check_mark: | ||Attack Detected|
-|[http://plaid.waterschaplimburg.nl](http://plaid.waterschaplimburg.nl)| | **D**|| | | | | | :white_check_mark: | | :white_check_mark: | ||Attack Detected|
+|[http://bontebok.waterschaplimburg.nl](http://bontebok.waterschaplimburg.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
+|[http://wbl.waterschaplimburg.nl](http://wbl.waterschaplimburg.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
+|[http://wowe.waterschaplimburg.nl](http://wowe.waterschaplimburg.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
+|[http://aandb.waterschaplimburg.nl](http://aandb.waterschaplimburg.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
+|[http://rtk.waterschaplimburg.nl](http://rtk.waterschaplimburg.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
+|[http://slipknot.waterschaplimburg.nl](http://slipknot.waterschaplimburg.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
+|[http://tinallinge.waterschaplimburg.nl](http://tinallinge.waterschaplimburg.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
+|[http://identity.waterschaplimburg.nl](http://identity.waterschaplimburg.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
+|[http://autodiscover.business.waterschaplimburg.nl](http://autodiscover.business.waterschaplimburg.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
+|[http://baobao.waterschaplimburg.nl](http://baobao.waterschaplimburg.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
+|[http://bruxelles.waterschaplimburg.nl](http://bruxelles.waterschaplimburg.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
+|[http://stans.waterschaplimburg.nl](http://stans.waterschaplimburg.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
+|[http://scx.waterschaplimburg.nl](http://scx.waterschaplimburg.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
+|[http://acteurs-actrices.waterschaplimburg.nl](http://acteurs-actrices.waterschaplimburg.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
+|[http://erotiek-links.waterschaplimburg.nl](http://erotiek-links.waterschaplimburg.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
+|[http://borskoe.waterschaplimburg.nl](http://borskoe.waterschaplimburg.nl)| | **E**|Microsoft-HTTPAPI/2.0| | | | | | :white_check_mark: | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
+|[http://dgtl.waterschaplimburg.nl](http://dgtl.waterschaplimburg.nl)| | **E**|Microsoft-HTTPAPI/2.0| | | | | | :white_check_mark: | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
+|[http://plaid.waterschaplimburg.nl](http://plaid.waterschaplimburg.nl)| | **E**|Microsoft-HTTPAPI/2.0| | | | | | :white_check_mark: | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
 |[http://csaccess.waterschaplimburg.nl](http://csaccess.waterschaplimburg.nl)| | **D**|| | | | | | :white_check_mark: | | :white_check_mark: | ||Attack Detected|
 |[http://interieurwinkel.waterschaplimburg.nl](http://interieurwinkel.waterschaplimburg.nl)| | **D**|| | | | | | :white_check_mark: | | :white_check_mark: | ||Attack Detected|
 |[http://dashboard.test.waterschaplimburg.nl](http://dashboard.test.waterschaplimburg.nl)| | **D**|| | | | | | :white_check_mark: | | :white_check_mark: | ||Attack Detected|

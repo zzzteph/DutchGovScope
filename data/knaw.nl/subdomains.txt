@@ -1370,3 +1370,5 @@ cmdi.sd.di.huc.knaw.nl
 cl.nioo.knaw.nl
 cto.nioo.knaw.nl
 wp-09.dev.huc.knaw.nl
+clarin-skosmos.sd.di.huc.knaw.nl
+wp-07.dev.huc.knaw.nl

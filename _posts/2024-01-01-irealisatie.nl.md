@@ -2,12 +2,12 @@
 layout: default
 title: "irealisatie.nl"
 permalink: "/dutchgov/irealisatie.nl.html"
-subdomains_count: 53
+subdomains_count: 54
 all_subdomains_count: 54
-urls_count: 40
+urls_count: 49
 ssl_rank: 
 http_rank: B
-security_txt: 30
+security_txt: 36
 url_link: /data/irealisatie.nl/urls.txt
 all_subdomains_link: /data/irealisatie.nl/all_subdomains.txt
 subdomains_link: /data/irealisatie.nl/subdomains.txt
@@ -22,13 +22,13 @@ tags: dutchgov
 
  - **SSL Grade**:
  - **HTTP Security Grade**:B
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:30
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:36
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/irealisatie.nl/subdomains.txt)|53|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/irealisatie.nl/urls.txt)|40|Urls|
+|[subdomains.txt](/DutchGovScope/data/irealisatie.nl/subdomains.txt)|54|Alive subdomains|
+|[urls.txt](/DutchGovScope/data/irealisatie.nl/urls.txt)|49|Urls|
 |[all_subdomains.txt](/DutchGovScope/data/irealisatie.nl/all_subdomains.txt)|54|All found subdomains (history)|
 
 
@@ -77,4 +77,13 @@ tags: dutchgov
 |[https://stats.test.mgo.irealisatie.nl](https://stats.test.mgo.irealisatie.nl)| | **B**|Apache| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server Basic HSTS|401 Unauthorized|
 |[https://uren.acc.irealisatie.nl](https://uren.acc.irealisatie.nl)| | **A**|Apache| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server Basic HSTS|401 Unauthorized|
 |[https://uren.irealisatie.nl](https://uren.irealisatie.nl)| | **A**|Apache| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server Basic HSTS|401 Unauthorized|
+|[https://pseudonym.test.zm.irealisatie.nl](https://pseudonym.test.zm.irealisatie.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |Basic HSTS|401 Unauthorized|
+|[https://localisation.test.zm.irealisatie.nl](https://localisation.test.zm.irealisatie.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |Basic HSTS|401 Unauthorized|
+|[https://timeline.test.zm.irealisatie.nl](https://timeline.test.zm.irealisatie.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |Basic HSTS|401 Unauthorized|
+|[https://qualification.test.zm.irealisatie.nl](https://qualification.test.zm.irealisatie.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |Basic HSTS|401 Unauthorized|
+|[https://metadata.test.zm.irealisatie.nl](https://metadata.test.zm.irealisatie.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |Basic HSTS|401 Unauthorized|
+|[https://addressing.test.zm.irealisatie.nl](https://addressing.test.zm.irealisatie.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |Basic HSTS|401 Unauthorized|
+|[http://www.test.zm.irealisatie.nl](http://www.test.zm.irealisatie.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
+|[http://acc.dusi.irealisatie.nl](http://acc.dusi.irealisatie.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
+|[http://test.dusi.irealisatie.nl](http://test.dusi.irealisatie.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 

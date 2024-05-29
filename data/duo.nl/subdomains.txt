@@ -53,7 +53,6 @@ api.duo.nl
 duo-zandbak-t1-public.zandbak.duo.nl
 ns1.duo.nl
 mobile.duo.nl
-webscheduler.duo.nl
 vt-webservice.duo.nl
 otagrnxm003.duo.nl
 siam.duo.nl

@@ -87,15 +87,14 @@ zsd.provincie-utrecht.nl
 ib.provincie-utrecht.nl
 sap-crma.provincie-utrecht.nl
 sap-crmo.provincie-utrecht.nl
-scan.provincie-utrecht.nl
 smtp01.provincie-utrecht.nl
 smtp02.provincie-utrecht.nl
 tercera.provincie-utrecht.nl
-vpn-hth.provincie-utrecht.nl
 vribc-hth.provincie-utrecht.nl
 webkaarttest.provincie-utrecht.nl
 wifi.provincie-utrecht.nl
 vmc-hth.provincie-utrecht.nl
+vsu.provincie-utrecht.nl
 wortel175.tstweb.provincie-utrecht.nl
 wortel175.wwwcms.provincie-utrecht.nl
 wortel176.tst.provincie-utrecht.nl

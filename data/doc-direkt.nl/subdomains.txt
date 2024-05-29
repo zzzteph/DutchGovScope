@@ -5,5 +5,3 @@ api.dh.doc-direkt.nl
 dh.doc-direkt.nl
 www.doc-direkt.nl
 doc-direkt.nl
-a-feeds.doc-direkt.nl
-a-opendata.doc-direkt.nl

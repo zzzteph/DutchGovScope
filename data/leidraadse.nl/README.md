@@ -12,7 +12,7 @@
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/leidraadse.nl/subdomains.txt)|6|Alive subdomains|
-|[urls.txt](/data/leidraadse.nl/urls.txt)|5|Urls|
+|[urls.txt](/data/leidraadse.nl/urls.txt)|6|Urls|
 |[all_subdomains.txt](/data/leidraadse.nl/all_subdomains.txt)|6|All found subdomains (history)|
 
 
@@ -26,4 +26,5 @@
 |[https://www.leidraadse.nl](https://www.leidraadse.nl)| **A**| **F**|Apache|:o: | | | | | | | :white_check_mark: | |Apache HTTP Server PHP|Welkom | Leidraa...|
 |[https://leidraadse.nl](https://leidraadse.nl)| **A**| **F**|Apache|:o: | | | | | | | :white_check_mark: | |Apache HTTP Server PHP|Welkom | Leidraa...|
 |[http://localhost.leidraadse.nl](http://localhost.leidraadse.nl)| | **F**|nginx| | | :warning:| | | | | :white_check_mark: | |Nginx|(404 Not Found)|
+|[https://7www.leidraadse.nl](https://7www.leidraadse.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|Default Parallel...|
 

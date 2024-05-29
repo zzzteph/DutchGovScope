@@ -228,3 +228,8 @@ https://rvb-dtc-webservice.staging.rijksapplicaties.nl
 https://app1.staging.rijksapplicaties.nl
 https://monitor.staging.rijksapplicaties.nl
 https://fbp.rijksapplicaties.nl
+https://rvb-dtc-webservice.rijksapplicaties.nl
+https://rvb-arr.rijksapplicaties.nl
+https://mijn-ncg.rijksapplicaties.nl
+https://rvb-ifr.rijksapplicaties.nl
+https://npcemaatregelenmonitor.rijksapplicaties.nl

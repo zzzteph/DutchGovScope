@@ -91,3 +91,10 @@ bewerk.test.rechtwijzer.nl
 online.test.rechtwijzer.nl
 be.test.rechtwijzer.nl
 my.test.rechtwijzer.nl
+gitlab.test.rechtwijzer.nl
+sso.test.rechtwijzer.nl
+payments.test.rechtwijzer.nl
+api.test.rechtwijzer.nl
+vergaderingen.test.rechtwijzer.nl
+cms.test.rechtwijzer.nl
+data.test.rechtwijzer.nl

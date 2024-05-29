@@ -12,7 +12,7 @@
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/odc-noord.nl/subdomains.txt)|145|Alive subdomains|
-|[urls.txt](/data/odc-noord.nl/urls.txt)|83|Urls|
+|[urls.txt](/data/odc-noord.nl/urls.txt)|82|Urls|
 |[all_subdomains.txt](/data/odc-noord.nl/all_subdomains.txt)|260|All found subdomains (history)|
 
 
@@ -102,6 +102,5 @@
 |[https://vpn.gn3.koop-a.odc-noord.nl](https://vpn.gn3.koop-a.odc-noord.nl)| | **F**|OpenVPN-AS| | | | | | | | :white_check_mark: | |||
 |[https://iaas-portal-gn3.odc-noord.nl](https://iaas-portal-gn3.odc-noord.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |AngularJS HSTS||
 |[https://paas-portal-gn3.odc-noord.nl](https://paas-portal-gn3.odc-noord.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |AngularJS HSTS||
-|[https://vpn.gn2.acc.odc-noord.nl](https://vpn.gn2.acc.odc-noord.nl)| | **F**|OpenVPN-AS| | | | | | | | :white_check_mark: | |||
 |[https://login-gn3.odc-noord.nl](https://login-gn3.odc-noord.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 

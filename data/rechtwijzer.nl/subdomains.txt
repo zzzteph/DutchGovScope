@@ -87,3 +87,6 @@ chat.test.rechtwijzer.nl
 shop.test.rechtwijzer.nl
 smtp.test.rechtwijzer.nl
 bewerk.test.rechtwijzer.nl
+online.test.rechtwijzer.nl
+be.test.rechtwijzer.nl
+my.test.rechtwijzer.nl
