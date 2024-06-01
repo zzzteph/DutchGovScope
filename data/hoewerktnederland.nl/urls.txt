@@ -1,4 +1,2 @@
-https://feeds.hoewerktnederland.nl
-https://opendata.hoewerktnederland.nl
 https://www.hoewerktnederland.nl
 https://hoewerktnederland.nl

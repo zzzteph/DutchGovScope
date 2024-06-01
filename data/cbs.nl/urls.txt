@@ -1,8 +1,8 @@
-http://academy.cbs.nl
-http://acc.cerberus.cbs.nl
+https://academy.cbs.nl
+https://acc.cerberus.cbs.nl
 https://accdevtestlogin.cbs.nl
 https://accounts.cbs.nl
-http://acctestenquete1.cbs.nl
+https://acctestenquete1.cbs.nl
 https://acctestenquete2.cbs.nl
 https://acctestenquete3.cbs.nl
 http://acctestlogin.cbs.nl
@@ -167,6 +167,7 @@ https://login.cbs.nl
 https://sbi.acceptatie.cbs.nl
 https://mijn.cbs.nl
 https://mijn-api.cbs.nl
+https://uitwisseling.cbs.nl
 https://beh-iam.acceptatie.cbs.nl
 https://amunet.cbs.nl
 https://dataset.acceptatie.cbs.nl

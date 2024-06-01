@@ -22,7 +22,7 @@
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[https://acc-dictu.eherkenning.nl](https://acc-dictu.eherkenning.nl)| **A**| **F**|nginx| | | | | | | | :white_check_mark: | |Basic Nginx|401 Authorizatio...|
-|[https://digidentity-accept.sso.eherkenning.nl](https://digidentity-accept.sso.eherkenning.nl)| **A+**| **E**|| | | | | | | | :white_check_mark: | |HSTS||
+|[https://digidentity-accept.sso.eherkenning.nl](https://digidentity-accept.sso.eherkenning.nl)| **A+**| **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|503 Service Temp...|
 |[https://digidentity-preproduction.sso.eherkenning.nl](https://digidentity-preproduction.sso.eherkenning.nl)| **A+**| **E**|| | | | | | | | :white_check_mark: | |HSTS||
 |[https://digidentity-staging.sso.eherkenning.nl](https://digidentity-staging.sso.eherkenning.nl)| **A+**| **E**|| | | | | | | | :white_check_mark: | |HSTS||
 |[https://digidentity.sso.eherkenning.nl](https://digidentity.sso.eherkenning.nl)| **A+**| **E**|| | | | | | | | :white_check_mark: | |HSTS||

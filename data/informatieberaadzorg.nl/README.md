@@ -24,6 +24,6 @@
 |[https://feeds.informatieberaadzorg.nl](https://feeds.informatieberaadzorg.nl)| **A+**| **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://opendata.informatieberaadzorg.nl](https://opendata.informatieberaadzorg.nl)| **A+**| **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://platform.informatieberaadzorg.nl](https://platform.informatieberaadzorg.nl)| **A+**| **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Object moved|
-|[https://www.informatieberaadzorg.nl](https://www.informatieberaadzorg.nl)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Home | Informati...|
+|[https://www.informatieberaadzorg.nl](https://www.informatieberaadzorg.nl)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://informatieberaadzorg.nl](https://informatieberaadzorg.nl)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
 

@@ -2,7 +2,7 @@
 layout: default
 title: "werkenbijderaadvanstate.nl"
 permalink: "/dutchgov/werkenbijderaadvanstate.nl.html"
-subdomains_count: 0
+subdomains_count: 2
 all_subdomains_count: 2
 urls_count: 0
 ssl_rank: 
@@ -27,7 +27,7 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/werkenbijderaadvanstate.nl/subdomains.txt)|0|Alive subdomains|
+|[subdomains.txt](/DutchGovScope/data/werkenbijderaadvanstate.nl/subdomains.txt)|2|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/werkenbijderaadvanstate.nl/urls.txt)|0|Urls|
 |[all_subdomains.txt](/DutchGovScope/data/werkenbijderaadvanstate.nl/all_subdomains.txt)|2|All found subdomains (history)|
 

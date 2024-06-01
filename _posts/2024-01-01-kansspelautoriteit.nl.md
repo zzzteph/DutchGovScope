@@ -2,9 +2,9 @@
 layout: default
 title: "kansspelautoriteit.nl"
 permalink: "/dutchgov/kansspelautoriteit.nl.html"
-subdomains_count: 27
-all_subdomains_count: 102
-urls_count: 17
+subdomains_count: 28
+all_subdomains_count: 121
+urls_count: 18
 ssl_rank: A-
 http_rank: C
 security_txt: 2
@@ -27,9 +27,9 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/kansspelautoriteit.nl/subdomains.txt)|27|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/kansspelautoriteit.nl/urls.txt)|17|Urls|
-|[all_subdomains.txt](/DutchGovScope/data/kansspelautoriteit.nl/all_subdomains.txt)|102|All found subdomains (history)|
+|[subdomains.txt](/DutchGovScope/data/kansspelautoriteit.nl/subdomains.txt)|28|Alive subdomains|
+|[urls.txt](/DutchGovScope/data/kansspelautoriteit.nl/urls.txt)|18|Urls|
+|[all_subdomains.txt](/DutchGovScope/data/kansspelautoriteit.nl/all_subdomains.txt)|121|All found subdomains (history)|
 
 
 ## Statistics
@@ -48,6 +48,7 @@ tags: dutchgov
 |[https://www.kansspelautoriteit.nl](https://www.kansspelautoriteit.nl)| **A+**| **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:-|Object moved|
 |[https://kansspelautoriteit.nl](https://kansspelautoriteit.nl)| **A+**| **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:-|Home - Kansspela...|
 |[https://desktop.kansspelautoriteit.nl](https://desktop.kansspelautoriteit.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Document Moved|
+|[https://ems.kansspelautoriteit.nl](https://ems.kansspelautoriteit.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||
 |[https://enterpriseenrollment.kansspelautoriteit.nl](https://enterpriseenrollment.kansspelautoriteit.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||
 |[https://enterpriseregistration.kansspelautoriteit.nl](https://enterpriseregistration.kansspelautoriteit.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://mfa.kansspelautoriteit.nl](https://mfa.kansspelautoriteit.nl)| | **C**||:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | ||Document Moved|

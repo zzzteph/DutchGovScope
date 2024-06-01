@@ -13,7 +13,7 @@
 |------------|-------|------|
 |[subdomains.txt](/data/meldpuntwater.nl/subdomains.txt)|2|Alive subdomains|
 |[urls.txt](/data/meldpuntwater.nl/urls.txt)|2|Urls|
-|[all_subdomains.txt](/data/meldpuntwater.nl/all_subdomains.txt)|5|All found subdomains (history)|
+|[all_subdomains.txt](/data/meldpuntwater.nl/all_subdomains.txt)|6|All found subdomains (history)|
 
 
 ## Statistics

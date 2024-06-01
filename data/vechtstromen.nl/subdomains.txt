@@ -42,7 +42,6 @@ enterpriseregistration.vechtstromen.nl
 ftp.vechtstromen.nl
 geoweb.vechtstromen.nl
 localhost.vechtstromen.nl
-prime.vechtstromen.nl
 sharefile.vechtstromen.nl
 topdesk-test.vechtstromen.nl
 pop.vechtstromen.nl

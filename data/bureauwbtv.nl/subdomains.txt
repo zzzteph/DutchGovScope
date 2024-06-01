@@ -2,4 +2,3 @@ zoekeentolkvertaler.bureauwbtv.nl
 bureauwbtv.nl
 www.bureauwbtv.nl
 uptime.bureauwbtv.nl
-localhost.bureauwbtv.nl

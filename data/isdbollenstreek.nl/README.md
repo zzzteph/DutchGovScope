@@ -23,7 +23,7 @@
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[https://e-loket.isdbollenstreek.nl](https://e-loket.isdbollenstreek.nl)| **A+**| **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS|Untitled Documen...|
 |[https://e-loket-test.isdbollenstreek.nl](https://e-loket-test.isdbollenstreek.nl)| **A+**| **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS|Untitled Documen...|
-|[https://mijnloket-test.isdbollenstreek.nl](https://mijnloket-test.isdbollenstreek.nl)| **B**| **F**|Microsoft-IIS/10.0| | | | | | | | :white_check_mark: | |HSTS IIS:10.0 Windows Server||
+|[http://mijnloket-test.isdbollenstreek.nl](http://mijnloket-test.isdbollenstreek.nl)| **B**| **E**|| | | | | | | | :white_check_mark: | |HSTS IIS:10.0 Windows Server|Internal Server...|
 |[https://www.isdbollenstreek.nl](https://www.isdbollenstreek.nl)| **A+**| **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache Tomcat Green Valley CMS HSTS Java Linkedin Ads|Home - ISD Bolle...|
 |[https://isdbollenstreek.nl](https://isdbollenstreek.nl)| **A+**| **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache Tomcat Green Valley CMS HSTS Java Linkedin Ads|Home - ISD Bolle...|
 |[http://autodiscover.isdbollenstreek.nl](http://autodiscover.isdbollenstreek.nl)| | **A**|Microsoft-IIS/10.0| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server||

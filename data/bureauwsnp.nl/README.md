@@ -11,7 +11,7 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/bureauwsnp.nl/subdomains.txt)|7|Alive subdomains|
+|[subdomains.txt](/data/bureauwsnp.nl/subdomains.txt)|3|Alive subdomains|
 |[urls.txt](/data/bureauwsnp.nl/urls.txt)|2|Urls|
 |[all_subdomains.txt](/data/bureauwsnp.nl/all_subdomains.txt)|10|All found subdomains (history)|
 

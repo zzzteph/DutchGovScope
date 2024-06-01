@@ -2,4 +2,3 @@ https://zoekeentolkvertaler.bureauwbtv.nl
 https://bureauwbtv.nl
 https://www.bureauwbtv.nl
 http://uptime.bureauwbtv.nl
-http://localhost.bureauwbtv.nl

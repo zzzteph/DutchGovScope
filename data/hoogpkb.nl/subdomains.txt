@@ -7,3 +7,6 @@ ftp.hoogpkb.nl
 ssh.hoogpkb.nl
 barcelona.hoogpkb.nl
 moms.hoogpkb.nl
+longines.hoogpkb.nl
+kotka.hoogpkb.nl
+securepromo.hoogpkb.nl

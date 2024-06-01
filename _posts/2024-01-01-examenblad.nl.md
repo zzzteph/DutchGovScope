@@ -6,8 +6,8 @@ subdomains_count: 8
 all_subdomains_count: 16
 urls_count: 5
 ssl_rank: C
-http_rank: C
-security_txt: 3
+http_rank: B
+security_txt: 4
 url_link: /data/examenblad.nl/urls.txt
 all_subdomains_link: /data/examenblad.nl/all_subdomains.txt
 subdomains_link: /data/examenblad.nl/subdomains.txt
@@ -21,8 +21,8 @@ tags: dutchgov
 
 
  - **SSL Grade**:C
- - **HTTP Security Grade**:C
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:3
+ - **HTTP Security Grade**:B
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:4
 
 
 | File       | Count | Info |
@@ -37,7 +37,7 @@ tags: dutchgov
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://nieuwsbrief.examenblad.nl](https://nieuwsbrief.examenblad.nl)| **F**| **E**|| | | | | | | | :white_check_mark: | ||301 Moved Perman...|
+|[https://nieuwsbrief.examenblad.nl](https://nieuwsbrief.examenblad.nl)| **F**| **A**|| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | ||301 Moved Perman...|
 |[https://www.examenblad.nl](https://www.examenblad.nl)| **A+**| **A**|nginx| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |Drupal:10 HSTS Nginx PHP|Examenblad.nl|
 |[https://www.nieuwsbrief.examenblad.nl](https://www.nieuwsbrief.examenblad.nl)| **F**| **E**|| | | | | | | | :white_check_mark: | ||301 Moved Perman...|
 |[https://examenblad.nl](https://examenblad.nl)| **A**| **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS||

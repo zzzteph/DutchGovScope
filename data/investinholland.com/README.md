@@ -35,7 +35,7 @@
 |[https://uk.investinholland.com](https://uk.investinholland.com)| **B**| **C**|cloudflare| |:white_check_mark: | | | | | | :white_check_mark: | |Cloudflare HSTS Plesk|301 Moved Perman...|
 |[https://www.investinholland.com](https://www.investinholland.com)| **B**| **C**|cloudflare| |:white_check_mark: | | | | | | :white_check_mark: | |Cloudflare HSTS Plesk||
 |[http://www.bak-jp.investinholland.com](http://www.bak-jp.investinholland.com)| | **F**|cloudflare| | | | | | | | :white_check_mark: | |Cloudflare|301 Moved Perman...|
-|[http://www.japan.investinholland.com](http://www.japan.investinholland.com)| | **F**|cloudflare| | | | | | | | :white_check_mark: | |Cloudflare HTTP/2|301 Moved Perman...|
+|[http://www.japan.investinholland.com](http://www.japan.investinholland.com)| | **F**|cloudflare| | | | | | | | :white_check_mark: | |Cloudflare|301 Moved Perman...|
 |[https://investinholland.com](https://investinholland.com)| **B**| **C**|cloudflare| |:white_check_mark: | | | | | | :white_check_mark: | |Cloudflare Google Tag Manager HSTS MySQL PHP Plesk WPML:4.6.10 WordPress:6.5.3|NFIA, part of In...|
 |[http://autodiscover.investinholland.com](http://autodiscover.investinholland.com)| | **B**|Microsoft-IIS/10.0|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server||
 |[http://localhost.investinholland.com](http://localhost.investinholland.com)| | **F**|nginx| | | :warning:| | | | | :white_check_mark: | |Nginx|(404 Not Found)|

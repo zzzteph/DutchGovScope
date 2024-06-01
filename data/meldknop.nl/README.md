@@ -13,7 +13,7 @@
 |------------|-------|------|
 |[subdomains.txt](/data/meldknop.nl/subdomains.txt)|109|Alive subdomains|
 |[urls.txt](/data/meldknop.nl/urls.txt)|109|Urls|
-|[all_subdomains.txt](/data/meldknop.nl/all_subdomains.txt)|109|All found subdomains (history)|
+|[all_subdomains.txt](/data/meldknop.nl/all_subdomains.txt)|112|All found subdomains (history)|
 
 
 ## Statistics

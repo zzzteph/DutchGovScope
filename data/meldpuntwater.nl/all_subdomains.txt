@@ -3,3 +3,4 @@ meldpuntwater.nl
 fotoalbum.meldpuntwater.nl
 ftp.meldpuntwater.nl
 mail.meldpuntwater.nl
+waterbeheer.meldpuntwater.nl

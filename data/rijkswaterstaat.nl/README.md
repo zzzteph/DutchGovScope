@@ -13,7 +13,7 @@
 |------------|-------|------|
 |[subdomains.txt](/data/rijkswaterstaat.nl/subdomains.txt)|126|Alive subdomains|
 |[urls.txt](/data/rijkswaterstaat.nl/urls.txt)|88|Urls|
-|[all_subdomains.txt](/data/rijkswaterstaat.nl/all_subdomains.txt)|668|All found subdomains (history)|
+|[all_subdomains.txt](/data/rijkswaterstaat.nl/all_subdomains.txt)|671|All found subdomains (history)|
 
 
 ## Statistics

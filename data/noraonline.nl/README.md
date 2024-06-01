@@ -11,7 +11,7 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/noraonline.nl/subdomains.txt)|6|Alive subdomains|
+|[subdomains.txt](/data/noraonline.nl/subdomains.txt)|4|Alive subdomains|
 |[urls.txt](/data/noraonline.nl/urls.txt)|4|Urls|
 |[all_subdomains.txt](/data/noraonline.nl/all_subdomains.txt)|6|All found subdomains (history)|
 

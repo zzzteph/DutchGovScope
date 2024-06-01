@@ -48,7 +48,7 @@
 |[https://geoservices.knmi.nl](https://geoservices.knmi.nl)| **A+**| **A**|uvicorn| |:white_check_mark: | | | :white_check_mark:| | | :white_check_mark: | |HSTS Python Uvicorn||
 |[https://gladheid.knmi.nl](https://gladheid.knmi.nl)| **B**| **F**|Apache|:o: | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Amazon ALB Amazon Web Services Apache HTTP Server Basic|401 Unauthorized|
 |[https://iris.knmi.nl](https://iris.knmi.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Amazon CloudFront Amazon Web Services|Login|
-|[https://jira.knmi.nl](https://jira.knmi.nl)| **B**| **A**|BigIP|:warning: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |F5 BigIP||
+|[https://jira.knmi.nl](https://jira.knmi.nl)| **B**| **A**|BigIP|:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |F5 BigIP||
 |[https://mijn.knmi.nl](https://mijn.knmi.nl)| **A+**| **A**|Apache|:o: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Amazon ALB Amazon Web Services Apache HTTP Server HSTS ZURB Foundation|KNMI Extranet|
 |[https://msgcpp.knmi.nl](https://msgcpp.knmi.nl)| **A**| **F**|AmazonS3| | | | | | | | :white_check_mark: | |Amazon CloudFront Amazon S3 Amazon Web Services Jekyll:4.1.0 Ruby|MSG Cloud Physic...|
 |[https://msgcpp-adaguc.knmi.nl](https://msgcpp-adaguc.knmi.nl)| **A+**| **A**|uvicorn| |:white_check_mark: | | | :white_check_mark:| | | :white_check_mark: | |HSTS Python Uvicorn||
@@ -56,7 +56,7 @@
 |[http://projects.knmi.nl](http://projects.knmi.nl)| | **A**|BigIP| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |F5 BigIP||
 |[https://rdsa.knmi.nl](https://rdsa.knmi.nl)| **C**| **F**|Apache|:white_check_mark: | | | | | | | :white_check_mark: | |Apache HTTP Server Bootstrap|KNMI Seismic & A...|
 |[https://rdsa-prdt.knmi.nl](https://rdsa-prdt.knmi.nl)| **F**| **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server Bootstrap|KNMI Seismic & A...|
-|[http://rdsa-test.knmi.nl](http://rdsa-test.knmi.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|403 Forbidden|
+|[http://rdsa-test.knmi.nl](http://rdsa-test.knmi.nl)| | **F**|Apache|:white_check_mark: | | | | | | | :white_check_mark: | |Apache HTTP Server|Test Page for th...|
 |[https://scatterometer.knmi.nl](https://scatterometer.knmi.nl)| **A**| **F**|Apache/2.4.57 (Debian)|:o: | | | | | | | :white_check_mark: | |Amazon ALB Amazon Web Services Apache HTTP Server:2.4.57 Debian||
 |[https://testconn.knmi.nl](https://testconn.knmi.nl)| **B**| **C**||:warning: |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |F5 BigIP HSTS||
 |[https://testgeoservices.knmi.nl](https://testgeoservices.knmi.nl)| **F**| **F**|uvicorn| | | | | | | | :white_check_mark: | |HSTS Python Uvicorn||

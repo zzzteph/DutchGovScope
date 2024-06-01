@@ -6,7 +6,7 @@
 
  - **SSL Grade**:A+
  - **HTTP Security Grade**:A
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:7
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:9
 
 
 | File       | Count | Info |
@@ -29,8 +29,8 @@
 |[https://opendata.emissieautoriteit.nl](https://opendata.emissieautoriteit.nl)| **A+**| **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://preprodcher.emissieautoriteit.nl](https://preprodcher.emissieautoriteit.nl)| **A+**| **A**|nginx| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|403 Forbidden|
 |[https://preprodehp.emissieautoriteit.nl](https://preprodehp.emissieautoriteit.nl)| **A+**| **A**|nginx| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|403 Forbidden|
-|[https://preprodrev.emissieautoriteit.nl](https://preprodrev.emissieautoriteit.nl)| **B**| **F**|nginx| | | | | | | | :white_check_mark: | |HSTS Nginx|Mendix|
-|[https://rev.emissieautoriteit.nl](https://rev.emissieautoriteit.nl)| **B**| **F**|nginx| | | | | | | | :white_check_mark: | |HSTS Nginx|Mendix|
+|[https://preprodrev.emissieautoriteit.nl](https://preprodrev.emissieautoriteit.nl)| **B**| **A**|nginx| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|Mendix|
+|[https://rev.emissieautoriteit.nl](https://rev.emissieautoriteit.nl)| **B**| **A**|nginx| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|Mendix|
 |[https://www.emissieautoriteit.nl](https://www.emissieautoriteit.nl)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Home | Nederland...|
 |[https://emissieautoriteit.nl](https://emissieautoriteit.nl)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
 |[https://jpp.emissieautoriteit.nl](https://jpp.emissieautoriteit.nl)| | **F**|Apache/2.4.52 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.52 Ubuntu|ownCloud|

@@ -50,7 +50,7 @@
 |[https://api.management.dnb.nl](https://api.management.dnb.nl)| **A+**| **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
 |[https://api-staging.dnb.nl](https://api-staging.dnb.nl)| **A+**| **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
 |[https://api.portal.dnb.nl](https://api.portal.dnb.nl)| **A+**| **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|Home - DNB API S...|
-|[https://api-staging.scm.dnb.nl](https://api-staging.scm.dnb.nl)| **A+**| **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET:4.0.30319|Apim Kudu server|
+|[https://api-staging.scm.dnb.nl](https://api-staging.scm.dnb.nl)| **A+**| **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Apim Kudu server|
 |[https://paymenthub.dnb.nl](https://paymenthub.dnb.nl)| **A+**| **B**|Microsoft-IIS/10.0| |:white_check_mark: | | |:warning: | | | :white_check_mark: | |HSTS IIS:10.0 Microsoft ASP.NET Windows Server|CbCustomer|
 |[https://api.dnb.nl](https://api.dnb.nl)| **A+**| **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
 |[https://api.developer.dnb.nl](https://api.developer.dnb.nl)| **A+**| **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
@@ -64,7 +64,7 @@
 |[https://mijnresolutie-acc.azure.dnb.nl](https://mijnresolutie-acc.azure.dnb.nl)| **A**| **E**|| | | | | | | | :white_check_mark: | |Bootstrap:5.2.3|Azure Static Web...|
 |[https://docs.riks-ft.azure.dnb.nl](https://docs.riks-ft.azure.dnb.nl)| **A**| **E**|| | | | | | | | :white_check_mark: | |Bootstrap:5.2.3|Azure Static Web...|
 |[https://dkeservice-test.dnb.nl](https://dkeservice-test.dnb.nl)| **F**| **F**|Microsoft-Azure-Application-Gateway/v2| | | | | | | | :white_check_mark: | ||404 Not Found|
-|[https://mockapp-test.dnb.nl](https://mockapp-test.dnb.nl)| **A+**| **A**|| |:white_check_mark: | | |:warning: | | | :white_check_mark: | |Azure Azure Front Door HSTS|Mijn Dienst|
+|[https://mockapp-test.dnb.nl](https://mockapp-test.dnb.nl)| **A+**| **A**|| |:white_check_mark: | | |:warning: | | | :white_check_mark: | |Azure Azure Front Door Azure Monitor HSTS|Mijn Dienst|
 |[https://stepui-acc.azure.dnb.nl](https://stepui-acc.azure.dnb.nl)| **A**| **E**|| | | | | | | | :white_check_mark: | |Bootstrap:5.2.3|Azure Static Web...|
 |[https://mijn-dev.dnb.nl](https://mijn-dev.dnb.nl)| **A**| **E**|| | | | | | | | :white_check_mark: | |Azure Azure Front Door|Forbidden|
 |[https://login-test.dnb.nl](https://login-test.dnb.nl)| **A+**| **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Azure Azure Front Door HSTS||
@@ -99,18 +99,18 @@
 |[https://dataloop-test.dnb.nl](https://dataloop-test.dnb.nl)| **A+**| **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|Dataloop|
 |[https://api-staging.developer.dnb.nl](https://api-staging.developer.dnb.nl)| **A+**| **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Home - DNB API S...|
 |[https://mockapp-pp.dnb.nl](https://mockapp-pp.dnb.nl)| **A+**| **A**|| |:white_check_mark: | | |:warning: | | | :white_check_mark: | |Azure Azure Front Door HSTS|Mijn Dienst|
-|[https://mijn-test.dnb.nl](https://mijn-test.dnb.nl)| **A+**| **A**|| |:white_check_mark: | | |:warning: | | | :white_check_mark: | |Azure Azure Front Door HSTS|Mijn DNB|
+|[https://mijn-test.dnb.nl](https://mijn-test.dnb.nl)| **A+**| **A**|| |:white_check_mark: | | |:warning: | | | :white_check_mark: | |Azure Azure Front Door Azure Monitor HSTS|Mijn DNB|
 |[https://login-pp.dnb.nl](https://login-pp.dnb.nl)| **A+**| **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Azure Azure Front Door HSTS||
-|[https://api.dataloop.dnb.nl](https://api.dataloop.dnb.nl)| **A+**| **C**|| |:white_check_mark: | :warning:| | | | | :white_check_mark: | |HSTS|Dataloop Documen...|
+|[https://api.dataloop.dnb.nl](https://api.dataloop.dnb.nl)| **A+**| **C**|| |:white_check_mark: | :warning:| | | | | :white_check_mark: | |HSTS|Dataloop API Doc...|
 |[https://classic.dataloop.dnb.nl](https://classic.dataloop.dnb.nl)| **A+**| **F**|Microsoft-Azure-Application-Gateway/v2| | | | | | | | :white_check_mark: | |HSTS|Error - De Neder...|
 |[https://classic.dataloop-acc.dnb.nl](https://classic.dataloop-acc.dnb.nl)| **A+**| **F**|Microsoft-Azure-Application-Gateway/v2| | | | | | | | :white_check_mark: | |HSTS|Error - De Neder...|
-|[https://api.dataloop-test.dnb.nl](https://api.dataloop-test.dnb.nl)| **A+**| **C**|| |:white_check_mark: | :warning:| | | | | :white_check_mark: | |HSTS|Dataloop Documen...|
+|[https://api.dataloop-test.dnb.nl](https://api.dataloop-test.dnb.nl)| **A+**| **C**|| |:white_check_mark: | :warning:| | | | | :white_check_mark: | |HSTS|Dataloop API Doc...|
 |[https://classic.dataloop-test.dnb.nl](https://classic.dataloop-test.dnb.nl)| **A+**| **F**|Microsoft-Azure-Application-Gateway/v2| | | | | | | | :white_check_mark: | |HSTS|Error - De Neder...|
-|[https://tzkalender-tst.dnb.nl](https://tzkalender-tst.dnb.nl)| **A**| **A**|| |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | |Azure Azure Front Door HSTS|Supervision Cale...|
+|[https://tzkalender-tst.dnb.nl](https://tzkalender-tst.dnb.nl)| **A**| **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Azure Azure Front Door HSTS|Supervision Cale...|
 |[https://tzkalender-dev.dnb.nl](https://tzkalender-dev.dnb.nl)| **A**| **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Azure Azure Front Door HSTS|Supervision Cale...|
 |[https://screening.dnb.nl](https://screening.dnb.nl)| **A+**| **A**||:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |Azure Azure Front Door HSTS||
-|[https://tzkalender.dnb.nl](https://tzkalender.dnb.nl)| **F**| **A**|| |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | |Azure Azure Front Door HSTS|Supervision Cale...|
-|[https://tzkalender-acc.dnb.nl](https://tzkalender-acc.dnb.nl)| **A**| **A**|| |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | |Azure Azure Front Door HSTS|Supervision Cale...|
+|[https://tzkalender.dnb.nl](https://tzkalender.dnb.nl)| **F**| **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Azure Azure Front Door HSTS|Supervision Cale...|
+|[https://tzkalender-acc.dnb.nl](https://tzkalender-acc.dnb.nl)| **A**| **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Azure Azure Front Door HSTS|Supervision Cale...|
 |[https://mijnatm-tst.azure.dnb.nl](https://mijnatm-tst.azure.dnb.nl)| **A**| **E**|| | | | | | | | :white_check_mark: | |Bootstrap:5.2.3|Azure Static Web...|
 |[https://mijnatm-acc.azure.dnb.nl](https://mijnatm-acc.azure.dnb.nl)| **A**| **E**|| | | | | | | | :white_check_mark: | |Bootstrap:5.2.3|Azure Static Web...|
 |[https://tzorganisatiegegevens-tst.dnb.nl](https://tzorganisatiegegevens-tst.dnb.nl)| **A**| **E**|| | | | | | | | :white_check_mark: | |Bootstrap:5.2.3|Azure Static Web...|

@@ -6,7 +6,7 @@
 
  - **SSL Grade**:A-
  - **HTTP Security Grade**:A
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:7
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:6
 
 
 | File       | Count | Info |
@@ -26,6 +26,6 @@
 |[https://acc-m.dh.doc-direkt.nl](https://acc-m.dh.doc-direkt.nl)| **B**| **A**|| |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | |AngularJS HSTS||
 |[https://api.dh.doc-direkt.nl](https://api.dh.doc-direkt.nl)| **A+**| **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://dh.doc-direkt.nl](https://dh.doc-direkt.nl)| **A+**| **A**||:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |AngularJS HSTS|SigningHub|
-|[https://www.doc-direkt.nl](https://www.doc-direkt.nl)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Home | DocDirekt|
-|[https://doc-direkt.nl](https://doc-direkt.nl)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
+|[https://www.doc-direkt.nl](https://www.doc-direkt.nl)| **A+**| **A**|Microsoft-IIS/10.0| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS IIS:10.0 Windows Server|Document Moved|
+|[https://doc-direkt.nl](https://doc-direkt.nl)| **A+**| **A**|Microsoft-IIS/10.0| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS IIS:10.0 Windows Server|Document Moved|
 

@@ -2,7 +2,7 @@
 layout: default
 title: "trainingscatalogus.nl"
 permalink: "/dutchgov/trainingscatalogus.nl.html"
-subdomains_count: 190
+subdomains_count: 195
 all_subdomains_count: 206
 urls_count: 107
 ssl_rank: A+
@@ -27,7 +27,7 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/trainingscatalogus.nl/subdomains.txt)|190|Alive subdomains|
+|[subdomains.txt](/DutchGovScope/data/trainingscatalogus.nl/subdomains.txt)|195|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/trainingscatalogus.nl/urls.txt)|107|Urls|
 |[all_subdomains.txt](/DutchGovScope/data/trainingscatalogus.nl/all_subdomains.txt)|206|All found subdomains (history)|
 

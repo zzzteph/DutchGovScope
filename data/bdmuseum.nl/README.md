@@ -13,7 +13,7 @@
 |------------|-------|------|
 |[subdomains.txt](/data/bdmuseum.nl/subdomains.txt)|12|Alive subdomains|
 |[urls.txt](/data/bdmuseum.nl/urls.txt)|12|Urls|
-|[all_subdomains.txt](/data/bdmuseum.nl/all_subdomains.txt)|14|All found subdomains (history)|
+|[all_subdomains.txt](/data/bdmuseum.nl/all_subdomains.txt)|16|All found subdomains (history)|
 
 
 ## Statistics

@@ -12,8 +12,8 @@
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/overheid.nl/subdomains.txt)|44388|Alive subdomains|
-|[urls.txt](/data/overheid.nl/urls.txt)|308|Urls|
-|[all_subdomains.txt](/data/overheid.nl/all_subdomains.txt)|46746|All found subdomains (history)|
+|[urls.txt](/data/overheid.nl/urls.txt)|307|Urls|
+|[all_subdomains.txt](/data/overheid.nl/all_subdomains.txt)|48893|All found subdomains (history)|
 
 
 ## Statistics
@@ -321,7 +321,6 @@
 |[https://gegevensbijbesluiten.overheid.nl](https://gegevensbijbesluiten.overheid.nl)| **A+**| **B**||:warning: |:white_check_mark: | :warning:| | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS Node.js Nuxt.js Vue.js|Wie gebruikt mij...|
 |[https://digid-stub.lpc.mijn.overheid.nl](https://digid-stub.lpc.mijn.overheid.nl)| **A+**| **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|403 Forbidden|
 |[https://eidas-stub.lpc.mijn.overheid.nl](https://eidas-stub.lpc.mijn.overheid.nl)| **A+**| **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|403 Forbidden|
-|[http://stubs.lpc.mijn.overheid.nl](http://stubs.lpc.mijn.overheid.nl)| | **F**|Picard-LB| | | | | | | | :white_check_mark: | |||
 |[https://wetgevingskalender-acc.overheid.nl](https://wetgevingskalender-acc.overheid.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|403 Forbidden|
 |[https://beta-wetten.overheid.nl](https://beta-wetten.overheid.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS|Eenvoudig zoeken...|
 |[https://autodiscover.overheid.nl](https://autodiscover.overheid.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Not Found|

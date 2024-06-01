@@ -6,14 +6,14 @@
 
  - **SSL Grade**:A-
  - **HTTP Security Grade**:E
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:16172
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:16173
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/mett.nl/subdomains.txt)|17061|Alive subdomains|
+|[subdomains.txt](/data/mett.nl/subdomains.txt)|19774|Alive subdomains|
 |[urls.txt](/data/mett.nl/urls.txt)|16942|Urls|
-|[all_subdomains.txt](/data/mett.nl/all_subdomains.txt)|19788|All found subdomains (history)|
+|[all_subdomains.txt](/data/mett.nl/all_subdomains.txt)|21842|All found subdomains (history)|
 
 
 ## Statistics
@@ -3027,7 +3027,7 @@
 |[https://etd.mett.nl](https://etd.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Document Moved|
 |[https://1488.mett.nl](https://1488.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Document Moved|
 |[https://mftc.mett.nl](https://mftc.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Document Moved|
-|[https://12k.mett.nl](https://12k.mett.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | ||Document Moved|
+|[https://12k.mett.nl](https://12k.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Document Moved|
 |[https://smallbizexchange.mett.nl](https://smallbizexchange.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Document Moved|
 |[https://web5289.mett.nl](https://web5289.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Document Moved|
 |[https://lastminute-vakantie.mett.nl](https://lastminute-vakantie.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Document Moved|
@@ -4625,9 +4625,9 @@
 |[https://abcdefg.mett.nl](https://abcdefg.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Document Moved|
 |[https://mqb.mett.nl](https://mqb.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Document Moved|
 |[https://wijinvught.mett.nl](https://wijinvught.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Object moved|
-|[https://m3test.mett.nl](https://m3test.mett.nl)| | **F**||:o: | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|403 - Forbidden:...|
-|[https://idwpartners.mett.nl](https://idwpartners.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS|Object moved|
-|[https://m3test-login.mett.nl](https://m3test-login.mett.nl)| | **A**||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Object moved|
+|[https://m3test.mett.nl](https://m3test.mett.nl)| | **F**||:o: | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Object moved|
+|[https://idwpartners.mett.nl](https://idwpartners.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS|Document Moved|
+|[https://m3test-login.mett.nl](https://m3test-login.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS|403 - Forbidden:...|
 |[https://haba.mett.nl](https://haba.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Document Moved|
 |[https://mia-auto.mett.nl](https://mia-auto.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Document Moved|
 |[https://stucadoor.mett.nl](https://stucadoor.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Document Moved|

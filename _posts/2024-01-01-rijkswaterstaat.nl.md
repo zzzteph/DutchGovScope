@@ -3,7 +3,7 @@ layout: default
 title: "rijkswaterstaat.nl"
 permalink: "/dutchgov/rijkswaterstaat.nl.html"
 subdomains_count: 126
-all_subdomains_count: 668
+all_subdomains_count: 671
 urls_count: 88
 ssl_rank: A-
 http_rank: C
@@ -29,7 +29,7 @@ tags: dutchgov
 |------------|-------|------|
 |[subdomains.txt](/DutchGovScope/data/rijkswaterstaat.nl/subdomains.txt)|126|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/rijkswaterstaat.nl/urls.txt)|88|Urls|
-|[all_subdomains.txt](/DutchGovScope/data/rijkswaterstaat.nl/all_subdomains.txt)|668|All found subdomains (history)|
+|[all_subdomains.txt](/DutchGovScope/data/rijkswaterstaat.nl/all_subdomains.txt)|671|All found subdomains (history)|
 
 
 ## Statistics
