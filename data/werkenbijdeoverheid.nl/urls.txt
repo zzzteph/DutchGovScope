@@ -4,7 +4,6 @@ https://csotest.werkenbijdeoverheid.nl
 http://csotest.vacaturebeheer.werkenbijdeoverheid.nl
 http://helpdesk.werkenbijdeoverheid.nl
 https://odc.werkenbijdeoverheid.nl
-http://organisatiebeheer.werkenbijdeoverheid.nl
 https://vacaturezoekservice.werkenbijdeoverheid.nl
 https://vacaturezoekservice-accept.werkenbijdeoverheid.nl
 http://vacaturezoekservice-test.werkenbijdeoverheid.nl

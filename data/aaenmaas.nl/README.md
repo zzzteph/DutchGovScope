@@ -45,7 +45,7 @@
 |[https://ucc.aaenmaas.nl](https://ucc.aaenmaas.nl)| | **C**|Microsoft-IIS/8.5| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS IIS:8.5 Microsoft ASP.NET Windows Server|IIS Windows Serv...|
 |[http://was.aaenmaas.nl](http://was.aaenmaas.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://geoservices.aaenmaas.nl](https://geoservices.aaenmaas.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
-|[https://vpn.aaenmaas.nl](https://vpn.aaenmaas.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
+|[https://vpn.aaenmaas.nl](https://vpn.aaenmaas.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://wik.aaenmaas.nl](https://wik.aaenmaas.nl)| | **E**|| | | | | | | | :white_check_mark: | |Application Request Routing:3.0 IIS|Redirecting...|
 |[https://maps2.aaenmaas.nl](https://maps2.aaenmaas.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS IIS:10.0 Windows Server||
 

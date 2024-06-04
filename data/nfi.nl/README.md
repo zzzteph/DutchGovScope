@@ -11,7 +11,7 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/nfi.nl/subdomains.txt)|17|Alive subdomains|
+|[subdomains.txt](/data/nfi.nl/subdomains.txt)|18|Alive subdomains|
 |[urls.txt](/data/nfi.nl/urls.txt)|14|Urls|
 |[all_subdomains.txt](/data/nfi.nl/all_subdomains.txt)|23|All found subdomains (history)|
 

@@ -52,3 +52,5 @@ test.dusi.irealisatie.nl
 jaeger.test.zm.irealisatie.nl
 pgodemo.test.zm.irealisatie.nl
 web.acc.irealisatie.nl
+metadata-b.test.zm.irealisatie.nl
+metadata-c.test.zm.irealisatie.nl

@@ -13,7 +13,7 @@
 |------------|-------|------|
 |[subdomains.txt](/data/h-i-ambacht.nl/subdomains.txt)|21|Alive subdomains|
 |[urls.txt](/data/h-i-ambacht.nl/urls.txt)|21|Urls|
-|[all_subdomains.txt](/data/h-i-ambacht.nl/all_subdomains.txt)|29|All found subdomains (history)|
+|[all_subdomains.txt](/data/h-i-ambacht.nl/all_subdomains.txt)|30|All found subdomains (history)|
 
 
 ## Statistics

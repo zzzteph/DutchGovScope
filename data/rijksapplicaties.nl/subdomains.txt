@@ -268,3 +268,4 @@ rvb-arr.rijksapplicaties.nl
 mijn-ncg.rijksapplicaties.nl
 rvb-ifr.rijksapplicaties.nl
 npcemaatregelenmonitor.rijksapplicaties.nl
+rvb-rif.rijksapplicaties.nl

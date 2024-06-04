@@ -6,14 +6,14 @@
 
  - **SSL Grade**:
  - **HTTP Security Grade**:B
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:36
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:38
 
 
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/irealisatie.nl/subdomains.txt)|54|Alive subdomains|
-|[urls.txt](/data/irealisatie.nl/urls.txt)|49|Urls|
-|[all_subdomains.txt](/data/irealisatie.nl/all_subdomains.txt)|54|All found subdomains (history)|
+|[urls.txt](/data/irealisatie.nl/urls.txt)|51|Urls|
+|[all_subdomains.txt](/data/irealisatie.nl/all_subdomains.txt)|56|All found subdomains (history)|
 
 
 ## Statistics
@@ -48,9 +48,9 @@
 |[https://web.test.mgo.irealisatie.nl](https://web.test.mgo.irealisatie.nl)| | **B**|Apache| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server Basic HSTS|401 Unauthorized|
 |[https://max.test.mgo.irealisatie.nl](https://max.test.mgo.irealisatie.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS||
 |[https://dva.test.mgo.irealisatie.nl](https://dva.test.mgo.irealisatie.nl)| | **B**|| |:white_check_mark: | :warning:| | | :white_check_mark: | | :white_check_mark: | |HSTS||
-|[https://lo-ad.test.mgo.irealisatie.nl](https://lo-ad.test.mgo.irealisatie.nl)| | **B**|| |:white_check_mark: | :warning:| | | :white_check_mark: | | :white_check_mark: | |HSTS||
+|[https://lo-ad.test.mgo.irealisatie.nl](https://lo-ad.test.mgo.irealisatie.nl)| | **A**|| |:white_check_mark: | :warning:| | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS||
 |[https://static.acc.dpr.irealisatie.nl](https://static.acc.dpr.irealisatie.nl)| | **B**|Apache| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS Hugo:0.124.1|Verwerkingsregis...|
-|[https://storage.test.mgo.irealisatie.nl](https://storage.test.mgo.irealisatie.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS||
+|[http://storage.test.mgo.irealisatie.nl](http://storage.test.mgo.irealisatie.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS||
 |[http://acme.proeftuin.uzi-online.irealisatie.nl](http://acme.proeftuin.uzi-online.irealisatie.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[http://test.mgo.irealisatie.nl](http://test.mgo.irealisatie.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://app-api.test.mgo.irealisatie.nl](https://app-api.test.mgo.irealisatie.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS||
@@ -70,4 +70,6 @@
 |[http://www.test.zm.irealisatie.nl](http://www.test.zm.irealisatie.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[http://acc.dusi.irealisatie.nl](http://acc.dusi.irealisatie.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[http://test.dusi.irealisatie.nl](http://test.dusi.irealisatie.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
+|[https://jaeger.test.zm.irealisatie.nl](https://jaeger.test.zm.irealisatie.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |Basic HSTS|401 Unauthorized|
+|[https://pgodemo.test.zm.irealisatie.nl](https://pgodemo.test.zm.irealisatie.nl)| | **A**|Apache| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server Basic HSTS|401 Unauthorized|
 

@@ -26,3 +26,4 @@ login.apps.feedfoodtransfer.nl
 webdisk.apps.feedfoodtransfer.nl
 jira.apps.feedfoodtransfer.nl
 beta.apps.feedfoodtransfer.nl
+cdn.apps.feedfoodtransfer.nl

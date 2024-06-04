@@ -7,7 +7,7 @@ all_subdomains_count: 12
 urls_count: 9
 ssl_rank: B-
 http_rank: C
-security_txt: 5
+security_txt: 4
 url_link: /data/open-overheid.nl/urls.txt
 all_subdomains_link: /data/open-overheid.nl/all_subdomains.txt
 subdomains_link: /data/open-overheid.nl/subdomains.txt
@@ -22,7 +22,7 @@ tags: dutchgov
 
  - **SSL Grade**:B-
  - **HTTP Security Grade**:C
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:5
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:4
 
 
 | File       | Count | Info |
@@ -45,5 +45,5 @@ tags: dutchgov
 |[https://pop.open-overheid.nl](https://pop.open-overheid.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|Domein niet gevo...|
 |[https://smtp.open-overheid.nl](https://smtp.open-overheid.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|Domein niet gevo...|
 |[https://ftp.open-overheid.nl](https://ftp.open-overheid.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|Domein niet gevo...|
-|[https://wooincijfers.open-overheid.nl](https://wooincijfers.open-overheid.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS|ICTU DevOps|
+|[https://wooincijfers.open-overheid.nl](https://wooincijfers.open-overheid.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| | | :white_check_mark: | |HSTS Node.js Nuxt.js Vue.js|Woo in cijfers|
 

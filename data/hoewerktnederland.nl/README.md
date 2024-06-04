@@ -11,7 +11,7 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/hoewerktnederland.nl/subdomains.txt)|7|Alive subdomains|
+|[subdomains.txt](/data/hoewerktnederland.nl/subdomains.txt)|2|Alive subdomains|
 |[urls.txt](/data/hoewerktnederland.nl/urls.txt)|2|Urls|
 |[all_subdomains.txt](/data/hoewerktnederland.nl/all_subdomains.txt)|22|All found subdomains (history)|
 

@@ -4,9 +4,9 @@ title: "energieoprijksgrond.nl"
 permalink: "/dutchgov/energieoprijksgrond.nl.html"
 subdomains_count: 3
 all_subdomains_count: 12
-urls_count: 3
+urls_count: 2
 ssl_rank: A+
-http_rank: F
+http_rank: E
 security_txt: 2
 url_link: /data/energieoprijksgrond.nl/urls.txt
 all_subdomains_link: /data/energieoprijksgrond.nl/all_subdomains.txt
@@ -21,14 +21,14 @@ tags: dutchgov
 
 
  - **SSL Grade**:A+
- - **HTTP Security Grade**:F
+ - **HTTP Security Grade**:E
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:2
 
 
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/DutchGovScope/data/energieoprijksgrond.nl/subdomains.txt)|3|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/energieoprijksgrond.nl/urls.txt)|3|Urls|
+|[urls.txt](/DutchGovScope/data/energieoprijksgrond.nl/urls.txt)|2|Urls|
 |[all_subdomains.txt](/DutchGovScope/data/energieoprijksgrond.nl/all_subdomains.txt)|12|All found subdomains (history)|
 
 
@@ -39,5 +39,4 @@ tags: dutchgov
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[https://www.energieoprijksgrond.nl](https://www.energieoprijksgrond.nl)| **A+**| **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Object moved|
 |[https://energieoprijksgrond.nl](https://energieoprijksgrond.nl)| **A+**| **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Object moved|
-|[https://mail.energieoprijksgrond.nl](https://mail.energieoprijksgrond.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|Web Server's Def...|
 

@@ -31,7 +31,6 @@ https://leerplein.svb.nl
 http://test-intranet.svb.nl
 https://outlook.svb.nl
 https://rdsapplications05.svb.nl
-https://myprint.svb.nl
 https://desktop.entreepgb.svb.nl
 https://events.svb.nl
 https://app-t.svb.nl

@@ -5,14 +5,14 @@
 
 
  - **SSL Grade**:A+
- - **HTTP Security Grade**:F
+ - **HTTP Security Grade**:E
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:2
 
 
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/energieoprijksgrond.nl/subdomains.txt)|3|Alive subdomains|
-|[urls.txt](/data/energieoprijksgrond.nl/urls.txt)|3|Urls|
+|[urls.txt](/data/energieoprijksgrond.nl/urls.txt)|2|Urls|
 |[all_subdomains.txt](/data/energieoprijksgrond.nl/all_subdomains.txt)|12|All found subdomains (history)|
 
 
@@ -23,5 +23,4 @@
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[https://www.energieoprijksgrond.nl](https://www.energieoprijksgrond.nl)| **A+**| **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Object moved|
 |[https://energieoprijksgrond.nl](https://energieoprijksgrond.nl)| **A+**| **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Object moved|
-|[https://mail.energieoprijksgrond.nl](https://mail.energieoprijksgrond.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|Web Server's Def...|
 

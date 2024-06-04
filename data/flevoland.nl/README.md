@@ -11,8 +11,8 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/flevoland.nl/subdomains.txt)|106|Alive subdomains|
-|[urls.txt](/data/flevoland.nl/urls.txt)|78|Urls|
+|[subdomains.txt](/data/flevoland.nl/subdomains.txt)|107|Alive subdomains|
+|[urls.txt](/data/flevoland.nl/urls.txt)|79|Urls|
 |[all_subdomains.txt](/data/flevoland.nl/all_subdomains.txt)|226|All found subdomains (history)|
 
 
@@ -99,4 +99,5 @@
 |[https://msoid.flevoland.nl](https://msoid.flevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Object moved|
 |[https://mbg-proxy.flevoland.nl](https://mbg-proxy.flevoland.nl)| | **A**|Apache| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS|Redirecting...|
 |[https://gebouwbeheer.flevoland.nl](https://gebouwbeheer.flevoland.nl)| | **F**|Microsoft-IIS/10.0| | | | | | | | :white_check_mark: | |IIS:10.0 Windows Server|IIS Windows|
+|[http://res.flevoland.nl](http://res.flevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 

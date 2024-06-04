@@ -2,7 +2,7 @@
 layout: default
 title: "hoewerktnederland.nl"
 permalink: "/dutchgov/hoewerktnederland.nl.html"
-subdomains_count: 7
+subdomains_count: 2
 all_subdomains_count: 22
 urls_count: 2
 ssl_rank: 
@@ -27,7 +27,7 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/hoewerktnederland.nl/subdomains.txt)|7|Alive subdomains|
+|[subdomains.txt](/DutchGovScope/data/hoewerktnederland.nl/subdomains.txt)|2|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/hoewerktnederland.nl/urls.txt)|2|Urls|
 |[all_subdomains.txt](/DutchGovScope/data/hoewerktnederland.nl/all_subdomains.txt)|22|All found subdomains (history)|
 

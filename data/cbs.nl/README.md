@@ -13,7 +13,7 @@
 |------------|-------|------|
 |[subdomains.txt](/data/cbs.nl/subdomains.txt)|223|Alive subdomains|
 |[urls.txt](/data/cbs.nl/urls.txt)|179|Urls|
-|[all_subdomains.txt](/data/cbs.nl/all_subdomains.txt)|302|All found subdomains (history)|
+|[all_subdomains.txt](/data/cbs.nl/all_subdomains.txt)|303|All found subdomains (history)|
 
 
 ## Statistics

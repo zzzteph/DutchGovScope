@@ -782,3 +782,5 @@ https://enterpriseregistration.knaw.nl
 http://kaartenbank.meertens.knaw.nl
 http://cmdi.sd.di.huc.knaw.nl
 https://cl.nioo.knaw.nl
+https://cto.nioo.knaw.nl
+https://wp-09.dev.huc.knaw.nl

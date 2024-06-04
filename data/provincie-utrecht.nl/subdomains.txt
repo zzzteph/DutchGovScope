@@ -27,12 +27,10 @@ wortel176.provincie-utrecht.nl
 geo-pointtest.provincie-utrecht.nl
 kadernota.provincie-utrecht.nl
 wortel184.provincie-utrecht.nl
-sslvpn.provincie-utrecht.nl
 ruimtelijkeplannentest.provincie-utrecht.nl
 geotestservices.provincie-utrecht.nl
 assystnet-test-t.provincie-utrecht.nl
 www.provincie-utrecht.nl
-wortel174.provincie-utrecht.nl
 geoservices.provincie-utrecht.nl
 info.provincie-utrecht.nl
 sap-crm.provincie-utrecht.nl
@@ -46,7 +44,6 @@ geotest.provincie-utrecht.nl
 gis-test.provincie-utrecht.nl
 auth-preprod.provincie-utrecht.nl
 planoview.provincie-utrecht.nl
-regiotramutrecht.provincie-utrecht.nl
 wortel175.provincie-utrecht.nl
 intranet.provincie-utrecht.nl
 innerweb.provincie-utrecht.nl

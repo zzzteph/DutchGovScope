@@ -2,11 +2,11 @@
 layout: default
 title: "rechtwijzer.nl"
 permalink: "/dutchgov/rechtwijzer.nl.html"
-subdomains_count: 92
-all_subdomains_count: 100
-urls_count: 4
+subdomains_count: 99
+all_subdomains_count: 103
+urls_count: 3
 ssl_rank: A
-http_rank: C
+http_rank: B
 security_txt: 2
 url_link: /data/rechtwijzer.nl/urls.txt
 all_subdomains_link: /data/rechtwijzer.nl/all_subdomains.txt
@@ -21,15 +21,15 @@ tags: dutchgov
 
 
  - **SSL Grade**:A
- - **HTTP Security Grade**:C
+ - **HTTP Security Grade**:B
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:2
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/rechtwijzer.nl/subdomains.txt)|92|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/rechtwijzer.nl/urls.txt)|4|Urls|
-|[all_subdomains.txt](/DutchGovScope/data/rechtwijzer.nl/all_subdomains.txt)|100|All found subdomains (history)|
+|[subdomains.txt](/DutchGovScope/data/rechtwijzer.nl/subdomains.txt)|99|Alive subdomains|
+|[urls.txt](/DutchGovScope/data/rechtwijzer.nl/urls.txt)|3|Urls|
+|[all_subdomains.txt](/DutchGovScope/data/rechtwijzer.nl/all_subdomains.txt)|103|All found subdomains (history)|
 
 
 ## Statistics
@@ -39,6 +39,5 @@ tags: dutchgov
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[https://rechtwijzer.nl](https://rechtwijzer.nl)| **A**| **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:-|Home - Rechtwijz...|
 |[https://www.rechtwijzer.nl](https://www.rechtwijzer.nl)| **A**| **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:-|Object moved|
-|[http://ehbo.rechtwijzer.nl](http://ehbo.rechtwijzer.nl)| | **F**|Apache/2.4.6 (CentOS)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.6 CentOS PHP:7.2.10|Dit domein is ge...|
 |[http://localhost.rechtwijzer.nl](http://localhost.rechtwijzer.nl)| | **F**|nginx| | | :warning:| | | | | :white_check_mark: | |Nginx|(404 Not Found)|
 

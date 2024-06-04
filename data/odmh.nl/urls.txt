@@ -23,11 +23,8 @@ https://geoportal.odmh.nl
 https://geoweb.odmh.nl
 https://grondverzet.odmh.nl
 http://autodiscover.odmh.nl
-https://docs.odmh.nl
 https://mfa.odmh.nl
 https://rdsgateway.odmh.nl
-https://vpn.odmh.nl
-https://micollab.odmh.nl
 https://pow.odmh.nl
 https://publicaties.odmh.nl
 https://tv.odmh.nl

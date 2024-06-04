@@ -121,7 +121,6 @@ ovverklaringen.belastingdienst.nl
 verleendekinderopvang.belastingdienst.nl
 verzekeringsproducten.belastingdienst.nl
 wagenparkgegevens.belastingdienst.nl
-adobe-analytics-dc.belastingdienst.nl
 amlc.acc.belastingdienst.nl
 amlc.ont.belastingdienst.nl
 amlceu.acc.belastingdienst.nl
@@ -222,7 +221,6 @@ extgmea02.ss.belastingdienst.nl
 extra-vpn.belastingdienst.nl
 fibb2.acc.belastingdienst.nl
 fibe1-extern.belastingdienst.nl
-fibe2.acc.belastingdienst.nl
 fibi2.acc.belastingdienst.nl
 fibt1.belastingdienst.nl
 fibz2.acc.belastingdienst.nl
@@ -397,9 +395,6 @@ smtp31.belastingdienst.nl
 smtp32.belastingdienst.nl
 smtp81.belastingdienst.nl
 smtp82.belastingdienst.nl
-sollicitatieformulier.belastingdienst.nl
-sorry.ont.belastingdienst.nl
-splunksyslog.dmz.belastingdienst.nl
 start.belastingdienst.nl
 startportaal.belastingdienst.nl
 startportaal1.belastingdienst.nl

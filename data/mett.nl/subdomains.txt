@@ -1495,7 +1495,6 @@ anythinggoes.mett.nl
 6k.mett.nl
 wwwgoogle.mett.nl
 caiman.mett.nl
-api.chat.mett.nl
 odoorn.mett.nl
 procedure.mett.nl
 opentable.mett.nl

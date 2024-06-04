@@ -82,8 +82,6 @@ govroam.noord-holland.nl
 portal-bs.noord-holland.nl
 projectruimte.noord-holland.nl
 qep.noord-holland.nl
-qlikgw-accp.aws.noord-holland.nl
-qlikgw-prod.aws.noord-holland.nl
 vl.noord-holland.nl
 web.noord-holland.nl
 web1.noord-holland.nl

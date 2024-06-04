@@ -11,8 +11,8 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/svb.nl/subdomains.txt)|159|Alive subdomains|
-|[urls.txt](/data/svb.nl/urls.txt)|58|Urls|
+|[subdomains.txt](/data/svb.nl/subdomains.txt)|158|Alive subdomains|
+|[urls.txt](/data/svb.nl/urls.txt)|57|Urls|
 |[all_subdomains.txt](/data/svb.nl/all_subdomains.txt)|284|All found subdomains (history)|
 
 
@@ -54,7 +54,6 @@
 |[http://test-intranet.svb.nl](http://test-intranet.svb.nl)| **A+**| **C**|| | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://outlook.svb.nl](https://outlook.svb.nl)| **A**| **B**|BigIP|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |F5 BigIP||
 |[https://rdsapplications05.svb.nl](https://rdsapplications05.svb.nl)| **A**| **F**|Microsoft-IIS/10.0| | | | | | | | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server|IIS Windows Serv...|
-|[https://myprint.svb.nl](https://myprint.svb.nl)| **F**| **E**|| | | | | | | | :white_check_mark: | |||
 |[https://desktop.entreepgb.svb.nl](https://desktop.entreepgb.svb.nl)| **A**| **F**|Microsoft-IIS/10.0|:o: | | | | | :white_check_mark: | | :white_check_mark: | |IIS:10.0 Windows Server|Document Moved|
 |[https://events.svb.nl](https://events.svb.nl)| **A+**| **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Amazon S3 Amazon Web Services HSTS||
 |[https://app-t.svb.nl](https://app-t.svb.nl)| **A**| **A**||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |||

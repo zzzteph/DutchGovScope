@@ -40,5 +40,5 @@ tags: dutchgov
 |[https://accept.nldigitalgovernment.nl](https://accept.nldigitalgovernment.nl)| **A+**| **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |Basic HSTS Nginx|401 Authorizatio...|
 |[https://www.nldigitalgovernment.nl](https://www.nldigitalgovernment.nl)| **A+**| **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS MySQL Nginx PHP:8.0.30 WordPress:6.5.3 Yoast SEO:22.7|Home - Digital G...|
 |[https://nldigitalgovernment.nl](https://nldigitalgovernment.nl)| **A+**| **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Nginx PHP:8.0.30||
-|[https://test.nldigitalgovernment.nl](https://test.nldigitalgovernment.nl)| | **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS MySQL Nginx PHP:8.3.6 WordPress|Digital Governme...|
+|[https://test.nldigitalgovernment.nl](https://test.nldigitalgovernment.nl)| | **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS MySQL Nginx PHP:8.3.7 WordPress|Digital Governme...|
 

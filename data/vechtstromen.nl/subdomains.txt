@@ -47,6 +47,5 @@ topdesk-test.vechtstromen.nl
 pop.vechtstromen.nl
 zaaksysteem.vechtstromen.nl
 acceptatie-zaaksysteem.vechtstromen.nl
-sdwan.vechtstromen.nl
 www.mta-sts.vechtstromen.nl
 mta-sts.vechtstromen.nl

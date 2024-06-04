@@ -76,3 +76,4 @@ https://enterpriseregistration.flevoland.nl
 https://msoid.flevoland.nl
 https://mbg-proxy.flevoland.nl
 https://gebouwbeheer.flevoland.nl
+http://res.flevoland.nl

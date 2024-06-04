@@ -12,8 +12,8 @@
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/brabant.nl/subdomains.txt)|151|Alive subdomains|
-|[urls.txt](/data/brabant.nl/urls.txt)|78|Urls|
-|[all_subdomains.txt](/data/brabant.nl/all_subdomains.txt)|239|All found subdomains (history)|
+|[urls.txt](/data/brabant.nl/urls.txt)|79|Urls|
+|[all_subdomains.txt](/data/brabant.nl/all_subdomains.txt)|240|All found subdomains (history)|
 
 
 ## Statistics
@@ -99,4 +99,5 @@
 |[https://webcast.brabant.nl](https://webcast.brabant.nl)| | **F**|AmazonS3| | | | | | | | :white_check_mark: | |Amazon CloudFront Amazon S3 Amazon Web Services HTTP/3 Material Design Lite|Loading ...|
 |[https://signing.brabant.nl](https://signing.brabant.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS||
 |[https://signing.pre.brabant.nl](https://signing.pre.brabant.nl)| | **A**|Apache| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS||
+|[https://corsa2023.brabant.nl](https://corsa2023.brabant.nl)| | **F**|Microsoft-Azure-Application-Gateway/v2| | | | | | | | :white_check_mark: | ||404 Not Found|
 

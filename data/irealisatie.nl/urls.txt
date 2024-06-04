@@ -27,7 +27,7 @@ https://max.test.mgo.irealisatie.nl
 https://dva.test.mgo.irealisatie.nl
 https://lo-ad.test.mgo.irealisatie.nl
 https://static.acc.dpr.irealisatie.nl
-https://storage.test.mgo.irealisatie.nl
+http://storage.test.mgo.irealisatie.nl
 http://acme.proeftuin.uzi-online.irealisatie.nl
 http://test.mgo.irealisatie.nl
 https://app-api.test.mgo.irealisatie.nl
@@ -47,3 +47,5 @@ https://addressing.test.zm.irealisatie.nl
 http://www.test.zm.irealisatie.nl
 http://acc.dusi.irealisatie.nl
 http://test.dusi.irealisatie.nl
+https://jaeger.test.zm.irealisatie.nl
+https://pgodemo.test.zm.irealisatie.nl

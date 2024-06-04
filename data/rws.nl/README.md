@@ -6,13 +6,13 @@
 
  - **SSL Grade**:B+
  - **HTTP Security Grade**:D
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:95
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:94
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/rws.nl/subdomains.txt)|251|Alive subdomains|
-|[urls.txt](/data/rws.nl/urls.txt)|168|Urls|
+|[subdomains.txt](/data/rws.nl/subdomains.txt)|250|Alive subdomains|
+|[urls.txt](/data/rws.nl/urls.txt)|167|Urls|
 |[all_subdomains.txt](/data/rws.nl/all_subdomains.txt)|1187|All found subdomains (history)|
 
 
@@ -166,7 +166,6 @@
 |[https://acc-sonarreg.rws.nl](https://acc-sonarreg.rws.nl)| **A+**| **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Nginx|SonarReg|
 |[https://tst-onderwaterobjecten.rws.nl](https://tst-onderwaterobjecten.rws.nl)| **A+**| **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Nginx|SonarReg|
 |[https://tst-sonarreg.rws.nl](https://tst-sonarreg.rws.nl)| **A+**| **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Nginx|SonarReg|
-|[https://waterberichtgeving-sitrap.rws.nl](https://waterberichtgeving-sitrap.rws.nl)| **A+**| **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Azure Azure Front Door|Page not found|
 |[https://webportaal.rws.nl](https://webportaal.rws.nl)| **F**| **E**|| | | | | | | | :white_check_mark: | |HSTS||
 |[https://tgox.rws.nl](https://tgox.rws.nl)| **A**| **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://techniekacademie.rws.nl](https://techniekacademie.rws.nl)| **A+**| **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:-|Object moved|

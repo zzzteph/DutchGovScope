@@ -31,7 +31,6 @@ leerplein.svb.nl
 test-intranet.svb.nl
 outlook.svb.nl
 rdsapplications05.svb.nl
-myprint.svb.nl
 desktop.entreepgb.svb.nl
 events.svb.nl
 app-t.svb.nl

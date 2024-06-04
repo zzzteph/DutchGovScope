@@ -5,3 +5,4 @@ https://sterftedashboard.vzinfo.nl
 http://nzrdashboard.vzinfo.nl
 https://sterftedashboard-regionaal.vzinfo.nl
 https://mondgezondheidsdashboard.vzinfo.nl
+http://ziektelast.vzinfo.nl

@@ -93,5 +93,5 @@
 |[https://belastingen.zuid-holland.nl](https://belastingen.zuid-holland.nl)| | **A**||:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET|Object moved|
 |[https://jaaroverzichtcommissarisvandekoning2023.zuid-holland.nl](https://jaaroverzichtcommissarisvandekoning2023.zuid-holland.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:-|Object moved|
 |[https://geoweb.zuid-holland.nl](https://geoweb.zuid-holland.nl)| | **F**||:white_check_mark: | | | | | | | :white_check_mark: | |||
-|[https://denkmeemet.zuid-holland.nl](https://denkmeemet.zuid-holland.nl)| | **B**||:o: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |||
+|[https://denkmeemet.zuid-holland.nl](https://denkmeemet.zuid-holland.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Express HSTS Node.js|Home | Denk mee...|
 

@@ -12,10 +12,8 @@ wpx-80-aix-http.douane.nl
 www.douane.nl
 douane.nl
 b2btest-osb.douane.nl
-ier-online.douane.nl
 tarief.str4.acc.douane.nl
 vluchtinfo-test.douane.nl
 vluchtinfo.douane.nl
-wpx-80-aix-http.acc.douane.nl
 zoekengebruikstarief.douane.nl
 assistent.internetaankopen.douane.nl

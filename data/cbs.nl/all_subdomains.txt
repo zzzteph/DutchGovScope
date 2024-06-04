@@ -300,3 +300,4 @@ sdmx-search-beta.cbs.nl
 sdmx-api-beta.cbs.nl
 search.beta.cbs.nl
 gecko.cbs.nl
+lc.cbs.nl

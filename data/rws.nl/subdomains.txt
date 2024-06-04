@@ -144,7 +144,6 @@ acc-onderwaterobjecten.rws.nl
 acc-sonarreg.rws.nl
 tst-onderwaterobjecten.rws.nl
 tst-sonarreg.rws.nl
-waterberichtgeving-sitrap.rws.nl
 webportaal.rws.nl
 tgox.rws.nl
 techniekacademie.rws.nl
