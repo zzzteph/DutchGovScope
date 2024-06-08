@@ -27,7 +27,7 @@
 |[https://pit.collector.owinsp.nl](https://pit.collector.owinsp.nl)| **F**| **E**|| | | | | | | | :white_check_mark: | |Apache HTTP Server||
 |[https://pit.collectora.acc.owinsp.nl](https://pit.collectora.acc.owinsp.nl)| **F**| **E**|| | | | | | | | :white_check_mark: | |Apache HTTP Server||
 |[https://pitng.owinsp.nl](https://pitng.owinsp.nl)| **B**| **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|Toezichtresultat...|
-|[https://pitng.acceptatie.owinsp.nl](https://pitng.acceptatie.owinsp.nl)| **B**| **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS||
+|[https://pitng.acceptatie.owinsp.nl](https://pitng.acceptatie.owinsp.nl)| **B**| **E**|| | | | | | | | :white_check_mark: | |HSTS|404 Not Found|
 |[https://pitng.ontwikkel.owinsp.nl](https://pitng.ontwikkel.owinsp.nl)| **B**| **F**|Apache/2.4.6 (Red Hat Enterprise Linux) OpenSSL/1.0.2k-fips| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.6 Bloomreach HSTS OpenSSL:1.0.2k Red Hat|ONTWIKKEL Onderh...|
 |[https://pitng.test.owinsp.nl](https://pitng.test.owinsp.nl)| **B**| **F**|Apache/2.4.6 (Red Hat Enterprise Linux) OpenSSL/1.0.2k-fips| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.6 Bloomreach HSTS OpenSSL:1.0.2k Red Hat|TEST Onderhoud -...|
 |[https://portal.survey.collector.owinsp.nl](https://portal.survey.collector.owinsp.nl)| **F**| **E**|| | | | | | | | :white_check_mark: | |Apache HTTP Server||

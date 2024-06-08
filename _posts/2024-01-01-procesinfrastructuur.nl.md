@@ -2,7 +2,7 @@
 layout: default
 title: "procesinfrastructuur.nl"
 permalink: "/dutchgov/procesinfrastructuur.nl.html"
-subdomains_count: 133
+subdomains_count: 134
 all_subdomains_count: 136
 urls_count: 4
 ssl_rank: C
@@ -27,7 +27,7 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/procesinfrastructuur.nl/subdomains.txt)|133|Alive subdomains|
+|[subdomains.txt](/DutchGovScope/data/procesinfrastructuur.nl/subdomains.txt)|134|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/procesinfrastructuur.nl/urls.txt)|4|Urls|
 |[all_subdomains.txt](/DutchGovScope/data/procesinfrastructuur.nl/all_subdomains.txt)|136|All found subdomains (history)|
 

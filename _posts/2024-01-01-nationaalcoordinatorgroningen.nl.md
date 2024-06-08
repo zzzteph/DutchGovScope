@@ -6,7 +6,7 @@ subdomains_count: 20
 all_subdomains_count: 35
 urls_count: 10
 ssl_rank: A-
-http_rank: C
+http_rank: D
 security_txt: 7
 url_link: /data/nationaalcoordinatorgroningen.nl/urls.txt
 all_subdomains_link: /data/nationaalcoordinatorgroningen.nl/all_subdomains.txt
@@ -21,7 +21,7 @@ tags: dutchgov
 
 
  - **SSL Grade**:A-
- - **HTTP Security Grade**:C
+ - **HTTP Security Grade**:D
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:7
 
 
@@ -40,9 +40,9 @@ tags: dutchgov
 |[https://aip.nationaalcoordinatorgroningen.nl](https://aip.nationaalcoordinatorgroningen.nl)| **A+**| **E**|| | | | | | | | :white_check_mark: | |HSTS|Document Moved|
 |[http://aip-acc.nationaalcoordinatorgroningen.nl](http://aip-acc.nationaalcoordinatorgroningen.nl)| **A**| **E**|| | | | | | | | :white_check_mark: | |||
 |[https://feeds.nationaalcoordinatorgroningen.nl](https://feeds.nationaalcoordinatorgroningen.nl)| **A+**| **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
-|[https://intranet.nationaalcoordinatorgroningen.nl](https://intranet.nationaalcoordinatorgroningen.nl)| **A+**| **B**|Apache| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS|403 Forbidden|
+|[https://intranet.nationaalcoordinatorgroningen.nl](https://intranet.nationaalcoordinatorgroningen.nl)| **A+**| **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|403 Forbidden|
 |[https://intranet-acc.nationaalcoordinatorgroningen.nl](https://intranet-acc.nationaalcoordinatorgroningen.nl)| **F**| **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|403 Forbidden|
-|[https://intranet-prod.nationaalcoordinatorgroningen.nl](https://intranet-prod.nationaalcoordinatorgroningen.nl)| **A**| **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|403 Forbidden|
+|[https://intranet-prod.nationaalcoordinatorgroningen.nl](https://intranet-prod.nationaalcoordinatorgroningen.nl)| **A**| **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|403 Forbidden|
 |[https://opendata.nationaalcoordinatorgroningen.nl](https://opendata.nationaalcoordinatorgroningen.nl)| **A+**| **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://www.nationaalcoordinatorgroningen.nl](https://www.nationaalcoordinatorgroningen.nl)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|NCG | Nationaal...|
 |[https://nationaalcoordinatorgroningen.nl](https://nationaalcoordinatorgroningen.nl)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|

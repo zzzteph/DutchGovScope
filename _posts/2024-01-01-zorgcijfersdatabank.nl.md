@@ -2,7 +2,7 @@
 layout: default
 title: "zorgcijfersdatabank.nl"
 permalink: "/dutchgov/zorgcijfersdatabank.nl.html"
-subdomains_count: 9
+subdomains_count: 10
 all_subdomains_count: 13
 urls_count: 4
 ssl_rank: A+
@@ -27,7 +27,7 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/zorgcijfersdatabank.nl/subdomains.txt)|9|Alive subdomains|
+|[subdomains.txt](/DutchGovScope/data/zorgcijfersdatabank.nl/subdomains.txt)|10|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/zorgcijfersdatabank.nl/urls.txt)|4|Urls|
 |[all_subdomains.txt](/DutchGovScope/data/zorgcijfersdatabank.nl/all_subdomains.txt)|13|All found subdomains (history)|
 

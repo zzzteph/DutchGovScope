@@ -11,7 +11,7 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/rijksoverheid.nl/subdomains.txt)|96|Alive subdomains|
+|[subdomains.txt](/data/rijksoverheid.nl/subdomains.txt)|97|Alive subdomains|
 |[urls.txt](/data/rijksoverheid.nl/urls.txt)|27|Urls|
 |[all_subdomains.txt](/data/rijksoverheid.nl/all_subdomains.txt)|174|All found subdomains (history)|
 

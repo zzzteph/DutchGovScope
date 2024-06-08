@@ -4,10 +4,10 @@ title: "milieuzones.nl"
 permalink: "/dutchgov/milieuzones.nl.html"
 subdomains_count: 6
 all_subdomains_count: 9
-urls_count: 5
-ssl_rank: C
-http_rank: C
-security_txt: 2
+urls_count: 1
+ssl_rank: 
+http_rank: F
+security_txt: 0
 url_link: /data/milieuzones.nl/urls.txt
 all_subdomains_link: /data/milieuzones.nl/all_subdomains.txt
 subdomains_link: /data/milieuzones.nl/subdomains.txt
@@ -20,15 +20,15 @@ tags: dutchgov
 ## Summary data
 
 
- - **SSL Grade**:C
- - **HTTP Security Grade**:C
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:2
+ - **SSL Grade**:
+ - **HTTP Security Grade**:F
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:0
 
 
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/DutchGovScope/data/milieuzones.nl/subdomains.txt)|6|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/milieuzones.nl/urls.txt)|5|Urls|
+|[urls.txt](/DutchGovScope/data/milieuzones.nl/urls.txt)|1|Urls|
 |[all_subdomains.txt](/DutchGovScope/data/milieuzones.nl/all_subdomains.txt)|9|All found subdomains (history)|
 
 
@@ -37,9 +37,5 @@ tags: dutchgov
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://acc.milieuzones.nl](https://acc.milieuzones.nl)| **F**| **F**|nginx| | | | | | | | :white_check_mark: | |Basic HSTS Nginx|401 Authorizatio...|
-|[https://test.milieuzones.nl](https://test.milieuzones.nl)| **F**| **F**|nginx| | | | | | | | :white_check_mark: | |Basic HSTS Nginx|401 Authorizatio...|
-|[https://www.milieuzones.nl](https://www.milieuzones.nl)| **A+**| **A**|nginx| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Drupal:10 HSTS Nginx PHP|Milieuzones in N...|
-|[https://milieuzones.nl](https://milieuzones.nl)| **A+**| **A**|nginx| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
 |[http://autodiscover.milieuzones.nl](http://autodiscover.milieuzones.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|Eclipse GlassFis...|
 

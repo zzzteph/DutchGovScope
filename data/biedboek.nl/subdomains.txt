@@ -2484,4 +2484,3 @@ beta.city.biedboek.nl
 autoconfig.soporte.biedboek.nl
 dev.cap.biedboek.nl
 cpanel.intranet.biedboek.nl
-share.biedboek.nl

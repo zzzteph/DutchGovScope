@@ -358,13 +358,13 @@ https://dev.mett.nl
 https://faber.mett.nl
 https://ftp.mett.nl
 https://robert.mett.nl
-https://tom.mett.nl
+http://tom.mett.nl
 https://htx.mett.nl
 https://iii.mett.nl
 https://performance.mett.nl
 https://securevpn.mett.nl
 https://storage.mett.nl
-http://testserver.mett.nl
+https://testserver.mett.nl
 https://waf.mett.nl
 https://zendesk1.mett.nl
 https://zendesk2.mett.nl

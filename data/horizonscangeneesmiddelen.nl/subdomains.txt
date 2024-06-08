@@ -2,6 +2,7 @@ proto.horizonscangeneesmiddelen.nl
 www.horizonscangeneesmiddelen.nl
 www-ac.horizonscangeneesmiddelen.nl
 horizonscangeneesmiddelen.nl
+www-p.horizonscangeneesmiddelen.nl
 www-tst.horizonscangeneesmiddelen.nl
 www-ow.horizonscangeneesmiddelen.nl
 www-ts.horizonscangeneesmiddelen.nl

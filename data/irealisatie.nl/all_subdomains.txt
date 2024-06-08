@@ -54,3 +54,9 @@ pgodemo.test.zm.irealisatie.nl
 web.acc.irealisatie.nl
 metadata-b.test.zm.irealisatie.nl
 metadata-c.test.zm.irealisatie.nl
+stats.acc.mgo.irealisatie.nl
+web.acc.mgo.irealisatie.nl
+app-api.acc.mgo.irealisatie.nl
+max.acc.mgo.irealisatie.nl
+lo-ad.acc.mgo.irealisatie.nl
+dva.acc.mgo.irealisatie.nl

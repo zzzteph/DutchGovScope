@@ -14,6 +14,7 @@ www-dev.zorginzicht.nl
 www-acc.zorginzicht.nl
 www-ow.zorginzicht.nl
 sp.zorginzicht.nl
+www-p.zorginzicht.nl
 www-ts.zorginzicht.nl
 www2-ts.zorginzicht.nl
 acc2.zorginzicht.nl

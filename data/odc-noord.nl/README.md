@@ -12,7 +12,7 @@
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/odc-noord.nl/subdomains.txt)|145|Alive subdomains|
-|[urls.txt](/data/odc-noord.nl/urls.txt)|82|Urls|
+|[urls.txt](/data/odc-noord.nl/urls.txt)|81|Urls|
 |[all_subdomains.txt](/data/odc-noord.nl/all_subdomains.txt)|262|All found subdomains (history)|
 
 
@@ -86,7 +86,6 @@
 |[https://socjenv-prd.topdesk.odc-noord.nl](https://socjenv-prd.topdesk.odc-noord.nl)| **B**| **E**|| | | | | | | | :white_check_mark: | ||ODC-Noord | (403...|
 |[https://terraform.odc-noord.nl](https://terraform.odc-noord.nl)| | **E**|| | | | | | | | :white_check_mark: | ||ODC-Noord | (403...|
 |[https://vpn.a4.odc-noord.nl](https://vpn.a4.odc-noord.nl)| **A**| **E**|OpenVPN-AS| | | | | | :white_check_mark: | | :white_check_mark: | |||
-|[https://vpn.bzkdgvbrnpr.odc-noord.nl](https://vpn.bzkdgvbrnpr.odc-noord.nl)| | **F**|TwistedWeb/20.3.0dev0| | | | | | | | :white_check_mark: | |TwistedWeb:20.3.0||
 |[https://vpn.bzknpr.odc-noord.nl](https://vpn.bzknpr.odc-noord.nl)| | **E**|OpenVPN-AS| | | | | | :white_check_mark: | | :white_check_mark: | |||
 |[https://vpn.bzkprd.odc-noord.nl](https://vpn.bzkprd.odc-noord.nl)| | **F**|OpenVPN-AS| | | | | | | | :white_check_mark: | |||
 |[https://vpn.gn2.koop-a.odc-noord.nl](https://vpn.gn2.koop-a.odc-noord.nl)| | **F**|OpenVPN-AS| | | | | | | | :white_check_mark: | |||

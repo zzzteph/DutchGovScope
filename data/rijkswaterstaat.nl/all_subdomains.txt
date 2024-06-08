@@ -669,3 +669,5 @@ www.test.sftp.esb.intranet.rijkswaterstaat.nl
 innovatieloket-acc.rijkswaterstaat.nl
 innovatieloket-tst.rijkswaterstaat.nl
 innovatieloket.rijkswaterstaat.nl
+acceptatie.mq.esb.rijkswaterstaat.nl
+mq.esb.rijkswaterstaat.nl

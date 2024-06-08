@@ -63,7 +63,6 @@ https://socjenv-acc.topdesk.odc-noord.nl
 https://socjenv-prd.topdesk.odc-noord.nl
 https://terraform.odc-noord.nl
 https://vpn.a4.odc-noord.nl
-https://vpn.bzkdgvbrnpr.odc-noord.nl
 https://vpn.bzknpr.odc-noord.nl
 https://vpn.bzkprd.odc-noord.nl
 https://vpn.gn2.koop-a.odc-noord.nl

@@ -25,7 +25,7 @@
 |[https://mft-e.minbzk.nl](https://mft-e.minbzk.nl)| **A+**| **A**|SecureTransport 5.5-20230427 (build: 3179) - Linux|:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://www.minbzk.nl](https://www.minbzk.nl)| **A+**| **A**|Microsoft-IIS/10.0| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS IIS:10.0 Windows Server|Document Moved|
 |[https://minbzk.nl](https://minbzk.nl)| **A+**| **A**|Microsoft-IIS/10.0| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS IIS:10.0 Windows Server|Document Moved|
-|[https://prisma.minbzk.nl](https://prisma.minbzk.nl)| **A+**| **C**|Apache|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS||
+|[https://prisma.minbzk.nl](https://prisma.minbzk.nl)| **A+**| **C**|Apache|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS Varnish:6.6||
 |[https://loc.minbzk.nl](https://loc.minbzk.nl)| **A+**| **B**|Class|:white_check_mark: |:white_check_mark: | | |:warning: | | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://flowlogics.minbzk.nl](https://flowlogics.minbzk.nl)| | **F**|Microsoft-IIS/8.5| | | | | | | | :white_check_mark: | |Basic IIS:8.5 Microsoft ASP.NET Windows Server|401 - Unauthoriz...|
 |[https://acc-flowlogics.minbzk.nl](https://acc-flowlogics.minbzk.nl)| | **F**|Microsoft-IIS/8.5| | | | | | | | :white_check_mark: | |Basic IIS:8.5 Microsoft ASP.NET Windows Server|401 - Unauthoriz...|

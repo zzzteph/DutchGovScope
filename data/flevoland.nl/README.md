@@ -11,7 +11,7 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/flevoland.nl/subdomains.txt)|107|Alive subdomains|
+|[subdomains.txt](/data/flevoland.nl/subdomains.txt)|108|Alive subdomains|
 |[urls.txt](/data/flevoland.nl/urls.txt)|79|Urls|
 |[all_subdomains.txt](/data/flevoland.nl/all_subdomains.txt)|226|All found subdomains (history)|
 

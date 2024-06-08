@@ -703,7 +703,7 @@
 |[http://cs276.waterschaplimburg.nl](http://cs276.waterschaplimburg.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
 |[http://inge.waterschaplimburg.nl](http://inge.waterschaplimburg.nl)| | **E**|Microsoft-HTTPAPI/2.0| | | | | | :white_check_mark: | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
 |[http://bliv.waterschaplimburg.nl](http://bliv.waterschaplimburg.nl)| | **E**|Microsoft-HTTPAPI/2.0| | | | | | :white_check_mark: | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
-|[http://sedna.waterschaplimburg.nl](http://sedna.waterschaplimburg.nl)| | **E**|Microsoft-HTTPAPI/2.0| | | | | | :white_check_mark: | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
+|[http://sedna.waterschaplimburg.nl](http://sedna.waterschaplimburg.nl)| | **D**|| | | | | | :white_check_mark: | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
 |[http://odl.waterschaplimburg.nl](http://odl.waterschaplimburg.nl)| | **D**|| | | | | | :white_check_mark: | | :white_check_mark: | ||Attack Detected|
 |[http://alig.waterschaplimburg.nl](http://alig.waterschaplimburg.nl)| | **D**|| | | | | | :white_check_mark: | | :white_check_mark: | ||Attack Detected|
 |[http://denken.waterschaplimburg.nl](http://denken.waterschaplimburg.nl)| | **D**|| | | | | | :white_check_mark: | | :white_check_mark: | ||Attack Detected|
@@ -1159,7 +1159,7 @@
 |[http://zoeken.waterschaplimburg.nl](http://zoeken.waterschaplimburg.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
 |[http://web17685.waterschaplimburg.nl](http://web17685.waterschaplimburg.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
 |[http://adios.waterschaplimburg.nl](http://adios.waterschaplimburg.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
-|[http://web17512.waterschaplimburg.nl](http://web17512.waterschaplimburg.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
+|[http://web17512.waterschaplimburg.nl](http://web17512.waterschaplimburg.nl)| | **E**|Microsoft-HTTPAPI/2.0| | | | | | :white_check_mark: | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
 |[http://gbv.waterschaplimburg.nl](http://gbv.waterschaplimburg.nl)| | **E**|Microsoft-HTTPAPI/2.0| | | | | | :white_check_mark: | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
 |[http://vergelijkingswebsites.waterschaplimburg.nl](http://vergelijkingswebsites.waterschaplimburg.nl)| | **E**|Microsoft-HTTPAPI/2.0| | | | | | :white_check_mark: | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
 |[http://busreis.waterschaplimburg.nl](http://busreis.waterschaplimburg.nl)| | **D**|| | | | | | :white_check_mark: | | :white_check_mark: | ||Attack Detected|
@@ -1365,7 +1365,7 @@
 |[http://icicibank.waterschaplimburg.nl](http://icicibank.waterschaplimburg.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
 |[http://wpe.waterschaplimburg.nl](http://wpe.waterschaplimburg.nl)| | **E**|Microsoft-HTTPAPI/2.0| | | | | | :white_check_mark: | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
 |[http://content-drive.waterschaplimburg.nl](http://content-drive.waterschaplimburg.nl)| | **E**|Microsoft-HTTPAPI/2.0| | | | | | :white_check_mark: | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
-|[http://ptr2.waterschaplimburg.nl](http://ptr2.waterschaplimburg.nl)| | **D**|| | | | | | :white_check_mark: | | :white_check_mark: | ||Attack Detected|
+|[http://ptr2.waterschaplimburg.nl](http://ptr2.waterschaplimburg.nl)| | **E**|Microsoft-HTTPAPI/2.0| | | | | | :white_check_mark: | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
 |[http://static-02.waterschaplimburg.nl](http://static-02.waterschaplimburg.nl)| | **D**|| | | | | | :white_check_mark: | | :white_check_mark: | ||Attack Detected|
 |[http://fotoservice.waterschaplimburg.nl](http://fotoservice.waterschaplimburg.nl)| | **D**|| | | | | | :white_check_mark: | | :white_check_mark: | ||Attack Detected|
 |[http://lightroom.waterschaplimburg.nl](http://lightroom.waterschaplimburg.nl)| | **D**|| | | | | | :white_check_mark: | | :white_check_mark: | ||Attack Detected|

@@ -1,6 +1,5 @@
 https://acc-bergerselect.rws.nl
 https://acc-geo.rws.nl
-https://acc-inloggen.rws.nl
 https://acc-maps.rws.nl
 https://acc-port-enc.rws.nl
 http://acc-webportaal.rws.nl
@@ -83,7 +82,6 @@ https://programmaplan.vm-02.azure.grid.rws.nl
 https://prometheus.vm-02.azure.grid.rws.nl
 https://protide.rws.nl
 http://prs.rws.nl
-https://ptp.acc-inloggen.rws.nl
 https://ptp.inloggen.rws.nl
 https://rastoken.rws.nl
 https://rhel8.wabinfo.rws.nl
@@ -101,8 +99,8 @@ https://test.bezoekerscentrum.rws.nl
 https://test.esb.rws.nl
 http://test.liwo.intranet.rws.nl
 https://test.lma.rws.nl
-https://test.nlhull.rws.nl
-http://test.nlrdms.rws.nl
+http://test.nlhull.rws.nl
+https://test.nlrdms.rws.nl
 https://tmxweb.rws.nl
 https://toegangderden.rws.nl
 https://topdesk-iv.rws.nl

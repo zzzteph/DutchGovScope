@@ -166,6 +166,7 @@ oxygen.vm-02.azure.grid.rws.nl
 wiki.rws.nl
 esb-werkstation-2.vm-02.azure.grid.rws.nl
 spin2.rws.nl
+gitlab.at.rws.nl
 mqtt.edge.rws.nl
 test-inloggen.rws.nl
 ddapi-preprod.rws.nl

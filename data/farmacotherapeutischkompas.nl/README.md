@@ -11,7 +11,7 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/farmacotherapeutischkompas.nl/subdomains.txt)|16|Alive subdomains|
+|[subdomains.txt](/data/farmacotherapeutischkompas.nl/subdomains.txt)|17|Alive subdomains|
 |[urls.txt](/data/farmacotherapeutischkompas.nl/urls.txt)|5|Urls|
 |[all_subdomains.txt](/data/farmacotherapeutischkompas.nl/all_subdomains.txt)|18|All found subdomains (history)|
 

@@ -6,14 +6,14 @@
 
  - **SSL Grade**:A-
  - **HTTP Security Grade**:E
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:16272
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:16270
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/mett.nl/subdomains.txt)|19773|Alive subdomains|
+|[subdomains.txt](/data/mett.nl/subdomains.txt)|21831|Alive subdomains|
 |[urls.txt](/data/mett.nl/urls.txt)|17045|Urls|
-|[all_subdomains.txt](/data/mett.nl/all_subdomains.txt)|21842|All found subdomains (history)|
+|[all_subdomains.txt](/data/mett.nl/all_subdomains.txt)|23200|All found subdomains (history)|
 
 
 ## Statistics
@@ -32,7 +32,7 @@
 |[https://beatrixsluis.mett.nl](https://beatrixsluis.mett.nl)| **A**| **E**|| | | | | | | | :white_check_mark: | ||Document Moved|
 |[https://beuningseuiterwaarden.mett.nl](https://beuningseuiterwaarden.mett.nl)| **A**| **E**|| | | | | | | | :white_check_mark: | ||Document Moved|
 |[https://burgerbepaaltnoord.mett.nl](https://burgerbepaaltnoord.mett.nl)| **A**| **E**|| | | | | | | | :white_check_mark: | ||Document Moved|
-|[https://childrenofkilimanjaro.mett.nl](https://childrenofkilimanjaro.mett.nl)| **A**| **E**|| | | | | | | | :white_check_mark: | ||Document Moved|
+|[https://childrenofkilimanjaro.mett.nl](https://childrenofkilimanjaro.mett.nl)| **A**| **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | ||Document Moved|
 |[https://cjgrijswijk.mett.nl](https://cjgrijswijk.mett.nl)| **A+**| **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Object moved|
 |[https://connectingmobility.mett.nl](https://connectingmobility.mett.nl)| **A**| **E**|| | | | | | | | :white_check_mark: | ||Document Moved|
 |[https://cpanel.dnshulp.mett.nl](https://cpanel.dnshulp.mett.nl)| **F**| **E**|| | | | | | | | :white_check_mark: | ||Document Moved|
@@ -381,14 +381,14 @@
 |[https://faber.mett.nl](https://faber.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Document Moved|
 |[https://ftp.mett.nl](https://ftp.mett.nl)| | **F**|Apache/2| | | | | | | | :white_check_mark: | |Apache HTTP Server:2||
 |[https://robert.mett.nl](https://robert.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS|Object moved|
-|[https://tom.mett.nl](https://tom.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Object moved|
+|[http://tom.mett.nl](http://tom.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET||
 |[https://htx.mett.nl](https://htx.mett.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET|Object moved|
 |[https://iii.mett.nl](https://iii.mett.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | ||Document Moved|
 |[https://performance.mett.nl](https://performance.mett.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx Pingdom Uptime Monitoring|Pingdom Public R...|
 |[https://securevpn.mett.nl](https://securevpn.mett.nl)| | **A**|Barracuda CloudGen Firewall| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://storage.mett.nl](https://storage.mett.nl)| | **F**|Windows-Azure-Blob/1.0 Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Azure Microsoft HTTPAPI:2.0||
-|[http://testserver.mett.nl](http://testserver.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
-|[https://waf.mett.nl](https://waf.mett.nl)| | **F**||:o: | | | | | | | :white_check_mark: | |Microsoft ASP.NET|Validation reque...|
+|[https://testserver.mett.nl](https://testserver.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Mett Hello World...|
+|[https://waf.mett.nl](https://waf.mett.nl)| | **F**||:o: | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET YouTube|Object moved|
 |[https://zendesk1.mett.nl](https://zendesk1.mett.nl)| | **F**|cloudflare| | | | | | | | :white_check_mark: | |Cloudflare|403 Forbidden|
 |[https://zendesk2.mett.nl](https://zendesk2.mett.nl)| | **F**|cloudflare| | | | | | | | :white_check_mark: | |Cloudflare|403 Forbidden|
 |[https://zendesk3.mett.nl](https://zendesk3.mett.nl)| | **F**|cloudflare| | | | | | | | :white_check_mark: | |Cloudflare|403 Forbidden|

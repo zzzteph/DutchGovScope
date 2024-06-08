@@ -6,14 +6,14 @@
 
  - **SSL Grade**:
  - **HTTP Security Grade**:B
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:38
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:39
 
 
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/irealisatie.nl/subdomains.txt)|54|Alive subdomains|
-|[urls.txt](/data/irealisatie.nl/urls.txt)|51|Urls|
-|[all_subdomains.txt](/data/irealisatie.nl/all_subdomains.txt)|56|All found subdomains (history)|
+|[urls.txt](/data/irealisatie.nl/urls.txt)|52|Urls|
+|[all_subdomains.txt](/data/irealisatie.nl/all_subdomains.txt)|62|All found subdomains (history)|
 
 
 ## Statistics
@@ -72,4 +72,5 @@
 |[http://test.dusi.irealisatie.nl](http://test.dusi.irealisatie.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://jaeger.test.zm.irealisatie.nl](https://jaeger.test.zm.irealisatie.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |Basic HSTS|401 Unauthorized|
 |[https://pgodemo.test.zm.irealisatie.nl](https://pgodemo.test.zm.irealisatie.nl)| | **A**|Apache| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server Basic HSTS|401 Unauthorized|
+|[https://web.acc.irealisatie.nl](https://web.acc.irealisatie.nl)| | **A**|Apache| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |Apache HTTP Server Basic HSTS|401 Unauthorized|
 

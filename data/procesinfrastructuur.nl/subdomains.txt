@@ -131,3 +131,4 @@ preprod-diginetwerk.procesinfrastructuur.nl
 test-bd-internet.procesinfrastructuur.nl
 exp1-beheer.procesinfrastructuur.nl
 ebf.procesinfrastructuur.nl
+globe2-ebms-internet.procesinfrastructuur.nl

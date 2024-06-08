@@ -21,7 +21,7 @@
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://feedback.talentisbelangrijker.nl](https://feedback.talentisbelangrijker.nl)| **F**| **E**|| | | | | | | | :white_check_mark: | |Azure HSTS|Startpagina|
+|[https://feedback.talentisbelangrijker.nl](https://feedback.talentisbelangrijker.nl)| **F**| **E**|| | | | | | | | :white_check_mark: | |Azure HSTS Microsoft ASP.NET|Startpagina|
 |[https://www.talentisbelangrijker.nl](https://www.talentisbelangrijker.nl)| **A+**| **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET YouTube|Object moved|
 |[https://talentisbelangrijker.nl](https://talentisbelangrijker.nl)| **A+**| **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET YouTube|Object moved|
 

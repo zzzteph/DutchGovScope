@@ -37,10 +37,10 @@ tags: dutchgov
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://mail.zeeweringen.nl](https://mail.zeeweringen.nl)| **F**| **F**|nginx/1.24.0| | | | | | | | :white_check_mark: | |Nginx:1.24.0|Hostnet: Uw dome...|
-|[https://www.zeeweringen.nl](https://www.zeeweringen.nl)| **A**| **F**|nginx/1.24.0| | | | | | | | :white_check_mark: | |Nginx:1.24.0|Zeeweringen|
-|[https://ww2.zeeweringen.nl](https://ww2.zeeweringen.nl)| **F**| **F**|nginx/1.24.0| | | | | | | | :white_check_mark: | |Nginx:1.24.0|Hostnet: Uw dome...|
-|[https://conferentie.zeeweringen.nl](https://conferentie.zeeweringen.nl)| **F**| **F**|nginx/1.24.0| | | | | | | | :white_check_mark: | |Nginx:1.24.0|Hostnet: Uw dome...|
-|[https://zeeweringen.nl](https://zeeweringen.nl)| **A**| **F**|nginx/1.24.0| | | | | | | | :white_check_mark: | |Nginx:1.24.0|Zeeweringen|
+|[https://mail.zeeweringen.nl](https://mail.zeeweringen.nl)| **F**| **F**|nginx/1.26.1| | | | | | | | :white_check_mark: | |Nginx:1.26.1|Hostnet: Uw dome...|
+|[https://www.zeeweringen.nl](https://www.zeeweringen.nl)| **A**| **F**|nginx/1.26.1| | | | | | | | :white_check_mark: | |Nginx:1.26.1|Zeeweringen|
+|[https://ww2.zeeweringen.nl](https://ww2.zeeweringen.nl)| **F**| **F**|nginx/1.26.1| | | | | | | | :white_check_mark: | |Nginx:1.26.1|Hostnet: Uw dome...|
+|[https://conferentie.zeeweringen.nl](https://conferentie.zeeweringen.nl)| **F**| **F**|nginx/1.26.1| | | | | | | | :white_check_mark: | |Nginx:1.26.1|Hostnet: Uw dome...|
+|[https://zeeweringen.nl](https://zeeweringen.nl)| **A**| **F**|nginx/1.26.1| | | | | | | | :white_check_mark: | |Nginx:1.26.1|Zeeweringen|
 |[https://webmail.zeeweringen.nl](https://webmail.zeeweringen.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|301 Moved Perman...|
 

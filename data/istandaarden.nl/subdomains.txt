@@ -11,6 +11,7 @@ www-ac.istandaarden.nl
 istandaarden.nl
 registry.acceptatie.istandaarden.nl
 repository.acceptatie.istandaarden.nl
+www-p.istandaarden.nl
 www-dev.istandaarden.nl
 www-acc.istandaarden.nl
 www-ow.istandaarden.nl

@@ -13,7 +13,7 @@
 |------------|-------|------|
 |[subdomains.txt](/data/ssonet.nl/subdomains.txt)|40|Alive subdomains|
 |[urls.txt](/data/ssonet.nl/urls.txt)|4|Urls|
-|[all_subdomains.txt](/data/ssonet.nl/all_subdomains.txt)|92|All found subdomains (history)|
+|[all_subdomains.txt](/data/ssonet.nl/all_subdomains.txt)|93|All found subdomains (history)|
 
 
 ## Statistics

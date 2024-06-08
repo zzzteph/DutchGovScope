@@ -2,7 +2,7 @@
 layout: default
 title: "horizonscangeneesmiddelen.nl"
 permalink: "/dutchgov/horizonscangeneesmiddelen.nl.html"
-subdomains_count: 9
+subdomains_count: 10
 all_subdomains_count: 10
 urls_count: 4
 ssl_rank: A+
@@ -27,7 +27,7 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/horizonscangeneesmiddelen.nl/subdomains.txt)|9|Alive subdomains|
+|[subdomains.txt](/DutchGovScope/data/horizonscangeneesmiddelen.nl/subdomains.txt)|10|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/horizonscangeneesmiddelen.nl/urls.txt)|4|Urls|
 |[all_subdomains.txt](/DutchGovScope/data/horizonscangeneesmiddelen.nl/all_subdomains.txt)|10|All found subdomains (history)|
 

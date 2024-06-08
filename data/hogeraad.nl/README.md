@@ -21,7 +21,7 @@
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://stats.hogeraad.nl](https://stats.hogeraad.nl)| **A**| **C**|Microsoft-IIS/10.0|:white_check_mark: |:white_check_mark: | | |:warning: | | | :white_check_mark: | |HSTS IIS:10.0 PHP:8.2.18 Windows Server|Matomo › Error|
+|[https://stats.hogeraad.nl](https://stats.hogeraad.nl)| **A**| **C**|Microsoft-IIS/10.0|:white_check_mark: |:white_check_mark: | | |:warning: | | | :white_check_mark: | |HSTS IIS:10.0 Matomo Analytics PHP:8.2.19 Windows Server|Sign in - Matomo|
 |[https://desktop.hogeraad.nl](https://desktop.hogeraad.nl)| **A+**| **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS||
 |[http://asts.hogeraad.nl](http://asts.hogeraad.nl)| **B**| **E**|| | | | | | | | :white_check_mark: | |||
 |[https://mijnzaak.hogeraad.nl](https://mijnzaak.hogeraad.nl)| **B**| **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Object moved|
@@ -36,7 +36,7 @@
 |[https://siam-acc.hogeraad.nl](https://siam-acc.hogeraad.nl)| **A+**| **A**|N.A.| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bootstrap HSTS|Hoge Raad der Ne...|
 |[https://sts.hogeraad.nl](https://sts.hogeraad.nl)| **A**| **D**||:o: | | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Basic||
 |[http://autodiscover.hogeraad.nl](http://autodiscover.hogeraad.nl)| **A**| **E**|| | | | | | | | :white_check_mark: | |||
-|[http://postbus-acc.hogeraad.nl](http://postbus-acc.hogeraad.nl)| **B**| **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET||
+|[https://postbus-acc.hogeraad.nl](https://postbus-acc.hogeraad.nl)| **B**| **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET||
 |[https://mijnzaak-acc.hogeraad.nl](https://mijnzaak-acc.hogeraad.nl)| **B**| **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Object moved|
 |[https://mail.hogeraad.nl](https://mail.hogeraad.nl)| **A**| **A**|| | | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |||
 |[https://hogeraad.nl](https://hogeraad.nl)| **B**| **A**||:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |||

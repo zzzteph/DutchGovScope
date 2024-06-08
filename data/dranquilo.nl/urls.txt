@@ -3,4 +3,3 @@ https://opendata.dranquilo.nl
 https://www.dranquilo.nl
 https://dranquilo.nl
 https://server01.dranquilo.nl
-https://staging.dranquilo.nl

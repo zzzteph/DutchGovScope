@@ -1,11 +1,11 @@
 https://mailings.noord-holland.nl
 https://apollo4.noord-holland.nl
 https://subsidies.noord-holland.nl
-http://meet.noord-holland.nl
+https://meet.noord-holland.nl
 http://zoeken.noord-holland.nl
 https://dataiku.noord-holland.nl
 https://esm.noord-holland.nl
-https://statensite.noord-holland.nl
+http://statensite.noord-holland.nl
 https://formulieren.noord-holland.nl
 https://developer.noord-holland.nl
 https://design-node.datalab-prod.aws.noord-holland.nl
@@ -25,7 +25,6 @@ https://owas1.noord-holland.nl
 https://automation-node.datalab-prod.aws.noord-holland.nl
 https://geoapps.noord-holland.nl
 https://lyncdiscover.noord-holland.nl
-https://cag.noord-holland.nl
 https://autodiscover.noord-holland.nl
 https://geoapps3.noord-holland.nl
 https://apollo.noord-holland.nl

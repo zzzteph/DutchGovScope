@@ -94,3 +94,4 @@ webtest10.rijksoverheid.nl
 i-www.rijksoverheid.nl
 landingpage.rijksoverheid.nl
 relay.rijksoverheid.nl
+e-mailabonnementen.rijksoverheid.nl
