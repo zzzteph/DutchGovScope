@@ -12,7 +12,7 @@
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/etoegang.nl/subdomains.txt)|18|Alive subdomains|
-|[urls.txt](/data/etoegang.nl/urls.txt)|4|Urls|
+|[urls.txt](/data/etoegang.nl/urls.txt)|5|Urls|
 |[all_subdomains.txt](/data/etoegang.nl/all_subdomains.txt)|27|All found subdomains (history)|
 
 
@@ -21,6 +21,7 @@
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
+|[https://afsprakenstelsel.etoegang.nl](https://afsprakenstelsel.etoegang.nl)| **A+**| **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |Amazon CloudFront Amazon Web Services HSTS HTTP/3||
 |[https://aggregator.etoegang.nl](https://aggregator.etoegang.nl)| **A+**| **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|403 Forbidden|
 |[https://simulator.etoegang.nl](https://simulator.etoegang.nl)| **A+**| **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|eHerkenning / si...|
 |[https://s3.etoegang.nl](https://s3.etoegang.nl)| **A+**| **A**|| |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | |Amazon Web Services HSTS||

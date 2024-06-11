@@ -4,7 +4,7 @@ title: "huurcommissie.nl"
 permalink: "/dutchgov/huurcommissie.nl.html"
 subdomains_count: 45
 all_subdomains_count: 65
-urls_count: 21
+urls_count: 22
 ssl_rank: A+
 http_rank: C
 security_txt: 7
@@ -28,7 +28,7 @@ tags: dutchgov
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/DutchGovScope/data/huurcommissie.nl/subdomains.txt)|45|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/huurcommissie.nl/urls.txt)|21|Urls|
+|[urls.txt](/DutchGovScope/data/huurcommissie.nl/urls.txt)|22|Urls|
 |[all_subdomains.txt](/DutchGovScope/data/huurcommissie.nl/all_subdomains.txt)|65|All found subdomains (history)|
 
 
@@ -50,6 +50,7 @@ tags: dutchgov
 |[https://feeds.huurcommissie.nl](https://feeds.huurcommissie.nl)| **A+**| **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://huurcommissie.nl](https://huurcommissie.nl)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
 |[https://hip.huurcommissie.nl](https://hip.huurcommissie.nl)| **A+**| **A**|nginx| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS Nginx|Huurcommissie|
+|[https://huurprijscheck.huurcommissie.nl](https://huurprijscheck.huurcommissie.nl)| | **E**|| | | | | | | | :white_check_mark: | ||403 - You have n...|
 |[https://synergy.huurcommissie.nl](https://synergy.huurcommissie.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
 |[https://enterpriseenrollment.huurcommissie.nl](https://enterpriseenrollment.huurcommissie.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||
 |[https://enterpriseregistration.huurcommissie.nl](https://enterpriseregistration.huurcommissie.nl)| | **E**|| | | | | | | | :white_check_mark: | |||

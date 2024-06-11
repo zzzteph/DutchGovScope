@@ -11,8 +11,8 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/kvk.nl/subdomains.txt)|192|Alive subdomains|
-|[urls.txt](/data/kvk.nl/urls.txt)|59|Urls|
+|[subdomains.txt](/data/kvk.nl/subdomains.txt)|191|Alive subdomains|
+|[urls.txt](/data/kvk.nl/urls.txt)|58|Urls|
 |[all_subdomains.txt](/data/kvk.nl/all_subdomains.txt)|490|All found subdomains (history)|
 
 
@@ -45,7 +45,6 @@
 |[https://msafe.kvk.nl](https://msafe.kvk.nl)| **A+**| **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |Azure Azure Front Door HSTS||
 |[https://ondertekenen-id.acp.kvk.nl](https://ondertekenen-id.acp.kvk.nl)| **A+**| **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Kamer van Koopha...|
 |[https://idp.dev.kvk.nl](https://idp.dev.kvk.nl)| | **A**|Unknown| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS|403 Forbidden|
-|[https://ssltest.kvk.nl](https://ssltest.kvk.nl)| **F**| **E**|| | | | | | | | :white_check_mark: | |||
 |[https://idp.kvk.nl](https://idp.kvk.nl)| **A+**| **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS||
 |[https://cloud.email.kvk.nl](https://cloud.email.kvk.nl)| **A**| **E**|| | | | | | | | :white_check_mark: | ||404 - File or di...|
 |[https://werkenbij.kvk.nl](https://werkenbij.kvk.nl)| **B**| **A**|| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Google Tag Manager HSTS Microsoft ASP.NET:4.0.30319|Vacatures en car...|

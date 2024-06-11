@@ -4,15 +4,15 @@
 ## Summary data
 
 
- - **SSL Grade**:A+
- - **HTTP Security Grade**:A
+ - **SSL Grade**:A
+ - **HTTP Security Grade**:B
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:11
 
 
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/igj.nl/subdomains.txt)|54|Alive subdomains|
-|[urls.txt](/data/igj.nl/urls.txt)|15|Urls|
+|[urls.txt](/data/igj.nl/urls.txt)|17|Urls|
 |[all_subdomains.txt](/data/igj.nl/all_subdomains.txt)|73|All found subdomains (history)|
 
 
@@ -36,4 +36,6 @@
 |[https://igj.nl](https://igj.nl)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
 |[https://toezichtopzorgnetwerken.igj.nl](https://toezichtopzorgnetwerken.igj.nl)| | **F**|nginx/1.18.0 (Ubuntu)| | | | | | | | :white_check_mark: | |Nginx:1.18.0 Ubuntu|toezichtopzorgne...|
 |[https://onstoezicht.igj.nl](https://onstoezicht.igj.nl)| | **F**|nginx/1.18.0 (Ubuntu)| | | | | | | | :white_check_mark: | |Nginx:1.18.0 Ubuntu|onstoezicht.igj....|
+|[http://survey-acc.igj.nl](http://survey-acc.igj.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
+|[http://survey-beheeracc.igj.nl](http://survey-beheeracc.igj.nl)| **F**| **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
 

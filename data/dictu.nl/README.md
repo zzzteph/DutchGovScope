@@ -13,7 +13,7 @@
 |------------|-------|------|
 |[subdomains.txt](/data/dictu.nl/subdomains.txt)|149|Alive subdomains|
 |[urls.txt](/data/dictu.nl/urls.txt)|72|Urls|
-|[all_subdomains.txt](/data/dictu.nl/all_subdomains.txt)|284|All found subdomains (history)|
+|[all_subdomains.txt](/data/dictu.nl/all_subdomains.txt)|285|All found subdomains (history)|
 
 
 ## Statistics

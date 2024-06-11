@@ -19,7 +19,7 @@ https://feeds.nieuwsbrieven.rijkswaterstaat.nl
 https://geo.rijkswaterstaat.nl
 https://geoservices.rijkswaterstaat.nl
 https://geoweb.rijkswaterstaat.nl
-https://hld.rijkswaterstaat.nl
+http://hld.rijkswaterstaat.nl
 https://iam.rijkswaterstaat.nl
 https://inloggen.rijkswaterstaat.nl
 https://loket.rijkswaterstaat.nl
@@ -80,7 +80,7 @@ https://www.werkenbij.rijkswaterstaat.nl
 https://zaaksysteem.rijkswaterstaat.nl
 https://zwerfafval.rijkswaterstaat.nl
 https://rijkswaterstaat.nl
-https://innovatie-test.rijkswaterstaat.nl
+http://innovatie-test.rijkswaterstaat.nl
 https://bmm2016.rijkswaterstaat.nl
 https://acceptatie-bmm2016.rijkswaterstaat.nl
 https://techniekacademie.rijkswaterstaat.nl

@@ -592,6 +592,11 @@ https://dvnl31.dans.knaw.nl
 https://osso-a.knaw.nl
 https://ossooam-a.knaw.nl
 https://ebs-a.knaw.nl
+https://ebs-o.knaw.nl
+https://obi-o.knaw.nl
+https://osso-o.knaw.nl
+https://ossooam-o.knaw.nl
+https://taoracleapp23.knaw.nl
 https://taoracleapp21.knaw.nl
 https://ebs-t.knaw.nl
 https://osso-t.knaw.nl
@@ -650,7 +655,7 @@ https://ninweb.knaw.nl
 https://twww11.meertens.knaw.nl
 https://openskos.meertens.knaw.nl
 https://oracleapp21.knaw.nl
-http://password.knaw.nl
+https://password.knaw.nl
 https://pdvnl31.dans.knaw.nl
 https://rathenau-wiki.knaw.nl
 https://sc-adfs.spinozacentre.knaw.nl
@@ -769,6 +774,7 @@ https://wp-05.dev.huc.knaw.nl
 https://vangogh-api.dev.huc.knaw.nl
 https://wp-10.dev.huc.knaw.nl
 https://wp-01.dev.huc.knaw.nl
+https://ai-similia.labs.dans.knaw.nl
 https://wp-16.dev.huc.knaw.nl
 https://ss31.dans.knaw.nl
 https://repository-assistant.labs.dans.knaw.nl

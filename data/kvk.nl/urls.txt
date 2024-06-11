@@ -22,7 +22,6 @@ https://developers.kvk.nl
 https://msafe.kvk.nl
 https://ondertekenen-id.acp.kvk.nl
 https://idp.dev.kvk.nl
-https://ssltest.kvk.nl
 https://idp.kvk.nl
 https://cloud.email.kvk.nl
 https://werkenbij.kvk.nl

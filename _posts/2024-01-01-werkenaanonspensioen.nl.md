@@ -7,7 +7,7 @@ all_subdomains_count: 8
 urls_count: 5
 ssl_rank: A+
 http_rank: A
-security_txt: 4
+security_txt: 5
 url_link: /data/werkenaanonspensioen.nl/urls.txt
 all_subdomains_link: /data/werkenaanonspensioen.nl/all_subdomains.txt
 subdomains_link: /data/werkenaanonspensioen.nl/subdomains.txt
@@ -22,7 +22,7 @@ tags: dutchgov
 
  - **SSL Grade**:A+
  - **HTTP Security Grade**:A
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:4
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:5
 
 
 | File       | Count | Info |
@@ -40,6 +40,6 @@ tags: dutchgov
 |[https://www.werkenaanonspensioen.nl](https://www.werkenaanonspensioen.nl)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Home | Werken aa...|
 |[https://feeds.werkenaanonspensioen.nl](https://feeds.werkenaanonspensioen.nl)| **A+**| **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://opendata.werkenaanonspensioen.nl](https://opendata.werkenaanonspensioen.nl)| **A+**| **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
-|[https://zoeken.werkenaanonspensioen.nl](https://zoeken.werkenaanonspensioen.nl)| **A+**| **C**||:o: |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS||
+|[https://zoeken.werkenaanonspensioen.nl](https://zoeken.werkenaanonspensioen.nl)| **A+**| **C**||:o: |:white_check_mark: | | | :white_check_mark:| | | :white_check_mark: | |HSTS||
 |[https://werkenaanonspensioen.nl](https://werkenaanonspensioen.nl)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
 

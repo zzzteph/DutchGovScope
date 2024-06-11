@@ -37,7 +37,7 @@ tags: dutchgov
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://www.rtlnieuws.nl](https://www.rtlnieuws.nl)| **A+**| **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Drupal:10 Google Tag Manager HSTS PHP:8.1.27 ZURB Foundation|RTL Nieuws|
+|[https://www.rtlnieuws.nl](https://www.rtlnieuws.nl)| **A+**| **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Drupal:10 Google Tag Manager HSTS PHP:8.2.19 ZURB Foundation|RTL Nieuws|
 |[https://rtlnieuws.nl](https://rtlnieuws.nl)| **A**| **A**|Microsoft-Azure-Application-Gateway/v2| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | ||301 Moved Perman...|
 |[https://acc.rtlnieuws.nl](https://acc.rtlnieuws.nl)| | **F**|AkamaiGHost| | | | | | | | :white_check_mark: | |Basic|Access Denied|
 |[https://acc-beta.rtlnieuws.nl](https://acc-beta.rtlnieuws.nl)| | **F**|AkamaiGHost| | | | | | | | :white_check_mark: | |Basic|Access Denied|

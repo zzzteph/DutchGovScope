@@ -6,7 +6,7 @@
 
  - **SSL Grade**:
  - **HTTP Security Grade**:A
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:6
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:5
 
 
 | File       | Count | Info |
@@ -22,7 +22,7 @@
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[https://elearning.platformrijksoverheid.nl](https://elearning.platformrijksoverheid.nl)| | **B**|nginx| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS Moodle Nginx PHP|Doorverwijspagin...|
-|[https://survey-collect.platformrijksoverheid.nl](https://survey-collect.platformrijksoverheid.nl)| | **A**|nginx|:warning: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Amazon S3 Amazon Web Services HSTS Nginx PHP||
+|[https://survey-collect.platformrijksoverheid.nl](https://survey-collect.platformrijksoverheid.nl)| | **F**|AmazonS3| | | | | | | | :white_check_mark: | |Amazon CloudFront Amazon S3 Amazon Web Services||
 |[https://survey-cache.platformrijksoverheid.nl](https://survey-cache.platformrijksoverheid.nl)| | **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |Amazon CloudFront Amazon Web Services HSTS Nginx||
 |[https://ps3.platformrijksoverheid.nl](https://ps3.platformrijksoverheid.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://opendata.platformrijksoverheid.nl](https://opendata.platformrijksoverheid.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|Niet gevonden|

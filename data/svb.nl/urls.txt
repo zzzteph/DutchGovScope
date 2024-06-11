@@ -28,7 +28,7 @@ https://pages.svb.nl
 https://rdsapplications06.svb.nl
 https://mijnpgb.svb.nl
 https://leerplein.svb.nl
-http://test-intranet.svb.nl
+https://test-intranet.svb.nl
 https://outlook.svb.nl
 https://rdsapplications05.svb.nl
 https://desktop.entreepgb.svb.nl
@@ -38,7 +38,7 @@ https://mijnpgb-siam.svb.nl
 http://www.entreepgb.svb.nl
 https://rdsapplications04.svb.nl
 https://rdsapplications02.svb.nl
-http://test-cmsintranet.svb.nl
+https://test-cmsintranet.svb.nl
 https://rdsapplications01.svb.nl
 https://downloaddomain.svb.nl
 https://internetdienstensiam.svb.nl
@@ -46,7 +46,6 @@ https://formulieren.svb.nl
 https://app-a.svb.nl
 https://intranet.svb.nl
 https://assyst.svb.nl
-https://mydev.svb.nl
 https://svb.nl
 https://mydesktop.svb.nl
 https://autodiscover.svb.nl

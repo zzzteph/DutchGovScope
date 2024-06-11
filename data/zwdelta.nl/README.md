@@ -6,7 +6,7 @@
 
  - **SSL Grade**:B+
  - **HTTP Security Grade**:E
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:2
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:0
 
 
 | File       | Count | Info |
@@ -22,9 +22,9 @@
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[https://acceptatie.zwdelta.nl](https://acceptatie.zwdelta.nl)| **F**| **F**|nginx| | | | | | | | :white_check_mark: | |MySQL Nginx PHP WordPress|Aanbouw - ACC si...|
-|[https://platform.zwdelta.nl](https://platform.zwdelta.nl)| **A+**| **E**|| | | | | | | | :white_check_mark: | |HSTS|Object moved|
-|[https://www.zwdelta.nl](https://www.zwdelta.nl)| **A+**| **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |Google Tag Manager HSTS MySQL Nginx PHP WordPress:6.5.3 Yoast SEO:22.7|Home - Zuidweste...|
-|[https://www.platform.zwdelta.nl](https://www.platform.zwdelta.nl)| **A**| **E**|| | | | | | | | :white_check_mark: | ||Document Moved|
+|[http://platform.zwdelta.nl](http://platform.zwdelta.nl)| **A+**| **E**|| | | | | | | | :white_check_mark: | |HSTS||
+|[https://www.zwdelta.nl](https://www.zwdelta.nl)| **A+**| **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |Google Tag Manager HSTS MySQL Nginx PHP WordPress:6.5.4 Yoast SEO:22.8|Home - Zuidweste...|
+|[http://www.platform.zwdelta.nl](http://www.platform.zwdelta.nl)| **A**| **E**|| | | | | | | | :white_check_mark: | |||
 |[https://zwdelta.nl](https://zwdelta.nl)| **A+**| **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Nginx||
 |[https://acc.platform.zwdelta.nl](https://acc.platform.zwdelta.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Document Moved|
 |[https://stg.platform.zwdelta.nl](https://stg.platform.zwdelta.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Document Moved|

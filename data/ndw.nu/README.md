@@ -6,13 +6,13 @@
 
  - **SSL Grade**:B
  - **HTTP Security Grade**:C
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:53
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:52
 
 
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/ndw.nu/subdomains.txt)|96|Alive subdomains|
-|[urls.txt](/data/ndw.nu/urls.txt)|87|Urls|
+|[urls.txt](/data/ndw.nu/urls.txt)|86|Urls|
 |[all_subdomains.txt](/data/ndw.nu/all_subdomains.txt)|122|All found subdomains (history)|
 
 
@@ -59,7 +59,6 @@
 |[https://opendata.ndw.nu](https://opendata.ndw.nu)| **A**| **F**|Apache/2.4.58 (Unix) OpenSSL/3.1.4| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.58 Bootstrap OpenSSL:3.1.4 UNIX|NDW open data|
 |[https://opendata.english.ndw.nu](https://opendata.english.ndw.nu)| **A+**| **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://put-kpi-dashboard.ndw.nu](https://put-kpi-dashboard.ndw.nu)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|Indicatoren prog...|
-|[https://registry.ndw.nu](https://registry.ndw.nu)| **A+**| **A**|nginx| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|Harbor|
 |[https://slim-reizen.ndw.nu](https://slim-reizen.ndw.nu)| **B**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS Nginx|A12 Slim Reizen...|
 |[https://sonar.ndw.nu](https://sonar.ndw.nu)| **A+**| **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Java SonarQubes|SonarQube|
 |[https://test-kpi-dashboard.ndw.nu](https://test-kpi-dashboard.ndw.nu)| **F**| **F**|Microsoft-Azure-Application-Gateway/v2| | | | | | | | :white_check_mark: | ||404 Not Found|
@@ -101,7 +100,7 @@
 |[https://stats.staging.ndw.nu](https://stats.staging.ndw.nu)| | **D**|Apache/2.4.57 (Debian)|:white_check_mark: | | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server:2.4.57 Debian Matomo Analytics PHP:8.2.15|Sign in - Matomo|
 |[https://shared-services.staging.ndw.nu](https://shared-services.staging.ndw.nu)| | **F**|Microsoft-Azure-Application-Gateway/v2| | | | | | | | :white_check_mark: | ||404 Not Found|
 |[https://maps.staging.ndw.nu](https://maps.staging.ndw.nu)| | **F**|Apache/2.4.59 (Unix)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.59 Bootstrap UNIX|NDW Maps|
-|[https://nls.staging.ndw.nu](https://nls.staging.ndw.nu)| | **F**|nginx/1.26.0| | | | | | | | :white_check_mark: | |Nginx:1.26.0|NlsFrontend|
+|[https://nls.staging.ndw.nu](https://nls.staging.ndw.nu)| | **F**|nginx/1.26.1| | | | | | | | :white_check_mark: | |Nginx:1.26.1|NlsFrontend|
 |[https://design.staging.ndw.nu](https://design.staging.ndw.nu)| | **A**|| |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | |HSTS MkDocs:1.6.0 Python|NDW Docs|
 |[https://security.ndw.nu](https://security.ndw.nu)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://security.staging.ndw.nu](https://security.staging.ndw.nu)| | **E**|| | | | | | | | :white_check_mark: | |||

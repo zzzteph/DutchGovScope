@@ -2,7 +2,6 @@ https://csoacct.werkenbijdeoverheid.nl
 http://csoacct.vacaturebeheer.werkenbijdeoverheid.nl
 https://csotest.werkenbijdeoverheid.nl
 http://csotest.vacaturebeheer.werkenbijdeoverheid.nl
-http://helpdesk.werkenbijdeoverheid.nl
 https://odc.werkenbijdeoverheid.nl
 https://vacaturezoekservice.werkenbijdeoverheid.nl
 https://vacaturezoekservice-accept.werkenbijdeoverheid.nl

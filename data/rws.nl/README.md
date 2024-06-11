@@ -6,14 +6,14 @@
 
  - **SSL Grade**:B+
  - **HTTP Security Grade**:D
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:94
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:95
 
 
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/rws.nl/subdomains.txt)|251|Alive subdomains|
-|[urls.txt](/data/rws.nl/urls.txt)|165|Urls|
-|[all_subdomains.txt](/data/rws.nl/all_subdomains.txt)|1187|All found subdomains (history)|
+|[urls.txt](/data/rws.nl/urls.txt)|166|Urls|
+|[all_subdomains.txt](/data/rws.nl/all_subdomains.txt)|1188|All found subdomains (history)|
 
 
 ## Statistics
@@ -169,6 +169,7 @@
 |[https://techniekacademie.rws.nl](https://techniekacademie.rws.nl)| **A+**| **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:-|Object moved|
 |[http://acceptatie.gbvi.rws.nl](http://acceptatie.gbvi.rws.nl)| **A**| **E**|| | | | | | | | :white_check_mark: | |||
 |[https://keycloak-test.vm-02.azure.grid.rws.nl](https://keycloak-test.vm-02.azure.grid.rws.nl)| **A+**| **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Welcome to Keycl...|
+|[http://gitlab.at.rws.nl](http://gitlab.at.rws.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://keycloak-acc.vm-02.azure.grid.rws.nl](https://keycloak-acc.vm-02.azure.grid.rws.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Welcome to Keycl...|
 |[https://acc-werkplek.rws.nl](https://acc-werkplek.rws.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS||
 |[https://enterpriseenrollment.rws.nl](https://enterpriseenrollment.rws.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||

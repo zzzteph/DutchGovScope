@@ -13,7 +13,7 @@
 |------------|-------|------|
 |[subdomains.txt](/data/nationaalcoordinatorgroningen.nl/subdomains.txt)|20|Alive subdomains|
 |[urls.txt](/data/nationaalcoordinatorgroningen.nl/urls.txt)|10|Urls|
-|[all_subdomains.txt](/data/nationaalcoordinatorgroningen.nl/all_subdomains.txt)|35|All found subdomains (history)|
+|[all_subdomains.txt](/data/nationaalcoordinatorgroningen.nl/all_subdomains.txt)|37|All found subdomains (history)|
 
 
 ## Statistics

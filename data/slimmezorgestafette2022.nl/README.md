@@ -4,15 +4,15 @@
 ## Summary data
 
 
- - **SSL Grade**:A+
- - **HTTP Security Grade**:A
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:2
+ - **SSL Grade**:
+ - **HTTP Security Grade**:F
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:0
 
 
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/slimmezorgestafette2022.nl/subdomains.txt)|2|Alive subdomains|
-|[urls.txt](/data/slimmezorgestafette2022.nl/urls.txt)|2|Urls|
+|[urls.txt](/data/slimmezorgestafette2022.nl/urls.txt)|0|Urls|
 |[all_subdomains.txt](/data/slimmezorgestafette2022.nl/all_subdomains.txt)|3|All found subdomains (history)|
 
 
@@ -21,6 +21,4 @@
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://www.slimmezorgestafette2022.nl](https://www.slimmezorgestafette2022.nl)| **A+**| **A**|Apache/2|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server:2 HSTS|301 Moved Perman...|
-|[https://slimmezorgestafette2022.nl](https://slimmezorgestafette2022.nl)| **A+**| **A**|Apache/2|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server:2 HSTS|301 Moved Perman...|
 

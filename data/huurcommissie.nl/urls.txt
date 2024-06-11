@@ -11,6 +11,7 @@ https://telewerk.huurcommissie.nl
 https://feeds.huurcommissie.nl
 https://huurcommissie.nl
 https://hip.huurcommissie.nl
+https://huurprijscheck.huurcommissie.nl
 https://synergy.huurcommissie.nl
 https://enterpriseenrollment.huurcommissie.nl
 https://enterpriseregistration.huurcommissie.nl

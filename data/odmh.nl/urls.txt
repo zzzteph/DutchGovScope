@@ -1,7 +1,6 @@
 https://atlas.odmh.nl
 https://mail.odmh.nl
 https://preprodformulieren.odmh.nl
-https://digikoppelingtest.odmh.nl
 https://kaarten.odmh.nl
 https://www.odmh.nl
 https://bkk.odmh.nl
@@ -34,3 +33,5 @@ https://geoportaal.odmh.nl
 https://mobielwerken.odmh.nl
 https://rdweb.odmh.nl
 https://media.odmh.nl
+https://smtp.odmh.nl
+https://onderzoek.odmh.nl

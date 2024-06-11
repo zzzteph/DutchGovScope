@@ -1,7 +1,6 @@
 https://a-downloads.persberichten.rijksoverheid.nl
-https://a-rss.persberichten.rijksoverheid.nl
 https://acc-mailing.rijksoverheid.nl
-https://coronadashboard.rijksoverheid.nl
+http://coronadashboard.rijksoverheid.nl
 http://dns-web10.rijksoverheid.nl
 http://dns-web300.rijksoverheid.nl
 https://downloads.persberichten.rijksoverheid.nl
@@ -18,7 +17,6 @@ https://opendata.rijksoverheid.nl
 https://opendata.persberichten.rijksoverheid.nl
 https://persberichten.rijksoverheid.nl
 https://redir.rijksoverheid.nl
-https://rss.persberichten.rijksoverheid.nl
 https://static.rijksoverheid.nl
 https://statistiek.rijksoverheid.nl
 https://teverantwoordenregelingen.rijksoverheid.nl

@@ -36,7 +36,6 @@ https://open-data.ndw.nu
 https://opendata.ndw.nu
 https://opendata.english.ndw.nu
 https://put-kpi-dashboard.ndw.nu
-https://registry.ndw.nu
 https://slim-reizen.ndw.nu
 https://sonar.ndw.nu
 https://test-kpi-dashboard.ndw.nu

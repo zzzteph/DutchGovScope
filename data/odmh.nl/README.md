@@ -12,7 +12,7 @@
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/odmh.nl/subdomains.txt)|59|Alive subdomains|
-|[urls.txt](/data/odmh.nl/urls.txt)|36|Urls|
+|[urls.txt](/data/odmh.nl/urls.txt)|37|Urls|
 |[all_subdomains.txt](/data/odmh.nl/all_subdomains.txt)|77|All found subdomains (history)|
 
 
@@ -24,7 +24,6 @@
 |[https://atlas.odmh.nl](https://atlas.odmh.nl)| **A**| **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server Microsoft ASP.NET|IIS Windows Serv...|
 |[https://mail.odmh.nl](https://mail.odmh.nl)| **A**| **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|403 Forbidden|
 |[https://preprodformulieren.odmh.nl](https://preprodformulieren.odmh.nl)| **A+**| **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Pagina bestaat n...|
-|[https://digikoppelingtest.odmh.nl](https://digikoppelingtest.odmh.nl)| **A**| **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|503 Service Unav...|
 |[https://kaarten.odmh.nl](https://kaarten.odmh.nl)| **A**| **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server Microsoft ASP.NET|IIS Windows Serv...|
 |[https://www.odmh.nl](https://www.odmh.nl)| **A**| **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:-|Home - Omgevings...|
 |[https://bkk.odmh.nl](https://bkk.odmh.nl)| **A**| **A**|Apache| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server Microsoft ASP.NET|Document Moved|
@@ -57,4 +56,6 @@
 |[https://mobielwerken.odmh.nl](https://mobielwerken.odmh.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server Microsoft ASP.NET|500 - Internal s...|
 |[https://rdweb.odmh.nl](https://rdweb.odmh.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|IIS Windows Serv...|
 |[https://media.odmh.nl](https://media.odmh.nl)| | **E**|| | | | | | | | :white_check_mark: | |Azure Azure Front Door||
+|[https://smtp.odmh.nl](https://smtp.odmh.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|403 Forbidden|
+|[https://onderzoek.odmh.nl](https://onderzoek.odmh.nl)| | **F**|nginx/1.18.0 (Ubuntu)| | | | | | | | :white_check_mark: | |Nginx:1.18.0 Ubuntu|301 Moved Perman...|
 

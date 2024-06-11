@@ -29,7 +29,7 @@
 |[http://uzi.acc.brba.nl](http://uzi.acc.brba.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[http://uzi.test.brba.nl](http://uzi.test.brba.nl)| **A**| **E**|| | | | | | | | :white_check_mark: | |||
 |[https://viep.brba.nl](https://viep.brba.nl)| **A+**| **B**||:warning: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS|Redirecting to h...|
-|[https://viep.acc.brba.nl](https://viep.acc.brba.nl)| **A+**| **A**||:warning: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS|Redirecting to h...|
+|[https://viep.acc.brba.nl](https://viep.acc.brba.nl)| **A+**| **A**||:warning: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS Laravel PHP|Redirecting to h...|
 |[https://viep.test.brba.nl](https://viep.test.brba.nl)| **A+**| **B**||:warning: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS Laravel PHP|Redirecting to h...|
 |[https://web.acc.brba.nl](https://web.acc.brba.nl)| **A+**| **B**||:warning: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS|Redirecting to h...|
 |[https://web.test.brba.nl](https://web.test.brba.nl)| **A**| **B**||:warning: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS|Redirecting to h...|

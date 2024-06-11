@@ -24,7 +24,6 @@ en.test.rechtwijzer.nl
 de.test.rechtwijzer.nl
 acct.rechtwijzer.nl
 cms.rechtwijzer.nl
-ehbo.rechtwijzer.nl
 localhost.rechtwijzer.nl
 research.test.rechtwijzer.nl
 www1.test.rechtwijzer.nl

@@ -36,7 +36,6 @@ open-data.ndw.nu
 opendata.ndw.nu
 opendata.english.ndw.nu
 put-kpi-dashboard.ndw.nu
-registry.ndw.nu
 slim-reizen.ndw.nu
 sonar.ndw.nu
 test-kpi-dashboard.ndw.nu
@@ -94,3 +93,4 @@ security.staging.ndw.nu
 design.ndw.nu
 sentry.ndw.nu
 viz.ndw.nu
+daisi.ndw.nu

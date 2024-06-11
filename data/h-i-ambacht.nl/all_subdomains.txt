@@ -28,3 +28,4 @@ acc-loket.h-i-ambacht.nl
 rxlaunch-signicat.h-i-ambacht.nl
 oud.h-i-ambacht.nl
 hendrik-ido-ambacht-checker-preprod.h-i-ambacht.nl
+hendrik-ido-ambacht-checker.h-i-ambacht.nl

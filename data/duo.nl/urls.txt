@@ -20,3 +20,10 @@ https://xbrlonderwijsportaal.duo.nl
 https://xbrlonderwijsportaal-acp.duo.nl
 https://zakelijk.duo.nl
 https://duo.nl
+https://vt-digidzakelijk.duo.nl
+https://vt-apps.duo.nl
+https://vt-idposr.duo.nl
+https://test-onderwijsdata.duo.nl
+https://vt-zakelijk.duo.nl
+https://vt-mijn.duo.nl
+https://vt-eidas-mijn.duo.nl

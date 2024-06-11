@@ -4,10 +4,10 @@ title: "werkenbijdeoverheid.nl"
 permalink: "/dutchgov/werkenbijdeoverheid.nl.html"
 subdomains_count: 15
 all_subdomains_count: 50
-urls_count: 15
+urls_count: 14
 ssl_rank: C
 http_rank: D
-security_txt: 6
+security_txt: 4
 url_link: /data/werkenbijdeoverheid.nl/urls.txt
 all_subdomains_link: /data/werkenbijdeoverheid.nl/all_subdomains.txt
 subdomains_link: /data/werkenbijdeoverheid.nl/subdomains.txt
@@ -22,13 +22,13 @@ tags: dutchgov
 
  - **SSL Grade**:C
  - **HTTP Security Grade**:D
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:6
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:4
 
 
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/DutchGovScope/data/werkenbijdeoverheid.nl/subdomains.txt)|15|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/werkenbijdeoverheid.nl/urls.txt)|15|Urls|
+|[urls.txt](/DutchGovScope/data/werkenbijdeoverheid.nl/urls.txt)|14|Urls|
 |[all_subdomains.txt](/DutchGovScope/data/werkenbijdeoverheid.nl/all_subdomains.txt)|50|All found subdomains (history)|
 
 
@@ -41,7 +41,6 @@ tags: dutchgov
 |[http://csoacct.vacaturebeheer.werkenbijdeoverheid.nl](http://csoacct.vacaturebeheer.werkenbijdeoverheid.nl)| | **E**|cloudflare| | | | | | :white_check_mark: | | :white_check_mark: | |Cloudflare||
 |[https://csotest.werkenbijdeoverheid.nl](https://csotest.werkenbijdeoverheid.nl)| | **D**|cloudflare|:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | |Basic Cloudflare HSTS|Authentication R...|
 |[http://csotest.vacaturebeheer.werkenbijdeoverheid.nl](http://csotest.vacaturebeheer.werkenbijdeoverheid.nl)| | **E**|cloudflare| | | | | | :white_check_mark: | | :white_check_mark: | |Cloudflare||
-|[http://helpdesk.werkenbijdeoverheid.nl](http://helpdesk.werkenbijdeoverheid.nl)| | **A**||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |||
 |[https://odc.werkenbijdeoverheid.nl](https://odc.werkenbijdeoverheid.nl)| **B**| **E**|| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS Java||
 |[https://vacaturezoekservice.werkenbijdeoverheid.nl](https://vacaturezoekservice.werkenbijdeoverheid.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
 |[https://vacaturezoekservice-accept.werkenbijdeoverheid.nl](https://vacaturezoekservice-accept.werkenbijdeoverheid.nl)| | **E**|| | | | | | | | :white_check_mark: | |||

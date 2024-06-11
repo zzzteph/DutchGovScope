@@ -4,10 +4,10 @@ title: "rwscirculair.nl"
 permalink: "/dutchgov/rwscirculair.nl.html"
 subdomains_count: 2
 all_subdomains_count: 2
-urls_count: 2
-ssl_rank: A+
-http_rank: A
-security_txt: 2
+urls_count: 0
+ssl_rank: 
+http_rank: F
+security_txt: 0
 url_link: /data/rwscirculair.nl/urls.txt
 all_subdomains_link: /data/rwscirculair.nl/all_subdomains.txt
 subdomains_link: /data/rwscirculair.nl/subdomains.txt
@@ -20,15 +20,15 @@ tags: dutchgov
 ## Summary data
 
 
- - **SSL Grade**:A+
- - **HTTP Security Grade**:A
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:2
+ - **SSL Grade**:
+ - **HTTP Security Grade**:F
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:0
 
 
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/DutchGovScope/data/rwscirculair.nl/subdomains.txt)|2|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/rwscirculair.nl/urls.txt)|2|Urls|
+|[urls.txt](/DutchGovScope/data/rwscirculair.nl/urls.txt)|0|Urls|
 |[all_subdomains.txt](/DutchGovScope/data/rwscirculair.nl/all_subdomains.txt)|2|All found subdomains (history)|
 
 
@@ -37,6 +37,4 @@ tags: dutchgov
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://www.rwscirculair.nl](https://www.rwscirculair.nl)| **A+**| **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:-|Object moved|
-|[https://rwscirculair.nl](https://rwscirculair.nl)| **A+**| **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:-|Object moved|
 

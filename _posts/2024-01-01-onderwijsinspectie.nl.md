@@ -46,7 +46,7 @@ tags: dutchgov
 |[https://opendata.onderwijsinspectie.nl](https://opendata.onderwijsinspectie.nl)| **A+**| **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://opendata.english.onderwijsinspectie.nl](https://opendata.english.onderwijsinspectie.nl)| **A+**| **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://toezichtresultaten.onderwijsinspectie.nl](https://toezichtresultaten.onderwijsinspectie.nl)| **B**| **C**|Apache|:white_check_mark: |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS|Toezichtresultat...|
-|[http://toezichtresultaten.acc.onderwijsinspectie.nl](http://toezichtresultaten.acc.onderwijsinspectie.nl)| **B**| **E**|| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS||
+|[https://toezichtresultaten.acc.onderwijsinspectie.nl](https://toezichtresultaten.acc.onderwijsinspectie.nl)| **B**| **E**|| | | | | | | | :white_check_mark: | |HSTS|Toezichtresultat...|
 |[https://www.onderwijsinspectie.nl](https://www.onderwijsinspectie.nl)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Inspectie van he...|
 |[https://onderwijsinspectie.nl](https://onderwijsinspectie.nl)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
 

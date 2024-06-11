@@ -23,5 +23,5 @@
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[http://autodiscover.contactpuntbouwproducten.nl](http://autodiscover.contactpuntbouwproducten.nl)| | **B**|Microsoft-IIS/10.0|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server||
 |[https://www.contactpuntbouwproducten.nl](https://www.contactpuntbouwproducten.nl)| **B**| **B**||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Azure Azure Front Door HSTS|Contactpunt Bouw...|
-|[https://contactpuntbouwproducten.nl](https://contactpuntbouwproducten.nl)| **B**| **C**|cloudflare|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Cloudflare|302 Found|
+|[https://contactpuntbouwproducten.nl](https://contactpuntbouwproducten.nl)| **B**| **B**||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Azure Azure Front Door||
 

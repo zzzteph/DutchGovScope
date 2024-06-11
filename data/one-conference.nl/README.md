@@ -21,18 +21,18 @@
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://acc.one-conference.nl](https://acc.one-conference.nl)| **F**| **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS||
+|[https://acc.one-conference.nl](https://acc.one-conference.nl)| **F**| **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server||
 |[https://emagazine.one-conference.nl](https://emagazine.one-conference.nl)| **A+**| **A**|Apache| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server Bootstrap HSTS|One Magazine|
-|[https://new.one-conference.nl](https://new.one-conference.nl)| **A**| **A**|Apache| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS||
+|[https://new.one-conference.nl](https://new.one-conference.nl)| **A**| **A**|Apache| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server||
 |[https://registration.one-conference.nl](https://registration.one-conference.nl)| **A+**| **A**|nginx| |:white_check_mark: | :warning:| |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx Plesk||
-|[https://stats.one-conference.nl](https://stats.one-conference.nl)| **F**| **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS||
-|[https://www.one-conference.nl](https://www.one-conference.nl)| **A**| **A**|Apache| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS||
-|[https://www.acc.one-conference.nl](https://www.acc.one-conference.nl)| **F**| **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS||
-|[https://www.new.one-conference.nl](https://www.new.one-conference.nl)| **F**| **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|301 Moved Perman...|
+|[https://stats.one-conference.nl](https://stats.one-conference.nl)| **F**| **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server||
+|[https://www.one-conference.nl](https://www.one-conference.nl)| **A**| **B**|Apache|:warning: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS||
+|[https://www.acc.one-conference.nl](https://www.acc.one-conference.nl)| **F**| **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server||
+|[https://www.new.one-conference.nl](https://www.new.one-conference.nl)| **F**| **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server||
 |[https://www.registration.one-conference.nl](https://www.registration.one-conference.nl)| **A+**| **A**|nginx| |:white_check_mark: | :warning:| |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx Plesk||
-|[https://www.stats.one-conference.nl](https://www.stats.one-conference.nl)| **F**| **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS||
-|[https://one-conference.nl](https://one-conference.nl)| **A**| **A**|Apache| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS MySQL PHP WordPress Yoast SEO:21.0|Home - One Confe...|
-|[https://wcag-2.1-inspectie-www.one-conference.nl](https://wcag-2.1-inspectie-www.one-conference.nl)| **F**| **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS||
+|[https://www.stats.one-conference.nl](https://www.stats.one-conference.nl)| **F**| **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server||
+|[https://one-conference.nl](https://one-conference.nl)| **A**| **B**|Apache|:warning: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server Elementor:3.21.8 HSTS MySQL PHP WordPress:6.5.4|One Conference|
+|[https://wcag-2.1-inspectie-www.one-conference.nl](https://wcag-2.1-inspectie-www.one-conference.nl)| **F**| **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server||
 |[https://aanmelder.one-conference.nl](https://aanmelder.one-conference.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|404 Not Found|
 |[http://autodiscover.one-conference.nl](http://autodiscover.one-conference.nl)| | **B**|Microsoft-IIS/10.0|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server||
 |[https://dev.registration.one-conference.nl](https://dev.registration.one-conference.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|Momice|

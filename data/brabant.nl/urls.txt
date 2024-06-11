@@ -24,7 +24,6 @@ https://geoportaal.brabant.nl
 https://s4a.brabant.nl
 https://s4p.brabant.nl
 https://www.dataportaal.brabant.nl
-https://digicheck.brabant.nl
 https://esb-test.brabant.nl
 https://esb.brabant.nl
 https://formulieren.brabant.nl
@@ -38,7 +37,7 @@ https://psarchief.brabant.nl
 https://publicaties.brabant.nl
 https://vpn.brabant.nl
 https://webmail.brabant.nl
-https://wegen.brabant.nl
+http://wegen.brabant.nl
 https://werkenvoor.brabant.nl
 https://werkplek.brabant.nl
 https://facilitor.brabant.nl
@@ -47,7 +46,7 @@ https://kaarten.brabant.nl
 http://draf-acpt.brabant.nl
 https://telewerk.brabant.nl
 https://wifi.brabant.nl
-https://www.wegen.brabant.nl
+http://www.wegen.brabant.nl
 https://draf.brabant.nl
 https://samenwerken.brabant.nl
 http://atlas-acpt.brabant.nl
@@ -77,3 +76,4 @@ https://webcast.brabant.nl
 https://signing.brabant.nl
 https://signing.pre.brabant.nl
 https://corsa2023.brabant.nl
+https://corsa-acpt.brabant.nl

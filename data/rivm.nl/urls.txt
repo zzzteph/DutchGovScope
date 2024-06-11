@@ -66,7 +66,7 @@ https://biotechnologie.rivm.nl
 http://caontb.rivm.nl
 https://cdif.osiris.rivm.nl
 http://ceses.osiris.rivm.nl
-http://chemkap.rivm.nl
+https://chemkap.rivm.nl
 https://chemkap-oud.rivm.nl
 https://cibrapportage.rivm.nl
 https://connect.rivm.nl
@@ -127,7 +127,7 @@ https://login-ext.rivm.nl
 http://login-test-ext.rivm.nl
 https://longcovid.rivm.nl
 http://macotra.rivm.nl
-https://magazines.rivm.nl
+http://magazines.rivm.nl
 https://man.rivm.nl
 http://maps.rivm.nl
 https://mcra.rivm.nl
@@ -188,7 +188,6 @@ https://statline.rivm.nl
 https://tapir.rivm.nl
 https://teebstad.rivm.nl
 https://teekcontrol.rivm.nl
-https://test-fides.rivm.nl
 http://test-veldmonitoring.rivm.nl
 http://test.crios.rivm.nl
 http://test.lci.rivm.nl
@@ -220,7 +219,7 @@ https://webservice.sniv.osiris.rivm.nl
 https://webservice.soap.osiris.rivm.nl
 http://www.bestellingen.rivm.nl
 http://www.caontb.rivm.nl
-http://www.chemkap.rivm.nl
+https://www.chemkap.rivm.nl
 https://www.draaiboekhielprikscreening.rivm.nl
 http://www.earss.rivm.nl
 https://www.ezips.rivm.nl
@@ -264,6 +263,7 @@ https://www.rivm.nl
 https://rivm.nl
 https://tst-lsp.rivm.nl
 https://api.tst-lsp.rivm.nl
+http://ontw.api-samenmeten.rivm.nl
 https://lsp.rivm.nl
 https://dashview.rivm.nl
 http://spoor.rivm.nl

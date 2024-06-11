@@ -23,7 +23,6 @@ developers.kvk.nl
 msafe.kvk.nl
 ondertekenen-id.acp.kvk.nl
 idp.dev.kvk.nl
-ssltest.kvk.nl
 idp.kvk.nl
 cloud.email.kvk.nl
 werkenbij.kvk.nl

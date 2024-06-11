@@ -1,2 +1,2 @@
-https://www.locov.nl
-https://locov.nl
+http://www.locov.nl
+http://locov.nl

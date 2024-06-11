@@ -7,7 +7,7 @@ all_subdomains_count: 2
 urls_count: 2
 ssl_rank: A+
 http_rank: A
-security_txt: 2
+security_txt: 0
 url_link: /data/dashboardklimaatbeleid.nl/urls.txt
 all_subdomains_link: /data/dashboardklimaatbeleid.nl/all_subdomains.txt
 subdomains_link: /data/dashboardklimaatbeleid.nl/subdomains.txt
@@ -22,7 +22,7 @@ tags: dutchgov
 
  - **SSL Grade**:A+
  - **HTTP Security Grade**:A
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:2
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:0
 
 
 | File       | Count | Info |
@@ -38,5 +38,5 @@ tags: dutchgov
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[https://www.dashboardklimaatbeleid.nl](https://www.dashboardklimaatbeleid.nl)| **A+**| **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS|Document Moved|
-|[https://dashboardklimaatbeleid.nl](https://dashboardklimaatbeleid.nl)| **A+**| **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |Amazon S3 Amazon Web Services Azure Edge Network HSTS Microsoft ASP.NET MyFonts|DASHBOARD KLIMAA...|
+|[https://dashboardklimaatbeleid.nl](https://dashboardklimaatbeleid.nl)| **A+**| **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |Amazon S3 Amazon Web Services Azure Edge Network HSTS Microsoft ASP.NET MyFonts|Dashboard Klimaa...|
 

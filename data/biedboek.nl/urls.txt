@@ -6,8 +6,6 @@ https://www.biedboek.nl
 https://biedboek.nl
 https://acceptatie-nieuw.biedboek.nl
 https://test-nieuw.biedboek.nl
-https://share.test-nieuw.biedboek.nl
-https://share.acceptatie-nieuw.biedboek.nl
 https://autodiscover.my.biedboek.nl
 https://view.link.biedboek.nl
 https://smtp.math.biedboek.nl

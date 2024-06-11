@@ -44,5 +44,5 @@ tags: dutchgov
 |[https://www.mobiliteitsalliantie.mobilityhappiness.nl](https://www.mobiliteitsalliantie.mobilityhappiness.nl)| **F**| **F**|nginx| | | | | | | | :white_check_mark: | |Nginx||
 |[https://mobilityhappiness.nl](https://mobilityhappiness.nl)| **F**| **F**|nginx| | | | | | | | :white_check_mark: | |Nginx||
 |[https://autodiscover.mobilityhappiness.nl](https://autodiscover.mobilityhappiness.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|Argeweb Webmail...|
-|[http://ftp.mobilityhappiness.nl](http://ftp.mobilityhappiness.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server Bootstrap:4.3.1 Varnish|geregistreerd vi...|
+|[http://ftp.mobilityhappiness.nl](http://ftp.mobilityhappiness.nl)| | **F**|Varnish| | | | | | | | :white_check_mark: | |Varnish|418 I'm a teapot...|
 

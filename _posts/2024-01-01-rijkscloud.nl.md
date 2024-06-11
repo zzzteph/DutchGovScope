@@ -164,7 +164,7 @@ tags: dutchgov
 |[https://codeserver.test.ix.rijkscloud.nl](https://codeserver.test.ix.rijkscloud.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://nifi.test.ix.rijkscloud.nl](https://nifi.test.ix.rijkscloud.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://pgadmin.test.ix.rijkscloud.nl](https://pgadmin.test.ix.rijkscloud.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
-|[https://rstudio.test.ix.rijkscloud.nl](https://rstudio.test.ix.rijkscloud.nl)| | **C**|RStudio| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
+|[https://rstudio.test.ix.rijkscloud.nl](https://rstudio.test.ix.rijkscloud.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||
 |[https://jupyter.test.ix.rijkscloud.nl](https://jupyter.test.ix.rijkscloud.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://keycloak.test.ix.rijkscloud.nl](https://keycloak.test.ix.rijkscloud.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Welcome to Keycl...|
 |[https://gitlab.test.ix.rijkscloud.nl](https://gitlab.test.ix.rijkscloud.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
