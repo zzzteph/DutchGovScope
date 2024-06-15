@@ -11,7 +11,7 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/zwemwater.nl/subdomains.txt)|1169|Alive subdomains|
+|[subdomains.txt](/data/zwemwater.nl/subdomains.txt)|1172|Alive subdomains|
 |[urls.txt](/data/zwemwater.nl/urls.txt)|1114|Urls|
 |[all_subdomains.txt](/data/zwemwater.nl/all_subdomains.txt)|1527|All found subdomains (history)|
 

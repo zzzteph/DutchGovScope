@@ -6,7 +6,7 @@
 
  - **SSL Grade**:B
  - **HTTP Security Grade**:C
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:52
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:53
 
 
 | File       | Count | Info |
@@ -104,7 +104,7 @@
 |[https://design.staging.ndw.nu](https://design.staging.ndw.nu)| | **A**|| |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | |HSTS MkDocs:1.6.0 Python|NDW Docs|
 |[https://security.ndw.nu](https://security.ndw.nu)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://security.staging.ndw.nu](https://security.staging.ndw.nu)| | **E**|| | | | | | | | :white_check_mark: | |||
-|[https://design.ndw.nu](https://design.ndw.nu)| | **F**|Microsoft-Azure-Application-Gateway/v2| | | | | | | | :white_check_mark: | ||404 Not Found|
+|[https://design.ndw.nu](https://design.ndw.nu)| | **A**|| |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | |HSTS MkDocs:1.6.0 Python|NDW Docs|
 |[https://sentry.ndw.nu](https://sentry.ndw.nu)| | **E**||:o: | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |||
 |[https://viz.ndw.nu](https://viz.ndw.nu)| | **F**|Microsoft-Azure-Application-Gateway/v2| | | | | | | | :white_check_mark: | ||404 Not Found|
 

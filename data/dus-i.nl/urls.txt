@@ -11,4 +11,4 @@ https://beoordeling.dus-i.nl
 https://gebruiker-beheer.dus-i.nl
 https://aanvraag.dus-i.nl
 https://mailings.dus-i.nl
-http://start.dus-i.nl
+https://start.dus-i.nl

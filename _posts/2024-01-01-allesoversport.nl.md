@@ -2,10 +2,10 @@
 layout: default
 title: "allesoversport.nl"
 permalink: "/dutchgov/allesoversport.nl.html"
-subdomains_count: 315
+subdomains_count: 304
 all_subdomains_count: 317
-urls_count: 314
-ssl_rank: C
+urls_count: 303
+ssl_rank: A+
 http_rank: E
 security_txt: 4
 url_link: /data/allesoversport.nl/urls.txt
@@ -20,15 +20,15 @@ tags: dutchgov
 ## Summary data
 
 
- - **SSL Grade**:C
+ - **SSL Grade**:A+
  - **HTTP Security Grade**:E
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:4
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/allesoversport.nl/subdomains.txt)|315|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/allesoversport.nl/urls.txt)|314|Urls|
+|[subdomains.txt](/DutchGovScope/data/allesoversport.nl/subdomains.txt)|304|Alive subdomains|
+|[urls.txt](/DutchGovScope/data/allesoversport.nl/urls.txt)|303|Urls|
 |[all_subdomains.txt](/DutchGovScope/data/allesoversport.nl/all_subdomains.txt)|317|All found subdomains (history)|
 
 
@@ -38,12 +38,9 @@ tags: dutchgov
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[https://auteurs.allesoversport.nl](https://auteurs.allesoversport.nl)| **A+**| **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS MySQL PHP Varnish:6.2 WordPress Yoast SEO:20.13|Home - Kenniscen...|
-|[https://mail.allesoversport.nl](https://mail.allesoversport.nl)| **F**| **E**|| | | | | | | | :white_check_mark: | |HSTS Varnish:6.2|Default site|
 |[https://repo.allesoversport.nl](https://repo.allesoversport.nl)| **A+**| **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS PHP|Redirecting to /...|
 |[https://sportakkoord.allesoversport.nl](https://sportakkoord.allesoversport.nl)| **A+**| **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Varnish:6.2|302 Found|
-|[https://w906.allesoversport.nl](https://w906.allesoversport.nl)| **F**| **E**|| | | | | | | | :white_check_mark: | |HSTS Varnish:6.2|Default site|
 |[https://www.allesoversport.nl](https://www.allesoversport.nl)| **A+**| **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Google Tag Manager HSTS MySQL PHP Varnish:6.2 WordPress|Allesoversport.n...|
-|[https://kcsport.nlwww.kenniscentrumsport.nlwww.allesoversport.nl](https://kcsport.nlwww.kenniscentrumsport.nlwww.allesoversport.nl)| **F**| **E**|| | | | | | | | :white_check_mark: | |HSTS Varnish:6.2|Default site|
 |[https://allesoversport.nl](https://allesoversport.nl)| **A+**| **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Varnish:6.2|301 Moved Perman...|
 |[https://afspraakjes.allesoversport.nl](https://afspraakjes.allesoversport.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS Varnish:6.2|Default site|
 |[https://facebok.allesoversport.nl](https://facebok.allesoversport.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS Varnish:6.2|Default site|
@@ -343,12 +340,4 @@ tags: dutchgov
 |[https://web4256.allesoversport.nl](https://web4256.allesoversport.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS Varnish|Default site|
 |[https://acc-inlog.allesoversport.nl](https://acc-inlog.allesoversport.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS Varnish:6.2|Default site|
 |[https://snoeien.allesoversport.nl](https://snoeien.allesoversport.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS Varnish|Default site|
-|[https://argumentenbeweegvriendelijkeomgevingwww.allesoversport.nl](https://argumentenbeweegvriendelijkeomgevingwww.allesoversport.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS Varnish|Default site|
-|[https://beweegvriendelijkeomgevingwww.allesoversport.nl](https://beweegvriendelijkeomgevingwww.allesoversport.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS Varnish|Default site|
-|[https://omgevingwww.allesoversport.nl](https://omgevingwww.allesoversport.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS Varnish:6.2|Default site|
-|[https://tnoargumentenbeweegvriendelijkeomgevingwww.allesoversport.nl](https://tnoargumentenbeweegvriendelijkeomgevingwww.allesoversport.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS Varnish:6.2|Default site|
-|[https://ww.allesoversport.nl](https://ww.allesoversport.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS Varnish:6.2|Default site|
-|[https://vriendelijkeomgevingwww.allesoversport.nl](https://vriendelijkeomgevingwww.allesoversport.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS Varnish:6.2|Default site|
-|[https://www.kenniscentrumsportenbewegen.nlwww.allesoversport.nl](https://www.kenniscentrumsportenbewegen.nlwww.allesoversport.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS Varnish:6.2|Default site|
-|[https://kenniscentrumsportenbewegen.nlwww.kenniscentrumsportenbewegen.nlwww.allesoversport.nl](https://kenniscentrumsportenbewegen.nlwww.kenniscentrumsportenbewegen.nlwww.allesoversport.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS Varnish|Default site|
 

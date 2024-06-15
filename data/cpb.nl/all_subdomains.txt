@@ -54,3 +54,4 @@ externemail01.cpb.nl
 externemail02.cpb.nl
 ns1.cpb.nl
 ns2.cpb.nl
+ldap.cpb.nl

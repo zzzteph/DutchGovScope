@@ -13,7 +13,7 @@
 |------------|-------|------|
 |[subdomains.txt](/data/ind.nl/subdomains.txt)|18|Alive subdomains|
 |[urls.txt](/data/ind.nl/urls.txt)|13|Urls|
-|[all_subdomains.txt](/data/ind.nl/all_subdomains.txt)|66|All found subdomains (history)|
+|[all_subdomains.txt](/data/ind.nl/all_subdomains.txt)|67|All found subdomains (history)|
 
 
 ## Statistics

@@ -6,13 +6,13 @@
 
  - **SSL Grade**:A
  - **HTTP Security Grade**:E
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:1413
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:1411
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/waterschaplimburg.nl/subdomains.txt)|1811|Alive subdomains|
-|[urls.txt](/data/waterschaplimburg.nl/urls.txt)|1690|Urls|
+|[subdomains.txt](/data/waterschaplimburg.nl/subdomains.txt)|1915|Alive subdomains|
+|[urls.txt](/data/waterschaplimburg.nl/urls.txt)|1689|Urls|
 |[all_subdomains.txt](/data/waterschaplimburg.nl/all_subdomains.txt)|2026|All found subdomains (history)|
 
 
@@ -180,9 +180,9 @@
 |[http://xoops.waterschaplimburg.nl](http://xoops.waterschaplimburg.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
 |[http://autoconfig.sports.waterschaplimburg.nl](http://autoconfig.sports.waterschaplimburg.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
 |[http://takeout.waterschaplimburg.nl](http://takeout.waterschaplimburg.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
-|[http://sexualiteit.waterschaplimburg.nl](http://sexualiteit.waterschaplimburg.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
+|[http://sexualiteit.waterschaplimburg.nl](http://sexualiteit.waterschaplimburg.nl)| | **E**|Microsoft-HTTPAPI/2.0| | | | | | :white_check_mark: | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
 |[http://services-acc.waterschaplimburg.nl](http://services-acc.waterschaplimburg.nl)| | **E**|Microsoft-HTTPAPI/2.0| | | | | | :white_check_mark: | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
-|[http://digitallibrary.waterschaplimburg.nl](http://digitallibrary.waterschaplimburg.nl)| | **E**|Microsoft-HTTPAPI/2.0| | | | | | :white_check_mark: | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
+|[http://digitallibrary.waterschaplimburg.nl](http://digitallibrary.waterschaplimburg.nl)| | **D**|| | | | | | :white_check_mark: | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
 |[http://reza.waterschaplimburg.nl](http://reza.waterschaplimburg.nl)| | **D**|| | | | | | :white_check_mark: | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
 |[http://1026.waterschaplimburg.nl](http://1026.waterschaplimburg.nl)| | **D**|| | | | | | :white_check_mark: | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
 |[http://autoconfig.directory.waterschaplimburg.nl](http://autoconfig.directory.waterschaplimburg.nl)| | **D**|| | | | | | :white_check_mark: | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Attack Detected|
@@ -1372,7 +1372,6 @@
 |[http://beslist.waterschaplimburg.nl](http://beslist.waterschaplimburg.nl)| | **D**|| | | | | | :white_check_mark: | | :white_check_mark: | ||Attack Detected|
 |[http://martens.waterschaplimburg.nl](http://martens.waterschaplimburg.nl)| | **D**|| | | | | | :white_check_mark: | | :white_check_mark: | ||Attack Detected|
 |[http://mng.waterschaplimburg.nl](http://mng.waterschaplimburg.nl)| | **D**|| | | | | | :white_check_mark: | | :white_check_mark: | ||Attack Detected|
-|[http://aukcje.waterschaplimburg.nl](http://aukcje.waterschaplimburg.nl)| | **D**|| | | | | | :white_check_mark: | | :white_check_mark: | ||Attack Detected|
 |[http://idservice.waterschaplimburg.nl](http://idservice.waterschaplimburg.nl)| | **D**|| | | | | | :white_check_mark: | | :white_check_mark: | ||Attack Detected|
 |[http://spawn.waterschaplimburg.nl](http://spawn.waterschaplimburg.nl)| | **D**|| | | | | | :white_check_mark: | | :white_check_mark: | ||Attack Detected|
 |[http://adao.waterschaplimburg.nl](http://adao.waterschaplimburg.nl)| | **D**|| | | | | | :white_check_mark: | | :white_check_mark: | ||Attack Detected|
@@ -1468,7 +1467,7 @@
 |[http://georgewbush.waterschaplimburg.nl](http://georgewbush.waterschaplimburg.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
 |[http://devtrack.waterschaplimburg.nl](http://devtrack.waterschaplimburg.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
 |[http://farmerama.waterschaplimburg.nl](http://farmerama.waterschaplimburg.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
-|[http://mkg.waterschaplimburg.nl](http://mkg.waterschaplimburg.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
+|[http://mkg.waterschaplimburg.nl](http://mkg.waterschaplimburg.nl)| | **E**|Microsoft-HTTPAPI/2.0| | | | | | :white_check_mark: | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
 |[http://an.waterschaplimburg.nl](http://an.waterschaplimburg.nl)| | **E**|Microsoft-HTTPAPI/2.0| | | | | | :white_check_mark: | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
 |[http://linefriends.waterschaplimburg.nl](http://linefriends.waterschaplimburg.nl)| | **E**|Microsoft-HTTPAPI/2.0| | | | | | :white_check_mark: | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
 |[http://rock-n-roll.waterschaplimburg.nl](http://rock-n-roll.waterschaplimburg.nl)| | **D**|| | | | | | :white_check_mark: | | :white_check_mark: | ||Attack Detected|

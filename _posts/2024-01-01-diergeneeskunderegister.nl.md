@@ -3,7 +3,7 @@ layout: default
 title: "diergeneeskunderegister.nl"
 permalink: "/dutchgov/diergeneeskunderegister.nl.html"
 subdomains_count: 15
-all_subdomains_count: 39
+all_subdomains_count: 40
 urls_count: 12
 ssl_rank: A
 http_rank: A
@@ -29,7 +29,7 @@ tags: dutchgov
 |------------|-------|------|
 |[subdomains.txt](/DutchGovScope/data/diergeneeskunderegister.nl/subdomains.txt)|15|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/diergeneeskunderegister.nl/urls.txt)|12|Urls|
-|[all_subdomains.txt](/DutchGovScope/data/diergeneeskunderegister.nl/all_subdomains.txt)|39|All found subdomains (history)|
+|[all_subdomains.txt](/DutchGovScope/data/diergeneeskunderegister.nl/all_subdomains.txt)|40|All found subdomains (history)|
 
 
 ## Statistics

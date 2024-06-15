@@ -2,9 +2,9 @@
 layout: default
 title: "bodemrichtlijn.nl"
 permalink: "/dutchgov/bodemrichtlijn.nl.html"
-subdomains_count: 1673
+subdomains_count: 1672
 all_subdomains_count: 1674
-urls_count: 1671
+urls_count: 1670
 ssl_rank: C
 http_rank: E
 security_txt: 3
@@ -27,8 +27,8 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/bodemrichtlijn.nl/subdomains.txt)|1673|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/bodemrichtlijn.nl/urls.txt)|1671|Urls|
+|[subdomains.txt](/DutchGovScope/data/bodemrichtlijn.nl/subdomains.txt)|1672|Alive subdomains|
+|[urls.txt](/DutchGovScope/data/bodemrichtlijn.nl/urls.txt)|1670|Urls|
 |[all_subdomains.txt](/DutchGovScope/data/bodemrichtlijn.nl/all_subdomains.txt)|1674|All found subdomains (history)|
 
 
@@ -1611,7 +1611,6 @@ tags: dutchgov
 |[https://stoelverhogers.bodemrichtlijn.nl](https://stoelverhogers.bodemrichtlijn.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Microsoft Azure...|
 |[https://chris.bodemrichtlijn.nl](https://chris.bodemrichtlijn.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Microsoft Azure...|
 |[https://gaycams.bodemrichtlijn.nl](https://gaycams.bodemrichtlijn.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Microsoft Azure...|
-|[https://icard.bodemrichtlijn.nl](https://icard.bodemrichtlijn.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Microsoft Azure...|
 |[https://leninsk-kuznetskiy.bodemrichtlijn.nl](https://leninsk-kuznetskiy.bodemrichtlijn.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Microsoft Azure...|
 |[https://gdansk.bodemrichtlijn.nl](https://gdansk.bodemrichtlijn.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Microsoft Azure...|
 |[https://shanwei.bodemrichtlijn.nl](https://shanwei.bodemrichtlijn.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Microsoft Azure...|

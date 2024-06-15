@@ -12,7 +12,7 @@
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/knaw.nl/subdomains.txt)|1375|Alive subdomains|
-|[urls.txt](/data/knaw.nl/urls.txt)|794|Urls|
+|[urls.txt](/data/knaw.nl/urls.txt)|795|Urls|
 |[all_subdomains.txt](/data/knaw.nl/all_subdomains.txt)|1846|All found subdomains (history)|
 
 
@@ -774,7 +774,7 @@
 |[http://googleapps.knaw.nl](http://googleapps.knaw.nl)| | **D**|ghs|:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | ||302 Moved|
 |[https://hug.knaw.nl](https://hug.knaw.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|403 Forbidden|
 |[https://huh.knaw.nl](https://huh.knaw.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|403 Forbidden|
-|[https://hulpopafstand.knaw.nl](https://hulpopafstand.knaw.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |HSTS Matomo Analytics Nginx|Sign in - Matomo|
+|[https://hulpopafstand.knaw.nl](https://hulpopafstand.knaw.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|Matomo › Error|
 |[https://remotesupport.knaw.nl](https://remotesupport.knaw.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |HSTS Matomo Analytics Nginx|Sign in - Matomo|
 |[https://portus.knaw.nl](https://portus.knaw.nl)| | **D**|Apache|:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|- Portus|
 |[https://repository.knaw.nl](https://repository.knaw.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Ivanti(R) Cloud...|
@@ -815,4 +815,5 @@
 |[https://wp-09.dev.huc.knaw.nl](https://wp-09.dev.huc.knaw.nl)| | **F**|Apache/2.4.41 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.41 Ubuntu|Unauthorized|
 |[http://clarin-skosmos.sd.di.huc.knaw.nl](http://clarin-skosmos.sd.di.huc.knaw.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|301 Moved Perman...|
 |[https://wp-07.dev.huc.knaw.nl](https://wp-07.dev.huc.knaw.nl)| | **F**|Apache/2.4.41 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.41 Ubuntu|Unauthorized|
+|[https://docs.labs.dans.knaw.nl](https://docs.labs.dans.knaw.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 

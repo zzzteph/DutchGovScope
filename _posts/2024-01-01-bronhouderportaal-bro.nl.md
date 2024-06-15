@@ -4,7 +4,7 @@ title: "bronhouderportaal-bro.nl"
 permalink: "/dutchgov/bronhouderportaal-bro.nl.html"
 subdomains_count: 31
 all_subdomains_count: 32
-urls_count: 18
+urls_count: 17
 ssl_rank: C
 http_rank: E
 security_txt: 4
@@ -28,7 +28,7 @@ tags: dutchgov
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/DutchGovScope/data/bronhouderportaal-bro.nl/subdomains.txt)|31|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/bronhouderportaal-bro.nl/urls.txt)|18|Urls|
+|[urls.txt](/DutchGovScope/data/bronhouderportaal-bro.nl/urls.txt)|17|Urls|
 |[all_subdomains.txt](/DutchGovScope/data/bronhouderportaal-bro.nl/all_subdomains.txt)|32|All found subdomains (history)|
 
 
@@ -54,5 +54,4 @@ tags: dutchgov
 |[https://demo2.bronhouderportaal-bro.nl](https://demo2.bronhouderportaal-bro.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|403 Forbidden|
 |[http://localhost.bronhouderportaal-bro.nl](http://localhost.bronhouderportaal-bro.nl)| | **F**|nginx| | | :warning:| | | | | :white_check_mark: | |Nginx|(404 Not Found)|
 |[https://sso-demo2.bronhouderportaal-bro.nl](https://sso-demo2.bronhouderportaal-bro.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|403 Forbidden|
-|[http://sso-acc.bronhouderportaal-bro.nl](http://sso-acc.bronhouderportaal-bro.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 

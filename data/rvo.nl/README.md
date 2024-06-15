@@ -6,13 +6,13 @@
 
  - **SSL Grade**:B+
  - **HTTP Security Grade**:C
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:43
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:44
 
 
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/rvo.nl/subdomains.txt)|167|Alive subdomains|
-|[urls.txt](/data/rvo.nl/urls.txt)|107|Urls|
+|[urls.txt](/data/rvo.nl/urls.txt)|108|Urls|
 |[all_subdomains.txt](/data/rvo.nl/all_subdomains.txt)|275|All found subdomains (history)|
 
 
@@ -128,4 +128,5 @@
 |[https://gdi-b.rvo.nl](https://gdi-b.rvo.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS|Onderhoud Pagina|
 |[https://cta.rvo.nl](https://cta.rvo.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Verzoek afgeweze...|
 |[https://europese-subsidies.rvo.nl](https://europese-subsidies.rvo.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Drupal HSTS Nginx PHP|Redirecting to h...|
+|[https://rhel-p-mijn.rvo.nl](https://rhel-p-mijn.rvo.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Verzoek afgeweze...|
 

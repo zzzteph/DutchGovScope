@@ -138,6 +138,6 @@
 |[https://tz-aanvragen-tst.dnb.nl](https://tz-aanvragen-tst.dnb.nl)| | **E**|| | | | | | | | :white_check_mark: | |Azure Azure Front Door||
 |[https://federated-login-pp.dnb.nl](https://federated-login-pp.dnb.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
 |[https://federated-login.dnb.nl](https://federated-login.dnb.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
-|[https://monet-dev.dnb.nl](https://monet-dev.dnb.nl)| | **A**|Kestrel| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Kestrel Microsoft ASP.NET|MonetUiFrontendC...|
+|[https://monet-dev.dnb.nl](https://monet-dev.dnb.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Kestrel Microsoft ASP.NET|Web App - Unavai...|
 |[https://monet-tst.dnb.nl](https://monet-tst.dnb.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Microsoft Azure...|
 

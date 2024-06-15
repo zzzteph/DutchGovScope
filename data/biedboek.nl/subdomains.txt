@@ -6,8 +6,6 @@ www.biedboek.nl
 biedboek.nl
 acceptatie-nieuw.biedboek.nl
 test-nieuw.biedboek.nl
-share.test-nieuw.biedboek.nl
-share.acceptatie-nieuw.biedboek.nl
 autodiscover.my.biedboek.nl
 view.link.biedboek.nl
 smtp.math.biedboek.nl

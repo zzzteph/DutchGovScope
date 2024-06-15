@@ -13,7 +13,7 @@
 |------------|-------|------|
 |[subdomains.txt](/data/prolander.nl/subdomains.txt)|11|Alive subdomains|
 |[urls.txt](/data/prolander.nl/urls.txt)|4|Urls|
-|[all_subdomains.txt](/data/prolander.nl/all_subdomains.txt)|16|All found subdomains (history)|
+|[all_subdomains.txt](/data/prolander.nl/all_subdomains.txt)|17|All found subdomains (history)|
 
 
 ## Statistics

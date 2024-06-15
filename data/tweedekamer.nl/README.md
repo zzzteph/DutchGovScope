@@ -6,14 +6,14 @@
 
  - **SSL Grade**:A-
  - **HTTP Security Grade**:C
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:77
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:76
 
 
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/tweedekamer.nl/subdomains.txt)|193|Alive subdomains|
-|[urls.txt](/data/tweedekamer.nl/urls.txt)|128|Urls|
-|[all_subdomains.txt](/data/tweedekamer.nl/all_subdomains.txt)|291|All found subdomains (history)|
+|[urls.txt](/data/tweedekamer.nl/urls.txt)|127|Urls|
+|[all_subdomains.txt](/data/tweedekamer.nl/all_subdomains.txt)|292|All found subdomains (history)|
 
 
 ## Statistics
@@ -81,7 +81,6 @@
 |[https://plein2.tweedekamer.nl](https://plein2.tweedekamer.nl)| **A**| **B**|BigIP|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |F5 BigIP||
 |[https://files.tweedekamer.nl](https://files.tweedekamer.nl)| **A**| **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Nginx|403 Forbidden|
 |[https://enroll-tkmw.tweedekamer.nl](https://enroll-tkmw.tweedekamer.nl)| **A**| **F**|Microsoft-IIS/10.0| | | | | | | | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server|IIS Windows Serv...|
-|[https://parlis-otd.tweedekamer.nl](https://parlis-otd.tweedekamer.nl)| **A**| **B**|BigIP|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |F5 BigIP||
 |[https://ontdek.test.tweedekamer.nl](https://ontdek.test.tweedekamer.nl)| **A+**| **C**|nginx/1.25.5| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Nginx:1.25.5|Tweede Kamer Tou...|
 |[https://werkenbij.acceptatie.tweedekamer.nl](https://werkenbij.acceptatie.tweedekamer.nl)| **B**| **F**|nginx/1.25.5| | | | | | | | :white_check_mark: | |Basic Nginx:1.25.5|401 Authorizatio...|
 |[https://werkenbij.test.tweedekamer.nl](https://werkenbij.test.tweedekamer.nl)| **B**| **F**|nginx/1.25.5| | | | | | | | :white_check_mark: | |Basic Nginx:1.25.5|401 Authorizatio...|

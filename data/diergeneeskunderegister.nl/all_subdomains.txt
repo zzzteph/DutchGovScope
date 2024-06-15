@@ -37,3 +37,4 @@ resultaten-toegankelijkheidsonderzoek-mijn.diergeneeskunderegister.nl
 resultaten-toegankelijkheidsverklaring-zoeken.diergeneeskunderegister.nl
 resultaten-toegankelijkheidsverklaring-diergeneeskunderegister.nl-en-zoeken.diergeneeskunderegister.nl
 resultaten-toegankelijkheidsverklaring-content-www.diergeneeskunderegister.nl
+acceptatie.behandel.diergeneeskunderegister.nl

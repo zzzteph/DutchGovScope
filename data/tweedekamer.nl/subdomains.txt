@@ -61,7 +61,6 @@ livestreaming.b67acc.tweedekamer.nl
 plein2.tweedekamer.nl
 files.tweedekamer.nl
 enroll-tkmw.tweedekamer.nl
-parlis-otd.tweedekamer.nl
 ontdek.test.tweedekamer.nl
 werkenbij.acceptatie.tweedekamer.nl
 werkenbij.test.tweedekamer.nl
@@ -191,3 +190,4 @@ de.beta.tweedekamer.nl
 auth.beta.tweedekamer.nl
 my.beta.tweedekamer.nl
 webdisk.beta.tweedekamer.nl
+cms.beta.tweedekamer.nl

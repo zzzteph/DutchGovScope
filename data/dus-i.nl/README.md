@@ -5,8 +5,8 @@
 
 
  - **SSL Grade**:A+
- - **HTTP Security Grade**:B
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:9
+ - **HTTP Security Grade**:A
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:10
 
 
 | File       | Count | Info |
@@ -34,5 +34,5 @@
 |[https://gebruiker-beheer.dus-i.nl](https://gebruiker-beheer.dus-i.nl)| **A+**| **B**|Apache| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server Basic HSTS|401 Unauthorized|
 |[https://aanvraag.dus-i.nl](https://aanvraag.dus-i.nl)| **A+**| **A**|Apache| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS|DUS-I|
 |[https://mailings.dus-i.nl](https://mailings.dus-i.nl)| **A**| **F**|nginx| | | | | | | | :white_check_mark: | |Nginx||
-|[http://start.dus-i.nl](http://start.dus-i.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
+|[https://start.dus-i.nl](https://start.dus-i.nl)| | **A**|Apache| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS||
 

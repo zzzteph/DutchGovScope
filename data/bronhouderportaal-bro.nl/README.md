@@ -12,7 +12,7 @@
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/bronhouderportaal-bro.nl/subdomains.txt)|31|Alive subdomains|
-|[urls.txt](/data/bronhouderportaal-bro.nl/urls.txt)|18|Urls|
+|[urls.txt](/data/bronhouderportaal-bro.nl/urls.txt)|17|Urls|
 |[all_subdomains.txt](/data/bronhouderportaal-bro.nl/all_subdomains.txt)|32|All found subdomains (history)|
 
 
@@ -38,5 +38,4 @@
 |[https://demo2.bronhouderportaal-bro.nl](https://demo2.bronhouderportaal-bro.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|403 Forbidden|
 |[http://localhost.bronhouderportaal-bro.nl](http://localhost.bronhouderportaal-bro.nl)| | **F**|nginx| | | :warning:| | | | | :white_check_mark: | |Nginx|(404 Not Found)|
 |[https://sso-demo2.bronhouderportaal-bro.nl](https://sso-demo2.bronhouderportaal-bro.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|403 Forbidden|
-|[http://sso-acc.bronhouderportaal-bro.nl](http://sso-acc.bronhouderportaal-bro.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 

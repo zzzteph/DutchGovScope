@@ -194,3 +194,5 @@ ws.test.trainingscatalogus.nl
 api2.test.trainingscatalogus.nl
 be.test.trainingscatalogus.nl
 lms-ocom.trainingscatalogus.nl
+login.test.trainingscatalogus.nl
+cms.test.trainingscatalogus.nl

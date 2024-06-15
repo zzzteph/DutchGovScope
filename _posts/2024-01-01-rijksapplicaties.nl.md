@@ -4,7 +4,7 @@ title: "rijksapplicaties.nl"
 permalink: "/dutchgov/rijksapplicaties.nl.html"
 subdomains_count: 271
 all_subdomains_count: 338
-urls_count: 235
+urls_count: 236
 ssl_rank: A+
 http_rank: C
 security_txt: 0
@@ -28,7 +28,7 @@ tags: dutchgov
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/DutchGovScope/data/rijksapplicaties.nl/subdomains.txt)|271|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/rijksapplicaties.nl/urls.txt)|235|Urls|
+|[urls.txt](/DutchGovScope/data/rijksapplicaties.nl/urls.txt)|236|Urls|
 |[all_subdomains.txt](/DutchGovScope/data/rijksapplicaties.nl/all_subdomains.txt)|338|All found subdomains (history)|
 
 
@@ -272,4 +272,5 @@ tags: dutchgov
 |[https://mijn-ncg.rijksapplicaties.nl](https://mijn-ncg.rijksapplicaties.nl)| | **C**|nginx|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS Nginx||
 |[https://rvb-ifr.rijksapplicaties.nl](https://rvb-ifr.rijksapplicaties.nl)| | **C**|nginx|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS Nginx||
 |[https://npcemaatregelenmonitor.rijksapplicaties.nl](https://npcemaatregelenmonitor.rijksapplicaties.nl)| | **C**|nginx|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS Nginx||
+|[https://rvb-rif.rijksapplicaties.nl](https://rvb-rif.rijksapplicaties.nl)| | **C**|nginx|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS Nginx||
 

@@ -233,3 +233,4 @@ https://rvb-arr.rijksapplicaties.nl
 https://mijn-ncg.rijksapplicaties.nl
 https://rvb-ifr.rijksapplicaties.nl
 https://npcemaatregelenmonitor.rijksapplicaties.nl
+https://rvb-rif.rijksapplicaties.nl

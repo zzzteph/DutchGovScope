@@ -1,4 +1,5 @@
 herstel.toeslagen.nl
+mijn.toeslagen.nl
 toeslagen.nl
 www.toeslagen.nl
 toestemming.toeslagen.nl
@@ -6,6 +7,7 @@ gtmt.toeslagen.nl
 fed01.tst.toeslagen.nl
 fed01.toeslagen.nl
 inkomen.toeslagen.nl
+fibt1.toeslagen.nl
 werken.toeslagen.nl
 artifact-fibt1.toeslagen.nl
 b2b-osb.toeslagen.nl

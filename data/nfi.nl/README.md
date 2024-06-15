@@ -12,7 +12,7 @@
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/nfi.nl/subdomains.txt)|18|Alive subdomains|
-|[urls.txt](/data/nfi.nl/urls.txt)|14|Urls|
+|[urls.txt](/data/nfi.nl/urls.txt)|15|Urls|
 |[all_subdomains.txt](/data/nfi.nl/all_subdomains.txt)|23|All found subdomains (history)|
 
 
@@ -35,4 +35,5 @@
 |[https://link.pr.nfi.nl](https://link.pr.nfi.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|404 Not Found|
 |[https://www.mijn.nfi.nl](https://www.mijn.nfi.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |HSTS Nginx|Test Page for th...|
 |[https://9120834.nfi.nl](https://9120834.nfi.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|404 Not Found|
+|[https://holmes-downloads.nfi.nl](https://holmes-downloads.nfi.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|Test Page for th...|
 

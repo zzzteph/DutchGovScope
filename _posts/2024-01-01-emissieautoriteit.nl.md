@@ -7,7 +7,7 @@ all_subdomains_count: 40
 urls_count: 16
 ssl_rank: A+
 http_rank: A
-security_txt: 9
+security_txt: 8
 url_link: /data/emissieautoriteit.nl/urls.txt
 all_subdomains_link: /data/emissieautoriteit.nl/all_subdomains.txt
 subdomains_link: /data/emissieautoriteit.nl/subdomains.txt
@@ -22,7 +22,7 @@ tags: dutchgov
 
  - **SSL Grade**:A+
  - **HTTP Security Grade**:A
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:9
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:8
 
 
 | File       | Count | Info |
@@ -50,7 +50,7 @@ tags: dutchgov
 |[https://www.emissieautoriteit.nl](https://www.emissieautoriteit.nl)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Home | Nederland...|
 |[https://emissieautoriteit.nl](https://emissieautoriteit.nl)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
 |[https://jpp.emissieautoriteit.nl](https://jpp.emissieautoriteit.nl)| | **F**|Apache/2.4.52 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.52 Ubuntu|ownCloud|
-|[https://preprodehp2.emissieautoriteit.nl](https://preprodehp2.emissieautoriteit.nl)| | **A**|nginx| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|Emissiehandel Po...|
-|[https://preprodehpzee.emissieautoriteit.nl](https://preprodehpzee.emissieautoriteit.nl)| | **A**|nginx| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|Mendix|
+|[https://preprodehp2.emissieautoriteit.nl](https://preprodehp2.emissieautoriteit.nl)| | **A**|nginx| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|403 Forbidden|
+|[https://preprodehpzee.emissieautoriteit.nl](https://preprodehpzee.emissieautoriteit.nl)| | **A**|nginx| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|403 Forbidden|
 |[https://ehpzee.emissieautoriteit.nl](https://ehpzee.emissieautoriteit.nl)| | **A**|nginx| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|Mendix|
 

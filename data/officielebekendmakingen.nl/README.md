@@ -13,7 +13,7 @@
 |------------|-------|------|
 |[subdomains.txt](/data/officielebekendmakingen.nl/subdomains.txt)|28|Alive subdomains|
 |[urls.txt](/data/officielebekendmakingen.nl/urls.txt)|17|Urls|
-|[all_subdomains.txt](/data/officielebekendmakingen.nl/all_subdomains.txt)|70|All found subdomains (history)|
+|[all_subdomains.txt](/data/officielebekendmakingen.nl/all_subdomains.txt)|71|All found subdomains (history)|
 
 
 ## Statistics

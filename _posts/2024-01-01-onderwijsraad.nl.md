@@ -4,7 +4,7 @@ title: "onderwijsraad.nl"
 permalink: "/dutchgov/onderwijsraad.nl.html"
 subdomains_count: 20
 all_subdomains_count: 35
-urls_count: 12
+urls_count: 11
 ssl_rank: A-
 http_rank: D
 security_txt: 5
@@ -28,7 +28,7 @@ tags: dutchgov
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/DutchGovScope/data/onderwijsraad.nl/subdomains.txt)|20|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/onderwijsraad.nl/urls.txt)|12|Urls|
+|[urls.txt](/DutchGovScope/data/onderwijsraad.nl/urls.txt)|11|Urls|
 |[all_subdomains.txt](/DutchGovScope/data/onderwijsraad.nl/all_subdomains.txt)|35|All found subdomains (history)|
 
 
@@ -47,6 +47,5 @@ tags: dutchgov
 |[https://onderwijsraad.nl](https://onderwijsraad.nl)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
 |[https://ts2.onderwijsraad.nl](https://ts2.onderwijsraad.nl)| | **F**|Microsoft-IIS/10.0| | | | | | | | :white_check_mark: | |IIS:10.0 Windows Server||
 |[https://webmail.onderwijsraad.nl](https://webmail.onderwijsraad.nl)| | **F**|Microsoft-IIS/10.0| | | | | | | | :white_check_mark: | |IIS:10.0 Windows Server||
-|[https://webhook.onderwijsraad.nl](https://webhook.onderwijsraad.nl)| | **F**|Apache/2.4.17 (FreeBSD) OpenSSL/1.0.1s-freebsd mpm-itk/2.4.7-03 PHP/5.6.14| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.17 FreeBSD OpenSSL:1.0.1s PHP:5.6.14|Unconfigured|
 |[https://wg.onderwijsraad.nl](https://wg.onderwijsraad.nl)| | **F**|Microsoft-IIS/10.0| | | | | | | | :white_check_mark: | |IIS:10.0 Windows Server||
 

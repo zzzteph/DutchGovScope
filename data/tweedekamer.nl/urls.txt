@@ -58,7 +58,6 @@ https://livestreaming.b67acc.tweedekamer.nl
 https://plein2.tweedekamer.nl
 https://files.tweedekamer.nl
 https://enroll-tkmw.tweedekamer.nl
-https://parlis-otd.tweedekamer.nl
 https://ontdek.test.tweedekamer.nl
 https://werkenbij.acceptatie.tweedekamer.nl
 https://werkenbij.test.tweedekamer.nl

@@ -1,5 +1,4 @@
 a-downloads.persberichten.rijksoverheid.nl
-a-rss.persberichten.rijksoverheid.nl
 acc-mailing.rijksoverheid.nl
 coronadashboard.rijksoverheid.nl
 dns-web10.rijksoverheid.nl
@@ -18,7 +17,6 @@ opendata.rijksoverheid.nl
 opendata.persberichten.rijksoverheid.nl
 persberichten.rijksoverheid.nl
 redir.rijksoverheid.nl
-rss.persberichten.rijksoverheid.nl
 static.rijksoverheid.nl
 statistiek.rijksoverheid.nl
 teverantwoordenregelingen.rijksoverheid.nl

@@ -1349,7 +1349,6 @@ http://lightroom.waterschaplimburg.nl
 http://beslist.waterschaplimburg.nl
 http://martens.waterschaplimburg.nl
 http://mng.waterschaplimburg.nl
-http://aukcje.waterschaplimburg.nl
 http://idservice.waterschaplimburg.nl
 http://spawn.waterschaplimburg.nl
 http://adao.waterschaplimburg.nl

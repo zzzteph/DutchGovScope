@@ -46,7 +46,6 @@ formulieren.svb.nl
 app-a.svb.nl
 intranet.svb.nl
 assyst.svb.nl
-mydev.svb.nl
 svb.nl
 mydesktop.svb.nl
 mta-a.svb.nl

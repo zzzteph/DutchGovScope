@@ -26,7 +26,7 @@
 |[https://www.zwdelta.nl](https://www.zwdelta.nl)| **A+**| **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |Google Tag Manager HSTS MySQL Nginx PHP WordPress:6.5.4 Yoast SEO:22.8|Home - Zuidweste...|
 |[http://www.platform.zwdelta.nl](http://www.platform.zwdelta.nl)| **A**| **E**|| | | | | | | | :white_check_mark: | |||
 |[https://zwdelta.nl](https://zwdelta.nl)| **A+**| **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Nginx||
-|[https://acc.platform.zwdelta.nl](https://acc.platform.zwdelta.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Document Moved|
+|[http://acc.platform.zwdelta.nl](http://acc.platform.zwdelta.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://stg.platform.zwdelta.nl](https://stg.platform.zwdelta.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Document Moved|
-|[https://api.platform.zwdelta.nl](https://api.platform.zwdelta.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Document Moved|
+|[http://api.platform.zwdelta.nl](http://api.platform.zwdelta.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 

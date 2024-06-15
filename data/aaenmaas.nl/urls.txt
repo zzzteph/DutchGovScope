@@ -24,4 +24,3 @@ http://was.aaenmaas.nl
 https://geoservices.aaenmaas.nl
 https://vpn.aaenmaas.nl
 https://wik.aaenmaas.nl
-https://maps2.aaenmaas.nl

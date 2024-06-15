@@ -46,7 +46,6 @@ ahora.perined.nl
 syncovh.perined.nl
 mbeta.perined.nl
 abyss.perined.nl
-facultydevelopment.perined.nl
 flagstaff.perined.nl
 iland.perined.nl
 legart.perined.nl

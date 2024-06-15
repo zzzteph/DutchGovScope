@@ -121,6 +121,7 @@ https://ovverklaringen.belastingdienst.nl
 https://verleendekinderopvang.belastingdienst.nl
 https://verzekeringsproducten.belastingdienst.nl
 https://wagenparkgegevens.belastingdienst.nl
+https://adobe-analytics-dc.belastingdienst.nl
 https://intermediairdagen.belastingdienst.nl
 https://mul-mbc.belastingdienst.nl
 https://sadp.belastingdienst.nl

@@ -14,3 +14,4 @@ enterpriseenrollment.prolander.nl
 enterpriseregistration.prolander.nl
 localhost.prolander.nl
 p8.prolander.nl
+p8-acceptatie.prolander.nl

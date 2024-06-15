@@ -289,3 +289,4 @@ auth.beta.tweedekamer.nl
 my.beta.tweedekamer.nl
 webdisk.beta.tweedekamer.nl
 cms.beta.tweedekamer.nl
+rijksadresgids.tweedekamer.nl
