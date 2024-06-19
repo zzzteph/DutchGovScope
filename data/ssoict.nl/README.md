@@ -13,7 +13,7 @@
 |------------|-------|------|
 |[subdomains.txt](/data/ssoict.nl/subdomains.txt)|106|Alive subdomains|
 |[urls.txt](/data/ssoict.nl/urls.txt)|6|Urls|
-|[all_subdomains.txt](/data/ssoict.nl/all_subdomains.txt)|125|All found subdomains (history)|
+|[all_subdomains.txt](/data/ssoict.nl/all_subdomains.txt)|126|All found subdomains (history)|
 
 
 ## Statistics

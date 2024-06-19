@@ -266,3 +266,4 @@ dcpc.knmi.nl
 test.knmi.nl
 cdn.klimaatscenarios-data.knmi.nl
 test321.knmi.nl
+eelcodoornbos-master-patch-38139.data.dev.spaceweather.knmi.nl

@@ -208,3 +208,4 @@ login.test.trainingscatalogus.nl
 cms.test.trainingscatalogus.nl
 dtenv-a.trainingscatalogus.nl
 meet.test.trainingscatalogus.nl
+webdisk.test.trainingscatalogus.nl

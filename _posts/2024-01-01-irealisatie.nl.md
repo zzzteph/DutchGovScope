@@ -2,7 +2,7 @@
 layout: default
 title: "irealisatie.nl"
 permalink: "/dutchgov/irealisatie.nl.html"
-subdomains_count: 56
+subdomains_count: 62
 all_subdomains_count: 63
 urls_count: 52
 ssl_rank: 
@@ -27,7 +27,7 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/irealisatie.nl/subdomains.txt)|56|Alive subdomains|
+|[subdomains.txt](/DutchGovScope/data/irealisatie.nl/subdomains.txt)|62|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/irealisatie.nl/urls.txt)|52|Urls|
 |[all_subdomains.txt](/DutchGovScope/data/irealisatie.nl/all_subdomains.txt)|63|All found subdomains (history)|
 
@@ -62,8 +62,8 @@ tags: dutchgov
 |[http://acc.dpr.irealisatie.nl](http://acc.dpr.irealisatie.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://web.acc.dpr.irealisatie.nl](https://web.acc.dpr.irealisatie.nl)| | **B**|Apache| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server Basic HSTS|401 Unauthorized|
 |[https://web.test.mgo.irealisatie.nl](https://web.test.mgo.irealisatie.nl)| | **B**|Apache| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server Basic HSTS|401 Unauthorized|
-|[https://max.test.mgo.irealisatie.nl](https://max.test.mgo.irealisatie.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS||
-|[https://dva.test.mgo.irealisatie.nl](https://dva.test.mgo.irealisatie.nl)| | **B**|| |:white_check_mark: | :warning:| | | :white_check_mark: | | :white_check_mark: | |HSTS||
+|[https://max.test.mgo.irealisatie.nl](https://max.test.mgo.irealisatie.nl)| | **A**|| |:white_check_mark: | :warning:| | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS||
+|[https://dva.test.mgo.irealisatie.nl](https://dva.test.mgo.irealisatie.nl)| | **A**|| |:white_check_mark: | :warning:| | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS||
 |[https://lo-ad.test.mgo.irealisatie.nl](https://lo-ad.test.mgo.irealisatie.nl)| | **A**|| |:white_check_mark: | :warning:| | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS||
 |[https://static.acc.dpr.irealisatie.nl](https://static.acc.dpr.irealisatie.nl)| | **B**|Apache| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS Hugo:0.124.1|Verwerkingsregis...|
 |[http://storage.test.mgo.irealisatie.nl](http://storage.test.mgo.irealisatie.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS||

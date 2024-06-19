@@ -11,8 +11,8 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/rivm.nl/subdomains.txt)|402|Alive subdomains|
-|[urls.txt](/data/rivm.nl/urls.txt)|274|Urls|
+|[subdomains.txt](/data/rivm.nl/subdomains.txt)|404|Alive subdomains|
+|[urls.txt](/data/rivm.nl/urls.txt)|276|Urls|
 |[all_subdomains.txt](/data/rivm.nl/all_subdomains.txt)|946|All found subdomains (history)|
 
 
@@ -287,6 +287,8 @@
 |[https://tst-lsp.rivm.nl](https://tst-lsp.rivm.nl)| | **F**|Microsoft-Azure-Application-Gateway/v2| | | | | | | | :white_check_mark: | ||404 Not Found|
 |[https://api.tst-lsp.rivm.nl](https://api.tst-lsp.rivm.nl)| | **F**|Microsoft-Azure-Application-Gateway/v2| | | | | | | | :white_check_mark: | ||404 Not Found|
 |[http://ontw.api-samenmeten.rivm.nl](http://ontw.api-samenmeten.rivm.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
+|[http://lims.rivm.nl](http://lims.rivm.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
+|[http://acceptatie.lims.rivm.nl](http://acceptatie.lims.rivm.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://lsp.rivm.nl](https://lsp.rivm.nl)| | **F**|Microsoft-Azure-Application-Gateway/v2| | | | | | | | :white_check_mark: | ||404 Not Found|
 |[https://dashview.rivm.nl](https://dashview.rivm.nl)| | **C**||:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | |Bootstrap:3 HSTS|DASH-view|
 |[http://spoor.rivm.nl](http://spoor.rivm.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |||

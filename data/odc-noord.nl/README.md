@@ -13,7 +13,7 @@
 |------------|-------|------|
 |[subdomains.txt](/data/odc-noord.nl/subdomains.txt)|147|Alive subdomains|
 |[urls.txt](/data/odc-noord.nl/urls.txt)|81|Urls|
-|[all_subdomains.txt](/data/odc-noord.nl/all_subdomains.txt)|262|All found subdomains (history)|
+|[all_subdomains.txt](/data/odc-noord.nl/all_subdomains.txt)|263|All found subdomains (history)|
 
 
 ## Statistics

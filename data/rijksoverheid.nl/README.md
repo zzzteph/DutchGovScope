@@ -6,13 +6,13 @@
 
  - **SSL Grade**:A+
  - **HTTP Security Grade**:A
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:11
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:12
 
 
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/rijksoverheid.nl/subdomains.txt)|95|Alive subdomains|
-|[urls.txt](/data/rijksoverheid.nl/urls.txt)|25|Urls|
+|[urls.txt](/data/rijksoverheid.nl/urls.txt)|26|Urls|
 |[all_subdomains.txt](/data/rijksoverheid.nl/all_subdomains.txt)|175|All found subdomains (history)|
 
 
@@ -46,4 +46,5 @@
 |[https://www.rijksoverheid.nl](https://www.rijksoverheid.nl)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Informatie van d...|
 |[https://rijksoverheid.nl](https://rijksoverheid.nl)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
 |[https://sdg.rijksoverheid.nl](https://sdg.rijksoverheid.nl)| **A+**| **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS HTTP/3|Regelen in Neder...|
+|[https://e-mailabonnementen.rijksoverheid.nl](https://e-mailabonnementen.rijksoverheid.nl)| | **A**|nginx| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 

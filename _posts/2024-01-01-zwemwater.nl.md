@@ -4,7 +4,7 @@ title: "zwemwater.nl"
 permalink: "/dutchgov/zwemwater.nl.html"
 subdomains_count: 1172
 all_subdomains_count: 1527
-urls_count: 1114
+urls_count: 1154
 ssl_rank: C
 http_rank: F
 security_txt: 8
@@ -28,7 +28,7 @@ tags: dutchgov
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/DutchGovScope/data/zwemwater.nl/subdomains.txt)|1172|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/zwemwater.nl/urls.txt)|1114|Urls|
+|[urls.txt](/DutchGovScope/data/zwemwater.nl/urls.txt)|1154|Urls|
 |[all_subdomains.txt](/DutchGovScope/data/zwemwater.nl/all_subdomains.txt)|1527|All found subdomains (history)|
 
 
@@ -1151,4 +1151,44 @@ tags: dutchgov
 |[https://vista.zwemwater.nl](https://vista.zwemwater.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
 |[https://tis.zwemwater.nl](https://tis.zwemwater.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
 |[https://davidlee.zwemwater.nl](https://davidlee.zwemwater.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
+|[https://littekens.zwemwater.nl](https://littekens.zwemwater.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
+|[https://vcs2.zwemwater.nl](https://vcs2.zwemwater.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
+|[https://twenteoost.zwemwater.nl](https://twenteoost.zwemwater.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
+|[https://bklynlibrary.zwemwater.nl](https://bklynlibrary.zwemwater.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
+|[https://4hairy.zwemwater.nl](https://4hairy.zwemwater.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
+|[https://jcca.zwemwater.nl](https://jcca.zwemwater.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
+|[https://bedrijven-amsterdam.zwemwater.nl](https://bedrijven-amsterdam.zwemwater.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
+|[https://inge.zwemwater.nl](https://inge.zwemwater.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
+|[https://eurosport.zwemwater.nl](https://eurosport.zwemwater.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
+|[https://foxtel.zwemwater.nl](https://foxtel.zwemwater.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
+|[https://advancement.zwemwater.nl](https://advancement.zwemwater.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
+|[https://anjin.zwemwater.nl](https://anjin.zwemwater.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
+|[https://kantar.zwemwater.nl](https://kantar.zwemwater.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
+|[https://afvalcontainer-bestellen.zwemwater.nl](https://afvalcontainer-bestellen.zwemwater.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
+|[https://qa.services.zwemwater.nl](https://qa.services.zwemwater.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
+|[https://jogjauncover.zwemwater.nl](https://jogjauncover.zwemwater.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
+|[https://compliment.zwemwater.nl](https://compliment.zwemwater.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
+|[https://dol.zwemwater.nl](https://dol.zwemwater.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
+|[https://maloyaroslavec.zwemwater.nl](https://maloyaroslavec.zwemwater.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
+|[https://casper.zwemwater.nl](https://casper.zwemwater.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
+|[https://1802.zwemwater.nl](https://1802.zwemwater.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
+|[https://web6695.zwemwater.nl](https://web6695.zwemwater.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
+|[https://hub-test.zwemwater.nl](https://hub-test.zwemwater.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
+|[https://rs6-2019.zwemwater.nl](https://rs6-2019.zwemwater.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
+|[https://adtest.zwemwater.nl](https://adtest.zwemwater.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
+|[https://plandev.zwemwater.nl](https://plandev.zwemwater.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
+|[https://backpack.zwemwater.nl](https://backpack.zwemwater.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
+|[https://1000000.zwemwater.nl](https://1000000.zwemwater.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
+|[https://pnz.zwemwater.nl](https://pnz.zwemwater.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
+|[https://deelnemers.zwemwater.nl](https://deelnemers.zwemwater.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
+|[https://clh.zwemwater.nl](https://clh.zwemwater.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
+|[https://web.cs.zwemwater.nl](https://web.cs.zwemwater.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
+|[https://terrapin.zwemwater.nl](https://terrapin.zwemwater.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
+|[https://hebe.zwemwater.nl](https://hebe.zwemwater.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
+|[https://hulshorst.zwemwater.nl](https://hulshorst.zwemwater.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
+|[https://web5004.zwemwater.nl](https://web5004.zwemwater.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
+|[https://265.zwemwater.nl](https://265.zwemwater.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
+|[https://christ.zwemwater.nl](https://christ.zwemwater.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
+|[https://vomar.zwemwater.nl](https://vomar.zwemwater.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
+|[https://powertools.zwemwater.nl](https://powertools.zwemwater.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
 

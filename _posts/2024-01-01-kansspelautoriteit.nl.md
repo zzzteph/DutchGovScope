@@ -3,7 +3,7 @@ layout: default
 title: "kansspelautoriteit.nl"
 permalink: "/dutchgov/kansspelautoriteit.nl.html"
 subdomains_count: 28
-all_subdomains_count: 121
+all_subdomains_count: 123
 urls_count: 18
 ssl_rank: A-
 http_rank: C
@@ -29,7 +29,7 @@ tags: dutchgov
 |------------|-------|------|
 |[subdomains.txt](/DutchGovScope/data/kansspelautoriteit.nl/subdomains.txt)|28|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/kansspelautoriteit.nl/urls.txt)|18|Urls|
-|[all_subdomains.txt](/DutchGovScope/data/kansspelautoriteit.nl/all_subdomains.txt)|121|All found subdomains (history)|
+|[all_subdomains.txt](/DutchGovScope/data/kansspelautoriteit.nl/all_subdomains.txt)|123|All found subdomains (history)|
 
 
 ## Statistics

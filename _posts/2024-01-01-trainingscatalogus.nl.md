@@ -2,12 +2,12 @@
 layout: default
 title: "trainingscatalogus.nl"
 permalink: "/dutchgov/trainingscatalogus.nl.html"
-subdomains_count: 198
-all_subdomains_count: 210
-urls_count: 107
+subdomains_count: 199
+all_subdomains_count: 211
+urls_count: 108
 ssl_rank: A+
 http_rank: C
-security_txt: 27
+security_txt: 28
 url_link: /data/trainingscatalogus.nl/urls.txt
 all_subdomains_link: /data/trainingscatalogus.nl/all_subdomains.txt
 subdomains_link: /data/trainingscatalogus.nl/subdomains.txt
@@ -22,14 +22,14 @@ tags: dutchgov
 
  - **SSL Grade**:A+
  - **HTTP Security Grade**:C
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:27
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:28
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/trainingscatalogus.nl/subdomains.txt)|198|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/trainingscatalogus.nl/urls.txt)|107|Urls|
-|[all_subdomains.txt](/DutchGovScope/data/trainingscatalogus.nl/all_subdomains.txt)|210|All found subdomains (history)|
+|[subdomains.txt](/DutchGovScope/data/trainingscatalogus.nl/subdomains.txt)|199|Alive subdomains|
+|[urls.txt](/DutchGovScope/data/trainingscatalogus.nl/urls.txt)|108|Urls|
+|[all_subdomains.txt](/DutchGovScope/data/trainingscatalogus.nl/all_subdomains.txt)|211|All found subdomains (history)|
 
 
 ## Statistics
@@ -144,4 +144,5 @@ tags: dutchgov
 |[https://enrollment-api.schiphol-lms.trainingscatalogus.nl](https://enrollment-api.schiphol-lms.trainingscatalogus.nl)| | **F**|Microsoft-IIS/10.0|:white_check_mark: | | | | | | | :white_check_mark: | |Azure IIS:10.0 Microsoft ASP.NET Windows Server||
 |[https://scim-api.schiphol-lms.trainingscatalogus.nl](https://scim-api.schiphol-lms.trainingscatalogus.nl)| | **F**|Microsoft-IIS/10.0|:white_check_mark: | | | | | | | :white_check_mark: | |Azure IIS:10.0 Microsoft ASP.NET Windows Server||
 |[https://parnassia-lms.trainingscatalogus.nl](https://parnassia-lms.trainingscatalogus.nl)| | **A**|Class|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Access is denied...|
+|[https://lms-ocom.trainingscatalogus.nl](https://lms-ocom.trainingscatalogus.nl)| | **A**|Class|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Access is denied...|
 

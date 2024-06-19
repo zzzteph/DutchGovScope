@@ -391,6 +391,8 @@ test.drupal.rivm.nl
 a-ewrs.rivm.nl
 apex-cmm.rivm.nl
 lsocom2.rivm.nl
+lims.rivm.nl
+acceptatie.lims.rivm.nl
 lsp.rivm.nl
 dashview.rivm.nl
 spoor.rivm.nl

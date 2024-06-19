@@ -11,7 +11,7 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/mijntoeslagen.nl/subdomains.txt)|4|Alive subdomains|
+|[subdomains.txt](/data/mijntoeslagen.nl/subdomains.txt)|5|Alive subdomains|
 |[urls.txt](/data/mijntoeslagen.nl/urls.txt)|3|Urls|
 |[all_subdomains.txt](/data/mijntoeslagen.nl/all_subdomains.txt)|5|All found subdomains (history)|
 

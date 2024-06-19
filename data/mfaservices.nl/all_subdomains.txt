@@ -264,3 +264,15 @@ o1.ptr6472.consular.mfaservices.nl
 mfaservices.nl
 o1.ptr6210.snd.consular.mfaservices.nl
 tst-stubs.data-exchange.consular.mfaservices.nl
+dev-euvis-api.data-exchange.consular.mfaservices.nl
+dev-euvis-ebms.data-exchange.consular.mfaservices.nl
+dev-vismail-api.data-exchange.consular.mfaservices.nl
+dev-vismail-ebms.data-exchange.consular.mfaservices.nl
+snd-euvis-ebms.data-exchange.consular.mfaservices.nl
+snd-vismail-api.data-exchange.consular.mfaservices.nl
+snd-vismail-ebms.data-exchange.consular.mfaservices.nl
+snd-euvis-api.data-exchange.consular.mfaservices.nl
+tst-euvis-api.data-exchange.consular.mfaservices.nl
+tst-euvis-ebms.data-exchange.consular.mfaservices.nl
+tst-vismail-api.data-exchange.consular.mfaservices.nl
+tst-vismail-ebms.data-exchange.consular.mfaservices.nl

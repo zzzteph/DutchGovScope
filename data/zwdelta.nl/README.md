@@ -27,6 +27,6 @@
 |[http://www.platform.zwdelta.nl](http://www.platform.zwdelta.nl)| **A**| **E**|| | | | | | | | :white_check_mark: | |||
 |[https://zwdelta.nl](https://zwdelta.nl)| **A+**| **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Nginx||
 |[http://acc.platform.zwdelta.nl](http://acc.platform.zwdelta.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
-|[https://stg.platform.zwdelta.nl](https://stg.platform.zwdelta.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Document Moved|
+|[http://stg.platform.zwdelta.nl](http://stg.platform.zwdelta.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[http://api.platform.zwdelta.nl](http://api.platform.zwdelta.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 

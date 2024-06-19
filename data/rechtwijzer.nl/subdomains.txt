@@ -99,3 +99,6 @@ data.test.rechtwijzer.nl
 legacy.test.rechtwijzer.nl
 ws.test.rechtwijzer.nl
 mailtrap.test.rechtwijzer.nl
+login.test.rechtwijzer.nl
+zaken.test.rechtwijzer.nl
+log.test.rechtwijzer.nl

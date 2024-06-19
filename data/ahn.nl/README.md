@@ -13,7 +13,7 @@
 |------------|-------|------|
 |[subdomains.txt](/data/ahn.nl/subdomains.txt)|3506|Alive subdomains|
 |[urls.txt](/data/ahn.nl/urls.txt)|5|Urls|
-|[all_subdomains.txt](/data/ahn.nl/all_subdomains.txt)|3525|All found subdomains (history)|
+|[all_subdomains.txt](/data/ahn.nl/all_subdomains.txt)|3567|All found subdomains (history)|
 
 
 ## Statistics

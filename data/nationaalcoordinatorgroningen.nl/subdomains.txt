@@ -18,3 +18,5 @@ o-www.nationaalcoordinatorgroningen.nl
 t-www.nationaalcoordinatorgroningen.nl
 intranet-tst.nationaalcoordinatorgroningen.nl
 i-www.nationaalcoordinatorgroningen.nl
+jet-test.nationaalcoordinatorgroningen.nl
+jet-acc.nationaalcoordinatorgroningen.nl

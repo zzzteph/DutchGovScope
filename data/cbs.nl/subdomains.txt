@@ -222,3 +222,6 @@ sdmx-api-beta.cbs.nl
 search.beta.cbs.nl
 gecko.cbs.nl
 lc.cbs.nl
+geoserver.cbs.nl
+autodiscover.cbs.nl
+outlook.cbs.nl

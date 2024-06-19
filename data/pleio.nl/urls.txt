@@ -1513,3 +1513,9 @@ https://minbuza.nljajaneegelijkmanifestgroepmanifestgroep.pleio.nl
 https://manifestgroepmanifestgroep.pleio.nl
 https://videobellen-jwt-moderator.pleio.nl
 https://dgh-chat.pleio.nl
+https://meedoenmetgebruikercentraal.pleio.nl
+https://community-edusources.pleio.nl
+https://edusources.pleio.nl
+https://del-taprogramma.pleio.nl
+https://haltewerk.pleio.nl
+https://dsocommunity.pleio.nl

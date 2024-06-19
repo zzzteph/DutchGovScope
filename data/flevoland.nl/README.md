@@ -6,13 +6,13 @@
 
  - **SSL Grade**:A-
  - **HTTP Security Grade**:C
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:27
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:29
 
 
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/flevoland.nl/subdomains.txt)|108|Alive subdomains|
-|[urls.txt](/data/flevoland.nl/urls.txt)|79|Urls|
+|[urls.txt](/data/flevoland.nl/urls.txt)|81|Urls|
 |[all_subdomains.txt](/data/flevoland.nl/all_subdomains.txt)|226|All found subdomains (history)|
 
 
@@ -100,4 +100,6 @@
 |[https://mbg-proxy.flevoland.nl](https://mbg-proxy.flevoland.nl)| | **A**|Apache| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS|Redirecting...|
 |[https://gebouwbeheer.flevoland.nl](https://gebouwbeheer.flevoland.nl)| | **F**|Microsoft-IIS/10.0| | | | | | | | :white_check_mark: | |IIS:10.0 Windows Server|IIS Windows|
 |[http://res.flevoland.nl](http://res.flevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
+|[https://remote.flevoland.nl](https://remote.flevoland.nl)| | **A**||:warning: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
+|[https://denkmee.flevoland.nl](https://denkmee.flevoland.nl)| | **C**|nginx| | | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |Amazon CloudFront Amazon Web Services Nginx||
 

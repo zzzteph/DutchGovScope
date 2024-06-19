@@ -1814,15 +1814,6 @@ jm.biedboek.nl
 deadlock.biedboek.nl
 pga.biedboek.nl
 smart-blog.uat.builder-svcs.biedboek.nl
-web3414.biedboek.nl
-android.biedboek.nl
-web4896.biedboek.nl
-mta.biedboek.nl
-gamepro.biedboek.nl
-server38.biedboek.nl
-z10.biedboek.nl
-bita.biedboek.nl
-fwmgmt.biedboek.nl
 honorscollege.biedboek.nl
 nc1.biedboek.nl
 lfp.biedboek.nl

@@ -13,7 +13,7 @@
 |------------|-------|------|
 |[subdomains.txt](/data/mfaservices.nl/subdomains.txt)|137|Alive subdomains|
 |[urls.txt](/data/mfaservices.nl/urls.txt)|59|Urls|
-|[all_subdomains.txt](/data/mfaservices.nl/all_subdomains.txt)|266|All found subdomains (history)|
+|[all_subdomains.txt](/data/mfaservices.nl/all_subdomains.txt)|278|All found subdomains (history)|
 
 
 ## Statistics

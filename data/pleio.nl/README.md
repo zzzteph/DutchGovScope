@@ -6,14 +6,14 @@
 
  - **SSL Grade**:A-
  - **HTTP Security Grade**:A
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:82
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:85
 
 
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/pleio.nl/subdomains.txt)|1527|Alive subdomains|
-|[urls.txt](/data/pleio.nl/urls.txt)|1515|Urls|
-|[all_subdomains.txt](/data/pleio.nl/all_subdomains.txt)|1528|All found subdomains (history)|
+|[urls.txt](/data/pleio.nl/urls.txt)|1521|Urls|
+|[all_subdomains.txt](/data/pleio.nl/all_subdomains.txt)|1781|All found subdomains (history)|
 
 
 ## Statistics
@@ -1536,4 +1536,10 @@
 |[https://manifestgroepmanifestgroep.pleio.nl](https://manifestgroepmanifestgroep.pleio.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Domeinnaam nog n...|
 |[https://videobellen-jwt-moderator.pleio.nl](https://videobellen-jwt-moderator.pleio.nl)| | **C**|nginx/1.18.0 (Ubuntu)| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Nginx:1.18.0 Ubuntu|Jitsi Meet|
 |[https://dgh-chat.pleio.nl](https://dgh-chat.pleio.nl)| | **B**||:warning: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Ruby Ruby on Rails||
+|[https://meedoenmetgebruikercentraal.pleio.nl](https://meedoenmetgebruikercentraal.pleio.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache Tomcat Fourthwall:1.0.0 HSTS Java MariaDB Skolengo:1.0.0|Meedoen met Gebr...|
+|[https://community-edusources.pleio.nl](https://community-edusources.pleio.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache Tomcat Fourthwall:1.0.0 HSTS Java MariaDB Skolengo:1.0.0|Community edusou...|
+|[https://edusources.pleio.nl](https://edusources.pleio.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Domeinnaam nog n...|
+|[https://del-taprogramma.pleio.nl](https://del-taprogramma.pleio.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Domeinnaam nog n...|
+|[https://haltewerk.pleio.nl](https://haltewerk.pleio.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Domeinnaam nog n...|
+|[https://dsocommunity.pleio.nl](https://dsocommunity.pleio.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache Tomcat Fourthwall:1.0.0 HSTS Java MariaDB Skolengo:1.0.0|DSO Community|
 

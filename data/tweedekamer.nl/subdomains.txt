@@ -108,7 +108,6 @@ apm.tweedekamer.nl
 sesam.tweedekamer.nl
 kva-tst.tweedekamer.nl
 gegevensmagazijn-a.tweedekamer.nl
-vlos-otd.tweedekamer.nl
 vip-acc.tweedekamer.nl
 autodiscover.tweedekamer.nl
 api.acc.livedebat.tweedekamer.nl

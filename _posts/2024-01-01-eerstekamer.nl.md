@@ -3,7 +3,7 @@ layout: default
 title: "eerstekamer.nl"
 permalink: "/dutchgov/eerstekamer.nl.html"
 subdomains_count: 28
-all_subdomains_count: 37
+all_subdomains_count: 38
 urls_count: 19
 ssl_rank: A-
 http_rank: C
@@ -29,7 +29,7 @@ tags: dutchgov
 |------------|-------|------|
 |[subdomains.txt](/DutchGovScope/data/eerstekamer.nl/subdomains.txt)|28|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/eerstekamer.nl/urls.txt)|19|Urls|
-|[all_subdomains.txt](/DutchGovScope/data/eerstekamer.nl/all_subdomains.txt)|37|All found subdomains (history)|
+|[all_subdomains.txt](/DutchGovScope/data/eerstekamer.nl/all_subdomains.txt)|38|All found subdomains (history)|
 
 
 ## Statistics
