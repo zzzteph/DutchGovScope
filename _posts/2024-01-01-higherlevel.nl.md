@@ -39,6 +39,6 @@ tags: dutchgov
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[https://prod.higherlevel.nl](https://prod.higherlevel.nl)| **F**| **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS||
 |[https://test.higherlevel.nl](https://test.higherlevel.nl)| **A+**| **A**|Apache| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server Basic HSTS|401 Unauthorized|
-|[https://www.higherlevel.nl](https://www.higherlevel.nl)| **A+**| **A**|Apache|:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server Google Tag Manager HSTS Stimulus|Home - Higherlev...|
+|[https://www.higherlevel.nl](https://www.higherlevel.nl)| **A+**| **A**|Apache|:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server Google Tag Manager HSTS Stimulus|Ondernemersforum...|
 |[https://higherlevel.nl](https://higherlevel.nl)| **A+**| **A**|Apache|:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS|301 Moved Perman...|
 

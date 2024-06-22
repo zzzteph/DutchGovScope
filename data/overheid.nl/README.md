@@ -12,8 +12,8 @@
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/overheid.nl/subdomains.txt)|51064|Alive subdomains|
-|[urls.txt](/data/overheid.nl/urls.txt)|307|Urls|
-|[all_subdomains.txt](/data/overheid.nl/all_subdomains.txt)|53086|All found subdomains (history)|
+|[urls.txt](/data/overheid.nl/urls.txt)|309|Urls|
+|[all_subdomains.txt](/data/overheid.nl/all_subdomains.txt)|55488|All found subdomains (history)|
 
 
 ## Statistics
@@ -321,6 +321,7 @@
 |[https://gegevensbijbesluiten.overheid.nl](https://gegevensbijbesluiten.overheid.nl)| **A+**| **B**||:warning: |:white_check_mark: | :warning:| | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS Node.js Nuxt.js Vue.js|Wie gebruikt mij...|
 |[https://digid-stub.lpc.mijn.overheid.nl](https://digid-stub.lpc.mijn.overheid.nl)| **A+**| **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|403 Forbidden|
 |[https://eidas-stub.lpc.mijn.overheid.nl](https://eidas-stub.lpc.mijn.overheid.nl)| **A+**| **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|403 Forbidden|
+|[https://pp1.toegang.overheid.nl](https://pp1.toegang.overheid.nl)| | **E**|| | | | | | | | :white_check_mark: | |Bootstrap:1.13.18 HSTS|No Access! / Gee...|
 |[https://wetgevingskalender-acc.overheid.nl](https://wetgevingskalender-acc.overheid.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|403 Forbidden|
 |[https://beta-wetten.overheid.nl](https://beta-wetten.overheid.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS|Eenvoudig zoeken...|
 |[https://autodiscover.overheid.nl](https://autodiscover.overheid.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Not Found|
@@ -328,4 +329,5 @@
 |[https://community.developer.overheid.nl](https://community.developer.overheid.nl)| | **B**|nginx| | | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Discourse Nginx Ruby on Rails|Developer Overhe...|
 |[https://ftp.overheid.nl](https://ftp.overheid.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|503 Service Unav...|
 |[https://beta-wetten-acc.overheid.nl](https://beta-wetten-acc.overheid.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS|Eenvoudig zoeken...|
+|[http://api.standaarden.overheid.nl](http://api.standaarden.overheid.nl)| | **E**|| | | | | | | | :white_check_mark: | ||| (503)|
 

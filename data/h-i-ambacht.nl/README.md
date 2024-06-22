@@ -11,7 +11,7 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/h-i-ambacht.nl/subdomains.txt)|22|Alive subdomains|
+|[subdomains.txt](/data/h-i-ambacht.nl/subdomains.txt)|23|Alive subdomains|
 |[urls.txt](/data/h-i-ambacht.nl/urls.txt)|21|Urls|
 |[all_subdomains.txt](/data/h-i-ambacht.nl/all_subdomains.txt)|31|All found subdomains (history)|
 
@@ -29,7 +29,7 @@
 |[https://gisib-test.h-i-ambacht.nl](https://gisib-test.h-i-ambacht.nl)| **B**| **B**||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS Microsoft ASP.NET|Object moved|
 |[https://web.h-i-ambacht.nl](https://web.h-i-ambacht.nl)| **A+**| **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://loket.test.h-i-ambacht.nl](https://loket.test.h-i-ambacht.nl)| **A+**| **A**||:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Java|Fout|
-|[http://vergunningintaker-preprod.h-i-ambacht.nl](http://vergunningintaker-preprod.h-i-ambacht.nl)| **A+**| **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Express HSTS Node.js||
+|[https://vergunningintaker-preprod.h-i-ambacht.nl](https://vergunningintaker-preprod.h-i-ambacht.nl)| **A+**| **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Express Google Cloud Google Cloud CDN HSTS HTTP/3 Node.js||
 |[https://college.h-i-ambacht.nl](https://college.h-i-ambacht.nl)| **A+**| **B**|Apache|:white_check_mark: |:white_check_mark: | | |:warning: | | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
 |[https://gisib.h-i-ambacht.nl](https://gisib.h-i-ambacht.nl)| **B**| **B**||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS Microsoft ASP.NET|Object moved|
 |[https://www.h-i-ambacht.nl](https://www.h-i-ambacht.nl)| **A+**| **A**||:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache Tomcat Green Valley CMS HSTS Java|Inwoners - Gemee...|
@@ -39,7 +39,7 @@
 |[https://raad.h-i-ambacht.nl](https://raad.h-i-ambacht.nl)| **A+**| **A**|Apache|:warning: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS|hendrikidoambach...|
 |[https://gisibgeoserver-test.h-i-ambacht.nl](https://gisibgeoserver-test.h-i-ambacht.nl)| **B**| **A**|| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |||
 |[https://rxlaunch-signicat-preprod.h-i-ambacht.nl](https://rxlaunch-signicat-preprod.h-i-ambacht.nl)| **A+**| **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
-|[http://vergunningintaker.h-i-ambacht.nl](http://vergunningintaker.h-i-ambacht.nl)| **A+**| **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Express HSTS Node.js||
+|[https://vergunningintaker.h-i-ambacht.nl](https://vergunningintaker.h-i-ambacht.nl)| **A+**| **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Express Google Cloud Google Cloud CDN HSTS HTTP/3 Node.js||
 |[https://vthbroker.h-i-ambacht.nl](https://vthbroker.h-i-ambacht.nl)| **A+**| **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
 |[https://omgevingsvisie.h-i-ambacht.nl](https://omgevingsvisie.h-i-ambacht.nl)| **A+**| **C**|Apache| |:white_check_mark: | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|Omgevingsvisie H...|
 

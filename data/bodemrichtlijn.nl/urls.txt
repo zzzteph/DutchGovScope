@@ -1668,3 +1668,5 @@ https://koti.bodemrichtlijn.nl
 https://reizen-overzichten.bodemrichtlijn.nl
 https://zsc.bodemrichtlijn.nl
 https://hydrauli-www.bodemrichtlijn.nl
+https://hwww.bodemrichtlijn.nl
+https://aangepakt.referentieswww.bodemrichtlijn.nl

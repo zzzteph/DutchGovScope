@@ -747,3 +747,5 @@ kpi.dfront.rijkscloud.nl
 elkprx1.ec.rijkscloud.nl
 ipa1.ec.rijkscloud.nl
 portal.ds-ocw.rijkscloud.nl
+ip4.rijkscloud.nl
+ip6.rijkscloud.nl

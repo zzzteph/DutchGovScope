@@ -2,10 +2,10 @@
 layout: default
 title: "kabinetvandekoning.nl"
 permalink: "/dutchgov/kabinetvandekoning.nl.html"
-subdomains_count: 21
+subdomains_count: 20
 all_subdomains_count: 29
-urls_count: 11
-ssl_rank: A-
+urls_count: 10
+ssl_rank: A+
 http_rank: B
 security_txt: 7
 url_link: /data/kabinetvandekoning.nl/urls.txt
@@ -20,15 +20,15 @@ tags: dutchgov
 ## Summary data
 
 
- - **SSL Grade**:A-
+ - **SSL Grade**:A+
  - **HTTP Security Grade**:B
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:7
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/kabinetvandekoning.nl/subdomains.txt)|21|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/kabinetvandekoning.nl/urls.txt)|11|Urls|
+|[subdomains.txt](/DutchGovScope/data/kabinetvandekoning.nl/subdomains.txt)|20|Alive subdomains|
+|[urls.txt](/DutchGovScope/data/kabinetvandekoning.nl/urls.txt)|10|Urls|
 |[all_subdomains.txt](/DutchGovScope/data/kabinetvandekoning.nl/all_subdomains.txt)|29|All found subdomains (history)|
 
 
@@ -40,7 +40,6 @@ tags: dutchgov
 |[https://english.kabinetvandekoning.nl](https://english.kabinetvandekoning.nl)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Home | King's Of...|
 |[https://feeds.kabinetvandekoning.nl](https://feeds.kabinetvandekoning.nl)| **A+**| **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://feeds.english.kabinetvandekoning.nl](https://feeds.english.kabinetvandekoning.nl)| **A+**| **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
-|[https://mail.kabinetvandekoning.nl](https://mail.kabinetvandekoning.nl)| **F**| **E**|| | | | | | | | :white_check_mark: | |HSTS||
 |[https://opendata.kabinetvandekoning.nl](https://opendata.kabinetvandekoning.nl)| **A+**| **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://opendata.english.kabinetvandekoning.nl](https://opendata.english.kabinetvandekoning.nl)| **A+**| **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://www.kabinetvandekoning.nl](https://www.kabinetvandekoning.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Home | Kabinet v...|

@@ -2,7 +2,7 @@ http://pki.dnb.nl
 https://www.dnb.nl
 https://dgsp.dnb.nl
 https://toezicht.dnb.nl
-https://nieuwsapp.dnb.nl
+http://nieuwsapp.dnb.nl
 https://www.cn.dnb.nl
 https://muntvondsten.dnb.nl
 https://etender.dnb.nl

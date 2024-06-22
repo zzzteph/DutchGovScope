@@ -1,5 +1,4 @@
 https://feeds.bureauncdr.nl
-https://np2022.bureauncdr.nl
 https://opendata.bureauncdr.nl
 https://www.bureauncdr.nl
 https://bureauncdr.nl

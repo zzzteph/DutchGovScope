@@ -53,7 +53,7 @@
 |[http://digikoppeling2.cibg.nl](http://digikoppeling2.cibg.nl)| **F**| **F**|BigIP| | | | | | | | :white_check_mark: | |F5 BigIP||
 |[https://feeds.cibg.nl](https://feeds.cibg.nl)| **A+**| **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://forms.klopt.cibg.nl](https://forms.klopt.cibg.nl)| **A**| **E**|| | | | | | | | :white_check_mark: | ||404 Not Found|
-|[https://lir.cibg.nl](https://lir.cibg.nl)| **A**| **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
+|[https://lir.cibg.nl](https://lir.cibg.nl)| **A**| **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Landelijk Implan...|
 |[https://manager.klopt.cibg.nl](https://manager.klopt.cibg.nl)| **A**| **F**||:white_check_mark: | | | | | | | :white_check_mark: | |||
 |[https://meldingen.klopt.cibg.nl](https://meldingen.klopt.cibg.nl)| **B**| **E**|| | | | | | | | :white_check_mark: | |Amazon ALB Amazon Web Services HSTS Microsoft ASP.NET|Object moved|
 |[https://opendata.cibg.nl](https://opendata.cibg.nl)| **A+**| **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
@@ -65,7 +65,7 @@
 |[http://test.digikoppeling.cibg.nl](http://test.digikoppeling.cibg.nl)| **F**| **D**|-| | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |||
 |[https://test.publicwebservices.cibg.nl](https://test.publicwebservices.cibg.nl)| **A**| **A**|-| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://tmv.cibg.nl](https://tmv.cibg.nl)| **A**| **A**|-| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
-|[https://uzipas.lir.cibg.nl](https://uzipas.lir.cibg.nl)| **A**| **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
+|[https://uzipas.lir.cibg.nl](https://uzipas.lir.cibg.nl)| **A**| **A**|-| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Landelijk Implan...|
 |[https://webchat.klopt.cibg.nl](https://webchat.klopt.cibg.nl)| **A**| **E**|| | | | | | | | :white_check_mark: | ||404 Not Found|
 |[http://webservices.lrza.cibg.nl](http://webservices.lrza.cibg.nl)| **F**| **F**|BigIP| | | | | | | | :white_check_mark: | |F5 BigIP||
 |[https://www.cibg.nl](https://www.cibg.nl)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Home | CIBG|

@@ -1779,3 +1779,10 @@ peewee.pleio.nl
 damesvoetbal.pleio.nl
 huishoudbeurs.pleio.nl
 linky.pleio.nl
+auth.k8sauth.pleio.nl
+idm.k8sauth.pleio.nl
+oauth.k8sauth.pleio.nl
+alth.pleio.nl
+cies.pleio.nl
+blsp.pleio.nl
+digilab.pleio.nl

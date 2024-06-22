@@ -2,9 +2,9 @@
 layout: default
 title: "persberichten.rijksoverheid.nl"
 permalink: "/dutchgov/persberichten.rijksoverheid.nl.html"
-subdomains_count: 5
+subdomains_count: 3
 all_subdomains_count: 15
-urls_count: 5
+urls_count: 3
 ssl_rank: A+
 http_rank: A
 security_txt: 3
@@ -27,8 +27,8 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/persberichten.rijksoverheid.nl/subdomains.txt)|5|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/persberichten.rijksoverheid.nl/urls.txt)|5|Urls|
+|[subdomains.txt](/DutchGovScope/data/persberichten.rijksoverheid.nl/subdomains.txt)|3|Alive subdomains|
+|[urls.txt](/DutchGovScope/data/persberichten.rijksoverheid.nl/urls.txt)|3|Urls|
 |[all_subdomains.txt](/DutchGovScope/data/persberichten.rijksoverheid.nl/all_subdomains.txt)|15|All found subdomains (history)|
 
 
@@ -39,7 +39,5 @@ tags: dutchgov
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[https://feeds.persberichten.rijksoverheid.nl](https://feeds.persberichten.rijksoverheid.nl)| **A+**| **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://opendata.persberichten.rijksoverheid.nl](https://opendata.persberichten.rijksoverheid.nl)| **A+**| **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
-|[https://downloads.persberichten.rijksoverheid.nl](https://downloads.persberichten.rijksoverheid.nl)| **A+**| **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|404 - Not Found|
-|[https://a-downloads.persberichten.rijksoverheid.nl](https://a-downloads.persberichten.rijksoverheid.nl)| **A+**| **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|404 - Not Found|
 |[https://persberichten.rijksoverheid.nl](https://persberichten.rijksoverheid.nl)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Home | Persberic...|
 

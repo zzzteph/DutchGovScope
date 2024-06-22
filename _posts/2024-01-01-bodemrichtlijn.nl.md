@@ -4,7 +4,7 @@ title: "bodemrichtlijn.nl"
 permalink: "/dutchgov/bodemrichtlijn.nl.html"
 subdomains_count: 1672
 all_subdomains_count: 1674
-urls_count: 1670
+urls_count: 1672
 ssl_rank: C
 http_rank: E
 security_txt: 3
@@ -28,7 +28,7 @@ tags: dutchgov
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/DutchGovScope/data/bodemrichtlijn.nl/subdomains.txt)|1672|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/bodemrichtlijn.nl/urls.txt)|1670|Urls|
+|[urls.txt](/DutchGovScope/data/bodemrichtlijn.nl/urls.txt)|1672|Urls|
 |[all_subdomains.txt](/DutchGovScope/data/bodemrichtlijn.nl/all_subdomains.txt)|1674|All found subdomains (history)|
 
 
@@ -1707,4 +1707,6 @@ tags: dutchgov
 |[https://reizen-overzichten.bodemrichtlijn.nl](https://reizen-overzichten.bodemrichtlijn.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Microsoft Azure...|
 |[https://zsc.bodemrichtlijn.nl](https://zsc.bodemrichtlijn.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Microsoft Azure...|
 |[https://hydrauli-www.bodemrichtlijn.nl](https://hydrauli-www.bodemrichtlijn.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Microsoft Azure...|
+|[https://hwww.bodemrichtlijn.nl](https://hwww.bodemrichtlijn.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Microsoft Azure...|
+|[https://aangepakt.referentieswww.bodemrichtlijn.nl](https://aangepakt.referentieswww.bodemrichtlijn.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Microsoft Azure...|
 

@@ -12,7 +12,7 @@
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/bodemrichtlijn.nl/subdomains.txt)|1672|Alive subdomains|
-|[urls.txt](/data/bodemrichtlijn.nl/urls.txt)|1670|Urls|
+|[urls.txt](/data/bodemrichtlijn.nl/urls.txt)|1672|Urls|
 |[all_subdomains.txt](/data/bodemrichtlijn.nl/all_subdomains.txt)|1674|All found subdomains (history)|
 
 
@@ -1691,4 +1691,6 @@
 |[https://reizen-overzichten.bodemrichtlijn.nl](https://reizen-overzichten.bodemrichtlijn.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Microsoft Azure...|
 |[https://zsc.bodemrichtlijn.nl](https://zsc.bodemrichtlijn.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Microsoft Azure...|
 |[https://hydrauli-www.bodemrichtlijn.nl](https://hydrauli-www.bodemrichtlijn.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Microsoft Azure...|
+|[https://hwww.bodemrichtlijn.nl](https://hwww.bodemrichtlijn.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Microsoft Azure...|
+|[https://aangepakt.referentieswww.bodemrichtlijn.nl](https://aangepakt.referentieswww.bodemrichtlijn.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Microsoft Azure...|
 

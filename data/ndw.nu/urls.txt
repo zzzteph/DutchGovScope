@@ -27,7 +27,6 @@ https://mlops-platform.ndw.nu
 https://mlops-tracking.ndw.nu
 https://mogin.ndw.nu
 https://ncis.ndw.nu
-https://ndss-idea.ndw.nu
 https://ndwviewer.ndw.nu
 https://nls.ndw.nu
 https://nt.ndw.nu
@@ -84,3 +83,4 @@ https://security.staging.ndw.nu
 https://design.ndw.nu
 https://sentry.ndw.nu
 https://viz.ndw.nu
+https://daisi.ndw.nu

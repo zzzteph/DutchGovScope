@@ -90,7 +90,6 @@ https://mediaportal.cbs.nl
 https://meet.cbs.nl
 https://micollab.cbs.nl
 https://micollabtest.cbs.nl
-https://microdatavpn.cbs.nl
 https://mig.cbs.nl
 https://mkbstatline.cbs.nl
 https://mkbstatline2.cbs.nl
@@ -147,7 +146,6 @@ https://veiligleveren.cbs.nl
 https://videoplatform.cbs.nl
 https://videos.cbs.nl
 https://vocabs.cbs.nl
-https://vpn1.cbs.nl
 https://webext.cbs.nl
 https://webserver.cbs.nl
 https://welkombij.cbs.nl

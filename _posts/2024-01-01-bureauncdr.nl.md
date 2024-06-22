@@ -2,11 +2,11 @@
 layout: default
 title: "bureauncdr.nl"
 permalink: "/dutchgov/bureauncdr.nl.html"
-subdomains_count: 8
+subdomains_count: 7
 all_subdomains_count: 8
-urls_count: 5
+urls_count: 4
 ssl_rank: A+
-http_rank: B
+http_rank: A
 security_txt: 4
 url_link: /data/bureauncdr.nl/urls.txt
 all_subdomains_link: /data/bureauncdr.nl/all_subdomains.txt
@@ -21,14 +21,14 @@ tags: dutchgov
 
 
  - **SSL Grade**:A+
- - **HTTP Security Grade**:B
+ - **HTTP Security Grade**:A
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:4
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/bureauncdr.nl/subdomains.txt)|8|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/bureauncdr.nl/urls.txt)|5|Urls|
+|[subdomains.txt](/DutchGovScope/data/bureauncdr.nl/subdomains.txt)|7|Alive subdomains|
+|[urls.txt](/DutchGovScope/data/bureauncdr.nl/urls.txt)|4|Urls|
 |[all_subdomains.txt](/DutchGovScope/data/bureauncdr.nl/all_subdomains.txt)|8|All found subdomains (history)|
 
 
@@ -38,7 +38,6 @@ tags: dutchgov
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[https://feeds.bureauncdr.nl](https://feeds.bureauncdr.nl)| **A+**| **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
-|[https://np2022.bureauncdr.nl](https://np2022.bureauncdr.nl)| **A**| **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|The account host...|
 |[https://opendata.bureauncdr.nl](https://opendata.bureauncdr.nl)| **A+**| **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://www.bureauncdr.nl](https://www.bureauncdr.nl)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Nationaal Coördi...|
 |[https://bureauncdr.nl](https://bureauncdr.nl)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|

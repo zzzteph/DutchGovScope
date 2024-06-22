@@ -2,12 +2,12 @@
 layout: default
 title: "irealisatie.nl"
 permalink: "/dutchgov/irealisatie.nl.html"
-subdomains_count: 62
-all_subdomains_count: 63
+subdomains_count: 63
+all_subdomains_count: 65
 urls_count: 52
 ssl_rank: 
 http_rank: B
-security_txt: 39
+security_txt: 40
 url_link: /data/irealisatie.nl/urls.txt
 all_subdomains_link: /data/irealisatie.nl/all_subdomains.txt
 subdomains_link: /data/irealisatie.nl/subdomains.txt
@@ -22,14 +22,14 @@ tags: dutchgov
 
  - **SSL Grade**:
  - **HTTP Security Grade**:B
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:39
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:40
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/irealisatie.nl/subdomains.txt)|62|Alive subdomains|
+|[subdomains.txt](/DutchGovScope/data/irealisatie.nl/subdomains.txt)|63|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/irealisatie.nl/urls.txt)|52|Urls|
-|[all_subdomains.txt](/DutchGovScope/data/irealisatie.nl/all_subdomains.txt)|63|All found subdomains (history)|
+|[all_subdomains.txt](/DutchGovScope/data/irealisatie.nl/all_subdomains.txt)|65|All found subdomains (history)|
 
 
 ## Statistics
@@ -70,10 +70,10 @@ tags: dutchgov
 |[http://acme.proeftuin.uzi-online.irealisatie.nl](http://acme.proeftuin.uzi-online.irealisatie.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[http://test.mgo.irealisatie.nl](http://test.mgo.irealisatie.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://app-api.test.mgo.irealisatie.nl](https://app-api.test.mgo.irealisatie.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS||
-|[https://balie.dpr.irealisatie.nl](https://balie.dpr.irealisatie.nl)| | **A**||:warning: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Redirecting to h...|
+|[https://balie.dpr.irealisatie.nl](https://balie.dpr.irealisatie.nl)| | **B**|Apache| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS||
 |[https://start.test.dusi.irealisatie.nl](https://start.test.dusi.irealisatie.nl)| | **A**|Apache| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS||
 |[https://start.acc.dusi.irealisatie.nl](https://start.acc.dusi.irealisatie.nl)| | **A**|Apache| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS||
-|[https://collabora.acc.irealisatie.nl](https://collabora.acc.irealisatie.nl)| | **F**|COOLWSD HTTP Server 24.04.1.4| | | | | | | | :white_check_mark: | |||
+|[https://collabora.acc.irealisatie.nl](https://collabora.acc.irealisatie.nl)| | **B**|Apache| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS||
 |[https://stats.test.mgo.irealisatie.nl](https://stats.test.mgo.irealisatie.nl)| | **B**|Apache| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server Basic HSTS|401 Unauthorized|
 |[https://uren.acc.irealisatie.nl](https://uren.acc.irealisatie.nl)| | **A**|Apache| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server Basic HSTS|401 Unauthorized|
 |[https://uren.irealisatie.nl](https://uren.irealisatie.nl)| | **A**|Apache| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server Basic HSTS|401 Unauthorized|

@@ -245,3 +245,14 @@ vos-acc.politieacademie.politie.nl
 vos-test.politieacademie.politie.nl
 onderzoek.politie.nl
 enlets.politie.nl
+api.enlets-acc.politie.nl
+chat.enlets-acc.politie.nl
+dav.enlets-acc.politie.nl
+enlets-acc.politie.nl
+push.enlets-acc.politie.nl
+api.enlets.politie.nl
+chat.enlets.politie.nl
+dav.enlets.politie.nl
+push.enlets.politie.nl
+aton.politieacademie.politie.nl
+apps.politieacademie.politie.nl

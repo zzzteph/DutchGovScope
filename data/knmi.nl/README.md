@@ -11,9 +11,9 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/knmi.nl/subdomains.txt)|159|Alive subdomains|
-|[urls.txt](/data/knmi.nl/urls.txt)|63|Urls|
-|[all_subdomains.txt](/data/knmi.nl/all_subdomains.txt)|269|All found subdomains (history)|
+|[subdomains.txt](/data/knmi.nl/subdomains.txt)|158|Alive subdomains|
+|[urls.txt](/data/knmi.nl/urls.txt)|61|Urls|
+|[all_subdomains.txt](/data/knmi.nl/all_subdomains.txt)|273|All found subdomains (history)|
 
 
 ## Statistics
@@ -36,7 +36,7 @@
 |[https://consultatie.knmi.nl](https://consultatie.knmi.nl)| **B**| **F**|Apache/2.4.25 (Debian)|:o: | | | | | | | :white_check_mark: | |Amazon ALB Amazon Web Services Apache HTTP Server:2.4.25 CakePHP Debian PHP:5.6.40||
 |[https://daggegevens.knmi.nl](https://daggegevens.knmi.nl)| **A**| **E**||:warning: | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Ruby Ruby on Rails|Dagwaarden van w...|
 |[https://data.knmi.nl](https://data.knmi.nl)| **A**| **A**|awselb/2.0| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |Amazon ELB Amazon Web Services|301 Moved Perman...|
-|[https://datalab.knmi.nl](https://datalab.knmi.nl)| **A**| **F**|Apache/2| | | | | | | | :white_check_mark: | |Apache HTTP Server:2 MySQL PHP WPML:4.6.10 WordPress:6.5.3 Yoast SEO:22.6|KNMI datalab - K...|
+|[https://datalab.knmi.nl](https://datalab.knmi.nl)| **A**| **F**|Apache/2| | | | | | | | :white_check_mark: | |Apache HTTP Server:2 MySQL PHP WPML:4.6.11 WordPress:6.5.4 Yoast SEO:22.8|KNMI datalab - K...|
 |[https://dataplatform.knmi.nl](https://dataplatform.knmi.nl)| **A+**| **A**|gunicorn| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |Amazon S3 Amazon Web Services Ckan:2.9.11 HSTS Java PostgreSQL Python Solr gunicorn|Welcome - KNMI D...|
 |[https://developer.dataplatform.knmi.nl](https://developer.dataplatform.knmi.nl)| **A+**| **A**|| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Bootstrap HSTS|KNMI Developer p...|
 |[http://download.webmail.knmi.nl](http://download.webmail.knmi.nl)| **B**| **E**|| | | | | | | | :white_check_mark: | |||
@@ -56,7 +56,7 @@
 |[http://projects.knmi.nl](http://projects.knmi.nl)| | **A**|BigIP| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |F5 BigIP||
 |[https://rdsa.knmi.nl](https://rdsa.knmi.nl)| **C**| **F**|Apache|:white_check_mark: | | | | | | | :white_check_mark: | |Apache HTTP Server Bootstrap|KNMI Seismic & A...|
 |[https://rdsa-prdt.knmi.nl](https://rdsa-prdt.knmi.nl)| **F**| **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server Bootstrap|KNMI Seismic & A...|
-|[http://rdsa-test.knmi.nl](http://rdsa-test.knmi.nl)| | **F**|Apache|:white_check_mark: | | | | | | | :white_check_mark: | |Apache HTTP Server|Test Page for th...|
+|[http://rdsa-test.knmi.nl](http://rdsa-test.knmi.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|403 Forbidden|
 |[https://scatterometer.knmi.nl](https://scatterometer.knmi.nl)| **A**| **F**|Apache/2.4.57 (Debian)|:o: | | | | | | | :white_check_mark: | |Amazon ALB Amazon Web Services Apache HTTP Server:2.4.57 Debian||
 |[https://testconn.knmi.nl](https://testconn.knmi.nl)| **B**| **C**||:warning: |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |F5 BigIP HSTS||
 |[https://testgeoservices.knmi.nl](https://testgeoservices.knmi.nl)| **F**| **F**|uvicorn| | | | | | | | :white_check_mark: | |HSTS Python Uvicorn||
@@ -69,7 +69,6 @@
 |[https://www.daggegevens.knmi.nl](https://www.daggegevens.knmi.nl)| **A**| **E**||:warning: | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Ruby Ruby on Rails|Dagwaarden van w...|
 |[https://mode-s.knmi.nl](https://mode-s.knmi.nl)| | **F**|BigIP| | | | | | | | :white_check_mark: | |F5 BigIP||
 |[https://confluence.knmi.nl](https://confluence.knmi.nl)| **A**| **F**|Caddy| | | | | | | | :white_check_mark: | |Caddy HTTP/3||
-|[https://data.spaceweather.knmi.nl](https://data.spaceweather.knmi.nl)| **B**| **F**|Apache/2.4.52 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.52 Ubuntu|Apache2 Ubuntu D...|
 |[https://spaceweather.knmi.nl](https://spaceweather.knmi.nl)| **A**| **F**|AmazonS3| | | | | | | | :white_check_mark: | |Amazon CloudFront Amazon S3 Amazon Web Services|Space Weather at...|
 |[https://acc.spaceweather.knmi.nl](https://acc.spaceweather.knmi.nl)| **A**| **F**|AmazonS3| | | | | | | | :white_check_mark: | |Amazon CloudFront Amazon S3 Amazon Web Services|Space Weather at...|
 |[https://knmi.nl](https://knmi.nl)| **A**| **A**|awselb/2.0| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Amazon ELB Amazon Web Services|301 Moved Perman...|
@@ -80,8 +79,7 @@
 |[https://www.klimaatscenarios-data.knmi.nl](https://www.klimaatscenarios-data.knmi.nl)| **A+**| **B**||:warning: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Amazon CloudFront Amazon Web Services HSTS Ruby Ruby on Rails|KNMI Klimaatscen...|
 |[https://mqtt.dataplatform.knmi.nl](https://mqtt.dataplatform.knmi.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://origin.klimaatscenarios-data.knmi.nl](https://origin.klimaatscenarios-data.knmi.nl)| | **F**|awselb/2.0| | | | | | | | :white_check_mark: | |Amazon ELB Amazon Web Services||
-|[https://anonymous.api.dataplatform.knmi.nl](https://anonymous.api.dataplatform.knmi.nl)| **A**| **F**|nginx/1.26.0| | | | | | | | :white_check_mark: | |Nginx:1.26.0|404 Not Found|
+|[https://anonymous.api.dataplatform.knmi.nl](https://anonymous.api.dataplatform.knmi.nl)| **A**| **F**|nginx/1.26.1| | | | | | | | :white_check_mark: | |Nginx:1.26.1|404 Not Found|
 |[https://cms-origin.klimaatscenarios-data.knmi.nl](https://cms-origin.klimaatscenarios-data.knmi.nl)| **A**| **F**|awselb/2.0| | | | | | | | :white_check_mark: | |Amazon ELB Amazon Web Services||
-|[https://data.acc.spaceweather.knmi.nl](https://data.acc.spaceweather.knmi.nl)| | **F**|Apache/2.4.52 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.52 Ubuntu|Apache2 Ubuntu D...|
 |[https://cdn.klimaatscenarios-data.knmi.nl](https://cdn.klimaatscenarios-data.knmi.nl)| | **A**|AmazonS3| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Amazon CloudFront Amazon S3 Amazon Web Services HSTS||
 

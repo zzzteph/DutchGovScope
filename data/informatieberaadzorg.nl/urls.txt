@@ -1,5 +1,5 @@
 https://feeds.informatieberaadzorg.nl
 https://opendata.informatieberaadzorg.nl
-https://platform.informatieberaadzorg.nl
+http://platform.informatieberaadzorg.nl
 https://www.informatieberaadzorg.nl
 https://informatieberaadzorg.nl

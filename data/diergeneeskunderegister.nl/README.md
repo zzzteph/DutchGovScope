@@ -6,7 +6,7 @@
 
  - **SSL Grade**:A
  - **HTTP Security Grade**:A
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:9
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:10
 
 
 | File       | Count | Info |
@@ -27,10 +27,10 @@
 |[https://acceptatie.zoeken.diergeneeskunderegister.nl](https://acceptatie.zoeken.diergeneeskunderegister.nl)| **A**| **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://beheer.diergeneeskunderegister.nl](https://beheer.diergeneeskunderegister.nl)| **A**| **A**|-| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://feeds.diergeneeskunderegister.nl](https://feeds.diergeneeskunderegister.nl)| **A+**| **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
-|[https://mijn.diergeneeskunderegister.nl](https://mijn.diergeneeskunderegister.nl)| **A**| **A**|-| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
+|[https://mijn.diergeneeskunderegister.nl](https://mijn.diergeneeskunderegister.nl)| **A**| **A**|-| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Mijn Diergeneesk...|
 |[https://opendata.diergeneeskunderegister.nl](https://opendata.diergeneeskunderegister.nl)| **A+**| **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://webservices.diergeneeskunderegister.nl](https://webservices.diergeneeskunderegister.nl)| **A**| **A**|-| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://www.diergeneeskunderegister.nl](https://www.diergeneeskunderegister.nl)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Home | Diergenee...|
-|[https://zoeken.diergeneeskunderegister.nl](https://zoeken.diergeneeskunderegister.nl)| **A**| **A**|-| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
+|[https://zoeken.diergeneeskunderegister.nl](https://zoeken.diergeneeskunderegister.nl)| **A**| **A**|-|:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://diergeneeskunderegister.nl](https://diergeneeskunderegister.nl)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
 

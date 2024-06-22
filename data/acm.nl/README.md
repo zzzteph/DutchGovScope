@@ -24,7 +24,7 @@
 |[https://denkmee.acm.nl](https://denkmee.acm.nl)| **A+**| **A**|Apache| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS|301 Moved Perman...|
 |[https://mijn.acm.nl](https://mijn.acm.nl)| **F**| **F**|nginx| | | | | | | | :white_check_mark: | |Basic Nginx|401 Authorizatio...|
 |[https://vsp.acm.nl](https://vsp.acm.nl)| **A**| **D**|server| | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | ||302 Found|
-|[https://www.acm.nl](https://www.acm.nl)| **A+**| **A**|Apache| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server Drupal HSTS PHP:8.1.28|Redirecting to h...|
+|[https://www.acm.nl](https://www.acm.nl)| **A+**| **A**|Apache| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server Drupal HSTS PHP:8.1.29|Redirecting to h...|
 |[https://auth.services.acm.nl](https://auth.services.acm.nl)| **A**| **A**|Microsoft-IIS/10.0| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server|Document Moved|
 |[https://cryptshare.services.acm.nl](https://cryptshare.services.acm.nl)| **A+**| **A**|| |:white_check_mark: | | |:warning: | | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://denkmee.bijna.acm.nl](https://denkmee.bijna.acm.nl)| **F**| **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|403 Forbidden|

@@ -1,9 +1,7 @@
-a-downloads.persberichten.rijksoverheid.nl
 acc-mailing.rijksoverheid.nl
 coronadashboard.rijksoverheid.nl
 dns-web10.rijksoverheid.nl
 dns-web300.rijksoverheid.nl
-downloads.persberichten.rijksoverheid.nl
 e-maildiensten.rijksoverheid.nl
 feeds.rijksoverheid.nl
 feeds.persberichten.rijksoverheid.nl
@@ -93,3 +91,4 @@ i-www.rijksoverheid.nl
 landingpage.rijksoverheid.nl
 relay.rijksoverheid.nl
 e-mailabonnementen.rijksoverheid.nl
+woo-formulier.rijksoverheid.nl

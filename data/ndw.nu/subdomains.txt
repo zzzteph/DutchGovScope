@@ -27,7 +27,6 @@ mlops-platform.ndw.nu
 mlops-tracking.ndw.nu
 mogin.ndw.nu
 ncis.ndw.nu
-ndss-idea.ndw.nu
 ndwviewer.ndw.nu
 nls.ndw.nu
 nt.ndw.nu

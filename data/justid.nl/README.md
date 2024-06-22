@@ -5,8 +5,8 @@
 
 
  - **SSL Grade**:A
- - **HTTP Security Grade**:C
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:15
+ - **HTTP Security Grade**:B
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:16
 
 
 | File       | Count | Info |
@@ -21,7 +21,7 @@
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://acc-referentiegegevens.justid.nl](https://acc-referentiegegevens.justid.nl)| **B**| **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|A-Select Filter...|
+|[https://acc-referentiegegevens.justid.nl](https://acc-referentiegegevens.justid.nl)| **B**| **A**|Apache|:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS|A-Select Filter...|
 |[https://ainformatieportaal.justid.nl](https://ainformatieportaal.justid.nl)| **B**| **A**|Apache|:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS|A-Select Filter...|
 |[https://autodiscover.justid.nl](https://autodiscover.justid.nl)| **A**| **E**|| | | | | | | | :white_check_mark: | |||
 |[https://dialin.justid.nl](https://dialin.justid.nl)| **A**| **E**|| | | | | | | | :white_check_mark: | |||

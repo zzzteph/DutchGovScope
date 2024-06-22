@@ -61,3 +61,5 @@ max.acc.mgo.irealisatie.nl
 lo-ad.acc.mgo.irealisatie.nl
 dva.acc.mgo.irealisatie.nl
 nextcloud.acc.irealisatie.nl
+cts.test.woo.irealisatie.nl
+mailcatch.test.woo.irealisatie.nl

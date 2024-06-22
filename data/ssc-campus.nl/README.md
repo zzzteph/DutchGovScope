@@ -13,7 +13,7 @@
 |------------|-------|------|
 |[subdomains.txt](/data/ssc-campus.nl/subdomains.txt)|35|Alive subdomains|
 |[urls.txt](/data/ssc-campus.nl/urls.txt)|18|Urls|
-|[all_subdomains.txt](/data/ssc-campus.nl/all_subdomains.txt)|551|All found subdomains (history)|
+|[all_subdomains.txt](/data/ssc-campus.nl/all_subdomains.txt)|552|All found subdomains (history)|
 
 
 ## Statistics

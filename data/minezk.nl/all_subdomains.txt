@@ -7,3 +7,4 @@ lyncdiscover.minezk.nl
 fmis.minezk.nl
 datacatalogus.minezk.nl
 scanapp-acc.minezk.nl
+tcs.pb116.minezk.nl

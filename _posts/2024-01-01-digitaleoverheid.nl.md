@@ -7,7 +7,7 @@ all_subdomains_count: 9
 urls_count: 4
 ssl_rank: A+
 http_rank: C
-security_txt: 2
+security_txt: 3
 url_link: /data/digitaleoverheid.nl/urls.txt
 all_subdomains_link: /data/digitaleoverheid.nl/all_subdomains.txt
 subdomains_link: /data/digitaleoverheid.nl/subdomains.txt
@@ -22,7 +22,7 @@ tags: dutchgov
 
  - **SSL Grade**:A+
  - **HTTP Security Grade**:C
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:2
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:3
 
 
 | File       | Count | Info |
@@ -40,5 +40,5 @@ tags: dutchgov
 |[https://accept.digitaleoverheid.nl](https://accept.digitaleoverheid.nl)| **A+**| **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |Basic HSTS Nginx|401 Authorizatio...|
 |[https://www.digitaleoverheid.nl](https://www.digitaleoverheid.nl)| **A+**| **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS MySQL Nginx PHP:8.2.19 WordPress:6.5.3 Yoast SEO:22.8|Home - Digitale...|
 |[https://digitaleoverheid.nl](https://digitaleoverheid.nl)| **A+**| **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS MySQL Nginx PHP:8.2.19 WordPress||
-|[https://test.digitaleoverheid.nl](https://test.digitaleoverheid.nl)| | **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS MySQL Nginx PHP:8.3.7 WordPress|Digitale Overhei...|
+|[https://test.digitaleoverheid.nl](https://test.digitaleoverheid.nl)| | **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS MySQL Nginx PHP:8.3.7 WordPress:6.5.4 Yoast SEO:22.8|Home - Digitale...|
 

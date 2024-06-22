@@ -13,7 +13,7 @@
 |------------|-------|------|
 |[subdomains.txt](/data/rijkscloud.nl/subdomains.txt)|555|Alive subdomains|
 |[urls.txt](/data/rijkscloud.nl/urls.txt)|151|Urls|
-|[all_subdomains.txt](/data/rijkscloud.nl/all_subdomains.txt)|749|All found subdomains (history)|
+|[all_subdomains.txt](/data/rijkscloud.nl/all_subdomains.txt)|751|All found subdomains (history)|
 
 
 ## Statistics

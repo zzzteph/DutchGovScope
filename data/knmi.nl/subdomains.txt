@@ -46,7 +46,6 @@ www.knmi.nl
 www.daggegevens.knmi.nl
 mode-s.knmi.nl
 confluence.knmi.nl
-data.spaceweather.knmi.nl
 spaceweather.knmi.nl
 acc.spaceweather.knmi.nl
 knmi.nl

@@ -1,7 +1,6 @@
 english.kabinetvandekoning.nl
 feeds.kabinetvandekoning.nl
 feeds.english.kabinetvandekoning.nl
-mail.kabinetvandekoning.nl
 opendata.kabinetvandekoning.nl
 opendata.english.kabinetvandekoning.nl
 www.kabinetvandekoning.nl

@@ -11,7 +11,7 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/hoesterkstaik.nl/subdomains.txt)|4|Alive subdomains|
+|[subdomains.txt](/data/hoesterkstaik.nl/subdomains.txt)|7|Alive subdomains|
 |[urls.txt](/data/hoesterkstaik.nl/urls.txt)|0|Urls|
 |[all_subdomains.txt](/data/hoesterkstaik.nl/all_subdomains.txt)|7|All found subdomains (history)|
 

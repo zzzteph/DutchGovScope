@@ -4,10 +4,10 @@ title: "rijkswaterstaat.nl"
 permalink: "/dutchgov/rijkswaterstaat.nl.html"
 subdomains_count: 131
 all_subdomains_count: 673
-urls_count: 88
+urls_count: 91
 ssl_rank: A-
 http_rank: C
-security_txt: 50
+security_txt: 53
 url_link: /data/rijkswaterstaat.nl/urls.txt
 all_subdomains_link: /data/rijkswaterstaat.nl/all_subdomains.txt
 subdomains_link: /data/rijkswaterstaat.nl/subdomains.txt
@@ -22,13 +22,13 @@ tags: dutchgov
 
  - **SSL Grade**:A-
  - **HTTP Security Grade**:C
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:50
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:53
 
 
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/DutchGovScope/data/rijkswaterstaat.nl/subdomains.txt)|131|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/rijkswaterstaat.nl/urls.txt)|88|Urls|
+|[urls.txt](/DutchGovScope/data/rijkswaterstaat.nl/urls.txt)|91|Urls|
 |[all_subdomains.txt](/DutchGovScope/data/rijkswaterstaat.nl/all_subdomains.txt)|673|All found subdomains (history)|
 
 
@@ -125,4 +125,7 @@ tags: dutchgov
 |[https://techniekacademie.rijkswaterstaat.nl](https://techniekacademie.rijkswaterstaat.nl)| **A+**| **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:-|Techniek Academi...|
 |[https://zaaksysteem-acc.rijkswaterstaat.nl](https://zaaksysteem-acc.rijkswaterstaat.nl)| **A+**| **A**||:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Moved|
 |[https://vpr.rijkswaterstaat.nl](https://vpr.rijkswaterstaat.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Website niet bes...|
+|[https://innovatieloket-acc.rijkswaterstaat.nl](https://innovatieloket-acc.rijkswaterstaat.nl)| | **B**|nginx| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS Nginx|Mendix|
+|[https://innovatieloket-tst.rijkswaterstaat.nl](https://innovatieloket-tst.rijkswaterstaat.nl)| | **B**|nginx| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS Nginx|Mendix|
+|[https://innovatieloket.rijkswaterstaat.nl](https://innovatieloket.rijkswaterstaat.nl)| | **B**|nginx| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS Nginx|Mendix|
 

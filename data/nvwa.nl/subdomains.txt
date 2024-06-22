@@ -53,3 +53,4 @@ a-magazinesintern.nvwa.nl
 a-opendata.a-english.nvwa.nl
 service.nvwa.nl
 labvantage.nvwa.nl
+soap.openbare-inspectieresultaten.nvwa.nl

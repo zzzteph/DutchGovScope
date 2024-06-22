@@ -80,3 +80,5 @@ mijnzaak.loket.om.nl
 a-www.om.nl
 a-feeds.om.nl
 a-opendata.om.nl
+zsmgame.om.nl
+acc.zsmgame.om.nl

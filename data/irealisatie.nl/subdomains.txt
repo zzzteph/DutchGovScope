@@ -60,3 +60,4 @@ app-api.acc.mgo.irealisatie.nl
 max.acc.mgo.irealisatie.nl
 lo-ad.acc.mgo.irealisatie.nl
 dva.acc.mgo.irealisatie.nl
+nextcloud.acc.irealisatie.nl

@@ -86,3 +86,6 @@ https://acceptatie-bmm2016.rijkswaterstaat.nl
 https://techniekacademie.rijkswaterstaat.nl
 https://zaaksysteem-acc.rijkswaterstaat.nl
 https://vpr.rijkswaterstaat.nl
+https://innovatieloket-acc.rijkswaterstaat.nl
+https://innovatieloket-tst.rijkswaterstaat.nl
+https://innovatieloket.rijkswaterstaat.nl

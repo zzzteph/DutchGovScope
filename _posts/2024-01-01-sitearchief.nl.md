@@ -2,12 +2,12 @@
 layout: default
 title: "sitearchief.nl"
 permalink: "/dutchgov/sitearchief.nl.html"
-subdomains_count: 121
+subdomains_count: 129
 all_subdomains_count: 129
-urls_count: 121
+urls_count: 126
 ssl_rank: A+
 http_rank: A
-security_txt: 86
+security_txt: 91
 url_link: /data/sitearchief.nl/urls.txt
 all_subdomains_link: /data/sitearchief.nl/all_subdomains.txt
 subdomains_link: /data/sitearchief.nl/subdomains.txt
@@ -22,13 +22,13 @@ tags: dutchgov
 
  - **SSL Grade**:A+
  - **HTTP Security Grade**:A
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:86
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:91
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/sitearchief.nl/subdomains.txt)|121|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/sitearchief.nl/urls.txt)|121|Urls|
+|[subdomains.txt](/DutchGovScope/data/sitearchief.nl/subdomains.txt)|129|Alive subdomains|
+|[urls.txt](/DutchGovScope/data/sitearchief.nl/urls.txt)|126|Urls|
 |[all_subdomains.txt](/DutchGovScope/data/sitearchief.nl/all_subdomains.txt)|129|All found subdomains (history)|
 
 
@@ -123,6 +123,11 @@ tags: dutchgov
 |[https://meldkamer.sitearchief.nl](https://meldkamer.sitearchief.nl)| | **A**|nginx|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx|Sitearchief - Me...|
 |[https://politie.sitearchief.nl](https://politie.sitearchief.nl)| | **A**|nginx|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx|Sitearchief - Po...|
 |[https://overzicht.sitearchief.nl](https://overzicht.sitearchief.nl)| | **C**|nginx|:white_check_mark: |:white_check_mark: | :warning:| | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS MySQL Nginx PHP WordPress|Overzicht Sitear...|
+|[https://forensischinstituut.sitearchief.nl](https://forensischinstituut.sitearchief.nl)| | **A**|nginx|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx|Sitearchief - Ne...|
+|[https://rsj.sitearchief.nl](https://rsj.sitearchief.nl)| | **A**|nginx|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx|Sitearchief - Ra...|
+|[https://waarderingskamer.sitearchief.nl](https://waarderingskamer.sitearchief.nl)| | **A**|nginx|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx|Sitearchief - Wa...|
+|[https://sodm.sitearchief.nl](https://sodm.sitearchief.nl)| | **A**|nginx|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx|Sitearchief - St...|
+|[https://minocw.sitearchief.nl](https://minocw.sitearchief.nl)| | **A**|nginx|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx|Sitearchief - Mi...|
 |[https://autoriteitnvs.sitearchief.nl](https://autoriteitnvs.sitearchief.nl)| | **A**|nginx|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx|Sitearchief - Au...|
 |[https://dienstterugkeerenvertrek.sitearchief.nl](https://dienstterugkeerenvertrek.sitearchief.nl)| | **A**|nginx|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx|Sitearchief - Di...|
 |[https://dienstuitvoeringonderwijs.sitearchief.nl](https://dienstuitvoeringonderwijs.sitearchief.nl)| | **A**|nginx|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx|Sitearchief - Di...|

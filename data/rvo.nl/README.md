@@ -6,14 +6,14 @@
 
  - **SSL Grade**:B+
  - **HTTP Security Grade**:C
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:44
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:45
 
 
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/rvo.nl/subdomains.txt)|167|Alive subdomains|
-|[urls.txt](/data/rvo.nl/urls.txt)|108|Urls|
-|[all_subdomains.txt](/data/rvo.nl/all_subdomains.txt)|275|All found subdomains (history)|
+|[urls.txt](/data/rvo.nl/urls.txt)|116|Urls|
+|[all_subdomains.txt](/data/rvo.nl/all_subdomains.txt)|276|All found subdomains (history)|
 
 
 ## Statistics
@@ -115,6 +115,13 @@
 |[https://english-data.rvo.nl](https://english-data.rvo.nl)| **A+**| **E**|| | | | | | | | :white_check_mark: | |Drupal HSTS PHP Varnish||
 |[http://bpa.rvo.nl](http://bpa.rvo.nl)| **B**| **E**|| | | | | | | | :white_check_mark: | |||
 |[https://english-prod.rvo.nl](https://english-prod.rvo.nl)| **F**| **E**|| | | | | | | | :white_check_mark: | |HSTS|301 Moved Perman...|
+|[https://sonarqube-infra-preprod.efiling.mijnoctrooi.rvo.nl](https://sonarqube-infra-preprod.efiling.mijnoctrooi.rvo.nl)| | **F**|Server| | | | | | | | :white_check_mark: | |||
+|[https://vault-infra-preprod.efiling.mijnoctrooi.rvo.nl](https://vault-infra-preprod.efiling.mijnoctrooi.rvo.nl)| | **F**|Server| | | | | | | | :white_check_mark: | |||
+|[https://vault-preprod.efiling.mijnoctrooi.rvo.nl](https://vault-preprod.efiling.mijnoctrooi.rvo.nl)| | **F**|Server| | | | | | | | :white_check_mark: | |||
+|[https://argocd-infra-preprod.efiling.mijnoctrooi.rvo.nl](https://argocd-infra-preprod.efiling.mijnoctrooi.rvo.nl)| | **F**|Server| | | | | | | | :white_check_mark: | |||
+|[https://monitoring-infra-preprod.efiling.mijnoctrooi.rvo.nl](https://monitoring-infra-preprod.efiling.mijnoctrooi.rvo.nl)| | **F**|Server| | | | | | | | :white_check_mark: | |||
+|[https://monitoring-preprod.efiling.mijnoctrooi.rvo.nl](https://monitoring-preprod.efiling.mijnoctrooi.rvo.nl)| | **F**|Server| | | | | | | | :white_check_mark: | |||
+|[https://preprod.efiling.mijnoctrooi.rvo.nl](https://preprod.efiling.mijnoctrooi.rvo.nl)| | **C**|nginx/1.21.0|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS Nginx:1.21.0 React|European Patent...|
 |[https://argocd-infra.efiling.mijnoctrooi.rvo.nl](https://argocd-infra.efiling.mijnoctrooi.rvo.nl)| | **F**|Server| | | | | | | | :white_check_mark: | |||
 |[https://efiling.mijnoctrooi.rvo.nl](https://efiling.mijnoctrooi.rvo.nl)| | **F**|Server| | | | | | | | :white_check_mark: | |||
 |[https://monitoring-infra.efiling.mijnoctrooi.rvo.nl](https://monitoring-infra.efiling.mijnoctrooi.rvo.nl)| | **F**|Server| | | | | | | | :white_check_mark: | |||
@@ -129,4 +136,5 @@
 |[https://cta.rvo.nl](https://cta.rvo.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Verzoek afgeweze...|
 |[https://europese-subsidies.rvo.nl](https://europese-subsidies.rvo.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Drupal HSTS Nginx PHP|Redirecting to h...|
 |[https://rhel-p-mijn.rvo.nl](https://rhel-p-mijn.rvo.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Verzoek afgeweze...|
+|[https://rhel-np-mijn.rvo.nl](https://rhel-np-mijn.rvo.nl)| | **A**||:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Mijn RVO - Stori...|
 

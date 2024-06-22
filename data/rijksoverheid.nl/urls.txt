@@ -1,9 +1,7 @@
-https://a-downloads.persberichten.rijksoverheid.nl
 https://acc-mailing.rijksoverheid.nl
 http://coronadashboard.rijksoverheid.nl
 http://dns-web10.rijksoverheid.nl
 http://dns-web300.rijksoverheid.nl
-https://downloads.persberichten.rijksoverheid.nl
 https://e-maildiensten.rijksoverheid.nl
 https://feeds.rijksoverheid.nl
 https://feeds.persberichten.rijksoverheid.nl

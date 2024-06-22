@@ -549,3 +549,4 @@ rivm-meta-l01t.rivm.ssc-campus.nl
 rivm-meta-l02t.rivm.ssc-campus.nl
 rivm-meta-l03t.rivm.ssc-campus.nl
 rivm-meta-l01a.rivm.ssc-campus.nl
+hessel.ssc-campus.nl

@@ -6,13 +6,13 @@
 
  - **SSL Grade**:A-
  - **HTTP Security Grade**:C
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:50
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:53
 
 
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/rijkswaterstaat.nl/subdomains.txt)|131|Alive subdomains|
-|[urls.txt](/data/rijkswaterstaat.nl/urls.txt)|88|Urls|
+|[urls.txt](/data/rijkswaterstaat.nl/urls.txt)|91|Urls|
 |[all_subdomains.txt](/data/rijkswaterstaat.nl/all_subdomains.txt)|673|All found subdomains (history)|
 
 
@@ -109,4 +109,7 @@
 |[https://techniekacademie.rijkswaterstaat.nl](https://techniekacademie.rijkswaterstaat.nl)| **A+**| **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:-|Techniek Academi...|
 |[https://zaaksysteem-acc.rijkswaterstaat.nl](https://zaaksysteem-acc.rijkswaterstaat.nl)| **A+**| **A**||:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Moved|
 |[https://vpr.rijkswaterstaat.nl](https://vpr.rijkswaterstaat.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Website niet bes...|
+|[https://innovatieloket-acc.rijkswaterstaat.nl](https://innovatieloket-acc.rijkswaterstaat.nl)| | **B**|nginx| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS Nginx|Mendix|
+|[https://innovatieloket-tst.rijkswaterstaat.nl](https://innovatieloket-tst.rijkswaterstaat.nl)| | **B**|nginx| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS Nginx|Mendix|
+|[https://innovatieloket.rijkswaterstaat.nl](https://innovatieloket.rijkswaterstaat.nl)| | **B**|nginx| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS Nginx|Mendix|
 

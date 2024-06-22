@@ -13,7 +13,7 @@
 |------------|-------|------|
 |[subdomains.txt](/data/minezk.nl/subdomains.txt)|9|Alive subdomains|
 |[urls.txt](/data/minezk.nl/urls.txt)|7|Urls|
-|[all_subdomains.txt](/data/minezk.nl/all_subdomains.txt)|9|All found subdomains (history)|
+|[all_subdomains.txt](/data/minezk.nl/all_subdomains.txt)|10|All found subdomains (history)|
 
 
 ## Statistics
