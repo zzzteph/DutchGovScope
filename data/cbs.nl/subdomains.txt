@@ -207,7 +207,6 @@ zombie.cbs.nl
 ssd.cbs.nl
 ps.cbs.nl
 accebms.cbs.nl
-s0vuag0004b.remoteaccess.cbs.nl
 amunet.cbs.nl
 carrier.cbs.nl
 login-databestanden.test.cbs.nl

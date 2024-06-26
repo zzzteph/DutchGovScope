@@ -32,5 +32,5 @@
 |[https://www.mobiliteitsbank.nl](https://www.mobiliteitsbank.nl)| **A+**| **B**|cloudflare|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Cloudflare HSTS||
 |[https://mobiliteitsbank.nl](https://mobiliteitsbank.nl)| **A+**| **B**|cloudflare|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Cloudflare HSTS||
 |[https://sandbox.mobiliteitsbank.nl](https://sandbox.mobiliteitsbank.nl)| | **D**|cloudflare|:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | |Basic Cloudflare HSTS|Authentication R...|
-|[https://acceptatie.mobiliteitsbank.nl](https://acceptatie.mobiliteitsbank.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|403 Forbidden|
+|[https://acceptatie.mobiliteitsbank.nl](https://acceptatie.mobiliteitsbank.nl)| | **E**|| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS||
 

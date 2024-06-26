@@ -11,8 +11,8 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/bodemrichtlijn.nl/subdomains.txt)|1672|Alive subdomains|
-|[urls.txt](/data/bodemrichtlijn.nl/urls.txt)|1672|Urls|
+|[subdomains.txt](/data/bodemrichtlijn.nl/subdomains.txt)|1673|Alive subdomains|
+|[urls.txt](/data/bodemrichtlijn.nl/urls.txt)|1673|Urls|
 |[all_subdomains.txt](/data/bodemrichtlijn.nl/all_subdomains.txt)|1674|All found subdomains (history)|
 
 
@@ -1595,6 +1595,7 @@
 |[https://stoelverhogers.bodemrichtlijn.nl](https://stoelverhogers.bodemrichtlijn.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Microsoft Azure...|
 |[https://chris.bodemrichtlijn.nl](https://chris.bodemrichtlijn.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Microsoft Azure...|
 |[https://gaycams.bodemrichtlijn.nl](https://gaycams.bodemrichtlijn.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Microsoft Azure...|
+|[https://icard.bodemrichtlijn.nl](https://icard.bodemrichtlijn.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Microsoft Azure...|
 |[https://leninsk-kuznetskiy.bodemrichtlijn.nl](https://leninsk-kuznetskiy.bodemrichtlijn.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Microsoft Azure...|
 |[https://gdansk.bodemrichtlijn.nl](https://gdansk.bodemrichtlijn.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Microsoft Azure...|
 |[https://shanwei.bodemrichtlijn.nl](https://shanwei.bodemrichtlijn.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Microsoft Azure...|

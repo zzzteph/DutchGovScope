@@ -11,7 +11,6 @@ a-opendata.a-english.kabinetvandekoning.nl
 a-opendata.kabinetvandekoning.nl
 a-www.kabinetvandekoning.nl
 a-english.kabinetvandekoning.nl
-mail2.kabinetvandekoning.nl
 autodiscover.kabinetvandekoning.nl
 enterpriseenrollment.kabinetvandekoning.nl
 enterpriseregistration.kabinetvandekoning.nl

@@ -260,7 +260,6 @@ geo.di.huc.knaw.nl
 imlc.huygens.knaw.nl
 ogier.huygens.knaw.nl
 opgravingen.huygens.knaw.nl
-schelling.huygens.knaw.nl
 sandbox.huygens.knaw.nl
 alfalablog.huygens.knaw.nl
 charterbank.huygens.knaw.nl

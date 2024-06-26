@@ -12,7 +12,7 @@
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/valys.nl/subdomains.txt)|342|Alive subdomains|
-|[urls.txt](/data/valys.nl/urls.txt)|336|Urls|
+|[urls.txt](/data/valys.nl/urls.txt)|337|Urls|
 |[all_subdomains.txt](/data/valys.nl/all_subdomains.txt)|344|All found subdomains (history)|
 
 
@@ -357,4 +357,5 @@
 |[https://slam.valys.nl](https://slam.valys.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 Ubuntu|Apache2 Ubuntu D...|
 |[https://web6405.valys.nl](https://web6405.valys.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 Ubuntu|Apache2 Ubuntu D...|
 |[https://begroting.valys.nl](https://begroting.valys.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 Ubuntu|Apache2 Ubuntu D...|
+|[https://06-83329484www.50plusmill.nlvalys0900-9630www.valys.nl](https://06-83329484www.50plusmill.nlvalys0900-9630www.valys.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 Ubuntu|Apache2 Ubuntu D...|
 

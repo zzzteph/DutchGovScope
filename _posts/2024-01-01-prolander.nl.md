@@ -2,7 +2,7 @@
 layout: default
 title: "prolander.nl"
 permalink: "/dutchgov/prolander.nl.html"
-subdomains_count: 11
+subdomains_count: 12
 all_subdomains_count: 17
 urls_count: 9
 ssl_rank: 
@@ -27,7 +27,7 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/prolander.nl/subdomains.txt)|11|Alive subdomains|
+|[subdomains.txt](/DutchGovScope/data/prolander.nl/subdomains.txt)|12|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/prolander.nl/urls.txt)|9|Urls|
 |[all_subdomains.txt](/DutchGovScope/data/prolander.nl/all_subdomains.txt)|17|All found subdomains (history)|
 

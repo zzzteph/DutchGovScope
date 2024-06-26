@@ -106,3 +106,4 @@ zaken.test.rechtwijzer.nl
 log.test.rechtwijzer.nl
 forum.test.rechtwijzer.nl
 imap.test.rechtwijzer.nl
+beta.test.rechtwijzer.nl

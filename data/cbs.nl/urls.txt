@@ -174,3 +174,4 @@ http://mijn-acceptatie.cbs.nl
 https://brandportal.cbs.nl
 https://search.beta.cbs.nl
 https://gecko.cbs.nl
+https://lc.cbs.nl

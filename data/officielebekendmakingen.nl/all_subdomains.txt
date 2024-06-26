@@ -69,3 +69,4 @@ www.zoek-acc.officielebekendmakingen.nl
 www.beheer.officielebekendmakingen.nl
 www.zoek.officielebekendmakingen.nl
 identifier-preprod.officielebekendmakingen.nl
+www.beheer-acc.officielebekendmakingen.nl

@@ -64,7 +64,7 @@ tags: dutchgov
 |[https://web.test.mgo.irealisatie.nl](https://web.test.mgo.irealisatie.nl)| | **B**|Apache| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server Basic HSTS|401 Unauthorized|
 |[https://max.test.mgo.irealisatie.nl](https://max.test.mgo.irealisatie.nl)| | **A**|| |:white_check_mark: | :warning:| | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS||
 |[https://dva.test.mgo.irealisatie.nl](https://dva.test.mgo.irealisatie.nl)| | **A**|| |:white_check_mark: | :warning:| | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS||
-|[https://lo-ad.test.mgo.irealisatie.nl](https://lo-ad.test.mgo.irealisatie.nl)| | **A**|| |:white_check_mark: | :warning:| | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS||
+|[https://lo-ad.test.mgo.irealisatie.nl](https://lo-ad.test.mgo.irealisatie.nl)| | **B**|| |:white_check_mark: | :warning:| | | :white_check_mark: | | :white_check_mark: | |HSTS||
 |[https://static.acc.dpr.irealisatie.nl](https://static.acc.dpr.irealisatie.nl)| | **B**|Apache| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS Hugo:0.124.1|Verwerkingsregis...|
 |[http://storage.test.mgo.irealisatie.nl](http://storage.test.mgo.irealisatie.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS||
 |[http://acme.proeftuin.uzi-online.irealisatie.nl](http://acme.proeftuin.uzi-online.irealisatie.nl)| | **E**|| | | | | | | | :white_check_mark: | |||

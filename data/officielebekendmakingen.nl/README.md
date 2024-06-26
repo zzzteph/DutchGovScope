@@ -11,9 +11,9 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/officielebekendmakingen.nl/subdomains.txt)|28|Alive subdomains|
+|[subdomains.txt](/data/officielebekendmakingen.nl/subdomains.txt)|29|Alive subdomains|
 |[urls.txt](/data/officielebekendmakingen.nl/urls.txt)|17|Urls|
-|[all_subdomains.txt](/data/officielebekendmakingen.nl/all_subdomains.txt)|71|All found subdomains (history)|
+|[all_subdomains.txt](/data/officielebekendmakingen.nl/all_subdomains.txt)|72|All found subdomains (history)|
 
 
 ## Statistics

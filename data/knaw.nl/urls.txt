@@ -260,7 +260,6 @@ https://geo.di.huc.knaw.nl
 https://imlc.huygens.knaw.nl
 https://ogier.huygens.knaw.nl
 https://opgravingen.huygens.knaw.nl
-https://schelling.huygens.knaw.nl
 https://sandbox.huygens.knaw.nl
 https://alfalablog.huygens.knaw.nl
 https://charterbank.huygens.knaw.nl

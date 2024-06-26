@@ -4,10 +4,10 @@ title: "minjenv-events.nl"
 permalink: "/dutchgov/minjenv-events.nl.html"
 subdomains_count: 35
 all_subdomains_count: 35
-urls_count: 31
+urls_count: 35
 ssl_rank: A+
 http_rank: A
-security_txt: 31
+security_txt: 35
 url_link: /data/minjenv-events.nl/urls.txt
 all_subdomains_link: /data/minjenv-events.nl/all_subdomains.txt
 subdomains_link: /data/minjenv-events.nl/subdomains.txt
@@ -22,13 +22,13 @@ tags: dutchgov
 
  - **SSL Grade**:A+
  - **HTTP Security Grade**:A
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:31
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:35
 
 
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/DutchGovScope/data/minjenv-events.nl/subdomains.txt)|35|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/minjenv-events.nl/urls.txt)|31|Urls|
+|[urls.txt](/DutchGovScope/data/minjenv-events.nl/urls.txt)|35|Urls|
 |[all_subdomains.txt](/DutchGovScope/data/minjenv-events.nl/all_subdomains.txt)|35|All found subdomains (history)|
 
 
@@ -68,4 +68,8 @@ tags: dutchgov
 |[https://lhc2024.minjenv-events.nl](https://lhc2024.minjenv-events.nl)| | **A**|nginx| |:white_check_mark: | :warning:| |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx Plesk||
 |[https://lhc2024february15.minjenv-events.nl](https://lhc2024february15.minjenv-events.nl)| | **A**|nginx| |:white_check_mark: | :warning:| |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx Plesk||
 |[https://stateoftheart2023.minjenv-events.nl](https://stateoftheart2023.minjenv-events.nl)| | **A**|nginx| |:white_check_mark: | :warning:| |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx Plesk||
+|[https://bestuurdersdiner2022.minjenv-events.nl](https://bestuurdersdiner2022.minjenv-events.nl)| | **A**|nginx| |:white_check_mark: | :warning:| |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx Plesk||
+|[https://calamiteitenvreemdelingenketen.minjenv-events.nl](https://calamiteitenvreemdelingenketen.minjenv-events.nl)| | **A**|nginx| |:white_check_mark: | :warning:| |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx Plesk||
+|[https://telandterzeeenviadelucht.minjenv-events.nl](https://telandterzeeenviadelucht.minjenv-events.nl)| | **A**|nginx| |:white_check_mark: | :warning:| |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx Plesk||
+|[https://grenzeloosontnemen.minjenv-events.nl](https://grenzeloosontnemen.minjenv-events.nl)| | **A**|nginx| |:white_check_mark: | :warning:| |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx Plesk||
 

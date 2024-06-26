@@ -4,10 +4,10 @@ title: "werkenvoornederland-events.nl"
 permalink: "/dutchgov/werkenvoornederland-events.nl.html"
 subdomains_count: 6
 all_subdomains_count: 6
-urls_count: 5
+urls_count: 6
 ssl_rank: A+
 http_rank: A
-security_txt: 5
+security_txt: 6
 url_link: /data/werkenvoornederland-events.nl/urls.txt
 all_subdomains_link: /data/werkenvoornederland-events.nl/all_subdomains.txt
 subdomains_link: /data/werkenvoornederland-events.nl/subdomains.txt
@@ -22,13 +22,13 @@ tags: dutchgov
 
  - **SSL Grade**:A+
  - **HTTP Security Grade**:A
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:5
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:6
 
 
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/DutchGovScope/data/werkenvoornederland-events.nl/subdomains.txt)|6|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/werkenvoornederland-events.nl/urls.txt)|5|Urls|
+|[urls.txt](/DutchGovScope/data/werkenvoornederland-events.nl/urls.txt)|6|Urls|
 |[all_subdomains.txt](/DutchGovScope/data/werkenvoornederland-events.nl/all_subdomains.txt)|6|All found subdomains (history)|
 
 
@@ -42,4 +42,5 @@ tags: dutchgov
 |[https://i-partnerschap.werkenvoornederland-events.nl](https://i-partnerschap.werkenvoornederland-events.nl)| **A+**| **A**|nginx| |:white_check_mark: | :warning:| |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx Plesk||
 |[https://www.werkenvoornederland-events.nl](https://www.werkenvoornederland-events.nl)| | **A**|nginx| |:white_check_mark: | :warning:| |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx Plesk||
 |[https://ocwcarierrekansen.werkenvoornederland-events.nl](https://ocwcarierrekansen.werkenvoornederland-events.nl)| | **A**|nginx| |:white_check_mark: | :warning:| |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx Plesk||
+|[https://werkconferentie.werkenvoornederland-events.nl](https://werkconferentie.werkenvoornederland-events.nl)| | **A**|nginx| |:white_check_mark: | :warning:| |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx Plesk||
 

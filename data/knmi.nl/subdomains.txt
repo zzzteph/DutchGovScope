@@ -150,7 +150,6 @@ www-t.knmi.nl
 www-test.knmi.nl
 zabbix.knmi.nl
 acc.mijn.knmi.nl
-data.acc.spaceweather.knmi.nl
 saca-bmkg.knmi.nl
 exons-website-manager.acc.mijn.knmi.nl
 dcpc.knmi.nl

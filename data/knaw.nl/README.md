@@ -11,8 +11,8 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/knaw.nl/subdomains.txt)|1377|Alive subdomains|
-|[urls.txt](/data/knaw.nl/urls.txt)|795|Urls|
+|[subdomains.txt](/data/knaw.nl/subdomains.txt)|1376|Alive subdomains|
+|[urls.txt](/data/knaw.nl/urls.txt)|794|Urls|
 |[all_subdomains.txt](/data/knaw.nl/all_subdomains.txt)|1847|All found subdomains (history)|
 
 
@@ -283,7 +283,6 @@
 |[https://imlc.huygens.knaw.nl](https://imlc.huygens.knaw.nl)| **B**| **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|403 Forbidden|
 |[https://ogier.huygens.knaw.nl](https://ogier.huygens.knaw.nl)| **A**| **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|403 Forbidden|
 |[https://opgravingen.huygens.knaw.nl](https://opgravingen.huygens.knaw.nl)| **A**| **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|403 Forbidden|
-|[https://schelling.huygens.knaw.nl](https://schelling.huygens.knaw.nl)| **F**| **F**|Apache/2.4.41 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.41 Ubuntu|403 Forbidden|
 |[https://sandbox.huygens.knaw.nl](https://sandbox.huygens.knaw.nl)| **F**| **F**|Apache/2.4.41 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.41 Ubuntu|Unauthorized|
 |[https://alfalablog.huygens.knaw.nl](https://alfalablog.huygens.knaw.nl)| **A**| **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|403 Forbidden|
 |[https://charterbank.huygens.knaw.nl](https://charterbank.huygens.knaw.nl)| **A+**| **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Nginx|403 Forbidden|

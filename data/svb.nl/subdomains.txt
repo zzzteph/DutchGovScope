@@ -108,8 +108,6 @@ internetdienstena.svb.nl
 internetdienstenp.svb.nl
 internetdienstensiamacc.svb.nl
 mail.entreepgb.svb.nl
-mail.svb.nl
-mail2.svb.nl
 marba.svb.nl
 mft.svb.nl
 mijn.svb.nl

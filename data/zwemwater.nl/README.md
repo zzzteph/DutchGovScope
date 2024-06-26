@@ -12,7 +12,7 @@
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/zwemwater.nl/subdomains.txt)|1326|Alive subdomains|
-|[urls.txt](/data/zwemwater.nl/urls.txt)|1154|Urls|
+|[urls.txt](/data/zwemwater.nl/urls.txt)|1170|Urls|
 |[all_subdomains.txt](/data/zwemwater.nl/all_subdomains.txt)|1528|All found subdomains (history)|
 
 
@@ -1175,4 +1175,20 @@
 |[https://christ.zwemwater.nl](https://christ.zwemwater.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
 |[https://vomar.zwemwater.nl](https://vomar.zwemwater.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
 |[https://powertools.zwemwater.nl](https://powertools.zwemwater.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
+|[https://www.kinderbescherming.nlwww.meldmisdaadanoniem.nlwww.huiselijkgeweld.nlwww.stopkindermishandeling.nlwww.problemenmetjeburen.nlwww.halt.nlwww.moed.nlwww.burgernet.nlwww.gifwijzer.nlwww.crisis.nlwww.zwemwater.nl](https://www.kinderbescherming.nlwww.meldmisdaadanoniem.nlwww.huiselijkgeweld.nlwww.stopkindermishandeling.nlwww.problemenmetjeburen.nlwww.halt.nlwww.moed.nlwww.burgernet.nlwww.gifwijzer.nlwww.crisis.nlwww.zwemwater.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
+|[https://www.crisis.nlwww.zwemwater.nl](https://www.crisis.nlwww.zwemwater.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
+|[https://www.problemenmetjeburen.nlwww.halt.nlwww.moed.nlwww.burgernet.nlwww.gifwijzer.nlwww.crisis.nlwww.zwemwater.nl](https://www.problemenmetjeburen.nlwww.halt.nlwww.moed.nlwww.burgernet.nlwww.gifwijzer.nlwww.crisis.nlwww.zwemwater.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
+|[https://www.burgernet.nlwww.gifwijzer.nlwww.crisis.nlwww.zwemwater.nl](https://www.burgernet.nlwww.gifwijzer.nlwww.crisis.nlwww.zwemwater.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
+|[https://www.halt.nlwww.moed.nlwww.burgernet.nlwww.gifwijzer.nlwww.crisis.nlwww.zwemwater.nl](https://www.halt.nlwww.moed.nlwww.burgernet.nlwww.gifwijzer.nlwww.crisis.nlwww.zwemwater.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
+|[https://hoeveel-vliegbewegingen-zijn-er-van-en-naar-nederland-www.zwemwater.nl](https://hoeveel-vliegbewegingen-zijn-er-van-en-naar-nederland-www.zwemwater.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
+|[https://www.stopkindermishandeling.nlwww.problemenmetjeburen.nlwww.halt.nlwww.moed.nlwww.burgernet.nlwww.gifwijzer.nlwww.crisis.nlwww.zwemwater.nl](https://www.stopkindermishandeling.nlwww.problemenmetjeburen.nlwww.halt.nlwww.moed.nlwww.burgernet.nlwww.gifwijzer.nlwww.crisis.nlwww.zwemwater.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
+|[https://www.huiselijkgeweld.nlwww.stopkindermishandeling.nlwww.problemenmetjeburen.nlwww.halt.nlwww.moed.nlwww.burgernet.nlwww.gifwijzer.nlwww.crisis.nlwww.zwemwater.nl](https://www.huiselijkgeweld.nlwww.stopkindermishandeling.nlwww.problemenmetjeburen.nlwww.halt.nlwww.moed.nlwww.burgernet.nlwww.gifwijzer.nlwww.crisis.nlwww.zwemwater.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
+|[https://www.moed.nlwww.burgernet.nlwww.gifwijzer.nlwww.crisis.nlwww.zwemwater.nl](https://www.moed.nlwww.burgernet.nlwww.gifwijzer.nlwww.crisis.nlwww.zwemwater.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
+|[]()| | **E**| | | | | | | | | :white_check_mark: | | | |
+|[https://www.meldmisdaadanoniem.nlwww.huiselijkgeweld.nlwww.stopkindermishandeling.nlwww.problemenmetjeburen.nlwww.halt.nlwww.moed.nlwww.burgernet.nlwww.gifwijzer.nlwww.crisis.nlwww.zwemwater.nl](https://www.meldmisdaadanoniem.nlwww.huiselijkgeweld.nlwww.stopkindermishandeling.nlwww.problemenmetjeburen.nlwww.halt.nlwww.moed.nlwww.burgernet.nlwww.gifwijzer.nlwww.crisis.nlwww.zwemwater.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
+|[https://www.bewareofloverboys.nlwww.kinderbescherming.nlwww.meldmisdaadanoniem.nlwww.huiselijkgeweld.nlwww.stopkindermishandeling.nlwww.problemenmetjeburen.nlwww.halt.nlwww.moed.nlwww.burgernet.nlwww.gifwijzer.nlwww.crisis.nlwww.zwemwater.nl](https://www.bewareofloverboys.nlwww.kinderbescherming.nlwww.meldmisdaadanoniem.nlwww.huiselijkgeweld.nlwww.stopkindermishandeling.nlwww.problemenmetjeburen.nlwww.halt.nlwww.moed.nlwww.burgernet.nlwww.gifwijzer.nlwww.crisis.nlwww.zwemwater.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
+|[https://www.gifwijzer.nlwww.crisis.nlwww.zwemwater.nl](https://www.gifwijzer.nlwww.crisis.nlwww.zwemwater.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
+|[https://cstest.zwemwater.nl](https://cstest.zwemwater.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
+|[https://westernunion.zwemwater.nl](https://westernunion.zwemwater.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
+|[https://web17914.zwemwater.nl](https://web17914.zwemwater.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
 

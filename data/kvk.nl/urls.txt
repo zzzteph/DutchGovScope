@@ -55,4 +55,3 @@ https://admin.tbadmin.npo.kvk.nl
 https://admin.tbadmin.kvk.nl
 https://www3.kvk.nl
 https://tbadmin.kvk.nl
-https://diensten2.kvk.nl

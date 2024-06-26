@@ -26,7 +26,6 @@
 |[https://odijmond.nl](https://odijmond.nl)| **A**| **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:-|Object moved|
 |[https://www.odijmond.nl](https://www.odijmond.nl)| **A**| **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:-|Homepage - Omgev...|
 |[https://gisviewer.odijmond.nl](https://gisviewer.odijmond.nl)| **A+**| **A**|| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS PHP||
-|[https://dc.odijmond.nl](https://dc.odijmond.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|403 Forbidden|
 |[https://intranet.odijmond.nl](https://intranet.odijmond.nl)| | **B**|-|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:-|Object moved|
 |[https://redactie.odijmond.nl](https://redactie.odijmond.nl)| | **A**|-|:white_check_mark: |:white_check_mark: | | | :white_check_mark:| | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:-|Object moved|
 |[https://join.odijmond.nl](https://join.odijmond.nl)| | **A**||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Document Moved|
@@ -37,5 +36,6 @@
 |[https://acc-open-wave.odijmond.nl](https://acc-open-wave.odijmond.nl)| | **D**|Apache|:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | |Apache HTTP Server HSTS PHP||
 |[https://dusk-open-wave.odijmond.nl](https://dusk-open-wave.odijmond.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|403 Forbidden|
 |[https://dusk-acc-open-wave.odijmond.nl](https://dusk-acc-open-wave.odijmond.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|403 Forbidden|
+|[https://db.open-wave.odijmond.nl](https://db.open-wave.odijmond.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|403 Forbidden|
 |[https://jointest.odijmond.nl](https://jointest.odijmond.nl)| | **B**||:warning: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 

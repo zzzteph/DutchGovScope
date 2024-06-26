@@ -13,7 +13,7 @@
 |------------|-------|------|
 |[subdomains.txt](/data/ndw.nu/subdomains.txt)|95|Alive subdomains|
 |[urls.txt](/data/ndw.nu/urls.txt)|86|Urls|
-|[all_subdomains.txt](/data/ndw.nu/all_subdomains.txt)|122|All found subdomains (history)|
+|[all_subdomains.txt](/data/ndw.nu/all_subdomains.txt)|123|All found subdomains (history)|
 
 
 ## Statistics

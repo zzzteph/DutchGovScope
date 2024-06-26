@@ -456,6 +456,7 @@ wus2test-osb.belastingdienst.nl
 wustest-osb.belastingdienst.nl
 wustest.belastingdienst.nl
 smtp2.belastingdienst.nl
+mijnzakelijk.acc.belastingdienst.nl
 officeonline.belastingdienst.nl
 b2b-osb.belastingdienst.nl
 proxy.socint.belastingdienst.nl
@@ -483,3 +484,4 @@ gpa-rest-test.belastingdienst.nl
 idro.ont.belastingdienst.nl
 ontimegtw.ont.belastingdienst.nl
 rwn.belastingdienst.nl
+waf.ont.belastingdienst.nl

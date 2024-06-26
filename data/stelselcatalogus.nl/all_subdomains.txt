@@ -28,3 +28,4 @@ begrippen.stelselcatalogus.nl
 acc.begrippen.stelselcatalogus.nl
 preprod.begrippen.stelselcatalogus.nl
 purl.stelselcatalogus.nl
+playground.stelselcatalogus.nl

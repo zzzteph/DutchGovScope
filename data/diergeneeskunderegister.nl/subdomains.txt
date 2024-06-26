@@ -13,3 +13,4 @@ diergeneeskunderegister.nl
 a-opendata.diergeneeskunderegister.nl
 a-www.diergeneeskunderegister.nl
 a-feeds.diergeneeskunderegister.nl
+acceptatie.behandel.diergeneeskunderegister.nl
