@@ -6,7 +6,7 @@
 
  - **SSL Grade**:B
  - **HTTP Security Grade**:B
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:21
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:20
 
 
 | File       | Count | Info |
@@ -42,7 +42,7 @@
 |[https://mijn.test.ncsc.nl](https://mijn.test.ncsc.nl)| **B**| **F**|none| | | | | | | | :white_check_mark: | |HSTS||
 |[https://test.ncsc.nl](https://test.ncsc.nl)| **D**| **F**|none| | | | | | | | :white_check_mark: | |HSTS||
 |[https://api.mijn.ncsc.nl](https://api.mijn.ncsc.nl)| **B**| **A**|none| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
-|[https://mijn.ncsc.nl](https://mijn.ncsc.nl)| **B**| **D**|none|:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
+|[https://mijn.ncsc.nl](https://mijn.ncsc.nl)| **B**| **B**|none|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS Next.js Node.js React Webpack|Mijn NCSC|
 |[https://acc.ncsc.nl](https://acc.ncsc.nl)| **B**| **A**|none| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://api.mijn.acc.ncsc.nl](https://api.mijn.acc.ncsc.nl)| **B**| **A**|none| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://mijn.acc.ncsc.nl](https://mijn.acc.ncsc.nl)| | **D**|none|:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||

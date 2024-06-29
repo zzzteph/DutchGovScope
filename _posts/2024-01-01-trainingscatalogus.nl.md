@@ -3,11 +3,11 @@ layout: default
 title: "trainingscatalogus.nl"
 permalink: "/dutchgov/trainingscatalogus.nl.html"
 subdomains_count: 200
-all_subdomains_count: 211
+all_subdomains_count: 213
 urls_count: 108
 ssl_rank: A+
 http_rank: C
-security_txt: 32
+security_txt: 38
 url_link: /data/trainingscatalogus.nl/urls.txt
 all_subdomains_link: /data/trainingscatalogus.nl/all_subdomains.txt
 subdomains_link: /data/trainingscatalogus.nl/subdomains.txt
@@ -22,14 +22,14 @@ tags: dutchgov
 
  - **SSL Grade**:A+
  - **HTTP Security Grade**:C
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:32
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:38
 
 
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/DutchGovScope/data/trainingscatalogus.nl/subdomains.txt)|200|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/trainingscatalogus.nl/urls.txt)|108|Urls|
-|[all_subdomains.txt](/DutchGovScope/data/trainingscatalogus.nl/all_subdomains.txt)|211|All found subdomains (history)|
+|[all_subdomains.txt](/DutchGovScope/data/trainingscatalogus.nl/all_subdomains.txt)|213|All found subdomains (history)|
 
 
 ## Statistics

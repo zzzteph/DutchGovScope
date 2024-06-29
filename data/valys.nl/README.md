@@ -11,8 +11,8 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/valys.nl/subdomains.txt)|342|Alive subdomains|
-|[urls.txt](/data/valys.nl/urls.txt)|337|Urls|
+|[subdomains.txt](/data/valys.nl/subdomains.txt)|343|Alive subdomains|
+|[urls.txt](/data/valys.nl/urls.txt)|342|Urls|
 |[all_subdomains.txt](/data/valys.nl/all_subdomains.txt)|344|All found subdomains (history)|
 
 
@@ -283,6 +283,7 @@
 |[https://brim.valys.nl](https://brim.valys.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 Ubuntu|Apache2 Ubuntu D...|
 |[https://abcde.valys.nl](https://abcde.valys.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 Ubuntu|Apache2 Ubuntu D...|
 |[https://bagatelle.valys.nl](https://bagatelle.valys.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 Ubuntu|Apache2 Ubuntu D...|
+|[https://laurie.valys.nl](https://laurie.valys.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 Ubuntu|Apache2 Ubuntu D...|
 |[https://mbas.valys.nl](https://mbas.valys.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 Ubuntu|Apache2 Ubuntu D...|
 |[https://bks9.books.valys.nl](https://bks9.books.valys.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 Ubuntu|Apache2 Ubuntu D...|
 |[https://winthrop.valys.nl](https://winthrop.valys.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 Ubuntu|Apache2 Ubuntu D...|
@@ -358,4 +359,8 @@
 |[https://web6405.valys.nl](https://web6405.valys.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 Ubuntu|Apache2 Ubuntu D...|
 |[https://begroting.valys.nl](https://begroting.valys.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 Ubuntu|Apache2 Ubuntu D...|
 |[https://06-83329484www.50plusmill.nlvalys0900-9630www.valys.nl](https://06-83329484www.50plusmill.nlvalys0900-9630www.valys.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 Ubuntu|Apache2 Ubuntu D...|
+|[https://markus.valys.nl](https://markus.valys.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 Ubuntu|Apache2 Ubuntu D...|
+|[https://0-1.valys.nl](https://0-1.valys.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 Ubuntu|Apache2 Ubuntu D...|
+|[https://corazon.valys.nl](https://corazon.valys.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 Ubuntu|Apache2 Ubuntu D...|
+|[https://trix.valys.nl](https://trix.valys.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 Ubuntu|Apache2 Ubuntu D...|
 

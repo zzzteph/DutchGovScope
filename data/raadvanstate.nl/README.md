@@ -11,7 +11,7 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/raadvanstate.nl/subdomains.txt)|0|Alive subdomains|
+|[subdomains.txt](/data/raadvanstate.nl/subdomains.txt)|46|Alive subdomains|
 |[urls.txt](/data/raadvanstate.nl/urls.txt)|0|Urls|
 |[all_subdomains.txt](/data/raadvanstate.nl/all_subdomains.txt)|56|All found subdomains (history)|
 

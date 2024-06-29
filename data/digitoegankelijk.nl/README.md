@@ -24,7 +24,7 @@
 |[https://acc-dictu.digitoegankelijk.nl](https://acc-dictu.digitoegankelijk.nl)| **A**| **F**|nginx| | | | | | | | :white_check_mark: | |Basic Nginx|401 Authorizatio...|
 |[https://dashboard.digitoegankelijk.nl](https://dashboard.digitoegankelijk.nl)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx Stimulus|Dashboard DigiTo...|
 |[https://dashboard-acc.digitoegankelijk.nl](https://dashboard-acc.digitoegankelijk.nl)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Basic HSTS Nginx|401 Authorizatio...|
-|[https://kennisbank.digitoegankelijk.nl](https://kennisbank.digitoegankelijk.nl)| **A+**| **C**|Apache/2| |:white_check_mark: | | | | | | :white_check_mark: | |Apache HTTP Server:2 HSTS MySQL PHP WordPress:6.5.4|Kennisbank DigiT...|
+|[https://kennisbank.digitoegankelijk.nl](https://kennisbank.digitoegankelijk.nl)| **A+**| **C**|Apache/2| |:white_check_mark: | | | | | | :white_check_mark: | |Apache HTTP Server:2 HSTS MySQL PHP WordPress:6.5.5|Kennisbank DigiT...|
 |[https://prod-dictu.digitoegankelijk.nl](https://prod-dictu.digitoegankelijk.nl)| **A+**| **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |Basic HSTS Nginx|401 Authorizatio...|
 |[https://test-dictu.digitoegankelijk.nl](https://test-dictu.digitoegankelijk.nl)| **A**| **F**|nginx| | | | | | | | :white_check_mark: | |Basic Nginx|401 Authorizatio...|
 |[https://www.digitoegankelijk.nl](https://www.digitoegankelijk.nl)| **A+**| **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Drupal:10 HSTS Nginx PHP|Een toegankelijk...|

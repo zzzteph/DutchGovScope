@@ -45,7 +45,7 @@ tags: dutchgov
 |[https://api.performance.ix.rijkscloud.nl](https://api.performance.ix.rijkscloud.nl)| **A+**| **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
 |[https://chat-dev.rijkscloud.nl](https://chat-dev.rijkscloud.nl)| **A+**| **A**|Apache| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS|GitLab Mattermos...|
 |[https://chat.datascience.rijkscloud.nl](https://chat.datascience.rijkscloud.nl)| **A+**| **A**|Apache| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS|GitLab Mattermos...|
-|[https://chat.ix.rijkscloud.nl](https://chat.ix.rijkscloud.nl)| **A+**| **A**|Apache| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS|GitLab Mattermos...|
+|[https://chat.ix.rijkscloud.nl](https://chat.ix.rijkscloud.nl)| **A+**| **A**|Apache| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS||
 |[https://dashboard.analytics.ienw.rijkscloud.nl](https://dashboard.analytics.ienw.rijkscloud.nl)| **A+**| **C**|gunicorn|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS Python gunicorn|Redirecting...|
 |[https://dashboards-at.dstrial-inspectieraad.rijkscloud.nl](https://dashboards-at.dstrial-inspectieraad.rijkscloud.nl)| **A+**| **A**|| |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | |HSTS Java||
 |[https://dashboards-private.ilt.rijkscloud.nl](https://dashboards-private.ilt.rijkscloud.nl)| **A+**| **A**|| |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | |HSTS Java||
@@ -129,7 +129,7 @@ tags: dutchgov
 |[https://rstudio.ds-ocw.rijkscloud.nl](https://rstudio.ds-ocw.rijkscloud.nl)| **A+**| **C**|RStudio| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
 |[https://rstudio.ds-ocw2.rijkscloud.nl](https://rstudio.ds-ocw2.rijkscloud.nl)| **A+**| **C**|RStudio| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
 |[https://rstudio.dstrial-inspectieraad.rijkscloud.nl](https://rstudio.dstrial-inspectieraad.rijkscloud.nl)| **A+**| **C**|RStudio| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
-|[https://rstudio.fib.ienw.rijkscloud.nl](https://rstudio.fib.ienw.rijkscloud.nl)| **A+**| **C**|RStudio| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
+|[https://rstudio.fib.ienw.rijkscloud.nl](https://rstudio.fib.ienw.rijkscloud.nl)| **A+**| **E**|| | | | | | | | :white_check_mark: | |HSTS||
 |[https://rstudio.hr-ienw.rijkscloud.nl](https://rstudio.hr-ienw.rijkscloud.nl)| **A+**| **C**|RStudio| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
 |[https://rstudio.ilt.rijkscloud.nl](https://rstudio.ilt.rijkscloud.nl)| **A+**| **C**|RStudio| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
 |[https://rstudio.ilt-analyse.rijkscloud.nl](https://rstudio.ilt-analyse.rijkscloud.nl)| **A+**| **C**|RStudio| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||

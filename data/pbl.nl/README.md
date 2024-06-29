@@ -36,7 +36,7 @@
 |[https://webmail.pbl.nl](https://webmail.pbl.nl)| **F**| **F**|Microsoft-IIS/10.0| | | | | | | | :white_check_mark: | |HSTS IIS:10.0 Microsoft ASP.NET Windows Server||
 |[https://www.pbl.nl](https://www.pbl.nl)| **A-**| **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Drupal:10 HSTS PHP|Home | Planburea...|
 |[https://pbl.nl](https://pbl.nl)| **A-**| **A**|Microsoft-Azure-Application-Gateway/v2| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS|301 Moved Perman...|
-|[https://mailings.pbl.nl](https://mailings.pbl.nl)| **A+**| **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Nginx||
+|[https://mailings.pbl.nl](https://mailings.pbl.nl)| **A+**| **A**|nginx| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://mail.pbl.nl](https://mail.pbl.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|404 Not Found|
 |[https://msoid.pbl.nl](https://msoid.pbl.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Object moved|
 

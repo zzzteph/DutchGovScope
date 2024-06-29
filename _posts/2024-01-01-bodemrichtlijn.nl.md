@@ -3,7 +3,7 @@ layout: default
 title: "bodemrichtlijn.nl"
 permalink: "/dutchgov/bodemrichtlijn.nl.html"
 subdomains_count: 1673
-all_subdomains_count: 1674
+all_subdomains_count: 1678
 urls_count: 1673
 ssl_rank: C
 http_rank: E
@@ -29,7 +29,7 @@ tags: dutchgov
 |------------|-------|------|
 |[subdomains.txt](/DutchGovScope/data/bodemrichtlijn.nl/subdomains.txt)|1673|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/bodemrichtlijn.nl/urls.txt)|1673|Urls|
-|[all_subdomains.txt](/DutchGovScope/data/bodemrichtlijn.nl/all_subdomains.txt)|1674|All found subdomains (history)|
+|[all_subdomains.txt](/DutchGovScope/data/bodemrichtlijn.nl/all_subdomains.txt)|1678|All found subdomains (history)|
 
 
 ## Statistics

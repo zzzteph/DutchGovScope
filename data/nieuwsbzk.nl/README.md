@@ -21,6 +21,6 @@
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://www.nieuwsbzk.nl](https://www.nieuwsbzk.nl)| **A+**| **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Object moved|
-|[https://nieuwsbzk.nl](https://nieuwsbzk.nl)| **A+**| **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Object moved|
+|[http://www.nieuwsbzk.nl](http://www.nieuwsbzk.nl)| **A+**| **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET||
+|[http://nieuwsbzk.nl](http://nieuwsbzk.nl)| **A+**| **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET||
 

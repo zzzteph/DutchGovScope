@@ -50,3 +50,11 @@ http://test.dusi.irealisatie.nl
 https://jaeger.test.zm.irealisatie.nl
 https://pgodemo.test.zm.irealisatie.nl
 https://web.acc.irealisatie.nl
+https://metadata-b.test.zm.irealisatie.nl
+https://metadata-c.test.zm.irealisatie.nl
+https://stats.acc.mgo.irealisatie.nl
+https://web.acc.mgo.irealisatie.nl
+https://app-api.acc.mgo.irealisatie.nl
+https://max.acc.mgo.irealisatie.nl
+https://lo-ad.acc.mgo.irealisatie.nl
+https://dva.acc.mgo.irealisatie.nl

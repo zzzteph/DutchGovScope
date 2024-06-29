@@ -1,2 +1,2 @@
-https://www.binnl.nl
-https://binnl.nl
+http://www.binnl.nl
+http://binnl.nl

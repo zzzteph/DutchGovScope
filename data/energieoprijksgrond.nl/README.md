@@ -21,6 +21,6 @@
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://www.energieoprijksgrond.nl](https://www.energieoprijksgrond.nl)| **A+**| **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Object moved|
-|[https://energieoprijksgrond.nl](https://energieoprijksgrond.nl)| **A+**| **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Object moved|
+|[http://www.energieoprijksgrond.nl](http://www.energieoprijksgrond.nl)| **A+**| **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET||
+|[http://energieoprijksgrond.nl](http://energieoprijksgrond.nl)| **A+**| **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET||
 

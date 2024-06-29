@@ -6,12 +6,12 @@
 
  - **SSL Grade**:B+
  - **HTTP Security Grade**:D
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:95
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:96
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/rws.nl/subdomains.txt)|253|Alive subdomains|
+|[subdomains.txt](/data/rws.nl/subdomains.txt)|252|Alive subdomains|
 |[urls.txt](/data/rws.nl/urls.txt)|166|Urls|
 |[all_subdomains.txt](/data/rws.nl/all_subdomains.txt)|1188|All found subdomains (history)|
 
@@ -42,7 +42,7 @@
 |[https://autodiscover.rws.nl](https://autodiscover.rws.nl)| **A**| **E**|| | | | | | | | :white_check_mark: | |||
 |[https://bergerselect.rws.nl](https://bergerselect.rws.nl)| **A+**| **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|BergerSelect | R...|
 |[https://beterbediend.rws.nl](https://beterbediend.rws.nl)| **A+**| **C**|Apache/2.4.59 (Unix)| |:white_check_mark: | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.59 HSTS UNIX|Beter Bediend|
-|[https://bezoekerscentrum.rws.nl](https://bezoekerscentrum.rws.nl)| **A+**| **F**|nginx| | | | | | | | :white_check_mark: | |HSTS MySQL Nginx PHP SDL Tridion W3 Total Cache WordPress Yoast SEO:22.3|Bezoekerscentrum...|
+|[https://bezoekerscentrum.rws.nl](https://bezoekerscentrum.rws.nl)| **A+**| **F**|nginx| | | | | | | | :white_check_mark: | |MySQL Nginx PHP SDL Tridion W3 Total Cache WordPress Yoast SEO:22.3|Bezoekerscentrum...|
 |[http://birdviewer.rws.nl](http://birdviewer.rws.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://browse.nexus.vm-02.azure.grid.rws.nl](https://browse.nexus.vm-02.azure.grid.rws.nl)| **A**| **A**||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | ||302 Found|
 |[http://bva.rws.nl](http://bva.rws.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Website niet bes...|
@@ -75,7 +75,7 @@
 |[https://grafana.vm-02.azure.grid.rws.nl](https://grafana.vm-02.azure.grid.rws.nl)| **A+**| **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://grid.rws.nl](https://grid.rws.nl)| **A**| **C**|Microsoft-Azure-Application-Gateway/v2| |:white_check_mark: | | | | | | :white_check_mark: | ||301 Moved Perman...|
 |[https://gridacc.rws.nl](https://gridacc.rws.nl)| **A**| **C**|Microsoft-Azure-Application-Gateway/v2| |:white_check_mark: | | | | | | :white_check_mark: | ||301 Moved Perman...|
-|[https://hld.rws.nl](https://hld.rws.nl)| **A**| **E**|| | | | | | | | :white_check_mark: | |Microsoft ASP.NET SDL Tridion YouTube|Object moved|
+|[http://hld.rws.nl](http://hld.rws.nl)| **A**| **E**|| | | | | | | | :white_check_mark: | |Microsoft ASP.NET SDL Tridion YouTube||
 |[https://hwtest.vm-02.azure.grid.rws.nl](https://hwtest.vm-02.azure.grid.rws.nl)| **F**| **E**|| | | | | | | | :white_check_mark: | |HSTS|404 Not Found|
 |[https://imgdownload.rws.nl](https://imgdownload.rws.nl)| **A**| **E**|| | | | | | | | :white_check_mark: | |||
 |[https://inloggen.rws.nl](https://inloggen.rws.nl)| **A+**| **A**||:warning: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Pulse Secure||
@@ -93,7 +93,7 @@
 |[https://nlhull.rws.nl](https://nlhull.rws.nl)| **F**| **E**|| | | | | | | | :white_check_mark: | |HSTS|TOPdesk|
 |[https://nlrdms.rws.nl](https://nlrdms.rws.nl)| **A+**| **B**||:warning: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://noos.matroos.rws.nl](https://noos.matroos.rws.nl)| **A+**| **B**|Apache| |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS|Homepage|
-|[https://office.systeem.rws.nl](https://office.systeem.rws.nl)| **A+**| **C**|Microsoft-IIS/10.0| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS IIS:10.0 Microsoft ASP.NET:4.0.30319 Windows Server|404 - File or di...|
+|[https://office.systeem.rws.nl](https://office.systeem.rws.nl)| **A+**| **C**|Microsoft-IIS/10.0| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS IIS:10.0 Microsoft ASP.NET Windows Server|404 - File or di...|
 |[https://open.rws.nl](https://open.rws.nl)| **A**| **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Azure Azure Front Door||
 |[https://otl.rws.nl](https://otl.rws.nl)| **A+**| **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:-|OTL Publicatieom...|
 |[https://overstroomik.rws.nl](https://overstroomik.rws.nl)| **A**| **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |||
@@ -103,13 +103,13 @@
 |[https://preprod.beterbediend.rws.nl](https://preprod.beterbediend.rws.nl)| **A+**| **C**|Apache/2.4.59 (Unix)| |:white_check_mark: | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.59 HSTS UNIX|Beter Bediend|
 |[https://programmaplan.vm-02.azure.grid.rws.nl](https://programmaplan.vm-02.azure.grid.rws.nl)| **A**| **A**||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | ||302 Found|
 |[https://prometheus.vm-02.azure.grid.rws.nl](https://prometheus.vm-02.azure.grid.rws.nl)| **F**| **E**|| | | | | | | | :white_check_mark: | |HSTS|404 Not Found|
-|[https://protide.rws.nl](https://protide.rws.nl)| **A**| **A**|ChartaWebServer rws-epvw-prt202|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
+|[https://protide.rws.nl](https://protide.rws.nl)| **A**| **A**|ChartaWebServer rws-epvw-prt201|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[http://prs.rws.nl](http://prs.rws.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://ptp.inloggen.rws.nl](https://ptp.inloggen.rws.nl)| **B**| **E**|| | | | | | | | :white_check_mark: | |HSTS Pulse Secure||
 |[https://rastoken.rws.nl](https://rastoken.rws.nl)| **B**| **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Oracle Dynamic Monitoring Service Oracle WebLogic Server|302 Moved Tempor...|
 |[https://rhel8.wabinfo.rws.nl](https://rhel8.wabinfo.rws.nl)| **F**| **E**|| | | | | | | | :white_check_mark: | |||
 |[https://rwsos.rws.nl](https://rwsos.rws.nl)| **A**| **A**|nginx/1.26.0| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx:1.26.0|RWsOS webservice...|
-|[https://samenwerken.rws.nl](https://samenwerken.rws.nl)| **A+**| **C**|Microsoft-IIS/10.0| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS IIS:10.0 Microsoft ASP.NET Microsoft SharePoint:16.0.0.10408 Windows Server|Object moved|
+|[https://samenwerken.rws.nl](https://samenwerken.rws.nl)| **A+**| **C**|Microsoft-IIS/10.0| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS IIS:10.0 Microsoft ASP.NET Microsoft SharePoint Windows Server|Object moved|
 |[https://samp.rws.nl](https://samp.rws.nl)| **A+**| **A**|-| |:white_check_mark: | | | :white_check_mark:| | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:-|403 - Forbidden:...|
 |[https://sig.fam.rws.nl](https://sig.fam.rws.nl)| **F**| **E**|| | | | | | | | :white_check_mark: | |HSTS||
 |[https://sluisplanning.rws.nl](https://sluisplanning.rws.nl)| **A+**| **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |||
@@ -118,7 +118,7 @@
 |[https://svk-info.rws.nl](https://svk-info.rws.nl)| **A**| **C**|nginx| | | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Nginx|SVK-info|
 |[https://svk-login.rws.nl](https://svk-login.rws.nl)| **A**| **E**|| | | | | | | | :white_check_mark: | |||
 |[https://svs.rws.nl](https://svs.rws.nl)| **A+**| **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS Java||
-|[https://test.bezoekerscentrum.rws.nl](https://test.bezoekerscentrum.rws.nl)| **F**| **F**|nginx| | | | | | | | :white_check_mark: | |HSTS MySQL Nginx PHP SDL Tridion W3 Total Cache WordPress Yoast SEO:22.3|Bezoekerscentrum...|
+|[https://test.bezoekerscentrum.rws.nl](https://test.bezoekerscentrum.rws.nl)| **F**| **F**|nginx| | | | | | | | :white_check_mark: | |MySQL Nginx PHP SDL Tridion W3 Total Cache WordPress Yoast SEO:22.3|Bezoekerscentrum...|
 |[https://test.esb.rws.nl](https://test.esb.rws.nl)| **A**| **F**||:o: | | | | | | | :white_check_mark: | |||
 |[http://test.liwo.intranet.rws.nl](http://test.liwo.intranet.rws.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://test.lma.rws.nl](https://test.lma.rws.nl)| **A**| **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET|Object moved|
@@ -136,13 +136,13 @@
 |[https://tunnelservice-werkstation.vm-02.azure.grid.rws.nl](https://tunnelservice-werkstation.vm-02.azure.grid.rws.nl)| **F**| **E**|| | | | | | | | :white_check_mark: | |HSTS|404 Not Found|
 |[https://uitwijk-vitaal.matroos.rws.nl](https://uitwijk-vitaal.matroos.rws.nl)| **A+**| **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS|Website niet bes...|
 |[https://v14.rws.nl](https://v14.rws.nl)| **A+**| **C**|Kestrel| |:white_check_mark: | | | | | | :white_check_mark: | |Bootstrap:5.1.1 HSTS Kestrel Microsoft ASP.NET|Pluimverwachting|
-|[https://vegetatiemonitor.rws.nl](https://vegetatiemonitor.rws.nl)| | **C**|nginx/1.25.3| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Nginx:1.25.3|vegetatiemonitor...|
+|[https://vegetatiemonitor.rws.nl](https://vegetatiemonitor.rws.nl)| | **C**|nginx/1.27.0| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Nginx:1.27.0|vegetatiemonitor...|
 |[https://vitaal.matroos.rws.nl](https://vitaal.matroos.rws.nl)| **A+**| **A**|Apache| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS|Homepage|
 |[https://wabinfo.rws.nl](https://wabinfo.rws.nl)| **A+**| **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |||
 |[https://wachtwoord.rws.nl](https://wachtwoord.rws.nl)| **A**| **A**|| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS|SMS PASSCODE Pas...|
 |[https://waterberichtgeving.rws.nl](https://waterberichtgeving.rws.nl)| **A+**| **D**|nginx| |:white_check_mark: | :warning:| | | | | :white_check_mark: | |HSTS Nginx|Online Waterberi...|
 |[https://watergegevens.rws.nl](https://watergegevens.rws.nl)| **F**| **F**|Microsoft-IIS/8.5| | | | | | | | :white_check_mark: | |IIS:8.5 Microsoft ASP.NET Windows Server|Document Moved|
-|[https://waterinfo.rws.nl](https://waterinfo.rws.nl)| **A**| **E**|Microsoft-IIS/8.5| | | | |:warning: | | | :white_check_mark: | |IIS:8.5 Microsoft ASP.NET Windows Server|Rijkswaterstaat...|
+|[https://waterinfo.rws.nl](https://waterinfo.rws.nl)| **A**| **B**|Microsoft-IIS/10.0| |:white_check_mark: | | |:warning: | | | :white_check_mark: | |HSTS IIS:10.0 Microsoft ASP.NET Windows Server|Rijkswaterstaat...|
 |[https://waterinfo-extra.rws.nl](https://waterinfo-extra.rws.nl)| **A+**| **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:-|Home - Waterinfo...|
 |[https://webhook-teams.rws.nl](https://webhook-teams.rws.nl)| **F**| **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET||
 |[http://webmail.rws.nl](http://webmail.rws.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
@@ -154,7 +154,7 @@
 |[https://www.rws.nl](https://www.rws.nl)| **A**| **C**|Microsoft-Azure-Application-Gateway/v2|:warning: |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | ||301 Moved Perman...|
 |[https://www.aqualarm.rws.nl](https://www.aqualarm.rws.nl)| **A**| **C**||:warning: |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |||
 |[https://www.waterberichtgeving.rws.nl](https://www.waterberichtgeving.rws.nl)| **F**| **E**|| | | | | | | | :white_check_mark: | |HSTS||
-|[https://www.watergegevens.rws.nl](https://www.watergegevens.rws.nl)| **F**| **F**|Microsoft-IIS/8.5| | | | | | | | :white_check_mark: | |IIS:8.5 Microsoft ASP.NET Windows Server|Document Moved|
+|[https://www.watergegevens.rws.nl](https://www.watergegevens.rws.nl)| **F**| **F**|Microsoft-IIS/8.5| | | | | | | | :white_check_mark: | |IIS:8.5 Microsoft ASP.NET Windows Server|500 - Internal s...|
 |[https://www.werkenbij.rws.nl](https://www.werkenbij.rws.nl)| **A**| **C**|Microsoft-Azure-Application-Gateway/v2|:warning: |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | ||301 Moved Perman...|
 |[http://xwd.rws.nl](http://xwd.rws.nl)| **A**| **E**|| | | | | | | | :white_check_mark: | |||
 |[https://zwerfafval.rws.nl](https://zwerfafval.rws.nl)| **A+**| **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:-|Object moved|
@@ -165,7 +165,7 @@
 |[https://tst-onderwaterobjecten.rws.nl](https://tst-onderwaterobjecten.rws.nl)| **A+**| **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Nginx|SonarReg|
 |[https://tst-sonarreg.rws.nl](https://tst-sonarreg.rws.nl)| **A+**| **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Nginx|SonarReg|
 |[https://webportaal.rws.nl](https://webportaal.rws.nl)| **F**| **E**|| | | | | | | | :white_check_mark: | |HSTS||
-|[https://tgox.rws.nl](https://tgox.rws.nl)| **A**| **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
+|[https://tgox.rws.nl](https://tgox.rws.nl)| **A**| **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://techniekacademie.rws.nl](https://techniekacademie.rws.nl)| **A+**| **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:-|Object moved|
 |[http://acceptatie.gbvi.rws.nl](http://acceptatie.gbvi.rws.nl)| **A**| **E**|| | | | | | | | :white_check_mark: | |||
 |[https://keycloak-test.vm-02.azure.grid.rws.nl](https://keycloak-test.vm-02.azure.grid.rws.nl)| **A+**| **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Welcome to Keycl...|

@@ -13,7 +13,7 @@ https://www.hogeraad.nl
 https://siam-acc.hogeraad.nl
 https://sts.hogeraad.nl
 http://autodiscover.hogeraad.nl
-https://postbus-acc.hogeraad.nl
+http://postbus-acc.hogeraad.nl
 https://mijnzaak-acc.hogeraad.nl
 https://mail.hogeraad.nl
 https://hogeraad.nl

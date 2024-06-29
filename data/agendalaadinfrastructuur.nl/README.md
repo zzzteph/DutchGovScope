@@ -21,6 +21,6 @@
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://www.agendalaadinfrastructuur.nl](https://www.agendalaadinfrastructuur.nl)| **A+**| **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Object moved|
-|[https://agendalaadinfrastructuur.nl](https://agendalaadinfrastructuur.nl)| **A**| **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Object moved|
+|[http://www.agendalaadinfrastructuur.nl](http://www.agendalaadinfrastructuur.nl)| **A+**| **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET||
+|[http://agendalaadinfrastructuur.nl](http://agendalaadinfrastructuur.nl)| **A**| **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET||
 

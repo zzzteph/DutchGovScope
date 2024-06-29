@@ -11,8 +11,8 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/odc-noord.nl/subdomains.txt)|147|Alive subdomains|
-|[urls.txt](/data/odc-noord.nl/urls.txt)|82|Urls|
+|[subdomains.txt](/data/odc-noord.nl/subdomains.txt)|148|Alive subdomains|
+|[urls.txt](/data/odc-noord.nl/urls.txt)|83|Urls|
 |[all_subdomains.txt](/data/odc-noord.nl/all_subdomains.txt)|264|All found subdomains (history)|
 
 
@@ -103,4 +103,5 @@
 |[https://paas-portal-gn3.odc-noord.nl](https://paas-portal-gn3.odc-noord.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |AngularJS HSTS||
 |[https://login-gn3.odc-noord.nl](https://login-gn3.odc-noord.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://rvihh-acc.topdesk.odc-noord.nl](https://rvihh-acc.topdesk.odc-noord.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
+|[https://bd-toegang-acc.topdesk.odc-noord.nl](https://bd-toegang-acc.topdesk.odc-noord.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Login|
 

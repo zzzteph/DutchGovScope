@@ -6,13 +6,13 @@
 
  - **SSL Grade**:
  - **HTTP Security Grade**:B
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:40
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:48
 
 
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/irealisatie.nl/subdomains.txt)|63|Alive subdomains|
-|[urls.txt](/data/irealisatie.nl/urls.txt)|52|Urls|
+|[urls.txt](/data/irealisatie.nl/urls.txt)|60|Urls|
 |[all_subdomains.txt](/data/irealisatie.nl/all_subdomains.txt)|65|All found subdomains (history)|
 
 
@@ -73,4 +73,12 @@
 |[https://jaeger.test.zm.irealisatie.nl](https://jaeger.test.zm.irealisatie.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |Basic HSTS|401 Unauthorized|
 |[https://pgodemo.test.zm.irealisatie.nl](https://pgodemo.test.zm.irealisatie.nl)| | **A**|Apache| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server Basic HSTS|401 Unauthorized|
 |[https://web.acc.irealisatie.nl](https://web.acc.irealisatie.nl)| | **A**|Apache| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |Apache HTTP Server Basic HSTS|401 Unauthorized|
+|[https://metadata-b.test.zm.irealisatie.nl](https://metadata-b.test.zm.irealisatie.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |Basic HSTS|401 Unauthorized|
+|[https://metadata-c.test.zm.irealisatie.nl](https://metadata-c.test.zm.irealisatie.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |Basic HSTS|401 Unauthorized|
+|[https://stats.acc.mgo.irealisatie.nl](https://stats.acc.mgo.irealisatie.nl)| | **B**|Apache| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server Basic HSTS|401 Unauthorized|
+|[https://web.acc.mgo.irealisatie.nl](https://web.acc.mgo.irealisatie.nl)| | **A**|Apache| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |Apache HTTP Server Basic HSTS|401 Unauthorized|
+|[https://app-api.acc.mgo.irealisatie.nl](https://app-api.acc.mgo.irealisatie.nl)| | **A**|Apache| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS||
+|[https://max.acc.mgo.irealisatie.nl](https://max.acc.mgo.irealisatie.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||
+|[https://lo-ad.acc.mgo.irealisatie.nl](https://lo-ad.acc.mgo.irealisatie.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||
+|[https://dva.acc.mgo.irealisatie.nl](https://dva.acc.mgo.irealisatie.nl)| | **A**|| |:white_check_mark: | :warning:| | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS||
 

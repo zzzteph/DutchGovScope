@@ -5,8 +5,8 @@
 
 
  - **SSL Grade**:A-
- - **HTTP Security Grade**:B
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:17
+ - **HTTP Security Grade**:C
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:18
 
 
 | File       | Count | Info |
@@ -22,17 +22,17 @@
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[https://mailings.noord-holland.nl](https://mailings.noord-holland.nl)| **A+**| **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Nginx||
-|[https://apollo4.noord-holland.nl](https://apollo4.noord-holland.nl)| **B**| **C**|Microsoft-IIS/10.0| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS IIS:10.0 Microsoft ASP.NET Windows Server|403 - Forbidden:...|
+|[https://apollo4.noord-holland.nl](https://apollo4.noord-holland.nl)| **B**| **F**|awselb/2.0| | | | | | | | :white_check_mark: | |Amazon ELB Amazon Web Services|503 Service Temp...|
 |[https://subsidies.noord-holland.nl](https://subsidies.noord-holland.nl)| **A+**| **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://meet.noord-holland.nl](https://meet.noord-holland.nl)| **A**| **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|Skype for Busine...|
 |[http://zoeken.noord-holland.nl](http://zoeken.noord-holland.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
-|[https://dataiku.noord-holland.nl](https://dataiku.noord-holland.nl)| **B**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |D3 HSTS NVD3 Nginx|Dataiku|
+|[http://dataiku.noord-holland.nl](http://dataiku.noord-holland.nl)| **B**| **F**|awselb/2.0| | | | | | | | :white_check_mark: | |Amazon ELB Amazon Web Services|301 Moved Perman...|
 |[https://esm.noord-holland.nl](https://esm.noord-holland.nl)| **A+**| **A**|cloudflare| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Cloudflare HSTS|Login|
-|[http://statensite.noord-holland.nl](http://statensite.noord-holland.nl)| **A+**| **E**|| | | | | | | | :white_check_mark: | |HSTS Java||
+|[https://statensite.noord-holland.nl](https://statensite.noord-holland.nl)| **A+**| **A**||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Java||
 |[https://formulieren.noord-holland.nl](https://formulieren.noord-holland.nl)| **A+**| **A**||:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Object moved|
 |[https://developer.noord-holland.nl](https://developer.noord-holland.nl)| **A+**| **A**|| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Bootstrap HSTS|Developer portaa...|
-|[https://design-node.datalab-prod.aws.noord-holland.nl](https://design-node.datalab-prod.aws.noord-holland.nl)| **B**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |D3 HSTS NVD3 Nginx|Dataiku|
-|[https://sva-a8a9.noord-holland.nl](https://sva-a8a9.noord-holland.nl)| **A**| **D**|Apache/2| | | | | :white_check_mark:| | | :white_check_mark: | |Apache HTTP Server:2 HSTS MySQL PHP Typekit WordPress:6.2.5|SEP A8-A9|
+|[http://design-node.datalab-prod.aws.noord-holland.nl](http://design-node.datalab-prod.aws.noord-holland.nl)| **B**| **F**|awselb/2.0| | | | | | | | :white_check_mark: | |Amazon ELB Amazon Web Services|301 Moved Perman...|
+|[https://sva-a8a9.noord-holland.nl](https://sva-a8a9.noord-holland.nl)| **A**| **D**|Apache/2| | | | | :white_check_mark:| | | :white_check_mark: | |Apache HTTP Server:2 HSTS MySQL PHP Typekit WordPress:6.2.6|SEP A8-A9|
 |[https://geoapps2.noord-holland.nl](https://geoapps2.noord-holland.nl)| **B**| **C**|Microsoft-IIS/10.0| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS IIS:10.0 Microsoft ASP.NET Windows Server||
 |[https://leidraadlc.noord-holland.nl](https://leidraadlc.noord-holland.nl)| **A**| **F**|nginx| | | | | | | | :white_check_mark: | |MySQL Nginx PHP WordPress|Leidraad Landsch...|
 |[https://acc.subsidies.noord-holland.nl](https://acc.subsidies.noord-holland.nl)| **A+**| **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
@@ -51,13 +51,13 @@
 |[https://autodiscover.noord-holland.nl](https://autodiscover.noord-holland.nl)| **A**| **E**|| | | | | | | | :white_check_mark: | |||
 |[https://geoapps3.noord-holland.nl](https://geoapps3.noord-holland.nl)| **B**| **C**|Microsoft-IIS/10.0| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS IIS:10.0 Microsoft ASP.NET Windows Server||
 |[https://apollo.noord-holland.nl](https://apollo.noord-holland.nl)| **B**| **C**|Microsoft-IIS/10.0| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS IIS:10.0 Microsoft ASP.NET Windows Server|403 - Forbidden:...|
-|[https://geonetwork.noord-holland.nl](https://geonetwork.noord-holland.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|Apache Tomcat/9....|
+|[https://geonetwork.noord-holland.nl](https://geonetwork.noord-holland.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||
 |[https://rdgw.noord-holland.nl](https://rdgw.noord-holland.nl)| **A**| **F**|Microsoft-IIS/10.0|:o: | | | | | | | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server|Document Moved|
-|[https://nota.noord-holland.nl](https://nota.noord-holland.nl)| **A+**| **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
+|[https://nota.noord-holland.nl](https://nota.noord-holland.nl)| **A+**| **E**|| | | | | | | | :white_check_mark: | |Google Cloud Google Cloud CDN HTTP/3||
 |[https://plein.noord-holland.nl](https://plein.noord-holland.nl)| **A+**| **B**|Microsoft-IIS/10.0|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Azure HSTS IIS:10.0 Microsoft ASP.NET Windows Server||
 |[https://lync1.noord-holland.nl](https://lync1.noord-holland.nl)| **A**| **C**|Microsoft-IIS/8.0| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS IIS:8.0 Windows Server|403 - Forbidden:...|
 |[https://sip.noord-holland.nl](https://sip.noord-holland.nl)| **B**| **C**|RTC/6.0| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
-|[https://magazine.noord-holland.nl](https://magazine.noord-holland.nl)| **A+**| **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
+|[https://magazine.noord-holland.nl](https://magazine.noord-holland.nl)| **A+**| **E**|| | | | | | | | :white_check_mark: | |Google Cloud Google Cloud CDN HTTP/3||
 |[https://dialin.noord-holland.nl](https://dialin.noord-holland.nl)| **A**| **C**|Microsoft-IIS/8.0| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS IIS:8.0 Windows Server|Conferencing Dia...|
 |[http://ep.noord-holland.nl](http://ep.noord-holland.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://vacatures.noord-holland.nl](https://vacatures.noord-holland.nl)| **A+**| **A**||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET|Werken voor Noor...|

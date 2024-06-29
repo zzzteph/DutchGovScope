@@ -21,6 +21,6 @@
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://www.denationaleomgevingsvisie.nl](https://www.denationaleomgevingsvisie.nl)| **A+**| **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET hCaptcha|Object moved|
-|[https://denationaleomgevingsvisie.nl](https://denationaleomgevingsvisie.nl)| **A+**| **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET hCaptcha|Object moved|
+|[http://www.denationaleomgevingsvisie.nl](http://www.denationaleomgevingsvisie.nl)| **A+**| **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET hCaptcha||
+|[http://denationaleomgevingsvisie.nl](http://denationaleomgevingsvisie.nl)| **A+**| **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET hCaptcha||
 

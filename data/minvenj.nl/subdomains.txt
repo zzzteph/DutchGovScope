@@ -90,3 +90,4 @@ md.minvenj.nl
 md1.minvenj.nl
 mdp.minvenj.nl
 sftp.minvenj.nl
+eopg-digid.gdi.minvenj.nl

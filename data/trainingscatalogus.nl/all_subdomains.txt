@@ -209,3 +209,5 @@ cms.test.trainingscatalogus.nl
 dtenv-a.trainingscatalogus.nl
 meet.test.trainingscatalogus.nl
 webdisk.test.trainingscatalogus.nl
+portal-stater.trainingscatalogus.nl
+leeromgeving-stater.trainingscatalogus.nl

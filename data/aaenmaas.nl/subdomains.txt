@@ -16,6 +16,7 @@ dialin.aaenmaas.nl
 eloket.aaenmaas.nl
 av.aaenmaas.nl
 web.aaenmaas.nl
+sharepoint.aaenmaas.nl
 mdm.aaenmaas.nl
 achtergrond.aaenmaas.nl
 ftp.aaenmaas.nl

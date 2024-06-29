@@ -19,3 +19,4 @@ https://rxlaunch-signicat-preprod.h-i-ambacht.nl
 https://vergunningintaker.h-i-ambacht.nl
 https://vthbroker.h-i-ambacht.nl
 https://omgevingsvisie.h-i-ambacht.nl
+https://hendrik-ido-ambacht-checker-preprod.h-i-ambacht.nl

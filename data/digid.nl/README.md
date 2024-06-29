@@ -39,7 +39,7 @@
 |[https://mijn.digid.nl](https://mijn.digid.nl)| **A+**| **A**||:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Ruby Ruby on Rails||
 |[https://mijn.preprod1.digid.nl](https://mijn.preprod1.digid.nl)| **A+**| **A**||:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Ruby Ruby on Rails||
 |[https://mijn.preprod2.digid.nl](https://mijn.preprod2.digid.nl)| **A+**| **A**||:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Ruby Ruby on Rails||
-|[https://pp1.machtigen.digid.nl](https://pp1.machtigen.digid.nl)| **A**| **A**|Apache| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server Express HSTS Node.js|DigiD Machtigen|
+|[https://pp1.machtigen.digid.nl](https://pp1.machtigen.digid.nl)| **A**| **A**||:o: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|DigiD Machtigen|
 |[https://preprod1.digid.nl](https://preprod1.digid.nl)| **A+**| **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://preprod2.digid.nl](https://preprod2.digid.nl)| **A**| **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://rda.digid.nl](https://rda.digid.nl)| **A+**| **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||

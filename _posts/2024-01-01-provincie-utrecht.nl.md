@@ -2,7 +2,7 @@
 layout: default
 title: "provincie-utrecht.nl"
 permalink: "/dutchgov/provincie-utrecht.nl.html"
-subdomains_count: 113
+subdomains_count: 111
 all_subdomains_count: 190
 urls_count: 94
 ssl_rank: A-
@@ -27,7 +27,7 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/provincie-utrecht.nl/subdomains.txt)|113|Alive subdomains|
+|[subdomains.txt](/DutchGovScope/data/provincie-utrecht.nl/subdomains.txt)|111|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/provincie-utrecht.nl/urls.txt)|94|Urls|
 |[all_subdomains.txt](/DutchGovScope/data/provincie-utrecht.nl/all_subdomains.txt)|190|All found subdomains (history)|
 

@@ -37,6 +37,6 @@ tags: dutchgov
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://www.safe-by-design-nl.nl](https://www.safe-by-design-nl.nl)| **A+**| **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Object moved|
-|[https://safe-by-design-nl.nl](https://safe-by-design-nl.nl)| **A+**| **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Object moved|
+|[http://www.safe-by-design-nl.nl](http://www.safe-by-design-nl.nl)| **A+**| **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET||
+|[http://safe-by-design-nl.nl](http://safe-by-design-nl.nl)| **A+**| **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET||
 

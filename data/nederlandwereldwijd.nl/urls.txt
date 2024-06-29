@@ -6,7 +6,7 @@ https://dev.opendata.nederlandwereldwijd.nl
 https://informatieservice.nederlandwereldwijd.nl
 https://opendata.nederlandwereldwijd.nl
 https://preview.nederlandwereldwijd.nl
-https://prod2.opendata.nederlandwereldwijd.nl
+http://prod2.opendata.nederlandwereldwijd.nl
 https://tst.opendata.nederlandwereldwijd.nl
 https://www.nederlandwereldwijd.nl
 https://links.informatieservice.nederlandwereldwijd.nl

@@ -21,7 +21,7 @@
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://www.registerexterneveiligheid.nl](https://www.registerexterneveiligheid.nl)| **A+**| **A**|Apache| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server Drupal HSTS PHP|Register Externe...|
+|[https://www.registerexterneveiligheid.nl](https://www.registerexterneveiligheid.nl)| **A+**| **A**|Apache| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server Drupal HSTS PHP SDL Tridion|Register Externe...|
 |[https://registerexterneveiligheid.nl](https://registerexterneveiligheid.nl)| **A+**| **A**|Apache| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS|301 Moved Perman...|
 |[http://localhost.registerexterneveiligheid.nl](http://localhost.registerexterneveiligheid.nl)| | **F**|nginx| | | :warning:| | | | | :white_check_mark: | |Nginx|(404 Not Found)|
 

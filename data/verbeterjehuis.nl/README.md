@@ -24,7 +24,7 @@
 |[https://www.verbeterjehuis.nl](https://www.verbeterjehuis.nl)| **A+**| **A**|cloudflare| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Cloudflare HSTS|Alles over je hu...|
 |[https://energyportpeelland.verbeterjehuis.nl](https://energyportpeelland.verbeterjehuis.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Microsoft Azure...|
 |[https://verbeterjehuis.nl](https://verbeterjehuis.nl)| **A+**| **A**|cloudflare| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Cloudflare HSTS|Document Moved|
-|[https://groenesubsidiewijzer.verbeterjehuis.nl](https://groenesubsidiewijzer.verbeterjehuis.nl)| **A+**| **A**|cloudflare| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Cloudflare HSTS|Object moved|
+|[https://groenesubsidiewijzer.verbeterjehuis.nl](https://groenesubsidiewijzer.verbeterjehuis.nl)| **A+**| **A**|cloudflare| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Cloudflare Google Tag Manager HSTS||
 |[https://test-www.verbeterjehuis.nl](https://test-www.verbeterjehuis.nl)| | **B**|cloudflare| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Cloudflare HSTS|Attention Requir...|
 |[https://cms.verbeterjehuis.nl](https://cms.verbeterjehuis.nl)| | **B**|cloudflare| |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | |Cloudflare HSTS|Document Moved|
 |[https://content.verbeterjehuis.nl](https://content.verbeterjehuis.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||

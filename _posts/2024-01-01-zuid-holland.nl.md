@@ -4,7 +4,7 @@ title: "zuid-holland.nl"
 permalink: "/dutchgov/zuid-holland.nl.html"
 subdomains_count: 78
 all_subdomains_count: 142
-urls_count: 73
+urls_count: 74
 ssl_rank: A
 http_rank: C
 security_txt: 21
@@ -28,7 +28,7 @@ tags: dutchgov
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/DutchGovScope/data/zuid-holland.nl/subdomains.txt)|78|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/zuid-holland.nl/urls.txt)|73|Urls|
+|[urls.txt](/DutchGovScope/data/zuid-holland.nl/urls.txt)|74|Urls|
 |[all_subdomains.txt](/DutchGovScope/data/zuid-holland.nl/all_subdomains.txt)|142|All found subdomains (history)|
 
 
@@ -110,4 +110,5 @@ tags: dutchgov
 |[https://jaaroverzichtcommissarisvandekoning2023.zuid-holland.nl](https://jaaroverzichtcommissarisvandekoning2023.zuid-holland.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:-|Object moved|
 |[https://geoweb.zuid-holland.nl](https://geoweb.zuid-holland.nl)| | **F**|Microsoft-IIS/10.0| | | | | | | | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server||
 |[https://denkmeemet.zuid-holland.nl](https://denkmeemet.zuid-holland.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Express HSTS Node.js|Home | Denk mee...|
+|[https://virtueel.zuid-holland.nl](https://virtueel.zuid-holland.nl)| | **A**|Microsoft-IIS/10.0| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS IIS:10.0 Microsoft ASP.NET Windows Server|Cesium|
 

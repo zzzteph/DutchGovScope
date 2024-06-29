@@ -13,7 +13,7 @@
 |------------|-------|------|
 |[subdomains.txt](/data/ndw.nu/subdomains.txt)|95|Alive subdomains|
 |[urls.txt](/data/ndw.nu/urls.txt)|86|Urls|
-|[all_subdomains.txt](/data/ndw.nu/all_subdomains.txt)|123|All found subdomains (history)|
+|[all_subdomains.txt](/data/ndw.nu/all_subdomains.txt)|125|All found subdomains (history)|
 
 
 ## Statistics
@@ -23,7 +23,7 @@
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[https://auth.ndw.nu](https://auth.ndw.nu)| **F**| **F**|Microsoft-Azure-Application-Gateway/v2| | | | | | | | :white_check_mark: | ||404 Not Found|
 |[https://cbm.ndw.nu](https://cbm.ndw.nu)| **B**| **F**|nginx/1.19.6| | | | | | | | :white_check_mark: | |Nginx:1.19.6|NDW-CBM|
-|[https://cms-info.ndw.nu](https://cms-info.ndw.nu)| **F**| **E**|| | | | | | | | :white_check_mark: | |||
+|[https://cms-info.ndw.nu](https://cms-info.ndw.nu)| **F**| **F**|Microsoft-Azure-Application-Gateway/v2| | | | | | | | :white_check_mark: | ||404 Not Found|
 |[https://dashboards.ndw.nu](https://dashboards.ndw.nu)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|Dashboard|
 |[https://dashboards.staging.ndw.nu](https://dashboards.staging.ndw.nu)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|Dashboard|
 |[https://data.ndw.nu](https://data.ndw.nu)| **A**| **E**|| | | | | | | | :white_check_mark: | |||
@@ -38,7 +38,7 @@
 |[https://fbmonitor.ndw.nu](https://fbmonitor.ndw.nu)| **B**| **A**|Apache/2.4.59 (Debian)| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server:2.4.59 Debian HSTS|NDW FB Dashboard|
 |[https://feeds.ndw.nu](https://feeds.ndw.nu)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://feeds.english.ndw.nu](https://feeds.english.ndw.nu)| **A+**| **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
-|[https://iam.ndw.nu](https://iam.ndw.nu)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Welcome to Keycl...|
+|[https://iam.ndw.nu](https://iam.ndw.nu)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://keycloak.ndw.nu](https://keycloak.ndw.nu)| | **E**|| | | | | | | | :white_check_mark: | ||Microsoft Azure...|
 |[https://maps.ndw.nu](https://maps.ndw.nu)| | **F**|Apache/2.4.59 (Unix)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.59 Bootstrap UNIX|NDW Maps|
 |[https://melvin.ndw.nu](https://melvin.ndw.nu)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | | :white_check_mark: | :white_check_mark: | |HSTS Nginx|Melvin|
@@ -74,13 +74,13 @@
 |[https://melvin-acc.staging.ndw.nu](https://melvin-acc.staging.ndw.nu)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | | :white_check_mark: | :white_check_mark: | |HSTS Nginx|Melvin|
 |[https://ndw.nu](https://ndw.nu)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
 |[https://realtime.ndw.nu](https://realtime.ndw.nu)| **F**| **F**|Microsoft-Azure-Application-Gateway/v2| | | | | | | | :white_check_mark: | ||404 Not Found|
-|[https://acceptatie-melvin.ndw.nu](https://acceptatie-melvin.ndw.nu)| | **F**|Microsoft-Azure-Application-Gateway/v2| | | | | | | | :white_check_mark: | ||301 Moved Perman...|
+|[https://acceptatie-melvin.ndw.nu](https://acceptatie-melvin.ndw.nu)| | **F**|Microsoft-Azure-Application-Gateway/v2| | | | | | | | :white_check_mark: | ||404 Not Found|
 |[https://xdev.staging.ndw.nu](https://xdev.staging.ndw.nu)| | **F**|Microsoft-Azure-Application-Gateway/v2| | | | | | | | :white_check_mark: | ||404 Not Found|
 |[https://ams-closures.ndw.nu](https://ams-closures.ndw.nu)| **A+**| **B**|nginx|:warning: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Basic HSTS Java Nginx||
 |[https://karin.ndw.nu](https://karin.ndw.nu)| **B**| **F**|nginx/1.26.0| | | | | | | | :white_check_mark: | |Nginx:1.26.0|NDW Karin|
 |[https://realtime.staging.ndw.nu](https://realtime.staging.ndw.nu)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://dexter.staging.ndw.nu](https://dexter.staging.ndw.nu)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|NDW Dexter|
-|[https://iam.staging.ndw.nu](https://iam.staging.ndw.nu)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
+|[https://iam.staging.ndw.nu](https://iam.staging.ndw.nu)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||
 |[https://data.staging.ndw.nu](https://data.staging.ndw.nu)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://vm-ivra.staging.ndw.nu](https://vm-ivra.staging.ndw.nu)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|VM-IVRA|
 |[https://ncis-ref.ndw.nu](https://ncis-ref.ndw.nu)| **B**| **A**|Microsoft-Azure-Application-Gateway/v2| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | ||301 Moved Perman...|

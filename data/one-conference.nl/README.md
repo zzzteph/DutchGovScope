@@ -11,7 +11,7 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/one-conference.nl/subdomains.txt)|36|Alive subdomains|
+|[subdomains.txt](/data/one-conference.nl/subdomains.txt)|2524|Alive subdomains|
 |[urls.txt](/data/one-conference.nl/urls.txt)|36|Urls|
 |[all_subdomains.txt](/data/one-conference.nl/all_subdomains.txt)|2615|All found subdomains (history)|
 

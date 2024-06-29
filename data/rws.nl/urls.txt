@@ -52,7 +52,7 @@ http://git.rws.nl
 https://grafana.vm-02.azure.grid.rws.nl
 https://grid.rws.nl
 https://gridacc.rws.nl
-https://hld.rws.nl
+http://hld.rws.nl
 https://hwtest.vm-02.azure.grid.rws.nl
 https://imgdownload.rws.nl
 https://inloggen.rws.nl

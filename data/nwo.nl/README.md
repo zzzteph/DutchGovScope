@@ -29,7 +29,7 @@
 |[https://isaac.nwo.nl](https://isaac.nwo.nl)| **B**| **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
 |[http://autodiscover.nwo.nl](http://autodiscover.nwo.nl)| | **B**|Microsoft-IIS/10.0|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server||
 |[https://nwoi-people.nwo.nl](https://nwoi-people.nwo.nl)| **A+**| **A**|Apache/2|:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server:2|307 Temporary Re...|
-|[https://mailing.nwo.nl](https://mailing.nwo.nl)| **A+**| **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Nginx||
+|[https://mailing.nwo.nl](https://mailing.nwo.nl)| **A+**| **A**|nginx| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://www.nwo.nl](https://www.nwo.nl)| **A+**| **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | :white_check_mark: |Drupal:10 Google Tag Manager HSTS PHP|Homepagina | NWO|
 |[https://intranet.nwo.nl](https://intranet.nwo.nl)| **A+**| **A**|Apache|:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS|- Joost|
 |[https://auth.nwo.nl](https://auth.nwo.nl)| **A**| **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|

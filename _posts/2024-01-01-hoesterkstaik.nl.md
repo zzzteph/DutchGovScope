@@ -4,10 +4,10 @@ title: "hoesterkstaik.nl"
 permalink: "/dutchgov/hoesterkstaik.nl.html"
 subdomains_count: 7
 all_subdomains_count: 7
-urls_count: 3
+urls_count: 4
 ssl_rank: 
 http_rank: A
-security_txt: 3
+security_txt: 4
 url_link: /data/hoesterkstaik.nl/urls.txt
 all_subdomains_link: /data/hoesterkstaik.nl/all_subdomains.txt
 subdomains_link: /data/hoesterkstaik.nl/subdomains.txt
@@ -22,13 +22,13 @@ tags: dutchgov
 
  - **SSL Grade**:
  - **HTTP Security Grade**:A
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:3
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:4
 
 
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/DutchGovScope/data/hoesterkstaik.nl/subdomains.txt)|7|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/hoesterkstaik.nl/urls.txt)|3|Urls|
+|[urls.txt](/DutchGovScope/data/hoesterkstaik.nl/urls.txt)|4|Urls|
 |[all_subdomains.txt](/DutchGovScope/data/hoesterkstaik.nl/all_subdomains.txt)|7|All found subdomains (history)|
 
 
@@ -40,4 +40,5 @@ tags: dutchgov
 |[https://feeds.hoesterkstaik.nl](https://feeds.hoesterkstaik.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://opendata.hoesterkstaik.nl](https://opendata.hoesterkstaik.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://www.hoesterkstaik.nl](https://www.hoesterkstaik.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Home | Hoe sterk...|
+|[https://hoesterkstaik.nl](https://hoesterkstaik.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
 

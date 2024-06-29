@@ -21,6 +21,6 @@
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://www.verduurzamingindustrie.nl](https://www.verduurzamingindustrie.nl)| **A**| **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Object moved|
-|[https://verduurzamingindustrie.nl](https://verduurzamingindustrie.nl)| **A**| **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Object moved|
+|[http://www.verduurzamingindustrie.nl](http://www.verduurzamingindustrie.nl)| **A**| **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET||
+|[http://verduurzamingindustrie.nl](http://verduurzamingindustrie.nl)| **A**| **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET||
 

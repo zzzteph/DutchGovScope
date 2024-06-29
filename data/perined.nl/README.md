@@ -11,8 +11,8 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/perined.nl/subdomains.txt)|105|Alive subdomains|
-|[urls.txt](/data/perined.nl/urls.txt)|98|Urls|
+|[subdomains.txt](/data/perined.nl/subdomains.txt)|106|Alive subdomains|
+|[urls.txt](/data/perined.nl/urls.txt)|99|Urls|
 |[all_subdomains.txt](/data/perined.nl/all_subdomains.txt)|110|All found subdomains (history)|
 
 
@@ -66,6 +66,7 @@
 |[https://syncovh.perined.nl](https://syncovh.perined.nl)| | **F**|Apache/2.4.59 (Amazon Linux) OpenSSL/3.0.8| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.59 HSTS OpenSSL:3.0.8|301 Moved Perman...|
 |[https://mbeta.perined.nl](https://mbeta.perined.nl)| | **F**|Apache/2.4.59 (Amazon Linux) OpenSSL/3.0.8| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.59 HSTS OpenSSL:3.0.8|301 Moved Perman...|
 |[https://abyss.perined.nl](https://abyss.perined.nl)| | **F**|Apache/2.4.59 (Amazon Linux) OpenSSL/3.0.8| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.59 HSTS OpenSSL:3.0.8|301 Moved Perman...|
+|[https://facultydevelopment.perined.nl](https://facultydevelopment.perined.nl)| | **F**|Apache/2.4.59 (Amazon Linux) OpenSSL/3.0.8| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.59 HSTS OpenSSL:3.0.8|301 Moved Perman...|
 |[https://flagstaff.perined.nl](https://flagstaff.perined.nl)| | **F**|Apache/2.4.59 (Amazon Linux) OpenSSL/3.0.8| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.59 HSTS OpenSSL:3.0.8|301 Moved Perman...|
 |[https://iland.perined.nl](https://iland.perined.nl)| | **F**|Apache/2.4.59 (Amazon Linux) OpenSSL/3.0.8| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.59 HSTS OpenSSL:3.0.8|301 Moved Perman...|
 |[https://legart.perined.nl](https://legart.perined.nl)| | **F**|Apache/2.4.59 (Amazon Linux) OpenSSL/3.0.8| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.59 HSTS OpenSSL:3.0.8|301 Moved Perman...|

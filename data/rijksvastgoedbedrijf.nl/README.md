@@ -13,7 +13,7 @@
 |------------|-------|------|
 |[subdomains.txt](/data/rijksvastgoedbedrijf.nl/subdomains.txt)|10|Alive subdomains|
 |[urls.txt](/data/rijksvastgoedbedrijf.nl/urls.txt)|6|Urls|
-|[all_subdomains.txt](/data/rijksvastgoedbedrijf.nl/all_subdomains.txt)|23|All found subdomains (history)|
+|[all_subdomains.txt](/data/rijksvastgoedbedrijf.nl/all_subdomains.txt)|24|All found subdomains (history)|
 
 
 ## Statistics

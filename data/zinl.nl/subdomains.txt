@@ -42,6 +42,7 @@ cmg.zinl.nl
 enterpriseenrollment.zinl.nl
 jenkins.zinl.nl
 sslvpn.zinl.nl
+dc1srvsky01p.intern.zinl.nl
 documentum-as-a.zinl.nl
 documentum-as-p.zinl.nl
 documentum-cs-a.zinl.nl

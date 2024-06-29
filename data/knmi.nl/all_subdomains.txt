@@ -271,3 +271,5 @@ api.acc.spaceweather.knmi.nl
 api.spaceweather.knmi.nl
 hapi.acc.spaceweather.knmi.nl
 hapi.spaceweather.knmi.nl
+shell-cntr-nm.api.dev.spaceweather.knmi.nl
+shell-cntr-nm.hapi.dev.spaceweather.knmi.nl

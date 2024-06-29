@@ -13,7 +13,7 @@
 |------------|-------|------|
 |[subdomains.txt](/data/pleio.nl/subdomains.txt)|1527|Alive subdomains|
 |[urls.txt](/data/pleio.nl/urls.txt)|1521|Urls|
-|[all_subdomains.txt](/data/pleio.nl/all_subdomains.txt)|2202|All found subdomains (history)|
+|[all_subdomains.txt](/data/pleio.nl/all_subdomains.txt)|2203|All found subdomains (history)|
 
 
 ## Statistics
@@ -115,7 +115,7 @@
 |[https://kennisdelenrv.odc.pleio.nl](https://kennisdelenrv.odc.pleio.nl)| **F**| **E**|| | | | | | | | :white_check_mark: | |HSTS|404 Not Found|
 |[https://kennisdelenrvo.pleio.nl](https://kennisdelenrvo.pleio.nl)| **A+**| **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Domeinnaam nog n...|
 |[https://kennisdelenrvo.odc.pleio.nl](https://kennisdelenrvo.odc.pleio.nl)| **F**| **E**|| | | | | | | | :white_check_mark: | |HSTS|404 Not Found|
-|[https://keycloak.pleio.nl](https://keycloak.pleio.nl)| **A+**| **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Domeinnaam nog n...|
+|[https://keycloak.pleio.nl](https://keycloak.pleio.nl)| **A+**| **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://kia.pleio.nl](https://kia.pleio.nl)| **A+**| **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache Tomcat Fourthwall:1.0.0 HSTS Java MariaDB Skolengo:1.0.0|KIA|
 |[https://kia.odc.pleio.nl](https://kia.odc.pleio.nl)| **F**| **E**|| | | | | | | | :white_check_mark: | |HSTS|404 Not Found|
 |[https://kibana.odc.pleio.nl](https://kibana.odc.pleio.nl)| **F**| **E**|| | | | | | | | :white_check_mark: | |HSTS|404 Not Found|
@@ -188,7 +188,7 @@
 |[https://sjabloon3.pleio.nl](https://sjabloon3.pleio.nl)| **A+**| **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Domeinnaam nog n...|
 |[https://sjabloon4.pleio.nl](https://sjabloon4.pleio.nl)| **A+**| **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Domeinnaam nog n...|
 |[https://stats.pleio.nl](https://stats.pleio.nl)| **A**| **D**|nginx/1.18.0 (Ubuntu)|:white_check_mark: | | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Matomo Analytics Nginx:1.18.0 Ubuntu|Sign in - Matomo|
-|[https://status.pleio.nl](https://status.pleio.nl)| **A**| **C**|AtlassianEdge| |:white_check_mark: | :warning:| | | | :white_check_mark: | :white_check_mark: | |Amazon CloudFront Amazon Web Services Atlassian Statuspage HSTS|Pleio Status|
+|[https://status.pleio.nl](https://status.pleio.nl)| **A**| **C**|AtlassianEdge| |:white_check_mark: | :warning:| | | | :white_check_mark: | :white_check_mark: | |Amazon CloudFront Amazon Web Services Atlassian Statuspage HSTS React|Pleio Status|
 |[https://statuspage-bridge.pleio.nl](https://statuspage-bridge.pleio.nl)| **A+**| **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|404 Not Found|
 |[https://structuurvisiezh.pleio.nl](https://structuurvisiezh.pleio.nl)| **A+**| **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Domeinnaam nog n...|
 |[https://studerenbijdefensie.odc.pleio.nl](https://studerenbijdefensie.odc.pleio.nl)| **F**| **E**|| | | | | | | | :white_check_mark: | |HSTS|404 Not Found|
@@ -461,7 +461,7 @@
 |[https://intranethaarlem.pleio.nl](https://intranethaarlem.pleio.nl)| **A+**| **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache Tomcat Fourthwall:1.0.0 HSTS Java MariaDB Skolengo:1.0.0|Insite 2.0|
 |[https://games.pleio.nl](https://games.pleio.nl)| **A+**| **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Domeinnaam nog n...|
 |[https://um.pleio.nl](https://um.pleio.nl)| **A+**| **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Domeinnaam nog n...|
-|[https://moodle01.pleio.nl](https://moodle01.pleio.nl)| **F**| **F**|nginx/1.24.0| | | | | | | | :white_check_mark: | |HSTS Nginx:1.24.0|Doorverwijspagin...|
+|[https://moodle01.pleio.nl](https://moodle01.pleio.nl)| **F**| **F**|nginx/1.26.1| | | | | | | | :white_check_mark: | |HSTS Nginx:1.26.1|Doorverwijspagin...|
 |[https://loki-gateway.pleio.nl](https://loki-gateway.pleio.nl)| **A+**| **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
 |[https://generatieveai.pleio.nl](https://generatieveai.pleio.nl)| **A+**| **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache Tomcat Fourthwall:1.0.0 HSTS Java MariaDB Skolengo:1.0.0|Generatieve AI|
 |[https://wet.pleio.nl](https://wet.pleio.nl)| **A+**| **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Domeinnaam nog n...|
@@ -473,7 +473,7 @@
 |[https://sadp.pleio.nl](https://sadp.pleio.nl)| **A+**| **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|403 Forbidden|
 |[https://sociaaldomeinlekstroom.pleio.nl](https://sociaaldomeinlekstroom.pleio.nl)| **A+**| **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Domeinnaam nog n...|
 |[https://cmh.pleio.nl](https://cmh.pleio.nl)| **A+**| **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache Tomcat Fourthwall:1.0.0 HSTS Java MariaDB Skolengo:1.0.0|Cluster Midden-H...|
-|[https://riec-liec-academie.pleio.nl](https://riec-liec-academie.pleio.nl)| **A+**| **C**|nginx/1.24.0|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS Moodle Nginx:1.24.0 PHP|Home | riecliec|
+|[https://riec-liec-academie.pleio.nl](https://riec-liec-academie.pleio.nl)| **A+**| **C**|nginx/1.26.1|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS Moodle Nginx:1.26.1 PHP|Home | riecliec|
 |[https://mimir-gateway.pleio.nl](https://mimir-gateway.pleio.nl)| **A+**| **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|403 Forbidden|
 |[https://www.integra-levroeghulp.pleio.nl](https://www.integra-levroeghulp.pleio.nl)| **F**| **E**|| | | | | | | | :white_check_mark: | |HSTS|404 Not Found|
 |[https://levroeghulp.pleio.nl](https://levroeghulp.pleio.nl)| **A+**| **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Domeinnaam nog n...|
@@ -1529,7 +1529,7 @@
 |[https://accportal.pleio.nl](https://accportal.pleio.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Domeinnaam nog n...|
 |[https://dgh-admin.pleio.nl](https://dgh-admin.pleio.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|403 Forbidden|
 |[https://dgh.pleio.nl](https://dgh.pleio.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|403 Forbidden|
-|[https://lev.pleio.nl](https://lev.pleio.nl)| | **C**|nginx/1.24.0|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS Moodle Nginx:1.24.0 PHP|Startpagina | le...|
+|[https://lev.pleio.nl](https://lev.pleio.nl)| | **C**|nginx/1.26.1|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS Moodle Nginx:1.26.1 PHP|Startpagina | le...|
 |[https://algoritmen.pleio.nl](https://algoritmen.pleio.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Domeinnaam nog n...|
 |[https://www.odachterhoek.pleio.nl](https://www.odachterhoek.pleio.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS|404 Not Found|
 |[https://minbuza.nljajaneegelijkmanifestgroepmanifestgroep.pleio.nl](https://minbuza.nljajaneegelijkmanifestgroepmanifestgroep.pleio.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS|404 Not Found|

@@ -77,3 +77,4 @@ https://signing.brabant.nl
 https://signing.pre.brabant.nl
 https://corsa2023.brabant.nl
 https://corsa-acpt.brabant.nl
+https://voi.brabant.nl

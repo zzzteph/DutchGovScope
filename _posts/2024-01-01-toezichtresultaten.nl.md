@@ -6,8 +6,8 @@ subdomains_count: 2
 all_subdomains_count: 2
 urls_count: 2
 ssl_rank: C
-http_rank: F
-security_txt: 0
+http_rank: C
+security_txt: 1
 url_link: /data/toezichtresultaten.nl/urls.txt
 all_subdomains_link: /data/toezichtresultaten.nl/all_subdomains.txt
 subdomains_link: /data/toezichtresultaten.nl/subdomains.txt
@@ -21,8 +21,8 @@ tags: dutchgov
 
 
  - **SSL Grade**:C
- - **HTTP Security Grade**:F
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:0
+ - **HTTP Security Grade**:C
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:1
 
 
 | File       | Count | Info |
@@ -37,6 +37,6 @@ tags: dutchgov
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://www.toezichtresultaten.nl](https://www.toezichtresultaten.nl)| **D**| **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|Toezichtresultat...|
-|[https://toezichtresultaten.nl](https://toezichtresultaten.nl)| **B**| **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|Toezichtresultat...|
+|[http://www.toezichtresultaten.nl](http://www.toezichtresultaten.nl)| **D**| **E**|| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS||
+|[https://toezichtresultaten.nl](https://toezichtresultaten.nl)| **B**| **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Toezichtresultat...|
 

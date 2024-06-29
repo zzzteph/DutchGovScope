@@ -160,7 +160,6 @@ sip-lmw.rws.nl
 acceptatie.vm-esb.rws.nl
 projectspecifiek.otl.rws.nl
 wifi2.rws.nl
-client01.mqtt.edge.grid.rws.nl
 acceptatie.passwordreset.rws.nl
 mq2.esb.rws.nl
 oxygen.vm-02.azure.grid.rws.nl

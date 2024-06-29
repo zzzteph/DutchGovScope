@@ -7,7 +7,7 @@ all_subdomains_count: 4
 urls_count: 4
 ssl_rank: A+
 http_rank: C
-security_txt: 2
+security_txt: 3
 url_link: /data/nldigitalgovernment.nl/urls.txt
 all_subdomains_link: /data/nldigitalgovernment.nl/all_subdomains.txt
 subdomains_link: /data/nldigitalgovernment.nl/subdomains.txt
@@ -22,7 +22,7 @@ tags: dutchgov
 
  - **SSL Grade**:A+
  - **HTTP Security Grade**:C
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:2
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:3
 
 
 | File       | Count | Info |
@@ -38,7 +38,7 @@ tags: dutchgov
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[https://accept.nldigitalgovernment.nl](https://accept.nldigitalgovernment.nl)| **A+**| **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |Basic HSTS Nginx|401 Authorizatio...|
-|[https://www.nldigitalgovernment.nl](https://www.nldigitalgovernment.nl)| **A+**| **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS MySQL Nginx PHP:8.2.19 WordPress:6.5.4 Yoast SEO:22.8|Home - Digital G...|
-|[https://nldigitalgovernment.nl](https://nldigitalgovernment.nl)| **A+**| **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Nginx PHP:8.2.19||
-|[https://test.nldigitalgovernment.nl](https://test.nldigitalgovernment.nl)| | **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS MySQL Nginx PHP:8.3.7 WordPress|Digital Governme...|
+|[https://www.nldigitalgovernment.nl](https://www.nldigitalgovernment.nl)| **A+**| **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS MySQL Nginx PHP:8.2.20 WordPress:6.5.5 Yoast SEO:22.9|Home - Digital G...|
+|[https://nldigitalgovernment.nl](https://nldigitalgovernment.nl)| **A+**| **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Nginx PHP:8.2.20||
+|[https://test.nldigitalgovernment.nl](https://test.nldigitalgovernment.nl)| | **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS MySQL Nginx PHP:8.3.8 WordPress:6.5.5 Yoast SEO:22.8|Home - Digital G...|
 

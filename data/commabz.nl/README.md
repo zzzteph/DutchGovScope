@@ -23,7 +23,7 @@
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[https://accept.commabz.nl](https://accept.commabz.nl)| **A+**| **A**|Microsoft-Azure-Application-Gateway/v2| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS Moodle PHP|403 Forbidden|
 |[https://develop.commabz.nl](https://develop.commabz.nl)| **B**| **F**|Microsoft-Azure-Application-Gateway/v2| | | | | | | | :white_check_mark: | ||403 Forbidden|
-|[https://test.commabz.nl](https://test.commabz.nl)| **A+**| **A**|Microsoft-Azure-Application-Gateway/v2| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS Moodle PHP|502 Bad Gateway|
+|[https://test.commabz.nl](https://test.commabz.nl)| **A+**| **A**|Apache| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS Moodle PHP|Doorverwijspagin...|
 |[https://www.commabz.nl](https://www.commabz.nl)| **F**| **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|Doorverwijspagin...|
 |[https://commabz.nl](https://commabz.nl)| **A+**| **A**|Apache| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS Moodle PHP|Doorverwijspagin...|
 

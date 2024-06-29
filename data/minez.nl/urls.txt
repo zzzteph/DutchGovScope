@@ -14,5 +14,5 @@ https://eidasmw.minez.nl
 https://vws-demo.minez.nl
 http://pmt-acc.minez.nl
 https://ibabs.minez.nl
-https://authpmt-acc.minez.nl
+http://authpmt-acc.minez.nl
 https://authpmt.minez.nl

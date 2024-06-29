@@ -4,9 +4,9 @@ title: "mijnverblijfsdocument.nl"
 permalink: "/dutchgov/mijnverblijfsdocument.nl.html"
 subdomains_count: 2
 all_subdomains_count: 2
-urls_count: 2
-ssl_rank: B
-http_rank: B
+urls_count: 0
+ssl_rank: 
+http_rank: F
 security_txt: 0
 url_link: /data/mijnverblijfsdocument.nl/urls.txt
 all_subdomains_link: /data/mijnverblijfsdocument.nl/all_subdomains.txt
@@ -20,15 +20,15 @@ tags: dutchgov
 ## Summary data
 
 
- - **SSL Grade**:B
- - **HTTP Security Grade**:B
+ - **SSL Grade**:
+ - **HTTP Security Grade**:F
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:0
 
 
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/DutchGovScope/data/mijnverblijfsdocument.nl/subdomains.txt)|2|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/mijnverblijfsdocument.nl/urls.txt)|2|Urls|
+|[urls.txt](/DutchGovScope/data/mijnverblijfsdocument.nl/urls.txt)|0|Urls|
 |[all_subdomains.txt](/DutchGovScope/data/mijnverblijfsdocument.nl/all_subdomains.txt)|2|All found subdomains (history)|
 
 
@@ -37,6 +37,4 @@ tags: dutchgov
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://www.mijnverblijfsdocument.nl](https://www.mijnverblijfsdocument.nl)| **B**| **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |Bloomreach Bootstrap HSTS|My Residence Doc...|
-|[https://mijnverblijfsdocument.nl](https://mijnverblijfsdocument.nl)| **B**| **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |Bloomreach Bootstrap HSTS|My Residence Doc...|
 

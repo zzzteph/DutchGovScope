@@ -24,6 +24,6 @@
 |[https://acc.lees-rijk.nl](https://acc.lees-rijk.nl)| **A+**| **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |Drupal HSTS Nginx PHP||
 |[https://producten.lees-rijk.nl](https://producten.lees-rijk.nl)| **A+**| **B**||:o: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://www.lees-rijk.nl](https://www.lees-rijk.nl)| **A+**| **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |Drupal HSTS Nginx PHP||
-|[https://www.acc.lees-rijk.nl](https://www.acc.lees-rijk.nl)| **A+**| **A**|nginx| |:white_check_mark: | | | :white_check_mark:| | | :white_check_mark: | |Drupal HSTS Nginx PHP|Redirecting to /...|
+|[https://www.acc.lees-rijk.nl](https://www.acc.lees-rijk.nl)| **A+**| **A**|nginx| |:white_check_mark: | | | :white_check_mark:| | | :white_check_mark: | |Drupal:9 HSTS Nginx PHP|Redirecting to /...|
 |[https://lees-rijk.nl](https://lees-rijk.nl)| **A+**| **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
 

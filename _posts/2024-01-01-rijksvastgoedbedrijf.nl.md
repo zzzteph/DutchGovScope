@@ -3,7 +3,7 @@ layout: default
 title: "rijksvastgoedbedrijf.nl"
 permalink: "/dutchgov/rijksvastgoedbedrijf.nl.html"
 subdomains_count: 10
-all_subdomains_count: 23
+all_subdomains_count: 24
 urls_count: 6
 ssl_rank: A+
 http_rank: A
@@ -29,7 +29,7 @@ tags: dutchgov
 |------------|-------|------|
 |[subdomains.txt](/DutchGovScope/data/rijksvastgoedbedrijf.nl/subdomains.txt)|10|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/rijksvastgoedbedrijf.nl/urls.txt)|6|Urls|
-|[all_subdomains.txt](/DutchGovScope/data/rijksvastgoedbedrijf.nl/all_subdomains.txt)|23|All found subdomains (history)|
+|[all_subdomains.txt](/DutchGovScope/data/rijksvastgoedbedrijf.nl/all_subdomains.txt)|24|All found subdomains (history)|
 
 
 ## Statistics
