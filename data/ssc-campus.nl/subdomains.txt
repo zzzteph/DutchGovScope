@@ -33,3 +33,4 @@ localhost.ssc-campus.nl
 radius1.ssc-campus.nl
 radius2.ssc-campus.nl
 sscc-ddict-a01p.ddi.ssc-campus.nl
+hessel.ssc-campus.nl

@@ -271,7 +271,6 @@ valys0900-9630www.valys.nl
 ae2.valys.nl
 lmd.valys.nl
 dls.valys.nl
-gekke-sokken.valys.nl
 gamez.valys.nl
 streamer2.valys.nl
 condyline.valys.nl
@@ -341,3 +340,4 @@ markus.valys.nl
 0-1.valys.nl
 corazon.valys.nl
 trix.valys.nl
+autoconfig.soporte.valys.nl

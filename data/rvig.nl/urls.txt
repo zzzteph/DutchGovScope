@@ -17,3 +17,4 @@ https://prod.intranet.rvig.nl
 https://acc2.intranet.rvig.nl
 https://lap.rvp.reis.npr.idm.rvig.nl
 https://lap.api.reis.npr.idm.rvig.nl
+https://rni-portal-acc.rvig.nl

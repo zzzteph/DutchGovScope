@@ -2,12 +2,12 @@
 layout: default
 title: "stilstaanbijcorona.nl"
 permalink: "/dutchgov/stilstaanbijcorona.nl.html"
-subdomains_count: 7
+subdomains_count: 2
 all_subdomains_count: 7
-urls_count: 4
+urls_count: 2
 ssl_rank: A+
 http_rank: A
-security_txt: 4
+security_txt: 2
 url_link: /data/stilstaanbijcorona.nl/urls.txt
 all_subdomains_link: /data/stilstaanbijcorona.nl/all_subdomains.txt
 subdomains_link: /data/stilstaanbijcorona.nl/subdomains.txt
@@ -22,13 +22,13 @@ tags: dutchgov
 
  - **SSL Grade**:A+
  - **HTTP Security Grade**:A
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:4
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:2
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/stilstaanbijcorona.nl/subdomains.txt)|7|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/stilstaanbijcorona.nl/urls.txt)|4|Urls|
+|[subdomains.txt](/DutchGovScope/data/stilstaanbijcorona.nl/subdomains.txt)|2|Alive subdomains|
+|[urls.txt](/DutchGovScope/data/stilstaanbijcorona.nl/urls.txt)|2|Urls|
 |[all_subdomains.txt](/DutchGovScope/data/stilstaanbijcorona.nl/all_subdomains.txt)|7|All found subdomains (history)|
 
 
@@ -39,6 +39,4 @@ tags: dutchgov
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[https://www.stilstaanbijcorona.nl](https://www.stilstaanbijcorona.nl)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Home | Stilstaan...|
 |[https://stilstaanbijcorona.nl](https://stilstaanbijcorona.nl)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
-|[https://feeds.stilstaanbijcorona.nl](https://feeds.stilstaanbijcorona.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
-|[https://opendata.stilstaanbijcorona.nl](https://opendata.stilstaanbijcorona.nl)| **A+**| **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 

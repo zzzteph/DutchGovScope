@@ -11,7 +11,7 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/zuid-holland.nl/subdomains.txt)|78|Alive subdomains|
+|[subdomains.txt](/data/zuid-holland.nl/subdomains.txt)|80|Alive subdomains|
 |[urls.txt](/data/zuid-holland.nl/urls.txt)|74|Urls|
 |[all_subdomains.txt](/data/zuid-holland.nl/all_subdomains.txt)|142|All found subdomains (history)|
 
@@ -88,7 +88,7 @@
 |[https://keuzehulpverkeersmaatregelen.zuid-holland.nl](https://keuzehulpverkeersmaatregelen.zuid-holland.nl)| **A**| **D**|waitress|:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | |Azure Bootstrap:5.1.3 HSTS|Keuzehulp werkba...|
 |[https://omgevingsdocumenten.zuid-holland.nl](https://omgevingsdocumenten.zuid-holland.nl)| **A+**| **E**|| | | | | | | | :white_check_mark: | |HSTS||
 |[https://investerenin.zuid-holland.nl](https://investerenin.zuid-holland.nl)| **F**| **E**|| | | | | | | | :white_check_mark: | |HSTS||
-|[https://data.zuid-holland.nl](https://data.zuid-holland.nl)| | **F**|Microsoft-IIS/10.0| | | | | | | | :white_check_mark: | |IIS:10.0 Windows Server||
+|[https://data.zuid-holland.nl](https://data.zuid-holland.nl)| | **A**|Microsoft-IIS/10.0| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS IIS:10.0 Windows Server||
 |[https://preprod-belastingen.zuid-holland.nl](https://preprod-belastingen.zuid-holland.nl)| | **A**|Microsoft-IIS/10.0|:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS IIS:10.0 Microsoft ASP.NET Windows Server|Object moved|
 |[https://belastingen.zuid-holland.nl](https://belastingen.zuid-holland.nl)| | **A**|Microsoft-IIS/10.0|:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS IIS:10.0 Microsoft ASP.NET Windows Server|Object moved|
 |[https://jaaroverzichtcommissarisvandekoning2023.zuid-holland.nl](https://jaaroverzichtcommissarisvandekoning2023.zuid-holland.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:-|Object moved|

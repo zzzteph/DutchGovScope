@@ -1,4 +1,2 @@
-https://feeds.programmamenscentraal.nl
-https://opendata.programmamenscentraal.nl
 https://www.programmamenscentraal.nl
 https://programmamenscentraal.nl

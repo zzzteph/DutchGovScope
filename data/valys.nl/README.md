@@ -12,8 +12,8 @@
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/valys.nl/subdomains.txt)|343|Alive subdomains|
-|[urls.txt](/data/valys.nl/urls.txt)|342|Urls|
-|[all_subdomains.txt](/data/valys.nl/all_subdomains.txt)|344|All found subdomains (history)|
+|[urls.txt](/data/valys.nl/urls.txt)|341|Urls|
+|[all_subdomains.txt](/data/valys.nl/all_subdomains.txt)|345|All found subdomains (history)|
 
 
 ## Statistics
@@ -293,7 +293,6 @@
 |[https://ae2.valys.nl](https://ae2.valys.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 Ubuntu|Apache2 Ubuntu D...|
 |[https://lmd.valys.nl](https://lmd.valys.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 Ubuntu|Apache2 Ubuntu D...|
 |[https://dls.valys.nl](https://dls.valys.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 Ubuntu|Apache2 Ubuntu D...|
-|[https://gekke-sokken.valys.nl](https://gekke-sokken.valys.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 Ubuntu|Apache2 Ubuntu D...|
 |[https://gamez.valys.nl](https://gamez.valys.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 Ubuntu|Apache2 Ubuntu D...|
 |[https://streamer2.valys.nl](https://streamer2.valys.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 Ubuntu|Apache2 Ubuntu D...|
 |[https://condyline.valys.nl](https://condyline.valys.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 Ubuntu|Apache2 Ubuntu D...|

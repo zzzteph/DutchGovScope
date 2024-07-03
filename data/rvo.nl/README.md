@@ -11,9 +11,9 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/rvo.nl/subdomains.txt)|167|Alive subdomains|
+|[subdomains.txt](/data/rvo.nl/subdomains.txt)|168|Alive subdomains|
 |[urls.txt](/data/rvo.nl/urls.txt)|116|Urls|
-|[all_subdomains.txt](/data/rvo.nl/all_subdomains.txt)|276|All found subdomains (history)|
+|[all_subdomains.txt](/data/rvo.nl/all_subdomains.txt)|277|All found subdomains (history)|
 
 
 ## Statistics

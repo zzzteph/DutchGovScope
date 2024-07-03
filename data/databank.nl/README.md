@@ -6,13 +6,13 @@
 
  - **SSL Grade**:B+
  - **HTTP Security Grade**:C
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:14561
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:14401
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/databank.nl/subdomains.txt)|17282|Alive subdomains|
-|[urls.txt](/data/databank.nl/urls.txt)|15417|Urls|
+|[subdomains.txt](/data/databank.nl/subdomains.txt)|19797|Alive subdomains|
+|[urls.txt](/data/databank.nl/urls.txt)|15252|Urls|
 |[all_subdomains.txt](/data/databank.nl/all_subdomains.txt)|20996|All found subdomains (history)|
 
 
@@ -1799,7 +1799,7 @@
 |[http://beta-duurzamemobiliteit.databank.nl](http://beta-duurzamemobiliteit.databank.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Document Moved|
 |[https://cname-test-adc.databank.nl](https://cname-test-adc.databank.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
 |[https://demo-klimaatportaal.databank.nl](https://demo-klimaatportaal.databank.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Document Moved|
-|[https://accept-ebc.databank.nl](https://accept-ebc.databank.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Amazon S3 Amazon Web Services Azure Edge Network Bootstrap:3.3.7 HSTS Microsoft ASP.NET MyFonts|Home - European...|
+|[http://accept-ebc.databank.nl](http://accept-ebc.databank.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Document Moved|
 |[http://beta-nbtc.databank.nl](http://beta-nbtc.databank.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET|Document Moved|
 |[https://conjunctuurwijzer.databank.nl](https://conjunctuurwijzer.databank.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Document Moved|
 |[https://cname-beta-adc.databank.nl](https://cname-beta-adc.databank.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
@@ -1836,7 +1836,7 @@
 |[https://wmm-services.databank.nl](https://wmm-services.databank.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Amazon S3 Amazon Web Services Azure Edge Network HSTS Microsoft ASP.NET MyFonts|ABF Woningmarktm...|
 |[https://wonenmetzorg.databank.nl](https://wonenmetzorg.databank.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Amazon S3 Amazon Web Services Azure Edge Network HSTS Microsoft ASP.NET MyFonts|Swing Viewer|
 |[https://procaros.databank.nl](https://procaros.databank.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Document Moved|
-|[http://beta-benchmark-mbotransparant.databank.nl](http://beta-benchmark-mbotransparant.databank.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Document Moved|
+|[https://beta-benchmark-mbotransparant.databank.nl](https://beta-benchmark-mbotransparant.databank.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Amazon S3 Amazon Web Services Azure Edge Network HSTS Microsoft ASP.NET MyFonts|Home - Benchmark...|
 |[https://energysenternovem.databank.nl](https://energysenternovem.databank.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Document Moved|
 |[https://vdscan.databank.nl](https://vdscan.databank.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS|Document Moved|
 |[https://test-zag.databank.nl](https://test-zag.databank.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
@@ -3676,16 +3676,16 @@
 |[https://dex.databank.nl](https://dex.databank.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Document Moved|
 |[http://cname-ebc.databank.nl](http://cname-ebc.databank.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET|Document Moved|
 |[https://beta-primostijdreeks.databank.nl](https://beta-primostijdreeks.databank.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Document Moved|
-|[http://beta-woningmarktfeiten.databank.nl](http://beta-woningmarktfeiten.databank.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Document Moved|
+|[https://beta-woningmarktfeiten.databank.nl](https://beta-woningmarktfeiten.databank.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Amazon S3 Amazon Web Services Azure Edge Network HSTS Microsoft ASP.NET MyFonts|Home - Woningmar...|
 |[https://beta.procaros.databank.nl](https://beta.procaros.databank.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Document Moved|
 |[http://dtzzadelhoff.databank.nl](http://dtzzadelhoff.databank.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|Document Moved|
 |[https://wonenbreburg.en.databank.nl](https://wonenbreburg.en.databank.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Document Moved|
 |[https://povo.databank.nl](https://povo.databank.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
 |[http://ivmpon.databank.nl](http://ivmpon.databank.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|Document Moved|
 |[https://prognosemodelzw2021.databank.nl](https://prognosemodelzw2021.databank.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | | :white_check_mark: | :white_check_mark: | |Amazon S3 Amazon Web Services Azure Edge Network HSTS Microsoft ASP.NET MyFonts|Prognosemodel ZW|
-|[http://beta-hsw.databank.nl](http://beta-hsw.databank.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET|Document Moved|
+|[https://beta-hsw.databank.nl](https://beta-hsw.databank.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Amazon S3 Amazon Web Services Azure Edge Network HSTS Microsoft ASP.NET MyFonts|Home - HR sector...|
 |[https://www.diversiteitsin-dex.databank.nl](https://www.diversiteitsin-dex.databank.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Document Moved|
-|[https://beta-inspectieoe.databank.nl](https://beta-inspectieoe.databank.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Amazon S3 Amazon Web Services Azure Edge Network HSTS Microsoft ASP.NET MyFonts|Home - Monitor I...|
+|[http://beta-inspectieoe.databank.nl](http://beta-inspectieoe.databank.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET|Document Moved|
 |[http://woongoedzvl.databank.nl](http://woongoedzvl.databank.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|Document Moved|
 |[https://norovirus.databank.nl](https://norovirus.databank.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Document Moved|
 |[https://garrett.databank.nl](https://garrett.databank.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Document Moved|
@@ -5943,172 +5943,7 @@
 |[https://cities.databank.nl](https://cities.databank.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Document Moved|
 |[https://apos.databank.nl](https://apos.databank.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Document Moved|
 |[https://ervaren-elektriciens.databank.nl](https://ervaren-elektriciens.databank.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Document Moved|
-|[https://ftd.databank.nl](https://ftd.databank.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Document Moved|
-|[https://ewa.databank.nl](https://ewa.databank.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Document Moved|
-|[https://aachen.databank.nl](https://aachen.databank.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Document Moved|
-|[https://ems4.databank.nl](https://ems4.databank.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Document Moved|
-|[https://hampton.databank.nl](https://hampton.databank.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Document Moved|
-|[https://makushino.databank.nl](https://makushino.databank.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Document Moved|
-|[https://www-gp-web-1746.databank.nl](https://www-gp-web-1746.databank.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Document Moved|
-|[https://op-scim-bridge.databank.nl](https://op-scim-bridge.databank.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Document Moved|
-|[https://provo.databank.nl](https://provo.databank.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Document Moved|
-|[https://mservice.databank.nl](https://mservice.databank.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Document Moved|
-|[https://irfan.databank.nl](https://irfan.databank.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Document Moved|
-|[https://civ.databank.nl](https://civ.databank.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Document Moved|
-|[https://commodore.databank.nl](https://commodore.databank.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Document Moved|
-|[https://facetime.databank.nl](https://facetime.databank.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Document Moved|
-|[https://bogus.databank.nl](https://bogus.databank.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Document Moved|
-|[https://adversary.databank.nl](https://adversary.databank.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Document Moved|
-|[https://klantenservice.databank.nl](https://klantenservice.databank.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Document Moved|
-|[https://web6785.databank.nl](https://web6785.databank.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Document Moved|
-|[https://bmore.databank.nl](https://bmore.databank.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Document Moved|
-|[https://casper.corp.databank.nl](https://casper.corp.databank.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Document Moved|
-|[https://securetest.databank.nl](https://securetest.databank.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Document Moved|
-|[https://edel.databank.nl](https://edel.databank.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Document Moved|
-|[https://ulam.databank.nl](https://ulam.databank.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Document Moved|
-|[https://beta.shop.databank.nl](https://beta.shop.databank.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Document Moved|
-|[https://crashplan.databank.nl](https://crashplan.databank.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Document Moved|
-|[https://gso.databank.nl](https://gso.databank.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Document Moved|
-|[https://wat-voor-lamp-zit.databank.nl](https://wat-voor-lamp-zit.databank.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Document Moved|
-|[https://web6160.databank.nl](https://web6160.databank.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Document Moved|
-|[https://www73.databank.nl](https://www73.databank.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Document Moved|
-|[https://paradigm.databank.nl](https://paradigm.databank.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Document Moved|
-|[https://keto-headache.databank.nl](https://keto-headache.databank.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Document Moved|
-|[https://erotisch.databank.nl](https://erotisch.databank.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Document Moved|
-|[https://kudos.databank.nl](https://kudos.databank.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Document Moved|
-|[https://squit2020.databank.nl](https://squit2020.databank.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Document Moved|
-|[https://olay.databank.nl](https://olay.databank.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Document Moved|
-|[https://si1.databank.nl](https://si1.databank.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Document Moved|
-|[https://iforgot.databank.nl](https://iforgot.databank.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Document Moved|
-|[https://hostmaster.cpanel.databank.nl](https://hostmaster.cpanel.databank.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Document Moved|
-|[https://payment-staging.databank.nl](https://payment-staging.databank.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Document Moved|
-|[https://projects.databank.nl](https://projects.databank.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Document Moved|
-|[https://houser.databank.nl](https://houser.databank.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Document Moved|
-|[https://web3450.databank.nl](https://web3450.databank.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Document Moved|
-|[https://ows-emssapi-test.databank.nl](https://ows-emssapi-test.databank.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Document Moved|
-|[https://feestje-vieren.databank.nl](https://feestje-vieren.databank.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Document Moved|
-|[https://cardgames.databank.nl](https://cardgames.databank.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Document Moved|
-|[https://mahachkala.databank.nl](https://mahachkala.databank.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Document Moved|
-|[https://braven.databank.nl](https://braven.databank.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Document Moved|
-|[https://a2000.databank.nl](https://a2000.databank.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Document Moved|
-|[https://aydan.databank.nl](https://aydan.databank.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Document Moved|
-|[https://searcher.databank.nl](https://searcher.databank.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Document Moved|
-|[https://flink.databank.nl](https://flink.databank.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Document Moved|
-|[https://edam-volendam.databank.nl](https://edam-volendam.databank.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Document Moved|
-|[https://acms.databank.nl](https://acms.databank.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Document Moved|
-|[https://suikerziekte.databank.nl](https://suikerziekte.databank.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Document Moved|
-|[https://web3518.databank.nl](https://web3518.databank.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Document Moved|
-|[https://iei.databank.nl](https://iei.databank.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Document Moved|
-|[https://blendle.databank.nl](https://blendle.databank.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Document Moved|
-|[https://strandlakens.databank.nl](https://strandlakens.databank.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Document Moved|
-|[https://kerr.databank.nl](https://kerr.databank.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Document Moved|
-|[https://nagpur.databank.nl](https://nagpur.databank.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Document Moved|
-|[https://prod.databank.nl](https://prod.databank.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Document Moved|
-|[https://appsumo.databank.nl](https://appsumo.databank.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Document Moved|
-|[https://apps.test.databank.nl](https://apps.test.databank.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Document Moved|
-|[https://youpp.databank.nl](https://youpp.databank.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Document Moved|
-|[https://ocd.databank.nl](https://ocd.databank.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Document Moved|
-|[https://online-sieraden-webwinkel.databank.nl](https://online-sieraden-webwinkel.databank.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Document Moved|
-|[https://kelme.databank.nl](https://kelme.databank.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Document Moved|
-|[https://form.databank.nl](https://form.databank.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Document Moved|
-|[https://southpark.databank.nl](https://southpark.databank.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Document Moved|
-|[https://wea.databank.nl](https://wea.databank.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Document Moved|
-|[https://skeleton.databank.nl](https://skeleton.databank.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Document Moved|
-|[https://revival.databank.nl](https://revival.databank.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Document Moved|
-|[https://1515.databank.nl](https://1515.databank.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Document Moved|
-|[https://mytest.databank.nl](https://mytest.databank.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Document Moved|
-|[https://456.databank.nl](https://456.databank.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Document Moved|
-|[https://axie.databank.nl](https://axie.databank.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Document Moved|
-|[https://anni.databank.nl](https://anni.databank.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Document Moved|
-|[https://boobs.databank.nl](https://boobs.databank.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Document Moved|
-|[https://web4030.databank.nl](https://web4030.databank.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Document Moved|
-|[https://git.lab.databank.nl](https://git.lab.databank.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Document Moved|
-|[https://saj.databank.nl](https://saj.databank.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Document Moved|
-|[https://vader.databank.nl](https://vader.databank.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Document Moved|
-|[https://adventuretime.databank.nl](https://adventuretime.databank.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Document Moved|
-|[https://signs-of-menopause.databank.nl](https://signs-of-menopause.databank.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Document Moved|
-|[https://bullen.databank.nl](https://bullen.databank.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Document Moved|
-|[https://vdi2.databank.nl](https://vdi2.databank.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Document Moved|
-|[https://sergey.databank.nl](https://sergey.databank.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Document Moved|
-|[https://999999.databank.nl](https://999999.databank.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Document Moved|
-|[https://anzio-velgen.databank.nl](https://anzio-velgen.databank.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Document Moved|
-|[https://businesstravel.databank.nl](https://businesstravel.databank.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Document Moved|
-|[https://1607.databank.nl](https://1607.databank.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Document Moved|
-|[https://each.databank.nl](https://each.databank.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Document Moved|
-|[https://denka.databank.nl](https://denka.databank.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Document Moved|
-|[https://bjork.databank.nl](https://bjork.databank.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Document Moved|
-|[https://trekstor.databank.nl](https://trekstor.databank.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Document Moved|
-|[https://henderson.databank.nl](https://henderson.databank.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Document Moved|
-|[https://creampie.databank.nl](https://creampie.databank.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Document Moved|
-|[https://adrem.databank.nl](https://adrem.databank.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Document Moved|
-|[https://mydevice.databank.nl](https://mydevice.databank.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Document Moved|
-|[https://web10697.databank.nl](https://web10697.databank.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Document Moved|
-|[https://cust50.databank.nl](https://cust50.databank.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Document Moved|
-|[https://hulk.databank.nl](https://hulk.databank.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Document Moved|
-|[https://ccare.databank.nl](https://ccare.databank.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Document Moved|
-|[https://checkout-test.databank.nl](https://checkout-test.databank.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Document Moved|
-|[https://appointment.databank.nl](https://appointment.databank.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Document Moved|
-|[https://skypemeet.databank.nl](https://skypemeet.databank.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Document Moved|
-|[https://uoa.databank.nl](https://uoa.databank.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Document Moved|
-|[https://lena.databank.nl](https://lena.databank.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Document Moved|
-|[https://web17516.databank.nl](https://web17516.databank.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Document Moved|
-|[https://antigua.databank.nl](https://antigua.databank.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Document Moved|
-|[https://boni.databank.nl](https://boni.databank.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Document Moved|
-|[https://komsomolsk.databank.nl](https://komsomolsk.databank.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Document Moved|
-|[https://viruslex.databank.nl](https://viruslex.databank.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Document Moved|
-|[https://twoo.databank.nl](https://twoo.databank.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Document Moved|
-|[https://belgisch-limburg.databank.nl](https://belgisch-limburg.databank.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Document Moved|
-|[https://newmediamanager.databank.nl](https://newmediamanager.databank.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Document Moved|
-|[https://huis-kopen-in-noorwegen.databank.nl](https://huis-kopen-in-noorwegen.databank.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Document Moved|
-|[https://galajurken2013.databank.nl](https://galajurken2013.databank.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Document Moved|
-|[https://5-4.databank.nl](https://5-4.databank.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Document Moved|
-|[https://tefal.databank.nl](https://tefal.databank.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Document Moved|
-|[https://satisfaction.databank.nl](https://satisfaction.databank.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Document Moved|
-|[https://beautysecrets.databank.nl](https://beautysecrets.databank.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Document Moved|
-|[https://berklee.databank.nl](https://berklee.databank.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Document Moved|
-|[https://refunds.databank.nl](https://refunds.databank.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Document Moved|
-|[https://reclamebureau.databank.nl](https://reclamebureau.databank.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Document Moved|
-|[https://nudes.databank.nl](https://nudes.databank.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Document Moved|
-|[https://efn.databank.nl](https://efn.databank.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Document Moved|
-|[https://schoolvakken.databank.nl](https://schoolvakken.databank.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Document Moved|
-|[https://palermo.databank.nl](https://palermo.databank.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Document Moved|
-|[https://web17029.databank.nl](https://web17029.databank.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Document Moved|
-|[https://afterhours.databank.nl](https://afterhours.databank.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Document Moved|
-|[https://afrotc.databank.nl](https://afrotc.databank.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Document Moved|
-|[https://darkwater.databank.nl](https://darkwater.databank.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Document Moved|
-|[https://dimi.databank.nl](https://dimi.databank.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Document Moved|
-|[https://ca-craigslist.databank.nl](https://ca-craigslist.databank.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Document Moved|
-|[https://freeagent.databank.nl](https://freeagent.databank.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Document Moved|
-|[https://bolk.databank.nl](https://bolk.databank.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Document Moved|
-|[https://ascender.databank.nl](https://ascender.databank.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Document Moved|
-|[https://noord-amerika.databank.nl](https://noord-amerika.databank.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Document Moved|
-|[https://sardinie.databank.nl](https://sardinie.databank.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Document Moved|
-|[https://bch.databank.nl](https://bch.databank.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Document Moved|
-|[https://switzerland.databank.nl](https://switzerland.databank.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Document Moved|
-|[https://allset.databank.nl](https://allset.databank.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Document Moved|
-|[https://padlock.databank.nl](https://padlock.databank.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Document Moved|
-|[https://1041.databank.nl](https://1041.databank.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Document Moved|
-|[https://adh.databank.nl](https://adh.databank.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Document Moved|
-|[https://cym.databank.nl](https://cym.databank.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Document Moved|
-|[https://webconference.databank.nl](https://webconference.databank.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Document Moved|
-|[https://kaktus.databank.nl](https://kaktus.databank.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Document Moved|
-|[https://reika.databank.nl](https://reika.databank.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Document Moved|
-|[https://baldr.databank.nl](https://baldr.databank.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Document Moved|
-|[https://mysecret.databank.nl](https://mysecret.databank.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Document Moved|
-|[https://stro.databank.nl](https://stro.databank.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Document Moved|
-|[https://learn-api.databank.nl](https://learn-api.databank.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Document Moved|
-|[https://laatstenieuws.databank.nl](https://laatstenieuws.databank.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Document Moved|
-|[https://banaan.databank.nl](https://banaan.databank.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Document Moved|
-|[https://copacabana.databank.nl](https://copacabana.databank.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Document Moved|
-|[https://bii.databank.nl](https://bii.databank.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Document Moved|
-|[https://kudesnik.databank.nl](https://kudesnik.databank.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Document Moved|
-|[https://mws.databank.nl](https://mws.databank.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Document Moved|
-|[https://wni.databank.nl](https://wni.databank.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Document Moved|
-|[https://alex77.databank.nl](https://alex77.databank.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Document Moved|
-|[https://barselona.databank.nl](https://barselona.databank.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Document Moved|
-|[https://www-gp-web-1642.databank.nl](https://www-gp-web-1642.databank.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Document Moved|
-|[https://rng.databank.nl](https://rng.databank.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Document Moved|
-|[https://soz.databank.nl](https://soz.databank.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Document Moved|
+|[http://soz.databank.nl](http://soz.databank.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Document Moved|
 |[https://prd-zp-ca.databank.nl](https://prd-zp-ca.databank.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Document Moved|
 |[https://pc46.databank.nl](https://pc46.databank.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Document Moved|
 |[https://weboffice.databank.nl](https://weboffice.databank.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Document Moved|

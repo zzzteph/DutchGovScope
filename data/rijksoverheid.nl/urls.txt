@@ -1,16 +1,12 @@
-https://acc-mailing.rijksoverheid.nl
 http://coronadashboard.rijksoverheid.nl
 http://dns-web10.rijksoverheid.nl
 http://dns-web300.rijksoverheid.nl
 https://e-maildiensten.rijksoverheid.nl
 https://feeds.rijksoverheid.nl
 https://feeds.persberichten.rijksoverheid.nl
-https://image.acc-mailing.rijksoverheid.nl
-https://image.mailing.rijksoverheid.nl
 https://informatiepuntkinderopvangtoeslag.rijksoverheid.nl
 https://magazines.rijksoverheid.nl
 https://magazinesintern.rijksoverheid.nl
-https://mailing.rijksoverheid.nl
 https://opendata.rijksoverheid.nl
 https://opendata.persberichten.rijksoverheid.nl
 https://persberichten.rijksoverheid.nl

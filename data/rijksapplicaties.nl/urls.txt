@@ -219,7 +219,6 @@ https://woo.rijksapplicaties.nl
 https://dpt.rijksapplicaties.nl
 https://app2.rijksapplicaties.nl
 http://wpo-webservice.staging.rijksapplicaties.nl
-https://app1.acc.rijksapplicaties.nl
 http://wpo-webservice.rijksapplicaties.nl
 https://rvb-dfss.rijksapplicaties.nl
 https://monitor.rijksapplicaties.nl

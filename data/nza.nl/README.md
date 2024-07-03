@@ -6,13 +6,13 @@
 
  - **SSL Grade**:A+
  - **HTTP Security Grade**:A
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:22
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:21
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/nza.nl/subdomains.txt)|42|Alive subdomains|
-|[urls.txt](/data/nza.nl/urls.txt)|38|Urls|
+|[subdomains.txt](/data/nza.nl/subdomains.txt)|41|Alive subdomains|
+|[urls.txt](/data/nza.nl/urls.txt)|37|Urls|
 |[all_subdomains.txt](/data/nza.nl/all_subdomains.txt)|122|All found subdomains (history)|
 
 
@@ -56,7 +56,6 @@
 |[https://tovertool.nza.nl](https://tovertool.nza.nl)| **A+**| **B**|nginx| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS Nginx|403 Forbidden|
 |[https://wachttijden.nza.nl](https://wachttijden.nza.nl)| **A+**| **A**|nginx| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|Mendix|
 |[https://mta-sts.nza.nl](https://mta-sts.nza.nl)| **A**| **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Nginx|Nothing here|
-|[https://dbcleergang.nza.nl](https://dbcleergang.nza.nl)| **A+**| **A**|Apache| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS|301 Moved Perman...|
 |[https://dkdlmodel.nza.nl](https://dkdlmodel.nza.nl)| | **A**|nginx| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|Draagkracht Draa...|
 |[http://zpa.nza.nl](http://zpa.nza.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|301 Moved Perman...|
 

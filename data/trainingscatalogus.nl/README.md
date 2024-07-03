@@ -6,13 +6,13 @@
 
  - **SSL Grade**:A+
  - **HTTP Security Grade**:C
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:38
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:40
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/trainingscatalogus.nl/subdomains.txt)|200|Alive subdomains|
-|[urls.txt](/data/trainingscatalogus.nl/urls.txt)|108|Urls|
+|[subdomains.txt](/data/trainingscatalogus.nl/subdomains.txt)|201|Alive subdomains|
+|[urls.txt](/data/trainingscatalogus.nl/urls.txt)|109|Urls|
 |[all_subdomains.txt](/data/trainingscatalogus.nl/all_subdomains.txt)|213|All found subdomains (history)|
 
 
@@ -129,4 +129,5 @@
 |[https://scim-api.schiphol-lms.trainingscatalogus.nl](https://scim-api.schiphol-lms.trainingscatalogus.nl)| | **F**|Microsoft-IIS/10.0|:white_check_mark: | | | | | | | :white_check_mark: | |Azure IIS:10.0 Microsoft ASP.NET Windows Server||
 |[https://parnassia-lms.trainingscatalogus.nl](https://parnassia-lms.trainingscatalogus.nl)| | **A**|Class|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Access is denied...|
 |[https://lms-ocom.trainingscatalogus.nl](https://lms-ocom.trainingscatalogus.nl)| | **A**|Class|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Access is denied...|
+|[https://dtenv-a.trainingscatalogus.nl](https://dtenv-a.trainingscatalogus.nl)| | **B**|Class|:white_check_mark: |:white_check_mark: | | |:warning: | | :white_check_mark: | :white_check_mark: | |HSTS||
 

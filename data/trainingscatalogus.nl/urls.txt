@@ -106,3 +106,4 @@ https://enrollment-api.schiphol-lms.trainingscatalogus.nl
 https://scim-api.schiphol-lms.trainingscatalogus.nl
 https://parnassia-lms.trainingscatalogus.nl
 https://lms-ocom.trainingscatalogus.nl
+https://dtenv-a.trainingscatalogus.nl

@@ -124,3 +124,8 @@ hub.politie.nl
 issues.politie.nl
 onderzoek.politie.nl
 enlets.politie.nl
+enlets-acc.politie.nl
+api.enlets.politie.nl
+chat.enlets.politie.nl
+dav.enlets.politie.nl
+push.enlets.politie.nl

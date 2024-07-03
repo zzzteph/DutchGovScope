@@ -27,6 +27,6 @@
 |[https://autoconfig.bewustbodemgebruik.nl](https://autoconfig.bewustbodemgebruik.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|This is the defa...|
 |[https://autodiscover.bewustbodemgebruik.nl](https://autodiscover.bewustbodemgebruik.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|This is the defa...|
 |[https://ftp.bewustbodemgebruik.nl](https://ftp.bewustbodemgebruik.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|This is the defa...|
-|[https://ssh.bewustbodemgebruik.nl](https://ssh.bewustbodemgebruik.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx||
+|[https://ssh.bewustbodemgebruik.nl](https://ssh.bewustbodemgebruik.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|This is the defa...|
 |[http://localhost.bewustbodemgebruik.nl](http://localhost.bewustbodemgebruik.nl)| | **F**|nginx| | | :warning:| | | | | :white_check_mark: | |Nginx|(404 Not Found)|
 

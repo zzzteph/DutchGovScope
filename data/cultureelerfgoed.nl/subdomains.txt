@@ -35,7 +35,6 @@ paint.tool.cultureelerfgoed.nl
 plastic-en.tool.cultureelerfgoed.nl
 plastic.tool.cultureelerfgoed.nl
 pom.cultureelerfgoed.nl
-sso-staging.subsidie.cultureelerfgoed.nl
 sso.subsidie.cultureelerfgoed.nl
 stuc.tool.cultureelerfgoed.nl
 subsidie.cultureelerfgoed.nl

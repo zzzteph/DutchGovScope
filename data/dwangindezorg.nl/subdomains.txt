@@ -5,4 +5,3 @@ dwangindezorg.nl
 a-feeds.dwangindezorg.nl
 a-opendata.dwangindezorg.nl
 a-www.dwangindezorg.nl
-autodiscover.dwangindezorg.nl

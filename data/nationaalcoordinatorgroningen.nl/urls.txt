@@ -8,3 +8,5 @@ https://opendata.nationaalcoordinatorgroningen.nl
 https://www.nationaalcoordinatorgroningen.nl
 https://nationaalcoordinatorgroningen.nl
 https://intranet-tst.nationaalcoordinatorgroningen.nl
+https://jet-test.nationaalcoordinatorgroningen.nl
+https://jet-acc.nationaalcoordinatorgroningen.nl

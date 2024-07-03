@@ -11,8 +11,8 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/logius.nl/subdomains.txt)|71|Alive subdomains|
-|[urls.txt](/data/logius.nl/urls.txt)|52|Urls|
+|[subdomains.txt](/data/logius.nl/subdomains.txt)|70|Alive subdomains|
+|[urls.txt](/data/logius.nl/urls.txt)|51|Urls|
 |[all_subdomains.txt](/data/logius.nl/all_subdomains.txt)|117|All found subdomains (history)|
 
 
@@ -72,5 +72,4 @@
 |[https://pmz-pre.logius.nl](https://pmz-pre.logius.nl)| **A+**| **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|404 Not Found|
 |[http://portaal.digipoort.logius.nl](http://portaal.digipoort.logius.nl)| | **F**|BigIP| | | | | | | | :white_check_mark: | |F5 BigIP||
 |[http://lca.logius.nl](http://lca.logius.nl)| | **F**|BigIP| | | | | | | | :white_check_mark: | |F5 BigIP||
-|[http://mev.logius.nl](http://mev.logius.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 

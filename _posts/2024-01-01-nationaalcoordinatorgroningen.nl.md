@@ -4,7 +4,7 @@ title: "nationaalcoordinatorgroningen.nl"
 permalink: "/dutchgov/nationaalcoordinatorgroningen.nl.html"
 subdomains_count: 22
 all_subdomains_count: 37
-urls_count: 10
+urls_count: 12
 ssl_rank: A-
 http_rank: D
 security_txt: 7
@@ -28,7 +28,7 @@ tags: dutchgov
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/DutchGovScope/data/nationaalcoordinatorgroningen.nl/subdomains.txt)|22|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/nationaalcoordinatorgroningen.nl/urls.txt)|10|Urls|
+|[urls.txt](/DutchGovScope/data/nationaalcoordinatorgroningen.nl/urls.txt)|12|Urls|
 |[all_subdomains.txt](/DutchGovScope/data/nationaalcoordinatorgroningen.nl/all_subdomains.txt)|37|All found subdomains (history)|
 
 
@@ -47,4 +47,6 @@ tags: dutchgov
 |[https://www.nationaalcoordinatorgroningen.nl](https://www.nationaalcoordinatorgroningen.nl)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|NCG | Nationaal...|
 |[https://nationaalcoordinatorgroningen.nl](https://nationaalcoordinatorgroningen.nl)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
 |[https://intranet-tst.nationaalcoordinatorgroningen.nl](https://intranet-tst.nationaalcoordinatorgroningen.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|403 Forbidden|
+|[https://jet-test.nationaalcoordinatorgroningen.nl](https://jet-test.nationaalcoordinatorgroningen.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|403 Forbidden|
+|[https://jet-acc.nationaalcoordinatorgroningen.nl](https://jet-acc.nationaalcoordinatorgroningen.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|403 Forbidden|
 

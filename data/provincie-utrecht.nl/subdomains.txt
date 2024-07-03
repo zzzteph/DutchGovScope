@@ -93,7 +93,7 @@ smtp02.provincie-utrecht.nl
 tercera.provincie-utrecht.nl
 vpn-hth.provincie-utrecht.nl
 wifi.provincie-utrecht.nl
-vsu.provincie-utrecht.nl
+vmc-hth.provincie-utrecht.nl
 wortel175.tstweb.provincie-utrecht.nl
 wortel175.wwwcms.provincie-utrecht.nl
 wortel176.tst.provincie-utrecht.nl

@@ -4,9 +4,9 @@ title: "mijntoeslagen.nl"
 permalink: "/dutchgov/mijntoeslagen.nl.html"
 subdomains_count: 5
 all_subdomains_count: 5
-urls_count: 3
+urls_count: 4
 ssl_rank: A
-http_rank: B
+http_rank: C
 security_txt: 0
 url_link: /data/mijntoeslagen.nl/urls.txt
 all_subdomains_link: /data/mijntoeslagen.nl/all_subdomains.txt
@@ -21,14 +21,14 @@ tags: dutchgov
 
 
  - **SSL Grade**:A
- - **HTTP Security Grade**:B
+ - **HTTP Security Grade**:C
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:0
 
 
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/DutchGovScope/data/mijntoeslagen.nl/subdomains.txt)|5|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/mijntoeslagen.nl/urls.txt)|3|Urls|
+|[urls.txt](/DutchGovScope/data/mijntoeslagen.nl/urls.txt)|4|Urls|
 |[all_subdomains.txt](/DutchGovScope/data/mijntoeslagen.nl/all_subdomains.txt)|5|All found subdomains (history)|
 
 
@@ -40,4 +40,5 @@ tags: dutchgov
 |[https://toeslagen.mijntoeslagen.nl](https://toeslagen.mijntoeslagen.nl)| **A**| **F**|nginx/1.26.1| | | | | | | | :white_check_mark: | |Nginx:1.26.1 PHP:8.1.28||
 |[https://mijntoeslagen.nl](https://mijntoeslagen.nl)| **A**| **A**|nginx/1.26.1|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Nginx:1.26.1|301 Moved Perman...|
 |[https://www.mijntoeslagen.nl](https://www.mijntoeslagen.nl)| **A**| **A**|nginx/1.26.1|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Nginx:1.26.1|301 Moved Perman...|
+|[https://mijnloketwww.mijntoeslagen.nl](https://mijnloketwww.mijntoeslagen.nl)| | **F**|nginx/1.26.1| | | | | | | | :white_check_mark: | |Nginx:1.26.1|Hostnet: Uw dome...|
 

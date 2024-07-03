@@ -139,3 +139,6 @@ acceptatie.beheer.generiekeregistratiedienst.cibg.nl
 beheer.generiekeregistratiedienst.cibg.nl
 behandel.generiekeregistratiedienst.cibg.nl
 acceptatie.behandel.generiekeregistratiedienst.cibg.nl
+acceptatie.ebms.digikoppeling.cibg.nl
+acceptatie.brba.cibg.nl
+acceptatie.webservices.lrza.cibg.nl

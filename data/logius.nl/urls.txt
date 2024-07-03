@@ -49,4 +49,3 @@ https://pmz.logius.nl
 https://pmz-pre.logius.nl
 http://portaal.digipoort.logius.nl
 http://lca.logius.nl
-http://mev.logius.nl

@@ -91,3 +91,5 @@ nwu-rksdns2.ssonet.nl
 servers.ssonet.nl
 test3.ssonet.nl
 test-1.ssonet.nl
+testxp2.ssonet.nl
+testxp.ssonet.nl

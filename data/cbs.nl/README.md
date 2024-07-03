@@ -6,13 +6,13 @@
 
  - **SSL Grade**:A-
  - **HTTP Security Grade**:D
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:110
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:112
 
 
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/cbs.nl/subdomains.txt)|226|Alive subdomains|
-|[urls.txt](/data/cbs.nl/urls.txt)|177|Urls|
+|[urls.txt](/data/cbs.nl/urls.txt)|178|Urls|
 |[all_subdomains.txt](/data/cbs.nl/all_subdomains.txt)|307|All found subdomains (history)|
 
 
@@ -195,7 +195,8 @@
 |[https://mijn.acceptatie.cbs.nl](https://mijn.acceptatie.cbs.nl)| | **C**|envoy| |:white_check_mark: | | | | | | :white_check_mark: | |Basic Envoy HSTS|401 Authorizatio...|
 |[http://mijn-acceptatie.cbs.nl](http://mijn-acceptatie.cbs.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://brandportal.cbs.nl](https://brandportal.cbs.nl)| | **F**|Apache/2| | | | | | | | :white_check_mark: | |Apache HTTP Server:2||
-|[https://search.beta.cbs.nl](https://search.beta.cbs.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
+|[https://search.beta.cbs.nl](https://search.beta.cbs.nl)| | **B**|envoy| |:white_check_mark: | :warning:| | :white_check_mark:| | | :white_check_mark: | |Envoy Express HSTS Node.js|Error|
 |[https://gecko.cbs.nl](https://gecko.cbs.nl)| | **E**|| | | | | | | | :white_check_mark: | ||GECKO|
 |[https://lc.cbs.nl](https://lc.cbs.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
+|[https://geoserver.cbs.nl](https://geoserver.cbs.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS Java||
 

@@ -11,8 +11,8 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/rijksoverheid.nl/subdomains.txt)|94|Alive subdomains|
-|[urls.txt](/data/rijksoverheid.nl/urls.txt)|24|Urls|
+|[subdomains.txt](/data/rijksoverheid.nl/subdomains.txt)|90|Alive subdomains|
+|[urls.txt](/data/rijksoverheid.nl/urls.txt)|20|Urls|
 |[all_subdomains.txt](/data/rijksoverheid.nl/all_subdomains.txt)|175|All found subdomains (history)|
 
 
@@ -21,19 +21,15 @@
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://acc-mailing.rijksoverheid.nl](https://acc-mailing.rijksoverheid.nl)| **A+**| **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS|403 - Forbidden:...|
 |[http://coronadashboard.rijksoverheid.nl](http://coronadashboard.rijksoverheid.nl)| **A+**| **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Azure Azure Front Door HSTS||
 |[http://dns-web10.rijksoverheid.nl](http://dns-web10.rijksoverheid.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server||
 |[http://dns-web300.rijksoverheid.nl](http://dns-web300.rijksoverheid.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server||
 |[https://e-maildiensten.rijksoverheid.nl](https://e-maildiensten.rijksoverheid.nl)| **A+**| **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS|403 - Forbidden:...|
 |[https://feeds.rijksoverheid.nl](https://feeds.rijksoverheid.nl)| **A+**| **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://feeds.persberichten.rijksoverheid.nl](https://feeds.persberichten.rijksoverheid.nl)| **A+**| **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
-|[https://image.acc-mailing.rijksoverheid.nl](https://image.acc-mailing.rijksoverheid.nl)| **A+**| **A**|AmazonS3| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Amazon CloudFront Amazon S3 Amazon Web Services HSTS||
-|[https://image.mailing.rijksoverheid.nl](https://image.mailing.rijksoverheid.nl)| | **A**|AmazonS3| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Amazon CloudFront Amazon S3 Amazon Web Services HSTS||
 |[https://informatiepuntkinderopvangtoeslag.rijksoverheid.nl](https://informatiepuntkinderopvangtoeslag.rijksoverheid.nl)| **A+**| **A**|AmazonS3| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Amazon CloudFront Amazon S3 Amazon Web Services HSTS|Informatiepunt K...|
 |[https://magazines.rijksoverheid.nl](https://magazines.rijksoverheid.nl)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://magazinesintern.rijksoverheid.nl](https://magazinesintern.rijksoverheid.nl)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
-|[https://mailing.rijksoverheid.nl](https://mailing.rijksoverheid.nl)| **A+**| **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS|403 - Forbidden:...|
 |[https://opendata.rijksoverheid.nl](https://opendata.rijksoverheid.nl)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://opendata.persberichten.rijksoverheid.nl](https://opendata.persberichten.rijksoverheid.nl)| **A+**| **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://persberichten.rijksoverheid.nl](https://persberichten.rijksoverheid.nl)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Home | Persberic...|

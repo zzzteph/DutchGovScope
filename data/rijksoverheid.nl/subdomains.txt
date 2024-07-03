@@ -1,16 +1,12 @@
-acc-mailing.rijksoverheid.nl
 coronadashboard.rijksoverheid.nl
 dns-web10.rijksoverheid.nl
 dns-web300.rijksoverheid.nl
 e-maildiensten.rijksoverheid.nl
 feeds.rijksoverheid.nl
 feeds.persberichten.rijksoverheid.nl
-image.acc-mailing.rijksoverheid.nl
-image.mailing.rijksoverheid.nl
 informatiepuntkinderopvangtoeslag.rijksoverheid.nl
 magazines.rijksoverheid.nl
 magazinesintern.rijksoverheid.nl
-mailing.rijksoverheid.nl
 opendata.rijksoverheid.nl
 opendata.persberichten.rijksoverheid.nl
 persberichten.rijksoverheid.nl

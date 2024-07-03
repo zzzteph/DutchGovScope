@@ -188,7 +188,6 @@ uat.promise.nioo.knaw.nl
 autodiscover.bb.huc.knaw.nl
 www.ws.test.backtoroots.nioo.knaw.nl
 uat.intranet.nioo.knaw.nl
-intranet.nioo.knaw.nl
 mijnloonstrook.knaw.nl
 cbs.knaw.nl
 oroc.knaw.nl
@@ -1374,3 +1373,4 @@ wp-07.dev.huc.knaw.nl
 docs.labs.dans.knaw.nl
 facades-verification.labs.dans.knaw.nl
 oat.acc.huc.knaw.nl
+web31.knaw.nl

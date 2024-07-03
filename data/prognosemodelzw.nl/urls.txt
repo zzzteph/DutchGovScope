@@ -1,4 +1,2 @@
-https://feeds.prognosemodelzw.nl
-https://opendata.prognosemodelzw.nl
 https://www.prognosemodelzw.nl
 https://prognosemodelzw.nl

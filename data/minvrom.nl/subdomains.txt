@@ -8,6 +8,7 @@ maila.minvrom.nl
 mail.minvrom.nl
 www2.minvrom.nl
 www3.minvrom.nl
+webaccess.minvrom.nl
 cache1.minvrom.nl
 localhost.minvrom.nl
 mail2.minvrom.nl

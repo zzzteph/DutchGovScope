@@ -33,7 +33,6 @@ zorgvraagtypering-test.nza.nl
 tovertool.nza.nl
 wachttijden.nza.nl
 mta-sts.nza.nl
-dbcleergang.nza.nl
 dkdlmodel.nza.nl
 a-feeds.nza.nl
 a-magazines.nza.nl

@@ -11,8 +11,8 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/biedboek.nl/subdomains.txt)|3486|Alive subdomains|
-|[urls.txt](/data/biedboek.nl/urls.txt)|3483|Urls|
+|[subdomains.txt](/data/biedboek.nl/subdomains.txt)|3495|Alive subdomains|
+|[urls.txt](/data/biedboek.nl/urls.txt)|3492|Urls|
 |[all_subdomains.txt](/data/biedboek.nl/all_subdomains.txt)|3505|All found subdomains (history)|
 
 
@@ -1836,6 +1836,15 @@
 |[https://deadlock.biedboek.nl](https://deadlock.biedboek.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Microsoft Azure...|
 |[https://pga.biedboek.nl](https://pga.biedboek.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Microsoft Azure...|
 |[https://smart-blog.uat.builder-svcs.biedboek.nl](https://smart-blog.uat.builder-svcs.biedboek.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Microsoft Azure...|
+|[https://web3414.biedboek.nl](https://web3414.biedboek.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Microsoft Azure...|
+|[https://android.biedboek.nl](https://android.biedboek.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Microsoft Azure...|
+|[https://web4896.biedboek.nl](https://web4896.biedboek.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Microsoft Azure...|
+|[https://mta.biedboek.nl](https://mta.biedboek.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Microsoft Azure...|
+|[https://gamepro.biedboek.nl](https://gamepro.biedboek.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Microsoft Azure...|
+|[https://server38.biedboek.nl](https://server38.biedboek.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Microsoft Azure...|
+|[https://z10.biedboek.nl](https://z10.biedboek.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Microsoft Azure...|
+|[https://bita.biedboek.nl](https://bita.biedboek.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Microsoft Azure...|
+|[https://fwmgmt.biedboek.nl](https://fwmgmt.biedboek.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Microsoft Azure...|
 |[https://honorscollege.biedboek.nl](https://honorscollege.biedboek.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Microsoft Azure...|
 |[https://nc1.biedboek.nl](https://nc1.biedboek.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Microsoft Azure...|
 |[https://lfp.biedboek.nl](https://lfp.biedboek.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Microsoft Azure...|

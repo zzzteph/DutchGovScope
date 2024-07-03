@@ -12,7 +12,7 @@
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/nctv.nl/subdomains.txt)|36|Alive subdomains|
-|[urls.txt](/data/nctv.nl/urls.txt)|24|Urls|
+|[urls.txt](/data/nctv.nl/urls.txt)|25|Urls|
 |[all_subdomains.txt](/data/nctv.nl/all_subdomains.txt)|55|All found subdomains (history)|
 
 
@@ -45,4 +45,5 @@
 |[https://dev.cbrnsecurity.nctv.nl](https://dev.cbrnsecurity.nctv.nl)| **F**| **F**|Apache/2| | | | | | | | :white_check_mark: | |Apache HTTP Server:2||
 |[https://elearning-lcp-egt.nctv.nl](https://elearning-lcp-egt.nctv.nl)| | **F**|Apache/2| | | | | | | | :white_check_mark: | |Apache HTTP Server:2|Online trainings...|
 |[https://elearning-zvjz-uk.nctv.nl](https://elearning-zvjz-uk.nctv.nl)| | **F**|Apache/2| | | | | | | | :white_check_mark: | |Apache HTTP Server:2||
+|[https://elearning-zvjz-medewerkers.nctv.nl](https://elearning-zvjz-medewerkers.nctv.nl)| | **F**|Apache/2| | | | | | | | :white_check_mark: | |Apache HTTP Server:2||
 

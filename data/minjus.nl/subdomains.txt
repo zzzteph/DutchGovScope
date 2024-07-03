@@ -41,6 +41,7 @@ smtp8.minjus.nl
 ssciinfo.dji.minjus.nl
 vc.acpt.dji.minjus.nl
 vc.dji.minjus.nl
+phantom.rechtspraak.minjus.nl
 enterpriseenrollment.minjus.nl
 ihg.minjus.nl
 smtp3.minjus.nl

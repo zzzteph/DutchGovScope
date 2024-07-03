@@ -76,7 +76,6 @@ autodiscover.dnb.nl
 api.dataloop-acc.dnb.nl
 dataloop-acc.dnb.nl
 dataloop-test.dnb.nl
-planon-a.dnb.nl
 api-staging.developer.dnb.nl
 mockapp-pp.dnb.nl
 mijn-test.dnb.nl
@@ -172,3 +171,4 @@ federated-login-pp.dnb.nl
 federated-login.dnb.nl
 monet-dev.dnb.nl
 monet-tst.dnb.nl
+pla.dnb.nl

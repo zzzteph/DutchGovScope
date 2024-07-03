@@ -188,7 +188,6 @@ https://uat.promise.nioo.knaw.nl
 http://autodiscover.bb.huc.knaw.nl
 https://www.ws.test.backtoroots.nioo.knaw.nl
 https://uat.intranet.nioo.knaw.nl
-https://intranet.nioo.knaw.nl
 https://mijnloonstrook.knaw.nl
 https://cbs.knaw.nl
 https://oroc.knaw.nl
@@ -792,3 +791,4 @@ https://wp-09.dev.huc.knaw.nl
 http://clarin-skosmos.sd.di.huc.knaw.nl
 https://wp-07.dev.huc.knaw.nl
 https://docs.labs.dans.knaw.nl
+https://facades-verification.labs.dans.knaw.nl

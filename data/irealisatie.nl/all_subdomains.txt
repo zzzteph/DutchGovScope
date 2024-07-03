@@ -63,3 +63,5 @@ dva.acc.mgo.irealisatie.nl
 nextcloud.acc.irealisatie.nl
 cts.test.woo.irealisatie.nl
 mailcatch.test.woo.irealisatie.nl
+test.woo.irealisatie.nl
+acc.mgo.irealisatie.nl

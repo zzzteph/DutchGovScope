@@ -3,10 +3,8 @@ http://autodiscover.lchulpmiddelen.nl
 https://cpanel.lchulpmiddelen.nl
 https://cpcalendars.lchulpmiddelen.nl
 https://cpcontacts.lchulpmiddelen.nl
-https://feeds.lchulpmiddelen.nl
 https://ftp.lchulpmiddelen.nl
 https://ipv6.lchulpmiddelen.nl
-https://opendata.lchulpmiddelen.nl
 https://test.apps.lchulpmiddelen.nl
 https://webdisk.lchulpmiddelen.nl
 https://www.lchulpmiddelen.nl
