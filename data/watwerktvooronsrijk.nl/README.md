@@ -22,5 +22,5 @@
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[https://www.watwerktvooronsrijk.nl](https://www.watwerktvooronsrijk.nl)| **A+**| **A**|Apache/2.4.59 (Ubuntu)| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Apache HTTP Server:2.4.59 HSTS Ubuntu||
-|[https://watwerktvooronsrijk.nl](https://watwerktvooronsrijk.nl)| **A**| **A**|Apache/2.4.59 (Ubuntu)| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Apache HTTP Server:2.4.59 HSTS MySQL PHP Ubuntu WordPress:6.5.2 Yoast SEO:22.6|Wat werkt voor o...|
+|[https://watwerktvooronsrijk.nl](https://watwerktvooronsrijk.nl)| **A**| **A**|Apache/2.4.59 (Ubuntu)| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Apache HTTP Server:2.4.59 HSTS MySQL PHP Ubuntu WordPress:6.5.5 Yoast SEO:22.9|Wat werkt voor o...|
 

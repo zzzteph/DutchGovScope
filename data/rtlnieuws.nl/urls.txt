@@ -3,6 +3,6 @@ https://rtlnieuws.nl
 https://acc.rtlnieuws.nl
 https://acc-beta.rtlnieuws.nl
 https://sso.rtlnieuws.nl
-https://cookies.rtlnieuws.nl
+http://cookies.rtlnieuws.nl
 https://dev-beta.rtlnieuws.nl
 https://prod.rtlnieuws.nl

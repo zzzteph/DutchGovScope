@@ -35,3 +35,4 @@ https://www.ras-acc.nvwa.nl
 https://nvwa.nl
 https://e-certnl-sch.nvwa.nl
 https://labvantage-acc.nvwa.nl
+https://soap.openbare-inspectieresultaten.nvwa.nl

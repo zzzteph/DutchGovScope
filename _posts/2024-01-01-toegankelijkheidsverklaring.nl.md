@@ -41,6 +41,6 @@ tags: dutchgov
 |[https://acc-dictu.toegankelijkheidsverklaring.nl](https://acc-dictu.toegankelijkheidsverklaring.nl)| **A**| **F**|nginx| | | | | | | | :white_check_mark: | |Basic Nginx|401 Authorizatio...|
 |[https://prod-dictu.toegankelijkheidsverklaring.nl](https://prod-dictu.toegankelijkheidsverklaring.nl)| **F**| **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|301 Moved Perman...|
 |[https://test-dictu.toegankelijkheidsverklaring.nl](https://test-dictu.toegankelijkheidsverklaring.nl)| **A**| **D**|nginx| | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Drupal:10 Nginx PHP|Home | TEST toeg...|
-|[https://www.toegankelijkheidsverklaring.nl](https://www.toegankelijkheidsverklaring.nl)| **A+**| **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Drupal:10 HSTS Nginx PHP|Invulassistent T...|
+|[https://www.toegankelijkheidsverklaring.nl](https://www.toegankelijkheidsverklaring.nl)| **A+**| **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Drupal:10 HSTS Nginx PHP|Home | Invulassi...|
 |[https://toegankelijkheidsverklaring.nl](https://toegankelijkheidsverklaring.nl)| **A+**| **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
 

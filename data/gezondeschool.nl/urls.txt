@@ -2,6 +2,7 @@ http://sub.gezondeschool.nl
 http://test.gezondeschool.nl
 https://www.gezondeschool.nl
 https://gezondeschool.nl
+http://acceptatie.gezondeschool.nl
 http://autodiscover.gezondeschool.nl
 https://enterpriseenrollment.gezondeschool.nl
 https://enterpriseregistration.gezondeschool.nl

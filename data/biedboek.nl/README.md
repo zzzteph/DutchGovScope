@@ -11,8 +11,8 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/biedboek.nl/subdomains.txt)|3495|Alive subdomains|
-|[urls.txt](/data/biedboek.nl/urls.txt)|3492|Urls|
+|[subdomains.txt](/data/biedboek.nl/subdomains.txt)|3500|Alive subdomains|
+|[urls.txt](/data/biedboek.nl/urls.txt)|3497|Urls|
 |[all_subdomains.txt](/data/biedboek.nl/all_subdomains.txt)|3505|All found subdomains (history)|
 
 
@@ -25,10 +25,10 @@
 |[https://internal.biedboek.nl](https://internal.biedboek.nl)| **F**| **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Microsoft Azure...|
 |[https://test.biedboek.nl](https://test.biedboek.nl)| **A+**| **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS IIS:10.0 Linkedin Ads Windows Server|Microsoft Azure...|
 |[https://test2.biedboek.nl](https://test2.biedboek.nl)| **A**| **E**|| | | | | | | | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server|Microsoft Azure...|
-|[https://www.biedboek.nl](https://www.biedboek.nl)| **A+**| **C**||:white_check_mark: | | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Azure React|Vastgoed en zake...|
-|[https://biedboek.nl](https://biedboek.nl)| **A+**| **C**||:white_check_mark: | | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Azure React|Vastgoed en zake...|
-|[https://acceptatie-nieuw.biedboek.nl](https://acceptatie-nieuw.biedboek.nl)| **A**| **C**||:white_check_mark: | | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Azure React|Vastgoed en zake...|
-|[https://test-nieuw.biedboek.nl](https://test-nieuw.biedboek.nl)| **A**| **B**|| | | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |React|Vastgoed en zake...|
+|[https://www.biedboek.nl](https://www.biedboek.nl)| **A+**| **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Azure HSTS Linkedin Ads React|Vastgoed en zake...|
+|[https://biedboek.nl](https://biedboek.nl)| **A+**| **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Azure HSTS Linkedin Ads React|Vastgoed en zake...|
+|[https://acceptatie-nieuw.biedboek.nl](https://acceptatie-nieuw.biedboek.nl)| **A**| **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Azure HSTS Linkedin Ads React|Vastgoed en zake...|
+|[https://test-nieuw.biedboek.nl](https://test-nieuw.biedboek.nl)| **A**| **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Linkedin Ads React|Vastgoed en zake...|
 |[https://autodiscover.my.biedboek.nl](https://autodiscover.my.biedboek.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Microsoft Azure...|
 |[https://view.link.biedboek.nl](https://view.link.biedboek.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Microsoft Azure...|
 |[https://smtp.math.biedboek.nl](https://smtp.math.biedboek.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Microsoft Azure...|
@@ -799,7 +799,6 @@
 |[https://freiheit.biedboek.nl](https://freiheit.biedboek.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Microsoft Azure...|
 |[https://0341.biedboek.nl](https://0341.biedboek.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Microsoft Azure...|
 |[https://www-si1.biedboek.nl](https://www-si1.biedboek.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Microsoft Azure...|
-|[https://dev12.biedboek.nl](https://dev12.biedboek.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Microsoft Azure...|
 |[https://hobbit.biedboek.nl](https://hobbit.biedboek.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Microsoft Azure...|
 |[https://mrs6.biedboek.nl](https://mrs6.biedboek.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Microsoft Azure...|
 |[https://bwg.biedboek.nl](https://bwg.biedboek.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Microsoft Azure...|
@@ -2605,7 +2604,9 @@
 |[https://ludwig.biedboek.nl](https://ludwig.biedboek.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Microsoft Azure...|
 |[https://jerom.biedboek.nl](https://jerom.biedboek.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Microsoft Azure...|
 |[https://aday.biedboek.nl](https://aday.biedboek.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Microsoft Azure...|
+|[https://web5939.biedboek.nl](https://web5939.biedboek.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Microsoft Azure...|
 |[https://acadian.biedboek.nl](https://acadian.biedboek.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Microsoft Azure...|
+|[https://dmaster.biedboek.nl](https://dmaster.biedboek.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Microsoft Azure...|
 |[https://av8d.biedboek.nl](https://av8d.biedboek.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Microsoft Azure...|
 |[https://activeren.biedboek.nl](https://activeren.biedboek.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Microsoft Azure...|
 |[https://safet.biedboek.nl](https://safet.biedboek.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Microsoft Azure...|
@@ -2613,6 +2614,7 @@
 |[https://website-tools.biedboek.nl](https://website-tools.biedboek.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Microsoft Azure...|
 |[https://blumen.biedboek.nl](https://blumen.biedboek.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Microsoft Azure...|
 |[https://flydrive.biedboek.nl](https://flydrive.biedboek.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Microsoft Azure...|
+|[https://arv.biedboek.nl](https://arv.biedboek.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Microsoft Azure...|
 |[https://ldrd.biedboek.nl](https://ldrd.biedboek.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Microsoft Azure...|
 |[https://aida.biedboek.nl](https://aida.biedboek.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Microsoft Azure...|
 |[https://wbd.biedboek.nl](https://wbd.biedboek.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Microsoft Azure...|
@@ -3175,8 +3177,11 @@
 |[https://phplist.biedboek.nl](https://phplist.biedboek.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Microsoft Azure...|
 |[https://1007.biedboek.nl](https://1007.biedboek.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Microsoft Azure...|
 |[https://adata.biedboek.nl](https://adata.biedboek.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Microsoft Azure...|
+|[https://ligbad.biedboek.nl](https://ligbad.biedboek.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Microsoft Azure...|
+|[https://voipa059.biedboek.nl](https://voipa059.biedboek.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Microsoft Azure...|
 |[https://4empat.biedboek.nl](https://4empat.biedboek.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Microsoft Azure...|
 |[https://binaries.biedboek.nl](https://binaries.biedboek.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Microsoft Azure...|
+|[https://grevenbicht.biedboek.nl](https://grevenbicht.biedboek.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Microsoft Azure...|
 |[https://jobsearch.biedboek.nl](https://jobsearch.biedboek.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Microsoft Azure...|
 |[https://double.biedboek.nl](https://double.biedboek.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Microsoft Azure...|
 |[https://rrl.biedboek.nl](https://rrl.biedboek.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Microsoft Azure...|

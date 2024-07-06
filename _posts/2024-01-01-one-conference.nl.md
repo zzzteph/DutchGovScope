@@ -2,7 +2,7 @@
 layout: default
 title: "one-conference.nl"
 permalink: "/dutchgov/one-conference.nl.html"
-subdomains_count: 2524
+subdomains_count: 2614
 all_subdomains_count: 2615
 urls_count: 36
 ssl_rank: D
@@ -27,7 +27,7 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/one-conference.nl/subdomains.txt)|2524|Alive subdomains|
+|[subdomains.txt](/DutchGovScope/data/one-conference.nl/subdomains.txt)|2614|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/one-conference.nl/urls.txt)|36|Urls|
 |[all_subdomains.txt](/DutchGovScope/data/one-conference.nl/all_subdomains.txt)|2615|All found subdomains (history)|
 
@@ -47,7 +47,7 @@ tags: dutchgov
 |[https://www.new.one-conference.nl](https://www.new.one-conference.nl)| **F**| **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server||
 |[https://www.registration.one-conference.nl](https://www.registration.one-conference.nl)| **A+**| **A**|nginx| |:white_check_mark: | :warning:| |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx Plesk||
 |[https://www.stats.one-conference.nl](https://www.stats.one-conference.nl)| **F**| **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server||
-|[https://one-conference.nl](https://one-conference.nl)| **A**| **B**|Apache|:warning: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server Elementor:3.21.8 HSTS MySQL PHP WordPress:6.5.4|One Conference|
+|[https://one-conference.nl](https://one-conference.nl)| **A**| **B**|Apache|:warning: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server Elementor:3.21.8 HSTS MySQL PHP WordPress:6.5.5|One Conference|
 |[https://wcag-2.1-inspectie-www.one-conference.nl](https://wcag-2.1-inspectie-www.one-conference.nl)| **F**| **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server||
 |[https://aanmelder.one-conference.nl](https://aanmelder.one-conference.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|404 Not Found|
 |[http://autodiscover.one-conference.nl](http://autodiscover.one-conference.nl)| | **B**|Microsoft-IIS/10.0|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server||

@@ -22,6 +22,6 @@
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[https://base.usar.nl](https://base.usar.nl)| **A+**| **D**||:o: |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|Redirecting to h...|
-|[https://www.usar.nl](https://www.usar.nl)| **A+**| **B**||:warning: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS MySQL PHP WP Rocket WPML:4.6.9 WordPress:6.5.2 Yoast SEO:22.5|Home - USAR|
+|[https://www.usar.nl](https://www.usar.nl)| **A+**| **B**||:warning: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS MySQL PHP WP Rocket WPML:4.6.11 WordPress:6.5.4 Yoast SEO:22.9|Home - USAR|
 |[https://usar.nl](https://usar.nl)| **A+**| **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 

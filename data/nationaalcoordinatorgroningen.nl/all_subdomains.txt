@@ -35,3 +35,4 @@ intranet-tst.nationaalcoordinatorgroningen.nl
 i-www.nationaalcoordinatorgroningen.nl
 jet-test.nationaalcoordinatorgroningen.nl
 jet-acc.nationaalcoordinatorgroningen.nl
+nox.intranet.nationaalcoordinatorgroningen.nl

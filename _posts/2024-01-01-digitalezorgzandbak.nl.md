@@ -38,5 +38,5 @@ tags: dutchgov
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[http://www.digitalezorgzandbak.nl](http://www.digitalezorgzandbak.nl)| | **E**|| | | | | | | | :white_check_mark: | |Google Cloud Google Cloud CDN||
-|[http://digitalezorgzandbak.nl](http://digitalezorgzandbak.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS React Wix||
+|[http://digitalezorgzandbak.nl](http://digitalezorgzandbak.nl)| | **E**|| | | | | | | | :white_check_mark: | |AngularJS React Wix||
 

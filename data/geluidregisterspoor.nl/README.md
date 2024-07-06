@@ -5,8 +5,8 @@
 
 
  - **SSL Grade**:
- - **HTTP Security Grade**:F
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:0
+ - **HTTP Security Grade**:A
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:2
 
 
 | File       | Count | Info |
@@ -21,6 +21,6 @@
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[http://www.geluidregisterspoor.nl](http://www.geluidregisterspoor.nl)| | **F**|Microsoft-IIS/10.0| | | | | | | | :white_check_mark: | |IIS:10.0 Windows Server|Geluid vanwege s...|
-|[http://geluidregisterspoor.nl](http://geluidregisterspoor.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
+|[https://www.geluidregisterspoor.nl](https://www.geluidregisterspoor.nl)| | **A**|Microsoft-IIS/10.0|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS IIS:10.0 Windows Server|Document Moved|
+|[https://geluidregisterspoor.nl](https://geluidregisterspoor.nl)| | **A**|Microsoft-IIS/10.0|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS IIS:10.0 Windows Server|Document Moved|
 

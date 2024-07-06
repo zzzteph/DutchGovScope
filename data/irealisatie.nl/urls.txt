@@ -58,3 +58,4 @@ https://app-api.acc.mgo.irealisatie.nl
 https://max.acc.mgo.irealisatie.nl
 https://lo-ad.acc.mgo.irealisatie.nl
 https://dva.acc.mgo.irealisatie.nl
+https://nextcloud.acc.irealisatie.nl

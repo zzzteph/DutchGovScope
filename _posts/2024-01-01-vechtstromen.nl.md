@@ -4,10 +4,10 @@ title: "vechtstromen.nl"
 permalink: "/dutchgov/vechtstromen.nl.html"
 subdomains_count: 53
 all_subdomains_count: 103
-urls_count: 40
+urls_count: 39
 ssl_rank: A-
 http_rank: C
-security_txt: 11
+security_txt: 10
 url_link: /data/vechtstromen.nl/urls.txt
 all_subdomains_link: /data/vechtstromen.nl/all_subdomains.txt
 subdomains_link: /data/vechtstromen.nl/subdomains.txt
@@ -22,13 +22,13 @@ tags: dutchgov
 
  - **SSL Grade**:A-
  - **HTTP Security Grade**:C
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:11
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:10
 
 
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/DutchGovScope/data/vechtstromen.nl/subdomains.txt)|53|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/vechtstromen.nl/urls.txt)|40|Urls|
+|[urls.txt](/DutchGovScope/data/vechtstromen.nl/urls.txt)|39|Urls|
 |[all_subdomains.txt](/DutchGovScope/data/vechtstromen.nl/all_subdomains.txt)|103|All found subdomains (history)|
 
 
@@ -56,14 +56,13 @@ tags: dutchgov
 |[https://apps-dev.vechtstromen.nl](https://apps-dev.vechtstromen.nl)| **A+**| **B**||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS Microsoft ASP.NET|Login|
 |[https://werkplek.vechtstromen.nl](https://werkplek.vechtstromen.nl)| **A**| **D**||:warning: | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Microsoft ASP.NET||
 |[https://open.vechtstromen.nl](https://open.vechtstromen.nl)| **A+**| **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Azure Azure Front Door HSTS Microsoft ASP.NET|Home - Vechtstro...|
-|[https://smtp.vechtstromen.nl](https://smtp.vechtstromen.nl)| **F**| **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|404 Not Found|
+|[https://smtp.vechtstromen.nl](https://smtp.vechtstromen.nl)| **F**| **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|Domein niet gevo...|
 |[https://secure.vechtstromen.nl](https://secure.vechtstromen.nl)| **A+**| **A**|Layer7-API-Gateway| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS||
 |[https://helloid.vechtstromen.nl](https://helloid.vechtstromen.nl)| **A+**| **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |Azure HSTS|Object moved|
 |[https://testkaarten.vechtstromen.nl](https://testkaarten.vechtstromen.nl)| **A**| **E**|| | | | | | | | :white_check_mark: | |||
 |[https://vaultfs.vechtstromen.nl](https://vaultfs.vechtstromen.nl)| **A+**| **A**|nginx/1.25.4| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Amazon S3 Amazon Web Services HSTS Nginx:1.25.4|Psono|
 |[https://vault.vechtstromen.nl](https://vault.vechtstromen.nl)| **A+**| **A**|nginx/1.25.4| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Amazon S3 Amazon Web Services HSTS Nginx:1.25.4|Psono|
 |[https://blaeudamo-a.vechtstromen.nl](https://blaeudamo-a.vechtstromen.nl)| **A**| **E**|| | | | | | | | :white_check_mark: | |||
-|[https://login.vechtstromen.nl](https://login.vechtstromen.nl)| **B**| **B**|| | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |||
 |[https://formulieren.vechtstromen.nl](https://formulieren.vechtstromen.nl)| **A+**| **A**|Microsoft-IIS/10.0| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |IIS:10.0 Windows Server||
 |[https://test.formulieren.vechtstromen.nl](https://test.formulieren.vechtstromen.nl)| **A+**| **A**|Microsoft-IIS/10.0| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |IIS:10.0 Windows Server||
 |[https://securetest.vechtstromen.nl](https://securetest.vechtstromen.nl)| **A+**| **A**|Layer7-API-Gateway| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS||

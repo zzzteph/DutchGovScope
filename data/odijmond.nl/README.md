@@ -22,7 +22,7 @@
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[http://autodiscover.odijmond.nl](http://autodiscover.odijmond.nl)| | **B**|Microsoft-IIS/10.0|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server||
-|[https://open-wave.odijmond.nl](https://open-wave.odijmond.nl)| **A+**| **E**|Apache|:o: |:white_check_mark: | | | | | | :white_check_mark: | |Apache HTTP Server HSTS PHP||
+|[https://open-wave.odijmond.nl](https://open-wave.odijmond.nl)| **A+**| **D**|Apache|:warning: |:white_check_mark: | | | | | | :white_check_mark: | |Apache HTTP Server HSTS PHP||
 |[https://odijmond.nl](https://odijmond.nl)| **A**| **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:-|Object moved|
 |[https://www.odijmond.nl](https://www.odijmond.nl)| **A**| **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:-|Homepage - Omgev...|
 |[https://gisviewer.odijmond.nl](https://gisviewer.odijmond.nl)| **A+**| **A**|| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS PHP||

@@ -5,7 +5,6 @@ loket-acc.hdsr.nl
 webdiensten.hdsr.nl
 cawfirewall.hdsr.nl
 testbegrippen.hdsr.nl
-loket.hdsr.nl
 uconnect.hdsr.nl
 cawuitwijkfirewall.hdsr.nl
 webservices.hdsr.nl

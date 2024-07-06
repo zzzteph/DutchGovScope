@@ -12,7 +12,7 @@
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/dictu.nl/subdomains.txt)|150|Alive subdomains|
-|[urls.txt](/data/dictu.nl/urls.txt)|74|Urls|
+|[urls.txt](/data/dictu.nl/urls.txt)|75|Urls|
 |[all_subdomains.txt](/data/dictu.nl/all_subdomains.txt)|287|All found subdomains (history)|
 
 
@@ -95,4 +95,5 @@
 |[https://vpnb-tst.dictu.nl](https://vpnb-tst.dictu.nl)| | **F**|CPWS| | | | | | | | :white_check_mark: | |HSTS|403 Forbidden|
 |[https://test2.dictu.nl](https://test2.dictu.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Basic Nginx|401 Authorizatio...|
 |[https://acc2.dictu.nl](https://acc2.dictu.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Basic Nginx|401 Authorizatio...|
+|[https://we-share.dictu.nl](https://we-share.dictu.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS|Redirect|
 

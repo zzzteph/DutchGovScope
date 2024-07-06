@@ -3,7 +3,6 @@ https://auth.provincie-utrecht.nl
 https://nagios.provincie-utrecht.nl
 https://ruimtelijkeplanneninterntest.provincie-utrecht.nl
 https://www.stateninformatie.provincie-utrecht.nl
-https://werkenbij.provincie-utrecht.nl
 https://esp.provincie-utrecht.nl
 https://begroting2016.provincie-utrecht.nl
 https://wzb.provincie-utrecht.nl
@@ -66,11 +65,8 @@ https://wortel183.provincie-utrecht.nl
 https://ruimtelijkeplannenintern.provincie-utrecht.nl
 https://itop.provincie-utrecht.nl
 https://ruimtelijkeplannen.provincie-utrecht.nl
-https://omgevingswet.provincie-utrecht.nl
-https://monitorklimaatadaptatie.provincie-utrecht.nl
 https://sslvpn-hth.provincie-utrecht.nl
 https://search.provincie-utrecht.nl
-https://search-a.provincie-utrecht.nl
 https://geofme-test.provincie-utrecht.nl
 https://geofme.provincie-utrecht.nl
 https://veiligdelen.provincie-utrecht.nl

@@ -94,7 +94,7 @@ https://linkeddata-test.overheid.nl
 https://linkextractor.overheid.nl
 https://linkextractor-acc.overheid.nl
 https://lokaleregelgeving.overheid.nl
-http://lokaleregelgeving-acc.overheid.nl
+https://lokaleregelgeving-acc.overheid.nl
 https://lokaleregelgeving-eto.overheid.nl
 https://lucht.omgevingswet.overheid.nl
 https://mail.koop.overheid.nl

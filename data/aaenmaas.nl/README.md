@@ -12,7 +12,7 @@
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/aaenmaas.nl/subdomains.txt)|37|Alive subdomains|
-|[urls.txt](/data/aaenmaas.nl/urls.txt)|26|Urls|
+|[urls.txt](/data/aaenmaas.nl/urls.txt)|27|Urls|
 |[all_subdomains.txt](/data/aaenmaas.nl/all_subdomains.txt)|75|All found subdomains (history)|
 
 
@@ -33,10 +33,11 @@
 |[https://login.aaenmaas.nl](https://login.aaenmaas.nl)| **A+**| **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |||
 |[https://oa.aaenmaas.nl](https://oa.aaenmaas.nl)| **A**| **E**|| | | | | | | | :white_check_mark: | |||
 |[https://webmail.aaenmaas.nl](https://webmail.aaenmaas.nl)| **F**| **F**|Microsoft-IIS/10.0| | | | | | | | :white_check_mark: | |HSTS IIS:10.0 Microsoft ASP.NET Windows Server||
-|[http://testeloket.aaenmaas.nl](http://testeloket.aaenmaas.nl)| **A+**| **A**||:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache Tomcat Fourthwall:1.0.196.092 Fourthwall:eloket_ui_main-2024.110.001 HSTS Java MariaDB Skolengo:1.0.196.092|Object moved per...|
-|[http://meet.aaenmaas.nl](http://meet.aaenmaas.nl)| **A+**| **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|Document Moved|
+|[https://testeloket.aaenmaas.nl](https://testeloket.aaenmaas.nl)| **A+**| **A**|unspecified|:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache Tomcat Fourthwall:1.0.198.042 Fourthwall:eloket_ui_main-2024.155.001 HSTS Java MariaDB Skolengo:1.0.198.042|Djuma portal|
+|[https://meet.aaenmaas.nl](https://meet.aaenmaas.nl)| **A+**| **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|Skype for Busine...|
 |[https://dialin.aaenmaas.nl](https://dialin.aaenmaas.nl)| **A+**| **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|Conferencing Dia...|
-|[https://eloket.aaenmaas.nl](https://eloket.aaenmaas.nl)| **A+**| **A**|unspecified|:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache Tomcat Fourthwall:1.0.197.053 Fourthwall:eloket_ui_main-2024.142.001 HSTS Java MariaDB Skolengo:1.0.197.053|Djuma portal|
+|[https://eloket.aaenmaas.nl](https://eloket.aaenmaas.nl)| **A+**| **A**|unspecified|:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache Tomcat Fourthwall:1.0.198.042 Fourthwall:eloket_ui_main-2024.155.001 HSTS Java MariaDB Skolengo:1.0.198.042|Djuma portal|
+|[https://sharepoint.aaenmaas.nl](https://sharepoint.aaenmaas.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |||
 |[https://amira.aaenmaas.nl](https://amira.aaenmaas.nl)| | **A**||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |||
 |[https://geoportal.aaenmaas.nl](https://geoportal.aaenmaas.nl)| | **F**||:warning: | | | | | | | :white_check_mark: | |Microsoft ASP.NET|IIS Windows Serv...|
 |[https://gisservices.aaenmaas.nl](https://gisservices.aaenmaas.nl)| | **F**||:warning: | | | | | | | :white_check_mark: | |Microsoft ASP.NET|IIS Windows Serv...|

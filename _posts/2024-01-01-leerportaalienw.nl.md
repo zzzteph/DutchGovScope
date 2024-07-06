@@ -7,7 +7,7 @@ all_subdomains_count: 5
 urls_count: 4
 ssl_rank: A+
 http_rank: B
-security_txt: 1
+security_txt: 3
 url_link: /data/leerportaalienw.nl/urls.txt
 all_subdomains_link: /data/leerportaalienw.nl/all_subdomains.txt
 subdomains_link: /data/leerportaalienw.nl/subdomains.txt
@@ -22,7 +22,7 @@ tags: dutchgov
 
  - **SSL Grade**:A+
  - **HTTP Security Grade**:B
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:1
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:3
 
 
 | File       | Count | Info |

@@ -12,7 +12,7 @@
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/rekenkamer.nl/subdomains.txt)|27|Alive subdomains|
-|[urls.txt](/data/rekenkamer.nl/urls.txt)|14|Urls|
+|[urls.txt](/data/rekenkamer.nl/urls.txt)|13|Urls|
 |[all_subdomains.txt](/data/rekenkamer.nl/all_subdomains.txt)|79|All found subdomains (history)|
 
 
@@ -33,6 +33,5 @@
 |[https://werkplek.rekenkamer.nl](https://werkplek.rekenkamer.nl)| | **D**||:warning: | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Microsoft ASP.NET||
 |[https://enterpriseenrollment.rekenkamer.nl](https://enterpriseenrollment.rekenkamer.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||
 |[https://enterpriseregistration.rekenkamer.nl](https://enterpriseregistration.rekenkamer.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
-|[https://onsgeldontcijferd-test.rekenkamer.nl](https://onsgeldontcijferd-test.rekenkamer.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS|404 Not Found|
 |[https://onsgeldontcijferd.rekenkamer.nl](https://onsgeldontcijferd.rekenkamer.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS|Ons geld ontcijf...|
 

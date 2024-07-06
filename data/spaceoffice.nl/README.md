@@ -21,7 +21,7 @@
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://g4aw.spaceoffice.nl](https://g4aw.spaceoffice.nl)| **A**| **F**|lighttpd/1.4.63|:white_check_mark: | | | | | | | :white_check_mark: | |lighttpd:1.4.63||
+|[https://g4aw.spaceoffice.nl](https://g4aw.spaceoffice.nl)| **A**| **F**|lighttpd/1.4.63|:o: | | | | | | | :white_check_mark: | |lighttpd:1.4.63||
 |[https://www.spaceoffice.nl](https://www.spaceoffice.nl)| **B**| **F**|lighttpd|:white_check_mark: | | | | | | | :white_check_mark: | |PHP lighttpd||
 |[https://spaceoffice.nl](https://spaceoffice.nl)| **B**| **F**|lighttpd|:white_check_mark: | | | | | | | :white_check_mark: | |lighttpd||
 

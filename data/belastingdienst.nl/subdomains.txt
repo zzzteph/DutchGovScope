@@ -376,10 +376,6 @@ psproxy-tao2.belastingdienst.nl
 psproxy.belastingdienst.nl
 test-psproxy.belastingdienst.nl
 rap.belastingdienst.nl
-rat.belastingdienst.nl
-rcm.belastingdienst.nl
-rht.belastingdienst.nl
-rmt.belastingdienst.nl
 sa-conf.belastingdienst.nl
 sa-tst.belastingdienst.nl
 sap-internet-test.belastingdienst.nl
@@ -400,8 +396,6 @@ smtp82.belastingdienst.nl
 sollicitatieformulier.belastingdienst.nl
 sorry.ont.belastingdienst.nl
 splunksyslog.dmz.belastingdienst.nl
-start.belastingdienst.nl
-startportaal.belastingdienst.nl
 startportaal1.belastingdienst.nl
 stturn.belastingdienst.nl
 stturn1-tst.belastingdienst.nl

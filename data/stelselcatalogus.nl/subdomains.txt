@@ -19,3 +19,4 @@ preprod.www.stelselcatalogus.nl
 begrippen.stelselcatalogus.nl
 acc.begrippen.stelselcatalogus.nl
 preprod.begrippen.stelselcatalogus.nl
+playground.stelselcatalogus.nl

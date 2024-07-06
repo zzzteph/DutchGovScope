@@ -35,6 +35,6 @@
 |[https://zorgconnect.dji.nl](https://zorgconnect.dji.nl)| **A+**| **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Microsoft ASP.NET||
 |[https://zorgconnect-acpt.dji.nl](https://zorgconnect-acpt.dji.nl)| **A+**| **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS||
 |[https://dji.nl](https://dji.nl)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
-|[https://cdn.dji.nl](https://cdn.dji.nl)| | **F**|nginx/1.18.0 + Phusion Passenger(R) 6.0.18| | | | | | | | :white_check_mark: | |Nginx:1.18.0 Phusion Passenger:6.0.18|Service temporar...|
+|[https://cdn.dji.nl](https://cdn.dji.nl)| | **F**|nginx/1.18.0 + Phusion Passenger(R) 6.0.22| | | | | | | | :white_check_mark: | |Nginx:1.18.0 Phusion Passenger:6.0.22|Service temporar...|
 |[https://ftp.dji.nl](https://ftp.dji.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Microsoft Azure...|
 

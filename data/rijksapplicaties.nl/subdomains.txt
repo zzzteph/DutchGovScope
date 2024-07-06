@@ -17,8 +17,6 @@ login-ienw.rijksapplicaties.nl
 login-az.rijksapplicaties.nl
 login-fin.rijksapplicaties.nl
 login-bzk.rijksapplicaties.nl
-login-bz.acc.rijksapplicaties.nl
-login-ienw.acc.rijksapplicaties.nl
 synaz.staging.rijksapplicaties.nl
 rvb-rvm.rijksapplicaties.nl
 ncg-on-vv.rijksapplicaties.nl
@@ -200,10 +198,7 @@ ncg-hr-ws.staging.rijksapplicaties.nl
 beheer.syn.rijksapplicaties.nl
 dpp-webservice.rijksapplicaties.nl
 rldb-webservice.rijksapplicaties.nl
-bio.acc.rijksapplicaties.nl
-dpt.acc.rijksapplicaties.nl
 qr-app-webservice.rijksapplicaties.nl
-acc.rijksapplicaties.nl
 fvp.acc.rijksapplicaties.nl
 rvb-mva.rijksapplicaties.nl
 catcif.test.syn.rijksapplicaties.nl

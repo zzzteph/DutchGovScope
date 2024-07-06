@@ -5,3 +5,7 @@ ns1.ertms.nl
 elink.ertms.nl
 vakantie-frankrijk.ertms.nl
 click.enews.ertms.nl
+out.ertms.nl
+hegang.ertms.nl
+achthuizen.ertms.nl
+saras.ertms.nl

@@ -1,6 +1,6 @@
 https://audit.perined.nl
-https://eva.perined.nl
-https://evaluatieaudit.perined.nl
+http://eva.perined.nl
+http://evaluatieaudit.perined.nl
 https://klantpreferentie.perined.nl
 https://klantpreferentie2019.perined.nl
 https://lnr.perined.nl
@@ -97,3 +97,7 @@ https://3d-home-design-software-free.perined.nl
 https://kino1.perined.nl
 https://imperia.perined.nl
 https://hyperventilatie.perined.nl
+https://omakase.perined.nl
+https://adalar.perined.nl
+https://www-gp-web-1744.perined.nl
+https://dissent.perined.nl

@@ -7,12 +7,9 @@ https://businessportaal-acc.cjib.nl
 https://digitaalloket.cjib.nl
 https://digitaalloket-acc.cjib.nl
 https://dsp.cjib.nl
-https://lyncdiscover.cjib.nl
 https://mail.cjib.nl
 https://pay.cjib.nl
 https://pay-acc.cjib.nl
-https://sfb.cjib.nl
-https://sfbweb.cjib.nl
 https://werken.cjib.nl
 https://www.cjib.nl
 https://cjib.nl

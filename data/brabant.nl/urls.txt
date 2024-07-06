@@ -24,6 +24,7 @@ https://geoportaal.brabant.nl
 https://s4a.brabant.nl
 https://s4p.brabant.nl
 https://www.dataportaal.brabant.nl
+https://digicheck.brabant.nl
 https://esb-test.brabant.nl
 https://esb.brabant.nl
 https://formulieren.brabant.nl

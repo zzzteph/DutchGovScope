@@ -173,3 +173,4 @@ landingpage.rijksoverheid.nl
 relay.rijksoverheid.nl
 e-mailabonnementen.rijksoverheid.nl
 woo-formulier.rijksoverheid.nl
+www.woo-formulier.rijksoverheid.nl

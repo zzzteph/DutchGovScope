@@ -6,14 +6,14 @@
 
  - **SSL Grade**:A+
  - **HTTP Security Grade**:C
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:40
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:41
 
 
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/trainingscatalogus.nl/subdomains.txt)|201|Alive subdomains|
 |[urls.txt](/data/trainingscatalogus.nl/urls.txt)|109|Urls|
-|[all_subdomains.txt](/data/trainingscatalogus.nl/all_subdomains.txt)|213|All found subdomains (history)|
+|[all_subdomains.txt](/data/trainingscatalogus.nl/all_subdomains.txt)|216|All found subdomains (history)|
 
 
 ## Statistics

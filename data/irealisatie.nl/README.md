@@ -6,14 +6,14 @@
 
  - **SSL Grade**:
  - **HTTP Security Grade**:B
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:49
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:50
 
 
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/irealisatie.nl/subdomains.txt)|65|Alive subdomains|
-|[urls.txt](/data/irealisatie.nl/urls.txt)|60|Urls|
-|[all_subdomains.txt](/data/irealisatie.nl/all_subdomains.txt)|67|All found subdomains (history)|
+|[urls.txt](/data/irealisatie.nl/urls.txt)|61|Urls|
+|[all_subdomains.txt](/data/irealisatie.nl/all_subdomains.txt)|69|All found subdomains (history)|
 
 
 ## Statistics
@@ -29,9 +29,9 @@
 |[https://static.test.dpr.irealisatie.nl](https://static.test.dpr.irealisatie.nl)| | **B**|Apache| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS Hugo:0.124.1|Verwerkingsregis...|
 |[https://web.test.dpr.irealisatie.nl](https://web.test.dpr.irealisatie.nl)| | **B**|Apache| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server Basic HSTS|401 Unauthorized|
 |[https://helpdesk.irealisatie.nl](https://helpdesk.irealisatie.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Ruby Ruby on Rails|iRealisatie Help...|
-|[https://www.irealisatie.nl](https://www.irealisatie.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS|iRealisatie  - S...|
+|[https://www.irealisatie.nl](https://www.irealisatie.nl)| | **A**|Apache| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS|301 Moved Perman...|
 |[https://nextcloud.irealisatie.nl](https://nextcloud.irealisatie.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nextcloud PHP||
-|[https://irealisatie.nl](https://irealisatie.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS|iRealisatie  - S...|
+|[https://irealisatie.nl](https://irealisatie.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS|Software voor va...|
 |[https://collabora.irealisatie.nl](https://collabora.irealisatie.nl)| | **B**|Apache| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS|Apache2 Debian D...|
 |[http://acc.irealisatie.nl](http://acc.irealisatie.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[http://gitea.irealisatie.nl](http://gitea.irealisatie.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
@@ -81,4 +81,5 @@
 |[https://max.acc.mgo.irealisatie.nl](https://max.acc.mgo.irealisatie.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||
 |[https://lo-ad.acc.mgo.irealisatie.nl](https://lo-ad.acc.mgo.irealisatie.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||
 |[https://dva.acc.mgo.irealisatie.nl](https://dva.acc.mgo.irealisatie.nl)| | **A**|| |:white_check_mark: | :warning:| | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS||
+|[https://nextcloud.acc.irealisatie.nl](https://nextcloud.acc.irealisatie.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nextcloud PHP||
 

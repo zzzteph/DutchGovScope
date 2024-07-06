@@ -7,7 +7,7 @@ all_subdomains_count: 4
 urls_count: 4
 ssl_rank: A+
 http_rank: F
-security_txt: 0
+security_txt: 1
 url_link: /data/blankenburgverbinding.nl/urls.txt
 all_subdomains_link: /data/blankenburgverbinding.nl/all_subdomains.txt
 subdomains_link: /data/blankenburgverbinding.nl/subdomains.txt
@@ -22,7 +22,7 @@ tags: dutchgov
 
  - **SSL Grade**:A+
  - **HTTP Security Grade**:F
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:0
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:1
 
 
 | File       | Count | Info |

@@ -39,7 +39,7 @@ tags: dutchgov
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[https://www.investeringsimpulsspv.nl](https://www.investeringsimpulsspv.nl)| | **F**|Apache/2| | | | | | | | :white_check_mark: | |Apache HTTP Server:2 MySQL PHP:8.2.18 WordPress||
 |[https://mail.investeringsimpulsspv.nl](https://mail.investeringsimpulsspv.nl)| | **F**|Apache/2| | | | | | | | :white_check_mark: | |Apache HTTP Server:2||
-|[https://investeringsimpulsspv.nl](https://investeringsimpulsspv.nl)| | **F**|Apache/2| | | | | | | | :white_check_mark: | |Apache HTTP Server:2 Bootstrap MySQL PHP:8.2.18 WordPress Yoast SEO:22.8|Investeringsimpu...|
+|[https://investeringsimpulsspv.nl](https://investeringsimpulsspv.nl)| | **F**|Apache/2| | | | | | | | :white_check_mark: | |Apache HTTP Server:2 Bootstrap MySQL PHP:8.2.18 WordPress Yoast SEO:22.9|Investeringsimpu...|
 |[https://ftp.investeringsimpulsspv.nl](https://ftp.investeringsimpulsspv.nl)| | **F**|Apache/2| | | | | | | | :white_check_mark: | |Apache HTTP Server:2||
 |[https://pop.investeringsimpulsspv.nl](https://pop.investeringsimpulsspv.nl)| | **F**|Apache/2| | | | | | | | :white_check_mark: | |Apache HTTP Server:2||
 |[https://smtp.investeringsimpulsspv.nl](https://smtp.investeringsimpulsspv.nl)| | **F**|Apache/2| | | | | | | | :white_check_mark: | |Apache HTTP Server:2||

@@ -2,7 +2,3 @@ https://kolonialecollecties.nl
 https://www.kolonialecollecties.nl
 https://commissie.kolonialecollecties.nl
 https://committee.kolonialecollecties.nl
-https://feeds.commissie.kolonialecollecties.nl
-https://feeds.committee.kolonialecollecties.nl
-https://opendata.commissie.kolonialecollecties.nl
-https://opendata.committee.kolonialecollecties.nl

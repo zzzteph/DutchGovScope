@@ -6,13 +6,13 @@
 
  - **SSL Grade**:A
  - **HTTP Security Grade**:A
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:12
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:13
 
 
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/h-i-ambacht.nl/subdomains.txt)|23|Alive subdomains|
-|[urls.txt](/data/h-i-ambacht.nl/urls.txt)|22|Urls|
+|[urls.txt](/data/h-i-ambacht.nl/urls.txt)|23|Urls|
 |[all_subdomains.txt](/data/h-i-ambacht.nl/all_subdomains.txt)|31|All found subdomains (history)|
 
 
@@ -43,4 +43,5 @@
 |[https://vthbroker.h-i-ambacht.nl](https://vthbroker.h-i-ambacht.nl)| **A+**| **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
 |[https://omgevingsvisie.h-i-ambacht.nl](https://omgevingsvisie.h-i-ambacht.nl)| **A+**| **C**|Apache| |:white_check_mark: | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|Omgevingsvisie H...|
 |[https://hendrik-ido-ambacht-checker-preprod.h-i-ambacht.nl](https://hendrik-ido-ambacht-checker-preprod.h-i-ambacht.nl)| | **C**|nginx/1.23.3| |:white_check_mark: | | | | | | :white_check_mark: | |Google Cloud Google Cloud CDN HSTS HTTP/3 Nginx:1.23.3||
+|[https://hendrik-ido-ambacht-checker.h-i-ambacht.nl](https://hendrik-ido-ambacht-checker.h-i-ambacht.nl)| | **C**|nginx/1.23.3| |:white_check_mark: | | | | | | :white_check_mark: | |Google Cloud Google Cloud CDN HSTS HTTP/3 Nginx:1.23.3||
 

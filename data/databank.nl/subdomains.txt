@@ -11973,7 +11973,6 @@ middendrenthe.databank.nl
 borsato.databank.nl
 nxp.databank.nl
 recreatief.databank.nl
-munt.databank.nl
 leg.databank.nl
 vld.databank.nl
 investment.databank.nl
@@ -12030,7 +12029,6 @@ autodiscover.ru.databank.nl
 ani.databank.nl
 www8.databank.nl
 www2c.databank.nl
-nextcloud.databank.nl
 3dprintzothar.databank.nl
 www-posts.databank.nl
 raisin.databank.nl
@@ -12046,7 +12044,6 @@ secure.test.databank.nl
 kobo.databank.nl
 clickbank.databank.nl
 empresas.databank.nl
-sertolovo.databank.nl
 rea.databank.nl
 stax.databank.nl
 ptcl.databank.nl
@@ -12135,7 +12132,6 @@ danke.databank.nl
 web6238.databank.nl
 h20.databank.nl
 huihui.databank.nl
-dinxperlo.databank.nl
 autodiscover.lottery.databank.nl
 kottayam.databank.nl
 broodjes.databank.nl
@@ -12213,7 +12209,6 @@ mail62.databank.nl
 wdc.databank.nl
 staging-web.databank.nl
 okcu.databank.nl
-cave.databank.nl
 deluge.databank.nl
 vg.databank.nl
 ezo.databank.nl
@@ -12234,7 +12229,6 @@ gokjewagen.databank.nl
 turkish.databank.nl
 webdisk.jocuri.databank.nl
 hotel-amsterdam.databank.nl
-twan.databank.nl
 netvision.databank.nl
 live.databank.nl
 web4560.databank.nl
@@ -12290,7 +12284,6 @@ kroeg.databank.nl
 mainframe.databank.nl
 sep2.databank.nl
 api.messenger.alpha.databank.nl
-s26.databank.nl
 billen.databank.nl
 pitspoesjes.databank.nl
 v7.databank.nl
@@ -12350,7 +12343,6 @@ terex.databank.nl
 manege.databank.nl
 maskota.databank.nl
 smsservice.databank.nl
-popsa.databank.nl
 crpf.databank.nl
 smd.databank.nl
 dios.databank.nl
@@ -19795,3 +19787,8 @@ cmms.databank.nl
 edu.databank.nl
 nevermind.databank.nl
 spaansleren.databank.nl
+102www.databank.nl
+www.klimaatmnitor.databank.nl
+o2017zeelandscan.databank.nl
+oe.databank.nl
+klimatmonitor.databank.nl

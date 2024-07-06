@@ -17,8 +17,6 @@ https://login-ienw.rijksapplicaties.nl
 https://login-az.rijksapplicaties.nl
 https://login-fin.rijksapplicaties.nl
 https://login-bzk.rijksapplicaties.nl
-https://login-bz.acc.rijksapplicaties.nl
-https://login-ienw.acc.rijksapplicaties.nl
 https://synaz.staging.rijksapplicaties.nl
 https://rvb-rvm.rijksapplicaties.nl
 https://ncg-on-vv.rijksapplicaties.nl
@@ -200,11 +198,7 @@ https://ncg-hr-ws.staging.rijksapplicaties.nl
 https://beheer.syn.rijksapplicaties.nl
 http://dpp-webservice.rijksapplicaties.nl
 http://rldb-webservice.rijksapplicaties.nl
-https://bio.acc.rijksapplicaties.nl
-https://dpt.acc.rijksapplicaties.nl
 http://qr-app-webservice.rijksapplicaties.nl
-https://acc.rijksapplicaties.nl
-https://fvp.acc.rijksapplicaties.nl
 https://rvb-mva.rijksapplicaties.nl
 https://rvb-flowboard.rijksapplicaties.nl
 https://bva.rijksapplicaties.nl

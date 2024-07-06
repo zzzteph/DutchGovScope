@@ -776,7 +776,6 @@ ezweb.biedboek.nl
 freiheit.biedboek.nl
 0341.biedboek.nl
 www-si1.biedboek.nl
-dev12.biedboek.nl
 hobbit.biedboek.nl
 mrs6.biedboek.nl
 bwg.biedboek.nl
@@ -2583,7 +2582,9 @@ adg.biedboek.nl
 ludwig.biedboek.nl
 jerom.biedboek.nl
 aday.biedboek.nl
+web5939.biedboek.nl
 acadian.biedboek.nl
+dmaster.biedboek.nl
 av8d.biedboek.nl
 activeren.biedboek.nl
 safet.biedboek.nl
@@ -2591,6 +2592,7 @@ studentlife.biedboek.nl
 website-tools.biedboek.nl
 blumen.biedboek.nl
 flydrive.biedboek.nl
+arv.biedboek.nl
 ldrd.biedboek.nl
 aida.biedboek.nl
 wbd.biedboek.nl
@@ -3153,8 +3155,11 @@ dhq.biedboek.nl
 phplist.biedboek.nl
 1007.biedboek.nl
 adata.biedboek.nl
+ligbad.biedboek.nl
+voipa059.biedboek.nl
 4empat.biedboek.nl
 binaries.biedboek.nl
+grevenbicht.biedboek.nl
 jobsearch.biedboek.nl
 double.biedboek.nl
 rrl.biedboek.nl

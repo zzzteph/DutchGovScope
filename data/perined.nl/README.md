@@ -12,7 +12,7 @@
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/perined.nl/subdomains.txt)|110|Alive subdomains|
-|[urls.txt](/data/perined.nl/urls.txt)|99|Urls|
+|[urls.txt](/data/perined.nl/urls.txt)|103|Urls|
 |[all_subdomains.txt](/data/perined.nl/all_subdomains.txt)|110|All found subdomains (history)|
 
 
@@ -22,8 +22,8 @@
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[https://audit.perined.nl](https://audit.perined.nl)| **B**| **F**|nginx|:white_check_mark: | | | | | | :white_check_mark: | :white_check_mark: | |Microsoft ASP.NET Nginx|Perinatale Audit...|
-|[https://eva.perined.nl](https://eva.perined.nl)| **B**| **F**|nginx|:white_check_mark: | | | | | | :white_check_mark: | :white_check_mark: | |Microsoft ASP.NET Nginx|Perinatale Audit...|
-|[https://evaluatieaudit.perined.nl](https://evaluatieaudit.perined.nl)| **B**| **F**|nginx|:white_check_mark: | | | | | | :white_check_mark: | :white_check_mark: | |Microsoft ASP.NET Nginx|Perinatale Audit...|
+|[http://eva.perined.nl](http://eva.perined.nl)| **B**| **F**|nginx|:white_check_mark: | | | | | | :white_check_mark: | :white_check_mark: | |Nginx|Object moved|
+|[http://evaluatieaudit.perined.nl](http://evaluatieaudit.perined.nl)| **B**| **F**|nginx|:white_check_mark: | | | | | | :white_check_mark: | :white_check_mark: | |Nginx|Object moved|
 |[https://klantpreferentie.perined.nl](https://klantpreferentie.perined.nl)| **B**| **F**|nginx|:white_check_mark: | | | | | | :white_check_mark: | :white_check_mark: | |Microsoft ASP.NET Nginx|Klantpreferentie...|
 |[https://klantpreferentie2019.perined.nl](https://klantpreferentie2019.perined.nl)| **F**| **F**|Apache/2.4.59 (Amazon Linux) OpenSSL/3.0.8| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.59 HSTS OpenSSL:3.0.8|301 Moved Perman...|
 |[https://lnr.perined.nl](https://lnr.perined.nl)| **B**| **F**|nginx|:white_check_mark: | | | | | | :white_check_mark: | :white_check_mark: | |Microsoft ASP.NET Nginx|LNR2|
@@ -120,4 +120,8 @@
 |[https://kino1.perined.nl](https://kino1.perined.nl)| | **F**|Apache/2.4.59 (Amazon Linux) OpenSSL/3.0.8| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.59 HSTS OpenSSL:3.0.8|301 Moved Perman...|
 |[https://imperia.perined.nl](https://imperia.perined.nl)| | **F**|Apache/2.4.59 (Amazon Linux) OpenSSL/3.0.8| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.59 HSTS OpenSSL:3.0.8|301 Moved Perman...|
 |[https://hyperventilatie.perined.nl](https://hyperventilatie.perined.nl)| | **F**|Apache/2.4.59 (Amazon Linux) OpenSSL/3.0.8| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.59 HSTS OpenSSL:3.0.8|301 Moved Perman...|
+|[https://omakase.perined.nl](https://omakase.perined.nl)| | **F**|Apache/2.4.59 (Amazon Linux) OpenSSL/3.0.8| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.59 HSTS OpenSSL:3.0.8|301 Moved Perman...|
+|[https://adalar.perined.nl](https://adalar.perined.nl)| | **F**|Apache/2.4.59 (Amazon Linux) OpenSSL/3.0.8| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.59 HSTS OpenSSL:3.0.8|301 Moved Perman...|
+|[https://www-gp-web-1744.perined.nl](https://www-gp-web-1744.perined.nl)| | **F**|Apache/2.4.59 (Amazon Linux) OpenSSL/3.0.8| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.59 HSTS OpenSSL:3.0.8|301 Moved Perman...|
+|[https://dissent.perined.nl](https://dissent.perined.nl)| | **F**|Apache/2.4.59 (Amazon Linux) OpenSSL/3.0.8| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.59 HSTS OpenSSL:3.0.8|301 Moved Perman...|
 

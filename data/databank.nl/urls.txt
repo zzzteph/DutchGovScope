@@ -11504,7 +11504,6 @@ https://middendrenthe.databank.nl
 https://borsato.databank.nl
 https://nxp.databank.nl
 https://recreatief.databank.nl
-https://munt.databank.nl
 https://leg.databank.nl
 https://vld.databank.nl
 https://investment.databank.nl
@@ -11561,7 +11560,6 @@ https://autodiscover.ru.databank.nl
 https://ani.databank.nl
 https://www8.databank.nl
 https://www2c.databank.nl
-https://nextcloud.databank.nl
 https://3dprintzothar.databank.nl
 https://www-posts.databank.nl
 https://raisin.databank.nl
@@ -11577,7 +11575,6 @@ https://secure.test.databank.nl
 https://kobo.databank.nl
 https://clickbank.databank.nl
 https://empresas.databank.nl
-https://sertolovo.databank.nl
 https://rea.databank.nl
 https://stax.databank.nl
 https://ptcl.databank.nl
@@ -11666,7 +11663,6 @@ https://danke.databank.nl
 https://web6238.databank.nl
 https://h20.databank.nl
 https://huihui.databank.nl
-https://dinxperlo.databank.nl
 https://autodiscover.lottery.databank.nl
 https://kottayam.databank.nl
 https://broodjes.databank.nl
@@ -11744,7 +11740,6 @@ https://mail62.databank.nl
 https://wdc.databank.nl
 https://staging-web.databank.nl
 https://okcu.databank.nl
-https://cave.databank.nl
 https://deluge.databank.nl
 https://vg.databank.nl
 https://ezo.databank.nl
@@ -11765,7 +11760,6 @@ https://gokjewagen.databank.nl
 https://turkish.databank.nl
 https://webdisk.jocuri.databank.nl
 https://hotel-amsterdam.databank.nl
-https://twan.databank.nl
 https://netvision.databank.nl
 https://live.databank.nl
 https://web4560.databank.nl
@@ -11821,7 +11815,6 @@ https://kroeg.databank.nl
 https://mainframe.databank.nl
 https://sep2.databank.nl
 https://api.messenger.alpha.databank.nl
-https://s26.databank.nl
 https://billen.databank.nl
 https://pitspoesjes.databank.nl
 https://v7.databank.nl
@@ -11881,7 +11874,6 @@ https://terex.databank.nl
 https://manege.databank.nl
 https://maskota.databank.nl
 https://smsservice.databank.nl
-https://popsa.databank.nl
 https://crpf.databank.nl
 https://smd.databank.nl
 https://dios.databank.nl

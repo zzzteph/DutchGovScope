@@ -1,3 +1,5 @@
 http://postmaster.ertms.nl
 http://www.ertms.nl
 http://ertms.nl
+http://ns1.ertms.nl
+http://elink.ertms.nl

@@ -10,7 +10,6 @@ https://am.tst.rijkswaterstaat.nl
 https://bezoekerscentrum.rijkswaterstaat.nl
 https://botova.rijkswaterstaat.nl
 https://crisiswerkplek.rijkswaterstaat.nl
-http://data.rijkswaterstaat.nl
 http://data-acc.rijkswaterstaat.nl
 https://demo-geoservices.rijkswaterstaat.nl
 https://esb.rijkswaterstaat.nl

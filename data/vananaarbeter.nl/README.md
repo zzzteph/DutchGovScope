@@ -5,8 +5,8 @@
 
 
  - **SSL Grade**:B+
- - **HTTP Security Grade**:C
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:2
+ - **HTTP Security Grade**:B
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:3
 
 
 | File       | Count | Info |
@@ -21,7 +21,7 @@
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[http://staging.vananaarbeter.nl](http://staging.vananaarbeter.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS|301 Moved Perman...|
+|[https://staging.vananaarbeter.nl](https://staging.vananaarbeter.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Akamai Craft CMS HSTS SEOmatic|vanAnaarBeter|
 |[https://winwin.vananaarbeter.nl](https://winwin.vananaarbeter.nl)| **A**| **F**|Apache/2| | | | | | | | :white_check_mark: | |Apache HTTP Server:2|vanAnaarBeter |...|
 |[https://www.vananaarbeter.nl](https://www.vananaarbeter.nl)| **B**| **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Akamai Craft CMS HSTS SEOmatic|vanAnaarBeter|
 |[https://vananaarbeter.nl](https://vananaarbeter.nl)| **B**| **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Akamai Craft CMS HSTS SEOmatic|vanAnaarBeter|

@@ -6,13 +6,13 @@
 
  - **SSL Grade**:A-
  - **HTTP Security Grade**:B
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:26
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:28
 
 
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/digid.nl/subdomains.txt)|243|Alive subdomains|
-|[urls.txt](/data/digid.nl/urls.txt)|40|Urls|
+|[urls.txt](/data/digid.nl/urls.txt)|47|Urls|
 |[all_subdomains.txt](/data/digid.nl/all_subdomains.txt)|479|All found subdomains (history)|
 
 
@@ -53,12 +53,19 @@
 |[https://www.machtigen.digid.nl](https://www.machtigen.digid.nl)| **A+**| **A**|Apache| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
 |[https://digid.nl](https://digid.nl)| **A**| **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://helpdesk.machtigen.digid.nl](https://helpdesk.machtigen.digid.nl)| **A+**| **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Machtigen via He...|
+|[https://www.ontwikkel.machtigen.digid.nl](https://www.ontwikkel.machtigen.digid.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS|301 Moved Perman...|
 |[http://app-a5.digid.nl](http://app-a5.digid.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://app-o1.digid.nl](https://app-o1.digid.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[http://app-a1.digid.nl](http://app-a1.digid.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[http://app-a6.digid.nl](http://app-a6.digid.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
+|[http://rijbewijs.cis-test2.digid.nl](http://rijbewijs.cis-test2.digid.nl)| | **F**|Kestrel| | | | | | | | :white_check_mark: | |Kestrel Microsoft ASP.NET||
 |[http://app-a2.digid.nl](http://app-a2.digid.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
+|[https://ontwikkel.machtigen.digid.nl](https://ontwikkel.machtigen.digid.nl)| | **A**||:o: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|DigiD Machtigen|
+|[https://acceptatie.machtigen.digid.nl](https://acceptatie.machtigen.digid.nl)| | **A**||:o: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|DigiD Machtigen|
+|[https://ob.ontwikkel.machtigen.digid.nl](https://ob.ontwikkel.machtigen.digid.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|404 Not Found|
 |[http://app-a4.digid.nl](http://app-a4.digid.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
+|[https://dv.ontwikkel.machtigen.digid.nl](https://dv.ontwikkel.machtigen.digid.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|404 Not Found|
 |[http://app-a3.digid.nl](http://app-a3.digid.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
+|[https://www.acceptatie.machtigen.digid.nl](https://www.acceptatie.machtigen.digid.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS|301 Moved Perman...|
 |[https://mu.digid.nl](https://mu.digid.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 

@@ -18,5 +18,3 @@ https://stc.ilent.nl
 https://wio.ilent.nl
 https://www.ilent.nl
 https://ilent.nl
-https://staging.meldingen.ilent.nl
-https://meldingen.ilent.nl

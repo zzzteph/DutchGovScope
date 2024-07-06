@@ -22,7 +22,7 @@
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[https://livestreaming-thumb.b67.tweedekamer.nl](https://livestreaming-thumb.b67.tweedekamer.nl)| | **F**|Kestrel|:white_check_mark: | | | | | | | :white_check_mark: | |Azure Kestrel Microsoft ASP.NET||
-|[https://livestream-media.tweedekamer.nl](https://livestream-media.tweedekamer.nl)| **A**| **F**|ECAcc (ska/F775)| | | :warning:| | | | | :white_check_mark: | |Azure Azure CDN||
+|[https://livestream-media.tweedekamer.nl](https://livestream-media.tweedekamer.nl)| **A**| **F**|ECAcc (amb/6AFD)| | | :warning:| | | | | :white_check_mark: | |Azure Azure CDN||
 |[https://share.tweedekamer.nl](https://share.tweedekamer.nl)| **A+**| **B**|nginx| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS Nginx||
 |[https://apps.tweedekamer.nl](https://apps.tweedekamer.nl)| **A+**| **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS||
 |[https://debatgemist.beta.tweedekamer.nl](https://debatgemist.beta.tweedekamer.nl)| **F**| **F**|nginx| | | | | | | | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
@@ -56,7 +56,7 @@
 |[https://acc.meldingenapp.tweedekamer.nl](https://acc.meldingenapp.tweedekamer.nl)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Drupal:9 HSTS Nginx PHP|Home | Plein2 Me...|
 |[https://sts.test.tweedekamer.nl](https://sts.test.tweedekamer.nl)| **A**| **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
 |[https://livestreaming.b67bu.tweedekamer.nl](https://livestreaming.b67bu.tweedekamer.nl)| **A**| **F**|ECAcc (ska/F775)| | | | | | | | :white_check_mark: | |Azure Azure CDN|Your Azure Funct...|
-|[https://livestream-media-backup.tweedekamer.nl](https://livestream-media-backup.tweedekamer.nl)| **A**| **F**|ECAcc (ska/F775)| | | :warning:| | | | | :white_check_mark: | |Azure Azure CDN||
+|[https://livestream-media-backup.tweedekamer.nl](https://livestream-media-backup.tweedekamer.nl)| **A**| **F**|Microsoft-IIS/10.0| | | :warning:| | | | | :white_check_mark: | |IIS:10.0 Windows Server||
 |[https://houseofrepresentatives.test.tweedekamer.nl](https://houseofrepresentatives.test.tweedekamer.nl)| **A-**| **C**|nginx/1.25.5| |:white_check_mark: | | | | | | :white_check_mark: | |Basic Nginx:1.25.5|401 Authorizatio...|
 |[https://livestream-backup.tweedekamer.nl](https://livestream-backup.tweedekamer.nl)| **A**| **F**|ECAcc (ska/F775)| | | | | | | | :white_check_mark: | |Azure Azure CDN|Your Azure Funct...|
 |[https://debatgemist.acceptatie.tweedekamer.nl](https://debatgemist.acceptatie.tweedekamer.nl)| **A**| **A**|| |:white_check_mark: | | |:warning: | | :white_check_mark: | :white_check_mark: | |Amazon CloudFront Amazon Web Services||

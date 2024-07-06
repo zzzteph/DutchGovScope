@@ -6,7 +6,7 @@ subdomains_count: 19
 all_subdomains_count: 28
 urls_count: 12
 ssl_rank: A
-http_rank: B
+http_rank: A
 security_txt: 10
 url_link: /data/onderwijsinspectie.nl/urls.txt
 all_subdomains_link: /data/onderwijsinspectie.nl/all_subdomains.txt
@@ -21,7 +21,7 @@ tags: dutchgov
 
 
  - **SSL Grade**:A
- - **HTTP Security Grade**:B
+ - **HTTP Security Grade**:A
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:10
 
 
@@ -45,7 +45,7 @@ tags: dutchgov
 |[https://magazines.onderwijsinspectie.nl](https://magazines.onderwijsinspectie.nl)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://opendata.onderwijsinspectie.nl](https://opendata.onderwijsinspectie.nl)| **A+**| **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://opendata.english.onderwijsinspectie.nl](https://opendata.english.onderwijsinspectie.nl)| **A+**| **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
-|[https://toezichtresultaten.onderwijsinspectie.nl](https://toezichtresultaten.onderwijsinspectie.nl)| **B**| **C**|Apache|:white_check_mark: |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS|Toezichtresultat...|
+|[https://toezichtresultaten.onderwijsinspectie.nl](https://toezichtresultaten.onderwijsinspectie.nl)| **B**| **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Toezichtresultat...|
 |[https://toezichtresultaten.acc.onderwijsinspectie.nl](https://toezichtresultaten.acc.onderwijsinspectie.nl)| **B**| **E**|| | | | | | | | :white_check_mark: | |HSTS|Toezichtresultat...|
 |[https://www.onderwijsinspectie.nl](https://www.onderwijsinspectie.nl)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Inspectie van he...|
 |[https://onderwijsinspectie.nl](https://onderwijsinspectie.nl)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
