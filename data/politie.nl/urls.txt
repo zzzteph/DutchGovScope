@@ -26,3 +26,4 @@ https://transferium-oh.politie.nl
 https://politie.nl
 https://edison.acceptatie.politie.nl
 https://onderzoek.politie.nl
+https://enlets.politie.nl

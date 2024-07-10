@@ -13,7 +13,7 @@
 |------------|-------|------|
 |[subdomains.txt](/data/hdsr.nl/subdomains.txt)|32|Alive subdomains|
 |[urls.txt](/data/hdsr.nl/urls.txt)|28|Urls|
-|[all_subdomains.txt](/data/hdsr.nl/all_subdomains.txt)|110|All found subdomains (history)|
+|[all_subdomains.txt](/data/hdsr.nl/all_subdomains.txt)|111|All found subdomains (history)|
 
 
 ## Statistics

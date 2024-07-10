@@ -4,7 +4,7 @@ title: "noord-holland.nl"
 permalink: "/dutchgov/noord-holland.nl.html"
 subdomains_count: 100
 all_subdomains_count: 277
-urls_count: 68
+urls_count: 69
 ssl_rank: A-
 http_rank: C
 security_txt: 18
@@ -28,7 +28,7 @@ tags: dutchgov
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/DutchGovScope/data/noord-holland.nl/subdomains.txt)|100|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/noord-holland.nl/urls.txt)|68|Urls|
+|[urls.txt](/DutchGovScope/data/noord-holland.nl/urls.txt)|69|Urls|
 |[all_subdomains.txt](/DutchGovScope/data/noord-holland.nl/all_subdomains.txt)|277|All found subdomains (history)|
 
 
@@ -105,4 +105,5 @@ tags: dutchgov
 |[https://enterpriseenrollment.noord-holland.nl](https://enterpriseenrollment.noord-holland.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||
 |[https://enterpriseregistration.noord-holland.nl](https://enterpriseregistration.noord-holland.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://druktemonitor.noord-holland.nl](https://druktemonitor.noord-holland.nl)| | **C**|waitress| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|Redirecting...|
+|[https://ios-api.noord-holland.nl](https://ios-api.noord-holland.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Web App - Unavai...|
 

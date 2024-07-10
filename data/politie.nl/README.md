@@ -12,7 +12,7 @@
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/politie.nl/subdomains.txt)|131|Alive subdomains|
-|[urls.txt](/data/politie.nl/urls.txt)|28|Urls|
+|[urls.txt](/data/politie.nl/urls.txt)|29|Urls|
 |[all_subdomains.txt](/data/politie.nl/all_subdomains.txt)|258|All found subdomains (history)|
 
 
@@ -49,4 +49,5 @@
 |[https://politie.nl](https://politie.nl)| **A+**| **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://edison.acceptatie.politie.nl](https://edison.acceptatie.politie.nl)| **A+**| **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Access Denied|
 |[https://onderzoek.politie.nl](https://onderzoek.politie.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS|Onderzoekdoen.nl...|
+|[https://enlets.politie.nl](https://enlets.politie.nl)| | **A**|| |:white_check_mark: | :warning:| | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS||
 

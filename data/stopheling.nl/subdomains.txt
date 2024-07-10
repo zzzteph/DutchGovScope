@@ -19,3 +19,4 @@ ltu-admin.stopheling.nl
 ltu-api.stopheling.nl
 accp-bp.stopheling.nl
 test-developer.stopheling.nl
+bp.stopheling.nl

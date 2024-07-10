@@ -8,3 +8,4 @@ a-opendata.rijksvastgoedbedrijf.nl
 a-www.rijksvastgoedbedrijf.nl
 a-feeds.rijksvastgoedbedrijf.nl
 a-magazinesintern.rijksvastgoedbedrijf.nl
+landelijkevastgoeddag.rijksvastgoedbedrijf.nl

@@ -10,3 +10,4 @@ https://webservices.diergeneeskunderegister.nl
 https://www.diergeneeskunderegister.nl
 https://zoeken.diergeneeskunderegister.nl
 https://diergeneeskunderegister.nl
+https://acceptatie.behandel.diergeneeskunderegister.nl

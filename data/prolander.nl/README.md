@@ -6,13 +6,13 @@
 
  - **SSL Grade**:
  - **HTTP Security Grade**:C
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:1
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:2
 
 
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/prolander.nl/subdomains.txt)|12|Alive subdomains|
-|[urls.txt](/data/prolander.nl/urls.txt)|9|Urls|
+|[urls.txt](/data/prolander.nl/urls.txt)|10|Urls|
 |[all_subdomains.txt](/data/prolander.nl/all_subdomains.txt)|17|All found subdomains (history)|
 
 
@@ -30,4 +30,5 @@
 |[https://enterpriseregistration.prolander.nl](https://enterpriseregistration.prolander.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[http://localhost.prolander.nl](http://localhost.prolander.nl)| | **F**|nginx| | | :warning:| | | | | :white_check_mark: | |Nginx|(404 Not Found)|
 |[https://p8.prolander.nl](https://p8.prolander.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS PHP||
+|[https://p8-acceptatie.prolander.nl](https://p8-acceptatie.prolander.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS PHP:8.1.26||
 

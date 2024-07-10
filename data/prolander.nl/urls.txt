@@ -7,3 +7,4 @@ https://enterpriseenrollment.prolander.nl
 https://enterpriseregistration.prolander.nl
 http://localhost.prolander.nl
 https://p8.prolander.nl
+https://p8-acceptatie.prolander.nl

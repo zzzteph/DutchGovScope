@@ -32,3 +32,4 @@ b2btest-rijks.douane.nl
 gebruikstarief.douane.nl
 hbi.douane.nl
 zoekdienst.douane.nl
+fibd2.acc.douane.nl

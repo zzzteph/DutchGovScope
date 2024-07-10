@@ -11,7 +11,7 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/cocreatesa.nl/subdomains.txt)|1653|Alive subdomains|
+|[subdomains.txt](/data/cocreatesa.nl/subdomains.txt)|1874|Alive subdomains|
 |[urls.txt](/data/cocreatesa.nl/urls.txt)|1653|Urls|
 |[all_subdomains.txt](/data/cocreatesa.nl/all_subdomains.txt)|2056|All found subdomains (history)|
 

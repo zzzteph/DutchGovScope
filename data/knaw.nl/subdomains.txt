@@ -245,7 +245,6 @@ artursdoet.huygens.knaw.nl
 queeste.huygens.knaw.nl
 www.monarchy-in-turmoil.huygens.knaw.nl
 allard-pierson-project.huygens.knaw.nl
-editiewetenschapmaster1.huygens.knaw.nl
 impactandfiction.huygens.knaw.nl
 monarchy-in-turmoil.huygens.knaw.nl
 staging.huygens.knaw.nl
@@ -253,17 +252,14 @@ www.koninkrijk1813.huygens.knaw.nl
 elaborate.huygens.knaw.nl
 guydebres.huygens.knaw.nl
 koninkrijk1813.huygens.knaw.nl
-adversaria.huygens.knaw.nl
 easytools.huygens.knaw.nl
 geo.di.huc.knaw.nl
 imlc.huygens.knaw.nl
 ogier.huygens.knaw.nl
 opgravingen.huygens.knaw.nl
-sandbox.huygens.knaw.nl
 alfalablog.huygens.knaw.nl
 charterbank.huygens.knaw.nl
 clusiuscorrespondence.huygens.knaw.nl
-editiewetenschap1.huygens.knaw.nl
 kroniekvankampen.huygens.knaw.nl
 migrant.huygens.knaw.nl
 staging.meertens.knaw.nl
@@ -276,7 +272,6 @@ meertens.knaw.nl
 www.huygens.knaw.nl
 correspondentie-bolland-en-cosijn.huygens.knaw.nl
 demohermans.huygens.knaw.nl
-gesantheiligenlands.huygens.knaw.nl
 huygens.knaw.nl
 inventaris.huygens.knaw.nl
 serrure.mvn.huygens.knaw.nl
@@ -310,7 +305,6 @@ test2.marginalia.huygens.knaw.nl
 xml.huygens.knaw.nl
 acc.alexandria.huygens.knaw.nl
 acc.repository.huygens.knaw.nl
-alexandria.huygens.knaw.nl
 bnm-i.huygens.knaw.nl
 bronhist.huygens.knaw.nl
 demo14.huygens.knaw.nl
@@ -323,7 +317,6 @@ oaipmh.emitx.huygens.knaw.nl
 rembench.huygens.knaw.nl
 tc13.huygens.knaw.nl
 test.alexandria.huygens.knaw.nl
-af.huygens.knaw.nl
 epistolarium.huygens.knaw.nl
 test.secure.huygens.knaw.nl
 www.grotius.huygens.knaw.nl
@@ -342,7 +335,6 @@ demo15.huygens.knaw.nl
 ests.huygens.knaw.nl
 oaipmh.huygens.knaw.nl
 secure.huygens.knaw.nl
-www.red-nl.huygens.knaw.nl
 account.knaw.nl
 m365.knaw.nl
 myapps.knaw.nl
@@ -427,7 +419,6 @@ hucsys.huc.knaw.nl
 registry.huc.knaw.nl
 registry.notary.huc.knaw.nl
 admin.k8s.huc.knaw.nl
-ci.huygens.knaw.nl
 code.huc.knaw.nl
 deploy.huc.knaw.nl
 directory.huc.knaw.nl
@@ -536,14 +527,12 @@ bgb.huygens.knaw.nl
 docs.globalise.huygens.knaw.nl
 lab.globalise.huygens.knaw.nl
 lipsius.huygens.knaw.nl
-literariteit1.huygens.knaw.nl
 tjalie-robinson.huygens.knaw.nl
 deystroom.huygens.knaw.nl
 travellingtexts.huygens.knaw.nl
 www.hattem.huygens.knaw.nl
 bosboomtoussaint.huygens.knaw.nl
 briefwisseling-bosboom-toussaint.huygens.knaw.nl
-dixit.huygens.knaw.nl
 doncker.huygens.knaw.nl
 dutch-caribbean.huygens.knaw.nl
 nederlandschehistorien.huygens.knaw.nl
@@ -554,14 +543,11 @@ francodevrije.huygens.knaw.nl
 hattem.huygens.knaw.nl
 digitalforensics.huygens.knaw.nl
 hbsr.mvn.huygens.knaw.nl
-historiagotthorum.huygens.knaw.nl
-literariteit2.huygens.knaw.nl
 rembrandtdocuments.huygens.knaw.nl
 romanvanwalewein.huygens.knaw.nl
 vertrokken-nederlands.meertens.knaw.nl
 brieven-correspondenten-1900.huygens.knaw.nl
 bs.mvn.huygens.knaw.nl
-fanny.huygens.knaw.nl
 literaryquality.huygens.knaw.nl
 www.huc.knaw.nl
 www.literaryquality.huygens.knaw.nl
@@ -575,7 +561,6 @@ brievenhermans.huygens.knaw.nl
 dwc.huygens.knaw.nl
 freckenhorst.mvn.huygens.knaw.nl
 huc.knaw.nl
-lancelotmss.huygens.knaw.nl
 lime.meertens.knaw.nl
 vereijck.huygens.knaw.nl
 beheerd-bureau.knaw.nl
@@ -606,7 +591,6 @@ di.huc.knaw.nl
 web01.huygens.knaw.nl
 beta.buitenlandsebetrekkingen.huygens.knaw.nl
 beta.resources.huygens.knaw.nl
-it.huygens.knaw.nl
 prizepapers.huygens.knaw.nl
 rgp.huygens.knaw.nl
 bgb.resources.huygens.knaw.nl
@@ -729,7 +713,6 @@ ncg.knaw.nl
 handle.knaw.nl
 hg.fa.knaw.nl
 hi1.huygens.knaw.nl
-resourcestest.huygens.knaw.nl
 test.bioport.huygens.knaw.nl
 test.resources.huygens.knaw.nl
 hi10.huygens.knaw.nl

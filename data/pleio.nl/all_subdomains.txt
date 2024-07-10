@@ -2471,3 +2471,8 @@ tls.www.pleio.nl
 testwebsite.pleio.nl
 ws4.pleio.nl
 coach.pleio.nl
+dossier.capacitor.pleio.nl
+test.tooling.pleio.nl
+tooling.capacitor.pleio.nl
+preprod.capacitor.pleio.nl
+prod.capacitor.pleio.nl

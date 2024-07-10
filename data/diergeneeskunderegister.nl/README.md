@@ -6,13 +6,13 @@
 
  - **SSL Grade**:A
  - **HTTP Security Grade**:A
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:10
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:11
 
 
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/diergeneeskunderegister.nl/subdomains.txt)|16|Alive subdomains|
-|[urls.txt](/data/diergeneeskunderegister.nl/urls.txt)|12|Urls|
+|[urls.txt](/data/diergeneeskunderegister.nl/urls.txt)|13|Urls|
 |[all_subdomains.txt](/data/diergeneeskunderegister.nl/all_subdomains.txt)|40|All found subdomains (history)|
 
 
@@ -33,4 +33,5 @@
 |[https://www.diergeneeskunderegister.nl](https://www.diergeneeskunderegister.nl)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Home | Diergenee...|
 |[https://zoeken.diergeneeskunderegister.nl](https://zoeken.diergeneeskunderegister.nl)| **A**| **A**|-|:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://diergeneeskunderegister.nl](https://diergeneeskunderegister.nl)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
+|[https://acceptatie.behandel.diergeneeskunderegister.nl](https://acceptatie.behandel.diergeneeskunderegister.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 

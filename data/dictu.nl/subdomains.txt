@@ -148,3 +148,5 @@ acc2.dictu.nl
 bod1-t.dictu.nl
 bod2-o.dictu.nl
 we-share.dictu.nl
+trillingsdata-acc.dictu.nl
+trillingsdata.dictu.nl

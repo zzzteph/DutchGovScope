@@ -619,7 +619,7 @@ https://prt.biedboek.nl
 https://goededoelen.biedboek.nl
 https://2307.biedboek.nl
 https://aleksey.biedboek.nl
-http://ftp.secure.biedboek.nl
+https://ftp.secure.biedboek.nl
 https://gameofthrones.biedboek.nl
 https://barneveld.biedboek.nl
 https://bovenaaningoogle.biedboek.nl
@@ -695,7 +695,7 @@ https://web17092.biedboek.nl
 https://web17907.biedboek.nl
 https://hazen.biedboek.nl
 https://dahua.biedboek.nl
-http://victoriassecret.biedboek.nl
+https://victoriassecret.biedboek.nl
 https://mobile-rest.biedboek.nl
 https://blackpanther.biedboek.nl
 https://x-files.biedboek.nl
@@ -998,9 +998,10 @@ https://mail110.biedboek.nl
 https://airborn.biedboek.nl
 https://spa-ontspannen.biedboek.nl
 https://fcgi.biedboek.nl
-http://bran.biedboek.nl
-http://groessen.biedboek.nl
-http://u12.biedboek.nl
+https://bran.biedboek.nl
+https://groessen.biedboek.nl
+https://financieel-pagina.biedboek.nl
+https://u12.biedboek.nl
 https://applet.biedboek.nl
 https://ust-kamenogorsk.biedboek.nl
 https://web7332.biedboek.nl
@@ -1009,10 +1010,10 @@ https://osx.biedboek.nl
 https://lobby.biedboek.nl
 https://andalusie.biedboek.nl
 https://maps3.biedboek.nl
-http://noordenveld.biedboek.nl
+https://noordenveld.biedboek.nl
 https://exhibitor.biedboek.nl
 https://guides.lib.biedboek.nl
-http://asa1.biedboek.nl
+https://asa1.biedboek.nl
 https://cti.biedboek.nl
 https://dev-subscribe.biedboek.nl
 https://committees.biedboek.nl

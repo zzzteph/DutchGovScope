@@ -11,7 +11,7 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/dictu.nl/subdomains.txt)|150|Alive subdomains|
+|[subdomains.txt](/data/dictu.nl/subdomains.txt)|152|Alive subdomains|
 |[urls.txt](/data/dictu.nl/urls.txt)|75|Urls|
 |[all_subdomains.txt](/data/dictu.nl/all_subdomains.txt)|287|All found subdomains (history)|
 
