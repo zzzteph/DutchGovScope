@@ -2,9 +2,9 @@
 layout: default
 title: "zwemwater.nl"
 permalink: "/dutchgov/zwemwater.nl.html"
-subdomains_count: 1444
-all_subdomains_count: 1791
-urls_count: 1324
+subdomains_count: 1446
+all_subdomains_count: 1873
+urls_count: 1325
 ssl_rank: C
 http_rank: F
 security_txt: 8
@@ -27,9 +27,9 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/zwemwater.nl/subdomains.txt)|1444|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/zwemwater.nl/urls.txt)|1324|Urls|
-|[all_subdomains.txt](/DutchGovScope/data/zwemwater.nl/all_subdomains.txt)|1791|All found subdomains (history)|
+|[subdomains.txt](/DutchGovScope/data/zwemwater.nl/subdomains.txt)|1446|Alive subdomains|
+|[urls.txt](/DutchGovScope/data/zwemwater.nl/urls.txt)|1325|Urls|
+|[all_subdomains.txt](/DutchGovScope/data/zwemwater.nl/all_subdomains.txt)|1873|All found subdomains (history)|
 
 
 ## Statistics
@@ -1361,4 +1361,5 @@ tags: dutchgov
 |[https://biosecurity.zwemwater.nl](https://biosecurity.zwemwater.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
 |[https://cvo.zwemwater.nl](https://cvo.zwemwater.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
 |[https://agentportal.zwemwater.nl](https://agentportal.zwemwater.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
+|[https://processing.zwemwater.nl](https://processing.zwemwater.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
 

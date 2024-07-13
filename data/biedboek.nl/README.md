@@ -12,7 +12,7 @@
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/biedboek.nl/subdomains.txt)|3501|Alive subdomains|
-|[urls.txt](/data/biedboek.nl/urls.txt)|3498|Urls|
+|[urls.txt](/data/biedboek.nl/urls.txt)|3500|Urls|
 |[all_subdomains.txt](/data/biedboek.nl/all_subdomains.txt)|3505|All found subdomains (history)|
 
 
@@ -1731,7 +1731,7 @@
 |[https://jul.biedboek.nl](https://jul.biedboek.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Microsoft Azure...|
 |[https://esigaret.biedboek.nl](https://esigaret.biedboek.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Microsoft Azure...|
 |[https://deployment.biedboek.nl](https://deployment.biedboek.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Web App - Unavai...|
-|[https://productie-nieuw.biedboek.nl](https://productie-nieuw.biedboek.nl)| | **C**||:white_check_mark: | | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Azure Linkedin Ads React|Vastgoed en zake...|
+|[https://productie-nieuw.biedboek.nl](https://productie-nieuw.biedboek.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Azure HSTS Linkedin Ads React|Vastgoed en zake...|
 |[https://sourcemaps.biedboek.nl](https://sourcemaps.biedboek.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Microsoft Azure...|
 |[https://web4981.biedboek.nl](https://web4981.biedboek.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Microsoft Azure...|
 |[https://spell.biedboek.nl](https://spell.biedboek.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Microsoft Azure...|
@@ -3519,4 +3519,6 @@
 |[https://mascaras.biedboek.nl](https://mascaras.biedboek.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Microsoft Azure...|
 |[https://akamai-test-origin.app.biedboek.nl](https://akamai-test-origin.app.biedboek.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Microsoft Azure...|
 |[https://nugokken.biedboek.nl](https://nugokken.biedboek.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Microsoft Azure...|
+|[https://clink.biedboek.nl](https://clink.biedboek.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Microsoft Azure...|
+|[https://printers.biedboek.nl](https://printers.biedboek.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Microsoft Azure...|
 

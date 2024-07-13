@@ -2,7 +2,7 @@
 layout: default
 title: "economischeveiligheid.nl"
 permalink: "/dutchgov/economischeveiligheid.nl.html"
-subdomains_count: 8
+subdomains_count: 2
 all_subdomains_count: 10
 urls_count: 2
 ssl_rank: A+
@@ -27,7 +27,7 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/economischeveiligheid.nl/subdomains.txt)|8|Alive subdomains|
+|[subdomains.txt](/DutchGovScope/data/economischeveiligheid.nl/subdomains.txt)|2|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/economischeveiligheid.nl/urls.txt)|2|Urls|
 |[all_subdomains.txt](/DutchGovScope/data/economischeveiligheid.nl/all_subdomains.txt)|10|All found subdomains (history)|
 
@@ -37,6 +37,6 @@ tags: dutchgov
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://economischeveiligheid.nl](https://economischeveiligheid.nl)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
-|[https://www.economischeveiligheid.nl](https://www.economischeveiligheid.nl)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Ondernemersloket...|
+|[https://economischeveiligheid.nl](https://economischeveiligheid.nl)| **A+**| **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|301 Moved Perman...|
+|[https://www.economischeveiligheid.nl](https://www.economischeveiligheid.nl)| **A+**| **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|301 Moved Perman...|
 

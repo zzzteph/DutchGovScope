@@ -8,7 +8,6 @@ http://acceptatie.digikoppeling.cibg.nl
 http://acceptatie.digikoppeling-dcr.cibg.nl
 http://acceptatie.digikoppeling2.cibg.nl
 https://acceptatie.lir.cibg.nl
-https://acceptatie.meldingen.klopt.cibg.nl
 https://acceptatie.portaal.competent.cibg.nl
 https://acceptatie.publicwebservices.cibg.nl
 https://acceptatie.tmv.cibg.nl
@@ -27,7 +26,7 @@ https://content.klopt.cibg.nl
 https://designsystem.cibg.nl
 https://desktop.klopt.cibg.nl
 http://digikoppeling.cibg.nl
-http://digikoppeling2.cibg.nl
+https://digikoppeling2.cibg.nl
 https://feeds.cibg.nl
 https://forms.klopt.cibg.nl
 https://lir.cibg.nl
@@ -36,11 +35,9 @@ https://meldingen.klopt.cibg.nl
 https://opendata.cibg.nl
 https://portaal.competent.cibg.nl
 https://prototype.cibg.nl
-https://publicwebservices.cibg.nl
+http://publicwebservices.cibg.nl
 http://publicwebservices-dcr.cibg.nl
 http://stijlgids.cibg.nl
-http://test.digikoppeling.cibg.nl
-https://test.publicwebservices.cibg.nl
 https://tmv.cibg.nl
 https://uzipas.lir.cibg.nl
 https://webchat.klopt.cibg.nl

@@ -3496,3 +3496,5 @@ https://mariage.biedboek.nl
 https://mascaras.biedboek.nl
 https://akamai-test-origin.app.biedboek.nl
 https://nugokken.biedboek.nl
+https://clink.biedboek.nl
+https://printers.biedboek.nl

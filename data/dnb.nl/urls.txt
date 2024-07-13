@@ -117,3 +117,4 @@ https://federated-login-pp.dnb.nl
 https://federated-login.dnb.nl
 https://monet-dev.dnb.nl
 https://monet-tst.dnb.nl
+https://pla.dnb.nl

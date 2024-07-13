@@ -293,3 +293,4 @@ rijksadresgids.tweedekamer.nl
 avgregister.tweedekamer.nl
 webmail.beta.tweedekamer.nl
 images.beta.tweedekamer.nl
+b67.tweedekamer.nl

@@ -13,7 +13,7 @@
 |------------|-------|------|
 |[subdomains.txt](/data/zorgvannu.nl/subdomains.txt)|3|Alive subdomains|
 |[urls.txt](/data/zorgvannu.nl/urls.txt)|3|Urls|
-|[all_subdomains.txt](/data/zorgvannu.nl/all_subdomains.txt)|5|All found subdomains (history)|
+|[all_subdomains.txt](/data/zorgvannu.nl/all_subdomains.txt)|6|All found subdomains (history)|
 
 
 ## Statistics

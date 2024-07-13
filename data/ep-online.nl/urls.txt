@@ -10,7 +10,7 @@ https://public-preprod.ep-online.nl
 https://registreren.ep-online.nl
 https://registreren-acc.ep-online.nl
 https://services.ep-online.nl
-http://services-preprod.ep-online.nl
+https://services-preprod.ep-online.nl
 https://webservice.ep-online.nl
 https://www.ep-online.nl
 http://maatwerkadvies-preprod.api.ep-online.nl

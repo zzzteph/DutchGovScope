@@ -4,15 +4,15 @@
 ## Summary data
 
 
- - **SSL Grade**:B
- - **HTTP Security Grade**:B
+ - **SSL Grade**:A-
+ - **HTTP Security Grade**:A
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:8
 
 
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/forensischinstituut.nl/subdomains.txt)|20|Alive subdomains|
-|[urls.txt](/data/forensischinstituut.nl/urls.txt)|11|Urls|
+|[urls.txt](/data/forensischinstituut.nl/urls.txt)|9|Urls|
 |[all_subdomains.txt](/data/forensischinstituut.nl/all_subdomains.txt)|37|All found subdomains (history)|
 
 
@@ -29,7 +29,5 @@
 |[https://opendata.forensischinstituut.nl](https://opendata.forensischinstituut.nl)| **A+**| **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://opendata.dnadatabank.forensischinstituut.nl](https://opendata.dnadatabank.forensischinstituut.nl)| **A+**| **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://www.forensischinstituut.nl](https://www.forensischinstituut.nl)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Home | Forensisc...|
-|[https://jaarverslag2011.forensischinstituut.nl](https://jaarverslag2011.forensischinstituut.nl)| **F**| **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|Geen webhosting...|
-|[https://dnajaarverslag2011.forensischinstituut.nl](https://dnajaarverslag2011.forensischinstituut.nl)| **F**| **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|Geen webhosting...|
 |[https://forensischinstituut.nl](https://forensischinstituut.nl)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
 

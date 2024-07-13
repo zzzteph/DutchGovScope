@@ -12,7 +12,7 @@
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/cultureelerfgoed.nl/subdomains.txt)|100|Alive subdomains|
-|[urls.txt](/data/cultureelerfgoed.nl/urls.txt)|76|Urls|
+|[urls.txt](/data/cultureelerfgoed.nl/urls.txt)|75|Urls|
 |[all_subdomains.txt](/data/cultureelerfgoed.nl/all_subdomains.txt)|132|All found subdomains (history)|
 
 
@@ -33,7 +33,6 @@
 |[https://catalogus.cultureelerfgoed.nl](https://catalogus.cultureelerfgoed.nl)| **B**| **F**|Microsoft-IIS/10.0|:white_check_mark: | | | | | | | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server|Object moved|
 |[https://data.cultureelerfgoed.nl](https://data.cultureelerfgoed.nl)| **A+**| **B**|nginx| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS Nginx|- PoolParty Link...|
 |[https://data.geo.cultureelerfgoed.nl](https://data.geo.cultureelerfgoed.nl)| **A+**| **A**||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Java|GeolinQ|
-|[http://doorzoeker.cultureelerfgoed.nl](http://doorzoeker.cultureelerfgoed.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
 |[https://english.cultureelerfgoed.nl](https://english.cultureelerfgoed.nl)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Home | Cultural...|
 |[https://erfgoedmonitor.cultureelerfgoed.nl](https://erfgoedmonitor.cultureelerfgoed.nl)| **A+**| **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |Amazon S3 Amazon Web Services Azure Edge Network HSTS Microsoft ASP.NET MyFonts|De Erfgoedmonito...|
 |[https://faro.cultureelerfgoed.nl](https://faro.cultureelerfgoed.nl)| **A+**| **A**|Apache|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Apache HTTP Server HSTS||
@@ -62,13 +61,13 @@
 |[https://subsidie.cultureelerfgoed.nl](https://subsidie.cultureelerfgoed.nl)| **A+**| **A**||:warning: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS|SUBS|
 |[https://test.geoservices.cultureelerfgoed.nl](https://test.geoservices.cultureelerfgoed.nl)| **A**| **E**|| | | | | | | | :white_check_mark: | |Apache HTTP Server|ODC-Noord | (403...|
 |[https://test.kennis.cultureelerfgoed.nl](https://test.kennis.cultureelerfgoed.nl)| **A+**| **B**|Apache| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS Varnish||
-|[https://test.kennis-staging.cultureelerfgoed.nl](https://test.kennis-staging.cultureelerfgoed.nl)| **A+**| **C**|Apache|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS Varnish:6.6||
+|[https://test.kennis-staging.cultureelerfgoed.nl](https://test.kennis-staging.cultureelerfgoed.nl)| **A+**| **C**|Apache|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS Varnish||
 |[https://test.monumentenregister.cultureelerfgoed.nl](https://test.monumentenregister.cultureelerfgoed.nl)| **B**| **E**|| | | | | | | | :white_check_mark: | |||
 |[https://thesaurus.cultureelerfgoed.nl](https://thesaurus.cultureelerfgoed.nl)| **A**| **A**|-| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:-|RCE Erfgoedthesa...|
 |[https://tst.subsidie.cultureelerfgoed.nl](https://tst.subsidie.cultureelerfgoed.nl)| **A**| **D**||:warning: | | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |IIS:10.0 Windows Server|SUBS|
 |[https://veilig.cultureelerfgoed.nl](https://veilig.cultureelerfgoed.nl)| **B**| **A**|nginx| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Drupal:7 HSTS Nginx PHP|Veilig Erfgoed|
 |[https://verf.tool.cultureelerfgoed.nl](https://verf.tool.cultureelerfgoed.nl)| **F**| **F**|nginx/1.14.0 (Ubuntu)| | | | | | | | :white_check_mark: | |HSTS Nginx:1.14.0 Ubuntu|301 Moved Perman...|
-|[https://wikixl-saml.cultureelerfgoed.nl](https://wikixl-saml.cultureelerfgoed.nl)| **A+**| **B**|Apache| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS Varnish:6.6|Redirect|
+|[https://wikixl-saml.cultureelerfgoed.nl](https://wikixl-saml.cultureelerfgoed.nl)| **A+**| **B**|Apache| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS Varnish|Redirect|
 |[https://wikixl-saml.test.cultureelerfgoed.nl](https://wikixl-saml.test.cultureelerfgoed.nl)| **F**| **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|Geregistreerd do...|
 |[https://www.cultureelerfgoed.nl](https://www.cultureelerfgoed.nl)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Home | Rijksdien...|
 |[https://www.acc.monumentenregister.cultureelerfgoed.nl](https://www.acc.monumentenregister.cultureelerfgoed.nl)| **A**| **E**|| | | | | | | | :white_check_mark: | |||

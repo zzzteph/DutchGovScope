@@ -2,7 +2,7 @@
 layout: default
 title: "irealisatie.nl"
 permalink: "/dutchgov/irealisatie.nl.html"
-subdomains_count: 65
+subdomains_count: 67
 all_subdomains_count: 70
 urls_count: 57
 ssl_rank: 
@@ -27,7 +27,7 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/irealisatie.nl/subdomains.txt)|65|Alive subdomains|
+|[subdomains.txt](/DutchGovScope/data/irealisatie.nl/subdomains.txt)|67|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/irealisatie.nl/urls.txt)|57|Urls|
 |[all_subdomains.txt](/DutchGovScope/data/irealisatie.nl/all_subdomains.txt)|70|All found subdomains (history)|
 

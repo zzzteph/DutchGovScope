@@ -13,7 +13,7 @@
 |------------|-------|------|
 |[subdomains.txt](/data/trainingscatalogus.nl/subdomains.txt)|203|Alive subdomains|
 |[urls.txt](/data/trainingscatalogus.nl/urls.txt)|109|Urls|
-|[all_subdomains.txt](/data/trainingscatalogus.nl/all_subdomains.txt)|216|All found subdomains (history)|
+|[all_subdomains.txt](/data/trainingscatalogus.nl/all_subdomains.txt)|217|All found subdomains (history)|
 
 
 ## Statistics

@@ -1,6 +1,5 @@
 academie.belastingdienst.nl
 academie.acc.belastingdienst.nl
-afspraken.belastingdienst.nl
 api.belastingdienst.nl
 api-ota.belastingdienst.nl
 beta.belastingdienst.nl
@@ -35,7 +34,6 @@ gtmd.belastingdienst.nl
 gtmz.belastingdienst.nl
 huisstijl.belastingdienst.nl
 incassomachtigen.belastingdienst.nl
-kavaanalytics.vcdn.belastingdienst.nl
 kennisgroepen.belastingdienst.nl
 kennisnetwerk.belastingdienst.nl
 le-webservices.belastingdienst.nl
@@ -471,10 +469,8 @@ vepana.vcdn.belastingdienst.nl
 sadp.belastingdienst.nl
 betaalportaal-cnf.belastingdienst.nl
 webservices-digin.belastingdienst.nl
-stturn-tst.belastingdienst.nl
 sipreg.belastingdienst.nl
-t-test.belastingdienst.nl
 gpa-rest-test.belastingdienst.nl
-idro.ont.belastingdienst.nl
+ontimegtw.ont.belastingdienst.nl
 rwn.belastingdienst.nl
 waf.ont.belastingdienst.nl

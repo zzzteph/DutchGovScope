@@ -11,7 +11,7 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/minvrom.nl/subdomains.txt)|19|Alive subdomains|
+|[subdomains.txt](/data/minvrom.nl/subdomains.txt)|18|Alive subdomains|
 |[urls.txt](/data/minvrom.nl/urls.txt)|4|Urls|
 |[all_subdomains.txt](/data/minvrom.nl/all_subdomains.txt)|25|All found subdomains (history)|
 

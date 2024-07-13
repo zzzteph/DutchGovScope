@@ -5,9 +5,7 @@ www.webstats.uat.back2roots.nioo.knaw.nl
 whoami.zandbak.dans.knaw.nl
 webstats.uat.back2roots.nioo.knaw.nl
 mailtrap.test.back2roots.nioo.knaw.nl
-www.ws.uat.intranet.nioo.knaw.nl
 booking.nin.knaw.nl
-ws.uat.intranet.nioo.knaw.nl
 www.webstats.uat.backtoroots.nioo.knaw.nl
 www.nin.knaw.nl
 www.uat.back2roots.nioo.knaw.nl
@@ -16,7 +14,6 @@ eduroam.nioo.knaw.nl
 www.knaw.nl
 www.cdn.test.nioo.knaw.nl
 www.webstats.uat.promise.nioo.knaw.nl
-cdn.test.intranet.nioo.knaw.nl
 mailtrap.uat.backtoroots.nioo.knaw.nl
 nioo.knaw.nl
 solr.zandbak.dans.knaw.nl
@@ -45,19 +42,15 @@ mailtrap.uat.back2roots.nioo.knaw.nl
 webmail.nioo.knaw.nl
 mailtrap.test.nioo.knaw.nl
 cdn.test.back2roots.nioo.knaw.nl
-www.webstats.test.intranet.nioo.knaw.nl
 uat.back2roots.nioo.knaw.nl
 donation.wi.knaw.nl
 uri.did.zandbak.dans.knaw.nl
 flippinglakes.nioo.knaw.nl
 www.cbs.knaw.nl
-www.ws.test.intranet.nioo.knaw.nl
 test.vpn.nioo.knaw.nl
 ws.uat.nioo.knaw.nl
-test.intranet.nioo.knaw.nl
 person.did.zandbak.dans.knaw.nl
 www.webstats.test.promise.nioo.knaw.nl
-www.mailtrap.uat.intranet.nioo.knaw.nl
 www.oroc.knaw.nl
 galaxy.nioo.knaw.nl
 www.ws.test.back2roots.nioo.knaw.nl
@@ -66,15 +59,12 @@ nioonet.cto.nioo.knaw.nl
 www.wi.knaw.nl
 ws.test.backtoroots.nioo.knaw.nl
 webstats.uat.backtoroots.nioo.knaw.nl
-ws.test.intranet.nioo.knaw.nl
 autodiscover.ehumanities.knaw.nl
 autodiscover.dans.knaw.nl
 autodiscover.nias.knaw.nl
 climatepursuit.nioo.knaw.nl
 webmail.ceme.nioo.knaw.nl
-www.cdn.test.intranet.nioo.knaw.nl
 www.ws.uat.backtoroots.nioo.knaw.nl
-mailtrap.uat.intranet.nioo.knaw.nl
 webmail.cl.nioo.knaw.nl
 csflab.nin.knaw.nl
 www.webstats.test.nioo.knaw.nl
@@ -92,7 +82,6 @@ pc150.cemo.nioo.knaw.nl
 acc.api.knaw.nl
 prtg.nioo.knaw.nl
 storingen.knaw.nl
-www.mailtrap.test.intranet.nioo.knaw.nl
 nias.knaw.nl
 www.uat.promise.nioo.knaw.nl
 cdn.uat.back2roots.nioo.knaw.nl
@@ -102,7 +91,6 @@ autodiscover.dh.huc.knaw.nl
 mailtrap.test.backtoroots.nioo.knaw.nl
 autodiscover.knaw.nl
 www.test.promise.nioo.knaw.nl
-mailtrap.test.intranet.nioo.knaw.nl
 autodiscover.huc.knaw.nl
 backtoroots.nioo.knaw.nl
 uat.nioo.knaw.nl
@@ -121,8 +109,6 @@ autodiscover.test.knaw.nl
 pop.nioo.knaw.nl
 www.back2roots.nioo.knaw.nl
 skosmos.zandbak.dans.knaw.nl
-cdn.uat.intranet.nioo.knaw.nl
-webstats.uat.intranet.nioo.knaw.nl
 stats.knaw.nl
 andwww.nioo.knaw.nl
 autodiscover.nioo.knaw.nl
@@ -131,7 +117,6 @@ ipt.nioo.knaw.nl
 www.mailtrap.uat.backtoroots.nioo.knaw.nl
 www.cdn.test.promise.nioo.knaw.nl
 soilpros.nioo.knaw.nl
-www.uat.intranet.nioo.knaw.nl
 webstats.uat.promise.nioo.knaw.nl
 cdn.test.backtoroots.nioo.knaw.nl
 www.test.back2roots.nioo.knaw.nl
@@ -155,8 +140,6 @@ data.nioo.knaw.nl
 autodiscover.herseninstituut.knaw.nl
 pc153.cemo.nioo.knaw.nl
 www.nioo.knaw.nl
-www.webstats.uat.intranet.nioo.knaw.nl
-www.test.intranet.nioo.knaw.nl
 nioo-preprod.knaw.nl
 beta.nmgn.huygens.knaw.nl
 autodiscover.huygens.knaw.nl
@@ -176,7 +159,6 @@ www.ws.test.nioo.knaw.nl
 cms21.knaw.nl
 vacatures.knaw.nl
 ws.uat.promise.nioo.knaw.nl
-www.cdn.uat.intranet.nioo.knaw.nl
 art-of-reasoning.huygens.knaw.nl
 reserve.knaw.nl
 oud.nioo.knaw.nl
@@ -187,7 +169,7 @@ webstats.test.nioo.knaw.nl
 uat.promise.nioo.knaw.nl
 autodiscover.bb.huc.knaw.nl
 www.ws.test.backtoroots.nioo.knaw.nl
-uat.intranet.nioo.knaw.nl
+intranet.nioo.knaw.nl
 mijnloonstrook.knaw.nl
 cbs.knaw.nl
 oroc.knaw.nl
@@ -208,7 +190,6 @@ www.webstats.uat.nioo.knaw.nl
 pureacc.knaw.nl
 www.niod.knaw.nl
 test.promise.nioo.knaw.nl
-webstats.test.intranet.nioo.knaw.nl
 autodiscover.di.huc.knaw.nl
 subsite.nioo-acc.knaw.nl
 webstats.uat.nioo.knaw.nl

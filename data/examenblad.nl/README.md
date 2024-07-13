@@ -22,8 +22,8 @@
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[https://nieuwsbrief.examenblad.nl](https://nieuwsbrief.examenblad.nl)| **F**| **A**|| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | ||301 Moved Perman...|
-|[https://www.examenblad.nl](https://www.examenblad.nl)| **A+**| **A**|nginx| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |Drupal:10 HSTS Nginx PHP|Examenblad.nl|
+|[https://www.examenblad.nl](https://www.examenblad.nl)| **A+**| **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |Drupal:10 HSTS PHP|Examenblad.nl|
 |[https://www.nieuwsbrief.examenblad.nl](https://www.nieuwsbrief.examenblad.nl)| **F**| **E**|| | | | | | | | :white_check_mark: | ||301 Moved Perman...|
-|[https://examenblad.nl](https://examenblad.nl)| **A**| **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS||
-|[https://mijn.examenblad.nl](https://mijn.examenblad.nl)| **A+**| **A**|| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Drupal:10 HSTS PHP|Redirecting to h...|
+|[https://examenblad.nl](https://examenblad.nl)| **A**| **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS|308 Permanent Re...|
+|[https://mijn.examenblad.nl](https://mijn.examenblad.nl)| **A+**| **A**|| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Drupal HSTS PHP|Redirecting to h...|
 

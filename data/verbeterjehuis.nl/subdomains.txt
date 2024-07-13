@@ -6,8 +6,6 @@ test-www.verbeterjehuis.nl
 cms.verbeterjehuis.nl
 content.verbeterjehuis.nl
 localhost.verbeterjehuis.nl
-test-u8-www.verbeterjehuis.nl
-acc-u8-www.verbeterjehuis.nl
 acc-www.verbeterjehuis.nl
 prd-cms.verbeterjehuis.nl
 prd-www.verbeterjehuis.nl

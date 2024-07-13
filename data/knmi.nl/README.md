@@ -12,7 +12,7 @@
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/knmi.nl/subdomains.txt)|162|Alive subdomains|
-|[urls.txt](/data/knmi.nl/urls.txt)|61|Urls|
+|[urls.txt](/data/knmi.nl/urls.txt)|62|Urls|
 |[all_subdomains.txt](/data/knmi.nl/all_subdomains.txt)|275|All found subdomains (history)|
 
 
@@ -82,4 +82,5 @@
 |[https://anonymous.api.dataplatform.knmi.nl](https://anonymous.api.dataplatform.knmi.nl)| **A**| **F**|nginx/1.26.1| | | | | | | | :white_check_mark: | |Nginx:1.26.1|404 Not Found|
 |[https://cms-origin.klimaatscenarios-data.knmi.nl](https://cms-origin.klimaatscenarios-data.knmi.nl)| **A**| **F**|awselb/2.0| | | | | | | | :white_check_mark: | |Amazon ELB Amazon Web Services||
 |[https://cdn.klimaatscenarios-data.knmi.nl](https://cdn.klimaatscenarios-data.knmi.nl)| | **A**|AmazonS3| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Amazon CloudFront Amazon S3 Amazon Web Services HSTS||
+|[https://eelcodoornbos-master-patch-38139.data.dev.spaceweather.knmi.nl](https://eelcodoornbos-master-patch-38139.data.dev.spaceweather.knmi.nl)| | **F**|Apache/2.4.58 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.58 Ubuntu|Apache2 Ubuntu D...|
 

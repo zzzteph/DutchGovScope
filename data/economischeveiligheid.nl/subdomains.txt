@@ -1,8 +1,2 @@
 economischeveiligheid.nl
 www.economischeveiligheid.nl
-a-feeds.economischeveiligheid.nl
-a-opendata.economischeveiligheid.nl
-i-www.economischeveiligheid.nl
-o-www.economischeveiligheid.nl
-t-www.economischeveiligheid.nl
-a-www.economischeveiligheid.nl

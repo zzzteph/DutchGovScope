@@ -37,7 +37,7 @@ tags: dutchgov
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://acc.avgregisterrijksoverheid.nl](https://acc.avgregisterrijksoverheid.nl)| **F**| **E**|| | | | | | | | :white_check_mark: | ||AVG Verwerkingen...|
+|[http://acc.avgregisterrijksoverheid.nl](http://acc.avgregisterrijksoverheid.nl)| **F**| **E**|| | | | | | | | :white_check_mark: | |||
 |[https://www.avgregisterrijksoverheid.nl](https://www.avgregisterrijksoverheid.nl)| **B**| **E**|| | | | | | | | :white_check_mark: | |HSTS|AVG Verwerkingen...|
 |[https://avgregisterrijksoverheid.nl](https://avgregisterrijksoverheid.nl)| **B**| **E**|| | | | | | | | :white_check_mark: | |HSTS|AVG Verwerkingen...|
 

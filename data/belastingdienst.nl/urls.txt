@@ -1,6 +1,5 @@
 https://academie.belastingdienst.nl
 https://academie.acc.belastingdienst.nl
-https://afspraken.belastingdienst.nl
 https://api.belastingdienst.nl
 https://api-ota.belastingdienst.nl
 https://beta.belastingdienst.nl
@@ -35,7 +34,6 @@ https://gtmd.belastingdienst.nl
 https://gtmz.belastingdienst.nl
 https://huisstijl.belastingdienst.nl
 https://incassomachtigen.belastingdienst.nl
-https://kavaanalytics.vcdn.belastingdienst.nl
 https://kennisgroepen.belastingdienst.nl
 https://kennisnetwerk.belastingdienst.nl
 https://le-webservices.belastingdienst.nl

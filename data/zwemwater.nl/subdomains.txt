@@ -1442,3 +1442,5 @@ filecloud.zwemwater.nl
 humanoid.zwemwater.nl
 cartoline.zwemwater.nl
 cdni.zwemwater.nl
+iswww.zwemwater.nl
+www.zeeland.nlwww.zwemwater.nl

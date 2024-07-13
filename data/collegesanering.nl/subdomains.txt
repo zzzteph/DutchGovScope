@@ -1,6 +1,5 @@
 feeds.collegesanering.nl
 opendata.collegesanering.nl
-autodiscover.collegesanering.nl
 www.collegesanering.nl
 collegesanering.nl
 webmail.collegesanering.nl
@@ -8,4 +7,3 @@ mail.collegesanering.nl
 a-feeds.collegesanering.nl
 a-opendata.collegesanering.nl
 a-www.collegesanering.nl
-post.collegesanering.nl

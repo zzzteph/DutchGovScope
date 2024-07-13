@@ -11,8 +11,8 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/verbeterjehuis.nl/subdomains.txt)|21|Alive subdomains|
-|[urls.txt](/data/verbeterjehuis.nl/urls.txt)|20|Urls|
+|[subdomains.txt](/data/verbeterjehuis.nl/subdomains.txt)|19|Alive subdomains|
+|[urls.txt](/data/verbeterjehuis.nl/urls.txt)|19|Urls|
 |[all_subdomains.txt](/data/verbeterjehuis.nl/all_subdomains.txt)|25|All found subdomains (history)|
 
 
@@ -29,7 +29,6 @@
 |[https://cms.verbeterjehuis.nl](https://cms.verbeterjehuis.nl)| | **B**|cloudflare| |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | |Cloudflare HSTS|Document Moved|
 |[https://content.verbeterjehuis.nl](https://content.verbeterjehuis.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[http://localhost.verbeterjehuis.nl](http://localhost.verbeterjehuis.nl)| | **F**|nginx| | | :warning:| | | | | :white_check_mark: | |Nginx|(404 Not Found)|
-|[https://test-u8-www.verbeterjehuis.nl](https://test-u8-www.verbeterjehuis.nl)| | **B**|cloudflare| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Cloudflare HSTS|Attention Requir...|
 |[https://acc-www.verbeterjehuis.nl](https://acc-www.verbeterjehuis.nl)| | **B**|cloudflare| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Cloudflare HSTS|Attention Requir...|
 |[https://prd-cms.verbeterjehuis.nl](https://prd-cms.verbeterjehuis.nl)| | **B**|cloudflare| |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | |Cloudflare HSTS|Document Moved|
 |[https://prd-www.verbeterjehuis.nl](https://prd-www.verbeterjehuis.nl)| | **B**|cloudflare| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Cloudflare HSTS|Attention Requir...|

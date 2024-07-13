@@ -22,3 +22,4 @@ https://minvenj.nl
 https://dialin.dtv.minvenj.nl
 https://schedule.dtv.minvenj.nl
 https://oci.minvenj.nl
+http://eopg-digid.gdi.minvenj.nl

@@ -11,9 +11,9 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/dnb.nl/subdomains.txt)|174|Alive subdomains|
-|[urls.txt](/data/dnb.nl/urls.txt)|119|Urls|
-|[all_subdomains.txt](/data/dnb.nl/all_subdomains.txt)|303|All found subdomains (history)|
+|[subdomains.txt](/data/dnb.nl/subdomains.txt)|175|Alive subdomains|
+|[urls.txt](/data/dnb.nl/urls.txt)|120|Urls|
+|[all_subdomains.txt](/data/dnb.nl/all_subdomains.txt)|304|All found subdomains (history)|
 
 
 ## Statistics
@@ -24,7 +24,7 @@
 |[http://pki.dnb.nl](http://pki.dnb.nl)| | **C**|Microsoft-IIS/10.0|:o: | | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |IIS:10.0 Windows Server||
 |[https://www.dnb.nl](https://www.dnb.nl)| **A+**| **A**|AkamaiGHost| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Access Denied|
 |[https://dgsp.dnb.nl](https://dgsp.dnb.nl)| **A+**| **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS|Portal|
-|[https://toezicht.dnb.nl](https://toezicht.dnb.nl)| **A+**| **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Object moved per...|
+|[https://toezicht.dnb.nl](https://toezicht.dnb.nl)| **A+**| **B**||:warning: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Object moved per...|
 |[http://nieuwsapp.dnb.nl](http://nieuwsapp.dnb.nl)| **A+**| **E**|| | | | | | | | :white_check_mark: | |HSTS||
 |[https://www.cn.dnb.nl](https://www.cn.dnb.nl)| **F**| **E**|| | | | | | | | :white_check_mark: | |||
 |[https://muntvondsten.dnb.nl](https://muntvondsten.dnb.nl)| **A+**| **A**||:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS||
@@ -50,7 +50,7 @@
 |[https://api.management.dnb.nl](https://api.management.dnb.nl)| **A+**| **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
 |[https://api-staging.dnb.nl](https://api-staging.dnb.nl)| **A+**| **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
 |[https://api.portal.dnb.nl](https://api.portal.dnb.nl)| **A+**| **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|Home - DNB API S...|
-|[https://api-staging.scm.dnb.nl](https://api-staging.scm.dnb.nl)| **A+**| **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Apim Kudu server|
+|[https://api-staging.scm.dnb.nl](https://api-staging.scm.dnb.nl)| **A+**| **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET:4.0.30319|Apim Kudu server|
 |[https://paymenthub.dnb.nl](https://paymenthub.dnb.nl)| **A+**| **B**|Microsoft-IIS/10.0| |:white_check_mark: | | |:warning: | | | :white_check_mark: | |HSTS IIS:10.0 Microsoft ASP.NET Windows Server|CbCustomer|
 |[https://api.dnb.nl](https://api.dnb.nl)| **A+**| **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
 |[https://api.developer.dnb.nl](https://api.developer.dnb.nl)| **A+**| **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Azure HSTS||
@@ -93,7 +93,7 @@
 |[https://stepui-tst.azure.dnb.nl](https://stepui-tst.azure.dnb.nl)| **A**| **E**|| | | | | | | | :white_check_mark: | |Bootstrap:5.2.3|Azure Static Web...|
 |[https://eherkenning-signicat.dnb.nl](https://eherkenning-signicat.dnb.nl)| **A+**| **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
 |[https://riks-ft.azure.dnb.nl](https://riks-ft.azure.dnb.nl)| **A**| **E**|| | | | | | | | :white_check_mark: | |Bootstrap:5.2.3|Azure Static Web...|
-|[http://autodiscover.dnb.nl](http://autodiscover.dnb.nl)| | **B**|Microsoft-IIS/10.0|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server||
+|[http://autodiscover.dnb.nl](http://autodiscover.dnb.nl)| | **C**|Microsoft-IIS/10.0| |:white_check_mark: | | | | | | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server||
 |[https://api.dataloop-acc.dnb.nl](https://api.dataloop-acc.dnb.nl)| **A+**| **C**|| |:white_check_mark: | :warning:| | | | | :white_check_mark: | |HSTS|Dataloop API Doc...|
 |[https://dataloop-acc.dnb.nl](https://dataloop-acc.dnb.nl)| **A+**| **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|Dataloop|
 |[https://dataloop-test.dnb.nl](https://dataloop-test.dnb.nl)| **A+**| **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|Dataloop|
@@ -140,4 +140,5 @@
 |[https://federated-login.dnb.nl](https://federated-login.dnb.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
 |[https://monet-dev.dnb.nl](https://monet-dev.dnb.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Kestrel Microsoft ASP.NET|Web App - Unavai...|
 |[https://monet-tst.dnb.nl](https://monet-tst.dnb.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Microsoft Azure...|
+|[https://pla.dnb.nl](https://pla.dnb.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||
 

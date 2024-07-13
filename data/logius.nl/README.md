@@ -22,7 +22,7 @@
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[https://acc-dictu.logius.nl](https://acc-dictu.logius.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Basic Nginx|401 Authorizatio...|
-|[https://acc-dictu.comcms.logius.nl](https://acc-dictu.comcms.logius.nl)| | **E**|nginx/1.26.1| | | | | | :white_check_mark: | | :white_check_mark: | |Drupal Nginx:1.26.1 PHP:8.1.28|Redirecting to h...|
+|[https://acc-dictu.comcms.logius.nl](https://acc-dictu.comcms.logius.nl)| | **E**|nginx/1.26.1| | | | | | :white_check_mark: | | :white_check_mark: | |Drupal Nginx:1.26.1 PHP:8.1.29|Redirecting to h...|
 |[https://acc-dictu.kennisbank.logius.nl](https://acc-dictu.kennisbank.logius.nl)| **A**| **F**|nginx| | | | | | | | :white_check_mark: | |Basic Nginx|401 Authorizatio...|
 |[http://acc.oinregister.logius.nl](http://acc.oinregister.logius.nl)| | **F**|BigIP| | | | | | | | :white_check_mark: | |F5 BigIP||
 |[http://acpt-machtigen.digipoort.logius.nl](http://acpt-machtigen.digipoort.logius.nl)| **A+**| **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |||
@@ -54,20 +54,20 @@
 |[https://kennisbank.logius.nl](https://kennisbank.logius.nl)| | **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |Basic HSTS Nginx|401 Authorizatio...|
 |[https://machtigen.digipoort.logius.nl](https://machtigen.digipoort.logius.nl)| **A+**| **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS IBM DataPower||
 |[https://mailing.logius.nl](https://mailing.logius.nl)| **A+**| **C**|Spotler| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
-|[https://mijntokenactiveren.logius.nl](https://mijntokenactiveren.logius.nl)| | **A**|nginx|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|302 Found|
+|[https://mijntokenactiveren.logius.nl](https://mijntokenactiveren.logius.nl)| | **A**|nginx|:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|302 Found|
 |[https://oinregister.logius.nl](https://oinregister.logius.nl)| **A+**| **A**|| |:white_check_mark: | :warning:| | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|COR|
 |[https://preprod.oinregister.logius.nl](https://preprod.oinregister.logius.nl)| **B**| **E**|| | | | | | | | :white_check_mark: | |HSTS|COR|
 |[https://prod-dictu.logius.nl](https://prod-dictu.logius.nl)| **F**| **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|301 Moved Perman...|
 |[https://sb-dictu.logius.nl](https://sb-dictu.logius.nl)| **A**| **F**|nginx| | | | | | | | :white_check_mark: | |Basic Nginx|401 Authorizatio...|
 |[https://test-dictu.logius.nl](https://test-dictu.logius.nl)| **A**| **D**|nginx| | | | | :white_check_mark:| | | :white_check_mark: | |Drupal:10 Nginx PHP|Logius | Logius|
-|[https://test-dictu.comcms.logius.nl](https://test-dictu.comcms.logius.nl)| **A**| **D**|nginx| | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Drupal:10 Nginx PHP|Redirecting to h...|
+|[https://test-dictu.comcms.logius.nl](https://test-dictu.comcms.logius.nl)| **A**| **D**|nginx| | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Drupal Nginx PHP|Redirecting to h...|
 |[https://test-dictu.kennisbank.logius.nl](https://test-dictu.kennisbank.logius.nl)| **A**| **F**|nginx| | | | | | | | :white_check_mark: | |Basic Nginx|401 Authorizatio...|
 |[http://test-machtigen.digipoort.logius.nl](http://test-machtigen.digipoort.logius.nl)| **A+**| **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |||
-|[https://www.logius.nl](https://www.logius.nl)| **A+**| **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Drupal:10 HSTS Nginx PHP|Logius | Logius|
+|[https://www.logius.nl](https://www.logius.nl)| **A+**| **A**|nginx| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Drupal:10 HSTS Nginx PHP|Logius | Logius|
 |[http://www.lpc.logius.nl](http://www.lpc.logius.nl)| | **F**|BigIP| | | | | | | | :white_check_mark: | |F5 BigIP||
 |[https://prod-dictu.comcms.logius.nl](https://prod-dictu.comcms.logius.nl)| **F**| **F**|nginx| | | | | | | | :white_check_mark: | |HSTS Nginx PHP:8.1.29||
 |[https://preprod-machtigen.digipoort.logius.nl](https://preprod-machtigen.digipoort.logius.nl)| **A+**| **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS IBM DataPower||
-|[https://logius.nl](https://logius.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
+|[https://logius.nl](https://logius.nl)| | **A**|nginx| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
 |[https://pmz.logius.nl](https://pmz.logius.nl)| **F**| **E**|| | | | | | | | :white_check_mark: | |HSTS|404 Not Found|
 |[https://pmz-pre.logius.nl](https://pmz-pre.logius.nl)| **A+**| **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|404 Not Found|
 |[http://portaal.digipoort.logius.nl](http://portaal.digipoort.logius.nl)| | **F**|BigIP| | | | | | | | :white_check_mark: | |F5 BigIP||

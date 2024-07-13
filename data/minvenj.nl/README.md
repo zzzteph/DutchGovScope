@@ -12,7 +12,7 @@
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/minvenj.nl/subdomains.txt)|93|Alive subdomains|
-|[urls.txt](/data/minvenj.nl/urls.txt)|24|Urls|
+|[urls.txt](/data/minvenj.nl/urls.txt)|25|Urls|
 |[all_subdomains.txt](/data/minvenj.nl/all_subdomains.txt)|528|All found subdomains (history)|
 
 
@@ -45,4 +45,5 @@
 |[https://dialin.dtv.minvenj.nl](https://dialin.dtv.minvenj.nl)| **F**| **E**|| | | | | | | | :white_check_mark: | |||
 |[https://schedule.dtv.minvenj.nl](https://schedule.dtv.minvenj.nl)| **F**| **E**|| | | | | | | | :white_check_mark: | |||
 |[https://oci.minvenj.nl](https://oci.minvenj.nl)| | **F**|server| | | | | | | | :white_check_mark: | ||302 Found|
+|[http://eopg-digid.gdi.minvenj.nl](http://eopg-digid.gdi.minvenj.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 

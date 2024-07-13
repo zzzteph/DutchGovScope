@@ -10,7 +10,6 @@ https://beeldbank.cultureelerfgoed.nl
 https://catalogus.cultureelerfgoed.nl
 https://data.cultureelerfgoed.nl
 https://data.geo.cultureelerfgoed.nl
-http://doorzoeker.cultureelerfgoed.nl
 https://english.cultureelerfgoed.nl
 https://erfgoedmonitor.cultureelerfgoed.nl
 https://faro.cultureelerfgoed.nl
