@@ -111,7 +111,6 @@ https://tst.fam.rws.nl
 https://tunnelservice-werkstation-2.vm-02.azure.grid.rws.nl
 https://tunnelservice-werkstation-3.vm-02.azure.grid.rws.nl
 https://tunnelservice-werkstation.vm-02.azure.grid.rws.nl
-https://uitwijk-vitaal.matroos.rws.nl
 https://v14.rws.nl
 https://vegetatiemonitor.rws.nl
 https://vitaal.matroos.rws.nl

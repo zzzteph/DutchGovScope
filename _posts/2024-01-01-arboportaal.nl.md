@@ -3,7 +3,7 @@ layout: default
 title: "arboportaal.nl"
 permalink: "/dutchgov/arboportaal.nl.html"
 subdomains_count: 7
-all_subdomains_count: 27
+all_subdomains_count: 28
 urls_count: 4
 ssl_rank: A+
 http_rank: A
@@ -29,7 +29,7 @@ tags: dutchgov
 |------------|-------|------|
 |[subdomains.txt](/DutchGovScope/data/arboportaal.nl/subdomains.txt)|7|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/arboportaal.nl/urls.txt)|4|Urls|
-|[all_subdomains.txt](/DutchGovScope/data/arboportaal.nl/all_subdomains.txt)|27|All found subdomains (history)|
+|[all_subdomains.txt](/DutchGovScope/data/arboportaal.nl/all_subdomains.txt)|28|All found subdomains (history)|
 
 
 ## Statistics

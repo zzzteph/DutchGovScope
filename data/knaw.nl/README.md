@@ -11,9 +11,9 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/knaw.nl/subdomains.txt)|1340|Alive subdomains|
-|[urls.txt](/data/knaw.nl/urls.txt)|670|Urls|
-|[all_subdomains.txt](/data/knaw.nl/all_subdomains.txt)|1851|All found subdomains (history)|
+|[subdomains.txt](/data/knaw.nl/subdomains.txt)|1341|Alive subdomains|
+|[urls.txt](/data/knaw.nl/urls.txt)|671|Urls|
+|[all_subdomains.txt](/data/knaw.nl/all_subdomains.txt)|1852|All found subdomains (history)|
 
 
 ## Statistics
@@ -609,7 +609,7 @@
 |[https://sep.nioo.knaw.nl](https://sep.nioo.knaw.nl)| | **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |Basic HSTS Nginx|401 Authorizatio...|
 |[https://gitlab.bioinf.nioo.knaw.nl](https://gitlab.bioinf.nioo.knaw.nl)| | **A**|nginx|:warning: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://dataverse-importer.labs.dans.knaw.nl](https://dataverse-importer.labs.dans.knaw.nl)| | **F**|uvicorn| | | | | | | | :white_check_mark: | |Python Uvicorn||
-|[https://phpmyadmin.wordpress.dans.knaw.nl](https://phpmyadmin.wordpress.dans.knaw.nl)| | **F**|nginx/1.14.1| | | | | | | | :white_check_mark: | |HSTS MySQL Nginx:1.14.1 PHP:7.4.33 Slick WPML:4.6.11 WordPress:6.5.4 Yoast SEO:22.8 jQuery|DANS | Expertise...|
+|[https://phpmyadmin.wordpress.dans.knaw.nl](https://phpmyadmin.wordpress.dans.knaw.nl)| | **F**|nginx/1.14.1| | | | | | | | :white_check_mark: | |HSTS MySQL Nginx:1.14.1 PHP:7.4.33 Slick WPML:4.6.11 WordPress:6.5.5 Yoast SEO:22.9 jQuery|DANS | Expertise...|
 |[https://type.labs.dans.knaw.nl](https://type.labs.dans.knaw.nl)| | **F**|uvicorn| | | | | | | | :white_check_mark: | |Python Uvicorn||
 |[https://dtrs.labs.dans.knaw.nl](https://dtrs.labs.dans.knaw.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://version-tracker.labs.dans.knaw.nl](https://version-tracker.labs.dans.knaw.nl)| | **F**|uvicorn| | | | | | | | :white_check_mark: | |Python Uvicorn||
@@ -657,7 +657,7 @@
 |[https://wp-14.dev.huc.knaw.nl](https://wp-14.dev.huc.knaw.nl)| | **F**|Apache/2.4.41 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.41 Ubuntu|Unauthorized|
 |[https://facades.labs.dans.knaw.nl](https://facades.labs.dans.knaw.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://wp-11.dev.huc.knaw.nl](https://wp-11.dev.huc.knaw.nl)| | **F**|Apache/2.4.41 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.41 Ubuntu|Unauthorized|
-|[https://databeheer.huygens.knaw.nl](https://databeheer.huygens.knaw.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server Google Tag Manager MySQL PHP WordPress|Het Nationale Le...|
+|[https://databeheer.huygens.knaw.nl](https://databeheer.huygens.knaw.nl)| | **F**|Apache/2.4.41 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.41 Ubuntu|403 Forbidden|
 |[https://facades-conversion.labs.dans.knaw.nl](https://facades-conversion.labs.dans.knaw.nl)| | **F**|uvicorn| | | | | | | | :white_check_mark: | |Python Uvicorn||
 |[https://oai-harvester.labs.dans.knaw.nl](https://oai-harvester.labs.dans.knaw.nl)| | **E**|| | | | | | | | :white_check_mark: | |Python Uvicorn||
 |[http://ga-wp3.sd.di.huc.knaw.nl](http://ga-wp3.sd.di.huc.knaw.nl)| | **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |Nginx|301 Moved Perman...|
@@ -691,4 +691,5 @@
 |[https://docs.labs.dans.knaw.nl](https://docs.labs.dans.knaw.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://facades-verification.labs.dans.knaw.nl](https://facades-verification.labs.dans.knaw.nl)| | **F**|uvicorn| | | | | | | | :white_check_mark: | |Python Uvicorn||
 |[https://oat.acc.huc.knaw.nl](https://oat.acc.huc.knaw.nl)| | **F**|Apache/2.4.41 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.41 Ubuntu|Unauthorized|
+|[https://web31.knaw.nl](https://web31.knaw.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|Index of /|
 

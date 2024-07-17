@@ -1772,3 +1772,10 @@ https://peewee.pleio.nl
 https://damesvoetbal.pleio.nl
 https://huishoudbeurs.pleio.nl
 https://linky.pleio.nl
+https://auth.k8sauth.pleio.nl
+https://idm.k8sauth.pleio.nl
+https://oauth.k8sauth.pleio.nl
+https://alth.pleio.nl
+https://cies.pleio.nl
+https://blsp.pleio.nl
+https://digilab.pleio.nl

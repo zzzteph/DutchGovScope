@@ -23,3 +23,5 @@ https://tdportal.raadvanstate.nl
 https://www.raadvanstate.nl
 https://zittingsagenda.raadvanstate.nl
 https://jaarverslag.raadvanstate.nl
+https://radius-acc.raadvanstate.nl
+https://mijnzaak.raadvanstate.nl

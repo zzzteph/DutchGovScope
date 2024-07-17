@@ -5,14 +5,14 @@
 
 
  - **SSL Grade**:
- - **HTTP Security Grade**:C
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:7
+ - **HTTP Security Grade**:B
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:8
 
 
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/raadvanstate.nl/subdomains.txt)|56|Alive subdomains|
-|[urls.txt](/data/raadvanstate.nl/urls.txt)|25|Urls|
+|[urls.txt](/data/raadvanstate.nl/urls.txt)|27|Urls|
 |[all_subdomains.txt](/data/raadvanstate.nl/all_subdomains.txt)|56|All found subdomains (history)|
 
 
@@ -46,4 +46,6 @@
 |[https://www.raadvanstate.nl](https://www.raadvanstate.nl)| | **B**|cloudflare| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Cloudflare HSTS Microsoft ASP.NET:-|Home - Raad van...|
 |[https://zittingsagenda.raadvanstate.nl](https://zittingsagenda.raadvanstate.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server||
 |[https://jaarverslag.raadvanstate.nl](https://jaarverslag.raadvanstate.nl)| | **B**|-| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS Microsoft ASP.NET:-|Object moved|
+|[https://radius-acc.raadvanstate.nl](https://radius-acc.raadvanstate.nl)| | **B**|Apache|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS||
+|[https://mijnzaak.raadvanstate.nl](https://mijnzaak.raadvanstate.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Object moved|
 

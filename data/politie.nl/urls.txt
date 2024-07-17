@@ -27,3 +27,7 @@ https://politie.nl
 https://edison.acceptatie.politie.nl
 https://onderzoek.politie.nl
 https://enlets.politie.nl
+https://api.enlets.politie.nl
+https://chat.enlets.politie.nl
+https://dav.enlets.politie.nl
+https://push.enlets.politie.nl

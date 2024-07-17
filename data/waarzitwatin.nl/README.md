@@ -47,8 +47,8 @@
 |[https://graphql.staging.waarzitwatin.nl](https://graphql.staging.waarzitwatin.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Amazon CloudFront Amazon Web Services Apache HTTP Server|404 Not Found|
 |[https://mx.staging.waarzitwatin.nl](https://mx.staging.waarzitwatin.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Amazon CloudFront Amazon Web Services Apache HTTP Server|404 Not Found|
 |[https://next.staging.waarzitwatin.nl](https://next.staging.waarzitwatin.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Amazon CloudFront Amazon Web Services Apache HTTP Server|404 Not Found|
-|[https://portal.staging.waarzitwatin.nl](https://portal.staging.waarzitwatin.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Amazon CloudFront Amazon Web Services Apache HTTP Server|404 Not Found|
-|[https://website.staging.waarzitwatin.nl](https://website.staging.waarzitwatin.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Amazon CloudFront Amazon Web Services Apache HTTP Server|404 Not Found|
+|[https://portal.staging.waarzitwatin.nl](https://portal.staging.waarzitwatin.nl)| | **F**|Apache| | | :warning:| | | | | :white_check_mark: | |Amazon CloudFront Amazon Web Services Apache HTTP Server|404 Not Found|
+|[https://website.staging.waarzitwatin.nl](https://website.staging.waarzitwatin.nl)| | **F**|Apache| | | :warning:| | | | | :white_check_mark: | |Amazon CloudFront Amazon Web Services Apache HTTP Server|404 Not Found|
 |[https://community.staging.waarzitwatin.nl](https://community.staging.waarzitwatin.nl)| | **F**|Apache| | | :warning:| | | | | :white_check_mark: | |Amazon CloudFront Amazon Web Services Apache HTTP Server|404 Not Found|
 |[https://docs.staging.waarzitwatin.nl](https://docs.staging.waarzitwatin.nl)| | **F**|Apache| | | :warning:| | | | | :white_check_mark: | |Amazon CloudFront Amazon Web Services Apache HTTP Server|404 Not Found|
 |[https://dashboard.staging.waarzitwatin.nl](https://dashboard.staging.waarzitwatin.nl)| | **F**|Apache| | | :warning:| | | | | :white_check_mark: | |Amazon CloudFront Amazon Web Services Apache HTTP Server|404 Not Found|

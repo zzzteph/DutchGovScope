@@ -6,13 +6,13 @@
 
  - **SSL Grade**:A+
  - **HTTP Security Grade**:A
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:21
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:20
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/nza.nl/subdomains.txt)|41|Alive subdomains|
-|[urls.txt](/data/nza.nl/urls.txt)|37|Urls|
+|[subdomains.txt](/data/nza.nl/subdomains.txt)|40|Alive subdomains|
+|[urls.txt](/data/nza.nl/urls.txt)|36|Urls|
 |[all_subdomains.txt](/data/nza.nl/all_subdomains.txt)|122|All found subdomains (history)|
 
 
@@ -45,7 +45,6 @@
 |[https://zorgprestatiemodel.nza.nl](https://zorgprestatiemodel.nza.nl)| **A+**| **B**|nginx| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS Nginx|Mendix|
 |[https://rpx-qa.nza.nl](https://rpx-qa.nza.nl)| **A**| **A**|Apache| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS|404 Not Found|
 |[https://nza-form3.nza.nl](https://nza-form3.nza.nl)| **A+**| **A**|nginx| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|Mendix|
-|[http://crm-acc.nza.nl](http://crm-acc.nza.nl)| **A**| **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|301 Moved Perman...|
 |[http://autodiscover.nza.nl](http://autodiscover.nza.nl)| | **B**|Microsoft-IIS/10.0|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server||
 |[https://opendata.nza.nl](https://opendata.nza.nl)| **A+**| **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[http://crm.nza.nl](http://crm.nza.nl)| **A**| **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|301 Moved Perman...|

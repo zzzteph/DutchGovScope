@@ -6,13 +6,13 @@
 
  - **SSL Grade**:A-
  - **HTTP Security Grade**:A
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:85
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:87
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/pleio.nl/subdomains.txt)|2202|Alive subdomains|
-|[urls.txt](/data/pleio.nl/urls.txt)|1774|Urls|
+|[subdomains.txt](/data/pleio.nl/subdomains.txt)|2472|Alive subdomains|
+|[urls.txt](/data/pleio.nl/urls.txt)|1781|Urls|
 |[all_subdomains.txt](/data/pleio.nl/all_subdomains.txt)|6759|All found subdomains (history)|
 
 
@@ -1795,4 +1795,11 @@
 |[https://damesvoetbal.pleio.nl](https://damesvoetbal.pleio.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Domeinnaam nog n...|
 |[https://huishoudbeurs.pleio.nl](https://huishoudbeurs.pleio.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Domeinnaam nog n...|
 |[https://linky.pleio.nl](https://linky.pleio.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Domeinnaam nog n...|
+|[https://auth.k8sauth.pleio.nl](https://auth.k8sauth.pleio.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
+|[https://idm.k8sauth.pleio.nl](https://idm.k8sauth.pleio.nl)| | **C**||:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
+|[https://oauth.k8sauth.pleio.nl](https://oauth.k8sauth.pleio.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
+|[https://alth.pleio.nl](https://alth.pleio.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Domeinnaam nog n...|
+|[https://cies.pleio.nl](https://cies.pleio.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Domeinnaam nog n...|
+|[https://blsp.pleio.nl](https://blsp.pleio.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache Tomcat Fourthwall:1.0.0 HSTS Java MariaDB Skolengo:1.0.0|Bureau LSP|
+|[https://digilab.pleio.nl](https://digilab.pleio.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache Tomcat Fourthwall:1.0.0 HSTS Java MariaDB Skolengo:1.0.0|digilab.overheid...|
 

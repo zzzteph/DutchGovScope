@@ -11,8 +11,8 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/overheid.nl/subdomains.txt)|57513|Alive subdomains|
-|[urls.txt](/data/overheid.nl/urls.txt)|309|Urls|
+|[subdomains.txt](/data/overheid.nl/subdomains.txt)|57931|Alive subdomains|
+|[urls.txt](/data/overheid.nl/urls.txt)|310|Urls|
 |[all_subdomains.txt](/data/overheid.nl/all_subdomains.txt)|60276|All found subdomains (history)|
 
 
@@ -329,5 +329,6 @@
 |[https://community.developer.overheid.nl](https://community.developer.overheid.nl)| | **B**|nginx| | | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Discourse Nginx Ruby on Rails|Developer Overhe...|
 |[https://ftp.overheid.nl](https://ftp.overheid.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS||
 |[https://beta-wetten-acc.overheid.nl](https://beta-wetten-acc.overheid.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS|Eenvoudig zoeken...|
-|[http://api.standaarden.overheid.nl](http://api.standaarden.overheid.nl)| | **E**|| | | | | | | | :white_check_mark: | ||| (503)|
+|[https://api.standaarden.overheid.nl](https://api.standaarden.overheid.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
+|[https://identifier-preprod.overheid.nl](https://identifier-preprod.overheid.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|URI - Performer...|
 

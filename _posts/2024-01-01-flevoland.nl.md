@@ -107,7 +107,7 @@ tags: dutchgov
 |[https://testeloket.flevoland.nl](https://testeloket.flevoland.nl)| **A+**| **A**|unspecified|:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache Tomcat Fourthwall:1.0.198.042 Fourthwall:eloket_ui_main-2024.155.001 HSTS Java MariaDB Skolengo:1.0.198.042|Djuma portal|
 |[https://testmonitorwonen.flevoland.nl](https://testmonitorwonen.flevoland.nl)| **A**| **F**|Microsoft-IIS/10.0| | | | | | | | :white_check_mark: | |IIS:10.0 React Windows Server|Planregistratie...|
 |[http://pki.flevoland.nl](http://pki.flevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
-|[http://autodiscover.test.flevoland.nl](http://autodiscover.test.flevoland.nl)| | **A**|Microsoft-IIS/10.0| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server||
+|[http://autodiscover.test.flevoland.nl](http://autodiscover.test.flevoland.nl)| | **C**|Microsoft-IIS/10.0| |:white_check_mark: | | | | | | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server||
 |[https://enterpriseenrollment.flevoland.nl](https://enterpriseenrollment.flevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||
 |[https://enterpriseregistration.test.flevoland.nl](https://enterpriseregistration.test.flevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://enterpriseregistration.flevoland.nl](https://enterpriseregistration.flevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |||

@@ -776,6 +776,7 @@ https://ezweb.biedboek.nl
 https://freiheit.biedboek.nl
 https://0341.biedboek.nl
 https://www-si1.biedboek.nl
+https://dev12.biedboek.nl
 https://hobbit.biedboek.nl
 https://mrs6.biedboek.nl
 https://bwg.biedboek.nl

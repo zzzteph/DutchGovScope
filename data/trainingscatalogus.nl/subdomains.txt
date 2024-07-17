@@ -201,3 +201,6 @@ meet.test.trainingscatalogus.nl
 webdisk.test.trainingscatalogus.nl
 portal-stater.trainingscatalogus.nl
 leeromgeving-stater.trainingscatalogus.nl
+belastingdienst-lms-a.course-api.trainingscatalogus.nl
+belastingdienst-lms-a.enrollment-api.trainingscatalogus.nl
+belastingdienst-lms-a.scim-api.trainingscatalogus.nl

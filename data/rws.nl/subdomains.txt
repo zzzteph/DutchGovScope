@@ -114,7 +114,6 @@ tst.fam.rws.nl
 tunnelservice-werkstation-2.vm-02.azure.grid.rws.nl
 tunnelservice-werkstation-3.vm-02.azure.grid.rws.nl
 tunnelservice-werkstation.vm-02.azure.grid.rws.nl
-uitwijk-vitaal.matroos.rws.nl
 v14.rws.nl
 vegetatiemonitor.rws.nl
 vitaal.matroos.rws.nl

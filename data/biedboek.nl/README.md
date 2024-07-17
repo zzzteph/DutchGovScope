@@ -11,8 +11,8 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/biedboek.nl/subdomains.txt)|3501|Alive subdomains|
-|[urls.txt](/data/biedboek.nl/urls.txt)|3500|Urls|
+|[subdomains.txt](/data/biedboek.nl/subdomains.txt)|3502|Alive subdomains|
+|[urls.txt](/data/biedboek.nl/urls.txt)|3501|Urls|
 |[all_subdomains.txt](/data/biedboek.nl/all_subdomains.txt)|3505|All found subdomains (history)|
 
 
@@ -799,6 +799,7 @@
 |[https://freiheit.biedboek.nl](https://freiheit.biedboek.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Microsoft Azure...|
 |[https://0341.biedboek.nl](https://0341.biedboek.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Microsoft Azure...|
 |[https://www-si1.biedboek.nl](https://www-si1.biedboek.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Microsoft Azure...|
+|[https://dev12.biedboek.nl](https://dev12.biedboek.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Microsoft Azure...|
 |[https://hobbit.biedboek.nl](https://hobbit.biedboek.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Microsoft Azure...|
 |[https://mrs6.biedboek.nl](https://mrs6.biedboek.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Microsoft Azure...|
 |[https://bwg.biedboek.nl](https://bwg.biedboek.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Microsoft Azure...|

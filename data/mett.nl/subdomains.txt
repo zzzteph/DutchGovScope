@@ -637,7 +637,6 @@ nationaalmilieuprogramma.mett.nl
 poc-lilianefonds.mett.nl
 innovatieopgaven.mett.nl
 krinkelsinmaasband.mett.nl
-m3test.azure.mett.nl
 logincookie.mett.nl
 rad-test.mett.nl
 demo2.mett.nl

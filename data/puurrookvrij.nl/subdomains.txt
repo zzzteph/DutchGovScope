@@ -1,4 +1,3 @@
 postergenerator.puurrookvrij.nl
 www.puurrookvrij.nl
-server01.puurrookvrij.nl
 puurrookvrij.nl

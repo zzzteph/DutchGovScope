@@ -3,9 +3,8 @@ zaaksysteem.hdsr.nl
 ftp-hdsr.hdsr.nl
 loket-acc.hdsr.nl
 webdiensten.hdsr.nl
-cawfirewall.hdsr.nl
 testbegrippen.hdsr.nl
-uconnect.hdsr.nl
+loket.hdsr.nl
 cawuitwijkfirewall.hdsr.nl
 webservices.hdsr.nl
 redactie.hdsr.nl
@@ -23,7 +22,6 @@ zoeken.hdsr.nl
 uconnect-acc.hdsr.nl
 wsus.hdsr.nl
 remote-pa.hdsr.nl
-geoservices.hdsr.nl
 hdsr.nl
 kantoor.hdsr.nl
 intranet.ad.hdsr.nl

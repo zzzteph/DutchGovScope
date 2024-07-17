@@ -4,15 +4,15 @@
 ## Summary data
 
 
- - **SSL Grade**:B+
+ - **SSL Grade**:A+
  - **HTTP Security Grade**:D
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:3
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/puurrookvrij.nl/subdomains.txt)|4|Alive subdomains|
-|[urls.txt](/data/puurrookvrij.nl/urls.txt)|4|Urls|
+|[subdomains.txt](/data/puurrookvrij.nl/subdomains.txt)|3|Alive subdomains|
+|[urls.txt](/data/puurrookvrij.nl/urls.txt)|3|Urls|
 |[all_subdomains.txt](/data/puurrookvrij.nl/all_subdomains.txt)|9|All found subdomains (history)|
 
 
@@ -23,6 +23,5 @@
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[https://postergenerator.puurrookvrij.nl](https://postergenerator.puurrookvrij.nl)| **A+**| **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|Maak uw eigen PU...|
 |[https://www.puurrookvrij.nl](https://www.puurrookvrij.nl)| **A+**| **E**|Microsoft-IIS/10.0| | | | | | :white_check_mark: | | :white_check_mark: | |HSTS IIS:10.0 Windows Server|Document Moved|
-|[https://server01.puurrookvrij.nl](https://server01.puurrookvrij.nl)| **F**| **F**|nginx| | | | | | | | :white_check_mark: | |Nginx||
 |[https://puurrookvrij.nl](https://puurrookvrij.nl)| **A+**| **E**|Microsoft-IIS/10.0| | | | | | :white_check_mark: | | :white_check_mark: | |HSTS IIS:10.0 Windows Server|Document Moved|
 

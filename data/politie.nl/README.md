@@ -12,7 +12,7 @@
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/politie.nl/subdomains.txt)|131|Alive subdomains|
-|[urls.txt](/data/politie.nl/urls.txt)|29|Urls|
+|[urls.txt](/data/politie.nl/urls.txt)|33|Urls|
 |[all_subdomains.txt](/data/politie.nl/all_subdomains.txt)|258|All found subdomains (history)|
 
 
@@ -50,4 +50,8 @@
 |[https://edison.acceptatie.politie.nl](https://edison.acceptatie.politie.nl)| **A+**| **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Access Denied|
 |[https://onderzoek.politie.nl](https://onderzoek.politie.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS|Onderzoekdoen.nl...|
 |[https://enlets.politie.nl](https://enlets.politie.nl)| | **A**|| |:white_check_mark: | :warning:| | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS||
+|[https://api.enlets.politie.nl](https://api.enlets.politie.nl)| | **A**|| |:white_check_mark: | :warning:| | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS||
+|[https://chat.enlets.politie.nl](https://chat.enlets.politie.nl)| | **A**|| |:white_check_mark: | :warning:| | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS||
+|[https://dav.enlets.politie.nl](https://dav.enlets.politie.nl)| | **A**|| |:white_check_mark: | :warning:| | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS|404|
+|[https://push.enlets.politie.nl](https://push.enlets.politie.nl)| | **A**|| |:white_check_mark: | :warning:| | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS||
 

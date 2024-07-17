@@ -1,5 +1,4 @@
 https://0900-9630www.valys.nl
-https://ww.valys.nl
 https://informatie.valys.nl
 https://valys.nl
 https://valyswww.valys.nl
@@ -270,6 +269,7 @@ https://valys0900-9630www.valys.nl
 https://ae2.valys.nl
 https://lmd.valys.nl
 https://dls.valys.nl
+https://gekke-sokken.valys.nl
 https://gamez.valys.nl
 https://streamer2.valys.nl
 https://condyline.valys.nl
@@ -339,3 +339,4 @@ https://markus.valys.nl
 https://0-1.valys.nl
 https://corazon.valys.nl
 https://trix.valys.nl
+https://autoconfig.soporte.valys.nl

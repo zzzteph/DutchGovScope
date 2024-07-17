@@ -60,3 +60,5 @@ https://anonymous.api.dataplatform.knmi.nl
 https://cms-origin.klimaatscenarios-data.knmi.nl
 https://cdn.klimaatscenarios-data.knmi.nl
 https://eelcodoornbos-master-patch-38139.data.dev.spaceweather.knmi.nl
+https://hapi.acc.spaceweather.knmi.nl
+https://hapi.spaceweather.knmi.nl

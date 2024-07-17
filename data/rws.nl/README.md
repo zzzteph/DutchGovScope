@@ -6,14 +6,14 @@
 
  - **SSL Grade**:B+
  - **HTTP Security Grade**:D
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:96
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:95
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/rws.nl/subdomains.txt)|252|Alive subdomains|
-|[urls.txt](/data/rws.nl/urls.txt)|166|Urls|
-|[all_subdomains.txt](/data/rws.nl/all_subdomains.txt)|1188|All found subdomains (history)|
+|[subdomains.txt](/data/rws.nl/subdomains.txt)|251|Alive subdomains|
+|[urls.txt](/data/rws.nl/urls.txt)|165|Urls|
+|[all_subdomains.txt](/data/rws.nl/all_subdomains.txt)|1191|All found subdomains (history)|
 
 
 ## Statistics
@@ -134,7 +134,6 @@
 |[https://tunnelservice-werkstation-2.vm-02.azure.grid.rws.nl](https://tunnelservice-werkstation-2.vm-02.azure.grid.rws.nl)| **F**| **E**|| | | | | | | | :white_check_mark: | |HSTS|404 Not Found|
 |[https://tunnelservice-werkstation-3.vm-02.azure.grid.rws.nl](https://tunnelservice-werkstation-3.vm-02.azure.grid.rws.nl)| **F**| **E**|| | | | | | | | :white_check_mark: | |HSTS|404 Not Found|
 |[https://tunnelservice-werkstation.vm-02.azure.grid.rws.nl](https://tunnelservice-werkstation.vm-02.azure.grid.rws.nl)| **F**| **E**|| | | | | | | | :white_check_mark: | |HSTS|404 Not Found|
-|[https://uitwijk-vitaal.matroos.rws.nl](https://uitwijk-vitaal.matroos.rws.nl)| **A+**| **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS|Website niet bes...|
 |[https://v14.rws.nl](https://v14.rws.nl)| **A+**| **C**|Kestrel| |:white_check_mark: | | | | | | :white_check_mark: | |Bootstrap:5.1.1 HSTS Kestrel Microsoft ASP.NET|Pluimverwachting|
 |[https://vegetatiemonitor.rws.nl](https://vegetatiemonitor.rws.nl)| | **C**|nginx/1.27.0| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Nginx:1.27.0|vegetatiemonitor...|
 |[https://vitaal.matroos.rws.nl](https://vitaal.matroos.rws.nl)| **A+**| **A**|Apache| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS|Homepage|

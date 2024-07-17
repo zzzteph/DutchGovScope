@@ -22,7 +22,6 @@ nza-form4.nza.nl
 zorgprestatiemodel.nza.nl
 rpx-qa.nza.nl
 nza-form3.nza.nl
-crm-acc.nza.nl
 autodiscover.nza.nl
 opendata.nza.nl
 crm.nza.nl

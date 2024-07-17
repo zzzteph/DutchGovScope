@@ -110,7 +110,8 @@ https://mijnoctrooi.rvo.nl
 https://sandbox.rvo.nl
 https://redesign.rvo.nl
 https://gdi-b.rvo.nl
-https://cta.rvo.nl
+http://cta.rvo.nl
 https://europese-subsidies.rvo.nl
 https://rhel-p-mijn.rvo.nl
 https://rhel-np-mijn.rvo.nl
+https://edicrop.rvo.nl

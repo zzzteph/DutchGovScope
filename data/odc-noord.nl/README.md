@@ -6,13 +6,13 @@
 
  - **SSL Grade**:B
  - **HTTP Security Grade**:C
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:8
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:9
 
 
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/odc-noord.nl/subdomains.txt)|149|Alive subdomains|
-|[urls.txt](/data/odc-noord.nl/urls.txt)|83|Urls|
+|[urls.txt](/data/odc-noord.nl/urls.txt)|84|Urls|
 |[all_subdomains.txt](/data/odc-noord.nl/all_subdomains.txt)|264|All found subdomains (history)|
 
 
@@ -102,6 +102,7 @@
 |[https://iaas-portal-gn3.odc-noord.nl](https://iaas-portal-gn3.odc-noord.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |AngularJS HSTS||
 |[https://paas-portal-gn3.odc-noord.nl](https://paas-portal-gn3.odc-noord.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |AngularJS HSTS||
 |[https://login-gn3.odc-noord.nl](https://login-gn3.odc-noord.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
-|[https://rvihh-acc.topdesk.odc-noord.nl](https://rvihh-acc.topdesk.odc-noord.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
+|[https://rvihh-acc.topdesk.odc-noord.nl](https://rvihh-acc.topdesk.odc-noord.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Login|
 |[https://bd-toegang-acc.topdesk.odc-noord.nl](https://bd-toegang-acc.topdesk.odc-noord.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Login|
+|[https://mijn.odc-noord.nl](https://mijn.odc-noord.nl)| | **B**|WSGIServer/0.2 CPython/3.9.18|:warning: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 

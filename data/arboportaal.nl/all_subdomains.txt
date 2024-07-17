@@ -25,3 +25,4 @@ a-feeds.arboportaal.nl
 feeds.english.arboportaal.nl
 a-www.arboportaal.nl
 magazinesintern.english.arboportaal.nl
+zorgenwerknetwerk.arboportaal.nl

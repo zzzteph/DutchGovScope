@@ -12,7 +12,7 @@
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/rijkscloud.nl/subdomains.txt)|559|Alive subdomains|
-|[urls.txt](/data/rijkscloud.nl/urls.txt)|151|Urls|
+|[urls.txt](/data/rijkscloud.nl/urls.txt)|153|Urls|
 |[all_subdomains.txt](/data/rijkscloud.nl/all_subdomains.txt)|753|All found subdomains (history)|
 
 
@@ -172,4 +172,6 @@
 |[https://kennisbank.dfront.rijkscloud.nl](https://kennisbank.dfront.rijkscloud.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|Uno Documentatie|
 |[https://kpi.dfront.rijkscloud.nl](https://kpi.dfront.rijkscloud.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|Uno Documentatie|
 |[https://portal.ds-ocw.rijkscloud.nl](https://portal.ds-ocw.rijkscloud.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
+|[https://ip4.rijkscloud.nl](https://ip4.rijkscloud.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
+|[https://ip6.rijkscloud.nl](https://ip6.rijkscloud.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
 

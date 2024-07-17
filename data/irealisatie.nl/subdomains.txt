@@ -65,3 +65,5 @@ cts.test.woo.irealisatie.nl
 mailcatch.test.woo.irealisatie.nl
 test.woo.irealisatie.nl
 acc.mgo.irealisatie.nl
+qualification-admin.test.zm.irealisatie.nl
+qualification-api.test.zm.irealisatie.nl

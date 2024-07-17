@@ -4,10 +4,10 @@ title: "raadvanstate.nl"
 permalink: "/dutchgov/raadvanstate.nl.html"
 subdomains_count: 56
 all_subdomains_count: 56
-urls_count: 25
+urls_count: 27
 ssl_rank: 
-http_rank: C
-security_txt: 7
+http_rank: B
+security_txt: 8
 url_link: /data/raadvanstate.nl/urls.txt
 all_subdomains_link: /data/raadvanstate.nl/all_subdomains.txt
 subdomains_link: /data/raadvanstate.nl/subdomains.txt
@@ -21,14 +21,14 @@ tags: dutchgov
 
 
  - **SSL Grade**:
- - **HTTP Security Grade**:C
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:7
+ - **HTTP Security Grade**:B
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:8
 
 
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/DutchGovScope/data/raadvanstate.nl/subdomains.txt)|56|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/raadvanstate.nl/urls.txt)|25|Urls|
+|[urls.txt](/DutchGovScope/data/raadvanstate.nl/urls.txt)|27|Urls|
 |[all_subdomains.txt](/DutchGovScope/data/raadvanstate.nl/all_subdomains.txt)|56|All found subdomains (history)|
 
 
@@ -62,4 +62,6 @@ tags: dutchgov
 |[https://www.raadvanstate.nl](https://www.raadvanstate.nl)| | **B**|cloudflare| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Cloudflare HSTS Microsoft ASP.NET:-|Home - Raad van...|
 |[https://zittingsagenda.raadvanstate.nl](https://zittingsagenda.raadvanstate.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server||
 |[https://jaarverslag.raadvanstate.nl](https://jaarverslag.raadvanstate.nl)| | **B**|-| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS Microsoft ASP.NET:-|Object moved|
+|[https://radius-acc.raadvanstate.nl](https://radius-acc.raadvanstate.nl)| | **B**|Apache|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS||
+|[https://mijnzaak.raadvanstate.nl](https://mijnzaak.raadvanstate.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Object moved|
 

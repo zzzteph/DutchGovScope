@@ -306,4 +306,5 @@ http://beta8.overheid.nl
 https://community.developer.overheid.nl
 https://ftp.overheid.nl
 https://beta-wetten-acc.overheid.nl
-http://api.standaarden.overheid.nl
+https://api.standaarden.overheid.nl
+https://identifier-preprod.overheid.nl

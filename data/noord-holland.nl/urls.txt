@@ -24,7 +24,6 @@ https://cijfers.noord-holland.nl
 https://owas1.noord-holland.nl
 https://automation-node.datalab-prod.aws.noord-holland.nl
 https://geoapps.noord-holland.nl
-https://lyncdiscover.noord-holland.nl
 https://autodiscover.noord-holland.nl
 https://geoapps3.noord-holland.nl
 https://apollo.noord-holland.nl
@@ -66,4 +65,5 @@ https://www.openstad.noord-holland.nl
 https://enterpriseenrollment.noord-holland.nl
 https://enterpriseregistration.noord-holland.nl
 https://druktemonitor.noord-holland.nl
+https://ai.noord-holland.nl
 https://ios-api.noord-holland.nl

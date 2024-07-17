@@ -173,3 +173,6 @@ monet-dev.dnb.nl
 monet-tst.dnb.nl
 pla.dnb.nl
 services.sharepoint.dnb.nl
+tz-uitvragen-acc.dnb.nl
+tz-uitvragen-dev.dnb.nl
+tz-uitvragen-tst.dnb.nl

@@ -12,7 +12,7 @@
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/emissieautoriteit.nl/subdomains.txt)|29|Alive subdomains|
-|[urls.txt](/data/emissieautoriteit.nl/urls.txt)|16|Urls|
+|[urls.txt](/data/emissieautoriteit.nl/urls.txt)|17|Urls|
 |[all_subdomains.txt](/data/emissieautoriteit.nl/all_subdomains.txt)|41|All found subdomains (history)|
 
 
@@ -37,4 +37,5 @@
 |[https://preprodehp2.emissieautoriteit.nl](https://preprodehp2.emissieautoriteit.nl)| | **A**|nginx| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|403 Forbidden|
 |[https://preprodehpzee.emissieautoriteit.nl](https://preprodehpzee.emissieautoriteit.nl)| | **A**|nginx| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|403 Forbidden|
 |[https://ehpzee.emissieautoriteit.nl](https://ehpzee.emissieautoriteit.nl)| | **A**|nginx| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|Mendix|
+|[https://preprodmivp.emissieautoriteit.nl](https://preprodmivp.emissieautoriteit.nl)| | **A**|nginx| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|403 Forbidden|
 

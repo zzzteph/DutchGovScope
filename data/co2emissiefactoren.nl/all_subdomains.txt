@@ -5,3 +5,12 @@ co2emissiefactoren.nl
 atwww.co2emissiefactoren.nl
 vanwww.co2emissiefactoren.nl
 webmail.co2emissiefactoren.nl
+genericwww.co2emissiefactoren.nl
+petrolwww.co2emissiefactoren.nl
+taxiwww.co2emissiefactoren.nl
+basedwww.co2emissiefactoren.nl
+energywww.co2emissiefactoren.nl
+greywww.co2emissiefactoren.nl
+buswww.co2emissiefactoren.nl
+greenwww.co2emissiefactoren.nl
+dieselwww.co2emissiefactoren.nl
