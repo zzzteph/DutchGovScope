@@ -213,7 +213,6 @@ eux-tao.belastingdienst.nl
 evat-test2.belastingdienst.nl
 event.acc.belastingdienst.nl
 event.belastingdienst.nl
-event.tst.belastingdienst.nl
 evvv.belastingdienst.nl
 extern-abv-acc.belastingdienst.nl
 extgmea02.ss.belastingdienst.nl
@@ -454,6 +453,7 @@ b2b-osb.belastingdienst.nl
 proxy.socint.belastingdienst.nl
 psproxy-tao1.belastingdienst.nl
 webdiensten-conf1.belastingdienst.nl
+mijn.acc.belastingdienst.nl
 gtmb.str11.acc.belastingdienst.nl
 sadp.acc.belastingdienst.nl
 webservices-test2.belastingdienst.nl

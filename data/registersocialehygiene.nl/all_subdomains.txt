@@ -11,3 +11,4 @@ opendata.registersocialehygiene.nl
 a-feeds.registersocialehygiene.nl
 a-opendata.registersocialehygiene.nl
 a-www.registersocialehygiene.nl
+beheer.registersocialehygiene.nl

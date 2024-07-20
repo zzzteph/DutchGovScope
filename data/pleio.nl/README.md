@@ -13,7 +13,7 @@
 |------------|-------|------|
 |[subdomains.txt](/data/pleio.nl/subdomains.txt)|2472|Alive subdomains|
 |[urls.txt](/data/pleio.nl/urls.txt)|1781|Urls|
-|[all_subdomains.txt](/data/pleio.nl/all_subdomains.txt)|6759|All found subdomains (history)|
+|[all_subdomains.txt](/data/pleio.nl/all_subdomains.txt)|7235|All found subdomains (history)|
 
 
 ## Statistics

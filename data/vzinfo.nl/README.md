@@ -28,5 +28,5 @@
 |[http://nzrdashboard.vzinfo.nl](http://nzrdashboard.vzinfo.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://sterftedashboard-regionaal.vzinfo.nl](https://sterftedashboard-regionaal.vzinfo.nl)| **A+**| **C**||:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | |Bootstrap:4.6.0 HSTS React||
 |[https://mondgezondheidsdashboard.vzinfo.nl](https://mondgezondheidsdashboard.vzinfo.nl)| **A+**| **C**||:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | |Bootstrap:5.2.2 HSTS||
-|[http://ziektelast.vzinfo.nl](http://ziektelast.vzinfo.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
+|[https://ziektelast.vzinfo.nl](https://ziektelast.vzinfo.nl)| | **B**||:white_check_mark: |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | |Bootstrap:4.6.0 HSTS React|Ziektelast VZinf...|
 

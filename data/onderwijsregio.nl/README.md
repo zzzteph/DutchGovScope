@@ -11,7 +11,7 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/onderwijsregio.nl/subdomains.txt)|0|Alive subdomains|
+|[subdomains.txt](/data/onderwijsregio.nl/subdomains.txt)|4|Alive subdomains|
 |[urls.txt](/data/onderwijsregio.nl/urls.txt)|0|Urls|
 |[all_subdomains.txt](/data/onderwijsregio.nl/all_subdomains.txt)|7|All found subdomains (history)|
 

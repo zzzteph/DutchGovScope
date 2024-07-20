@@ -4,7 +4,7 @@ title: "provincie-utrecht.nl"
 permalink: "/dutchgov/provincie-utrecht.nl.html"
 subdomains_count: 114
 all_subdomains_count: 191
-urls_count: 94
+urls_count: 95
 ssl_rank: A-
 http_rank: C
 security_txt: 37
@@ -28,7 +28,7 @@ tags: dutchgov
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/DutchGovScope/data/provincie-utrecht.nl/subdomains.txt)|114|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/provincie-utrecht.nl/urls.txt)|94|Urls|
+|[urls.txt](/DutchGovScope/data/provincie-utrecht.nl/urls.txt)|95|Urls|
 |[all_subdomains.txt](/DutchGovScope/data/provincie-utrecht.nl/all_subdomains.txt)|191|All found subdomains (history)|
 
 
@@ -131,4 +131,5 @@ tags: dutchgov
 |[http://localhost.provincie-utrecht.nl](http://localhost.provincie-utrecht.nl)| | **F**|nginx| | | :warning:| | | | | :white_check_mark: | |Nginx|(404 Not Found)|
 |[https://rmb.provincie-utrecht.nl](https://rmb.provincie-utrecht.nl)| | **C**|Apache| |:white_check_mark: | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
 |[https://ib-preprod.provincie-utrecht.nl](https://ib-preprod.provincie-utrecht.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS Java||
+|[https://atlas-ontw.provincie-utrecht.nl](https://atlas-ontw.provincie-utrecht.nl)| | **E**|Apache|:o: |:white_check_mark: | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
 

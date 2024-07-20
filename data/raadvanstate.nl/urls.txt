@@ -25,3 +25,6 @@ https://zittingsagenda.raadvanstate.nl
 https://jaarverslag.raadvanstate.nl
 https://radius-acc.raadvanstate.nl
 https://mijnzaak.raadvanstate.nl
+https://enterpriseenrollment.raadvanstate.nl
+https://enterpriseregistration.raadvanstate.nl
+http://kennisbank.raadvanstate.nl

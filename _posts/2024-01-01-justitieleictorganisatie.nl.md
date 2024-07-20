@@ -3,7 +3,7 @@ layout: default
 title: "justitieleictorganisatie.nl"
 permalink: "/dutchgov/justitieleictorganisatie.nl.html"
 subdomains_count: 10
-all_subdomains_count: 10
+all_subdomains_count: 13
 urls_count: 7
 ssl_rank: A+
 http_rank: A
@@ -29,7 +29,7 @@ tags: dutchgov
 |------------|-------|------|
 |[subdomains.txt](/DutchGovScope/data/justitieleictorganisatie.nl/subdomains.txt)|10|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/justitieleictorganisatie.nl/urls.txt)|7|Urls|
-|[all_subdomains.txt](/DutchGovScope/data/justitieleictorganisatie.nl/all_subdomains.txt)|10|All found subdomains (history)|
+|[all_subdomains.txt](/DutchGovScope/data/justitieleictorganisatie.nl/all_subdomains.txt)|13|All found subdomains (history)|
 
 
 ## Statistics

@@ -192,3 +192,5 @@ webdisk.beta.tweedekamer.nl
 cms.beta.tweedekamer.nl
 rijksadresgids.tweedekamer.nl
 avgregister.tweedekamer.nl
+webmail.beta.tweedekamer.nl
+images.beta.tweedekamer.nl

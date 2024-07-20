@@ -84,3 +84,4 @@ https://design.ndw.nu
 https://sentry.ndw.nu
 https://viz.ndw.nu
 https://daisi.ndw.nu
+https://internal-docs.ndw.nu

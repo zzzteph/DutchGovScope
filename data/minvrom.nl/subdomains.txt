@@ -1,6 +1,5 @@
 minvrom.nl
 www.minvrom.nl
-autodiscover.minvrom.nl
 webmail.minvrom.nl
 filetransfer.minvrom.nl
 ipg.minvrom.nl

@@ -109,3 +109,4 @@ enterpriseregistration.test.rechtwijzer.nl
 vpn.test.rechtwijzer.nl
 cpcalendars.test.rechtwijzer.nl
 dashboard.test.rechtwijzer.nl
+backoffice.test.rechtwijzer.nl

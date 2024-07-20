@@ -11,7 +11,7 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/ahn.nl/subdomains.txt)|4394|Alive subdomains|
+|[subdomains.txt](/data/ahn.nl/subdomains.txt)|4769|Alive subdomains|
 |[urls.txt](/data/ahn.nl/urls.txt)|5|Urls|
 |[all_subdomains.txt](/data/ahn.nl/all_subdomains.txt)|5163|All found subdomains (history)|
 

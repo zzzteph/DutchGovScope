@@ -30,5 +30,7 @@ kpn-eid-dev.sso.eherkenning.nl
 kpn-eid-tst.sso.eherkenning.nl
 reconi-etoegang-tst.sso.eherkenning.nl
 wiki-acc.eherkenning.nl
+kpn-eid-xtst.sso.eherkenning.nl
+kpn-eid-xdev.sso.eherkenning.nl
 acceptatie.eherkenning.nl
 www-acc.eherkenning.nl

@@ -92,3 +92,4 @@ https://ris.provincie-utrecht.nl
 http://localhost.provincie-utrecht.nl
 https://rmb.provincie-utrecht.nl
 https://ib-preprod.provincie-utrecht.nl
+https://atlas-ontw.provincie-utrecht.nl

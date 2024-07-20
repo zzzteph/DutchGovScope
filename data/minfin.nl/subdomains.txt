@@ -8,7 +8,6 @@ minfin.nl
 mijnschatkist.minfin.nl
 accremote.minfin.nl
 acctoken.minfin.nl
-accvpn.minfin.nl
 sa.minfin.nl
 adr-api-acc.minfin.nl
 adr-api.minfin.nl
@@ -26,7 +25,6 @@ prinsjesdag.minfin.nl
 jongeren.minfin.nl
 pps.minfin.nl
 preview.minfin.nl
-vpb2007.minfin.nl
 rbv2010.minfin.nl
 rbv2011.minfin.nl
 www.rbv2009.minfin.nl
@@ -45,14 +43,12 @@ rijksbegroting2003.minfin.nl
 rijksbegroting2004.minfin.nl
 rijksbegroting2005.minfin.nl
 schatkistbankieren-a.minfin.nl
-schatkistbankieren-mig.minfin.nl
 schatkistbankieren-t.minfin.nl
 schatkistbankieren-test-mig.minfin.nl
 schatkistbankieren-test.minfin.nl
 schatkistbankieren.minfin.nl
 sdm.minfin.nl
 sip.minfin.nl
-sip.myroom.minfin.nl
 skb-prod.minfin.nl
 skb-staging.minfin.nl
 skb-staging-a.minfin.nl

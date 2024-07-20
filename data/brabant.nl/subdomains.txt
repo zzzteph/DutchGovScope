@@ -152,3 +152,5 @@ corsa-acpt.brabant.nl
 bgt-test.brabant.nl
 voi.brabant.nl
 esb-t1.brabant.nl
+esb-a1.brabant.nl
+esb-p1.brabant.nl

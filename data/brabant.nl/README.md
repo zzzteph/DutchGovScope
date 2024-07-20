@@ -11,8 +11,8 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/brabant.nl/subdomains.txt)|154|Alive subdomains|
-|[urls.txt](/data/brabant.nl/urls.txt)|81|Urls|
+|[subdomains.txt](/data/brabant.nl/subdomains.txt)|156|Alive subdomains|
+|[urls.txt](/data/brabant.nl/urls.txt)|82|Urls|
 |[all_subdomains.txt](/data/brabant.nl/all_subdomains.txt)|244|All found subdomains (history)|
 
 
@@ -102,4 +102,5 @@
 |[https://corsa2023.brabant.nl](https://corsa2023.brabant.nl)| | **F**|Microsoft-Azure-Application-Gateway/v2| | | | | | | | :white_check_mark: | ||404 Not Found|
 |[https://corsa-acpt.brabant.nl](https://corsa-acpt.brabant.nl)| | **F**|Microsoft-IIS/10.0| | | | | | | | :white_check_mark: | |IIS:10.0 Windows Server|IIS Windows Serv...|
 |[https://voi.brabant.nl](https://voi.brabant.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Google Tag Manager HSTS Microsoft ASP.NET|Home Voi.brabant...|
+|[https://esb-t1.brabant.nl](https://esb-t1.brabant.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
 

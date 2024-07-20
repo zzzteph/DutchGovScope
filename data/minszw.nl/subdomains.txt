@@ -6,7 +6,6 @@ www.gemeenteloket.minszw.nl
 testsiam.minszw.nl
 cms.gemeenteloket.minszw.nl
 sip.minszw.nl
-sip.myroom.minszw.nl
 smtp02.minszw.nl
 webmail.minszw.nl
 onva-3f.minszw.nl

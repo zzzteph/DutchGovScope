@@ -6,14 +6,14 @@
 
  - **SSL Grade**:A-
  - **HTTP Security Grade**:E
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:9936
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:9937
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/mett.nl/subdomains.txt)|26876|Alive subdomains|
-|[urls.txt](/data/mett.nl/urls.txt)|26373|Urls|
-|[all_subdomains.txt](/data/mett.nl/all_subdomains.txt)|29811|All found subdomains (history)|
+|[subdomains.txt](/data/mett.nl/subdomains.txt)|28528|Alive subdomains|
+|[urls.txt](/data/mett.nl/urls.txt)|26379|Urls|
+|[all_subdomains.txt](/data/mett.nl/all_subdomains.txt)|29816|All found subdomains (history)|
 
 
 ## Statistics
@@ -26394,4 +26394,10 @@
 |[http://homo-lesbo-dating.mett.nl](http://homo-lesbo-dating.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[http://maarn.mett.nl](http://maarn.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[http://lcdn.mett.nl](http://lcdn.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
+|[http://mettdocs.mett.nl](http://mettdocs.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
+|[http://omwb.mett.nl](http://omwb.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
+|[http://www.de9straatjes.mett.nl](http://www.de9straatjes.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
+|[http://denieuweregio.mett.nl](http://denieuweregio.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
+|[http://mta-sts.mett.nl](http://mta-sts.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
+|[http://drontenikpraatmee.mett.nl](http://drontenikpraatmee.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 

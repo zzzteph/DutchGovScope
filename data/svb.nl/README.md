@@ -12,7 +12,7 @@
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/svb.nl/subdomains.txt)|152|Alive subdomains|
-|[urls.txt](/data/svb.nl/urls.txt)|57|Urls|
+|[urls.txt](/data/svb.nl/urls.txt)|56|Urls|
 |[all_subdomains.txt](/data/svb.nl/all_subdomains.txt)|284|All found subdomains (history)|
 
 
@@ -77,5 +77,4 @@
 |[https://apim-icc.svb.nl](https://apim-icc.svb.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://enterpriseenrollment.svb.nl](https://enterpriseenrollment.svb.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||
 |[https://enterpriseregistration.svb.nl](https://enterpriseregistration.svb.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
-|[https://canary-svb.svb.nl](https://canary-svb.svb.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS|Redirect|
 

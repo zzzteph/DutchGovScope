@@ -6,13 +6,13 @@
 
  - **SSL Grade**:B
  - **HTTP Security Grade**:C
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:55
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:56
 
 
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/ndw.nu/subdomains.txt)|98|Alive subdomains|
-|[urls.txt](/data/ndw.nu/urls.txt)|86|Urls|
+|[urls.txt](/data/ndw.nu/urls.txt)|87|Urls|
 |[all_subdomains.txt](/data/ndw.nu/all_subdomains.txt)|125|All found subdomains (history)|
 
 
@@ -107,4 +107,5 @@
 |[https://sentry.ndw.nu](https://sentry.ndw.nu)| | **E**||:o: | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |||
 |[https://viz.ndw.nu](https://viz.ndw.nu)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://daisi.ndw.nu](https://daisi.ndw.nu)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS Nginx|Daisi|
+|[https://internal-docs.ndw.nu](https://internal-docs.ndw.nu)| | **A**||:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |||
 

@@ -1339,3 +1339,6 @@ facades-verification.labs.dans.knaw.nl
 oat.acc.huc.knaw.nl
 web31.knaw.nl
 www04.niod.knaw.nl
+oat.dev.huc.knaw.nl
+arrestanten40-45.niod.knaw.nl
+declaree.knaw.nl

@@ -2,7 +2,7 @@
 layout: default
 title: "eherkenning.nl"
 permalink: "/dutchgov/eherkenning.nl.html"
-subdomains_count: 34
+subdomains_count: 36
 all_subdomains_count: 78
 urls_count: 21
 ssl_rank: A+
@@ -27,7 +27,7 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/eherkenning.nl/subdomains.txt)|34|Alive subdomains|
+|[subdomains.txt](/DutchGovScope/data/eherkenning.nl/subdomains.txt)|36|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/eherkenning.nl/urls.txt)|21|Urls|
 |[all_subdomains.txt](/DutchGovScope/data/eherkenning.nl/all_subdomains.txt)|78|All found subdomains (history)|
 

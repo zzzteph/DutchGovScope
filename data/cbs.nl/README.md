@@ -11,7 +11,7 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/cbs.nl/subdomains.txt)|227|Alive subdomains|
+|[subdomains.txt](/data/cbs.nl/subdomains.txt)|226|Alive subdomains|
 |[urls.txt](/data/cbs.nl/urls.txt)|178|Urls|
 |[all_subdomains.txt](/data/cbs.nl/all_subdomains.txt)|307|All found subdomains (history)|
 
