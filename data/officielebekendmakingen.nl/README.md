@@ -6,12 +6,12 @@
 
  - **SSL Grade**:A+
  - **HTTP Security Grade**:B
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:4
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:1
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/officielebekendmakingen.nl/subdomains.txt)|29|Alive subdomains|
+|[subdomains.txt](/data/officielebekendmakingen.nl/subdomains.txt)|32|Alive subdomains|
 |[urls.txt](/data/officielebekendmakingen.nl/urls.txt)|18|Urls|
 |[all_subdomains.txt](/data/officielebekendmakingen.nl/all_subdomains.txt)|74|All found subdomains (history)|
 
@@ -30,9 +30,9 @@
 |[http://publicatieservice-bms-acc.officielebekendmakingen.nl](http://publicatieservice-bms-acc.officielebekendmakingen.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[http://publicatieservice-rps-acc.officielebekendmakingen.nl](http://publicatieservice-rps-acc.officielebekendmakingen.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://vpn-nabs.officielebekendmakingen.nl](https://vpn-nabs.officielebekendmakingen.nl)| **B**| **E**|OpenVPN-AS| | | | | | :white_check_mark: | | :white_check_mark: | |||
-|[https://www.officielebekendmakingen.nl](https://www.officielebekendmakingen.nl)| **A+**| **A**||:warning: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET|Zoeken in alle d...|
-|[https://zoek.officielebekendmakingen.nl](https://zoek.officielebekendmakingen.nl)| **A+**| **A**||:warning: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
-|[https://officielebekendmakingen.nl](https://officielebekendmakingen.nl)| **A+**| **A**|BigIP|:warning: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |F5 BigIP HSTS||
+|[https://www.officielebekendmakingen.nl](https://www.officielebekendmakingen.nl)| **A+**| **C**||:warning: |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS Microsoft ASP.NET|Zoeken in alle d...|
+|[https://zoek.officielebekendmakingen.nl](https://zoek.officielebekendmakingen.nl)| **A+**| **C**||:warning: |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS||
+|[https://officielebekendmakingen.nl](https://officielebekendmakingen.nl)| **A+**| **C**|BigIP|:warning: |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |F5 BigIP HSTS||
 |[https://zoek-preprod.officielebekendmakingen.nl](https://zoek-preprod.officielebekendmakingen.nl)| **A+**| **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|403 Forbidden|
 |[https://www-preprod.officielebekendmakingen.nl](https://www-preprod.officielebekendmakingen.nl)| **A+**| **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|403 Forbidden|
 |[https://zoek-acc.officielebekendmakingen.nl](https://zoek-acc.officielebekendmakingen.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|403 Forbidden|

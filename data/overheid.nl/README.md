@@ -6,13 +6,13 @@
 
  - **SSL Grade**:A
  - **HTTP Security Grade**:B
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:155
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:158
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/overheid.nl/subdomains.txt)|58663|Alive subdomains|
-|[urls.txt](/data/overheid.nl/urls.txt)|310|Urls|
+|[subdomains.txt](/data/overheid.nl/subdomains.txt)|58668|Alive subdomains|
+|[urls.txt](/data/overheid.nl/urls.txt)|315|Urls|
 |[all_subdomains.txt](/data/overheid.nl/all_subdomains.txt)|62394|All found subdomains (history)|
 
 
@@ -331,4 +331,9 @@
 |[https://beta-wetten-acc.overheid.nl](https://beta-wetten-acc.overheid.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS|Eenvoudig zoeken...|
 |[https://api.standaarden.overheid.nl](https://api.standaarden.overheid.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
 |[https://identifier-preprod.overheid.nl](https://identifier-preprod.overheid.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|URI - Performer...|
+|[https://resolver.int.omgevingswet.overheid.nl](https://resolver.int.omgevingswet.overheid.nl)| | **C**|Unspecified| |:white_check_mark: | | | | | | :white_check_mark: | |Basic HSTS|401 Authorizatio...|
+|[https://resolver.kta.omgevingswet.overheid.nl](https://resolver.kta.omgevingswet.overheid.nl)| | **C**|Unspecified| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
+|[https://resolver.omgevingswet.overheid.nl](https://resolver.omgevingswet.overheid.nl)| | **C**|unspecified| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
+|[https://resolver.pfm.omgevingswet.overheid.nl](https://resolver.pfm.omgevingswet.overheid.nl)| | **C**|Unspecified| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
+|[https://resolver.pre.omgevingswet.overheid.nl](https://resolver.pre.omgevingswet.overheid.nl)| | **C**|unspecified| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
 

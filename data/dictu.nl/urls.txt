@@ -73,3 +73,5 @@ https://vpnb-tst.dictu.nl
 https://test2.dictu.nl
 https://acc2.dictu.nl
 https://we-share.dictu.nl
+https://trillingsdata-acc.dictu.nl
+https://trillingsdata.dictu.nl

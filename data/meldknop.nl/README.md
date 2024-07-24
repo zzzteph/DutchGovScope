@@ -12,7 +12,7 @@
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/meldknop.nl/subdomains.txt)|119|Alive subdomains|
-|[urls.txt](/data/meldknop.nl/urls.txt)|112|Urls|
+|[urls.txt](/data/meldknop.nl/urls.txt)|119|Urls|
 |[all_subdomains.txt](/data/meldknop.nl/all_subdomains.txt)|119|All found subdomains (history)|
 
 
@@ -133,4 +133,11 @@
 |[https://www.cyberpestendebaas.nlwww.meldknop.nl](https://www.cyberpestendebaas.nlwww.meldknop.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx||
 |[https://www.i-respect.nlwww.cyberpestendebaas.nlwww.meldknop.nl](https://www.i-respect.nlwww.cyberpestendebaas.nlwww.meldknop.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx||
 |[https://uur.meldknop.nl](https://uur.meldknop.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx||
+|[https://lwww.meldknop.nl](https://lwww.meldknop.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx||
+|[https://www.pratenmetuwkind.nlwww.meldknop.nl](https://www.pratenmetuwkind.nlwww.meldknop.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx||
+|[https://www.lover-boy.nlwww.lovingmelovingyou.nlwww.meldknop.nl](https://www.lover-boy.nlwww.lovingmelovingyou.nlwww.meldknop.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx||
+|[https://www.lovelimits.nlwww.lover-boy.nlwww.lovingmelovingyou.nlwww.meldknop.nl](https://www.lovelimits.nlwww.lover-boy.nlwww.lovingmelovingyou.nlwww.meldknop.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx||
+|[https://luchten.meldknop.nl](https://luchten.meldknop.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx||
+|[https://www.lovingmelovingyou.nlwww.meldknop.nl](https://www.lovingmelovingyou.nlwww.meldknop.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx||
+|[https://www.hoezomediawijs.nlwww.meldknop.nl](https://www.hoezomediawijs.nlwww.meldknop.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx||
 

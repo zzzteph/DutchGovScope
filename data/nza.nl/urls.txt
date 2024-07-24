@@ -28,7 +28,6 @@ http://crm.nza.nl
 https://nza-form2.nza.nl
 https://itsupport.nza.nl
 https://hybrid.nza.nl
-https://zorgvraagtypering-test.nza.nl
 https://tovertool.nza.nl
 https://wachttijden.nza.nl
 https://mta-sts.nza.nl

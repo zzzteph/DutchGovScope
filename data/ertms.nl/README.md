@@ -12,7 +12,7 @@
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/ertms.nl/subdomains.txt)|11|Alive subdomains|
-|[urls.txt](/data/ertms.nl/urls.txt)|5|Urls|
+|[urls.txt](/data/ertms.nl/urls.txt)|7|Urls|
 |[all_subdomains.txt](/data/ertms.nl/all_subdomains.txt)|11|All found subdomains (history)|
 
 
@@ -26,4 +26,6 @@
 |[http://ertms.nl](http://ertms.nl)| **A+**| **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET||
 |[http://ns1.ertms.nl](http://ns1.ertms.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[http://elink.ertms.nl](http://elink.ertms.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
+|[http://vakantie-frankrijk.ertms.nl](http://vakantie-frankrijk.ertms.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
+|[http://click.enews.ertms.nl](http://click.enews.ertms.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 

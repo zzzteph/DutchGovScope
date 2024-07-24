@@ -99,7 +99,6 @@ wachtwoord.brabant.nl
 ns4.brabant.nl
 mail231.brabant.nl
 mail230.brabant.nl
-huisstijl.brabant.nl
 mik.brabant.nl
 www-ontw.brabant.nl
 storefronttest.brabant.nl

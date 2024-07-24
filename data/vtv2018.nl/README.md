@@ -23,6 +23,6 @@
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[http://acceptatie.vtv2018.nl](http://acceptatie.vtv2018.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[http://test.vtv2018.nl](http://test.vtv2018.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
-|[https://www.vtv2018.nl](https://www.vtv2018.nl)| **A+**| **A**|Apache| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server Drupal HSTS PHP|Een gezond vooru...|
-|[https://vtv2018.nl](https://vtv2018.nl)| **A+**| **A**|Apache| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS|301 Moved Perman...|
+|[https://www.vtv2018.nl](https://www.vtv2018.nl)| **A+**| **A**|Apache/2.4.37 (Red Hat Enterprise Linux)| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server:2.4.37 Drupal HSTS PHP:8.1.29 Red Hat|Een gezond vooru...|
+|[https://vtv2018.nl](https://vtv2018.nl)| **A+**| **A**|Apache/2.4.37 (Red Hat Enterprise Linux)| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server:2.4.37 HSTS Red Hat|301 Moved Perman...|
 

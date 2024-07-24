@@ -25,7 +25,7 @@
 |[https://api.minbuza.nl](https://api.minbuza.nl)| **B**| **E**|| | | | | | | | :white_check_mark: | |||
 |[https://apiacc.minbuza.nl](https://apiacc.minbuza.nl)| **B**| **E**|| | | | | | | | :white_check_mark: | |||
 |[https://dev.ecer.minbuza.nl](https://dev.ecer.minbuza.nl)| **A**| **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|403 Forbidden|
-|[https://ecer.minbuza.nl](https://ecer.minbuza.nl)| **A+**| **A**|Apache|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS Java|Home | Expertise...|
+|[https://ecer.minbuza.nl](https://ecer.minbuza.nl)| **A+**| **A**|Apache|:warning: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS Java|Home | Expertise...|
 |[https://edge01.minbuza.nl](https://edge01.minbuza.nl)| **A+**| **C**|CE_E| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|Bad Request|
 |[https://edge02.minbuza.nl](https://edge02.minbuza.nl)| **A+**| **C**|CE_E| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|Bad Request|
 |[https://sip.minbuza.nl](https://sip.minbuza.nl)| **A+**| **C**|CE_E| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|Bad Request|

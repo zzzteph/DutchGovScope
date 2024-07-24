@@ -52,7 +52,6 @@ https://draf.brabant.nl
 https://samenwerken.brabant.nl
 http://atlas-acpt.brabant.nl
 https://wachtwoord.brabant.nl
-https://huisstijl.brabant.nl
 http://torenvalk.brabant.nl
 https://opendata.brabant.nl
 https://brainps.brabant.nl

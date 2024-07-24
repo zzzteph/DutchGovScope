@@ -18,7 +18,6 @@ meldingwd.odmh.nl
 meldingbwt.odmh.nl
 geluidskaart.odmh.nl
 digikoppeling.odmh.nl
-access.odmh.nl
 core.odmh.nl
 adfs2.odmh.nl
 geotest.odmh.nl

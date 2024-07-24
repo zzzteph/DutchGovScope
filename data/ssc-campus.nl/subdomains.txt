@@ -27,8 +27,6 @@ mail-relay.ssc-campus.nl
 ns1.ssc-campus.nl
 ns2.ssc-campus.nl
 www2.ssc-campus.nl
-supportcenter.ssc-campus.nl
-www.login.ssc-campus.nl
 radius.ssc-campus.nl
 localhost.ssc-campus.nl
 radius1.ssc-campus.nl

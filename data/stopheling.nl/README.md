@@ -12,7 +12,7 @@
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/stopheling.nl/subdomains.txt)|22|Alive subdomains|
-|[urls.txt](/data/stopheling.nl/urls.txt)|19|Urls|
+|[urls.txt](/data/stopheling.nl/urls.txt)|20|Urls|
 |[all_subdomains.txt](/data/stopheling.nl/all_subdomains.txt)|35|All found subdomains (history)|
 
 
@@ -40,4 +40,5 @@
 |[https://ltu-api.stopheling.nl](https://ltu-api.stopheling.nl)| | **F**|nginx/1.18.0 (Ubuntu)| | | | | | | | :white_check_mark: | |Nginx:1.18.0 Ubuntu|Welcome to nginx...|
 |[https://accp-bp.stopheling.nl](https://accp-bp.stopheling.nl)| | **D**|Microsoft-IIS/10.0|:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | |Azure HSTS IIS:10.0 Windows Server|Bedrijvenportaal...|
 |[https://test-developer.stopheling.nl](https://test-developer.stopheling.nl)| | **C**|Microsoft-IIS/10.0|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Azure HSTS IIS:10.0 Microsoft ASP.NET Windows Server||
+|[https://bp.stopheling.nl](https://bp.stopheling.nl)| | **D**|Microsoft-IIS/10.0|:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | |Azure HSTS IIS:10.0 Windows Server|Bedrijvenportaal...|
 

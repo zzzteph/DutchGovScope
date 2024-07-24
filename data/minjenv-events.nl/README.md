@@ -6,13 +6,13 @@
 
  - **SSL Grade**:A+
  - **HTTP Security Grade**:A
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:35
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:36
 
 
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/minjenv-events.nl/subdomains.txt)|36|Alive subdomains|
-|[urls.txt](/data/minjenv-events.nl/urls.txt)|35|Urls|
+|[urls.txt](/data/minjenv-events.nl/urls.txt)|36|Urls|
 |[all_subdomains.txt](/data/minjenv-events.nl/all_subdomains.txt)|36|All found subdomains (history)|
 
 
@@ -56,4 +56,5 @@
 |[https://calamiteitenvreemdelingenketen.minjenv-events.nl](https://calamiteitenvreemdelingenketen.minjenv-events.nl)| | **A**|nginx| |:white_check_mark: | :warning:| |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx Plesk||
 |[https://telandterzeeenviadelucht.minjenv-events.nl](https://telandterzeeenviadelucht.minjenv-events.nl)| | **A**|nginx| |:white_check_mark: | :warning:| |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx Plesk||
 |[https://grenzeloosontnemen.minjenv-events.nl](https://grenzeloosontnemen.minjenv-events.nl)| | **A**|nginx| |:white_check_mark: | :warning:| |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx Plesk||
+|[https://prisonhealth2024.minjenv-events.nl](https://prisonhealth2024.minjenv-events.nl)| | **A**|nginx| |:white_check_mark: | :warning:| |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx Plesk||
 

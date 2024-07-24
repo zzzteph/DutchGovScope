@@ -2,11 +2,11 @@
 layout: default
 title: "prettigcontactmetdeoverheid.nl"
 permalink: "/dutchgov/prettigcontactmetdeoverheid.nl.html"
-subdomains_count: 8
+subdomains_count: 3
 all_subdomains_count: 11
-urls_count: 8
+urls_count: 3
 ssl_rank: B-
-http_rank: E
+http_rank: D
 security_txt: 0
 url_link: /data/prettigcontactmetdeoverheid.nl/urls.txt
 all_subdomains_link: /data/prettigcontactmetdeoverheid.nl/all_subdomains.txt
@@ -21,14 +21,14 @@ tags: dutchgov
 
 
  - **SSL Grade**:B-
- - **HTTP Security Grade**:E
+ - **HTTP Security Grade**:D
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:0
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/prettigcontactmetdeoverheid.nl/subdomains.txt)|8|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/prettigcontactmetdeoverheid.nl/urls.txt)|8|Urls|
+|[subdomains.txt](/DutchGovScope/data/prettigcontactmetdeoverheid.nl/subdomains.txt)|3|Alive subdomains|
+|[urls.txt](/DutchGovScope/data/prettigcontactmetdeoverheid.nl/urls.txt)|3|Urls|
 |[all_subdomains.txt](/DutchGovScope/data/prettigcontactmetdeoverheid.nl/all_subdomains.txt)|11|All found subdomains (history)|
 
 
@@ -40,9 +40,4 @@ tags: dutchgov
 |[https://mail.prettigcontactmetdeoverheid.nl](https://mail.prettigcontactmetdeoverheid.nl)| **F**| **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|Domein niet gevo...|
 |[https://www.prettigcontactmetdeoverheid.nl](https://www.prettigcontactmetdeoverheid.nl)| **A+**| **C**|Apache| |:white_check_mark: | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|Website afgeslot...|
 |[https://prettigcontactmetdeoverheid.nl](https://prettigcontactmetdeoverheid.nl)| **A+**| **C**|Apache| |:white_check_mark: | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|Website afgeslot...|
-|[https://autoconfig.prettigcontactmetdeoverheid.nl](https://autoconfig.prettigcontactmetdeoverheid.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|301 Moved Perman...|
-|[https://autodiscover.prettigcontactmetdeoverheid.nl](https://autodiscover.prettigcontactmetdeoverheid.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|301 Moved Perman...|
-|[https://ftp.prettigcontactmetdeoverheid.nl](https://ftp.prettigcontactmetdeoverheid.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|Domein niet gevo...|
-|[https://pop.prettigcontactmetdeoverheid.nl](https://pop.prettigcontactmetdeoverheid.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|Domein niet gevo...|
-|[https://smtp.prettigcontactmetdeoverheid.nl](https://smtp.prettigcontactmetdeoverheid.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|Domein niet gevo...|
 

@@ -16,12 +16,15 @@ identifier-acc.officielebekendmakingen.nl
 web02-nabs.officielebekendmakingen.nl
 coldip-acc.officielebekendmakingen.nl
 zoek-acc.officielebekendmakingen.nl
+stage.officielebekendmakingen.nl
+beheersite-op-acc.officielebekendmakingen.nl
 zoek-eto.officielebekendmakingen.nl
 tfs.officielebekendmakingen.nl
 coldip.officielebekendmakingen.nl
 www-tst.officielebekendmakingen.nl
 web01-nabs.officielebekendmakingen.nl
 zoek-tst.officielebekendmakingen.nl
+beheersite-op.officielebekendmakingen.nl
 www-acc.officielebekendmakingen.nl
 bestanden.officielebekendmakingen.nl
 localhost.officielebekendmakingen.nl

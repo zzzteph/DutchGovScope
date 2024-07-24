@@ -11,9 +11,9 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/biedboek.nl/subdomains.txt)|3502|Alive subdomains|
+|[subdomains.txt](/data/biedboek.nl/subdomains.txt)|3501|Alive subdomains|
 |[urls.txt](/data/biedboek.nl/urls.txt)|3501|Urls|
-|[all_subdomains.txt](/data/biedboek.nl/all_subdomains.txt)|3505|All found subdomains (history)|
+|[all_subdomains.txt](/data/biedboek.nl/all_subdomains.txt)|3508|All found subdomains (history)|
 
 
 ## Statistics
@@ -162,7 +162,7 @@
 |[https://alice-staging.biedboek.nl](https://alice-staging.biedboek.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Microsoft Azure...|
 |[https://php-hosting.biedboek.nl](https://php-hosting.biedboek.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Microsoft Azure...|
 |[https://aqua-hotel-montagut.biedboek.nl](https://aqua-hotel-montagut.biedboek.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Microsoft Azure...|
-|[http://autodiscover.biedboek.nl](http://autodiscover.biedboek.nl)| | **B**|Microsoft-IIS/10.0|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server||
+|[http://autodiscover.biedboek.nl](http://autodiscover.biedboek.nl)| | **C**|Microsoft-IIS/10.0| |:white_check_mark: | | | | | | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server||
 |[https://enterpriseenrollment.biedboek.nl](https://enterpriseenrollment.biedboek.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||
 |[https://enterpriseregistration.biedboek.nl](https://enterpriseregistration.biedboek.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[http://localhost.biedboek.nl](http://localhost.biedboek.nl)| | **F**|nginx| | | :warning:| | | | | :white_check_mark: | |Nginx|(404 Not Found)|

@@ -58661,3 +58661,8 @@ buydomains.overheid.nl
 taekwondo.overheid.nl
 web18012.overheid.nl
 fastprodownloads.overheid.nl
+api.tst0.mijn.overheid.nl
+cbm.tst0.mijn.overheid.nl
+gegevensdelen.tst0.mijn.overheid.nl
+static.tst0.mijn.overheid.nl
+tst0.mijn.overheid.nl

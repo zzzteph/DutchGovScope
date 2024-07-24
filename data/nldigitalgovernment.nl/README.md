@@ -6,7 +6,7 @@
 
  - **SSL Grade**:A+
  - **HTTP Security Grade**:C
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:3
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:2
 
 
 | File       | Count | Info |
@@ -22,7 +22,7 @@
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[https://accept.nldigitalgovernment.nl](https://accept.nldigitalgovernment.nl)| **A+**| **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |Basic HSTS Nginx|401 Authorizatio...|
-|[https://www.nldigitalgovernment.nl](https://www.nldigitalgovernment.nl)| **A+**| **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS MySQL Nginx PHP:8.2.20 WordPress:6.5.5 Yoast SEO:22.9|Home - Digital G...|
+|[https://www.nldigitalgovernment.nl](https://www.nldigitalgovernment.nl)| **A+**| **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS MySQL Nginx PHP:8.2.20 WordPress:6.5.5 Yoast SEO:23.0|Home - Digital G...|
 |[https://nldigitalgovernment.nl](https://nldigitalgovernment.nl)| **A+**| **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Nginx PHP:8.2.20||
-|[https://test.nldigitalgovernment.nl](https://test.nldigitalgovernment.nl)| | **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS MySQL Nginx PHP:8.3.8 WordPress:6.5.5 Yoast SEO:22.8|Home - Digital G...|
+|[https://test.nldigitalgovernment.nl](https://test.nldigitalgovernment.nl)| | **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |Basic HSTS Nginx|401 Authorizatio...|
 

@@ -46,3 +46,4 @@ mx4.mensenrechten.nl
 a-feeds.mensenrechten.nl
 pax.mensenrechten.nl
 www.academie.mensenrechten.nl
+www.complaintform.mensenrechten.nl

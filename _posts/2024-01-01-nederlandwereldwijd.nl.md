@@ -6,7 +6,7 @@ subdomains_count: 15
 all_subdomains_count: 26
 urls_count: 13
 ssl_rank: A-
-http_rank: B
+http_rank: C
 security_txt: 4
 url_link: /data/nederlandwereldwijd.nl/urls.txt
 all_subdomains_link: /data/nederlandwereldwijd.nl/all_subdomains.txt
@@ -21,7 +21,7 @@ tags: dutchgov
 
 
  - **SSL Grade**:A-
- - **HTTP Security Grade**:B
+ - **HTTP Security Grade**:C
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:4
 
 
@@ -43,7 +43,7 @@ tags: dutchgov
 |[https://api.nederlandwereldwijd.nl](https://api.nederlandwereldwijd.nl)| **A+**| **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS||
 |[https://dev.opendata.nederlandwereldwijd.nl](https://dev.opendata.nederlandwereldwijd.nl)| **A**| **F**|cloudflare|:white_check_mark: | | | | | :white_check_mark: | | :white_check_mark: | |Cloudflare Cloudflare Bot Management||
 |[https://informatieservice.nederlandwereldwijd.nl](https://informatieservice.nederlandwereldwijd.nl)| **A+**| **B**|Microsoft-IIS/10.0|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |Azure HSTS IIS:10.0 Microsoft ASP.NET Windows Server|Informatieservic...|
-|[https://opendata.nederlandwereldwijd.nl](https://opendata.nederlandwereldwijd.nl)| **A+**| **A**|cloudflare|:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Cloudflare Cloudflare Bot Management HSTS||
+|[https://opendata.nederlandwereldwijd.nl](https://opendata.nederlandwereldwijd.nl)| **A+**| **F**|cloudflare|:white_check_mark: | | | | | | | :white_check_mark: | |Cloudflare Cloudflare Bot Management||
 |[https://preview.nederlandwereldwijd.nl](https://preview.nederlandwereldwijd.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
 |[http://prod2.opendata.nederlandwereldwijd.nl](http://prod2.opendata.nederlandwereldwijd.nl)| **A+**| **A**|cloudflare|:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Cloudflare Cloudflare Bot Management|301 Moved Perman...|
 |[https://tst.opendata.nederlandwereldwijd.nl](https://tst.opendata.nederlandwereldwijd.nl)| **A**| **E**|cloudflare|:white_check_mark: | | | |:warning: | :white_check_mark: | | :white_check_mark: | |Cloudflare Cloudflare Bot Management||

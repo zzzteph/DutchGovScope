@@ -3,3 +3,5 @@ http://www.ertms.nl
 http://ertms.nl
 http://ns1.ertms.nl
 http://elink.ertms.nl
+http://vakantie-frankrijk.ertms.nl
+http://click.enews.ertms.nl

@@ -1,4 +1,2 @@
 http://irma.toegangtotdeoverheid.nl
-http://irma.tst.toegangtotdeoverheid.nl
-http://tst.toegangtotdeoverheid.nl
 http://toegangtotdeoverheid.nl

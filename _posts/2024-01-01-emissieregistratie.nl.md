@@ -39,7 +39,7 @@ tags: dutchgov
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[https://data.emissieregistratie.nl](https://data.emissieregistratie.nl)| **A+**| **E**|nginx|:white_check_mark: |:white_check_mark: | :warning:| | | | | :white_check_mark: | |HSTS Java Nginx|Emissieregistrat...|
 |[https://data-acceptatie.emissieregistratie.nl](https://data-acceptatie.emissieregistratie.nl)| **B**| **D**||:warning: |:white_check_mark: | | | | | | :white_check_mark: | |F5 BigIP HSTS||
-|[https://data-preview.emissieregistratie.nl](https://data-preview.emissieregistratie.nl)| **A+**| **E**|nginx|:white_check_mark: |:white_check_mark: | :warning:| | | | | :white_check_mark: | |HSTS Java Nginx|Emissieregistrat...|
+|[http://data-preview.emissieregistratie.nl](http://data-preview.emissieregistratie.nl)| **A+**| **D**||:white_check_mark: |:white_check_mark: | :warning:| | | | | :white_check_mark: | |HSTS Java Nginx||
 |[https://data-previewnext.emissieregistratie.nl](https://data-previewnext.emissieregistratie.nl)| **A+**| **D**||:warning: |:white_check_mark: | | | | | | :white_check_mark: | |F5 BigIP HSTS||
 |[https://data2.emissieregistratie.nl](https://data2.emissieregistratie.nl)| **A+**| **E**|nginx|:warning: |:white_check_mark: | :warning:| | | | | :white_check_mark: | |HSTS Java Nginx|Emissieregistrat...|
 |[https://eracceptatie.emissieregistratie.nl](https://eracceptatie.emissieregistratie.nl)| **A+**| **C**|Microsoft-IIS/10.0| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS IIS:10.0 Microsoft ASP.NET Windows Server|Emissie Registra...|

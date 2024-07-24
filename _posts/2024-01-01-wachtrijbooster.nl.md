@@ -40,5 +40,5 @@ tags: dutchgov
 |[https://wachtrijbooster.nl](https://wachtrijbooster.nl)| **A**| **E**|cloudflare| | | | | | :white_check_mark: | | :white_check_mark: | |Cloudflare HTTP/3|Attention Requir...|
 |[https://aanmelden.wachtrijbooster.nl](https://aanmelden.wachtrijbooster.nl)| **A**| **C**|cloudflare| |:white_check_mark: | | | | | | :white_check_mark: | |Cloudflare HTTP/3||
 |[https://www.wachtrijbooster.nl](https://www.wachtrijbooster.nl)| **A**| **C**|cloudflare| | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Cloudflare HTTP/3|Online een afspr...|
-|[https://api.wachtrijbooster.nl](https://api.wachtrijbooster.nl)| | **F**|cloudflare| | | | | | | | :white_check_mark: | |Cloudflare HSTS HTTP/3||
+|[https://api.wachtrijbooster.nl](https://api.wachtrijbooster.nl)| | **E**|cloudflare| | | | | | :white_check_mark: | | :white_check_mark: | |Cloudflare HTTP/3||
 

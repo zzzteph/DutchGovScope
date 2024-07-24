@@ -2,12 +2,12 @@
 layout: default
 title: "tweedekamer.nl"
 permalink: "/dutchgov/tweedekamer.nl.html"
-subdomains_count: 196
-all_subdomains_count: 298
-urls_count: 128
+subdomains_count: 197
+all_subdomains_count: 300
+urls_count: 129
 ssl_rank: A-
 http_rank: C
-security_txt: 77
+security_txt: 78
 url_link: /data/tweedekamer.nl/urls.txt
 all_subdomains_link: /data/tweedekamer.nl/all_subdomains.txt
 subdomains_link: /data/tweedekamer.nl/subdomains.txt
@@ -22,14 +22,14 @@ tags: dutchgov
 
  - **SSL Grade**:A-
  - **HTTP Security Grade**:C
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:77
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:78
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/tweedekamer.nl/subdomains.txt)|196|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/tweedekamer.nl/urls.txt)|128|Urls|
-|[all_subdomains.txt](/DutchGovScope/data/tweedekamer.nl/all_subdomains.txt)|298|All found subdomains (history)|
+|[subdomains.txt](/DutchGovScope/data/tweedekamer.nl/subdomains.txt)|197|Alive subdomains|
+|[urls.txt](/DutchGovScope/data/tweedekamer.nl/urls.txt)|129|Urls|
+|[all_subdomains.txt](/DutchGovScope/data/tweedekamer.nl/all_subdomains.txt)|300|All found subdomains (history)|
 
 
 ## Statistics
@@ -165,4 +165,5 @@ tags: dutchgov
 |[https://oracle-financials-acc.tweedekamer.nl](https://oracle-financials-acc.tweedekamer.nl)| | **F**|BigIP| | | | | | | | :white_check_mark: | |F5 BigIP||
 |[https://cognos.tweedekamer.nl](https://cognos.tweedekamer.nl)| | **F**|BigIP| | | | | | | | :white_check_mark: | |F5 BigIP||
 |[https://rijksadresgids.tweedekamer.nl](https://rijksadresgids.tweedekamer.nl)| | **B**|BigIP|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |F5 BigIP||
+|[https://avgregister.tweedekamer.nl](https://avgregister.tweedekamer.nl)| | **B**|BigIP|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |F5 BigIP||
 

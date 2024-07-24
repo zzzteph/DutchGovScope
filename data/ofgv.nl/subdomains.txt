@@ -12,8 +12,8 @@ mx1.ofgv.nl
 ofgvtransfer.ofgv.nl
 smtp.ofgv.nl
 telewerken.ofgv.nl
-www.telewerken.ofgv.nl
 sharefile.ofgv.nl
+www.sharefile.ofgv.nl
 enterpriseenrollment.ofgv.nl
 enterpriseregistration.ofgv.nl
 ftp.ofgv.nl

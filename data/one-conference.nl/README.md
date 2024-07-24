@@ -13,7 +13,7 @@
 |------------|-------|------|
 |[subdomains.txt](/data/one-conference.nl/subdomains.txt)|3934|Alive subdomains|
 |[urls.txt](/data/one-conference.nl/urls.txt)|2614|Urls|
-|[all_subdomains.txt](/data/one-conference.nl/all_subdomains.txt)|5865|All found subdomains (history)|
+|[all_subdomains.txt](/data/one-conference.nl/all_subdomains.txt)|8237|All found subdomains (history)|
 
 
 ## Statistics

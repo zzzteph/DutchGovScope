@@ -11,8 +11,8 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/brabant.nl/subdomains.txt)|156|Alive subdomains|
-|[urls.txt](/data/brabant.nl/urls.txt)|82|Urls|
+|[subdomains.txt](/data/brabant.nl/subdomains.txt)|155|Alive subdomains|
+|[urls.txt](/data/brabant.nl/urls.txt)|81|Urls|
 |[all_subdomains.txt](/data/brabant.nl/all_subdomains.txt)|244|All found subdomains (history)|
 
 
@@ -75,7 +75,6 @@
 |[https://samenwerken.brabant.nl](https://samenwerken.brabant.nl)| | **B**|BigIP|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |F5 BigIP||
 |[http://atlas-acpt.brabant.nl](http://atlas-acpt.brabant.nl)| | **F**|BigIP| | | | | | | | :white_check_mark: | |F5 BigIP||
 |[https://wachtwoord.brabant.nl](https://wachtwoord.brabant.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
-|[https://huisstijl.brabant.nl](https://huisstijl.brabant.nl)| | **C**|Microsoft-HTTPAPI/2.0| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Microsoft HTTPAPI:2.0|Not Found|
 |[http://torenvalk.brabant.nl](http://torenvalk.brabant.nl)| | **F**|BigIP| | | | | | | | :white_check_mark: | |F5 BigIP||
 |[https://opendata.brabant.nl](https://opendata.brabant.nl)| | **A**|BigIP| |:white_check_mark: | | | :white_check_mark:| | | :white_check_mark: | |F5 BigIP||
 |[https://brainps.brabant.nl](https://brainps.brabant.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:-|BrainPS - BrainP...|
@@ -95,7 +94,7 @@
 |[https://enterpriseenrollment.brabant.nl](https://enterpriseenrollment.brabant.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||
 |[https://enterpriseregistration.brabant.nl](https://enterpriseregistration.brabant.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://msoid.brabant.nl](https://msoid.brabant.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Object moved|
-|[https://ndes.brabant.nl](https://ndes.brabant.nl)| | **E**|| | | | | | | | :white_check_mark: | ||This page can't...|
+|[https://ndes.brabant.nl](https://ndes.brabant.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://webcast.brabant.nl](https://webcast.brabant.nl)| | **F**|AmazonS3| | | | | | | | :white_check_mark: | |Amazon CloudFront Amazon S3 Amazon Web Services HTTP/3 Material Design Lite|Loading ...|
 |[https://signing.brabant.nl](https://signing.brabant.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS||
 |[https://signing.pre.brabant.nl](https://signing.pre.brabant.nl)| | **A**|Apache| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS||

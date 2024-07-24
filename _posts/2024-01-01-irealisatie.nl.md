@@ -2,8 +2,8 @@
 layout: default
 title: "irealisatie.nl"
 permalink: "/dutchgov/irealisatie.nl.html"
-subdomains_count: 69
-all_subdomains_count: 70
+subdomains_count: 70
+all_subdomains_count: 71
 urls_count: 59
 ssl_rank: 
 http_rank: B
@@ -27,9 +27,9 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/irealisatie.nl/subdomains.txt)|69|Alive subdomains|
+|[subdomains.txt](/DutchGovScope/data/irealisatie.nl/subdomains.txt)|70|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/irealisatie.nl/urls.txt)|59|Urls|
-|[all_subdomains.txt](/DutchGovScope/data/irealisatie.nl/all_subdomains.txt)|70|All found subdomains (history)|
+|[all_subdomains.txt](/DutchGovScope/data/irealisatie.nl/all_subdomains.txt)|71|All found subdomains (history)|
 
 
 ## Statistics
@@ -91,8 +91,8 @@ tags: dutchgov
 |[https://web.acc.mgo.irealisatie.nl](https://web.acc.mgo.irealisatie.nl)| | **A**|Apache| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |Apache HTTP Server Basic HSTS|401 Unauthorized|
 |[https://app-api.acc.mgo.irealisatie.nl](https://app-api.acc.mgo.irealisatie.nl)| | **A**|Apache| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS||
 |[https://max.acc.mgo.irealisatie.nl](https://max.acc.mgo.irealisatie.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||
-|[https://lo-ad.acc.mgo.irealisatie.nl](https://lo-ad.acc.mgo.irealisatie.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||
-|[https://dva.acc.mgo.irealisatie.nl](https://dva.acc.mgo.irealisatie.nl)| | **A**|| |:white_check_mark: | :warning:| | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS||
+|[https://lo-ad.acc.mgo.irealisatie.nl](https://lo-ad.acc.mgo.irealisatie.nl)| | **A**|| |:white_check_mark: | :warning:| | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS||
+|[http://dva.acc.mgo.irealisatie.nl](http://dva.acc.mgo.irealisatie.nl)| | **A**|| |:white_check_mark: | :warning:| | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS||
 |[https://nextcloud.acc.irealisatie.nl](https://nextcloud.acc.irealisatie.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nextcloud PHP||
 |[https://cts.test.woo.irealisatie.nl](https://cts.test.woo.irealisatie.nl)| | **B**|Apache| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server Basic HSTS|401 Unauthorized|
 |[https://mailcatch.test.woo.irealisatie.nl](https://mailcatch.test.woo.irealisatie.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Basic HSTS|401 Unauthorized|

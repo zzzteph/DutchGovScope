@@ -1,4 +1,2 @@
 www.matra-south.nl
 matra-south.nl
-mail.matra-south.nl
-test.matra-south.nl

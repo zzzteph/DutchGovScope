@@ -3,7 +3,7 @@ layout: default
 title: "mensenrechten.nl"
 permalink: "/dutchgov/mensenrechten.nl.html"
 subdomains_count: 36
-all_subdomains_count: 48
+all_subdomains_count: 49
 urls_count: 18
 ssl_rank: A-
 http_rank: A
@@ -29,7 +29,7 @@ tags: dutchgov
 |------------|-------|------|
 |[subdomains.txt](/DutchGovScope/data/mensenrechten.nl/subdomains.txt)|36|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/mensenrechten.nl/urls.txt)|18|Urls|
-|[all_subdomains.txt](/DutchGovScope/data/mensenrechten.nl/all_subdomains.txt)|48|All found subdomains (history)|
+|[all_subdomains.txt](/DutchGovScope/data/mensenrechten.nl/all_subdomains.txt)|49|All found subdomains (history)|
 
 
 ## Statistics
@@ -47,7 +47,7 @@ tags: dutchgov
 |[https://publicaties.mensenrechten.nl](https://publicaties.mensenrechten.nl)| **B**| **A**|Microsoft-IIS/10.0| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS IIS:10.0 Windows Server||
 |[https://cms.mensenrechten.nl](https://cms.mensenrechten.nl)| **B**| **C**|Microsoft-IIS/10.0| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS IIS:10.0 Microsoft ASP.NET:4.0.30319 Windows Server|Object moved|
 |[https://micollab.mensenrechten.nl](https://micollab.mensenrechten.nl)| **B**| **A**|Apache| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS|Redirecting...|
-|[https://leren.mensenrechten.nl](https://leren.mensenrechten.nl)| **A**| **A**|Apache/2.4.57 (Ubuntu)| |:white_check_mark: | | | :white_check_mark:| | | :white_check_mark: | |Apache HTTP Server:2.4.57 HSTS Ubuntu||
+|[https://leren.mensenrechten.nl](https://leren.mensenrechten.nl)| **A**| **A**|Apache/2.4.59 (Ubuntu)| |:white_check_mark: | | | :white_check_mark:| | | :white_check_mark: | |Apache HTTP Server:2.4.59 HSTS Ubuntu||
 |[https://feeds.mensenrechten.nl](https://feeds.mensenrechten.nl)| **A+**| **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://complaintform.mensenrechten.nl](https://complaintform.mensenrechten.nl)| **A**| **A**|Microsoft-IIS/10.0| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS IIS:10.0 Windows Server hCaptcha|Meld discriminat...|
 |[https://academie.mensenrechten.nl](https://academie.mensenrechten.nl)| **A+**| **A**|Apache| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS Moodle PHP|Doorverwijspagin...|

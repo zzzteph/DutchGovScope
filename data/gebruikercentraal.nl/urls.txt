@@ -19,9 +19,9 @@ https://expertpanel.gebruikercentraal.nl
 https://inclusie.gebruikercentraal.nl
 https://inclusiekader.gebruikercentraal.nl
 https://inclusievedienstverlening.gebruikercentraal.nl
-http://lint.gebruikercentraal.nl
-http://maturityscan.gebruikercentraal.nl
-http://optimaaldigitaal.gebruikercentraal.nl
+https://lint.gebruikercentraal.nl
+https://maturityscan.gebruikercentraal.nl
+https://optimaaldigitaal.gebruikercentraal.nl
 https://redactie.gebruikercentraal.nl
 https://rotterdammer.gebruikercentraal.nl
 https://test.gebruikercentraal.nl

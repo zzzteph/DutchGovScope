@@ -1,8 +1,3 @@
 https://mail.prettigcontactmetdeoverheid.nl
 https://www.prettigcontactmetdeoverheid.nl
 https://prettigcontactmetdeoverheid.nl
-https://autoconfig.prettigcontactmetdeoverheid.nl
-https://autodiscover.prettigcontactmetdeoverheid.nl
-https://ftp.prettigcontactmetdeoverheid.nl
-https://pop.prettigcontactmetdeoverheid.nl
-https://smtp.prettigcontactmetdeoverheid.nl

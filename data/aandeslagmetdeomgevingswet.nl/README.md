@@ -11,7 +11,7 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/aandeslagmetdeomgevingswet.nl/subdomains.txt)|4|Alive subdomains|
+|[subdomains.txt](/data/aandeslagmetdeomgevingswet.nl/subdomains.txt)|3|Alive subdomains|
 |[urls.txt](/data/aandeslagmetdeomgevingswet.nl/urls.txt)|3|Urls|
 |[all_subdomains.txt](/data/aandeslagmetdeomgevingswet.nl/all_subdomains.txt)|17|All found subdomains (history)|
 

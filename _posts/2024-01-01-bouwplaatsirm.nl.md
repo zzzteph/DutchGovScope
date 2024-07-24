@@ -43,9 +43,9 @@ tags: dutchgov
 |[https://bouwplaatsirm.nl](https://bouwplaatsirm.nl)| **A+**| **A**|cloudflare| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |Cloudflare HSTS HTTP/3|301 Moved Perman...|
 |[https://staging.bouwplaatsirm.nl](https://staging.bouwplaatsirm.nl)| **A**| **D**|Apache/2| | | | |:warning: | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server:2 Drupal PHP|Samen bouwen aan...|
 |[https://10jan.bouwplaatsirm.nl](https://10jan.bouwplaatsirm.nl)| **A**| **F**|Apache/2| | | | | | | | :white_check_mark: | |Apache HTTP Server:2|403 Forbidden|
-|[http://autodiscover.bouwplaatsirm.nl](http://autodiscover.bouwplaatsirm.nl)| | **B**|Microsoft-IIS/10.0|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server||
+|[http://autodiscover.bouwplaatsirm.nl](http://autodiscover.bouwplaatsirm.nl)| | **C**|Microsoft-IIS/10.0| |:white_check_mark: | | | | | | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server||
 |[https://enterpriseenrollment.bouwplaatsirm.nl](https://enterpriseenrollment.bouwplaatsirm.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||
 |[https://enterpriseregistration.bouwplaatsirm.nl](https://enterpriseregistration.bouwplaatsirm.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
-|[http://gitlab.bouwplaatsirm.nl](http://gitlab.bouwplaatsirm.nl)| | **B**|cloudflare| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Cloudflare HTTP/3|301 Moved Perman...|
+|[https://gitlab.bouwplaatsirm.nl](https://gitlab.bouwplaatsirm.nl)| | **B**|cloudflare| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Cloudflare HSTS HTTP/3||
 |[https://msoid.bouwplaatsirm.nl](https://msoid.bouwplaatsirm.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Object moved|
 

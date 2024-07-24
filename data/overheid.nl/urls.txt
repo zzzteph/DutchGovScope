@@ -308,3 +308,8 @@ https://ftp.overheid.nl
 https://beta-wetten-acc.overheid.nl
 https://api.standaarden.overheid.nl
 https://identifier-preprod.overheid.nl
+https://resolver.int.omgevingswet.overheid.nl
+https://resolver.kta.omgevingswet.overheid.nl
+https://resolver.omgevingswet.overheid.nl
+https://resolver.pfm.omgevingswet.overheid.nl
+https://resolver.pre.omgevingswet.overheid.nl

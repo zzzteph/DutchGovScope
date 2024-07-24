@@ -204,3 +204,4 @@ leeromgeving-stater.trainingscatalogus.nl
 belastingdienst-lms-a.course-api.trainingscatalogus.nl
 belastingdienst-lms-a.enrollment-api.trainingscatalogus.nl
 belastingdienst-lms-a.scim-api.trainingscatalogus.nl
+rabobank.trainingscatalogus.nl

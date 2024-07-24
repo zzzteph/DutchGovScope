@@ -33,5 +33,6 @@ s2-acc1.toeslagen.nl
 s3-acc1.toeslagen.nl
 toestemming.acc.toeslagen.nl
 www8.toeslagen.nl
+fibt2.acc.toeslagen.nl
 mijn-acc4.toeslagen.nl
 werkenbij.toeslagen.nl

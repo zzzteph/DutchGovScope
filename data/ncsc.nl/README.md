@@ -6,7 +6,7 @@
 
  - **SSL Grade**:B
  - **HTTP Security Grade**:B
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:20
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:21
 
 
 | File       | Count | Info |
@@ -21,7 +21,7 @@
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://advisories.ncsc.nl](https://advisories.ncsc.nl)| **A**| **C**|none| |:white_check_mark: | :warning:| | | :white_check_mark: | | :white_check_mark: | |HSTS|NCSC Advisories|
+|[https://advisories.ncsc.nl](https://advisories.ncsc.nl)| **A**| **D**|none| |:white_check_mark: | :warning:| | | | | :white_check_mark: | |HSTS|NCSC Advisories|
 |[https://api.ncsc.nl](https://api.ncsc.nl)| | **D**|none|:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
 |[https://api.acc.ncsc.nl](https://api.acc.ncsc.nl)| **B**| **D**|none|:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
 |[https://chat.ncsc.nl](https://chat.ncsc.nl)| **A+**| **A**|none| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS|Mattermost|

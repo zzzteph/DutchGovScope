@@ -1,5 +1,6 @@
 https://acc-bergerselect.rws.nl
 https://acc-geo.rws.nl
+https://acc-inloggen.rws.nl
 https://acc-maps.rws.nl
 https://acc-port-enc.rws.nl
 http://acc-webportaal.rws.nl
@@ -82,6 +83,7 @@ https://programmaplan.vm-02.azure.grid.rws.nl
 https://prometheus.vm-02.azure.grid.rws.nl
 https://protide.rws.nl
 http://prs.rws.nl
+https://ptp.acc-inloggen.rws.nl
 https://ptp.inloggen.rws.nl
 https://rastoken.rws.nl
 https://rhel8.wabinfo.rws.nl
@@ -117,7 +119,6 @@ https://vitaal.matroos.rws.nl
 https://wabinfo.rws.nl
 https://wachtwoord.rws.nl
 https://waterberichtgeving.rws.nl
-https://watergegevens.rws.nl
 https://waterinfo.rws.nl
 https://waterinfo-extra.rws.nl
 https://webhook-teams.rws.nl
@@ -130,7 +131,6 @@ https://werkstation.vm-02.azure.grid.rws.nl
 https://www.rws.nl
 https://www.aqualarm.rws.nl
 https://www.waterberichtgeving.rws.nl
-https://www.watergegevens.rws.nl
 https://www.werkenbij.rws.nl
 http://xwd.rws.nl
 https://zwerfafval.rws.nl

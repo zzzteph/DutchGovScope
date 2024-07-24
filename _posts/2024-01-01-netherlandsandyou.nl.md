@@ -40,6 +40,6 @@ tags: dutchgov
 |[https://acc.netherlandsandyou.nl](https://acc.netherlandsandyou.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|403 Forbidden|
 |[https://dev.netherlandsandyou.nl](https://dev.netherlandsandyou.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|403 Forbidden|
 |[https://tst.netherlandsandyou.nl](https://tst.netherlandsandyou.nl)| **A**| **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|403 Forbidden|
-|[https://www.netherlandsandyou.nl](https://www.netherlandsandyou.nl)| **A+**| **A**|Apache|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS Java|Home - Netherlan...|
-|[https://netherlandsandyou.nl](https://netherlandsandyou.nl)| **A**| **A**|Apache|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server|301 Moved Perman...|
+|[https://www.netherlandsandyou.nl](https://www.netherlandsandyou.nl)| **A+**| **A**|Apache|:warning: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS Java|Home - Netherlan...|
+|[https://netherlandsandyou.nl](https://netherlandsandyou.nl)| **A**| **A**|Apache|:warning: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server|301 Moved Perman...|
 

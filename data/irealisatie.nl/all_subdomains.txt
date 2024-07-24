@@ -68,3 +68,4 @@ acc.mgo.irealisatie.nl
 qualification-admin.test.zm.irealisatie.nl
 qualification-api.test.zm.irealisatie.nl
 cts.acc.woo.irealisatie.nl
+stats.test.zm.irealisatie.nl

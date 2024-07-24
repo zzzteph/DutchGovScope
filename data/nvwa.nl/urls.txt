@@ -7,7 +7,7 @@ https://feeds.nvwa.nl
 https://feeds.english.nvwa.nl
 https://forms.nvwa.nl
 https://forms-acc.nvwa.nl
-http://formulieren.nvwa.nl
+https://formulieren.nvwa.nl
 http://formulieren-acc.nvwa.nl
 https://inspectieresultaten.nvwa.nl
 https://ivo.nvwa.nl
@@ -23,7 +23,7 @@ https://opendata.nvwa.nl
 https://opendata.english.nvwa.nl
 https://ras.nvwa.nl
 https://ras-acc.nvwa.nl
-http://rvdmschaduwdraaien.nvwa.nl
+https://rvdmschaduwdraaien.nvwa.nl
 https://test.openbare-inspectieresultaten.nvwa.nl
 https://vgc.nvwa.nl
 https://vgc-acc.nvwa.nl

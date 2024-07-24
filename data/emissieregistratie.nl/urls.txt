@@ -1,6 +1,6 @@
 https://data.emissieregistratie.nl
 https://data-acceptatie.emissieregistratie.nl
-https://data-preview.emissieregistratie.nl
+http://data-preview.emissieregistratie.nl
 https://data-previewnext.emissieregistratie.nl
 https://data2.emissieregistratie.nl
 https://eracceptatie.emissieregistratie.nl

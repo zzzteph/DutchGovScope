@@ -44,7 +44,7 @@ tags: dutchgov
 |[https://wiki.zorgverzekeringslijn.nl](https://wiki.zorgverzekeringslijn.nl)| **B**| **F**|nginx|:white_check_mark: | | | | | | | :white_check_mark: | |Nginx||
 |[https://www.zorgverzekeringslijn.nl](https://www.zorgverzekeringslijn.nl)| **A+**| **A**|Apache| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Apache HTTP Server Google Tag Manager HSTS MySQL PHP WordPress:6.5.5 Yoast SEO:22.9|Zorgverzekerings...|
 |[https://zorgverzekeringslijn.nl](https://zorgverzekeringslijn.nl)| **A+**| **A**|Apache| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Apache HTTP Server HSTS|301 Moved Perman...|
-|[http://autodiscover.zorgverzekeringslijn.nl](http://autodiscover.zorgverzekeringslijn.nl)| | **B**|Microsoft-IIS/10.0|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server||
+|[http://autodiscover.zorgverzekeringslijn.nl](http://autodiscover.zorgverzekeringslijn.nl)| | **C**|Microsoft-IIS/10.0| |:white_check_mark: | | | | | | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server||
 |[https://enterpriseenrollment.zorgverzekeringslijn.nl](https://enterpriseenrollment.zorgverzekeringslijn.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||
 |[https://enterpriseregistration.zorgverzekeringslijn.nl](https://enterpriseregistration.zorgverzekeringslijn.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://ftp.zorgverzekeringslijn.nl](https://ftp.zorgverzekeringslijn.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|Web Server's Def...|

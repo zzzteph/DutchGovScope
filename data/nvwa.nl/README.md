@@ -30,7 +30,7 @@
 |[https://feeds.english.nvwa.nl](https://feeds.english.nvwa.nl)| **A+**| **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://forms.nvwa.nl](https://forms.nvwa.nl)| **A+**| **A**||:white_check_mark: |:white_check_mark: | :warning:| | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Object moved|
 |[https://forms-acc.nvwa.nl](https://forms-acc.nvwa.nl)| **A+**| **D**||:o: |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|IIS Windows Serv...|
-|[http://formulieren.nvwa.nl](http://formulieren.nvwa.nl)| **A+**| **A**||:white_check_mark: |:white_check_mark: | :warning:| | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
+|[https://formulieren.nvwa.nl](https://formulieren.nvwa.nl)| **A+**| **A**||:white_check_mark: |:white_check_mark: | :warning:| | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Object moved|
 |[http://formulieren-acc.nvwa.nl](http://formulieren-acc.nvwa.nl)| **A+**| **A**||:white_check_mark: |:white_check_mark: | :warning:| | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://inspectieresultaten.nvwa.nl](https://inspectieresultaten.nvwa.nl)| **A+**| **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
 |[https://ivo.nvwa.nl](https://ivo.nvwa.nl)| **A+**| **C**||:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|Import Veterinai...|
@@ -46,7 +46,7 @@
 |[https://opendata.english.nvwa.nl](https://opendata.english.nvwa.nl)| **A+**| **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://ras.nvwa.nl](https://ras.nvwa.nl)| **B**| **A**||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|302 Found|
 |[https://ras-acc.nvwa.nl](https://ras-acc.nvwa.nl)| **C**| **A**||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|302 Found|
-|[http://rvdmschaduwdraaien.nvwa.nl](http://rvdmschaduwdraaien.nvwa.nl)| **A**| **E**|| | | | | | | | :white_check_mark: | |||
+|[https://rvdmschaduwdraaien.nvwa.nl](https://rvdmschaduwdraaien.nvwa.nl)| **A**| **C**||:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|Error 404--Not F...|
 |[https://test.openbare-inspectieresultaten.nvwa.nl](https://test.openbare-inspectieresultaten.nvwa.nl)| **F**| **F**|nginx| | | | | | | | :white_check_mark: | |Basic Nginx|401 Authorizatio...|
 |[https://vgc.nvwa.nl](https://vgc.nvwa.nl)| **A+**| **B**||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS|Error 404--Not F...|
 |[https://vgc-acc.nvwa.nl](https://vgc-acc.nvwa.nl)| **A+**| **B**||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS|Error 404--Not F...|

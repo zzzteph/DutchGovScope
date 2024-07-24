@@ -56,7 +56,6 @@ https://jupyter.ipi.rijkscloud.nl
 https://jupyter.ivho.rijkscloud.nl
 https://jupyter.kim.rijkscloud.nl
 https://jupyter.ritp.rijkscloud.nl
-https://jupyter.wntbzk.rijkscloud.nl
 https://keycloak.analyse.ilt.rijkscloud.nl
 https://mail.rijkscloud.nl
 https://mail.dgdoobi.rijkscloud.nl
@@ -99,7 +98,6 @@ https://rstudio.ipi.rijkscloud.nl
 https://rstudio.ivho.rijkscloud.nl
 https://rstudio.kim.rijkscloud.nl
 https://rstudio.ritp.rijkscloud.nl
-https://sectstssp.ix.rijkscloud.nl
 https://securetransfer.rijkscloud.nl
 https://sensu.ix.rijkscloud.nl
 https://shiny.cursus.rijkscloud.nl
@@ -117,7 +115,6 @@ https://webmail.rijkscloud.nl
 https://www.rijkscloud.nl
 https://rijkscloud.nl
 https://openstack.gn3.rijkscloud.nl
-http://status.gn3.rijkscloud.nl
 https://portal.ip.test.duo.rijkscloud.nl
 https://ip.test.duo.rijkscloud.nl
 https://rstudio.ip.test.duo.rijkscloud.nl
