@@ -12,7 +12,6 @@ https://geo.zuid-holland.nl
 https://staten.zuid-holland.nl
 https://ro.zuid-holland.nl
 https://inbeeld.zuid-holland.nl
-https://geo-test.zuid-holland.nl
 https://opendata.zuid-holland.nl
 https://ruimtelijkeplannen.zuid-holland.nl
 https://wapenfeiten.zuid-holland.nl
@@ -52,7 +51,7 @@ https://jaaroverzichtcommissarisvandekoning2020.zuid-holland.nl
 https://admin.openstad.zuid-holland.nl
 https://natura2000-data.zuid-holland.nl
 https://beeldbank.zuid-holland.nl
-https://staatvan.zuid-holland.nl
+http://staatvan.zuid-holland.nl
 https://zuid-holland.nl
 https://monitorleefomgeving.zuid-holland.nl
 https://planmer.zuid-holland.nl

@@ -336,3 +336,4 @@ mijn-ncg.rijksapplicaties.nl
 rvb-ifr.rijksapplicaties.nl
 npcemaatregelenmonitor.rijksapplicaties.nl
 rvb-rif.rijksapplicaties.nl
+architectuurexplains.rijksapplicaties.nl

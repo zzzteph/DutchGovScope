@@ -11,8 +11,8 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/wrr.nl/subdomains.txt)|19|Alive subdomains|
-|[urls.txt](/data/wrr.nl/urls.txt)|9|Urls|
+|[subdomains.txt](/data/wrr.nl/subdomains.txt)|18|Alive subdomains|
+|[urls.txt](/data/wrr.nl/urls.txt)|8|Urls|
 |[all_subdomains.txt](/data/wrr.nl/all_subdomains.txt)|27|All found subdomains (history)|
 
 
@@ -21,7 +21,6 @@
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://web.wrr.nl](https://web.wrr.nl)| **A+**| **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://english.wrr.nl](https://english.wrr.nl)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Home | The Nethe...|
 |[https://feeds.english.wrr.nl](https://feeds.english.wrr.nl)| **A+**| **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://feeds.wrr.nl](https://feeds.wrr.nl)| **A+**| **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||

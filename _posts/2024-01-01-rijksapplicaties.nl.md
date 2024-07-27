@@ -3,7 +3,7 @@ layout: default
 title: "rijksapplicaties.nl"
 permalink: "/dutchgov/rijksapplicaties.nl.html"
 subdomains_count: 266
-all_subdomains_count: 338
+all_subdomains_count: 339
 urls_count: 229
 ssl_rank: A+
 http_rank: C
@@ -29,7 +29,7 @@ tags: dutchgov
 |------------|-------|------|
 |[subdomains.txt](/DutchGovScope/data/rijksapplicaties.nl/subdomains.txt)|266|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/rijksapplicaties.nl/urls.txt)|229|Urls|
-|[all_subdomains.txt](/DutchGovScope/data/rijksapplicaties.nl/all_subdomains.txt)|338|All found subdomains (history)|
+|[all_subdomains.txt](/DutchGovScope/data/rijksapplicaties.nl/all_subdomains.txt)|339|All found subdomains (history)|
 
 
 ## Statistics

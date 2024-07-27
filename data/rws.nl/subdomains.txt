@@ -249,3 +249,6 @@ nginx-test4.dmz.vm-04.azure.grid.rws.nl
 argocd.dmz.vm-04.azure.grid.rws.nl
 nginx-test3.dmz.vm-04.azure.grid.rws.nl
 mta-sts.rws.nl
+svs.ptp.inloggen.rws.nl
+eventrecorder.ptp.inloggen.rws.nl
+mars.ptp.inloggen.rws.nl

@@ -5,8 +5,8 @@
 
 
  - **SSL Grade**:B
- - **HTTP Security Grade**:C
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:9
+ - **HTTP Security Grade**:D
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:7
 
 
 | File       | Count | Info |
@@ -46,9 +46,9 @@
 |[https://iucn-acc.topdesk.odc-noord.nl](https://iucn-acc.topdesk.odc-noord.nl)| **B**| **E**|| | | | | | | | :white_check_mark: | ||ODC-Noord | (403...|
 |[https://iucn-prd.topdesk.odc-noord.nl](https://iucn-prd.topdesk.odc-noord.nl)| **B**| **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Login|
 |[https://ivho-acc.confluence.odc-noord.nl](https://ivho-acc.confluence.odc-noord.nl)| **B**| **E**|| | | | | | | | :white_check_mark: | |Atlassian Confluence HSTS Java||
-|[http://ivho-acc.jira.odc-noord.nl](http://ivho-acc.jira.odc-noord.nl)| **B**| **E**|| | | | | | | | :white_check_mark: | |HSTS||
-|[https://ivho-prd.confluence.odc-noord.nl](https://ivho-prd.confluence.odc-noord.nl)| **B**| **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Atlassian Confluence HSTS Java||
-|[https://ivho-prd.jira.odc-noord.nl](https://ivho-prd.jira.odc-noord.nl)| **B**| **A**||:warning: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Java||
+|[https://ivho-acc.jira.odc-noord.nl](https://ivho-acc.jira.odc-noord.nl)| **B**| **E**|| | | | | | | | :white_check_mark: | |HSTS||
+|[https://ivho-prd.confluence.odc-noord.nl](https://ivho-prd.confluence.odc-noord.nl)| **B**| **E**|| | | | | | | | :white_check_mark: | |Atlassian Confluence HSTS Java||
+|[https://ivho-prd.jira.odc-noord.nl](https://ivho-prd.jira.odc-noord.nl)| **B**| **E**|| | | | | | | | :white_check_mark: | |HSTS Java||
 |[https://ivho-staf-acc.topdesk.odc-noord.nl](https://ivho-staf-acc.topdesk.odc-noord.nl)| **B**| **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|Login|
 |[https://ivho-staf-prd.topdesk.odc-noord.nl](https://ivho-staf-prd.topdesk.odc-noord.nl)| **B**| **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Login|
 |[https://login.odc-noord.nl](https://login.odc-noord.nl)| | **A**||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
@@ -58,7 +58,7 @@
 |[https://logius-prd.jira.odc-noord.nl](https://logius-prd.jira.odc-noord.nl)| **B**| **E**|| | | | | | | | :white_check_mark: | ||ODC-Noord | (403...|
 |[https://na-acc.topdesk.odc-noord.nl](https://na-acc.topdesk.odc-noord.nl)| **B**| **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|Login|
 |[https://na-prd.topdesk.odc-noord.nl](https://na-prd.topdesk.odc-noord.nl)| **B**| **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Login|
-|[https://nfi-acc.topdesk.odc-noord.nl](https://nfi-acc.topdesk.odc-noord.nl)| **B**| **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|Login|
+|[https://nfi-acc.topdesk.odc-noord.nl](https://nfi-acc.topdesk.odc-noord.nl)| **B**| **E**|| | | | | | | | :white_check_mark: | |HSTS Nginx|ODC-Noord | (403...|
 |[https://nfi-prd.topdesk.odc-noord.nl](https://nfi-prd.topdesk.odc-noord.nl)| **B**| **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|Login|
 |[https://odcn-acc.confluence.odc-noord.nl](https://odcn-acc.confluence.odc-noord.nl)| **B**| **E**|| | | | | | | | :white_check_mark: | ||ODC-Noord | (403...|
 |[https://odcn-acc.jira.odc-noord.nl](https://odcn-acc.jira.odc-noord.nl)| **B**| **E**|| | | | | | | | :white_check_mark: | ||ODC-Noord | (403...|

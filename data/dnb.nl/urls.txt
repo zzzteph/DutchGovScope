@@ -118,3 +118,4 @@ https://federated-login.dnb.nl
 https://monet-dev.dnb.nl
 https://monet-tst.dnb.nl
 https://pla.dnb.nl
+https://services.sharepoint.dnb.nl

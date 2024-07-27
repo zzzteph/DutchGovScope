@@ -2,9 +2,9 @@
 layout: default
 title: "h-i-ambacht.nl"
 permalink: "/dutchgov/h-i-ambacht.nl.html"
-subdomains_count: 23
+subdomains_count: 22
 all_subdomains_count: 31
-urls_count: 23
+urls_count: 22
 ssl_rank: A
 http_rank: A
 security_txt: 13
@@ -27,8 +27,8 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/h-i-ambacht.nl/subdomains.txt)|23|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/h-i-ambacht.nl/urls.txt)|23|Urls|
+|[subdomains.txt](/DutchGovScope/data/h-i-ambacht.nl/subdomains.txt)|22|Alive subdomains|
+|[urls.txt](/DutchGovScope/data/h-i-ambacht.nl/urls.txt)|22|Urls|
 |[all_subdomains.txt](/DutchGovScope/data/h-i-ambacht.nl/all_subdomains.txt)|31|All found subdomains (history)|
 
 
@@ -44,7 +44,6 @@ tags: dutchgov
 |[https://zaken.h-i-ambacht.nl](https://zaken.h-i-ambacht.nl)| **B**| **A**||:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |||
 |[https://gisib-test.h-i-ambacht.nl](https://gisib-test.h-i-ambacht.nl)| **B**| **B**||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS Microsoft ASP.NET|Object moved|
 |[https://web.h-i-ambacht.nl](https://web.h-i-ambacht.nl)| **A+**| **F**|nginx| | | | | | | | :white_check_mark: | |HSTS Nginx||
-|[https://loket.test.h-i-ambacht.nl](https://loket.test.h-i-ambacht.nl)| **A+**| **A**||:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Java|Fout|
 |[https://vergunningintaker-preprod.h-i-ambacht.nl](https://vergunningintaker-preprod.h-i-ambacht.nl)| **A+**| **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Express Google Cloud Google Cloud CDN HSTS HTTP/3 Node.js||
 |[https://college.h-i-ambacht.nl](https://college.h-i-ambacht.nl)| **A+**| **B**|Apache|:white_check_mark: |:white_check_mark: | | |:warning: | | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS|403 Forbidden|
 |[https://gisib.h-i-ambacht.nl](https://gisib.h-i-ambacht.nl)| **B**| **B**||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS Microsoft ASP.NET|Object moved|

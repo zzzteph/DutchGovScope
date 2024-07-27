@@ -56,3 +56,4 @@ misp.ncsc.nl
 a-english.ncsc.nl
 registreren.ncsc.nl
 melden.ncsc.nl
+csaf.data.security.ncsc.nl

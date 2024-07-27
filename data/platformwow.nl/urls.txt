@@ -14,4 +14,4 @@ https://pop.platformwow.nl
 https://webmail.platformwow.nl
 https://www.jaarverslag2015.platformwow.nl
 https://www.jaarverslag2016.platformwow.nl
-https://www.nieuw.platformwow.nl
+http://www.nieuw.platformwow.nl

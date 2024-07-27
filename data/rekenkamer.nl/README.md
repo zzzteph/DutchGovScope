@@ -30,7 +30,7 @@
 |[https://opendata.rekenkamer.nl](https://opendata.rekenkamer.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://www.rekenkamer.nl](https://www.rekenkamer.nl)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Home | Algemene...|
 |[https://fileshare.rekenkamer.nl](https://fileshare.rekenkamer.nl)| **A**| **A**|| |:white_check_mark: | | |:warning: | | :white_check_mark: | :white_check_mark: | |HSTS||
-|[https://werkplek.rekenkamer.nl](https://werkplek.rekenkamer.nl)| | **D**||:warning: | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Microsoft ASP.NET||
+|[https://werkplek.rekenkamer.nl](https://werkplek.rekenkamer.nl)| | **B**|| | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Microsoft ASP.NET||
 |[https://enterpriseenrollment.rekenkamer.nl](https://enterpriseenrollment.rekenkamer.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||
 |[https://enterpriseregistration.rekenkamer.nl](https://enterpriseregistration.rekenkamer.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://onsgeldontcijferd.rekenkamer.nl](https://onsgeldontcijferd.rekenkamer.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS|Ons geld ontcijf...|

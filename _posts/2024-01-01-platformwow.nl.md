@@ -53,5 +53,5 @@ tags: dutchgov
 |[https://webmail.platformwow.nl](https://webmail.platformwow.nl)| | **F**|Apache/2.4.25 (Debian) mod_fastcgi/mod_fastcgi-SNAP-0910052141| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.25 Debian mod_fastcgi|TransIP Webmail...|
 |[https://www.jaarverslag2015.platformwow.nl](https://www.jaarverslag2015.platformwow.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|404 Not Found|
 |[https://www.jaarverslag2016.platformwow.nl](https://www.jaarverslag2016.platformwow.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|404 Not Found|
-|[https://www.nieuw.platformwow.nl](https://www.nieuw.platformwow.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
+|[http://www.nieuw.platformwow.nl](http://www.nieuw.platformwow.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
 

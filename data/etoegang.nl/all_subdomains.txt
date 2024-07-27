@@ -25,3 +25,5 @@ dev.etoegang.nl
 www.etoegang.nl
 s3.acc.etoegang.nl
 etoegang.nl
+datareportr.acc.etoegang.nl
+datareportr.etoegang.nl

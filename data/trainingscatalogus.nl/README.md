@@ -13,7 +13,7 @@
 |------------|-------|------|
 |[subdomains.txt](/data/trainingscatalogus.nl/subdomains.txt)|207|Alive subdomains|
 |[urls.txt](/data/trainingscatalogus.nl/urls.txt)|111|Urls|
-|[all_subdomains.txt](/data/trainingscatalogus.nl/all_subdomains.txt)|220|All found subdomains (history)|
+|[all_subdomains.txt](/data/trainingscatalogus.nl/all_subdomains.txt)|223|All found subdomains (history)|
 
 
 ## Statistics
@@ -102,16 +102,16 @@
 |[https://stedin.trainingscatalogus.nl](https://stedin.trainingscatalogus.nl)| | **F**|Microsoft-IIS/10.0| | | | | | | | :white_check_mark: | |IIS:10.0 Windows Server|IIS Windows Serv...|
 |[https://ftp.trainingscatalogus.nl](https://ftp.trainingscatalogus.nl)| | **F**|Microsoft-Azure-Application-Gateway/v2| | | | | | | | :white_check_mark: | ||404 Not Found|
 |[https://sectest.trainingscatalogus.nl](https://sectest.trainingscatalogus.nl)| | **A**|Class|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
-|[https://leeromgeving-rotterdam-a.trainingscatalogus.nl](https://leeromgeving-rotterdam-a.trainingscatalogus.nl)| | **A**|Apache| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS Moodle PHP|Doorverwijspagin...|
+|[https://leeromgeving-rotterdam-a.trainingscatalogus.nl](https://leeromgeving-rotterdam-a.trainingscatalogus.nl)| | **A**|Apache| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS Moodle PHP:8.1.29|Doorverwijspagin...|
 |[https://ind-a.trainingscatalogus.nl](https://ind-a.trainingscatalogus.nl)| | **B**|Class|:white_check_mark: |:white_check_mark: | | |:warning: | | :white_check_mark: | :white_check_mark: | |HSTS||
-|[https://leeromgeving-rotterdam.trainingscatalogus.nl](https://leeromgeving-rotterdam.trainingscatalogus.nl)| | **A**|Apache| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS Moodle PHP|Doorverwijspagin...|
+|[https://leeromgeving-rotterdam.trainingscatalogus.nl](https://leeromgeving-rotterdam.trainingscatalogus.nl)| | **A**|Apache| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS Moodle PHP:8.1.29|Doorverwijspagin...|
 |[https://buza-a.trainingscatalogus.nl](https://buza-a.trainingscatalogus.nl)| | **B**|Class|:white_check_mark: |:white_check_mark: | | |:warning: | | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://buza-lms-a.trainingscatalogus.nl](https://buza-lms-a.trainingscatalogus.nl)| | **A**|Class|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Access is denied...|
 |[https://buza-lms.trainingscatalogus.nl](https://buza-lms.trainingscatalogus.nl)| | **A**|Class|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Access is denied...|
-|[https://parnassialeeromgeving.trainingscatalogus.nl](https://parnassialeeromgeving.trainingscatalogus.nl)| | **D**|Apache|:warning: |:white_check_mark: | | | | | | :white_check_mark: | |Apache HTTP Server HSTS Moodle PHP|Startpagina | Pa...|
+|[https://parnassialeeromgeving.trainingscatalogus.nl](https://parnassialeeromgeving.trainingscatalogus.nl)| | **D**|Apache|:warning: |:white_check_mark: | | | | | | :white_check_mark: | |Apache HTTP Server HSTS Moodle PHP:8.1.29|Startpagina | Pa...|
 |[https://ez-a.trainingscatalogus.nl](https://ez-a.trainingscatalogus.nl)| | **B**|Class|:white_check_mark: |:white_check_mark: | | |:warning: | | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://lms-ciz.trainingscatalogus.nl](https://lms-ciz.trainingscatalogus.nl)| | **A**|Class|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Access is denied...|
-|[https://leeromgeving-moodle-t.trainingscatalogus.nl](https://leeromgeving-moodle-t.trainingscatalogus.nl)| | **B**|Apache/2.4.37 (Red Hat Enterprise Linux) OpenSSL/1.1.1k mod_fcgid/2.3.9|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server:2.4.37 HSTS Moodle OpenSSL:1.1.1k PHP Red Hat|Doorverwijspagin...|
+|[https://leeromgeving-moodle-t.trainingscatalogus.nl](https://leeromgeving-moodle-t.trainingscatalogus.nl)| | **B**|Apache/2.4.37 (Red Hat Enterprise Linux) OpenSSL/1.1.1k mod_fcgid/2.3.9|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server:2.4.37 HSTS Moodle OpenSSL:1.1.1k PHP:8.1.29 Red Hat|Doorverwijspagin...|
 |[https://schiphol-lms-a.trainingscatalogus.nl](https://schiphol-lms-a.trainingscatalogus.nl)| | **A**|Class|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Access is denied...|
 |[https://ciz-a.trainingscatalogus.nl](https://ciz-a.trainingscatalogus.nl)| | **C**|Class|:white_check_mark: |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://ciz-lms-a.trainingscatalogus.nl](https://ciz-lms-a.trainingscatalogus.nl)| | **A**|Class|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Access is denied...|

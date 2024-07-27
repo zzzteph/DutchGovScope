@@ -13,7 +13,7 @@
 |------------|-------|------|
 |[subdomains.txt](/data/werkenvoornederland-events.nl/subdomains.txt)|6|Alive subdomains|
 |[urls.txt](/data/werkenvoornederland-events.nl/urls.txt)|6|Urls|
-|[all_subdomains.txt](/data/werkenvoornederland-events.nl/all_subdomains.txt)|6|All found subdomains (history)|
+|[all_subdomains.txt](/data/werkenvoornederland-events.nl/all_subdomains.txt)|8|All found subdomains (history)|
 
 
 ## Statistics

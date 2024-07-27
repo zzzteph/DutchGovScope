@@ -298,3 +298,4 @@ ws.beta.tweedekamer.nl
 hollandfit.tweedekamer.nl
 developer.beta.tweedekamer.nl
 bibliotheek.tweedekamer.nl
+bibliotheek-test.tweedekamer.nl

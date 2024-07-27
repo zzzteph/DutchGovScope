@@ -1,4 +1,3 @@
-web.wrr.nl
 english.wrr.nl
 feeds.english.wrr.nl
 feeds.wrr.nl

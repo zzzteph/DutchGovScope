@@ -4,7 +4,7 @@ title: "rijkscloud.nl"
 permalink: "/dutchgov/rijkscloud.nl.html"
 subdomains_count: 559
 all_subdomains_count: 756
-urls_count: 150
+urls_count: 149
 ssl_rank: A+
 http_rank: C
 security_txt: 42
@@ -28,7 +28,7 @@ tags: dutchgov
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/DutchGovScope/data/rijkscloud.nl/subdomains.txt)|559|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/rijkscloud.nl/urls.txt)|150|Urls|
+|[urls.txt](/DutchGovScope/data/rijkscloud.nl/urls.txt)|149|Urls|
 |[all_subdomains.txt](/DutchGovScope/data/rijkscloud.nl/all_subdomains.txt)|756|All found subdomains (history)|
 
 
@@ -177,7 +177,6 @@ tags: dutchgov
 |[https://whatsip.test.ix.rijkscloud.nl](https://whatsip.test.ix.rijkscloud.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://nifi-registry.test.ix.rijkscloud.nl](https://nifi-registry.test.ix.rijkscloud.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://portal-performance.test.ix.rijkscloud.nl](https://portal-performance.test.ix.rijkscloud.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
-|[https://api-performance.test.ix.rijkscloud.nl](https://api-performance.test.ix.rijkscloud.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://diplomaonderzoek.dfront.rijkscloud.nl](https://diplomaonderzoek.dfront.rijkscloud.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|Uno Documentatie|
 |[https://particulier.dfront.rijkscloud.nl](https://particulier.dfront.rijkscloud.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|Uno Documentatie|
 |[https://afwijkend-examineren.dfront.rijkscloud.nl](https://afwijkend-examineren.dfront.rijkscloud.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|Uno Documentatie|

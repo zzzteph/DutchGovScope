@@ -138,7 +138,6 @@ https://sonar-lts.test.ix.rijkscloud.nl
 https://whatsip.test.ix.rijkscloud.nl
 https://nifi-registry.test.ix.rijkscloud.nl
 https://portal-performance.test.ix.rijkscloud.nl
-https://api-performance.test.ix.rijkscloud.nl
 https://diplomaonderzoek.dfront.rijkscloud.nl
 https://particulier.dfront.rijkscloud.nl
 https://afwijkend-examineren.dfront.rijkscloud.nl

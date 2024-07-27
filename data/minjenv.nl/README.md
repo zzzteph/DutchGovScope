@@ -5,7 +5,7 @@
 
 
  - **SSL Grade**:
- - **HTTP Security Grade**:B
+ - **HTTP Security Grade**:C
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:2
 
 
@@ -26,5 +26,5 @@
 |[https://enterpriseregistration.dtv.minjenv.nl](https://enterpriseregistration.dtv.minjenv.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://minjenv.nl](https://minjenv.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://www.minjenv.nl](https://www.minjenv.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
-|[http://autodiscover.dtv.minjenv.nl](http://autodiscover.dtv.minjenv.nl)| | **B**|Microsoft-IIS/10.0|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server||
+|[http://autodiscover.dtv.minjenv.nl](http://autodiscover.dtv.minjenv.nl)| | **C**|Microsoft-IIS/10.0| |:white_check_mark: | | | | | | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server||
 

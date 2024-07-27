@@ -25,3 +25,4 @@ https://webdisk.apps.feedfoodtransfer.nl
 https://jira.apps.feedfoodtransfer.nl
 https://beta.apps.feedfoodtransfer.nl
 https://cdn.apps.feedfoodtransfer.nl
+https://test.apps.feedfoodtransfer.nl

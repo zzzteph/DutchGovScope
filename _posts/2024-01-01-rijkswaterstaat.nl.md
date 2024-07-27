@@ -4,10 +4,10 @@ title: "rijkswaterstaat.nl"
 permalink: "/dutchgov/rijkswaterstaat.nl.html"
 subdomains_count: 131
 all_subdomains_count: 673
-urls_count: 90
+urls_count: 89
 ssl_rank: A-
 http_rank: C
-security_txt: 54
+security_txt: 55
 url_link: /data/rijkswaterstaat.nl/urls.txt
 all_subdomains_link: /data/rijkswaterstaat.nl/all_subdomains.txt
 subdomains_link: /data/rijkswaterstaat.nl/subdomains.txt
@@ -22,13 +22,13 @@ tags: dutchgov
 
  - **SSL Grade**:A-
  - **HTTP Security Grade**:C
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:54
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:55
 
 
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/DutchGovScope/data/rijkswaterstaat.nl/subdomains.txt)|131|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/rijkswaterstaat.nl/urls.txt)|90|Urls|
+|[urls.txt](/DutchGovScope/data/rijkswaterstaat.nl/urls.txt)|89|Urls|
 |[all_subdomains.txt](/DutchGovScope/data/rijkswaterstaat.nl/all_subdomains.txt)|673|All found subdomains (history)|
 
 
@@ -38,8 +38,9 @@ tags: dutchgov
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[https://acc-geo.rijkswaterstaat.nl](https://acc-geo.rijkswaterstaat.nl)| **A+**| **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Nginx|Landingspagina I...|
+|[https://acc-inloggen.rijkswaterstaat.nl](https://acc-inloggen.rijkswaterstaat.nl)| **B**| **A**||:warning: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Pulse Secure||
 |[https://acc-maps.rijkswaterstaat.nl](https://acc-maps.rijkswaterstaat.nl)| **A**| **E**|| | | | | | | | :white_check_mark: | |||
-|[https://acceptatie.botova.rijkswaterstaat.nl](https://acceptatie.botova.rijkswaterstaat.nl)| **F**| **C**|Microsoft-IIS/10.0|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS IIS:10.0 Microsoft ASP.NET Windows Server|Document Moved|
+|[https://acceptatie.botova.rijkswaterstaat.nl](https://acceptatie.botova.rijkswaterstaat.nl)| **F**| **F**|Microsoft-IIS/10.0| | | | | | | | :white_check_mark: | |HSTS IIS:10.0 Microsoft ASP.NET Windows Server|Document Moved|
 |[https://acceptatie.esb.rijkswaterstaat.nl](https://acceptatie.esb.rijkswaterstaat.nl)| **A+**| **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
 |[https://acceptatie.spin2.rijkswaterstaat.nl](https://acceptatie.spin2.rijkswaterstaat.nl)| | **C**|Apache TomEE| |:white_check_mark: | | | | | | :white_check_mark: | |Apache HTTP Server HSTS||
 |[https://am.rijkswaterstaat.nl](https://am.rijkswaterstaat.nl)| **A**| **C**|Kestrel| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Kestrel Microsoft ASP.NET||
@@ -71,7 +72,7 @@ tags: dutchgov
 |[https://opleiding.spin2.rijkswaterstaat.nl](https://opleiding.spin2.rijkswaterstaat.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://overstroomik.rijkswaterstaat.nl](https://overstroomik.rijkswaterstaat.nl)| **A**| **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |||
 |[https://preprod.iam.rijkswaterstaat.nl](https://preprod.iam.rijkswaterstaat.nl)| **A+**| **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
-|[https://protide.rijkswaterstaat.nl](https://protide.rijkswaterstaat.nl)| **A**| **A**|ChartaWebServer rws-epvw-prt201|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
+|[https://protide.rijkswaterstaat.nl](https://protide.rijkswaterstaat.nl)| **A**| **A**|ChartaWebServer rws-epvw-prt202|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[http://prs.rijkswaterstaat.nl](http://prs.rijkswaterstaat.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://rhel8.wabinfo.rijkswaterstaat.nl](https://rhel8.wabinfo.rijkswaterstaat.nl)| **F**| **E**|| | | | | | | | :white_check_mark: | |||
 |[https://spin.rijkswaterstaat.nl](https://spin.rijkswaterstaat.nl)| **A+**| **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |||
@@ -93,7 +94,7 @@ tags: dutchgov
 |[https://static.tst.staging.rijkswaterstaat.nl](https://static.tst.staging.rijkswaterstaat.nl)| **A**| **F**|Microsoft-Azure-Application-Gateway/v2| | | | | | | | :white_check_mark: | ||502 Bad Gateway|
 |[https://static.tst.staging.werkenbij.rijkswaterstaat.nl](https://static.tst.staging.werkenbij.rijkswaterstaat.nl)| **A+**| **C**|Microsoft-Azure-Application-Gateway/v2| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|403 Forbidden|
 |[https://stijlgids.rijkswaterstaat.nl](https://stijlgids.rijkswaterstaat.nl)| **A**| **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |||
-|[https://test.bezoekerscentrum.rijkswaterstaat.nl](https://test.bezoekerscentrum.rijkswaterstaat.nl)| **F**| **F**|nginx| | | | | | | | :white_check_mark: | |HSTS MySQL Nginx PHP SDL Tridion W3 Total Cache WordPress Yoast SEO:22.3|Bezoekerscentrum...|
+|[https://test.bezoekerscentrum.rijkswaterstaat.nl](https://test.bezoekerscentrum.rijkswaterstaat.nl)| **F**| **F**|nginx| | | | | | | | :white_check_mark: | |MySQL Nginx PHP SDL Tridion W3 Total Cache WordPress Yoast SEO:23.0|Bezoekerscentrum...|
 |[https://test.botova.rijkswaterstaat.nl](https://test.botova.rijkswaterstaat.nl)| **F**| **C**|Microsoft-HTTPAPI/2.0| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Microsoft HTTPAPI:2.0|Not Found|
 |[https://test.esb.rijkswaterstaat.nl](https://test.esb.rijkswaterstaat.nl)| **A+**| **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
 |[https://test.spin2.rijkswaterstaat.nl](https://test.spin2.rijkswaterstaat.nl)| | **D**|Apache TomEE|:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | |Apache HTTP Server HSTS||
@@ -106,14 +107,12 @@ tags: dutchgov
 |[http://viya.rijkswaterstaat.nl](http://viya.rijkswaterstaat.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://wabinfo.rijkswaterstaat.nl](https://wabinfo.rijkswaterstaat.nl)| **A+**| **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |||
 |[https://wachtwoord.rijkswaterstaat.nl](https://wachtwoord.rijkswaterstaat.nl)| **A**| **E**|| | | | | | | | :white_check_mark: | |||
-|[https://watergegevens.rijkswaterstaat.nl](https://watergegevens.rijkswaterstaat.nl)| **F**| **E**|| | | | | | | | :white_check_mark: | |IIS:8.5 Microsoft ASP.NET Windows Server|Website niet bes...|
 |[https://waterwebservices.rijkswaterstaat.nl](https://waterwebservices.rijkswaterstaat.nl)| **A+**| **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|Welcome to Rijks...|
 |[https://waterwebservices.beta.rijkswaterstaat.nl](https://waterwebservices.beta.rijkswaterstaat.nl)| **B**| **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|Welcome to Rijks...|
 |[http://webmail.rijkswaterstaat.nl](http://webmail.rijkswaterstaat.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://werkenbij.rijkswaterstaat.nl](https://werkenbij.rijkswaterstaat.nl)| **A+**| **C**|Microsoft-IIS/10.0|:warning: |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Google Tag Manager HSTS IIS:10.0 Microsoft ASP.NET Windows Server|Werken bij Rijks...|
 |[https://www.rijkswaterstaat.nl](https://www.rijkswaterstaat.nl)| **A+**| **C**||:warning: |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Google Tag Manager HSTS Microsoft ASP.NET SDL Tridion|Home|
 |[https://www.bezoekerscentrum.rijkswaterstaat.nl](https://www.bezoekerscentrum.rijkswaterstaat.nl)| **A+**| **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS MySQL Nginx PHP WordPress||
-|[https://www.watergegevens.rijkswaterstaat.nl](https://www.watergegevens.rijkswaterstaat.nl)| **F**| **E**|| | | | | | | | :white_check_mark: | |IIS:8.5 Microsoft ASP.NET Windows Server|Website niet bes...|
 |[https://www.werkenbij.rijkswaterstaat.nl](https://www.werkenbij.rijkswaterstaat.nl)| **A**| **C**|Microsoft-Azure-Application-Gateway/v2|:warning: |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | ||301 Moved Perman...|
 |[https://zaaksysteem.rijkswaterstaat.nl](https://zaaksysteem.rijkswaterstaat.nl)| **A+**| **A**||:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Moved|
 |[https://zwerfafval.rijkswaterstaat.nl](https://zwerfafval.rijkswaterstaat.nl)| **A+**| **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:-|Object moved|

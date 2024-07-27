@@ -51,3 +51,6 @@ https://acceptatie.beheer.generiekeregistratiedienst.cibg.nl
 https://beheer.generiekeregistratiedienst.cibg.nl
 https://behandel.generiekeregistratiedienst.cibg.nl
 https://acceptatie.behandel.generiekeregistratiedienst.cibg.nl
+http://acceptatie.ebms.digikoppeling.cibg.nl
+http://acceptatie.brba.cibg.nl
+http://acceptatie.webservices.lrza.cibg.nl

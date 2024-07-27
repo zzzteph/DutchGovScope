@@ -12,7 +12,7 @@
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/irealisatie.nl/subdomains.txt)|70|Alive subdomains|
-|[urls.txt](/data/irealisatie.nl/urls.txt)|59|Urls|
+|[urls.txt](/data/irealisatie.nl/urls.txt)|61|Urls|
 |[all_subdomains.txt](/data/irealisatie.nl/all_subdomains.txt)|71|All found subdomains (history)|
 
 
@@ -80,4 +80,6 @@
 |[https://nextcloud.acc.irealisatie.nl](https://nextcloud.acc.irealisatie.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nextcloud PHP||
 |[https://cts.test.woo.irealisatie.nl](https://cts.test.woo.irealisatie.nl)| | **B**|Apache| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server Basic HSTS|401 Unauthorized|
 |[https://mailcatch.test.woo.irealisatie.nl](https://mailcatch.test.woo.irealisatie.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Basic HSTS|401 Unauthorized|
+|[http://test.woo.irealisatie.nl](http://test.woo.irealisatie.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
+|[http://acc.mgo.irealisatie.nl](http://acc.mgo.irealisatie.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 

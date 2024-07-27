@@ -13,7 +13,7 @@
 |------------|-------|------|
 |[subdomains.txt](/data/zeroemissiedoelgroepenvervoer.nl/subdomains.txt)|6|Alive subdomains|
 |[urls.txt](/data/zeroemissiedoelgroepenvervoer.nl/urls.txt)|2|Urls|
-|[all_subdomains.txt](/data/zeroemissiedoelgroepenvervoer.nl/all_subdomains.txt)|6|All found subdomains (history)|
+|[all_subdomains.txt](/data/zeroemissiedoelgroepenvervoer.nl/all_subdomains.txt)|9|All found subdomains (history)|
 
 
 ## Statistics

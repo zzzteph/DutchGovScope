@@ -46,8 +46,8 @@ tags: dutchgov
 |[https://fixjerijk.duurzamecao.nl](https://fixjerijk.duurzamecao.nl)| **A**| **F**|nginx| | | | | | | | :white_check_mark: | |MySQL Nginx PHP WordPress Yoast SEO:22.6|Fix je Rijk!|
 |[https://teamuitje.duurzamecao.nl](https://teamuitje.duurzamecao.nl)| **A**| **F**|nginx| | | | | | | | :white_check_mark: | |MySQL Nginx PHP WordPress|Home - Rijkstool...|
 |[https://idkbb.duurzamecao.nl](https://idkbb.duurzamecao.nl)| **A**| **F**|nginx| | | | | | | | :white_check_mark: | |MySQL Nginx PHP WooCommerce:8.0.1 WordPress:6.3.5 Yoast SEO:22.6|IDKB B|
-|[https://idkbf.duurzamecao.nl](https://idkbf.duurzamecao.nl)| **A**| **F**|nginx| | | | | | | | :white_check_mark: | |MySQL Nginx PHP WooCommerce:8.0.2 WordPress:6.3.4 Yoast SEO:22.6|IDKB F|
-|[https://idkbd.duurzamecao.nl](https://idkbd.duurzamecao.nl)| **A**| **F**|nginx| | | | | | | | :white_check_mark: | |MySQL Nginx PHP WooCommerce:8.0.1 WordPress:6.3.4 Yoast SEO:22.6|IDKB D|
+|[https://idkbf.duurzamecao.nl](https://idkbf.duurzamecao.nl)| **A**| **F**|nginx| | | | | | | | :white_check_mark: | |MySQL Nginx PHP WooCommerce:8.0.2 WordPress:6.3.5 Yoast SEO:22.6|IDKB F|
+|[https://idkbd.duurzamecao.nl](https://idkbd.duurzamecao.nl)| **A**| **F**|nginx| | | | | | | | :white_check_mark: | |MySQL Nginx PHP WooCommerce:8.0.1 WordPress:6.3.5 Yoast SEO:22.6|IDKB D|
 |[https://idkb.duurzamecao.nl](https://idkb.duurzamecao.nl)| **A**| **F**|nginx| | | | | | | | :white_check_mark: | |MySQL Nginx PHP WooCommerce:8.0.1 WordPress:6.3.5 Yoast SEO:22.6|Rijkstools|
 |[https://idkbe.duurzamecao.nl](https://idkbe.duurzamecao.nl)| **A**| **F**|nginx| | | | | | | | :white_check_mark: | |MySQL Nginx PHP WooCommerce:8.0.1 WordPress:6.3.5 Yoast SEO:22.6|IDKB E|
 |[https://idkba.duurzamecao.nl](https://idkba.duurzamecao.nl)| **A**| **F**|nginx| | | | | | | | :white_check_mark: | |MySQL Nginx PHP WooCommerce:8.0.1 WordPress:6.3.5 Yoast SEO:22.6|IDKB A|

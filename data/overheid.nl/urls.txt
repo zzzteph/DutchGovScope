@@ -106,7 +106,6 @@ https://omgevingswet.overheid.nl
 https://ondertekeningsviewer.overheid.nl
 https://open.overheid.nl
 https://open-acc.overheid.nl
-http://open-pilot.overheid.nl
 https://oproepingen.overheid.nl
 https://oproepingen-api.overheid.nl
 https://organisaties.overheid.nl

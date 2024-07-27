@@ -13,7 +13,7 @@
 |------------|-------|------|
 |[subdomains.txt](/data/etoegang.nl/subdomains.txt)|18|Alive subdomains|
 |[urls.txt](/data/etoegang.nl/urls.txt)|5|Urls|
-|[all_subdomains.txt](/data/etoegang.nl/all_subdomains.txt)|27|All found subdomains (history)|
+|[all_subdomains.txt](/data/etoegang.nl/all_subdomains.txt)|29|All found subdomains (history)|
 
 
 ## Statistics

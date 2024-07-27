@@ -11,7 +11,7 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/provincie-utrecht.nl/subdomains.txt)|114|Alive subdomains|
+|[subdomains.txt](/data/provincie-utrecht.nl/subdomains.txt)|115|Alive subdomains|
 |[urls.txt](/data/provincie-utrecht.nl/urls.txt)|95|Urls|
 |[all_subdomains.txt](/data/provincie-utrecht.nl/all_subdomains.txt)|191|All found subdomains (history)|
 
@@ -63,7 +63,7 @@
 |[https://login.provincie-utrecht.nl](https://login.provincie-utrecht.nl)| **B**| **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Java||
 |[https://socialintranet.provincie-utrecht.nl](https://socialintranet.provincie-utrecht.nl)| **A+**| **B**|Apache|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server Google Tag Manager HSTS|- provincie Utre...|
 |[https://formulieren.provincie-utrecht.nl](https://formulieren.provincie-utrecht.nl)| **A+**| **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS|Object moved|
-|[https://vctu-api.provincie-utrecht.nl](https://vctu-api.provincie-utrecht.nl)| **A+**| **C**|nginx|:o: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|Trambaan Utrecht...|
+|[https://vctu-api.provincie-utrecht.nl](https://vctu-api.provincie-utrecht.nl)| **A+**| **B**||:warning: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Trambaan Utrecht...|
 |[https://geotest.provincie-utrecht.nl](https://geotest.provincie-utrecht.nl)| **A+**| **B**|Apache|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
 |[https://gis-test.provincie-utrecht.nl](https://gis-test.provincie-utrecht.nl)| **A+**| **A**|Apache| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
 |[https://auth-preprod.provincie-utrecht.nl](https://auth-preprod.provincie-utrecht.nl)| **F**| **E**|| | | | | | | | :white_check_mark: | |HSTS||
@@ -80,11 +80,11 @@
 |[https://provincie-utrecht.nl](https://provincie-utrecht.nl)| **A+**| **A**|Apache| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
 |[https://atlas.provincie-utrecht.nl](https://atlas.provincie-utrecht.nl)| **A+**| **E**|Apache|:o: |:white_check_mark: | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
 |[https://oem.provincie-utrecht.nl](https://oem.provincie-utrecht.nl)| **A+**| **C**|Apache| |:white_check_mark: | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|Access Gateway|
-|[https://mailing.provincie-utrecht.nl](https://mailing.provincie-utrecht.nl)| **A**| **A**|Apache| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS PHP:8.2.20||
+|[https://mailing.provincie-utrecht.nl](https://mailing.provincie-utrecht.nl)| **A**| **A**|Apache| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS PHP:8.2.21||
 |[https://webkaart.provincie-utrecht.nl](https://webkaart.provincie-utrecht.nl)| **A+**| **A**|Apache| |:white_check_mark: | | | :white_check_mark:| | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
-|[https://vctu.provincie-utrecht.nl](https://vctu.provincie-utrecht.nl)| **A+**| **B**|nginx| |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | |HSTS Nginx Node.js Nuxt.js Vue.js|Veiligheid en Co...|
+|[https://vctu.provincie-utrecht.nl](https://vctu.provincie-utrecht.nl)| **A+**| **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Node.js Nuxt.js Vue.js|Veiligheid en Co...|
 |[https://socialintranet-acc.provincie-utrecht.nl](https://socialintranet-acc.provincie-utrecht.nl)| **A+**| **A**|Apache|:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS||
-|[https://stateninformatie.provincie-utrecht.nl](https://stateninformatie.provincie-utrecht.nl)| **A+**| **A**|Apache|:warning: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS|403 Forbidden|
+|[https://stateninformatie.provincie-utrecht.nl](https://stateninformatie.provincie-utrecht.nl)| **A+**| **A**|Apache|:warning: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS|Provincie Utrech...|
 |[https://wortel183.provincie-utrecht.nl](https://wortel183.provincie-utrecht.nl)| **B**| **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Java||
 |[https://ruimtelijkeplannenintern.provincie-utrecht.nl](https://ruimtelijkeplannenintern.provincie-utrecht.nl)| **B**| **F**|nginx| | | | | | | | :white_check_mark: | |Basic Nginx|401 Authorizatio...|
 |[https://itop.provincie-utrecht.nl](https://itop.provincie-utrecht.nl)| **A**| **F**|Apache|:o: | | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server PHP:7.4.3||
@@ -96,7 +96,7 @@
 |[https://search-a.provincie-utrecht.nl](https://search-a.provincie-utrecht.nl)| **A+**| **E**|nginx/1.18.0 (Ubuntu)|:o: |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Nginx:1.18.0 Ubuntu|Redirecting to h...|
 |[https://geofme-test.provincie-utrecht.nl](https://geofme-test.provincie-utrecht.nl)| **A+**| **D**|Apache|:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | |Apache HTTP Server HSTS Java||
 |[https://geofme.provincie-utrecht.nl](https://geofme.provincie-utrecht.nl)| **A+**| **D**|Apache|:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | |Apache HTTP Server HSTS Java||
-|[https://veiligdelen.provincie-utrecht.nl](https://veiligdelen.provincie-utrecht.nl)| **A+**| **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|SmartLockr|
+|[https://veiligdelen.provincie-utrecht.nl](https://veiligdelen.provincie-utrecht.nl)| **A+**| **A**||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Azure HSTS|SmartLockr|
 |[https://octopus-acc-docs.provincie-utrecht.nl](https://octopus-acc-docs.provincie-utrecht.nl)| **A**| **F**||:white_check_mark: | | | | | | | :white_check_mark: | |Azure Azure Front Door Microsoft ASP.NET||
 |[https://octopus-acc.provincie-utrecht.nl](https://octopus-acc.provincie-utrecht.nl)| **A+**| **A**||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Azure Azure Front Door Azure Monitor HSTS|Object moved|
 |[https://octopus-docs.provincie-utrecht.nl](https://octopus-docs.provincie-utrecht.nl)| **A**| **F**||:white_check_mark: | | | | | | | :white_check_mark: | |Azure Azure Front Door Microsoft ASP.NET||
@@ -105,7 +105,7 @@
 |[https://monitoromgevingsbeleid.provincie-utrecht.nl](https://monitoromgevingsbeleid.provincie-utrecht.nl)| **A+**| **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Amazon S3 Amazon Web Services Azure Edge Network HSTS Microsoft ASP.NET MyFonts|Home - Monitor o...|
 |[https://omgevingsbeleid.provincie-utrecht.nl](https://omgevingsbeleid.provincie-utrecht.nl)| **A+**| **E**|| | | | | | | | :white_check_mark: | |HSTS||
 |[https://zsd.provincie-utrecht.nl](https://zsd.provincie-utrecht.nl)| **F**| **E**|| | | | | | | | :white_check_mark: | |HSTS Java||
-|[https://ib.provincie-utrecht.nl](https://ib.provincie-utrecht.nl)| **F**| **E**|| | | | | | | | :white_check_mark: | ||404 Not Found|
+|[https://ib.provincie-utrecht.nl](https://ib.provincie-utrecht.nl)| **F**| **E**|| | | | | | | | :white_check_mark: | |HSTS Java||
 |[https://govroam.provincie-utrecht.nl](https://govroam.provincie-utrecht.nl)| | **B**|Apache|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
 |[https://iapp.provincie-utrecht.nl](https://iapp.provincie-utrecht.nl)| | **C**|Apache| |:white_check_mark: | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|Access Gateway|
 |[https://mfa.provincie-utrecht.nl](https://mfa.provincie-utrecht.nl)| | **B**|Apache|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|

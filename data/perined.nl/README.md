@@ -43,7 +43,7 @@
 |[http://autodiscover.perined.nl](http://autodiscover.perined.nl)| | **B**|Microsoft-IIS/10.0|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server||
 |[http://localhost.perined.nl](http://localhost.perined.nl)| | **F**|nginx| | | :warning:| | | | | :white_check_mark: | |Nginx|(404 Not Found)|
 |[https://webmail.perined.nl](https://webmail.perined.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Bootstrap Nginx PHP:7.4.33 RoundCube|Roundcube Webmai...|
-|[https://cbgwww.palga.nlwww.iknl.nlwww.perined.nl](https://cbgwww.palga.nlwww.iknl.nlwww.perined.nl)| | **F**|Apache/2.4.59 (Amazon Linux) OpenSSL/3.0.8| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.59 HSTS OpenSSL:3.0.8|301 Moved Perman...|
+|[https://cbgwww.palga.nlwww.iknl.nlwww.perined.nl](https://cbgwww.palga.nlwww.iknl.nlwww.perined.nl)| | **F**|Apache/2.4.61 (Amazon Linux) OpenSSL/3.0.8| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.61 HSTS OpenSSL:3.0.8|301 Moved Perman...|
 |[https://webmail02.perined.nl](https://webmail02.perined.nl)| | **F**|Apache/2.4.59 (Amazon Linux) OpenSSL/3.0.8| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.59 HSTS OpenSSL:3.0.8|301 Moved Perman...|
 |[https://esx01.perined.nl](https://esx01.perined.nl)| | **F**|Apache/2.4.59 (Amazon Linux) OpenSSL/3.0.8| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.59 HSTS OpenSSL:3.0.8|301 Moved Perman...|
 |[https://store.dbadmin.perined.nl](https://store.dbadmin.perined.nl)| | **F**|Apache/2.4.59 (Amazon Linux) OpenSSL/3.0.8| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.59 HSTS OpenSSL:3.0.8|301 Moved Perman...|

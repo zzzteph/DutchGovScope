@@ -1,4 +1,5 @@
 https://acc-geo.rijkswaterstaat.nl
+https://acc-inloggen.rijkswaterstaat.nl
 https://acc-maps.rijkswaterstaat.nl
 https://acceptatie.botova.rijkswaterstaat.nl
 https://acceptatie.esb.rijkswaterstaat.nl
@@ -67,14 +68,12 @@ https://vegetatiemonitor.rijkswaterstaat.nl
 http://viya.rijkswaterstaat.nl
 https://wabinfo.rijkswaterstaat.nl
 https://wachtwoord.rijkswaterstaat.nl
-https://watergegevens.rijkswaterstaat.nl
 https://waterwebservices.rijkswaterstaat.nl
 https://waterwebservices.beta.rijkswaterstaat.nl
 http://webmail.rijkswaterstaat.nl
 https://werkenbij.rijkswaterstaat.nl
 https://www.rijkswaterstaat.nl
 https://www.bezoekerscentrum.rijkswaterstaat.nl
-https://www.watergegevens.rijkswaterstaat.nl
 https://www.werkenbij.rijkswaterstaat.nl
 https://zaaksysteem.rijkswaterstaat.nl
 https://zwerfafval.rijkswaterstaat.nl

@@ -57,3 +57,5 @@ http://dva.acc.mgo.irealisatie.nl
 https://nextcloud.acc.irealisatie.nl
 https://cts.test.woo.irealisatie.nl
 https://mailcatch.test.woo.irealisatie.nl
+http://test.woo.irealisatie.nl
+http://acc.mgo.irealisatie.nl

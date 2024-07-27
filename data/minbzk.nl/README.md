@@ -6,13 +6,13 @@
 
  - **SSL Grade**:A-
  - **HTTP Security Grade**:C
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:4
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:5
 
 
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/minbzk.nl/subdomains.txt)|42|Alive subdomains|
-|[urls.txt](/data/minbzk.nl/urls.txt)|9|Urls|
+|[urls.txt](/data/minbzk.nl/urls.txt)|10|Urls|
 |[all_subdomains.txt](/data/minbzk.nl/all_subdomains.txt)|87|All found subdomains (history)|
 
 
@@ -30,4 +30,5 @@
 |[https://flowlogics.minbzk.nl](https://flowlogics.minbzk.nl)| | **F**|Microsoft-IIS/8.5| | | | | | | | :white_check_mark: | |Basic IIS:8.5 Microsoft ASP.NET Windows Server|401 - Unauthoriz...|
 |[https://acc-flowlogics.minbzk.nl](https://acc-flowlogics.minbzk.nl)| | **F**|Microsoft-IIS/8.5| | | | | | | | :white_check_mark: | |Basic IIS:8.5 Microsoft ASP.NET Windows Server|401 - Unauthoriz...|
 |[https://wikixl-saml.minbzk.nl](https://wikixl-saml.minbzk.nl)| **A+**| **B**|Apache| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS|Redirect|
+|[https://rbl-talent.minbzk.nl](https://rbl-talent.minbzk.nl)| | **C**|Class|:white_check_mark: |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | |HSTS||
 

@@ -34,6 +34,7 @@ https://gensys.flevoland.nl
 https://flevoland.nl
 https://www.flevoland.nl
 https://www.omgevingsplan.flevoland.nl
+http://mail.flevoland.nl
 https://hetverhaalvan.flevoland.nl
 https://preprodondertekenen.flevoland.nl
 http://prod.flevoland.nl

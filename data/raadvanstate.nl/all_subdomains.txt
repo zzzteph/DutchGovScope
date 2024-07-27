@@ -54,3 +54,6 @@ kennisbank.raadvanstate.nl
 mail3.raadvanstate.nl
 ssl.raadvanstate.nl
 mobiel.raadvanstate.nl
+scim.raadsaam-t.raadvanstate.nl
+scim.raadsaam.raadvanstate.nl
+scim.raadsaam-a.raadvanstate.nl

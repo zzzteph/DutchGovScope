@@ -8,9 +8,7 @@ https://webservices.hdsr.nl
 https://redactie.hdsr.nl
 http://autodiscover.hdsr.nl
 https://www.hdsr.nl
-https://mrb.hdsr.nl
 https://testkennis.hdsr.nl
-https://geoweb.hdsr.nl
 https://kennis.hdsr.nl
 https://kaarten.hdsr.nl
 https://begrippen.hdsr.nl

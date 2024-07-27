@@ -2,8 +2,8 @@
 layout: default
 title: "tweedekamer.nl"
 permalink: "/dutchgov/tweedekamer.nl.html"
-subdomains_count: 197
-all_subdomains_count: 300
+subdomains_count: 198
+all_subdomains_count: 301
 urls_count: 129
 ssl_rank: A-
 http_rank: C
@@ -27,9 +27,9 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/tweedekamer.nl/subdomains.txt)|197|Alive subdomains|
+|[subdomains.txt](/DutchGovScope/data/tweedekamer.nl/subdomains.txt)|198|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/tweedekamer.nl/urls.txt)|129|Urls|
-|[all_subdomains.txt](/DutchGovScope/data/tweedekamer.nl/all_subdomains.txt)|300|All found subdomains (history)|
+|[all_subdomains.txt](/DutchGovScope/data/tweedekamer.nl/all_subdomains.txt)|301|All found subdomains (history)|
 
 
 ## Statistics

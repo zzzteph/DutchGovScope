@@ -1,4 +1,3 @@
-https://web.wrr.nl
 https://english.wrr.nl
 https://feeds.english.wrr.nl
 https://feeds.wrr.nl

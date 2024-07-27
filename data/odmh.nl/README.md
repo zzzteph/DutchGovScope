@@ -6,7 +6,7 @@
 
  - **SSL Grade**:A
  - **HTTP Security Grade**:D
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:7
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:6
 
 
 | File       | Count | Info |
@@ -29,7 +29,7 @@
 |[https://bkk.odmh.nl](https://bkk.odmh.nl)| **A**| **A**|Apache| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server Microsoft ASP.NET|Document Moved|
 |[https://formulieren.odmh.nl](https://formulieren.odmh.nl)| **A+**| **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Pagina bestaat n...|
 |[https://zaaksysteem.odmh.nl](https://zaaksysteem.odmh.nl)| **A+**| **A**||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Moved|
-|[https://vacatures.odmh.nl](https://vacatures.odmh.nl)| **A+**| **B**||:white_check_mark: |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | |HSTS||
+|[https://vacatures.odmh.nl](https://vacatures.odmh.nl)| **A+**| **B**||:white_check_mark: |:white_check_mark: | | |:warning: | | | :white_check_mark: | |HSTS||
 |[https://constructiestukken.odmh.nl](https://constructiestukken.odmh.nl)| **A**| **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:-|Object moved|
 |[https://odmh.nl](https://odmh.nl)| **A**| **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:-|Object moved|
 |[https://redactie.odmh.nl](https://redactie.odmh.nl)| **A**| **A**|-|:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:-|Object moved|

@@ -4,3 +4,6 @@ test.zeroemissiedoelgroepenvervoer.nl
 accept.zeroemissiedoelgroepenvervoer.nl
 www.accept.zeroemissiedoelgroepenvervoer.nl
 www.test.zeroemissiedoelgroepenvervoer.nl
+hostmaster.zeroemissiedoelgroepenvervoer.nl
+autodiscover.zeroemissiedoelgroepenvervoer.nl
+autoconfig.zeroemissiedoelgroepenvervoer.nl

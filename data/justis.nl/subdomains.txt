@@ -9,6 +9,5 @@ test.intranet.justis.nl
 vogcheck.justis.nl
 www.justis.nl
 justis.nl
-prod.intranet.justis.nl
 jaarverslag.justis.nl
 validata.justis.nl

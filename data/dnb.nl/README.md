@@ -11,8 +11,8 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/dnb.nl/subdomains.txt)|178|Alive subdomains|
-|[urls.txt](/data/dnb.nl/urls.txt)|120|Urls|
+|[subdomains.txt](/data/dnb.nl/subdomains.txt)|179|Alive subdomains|
+|[urls.txt](/data/dnb.nl/urls.txt)|121|Urls|
 |[all_subdomains.txt](/data/dnb.nl/all_subdomains.txt)|304|All found subdomains (history)|
 
 
@@ -141,4 +141,5 @@
 |[https://monet-dev.dnb.nl](https://monet-dev.dnb.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Kestrel Microsoft ASP.NET|Web App - Unavai...|
 |[https://monet-tst.dnb.nl](https://monet-tst.dnb.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Microsoft Azure...|
 |[https://pla.dnb.nl](https://pla.dnb.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||
+|[https://services.sharepoint.dnb.nl](https://services.sharepoint.dnb.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 

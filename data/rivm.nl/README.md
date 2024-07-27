@@ -12,7 +12,7 @@
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/rivm.nl/subdomains.txt)|404|Alive subdomains|
-|[urls.txt](/data/rivm.nl/urls.txt)|276|Urls|
+|[urls.txt](/data/rivm.nl/urls.txt)|275|Urls|
 |[all_subdomains.txt](/data/rivm.nl/all_subdomains.txt)|946|All found subdomains (history)|
 
 
@@ -28,14 +28,13 @@
 |[http://acc-duvo-web-api.rivm.nl](http://acc-duvo-web-api.rivm.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[http://acc-jira.rivm.nl](http://acc-jira.rivm.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://acc-mijn.rivm.nl](https://acc-mijn.rivm.nl)| **A**| **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |||
-|[https://acc-nieuwsbrieven.rivm.nl](https://acc-nieuwsbrieven.rivm.nl)| **A+**| **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS|403 - Forbidden:...|
 |[https://acc-veldmonitoring.rivm.nl](https://acc-veldmonitoring.rivm.nl)| **A+**| **A**|Apache/2.4.37 (Red Hat Enterprise Linux) OpenSSL/1.1.1k| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server:2.4.37 HSTS OpenSSL:1.1.1k Red Hat|302 Found|
 |[http://acc-vtcc.rivm.nl](http://acc-vtcc.rivm.nl)| **B**| **E**|| | | | | | | | :white_check_mark: | |||
 |[http://acceptatie.rivm.nl](http://acceptatie.rivm.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[http://acceptatie-data.rivm.nl](http://acceptatie-data.rivm.nl)| **A**| **E**|| | | | | | | | :white_check_mark: | |||
 |[https://acceptatie.aiz.osiris.rivm.nl](https://acceptatie.aiz.osiris.rivm.nl)| **A**| **F**||:warning: | | | | | | | :white_check_mark: | |F5 BigIP||
 |[https://acceptatie.biotechnologie.rivm.nl](https://acceptatie.biotechnologie.rivm.nl)| **A+**| **B**||:warning: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |F5 BigIP HSTS||
-|[https://acceptatie.cdif.osiris.rivm.nl](https://acceptatie.cdif.osiris.rivm.nl)| **A+**| **D**||:warning: |:white_check_mark: | | | | | | :white_check_mark: | |F5 BigIP HSTS||
+|[http://acceptatie.cdif.osiris.rivm.nl](http://acceptatie.cdif.osiris.rivm.nl)| **A+**| **D**||:warning: |:white_check_mark: | | | | | | :white_check_mark: | |F5 BigIP HSTS||
 |[http://acceptatie.ceses.osiris.rivm.nl](http://acceptatie.ceses.osiris.rivm.nl)| **A**| **E**|| | | | | | | | :white_check_mark: | |||
 |[http://acceptatie.chemkap.rivm.nl](http://acceptatie.chemkap.rivm.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[http://acceptatie.cibrapportage.rivm.nl](http://acceptatie.cibrapportage.rivm.nl)| | **E**|| | | | | | | | :white_check_mark: | |||

@@ -13,7 +13,7 @@
 |------------|-------|------|
 |[subdomains.txt](/data/minjenv-events.nl/subdomains.txt)|36|Alive subdomains|
 |[urls.txt](/data/minjenv-events.nl/urls.txt)|36|Urls|
-|[all_subdomains.txt](/data/minjenv-events.nl/all_subdomains.txt)|36|All found subdomains (history)|
+|[all_subdomains.txt](/data/minjenv-events.nl/all_subdomains.txt)|41|All found subdomains (history)|
 
 
 ## Statistics

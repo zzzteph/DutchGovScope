@@ -6,12 +6,12 @@
 
  - **SSL Grade**:A-
  - **HTTP Security Grade**:E
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:10045
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:10183
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/mett.nl/subdomains.txt)|28528|Alive subdomains|
+|[subdomains.txt](/data/mett.nl/subdomains.txt)|29794|Alive subdomains|
 |[urls.txt](/data/mett.nl/urls.txt)|26861|Urls|
 |[all_subdomains.txt](/data/mett.nl/all_subdomains.txt)|31392|All found subdomains (history)|
 
@@ -651,8 +651,8 @@
 |[https://logincookie.mett.nl](https://logincookie.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Probleem aangetr...|
 |[https://rad-test.mett.nl](https://rad-test.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Probleem aangetr...|
 |[https://demo2.mett.nl](https://demo2.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS|Probleem aangetr...|
-|[https://m3test-azure.mett.nl](https://m3test-azure.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Microsoft Azure...|
-|[https://encodingtest.mett.nl](https://encodingtest.mett.nl)| | **F**|Microsoft-IIS/10.0| | | | | | | | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server|Document Moved|
+|[http://m3test-azure.mett.nl](http://m3test-azure.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
+|[https://encodingtest.mett.nl](https://encodingtest.mett.nl)| | **F**|Microsoft-IIS/10.0| | | | | | | | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET:4.0.30319 Windows Server|Object moved|
 |[http://39244.mett.nl](http://39244.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://m4mpa.mett.nl](https://m4mpa.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Probleem aangetr...|
 |[https://m4spa.azure.mett.nl](https://m4spa.azure.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Microsoft Azure...|
@@ -2322,7 +2322,7 @@
 |[http://wegwijzeraquathermie.mett.nl](http://wegwijzeraquathermie.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET||
 |[http://zichtopnl.mett.nl](http://zichtopnl.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET||
 |[http://timpaan.mett.nl](http://timpaan.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||
-|[http://iis01.mett.nl](http://iis01.mett.nl)| | **A**|Microsoft-IIS/10.0| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server|Document Moved|
+|[http://iis01.mett.nl](http://iis01.mett.nl)| | **A**|Microsoft-IIS/10.0| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server|Object moved|
 |[https://nestedcomments.mett.nl](https://nestedcomments.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Probleem aangetr...|
 |[http://seo-teksten.mett.nl](http://seo-teksten.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[http://stotteren.mett.nl](http://stotteren.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | |||

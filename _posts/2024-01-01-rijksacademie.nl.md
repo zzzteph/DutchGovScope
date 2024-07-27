@@ -37,7 +37,7 @@ tags: dutchgov
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://advies.rijksacademie.nl](https://advies.rijksacademie.nl)| **A**| **F**|nginx| | | | | | | | :white_check_mark: | |MySQL Nginx PHP WordPress:6.5.5|Leerlijnen WP|
+|[https://advies.rijksacademie.nl](https://advies.rijksacademie.nl)| **A**| **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|The account host...|
 |[https://feeds.rijksacademie.nl](https://feeds.rijksacademie.nl)| **A+**| **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://helpdesk.rijksacademie.nl](https://helpdesk.rijksacademie.nl)| | **F**|cloudflare| | | | | | | | :white_check_mark: | |Cloudflare|403 Forbidden|
 |[https://nieuwsbrief.rijksacademie.nl](https://nieuwsbrief.rijksacademie.nl)| **A+**| **A**|nginx| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||

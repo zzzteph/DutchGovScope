@@ -5,14 +5,14 @@
 
 
  - **SSL Grade**:B+
- - **HTTP Security Grade**:B
+ - **HTTP Security Grade**:C
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:29
 
 
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/cibg.nl/subdomains.txt)|80|Alive subdomains|
-|[urls.txt](/data/cibg.nl/urls.txt)|53|Urls|
+|[urls.txt](/data/cibg.nl/urls.txt)|56|Urls|
 |[all_subdomains.txt](/data/cibg.nl/all_subdomains.txt)|144|All found subdomains (history)|
 
 
@@ -74,4 +74,7 @@
 |[https://beheer.generiekeregistratiedienst.cibg.nl](https://beheer.generiekeregistratiedienst.cibg.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://behandel.generiekeregistratiedienst.cibg.nl](https://behandel.generiekeregistratiedienst.cibg.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://acceptatie.behandel.generiekeregistratiedienst.cibg.nl](https://acceptatie.behandel.generiekeregistratiedienst.cibg.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
+|[http://acceptatie.ebms.digikoppeling.cibg.nl](http://acceptatie.ebms.digikoppeling.cibg.nl)| | **F**|BigIP| | | | | | | | :white_check_mark: | |F5 BigIP||
+|[http://acceptatie.brba.cibg.nl](http://acceptatie.brba.cibg.nl)| | **F**|BigIP| | | | | | | | :white_check_mark: | |F5 BigIP||
+|[http://acceptatie.webservices.lrza.cibg.nl](http://acceptatie.webservices.lrza.cibg.nl)| | **F**|BigIP| | | | | | | | :white_check_mark: | |F5 BigIP||
 

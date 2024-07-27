@@ -628,7 +628,7 @@ http://krinkelsinmaasband.mett.nl
 https://logincookie.mett.nl
 https://rad-test.mett.nl
 https://demo2.mett.nl
-https://m3test-azure.mett.nl
+http://m3test-azure.mett.nl
 https://encodingtest.mett.nl
 http://39244.mett.nl
 https://m4mpa.mett.nl
