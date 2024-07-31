@@ -6,14 +6,14 @@
 
  - **SSL Grade**:
  - **HTTP Security Grade**:B
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:48
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:50
 
 
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/irealisatie.nl/subdomains.txt)|70|Alive subdomains|
-|[urls.txt](/data/irealisatie.nl/urls.txt)|61|Urls|
-|[all_subdomains.txt](/data/irealisatie.nl/all_subdomains.txt)|71|All found subdomains (history)|
+|[urls.txt](/data/irealisatie.nl/urls.txt)|63|Urls|
+|[all_subdomains.txt](/data/irealisatie.nl/all_subdomains.txt)|72|All found subdomains (history)|
 
 
 ## Statistics
@@ -82,4 +82,6 @@
 |[https://mailcatch.test.woo.irealisatie.nl](https://mailcatch.test.woo.irealisatie.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Basic HSTS|401 Unauthorized|
 |[http://test.woo.irealisatie.nl](http://test.woo.irealisatie.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[http://acc.mgo.irealisatie.nl](http://acc.mgo.irealisatie.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
+|[https://qualification-admin.test.zm.irealisatie.nl](https://qualification-admin.test.zm.irealisatie.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |Basic HSTS|401 Unauthorized|
+|[https://qualification-api.test.zm.irealisatie.nl](https://qualification-api.test.zm.irealisatie.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |Basic HSTS|401 Unauthorized|
 

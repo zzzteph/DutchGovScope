@@ -62,7 +62,7 @@
 |[http://localhost.nationaalarchief.nl](http://localhost.nationaalarchief.nl)| | **F**|nginx| | | :warning:| | | | | :white_check_mark: | |Nginx|(404 Not Found)|
 |[http://amh.nationaalarchief.nl](http://amh.nationaalarchief.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://de.test.nationaalarchief.nl](https://de.test.nationaalarchief.nl)| | **F**|gtranslate| | | | | | | | :white_check_mark: | |||
-|[https://ontorefine.nationaalarchief.nl](https://ontorefine.nationaalarchief.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|403 Forbidden|
+|[https://ontorefine.nationaalarchief.nl](https://ontorefine.nationaalarchief.nl)| | **B**|nginx| |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | |Basic HSTS Nginx|401 Authorizatio...|
 |[https://meld.nationaalarchief.nl](https://meld.nationaalarchief.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|403 Forbidden|
 |[https://id.test.nationaalarchief.nl](https://id.test.nationaalarchief.nl)| | **F**|gtranslate| | | | | | | | :white_check_mark: | |||
 

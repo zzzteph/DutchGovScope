@@ -11,7 +11,7 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/arboportaal.nl/subdomains.txt)|7|Alive subdomains|
+|[subdomains.txt](/data/arboportaal.nl/subdomains.txt)|8|Alive subdomains|
 |[urls.txt](/data/arboportaal.nl/urls.txt)|4|Urls|
 |[all_subdomains.txt](/data/arboportaal.nl/all_subdomains.txt)|28|All found subdomains (history)|
 

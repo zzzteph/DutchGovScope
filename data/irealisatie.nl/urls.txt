@@ -59,3 +59,5 @@ https://cts.test.woo.irealisatie.nl
 https://mailcatch.test.woo.irealisatie.nl
 http://test.woo.irealisatie.nl
 http://acc.mgo.irealisatie.nl
+https://qualification-admin.test.zm.irealisatie.nl
+https://qualification-api.test.zm.irealisatie.nl

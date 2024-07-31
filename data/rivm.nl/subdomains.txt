@@ -263,7 +263,6 @@ a-biokap.rivm.nl
 a-chemkap.rivm.nl
 acc-apps.rivm.nl
 acc-bestelmedicatie.rivm.nl
-acc-hielprik.rivm.nl
 acc-maps.rivm.nl
 acc-paskaart.rivm.nl
 acc-sftp01.rivm.nl
@@ -290,7 +289,6 @@ download.webmail.test.rivm.nl
 webmail.test.rivm.nl
 b2b-prd.rivm.nl
 b2b-qas.rivm.nl
-bestelmedicatie.rivm.nl
 biokap-oud.rivm.nl
 webservice2.aiz.osiris.rivm.nl
 calpro.bori.rivm.nl
@@ -298,7 +296,6 @@ campus-t.rivm.nl
 demo.pb-pk.rivm.nl
 demo.pbl.rivm.nl
 dme-gw-dmz.rivm.nl
-docstest.rivm.nl
 domapp.rivm.nl
 externemail.rivm.nl
 externemail01.rivm.nl
@@ -348,7 +345,6 @@ netauth.rivm.nl
 notestest.rivm.nl
 ns.rivm.nl
 ns2.rivm.nl
-ont-bestelmedicatie.rivm.nl
 opleiding.crios.rivm.nl
 password-test.rivm.nl
 pilot-vcpapp.rivm.nl
@@ -371,7 +367,6 @@ sorproposal.rivm.nl
 sqproxyl03-int-p-nat.rivm.nl
 ssologin.rivm.nl
 test.biotechnologie.rivm.nl
-test.osiris.rivm.nl
 test.pars.rivm.nl
 tst-mam.rivm.nl
 vpn.rivm.nl

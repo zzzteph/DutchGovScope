@@ -2,7 +2,7 @@
 layout: default
 title: "topcorridors.nl"
 permalink: "/dutchgov/topcorridors.nl.html"
-subdomains_count: 0
+subdomains_count: 4
 all_subdomains_count: 7
 urls_count: 0
 ssl_rank: 
@@ -27,7 +27,7 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/topcorridors.nl/subdomains.txt)|0|Alive subdomains|
+|[subdomains.txt](/DutchGovScope/data/topcorridors.nl/subdomains.txt)|4|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/topcorridors.nl/urls.txt)|0|Urls|
 |[all_subdomains.txt](/DutchGovScope/data/topcorridors.nl/all_subdomains.txt)|7|All found subdomains (history)|
 

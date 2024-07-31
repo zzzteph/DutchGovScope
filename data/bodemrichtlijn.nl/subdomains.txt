@@ -960,6 +960,7 @@ banket.bodemrichtlijn.nl
 kameleoon.bodemrichtlijn.nl
 googletranslate.bodemrichtlijn.nl
 cursussen.bodemrichtlijn.nl
+clinique.bodemrichtlijn.nl
 ml.app.bodemrichtlijn.nl
 proyectos.bodemrichtlijn.nl
 ivanovskoe.bodemrichtlijn.nl
@@ -1000,6 +1001,7 @@ chihua.bodemrichtlijn.nl
 sbir.bodemrichtlijn.nl
 imoney.bodemrichtlijn.nl
 smsgateway.bodemrichtlijn.nl
+itnews.bodemrichtlijn.nl
 test.partner.bodemrichtlijn.nl
 ultima.bodemrichtlijn.nl
 pater.bodemrichtlijn.nl

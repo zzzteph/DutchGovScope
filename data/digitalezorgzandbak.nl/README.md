@@ -5,14 +5,14 @@
 
 
  - **SSL Grade**:
- - **HTTP Security Grade**:E
+ - **HTTP Security Grade**:F
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:0
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/digitalezorgzandbak.nl/subdomains.txt)|2|Alive subdomains|
-|[urls.txt](/data/digitalezorgzandbak.nl/urls.txt)|2|Urls|
+|[subdomains.txt](/data/digitalezorgzandbak.nl/subdomains.txt)|0|Alive subdomains|
+|[urls.txt](/data/digitalezorgzandbak.nl/urls.txt)|0|Urls|
 |[all_subdomains.txt](/data/digitalezorgzandbak.nl/all_subdomains.txt)|2|All found subdomains (history)|
 
 
@@ -21,6 +21,4 @@
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[http://www.digitalezorgzandbak.nl](http://www.digitalezorgzandbak.nl)| | **E**|| | | | | | | | :white_check_mark: | |Google Cloud Google Cloud CDN||
-|[http://digitalezorgzandbak.nl](http://digitalezorgzandbak.nl)| | **E**|| | | | | | | | :white_check_mark: | |AngularJS React Wix||
 

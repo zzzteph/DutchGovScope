@@ -35,17 +35,17 @@ This structured approach ensures that our repository is always up-to-date and ac
  - **FP:** :white_check_mark: if *Feature-Policy* header is set (+10)
  - **CORS:** :white_check_mark: if *CORS* header is set without issues (+10)
 ## Summary
- - Number of domains: **1254**
- - Number of subdomains: **344887**
- - Number of urls: **258646**
+ - Number of domains: **1404**
+ - Number of subdomains: **347828**
+ - Number of urls: **259499**
  -  Average HTTP Security headers rank: **E**
  - Average SSL grade: **A-**
- - Number of [security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/): **36538**
+ - Number of [security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/): **39061**
 ### Repository Structure
- - [domains.txt](https://raw.githubusercontent.com/zzzteph/DutchGovScope/main/storage/dutchgov/domains.txt): List of **1254** domains in scope
- - [subdomains.txt](https://raw.githubusercontent.com/zzzteph/DutchGovScope/main/storage/dutchgov/subdomains.txt): Detailed list of **344887** alive subdomains.
- - [urls.txt](https://raw.githubusercontent.com/zzzteph/DutchGovScope/main/storage/dutchgov/urls.txt): Compilation of **258646** URLs.
- - [all_subdomains.txt](https://raw.githubusercontent.com/zzzteph/DutchGovScope/main/storage/dutchgov/all_subdomains.txt): All **376913** subdomains that were found all over the time 
+ - [domains.txt](https://raw.githubusercontent.com/zzzteph/DutchGovScope/main/storage/dutchgov/domains.txt): List of **1404** domains in scope
+ - [subdomains.txt](https://raw.githubusercontent.com/zzzteph/DutchGovScope/main/storage/dutchgov/subdomains.txt): Detailed list of **347828** alive subdomains.
+ - [urls.txt](https://raw.githubusercontent.com/zzzteph/DutchGovScope/main/storage/dutchgov/urls.txt): Compilation of **259499** URLs.
+ - [all_subdomains.txt](https://raw.githubusercontent.com/zzzteph/DutchGovScope/main/storage/dutchgov/all_subdomains.txt): All **381227** subdomains that were found all over the time 
 ## Links and acknowledgements
  - [bug-bounty-dutch-goverment-scope.md](https://gist.github.com/zzzteph/99a7bd2acde12cb4b2626fc9261bc56d)
  - [basisbeveiliging.nl](https://basisbeveiliging.nl/)

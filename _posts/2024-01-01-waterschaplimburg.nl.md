@@ -3,11 +3,11 @@ layout: default
 title: "waterschaplimburg.nl"
 permalink: "/dutchgov/waterschaplimburg.nl.html"
 subdomains_count: 2554
-all_subdomains_count: 2646
+all_subdomains_count: 2777
 urls_count: 2333
 ssl_rank: A
 http_rank: E
-security_txt: 1947
+security_txt: 1951
 url_link: /data/waterschaplimburg.nl/urls.txt
 all_subdomains_link: /data/waterschaplimburg.nl/all_subdomains.txt
 subdomains_link: /data/waterschaplimburg.nl/subdomains.txt
@@ -22,14 +22,14 @@ tags: dutchgov
 
  - **SSL Grade**:A
  - **HTTP Security Grade**:E
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:1947
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:1951
 
 
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/DutchGovScope/data/waterschaplimburg.nl/subdomains.txt)|2554|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/waterschaplimburg.nl/urls.txt)|2333|Urls|
-|[all_subdomains.txt](/DutchGovScope/data/waterschaplimburg.nl/all_subdomains.txt)|2646|All found subdomains (history)|
+|[all_subdomains.txt](/DutchGovScope/data/waterschaplimburg.nl/all_subdomains.txt)|2777|All found subdomains (history)|
 
 
 ## Statistics
@@ -196,7 +196,7 @@ tags: dutchgov
 |[http://xoops.waterschaplimburg.nl](http://xoops.waterschaplimburg.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
 |[http://autoconfig.sports.waterschaplimburg.nl](http://autoconfig.sports.waterschaplimburg.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
 |[http://takeout.waterschaplimburg.nl](http://takeout.waterschaplimburg.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
-|[http://sexualiteit.waterschaplimburg.nl](http://sexualiteit.waterschaplimburg.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
+|[http://sexualiteit.waterschaplimburg.nl](http://sexualiteit.waterschaplimburg.nl)| | **E**|Microsoft-HTTPAPI/2.0| | | | | | :white_check_mark: | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
 |[http://services-acc.waterschaplimburg.nl](http://services-acc.waterschaplimburg.nl)| | **E**|Microsoft-HTTPAPI/2.0| | | | | | :white_check_mark: | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
 |[http://digitallibrary.waterschaplimburg.nl](http://digitallibrary.waterschaplimburg.nl)| | **E**|Microsoft-HTTPAPI/2.0| | | | | | :white_check_mark: | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
 |[http://reza.waterschaplimburg.nl](http://reza.waterschaplimburg.nl)| | **D**|| | | | | | :white_check_mark: | | :white_check_mark: | |Microsoft HTTPAPI:2.0||
@@ -1485,7 +1485,7 @@ tags: dutchgov
 |[http://devtrack.waterschaplimburg.nl](http://devtrack.waterschaplimburg.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
 |[http://farmerama.waterschaplimburg.nl](http://farmerama.waterschaplimburg.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
 |[http://mkg.waterschaplimburg.nl](http://mkg.waterschaplimburg.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
-|[http://an.waterschaplimburg.nl](http://an.waterschaplimburg.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
+|[http://an.waterschaplimburg.nl](http://an.waterschaplimburg.nl)| | **E**|Microsoft-HTTPAPI/2.0| | | | | | :white_check_mark: | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
 |[http://linefriends.waterschaplimburg.nl](http://linefriends.waterschaplimburg.nl)| | **E**|Microsoft-HTTPAPI/2.0| | | | | | :white_check_mark: | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
 |[http://rock-n-roll.waterschaplimburg.nl](http://rock-n-roll.waterschaplimburg.nl)| | **D**|| | | | | | :white_check_mark: | | :white_check_mark: | |||
 |[http://antis.waterschaplimburg.nl](http://antis.waterschaplimburg.nl)| | **D**|| | | | | | :white_check_mark: | | :white_check_mark: | |||

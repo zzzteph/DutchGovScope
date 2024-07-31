@@ -9,13 +9,16 @@ www.vragenlijst.minvws.nl
 vragenlijst.minvws.nl
 login-uzi.pilot.uzi-online.minvws.nl
 login.pilot.uzi-online.minvws.nl
+abonneren.minvws.nl
 cibg.minvws.nl
 emailservice.minvws.nl
+idm.minvws.nl
 portal2.minvws.nl
 row.minvws.nl
 www.row.minvws.nl
 sdm.minvws.nl
 sip.minvws.nl
+sip.myroom.minvws.nl
 spf.minvws.nl
 vacatures.minvws.nl
 www.vacatures.minvws.nl

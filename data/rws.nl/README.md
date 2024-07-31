@@ -6,13 +6,13 @@
 
  - **SSL Grade**:B+
  - **HTTP Security Grade**:C
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:97
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:98
 
 
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/rws.nl/subdomains.txt)|254|Alive subdomains|
-|[urls.txt](/data/rws.nl/urls.txt)|165|Urls|
+|[urls.txt](/data/rws.nl/urls.txt)|166|Urls|
 |[all_subdomains.txt](/data/rws.nl/all_subdomains.txt)|1191|All found subdomains (history)|
 
 
@@ -168,9 +168,10 @@
 |[https://techniekacademie.rws.nl](https://techniekacademie.rws.nl)| **A+**| **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:-|Object moved|
 |[http://acceptatie.gbvi.rws.nl](http://acceptatie.gbvi.rws.nl)| **A**| **E**|| | | | | | | | :white_check_mark: | |||
 |[https://keycloak-test.vm-02.azure.grid.rws.nl](https://keycloak-test.vm-02.azure.grid.rws.nl)| **A+**| **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Welcome to Keycl...|
+|[https://poc-werkplek.rws.nl](https://poc-werkplek.rws.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS||
 |[http://gitlab.at.rws.nl](http://gitlab.at.rws.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://keycloak-acc.vm-02.azure.grid.rws.nl](https://keycloak-acc.vm-02.azure.grid.rws.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Welcome to Keycl...|
-|[http://acc-werkplek.rws.nl](http://acc-werkplek.rws.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS||
+|[https://acc-werkplek.rws.nl](https://acc-werkplek.rws.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS||
 |[https://enterpriseenrollment.rws.nl](https://enterpriseenrollment.rws.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||
 |[https://splunkhec.grid.rws.nl](https://splunkhec.grid.rws.nl)| | **F**|Microsoft-Azure-Application-Gateway/v2| | | | | | | | :white_check_mark: | ||403 Forbidden|
 |[https://splunkhec.gridacc.rws.nl](https://splunkhec.gridacc.rws.nl)| | **F**|Microsoft-Azure-Application-Gateway/v2| | | | | | | | :white_check_mark: | ||403 Forbidden|

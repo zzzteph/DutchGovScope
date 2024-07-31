@@ -205,3 +205,6 @@ belastingdienst-lms-a.course-api.trainingscatalogus.nl
 belastingdienst-lms-a.enrollment-api.trainingscatalogus.nl
 belastingdienst-lms-a.scim-api.trainingscatalogus.nl
 rabobank.trainingscatalogus.nl
+vgz-lms.course-api.trainingscatalogus.nl
+vgz-lms.enrollment-api.trainingscatalogus.nl
+vgz-lms.scim-api.trainingscatalogus.nl

@@ -52,7 +52,7 @@ https://rhub.kvk.nl
 https://events.kvk.nl
 https://admin.tbadmin.dev.kvk.nl
 https://admin.tbadmin.npo.kvk.nl
-http://sdgapi.acp.ondernemersplein.kvk.nl
+https://sdgapi.acp.ondernemersplein.kvk.nl
 https://admin.tbadmin.kvk.nl
 https://www3.kvk.nl
 https://tbadmin.kvk.nl

@@ -13,7 +13,7 @@
 |------------|-------|------|
 |[subdomains.txt](/data/sawa-vth.nl/subdomains.txt)|11|Alive subdomains|
 |[urls.txt](/data/sawa-vth.nl/urls.txt)|11|Urls|
-|[all_subdomains.txt](/data/sawa-vth.nl/all_subdomains.txt)|25|All found subdomains (history)|
+|[all_subdomains.txt](/data/sawa-vth.nl/all_subdomains.txt)|26|All found subdomains (history)|
 
 
 ## Statistics

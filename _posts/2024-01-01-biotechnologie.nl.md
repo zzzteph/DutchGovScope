@@ -38,7 +38,7 @@ tags: dutchgov
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[https://biotechnologie.nl](https://biotechnologie.nl)| **A+**| **A**|cloudflare| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Cloudflare HSTS HTTP/3|301 Moved Perman...|
-|[https://www.biotechnologie.nl](https://www.biotechnologie.nl)| **A+**| **A**|cloudflare| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Cloudflare HSTS HTTP/3 MySQL PHP WordPress Yoast SEO:22.9|Home - Biotechno...|
+|[https://www.biotechnologie.nl](https://www.biotechnologie.nl)| **A+**| **A**|cloudflare| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Cloudflare HSTS HTTP/3 MySQL PHP WordPress Yoast SEO:23.1|Home - Biotechno...|
 |[http://autodiscover.biotechnologie.nl](http://autodiscover.biotechnologie.nl)| | **C**|cloudflare| |:white_check_mark: | | | | | | :white_check_mark: | |Cloudflare HTTP/3 Microsoft ASP.NET||
 |[https://enterpriseenrollment.biotechnologie.nl](https://enterpriseenrollment.biotechnologie.nl)| | **F**|cloudflare| | | | | | | | :white_check_mark: | |Cloudflare HSTS HTTP/3||
 |[https://enterpriseregistration.biotechnologie.nl](https://enterpriseregistration.biotechnologie.nl)| | **C**|cloudflare| |:white_check_mark: | | | | | | :white_check_mark: | |Cloudflare HSTS HTTP/3||

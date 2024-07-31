@@ -5,6 +5,7 @@ werkbezoek.minienw.nl
 www.minienw.nl
 publicaties.minienw.nl
 minienw.nl
+acc-newsroom.minienw.nl
 acc.service.mpn.minienw.nl
 mpn-acc.minienw.nl
 cms.intranet.minienw.nl
@@ -15,6 +16,7 @@ sdm.minienw.nl
 services-hprm-acc.minienw.nl
 services-hprm.minienw.nl
 sip.minienw.nl
+sip.myroom.minienw.nl
 widscan-acc.minienw.nl
 adresgids.minienw.nl
 widscan.minienw.nl

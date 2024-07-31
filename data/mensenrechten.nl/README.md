@@ -5,7 +5,7 @@
 
 
  - **SSL Grade**:A-
- - **HTTP Security Grade**:A
+ - **HTTP Security Grade**:B
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:6
 
 
@@ -35,7 +35,7 @@
 |[https://feeds.mensenrechten.nl](https://feeds.mensenrechten.nl)| **A+**| **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://complaintform.mensenrechten.nl](https://complaintform.mensenrechten.nl)| **A**| **A**|Microsoft-IIS/10.0| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS IIS:10.0 Windows Server hCaptcha|Meld discriminat...|
 |[https://academie.mensenrechten.nl](https://academie.mensenrechten.nl)| **A+**| **A**|Apache| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS Moodle PHP|Doorverwijspagin...|
-|[http://autodiscover.mensenrechten.nl](http://autodiscover.mensenrechten.nl)| | **B**|Microsoft-IIS/10.0|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server||
+|[http://autodiscover.mensenrechten.nl](http://autodiscover.mensenrechten.nl)| | **C**|Microsoft-IIS/10.0| |:white_check_mark: | | | | | | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server||
 |[https://enterpriseenrollment.mensenrechten.nl](https://enterpriseenrollment.mensenrechten.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||
 |[https://enterpriseregistration.mensenrechten.nl](https://enterpriseregistration.mensenrechten.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[http://micc.mensenrechten.nl](http://micc.mensenrechten.nl)| | **D**|-| | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | ||IIS Windows Serv...|

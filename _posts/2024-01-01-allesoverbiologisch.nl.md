@@ -2,7 +2,7 @@
 layout: default
 title: "allesoverbiologisch.nl"
 permalink: "/dutchgov/allesoverbiologisch.nl.html"
-subdomains_count: 4
+subdomains_count: 10
 all_subdomains_count: 10
 urls_count: 0
 ssl_rank: 
@@ -27,7 +27,7 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/allesoverbiologisch.nl/subdomains.txt)|4|Alive subdomains|
+|[subdomains.txt](/DutchGovScope/data/allesoverbiologisch.nl/subdomains.txt)|10|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/allesoverbiologisch.nl/urls.txt)|0|Urls|
 |[all_subdomains.txt](/DutchGovScope/data/allesoverbiologisch.nl/all_subdomains.txt)|10|All found subdomains (history)|
 

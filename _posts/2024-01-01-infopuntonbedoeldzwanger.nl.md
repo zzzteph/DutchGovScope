@@ -41,5 +41,5 @@ tags: dutchgov
 |[https://www.infopuntonbedoeldzwanger.nl](https://www.infopuntonbedoeldzwanger.nl)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Home | Informati...|
 |[https://opendata.infopuntonbedoeldzwanger.nl](https://opendata.infopuntonbedoeldzwanger.nl)| **A+**| **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://feeds.infopuntonbedoeldzwanger.nl](https://feeds.infopuntonbedoeldzwanger.nl)| **A+**| **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
-|[http://autodiscover.infopuntonbedoeldzwanger.nl](http://autodiscover.infopuntonbedoeldzwanger.nl)| | **B**|Microsoft-IIS/10.0|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server||
+|[http://autodiscover.infopuntonbedoeldzwanger.nl](http://autodiscover.infopuntonbedoeldzwanger.nl)| | **C**|Microsoft-IIS/10.0| |:white_check_mark: | | | | | | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server||
 

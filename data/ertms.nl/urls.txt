@@ -5,3 +5,7 @@ http://ns1.ertms.nl
 http://elink.ertms.nl
 http://vakantie-frankrijk.ertms.nl
 http://click.enews.ertms.nl
+http://out.ertms.nl
+http://hegang.ertms.nl
+http://achthuizen.ertms.nl
+http://saras.ertms.nl

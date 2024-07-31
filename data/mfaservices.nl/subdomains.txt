@@ -147,3 +147,9 @@ tst-euvis-api.data-exchange.consular.mfaservices.nl
 tst-euvis-ebms.data-exchange.consular.mfaservices.nl
 tst-vismail-api.data-exchange.consular.mfaservices.nl
 tst-vismail-ebms.data-exchange.consular.mfaservices.nl
+dev-bvv-api.data-exchange.consular.mfaservices.nl
+dev-bvv-ebms.data-exchange.consular.mfaservices.nl
+snd-bvv-api.data-exchange.consular.mfaservices.nl
+snd-bvv-ebms.data-exchange.consular.mfaservices.nl
+tst-bvv-api.data-exchange.consular.mfaservices.nl
+tst-bvv-ebms.data-exchange.consular.mfaservices.nl

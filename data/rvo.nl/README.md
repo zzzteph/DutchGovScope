@@ -6,13 +6,13 @@
 
  - **SSL Grade**:B+
  - **HTTP Security Grade**:C
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:44
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:47
 
 
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/rvo.nl/subdomains.txt)|171|Alive subdomains|
-|[urls.txt](/data/rvo.nl/urls.txt)|117|Urls|
+|[urls.txt](/data/rvo.nl/urls.txt)|118|Urls|
 |[all_subdomains.txt](/data/rvo.nl/all_subdomains.txt)|279|All found subdomains (history)|
 
 
@@ -26,7 +26,7 @@
 |[https://acc-cms.projects.rvo.nl](https://acc-cms.projects.rvo.nl)| **A**| **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |Basic HSTS Nginx|401 Authorizatio...|
 |[https://acc-english.rvo.nl](https://acc-english.rvo.nl)| **F**| **E**|| | | | | | | | :white_check_mark: | |HSTS|403 Forbidden|
 |[https://acc-geocontent.rvo.nl](https://acc-geocontent.rvo.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS|Acceptatie geoco...|
-|[https://acc-webform.rvo.nl](https://acc-webform.rvo.nl)| **A+**| **E**|| | | | | | | | :white_check_mark: | |HSTS|Service Unavaila...|
+|[https://acc-webform.rvo.nl](https://acc-webform.rvo.nl)| **A+**| **E**|| | | | | | | | :white_check_mark: | |HSTS|RVO|
 |[https://acc-website.rvo.nl](https://acc-website.rvo.nl)| **F**| **E**|| | | | | | | | :white_check_mark: | |HSTS|403 Forbidden|
 |[https://acc.informatiehuis.rvo.nl](https://acc.informatiehuis.rvo.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Drupal:10 HSTS Nginx PHP|Inloggen | RVO I...|
 |[https://achilles.rvo.nl](https://achilles.rvo.nl)| **A+**| **B**||:o: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS PHP|Redirecting to h...|
@@ -36,7 +36,7 @@
 |[https://cms.projects.rvo.nl](https://cms.projects.rvo.nl)| **A+**| **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |Basic HSTS Nginx|401 Authorizatio...|
 |[https://confluenceimg.rvo.nl](https://confluenceimg.rvo.nl)| **A+**| **C**||:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | |Atlassian Confluence HSTS Java||
 |[https://confluenceimg-acc.rvo.nl](https://confluenceimg-acc.rvo.nl)| **B**| **E**|| | | | | | | | :white_check_mark: | |Atlassian Confluence HSTS Java||
-|[https://crowdtech.rvo.nl](https://crowdtech.rvo.nl)| **A+**| **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
+|[https://crowdtech.rvo.nl](https://crowdtech.rvo.nl)| **A+**| **F**|nginx| | | | | | | | :white_check_mark: | |HSTS Nginx||
 |[http://d7.rvo.nl](http://d7.rvo.nl)| | **C**|| | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | ||404 - Not Found|
 |[https://data.rvo.nl](https://data.rvo.nl)| **A+**| **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Drupal HSTS PHP Varnish||
 |[https://dcmp-upnl-idp.rvo.nl](https://dcmp-upnl-idp.rvo.nl)| **A+**| **C**||:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|404 Not Found|
@@ -54,14 +54,14 @@
 |[https://infographics.rvo.nl](https://infographics.rvo.nl)| **A**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|307 Temporary Re...|
 |[https://informatiehuis.rvo.nl](https://informatiehuis.rvo.nl)| **A+**| **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Drupal:10 HSTS Nginx PHP|Inloggen | RVO I...|
 |[https://intra.rvo.nl](https://intra.rvo.nl)| **A+**| **C**||:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
-|[http://intra-acc.rvo.nl](http://intra-acc.rvo.nl)| **A+**| **A**||:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
+|[https://intra-acc.rvo.nl](https://intra-acc.rvo.nl)| **A+**| **A**||:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://intra-cms.rvo.nl](https://intra-cms.rvo.nl)| **A+**| **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|403 - Forbidden:...|
 |[https://intra-cms-acc.rvo.nl](https://intra-cms-acc.rvo.nl)| **A+**| **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|403 - Forbidden:...|
 |[https://intranetvan.rvo.nl](https://intranetvan.rvo.nl)| | **C**||:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|302 Found|
 |[https://jiraimg.rvo.nl](https://jiraimg.rvo.nl)| **A+**| **C**||:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Java||
 |[https://jiraimg-acc.rvo.nl](https://jiraimg-acc.rvo.nl)| **A+**| **C**||:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Java||
 |[https://kennisdelen.rvo.nl](https://kennisdelen.rvo.nl)| **A+**| **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache Tomcat Fourthwall:1.0.0 HSTS Java MariaDB Skolengo:1.0.0|Kennisdelen RVO|
-|[https://kgr.mijn.rvo.nl](https://kgr.mijn.rvo.nl)| **A+**| **D**||:o: |:white_check_mark: | | | | | | :white_check_mark: | |HSTS React|MijnRVO.nl|
+|[https://kgr.mijn.rvo.nl](https://kgr.mijn.rvo.nl)| **A+**| **A**||:warning: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|MijnRVO.nl|
 |[https://kostenkentallen.rvo.nl](https://kostenkentallen.rvo.nl)| | **F**|cloudflare| | | | | | | | :white_check_mark: | |Cloudflare|Kostenkentallen...|
 |[https://mc-upnl.mijn.rvo.nl](https://mc-upnl.mijn.rvo.nl)| **A+**| **A**||:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|302 Found|
 |[https://mijn.rvo.nl](https://mijn.rvo.nl)| **A+**| **A**||:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
@@ -109,8 +109,8 @@
 |[https://acc-cms.projecten.rvo.nl](https://acc-cms.projecten.rvo.nl)| **A**| **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |Basic HSTS Nginx|401 Authorizatio...|
 |[https://test-cms.projecten.rvo.nl](https://test-cms.projecten.rvo.nl)| **A**| **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |Basic HSTS Nginx|401 Authorizatio...|
 |[https://prod.wetten.rvo.nl](https://prod.wetten.rvo.nl)| **A**| **F**|nginx| | | | | | | | :white_check_mark: | |Basic Nginx|401 Authorizatio...|
-|[https://wetten.rvo.nl](https://wetten.rvo.nl)| **A+**| **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Drupal HSTS Nginx PHP|Redirecting to h...|
-|[https://acc-wetten.rvo.nl](https://acc-wetten.rvo.nl)| **A**| **E**|nginx/1.26.1| | | | | | :white_check_mark: | | :white_check_mark: | |Drupal Nginx:1.26.1 PHP:8.1.29|Redirecting to h...|
+|[https://wetten.rvo.nl](https://wetten.rvo.nl)| **A+**| **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Drupal:10 HSTS Nginx PHP|Redirecting to h...|
+|[https://acc-wetten.rvo.nl](https://acc-wetten.rvo.nl)| **A**| **E**|nginx/1.26.1| | | | | | :white_check_mark: | | :white_check_mark: | |Drupal Nginx:1.26.1 PHP:8.3.9|Redirecting to h...|
 |[https://test-wetten.rvo.nl](https://test-wetten.rvo.nl)| **A**| **F**|nginx/1.26.1| | | | | | | | :white_check_mark: | |Basic Nginx:1.26.1|401 Authorizatio...|
 |[https://english-data.rvo.nl](https://english-data.rvo.nl)| **A+**| **E**|| | | | | | | | :white_check_mark: | |Drupal HSTS PHP Varnish||
 |[http://bpa.rvo.nl](http://bpa.rvo.nl)| **B**| **E**|| | | | | | | | :white_check_mark: | |||
@@ -138,4 +138,5 @@
 |[https://rhel-p-mijn.rvo.nl](https://rhel-p-mijn.rvo.nl)| | **A**||:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://rhel-np-mijn.rvo.nl](https://rhel-np-mijn.rvo.nl)| | **A**||:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Mijn RVO - Stori...|
 |[https://edicrop.rvo.nl](https://edicrop.rvo.nl)| | **B**||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS Oracle Dynamic Monitoring Service Oracle WebLogic Server|Error 404--Not F...|
+|[http://ciam.rvo.nl](http://ciam.rvo.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 

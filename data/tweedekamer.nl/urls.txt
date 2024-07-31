@@ -2,7 +2,6 @@ https://livestreaming-thumb.b67.tweedekamer.nl
 https://livestream-media.tweedekamer.nl
 https://share.tweedekamer.nl
 https://apps.tweedekamer.nl
-https://debatgemist.beta.tweedekamer.nl
 https://io.debatdirect.tweedekamer.nl
 https://debatgemist.tweedekamer.nl
 https://service.tweedekamer.nl
@@ -52,7 +51,6 @@ https://www.onderzoek.tweedekamer.nl
 https://livestream-thumb.tweedekamer.nl
 https://api.debatdirect.tweedekamer.nl
 https://werkenbij.tweedekamer.nl
-https://opendata.acceptatie.tweedekamer.nl
 https://tweedekamer.nl
 https://livestreaming.b67acc.tweedekamer.nl
 https://plein2.tweedekamer.nl

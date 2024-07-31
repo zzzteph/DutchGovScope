@@ -57,8 +57,6 @@ api.openstad.noord-holland.nl
 auth.openstad.noord-holland.nl
 img.openstad.noord-holland.nl
 www.openstad.noord-holland.nl
-av.noord-holland.nl
-av1.noord-holland.nl
 fiori-erp.noord-holland.nl
 fiori-portal.noord-holland.nl
 fiori-srm.noord-holland.nl
@@ -75,8 +73,6 @@ portal-bs.noord-holland.nl
 projectruimte.noord-holland.nl
 qep.noord-holland.nl
 vl.noord-holland.nl
-web.noord-holland.nl
-web1.noord-holland.nl
 websign.noord-holland.nl
 wifi.noord-holland.nl
 oe.noord-holland.nl

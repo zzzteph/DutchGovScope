@@ -5,7 +5,7 @@
 
 
  - **SSL Grade**:A+
- - **HTTP Security Grade**:A
+ - **HTTP Security Grade**:F
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:2
 
 
@@ -21,6 +21,6 @@
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://www.svbkindernamen.nl](https://www.svbkindernamen.nl)| **A+**| **A**|BigIP|:warning: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |F5 BigIP HSTS||
-|[https://svbkindernamen.nl](https://svbkindernamen.nl)| **A+**| **A**|BigIP|:warning: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |F5 BigIP HSTS||
+|[http://www.svbkindernamen.nl](http://www.svbkindernamen.nl)| **A+**| **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server Bootstrap:4.3.1 PHP:7.4.33 Varnish|geregistreerd vi...|
+|[http://svbkindernamen.nl](http://svbkindernamen.nl)| **A+**| **F**|Varnish| | | | | | | | :white_check_mark: | |Varnish|418 I'm a teapot...|
 

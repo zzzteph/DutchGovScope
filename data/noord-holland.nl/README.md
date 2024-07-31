@@ -6,12 +6,12 @@
 
  - **SSL Grade**:A-
  - **HTTP Security Grade**:B
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:17
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:18
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/noord-holland.nl/subdomains.txt)|92|Alive subdomains|
+|[subdomains.txt](/data/noord-holland.nl/subdomains.txt)|88|Alive subdomains|
 |[urls.txt](/data/noord-holland.nl/urls.txt)|61|Urls|
 |[all_subdomains.txt](/data/noord-holland.nl/all_subdomains.txt)|277|All found subdomains (history)|
 
@@ -70,13 +70,13 @@
 |[https://fleetmanager.noord-holland.nl](https://fleetmanager.noord-holland.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|Fleet Manager|
 |[https://fleet-manager.datalab-prod.aws.noord-holland.nl](https://fleet-manager.datalab-prod.aws.noord-holland.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|Fleet Manager|
 |[https://pleinoud.noord-holland.nl](https://pleinoud.noord-holland.nl)| | **F**|Green Valley| | | | | | | | :white_check_mark: | |HSTS Java||
-|[https://lms.noord-holland.nl](https://lms.noord-holland.nl)| | **A**|nginx|:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bootstrap:3.3.5 HSTS Nginx PHP:8.2.20|LMS Noord-Hollan...|
-|[https://openstad.noord-holland.nl](https://openstad.noord-holland.nl)| **A+**| **B**||:o: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Express HSTS Node.js|Home ||
+|[https://lms.noord-holland.nl](https://lms.noord-holland.nl)| | **A**|nginx|:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bootstrap:3.3.5 HSTS Nginx PHP:8.2.21|LMS Noord-Hollan...|
+|[https://openstad.noord-holland.nl](https://openstad.noord-holland.nl)| **A+**| **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Express HSTS Node.js|Home ||
 |[https://admin.openstad.noord-holland.nl](https://admin.openstad.noord-holland.nl)| **A+**| **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Express HSTS Node.js||
 |[https://api.openstad.noord-holland.nl](https://api.openstad.noord-holland.nl)| **A+**| **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS||
 |[https://auth.openstad.noord-holland.nl](https://auth.openstad.noord-holland.nl)| **A+**| **A**||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Express HSTS Node.js||
 |[https://img.openstad.noord-holland.nl](https://img.openstad.noord-holland.nl)| **A+**| **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Express HSTS Node.js|Error|
-|[https://www.openstad.noord-holland.nl](https://www.openstad.noord-holland.nl)| **A+**| **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|404 Not Found|
+|[https://www.openstad.noord-holland.nl](https://www.openstad.noord-holland.nl)| **A+**| **B**||:o: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|308 Permanent Re...|
 |[https://enterpriseenrollment.noord-holland.nl](https://enterpriseenrollment.noord-holland.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||
 |[https://enterpriseregistration.noord-holland.nl](https://enterpriseregistration.noord-holland.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://druktemonitor.noord-holland.nl](https://druktemonitor.noord-holland.nl)| | **C**|waitress| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|Redirecting...|

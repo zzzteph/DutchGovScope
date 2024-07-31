@@ -13,7 +13,7 @@
 |------------|-------|------|
 |[subdomains.txt](/data/rechtwijzer.nl/subdomains.txt)|112|Alive subdomains|
 |[urls.txt](/data/rechtwijzer.nl/urls.txt)|3|Urls|
-|[all_subdomains.txt](/data/rechtwijzer.nl/all_subdomains.txt)|114|All found subdomains (history)|
+|[all_subdomains.txt](/data/rechtwijzer.nl/all_subdomains.txt)|117|All found subdomains (history)|
 
 
 ## Statistics

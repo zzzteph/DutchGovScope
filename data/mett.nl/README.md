@@ -6,14 +6,14 @@
 
  - **SSL Grade**:A-
  - **HTTP Security Grade**:E
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:10183
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:10264
 
 
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/mett.nl/subdomains.txt)|29794|Alive subdomains|
 |[urls.txt](/data/mett.nl/urls.txt)|26861|Urls|
-|[all_subdomains.txt](/data/mett.nl/all_subdomains.txt)|31392|All found subdomains (history)|
+|[all_subdomains.txt](/data/mett.nl/all_subdomains.txt)|33702|All found subdomains (history)|
 
 
 ## Statistics
@@ -239,7 +239,7 @@
 |[http://www.iq-pcc.mett.nl](http://www.iq-pcc.mett.nl)| **F**| **E**|| | | | | | | | :white_check_mark: | |||
 |[http://www.office.mett.nl](http://www.office.mett.nl)| **F**| **E**|| | | | | | | | :white_check_mark: | |||
 |[http://utrechtbinnenstad2040.mett.nl](http://utrechtbinnenstad2040.mett.nl)| **A**| **E**|| | | | | | | | :white_check_mark: | |||
-|[https://mett.nl](https://mett.nl)| **A**| **A**|Apache/2| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server:2 HSTS MySQL PHP:8.1.28 WPML:4.6.11 WordPress Yoast SEO:22.9|Online samenwerk...|
+|[https://mett.nl](https://mett.nl)| **A**| **A**|Apache/2| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server:2 HSTS MySQL PHP WPML:4.6.12 WordPress Yoast SEO:22.9|Online samenwerk...|
 |[http://toekomstluchtvaart.mett.nl](http://toekomstluchtvaart.mett.nl)| **A+**| **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET||
 |[http://mantelzorgzeist.mett.nl](http://mantelzorgzeist.mett.nl)| **A**| **E**|| | | | | | | | :white_check_mark: | |Microsoft ASP.NET||
 |[http://stammerdijksniep.mett.nl](http://stammerdijksniep.mett.nl)| **A**| **E**|| | | | | | | | :white_check_mark: | |||

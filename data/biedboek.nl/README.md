@@ -11,8 +11,8 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/biedboek.nl/subdomains.txt)|3501|Alive subdomains|
-|[urls.txt](/data/biedboek.nl/urls.txt)|3501|Urls|
+|[subdomains.txt](/data/biedboek.nl/subdomains.txt)|3500|Alive subdomains|
+|[urls.txt](/data/biedboek.nl/urls.txt)|3500|Urls|
 |[all_subdomains.txt](/data/biedboek.nl/all_subdomains.txt)|3508|All found subdomains (history)|
 
 
@@ -1698,7 +1698,6 @@
 |[https://harish.biedboek.nl](https://harish.biedboek.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Microsoft Azure...|
 |[https://belorechensk.biedboek.nl](https://belorechensk.biedboek.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Microsoft Azure...|
 |[https://skullcandy.biedboek.nl](https://skullcandy.biedboek.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Microsoft Azure...|
-|[https://celebrations.biedboek.nl](https://celebrations.biedboek.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Microsoft Azure...|
 |[https://bestelling.biedboek.nl](https://bestelling.biedboek.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Microsoft Azure...|
 |[https://buenos-aires.biedboek.nl](https://buenos-aires.biedboek.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Microsoft Azure...|
 |[https://3fm.biedboek.nl](https://3fm.biedboek.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Microsoft Azure...|

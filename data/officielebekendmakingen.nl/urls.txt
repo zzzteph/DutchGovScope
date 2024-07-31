@@ -13,6 +13,9 @@ https://officielebekendmakingen.nl
 https://zoek-preprod.officielebekendmakingen.nl
 https://www-preprod.officielebekendmakingen.nl
 https://zoek-acc.officielebekendmakingen.nl
+https://stage.officielebekendmakingen.nl
+https://beheersite-op-acc.officielebekendmakingen.nl
+https://beheersite-op.officielebekendmakingen.nl
 https://www-acc.officielebekendmakingen.nl
 http://localhost.officielebekendmakingen.nl
 https://identifier-preprod.officielebekendmakingen.nl

@@ -22,3 +22,4 @@ dev.uk.investinholland.com
 www.china.investinholland.com
 autodiscover.investinholland.com
 localhost.investinholland.com
+pop.japan.investinholland.com

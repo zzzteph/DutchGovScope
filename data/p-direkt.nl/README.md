@@ -11,7 +11,7 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/p-direkt.nl/subdomains.txt)|21|Alive subdomains|
+|[subdomains.txt](/data/p-direkt.nl/subdomains.txt)|22|Alive subdomains|
 |[urls.txt](/data/p-direkt.nl/urls.txt)|14|Urls|
 |[all_subdomains.txt](/data/p-direkt.nl/all_subdomains.txt)|37|All found subdomains (history)|
 

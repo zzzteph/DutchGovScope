@@ -4,10 +4,10 @@ title: "officielebekendmakingen.nl"
 permalink: "/dutchgov/officielebekendmakingen.nl.html"
 subdomains_count: 32
 all_subdomains_count: 74
-urls_count: 18
+urls_count: 21
 ssl_rank: A+
 http_rank: B
-security_txt: 1
+security_txt: 3
 url_link: /data/officielebekendmakingen.nl/urls.txt
 all_subdomains_link: /data/officielebekendmakingen.nl/all_subdomains.txt
 subdomains_link: /data/officielebekendmakingen.nl/subdomains.txt
@@ -22,13 +22,13 @@ tags: dutchgov
 
  - **SSL Grade**:A+
  - **HTTP Security Grade**:B
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:1
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:3
 
 
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/DutchGovScope/data/officielebekendmakingen.nl/subdomains.txt)|32|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/officielebekendmakingen.nl/urls.txt)|18|Urls|
+|[urls.txt](/DutchGovScope/data/officielebekendmakingen.nl/urls.txt)|21|Urls|
 |[all_subdomains.txt](/DutchGovScope/data/officielebekendmakingen.nl/all_subdomains.txt)|74|All found subdomains (history)|
 
 
@@ -52,6 +52,9 @@ tags: dutchgov
 |[https://zoek-preprod.officielebekendmakingen.nl](https://zoek-preprod.officielebekendmakingen.nl)| **A+**| **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|403 Forbidden|
 |[https://www-preprod.officielebekendmakingen.nl](https://www-preprod.officielebekendmakingen.nl)| **A+**| **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|403 Forbidden|
 |[https://zoek-acc.officielebekendmakingen.nl](https://zoek-acc.officielebekendmakingen.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|403 Forbidden|
+|[https://stage.officielebekendmakingen.nl](https://stage.officielebekendmakingen.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET||
+|[https://beheersite-op-acc.officielebekendmakingen.nl](https://beheersite-op-acc.officielebekendmakingen.nl)| | **F**|Microsoft-IIS/10.0| | | | | | | | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server|Object moved|
+|[https://beheersite-op.officielebekendmakingen.nl](https://beheersite-op.officielebekendmakingen.nl)| | **A**|Microsoft-IIS/10.0| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET:4.0.30319 Windows Server|Object moved|
 |[https://www-acc.officielebekendmakingen.nl](https://www-acc.officielebekendmakingen.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|403 Forbidden|
 |[http://localhost.officielebekendmakingen.nl](http://localhost.officielebekendmakingen.nl)| | **F**|nginx| | | :warning:| | | | | :white_check_mark: | |Nginx|(404 Not Found)|
 |[https://identifier-preprod.officielebekendmakingen.nl](https://identifier-preprod.officielebekendmakingen.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|URI - Performer...|

@@ -1,14 +1,9 @@
-intern.survey.collector.owinsp.nl
 isd.owinsp.nl
 isd.acc.owinsp.nl
-pit.collector.owinsp.nl
-pit.collectora.acc.owinsp.nl
 pitng.owinsp.nl
 pitng.acceptatie.owinsp.nl
 pitng.ontwikkel.owinsp.nl
 pitng.test.owinsp.nl
-portal.survey.collector.owinsp.nl
-portal.survey.collectora.acc.owinsp.nl
 www.owinsp.nl
 broker.isd.owinsp.nl
 broker.isd.acc.owinsp.nl

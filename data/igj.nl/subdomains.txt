@@ -34,7 +34,6 @@ inbewaringstelling.webservices-dbb.igj.nl
 lrza.gatservices.acc.igj.nl
 lrza.gatservices.prd.igj.nl
 toezichtopzorgnetwerken.igj.nl
-onstoezicht.igj.nl
 sdm.igj.nl
 sip.igj.nl
 survey-acc.igj.nl

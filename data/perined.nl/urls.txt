@@ -1,6 +1,6 @@
 https://audit.perined.nl
-http://eva.perined.nl
-http://evaluatieaudit.perined.nl
+https://eva.perined.nl
+https://evaluatieaudit.perined.nl
 https://klantpreferentie.perined.nl
 https://klantpreferentie2019.perined.nl
 https://lnr.perined.nl

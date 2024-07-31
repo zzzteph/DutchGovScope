@@ -270,7 +270,6 @@ ingress.di.huc.knaw.nl
 planning.jauco.playground.di.huc.knaw.nl
 acc.adminpure.knaw.nl
 acc.resources.huygens.knaw.nl
-marginalia.huygens.knaw.nl
 servicedesk.huygens.knaw.nl
 testhi25.huygens.knaw.nl
 intereditioneu.huygens.knaw.nl
@@ -285,13 +284,10 @@ demo.repository.huygens.knaw.nl
 test2.marginalia.huygens.knaw.nl
 xml.huygens.knaw.nl
 acc.alexandria.huygens.knaw.nl
-acc.repository.huygens.knaw.nl
 bnm-i.huygens.knaw.nl
 bronhist.huygens.knaw.nl
-demo14.huygens.knaw.nl
 loggingbe.huygens.knaw.nl
 www.huygensinstituut.knaw.nl
-conversion.repository.huygens.knaw.nl
 huygensinstituut.knaw.nl
 intranet.huygens.knaw.nl
 oaipmh.emitx.huygens.knaw.nl
@@ -472,7 +468,6 @@ archieven.meertens.knaw.nl
 cdn.huygens.knaw.nl
 nvb.meertens.knaw.nl
 data.globalise.huygens.knaw.nl
-edities.mvn.huygens.knaw.nl
 momfer.meertens.knaw.nl
 odb.huc.knaw.nl
 www.momfer.meertens.knaw.nl
@@ -1342,3 +1337,4 @@ www04.niod.knaw.nl
 oat.dev.huc.knaw.nl
 arrestanten40-45.niod.knaw.nl
 declaree.knaw.nl
+ecartico.dev.huc.knaw.nl

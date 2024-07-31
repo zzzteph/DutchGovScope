@@ -177,8 +177,8 @@ https://interedition.huygens.knaw.nl
 https://margarethaklooster.huygens.knaw.nl
 https://meertenspanel.meertens.knaw.nl
 https://www.imlc.huygens.knaw.nl
+https://aanwezigheidsbord.huc.knaw.nl
 https://acc.resources.huygens.knaw.nl
-https://marginalia.huygens.knaw.nl
 https://servicedesk.huygens.knaw.nl
 https://testhi25.huygens.knaw.nl
 https://intereditioneu.huygens.knaw.nl
@@ -193,13 +193,10 @@ https://demo.repository.huygens.knaw.nl
 https://test2.marginalia.huygens.knaw.nl
 https://xml.huygens.knaw.nl
 https://acc.alexandria.huygens.knaw.nl
-https://acc.repository.huygens.knaw.nl
 https://bnm-i.huygens.knaw.nl
 https://bronhist.huygens.knaw.nl
-https://demo14.huygens.knaw.nl
 https://loggingbe.huygens.knaw.nl
 https://www.huygensinstituut.knaw.nl
-https://conversion.repository.huygens.knaw.nl
 https://huygensinstituut.knaw.nl
 https://intranet.huygens.knaw.nl
 https://oaipmh.emitx.huygens.knaw.nl
@@ -294,9 +291,6 @@ https://datareviews.dans.knaw.nl
 https://edna.dans.knaw.nl
 https://meet2.dans.knaw.nl
 https://sites.dans.knaw.nl
-https://act.easy.dans.knaw.nl
-https://demo.easy.dans.knaw.nl
-https://peasy11.dans.knaw.nl
 https://adfs.knaw.nl
 https://adlib.rathenau.knaw.nl
 http://hucsys.huc.knaw.nl
@@ -360,10 +354,9 @@ http://hp-01.huc.knaw.nl
 http://mand.meertens.knaw.nl
 https://martianus.huygens.knaw.nl
 http://archieven.meertens.knaw.nl
-https://cdn.huygens.knaw.nl
 http://nvb.meertens.knaw.nl
 http://data.globalise.huygens.knaw.nl
-http://edities.mvn.huygens.knaw.nl
+http://momfer.meertens.knaw.nl
 http://odb.huc.knaw.nl
 http://graphs.globalise.huygens.knaw.nl
 http://retro.meertens.knaw.nl
@@ -452,11 +445,6 @@ https://hi14hingtest.huygens.knaw.nl
 https://citrix.knaw.nl
 https://cloud.knaw.nl
 http://cmdi2rdf.meertens.knaw.nl
-https://datavault.dans.knaw.nl
-https://easy.dans.knaw.nl
-https://easy11.dans.knaw.nl
-https://sword.easy.dans.knaw.nl
-https://www.easy.dans.knaw.nl
 https://dendro.dans.knaw.nl
 https://vocabularies.dans.knaw.nl
 https://web11.dans.knaw.nl
@@ -466,11 +454,6 @@ https://dvnl31.dans.knaw.nl
 https://osso-a.knaw.nl
 https://ossooam-a.knaw.nl
 https://ebs-a.knaw.nl
-https://ebs-o.knaw.nl
-https://obi-o.knaw.nl
-https://osso-o.knaw.nl
-https://ossooam-o.knaw.nl
-https://taoracleapp23.knaw.nl
 https://taoracleapp21.knaw.nl
 https://ebs-t.knaw.nl
 https://osso-t.knaw.nl
@@ -669,3 +652,4 @@ https://docs.labs.dans.knaw.nl
 https://facades-verification.labs.dans.knaw.nl
 https://oat.acc.huc.knaw.nl
 https://web31.knaw.nl
+https://www04.niod.knaw.nl

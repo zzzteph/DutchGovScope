@@ -1,4 +1,5 @@
 0900-9630www.valys.nl
+ww.valys.nl
 informatie.valys.nl
 valys.nl
 valyswww.valys.nl
@@ -71,7 +72,6 @@ fifteen.valys.nl
 0180.valys.nl
 beta-www.valys.nl
 balakovo.valys.nl
-johnlewis.valys.nl
 omms.valys.nl
 scheiding.valys.nl
 iwi.valys.nl

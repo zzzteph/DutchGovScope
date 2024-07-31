@@ -6,13 +6,13 @@
 
  - **SSL Grade**:A-
  - **HTTP Security Grade**:C
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:33
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:34
 
 
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/dnb.nl/subdomains.txt)|179|Alive subdomains|
-|[urls.txt](/data/dnb.nl/urls.txt)|121|Urls|
+|[urls.txt](/data/dnb.nl/urls.txt)|124|Urls|
 |[all_subdomains.txt](/data/dnb.nl/all_subdomains.txt)|304|All found subdomains (history)|
 
 
@@ -142,4 +142,7 @@
 |[https://monet-tst.dnb.nl](https://monet-tst.dnb.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Microsoft Azure...|
 |[https://pla.dnb.nl](https://pla.dnb.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||
 |[https://services.sharepoint.dnb.nl](https://services.sharepoint.dnb.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
+|[https://tz-uitvragen-acc.dnb.nl](https://tz-uitvragen-acc.dnb.nl)| | **E**|| | | | | | | | :white_check_mark: | |Bootstrap:5.2.3|Azure Static Web...|
+|[https://tz-uitvragen-dev.dnb.nl](https://tz-uitvragen-dev.dnb.nl)| | **E**|| | | | | | | | :white_check_mark: | |Bootstrap:5.2.3|Azure Static Web...|
+|[https://tz-uitvragen-tst.dnb.nl](https://tz-uitvragen-tst.dnb.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Azure Azure Front Door HSTS|Mijn DNB - Kwali...|
 

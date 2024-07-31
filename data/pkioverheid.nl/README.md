@@ -30,6 +30,6 @@
 |[http://rootocsp-g3.pkioverheid.nl](http://rootocsp-g3.pkioverheid.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://oid.pkioverheid.nl](https://oid.pkioverheid.nl)| | **A**|| |:white_check_mark: | :warning:| | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Object Identifie...|
 |[https://cp.pkioverheid.nl](https://cp.pkioverheid.nl)| | **A**|| |:white_check_mark: | :warning:| | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Certificate Poli...|
-|[https://por.pkioverheid.nl](https://por.pkioverheid.nl)| | **A**|| |:white_check_mark: | :warning:| | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Certificate Poli...|
+|[https://por.pkioverheid.nl](https://por.pkioverheid.nl)| | **A**|| |:white_check_mark: | :warning:| | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|301 Moved Perman...|
 |[http://trialrootocsp-g3.ocsp.pkioverheid.nl](http://trialrootocsp-g3.ocsp.pkioverheid.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 

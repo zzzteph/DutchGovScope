@@ -5,14 +5,14 @@
 
 
  - **SSL Grade**:E
- - **HTTP Security Grade**:E
+ - **HTTP Security Grade**:D
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:4
 
 
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/bics.nl/subdomains.txt)|28|Alive subdomains|
-|[urls.txt](/data/bics.nl/urls.txt)|13|Urls|
+|[urls.txt](/data/bics.nl/urls.txt)|12|Urls|
 |[all_subdomains.txt](/data/bics.nl/all_subdomains.txt)|47|All found subdomains (history)|
 
 
@@ -24,7 +24,6 @@
 |[http://bayplanviewer.bics.nl](http://bayplanviewer.bics.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://hs.bics.nl](https://hs.bics.nl)| **A+**| **B**|Apache| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
 |[https://hsacc.bics.nl](https://hsacc.bics.nl)| **A+**| **B**|Apache| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
-|[https://livra.bics.nl](https://livra.bics.nl)| **F**| **E**|| | | | | | | | :white_check_mark: | |||
 |[https://livra2.bics.nl](https://livra2.bics.nl)| **F**| **E**|| | | | | | | | :white_check_mark: | |HSTS||
 |[http://nlhull.bics.nl](http://nlhull.bics.nl)| **F**| **E**|| | | | | | | | :white_check_mark: | |||
 |[http://nlrdms.bics.nl](http://nlrdms.bics.nl)| **F**| **E**|| | | | | | | | :white_check_mark: | |||

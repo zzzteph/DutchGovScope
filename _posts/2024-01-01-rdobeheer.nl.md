@@ -45,7 +45,7 @@ tags: dutchgov
 |[https://helpdesk.rdobeheer.nl](https://helpdesk.rdobeheer.nl)| **A+**| **A**|Apache|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
 |[http://login-uzi.proeftuin.uzi-online.rdobeheer.nl](http://login-uzi.proeftuin.uzi-online.rdobeheer.nl)| **A**| **E**|| | | | | | | | :white_check_mark: | |||
 |[https://max.proeftuin.uzi-online.rdobeheer.nl](https://max.proeftuin.uzi-online.rdobeheer.nl)| **A+**| **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS||
-|[https://yivi.proeftuin.uzi-online.rdobeheer.nl](https://yivi.proeftuin.uzi-online.rdobeheer.nl)| **A+**| **A**||:warning: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS|YIVI Disclosure|
+|[https://yivi.proeftuin.uzi-online.rdobeheer.nl](https://yivi.proeftuin.uzi-online.rdobeheer.nl)| **A+**| **A**||:warning: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS|YIVI inlogroute|
 |[https://proeftuin.uzi-online.rdobeheer.nl](https://proeftuin.uzi-online.rdobeheer.nl)| **A+**| **A**||:warning: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS|ziekenboeg|
 |[https://oidc.proeftuin.uzi-online.rdobeheer.nl](https://oidc.proeftuin.uzi-online.rdobeheer.nl)| **A+**| **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS||
 |[http://collabora.acc.rdobeheer.nl](http://collabora.acc.rdobeheer.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS||
@@ -53,7 +53,7 @@ tags: dutchgov
 |[http://nextcloud.acc.rdobeheer.nl](http://nextcloud.acc.rdobeheer.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nextcloud PHP||
 |[https://mailcatch.acc.rdobeheer.nl](https://mailcatch.acc.rdobeheer.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Basic HSTS|401 Unauthorized|
 |[https://pilot.uzi-online.acc.rdobeheer.nl](https://pilot.uzi-online.acc.rdobeheer.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS||
-|[https://yivi.pilot.uzi-online.acc.rdobeheer.nl](https://yivi.pilot.uzi-online.acc.rdobeheer.nl)| | **A**||:warning: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS|YIVI Disclosure|
+|[https://yivi.pilot.uzi-online.acc.rdobeheer.nl](https://yivi.pilot.uzi-online.acc.rdobeheer.nl)| | **A**||:warning: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS|YIVI inlogroute|
 |[http://login-uzi.pilot.uzi-online.acc.rdobeheer.nl](http://login-uzi.pilot.uzi-online.acc.rdobeheer.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[http://gitea.rdobeheer.nl](http://gitea.rdobeheer.nl)| **A**| **E**|| | | | | | | | :white_check_mark: | |Apache HTTP Server||
 |[https://gebruiker-beheer.test.dusi.rdobeheer.nl](https://gebruiker-beheer.test.dusi.rdobeheer.nl)| **A**| **B**|Apache| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server Basic HSTS|401 Unauthorized|
@@ -71,19 +71,19 @@ tags: dutchgov
 |[https://www2.acc.dusi.rdobeheer.nl](https://www2.acc.dusi.rdobeheer.nl)| **A**| **A**|Apache| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS||
 |[https://portal2.acc.dusi.rdobeheer.nl](https://portal2.acc.dusi.rdobeheer.nl)| | **A**|Apache| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS||
 |[https://mailcatch.acc.dusi.rdobeheer.nl](https://mailcatch.acc.dusi.rdobeheer.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS||
-|[http://co.acc.dusi.rdobeheer.nl](http://co.acc.dusi.rdobeheer.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS||
+|[https://co.acc.dusi.rdobeheer.nl](https://co.acc.dusi.rdobeheer.nl)| | **A**|Apache| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS||
 |[https://stagefonds.acc.dusi.rdobeheer.nl](https://stagefonds.acc.dusi.rdobeheer.nl)| | **A**|Apache| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS||
 |[https://portalco.acc.dusi.rdobeheer.nl](https://portalco.acc.dusi.rdobeheer.nl)| | **A**|Apache| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS||
 |[https://extern.acc.dusi.rdobeheer.nl](https://extern.acc.dusi.rdobeheer.nl)| | **A**|Apache| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS||
 |[http://web.test.dpr.rdobeheer.nl](http://web.test.dpr.rdobeheer.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server Basic HSTS||
-|[https://webtooling.rdobeheer.nl](https://webtooling.rdobeheer.nl)| **A+**| **A**|Apache| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS|RDO Beheer - web...|
+|[http://webtooling.rdobeheer.nl](http://webtooling.rdobeheer.nl)| **A+**| **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS||
 |[https://stagefonds.test.dusi.rdobeheer.nl](https://stagefonds.test.dusi.rdobeheer.nl)| | **A**|Apache| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS||
 |[https://extern.test.dusi.rdobeheer.nl](https://extern.test.dusi.rdobeheer.nl)| | **A**|Apache| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS||
 |[https://portal.test.dusi.rdobeheer.nl](https://portal.test.dusi.rdobeheer.nl)| | **A**|Apache| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS||
 |[https://mailcatch.test.dusi.rdobeheer.nl](https://mailcatch.test.dusi.rdobeheer.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS||
 |[https://portal2.test.dusi.rdobeheer.nl](https://portal2.test.dusi.rdobeheer.nl)| | **A**|Apache| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS||
-|[http://portalco.test.dusi.rdobeheer.nl](http://portalco.test.dusi.rdobeheer.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS||
-|[http://www2.test.dusi.rdobeheer.nl](http://www2.test.dusi.rdobeheer.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS||
+|[https://portalco.test.dusi.rdobeheer.nl](https://portalco.test.dusi.rdobeheer.nl)| | **A**|Apache| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS||
+|[https://www2.test.dusi.rdobeheer.nl](https://www2.test.dusi.rdobeheer.nl)| | **B**|Apache| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS||
 |[https://co.test.dusi.rdobeheer.nl](https://co.test.dusi.rdobeheer.nl)| **A+**| **A**|Apache| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS||
 |[https://www.test.dusi.rdobeheer.nl](https://www.test.dusi.rdobeheer.nl)| | **A**|Apache| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS||
 |[https://balie.test.woo.rdobeheer.nl](https://balie.test.woo.rdobeheer.nl)| | **B**|Apache| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server Basic HSTS|401 Unauthorized|

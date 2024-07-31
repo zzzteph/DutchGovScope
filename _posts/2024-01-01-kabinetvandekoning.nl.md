@@ -44,7 +44,7 @@ tags: dutchgov
 |[https://opendata.english.kabinetvandekoning.nl](https://opendata.english.kabinetvandekoning.nl)| **A+**| **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://www.kabinetvandekoning.nl](https://www.kabinetvandekoning.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Home | Kabinet v...|
 |[https://kabinetvandekoning.nl](https://kabinetvandekoning.nl)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
-|[http://autodiscover.kabinetvandekoning.nl](http://autodiscover.kabinetvandekoning.nl)| | **B**|Microsoft-IIS/10.0|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server||
+|[http://autodiscover.kabinetvandekoning.nl](http://autodiscover.kabinetvandekoning.nl)| | **C**|Microsoft-IIS/10.0| |:white_check_mark: | | | | | | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server||
 |[https://enterpriseenrollment.kabinetvandekoning.nl](https://enterpriseenrollment.kabinetvandekoning.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||
 |[https://enterpriseregistration.kabinetvandekoning.nl](https://enterpriseregistration.kabinetvandekoning.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 

@@ -6,7 +6,7 @@
 
  - **SSL Grade**:A-
  - **HTTP Security Grade**:C
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:37
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:36
 
 
 | File       | Count | Info |
@@ -26,7 +26,7 @@
 |[https://nagios.provincie-utrecht.nl](https://nagios.provincie-utrecht.nl)| **A+**| **B**|Apache|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
 |[https://ruimtelijkeplanneninterntest.provincie-utrecht.nl](https://ruimtelijkeplanneninterntest.provincie-utrecht.nl)| **B**| **F**|nginx| | | | | | | | :white_check_mark: | |Basic Nginx|401 Authorizatio...|
 |[https://www.stateninformatie.provincie-utrecht.nl](https://www.stateninformatie.provincie-utrecht.nl)| **A+**| **A**|Apache|:warning: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS|Provincie Utrech...|
-|[https://werkenbij.provincie-utrecht.nl](https://werkenbij.provincie-utrecht.nl)| **A+**| **B**||:white_check_mark: |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | |HSTS|Home - Werken bi...|
+|[https://werkenbij.provincie-utrecht.nl](https://werkenbij.provincie-utrecht.nl)| **A+**| **B**||:white_check_mark: |:white_check_mark: | | |:warning: | | | :white_check_mark: | |HSTS|Home - Werken bi...|
 |[https://esp.provincie-utrecht.nl](https://esp.provincie-utrecht.nl)| **A+**| **C**|Apache| |:white_check_mark: | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|Access Gateway|
 |[https://begroting2016.provincie-utrecht.nl](https://begroting2016.provincie-utrecht.nl)| **F**| **F**|Microsoft-IIS/10.0| | | | | | | | :white_check_mark: | |Azure HSTS IIS:10.0 Microsoft ASP.NET Windows Server|Begroting Provin...|
 |[https://wzb.provincie-utrecht.nl](https://wzb.provincie-utrecht.nl)| **A+**| **B**|Apache|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
@@ -90,7 +90,7 @@
 |[https://itop.provincie-utrecht.nl](https://itop.provincie-utrecht.nl)| **A**| **F**|Apache|:o: | | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server PHP:7.4.3||
 |[https://ruimtelijkeplannen.provincie-utrecht.nl](https://ruimtelijkeplannen.provincie-utrecht.nl)| **B**| **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |Bootstrap HSTS Nginx|Plannenviewer Pr...|
 |[https://omgevingswet.provincie-utrecht.nl](https://omgevingswet.provincie-utrecht.nl)| **A+**| **A**|Apache| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
-|[https://monitorklimaatadaptatie.provincie-utrecht.nl](https://monitorklimaatadaptatie.provincie-utrecht.nl)| **A**| **F**|nginx/1.26.1| | | | | | | | :white_check_mark: | |Google Tag Manager MySQL Nginx:1.26.1 PHP WordPress:6.0.2|Monitoring Klima...|
+|[http://monitorklimaatadaptatie.provincie-utrecht.nl](http://monitorklimaatadaptatie.provincie-utrecht.nl)| **A**| **F**|nginx/1.26.1| | | | | | | | :white_check_mark: | |Nginx:1.26.1|301 Moved Perman...|
 |[https://sslvpn-hth.provincie-utrecht.nl](https://sslvpn-hth.provincie-utrecht.nl)| **B**| **E**|| | | | | | | | :white_check_mark: | |HSTS||
 |[https://search.provincie-utrecht.nl](https://search.provincie-utrecht.nl)| **A+**| **B**|nginx/1.18.0 (Ubuntu)|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx:1.18.0 Ubuntu||
 |[https://search-a.provincie-utrecht.nl](https://search-a.provincie-utrecht.nl)| **A+**| **E**|nginx/1.18.0 (Ubuntu)|:o: |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Nginx:1.18.0 Ubuntu|Redirecting to h...|

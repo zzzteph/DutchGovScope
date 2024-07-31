@@ -4,7 +4,7 @@ title: "zuid-holland.nl"
 permalink: "/dutchgov/zuid-holland.nl.html"
 subdomains_count: 80
 all_subdomains_count: 142
-urls_count: 75
+urls_count: 76
 ssl_rank: A
 http_rank: B
 security_txt: 24
@@ -28,7 +28,7 @@ tags: dutchgov
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/DutchGovScope/data/zuid-holland.nl/subdomains.txt)|80|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/zuid-holland.nl/urls.txt)|75|Urls|
+|[urls.txt](/DutchGovScope/data/zuid-holland.nl/urls.txt)|76|Urls|
 |[all_subdomains.txt](/DutchGovScope/data/zuid-holland.nl/all_subdomains.txt)|142|All found subdomains (history)|
 
 
@@ -106,6 +106,7 @@ tags: dutchgov
 |[https://data.zuid-holland.nl](https://data.zuid-holland.nl)| | **A**|Microsoft-IIS/10.0| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS IIS:10.0 Windows Server||
 |[https://preprod-belastingen.zuid-holland.nl](https://preprod-belastingen.zuid-holland.nl)| | **A**|Microsoft-IIS/10.0|:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS IIS:10.0 Microsoft ASP.NET Windows Server|Object moved|
 |[https://belastingen.zuid-holland.nl](https://belastingen.zuid-holland.nl)| | **A**|Microsoft-IIS/10.0|:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS IIS:10.0 Microsoft ASP.NET Windows Server|Object moved|
+|[https://icdesk.zuid-holland.nl](https://icdesk.zuid-holland.nl)| | **B**|nginx|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |Azure Azure Edge Network Azure Monitor HSTS Nginx Node.js Nuxt.js Vue.js||
 |[https://jaaroverzichtcommissarisvandekoning2023.zuid-holland.nl](https://jaaroverzichtcommissarisvandekoning2023.zuid-holland.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:-|Object moved|
 |[https://geoweb.zuid-holland.nl](https://geoweb.zuid-holland.nl)| | **A**|Microsoft-IIS/10.0| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS IIS:10.0 Microsoft ASP.NET Windows Server||
 |[https://denkmeemet.zuid-holland.nl](https://denkmeemet.zuid-holland.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Express HSTS Node.js|Home | Denk mee...|

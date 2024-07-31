@@ -13,7 +13,7 @@
 |------------|-------|------|
 |[subdomains.txt](/data/ez.nl/subdomains.txt)|28|Alive subdomains|
 |[urls.txt](/data/ez.nl/urls.txt)|26|Urls|
-|[all_subdomains.txt](/data/ez.nl/all_subdomains.txt)|141|All found subdomains (history)|
+|[all_subdomains.txt](/data/ez.nl/all_subdomains.txt)|142|All found subdomains (history)|
 
 
 ## Statistics

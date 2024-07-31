@@ -13,7 +13,7 @@
 |------------|-------|------|
 |[subdomains.txt](/data/investinholland.com/subdomains.txt)|18|Alive subdomains|
 |[urls.txt](/data/investinholland.com/urls.txt)|18|Urls|
-|[all_subdomains.txt](/data/investinholland.com/all_subdomains.txt)|24|All found subdomains (history)|
+|[all_subdomains.txt](/data/investinholland.com/all_subdomains.txt)|25|All found subdomains (history)|
 
 
 ## Statistics

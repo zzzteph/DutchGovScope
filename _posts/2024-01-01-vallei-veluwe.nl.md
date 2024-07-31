@@ -2,12 +2,12 @@
 layout: default
 title: "vallei-veluwe.nl"
 permalink: "/dutchgov/vallei-veluwe.nl.html"
-subdomains_count: 23
+subdomains_count: 22
 all_subdomains_count: 54
-urls_count: 16
+urls_count: 15
 ssl_rank: A
 http_rank: B
-security_txt: 6
+security_txt: 5
 url_link: /data/vallei-veluwe.nl/urls.txt
 all_subdomains_link: /data/vallei-veluwe.nl/all_subdomains.txt
 subdomains_link: /data/vallei-veluwe.nl/subdomains.txt
@@ -22,13 +22,13 @@ tags: dutchgov
 
  - **SSL Grade**:A
  - **HTTP Security Grade**:B
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:6
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:5
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/vallei-veluwe.nl/subdomains.txt)|23|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/vallei-veluwe.nl/urls.txt)|16|Urls|
+|[subdomains.txt](/DutchGovScope/data/vallei-veluwe.nl/subdomains.txt)|22|Alive subdomains|
+|[urls.txt](/DutchGovScope/data/vallei-veluwe.nl/urls.txt)|15|Urls|
 |[all_subdomains.txt](/DutchGovScope/data/vallei-veluwe.nl/all_subdomains.txt)|54|All found subdomains (history)|
 
 
@@ -39,7 +39,6 @@ tags: dutchgov
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[https://adfs.vallei-veluwe.nl](https://adfs.vallei-veluwe.nl)| **B**| **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://nc-openbaar.vallei-veluwe.nl](https://nc-openbaar.vallei-veluwe.nl)| **A+**| **F**|-| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET:-|Document Moved|
-|[https://werkplek.vallei-veluwe.nl](https://werkplek.vallei-veluwe.nl)| **A+**| **C**||:warning: |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |F5 BigIP HSTS||
 |[http://autodiscover.vallei-veluwe.nl](http://autodiscover.vallei-veluwe.nl)| | **A**|Microsoft-IIS/10.0| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server||
 |[https://vallei-veluwe.nl](https://vallei-veluwe.nl)| **A+**| **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:-|Object moved|
 |[https://planonprod.vallei-veluwe.nl](https://planonprod.vallei-veluwe.nl)| **B**| **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||

@@ -11,7 +11,7 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/pleio.nl/subdomains.txt)|6758|Alive subdomains|
+|[subdomains.txt](/data/pleio.nl/subdomains.txt)|7234|Alive subdomains|
 |[urls.txt](/data/pleio.nl/urls.txt)|2466|Urls|
 |[all_subdomains.txt](/data/pleio.nl/all_subdomains.txt)|7236|All found subdomains (history)|
 
@@ -478,7 +478,7 @@
 |[https://www.integra-levroeghulp.pleio.nl](https://www.integra-levroeghulp.pleio.nl)| **F**| **E**|| | | | | | | | :white_check_mark: | |HSTS|404 Not Found|
 |[https://levroeghulp.pleio.nl](https://levroeghulp.pleio.nl)| **A+**| **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Domeinnaam nog n...|
 |[https://logger.pleio.nl](https://logger.pleio.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Domeinnaam nog n...|
-|[https://aangifteselectie-chat.pleio.nl](https://aangifteselectie-chat.pleio.nl)| | **B**||:warning: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Ruby Ruby on Rails|Chatwoot|
+|[https://aangifteselectie-chat.pleio.nl](https://aangifteselectie-chat.pleio.nl)| | **B**||:white_check_mark: |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | |HSTS Ruby Ruby on Rails|Chatwoot|
 |[https://alright.pleio.nl](https://alright.pleio.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Domeinnaam nog n...|
 |[https://divo.pleio.nl](https://divo.pleio.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Domeinnaam nog n...|
 |[https://callan.pleio.nl](https://callan.pleio.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Domeinnaam nog n...|

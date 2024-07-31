@@ -12,7 +12,7 @@
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/ilent.nl/subdomains.txt)|56|Alive subdomains|
-|[urls.txt](/data/ilent.nl/urls.txt)|20|Urls|
+|[urls.txt](/data/ilent.nl/urls.txt)|22|Urls|
 |[all_subdomains.txt](/data/ilent.nl/all_subdomains.txt)|88|All found subdomains (history)|
 
 
@@ -41,4 +41,6 @@
 |[https://wio.ilent.nl](https://wio.ilent.nl)| **A**| **F**|Microsoft-IIS/10.0| | | | | | | | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server|IIS Windows Serv...|
 |[https://www.ilent.nl](https://www.ilent.nl)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Home | Inspectie...|
 |[https://ilent.nl](https://ilent.nl)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
+|[https://staging.meldingen.ilent.nl](https://staging.meldingen.ilent.nl)| | **F**|openresty/1.25.3.1| | | | | | | | :white_check_mark: | |Nginx OpenResty:1.25.3.1|301 Moved Perman...|
+|[https://meldingen.ilent.nl](https://meldingen.ilent.nl)| | **F**|openresty/1.25.3.1| | | | | | | | :white_check_mark: | |Nginx OpenResty:1.25.3.1|301 Moved Perman...|
 

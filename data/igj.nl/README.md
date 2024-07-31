@@ -11,7 +11,7 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/igj.nl/subdomains.txt)|54|Alive subdomains|
+|[subdomains.txt](/data/igj.nl/subdomains.txt)|53|Alive subdomains|
 |[urls.txt](/data/igj.nl/urls.txt)|15|Urls|
 |[all_subdomains.txt](/data/igj.nl/all_subdomains.txt)|73|All found subdomains (history)|
 

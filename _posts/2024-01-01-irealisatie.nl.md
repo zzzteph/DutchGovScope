@@ -3,11 +3,11 @@ layout: default
 title: "irealisatie.nl"
 permalink: "/dutchgov/irealisatie.nl.html"
 subdomains_count: 70
-all_subdomains_count: 71
-urls_count: 61
+all_subdomains_count: 72
+urls_count: 63
 ssl_rank: 
 http_rank: B
-security_txt: 48
+security_txt: 50
 url_link: /data/irealisatie.nl/urls.txt
 all_subdomains_link: /data/irealisatie.nl/all_subdomains.txt
 subdomains_link: /data/irealisatie.nl/subdomains.txt
@@ -22,14 +22,14 @@ tags: dutchgov
 
  - **SSL Grade**:
  - **HTTP Security Grade**:B
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:48
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:50
 
 
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/DutchGovScope/data/irealisatie.nl/subdomains.txt)|70|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/irealisatie.nl/urls.txt)|61|Urls|
-|[all_subdomains.txt](/DutchGovScope/data/irealisatie.nl/all_subdomains.txt)|71|All found subdomains (history)|
+|[urls.txt](/DutchGovScope/data/irealisatie.nl/urls.txt)|63|Urls|
+|[all_subdomains.txt](/DutchGovScope/data/irealisatie.nl/all_subdomains.txt)|72|All found subdomains (history)|
 
 
 ## Statistics
@@ -98,4 +98,6 @@ tags: dutchgov
 |[https://mailcatch.test.woo.irealisatie.nl](https://mailcatch.test.woo.irealisatie.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Basic HSTS|401 Unauthorized|
 |[http://test.woo.irealisatie.nl](http://test.woo.irealisatie.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[http://acc.mgo.irealisatie.nl](http://acc.mgo.irealisatie.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
+|[https://qualification-admin.test.zm.irealisatie.nl](https://qualification-admin.test.zm.irealisatie.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |Basic HSTS|401 Unauthorized|
+|[https://qualification-api.test.zm.irealisatie.nl](https://qualification-api.test.zm.irealisatie.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |Basic HSTS|401 Unauthorized|
 

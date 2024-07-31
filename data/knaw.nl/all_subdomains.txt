@@ -1852,3 +1852,14 @@ declaree.knaw.nl
 ecartico.dev.huc.knaw.nl
 workforce.nioo.knaw.nl
 occassio.dev.huc.knaw.nl
+goudeneeuwblog.huygens.knaw.nl
+hermansdigitaal.huygens.knaw.nl
+zalen.huc.knaw.nl
+uptime.huc.knaw.nl
+ix.bureau.knaw.nl
+kc31.dans.knaw.nl
+pts31.dans.knaw.nl
+sweb11.dans.knaw.nl
+tv31.dans.knaw.nl
+va31.dans.knaw.nl
+web21.dans.knaw.nl

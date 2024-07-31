@@ -10,3 +10,4 @@ import-auth.tlokb.nl
 a-feeds.tlokb.nl
 a-opendata.tlokb.nl
 a-www.tlokb.nl
+register-backend.tlokb.nl

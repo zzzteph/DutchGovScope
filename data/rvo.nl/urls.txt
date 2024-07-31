@@ -31,7 +31,7 @@ https://ih-static.rvo.nl
 https://infographics.rvo.nl
 https://informatiehuis.rvo.nl
 https://intra.rvo.nl
-http://intra-acc.rvo.nl
+https://intra-acc.rvo.nl
 https://intra-cms.rvo.nl
 https://intra-cms-acc.rvo.nl
 https://intranetvan.rvo.nl
@@ -115,3 +115,4 @@ https://europese-subsidies.rvo.nl
 https://rhel-p-mijn.rvo.nl
 https://rhel-np-mijn.rvo.nl
 https://edicrop.rvo.nl
+http://ciam.rvo.nl

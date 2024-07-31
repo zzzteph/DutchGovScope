@@ -5,3 +5,4 @@ arboportaal.nl
 a-opendata.arboportaal.nl
 a-feeds.arboportaal.nl
 a-www.arboportaal.nl
+zorgenwerknetwerk.arboportaal.nl

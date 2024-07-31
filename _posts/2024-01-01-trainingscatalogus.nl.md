@@ -2,9 +2,9 @@
 layout: default
 title: "trainingscatalogus.nl"
 permalink: "/dutchgov/trainingscatalogus.nl.html"
-subdomains_count: 207
+subdomains_count: 210
 all_subdomains_count: 223
-urls_count: 111
+urls_count: 114
 ssl_rank: A+
 http_rank: C
 security_txt: 41
@@ -27,8 +27,8 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/trainingscatalogus.nl/subdomains.txt)|207|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/trainingscatalogus.nl/urls.txt)|111|Urls|
+|[subdomains.txt](/DutchGovScope/data/trainingscatalogus.nl/subdomains.txt)|210|Alive subdomains|
+|[urls.txt](/DutchGovScope/data/trainingscatalogus.nl/urls.txt)|114|Urls|
 |[all_subdomains.txt](/DutchGovScope/data/trainingscatalogus.nl/all_subdomains.txt)|223|All found subdomains (history)|
 
 
@@ -148,4 +148,7 @@ tags: dutchgov
 |[https://dtenv-a.trainingscatalogus.nl](https://dtenv-a.trainingscatalogus.nl)| | **B**|Class|:white_check_mark: |:white_check_mark: | | |:warning: | | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://portal-stater.trainingscatalogus.nl](https://portal-stater.trainingscatalogus.nl)| | **C**|Class|:white_check_mark: |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://leeromgeving-stater.trainingscatalogus.nl](https://leeromgeving-stater.trainingscatalogus.nl)| | **C**|Apache| |:white_check_mark: | | | | | | :white_check_mark: | |Apache HTTP Server HSTS Moodle PHP|Doorverwijspagin...|
+|[https://belastingdienst-lms-a.course-api.trainingscatalogus.nl](https://belastingdienst-lms-a.course-api.trainingscatalogus.nl)| | **F**|Microsoft-IIS/10.0|:white_check_mark: | | | | | | | :white_check_mark: | |Azure IIS:10.0 Microsoft ASP.NET Windows Server||
+|[https://belastingdienst-lms-a.enrollment-api.trainingscatalogus.nl](https://belastingdienst-lms-a.enrollment-api.trainingscatalogus.nl)| | **F**|Microsoft-IIS/10.0|:white_check_mark: | | | | | | | :white_check_mark: | |Azure IIS:10.0 Microsoft ASP.NET Windows Server|HTTP Error 500.3...|
+|[https://belastingdienst-lms-a.scim-api.trainingscatalogus.nl](https://belastingdienst-lms-a.scim-api.trainingscatalogus.nl)| | **F**|Microsoft-IIS/10.0|:white_check_mark: | | | | | | | :white_check_mark: | |Azure IIS:10.0 Microsoft ASP.NET Windows Server|HTTP Error 500.3...|
 

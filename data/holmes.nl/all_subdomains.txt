@@ -1,0 +1,16 @@
+cellscanner.holmes.nl
+docviewer01.prod-ext.hansken.holmes.nl
+frontend01.prod-ext.hansken.holmes.nl
+gatekeeper01.prod-ext.hansken.holmes.nl
+huib.prod-ext.hansken.holmes.nl
+keycloak.prod-ext.hansken.holmes.nl
+keystore01.prod-ext.hansken.holmes.nl
+osm.hansken.holmes.nl
+preference01.prod-ext.hansken.holmes.nl
+downloads.holmes.nl
+holmes.nl
+sherlock.holmes.nl
+uploads.holmes.nl
+vpn.holmes.nl
+watson.holmes.nl
+www.holmes.nl
