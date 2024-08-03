@@ -13,7 +13,7 @@
 |------------|-------|------|
 |[subdomains.txt](/data/cbgjaarverslag.nl/subdomains.txt)|5|Alive subdomains|
 |[urls.txt](/data/cbgjaarverslag.nl/urls.txt)|3|Urls|
-|[all_subdomains.txt](/data/cbgjaarverslag.nl/all_subdomains.txt)|20|All found subdomains (history)|
+|[all_subdomains.txt](/data/cbgjaarverslag.nl/all_subdomains.txt)|21|All found subdomains (history)|
 
 
 ## Statistics

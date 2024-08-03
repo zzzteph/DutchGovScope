@@ -3,7 +3,7 @@ layout: default
 title: "cybersecurityraad.nl"
 permalink: "/dutchgov/cybersecurityraad.nl.html"
 subdomains_count: 9
-all_subdomains_count: 10
+all_subdomains_count: 11
 urls_count: 5
 ssl_rank: A+
 http_rank: A
@@ -29,7 +29,7 @@ tags: dutchgov
 |------------|-------|------|
 |[subdomains.txt](/DutchGovScope/data/cybersecurityraad.nl/subdomains.txt)|9|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/cybersecurityraad.nl/urls.txt)|5|Urls|
-|[all_subdomains.txt](/DutchGovScope/data/cybersecurityraad.nl/all_subdomains.txt)|10|All found subdomains (history)|
+|[all_subdomains.txt](/DutchGovScope/data/cybersecurityraad.nl/all_subdomains.txt)|11|All found subdomains (history)|
 
 
 ## Statistics

@@ -12,7 +12,7 @@
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/irealisatie.nl/subdomains.txt)|70|Alive subdomains|
-|[urls.txt](/data/irealisatie.nl/urls.txt)|63|Urls|
+|[urls.txt](/data/irealisatie.nl/urls.txt)|64|Urls|
 |[all_subdomains.txt](/data/irealisatie.nl/all_subdomains.txt)|72|All found subdomains (history)|
 
 
@@ -62,7 +62,7 @@
 |[https://timeline.test.zm.irealisatie.nl](https://timeline.test.zm.irealisatie.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |Basic HSTS|401 Unauthorized|
 |[https://qualification.test.zm.irealisatie.nl](https://qualification.test.zm.irealisatie.nl)| | **A**|Apache| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server Basic HSTS|401 Unauthorized|
 |[https://metadata.test.zm.irealisatie.nl](https://metadata.test.zm.irealisatie.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |Basic HSTS|401 Unauthorized|
-|[https://addressing.test.zm.irealisatie.nl](https://addressing.test.zm.irealisatie.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |Basic HSTS|401 Unauthorized|
+|[http://addressing.test.zm.irealisatie.nl](http://addressing.test.zm.irealisatie.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |Basic HSTS||
 |[http://www.test.zm.irealisatie.nl](http://www.test.zm.irealisatie.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[http://acc.dusi.irealisatie.nl](http://acc.dusi.irealisatie.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[http://test.dusi.irealisatie.nl](http://test.dusi.irealisatie.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
@@ -84,4 +84,5 @@
 |[http://acc.mgo.irealisatie.nl](http://acc.mgo.irealisatie.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://qualification-admin.test.zm.irealisatie.nl](https://qualification-admin.test.zm.irealisatie.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |Basic HSTS|401 Unauthorized|
 |[https://qualification-api.test.zm.irealisatie.nl](https://qualification-api.test.zm.irealisatie.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |Basic HSTS|401 Unauthorized|
+|[https://cts.acc.woo.irealisatie.nl](https://cts.acc.woo.irealisatie.nl)| | **B**|Apache| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server Basic HSTS|401 Unauthorized|
 

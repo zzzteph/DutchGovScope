@@ -302,3 +302,4 @@ tz-uitvragen-acc.dnb.nl
 tz-uitvragen-dev.dnb.nl
 tz-uitvragen-tst.dnb.nl
 tz-uitvragen.dnb.nl
+plp.dnb.nl

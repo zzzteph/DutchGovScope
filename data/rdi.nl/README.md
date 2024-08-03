@@ -13,7 +13,7 @@
 |------------|-------|------|
 |[subdomains.txt](/data/rdi.nl/subdomains.txt)|31|Alive subdomains|
 |[urls.txt](/data/rdi.nl/urls.txt)|14|Urls|
-|[all_subdomains.txt](/data/rdi.nl/all_subdomains.txt)|38|All found subdomains (history)|
+|[all_subdomains.txt](/data/rdi.nl/all_subdomains.txt)|39|All found subdomains (history)|
 
 
 ## Statistics

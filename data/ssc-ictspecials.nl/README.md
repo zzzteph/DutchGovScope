@@ -13,7 +13,7 @@
 |------------|-------|------|
 |[subdomains.txt](/data/ssc-ictspecials.nl/subdomains.txt)|5|Alive subdomains|
 |[urls.txt](/data/ssc-ictspecials.nl/urls.txt)|3|Urls|
-|[all_subdomains.txt](/data/ssc-ictspecials.nl/all_subdomains.txt)|10|All found subdomains (history)|
+|[all_subdomains.txt](/data/ssc-ictspecials.nl/all_subdomains.txt)|11|All found subdomains (history)|
 
 
 ## Statistics

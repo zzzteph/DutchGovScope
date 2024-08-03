@@ -14,3 +14,4 @@ a-feeds.algemenebestuursdienst.nl
 a-magazines.algemenebestuursdienst.nl
 a-opendata.algemenebestuursdienst.nl
 sharepoint.algemenebestuursdienst.nl
+www.magazines.algemenebestuursdienst.nl

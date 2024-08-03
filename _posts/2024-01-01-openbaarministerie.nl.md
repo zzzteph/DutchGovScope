@@ -3,7 +3,7 @@ layout: default
 title: "openbaarministerie.nl"
 permalink: "/dutchgov/openbaarministerie.nl.html"
 subdomains_count: 5
-all_subdomains_count: 12
+all_subdomains_count: 13
 urls_count: 3
 ssl_rank: A-
 http_rank: A
@@ -29,7 +29,7 @@ tags: dutchgov
 |------------|-------|------|
 |[subdomains.txt](/DutchGovScope/data/openbaarministerie.nl/subdomains.txt)|5|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/openbaarministerie.nl/urls.txt)|3|Urls|
-|[all_subdomains.txt](/DutchGovScope/data/openbaarministerie.nl/all_subdomains.txt)|12|All found subdomains (history)|
+|[all_subdomains.txt](/DutchGovScope/data/openbaarministerie.nl/all_subdomains.txt)|13|All found subdomains (history)|
 
 
 ## Statistics

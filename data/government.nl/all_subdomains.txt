@@ -26,3 +26,5 @@ static.government.nl
 test.coronadashboard.government.nl
 staging.coronadashboard.government.nl
 www.coronadashboard.government.nl
+www.sdg.government.nl
+www.magazines.government.nl

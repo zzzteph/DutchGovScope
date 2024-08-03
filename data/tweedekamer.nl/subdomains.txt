@@ -197,3 +197,5 @@ images.beta.tweedekamer.nl
 b67.tweedekamer.nl
 ws.beta.tweedekamer.nl
 hollandfit.tweedekamer.nl
+developer.beta.tweedekamer.nl
+bibliotheek.tweedekamer.nl

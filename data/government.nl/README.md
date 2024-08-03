@@ -13,7 +13,7 @@
 |------------|-------|------|
 |[subdomains.txt](/data/government.nl/subdomains.txt)|14|Alive subdomains|
 |[urls.txt](/data/government.nl/urls.txt)|7|Urls|
-|[all_subdomains.txt](/data/government.nl/all_subdomains.txt)|28|All found subdomains (history)|
+|[all_subdomains.txt](/data/government.nl/all_subdomains.txt)|30|All found subdomains (history)|
 
 
 ## Statistics

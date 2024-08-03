@@ -653,3 +653,6 @@ https://facades-verification.labs.dans.knaw.nl
 https://oat.acc.huc.knaw.nl
 https://web31.knaw.nl
 https://www04.niod.knaw.nl
+https://oat.dev.huc.knaw.nl
+http://arrestanten40-45.niod.knaw.nl
+https://declaree.knaw.nl

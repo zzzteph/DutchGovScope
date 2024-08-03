@@ -10,3 +10,4 @@ magazinesintern.english.openbaarministerie.nl
 a-magazines.a-english.openbaarministerie.nl
 a-magazinesintern.a-english.openbaarministerie.nl
 redactie.openbaarministerie.nl
+www.magazines.openbaarministerie.nl

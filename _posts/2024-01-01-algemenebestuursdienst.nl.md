@@ -3,7 +3,7 @@ layout: default
 title: "algemenebestuursdienst.nl"
 permalink: "/dutchgov/algemenebestuursdienst.nl.html"
 subdomains_count: 10
-all_subdomains_count: 16
+all_subdomains_count: 17
 urls_count: 6
 ssl_rank: A+
 http_rank: A
@@ -29,7 +29,7 @@ tags: dutchgov
 |------------|-------|------|
 |[subdomains.txt](/DutchGovScope/data/algemenebestuursdienst.nl/subdomains.txt)|10|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/algemenebestuursdienst.nl/urls.txt)|6|Urls|
-|[all_subdomains.txt](/DutchGovScope/data/algemenebestuursdienst.nl/all_subdomains.txt)|16|All found subdomains (history)|
+|[all_subdomains.txt](/DutchGovScope/data/algemenebestuursdienst.nl/all_subdomains.txt)|17|All found subdomains (history)|
 
 
 ## Statistics

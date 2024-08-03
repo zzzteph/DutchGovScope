@@ -13,7 +13,7 @@
 |------------|-------|------|
 |[subdomains.txt](/data/dji.nl/subdomains.txt)|33|Alive subdomains|
 |[urls.txt](/data/dji.nl/urls.txt)|16|Urls|
-|[all_subdomains.txt](/data/dji.nl/all_subdomains.txt)|60|All found subdomains (history)|
+|[all_subdomains.txt](/data/dji.nl/all_subdomains.txt)|61|All found subdomains (history)|
 
 
 ## Statistics

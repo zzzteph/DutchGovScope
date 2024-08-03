@@ -3,7 +3,7 @@ layout: default
 title: "overheidvannu.nl"
 permalink: "/dutchgov/overheidvannu.nl.html"
 subdomains_count: 9
-all_subdomains_count: 17
+all_subdomains_count: 18
 urls_count: 5
 ssl_rank: A+
 http_rank: A
@@ -29,7 +29,7 @@ tags: dutchgov
 |------------|-------|------|
 |[subdomains.txt](/DutchGovScope/data/overheidvannu.nl/subdomains.txt)|9|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/overheidvannu.nl/urls.txt)|5|Urls|
-|[all_subdomains.txt](/DutchGovScope/data/overheidvannu.nl/all_subdomains.txt)|17|All found subdomains (history)|
+|[all_subdomains.txt](/DutchGovScope/data/overheidvannu.nl/all_subdomains.txt)|18|All found subdomains (history)|
 
 
 ## Statistics

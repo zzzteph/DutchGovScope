@@ -13,7 +13,7 @@
 |------------|-------|------|
 |[subdomains.txt](/data/tuchtcollege-gezondheidszorg.nl/subdomains.txt)|9|Alive subdomains|
 |[urls.txt](/data/tuchtcollege-gezondheidszorg.nl/urls.txt)|5|Urls|
-|[all_subdomains.txt](/data/tuchtcollege-gezondheidszorg.nl/all_subdomains.txt)|14|All found subdomains (history)|
+|[all_subdomains.txt](/data/tuchtcollege-gezondheidszorg.nl/all_subdomains.txt)|15|All found subdomains (history)|
 
 
 ## Statistics

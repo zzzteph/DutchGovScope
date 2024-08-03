@@ -14,3 +14,5 @@ handleiding.platformrijksoverheidonline.nl
 api.abonneren.platformrijksoverheidonline.nl
 inloggen.platformrijksoverheidonline.nl
 inzichten.platformrijksoverheidonline.nl
+www.api.abonneren.platformrijksoverheidonline.nl
+www.magazines.platformrijksoverheidonline.nl

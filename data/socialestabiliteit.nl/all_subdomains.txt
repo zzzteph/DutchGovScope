@@ -19,3 +19,4 @@ a-magazinesintern.socialestabiliteit.nl
 magazinesintern.english.socialestabiliteit.nl
 feeds.english.socialestabiliteit.nl
 magazines.english.socialestabiliteit.nl
+www.magazines.socialestabiliteit.nl

@@ -221,3 +221,5 @@ vgz-lms.scim-api.trainingscatalogus.nl
 blog.test.trainingscatalogus.nl
 servicedesk.test.trainingscatalogus.nl
 mailtrap.test.trainingscatalogus.nl
+assets.test.trainingscatalogus.nl
+bewerk.test.trainingscatalogus.nl

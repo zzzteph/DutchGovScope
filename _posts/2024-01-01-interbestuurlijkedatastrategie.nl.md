@@ -3,7 +3,7 @@ layout: default
 title: "interbestuurlijkedatastrategie.nl"
 permalink: "/dutchgov/interbestuurlijkedatastrategie.nl.html"
 subdomains_count: 2
-all_subdomains_count: 2
+all_subdomains_count: 3
 urls_count: 1
 ssl_rank: A+
 http_rank: A
@@ -29,7 +29,7 @@ tags: dutchgov
 |------------|-------|------|
 |[subdomains.txt](/DutchGovScope/data/interbestuurlijkedatastrategie.nl/subdomains.txt)|2|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/interbestuurlijkedatastrategie.nl/urls.txt)|1|Urls|
-|[all_subdomains.txt](/DutchGovScope/data/interbestuurlijkedatastrategie.nl/all_subdomains.txt)|2|All found subdomains (history)|
+|[all_subdomains.txt](/DutchGovScope/data/interbestuurlijkedatastrategie.nl/all_subdomains.txt)|3|All found subdomains (history)|
 
 
 ## Statistics

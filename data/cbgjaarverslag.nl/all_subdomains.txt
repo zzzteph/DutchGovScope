@@ -18,3 +18,4 @@ intern.english.cbgjaarverslag.nl
 a-feeds.a-english.cbgjaarverslag.nl
 a-feeds.cbgjaarverslag.nl
 a-intern.cbgjaarverslag.nl
+www.english.cbgjaarverslag.nl

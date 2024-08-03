@@ -3,7 +3,7 @@ layout: default
 title: "government.nl"
 permalink: "/dutchgov/government.nl.html"
 subdomains_count: 14
-all_subdomains_count: 28
+all_subdomains_count: 30
 urls_count: 7
 ssl_rank: A+
 http_rank: A
@@ -29,7 +29,7 @@ tags: dutchgov
 |------------|-------|------|
 |[subdomains.txt](/DutchGovScope/data/government.nl/subdomains.txt)|14|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/government.nl/urls.txt)|7|Urls|
-|[all_subdomains.txt](/DutchGovScope/data/government.nl/all_subdomains.txt)|28|All found subdomains (history)|
+|[all_subdomains.txt](/DutchGovScope/data/government.nl/all_subdomains.txt)|30|All found subdomains (history)|
 
 
 ## Statistics

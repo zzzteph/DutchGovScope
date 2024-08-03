@@ -3,7 +3,7 @@ layout: default
 title: "cbgjaarverslag.nl"
 permalink: "/dutchgov/cbgjaarverslag.nl.html"
 subdomains_count: 5
-all_subdomains_count: 20
+all_subdomains_count: 21
 urls_count: 3
 ssl_rank: A+
 http_rank: A
@@ -29,7 +29,7 @@ tags: dutchgov
 |------------|-------|------|
 |[subdomains.txt](/DutchGovScope/data/cbgjaarverslag.nl/subdomains.txt)|5|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/cbgjaarverslag.nl/urls.txt)|3|Urls|
-|[all_subdomains.txt](/DutchGovScope/data/cbgjaarverslag.nl/all_subdomains.txt)|20|All found subdomains (history)|
+|[all_subdomains.txt](/DutchGovScope/data/cbgjaarverslag.nl/all_subdomains.txt)|21|All found subdomains (history)|
 
 
 ## Statistics

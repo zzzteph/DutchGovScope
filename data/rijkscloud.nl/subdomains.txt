@@ -557,3 +557,6 @@ ip4.rijkscloud.nl
 ip6.rijkscloud.nl
 keycloak.dgdoobi.rijkscloud.nl
 vpn01.ec.rijkscloud.nl
+platform.analyse.ilt.rijkscloud.nl
+clhf1.gn2.rijkscloud.nl
+vpn1.ec.rijkscloud.nl

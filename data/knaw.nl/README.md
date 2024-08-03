@@ -12,7 +12,7 @@
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/knaw.nl/subdomains.txt)|1340|Alive subdomains|
-|[urls.txt](/data/knaw.nl/urls.txt)|655|Urls|
+|[urls.txt](/data/knaw.nl/urls.txt)|658|Urls|
 |[all_subdomains.txt](/data/knaw.nl/all_subdomains.txt)|1865|All found subdomains (history)|
 
 
@@ -676,4 +676,7 @@
 |[https://oat.acc.huc.knaw.nl](https://oat.acc.huc.knaw.nl)| | **F**|Apache/2.4.41 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.41 Ubuntu|Unauthorized|
 |[https://web31.knaw.nl](https://web31.knaw.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|Index of /|
 |[https://www04.niod.knaw.nl](https://www04.niod.knaw.nl)| | **F**|Apache/2.4.37 (Red Hat Enterprise Linux) OpenSSL/1.1.1k| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.37 Drupal:7 OpenSSL:1.1.1k PHP Red Hat|Antisemitisme.nu...|
+|[https://oat.dev.huc.knaw.nl](https://oat.dev.huc.knaw.nl)| | **F**|Apache/2.4.41 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.41 Ubuntu|403 Forbidden|
+|[http://arrestanten40-45.niod.knaw.nl](http://arrestanten40-45.niod.knaw.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|301 Moved Perman...|
+|[https://declaree.knaw.nl](https://declaree.knaw.nl)| | **A**|Apache| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server|301 Moved Perman...|
 

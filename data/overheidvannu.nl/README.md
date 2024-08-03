@@ -13,7 +13,7 @@
 |------------|-------|------|
 |[subdomains.txt](/data/overheidvannu.nl/subdomains.txt)|9|Alive subdomains|
 |[urls.txt](/data/overheidvannu.nl/urls.txt)|5|Urls|
-|[all_subdomains.txt](/data/overheidvannu.nl/all_subdomains.txt)|17|All found subdomains (history)|
+|[all_subdomains.txt](/data/overheidvannu.nl/all_subdomains.txt)|18|All found subdomains (history)|
 
 
 ## Statistics

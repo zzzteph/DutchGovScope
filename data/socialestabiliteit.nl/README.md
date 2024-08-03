@@ -13,7 +13,7 @@
 |------------|-------|------|
 |[subdomains.txt](/data/socialestabiliteit.nl/subdomains.txt)|9|Alive subdomains|
 |[urls.txt](/data/socialestabiliteit.nl/urls.txt)|5|Urls|
-|[all_subdomains.txt](/data/socialestabiliteit.nl/all_subdomains.txt)|21|All found subdomains (history)|
+|[all_subdomains.txt](/data/socialestabiliteit.nl/all_subdomains.txt)|22|All found subdomains (history)|
 
 
 ## Statistics

@@ -71,3 +71,4 @@ rni-portal-acc.rvig.nl
 api.reis.idm.rvig.nl
 rvp.reis.idm.rvig.nl
 agw.lap.idm.rvig.nl
+rni-portal.rvig.nl

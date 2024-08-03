@@ -4,10 +4,10 @@ title: "commissiecelz.nl"
 permalink: "/dutchgov/commissiecelz.nl.html"
 subdomains_count: 7
 all_subdomains_count: 7
-urls_count: 0
+urls_count: 4
 ssl_rank: 
-http_rank: F
-security_txt: 0
+http_rank: A
+security_txt: 4
 url_link: /data/commissiecelz.nl/urls.txt
 all_subdomains_link: /data/commissiecelz.nl/all_subdomains.txt
 subdomains_link: /data/commissiecelz.nl/subdomains.txt
@@ -21,14 +21,14 @@ tags: dutchgov
 
 
  - **SSL Grade**:
- - **HTTP Security Grade**:F
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:0
+ - **HTTP Security Grade**:A
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:4
 
 
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/DutchGovScope/data/commissiecelz.nl/subdomains.txt)|7|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/commissiecelz.nl/urls.txt)|0|Urls|
+|[urls.txt](/DutchGovScope/data/commissiecelz.nl/urls.txt)|4|Urls|
 |[all_subdomains.txt](/DutchGovScope/data/commissiecelz.nl/all_subdomains.txt)|7|All found subdomains (history)|
 
 
@@ -37,4 +37,8 @@ tags: dutchgov
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
+|[https://feeds.commissiecelz.nl](https://feeds.commissiecelz.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
+|[https://opendata.commissiecelz.nl](https://opendata.commissiecelz.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
+|[https://www.commissiecelz.nl](https://www.commissiecelz.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Home | Commissie...|
+|[https://commissiecelz.nl](https://commissiecelz.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
 

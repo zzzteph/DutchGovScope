@@ -2464,3 +2464,8 @@ https://tls.www.pleio.nl
 https://testwebsite.pleio.nl
 https://ws4.pleio.nl
 https://coach.pleio.nl
+https://dossier.capacitor.pleio.nl
+https://test.tooling.pleio.nl
+https://tooling.capacitor.pleio.nl
+https://preprod.capacitor.pleio.nl
+https://prod.capacitor.pleio.nl

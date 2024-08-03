@@ -6,7 +6,7 @@
 
  - **SSL Grade**:A-
  - **HTTP Security Grade**:B
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:18
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:19
 
 
 | File       | Count | Info |
@@ -81,5 +81,5 @@
 |[https://enterpriseregistration.noord-holland.nl](https://enterpriseregistration.noord-holland.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://druktemonitor.noord-holland.nl](https://druktemonitor.noord-holland.nl)| | **C**|waitress| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|Redirecting...|
 |[https://ai.noord-holland.nl](https://ai.noord-holland.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
-|[https://ios-api.noord-holland.nl](https://ios-api.noord-holland.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Web App - Unavai...|
+|[https://ios-api.noord-holland.nl](https://ios-api.noord-holland.nl)| | **A**||:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Azure HSTS|IOS API Test App|
 

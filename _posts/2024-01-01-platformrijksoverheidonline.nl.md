@@ -3,7 +3,7 @@ layout: default
 title: "platformrijksoverheidonline.nl"
 permalink: "/dutchgov/platformrijksoverheidonline.nl.html"
 subdomains_count: 14
-all_subdomains_count: 16
+all_subdomains_count: 18
 urls_count: 7
 ssl_rank: A+
 http_rank: A
@@ -29,7 +29,7 @@ tags: dutchgov
 |------------|-------|------|
 |[subdomains.txt](/DutchGovScope/data/platformrijksoverheidonline.nl/subdomains.txt)|14|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/platformrijksoverheidonline.nl/urls.txt)|7|Urls|
-|[all_subdomains.txt](/DutchGovScope/data/platformrijksoverheidonline.nl/all_subdomains.txt)|16|All found subdomains (history)|
+|[all_subdomains.txt](/DutchGovScope/data/platformrijksoverheidonline.nl/all_subdomains.txt)|18|All found subdomains (history)|
 
 
 ## Statistics

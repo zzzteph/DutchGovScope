@@ -15,3 +15,4 @@ a-feeds.overheidvannu.nl
 a-magazines.overheidvannu.nl
 a-opendata.overheidvannu.nl
 a-www.overheidvannu.nl
+www.magazines.overheidvannu.nl

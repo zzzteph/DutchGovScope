@@ -32,3 +32,4 @@ a-opendata.sso3w.nl
 wcag-2-rapport-website-www.sso3w.nl
 cmv-opdrachtgever.sso3w.nl
 esb.btp.sso3w.nl
+www.magazines.sso3w.nl

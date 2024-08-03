@@ -13,7 +13,7 @@
 |------------|-------|------|
 |[subdomains.txt](/data/interbestuurlijkedatastrategie.nl/subdomains.txt)|2|Alive subdomains|
 |[urls.txt](/data/interbestuurlijkedatastrategie.nl/urls.txt)|1|Urls|
-|[all_subdomains.txt](/data/interbestuurlijkedatastrategie.nl/all_subdomains.txt)|2|All found subdomains (history)|
+|[all_subdomains.txt](/data/interbestuurlijkedatastrategie.nl/all_subdomains.txt)|3|All found subdomains (history)|
 
 
 ## Statistics

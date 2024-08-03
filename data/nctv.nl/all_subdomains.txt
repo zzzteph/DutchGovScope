@@ -53,3 +53,4 @@ test.nctv.nl
 a-opendata.a-english.nctv.nl
 elearning-zvjz-uk.nctv.nl
 elearning-zvjz-medewerkers.nctv.nl
+www.magazines.nctv.nl

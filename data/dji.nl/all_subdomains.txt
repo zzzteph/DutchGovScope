@@ -58,3 +58,4 @@ a-www.dji.nl
 cdn.dji.nl
 ftp.dji.nl
 mgmt.beeldbellen.dji.nl
+www.magazines.dji.nl

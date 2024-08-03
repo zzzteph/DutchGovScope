@@ -13,7 +13,7 @@
 |------------|-------|------|
 |[subdomains.txt](/data/cybersecurityraad.nl/subdomains.txt)|9|Alive subdomains|
 |[urls.txt](/data/cybersecurityraad.nl/urls.txt)|5|Urls|
-|[all_subdomains.txt](/data/cybersecurityraad.nl/all_subdomains.txt)|10|All found subdomains (history)|
+|[all_subdomains.txt](/data/cybersecurityraad.nl/all_subdomains.txt)|11|All found subdomains (history)|
 
 
 ## Statistics
