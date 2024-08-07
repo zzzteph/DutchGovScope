@@ -22,7 +22,7 @@
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[https://db.cbg-meb.nl](https://db.cbg-meb.nl)| **A+**| **B**|nginx|:warning: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
-|[https://dcp-time-slot.cbg-meb.nl](https://dcp-time-slot.cbg-meb.nl)| **A+**| **A**|nginx|:warning: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx Phusion Passenger:6.0.14 Ruby Ruby on Rails|CBG/MEB Timeslot...|
+|[https://dcp-time-slot.cbg-meb.nl](https://dcp-time-slot.cbg-meb.nl)| **A+**| **A**|nginx|:warning: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx Ruby Ruby on Rails|CBG/MEB Timeslot...|
 |[https://english.cbg-meb.nl](https://english.cbg-meb.nl)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Home | Medicines...|
 |[https://enterpriseenrollment.cbg-meb.nl](https://enterpriseenrollment.cbg-meb.nl)| **F**| **E**|| | | | | | | | :white_check_mark: | |HSTS||
 |[https://feeds.cbg-meb.nl](https://feeds.cbg-meb.nl)| **A+**| **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||

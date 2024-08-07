@@ -3,7 +3,7 @@ layout: default
 title: "onderwijsinspectie.nl"
 permalink: "/dutchgov/onderwijsinspectie.nl.html"
 subdomains_count: 19
-all_subdomains_count: 28
+all_subdomains_count: 29
 urls_count: 12
 ssl_rank: A
 http_rank: A
@@ -29,7 +29,7 @@ tags: dutchgov
 |------------|-------|------|
 |[subdomains.txt](/DutchGovScope/data/onderwijsinspectie.nl/subdomains.txt)|19|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/onderwijsinspectie.nl/urls.txt)|12|Urls|
-|[all_subdomains.txt](/DutchGovScope/data/onderwijsinspectie.nl/all_subdomains.txt)|28|All found subdomains (history)|
+|[all_subdomains.txt](/DutchGovScope/data/onderwijsinspectie.nl/all_subdomains.txt)|29|All found subdomains (history)|
 
 
 ## Statistics

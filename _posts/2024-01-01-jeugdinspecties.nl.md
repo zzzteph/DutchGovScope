@@ -3,7 +3,7 @@ layout: default
 title: "jeugdinspecties.nl"
 permalink: "/dutchgov/jeugdinspecties.nl.html"
 subdomains_count: 0
-all_subdomains_count: 2
+all_subdomains_count: 11
 urls_count: 0
 ssl_rank: 
 http_rank: F
@@ -29,7 +29,7 @@ tags: dutchgov
 |------------|-------|------|
 |[subdomains.txt](/DutchGovScope/data/jeugdinspecties.nl/subdomains.txt)|0|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/jeugdinspecties.nl/urls.txt)|0|Urls|
-|[all_subdomains.txt](/DutchGovScope/data/jeugdinspecties.nl/all_subdomains.txt)|2|All found subdomains (history)|
+|[all_subdomains.txt](/DutchGovScope/data/jeugdinspecties.nl/all_subdomains.txt)|11|All found subdomains (history)|
 
 
 ## Statistics

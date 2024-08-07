@@ -2,7 +2,6 @@ https://acc.monumentenregister.cultureelerfgoed.nl
 https://acc.subsidie.cultureelerfgoed.nl
 https://acceptatie.archis.cultureelerfgoed.nl
 https://acceptatie.geoservices.cultureelerfgoed.nl
-https://acceptatie.zoeken.cultureelerfgoed.nl
 https://api.linkeddata.cultureelerfgoed.nl
 https://archis.cultureelerfgoed.nl
 https://archisarchief.cultureelerfgoed.nl

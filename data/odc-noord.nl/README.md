@@ -102,7 +102,7 @@
 |[https://iaas-portal-gn3.odc-noord.nl](https://iaas-portal-gn3.odc-noord.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |AngularJS HSTS||
 |[https://paas-portal-gn3.odc-noord.nl](https://paas-portal-gn3.odc-noord.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |AngularJS HSTS||
 |[https://login-gn3.odc-noord.nl](https://login-gn3.odc-noord.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
-|[https://rvihh-acc.topdesk.odc-noord.nl](https://rvihh-acc.topdesk.odc-noord.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Login|
+|[https://rvihh-acc.topdesk.odc-noord.nl](https://rvihh-acc.topdesk.odc-noord.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|Login|
 |[https://bd-toegang-acc.topdesk.odc-noord.nl](https://bd-toegang-acc.topdesk.odc-noord.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Login|
 |[https://mijn.odc-noord.nl](https://mijn.odc-noord.nl)| | **B**|WSGIServer/0.2 CPython/3.9.18|:warning: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 

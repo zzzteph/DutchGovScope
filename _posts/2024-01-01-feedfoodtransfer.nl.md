@@ -4,10 +4,10 @@ title: "feedfoodtransfer.nl"
 permalink: "/dutchgov/feedfoodtransfer.nl.html"
 subdomains_count: 29
 all_subdomains_count: 31
-urls_count: 28
+urls_count: 29
 ssl_rank: A+
 http_rank: A
-security_txt: 18
+security_txt: 19
 url_link: /data/feedfoodtransfer.nl/urls.txt
 all_subdomains_link: /data/feedfoodtransfer.nl/all_subdomains.txt
 subdomains_link: /data/feedfoodtransfer.nl/subdomains.txt
@@ -22,13 +22,13 @@ tags: dutchgov
 
  - **SSL Grade**:A+
  - **HTTP Security Grade**:A
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:18
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:19
 
 
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/DutchGovScope/data/feedfoodtransfer.nl/subdomains.txt)|29|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/feedfoodtransfer.nl/urls.txt)|28|Urls|
+|[urls.txt](/DutchGovScope/data/feedfoodtransfer.nl/urls.txt)|29|Urls|
 |[all_subdomains.txt](/DutchGovScope/data/feedfoodtransfer.nl/all_subdomains.txt)|31|All found subdomains (history)|
 
 
@@ -65,4 +65,5 @@ tags: dutchgov
 |[https://beta.apps.feedfoodtransfer.nl](https://beta.apps.feedfoodtransfer.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |||
 |[https://cdn.apps.feedfoodtransfer.nl](https://cdn.apps.feedfoodtransfer.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |||
 |[https://test.apps.feedfoodtransfer.nl](https://test.apps.feedfoodtransfer.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |||
+|[https://static.apps.feedfoodtransfer.nl](https://static.apps.feedfoodtransfer.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |||
 

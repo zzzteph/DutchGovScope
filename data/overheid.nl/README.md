@@ -11,7 +11,7 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/overheid.nl/subdomains.txt)|62017|Alive subdomains|
+|[subdomains.txt](/data/overheid.nl/subdomains.txt)|62016|Alive subdomains|
 |[urls.txt](/data/overheid.nl/urls.txt)|314|Urls|
 |[all_subdomains.txt](/data/overheid.nl/all_subdomains.txt)|65455|All found subdomains (history)|
 
@@ -92,7 +92,6 @@
 |[https://ebms.service.bta.omgevingswet.overheid.nl](https://ebms.service.bta.omgevingswet.overheid.nl)| **F**| **E**|| | | | | | | | :white_check_mark: | ||400 No required...|
 |[https://enabling.omgevingswet.overheid.nl](https://enabling.omgevingswet.overheid.nl)| **A+**| **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Omgevingsloket|
 |[https://externe-veiligheid.omgevingswet.overheid.nl](https://externe-veiligheid.omgevingswet.overheid.nl)| **A+**| **C**|unspecified| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
-|[https://forum.developer.overheid.nl](https://forum.developer.overheid.nl)| **A**| **B**|| | | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Discourse Nginx Ruby on Rails||
 |[https://gegevensdelen.mijn.overheid.nl](https://gegevensdelen.mijn.overheid.nl)| **A+**| **A**|nginx| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx Vue.js|Gegevens delen v...|
 |[https://gegevensdelen.preprod.mijn.overheid.nl](https://gegevensdelen.preprod.mijn.overheid.nl)| **A+**| **A**|nginx| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx Vue.js|Gegevens delen v...|
 |[https://identifier.overheid.nl](https://identifier.overheid.nl)| **A**| **A**|Apache| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS|URI - Performer...|
@@ -320,6 +319,7 @@
 |[https://gegevensbijbesluiten.overheid.nl](https://gegevensbijbesluiten.overheid.nl)| **A+**| **B**||:warning: |:white_check_mark: | :warning:| | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS Node.js Nuxt.js Vue.js|Wie gebruikt mij...|
 |[https://digid-stub.lpc.mijn.overheid.nl](https://digid-stub.lpc.mijn.overheid.nl)| **A+**| **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|403 Forbidden|
 |[https://eidas-stub.lpc.mijn.overheid.nl](https://eidas-stub.lpc.mijn.overheid.nl)| **A+**| **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|403 Forbidden|
+|[https://pdc.acc.omgevingswet.overheid.nl](https://pdc.acc.omgevingswet.overheid.nl)| | **F**|Unspecified| | | | | | | | :white_check_mark: | |HSTS|Kadaster - Pagin...|
 |[https://pp1.toegang.overheid.nl](https://pp1.toegang.overheid.nl)| | **E**|| | | | | | | | :white_check_mark: | |Bootstrap:1.13.18 HSTS|No Access! / Gee...|
 |[https://wetgevingskalender-acc.overheid.nl](https://wetgevingskalender-acc.overheid.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|403 Forbidden|
 |[https://beta-wetten.overheid.nl](https://beta-wetten.overheid.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS|Eenvoudig zoeken...|

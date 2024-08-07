@@ -46,14 +46,14 @@ tags: dutchgov
 |[https://test.raadvanstate.nl](https://test.raadvanstate.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:-|Home - Raad van...|
 |[https://app.raadvanstate.nl](https://app.raadvanstate.nl)| | **A**|-| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Microsoft ASP.NET:-|Raad van State|
 |[https://pwa-api.raadvanstate.nl](https://pwa-api.raadvanstate.nl)| | **A**|-| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Microsoft ASP.NET:-||
-|[http://autodiscover.raadvanstate.nl](http://autodiscover.raadvanstate.nl)| | **C**|Microsoft-IIS/10.0| |:white_check_mark: | | | | | | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server||
+|[http://autodiscover.raadvanstate.nl](http://autodiscover.raadvanstate.nl)| | **B**|Microsoft-IIS/10.0|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server||
 |[https://extranet-a.raadvanstate.nl](https://extranet-a.raadvanstate.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server Microsoft ASP.NET:4.0.30319|Object moved|
 |[https://extranet.raadvanstate.nl](https://extranet.raadvanstate.nl)| | **E**|Microsoft-IIS/10.0| | | | | | :white_check_mark: | | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET:4.0.30319 Windows Server|Object moved|
 |[https://loket-inloggen-preprod.raadvanstate.nl](https://loket-inloggen-preprod.raadvanstate.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
 |[https://loket-inloggen.raadvanstate.nl](https://loket-inloggen.raadvanstate.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
 |[https://loket.raadvanstate.nl](https://loket.raadvanstate.nl)| | **A**|Microsoft-IIS/10.0|:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |IIS:10.0 Windows Server||
 |[https://loket-preprod.raadvanstate.nl](https://loket-preprod.raadvanstate.nl)| | **A**|Microsoft-IIS/10.0|:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |IIS:10.0 Windows Server||
-|[https://mijnzaak-acc.raadvanstate.nl](https://mijnzaak-acc.raadvanstate.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
+|[http://mijnzaak-acc.raadvanstate.nl](http://mijnzaak-acc.raadvanstate.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://portaal.gateway.raadvanstate.nl](https://portaal.gateway.raadvanstate.nl)| | **F**|Layer7-API-Gateway| | | | | | | | :white_check_mark: | |||
 |[https://raadvanstate.nl](https://raadvanstate.nl)| | **B**|-| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Microsoft ASP.NET:-|Document Moved|
 |[https://siam-acp.raadvanstate.nl](https://siam-acp.raadvanstate.nl)| | **A**|N.A.| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bootstrap HSTS|Mijn Zaak - Aanm...|

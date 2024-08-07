@@ -27,3 +27,4 @@ https://vulnerabilities.ncsc.nl
 https://gitnmp.arp.ncsc.nl
 https://registreren.ncsc.nl
 https://melden.ncsc.nl
+https://csaf.data.security.ncsc.nl

@@ -1863,3 +1863,4 @@ sweb11.dans.knaw.nl
 tv31.dans.knaw.nl
 va31.dans.knaw.nl
 web21.dans.knaw.nl
+sd-yugoslavia.dev.huc.knaw.nl

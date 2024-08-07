@@ -2,9 +2,9 @@
 layout: default
 title: "noord-holland.nl"
 permalink: "/dutchgov/noord-holland.nl.html"
-subdomains_count: 88
+subdomains_count: 87
 all_subdomains_count: 277
-urls_count: 61
+urls_count: 60
 ssl_rank: A-
 http_rank: B
 security_txt: 19
@@ -27,8 +27,8 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/noord-holland.nl/subdomains.txt)|88|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/noord-holland.nl/urls.txt)|61|Urls|
+|[subdomains.txt](/DutchGovScope/data/noord-holland.nl/subdomains.txt)|87|Alive subdomains|
+|[urls.txt](/DutchGovScope/data/noord-holland.nl/urls.txt)|60|Urls|
 |[all_subdomains.txt](/DutchGovScope/data/noord-holland.nl/all_subdomains.txt)|277|All found subdomains (history)|
 
 
@@ -96,6 +96,5 @@ tags: dutchgov
 |[https://enterpriseenrollment.noord-holland.nl](https://enterpriseenrollment.noord-holland.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||
 |[https://enterpriseregistration.noord-holland.nl](https://enterpriseregistration.noord-holland.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://druktemonitor.noord-holland.nl](https://druktemonitor.noord-holland.nl)| | **C**|waitress| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|Redirecting...|
-|[https://ai.noord-holland.nl](https://ai.noord-holland.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
 |[https://ios-api.noord-holland.nl](https://ios-api.noord-holland.nl)| | **A**||:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Azure HSTS|IOS API Test App|
 

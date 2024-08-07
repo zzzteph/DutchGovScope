@@ -13,7 +13,7 @@
 |------------|-------|------|
 |[subdomains.txt](/data/holmes.nl/subdomains.txt)|0|Alive subdomains|
 |[urls.txt](/data/holmes.nl/urls.txt)|0|Urls|
-|[all_subdomains.txt](/data/holmes.nl/all_subdomains.txt)|16|All found subdomains (history)|
+|[all_subdomains.txt](/data/holmes.nl/all_subdomains.txt)|25|All found subdomains (history)|
 
 
 ## Statistics

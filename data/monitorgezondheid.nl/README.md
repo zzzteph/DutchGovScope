@@ -11,7 +11,7 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/monitorgezondheid.nl/subdomains.txt)|3|Alive subdomains|
+|[subdomains.txt](/data/monitorgezondheid.nl/subdomains.txt)|4|Alive subdomains|
 |[urls.txt](/data/monitorgezondheid.nl/urls.txt)|3|Urls|
 |[all_subdomains.txt](/data/monitorgezondheid.nl/all_subdomains.txt)|6|All found subdomains (history)|
 

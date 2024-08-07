@@ -210,3 +210,4 @@ o-www.platformrijksoverheid.nl
 t-cms.platformrijksoverheid.nl
 t-www.platformrijksoverheid.nl
 api.abonneren.platformrijksoverheid.nl
+www.vpn.platformrijksoverheid.nl

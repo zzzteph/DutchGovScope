@@ -31,3 +31,4 @@ a-english.wodc.nl
 a-feeds.a-english.wodc.nl
 ftp.wodc.nl
 mail.wodc.nl
+www.magazines.wodc.nl

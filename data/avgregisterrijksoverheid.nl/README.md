@@ -5,7 +5,7 @@
 
 
  - **SSL Grade**:D
- - **HTTP Security Grade**:E
+ - **HTTP Security Grade**:D
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:0
 
 
@@ -21,7 +21,7 @@
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[http://acc.avgregisterrijksoverheid.nl](http://acc.avgregisterrijksoverheid.nl)| **F**| **E**|| | | | | | | | :white_check_mark: | |||
-|[https://www.avgregisterrijksoverheid.nl](https://www.avgregisterrijksoverheid.nl)| **B**| **E**|| | | | | | | | :white_check_mark: | |HSTS|AVG Verwerkingen...|
-|[https://avgregisterrijksoverheid.nl](https://avgregisterrijksoverheid.nl)| **B**| **E**|| | | | | | | | :white_check_mark: | |HSTS|AVG Verwerkingen...|
+|[https://acc.avgregisterrijksoverheid.nl](https://acc.avgregisterrijksoverheid.nl)| **F**| **E**|| | | | | | | | :white_check_mark: | ||Service Unavaila...|
+|[https://www.avgregisterrijksoverheid.nl](https://www.avgregisterrijksoverheid.nl)| **B**| **C**||:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|AVG Verwerkingen...|
+|[https://avgregisterrijksoverheid.nl](https://avgregisterrijksoverheid.nl)| **B**| **C**||:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|AVG Verwerkingen...|
 

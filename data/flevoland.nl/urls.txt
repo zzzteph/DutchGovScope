@@ -76,5 +76,4 @@ https://enterpriseregistration.flevoland.nl
 https://msoid.flevoland.nl
 https://mbg-proxy.flevoland.nl
 http://res.flevoland.nl
-https://remote.flevoland.nl
 https://denkmee.flevoland.nl

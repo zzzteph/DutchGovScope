@@ -22,3 +22,4 @@ a-opendata.autoriteitnvs.nl
 intranet.autoriteitnvs.nl
 staging.intranet.autoriteitnvs.nl
 cms.intranet.autoriteitnvs.nl
+www.magazines.autoriteitnvs.nl

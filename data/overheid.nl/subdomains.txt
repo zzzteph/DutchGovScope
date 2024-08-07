@@ -70,7 +70,6 @@ ebms.service.bta.omgevingswet.overheid.nl
 enabling.omgevingswet.overheid.nl
 externe-veiligheid.omgevingswet.overheid.nl
 feature-105-edge-z1vq9x.review.developer.overheid.nl
-forum.developer.overheid.nl
 gegevensdelen.mijn.overheid.nl
 gegevensdelen.preprod.mijn.overheid.nl
 identifier.overheid.nl

@@ -11,3 +11,7 @@ a-feeds.tlokb.nl
 a-opendata.tlokb.nl
 a-www.tlokb.nl
 register-backend.tlokb.nl
+acc.tlokb.nl
+cms-acc.tlokb.nl
+cms-test.tlokb.nl
+test.tlokb.nl

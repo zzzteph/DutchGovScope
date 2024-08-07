@@ -3,7 +3,7 @@ layout: default
 title: "magazinesrijkswaterstaat.nl"
 permalink: "/dutchgov/magazinesrijkswaterstaat.nl.html"
 subdomains_count: 5
-all_subdomains_count: 11
+all_subdomains_count: 12
 urls_count: 3
 ssl_rank: A+
 http_rank: A
@@ -29,7 +29,7 @@ tags: dutchgov
 |------------|-------|------|
 |[subdomains.txt](/DutchGovScope/data/magazinesrijkswaterstaat.nl/subdomains.txt)|5|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/magazinesrijkswaterstaat.nl/urls.txt)|3|Urls|
-|[all_subdomains.txt](/DutchGovScope/data/magazinesrijkswaterstaat.nl/all_subdomains.txt)|11|All found subdomains (history)|
+|[all_subdomains.txt](/DutchGovScope/data/magazinesrijkswaterstaat.nl/all_subdomains.txt)|12|All found subdomains (history)|
 
 
 ## Statistics

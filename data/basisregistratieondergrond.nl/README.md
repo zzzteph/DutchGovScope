@@ -11,7 +11,7 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/basisregistratieondergrond.nl/subdomains.txt)|2|Alive subdomains|
+|[subdomains.txt](/data/basisregistratieondergrond.nl/subdomains.txt)|3|Alive subdomains|
 |[urls.txt](/data/basisregistratieondergrond.nl/urls.txt)|2|Urls|
 |[all_subdomains.txt](/data/basisregistratieondergrond.nl/all_subdomains.txt)|21|All found subdomains (history)|
 

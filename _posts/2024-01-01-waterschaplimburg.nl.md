@@ -3,11 +3,11 @@ layout: default
 title: "waterschaplimburg.nl"
 permalink: "/dutchgov/waterschaplimburg.nl.html"
 subdomains_count: 2643
-all_subdomains_count: 2777
+all_subdomains_count: 2797
 urls_count: 2431
 ssl_rank: A
 http_rank: E
-security_txt: 2038
+security_txt: 2037
 url_link: /data/waterschaplimburg.nl/urls.txt
 all_subdomains_link: /data/waterschaplimburg.nl/all_subdomains.txt
 subdomains_link: /data/waterschaplimburg.nl/subdomains.txt
@@ -22,14 +22,14 @@ tags: dutchgov
 
  - **SSL Grade**:A
  - **HTTP Security Grade**:E
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:2038
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:2037
 
 
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/DutchGovScope/data/waterschaplimburg.nl/subdomains.txt)|2643|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/waterschaplimburg.nl/urls.txt)|2431|Urls|
-|[all_subdomains.txt](/DutchGovScope/data/waterschaplimburg.nl/all_subdomains.txt)|2777|All found subdomains (history)|
+|[all_subdomains.txt](/DutchGovScope/data/waterschaplimburg.nl/all_subdomains.txt)|2797|All found subdomains (history)|
 
 
 ## Statistics
@@ -2069,9 +2069,9 @@ tags: dutchgov
 |[http://reviewboard.waterschaplimburg.nl](http://reviewboard.waterschaplimburg.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
 |[http://instaplus.waterschaplimburg.nl](http://instaplus.waterschaplimburg.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
 |[http://provider.waterschaplimburg.nl](http://provider.waterschaplimburg.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
-|[http://fallback.waterschaplimburg.nl](http://fallback.waterschaplimburg.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
+|[http://fallback.waterschaplimburg.nl](http://fallback.waterschaplimburg.nl)| | **E**|Microsoft-HTTPAPI/2.0| | | | | | :white_check_mark: | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
 |[http://ipek.waterschaplimburg.nl](http://ipek.waterschaplimburg.nl)| | **E**|Microsoft-HTTPAPI/2.0| | | | | | :white_check_mark: | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
-|[http://strandsletten.waterschaplimburg.nl](http://strandsletten.waterschaplimburg.nl)| | **E**|Microsoft-HTTPAPI/2.0| | | | | | :white_check_mark: | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
+|[http://strandsletten.waterschaplimburg.nl](http://strandsletten.waterschaplimburg.nl)| | **D**|| | | | | | :white_check_mark: | | :white_check_mark: | |Microsoft HTTPAPI:2.0||
 |[http://mahalo.waterschaplimburg.nl](http://mahalo.waterschaplimburg.nl)| | **D**|| | | | | | :white_check_mark: | | :white_check_mark: | |||
 |[http://rijkevoort.waterschaplimburg.nl](http://rijkevoort.waterschaplimburg.nl)| | **D**|| | | | | | :white_check_mark: | | :white_check_mark: | |||
 |[http://zwammerdam.waterschaplimburg.nl](http://zwammerdam.waterschaplimburg.nl)| | **D**|| | | | | | :white_check_mark: | | :white_check_mark: | |||

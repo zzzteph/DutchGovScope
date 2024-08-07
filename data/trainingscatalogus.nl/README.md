@@ -12,8 +12,8 @@
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/trainingscatalogus.nl/subdomains.txt)|210|Alive subdomains|
-|[urls.txt](/data/trainingscatalogus.nl/urls.txt)|114|Urls|
-|[all_subdomains.txt](/data/trainingscatalogus.nl/all_subdomains.txt)|225|All found subdomains (history)|
+|[urls.txt](/data/trainingscatalogus.nl/urls.txt)|115|Urls|
+|[all_subdomains.txt](/data/trainingscatalogus.nl/all_subdomains.txt)|226|All found subdomains (history)|
 
 
 ## Statistics
@@ -135,4 +135,5 @@
 |[https://belastingdienst-lms-a.course-api.trainingscatalogus.nl](https://belastingdienst-lms-a.course-api.trainingscatalogus.nl)| | **F**|Microsoft-IIS/10.0|:white_check_mark: | | | | | | | :white_check_mark: | |Azure IIS:10.0 Microsoft ASP.NET Windows Server||
 |[https://belastingdienst-lms-a.enrollment-api.trainingscatalogus.nl](https://belastingdienst-lms-a.enrollment-api.trainingscatalogus.nl)| | **F**|Microsoft-IIS/10.0|:white_check_mark: | | | | | | | :white_check_mark: | |Azure IIS:10.0 Microsoft ASP.NET Windows Server|HTTP Error 500.3...|
 |[https://belastingdienst-lms-a.scim-api.trainingscatalogus.nl](https://belastingdienst-lms-a.scim-api.trainingscatalogus.nl)| | **F**|Microsoft-IIS/10.0|:white_check_mark: | | | | | | | :white_check_mark: | |Azure IIS:10.0 Microsoft ASP.NET Windows Server|HTTP Error 500.3...|
+|[https://rabobank.trainingscatalogus.nl](https://rabobank.trainingscatalogus.nl)| | **C**|Class|:white_check_mark: |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | |HSTS||
 

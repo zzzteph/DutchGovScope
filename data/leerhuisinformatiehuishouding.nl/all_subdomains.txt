@@ -2,3 +2,6 @@ leerhuisinformatiehuishouding.nl
 www.leerhuisinformatiehuishouding.nl
 feeds.leerhuisinformatiehuishouding.nl
 opendata.leerhuisinformatiehuishouding.nl
+a-feeds.leerhuisinformatiehuishouding.nl
+a-opendata.leerhuisinformatiehuishouding.nl
+mijn.leerhuisinformatiehuishouding.nl

@@ -3,7 +3,7 @@ layout: default
 title: "adviescollegeregeldruk.nl"
 permalink: "/dutchgov/adviescollegeregeldruk.nl.html"
 subdomains_count: 0
-all_subdomains_count: 4
+all_subdomains_count: 9
 urls_count: 0
 ssl_rank: 
 http_rank: F
@@ -29,7 +29,7 @@ tags: dutchgov
 |------------|-------|------|
 |[subdomains.txt](/DutchGovScope/data/adviescollegeregeldruk.nl/subdomains.txt)|0|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/adviescollegeregeldruk.nl/urls.txt)|0|Urls|
-|[all_subdomains.txt](/DutchGovScope/data/adviescollegeregeldruk.nl/all_subdomains.txt)|4|All found subdomains (history)|
+|[all_subdomains.txt](/DutchGovScope/data/adviescollegeregeldruk.nl/all_subdomains.txt)|9|All found subdomains (history)|
 
 
 ## Statistics

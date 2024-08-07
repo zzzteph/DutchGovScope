@@ -13,7 +13,7 @@
 |------------|-------|------|
 |[subdomains.txt](/data/wodc.nl/subdomains.txt)|21|Alive subdomains|
 |[urls.txt](/data/wodc.nl/urls.txt)|10|Urls|
-|[all_subdomains.txt](/data/wodc.nl/all_subdomains.txt)|33|All found subdomains (history)|
+|[all_subdomains.txt](/data/wodc.nl/all_subdomains.txt)|34|All found subdomains (history)|
 
 
 ## Statistics

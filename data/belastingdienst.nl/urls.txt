@@ -46,6 +46,7 @@ https://mijn.belastingdienst.nl
 https://mijndouane.belastingdienst.nl
 https://mijnzakelijk.belastingdienst.nl
 https://mm.belastingdienst.nl
+https://moodle.vcdn.belastingdienst.nl
 https://mta-sts.belastingdienst.nl
 https://mul-mkt.belastingdienst.nl
 https://mul-redirect.belastingdienst.nl
@@ -79,6 +80,7 @@ https://toestemming-acc.belastingdienst.nl
 https://toestemming-tst.belastingdienst.nl
 https://veiling.belastingdienst.nl
 https://vepapi.vcdn.belastingdienst.nl
+https://vepkms.vcdn.belastingdienst.nl
 https://veplivemedia.vcdn.belastingdienst.nl
 https://vepvod.vcdn.belastingdienst.nl
 https://videobellen.belastingdienst.nl

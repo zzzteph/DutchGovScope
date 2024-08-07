@@ -11,7 +11,7 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/ofgv.nl/subdomains.txt)|21|Alive subdomains|
+|[subdomains.txt](/data/ofgv.nl/subdomains.txt)|17|Alive subdomains|
 |[urls.txt](/data/ofgv.nl/urls.txt)|9|Urls|
 |[all_subdomains.txt](/data/ofgv.nl/all_subdomains.txt)|30|All found subdomains (history)|
 

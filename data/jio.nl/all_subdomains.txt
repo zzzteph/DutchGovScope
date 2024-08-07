@@ -47,3 +47,5 @@ meet.acpt.jio.nl
 oos.acpt.jio.nl
 schedule.acpt.jio.nl
 sfbrppool01.acpt.jio.nl
+info.jio.nl
+rca.jio.nl

@@ -57,5 +57,4 @@ https://www.openstad.noord-holland.nl
 https://enterpriseenrollment.noord-holland.nl
 https://enterpriseregistration.noord-holland.nl
 https://druktemonitor.noord-holland.nl
-https://ai.noord-holland.nl
 https://ios-api.noord-holland.nl

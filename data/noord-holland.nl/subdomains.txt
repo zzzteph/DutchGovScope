@@ -22,7 +22,6 @@ financien.noord-holland.nl
 cijfers.noord-holland.nl
 automation-node.datalab-prod.aws.noord-holland.nl
 geoapps.noord-holland.nl
-cag.noord-holland.nl
 autodiscover.noord-holland.nl
 geoapps3.noord-holland.nl
 apollo.noord-holland.nl

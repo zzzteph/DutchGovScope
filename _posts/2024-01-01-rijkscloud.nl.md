@@ -4,7 +4,7 @@ title: "rijkscloud.nl"
 permalink: "/dutchgov/rijkscloud.nl.html"
 subdomains_count: 562
 all_subdomains_count: 756
-urls_count: 132
+urls_count: 131
 ssl_rank: A+
 http_rank: B
 security_txt: 42
@@ -28,7 +28,7 @@ tags: dutchgov
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/DutchGovScope/data/rijkscloud.nl/subdomains.txt)|562|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/rijkscloud.nl/urls.txt)|132|Urls|
+|[urls.txt](/DutchGovScope/data/rijkscloud.nl/urls.txt)|131|Urls|
 |[all_subdomains.txt](/DutchGovScope/data/rijkscloud.nl/all_subdomains.txt)|756|All found subdomains (history)|
 
 
@@ -166,7 +166,6 @@ tags: dutchgov
 |[https://zakelijk.dfront.rijkscloud.nl](https://zakelijk.dfront.rijkscloud.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|Uno Documentatie|
 |[https://kennisbank.dfront.rijkscloud.nl](https://kennisbank.dfront.rijkscloud.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|Uno Documentatie|
 |[https://kpi.dfront.rijkscloud.nl](https://kpi.dfront.rijkscloud.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|Uno Documentatie|
-|[https://portal.ds-ocw.rijkscloud.nl](https://portal.ds-ocw.rijkscloud.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://ip4.rijkscloud.nl](https://ip4.rijkscloud.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
 |[https://ip6.rijkscloud.nl](https://ip6.rijkscloud.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
 

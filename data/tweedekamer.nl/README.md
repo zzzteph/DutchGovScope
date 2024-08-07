@@ -11,9 +11,9 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/tweedekamer.nl/subdomains.txt)|201|Alive subdomains|
-|[urls.txt](/data/tweedekamer.nl/urls.txt)|127|Urls|
-|[all_subdomains.txt](/data/tweedekamer.nl/all_subdomains.txt)|301|All found subdomains (history)|
+|[subdomains.txt](/data/tweedekamer.nl/subdomains.txt)|202|Alive subdomains|
+|[urls.txt](/data/tweedekamer.nl/urls.txt)|128|Urls|
+|[all_subdomains.txt](/data/tweedekamer.nl/all_subdomains.txt)|302|All found subdomains (history)|
 
 
 ## Statistics
@@ -148,4 +148,5 @@
 |[https://cognos.tweedekamer.nl](https://cognos.tweedekamer.nl)| | **F**|BigIP| | | | | | | | :white_check_mark: | |F5 BigIP||
 |[https://rijksadresgids.tweedekamer.nl](https://rijksadresgids.tweedekamer.nl)| | **B**|BigIP|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |F5 BigIP||
 |[https://avgregister.tweedekamer.nl](https://avgregister.tweedekamer.nl)| | **B**|BigIP|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |F5 BigIP||
+|[https://b67.tweedekamer.nl](https://b67.tweedekamer.nl)| | **F**|BigIP| | | | | | | | :white_check_mark: | |F5 BigIP||
 

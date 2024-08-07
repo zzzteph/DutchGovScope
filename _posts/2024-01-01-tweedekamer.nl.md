@@ -2,9 +2,9 @@
 layout: default
 title: "tweedekamer.nl"
 permalink: "/dutchgov/tweedekamer.nl.html"
-subdomains_count: 201
-all_subdomains_count: 301
-urls_count: 127
+subdomains_count: 202
+all_subdomains_count: 302
+urls_count: 128
 ssl_rank: A-
 http_rank: C
 security_txt: 78
@@ -27,9 +27,9 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/tweedekamer.nl/subdomains.txt)|201|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/tweedekamer.nl/urls.txt)|127|Urls|
-|[all_subdomains.txt](/DutchGovScope/data/tweedekamer.nl/all_subdomains.txt)|301|All found subdomains (history)|
+|[subdomains.txt](/DutchGovScope/data/tweedekamer.nl/subdomains.txt)|202|Alive subdomains|
+|[urls.txt](/DutchGovScope/data/tweedekamer.nl/urls.txt)|128|Urls|
+|[all_subdomains.txt](/DutchGovScope/data/tweedekamer.nl/all_subdomains.txt)|302|All found subdomains (history)|
 
 
 ## Statistics
@@ -164,4 +164,5 @@ tags: dutchgov
 |[https://cognos.tweedekamer.nl](https://cognos.tweedekamer.nl)| | **F**|BigIP| | | | | | | | :white_check_mark: | |F5 BigIP||
 |[https://rijksadresgids.tweedekamer.nl](https://rijksadresgids.tweedekamer.nl)| | **B**|BigIP|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |F5 BigIP||
 |[https://avgregister.tweedekamer.nl](https://avgregister.tweedekamer.nl)| | **B**|BigIP|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |F5 BigIP||
+|[https://b67.tweedekamer.nl](https://b67.tweedekamer.nl)| | **F**|BigIP| | | | | | | | :white_check_mark: | |F5 BigIP||
 

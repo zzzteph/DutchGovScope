@@ -125,3 +125,4 @@ https://oracle-financials-acc.tweedekamer.nl
 https://cognos.tweedekamer.nl
 https://rijksadresgids.tweedekamer.nl
 https://avgregister.tweedekamer.nl
+https://b67.tweedekamer.nl

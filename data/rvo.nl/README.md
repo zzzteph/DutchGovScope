@@ -6,14 +6,14 @@
 
  - **SSL Grade**:B+
  - **HTTP Security Grade**:C
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:47
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:48
 
 
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/rvo.nl/subdomains.txt)|171|Alive subdomains|
-|[urls.txt](/data/rvo.nl/urls.txt)|118|Urls|
-|[all_subdomains.txt](/data/rvo.nl/all_subdomains.txt)|279|All found subdomains (history)|
+|[urls.txt](/data/rvo.nl/urls.txt)|119|Urls|
+|[all_subdomains.txt](/data/rvo.nl/all_subdomains.txt)|282|All found subdomains (history)|
 
 
 ## Statistics
@@ -121,7 +121,7 @@
 |[https://argocd-infra-preprod.efiling.mijnoctrooi.rvo.nl](https://argocd-infra-preprod.efiling.mijnoctrooi.rvo.nl)| | **F**|Server| | | | | | | | :white_check_mark: | |||
 |[https://monitoring-infra-preprod.efiling.mijnoctrooi.rvo.nl](https://monitoring-infra-preprod.efiling.mijnoctrooi.rvo.nl)| | **F**|Server| | | | | | | | :white_check_mark: | |||
 |[https://monitoring-preprod.efiling.mijnoctrooi.rvo.nl](https://monitoring-preprod.efiling.mijnoctrooi.rvo.nl)| | **F**|Server| | | | | | | | :white_check_mark: | |||
-|[https://preprod.efiling.mijnoctrooi.rvo.nl](https://preprod.efiling.mijnoctrooi.rvo.nl)| | **C**|nginx/1.21.0|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS Nginx:1.21.0 React|European Patent...|
+|[https://preprod.efiling.mijnoctrooi.rvo.nl](https://preprod.efiling.mijnoctrooi.rvo.nl)| | **F**|Server| | | | | | | | :white_check_mark: | |HSTS Nginx:1.21.0 React||
 |[https://argocd-infra.efiling.mijnoctrooi.rvo.nl](https://argocd-infra.efiling.mijnoctrooi.rvo.nl)| | **F**|Server| | | | | | | | :white_check_mark: | |||
 |[https://efiling.mijnoctrooi.rvo.nl](https://efiling.mijnoctrooi.rvo.nl)| | **F**|Server| | | | | | | | :white_check_mark: | |||
 |[https://monitoring-infra.efiling.mijnoctrooi.rvo.nl](https://monitoring-infra.efiling.mijnoctrooi.rvo.nl)| | **F**|Server| | | | | | | | :white_check_mark: | |||
@@ -133,10 +133,11 @@
 |[https://sandbox.rvo.nl](https://sandbox.rvo.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS|403 Forbidden|
 |[https://redesign.rvo.nl](https://redesign.rvo.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Basic Nginx|401 Authorizatio...|
 |[https://gdi-b.rvo.nl](https://gdi-b.rvo.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS|Onderhoud Pagina|
-|[http://cta.rvo.nl](http://cta.rvo.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
+|[https://cta.rvo.nl](https://cta.rvo.nl)| | **B**||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS Oracle Dynamic Monitoring Service Oracle WebLogic Server|Error 404--Not F...|
 |[https://europese-subsidies.rvo.nl](https://europese-subsidies.rvo.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Drupal HSTS Nginx PHP|Redirecting to h...|
 |[https://rhel-p-mijn.rvo.nl](https://rhel-p-mijn.rvo.nl)| | **A**||:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
-|[https://rhel-np-mijn.rvo.nl](https://rhel-np-mijn.rvo.nl)| | **A**||:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Mijn RVO - Stori...|
+|[http://rhel-np-mijn.rvo.nl](http://rhel-np-mijn.rvo.nl)| | **A**|BigIP|:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |F5 BigIP||
 |[https://edicrop.rvo.nl](https://edicrop.rvo.nl)| | **B**||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS Oracle Dynamic Monitoring Service Oracle WebLogic Server|Error 404--Not F...|
 |[http://ciam.rvo.nl](http://ciam.rvo.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
+|[https://edicrop-acc.rvo.nl](https://edicrop-acc.rvo.nl)| | **B**||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS Oracle Dynamic Monitoring Service Oracle WebLogic Server|Error 404--Not F...|
 

@@ -6,7 +6,7 @@ subdomains_count: 3
 all_subdomains_count: 4
 urls_count: 3
 ssl_rank: D
-http_rank: E
+http_rank: D
 security_txt: 0
 url_link: /data/avgregisterrijksoverheid.nl/urls.txt
 all_subdomains_link: /data/avgregisterrijksoverheid.nl/all_subdomains.txt
@@ -21,7 +21,7 @@ tags: dutchgov
 
 
  - **SSL Grade**:D
- - **HTTP Security Grade**:E
+ - **HTTP Security Grade**:D
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:0
 
 
@@ -37,7 +37,7 @@ tags: dutchgov
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[http://acc.avgregisterrijksoverheid.nl](http://acc.avgregisterrijksoverheid.nl)| **F**| **E**|| | | | | | | | :white_check_mark: | |||
-|[https://www.avgregisterrijksoverheid.nl](https://www.avgregisterrijksoverheid.nl)| **B**| **E**|| | | | | | | | :white_check_mark: | |HSTS|AVG Verwerkingen...|
-|[https://avgregisterrijksoverheid.nl](https://avgregisterrijksoverheid.nl)| **B**| **E**|| | | | | | | | :white_check_mark: | |HSTS|AVG Verwerkingen...|
+|[https://acc.avgregisterrijksoverheid.nl](https://acc.avgregisterrijksoverheid.nl)| **F**| **E**|| | | | | | | | :white_check_mark: | ||Service Unavaila...|
+|[https://www.avgregisterrijksoverheid.nl](https://www.avgregisterrijksoverheid.nl)| **B**| **C**||:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|AVG Verwerkingen...|
+|[https://avgregisterrijksoverheid.nl](https://avgregisterrijksoverheid.nl)| **B**| **C**||:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|AVG Verwerkingen...|
 

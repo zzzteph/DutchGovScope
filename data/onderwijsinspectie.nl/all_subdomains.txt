@@ -26,3 +26,4 @@ a-opendata.onderwijsinspectie.nl
 a-www.onderwijsinspectie.nl
 a-magazines.onderwijsinspectie.nl
 a-english.onderwijsinspectie.nl
+www.magazines.onderwijsinspectie.nl

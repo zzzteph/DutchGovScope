@@ -6,14 +6,14 @@
 
  - **SSL Grade**:A-
  - **HTTP Security Grade**:E
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:10604
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:10787
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/mett.nl/subdomains.txt)|29799|Alive subdomains|
+|[subdomains.txt](/data/mett.nl/subdomains.txt)|31375|Alive subdomains|
 |[urls.txt](/data/mett.nl/urls.txt)|28513|Urls|
-|[all_subdomains.txt](/data/mett.nl/all_subdomains.txt)|33702|All found subdomains (history)|
+|[all_subdomains.txt](/data/mett.nl/all_subdomains.txt)|37895|All found subdomains (history)|
 
 
 ## Statistics

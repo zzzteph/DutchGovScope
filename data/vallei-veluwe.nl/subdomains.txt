@@ -19,4 +19,5 @@ geotest.vallei-veluwe.nl
 geo.vallei-veluwe.nl
 omi.vallei-veluwe.nl
 rds.vallei-veluwe.nl
+protect.vallei-veluwe.nl
 vdi.vallei-veluwe.nl

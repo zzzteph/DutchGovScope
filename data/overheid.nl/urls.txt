@@ -69,7 +69,6 @@ https://ebms.contentbeheer.omgevingswet.overheid.nl
 https://ebms.service.bta.omgevingswet.overheid.nl
 https://enabling.omgevingswet.overheid.nl
 https://externe-veiligheid.omgevingswet.overheid.nl
-https://forum.developer.overheid.nl
 https://gegevensdelen.mijn.overheid.nl
 https://gegevensdelen.preprod.mijn.overheid.nl
 https://identifier.overheid.nl
@@ -297,6 +296,7 @@ https://emailtemplates.overheid.nl
 https://gegevensbijbesluiten.overheid.nl
 https://digid-stub.lpc.mijn.overheid.nl
 https://eidas-stub.lpc.mijn.overheid.nl
+https://pdc.acc.omgevingswet.overheid.nl
 https://pp1.toegang.overheid.nl
 https://wetgevingskalender-acc.overheid.nl
 https://beta-wetten.overheid.nl

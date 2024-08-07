@@ -46,6 +46,7 @@ mijn.belastingdienst.nl
 mijndouane.belastingdienst.nl
 mijnzakelijk.belastingdienst.nl
 mm.belastingdienst.nl
+moodle.vcdn.belastingdienst.nl
 mta-sts.belastingdienst.nl
 mul-mkt.belastingdienst.nl
 mul-redirect.belastingdienst.nl
@@ -79,6 +80,7 @@ toestemming-acc.belastingdienst.nl
 toestemming-tst.belastingdienst.nl
 veiling.belastingdienst.nl
 vepapi.vcdn.belastingdienst.nl
+vepkms.vcdn.belastingdienst.nl
 veplivemedia.vcdn.belastingdienst.nl
 vepvod.vcdn.belastingdienst.nl
 videobellen.belastingdienst.nl

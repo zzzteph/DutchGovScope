@@ -11,7 +11,7 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/pns.nl/subdomains.txt)|2|Alive subdomains|
+|[subdomains.txt](/data/pns.nl/subdomains.txt)|3|Alive subdomains|
 |[urls.txt](/data/pns.nl/urls.txt)|2|Urls|
 |[all_subdomains.txt](/data/pns.nl/all_subdomains.txt)|8|All found subdomains (history)|
 

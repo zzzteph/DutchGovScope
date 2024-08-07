@@ -6,14 +6,14 @@
 
  - **SSL Grade**:B
  - **HTTP Security Grade**:E
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:6
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:7
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/biedboek.nl/subdomains.txt)|3500|Alive subdomains|
-|[urls.txt](/data/biedboek.nl/urls.txt)|3500|Urls|
-|[all_subdomains.txt](/data/biedboek.nl/all_subdomains.txt)|3508|All found subdomains (history)|
+|[subdomains.txt](/data/biedboek.nl/subdomains.txt)|3504|Alive subdomains|
+|[urls.txt](/data/biedboek.nl/urls.txt)|3501|Urls|
+|[all_subdomains.txt](/data/biedboek.nl/all_subdomains.txt)|6292|All found subdomains (history)|
 
 
 ## Statistics
@@ -1730,7 +1730,7 @@
 |[https://excursies.biedboek.nl](https://excursies.biedboek.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Microsoft Azure...|
 |[https://jul.biedboek.nl](https://jul.biedboek.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Microsoft Azure...|
 |[https://esigaret.biedboek.nl](https://esigaret.biedboek.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Microsoft Azure...|
-|[https://deployment.biedboek.nl](https://deployment.biedboek.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Web App - Unavai...|
+|[https://deployment.biedboek.nl](https://deployment.biedboek.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Azure HSTS Linkedin Ads React|Vastgoed en zake...|
 |[https://productie-nieuw.biedboek.nl](https://productie-nieuw.biedboek.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Azure HSTS Linkedin Ads React|Vastgoed en zake...|
 |[https://sourcemaps.biedboek.nl](https://sourcemaps.biedboek.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Microsoft Azure...|
 |[https://web4981.biedboek.nl](https://web4981.biedboek.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Microsoft Azure...|
@@ -3521,4 +3521,5 @@
 |[https://nugokken.biedboek.nl](https://nugokken.biedboek.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Microsoft Azure...|
 |[https://clink.biedboek.nl](https://clink.biedboek.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Microsoft Azure...|
 |[https://printers.biedboek.nl](https://printers.biedboek.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Microsoft Azure...|
+|[https://te-koop-vuurtoren-vraagprijs-18000-euro-12635546-a162058www.biedboek.nl](https://te-koop-vuurtoren-vraagprijs-18000-euro-12635546-a162058www.biedboek.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Microsoft Azure...|
 

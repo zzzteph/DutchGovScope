@@ -12,7 +12,7 @@
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/cibg.nl/subdomains.txt)|80|Alive subdomains|
-|[urls.txt](/data/cibg.nl/urls.txt)|56|Urls|
+|[urls.txt](/data/cibg.nl/urls.txt)|57|Urls|
 |[all_subdomains.txt](/data/cibg.nl/all_subdomains.txt)|144|All found subdomains (history)|
 
 
@@ -31,6 +31,7 @@
 |[http://acceptatie.digikoppeling-dcr.cibg.nl](http://acceptatie.digikoppeling-dcr.cibg.nl)| | **E**|| | | | | | | | :white_check_mark: | |F5 BigIP||
 |[http://acceptatie.digikoppeling2.cibg.nl](http://acceptatie.digikoppeling2.cibg.nl)| **F**| **F**|BigIP| | | | | | | | :white_check_mark: | |F5 BigIP||
 |[https://acceptatie.lir.cibg.nl](https://acceptatie.lir.cibg.nl)| **A**| **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
+|[https://acceptatie.meldingen.klopt.cibg.nl](https://acceptatie.meldingen.klopt.cibg.nl)| **B**| **E**|| | | | | | | | :white_check_mark: | |Amazon ALB Amazon Web Services HSTS Microsoft ASP.NET|Object moved|
 |[https://acceptatie.portaal.competent.cibg.nl](https://acceptatie.portaal.competent.cibg.nl)| **A**| **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://acceptatie.publicwebservices.cibg.nl](https://acceptatie.publicwebservices.cibg.nl)| **A**| **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://acceptatie.tmv.cibg.nl](https://acceptatie.tmv.cibg.nl)| **A**| **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
@@ -49,20 +50,20 @@
 |[https://designsystem.cibg.nl](https://designsystem.cibg.nl)| **A**| **A**|-| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|CIBG Design syst...|
 |[https://desktop.klopt.cibg.nl](https://desktop.klopt.cibg.nl)| **A**| **D**|| | | | | :white_check_mark:| | | :white_check_mark: | |PHP||
 |[http://digikoppeling.cibg.nl](http://digikoppeling.cibg.nl)| **F**| **E**|| | | | | | | | :white_check_mark: | |||
-|[https://digikoppeling2.cibg.nl](https://digikoppeling2.cibg.nl)| **F**| **F**|-| | | | | | | | :white_check_mark: | |HSTS||
+|[http://digikoppeling2.cibg.nl](http://digikoppeling2.cibg.nl)| **F**| **F**|BigIP| | | | | | | | :white_check_mark: | |F5 BigIP||
 |[https://feeds.cibg.nl](https://feeds.cibg.nl)| **A+**| **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://forms.klopt.cibg.nl](https://forms.klopt.cibg.nl)| **A**| **E**|| | | | | | | | :white_check_mark: | ||404 Not Found|
-|[https://lir.cibg.nl](https://lir.cibg.nl)| **A**| **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Landelijk Implan...|
+|[https://lir.cibg.nl](https://lir.cibg.nl)| **A**| **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://manager.klopt.cibg.nl](https://manager.klopt.cibg.nl)| **A**| **F**||:white_check_mark: | | | | | | | :white_check_mark: | |||
 |[https://meldingen.klopt.cibg.nl](https://meldingen.klopt.cibg.nl)| **B**| **E**|| | | | | | | | :white_check_mark: | |Amazon ALB Amazon Web Services HSTS Microsoft ASP.NET|Object moved|
 |[https://opendata.cibg.nl](https://opendata.cibg.nl)| **A+**| **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://portaal.competent.cibg.nl](https://portaal.competent.cibg.nl)| **A**| **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://prototype.cibg.nl](https://prototype.cibg.nl)| **B**| **A**|-| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Basic HSTS||
-|[http://publicwebservices.cibg.nl](http://publicwebservices.cibg.nl)| **A**| **F**|BigIP| | | | | | | | :white_check_mark: | |F5 BigIP||
+|[https://publicwebservices.cibg.nl](https://publicwebservices.cibg.nl)| **A**| **F**|-| | | | | | | | :white_check_mark: | |HSTS||
 |[http://publicwebservices-dcr.cibg.nl](http://publicwebservices-dcr.cibg.nl)| **A**| **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |F5 BigIP||
 |[http://stijlgids.cibg.nl](http://stijlgids.cibg.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://tmv.cibg.nl](https://tmv.cibg.nl)| **A**| **A**|-| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
-|[https://uzipas.lir.cibg.nl](https://uzipas.lir.cibg.nl)| **A**| **A**|-| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
+|[https://uzipas.lir.cibg.nl](https://uzipas.lir.cibg.nl)| **A**| **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://webchat.klopt.cibg.nl](https://webchat.klopt.cibg.nl)| **A**| **E**|| | | | | | | | :white_check_mark: | ||404 Not Found|
 |[http://webservices.lrza.cibg.nl](http://webservices.lrza.cibg.nl)| **F**| **F**|BigIP| | | | | | | | :white_check_mark: | |F5 BigIP||
 |[https://www.cibg.nl](https://www.cibg.nl)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Home | CIBG|

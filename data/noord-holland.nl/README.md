@@ -11,8 +11,8 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/noord-holland.nl/subdomains.txt)|88|Alive subdomains|
-|[urls.txt](/data/noord-holland.nl/urls.txt)|61|Urls|
+|[subdomains.txt](/data/noord-holland.nl/subdomains.txt)|87|Alive subdomains|
+|[urls.txt](/data/noord-holland.nl/urls.txt)|60|Urls|
 |[all_subdomains.txt](/data/noord-holland.nl/all_subdomains.txt)|277|All found subdomains (history)|
 
 
@@ -80,6 +80,5 @@
 |[https://enterpriseenrollment.noord-holland.nl](https://enterpriseenrollment.noord-holland.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||
 |[https://enterpriseregistration.noord-holland.nl](https://enterpriseregistration.noord-holland.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://druktemonitor.noord-holland.nl](https://druktemonitor.noord-holland.nl)| | **C**|waitress| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|Redirecting...|
-|[https://ai.noord-holland.nl](https://ai.noord-holland.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
 |[https://ios-api.noord-holland.nl](https://ios-api.noord-holland.nl)| | **A**||:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Azure HSTS|IOS API Test App|
 

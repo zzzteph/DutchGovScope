@@ -12,8 +12,8 @@
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/ncsc.nl/subdomains.txt)|59|Alive subdomains|
-|[urls.txt](/data/ncsc.nl/urls.txt)|29|Urls|
-|[all_subdomains.txt](/data/ncsc.nl/all_subdomains.txt)|93|All found subdomains (history)|
+|[urls.txt](/data/ncsc.nl/urls.txt)|30|Urls|
+|[all_subdomains.txt](/data/ncsc.nl/all_subdomains.txt)|94|All found subdomains (history)|
 
 
 ## Statistics
@@ -50,4 +50,5 @@
 |[https://gitnmp.arp.ncsc.nl](https://gitnmp.arp.ncsc.nl)| **F**| **D**|none|:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|403 Forbidden|
 |[https://registreren.ncsc.nl](https://registreren.ncsc.nl)| | **F**|none| | | | | | | | :white_check_mark: | |HSTS||
 |[https://melden.ncsc.nl](https://melden.ncsc.nl)| | **F**|none| | | | | | | | :white_check_mark: | |HSTS||
+|[https://csaf.data.security.ncsc.nl](https://csaf.data.security.ncsc.nl)| | **F**|none| | | | | | | | :white_check_mark: | |HSTS||
 

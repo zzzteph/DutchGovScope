@@ -3,7 +3,7 @@ layout: default
 title: "inspectiejz.nl"
 permalink: "/dutchgov/inspectiejz.nl.html"
 subdomains_count: 0
-all_subdomains_count: 2
+all_subdomains_count: 12
 urls_count: 0
 ssl_rank: 
 http_rank: F
@@ -29,7 +29,7 @@ tags: dutchgov
 |------------|-------|------|
 |[subdomains.txt](/DutchGovScope/data/inspectiejz.nl/subdomains.txt)|0|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/inspectiejz.nl/urls.txt)|0|Urls|
-|[all_subdomains.txt](/DutchGovScope/data/inspectiejz.nl/all_subdomains.txt)|2|All found subdomains (history)|
+|[all_subdomains.txt](/DutchGovScope/data/inspectiejz.nl/all_subdomains.txt)|12|All found subdomains (history)|
 
 
 ## Statistics

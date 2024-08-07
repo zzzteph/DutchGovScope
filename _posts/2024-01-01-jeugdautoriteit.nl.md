@@ -3,7 +3,7 @@ layout: default
 title: "jeugdautoriteit.nl"
 permalink: "/dutchgov/jeugdautoriteit.nl.html"
 subdomains_count: 11
-all_subdomains_count: 11
+all_subdomains_count: 12
 urls_count: 5
 ssl_rank: A+
 http_rank: A
@@ -29,7 +29,7 @@ tags: dutchgov
 |------------|-------|------|
 |[subdomains.txt](/DutchGovScope/data/jeugdautoriteit.nl/subdomains.txt)|11|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/jeugdautoriteit.nl/urls.txt)|5|Urls|
-|[all_subdomains.txt](/DutchGovScope/data/jeugdautoriteit.nl/all_subdomains.txt)|11|All found subdomains (history)|
+|[all_subdomains.txt](/DutchGovScope/data/jeugdautoriteit.nl/all_subdomains.txt)|12|All found subdomains (history)|
 
 
 ## Statistics

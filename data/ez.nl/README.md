@@ -22,7 +22,7 @@
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[https://exportcontrole.ez.nl](https://exportcontrole.ez.nl)| **F**| **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|403 Forbidden|
-|[https://wvaopgave.ez.nl](https://wvaopgave.ez.nl)| **B**| **D**||:o: |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|Object moved|
+|[https://wvaopgave.ez.nl](https://wvaopgave.ez.nl)| **B**| **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|Service Unavaila...|
 |[https://dienstenrichtlijn.ez.nl](https://dienstenrichtlijn.ez.nl)| **F**| **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|403 Forbidden|
 |[http://innovatie.ez.nl](http://innovatie.ez.nl)| **F**| **E**|| | | | | | | | :white_check_mark: | |||
 |[http://breedband.ez.nl](http://breedband.ez.nl)| **F**| **E**|| | | | | | | | :white_check_mark: | |||

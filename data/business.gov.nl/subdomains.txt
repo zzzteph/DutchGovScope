@@ -1,4 +1,3 @@
-www.business.gov.nl
 opendata.business.gov.nl
 search.business.gov.nl
 api.business.gov.nl

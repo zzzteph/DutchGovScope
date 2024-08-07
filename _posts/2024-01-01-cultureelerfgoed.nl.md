@@ -4,7 +4,7 @@ title: "cultureelerfgoed.nl"
 permalink: "/dutchgov/cultureelerfgoed.nl.html"
 subdomains_count: 100
 all_subdomains_count: 132
-urls_count: 75
+urls_count: 74
 ssl_rank: A-
 http_rank: C
 security_txt: 26
@@ -28,7 +28,7 @@ tags: dutchgov
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/DutchGovScope/data/cultureelerfgoed.nl/subdomains.txt)|100|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/cultureelerfgoed.nl/urls.txt)|75|Urls|
+|[urls.txt](/DutchGovScope/data/cultureelerfgoed.nl/urls.txt)|74|Urls|
 |[all_subdomains.txt](/DutchGovScope/data/cultureelerfgoed.nl/all_subdomains.txt)|132|All found subdomains (history)|
 
 
@@ -41,7 +41,6 @@ tags: dutchgov
 |[https://acc.subsidie.cultureelerfgoed.nl](https://acc.subsidie.cultureelerfgoed.nl)| **A+**| **A**||:warning: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS|SUBS|
 |[https://acceptatie.archis.cultureelerfgoed.nl](https://acceptatie.archis.cultureelerfgoed.nl)| **A+**| **D**||:warning: |:white_check_mark: | | | | | | :white_check_mark: | |AngularJS HSTS|Archis - Rijksdi...|
 |[https://acceptatie.geoservices.cultureelerfgoed.nl](https://acceptatie.geoservices.cultureelerfgoed.nl)| **A**| **E**|| | | | | | | | :white_check_mark: | |Apache HTTP Server|ODC-Noord | (403...|
-|[https://acceptatie.zoeken.cultureelerfgoed.nl](https://acceptatie.zoeken.cultureelerfgoed.nl)| **A**| **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|503 Service Unav...|
 |[https://api.linkeddata.cultureelerfgoed.nl](https://api.linkeddata.cultureelerfgoed.nl)| **A+**| **C**|| |:white_check_mark: | :warning:| | | | | :white_check_mark: | |HSTS||
 |[https://archis.cultureelerfgoed.nl](https://archis.cultureelerfgoed.nl)| **A+**| **B**|Apache| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |AngularJS Apache HTTP Server HSTS|Archis - Rijksdi...|
 |[https://archisarchief.cultureelerfgoed.nl](https://archisarchief.cultureelerfgoed.nl)| **B**| **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|403 - Forbidden:...|
@@ -59,7 +58,7 @@ tags: dutchgov
 |[https://geoservices.cultureelerfgoed.nl](https://geoservices.cultureelerfgoed.nl)| **A**| **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|403 Forbidden|
 |[https://intern.catalogus.cultureelerfgoed.nl](https://intern.catalogus.cultureelerfgoed.nl)| **B**| **F**|Microsoft-IIS/10.0| | | | | | | | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server|403 - Forbidden:...|
 |[https://intranet.cultureelerfgoed.nl](https://intranet.cultureelerfgoed.nl)| **A+**| **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache Tomcat Fourthwall:1.0.0 HSTS Java MariaDB Skolengo:1.0.0|Intranet RCE|
-|[https://kennis.cultureelerfgoed.nl](https://kennis.cultureelerfgoed.nl)| **A+**| **B**|Apache| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS Varnish||
+|[https://kennis.cultureelerfgoed.nl](https://kennis.cultureelerfgoed.nl)| **A+**| **B**|Apache| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS Varnish:6.6||
 |[https://kennis-staging.cultureelerfgoed.nl](https://kennis-staging.cultureelerfgoed.nl)| **A+**| **C**|Apache|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS Varnish:6.6||
 |[https://lil.cultureelerfgoed.nl](https://lil.cultureelerfgoed.nl)| **A**| **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:-|Landgebruik in L...|
 |[https://linkeddata.cultureelerfgoed.nl](https://linkeddata.cultureelerfgoed.nl)| **A+**| **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS|RCE|
@@ -76,14 +75,14 @@ tags: dutchgov
 |[https://stuc.tool.cultureelerfgoed.nl](https://stuc.tool.cultureelerfgoed.nl)| **B**| **C**|nginx/1.14.0 (Ubuntu)| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Nginx:1.14.0 Ubuntu||
 |[https://subsidie.cultureelerfgoed.nl](https://subsidie.cultureelerfgoed.nl)| **A+**| **A**||:warning: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS|SUBS|
 |[https://test.geoservices.cultureelerfgoed.nl](https://test.geoservices.cultureelerfgoed.nl)| **A**| **E**|| | | | | | | | :white_check_mark: | |Apache HTTP Server|ODC-Noord | (403...|
-|[https://test.kennis.cultureelerfgoed.nl](https://test.kennis.cultureelerfgoed.nl)| **A+**| **B**|Apache| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS Varnish||
-|[https://test.kennis-staging.cultureelerfgoed.nl](https://test.kennis-staging.cultureelerfgoed.nl)| **A+**| **C**|Apache|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS Varnish||
+|[https://test.kennis.cultureelerfgoed.nl](https://test.kennis.cultureelerfgoed.nl)| **A+**| **B**|Apache| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS Varnish:6.6||
+|[https://test.kennis-staging.cultureelerfgoed.nl](https://test.kennis-staging.cultureelerfgoed.nl)| **A+**| **C**|Apache|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS Varnish:6.6||
 |[https://test.monumentenregister.cultureelerfgoed.nl](https://test.monumentenregister.cultureelerfgoed.nl)| **B**| **E**|| | | | | | | | :white_check_mark: | |||
 |[https://thesaurus.cultureelerfgoed.nl](https://thesaurus.cultureelerfgoed.nl)| **A**| **A**|-| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:-|RCE Erfgoedthesa...|
 |[https://tst.subsidie.cultureelerfgoed.nl](https://tst.subsidie.cultureelerfgoed.nl)| **A**| **D**||:warning: | | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |IIS:10.0 Windows Server|SUBS|
 |[https://veilig.cultureelerfgoed.nl](https://veilig.cultureelerfgoed.nl)| **B**| **A**|nginx| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Drupal:7 HSTS Nginx PHP|Veilig Erfgoed|
 |[https://verf.tool.cultureelerfgoed.nl](https://verf.tool.cultureelerfgoed.nl)| **F**| **F**|nginx/1.14.0 (Ubuntu)| | | | | | | | :white_check_mark: | |HSTS Nginx:1.14.0 Ubuntu|301 Moved Perman...|
-|[https://wikixl-saml.cultureelerfgoed.nl](https://wikixl-saml.cultureelerfgoed.nl)| **A+**| **B**|Apache| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS Varnish|Redirect|
+|[https://wikixl-saml.cultureelerfgoed.nl](https://wikixl-saml.cultureelerfgoed.nl)| **A+**| **B**|Apache| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS Varnish:6.6|Redirect|
 |[https://wikixl-saml.test.cultureelerfgoed.nl](https://wikixl-saml.test.cultureelerfgoed.nl)| **F**| **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|Geregistreerd do...|
 |[https://www.cultureelerfgoed.nl](https://www.cultureelerfgoed.nl)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Home | Rijksdien...|
 |[https://www.acc.monumentenregister.cultureelerfgoed.nl](https://www.acc.monumentenregister.cultureelerfgoed.nl)| **A**| **E**|| | | | | | | | :white_check_mark: | |||

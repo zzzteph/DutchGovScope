@@ -112,3 +112,4 @@ https://leeromgeving-stater.trainingscatalogus.nl
 https://belastingdienst-lms-a.course-api.trainingscatalogus.nl
 https://belastingdienst-lms-a.enrollment-api.trainingscatalogus.nl
 https://belastingdienst-lms-a.scim-api.trainingscatalogus.nl
+https://rabobank.trainingscatalogus.nl

@@ -127,6 +127,5 @@ https://afwijkend-examineren.dfront.rijkscloud.nl
 https://zakelijk.dfront.rijkscloud.nl
 https://kennisbank.dfront.rijkscloud.nl
 https://kpi.dfront.rijkscloud.nl
-https://portal.ds-ocw.rijkscloud.nl
 https://ip4.rijkscloud.nl
 https://ip6.rijkscloud.nl

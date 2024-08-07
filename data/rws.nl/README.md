@@ -13,7 +13,7 @@
 |------------|-------|------|
 |[subdomains.txt](/data/rws.nl/subdomains.txt)|254|Alive subdomains|
 |[urls.txt](/data/rws.nl/urls.txt)|166|Urls|
-|[all_subdomains.txt](/data/rws.nl/all_subdomains.txt)|1191|All found subdomains (history)|
+|[all_subdomains.txt](/data/rws.nl/all_subdomains.txt)|1195|All found subdomains (history)|
 
 
 ## Statistics

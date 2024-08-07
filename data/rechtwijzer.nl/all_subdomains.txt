@@ -115,3 +115,4 @@ backoffice.test.rechtwijzer.nl
 grafana.test.rechtwijzer.nl
 ns.test.rechtwijzer.nl
 digikoppeling.test.rechtwijzer.nl
+download.test.rechtwijzer.nl

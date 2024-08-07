@@ -9,3 +9,4 @@ a-opendata.jeugdautoriteit.nl
 a-www.jeugdautoriteit.nl
 a-feeds.jeugdautoriteit.nl
 a-magazines.jeugdautoriteit.nl
+www.magazines.jeugdautoriteit.nl

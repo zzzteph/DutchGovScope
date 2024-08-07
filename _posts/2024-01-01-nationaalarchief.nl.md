@@ -4,7 +4,7 @@ title: "nationaalarchief.nl"
 permalink: "/dutchgov/nationaalarchief.nl.html"
 subdomains_count: 102
 all_subdomains_count: 190
-urls_count: 44
+urls_count: 45
 ssl_rank: C
 http_rank: D
 security_txt: 9
@@ -28,7 +28,7 @@ tags: dutchgov
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/DutchGovScope/data/nationaalarchief.nl/subdomains.txt)|102|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/nationaalarchief.nl/urls.txt)|44|Urls|
+|[urls.txt](/DutchGovScope/data/nationaalarchief.nl/urls.txt)|45|Urls|
 |[all_subdomains.txt](/DutchGovScope/data/nationaalarchief.nl/all_subdomains.txt)|190|All found subdomains (history)|
 
 
@@ -49,9 +49,10 @@ tags: dutchgov
 |[https://acpt.nationaalarchief.nl](https://acpt.nationaalarchief.nl)| **A**| **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|403 Forbidden|
 |[https://actorenregister.acpt.nationaalarchief.nl](https://actorenregister.acpt.nationaalarchief.nl)| **A**| **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|403 Forbidden|
 |[https://actorenregister.nationaalarchief.nl](https://actorenregister.nationaalarchief.nl)| **A+**| **A**|nginx| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Drupal:9 HSTS Nginx PHP|Welkom | Actoren...|
+|[https://actorenregister.test.nationaalarchief.nl](https://actorenregister.test.nationaalarchief.nl)| **A**| **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|403 Forbidden|
 |[https://cbs.acpt.nationaalarchief.nl](https://cbs.acpt.nationaalarchief.nl)| **A**| **E**|| | | | | | | | :white_check_mark: | |||
 |[https://cbs.nationaalarchief.nl](https://cbs.nationaalarchief.nl)| **A**| **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |||
-|[https://chat.nationaalarchief.nl](https://chat.nationaalarchief.nl)| **A+**| **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Mattermost|
+|[https://chat.nationaalarchief.nl](https://chat.nationaalarchief.nl)| **A+**| **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://e-bom.acpt.nationaalarchief.nl](https://e-bom.acpt.nationaalarchief.nl)| **A**| **A**|| |:white_check_mark: | :warning:| | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://e-bom.nationaalarchief.nl](https://e-bom.nationaalarchief.nl)| **A**| **A**|| |:white_check_mark: | :warning:| | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|E-Beperkt Openba...|
 |[https://e-bom.ted.nationaalarchief.nl](https://e-bom.ted.nationaalarchief.nl)| **A**| **A**|| |:white_check_mark: | :warning:| | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|E-Beperkt Openba...|

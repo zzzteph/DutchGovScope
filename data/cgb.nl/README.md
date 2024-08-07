@@ -13,7 +13,7 @@
 |------------|-------|------|
 |[subdomains.txt](/data/cgb.nl/subdomains.txt)|0|Alive subdomains|
 |[urls.txt](/data/cgb.nl/urls.txt)|0|Urls|
-|[all_subdomains.txt](/data/cgb.nl/all_subdomains.txt)|2|All found subdomains (history)|
+|[all_subdomains.txt](/data/cgb.nl/all_subdomains.txt)|3|All found subdomains (history)|
 
 
 ## Statistics
