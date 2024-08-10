@@ -6,7 +6,7 @@ subdomains_count: 2
 all_subdomains_count: 4
 urls_count: 1
 ssl_rank: 
-http_rank: B
+http_rank: C
 security_txt: 0
 url_link: /data/beheerrijksoverheid.nl/urls.txt
 all_subdomains_link: /data/beheerrijksoverheid.nl/all_subdomains.txt
@@ -21,7 +21,7 @@ tags: dutchgov
 
 
  - **SSL Grade**:
- - **HTTP Security Grade**:B
+ - **HTTP Security Grade**:C
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:0
 
 
@@ -37,5 +37,5 @@ tags: dutchgov
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[http://autodiscover.beheerrijksoverheid.nl](http://autodiscover.beheerrijksoverheid.nl)| | **B**|Microsoft-IIS/10.0|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server||
+|[http://autodiscover.beheerrijksoverheid.nl](http://autodiscover.beheerrijksoverheid.nl)| | **C**|Microsoft-IIS/10.0| |:white_check_mark: | | | | | | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server||
 

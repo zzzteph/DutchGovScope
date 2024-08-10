@@ -11,8 +11,8 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/dictu.nl/subdomains.txt)|152|Alive subdomains|
-|[urls.txt](/data/dictu.nl/urls.txt)|76|Urls|
+|[subdomains.txt](/data/dictu.nl/subdomains.txt)|151|Alive subdomains|
+|[urls.txt](/data/dictu.nl/urls.txt)|75|Urls|
 |[all_subdomains.txt](/data/dictu.nl/all_subdomains.txt)|287|All found subdomains (history)|
 
 
@@ -86,7 +86,6 @@
 |[https://procesweb.dictu.nl](https://procesweb.dictu.nl)| **A+**| **F**|awselb/2.0|:o: | | | | :white_check_mark:| | | :white_check_mark: | |Amazon ELB Amazon Web Services HSTS||
 |[https://test-azure06.dictu.nl](https://test-azure06.dictu.nl)| **A**| **F**|nginx/1.19.2| | | | | | | | :white_check_mark: | |Nginx:1.19.2|Welcome to nginx...|
 |[https://acc.fhub.dictu.nl](https://acc.fhub.dictu.nl)| **F**| **E**|| | | | | | | | :white_check_mark: | |HSTS||
-|[http://pam.dictu.nl](http://pam.dictu.nl)| **F**| **E**|| | | | | | | | :white_check_mark: | |||
 |[https://asb.datasluis.dictu.nl](https://asb.datasluis.dictu.nl)| **A**| **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Redirect|
 |[http://authpms.dictu.nl](http://authpms.dictu.nl)| **A**| **E**|| | | | | | | | :white_check_mark: | |||
 |[https://authpms-acc.dictu.nl](https://authpms-acc.dictu.nl)| **A+**| **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|iBabs - Meet in...|

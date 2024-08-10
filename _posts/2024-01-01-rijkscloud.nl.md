@@ -2,12 +2,12 @@
 layout: default
 title: "rijkscloud.nl"
 permalink: "/dutchgov/rijkscloud.nl.html"
-subdomains_count: 562
+subdomains_count: 555
 all_subdomains_count: 756
-urls_count: 131
+urls_count: 124
 ssl_rank: A+
 http_rank: B
-security_txt: 42
+security_txt: 41
 url_link: /data/rijkscloud.nl/urls.txt
 all_subdomains_link: /data/rijkscloud.nl/all_subdomains.txt
 subdomains_link: /data/rijkscloud.nl/subdomains.txt
@@ -22,13 +22,13 @@ tags: dutchgov
 
  - **SSL Grade**:A+
  - **HTTP Security Grade**:B
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:42
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:41
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/rijkscloud.nl/subdomains.txt)|562|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/rijkscloud.nl/urls.txt)|131|Urls|
+|[subdomains.txt](/DutchGovScope/data/rijkscloud.nl/subdomains.txt)|555|Alive subdomains|
+|[urls.txt](/DutchGovScope/data/rijkscloud.nl/urls.txt)|124|Urls|
 |[all_subdomains.txt](/DutchGovScope/data/rijkscloud.nl/all_subdomains.txt)|756|All found subdomains (history)|
 
 
@@ -51,7 +51,6 @@ tags: dutchgov
 |[https://dashboards-private.ilt.rijkscloud.nl](https://dashboards-private.ilt.rijkscloud.nl)| **A+**| **A**|| |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | |HSTS Java||
 |[https://dashboards-sodm.dstrial-inspectieraad.rijkscloud.nl](https://dashboards-sodm.dstrial-inspectieraad.rijkscloud.nl)| **A+**| **A**|| |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | |HSTS Java||
 |[https://dashboards.analyse.ilt.rijkscloud.nl](https://dashboards.analyse.ilt.rijkscloud.nl)| **A+**| **A**||:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Java||
-|[https://dashboards.ds-ocw2.rijkscloud.nl](https://dashboards.ds-ocw2.rijkscloud.nl)| **A+**| **A**|| |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | |HSTS Java||
 |[https://dashboards.ilt.rijkscloud.nl](https://dashboards.ilt.rijkscloud.nl)| **A+**| **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|Page not found|
 |[https://dashboards.ilt-analyse.rijkscloud.nl](https://dashboards.ilt-analyse.rijkscloud.nl)| **A+**| **A**|| |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | |HSTS Java||
 |[https://dashboards.ilt-idlab.rijkscloud.nl](https://dashboards.ilt-idlab.rijkscloud.nl)| **A+**| **A**|| |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | |HSTS Java||
@@ -83,8 +82,6 @@ tags: dutchgov
 |[https://ipi.rijkscloud.nl](https://ipi.rijkscloud.nl)| **A+**| **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|Page not found|
 |[https://jupyter.analyse.ilt.rijkscloud.nl](https://jupyter.analyse.ilt.rijkscloud.nl)| **A+**| **E**|| | | | | | | | :white_check_mark: | |HSTS TornadoServer:6.1||
 |[https://jupyter.cursus.rijkscloud.nl](https://jupyter.cursus.rijkscloud.nl)| **A+**| **A**|TornadoServer/6.0.3| |:white_check_mark: | | | :white_check_mark:| | | :white_check_mark: | |HSTS TornadoServer:6.0.3||
-|[https://jupyter.ds-ocw.rijkscloud.nl](https://jupyter.ds-ocw.rijkscloud.nl)| **A+**| **A**|TornadoServer/6.0.3| |:white_check_mark: | | | :white_check_mark:| | | :white_check_mark: | |HSTS TornadoServer:6.0.3||
-|[https://jupyter.ds-ocw2.rijkscloud.nl](https://jupyter.ds-ocw2.rijkscloud.nl)| **A+**| **A**|TornadoServer/6.0.3| |:white_check_mark: | | | :white_check_mark:| | | :white_check_mark: | |HSTS TornadoServer:6.0.3||
 |[https://jupyter.dstrial-inspectieraad.rijkscloud.nl](https://jupyter.dstrial-inspectieraad.rijkscloud.nl)| **A+**| **A**|TornadoServer/6.0.3| |:white_check_mark: | | | :white_check_mark:| | | :white_check_mark: | |HSTS TornadoServer:6.0.3||
 |[https://jupyter.fib.ienw.rijkscloud.nl](https://jupyter.fib.ienw.rijkscloud.nl)| **A+**| **A**|TornadoServer/6.0.3| |:white_check_mark: | | | :white_check_mark:| | | :white_check_mark: | |HSTS TornadoServer:6.0.3||
 |[https://jupyter.hr-ienw.rijkscloud.nl](https://jupyter.hr-ienw.rijkscloud.nl)| **A+**| **A**|TornadoServer/6.0.3| |:white_check_mark: | | | :white_check_mark:| | | :white_check_mark: | |HSTS TornadoServer:6.0.3||
@@ -125,8 +122,6 @@ tags: dutchgov
 |[https://repo2.ix.rijkscloud.nl](https://repo2.ix.rijkscloud.nl)| **A+**| **C**|Apache| |:white_check_mark: | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|403 Forbidden|
 |[https://rstudio.analyse.ilt.rijkscloud.nl](https://rstudio.analyse.ilt.rijkscloud.nl)| **A+**| **E**|| | | | | | | | :white_check_mark: | |HSTS||
 |[https://rstudio.cursus.rijkscloud.nl](https://rstudio.cursus.rijkscloud.nl)| **A+**| **C**|RStudio| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
-|[https://rstudio.ds-ocw.rijkscloud.nl](https://rstudio.ds-ocw.rijkscloud.nl)| **A+**| **C**|RStudio| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
-|[https://rstudio.ds-ocw2.rijkscloud.nl](https://rstudio.ds-ocw2.rijkscloud.nl)| **A+**| **C**|RStudio| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
 |[https://rstudio.dstrial-inspectieraad.rijkscloud.nl](https://rstudio.dstrial-inspectieraad.rijkscloud.nl)| **A+**| **C**|RStudio| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
 |[https://rstudio.fib.ienw.rijkscloud.nl](https://rstudio.fib.ienw.rijkscloud.nl)| **A+**| **C**|RStudio| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
 |[https://rstudio.hr-ienw.rijkscloud.nl](https://rstudio.hr-ienw.rijkscloud.nl)| **A+**| **C**|RStudio| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
@@ -140,8 +135,6 @@ tags: dutchgov
 |[https://securetransfer.rijkscloud.nl](https://securetransfer.rijkscloud.nl)| **A+**| **A**|nginx securetransfer.rijkscloud.nl|:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bootstrap:57654573e259 Django HSTS Nginx Python|ODCN Secure Tran...|
 |[https://sensu.ix.rijkscloud.nl](https://sensu.ix.rijkscloud.nl)| **A**| **E**|| | | | | | | | :white_check_mark: | |Basic||
 |[https://shiny.cursus.rijkscloud.nl](https://shiny.cursus.rijkscloud.nl)| **A+**| **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
-|[https://shiny.ds-ocw.rijkscloud.nl](https://shiny.ds-ocw.rijkscloud.nl)| **A+**| **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|Index of /|
-|[https://shiny.ds-ocw2.rijkscloud.nl](https://shiny.ds-ocw2.rijkscloud.nl)| **A**| **E**|| | | | | | | | :white_check_mark: | |||
 |[https://shiny.hr-ienw.rijkscloud.nl](https://shiny.hr-ienw.rijkscloud.nl)| **A+**| **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|Index of /|
 |[https://shiny.ivho.rijkscloud.nl](https://shiny.ivho.rijkscloud.nl)| **A+**| **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|Index of /|
 |[https://shiny.ritp.rijkscloud.nl](https://shiny.ritp.rijkscloud.nl)| **A+**| **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|Index of /|

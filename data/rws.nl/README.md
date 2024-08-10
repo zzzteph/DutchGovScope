@@ -12,7 +12,7 @@
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/rws.nl/subdomains.txt)|254|Alive subdomains|
-|[urls.txt](/data/rws.nl/urls.txt)|166|Urls|
+|[urls.txt](/data/rws.nl/urls.txt)|169|Urls|
 |[all_subdomains.txt](/data/rws.nl/all_subdomains.txt)|1195|All found subdomains (history)|
 
 
@@ -187,4 +187,7 @@
 |[https://www.gridacc.rws.nl](https://www.gridacc.rws.nl)| | **C**|Microsoft-Azure-Application-Gateway/v2| |:white_check_mark: | | | | | | :white_check_mark: | ||301 Moved Perman...|
 |[https://acc-werkplek.gw01-gslb.rws.nl](https://acc-werkplek.gw01-gslb.rws.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||
 |[http://mip-proxy-acc.rws.nl](http://mip-proxy-acc.rws.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
+|[https://svs.ptp.inloggen.rws.nl](https://svs.ptp.inloggen.rws.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||
+|[https://eventrecorder.ptp.inloggen.rws.nl](https://eventrecorder.ptp.inloggen.rws.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||
+|[https://mars.ptp.inloggen.rws.nl](https://mars.ptp.inloggen.rws.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS Pulse Secure||
 

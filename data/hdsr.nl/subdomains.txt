@@ -18,6 +18,7 @@ kennis.hdsr.nl
 kaarten.hdsr.nl
 begrippen.hdsr.nl
 zaaksysteem-acc.hdsr.nl
+zoeken.hdsr.nl
 wsus.hdsr.nl
 remote-pa.hdsr.nl
 geoservices.hdsr.nl

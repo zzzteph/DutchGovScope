@@ -13,7 +13,7 @@
 |------------|-------|------|
 |[subdomains.txt](/data/informatiehuishouding.nl/subdomains.txt)|10|Alive subdomains|
 |[urls.txt](/data/informatiehuishouding.nl/urls.txt)|6|Urls|
-|[all_subdomains.txt](/data/informatiehuishouding.nl/all_subdomains.txt)|16|All found subdomains (history)|
+|[all_subdomains.txt](/data/informatiehuishouding.nl/all_subdomains.txt)|17|All found subdomains (history)|
 
 
 ## Statistics

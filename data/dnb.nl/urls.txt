@@ -122,3 +122,4 @@ https://services.sharepoint.dnb.nl
 https://tz-uitvragen-acc.dnb.nl
 https://tz-uitvragen-dev.dnb.nl
 https://tz-uitvragen-tst.dnb.nl
+https://tz-uitvragen.dnb.nl

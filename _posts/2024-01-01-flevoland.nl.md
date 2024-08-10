@@ -3,7 +3,7 @@ layout: default
 title: "flevoland.nl"
 permalink: "/dutchgov/flevoland.nl.html"
 subdomains_count: 107
-all_subdomains_count: 226
+all_subdomains_count: 227
 urls_count: 79
 ssl_rank: A-
 http_rank: C
@@ -29,7 +29,7 @@ tags: dutchgov
 |------------|-------|------|
 |[subdomains.txt](/DutchGovScope/data/flevoland.nl/subdomains.txt)|107|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/flevoland.nl/urls.txt)|79|Urls|
-|[all_subdomains.txt](/DutchGovScope/data/flevoland.nl/all_subdomains.txt)|226|All found subdomains (history)|
+|[all_subdomains.txt](/DutchGovScope/data/flevoland.nl/all_subdomains.txt)|227|All found subdomains (history)|
 
 
 ## Statistics

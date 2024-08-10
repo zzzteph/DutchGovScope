@@ -16,3 +16,5 @@ simulator-dev.etoegang.nl
 simulator.acc.etoegang.nl
 dev.etoegang.nl
 s3.acc.etoegang.nl
+datareportr.acc.etoegang.nl
+datareportr.etoegang.nl

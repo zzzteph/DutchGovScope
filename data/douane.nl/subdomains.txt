@@ -20,3 +20,4 @@ wpx-80-aix-http.acc.douane.nl
 zoekengebruikstarief.douane.nl
 assistent.internetaankopen.douane.nl
 fibd2.acc.douane.nl
+fibd1.douane.nl

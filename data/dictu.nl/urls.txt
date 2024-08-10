@@ -63,7 +63,6 @@ https://auth20.dictu.nl
 https://procesweb.dictu.nl
 https://test-azure06.dictu.nl
 https://acc.fhub.dictu.nl
-http://pam.dictu.nl
 https://asb.datasluis.dictu.nl
 http://authpms.dictu.nl
 https://authpms-acc.dictu.nl

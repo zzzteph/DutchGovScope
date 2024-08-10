@@ -3,7 +3,7 @@ layout: default
 title: "kinderbescherming.nl"
 permalink: "/dutchgov/kinderbescherming.nl.html"
 subdomains_count: 16
-all_subdomains_count: 22
+all_subdomains_count: 23
 urls_count: 7
 ssl_rank: A+
 http_rank: A
@@ -29,7 +29,7 @@ tags: dutchgov
 |------------|-------|------|
 |[subdomains.txt](/DutchGovScope/data/kinderbescherming.nl/subdomains.txt)|16|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/kinderbescherming.nl/urls.txt)|7|Urls|
-|[all_subdomains.txt](/DutchGovScope/data/kinderbescherming.nl/all_subdomains.txt)|22|All found subdomains (history)|
+|[all_subdomains.txt](/DutchGovScope/data/kinderbescherming.nl/all_subdomains.txt)|23|All found subdomains (history)|
 
 
 ## Statistics

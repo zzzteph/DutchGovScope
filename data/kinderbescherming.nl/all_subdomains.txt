@@ -20,3 +20,4 @@ a-magazines.kinderbescherming.nl
 a-opendata.kinderbescherming.nl
 a-feeds.kinderbescherming.nl
 prelive.kinderbescherming.nl
+www.magazines.kinderbescherming.nl

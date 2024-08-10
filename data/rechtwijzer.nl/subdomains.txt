@@ -110,3 +110,6 @@ vpn.test.rechtwijzer.nl
 cpcalendars.test.rechtwijzer.nl
 dashboard.test.rechtwijzer.nl
 backoffice.test.rechtwijzer.nl
+grafana.test.rechtwijzer.nl
+ns.test.rechtwijzer.nl
+digikoppeling.test.rechtwijzer.nl

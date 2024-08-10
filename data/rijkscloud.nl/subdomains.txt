@@ -13,7 +13,6 @@ dashboards-at.dstrial-inspectieraad.rijkscloud.nl
 dashboards-private.ilt.rijkscloud.nl
 dashboards-sodm.dstrial-inspectieraad.rijkscloud.nl
 dashboards.analyse.ilt.rijkscloud.nl
-dashboards.ds-ocw2.rijkscloud.nl
 dashboards.ilt.rijkscloud.nl
 dashboards.ilt-analyse.rijkscloud.nl
 dashboards.ilt-idlab.rijkscloud.nl
@@ -50,8 +49,6 @@ ipi.rijkscloud.nl
 jupyter.alma.jvs.ix.rijkscloud.nl
 jupyter.analyse.ilt.rijkscloud.nl
 jupyter.cursus.rijkscloud.nl
-jupyter.ds-ocw.rijkscloud.nl
-jupyter.ds-ocw2.rijkscloud.nl
 jupyter.dstrial-inspectieraad.rijkscloud.nl
 jupyter.fib.ienw.rijkscloud.nl
 jupyter.hr-ienw.rijkscloud.nl
@@ -102,8 +99,6 @@ repo2.ix.rijkscloud.nl
 rstudio.alma.jvs.ix.rijkscloud.nl
 rstudio.analyse.ilt.rijkscloud.nl
 rstudio.cursus.rijkscloud.nl
-rstudio.ds-ocw.rijkscloud.nl
-rstudio.ds-ocw2.rijkscloud.nl
 rstudio.dstrial-inspectieraad.rijkscloud.nl
 rstudio.fib.ienw.rijkscloud.nl
 rstudio.hr-ienw.rijkscloud.nl
@@ -119,8 +114,6 @@ sectstssp.ix.rijkscloud.nl
 securetransfer.rijkscloud.nl
 sensu.ix.rijkscloud.nl
 shiny.cursus.rijkscloud.nl
-shiny.ds-ocw.rijkscloud.nl
-shiny.ds-ocw2.rijkscloud.nl
 shiny.hr-ienw.rijkscloud.nl
 shiny.ivho.rijkscloud.nl
 shiny.rekenkamer-ds1.rijkscloud.nl

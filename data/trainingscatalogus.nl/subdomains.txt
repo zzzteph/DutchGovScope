@@ -208,3 +208,6 @@ rabobank.trainingscatalogus.nl
 vgz-lms.course-api.trainingscatalogus.nl
 vgz-lms.enrollment-api.trainingscatalogus.nl
 vgz-lms.scim-api.trainingscatalogus.nl
+blog.test.trainingscatalogus.nl
+servicedesk.test.trainingscatalogus.nl
+mailtrap.test.trainingscatalogus.nl

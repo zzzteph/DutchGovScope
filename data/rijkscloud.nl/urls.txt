@@ -12,7 +12,6 @@ https://dashboards-at.dstrial-inspectieraad.rijkscloud.nl
 https://dashboards-private.ilt.rijkscloud.nl
 https://dashboards-sodm.dstrial-inspectieraad.rijkscloud.nl
 https://dashboards.analyse.ilt.rijkscloud.nl
-https://dashboards.ds-ocw2.rijkscloud.nl
 https://dashboards.ilt.rijkscloud.nl
 https://dashboards.ilt-analyse.rijkscloud.nl
 https://dashboards.ilt-idlab.rijkscloud.nl
@@ -44,8 +43,6 @@ https://ip.rijkscloud.nl
 https://ipi.rijkscloud.nl
 https://jupyter.analyse.ilt.rijkscloud.nl
 https://jupyter.cursus.rijkscloud.nl
-https://jupyter.ds-ocw.rijkscloud.nl
-https://jupyter.ds-ocw2.rijkscloud.nl
 https://jupyter.dstrial-inspectieraad.rijkscloud.nl
 https://jupyter.fib.ienw.rijkscloud.nl
 https://jupyter.hr-ienw.rijkscloud.nl
@@ -86,8 +83,6 @@ https://registry.gitlab.wibo.ienw.rijkscloud.nl
 https://repo2.ix.rijkscloud.nl
 https://rstudio.analyse.ilt.rijkscloud.nl
 https://rstudio.cursus.rijkscloud.nl
-https://rstudio.ds-ocw.rijkscloud.nl
-https://rstudio.ds-ocw2.rijkscloud.nl
 https://rstudio.dstrial-inspectieraad.rijkscloud.nl
 https://rstudio.fib.ienw.rijkscloud.nl
 https://rstudio.hr-ienw.rijkscloud.nl
@@ -101,8 +96,6 @@ https://rstudio.ritp.rijkscloud.nl
 https://securetransfer.rijkscloud.nl
 https://sensu.ix.rijkscloud.nl
 https://shiny.cursus.rijkscloud.nl
-https://shiny.ds-ocw.rijkscloud.nl
-https://shiny.ds-ocw2.rijkscloud.nl
 https://shiny.hr-ienw.rijkscloud.nl
 https://shiny.ivho.rijkscloud.nl
 https://shiny.ritp.rijkscloud.nl

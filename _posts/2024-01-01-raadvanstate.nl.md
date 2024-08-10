@@ -2,7 +2,7 @@
 layout: default
 title: "raadvanstate.nl"
 permalink: "/dutchgov/raadvanstate.nl.html"
-subdomains_count: 56
+subdomains_count: 59
 all_subdomains_count: 59
 urls_count: 30
 ssl_rank: 
@@ -27,7 +27,7 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/raadvanstate.nl/subdomains.txt)|56|Alive subdomains|
+|[subdomains.txt](/DutchGovScope/data/raadvanstate.nl/subdomains.txt)|59|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/raadvanstate.nl/urls.txt)|30|Urls|
 |[all_subdomains.txt](/DutchGovScope/data/raadvanstate.nl/all_subdomains.txt)|59|All found subdomains (history)|
 

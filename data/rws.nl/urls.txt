@@ -164,3 +164,6 @@ https://status.gridacc.rws.nl
 https://www.gridacc.rws.nl
 https://acc-werkplek.gw01-gslb.rws.nl
 http://mip-proxy-acc.rws.nl
+https://svs.ptp.inloggen.rws.nl
+https://eventrecorder.ptp.inloggen.rws.nl
+https://mars.ptp.inloggen.rws.nl

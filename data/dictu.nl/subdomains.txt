@@ -67,7 +67,6 @@ auth20.dictu.nl
 procesweb.dictu.nl
 test-azure06.dictu.nl
 acc.fhub.dictu.nl
-pam.dictu.nl
 asb.datasluis.dictu.nl
 authpms.dictu.nl
 authpms-acc.dictu.nl

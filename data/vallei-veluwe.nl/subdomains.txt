@@ -1,5 +1,6 @@
 adfs.vallei-veluwe.nl
 nc-openbaar.vallei-veluwe.nl
+werkplek.vallei-veluwe.nl
 autodiscover.vallei-veluwe.nl
 vallei-veluwe.nl
 planonprod.vallei-veluwe.nl

@@ -26,5 +26,5 @@
 |[https://feeds.huisvoorklokkenluiders.nl](https://feeds.huisvoorklokkenluiders.nl)| **A+**| **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://opendata.huisvoorklokkenluiders.nl](https://opendata.huisvoorklokkenluiders.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://huisvoorklokkenluiders.nl](https://huisvoorklokkenluiders.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
-|[https://integriteitswijzer.huisvoorklokkenluiders.nl](https://integriteitswijzer.huisvoorklokkenluiders.nl)| | **E**|Apache/2|:o: |:white_check_mark: | | | | | | :white_check_mark: | |Apache HTTP Server:2 HSTS PHP:7.4.33|Home | Integrite...|
+|[https://integriteitswijzer.huisvoorklokkenluiders.nl](https://integriteitswijzer.huisvoorklokkenluiders.nl)| | **E**|Apache/2|:o: |:white_check_mark: | | | | | | :white_check_mark: | |Apache HTTP Server:2 HSTS PHP|Home | Integrite...|
 

@@ -39,3 +39,5 @@ preprodehp2.emissieautoriteit.nl
 preprodehpzee.emissieautoriteit.nl
 ehpzee.emissieautoriteit.nl
 preprodmivp.emissieautoriteit.nl
+ehp2.emissieautoriteit.nl
+www.magazines.emissieautoriteit.nl
