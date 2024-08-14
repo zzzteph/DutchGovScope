@@ -2,7 +2,7 @@
 layout: default
 title: "informatiepuntleefomgeving.nl"
 permalink: "/dutchgov/informatiepuntleefomgeving.nl.html"
-subdomains_count: 0
+subdomains_count: 3
 all_subdomains_count: 3
 urls_count: 0
 ssl_rank: 
@@ -27,7 +27,7 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/informatiepuntleefomgeving.nl/subdomains.txt)|0|Alive subdomains|
+|[subdomains.txt](/DutchGovScope/data/informatiepuntleefomgeving.nl/subdomains.txt)|3|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/informatiepuntleefomgeving.nl/urls.txt)|0|Urls|
 |[all_subdomains.txt](/DutchGovScope/data/informatiepuntleefomgeving.nl/all_subdomains.txt)|3|All found subdomains (history)|
 

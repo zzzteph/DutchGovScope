@@ -11,7 +11,7 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/werkenbijnlarbeidsinspectie.nl/subdomains.txt)|0|Alive subdomains|
+|[subdomains.txt](/data/werkenbijnlarbeidsinspectie.nl/subdomains.txt)|2|Alive subdomains|
 |[urls.txt](/data/werkenbijnlarbeidsinspectie.nl/urls.txt)|0|Urls|
 |[all_subdomains.txt](/data/werkenbijnlarbeidsinspectie.nl/all_subdomains.txt)|2|All found subdomains (history)|
 

@@ -3,7 +3,7 @@ layout: default
 title: "schadedoormijnbouw.nl"
 permalink: "/dutchgov/schadedoormijnbouw.nl.html"
 subdomains_count: 10
-all_subdomains_count: 33
+all_subdomains_count: 34
 urls_count: 5
 ssl_rank: A+
 http_rank: B
@@ -29,7 +29,7 @@ tags: dutchgov
 |------------|-------|------|
 |[subdomains.txt](/DutchGovScope/data/schadedoormijnbouw.nl/subdomains.txt)|10|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/schadedoormijnbouw.nl/urls.txt)|5|Urls|
-|[all_subdomains.txt](/DutchGovScope/data/schadedoormijnbouw.nl/all_subdomains.txt)|33|All found subdomains (history)|
+|[all_subdomains.txt](/DutchGovScope/data/schadedoormijnbouw.nl/all_subdomains.txt)|34|All found subdomains (history)|
 
 
 ## Statistics

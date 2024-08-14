@@ -11,8 +11,8 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/bdmuseum.nl/subdomains.txt)|14|Alive subdomains|
-|[urls.txt](/data/bdmuseum.nl/urls.txt)|14|Urls|
+|[subdomains.txt](/data/bdmuseum.nl/subdomains.txt)|15|Alive subdomains|
+|[urls.txt](/data/bdmuseum.nl/urls.txt)|15|Urls|
 |[all_subdomains.txt](/data/bdmuseum.nl/all_subdomains.txt)|16|All found subdomains (history)|
 
 
@@ -35,4 +35,5 @@
 |[https://ofwww.bdmuseum.nl](https://ofwww.bdmuseum.nl)| **F**| **F**|LiteSpeed| | | | | | | | :white_check_mark: | |HTTP/3 LiteSpeed Plesk||
 |[https://rotterdamwww.bdmuseum.nl](https://rotterdamwww.bdmuseum.nl)| **F**| **F**|LiteSpeed| | | | | | | | :white_check_mark: | |HTTP/3 LiteSpeed Plesk||
 |[https://00www.bdmuseum.nl](https://00www.bdmuseum.nl)| | **F**|LiteSpeed| | | | | | | | :white_check_mark: | |HTTP/3 LiteSpeed Plesk||
+|[https://ww.bdmuseum.nl](https://ww.bdmuseum.nl)| | **F**|LiteSpeed| | | | | | | | :white_check_mark: | |HTTP/3 LiteSpeed Plesk||
 

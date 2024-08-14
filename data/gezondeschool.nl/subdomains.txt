@@ -10,3 +10,7 @@ enterpriseregistration.gezondeschool.nl
 info.gezondeschool.nl
 localhost.gezondeschool.nl
 msoid.gezondeschool.nl
+ftp.gezondeschool.nl
+jouw.gezondeschool.nl
+leerplein.gezondeschool.nl
+mail.gezondeschool.nl

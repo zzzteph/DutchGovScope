@@ -11,7 +11,7 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/medicijnbron.nl/subdomains.txt)|0|Alive subdomains|
+|[subdomains.txt](/data/medicijnbron.nl/subdomains.txt)|2|Alive subdomains|
 |[urls.txt](/data/medicijnbron.nl/urls.txt)|0|Urls|
 |[all_subdomains.txt](/data/medicijnbron.nl/all_subdomains.txt)|2|All found subdomains (history)|
 

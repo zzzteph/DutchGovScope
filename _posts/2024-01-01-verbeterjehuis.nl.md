@@ -43,7 +43,7 @@ tags: dutchgov
 |[https://groenesubsidiewijzer.verbeterjehuis.nl](https://groenesubsidiewijzer.verbeterjehuis.nl)| **A+**| **A**|cloudflare| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Cloudflare Google Tag Manager HSTS||
 |[https://test-www.verbeterjehuis.nl](https://test-www.verbeterjehuis.nl)| | **B**|cloudflare| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Cloudflare HSTS|Attention Requir...|
 |[https://cms.verbeterjehuis.nl](https://cms.verbeterjehuis.nl)| | **B**|cloudflare| |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | |Cloudflare HSTS|Document Moved|
-|[https://content.verbeterjehuis.nl](https://content.verbeterjehuis.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
+|[https://content.verbeterjehuis.nl](https://content.verbeterjehuis.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Azure Azure Monitor HSTS||
 |[http://localhost.verbeterjehuis.nl](http://localhost.verbeterjehuis.nl)| | **F**|nginx| | | :warning:| | | | | :white_check_mark: | |Nginx|(404 Not Found)|
 |[https://acc-www.verbeterjehuis.nl](https://acc-www.verbeterjehuis.nl)| | **B**|cloudflare| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Cloudflare HSTS|Attention Requir...|
 |[https://prd-cms.verbeterjehuis.nl](https://prd-cms.verbeterjehuis.nl)| | **B**|cloudflare| |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | |Cloudflare HSTS|Document Moved|

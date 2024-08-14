@@ -5,3 +5,6 @@ https://opendata.justitieleictorganisatie.nl
 https://www.justitieleictorganisatie.nl
 https://connect.justitieleictorganisatie.nl
 https://justitieleictorganisatie.nl
+http://autodiscover.justitieleictorganisatie.nl
+https://enterpriseenrollment.justitieleictorganisatie.nl
+https://enterpriseregistration.justitieleictorganisatie.nl

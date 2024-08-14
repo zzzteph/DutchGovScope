@@ -11,7 +11,7 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/adviescollegeregeldruk.nl/subdomains.txt)|0|Alive subdomains|
+|[subdomains.txt](/data/adviescollegeregeldruk.nl/subdomains.txt)|4|Alive subdomains|
 |[urls.txt](/data/adviescollegeregeldruk.nl/urls.txt)|0|Urls|
 |[all_subdomains.txt](/data/adviescollegeregeldruk.nl/all_subdomains.txt)|9|All found subdomains (history)|
 

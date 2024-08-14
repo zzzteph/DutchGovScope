@@ -11,7 +11,7 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/informatiepuntleefomgeving.nl/subdomains.txt)|0|Alive subdomains|
+|[subdomains.txt](/data/informatiepuntleefomgeving.nl/subdomains.txt)|3|Alive subdomains|
 |[urls.txt](/data/informatiepuntleefomgeving.nl/urls.txt)|0|Urls|
 |[all_subdomains.txt](/data/informatiepuntleefomgeving.nl/all_subdomains.txt)|3|All found subdomains (history)|
 

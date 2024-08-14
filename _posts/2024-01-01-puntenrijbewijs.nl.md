@@ -2,7 +2,7 @@
 layout: default
 title: "puntenrijbewijs.nl"
 permalink: "/dutchgov/puntenrijbewijs.nl.html"
-subdomains_count: 0
+subdomains_count: 2
 all_subdomains_count: 2
 urls_count: 0
 ssl_rank: 
@@ -27,7 +27,7 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/puntenrijbewijs.nl/subdomains.txt)|0|Alive subdomains|
+|[subdomains.txt](/DutchGovScope/data/puntenrijbewijs.nl/subdomains.txt)|2|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/puntenrijbewijs.nl/urls.txt)|0|Urls|
 |[all_subdomains.txt](/DutchGovScope/data/puntenrijbewijs.nl/all_subdomains.txt)|2|All found subdomains (history)|
 

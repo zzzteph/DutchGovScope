@@ -11,7 +11,7 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/raadvoordierenaangelegenheden.nl/subdomains.txt)|0|Alive subdomains|
+|[subdomains.txt](/data/raadvoordierenaangelegenheden.nl/subdomains.txt)|2|Alive subdomains|
 |[urls.txt](/data/raadvoordierenaangelegenheden.nl/urls.txt)|0|Urls|
 |[all_subdomains.txt](/data/raadvoordierenaangelegenheden.nl/all_subdomains.txt)|2|All found subdomains (history)|
 

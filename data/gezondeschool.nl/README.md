@@ -11,7 +11,7 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/gezondeschool.nl/subdomains.txt)|12|Alive subdomains|
+|[subdomains.txt](/data/gezondeschool.nl/subdomains.txt)|16|Alive subdomains|
 |[urls.txt](/data/gezondeschool.nl/urls.txt)|11|Urls|
 |[all_subdomains.txt](/data/gezondeschool.nl/all_subdomains.txt)|18|All found subdomains (history)|
 

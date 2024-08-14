@@ -47,9 +47,9 @@
 |[https://graphql.staging.waarzitwatin.nl](https://graphql.staging.waarzitwatin.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Amazon CloudFront Amazon Web Services Apache HTTP Server|404 Not Found|
 |[https://mx.staging.waarzitwatin.nl](https://mx.staging.waarzitwatin.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Amazon CloudFront Amazon Web Services Apache HTTP Server|404 Not Found|
 |[https://next.staging.waarzitwatin.nl](https://next.staging.waarzitwatin.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Amazon CloudFront Amazon Web Services Apache HTTP Server|404 Not Found|
-|[https://portal.staging.waarzitwatin.nl](https://portal.staging.waarzitwatin.nl)| | **F**|Apache| | | :warning:| | | | | :white_check_mark: | |Amazon CloudFront Amazon Web Services Apache HTTP Server|404 Not Found|
-|[https://website.staging.waarzitwatin.nl](https://website.staging.waarzitwatin.nl)| | **F**|Apache| | | :warning:| | | | | :white_check_mark: | |Amazon CloudFront Amazon Web Services Apache HTTP Server|404 Not Found|
-|[https://community.staging.waarzitwatin.nl](https://community.staging.waarzitwatin.nl)| | **F**|Apache| | | :warning:| | | | | :white_check_mark: | |Amazon CloudFront Amazon Web Services Apache HTTP Server|404 Not Found|
+|[https://portal.staging.waarzitwatin.nl](https://portal.staging.waarzitwatin.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Amazon CloudFront Amazon Web Services Apache HTTP Server|404 Not Found|
+|[https://website.staging.waarzitwatin.nl](https://website.staging.waarzitwatin.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Amazon CloudFront Amazon Web Services Apache HTTP Server|404 Not Found|
+|[https://community.staging.waarzitwatin.nl](https://community.staging.waarzitwatin.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Amazon CloudFront Amazon Web Services Apache HTTP Server|404 Not Found|
 |[https://docs.staging.waarzitwatin.nl](https://docs.staging.waarzitwatin.nl)| | **F**|Apache| | | :warning:| | | | | :white_check_mark: | |Amazon CloudFront Amazon Web Services Apache HTTP Server|404 Not Found|
 |[https://dashboard.staging.waarzitwatin.nl](https://dashboard.staging.waarzitwatin.nl)| | **F**|Apache| | | :warning:| | | | | :white_check_mark: | |Amazon CloudFront Amazon Web Services Apache HTTP Server|404 Not Found|
 |[https://mobile.staging.waarzitwatin.nl](https://mobile.staging.waarzitwatin.nl)| | **F**|Apache| | | :warning:| | | | | :white_check_mark: | |Amazon CloudFront Amazon Web Services Apache HTTP Server|404 Not Found|
@@ -125,8 +125,8 @@
 |[https://mail.staging.waarzitwatin.nl](https://mail.staging.waarzitwatin.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Amazon CloudFront Amazon Web Services Apache HTTP Server|404 Not Found|
 |[https://en.staging.waarzitwatin.nl](https://en.staging.waarzitwatin.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Amazon CloudFront Amazon Web Services Apache HTTP Server|404 Not Found|
 |[https://vault.staging.waarzitwatin.nl](https://vault.staging.waarzitwatin.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Amazon CloudFront Amazon Web Services Apache HTTP Server|404 Not Found|
-|[https://store.staging.waarzitwatin.nl](https://store.staging.waarzitwatin.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Amazon CloudFront Amazon Web Services Apache HTTP Server|404 Not Found|
-|[https://it.staging.waarzitwatin.nl](https://it.staging.waarzitwatin.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Amazon CloudFront Amazon Web Services Apache HTTP Server|404 Not Found|
+|[https://store.staging.waarzitwatin.nl](https://store.staging.waarzitwatin.nl)| | **F**|Apache| | | :warning:| | | | | :white_check_mark: | |Amazon CloudFront Amazon Web Services Apache HTTP Server|404 Not Found|
+|[https://it.staging.waarzitwatin.nl](https://it.staging.waarzitwatin.nl)| | **F**|Apache| | | :warning:| | | | | :white_check_mark: | |Amazon CloudFront Amazon Web Services Apache HTTP Server|404 Not Found|
 |[https://data.staging.waarzitwatin.nl](https://data.staging.waarzitwatin.nl)| | **F**|Apache| | | :warning:| | | | | :white_check_mark: | |Amazon CloudFront Amazon Web Services Apache HTTP Server|404 Not Found|
 |[https://origin.staging.waarzitwatin.nl](https://origin.staging.waarzitwatin.nl)| | **F**|Apache| | | :warning:| | | | | :white_check_mark: | |Amazon CloudFront Amazon Web Services Apache HTTP Server|404 Not Found|
 |[https://es.staging.waarzitwatin.nl](https://es.staging.waarzitwatin.nl)| | **F**|Apache| | | :warning:| | | | | :white_check_mark: | |Amazon CloudFront Amazon Web Services Apache HTTP Server|404 Not Found|

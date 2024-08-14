@@ -2,8 +2,8 @@
 layout: default
 title: "leerhuisinformatiehuishouding.nl"
 permalink: "/dutchgov/leerhuisinformatiehuishouding.nl.html"
-subdomains_count: 0
-all_subdomains_count: 7
+subdomains_count: 4
+all_subdomains_count: 8
 urls_count: 0
 ssl_rank: 
 http_rank: F
@@ -27,9 +27,9 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/leerhuisinformatiehuishouding.nl/subdomains.txt)|0|Alive subdomains|
+|[subdomains.txt](/DutchGovScope/data/leerhuisinformatiehuishouding.nl/subdomains.txt)|4|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/leerhuisinformatiehuishouding.nl/urls.txt)|0|Urls|
-|[all_subdomains.txt](/DutchGovScope/data/leerhuisinformatiehuishouding.nl/all_subdomains.txt)|7|All found subdomains (history)|
+|[all_subdomains.txt](/DutchGovScope/data/leerhuisinformatiehuishouding.nl/all_subdomains.txt)|8|All found subdomains (history)|
 
 
 ## Statistics

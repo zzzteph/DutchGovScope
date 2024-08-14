@@ -92,3 +92,4 @@ registreren.ncsc.nl
 melden.ncsc.nl
 csaf.data.security.ncsc.nl
 privaat-acceptatie.octomon.ncsc.nl
+www.magazines.ncsc.nl

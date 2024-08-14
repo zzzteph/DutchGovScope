@@ -12,7 +12,7 @@
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/kansspelautoriteit.nl/subdomains.txt)|28|Alive subdomains|
-|[urls.txt](/data/kansspelautoriteit.nl/urls.txt)|18|Urls|
+|[urls.txt](/data/kansspelautoriteit.nl/urls.txt)|19|Urls|
 |[all_subdomains.txt](/data/kansspelautoriteit.nl/all_subdomains.txt)|123|All found subdomains (history)|
 
 
@@ -31,6 +31,7 @@
 |[https://webmail.kansspelautoriteit.nl](https://webmail.kansspelautoriteit.nl)| **B**| **E**|Microsoft-IIS/10.0| | | | | | :white_check_mark: | | :white_check_mark: | |IIS:10.0 Windows Server||
 |[https://www.kansspelautoriteit.nl](https://www.kansspelautoriteit.nl)| **A+**| **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:-|Object moved|
 |[https://kansspelautoriteit.nl](https://kansspelautoriteit.nl)| **A+**| **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:-|Home - Kansspela...|
+|[https://api-test.kansspelautoriteit.nl](https://api-test.kansspelautoriteit.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|403 Forbidden|
 |[https://desktop.kansspelautoriteit.nl](https://desktop.kansspelautoriteit.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Document Moved|
 |[https://ems.kansspelautoriteit.nl](https://ems.kansspelautoriteit.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||
 |[https://enterpriseenrollment.kansspelautoriteit.nl](https://enterpriseenrollment.kansspelautoriteit.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||

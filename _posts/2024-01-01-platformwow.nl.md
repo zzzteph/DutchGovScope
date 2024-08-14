@@ -4,7 +4,7 @@ title: "platformwow.nl"
 permalink: "/dutchgov/platformwow.nl.html"
 subdomains_count: 22
 all_subdomains_count: 24
-urls_count: 17
+urls_count: 18
 ssl_rank: B-
 http_rank: E
 security_txt: 0
@@ -28,7 +28,7 @@ tags: dutchgov
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/DutchGovScope/data/platformwow.nl/subdomains.txt)|22|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/platformwow.nl/urls.txt)|17|Urls|
+|[urls.txt](/DutchGovScope/data/platformwow.nl/urls.txt)|18|Urls|
 |[all_subdomains.txt](/DutchGovScope/data/platformwow.nl/all_subdomains.txt)|24|All found subdomains (history)|
 
 
@@ -48,8 +48,9 @@ tags: dutchgov
 |[https://legacy.platformwow.nl](https://legacy.platformwow.nl)| **F**| **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
 |[https://platformwow.nl](https://platformwow.nl)| **A+**| **A**||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Alpine.js Azure Google Tag Manager HSTS|Platform WOW|
 |[https://formulieren.platformwow.nl](https://formulieren.platformwow.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server Google Tag Manager HSTS|Powerful tool fo...|
-|[https://nieuw.platformwow.nl](https://nieuw.platformwow.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
-|[https://pop.platformwow.nl](https://pop.platformwow.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
+|[http://nieuw.platformwow.nl](http://nieuw.platformwow.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
+|[http://oud.platformwow.nl](http://oud.platformwow.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
+|[http://pop.platformwow.nl](http://pop.platformwow.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
 |[https://webmail.platformwow.nl](https://webmail.platformwow.nl)| | **F**|Apache/2.4.25 (Debian) mod_fastcgi/mod_fastcgi-SNAP-0910052141| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.25 Debian mod_fastcgi|TransIP Webmail...|
 |[https://www.jaarverslag2015.platformwow.nl](https://www.jaarverslag2015.platformwow.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|404 Not Found|
 |[https://www.jaarverslag2016.platformwow.nl](https://www.jaarverslag2016.platformwow.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|404 Not Found|

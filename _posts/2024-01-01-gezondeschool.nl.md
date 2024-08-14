@@ -2,7 +2,7 @@
 layout: default
 title: "gezondeschool.nl"
 permalink: "/dutchgov/gezondeschool.nl.html"
-subdomains_count: 12
+subdomains_count: 16
 all_subdomains_count: 18
 urls_count: 11
 ssl_rank: A+
@@ -27,7 +27,7 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/gezondeschool.nl/subdomains.txt)|12|Alive subdomains|
+|[subdomains.txt](/DutchGovScope/data/gezondeschool.nl/subdomains.txt)|16|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/gezondeschool.nl/urls.txt)|11|Urls|
 |[all_subdomains.txt](/DutchGovScope/data/gezondeschool.nl/all_subdomains.txt)|18|All found subdomains (history)|
 
