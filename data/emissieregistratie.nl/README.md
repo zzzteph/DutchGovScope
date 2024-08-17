@@ -12,7 +12,7 @@
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/emissieregistratie.nl/subdomains.txt)|13|Alive subdomains|
-|[urls.txt](/data/emissieregistratie.nl/urls.txt)|12|Urls|
+|[urls.txt](/data/emissieregistratie.nl/urls.txt)|11|Urls|
 |[all_subdomains.txt](/data/emissieregistratie.nl/all_subdomains.txt)|15|All found subdomains (history)|
 
 
@@ -26,7 +26,6 @@
 |[http://data-preview.emissieregistratie.nl](http://data-preview.emissieregistratie.nl)| **A+**| **D**||:white_check_mark: |:white_check_mark: | :warning:| | | | | :white_check_mark: | |HSTS Java Nginx||
 |[https://data-previewnext.emissieregistratie.nl](https://data-previewnext.emissieregistratie.nl)| **A+**| **D**||:warning: |:white_check_mark: | | | | | | :white_check_mark: | |F5 BigIP HSTS||
 |[https://data2.emissieregistratie.nl](https://data2.emissieregistratie.nl)| **A+**| **E**|nginx|:warning: |:white_check_mark: | :warning:| | | | | :white_check_mark: | |HSTS Java Nginx|Emissieregistrat...|
-|[https://eracceptatie.emissieregistratie.nl](https://eracceptatie.emissieregistratie.nl)| **A+**| **C**|Microsoft-IIS/10.0| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS IIS:10.0 Microsoft ASP.NET Windows Server|Emissie Registra...|
 |[https://legacy.emissieregistratie.nl](https://legacy.emissieregistratie.nl)| **B**| **F**|Microsoft-IIS/10.0| | | | | | | | :white_check_mark: | |HSTS IIS:10.0 Microsoft ASP.NET Windows Server|Emissie Registra...|
 |[https://legacy2.emissieregistratie.nl](https://legacy2.emissieregistratie.nl)| **B**| **C**|Microsoft-IIS/10.0| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS IIS:10.0 Microsoft ASP.NET Windows Server|Emissie Registra...|
 |[https://previewnext.emissieregistratie.nl](https://previewnext.emissieregistratie.nl)| **B**| **F**||:warning: | | | | | | | :white_check_mark: | |F5 BigIP HSTS||

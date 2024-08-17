@@ -3,7 +3,7 @@ layout: default
 title: "zeeweringen.nl"
 permalink: "/dutchgov/zeeweringen.nl.html"
 subdomains_count: 6
-all_subdomains_count: 6
+all_subdomains_count: 10
 urls_count: 6
 ssl_rank: D
 http_rank: F
@@ -29,7 +29,7 @@ tags: dutchgov
 |------------|-------|------|
 |[subdomains.txt](/DutchGovScope/data/zeeweringen.nl/subdomains.txt)|6|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/zeeweringen.nl/urls.txt)|6|Urls|
-|[all_subdomains.txt](/DutchGovScope/data/zeeweringen.nl/all_subdomains.txt)|6|All found subdomains (history)|
+|[all_subdomains.txt](/DutchGovScope/data/zeeweringen.nl/all_subdomains.txt)|10|All found subdomains (history)|
 
 
 ## Statistics
@@ -37,10 +37,10 @@ tags: dutchgov
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://mail.zeeweringen.nl](https://mail.zeeweringen.nl)| **F**| **E**|| | | | | | | | :white_check_mark: | |Nginx:1.26.1||
-|[https://www.zeeweringen.nl](https://www.zeeweringen.nl)| **A**| **E**|| | | | | | | | :white_check_mark: | |Nginx:1.26.1||
-|[https://ww2.zeeweringen.nl](https://ww2.zeeweringen.nl)| **F**| **E**|| | | | | | | | :white_check_mark: | |Nginx:1.26.1||
-|[https://conferentie.zeeweringen.nl](https://conferentie.zeeweringen.nl)| **F**| **E**|| | | | | | | | :white_check_mark: | |Nginx:1.26.1||
-|[https://zeeweringen.nl](https://zeeweringen.nl)| **A**| **E**|| | | | | | | | :white_check_mark: | |Nginx:1.26.1||
+|[https://mail.zeeweringen.nl](https://mail.zeeweringen.nl)| **F**| **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|400 Bad Request|
+|[https://www.zeeweringen.nl](https://www.zeeweringen.nl)| **A**| **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|400 Bad Request|
+|[https://ww2.zeeweringen.nl](https://ww2.zeeweringen.nl)| **F**| **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|400 Bad Request|
+|[https://conferentie.zeeweringen.nl](https://conferentie.zeeweringen.nl)| **F**| **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|400 Bad Request|
+|[https://zeeweringen.nl](https://zeeweringen.nl)| **A**| **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|400 Bad Request|
 |[https://webmail.zeeweringen.nl](https://webmail.zeeweringen.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|301 Moved Perman...|
 

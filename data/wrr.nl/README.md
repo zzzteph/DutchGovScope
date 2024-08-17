@@ -13,7 +13,7 @@
 |------------|-------|------|
 |[subdomains.txt](/data/wrr.nl/subdomains.txt)|18|Alive subdomains|
 |[urls.txt](/data/wrr.nl/urls.txt)|8|Urls|
-|[all_subdomains.txt](/data/wrr.nl/all_subdomains.txt)|27|All found subdomains (history)|
+|[all_subdomains.txt](/data/wrr.nl/all_subdomains.txt)|28|All found subdomains (history)|
 
 
 ## Statistics

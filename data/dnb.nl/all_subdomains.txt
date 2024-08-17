@@ -305,3 +305,6 @@ tz-uitvragen.dnb.nl
 plp.dnb.nl
 dtlgt-monitoring-dev.azure.dnb.nl
 svcalendar-dev.dnb.nl
+dtlgt-monitoring-acc.azure.dnb.nl
+dtlgt-monitoring-tst.azure.dnb.nl
+dtlgt-monitoring-prd.azure.dnb.nl

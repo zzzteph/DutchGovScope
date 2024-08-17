@@ -123,3 +123,4 @@ daisi.ndw.nu
 internal-docs.ndw.nu
 havik.ndw.nu
 analytics.ndw.nu
+datafusion.ndw.nu

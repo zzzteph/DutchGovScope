@@ -13,7 +13,7 @@
 |------------|-------|------|
 |[subdomains.txt](/data/toeslagen.nl/subdomains.txt)|38|Alive subdomains|
 |[urls.txt](/data/toeslagen.nl/urls.txt)|12|Urls|
-|[all_subdomains.txt](/data/toeslagen.nl/all_subdomains.txt)|61|All found subdomains (history)|
+|[all_subdomains.txt](/data/toeslagen.nl/all_subdomains.txt)|62|All found subdomains (history)|
 
 
 ## Statistics

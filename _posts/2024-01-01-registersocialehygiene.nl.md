@@ -4,7 +4,7 @@ title: "registersocialehygiene.nl"
 permalink: "/dutchgov/registersocialehygiene.nl.html"
 subdomains_count: 14
 all_subdomains_count: 14
-urls_count: 10
+urls_count: 11
 ssl_rank: A
 http_rank: A
 security_txt: 10
@@ -28,7 +28,7 @@ tags: dutchgov
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/DutchGovScope/data/registersocialehygiene.nl/subdomains.txt)|14|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/registersocialehygiene.nl/urls.txt)|10|Urls|
+|[urls.txt](/DutchGovScope/data/registersocialehygiene.nl/urls.txt)|11|Urls|
 |[all_subdomains.txt](/DutchGovScope/data/registersocialehygiene.nl/all_subdomains.txt)|14|All found subdomains (history)|
 
 
@@ -47,4 +47,5 @@ tags: dutchgov
 |[https://mijn.registersocialehygiene.nl](https://mijn.registersocialehygiene.nl)| **A**| **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Inloggen|
 |[https://feeds.registersocialehygiene.nl](https://feeds.registersocialehygiene.nl)| **A+**| **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://opendata.registersocialehygiene.nl](https://opendata.registersocialehygiene.nl)| **A+**| **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
+|[https://beheer.registersocialehygiene.nl](https://beheer.registersocialehygiene.nl)| | **F**|-| | | | | | | | :white_check_mark: | |HSTS||
 

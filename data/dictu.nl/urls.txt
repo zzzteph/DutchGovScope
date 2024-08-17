@@ -57,7 +57,7 @@ https://vpnb.dictu.nl
 https://webftp.dictu.nl
 https://wifi.dictu.nl
 https://www.dictu.nl
-https://snow-cw.dictu.nl
+http://snow-cw.dictu.nl
 https://dictu.nl
 https://auth20.dictu.nl
 https://procesweb.dictu.nl

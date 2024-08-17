@@ -115,6 +115,7 @@ acc-correctie.tweedekamer.nl
 gegevensmagazijn-intern.tweedekamer.nl
 acc.livedebat.tweedekamer.nl
 api.tweedekamer.nl
+vergaderapp.tweedekamer.nl
 stream.debatdirect.tweedekamer.nl
 mdm.tweedekamer.nl
 services.b67.tweedekamer.nl
@@ -200,3 +201,4 @@ hollandfit.tweedekamer.nl
 developer.beta.tweedekamer.nl
 bibliotheek.tweedekamer.nl
 bibliotheek-test.tweedekamer.nl
+static.beta.tweedekamer.nl

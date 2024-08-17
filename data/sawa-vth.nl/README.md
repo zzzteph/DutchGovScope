@@ -27,7 +27,7 @@
 |[https://map.sawa-vth.nl](https://map.sawa-vth.nl)| **A**| **F**|Microsoft-IIS/10.0|:warning: | | | | | | | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server||
 |[https://map-acceptatie.sawa-vth.nl](https://map-acceptatie.sawa-vth.nl)| **A**| **F**|Microsoft-IIS/10.0|:warning: | | | | | | | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server||
 |[https://office.sawa-vth.nl](https://office.sawa-vth.nl)| **A**| **E**|| | | | | | | | :white_check_mark: | ||Website niet bes...|
-|[https://office-acceptatie.sawa-vth.nl](https://office-acceptatie.sawa-vth.nl)| **A**| **F**|Microsoft-IIS/10.0| | | | | | | | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET:4.0.30319 Windows Server|Object moved|
+|[https://office-acceptatie.sawa-vth.nl](https://office-acceptatie.sawa-vth.nl)| **A**| **E**|| | | | | | | | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET:4.0.30319 Windows Server|Object moved|
 |[https://webdav.sawa-vth.nl](https://webdav.sawa-vth.nl)| **A**| **F**|NWebDav/0.1.25.0| | | | | | | | :white_check_mark: | |Microsoft ASP.NET:4.0.30319|500 - Internal s...|
 |[https://webdav-acceptatie.sawa-vth.nl](https://webdav-acceptatie.sawa-vth.nl)| **A**| **F**|NWebDav/0.1.25.0| | | | | | | | :white_check_mark: | |Microsoft ASP.NET:4.0.30319|500 - Internal s...|
 |[http://www.sawa-vth.nl](http://www.sawa-vth.nl)| | **E**|| | | | | | | | :white_check_mark: | |||

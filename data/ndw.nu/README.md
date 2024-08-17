@@ -13,7 +13,7 @@
 |------------|-------|------|
 |[subdomains.txt](/data/ndw.nu/subdomains.txt)|98|Alive subdomains|
 |[urls.txt](/data/ndw.nu/urls.txt)|89|Urls|
-|[all_subdomains.txt](/data/ndw.nu/all_subdomains.txt)|125|All found subdomains (history)|
+|[all_subdomains.txt](/data/ndw.nu/all_subdomains.txt)|126|All found subdomains (history)|
 
 
 ## Statistics
@@ -35,14 +35,14 @@
 |[https://drs.ndw.nu](https://drs.ndw.nu)| **F**| **F**|Microsoft-Azure-Application-Gateway/v2| | | | | | | | :white_check_mark: | ||404 Not Found|
 |[https://english.ndw.nu](https://english.ndw.nu)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Home | National...|
 |[https://faq.ndw.nu](https://faq.ndw.nu)| **B**| **B**|Microsoft-Azure-Application-Gateway/v2| |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | ||307 Temporary Re...|
-|[https://fbmonitor.ndw.nu](https://fbmonitor.ndw.nu)| **B**| **A**|Apache/2.4.61 (Debian)| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server:2.4.61 Debian HSTS|NDW FB Dashboard|
+|[https://fbmonitor.ndw.nu](https://fbmonitor.ndw.nu)| **B**| **A**|Apache/2.4.62 (Debian)| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server:2.4.62 Debian HSTS|NDW FB Dashboard|
 |[https://feeds.ndw.nu](https://feeds.ndw.nu)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://feeds.english.ndw.nu](https://feeds.english.ndw.nu)| **A+**| **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://iam.ndw.nu](https://iam.ndw.nu)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://keycloak.ndw.nu](https://keycloak.ndw.nu)| | **E**|| | | | | | | | :white_check_mark: | ||Microsoft Azure...|
 |[https://maps.ndw.nu](https://maps.ndw.nu)| | **F**|Apache/2.4.59 (Unix)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.59 Bootstrap UNIX|NDW Maps|
 |[https://melvin.ndw.nu](https://melvin.ndw.nu)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | | :white_check_mark: | :white_check_mark: | |HSTS Nginx|Melvin|
-|[https://mijn.ndw.nu](https://mijn.ndw.nu)| | **D**|Apache/2.4.57 (Debian)| | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server:2.4.57 Debian|mijn NDW|
+|[https://mijn.ndw.nu](https://mijn.ndw.nu)| | **D**|Apache/2.4.62 (Debian)| | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server:2.4.62 Debian|mijn NDW|
 |[https://mijnrdtmnl.ndw.nu](https://mijnrdtmnl.ndw.nu)| **B**| **A**|nginx/1.24.0| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS Nginx:1.24.0|RdtWebPortal|
 |[https://mlops-models.ndw.nu](https://mlops-models.ndw.nu)| **B**| **B**|istio-envoy|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Envoy||
 |[https://mlops-monitoring.ndw.nu](https://mlops-monitoring.ndw.nu)| **B**| **F**|Microsoft-Azure-Application-Gateway/v2| | | | | | | | :white_check_mark: | ||404 Not Found|
@@ -50,7 +50,7 @@
 |[https://mlops-tracking.ndw.nu](https://mlops-tracking.ndw.nu)| **B**| **F**|Microsoft-Azure-Application-Gateway/v2| | | | | | | | :white_check_mark: | ||404 Not Found|
 |[https://mogin.ndw.nu](https://mogin.ndw.nu)| **F**| **A**|| |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | |HSTS|Mogin|
 |[https://ncis.ndw.nu](https://ncis.ndw.nu)| **B**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS Nginx|NCIS Web Portaal|
-|[https://ndwviewer.ndw.nu](https://ndwviewer.ndw.nu)| **B**| **A**|Apache/2.4.61 (Debian)| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server:2.4.61 Debian HSTS|NDW Viewer|
+|[https://ndwviewer.ndw.nu](https://ndwviewer.ndw.nu)| **B**| **A**|Apache/2.4.62 (Debian)| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server:2.4.62 Debian HSTS|NDW Viewer|
 |[https://nls.ndw.nu](https://nls.ndw.nu)| | **F**|nginx/1.26.1| | | | | | | | :white_check_mark: | |Nginx:1.26.1|NlsFrontend|
 |[https://nt.ndw.nu](https://nt.ndw.nu)| **B**| **C**|Microsoft-Azure-Application-Gateway/v2| | | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |AngularJS|301 Moved Perman...|
 |[https://ntm.ndw.nu](https://ntm.ndw.nu)| **A**| **C**|nginx| | | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Nginx|Nationaal Toegan...|

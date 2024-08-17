@@ -5,14 +5,14 @@
 
 
  - **SSL Grade**:A+
- - **HTTP Security Grade**:B
+ - **HTTP Security Grade**:C
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:5
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/hdsr.nl/subdomains.txt)|32|Alive subdomains|
-|[urls.txt](/data/hdsr.nl/urls.txt)|26|Urls|
+|[subdomains.txt](/data/hdsr.nl/subdomains.txt)|31|Alive subdomains|
+|[urls.txt](/data/hdsr.nl/urls.txt)|25|Urls|
 |[all_subdomains.txt](/data/hdsr.nl/all_subdomains.txt)|111|All found subdomains (history)|
 
 
@@ -46,5 +46,4 @@
 |[https://intranet.ad.hdsr.nl](https://intranet.ad.hdsr.nl)| **A**| **B**|-|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Microsoft ASP.NET:-|Object moved|
 |[https://waterkwaliteitinbeeld.hdsr.nl](https://waterkwaliteitinbeeld.hdsr.nl)| **A+**| **A**|-| |:white_check_mark: | | | :white_check_mark:| | | :white_check_mark: | |HSTS Microsoft ASP.NET:-|Object moved|
 |[http://localhost.hdsr.nl](http://localhost.hdsr.nl)| | **F**|nginx| | | :warning:| | | | | :white_check_mark: | |Nginx|(404 Not Found)|
-|[https://fme.hdsr.nl](https://fme.hdsr.nl)| | **A**|xxxx|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Java|User Portal|
 

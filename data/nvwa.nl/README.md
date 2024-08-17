@@ -6,13 +6,13 @@
 
  - **SSL Grade**:B+
  - **HTTP Security Grade**:B
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:19
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:18
 
 
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/nvwa.nl/subdomains.txt)|56|Alive subdomains|
-|[urls.txt](/data/nvwa.nl/urls.txt)|38|Urls|
+|[urls.txt](/data/nvwa.nl/urls.txt)|37|Urls|
 |[all_subdomains.txt](/data/nvwa.nl/all_subdomains.txt)|75|All found subdomains (history)|
 
 
@@ -24,23 +24,22 @@
 |[https://acc.inspectieresultaten.nvwa.nl](https://acc.inspectieresultaten.nvwa.nl)| **F**| **F**|nginx| | | | | | | | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
 |[https://acc2.inspectieresultaten.nvwa.nl](https://acc2.inspectieresultaten.nvwa.nl)| **F**| **F**|nginx| | | | | | | | :white_check_mark: | |Basic Nginx|401 Authorizatio...|
 |[https://e-certnl.nvwa.nl](https://e-certnl.nvwa.nl)| | **B**||:white_check_mark: |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | |HSTS|Index of /|
-|[https://e-certnl-acc.nvwa.nl](https://e-certnl-acc.nvwa.nl)| | **B**||:white_check_mark: |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | |HSTS|Index of /|
+|[https://e-certnl-acc.nvwa.nl](https://e-certnl-acc.nvwa.nl)| | **B**||:white_check_mark: |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://english.nvwa.nl](https://english.nvwa.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Home | NVWA-Engl...|
 |[https://feeds.nvwa.nl](https://feeds.nvwa.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://feeds.english.nvwa.nl](https://feeds.english.nvwa.nl)| **A+**| **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://forms.nvwa.nl](https://forms.nvwa.nl)| **A+**| **A**||:white_check_mark: |:white_check_mark: | :warning:| | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Object moved|
 |[https://forms-acc.nvwa.nl](https://forms-acc.nvwa.nl)| **A+**| **D**||:o: |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|IIS Windows Serv...|
 |[https://formulieren.nvwa.nl](https://formulieren.nvwa.nl)| **A+**| **A**||:white_check_mark: |:white_check_mark: | :warning:| | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Object moved|
-|[http://formulieren-acc.nvwa.nl](http://formulieren-acc.nvwa.nl)| **A+**| **A**||:white_check_mark: |:white_check_mark: | :warning:| | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
+|[https://formulieren-acc.nvwa.nl](https://formulieren-acc.nvwa.nl)| **A+**| **A**||:white_check_mark: |:white_check_mark: | :warning:| | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Object moved|
 |[https://inspectieresultaten.nvwa.nl](https://inspectieresultaten.nvwa.nl)| **A+**| **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
 |[https://ivo.nvwa.nl](https://ivo.nvwa.nl)| **A+**| **C**||:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|Import Veterinai...|
 |[https://ivo-acc.nvwa.nl](https://ivo-acc.nvwa.nl)| **A+**| **D**||:o: |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|Import Veterinai...|
 |[https://iwelcome.nvwa.nl](https://iwelcome.nvwa.nl)| **F**| **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
 |[https://iwelcome-preprod.nvwa.nl](https://iwelcome-preprod.nvwa.nl)| **F**| **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
 |[https://magazines.nvwa.nl](https://magazines.nvwa.nl)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
-|[https://magazinesintern.nvwa.nl](https://magazinesintern.nvwa.nl)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://mijn.nvwa.nl](https://mijn.nvwa.nl)| **A+**| **A**||:white_check_mark: |:white_check_mark: | :warning:| | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Object moved|
-|[http://mijn-acc.nvwa.nl](http://mijn-acc.nvwa.nl)| **A+**| **A**||:white_check_mark: |:white_check_mark: | :warning:| | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
+|[https://mijn-acc.nvwa.nl](https://mijn-acc.nvwa.nl)| **A+**| **A**||:white_check_mark: |:white_check_mark: | :warning:| | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Object moved|
 |[https://openbare-inspectieresultaten.nvwa.nl](https://openbare-inspectieresultaten.nvwa.nl)| **A+**| **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
 |[https://opendata.nvwa.nl](https://opendata.nvwa.nl)| **A+**| **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://opendata.english.nvwa.nl](https://opendata.english.nvwa.nl)| **A+**| **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
@@ -49,7 +48,7 @@
 |[https://rvdmschaduwdraaien.nvwa.nl](https://rvdmschaduwdraaien.nvwa.nl)| **A**| **C**||:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|Error 404--Not F...|
 |[https://test.openbare-inspectieresultaten.nvwa.nl](https://test.openbare-inspectieresultaten.nvwa.nl)| **F**| **F**|nginx| | | | | | | | :white_check_mark: | |Basic Nginx|401 Authorizatio...|
 |[https://vgc.nvwa.nl](https://vgc.nvwa.nl)| **A+**| **B**||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS|Error 404--Not F...|
-|[https://vgc-acc.nvwa.nl](https://vgc-acc.nvwa.nl)| **A+**| **B**||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS|Error 404--Not F...|
+|[http://vgc-acc.nvwa.nl](http://vgc-acc.nvwa.nl)| **A+**| **B**||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS||
 |[https://videoleren.nvwa.nl](https://videoleren.nvwa.nl)| **A+**| **D**|cloudflare|:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | |Cloudflare Cloudflare Bot Management HSTS|POST data|
 |[https://www.nvwa.nl](https://www.nvwa.nl)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Home | NVWA|
 |[https://www.inspectieresultaten.nvwa.nl](https://www.inspectieresultaten.nvwa.nl)| **A+**| **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|

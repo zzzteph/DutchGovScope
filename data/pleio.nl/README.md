@@ -13,7 +13,7 @@
 |------------|-------|------|
 |[subdomains.txt](/data/pleio.nl/subdomains.txt)|7235|Alive subdomains|
 |[urls.txt](/data/pleio.nl/urls.txt)|7228|Urls|
-|[all_subdomains.txt](/data/pleio.nl/all_subdomains.txt)|7236|All found subdomains (history)|
+|[all_subdomains.txt](/data/pleio.nl/all_subdomains.txt)|7237|All found subdomains (history)|
 
 
 ## Statistics
@@ -50,7 +50,7 @@
 |[https://bro.pleio.nl](https://bro.pleio.nl)| **A+**| **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Domeinnaam nog n...|
 |[https://centrum023.pleio.nl](https://centrum023.pleio.nl)| **A+**| **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Domeinnaam nog n...|
 |[https://cett.pleio.nl](https://cett.pleio.nl)| **A+**| **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Domeinnaam nog n...|
-|[https://chat-dashboard.pleio.nl](https://chat-dashboard.pleio.nl)| **A+**| **C**||:warning: |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | |HSTS Ruby Ruby on Rails|Chatwoot|
+|[https://chat-dashboard.pleio.nl](https://chat-dashboard.pleio.nl)| **A+**| **B**||:white_check_mark: |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | |HSTS Ruby Ruby on Rails|Chatwoot|
 |[https://chatmigrate.pleio.nl](https://chatmigrate.pleio.nl)| **A+**| **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Domeinnaam nog n...|
 |[https://cip.pleio.nl](https://cip.pleio.nl)| **A+**| **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache Tomcat Fourthwall:1.0.0 HSTS Java MariaDB Skolengo:1.0.0|CIP.Pleio|
 |[https://cip.odc.pleio.nl](https://cip.odc.pleio.nl)| **F**| **E**|| | | | | | | | :white_check_mark: | |HSTS|404 Not Found|
@@ -86,7 +86,7 @@
 |[https://formulieren.pleio.nl](https://formulieren.pleio.nl)| **A+**| **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://fsa.odc.pleio.nl](https://fsa.odc.pleio.nl)| **F**| **E**|| | | | | | | | :white_check_mark: | |HSTS|404 Not Found|
 |[https://fsv.pleio.nl](https://fsv.pleio.nl)| **A+**| **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|403 Forbidden|
-|[https://fsv-chat.pleio.nl](https://fsv-chat.pleio.nl)| **A+**| **C**||:warning: |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | |HSTS Ruby Ruby on Rails|Chatwoot|
+|[https://fsv-chat.pleio.nl](https://fsv-chat.pleio.nl)| **A+**| **B**||:white_check_mark: |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | |HSTS Ruby Ruby on Rails|Chatwoot|
 |[https://gelderlandanders.pleio.nl](https://gelderlandanders.pleio.nl)| **A+**| **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Domeinnaam nog n...|
 |[https://gemeente-eersel.odc.pleio.nl](https://gemeente-eersel.odc.pleio.nl)| **F**| **E**|| | | | | | | | :white_check_mark: | |HSTS|404 Not Found|
 |[https://gemeentehaarlem.pleio.nl](https://gemeentehaarlem.pleio.nl)| **A+**| **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Domeinnaam nog n...|
@@ -187,9 +187,9 @@
 |[https://sjabloon2.pleio.nl](https://sjabloon2.pleio.nl)| **A+**| **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Domeinnaam nog n...|
 |[https://sjabloon3.pleio.nl](https://sjabloon3.pleio.nl)| **A+**| **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Domeinnaam nog n...|
 |[https://sjabloon4.pleio.nl](https://sjabloon4.pleio.nl)| **A+**| **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Domeinnaam nog n...|
-|[https://stats.pleio.nl](https://stats.pleio.nl)| **A**| **D**|nginx/1.18.0 (Ubuntu)|:white_check_mark: | | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Matomo Analytics Nginx:1.18.0 Ubuntu|Sign in - Matomo|
-|[https://status.pleio.nl](https://status.pleio.nl)| **A**| **C**|AtlassianEdge| |:white_check_mark: | :warning:| | | | :white_check_mark: | :white_check_mark: | |Amazon CloudFront Amazon Web Services Atlassian Statuspage HSTS React|Pleio Status|
-|[https://statuspage-bridge.pleio.nl](https://statuspage-bridge.pleio.nl)| **A+**| **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|404 Not Found|
+|[https://stats.pleio.nl](https://stats.pleio.nl)| **A**| **D**|nginx|:white_check_mark: | | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Nginx|Matomo › Error|
+|[https://status.pleio.nl](https://status.pleio.nl)| **A**| **C**|AtlassianEdge| |:white_check_mark: | :warning:| | | | :white_check_mark: | :white_check_mark: | |Amazon CloudFront Amazon Web Services Atlassian Statuspage HSTS|Pleio Status|
+|[https://statuspage-bridge.pleio.nl](https://statuspage-bridge.pleio.nl)| **A+**| **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|404 Not Found|
 |[https://structuurvisiezh.pleio.nl](https://structuurvisiezh.pleio.nl)| **A+**| **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Domeinnaam nog n...|
 |[https://studerenbijdefensie.odc.pleio.nl](https://studerenbijdefensie.odc.pleio.nl)| **F**| **E**|| | | | | | | | :white_check_mark: | |HSTS|404 Not Found|
 |[https://tdtrijk.pleio.nl](https://tdtrijk.pleio.nl)| **A+**| **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Domeinnaam nog n...|

@@ -11,7 +11,7 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/rvig.nl/subdomains.txt)|35|Alive subdomains|
+|[subdomains.txt](/data/rvig.nl/subdomains.txt)|36|Alive subdomains|
 |[urls.txt](/data/rvig.nl/urls.txt)|20|Urls|
 |[all_subdomains.txt](/data/rvig.nl/all_subdomains.txt)|75|All found subdomains (history)|
 

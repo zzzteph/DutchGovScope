@@ -19,8 +19,6 @@ https://dashboards.ipi.rijkscloud.nl
 https://datadrop.datafabriek.ienw.rijkscloud.nl
 https://datatool.datafabriek.ienw.rijkscloud.nl
 https://dbe-t.rvb.rijkscloud.nl
-https://developer.ix.rijkscloud.nl
-https://docs.performance.ix.rijkscloud.nl
 https://factuur.dbe-t.rvb.rijkscloud.nl
 https://git-dev.rijkscloud.nl
 https://git.dfront.rijkscloud.nl
@@ -50,7 +48,6 @@ https://jupyter.ilt.rijkscloud.nl
 https://jupyter.ilt-analyse.rijkscloud.nl
 https://jupyter.ilt-zz.rijkscloud.nl
 https://jupyter.ipi.rijkscloud.nl
-https://jupyter.ivho.rijkscloud.nl
 https://jupyter.kim.rijkscloud.nl
 https://jupyter.ritp.rijkscloud.nl
 https://keycloak.analyse.ilt.rijkscloud.nl
@@ -71,7 +68,6 @@ https://pgadmin.analyse.ilt.rijkscloud.nl
 https://pgadmin4.analyse.ilt.rijkscloud.nl
 https://portal.datascience.rijkscloud.nl
 https://portal.informatieproducten.duo.rijkscloud.nl
-http://portal117.rijkscloud.nl
 https://portal118.rijkscloud.nl
 https://pw.rvb.rijkscloud.nl
 https://rb.rvb.rijkscloud.nl
@@ -80,7 +76,6 @@ https://registry.gitlab.analyse.ilt.rijkscloud.nl
 https://registry.gitlab.datascience.rijkscloud.nl
 https://registry.gitlab.ix.rijkscloud.nl
 https://registry.gitlab.wibo.ienw.rijkscloud.nl
-https://repo2.ix.rijkscloud.nl
 https://rstudio.analyse.ilt.rijkscloud.nl
 https://rstudio.cursus.rijkscloud.nl
 https://rstudio.dstrial-inspectieraad.rijkscloud.nl
@@ -90,14 +85,12 @@ https://rstudio.ilt.rijkscloud.nl
 https://rstudio.ilt-analyse.rijkscloud.nl
 https://rstudio.informatieproducten.duo.rijkscloud.nl
 https://rstudio.ipi.rijkscloud.nl
-https://rstudio.ivho.rijkscloud.nl
 https://rstudio.kim.rijkscloud.nl
 https://rstudio.ritp.rijkscloud.nl
 https://securetransfer.rijkscloud.nl
 https://sensu.ix.rijkscloud.nl
 https://shiny.cursus.rijkscloud.nl
 https://shiny.hr-ienw.rijkscloud.nl
-https://shiny.ivho.rijkscloud.nl
 https://shiny.ritp.rijkscloud.nl
 https://sso.dbe-t.rvb.rijkscloud.nl
 https://ssp.ix.rijkscloud.nl
@@ -108,6 +101,7 @@ https://webmail.rijkscloud.nl
 https://www.rijkscloud.nl
 https://rijkscloud.nl
 https://openstack.gn3.rijkscloud.nl
+http://status.gn3.rijkscloud.nl
 https://portal.ip.test.duo.rijkscloud.nl
 https://ip.test.duo.rijkscloud.nl
 https://rstudio.ip.test.duo.rijkscloud.nl
@@ -122,3 +116,4 @@ https://kennisbank.dfront.rijkscloud.nl
 https://kpi.dfront.rijkscloud.nl
 https://ip4.rijkscloud.nl
 https://ip6.rijkscloud.nl
+https://platform.analyse.ilt.rijkscloud.nl

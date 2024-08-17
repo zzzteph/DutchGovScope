@@ -12,7 +12,7 @@
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/nationaalarchief.nl/subdomains.txt)|102|Alive subdomains|
-|[urls.txt](/data/nationaalarchief.nl/urls.txt)|45|Urls|
+|[urls.txt](/data/nationaalarchief.nl/urls.txt)|44|Urls|
 |[all_subdomains.txt](/data/nationaalarchief.nl/all_subdomains.txt)|190|All found subdomains (history)|
 
 
@@ -22,7 +22,6 @@
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[http://beeldbank.nationaalarchief.nl](http://beeldbank.nationaalarchief.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |HTTP/3 Nginx||
-|[https://servicebureau.nationaalarchief.nl](https://servicebureau.nationaalarchief.nl)| **B**| **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Login|
 |[https://bibliotheek.nationaalarchief.nl](https://bibliotheek.nationaalarchief.nl)| **B**| **F**|Central System Dispatcher/1.1| | | | | | | | :white_check_mark: | |HSTS||
 |[https://www1.nationaalarchief.nl](https://www1.nationaalarchief.nl)| **F**| **F**|nginx/1.25.3| | | | | | | | :white_check_mark: | |HSTS Nginx:1.25.3||
 |[https://aankomst.nationaalarchief.nl](https://aankomst.nationaalarchief.nl)| **F**| **F**|nginx/1.25.3| | | | | | | | :white_check_mark: | |HSTS Nginx:1.25.3||

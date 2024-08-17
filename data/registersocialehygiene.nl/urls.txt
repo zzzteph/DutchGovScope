@@ -8,3 +8,4 @@ https://www.registersocialehygiene.nl
 https://mijn.registersocialehygiene.nl
 https://feeds.registersocialehygiene.nl
 https://opendata.registersocialehygiene.nl
+https://beheer.registersocialehygiene.nl

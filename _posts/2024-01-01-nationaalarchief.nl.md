@@ -4,7 +4,7 @@ title: "nationaalarchief.nl"
 permalink: "/dutchgov/nationaalarchief.nl.html"
 subdomains_count: 102
 all_subdomains_count: 190
-urls_count: 45
+urls_count: 44
 ssl_rank: C
 http_rank: D
 security_txt: 9
@@ -28,7 +28,7 @@ tags: dutchgov
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/DutchGovScope/data/nationaalarchief.nl/subdomains.txt)|102|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/nationaalarchief.nl/urls.txt)|45|Urls|
+|[urls.txt](/DutchGovScope/data/nationaalarchief.nl/urls.txt)|44|Urls|
 |[all_subdomains.txt](/DutchGovScope/data/nationaalarchief.nl/all_subdomains.txt)|190|All found subdomains (history)|
 
 
@@ -38,7 +38,6 @@ tags: dutchgov
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[http://beeldbank.nationaalarchief.nl](http://beeldbank.nationaalarchief.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |HTTP/3 Nginx||
-|[https://servicebureau.nationaalarchief.nl](https://servicebureau.nationaalarchief.nl)| **B**| **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Login|
 |[https://bibliotheek.nationaalarchief.nl](https://bibliotheek.nationaalarchief.nl)| **B**| **F**|Central System Dispatcher/1.1| | | | | | | | :white_check_mark: | |HSTS||
 |[https://www1.nationaalarchief.nl](https://www1.nationaalarchief.nl)| **F**| **F**|nginx/1.25.3| | | | | | | | :white_check_mark: | |HSTS Nginx:1.25.3||
 |[https://aankomst.nationaalarchief.nl](https://aankomst.nationaalarchief.nl)| **F**| **F**|nginx/1.25.3| | | | | | | | :white_check_mark: | |HSTS Nginx:1.25.3||

@@ -127,3 +127,4 @@ https://rijksadresgids.tweedekamer.nl
 https://avgregister.tweedekamer.nl
 https://b67.tweedekamer.nl
 https://hollandfit.tweedekamer.nl
+https://bibliotheek.tweedekamer.nl

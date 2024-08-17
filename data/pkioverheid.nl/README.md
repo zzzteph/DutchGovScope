@@ -13,7 +13,7 @@
 |------------|-------|------|
 |[subdomains.txt](/data/pkioverheid.nl/subdomains.txt)|11|Alive subdomains|
 |[urls.txt](/data/pkioverheid.nl/urls.txt)|11|Urls|
-|[all_subdomains.txt](/data/pkioverheid.nl/all_subdomains.txt)|25|All found subdomains (history)|
+|[all_subdomains.txt](/data/pkioverheid.nl/all_subdomains.txt)|26|All found subdomains (history)|
 
 
 ## Statistics

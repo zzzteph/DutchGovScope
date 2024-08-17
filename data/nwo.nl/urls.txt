@@ -1,9 +1,7 @@
-https://www.isaac.nwo.nl
 https://impacttest.nwo.nl
 https://matomo.nwo.nl
 https://enterpriseregistration.nwo.nl
 https://byod.nwo.nl
-https://isaac.nwo.nl
 http://autodiscover.nwo.nl
 https://nwoi-people.nwo.nl
 https://mailing.nwo.nl

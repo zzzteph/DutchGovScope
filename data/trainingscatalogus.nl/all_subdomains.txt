@@ -225,3 +225,4 @@ assets.test.trainingscatalogus.nl
 bewerk.test.trainingscatalogus.nl
 pbo.trainingscatalogus.nl
 hostmaster.test.trainingscatalogus.nl
+rbo-a.trainingscatalogus.nl

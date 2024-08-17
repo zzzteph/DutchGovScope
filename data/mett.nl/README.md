@@ -6,14 +6,14 @@
 
  - **SSL Grade**:A-
  - **HTTP Security Grade**:E
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:11140
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:11141
 
 
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/mett.nl/subdomains.txt)|33685|Alive subdomains|
-|[urls.txt](/data/mett.nl/urls.txt)|29779|Urls|
-|[all_subdomains.txt](/data/mett.nl/all_subdomains.txt)|37895|All found subdomains (history)|
+|[urls.txt](/data/mett.nl/urls.txt)|29784|Urls|
+|[all_subdomains.txt](/data/mett.nl/all_subdomains.txt)|39928|All found subdomains (history)|
 
 
 ## Statistics
@@ -376,7 +376,7 @@
 |[http://meedenkenarnhem.mett.nl](http://meedenkenarnhem.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET hCaptcha||
 |[http://adfs.mett.nl](http://adfs.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://api.mett.nl](https://api.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Microsoft Azure...|
-|[http://autodiscover.mett.nl](http://autodiscover.mett.nl)| | **C**|Microsoft-IIS/10.0| |:white_check_mark: | | | | | | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server||
+|[http://autodiscover.mett.nl](http://autodiscover.mett.nl)| | **B**|Microsoft-IIS/10.0|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server||
 |[https://dev.mett.nl](https://dev.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Microsoft Azure...|
 |[http://faber.mett.nl](http://faber.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://ftp.mett.nl](https://ftp.mett.nl)| | **F**|Apache/2| | | | | | | | :white_check_mark: | |Apache HTTP Server:2||
@@ -29800,4 +29800,9 @@
 |[http://web3954.mett.nl](http://web3954.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[http://auth-dev.mett.nl](http://auth-dev.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[http://blad.mett.nl](http://blad.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
+|[http://coordinatiegelderland.mett.nl](http://coordinatiegelderland.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
+|[http://bestuurderscentraal.mett.nl](http://bestuurderscentraal.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
+|[http://domeinaandedommel.mett.nl](http://domeinaandedommel.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
+|[http://demoparticipatie.mett.nl](http://demoparticipatie.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
+|[http://leonie.mett.nl](http://leonie.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 

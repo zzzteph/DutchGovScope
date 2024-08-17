@@ -1,5 +1,4 @@
 http://beeldbank.nationaalarchief.nl
-https://servicebureau.nationaalarchief.nl
 https://bibliotheek.nationaalarchief.nl
 https://www1.nationaalarchief.nl
 https://aankomst.nationaalarchief.nl

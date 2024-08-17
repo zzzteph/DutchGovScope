@@ -12,7 +12,7 @@
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/registersocialehygiene.nl/subdomains.txt)|14|Alive subdomains|
-|[urls.txt](/data/registersocialehygiene.nl/urls.txt)|10|Urls|
+|[urls.txt](/data/registersocialehygiene.nl/urls.txt)|11|Urls|
 |[all_subdomains.txt](/data/registersocialehygiene.nl/all_subdomains.txt)|14|All found subdomains (history)|
 
 
@@ -31,4 +31,5 @@
 |[https://mijn.registersocialehygiene.nl](https://mijn.registersocialehygiene.nl)| **A**| **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Inloggen|
 |[https://feeds.registersocialehygiene.nl](https://feeds.registersocialehygiene.nl)| **A+**| **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://opendata.registersocialehygiene.nl](https://opendata.registersocialehygiene.nl)| **A+**| **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
+|[https://beheer.registersocialehygiene.nl](https://beheer.registersocialehygiene.nl)| | **F**|-| | | | | | | | :white_check_mark: | |HSTS||
 

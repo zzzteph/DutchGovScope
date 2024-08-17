@@ -6,7 +6,7 @@ subdomains_count: 16
 all_subdomains_count: 18
 urls_count: 11
 ssl_rank: A+
-http_rank: D
+http_rank: E
 security_txt: 3
 url_link: /data/gezondeschool.nl/urls.txt
 all_subdomains_link: /data/gezondeschool.nl/all_subdomains.txt
@@ -21,7 +21,7 @@ tags: dutchgov
 
 
  - **SSL Grade**:A+
- - **HTTP Security Grade**:D
+ - **HTTP Security Grade**:E
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:3
 
 
@@ -39,8 +39,8 @@ tags: dutchgov
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[http://sub.gezondeschool.nl](http://sub.gezondeschool.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |||
 |[http://test.gezondeschool.nl](http://test.gezondeschool.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
-|[https://www.gezondeschool.nl](https://www.gezondeschool.nl)| **A+**| **A**|Apache| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server Drupal HSTS PHP|Gezonde School |...|
-|[https://gezondeschool.nl](https://gezondeschool.nl)| **A+**| **A**|Apache| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS|301 Moved Perman...|
+|[http://www.gezondeschool.nl](http://www.gezondeschool.nl)| **A+**| **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server Bootstrap:4.3.1 PHP:7.4.33 Varnish|geregistreerd vi...|
+|[https://gezondeschool.nl](https://gezondeschool.nl)| **A+**| **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|301 Moved Perman...|
 |[http://acceptatie.gezondeschool.nl](http://acceptatie.gezondeschool.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[http://autodiscover.gezondeschool.nl](http://autodiscover.gezondeschool.nl)| | **B**|Microsoft-IIS/10.0|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server||
 |[https://enterpriseenrollment.gezondeschool.nl](https://enterpriseenrollment.gezondeschool.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||

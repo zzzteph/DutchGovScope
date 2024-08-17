@@ -1,5 +1,4 @@
 https://www.minlnv.nl
-https://client-export-acc.minlnv.nl
 https://e-certnl-acc.minlnv.nl
 https://client-export.minlnv.nl
 https://minlnv.nl
