@@ -26,3 +26,5 @@ s10013-out.eerstekamer.nl
 lyncdiscover.eerstekamer.nl
 lv109366-web01-out.eerstekamer.nl
 ontwikkelserver.eerstekamer.nl
+redactie.migratie.eerstekamer.nl
+www.migratie.eerstekamer.nl

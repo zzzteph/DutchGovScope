@@ -11,8 +11,8 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/knaw.nl/subdomains.txt)|1353|Alive subdomains|
-|[urls.txt](/data/knaw.nl/urls.txt)|659|Urls|
+|[subdomains.txt](/data/knaw.nl/subdomains.txt)|1354|Alive subdomains|
+|[urls.txt](/data/knaw.nl/urls.txt)|658|Urls|
 |[all_subdomains.txt](/data/knaw.nl/all_subdomains.txt)|1866|All found subdomains (history)|
 
 
@@ -645,7 +645,6 @@
 |[https://oai-harvester.labs.dans.knaw.nl](https://oai-harvester.labs.dans.knaw.nl)| | **E**|| | | | | | | | :white_check_mark: | |Python Uvicorn||
 |[http://ga-wp3.sd.di.huc.knaw.nl](http://ga-wp3.sd.di.huc.knaw.nl)| | **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |Nginx|301 Moved Perman...|
 |[https://facades-formats.labs.dans.knaw.nl](https://facades-formats.labs.dans.knaw.nl)| | **F**|uvicorn| | | | | | | | :white_check_mark: | |Python Uvicorn||
-|[https://wp-02.dev.huc.knaw.nl](https://wp-02.dev.huc.knaw.nl)| | **F**|Apache/2.4.41 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.41 Ubuntu|Unauthorized|
 |[https://infratemplater.labs.dans.knaw.nl](https://infratemplater.labs.dans.knaw.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://wp-17.dev.huc.knaw.nl](https://wp-17.dev.huc.knaw.nl)| | **F**|Apache/2.4.41 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.41 Ubuntu|Unauthorized|
 |[https://minio2.labs.dans.knaw.nl](https://minio2.labs.dans.knaw.nl)| | **D**|MinIO Console| | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | ||MinIO Console|
@@ -670,7 +669,6 @@
 |[https://cto.nioo.knaw.nl](https://cto.nioo.knaw.nl)| | **B**|nginx| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Drupal HSTS Nginx PHP Varnish:6.2|Redirecting to h...|
 |[https://wp-09.dev.huc.knaw.nl](https://wp-09.dev.huc.knaw.nl)| | **F**|Apache/2.4.41 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.41 Ubuntu|Unauthorized|
 |[http://clarin-skosmos.sd.di.huc.knaw.nl](http://clarin-skosmos.sd.di.huc.knaw.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|301 Moved Perman...|
-|[https://wp-07.dev.huc.knaw.nl](https://wp-07.dev.huc.knaw.nl)| | **F**|Apache/2.4.41 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.41 Ubuntu|Unauthorized|
 |[https://docs.labs.dans.knaw.nl](https://docs.labs.dans.knaw.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://facades-verification.labs.dans.knaw.nl](https://facades-verification.labs.dans.knaw.nl)| | **F**|uvicorn| | | | | | | | :white_check_mark: | |Python Uvicorn||
 |[https://oat.acc.huc.knaw.nl](https://oat.acc.huc.knaw.nl)| | **F**|Apache/2.4.41 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.41 Ubuntu|Unauthorized|
@@ -680,4 +678,5 @@
 |[http://arrestanten40-45.niod.knaw.nl](http://arrestanten40-45.niod.knaw.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|301 Moved Perman...|
 |[https://declaree.knaw.nl](https://declaree.knaw.nl)| | **A**|Apache| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server|301 Moved Perman...|
 |[https://ecartico.dev.huc.knaw.nl](https://ecartico.dev.huc.knaw.nl)| | **F**|Apache/2.4.41 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.41 Ubuntu|Unauthorized|
+|[https://workforce.nioo.knaw.nl](https://workforce.nioo.knaw.nl)| | **E**|Apache| | | | | | | :white_check_mark: | :white_check_mark: | |Apache HTTP Server|Workforce login|
 

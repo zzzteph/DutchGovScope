@@ -11,7 +11,7 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/cgb.nl/subdomains.txt)|2|Alive subdomains|
+|[subdomains.txt](/data/cgb.nl/subdomains.txt)|3|Alive subdomains|
 |[urls.txt](/data/cgb.nl/urls.txt)|0|Urls|
 |[all_subdomains.txt](/data/cgb.nl/all_subdomains.txt)|3|All found subdomains (history)|
 

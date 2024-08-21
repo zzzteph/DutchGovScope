@@ -82,3 +82,5 @@ a-feeds.om.nl
 a-opendata.om.nl
 zsmgame.om.nl
 acc.zsmgame.om.nl
+enterpriseenrollment.om.nl
+enterpriseregistration.om.nl

@@ -1,6 +1,5 @@
 ocsp.uzi-register.nl
 www.uzi-register.nl
 www.csp.uzi-register.nl
-uzi-register.nl
 cms.uzi-register.nl
 ldap.uzi-register.nl

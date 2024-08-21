@@ -103,6 +103,7 @@ https://apm.tweedekamer.nl
 https://sesam.tweedekamer.nl
 https://kva-tst.tweedekamer.nl
 https://vip-acc.tweedekamer.nl
+https://vergaderapp.tweedekamer.nl
 https://opendata-wiki.tweedekamer.nl
 https://enterpriseenrollment.tweedekamer.nl
 https://enterpriseregistration.tweedekamer.nl

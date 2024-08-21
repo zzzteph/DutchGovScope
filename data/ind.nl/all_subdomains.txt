@@ -65,3 +65,5 @@ bvv-a7.inkomend.extern.ind.nl
 jubes-ota.uitgaand.extern.ind.nl
 localhost.ind.nl
 bvv-t2.inkomend.extern.ind.nl
+i0wtss317.intern.ind.nl
+tsketen.intern.ind.nl

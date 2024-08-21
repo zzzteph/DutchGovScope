@@ -39,3 +39,6 @@ symposiumpsychischgeweld.minjenv-events.nl
 dtv-wetenschapsevenement2023.minjenv-events.nl
 dagvdlocatiemanager-oek.minjenv-events.nl
 burgergerichtbestuursrecht.minjenv-events.nl
+kamer.minjenv-events.nl
+thuis-in-de-eerste-kamer.minjenv-events.nl
+kennisevenement.minjenv-events.nl

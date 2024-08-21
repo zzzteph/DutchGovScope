@@ -14,3 +14,5 @@ scalelite-meet.jio.nl
 videomeeting.jio.nl
 manage-meet.jio.nl
 meet.jio.nl
+info.jio.nl
+rca.jio.nl

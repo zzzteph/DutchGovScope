@@ -53,7 +53,7 @@ https://web.acc.mgo.irealisatie.nl
 https://app-api.acc.mgo.irealisatie.nl
 https://max.acc.mgo.irealisatie.nl
 https://lo-ad.acc.mgo.irealisatie.nl
-http://dva.acc.mgo.irealisatie.nl
+https://dva.acc.mgo.irealisatie.nl
 https://nextcloud.acc.irealisatie.nl
 https://cts.test.woo.irealisatie.nl
 https://mailcatch.test.woo.irealisatie.nl
@@ -62,3 +62,4 @@ http://acc.mgo.irealisatie.nl
 https://qualification-admin.test.zm.irealisatie.nl
 https://qualification-api.test.zm.irealisatie.nl
 https://cts.acc.woo.irealisatie.nl
+https://stats.test.zm.irealisatie.nl

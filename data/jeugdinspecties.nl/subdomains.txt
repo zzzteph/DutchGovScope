@@ -1,2 +1,11 @@
 jeugdinspecties.nl
 www.jeugdinspecties.nl
+cms.jeugdinspecties.nl
+ftp.jeugdinspecties.nl
+mail.jeugdinspecties.nl
+test.jeugdinspecties.nl
+testcms.jeugdinspecties.nl
+sdm.jeugdinspecties.nl
+sip.jeugdinspecties.nl
+teamroom.jeugdinspecties.nl
+webmail.jeugdinspecties.nl

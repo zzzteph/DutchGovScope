@@ -14,3 +14,12 @@ uploads.holmes.nl
 vpn.holmes.nl
 watson.holmes.nl
 www.holmes.nl
+blaat.holmes.nl
+comm.holmes.nl
+foobar.holmes.nl
+holmes.holmes.nl
+iris.holmes.nl
+napoleon.holmes.nl
+openvpn.holmes.nl
+repository.holmes.nl
+stats.holmes.nl

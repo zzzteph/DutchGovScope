@@ -8,6 +8,9 @@ hybrid.ofgv.nl
 squit2go.ofgv.nl
 transfer.ofgv.nl
 vr.ofgv.nl
+mx1.ofgv.nl
+ofgvtransfer.ofgv.nl
+smtp.ofgv.nl
 telewerken.ofgv.nl
 sharefile.ofgv.nl
 enterpriseenrollment.ofgv.nl

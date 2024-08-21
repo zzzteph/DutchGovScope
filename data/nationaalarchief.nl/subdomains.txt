@@ -1,5 +1,4 @@
 beeldbank.nationaalarchief.nl
-servicebureau.nationaalarchief.nl
 bibliotheek.nationaalarchief.nl
 www1.nationaalarchief.nl
 aankomst.nationaalarchief.nl

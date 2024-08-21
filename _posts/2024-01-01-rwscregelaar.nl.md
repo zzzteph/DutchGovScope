@@ -2207,7 +2207,7 @@ tags: dutchgov
 |[https://www2-8.rwscregelaar.nl](https://www2-8.rwscregelaar.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu|DAT.Mobility|
 |[https://krasloten.rwscregelaar.nl](https://krasloten.rwscregelaar.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu|DAT.Mobility|
 |[https://nsp2.rwscregelaar.nl](https://nsp2.rwscregelaar.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu|DAT.Mobility|
-|[http://autodiscover.rwscregelaar.nl](http://autodiscover.rwscregelaar.nl)| | **B**|Microsoft-IIS/10.0|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server||
+|[http://autodiscover.rwscregelaar.nl](http://autodiscover.rwscregelaar.nl)| | **C**|Microsoft-IIS/10.0| |:white_check_mark: | | | | | | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server||
 |[https://mail.pop.rwscregelaar.nl](https://mail.pop.rwscregelaar.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu|DAT.Mobility|
 |[https://origin-cdn.rwscregelaar.nl](https://origin-cdn.rwscregelaar.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu|DAT.Mobility|
 |[https://bertus.rwscregelaar.nl](https://bertus.rwscregelaar.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu|DAT.Mobility|

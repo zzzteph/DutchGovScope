@@ -1756,13 +1756,14 @@ http://bfontwikkeling.databank.nl
 http://beta-vgm.databank.nl
 https://beta-duurzamemobiliteit.databank.nl
 https://cname-test-adc.databank.nl
-http://beta-nbtc.databank.nl
+http://accept-ebc.databank.nl
+https://beta-nbtc.databank.nl
 https://conjunctuurwijzer.databank.nl
 https://cname-beta-adc.databank.nl
 https://beta-cbc.databank.nl
 https://beta-bvz-waves.databank.nl
 https://cname-forecast-adc.databank.nl
-http://beta-bronnenbeheer.databank.nl
+https://beta-bronnenbeheer.databank.nl
 http://beta-afvalmonitor.databank.nl
 https://ggddemo.databank.nl
 https://beta-prognosemodelzw.databank.nl
@@ -3437,7 +3438,6 @@ https://rasta.databank.nl
 https://httpsarbeidsmarktmobiliteit.databank.nl
 https://b08bc517-30bd-eb33-0412-cdcdd6cfb645.databank.nl
 https://aedesforecast.databank.nl
-https://accept-aedes.databank.nl
 https://beta-berst.databank.nl
 https://aedesterugkoppeling.databank.nl
 https://beta-ebc.databank.nl
@@ -3460,7 +3460,7 @@ http://ivmpon.databank.nl
 https://prognosemodelzw2021.databank.nl
 https://beta-hsw.databank.nl
 https://www.diversiteitsin-dex.databank.nl
-http://beta-inspectieoe.databank.nl
+https://beta-inspectieoe.databank.nl
 http://woongoedzvl.databank.nl
 https://norovirus.databank.nl
 https://garrett.databank.nl

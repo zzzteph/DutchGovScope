@@ -1,2 +1,5 @@
 stoorik.nl
 www.stoorik.nl
+db.stoorik.nl
+mail.stoorik.nl
+sftp.stoorik.nl

@@ -41,6 +41,7 @@ login.provincie-utrecht.nl
 socialintranet.provincie-utrecht.nl
 formulieren.provincie-utrecht.nl
 vctu-api.provincie-utrecht.nl
+esb.provincie-utrecht.nl
 geotest.provincie-utrecht.nl
 gis-test.provincie-utrecht.nl
 auth-preprod.provincie-utrecht.nl
@@ -51,7 +52,6 @@ intranet.provincie-utrecht.nl
 innerweb.provincie-utrecht.nl
 logint.provincie-utrecht.nl
 nnn-wijzer.provincie-utrecht.nl
-slechtvalk.provincie-utrecht.nl
 geo.provincie-utrecht.nl
 gis.provincie-utrecht.nl
 provincie-utrecht.nl
@@ -106,6 +106,7 @@ mfa.provincie-utrecht.nl
 autodiscover.provincie-utrecht.nl
 burgemeesters.provincie-utrecht.nl
 ris.provincie-utrecht.nl
+hth.provincie-utrecht.nl
 imap.provincie-utrecht.nl
 localhost.provincie-utrecht.nl
 rmb.provincie-utrecht.nl

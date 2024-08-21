@@ -1,9 +1,7 @@
 advies.rijksacademie.nl
-feeds.rijksacademie.nl
 helpdesk.rijksacademie.nl
 leren.rijksacademie.nl
 nieuwsbrief.rijksacademie.nl
-opendata.rijksacademie.nl
 www.rijksacademie.nl
 rijksacademie.nl
 dev.rijksacademie.nl

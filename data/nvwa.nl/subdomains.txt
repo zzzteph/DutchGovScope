@@ -15,7 +15,6 @@ ivo-acc.nvwa.nl
 iwelcome.nvwa.nl
 iwelcome-preprod.nvwa.nl
 magazines.nvwa.nl
-magazinesintern.nvwa.nl
 mijn.nvwa.nl
 mijn-acc.nvwa.nl
 openbare-inspectieresultaten.nvwa.nl
@@ -49,7 +48,6 @@ a-english.nvwa.nl
 a-feeds.a-english.nvwa.nl
 a-feeds.nvwa.nl
 a-magazines.nvwa.nl
-a-magazinesintern.nvwa.nl
 a-opendata.a-english.nvwa.nl
 service.nvwa.nl
 labvantage.nvwa.nl

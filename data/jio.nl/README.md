@@ -11,7 +11,7 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/jio.nl/subdomains.txt)|16|Alive subdomains|
+|[subdomains.txt](/data/jio.nl/subdomains.txt)|18|Alive subdomains|
 |[urls.txt](/data/jio.nl/urls.txt)|0|Urls|
 |[all_subdomains.txt](/data/jio.nl/all_subdomains.txt)|51|All found subdomains (history)|
 

@@ -40,8 +40,6 @@ kennisgroepen.belastingdienst.nl
 kennisnetwerk.belastingdienst.nl
 le-webservices.belastingdienst.nl
 le-webservices-beta.belastingdienst.nl
-leiderschap.belastingdienst.nl
-leiderschapp.belastingdienst.nl
 mijn.belastingdienst.nl
 mijndouane.belastingdienst.nl
 mijnzakelijk.belastingdienst.nl

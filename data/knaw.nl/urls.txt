@@ -622,7 +622,6 @@ https://facades-conversion.labs.dans.knaw.nl
 https://oai-harvester.labs.dans.knaw.nl
 http://ga-wp3.sd.di.huc.knaw.nl
 https://facades-formats.labs.dans.knaw.nl
-https://wp-02.dev.huc.knaw.nl
 https://infratemplater.labs.dans.knaw.nl
 https://wp-17.dev.huc.knaw.nl
 https://minio2.labs.dans.knaw.nl
@@ -647,7 +646,6 @@ https://cl.nioo.knaw.nl
 https://cto.nioo.knaw.nl
 https://wp-09.dev.huc.knaw.nl
 http://clarin-skosmos.sd.di.huc.knaw.nl
-https://wp-07.dev.huc.knaw.nl
 https://docs.labs.dans.knaw.nl
 https://facades-verification.labs.dans.knaw.nl
 https://oat.acc.huc.knaw.nl
@@ -657,3 +655,4 @@ https://oat.dev.huc.knaw.nl
 http://arrestanten40-45.niod.knaw.nl
 https://declaree.knaw.nl
 https://ecartico.dev.huc.knaw.nl
+https://workforce.nioo.knaw.nl

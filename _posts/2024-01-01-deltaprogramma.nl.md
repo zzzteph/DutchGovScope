@@ -3,7 +3,7 @@ layout: default
 title: "deltaprogramma.nl"
 permalink: "/dutchgov/deltaprogramma.nl.html"
 subdomains_count: 19
-all_subdomains_count: 20
+all_subdomains_count: 21
 urls_count: 12
 ssl_rank: A-
 http_rank: A
@@ -29,7 +29,7 @@ tags: dutchgov
 |------------|-------|------|
 |[subdomains.txt](/DutchGovScope/data/deltaprogramma.nl/subdomains.txt)|19|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/deltaprogramma.nl/urls.txt)|12|Urls|
-|[all_subdomains.txt](/DutchGovScope/data/deltaprogramma.nl/all_subdomains.txt)|20|All found subdomains (history)|
+|[all_subdomains.txt](/DutchGovScope/data/deltaprogramma.nl/all_subdomains.txt)|21|All found subdomains (history)|
 
 
 ## Statistics

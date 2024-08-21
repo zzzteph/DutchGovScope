@@ -23,5 +23,5 @@
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[https://www.kennisnetwerkspv.nl](https://www.kennisnetwerkspv.nl)| **B**| **A**|Microsoft-IIS/10.0|:warning: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Azure Google Tag Manager HSTS IIS:10.0 Kentico CMS Microsoft ASP.NET Windows Server|Home - Kennisnet...|
 |[https://kennisnetwerkspv.nl](https://kennisnetwerkspv.nl)| **B**| **A**|Microsoft-IIS/10.0|:warning: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Azure Google Tag Manager HSTS IIS:10.0 Kentico CMS Microsoft ASP.NET Windows Server|Home - Kennisnet...|
-|[http://autodiscover.kennisnetwerkspv.nl](http://autodiscover.kennisnetwerkspv.nl)| | **B**|Microsoft-IIS/10.0|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server||
+|[http://autodiscover.kennisnetwerkspv.nl](http://autodiscover.kennisnetwerkspv.nl)| | **C**|Microsoft-IIS/10.0| |:white_check_mark: | | | | | | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server||
 

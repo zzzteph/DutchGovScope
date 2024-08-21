@@ -45,3 +45,4 @@ vpn2.domeinenrz.nl
 toegankelijkheidsonderzoek-english.domeinenrz.nl
 autodiscover.domeinenrz.nl
 hybrid.domeinenrz.nl
+services-test.domeinenrz.nl

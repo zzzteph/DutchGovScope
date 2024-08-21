@@ -6,14 +6,14 @@
 
  - **SSL Grade**:A
  - **HTTP Security Grade**:E
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:2210
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:2205
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/waterschaplimburg.nl/subdomains.txt)|2794|Alive subdomains|
-|[urls.txt](/data/waterschaplimburg.nl/urls.txt)|2636|Urls|
-|[all_subdomains.txt](/data/waterschaplimburg.nl/all_subdomains.txt)|2930|All found subdomains (history)|
+|[subdomains.txt](/data/waterschaplimburg.nl/subdomains.txt)|2789|Alive subdomains|
+|[urls.txt](/data/waterschaplimburg.nl/urls.txt)|2631|Urls|
+|[all_subdomains.txt](/data/waterschaplimburg.nl/all_subdomains.txt)|3051|All found subdomains (history)|
 
 
 ## Statistics
@@ -1161,7 +1161,7 @@
 |[http://adios.waterschaplimburg.nl](http://adios.waterschaplimburg.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
 |[http://web17512.waterschaplimburg.nl](http://web17512.waterschaplimburg.nl)| | **E**|Microsoft-HTTPAPI/2.0| | | | | | :white_check_mark: | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
 |[http://gbv.waterschaplimburg.nl](http://gbv.waterschaplimburg.nl)| | **E**|Microsoft-HTTPAPI/2.0| | | | | | :white_check_mark: | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
-|[http://vergelijkingswebsites.waterschaplimburg.nl](http://vergelijkingswebsites.waterschaplimburg.nl)| | **D**|| | | | | | :white_check_mark: | | :white_check_mark: | |Microsoft HTTPAPI:2.0||
+|[http://vergelijkingswebsites.waterschaplimburg.nl](http://vergelijkingswebsites.waterschaplimburg.nl)| | **E**|Microsoft-HTTPAPI/2.0| | | | | | :white_check_mark: | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
 |[http://busreis.waterschaplimburg.nl](http://busreis.waterschaplimburg.nl)| | **D**|| | | | | | :white_check_mark: | | :white_check_mark: | |||
 |[http://cirm.waterschaplimburg.nl](http://cirm.waterschaplimburg.nl)| | **D**|| | | | | | :white_check_mark: | | :white_check_mark: | |||
 |[http://web4977.waterschaplimburg.nl](http://web4977.waterschaplimburg.nl)| | **D**|| | | | | | :white_check_mark: | | :white_check_mark: | |||
@@ -2279,9 +2279,7 @@
 |[http://tcf.waterschaplimburg.nl](http://tcf.waterschaplimburg.nl)| | **D**|| | | | | | :white_check_mark: | | :white_check_mark: | |||
 |[http://salamat.waterschaplimburg.nl](http://salamat.waterschaplimburg.nl)| | **D**|| | | | | | :white_check_mark: | | :white_check_mark: | |||
 |[http://trivandrum.waterschaplimburg.nl](http://trivandrum.waterschaplimburg.nl)| | **D**|| | | | | | :white_check_mark: | | :white_check_mark: | |||
-|[http://aglow.waterschaplimburg.nl](http://aglow.waterschaplimburg.nl)| | **D**|| | | | | | :white_check_mark: | | :white_check_mark: | |||
 |[http://forum.test.waterschaplimburg.nl](http://forum.test.waterschaplimburg.nl)| | **D**|| | | | | | :white_check_mark: | | :white_check_mark: | |||
-|[http://inreach.waterschaplimburg.nl](http://inreach.waterschaplimburg.nl)| | **D**|| | | | | | :white_check_mark: | | :white_check_mark: | |||
 |[http://nieuwenhuis.waterschaplimburg.nl](http://nieuwenhuis.waterschaplimburg.nl)| | **D**|| | | | | | :white_check_mark: | | :white_check_mark: | |||
 |[http://fiero.waterschaplimburg.nl](http://fiero.waterschaplimburg.nl)| | **D**|| | | | | | :white_check_mark: | | :white_check_mark: | |||
 |[http://gezondheid-overheid.waterschaplimburg.nl](http://gezondheid-overheid.waterschaplimburg.nl)| | **D**|| | | | | | :white_check_mark: | | :white_check_mark: | |||
@@ -2339,18 +2337,15 @@
 |[http://spam.waterschaplimburg.nl](http://spam.waterschaplimburg.nl)| | **D**|| | | | | | :white_check_mark: | | :white_check_mark: | |||
 |[http://2003.waterschaplimburg.nl](http://2003.waterschaplimburg.nl)| | **D**|| | | | | | :white_check_mark: | | :white_check_mark: | |||
 |[http://12345.waterschaplimburg.nl](http://12345.waterschaplimburg.nl)| | **D**|| | | | | | :white_check_mark: | | :white_check_mark: | |||
-|[http://api-b2b.waterschaplimburg.nl](http://api-b2b.waterschaplimburg.nl)| | **D**|| | | | | | :white_check_mark: | | :white_check_mark: | |||
 |[http://webmail.files.waterschaplimburg.nl](http://webmail.files.waterschaplimburg.nl)| | **D**|| | | | | | :white_check_mark: | | :white_check_mark: | |||
 |[http://3rdeye.waterschaplimburg.nl](http://3rdeye.waterschaplimburg.nl)| | **D**|| | | | | | :white_check_mark: | | :white_check_mark: | |||
 |[http://granger.waterschaplimburg.nl](http://granger.waterschaplimburg.nl)| | **D**|| | | | | | :white_check_mark: | | :white_check_mark: | |||
 |[http://bmsgs.waterschaplimburg.nl](http://bmsgs.waterschaplimburg.nl)| | **D**|| | | | | | :white_check_mark: | | :white_check_mark: | |||
-|[http://login-staging.waterschaplimburg.nl](http://login-staging.waterschaplimburg.nl)| | **D**|| | | | | | :white_check_mark: | | :white_check_mark: | |||
 |[http://static.dev.waterschaplimburg.nl](http://static.dev.waterschaplimburg.nl)| | **D**|| | | | | | :white_check_mark: | | :white_check_mark: | |||
 |[http://virtual.waterschaplimburg.nl](http://virtual.waterschaplimburg.nl)| | **D**|| | | | | | :white_check_mark: | | :white_check_mark: | |||
 |[http://intapi.waterschaplimburg.nl](http://intapi.waterschaplimburg.nl)| | **D**|| | | | | | :white_check_mark: | | :white_check_mark: | |||
 |[http://image.newsletter.waterschaplimburg.nl](http://image.newsletter.waterschaplimburg.nl)| | **D**|| | | | | | :white_check_mark: | | :white_check_mark: | |||
 |[http://relatiegeschenkenbedrukken.waterschaplimburg.nl](http://relatiegeschenkenbedrukken.waterschaplimburg.nl)| | **D**|| | | | | | :white_check_mark: | | :white_check_mark: | |||
-|[http://venonb1.solo.waterschaplimburg.nl](http://venonb1.solo.waterschaplimburg.nl)| | **D**|| | | | | | :white_check_mark: | | :white_check_mark: | |||
 |[http://ibu.waterschaplimburg.nl](http://ibu.waterschaplimburg.nl)| | **D**|| | | | | | :white_check_mark: | | :white_check_mark: | |||
 |[http://jinzhou.waterschaplimburg.nl](http://jinzhou.waterschaplimburg.nl)| | **D**|| | | | | | :white_check_mark: | | :white_check_mark: | |||
 |[http://devlin.waterschaplimburg.nl](http://devlin.waterschaplimburg.nl)| | **D**|| | | | | | :white_check_mark: | | :white_check_mark: | |||

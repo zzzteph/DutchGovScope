@@ -104,4 +104,5 @@ uat.flevoland.nl
 mbg-proxy.flevoland.nl
 gebouwbeheer.flevoland.nl
 res.flevoland.nl
+remote.flevoland.nl
 denkmee.flevoland.nl

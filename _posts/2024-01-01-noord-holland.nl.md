@@ -2,9 +2,9 @@
 layout: default
 title: "noord-holland.nl"
 permalink: "/dutchgov/noord-holland.nl.html"
-subdomains_count: 87
+subdomains_count: 85
 all_subdomains_count: 283
-urls_count: 60
+urls_count: 59
 ssl_rank: A-
 http_rank: B
 security_txt: 18
@@ -27,8 +27,8 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/noord-holland.nl/subdomains.txt)|87|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/noord-holland.nl/urls.txt)|60|Urls|
+|[subdomains.txt](/DutchGovScope/data/noord-holland.nl/subdomains.txt)|85|Alive subdomains|
+|[urls.txt](/DutchGovScope/data/noord-holland.nl/urls.txt)|59|Urls|
 |[all_subdomains.txt](/DutchGovScope/data/noord-holland.nl/all_subdomains.txt)|283|All found subdomains (history)|
 
 
@@ -40,7 +40,6 @@ tags: dutchgov
 |[https://mailings.noord-holland.nl](https://mailings.noord-holland.nl)| **A+**| **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Nginx||
 |[https://apollo4.noord-holland.nl](https://apollo4.noord-holland.nl)| **B**| **F**|awselb/2.0| | | | | | | | :white_check_mark: | |Amazon ELB Amazon Web Services|503 Service Temp...|
 |[https://subsidies.noord-holland.nl](https://subsidies.noord-holland.nl)| **A+**| **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
-|[http://zoeken.noord-holland.nl](http://zoeken.noord-holland.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://dataiku.noord-holland.nl](https://dataiku.noord-holland.nl)| **B**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |D3 HSTS NVD3 Nginx|Dataiku|
 |[https://esm.noord-holland.nl](https://esm.noord-holland.nl)| **A+**| **A**|cloudflare| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Cloudflare HSTS|Login|
 |[https://statensite.noord-holland.nl](https://statensite.noord-holland.nl)| **A+**| **A**||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Java||

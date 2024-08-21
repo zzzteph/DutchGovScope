@@ -18,3 +18,4 @@ a-opendata.deltaprogramma.nl
 a-www.deltaprogramma.nl
 a-english.deltaprogramma.nl
 a-feeds.a-english.deltaprogramma.nl
+dp2025.deltaprogramma.nl

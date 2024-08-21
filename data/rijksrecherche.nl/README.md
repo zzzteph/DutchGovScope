@@ -11,7 +11,7 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/rijksrecherche.nl/subdomains.txt)|14|Alive subdomains|
+|[subdomains.txt](/data/rijksrecherche.nl/subdomains.txt)|13|Alive subdomains|
 |[urls.txt](/data/rijksrecherche.nl/urls.txt)|8|Urls|
 |[all_subdomains.txt](/data/rijksrecherche.nl/all_subdomains.txt)|31|All found subdomains (history)|
 

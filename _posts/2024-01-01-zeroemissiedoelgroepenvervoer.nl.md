@@ -4,7 +4,7 @@ title: "zeroemissiedoelgroepenvervoer.nl"
 permalink: "/dutchgov/zeroemissiedoelgroepenvervoer.nl.html"
 subdomains_count: 9
 all_subdomains_count: 9
-urls_count: 6
+urls_count: 9
 ssl_rank: 
 http_rank: F
 security_txt: 0
@@ -28,7 +28,7 @@ tags: dutchgov
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/DutchGovScope/data/zeroemissiedoelgroepenvervoer.nl/subdomains.txt)|9|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/zeroemissiedoelgroepenvervoer.nl/urls.txt)|6|Urls|
+|[urls.txt](/DutchGovScope/data/zeroemissiedoelgroepenvervoer.nl/urls.txt)|9|Urls|
 |[all_subdomains.txt](/DutchGovScope/data/zeroemissiedoelgroepenvervoer.nl/all_subdomains.txt)|9|All found subdomains (history)|
 
 
@@ -43,4 +43,7 @@ tags: dutchgov
 |[https://accept.zeroemissiedoelgroepenvervoer.nl](https://accept.zeroemissiedoelgroepenvervoer.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|accept.zeroemiss...|
 |[https://www.accept.zeroemissiedoelgroepenvervoer.nl](https://www.accept.zeroemissiedoelgroepenvervoer.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|www.accept.zeroe...|
 |[https://www.test.zeroemissiedoelgroepenvervoer.nl](https://www.test.zeroemissiedoelgroepenvervoer.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|www.test.zeroemi...|
+|[https://hostmaster.zeroemissiedoelgroepenvervoer.nl](https://hostmaster.zeroemissiedoelgroepenvervoer.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|hostmaster.zeroe...|
+|[http://autodiscover.zeroemissiedoelgroepenvervoer.nl](http://autodiscover.zeroemissiedoelgroepenvervoer.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server||
+|[http://autoconfig.zeroemissiedoelgroepenvervoer.nl](http://autoconfig.zeroemissiedoelgroepenvervoer.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server||
 

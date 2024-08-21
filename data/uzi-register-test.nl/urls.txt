@@ -1,3 +1,4 @@
+https://www.uzi-register-test.nl
 http://ocsp.uzi-register-test.nl
 https://www.csp.uzi-register-test.nl
 https://uzi-register-test.nl

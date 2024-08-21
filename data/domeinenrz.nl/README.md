@@ -13,7 +13,7 @@
 |------------|-------|------|
 |[subdomains.txt](/data/domeinenrz.nl/subdomains.txt)|32|Alive subdomains|
 |[urls.txt](/data/domeinenrz.nl/urls.txt)|15|Urls|
-|[all_subdomains.txt](/data/domeinenrz.nl/all_subdomains.txt)|47|All found subdomains (history)|
+|[all_subdomains.txt](/data/domeinenrz.nl/all_subdomains.txt)|48|All found subdomains (history)|
 
 
 ## Statistics

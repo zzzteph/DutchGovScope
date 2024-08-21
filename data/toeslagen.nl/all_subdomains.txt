@@ -60,3 +60,4 @@ sharepoint.toeslagen.nl
 sign1.tst.toeslagen.nl
 werkenbij.toeslagen.nl
 schadeherstel.acc.toeslagen.nl
+schadeherstel.toeslagen.nl

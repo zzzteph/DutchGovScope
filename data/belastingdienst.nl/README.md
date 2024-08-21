@@ -6,13 +6,13 @@
 
  - **SSL Grade**:A-
  - **HTTP Security Grade**:C
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:52
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:50
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/belastingdienst.nl/subdomains.txt)|484|Alive subdomains|
-|[urls.txt](/data/belastingdienst.nl/urls.txt)|129|Urls|
+|[subdomains.txt](/data/belastingdienst.nl/subdomains.txt)|482|Alive subdomains|
+|[urls.txt](/data/belastingdienst.nl/urls.txt)|127|Urls|
 |[all_subdomains.txt](/data/belastingdienst.nl/all_subdomains.txt)|798|All found subdomains (history)|
 
 
@@ -63,8 +63,6 @@
 |[https://kennisnetwerk.belastingdienst.nl](https://kennisnetwerk.belastingdienst.nl)| **A**| **E**|| | | | | | | | :white_check_mark: | ||Request Rejected|
 |[https://le-webservices.belastingdienst.nl](https://le-webservices.belastingdienst.nl)| **A**| **E**|| | | | | | | | :white_check_mark: | |F5 BigIP|Toegang geblokke...|
 |[https://le-webservices-beta.belastingdienst.nl](https://le-webservices-beta.belastingdienst.nl)| **A**| **E**|| | | | | | | | :white_check_mark: | |F5 BigIP|Toegang geblokke...|
-|[https://leiderschap.belastingdienst.nl](https://leiderschap.belastingdienst.nl)| **A**| **A**|BigIP|:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |F5 BigIP||
-|[https://leiderschapp.belastingdienst.nl](https://leiderschapp.belastingdienst.nl)| **A**| **A**|BigIP|:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |F5 BigIP||
 |[https://mijn.belastingdienst.nl](https://mijn.belastingdienst.nl)| **A**| **A**|BigIP|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |F5 BigIP||
 |[https://mijndouane.belastingdienst.nl](https://mijndouane.belastingdienst.nl)| **A**| **A**|BigIP|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |F5 BigIP||
 |[https://mijnzakelijk.belastingdienst.nl](https://mijnzakelijk.belastingdienst.nl)| **A**| **A**|BigIP|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |F5 BigIP||

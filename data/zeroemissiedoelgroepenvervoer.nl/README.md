@@ -12,7 +12,7 @@
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/zeroemissiedoelgroepenvervoer.nl/subdomains.txt)|9|Alive subdomains|
-|[urls.txt](/data/zeroemissiedoelgroepenvervoer.nl/urls.txt)|6|Urls|
+|[urls.txt](/data/zeroemissiedoelgroepenvervoer.nl/urls.txt)|9|Urls|
 |[all_subdomains.txt](/data/zeroemissiedoelgroepenvervoer.nl/all_subdomains.txt)|9|All found subdomains (history)|
 
 
@@ -27,4 +27,7 @@
 |[https://accept.zeroemissiedoelgroepenvervoer.nl](https://accept.zeroemissiedoelgroepenvervoer.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|accept.zeroemiss...|
 |[https://www.accept.zeroemissiedoelgroepenvervoer.nl](https://www.accept.zeroemissiedoelgroepenvervoer.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|www.accept.zeroe...|
 |[https://www.test.zeroemissiedoelgroepenvervoer.nl](https://www.test.zeroemissiedoelgroepenvervoer.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|www.test.zeroemi...|
+|[https://hostmaster.zeroemissiedoelgroepenvervoer.nl](https://hostmaster.zeroemissiedoelgroepenvervoer.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|hostmaster.zeroe...|
+|[http://autodiscover.zeroemissiedoelgroepenvervoer.nl](http://autodiscover.zeroemissiedoelgroepenvervoer.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server||
+|[http://autoconfig.zeroemissiedoelgroepenvervoer.nl](http://autoconfig.zeroemissiedoelgroepenvervoer.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server||
 

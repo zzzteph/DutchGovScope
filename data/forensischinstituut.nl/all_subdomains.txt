@@ -35,3 +35,4 @@ opendata.english.forensischinstituut.nl
 magazinesintern.forensischinstituut.nl
 pop.forensischinstituut.nl
 test.forensischinstituut.nl
+www.magazines.forensischinstituut.nl

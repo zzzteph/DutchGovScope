@@ -12,8 +12,8 @@
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/pleio.nl/subdomains.txt)|7235|Alive subdomains|
-|[urls.txt](/data/pleio.nl/urls.txt)|7228|Urls|
-|[all_subdomains.txt](/data/pleio.nl/all_subdomains.txt)|7237|All found subdomains (history)|
+|[urls.txt](/data/pleio.nl/urls.txt)|7229|Urls|
+|[all_subdomains.txt](/data/pleio.nl/all_subdomains.txt)|7238|All found subdomains (history)|
 
 
 ## Statistics
@@ -7249,4 +7249,5 @@
 |[https://terwolde.pleio.nl](https://terwolde.pleio.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Domeinnaam nog n...|
 |[https://wuk.pleio.nl](https://wuk.pleio.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Domeinnaam nog n...|
 |[https://videobellen-jwt-only.pleio.nl](https://videobellen-jwt-only.pleio.nl)| | **C**|nginx/1.18.0 (Ubuntu)| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Nginx:1.18.0 Ubuntu|Jitsi Meet|
+|[https://pdfchecker.pleio.nl](https://pdfchecker.pleio.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS|404 Not Found|
 

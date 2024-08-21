@@ -6,7 +6,6 @@ autorisatie-preprod.brabant.nl
 autorisatie-prod.brabant.nl
 bevolkingsprognose.brabant.nl
 bevolkingsprognose2014.brabant.nl
-bevolkingsprognose2017.brabant.nl
 bevolkingsprognose2020.brabant.nl
 beeldbank-bo.brabant.nl
 beeldbank.brabant.nl

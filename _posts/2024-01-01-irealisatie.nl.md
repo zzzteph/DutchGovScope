@@ -4,10 +4,10 @@ title: "irealisatie.nl"
 permalink: "/dutchgov/irealisatie.nl.html"
 subdomains_count: 72
 all_subdomains_count: 72
-urls_count: 64
+urls_count: 65
 ssl_rank: 
 http_rank: B
-security_txt: 50
+security_txt: 51
 url_link: /data/irealisatie.nl/urls.txt
 all_subdomains_link: /data/irealisatie.nl/all_subdomains.txt
 subdomains_link: /data/irealisatie.nl/subdomains.txt
@@ -22,13 +22,13 @@ tags: dutchgov
 
  - **SSL Grade**:
  - **HTTP Security Grade**:B
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:50
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:51
 
 
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/DutchGovScope/data/irealisatie.nl/subdomains.txt)|72|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/irealisatie.nl/urls.txt)|64|Urls|
+|[urls.txt](/DutchGovScope/data/irealisatie.nl/urls.txt)|65|Urls|
 |[all_subdomains.txt](/DutchGovScope/data/irealisatie.nl/all_subdomains.txt)|72|All found subdomains (history)|
 
 
@@ -90,9 +90,9 @@ tags: dutchgov
 |[https://stats.acc.mgo.irealisatie.nl](https://stats.acc.mgo.irealisatie.nl)| | **B**|Apache| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server Basic HSTS|401 Unauthorized|
 |[https://web.acc.mgo.irealisatie.nl](https://web.acc.mgo.irealisatie.nl)| | **A**|Apache| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |Apache HTTP Server Basic HSTS|401 Unauthorized|
 |[https://app-api.acc.mgo.irealisatie.nl](https://app-api.acc.mgo.irealisatie.nl)| | **A**|Apache| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS||
-|[https://max.acc.mgo.irealisatie.nl](https://max.acc.mgo.irealisatie.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||
+|[https://max.acc.mgo.irealisatie.nl](https://max.acc.mgo.irealisatie.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS||
 |[https://lo-ad.acc.mgo.irealisatie.nl](https://lo-ad.acc.mgo.irealisatie.nl)| | **A**|| |:white_check_mark: | :warning:| | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS||
-|[http://dva.acc.mgo.irealisatie.nl](http://dva.acc.mgo.irealisatie.nl)| | **A**|| |:white_check_mark: | :warning:| | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS||
+|[https://dva.acc.mgo.irealisatie.nl](https://dva.acc.mgo.irealisatie.nl)| | **A**|| |:white_check_mark: | :warning:| | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS||
 |[https://nextcloud.acc.irealisatie.nl](https://nextcloud.acc.irealisatie.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nextcloud PHP||
 |[https://cts.test.woo.irealisatie.nl](https://cts.test.woo.irealisatie.nl)| | **B**|Apache| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server Basic HSTS|401 Unauthorized|
 |[https://mailcatch.test.woo.irealisatie.nl](https://mailcatch.test.woo.irealisatie.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Basic HSTS|401 Unauthorized|
@@ -101,4 +101,5 @@ tags: dutchgov
 |[https://qualification-admin.test.zm.irealisatie.nl](https://qualification-admin.test.zm.irealisatie.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |Basic HSTS|401 Unauthorized|
 |[https://qualification-api.test.zm.irealisatie.nl](https://qualification-api.test.zm.irealisatie.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |Basic HSTS|401 Unauthorized|
 |[https://cts.acc.woo.irealisatie.nl](https://cts.acc.woo.irealisatie.nl)| | **B**|Apache| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server Basic HSTS|401 Unauthorized|
+|[https://stats.test.zm.irealisatie.nl](https://stats.test.zm.irealisatie.nl)| | **B**|Apache| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server Basic HSTS|401 Unauthorized|
 

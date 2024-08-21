@@ -1,7 +1,6 @@
 https://mailings.noord-holland.nl
 https://apollo4.noord-holland.nl
 https://subsidies.noord-holland.nl
-http://zoeken.noord-holland.nl
 https://dataiku.noord-holland.nl
 https://esm.noord-holland.nl
 https://statensite.noord-holland.nl

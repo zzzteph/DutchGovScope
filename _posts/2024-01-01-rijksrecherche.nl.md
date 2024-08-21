@@ -2,7 +2,7 @@
 layout: default
 title: "rijksrecherche.nl"
 permalink: "/dutchgov/rijksrecherche.nl.html"
-subdomains_count: 14
+subdomains_count: 13
 all_subdomains_count: 31
 urls_count: 8
 ssl_rank: C
@@ -27,7 +27,7 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/rijksrecherche.nl/subdomains.txt)|14|Alive subdomains|
+|[subdomains.txt](/DutchGovScope/data/rijksrecherche.nl/subdomains.txt)|13|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/rijksrecherche.nl/urls.txt)|8|Urls|
 |[all_subdomains.txt](/DutchGovScope/data/rijksrecherche.nl/all_subdomains.txt)|31|All found subdomains (history)|
 

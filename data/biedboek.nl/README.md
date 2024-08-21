@@ -12,8 +12,8 @@
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/biedboek.nl/subdomains.txt)|6289|Alive subdomains|
-|[urls.txt](/data/biedboek.nl/urls.txt)|3502|Urls|
-|[all_subdomains.txt](/data/biedboek.nl/all_subdomains.txt)|6301|All found subdomains (history)|
+|[urls.txt](/data/biedboek.nl/urls.txt)|3505|Urls|
+|[all_subdomains.txt](/data/biedboek.nl/all_subdomains.txt)|6303|All found subdomains (history)|
 
 
 ## Statistics
@@ -3523,4 +3523,7 @@
 |[https://clink.biedboek.nl](https://clink.biedboek.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Microsoft Azure...|
 |[https://printers.biedboek.nl](https://printers.biedboek.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Microsoft Azure...|
 |[https://te-koop-vuurtoren-vraagprijs-18000-euro-12635546-a162058www.biedboek.nl](https://te-koop-vuurtoren-vraagprijs-18000-euro-12635546-a162058www.biedboek.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Microsoft Azure...|
+|[https://153.biedboek.nl](https://153.biedboek.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Microsoft Azure...|
+|[https://dwangsom-voor-park-brederodewww.biedboek.nl](https://dwangsom-voor-park-brederodewww.biedboek.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Microsoft Azure...|
+|[https://www.energieoprijksgrond.nlwww.biedboek.nl](https://www.energieoprijksgrond.nlwww.biedboek.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Microsoft Azure...|
 

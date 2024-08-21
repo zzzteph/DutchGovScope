@@ -2,12 +2,12 @@
 layout: default
 title: "belastingdienst.nl"
 permalink: "/dutchgov/belastingdienst.nl.html"
-subdomains_count: 484
+subdomains_count: 482
 all_subdomains_count: 798
-urls_count: 129
+urls_count: 127
 ssl_rank: A-
 http_rank: C
-security_txt: 52
+security_txt: 50
 url_link: /data/belastingdienst.nl/urls.txt
 all_subdomains_link: /data/belastingdienst.nl/all_subdomains.txt
 subdomains_link: /data/belastingdienst.nl/subdomains.txt
@@ -22,13 +22,13 @@ tags: dutchgov
 
  - **SSL Grade**:A-
  - **HTTP Security Grade**:C
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:52
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:50
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/belastingdienst.nl/subdomains.txt)|484|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/belastingdienst.nl/urls.txt)|129|Urls|
+|[subdomains.txt](/DutchGovScope/data/belastingdienst.nl/subdomains.txt)|482|Alive subdomains|
+|[urls.txt](/DutchGovScope/data/belastingdienst.nl/urls.txt)|127|Urls|
 |[all_subdomains.txt](/DutchGovScope/data/belastingdienst.nl/all_subdomains.txt)|798|All found subdomains (history)|
 
 
@@ -79,8 +79,6 @@ tags: dutchgov
 |[https://kennisnetwerk.belastingdienst.nl](https://kennisnetwerk.belastingdienst.nl)| **A**| **E**|| | | | | | | | :white_check_mark: | ||Request Rejected|
 |[https://le-webservices.belastingdienst.nl](https://le-webservices.belastingdienst.nl)| **A**| **E**|| | | | | | | | :white_check_mark: | |F5 BigIP|Toegang geblokke...|
 |[https://le-webservices-beta.belastingdienst.nl](https://le-webservices-beta.belastingdienst.nl)| **A**| **E**|| | | | | | | | :white_check_mark: | |F5 BigIP|Toegang geblokke...|
-|[https://leiderschap.belastingdienst.nl](https://leiderschap.belastingdienst.nl)| **A**| **A**|BigIP|:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |F5 BigIP||
-|[https://leiderschapp.belastingdienst.nl](https://leiderschapp.belastingdienst.nl)| **A**| **A**|BigIP|:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |F5 BigIP||
 |[https://mijn.belastingdienst.nl](https://mijn.belastingdienst.nl)| **A**| **A**|BigIP|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |F5 BigIP||
 |[https://mijndouane.belastingdienst.nl](https://mijndouane.belastingdienst.nl)| **A**| **A**|BigIP|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |F5 BigIP||
 |[https://mijnzakelijk.belastingdienst.nl](https://mijnzakelijk.belastingdienst.nl)| **A**| **A**|BigIP|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |F5 BigIP||

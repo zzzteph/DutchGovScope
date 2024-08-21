@@ -2,7 +2,6 @@ mailings.noord-holland.nl
 apollo4.noord-holland.nl
 subsidies.noord-holland.nl
 meet.noord-holland.nl
-zoeken.noord-holland.nl
 dataiku.noord-holland.nl
 esm.noord-holland.nl
 statensite.noord-holland.nl
@@ -36,7 +35,6 @@ bestanden.noord-holland.nl
 kennisportaalovk.noord-holland.nl
 mijnsubsidie.noord-holland.nl
 www.noord-holland.nl
-sta.noord-holland.nl
 geoservices.noord-holland.nl
 geoservices4.noord-holland.nl
 noord-holland.nl

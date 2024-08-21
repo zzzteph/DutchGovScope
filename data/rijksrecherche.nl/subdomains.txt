@@ -11,4 +11,3 @@ a-opendata.rijksrecherche.nl
 a-www.rijksrecherche.nl
 access.rijksrecherche.nl
 conf.rijksrecherche.nl
-redactie.rijksrecherche.nl

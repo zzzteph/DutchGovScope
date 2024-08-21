@@ -40,8 +40,6 @@ https://kennisgroepen.belastingdienst.nl
 https://kennisnetwerk.belastingdienst.nl
 https://le-webservices.belastingdienst.nl
 https://le-webservices-beta.belastingdienst.nl
-https://leiderschap.belastingdienst.nl
-https://leiderschapp.belastingdienst.nl
 https://mijn.belastingdienst.nl
 https://mijndouane.belastingdienst.nl
 https://mijnzakelijk.belastingdienst.nl
