@@ -22,7 +22,7 @@
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[https://aanmelden.brba.nl](https://aanmelden.brba.nl)| **A+**| **B**|Apache|:warning: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
-|[https://aanmelden.acc.brba.nl](https://aanmelden.acc.brba.nl)| **A+**| **B**||:warning: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS|BRBA|
+|[http://aanmelden.acc.brba.nl](http://aanmelden.acc.brba.nl)| **A+**| **B**||:warning: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS||
 |[https://helpdesk.brba.nl](https://helpdesk.brba.nl)| **A+**| **A**|| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS||
 |[http://keiko.brba.nl](http://keiko.brba.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[http://uzi.brba.nl](http://uzi.brba.nl)| **A**| **E**|| | | | | | | | :white_check_mark: | |||
@@ -34,6 +34,6 @@
 |[https://web.acc.brba.nl](https://web.acc.brba.nl)| **A+**| **B**||:warning: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS|Redirecting to h...|
 |[https://web.test.brba.nl](https://web.test.brba.nl)| **A**| **B**||:warning: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS|Redirecting to h...|
 |[https://www.brba.nl](https://www.brba.nl)| **A+**| **B**||:warning: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS|Redirecting to h...|
-|[https://aanmelden.test.brba.nl](https://aanmelden.test.brba.nl)| | **B**||:warning: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS|BRBA|
+|[http://aanmelden.test.brba.nl](http://aanmelden.test.brba.nl)| | **B**||:warning: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS||
 |[https://brba.nl](https://brba.nl)| **A+**| **B**||:warning: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS|Redirecting to h...|
 

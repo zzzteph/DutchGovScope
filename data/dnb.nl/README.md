@@ -11,9 +11,9 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/dnb.nl/subdomains.txt)|180|Alive subdomains|
-|[urls.txt](/data/dnb.nl/urls.txt)|125|Urls|
-|[all_subdomains.txt](/data/dnb.nl/all_subdomains.txt)|311|All found subdomains (history)|
+|[subdomains.txt](/data/dnb.nl/subdomains.txt)|182|Alive subdomains|
+|[urls.txt](/data/dnb.nl/urls.txt)|126|Urls|
+|[all_subdomains.txt](/data/dnb.nl/all_subdomains.txt)|312|All found subdomains (history)|
 
 
 ## Statistics
@@ -125,6 +125,7 @@
 |[https://apps.sharepoint.dnb.nl](https://apps.sharepoint.dnb.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://enterpriseenrollment.dnb.nl](https://enterpriseenrollment.dnb.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||
 |[http://mediaportal.dnb.nl](http://mediaportal.dnb.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |||
+|[https://mijnresolutie-tst.azure.dnb.nl](https://mijnresolutie-tst.azure.dnb.nl)| | **E**|| | | | | | | | :white_check_mark: | |Bootstrap:5.2.3|Azure Static Web...|
 |[https://sftp.dnb.nl](https://sftp.dnb.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0||
 |[https://rmdm-beheerapp-dev.azure.dnb.nl](https://rmdm-beheerapp-dev.azure.dnb.nl)| | **E**|| | | | | | | | :white_check_mark: | |Bootstrap:5.2.3|Azure Static Web...|
 |[https://rmdm-beheerapp-tst.azure.dnb.nl](https://rmdm-beheerapp-tst.azure.dnb.nl)| | **E**|| | | | | | | | :white_check_mark: | |Bootstrap:5.2.3|Azure Static Web...|

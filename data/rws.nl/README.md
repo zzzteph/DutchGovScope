@@ -11,8 +11,8 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/rws.nl/subdomains.txt)|258|Alive subdomains|
-|[urls.txt](/data/rws.nl/urls.txt)|169|Urls|
+|[subdomains.txt](/data/rws.nl/subdomains.txt)|260|Alive subdomains|
+|[urls.txt](/data/rws.nl/urls.txt)|168|Urls|
 |[all_subdomains.txt](/data/rws.nl/all_subdomains.txt)|1198|All found subdomains (history)|
 
 
@@ -145,7 +145,6 @@
 |[https://waterinfo.rws.nl](https://waterinfo.rws.nl)| **A**| **B**|Microsoft-IIS/10.0| |:white_check_mark: | | |:warning: | | | :white_check_mark: | |HSTS IIS:10.0 Microsoft ASP.NET Windows Server|Rijkswaterstaat...|
 |[https://waterinfo-extra.rws.nl](https://waterinfo-extra.rws.nl)| **A+**| **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:-|Home - Waterinfo...|
 |[https://webhook-teams.rws.nl](https://webhook-teams.rws.nl)| **F**| **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET||
-|[http://webmail.rws.nl](http://webmail.rws.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://werkenbij.rws.nl](https://werkenbij.rws.nl)| **A**| **C**|Microsoft-Azure-Application-Gateway/v2|:warning: |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | ||301 Moved Perman...|
 |[https://werkplek.rws.nl](https://werkplek.rws.nl)| **A+**| **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS||
 |[https://werkplek-poc.rws.nl](https://werkplek-poc.rws.nl)| **A+**| **C**||:warning: |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET||

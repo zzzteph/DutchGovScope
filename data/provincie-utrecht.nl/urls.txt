@@ -66,7 +66,7 @@ https://ruimtelijkeplannenintern.provincie-utrecht.nl
 https://itop.provincie-utrecht.nl
 https://ruimtelijkeplannen.provincie-utrecht.nl
 https://omgevingswet.provincie-utrecht.nl
-http://monitorklimaatadaptatie.provincie-utrecht.nl
+https://monitorklimaatadaptatie.provincie-utrecht.nl
 https://sslvpn-hth.provincie-utrecht.nl
 https://search.provincie-utrecht.nl
 https://search-a.provincie-utrecht.nl
@@ -80,7 +80,6 @@ https://octopus.provincie-utrecht.nl
 https://erfgoedexpertteam.provincie-utrecht.nl
 https://monitoromgevingsbeleid.provincie-utrecht.nl
 https://omgevingsbeleid.provincie-utrecht.nl
-https://zsd.provincie-utrecht.nl
 https://ib.provincie-utrecht.nl
 https://govroam.provincie-utrecht.nl
 https://iapp.provincie-utrecht.nl

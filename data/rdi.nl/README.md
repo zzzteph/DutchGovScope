@@ -28,7 +28,7 @@
 |[https://appl.rdi.nl](https://appl.rdi.nl)| **F**| **E**|| | | | | | | | :white_check_mark: | |||
 |[https://infoportal.rdi.nl](https://infoportal.rdi.nl)| **A+**| **A**|Apache|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS||
 |[https://magazines.rdi.nl](https://magazines.rdi.nl)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Magazines | Rijk...|
-|[https://mijn.rdi.nl](https://mijn.rdi.nl)| **A+**| **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS Java||
+|[https://mijn.rdi.nl](https://mijn.rdi.nl)| **A+**| **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Java||
 |[https://identificatie.rdi.nl](https://identificatie.rdi.nl)| **A+**| **C**||:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
 |[https://radar.rdi.nl](https://radar.rdi.nl)| **A+**| **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Nginx|403 Forbidden|
 |[https://rdi.nl](https://rdi.nl)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|

@@ -6,14 +6,14 @@
 
  - **SSL Grade**:A-
  - **HTTP Security Grade**:E
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:11378
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:11561
 
 
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/mett.nl/subdomains.txt)|37878|Alive subdomains|
 |[urls.txt](/data/mett.nl/urls.txt)|31360|Urls|
-|[all_subdomains.txt](/data/mett.nl/all_subdomains.txt)|39928|All found subdomains (history)|
+|[all_subdomains.txt](/data/mett.nl/all_subdomains.txt)|41731|All found subdomains (history)|
 
 
 ## Statistics
@@ -2322,7 +2322,7 @@
 |[http://wegwijzeraquathermie.mett.nl](http://wegwijzeraquathermie.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET||
 |[http://zichtopnl.mett.nl](http://zichtopnl.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET||
 |[http://timpaan.mett.nl](http://timpaan.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||
-|[http://iis01.mett.nl](http://iis01.mett.nl)| | **A**|Microsoft-IIS/10.0| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server|Object moved|
+|[http://iis01.mett.nl](http://iis01.mett.nl)| | **F**|Microsoft-IIS/8.5| | | | | | | | :white_check_mark: | |IIS:8.5 Windows Server|403 - Forbidden:...|
 |[https://nestedcomments.mett.nl](https://nestedcomments.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Probleem aangetr...|
 |[http://seo-teksten.mett.nl](http://seo-teksten.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[http://stotteren.mett.nl](http://stotteren.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | |||

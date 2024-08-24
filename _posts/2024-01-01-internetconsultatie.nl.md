@@ -4,9 +4,9 @@ title: "internetconsultatie.nl"
 permalink: "/dutchgov/internetconsultatie.nl.html"
 subdomains_count: 7
 all_subdomains_count: 10
-urls_count: 4
+urls_count: 6
 ssl_rank: B+
-http_rank: A
+http_rank: B
 security_txt: 1
 url_link: /data/internetconsultatie.nl/urls.txt
 all_subdomains_link: /data/internetconsultatie.nl/all_subdomains.txt
@@ -21,14 +21,14 @@ tags: dutchgov
 
 
  - **SSL Grade**:B+
- - **HTTP Security Grade**:A
+ - **HTTP Security Grade**:B
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:1
 
 
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/DutchGovScope/data/internetconsultatie.nl/subdomains.txt)|7|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/internetconsultatie.nl/urls.txt)|4|Urls|
+|[urls.txt](/DutchGovScope/data/internetconsultatie.nl/urls.txt)|6|Urls|
 |[all_subdomains.txt](/DutchGovScope/data/internetconsultatie.nl/all_subdomains.txt)|10|All found subdomains (history)|
 
 
@@ -41,4 +41,6 @@ tags: dutchgov
 |[https://cma.internetconsultatie.nl](https://cma.internetconsultatie.nl)| **A+**| **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Object moved|
 |[https://www.internetconsultatie.nl](https://www.internetconsultatie.nl)| **A+**| **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET|Overheid.nl | Co...|
 |[https://internetconsultatie.nl](https://internetconsultatie.nl)| **A+**| **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET|Overheid.nl | Co...|
+|[https://www-acc.internetconsultatie.nl](https://www-acc.internetconsultatie.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|403 - Forbidden:...|
+|[https://cma-acc.internetconsultatie.nl](https://cma-acc.internetconsultatie.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS|Object moved|
 

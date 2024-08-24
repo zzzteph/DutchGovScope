@@ -23,7 +23,7 @@
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[https://abx02.sitearchief.nl](https://abx02.sitearchief.nl)| **A+**| **A**|nginx|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx|Archiefweb|
 |[https://www.sitearchief.nl](https://www.sitearchief.nl)| **A+**| **C**|nginx|:white_check_mark: |:white_check_mark: | :warning:| | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS MySQL Nginx PHP WordPress|Overzicht Sitear...|
-|[https://sitearchief.nl](https://sitearchief.nl)| **A+**| **C**|nginx|:white_check_mark: |:white_check_mark: | :warning:| | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS MySQL Nginx PHP WordPress|Overzicht Sitear...|
+|[https://sitearchief.nl](https://sitearchief.nl)| **A+**| **C**|nginx|:white_check_mark: |:white_check_mark: | :warning:| | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Nginx|301 Moved Perman...|
 |[https://archief28.sitearchief.nl](https://archief28.sitearchief.nl)| | **B**|nginx/1.25.5| |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | |HSTS Nginx:1.25.5|HTTP Status 404...|
 |[https://defensie.sitearchief.nl](https://defensie.sitearchief.nl)| | **A**|nginx|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx|Sitearchief - De...|
 |[https://minaz.sitearchief.nl](https://minaz.sitearchief.nl)| | **A**|nginx|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx|Sitearchief - Mi...|
@@ -45,7 +45,7 @@
 |[https://nationaalarchief.sitearchief.nl](https://nationaalarchief.sitearchief.nl)| | **A**|nginx|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx|Sitearchief - Na...|
 |[https://om.sitearchief.nl](https://om.sitearchief.nl)| | **A**|nginx|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx|Sitearchief - Op...|
 |[https://archief23.sitearchief.nl](https://archief23.sitearchief.nl)| | **B**|nginx/1.25.5| |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | |HSTS Nginx:1.25.5|HTTP Status 404...|
-|[http://archief29.sitearchief.nl](http://archief29.sitearchief.nl)| | **B**|nginx/1.25.5| |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | |HSTS Nginx:1.25.5|HTTP Status 404...|
+|[https://archief29.sitearchief.nl](https://archief29.sitearchief.nl)| | **B**|nginx/1.25.5| |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | |HSTS Nginx:1.25.5|HTTP Status 404...|
 |[https://archief31.sitearchief.nl](https://archief31.sitearchief.nl)| | **B**|nginx/1.25.5| |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | |HSTS Nginx:1.25.5|HTTP Status 404...|
 |[https://archief44.sitearchief.nl](https://archief44.sitearchief.nl)| | **B**|nginx/1.25.5| |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | |HSTS Nginx:1.25.5|HTTP Status 404...|
 |[https://nvwa.sitearchief.nl](https://nvwa.sitearchief.nl)| | **A**|nginx|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx|Sitearchief - NV...|

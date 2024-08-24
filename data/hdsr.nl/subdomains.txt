@@ -1,7 +1,6 @@
 werkplek.hdsr.nl
 zaaksysteem.hdsr.nl
 ftp-hdsr.hdsr.nl
-loket-acc.hdsr.nl
 webdiensten.hdsr.nl
 cawfirewall.hdsr.nl
 testbegrippen.hdsr.nl
@@ -15,10 +14,10 @@ www.hdsr.nl
 testkennis.hdsr.nl
 www1.hdsr.nl
 kennis.hdsr.nl
-kaarten.hdsr.nl
 begrippen.hdsr.nl
 zaaksysteem-acc.hdsr.nl
 zoeken.hdsr.nl
+uconnect-acc.hdsr.nl
 wsus.hdsr.nl
 remote-pa.hdsr.nl
 geoservices.hdsr.nl

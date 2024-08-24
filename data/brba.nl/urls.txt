@@ -1,5 +1,5 @@
 https://aanmelden.brba.nl
-https://aanmelden.acc.brba.nl
+http://aanmelden.acc.brba.nl
 https://helpdesk.brba.nl
 http://keiko.brba.nl
 http://uzi.brba.nl
@@ -11,5 +11,5 @@ https://viep.test.brba.nl
 https://web.acc.brba.nl
 https://web.test.brba.nl
 https://www.brba.nl
-https://aanmelden.test.brba.nl
+http://aanmelden.test.brba.nl
 https://brba.nl

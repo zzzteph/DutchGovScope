@@ -12,10 +12,10 @@ http://autodiscover.hdsr.nl
 https://www.hdsr.nl
 https://testkennis.hdsr.nl
 https://kennis.hdsr.nl
-https://kaarten.hdsr.nl
 https://begrippen.hdsr.nl
 https://zaaksysteem-acc.hdsr.nl
 http://zoeken.hdsr.nl
+https://uconnect-acc.hdsr.nl
 https://wsus.hdsr.nl
 https://geoservices.hdsr.nl
 https://hdsr.nl

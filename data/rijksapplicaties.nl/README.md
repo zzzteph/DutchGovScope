@@ -11,9 +11,9 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/rijksapplicaties.nl/subdomains.txt)|267|Alive subdomains|
+|[subdomains.txt](/data/rijksapplicaties.nl/subdomains.txt)|271|Alive subdomains|
 |[urls.txt](/data/rijksapplicaties.nl/urls.txt)|230|Urls|
-|[all_subdomains.txt](/data/rijksapplicaties.nl/all_subdomains.txt)|374|All found subdomains (history)|
+|[all_subdomains.txt](/data/rijksapplicaties.nl/all_subdomains.txt)|375|All found subdomains (history)|
 
 
 ## Statistics
@@ -168,7 +168,7 @@
 |[https://rijksevents-ienw.rijksapplicaties.nl](https://rijksevents-ienw.rijksapplicaties.nl)| **A+**| **C**|nginx|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS Nginx||
 |[https://kda.rijksapplicaties.nl](https://kda.rijksapplicaties.nl)| **A+**| **C**|nginx|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS Nginx||
 |[https://rijksevents-ienw.staging.rijksapplicaties.nl](https://rijksevents-ienw.staging.rijksapplicaties.nl)| **A+**| **C**|nginx|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS Nginx||
-|[https://rvb-vmr.rijksapplicaties.nl](https://rvb-vmr.rijksapplicaties.nl)| **A+**| **C**|nginx|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS Nginx||
+|[https://rvb-vmr.rijksapplicaties.nl](https://rvb-vmr.rijksapplicaties.nl)| **A+**| **E**|nginx| | | | |:warning: | | | :white_check_mark: | |Nginx||
 |[https://rvbvba.staging.rijksapplicaties.nl](https://rvbvba.staging.rijksapplicaties.nl)| **A+**| **C**|nginx|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS Nginx||
 |[https://ov-kaarten.rijksapplicaties.nl](https://ov-kaarten.rijksapplicaties.nl)| **A+**| **C**|nginx|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS Nginx||
 |[https://ov-kaarten.staging.rijksapplicaties.nl](https://ov-kaarten.staging.rijksapplicaties.nl)| **A+**| **C**|nginx|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS Nginx||
@@ -212,7 +212,7 @@
 |[https://wps.rijksapplicaties.nl](https://wps.rijksapplicaties.nl)| **A+**| **C**|nginx|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS Nginx||
 |[https://wps.staging.rijksapplicaties.nl](https://wps.staging.rijksapplicaties.nl)| **A+**| **C**|nginx|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS Nginx||
 |[https://kwiv.staging.rijksapplicaties.nl](https://kwiv.staging.rijksapplicaties.nl)| **A+**| **C**|nginx|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS Microsoft ASP.NET Nginx|Kwaliteitsraamwe...|
-|[https://rvb-vmr.staging.rijksapplicaties.nl](https://rvb-vmr.staging.rijksapplicaties.nl)| **A+**| **C**|nginx|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS Nginx||
+|[https://rvb-vmr.staging.rijksapplicaties.nl](https://rvb-vmr.staging.rijksapplicaties.nl)| **A+**| **F**|nginx| | | | | | | | :white_check_mark: | |Nginx||
 |[https://rvb-bcr.staging.rijksapplicaties.nl](https://rvb-bcr.staging.rijksapplicaties.nl)| **A+**| **C**|nginx|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS Nginx||
 |[https://staging.rijksapplicaties.nl](https://staging.rijksapplicaties.nl)| **A**| **F**|nginx| | | | | | | | :white_check_mark: | |Nginx||
 |[http://ufp-webservice.rijksapplicaties.nl](http://ufp-webservice.rijksapplicaties.nl)| **A**| **E**|| | | | | | | | :white_check_mark: | ||302 Found|

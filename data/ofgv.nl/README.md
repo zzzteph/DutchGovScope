@@ -25,7 +25,7 @@
 |[https://www.ofgv.nl](https://www.ofgv.nl)| **A**| **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:-|OFGV - Omgevings...|
 |[https://ofgv.nl](https://ofgv.nl)| **A**| **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:-|Object moved|
 |[https://webmail.ofgv.nl](https://webmail.ofgv.nl)| **F**| **F**|Microsoft-IIS/10.0| | | | | | | | :white_check_mark: | |HSTS HTTP/3 IIS:10.0 Microsoft ASP.NET Windows Server||
-|[http://autodiscover.ofgv.nl](http://autodiscover.ofgv.nl)| | **B**|Microsoft-IIS/10.0|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server||
+|[http://autodiscover.ofgv.nl](http://autodiscover.ofgv.nl)| | **C**|Microsoft-IIS/10.0| |:white_check_mark: | | | | | | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server||
 |[https://redactie.ofgv.nl](https://redactie.ofgv.nl)| **A**| **A**|-|:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:-|Object moved|
 |[https://enterpriseenrollment.ofgv.nl](https://enterpriseenrollment.ofgv.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||
 |[https://enterpriseregistration.ofgv.nl](https://enterpriseregistration.ofgv.nl)| | **E**|| | | | | | | | :white_check_mark: | |||

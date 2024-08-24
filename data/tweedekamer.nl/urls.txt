@@ -15,6 +15,7 @@ https://houseofrepresentatives.acceptatie.tweedekamer.nl
 https://gegevensmagazijn.tweedekamer.nl
 https://debatdirect.tweedekamer.nl
 https://rapportaardgaswinning.tweedekamer.nl
+https://ext02.videovergaderen.tweedekamer.nl
 https://opendata.tweedekamer.nl
 https://stats.debatdirect.tweedekamer.nl
 https://livestreaming-thumb.b67bu.tweedekamer.nl
@@ -129,3 +130,4 @@ https://avgregister.tweedekamer.nl
 https://b67.tweedekamer.nl
 https://hollandfit.tweedekamer.nl
 https://bibliotheek.tweedekamer.nl
+https://bibliotheek-test.tweedekamer.nl

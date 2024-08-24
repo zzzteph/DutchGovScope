@@ -1,6 +1,5 @@
 https://acc.poraad.nl
 http://autodiscover.poraad.nl
-https://cijfers.poraad.nl
 https://cijfers-acc.poraad.nl
 https://manometer.poraad.nl
 https://sectorrapportage.poraad.nl

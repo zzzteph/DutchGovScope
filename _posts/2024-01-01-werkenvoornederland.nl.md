@@ -39,7 +39,7 @@ tags: dutchgov
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[https://csoacct.werkenvoornederland.nl](https://csoacct.werkenvoornederland.nl)| **A+**| **D**|cloudflare|:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | |Basic Cloudflare HSTS|Authentication R...|
 |[https://csotest.werkenvoornederland.nl](https://csotest.werkenvoornederland.nl)| | **D**|cloudflare|:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | |Basic Cloudflare HSTS|Authentication R...|
-|[http://financials.werkenvoornederland.nl](http://financials.werkenvoornederland.nl)| | **A**||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |||
+|[https://financials.werkenvoornederland.nl](https://financials.werkenvoornederland.nl)| | **A**||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|301 Moved Perman...|
 |[https://formulier.werkenvoornederland.nl](https://formulier.werkenvoornederland.nl)| **A+**| **C**|Spotler| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
 |[http://helpdesk.werkenvoornederland.nl](http://helpdesk.werkenvoornederland.nl)| | **A**||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |||
 |[http://ict-ers.werkenvoornederland.nl](http://ict-ers.werkenvoornederland.nl)| | **A**||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |||

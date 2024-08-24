@@ -1,5 +1,5 @@
 https://staging.bdmuseum.nl
-https://tickets.bdmuseum.nl
+http://tickets.bdmuseum.nl
 https://www.bdmuseum.nl
 https://www.bdreauconseilw.bdmuseum.nl
 https://www.staging.bdmuseum.nl

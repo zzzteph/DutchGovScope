@@ -7,7 +7,7 @@ all_subdomains_count: 11
 urls_count: 7
 ssl_rank: C
 http_rank: E
-security_txt: 2
+security_txt: 3
 url_link: /data/opwegnaarseb.nl/urls.txt
 all_subdomains_link: /data/opwegnaarseb.nl/all_subdomains.txt
 subdomains_link: /data/opwegnaarseb.nl/subdomains.txt
@@ -22,7 +22,7 @@ tags: dutchgov
 
  - **SSL Grade**:C
  - **HTTP Security Grade**:E
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:2
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:3
 
 
 | File       | Count | Info |
@@ -41,7 +41,7 @@ tags: dutchgov
 |[https://cpanel.opwegnaarseb.nl](https://cpanel.opwegnaarseb.nl)| **F**| **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server cPanel|cPanel Login|
 |[https://e-learning.opwegnaarseb.nl](https://e-learning.opwegnaarseb.nl)| **A**| **F**|Microsoft-IIS/10.0| | | | | | | | :white_check_mark: | |IIS:10.0 Windows Server|403 - Forbidden:...|
 |[https://mail.opwegnaarseb.nl](https://mail.opwegnaarseb.nl)| **F**| **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|Index of /|
-|[https://webmail.opwegnaarseb.nl](https://webmail.opwegnaarseb.nl)| **F**| **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|Webmail Login|
+|[https://webmail.opwegnaarseb.nl](https://webmail.opwegnaarseb.nl)| **F**| **F**|Apache|:white_check_mark: | | | | | | | :white_check_mark: | |Apache HTTP Server|Webmail Login|
 |[https://www.opwegnaarseb.nl](https://www.opwegnaarseb.nl)| **A**| **C**|nginx/1.27.0| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Nginx:1.27.0|SEB|
 |[https://opwegnaarseb.nl](https://opwegnaarseb.nl)| **A**| **C**|nginx/1.27.0| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Nginx:1.27.0|SEB|
 

@@ -23,7 +23,6 @@ https://mijnwmo-siam.svb.nl
 https://assyst-a.svb.nl
 https://pers.svb.nl
 https://assyst-t.svb.nl
-https://sts.svb.nl
 https://pages.svb.nl
 https://rdsapplications06.svb.nl
 https://mijnpgb.svb.nl

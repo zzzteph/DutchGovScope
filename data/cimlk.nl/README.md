@@ -21,7 +21,7 @@
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://cimlk.nl](https://cimlk.nl)| **A**| **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | ||308 Permanent Re...|
+|[https://cimlk.nl](https://cimlk.nl)| **A**| **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS|301 Moved Perman...|
 |[https://www.cimlk.nl](https://www.cimlk.nl)| **A+**| **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS|Centraal Instrum...|
 |[https://acc.cimlk.nl](https://acc.cimlk.nl)| **A+**| **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS|Centraal Instrum...|
 

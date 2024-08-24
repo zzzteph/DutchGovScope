@@ -11,8 +11,8 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/biedboek.nl/subdomains.txt)|6289|Alive subdomains|
-|[urls.txt](/data/biedboek.nl/urls.txt)|3505|Urls|
+|[subdomains.txt](/data/biedboek.nl/subdomains.txt)|6287|Alive subdomains|
+|[urls.txt](/data/biedboek.nl/urls.txt)|3503|Urls|
 |[all_subdomains.txt](/data/biedboek.nl/all_subdomains.txt)|6303|All found subdomains (history)|
 
 
@@ -1537,7 +1537,6 @@
 |[https://spambox.biedboek.nl](https://spambox.biedboek.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Microsoft Azure...|
 |[https://sloggi.biedboek.nl](https://sloggi.biedboek.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Microsoft Azure...|
 |[https://crimson.biedboek.nl](https://crimson.biedboek.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Microsoft Azure...|
-|[https://kinderpagina.biedboek.nl](https://kinderpagina.biedboek.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Microsoft Azure...|
 |[https://textiel-drukkerijen.biedboek.nl](https://textiel-drukkerijen.biedboek.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Microsoft Azure...|
 |[https://pecunia.biedboek.nl](https://pecunia.biedboek.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Microsoft Azure...|
 |[https://it.groups.biedboek.nl](https://it.groups.biedboek.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Microsoft Azure...|
@@ -1572,7 +1571,6 @@
 |[https://homestay.biedboek.nl](https://homestay.biedboek.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Microsoft Azure...|
 |[https://esc.biedboek.nl](https://esc.biedboek.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Microsoft Azure...|
 |[https://netserv1.biedboek.nl](https://netserv1.biedboek.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Microsoft Azure...|
-|[https://hor.biedboek.nl](https://hor.biedboek.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Microsoft Azure...|
 |[https://mosi.biedboek.nl](https://mosi.biedboek.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Microsoft Azure...|
 |[https://web18247.biedboek.nl](https://web18247.biedboek.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Microsoft Azure...|
 |[https://dalyan.biedboek.nl](https://dalyan.biedboek.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Microsoft Azure...|

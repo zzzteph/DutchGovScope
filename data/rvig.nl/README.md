@@ -12,7 +12,7 @@
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/rvig.nl/subdomains.txt)|37|Alive subdomains|
-|[urls.txt](/data/rvig.nl/urls.txt)|20|Urls|
+|[urls.txt](/data/rvig.nl/urls.txt)|21|Urls|
 |[all_subdomains.txt](/data/rvig.nl/all_subdomains.txt)|75|All found subdomains (history)|
 
 
@@ -41,4 +41,5 @@
 |[https://lap.rvp.reis.npr.idm.rvig.nl](https://lap.rvp.reis.npr.idm.rvig.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
 |[https://lap.api.reis.npr.idm.rvig.nl](https://lap.api.reis.npr.idm.rvig.nl)| | **D**|nginx|:warning: |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Nginx|404 Not Found|
 |[https://rni-portal-acc.rvig.nl](https://rni-portal-acc.rvig.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| | | :white_check_mark: | |HSTS|RNI Adreswijzigi...|
+|[http://agw.lap.idm.rvig.nl](http://agw.lap.idm.rvig.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 

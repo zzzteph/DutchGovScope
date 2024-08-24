@@ -82,7 +82,6 @@ octopus.provincie-utrecht.nl
 erfgoedexpertteam.provincie-utrecht.nl
 monitoromgevingsbeleid.provincie-utrecht.nl
 omgevingsbeleid.provincie-utrecht.nl
-zsd.provincie-utrecht.nl
 ib.provincie-utrecht.nl
 sap-crma.provincie-utrecht.nl
 sap-crmo.provincie-utrecht.nl
@@ -113,3 +112,4 @@ rmb.provincie-utrecht.nl
 ib-preprod.provincie-utrecht.nl
 atlas-ontw.provincie-utrecht.nl
 sap-s4h-p.provincie-utrecht.nl
+wzb-t.provincie-utrecht.nl

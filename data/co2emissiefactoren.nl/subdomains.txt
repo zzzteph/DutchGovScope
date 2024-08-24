@@ -14,3 +14,5 @@ greywww.co2emissiefactoren.nl
 buswww.co2emissiefactoren.nl
 greenwww.co2emissiefactoren.nl
 dieselwww.co2emissiefactoren.nl
+trainwww.co2emissiefactoren.nl
+carwww.co2emissiefactoren.nl

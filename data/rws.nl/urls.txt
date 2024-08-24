@@ -122,7 +122,6 @@ https://waterberichtgeving.rws.nl
 https://waterinfo.rws.nl
 https://waterinfo-extra.rws.nl
 https://webhook-teams.rws.nl
-http://webmail.rws.nl
 https://werkenbij.rws.nl
 https://werkplek.rws.nl
 https://werkplek-poc.rws.nl

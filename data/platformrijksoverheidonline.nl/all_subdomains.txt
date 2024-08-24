@@ -16,3 +16,6 @@ inloggen.platformrijksoverheidonline.nl
 inzichten.platformrijksoverheidonline.nl
 www.api.abonneren.platformrijksoverheidonline.nl
 www.magazines.platformrijksoverheidonline.nl
+feeds.oud.platformrijksoverheidonline.nl
+opendata.oud.platformrijksoverheidonline.nl
+oud.platformrijksoverheidonline.nl

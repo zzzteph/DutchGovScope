@@ -36,7 +36,7 @@
 |[https://redir.rijksoverheid.nl](https://redir.rijksoverheid.nl)| **F**| **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|403 Forbidden|
 |[https://static.rijksoverheid.nl](https://static.rijksoverheid.nl)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://statistiek.rijksoverheid.nl](https://statistiek.rijksoverheid.nl)| **A+**| **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS|Loading...|
-|[https://teverantwoordenregelingen.rijksoverheid.nl](https://teverantwoordenregelingen.rijksoverheid.nl)| **A**| **A**|-| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:-|Definitief veran...|
+|[https://teverantwoordenregelingen.rijksoverheid.nl](https://teverantwoordenregelingen.rijksoverheid.nl)| **A**| **A**|-| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:-|Concept verantwo...|
 |[https://www.rijksoverheid.nl](https://www.rijksoverheid.nl)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Informatie van d...|
 |[https://rijksoverheid.nl](https://rijksoverheid.nl)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
 |[https://sdg.rijksoverheid.nl](https://sdg.rijksoverheid.nl)| **A+**| **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS HTTP/3|Regelen in Neder...|

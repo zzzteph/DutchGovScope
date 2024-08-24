@@ -22,8 +22,8 @@
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[https://staging.bdmuseum.nl](https://staging.bdmuseum.nl)| **A**| **F**|LiteSpeed| | | | | | | | :white_check_mark: | |Basic HTTP/3 LiteSpeed Plesk|401 Authorizatio...|
-|[https://tickets.bdmuseum.nl](https://tickets.bdmuseum.nl)| **A+**| **C**|Booqi| |:white_check_mark: | :warning:| | | :white_check_mark: | | :white_check_mark: | |HSTS|Ticketshop|
-|[https://www.bdmuseum.nl](https://www.bdmuseum.nl)| **A**| **A**|LiteSpeed| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS HTTP/3 LiteSpeed Litespeed Cache MySQL PHP Plesk WPML:4.6.12 WordPress|Belasting & Doua...|
+|[http://tickets.bdmuseum.nl](http://tickets.bdmuseum.nl)| **A+**| **C**|cloudflare| |:white_check_mark: | :warning:| | | :white_check_mark: | | :white_check_mark: | |Cloudflare|301 Moved Perman...|
+|[https://www.bdmuseum.nl](https://www.bdmuseum.nl)| **A**| **A**|LiteSpeed| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS HTTP/3 LiteSpeed Litespeed Cache MySQL PHP Plesk WPML:4.6.13 WordPress|Belasting & Doua...|
 |[https://www.bdreauconseilw.bdmuseum.nl](https://www.bdreauconseilw.bdmuseum.nl)| **F**| **F**|LiteSpeed| | | | | | | | :white_check_mark: | |HTTP/3 LiteSpeed Plesk||
 |[https://www.staging.bdmuseum.nl](https://www.staging.bdmuseum.nl)| **A**| **B**|LiteSpeed|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Basic HTTP/3 LiteSpeed Plesk|401 Authorizatio...|
 |[https://2019www.bdmuseum.nl](https://2019www.bdmuseum.nl)| **F**| **F**|LiteSpeed| | | | | | | | :white_check_mark: | |HTTP/3 LiteSpeed Plesk||

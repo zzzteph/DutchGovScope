@@ -1,6 +1,5 @@
 acc.poraad.nl
 autodiscover.poraad.nl
-cijfers.poraad.nl
 cijfers-acc.poraad.nl
 manometer.poraad.nl
 sectorrapportage.poraad.nl

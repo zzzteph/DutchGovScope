@@ -66,9 +66,6 @@ https://acc.fhub.dictu.nl
 https://asb.datasluis.dictu.nl
 http://authpms.dictu.nl
 https://authpms-acc.dictu.nl
-https://vpn-tst.dictu.nl
-https://vpna-tst.dictu.nl
-https://vpnb-tst.dictu.nl
 https://test2.dictu.nl
 https://acc2.dictu.nl
 https://trillingsdata-acc.dictu.nl

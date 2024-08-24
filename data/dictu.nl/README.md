@@ -12,7 +12,7 @@
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/dictu.nl/subdomains.txt)|151|Alive subdomains|
-|[urls.txt](/data/dictu.nl/urls.txt)|75|Urls|
+|[urls.txt](/data/dictu.nl/urls.txt)|72|Urls|
 |[all_subdomains.txt](/data/dictu.nl/all_subdomains.txt)|287|All found subdomains (history)|
 
 
@@ -89,9 +89,6 @@
 |[https://asb.datasluis.dictu.nl](https://asb.datasluis.dictu.nl)| **A**| **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Redirect|
 |[http://authpms.dictu.nl](http://authpms.dictu.nl)| **A**| **E**|| | | | | | | | :white_check_mark: | |||
 |[https://authpms-acc.dictu.nl](https://authpms-acc.dictu.nl)| **A+**| **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|iBabs - Meet in...|
-|[https://vpn-tst.dictu.nl](https://vpn-tst.dictu.nl)| | **F**|CPWS| | | | | | | | :white_check_mark: | |HSTS|403 Forbidden|
-|[https://vpna-tst.dictu.nl](https://vpna-tst.dictu.nl)| | **F**|CPWS| | | | | | | | :white_check_mark: | |HSTS|403 Forbidden|
-|[https://vpnb-tst.dictu.nl](https://vpnb-tst.dictu.nl)| | **F**|CPWS| | | | | | | | :white_check_mark: | |HSTS|403 Forbidden|
 |[https://test2.dictu.nl](https://test2.dictu.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Basic Nginx|401 Authorizatio...|
 |[https://acc2.dictu.nl](https://acc2.dictu.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Basic Nginx|401 Authorizatio...|
 |[https://trillingsdata-acc.dictu.nl](https://trillingsdata-acc.dictu.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|Index|

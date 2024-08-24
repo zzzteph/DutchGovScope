@@ -40,7 +40,7 @@
 |[https://strafdossiermh17.om.nl](https://strafdossiermh17.om.nl)| **B**| **F**|nginx/1.25.5| | | | | | | | :white_check_mark: | |HSTS Nginx:1.25.5|Strafdossier MH1...|
 |[https://dialin.om.nl](https://dialin.om.nl)| | **F**|Microsoft-IIS/10.0| | | | | | | | :white_check_mark: | |HSTS IIS:10.0 Windows Server|Conferencing Dia...|
 |[https://lyncdiscover.om.nl](https://lyncdiscover.om.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
-|[https://meet.om.nl](https://meet.om.nl)| **F**| **E**|| | | | | | | | :white_check_mark: | |HSTS|Skype for Busine...|
+|[http://meet.om.nl](http://meet.om.nl)| **F**| **E**|| | | | | | | | :white_check_mark: | |HSTS||
 |[https://sip.om.nl](https://sip.om.nl)| | **C**|RTC/6.0| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
 |[https://webservices.om.nl](https://webservices.om.nl)| **F**| **F**|Microsoft-IIS/10.0| | | | | | | | :white_check_mark: | |HSTS IIS:10.0 Windows Server||
 |[https://telewerken.om.nl](https://telewerken.om.nl)| | **A**||:warning: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Microsoft ASP.NET||

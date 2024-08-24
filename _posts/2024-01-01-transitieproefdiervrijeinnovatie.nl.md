@@ -39,6 +39,6 @@ tags: dutchgov
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[https://feeds.transitieproefdiervrijeinnovatie.nl](https://feeds.transitieproefdiervrijeinnovatie.nl)| **A+**| **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://opendata.transitieproefdiervrijeinnovatie.nl](https://opendata.transitieproefdiervrijeinnovatie.nl)| **A+**| **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
-|[https://www.transitieproefdiervrijeinnovatie.nl](https://www.transitieproefdiervrijeinnovatie.nl)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Home | Transitie...|
+|[https://www.transitieproefdiervrijeinnovatie.nl](https://www.transitieproefdiervrijeinnovatie.nl)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Transitie Proefd...|
 |[https://transitieproefdiervrijeinnovatie.nl](https://transitieproefdiervrijeinnovatie.nl)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
 

@@ -5,6 +5,7 @@ http://acc-bestellingen.rivm.nl
 http://acc-duvo-web-api.rivm.nl
 http://acc-jira.rivm.nl
 https://acc-mijn.rivm.nl
+https://acc-sso-osiris.rivm.nl
 https://acc-veldmonitoring.rivm.nl
 http://acc-vtcc.rivm.nl
 http://acceptatie.rivm.nl
@@ -43,7 +44,7 @@ http://acceptatie.soap.osiris.rivm.nl
 http://acceptatie.sorproposal.rivm.nl
 http://acceptatie.teebstad.rivm.nl
 https://acceptatie.vcpapp.rivm.nl
-http://acceptatie.voorraadtelling.rivm.nl
+https://acceptatie.voorraadtelling.rivm.nl
 https://acceptatie.webservice.aiz.osiris.rivm.nl
 http://acceptatie.webservice.cdif.osiris.rivm.nl
 https://acceptatie.webservice.prezies.osiris.rivm.nl
@@ -57,7 +58,7 @@ https://api-samenmeten.rivm.nl
 http://app.rivm.nl
 http://apps.rivm.nl
 https://auth.rivm.nl
-http://autodiscover.rivm.nl
+https://autodiscover.rivm.nl
 https://beleving.rivm.nl
 https://bestellingen.rivm.nl
 http://bggo.rivm.nl
@@ -112,7 +113,7 @@ https://incidentapprivm.rivm.nl
 http://incidentapprivmacc.rivm.nl
 https://influxg.rivm.nl
 https://influxs.rivm.nl
-http://informatiehulp.rivm.nl
+https://informatiehulp.rivm.nl
 http://inspire.rivm.nl
 https://ivac.rivm.nl
 http://jira.rivm.nl

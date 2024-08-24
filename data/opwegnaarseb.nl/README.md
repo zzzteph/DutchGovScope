@@ -6,7 +6,7 @@
 
  - **SSL Grade**:C
  - **HTTP Security Grade**:E
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:2
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:3
 
 
 | File       | Count | Info |
@@ -25,7 +25,7 @@
 |[https://cpanel.opwegnaarseb.nl](https://cpanel.opwegnaarseb.nl)| **F**| **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server cPanel|cPanel Login|
 |[https://e-learning.opwegnaarseb.nl](https://e-learning.opwegnaarseb.nl)| **A**| **F**|Microsoft-IIS/10.0| | | | | | | | :white_check_mark: | |IIS:10.0 Windows Server|403 - Forbidden:...|
 |[https://mail.opwegnaarseb.nl](https://mail.opwegnaarseb.nl)| **F**| **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|Index of /|
-|[https://webmail.opwegnaarseb.nl](https://webmail.opwegnaarseb.nl)| **F**| **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|Webmail Login|
+|[https://webmail.opwegnaarseb.nl](https://webmail.opwegnaarseb.nl)| **F**| **F**|Apache|:white_check_mark: | | | | | | | :white_check_mark: | |Apache HTTP Server|Webmail Login|
 |[https://www.opwegnaarseb.nl](https://www.opwegnaarseb.nl)| **A**| **C**|nginx/1.27.0| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Nginx:1.27.0|SEB|
 |[https://opwegnaarseb.nl](https://opwegnaarseb.nl)| **A**| **C**|nginx/1.27.0| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Nginx:1.27.0|SEB|
 

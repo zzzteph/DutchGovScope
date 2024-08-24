@@ -1045,7 +1045,6 @@ https://chat.corp.bodemrichtlijn.nl
 https://anji.bodemrichtlijn.nl
 https://bcloud.bodemrichtlijn.nl
 https://hubo.bodemrichtlijn.nl
-https://divergent.bodemrichtlijn.nl
 https://huisdieren.bodemrichtlijn.nl
 https://fragrance.bodemrichtlijn.nl
 https://smtp40.bodemrichtlijn.nl
@@ -1147,6 +1146,7 @@ https://welcomeweek.bodemrichtlijn.nl
 https://casinogame.bodemrichtlijn.nl
 https://staging-gateway.bodemrichtlijn.nl
 https://hostmaster.hostmaster.hostmaster.webdisk.bodemrichtlijn.nl
+https://star-wars.bodemrichtlijn.nl
 https://sd-test.bodemrichtlijn.nl
 https://still.bodemrichtlijn.nl
 https://dl.vkteams.bodemrichtlijn.nl

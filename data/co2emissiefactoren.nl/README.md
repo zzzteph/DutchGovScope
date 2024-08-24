@@ -11,7 +11,7 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/co2emissiefactoren.nl/subdomains.txt)|16|Alive subdomains|
+|[subdomains.txt](/data/co2emissiefactoren.nl/subdomains.txt)|18|Alive subdomains|
 |[urls.txt](/data/co2emissiefactoren.nl/urls.txt)|16|Urls|
 |[all_subdomains.txt](/data/co2emissiefactoren.nl/all_subdomains.txt)|18|All found subdomains (history)|
 

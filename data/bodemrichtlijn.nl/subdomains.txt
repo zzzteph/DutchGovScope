@@ -1045,7 +1045,6 @@ chat.corp.bodemrichtlijn.nl
 anji.bodemrichtlijn.nl
 bcloud.bodemrichtlijn.nl
 hubo.bodemrichtlijn.nl
-divergent.bodemrichtlijn.nl
 huisdieren.bodemrichtlijn.nl
 fragrance.bodemrichtlijn.nl
 smtp40.bodemrichtlijn.nl
@@ -1147,6 +1146,7 @@ welcomeweek.bodemrichtlijn.nl
 casinogame.bodemrichtlijn.nl
 staging-gateway.bodemrichtlijn.nl
 hostmaster.hostmaster.hostmaster.webdisk.bodemrichtlijn.nl
+star-wars.bodemrichtlijn.nl
 sd-test.bodemrichtlijn.nl
 still.bodemrichtlijn.nl
 dl.vkteams.bodemrichtlijn.nl

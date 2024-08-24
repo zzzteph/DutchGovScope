@@ -115,3 +115,5 @@ koppelvlak.logius.nl
 preprod.portaal.digipoort.logius.nl
 lca.logius.nl
 mev.logius.nl
+acceptatie-portalen.digipoort.logius.nl
+preprod-portalen.digipoort.logius.nl

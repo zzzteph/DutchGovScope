@@ -6,12 +6,12 @@
 
  - **SSL Grade**:A
  - **HTTP Security Grade**:B
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:155
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:156
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/overheid.nl/subdomains.txt)|65077|Alive subdomains|
+|[subdomains.txt](/data/overheid.nl/subdomains.txt)|66291|Alive subdomains|
 |[urls.txt](/data/overheid.nl/urls.txt)|314|Urls|
 |[all_subdomains.txt](/data/overheid.nl/all_subdomains.txt)|67873|All found subdomains (history)|
 
@@ -45,13 +45,13 @@
 |[https://beheerportaal.int13m.omgevingswet.overheid.nl](https://beheerportaal.int13m.omgevingswet.overheid.nl)| **A+**| **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Omgevingsloket|
 |[https://beheerportaal.int2905.omgevingswet.overheid.nl](https://beheerportaal.int2905.omgevingswet.overheid.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Omgevingsloket|
 |[https://beheerportaal.intbhr.omgevingswet.overheid.nl](https://beheerportaal.intbhr.omgevingswet.overheid.nl)| **A+**| **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Omgevingsloket|
-|[https://beheerportaal.inte2e.omgevingswet.overheid.nl](https://beheerportaal.inte2e.omgevingswet.overheid.nl)| **A+**| **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|Pagina niet gevo...|
+|[https://beheerportaal.inte2e.omgevingswet.overheid.nl](https://beheerportaal.inte2e.omgevingswet.overheid.nl)| **A+**| **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Omgevingsloket|
 |[https://beheerportaal.integratie.omgevingswet.overheid.nl](https://beheerportaal.integratie.omgevingswet.overheid.nl)| **A+**| **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Omgevingsloket|
 |[https://beheerportaal.intpatch.omgevingswet.overheid.nl](https://beheerportaal.intpatch.omgevingswet.overheid.nl)| **A+**| **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Omgevingsloket|
 |[https://beheerportaal.omgevingswet.overheid.nl](https://beheerportaal.omgevingswet.overheid.nl)| **A+**| **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Omgevingsloket|
 |[https://beheerportaal.perf.omgevingswet.overheid.nl](https://beheerportaal.perf.omgevingswet.overheid.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Omgevingsloket|
 |[https://beheerportaal.pre.omgevingswet.overheid.nl](https://beheerportaal.pre.omgevingswet.overheid.nl)| **A+**| **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Omgevingsloket|
-|[https://beheerportaal.tst2905.omgevingswet.overheid.nl](https://beheerportaal.tst2905.omgevingswet.overheid.nl)| **A+**| **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Omgevingsloket|
+|[https://beheerportaal.tst2905.omgevingswet.overheid.nl](https://beheerportaal.tst2905.omgevingswet.overheid.nl)| **A+**| **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|Pagina niet gevo...|
 |[http://beta.overheid.nl](http://beta.overheid.nl)| | **F**|BigIP| | | | | | | | :white_check_mark: | |F5 BigIP||
 |[https://bgt.basisregistraties.overheid.nl](https://bgt.basisregistraties.overheid.nl)| | **C**|unspecified| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|Kadaster - Pagin...|
 |[https://bodem-ondergrond.omgevingswet.overheid.nl](https://bodem-ondergrond.omgevingswet.overheid.nl)| **A+**| **C**|unspecified| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
@@ -81,7 +81,7 @@
 |[https://demo.mijn.overheid.nl](https://demo.mijn.overheid.nl)| **A+**| **A**|nginx| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx Vue.js|MijnOverheid|
 |[http://designsystem.overheid.nl](http://designsystem.overheid.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://developer.overheid.nl](https://developer.overheid.nl)| **A+**| **A**|| |:white_check_mark: | :warning:| |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Developer Overhe...|
-|[https://digilab.overheid.nl](https://digilab.overheid.nl)| **A**| **F**|nginx/1.27.0| | | | | | | | :white_check_mark: | |Hugo:0.125.4 Nginx:1.27.0|Digilab — Innova...|
+|[https://digilab.overheid.nl](https://digilab.overheid.nl)| **A**| **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Hugo:0.125.4|Digilab — Innova...|
 |[https://dmo.omgevingswet.overheid.nl](https://dmo.omgevingswet.overheid.nl)| **A+**| **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Omgevingsloket|
 |[https://doculoket.overheid.nl](https://doculoket.overheid.nl)| **A+**| **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache Tomcat Fourthwall:1.0.0 HSTS Java MariaDB Skolengo:1.0.0|Aanlever Portaal...|
 |[https://doculoket-acc.overheid.nl](https://doculoket-acc.overheid.nl)| **A+**| **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache Tomcat Fourthwall:1.0.0 HSTS Java MariaDB Skolengo:1.0.0|Aanlever Portaal...|
@@ -131,7 +131,7 @@
 |[https://oproepingen.overheid.nl](https://oproepingen.overheid.nl)| **A+**| **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Object moved|
 |[https://oproepingen-api.overheid.nl](https://oproepingen-api.overheid.nl)| **A+**| **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://organisaties.overheid.nl](https://organisaties.overheid.nl)| **A+**| **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Register van Ove...|
-|[https://organisaties-acc.overheid.nl](https://organisaties-acc.overheid.nl)| **A+**| **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|403 Forbidden|
+|[https://organisaties-acc.overheid.nl](https://organisaties-acc.overheid.nl)| **A+**| **A**||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Java||
 |[https://organisaties-redactie.overheid.nl](https://organisaties-redactie.overheid.nl)| **A+**| **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Redactieomgeving...|
 |[https://pdc.omgevingswet.overheid.nl](https://pdc.omgevingswet.overheid.nl)| **A+**| **C**|unspecified| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
 |[https://pdc.pre.omgevingswet.overheid.nl](https://pdc.pre.omgevingswet.overheid.nl)| **A+**| **C**|unspecified| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|Kadaster - Pagin...|
@@ -184,7 +184,7 @@
 |[https://service.enabling.omgevingswet.overheid.nl](https://service.enabling.omgevingswet.overheid.nl)| **A+**| **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|Pagina niet gevo...|
 |[https://service.int.omgevingswet.overheid.nl](https://service.int.omgevingswet.overheid.nl)| **A+**| **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|Pagina niet gevo...|
 |[https://service.int02.omgevingswet.overheid.nl](https://service.int02.omgevingswet.overheid.nl)| **A+**| **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|Pagina niet gevo...|
-|[https://service.int12.omgevingswet.overheid.nl](https://service.int12.omgevingswet.overheid.nl)| **A+**| **E**|| | | | | | | | :white_check_mark: | |HSTS|301 Moved Perman...|
+|[https://service.int12.omgevingswet.overheid.nl](https://service.int12.omgevingswet.overheid.nl)| **A+**| **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|Pagina niet gevo...|
 |[https://service.int13.omgevingswet.overheid.nl](https://service.int13.omgevingswet.overheid.nl)| **A+**| **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|Pagina niet gevo...|
 |[https://service.int13m.omgevingswet.overheid.nl](https://service.int13m.omgevingswet.overheid.nl)| **A+**| **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|Pagina niet gevo...|
 |[https://service.int2905.omgevingswet.overheid.nl](https://service.int2905.omgevingswet.overheid.nl)| **A+**| **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|Pagina niet gevo...|
@@ -223,9 +223,9 @@
 |[https://static.mijn.overheid.nl](https://static.mijn.overheid.nl)| **A+**| **A**|nginx| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://static.preprod.mijn.overheid.nl](https://static.preprod.mijn.overheid.nl)| **A+**| **A**|nginx| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://statistiek.mijn.overheid.nl](https://statistiek.mijn.overheid.nl)| **A+**| **A**|nginx| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|302 Found|
-|[https://status.dmo.omgevingswet.overheid.nl](https://status.dmo.omgevingswet.overheid.nl)| **A**| **B**|openresty/1.25.3.1| |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | |HSTS Nginx OpenResty:1.25.3.1 Ruby Ruby on Rails|DSO-LV Demo stat...|
-|[https://status.omgevingswet.overheid.nl](https://status.omgevingswet.overheid.nl)| **A**| **B**|openresty/1.25.3.1| |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | |HSTS Nginx OpenResty:1.25.3.1 Ruby Ruby on Rails Stimulus|DSO-LV Productie...|
-|[https://status.pre.omgevingswet.overheid.nl](https://status.pre.omgevingswet.overheid.nl)| **A**| **B**|openresty/1.25.3.1| |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | |HSTS Nginx OpenResty:1.25.3.1 Ruby Ruby on Rails Stimulus|DSO-LV Pre-produ...|
+|[https://status.dmo.omgevingswet.overheid.nl](https://status.dmo.omgevingswet.overheid.nl)| **A**| **A**|openresty/1.25.3.1| |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx OpenResty:1.25.3.1 Ruby Ruby on Rails Stimulus|Subdomain Takeov...|
+|[https://status.omgevingswet.overheid.nl](https://status.omgevingswet.overheid.nl)| **A**| **A**|openresty/1.25.3.1| |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx OpenResty:1.25.3.1 Ruby Ruby on Rails Stimulus|DSO-LV Productie...|
+|[https://status.pre.omgevingswet.overheid.nl](https://status.pre.omgevingswet.overheid.nl)| **A**| **A**|openresty/1.25.3.1| |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx OpenResty:1.25.3.1 Ruby Ruby on Rails Stimulus|DSO-LV Pre-produ...|
 |[https://stcrtin.overheid.nl](https://stcrtin.overheid.nl)| **A+**| **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Object moved|
 |[https://stelselcatalogus.acc.omgevingswet.overheid.nl](https://stelselcatalogus.acc.omgevingswet.overheid.nl)| **A+**| **C**|Unspecified| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|Kadaster - Pagin...|
 |[https://stelselcatalogus.dmo.omgevingswet.overheid.nl](https://stelselcatalogus.dmo.omgevingswet.overheid.nl)| **A+**| **A**|unspecified| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS|Stelselcatalogus...|
@@ -270,7 +270,7 @@
 |[https://www.int13m.omgevingswet.overheid.nl](https://www.int13m.omgevingswet.overheid.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|301 Moved Perman...|
 |[https://www.int2905.omgevingswet.overheid.nl](https://www.int2905.omgevingswet.overheid.nl)| **A+**| **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|301 Moved Perman...|
 |[https://www.intbhr.omgevingswet.overheid.nl](https://www.intbhr.omgevingswet.overheid.nl)| **A+**| **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|301 Moved Perman...|
-|[https://www.inte2e.omgevingswet.overheid.nl](https://www.inte2e.omgevingswet.overheid.nl)| **A+**| **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|Pagina niet gevo...|
+|[https://www.inte2e.omgevingswet.overheid.nl](https://www.inte2e.omgevingswet.overheid.nl)| **A+**| **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|301 Moved Perman...|
 |[https://www.integratie.omgevingswet.overheid.nl](https://www.integratie.omgevingswet.overheid.nl)| **A+**| **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|301 Moved Perman...|
 |[https://www.intpatch.omgevingswet.overheid.nl](https://www.intpatch.omgevingswet.overheid.nl)| **A+**| **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|301 Moved Perman...|
 |[https://www.mijn.overheid.nl](https://www.mijn.overheid.nl)| | **A**|nginx| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
@@ -304,7 +304,7 @@
 |[https://beheerportaal.integratie02.omgevingswet.overheid.nl](https://beheerportaal.integratie02.omgevingswet.overheid.nl)| **A+**| **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Omgevingsloket|
 |[https://integratie02.omgevingswet.overheid.nl](https://integratie02.omgevingswet.overheid.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Omgevingsloket|
 |[https://pkio.service.integratie02.omgevingswet.overheid.nl](https://pkio.service.integratie02.omgevingswet.overheid.nl)| **A**| **E**|| | | | | | | | :white_check_mark: | ||400 No required...|
-|[https://service.integratie02.omgevingswet.overheid.nl](https://service.integratie02.omgevingswet.overheid.nl)| **A+**| **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|Pagina niet gevo...|
+|[https://service.integratie02.omgevingswet.overheid.nl](https://service.integratie02.omgevingswet.overheid.nl)| **A+**| **E**|| | | | | | | | :white_check_mark: | |HSTS|301 Moved Perman...|
 |[https://www.integratie02.omgevingswet.overheid.nl](https://www.integratie02.omgevingswet.overheid.nl)| **A+**| **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|301 Moved Perman...|
 |[https://kwaliteitsdashboard-koop.overheid.nl](https://kwaliteitsdashboard-koop.overheid.nl)| **A+**| **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|403 Forbidden|
 |[http://pki.overheid.nl](http://pki.overheid.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|KPN TSP - CRL Di...|

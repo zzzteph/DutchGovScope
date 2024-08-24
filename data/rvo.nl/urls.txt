@@ -2,7 +2,6 @@ https://acc.rvo.nl
 https://acc-cms.rvo.nl
 https://acc-cms.projects.rvo.nl
 https://acc-english.rvo.nl
-https://acc-geocontent.rvo.nl
 https://acc-webform.rvo.nl
 https://acc-website.rvo.nl
 https://acc.informatiehuis.rvo.nl
@@ -31,9 +30,9 @@ https://ih-static.rvo.nl
 https://infographics.rvo.nl
 https://informatiehuis.rvo.nl
 https://intra.rvo.nl
-https://intra-acc.rvo.nl
+http://intra-acc.rvo.nl
 https://intra-cms.rvo.nl
-https://intra-cms-acc.rvo.nl
+http://intra-cms-acc.rvo.nl
 https://intranetvan.rvo.nl
 https://jiraimg.rvo.nl
 https://jiraimg-acc.rvo.nl
@@ -73,7 +72,7 @@ https://www.mijn.rvo.nl
 https://gdi-a.rvo.nl
 http://gbatmv.rvo.nl
 https://sys-staging-mijn.rvo.nl
-https://epbdwebservices-preprod.rvo.nl
+http://epbdwebservices-preprod.rvo.nl
 https://kennisbank-tst.rvo.nl
 http://energielabel-checker.rvo.nl
 http://ezines.rvo.nl

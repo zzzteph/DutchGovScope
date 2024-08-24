@@ -7,7 +7,7 @@ all_subdomains_count: 2
 urls_count: 2
 ssl_rank: A+
 http_rank: E
-security_txt: 1
+security_txt: 2
 url_link: /data/sociaalfondsminienw.nl/urls.txt
 all_subdomains_link: /data/sociaalfondsminienw.nl/all_subdomains.txt
 subdomains_link: /data/sociaalfondsminienw.nl/subdomains.txt
@@ -22,7 +22,7 @@ tags: dutchgov
 
  - **SSL Grade**:A+
  - **HTTP Security Grade**:E
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:1
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:2
 
 
 | File       | Count | Info |

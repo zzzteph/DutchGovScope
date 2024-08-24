@@ -189,3 +189,4 @@ docs.kvk.nl
 nas.kvk.nl
 owa.kvk.nl
 sslvpn.kvk.nl
+bronkopie.ct.kvk.nl

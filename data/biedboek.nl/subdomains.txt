@@ -1514,7 +1514,6 @@ brandevoort.biedboek.nl
 spambox.biedboek.nl
 sloggi.biedboek.nl
 crimson.biedboek.nl
-kinderpagina.biedboek.nl
 textiel-drukkerijen.biedboek.nl
 pecunia.biedboek.nl
 it.groups.biedboek.nl
@@ -1549,7 +1548,6 @@ redmail.biedboek.nl
 homestay.biedboek.nl
 esc.biedboek.nl
 netserv1.biedboek.nl
-hor.biedboek.nl
 mosi.biedboek.nl
 web18247.biedboek.nl
 dalyan.biedboek.nl

@@ -6,13 +6,13 @@
 
  - **SSL Grade**:A+
  - **HTTP Security Grade**:A
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:36
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:41
 
 
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/minjenv-events.nl/subdomains.txt)|41|Alive subdomains|
-|[urls.txt](/data/minjenv-events.nl/urls.txt)|36|Urls|
+|[urls.txt](/data/minjenv-events.nl/urls.txt)|41|Urls|
 |[all_subdomains.txt](/data/minjenv-events.nl/all_subdomains.txt)|44|All found subdomains (history)|
 
 
@@ -57,4 +57,9 @@
 |[https://telandterzeeenviadelucht.minjenv-events.nl](https://telandterzeeenviadelucht.minjenv-events.nl)| | **A**|nginx| |:white_check_mark: | :warning:| |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx Plesk||
 |[https://grenzeloosontnemen.minjenv-events.nl](https://grenzeloosontnemen.minjenv-events.nl)| | **A**|nginx| |:white_check_mark: | :warning:| |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx Plesk||
 |[https://prisonhealth2024.minjenv-events.nl](https://prisonhealth2024.minjenv-events.nl)| | **A**|nginx| |:white_check_mark: | :warning:| |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx Plesk||
+|[https://procom2024.minjenv-events.nl](https://procom2024.minjenv-events.nl)| | **A**|nginx| |:white_check_mark: | :warning:| |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx Plesk||
+|[https://symposiumpsychischgeweld.minjenv-events.nl](https://symposiumpsychischgeweld.minjenv-events.nl)| | **A**|nginx| |:white_check_mark: | :warning:| |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx Plesk||
+|[https://dtv-wetenschapsevenement2023.minjenv-events.nl](https://dtv-wetenschapsevenement2023.minjenv-events.nl)| | **A**|nginx| |:white_check_mark: | :warning:| |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx Plesk||
+|[https://dagvdlocatiemanager-oek.minjenv-events.nl](https://dagvdlocatiemanager-oek.minjenv-events.nl)| | **A**|nginx| |:white_check_mark: | :warning:| |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx Plesk||
+|[https://burgergerichtbestuursrecht.minjenv-events.nl](https://burgergerichtbestuursrecht.minjenv-events.nl)| | **A**|nginx| |:white_check_mark: | :warning:| |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx Plesk||
 

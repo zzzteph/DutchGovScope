@@ -5,14 +5,14 @@
 
 
  - **SSL Grade**:A+
- - **HTTP Security Grade**:A
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:13
+ - **HTTP Security Grade**:B
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:8
 
 
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/coronacheck.nl/subdomains.txt)|16|Alive subdomains|
-|[urls.txt](/data/coronacheck.nl/urls.txt)|15|Urls|
+|[urls.txt](/data/coronacheck.nl/urls.txt)|12|Urls|
 |[all_subdomains.txt](/data/coronacheck.nl/all_subdomains.txt)|112|All found subdomains (history)|
 
 
@@ -21,19 +21,16 @@
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[http://digid.acc.coronacheck.nl](http://digid.acc.coronacheck.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[http://helpdesk.coronacheck.nl](http://helpdesk.coronacheck.nl)| **A+**| **A**|| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS||
 |[https://holder-api.coronacheck.nl](https://holder-api.coronacheck.nl)| **A+**| **A**|nginx| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS Nginx||
 |[https://holder-api-cdn.coronacheck.nl](https://holder-api-cdn.coronacheck.nl)| **A+**| **A**|nginx| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS Nginx||
-|[https://holder-api-cdn.acc.coronacheck.nl](https://holder-api-cdn.acc.coronacheck.nl)| **A+**| **A**|nginx| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS Nginx||
-|[https://holder-api.acc.coronacheck.nl](https://holder-api.acc.coronacheck.nl)| **A+**| **A**|nginx| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS Nginx||
-|[https://max.acc.coronacheck.nl](https://max.acc.coronacheck.nl)| **A+**| **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |Basic HSTS|401 Unauthorized|
-|[http://tvs.acc.coronacheck.nl](http://tvs.acc.coronacheck.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
+|[https://holder-api-cdn.acc.coronacheck.nl](https://holder-api-cdn.acc.coronacheck.nl)| **A+**| **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|502 Bad Gateway|
+|[https://holder-api.acc.coronacheck.nl](https://holder-api.acc.coronacheck.nl)| **A+**| **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|502 Bad Gateway|
 |[https://verifier-api.coronacheck.nl](https://verifier-api.coronacheck.nl)| **A+**| **A**|nginx| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS Nginx||
 |[https://verifier-api-cdn.coronacheck.nl](https://verifier-api-cdn.coronacheck.nl)| **A+**| **A**|nginx| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS Nginx||
-|[https://verifier-api-cdn.acc.coronacheck.nl](https://verifier-api-cdn.acc.coronacheck.nl)| **A+**| **A**|nginx| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS Nginx||
-|[https://verifier-api.acc.coronacheck.nl](https://verifier-api.acc.coronacheck.nl)| **A+**| **A**|nginx| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS Nginx||
-|[https://web.acc.coronacheck.nl](https://web.acc.coronacheck.nl)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |Basic HSTS Nginx|401 Unauthorized|
+|[https://verifier-api-cdn.acc.coronacheck.nl](https://verifier-api-cdn.acc.coronacheck.nl)| **A+**| **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|502 Bad Gateway|
+|[https://verifier-api.acc.coronacheck.nl](https://verifier-api.acc.coronacheck.nl)| **A+**| **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|502 Bad Gateway|
+|[https://web.acc.coronacheck.nl](https://web.acc.coronacheck.nl)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |Nginx|502 Bad Gateway|
 |[https://www.coronacheck.nl](https://www.coronacheck.nl)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|302 Found|
 |[https://coronacheck.nl](https://coronacheck.nl)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|302 Found|
 

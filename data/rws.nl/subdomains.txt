@@ -124,7 +124,6 @@ watergegevens.rws.nl
 waterinfo.rws.nl
 waterinfo-extra.rws.nl
 webhook-teams.rws.nl
-webmail.rws.nl
 werkenbij.rws.nl
 werkplek.rws.nl
 werkplek-poc.rws.nl
@@ -256,3 +255,6 @@ mars2.ptp.acc-inloggen.rws.nl
 schadeportaal.ptp.acc-inloggen.rws.nl
 digitaltwin-dev.rws.nl
 eventrecorder.ptp.acc-inloggen.rws.nl
+gw01-ns1.rws.nl
+gw01-ns2.rws.nl
+werkplek.gw01-gslb.rws.nl

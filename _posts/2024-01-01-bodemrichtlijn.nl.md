@@ -1084,7 +1084,6 @@ tags: dutchgov
 |[https://anji.bodemrichtlijn.nl](https://anji.bodemrichtlijn.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Microsoft Azure...|
 |[https://bcloud.bodemrichtlijn.nl](https://bcloud.bodemrichtlijn.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Microsoft Azure...|
 |[https://hubo.bodemrichtlijn.nl](https://hubo.bodemrichtlijn.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Microsoft Azure...|
-|[https://divergent.bodemrichtlijn.nl](https://divergent.bodemrichtlijn.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Microsoft Azure...|
 |[https://huisdieren.bodemrichtlijn.nl](https://huisdieren.bodemrichtlijn.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Microsoft Azure...|
 |[https://fragrance.bodemrichtlijn.nl](https://fragrance.bodemrichtlijn.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Microsoft Azure...|
 |[https://smtp40.bodemrichtlijn.nl](https://smtp40.bodemrichtlijn.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Microsoft Azure...|
@@ -1186,6 +1185,7 @@ tags: dutchgov
 |[https://casinogame.bodemrichtlijn.nl](https://casinogame.bodemrichtlijn.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Microsoft Azure...|
 |[https://staging-gateway.bodemrichtlijn.nl](https://staging-gateway.bodemrichtlijn.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Microsoft Azure...|
 |[https://hostmaster.hostmaster.hostmaster.webdisk.bodemrichtlijn.nl](https://hostmaster.hostmaster.hostmaster.webdisk.bodemrichtlijn.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Microsoft Azure...|
+|[https://star-wars.bodemrichtlijn.nl](https://star-wars.bodemrichtlijn.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Microsoft Azure...|
 |[https://sd-test.bodemrichtlijn.nl](https://sd-test.bodemrichtlijn.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Microsoft Azure...|
 |[https://still.bodemrichtlijn.nl](https://still.bodemrichtlijn.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Microsoft Azure...|
 |[https://dl.vkteams.bodemrichtlijn.nl](https://dl.vkteams.bodemrichtlijn.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Microsoft Azure...|
