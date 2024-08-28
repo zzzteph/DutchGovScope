@@ -288,7 +288,7 @@
 |[https://tst-lsp.rivm.nl](https://tst-lsp.rivm.nl)| | **F**|Microsoft-Azure-Application-Gateway/v2| | | | | | | | :white_check_mark: | ||404 Not Found|
 |[https://api.tst-lsp.rivm.nl](https://api.tst-lsp.rivm.nl)| | **F**|Microsoft-Azure-Application-Gateway/v2| | | | | | | | :white_check_mark: | ||404 Not Found|
 |[http://ontw.api-samenmeten.rivm.nl](http://ontw.api-samenmeten.rivm.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
-|[http://lims.rivm.nl](http://lims.rivm.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
+|[https://lims.rivm.nl](https://lims.rivm.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS|iLES -|
 |[http://acceptatie.lims.rivm.nl](http://acceptatie.lims.rivm.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://lsp.rivm.nl](https://lsp.rivm.nl)| | **F**|Microsoft-Azure-Application-Gateway/v2| | | | | | | | :white_check_mark: | ||404 Not Found|
 |[https://dashview.rivm.nl](https://dashview.rivm.nl)| | **C**||:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | |Bootstrap:3 HSTS|DASHview: Dashbo...|

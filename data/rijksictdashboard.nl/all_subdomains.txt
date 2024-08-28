@@ -7,3 +7,4 @@ test.beheer.rijksictdashboard.nl
 test.rijksictdashboard.nl
 auth-acc.rijksictdashboard.nl
 auth-tst.rijksictdashboard.nl
+auth.rijksictdashboard.nl

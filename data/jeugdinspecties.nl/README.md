@@ -11,7 +11,7 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/jeugdinspecties.nl/subdomains.txt)|11|Alive subdomains|
+|[subdomains.txt](/data/jeugdinspecties.nl/subdomains.txt)|12|Alive subdomains|
 |[urls.txt](/data/jeugdinspecties.nl/urls.txt)|0|Urls|
 |[all_subdomains.txt](/data/jeugdinspecties.nl/all_subdomains.txt)|12|All found subdomains (history)|
 

@@ -2853,7 +2853,6 @@ https://srv34.biedboek.nl
 https://onesearch.biedboek.nl
 https://wib.biedboek.nl
 https://adultfriendfinder.biedboek.nl
-https://digitalecamera.biedboek.nl
 https://dhcp-1.biedboek.nl
 https://sigaretten-start.biedboek.nl
 https://autoconfig.dev.biedboek.nl
@@ -3332,7 +3331,6 @@ https://kaleidoscope.biedboek.nl
 https://mylocal.biedboek.nl
 https://reddeer.biedboek.nl
 https://idk.biedboek.nl
-https://totalav-essential-antivirus.biedboek.nl
 https://gameday.biedboek.nl
 https://bbbs.biedboek.nl
 https://native.biedboek.nl

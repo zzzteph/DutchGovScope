@@ -13,7 +13,7 @@
 |------------|-------|------|
 |[subdomains.txt](/data/werkenvoornederland.nl/subdomains.txt)|21|Alive subdomains|
 |[urls.txt](/data/werkenvoornederland.nl/urls.txt)|20|Urls|
-|[all_subdomains.txt](/data/werkenvoornederland.nl/all_subdomains.txt)|37|All found subdomains (history)|
+|[all_subdomains.txt](/data/werkenvoornederland.nl/all_subdomains.txt)|38|All found subdomains (history)|
 
 
 ## Statistics

@@ -6,14 +6,14 @@
 
  - **SSL Grade**:A+
  - **HTTP Security Grade**:E
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:3
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:4
 
 
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/gezondeschool.nl/subdomains.txt)|16|Alive subdomains|
-|[urls.txt](/data/gezondeschool.nl/urls.txt)|11|Urls|
-|[all_subdomains.txt](/data/gezondeschool.nl/all_subdomains.txt)|18|All found subdomains (history)|
+|[urls.txt](/data/gezondeschool.nl/urls.txt)|13|Urls|
+|[all_subdomains.txt](/data/gezondeschool.nl/all_subdomains.txt)|19|All found subdomains (history)|
 
 
 ## Statistics
@@ -32,4 +32,6 @@
 |[https://info.gezondeschool.nl](https://info.gezondeschool.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|404 Not Found|
 |[http://localhost.gezondeschool.nl](http://localhost.gezondeschool.nl)| | **F**|nginx| | | :warning:| | | | | :white_check_mark: | |Nginx|(404 Not Found)|
 |[https://msoid.gezondeschool.nl](https://msoid.gezondeschool.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Object moved|
+|[http://ftp.gezondeschool.nl](http://ftp.gezondeschool.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server Bootstrap:4.3.1 PHP:7.4.33 Varnish|geregistreerd vi...|
+|[https://jouw.gezondeschool.nl](https://jouw.gezondeschool.nl)| | **F**|nginx|:o: | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Nginx|Redirecting to h...|
 

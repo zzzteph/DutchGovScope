@@ -317,6 +317,7 @@ https://martianus.huygens.knaw.nl
 http://archieven.meertens.knaw.nl
 http://nvb.meertens.knaw.nl
 http://data.globalise.huygens.knaw.nl
+http://edities.mvn.huygens.knaw.nl
 http://momfer.meertens.knaw.nl
 http://odb.huc.knaw.nl
 http://graphs.globalise.huygens.knaw.nl
@@ -624,3 +625,12 @@ https://declaree.knaw.nl
 https://ecartico.dev.huc.knaw.nl
 https://workforce.nioo.knaw.nl
 https://occassio.dev.huc.knaw.nl
+https://goudeneeuwblog.huygens.knaw.nl
+https://hermansdigitaal.huygens.knaw.nl
+https://zalen.huc.knaw.nl
+http://uptime.huc.knaw.nl
+https://kc31.dans.knaw.nl
+https://pts31.dans.knaw.nl
+https://sweb11.dans.knaw.nl
+https://va31.dans.knaw.nl
+https://web21.dans.knaw.nl

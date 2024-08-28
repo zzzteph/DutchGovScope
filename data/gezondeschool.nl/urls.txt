@@ -9,3 +9,5 @@ https://enterpriseregistration.gezondeschool.nl
 https://info.gezondeschool.nl
 http://localhost.gezondeschool.nl
 https://msoid.gezondeschool.nl
+http://ftp.gezondeschool.nl
+https://jouw.gezondeschool.nl

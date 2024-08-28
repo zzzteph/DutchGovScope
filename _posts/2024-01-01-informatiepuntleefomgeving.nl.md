@@ -4,10 +4,10 @@ title: "informatiepuntleefomgeving.nl"
 permalink: "/dutchgov/informatiepuntleefomgeving.nl.html"
 subdomains_count: 3
 all_subdomains_count: 3
-urls_count: 0
+urls_count: 3
 ssl_rank: 
-http_rank: F
-security_txt: 0
+http_rank: A
+security_txt: 3
 url_link: /data/informatiepuntleefomgeving.nl/urls.txt
 all_subdomains_link: /data/informatiepuntleefomgeving.nl/all_subdomains.txt
 subdomains_link: /data/informatiepuntleefomgeving.nl/subdomains.txt
@@ -21,14 +21,14 @@ tags: dutchgov
 
 
  - **SSL Grade**:
- - **HTTP Security Grade**:F
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:0
+ - **HTTP Security Grade**:A
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:3
 
 
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/DutchGovScope/data/informatiepuntleefomgeving.nl/subdomains.txt)|3|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/informatiepuntleefomgeving.nl/urls.txt)|0|Urls|
+|[urls.txt](/DutchGovScope/data/informatiepuntleefomgeving.nl/urls.txt)|3|Urls|
 |[all_subdomains.txt](/DutchGovScope/data/informatiepuntleefomgeving.nl/all_subdomains.txt)|3|All found subdomains (history)|
 
 
@@ -37,4 +37,7 @@ tags: dutchgov
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
+|[https://informatiepuntleefomgeving.nl](https://informatiepuntleefomgeving.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Microsoft ASP.NET:-|Document Moved|
+|[https://tl.informatiepuntleefomgeving.nl](https://tl.informatiepuntleefomgeving.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:-|Object moved|
+|[https://www.informatiepuntleefomgeving.nl](https://www.informatiepuntleefomgeving.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Microsoft ASP.NET:-|Document Moved|
 

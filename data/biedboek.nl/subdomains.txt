@@ -2853,7 +2853,6 @@ srv34.biedboek.nl
 onesearch.biedboek.nl
 wib.biedboek.nl
 adultfriendfinder.biedboek.nl
-digitalecamera.biedboek.nl
 dhcp-1.biedboek.nl
 sigaretten-start.biedboek.nl
 autoconfig.dev.biedboek.nl
@@ -3332,7 +3331,6 @@ kaleidoscope.biedboek.nl
 mylocal.biedboek.nl
 reddeer.biedboek.nl
 idk.biedboek.nl
-totalav-essential-antivirus.biedboek.nl
 gameday.biedboek.nl
 bbbs.biedboek.nl
 native.biedboek.nl
@@ -6285,3 +6283,12 @@ zuidermeer.biedboek.nl
 animesh.biedboek.nl
 goldmaster.biedboek.nl
 samltest.biedboek.nl
+twinkle.biedboek.nl
+csoc.biedboek.nl
+agna.biedboek.nl
+adwise.biedboek.nl
+uag.biedboek.nl
+dogood.biedboek.nl
+translatecz.biedboek.nl
+conf3.biedboek.nl
+nebraska.biedboek.nl

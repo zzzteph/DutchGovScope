@@ -35,5 +35,5 @@
 |[https://link.pr.nfi.nl](https://link.pr.nfi.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|404 Not Found|
 |[https://www.mijn.nfi.nl](https://www.mijn.nfi.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |HSTS Nginx|Test Page for th...|
 |[https://9120834.nfi.nl](https://9120834.nfi.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|404 Not Found|
-|[https://holmes-downloads.nfi.nl](https://holmes-downloads.nfi.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|Test Page for th...|
+|[https://holmes-downloads.nfi.nl](https://holmes-downloads.nfi.nl)| | **A**|Apache/2.4.57 (Red Hat Enterprise Linux)| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server:2.4.57 HSTS Red Hat|Test Page for th...|
 

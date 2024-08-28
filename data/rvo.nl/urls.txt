@@ -114,5 +114,5 @@ https://europese-subsidies.rvo.nl
 https://rhel-p-mijn.rvo.nl
 http://rhel-np-mijn.rvo.nl
 https://edicrop.rvo.nl
-http://ciam.rvo.nl
+https://ciam.rvo.nl
 https://edicrop-acc.rvo.nl

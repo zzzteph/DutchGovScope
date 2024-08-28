@@ -30,3 +30,4 @@ bestanden.officielebekendmakingen.nl
 localhost.officielebekendmakingen.nl
 servicedesk.officielebekendmakingen.nl
 identifier-preprod.officielebekendmakingen.nl
+stage-acc.officielebekendmakingen.nl

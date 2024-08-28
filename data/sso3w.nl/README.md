@@ -38,6 +38,6 @@
 |[https://cmv-kandidaat.sso3w.nl](https://cmv-kandidaat.sso3w.nl)| **A+**| **C**||:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | |Azure HSTS|BuZa 3W|
 |[https://prd.btp.sso3w.nl](https://prd.btp.sso3w.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
 |[https://acc.cmv-kandidaat.sso3w.nl](https://acc.cmv-kandidaat.sso3w.nl)| | **C**||:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | |Azure HSTS|BuZa 3W|
-|[https://cmv-opdrachtgever.sso3w.nl](https://cmv-opdrachtgever.sso3w.nl)| | **C**||:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | |Azure HSTS|**KLANTNAAM**|
+|[https://cmv-opdrachtgever.sso3w.nl](https://cmv-opdrachtgever.sso3w.nl)| | **C**||:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | |Azure HSTS|Ministerie van B...|
 |[https://esb.btp.sso3w.nl](https://esb.btp.sso3w.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
 

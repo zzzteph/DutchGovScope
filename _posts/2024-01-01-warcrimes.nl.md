@@ -4,10 +4,10 @@ title: "warcrimes.nl"
 permalink: "/dutchgov/warcrimes.nl.html"
 subdomains_count: 2
 all_subdomains_count: 2
-urls_count: 0
+urls_count: 2
 ssl_rank: 
-http_rank: F
-security_txt: 0
+http_rank: B
+security_txt: 1
 url_link: /data/warcrimes.nl/urls.txt
 all_subdomains_link: /data/warcrimes.nl/all_subdomains.txt
 subdomains_link: /data/warcrimes.nl/subdomains.txt
@@ -21,14 +21,14 @@ tags: dutchgov
 
 
  - **SSL Grade**:
- - **HTTP Security Grade**:F
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:0
+ - **HTTP Security Grade**:B
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:1
 
 
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/DutchGovScope/data/warcrimes.nl/subdomains.txt)|2|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/warcrimes.nl/urls.txt)|0|Urls|
+|[urls.txt](/DutchGovScope/data/warcrimes.nl/urls.txt)|2|Urls|
 |[all_subdomains.txt](/DutchGovScope/data/warcrimes.nl/all_subdomains.txt)|2|All found subdomains (history)|
 
 
@@ -37,4 +37,6 @@ tags: dutchgov
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
+|[https://warcrimes.nl](https://warcrimes.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |||
+|[https://www.warcrimes.nl](https://www.warcrimes.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 

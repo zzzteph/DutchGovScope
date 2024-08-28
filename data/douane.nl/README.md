@@ -6,13 +6,13 @@
 
  - **SSL Grade**:A-
  - **HTTP Security Grade**:B
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:5
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:6
 
 
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/douane.nl/subdomains.txt)|23|Alive subdomains|
-|[urls.txt](/data/douane.nl/urls.txt)|13|Urls|
+|[urls.txt](/data/douane.nl/urls.txt)|14|Urls|
 |[all_subdomains.txt](/data/douane.nl/all_subdomains.txt)|36|All found subdomains (history)|
 
 
@@ -34,4 +34,5 @@
 |[https://wpx-80-aix-http.douane.nl](https://wpx-80-aix-http.douane.nl)| **F**| **F**|BigIP| | | | | | | | :white_check_mark: | |F5 BigIP||
 |[https://www.douane.nl](https://www.douane.nl)| **A+**| **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|301 Moved Perman...|
 |[https://douane.nl](https://douane.nl)| **A+**| **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|301 Moved Perman...|
+|[https://fibd1.douane.nl](https://fibd1.douane.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Request Rejected|
 

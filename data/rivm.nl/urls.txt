@@ -265,7 +265,7 @@ https://rivm.nl
 https://tst-lsp.rivm.nl
 https://api.tst-lsp.rivm.nl
 http://ontw.api-samenmeten.rivm.nl
-http://lims.rivm.nl
+https://lims.rivm.nl
 http://acceptatie.lims.rivm.nl
 https://lsp.rivm.nl
 https://dashview.rivm.nl

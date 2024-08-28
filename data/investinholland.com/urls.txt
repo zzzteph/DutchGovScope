@@ -16,3 +16,4 @@ http://www.japan.investinholland.com
 https://investinholland.com
 http://autodiscover.investinholland.com
 http://localhost.investinholland.com
+http://pop.japan.investinholland.com

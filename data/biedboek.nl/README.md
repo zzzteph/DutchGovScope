@@ -11,8 +11,8 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/biedboek.nl/subdomains.txt)|6287|Alive subdomains|
-|[urls.txt](/data/biedboek.nl/urls.txt)|3503|Urls|
+|[subdomains.txt](/data/biedboek.nl/subdomains.txt)|6294|Alive subdomains|
+|[urls.txt](/data/biedboek.nl/urls.txt)|3501|Urls|
 |[all_subdomains.txt](/data/biedboek.nl/all_subdomains.txt)|6303|All found subdomains (history)|
 
 
@@ -2876,7 +2876,6 @@
 |[https://onesearch.biedboek.nl](https://onesearch.biedboek.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Microsoft Azure...|
 |[https://wib.biedboek.nl](https://wib.biedboek.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Microsoft Azure...|
 |[https://adultfriendfinder.biedboek.nl](https://adultfriendfinder.biedboek.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Microsoft Azure...|
-|[https://digitalecamera.biedboek.nl](https://digitalecamera.biedboek.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Microsoft Azure...|
 |[https://dhcp-1.biedboek.nl](https://dhcp-1.biedboek.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Microsoft Azure...|
 |[https://sigaretten-start.biedboek.nl](https://sigaretten-start.biedboek.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Microsoft Azure...|
 |[https://autoconfig.dev.biedboek.nl](https://autoconfig.dev.biedboek.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Microsoft Azure...|
@@ -3355,7 +3354,6 @@
 |[https://mylocal.biedboek.nl](https://mylocal.biedboek.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Microsoft Azure...|
 |[https://reddeer.biedboek.nl](https://reddeer.biedboek.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Microsoft Azure...|
 |[https://idk.biedboek.nl](https://idk.biedboek.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Microsoft Azure...|
-|[https://totalav-essential-antivirus.biedboek.nl](https://totalav-essential-antivirus.biedboek.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Microsoft Azure...|
 |[https://gameday.biedboek.nl](https://gameday.biedboek.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Microsoft Azure...|
 |[https://bbbs.biedboek.nl](https://bbbs.biedboek.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Microsoft Azure...|
 |[https://native.biedboek.nl](https://native.biedboek.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Microsoft Azure...|

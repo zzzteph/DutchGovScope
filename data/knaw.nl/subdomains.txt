@@ -468,6 +468,7 @@ archieven.meertens.knaw.nl
 cdn.huygens.knaw.nl
 nvb.meertens.knaw.nl
 data.globalise.huygens.knaw.nl
+edities.mvn.huygens.knaw.nl
 momfer.meertens.knaw.nl
 odb.huc.knaw.nl
 www.momfer.meertens.knaw.nl
@@ -514,7 +515,6 @@ dutch-caribbean.huygens.knaw.nl
 nederlandschehistorien.huygens.knaw.nl
 republic.huygens.knaw.nl
 diplomatieke-getuigenissen.huygens.knaw.nl
-dynamics.huygens.knaw.nl
 francodevrije.huygens.knaw.nl
 hattem.huygens.knaw.nl
 digitalforensics.huygens.knaw.nl
@@ -1231,8 +1231,6 @@ chat.bioinf.nioo.knaw.nl
 vangogh.dev.huc.knaw.nl
 grosintranet-test.knaw.nl
 sep.nioo.knaw.nl
-submitaon.nin.knaw.nl
-intranet.herseninstituut.knaw.nl
 gitlab.bioinf.nioo.knaw.nl
 test-dendro.dans.knaw.nl
 codereview.knaw.nl

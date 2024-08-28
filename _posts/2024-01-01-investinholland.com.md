@@ -4,7 +4,7 @@ title: "investinholland.com"
 permalink: "/dutchgov/investinholland.com.html"
 subdomains_count: 19
 all_subdomains_count: 25
-urls_count: 18
+urls_count: 19
 ssl_rank: B
 http_rank: D
 security_txt: 1
@@ -28,7 +28,7 @@ tags: dutchgov
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/DutchGovScope/data/investinholland.com/subdomains.txt)|19|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/investinholland.com/urls.txt)|18|Urls|
+|[urls.txt](/DutchGovScope/data/investinholland.com/urls.txt)|19|Urls|
 |[all_subdomains.txt](/DutchGovScope/data/investinholland.com/all_subdomains.txt)|25|All found subdomains (history)|
 
 
@@ -55,4 +55,5 @@ tags: dutchgov
 |[https://investinholland.com](https://investinholland.com)| **B**| **C**|cloudflare| |:white_check_mark: | | | | | | :white_check_mark: | |Cloudflare Google Tag Manager HSTS MySQL PHP Plesk WPML:4.6.12 WordPress:6.6.1|NFIA, part of In...|
 |[http://autodiscover.investinholland.com](http://autodiscover.investinholland.com)| | **B**|Microsoft-IIS/10.0|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server||
 |[http://localhost.investinholland.com](http://localhost.investinholland.com)| | **F**|nginx| | | :warning:| | | | | :white_check_mark: | |Nginx|(404 Not Found)|
+|[http://pop.japan.investinholland.com](http://pop.japan.investinholland.com)| | **F**|cloudflare| | | | | | | | :white_check_mark: | |Cloudflare|301 Moved Perman...|
 

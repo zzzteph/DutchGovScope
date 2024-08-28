@@ -63,3 +63,4 @@ https://qualification-admin.test.zm.irealisatie.nl
 https://qualification-api.test.zm.irealisatie.nl
 https://cts.acc.woo.irealisatie.nl
 https://stats.test.zm.irealisatie.nl
+http://acc.woo.irealisatie.nl

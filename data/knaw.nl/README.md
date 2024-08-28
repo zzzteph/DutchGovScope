@@ -6,13 +6,13 @@
 
  - **SSL Grade**:C
  - **HTTP Security Grade**:E
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:49
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:50
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/knaw.nl/subdomains.txt)|1354|Alive subdomains|
-|[urls.txt](/data/knaw.nl/urls.txt)|626|Urls|
+|[subdomains.txt](/data/knaw.nl/subdomains.txt)|1352|Alive subdomains|
+|[urls.txt](/data/knaw.nl/urls.txt)|636|Urls|
 |[all_subdomains.txt](/data/knaw.nl/all_subdomains.txt)|1866|All found subdomains (history)|
 
 
@@ -340,6 +340,7 @@
 |[http://archieven.meertens.knaw.nl](http://archieven.meertens.knaw.nl)| **A+**| **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |Nginx|301 Moved Perman...|
 |[http://nvb.meertens.knaw.nl](http://nvb.meertens.knaw.nl)| **A+**| **E**|nginx|:o: |:white_check_mark: | | | | | | :white_check_mark: | |Nginx|301 Moved Perman...|
 |[http://data.globalise.huygens.knaw.nl](http://data.globalise.huygens.knaw.nl)| **A+**| **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |Nginx|301 Moved Perman...|
+|[http://edities.mvn.huygens.knaw.nl](http://edities.mvn.huygens.knaw.nl)| **A+**| **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |Nginx|301 Moved Perman...|
 |[http://momfer.meertens.knaw.nl](http://momfer.meertens.knaw.nl)| **F**| **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|301 Moved Perman...|
 |[http://odb.huc.knaw.nl](http://odb.huc.knaw.nl)| **A+**| **E**|nginx|:o: |:white_check_mark: | | | | | | :white_check_mark: | |Nginx|301 Moved Perman...|
 |[http://graphs.globalise.huygens.knaw.nl](http://graphs.globalise.huygens.knaw.nl)| **A+**| **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |Nginx|301 Moved Perman...|
@@ -647,4 +648,13 @@
 |[https://ecartico.dev.huc.knaw.nl](https://ecartico.dev.huc.knaw.nl)| | **F**|Apache/2.4.41 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.41 Ubuntu|Unauthorized|
 |[https://workforce.nioo.knaw.nl](https://workforce.nioo.knaw.nl)| | **E**|Apache| | | | | | | :white_check_mark: | :white_check_mark: | |Apache HTTP Server|Workforce login|
 |[https://occassio.dev.huc.knaw.nl](https://occassio.dev.huc.knaw.nl)| | **F**|Apache/2.4.41 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.41 Ubuntu|Unauthorized|
+|[https://goudeneeuwblog.huygens.knaw.nl](https://goudeneeuwblog.huygens.knaw.nl)| | **F**|Apache/2.4.41 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.41 Ubuntu|403 Forbidden|
+|[https://hermansdigitaal.huygens.knaw.nl](https://hermansdigitaal.huygens.knaw.nl)| | **F**|Apache/2.4.41 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.41 Ubuntu|403 Forbidden|
+|[https://zalen.huc.knaw.nl](https://zalen.huc.knaw.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|403 Forbidden|
+|[http://uptime.huc.knaw.nl](http://uptime.huc.knaw.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|301 Moved Perman...|
+|[https://kc31.dans.knaw.nl](https://kc31.dans.knaw.nl)| | **F**|nginx/1.22.1| | | | | | | | :white_check_mark: | |HSTS Nginx:1.22.1|Welcome to Keycl...|
+|[https://pts31.dans.knaw.nl](https://pts31.dans.knaw.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|Index of /|
+|[https://sweb11.dans.knaw.nl](https://sweb11.dans.knaw.nl)| | **F**|Apache/2.4.37 (Red Hat Enterprise Linux) OpenSSL/1.1.1k| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.37 HSTS OpenSSL:1.1.1k Red Hat|Test Page for th...|
+|[https://va31.dans.knaw.nl](https://va31.dans.knaw.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|Index of /|
+|[https://web21.dans.knaw.nl](https://web21.dans.knaw.nl)| | **F**|Apache/2.4.57 (Red Hat Enterprise Linux) OpenSSL/3.0.7| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.57 OpenSSL:3.0.7 Red Hat||
 

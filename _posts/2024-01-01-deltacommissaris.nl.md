@@ -2,7 +2,7 @@
 layout: default
 title: "deltacommissaris.nl"
 permalink: "/dutchgov/deltacommissaris.nl.html"
-subdomains_count: 4
+subdomains_count: 5
 all_subdomains_count: 29
 urls_count: 2
 ssl_rank: A
@@ -27,7 +27,7 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/deltacommissaris.nl/subdomains.txt)|4|Alive subdomains|
+|[subdomains.txt](/DutchGovScope/data/deltacommissaris.nl/subdomains.txt)|5|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/deltacommissaris.nl/urls.txt)|2|Urls|
 |[all_subdomains.txt](/DutchGovScope/data/deltacommissaris.nl/all_subdomains.txt)|29|All found subdomains (history)|
 

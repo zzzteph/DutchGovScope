@@ -1,6 +1,8 @@
 access.zinl.nl
 av.zinl.nl
 adfs.zinl.nl
+deployment.zinl.nl
+rundeck.zinl.nl
 mail.zinl.nl
 mx1.zinl.nl
 autodiscover.zinl.nl

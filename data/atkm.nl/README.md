@@ -25,7 +25,7 @@
 |[https://opendata.atkm.nl](https://opendata.atkm.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://www.atkm.nl](https://www.atkm.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Home | Autoritei...|
 |[https://feeds.atkm.nl](https://feeds.atkm.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
-|[http://autodiscover.atkm.nl](http://autodiscover.atkm.nl)| | **B**|Microsoft-IIS/10.0|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server||
+|[http://autodiscover.atkm.nl](http://autodiscover.atkm.nl)| | **C**|Microsoft-IIS/10.0| |:white_check_mark: | | | | | | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server||
 |[https://enterpriseenrollment.atkm.nl](https://enterpriseenrollment.atkm.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||
 |[https://enterpriseregistration.atkm.nl](https://enterpriseregistration.atkm.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 

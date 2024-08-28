@@ -1,0 +1,10 @@
+http://docviewer01.prod-ext.hansken.holmes.nl
+http://frontend01.prod-ext.hansken.holmes.nl
+http://gatekeeper01.prod-ext.hansken.holmes.nl
+http://huib.prod-ext.hansken.holmes.nl
+http://keycloak.prod-ext.hansken.holmes.nl
+http://keystore01.prod-ext.hansken.holmes.nl
+http://osm.hansken.holmes.nl
+http://preference01.prod-ext.hansken.holmes.nl
+https://downloads.holmes.nl
+https://www.holmes.nl

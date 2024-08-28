@@ -775,7 +775,6 @@ www.eformulieren.overheid.nl
 ienwprd1-mailrelay001.external-cloud.nl.overheid.nl
 homepage3.overheid.nl
 mijnbuurt.overheid.nl
-oproepingen-api-acc.overheid.nl
 www.vacatures.in.overheid.nl
 kinderopvang29werkenvoornederland.nl15rijksbegroting.nl30puc.overheid.nl
 coronamelder.overheid.nl

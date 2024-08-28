@@ -11,7 +11,7 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/deltacommissaris.nl/subdomains.txt)|4|Alive subdomains|
+|[subdomains.txt](/data/deltacommissaris.nl/subdomains.txt)|5|Alive subdomains|
 |[urls.txt](/data/deltacommissaris.nl/urls.txt)|2|Urls|
 |[all_subdomains.txt](/data/deltacommissaris.nl/all_subdomains.txt)|29|All found subdomains (history)|
 

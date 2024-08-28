@@ -5,3 +5,4 @@ opendata.leerhuisinformatiehuishouding.nl
 a-feeds.leerhuisinformatiehuishouding.nl
 a-opendata.leerhuisinformatiehuishouding.nl
 mijn.leerhuisinformatiehuishouding.nl
+a-www.leerhuisinformatiehuishouding.nl
