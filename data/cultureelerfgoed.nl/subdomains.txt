@@ -98,3 +98,7 @@ a-opendata.cultureelerfgoed.nl
 a-english.cultureelerfgoed.nl
 ipv6.cultureelerfgoed.nl
 wfs.cultureelerfgoed.nl
+acc.zaak.services.cultureelerfgoed.nl
+acc.api-gateway.archis.cultureelerfgoed.nl
+acc.client.archis.cultureelerfgoed.nl
+acc.encoded.api-gateway.archis.cultureelerfgoed.nl

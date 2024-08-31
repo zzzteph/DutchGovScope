@@ -11,8 +11,8 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/kansspelautoriteit.nl/subdomains.txt)|28|Alive subdomains|
-|[urls.txt](/data/kansspelautoriteit.nl/urls.txt)|19|Urls|
+|[subdomains.txt](/data/kansspelautoriteit.nl/subdomains.txt)|27|Alive subdomains|
+|[urls.txt](/data/kansspelautoriteit.nl/urls.txt)|18|Urls|
 |[all_subdomains.txt](/data/kansspelautoriteit.nl/all_subdomains.txt)|123|All found subdomains (history)|
 
 
@@ -36,7 +36,6 @@
 |[https://ems.kansspelautoriteit.nl](https://ems.kansspelautoriteit.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||
 |[https://enterpriseenrollment.kansspelautoriteit.nl](https://enterpriseenrollment.kansspelautoriteit.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||
 |[https://enterpriseregistration.kansspelautoriteit.nl](https://enterpriseregistration.kansspelautoriteit.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
-|[https://mfa.kansspelautoriteit.nl](https://mfa.kansspelautoriteit.nl)| | **C**||:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | ||Document Moved|
 |[https://uag1.kansspelautoriteit.nl](https://uag1.kansspelautoriteit.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://vdi.kansspelautoriteit.nl](https://vdi.kansspelautoriteit.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://acc.kansspelautoriteit.nl](https://acc.kansspelautoriteit.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Document Moved|

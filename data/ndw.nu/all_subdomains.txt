@@ -124,3 +124,5 @@ internal-docs.ndw.nu
 havik.ndw.nu
 analytics.ndw.nu
 datafusion.ndw.nu
+d2val.staging.ndw.nu
+mlops-platform.staging.ndw.nu

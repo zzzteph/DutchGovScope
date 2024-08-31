@@ -11,7 +11,7 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/rivm.nl/subdomains.txt)|399|Alive subdomains|
+|[subdomains.txt](/data/rivm.nl/subdomains.txt)|401|Alive subdomains|
 |[urls.txt](/data/rivm.nl/urls.txt)|277|Urls|
 |[all_subdomains.txt](/data/rivm.nl/all_subdomains.txt)|946|All found subdomains (history)|
 

@@ -9,3 +9,4 @@ oid.pkioverheid.nl
 cp.pkioverheid.nl
 por.pkioverheid.nl
 trialrootocsp-g3.ocsp.pkioverheid.nl
+trialdomorganisatieservicesocsp-g3.pkioverheid.nl

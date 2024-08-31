@@ -28,3 +28,5 @@ conf.om.nl
 a-www.om.nl
 a-feeds.om.nl
 a-opendata.om.nl
+enterpriseenrollment.om.nl
+enterpriseregistration.om.nl

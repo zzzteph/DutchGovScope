@@ -2,7 +2,7 @@
 layout: default
 title: "rijksictdashboard.nl"
 permalink: "/dutchgov/rijksictdashboard.nl.html"
-subdomains_count: 7
+subdomains_count: 9
 all_subdomains_count: 10
 urls_count: 7
 ssl_rank: A+
@@ -27,7 +27,7 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/rijksictdashboard.nl/subdomains.txt)|7|Alive subdomains|
+|[subdomains.txt](/DutchGovScope/data/rijksictdashboard.nl/subdomains.txt)|9|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/rijksictdashboard.nl/urls.txt)|7|Urls|
 |[all_subdomains.txt](/DutchGovScope/data/rijksictdashboard.nl/all_subdomains.txt)|10|All found subdomains (history)|
 

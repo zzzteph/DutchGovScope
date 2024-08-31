@@ -13,7 +13,7 @@
 |------------|-------|------|
 |[subdomains.txt](/data/cjib.nl/subdomains.txt)|27|Alive subdomains|
 |[urls.txt](/data/cjib.nl/urls.txt)|15|Urls|
-|[all_subdomains.txt](/data/cjib.nl/all_subdomains.txt)|48|All found subdomains (history)|
+|[all_subdomains.txt](/data/cjib.nl/all_subdomains.txt)|50|All found subdomains (history)|
 
 
 ## Statistics

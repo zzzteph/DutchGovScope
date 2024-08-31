@@ -11,7 +11,7 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/internationaalondernemen.nl/subdomains.txt)|12|Alive subdomains|
+|[subdomains.txt](/data/internationaalondernemen.nl/subdomains.txt)|33|Alive subdomains|
 |[urls.txt](/data/internationaalondernemen.nl/urls.txt)|11|Urls|
 |[all_subdomains.txt](/data/internationaalondernemen.nl/all_subdomains.txt)|33|All found subdomains (history)|
 

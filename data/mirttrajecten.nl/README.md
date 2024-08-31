@@ -11,7 +11,7 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/mirttrajecten.nl/subdomains.txt)|7|Alive subdomains|
+|[subdomains.txt](/data/mirttrajecten.nl/subdomains.txt)|4|Alive subdomains|
 |[urls.txt](/data/mirttrajecten.nl/urls.txt)|4|Urls|
 |[all_subdomains.txt](/data/mirttrajecten.nl/all_subdomains.txt)|7|All found subdomains (history)|
 

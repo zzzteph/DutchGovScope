@@ -7,3 +7,4 @@ min.bzk.nl
 www.min.bzk.nl
 bzkleiderschapsdag2024.bzk.nl
 leiderschapsdag2024.bzk.nl
+static.preproductie.wallet.edi.bzk.nl

@@ -11,7 +11,7 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/rijksacademie.nl/subdomains.txt)|16|Alive subdomains|
+|[subdomains.txt](/data/rijksacademie.nl/subdomains.txt)|13|Alive subdomains|
 |[urls.txt](/data/rijksacademie.nl/urls.txt)|6|Urls|
 |[all_subdomains.txt](/data/rijksacademie.nl/all_subdomains.txt)|21|All found subdomains (history)|
 

@@ -39,7 +39,7 @@ https://localisation.test.zm.irealisatie.nl
 https://timeline.test.zm.irealisatie.nl
 https://qualification.test.zm.irealisatie.nl
 https://metadata.test.zm.irealisatie.nl
-http://addressing.test.zm.irealisatie.nl
+https://addressing.test.zm.irealisatie.nl
 http://www.test.zm.irealisatie.nl
 http://acc.dusi.irealisatie.nl
 http://test.dusi.irealisatie.nl

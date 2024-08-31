@@ -2,12 +2,12 @@
 layout: default
 title: "flevoland.nl"
 permalink: "/dutchgov/flevoland.nl.html"
-subdomains_count: 109
+subdomains_count: 110
 all_subdomains_count: 227
-urls_count: 80
+urls_count: 81
 ssl_rank: A-
 http_rank: C
-security_txt: 29
+security_txt: 30
 url_link: /data/flevoland.nl/urls.txt
 all_subdomains_link: /data/flevoland.nl/all_subdomains.txt
 subdomains_link: /data/flevoland.nl/subdomains.txt
@@ -22,13 +22,13 @@ tags: dutchgov
 
  - **SSL Grade**:A-
  - **HTTP Security Grade**:C
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:29
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:30
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/flevoland.nl/subdomains.txt)|109|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/flevoland.nl/urls.txt)|80|Urls|
+|[subdomains.txt](/DutchGovScope/data/flevoland.nl/subdomains.txt)|110|Alive subdomains|
+|[urls.txt](/DutchGovScope/data/flevoland.nl/urls.txt)|81|Urls|
 |[all_subdomains.txt](/DutchGovScope/data/flevoland.nl/all_subdomains.txt)|227|All found subdomains (history)|
 
 
@@ -107,6 +107,7 @@ tags: dutchgov
 |[https://eloket.flevoland.nl](https://eloket.flevoland.nl)| **A+**| **A**|unspecified|:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache Tomcat Fourthwall:1.0.201.081 Fourthwall:eloket_ui_main-2024.215.001 HSTS Java MariaDB Skolengo:1.0.201.081|Djuma portal|
 |[https://testeloket.flevoland.nl](https://testeloket.flevoland.nl)| **A+**| **A**|unspecified|:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache Tomcat Fourthwall:1.0.201.081 Fourthwall:eloket_ui_main-2024.215.001 HSTS Java MariaDB Skolengo:1.0.201.081|Djuma portal|
 |[https://testmonitorwonen.flevoland.nl](https://testmonitorwonen.flevoland.nl)| **A**| **F**|Microsoft-IIS/10.0| | | | | | | | :white_check_mark: | |IIS:10.0 React Windows Server|Planregistratie...|
+|[https://connect-with.flevoland.nl](https://connect-with.flevoland.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS Nginx|Document Moved|
 |[http://pki.flevoland.nl](http://pki.flevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[http://autodiscover.test.flevoland.nl](http://autodiscover.test.flevoland.nl)| | **C**|Microsoft-IIS/10.0| |:white_check_mark: | | | | | | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server||
 |[https://enterpriseenrollment.flevoland.nl](https://enterpriseenrollment.flevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||

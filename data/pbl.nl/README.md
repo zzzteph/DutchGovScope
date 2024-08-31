@@ -11,7 +11,7 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/pbl.nl/subdomains.txt)|43|Alive subdomains|
+|[subdomains.txt](/data/pbl.nl/subdomains.txt)|45|Alive subdomains|
 |[urls.txt](/data/pbl.nl/urls.txt)|18|Urls|
 |[all_subdomains.txt](/data/pbl.nl/all_subdomains.txt)|98|All found subdomains (history)|
 

@@ -387,6 +387,7 @@ a-ewrs.rivm.nl
 apex-cmm.rivm.nl
 lsocom2.rivm.nl
 lims.rivm.nl
+mailhost.rivm.nl
 acceptatie.lims.rivm.nl
 lsp.rivm.nl
 dashview.rivm.nl
@@ -397,3 +398,4 @@ teebstad-app.rivm.nl
 micha.rivm.nl
 stikstofdepositiedata.rivm.nl
 ggdiamdemo.rivm.nl
+developer.rivm.nl

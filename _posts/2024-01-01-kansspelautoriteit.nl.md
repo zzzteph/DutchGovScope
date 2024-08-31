@@ -2,9 +2,9 @@
 layout: default
 title: "kansspelautoriteit.nl"
 permalink: "/dutchgov/kansspelautoriteit.nl.html"
-subdomains_count: 28
+subdomains_count: 27
 all_subdomains_count: 123
-urls_count: 19
+urls_count: 18
 ssl_rank: A-
 http_rank: C
 security_txt: 2
@@ -27,8 +27,8 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/kansspelautoriteit.nl/subdomains.txt)|28|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/kansspelautoriteit.nl/urls.txt)|19|Urls|
+|[subdomains.txt](/DutchGovScope/data/kansspelautoriteit.nl/subdomains.txt)|27|Alive subdomains|
+|[urls.txt](/DutchGovScope/data/kansspelautoriteit.nl/urls.txt)|18|Urls|
 |[all_subdomains.txt](/DutchGovScope/data/kansspelautoriteit.nl/all_subdomains.txt)|123|All found subdomains (history)|
 
 
@@ -52,7 +52,6 @@ tags: dutchgov
 |[https://ems.kansspelautoriteit.nl](https://ems.kansspelautoriteit.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||
 |[https://enterpriseenrollment.kansspelautoriteit.nl](https://enterpriseenrollment.kansspelautoriteit.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||
 |[https://enterpriseregistration.kansspelautoriteit.nl](https://enterpriseregistration.kansspelautoriteit.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
-|[https://mfa.kansspelautoriteit.nl](https://mfa.kansspelautoriteit.nl)| | **C**||:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | ||Document Moved|
 |[https://uag1.kansspelautoriteit.nl](https://uag1.kansspelautoriteit.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://vdi.kansspelautoriteit.nl](https://vdi.kansspelautoriteit.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://acc.kansspelautoriteit.nl](https://acc.kansspelautoriteit.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Document Moved|

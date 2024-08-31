@@ -2,7 +2,7 @@
 layout: default
 title: "zeeweringen.nl"
 permalink: "/dutchgov/zeeweringen.nl.html"
-subdomains_count: 6
+subdomains_count: 10
 all_subdomains_count: 10
 urls_count: 6
 ssl_rank: D
@@ -27,7 +27,7 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/zeeweringen.nl/subdomains.txt)|6|Alive subdomains|
+|[subdomains.txt](/DutchGovScope/data/zeeweringen.nl/subdomains.txt)|10|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/zeeweringen.nl/urls.txt)|6|Urls|
 |[all_subdomains.txt](/DutchGovScope/data/zeeweringen.nl/all_subdomains.txt)|10|All found subdomains (history)|
 

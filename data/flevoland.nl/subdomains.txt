@@ -83,6 +83,7 @@ oudewebsite.flevoland.nl
 legacy.flevoland.nl
 appvarenflevoland.flevoland.nl
 testtunnelmdm.flevoland.nl
+connect-with.flevoland.nl
 intranet-acc.flevoland.nl
 waterwijzer.flevoland.nl
 testmailmdm.flevoland.nl

@@ -68,6 +68,7 @@ https://georegister-intern.flevoland.nl
 https://eloket.flevoland.nl
 https://testeloket.flevoland.nl
 https://testmonitorwonen.flevoland.nl
+https://connect-with.flevoland.nl
 http://pki.flevoland.nl
 http://autodiscover.test.flevoland.nl
 https://enterpriseenrollment.flevoland.nl

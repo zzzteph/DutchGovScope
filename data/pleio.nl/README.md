@@ -6,13 +6,13 @@
 
  - **SSL Grade**:A-
  - **HTTP Security Grade**:A
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:94
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:93
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/pleio.nl/subdomains.txt)|7235|Alive subdomains|
-|[urls.txt](/data/pleio.nl/urls.txt)|7229|Urls|
+|[subdomains.txt](/data/pleio.nl/subdomains.txt)|7236|Alive subdomains|
+|[urls.txt](/data/pleio.nl/urls.txt)|7227|Urls|
 |[all_subdomains.txt](/data/pleio.nl/all_subdomains.txt)|7241|All found subdomains (history)|
 
 
@@ -2488,10 +2488,8 @@
 |[https://ws4.pleio.nl](https://ws4.pleio.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Domeinnaam nog n...|
 |[https://coach.pleio.nl](https://coach.pleio.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Domeinnaam nog n...|
 |[https://dossier.capacitor.pleio.nl](https://dossier.capacitor.pleio.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | ||302 Found|
-|[https://test.tooling.pleio.nl](https://test.tooling.pleio.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS|404 Not Found|
 |[https://tooling.capacitor.pleio.nl](https://tooling.capacitor.pleio.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | ||302 Found|
-|[https://preprod.capacitor.pleio.nl](https://preprod.capacitor.pleio.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | ||302 Found|
-|[https://prod.capacitor.pleio.nl](https://prod.capacitor.pleio.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | ||302 Found|
+|[http://preprod.capacitor.pleio.nl](http://preprod.capacitor.pleio.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | ||301 Moved Perman...|
 |[https://legacy.capacitor.pleio.nl](https://legacy.capacitor.pleio.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | ||302 Found|
 |[https://abook.pleio.nl](https://abook.pleio.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Domeinnaam nog n...|
 |[https://dae.pleio.nl](https://dae.pleio.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Domeinnaam nog n...|

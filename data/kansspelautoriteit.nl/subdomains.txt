@@ -20,7 +20,6 @@ desktop.kansspelautoriteit.nl
 ems.kansspelautoriteit.nl
 enterpriseenrollment.kansspelautoriteit.nl
 enterpriseregistration.kansspelautoriteit.nl
-mfa.kansspelautoriteit.nl
 uag1.kansspelautoriteit.nl
 vdi.kansspelautoriteit.nl
 vditest.kansspelautoriteit.nl

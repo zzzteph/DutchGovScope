@@ -10,7 +10,4 @@ infoscherm.rijksacademie.nl
 mail.rijksacademie.nl
 virtour.rijksacademie.nl
 wwwold.rijksacademie.nl
-a-feeds.rijksacademie.nl
-a-opendata.rijksacademie.nl
-a-www.rijksacademie.nl
 autodiscover.rijksacademie.nl

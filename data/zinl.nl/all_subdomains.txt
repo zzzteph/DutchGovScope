@@ -97,3 +97,11 @@ documentum-o.zinl.nl
 documentum.xpl-a.zinl.nl
 documentum.xpl-p.zinl.nl
 documentum.zinl.nl
+api-jobsportal-acc.zinl.nl
+api-jobsportal.zinl.nl
+ara-jobsportal.zinl.nl
+auth-jobsportal.zinl.nl
+consul-jobsportal.zinl.nl
+jobsportal-acc.zinl.nl
+jobsportal.zinl.nl
+traefik-jobsportal.zinl.nl

@@ -2,7 +2,7 @@
 layout: default
 title: "rijksacademie.nl"
 permalink: "/dutchgov/rijksacademie.nl.html"
-subdomains_count: 16
+subdomains_count: 13
 all_subdomains_count: 21
 urls_count: 6
 ssl_rank: A+
@@ -27,7 +27,7 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/rijksacademie.nl/subdomains.txt)|16|Alive subdomains|
+|[subdomains.txt](/DutchGovScope/data/rijksacademie.nl/subdomains.txt)|13|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/rijksacademie.nl/urls.txt)|6|Urls|
 |[all_subdomains.txt](/DutchGovScope/data/rijksacademie.nl/all_subdomains.txt)|21|All found subdomains (history)|
 

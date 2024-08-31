@@ -93,7 +93,6 @@ vpn-hth.provincie-utrecht.nl
 vribc-hth.provincie-utrecht.nl
 webkaarttest.provincie-utrecht.nl
 wifi.provincie-utrecht.nl
-vmc-hth.provincie-utrecht.nl
 vsu.provincie-utrecht.nl
 wortel175.tstweb.provincie-utrecht.nl
 wortel175.wwwcms.provincie-utrecht.nl

@@ -2,7 +2,7 @@
 layout: default
 title: "cultureelerfgoed.nl"
 permalink: "/dutchgov/cultureelerfgoed.nl.html"
-subdomains_count: 100
+subdomains_count: 104
 all_subdomains_count: 136
 urls_count: 74
 ssl_rank: A-
@@ -27,7 +27,7 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/cultureelerfgoed.nl/subdomains.txt)|100|Alive subdomains|
+|[subdomains.txt](/DutchGovScope/data/cultureelerfgoed.nl/subdomains.txt)|104|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/cultureelerfgoed.nl/urls.txt)|74|Urls|
 |[all_subdomains.txt](/DutchGovScope/data/cultureelerfgoed.nl/all_subdomains.txt)|136|All found subdomains (history)|
 

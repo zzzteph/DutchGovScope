@@ -8,6 +8,7 @@ evaluaties.rijksfinancien.nl
 archief-acc.rijksfinancien.nl
 www-acc.rijksfinancien.nl
 miljoenennota.rijksfinancien.nl
+feeds.english.rijksfinancien.nl
 app.rijksfinancien.nl
 app2.rijksfinancien.nl
 www2.rijksfinancien.nl

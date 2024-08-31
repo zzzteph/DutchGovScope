@@ -38,3 +38,4 @@ ontwikkelserver.eerstekamer.nl
 as3.eerstekamer.nl
 redactie.migratie.eerstekamer.nl
 www.migratie.eerstekamer.nl
+piwik.eerstekamer.nl
