@@ -11,9 +11,9 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/overheid.nl/subdomains.txt)|67494|Alive subdomains|
+|[subdomains.txt](/data/overheid.nl/subdomains.txt)|67493|Alive subdomains|
 |[urls.txt](/data/overheid.nl/urls.txt)|314|Urls|
-|[all_subdomains.txt](/data/overheid.nl/all_subdomains.txt)|68998|All found subdomains (history)|
+|[all_subdomains.txt](/data/overheid.nl/all_subdomains.txt)|70126|All found subdomains (history)|
 
 
 ## Statistics
@@ -87,7 +87,6 @@
 |[https://doculoket-acc.overheid.nl](https://doculoket-acc.overheid.nl)| **A+**| **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache Tomcat Fourthwall:1.0.0 HSTS Java MariaDB Skolengo:1.0.0|Aanlever Portaal...|
 |[https://drop.overheid.nl](https://drop.overheid.nl)| **A+**| **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Object moved|
 |[https://drop-api.overheid.nl](https://drop-api.overheid.nl)| **A+**| **A**||:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
-|[https://drop-api-acc.overheid.nl](https://drop-api-acc.overheid.nl)| **A+**| **A**||:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://ebms.contentbeheer.omgevingswet.overheid.nl](https://ebms.contentbeheer.omgevingswet.overheid.nl)| **F**| **E**|| | | | | | | | :white_check_mark: | |||
 |[https://ebms.service.bta.omgevingswet.overheid.nl](https://ebms.service.bta.omgevingswet.overheid.nl)| **F**| **E**|| | | | | | | | :white_check_mark: | ||400 No required...|
 |[https://enabling.omgevingswet.overheid.nl](https://enabling.omgevingswet.overheid.nl)| **A+**| **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Omgevingsloket|
@@ -335,4 +334,5 @@
 |[https://resolver.omgevingswet.overheid.nl](https://resolver.omgevingswet.overheid.nl)| | **C**|unspecified| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
 |[https://resolver.pfm.omgevingswet.overheid.nl](https://resolver.pfm.omgevingswet.overheid.nl)| | **C**|Unspecified| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
 |[https://resolver.pre.omgevingswet.overheid.nl](https://resolver.pre.omgevingswet.overheid.nl)| | **C**|unspecified| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
+|[http://demo2-systemteam.overheid.nl](http://demo2-systemteam.overheid.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 

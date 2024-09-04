@@ -5,14 +5,14 @@
 
 
  - **SSL Grade**:A+
- - **HTTP Security Grade**:A
+ - **HTTP Security Grade**:C
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:6
 
 
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/tlokb.nl/subdomains.txt)|17|Alive subdomains|
-|[urls.txt](/data/tlokb.nl/urls.txt)|6|Urls|
+|[urls.txt](/data/tlokb.nl/urls.txt)|10|Urls|
 |[all_subdomains.txt](/data/tlokb.nl/all_subdomains.txt)|19|All found subdomains (history)|
 
 
@@ -27,4 +27,8 @@
 |[https://www.tlokb.nl](https://www.tlokb.nl)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Home | Toelating...|
 |[https://tlokb.nl](https://tlokb.nl)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
 |[https://register-backend.tlokb.nl](https://register-backend.tlokb.nl)| | **C**|nginx|:o: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|Laravel|
+|[https://acc.tlokb.nl](https://acc.tlokb.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Basic HSTS Nginx|401 Authorizatio...|
+|[https://cms-acc.tlokb.nl](https://cms-acc.tlokb.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Basic HSTS Nginx|401 Authorizatio...|
+|[https://cms-test.tlokb.nl](https://cms-test.tlokb.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Basic HSTS Nginx|401 Authorizatio...|
+|[https://test.tlokb.nl](https://test.tlokb.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Basic HSTS Nginx|401 Authorizatio...|
 

@@ -1,6 +1,4 @@
-feeds.platformrijksoverheidonline.nl
 magazines.platformrijksoverheidonline.nl
-opendata.platformrijksoverheidonline.nl
 www.platformrijksoverheidonline.nl
 platformrijksoverheidonline.nl
 a-feeds.platformrijksoverheidonline.nl

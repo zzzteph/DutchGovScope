@@ -64,7 +64,6 @@ doculoket.overheid.nl
 doculoket-acc.overheid.nl
 drop.overheid.nl
 drop-api.overheid.nl
-drop-api-acc.overheid.nl
 ebms.contentbeheer.omgevingswet.overheid.nl
 ebms.service.bta.omgevingswet.overheid.nl
 enabling.omgevingswet.overheid.nl

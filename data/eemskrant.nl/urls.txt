@@ -10,7 +10,7 @@ https://smtp.eemskrant.nl
 https://cdn-4.eemskrant.nl
 https://cdn-0.eemskrant.nl
 https://cdn.eemskrant.nl
-https://eemskrant.nl
+http://eemskrant.nl
 https://mail.eemskrant.nl
 https://cdn-5.eemskrant.nl
 https://cdn-2.eemskrant.nl

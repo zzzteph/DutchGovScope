@@ -11,3 +11,5 @@ moms.hoogpkb.nl
 longines.hoogpkb.nl
 kotka.hoogpkb.nl
 securepromo.hoogpkb.nl
+enterpriseenrollment.hoogpkb.nl
+enterpriseregistration.hoogpkb.nl

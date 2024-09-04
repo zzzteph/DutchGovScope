@@ -13,7 +13,7 @@
 |------------|-------|------|
 |[subdomains.txt](/data/tweedekamer.nl/subdomains.txt)|204|Alive subdomains|
 |[urls.txt](/data/tweedekamer.nl/urls.txt)|133|Urls|
-|[all_subdomains.txt](/data/tweedekamer.nl/all_subdomains.txt)|302|All found subdomains (history)|
+|[all_subdomains.txt](/data/tweedekamer.nl/all_subdomains.txt)|303|All found subdomains (history)|
 
 
 ## Statistics

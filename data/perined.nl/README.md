@@ -11,8 +11,8 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/perined.nl/subdomains.txt)|420|Alive subdomains|
-|[urls.txt](/data/perined.nl/urls.txt)|106|Urls|
+|[subdomains.txt](/data/perined.nl/subdomains.txt)|421|Alive subdomains|
+|[urls.txt](/data/perined.nl/urls.txt)|107|Urls|
 |[all_subdomains.txt](/data/perined.nl/all_subdomains.txt)|1726|All found subdomains (history)|
 
 
@@ -54,6 +54,7 @@
 |[https://punk.perined.nl](https://punk.perined.nl)| | **F**|Apache/2.4.61 (Amazon Linux) OpenSSL/3.0.8| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.61 HSTS OpenSSL:3.0.8|301 Moved Perman...|
 |[https://aboutyusata.perined.nl](https://aboutyusata.perined.nl)| | **F**|Apache/2.4.61 (Amazon Linux) OpenSSL/3.0.8| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.61 HSTS OpenSSL:3.0.8|301 Moved Perman...|
 |[https://dinosaur.perined.nl](https://dinosaur.perined.nl)| | **F**|Apache/2.4.61 (Amazon Linux) OpenSSL/3.0.8| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.61 HSTS OpenSSL:3.0.8|301 Moved Perman...|
+|[https://hegebeintum.perined.nl](https://hegebeintum.perined.nl)| | **F**|Apache/2.4.61 (Amazon Linux) OpenSSL/3.0.8| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.61 HSTS OpenSSL:3.0.8|301 Moved Perman...|
 |[https://500blog.perined.nl](https://500blog.perined.nl)| | **F**|Apache/2.4.61 (Amazon Linux) OpenSSL/3.0.8| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.61 HSTS OpenSSL:3.0.8|301 Moved Perman...|
 |[https://ib.perined.nl](https://ib.perined.nl)| | **F**|Apache/2.4.61 (Amazon Linux) OpenSSL/3.0.8| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.61 HSTS OpenSSL:3.0.8|301 Moved Perman...|
 |[https://first.perined.nl](https://first.perined.nl)| | **F**|Apache/2.4.61 (Amazon Linux) OpenSSL/3.0.8| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.61 HSTS OpenSSL:3.0.8|301 Moved Perman...|

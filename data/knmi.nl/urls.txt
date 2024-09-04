@@ -35,7 +35,7 @@ https://rdsa.knmi.nl
 https://rdsa-prdt.knmi.nl
 http://rdsa-test.knmi.nl
 https://scatterometer.knmi.nl
-https://testconn.knmi.nl
+http://testconn.knmi.nl
 https://testgeoservices.knmi.nl
 https://tyk-cdn.dataplatform.knmi.nl
 https://w3dxweb.knmi.nl

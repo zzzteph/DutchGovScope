@@ -35,9 +35,9 @@
 |[https://connect.knmi.nl](https://connect.knmi.nl)| **B**| **C**|BigIP|:warning: |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |F5 BigIP||
 |[https://consultatie.knmi.nl](https://consultatie.knmi.nl)| **B**| **F**|Apache/2.4.25 (Debian)|:o: | | | | | | | :white_check_mark: | |Amazon ALB Amazon Web Services Apache HTTP Server:2.4.25 CakePHP Debian PHP:5.6.40||
 |[https://daggegevens.knmi.nl](https://daggegevens.knmi.nl)| **A**| **E**||:warning: | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Ruby Ruby on Rails|Dagwaarden van w...|
-|[https://data.knmi.nl](https://data.knmi.nl)| **A**| **A**|awselb/2.0| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |Amazon ELB Amazon Web Services|301 Moved Perman...|
+|[https://data.knmi.nl](https://data.knmi.nl)| **A**| **B**|awselb/2.0|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |Amazon ELB Amazon Web Services|301 Moved Perman...|
 |[https://datalab.knmi.nl](https://datalab.knmi.nl)| **A**| **F**|Apache/2| | | | | | | | :white_check_mark: | |Apache HTTP Server:2 MySQL PHP WPML:4.6.11 WordPress:6.6.1 Yoast SEO:23.1|KNMI datalab - K...|
-|[https://dataplatform.knmi.nl](https://dataplatform.knmi.nl)| **A+**| **A**|gunicorn| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |Amazon S3 Amazon Web Services Ckan:2.9.11 HSTS Java PostgreSQL Python Solr gunicorn|Welcome - KNMI D...|
+|[https://dataplatform.knmi.nl](https://dataplatform.knmi.nl)| **A+**| **B**|gunicorn|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |Amazon S3 Amazon Web Services Ckan:2.10.4 HSTS Java PostgreSQL Python Solr gunicorn|Welcome - KNMI D...|
 |[https://developer.dataplatform.knmi.nl](https://developer.dataplatform.knmi.nl)| **A+**| **A**|| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Bootstrap HSTS|KNMI Developer p...|
 |[http://download.webmail.knmi.nl](http://download.webmail.knmi.nl)| **B**| **E**|| | | | | | | | :white_check_mark: | |||
 |[https://dwo.knmi.nl](https://dwo.knmi.nl)| **B**| **E**|| | | | | | | | :white_check_mark: | |||
@@ -58,7 +58,7 @@
 |[https://rdsa-prdt.knmi.nl](https://rdsa-prdt.knmi.nl)| **F**| **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server Bootstrap|KNMI Seismic & A...|
 |[http://rdsa-test.knmi.nl](http://rdsa-test.knmi.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|403 Forbidden|
 |[https://scatterometer.knmi.nl](https://scatterometer.knmi.nl)| **A**| **F**|Apache/2.4.61 (Debian)|:o: | | | | | | | :white_check_mark: | |Amazon ALB Amazon Web Services Apache HTTP Server:2.4.61 Debian||
-|[https://testconn.knmi.nl](https://testconn.knmi.nl)| **B**| **C**||:warning: |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |F5 BigIP HSTS||
+|[http://testconn.knmi.nl](http://testconn.knmi.nl)| **B**| **C**|BigIP|:warning: |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |F5 BigIP||
 |[https://testgeoservices.knmi.nl](https://testgeoservices.knmi.nl)| **F**| **F**|uvicorn| | | | | | | | :white_check_mark: | |HSTS Python Uvicorn||
 |[https://tyk-cdn.dataplatform.knmi.nl](https://tyk-cdn.dataplatform.knmi.nl)| **A**| **F**|AmazonS3| | | | | | | | :white_check_mark: | |Amazon CloudFront Amazon S3 Amazon Web Services||
 |[https://w3dxweb.knmi.nl](https://w3dxweb.knmi.nl)| **B**| **F**|Apache/2.4.37 (Red Hat Enterprise Linux) OpenSSL/1.1.1k| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.37 Basic OpenSSL:1.1.1k Red Hat|401 Unauthorized|

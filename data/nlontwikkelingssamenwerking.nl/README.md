@@ -11,7 +11,7 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/nlontwikkelingssamenwerking.nl/subdomains.txt)|4|Alive subdomains|
+|[subdomains.txt](/data/nlontwikkelingssamenwerking.nl/subdomains.txt)|5|Alive subdomains|
 |[urls.txt](/data/nlontwikkelingssamenwerking.nl/urls.txt)|4|Urls|
 |[all_subdomains.txt](/data/nlontwikkelingssamenwerking.nl/all_subdomains.txt)|7|All found subdomains (history)|
 

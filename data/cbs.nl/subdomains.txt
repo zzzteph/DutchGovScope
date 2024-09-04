@@ -224,3 +224,5 @@ lc.cbs.nl
 geoserver.cbs.nl
 autodiscover.cbs.nl
 outlook.cbs.nl
+beta-iv3-controle.cbs.nl
+iv3-controle.beta.cbs.nl

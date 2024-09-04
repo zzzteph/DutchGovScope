@@ -21,7 +21,7 @@
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://acc.avgregisterrijksoverheid.nl](https://acc.avgregisterrijksoverheid.nl)| **F**| **E**|| | | | | | | | :white_check_mark: | ||Service Unavaila...|
+|[https://acc.avgregisterrijksoverheid.nl](https://acc.avgregisterrijksoverheid.nl)| **F**| **E**|| | | | | | | | :white_check_mark: | ||AVG Verwerkingen...|
 |[https://www.avgregisterrijksoverheid.nl](https://www.avgregisterrijksoverheid.nl)| **B**| **C**||:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|AVG Verwerkingen...|
 |[https://avgregisterrijksoverheid.nl](https://avgregisterrijksoverheid.nl)| **B**| **C**||:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|AVG Verwerkingen...|
 

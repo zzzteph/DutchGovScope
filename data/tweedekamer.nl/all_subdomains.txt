@@ -300,3 +300,4 @@ developer.beta.tweedekamer.nl
 bibliotheek.tweedekamer.nl
 bibliotheek-test.tweedekamer.nl
 static.beta.tweedekamer.nl
+klinkendetaal.tweedekamer.nl

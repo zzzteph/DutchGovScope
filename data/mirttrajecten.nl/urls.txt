@@ -1,4 +1,2 @@
-https://feeds.mirttrajecten.nl
-https://opendata.mirttrajecten.nl
 https://www.mirttrajecten.nl
 https://mirttrajecten.nl

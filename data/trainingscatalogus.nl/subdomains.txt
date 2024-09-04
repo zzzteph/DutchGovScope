@@ -216,3 +216,4 @@ bewerk.test.trainingscatalogus.nl
 pbo.trainingscatalogus.nl
 hostmaster.test.trainingscatalogus.nl
 rbo-a.trainingscatalogus.nl
+apis.test.trainingscatalogus.nl

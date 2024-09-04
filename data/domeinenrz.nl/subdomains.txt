@@ -30,3 +30,4 @@ services2.domeinenrz.nl
 vpn2.domeinenrz.nl
 autodiscover.domeinenrz.nl
 hybrid.domeinenrz.nl
+services-test.domeinenrz.nl

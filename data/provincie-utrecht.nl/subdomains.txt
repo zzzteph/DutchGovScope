@@ -52,6 +52,7 @@ intranet.provincie-utrecht.nl
 innerweb.provincie-utrecht.nl
 logint.provincie-utrecht.nl
 nnn-wijzer.provincie-utrecht.nl
+slechtvalk.provincie-utrecht.nl
 geo.provincie-utrecht.nl
 gis.provincie-utrecht.nl
 provincie-utrecht.nl

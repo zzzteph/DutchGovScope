@@ -19,3 +19,4 @@ https://lap.rvp.reis.npr.idm.rvig.nl
 https://lap.api.reis.npr.idm.rvig.nl
 https://rni-portal-acc.rvig.nl
 http://agw.lap.idm.rvig.nl
+https://rni-portal.rvig.nl

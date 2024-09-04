@@ -117,3 +117,4 @@ ns.test.rechtwijzer.nl
 digikoppeling.test.rechtwijzer.nl
 download.test.rechtwijzer.nl
 dev.test.rechtwijzer.nl
+account.test.rechtwijzer.nl

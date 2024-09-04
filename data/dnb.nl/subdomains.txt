@@ -21,8 +21,6 @@ statistics.dnb.nl
 nnc.dnb.nl
 merkportaal.dnb.nl
 formulieren.dnb.nl
-eherkenning-signicat-preprod.dnb.nl
-ext4-federationa.dnb.nl
 dataloop.dnb.nl
 api.management.dnb.nl
 api-staging.dnb.nl
@@ -51,7 +49,6 @@ mockapp-dev.dnb.nl
 dkeservice-staging.dnb.nl
 enterpriseregistration.dnb.nl
 mijn-pp.dnb.nl
-ext4-federation.dnb.nl
 login.dnb.nl
 docs.riks-acc.azure.dnb.nl
 riks-ci.azure.dnb.nl
@@ -70,7 +67,6 @@ pmhdsk-ci.dnb.nl
 projects.sharepoint.dnb.nl
 docs.riks-ci.azure.dnb.nl
 stepui-tst.azure.dnb.nl
-eherkenning-signicat.dnb.nl
 riks-ft.azure.dnb.nl
 autodiscover.dnb.nl
 api.dataloop-acc.dnb.nl
@@ -183,3 +179,4 @@ svcalendar-dev.dnb.nl
 dtlgt-monitoring-acc.azure.dnb.nl
 dtlgt-monitoring-tst.azure.dnb.nl
 dtlgt-monitoring-prd.azure.dnb.nl
+svcalendar-acc.dnb.nl

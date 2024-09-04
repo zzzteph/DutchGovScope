@@ -1,4 +1,2 @@
-feeds.mirttrajecten.nl
-opendata.mirttrajecten.nl
 www.mirttrajecten.nl
 mirttrajecten.nl

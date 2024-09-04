@@ -23,7 +23,6 @@ mijnwmo-siam.svb.nl
 assyst-a.svb.nl
 pers.svb.nl
 assyst-t.svb.nl
-sts.svb.nl
 pages.svb.nl
 rdsapplications06.svb.nl
 mijnpgb.svb.nl

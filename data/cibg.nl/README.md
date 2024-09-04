@@ -4,15 +4,15 @@
 ## Summary data
 
 
- - **SSL Grade**:B+
+ - **SSL Grade**:B
  - **HTTP Security Grade**:C
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:29
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:30
 
 
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/cibg.nl/subdomains.txt)|80|Alive subdomains|
-|[urls.txt](/data/cibg.nl/urls.txt)|57|Urls|
+|[urls.txt](/data/cibg.nl/urls.txt)|59|Urls|
 |[all_subdomains.txt](/data/cibg.nl/all_subdomains.txt)|144|All found subdomains (history)|
 
 
@@ -62,13 +62,15 @@
 |[https://publicwebservices.cibg.nl](https://publicwebservices.cibg.nl)| **A**| **F**|-| | | | | | | | :white_check_mark: | |HSTS||
 |[http://publicwebservices-dcr.cibg.nl](http://publicwebservices-dcr.cibg.nl)| **A**| **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |F5 BigIP||
 |[http://stijlgids.cibg.nl](http://stijlgids.cibg.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
+|[http://test.digikoppeling.cibg.nl](http://test.digikoppeling.cibg.nl)| **F**| **D**|-| | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |||
+|[https://test.publicwebservices.cibg.nl](https://test.publicwebservices.cibg.nl)| **A**| **A**|-| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://tmv.cibg.nl](https://tmv.cibg.nl)| **A**| **A**|-| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://uzipas.lir.cibg.nl](https://uzipas.lir.cibg.nl)| **A**| **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://webchat.klopt.cibg.nl](https://webchat.klopt.cibg.nl)| **A**| **E**|| | | | | | | | :white_check_mark: | ||404 Not Found|
 |[http://webservices.lrza.cibg.nl](http://webservices.lrza.cibg.nl)| **F**| **F**|BigIP| | | | | | | | :white_check_mark: | |F5 BigIP||
 |[https://www.cibg.nl](https://www.cibg.nl)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Home | CIBG|
 |[https://cibg.nl](https://cibg.nl)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
-|[https://portaal.digilevering.cibg.nl](https://portaal.digilevering.cibg.nl)| **A**| **A**|-| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
+|[https://portaal.digilevering.cibg.nl](https://portaal.digilevering.cibg.nl)| **A**| **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://acceptatie.portaal.digilevering.cibg.nl](https://acceptatie.portaal.digilevering.cibg.nl)| **A**| **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[http://styleguide.cibg.nl](http://styleguide.cibg.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://acceptatie.beheer.generiekeregistratiedienst.cibg.nl](https://acceptatie.beheer.generiekeregistratiedienst.cibg.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||

@@ -12,3 +12,4 @@ a-feeds.registersocialehygiene.nl
 a-opendata.registersocialehygiene.nl
 a-www.registersocialehygiene.nl
 beheer.registersocialehygiene.nl
+acceptatie.beheer.registersocialehygiene.nl

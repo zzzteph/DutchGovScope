@@ -13,7 +13,7 @@
 |------------|-------|------|
 |[subdomains.txt](/data/hoogpkb.nl/subdomains.txt)|12|Alive subdomains|
 |[urls.txt](/data/hoogpkb.nl/urls.txt)|11|Urls|
-|[all_subdomains.txt](/data/hoogpkb.nl/all_subdomains.txt)|13|All found subdomains (history)|
+|[all_subdomains.txt](/data/hoogpkb.nl/all_subdomains.txt)|15|All found subdomains (history)|
 
 
 ## Statistics

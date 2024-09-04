@@ -13,7 +13,7 @@
 |------------|-------|------|
 |[subdomains.txt](/data/hydro.nl/subdomains.txt)|0|Alive subdomains|
 |[urls.txt](/data/hydro.nl/urls.txt)|0|Urls|
-|[all_subdomains.txt](/data/hydro.nl/all_subdomains.txt)|4|All found subdomains (history)|
+|[all_subdomains.txt](/data/hydro.nl/all_subdomains.txt)|16|All found subdomains (history)|
 
 
 ## Statistics

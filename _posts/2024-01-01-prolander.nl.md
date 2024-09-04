@@ -41,7 +41,7 @@ tags: dutchgov
 |[https://www.prolander.nl](https://www.prolander.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:-|Prolander - Prol...|
 |[https://portaal.prolander.nl](https://portaal.prolander.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |Bootstrap:4 HSTS|Liquit Workspace|
 |[https://gis.prolander.nl](https://gis.prolander.nl)| | **D**||:warning: |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|IIS Windows Serv...|
-|[http://autodiscover.prolander.nl](http://autodiscover.prolander.nl)| | **C**|Microsoft-IIS/10.0| |:white_check_mark: | | | | | | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server||
+|[http://autodiscover.prolander.nl](http://autodiscover.prolander.nl)| | **B**|Microsoft-IIS/10.0|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server||
 |[https://enterpriseenrollment.prolander.nl](https://enterpriseenrollment.prolander.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||
 |[https://enterpriseregistration.prolander.nl](https://enterpriseregistration.prolander.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[http://localhost.prolander.nl](http://localhost.prolander.nl)| | **F**|nginx| | | :warning:| | | | | :white_check_mark: | |Nginx|(404 Not Found)|

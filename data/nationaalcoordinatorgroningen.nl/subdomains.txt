@@ -2,7 +2,6 @@ aip.nationaalcoordinatorgroningen.nl
 aip-acc.nationaalcoordinatorgroningen.nl
 feeds.nationaalcoordinatorgroningen.nl
 intranet.nationaalcoordinatorgroningen.nl
-intranet-acc.nationaalcoordinatorgroningen.nl
 intranet-prod.nationaalcoordinatorgroningen.nl
 opendata.nationaalcoordinatorgroningen.nl
 www.nationaalcoordinatorgroningen.nl
@@ -16,7 +15,6 @@ a-feeds.nationaalcoordinatorgroningen.nl
 a-opendata.nationaalcoordinatorgroningen.nl
 o-www.nationaalcoordinatorgroningen.nl
 t-www.nationaalcoordinatorgroningen.nl
-intranet-tst.nationaalcoordinatorgroningen.nl
 i-www.nationaalcoordinatorgroningen.nl
 jet-test.nationaalcoordinatorgroningen.nl
 jet-acc.nationaalcoordinatorgroningen.nl

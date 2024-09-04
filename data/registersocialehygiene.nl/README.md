@@ -13,7 +13,7 @@
 |------------|-------|------|
 |[subdomains.txt](/data/registersocialehygiene.nl/subdomains.txt)|14|Alive subdomains|
 |[urls.txt](/data/registersocialehygiene.nl/urls.txt)|11|Urls|
-|[all_subdomains.txt](/data/registersocialehygiene.nl/all_subdomains.txt)|14|All found subdomains (history)|
+|[all_subdomains.txt](/data/registersocialehygiene.nl/all_subdomains.txt)|15|All found subdomains (history)|
 
 
 ## Statistics
