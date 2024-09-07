@@ -11,7 +11,7 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/nfitraining.nl/subdomains.txt)|2|Alive subdomains|
+|[subdomains.txt](/data/nfitraining.nl/subdomains.txt)|3|Alive subdomains|
 |[urls.txt](/data/nfitraining.nl/urls.txt)|2|Urls|
 |[all_subdomains.txt](/data/nfitraining.nl/all_subdomains.txt)|3|All found subdomains (history)|
 

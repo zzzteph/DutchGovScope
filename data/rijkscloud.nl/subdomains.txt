@@ -131,7 +131,6 @@ rijkscloud.nl
 openstack.gn3.rijkscloud.nl
 status.gn3.rijkscloud.nl
 portal.ip.test.duo.rijkscloud.nl
-ip.test.duo.rijkscloud.nl
 rstudio.ip.test.duo.rijkscloud.nl
 projects.pages.ds-ocw.rijkscloud.nl
 gdw-art.cvr.rvb.rijkscloud.nl

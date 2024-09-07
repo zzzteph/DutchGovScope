@@ -295,6 +295,8 @@ https://emailtemplates.overheid.nl
 https://gegevensbijbesluiten.overheid.nl
 https://digid-stub.lpc.mijn.overheid.nl
 https://eidas-stub.lpc.mijn.overheid.nl
+https://artifact-pp1.toegang.overheid.nl
+https://boub-api-acc.overheid.nl
 https://pdc.acc.omgevingswet.overheid.nl
 https://pp1.toegang.overheid.nl
 https://wetgevingskalender-acc.overheid.nl

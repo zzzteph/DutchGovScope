@@ -13,7 +13,7 @@
 |------------|-------|------|
 |[subdomains.txt](/data/waterschaplimburg.nl/subdomains.txt)|3048|Alive subdomains|
 |[urls.txt](/data/waterschaplimburg.nl/urls.txt)|2785|Urls|
-|[all_subdomains.txt](/data/waterschaplimburg.nl/all_subdomains.txt)|3165|All found subdomains (history)|
+|[all_subdomains.txt](/data/waterschaplimburg.nl/all_subdomains.txt)|3287|All found subdomains (history)|
 
 
 ## Statistics
@@ -2465,9 +2465,9 @@
 |[http://mxr.waterschaplimburg.nl](http://mxr.waterschaplimburg.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
 |[http://destiny.waterschaplimburg.nl](http://destiny.waterschaplimburg.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
 |[http://passions.waterschaplimburg.nl](http://passions.waterschaplimburg.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
-|[http://plugandplay.waterschaplimburg.nl](http://plugandplay.waterschaplimburg.nl)| | **E**|Microsoft-HTTPAPI/2.0| | | | | | :white_check_mark: | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
+|[http://plugandplay.waterschaplimburg.nl](http://plugandplay.waterschaplimburg.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
 |[http://venezia.waterschaplimburg.nl](http://venezia.waterschaplimburg.nl)| | **E**|Microsoft-HTTPAPI/2.0| | | | | | :white_check_mark: | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
-|[http://i87.waterschaplimburg.nl](http://i87.waterschaplimburg.nl)| | **E**|Microsoft-HTTPAPI/2.0| | | | | | :white_check_mark: | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
+|[http://i87.waterschaplimburg.nl](http://i87.waterschaplimburg.nl)| | **D**|| | | | | | :white_check_mark: | | :white_check_mark: | |Microsoft HTTPAPI:2.0||
 |[http://bard.waterschaplimburg.nl](http://bard.waterschaplimburg.nl)| | **D**|| | | | | | :white_check_mark: | | :white_check_mark: | |||
 |[http://cenforce.waterschaplimburg.nl](http://cenforce.waterschaplimburg.nl)| | **D**|| | | | | | :white_check_mark: | | :white_check_mark: | |||
 |[http://yuqing.waterschaplimburg.nl](http://yuqing.waterschaplimburg.nl)| | **D**|| | | | | | :white_check_mark: | | :white_check_mark: | |||

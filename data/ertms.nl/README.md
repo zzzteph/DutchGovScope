@@ -12,7 +12,7 @@
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/ertms.nl/subdomains.txt)|19|Alive subdomains|
-|[urls.txt](/data/ertms.nl/urls.txt)|11|Urls|
+|[urls.txt](/data/ertms.nl/urls.txt)|18|Urls|
 |[all_subdomains.txt](/data/ertms.nl/all_subdomains.txt)|19|All found subdomains (history)|
 
 
@@ -32,4 +32,11 @@
 |[http://hegang.ertms.nl](http://hegang.ertms.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[http://achthuizen.ertms.nl](http://achthuizen.ertms.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[http://saras.ertms.nl](http://saras.ertms.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
+|[http://magma.ertms.nl](http://magma.ertms.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
+|[http://anso.ertms.nl](http://anso.ertms.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
+|[http://help6.ertms.nl](http://help6.ertms.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
+|[http://mx.blog.ertms.nl](http://mx.blog.ertms.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
+|[http://mta26.ertms.nl](http://mta26.ertms.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
+|[http://ghh.ertms.nl](http://ghh.ertms.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
+|[http://bambie.ertms.nl](http://bambie.ertms.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 

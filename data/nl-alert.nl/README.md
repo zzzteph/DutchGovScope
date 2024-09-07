@@ -11,7 +11,7 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/nl-alert.nl/subdomains.txt)|14|Alive subdomains|
+|[subdomains.txt](/data/nl-alert.nl/subdomains.txt)|15|Alive subdomains|
 |[urls.txt](/data/nl-alert.nl/urls.txt)|7|Urls|
 |[all_subdomains.txt](/data/nl-alert.nl/all_subdomains.txt)|17|All found subdomains (history)|
 

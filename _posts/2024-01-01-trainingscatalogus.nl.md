@@ -2,12 +2,12 @@
 layout: default
 title: "trainingscatalogus.nl"
 permalink: "/dutchgov/trainingscatalogus.nl.html"
-subdomains_count: 219
-all_subdomains_count: 239
-urls_count: 118
+subdomains_count: 225
+all_subdomains_count: 249
+urls_count: 119
 ssl_rank: A+
 http_rank: C
-security_txt: 41
+security_txt: 42
 url_link: /data/trainingscatalogus.nl/urls.txt
 all_subdomains_link: /data/trainingscatalogus.nl/all_subdomains.txt
 subdomains_link: /data/trainingscatalogus.nl/subdomains.txt
@@ -22,14 +22,14 @@ tags: dutchgov
 
  - **SSL Grade**:A+
  - **HTTP Security Grade**:C
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:41
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:42
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/trainingscatalogus.nl/subdomains.txt)|219|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/trainingscatalogus.nl/urls.txt)|118|Urls|
-|[all_subdomains.txt](/DutchGovScope/data/trainingscatalogus.nl/all_subdomains.txt)|239|All found subdomains (history)|
+|[subdomains.txt](/DutchGovScope/data/trainingscatalogus.nl/subdomains.txt)|225|Alive subdomains|
+|[urls.txt](/DutchGovScope/data/trainingscatalogus.nl/urls.txt)|119|Urls|
+|[all_subdomains.txt](/DutchGovScope/data/trainingscatalogus.nl/all_subdomains.txt)|249|All found subdomains (history)|
 
 
 ## Statistics
@@ -155,4 +155,5 @@ tags: dutchgov
 |[https://vgz-lms.course-api.trainingscatalogus.nl](https://vgz-lms.course-api.trainingscatalogus.nl)| | **F**|Microsoft-IIS/10.0|:white_check_mark: | | | | | | | :white_check_mark: | |Azure IIS:10.0 Microsoft ASP.NET Windows Server||
 |[https://vgz-lms.enrollment-api.trainingscatalogus.nl](https://vgz-lms.enrollment-api.trainingscatalogus.nl)| | **F**|Microsoft-IIS/10.0|:white_check_mark: | | | | | | | :white_check_mark: | |Azure IIS:10.0 Microsoft ASP.NET Windows Server||
 |[https://vgz-lms.scim-api.trainingscatalogus.nl](https://vgz-lms.scim-api.trainingscatalogus.nl)| | **F**|Microsoft-IIS/10.0|:white_check_mark: | | | | | | | :white_check_mark: | |Azure IIS:10.0 Microsoft ASP.NET Windows Server||
+|[https://pbo.trainingscatalogus.nl](https://pbo.trainingscatalogus.nl)| | **C**|Class|:white_check_mark: |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | |HSTS||
 

@@ -29,3 +29,5 @@ autodiscover.odnhn.nl
 email.odnhn.nl
 enterpriseregistration.odnhn.nl
 koppeling.odnhn.nl
+odnhn-ktaw-wp01.internal.odnhn.nl
+odnhn-ktaw-wt01.internal.odnhn.nl

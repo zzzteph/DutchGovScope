@@ -5,7 +5,6 @@ https://cpcalendars.lchulpmiddelen.nl
 https://cpcontacts.lchulpmiddelen.nl
 https://ftp.lchulpmiddelen.nl
 https://ipv6.lchulpmiddelen.nl
-https://test.apps.lchulpmiddelen.nl
 https://webdisk.lchulpmiddelen.nl
 https://www.lchulpmiddelen.nl
 https://lchulpmiddelen.nl

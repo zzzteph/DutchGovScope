@@ -11,7 +11,7 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/pleio.nl/subdomains.txt)|7238|Alive subdomains|
+|[subdomains.txt](/data/pleio.nl/subdomains.txt)|7239|Alive subdomains|
 |[urls.txt](/data/pleio.nl/urls.txt)|6992|Urls|
 |[all_subdomains.txt](/data/pleio.nl/all_subdomains.txt)|7241|All found subdomains (history)|
 

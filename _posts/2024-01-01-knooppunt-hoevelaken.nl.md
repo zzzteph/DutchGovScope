@@ -2,9 +2,9 @@
 layout: default
 title: "knooppunt-hoevelaken.nl"
 permalink: "/dutchgov/knooppunt-hoevelaken.nl.html"
-subdomains_count: 2
+subdomains_count: 0
 all_subdomains_count: 2
-urls_count: 2
+urls_count: 0
 ssl_rank: 
 http_rank: F
 security_txt: 0
@@ -27,8 +27,8 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/knooppunt-hoevelaken.nl/subdomains.txt)|2|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/knooppunt-hoevelaken.nl/urls.txt)|2|Urls|
+|[subdomains.txt](/DutchGovScope/data/knooppunt-hoevelaken.nl/subdomains.txt)|0|Alive subdomains|
+|[urls.txt](/DutchGovScope/data/knooppunt-hoevelaken.nl/urls.txt)|0|Urls|
 |[all_subdomains.txt](/DutchGovScope/data/knooppunt-hoevelaken.nl/all_subdomains.txt)|2|All found subdomains (history)|
 
 
@@ -37,6 +37,4 @@ tags: dutchgov
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://www.knooppunt-hoevelaken.nl](https://www.knooppunt-hoevelaken.nl)| **F**| **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|Domeinnaam is ge...|
-|[https://knooppunt-hoevelaken.nl](https://knooppunt-hoevelaken.nl)| **F**| **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|Domeinnaam is ge...|
 

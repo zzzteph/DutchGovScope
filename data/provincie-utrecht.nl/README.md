@@ -11,8 +11,8 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/provincie-utrecht.nl/subdomains.txt)|115|Alive subdomains|
-|[urls.txt](/data/provincie-utrecht.nl/urls.txt)|95|Urls|
+|[subdomains.txt](/data/provincie-utrecht.nl/subdomains.txt)|116|Alive subdomains|
+|[urls.txt](/data/provincie-utrecht.nl/urls.txt)|96|Urls|
 |[all_subdomains.txt](/data/provincie-utrecht.nl/all_subdomains.txt)|193|All found subdomains (history)|
 
 
@@ -104,6 +104,7 @@
 |[https://erfgoedexpertteam.provincie-utrecht.nl](https://erfgoedexpertteam.provincie-utrecht.nl)| **F**| **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|Website not conf...|
 |[https://monitoromgevingsbeleid.provincie-utrecht.nl](https://monitoromgevingsbeleid.provincie-utrecht.nl)| **A+**| **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Amazon S3 Amazon Web Services Azure Edge Network HSTS Microsoft ASP.NET MyFonts|Home - Monitor o...|
 |[https://omgevingsbeleid.provincie-utrecht.nl](https://omgevingsbeleid.provincie-utrecht.nl)| **A+**| **E**|| | | | | | | | :white_check_mark: | |HSTS||
+|[https://zsd.provincie-utrecht.nl](https://zsd.provincie-utrecht.nl)| **F**| **E**|| | | | | | | | :white_check_mark: | |HSTS Java||
 |[https://ib.provincie-utrecht.nl](https://ib.provincie-utrecht.nl)| **F**| **E**|| | | | | | | | :white_check_mark: | |HSTS Java||
 |[https://govroam.provincie-utrecht.nl](https://govroam.provincie-utrecht.nl)| | **B**|Apache|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
 |[https://iapp.provincie-utrecht.nl](https://iapp.provincie-utrecht.nl)| | **C**|Apache| |:white_check_mark: | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|Access Gateway|

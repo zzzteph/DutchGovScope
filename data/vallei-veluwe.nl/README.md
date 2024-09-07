@@ -4,15 +4,15 @@
 ## Summary data
 
 
- - **SSL Grade**:A+
+ - **SSL Grade**:A
  - **HTTP Security Grade**:B
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:6
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/vallei-veluwe.nl/subdomains.txt)|25|Alive subdomains|
-|[urls.txt](/data/vallei-veluwe.nl/urls.txt)|16|Urls|
+|[subdomains.txt](/data/vallei-veluwe.nl/subdomains.txt)|26|Alive subdomains|
+|[urls.txt](/data/vallei-veluwe.nl/urls.txt)|17|Urls|
 |[all_subdomains.txt](/data/vallei-veluwe.nl/all_subdomains.txt)|56|All found subdomains (history)|
 
 
@@ -26,6 +26,7 @@
 |[https://werkplek.vallei-veluwe.nl](https://werkplek.vallei-veluwe.nl)| **A+**| **C**||:warning: |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |F5 BigIP HSTS||
 |[http://autodiscover.vallei-veluwe.nl](http://autodiscover.vallei-veluwe.nl)| | **C**|Microsoft-IIS/10.0| |:white_check_mark: | | | | | | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server||
 |[https://vallei-veluwe.nl](https://vallei-veluwe.nl)| **A+**| **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:-|Object moved|
+|[https://planonprod.vallei-veluwe.nl](https://planonprod.vallei-veluwe.nl)| **B**| **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://tmx.vallei-veluwe.nl](https://tmx.vallei-veluwe.nl)| | **C**||:warning: |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |F5 BigIP HSTS||
 |[https://www.vallei-veluwe.nl](https://www.vallei-veluwe.nl)| **A+**| **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:-|Home - Vallei en...|
 |[https://redactie.vallei-veluwe.nl](https://redactie.vallei-veluwe.nl)| **A+**| **B**|-|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:-|Object moved|

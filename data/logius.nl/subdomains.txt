@@ -68,3 +68,5 @@ svn.logius.nl
 wiki.logius.nl
 preprod.portaal.digipoort.logius.nl
 lca.logius.nl
+acceptatie-portalen.digipoort.logius.nl
+preprod-portalen.digipoort.logius.nl

@@ -35,7 +35,7 @@
 |[https://cia.acp.ondernemersplein.kvk.nl](https://cia.acp.ondernemersplein.kvk.nl)| **A**| **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
 |[https://downloadservice.kvk.nl](https://downloadservice.kvk.nl)| **A+**| **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS||
 |[https://swp.kvk.nl](https://swp.kvk.nl)| **A+**| **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Microsoft ASP.NET||
-|[https://web-api.kvk.nl](https://web-api.kvk.nl)| **A+**| **A**|| |:white_check_mark: | | | :white_check_mark:| | | :white_check_mark: | |HSTS|403 - Forbidden:...|
+|[https://web-api.kvk.nl](https://web-api.kvk.nl)| **A+**| **C**||:o: |:white_check_mark: | | | :white_check_mark:| | | :white_check_mark: | |HSTS|403 - Forbidden:...|
 |[http://pki-g2.kvk.nl](http://pki-g2.kvk.nl)| **F**| **F**|Microsoft-IIS/10.0| | | | | | | | :white_check_mark: | |IIS:10.0 Windows Server|pki-g2.kvk.nl -...|
 |[https://enterpriseenrollment.kvk.nl](https://enterpriseenrollment.kvk.nl)| **F**| **E**|| | | | | | | | :white_check_mark: | |HSTS||
 |[https://kvk.nl](https://kvk.nl)| **A+**| **A**|BigIP|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |F5 BigIP HSTS||
@@ -47,11 +47,11 @@
 |[https://idp.dev.kvk.nl](https://idp.dev.kvk.nl)| | **A**|Unknown| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS|403 Forbidden|
 |[https://idp.kvk.nl](https://idp.kvk.nl)| **A+**| **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS||
 |[https://cloud.email.kvk.nl](https://cloud.email.kvk.nl)| **A**| **E**|| | | | | | | | :white_check_mark: | ||404 - File or di...|
-|[https://werkenbij.kvk.nl](https://werkenbij.kvk.nl)| **B**| **C**||:warning: |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Google Tag Manager HSTS Microsoft ASP.NET:4.0.30319|Vacatures en car...|
+|[https://werkenbij.kvk.nl](https://werkenbij.kvk.nl)| **B**| **C**||:warning: |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Google Tag Manager HSTS Microsoft ASP.NET|Vacatures en car...|
 |[https://cia.ondernemersplein.kvk.nl](https://cia.ondernemersplein.kvk.nl)| **A+**| **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
 |[https://msoid.kvk.nl](https://msoid.kvk.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Object moved|
 |[https://ondertekenen.kvk.nl](https://ondertekenen.kvk.nl)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS Nginx||
-|[https://static.kvk.nl](https://static.kvk.nl)| **A+**| **C**|| |:white_check_mark: | :warning:| | | | | :white_check_mark: | |HSTS|403 - Forbidden:...|
+|[https://static.kvk.nl](https://static.kvk.nl)| **A+**| **E**||:o: |:white_check_mark: | :warning:| | | | | :white_check_mark: | |HSTS|403 - Forbidden:...|
 |[https://api.ondernemersplein.kvk.nl](https://api.ondernemersplein.kvk.nl)| **A+**| **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
 |[https://vpn.kvk.nl](https://vpn.kvk.nl)| **B**| **A**||:warning: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://status.kvk.nl](https://status.kvk.nl)| **A+**| **B**|nginx| |:white_check_mark: | | |:warning: | | | :white_check_mark: | |HSTS Nginx|KVK Statuspagina|

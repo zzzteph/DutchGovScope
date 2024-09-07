@@ -5,7 +5,7 @@
 
 
  - **SSL Grade**:A
- - **HTTP Security Grade**:A
+ - **HTTP Security Grade**:F
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:3
 
 
@@ -21,8 +21,8 @@
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://www.leidenincijfers.nl](https://www.leidenincijfers.nl)| **A**| **A**|Apache| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server||
-|[https://leidenincijfers.nl](https://leidenincijfers.nl)| **A**| **A**|Apache| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server||
-|[https://mail.leidenincijfers.nl](https://mail.leidenincijfers.nl)| | **A**|Apache| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server||
+|[http://www.leidenincijfers.nl](http://www.leidenincijfers.nl)| **A**| **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|TransIP - Reserv...|
+|[http://leidenincijfers.nl](http://leidenincijfers.nl)| **A**| **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|TransIP - Reserv...|
+|[http://mail.leidenincijfers.nl](http://mail.leidenincijfers.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|TransIP - Reserv...|
 |[https://autodiscover.leidenincijfers.nl](https://autodiscover.leidenincijfers.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 

@@ -217,3 +217,9 @@ pbo.trainingscatalogus.nl
 hostmaster.test.trainingscatalogus.nl
 rbo-a.trainingscatalogus.nl
 apis.test.trainingscatalogus.nl
+raadvanstate-lms.trainingscatalogus.nl
+dji-lms-a.trainingscatalogus.nl
+gemeentedenhaag-lms-a.trainingscatalogus.nl
+tennetlms-a.trainingscatalogus.nl
+belastingdienst-t.trainingscatalogus.nl
+rabobank-lms-a.trainingscatalogus.nl

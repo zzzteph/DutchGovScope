@@ -9,3 +9,10 @@ http://out.ertms.nl
 http://hegang.ertms.nl
 http://achthuizen.ertms.nl
 http://saras.ertms.nl
+http://magma.ertms.nl
+http://anso.ertms.nl
+http://help6.ertms.nl
+http://mx.blog.ertms.nl
+http://mta26.ertms.nl
+http://ghh.ertms.nl
+http://bambie.ertms.nl

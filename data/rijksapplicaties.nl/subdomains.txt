@@ -300,3 +300,4 @@ goudo.rijksapplicaties.nl
 ncg-externenportaal.staging.rijksapplicaties.nl
 nplw-crm.staging.rijksapplicaties.nl
 rijksbeveiligingsportaal.staging.rijksapplicaties.nl
+kennisportfolio.rijksapplicaties.nl

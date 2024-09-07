@@ -11,8 +11,8 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/overheid.nl/subdomains.txt)|67493|Alive subdomains|
-|[urls.txt](/data/overheid.nl/urls.txt)|314|Urls|
+|[subdomains.txt](/data/overheid.nl/subdomains.txt)|68613|Alive subdomains|
+|[urls.txt](/data/overheid.nl/urls.txt)|316|Urls|
 |[all_subdomains.txt](/data/overheid.nl/all_subdomains.txt)|70126|All found subdomains (history)|
 
 
@@ -318,6 +318,8 @@
 |[https://gegevensbijbesluiten.overheid.nl](https://gegevensbijbesluiten.overheid.nl)| **A+**| **B**||:warning: |:white_check_mark: | :warning:| | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS Node.js Nuxt.js Vue.js|Wie gebruikt mij...|
 |[https://digid-stub.lpc.mijn.overheid.nl](https://digid-stub.lpc.mijn.overheid.nl)| **A+**| **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|403 Forbidden|
 |[https://eidas-stub.lpc.mijn.overheid.nl](https://eidas-stub.lpc.mijn.overheid.nl)| **A+**| **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|403 Forbidden|
+|[https://artifact-pp1.toegang.overheid.nl](https://artifact-pp1.toegang.overheid.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |A-Frame HSTS MySQL Nginx PHP Three.js WordPress:6.6.1||
+|[https://boub-api-acc.overheid.nl](https://boub-api-acc.overheid.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS|403 Forbidden|
 |[https://pdc.acc.omgevingswet.overheid.nl](https://pdc.acc.omgevingswet.overheid.nl)| | **F**|Unspecified| | | | | | | | :white_check_mark: | |HSTS|Kadaster - Pagin...|
 |[https://pp1.toegang.overheid.nl](https://pp1.toegang.overheid.nl)| | **E**|| | | | | | | | :white_check_mark: | |Bootstrap:1.13.18 HSTS|No Access! / Gee...|
 |[https://wetgevingskalender-acc.overheid.nl](https://wetgevingskalender-acc.overheid.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|403 Forbidden|

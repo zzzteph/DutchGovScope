@@ -2,9 +2,9 @@
 layout: default
 title: "zwemwater.nl"
 permalink: "/dutchgov/zwemwater.nl.html"
-subdomains_count: 1690
+subdomains_count: 1694
 all_subdomains_count: 1895
-urls_count: 1670
+urls_count: 1677
 ssl_rank: C
 http_rank: F
 security_txt: 8
@@ -27,8 +27,8 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/zwemwater.nl/subdomains.txt)|1690|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/zwemwater.nl/urls.txt)|1670|Urls|
+|[subdomains.txt](/DutchGovScope/data/zwemwater.nl/subdomains.txt)|1694|Alive subdomains|
+|[urls.txt](/DutchGovScope/data/zwemwater.nl/urls.txt)|1677|Urls|
 |[all_subdomains.txt](/DutchGovScope/data/zwemwater.nl/all_subdomains.txt)|1895|All found subdomains (history)|
 
 
@@ -1707,4 +1707,11 @@ tags: dutchgov
 |[https://stichting.zwemwater.nl](https://stichting.zwemwater.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
 |[https://verhuizing.zwemwater.nl](https://verhuizing.zwemwater.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
 |[https://bankrupt.zwemwater.nl](https://bankrupt.zwemwater.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
+|[https://vpn-dr.zwemwater.nl](https://vpn-dr.zwemwater.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
+|[https://cdn-js.zwemwater.nl](https://cdn-js.zwemwater.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
+|[https://zehnder.zwemwater.nl](https://zehnder.zwemwater.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
+|[https://culture.zwemwater.nl](https://culture.zwemwater.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
+|[https://bi2.zwemwater.nl](https://bi2.zwemwater.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
+|[https://viper.zwemwater.nl](https://viper.zwemwater.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
+|[https://thefeed.zwemwater.nl](https://thefeed.zwemwater.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
 

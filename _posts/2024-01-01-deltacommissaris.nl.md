@@ -4,10 +4,10 @@ title: "deltacommissaris.nl"
 permalink: "/dutchgov/deltacommissaris.nl.html"
 subdomains_count: 4
 all_subdomains_count: 29
-urls_count: 1
+urls_count: 2
 ssl_rank: 
 http_rank: A
-security_txt: 1
+security_txt: 2
 url_link: /data/deltacommissaris.nl/urls.txt
 all_subdomains_link: /data/deltacommissaris.nl/all_subdomains.txt
 subdomains_link: /data/deltacommissaris.nl/subdomains.txt
@@ -22,13 +22,13 @@ tags: dutchgov
 
  - **SSL Grade**:
  - **HTTP Security Grade**:A
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:1
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:2
 
 
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/DutchGovScope/data/deltacommissaris.nl/subdomains.txt)|4|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/deltacommissaris.nl/urls.txt)|1|Urls|
+|[urls.txt](/DutchGovScope/data/deltacommissaris.nl/urls.txt)|2|Urls|
 |[all_subdomains.txt](/DutchGovScope/data/deltacommissaris.nl/all_subdomains.txt)|29|All found subdomains (history)|
 
 
@@ -37,5 +37,6 @@ tags: dutchgov
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
+|[https://www.deltacommissaris.nl](https://www.deltacommissaris.nl)| | **A**|Microsoft-IIS/10.0| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS IIS:10.0 Windows Server|Document Moved|
 |[https://deltacommissaris.nl](https://deltacommissaris.nl)| | **A**|Microsoft-IIS/10.0| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS IIS:10.0 Windows Server|Document Moved|
 

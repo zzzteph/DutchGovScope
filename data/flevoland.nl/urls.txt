@@ -79,3 +79,4 @@ https://mbg-proxy.flevoland.nl
 http://res.flevoland.nl
 https://remote.flevoland.nl
 https://denkmee.flevoland.nl
+https://eula.flevoland.nl

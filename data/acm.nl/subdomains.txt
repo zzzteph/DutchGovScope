@@ -37,7 +37,6 @@ di.acm.nl
 api-a.acm.nl
 dip.services.acm.nl
 mail.acm.nl
-icgw.services.acm.nl
 ipsec.services.acm.nl
 apps.acm.nl
 markt-overheid.acm.nl

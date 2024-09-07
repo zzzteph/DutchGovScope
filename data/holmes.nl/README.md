@@ -11,7 +11,7 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/holmes.nl/subdomains.txt)|25|Alive subdomains|
+|[subdomains.txt](/data/holmes.nl/subdomains.txt)|36|Alive subdomains|
 |[urls.txt](/data/holmes.nl/urls.txt)|10|Urls|
 |[all_subdomains.txt](/data/holmes.nl/all_subdomains.txt)|36|All found subdomains (history)|
 

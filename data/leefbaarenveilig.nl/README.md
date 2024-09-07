@@ -13,7 +13,7 @@
 |------------|-------|------|
 |[subdomains.txt](/data/leefbaarenveilig.nl/subdomains.txt)|2|Alive subdomains|
 |[urls.txt](/data/leefbaarenveilig.nl/urls.txt)|2|Urls|
-|[all_subdomains.txt](/data/leefbaarenveilig.nl/all_subdomains.txt)|4|All found subdomains (history)|
+|[all_subdomains.txt](/data/leefbaarenveilig.nl/all_subdomains.txt)|6|All found subdomains (history)|
 
 
 ## Statistics

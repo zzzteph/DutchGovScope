@@ -17,7 +17,6 @@ mail.apps.feedfoodtransfer.nl
 uat.apps.feedfoodtransfer.nl
 staging.apps.feedfoodtransfer.nl
 api.apps.feedfoodtransfer.nl
-admin.apps.feedfoodtransfer.nl
 us.apps.feedfoodtransfer.nl
 blog.apps.feedfoodtransfer.nl
 login.apps.feedfoodtransfer.nl

@@ -11,8 +11,8 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/vechtstromen.nl/subdomains.txt)|52|Alive subdomains|
-|[urls.txt](/data/vechtstromen.nl/urls.txt)|39|Urls|
+|[subdomains.txt](/data/vechtstromen.nl/subdomains.txt)|51|Alive subdomains|
+|[urls.txt](/data/vechtstromen.nl/urls.txt)|38|Urls|
 |[all_subdomains.txt](/data/vechtstromen.nl/all_subdomains.txt)|103|All found subdomains (history)|
 
 
@@ -34,7 +34,6 @@
 |[https://www.basisregistratie.vechtstromen.nl](https://www.basisregistratie.vechtstromen.nl)| **A**| **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|basisregistratie...|
 |[https://mail.vechtstromen.nl](https://mail.vechtstromen.nl)| **A**| **E**|| | | | | | | | :white_check_mark: | |||
 |[https://support.vechtstromen.nl](https://support.vechtstromen.nl)| **A**| **E**|| | | | | | | | :white_check_mark: | |||
-|[https://mx1.vechtstromen.nl](https://mx1.vechtstromen.nl)| **F**| **E**|| | | | | | | | :white_check_mark: | |||
 |[https://apps.vechtstromen.nl](https://apps.vechtstromen.nl)| **A+**| **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS Microsoft ASP.NET|Login|
 |[https://viaany.vechtstromen.nl](https://viaany.vechtstromen.nl)| **A**| **C**|-| | | | | :white_check_mark:| | :white_check_mark: | :white_check_mark: | |Microsoft ASP.NET:-|Vechtstromen App|
 |[https://apps-dev.vechtstromen.nl](https://apps-dev.vechtstromen.nl)| **A+**| **B**||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS Microsoft ASP.NET|Login|

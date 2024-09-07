@@ -11,8 +11,8 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/zwemwater.nl/subdomains.txt)|1690|Alive subdomains|
-|[urls.txt](/data/zwemwater.nl/urls.txt)|1670|Urls|
+|[subdomains.txt](/data/zwemwater.nl/subdomains.txt)|1694|Alive subdomains|
+|[urls.txt](/data/zwemwater.nl/urls.txt)|1677|Urls|
 |[all_subdomains.txt](/data/zwemwater.nl/all_subdomains.txt)|1895|All found subdomains (history)|
 
 
@@ -1691,4 +1691,11 @@
 |[https://stichting.zwemwater.nl](https://stichting.zwemwater.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
 |[https://verhuizing.zwemwater.nl](https://verhuizing.zwemwater.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
 |[https://bankrupt.zwemwater.nl](https://bankrupt.zwemwater.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
+|[https://vpn-dr.zwemwater.nl](https://vpn-dr.zwemwater.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
+|[https://cdn-js.zwemwater.nl](https://cdn-js.zwemwater.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
+|[https://zehnder.zwemwater.nl](https://zehnder.zwemwater.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
+|[https://culture.zwemwater.nl](https://culture.zwemwater.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
+|[https://bi2.zwemwater.nl](https://bi2.zwemwater.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
+|[https://viper.zwemwater.nl](https://viper.zwemwater.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
+|[https://thefeed.zwemwater.nl](https://thefeed.zwemwater.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
 

@@ -6,14 +6,14 @@
 
  - **SSL Grade**:A+
  - **HTTP Security Grade**:C
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:41
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:42
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/trainingscatalogus.nl/subdomains.txt)|219|Alive subdomains|
-|[urls.txt](/data/trainingscatalogus.nl/urls.txt)|118|Urls|
-|[all_subdomains.txt](/data/trainingscatalogus.nl/all_subdomains.txt)|239|All found subdomains (history)|
+|[subdomains.txt](/data/trainingscatalogus.nl/subdomains.txt)|225|Alive subdomains|
+|[urls.txt](/data/trainingscatalogus.nl/urls.txt)|119|Urls|
+|[all_subdomains.txt](/data/trainingscatalogus.nl/all_subdomains.txt)|249|All found subdomains (history)|
 
 
 ## Statistics
@@ -139,4 +139,5 @@
 |[https://vgz-lms.course-api.trainingscatalogus.nl](https://vgz-lms.course-api.trainingscatalogus.nl)| | **F**|Microsoft-IIS/10.0|:white_check_mark: | | | | | | | :white_check_mark: | |Azure IIS:10.0 Microsoft ASP.NET Windows Server||
 |[https://vgz-lms.enrollment-api.trainingscatalogus.nl](https://vgz-lms.enrollment-api.trainingscatalogus.nl)| | **F**|Microsoft-IIS/10.0|:white_check_mark: | | | | | | | :white_check_mark: | |Azure IIS:10.0 Microsoft ASP.NET Windows Server||
 |[https://vgz-lms.scim-api.trainingscatalogus.nl](https://vgz-lms.scim-api.trainingscatalogus.nl)| | **F**|Microsoft-IIS/10.0|:white_check_mark: | | | | | | | :white_check_mark: | |Azure IIS:10.0 Microsoft ASP.NET Windows Server||
+|[https://pbo.trainingscatalogus.nl](https://pbo.trainingscatalogus.nl)| | **C**|Class|:white_check_mark: |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | |HSTS||
 

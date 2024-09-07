@@ -2,7 +2,7 @@
 layout: default
 title: "nfitraining.nl"
 permalink: "/dutchgov/nfitraining.nl.html"
-subdomains_count: 2
+subdomains_count: 3
 all_subdomains_count: 3
 urls_count: 2
 ssl_rank: 
@@ -27,7 +27,7 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/nfitraining.nl/subdomains.txt)|2|Alive subdomains|
+|[subdomains.txt](/DutchGovScope/data/nfitraining.nl/subdomains.txt)|3|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/nfitraining.nl/urls.txt)|2|Urls|
 |[all_subdomains.txt](/DutchGovScope/data/nfitraining.nl/all_subdomains.txt)|3|All found subdomains (history)|
 

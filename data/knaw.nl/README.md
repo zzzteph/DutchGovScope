@@ -534,7 +534,7 @@
 |[https://sep.nioo.knaw.nl](https://sep.nioo.knaw.nl)| | **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |Basic HSTS Nginx|401 Authorizatio...|
 |[https://gitlab.bioinf.nioo.knaw.nl](https://gitlab.bioinf.nioo.knaw.nl)| | **A**|nginx|:warning: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://dataverse-importer.labs.dans.knaw.nl](https://dataverse-importer.labs.dans.knaw.nl)| | **F**|uvicorn| | | | | | | | :white_check_mark: | |Python Uvicorn||
-|[https://phpmyadmin.wordpress.dans.knaw.nl](https://phpmyadmin.wordpress.dans.knaw.nl)| | **F**|nginx/1.14.1| | | | | | | | :white_check_mark: | |HSTS MySQL Nginx:1.14.1 PHP:7.4.33 Slick WPML:4.6.11 WordPress:6.6.1 Yoast SEO:23.0 jQuery|DANS | Expertise...|
+|[https://phpmyadmin.wordpress.dans.knaw.nl](https://phpmyadmin.wordpress.dans.knaw.nl)| | **F**|nginx/1.14.1| | | | | | | | :white_check_mark: | |HSTS MySQL Nginx:1.14.1 PHP:7.4.33 Slick WPML:4.6.13 WordPress:6.6.1 Yoast SEO:23.3 jQuery|DANS | Expertise...|
 |[https://type.labs.dans.knaw.nl](https://type.labs.dans.knaw.nl)| | **F**|uvicorn| | | | | | | | :white_check_mark: | |Python Uvicorn||
 |[https://dtrs.labs.dans.knaw.nl](https://dtrs.labs.dans.knaw.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://version-tracker.labs.dans.knaw.nl](https://version-tracker.labs.dans.knaw.nl)| | **F**|uvicorn| | | | | | | | :white_check_mark: | |Python Uvicorn||

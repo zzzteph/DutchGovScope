@@ -11,7 +11,6 @@ redactie.vechtstromen.nl
 www.basisregistratie.vechtstromen.nl
 mail.vechtstromen.nl
 support.vechtstromen.nl
-mx1.vechtstromen.nl
 apps.vechtstromen.nl
 viaany.vechtstromen.nl
 apps-dev.vechtstromen.nl

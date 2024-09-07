@@ -12,7 +12,7 @@
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/flevoland.nl/subdomains.txt)|110|Alive subdomains|
-|[urls.txt](/data/flevoland.nl/urls.txt)|81|Urls|
+|[urls.txt](/data/flevoland.nl/urls.txt)|82|Urls|
 |[all_subdomains.txt](/data/flevoland.nl/all_subdomains.txt)|227|All found subdomains (history)|
 
 
@@ -102,4 +102,5 @@
 |[http://res.flevoland.nl](http://res.flevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://remote.flevoland.nl](https://remote.flevoland.nl)| | **A**||:warning: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://denkmee.flevoland.nl](https://denkmee.flevoland.nl)| | **C**|nginx| | | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |Amazon CloudFront Amazon Web Services Nginx||
+|[https://eula.flevoland.nl](https://eula.flevoland.nl)| | **A**|Apache/2.4.29 (Ubuntu)| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu||
 

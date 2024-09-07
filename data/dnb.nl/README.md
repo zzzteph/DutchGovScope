@@ -11,8 +11,8 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/dnb.nl/subdomains.txt)|182|Alive subdomains|
-|[urls.txt](/data/dnb.nl/urls.txt)|122|Urls|
+|[subdomains.txt](/data/dnb.nl/subdomains.txt)|183|Alive subdomains|
+|[urls.txt](/data/dnb.nl/urls.txt)|123|Urls|
 |[all_subdomains.txt](/data/dnb.nl/all_subdomains.txt)|312|All found subdomains (history)|
 
 
@@ -143,4 +143,5 @@
 |[https://tz-uitvragen-tst.dnb.nl](https://tz-uitvragen-tst.dnb.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Azure Azure Front Door HSTS|Mijn DNB - Kwali...|
 |[https://tz-uitvragen.dnb.nl](https://tz-uitvragen.dnb.nl)| | **E**|| | | | | | | | :white_check_mark: | |Bootstrap:5.2.3|Azure Static Web...|
 |[https://plp.dnb.nl](https://plp.dnb.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS Java||
+|[https://dtlgt-monitoring-dev.azure.dnb.nl](https://dtlgt-monitoring-dev.azure.dnb.nl)| | **E**|| | | | | | | | :white_check_mark: | |Bootstrap:5.2.3|Azure Static Web...|
 

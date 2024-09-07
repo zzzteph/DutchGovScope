@@ -103,7 +103,6 @@ https://rijkscloud.nl
 https://openstack.gn3.rijkscloud.nl
 http://status.gn3.rijkscloud.nl
 https://portal.ip.test.duo.rijkscloud.nl
-https://ip.test.duo.rijkscloud.nl
 https://rstudio.ip.test.duo.rijkscloud.nl
 https://projects.pages.ds-ocw.rijkscloud.nl
 https://rob-2000.rijkscloud.nl

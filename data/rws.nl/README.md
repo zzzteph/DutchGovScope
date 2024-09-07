@@ -12,7 +12,7 @@
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/rws.nl/subdomains.txt)|260|Alive subdomains|
-|[urls.txt](/data/rws.nl/urls.txt)|168|Urls|
+|[urls.txt](/data/rws.nl/urls.txt)|172|Urls|
 |[all_subdomains.txt](/data/rws.nl/all_subdomains.txt)|1198|All found subdomains (history)|
 
 
@@ -189,4 +189,8 @@
 |[https://svs.ptp.inloggen.rws.nl](https://svs.ptp.inloggen.rws.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||
 |[https://eventrecorder.ptp.inloggen.rws.nl](https://eventrecorder.ptp.inloggen.rws.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||
 |[https://mars.ptp.inloggen.rws.nl](https://mars.ptp.inloggen.rws.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS Pulse Secure||
+|[https://mars2.ptp.acc-inloggen.rws.nl](https://mars2.ptp.acc-inloggen.rws.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS Pulse Secure||
+|[https://schadeportaal.ptp.acc-inloggen.rws.nl](https://schadeportaal.ptp.acc-inloggen.rws.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS Pulse Secure||
+|[https://digitaltwin-dev.rws.nl](https://digitaltwin-dev.rws.nl)| | **E**|| | | | | | | | :white_check_mark: | |Azure Azure Front Door|Service unavaila...|
+|[https://eventrecorder.ptp.acc-inloggen.rws.nl](https://eventrecorder.ptp.acc-inloggen.rws.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS Pulse Secure||
 

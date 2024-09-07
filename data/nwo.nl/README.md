@@ -13,7 +13,7 @@
 |------------|-------|------|
 |[subdomains.txt](/data/nwo.nl/subdomains.txt)|39|Alive subdomains|
 |[urls.txt](/data/nwo.nl/urls.txt)|17|Urls|
-|[all_subdomains.txt](/data/nwo.nl/all_subdomains.txt)|230|All found subdomains (history)|
+|[all_subdomains.txt](/data/nwo.nl/all_subdomains.txt)|231|All found subdomains (history)|
 
 
 ## Statistics

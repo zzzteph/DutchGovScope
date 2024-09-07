@@ -1,4 +1,4 @@
-https://www.leidenincijfers.nl
-https://leidenincijfers.nl
-https://mail.leidenincijfers.nl
+http://www.leidenincijfers.nl
+http://leidenincijfers.nl
+http://mail.leidenincijfers.nl
 https://autodiscover.leidenincijfers.nl
