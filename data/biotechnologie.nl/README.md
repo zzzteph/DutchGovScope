@@ -23,7 +23,7 @@
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[https://biotechnologie.nl](https://biotechnologie.nl)| **A+**| **A**|cloudflare| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Cloudflare HSTS HTTP/3|301 Moved Perman...|
 |[https://www.biotechnologie.nl](https://www.biotechnologie.nl)| **A+**| **A**|cloudflare| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Cloudflare HSTS HTTP/3 MySQL PHP WordPress Yoast SEO:23.2|Home - Biotechno...|
-|[http://autodiscover.biotechnologie.nl](http://autodiscover.biotechnologie.nl)| | **B**|cloudflare|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Cloudflare HTTP/2 Microsoft ASP.NET||
+|[https://autodiscover.biotechnologie.nl](https://autodiscover.biotechnologie.nl)| | **B**|cloudflare| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Cloudflare HSTS HTTP/3||
 |[https://enterpriseenrollment.biotechnologie.nl](https://enterpriseenrollment.biotechnologie.nl)| | **F**|cloudflare| | | | | | | | :white_check_mark: | |Cloudflare HSTS HTTP/3||
 |[https://enterpriseregistration.biotechnologie.nl](https://enterpriseregistration.biotechnologie.nl)| | **C**|cloudflare| |:white_check_mark: | | | | | | :white_check_mark: | |Cloudflare HSTS HTTP/3||
 |[https://ftp.biotechnologie.nl](https://ftp.biotechnologie.nl)| | **B**|cloudflare| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Cloudflare HSTS HTTP/3||

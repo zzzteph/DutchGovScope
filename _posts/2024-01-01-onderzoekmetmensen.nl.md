@@ -41,8 +41,8 @@ tags: dutchgov
 |[https://www.onderzoekmetmensen.nl](https://www.onderzoekmetmensen.nl)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |Drupal HSTS Nginx PHP|Redirecting to h...|
 |[https://test.onderzoekmetmensen.nl](https://test.onderzoekmetmensen.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Basic HSTS Nginx|401 Authorizatio...|
 |[https://acc.onderzoekmetmensen.nl](https://acc.onderzoekmetmensen.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Basic HSTS Nginx|401 Authorizatio...|
-|[https://portaal-acc.onderzoekmetmensen.nl](https://portaal-acc.onderzoekmetmensen.nl)| | **F**|nginx/1.26.1| | | | | | | | :white_check_mark: | |Basic Nginx:1.26.1|401 Authorizatio...|
-|[https://portaal-tst.onderzoekmetmensen.nl](https://portaal-tst.onderzoekmetmensen.nl)| | **F**|nginx/1.26.1| | | | | | | | :white_check_mark: | |Basic HSTS Nginx:1.26.1|401 Authorizatio...|
+|[https://portaal-acc.onderzoekmetmensen.nl](https://portaal-acc.onderzoekmetmensen.nl)| | **F**|nginx/1.26.2| | | | | | | | :white_check_mark: | |Basic Nginx:1.26.2|401 Authorizatio...|
+|[https://portaal-tst.onderzoekmetmensen.nl](https://portaal-tst.onderzoekmetmensen.nl)| | **F**|nginx/1.26.2| | | | | | | | :white_check_mark: | |Basic HSTS Nginx:1.26.2|401 Authorizatio...|
 |[https://pmon-acc.onderzoekmetmensen.nl](https://pmon-acc.onderzoekmetmensen.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Basic HSTS Nginx|401 Authorizatio...|
 |[https://pmon-tst.onderzoekmetmensen.nl](https://pmon-tst.onderzoekmetmensen.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Basic HSTS Nginx|401 Authorizatio...|
 

@@ -616,7 +616,6 @@ https://frwebgate.access.bodemrichtlijn.nl
 https://bfp.bodemrichtlijn.nl
 https://crag.bodemrichtlijn.nl
 https://books.shop.bodemrichtlijn.nl
-http://trinidad.bodemrichtlijn.nl
 https://bodembeheerwww.bodemrichtlijn.nl
 https://donar.bodemrichtlijn.nl
 https://aanhangwagens.bodemrichtlijn.nl

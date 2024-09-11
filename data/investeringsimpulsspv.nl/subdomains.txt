@@ -4,3 +4,5 @@ investeringsimpulsspv.nl
 ftp.investeringsimpulsspv.nl
 pop.investeringsimpulsspv.nl
 smtp.investeringsimpulsspv.nl
+feeds.investeringsimpulsspv.nl
+opendata.investeringsimpulsspv.nl

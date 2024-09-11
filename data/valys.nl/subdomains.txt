@@ -70,10 +70,8 @@ dogan.valys.nl
 fifteen.valys.nl
 1993.valys.nl
 0180.valys.nl
-beta-www.valys.nl
 balakovo.valys.nl
 johnlewis.valys.nl
-omms.valys.nl
 scheiding.valys.nl
 iwi.valys.nl
 mysql6.valys.nl
@@ -573,6 +571,7 @@ herbert.valys.nl
 warhammer.valys.nl
 viawww.valys.nl
 pointer.valys.nl
+webwww.valys.nl
 plangrid.valys.nl
 ra3.valys.nl
 theorie-examen.valys.nl

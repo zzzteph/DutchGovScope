@@ -14,3 +14,4 @@ ftp.gezondeschool.nl
 jouw.gezondeschool.nl
 leerplein.gezondeschool.nl
 mail.gezondeschool.nl
+www.jouw.gezondeschool.nl

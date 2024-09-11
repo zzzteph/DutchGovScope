@@ -6,7 +6,7 @@ subdomains_count: 3
 all_subdomains_count: 10
 urls_count: 3
 ssl_rank: A
-http_rank: B
+http_rank: C
 security_txt: 2
 url_link: /data/hulpmiddelenzorg.nl/urls.txt
 all_subdomains_link: /data/hulpmiddelenzorg.nl/all_subdomains.txt
@@ -21,7 +21,7 @@ tags: dutchgov
 
 
  - **SSL Grade**:A
- - **HTTP Security Grade**:B
+ - **HTTP Security Grade**:C
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:2
 
 
@@ -39,5 +39,5 @@ tags: dutchgov
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[https://www.hulpmiddelenzorg.nl](https://www.hulpmiddelenzorg.nl)| **A**| **B**|Microsoft-IIS/10.0|:warning: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |IIS:10.0 Windows Server|Document Moved|
 |[https://hulpmiddelenzorg.nl](https://hulpmiddelenzorg.nl)| **A**| **B**|Microsoft-IIS/10.0|:warning: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |IIS:10.0 Windows Server|Document Moved|
-|[http://autodiscover.hulpmiddelenzorg.nl](http://autodiscover.hulpmiddelenzorg.nl)| | **B**|Microsoft-IIS/10.0|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server||
+|[http://autodiscover.hulpmiddelenzorg.nl](http://autodiscover.hulpmiddelenzorg.nl)| | **C**|Microsoft-IIS/10.0| |:white_check_mark: | | | | | | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server||
 

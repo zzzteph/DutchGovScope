@@ -262,3 +262,6 @@ rvihh-acc.topdesk.odc-noord.nl
 bd-toegang-acc.topdesk.odc-noord.nl
 rvihh-prd.topdesk.odc-noord.nl
 mijn.odc-noord.nl
+ns.minions.odc-noord.nl
+ns01.minions.odc-noord.nl
+ns02.minions.odc-noord.nl

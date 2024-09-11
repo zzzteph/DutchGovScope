@@ -121,3 +121,4 @@ https://tz-uitvragen-tst.dnb.nl
 https://tz-uitvragen.dnb.nl
 https://plp.dnb.nl
 https://dtlgt-monitoring-dev.azure.dnb.nl
+https://svcalendar-dev.dnb.nl

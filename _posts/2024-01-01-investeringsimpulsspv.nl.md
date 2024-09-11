@@ -2,7 +2,7 @@
 layout: default
 title: "investeringsimpulsspv.nl"
 permalink: "/dutchgov/investeringsimpulsspv.nl.html"
-subdomains_count: 6
+subdomains_count: 8
 all_subdomains_count: 12
 urls_count: 6
 ssl_rank: 
@@ -27,7 +27,7 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/investeringsimpulsspv.nl/subdomains.txt)|6|Alive subdomains|
+|[subdomains.txt](/DutchGovScope/data/investeringsimpulsspv.nl/subdomains.txt)|8|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/investeringsimpulsspv.nl/urls.txt)|6|Urls|
 |[all_subdomains.txt](/DutchGovScope/data/investeringsimpulsspv.nl/all_subdomains.txt)|12|All found subdomains (history)|
 

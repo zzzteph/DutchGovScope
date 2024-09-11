@@ -1,6 +1,6 @@
 https://biotechnologie.nl
 https://www.biotechnologie.nl
-http://autodiscover.biotechnologie.nl
+https://autodiscover.biotechnologie.nl
 https://enterpriseenrollment.biotechnologie.nl
 https://enterpriseregistration.biotechnologie.nl
 https://ftp.biotechnologie.nl

@@ -12,8 +12,8 @@
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/co2emissiefactoren.nl/subdomains.txt)|18|Alive subdomains|
-|[urls.txt](/data/co2emissiefactoren.nl/urls.txt)|16|Urls|
-|[all_subdomains.txt](/data/co2emissiefactoren.nl/all_subdomains.txt)|18|All found subdomains (history)|
+|[urls.txt](/data/co2emissiefactoren.nl/urls.txt)|18|Urls|
+|[all_subdomains.txt](/data/co2emissiefactoren.nl/all_subdomains.txt)|19|All found subdomains (history)|
 
 
 ## Statistics
@@ -37,4 +37,6 @@
 |[https://buswww.co2emissiefactoren.nl](https://buswww.co2emissiefactoren.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|403 Forbidden|
 |[https://greenwww.co2emissiefactoren.nl](https://greenwww.co2emissiefactoren.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|403 Forbidden|
 |[https://dieselwww.co2emissiefactoren.nl](https://dieselwww.co2emissiefactoren.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|403 Forbidden|
+|[https://trainwww.co2emissiefactoren.nl](https://trainwww.co2emissiefactoren.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|403 Forbidden|
+|[https://carwww.co2emissiefactoren.nl](https://carwww.co2emissiefactoren.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|403 Forbidden|
 

@@ -4,7 +4,7 @@ title: "bodemrichtlijn.nl"
 permalink: "/dutchgov/bodemrichtlijn.nl.html"
 subdomains_count: 1589
 all_subdomains_count: 1679
-urls_count: 1588
+urls_count: 1587
 ssl_rank: C
 http_rank: E
 security_txt: 3
@@ -28,7 +28,7 @@ tags: dutchgov
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/DutchGovScope/data/bodemrichtlijn.nl/subdomains.txt)|1589|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/bodemrichtlijn.nl/urls.txt)|1588|Urls|
+|[urls.txt](/DutchGovScope/data/bodemrichtlijn.nl/urls.txt)|1587|Urls|
 |[all_subdomains.txt](/DutchGovScope/data/bodemrichtlijn.nl/all_subdomains.txt)|1679|All found subdomains (history)|
 
 
@@ -655,7 +655,6 @@ tags: dutchgov
 |[https://bfp.bodemrichtlijn.nl](https://bfp.bodemrichtlijn.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Microsoft Azure...|
 |[https://crag.bodemrichtlijn.nl](https://crag.bodemrichtlijn.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Microsoft Azure...|
 |[https://books.shop.bodemrichtlijn.nl](https://books.shop.bodemrichtlijn.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Microsoft Azure...|
-|[http://trinidad.bodemrichtlijn.nl](http://trinidad.bodemrichtlijn.nl)| | **F**|Microsoft-IIS/8.5| | | | | | | | :white_check_mark: | |IIS:8.5 Microsoft ASP.NET Windows Server|403 - Forbidden:...|
 |[https://bodembeheerwww.bodemrichtlijn.nl](https://bodembeheerwww.bodemrichtlijn.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Microsoft Azure...|
 |[https://donar.bodemrichtlijn.nl](https://donar.bodemrichtlijn.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Microsoft Azure...|
 |[https://aanhangwagens.bodemrichtlijn.nl](https://aanhangwagens.bodemrichtlijn.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Microsoft Azure...|

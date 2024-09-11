@@ -12,8 +12,8 @@
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/rws.nl/subdomains.txt)|260|Alive subdomains|
-|[urls.txt](/data/rws.nl/urls.txt)|172|Urls|
-|[all_subdomains.txt](/data/rws.nl/all_subdomains.txt)|1198|All found subdomains (history)|
+|[urls.txt](/data/rws.nl/urls.txt)|173|Urls|
+|[all_subdomains.txt](/data/rws.nl/all_subdomains.txt)|1208|All found subdomains (history)|
 
 
 ## Statistics
@@ -193,4 +193,5 @@
 |[https://schadeportaal.ptp.acc-inloggen.rws.nl](https://schadeportaal.ptp.acc-inloggen.rws.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS Pulse Secure||
 |[https://digitaltwin-dev.rws.nl](https://digitaltwin-dev.rws.nl)| | **E**|| | | | | | | | :white_check_mark: | |Azure Azure Front Door|Service unavaila...|
 |[https://eventrecorder.ptp.acc-inloggen.rws.nl](https://eventrecorder.ptp.acc-inloggen.rws.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS Pulse Secure||
+|[https://werkplek.gw01-gslb.rws.nl](https://werkplek.gw01-gslb.rws.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||
 

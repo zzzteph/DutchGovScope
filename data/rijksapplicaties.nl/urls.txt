@@ -228,3 +228,7 @@ https://rvb-ifr.rijksapplicaties.nl
 https://npcemaatregelenmonitor.rijksapplicaties.nl
 https://rvb-rif.rijksapplicaties.nl
 https://architectuurexplains.rijksapplicaties.nl
+https://emailwijzer.staging.rijksapplicaties.nl
+https://rvb-dfss.staging.rijksapplicaties.nl
+https://rvb-mva.staging.rijksapplicaties.nl
+https://clminhuurdatabase.rijksapplicaties.nl

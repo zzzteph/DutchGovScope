@@ -24,7 +24,6 @@ https://grondverzet.odmh.nl
 http://autodiscover.odmh.nl
 https://mfa.odmh.nl
 https://rdsgateway.odmh.nl
-https://vpn.odmh.nl
 https://pow.odmh.nl
 https://publicaties.odmh.nl
 https://tv.odmh.nl

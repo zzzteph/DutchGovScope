@@ -57,3 +57,6 @@ https://enterpriseenrollment.noord-holland.nl
 https://enterpriseregistration.noord-holland.nl
 https://druktemonitor.noord-holland.nl
 https://ios-api.noord-holland.nl
+https://acc-www.noord-holland.nl
+https://test-www.noord-holland.nl
+https://form.noord-holland.nl

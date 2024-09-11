@@ -223,3 +223,7 @@ gemeentedenhaag-lms-a.trainingscatalogus.nl
 tennetlms-a.trainingscatalogus.nl
 belastingdienst-t.trainingscatalogus.nl
 rabobank-lms-a.trainingscatalogus.nl
+ssl.test.trainingscatalogus.nl
+git.test.trainingscatalogus.nl
+test1.test.trainingscatalogus.nl
+lms-tragelacademie.trainingscatalogus.nl

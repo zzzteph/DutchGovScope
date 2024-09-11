@@ -12,7 +12,7 @@
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/bodemrichtlijn.nl/subdomains.txt)|1589|Alive subdomains|
-|[urls.txt](/data/bodemrichtlijn.nl/urls.txt)|1588|Urls|
+|[urls.txt](/data/bodemrichtlijn.nl/urls.txt)|1587|Urls|
 |[all_subdomains.txt](/data/bodemrichtlijn.nl/all_subdomains.txt)|1679|All found subdomains (history)|
 
 
@@ -639,7 +639,6 @@
 |[https://bfp.bodemrichtlijn.nl](https://bfp.bodemrichtlijn.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Microsoft Azure...|
 |[https://crag.bodemrichtlijn.nl](https://crag.bodemrichtlijn.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Microsoft Azure...|
 |[https://books.shop.bodemrichtlijn.nl](https://books.shop.bodemrichtlijn.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Microsoft Azure...|
-|[http://trinidad.bodemrichtlijn.nl](http://trinidad.bodemrichtlijn.nl)| | **F**|Microsoft-IIS/8.5| | | | | | | | :white_check_mark: | |IIS:8.5 Microsoft ASP.NET Windows Server|403 - Forbidden:...|
 |[https://bodembeheerwww.bodemrichtlijn.nl](https://bodembeheerwww.bodemrichtlijn.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Microsoft Azure...|
 |[https://donar.bodemrichtlijn.nl](https://donar.bodemrichtlijn.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Microsoft Azure...|
 |[https://aanhangwagens.bodemrichtlijn.nl](https://aanhangwagens.bodemrichtlijn.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Microsoft Azure...|

@@ -106,4 +106,3 @@ https://intermediairdagen.belastingdienst.nl
 https://mul-mbc.belastingdienst.nl
 https://mijnzakelijk.acc.belastingdienst.nl
 https://sadp.belastingdienst.nl
-https://rwn.belastingdienst.nl

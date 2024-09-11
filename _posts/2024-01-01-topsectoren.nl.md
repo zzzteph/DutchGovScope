@@ -41,7 +41,7 @@ tags: dutchgov
 |[https://opendata.topsectoren.nl](https://opendata.topsectoren.nl)| **A+**| **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://www.topsectoren.nl](https://www.topsectoren.nl)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Home | Topsector...|
 |[https://topsectoren.nl](https://topsectoren.nl)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
-|[http://autodiscover.topsectoren.nl](http://autodiscover.topsectoren.nl)| | **C**|Microsoft-IIS/10.0| |:white_check_mark: | | | | | | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server||
+|[http://autodiscover.topsectoren.nl](http://autodiscover.topsectoren.nl)| | **B**|Microsoft-IIS/10.0|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server||
 |[https://exchange.topsectoren.nl](https://exchange.topsectoren.nl)| | **F**|Microsoft-IIS/10.0| | | | | | | | :white_check_mark: | |HSTS HTTP/3 IIS:10.0 Microsoft ASP.NET Windows Server||
 |[https://msoid.topsectoren.nl](https://msoid.topsectoren.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Object moved|
 

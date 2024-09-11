@@ -13,7 +13,7 @@
 |------------|-------|------|
 |[subdomains.txt](/data/riec.nl/subdomains.txt)|15|Alive subdomains|
 |[urls.txt](/data/riec.nl/urls.txt)|8|Urls|
-|[all_subdomains.txt](/data/riec.nl/all_subdomains.txt)|29|All found subdomains (history)|
+|[all_subdomains.txt](/data/riec.nl/all_subdomains.txt)|30|All found subdomains (history)|
 
 
 ## Statistics

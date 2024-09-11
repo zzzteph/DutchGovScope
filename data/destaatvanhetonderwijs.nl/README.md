@@ -11,7 +11,7 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/destaatvanhetonderwijs.nl/subdomains.txt)|0|Alive subdomains|
+|[subdomains.txt](/data/destaatvanhetonderwijs.nl/subdomains.txt)|2|Alive subdomains|
 |[urls.txt](/data/destaatvanhetonderwijs.nl/urls.txt)|0|Urls|
 |[all_subdomains.txt](/data/destaatvanhetonderwijs.nl/all_subdomains.txt)|11|All found subdomains (history)|
 

@@ -4,7 +4,7 @@ title: "schadedoormijnbouw.nl"
 permalink: "/dutchgov/schadedoormijnbouw.nl.html"
 subdomains_count: 11
 all_subdomains_count: 34
-urls_count: 5
+urls_count: 6
 ssl_rank: A+
 http_rank: B
 security_txt: 4
@@ -28,7 +28,7 @@ tags: dutchgov
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/DutchGovScope/data/schadedoormijnbouw.nl/subdomains.txt)|11|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/schadedoormijnbouw.nl/urls.txt)|5|Urls|
+|[urls.txt](/DutchGovScope/data/schadedoormijnbouw.nl/urls.txt)|6|Urls|
 |[all_subdomains.txt](/DutchGovScope/data/schadedoormijnbouw.nl/all_subdomains.txt)|34|All found subdomains (history)|
 
 
@@ -42,4 +42,5 @@ tags: dutchgov
 |[https://schadedoormijnbouw.nl](https://schadedoormijnbouw.nl)| **A+**| **A**|| |:white_check_mark: | | |:warning: | | :white_check_mark: | :white_check_mark: | |HSTS|Document Moved|
 |[https://forum.schadedoormijnbouw.nl](https://forum.schadedoormijnbouw.nl)| **A+**| **A**||:white_check_mark: |:white_check_mark: | | |:warning: | | :white_check_mark: | :white_check_mark: | |Azure Azure Edge Network Azure Front Door HSTS Microsoft ASP.NET|Forums|
 |[https://tracking.schadedoormijnbouw.nl](https://tracking.schadedoormijnbouw.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |HSTS Nginx PHP||
+|[https://acceptatie.schadedoormijnbouw.nl](https://acceptatie.schadedoormijnbouw.nl)| | **F**|Microsoft-IIS/10.0| | | | | | | | :white_check_mark: | |Azure Edge Network HSTS IIS:10.0 Microsoft ASP.NET Windows Server||
 

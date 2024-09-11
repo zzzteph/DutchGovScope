@@ -6138,7 +6138,7 @@ https://altium.databank.nl
 https://tours.databank.nl
 https://proserv.databank.nl
 https://www.test.brabant.databank.nl
-https://beta-aedesforecast.databank.nl
+http://beta-aedesforecast.databank.nl
 https://bronnenbeheer.databank.nl
 https://energieciifers.databank.nl
 https://energiemonitor.databank.nl

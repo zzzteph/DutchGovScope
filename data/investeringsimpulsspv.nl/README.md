@@ -11,7 +11,7 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/investeringsimpulsspv.nl/subdomains.txt)|6|Alive subdomains|
+|[subdomains.txt](/data/investeringsimpulsspv.nl/subdomains.txt)|8|Alive subdomains|
 |[urls.txt](/data/investeringsimpulsspv.nl/urls.txt)|6|Urls|
 |[all_subdomains.txt](/data/investeringsimpulsspv.nl/all_subdomains.txt)|12|All found subdomains (history)|
 
