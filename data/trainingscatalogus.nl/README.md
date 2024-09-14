@@ -6,14 +6,14 @@
 
  - **SSL Grade**:A+
  - **HTTP Security Grade**:C
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:42
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:43
 
 
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/trainingscatalogus.nl/subdomains.txt)|229|Alive subdomains|
-|[urls.txt](/data/trainingscatalogus.nl/urls.txt)|119|Urls|
-|[all_subdomains.txt](/data/trainingscatalogus.nl/all_subdomains.txt)|249|All found subdomains (history)|
+|[urls.txt](/data/trainingscatalogus.nl/urls.txt)|120|Urls|
+|[all_subdomains.txt](/data/trainingscatalogus.nl/all_subdomains.txt)|256|All found subdomains (history)|
 
 
 ## Statistics
@@ -23,8 +23,8 @@
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[https://abdleeromgeving-a.trainingscatalogus.nl](https://abdleeromgeving-a.trainingscatalogus.nl)| **A+**| **A**|Apache|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS Moodle PHP|Doorverwijspagin...|
 |[https://belastingdienst.trainingscatalogus.nl](https://belastingdienst.trainingscatalogus.nl)| **A+**| **A**|Class|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
-|[https://buzaleeromgeving.trainingscatalogus.nl](https://buzaleeromgeving.trainingscatalogus.nl)| **A+**| **C**|Apache| |:white_check_mark: | | | | | | :white_check_mark: | |Apache HTTP Server HSTS Moodle PHP|Doorverwijspagin...|
-|[https://buzaleeromgeving-a.trainingscatalogus.nl](https://buzaleeromgeving-a.trainingscatalogus.nl)| **A+**| **C**|Apache| |:white_check_mark: | | | | | | :white_check_mark: | |Apache HTTP Server HSTS Moodle PHP|Doorverwijspagin...|
+|[https://buzaleeromgeving.trainingscatalogus.nl](https://buzaleeromgeving.trainingscatalogus.nl)| **A+**| **C**|Apache| |:white_check_mark: | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|404 Not Found|
+|[https://buzaleeromgeving-a.trainingscatalogus.nl](https://buzaleeromgeving-a.trainingscatalogus.nl)| **A+**| **C**|Apache| |:white_check_mark: | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|404 Not Found|
 |[https://class-leeromgeving-p.trainingscatalogus.nl](https://class-leeromgeving-p.trainingscatalogus.nl)| **A**| **F**|Microsoft-Azure-Application-Gateway/v2| | | | | | | | :white_check_mark: | ||502 Bad Gateway|
 |[https://dji.trainingscatalogus.nl](https://dji.trainingscatalogus.nl)| **A+**| **B**|Class|:white_check_mark: |:white_check_mark: | | |:warning: | | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://djileeromgeving-a.trainingscatalogus.nl](https://djileeromgeving-a.trainingscatalogus.nl)| **A+**| **A**|Apache|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS Moodle PHP:8.1.29|Doorverwijspagin...|
@@ -82,7 +82,7 @@
 |[https://leeromgevingschiphol.trainingscatalogus.nl](https://leeromgevingschiphol.trainingscatalogus.nl)| **A+**| **C**|Apache| |:white_check_mark: | | | | | | :white_check_mark: | |Apache HTTP Server HSTS Moodle PHP:8.1.29|Doorverwijspagin...|
 |[https://senzer-a.trainingscatalogus.nl](https://senzer-a.trainingscatalogus.nl)| **A+**| **B**|Class|:white_check_mark: |:white_check_mark: | | |:warning: | | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://clcclass.trainingscatalogus.nl](https://clcclass.trainingscatalogus.nl)| **A+**| **A**|Class|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Access is denied...|
-|[https://bd.trainingscatalogus.nl](https://bd.trainingscatalogus.nl)| **A+**| **B**|Class|:white_check_mark: |:white_check_mark: | | |:warning: | | :white_check_mark: | :white_check_mark: | |HSTS||
+|[https://bd.trainingscatalogus.nl](https://bd.trainingscatalogus.nl)| **A+**| **C**|Class|:white_check_mark: |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://apgrechtenbeheerenict.trainingscatalogus.nl](https://apgrechtenbeheerenict.trainingscatalogus.nl)| **A+**| **B**|Class|:white_check_mark: |:white_check_mark: | | |:warning: | | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://vgz.trainingscatalogus.nl](https://vgz.trainingscatalogus.nl)| **A+**| **B**|Class|:white_check_mark: |:white_check_mark: | | |:warning: | | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://minfin.trainingscatalogus.nl](https://minfin.trainingscatalogus.nl)| **A+**| **B**|Class|:white_check_mark: |:white_check_mark: | | |:warning: | | :white_check_mark: | :white_check_mark: | |HSTS||
@@ -140,4 +140,5 @@
 |[https://vgz-lms.enrollment-api.trainingscatalogus.nl](https://vgz-lms.enrollment-api.trainingscatalogus.nl)| | **F**|Microsoft-IIS/10.0|:white_check_mark: | | | | | | | :white_check_mark: | |Azure IIS:10.0 Microsoft ASP.NET Windows Server||
 |[https://vgz-lms.scim-api.trainingscatalogus.nl](https://vgz-lms.scim-api.trainingscatalogus.nl)| | **F**|Microsoft-IIS/10.0|:white_check_mark: | | | | | | | :white_check_mark: | |Azure IIS:10.0 Microsoft ASP.NET Windows Server||
 |[https://pbo.trainingscatalogus.nl](https://pbo.trainingscatalogus.nl)| | **C**|Class|:white_check_mark: |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | |HSTS||
+|[https://rbo-a.trainingscatalogus.nl](https://rbo-a.trainingscatalogus.nl)| | **C**|Class|:white_check_mark: |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | |HSTS||
 

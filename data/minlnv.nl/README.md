@@ -22,8 +22,8 @@
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[https://www.minlnv.nl](https://www.minlnv.nl)| **A**| **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |||
-|[https://e-certnl-acc.minlnv.nl](https://e-certnl-acc.minlnv.nl)| **A**| **B**||:white_check_mark: |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | |||
+|[https://e-certnl-acc.minlnv.nl](https://e-certnl-acc.minlnv.nl)| **A**| **C**||:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | |||
 |[https://client-export.minlnv.nl](https://client-export.minlnv.nl)| **A+**| **B**||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS|Error 404--Not F...|
 |[https://minlnv.nl](https://minlnv.nl)| **A**| **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |||
-|[https://e-certnl.minlnv.nl](https://e-certnl.minlnv.nl)| **A**| **B**||:white_check_mark: |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | |||
+|[https://e-certnl.minlnv.nl](https://e-certnl.minlnv.nl)| **A**| **C**||:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | |||
 

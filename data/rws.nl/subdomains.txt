@@ -213,6 +213,7 @@ admin.rws.nl
 apop.esb.rws.nl
 tws-esb.rws.nl
 validator.otl.rws.nl
+tgox-acc.rws.nl
 mq1.esb.rws.nl
 esb-werkstation-3.vm-02.azure.grid.rws.nl
 guestportal4.rws.nl

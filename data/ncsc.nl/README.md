@@ -6,13 +6,13 @@
 
  - **SSL Grade**:B
  - **HTTP Security Grade**:B
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:21
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:14
 
 
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/ncsc.nl/subdomains.txt)|60|Alive subdomains|
-|[urls.txt](/data/ncsc.nl/urls.txt)|30|Urls|
+|[urls.txt](/data/ncsc.nl/urls.txt)|29|Urls|
 |[all_subdomains.txt](/data/ncsc.nl/all_subdomains.txt)|95|All found subdomains (history)|
 
 
@@ -32,15 +32,14 @@
 |[https://magazines.ncsc.nl](https://magazines.ncsc.nl)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://opendata.ncsc.nl](https://opendata.ncsc.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://opendata.english.ncsc.nl](https://opendata.english.ncsc.nl)| **A+**| **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
-|[https://portaal.acc.ncsc.nl](https://portaal.acc.ncsc.nl)| **B**| **A**|none| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://securened.ncsc.nl](https://securened.ncsc.nl)| **B**| **B**|none|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS|SecureNed|
 |[https://securenet.ncsc.nl](https://securenet.ncsc.nl)| **B**| **B**|none|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS|SecureNed|
 |[https://www.ncsc.nl](https://www.ncsc.nl)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Home | Nationaal...|
 |[https://gl1.ncsc.nl](https://gl1.ncsc.nl)| **F**| **F**|none| | | | | | | | :white_check_mark: | |HSTS|Test Page for th...|
 |[https://ncsc.nl](https://ncsc.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
-|[https://api.mijn.test.ncsc.nl](https://api.mijn.test.ncsc.nl)| **B**| **F**|none| | | | | | | | :white_check_mark: | |HSTS||
-|[https://mijn.test.ncsc.nl](https://mijn.test.ncsc.nl)| **B**| **F**|none| | | | | | | | :white_check_mark: | |HSTS||
-|[https://test.ncsc.nl](https://test.ncsc.nl)| **D**| **F**|none| | | | | | | | :white_check_mark: | |HSTS||
+|[https://api.mijn.test.ncsc.nl](https://api.mijn.test.ncsc.nl)| **B**| **A**|none| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
+|[https://mijn.test.ncsc.nl](https://mijn.test.ncsc.nl)| **B**| **A**|none| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
+|[https://test.ncsc.nl](https://test.ncsc.nl)| **D**| **A**|none| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://api.mijn.ncsc.nl](https://api.mijn.ncsc.nl)| **B**| **A**|none| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://mijn.ncsc.nl](https://mijn.ncsc.nl)| **B**| **B**|none|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS Next.js Node.js React Webpack|Mijn NCSC|
 |[https://acc.ncsc.nl](https://acc.ncsc.nl)| **B**| **A**|none| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||

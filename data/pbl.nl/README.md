@@ -21,7 +21,7 @@
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[http://autodiscover.pbl.nl](http://autodiscover.pbl.nl)| | **E**|Microsoft-IIS/10.0| | | | | | :white_check_mark: | | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server||
+|[http://autodiscover.pbl.nl](http://autodiscover.pbl.nl)| | **C**|Microsoft-IIS/10.0| |:white_check_mark: | | | | | | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server||
 |[https://data.pbl.nl](https://data.pbl.nl)| **A+**| **A**|Microsoft-Azure-Application-Gateway/v2| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS|301 Moved Perman...|
 |[https://dataportaal.pbl.nl](https://dataportaal.pbl.nl)| **A-**| **A**|| |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | |HSTS|Home - PBL Datap...|
 |[https://dwo.pbl.nl](https://dwo.pbl.nl)| **A+**| **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS||

@@ -9,3 +9,4 @@ https://oid.pkioverheid.nl
 https://cp.pkioverheid.nl
 https://por.pkioverheid.nl
 http://trialrootocsp-g3.ocsp.pkioverheid.nl
+http://trialdomorganisatieservicesocsp-g3.pkioverheid.nl

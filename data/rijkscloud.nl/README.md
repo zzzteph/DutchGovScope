@@ -12,7 +12,7 @@
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/rijkscloud.nl/subdomains.txt)|556|Alive subdomains|
-|[urls.txt](/data/rijkscloud.nl/urls.txt)|118|Urls|
+|[urls.txt](/data/rijkscloud.nl/urls.txt)|119|Urls|
 |[all_subdomains.txt](/data/rijkscloud.nl/all_subdomains.txt)|758|All found subdomains (history)|
 
 
@@ -139,4 +139,5 @@
 |[https://ip4.rijkscloud.nl](https://ip4.rijkscloud.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
 |[https://ip6.rijkscloud.nl](https://ip6.rijkscloud.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
 |[https://platform.analyse.ilt.rijkscloud.nl](https://platform.analyse.ilt.rijkscloud.nl)| | **A**||:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Java||
+|[https://integrations.chat.rijkscloud.nl](https://integrations.chat.rijkscloud.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS Nextcloud PHP|Nextcloud|
 

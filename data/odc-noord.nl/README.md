@@ -89,13 +89,13 @@
 |[https://vpn.bzknpr.odc-noord.nl](https://vpn.bzknpr.odc-noord.nl)| | **E**|OpenVPN-AS| | | | | | :white_check_mark: | | :white_check_mark: | ||Access server cl...|
 |[https://vpn.bzkprd.odc-noord.nl](https://vpn.bzkprd.odc-noord.nl)| | **F**|OpenVPN-AS| | | | | | | | :white_check_mark: | ||Access server cl...|
 |[https://vpn.gn2.koop-a.odc-noord.nl](https://vpn.gn2.koop-a.odc-noord.nl)| | **F**|OpenVPN-AS| | | | | | | | :white_check_mark: | ||Access server cl...|
-|[https://vpn.gn2.koop-p.odc-noord.nl](https://vpn.gn2.koop-p.odc-noord.nl)| | **F**|OpenVPN-AS| | | | | | | | :white_check_mark: | |||
+|[https://vpn.gn2.koop-p.odc-noord.nl](https://vpn.gn2.koop-p.odc-noord.nl)| | **F**|OpenVPN-AS| | | | | | | | :white_check_mark: | ||Access server cl...|
 |[https://vpn.gn2.koop-t.odc-noord.nl](https://vpn.gn2.koop-t.odc-noord.nl)| | **F**|OpenVPN-AS| | | | | | | | :white_check_mark: | ||Access server cl...|
 |[https://vpn.rvb.odc-noord.nl](https://vpn.rvb.odc-noord.nl)| | **F**|OpenVPN-AS| | | | | | | | :white_check_mark: | ||Access server cl...|
 |[https://vws-acc.jira.odc-noord.nl](https://vws-acc.jira.odc-noord.nl)| **B**| **A**||:warning: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Java||
 |[https://vws-prd.jira.odc-noord.nl](https://vws-prd.jira.odc-noord.nl)| **B**| **A**||:warning: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Java||
 |[https://www.odc-noord.nl](https://www.odc-noord.nl)| **A+**| **B**|| |:white_check_mark: | :warning:| | | | :white_check_mark: | :white_check_mark: | |HSTS Node.js Nuxt.js Vue.js||
-|[https://vpn.gn2.koop-pp.odc-noord.nl](https://vpn.gn2.koop-pp.odc-noord.nl)| | **F**|OpenVPN-AS| | | | | | | | :white_check_mark: | |||
+|[https://vpn.gn2.koop-pp.odc-noord.nl](https://vpn.gn2.koop-pp.odc-noord.nl)| | **F**|OpenVPN-AS| | | | | | | | :white_check_mark: | ||Access server cl...|
 |[https://odc-noord.nl](https://odc-noord.nl)| **A+**| **B**|| |:white_check_mark: | :warning:| | | | :white_check_mark: | :white_check_mark: | |HSTS Node.js Nuxt.js Vue.js||
 |[https://vpn.ocw.odc-noord.nl](https://vpn.ocw.odc-noord.nl)| | **F**|OpenVPN-AS| | | | | | | | :white_check_mark: | |||
 |[https://vpn.gn3.koop-a.odc-noord.nl](https://vpn.gn3.koop-a.odc-noord.nl)| | **F**|OpenVPN-AS| | | | | | | | :white_check_mark: | ||Access server cl...|

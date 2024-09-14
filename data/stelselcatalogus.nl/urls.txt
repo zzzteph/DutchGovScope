@@ -7,3 +7,4 @@ http://digitaleoverheid.stelselcatalogus.nl
 https://editor.stelselcatalogus.nl
 https://preprod.keycloak.stelselcatalogus.nl
 https://preprod.www.stelselcatalogus.nl
+https://playground.stelselcatalogus.nl

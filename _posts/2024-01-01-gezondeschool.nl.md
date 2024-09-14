@@ -39,7 +39,7 @@ tags: dutchgov
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[http://sub.gezondeschool.nl](http://sub.gezondeschool.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |||
 |[http://test.gezondeschool.nl](http://test.gezondeschool.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
-|[http://www.gezondeschool.nl](http://www.gezondeschool.nl)| **A+**| **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server Bootstrap:4.3.1 PHP:7.4.33 Varnish|geregistreerd vi...|
+|[https://www.gezondeschool.nl](https://www.gezondeschool.nl)| **A+**| **A**|Apache| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server Drupal HSTS PHP|Gezonde School |...|
 |[https://gezondeschool.nl](https://gezondeschool.nl)| **A+**| **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|301 Moved Perman...|
 |[http://acceptatie.gezondeschool.nl](http://acceptatie.gezondeschool.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[http://autodiscover.gezondeschool.nl](http://autodiscover.gezondeschool.nl)| | **C**|Microsoft-IIS/10.0| |:white_check_mark: | | | | | | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server||

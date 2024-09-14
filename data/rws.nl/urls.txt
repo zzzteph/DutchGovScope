@@ -88,7 +88,7 @@ https://ptp.inloggen.rws.nl
 https://rastoken.rws.nl
 https://rhel8.wabinfo.rws.nl
 https://rwsos.rws.nl
-http://samenwerken.rws.nl
+https://samenwerken.rws.nl
 https://samp.rws.nl
 https://sig.fam.rws.nl
 https://sluisplanning.rws.nl

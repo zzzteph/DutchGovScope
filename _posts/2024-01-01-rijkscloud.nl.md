@@ -4,7 +4,7 @@ title: "rijkscloud.nl"
 permalink: "/dutchgov/rijkscloud.nl.html"
 subdomains_count: 556
 all_subdomains_count: 758
-urls_count: 118
+urls_count: 119
 ssl_rank: A+
 http_rank: B
 security_txt: 42
@@ -28,7 +28,7 @@ tags: dutchgov
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/DutchGovScope/data/rijkscloud.nl/subdomains.txt)|556|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/rijkscloud.nl/urls.txt)|118|Urls|
+|[urls.txt](/DutchGovScope/data/rijkscloud.nl/urls.txt)|119|Urls|
 |[all_subdomains.txt](/DutchGovScope/data/rijkscloud.nl/all_subdomains.txt)|758|All found subdomains (history)|
 
 
@@ -155,4 +155,5 @@ tags: dutchgov
 |[https://ip4.rijkscloud.nl](https://ip4.rijkscloud.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
 |[https://ip6.rijkscloud.nl](https://ip6.rijkscloud.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
 |[https://platform.analyse.ilt.rijkscloud.nl](https://platform.analyse.ilt.rijkscloud.nl)| | **A**||:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Java||
+|[https://integrations.chat.rijkscloud.nl](https://integrations.chat.rijkscloud.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS Nextcloud PHP|Nextcloud|
 

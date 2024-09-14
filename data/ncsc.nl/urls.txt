@@ -9,7 +9,6 @@ https://gl.ncsc.nl
 https://magazines.ncsc.nl
 https://opendata.ncsc.nl
 https://opendata.english.ncsc.nl
-https://portaal.acc.ncsc.nl
 https://securened.ncsc.nl
 https://securenet.ncsc.nl
 https://www.ncsc.nl

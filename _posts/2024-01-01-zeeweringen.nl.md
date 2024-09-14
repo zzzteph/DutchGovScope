@@ -3,8 +3,8 @@ layout: default
 title: "zeeweringen.nl"
 permalink: "/dutchgov/zeeweringen.nl.html"
 subdomains_count: 10
-all_subdomains_count: 10
-urls_count: 6
+all_subdomains_count: 13
+urls_count: 10
 ssl_rank: D
 http_rank: F
 security_txt: 0
@@ -28,8 +28,8 @@ tags: dutchgov
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/DutchGovScope/data/zeeweringen.nl/subdomains.txt)|10|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/zeeweringen.nl/urls.txt)|6|Urls|
-|[all_subdomains.txt](/DutchGovScope/data/zeeweringen.nl/all_subdomains.txt)|10|All found subdomains (history)|
+|[urls.txt](/DutchGovScope/data/zeeweringen.nl/urls.txt)|10|Urls|
+|[all_subdomains.txt](/DutchGovScope/data/zeeweringen.nl/all_subdomains.txt)|13|All found subdomains (history)|
 
 
 ## Statistics
@@ -43,4 +43,8 @@ tags: dutchgov
 |[https://conferentie.zeeweringen.nl](https://conferentie.zeeweringen.nl)| **F**| **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|400 Bad Request|
 |[https://zeeweringen.nl](https://zeeweringen.nl)| **A**| **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|400 Bad Request|
 |[https://webmail.zeeweringen.nl](https://webmail.zeeweringen.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|301 Moved Perman...|
+|[https://websitewww.zeeweringen.nl](https://websitewww.zeeweringen.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|400 Bad Request|
+|[https://621993www.zeeweringen.nl](https://621993www.zeeweringen.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|400 Bad Request|
+|[https://1994www.zeeweringen.nl](https://1994www.zeeweringen.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|400 Bad Request|
+|[https://opwww.zeeweringen.nl](https://opwww.zeeweringen.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|400 Bad Request|
 

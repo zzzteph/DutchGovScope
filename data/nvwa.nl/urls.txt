@@ -25,7 +25,7 @@ https://ras-acc.nvwa.nl
 https://rvdmschaduwdraaien.nvwa.nl
 https://test.openbare-inspectieresultaten.nvwa.nl
 https://vgc.nvwa.nl
-http://vgc-acc.nvwa.nl
+https://vgc-acc.nvwa.nl
 https://videoleren.nvwa.nl
 https://www.nvwa.nl
 https://www.inspectieresultaten.nvwa.nl
@@ -33,5 +33,5 @@ https://www.openbare-inspectieresultaten.nvwa.nl
 https://www.ras-acc.nvwa.nl
 https://nvwa.nl
 https://e-certnl-sch.nvwa.nl
-https://labvantage-acc.nvwa.nl
+http://labvantage-acc.nvwa.nl
 https://soap.openbare-inspectieresultaten.nvwa.nl

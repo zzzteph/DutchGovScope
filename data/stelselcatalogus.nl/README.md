@@ -5,14 +5,14 @@
 
 
  - **SSL Grade**:A+
- - **HTTP Security Grade**:A
+ - **HTTP Security Grade**:B
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:5
 
 
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/stelselcatalogus.nl/subdomains.txt)|22|Alive subdomains|
-|[urls.txt](/data/stelselcatalogus.nl/urls.txt)|9|Urls|
+|[urls.txt](/data/stelselcatalogus.nl/urls.txt)|10|Urls|
 |[all_subdomains.txt](/data/stelselcatalogus.nl/all_subdomains.txt)|31|All found subdomains (history)|
 
 
@@ -30,4 +30,5 @@
 |[https://editor.stelselcatalogus.nl](https://editor.stelselcatalogus.nl)| **B**| **E**|| | | | | | | | :white_check_mark: | |HSTS|Begrippenkadered...|
 |[https://preprod.keycloak.stelselcatalogus.nl](https://preprod.keycloak.stelselcatalogus.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Welcome to Keycl...|
 |[https://preprod.www.stelselcatalogus.nl](https://preprod.www.stelselcatalogus.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||
+|[https://playground.stelselcatalogus.nl](https://playground.stelselcatalogus.nl)| | **E**|| | | | | | | | :white_check_mark: | ||HTTP Status 404...|
 

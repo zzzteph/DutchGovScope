@@ -4,7 +4,7 @@ title: "cultureelerfgoed.nl"
 permalink: "/dutchgov/cultureelerfgoed.nl.html"
 subdomains_count: 91
 all_subdomains_count: 136
-urls_count: 61
+urls_count: 65
 ssl_rank: A-
 http_rank: B
 security_txt: 26
@@ -28,7 +28,7 @@ tags: dutchgov
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/DutchGovScope/data/cultureelerfgoed.nl/subdomains.txt)|91|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/cultureelerfgoed.nl/urls.txt)|61|Urls|
+|[urls.txt](/DutchGovScope/data/cultureelerfgoed.nl/urls.txt)|65|Urls|
 |[all_subdomains.txt](/DutchGovScope/data/cultureelerfgoed.nl/all_subdomains.txt)|136|All found subdomains (history)|
 
 
@@ -98,4 +98,8 @@ tags: dutchgov
 |[https://acc.render.map.services.cultureelerfgoed.nl](https://acc.render.map.services.cultureelerfgoed.nl)| **A+**| **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|403 Forbidden|
 |[https://acc.stor.services.cultureelerfgoed.nl](https://acc.stor.services.cultureelerfgoed.nl)| **A+**| **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|403 Forbidden|
 |[https://acc.translate.services.cultureelerfgoed.nl](https://acc.translate.services.cultureelerfgoed.nl)| **A+**| **E**|| | | | | | | | :white_check_mark: | |HSTS|Dienst tijdelijk...|
+|[https://acc.zaak.services.cultureelerfgoed.nl](https://acc.zaak.services.cultureelerfgoed.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|403 Forbidden|
+|[https://acc.api-gateway.archis.cultureelerfgoed.nl](https://acc.api-gateway.archis.cultureelerfgoed.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|403 Forbidden|
+|[https://acc.client.archis.cultureelerfgoed.nl](https://acc.client.archis.cultureelerfgoed.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|403 Forbidden|
+|[https://acc.encoded.api-gateway.archis.cultureelerfgoed.nl](https://acc.encoded.api-gateway.archis.cultureelerfgoed.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|403 Forbidden|
 

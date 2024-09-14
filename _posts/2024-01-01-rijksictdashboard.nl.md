@@ -7,7 +7,7 @@ all_subdomains_count: 10
 urls_count: 7
 ssl_rank: A+
 http_rank: A
-security_txt: 7
+security_txt: 6
 url_link: /data/rijksictdashboard.nl/urls.txt
 all_subdomains_link: /data/rijksictdashboard.nl/all_subdomains.txt
 subdomains_link: /data/rijksictdashboard.nl/subdomains.txt
@@ -22,7 +22,7 @@ tags: dutchgov
 
  - **SSL Grade**:A+
  - **HTTP Security Grade**:A
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:7
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:6
 
 
 | File       | Count | Info |
@@ -39,7 +39,7 @@ tags: dutchgov
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[https://www.rijksictdashboard.nl](https://www.rijksictdashboard.nl)| **A+**| **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS|Rijks ICT-dashbo...|
 |[https://acc.beheer.rijksictdashboard.nl](https://acc.beheer.rijksictdashboard.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS|Rijks ICT-dashbo...|
-|[https://acc.rijksictdashboard.nl](https://acc.rijksictdashboard.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS|Rijks ICT-dashbo...|
+|[https://acc.rijksictdashboard.nl](https://acc.rijksictdashboard.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS|Dienst tijdelijk...|
 |[https://beheer.rijksictdashboard.nl](https://beheer.rijksictdashboard.nl)| **A+**| **A**|| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS|Rijks ICT-dashbo...|
 |[https://rijksictdashboard.nl](https://rijksictdashboard.nl)| **A+**| **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS|Rijks ICT-dashbo...|
 |[https://test.beheer.rijksictdashboard.nl](https://test.beheer.rijksictdashboard.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS|Rijks ICT-dashbo...|

@@ -117,3 +117,7 @@ lca.logius.nl
 mev.logius.nl
 acceptatie-portalen.digipoort.logius.nl
 preprod-portalen.digipoort.logius.nl
+ca-devportal-acc.logius.nl
+ca-idp-acc.logius.nl
+www.acceptatie-portalen.digipoort.logius.nl
+www.preprod-portalen.digipoort.logius.nl

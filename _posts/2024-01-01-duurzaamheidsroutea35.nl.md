@@ -6,7 +6,7 @@ subdomains_count: 2
 all_subdomains_count: 2
 urls_count: 2
 ssl_rank: 
-http_rank: E
+http_rank: F
 security_txt: 0
 url_link: /data/duurzaamheidsroutea35.nl/urls.txt
 all_subdomains_link: /data/duurzaamheidsroutea35.nl/all_subdomains.txt
@@ -21,7 +21,7 @@ tags: dutchgov
 
 
  - **SSL Grade**:
- - **HTTP Security Grade**:E
+ - **HTTP Security Grade**:F
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:0
 
 
@@ -37,6 +37,6 @@ tags: dutchgov
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[http://www.duurzaamheidsroutea35.nl](http://www.duurzaamheidsroutea35.nl)| **F**| **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET||
-|[http://duurzaamheidsroutea35.nl](http://duurzaamheidsroutea35.nl)| **F**| **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET||
+|[https://www.duurzaamheidsroutea35.nl](https://www.duurzaamheidsroutea35.nl)| **F**| **F**|Microsoft-IIS/10.0| | | | | | | | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server||
+|[https://duurzaamheidsroutea35.nl](https://duurzaamheidsroutea35.nl)| **F**| **F**|Microsoft-IIS/10.0| | | | | | | | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server||
 

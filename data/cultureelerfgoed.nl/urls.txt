@@ -59,3 +59,7 @@ https://acc.gml.map.services.cultureelerfgoed.nl
 https://acc.render.map.services.cultureelerfgoed.nl
 https://acc.stor.services.cultureelerfgoed.nl
 https://acc.translate.services.cultureelerfgoed.nl
+https://acc.zaak.services.cultureelerfgoed.nl
+https://acc.api-gateway.archis.cultureelerfgoed.nl
+https://acc.client.archis.cultureelerfgoed.nl
+https://acc.encoded.api-gateway.archis.cultureelerfgoed.nl

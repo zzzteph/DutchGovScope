@@ -6,13 +6,13 @@
 
  - **SSL Grade**:A+
  - **HTTP Security Grade**:B
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:3
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:4
 
 
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/officielebekendmakingen.nl/subdomains.txt)|33|Alive subdomains|
-|[urls.txt](/data/officielebekendmakingen.nl/urls.txt)|21|Urls|
+|[urls.txt](/data/officielebekendmakingen.nl/urls.txt)|22|Urls|
 |[all_subdomains.txt](/data/officielebekendmakingen.nl/all_subdomains.txt)|75|All found subdomains (history)|
 
 
@@ -42,4 +42,5 @@
 |[https://www-acc.officielebekendmakingen.nl](https://www-acc.officielebekendmakingen.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|403 Forbidden|
 |[http://localhost.officielebekendmakingen.nl](http://localhost.officielebekendmakingen.nl)| | **F**|nginx| | | :warning:| | | | | :white_check_mark: | |Nginx|(404 Not Found)|
 |[https://identifier-preprod.officielebekendmakingen.nl](https://identifier-preprod.officielebekendmakingen.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|URI - Performer...|
+|[https://stage-acc.officielebekendmakingen.nl](https://stage-acc.officielebekendmakingen.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET||
 

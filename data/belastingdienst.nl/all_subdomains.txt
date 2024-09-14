@@ -796,3 +796,5 @@ rwn.belastingdienst.nl
 waf.ont.belastingdienst.nl
 ideal20-cnf.belastingdienst.nl
 ideal20-test.belastingdienst.nl
+duurzameescaperoom-light-vr.belastingdienst.nl
+duurzameescaperoom-vr.belastingdienst.nl

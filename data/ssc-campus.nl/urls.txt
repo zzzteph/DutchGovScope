@@ -9,6 +9,7 @@ https://mededeling.ssc-campus.nl
 https://modellenplatform.ssc-campus.nl
 https://modellenplatform-rekenen.ssc-campus.nl
 https://mp.ssc-campus.nl
+https://nwm-zw-input.ssc-campus.nl
 https://nwm-zw-output.ssc-campus.nl
 https://rivm-micol-a01p.rivm.ssc-campus.nl
 https://testconn-mp.ssc-campus.nl

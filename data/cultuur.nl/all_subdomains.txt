@@ -39,3 +39,4 @@ www.bis2017-2020.cultuur.nl
 webmail.jaarverslagen.cultuur.nl
 autodiscover.bescherming-cultuurgoederen.cultuur.nl
 mail.bescherming-cultuurgoederen.cultuur.nl
+adfs.cultuur.nl

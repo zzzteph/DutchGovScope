@@ -148,6 +148,7 @@ dv.otcp.machtigen.digid.nl
 login.a6.digid.nl
 api-a3.digid.nl
 soap.acc4.machtigen.digid.nl
+www.pp1.machtigen.digid.nl
 balie-preprod1.digid.nl
 ob.acc3.machtigen.digid.nl
 eid-a1.digid.nl

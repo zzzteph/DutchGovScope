@@ -22,5 +22,5 @@
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[https://www.iuc-noord.nl](https://www.iuc-noord.nl)| **A+**| **B**|| |:white_check_mark: | :warning:| | | | :white_check_mark: | :white_check_mark: | |HSTS Node.js Nuxt.js Vue.js||
-|[https://iuc-noord.nl](https://iuc-noord.nl)| **A+**| **B**|| |:white_check_mark: | :warning:| | | | :white_check_mark: | :white_check_mark: | |HSTS Nginx Node.js Nuxt.js Vue.js||
+|[https://iuc-noord.nl](https://iuc-noord.nl)| **A+**| **B**|| |:white_check_mark: | :warning:| | | | :white_check_mark: | :white_check_mark: | |HSTS Node.js Nuxt.js Vue.js||
 

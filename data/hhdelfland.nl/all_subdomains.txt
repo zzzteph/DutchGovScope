@@ -223,3 +223,5 @@ fileshare.hhdelfland.nl
 passwordreset.hhdelfland.nl
 enterpriseregistration.hhdelfland.nl
 basistest.hhdelfland.nl
+wisp-ba.hhdelfland.nl
+wist-ba.hhdelfland.nl

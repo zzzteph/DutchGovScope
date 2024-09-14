@@ -23,8 +23,8 @@
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[https://acc.inspectieresultaten.nvwa.nl](https://acc.inspectieresultaten.nvwa.nl)| **F**| **F**|nginx| | | | | | | | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
 |[https://acc2.inspectieresultaten.nvwa.nl](https://acc2.inspectieresultaten.nvwa.nl)| **F**| **F**|nginx| | | | | | | | :white_check_mark: | |Basic Nginx|401 Authorizatio...|
-|[https://e-certnl.nvwa.nl](https://e-certnl.nvwa.nl)| | **B**||:white_check_mark: |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | |HSTS|Index of /|
-|[https://e-certnl-acc.nvwa.nl](https://e-certnl-acc.nvwa.nl)| | **B**||:white_check_mark: |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | |HSTS||
+|[https://e-certnl.nvwa.nl](https://e-certnl.nvwa.nl)| | **C**||:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|403 Forbidden|
+|[https://e-certnl-acc.nvwa.nl](https://e-certnl-acc.nvwa.nl)| | **C**||:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|403 Forbidden|
 |[https://english.nvwa.nl](https://english.nvwa.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Home | NVWA-Engl...|
 |[https://feeds.nvwa.nl](https://feeds.nvwa.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://feeds.english.nvwa.nl](https://feeds.english.nvwa.nl)| **A+**| **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
@@ -48,7 +48,7 @@
 |[https://rvdmschaduwdraaien.nvwa.nl](https://rvdmschaduwdraaien.nvwa.nl)| **A**| **C**||:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|Error 404--Not F...|
 |[https://test.openbare-inspectieresultaten.nvwa.nl](https://test.openbare-inspectieresultaten.nvwa.nl)| **F**| **F**|nginx| | | | | | | | :white_check_mark: | |Basic Nginx|401 Authorizatio...|
 |[https://vgc.nvwa.nl](https://vgc.nvwa.nl)| **A+**| **B**||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS|Error 404--Not F...|
-|[http://vgc-acc.nvwa.nl](http://vgc-acc.nvwa.nl)| **A+**| **B**||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS||
+|[https://vgc-acc.nvwa.nl](https://vgc-acc.nvwa.nl)| **A+**| **B**||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS|Error 404--Not F...|
 |[https://videoleren.nvwa.nl](https://videoleren.nvwa.nl)| **A+**| **D**|cloudflare|:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | |Cloudflare Cloudflare Bot Management HSTS|POST data|
 |[https://www.nvwa.nl](https://www.nvwa.nl)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Home | NVWA|
 |[https://www.inspectieresultaten.nvwa.nl](https://www.inspectieresultaten.nvwa.nl)| **A+**| **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
@@ -56,6 +56,6 @@
 |[https://www.ras-acc.nvwa.nl](https://www.ras-acc.nvwa.nl)| **F**| **E**|| | | | | | | | :white_check_mark: | |HSTS|302 Found|
 |[https://nvwa.nl](https://nvwa.nl)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
 |[https://e-certnl-sch.nvwa.nl](https://e-certnl-sch.nvwa.nl)| **A+**| **C**||:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|403 Forbidden|
-|[https://labvantage-acc.nvwa.nl](https://labvantage-acc.nvwa.nl)| **A+**| **E**|| | | | | | | | :white_check_mark: | |HSTS|Error 404--Not F...|
+|[http://labvantage-acc.nvwa.nl](http://labvantage-acc.nvwa.nl)| **A+**| **E**|| | | | | | | | :white_check_mark: | |HSTS||
 |[https://soap.openbare-inspectieresultaten.nvwa.nl](https://soap.openbare-inspectieresultaten.nvwa.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Basic Nginx|401 Authorizatio...|
 

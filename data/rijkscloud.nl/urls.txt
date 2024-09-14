@@ -116,3 +116,4 @@ https://kpi.dfront.rijkscloud.nl
 https://ip4.rijkscloud.nl
 https://ip6.rijkscloud.nl
 https://platform.analyse.ilt.rijkscloud.nl
+https://integrations.chat.rijkscloud.nl

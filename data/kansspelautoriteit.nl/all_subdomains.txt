@@ -121,3 +121,7 @@ prod-cdb-01-238-555-v2.kansspelautoriteit.nl
 prod-cdb-01-271-186-v2.kansspelautoriteit.nl
 prod-cdb-01-319-281-v1.kansspelautoriteit.nl
 prod-cdb-01-319-279-v1.kansspelautoriteit.nl
+prod-cdb-01-307-526-v1.kansspelautoriteit.nl
+prod-cdb-01.307.526-v1.kansspelautoriteit.nl
+prod-cdb-01-238-650-v2.kansspelautoriteit.nl
+prod-cdb-01-238-571-v2.kansspelautoriteit.nl

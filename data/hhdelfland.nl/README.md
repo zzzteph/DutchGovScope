@@ -13,7 +13,7 @@
 |------------|-------|------|
 |[subdomains.txt](/data/hhdelfland.nl/subdomains.txt)|67|Alive subdomains|
 |[urls.txt](/data/hhdelfland.nl/urls.txt)|34|Urls|
-|[all_subdomains.txt](/data/hhdelfland.nl/all_subdomains.txt)|225|All found subdomains (history)|
+|[all_subdomains.txt](/data/hhdelfland.nl/all_subdomains.txt)|227|All found subdomains (history)|
 
 
 ## Statistics
