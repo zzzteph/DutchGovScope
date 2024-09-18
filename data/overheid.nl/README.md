@@ -11,9 +11,9 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/overheid.nl/subdomains.txt)|69134|Alive subdomains|
+|[subdomains.txt](/data/overheid.nl/subdomains.txt)|69741|Alive subdomains|
 |[urls.txt](/data/overheid.nl/urls.txt)|316|Urls|
-|[all_subdomains.txt](/data/overheid.nl/all_subdomains.txt)|71127|All found subdomains (history)|
+|[all_subdomains.txt](/data/overheid.nl/all_subdomains.txt)|72136|All found subdomains (history)|
 
 
 ## Statistics
@@ -323,7 +323,7 @@
 |[https://pdc.acc.omgevingswet.overheid.nl](https://pdc.acc.omgevingswet.overheid.nl)| | **F**|Unspecified| | | | | | | | :white_check_mark: | |HSTS|Kadaster - Pagin...|
 |[https://pp1.toegang.overheid.nl](https://pp1.toegang.overheid.nl)| | **E**|| | | | | | | | :white_check_mark: | |Bootstrap:1.13.18 HSTS|No Access! / Gee...|
 |[https://wetgevingskalender-acc.overheid.nl](https://wetgevingskalender-acc.overheid.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|403 Forbidden|
-|[https://beta-wetten.overheid.nl](https://beta-wetten.overheid.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS|Eenvoudig zoeken...|
+|[http://beta-wetten.overheid.nl](http://beta-wetten.overheid.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS||
 |[https://autodiscover.overheid.nl](https://autodiscover.overheid.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Not Found|
 |[http://beta8.overheid.nl](http://beta8.overheid.nl)| | **F**|BigIP| | | | | | | | :white_check_mark: | |F5 BigIP||
 |[https://community.developer.overheid.nl](https://community.developer.overheid.nl)| | **B**|nginx| | | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Discourse Nginx Ruby on Rails|Developer Overhe...|

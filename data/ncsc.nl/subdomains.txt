@@ -9,7 +9,6 @@ gl.ncsc.nl
 magazines.ncsc.nl
 opendata.ncsc.nl
 opendata.english.ncsc.nl
-portaal.acc.ncsc.nl
 securened.ncsc.nl
 securenet.ncsc.nl
 www.ncsc.nl

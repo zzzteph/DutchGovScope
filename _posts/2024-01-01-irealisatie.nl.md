@@ -90,7 +90,7 @@ tags: dutchgov
 |[https://stats.acc.mgo.irealisatie.nl](https://stats.acc.mgo.irealisatie.nl)| | **B**|Apache| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server Basic HSTS|401 Unauthorized|
 |[https://web.acc.mgo.irealisatie.nl](https://web.acc.mgo.irealisatie.nl)| | **A**|Apache| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |Apache HTTP Server Basic HSTS|401 Unauthorized|
 |[https://app-api.acc.mgo.irealisatie.nl](https://app-api.acc.mgo.irealisatie.nl)| | **A**|Apache| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS||
-|[https://max.acc.mgo.irealisatie.nl](https://max.acc.mgo.irealisatie.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS||
+|[https://max.acc.mgo.irealisatie.nl](https://max.acc.mgo.irealisatie.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS|503 Service Unav...|
 |[https://lo-ad.acc.mgo.irealisatie.nl](https://lo-ad.acc.mgo.irealisatie.nl)| | **A**|| |:white_check_mark: | :warning:| | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS||
 |[https://dva.acc.mgo.irealisatie.nl](https://dva.acc.mgo.irealisatie.nl)| | **A**|| |:white_check_mark: | :warning:| | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS||
 |[https://nextcloud.acc.irealisatie.nl](https://nextcloud.acc.irealisatie.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nextcloud PHP||

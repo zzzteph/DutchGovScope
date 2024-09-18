@@ -39,7 +39,7 @@
 |[https://mijn.digid.nl](https://mijn.digid.nl)| **A+**| **A**||:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Ruby Ruby on Rails||
 |[https://mijn.preprod1.digid.nl](https://mijn.preprod1.digid.nl)| **A+**| **A**||:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Ruby Ruby on Rails||
 |[https://mijn.preprod2.digid.nl](https://mijn.preprod2.digid.nl)| **A+**| **A**||:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Ruby Ruby on Rails||
-|[https://pp1.machtigen.digid.nl](https://pp1.machtigen.digid.nl)| **A**| **A**||:o: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|DigiD Machtigen|
+|[https://pp1.machtigen.digid.nl](https://pp1.machtigen.digid.nl)| **A**| **A**||:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|DigiD Machtigen|
 |[https://preprod1.digid.nl](https://preprod1.digid.nl)| **A+**| **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://preprod2.digid.nl](https://preprod2.digid.nl)| **A**| **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://rda.digid.nl](https://rda.digid.nl)| **A+**| **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
@@ -50,7 +50,7 @@
 |[https://was-preprod1.digid.nl](https://was-preprod1.digid.nl)| **F**| **E**|| | | | | | | | :white_check_mark: | |||
 |[https://was-preprod2.digid.nl](https://was-preprod2.digid.nl)| **F**| **E**|| | | | | | | | :white_check_mark: | |||
 |[https://www.digid.nl](https://www.digid.nl)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Gatsby:4.23.0 HSTS Nginx React Webpack|Home | DigiD|
-|[https://www.machtigen.digid.nl](https://www.machtigen.digid.nl)| **A+**| **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|301 Moved Perman...|
+|[https://www.machtigen.digid.nl](https://www.machtigen.digid.nl)| **A+**| **A**|BigIP| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |F5 BigIP||
 |[https://digid.nl](https://digid.nl)| **A**| **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://helpdesk.machtigen.digid.nl](https://helpdesk.machtigen.digid.nl)| **A+**| **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Machtigen via He...|
 |[https://www.ontwikkel.machtigen.digid.nl](https://www.ontwikkel.machtigen.digid.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS|301 Moved Perman...|

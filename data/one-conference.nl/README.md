@@ -11,7 +11,7 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/one-conference.nl/subdomains.txt)|8722|Alive subdomains|
+|[subdomains.txt](/data/one-conference.nl/subdomains.txt)|8918|Alive subdomains|
 |[urls.txt](/data/one-conference.nl/urls.txt)|8718|Urls|
 |[all_subdomains.txt](/data/one-conference.nl/all_subdomains.txt)|9371|All found subdomains (history)|
 
@@ -34,7 +34,7 @@
 |[https://one-conference.nl](https://one-conference.nl)| **A**| **B**|Apache|:warning: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server Elementor:3.23.4 HSTS MySQL PHP WordPress:6.6.1|One Conference –...|
 |[https://wcag-2.1-inspectie-www.one-conference.nl](https://wcag-2.1-inspectie-www.one-conference.nl)| **F**| **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server||
 |[https://aanmelder.one-conference.nl](https://aanmelder.one-conference.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|404 Not Found|
-|[http://autodiscover.one-conference.nl](http://autodiscover.one-conference.nl)| | **B**|Microsoft-IIS/10.0|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server||
+|[http://autodiscover.one-conference.nl](http://autodiscover.one-conference.nl)| | **C**|Microsoft-IIS/10.0| |:white_check_mark: | | | | | | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server||
 |[https://dev.registration.one-conference.nl](https://dev.registration.one-conference.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|Momice|
 |[https://freesim.one-conference.nl](https://freesim.one-conference.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server||
 |[https://ka.one-conference.nl](https://ka.one-conference.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server||

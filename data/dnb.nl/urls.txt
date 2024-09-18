@@ -122,3 +122,6 @@ https://tz-uitvragen.dnb.nl
 https://plp.dnb.nl
 https://dtlgt-monitoring-dev.azure.dnb.nl
 https://svcalendar-dev.dnb.nl
+https://dtlgt-monitoring-acc.azure.dnb.nl
+https://dtlgt-monitoring-tst.azure.dnb.nl
+https://dtlgt-monitoring-prd.azure.dnb.nl

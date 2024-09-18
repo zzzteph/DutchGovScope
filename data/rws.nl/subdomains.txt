@@ -240,6 +240,7 @@ compliance.gridacc.rws.nl
 iot.gridacc.rws.nl
 status.gridacc.rws.nl
 www.gridacc.rws.nl
+druid.test.vm-05.azure.grid.rws.nl
 acc-werkplek.gw01-gslb.rws.nl
 traefik-dashboard.dmz.vm-04.azure.grid.rws.nl
 mip-proxy-acc.rws.nl

@@ -5,14 +5,14 @@
 
 
  - **SSL Grade**:A+
- - **HTTP Security Grade**:C
+ - **HTTP Security Grade**:D
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:0
 
 
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/innovember.nl/subdomains.txt)|3|Alive subdomains|
-|[urls.txt](/data/innovember.nl/urls.txt)|2|Urls|
+|[urls.txt](/data/innovember.nl/urls.txt)|3|Urls|
 |[all_subdomains.txt](/data/innovember.nl/all_subdomains.txt)|4|All found subdomains (history)|
 
 
@@ -23,4 +23,5 @@
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[https://www.innovember.nl](https://www.innovember.nl)| **A+**| **C**|nginx| | | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Nginx||
 |[https://innovember.nl](https://innovember.nl)| **A+**| **C**|nginx| | | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Nginx||
+|[https://aanmelder.innovember.nl](https://aanmelder.innovember.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|404 Not Found|
 

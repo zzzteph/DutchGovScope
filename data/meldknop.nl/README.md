@@ -12,7 +12,7 @@
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/meldknop.nl/subdomains.txt)|120|Alive subdomains|
-|[urls.txt](/data/meldknop.nl/urls.txt)|119|Urls|
+|[urls.txt](/data/meldknop.nl/urls.txt)|120|Urls|
 |[all_subdomains.txt](/data/meldknop.nl/all_subdomains.txt)|120|All found subdomains (history)|
 
 
@@ -140,4 +140,5 @@
 |[https://luchten.meldknop.nl](https://luchten.meldknop.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx||
 |[https://www.lovingmelovingyou.nlwww.meldknop.nl](https://www.lovingmelovingyou.nlwww.meldknop.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx||
 |[https://www.hoezomediawijs.nlwww.meldknop.nl](https://www.hoezomediawijs.nlwww.meldknop.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx||
+|[https://ww.meldknop.nl](https://ww.meldknop.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx||
 

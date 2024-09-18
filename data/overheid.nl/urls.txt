@@ -300,7 +300,7 @@ https://boub-api-acc.overheid.nl
 https://pdc.acc.omgevingswet.overheid.nl
 https://pp1.toegang.overheid.nl
 https://wetgevingskalender-acc.overheid.nl
-https://beta-wetten.overheid.nl
+http://beta-wetten.overheid.nl
 https://autodiscover.overheid.nl
 http://beta8.overheid.nl
 https://community.developer.overheid.nl

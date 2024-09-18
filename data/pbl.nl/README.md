@@ -12,7 +12,7 @@
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/pbl.nl/subdomains.txt)|45|Alive subdomains|
-|[urls.txt](/data/pbl.nl/urls.txt)|18|Urls|
+|[urls.txt](/data/pbl.nl/urls.txt)|19|Urls|
 |[all_subdomains.txt](/data/pbl.nl/all_subdomains.txt)|98|All found subdomains (history)|
 
 
@@ -39,4 +39,5 @@
 |[https://mailings.pbl.nl](https://mailings.pbl.nl)| **A+**| **A**|nginx| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://mail.pbl.nl](https://mail.pbl.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|404 Not Found|
 |[https://msoid.pbl.nl](https://msoid.pbl.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Object moved|
+|[https://monovi.pbl.nl](https://monovi.pbl.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Drupal:10 HSTS PHP|Site in onderhou...|
 

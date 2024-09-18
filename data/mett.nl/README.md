@@ -6,14 +6,14 @@
 
  - **SSL Grade**:A-
  - **HTTP Security Grade**:E
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:13019
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:13181
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/mett.nl/subdomains.txt)|43734|Alive subdomains|
+|[subdomains.txt](/data/mett.nl/subdomains.txt)|43735|Alive subdomains|
 |[urls.txt](/data/mett.nl/urls.txt)|39886|Urls|
-|[all_subdomains.txt](/data/mett.nl/all_subdomains.txt)|45297|All found subdomains (history)|
+|[all_subdomains.txt](/data/mett.nl/all_subdomains.txt)|46852|All found subdomains (history)|
 
 
 ## Statistics
@@ -376,7 +376,7 @@
 |[http://meedenkenarnhem.mett.nl](http://meedenkenarnhem.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET hCaptcha||
 |[http://adfs.mett.nl](http://adfs.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://api.mett.nl](https://api.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Microsoft Azure...|
-|[http://autodiscover.mett.nl](http://autodiscover.mett.nl)| | **B**|Microsoft-IIS/10.0|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server||
+|[http://autodiscover.mett.nl](http://autodiscover.mett.nl)| | **C**|Microsoft-IIS/10.0| |:white_check_mark: | | | | | | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server||
 |[https://dev.mett.nl](https://dev.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Microsoft Azure...|
 |[http://faber.mett.nl](http://faber.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://ftp.mett.nl](https://ftp.mett.nl)| | **F**|Apache/2| | | | | | | | :white_check_mark: | |Apache HTTP Server:2||
@@ -387,8 +387,8 @@
 |[https://performance.mett.nl](https://performance.mett.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx Pingdom Uptime Monitoring|Pingdom Public R...|
 |[https://securevpn.mett.nl](https://securevpn.mett.nl)| | **A**|Barracuda CloudGen Firewall| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://storage.mett.nl](https://storage.mett.nl)| | **F**|Windows-Azure-Blob/1.0 Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Azure Microsoft HTTPAPI:2.0||
-|[https://testserver.mett.nl](https://testserver.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Probleem aangetr...|
-|[https://waf.mett.nl](https://waf.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET YouTube|Probleem aangetr...|
+|[http://testserver.mett.nl](http://testserver.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
+|[http://waf.mett.nl](http://waf.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET YouTube||
 |[https://zendesk1.mett.nl](https://zendesk1.mett.nl)| | **F**|cloudflare| | | | | | | | :white_check_mark: | |Cloudflare|403 Forbidden|
 |[https://zendesk2.mett.nl](https://zendesk2.mett.nl)| | **F**|cloudflare| | | | | | | | :white_check_mark: | |Cloudflare|403 Forbidden|
 |[https://zendesk3.mett.nl](https://zendesk3.mett.nl)| | **F**|cloudflare| | | | | | | | :white_check_mark: | |Cloudflare|403 Forbidden|

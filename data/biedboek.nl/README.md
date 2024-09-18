@@ -11,7 +11,7 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/biedboek.nl/subdomains.txt)|6338|Alive subdomains|
+|[subdomains.txt](/data/biedboek.nl/subdomains.txt)|6337|Alive subdomains|
 |[urls.txt](/data/biedboek.nl/urls.txt)|6297|Urls|
 |[all_subdomains.txt](/data/biedboek.nl/all_subdomains.txt)|6343|All found subdomains (history)|
 
@@ -2348,7 +2348,6 @@
 |[https://zpcp3.blog.biedboek.nl](https://zpcp3.blog.biedboek.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Microsoft Azure...|
 |[https://um1.biedboek.nl](https://um1.biedboek.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Microsoft Azure...|
 |[https://seks.biedboek.nl](https://seks.biedboek.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Microsoft Azure...|
-|[https://vault.aws.biedboek.nl](https://vault.aws.biedboek.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Microsoft Azure...|
 |[https://wartune.biedboek.nl](https://wartune.biedboek.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Microsoft Azure...|
 |[https://boxmeer.biedboek.nl](https://boxmeer.biedboek.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Microsoft Azure...|
 |[https://aviabilet.biedboek.nl](https://aviabilet.biedboek.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Microsoft Azure...|
@@ -6318,4 +6317,5 @@
 |[https://translatecz.biedboek.nl](https://translatecz.biedboek.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Microsoft Azure...|
 |[https://conf3.biedboek.nl](https://conf3.biedboek.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Microsoft Azure...|
 |[https://nebraska.biedboek.nl](https://nebraska.biedboek.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Microsoft Azure...|
+|[https://analyticswww.biedboek.nl](https://analyticswww.biedboek.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Microsoft Azure...|
 

@@ -13,7 +13,7 @@
 |------------|-------|------|
 |[subdomains.txt](/data/beschermdecultuurgoederen.nl/subdomains.txt)|0|Alive subdomains|
 |[urls.txt](/data/beschermdecultuurgoederen.nl/urls.txt)|0|Urls|
-|[all_subdomains.txt](/data/beschermdecultuurgoederen.nl/all_subdomains.txt)|5|All found subdomains (history)|
+|[all_subdomains.txt](/data/beschermdecultuurgoederen.nl/all_subdomains.txt)|8|All found subdomains (history)|
 
 
 ## Statistics

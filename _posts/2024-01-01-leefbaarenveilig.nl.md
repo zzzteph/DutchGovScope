@@ -3,7 +3,7 @@ layout: default
 title: "leefbaarenveilig.nl"
 permalink: "/dutchgov/leefbaarenveilig.nl.html"
 subdomains_count: 4
-all_subdomains_count: 6
+all_subdomains_count: 7
 urls_count: 2
 ssl_rank: 
 http_rank: A
@@ -29,7 +29,7 @@ tags: dutchgov
 |------------|-------|------|
 |[subdomains.txt](/DutchGovScope/data/leefbaarenveilig.nl/subdomains.txt)|4|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/leefbaarenveilig.nl/urls.txt)|2|Urls|
-|[all_subdomains.txt](/DutchGovScope/data/leefbaarenveilig.nl/all_subdomains.txt)|6|All found subdomains (history)|
+|[all_subdomains.txt](/DutchGovScope/data/leefbaarenveilig.nl/all_subdomains.txt)|7|All found subdomains (history)|
 
 
 ## Statistics

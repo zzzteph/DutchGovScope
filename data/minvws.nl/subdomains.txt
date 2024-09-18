@@ -13,6 +13,3 @@ idm.minvws.nl
 sdm.minvws.nl
 sip.minvws.nl
 sip.myroom.minvws.nl
-huisstijl.minvws.nl
-werkenbij.minvws.nl
-inspect.minvws.nl

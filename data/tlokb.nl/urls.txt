@@ -8,3 +8,5 @@ https://acc.tlokb.nl
 https://cms-acc.tlokb.nl
 https://cms-test.tlokb.nl
 https://test.tlokb.nl
+https://cms.tlokb.nl
+https://prod.tlokb.nl

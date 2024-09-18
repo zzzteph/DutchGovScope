@@ -24,5 +24,5 @@
 |[https://www.agendavoorhetwaddengebied2050.nl](https://www.agendavoorhetwaddengebied2050.nl)| **A**| **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:-|Object moved|
 |[https://agendavoorhetwaddengebied2050.nl](https://agendavoorhetwaddengebied2050.nl)| **A**| **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:-|Object moved|
 |[http://mail.agendavoorhetwaddengebied2050.nl](http://mail.agendavoorhetwaddengebied2050.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
-|[http://ftp.agendavoorhetwaddengebied2050.nl](http://ftp.agendavoorhetwaddengebied2050.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0||
+|[http://ftp.agendavoorhetwaddengebied2050.nl](http://ftp.agendavoorhetwaddengebied2050.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
 

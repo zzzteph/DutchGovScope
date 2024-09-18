@@ -13,7 +13,7 @@
 |------------|-------|------|
 |[subdomains.txt](/data/ertms.nl/subdomains.txt)|19|Alive subdomains|
 |[urls.txt](/data/ertms.nl/urls.txt)|18|Urls|
-|[all_subdomains.txt](/data/ertms.nl/all_subdomains.txt)|24|All found subdomains (history)|
+|[all_subdomains.txt](/data/ertms.nl/all_subdomains.txt)|37|All found subdomains (history)|
 
 
 ## Statistics

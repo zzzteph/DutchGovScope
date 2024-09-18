@@ -13,7 +13,6 @@ https://dashboards-private.ilt.rijkscloud.nl
 https://dashboards-sodm.dstrial-inspectieraad.rijkscloud.nl
 https://dashboards.analyse.ilt.rijkscloud.nl
 https://dashboards.ilt.rijkscloud.nl
-https://dashboards.ilt-analyse.rijkscloud.nl
 https://dashboards.ilt-idlab.rijkscloud.nl
 https://dashboards.ipi.rijkscloud.nl
 https://datadrop.datafabriek.ienw.rijkscloud.nl
@@ -45,7 +44,6 @@ https://jupyter.dstrial-inspectieraad.rijkscloud.nl
 https://jupyter.fib.ienw.rijkscloud.nl
 https://jupyter.hr-ienw.rijkscloud.nl
 https://jupyter.ilt.rijkscloud.nl
-https://jupyter.ilt-analyse.rijkscloud.nl
 https://jupyter.ilt-zz.rijkscloud.nl
 https://jupyter.ipi.rijkscloud.nl
 https://jupyter.kim.rijkscloud.nl
@@ -82,7 +80,6 @@ https://rstudio.dstrial-inspectieraad.rijkscloud.nl
 https://rstudio.fib.ienw.rijkscloud.nl
 https://rstudio.hr-ienw.rijkscloud.nl
 https://rstudio.ilt.rijkscloud.nl
-https://rstudio.ilt-analyse.rijkscloud.nl
 https://rstudio.informatieproducten.duo.rijkscloud.nl
 https://rstudio.ipi.rijkscloud.nl
 https://rstudio.kim.rijkscloud.nl

@@ -11,7 +11,7 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/zinl.nl/subdomains.txt)|31|Alive subdomains|
+|[subdomains.txt](/data/zinl.nl/subdomains.txt)|32|Alive subdomains|
 |[urls.txt](/data/zinl.nl/urls.txt)|12|Urls|
 |[all_subdomains.txt](/data/zinl.nl/all_subdomains.txt)|107|All found subdomains (history)|
 

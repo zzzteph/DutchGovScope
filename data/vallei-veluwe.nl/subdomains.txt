@@ -16,7 +16,6 @@ mx2.vallei-veluwe.nl
 auth.vallei-veluwe.nl
 enterpriseenrollment.vallei-veluwe.nl
 enterpriseregistration.vallei-veluwe.nl
-geotest.vallei-veluwe.nl
 geo.vallei-veluwe.nl
 omi.vallei-veluwe.nl
 rds.vallei-veluwe.nl

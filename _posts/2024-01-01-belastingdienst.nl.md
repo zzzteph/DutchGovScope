@@ -2,12 +2,12 @@
 layout: default
 title: "belastingdienst.nl"
 permalink: "/dutchgov/belastingdienst.nl.html"
-subdomains_count: 464
+subdomains_count: 481
 all_subdomains_count: 800
-urls_count: 108
+urls_count: 125
 ssl_rank: A-
 http_rank: C
-security_txt: 42
+security_txt: 51
 url_link: /data/belastingdienst.nl/urls.txt
 all_subdomains_link: /data/belastingdienst.nl/all_subdomains.txt
 subdomains_link: /data/belastingdienst.nl/subdomains.txt
@@ -22,13 +22,13 @@ tags: dutchgov
 
  - **SSL Grade**:A-
  - **HTTP Security Grade**:C
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:42
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:51
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/belastingdienst.nl/subdomains.txt)|464|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/belastingdienst.nl/urls.txt)|108|Urls|
+|[subdomains.txt](/DutchGovScope/data/belastingdienst.nl/subdomains.txt)|481|Alive subdomains|
+|[urls.txt](/DutchGovScope/data/belastingdienst.nl/urls.txt)|125|Urls|
 |[all_subdomains.txt](/DutchGovScope/data/belastingdienst.nl/all_subdomains.txt)|800|All found subdomains (history)|
 
 
@@ -55,25 +55,36 @@ tags: dutchgov
 |[https://datumprikker.belastingdienst.nl](https://datumprikker.belastingdienst.nl)| **A**| **D**||:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |SPNEGO|OnTime - Find Ti...|
 |[https://delta.belastingdienst.nl](https://delta.belastingdienst.nl)| **A+**| **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|302 Found|
 |[https://download.belastingdienst.nl](https://download.belastingdienst.nl)| **A+**| **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|302 Found|
+|[https://dva.belastingdienst.nl](https://dva.belastingdienst.nl)| **A+**| **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|iBabs - Meet in...|
+|[https://efm.belastingdienst.nl](https://efm.belastingdienst.nl)| **A**| **E**|| | | | | | | | :white_check_mark: | ||Toegang geblokke...|
 |[https://eubtw.belastingdienst.nl](https://eubtw.belastingdienst.nl)| **A+**| **B**||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS|Online diensten...|
 |[https://f2b.belastingdienst.nl](https://f2b.belastingdienst.nl)| **F**| **E**|| | | | | | | | :white_check_mark: | ||Not Found|
+|[https://fibb1.belastingdienst.nl](https://fibb1.belastingdienst.nl)| **A**| **E**|| | | | | | | | :white_check_mark: | ||Request Rejected|
 |[https://fibe1.belastingdienst.nl](https://fibe1.belastingdienst.nl)| **A+**| **E**|| | | | | | | | :white_check_mark: | |HSTS|Request Rejected|
 |[https://fibi1.belastingdienst.nl](https://fibi1.belastingdienst.nl)| **A**| **E**|| | | | | | | | :white_check_mark: | ||Request Rejected|
 |[https://fibz1.belastingdienst.nl](https://fibz1.belastingdienst.nl)| **A**| **E**|| | | | | | | | :white_check_mark: | |F5 BigIP|Request Rejected|
 |[https://filetransfer.belastingdienst.nl](https://filetransfer.belastingdienst.nl)| **A**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|302 Found|
 |[https://fmis.belastingdienst.nl](https://fmis.belastingdienst.nl)| **A**| **E**|| | | | | | | | :white_check_mark: | ||Toegang geblokke...|
+|[https://fmis.acc.belastingdienst.nl](https://fmis.acc.belastingdienst.nl)| **A**| **C**|| | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | ||Toegang geblokke...|
 |[https://fsvportaal.belastingdienst.nl](https://fsvportaal.belastingdienst.nl)| **A+**| **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Home - FSV|
 |[https://gegevensportaal.belastingdienst.nl](https://gegevensportaal.belastingdienst.nl)| **A+**| **A**|nginx|:warning: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx||
 |[https://gtmb.belastingdienst.nl](https://gtmb.belastingdienst.nl)| **A**| **E**|| | | | | | | | :white_check_mark: | ||Online diensten...|
 |[https://gtmd.belastingdienst.nl](https://gtmd.belastingdienst.nl)| **A**| **E**|| | | | | | | | :white_check_mark: | ||Online diensten...|
 |[https://gtmz.belastingdienst.nl](https://gtmz.belastingdienst.nl)| **A**| **E**|| | | | | | | | :white_check_mark: | ||Online diensten...|
 |[https://huisstijl.belastingdienst.nl](https://huisstijl.belastingdienst.nl)| **A+**| **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS MySQL PHP WordPress Yoast SEO Premium:23.1 Yoast SEO:23.1|Home | Huisstijl|
+|[https://incassomachtigen.belastingdienst.nl](https://incassomachtigen.belastingdienst.nl)| **A**| **E**|| | | | | | | | :white_check_mark: | ||Online diensten...|
+|[https://kavaanalytics.vcdn.belastingdienst.nl](https://kavaanalytics.vcdn.belastingdienst.nl)| **A**| **E**|| | | | | | | | :white_check_mark: | ||404 Not Found|
 |[https://kennisgroepen.belastingdienst.nl](https://kennisgroepen.belastingdienst.nl)| **A**| **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS MySQL PHP WordPress Yoast SEO:23.1|Home | Kennisgro...|
+|[https://kennisnetwerk.belastingdienst.nl](https://kennisnetwerk.belastingdienst.nl)| **A**| **E**|| | | | | | | | :white_check_mark: | ||Request Rejected|
+|[https://le-webservices.belastingdienst.nl](https://le-webservices.belastingdienst.nl)| **A**| **E**|| | | | | | | | :white_check_mark: | |F5 BigIP|Toegang geblokke...|
+|[https://le-webservices-beta.belastingdienst.nl](https://le-webservices-beta.belastingdienst.nl)| **A**| **E**|| | | | | | | | :white_check_mark: | |F5 BigIP|Toegang geblokke...|
 |[https://mijn.belastingdienst.nl](https://mijn.belastingdienst.nl)| **A**| **A**|BigIP|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |F5 BigIP||
 |[https://mijndouane.belastingdienst.nl](https://mijndouane.belastingdienst.nl)| **A**| **A**|BigIP|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |F5 BigIP||
 |[https://mijnzakelijk.belastingdienst.nl](https://mijnzakelijk.belastingdienst.nl)| **A**| **A**|BigIP|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |F5 BigIP||
 |[https://mm.belastingdienst.nl](https://mm.belastingdienst.nl)| **A+**| **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
+|[https://moodle.vcdn.belastingdienst.nl](https://moodle.vcdn.belastingdienst.nl)| **A**| **A**|BigIP|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |F5 BigIP||
 |[https://mta-sts.belastingdienst.nl](https://mta-sts.belastingdienst.nl)| **A**| **E**|| | | | | | | | :white_check_mark: | |||
+|[https://mul-mkt.belastingdienst.nl](https://mul-mkt.belastingdienst.nl)| **A**| **F**||:warning: | | | | | | | :white_check_mark: | |||
 |[https://mul-redirect.belastingdienst.nl](https://mul-redirect.belastingdienst.nl)| **A**| **F**||:warning: | | | | | | | :white_check_mark: | ||Foutmelding|
 |[https://mwr-app-api.belastingdienst.nl](https://mwr-app-api.belastingdienst.nl)| **F**| **E**|| | | | | | | | :white_check_mark: | |Azure Azure Front Door||
 |[https://mwr-app-api-ota.belastingdienst.nl](https://mwr-app-api-ota.belastingdienst.nl)| **F**| **E**|| | | | | | | | :white_check_mark: | |Azure Azure Front Door||
@@ -96,14 +107,18 @@ tags: dutchgov
 |[https://scheiden.belastingdienst.nl](https://scheiden.belastingdienst.nl)| **A+**| **B**||:warning: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://services.belastingdienst.nl](https://services.belastingdienst.nl)| **A+**| **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS MySQL PHP WordPress Yoast SEO Premium:23.0 Yoast SEO:23.1|Direct naar | Se...|
 |[http://sharepoint-acc-ext.belastingdienst.nl](http://sharepoint-acc-ext.belastingdienst.nl)| **F**| **F**|BigIP| | | | | | | | :white_check_mark: | |F5 BigIP||
+|[http://sharepoint-ext.belastingdienst.nl](http://sharepoint-ext.belastingdienst.nl)| **A**| **F**|BigIP| | | | | | | | :white_check_mark: | |F5 BigIP||
 |[http://sharepoint-ext-conf.belastingdienst.nl](http://sharepoint-ext-conf.belastingdienst.nl)| **A**| **F**|BigIP| | | | | | | | :white_check_mark: | |F5 BigIP||
 |[https://sorry.belastingdienst.nl](https://sorry.belastingdienst.nl)| **A+**| **A**||:white_check_mark: |:white_check_mark: | | |:warning: | | :white_check_mark: | :white_check_mark: | |HSTS||
+|[https://stubs.tst.belastingdienst.nl](https://stubs.tst.belastingdienst.nl)| **F**| **E**|| | | | | | | | :white_check_mark: | ||403 - Forbidden:...|
 |[https://toestemming.belastingdienst.nl](https://toestemming.belastingdienst.nl)| **A**| **C**|| | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Microsoft ASP.NET|Toestemming - Be...|
 |[https://toestemming-acc.belastingdienst.nl](https://toestemming-acc.belastingdienst.nl)| **A**| **B**|| | | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | ||Toestemming - Be...|
 |[https://toestemming-tst.belastingdienst.nl](https://toestemming-tst.belastingdienst.nl)| **A**| **B**|| | | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | ||Toestemming - Be...|
 |[https://veiling.belastingdienst.nl](https://veiling.belastingdienst.nl)| **A+**| **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS MySQL PHP WordPress Yoast SEO Premium:23.1 Yoast SEO:23.1|Home | Veilingen|
 |[https://vepapi.vcdn.belastingdienst.nl](https://vepapi.vcdn.belastingdienst.nl)| **A+**| **E**|| | | | | | | | :white_check_mark: | |HSTS|302 Found|
+|[https://vepkms.vcdn.belastingdienst.nl](https://vepkms.vcdn.belastingdienst.nl)| **A**| **A**||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Applicatiefout -...|
 |[https://veplivemedia.vcdn.belastingdienst.nl](https://veplivemedia.vcdn.belastingdienst.nl)| **A+**| **A**|| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS|Welcome to nginx...|
+|[https://vepvod.vcdn.belastingdienst.nl](https://vepvod.vcdn.belastingdienst.nl)| **A**| **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|302 Found|
 |[https://videobellen.belastingdienst.nl](https://videobellen.belastingdienst.nl)| **B**| **B**||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Google Tag Manager HSTS|Belastingdienst...|
 |[https://vinden.belastingdienst.nl](https://vinden.belastingdienst.nl)| **A**| **E**|| | | | | | | | :white_check_mark: | ||Toegang geblokke...|
 |[https://vts.belastingdienst.nl](https://vts.belastingdienst.nl)| **A+**| **A**|| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS|Online diensten...|
@@ -117,6 +132,7 @@ tags: dutchgov
 |[https://e-commerce.belastingdienst.nl](https://e-commerce.belastingdienst.nl)| **F**| **F**|BigIP| | | | | | | | :white_check_mark: | |F5 BigIP||
 |[https://enterpriseregistration.belastingdienst.nl](https://enterpriseregistration.belastingdienst.nl)| **F**| **E**|| | | | | | | | :white_check_mark: | |HSTS||
 |[https://belastingdienst.nl](https://belastingdienst.nl)| **A+**| **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|301 Moved Perman...|
+|[https://brmrest-test.belastingdienst.nl](https://brmrest-test.belastingdienst.nl)| **A**| **F**||:warning: | | | | | | | :white_check_mark: | |IBM DataPower||
 |[https://mul.belastingdienst.nl](https://mul.belastingdienst.nl)| **A**| **F**||:warning: | | | | | | | :white_check_mark: | |Microsoft ASP.NET|Aangifte Inkomst...|
 |[https://gdlo.acc.belastingdienst.nl](https://gdlo.acc.belastingdienst.nl)| **A+**| **A**|istio-envoy| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://gegevensuitwisseling.acc.belastingdienst.nl](https://gegevensuitwisseling.acc.belastingdienst.nl)| **A+**| **A**|istio-envoy| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Envoy HSTS|BD end users por...|
@@ -133,6 +149,7 @@ tags: dutchgov
 |[https://werkenbij.belastingdienst.nl](https://werkenbij.belastingdienst.nl)| **F**| **F**|Ponos Maximum| | | | | | | | :white_check_mark: | |HSTS|418 I'm a teapot|
 |[https://mijnaanvraag.belastingdienst.nl](https://mijnaanvraag.belastingdienst.nl)| **F**| **E**|| | | | | | | | :white_check_mark: | |HSTS|301 Moved Perman...|
 |[https://mijn-aanvraag.belastingdienst.nl](https://mijn-aanvraag.belastingdienst.nl)| **F**| **E**|| | | | | | | | :white_check_mark: | |HSTS|301 Moved Perman...|
+|[https://instroom.belastingdienst.nl](https://instroom.belastingdienst.nl)| **A+**| **B**|Apache|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server Bootstrap:3.4.1 HSTS Java||
 |[https://gdlo.belastingdienst.nl](https://gdlo.belastingdienst.nl)| **A+**| **C**|istio-envoy| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
 |[https://gegevensuitwisseling.belastingdienst.nl](https://gegevensuitwisseling.belastingdienst.nl)| **A+**| **C**|istio-envoy| |:white_check_mark: | | | | | | :white_check_mark: | |Envoy HSTS|BD end users por...|
 |[https://gpi.belastingdienst.nl](https://gpi.belastingdienst.nl)| **A+**| **C**|istio-envoy| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||

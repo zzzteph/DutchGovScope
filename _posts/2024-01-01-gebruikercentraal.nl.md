@@ -85,5 +85,5 @@ tags: dutchgov
 |[https://omnichannel.gebruikercentraal.nl](https://omnichannel.gebruikercentraal.nl)| **A+**| **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Nginx PHP:8.1.29||
 |[https://duidelijk.gebruikercentraal.nl](https://duidelijk.gebruikercentraal.nl)| **A+**| **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Nginx PHP:8.2.22||
 |[https://toolkittaal.gebruikercentraal.nl](https://toolkittaal.gebruikercentraal.nl)| **A+**| **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS MySQL Nginx PHP:8.2.22 WordPress:6.5.5 Yoast SEO:23.0|Toolkit Taal – M...|
-|[https://toolkitinclusie.gebruikercentraal.nl](https://toolkitinclusie.gebruikercentraal.nl)| | **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS MySQL Nginx PHP:8.2.21 WordPress:6.5.5 Yoast SEO:22.8|Home - Ontwerpen...|
+|[https://toolkitinclusie.gebruikercentraal.nl](https://toolkitinclusie.gebruikercentraal.nl)| | **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS MySQL Nginx PHP:8.2.22 WordPress:6.5.5 Yoast SEO:23.0|Home - Ontwerpen...|
 

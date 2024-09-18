@@ -364,8 +364,8 @@ http://iii.mett.nl
 https://performance.mett.nl
 https://securevpn.mett.nl
 https://storage.mett.nl
-https://testserver.mett.nl
-https://waf.mett.nl
+http://testserver.mett.nl
+http://waf.mett.nl
 https://zendesk1.mett.nl
 https://zendesk2.mett.nl
 https://zendesk3.mett.nl

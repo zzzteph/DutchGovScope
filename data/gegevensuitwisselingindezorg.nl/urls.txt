@@ -1,4 +1,2 @@
-https://feeds.gegevensuitwisselingindezorg.nl
-https://opendata.gegevensuitwisselingindezorg.nl
 https://www.gegevensuitwisselingindezorg.nl
 https://gegevensuitwisselingindezorg.nl

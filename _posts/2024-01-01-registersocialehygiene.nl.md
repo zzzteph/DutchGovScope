@@ -2,7 +2,7 @@
 layout: default
 title: "registersocialehygiene.nl"
 permalink: "/dutchgov/registersocialehygiene.nl.html"
-subdomains_count: 14
+subdomains_count: 15
 all_subdomains_count: 15
 urls_count: 11
 ssl_rank: A
@@ -27,7 +27,7 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/registersocialehygiene.nl/subdomains.txt)|14|Alive subdomains|
+|[subdomains.txt](/DutchGovScope/data/registersocialehygiene.nl/subdomains.txt)|15|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/registersocialehygiene.nl/urls.txt)|11|Urls|
 |[all_subdomains.txt](/DutchGovScope/data/registersocialehygiene.nl/all_subdomains.txt)|15|All found subdomains (history)|
 

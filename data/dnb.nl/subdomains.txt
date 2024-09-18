@@ -32,7 +32,6 @@ api.developer.dnb.nl
 api-staging.portal.dnb.nl
 api-staging.management.dnb.nl
 paymenthub-acc.dnb.nl
-api-mockapp-dev.dnb.nl
 mijntoezicht.azure.dnb.nl
 riks.azure.dnb.nl
 mijntoezicht-acc.azure.dnb.nl
@@ -55,7 +54,6 @@ riks-ci.azure.dnb.nl
 tasks.sharepoint.dnb.nl
 designsysteem.dnb.nl
 riks-acc.azure.dnb.nl
-api-mockapp-test.dnb.nl
 mijntoezicht-tst.azure.dnb.nl
 dkeservice-dev.dnb.nl
 login-dev.dnb.nl
@@ -91,9 +89,7 @@ mijnatm-acc.azure.dnb.nl
 tzorganisatiegegevens-tst.dnb.nl
 tzorganisatiegegevens-dev.dnb.nl
 stepui.azure.dnb.nl
-api-tzkalender-acc.dnb.nl
 api-tzkalender-tst.dnb.nl
-api-tzkalender-dev.dnb.nl
 mijnatm.azure.dnb.nl
 tzpubliekscontact-dev.dnb.nl
 tzpubliekscontact-tst.dnb.nl

@@ -23,3 +23,5 @@ https://webservices.om.nl
 https://telewerken.om.nl
 https://mdm.om.nl
 https://mms-gw.om.nl
+https://enterpriseenrollment.om.nl
+https://enterpriseregistration.om.nl

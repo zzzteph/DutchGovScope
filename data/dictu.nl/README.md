@@ -6,7 +6,7 @@
 
  - **SSL Grade**:B
  - **HTTP Security Grade**:D
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:15
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:14
 
 
 | File       | Count | Info |
@@ -21,7 +21,7 @@
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://acc.dictu.nl](https://acc.dictu.nl)| **F**| **F**|nginx/1.26.1| | | | | | | | :white_check_mark: | |Nginx:1.26.1|301 Moved Perman...|
+|[https://acc.dictu.nl](https://acc.dictu.nl)| **F**| **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|301 Moved Perman...|
 |[https://acc.gisextern.dictu.nl](https://acc.gisextern.dictu.nl)| **F**| **E**|| | | | | | | | :white_check_mark: | |HSTS|Document Moved|
 |[https://acc.intranet-demo.dictu.nl](https://acc.intranet-demo.dictu.nl)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |Drupal HSTS Nginx PHP|Redirecting to /...|
 |[https://acc.rd.dictu.nl](https://acc.rd.dictu.nl)| **A+**| **A**||:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS|Error|
@@ -54,9 +54,9 @@
 |[https://mft.webftp.dictu.nl](https://mft.webftp.dictu.nl)| **B**| **E**|| | | | | | | | :white_check_mark: | |Basic|Redirect|
 |[https://mijntoken.dictu.nl](https://mijntoken.dictu.nl)| **B**| **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Oracle Dynamic Monitoring Service Oracle WebLogic Server|302 Moved Tempor...|
 |[https://pms.dictu.nl](https://pms.dictu.nl)| **B**| **C**||:warning: |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS Microsoft ASP.NET|Object moved|
-|[https://pms-acc.dictu.nl](https://pms-acc.dictu.nl)| **A+**| **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET||
+|[https://pms-acc.dictu.nl](https://pms-acc.dictu.nl)| **A+**| **C**||:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|Service Unavaila...|
 |[https://procesweb-test.dictu.nl](https://procesweb-test.dictu.nl)| **A+**| **F**|awselb/2.0|:o: | | | | :white_check_mark:| | | :white_check_mark: | |Amazon ELB Amazon Web Services HSTS||
-|[https://prod.dictu.nl](https://prod.dictu.nl)| **A**| **F**|nginx/1.26.1| | | | | | | | :white_check_mark: | |Nginx:1.26.1|403 Forbidden|
+|[https://prod.dictu.nl](https://prod.dictu.nl)| **A**| **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|403 Forbidden|
 |[http://rijkspas2ocsp.dictu.nl](http://rijkspas2ocsp.dictu.nl)| | **E**|Microsoft-IIS/8.5| | | | | | :white_check_mark: | | :white_check_mark: | |IIS:8.5 Windows Server|403 - Forbidden:...|
 |[http://rijkspas2ocsp.extranet.dictu.nl](http://rijkspas2ocsp.extranet.dictu.nl)| | **E**|Microsoft-IIS/8.5| | | | | | :white_check_mark: | | :white_check_mark: | |IIS:8.5 Windows Server|403 - Forbidden:...|
 |[http://rijkspascp.extranet.dictu.nl](http://rijkspascp.extranet.dictu.nl)| | **F**|Microsoft-IIS/8.5| | | | | | | | :white_check_mark: | |IIS:8.5 Windows Server|rijkspascp.extra...|
@@ -80,8 +80,8 @@
 |[https://webftp.dictu.nl](https://webftp.dictu.nl)| **B**| **E**|| | | | | | | | :white_check_mark: | |Basic|Redirect|
 |[https://wifi.dictu.nl](https://wifi.dictu.nl)| **A+**| **B**||:warning: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Redirecting to h...|
 |[https://www.dictu.nl](https://www.dictu.nl)| **A**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Drupal HSTS Nginx PHP|Home | Dictu.nl|
-|[http://snow-cw.dictu.nl](http://snow-cw.dictu.nl)| **F**| **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0||
-|[https://dictu.nl](https://dictu.nl)| **A**| **A**|nginx/1.26.1| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Nginx:1.26.1|301 Moved Perman...|
+|[https://snow-cw.dictu.nl](https://snow-cw.dictu.nl)| **F**| **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0||
+|[https://dictu.nl](https://dictu.nl)| **A**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Nginx|301 Moved Perman...|
 |[https://auth20.dictu.nl](https://auth20.dictu.nl)| **F**| **E**|| | | | | | | | :white_check_mark: | |HSTS|302 Found|
 |[https://procesweb.dictu.nl](https://procesweb.dictu.nl)| **A+**| **F**|awselb/2.0|:o: | | | | :white_check_mark:| | | :white_check_mark: | |Amazon ELB Amazon Web Services HSTS||
 |[https://test-azure06.dictu.nl](https://test-azure06.dictu.nl)| **A**| **F**|nginx/1.19.2| | | | | | | | :white_check_mark: | |Nginx:1.19.2|Welcome to nginx...|
@@ -92,5 +92,5 @@
 |[https://test2.dictu.nl](https://test2.dictu.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Basic Nginx|401 Authorizatio...|
 |[https://acc2.dictu.nl](https://acc2.dictu.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Basic Nginx|401 Authorizatio...|
 |[https://trillingsdata-acc.dictu.nl](https://trillingsdata-acc.dictu.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|Index|
-|[https://trillingsdata.dictu.nl](https://trillingsdata.dictu.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|Index|
+|[https://trillingsdata.dictu.nl](https://trillingsdata.dictu.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Index|
 

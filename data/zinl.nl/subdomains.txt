@@ -18,6 +18,7 @@ vpn.zinl.nl
 zinl.nl
 www.zinl.nl
 enterpriseregistration.zinl.nl
+acc.tableau.zinl.nl
 tableau.zinl.nl
 cmg.zinl.nl
 enterpriseenrollment.zinl.nl

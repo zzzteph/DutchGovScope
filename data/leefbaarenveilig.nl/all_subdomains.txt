@@ -4,3 +4,4 @@ opendata.leefbaarenveilig.nl
 www.leefbaarenveilig.nl
 a-feeds.leefbaarenveilig.nl
 a-opendata.leefbaarenveilig.nl
+a-www.leefbaarenveilig.nl

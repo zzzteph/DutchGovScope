@@ -2,12 +2,12 @@
 layout: default
 title: "waterschaplimburg.nl"
 permalink: "/dutchgov/waterschaplimburg.nl.html"
-subdomains_count: 3162
+subdomains_count: 3161
 all_subdomains_count: 3411
 urls_count: 2918
 ssl_rank: A
 http_rank: E
-security_txt: 2361
+security_txt: 2362
 url_link: /data/waterschaplimburg.nl/urls.txt
 all_subdomains_link: /data/waterschaplimburg.nl/all_subdomains.txt
 subdomains_link: /data/waterschaplimburg.nl/subdomains.txt
@@ -22,12 +22,12 @@ tags: dutchgov
 
  - **SSL Grade**:A
  - **HTTP Security Grade**:E
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:2361
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:2362
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/waterschaplimburg.nl/subdomains.txt)|3162|Alive subdomains|
+|[subdomains.txt](/DutchGovScope/data/waterschaplimburg.nl/subdomains.txt)|3161|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/waterschaplimburg.nl/urls.txt)|2918|Urls|
 |[all_subdomains.txt](/DutchGovScope/data/waterschaplimburg.nl/all_subdomains.txt)|3411|All found subdomains (history)|
 
@@ -717,7 +717,7 @@ tags: dutchgov
 |[http://cs276.waterschaplimburg.nl](http://cs276.waterschaplimburg.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
 |[http://inge.waterschaplimburg.nl](http://inge.waterschaplimburg.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
 |[http://bliv.waterschaplimburg.nl](http://bliv.waterschaplimburg.nl)| | **E**|Microsoft-HTTPAPI/2.0| | | | | | :white_check_mark: | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
-|[http://sedna.waterschaplimburg.nl](http://sedna.waterschaplimburg.nl)| | **E**|Microsoft-HTTPAPI/2.0| | | | | | :white_check_mark: | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
+|[http://sedna.waterschaplimburg.nl](http://sedna.waterschaplimburg.nl)| | **D**|| | | | | | :white_check_mark: | | :white_check_mark: | |Microsoft HTTPAPI:2.0||
 |[http://odl.waterschaplimburg.nl](http://odl.waterschaplimburg.nl)| | **D**|| | | | | | :white_check_mark: | | :white_check_mark: | |||
 |[http://alig.waterschaplimburg.nl](http://alig.waterschaplimburg.nl)| | **D**|| | | | | | :white_check_mark: | | :white_check_mark: | |||
 |[http://denken.waterschaplimburg.nl](http://denken.waterschaplimburg.nl)| | **D**|| | | | | | :white_check_mark: | | :white_check_mark: | |||
@@ -2321,7 +2321,6 @@ tags: dutchgov
 |[http://dreamland.waterschaplimburg.nl](http://dreamland.waterschaplimburg.nl)| | **D**|| | | | | | :white_check_mark: | | :white_check_mark: | |||
 |[http://bigfoot.waterschaplimburg.nl](http://bigfoot.waterschaplimburg.nl)| | **D**|| | | | | | :white_check_mark: | | :white_check_mark: | |||
 |[http://web3649.waterschaplimburg.nl](http://web3649.waterschaplimburg.nl)| | **D**|| | | | | | :white_check_mark: | | :white_check_mark: | |||
-|[http://bildung.waterschaplimburg.nl](http://bildung.waterschaplimburg.nl)| | **D**|| | | | | | :white_check_mark: | | :white_check_mark: | |||
 |[http://acts2.waterschaplimburg.nl](http://acts2.waterschaplimburg.nl)| | **D**|| | | | | | :white_check_mark: | | :white_check_mark: | |||
 |[http://thehouse.waterschaplimburg.nl](http://thehouse.waterschaplimburg.nl)| | **D**|| | | | | | :white_check_mark: | | :white_check_mark: | |||
 |[http://valhalla.waterschaplimburg.nl](http://valhalla.waterschaplimburg.nl)| | **D**|| | | | | | :white_check_mark: | | :white_check_mark: | |||
@@ -2600,6 +2599,7 @@ tags: dutchgov
 |[http://offside.waterschaplimburg.nl](http://offside.waterschaplimburg.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
 |[http://buton.waterschaplimburg.nl](http://buton.waterschaplimburg.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
 |[http://mail.77p2p.waterschaplimburg.nl](http://mail.77p2p.waterschaplimburg.nl)| | **E**|Microsoft-HTTPAPI/2.0| | | | | | :white_check_mark: | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
+|[http://arcon.waterschaplimburg.nl](http://arcon.waterschaplimburg.nl)| | **E**|Microsoft-HTTPAPI/2.0| | | | | | :white_check_mark: | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
 |[http://natsu.waterschaplimburg.nl](http://natsu.waterschaplimburg.nl)| | **D**|| | | | | | :white_check_mark: | | :white_check_mark: | |||
 |[http://kendall.waterschaplimburg.nl](http://kendall.waterschaplimburg.nl)| | **D**|| | | | | | :white_check_mark: | | :white_check_mark: | |||
 |[http://familieplejen.waterschaplimburg.nl](http://familieplejen.waterschaplimburg.nl)| | **D**|| | | | | | :white_check_mark: | | :white_check_mark: | |||

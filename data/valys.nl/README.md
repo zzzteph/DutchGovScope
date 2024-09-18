@@ -11,8 +11,8 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/valys.nl/subdomains.txt)|771|Alive subdomains|
-|[urls.txt](/data/valys.nl/urls.txt)|770|Urls|
+|[subdomains.txt](/data/valys.nl/subdomains.txt)|769|Alive subdomains|
+|[urls.txt](/data/valys.nl/urls.txt)|768|Urls|
 |[all_subdomains.txt](/data/valys.nl/all_subdomains.txt)|773|All found subdomains (history)|
 
 
@@ -301,7 +301,6 @@
 |[https://destek.valys.nl](https://destek.valys.nl)| | **F**|Apache/2.4.52 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.52 Ubuntu|301 Moved Perman...|
 |[https://ruimtevaart.valys.nl](https://ruimtevaart.valys.nl)| | **F**|Apache/2.4.52 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.52 Ubuntu|301 Moved Perman...|
 |[https://p80.pool.valys.nl](https://p80.pool.valys.nl)| | **F**|Apache/2.4.52 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.52 Ubuntu|301 Moved Perman...|
-|[https://bluejeans.valys.nl](https://bluejeans.valys.nl)| | **F**|Apache/2.4.52 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.52 Ubuntu|301 Moved Perman...|
 |[https://www2.sandbox.valys.nl](https://www2.sandbox.valys.nl)| | **F**|Apache/2.4.52 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.52 Ubuntu|301 Moved Perman...|
 |[https://gigi.valys.nl](https://gigi.valys.nl)| | **F**|Apache/2.4.52 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.52 Ubuntu|301 Moved Perman...|
 |[https://bussum.valys.nl](https://bussum.valys.nl)| | **F**|Apache/2.4.52 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.52 Ubuntu|301 Moved Perman...|
@@ -358,7 +357,6 @@
 |[https://begroting.valys.nl](https://begroting.valys.nl)| | **F**|Apache/2.4.52 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.52 Ubuntu|301 Moved Perman...|
 |[https://06-83329484www.50plusmill.nlvalys0900-9630www.valys.nl](https://06-83329484www.50plusmill.nlvalys0900-9630www.valys.nl)| | **F**|Apache/2.4.52 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.52 Ubuntu|301 Moved Perman...|
 |[https://markus.valys.nl](https://markus.valys.nl)| | **F**|Apache/2.4.52 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.52 Ubuntu|301 Moved Perman...|
-|[https://0-1.valys.nl](https://0-1.valys.nl)| | **F**|Apache/2.4.52 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.52 Ubuntu|301 Moved Perman...|
 |[https://corazon.valys.nl](https://corazon.valys.nl)| | **F**|Apache/2.4.52 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.52 Ubuntu|301 Moved Perman...|
 |[https://trix.valys.nl](https://trix.valys.nl)| | **F**|Apache/2.4.52 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.52 Ubuntu|301 Moved Perman...|
 |[https://autoconfig.soporte.valys.nl](https://autoconfig.soporte.valys.nl)| | **F**|Apache/2.4.52 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.52 Ubuntu|301 Moved Perman...|

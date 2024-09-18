@@ -11,8 +11,8 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/vallei-veluwe.nl/subdomains.txt)|26|Alive subdomains|
-|[urls.txt](/data/vallei-veluwe.nl/urls.txt)|17|Urls|
+|[subdomains.txt](/data/vallei-veluwe.nl/subdomains.txt)|25|Alive subdomains|
+|[urls.txt](/data/vallei-veluwe.nl/urls.txt)|18|Urls|
 |[all_subdomains.txt](/data/vallei-veluwe.nl/all_subdomains.txt)|56|All found subdomains (history)|
 
 
@@ -34,8 +34,9 @@
 |[https://testeloket.vallei-veluwe.nl](https://testeloket.vallei-veluwe.nl)| **A+**| **A**|unspecified|:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache Tomcat Fourthwall:1.0.201.081 Fourthwall:eloket_ui_main-2024.215.001 HSTS Java MariaDB Skolengo:1.0.201.081|Djuma portal|
 |[https://enterpriseenrollment.vallei-veluwe.nl](https://enterpriseenrollment.vallei-veluwe.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||
 |[https://enterpriseregistration.vallei-veluwe.nl](https://enterpriseregistration.vallei-veluwe.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
-|[https://geotest.vallei-veluwe.nl](https://geotest.vallei-veluwe.nl)| | **A**|Microsoft-IIS/10.0| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS IIS:10.0 Microsoft ASP.NET Windows Server||
 |[https://geo.vallei-veluwe.nl](https://geo.vallei-veluwe.nl)| | **A**|Microsoft-IIS/10.0| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS IIS:10.0 Microsoft ASP.NET:4.0.30319 Windows Server||
 |[https://protect.vallei-veluwe.nl](https://protect.vallei-veluwe.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://vdi.vallei-veluwe.nl](https://vdi.vallei-veluwe.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||
+|[https://neuronprod.vallei-veluwe.nl](https://neuronprod.vallei-veluwe.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
+|[https://neurontest.vallei-veluwe.nl](https://neurontest.vallei-veluwe.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 

@@ -6,14 +6,14 @@
 
  - **SSL Grade**:A+
  - **HTTP Security Grade**:B
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:9
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:10
 
 
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/rekenkamer.nl/subdomains.txt)|28|Alive subdomains|
-|[urls.txt](/data/rekenkamer.nl/urls.txt)|13|Urls|
-|[all_subdomains.txt](/data/rekenkamer.nl/all_subdomains.txt)|80|All found subdomains (history)|
+|[urls.txt](/data/rekenkamer.nl/urls.txt)|14|Urls|
+|[all_subdomains.txt](/data/rekenkamer.nl/all_subdomains.txt)|81|All found subdomains (history)|
 
 
 ## Statistics
@@ -34,4 +34,5 @@
 |[https://enterpriseenrollment.rekenkamer.nl](https://enterpriseenrollment.rekenkamer.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||
 |[https://enterpriseregistration.rekenkamer.nl](https://enterpriseregistration.rekenkamer.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://onsgeldontcijferd.rekenkamer.nl](https://onsgeldontcijferd.rekenkamer.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS|Ons geld ontcijf...|
+|[https://werken.rekenkamer.nl](https://werken.rekenkamer.nl)| | **B**|| | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |||
 

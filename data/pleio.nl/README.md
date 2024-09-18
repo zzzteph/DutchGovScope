@@ -12,7 +12,7 @@
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/pleio.nl/subdomains.txt)|7240|Alive subdomains|
-|[urls.txt](/data/pleio.nl/urls.txt)|6992|Urls|
+|[urls.txt](/data/pleio.nl/urls.txt)|6993|Urls|
 |[all_subdomains.txt](/data/pleio.nl/all_subdomains.txt)|7243|All found subdomains (history)|
 
 
@@ -1529,7 +1529,7 @@
 |[https://accportal.pleio.nl](https://accportal.pleio.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Domeinnaam nog n...|
 |[https://dgh-admin.pleio.nl](https://dgh-admin.pleio.nl)| | **A**||:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://dgh.pleio.nl](https://dgh.pleio.nl)| | **A**||:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
-|[https://lev.pleio.nl](https://lev.pleio.nl)| | **C**|nginx/1.26.1|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS Moodle Nginx:1.26.1 PHP|Startpagina | le...|
+|[https://lev.pleio.nl](https://lev.pleio.nl)| | **C**|nginx/1.26.2|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS Moodle Nginx:1.26.2 PHP|Startpagina | le...|
 |[https://algoritmen.pleio.nl](https://algoritmen.pleio.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Domeinnaam nog n...|
 |[https://www.odachterhoek.pleio.nl](https://www.odachterhoek.pleio.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS|404 Not Found|
 |[https://minbuza.nljajaneegelijkmanifestgroepmanifestgroep.pleio.nl](https://minbuza.nljajaneegelijkmanifestgroepmanifestgroep.pleio.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS|404 Not Found|
@@ -7013,4 +7013,5 @@
 |[https://wuk.pleio.nl](https://wuk.pleio.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Domeinnaam nog n...|
 |[https://videobellen-jwt-only.pleio.nl](https://videobellen-jwt-only.pleio.nl)| | **C**|nginx/1.18.0 (Ubuntu)| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Nginx:1.18.0 Ubuntu|Jitsi Meet|
 |[https://pdfchecker.pleio.nl](https://pdfchecker.pleio.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS|404 Not Found|
+|[https://limesurvey.pleio.nl](https://limesurvey.pleio.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS|404 Not Found|
 
