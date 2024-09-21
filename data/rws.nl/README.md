@@ -5,14 +5,14 @@
 
 
  - **SSL Grade**:B+
- - **HTTP Security Grade**:C
+ - **HTTP Security Grade**:D
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:98
 
 
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/rws.nl/subdomains.txt)|262|Alive subdomains|
-|[urls.txt](/data/rws.nl/urls.txt)|173|Urls|
+|[urls.txt](/data/rws.nl/urls.txt)|174|Urls|
 |[all_subdomains.txt](/data/rws.nl/all_subdomains.txt)|1208|All found subdomains (history)|
 
 
@@ -170,6 +170,7 @@
 |[https://poc-werkplek.rws.nl](https://poc-werkplek.rws.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS||
 |[http://gitlab.at.rws.nl](http://gitlab.at.rws.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://keycloak-acc.vm-02.azure.grid.rws.nl](https://keycloak-acc.vm-02.azure.grid.rws.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Welcome to Keycl...|
+|[http://tgox-acc.rws.nl](http://tgox-acc.rws.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://acc-werkplek.rws.nl](https://acc-werkplek.rws.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS||
 |[https://enterpriseenrollment.rws.nl](https://enterpriseenrollment.rws.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||
 |[https://splunkhec.grid.rws.nl](https://splunkhec.grid.rws.nl)| | **F**|Microsoft-Azure-Application-Gateway/v2| | | | | | | | :white_check_mark: | ||403 Forbidden|

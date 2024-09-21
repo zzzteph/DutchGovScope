@@ -297,3 +297,8 @@ acc-euvis-ebms.data-exchange.consular.mfaservices.nl
 acc2.liferay.mfaservices.nl
 acc3.liferay.mfaservices.nl
 acc-vismail.data-exchange.consular.mfaservices.nl
+dev-bvi-ib.data-exchange.consular.mfaservices.nl
+tst-bvi-ib.data-exchange.consular.mfaservices.nl
+dev-bzk2-api.data-exchange.consular.mfaservices.nl
+snd-bzk2-api.data-exchange.consular.mfaservices.nl
+tst-bzk2-api.data-exchange.consular.mfaservices.nl

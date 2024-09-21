@@ -5,14 +5,14 @@
 
 
  - **SSL Grade**:B-
- - **HTTP Security Grade**:E
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:51
+ - **HTTP Security Grade**:D
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:52
 
 
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/knaw.nl/subdomains.txt)|1352|Alive subdomains|
-|[urls.txt](/data/knaw.nl/urls.txt)|613|Urls|
+|[urls.txt](/data/knaw.nl/urls.txt)|612|Urls|
 |[all_subdomains.txt](/data/knaw.nl/all_subdomains.txt)|1866|All found subdomains (history)|
 
 
@@ -165,7 +165,7 @@
 |[https://correspondentie-bolland-en-cosijn.huygens.knaw.nl](https://correspondentie-bolland-en-cosijn.huygens.knaw.nl)| **A**| **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|403 Forbidden|
 |[https://demohermans.huygens.knaw.nl](https://demohermans.huygens.knaw.nl)| **B**| **F**|Apache/2.4.41 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.41 Ubuntu|403 Forbidden|
 |[https://huygens.knaw.nl](https://huygens.knaw.nl)| **A**| **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |Nginx|301 Moved Perman...|
-|[https://inventaris.huygens.knaw.nl](https://inventaris.huygens.knaw.nl)| **A**| **F**|Apache/2.4.41 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.41 Ubuntu|403 Forbidden|
+|[https://inventaris.huygens.knaw.nl](https://inventaris.huygens.knaw.nl)| **A**| **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|403 Forbidden|
 |[https://serrure.mvn.huygens.knaw.nl](https://serrure.mvn.huygens.knaw.nl)| **B**| **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|403 Forbidden|
 |[https://charriere.huygens.knaw.nl](https://charriere.huygens.knaw.nl)| **A**| **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|403 Forbidden|
 |[https://ckcc.huygens.knaw.nl](https://ckcc.huygens.knaw.nl)| **A**| **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|403 Forbidden|
@@ -195,7 +195,7 @@
 |[https://loggingbe.huygens.knaw.nl](https://loggingbe.huygens.knaw.nl)| **F**| **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|301 Moved Perman...|
 |[https://www.huygensinstituut.knaw.nl](https://www.huygensinstituut.knaw.nl)| **F**| **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|301 Moved Perman...|
 |[https://huygensinstituut.knaw.nl](https://huygensinstituut.knaw.nl)| **F**| **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|301 Moved Perman...|
-|[https://intranet.huygens.knaw.nl](https://intranet.huygens.knaw.nl)| **A**| **E**|Apache| | | | | | | :white_check_mark: | :white_check_mark: | |Apache HTTP Server Plone Python|Intranet Huygens...|
+|[https://intranet.huygens.knaw.nl](https://intranet.huygens.knaw.nl)| **A**| **A**|Apache|:warning: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server|301 Moved Perman...|
 |[https://oaipmh.emitx.huygens.knaw.nl](https://oaipmh.emitx.huygens.knaw.nl)| **F**| **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|301 Moved Perman...|
 |[https://rembench.huygens.knaw.nl](https://rembench.huygens.knaw.nl)| **F**| **F**|Apache/2.4.41 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.41 Ubuntu|403 Forbidden|
 |[https://tc13.huygens.knaw.nl](https://tc13.huygens.knaw.nl)| **A**| **E**|Apache| | | | | | | :white_check_mark: | :white_check_mark: | |Apache HTTP Server|Apache Tomcat|
@@ -260,7 +260,7 @@
 |[http://hucdrive-internal.huc.knaw.nl](http://hucdrive-internal.huc.knaw.nl)| **A+**| **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |Nginx|301 Moved Perman...|
 |[http://ssp.huc.knaw.nl](http://ssp.huc.knaw.nl)| **A+**| **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |Nginx|301 Moved Perman...|
 |[https://dans.knaw.nl](https://dans.knaw.nl)| **A+**| **A**|nginx/1.14.1| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx:1.14.1 PHP:7.4.33||
-|[https://wordpress.dans.knaw.nl](https://wordpress.dans.knaw.nl)| **F**| **F**|nginx/1.14.1| | | | | | | | :white_check_mark: | |HSTS MySQL Nginx:1.14.1 PHP:7.4.33 Slick WPML:4.6.12 WordPress:6.6.1 Yoast SEO:23.2 jQuery|DANS | Expertise...|
+|[https://wordpress.dans.knaw.nl](https://wordpress.dans.knaw.nl)| **F**| **F**|nginx/1.14.1| | | | | | | | :white_check_mark: | |HSTS MySQL Nginx:1.14.1 PHP:7.4.33 Slick WPML:4.6.13 WordPress:6.6.2 Yoast SEO:23.4 jQuery|DANS | Expertise...|
 |[https://www.dans.knaw.nl](https://www.dans.knaw.nl)| **A**| **A**|nginx/1.14.1| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Nginx:1.14.1|301 Moved Perman...|
 |[https://podium.knaw.nl](https://podium.knaw.nl)| **F**| **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|Test Page for th...|
 |[https://www.podium.knaw.nl](https://www.podium.knaw.nl)| **F**| **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|Test Page for th...|
@@ -438,7 +438,6 @@
 |[https://publications.niod.knaw.nl](https://publications.niod.knaw.nl)| **F**| **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|403 Forbidden|
 |[https://www.oorlogsdoc.knaw.nl](https://www.oorlogsdoc.knaw.nl)| **F**| **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|403 Forbidden|
 |[https://www03.niod.knaw.nl](https://www03.niod.knaw.nl)| **F**| **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|403 Forbidden|
-|[https://gharvester-oai.dans.knaw.nl](https://gharvester-oai.dans.knaw.nl)| **B**| **E**|Apache| | | | | | | :white_check_mark: | :white_check_mark: | |Apache HTTP Server||
 |[https://gharvester-rss.dans.knaw.nl](https://gharvester-rss.dans.knaw.nl)| **B**| **E**|Apache| | | | | | | :white_check_mark: | :white_check_mark: | |Apache HTTP Server|403 Forbidden|
 |[https://gharvester-wcp.dans.knaw.nl](https://gharvester-wcp.dans.knaw.nl)| **B**| **E**|Apache| | | | | | | :white_check_mark: | :white_check_mark: | |Apache HTTP Server||
 |[https://gharvester31.dans.knaw.nl](https://gharvester31.dans.knaw.nl)| **F**| **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|Test Page for th...|
@@ -470,14 +469,14 @@
 |[https://logo.huygens.knaw.nl](https://logo.huygens.knaw.nl)| **F**| **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server Basic|401 Authorizatio...|
 |[http://maps.fa.knaw.nl](http://maps.fa.knaw.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://mapserver.fa.knaw.nl](https://mapserver.fa.knaw.nl)| **A**| **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |||
-|[https://mfiles.knaw.nl](https://mfiles.knaw.nl)| **B**| **A**||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET||
-|[http://mfproxy01.knaw.nl](http://mfproxy01.knaw.nl)| **F**| **B**||:warning: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET||
-|[http://tmfiles.knaw.nl](http://tmfiles.knaw.nl)| **B**| **B**||:warning: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET||
+|[https://mfiles.knaw.nl](https://mfiles.knaw.nl)| **B**| **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Azure Azure Monitor HSTS Microsoft ASP.NET||
+|[http://mfproxy01.knaw.nl](http://mfproxy01.knaw.nl)| **F**| **A**||:warning: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Azure Azure Monitor HSTS Microsoft ASP.NET||
+|[http://tmfiles.knaw.nl](http://tmfiles.knaw.nl)| **B**| **A**||:warning: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Azure Azure Monitor HSTS Microsoft ASP.NET||
 |[https://munki.knaw.nl](https://munki.knaw.nl)| **A**| **D**|nginx| | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Nginx||
 |[https://munki01.knaw.nl](https://munki01.knaw.nl)| **A**| **D**|nginx| | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Nginx||
 |[https://ninweb.knaw.nl](https://ninweb.knaw.nl)| **F**| **E**|| | | | | | | | :white_check_mark: | |HSTS||
 |[https://oracleapp21.knaw.nl](https://oracleapp21.knaw.nl)| **B**| **E**|| | | | | | | | :white_check_mark: | ||400 Bad Request|
-|[https://password.knaw.nl](https://password.knaw.nl)| **A**| **B**|Microsoft-IIS/10.0|:warning: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS IIS:10.0 Microsoft ASP.NET Windows Server|Interfaccia web...|
+|[https://password.knaw.nl](https://password.knaw.nl)| **A**| **B**|Microsoft-IIS/10.0|:warning: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS IIS:10.0 Microsoft ASP.NET Windows Server|Self Service Res...|
 |[https://pdvnl31.dans.knaw.nl](https://pdvnl31.dans.knaw.nl)| **B**| **B**|Apache|:warning: |:white_check_mark: | | | :white_check_mark:| | :white_check_mark: | :white_check_mark: | |Apache HTTP Server Bootstrap:3.4.1 HSTS Java OWL Carousel jQuery|DataverseNL (dem...|
 |[https://rathenau-wiki.knaw.nl](https://rathenau-wiki.knaw.nl)| **F**| **E**|| | | | | | | | :white_check_mark: | |HSTS||
 |[https://sc-adfs.spinozacentre.knaw.nl](https://sc-adfs.spinozacentre.knaw.nl)| **B**| **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
@@ -485,7 +484,7 @@
 |[https://streaming11.dans.knaw.nl](https://streaming11.dans.knaw.nl)| **A+**| **B**|Apache| |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS|Test Page for th...|
 |[https://taoracleapp22.knaw.nl](https://taoracleapp22.knaw.nl)| **B**| **E**|| | | | | | | | :white_check_mark: | ||400 Bad Request|
 |[https://testadfs.knaw.nl](https://testadfs.knaw.nl)| **B**| **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
-|[https://testcitrix.knaw.nl](https://testcitrix.knaw.nl)| **F**| **E**|| | | | | | | | :white_check_mark: | ||Invalid Connecti...|
+|[http://testcitrix.knaw.nl](http://testcitrix.knaw.nl)| **F**| **E**|| | | | | | | | :white_check_mark: | |||
 |[https://timetell-test.knaw.nl](https://timetell-test.knaw.nl)| **B**| **A**|Microsoft-IIS/10.0| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS IIS:10.0 Microsoft ASP.NET Windows Server|Document Moved|
 |[https://timetell.knaw.nl](https://timetell.knaw.nl)| **A+**| **A**|Microsoft-IIS/10.0| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS IIS:10.0 Microsoft ASP.NET Windows Server|Document Moved|
 |[https://topdesk.knaw.nl](https://topdesk.knaw.nl)| **B**| **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |||
@@ -608,7 +607,7 @@
 |[https://enterpriseregistration.knaw.nl](https://enterpriseregistration.knaw.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[http://kaartenbank.meertens.knaw.nl](http://kaartenbank.meertens.knaw.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|301 Moved Perman...|
 |[http://cmdi.sd.di.huc.knaw.nl](http://cmdi.sd.di.huc.knaw.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|301 Moved Perman...|
-|[https://cl.nioo.knaw.nl](https://cl.nioo.knaw.nl)| | **B**|nginx| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Drupal HSTS Nginx PHP Varnish:6.2|Redirecting to h...|
+|[https://cl.nioo.knaw.nl](https://cl.nioo.knaw.nl)| | **B**|nginx| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Drupal:9 HSTS Nginx PHP Varnish:6.2|Redirecting to h...|
 |[https://cto.nioo.knaw.nl](https://cto.nioo.knaw.nl)| | **B**|nginx| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Drupal:9 HSTS Nginx PHP Varnish:6.2|Redirecting to h...|
 |[https://wp-09.dev.huc.knaw.nl](https://wp-09.dev.huc.knaw.nl)| | **F**|Apache/2.4.41 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.41 Ubuntu|Unauthorized|
 |[http://clarin-skosmos.sd.di.huc.knaw.nl](http://clarin-skosmos.sd.di.huc.knaw.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|301 Moved Perman...|

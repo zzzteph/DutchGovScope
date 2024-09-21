@@ -263,3 +263,4 @@ https://goudo.rijksapplicaties.nl
 https://ncg-externenportaal.staging.rijksapplicaties.nl
 https://nplw-crm.staging.rijksapplicaties.nl
 https://rijksbeveiligingsportaal.staging.rijksapplicaties.nl
+https://kennisportfolio.rijksapplicaties.nl

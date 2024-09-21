@@ -12,7 +12,7 @@
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/ertms.nl/subdomains.txt)|19|Alive subdomains|
-|[urls.txt](/data/ertms.nl/urls.txt)|18|Urls|
+|[urls.txt](/data/ertms.nl/urls.txt)|19|Urls|
 |[all_subdomains.txt](/data/ertms.nl/all_subdomains.txt)|37|All found subdomains (history)|
 
 
@@ -39,4 +39,5 @@
 |[http://mta26.ertms.nl](http://mta26.ertms.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[http://ghh.ertms.nl](http://ghh.ertms.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[http://bambie.ertms.nl](http://bambie.ertms.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
+|[https://web.ertms.nl](https://web.ertms.nl)| | **E**|| | | | | | | | :white_check_mark: | |Azure Azure Front Door|Page not found|
 

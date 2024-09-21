@@ -229,3 +229,4 @@ ipms.nwo.nl
 enterpriseenrollment.nwo.nl
 radius.nwo.nl
 nwodhwvrdlic.nwo.nl
+digitoegankelijk.nwo.nl

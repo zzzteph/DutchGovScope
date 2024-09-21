@@ -125,3 +125,5 @@ https://svcalendar-dev.dnb.nl
 https://dtlgt-monitoring-acc.azure.dnb.nl
 https://dtlgt-monitoring-tst.azure.dnb.nl
 https://dtlgt-monitoring-prd.azure.dnb.nl
+https://svcalendar-acc.dnb.nl
+https://svcalendar-tst.dnb.nl

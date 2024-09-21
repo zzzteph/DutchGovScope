@@ -6,14 +6,14 @@
 
  - **SSL Grade**:A-
  - **HTTP Security Grade**:C
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:37
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:39
 
 
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/dnb.nl/subdomains.txt)|179|Alive subdomains|
-|[urls.txt](/data/dnb.nl/urls.txt)|127|Urls|
-|[all_subdomains.txt](/data/dnb.nl/all_subdomains.txt)|312|All found subdomains (history)|
+|[urls.txt](/data/dnb.nl/urls.txt)|129|Urls|
+|[all_subdomains.txt](/data/dnb.nl/all_subdomains.txt)|313|All found subdomains (history)|
 
 
 ## Statistics
@@ -148,4 +148,6 @@
 |[https://dtlgt-monitoring-acc.azure.dnb.nl](https://dtlgt-monitoring-acc.azure.dnb.nl)| | **E**|| | | | | | | | :white_check_mark: | |Bootstrap:5.2.3|Azure Static Web...|
 |[https://dtlgt-monitoring-tst.azure.dnb.nl](https://dtlgt-monitoring-tst.azure.dnb.nl)| | **E**|| | | | | | | | :white_check_mark: | |Bootstrap:5.2.3|Azure Static Web...|
 |[https://dtlgt-monitoring-prd.azure.dnb.nl](https://dtlgt-monitoring-prd.azure.dnb.nl)| | **E**|| | | | | | | | :white_check_mark: | |Bootstrap:5.2.3|Azure Static Web...|
+|[https://svcalendar-acc.dnb.nl](https://svcalendar-acc.dnb.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Azure Azure Front Door HSTS|Supervision Cale...|
+|[https://svcalendar-tst.dnb.nl](https://svcalendar-tst.dnb.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Azure Azure Front Door HSTS|Supervision Cale...|
 

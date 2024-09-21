@@ -4,7 +4,7 @@ title: "deltaprogramma.nl"
 permalink: "/dutchgov/deltaprogramma.nl.html"
 subdomains_count: 20
 all_subdomains_count: 21
-urls_count: 12
+urls_count: 13
 ssl_rank: A-
 http_rank: A
 security_txt: 10
@@ -28,7 +28,7 @@ tags: dutchgov
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/DutchGovScope/data/deltaprogramma.nl/subdomains.txt)|20|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/deltaprogramma.nl/urls.txt)|12|Urls|
+|[urls.txt](/DutchGovScope/data/deltaprogramma.nl/urls.txt)|13|Urls|
 |[all_subdomains.txt](/DutchGovScope/data/deltaprogramma.nl/all_subdomains.txt)|21|All found subdomains (history)|
 
 
@@ -49,4 +49,5 @@ tags: dutchgov
 |[https://deltaprogramma.nl](https://deltaprogramma.nl)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
 |[https://dp2021.deltaprogramma.nl](https://dp2021.deltaprogramma.nl)| | **F**|Apache/2| | | | | | | | :white_check_mark: | |Apache HTTP Server:2|Deltaprogramma 2...|
 |[https://dp2022.deltaprogramma.nl](https://dp2022.deltaprogramma.nl)| | **A**|Microsoft-IIS/10.0|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS IIS:10.0 Windows Server|Document Moved|
+|[https://dp2025.deltaprogramma.nl](https://dp2025.deltaprogramma.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx Node.js Nuxt.js Vue.js|Deltaprogramma 2...|
 

@@ -1,3 +1,5 @@
 manifestgroep.nl
 www.manifestgroep.nl
 autodiscover.manifestgroep.nl
+enterpriseenrollment.manifestgroep.nl
+enterpriseregistration.manifestgroep.nl

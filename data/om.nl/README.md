@@ -11,7 +11,7 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/om.nl/subdomains.txt)|32|Alive subdomains|
+|[subdomains.txt](/data/om.nl/subdomains.txt)|33|Alive subdomains|
 |[urls.txt](/data/om.nl/urls.txt)|27|Urls|
 |[all_subdomains.txt](/data/om.nl/all_subdomains.txt)|86|All found subdomains (history)|
 
@@ -29,7 +29,7 @@
 |[https://opendata.om.nl](https://opendata.om.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://www.om.nl](https://www.om.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Home | Openbaar...|
 |[https://nevenbetrekkingen.om.nl](https://nevenbetrekkingen.om.nl)| **B**| **D**|| | | | | | :white_check_mark: | | :white_check_mark: | |Microsoft ASP.NET:4.0.30319|Nevenbetrekkinge...|
-|[https://snelheidsovertredingen.om.nl](https://snelheidsovertredingen.om.nl)| **B**| **D**|| | | | | | :white_check_mark: | | :white_check_mark: | |Microsoft ASP.NET:4.0.30319|Tarieven snelhei...|
+|[https://snelheidsovertredingen.om.nl](https://snelheidsovertredingen.om.nl)| **B**| **D**|| | | | | | :white_check_mark: | | :white_check_mark: | |Microsoft ASP.NET|Tarieven snelhei...|
 |[https://www2.om.nl](https://www2.om.nl)| **B**| **E**|| | | | | | | | :white_check_mark: | ||Not Found|
 |[https://media.om.nl](https://media.om.nl)| **B**| **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
 |[https://strafdossiermh17.acc.om.nl](https://strafdossiermh17.acc.om.nl)| **B**| **F**|nginx/1.25.5| | | | | | | | :white_check_mark: | |HSTS Nginx:1.25.5|Strafdossier MH1...|
@@ -40,7 +40,7 @@
 |[https://strafdossiermh17.om.nl](https://strafdossiermh17.om.nl)| **B**| **F**|nginx/1.25.5| | | | | | | | :white_check_mark: | |HSTS Nginx:1.25.5|Strafdossier MH1...|
 |[https://dialin.om.nl](https://dialin.om.nl)| | **F**|Microsoft-IIS/10.0| | | | | | | | :white_check_mark: | |HSTS IIS:10.0 Windows Server|Conferencing Dia...|
 |[https://lyncdiscover.om.nl](https://lyncdiscover.om.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
-|[http://meet.om.nl](http://meet.om.nl)| **F**| **E**|| | | | | | | | :white_check_mark: | |HSTS||
+|[https://meet.om.nl](https://meet.om.nl)| **F**| **E**|| | | | | | | | :white_check_mark: | |HSTS|Skype for Busine...|
 |[https://sip.om.nl](https://sip.om.nl)| | **C**|RTC/6.0| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
 |[https://webservices.om.nl](https://webservices.om.nl)| **F**| **F**|Microsoft-IIS/10.0| | | | | | | | :white_check_mark: | |HSTS IIS:10.0 Windows Server||
 |[https://telewerken.om.nl](https://telewerken.om.nl)| | **A**||:warning: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Microsoft ASP.NET||

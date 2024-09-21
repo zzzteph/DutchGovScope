@@ -25,7 +25,7 @@
 |[https://helloid.aaenmaas.nl](https://helloid.aaenmaas.nl)| **A+**| **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |Azure HSTS|Object moved|
 |[https://lync.aaenmaas.nl](https://lync.aaenmaas.nl)| **A+**| **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|403 - Forbidden:...|
 |[https://maps.aaenmaas.nl](https://maps.aaenmaas.nl)| **A**| **E**|| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.57 OpenSSL:3.1.2 Windows Server||
-|[http://autodiscover.aaenmaas.nl](http://autodiscover.aaenmaas.nl)| | **C**|Microsoft-IIS/10.0| |:white_check_mark: | | | | | | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server||
+|[http://autodiscover.aaenmaas.nl](http://autodiscover.aaenmaas.nl)| | **B**|Microsoft-IIS/10.0|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server||
 |[https://aaenmaas.nl](https://aaenmaas.nl)| **A**| **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:-|Object moved|
 |[https://lyncdiscover.aaenmaas.nl](https://lyncdiscover.aaenmaas.nl)| **A**| **E**|| | | | | | | | :white_check_mark: | |||
 |[https://vpn2.aaenmaas.nl](https://vpn2.aaenmaas.nl)| **A+**| **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
@@ -33,10 +33,10 @@
 |[https://login.aaenmaas.nl](https://login.aaenmaas.nl)| **A+**| **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |||
 |[https://oa.aaenmaas.nl](https://oa.aaenmaas.nl)| **A**| **E**|| | | | | | | | :white_check_mark: | |||
 |[https://webmail.aaenmaas.nl](https://webmail.aaenmaas.nl)| **F**| **F**|Microsoft-IIS/10.0| | | | | | | | :white_check_mark: | |HSTS HTTP/3 IIS:10.0 Microsoft ASP.NET Windows Server||
-|[https://testeloket.aaenmaas.nl](https://testeloket.aaenmaas.nl)| **A+**| **A**|unspecified|:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache Tomcat Fourthwall:1.0.201.081 Fourthwall:eloket_ui_main-2024.215.001 HSTS Java MariaDB Skolengo:1.0.201.081|Djuma portal|
-|[https://meet.aaenmaas.nl](https://meet.aaenmaas.nl)| **A+**| **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|Skype for Busine...|
+|[https://testeloket.aaenmaas.nl](https://testeloket.aaenmaas.nl)| **A+**| **A**|unspecified|:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache Tomcat Fourthwall:1.0.202.071 Fourthwall:eloket_ui_main-2024.242.002 HSTS Java MariaDB Skolengo:1.0.202.071|Djuma portal|
+|[http://meet.aaenmaas.nl](http://meet.aaenmaas.nl)| **A+**| **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|Document Moved|
 |[https://dialin.aaenmaas.nl](https://dialin.aaenmaas.nl)| **A+**| **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|Conferencing Dia...|
-|[https://eloket.aaenmaas.nl](https://eloket.aaenmaas.nl)| **A+**| **A**|unspecified|:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache Tomcat Fourthwall:1.0.201.081 Fourthwall:eloket_ui_main-2024.215.001 HSTS Java MariaDB Skolengo:1.0.201.081|Djuma portal|
+|[https://eloket.aaenmaas.nl](https://eloket.aaenmaas.nl)| **A+**| **A**|unspecified|:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache Tomcat Fourthwall:1.0.202.071 Fourthwall:eloket_ui_main-2024.242.002 HSTS Java MariaDB Skolengo:1.0.202.071|Djuma portal|
 |[https://sharepoint.aaenmaas.nl](https://sharepoint.aaenmaas.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |||
 |[https://amira.aaenmaas.nl](https://amira.aaenmaas.nl)| | **A**||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |||
 |[https://geoportal.aaenmaas.nl](https://geoportal.aaenmaas.nl)| | **F**||:warning: | | | | | | | :white_check_mark: | |Microsoft ASP.NET|IIS Windows Serv...|

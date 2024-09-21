@@ -4,10 +4,10 @@ title: "minjenv-events.nl"
 permalink: "/dutchgov/minjenv-events.nl.html"
 subdomains_count: 44
 all_subdomains_count: 44
-urls_count: 41
+urls_count: 44
 ssl_rank: A+
 http_rank: A
-security_txt: 41
+security_txt: 44
 url_link: /data/minjenv-events.nl/urls.txt
 all_subdomains_link: /data/minjenv-events.nl/all_subdomains.txt
 subdomains_link: /data/minjenv-events.nl/subdomains.txt
@@ -22,13 +22,13 @@ tags: dutchgov
 
  - **SSL Grade**:A+
  - **HTTP Security Grade**:A
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:41
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:44
 
 
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/DutchGovScope/data/minjenv-events.nl/subdomains.txt)|44|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/minjenv-events.nl/urls.txt)|41|Urls|
+|[urls.txt](/DutchGovScope/data/minjenv-events.nl/urls.txt)|44|Urls|
 |[all_subdomains.txt](/DutchGovScope/data/minjenv-events.nl/all_subdomains.txt)|44|All found subdomains (history)|
 
 
@@ -78,4 +78,7 @@ tags: dutchgov
 |[https://dtv-wetenschapsevenement2023.minjenv-events.nl](https://dtv-wetenschapsevenement2023.minjenv-events.nl)| | **A**|nginx| |:white_check_mark: | :warning:| |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx Plesk||
 |[https://dagvdlocatiemanager-oek.minjenv-events.nl](https://dagvdlocatiemanager-oek.minjenv-events.nl)| | **A**|nginx| |:white_check_mark: | :warning:| |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx Plesk||
 |[https://burgergerichtbestuursrecht.minjenv-events.nl](https://burgergerichtbestuursrecht.minjenv-events.nl)| | **A**|nginx| |:white_check_mark: | :warning:| |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx Plesk||
+|[https://kamer.minjenv-events.nl](https://kamer.minjenv-events.nl)| | **A**|nginx| |:white_check_mark: | :warning:| |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx Plesk||
+|[https://thuis-in-de-eerste-kamer.minjenv-events.nl](https://thuis-in-de-eerste-kamer.minjenv-events.nl)| | **A**|nginx| |:white_check_mark: | :warning:| |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx Plesk||
+|[https://kennisevenement.minjenv-events.nl](https://kennisevenement.minjenv-events.nl)| | **A**|nginx| |:white_check_mark: | :warning:| |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx Plesk||
 

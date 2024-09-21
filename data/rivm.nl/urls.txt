@@ -1,4 +1,4 @@
-http://abonneren.rivm.nl
+https://abonneren.rivm.nl
 http://acc-api.rivm.nl
 https://acc-auth.rivm.nl
 http://acc-bestellingen.rivm.nl
@@ -105,7 +105,6 @@ http://gemini.rivm.nl
 https://gisportal.rivm.nl
 http://gvcheckrivm2.rivm.nl
 http://hypocrates.rivm.nl
-https://images.acc-nieuwsbrieven.rivm.nl
 https://images.nieuwsbrieven.rivm.nl
 https://incident.rivm.nl
 http://incidentacc.rivm.nl
@@ -248,7 +247,7 @@ https://www.acc-mijn.rivm.nl
 http://acc.aiz.osiris.rivm.nl
 https://fs-pub.rivm.nl
 http://acc-isis-ar-rapportage.rivm.nl
-https://mijnlmm.rivm.nl
+http://mijnlmm.rivm.nl
 http://acc-mijnlmm.rivm.nl
 https://geluidwsv.rivm.nl
 https://geluidsrm.rivm.nl

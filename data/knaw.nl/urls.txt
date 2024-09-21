@@ -415,7 +415,6 @@ https://oud.niod.knaw.nl
 https://publications.niod.knaw.nl
 https://www.oorlogsdoc.knaw.nl
 https://www03.niod.knaw.nl
-https://gharvester-oai.dans.knaw.nl
 https://gharvester-rss.dans.knaw.nl
 https://gharvester-wcp.dans.knaw.nl
 https://gharvester31.dans.knaw.nl
@@ -462,7 +461,7 @@ https://sec01.dans.knaw.nl
 https://streaming11.dans.knaw.nl
 https://taoracleapp22.knaw.nl
 https://testadfs.knaw.nl
-https://testcitrix.knaw.nl
+http://testcitrix.knaw.nl
 https://timetell-test.knaw.nl
 https://timetell.knaw.nl
 https://topdesk.knaw.nl

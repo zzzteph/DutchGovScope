@@ -7,7 +7,7 @@ all_subdomains_count: 50
 urls_count: 16
 ssl_rank: A
 http_rank: B
-security_txt: 11
+security_txt: 12
 url_link: /data/rijksdienstcn.com/urls.txt
 all_subdomains_link: /data/rijksdienstcn.com/all_subdomains.txt
 subdomains_link: /data/rijksdienstcn.com/subdomains.txt
@@ -22,7 +22,7 @@ tags: dutchgov
 
  - **SSL Grade**:A
  - **HTTP Security Grade**:B
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:11
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:12
 
 
 | File       | Count | Info |
@@ -39,11 +39,11 @@ tags: dutchgov
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[https://english.rijksdienstcn.com](https://english.rijksdienstcn.com)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Home | Rijksdien...|
 |[https://www.rijksdienstcn.com](https://www.rijksdienstcn.com)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Home | Rijksdien...|
-|[https://vpnbon.rijksdienstcn.com](https://vpnbon.rijksdienstcn.com)| **B**| **F**|xxxxxxxx-xxxxx| | | | | | | | :white_check_mark: | |HSTS||
-|[https://fs.rijksdienstcn.com](https://fs.rijksdienstcn.com)| **B**| **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Service Unavaila...|
+|[https://vpnbon.rijksdienstcn.com](https://vpnbon.rijksdienstcn.com)| **B**| **E**|| | | | | | | | :white_check_mark: | |HSTS||
+|[https://fs.rijksdienstcn.com](https://fs.rijksdienstcn.com)| **B**| **E**|Microsoft-HTTPAPI/2.0| | | | | | :white_check_mark: | | :white_check_mark: | |Microsoft HTTPAPI:2.0||
 |[https://papiamentu.rijksdienstcn.com](https://papiamentu.rijksdienstcn.com)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Home | Rijksdien...|
 |[https://feeds.papiamentu.rijksdienstcn.com](https://feeds.papiamentu.rijksdienstcn.com)| **A+**| **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
-|[https://portal.rijksdienstcn.com](https://portal.rijksdienstcn.com)| | **F**|xxxxxxxx-xxxxx| | | | | | | | :white_check_mark: | |HSTS||
+|[https://portal.rijksdienstcn.com](https://portal.rijksdienstcn.com)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||
 |[https://fileshare.rijksdienstcn.com](https://fileshare.rijksdienstcn.com)| **A**| **D**|CerberusFTPServer/2024|:white_check_mark: | | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | ||302 Redirected|
 |[https://opendata.english.rijksdienstcn.com](https://opendata.english.rijksdienstcn.com)| **A+**| **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://opendata.rijksdienstcn.com](https://opendata.rijksdienstcn.com)| **A+**| **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||

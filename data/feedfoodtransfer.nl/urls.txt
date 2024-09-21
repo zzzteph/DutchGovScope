@@ -17,6 +17,7 @@ https://mail.apps.feedfoodtransfer.nl
 https://uat.apps.feedfoodtransfer.nl
 https://staging.apps.feedfoodtransfer.nl
 https://api.apps.feedfoodtransfer.nl
+https://admin.apps.feedfoodtransfer.nl
 https://us.apps.feedfoodtransfer.nl
 https://blog.apps.feedfoodtransfer.nl
 https://login.apps.feedfoodtransfer.nl

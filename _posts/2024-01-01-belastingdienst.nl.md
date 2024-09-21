@@ -2,7 +2,7 @@
 layout: default
 title: "belastingdienst.nl"
 permalink: "/dutchgov/belastingdienst.nl.html"
-subdomains_count: 481
+subdomains_count: 478
 all_subdomains_count: 800
 urls_count: 125
 ssl_rank: A-
@@ -27,7 +27,7 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/belastingdienst.nl/subdomains.txt)|481|Alive subdomains|
+|[subdomains.txt](/DutchGovScope/data/belastingdienst.nl/subdomains.txt)|478|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/belastingdienst.nl/urls.txt)|125|Urls|
 |[all_subdomains.txt](/DutchGovScope/data/belastingdienst.nl/all_subdomains.txt)|800|All found subdomains (history)|
 

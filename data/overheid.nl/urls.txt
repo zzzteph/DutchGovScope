@@ -16,7 +16,7 @@ https://beheerportaal.bta.omgevingswet.overheid.nl
 https://beheerportaal.dmo.omgevingswet.overheid.nl
 https://beheerportaal.enabling.omgevingswet.overheid.nl
 https://beheerportaal.int.omgevingswet.overheid.nl
-https://beheerportaal.int02.omgevingswet.overheid.nl
+http://beheerportaal.int02.omgevingswet.overheid.nl
 https://beheerportaal.int12.omgevingswet.overheid.nl
 https://beheerportaal.int13.omgevingswet.overheid.nl
 https://beheerportaal.int13m.omgevingswet.overheid.nl
@@ -74,7 +74,7 @@ https://identifier.overheid.nl
 https://identifier-eto.overheid.nl
 https://import.organisaties.overheid.nl
 https://int.omgevingswet.overheid.nl
-https://int02.omgevingswet.overheid.nl
+http://int02.omgevingswet.overheid.nl
 https://int12.omgevingswet.overheid.nl
 https://int13.omgevingswet.overheid.nl
 https://int13m.omgevingswet.overheid.nl
@@ -87,8 +87,8 @@ https://intpatch.omgevingswet.overheid.nl
 https://kim.omgevingswet.overheid.nl
 https://koop.overheid.nl
 https://linkeddata.overheid.nl
-https://linkeddata-acc.overheid.nl
-https://linkeddata-test.overheid.nl
+http://linkeddata-acc.overheid.nl
+http://linkeddata-test.overheid.nl
 https://linkextractor.overheid.nl
 https://linkextractor-acc.overheid.nl
 https://lokaleregelgeving.overheid.nl
@@ -117,7 +117,7 @@ https://pkio.service.bta.omgevingswet.overheid.nl
 https://pkio.service.dmo.omgevingswet.overheid.nl
 https://pkio.service.enabling.omgevingswet.overheid.nl
 https://pkio.service.int.omgevingswet.overheid.nl
-https://pkio.service.int02.omgevingswet.overheid.nl
+http://pkio.service.int02.omgevingswet.overheid.nl
 https://pkio.service.int12.omgevingswet.overheid.nl
 https://pkio.service.int13.omgevingswet.overheid.nl
 https://pkio.service.int13m.omgevingswet.overheid.nl
@@ -159,7 +159,7 @@ https://service.bta.omgevingswet.overheid.nl
 https://service.dmo.omgevingswet.overheid.nl
 https://service.enabling.omgevingswet.overheid.nl
 https://service.int.omgevingswet.overheid.nl
-https://service.int02.omgevingswet.overheid.nl
+http://service.int02.omgevingswet.overheid.nl
 https://service.int12.omgevingswet.overheid.nl
 https://service.int13.omgevingswet.overheid.nl
 https://service.int13m.omgevingswet.overheid.nl
@@ -178,7 +178,7 @@ https://sso.bta.omgevingswet.overheid.nl
 https://sso.dmo.omgevingswet.overheid.nl
 https://sso.enabling.omgevingswet.overheid.nl
 https://sso.int.omgevingswet.overheid.nl
-https://sso.int02.omgevingswet.overheid.nl
+http://sso.int02.omgevingswet.overheid.nl
 https://sso.int12.omgevingswet.overheid.nl
 https://sso.int13.omgevingswet.overheid.nl
 https://sso.int13m.omgevingswet.overheid.nl
@@ -240,7 +240,7 @@ https://www.bta.omgevingswet.overheid.nl
 https://www.dmo.omgevingswet.overheid.nl
 https://www.enabling.omgevingswet.overheid.nl
 https://www.int.omgevingswet.overheid.nl
-https://www.int02.omgevingswet.overheid.nl
+http://www.int02.omgevingswet.overheid.nl
 https://www.int12.omgevingswet.overheid.nl
 https://www.int13.omgevingswet.overheid.nl
 https://www.int13m.omgevingswet.overheid.nl
@@ -285,7 +285,6 @@ https://www.integratie02.omgevingswet.overheid.nl
 https://kwaliteitsdashboard-koop.overheid.nl
 http://pki.overheid.nl
 https://editor-drp.overheid.nl
-http://editor-drp-acc.overheid.nl
 https://editor-drp-preprd.overheid.nl
 https://iknowcimow.omgevingswet.overheid.nl
 https://iknowcimow.acc.omgevingswet.overheid.nl

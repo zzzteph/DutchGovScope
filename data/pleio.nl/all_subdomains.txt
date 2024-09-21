@@ -7241,3 +7241,4 @@ formulieren-new.pleio.nl
 storybook.pleio.nl
 haalcentraal.pleio.nl
 tiptap-ai.pleio.nl
+tiptap-collab.pleio.nl

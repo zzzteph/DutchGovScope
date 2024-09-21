@@ -8,6 +8,7 @@ https://service.tweedekamer.nl
 https://pwk.tweedekamer.nl
 https://tweedekamer.acceptatie.tweedekamer.nl
 https://cdn.debatdirect.tweedekamer.nl
+https://sip.videovergaderen.tweedekamer.nl
 https://woningcorporaties.tweedekamer.nl
 https://sts.tweedekamer.nl
 https://plus.debatdirect.tweedekamer.nl

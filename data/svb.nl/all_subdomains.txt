@@ -282,3 +282,4 @@ www-s.svb.nl
 www-t.svb.nl
 canary-svb.svb.nl
 app1056.svb.nl
+kennisbank.svb.nl

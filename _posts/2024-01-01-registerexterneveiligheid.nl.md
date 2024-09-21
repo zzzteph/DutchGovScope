@@ -3,7 +3,7 @@ layout: default
 title: "registerexterneveiligheid.nl"
 permalink: "/dutchgov/registerexterneveiligheid.nl.html"
 subdomains_count: 3
-all_subdomains_count: 3
+all_subdomains_count: 4
 urls_count: 3
 ssl_rank: A+
 http_rank: C
@@ -29,7 +29,7 @@ tags: dutchgov
 |------------|-------|------|
 |[subdomains.txt](/DutchGovScope/data/registerexterneveiligheid.nl/subdomains.txt)|3|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/registerexterneveiligheid.nl/urls.txt)|3|Urls|
-|[all_subdomains.txt](/DutchGovScope/data/registerexterneveiligheid.nl/all_subdomains.txt)|3|All found subdomains (history)|
+|[all_subdomains.txt](/DutchGovScope/data/registerexterneveiligheid.nl/all_subdomains.txt)|4|All found subdomains (history)|
 
 
 ## Statistics

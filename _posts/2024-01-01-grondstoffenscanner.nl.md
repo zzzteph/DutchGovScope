@@ -7,7 +7,7 @@ all_subdomains_count: 8
 urls_count: 7
 ssl_rank: B
 http_rank: C
-security_txt: 1
+security_txt: 4
 url_link: /data/grondstoffenscanner.nl/urls.txt
 all_subdomains_link: /data/grondstoffenscanner.nl/all_subdomains.txt
 subdomains_link: /data/grondstoffenscanner.nl/subdomains.txt
@@ -22,7 +22,7 @@ tags: dutchgov
 
  - **SSL Grade**:B
  - **HTTP Security Grade**:C
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:1
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:4
 
 
 | File       | Count | Info |

@@ -22,6 +22,6 @@
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[https://vorijk.nl](https://vorijk.nl)| **A**| **E**|| | | | | | | | :white_check_mark: | |Docusaurus:3.5.2 React Webpack|Vorderingenoverz...|
-|[https://demo.vorijk.nl](https://demo.vorijk.nl)| **A**| **F**|nginx/1.26.1| | | | | | | | :white_check_mark: | |Basic Nginx:1.26.1|401 Authorizatio...|
+|[https://demo.vorijk.nl](https://demo.vorijk.nl)| **A**| **F**|nginx/1.26.2| | | | | | | | :white_check_mark: | |Basic Nginx:1.26.2|401 Authorizatio...|
 |[https://www.vorijk.nl](https://www.vorijk.nl)| **A**| **E**|| | | | | | | | :white_check_mark: | |Docusaurus:3.5.2 React Webpack|Vorderingenoverz...|
 

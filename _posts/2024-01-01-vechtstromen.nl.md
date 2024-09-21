@@ -4,7 +4,7 @@ title: "vechtstromen.nl"
 permalink: "/dutchgov/vechtstromen.nl.html"
 subdomains_count: 51
 all_subdomains_count: 103
-urls_count: 38
+urls_count: 37
 ssl_rank: A-
 http_rank: C
 security_txt: 10
@@ -28,7 +28,7 @@ tags: dutchgov
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/DutchGovScope/data/vechtstromen.nl/subdomains.txt)|51|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/vechtstromen.nl/urls.txt)|38|Urls|
+|[urls.txt](/DutchGovScope/data/vechtstromen.nl/urls.txt)|37|Urls|
 |[all_subdomains.txt](/DutchGovScope/data/vechtstromen.nl/all_subdomains.txt)|103|All found subdomains (history)|
 
 
@@ -48,7 +48,6 @@ tags: dutchgov
 |[https://kaarten.vechtstromen.nl](https://kaarten.vechtstromen.nl)| **A+**| **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|N|
 |[https://redactie.vechtstromen.nl](https://redactie.vechtstromen.nl)| **A+**| **A**|-|:white_check_mark: |:white_check_mark: | | | :white_check_mark:| | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:-|Object moved|
 |[https://www.basisregistratie.vechtstromen.nl](https://www.basisregistratie.vechtstromen.nl)| **A**| **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|basisregistratie...|
-|[https://mail.vechtstromen.nl](https://mail.vechtstromen.nl)| **A**| **E**|| | | | | | | | :white_check_mark: | |||
 |[https://support.vechtstromen.nl](https://support.vechtstromen.nl)| **A**| **E**|| | | | | | | | :white_check_mark: | |||
 |[https://apps.vechtstromen.nl](https://apps.vechtstromen.nl)| **A+**| **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS Microsoft ASP.NET|Login|
 |[https://viaany.vechtstromen.nl](https://viaany.vechtstromen.nl)| **A**| **C**|-| | | | | :white_check_mark:| | :white_check_mark: | :white_check_mark: | |Microsoft ASP.NET:-|Vechtstromen App|

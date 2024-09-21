@@ -24,7 +24,7 @@
 |[https://advies.rijksacademie.nl](https://advies.rijksacademie.nl)| **A**| **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|The account host...|
 |[https://helpdesk.rijksacademie.nl](https://helpdesk.rijksacademie.nl)| | **F**|cloudflare| | | | | | | | :white_check_mark: | |Cloudflare|403 Forbidden|
 |[https://nieuwsbrief.rijksacademie.nl](https://nieuwsbrief.rijksacademie.nl)| **A+**| **A**|nginx| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
-|[https://www.rijksacademie.nl](https://www.rijksacademie.nl)| **A+**| **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS MySQL PHP WordPress Yoast SEO Premium:23.1 Yoast SEO:23.1|Home | Rijksacad...|
+|[https://www.rijksacademie.nl](https://www.rijksacademie.nl)| **A+**| **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS MySQL PHP WordPress Yoast SEO Premium:23.4 Yoast SEO:23.4|Home | Rijksacad...|
 |[https://rijksacademie.nl](https://rijksacademie.nl)| **A+**| **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
 |[http://autodiscover.rijksacademie.nl](http://autodiscover.rijksacademie.nl)| | **B**|Microsoft-IIS/10.0|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server||
 

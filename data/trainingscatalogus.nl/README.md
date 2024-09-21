@@ -11,7 +11,7 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/trainingscatalogus.nl/subdomains.txt)|229|Alive subdomains|
+|[subdomains.txt](/data/trainingscatalogus.nl/subdomains.txt)|237|Alive subdomains|
 |[urls.txt](/data/trainingscatalogus.nl/urls.txt)|120|Urls|
 |[all_subdomains.txt](/data/trainingscatalogus.nl/all_subdomains.txt)|256|All found subdomains (history)|
 
@@ -129,7 +129,7 @@
 |[https://scim-api.schiphol-lms.trainingscatalogus.nl](https://scim-api.schiphol-lms.trainingscatalogus.nl)| | **F**|Microsoft-IIS/10.0|:white_check_mark: | | | | | | | :white_check_mark: | |Azure IIS:10.0 Microsoft ASP.NET Windows Server||
 |[https://parnassia-lms.trainingscatalogus.nl](https://parnassia-lms.trainingscatalogus.nl)| | **A**|Class|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Access is denied...|
 |[https://lms-ocom.trainingscatalogus.nl](https://lms-ocom.trainingscatalogus.nl)| | **A**|Class|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Access is denied...|
-|[https://dtenv-a.trainingscatalogus.nl](https://dtenv-a.trainingscatalogus.nl)| | **B**|Class|:white_check_mark: |:white_check_mark: | | |:warning: | | :white_check_mark: | :white_check_mark: | |HSTS||
+|[https://dtenv-a.trainingscatalogus.nl](https://dtenv-a.trainingscatalogus.nl)| | **C**|Class|:white_check_mark: |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://portal-stater.trainingscatalogus.nl](https://portal-stater.trainingscatalogus.nl)| | **C**|Class|:white_check_mark: |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://leeromgeving-stater.trainingscatalogus.nl](https://leeromgeving-stater.trainingscatalogus.nl)| | **C**|Apache| |:white_check_mark: | | | | | | :white_check_mark: | |Apache HTTP Server HSTS Moodle PHP|Doorverwijspagin...|
 |[https://belastingdienst-lms-a.course-api.trainingscatalogus.nl](https://belastingdienst-lms-a.course-api.trainingscatalogus.nl)| | **F**||:white_check_mark: | | | | | | | :white_check_mark: | |Azure IIS:10.0 Microsoft ASP.NET Windows Server|Microsoft Azure...|

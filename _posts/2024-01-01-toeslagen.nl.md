@@ -4,10 +4,10 @@ title: "toeslagen.nl"
 permalink: "/dutchgov/toeslagen.nl.html"
 subdomains_count: 40
 all_subdomains_count: 63
-urls_count: 13
+urls_count: 14
 ssl_rank: A+
 http_rank: B
-security_txt: 10
+security_txt: 11
 url_link: /data/toeslagen.nl/urls.txt
 all_subdomains_link: /data/toeslagen.nl/all_subdomains.txt
 subdomains_link: /data/toeslagen.nl/subdomains.txt
@@ -22,13 +22,13 @@ tags: dutchgov
 
  - **SSL Grade**:A+
  - **HTTP Security Grade**:B
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:10
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:11
 
 
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/DutchGovScope/data/toeslagen.nl/subdomains.txt)|40|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/toeslagen.nl/urls.txt)|13|Urls|
+|[urls.txt](/DutchGovScope/data/toeslagen.nl/urls.txt)|14|Urls|
 |[all_subdomains.txt](/DutchGovScope/data/toeslagen.nl/all_subdomains.txt)|63|All found subdomains (history)|
 
 
@@ -37,7 +37,7 @@ tags: dutchgov
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://herstel.toeslagen.nl](https://herstel.toeslagen.nl)| **A+**| **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS MySQL PHP WordPress Yoast SEO Premium:23.1 Yoast SEO:23.1|Website voor ged...|
+|[https://herstel.toeslagen.nl](https://herstel.toeslagen.nl)| **A+**| **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS MySQL PHP WordPress Yoast SEO Premium:23.4 Yoast SEO:23.4|Website voor ged...|
 |[https://mijn.toeslagen.nl](https://mijn.toeslagen.nl)| **A+**| **A**||:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS|Er is een fout o...|
 |[https://toeslagen.nl](https://toeslagen.nl)| **A+**| **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|301 Moved Perman...|
 |[https://www.toeslagen.nl](https://www.toeslagen.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|301 Moved Perman...|
@@ -50,4 +50,5 @@ tags: dutchgov
 |[https://werken.toeslagen.nl](https://werken.toeslagen.nl)| **A**| **A**|Ponos Maximum| |:white_check_mark: | :warning:| |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://werkenbij.toeslagen.nl](https://werkenbij.toeslagen.nl)| | **A**|Ponos Maximum| |:white_check_mark: | :warning:| |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://schadeherstel.acc.toeslagen.nl](https://schadeherstel.acc.toeslagen.nl)| | **A**||:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
+|[https://schadeherstel.toeslagen.nl](https://schadeherstel.toeslagen.nl)| | **A**||:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 

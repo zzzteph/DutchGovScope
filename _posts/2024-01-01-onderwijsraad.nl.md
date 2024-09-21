@@ -41,7 +41,7 @@ tags: dutchgov
 |[https://opendata.onderwijsraad.nl](https://opendata.onderwijsraad.nl)| **A+**| **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://ts.onderwijsraad.nl](https://ts.onderwijsraad.nl)| | **F**|Microsoft-IIS/10.0| | | | | | | | :white_check_mark: | |IIS:10.0 Windows Server||
 |[https://outbound.onderwijsraad.nl](https://outbound.onderwijsraad.nl)| **F**| **F**|Microsoft-IIS/10.0| | | | | | | | :white_check_mark: | |IIS:10.0 Windows Server||
-|[https://extranet.onderwijsraad.nl](https://extranet.onderwijsraad.nl)| **A**| **E**|cloudflare|:warning: | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Cloudflare HTTP/3 Kinsta WordPress||
+|[https://extranet.onderwijsraad.nl](https://extranet.onderwijsraad.nl)| **A**| **E**|cloudflare|:warning: | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Cloudflare Kinsta WordPress||
 |[https://pushmail.onderwijsraad.nl](https://pushmail.onderwijsraad.nl)| **B**| **E**|Microsoft-IIS/10.0| | | | | | :white_check_mark: | | :white_check_mark: | |IIS:10.0 Windows Server||
 |[https://www.onderwijsraad.nl](https://www.onderwijsraad.nl)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Home | Onderwijs...|
 |[https://onderwijsraad.nl](https://onderwijsraad.nl)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|

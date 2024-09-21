@@ -44,7 +44,7 @@ tags: dutchgov
 |[https://mijn.waarderingskamer.nl](https://mijn.waarderingskamer.nl)| **A+**| **C**|nginx|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS Microsoft ASP.NET Nginx|Mijn Waarderings...|
 |[http://wem-live.waarderingskamer.nl](http://wem-live.waarderingskamer.nl)| **A**| **E**|| | | | | | | | :white_check_mark: | ||302 Found|
 |[https://woz-it.waarderingskamer.nl](https://woz-it.waarderingskamer.nl)| **A+**| **C**|nginx|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS Microsoft ASP.NET Nginx|WOZ-IT|
-|[https://www.waarderingskamer.nl](https://www.waarderingskamer.nl)| **A+**| **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |Alpine.js Craft CMS HSTS Nginx SEOmatic Yii|Home|
+|[https://www.waarderingskamer.nl](https://www.waarderingskamer.nl)| **A+**| **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |Alpine.js Craft CMS HSTS Nginx SEOmatic Yii|Waarderingskamer|
 |[https://waarderingskamer.nl](https://waarderingskamer.nl)| **A**| **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |Nginx|301 Moved Perman...|
 |[https://scim.waarderingskamer.nl](https://scim.waarderingskamer.nl)| **A**| **B**|| | | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |||
 |[https://search.waarderingskamer.nl](https://search.waarderingskamer.nl)| **A+**| **B**|nginx| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS Nginx||

@@ -4,3 +4,6 @@ https://platformrijksoverheidonline.nl
 https://api.abonneren.platformrijksoverheidonline.nl
 https://inloggen.platformrijksoverheidonline.nl
 https://inzichten.platformrijksoverheidonline.nl
+https://feeds.oud.platformrijksoverheidonline.nl
+https://opendata.oud.platformrijksoverheidonline.nl
+https://oud.platformrijksoverheidonline.nl

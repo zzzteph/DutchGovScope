@@ -12,7 +12,7 @@
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/zwemwater.nl/subdomains.txt)|1694|Alive subdomains|
-|[urls.txt](/data/zwemwater.nl/urls.txt)|1688|Urls|
+|[urls.txt](/data/zwemwater.nl/urls.txt)|1692|Urls|
 |[all_subdomains.txt](/data/zwemwater.nl/all_subdomains.txt)|1896|All found subdomains (history)|
 
 
@@ -1709,4 +1709,8 @@
 |[https://lago-maggiore.zwemwater.nl](https://lago-maggiore.zwemwater.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
 |[https://whippets.zwemwater.nl](https://whippets.zwemwater.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
 |[https://draai.zwemwater.nl](https://draai.zwemwater.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
+|[https://giochi.zwemwater.nl](https://giochi.zwemwater.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
+|[https://warhol.zwemwater.nl](https://warhol.zwemwater.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
+|[https://loreal.zwemwater.nl](https://loreal.zwemwater.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
+|[https://1365.zwemwater.nl](https://1365.zwemwater.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
 

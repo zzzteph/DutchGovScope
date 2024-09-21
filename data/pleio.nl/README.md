@@ -12,8 +12,8 @@
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/pleio.nl/subdomains.txt)|7240|Alive subdomains|
-|[urls.txt](/data/pleio.nl/urls.txt)|6993|Urls|
-|[all_subdomains.txt](/data/pleio.nl/all_subdomains.txt)|7243|All found subdomains (history)|
+|[urls.txt](/data/pleio.nl/urls.txt)|6996|Urls|
+|[all_subdomains.txt](/data/pleio.nl/all_subdomains.txt)|7244|All found subdomains (history)|
 
 
 ## Statistics
@@ -1128,7 +1128,7 @@
 |[https://ysselsteyn.pleio.nl](https://ysselsteyn.pleio.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Domeinnaam nog n...|
 |[https://3am.pleio.nl](https://3am.pleio.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Domeinnaam nog n...|
 |[https://stoppenmetondernemen.pleio.nl](https://stoppenmetondernemen.pleio.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
-|[https://moodle-odcn.pleio.nl](https://moodle-odcn.pleio.nl)| | **F**|nginx/1.26.1| | | | | | | | :white_check_mark: | |HSTS Nginx:1.26.1|Doorverwijspagin...|
+|[https://moodle-odcn.pleio.nl](https://moodle-odcn.pleio.nl)| | **F**|nginx/1.26.2| | | | | | | | :white_check_mark: | |HSTS Nginx:1.26.2|Doorverwijspagin...|
 |[https://qastaging.pleio.nl](https://qastaging.pleio.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Domeinnaam nog n...|
 |[https://idesk.pleio.nl](https://idesk.pleio.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Domeinnaam nog n...|
 |[https://web18563.pleio.nl](https://web18563.pleio.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Domeinnaam nog n...|
@@ -7014,4 +7014,7 @@
 |[https://videobellen-jwt-only.pleio.nl](https://videobellen-jwt-only.pleio.nl)| | **C**|nginx/1.18.0 (Ubuntu)| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Nginx:1.18.0 Ubuntu|Jitsi Meet|
 |[https://pdfchecker.pleio.nl](https://pdfchecker.pleio.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS|404 Not Found|
 |[https://limesurvey.pleio.nl](https://limesurvey.pleio.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS|404 Not Found|
+|[https://msnp-admin.pleio.nl](https://msnp-admin.pleio.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|503 Service Temp...|
+|[https://msnp.pleio.nl](https://msnp.pleio.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|403 Forbidden|
+|[https://formulieren-new.pleio.nl](https://formulieren-new.pleio.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 

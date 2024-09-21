@@ -1,5 +1,5 @@
 https://rss.acceptatie.politie.nl
-http://carriere.politie.nl
+https://carriere.politie.nl
 https://fts.politie.nl
 https://publicaties.politie.nl
 https://kombijde.politie.nl
@@ -7,7 +7,7 @@ https://evenementen.politie.nl
 https://www.acceptatie.politie.nl
 https://transferium.politie.nl
 https://transferium.gslb-trf.politie.nl
-http://api.politie.nl
+https://api.politie.nl
 https://tbo.politie.nl
 https://edison.politie.nl
 https://sso.politie.nl

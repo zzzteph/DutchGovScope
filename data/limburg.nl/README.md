@@ -13,7 +13,7 @@
 |------------|-------|------|
 |[subdomains.txt](/data/limburg.nl/subdomains.txt)|14|Alive subdomains|
 |[urls.txt](/data/limburg.nl/urls.txt)|14|Urls|
-|[all_subdomains.txt](/data/limburg.nl/all_subdomains.txt)|73|All found subdomains (history)|
+|[all_subdomains.txt](/data/limburg.nl/all_subdomains.txt)|75|All found subdomains (history)|
 
 
 ## Statistics

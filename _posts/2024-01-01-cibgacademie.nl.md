@@ -2,9 +2,9 @@
 layout: default
 title: "cibgacademie.nl"
 permalink: "/dutchgov/cibgacademie.nl.html"
-subdomains_count: 2
+subdomains_count: 0
 all_subdomains_count: 2
-urls_count: 2
+urls_count: 0
 ssl_rank: 
 http_rank: F
 security_txt: 0
@@ -27,8 +27,8 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/cibgacademie.nl/subdomains.txt)|2|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/cibgacademie.nl/urls.txt)|2|Urls|
+|[subdomains.txt](/DutchGovScope/data/cibgacademie.nl/subdomains.txt)|0|Alive subdomains|
+|[urls.txt](/DutchGovScope/data/cibgacademie.nl/urls.txt)|0|Urls|
 |[all_subdomains.txt](/DutchGovScope/data/cibgacademie.nl/all_subdomains.txt)|2|All found subdomains (history)|
 
 
@@ -37,6 +37,4 @@ tags: dutchgov
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://www.cibgacademie.nl](https://www.cibgacademie.nl)| **F**| **E**|| | | | | | | | :white_check_mark: | |HSTS|301 Moved Perman...|
-|[https://cibgacademie.nl](https://cibgacademie.nl)| **F**| **F**|openresty/1.7.10.1| | | | | | | | :white_check_mark: | |HSTS Nginx OpenResty:1.7.10.1|301 Moved Perman...|
 

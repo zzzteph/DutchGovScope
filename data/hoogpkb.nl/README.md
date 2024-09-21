@@ -5,8 +5,8 @@
 
 
  - **SSL Grade**:C
- - **HTTP Security Grade**:E
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:2
+ - **HTTP Security Grade**:F
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:3
 
 
 | File       | Count | Info |
@@ -21,15 +21,15 @@
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://hoogpkb.nl](https://hoogpkb.nl)| **B**| **F**|nginx| | | | | | | | :white_check_mark: | |MySQL Nginx PHP WordPress||
-|[https://www.hoogpkb.nl](https://www.hoogpkb.nl)| **B**| **F**|nginx| | | | | | | | :white_check_mark: | |MySQL Nginx PHP WordPress:6.5.3 Yoast SEO:22.7 ZURB Foundation|HPKB - Hoog pers...|
-|[https://aanvraag.hoogpkb.nl](https://aanvraag.hoogpkb.nl)| **B**| **C**|Microsoft-IIS/8.5|:warning: |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS IIS:8.5 Microsoft ASP.NET:4.0.30319 Windows Server|HoogPKB - Aanvra...|
-|[https://hostmaster.hoogpkb.nl](https://hostmaster.hoogpkb.nl)| **F**| **F**|nginx| | | | | | | | :white_check_mark: | |Nginx||
+|[https://hoogpkb.nl](https://hoogpkb.nl)| **B**| **F**|nginx| | | :warning:| | | | | :white_check_mark: | |Nginx|301 Moved Perman...|
+|[https://www.hoogpkb.nl](https://www.hoogpkb.nl)| **B**| **F**|nginx| | | :warning:| | | | | :white_check_mark: | |Nginx|301 Moved Perman...|
+|[https://aanvraag.hoogpkb.nl](https://aanvraag.hoogpkb.nl)| **B**| **F**|nginx| | | :warning:| | | | | :white_check_mark: | |Nginx|301 Moved Perman...|
+|[https://hostmaster.hoogpkb.nl](https://hostmaster.hoogpkb.nl)| **F**| **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|Web Server's Def...|
 |[http://autodiscover.hoogpkb.nl](http://autodiscover.hoogpkb.nl)| | **B**|Microsoft-IIS/10.0|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server||
 |[https://ftp.hoogpkb.nl](https://ftp.hoogpkb.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|Web Server's Def...|
 |[https://barcelona.hoogpkb.nl](https://barcelona.hoogpkb.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|Web Server's Def...|
 |[https://moms.hoogpkb.nl](https://moms.hoogpkb.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|Web Server's Def...|
-|[https://longines.hoogpkb.nl](https://longines.hoogpkb.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx||
-|[https://kotka.hoogpkb.nl](https://kotka.hoogpkb.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx||
-|[https://securepromo.hoogpkb.nl](https://securepromo.hoogpkb.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx||
+|[https://longines.hoogpkb.nl](https://longines.hoogpkb.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|Web Server's Def...|
+|[https://kotka.hoogpkb.nl](https://kotka.hoogpkb.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|Web Server's Def...|
+|[https://securepromo.hoogpkb.nl](https://securepromo.hoogpkb.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|Web Server's Def...|
 
