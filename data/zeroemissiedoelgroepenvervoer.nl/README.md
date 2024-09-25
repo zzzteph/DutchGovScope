@@ -23,10 +23,10 @@
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[https://www.zeroemissiedoelgroepenvervoer.nl](https://www.zeroemissiedoelgroepenvervoer.nl)| **F**| **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server||
 |[https://zeroemissiedoelgroepenvervoer.nl](https://zeroemissiedoelgroepenvervoer.nl)| **F**| **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server MySQL PHP WordPress|Site is undergoi...|
-|[https://test.zeroemissiedoelgroepenvervoer.nl](https://test.zeroemissiedoelgroepenvervoer.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|test.zeroemissie...|
-|[https://accept.zeroemissiedoelgroepenvervoer.nl](https://accept.zeroemissiedoelgroepenvervoer.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|accept.zeroemiss...|
-|[https://www.accept.zeroemissiedoelgroepenvervoer.nl](https://www.accept.zeroemissiedoelgroepenvervoer.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|www.accept.zeroe...|
-|[https://www.test.zeroemissiedoelgroepenvervoer.nl](https://www.test.zeroemissiedoelgroepenvervoer.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|www.test.zeroemi...|
+|[https://test.zeroemissiedoelgroepenvervoer.nl](https://test.zeroemissiedoelgroepenvervoer.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server||
+|[https://accept.zeroemissiedoelgroepenvervoer.nl](https://accept.zeroemissiedoelgroepenvervoer.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server||
+|[https://www.accept.zeroemissiedoelgroepenvervoer.nl](https://www.accept.zeroemissiedoelgroepenvervoer.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server||
+|[https://www.test.zeroemissiedoelgroepenvervoer.nl](https://www.test.zeroemissiedoelgroepenvervoer.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server||
 |[https://hostmaster.zeroemissiedoelgroepenvervoer.nl](https://hostmaster.zeroemissiedoelgroepenvervoer.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server||
 |[http://autodiscover.zeroemissiedoelgroepenvervoer.nl](http://autodiscover.zeroemissiedoelgroepenvervoer.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server||
 |[http://autoconfig.zeroemissiedoelgroepenvervoer.nl](http://autoconfig.zeroemissiedoelgroepenvervoer.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server||

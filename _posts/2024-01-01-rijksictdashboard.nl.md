@@ -4,7 +4,7 @@ title: "rijksictdashboard.nl"
 permalink: "/dutchgov/rijksictdashboard.nl.html"
 subdomains_count: 10
 all_subdomains_count: 10
-urls_count: 9
+urls_count: 10
 ssl_rank: A+
 http_rank: B
 security_txt: 6
@@ -28,7 +28,7 @@ tags: dutchgov
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/DutchGovScope/data/rijksictdashboard.nl/subdomains.txt)|10|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/rijksictdashboard.nl/urls.txt)|9|Urls|
+|[urls.txt](/DutchGovScope/data/rijksictdashboard.nl/urls.txt)|10|Urls|
 |[all_subdomains.txt](/DutchGovScope/data/rijksictdashboard.nl/all_subdomains.txt)|10|All found subdomains (history)|
 
 
@@ -46,4 +46,5 @@ tags: dutchgov
 |[https://test.rijksictdashboard.nl](https://test.rijksictdashboard.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS|Rijks ICT-dashbo...|
 |[https://auth-acc.rijksictdashboard.nl](https://auth-acc.rijksictdashboard.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|Pagina niet gevo...|
 |[https://auth-tst.rijksictdashboard.nl](https://auth-tst.rijksictdashboard.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|Pagina niet gevo...|
+|[https://auth.rijksictdashboard.nl](https://auth.rijksictdashboard.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|Pagina niet gevo...|
 

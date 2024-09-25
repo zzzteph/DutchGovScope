@@ -24,7 +24,6 @@ directie.sp.nwo.nl
 dns2.nwo.nl
 gofer.nwo.nl
 han-messe.nwo.nl
-mailbyod.nwo.nl
 mx1.nwo.nl
 smtp.nwo.nl
 nwonano.nwo.nl

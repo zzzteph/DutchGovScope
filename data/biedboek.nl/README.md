@@ -11,8 +11,8 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/biedboek.nl/subdomains.txt)|6338|Alive subdomains|
-|[urls.txt](/data/biedboek.nl/urls.txt)|6298|Urls|
+|[subdomains.txt](/data/biedboek.nl/subdomains.txt)|6339|Alive subdomains|
+|[urls.txt](/data/biedboek.nl/urls.txt)|6299|Urls|
 |[all_subdomains.txt](/data/biedboek.nl/all_subdomains.txt)|6343|All found subdomains (history)|
 
 
@@ -737,6 +737,7 @@
 |[https://superstore.biedboek.nl](https://superstore.biedboek.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Microsoft Azure...|
 |[https://wchat.biedboek.nl](https://wchat.biedboek.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Microsoft Azure...|
 |[https://kontakt.biedboek.nl](https://kontakt.biedboek.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Microsoft Azure...|
+|[https://lyncdiscover.med.biedboek.nl](https://lyncdiscover.med.biedboek.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Microsoft Azure...|
 |[https://web18044.biedboek.nl](https://web18044.biedboek.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Microsoft Azure...|
 |[https://agha.biedboek.nl](https://agha.biedboek.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Microsoft Azure...|
 |[https://callaway.biedboek.nl](https://callaway.biedboek.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Microsoft Azure...|

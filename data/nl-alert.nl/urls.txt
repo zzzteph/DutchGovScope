@@ -5,3 +5,4 @@ https://opendata.nl-alert.nl
 https://opleiding.nl-alert.nl
 https://prod.nl-alert.nl
 https://test.nl-alert.nl
+https://actueel.nl-alert.nl

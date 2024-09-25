@@ -208,6 +208,7 @@ ssd.cbs.nl
 ps.cbs.nl
 accebms.cbs.nl
 amunet.cbs.nl
+microdata.cbs.nl
 carrier.cbs.nl
 login-databestanden.test.cbs.nl
 mijn.acceptatie.cbs.nl

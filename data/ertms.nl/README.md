@@ -11,9 +11,9 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/ertms.nl/subdomains.txt)|19|Alive subdomains|
+|[subdomains.txt](/data/ertms.nl/subdomains.txt)|24|Alive subdomains|
 |[urls.txt](/data/ertms.nl/urls.txt)|19|Urls|
-|[all_subdomains.txt](/data/ertms.nl/all_subdomains.txt)|37|All found subdomains (history)|
+|[all_subdomains.txt](/data/ertms.nl/all_subdomains.txt)|68|All found subdomains (history)|
 
 
 ## Statistics
@@ -24,14 +24,14 @@
 |[http://postmaster.ertms.nl](http://postmaster.ertms.nl)| **F**| **E**|| | | | | | | | :white_check_mark: | |||
 |[http://www.ertms.nl](http://www.ertms.nl)| **A+**| **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET||
 |[http://ertms.nl](http://ertms.nl)| **A+**| **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET||
-|[http://ns1.ertms.nl](http://ns1.ertms.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
+|[https://ns1.ertms.nl](https://ns1.ertms.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Object moved|
 |[http://elink.ertms.nl](http://elink.ertms.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[http://vakantie-frankrijk.ertms.nl](http://vakantie-frankrijk.ertms.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[http://click.enews.ertms.nl](http://click.enews.ertms.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
-|[http://out.ertms.nl](http://out.ertms.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
-|[http://hegang.ertms.nl](http://hegang.ertms.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
-|[http://achthuizen.ertms.nl](http://achthuizen.ertms.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
-|[http://saras.ertms.nl](http://saras.ertms.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
+|[https://out.ertms.nl](https://out.ertms.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Object moved|
+|[https://hegang.ertms.nl](https://hegang.ertms.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Object moved|
+|[https://achthuizen.ertms.nl](https://achthuizen.ertms.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Object moved|
+|[https://saras.ertms.nl](https://saras.ertms.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Object moved|
 |[http://magma.ertms.nl](http://magma.ertms.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[http://anso.ertms.nl](http://anso.ertms.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[http://help6.ertms.nl](http://help6.ertms.nl)| | **E**|| | | | | | | | :white_check_mark: | |||

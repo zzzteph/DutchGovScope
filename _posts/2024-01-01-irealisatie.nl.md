@@ -3,8 +3,8 @@ layout: default
 title: "irealisatie.nl"
 permalink: "/dutchgov/irealisatie.nl.html"
 subdomains_count: 73
-all_subdomains_count: 73
-urls_count: 66
+all_subdomains_count: 74
+urls_count: 67
 ssl_rank: 
 http_rank: B
 security_txt: 52
@@ -28,8 +28,8 @@ tags: dutchgov
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/DutchGovScope/data/irealisatie.nl/subdomains.txt)|73|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/irealisatie.nl/urls.txt)|66|Urls|
-|[all_subdomains.txt](/DutchGovScope/data/irealisatie.nl/all_subdomains.txt)|73|All found subdomains (history)|
+|[urls.txt](/DutchGovScope/data/irealisatie.nl/urls.txt)|67|Urls|
+|[all_subdomains.txt](/DutchGovScope/data/irealisatie.nl/all_subdomains.txt)|74|All found subdomains (history)|
 
 
 ## Statistics
@@ -37,7 +37,7 @@ tags: dutchgov
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://balie.woo.irealisatie.nl](https://balie.woo.irealisatie.nl)| | **B**|Apache| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server Basic HSTS|401 Unauthorized|
+|[https://balie.woo.irealisatie.nl](https://balie.woo.irealisatie.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Redirecting to /...|
 |[https://helpdesk.acc.irealisatie.nl](https://helpdesk.acc.irealisatie.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS||
 |[http://login.irealisatie.nl](http://login.irealisatie.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||
 |[https://stats.irealisatie.nl](https://stats.irealisatie.nl)| | **B**|nginx|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |AngularJS HSTS Matomo Analytics Nginx|Sign in - Matomo|
@@ -103,4 +103,5 @@ tags: dutchgov
 |[https://cts.acc.woo.irealisatie.nl](https://cts.acc.woo.irealisatie.nl)| | **B**|Apache| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server Basic HSTS|401 Unauthorized|
 |[https://stats.test.zm.irealisatie.nl](https://stats.test.zm.irealisatie.nl)| | **B**|Apache| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server Basic HSTS|401 Unauthorized|
 |[http://acc.woo.irealisatie.nl](http://acc.woo.irealisatie.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
+|[http://storage.acc.mgo.irealisatie.nl](http://storage.acc.mgo.irealisatie.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 

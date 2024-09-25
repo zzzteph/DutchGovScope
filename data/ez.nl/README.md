@@ -12,7 +12,7 @@
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/ez.nl/subdomains.txt)|30|Alive subdomains|
-|[urls.txt](/data/ez.nl/urls.txt)|27|Urls|
+|[urls.txt](/data/ez.nl/urls.txt)|28|Urls|
 |[all_subdomains.txt](/data/ez.nl/all_subdomains.txt)|143|All found subdomains (history)|
 
 
@@ -48,4 +48,5 @@
 |[http://veiligheid.ez.nl](http://veiligheid.ez.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[http://ondernemerschap.ez.nl](http://ondernemerschap.ez.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[http://aanbesteden.ez.nl](http://aanbesteden.ez.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
+|[http://flexbv.ez.nl](http://flexbv.ez.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 

@@ -11,7 +11,7 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/zovar.nl/subdomains.txt)|11|Alive subdomains|
+|[subdomains.txt](/data/zovar.nl/subdomains.txt)|10|Alive subdomains|
 |[urls.txt](/data/zovar.nl/urls.txt)|6|Urls|
 |[all_subdomains.txt](/data/zovar.nl/all_subdomains.txt)|21|All found subdomains (history)|
 

@@ -12,7 +12,7 @@
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/rijksictdashboard.nl/subdomains.txt)|10|Alive subdomains|
-|[urls.txt](/data/rijksictdashboard.nl/urls.txt)|9|Urls|
+|[urls.txt](/data/rijksictdashboard.nl/urls.txt)|10|Urls|
 |[all_subdomains.txt](/data/rijksictdashboard.nl/all_subdomains.txt)|10|All found subdomains (history)|
 
 
@@ -30,4 +30,5 @@
 |[https://test.rijksictdashboard.nl](https://test.rijksictdashboard.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS|Rijks ICT-dashbo...|
 |[https://auth-acc.rijksictdashboard.nl](https://auth-acc.rijksictdashboard.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|Pagina niet gevo...|
 |[https://auth-tst.rijksictdashboard.nl](https://auth-tst.rijksictdashboard.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|Pagina niet gevo...|
+|[https://auth.rijksictdashboard.nl](https://auth.rijksictdashboard.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|Pagina niet gevo...|
 

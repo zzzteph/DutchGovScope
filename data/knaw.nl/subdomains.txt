@@ -671,7 +671,6 @@ www.oorlogsdoc.knaw.nl
 www03.niod.knaw.nl
 gfs-ro01.knaw.nl
 gfs-router01.knaw.nl
-gharvester-oai.dans.knaw.nl
 gharvester-rss.dans.knaw.nl
 gharvester-wcp.dans.knaw.nl
 gharvester31.dans.knaw.nl
@@ -1242,7 +1241,6 @@ version-tracker.labs.dans.knaw.nl
 vsoi-test.dans.knaw.nl
 fairaware.labs.dans.knaw.nl
 fairevaapi.labs.dans.knaw.nl
-flow.labs.dans.knaw.nl
 resolver.labs.dans.knaw.nl
 dataciteminter.labs.dans.knaw.nl
 airflow.labs.dans.knaw.nl

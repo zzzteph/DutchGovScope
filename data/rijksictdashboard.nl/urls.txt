@@ -7,3 +7,4 @@ https://test.beheer.rijksictdashboard.nl
 https://test.rijksictdashboard.nl
 https://auth-acc.rijksictdashboard.nl
 https://auth-tst.rijksictdashboard.nl
+https://auth.rijksictdashboard.nl

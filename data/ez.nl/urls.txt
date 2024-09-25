@@ -25,3 +25,4 @@ http://video.ez.nl
 http://veiligheid.ez.nl
 http://ondernemerschap.ez.nl
 http://aanbesteden.ez.nl
+http://flexbv.ez.nl

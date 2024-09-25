@@ -103,8 +103,13 @@ https://portal.ip.test.duo.rijkscloud.nl
 https://ip.test.duo.rijkscloud.nl
 https://rstudio.ip.test.duo.rijkscloud.nl
 https://projects.pages.ds-ocw.rijkscloud.nl
+https://nextcloud.tst.rijkscloud.nl
+https://registry.gitlab.mintst1.ix.rijkscloud.nl
 https://rob-2000.rijkscloud.nl
+https://gitlab.mintst1.ix.rijkscloud.nl
 https://rob2000.rijkscloud.nl
+https://pages.mintst1.ix.rijkscloud.nl
+https://projects.pages.mintst1.ix.rijkscloud.nl
 https://diplomaonderzoek.dfront.rijkscloud.nl
 https://particulier.dfront.rijkscloud.nl
 https://afwijkend-examineren.dfront.rijkscloud.nl

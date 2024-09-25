@@ -69,8 +69,10 @@ https://dogan.valys.nl
 https://fifteen.valys.nl
 https://1993.valys.nl
 https://0180.valys.nl
+https://beta-www.valys.nl
 https://balakovo.valys.nl
 https://johnlewis.valys.nl
+https://omms.valys.nl
 https://scheiding.valys.nl
 https://iwi.valys.nl
 https://mysql6.valys.nl

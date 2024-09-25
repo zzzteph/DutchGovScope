@@ -5,7 +5,7 @@
 
 
  - **SSL Grade**:A+
- - **HTTP Security Grade**:C
+ - **HTTP Security Grade**:D
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:0
 
 
@@ -23,6 +23,6 @@
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[https://www.cioweb.nl](https://www.cioweb.nl)| **A+**| **C**|Apache/2.4.56 (Fedora Linux) OpenSSL/3.0.8| |:white_check_mark: | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.56 Fedora HSTS MySQL OpenSSL:3.0.8 PHP:8.1.16 UIKit WordPress:6.6.1 Yoast SEO:23.3|Welkom op CIO we...|
 |[https://cioweb.nl](https://cioweb.nl)| **A+**| **C**|Apache/2.4.56 (Fedora Linux) OpenSSL/3.0.8| |:white_check_mark: | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.56 Fedora HSTS OpenSSL:3.0.8|301 Moved Perman...|
-|[http://autodiscover.cioweb.nl](http://autodiscover.cioweb.nl)| | **B**|Microsoft-IIS/10.0|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server||
+|[http://autodiscover.cioweb.nl](http://autodiscover.cioweb.nl)| | **C**|Microsoft-IIS/10.0| |:white_check_mark: | | | | | | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server||
 |[https://ftp.cioweb.nl](https://ftp.cioweb.nl)| | **F**|Apache/2.4.56 (Fedora Linux) OpenSSL/3.0.8| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.56 Fedora HSTS OpenSSL:3.0.8|301 Moved Perman...|
 

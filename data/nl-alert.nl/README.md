@@ -12,7 +12,7 @@
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/nl-alert.nl/subdomains.txt)|15|Alive subdomains|
-|[urls.txt](/data/nl-alert.nl/urls.txt)|7|Urls|
+|[urls.txt](/data/nl-alert.nl/urls.txt)|8|Urls|
 |[all_subdomains.txt](/data/nl-alert.nl/all_subdomains.txt)|18|All found subdomains (history)|
 
 
@@ -28,4 +28,5 @@
 |[https://opleiding.nl-alert.nl](https://opleiding.nl-alert.nl)| **A+**| **A**||:warning: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |AngularJS HSTS||
 |[https://prod.nl-alert.nl](https://prod.nl-alert.nl)| **A+**| **A**||:warning: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |AngularJS HSTS||
 |[https://test.nl-alert.nl](https://test.nl-alert.nl)| **A+**| **A**||:warning: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |AngularJS HSTS||
+|[https://actueel.nl-alert.nl](https://actueel.nl-alert.nl)| | **F**|UploadServer| | | | | | | | :white_check_mark: | |Google Cloud Google Cloud CDN Google Cloud Storage HTTP/3 Node.js Nuxt.js Vue.js|Actueel | NL Ale...|
 

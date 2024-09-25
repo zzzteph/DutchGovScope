@@ -16,8 +16,6 @@ cbs.acpt.nationaalarchief.nl
 cbs.nationaalarchief.nl
 chat.acpt.nationaalarchief.nl
 chat.nationaalarchief.nl
-confluence.acpt.nationaalarchief.nl
-confluence.nationaalarchief.nl
 crm.nationaalarchief.nl
 development.nationaalarchief.nl
 digikoppeling-acpt.nationaalarchief.nl
@@ -53,8 +51,6 @@ gaf.nationaalarchief.nl
 registratietool.nationaalarchief.nl
 gateway.nationaalarchief.nl
 graphdb.nationaalarchief.nl
-jira.acpt.nationaalarchief.nl
-jira.nationaalarchief.nl
 lbrproxy.prod.nationaalarchief.nl
 lbrproxy.test.nationaalarchief.nl
 test.nationaalarchief.nl

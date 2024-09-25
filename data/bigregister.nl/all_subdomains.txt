@@ -42,3 +42,4 @@ resultaten-toegankelijkheidsonderzoek-www.bigregister.nl
 a-magazines.a-english.bigregister.nl
 a-feeds.bigregister.nl
 acceptatie.behandel.bigregister.nl
+behandel.bigregister.nl

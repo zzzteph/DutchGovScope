@@ -2,7 +2,7 @@
 layout: default
 title: "co2emissiefactoren.nl"
 permalink: "/dutchgov/co2emissiefactoren.nl.html"
-subdomains_count: 18
+subdomains_count: 19
 all_subdomains_count: 19
 urls_count: 18
 ssl_rank: E
@@ -27,7 +27,7 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/co2emissiefactoren.nl/subdomains.txt)|18|Alive subdomains|
+|[subdomains.txt](/DutchGovScope/data/co2emissiefactoren.nl/subdomains.txt)|19|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/co2emissiefactoren.nl/urls.txt)|18|Urls|
 |[all_subdomains.txt](/DutchGovScope/data/co2emissiefactoren.nl/all_subdomains.txt)|19|All found subdomains (history)|
 

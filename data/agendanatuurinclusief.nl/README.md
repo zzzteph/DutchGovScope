@@ -12,7 +12,7 @@
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/agendanatuurinclusief.nl/subdomains.txt)|5|Alive subdomains|
-|[urls.txt](/data/agendanatuurinclusief.nl/urls.txt)|4|Urls|
+|[urls.txt](/data/agendanatuurinclusief.nl/urls.txt)|5|Urls|
 |[all_subdomains.txt](/data/agendanatuurinclusief.nl/all_subdomains.txt)|5|All found subdomains (history)|
 
 
@@ -25,4 +25,5 @@
 |[https://www.agendanatuurinclusief.nl](https://www.agendanatuurinclusief.nl)| | **F**|Apache/2| | | | | | | | :white_check_mark: | |Apache HTTP Server:2|302 Found|
 |[https://mail.agendanatuurinclusief.nl](https://mail.agendanatuurinclusief.nl)| | **F**|Apache/2| | | | | | | | :white_check_mark: | |Apache HTTP Server:2||
 |[https://hostmaster.agendanatuurinclusief.nl](https://hostmaster.agendanatuurinclusief.nl)| | **F**|Apache/2| | | | | | | | :white_check_mark: | |Apache HTTP Server:2||
+|[https://ww.agendanatuurinclusief.nl](https://ww.agendanatuurinclusief.nl)| | **F**|Apache/2| | | | | | | | :white_check_mark: | |Apache HTTP Server:2||
 

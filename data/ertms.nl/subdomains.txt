@@ -17,3 +17,8 @@ mta26.ertms.nl
 ghh.ertms.nl
 bambie.ertms.nl
 web.ertms.nl
+telesales.ertms.nl
+4-6.ertms.nl
+aboutmylife.ertms.nl
+ows-dmnsapi.ertms.nl
+dcg.ertms.nl

@@ -35,8 +35,8 @@ http://app-a5.digid.nl
 https://app-o1.digid.nl
 http://app-a1.digid.nl
 http://app-a6.digid.nl
-http://rijbewijs.cis-test2.digid.nl
 http://app-a2.digid.nl
+https://www.pp1.machtigen.digid.nl
 https://ontwikkel.machtigen.digid.nl
 https://acceptatie.machtigen.digid.nl
 https://ob.ontwikkel.machtigen.digid.nl

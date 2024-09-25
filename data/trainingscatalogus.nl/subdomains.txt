@@ -235,3 +235,5 @@ alliander-lms-t.enrollment-api.trainingscatalogus.nl
 alliander-lms-t.course-api.trainingscatalogus.nl
 alliander-lms-t.scim-api.trainingscatalogus.nl
 alliander-lms-t.product-api.trainingscatalogus.nl
+product-api.schiphol-lms-t.trainingscatalogus.nl
+product-api.schiphol-lms-a.trainingscatalogus.nl

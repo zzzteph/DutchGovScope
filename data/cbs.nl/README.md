@@ -11,8 +11,8 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/cbs.nl/subdomains.txt)|228|Alive subdomains|
-|[urls.txt](/data/cbs.nl/urls.txt)|184|Urls|
+|[subdomains.txt](/data/cbs.nl/subdomains.txt)|229|Alive subdomains|
+|[urls.txt](/data/cbs.nl/urls.txt)|185|Urls|
 |[all_subdomains.txt](/data/cbs.nl/all_subdomains.txt)|309|All found subdomains (history)|
 
 
@@ -197,6 +197,7 @@
 |[https://brandportal.cbs.nl](https://brandportal.cbs.nl)| | **F**|Apache/2| | | | | | | | :white_check_mark: | |Apache HTTP Server:2||
 |[http://sdmx-dataexplorer-beta.cbs.nl](http://sdmx-dataexplorer-beta.cbs.nl)| | **F**|Kestrel| | | | | | | | :white_check_mark: | |Kestrel Microsoft ASP.NET|Your Azure Funct...|
 |[http://sdmx-share.cbs.nl](http://sdmx-share.cbs.nl)| | **F**|Kestrel| | | | | | | | :white_check_mark: | |Kestrel Microsoft ASP.NET|Your Azure Funct...|
+|[http://sdmx-dataviewer.cbs.nl](http://sdmx-dataviewer.cbs.nl)| | **F**|Kestrel| | | | | | | | :white_check_mark: | |Kestrel Microsoft ASP.NET|Your Azure Funct...|
 |[http://sdmx-search-beta.cbs.nl](http://sdmx-search-beta.cbs.nl)| | **F**|Kestrel| | | | | | | | :white_check_mark: | |Kestrel Microsoft ASP.NET|Your Azure Funct...|
 |[http://sdmx-api-beta.cbs.nl](http://sdmx-api-beta.cbs.nl)| | **F**|Kestrel| | | | | | | | :white_check_mark: | |Kestrel Microsoft ASP.NET|Your Azure Funct...|
 |[https://search.beta.cbs.nl](https://search.beta.cbs.nl)| | **B**|envoy| |:white_check_mark: | :warning:| | :white_check_mark:| | | :white_check_mark: | |Envoy Express HSTS Node.js|Error|

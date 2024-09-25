@@ -12,8 +12,8 @@
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/irealisatie.nl/subdomains.txt)|73|Alive subdomains|
-|[urls.txt](/data/irealisatie.nl/urls.txt)|66|Urls|
-|[all_subdomains.txt](/data/irealisatie.nl/all_subdomains.txt)|73|All found subdomains (history)|
+|[urls.txt](/data/irealisatie.nl/urls.txt)|67|Urls|
+|[all_subdomains.txt](/data/irealisatie.nl/all_subdomains.txt)|74|All found subdomains (history)|
 
 
 ## Statistics
@@ -21,7 +21,7 @@
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://balie.woo.irealisatie.nl](https://balie.woo.irealisatie.nl)| | **B**|Apache| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server Basic HSTS|401 Unauthorized|
+|[https://balie.woo.irealisatie.nl](https://balie.woo.irealisatie.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Redirecting to /...|
 |[https://helpdesk.acc.irealisatie.nl](https://helpdesk.acc.irealisatie.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS||
 |[http://login.irealisatie.nl](http://login.irealisatie.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||
 |[https://stats.irealisatie.nl](https://stats.irealisatie.nl)| | **B**|nginx|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |AngularJS HSTS Matomo Analytics Nginx|Sign in - Matomo|
@@ -87,4 +87,5 @@
 |[https://cts.acc.woo.irealisatie.nl](https://cts.acc.woo.irealisatie.nl)| | **B**|Apache| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server Basic HSTS|401 Unauthorized|
 |[https://stats.test.zm.irealisatie.nl](https://stats.test.zm.irealisatie.nl)| | **B**|Apache| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server Basic HSTS|401 Unauthorized|
 |[http://acc.woo.irealisatie.nl](http://acc.woo.irealisatie.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
+|[http://storage.acc.mgo.irealisatie.nl](http://storage.acc.mgo.irealisatie.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 

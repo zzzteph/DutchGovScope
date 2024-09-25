@@ -5,7 +5,7 @@
 
 
  - **SSL Grade**:A
- - **HTTP Security Grade**:A
+ - **HTTP Security Grade**:B
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:2
 
 
@@ -27,5 +27,5 @@
 |[https://www.isdbollenstreek.nl](https://www.isdbollenstreek.nl)| **A+**| **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache Tomcat Green Valley CMS HSTS Java Linkedin Ads|Home - ISD Bolle...|
 |[https://isdbollenstreek.nl](https://isdbollenstreek.nl)| **A+**| **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache Tomcat Green Valley CMS HSTS Java Linkedin Ads|Home - ISD Bolle...|
 |[https://mijnloket.isdbollenstreek.nl](https://mijnloket.isdbollenstreek.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|Internal Server...|
-|[http://autodiscover.isdbollenstreek.nl](http://autodiscover.isdbollenstreek.nl)| | **B**|Microsoft-IIS/10.0|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server||
+|[http://autodiscover.isdbollenstreek.nl](http://autodiscover.isdbollenstreek.nl)| | **C**|Microsoft-IIS/10.0| |:white_check_mark: | | | | | | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server||
 

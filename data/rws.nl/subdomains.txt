@@ -260,3 +260,13 @@ eventrecorder.ptp.acc-inloggen.rws.nl
 gw01-ns1.rws.nl
 gw01-ns2.rws.nl
 werkplek.gw01-gslb.rws.nl
+fcd-acc-bemobile-aid-triggers-actuators.dmz.vm-04.azure.grid.rws.nl
+fcd-acc-bemobile-trajectorien-actuators.dmz.vm-04.azure.grid.rws.nl
+keycloak.vm-05.azure.grid.rws.nl
+fcd-acc-bemobile-trajectorien.dmz.vm-04.azure.grid.rws.nl
+chartmuseum.test.vm-04.azure.grid.rws.nl
+keycloak-admin.vm-05.azure.grid.rws.nl
+mip-proxy-prod.rws.nl
+chartmuseum.dmz.vm-04.azure.grid.rws.nl
+chat-api.vm-05.azure.grid.rws.nl
+langfuse-test.vm-05.azure.grid.rws.nl

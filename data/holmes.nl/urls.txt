@@ -7,4 +7,8 @@ http://keystore01.prod-ext.hansken.holmes.nl
 http://osm.hansken.holmes.nl
 http://preference01.prod-ext.hansken.holmes.nl
 https://downloads.holmes.nl
+https://holmes.nl
 https://www.holmes.nl
+http://dfaas-proxy-01.holmes.nl
+http://dfaas-proxy.holmes.nl
+http://dfaas-proxy-02.holmes.nl

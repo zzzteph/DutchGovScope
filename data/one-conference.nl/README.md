@@ -11,8 +11,8 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/one-conference.nl/subdomains.txt)|8918|Alive subdomains|
-|[urls.txt](/data/one-conference.nl/urls.txt)|8718|Urls|
+|[subdomains.txt](/data/one-conference.nl/subdomains.txt)|9370|Alive subdomains|
+|[urls.txt](/data/one-conference.nl/urls.txt)|8722|Urls|
 |[all_subdomains.txt](/data/one-conference.nl/all_subdomains.txt)|9584|All found subdomains (history)|
 
 
@@ -8739,4 +8739,8 @@
 |[https://eevee.one-conference.nl](https://eevee.one-conference.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server||
 |[https://holiday.one-conference.nl](https://holiday.one-conference.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server||
 |[https://huiskopen.one-conference.nl](https://huiskopen.one-conference.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server||
+|[https://woudsend.one-conference.nl](https://woudsend.one-conference.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server||
+|[https://ict-vacatures.one-conference.nl](https://ict-vacatures.one-conference.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server||
+|[https://stb.one-conference.nl](https://stb.one-conference.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server||
+|[https://cycle.one-conference.nl](https://cycle.one-conference.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server||
 

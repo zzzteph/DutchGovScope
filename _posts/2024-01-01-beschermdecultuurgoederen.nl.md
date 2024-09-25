@@ -2,7 +2,7 @@
 layout: default
 title: "beschermdecultuurgoederen.nl"
 permalink: "/dutchgov/beschermdecultuurgoederen.nl.html"
-subdomains_count: 0
+subdomains_count: 5
 all_subdomains_count: 8
 urls_count: 0
 ssl_rank: 
@@ -27,7 +27,7 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/beschermdecultuurgoederen.nl/subdomains.txt)|0|Alive subdomains|
+|[subdomains.txt](/DutchGovScope/data/beschermdecultuurgoederen.nl/subdomains.txt)|5|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/beschermdecultuurgoederen.nl/urls.txt)|0|Urls|
 |[all_subdomains.txt](/DutchGovScope/data/beschermdecultuurgoederen.nl/all_subdomains.txt)|8|All found subdomains (history)|
 
