@@ -12,7 +12,7 @@
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/gezondeschool.nl/subdomains.txt)|17|Alive subdomains|
-|[urls.txt](/data/gezondeschool.nl/urls.txt)|13|Urls|
+|[urls.txt](/data/gezondeschool.nl/urls.txt)|14|Urls|
 |[all_subdomains.txt](/data/gezondeschool.nl/all_subdomains.txt)|19|All found subdomains (history)|
 
 
@@ -34,4 +34,5 @@
 |[https://msoid.gezondeschool.nl](https://msoid.gezondeschool.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Object moved|
 |[http://ftp.gezondeschool.nl](http://ftp.gezondeschool.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server Bootstrap:4.3.1 PHP:7.4.33 Varnish|geregistreerd vi...|
 |[https://jouw.gezondeschool.nl](https://jouw.gezondeschool.nl)| | **F**|nginx|:o: | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Nginx|Redirecting to h...|
+|[https://www.jouw.gezondeschool.nl](https://www.jouw.gezondeschool.nl)| | **F**|nginx|:o: | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Nginx|301 Moved Perman...|
 

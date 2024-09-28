@@ -154,6 +154,7 @@ ob.acc3.machtigen.digid.nl
 eid-a1.digid.nl
 ontwikkel.machtigen.digid.nl
 was-a3.digid.nl
+cis-a6.digid.nl
 api.acc3.machtigen.digid.nl
 balie-a1.digid.nl
 acceptatie.machtigen.digid.nl

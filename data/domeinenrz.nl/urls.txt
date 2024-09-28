@@ -13,4 +13,5 @@ https://vuurwerk.domeinenrz.nl
 https://www.domeinenrz.nl
 https://domeinenrz.nl
 https://enterpriseenrollment.domeinenrz.nl
+http://autodiscover.domeinenrz.nl
 https://services-test.domeinenrz.nl

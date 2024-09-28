@@ -6,14 +6,14 @@
 
  - **SSL Grade**:A-
  - **HTTP Security Grade**:A
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:95
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:96
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/pleio.nl/subdomains.txt)|7240|Alive subdomains|
-|[urls.txt](/data/pleio.nl/urls.txt)|6996|Urls|
-|[all_subdomains.txt](/data/pleio.nl/all_subdomains.txt)|7244|All found subdomains (history)|
+|[subdomains.txt](/data/pleio.nl/subdomains.txt)|7242|Alive subdomains|
+|[urls.txt](/data/pleio.nl/urls.txt)|6997|Urls|
+|[all_subdomains.txt](/data/pleio.nl/all_subdomains.txt)|7245|All found subdomains (history)|
 
 
 ## Statistics
@@ -7017,4 +7017,5 @@
 |[https://msnp-admin.pleio.nl](https://msnp-admin.pleio.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|503 Service Temp...|
 |[https://msnp.pleio.nl](https://msnp.pleio.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|403 Forbidden|
 |[https://formulieren-new.pleio.nl](https://formulieren-new.pleio.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
+|[https://storybook.pleio.nl](https://storybook.pleio.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|@storybook/core...|
 

@@ -6,13 +6,13 @@
 
  - **SSL Grade**:A+
  - **HTTP Security Grade**:C
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:48
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:49
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/trainingscatalogus.nl/subdomains.txt)|239|Alive subdomains|
-|[urls.txt](/data/trainingscatalogus.nl/urls.txt)|126|Urls|
+|[subdomains.txt](/data/trainingscatalogus.nl/subdomains.txt)|245|Alive subdomains|
+|[urls.txt](/data/trainingscatalogus.nl/urls.txt)|127|Urls|
 |[all_subdomains.txt](/data/trainingscatalogus.nl/all_subdomains.txt)|256|All found subdomains (history)|
 
 
@@ -147,4 +147,5 @@
 |[https://tennetlms-a.trainingscatalogus.nl](https://tennetlms-a.trainingscatalogus.nl)| | **A**|Class|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Access is denied...|
 |[https://belastingdienst-t.trainingscatalogus.nl](https://belastingdienst-t.trainingscatalogus.nl)| | **A**|Class|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://rabobank-lms-a.trainingscatalogus.nl](https://rabobank-lms-a.trainingscatalogus.nl)| | **A**|Class|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Access is denied...|
+|[https://lms-tragelacademie.trainingscatalogus.nl](https://lms-tragelacademie.trainingscatalogus.nl)| | **A**|Class|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Access is denied...|
 

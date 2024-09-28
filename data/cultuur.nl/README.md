@@ -11,7 +11,7 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/cultuur.nl/subdomains.txt)|12|Alive subdomains|
+|[subdomains.txt](/data/cultuur.nl/subdomains.txt)|13|Alive subdomains|
 |[urls.txt](/data/cultuur.nl/urls.txt)|9|Urls|
 |[all_subdomains.txt](/data/cultuur.nl/all_subdomains.txt)|42|All found subdomains (history)|
 

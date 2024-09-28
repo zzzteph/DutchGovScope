@@ -12,7 +12,7 @@
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/biedboek.nl/subdomains.txt)|6339|Alive subdomains|
-|[urls.txt](/data/biedboek.nl/urls.txt)|6299|Urls|
+|[urls.txt](/data/biedboek.nl/urls.txt)|6336|Urls|
 |[all_subdomains.txt](/data/biedboek.nl/all_subdomains.txt)|6343|All found subdomains (history)|
 
 
@@ -6320,4 +6320,41 @@
 |[https://nebraska.biedboek.nl](https://nebraska.biedboek.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Microsoft Azure...|
 |[https://analyticswww.biedboek.nl](https://analyticswww.biedboek.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Microsoft Azure...|
 |[https://click.sfmc.biedboek.nl](https://click.sfmc.biedboek.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Microsoft Azure...|
+|[https://gratisbellen.biedboek.nl](https://gratisbellen.biedboek.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Microsoft Azure...|
+|[https://devportal.biedboek.nl](https://devportal.biedboek.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Microsoft Azure...|
+|[https://web3382.biedboek.nl](https://web3382.biedboek.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Microsoft Azure...|
+|[https://av4.biedboek.nl](https://av4.biedboek.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Microsoft Azure...|
+|[https://mansour.biedboek.nl](https://mansour.biedboek.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Microsoft Azure...|
+|[https://pa2.biedboek.nl](https://pa2.biedboek.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Microsoft Azure...|
+|[https://thrissur.biedboek.nl](https://thrissur.biedboek.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Microsoft Azure...|
+|[https://useast.biedboek.nl](https://useast.biedboek.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Microsoft Azure...|
+|[https://fr3.biedboek.nl](https://fr3.biedboek.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Microsoft Azure...|
+|[https://prullenbak.biedboek.nl](https://prullenbak.biedboek.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Microsoft Azure...|
+|[https://gabrielle.biedboek.nl](https://gabrielle.biedboek.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Microsoft Azure...|
+|[https://www-gp-web-1732.biedboek.nl](https://www-gp-web-1732.biedboek.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Microsoft Azure...|
+|[https://heezeleende.biedboek.nl](https://heezeleende.biedboek.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Microsoft Azure...|
+|[https://smtp12.biedboek.nl](https://smtp12.biedboek.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Microsoft Azure...|
+|[https://bakugan.biedboek.nl](https://bakugan.biedboek.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Microsoft Azure...|
+|[https://siteanalytics.biedboek.nl](https://siteanalytics.biedboek.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Microsoft Azure...|
+|[https://fae.biedboek.nl](https://fae.biedboek.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Microsoft Azure...|
+|[https://folsgare.biedboek.nl](https://folsgare.biedboek.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Microsoft Azure...|
+|[https://ismc.biedboek.nl](https://ismc.biedboek.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Microsoft Azure...|
+|[https://cvi.biedboek.nl](https://cvi.biedboek.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Microsoft Azure...|
+|[https://webmail.research.biedboek.nl](https://webmail.research.biedboek.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Microsoft Azure...|
+|[https://businesscare.biedboek.nl](https://businesscare.biedboek.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Microsoft Azure...|
+|[https://jaybird.biedboek.nl](https://jaybird.biedboek.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Microsoft Azure...|
+|[https://pagina-info-financieel.biedboek.nl](https://pagina-info-financieel.biedboek.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Microsoft Azure...|
+|[https://quilt.biedboek.nl](https://quilt.biedboek.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Microsoft Azure...|
+|[https://fedora.biedboek.nl](https://fedora.biedboek.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Microsoft Azure...|
+|[https://antispam2.biedboek.nl](https://antispam2.biedboek.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Microsoft Azure...|
+|[https://b2bgw.biedboek.nl](https://b2bgw.biedboek.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Microsoft Azure...|
+|[https://nabu.biedboek.nl](https://nabu.biedboek.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Microsoft Azure...|
+|[https://nln.biedboek.nl](https://nln.biedboek.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Microsoft Azure...|
+|[https://ezone.biedboek.nl](https://ezone.biedboek.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Microsoft Azure...|
+|[https://familiefeest.biedboek.nl](https://familiefeest.biedboek.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Microsoft Azure...|
+|[https://cocof.biedboek.nl](https://cocof.biedboek.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Microsoft Azure...|
+|[https://immerse.biedboek.nl](https://immerse.biedboek.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Microsoft Azure...|
+|[https://1shop.biedboek.nl](https://1shop.biedboek.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Microsoft Azure...|
+|[https://fisglobal.biedboek.nl](https://fisglobal.biedboek.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Microsoft Azure...|
+|[https://app01.biedboek.nl](https://app01.biedboek.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Microsoft Azure...|
 

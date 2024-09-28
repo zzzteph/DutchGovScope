@@ -4,7 +4,7 @@ title: "domeinenrz.nl"
 permalink: "/dutchgov/domeinenrz.nl.html"
 subdomains_count: 33
 all_subdomains_count: 48
-urls_count: 16
+urls_count: 17
 ssl_rank: A-
 http_rank: C
 security_txt: 9
@@ -28,7 +28,7 @@ tags: dutchgov
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/DutchGovScope/data/domeinenrz.nl/subdomains.txt)|33|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/domeinenrz.nl/urls.txt)|16|Urls|
+|[urls.txt](/DutchGovScope/data/domeinenrz.nl/urls.txt)|17|Urls|
 |[all_subdomains.txt](/DutchGovScope/data/domeinenrz.nl/all_subdomains.txt)|48|All found subdomains (history)|
 
 
@@ -52,5 +52,6 @@ tags: dutchgov
 |[https://www.domeinenrz.nl](https://www.domeinenrz.nl)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Home | Domeinen...|
 |[https://domeinenrz.nl](https://domeinenrz.nl)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
 |[https://enterpriseenrollment.domeinenrz.nl](https://enterpriseenrollment.domeinenrz.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||
+|[http://autodiscover.domeinenrz.nl](http://autodiscover.domeinenrz.nl)| | **C**|Microsoft-IIS/10.0| |:white_check_mark: | | | | | | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server||
 |[https://services-test.domeinenrz.nl](https://services-test.domeinenrz.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
 

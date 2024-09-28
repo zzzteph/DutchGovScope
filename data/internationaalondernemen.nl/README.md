@@ -11,8 +11,8 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/internationaalondernemen.nl/subdomains.txt)|23|Alive subdomains|
-|[urls.txt](/data/internationaalondernemen.nl/urls.txt)|23|Urls|
+|[subdomains.txt](/data/internationaalondernemen.nl/subdomains.txt)|21|Alive subdomains|
+|[urls.txt](/data/internationaalondernemen.nl/urls.txt)|21|Urls|
 |[all_subdomains.txt](/data/internationaalondernemen.nl/all_subdomains.txt)|33|All found subdomains (history)|
 
 
@@ -21,8 +21,6 @@
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://www.foodfromholland.comwww.internationaalondernemen.nl](https://www.foodfromholland.comwww.internationaalondernemen.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|An Error Occurre...|
-|[https://vanwww.internationaalondernemen.nl](https://vanwww.internationaalondernemen.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|An Error Occurre...|
 |[https://informationwww.internationaalondernemen.nl](https://informationwww.internationaalondernemen.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|An Error Occurre...|
 |[https://websitewww.internationaalondernemen.nl](https://websitewww.internationaalondernemen.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|An Error Occurre...|
 |[https://164www.internationaalondernemen.nl](https://164www.internationaalondernemen.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|An Error Occurre...|

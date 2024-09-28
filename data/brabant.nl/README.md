@@ -100,6 +100,6 @@
 |[https://corsa-acpt.brabant.nl](https://corsa-acpt.brabant.nl)| | **F**|Microsoft-IIS/10.0| | | | | | | | :white_check_mark: | |IIS:10.0 Windows Server|IIS Redirect|
 |[https://voi.brabant.nl](https://voi.brabant.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Google Tag Manager HSTS Microsoft ASP.NET|Home Voi.brabant...|
 |[https://esb-t1.brabant.nl](https://esb-t1.brabant.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
-|[https://esb-a1.brabant.nl](https://esb-a1.brabant.nl)| | **F**|Microsoft-Azure-Application-Gateway/v2| | | | | | | | :white_check_mark: | ||502 Bad Gateway|
+|[https://esb-a1.brabant.nl](https://esb-a1.brabant.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
 |[https://esb-p1.brabant.nl](https://esb-p1.brabant.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
 

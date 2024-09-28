@@ -4,7 +4,7 @@ title: "gezondeschool.nl"
 permalink: "/dutchgov/gezondeschool.nl.html"
 subdomains_count: 17
 all_subdomains_count: 19
-urls_count: 13
+urls_count: 14
 ssl_rank: A+
 http_rank: E
 security_txt: 4
@@ -28,7 +28,7 @@ tags: dutchgov
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/DutchGovScope/data/gezondeschool.nl/subdomains.txt)|17|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/gezondeschool.nl/urls.txt)|13|Urls|
+|[urls.txt](/DutchGovScope/data/gezondeschool.nl/urls.txt)|14|Urls|
 |[all_subdomains.txt](/DutchGovScope/data/gezondeschool.nl/all_subdomains.txt)|19|All found subdomains (history)|
 
 
@@ -50,4 +50,5 @@ tags: dutchgov
 |[https://msoid.gezondeschool.nl](https://msoid.gezondeschool.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Object moved|
 |[http://ftp.gezondeschool.nl](http://ftp.gezondeschool.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server Bootstrap:4.3.1 PHP:7.4.33 Varnish|geregistreerd vi...|
 |[https://jouw.gezondeschool.nl](https://jouw.gezondeschool.nl)| | **F**|nginx|:o: | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Nginx|Redirecting to h...|
+|[https://www.jouw.gezondeschool.nl](https://www.jouw.gezondeschool.nl)| | **F**|nginx|:o: | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Nginx|301 Moved Perman...|
 

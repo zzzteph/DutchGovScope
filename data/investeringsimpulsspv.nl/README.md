@@ -5,14 +5,14 @@
 
 
  - **SSL Grade**:
- - **HTTP Security Grade**:D
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:2
+ - **HTTP Security Grade**:C
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:4
 
 
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/investeringsimpulsspv.nl/subdomains.txt)|11|Alive subdomains|
-|[urls.txt](/data/investeringsimpulsspv.nl/urls.txt)|6|Urls|
+|[urls.txt](/data/investeringsimpulsspv.nl/urls.txt)|8|Urls|
 |[all_subdomains.txt](/data/investeringsimpulsspv.nl/all_subdomains.txt)|12|All found subdomains (history)|
 
 
@@ -27,4 +27,6 @@
 |[https://ftp.investeringsimpulsspv.nl](https://ftp.investeringsimpulsspv.nl)| | **F**|Apache/2| | | | | | | | :white_check_mark: | |Apache HTTP Server:2||
 |[https://pop.investeringsimpulsspv.nl](https://pop.investeringsimpulsspv.nl)| | **F**|Apache/2| | | | | | | | :white_check_mark: | |Apache HTTP Server:2||
 |[https://smtp.investeringsimpulsspv.nl](https://smtp.investeringsimpulsspv.nl)| | **F**|Apache/2| | | | | | | | :white_check_mark: | |Apache HTTP Server:2||
+|[https://feeds.investeringsimpulsspv.nl](https://feeds.investeringsimpulsspv.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
+|[https://opendata.investeringsimpulsspv.nl](https://opendata.investeringsimpulsspv.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 

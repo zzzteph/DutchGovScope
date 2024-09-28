@@ -72,3 +72,4 @@ stats.test.zm.irealisatie.nl
 acc.woo.irealisatie.nl
 storage.acc.mgo.irealisatie.nl
 lmr.proeftuin.gf.irealisatie.nl
+prs.test.zm.irealisatie.nl

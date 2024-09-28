@@ -11,7 +11,7 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/zeeweringen.nl/subdomains.txt)|10|Alive subdomains|
+|[subdomains.txt](/data/zeeweringen.nl/subdomains.txt)|13|Alive subdomains|
 |[urls.txt](/data/zeeweringen.nl/urls.txt)|10|Urls|
 |[all_subdomains.txt](/data/zeeweringen.nl/all_subdomains.txt)|13|All found subdomains (history)|
 

@@ -10,3 +10,4 @@ intranet.cultuur.nl
 cultuur.nl
 sharepoint.cultuur.nl
 advies-arbeidsmarkt.cultuur.nl
+adfs.cultuur.nl

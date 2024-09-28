@@ -4,10 +4,10 @@ title: "investeringsimpulsspv.nl"
 permalink: "/dutchgov/investeringsimpulsspv.nl.html"
 subdomains_count: 11
 all_subdomains_count: 12
-urls_count: 6
+urls_count: 8
 ssl_rank: 
-http_rank: D
-security_txt: 2
+http_rank: C
+security_txt: 4
 url_link: /data/investeringsimpulsspv.nl/urls.txt
 all_subdomains_link: /data/investeringsimpulsspv.nl/all_subdomains.txt
 subdomains_link: /data/investeringsimpulsspv.nl/subdomains.txt
@@ -21,14 +21,14 @@ tags: dutchgov
 
 
  - **SSL Grade**:
- - **HTTP Security Grade**:D
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:2
+ - **HTTP Security Grade**:C
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:4
 
 
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/DutchGovScope/data/investeringsimpulsspv.nl/subdomains.txt)|11|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/investeringsimpulsspv.nl/urls.txt)|6|Urls|
+|[urls.txt](/DutchGovScope/data/investeringsimpulsspv.nl/urls.txt)|8|Urls|
 |[all_subdomains.txt](/DutchGovScope/data/investeringsimpulsspv.nl/all_subdomains.txt)|12|All found subdomains (history)|
 
 
@@ -43,4 +43,6 @@ tags: dutchgov
 |[https://ftp.investeringsimpulsspv.nl](https://ftp.investeringsimpulsspv.nl)| | **F**|Apache/2| | | | | | | | :white_check_mark: | |Apache HTTP Server:2||
 |[https://pop.investeringsimpulsspv.nl](https://pop.investeringsimpulsspv.nl)| | **F**|Apache/2| | | | | | | | :white_check_mark: | |Apache HTTP Server:2||
 |[https://smtp.investeringsimpulsspv.nl](https://smtp.investeringsimpulsspv.nl)| | **F**|Apache/2| | | | | | | | :white_check_mark: | |Apache HTTP Server:2||
+|[https://feeds.investeringsimpulsspv.nl](https://feeds.investeringsimpulsspv.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
+|[https://opendata.investeringsimpulsspv.nl](https://opendata.investeringsimpulsspv.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 

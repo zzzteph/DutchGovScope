@@ -13,7 +13,7 @@
 |------------|-------|------|
 |[subdomains.txt](/data/irealisatie.nl/subdomains.txt)|73|Alive subdomains|
 |[urls.txt](/data/irealisatie.nl/urls.txt)|67|Urls|
-|[all_subdomains.txt](/data/irealisatie.nl/all_subdomains.txt)|74|All found subdomains (history)|
+|[all_subdomains.txt](/data/irealisatie.nl/all_subdomains.txt)|75|All found subdomains (history)|
 
 
 ## Statistics
@@ -41,9 +41,9 @@
 |[http://test.dpr.irealisatie.nl](http://test.dpr.irealisatie.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[http://acc.dpr.irealisatie.nl](http://acc.dpr.irealisatie.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://web.acc.dpr.irealisatie.nl](https://web.acc.dpr.irealisatie.nl)| | **B**|Apache| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server Basic HSTS|401 Unauthorized|
-|[https://web.test.mgo.irealisatie.nl](https://web.test.mgo.irealisatie.nl)| | **A**|Apache| |:white_check_mark: | :warning:| | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS|Mijn Zorg|
+|[https://web.test.mgo.irealisatie.nl](https://web.test.mgo.irealisatie.nl)| | **A**|Apache| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |Apache HTTP Server Basic HSTS|401 Unauthorized|
 |[https://max.test.mgo.irealisatie.nl](https://max.test.mgo.irealisatie.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS||
-|[https://dva.test.mgo.irealisatie.nl](https://dva.test.mgo.irealisatie.nl)| | **A**|| |:white_check_mark: | :warning:| | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS||
+|[https://dva.test.mgo.irealisatie.nl](https://dva.test.mgo.irealisatie.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |Basic HSTS|401 Unauthorized|
 |[https://lo-ad.test.mgo.irealisatie.nl](https://lo-ad.test.mgo.irealisatie.nl)| | **A**|| |:white_check_mark: | :warning:| | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS||
 |[https://static.acc.dpr.irealisatie.nl](https://static.acc.dpr.irealisatie.nl)| | **B**|Apache| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS Hugo:0.124.1|Verwerkingsregis...|
 |[http://storage.test.mgo.irealisatie.nl](http://storage.test.mgo.irealisatie.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS||

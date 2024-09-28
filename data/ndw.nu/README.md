@@ -13,7 +13,7 @@
 |------------|-------|------|
 |[subdomains.txt](/data/ndw.nu/subdomains.txt)|101|Alive subdomains|
 |[urls.txt](/data/ndw.nu/urls.txt)|90|Urls|
-|[all_subdomains.txt](/data/ndw.nu/all_subdomains.txt)|128|All found subdomains (history)|
+|[all_subdomains.txt](/data/ndw.nu/all_subdomains.txt)|130|All found subdomains (history)|
 
 
 ## Statistics
@@ -103,7 +103,7 @@
 |[https://design.staging.ndw.nu](https://design.staging.ndw.nu)| | **A**|| |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | |HSTS MkDocs:1.6.0 Python|NDW Docs|
 |[https://security.ndw.nu](https://security.ndw.nu)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://security.staging.ndw.nu](https://security.staging.ndw.nu)| | **E**|| | | | | | | | :white_check_mark: | |||
-|[https://design.ndw.nu](https://design.ndw.nu)| | **A**|| |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | |HSTS MkDocs:1.6.0 Python|NDW Docs|
+|[https://design.ndw.nu](https://design.ndw.nu)| | **A**|| |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | |HSTS MkDocs:1.6.1 Python|NDW Docs|
 |[https://sentry.ndw.nu](https://sentry.ndw.nu)| | **E**||:o: | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |||
 |[https://viz.ndw.nu](https://viz.ndw.nu)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://daisi.ndw.nu](https://daisi.ndw.nu)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS Nginx|Daisi|

@@ -13,7 +13,7 @@
 |------------|-------|------|
 |[subdomains.txt](/data/diergeneeskunderegister.nl/subdomains.txt)|16|Alive subdomains|
 |[urls.txt](/data/diergeneeskunderegister.nl/urls.txt)|13|Urls|
-|[all_subdomains.txt](/data/diergeneeskunderegister.nl/all_subdomains.txt)|40|All found subdomains (history)|
+|[all_subdomains.txt](/data/diergeneeskunderegister.nl/all_subdomains.txt)|41|All found subdomains (history)|
 
 
 ## Statistics

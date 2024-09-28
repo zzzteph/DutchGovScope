@@ -12,7 +12,7 @@
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/domeinenrz.nl/subdomains.txt)|33|Alive subdomains|
-|[urls.txt](/data/domeinenrz.nl/urls.txt)|16|Urls|
+|[urls.txt](/data/domeinenrz.nl/urls.txt)|17|Urls|
 |[all_subdomains.txt](/data/domeinenrz.nl/all_subdomains.txt)|48|All found subdomains (history)|
 
 
@@ -36,5 +36,6 @@
 |[https://www.domeinenrz.nl](https://www.domeinenrz.nl)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Home | Domeinen...|
 |[https://domeinenrz.nl](https://domeinenrz.nl)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
 |[https://enterpriseenrollment.domeinenrz.nl](https://enterpriseenrollment.domeinenrz.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||
+|[http://autodiscover.domeinenrz.nl](http://autodiscover.domeinenrz.nl)| | **C**|Microsoft-IIS/10.0| |:white_check_mark: | | | | | | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server||
 |[https://services-test.domeinenrz.nl](https://services-test.domeinenrz.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
 

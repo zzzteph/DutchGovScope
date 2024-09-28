@@ -4,3 +4,5 @@ https://investeringsimpulsspv.nl
 https://ftp.investeringsimpulsspv.nl
 https://pop.investeringsimpulsspv.nl
 https://smtp.investeringsimpulsspv.nl
+https://feeds.investeringsimpulsspv.nl
+https://opendata.investeringsimpulsspv.nl

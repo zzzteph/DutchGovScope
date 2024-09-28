@@ -2,9 +2,9 @@
 layout: default
 title: "internationaalondernemen.nl"
 permalink: "/dutchgov/internationaalondernemen.nl.html"
-subdomains_count: 23
+subdomains_count: 21
 all_subdomains_count: 33
-urls_count: 23
+urls_count: 21
 ssl_rank: 
 http_rank: F
 security_txt: 0
@@ -27,8 +27,8 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/internationaalondernemen.nl/subdomains.txt)|23|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/internationaalondernemen.nl/urls.txt)|23|Urls|
+|[subdomains.txt](/DutchGovScope/data/internationaalondernemen.nl/subdomains.txt)|21|Alive subdomains|
+|[urls.txt](/DutchGovScope/data/internationaalondernemen.nl/urls.txt)|21|Urls|
 |[all_subdomains.txt](/DutchGovScope/data/internationaalondernemen.nl/all_subdomains.txt)|33|All found subdomains (history)|
 
 
@@ -37,8 +37,6 @@ tags: dutchgov
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://www.foodfromholland.comwww.internationaalondernemen.nl](https://www.foodfromholland.comwww.internationaalondernemen.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|An Error Occurre...|
-|[https://vanwww.internationaalondernemen.nl](https://vanwww.internationaalondernemen.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|An Error Occurre...|
 |[https://informationwww.internationaalondernemen.nl](https://informationwww.internationaalondernemen.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|An Error Occurre...|
 |[https://websitewww.internationaalondernemen.nl](https://websitewww.internationaalondernemen.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|An Error Occurre...|
 |[https://164www.internationaalondernemen.nl](https://164www.internationaalondernemen.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|An Error Occurre...|

@@ -11,3 +11,4 @@ http://localhost.gezondeschool.nl
 https://msoid.gezondeschool.nl
 http://ftp.gezondeschool.nl
 https://jouw.gezondeschool.nl
+https://www.jouw.gezondeschool.nl
