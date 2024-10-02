@@ -88,3 +88,5 @@ https://internal-docs.ndw.nu
 https://havik.ndw.nu
 https://analytics.ndw.nu
 https://datafusion.ndw.nu
+https://d2val.staging.ndw.nu
+https://mlops-platform.staging.ndw.nu

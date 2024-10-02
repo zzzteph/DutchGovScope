@@ -5,14 +5,14 @@
 
 
  - **SSL Grade**:A+
- - **HTTP Security Grade**:B
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:4
+ - **HTTP Security Grade**:C
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:3
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/eherkenning.nl/subdomains.txt)|36|Alive subdomains|
-|[urls.txt](/data/eherkenning.nl/urls.txt)|23|Urls|
+|[subdomains.txt](/data/eherkenning.nl/subdomains.txt)|35|Alive subdomains|
+|[urls.txt](/data/eherkenning.nl/urls.txt)|22|Urls|
 |[all_subdomains.txt](/data/eherkenning.nl/all_subdomains.txt)|78|All found subdomains (history)|
 
 
@@ -40,8 +40,7 @@
 |[https://signicat-staging.sso.eherkenning.nl](https://signicat-staging.sso.eherkenning.nl)| **A+**| **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
 |[https://signicat.sso.eherkenning.nl](https://signicat.sso.eherkenning.nl)| **A+**| **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
 |[https://test-dictu.eherkenning.nl](https://test-dictu.eherkenning.nl)| **A**| **F**|nginx| | | | | | | | :white_check_mark: | |Basic Nginx|401 Authorizatio...|
-|[http://wiki.eherkenning.nl](http://wiki.eherkenning.nl)| **A+**| **A**|BigIP| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |F5 BigIP||
-|[https://www.eherkenning.nl](https://www.eherkenning.nl)| **A+**| **A**|nginx| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Drupal:10 HSTS Nginx PHP|Redirecting to h...|
+|[https://www.eherkenning.nl](https://www.eherkenning.nl)| **A+**| **A**|nginx| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Drupal HSTS Nginx PHP|Redirecting to h...|
 |[https://eherkenning.nl](https://eherkenning.nl)| **A+**| **A**|nginx| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
 |[https://acceptatie.eherkenning.nl](https://acceptatie.eherkenning.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Basic Nginx|401 Authorizatio...|
 

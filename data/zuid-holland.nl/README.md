@@ -11,8 +11,8 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/zuid-holland.nl/subdomains.txt)|80|Alive subdomains|
-|[urls.txt](/data/zuid-holland.nl/urls.txt)|77|Urls|
+|[subdomains.txt](/data/zuid-holland.nl/subdomains.txt)|79|Alive subdomains|
+|[urls.txt](/data/zuid-holland.nl/urls.txt)|76|Urls|
 |[all_subdomains.txt](/data/zuid-holland.nl/all_subdomains.txt)|142|All found subdomains (history)|
 
 
@@ -39,7 +39,6 @@
 |[https://opendata.zuid-holland.nl](https://opendata.zuid-holland.nl)| **A+**| **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://ruimtelijkeplannen.zuid-holland.nl](https://ruimtelijkeplannen.zuid-holland.nl)| **B**| **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |Bootstrap HSTS Nginx|Ruimtelijke plan...|
 |[https://wapenfeiten.zuid-holland.nl](https://wapenfeiten.zuid-holland.nl)| **A**| **E**|Apache| | | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server Drupal:8 PHP|Wapenfeiten: de...|
-|[https://oogop.zuid-holland.nl](https://oogop.zuid-holland.nl)| **A**| **E**|| | | | | | | | :white_check_mark: | ||Web App - Unavai...|
 |[https://forms.zuid-holland.nl](https://forms.zuid-holland.nl)| **A**| **F**|Layer7-API-Gateway| | | | | | | | :white_check_mark: | |||
 |[https://zaaksysteem-accept.zuid-holland.nl](https://zaaksysteem-accept.zuid-holland.nl)| **A+**| **A**||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Moved|
 |[https://slimmerreizen.zuid-holland.nl](https://slimmerreizen.zuid-holland.nl)| **A+**| **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Express HSTS Node.js|Meedoen | Slimme...|

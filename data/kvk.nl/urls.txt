@@ -6,7 +6,6 @@ https://cia.tst.ondernemersplein.kvk.nl
 https://view.email.kvk.nl
 https://ondertekenen-id.kvk.nl
 https://ondertekenen.acp.kvk.nl
-https://dvj.kvk.nl
 https://enterpriseregistration.kvk.nl
 https://sdgapi.ondernemersplein.kvk.nl
 https://cia.acp.ondernemersplein.kvk.nl

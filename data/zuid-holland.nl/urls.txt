@@ -16,7 +16,6 @@ https://geo-test.zuid-holland.nl
 https://opendata.zuid-holland.nl
 https://ruimtelijkeplannen.zuid-holland.nl
 https://wapenfeiten.zuid-holland.nl
-https://oogop.zuid-holland.nl
 https://forms.zuid-holland.nl
 https://zaaksysteem-accept.zuid-holland.nl
 https://slimmerreizen.zuid-holland.nl

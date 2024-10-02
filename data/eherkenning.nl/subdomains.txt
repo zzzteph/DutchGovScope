@@ -18,7 +18,6 @@ signicat-qa.sso.eherkenning.nl
 signicat-staging.sso.eherkenning.nl
 signicat.sso.eherkenning.nl
 test-dictu.eherkenning.nl
-wiki.eherkenning.nl
 www.eherkenning.nl
 eherkenning.nl
 creaim-etoegang-acc.sso.eherkenning.nl

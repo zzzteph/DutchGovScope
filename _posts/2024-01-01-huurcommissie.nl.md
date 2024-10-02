@@ -42,7 +42,7 @@ tags: dutchgov
 |[https://hip-acc.huurcommissie.nl](https://hip-acc.huurcommissie.nl)| **A+**| **A**|nginx| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS Nginx|Huurcommissie|
 |[https://adfs.huurcommissie.nl](https://adfs.huurcommissie.nl)| **B**| **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
 |[https://checkjeprijs.huurcommissie.nl](https://checkjeprijs.huurcommissie.nl)| **A+**| **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
-|[http://autodiscover.huurcommissie.nl](http://autodiscover.huurcommissie.nl)| | **E**|Microsoft-IIS/10.0| | | | | | :white_check_mark: | | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server||
+|[http://autodiscover.huurcommissie.nl](http://autodiscover.huurcommissie.nl)| | **C**|Microsoft-IIS/10.0| |:white_check_mark: | | | | | | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server||
 |[https://zaaksysteem-accept.huurcommissie.nl](https://zaaksysteem-accept.huurcommissie.nl)| | **D**|| | | | | | :white_check_mark: | | :white_check_mark: | |HSTS|Moved|
 |[https://portaal.huurcommissie.nl](https://portaal.huurcommissie.nl)| | **A**|nginx| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS Nginx|Huurcommissie|
 |[https://mijn.huurcommissie.nl](https://mijn.huurcommissie.nl)| **A+**| **D**|| | | | | | :white_check_mark: | | :white_check_mark: | |HSTS|Moved|

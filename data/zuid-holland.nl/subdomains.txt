@@ -16,7 +16,6 @@ geo-test.zuid-holland.nl
 opendata.zuid-holland.nl
 ruimtelijkeplannen.zuid-holland.nl
 wapenfeiten.zuid-holland.nl
-oogop.zuid-holland.nl
 forms.zuid-holland.nl
 zaaksysteem-accept.zuid-holland.nl
 slimmerreizen.zuid-holland.nl

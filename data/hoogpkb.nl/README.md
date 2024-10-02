@@ -12,7 +12,7 @@
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/hoogpkb.nl/subdomains.txt)|14|Alive subdomains|
-|[urls.txt](/data/hoogpkb.nl/urls.txt)|11|Urls|
+|[urls.txt](/data/hoogpkb.nl/urls.txt)|13|Urls|
 |[all_subdomains.txt](/data/hoogpkb.nl/all_subdomains.txt)|15|All found subdomains (history)|
 
 
@@ -32,4 +32,6 @@
 |[https://longines.hoogpkb.nl](https://longines.hoogpkb.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|Web Server's Def...|
 |[https://kotka.hoogpkb.nl](https://kotka.hoogpkb.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|Web Server's Def...|
 |[https://securepromo.hoogpkb.nl](https://securepromo.hoogpkb.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|Web Server's Def...|
+|[https://enterpriseenrollment.hoogpkb.nl](https://enterpriseenrollment.hoogpkb.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||
+|[https://enterpriseregistration.hoogpkb.nl](https://enterpriseregistration.hoogpkb.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 

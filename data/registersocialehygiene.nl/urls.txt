@@ -9,3 +9,4 @@ https://mijn.registersocialehygiene.nl
 https://feeds.registersocialehygiene.nl
 https://opendata.registersocialehygiene.nl
 https://beheer.registersocialehygiene.nl
+https://acceptatie.beheer.registersocialehygiene.nl

@@ -6,13 +6,13 @@
 
  - **SSL Grade**:A-
  - **HTTP Security Grade**:C
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:80
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:81
 
 
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/tweedekamer.nl/subdomains.txt)|205|Alive subdomains|
-|[urls.txt](/data/tweedekamer.nl/urls.txt)|134|Urls|
+|[urls.txt](/data/tweedekamer.nl/urls.txt)|135|Urls|
 |[all_subdomains.txt](/data/tweedekamer.nl/all_subdomains.txt)|304|All found subdomains (history)|
 
 
@@ -155,4 +155,5 @@
 |[https://hollandfit.tweedekamer.nl](https://hollandfit.tweedekamer.nl)| | **B**|BigIP|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |F5 BigIP||
 |[https://bibliotheek.tweedekamer.nl](https://bibliotheek.tweedekamer.nl)| | **F**|Microsoft-IIS/10.0| | | | | | | | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server|404 - File or di...|
 |[https://bibliotheek-test.tweedekamer.nl](https://bibliotheek-test.tweedekamer.nl)| | **F**|Microsoft-IIS/10.0| | | | | | | | :white_check_mark: | |IIS:10.0 Windows Server|404 - File or di...|
+|[https://klinkendetaal.tweedekamer.nl](https://klinkendetaal.tweedekamer.nl)| | **B**|BigIP|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |F5 BigIP||
 

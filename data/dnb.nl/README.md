@@ -12,7 +12,7 @@
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/dnb.nl/subdomains.txt)|179|Alive subdomains|
-|[urls.txt](/data/dnb.nl/urls.txt)|129|Urls|
+|[urls.txt](/data/dnb.nl/urls.txt)|128|Urls|
 |[all_subdomains.txt](/data/dnb.nl/all_subdomains.txt)|313|All found subdomains (history)|
 
 
@@ -35,7 +35,6 @@
 |[https://sharefile.dnb.nl](https://sharefile.dnb.nl)| **A+**| **A**||:o: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS||
 |[https://securemail.dnb.nl](https://securemail.dnb.nl)| **B**| **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|Auto-Forward ind...|
 |[http://registers.dnb.nl](http://registers.dnb.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Error - De Neder...|
-|[https://cocotoa.dnb.nl](https://cocotoa.dnb.nl)| **A+**| **A**||:o: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS||
 |[https://statistiek.dnb.nl](https://statistiek.dnb.nl)| **A+**| **A**|AkamaiGHost| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Access Denied|
 |[https://nieuws.dnb.nl](https://nieuws.dnb.nl)| **A+**| **A**||:o: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS||
 |[https://www.toezicht.dnb.nl](https://www.toezicht.dnb.nl)| **A+**| **A**|AkamaiGHost| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Access Denied|
@@ -57,14 +56,14 @@
 |[https://mijntoezicht.azure.dnb.nl](https://mijntoezicht.azure.dnb.nl)| **A**| **E**|| | | | | | | | :white_check_mark: | |Bootstrap:5.2.3|Azure Static Web...|
 |[https://riks.azure.dnb.nl](https://riks.azure.dnb.nl)| **A**| **E**|| | | | | | | | :white_check_mark: | |Bootstrap:5.2.3|Azure Static Web...|
 |[https://mijntoezicht-acc.azure.dnb.nl](https://mijntoezicht-acc.azure.dnb.nl)| **A**| **E**|| | | | | | | | :white_check_mark: | |Bootstrap:5.2.3|Azure Static Web...|
-|[https://stepui-dev.azure.dnb.nl](https://stepui-dev.azure.dnb.nl)| **A**| **E**|| | | | | | | | :white_check_mark: | |Bootstrap:5.2.3|Azure Static Web...|
+|[https://stepui-dev.azure.dnb.nl](https://stepui-dev.azure.dnb.nl)| **A**| **E**|| | | | | | | | :white_check_mark: | |Bootstrap:5.2.3|Microsoft Azure...|
 |[https://mijnresolutie-acc.azure.dnb.nl](https://mijnresolutie-acc.azure.dnb.nl)| **A**| **E**|| | | | | | | | :white_check_mark: | |Bootstrap:5.2.3|Azure Static Web...|
 |[https://docs.riks-ft.azure.dnb.nl](https://docs.riks-ft.azure.dnb.nl)| **A**| **E**|| | | | | | | | :white_check_mark: | |Bootstrap:5.2.3|Azure Static Web...|
 |[https://dkeservice-test.dnb.nl](https://dkeservice-test.dnb.nl)| **F**| **F**|Microsoft-Azure-Application-Gateway/v2| | | | | | | | :white_check_mark: | ||404 Not Found|
-|[https://mockapp-test.dnb.nl](https://mockapp-test.dnb.nl)| **A+**| **B**|| |:white_check_mark: | :warning:| |:warning: | | | :white_check_mark: | |Azure Azure Front Door Azure Monitor HSTS|Mijn Dienst|
+|[https://mockapp-test.dnb.nl](https://mockapp-test.dnb.nl)| **A+**| **E**|| | | :warning:| |:warning: | | | :white_check_mark: | |Azure Azure Front Door Azure Monitor|Mijn Dienst|
 |[https://stepui-acc.azure.dnb.nl](https://stepui-acc.azure.dnb.nl)| **A**| **E**|| | | | | | | | :white_check_mark: | |Bootstrap:5.2.3|Azure Static Web...|
 |[https://mijn-dev.dnb.nl](https://mijn-dev.dnb.nl)| **A**| **E**|| | | | | | | | :white_check_mark: | |Azure Azure Front Door|Forbidden|
-|[https://login-test.dnb.nl](https://login-test.dnb.nl)| **A+**| **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Azure Azure Front Door HSTS||
+|[https://login-test.dnb.nl](https://login-test.dnb.nl)| **A+**| **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Azure Azure Front Door HSTS||
 |[https://docs.riks.azure.dnb.nl](https://docs.riks.azure.dnb.nl)| **A**| **E**|| | | | | | | | :white_check_mark: | |Bootstrap:5.2.3|Azure Static Web...|
 |[https://mockapp-dev.dnb.nl](https://mockapp-dev.dnb.nl)| **A**| **E**|| | | | | | | | :white_check_mark: | |Azure Azure Front Door|Forbidden|
 |[https://dkeservice-staging.dnb.nl](https://dkeservice-staging.dnb.nl)| **F**| **F**|Microsoft-Azure-Application-Gateway/v2| | | | | | | | :white_check_mark: | ||404 Not Found|
@@ -93,9 +92,9 @@
 |[https://dataloop-acc.dnb.nl](https://dataloop-acc.dnb.nl)| **A+**| **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|Dataloop|
 |[https://dataloop-test.dnb.nl](https://dataloop-test.dnb.nl)| **A+**| **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|Dataloop|
 |[https://api-staging.developer.dnb.nl](https://api-staging.developer.dnb.nl)| **A+**| **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Azure HSTS|Home - DNB API S...|
-|[https://mockapp-pp.dnb.nl](https://mockapp-pp.dnb.nl)| **A+**| **B**|| |:white_check_mark: | :warning:| |:warning: | | | :white_check_mark: | |Azure Azure Front Door Azure Monitor HSTS|Mijn Dienst|
+|[https://mockapp-pp.dnb.nl](https://mockapp-pp.dnb.nl)| **A+**| **E**|| | | :warning:| |:warning: | | | :white_check_mark: | |Azure Azure Front Door Azure Monitor|Mijn Dienst|
 |[https://mijn-test.dnb.nl](https://mijn-test.dnb.nl)| **A+**| **B**|| |:white_check_mark: | :warning:| |:warning: | | | :white_check_mark: | |Azure Azure Front Door Azure Monitor HSTS|Mijn DNB|
-|[https://login-pp.dnb.nl](https://login-pp.dnb.nl)| **A+**| **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Azure Azure Front Door HSTS||
+|[https://login-pp.dnb.nl](https://login-pp.dnb.nl)| **A+**| **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Azure Azure Front Door HSTS||
 |[https://api.dataloop.dnb.nl](https://api.dataloop.dnb.nl)| **A+**| **C**|| |:white_check_mark: | :warning:| | | | | :white_check_mark: | |HSTS|Dataloop API Doc...|
 |[https://classic.dataloop.dnb.nl](https://classic.dataloop.dnb.nl)| **A+**| **F**|Microsoft-Azure-Application-Gateway/v2| | | | | | | | :white_check_mark: | |HSTS|404 Not Found|
 |[https://classic.dataloop-acc.dnb.nl](https://classic.dataloop-acc.dnb.nl)| **A+**| **F**|Microsoft-Azure-Application-Gateway/v2| | | | | | | | :white_check_mark: | |HSTS|404 Not Found|

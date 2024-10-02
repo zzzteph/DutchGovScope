@@ -7,7 +7,7 @@ all_subdomains_count: 20
 urls_count: 7
 ssl_rank: A-
 http_rank: A
-security_txt: 6
+security_txt: 5
 url_link: /data/doc-direkt.nl/urls.txt
 all_subdomains_link: /data/doc-direkt.nl/all_subdomains.txt
 subdomains_link: /data/doc-direkt.nl/subdomains.txt
@@ -22,7 +22,7 @@ tags: dutchgov
 
  - **SSL Grade**:A-
  - **HTTP Security Grade**:A
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:6
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:5
 
 
 | File       | Count | Info |

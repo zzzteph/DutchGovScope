@@ -11,7 +11,7 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/leefbaarenveilig.nl/subdomains.txt)|6|Alive subdomains|
+|[subdomains.txt](/data/leefbaarenveilig.nl/subdomains.txt)|7|Alive subdomains|
 |[urls.txt](/data/leefbaarenveilig.nl/urls.txt)|4|Urls|
 |[all_subdomains.txt](/data/leefbaarenveilig.nl/all_subdomains.txt)|7|All found subdomains (history)|
 

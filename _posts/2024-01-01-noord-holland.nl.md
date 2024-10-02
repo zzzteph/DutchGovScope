@@ -2,9 +2,9 @@
 layout: default
 title: "noord-holland.nl"
 permalink: "/dutchgov/noord-holland.nl.html"
-subdomains_count: 91
+subdomains_count: 90
 all_subdomains_count: 283
-urls_count: 65
+urls_count: 64
 ssl_rank: A-
 http_rank: B
 security_txt: 25
@@ -27,8 +27,8 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/noord-holland.nl/subdomains.txt)|91|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/noord-holland.nl/urls.txt)|65|Urls|
+|[subdomains.txt](/DutchGovScope/data/noord-holland.nl/subdomains.txt)|90|Alive subdomains|
+|[urls.txt](/DutchGovScope/data/noord-holland.nl/urls.txt)|64|Urls|
 |[all_subdomains.txt](/DutchGovScope/data/noord-holland.nl/all_subdomains.txt)|283|All found subdomains (history)|
 
 
@@ -44,7 +44,6 @@ tags: dutchgov
 |[https://esm.noord-holland.nl](https://esm.noord-holland.nl)| **A+**| **A**|cloudflare| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Cloudflare HSTS|Login|
 |[https://statensite.noord-holland.nl](https://statensite.noord-holland.nl)| **A+**| **A**||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Java||
 |[https://formulieren.noord-holland.nl](https://formulieren.noord-holland.nl)| **A+**| **A**|| |:white_check_mark: | | |:warning: | | | :white_check_mark: | |HSTS|Object moved|
-|[https://developer.noord-holland.nl](https://developer.noord-holland.nl)| **A+**| **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|404 Not Found|
 |[http://design-node.datalab-prod.aws.noord-holland.nl](http://design-node.datalab-prod.aws.noord-holland.nl)| **B**| **F**|awselb/2.0| | | | | | | | :white_check_mark: | |Amazon ELB Amazon Web Services|301 Moved Perman...|
 |[https://sva-a8a9.noord-holland.nl](https://sva-a8a9.noord-holland.nl)| **A**| **D**|Apache/2| | | | | :white_check_mark:| | | :white_check_mark: | |Apache HTTP Server:2 HSTS MySQL PHP Typekit WordPress:6.5.5|SEP A8-A9|
 |[https://geoapps2.noord-holland.nl](https://geoapps2.noord-holland.nl)| **B**| **C**|Microsoft-IIS/10.0| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS IIS:10.0 Microsoft ASP.NET Windows Server||

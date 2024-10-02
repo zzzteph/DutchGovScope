@@ -132,3 +132,4 @@ https://b67.tweedekamer.nl
 https://hollandfit.tweedekamer.nl
 https://bibliotheek.tweedekamer.nl
 https://bibliotheek-test.tweedekamer.nl
+https://klinkendetaal.tweedekamer.nl

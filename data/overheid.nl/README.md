@@ -6,14 +6,14 @@
 
  - **SSL Grade**:A
  - **HTTP Security Grade**:B
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:161
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:164
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/overheid.nl/subdomains.txt)|70744|Alive subdomains|
-|[urls.txt](/data/overheid.nl/urls.txt)|315|Urls|
-|[all_subdomains.txt](/data/overheid.nl/all_subdomains.txt)|73009|All found subdomains (history)|
+|[subdomains.txt](/data/overheid.nl/subdomains.txt)|71751|Alive subdomains|
+|[urls.txt](/data/overheid.nl/urls.txt)|324|Urls|
+|[all_subdomains.txt](/data/overheid.nl/all_subdomains.txt)|73780|All found subdomains (history)|
 
 
 ## Statistics
@@ -108,7 +108,6 @@
 |[https://internationaal.ondernemen.overheid.nl](https://internationaal.ondernemen.overheid.nl)| **A**| **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|403 Forbidden|
 |[https://intpatch.omgevingswet.overheid.nl](https://intpatch.omgevingswet.overheid.nl)| **A+**| **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Omgevingsloket|
 |[https://kim.omgevingswet.overheid.nl](https://kim.omgevingswet.overheid.nl)| **A+**| **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |Basic HSTS|401 Authorizatio...|
-|[https://koop.overheid.nl](https://koop.overheid.nl)| **B**| **A**|Apache| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server|302 Found|
 |[https://linkeddata.overheid.nl](https://linkeddata.overheid.nl)| **B**| **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[http://linkeddata-acc.overheid.nl](http://linkeddata-acc.overheid.nl)| **A+**| **A**|BigIP| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |F5 BigIP||
 |[http://linkeddata-test.overheid.nl](http://linkeddata-test.overheid.nl)| **F**| **F**|BigIP| | | | | | | | :white_check_mark: | |F5 BigIP||
@@ -222,7 +221,6 @@
 |[https://static.mijn.overheid.nl](https://static.mijn.overheid.nl)| **A+**| **A**|nginx| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://static.preprod.mijn.overheid.nl](https://static.preprod.mijn.overheid.nl)| **A+**| **A**|nginx| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://statistiek.mijn.overheid.nl](https://statistiek.mijn.overheid.nl)| **A+**| **A**|nginx| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|302 Found|
-|[https://status.dmo.omgevingswet.overheid.nl](https://status.dmo.omgevingswet.overheid.nl)| **A**| **A**|Caddy nginx| |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS HTTP/3 Nginx Ruby Ruby on Rails Stimulus|Subdomain Takeov...|
 |[https://status.omgevingswet.overheid.nl](https://status.omgevingswet.overheid.nl)| **A**| **A**|Caddy nginx| |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS HTTP/3 Nginx Ruby Ruby on Rails Stimulus|DSO-LV Productie...|
 |[https://status.pre.omgevingswet.overheid.nl](https://status.pre.omgevingswet.overheid.nl)| **A**| **A**|Caddy nginx| |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS HTTP/3 Nginx Ruby Ruby on Rails Stimulus|DSO-LV Pre-produ...|
 |[https://stcrtin.overheid.nl](https://stcrtin.overheid.nl)| **A+**| **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Object moved|
@@ -335,5 +333,16 @@
 |[https://resolver.omgevingswet.overheid.nl](https://resolver.omgevingswet.overheid.nl)| | **C**|unspecified| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
 |[https://resolver.pfm.omgevingswet.overheid.nl](https://resolver.pfm.omgevingswet.overheid.nl)| | **C**|Unspecified| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
 |[https://resolver.pre.omgevingswet.overheid.nl](https://resolver.pre.omgevingswet.overheid.nl)| | **C**|unspecified| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
+|[http://demo-systemteam.overheid.nl](http://demo-systemteam.overheid.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
+|[http://demo1-systemteam.overheid.nl](http://demo1-systemteam.overheid.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[http://demo2-systemteam.overheid.nl](http://demo2-systemteam.overheid.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
+|[https://mnd-preprd.overheid.nl](https://mnd-preprd.overheid.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Object moved|
+|[https://oproepingen-preprd.overheid.nl](https://oproepingen-preprd.overheid.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Object moved|
+|[https://stcrtin-preprd.overheid.nl](https://stcrtin-preprd.overheid.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Object moved|
+|[https://verkeersbesluiten-preprd.overheid.nl](https://verkeersbesluiten-preprd.overheid.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Object moved|
+|[https://drop-api-preprd-poc.overheid.nl](https://drop-api-preprd-poc.overheid.nl)| | **C**|Microsoft-IIS/10.0| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS IIS:10.0 Microsoft ASP.NET Windows Server|403 - Forbidden:...|
+|[https://drop-preprd.overheid.nl](https://drop-preprd.overheid.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Object moved|
+|[https://oproepingen-api-preprd.overheid.nl](https://oproepingen-api-preprd.overheid.nl)| | **C**|Microsoft-IIS/10.0| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS IIS:10.0 Microsoft ASP.NET Windows Server|403 - Forbidden:...|
+|[https://drop-api-preprd.overheid.nl](https://drop-api-preprd.overheid.nl)| | **C**|Microsoft-IIS/10.0| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS IIS:10.0 Microsoft ASP.NET Windows Server|403 - Forbidden:...|
+|[https://oproepingen-api-preprd-poc.overheid.nl](https://oproepingen-api-preprd-poc.overheid.nl)| | **C**|Microsoft-IIS/10.0| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS IIS:10.0 Microsoft ASP.NET Windows Server|403 - Forbidden:...|
 

@@ -6,13 +6,13 @@
 
  - **SSL Grade**:B
  - **HTTP Security Grade**:C
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:58
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:59
 
 
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/ndw.nu/subdomains.txt)|101|Alive subdomains|
-|[urls.txt](/data/ndw.nu/urls.txt)|90|Urls|
+|[urls.txt](/data/ndw.nu/urls.txt)|92|Urls|
 |[all_subdomains.txt](/data/ndw.nu/all_subdomains.txt)|130|All found subdomains (history)|
 
 
@@ -111,4 +111,6 @@
 |[https://havik.ndw.nu](https://havik.ndw.nu)| | **F**|Microsoft-Azure-Application-Gateway/v2| | | | | | | | :white_check_mark: | ||404 Not Found|
 |[https://analytics.ndw.nu](https://analytics.ndw.nu)| | **F**|Microsoft-Azure-Application-Gateway/v2| | | | | | | | :white_check_mark: | ||404 Not Found|
 |[https://datafusion.ndw.nu](https://datafusion.ndw.nu)| | **E**|| | | | | | | | :white_check_mark: | |||
+|[https://d2val.staging.ndw.nu](https://d2val.staging.ndw.nu)| | **A**|gunicorn|:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Python gunicorn|Redirecting...|
+|[https://mlops-platform.staging.ndw.nu](https://mlops-platform.staging.ndw.nu)| | **F**|Microsoft-Azure-Application-Gateway/v2| | | | | | | | :white_check_mark: | ||502 Bad Gateway|
 

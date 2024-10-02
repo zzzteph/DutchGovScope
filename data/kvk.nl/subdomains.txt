@@ -7,7 +7,6 @@ microcontent.ondernemersplein.kvk.nl
 view.email.kvk.nl
 ondertekenen-id.kvk.nl
 ondertekenen.acp.kvk.nl
-dvj.kvk.nl
 enterpriseregistration.kvk.nl
 sdgapi.ondernemersplein.kvk.nl
 cia.acp.ondernemersplein.kvk.nl

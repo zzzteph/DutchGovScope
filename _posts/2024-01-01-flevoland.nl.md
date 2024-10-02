@@ -4,7 +4,7 @@ title: "flevoland.nl"
 permalink: "/dutchgov/flevoland.nl.html"
 subdomains_count: 110
 all_subdomains_count: 228
-urls_count: 82
+urls_count: 83
 ssl_rank: A-
 http_rank: C
 security_txt: 30
@@ -28,7 +28,7 @@ tags: dutchgov
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/DutchGovScope/data/flevoland.nl/subdomains.txt)|110|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/flevoland.nl/urls.txt)|82|Urls|
+|[urls.txt](/DutchGovScope/data/flevoland.nl/urls.txt)|83|Urls|
 |[all_subdomains.txt](/DutchGovScope/data/flevoland.nl/all_subdomains.txt)|228|All found subdomains (history)|
 
 
@@ -115,8 +115,9 @@ tags: dutchgov
 |[https://enterpriseregistration.flevoland.nl](https://enterpriseregistration.flevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://msoid.flevoland.nl](https://msoid.flevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Object moved|
 |[https://mbg-proxy.flevoland.nl](https://mbg-proxy.flevoland.nl)| | **A**|Apache| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS|Redirecting...|
+|[https://gebouwbeheer.flevoland.nl](https://gebouwbeheer.flevoland.nl)| | **F**|Microsoft-IIS/10.0| | | | | | | | :white_check_mark: | |IIS:10.0 Windows Server|IIS Windows|
 |[http://res.flevoland.nl](http://res.flevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://remote.flevoland.nl](https://remote.flevoland.nl)| | **A**||:warning: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
-|[https://denkmee.flevoland.nl](https://denkmee.flevoland.nl)| | **C**|nginx| | | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |Amazon CloudFront Amazon Web Services Nginx||
+|[http://denkmee.flevoland.nl](http://denkmee.flevoland.nl)| | **C**|CloudFront| | | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |Amazon CloudFront Amazon Web Services|301 Moved Perman...|
 |[https://eula.flevoland.nl](https://eula.flevoland.nl)| | **A**|Apache/2.4.29 (Ubuntu)| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu||
 

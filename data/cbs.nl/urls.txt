@@ -20,8 +20,8 @@ https://beeldbank-beheer.cbs.nl
 https://beo.cbs.nl
 https://bestandslevering.cbs.nl
 https://beta.cbs.nl
-https://beta-dataportal.cbs.nl
-https://beta-odata4.cbs.nl
+http://beta-dataportal.cbs.nl
+http://beta-odata4.cbs.nl
 https://betaopendata.cbs.nl
 https://blaise.cbs.nl
 http://blaiseish2.cbs.nl
@@ -43,8 +43,8 @@ https://dataderden.cbs.nl
 https://dataderden2.cbs.nl
 https://dataportaal.cbs.nl
 https://dataportal.cbs.nl
-https://dataset.cbs.nl
-https://datasets.cbs.nl
+http://dataset.cbs.nl
+http://datasets.cbs.nl
 https://designsystem.cbs.nl
 https://dev.cerberus.cbs.nl
 https://devtestlogin.cbs.nl
@@ -101,7 +101,7 @@ https://nationaalcohortonderzoek.cbs.nl
 https://navara.cbs.nl
 https://newsroom.cbs.nl
 https://odata.cbs.nl
-https://odata4.cbs.nl
+http://odata4.cbs.nl
 https://oefenvragenlijst.cbs.nl
 https://onderhoud.cbs.nl
 https://onderzoek.cbs.nl
@@ -164,7 +164,7 @@ https://ot-opendata.cbs.nl
 https://login.cbs.nl
 https://sbi.acceptatie.cbs.nl
 https://mijn.cbs.nl
-https://mijn-api.cbs.nl
+http://mijn-api.cbs.nl
 https://uitwisseling.cbs.nl
 https://beh-iam.acceptatie.cbs.nl
 https://amunet.cbs.nl

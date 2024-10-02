@@ -121,3 +121,4 @@ acc-mijn-nza-saml-2wssl.nza.nl
 www.nieuwmodelggzfz.nza.nl
 zpa.nza.nl
 opendisdata.nza.nl
+agw01-nomail.nza.nl

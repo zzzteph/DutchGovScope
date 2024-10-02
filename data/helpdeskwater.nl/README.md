@@ -11,7 +11,7 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/helpdeskwater.nl/subdomains.txt)|3|Alive subdomains|
+|[subdomains.txt](/data/helpdeskwater.nl/subdomains.txt)|2|Alive subdomains|
 |[urls.txt](/data/helpdeskwater.nl/urls.txt)|2|Urls|
 |[all_subdomains.txt](/data/helpdeskwater.nl/all_subdomains.txt)|12|All found subdomains (history)|
 

@@ -1,14 +1,4 @@
-acc.omgevingsloket.nl
-broker-inr.omgevingsloket.nl
-gw.omgevingsloket.nl
-gw-shr.omgevingsloket.nl
-inr.omgevingsloket.nl
-intake.omgevingsloket.nl
-olo-a-elk.omgevingsloket.nl
-sao.omgevingsloket.nl
-tao.omgevingsloket.nl
 www.omgevingsloket.nl
-inr-broker.omgevingsloket.nl
 omgevingsloket.nl
 acc-www.omgevingsloket.nl
 preprod.omgevingsloket.nl
@@ -48,4 +38,3 @@ smtps.omgevingsloket.nl
 syslog.omgevingsloket.nl
 test.omgevingsloket.nl
 wiki.omgevingsloket.nl
-opstap.omgevingsloket.nl

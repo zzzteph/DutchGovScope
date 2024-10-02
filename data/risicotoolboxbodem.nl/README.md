@@ -5,14 +5,14 @@
 
 
  - **SSL Grade**:A+
- - **HTTP Security Grade**:D
+ - **HTTP Security Grade**:C
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:1
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/risicotoolboxbodem.nl/subdomains.txt)|8|Alive subdomains|
-|[urls.txt](/data/risicotoolboxbodem.nl/urls.txt)|7|Urls|
+|[subdomains.txt](/data/risicotoolboxbodem.nl/subdomains.txt)|7|Alive subdomains|
+|[urls.txt](/data/risicotoolboxbodem.nl/urls.txt)|6|Urls|
 |[all_subdomains.txt](/data/risicotoolboxbodem.nl/all_subdomains.txt)|11|All found subdomains (history)|
 
 
@@ -27,5 +27,4 @@
 |[https://risicotoolboxbodem.nl](https://risicotoolboxbodem.nl)| **A**| **C**||:warning: |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | |||
 |[https://nieuwestoffen.risicotoolboxbodem.nl](https://nieuwestoffen.risicotoolboxbodem.nl)| **A+**| **C**|Microsoft-IIS/10.0| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS IIS:10.0 Microsoft ASP.NET Windows Server|Welkom - Nieuwe...|
 |[https://feedback.risicotoolboxbodem.nl](https://feedback.risicotoolboxbodem.nl)| **A+**| **C**|Microsoft-IIS/10.0| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS IIS:10.0 Microsoft ASP.NET Windows Server|- Beheerpagina R...|
-|[http://localhost.risicotoolboxbodem.nl](http://localhost.risicotoolboxbodem.nl)| | **F**|nginx| | | :warning:| | | | | :white_check_mark: | |Nginx|(404 Not Found)|
 

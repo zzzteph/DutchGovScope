@@ -39,7 +39,6 @@ meldingen.klopt.cibg.nl
 opendata.cibg.nl
 portaal.competent.cibg.nl
 prototype.cibg.nl
-publicaties.cibg.nl
 publicwebservices.cibg.nl
 publicwebservices-dcr.cibg.nl
 stijlgids.cibg.nl

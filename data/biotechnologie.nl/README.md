@@ -11,8 +11,8 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/biotechnologie.nl/subdomains.txt)|9|Alive subdomains|
-|[urls.txt](/data/biotechnologie.nl/urls.txt)|9|Urls|
+|[subdomains.txt](/data/biotechnologie.nl/subdomains.txt)|7|Alive subdomains|
+|[urls.txt](/data/biotechnologie.nl/urls.txt)|7|Urls|
 |[all_subdomains.txt](/data/biotechnologie.nl/all_subdomains.txt)|11|All found subdomains (history)|
 
 
@@ -26,8 +26,6 @@
 |[https://autodiscover.biotechnologie.nl](https://autodiscover.biotechnologie.nl)| | **B**|cloudflare| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Cloudflare HSTS HTTP/3||
 |[https://enterpriseenrollment.biotechnologie.nl](https://enterpriseenrollment.biotechnologie.nl)| | **F**|cloudflare| | | | | | | | :white_check_mark: | |Cloudflare HSTS HTTP/3||
 |[https://enterpriseregistration.biotechnologie.nl](https://enterpriseregistration.biotechnologie.nl)| | **C**|cloudflare| |:white_check_mark: | | | | | | :white_check_mark: | |Cloudflare HSTS HTTP/3||
-|[https://ftp.biotechnologie.nl](https://ftp.biotechnologie.nl)| | **B**|cloudflare| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Cloudflare HSTS HTTP/3||
 |[https://lyncdiscover.biotechnologie.nl](https://lyncdiscover.biotechnologie.nl)| | **B**|cloudflare| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Cloudflare HSTS HTTP/3||
-|[https://mail.biotechnologie.nl](https://mail.biotechnologie.nl)| | **B**|cloudflare| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Cloudflare HSTS HTTP/3||
 |[https://sip.biotechnologie.nl](https://sip.biotechnologie.nl)| | **B**|cloudflare| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Cloudflare HSTS HTTP/3||
 

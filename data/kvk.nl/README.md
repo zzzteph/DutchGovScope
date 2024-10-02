@@ -11,8 +11,8 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/kvk.nl/subdomains.txt)|192|Alive subdomains|
-|[urls.txt](/data/kvk.nl/urls.txt)|59|Urls|
+|[subdomains.txt](/data/kvk.nl/subdomains.txt)|191|Alive subdomains|
+|[urls.txt](/data/kvk.nl/urls.txt)|58|Urls|
 |[all_subdomains.txt](/data/kvk.nl/all_subdomains.txt)|491|All found subdomains (history)|
 
 
@@ -29,7 +29,6 @@
 |[https://view.email.kvk.nl](https://view.email.kvk.nl)| **A+**| **A**||:o: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Object moved|
 |[https://ondertekenen-id.kvk.nl](https://ondertekenen-id.kvk.nl)| **A+**| **E**|| | | | | | | | :white_check_mark: | |HSTS|302 Found|
 |[https://ondertekenen.acp.kvk.nl](https://ondertekenen.acp.kvk.nl)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS Nginx||
-|[https://dvj.kvk.nl](https://dvj.kvk.nl)| | **E**|Apache| | | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server||
 |[https://enterpriseregistration.kvk.nl](https://enterpriseregistration.kvk.nl)| **F**| **E**|| | | | | | | | :white_check_mark: | |HSTS||
 |[https://sdgapi.ondernemersplein.kvk.nl](https://sdgapi.ondernemersplein.kvk.nl)| **A+**| **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
 |[https://cia.acp.ondernemersplein.kvk.nl](https://cia.acp.ondernemersplein.kvk.nl)| **A**| **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||

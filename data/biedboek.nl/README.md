@@ -11,8 +11,8 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/biedboek.nl/subdomains.txt)|6339|Alive subdomains|
-|[urls.txt](/data/biedboek.nl/urls.txt)|6336|Urls|
+|[subdomains.txt](/data/biedboek.nl/subdomains.txt)|6340|Alive subdomains|
+|[urls.txt](/data/biedboek.nl/urls.txt)|6337|Urls|
 |[all_subdomains.txt](/data/biedboek.nl/all_subdomains.txt)|6343|All found subdomains (history)|
 
 
@@ -1731,8 +1731,8 @@
 |[https://excursies.biedboek.nl](https://excursies.biedboek.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Microsoft Azure...|
 |[https://jul.biedboek.nl](https://jul.biedboek.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Microsoft Azure...|
 |[https://esigaret.biedboek.nl](https://esigaret.biedboek.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Microsoft Azure...|
-|[https://deployment.biedboek.nl](https://deployment.biedboek.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Azure HSTS Linkedin Ads React|Vastgoed en zake...|
-|[https://productie-nieuw.biedboek.nl](https://productie-nieuw.biedboek.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Azure HSTS Linkedin Ads React|Vastgoed en zake...|
+|[https://deployment.biedboek.nl](https://deployment.biedboek.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Azure HSTS React|Vastgoed en zake...|
+|[https://productie-nieuw.biedboek.nl](https://productie-nieuw.biedboek.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Azure HSTS React|Vastgoed en zake...|
 |[https://sourcemaps.biedboek.nl](https://sourcemaps.biedboek.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Microsoft Azure...|
 |[https://web4981.biedboek.nl](https://web4981.biedboek.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Microsoft Azure...|
 |[https://spell.biedboek.nl](https://spell.biedboek.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Microsoft Azure...|
@@ -2349,6 +2349,7 @@
 |[https://zpcp3.blog.biedboek.nl](https://zpcp3.blog.biedboek.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Microsoft Azure...|
 |[https://um1.biedboek.nl](https://um1.biedboek.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Microsoft Azure...|
 |[https://seks.biedboek.nl](https://seks.biedboek.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Microsoft Azure...|
+|[https://vault.aws.biedboek.nl](https://vault.aws.biedboek.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Microsoft Azure...|
 |[https://wartune.biedboek.nl](https://wartune.biedboek.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Microsoft Azure...|
 |[https://boxmeer.biedboek.nl](https://boxmeer.biedboek.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Microsoft Azure...|
 |[https://aviabilet.biedboek.nl](https://aviabilet.biedboek.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Microsoft Azure...|

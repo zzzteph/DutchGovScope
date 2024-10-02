@@ -13,7 +13,7 @@
 |------------|-------|------|
 |[subdomains.txt](/data/mijntoeslagen.nl/subdomains.txt)|5|Alive subdomains|
 |[urls.txt](/data/mijntoeslagen.nl/urls.txt)|4|Urls|
-|[all_subdomains.txt](/data/mijntoeslagen.nl/all_subdomains.txt)|5|All found subdomains (history)|
+|[all_subdomains.txt](/data/mijntoeslagen.nl/all_subdomains.txt)|6|All found subdomains (history)|
 
 
 ## Statistics

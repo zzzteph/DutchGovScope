@@ -13,7 +13,7 @@
 |------------|-------|------|
 |[subdomains.txt](/data/databank.nl/subdomains.txt)|27309|Alive subdomains|
 |[urls.txt](/data/databank.nl/urls.txt)|24878|Urls|
-|[all_subdomains.txt](/data/databank.nl/all_subdomains.txt)|28067|All found subdomains (history)|
+|[all_subdomains.txt](/data/databank.nl/all_subdomains.txt)|29332|All found subdomains (history)|
 
 
 ## Statistics
@@ -12412,10 +12412,10 @@
 |[https://webmail.sa.databank.nl](https://webmail.sa.databank.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Document Moved|
 |[https://webdesign-eindhoven.databank.nl](https://webdesign-eindhoven.databank.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Document Moved|
 |[http://beta-nabb.databank.nl](http://beta-nabb.databank.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Document Moved|
-|[http://demo-primosinteractief.databank.nl](http://demo-primosinteractief.databank.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET|Document Moved|
+|[https://demo-primosinteractief.databank.nl](https://demo-primosinteractief.databank.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | | :white_check_mark: | :white_check_mark: | |Amazon S3 Amazon Web Services Azure Edge Network HSTS Microsoft ASP.NET MyFonts|Primos Interacti...|
 |[https://monitor-ow-en-wkb.databank.nl](https://monitor-ow-en-wkb.databank.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET|Document Moved|
 |[https://cname-terugkoppeling-adc.databank.nl](https://cname-terugkoppeling-adc.databank.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
-|[http://accept-wsjg.databank.nl](http://accept-wsjg.databank.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Document Moved|
+|[https://accept-wsjg.databank.nl](https://accept-wsjg.databank.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Amazon S3 Amazon Web Services Azure Edge Network HSTS Microsoft ASP.NET MyFonts|Home | Waarstaat...|
 |[https://accept-aedesforecast.databank.nl](https://accept-aedesforecast.databank.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | | :white_check_mark: | :white_check_mark: | |HSTS|Document Moved|
 |[https://cards.databank.nl](https://cards.databank.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Document Moved|
 |[https://adl.databank.nl](https://adl.databank.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Document Moved|

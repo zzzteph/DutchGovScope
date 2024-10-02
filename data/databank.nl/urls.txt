@@ -12389,10 +12389,10 @@ https://cerebrum.databank.nl
 https://webmail.sa.databank.nl
 https://webdesign-eindhoven.databank.nl
 http://beta-nabb.databank.nl
-http://demo-primosinteractief.databank.nl
+https://demo-primosinteractief.databank.nl
 https://monitor-ow-en-wkb.databank.nl
 https://cname-terugkoppeling-adc.databank.nl
-http://accept-wsjg.databank.nl
+https://accept-wsjg.databank.nl
 https://accept-aedesforecast.databank.nl
 https://cards.databank.nl
 https://adl.databank.nl

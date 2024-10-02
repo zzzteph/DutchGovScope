@@ -243,3 +243,4 @@ gemeentezoetermeer-lms.trainingscatalogus.nl
 crm.test.trainingscatalogus.nl
 en.test.trainingscatalogus.nl
 mail.test.trainingscatalogus.nl
+vgz-lms.product-api.trainingscatalogus.nl

@@ -12,7 +12,6 @@ http://cn.dnb.nl
 https://sharefile.dnb.nl
 https://securemail.dnb.nl
 http://registers.dnb.nl
-https://cocotoa.dnb.nl
 https://statistiek.dnb.nl
 https://nieuws.dnb.nl
 https://www.toezicht.dnb.nl

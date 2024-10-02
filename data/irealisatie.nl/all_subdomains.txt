@@ -73,3 +73,11 @@ acc.woo.irealisatie.nl
 storage.acc.mgo.irealisatie.nl
 lmr.proeftuin.gf.irealisatie.nl
 prs.test.zm.irealisatie.nl
+adressering.proeftuin.gf.irealisatie.nl
+nvi.proeftuin.gf.irealisatie.nl
+jaeger.proeftuin.gf.irealisatie.nl
+lrs.proeftuin.gf.irealisatie.nl
+kwalificatie-admin-api.proeftuin.gf.irealisatie.nl
+kwalificatie-api.proeftuin.gf.irealisatie.nl
+kwalificatie.proeftuin.gf.irealisatie.nl
+pseudoniem.proeftuin.gf.irealisatie.nl

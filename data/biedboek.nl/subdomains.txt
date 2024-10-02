@@ -2326,6 +2326,7 @@ cbm.biedboek.nl
 zpcp3.blog.biedboek.nl
 um1.biedboek.nl
 seks.biedboek.nl
+vault.aws.biedboek.nl
 wartune.biedboek.nl
 boxmeer.biedboek.nl
 aviabilet.biedboek.nl
