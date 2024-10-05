@@ -12,7 +12,7 @@
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/overheid.nl/subdomains.txt)|71751|Alive subdomains|
-|[urls.txt](/data/overheid.nl/urls.txt)|324|Urls|
+|[urls.txt](/data/overheid.nl/urls.txt)|328|Urls|
 |[all_subdomains.txt](/data/overheid.nl/all_subdomains.txt)|73780|All found subdomains (history)|
 
 
@@ -315,10 +315,14 @@
 |[https://gegevensbijbesluiten.overheid.nl](https://gegevensbijbesluiten.overheid.nl)| **A+**| **B**||:warning: |:white_check_mark: | :warning:| | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS Node.js Nuxt.js Vue.js|Wie gebruikt mij...|
 |[https://digid-stub.lpc.mijn.overheid.nl](https://digid-stub.lpc.mijn.overheid.nl)| **A+**| **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|403 Forbidden|
 |[https://eidas-stub.lpc.mijn.overheid.nl](https://eidas-stub.lpc.mijn.overheid.nl)| **A+**| **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|403 Forbidden|
-|[https://artifact-pp1.toegang.overheid.nl](https://artifact-pp1.toegang.overheid.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |A-Frame HSTS MySQL Nginx PHP Three.js WordPress:6.6.1||
 |[https://boub-api-acc.overheid.nl](https://boub-api-acc.overheid.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS|403 Forbidden|
+|[https://boub-api.overheid.nl](https://boub-api.overheid.nl)| **F**| **E**|| | | | | | | | :white_check_mark: | |HSTS|403 Forbidden|
+|[https://cbm.preprod.mijn.overheid.nl](https://cbm.preprod.mijn.overheid.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|403 Forbidden|
+|[https://koppelvlak-asl.overheid.nl](https://koppelvlak-asl.overheid.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||
 |[https://pdc.acc.omgevingswet.overheid.nl](https://pdc.acc.omgevingswet.overheid.nl)| | **F**|Unspecified| | | | | | | | :white_check_mark: | |HSTS|Kadaster - Pagin...|
 |[https://pp1.toegang.overheid.nl](https://pp1.toegang.overheid.nl)| | **E**|| | | | | | | | :white_check_mark: | |Bootstrap:1.13.18 HSTS|No Access! / Gee...|
+|[https://puc-acc.overheid.nl](https://puc-acc.overheid.nl)| | **B**|Microsoft-IIS/10.0| |:white_check_mark: | | |:warning: | | | :white_check_mark: | |HSTS IIS:10.0 Microsoft ASP.NET Windows Server|401 - Unauthoriz...|
+|[https://puc-redactie-acc.overheid.nl](https://puc-redactie-acc.overheid.nl)| | **A**|Microsoft-IIS/10.0| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS IIS:10.0 Microsoft ASP.NET Windows Server|403 - Forbidden:...|
 |[https://wetgevingskalender-acc.overheid.nl](https://wetgevingskalender-acc.overheid.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|403 Forbidden|
 |[http://beta-wetten.overheid.nl](http://beta-wetten.overheid.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS||
 |[https://autodiscover.overheid.nl](https://autodiscover.overheid.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Not Found|
@@ -326,7 +330,7 @@
 |[https://community.developer.overheid.nl](https://community.developer.overheid.nl)| | **B**|nginx| | | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Discourse Nginx Ruby on Rails|Developer Overhe...|
 |[https://ftp.overheid.nl](https://ftp.overheid.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS||
 |[https://beta-wetten-acc.overheid.nl](https://beta-wetten-acc.overheid.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS|Eenvoudig zoeken...|
-|[https://api.standaarden.overheid.nl](https://api.standaarden.overheid.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
+|[https://api.standaarden.overheid.nl](https://api.standaarden.overheid.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |HSTS Microsoft HTTPAPI:2.0|Not Found|
 |[https://identifier-preprod.overheid.nl](https://identifier-preprod.overheid.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|URI - Performer...|
 |[https://resolver.int.omgevingswet.overheid.nl](https://resolver.int.omgevingswet.overheid.nl)| | **C**|Unspecified| |:white_check_mark: | | | | | | :white_check_mark: | |Basic HSTS|401 Authorizatio...|
 |[https://resolver.kta.omgevingswet.overheid.nl](https://resolver.kta.omgevingswet.overheid.nl)| | **C**|Unspecified| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||

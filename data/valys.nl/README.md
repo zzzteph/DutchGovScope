@@ -11,9 +11,9 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/valys.nl/subdomains.txt)|773|Alive subdomains|
-|[urls.txt](/data/valys.nl/urls.txt)|772|Urls|
-|[all_subdomains.txt](/data/valys.nl/all_subdomains.txt)|876|All found subdomains (history)|
+|[subdomains.txt](/data/valys.nl/subdomains.txt)|772|Alive subdomains|
+|[urls.txt](/data/valys.nl/urls.txt)|771|Urls|
+|[all_subdomains.txt](/data/valys.nl/all_subdomains.txt)|884|All found subdomains (history)|
 
 
 ## Statistics
@@ -21,7 +21,6 @@
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://0900-9630www.valys.nl](https://0900-9630www.valys.nl)| | **F**|Apache/2.4.52 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.52 Ubuntu|301 Moved Perman...|
 |[https://ww.valys.nl](https://ww.valys.nl)| **F**| **F**|Apache/2.4.52 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.52 Ubuntu|301 Moved Perman...|
 |[https://informatie.valys.nl](https://informatie.valys.nl)| **F**| **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|404 Not Found|
 |[https://valys.nl](https://valys.nl)| | **F**|Apache/2.4.52 (Ubuntu)|:o: | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.52 Ubuntu|301 Moved Perman...|

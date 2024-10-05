@@ -273,3 +273,5 @@ hapi.acc.spaceweather.knmi.nl
 hapi.spaceweather.knmi.nl
 shell-cntr-nm.api.dev.spaceweather.knmi.nl
 shell-cntr-nm.hapi.dev.spaceweather.knmi.nl
+dev-branches.dev.spaceweather.knmi.nl
+panels.dev.spaceweather.knmi.nl

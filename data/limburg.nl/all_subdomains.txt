@@ -73,3 +73,5 @@ sorrypagina.limburg.nl
 www.broedvogels.limburg.nl
 atlas.limburg.nl
 www.atlas.limburg.nl
+geoserver.limburg.nl
+www.geoserver.limburg.nl

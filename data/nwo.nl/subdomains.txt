@@ -36,3 +36,4 @@ vibec.nwo.nl
 webconf.nwo.nl
 enterpriseenrollment.nwo.nl
 radius.nwo.nl
+digitoegankelijk.nwo.nl

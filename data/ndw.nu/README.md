@@ -106,7 +106,7 @@
 |[https://design.ndw.nu](https://design.ndw.nu)| | **A**|| |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | |HSTS MkDocs:1.6.1 Python|NDW Docs|
 |[https://sentry.ndw.nu](https://sentry.ndw.nu)| | **E**||:o: | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |||
 |[https://viz.ndw.nu](https://viz.ndw.nu)| | **E**|| | | | | | | | :white_check_mark: | |||
-|[https://daisi.ndw.nu](https://daisi.ndw.nu)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS Nginx|Daisi|
+|[https://daisi.ndw.nu](https://daisi.ndw.nu)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS|Daisi|
 |[https://internal-docs.ndw.nu](https://internal-docs.ndw.nu)| | **A**||:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |||
 |[https://havik.ndw.nu](https://havik.ndw.nu)| | **F**|Microsoft-Azure-Application-Gateway/v2| | | | | | | | :white_check_mark: | ||404 Not Found|
 |[https://analytics.ndw.nu](https://analytics.ndw.nu)| | **F**|Microsoft-Azure-Application-Gateway/v2| | | | | | | | :white_check_mark: | ||404 Not Found|

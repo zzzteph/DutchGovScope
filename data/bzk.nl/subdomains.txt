@@ -4,3 +4,6 @@ leiderschapsdag2024.bzk.nl
 static.preproductie.wallet.edi.bzk.nl
 preproductie.wallet.edi.bzk.nl
 app.preproductie.wallet.edi.bzk.nl
+static.wallet.edi.bzk.nl
+app.wallet.edi.bzk.nl
+wallet.edi.bzk.nl

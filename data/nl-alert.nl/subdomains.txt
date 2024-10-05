@@ -13,3 +13,4 @@ a-feeds.nl-alert.nl
 a-opendata.nl-alert.nl
 a-www.nl-alert.nl
 actueel.nl-alert.nl
+test.actueel.nl-alert.nl

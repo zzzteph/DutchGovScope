@@ -113,6 +113,7 @@ apdnsa03-lo.dmz.belastingdienst.nl
 apdnsa03-p.dmz.belastingdienst.nl
 apdnsa03-q.dmz.belastingdienst.nl
 apdnsa03-vip.dmz.belastingdienst.nl
+apdnsa03.dmz.belastingdienst.nl
 apdnsa05.dmz.belastingdienst.nl
 apextq01.belastingdienst.nl
 apextw01.belastingdienst.nl
@@ -217,9 +218,11 @@ govroam.belastingdienst.nl
 gsa-rest-test.belastingdienst.nl
 gtmb.str14.acc.belastingdienst.nl
 gtmb.acc.belastingdienst.nl
+gtmb.str12.acc.belastingdienst.nl
 gtmb.str13.acc.belastingdienst.nl
 gtmb.str10.acc.belastingdienst.nl
 gtmbperf.acc.belastingdienst.nl
+gtmb.str10.tst.belastingdienst.nl
 gtmb.str13.tst.belastingdienst.nl
 gtmd.str13.acc.belastingdienst.nl
 gtmd.acc.belastingdienst.nl

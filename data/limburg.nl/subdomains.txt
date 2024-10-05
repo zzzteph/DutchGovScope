@@ -12,3 +12,5 @@ referendum.limburg.nl
 referendum-backoffice.limburg.nl
 inloggen.limburg.nl
 ondertekenen.limburg.nl
+atlas.limburg.nl
+www.atlas.limburg.nl

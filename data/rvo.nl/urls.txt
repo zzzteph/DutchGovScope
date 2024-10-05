@@ -106,6 +106,7 @@ https://sonarqube-infra.efiling.mijnoctrooi.rvo.nl
 https://vault-infra.efiling.mijnoctrooi.rvo.nl
 https://vault.efiling.mijnoctrooi.rvo.nl
 https://mijnoctrooi.rvo.nl
+https://wba-acc.rvo.nl
 http://sandbox.rvo.nl
 https://redesign.rvo.nl
 https://gdi-b.rvo.nl
@@ -115,3 +116,6 @@ https://rhel-p-mijn.rvo.nl
 http://rhel-np-mijn.rvo.nl
 https://edicrop.rvo.nl
 https://edicrop-acc.rvo.nl
+https://sandbox-cms.rvo.nl
+https://english-acc.rvo.nl
+https://english-test.rvo.nl

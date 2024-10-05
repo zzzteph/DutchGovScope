@@ -4,7 +4,7 @@ title: "trainingscatalogus.nl"
 permalink: "/dutchgov/trainingscatalogus.nl.html"
 subdomains_count: 246
 all_subdomains_count: 259
-urls_count: 127
+urls_count: 129
 ssl_rank: A+
 http_rank: C
 security_txt: 49
@@ -28,7 +28,7 @@ tags: dutchgov
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/DutchGovScope/data/trainingscatalogus.nl/subdomains.txt)|246|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/trainingscatalogus.nl/urls.txt)|127|Urls|
+|[urls.txt](/DutchGovScope/data/trainingscatalogus.nl/urls.txt)|129|Urls|
 |[all_subdomains.txt](/DutchGovScope/data/trainingscatalogus.nl/all_subdomains.txt)|259|All found subdomains (history)|
 
 
@@ -164,4 +164,6 @@ tags: dutchgov
 |[https://belastingdienst-t.trainingscatalogus.nl](https://belastingdienst-t.trainingscatalogus.nl)| | **A**|Class|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://rabobank-lms-a.trainingscatalogus.nl](https://rabobank-lms-a.trainingscatalogus.nl)| | **A**|Class|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Access is denied...|
 |[https://lms-tragelacademie.trainingscatalogus.nl](https://lms-tragelacademie.trainingscatalogus.nl)| | **A**|Class|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Access is denied...|
+|[https://leerhuis.trainingscatalogus.nl](https://leerhuis.trainingscatalogus.nl)| | **B**|Class|:white_check_mark: |:white_check_mark: | | |:warning: | | :white_check_mark: | :white_check_mark: | |HSTS||
+|[https://ivorechtspraak-lms-a.scim-api.trainingscatalogus.nl](https://ivorechtspraak-lms-a.scim-api.trainingscatalogus.nl)| | **F**|Microsoft-IIS/10.0|:white_check_mark: | | | | | | | :white_check_mark: | |Azure IIS:10.0 Microsoft ASP.NET Windows Server||
 

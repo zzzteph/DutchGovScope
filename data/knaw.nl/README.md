@@ -514,7 +514,7 @@
 |[https://backstage.labs.dans.knaw.nl](https://backstage.labs.dans.knaw.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://prefect.labs.dans.knaw.nl](https://prefect.labs.dans.knaw.nl)| | **E**|| | | | | | | | :white_check_mark: | |Python Uvicorn||
 |[https://globhut.labs.dans.knaw.nl](https://globhut.labs.dans.knaw.nl)| | **F**|uvicorn| | | :warning:| | | | | :white_check_mark: | |Python Uvicorn||
-|[https://genomes.bioinf.nioo.knaw.nl](https://genomes.bioinf.nioo.knaw.nl)| | **B**|nginx| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Drupal HSTS Nginx PHP Varnish:6.2|Redirecting to h...|
+|[https://genomes.bioinf.nioo.knaw.nl](https://genomes.bioinf.nioo.knaw.nl)| | **B**|nginx| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Drupal:9 HSTS Nginx PHP Varnish:6.2|Redirecting to h...|
 |[https://minioapi.labs.dans.knaw.nl](https://minioapi.labs.dans.knaw.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| | :white_check_mark: | :white_check_mark: | |||
 |[https://transformer.labs.dans.knaw.nl](https://transformer.labs.dans.knaw.nl)| | **F**|uvicorn| | | | | | | | :white_check_mark: | |Python Uvicorn||
 |[https://faireva.labs.dans.knaw.nl](https://faireva.labs.dans.knaw.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
@@ -533,7 +533,7 @@
 |[https://sep.nioo.knaw.nl](https://sep.nioo.knaw.nl)| | **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |Basic HSTS Nginx|401 Authorizatio...|
 |[https://gitlab.bioinf.nioo.knaw.nl](https://gitlab.bioinf.nioo.knaw.nl)| | **A**|nginx|:warning: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://dataverse-importer.labs.dans.knaw.nl](https://dataverse-importer.labs.dans.knaw.nl)| | **F**|uvicorn| | | | | | | | :white_check_mark: | |Python Uvicorn||
-|[https://phpmyadmin.wordpress.dans.knaw.nl](https://phpmyadmin.wordpress.dans.knaw.nl)| | **F**|nginx/1.14.1| | | | | | | | :white_check_mark: | |HSTS MySQL Nginx:1.14.1 PHP:7.4.33 Slick WPML:4.6.13 WordPress:6.6.1 Yoast SEO:23.3 jQuery|DANS | Expertise...|
+|[https://phpmyadmin.wordpress.dans.knaw.nl](https://phpmyadmin.wordpress.dans.knaw.nl)| | **F**|nginx/1.14.1| | | | | | | | :white_check_mark: | |HSTS MySQL Nginx:1.14.1 PHP:7.4.33 Slick WPML:4.6.13 WordPress:6.6.2 Yoast SEO:23.5 jQuery|DANS | Expertise...|
 |[https://type.labs.dans.knaw.nl](https://type.labs.dans.knaw.nl)| | **F**|uvicorn| | | | | | | | :white_check_mark: | |Python Uvicorn||
 |[https://dtrs.labs.dans.knaw.nl](https://dtrs.labs.dans.knaw.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://version-tracker.labs.dans.knaw.nl](https://version-tracker.labs.dans.knaw.nl)| | **F**|uvicorn| | | | | | | | :white_check_mark: | |Python Uvicorn||

@@ -13,7 +13,7 @@
 |------------|-------|------|
 |[subdomains.txt](/data/hetgrootstecoronaspreekuur.nl/subdomains.txt)|0|Alive subdomains|
 |[urls.txt](/data/hetgrootstecoronaspreekuur.nl/urls.txt)|0|Urls|
-|[all_subdomains.txt](/data/hetgrootstecoronaspreekuur.nl/all_subdomains.txt)|0|All found subdomains (history)|
+|[all_subdomains.txt](/data/hetgrootstecoronaspreekuur.nl/all_subdomains.txt)|2|All found subdomains (history)|
 
 
 ## Statistics

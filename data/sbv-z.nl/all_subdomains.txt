@@ -34,3 +34,4 @@ www.webservice-log.sbv-z.nl
 a-magazines.a-english.sbv-z.nl
 a-opendata.a-english.sbv-z.nl
 acceptatie.raadplegen.sbv-z.nl
+acceptatie.uzipas.raadplegen.sbv-z.nl

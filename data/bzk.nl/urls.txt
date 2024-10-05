@@ -2,3 +2,5 @@ https://www.bzk.nl
 https://bzk.nl
 https://leiderschapsdag2024.bzk.nl
 https://static.preproductie.wallet.edi.bzk.nl
+https://preproductie.wallet.edi.bzk.nl
+https://app.preproductie.wallet.edi.bzk.nl

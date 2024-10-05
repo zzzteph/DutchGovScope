@@ -11,7 +11,7 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/mfaservices.nl/subdomains.txt)|155|Alive subdomains|
+|[subdomains.txt](/data/mfaservices.nl/subdomains.txt)|160|Alive subdomains|
 |[urls.txt](/data/mfaservices.nl/urls.txt)|58|Urls|
 |[all_subdomains.txt](/data/mfaservices.nl/all_subdomains.txt)|304|All found subdomains (history)|
 

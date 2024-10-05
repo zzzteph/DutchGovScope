@@ -153,3 +153,8 @@ snd-bvv-api.data-exchange.consular.mfaservices.nl
 snd-bvv-ebms.data-exchange.consular.mfaservices.nl
 tst-bvv-api.data-exchange.consular.mfaservices.nl
 tst-bvv-ebms.data-exchange.consular.mfaservices.nl
+dev-bvi-ib.data-exchange.consular.mfaservices.nl
+tst-bvi-ib.data-exchange.consular.mfaservices.nl
+dev-bzk2-api.data-exchange.consular.mfaservices.nl
+snd-bzk2-api.data-exchange.consular.mfaservices.nl
+tst-bzk2-api.data-exchange.consular.mfaservices.nl

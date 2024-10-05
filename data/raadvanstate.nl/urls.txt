@@ -19,6 +19,7 @@ https://portaal.gateway.raadvanstate.nl
 https://raadvanstate.nl
 https://siam-acp.raadvanstate.nl
 https://siam.raadvanstate.nl
+https://sts-acp.raadvanstate.nl
 https://tdportal.raadvanstate.nl
 https://www.raadvanstate.nl
 https://zittingsagenda.raadvanstate.nl

@@ -257,6 +257,7 @@ https://manveldapp-beheer.rivm.nl
 https://dev-lsp.rivm.nl
 https://api.dev-lsp.rivm.nl
 http://demo.pb-pk.rivm.nl
+http://geodata.rivm.nl
 http://gvcheckrivm1.rivm.nl
 http://lkvis.rivm.nl
 https://www.rivm.nl

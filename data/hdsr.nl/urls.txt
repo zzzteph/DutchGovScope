@@ -1,4 +1,3 @@
-https://werkplek.hdsr.nl
 https://zaaksysteem.hdsr.nl
 https://ftp-hdsr.hdsr.nl
 https://webdiensten.hdsr.nl
@@ -6,7 +5,6 @@ https://cawfirewall.hdsr.nl
 https://testbegrippen.hdsr.nl
 https://uconnect.hdsr.nl
 https://cawuitwijkfirewall.hdsr.nl
-https://webservices.hdsr.nl
 https://redactie.hdsr.nl
 http://autodiscover.hdsr.nl
 https://www.hdsr.nl

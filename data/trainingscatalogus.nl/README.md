@@ -12,7 +12,7 @@
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/trainingscatalogus.nl/subdomains.txt)|246|Alive subdomains|
-|[urls.txt](/data/trainingscatalogus.nl/urls.txt)|127|Urls|
+|[urls.txt](/data/trainingscatalogus.nl/urls.txt)|129|Urls|
 |[all_subdomains.txt](/data/trainingscatalogus.nl/all_subdomains.txt)|259|All found subdomains (history)|
 
 
@@ -148,4 +148,6 @@
 |[https://belastingdienst-t.trainingscatalogus.nl](https://belastingdienst-t.trainingscatalogus.nl)| | **A**|Class|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://rabobank-lms-a.trainingscatalogus.nl](https://rabobank-lms-a.trainingscatalogus.nl)| | **A**|Class|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Access is denied...|
 |[https://lms-tragelacademie.trainingscatalogus.nl](https://lms-tragelacademie.trainingscatalogus.nl)| | **A**|Class|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Access is denied...|
+|[https://leerhuis.trainingscatalogus.nl](https://leerhuis.trainingscatalogus.nl)| | **B**|Class|:white_check_mark: |:white_check_mark: | | |:warning: | | :white_check_mark: | :white_check_mark: | |HSTS||
+|[https://ivorechtspraak-lms-a.scim-api.trainingscatalogus.nl](https://ivorechtspraak-lms-a.scim-api.trainingscatalogus.nl)| | **F**|Microsoft-IIS/10.0|:white_check_mark: | | | | | | | :white_check_mark: | |Azure IIS:10.0 Microsoft ASP.NET Windows Server||
 

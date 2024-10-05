@@ -13,7 +13,7 @@
 |------------|-------|------|
 |[subdomains.txt](/data/jio.nl/subdomains.txt)|18|Alive subdomains|
 |[urls.txt](/data/jio.nl/urls.txt)|6|Urls|
-|[all_subdomains.txt](/data/jio.nl/all_subdomains.txt)|51|All found subdomains (history)|
+|[all_subdomains.txt](/data/jio.nl/all_subdomains.txt)|52|All found subdomains (history)|
 
 
 ## Statistics

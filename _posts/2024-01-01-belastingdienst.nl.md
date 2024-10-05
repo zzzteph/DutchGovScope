@@ -2,12 +2,12 @@
 layout: default
 title: "belastingdienst.nl"
 permalink: "/dutchgov/belastingdienst.nl.html"
-subdomains_count: 460
+subdomains_count: 463
 all_subdomains_count: 800
-urls_count: 106
+urls_count: 105
 ssl_rank: A-
 http_rank: C
-security_txt: 43
+security_txt: 42
 url_link: /data/belastingdienst.nl/urls.txt
 all_subdomains_link: /data/belastingdienst.nl/all_subdomains.txt
 subdomains_link: /data/belastingdienst.nl/subdomains.txt
@@ -22,13 +22,13 @@ tags: dutchgov
 
  - **SSL Grade**:A-
  - **HTTP Security Grade**:C
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:43
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:42
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/belastingdienst.nl/subdomains.txt)|460|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/belastingdienst.nl/urls.txt)|106|Urls|
+|[subdomains.txt](/DutchGovScope/data/belastingdienst.nl/subdomains.txt)|463|Alive subdomains|
+|[urls.txt](/DutchGovScope/data/belastingdienst.nl/urls.txt)|105|Urls|
 |[all_subdomains.txt](/DutchGovScope/data/belastingdienst.nl/all_subdomains.txt)|800|All found subdomains (history)|
 
 
@@ -140,7 +140,6 @@ tags: dutchgov
 |[https://adobe-analytics-dc.belastingdienst.nl](https://adobe-analytics-dc.belastingdienst.nl)| **A+**| **B**|jag| |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://intermediairdagen.belastingdienst.nl](https://intermediairdagen.belastingdienst.nl)| | **A**|BigIP|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |F5 BigIP||
 |[https://mul-mbc.belastingdienst.nl](https://mul-mbc.belastingdienst.nl)| **A**| **F**||:warning: | | | | | | | :white_check_mark: | |Microsoft ASP.NET|Aangifte Inkomst...|
-|[https://mijnzakelijk.acc.belastingdienst.nl](https://mijnzakelijk.acc.belastingdienst.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Online diensten...|
 |[https://sadp.belastingdienst.nl](https://sadp.belastingdienst.nl)| **A+**| **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Home - Aangifte-...|
 |[https://rwn.belastingdienst.nl](https://rwn.belastingdienst.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Request Rejected|
 

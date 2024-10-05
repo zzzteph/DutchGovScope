@@ -302,3 +302,4 @@ bibliotheek-test.tweedekamer.nl
 static.beta.tweedekamer.nl
 klinkendetaal.tweedekamer.nl
 stage.beta.tweedekamer.nl
+wachtrij.tweedekamer.nl

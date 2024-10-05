@@ -12,7 +12,7 @@
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/scp.nl/subdomains.txt)|34|Alive subdomains|
-|[urls.txt](/data/scp.nl/urls.txt)|21|Urls|
+|[urls.txt](/data/scp.nl/urls.txt)|20|Urls|
 |[all_subdomains.txt](/data/scp.nl/all_subdomains.txt)|58|All found subdomains (history)|
 
 
@@ -41,5 +41,4 @@
 |[https://testmail.scp.nl](https://testmail.scp.nl)| **F**| **F**|BigIP| | | | | | | | :white_check_mark: | |F5 BigIP HSTS||
 |[https://www.scp.nl](https://www.scp.nl)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Home | Sociaal e...|
 |[https://scp.nl](https://scp.nl)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
-|[https://sf.scp.nl](https://sf.scp.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 

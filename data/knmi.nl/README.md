@@ -13,7 +13,7 @@
 |------------|-------|------|
 |[subdomains.txt](/data/knmi.nl/subdomains.txt)|162|Alive subdomains|
 |[urls.txt](/data/knmi.nl/urls.txt)|64|Urls|
-|[all_subdomains.txt](/data/knmi.nl/all_subdomains.txt)|275|All found subdomains (history)|
+|[all_subdomains.txt](/data/knmi.nl/all_subdomains.txt)|277|All found subdomains (history)|
 
 
 ## Statistics
@@ -79,7 +79,7 @@
 |[https://www.klimaatscenarios-data.knmi.nl](https://www.klimaatscenarios-data.knmi.nl)| **A+**| **B**||:warning: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Amazon CloudFront Amazon Web Services HSTS Ruby Ruby on Rails|KNMI Klimaatscen...|
 |[https://mqtt.dataplatform.knmi.nl](https://mqtt.dataplatform.knmi.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://origin.klimaatscenarios-data.knmi.nl](https://origin.klimaatscenarios-data.knmi.nl)| | **F**|awselb/2.0| | | | | | | | :white_check_mark: | |Amazon ELB Amazon Web Services||
-|[https://anonymous.api.dataplatform.knmi.nl](https://anonymous.api.dataplatform.knmi.nl)| **A**| **F**|nginx/1.26.2| | | | | | | | :white_check_mark: | |Nginx:1.26.2|404 Not Found|
+|[https://anonymous.api.dataplatform.knmi.nl](https://anonymous.api.dataplatform.knmi.nl)| **A**| **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|404 Not Found|
 |[https://cms-origin.klimaatscenarios-data.knmi.nl](https://cms-origin.klimaatscenarios-data.knmi.nl)| **A**| **F**|awselb/2.0| | | | | | | | :white_check_mark: | |Amazon ELB Amazon Web Services||
 |[https://cdn.klimaatscenarios-data.knmi.nl](https://cdn.klimaatscenarios-data.knmi.nl)| | **A**|AmazonS3| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Amazon CloudFront Amazon S3 Amazon Web Services HSTS||
 |[https://eelcodoornbos-master-patch-38139.data.dev.spaceweather.knmi.nl](https://eelcodoornbos-master-patch-38139.data.dev.spaceweather.knmi.nl)| | **F**|Apache/2.4.58 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.58 Ubuntu|Apache2 Ubuntu D...|

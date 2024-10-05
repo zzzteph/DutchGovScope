@@ -3,7 +3,7 @@ layout: default
 title: "cocreatesa.nl"
 permalink: "/dutchgov/cocreatesa.nl.html"
 subdomains_count: 3113
-all_subdomains_count: 3113
+all_subdomains_count: 3126
 urls_count: 3050
 ssl_rank: 
 http_rank: F
@@ -29,7 +29,7 @@ tags: dutchgov
 |------------|-------|------|
 |[subdomains.txt](/DutchGovScope/data/cocreatesa.nl/subdomains.txt)|3113|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/cocreatesa.nl/urls.txt)|3050|Urls|
-|[all_subdomains.txt](/DutchGovScope/data/cocreatesa.nl/all_subdomains.txt)|3113|All found subdomains (history)|
+|[all_subdomains.txt](/DutchGovScope/data/cocreatesa.nl/all_subdomains.txt)|3126|All found subdomains (history)|
 
 
 ## Statistics

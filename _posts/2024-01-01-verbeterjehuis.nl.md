@@ -53,7 +53,7 @@ tags: dutchgov
 |[https://acc-cms.verbeterjehuis.nl](https://acc-cms.verbeterjehuis.nl)| | **C**|cloudflare| |:white_check_mark: | | | | | | :white_check_mark: | |Cloudflare HSTS|Document Moved|
 |[https://acc-groenesubsidiewijzer.verbeterjehuis.nl](https://acc-groenesubsidiewijzer.verbeterjehuis.nl)| | **B**|cloudflare| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Cloudflare HSTS|Attention Requir...|
 |[https://acc-content.verbeterjehuis.nl](https://acc-content.verbeterjehuis.nl)| | **B**|cloudflare| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Cloudflare HSTS|Attention Requir...|
-|[https://test-cms.verbeterjehuis.nl](https://test-cms.verbeterjehuis.nl)| | **B**|cloudflare| |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | |Cloudflare HSTS|Document Moved|
+|[https://test-cms.verbeterjehuis.nl](https://test-cms.verbeterjehuis.nl)| | **C**|cloudflare| |:white_check_mark: | | | | | | :white_check_mark: | |Cloudflare HSTS|Document Moved|
 |[https://test-content.verbeterjehuis.nl](https://test-content.verbeterjehuis.nl)| | **B**|cloudflare| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Cloudflare HSTS|Attention Requir...|
 |[https://test-groenesubsidiewijzer.verbeterjehuis.nl](https://test-groenesubsidiewijzer.verbeterjehuis.nl)| | **B**|cloudflare| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Cloudflare HSTS|Attention Requir...|
 

@@ -9,7 +9,6 @@ https://vocseavoyagers.nationaalarchief.nl
 https://acpt.nationaalarchief.nl
 https://actorenregister.acpt.nationaalarchief.nl
 https://actorenregister.nationaalarchief.nl
-https://actorenregister.test.nationaalarchief.nl
 https://cbs.acpt.nationaalarchief.nl
 https://cbs.nationaalarchief.nl
 https://chat.nationaalarchief.nl
@@ -25,8 +24,6 @@ https://gaf.nationaalarchief.nl
 https://registratietool.nationaalarchief.nl
 https://graphdb.nationaalarchief.nl
 https://lbrproxy.prod.nationaalarchief.nl
-https://lbrproxy.test.nationaalarchief.nl
-https://test.nationaalarchief.nl
 https://meeting.nationaalarchief.nl
 https://nextdrive.nationaalarchief.nl
 https://pywb.nationaalarchief.nl

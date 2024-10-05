@@ -125,3 +125,5 @@ https://tennetlms-a.trainingscatalogus.nl
 https://belastingdienst-t.trainingscatalogus.nl
 https://rabobank-lms-a.trainingscatalogus.nl
 https://lms-tragelacademie.trainingscatalogus.nl
+https://leerhuis.trainingscatalogus.nl
+https://ivorechtspraak-lms-a.scim-api.trainingscatalogus.nl

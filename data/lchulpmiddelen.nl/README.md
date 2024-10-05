@@ -4,7 +4,7 @@
 ## Summary data
 
 
- - **SSL Grade**:E
+ - **SSL Grade**:D
  - **HTTP Security Grade**:E
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:2
 
@@ -12,7 +12,7 @@
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/lchulpmiddelen.nl/subdomains.txt)|12|Alive subdomains|
-|[urls.txt](/data/lchulpmiddelen.nl/urls.txt)|11|Urls|
+|[urls.txt](/data/lchulpmiddelen.nl/urls.txt)|12|Urls|
 |[all_subdomains.txt](/data/lchulpmiddelen.nl/all_subdomains.txt)|19|All found subdomains (history)|
 
 
@@ -28,6 +28,7 @@
 |[https://cpcontacts.lchulpmiddelen.nl](https://cpcontacts.lchulpmiddelen.nl)| | **F**|LiteSpeed| | | | | | | | :white_check_mark: | |HTTP/3 LiteSpeed|403 Forbidden|
 |[https://ftp.lchulpmiddelen.nl](https://ftp.lchulpmiddelen.nl)| **F**| **F**|LiteSpeed| | | | | | | | :white_check_mark: | |HTTP/3 LiteSpeed||
 |[https://ipv6.lchulpmiddelen.nl](https://ipv6.lchulpmiddelen.nl)| **F**| **F**|LiteSpeed| | | | | | | | :white_check_mark: | |HTTP/3 LiteSpeed||
+|[https://test.apps.lchulpmiddelen.nl](https://test.apps.lchulpmiddelen.nl)| **A**| **F**|Microsoft-IIS/10.0| | | | | | | | :white_check_mark: | |IIS:10.0 Windows Server|502 - Web server...|
 |[https://webdisk.lchulpmiddelen.nl](https://webdisk.lchulpmiddelen.nl)| **F**| **F**|LiteSpeed| | | | | | | | :white_check_mark: | |HTTP/3 LiteSpeed|403 Forbidden|
 |[https://www.lchulpmiddelen.nl](https://www.lchulpmiddelen.nl)| **A+**| **A**|-| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://lchulpmiddelen.nl](https://lchulpmiddelen.nl)| | **A**|-| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||

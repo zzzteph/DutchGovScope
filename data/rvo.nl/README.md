@@ -12,7 +12,7 @@
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/rvo.nl/subdomains.txt)|174|Alive subdomains|
-|[urls.txt](/data/rvo.nl/urls.txt)|117|Urls|
+|[urls.txt](/data/rvo.nl/urls.txt)|121|Urls|
 |[all_subdomains.txt](/data/rvo.nl/all_subdomains.txt)|282|All found subdomains (history)|
 
 
@@ -129,6 +129,7 @@
 |[https://vault-infra.efiling.mijnoctrooi.rvo.nl](https://vault-infra.efiling.mijnoctrooi.rvo.nl)| | **F**|Server| | | | | | | | :white_check_mark: | |||
 |[https://vault.efiling.mijnoctrooi.rvo.nl](https://vault.efiling.mijnoctrooi.rvo.nl)| | **F**|Server| | | | | | | | :white_check_mark: | |||
 |[https://mijnoctrooi.rvo.nl](https://mijnoctrooi.rvo.nl)| | **A**|Server| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |||
+|[https://wba-acc.rvo.nl](https://wba-acc.rvo.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Betalen|
 |[http://sandbox.rvo.nl](http://sandbox.rvo.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS|404 - Not Found|
 |[https://redesign.rvo.nl](https://redesign.rvo.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Basic Nginx|401 Authorizatio...|
 |[https://gdi-b.rvo.nl](https://gdi-b.rvo.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS|Onderhoud Pagina|
@@ -138,4 +139,7 @@
 |[http://rhel-np-mijn.rvo.nl](http://rhel-np-mijn.rvo.nl)| | **A**|BigIP|:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |F5 BigIP||
 |[https://edicrop.rvo.nl](https://edicrop.rvo.nl)| | **B**||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS Oracle Dynamic Monitoring Service Oracle WebLogic Server|Error 404--Not F...|
 |[https://edicrop-acc.rvo.nl](https://edicrop-acc.rvo.nl)| | **B**||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS Oracle Dynamic Monitoring Service Oracle WebLogic Server|Error 404--Not F...|
+|[https://sandbox-cms.rvo.nl](https://sandbox-cms.rvo.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS|403 Forbidden|
+|[https://english-acc.rvo.nl](https://english-acc.rvo.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS|403 Forbidden|
+|[https://english-test.rvo.nl](https://english-test.rvo.nl)| | **E**|| | | | | | | | :white_check_mark: | |Basic HSTS|401 Authorizatio...|
 

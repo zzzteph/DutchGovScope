@@ -18,4 +18,3 @@ https://test-intranet.scp.nl
 https://testmail.scp.nl
 https://www.scp.nl
 https://scp.nl
-https://sf.scp.nl

@@ -12,7 +12,7 @@
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/biedboek.nl/subdomains.txt)|6340|Alive subdomains|
-|[urls.txt](/data/biedboek.nl/urls.txt)|6337|Urls|
+|[urls.txt](/data/biedboek.nl/urls.txt)|6338|Urls|
 |[all_subdomains.txt](/data/biedboek.nl/all_subdomains.txt)|6343|All found subdomains (history)|
 
 
@@ -6358,4 +6358,5 @@
 |[https://1shop.biedboek.nl](https://1shop.biedboek.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Microsoft Azure...|
 |[https://fisglobal.biedboek.nl](https://fisglobal.biedboek.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Microsoft Azure...|
 |[https://app01.biedboek.nl](https://app01.biedboek.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Microsoft Azure...|
+|[https://magcomm.biedboek.nl](https://magcomm.biedboek.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Microsoft Azure...|
 

@@ -13,7 +13,7 @@
 |------------|-------|------|
 |[subdomains.txt](/data/perined.nl/subdomains.txt)|1726|Alive subdomains|
 |[urls.txt](/data/perined.nl/urls.txt)|1723|Urls|
-|[all_subdomains.txt](/data/perined.nl/all_subdomains.txt)|1726|All found subdomains (history)|
+|[all_subdomains.txt](/data/perined.nl/all_subdomains.txt)|2386|All found subdomains (history)|
 
 
 ## Statistics
