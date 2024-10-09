@@ -11,9 +11,9 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/biedboek.nl/subdomains.txt)|6340|Alive subdomains|
-|[urls.txt](/data/biedboek.nl/urls.txt)|6338|Urls|
-|[all_subdomains.txt](/data/biedboek.nl/all_subdomains.txt)|6343|All found subdomains (history)|
+|[subdomains.txt](/data/biedboek.nl/subdomains.txt)|6335|Alive subdomains|
+|[urls.txt](/data/biedboek.nl/urls.txt)|6333|Urls|
+|[all_subdomains.txt](/data/biedboek.nl/all_subdomains.txt)|6345|All found subdomains (history)|
 
 
 ## Statistics
@@ -848,23 +848,18 @@
 |[https://sox.biedboek.nl](https://sox.biedboek.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Microsoft Azure...|
 |[https://srh.biedboek.nl](https://srh.biedboek.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Microsoft Azure...|
 |[https://testcore.biedboek.nl](https://testcore.biedboek.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Microsoft Azure...|
-|[https://belden.biedboek.nl](https://belden.biedboek.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Microsoft Azure...|
 |[https://webct.biedboek.nl](https://webct.biedboek.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Microsoft Azure...|
 |[https://opheusden.biedboek.nl](https://opheusden.biedboek.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Microsoft Azure...|
 |[https://goths.biedboek.nl](https://goths.biedboek.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Microsoft Azure...|
 |[https://courcouronnes.biedboek.nl](https://courcouronnes.biedboek.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Microsoft Azure...|
-|[https://oceans.biedboek.nl](https://oceans.biedboek.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Microsoft Azure...|
 |[https://goldrush.biedboek.nl](https://goldrush.biedboek.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Microsoft Azure...|
 |[https://pages.biedboek.nl](https://pages.biedboek.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Microsoft Azure...|
 |[https://bialetti.biedboek.nl](https://bialetti.biedboek.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Microsoft Azure...|
-|[https://nx.biedboek.nl](https://nx.biedboek.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Microsoft Azure...|
 |[https://advocaat.biedboek.nl](https://advocaat.biedboek.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Microsoft Azure...|
-|[https://90er-jaren.biedboek.nl](https://90er-jaren.biedboek.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Microsoft Azure...|
 |[https://kapel-avezaath.biedboek.nl](https://kapel-avezaath.biedboek.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Microsoft Azure...|
 |[https://cheap-vps-netherlands.biedboek.nl](https://cheap-vps-netherlands.biedboek.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Microsoft Azure...|
 |[https://www2.math.biedboek.nl](https://www2.math.biedboek.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Microsoft Azure...|
 |[https://capp.biedboek.nl](https://capp.biedboek.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Microsoft Azure...|
-|[https://midia.biedboek.nl](https://midia.biedboek.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Microsoft Azure...|
 |[https://ftp.cp.biedboek.nl](https://ftp.cp.biedboek.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Microsoft Azure...|
 |[https://brandman.biedboek.nl](https://brandman.biedboek.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Microsoft Azure...|
 |[https://stoelmassage.biedboek.nl](https://stoelmassage.biedboek.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Microsoft Azure...|

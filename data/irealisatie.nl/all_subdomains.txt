@@ -81,3 +81,4 @@ kwalificatie-admin-api.proeftuin.gf.irealisatie.nl
 kwalificatie-api.proeftuin.gf.irealisatie.nl
 kwalificatie.proeftuin.gf.irealisatie.nl
 pseudoniem.proeftuin.gf.irealisatie.nl
+sat.irealisatie.nl

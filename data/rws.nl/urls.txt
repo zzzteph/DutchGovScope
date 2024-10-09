@@ -167,8 +167,6 @@ http://mip-proxy-acc.rws.nl
 https://svs.ptp.inloggen.rws.nl
 https://eventrecorder.ptp.inloggen.rws.nl
 https://mars.ptp.inloggen.rws.nl
-https://mars2.ptp.acc-inloggen.rws.nl
-https://schadeportaal.ptp.acc-inloggen.rws.nl
 https://digitaltwin-dev.rws.nl
-https://eventrecorder.ptp.acc-inloggen.rws.nl
 https://werkplek.gw01-gslb.rws.nl
+http://mip-proxy-prod.rws.nl

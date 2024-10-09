@@ -2,7 +2,7 @@
 layout: default
 title: "bigregister.nl"
 permalink: "/dutchgov/bigregister.nl.html"
-subdomains_count: 28
+subdomains_count: 29
 all_subdomains_count: 45
 urls_count: 22
 ssl_rank: A
@@ -27,7 +27,7 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/bigregister.nl/subdomains.txt)|28|Alive subdomains|
+|[subdomains.txt](/DutchGovScope/data/bigregister.nl/subdomains.txt)|29|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/bigregister.nl/urls.txt)|22|Urls|
 |[all_subdomains.txt](/DutchGovScope/data/bigregister.nl/all_subdomains.txt)|45|All found subdomains (history)|
 

@@ -5,15 +5,15 @@
 
 
  - **SSL Grade**:B+
- - **HTTP Security Grade**:D
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:98
+ - **HTTP Security Grade**:C
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:99
 
 
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/rws.nl/subdomains.txt)|272|Alive subdomains|
-|[urls.txt](/data/rws.nl/urls.txt)|174|Urls|
-|[all_subdomains.txt](/data/rws.nl/all_subdomains.txt)|1208|All found subdomains (history)|
+|[urls.txt](/data/rws.nl/urls.txt)|172|Urls|
+|[all_subdomains.txt](/data/rws.nl/all_subdomains.txt)|1210|All found subdomains (history)|
 
 
 ## Statistics
@@ -190,9 +190,7 @@
 |[https://svs.ptp.inloggen.rws.nl](https://svs.ptp.inloggen.rws.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||
 |[https://eventrecorder.ptp.inloggen.rws.nl](https://eventrecorder.ptp.inloggen.rws.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||
 |[https://mars.ptp.inloggen.rws.nl](https://mars.ptp.inloggen.rws.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS Pulse Secure||
-|[https://mars2.ptp.acc-inloggen.rws.nl](https://mars2.ptp.acc-inloggen.rws.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS Pulse Secure||
-|[https://schadeportaal.ptp.acc-inloggen.rws.nl](https://schadeportaal.ptp.acc-inloggen.rws.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS Pulse Secure||
 |[https://digitaltwin-dev.rws.nl](https://digitaltwin-dev.rws.nl)| | **E**|| | | | | | | | :white_check_mark: | |Azure Azure Front Door|Service unavaila...|
-|[https://eventrecorder.ptp.acc-inloggen.rws.nl](https://eventrecorder.ptp.acc-inloggen.rws.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS Pulse Secure||
 |[https://werkplek.gw01-gslb.rws.nl](https://werkplek.gw01-gslb.rws.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||
+|[http://mip-proxy-prod.rws.nl](http://mip-proxy-prod.rws.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 

@@ -280,3 +280,5 @@ edicrop-acc.rvo.nl
 sandbox-cms.rvo.nl
 english-acc.rvo.nl
 english-test.rvo.nl
+upnl-acc-businesstest.mijn.rvo.nl
+upnl-acc-inregel.mijn.rvo.nl

@@ -11,8 +11,8 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/perined.nl/subdomains.txt)|1726|Alive subdomains|
-|[urls.txt](/data/perined.nl/urls.txt)|1723|Urls|
+|[subdomains.txt](/data/perined.nl/subdomains.txt)|1725|Alive subdomains|
+|[urls.txt](/data/perined.nl/urls.txt)|1722|Urls|
 |[all_subdomains.txt](/data/perined.nl/all_subdomains.txt)|2386|All found subdomains (history)|
 
 
@@ -124,10 +124,10 @@
 |[https://adalar.perined.nl](https://adalar.perined.nl)| | **F**|Apache/2.4.62 (Amazon Linux) OpenSSL/3.0.8| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.62 HSTS OpenSSL:3.0.8|301 Moved Perman...|
 |[https://www-gp-web-1744.perined.nl](https://www-gp-web-1744.perined.nl)| | **F**|Apache/2.4.62 (Amazon Linux) OpenSSL/3.0.8| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.62 HSTS OpenSSL:3.0.8|301 Moved Perman...|
 |[https://dissent.perined.nl](https://dissent.perined.nl)| | **F**|Apache/2.4.62 (Amazon Linux) OpenSSL/3.0.8| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.62 HSTS OpenSSL:3.0.8|301 Moved Perman...|
-|[https://mysales.perined.nl](https://mysales.perined.nl)| | **F**|Apache/2.4.61 (Amazon Linux) OpenSSL/3.0.8| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.61 HSTS OpenSSL:3.0.8|301 Moved Perman...|
-|[https://wye.perined.nl](https://wye.perined.nl)| | **F**|Apache/2.4.61 (Amazon Linux) OpenSSL/3.0.8| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.61 HSTS OpenSSL:3.0.8|301 Moved Perman...|
-|[https://hog.perined.nl](https://hog.perined.nl)| | **F**|Apache/2.4.61 (Amazon Linux) OpenSSL/3.0.8| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.61 HSTS OpenSSL:3.0.8|301 Moved Perman...|
-|[https://voipa032.perined.nl](https://voipa032.perined.nl)| | **F**|Apache/2.4.61 (Amazon Linux) OpenSSL/3.0.8| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.61 HSTS OpenSSL:3.0.8|301 Moved Perman...|
+|[https://mysales.perined.nl](https://mysales.perined.nl)| | **F**|Apache/2.4.62 (Amazon Linux) OpenSSL/3.0.8| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.62 HSTS OpenSSL:3.0.8|301 Moved Perman...|
+|[https://wye.perined.nl](https://wye.perined.nl)| | **F**|Apache/2.4.62 (Amazon Linux) OpenSSL/3.0.8| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.62 HSTS OpenSSL:3.0.8|301 Moved Perman...|
+|[https://hog.perined.nl](https://hog.perined.nl)| | **F**|Apache/2.4.62 (Amazon Linux) OpenSSL/3.0.8| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.62 HSTS OpenSSL:3.0.8|301 Moved Perman...|
+|[https://voipa032.perined.nl](https://voipa032.perined.nl)| | **F**|Apache/2.4.62 (Amazon Linux) OpenSSL/3.0.8| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.62 HSTS OpenSSL:3.0.8|301 Moved Perman...|
 |[https://freeip66.175.60.perined.nl](https://freeip66.175.60.perined.nl)| | **F**|Apache/2.4.61 (Amazon Linux) OpenSSL/3.0.8| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.61 HSTS OpenSSL:3.0.8|301 Moved Perman...|
 |[https://bathmen.perined.nl](https://bathmen.perined.nl)| | **F**|Apache/2.4.61 (Amazon Linux) OpenSSL/3.0.8| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.61 HSTS OpenSSL:3.0.8|301 Moved Perman...|
 |[https://autodiscover.ch.perined.nl](https://autodiscover.ch.perined.nl)| | **F**|Apache/2.4.61 (Amazon Linux) OpenSSL/3.0.8| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.61 HSTS OpenSSL:3.0.8|301 Moved Perman...|
@@ -745,7 +745,6 @@
 |[https://ram.perined.nl](https://ram.perined.nl)| | **F**|Apache/2.4.61 (Amazon Linux) OpenSSL/3.0.8| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.61 HSTS OpenSSL:3.0.8|301 Moved Perman...|
 |[https://nv.perined.nl](https://nv.perined.nl)| | **F**|Apache/2.4.61 (Amazon Linux) OpenSSL/3.0.8| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.61 HSTS OpenSSL:3.0.8|301 Moved Perman...|
 |[https://smoky.perined.nl](https://smoky.perined.nl)| | **F**|Apache/2.4.61 (Amazon Linux) OpenSSL/3.0.8| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.61 HSTS OpenSSL:3.0.8|301 Moved Perman...|
-|[https://ziz.perined.nl](https://ziz.perined.nl)| | **F**|Apache/2.4.61 (Amazon Linux) OpenSSL/3.0.8| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.61 HSTS OpenSSL:3.0.8|301 Moved Perman...|
 |[https://gothica.perined.nl](https://gothica.perined.nl)| | **F**|Apache/2.4.61 (Amazon Linux) OpenSSL/3.0.8| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.61 HSTS OpenSSL:3.0.8|301 Moved Perman...|
 |[https://provider-advies.perined.nl](https://provider-advies.perined.nl)| | **F**|Apache/2.4.61 (Amazon Linux) OpenSSL/3.0.8| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.61 HSTS OpenSSL:3.0.8|301 Moved Perman...|
 |[https://apitest.perined.nl](https://apitest.perined.nl)| | **F**|Apache/2.4.61 (Amazon Linux) OpenSSL/3.0.8| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.61 HSTS OpenSSL:3.0.8|301 Moved Perman...|

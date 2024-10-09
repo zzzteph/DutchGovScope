@@ -43,5 +43,5 @@ tags: dutchgov
 |[https://www.rijksacademie.nl](https://www.rijksacademie.nl)| **A+**| **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS MySQL PHP WordPress Yoast SEO Premium:23.4 Yoast SEO:23.4|Home | Rijksacad...|
 |[https://rijksacademie.nl](https://rijksacademie.nl)| **A+**| **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
 |[https://infoscherm.rijksacademie.nl](https://infoscherm.rijksacademie.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Bootstrap:3.3.5 Express Nginx Node.js|Service enregist...|
-|[http://autodiscover.rijksacademie.nl](http://autodiscover.rijksacademie.nl)| | **B**|Microsoft-IIS/10.0|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server||
+|[http://autodiscover.rijksacademie.nl](http://autodiscover.rijksacademie.nl)| | **C**|Microsoft-IIS/10.0| |:white_check_mark: | | | | | | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server||
 

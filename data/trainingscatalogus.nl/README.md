@@ -11,9 +11,9 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/trainingscatalogus.nl/subdomains.txt)|246|Alive subdomains|
-|[urls.txt](/data/trainingscatalogus.nl/urls.txt)|129|Urls|
-|[all_subdomains.txt](/data/trainingscatalogus.nl/all_subdomains.txt)|259|All found subdomains (history)|
+|[subdomains.txt](/data/trainingscatalogus.nl/subdomains.txt)|245|Alive subdomains|
+|[urls.txt](/data/trainingscatalogus.nl/urls.txt)|134|Urls|
+|[all_subdomains.txt](/data/trainingscatalogus.nl/all_subdomains.txt)|262|All found subdomains (history)|
 
 
 ## Statistics
@@ -91,17 +91,17 @@
 |[https://ciz.trainingscatalogus.nl](https://ciz.trainingscatalogus.nl)| | **C**|Class|:white_check_mark: |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://archipel.trainingscatalogus.nl](https://archipel.trainingscatalogus.nl)| | **C**|Class|:white_check_mark: |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://ez.trainingscatalogus.nl](https://ez.trainingscatalogus.nl)| | **B**|Class|:white_check_mark: |:white_check_mark: | | |:warning: | | :white_check_mark: | :white_check_mark: | |HSTS||
-|[https://ncsc.trainingscatalogus.nl](https://ncsc.trainingscatalogus.nl)| | **B**|Class|:white_check_mark: |:white_check_mark: | | |:warning: | | :white_check_mark: | :white_check_mark: | |HSTS||
-|[https://cjib.trainingscatalogus.nl](https://cjib.trainingscatalogus.nl)| | **B**|Class|:white_check_mark: |:white_check_mark: | | |:warning: | | :white_check_mark: | :white_check_mark: | |HSTS||
+|[https://ncsc.trainingscatalogus.nl](https://ncsc.trainingscatalogus.nl)| | **C**|Class|:white_check_mark: |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | |HSTS||
+|[https://cjib.trainingscatalogus.nl](https://cjib.trainingscatalogus.nl)| | **C**|Class|:white_check_mark: |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://demo.trainingscatalogus.nl](https://demo.trainingscatalogus.nl)| | **C**|Class|:white_check_mark: |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | |HSTS||
-|[https://jio.trainingscatalogus.nl](https://jio.trainingscatalogus.nl)| | **B**|Class|:white_check_mark: |:white_check_mark: | | |:warning: | | :white_check_mark: | :white_check_mark: | |HSTS||
+|[https://jio.trainingscatalogus.nl](https://jio.trainingscatalogus.nl)| | **C**|Class|:white_check_mark: |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://dashboard.trainingscatalogus.nl](https://dashboard.trainingscatalogus.nl)| | **F**|cloudflare| | | | | | | | :white_check_mark: | |Cloudflare|403 Forbidden|
 |[https://nfi.trainingscatalogus.nl](https://nfi.trainingscatalogus.nl)| | **B**|Class|:white_check_mark: |:white_check_mark: | | |:warning: | | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://prorail.trainingscatalogus.nl](https://prorail.trainingscatalogus.nl)| | **F**|Microsoft-Azure-Application-Gateway/v2| | | | | | | | :white_check_mark: | ||404 Not Found|
 |[https://rbo.trainingscatalogus.nl](https://rbo.trainingscatalogus.nl)| | **F**|Microsoft-Azure-Application-Gateway/v2| | | | | | | | :white_check_mark: | ||404 Not Found|
 |[https://stedin.trainingscatalogus.nl](https://stedin.trainingscatalogus.nl)| | **F**|Microsoft-IIS/10.0| | | | | | | | :white_check_mark: | |IIS:10.0 Windows Server|IIS Windows Serv...|
 |[https://ftp.trainingscatalogus.nl](https://ftp.trainingscatalogus.nl)| | **F**|Microsoft-Azure-Application-Gateway/v2| | | | | | | | :white_check_mark: | ||404 Not Found|
-|[https://sectest.trainingscatalogus.nl](https://sectest.trainingscatalogus.nl)| | **F**|Microsoft-Azure-Application-Gateway/v2| | | | | | | | :white_check_mark: | |HSTS|502 Bad Gateway|
+|[https://sectest.trainingscatalogus.nl](https://sectest.trainingscatalogus.nl)| | **A**|Class|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://leeromgeving-rotterdam-a.trainingscatalogus.nl](https://leeromgeving-rotterdam-a.trainingscatalogus.nl)| | **A**|Apache| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS Moodle PHP:8.1.29|Doorverwijspagin...|
 |[https://ind-a.trainingscatalogus.nl](https://ind-a.trainingscatalogus.nl)| | **B**|Class|:white_check_mark: |:white_check_mark: | | |:warning: | | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://leeromgeving-rotterdam.trainingscatalogus.nl](https://leeromgeving-rotterdam.trainingscatalogus.nl)| | **A**|Apache| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS Moodle PHP:8.1.29|Doorverwijspagin...|
@@ -150,4 +150,9 @@
 |[https://lms-tragelacademie.trainingscatalogus.nl](https://lms-tragelacademie.trainingscatalogus.nl)| | **A**|Class|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Access is denied...|
 |[https://leerhuis.trainingscatalogus.nl](https://leerhuis.trainingscatalogus.nl)| | **B**|Class|:white_check_mark: |:white_check_mark: | | |:warning: | | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://ivorechtspraak-lms-a.scim-api.trainingscatalogus.nl](https://ivorechtspraak-lms-a.scim-api.trainingscatalogus.nl)| | **F**|Microsoft-IIS/10.0|:white_check_mark: | | | | | | | :white_check_mark: | |Azure IIS:10.0 Microsoft ASP.NET Windows Server||
+|[https://alliander-lms-t.enrollment-api.trainingscatalogus.nl](https://alliander-lms-t.enrollment-api.trainingscatalogus.nl)| | **F**|Microsoft-IIS/10.0|:white_check_mark: | | | | | | | :white_check_mark: | |Azure IIS:10.0 Microsoft ASP.NET Windows Server||
+|[https://alliander-lms-t.scim-api.trainingscatalogus.nl](https://alliander-lms-t.scim-api.trainingscatalogus.nl)| | **F**|Microsoft-IIS/10.0|:white_check_mark: | | | | | | | :white_check_mark: | |Azure IIS:10.0 Microsoft ASP.NET Windows Server||
+|[https://alliander-lms-t.product-api.trainingscatalogus.nl](https://alliander-lms-t.product-api.trainingscatalogus.nl)| | **F**|Microsoft-IIS/10.0|:white_check_mark: | | | | | | | :white_check_mark: | |Azure IIS:10.0 Microsoft ASP.NET Windows Server||
+|[https://product-api.schiphol-lms-t.trainingscatalogus.nl](https://product-api.schiphol-lms-t.trainingscatalogus.nl)| | **F**|Microsoft-IIS/10.0|:white_check_mark: | | | | | | | :white_check_mark: | |Azure IIS:10.0 Microsoft ASP.NET Windows Server||
+|[https://product-api.schiphol-lms-a.trainingscatalogus.nl](https://product-api.schiphol-lms-a.trainingscatalogus.nl)| | **F**|Microsoft-IIS/10.0|:white_check_mark: | | | | | | | :white_check_mark: | |Azure IIS:10.0 Microsoft ASP.NET Windows Server||
 

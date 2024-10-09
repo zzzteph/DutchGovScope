@@ -1868,3 +1868,5 @@ intranetmet.knaw.nl
 mpgebruikers.meertens.knaw.nl
 access.huc.knaw.nl
 vova.meertens.knaw.nl
+rds.knaw.nl
+rdsgw.knaw.nl

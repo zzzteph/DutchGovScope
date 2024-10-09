@@ -1206,3 +1206,5 @@ mip-proxy-prod.rws.nl
 chartmuseum.dmz.vm-04.azure.grid.rws.nl
 chat-api.vm-05.azure.grid.rws.nl
 langfuse-test.vm-05.azure.grid.rws.nl
+aquo-kit.rws.nl
+schadeportaal.ptp.inloggen.rws.nl

@@ -20,7 +20,6 @@ sip.myroom.minienw.nl
 widscan-acc.minienw.nl
 adresgids.minienw.nl
 widscan.minienw.nl
-adresgids2.minienw.nl
 cms.minienw.nl
 csp.minienw.nl
 e-learning.minienw.nl

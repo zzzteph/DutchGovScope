@@ -12,7 +12,7 @@
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/cocreatesa.nl/subdomains.txt)|3113|Alive subdomains|
-|[urls.txt](/data/cocreatesa.nl/urls.txt)|3050|Urls|
+|[urls.txt](/data/cocreatesa.nl/urls.txt)|3062|Urls|
 |[all_subdomains.txt](/data/cocreatesa.nl/all_subdomains.txt)|3126|All found subdomains (history)|
 
 
@@ -3071,4 +3071,16 @@
 |[https://ereslibre.cocreatesa.nl](https://ereslibre.cocreatesa.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|400 Bad Request|
 |[https://fnn.cocreatesa.nl](https://fnn.cocreatesa.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|400 Bad Request|
 |[https://scc.cocreatesa.nl](https://scc.cocreatesa.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|400 Bad Request|
+|[https://wintersportkleding.cocreatesa.nl](https://wintersportkleding.cocreatesa.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|400 Bad Request|
+|[https://web4700.cocreatesa.nl](https://web4700.cocreatesa.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|400 Bad Request|
+|[https://onlinesupport.cocreatesa.nl](https://onlinesupport.cocreatesa.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|400 Bad Request|
+|[https://mail.partner.cocreatesa.nl](https://mail.partner.cocreatesa.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|400 Bad Request|
+|[https://creditmanager.cocreatesa.nl](https://creditmanager.cocreatesa.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|400 Bad Request|
+|[https://origin-perf.cocreatesa.nl](https://origin-perf.cocreatesa.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|400 Bad Request|
+|[https://capella.cocreatesa.nl](https://capella.cocreatesa.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|400 Bad Request|
+|[https://web5593.cocreatesa.nl](https://web5593.cocreatesa.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|400 Bad Request|
+|[https://freeip66.175.32.cocreatesa.nl](https://freeip66.175.32.cocreatesa.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|400 Bad Request|
+|[https://meid.cocreatesa.nl](https://meid.cocreatesa.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|400 Bad Request|
+|[https://georgi.cocreatesa.nl](https://georgi.cocreatesa.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|400 Bad Request|
+|[https://nexgen.cocreatesa.nl](https://nexgen.cocreatesa.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|400 Bad Request|
 

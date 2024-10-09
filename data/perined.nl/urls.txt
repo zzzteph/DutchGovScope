@@ -722,7 +722,6 @@ https://pars.perined.nl
 https://ram.perined.nl
 https://nv.perined.nl
 https://smoky.perined.nl
-https://ziz.perined.nl
 https://gothica.perined.nl
 https://provider-advies.perined.nl
 https://apitest.perined.nl

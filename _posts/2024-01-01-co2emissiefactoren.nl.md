@@ -4,7 +4,7 @@ title: "co2emissiefactoren.nl"
 permalink: "/dutchgov/co2emissiefactoren.nl.html"
 subdomains_count: 19
 all_subdomains_count: 19
-urls_count: 18
+urls_count: 19
 ssl_rank: E
 http_rank: F
 security_txt: 0
@@ -28,7 +28,7 @@ tags: dutchgov
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/DutchGovScope/data/co2emissiefactoren.nl/subdomains.txt)|19|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/co2emissiefactoren.nl/urls.txt)|18|Urls|
+|[urls.txt](/DutchGovScope/data/co2emissiefactoren.nl/urls.txt)|19|Urls|
 |[all_subdomains.txt](/DutchGovScope/data/co2emissiefactoren.nl/all_subdomains.txt)|19|All found subdomains (history)|
 
 
@@ -55,4 +55,5 @@ tags: dutchgov
 |[https://dieselwww.co2emissiefactoren.nl](https://dieselwww.co2emissiefactoren.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|403 Forbidden|
 |[https://trainwww.co2emissiefactoren.nl](https://trainwww.co2emissiefactoren.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|403 Forbidden|
 |[https://carwww.co2emissiefactoren.nl](https://carwww.co2emissiefactoren.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|403 Forbidden|
+|[https://homewww.co2emissiefactoren.nl](https://homewww.co2emissiefactoren.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|403 Forbidden|
 

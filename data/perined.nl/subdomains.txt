@@ -725,7 +725,6 @@ pars.perined.nl
 ram.perined.nl
 nv.perined.nl
 smoky.perined.nl
-ziz.perined.nl
 gothica.perined.nl
 provider-advies.perined.nl
 apitest.perined.nl

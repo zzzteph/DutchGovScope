@@ -29,3 +29,7 @@ acc.begrippen.stelselcatalogus.nl
 preprod.begrippen.stelselcatalogus.nl
 purl.stelselcatalogus.nl
 playground.stelselcatalogus.nl
+preprod.purl.stelselcatalogus.nl
+acc.playground.stelselcatalogus.nl
+preprod.playground.stelselcatalogus.nl
+acc.purl.stelselcatalogus.nl

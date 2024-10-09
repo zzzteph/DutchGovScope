@@ -6,14 +6,14 @@
 
  - **SSL Grade**:A
  - **HTTP Security Grade**:B
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:164
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:165
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/overheid.nl/subdomains.txt)|71751|Alive subdomains|
+|[subdomains.txt](/data/overheid.nl/subdomains.txt)|72623|Alive subdomains|
 |[urls.txt](/data/overheid.nl/urls.txt)|328|Urls|
-|[all_subdomains.txt](/data/overheid.nl/all_subdomains.txt)|73780|All found subdomains (history)|
+|[all_subdomains.txt](/data/overheid.nl/all_subdomains.txt)|74709|All found subdomains (history)|
 
 
 ## Statistics
@@ -327,7 +327,7 @@
 |[http://beta-wetten.overheid.nl](http://beta-wetten.overheid.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS||
 |[https://autodiscover.overheid.nl](https://autodiscover.overheid.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Not Found|
 |[http://beta8.overheid.nl](http://beta8.overheid.nl)| | **F**|BigIP| | | | | | | | :white_check_mark: | |F5 BigIP||
-|[https://community.developer.overheid.nl](https://community.developer.overheid.nl)| | **B**|nginx| | | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Discourse Nginx Ruby on Rails|Developer Overhe...|
+|[https://community.developer.overheid.nl](https://community.developer.overheid.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Discourse HSTS Ruby on Rails|Developer Overhe...|
 |[https://ftp.overheid.nl](https://ftp.overheid.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS||
 |[https://beta-wetten-acc.overheid.nl](https://beta-wetten-acc.overheid.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS|Eenvoudig zoeken...|
 |[https://api.standaarden.overheid.nl](https://api.standaarden.overheid.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |HSTS Microsoft HTTPAPI:2.0|Not Found|

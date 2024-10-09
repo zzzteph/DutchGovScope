@@ -6,13 +6,13 @@
 
  - **SSL Grade**:A-
  - **HTTP Security Grade**:C
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:9
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:8
 
 
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/aaenmaas.nl/subdomains.txt)|37|Alive subdomains|
-|[urls.txt](/data/aaenmaas.nl/urls.txt)|27|Urls|
+|[urls.txt](/data/aaenmaas.nl/urls.txt)|25|Urls|
 |[all_subdomains.txt](/data/aaenmaas.nl/all_subdomains.txt)|75|All found subdomains (history)|
 
 
@@ -38,7 +38,6 @@
 |[https://dialin.aaenmaas.nl](https://dialin.aaenmaas.nl)| **A+**| **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|Conferencing Dia...|
 |[https://eloket.aaenmaas.nl](https://eloket.aaenmaas.nl)| **A+**| **A**|unspecified|:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache Tomcat Fourthwall:1.0.202.071 Fourthwall:eloket_ui_main-2024.242.002 HSTS Java MariaDB Skolengo:1.0.202.071|Djuma portal|
 |[https://sharepoint.aaenmaas.nl](https://sharepoint.aaenmaas.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |||
-|[https://amira.aaenmaas.nl](https://amira.aaenmaas.nl)| | **A**||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |||
 |[https://geoportal.aaenmaas.nl](https://geoportal.aaenmaas.nl)| | **F**||:warning: | | | | | | | :white_check_mark: | |Microsoft ASP.NET|IIS Windows Serv...|
 |[https://gisservices.aaenmaas.nl](https://gisservices.aaenmaas.nl)| | **F**||:warning: | | | | | | | :white_check_mark: | |Microsoft ASP.NET|IIS Windows Serv...|
 |[https://luchtfoto.aaenmaas.nl](https://luchtfoto.aaenmaas.nl)| | **A**||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |||
@@ -47,5 +46,4 @@
 |[http://was.aaenmaas.nl](http://was.aaenmaas.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://geoservices.aaenmaas.nl](https://geoservices.aaenmaas.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://vpn.aaenmaas.nl](https://vpn.aaenmaas.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
-|[https://wik.aaenmaas.nl](https://wik.aaenmaas.nl)| | **E**|| | | | | | | | :white_check_mark: | |Application Request Routing:3.0 IIS|Redirecting...|
 

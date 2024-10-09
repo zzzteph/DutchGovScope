@@ -26,3 +26,4 @@ a-feeds.a-english.bigregister.nl
 a-opendata.a-english.bigregister.nl
 a-feeds.bigregister.nl
 acceptatie.behandel.bigregister.nl
+behandel.bigregister.nl

@@ -2,7 +2,7 @@
 layout: default
 title: "zwemwater.nl"
 permalink: "/dutchgov/zwemwater.nl.html"
-subdomains_count: 1695
+subdomains_count: 1702
 all_subdomains_count: 1905
 urls_count: 1692
 ssl_rank: C
@@ -27,7 +27,7 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/zwemwater.nl/subdomains.txt)|1695|Alive subdomains|
+|[subdomains.txt](/DutchGovScope/data/zwemwater.nl/subdomains.txt)|1702|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/zwemwater.nl/urls.txt)|1692|Urls|
 |[all_subdomains.txt](/DutchGovScope/data/zwemwater.nl/all_subdomains.txt)|1905|All found subdomains (history)|
 
@@ -1481,7 +1481,6 @@ tags: dutchgov
 |[https://cdni.zwemwater.nl](https://cdni.zwemwater.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
 |[https://iswww.zwemwater.nl](https://iswww.zwemwater.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
 |[https://www.zeeland.nlwww.zwemwater.nl](https://www.zeeland.nlwww.zwemwater.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
-|[https://irl.zwemwater.nl](https://irl.zwemwater.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
 |[https://biapps.zwemwater.nl](https://biapps.zwemwater.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
 |[https://masuda.zwemwater.nl](https://masuda.zwemwater.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
 |[https://clickit.zwemwater.nl](https://clickit.zwemwater.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
@@ -1729,4 +1728,5 @@ tags: dutchgov
 |[https://warhol.zwemwater.nl](https://warhol.zwemwater.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
 |[https://loreal.zwemwater.nl](https://loreal.zwemwater.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
 |[https://1365.zwemwater.nl](https://1365.zwemwater.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
+|[https://borderline.zwemwater.nl](https://borderline.zwemwater.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
 

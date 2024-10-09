@@ -5,7 +5,7 @@
 
 
  - **SSL Grade**:B+
- - **HTTP Security Grade**:C
+ - **HTTP Security Grade**:D
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:3
 
 
@@ -29,6 +29,6 @@
 |[https://veiliginternetten.nl](https://veiliginternetten.nl)| **A+**| **B**|Apache| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server Bootstrap HSTS|Antwoord op vrag...|
 |[https://mail.veiliginternetten.nl](https://mail.veiliginternetten.nl)| | **F**|mod_fcgid/2.3.9| | | | | | | | :white_check_mark: | |HSTS|Ah Ah Ah You Did...|
 |[https://vs6575.veiliginternetten.nl](https://vs6575.veiliginternetten.nl)| | **F**|mod_fcgid/2.3.9| | | | | | | | :white_check_mark: | |HSTS|Ah Ah Ah You Did...|
-|[http://autodiscover.veiliginternetten.nl](http://autodiscover.veiliginternetten.nl)| | **B**|Microsoft-IIS/10.0|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server||
+|[http://autodiscover.veiliginternetten.nl](http://autodiscover.veiliginternetten.nl)| | **C**|Microsoft-IIS/10.0| |:white_check_mark: | | | | | | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server||
 |[https://acceptatie.veiliginternetten.nl](https://acceptatie.veiliginternetten.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|301 Moved Perman...|
 

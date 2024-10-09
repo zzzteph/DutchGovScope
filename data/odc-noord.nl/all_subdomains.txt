@@ -271,3 +271,6 @@ vault-transit.gn2.odc-noord.nl
 vault-transit.odc-noord.nl
 vault-transit.dev.gn2.odc-noord.nl
 vault-transit.dev.odc-noord.nl
+ns01.bzknpr.odc-noord.nl
+ns.bzknpr.odc-noord.nl
+ns02.bzknpr.odc-noord.nl

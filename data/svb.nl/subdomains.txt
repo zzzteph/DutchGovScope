@@ -149,3 +149,4 @@ mta.svb.nl
 ns2.svb.nl
 pre.svb.nl
 canary-svb.svb.nl
+kennisbank.svb.nl

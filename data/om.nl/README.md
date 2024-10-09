@@ -12,7 +12,7 @@
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/om.nl/subdomains.txt)|34|Alive subdomains|
-|[urls.txt](/data/om.nl/urls.txt)|27|Urls|
+|[urls.txt](/data/om.nl/urls.txt)|29|Urls|
 |[all_subdomains.txt](/data/om.nl/all_subdomains.txt)|86|All found subdomains (history)|
 
 
@@ -46,6 +46,8 @@
 |[https://telewerken.om.nl](https://telewerken.om.nl)| | **A**||:warning: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Microsoft ASP.NET||
 |[https://mdm.om.nl](https://mdm.om.nl)| **B**| **A**||:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |||
 |[https://mms-gw.om.nl](https://mms-gw.om.nl)| **A+**| **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Microsoft ASP.NET||
+|[https://zsmgame.om.nl](https://zsmgame.om.nl)| | **F**|nginx/1.24.0| | | | | | | | :white_check_mark: | |Express HSTS Nginx:1.24.0 Node.js React|ZSM GAME|
+|[https://acc.zsmgame.om.nl](https://acc.zsmgame.om.nl)| | **F**|nginx/1.24.0| | | | | | | | :white_check_mark: | |Express HSTS Nginx:1.24.0 Node.js React|ZSM GAME|
 |[https://enterpriseenrollment.om.nl](https://enterpriseenrollment.om.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||
 |[https://enterpriseregistration.om.nl](https://enterpriseregistration.om.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 

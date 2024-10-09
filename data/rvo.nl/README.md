@@ -13,7 +13,7 @@
 |------------|-------|------|
 |[subdomains.txt](/data/rvo.nl/subdomains.txt)|174|Alive subdomains|
 |[urls.txt](/data/rvo.nl/urls.txt)|121|Urls|
-|[all_subdomains.txt](/data/rvo.nl/all_subdomains.txt)|282|All found subdomains (history)|
+|[all_subdomains.txt](/data/rvo.nl/all_subdomains.txt)|284|All found subdomains (history)|
 
 
 ## Statistics
@@ -130,7 +130,7 @@
 |[https://vault.efiling.mijnoctrooi.rvo.nl](https://vault.efiling.mijnoctrooi.rvo.nl)| | **F**|Server| | | | | | | | :white_check_mark: | |||
 |[https://mijnoctrooi.rvo.nl](https://mijnoctrooi.rvo.nl)| | **A**|Server| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |||
 |[https://wba-acc.rvo.nl](https://wba-acc.rvo.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Betalen|
-|[http://sandbox.rvo.nl](http://sandbox.rvo.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS|404 - Not Found|
+|[https://sandbox.rvo.nl](https://sandbox.rvo.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS|403 Forbidden|
 |[https://redesign.rvo.nl](https://redesign.rvo.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Basic Nginx|401 Authorizatio...|
 |[https://gdi-b.rvo.nl](https://gdi-b.rvo.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS|Onderhoud Pagina|
 |[https://cta.rvo.nl](https://cta.rvo.nl)| | **B**||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS Oracle Dynamic Monitoring Service Oracle WebLogic Server|Error 404--Not F...|

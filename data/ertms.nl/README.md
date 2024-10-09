@@ -11,8 +11,8 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/ertms.nl/subdomains.txt)|37|Alive subdomains|
-|[urls.txt](/data/ertms.nl/urls.txt)|19|Urls|
+|[subdomains.txt](/data/ertms.nl/subdomains.txt)|68|Alive subdomains|
+|[urls.txt](/data/ertms.nl/urls.txt)|24|Urls|
 |[all_subdomains.txt](/data/ertms.nl/all_subdomains.txt)|80|All found subdomains (history)|
 
 
@@ -32,12 +32,17 @@
 |[https://hegang.ertms.nl](https://hegang.ertms.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Object moved|
 |[https://achthuizen.ertms.nl](https://achthuizen.ertms.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Object moved|
 |[https://saras.ertms.nl](https://saras.ertms.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Object moved|
-|[http://magma.ertms.nl](http://magma.ertms.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
-|[http://anso.ertms.nl](http://anso.ertms.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
-|[http://help6.ertms.nl](http://help6.ertms.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
-|[http://mx.blog.ertms.nl](http://mx.blog.ertms.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
-|[http://mta26.ertms.nl](http://mta26.ertms.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
-|[http://ghh.ertms.nl](http://ghh.ertms.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
-|[http://bambie.ertms.nl](http://bambie.ertms.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
+|[https://magma.ertms.nl](https://magma.ertms.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Object moved|
+|[https://anso.ertms.nl](https://anso.ertms.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Object moved|
+|[https://help6.ertms.nl](https://help6.ertms.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Object moved|
+|[https://mx.blog.ertms.nl](https://mx.blog.ertms.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Object moved|
+|[https://mta26.ertms.nl](https://mta26.ertms.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Object moved|
+|[https://ghh.ertms.nl](https://ghh.ertms.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Object moved|
+|[https://bambie.ertms.nl](https://bambie.ertms.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Object moved|
 |[https://web.ertms.nl](https://web.ertms.nl)| | **E**|| | | | | | | | :white_check_mark: | |Azure Azure Front Door|Page not found|
+|[https://telesales.ertms.nl](https://telesales.ertms.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Object moved|
+|[https://4-6.ertms.nl](https://4-6.ertms.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Object moved|
+|[https://aboutmylife.ertms.nl](https://aboutmylife.ertms.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Object moved|
+|[https://ows-dmnsapi.ertms.nl](https://ows-dmnsapi.ertms.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Object moved|
+|[https://dcg.ertms.nl](https://dcg.ertms.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Object moved|
 

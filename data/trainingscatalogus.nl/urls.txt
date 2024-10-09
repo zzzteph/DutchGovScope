@@ -127,3 +127,8 @@ https://rabobank-lms-a.trainingscatalogus.nl
 https://lms-tragelacademie.trainingscatalogus.nl
 https://leerhuis.trainingscatalogus.nl
 https://ivorechtspraak-lms-a.scim-api.trainingscatalogus.nl
+https://alliander-lms-t.enrollment-api.trainingscatalogus.nl
+https://alliander-lms-t.scim-api.trainingscatalogus.nl
+https://alliander-lms-t.product-api.trainingscatalogus.nl
+https://product-api.schiphol-lms-t.trainingscatalogus.nl
+https://product-api.schiphol-lms-a.trainingscatalogus.nl

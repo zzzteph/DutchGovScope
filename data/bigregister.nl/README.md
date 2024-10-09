@@ -11,7 +11,7 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/bigregister.nl/subdomains.txt)|28|Alive subdomains|
+|[subdomains.txt](/data/bigregister.nl/subdomains.txt)|29|Alive subdomains|
 |[urls.txt](/data/bigregister.nl/urls.txt)|22|Urls|
 |[all_subdomains.txt](/data/bigregister.nl/all_subdomains.txt)|45|All found subdomains (history)|
 

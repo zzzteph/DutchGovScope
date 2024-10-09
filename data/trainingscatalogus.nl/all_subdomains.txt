@@ -257,3 +257,6 @@ vgz-lms.product-api.trainingscatalogus.nl
 werkenbij.test.trainingscatalogus.nl
 preview.test.trainingscatalogus.nl
 shop.test.trainingscatalogus.nl
+pay.test.trainingscatalogus.nl
+grafana.test.trainingscatalogus.nl
+es.test.trainingscatalogus.nl
