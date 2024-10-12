@@ -20,4 +20,4 @@ https://beheersite-op.officielebekendmakingen.nl
 https://www-acc.officielebekendmakingen.nl
 http://localhost.officielebekendmakingen.nl
 https://identifier-preprod.officielebekendmakingen.nl
-https://stage-acc.officielebekendmakingen.nl
+http://stage-acc.officielebekendmakingen.nl

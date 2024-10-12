@@ -11,8 +11,8 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/aaenmaas.nl/subdomains.txt)|37|Alive subdomains|
-|[urls.txt](/data/aaenmaas.nl/urls.txt)|25|Urls|
+|[subdomains.txt](/data/aaenmaas.nl/subdomains.txt)|36|Alive subdomains|
+|[urls.txt](/data/aaenmaas.nl/urls.txt)|24|Urls|
 |[all_subdomains.txt](/data/aaenmaas.nl/all_subdomains.txt)|75|All found subdomains (history)|
 
 
@@ -37,7 +37,6 @@
 |[http://meet.aaenmaas.nl](http://meet.aaenmaas.nl)| **A+**| **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|Document Moved|
 |[https://dialin.aaenmaas.nl](https://dialin.aaenmaas.nl)| **A+**| **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|Conferencing Dia...|
 |[https://eloket.aaenmaas.nl](https://eloket.aaenmaas.nl)| **A+**| **A**|unspecified|:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache Tomcat Fourthwall:1.0.202.071 Fourthwall:eloket_ui_main-2024.242.002 HSTS Java MariaDB Skolengo:1.0.202.071|Djuma portal|
-|[https://sharepoint.aaenmaas.nl](https://sharepoint.aaenmaas.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |||
 |[https://geoportal.aaenmaas.nl](https://geoportal.aaenmaas.nl)| | **F**||:warning: | | | | | | | :white_check_mark: | |Microsoft ASP.NET|IIS Windows Serv...|
 |[https://gisservices.aaenmaas.nl](https://gisservices.aaenmaas.nl)| | **F**||:warning: | | | | | | | :white_check_mark: | |Microsoft ASP.NET|IIS Windows Serv...|
 |[https://luchtfoto.aaenmaas.nl](https://luchtfoto.aaenmaas.nl)| | **A**||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |||

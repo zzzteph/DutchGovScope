@@ -302,3 +302,7 @@ tst-bvi-ib.data-exchange.consular.mfaservices.nl
 dev-bzk2-api.data-exchange.consular.mfaservices.nl
 snd-bzk2-api.data-exchange.consular.mfaservices.nl
 tst-bzk2-api.data-exchange.consular.mfaservices.nl
+acc.fez.mfaservices.nl
+dev.fez.mfaservices.nl
+fez.mfaservices.nl
+tst.fez.mfaservices.nl

@@ -5,6 +5,8 @@ www.stelselcatalogus.nl
 stelselcatalogus.nl
 digitaleoverheid.stelselcatalogus.nl
 editor.stelselcatalogus.nl
+keycloak.stelselcatalogus.nl
+preprod.editor.stelselcatalogus.nl
 acc.opendata.stelselcatalogus.nl
 acc.stelselcatalogus.nl
 catalogus.stelselcatalogus.nl

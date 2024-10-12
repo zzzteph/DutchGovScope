@@ -28,7 +28,7 @@
 |[https://www.justitieleictorganisatie.nl](https://www.justitieleictorganisatie.nl)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Home | Justitiël...|
 |[https://connect.justitieleictorganisatie.nl](https://connect.justitieleictorganisatie.nl)| **A+**| **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS||
 |[https://justitieleictorganisatie.nl](https://justitieleictorganisatie.nl)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
-|[http://autodiscover.justitieleictorganisatie.nl](http://autodiscover.justitieleictorganisatie.nl)| | **B**|Microsoft-IIS/10.0|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server||
+|[http://autodiscover.justitieleictorganisatie.nl](http://autodiscover.justitieleictorganisatie.nl)| | **C**|Microsoft-IIS/10.0| |:white_check_mark: | | | | | | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server||
 |[https://enterpriseenrollment.justitieleictorganisatie.nl](https://enterpriseenrollment.justitieleictorganisatie.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||
 |[https://enterpriseregistration.justitieleictorganisatie.nl](https://enterpriseregistration.justitieleictorganisatie.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 

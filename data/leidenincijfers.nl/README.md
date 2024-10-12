@@ -11,7 +11,7 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/leidenincijfers.nl/subdomains.txt)|4|Alive subdomains|
+|[subdomains.txt](/data/leidenincijfers.nl/subdomains.txt)|6|Alive subdomains|
 |[urls.txt](/data/leidenincijfers.nl/urls.txt)|4|Urls|
 |[all_subdomains.txt](/data/leidenincijfers.nl/all_subdomains.txt)|6|All found subdomains (history)|
 

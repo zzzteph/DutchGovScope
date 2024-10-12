@@ -6,14 +6,14 @@
 
  - **SSL Grade**:A-
  - **HTTP Security Grade**:A
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:97
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:98
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/pleio.nl/subdomains.txt)|7243|Alive subdomains|
-|[urls.txt](/data/pleio.nl/urls.txt)|7234|Urls|
-|[all_subdomains.txt](/data/pleio.nl/all_subdomains.txt)|7245|All found subdomains (history)|
+|[subdomains.txt](/data/pleio.nl/subdomains.txt)|7244|Alive subdomains|
+|[urls.txt](/data/pleio.nl/urls.txt)|7235|Urls|
+|[all_subdomains.txt](/data/pleio.nl/all_subdomains.txt)|7246|All found subdomains (history)|
 
 
 ## Statistics
@@ -7255,4 +7255,5 @@
 |[https://msnp.pleio.nl](https://msnp.pleio.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|403 Forbidden|
 |[https://formulieren-new.pleio.nl](https://formulieren-new.pleio.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://storybook.pleio.nl](https://storybook.pleio.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|@storybook/core...|
+|[https://haalcentraal.pleio.nl](https://haalcentraal.pleio.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache Tomcat Fourthwall:1.0.0 HSTS Java MariaDB Skolengo:1.0.0|Haal Centraal|
 

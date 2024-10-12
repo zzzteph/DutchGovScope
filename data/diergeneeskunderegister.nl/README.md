@@ -11,7 +11,7 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/diergeneeskunderegister.nl/subdomains.txt)|16|Alive subdomains|
+|[subdomains.txt](/data/diergeneeskunderegister.nl/subdomains.txt)|17|Alive subdomains|
 |[urls.txt](/data/diergeneeskunderegister.nl/urls.txt)|13|Urls|
 |[all_subdomains.txt](/data/diergeneeskunderegister.nl/all_subdomains.txt)|41|All found subdomains (history)|
 

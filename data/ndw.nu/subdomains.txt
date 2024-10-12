@@ -99,3 +99,5 @@ analytics.ndw.nu
 datafusion.ndw.nu
 d2val.staging.ndw.nu
 mlops-platform.staging.ndw.nu
+data-streamer.ndw.nu
+geojson-converter.ndw.nu

@@ -303,3 +303,7 @@ static.beta.tweedekamer.nl
 klinkendetaal.tweedekamer.nl
 stage.beta.tweedekamer.nl
 wachtrij.tweedekamer.nl
+livestreaming-thumb.b67v2.tweedekamer.nl
+livestreaming.b67buv2.tweedekamer.nl
+livestreaming.b67v2.tweedekamer.nl
+livestreaming-thumb.b67buv2.tweedekamer.nl

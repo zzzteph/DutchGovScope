@@ -11,8 +11,8 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/valys.nl/subdomains.txt)|775|Alive subdomains|
-|[urls.txt](/data/valys.nl/urls.txt)|771|Urls|
+|[subdomains.txt](/data/valys.nl/subdomains.txt)|870|Alive subdomains|
+|[urls.txt](/data/valys.nl/urls.txt)|770|Urls|
 |[all_subdomains.txt](/data/valys.nl/all_subdomains.txt)|884|All found subdomains (history)|
 
 
@@ -598,7 +598,6 @@
 |[https://plangrid.valys.nl](https://plangrid.valys.nl)| | **F**|Apache/2.4.52 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.52 Ubuntu|301 Moved Perman...|
 |[https://ra3.valys.nl](https://ra3.valys.nl)| | **F**|Apache/2.4.52 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.52 Ubuntu|301 Moved Perman...|
 |[https://theorie-examen.valys.nl](https://theorie-examen.valys.nl)| | **F**|Apache/2.4.52 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.52 Ubuntu|301 Moved Perman...|
-|[https://boer.valys.nl](https://boer.valys.nl)| | **F**|Apache/2.4.52 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.52 Ubuntu|301 Moved Perman...|
 |[https://mitch.valys.nl](https://mitch.valys.nl)| | **F**|Apache/2.4.52 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.52 Ubuntu|301 Moved Perman...|
 |[https://narnia.valys.nl](https://narnia.valys.nl)| | **F**|Apache/2.4.52 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.52 Ubuntu|301 Moved Perman...|
 |[https://defender.valys.nl](https://defender.valys.nl)| | **F**|Apache/2.4.52 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.52 Ubuntu|301 Moved Perman...|

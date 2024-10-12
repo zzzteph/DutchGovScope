@@ -3,7 +3,7 @@ layout: default
 title: "mfaservices.nl"
 permalink: "/dutchgov/mfaservices.nl.html"
 subdomains_count: 160
-all_subdomains_count: 304
+all_subdomains_count: 308
 urls_count: 58
 ssl_rank: A-
 http_rank: C
@@ -29,7 +29,7 @@ tags: dutchgov
 |------------|-------|------|
 |[subdomains.txt](/DutchGovScope/data/mfaservices.nl/subdomains.txt)|160|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/mfaservices.nl/urls.txt)|58|Urls|
-|[all_subdomains.txt](/DutchGovScope/data/mfaservices.nl/all_subdomains.txt)|304|All found subdomains (history)|
+|[all_subdomains.txt](/DutchGovScope/data/mfaservices.nl/all_subdomains.txt)|308|All found subdomains (history)|
 
 
 ## Statistics

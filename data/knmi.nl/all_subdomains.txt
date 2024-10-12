@@ -275,3 +275,6 @@ shell-cntr-nm.api.dev.spaceweather.knmi.nl
 shell-cntr-nm.hapi.dev.spaceweather.knmi.nl
 dev-branches.dev.spaceweather.knmi.nl
 panels.dev.spaceweather.knmi.nl
+dev-container.dev.spaceweather.knmi.nl
+orbit3d.dev.spaceweather.knmi.nl
+imfrange.dev.spaceweather.knmi.nl

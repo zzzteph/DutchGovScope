@@ -14,7 +14,6 @@ https://testeloket.aaenmaas.nl
 http://meet.aaenmaas.nl
 https://dialin.aaenmaas.nl
 https://eloket.aaenmaas.nl
-https://sharepoint.aaenmaas.nl
 https://geoportal.aaenmaas.nl
 https://gisservices.aaenmaas.nl
 https://luchtfoto.aaenmaas.nl

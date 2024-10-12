@@ -575,7 +575,6 @@ https://webwww.valys.nl
 https://plangrid.valys.nl
 https://ra3.valys.nl
 https://theorie-examen.valys.nl
-https://boer.valys.nl
 https://mitch.valys.nl
 https://narnia.valys.nl
 https://defender.valys.nl

@@ -3191,7 +3191,6 @@ telefoon-abonnement.biedboek.nl
 abcde.biedboek.nl
 cobs.biedboek.nl
 commonplace.biedboek.nl
-estel.biedboek.nl
 bbk.biedboek.nl
 host2.biedboek.nl
 web10441.biedboek.nl

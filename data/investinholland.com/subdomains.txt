@@ -17,3 +17,4 @@ investinholland.com
 autodiscover.investinholland.com
 localhost.investinholland.com
 pop.japan.investinholland.com
+mail.japan.investinholland.com

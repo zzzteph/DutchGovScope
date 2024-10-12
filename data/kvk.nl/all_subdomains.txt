@@ -489,3 +489,4 @@ sslvpn.kvk.nl
 graydon.upload.kvk.nl
 bris.full.update.led.acp.kvk.nl
 bronkopie.ct.kvk.nl
+berichtenportaal.acp.kvk.nl

@@ -311,3 +311,7 @@ dtlgt-monitoring-prd.azure.dnb.nl
 svcalendar-acc.dnb.nl
 svcalendar-tst.dnb.nl
 svcalendar.dnb.nl
+organisatiegegevens-test.dnb.nl
+organisatiegegevens-dev.dnb.nl
+organisatiegegevens-pp.dnb.nl
+organisatiegegevens.dnb.nl

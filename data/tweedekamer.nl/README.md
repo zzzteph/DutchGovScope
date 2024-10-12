@@ -11,9 +11,9 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/tweedekamer.nl/subdomains.txt)|205|Alive subdomains|
+|[subdomains.txt](/data/tweedekamer.nl/subdomains.txt)|206|Alive subdomains|
 |[urls.txt](/data/tweedekamer.nl/urls.txt)|135|Urls|
-|[all_subdomains.txt](/data/tweedekamer.nl/all_subdomains.txt)|305|All found subdomains (history)|
+|[all_subdomains.txt](/data/tweedekamer.nl/all_subdomains.txt)|309|All found subdomains (history)|
 
 
 ## Statistics

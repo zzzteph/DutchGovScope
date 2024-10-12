@@ -93,3 +93,6 @@ melden.ncsc.nl
 csaf.data.security.ncsc.nl
 privaat-acceptatie.octomon.ncsc.nl
 www.magazines.ncsc.nl
+securened-acc.ncsc.nl
+securened-tst.ncsc.nl
+securened-dev.ncsc.nl

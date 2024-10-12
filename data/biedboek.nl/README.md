@@ -11,8 +11,8 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/biedboek.nl/subdomains.txt)|6335|Alive subdomains|
-|[urls.txt](/data/biedboek.nl/urls.txt)|6333|Urls|
+|[subdomains.txt](/data/biedboek.nl/subdomains.txt)|6334|Alive subdomains|
+|[urls.txt](/data/biedboek.nl/urls.txt)|6332|Urls|
 |[all_subdomains.txt](/data/biedboek.nl/all_subdomains.txt)|6345|All found subdomains (history)|
 
 
@@ -3214,7 +3214,6 @@
 |[https://abcde.biedboek.nl](https://abcde.biedboek.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Microsoft Azure...|
 |[https://cobs.biedboek.nl](https://cobs.biedboek.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Microsoft Azure...|
 |[https://commonplace.biedboek.nl](https://commonplace.biedboek.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Microsoft Azure...|
-|[https://estel.biedboek.nl](https://estel.biedboek.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Microsoft Azure...|
 |[https://bbk.biedboek.nl](https://bbk.biedboek.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Microsoft Azure...|
 |[https://host2.biedboek.nl](https://host2.biedboek.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Microsoft Azure...|
 |[https://web10441.biedboek.nl](https://web10441.biedboek.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Microsoft Azure...|
