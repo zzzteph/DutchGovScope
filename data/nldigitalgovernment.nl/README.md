@@ -22,7 +22,7 @@
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[https://accept.nldigitalgovernment.nl](https://accept.nldigitalgovernment.nl)| **A+**| **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |Basic HSTS Nginx|401 Authorizatio...|
-|[https://www.nldigitalgovernment.nl](https://www.nldigitalgovernment.nl)| **A+**| **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS MySQL Nginx PHP:8.2.22 WordPress:6.6.2 Yoast SEO:23.3|Home - Digital G...|
-|[https://nldigitalgovernment.nl](https://nldigitalgovernment.nl)| **A+**| **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Nginx PHP:8.2.22||
+|[https://www.nldigitalgovernment.nl](https://www.nldigitalgovernment.nl)| **A+**| **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS MySQL Nginx PHP:8.2.23 WordPress:6.6.2 Yoast SEO:23.6|Home - Digital G...|
+|[https://nldigitalgovernment.nl](https://nldigitalgovernment.nl)| **A+**| **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Nginx PHP:8.2.23||
 |[https://test.nldigitalgovernment.nl](https://test.nldigitalgovernment.nl)| | **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |Basic HSTS Nginx|401 Authorizatio...|
 

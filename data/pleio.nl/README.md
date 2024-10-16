@@ -12,7 +12,7 @@
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/pleio.nl/subdomains.txt)|7244|Alive subdomains|
-|[urls.txt](/data/pleio.nl/urls.txt)|7235|Urls|
+|[urls.txt](/data/pleio.nl/urls.txt)|7236|Urls|
 |[all_subdomains.txt](/data/pleio.nl/all_subdomains.txt)|7246|All found subdomains (history)|
 
 
@@ -72,7 +72,7 @@
 |[https://eclo.odc.pleio.nl](https://eclo.odc.pleio.nl)| **F**| **E**|| | | | | | | | :white_check_mark: | |HSTS|404 Not Found|
 |[https://elabel.pleio.nl](https://elabel.pleio.nl)| **A+**| **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Domeinnaam nog n...|
 |[https://energieslag.pleio.nl](https://energieslag.pleio.nl)| **A+**| **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Domeinnaam nog n...|
-|[https://enquetes.pleio.nl](https://enquetes.pleio.nl)| **A+**| **C**||:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | |HSTS PHP:8.2.22|Pleio Enquête|
+|[https://enquetes.pleio.nl](https://enquetes.pleio.nl)| **A+**| **C**||:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | |HSTS PHP|Pleio Enquête|
 |[https://eu.pleio.nl](https://eu.pleio.nl)| **A+**| **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Domeinnaam nog n...|
 |[https://eu.odc.pleio.nl](https://eu.odc.pleio.nl)| **F**| **E**|| | | | | | | | :white_check_mark: | |HSTS|404 Not Found|
 |[https://eurosai.pleio.nl](https://eurosai.pleio.nl)| **A+**| **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Domeinnaam nog n...|
@@ -188,7 +188,7 @@
 |[https://sjabloon3.pleio.nl](https://sjabloon3.pleio.nl)| **A+**| **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Domeinnaam nog n...|
 |[https://sjabloon4.pleio.nl](https://sjabloon4.pleio.nl)| **A+**| **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Domeinnaam nog n...|
 |[https://stats.pleio.nl](https://stats.pleio.nl)| **A**| **D**|nginx|:white_check_mark: | | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Matomo Analytics Nginx|Sign in - Matomo|
-|[https://status.pleio.nl](https://status.pleio.nl)| **A**| **C**|AtlassianEdge| |:white_check_mark: | :warning:| | | | :white_check_mark: | :white_check_mark: | |Amazon CloudFront Amazon Web Services Atlassian Statuspage HSTS React|Pleio Status|
+|[https://status.pleio.nl](https://status.pleio.nl)| **A**| **C**|AtlassianEdge| |:white_check_mark: | :warning:| | | | :white_check_mark: | :white_check_mark: | |Amazon CloudFront Amazon Web Services Atlassian Statuspage HSTS|Pleio Status|
 |[https://statuspage-bridge.pleio.nl](https://statuspage-bridge.pleio.nl)| **A+**| **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|404 Not Found|
 |[https://structuurvisiezh.pleio.nl](https://structuurvisiezh.pleio.nl)| **A+**| **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Domeinnaam nog n...|
 |[https://studerenbijdefensie.odc.pleio.nl](https://studerenbijdefensie.odc.pleio.nl)| **F**| **E**|| | | | | | | | :white_check_mark: | |HSTS|404 Not Found|
@@ -7256,4 +7256,5 @@
 |[https://formulieren-new.pleio.nl](https://formulieren-new.pleio.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://storybook.pleio.nl](https://storybook.pleio.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|@storybook/core...|
 |[https://haalcentraal.pleio.nl](https://haalcentraal.pleio.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache Tomcat Fourthwall:1.0.0 HSTS Java MariaDB Skolengo:1.0.0|Haal Centraal|
+|[https://tiptap-ai.pleio.nl](https://tiptap-ai.pleio.nl)| | **A**|| |:white_check_mark: | :warning:| | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 

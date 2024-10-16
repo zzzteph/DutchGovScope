@@ -20,7 +20,6 @@ mdm.aaenmaas.nl
 achtergrond.aaenmaas.nl
 ftp.aaenmaas.nl
 ftps.aaenmaas.nl
-amira.aaenmaas.nl
 geoportal.aaenmaas.nl
 gisservices.aaenmaas.nl
 luchtfoto.aaenmaas.nl

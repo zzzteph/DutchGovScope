@@ -4,15 +4,15 @@
 ## Summary data
 
 
- - **SSL Grade**:A-
+ - **SSL Grade**:A
  - **HTTP Security Grade**:D
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:5
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:3
 
 
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/minjus.nl/subdomains.txt)|46|Alive subdomains|
-|[urls.txt](/data/minjus.nl/urls.txt)|23|Urls|
+|[urls.txt](/data/minjus.nl/urls.txt)|21|Urls|
 |[all_subdomains.txt](/data/minjus.nl/all_subdomains.txt)|448|All found subdomains (history)|
 
 
@@ -21,27 +21,25 @@
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://dialin.acpt.dji.minjus.nl](https://dialin.acpt.dji.minjus.nl)| **A+**| **C**|Microsoft-IIS/10.0| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS IIS:10.0 Windows Server|Conferencing Dia...|
+|[https://dialin.acpt.dji.minjus.nl](https://dialin.acpt.dji.minjus.nl)| **A+**| **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS IIS:10.0 Windows Server||
 |[https://lyncdiscover.acpt.dji.minjus.nl](https://lyncdiscover.acpt.dji.minjus.nl)| **A**| **E**|| | | | | | | | :white_check_mark: | |||
-|[https://meet.dji.minjus.nl](https://meet.dji.minjus.nl)| **A+**| **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|Skype for Busine...|
-|[https://sfbrppool01.acpt.dji.minjus.nl](https://sfbrppool01.acpt.dji.minjus.nl)| **A+**| **C**|Microsoft-IIS/10.0| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS IIS:10.0 Windows Server|403 - Forbidden:...|
-|[https://sfbrppool01.dji.minjus.nl](https://sfbrppool01.dji.minjus.nl)| **A+**| **C**|Microsoft-IIS/10.0| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS IIS:10.0 Windows Server|403 - Forbidden:...|
+|[https://autodiscover.acpt.dji.minjus.nl](https://autodiscover.acpt.dji.minjus.nl)| **A**| **E**|| | | | | | | | :white_check_mark: | |||
+|[https://meet.dji.minjus.nl](https://meet.dji.minjus.nl)| **A+**| **E**|| | | | | | | | :white_check_mark: | |HSTS||
+|[https://sfbrppool01.acpt.dji.minjus.nl](https://sfbrppool01.acpt.dji.minjus.nl)| **A+**| **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS IIS:10.0 Windows Server||
+|[https://sfbrppool01.dji.minjus.nl](https://sfbrppool01.dji.minjus.nl)| **A+**| **E**|| | | | | | | | :white_check_mark: | |HSTS IIS:10.0 Windows Server||
 |[https://minjus.nl](https://minjus.nl)| **B**| **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
-|[https://sip002.dji.minjus.nl](https://sip002.dji.minjus.nl)| **B**| **C**|RTC/6.0| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
 |[https://www.minjus.nl](https://www.minjus.nl)| **B**| **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
-|[http://portal.justid.minjus.nl](http://portal.justid.minjus.nl)| | **F**|nginx| | | :warning:| | | | | :white_check_mark: | |Nginx|(404 Not Found)|
+|[http://portal.justid.minjus.nl](http://portal.justid.minjus.nl)| | **F**|nginx|:o: | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Laravel Nginx PHP|Weakpass|
 |[https://ews-external.dji.minjus.nl](https://ews-external.dji.minjus.nl)| **A**| **E**|| | | | | | | | :white_check_mark: | |HSTS IIS:10.0 Microsoft ASP.NET Outlook Web App:15.2.1258.28 Windows Server||
 |[https://enterpriseenrollment.dji.minjus.nl](https://enterpriseenrollment.dji.minjus.nl)| **A+**| **C**|server| | | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | ||302 Found|
-|[https://sip.dji.minjus.nl](https://sip.dji.minjus.nl)| **B**| **C**|RTC/6.0| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
-|[https://sip004.dji.minjus.nl](https://sip004.dji.minjus.nl)| **B**| **F**|RTC/6.0| | | | | | | | :white_check_mark: | |HSTS||
 |[https://autodiscover.dji.minjus.nl](https://autodiscover.dji.minjus.nl)| **A**| **E**|| | | | | | | | :white_check_mark: | |||
-|[https://dialin.dji.minjus.nl](https://dialin.dji.minjus.nl)| **A+**| **C**|Microsoft-IIS/10.0| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS IIS:10.0 Windows Server|Conferencing Dia...|
+|[https://dialin.dji.minjus.nl](https://dialin.dji.minjus.nl)| **A+**| **E**|| | | | | | | | :white_check_mark: | |HSTS IIS:10.0 Windows Server||
 |[https://sip001.dji.minjus.nl](https://sip001.dji.minjus.nl)| **B**| **C**|RTC/6.0| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
+|[https://ews-external.acpt.dji.minjus.nl](https://ews-external.acpt.dji.minjus.nl)| **A**| **E**|| | | | | | | | :white_check_mark: | |||
 |[https://ews-prot.acpt.dji.minjus.nl](https://ews-prot.acpt.dji.minjus.nl)| **A**| **E**|| | | | | | | | :white_check_mark: | |||
 |[https://lyncdiscover.dji.minjus.nl](https://lyncdiscover.dji.minjus.nl)| **A**| **E**|| | | | | | | | :white_check_mark: | |||
-|[https://schedule.acpt.dji.minjus.nl](https://schedule.acpt.dji.minjus.nl)| | **C**|Microsoft-IIS/10.0| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS IIS:10.0 Windows Server|403 - Forbidden:...|
-|[https://sip003.dji.minjus.nl](https://sip003.dji.minjus.nl)| | **F**|RTC/6.0| | | | | | | | :white_check_mark: | |HSTS||
-|[https://schedule.dji.minjus.nl](https://schedule.dji.minjus.nl)| **A+**| **C**|Microsoft-IIS/10.0| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS IIS:10.0 Windows Server|403 - Forbidden:...|
+|[https://schedule.acpt.dji.minjus.nl](https://schedule.acpt.dji.minjus.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS IIS:10.0 Windows Server||
+|[https://schedule.dji.minjus.nl](https://schedule.dji.minjus.nl)| **A+**| **E**|| | | | | | | | :white_check_mark: | |HSTS IIS:10.0 Windows Server||
 |[https://enterpriseenrollment.avt.minjus.nl](https://enterpriseenrollment.avt.minjus.nl)| **A+**| **C**|server| | | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | ||302 Found|
 |[https://enterpriseenrollment.minjus.nl](https://enterpriseenrollment.minjus.nl)| | **F**|server| | | | | | | | :white_check_mark: | ||302 Found|
 

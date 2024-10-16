@@ -36,7 +36,6 @@ https://procesweb-test.dictu.nl
 https://prod.dictu.nl
 http://rijkspas2ocsp.dictu.nl
 http://rijkspas2ocsp.extranet.dictu.nl
-http://rijkspascp.extranet.dictu.nl
 http://rijkspascrlcert1.extranet.dictu.nl
 http://rijkspascrlcert2.dictu.nl
 http://rijkspascrlcert2-acc.dictu.nl

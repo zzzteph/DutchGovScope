@@ -3,7 +3,7 @@ https://file.kansspelautoriteit.nl
 https://formulieren.kansspelautoriteit.nl
 https://mx.kansspelautoriteit.nl
 https://portal.kansspelautoriteit.nl
-https://sts.kansspelautoriteit.nl
+http://sts.kansspelautoriteit.nl
 https://vpn.kansspelautoriteit.nl
 https://webmail.kansspelautoriteit.nl
 https://www.kansspelautoriteit.nl

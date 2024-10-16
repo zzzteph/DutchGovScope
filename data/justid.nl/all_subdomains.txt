@@ -64,3 +64,4 @@ a-feeds.justid.nl
 a-opendata.justid.nl
 a-www.justid.nl
 sfbav.justid.nl
+intranet.justid.nl

@@ -13,7 +13,7 @@
 |------------|-------|------|
 |[subdomains.txt](/data/dnb.nl/subdomains.txt)|180|Alive subdomains|
 |[urls.txt](/data/dnb.nl/urls.txt)|128|Urls|
-|[all_subdomains.txt](/data/dnb.nl/all_subdomains.txt)|317|All found subdomains (history)|
+|[all_subdomains.txt](/data/dnb.nl/all_subdomains.txt)|319|All found subdomains (history)|
 
 
 ## Statistics

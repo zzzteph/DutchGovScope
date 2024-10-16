@@ -6,7 +6,7 @@
 
  - **SSL Grade**:B
  - **HTTP Security Grade**:B
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:14
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:16
 
 
 | File       | Count | Info |
@@ -35,7 +35,7 @@
 |[https://securened.ncsc.nl](https://securened.ncsc.nl)| **B**| **B**|none|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS|SecureNed|
 |[https://securenet.ncsc.nl](https://securenet.ncsc.nl)| **B**| **B**|none|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS|SecureNed|
 |[https://www.ncsc.nl](https://www.ncsc.nl)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Home | Nationaal...|
-|[https://gl1.ncsc.nl](https://gl1.ncsc.nl)| **F**| **F**|none| | | | | | | | :white_check_mark: | |HSTS|Test Page for th...|
+|[https://gl1.ncsc.nl](https://gl1.ncsc.nl)| **F**| **F**|none| | | | | | | | :white_check_mark: | |HSTS|Home | Nationaal...|
 |[https://ncsc.nl](https://ncsc.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
 |[https://api.mijn.test.ncsc.nl](https://api.mijn.test.ncsc.nl)| **B**| **A**|none| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://mijn.test.ncsc.nl](https://mijn.test.ncsc.nl)| **B**| **A**|none| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||

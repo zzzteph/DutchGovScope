@@ -145,7 +145,6 @@ tunnel.cbs.nl
 tunnel1.cbs.nl
 uag.cbs.nl
 upload.cbs.nl
-veiligleveren.cbs.nl
 videoplatform.cbs.nl
 videos.cbs.nl
 vocabs.cbs.nl

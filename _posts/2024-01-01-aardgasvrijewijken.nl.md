@@ -6,7 +6,7 @@ subdomains_count: 2
 all_subdomains_count: 2
 urls_count: 2
 ssl_rank: A+
-http_rank: E
+http_rank: F
 security_txt: 2
 url_link: /data/aardgasvrijewijken.nl/urls.txt
 all_subdomains_link: /data/aardgasvrijewijken.nl/all_subdomains.txt
@@ -21,7 +21,7 @@ tags: dutchgov
 
 
  - **SSL Grade**:A+
- - **HTTP Security Grade**:E
+ - **HTTP Security Grade**:F
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:2
 
 
@@ -37,6 +37,6 @@ tags: dutchgov
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[http://www.aardgasvrijewijken.nl](http://www.aardgasvrijewijken.nl)| **A+**| **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET||
-|[http://aardgasvrijewijken.nl](http://aardgasvrijewijken.nl)| **A+**| **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET||
+|[https://www.aardgasvrijewijken.nl](https://www.aardgasvrijewijken.nl)| **A+**| **F**|Microsoft-IIS/10.0| | | | | | | | :white_check_mark: | |HSTS IIS:10.0 Windows Server|Document Moved|
+|[https://aardgasvrijewijken.nl](https://aardgasvrijewijken.nl)| **A+**| **F**|Microsoft-IIS/10.0| | | | | | | | :white_check_mark: | |HSTS IIS:10.0 Windows Server|Document Moved|
 

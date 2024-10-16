@@ -243,3 +243,6 @@ crm.test.trainingscatalogus.nl
 en.test.trainingscatalogus.nl
 mail.test.trainingscatalogus.nl
 vgz-lms.product-api.trainingscatalogus.nl
+werkenbij.test.trainingscatalogus.nl
+preview.test.trainingscatalogus.nl
+shop.test.trainingscatalogus.nl

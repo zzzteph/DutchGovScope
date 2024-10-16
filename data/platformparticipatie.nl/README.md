@@ -22,6 +22,6 @@
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[https://ledendomein.platformparticipatie.nl](https://ledendomein.platformparticipatie.nl)| **A+**| **A**|Microsoft-IIS/10.0| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS IIS:10.0 Windows Server|403 - Forbidden:...|
-|[http://www.platformparticipatie.nl](http://www.platformparticipatie.nl)| **A+**| **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET SDL Tridion||
-|[http://platformparticipatie.nl](http://platformparticipatie.nl)| **A+**| **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET SDL Tridion||
+|[https://www.platformparticipatie.nl](https://www.platformparticipatie.nl)| **A+**| **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET SDL Tridion|Object moved|
+|[https://platformparticipatie.nl](https://platformparticipatie.nl)| **A+**| **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET SDL Tridion|Object moved|
 

@@ -142,7 +142,6 @@ https://tunnel.cbs.nl
 https://tunnel1.cbs.nl
 https://uag.cbs.nl
 https://upload.cbs.nl
-https://veiligleveren.cbs.nl
 https://videoplatform.cbs.nl
 https://videos.cbs.nl
 https://vocabs.cbs.nl

@@ -3956,7 +3956,6 @@ tablets.biedboek.nl
 ein.biedboek.nl
 h10.biedboek.nl
 zlodei.biedboek.nl
-view.em.biedboek.nl
 idemo.biedboek.nl
 help3.biedboek.nl
 rsr.biedboek.nl
@@ -5280,16 +5279,7 @@ pm2.biedboek.nl
 universiteiten.biedboek.nl
 ndi.biedboek.nl
 web-api.biedboek.nl
-webhook.biedboek.nl
-test.iot.biedboek.nl
-4wd.biedboek.nl
-anshun.biedboek.nl
-don1.biedboek.nl
-kkbox.biedboek.nl
-tmv.biedboek.nl
 usu.biedboek.nl
-100computertricks.biedboek.nl
-smedia.biedboek.nl
 host196.biedboek.nl
 sewing.biedboek.nl
 web10613.biedboek.nl
@@ -6221,7 +6211,6 @@ storelocator.biedboek.nl
 a25.biedboek.nl
 den-dolder.biedboek.nl
 oorbellen.biedboek.nl
-ssangyoung.biedboek.nl
 img08.biedboek.nl
 rabat.biedboek.nl
 ssl1.taggingserver.biedboek.nl

@@ -9,7 +9,7 @@ http://publicatieservice-rps-acc.officielebekendmakingen.nl
 https://vpn-nabs.officielebekendmakingen.nl
 https://www.officielebekendmakingen.nl
 https://zoek.officielebekendmakingen.nl
-https://officielebekendmakingen.nl
+http://officielebekendmakingen.nl
 https://zoek-preprod.officielebekendmakingen.nl
 https://www-preprod.officielebekendmakingen.nl
 https://zoek-acc.officielebekendmakingen.nl

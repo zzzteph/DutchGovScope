@@ -31,5 +31,5 @@
 |[https://www.vragenlijst.minvws.nl](https://www.vragenlijst.minvws.nl)| **B**| **B**|nginx| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Nginx|301 Moved Perman...|
 |[https://vragenlijst.minvws.nl](https://vragenlijst.minvws.nl)| **B**| **B**|nginx| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS Nginx|Onderzoekdoen.nl...|
 |[http://login-uzi.pilot.uzi-online.minvws.nl](http://login-uzi.pilot.uzi-online.minvws.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
-|[https://login.pilot.uzi-online.minvws.nl](https://login.pilot.uzi-online.minvws.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS|503 Service Unav...|
+|[https://login.pilot.uzi-online.minvws.nl](https://login.pilot.uzi-online.minvws.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS||
 

@@ -11,7 +11,7 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/zorgcsp.nl/subdomains.txt)|8|Alive subdomains|
+|[subdomains.txt](/data/zorgcsp.nl/subdomains.txt)|7|Alive subdomains|
 |[urls.txt](/data/zorgcsp.nl/urls.txt)|4|Urls|
 |[all_subdomains.txt](/data/zorgcsp.nl/all_subdomains.txt)|11|All found subdomains (history)|
 

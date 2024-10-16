@@ -7,7 +7,6 @@ http://pdw.gdi.minvenj.nl
 https://www.minvenj.nl
 http://apps.minvenj.nl
 https://statistics.ind.minvenj.nl
-https://sip.dtv.minvenj.nl
 https://lyncdiscover.acpt.dtv.minvenj.nl
 https://meet.dtv.minvenj.nl
 https://enterpriseenrollment.minvenj.nl

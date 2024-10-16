@@ -39,3 +39,4 @@ a-opendata.nza.nl
 a-www.nza.nl
 zpa.nza.nl
 opendisdata.nza.nl
+agw01-nomail.nza.nl

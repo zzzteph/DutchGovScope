@@ -27,7 +27,7 @@ https://was.digid.nl
 https://was-preprod1.digid.nl
 https://was-preprod2.digid.nl
 https://www.digid.nl
-https://www.machtigen.digid.nl
+http://www.machtigen.digid.nl
 https://digid.nl
 https://helpdesk.machtigen.digid.nl
 https://www.ontwikkel.machtigen.digid.nl

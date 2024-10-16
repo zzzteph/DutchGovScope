@@ -37,6 +37,6 @@ tags: dutchgov
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://www.slimmezorgestafette.nl](https://www.slimmezorgestafette.nl)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx|De Slimme Zorg E...|
-|[https://slimmezorgestafette.nl](https://slimmezorgestafette.nl)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx|De Slimme Zorg E...|
+|[https://www.slimmezorgestafette.nl](https://www.slimmezorgestafette.nl)| **A+**| **A**|Apache/2| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Apache HTTP Server:2 Bootstrap HSTS|Home - Slimme Zo...|
+|[https://slimmezorgestafette.nl](https://slimmezorgestafette.nl)| **A+**| **A**|Apache/2| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Apache HTTP Server:2 HSTS|301 Moved Perman...|
 

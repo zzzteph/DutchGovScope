@@ -7,7 +7,7 @@ all_subdomains_count: 75
 urls_count: 23
 ssl_rank: A+
 http_rank: B
-security_txt: 4
+security_txt: 7
 url_link: /data/officielebekendmakingen.nl/urls.txt
 all_subdomains_link: /data/officielebekendmakingen.nl/all_subdomains.txt
 subdomains_link: /data/officielebekendmakingen.nl/subdomains.txt
@@ -22,7 +22,7 @@ tags: dutchgov
 
  - **SSL Grade**:A+
  - **HTTP Security Grade**:B
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:4
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:7
 
 
 | File       | Count | Info |
@@ -48,7 +48,7 @@ tags: dutchgov
 |[https://vpn-nabs.officielebekendmakingen.nl](https://vpn-nabs.officielebekendmakingen.nl)| **B**| **E**|OpenVPN-AS| | | | | | :white_check_mark: | | :white_check_mark: | |||
 |[https://www.officielebekendmakingen.nl](https://www.officielebekendmakingen.nl)| **A+**| **C**||:warning: |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS Microsoft ASP.NET|Zoeken in alle d...|
 |[https://zoek.officielebekendmakingen.nl](https://zoek.officielebekendmakingen.nl)| **A+**| **C**||:warning: |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS||
-|[https://officielebekendmakingen.nl](https://officielebekendmakingen.nl)| **A+**| **C**||:warning: |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |F5 BigIP HSTS|308 Permanent Re...|
+|[http://officielebekendmakingen.nl](http://officielebekendmakingen.nl)| **A+**| **C**||:warning: |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |F5 BigIP HSTS||
 |[https://zoek-preprod.officielebekendmakingen.nl](https://zoek-preprod.officielebekendmakingen.nl)| **A+**| **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|403 Forbidden|
 |[https://www-preprod.officielebekendmakingen.nl](https://www-preprod.officielebekendmakingen.nl)| **A+**| **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|403 Forbidden|
 |[https://zoek-acc.officielebekendmakingen.nl](https://zoek-acc.officielebekendmakingen.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|403 Forbidden|
@@ -57,7 +57,7 @@ tags: dutchgov
 |[https://coldip.officielebekendmakingen.nl](https://coldip.officielebekendmakingen.nl)| | **C**|Microsoft-IIS/10.0| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS IIS:10.0 Microsoft ASP.NET Windows Server|Object moved|
 |[https://beheersite-op.officielebekendmakingen.nl](https://beheersite-op.officielebekendmakingen.nl)| | **A**|Microsoft-IIS/10.0| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS IIS:10.0 Microsoft ASP.NET:4.0.30319 Windows Server|Object moved|
 |[https://www-acc.officielebekendmakingen.nl](https://www-acc.officielebekendmakingen.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|403 Forbidden|
-|[http://localhost.officielebekendmakingen.nl](http://localhost.officielebekendmakingen.nl)| | **F**|nginx| | | :warning:| | | | | :white_check_mark: | |Nginx|(404 Not Found)|
+|[http://localhost.officielebekendmakingen.nl](http://localhost.officielebekendmakingen.nl)| | **F**|nginx|:o: | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Laravel Nginx PHP|Weakpass|
 |[https://identifier-preprod.officielebekendmakingen.nl](https://identifier-preprod.officielebekendmakingen.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|URI - Performer...|
 |[http://stage-acc.officielebekendmakingen.nl](http://stage-acc.officielebekendmakingen.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET||
 

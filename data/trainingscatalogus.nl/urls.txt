@@ -135,3 +135,4 @@ https://product-api.schiphol-lms-a.trainingscatalogus.nl
 https://product-api.schiphol-lms.trainingscatalogus.nl
 https://adr-lms-a.trainingscatalogus.nl
 https://gemeentezoetermeer-lms.trainingscatalogus.nl
+https://vgz-lms.product-api.trainingscatalogus.nl

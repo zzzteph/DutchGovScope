@@ -25,7 +25,7 @@ http://birdviewer.rws.nl
 https://browse.nexus.vm-02.azure.grid.rws.nl
 http://bva.rws.nl
 http://bva-acc.rws.nl
-https://centraaltoegangspuntdata.rws.nl
+http://centraaltoegangspuntdata.rws.nl
 https://clap.rws.nl
 https://cmgrws.rws.nl
 https://configgenerator.vm-02.azure.grid.rws.nl
@@ -53,7 +53,7 @@ http://git.rws.nl
 https://grafana.vm-02.azure.grid.rws.nl
 https://grid.rws.nl
 https://gridacc.rws.nl
-http://hld.rws.nl
+https://hld.rws.nl
 https://hwtest.vm-02.azure.grid.rws.nl
 https://imgdownload.rws.nl
 https://inloggen.rws.nl
@@ -67,13 +67,13 @@ https://mars.rws.nl
 https://matroos.rws.nl
 http://meridian.rws.nl
 https://nexus-ivp.rws.nl
-https://nis.rws.nl
+http://nis.rws.nl
 https://nlhull.rws.nl
 https://nlrdms.rws.nl
 https://noos.matroos.rws.nl
 https://office.systeem.rws.nl
 https://open.rws.nl
-https://otl.rws.nl
+http://otl.rws.nl
 https://overstroomik.rws.nl
 http://overstroomik-acceptance.rws.nl
 https://pgadmin.vm-02.azure.grid.rws.nl
@@ -89,7 +89,7 @@ https://rastoken.rws.nl
 https://rhel8.wabinfo.rws.nl
 https://rwsos.rws.nl
 https://samenwerken.rws.nl
-https://samp.rws.nl
+http://samp.rws.nl
 https://sig.fam.rws.nl
 https://sluisplanning.rws.nl
 https://standaarden.rws.nl

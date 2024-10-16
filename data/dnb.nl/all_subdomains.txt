@@ -315,3 +315,5 @@ organisatiegegevens-test.dnb.nl
 organisatiegegevens-dev.dnb.nl
 organisatiegegevens-pp.dnb.nl
 organisatiegegevens.dnb.nl
+connect.sharepoint.dnb.nl
+my.sharepoint.dnb.nl

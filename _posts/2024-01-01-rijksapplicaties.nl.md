@@ -7,7 +7,7 @@ all_subdomains_count: 377
 urls_count: 266
 ssl_rank: A+
 http_rank: C
-security_txt: 38
+security_txt: 49
 url_link: /data/rijksapplicaties.nl/urls.txt
 all_subdomains_link: /data/rijksapplicaties.nl/all_subdomains.txt
 subdomains_link: /data/rijksapplicaties.nl/subdomains.txt
@@ -22,7 +22,7 @@ tags: dutchgov
 
  - **SSL Grade**:A+
  - **HTTP Security Grade**:C
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:38
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:49
 
 
 | File       | Count | Info |
@@ -259,7 +259,7 @@ tags: dutchgov
 |[https://rvb-dtc-webservice.staging.rijksapplicaties.nl](https://rvb-dtc-webservice.staging.rijksapplicaties.nl)| | **C**|nginx|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS Nginx||
 |[https://app1.staging.rijksapplicaties.nl](https://app1.staging.rijksapplicaties.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx||
 |[https://monitor.staging.rijksapplicaties.nl](https://monitor.staging.rijksapplicaties.nl)| | **C**|nginx|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS Nginx||
-|[https://fbp.rijksapplicaties.nl](https://fbp.rijksapplicaties.nl)| | **E**|nginx| | | | |:warning: | | | :white_check_mark: | |Nginx||
+|[https://fbp.rijksapplicaties.nl](https://fbp.rijksapplicaties.nl)| | **C**|nginx|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS Nginx||
 |[https://rvb-dtc-webservice.rijksapplicaties.nl](https://rvb-dtc-webservice.rijksapplicaties.nl)| | **C**|nginx|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS Nginx||
 |[https://rvb-arr.rijksapplicaties.nl](https://rvb-arr.rijksapplicaties.nl)| | **C**|nginx|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS Nginx||
 |[https://mijn-ncg.rijksapplicaties.nl](https://mijn-ncg.rijksapplicaties.nl)| | **C**|nginx|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS Nginx||

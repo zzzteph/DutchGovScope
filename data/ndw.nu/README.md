@@ -6,7 +6,7 @@
 
  - **SSL Grade**:B
  - **HTTP Security Grade**:C
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:59
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:62
 
 
 | File       | Count | Info |
@@ -48,7 +48,7 @@
 |[https://mlops-monitoring.ndw.nu](https://mlops-monitoring.ndw.nu)| **B**| **F**|Microsoft-Azure-Application-Gateway/v2| | | | | | | | :white_check_mark: | ||404 Not Found|
 |[https://mlops-platform.ndw.nu](https://mlops-platform.ndw.nu)| **B**| **B**|istio-envoy|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Envoy||
 |[https://mlops-tracking.ndw.nu](https://mlops-tracking.ndw.nu)| **B**| **F**|Microsoft-Azure-Application-Gateway/v2| | | | | | | | :white_check_mark: | ||404 Not Found|
-|[https://mogin.ndw.nu](https://mogin.ndw.nu)| **F**| **A**|| |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | |HSTS|Mogin|
+|[https://mogin.ndw.nu](https://mogin.ndw.nu)| **F**| **A**|| |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | |HSTS|Mogin - Website...|
 |[https://ncis.ndw.nu](https://ncis.ndw.nu)| **B**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS Nginx|NCIS Web Portaal|
 |[https://ndwviewer.ndw.nu](https://ndwviewer.ndw.nu)| **B**| **A**|Apache/2.4.62 (Debian)| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server:2.4.62 Debian HSTS|NDW Viewer|
 |[https://nls.ndw.nu](https://nls.ndw.nu)| | **F**|nginx/1.26.2| | | | | | | | :white_check_mark: | |Nginx:1.26.2|NlsFrontend|
@@ -58,7 +58,7 @@
 |[https://opendata.ndw.nu](https://opendata.ndw.nu)| **A**| **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server Bootstrap|NDW open data|
 |[https://opendata.english.ndw.nu](https://opendata.english.ndw.nu)| **A+**| **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://put-kpi-dashboard.ndw.nu](https://put-kpi-dashboard.ndw.nu)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|Indicatoren prog...|
-|[https://slim-reizen.ndw.nu](https://slim-reizen.ndw.nu)| **B**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS Nginx|A12 Slim Reizen...|
+|[https://slim-reizen.ndw.nu](https://slim-reizen.ndw.nu)| **B**| **D**|nginx| | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Nginx|A12 Slim Reizen...|
 |[https://sonar.ndw.nu](https://sonar.ndw.nu)| **A+**| **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Java SonarQubes|SonarQube|
 |[https://test-kpi-dashboard.ndw.nu](https://test-kpi-dashboard.ndw.nu)| **F**| **F**|Microsoft-Azure-Application-Gateway/v2| | | | | | | | :white_check_mark: | ||404 Not Found|
 |[https://tiles.ndw.nu](https://tiles.ndw.nu)| **B**| **E**|| | | | | | | | :white_check_mark: | |||

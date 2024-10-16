@@ -31,7 +31,7 @@
 |[https://opwww.valys.nl](https://opwww.valys.nl)| **F**| **F**|Apache/2.4.52 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.52 Ubuntu|301 Moved Perman...|
 |[https://mijn.valys.nl](https://mijn.valys.nl)| **F**| **F**|Apache/2.4.52 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.52 Ubuntu|301 Moved Perman...|
 |[https://uurwww.valys.nl](https://uurwww.valys.nl)| **F**| **F**|Apache/2.4.52 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.52 Ubuntu|301 Moved Perman...|
-|[http://autodiscover.valys.nl](http://autodiscover.valys.nl)| | **B**|Microsoft-IIS/10.0|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server||
+|[http://autodiscover.valys.nl](http://autodiscover.valys.nl)| | **C**|Microsoft-IIS/10.0| |:white_check_mark: | | | | | | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server||
 |[https://suite4burgerzaken-test.valys.nl](https://suite4burgerzaken-test.valys.nl)| | **F**|Apache/2.4.52 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.52 Ubuntu|301 Moved Perman...|
 |[https://shortlist.valys.nl](https://shortlist.valys.nl)| | **F**|Apache/2.4.52 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.52 Ubuntu|301 Moved Perman...|
 |[https://glw.valys.nl](https://glw.valys.nl)| | **F**|Apache/2.4.52 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.52 Ubuntu|301 Moved Perman...|
@@ -286,9 +286,9 @@
 |[https://mbas.valys.nl](https://mbas.valys.nl)| | **F**|Apache/2.4.52 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.52 Ubuntu|301 Moved Perman...|
 |[https://bks9.books.valys.nl](https://bks9.books.valys.nl)| | **F**|Apache/2.4.52 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.52 Ubuntu|301 Moved Perman...|
 |[https://winthrop.valys.nl](https://winthrop.valys.nl)| | **F**|Apache/2.4.52 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.52 Ubuntu|301 Moved Perman...|
-|[https://wensbus06-83329484www.50plusmill.nlvalys0900-9630www.valys.nl](https://wensbus06-83329484www.50plusmill.nlvalys0900-9630www.valys.nl)| | **F**|Apache/2.4.52 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.52 Ubuntu|301 Moved Perman...|
-|[https://www.50plusmill.nlvalys0900-9630www.valys.nl](https://www.50plusmill.nlvalys0900-9630www.valys.nl)| | **F**|Apache/2.4.52 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.52 Ubuntu|Valys|
-|[https://valys0900-9630www.valys.nl](https://valys0900-9630www.valys.nl)| | **F**|Apache/2.4.52 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.52 Ubuntu|301 Moved Perman...|
+|[https://wensbus06-83329484www.50plusmill.nlvalys0900-9630www.valys.nl](https://wensbus06-83329484www.50plusmill.nlvalys0900-9630www.valys.nl)| | **F**|Apache/2.4.52 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.52 HSTS Ubuntu|301 Moved Perman...|
+|[https://www.50plusmill.nlvalys0900-9630www.valys.nl](https://www.50plusmill.nlvalys0900-9630www.valys.nl)| | **F**|Apache/2.4.52 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.52 HSTS Ubuntu|Valys|
+|[https://valys0900-9630www.valys.nl](https://valys0900-9630www.valys.nl)| | **F**|Apache/2.4.52 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.52 HSTS Ubuntu|301 Moved Perman...|
 |[https://ae2.valys.nl](https://ae2.valys.nl)| | **F**|Apache/2.4.52 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.52 Ubuntu|301 Moved Perman...|
 |[https://lmd.valys.nl](https://lmd.valys.nl)| | **F**|Apache/2.4.52 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.52 Ubuntu|301 Moved Perman...|
 |[https://dls.valys.nl](https://dls.valys.nl)| | **F**|Apache/2.4.52 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.52 Ubuntu|301 Moved Perman...|

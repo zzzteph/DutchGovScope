@@ -16,7 +16,7 @@ https://iwelcome.nvwa.nl
 https://iwelcome-preprod.nvwa.nl
 https://magazines.nvwa.nl
 https://mijn.nvwa.nl
-https://mijn-acc.nvwa.nl
+http://mijn-acc.nvwa.nl
 https://openbare-inspectieresultaten.nvwa.nl
 https://opendata.nvwa.nl
 https://opendata.english.nvwa.nl

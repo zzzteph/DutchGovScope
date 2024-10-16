@@ -11,9 +11,9 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/trainingscatalogus.nl/subdomains.txt)|245|Alive subdomains|
-|[urls.txt](/data/trainingscatalogus.nl/urls.txt)|137|Urls|
-|[all_subdomains.txt](/data/trainingscatalogus.nl/all_subdomains.txt)|262|All found subdomains (history)|
+|[subdomains.txt](/data/trainingscatalogus.nl/subdomains.txt)|248|Alive subdomains|
+|[urls.txt](/data/trainingscatalogus.nl/urls.txt)|138|Urls|
+|[all_subdomains.txt](/data/trainingscatalogus.nl/all_subdomains.txt)|263|All found subdomains (history)|
 
 
 ## Statistics
@@ -33,8 +33,8 @@
 |[https://gemeentedenhaag-a.trainingscatalogus.nl](https://gemeentedenhaag-a.trainingscatalogus.nl)| **A+**| **C**|Class|:white_check_mark: |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://ind.trainingscatalogus.nl](https://ind.trainingscatalogus.nl)| **A**| **F**|Microsoft-Azure-Application-Gateway/v2| | | | | | | | :white_check_mark: | ||404 Not Found|
 |[https://ketenpartnerdji.trainingscatalogus.nl](https://ketenpartnerdji.trainingscatalogus.nl)| **A**| **F**|Microsoft-Azure-Application-Gateway/v2| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|404 Not Found|
-|[https://leeromgeving-minvenj.trainingscatalogus.nl](https://leeromgeving-minvenj.trainingscatalogus.nl)| **A+**| **C**|Apache| |:white_check_mark: | | | | | | :white_check_mark: | |Apache HTTP Server HSTS Moodle PHP|Doorverwijspagin...|
-|[https://leeromgeving-svb.trainingscatalogus.nl](https://leeromgeving-svb.trainingscatalogus.nl)| **A+**| **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS Moodle PHP:8.1.29|Doorverwijspagin...|
+|[https://leeromgeving-minvenj.trainingscatalogus.nl](https://leeromgeving-minvenj.trainingscatalogus.nl)| **A+**| **C**|Apache| |:white_check_mark: | | | | | | :white_check_mark: | |Apache HTTP Server HSTS Moodle PHP:8.1.29|Doorverwijspagin...|
+|[https://leeromgeving-svb.trainingscatalogus.nl](https://leeromgeving-svb.trainingscatalogus.nl)| **A+**| **B**|Apache|:white_check_mark: |:white_check_mark: | | |:warning: | | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS Moodle PHP:8.1.29|Doorverwijspagin...|
 |[https://parnassialeeromgeving-a.trainingscatalogus.nl](https://parnassialeeromgeving-a.trainingscatalogus.nl)| **A+**| **D**|Apache|:warning: |:white_check_mark: | | | | | | :white_check_mark: | |Apache HTTP Server HSTS Moodle PHP:8.1.29|Startpagina | Pa...|
 |[https://radio.trainingscatalogus.nl](https://radio.trainingscatalogus.nl)| **A**| **D**|nginx|:warning: |:white_check_mark: | | | | | | :white_check_mark: | |Nginx|Web Server's Def...|
 |[https://szw.trainingscatalogus.nl](https://szw.trainingscatalogus.nl)| **A**| **B**|Microsoft-IIS/10.0|:white_check_mark: |:white_check_mark: | | |:warning: | | :white_check_mark: | :white_check_mark: | |IIS:10.0 Windows Server|Document Moved|
@@ -158,4 +158,5 @@
 |[https://product-api.schiphol-lms.trainingscatalogus.nl](https://product-api.schiphol-lms.trainingscatalogus.nl)| | **F**|Microsoft-IIS/10.0|:white_check_mark: | | | | | | | :white_check_mark: | |Azure IIS:10.0 Microsoft ASP.NET Windows Server||
 |[https://adr-lms-a.trainingscatalogus.nl](https://adr-lms-a.trainingscatalogus.nl)| | **A**|Class|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Access is denied...|
 |[https://gemeentezoetermeer-lms.trainingscatalogus.nl](https://gemeentezoetermeer-lms.trainingscatalogus.nl)| | **A**|Class|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Access is denied...|
+|[https://vgz-lms.product-api.trainingscatalogus.nl](https://vgz-lms.product-api.trainingscatalogus.nl)| | **F**|Microsoft-IIS/10.0|:white_check_mark: | | | | | | | :white_check_mark: | |Azure IIS:10.0 Microsoft ASP.NET Windows Server||
 

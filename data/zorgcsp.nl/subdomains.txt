@@ -5,4 +5,3 @@ secure.zorgcsp.nl
 acceptatie.secure.zorgcsp.nl
 test.zorgcsp.nl
 ldap.zorgcsp.nl
-ldaptest.zorgcsp.nl

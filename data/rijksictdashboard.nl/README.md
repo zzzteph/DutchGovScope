@@ -5,8 +5,8 @@
 
 
  - **SSL Grade**:A+
- - **HTTP Security Grade**:B
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:6
+ - **HTTP Security Grade**:A
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:7
 
 
 | File       | Count | Info |
@@ -23,7 +23,7 @@
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[https://www.rijksictdashboard.nl](https://www.rijksictdashboard.nl)| **A+**| **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS|Rijks ICT-dashbo...|
 |[https://acc.beheer.rijksictdashboard.nl](https://acc.beheer.rijksictdashboard.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS|Rijks ICT-dashbo...|
-|[https://acc.rijksictdashboard.nl](https://acc.rijksictdashboard.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS|Dienst tijdelijk...|
+|[https://acc.rijksictdashboard.nl](https://acc.rijksictdashboard.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS|Rijks ICT-dashbo...|
 |[https://beheer.rijksictdashboard.nl](https://beheer.rijksictdashboard.nl)| **A+**| **A**|| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS|Rijks ICT-dashbo...|
 |[https://rijksictdashboard.nl](https://rijksictdashboard.nl)| **A+**| **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS|Rijks ICT-dashbo...|
 |[https://test.beheer.rijksictdashboard.nl](https://test.beheer.rijksictdashboard.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS|Rijks ICT-dashbo...|

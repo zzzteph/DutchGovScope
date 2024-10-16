@@ -7,7 +7,7 @@ all_subdomains_count: 552
 urls_count: 18
 ssl_rank: C
 http_rank: D
-security_txt: 5
+security_txt: 7
 url_link: /data/ssc-campus.nl/urls.txt
 all_subdomains_link: /data/ssc-campus.nl/all_subdomains.txt
 subdomains_link: /data/ssc-campus.nl/subdomains.txt
@@ -22,7 +22,7 @@ tags: dutchgov
 
  - **SSL Grade**:C
  - **HTTP Security Grade**:D
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:5
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:7
 
 
 | File       | Count | Info |
@@ -52,7 +52,7 @@ tags: dutchgov
 |[https://nwm-zw-output.ssc-campus.nl](https://nwm-zw-output.ssc-campus.nl)| **B**| **F**|Apache/2.4.37 (Red Hat Enterprise Linux) OpenSSL/1.1.1k| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.37 OpenSSL:1.1.1k Red Hat|Test Page for th...|
 |[https://rivm-micol-a01p.rivm.ssc-campus.nl](https://rivm-micol-a01p.rivm.ssc-campus.nl)| **B**| **A**|Apache| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS|Redirecting...|
 |[https://testconn-mp.ssc-campus.nl](https://testconn-mp.ssc-campus.nl)| **B**| **F**|BigIP|:warning: | | | | | :white_check_mark: | | :white_check_mark: | |F5 BigIP||
-|[https://www.ssc-campus.nl](https://www.ssc-campus.nl)| **B**| **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|301 Moved Perman...|
-|[https://ssc-campus.nl](https://ssc-campus.nl)| **B**| **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|301 Moved Perman...|
+|[https://www.ssc-campus.nl](https://www.ssc-campus.nl)| **B**| **A**|Apache| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Apache HTTP Server HSTS|301 Moved Perman...|
+|[https://ssc-campus.nl](https://ssc-campus.nl)| **B**| **A**|Apache| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Apache HTTP Server HSTS|301 Moved Perman...|
 |[http://localhost.ssc-campus.nl](http://localhost.ssc-campus.nl)| | **F**|nginx| | | :warning:| | | | | :white_check_mark: | |Nginx|(404 Not Found)|
 

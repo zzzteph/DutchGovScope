@@ -22,7 +22,7 @@
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[https://accept.digitaleoverheid.nl](https://accept.digitaleoverheid.nl)| **A+**| **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |Basic HSTS Nginx|401 Authorizatio...|
-|[https://www.digitaleoverheid.nl](https://www.digitaleoverheid.nl)| **A+**| **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS MySQL Nginx PHP:8.2.22 WordPress:6.6.2 Yoast SEO:23.3|Home - Digitale...|
-|[https://digitaleoverheid.nl](https://digitaleoverheid.nl)| **A+**| **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS MySQL Nginx PHP:8.2.22 WordPress||
+|[https://www.digitaleoverheid.nl](https://www.digitaleoverheid.nl)| **A+**| **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS MySQL Nginx PHP:8.2.23 WordPress:6.6.2 Yoast SEO:23.6|Home - Digitale...|
+|[https://digitaleoverheid.nl](https://digitaleoverheid.nl)| **A+**| **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS MySQL Nginx PHP:8.2.23 WordPress||
 |[https://test.digitaleoverheid.nl](https://test.digitaleoverheid.nl)| | **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |Basic HSTS Nginx|401 Authorizatio...|
 

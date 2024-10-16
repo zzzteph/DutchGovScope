@@ -756,3 +756,4 @@ clhf1.gn2.rijkscloud.nl
 vpn1.ec.rijkscloud.nl
 integrations.chat.rijkscloud.nl
 zbxprx1.ec.rijkscloud.nl
+ienw.rijkscloud.nl

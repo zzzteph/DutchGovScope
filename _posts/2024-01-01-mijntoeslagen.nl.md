@@ -2,7 +2,7 @@
 layout: default
 title: "mijntoeslagen.nl"
 permalink: "/dutchgov/mijntoeslagen.nl.html"
-subdomains_count: 5
+subdomains_count: 6
 all_subdomains_count: 6
 urls_count: 4
 ssl_rank: A
@@ -27,7 +27,7 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/mijntoeslagen.nl/subdomains.txt)|5|Alive subdomains|
+|[subdomains.txt](/DutchGovScope/data/mijntoeslagen.nl/subdomains.txt)|6|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/mijntoeslagen.nl/urls.txt)|4|Urls|
 |[all_subdomains.txt](/DutchGovScope/data/mijntoeslagen.nl/all_subdomains.txt)|6|All found subdomains (history)|
 

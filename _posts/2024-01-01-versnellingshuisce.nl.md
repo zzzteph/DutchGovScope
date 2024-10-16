@@ -43,6 +43,6 @@ tags: dutchgov
 |[https://www.versnellingshuisce.nl](https://www.versnellingshuisce.nl)| **A**| **E**|LinQhost HPW|:warning: | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | ||301 Moved Perman...|
 |[https://www.financiering.versnellingshuisce.nl](https://www.financiering.versnellingshuisce.nl)| **A**| **F**|Apache/2| | | | | | | | :white_check_mark: | |Apache HTTP Server:2|301 Moved Perman...|
 |[https://www.groei.versnellingshuisce.nl](https://www.groei.versnellingshuisce.nl)| **A**| **F**|Apache/2| | | | | | | | :white_check_mark: | |Apache HTTP Server:2 HSTS PHP:8.1.29||
-|[https://versnellingshuisce.nl](https://versnellingshuisce.nl)| **A**| **E**|LinQhost HPW|:warning: | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Alpine.js Laravel PHP Statamic|Versnellingshuis...|
+|[https://versnellingshuisce.nl](https://versnellingshuisce.nl)| **A**| **E**|LinQhost HPW|:warning: | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Alpine.js Google Tag Manager Laravel PHP Statamic|Versnellingshuis...|
 |[http://autodiscover.versnellingshuisce.nl](http://autodiscover.versnellingshuisce.nl)| | **C**|Microsoft-IIS/10.0| |:white_check_mark: | | | | | | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server||
 

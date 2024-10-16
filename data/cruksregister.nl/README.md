@@ -28,5 +28,5 @@
 |[https://grafana.cruksregister.nl](https://grafana.cruksregister.nl)| | **A**|cloudflare| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Cloudflare HSTS HTTP/3||
 |[https://jaeger.cruksregister.nl](https://jaeger.cruksregister.nl)| | **A**|cloudflare| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Cloudflare HSTS HTTP/3|404 Not Found|
 |[https://pingdom.cruksregister.nl](https://pingdom.cruksregister.nl)| | **A**|cloudflare| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Cloudflare HSTS HTTP/3|404 Not Found|
-|[http://testing.cruksregister.nl](http://testing.cruksregister.nl)| | **F**|cloudflare| | | | | | | | :white_check_mark: | |Cloudflare|301 Moved Perman...|
+|[http://testing.cruksregister.nl](http://testing.cruksregister.nl)| | **F**|cloudflare| | | | | | | | :white_check_mark: | |Cloudflare HTTP/3|301 Moved Perman...|
 

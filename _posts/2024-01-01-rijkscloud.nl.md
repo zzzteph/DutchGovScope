@@ -3,7 +3,7 @@ layout: default
 title: "rijkscloud.nl"
 permalink: "/dutchgov/rijkscloud.nl.html"
 subdomains_count: 557
-all_subdomains_count: 758
+all_subdomains_count: 759
 urls_count: 122
 ssl_rank: A+
 http_rank: B
@@ -29,7 +29,7 @@ tags: dutchgov
 |------------|-------|------|
 |[subdomains.txt](/DutchGovScope/data/rijkscloud.nl/subdomains.txt)|557|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/rijkscloud.nl/urls.txt)|122|Urls|
-|[all_subdomains.txt](/DutchGovScope/data/rijkscloud.nl/all_subdomains.txt)|758|All found subdomains (history)|
+|[all_subdomains.txt](/DutchGovScope/data/rijkscloud.nl/all_subdomains.txt)|759|All found subdomains (history)|
 
 
 ## Statistics
@@ -40,7 +40,7 @@ tags: dutchgov
 |[https://analytics.feni.ienw.rijkscloud.nl](https://analytics.feni.ienw.rijkscloud.nl)| **A+**| **C**|gunicorn|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS Python gunicorn||
 |[https://analytics.ienw.rijkscloud.nl](https://analytics.ienw.rijkscloud.nl)| **A+**| **C**|gunicorn|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS Python gunicorn||
 |[https://api.cursus.rijkscloud.nl](https://api.cursus.rijkscloud.nl)| **A**| **E**|| | | | | | | | :white_check_mark: | |||
-|[https://api.dbe-t.rvb.rijkscloud.nl](https://api.dbe-t.rvb.rijkscloud.nl)| | **D**|Microsoft-IIS/10.0| |:white_check_mark: | :warning:| | | | | :white_check_mark: | |HSTS IIS:10.0 Microsoft ASP.NET Windows Server|403 - Forbidden:...|
+|[https://api.dbe-t.rvb.rijkscloud.nl](https://api.dbe-t.rvb.rijkscloud.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS IIS:10.0 Microsoft ASP.NET Windows Server|| (503)|
 |[https://api.ix.rijkscloud.nl](https://api.ix.rijkscloud.nl)| **A+**| **B**|rijkscloud.nl| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS||
 |[https://api.performance.ix.rijkscloud.nl](https://api.performance.ix.rijkscloud.nl)| **A+**| **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
 |[https://chat-dev.rijkscloud.nl](https://chat-dev.rijkscloud.nl)| **A+**| **A**|Apache| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS|GitLab Mattermos...|
@@ -55,9 +55,9 @@ tags: dutchgov
 |[https://dashboards.ilt-idlab.rijkscloud.nl](https://dashboards.ilt-idlab.rijkscloud.nl)| **A+**| **A**|| |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | |HSTS Java||
 |[https://dashboards.ipi.rijkscloud.nl](https://dashboards.ipi.rijkscloud.nl)| **A+**| **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|Page not found|
 |[https://datadrop.datafabriek.ienw.rijkscloud.nl](https://datadrop.datafabriek.ienw.rijkscloud.nl)| **A+**| **C**|gunicorn|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS Python gunicorn||
-|[https://datatool.datafabriek.ienw.rijkscloud.nl](https://datatool.datafabriek.ienw.rijkscloud.nl)| **A+**| **E**|| | | | | | | | :white_check_mark: | |HSTS Python gunicorn||
-|[https://dbe-t.rvb.rijkscloud.nl](https://dbe-t.rvb.rijkscloud.nl)| | **C**|Microsoft-IIS/10.0| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS IIS:10.0 Microsoft ASP.NET Windows Server|Website Offline|
-|[https://factuur.dbe-t.rvb.rijkscloud.nl](https://factuur.dbe-t.rvb.rijkscloud.nl)| | **B**|Microsoft-IIS/10.0| |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | |HSTS IIS:10.0 Windows Server||
+|[https://datatool.datafabriek.ienw.rijkscloud.nl](https://datatool.datafabriek.ienw.rijkscloud.nl)| **A+**| **C**|gunicorn|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS Python gunicorn||
+|[https://dbe-t.rvb.rijkscloud.nl](https://dbe-t.rvb.rijkscloud.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS IIS:10.0 Microsoft ASP.NET Windows Server|| (503)|
+|[https://factuur.dbe-t.rvb.rijkscloud.nl](https://factuur.dbe-t.rvb.rijkscloud.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS IIS:10.0 Windows Server|| (503)|
 |[https://git-dev.rijkscloud.nl](https://git-dev.rijkscloud.nl)| **A+**| **A**|nginx|:warning: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://git.dfront.rijkscloud.nl](https://git.dfront.rijkscloud.nl)| **A+**| **A**|nginx|:warning: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://git.dictu.rijkscloud.nl](https://git.dictu.rijkscloud.nl)| **A+**| **A**|nginx|:warning: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
@@ -94,7 +94,7 @@ tags: dutchgov
 |[https://minio.datafabriek.ienw.rijkscloud.nl](https://minio.datafabriek.ienw.rijkscloud.nl)| **A+**| **A**|MinIO Console| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|MinIO Console|
 |[https://nc-a.rvb.rijkscloud.nl](https://nc-a.rvb.rijkscloud.nl)| **A+**| **A**|Apache|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Apache HTTP Server HSTS Nextcloud PHP||
 |[https://nc.rivm.rijkscloud.nl](https://nc.rivm.rijkscloud.nl)| **A+**| **A**|Apache|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Apache HTTP Server HSTS Nextcloud PHP||
-|[https://nextcloud.dgdoobi.rijkscloud.nl](https://nextcloud.dgdoobi.rijkscloud.nl)| **A+**| **A**|Apache| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Apache HTTP Server HSTS Nextcloud PHP||
+|[https://nextcloud.dgdoobi.rijkscloud.nl](https://nextcloud.dgdoobi.rijkscloud.nl)| **A+**| **A**|Apache|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Apache HTTP Server HSTS Nextcloud PHP||
 |[https://nextcloud.ix.rijkscloud.nl](https://nextcloud.ix.rijkscloud.nl)| **A+**| **A**|Apache|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Apache HTTP Server HSTS Nextcloud PHP||
 |[https://nextcloud.rijkspas.rijkscloud.nl](https://nextcloud.rijkspas.rijkscloud.nl)| **A+**| **A**|Apache|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Apache HTTP Server HSTS Nextcloud PHP||
 |[https://nextcloud.rvb.rijkscloud.nl](https://nextcloud.rvb.rijkscloud.nl)| **A+**| **A**|Apache|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Apache HTTP Server HSTS Nextcloud PHP||
@@ -128,7 +128,7 @@ tags: dutchgov
 |[https://shiny.cursus.rijkscloud.nl](https://shiny.cursus.rijkscloud.nl)| **A+**| **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
 |[https://shiny.hr-ienw.rijkscloud.nl](https://shiny.hr-ienw.rijkscloud.nl)| **A+**| **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|Index of /|
 |[https://shiny.ritp.rijkscloud.nl](https://shiny.ritp.rijkscloud.nl)| **A+**| **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|Page not found|
-|[https://sso.dbe-t.rvb.rijkscloud.nl](https://sso.dbe-t.rvb.rijkscloud.nl)| | **C**|Microsoft-IIS/10.0| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS IIS:10.0 Microsoft ASP.NET Windows Server||
+|[https://sso.dbe-t.rvb.rijkscloud.nl](https://sso.dbe-t.rvb.rijkscloud.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS IIS:10.0 Microsoft ASP.NET Windows Server|| (503)|
 |[https://ssp.ix.rijkscloud.nl](https://ssp.ix.rijkscloud.nl)| **A+**| **C**|rijkscloud.nl|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS|Redirecting...|
 |[https://stats.duo.rijkscloud.nl](https://stats.duo.rijkscloud.nl)| **A+**| **B**|Apache|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |AngularJS Apache HTTP Server HSTS Matomo Analytics|Sign in - Matomo|
 |[https://status.rijkscloud.nl](https://status.rijkscloud.nl)| **A+**| **A**|| |:white_check_mark: | | | :white_check_mark:| | :white_check_mark: | :white_check_mark: | |Bootstrap:3.4.1 HSTS|ODCN Status page|

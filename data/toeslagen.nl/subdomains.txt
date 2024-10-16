@@ -36,5 +36,4 @@ www8.toeslagen.nl
 fibt2.acc.toeslagen.nl
 mijn-acc4.toeslagen.nl
 werkenbij.toeslagen.nl
-schadeherstel.acc.toeslagen.nl
 schadeherstel.toeslagen.nl
