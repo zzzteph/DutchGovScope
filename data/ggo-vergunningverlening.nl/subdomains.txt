@@ -1,3 +1,2 @@
-www.ggo-vergunningverlening.nl
 ggo-vergunningverlening.nl
-localhost.ggo-vergunningverlening.nl
+www.ggo-vergunningverlening.nl

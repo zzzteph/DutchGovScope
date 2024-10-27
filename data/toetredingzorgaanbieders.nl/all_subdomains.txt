@@ -1,8 +1,0 @@
-feeds.toetredingzorgaanbieders.nl
-opendata.toetredingzorgaanbieders.nl
-www.toetredingzorgaanbieders.nl
-toetredingzorgaanbieders.nl
-a-www.toetredingzorgaanbieders.nl
-a-feeds.toetredingzorgaanbieders.nl
-a-opendata.toetredingzorgaanbieders.nl
-resultaten-toegankelijkheidsonderzoek-www.toetredingzorgaanbieders.nl

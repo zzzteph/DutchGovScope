@@ -1,5 +1,3 @@
-http://beeldbank.nationaalarchief.nl
-https://bibliotheek.nationaalarchief.nl
 https://www1.nationaalarchief.nl
 https://aankomst.nationaalarchief.nl
 https://oranjehotel.nationaalarchief.nl
@@ -9,13 +7,13 @@ https://vocseavoyagers.nationaalarchief.nl
 https://acpt.nationaalarchief.nl
 https://actorenregister.acpt.nationaalarchief.nl
 https://actorenregister.nationaalarchief.nl
-https://cbs.acpt.nationaalarchief.nl
+http://beeldbank.nationaalarchief.nl
+https://bibliotheek.nationaalarchief.nl
 https://cbs.nationaalarchief.nl
 https://chat.nationaalarchief.nl
 https://e-bom.acpt.nationaalarchief.nl
 https://e-bom.nationaalarchief.nl
 https://e-bom.ted.nationaalarchief.nl
-https://e-depot.nationaalarchief.nl
 https://e-depot.ted.nationaalarchief.nl
 https://en.nationaalarchief.nl
 https://nationaalarchief.nl
@@ -30,12 +28,3 @@ https://pywb.nationaalarchief.nl
 https://pywb.ted.nationaalarchief.nl
 https://ted.nationaalarchief.nl
 https://www.ted.nationaalarchief.nl
-https://en.test.nationaalarchief.nl
-https://es.test.nationaalarchief.nl
-https://fr.test.nationaalarchief.nl
-http://localhost.nationaalarchief.nl
-http://amh.nationaalarchief.nl
-https://de.test.nationaalarchief.nl
-https://ontorefine.nationaalarchief.nl
-https://meld.nationaalarchief.nl
-https://id.test.nationaalarchief.nl

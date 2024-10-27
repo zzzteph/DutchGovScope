@@ -1,8 +1,3 @@
-autodiscover.atgb.nl
-www.atgb.nl
 atgb.nl
-enterpriseenrollment.atgb.nl
-ftp.atgb.nl
-mysql.atgb.nl
-enterpriseregistration.atgb.nl
-msoid.atgb.nl
+www.atgb.nl
+autodiscover.atgb.nl

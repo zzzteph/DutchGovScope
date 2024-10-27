@@ -1,8 +1,4 @@
+cultuursubsidie.nl
 feeds.cultuursubsidie.nl
 opendata.cultuursubsidie.nl
 www.cultuursubsidie.nl
-cultuursubsidie.nl
-a-www.cultuursubsidie.nl
-a-feeds.cultuursubsidie.nl
-a-opendata.cultuursubsidie.nl
-monitor.cultuursubsidie.nl

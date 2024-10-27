@@ -1,3 +1,2 @@
-https://www.biociden.nl
 https://biociden.nl
-http://localhost.biociden.nl
+https://www.biociden.nl

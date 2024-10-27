@@ -1,7 +1,4 @@
+strafrechtketen.nl
+www.strafrechtketen.nl
 feeds.strafrechtketen.nl
 opendata.strafrechtketen.nl
-www.strafrechtketen.nl
-strafrechtketen.nl
-a-feeds.strafrechtketen.nl
-a-opendata.strafrechtketen.nl
-a-www.strafrechtketen.nl

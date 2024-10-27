@@ -1,7 +1,4 @@
-www.regiosaandegrens.nl
-opendata.regiosaandegrens.nl
 feeds.regiosaandegrens.nl
+opendata.regiosaandegrens.nl
 regiosaandegrens.nl
-a-feeds.regiosaandegrens.nl
-a-opendata.regiosaandegrens.nl
-a-www.regiosaandegrens.nl
+www.regiosaandegrens.nl

@@ -1,6 +1,0 @@
-sso-ict.nl
-www.sso-ict.nl
-msgbroker.sso-ict.nl
-rijk2air.sso-ict.nl
-godlike.sso-ict.nl
-localhost.sso-ict.nl

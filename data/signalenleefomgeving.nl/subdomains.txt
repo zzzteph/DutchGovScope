@@ -1,3 +1,2 @@
-www.signalenleefomgeving.nl
 signalenleefomgeving.nl
-localhost.signalenleefomgeving.nl
+www.signalenleefomgeving.nl

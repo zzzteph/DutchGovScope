@@ -1,7 +1,4 @@
-feeds.adviesraadmigratie.nl
-opendata.adviesraadmigratie.nl
-www.adviesraadmigratie.nl
 adviesraadmigratie.nl
-a-opendata.adviesraadmigratie.nl
-a-www.adviesraadmigratie.nl
-a-feeds.adviesraadmigratie.nl
+feeds.adviesraadmigratie.nl
+www.adviesraadmigratie.nl
+opendata.adviesraadmigratie.nl

@@ -1,4 +1,2 @@
 https://minvrom.nl
 https://www.minvrom.nl
-http://localhost.minvrom.nl
-https://wifi.minvrom.nl

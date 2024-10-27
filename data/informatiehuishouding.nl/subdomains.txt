@@ -1,10 +1,6 @@
+www.informatiehuishouding.nl
 feeds.informatiehuishouding.nl
+informatiehuishouding.nl
+opendata.informatiehuishouding.nl
 grip.informatiehuishouding.nl
 magazines.informatiehuishouding.nl
-opendata.informatiehuishouding.nl
-www.informatiehuishouding.nl
-informatiehuishouding.nl
-a-feeds.informatiehuishouding.nl
-a-opendata.informatiehuishouding.nl
-a-www.informatiehuishouding.nl
-a-magazines.informatiehuishouding.nl

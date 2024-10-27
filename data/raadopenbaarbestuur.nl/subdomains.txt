@@ -1,12 +1,4 @@
-opendata.raadopenbaarbestuur.nl
-www.raadopenbaarbestuur.nl
-feeds.raadopenbaarbestuur.nl
-raadopenbaarbestuur.nl
 digitaal.raadopenbaarbestuur.nl
-a-feeds.raadopenbaarbestuur.nl
-a-opendata.raadopenbaarbestuur.nl
-a-www.raadopenbaarbestuur.nl
-forum.raadopenbaarbestuur.nl
-sdm.raadopenbaarbestuur.nl
-sip.raadopenbaarbestuur.nl
-discussie.raadopenbaarbestuur.nl
+opendata.raadopenbaarbestuur.nl
+raadopenbaarbestuur.nl
+www.raadopenbaarbestuur.nl

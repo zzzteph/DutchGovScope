@@ -1,6 +1,3 @@
-https://mail.leidraadse.nl
+https://leidraadse.nl
 https://webmail.leidraadse.nl
 https://www.leidraadse.nl
-https://leidraadse.nl
-http://localhost.leidraadse.nl
-https://7www.leidraadse.nl

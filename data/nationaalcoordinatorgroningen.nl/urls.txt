@@ -1,10 +1,8 @@
-https://aip.nationaalcoordinatorgroningen.nl
 http://aip-acc.nationaalcoordinatorgroningen.nl
+https://aip.nationaalcoordinatorgroningen.nl
 https://feeds.nationaalcoordinatorgroningen.nl
-https://intranet.nationaalcoordinatorgroningen.nl
-https://intranet-prod.nationaalcoordinatorgroningen.nl
+https://nationaalcoordinatorgroningen.nl
 https://opendata.nationaalcoordinatorgroningen.nl
 https://www.nationaalcoordinatorgroningen.nl
-https://nationaalcoordinatorgroningen.nl
-https://jet-test.nationaalcoordinatorgroningen.nl
-https://jet-acc.nationaalcoordinatorgroningen.nl
+https://intranet-prod.nationaalcoordinatorgroningen.nl
+https://intranet.nationaalcoordinatorgroningen.nl

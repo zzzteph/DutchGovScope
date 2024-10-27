@@ -1,8 +1,5 @@
+www.werkenvoorinternationaleorganisaties.nl
 feeds.werkenvoorinternationaleorganisaties.nl
 opendata.werkenvoorinternationaleorganisaties.nl
-vacature.werkenvoorinternationaleorganisaties.nl
-www.werkenvoorinternationaleorganisaties.nl
 werkenvoorinternationaleorganisaties.nl
-a-opendata.werkenvoorinternationaleorganisaties.nl
-a-www.werkenvoorinternationaleorganisaties.nl
-a-feeds.werkenvoorinternationaleorganisaties.nl
+vacature.werkenvoorinternationaleorganisaties.nl

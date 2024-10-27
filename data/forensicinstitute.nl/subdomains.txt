@@ -1,11 +1,4 @@
+www.forensicinstitute.nl
 feeds.forensicinstitute.nl
 opendata.forensicinstitute.nl
-www.forensicinstitute.nl
 forensicinstitute.nl
-a-feeds.forensicinstitute.nl
-a-opendata.forensicinstitute.nl
-a-www.forensicinstitute.nl
-academy.forensicinstitute.nl
-myacademy.forensicinstitute.nl
-mail.forensicinstitute.nl
-pop.forensicinstitute.nl

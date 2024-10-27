@@ -2,14 +2,12 @@
 layout: default
 title: "internetconsultatie.nl"
 permalink: "/dutchgov/internetconsultatie.nl.html"
-subdomains_count: 7
-all_subdomains_count: 10
+subdomains_count: 6
 urls_count: 6
-ssl_rank: B+
-http_rank: B
-security_txt: 1
+ssl_rank: 
+http_rank: A
+security_txt: 2
 url_link: /data/internetconsultatie.nl/urls.txt
-all_subdomains_link: /data/internetconsultatie.nl/all_subdomains.txt
 subdomains_link: /data/internetconsultatie.nl/subdomains.txt
 categories: dutchgov
 tags: dutchgov
@@ -20,16 +18,15 @@ tags: dutchgov
 ## Summary data
 
 
- - **SSL Grade**:B+
- - **HTTP Security Grade**:B
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:1
+ - **SSL Grade**:
+ - **HTTP Security Grade**:A
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:2
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/internetconsultatie.nl/subdomains.txt)|7|Alive subdomains|
+|[subdomains.txt](/DutchGovScope/data/internetconsultatie.nl/subdomains.txt)|6|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/internetconsultatie.nl/urls.txt)|6|Urls|
-|[all_subdomains.txt](/DutchGovScope/data/internetconsultatie.nl/all_subdomains.txt)|10|All found subdomains (history)|
 
 
 ## Statistics
@@ -37,10 +34,11 @@ tags: dutchgov
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://acceptatie.internetconsultatie.nl](https://acceptatie.internetconsultatie.nl)| **F**| **F**|BigIP| | | | | | | | :white_check_mark: | |F5 BigIP||
-|[https://cma.internetconsultatie.nl](https://cma.internetconsultatie.nl)| **A+**| **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Object moved|
-|[https://www.internetconsultatie.nl](https://www.internetconsultatie.nl)| **A+**| **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET|Overheid.nl | Co...|
-|[https://internetconsultatie.nl](https://internetconsultatie.nl)| **A+**| **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET|Overheid.nl | Co...|
+|[http://acceptatie.internetconsultatie.nl](http://acceptatie.internetconsultatie.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
+|[https://internetconsultatie.nl](https://internetconsultatie.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | ||301 Moved Perman...|
+|[https://cma.internetconsultatie.nl](https://cma.internetconsultatie.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Object moved|
+|[https://www.internetconsultatie.nl](https://www.internetconsultatie.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET|Overheid.nl | Co...|
 |[https://www-acc.internetconsultatie.nl](https://www-acc.internetconsultatie.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|403 - Forbidden:...|
-|[https://cma-acc.internetconsultatie.nl](https://cma-acc.internetconsultatie.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS|Object moved|
+|[https://cma-acc.internetconsultatie.nl](https://cma-acc.internetconsultatie.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Object moved|
+
 

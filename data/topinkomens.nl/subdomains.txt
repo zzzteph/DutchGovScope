@@ -1,9 +1,5 @@
+topinkomens.nl
+www.topinkomens.nl
 feeds.topinkomens.nl
-forum.topinkomens.nl
 opendata.topinkomens.nl
 rekentool.topinkomens.nl
-www.topinkomens.nl
-topinkomens.nl
-a-www.topinkomens.nl
-a-feeds.topinkomens.nl
-a-opendata.topinkomens.nl

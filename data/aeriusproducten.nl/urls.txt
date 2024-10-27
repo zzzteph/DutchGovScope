@@ -1,4 +1,3 @@
-https://www.aeriusproducten.nl
 https://aeriusproducten.nl
-https://feeds.aeriusproducten.nl
 https://opendata.aeriusproducten.nl
+https://www.aeriusproducten.nl

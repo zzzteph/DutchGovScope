@@ -1,3 +1,2 @@
-https://www.earonline.nl
 https://earonline.nl
-https://test.earonline.nl
+https://www.earonline.nl

@@ -1,12 +1,4 @@
+centralecommissiedierproeven.nl
 feeds.centralecommissiedierproeven.nl
 opendata.centralecommissiedierproeven.nl
 www.centralecommissiedierproeven.nl
-centralecommissiedierproeven.nl
-a-opendata.centralecommissiedierproeven.nl
-a-feeds.centralecommissiedierproeven.nl
-avd-acc.centralecommissiedierproeven.nl
-avd.centralecommissiedierproeven.nl
-a-www.centralecommissiedierproeven.nl
-i-www.centralecommissiedierproeven.nl
-o-www.centralecommissiedierproeven.nl
-t-www.centralecommissiedierproeven.nl

@@ -1,6 +1,0 @@
-mail.knooppuntjoure.nl
-www.knooppuntjoure.nl
-knooppuntjoure.nl
-pop.knooppuntjoure.nl
-smtp.knooppuntjoure.nl
-ftp.knooppuntjoure.nl

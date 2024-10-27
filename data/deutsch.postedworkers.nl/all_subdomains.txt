@@ -1,5 +1,0 @@
-opendata.deutsch.postedworkers.nl
-deutsch.postedworkers.nl
-feeds.deutsch.postedworkers.nl
-magazines.deutsch.postedworkers.nl
-magazinesintern.deutsch.postedworkers.nl

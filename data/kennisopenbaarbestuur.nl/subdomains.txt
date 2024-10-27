@@ -1,8 +1,4 @@
-feeds.kennisopenbaarbestuur.nl
+kennisopenbaarbestuur.nl
 opendata.kennisopenbaarbestuur.nl
 www.kennisopenbaarbestuur.nl
-kennisopenbaarbestuur.nl
-a-feeds.kennisopenbaarbestuur.nl
-a-opendata.kennisopenbaarbestuur.nl
-a-www.kennisopenbaarbestuur.nl
-test.kennisopenbaarbestuur.nl
+feeds.kennisopenbaarbestuur.nl

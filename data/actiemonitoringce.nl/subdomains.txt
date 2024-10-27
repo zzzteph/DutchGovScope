@@ -1,3 +1,2 @@
-www.actiemonitoringce.nl
 actiemonitoringce.nl
-localhost.actiemonitoringce.nl
+www.actiemonitoringce.nl

@@ -1,7 +1,4 @@
-feeds.wetbeschermingklokkenluiders.nl
-opendata.wetbeschermingklokkenluiders.nl
 www.wetbeschermingklokkenluiders.nl
+feeds.wetbeschermingklokkenluiders.nl
 wetbeschermingklokkenluiders.nl
-a-feeds.wetbeschermingklokkenluiders.nl
-a-opendata.wetbeschermingklokkenluiders.nl
-a-www.wetbeschermingklokkenluiders.nl
+opendata.wetbeschermingklokkenluiders.nl

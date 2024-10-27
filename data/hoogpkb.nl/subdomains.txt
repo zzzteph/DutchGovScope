@@ -1,14 +1,3 @@
+aanvraag.hoogpkb.nl
 hoogpkb.nl
 www.hoogpkb.nl
-aanvraag.hoogpkb.nl
-hostmaster.hoogpkb.nl
-autodiscover.hoogpkb.nl
-ftp.hoogpkb.nl
-ssh.hoogpkb.nl
-barcelona.hoogpkb.nl
-moms.hoogpkb.nl
-longines.hoogpkb.nl
-kotka.hoogpkb.nl
-securepromo.hoogpkb.nl
-enterpriseenrollment.hoogpkb.nl
-enterpriseregistration.hoogpkb.nl

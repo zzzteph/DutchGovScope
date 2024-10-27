@@ -3,13 +3,11 @@ layout: default
 title: "cibgacademie.nl"
 permalink: "/dutchgov/cibgacademie.nl.html"
 subdomains_count: 0
-all_subdomains_count: 2
 urls_count: 0
 ssl_rank: 
 http_rank: F
 security_txt: 0
 url_link: /data/cibgacademie.nl/urls.txt
-all_subdomains_link: /data/cibgacademie.nl/all_subdomains.txt
 subdomains_link: /data/cibgacademie.nl/subdomains.txt
 categories: dutchgov
 tags: dutchgov
@@ -29,7 +27,6 @@ tags: dutchgov
 |------------|-------|------|
 |[subdomains.txt](/DutchGovScope/data/cibgacademie.nl/subdomains.txt)|0|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/cibgacademie.nl/urls.txt)|0|Urls|
-|[all_subdomains.txt](/DutchGovScope/data/cibgacademie.nl/all_subdomains.txt)|2|All found subdomains (history)|
 
 
 ## Statistics
@@ -37,4 +34,5 @@ tags: dutchgov
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
+
 

@@ -1,4 +1,3 @@
 https://feeds.toetredingzorgaanbieders.nl
 https://opendata.toetredingzorgaanbieders.nl
-https://www.toetredingzorgaanbieders.nl
 https://toetredingzorgaanbieders.nl

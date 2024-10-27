@@ -13,7 +13,6 @@
 |------------|-------|------|
 |[subdomains.txt](/data/warcrimes.nl/subdomains.txt)|2|Alive subdomains|
 |[urls.txt](/data/warcrimes.nl/urls.txt)|2|Urls|
-|[all_subdomains.txt](/data/warcrimes.nl/all_subdomains.txt)|2|All found subdomains (history)|
 
 
 ## Statistics
@@ -23,4 +22,5 @@
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[https://warcrimes.nl](https://warcrimes.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |||
 |[https://www.warcrimes.nl](https://www.warcrimes.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
+
 

@@ -1,7 +1,0 @@
-opendata.overtoeslagen.nl
-www.overtoeslagen.nl
-feeds.overtoeslagen.nl
-overtoeslagen.nl
-a-feeds.overtoeslagen.nl
-a-opendata.overtoeslagen.nl
-a-www.overtoeslagen.nl

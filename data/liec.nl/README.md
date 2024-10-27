@@ -13,7 +13,6 @@
 |------------|-------|------|
 |[subdomains.txt](/data/liec.nl/subdomains.txt)|2|Alive subdomains|
 |[urls.txt](/data/liec.nl/urls.txt)|2|Urls|
-|[all_subdomains.txt](/data/liec.nl/all_subdomains.txt)|3|All found subdomains (history)|
 
 
 ## Statistics
@@ -23,4 +22,5 @@
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[https://liec.nl](https://liec.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://www.liec.nl](https://www.liec.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
+
 

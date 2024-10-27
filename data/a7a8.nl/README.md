@@ -4,16 +4,15 @@
 ## Summary data
 
 
- - **SSL Grade**:A
+ - **SSL Grade**:
  - **HTTP Security Grade**:E
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:2
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:0
 
 
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/a7a8.nl/subdomains.txt)|2|Alive subdomains|
 |[urls.txt](/data/a7a8.nl/urls.txt)|2|Urls|
-|[all_subdomains.txt](/data/a7a8.nl/all_subdomains.txt)|2|All found subdomains (history)|
 
 
 ## Statistics
@@ -21,6 +20,7 @@
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[http://www.a7a8.nl](http://www.a7a8.nl)| **A**| **E**|| | | | | | | | :white_check_mark: | |||
-|[http://a7a8.nl](http://a7a8.nl)| **A**| **E**|| | | | | | | | :white_check_mark: | |||
+|[https://a7a8.nl](https://a7a8.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Object moved|
+|[https://www.a7a8.nl](https://www.a7a8.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Object moved|
+
 

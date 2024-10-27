@@ -1,4 +1,2 @@
-www.monitorgezondheid.nl
 monitorgezondheid.nl
-digitalevragenlijst.monitorgezondheid.nl
-localhost.monitorgezondheid.nl
+www.monitorgezondheid.nl

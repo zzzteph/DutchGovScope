@@ -1,7 +1,4 @@
+www.rijksschoonmaak.nl
 feeds.rijksschoonmaak.nl
 opendata.rijksschoonmaak.nl
-www.rijksschoonmaak.nl
 rijksschoonmaak.nl
-a-feeds.rijksschoonmaak.nl
-a-opendata.rijksschoonmaak.nl
-a-www.rijksschoonmaak.nl

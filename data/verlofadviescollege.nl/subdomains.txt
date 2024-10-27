@@ -1,8 +1,4 @@
-feeds.verlofadviescollege.nl
 opendata.verlofadviescollege.nl
-www.verlofadviescollege.nl
 verlofadviescollege.nl
-a-feeds.verlofadviescollege.nl
-a-opendata.verlofadviescollege.nl
-a-www.verlofadviescollege.nl
-test.verlofadviescollege.nl
+www.verlofadviescollege.nl
+feeds.verlofadviescollege.nl

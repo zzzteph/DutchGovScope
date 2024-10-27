@@ -1,7 +1,4 @@
 feeds.nix18.nl
+nix18.nl
 opendata.nix18.nl
 www.nix18.nl
-nix18.nl
-a-feeds.nix18.nl
-a-opendata.nix18.nl
-a-www.nix18.nl

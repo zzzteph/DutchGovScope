@@ -1,7 +1,4 @@
+rijksinspecties.nl
+www.rijksinspecties.nl
 feeds.rijksinspecties.nl
 opendata.rijksinspecties.nl
-www.rijksinspecties.nl
-rijksinspecties.nl
-a-feeds.rijksinspecties.nl
-a-opendata.rijksinspecties.nl
-a-www.rijksinspecties.nl

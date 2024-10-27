@@ -1,7 +1,4 @@
-www.uitelkaarmetkinderen.nl
-uitelkaarmetkinderen.nl
-feeds.uitelkaarmetkinderen.nl
 opendata.uitelkaarmetkinderen.nl
-a-www.uitelkaarmetkinderen.nl
-a-feeds.uitelkaarmetkinderen.nl
-a-opendata.uitelkaarmetkinderen.nl
+www.uitelkaarmetkinderen.nl
+feeds.uitelkaarmetkinderen.nl
+uitelkaarmetkinderen.nl

@@ -1,7 +1,4 @@
-emm-online.nl
-feeds.emm-online.nl
-opendata.emm-online.nl
 www.emm-online.nl
-a-feeds.emm-online.nl
-a-opendata.emm-online.nl
-a-www.emm-online.nl
+emm-online.nl
+opendata.emm-online.nl
+feeds.emm-online.nl

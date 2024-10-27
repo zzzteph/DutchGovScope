@@ -13,7 +13,6 @@
 |------------|-------|------|
 |[subdomains.txt](/data/stikstofaanpak.nl/subdomains.txt)|2|Alive subdomains|
 |[urls.txt](/data/stikstofaanpak.nl/urls.txt)|2|Urls|
-|[all_subdomains.txt](/data/stikstofaanpak.nl/all_subdomains.txt)|2|All found subdomains (history)|
 
 
 ## Statistics
@@ -23,4 +22,5 @@
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[https://stikstofaanpak.nl](https://stikstofaanpak.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |||
 |[https://www.stikstofaanpak.nl](https://www.stikstofaanpak.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |||
+
 

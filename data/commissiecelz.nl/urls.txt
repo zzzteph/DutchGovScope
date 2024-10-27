@@ -1,4 +1,3 @@
-https://feeds.commissiecelz.nl
-https://opendata.commissiecelz.nl
 https://www.commissiecelz.nl
 https://commissiecelz.nl
+https://opendata.commissiecelz.nl

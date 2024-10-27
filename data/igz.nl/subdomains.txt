@@ -1,11 +1,3 @@
-www.igz.nl
 igz.nl
-intranet.igz.nl
-portal.igz.nl
-sdm.igz.nl
-sip.igz.nl
-survey-beheer.igz.nl
+www.igz.nl
 survey-test.igz.nl
-survey.igz.nl
-onderhoud.igz.nl
-localhost.igz.nl

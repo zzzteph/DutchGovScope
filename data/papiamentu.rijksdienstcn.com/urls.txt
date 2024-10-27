@@ -1,3 +1,3 @@
-https://opendata.papiamentu.rijksdienstcn.com
 https://feeds.papiamentu.rijksdienstcn.com
+https://opendata.papiamentu.rijksdienstcn.com
 https://papiamentu.rijksdienstcn.com

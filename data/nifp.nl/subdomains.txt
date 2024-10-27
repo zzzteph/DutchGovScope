@@ -1,10 +1,6 @@
 academie.nifp.nl
 feeds.nifp.nl
 opendata.nifp.nl
-rapporteursnet.nifp.nl
 www.nifp.nl
+rapporteursnet.nifp.nl
 nifp.nl
-mail.nifp.nl
-a-opendata.nifp.nl
-a-www.nifp.nl
-a-feeds.nifp.nl

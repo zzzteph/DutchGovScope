@@ -1,10 +1,4 @@
+feeds.dutchncca.nl
+opendata.dutchncca.nl
 www.dutchncca.nl
 dutchncca.nl
-opendata.dutchncca.nl
-feeds.dutchncca.nl
-a-feeds.dutchncca.nl
-a-opendata.dutchncca.nl
-i-www.dutchncca.nl
-o-www.dutchncca.nl
-t-www.dutchncca.nl
-a-www.dutchncca.nl

@@ -1,5 +1,5 @@
-https://feeds.eiti.nl
+https://dataportaal.eiti.nl
 https://opendata.eiti.nl
 https://www.eiti.nl
 https://eiti.nl
-https://dataportaal.eiti.nl
+https://feeds.eiti.nl

@@ -13,7 +13,6 @@
 |------------|-------|------|
 |[subdomains.txt](/data/dierenartsregister.nl/subdomains.txt)|2|Alive subdomains|
 |[urls.txt](/data/dierenartsregister.nl/urls.txt)|2|Urls|
-|[all_subdomains.txt](/data/dierenartsregister.nl/all_subdomains.txt)|2|All found subdomains (history)|
 
 
 ## Statistics
@@ -23,4 +22,5 @@
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[https://dierenartsregister.nl](https://dierenartsregister.nl)| | **A**|Microsoft-IIS/10.0| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS IIS:10.0 Windows Server|Document Moved|
 |[https://www.dierenartsregister.nl](https://www.dierenartsregister.nl)| | **A**|Microsoft-IIS/10.0| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS IIS:10.0 Windows Server|Document Moved|
+
 

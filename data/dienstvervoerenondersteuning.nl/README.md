@@ -13,7 +13,6 @@
 |------------|-------|------|
 |[subdomains.txt](/data/dienstvervoerenondersteuning.nl/subdomains.txt)|2|Alive subdomains|
 |[urls.txt](/data/dienstvervoerenondersteuning.nl/urls.txt)|2|Urls|
-|[all_subdomains.txt](/data/dienstvervoerenondersteuning.nl/all_subdomains.txt)|2|All found subdomains (history)|
 
 
 ## Statistics
@@ -21,6 +20,7 @@
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://dienstvervoerenondersteuning.nl](https://dienstvervoerenondersteuning.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://www.dienstvervoerenondersteuning.nl](https://www.dienstvervoerenondersteuning.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
+|[https://dienstvervoerenondersteuning.nl](https://dienstvervoerenondersteuning.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
+
 

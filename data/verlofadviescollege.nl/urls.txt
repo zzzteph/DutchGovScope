@@ -1,4 +1,4 @@
-https://feeds.verlofadviescollege.nl
 https://opendata.verlofadviescollege.nl
-https://www.verlofadviescollege.nl
 https://verlofadviescollege.nl
+https://www.verlofadviescollege.nl
+https://feeds.verlofadviescollege.nl

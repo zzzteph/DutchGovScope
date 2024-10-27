@@ -1,10 +1,7 @@
-acceptatie.loketgezondleven.nl
+www.loketgezondleven.nl
 interventies.loketgezondleven.nl
+loketgezondleven.nl
+toolkits.loketgezondleven.nl
+acceptatie.loketgezondleven.nl
 prerelease.loketgezondleven.nl
 test.loketgezondleven.nl
-toolkits.loketgezondleven.nl
-www.loketgezondleven.nl
-loketgezondleven.nl
-preview.loketgezondleven.nl
-productie.loketgezondleven.nl
-localhost.loketgezondleven.nl

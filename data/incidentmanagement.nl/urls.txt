@@ -1,5 +1,5 @@
-https://webshop.incidentmanagement.nl
-http://www.incidentmanagement.nl
-https://www.webshop.incidentmanagement.nl
-http://incidentmanagement.nl
+https://incidentmanagement.nl
+https://www.incidentmanagement.nl
 https://revi.incidentmanagement.nl
+https://webshop.incidentmanagement.nl
+https://www.webshop.incidentmanagement.nl

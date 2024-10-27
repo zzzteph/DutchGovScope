@@ -1,10 +1,10 @@
-https://opendata.stelselcatalogus.nl
-https://preprod.stelselcatalogus.nl
 https://preprod.opendata.stelselcatalogus.nl
-https://www.stelselcatalogus.nl
+https://preprod.stelselcatalogus.nl
+https://opendata.stelselcatalogus.nl
 https://stelselcatalogus.nl
-http://digitaleoverheid.stelselcatalogus.nl
-https://editor.stelselcatalogus.nl
-https://preprod.keycloak.stelselcatalogus.nl
-https://preprod.www.stelselcatalogus.nl
+https://www.stelselcatalogus.nl
 https://playground.stelselcatalogus.nl
+https://begrippen.stelselcatalogus.nl
+https://preprod.begrippen.stelselcatalogus.nl
+https://preprod.keycloak.stelselcatalogus.nl
+https://editor.stelselcatalogus.nl

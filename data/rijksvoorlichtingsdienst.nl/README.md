@@ -13,7 +13,6 @@
 |------------|-------|------|
 |[subdomains.txt](/data/rijksvoorlichtingsdienst.nl/subdomains.txt)|2|Alive subdomains|
 |[urls.txt](/data/rijksvoorlichtingsdienst.nl/urls.txt)|2|Urls|
-|[all_subdomains.txt](/data/rijksvoorlichtingsdienst.nl/all_subdomains.txt)|2|All found subdomains (history)|
 
 
 ## Statistics
@@ -23,4 +22,5 @@
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[https://rijksvoorlichtingsdienst.nl](https://rijksvoorlichtingsdienst.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
 |[https://www.rijksvoorlichtingsdienst.nl](https://www.rijksvoorlichtingsdienst.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
+
 

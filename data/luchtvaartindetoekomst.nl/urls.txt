@@ -1,4 +1,4 @@
 https://feeds.luchtvaartindetoekomst.nl
+https://luchtvaartindetoekomst.nl
 https://opendata.luchtvaartindetoekomst.nl
 https://www.luchtvaartindetoekomst.nl
-https://luchtvaartindetoekomst.nl

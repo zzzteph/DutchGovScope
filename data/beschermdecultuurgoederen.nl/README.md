@@ -11,9 +11,8 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/beschermdecultuurgoederen.nl/subdomains.txt)|8|Alive subdomains|
+|[subdomains.txt](/data/beschermdecultuurgoederen.nl/subdomains.txt)|4|Alive subdomains|
 |[urls.txt](/data/beschermdecultuurgoederen.nl/urls.txt)|4|Urls|
-|[all_subdomains.txt](/data/beschermdecultuurgoederen.nl/all_subdomains.txt)|8|All found subdomains (history)|
 
 
 ## Statistics
@@ -25,4 +24,5 @@
 |[https://feeds.beschermdecultuurgoederen.nl](https://feeds.beschermdecultuurgoederen.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://opendata.beschermdecultuurgoederen.nl](https://opendata.beschermdecultuurgoederen.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://www.beschermdecultuurgoederen.nl](https://www.beschermdecultuurgoederen.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Home | Commissie...|
+
 

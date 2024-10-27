@@ -3,13 +3,11 @@ layout: default
 title: "aanpakpiekbelasting.nl"
 permalink: "/dutchgov/aanpakpiekbelasting.nl.html"
 subdomains_count: 2
-all_subdomains_count: 2
 urls_count: 2
 ssl_rank: 
 http_rank: A
 security_txt: 2
 url_link: /data/aanpakpiekbelasting.nl/urls.txt
-all_subdomains_link: /data/aanpakpiekbelasting.nl/all_subdomains.txt
 subdomains_link: /data/aanpakpiekbelasting.nl/subdomains.txt
 categories: dutchgov
 tags: dutchgov
@@ -29,7 +27,6 @@ tags: dutchgov
 |------------|-------|------|
 |[subdomains.txt](/DutchGovScope/data/aanpakpiekbelasting.nl/subdomains.txt)|2|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/aanpakpiekbelasting.nl/urls.txt)|2|Urls|
-|[all_subdomains.txt](/DutchGovScope/data/aanpakpiekbelasting.nl/all_subdomains.txt)|2|All found subdomains (history)|
 
 
 ## Statistics
@@ -39,4 +36,5 @@ tags: dutchgov
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[https://aanpakpiekbelasting.nl](https://aanpakpiekbelasting.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |||
 |[https://www.aanpakpiekbelasting.nl](https://www.aanpakpiekbelasting.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |||
+
 

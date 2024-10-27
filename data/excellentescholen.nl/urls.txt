@@ -1,4 +1,4 @@
-https://feeds.excellentescholen.nl
+https://excellentescholen.nl
 https://opendata.excellentescholen.nl
 https://www.excellentescholen.nl
-https://excellentescholen.nl
+https://feeds.excellentescholen.nl

@@ -2,14 +2,12 @@
 layout: default
 title: "innovember.nl"
 permalink: "/dutchgov/innovember.nl.html"
-subdomains_count: 3
-all_subdomains_count: 4
-urls_count: 3
-ssl_rank: A+
-http_rank: B
+subdomains_count: 2
+urls_count: 2
+ssl_rank: 
+http_rank: A
 security_txt: 2
 url_link: /data/innovember.nl/urls.txt
-all_subdomains_link: /data/innovember.nl/all_subdomains.txt
 subdomains_link: /data/innovember.nl/subdomains.txt
 categories: dutchgov
 tags: dutchgov
@@ -20,16 +18,15 @@ tags: dutchgov
 ## Summary data
 
 
- - **SSL Grade**:A+
- - **HTTP Security Grade**:B
+ - **SSL Grade**:
+ - **HTTP Security Grade**:A
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:2
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/innovember.nl/subdomains.txt)|3|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/innovember.nl/urls.txt)|3|Urls|
-|[all_subdomains.txt](/DutchGovScope/data/innovember.nl/all_subdomains.txt)|4|All found subdomains (history)|
+|[subdomains.txt](/DutchGovScope/data/innovember.nl/subdomains.txt)|2|Alive subdomains|
+|[urls.txt](/DutchGovScope/data/innovember.nl/urls.txt)|2|Urls|
 
 
 ## Statistics
@@ -37,7 +34,7 @@ tags: dutchgov
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://www.innovember.nl](https://www.innovember.nl)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
-|[https://innovember.nl](https://innovember.nl)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
-|[https://aanmelder.innovember.nl](https://aanmelder.innovember.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|404 Not Found|
+|[https://innovember.nl](https://innovember.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
+|[https://www.innovember.nl](https://www.innovember.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
+
 

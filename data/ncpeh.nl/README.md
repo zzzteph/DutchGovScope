@@ -4,16 +4,15 @@
 ## Summary data
 
 
- - **SSL Grade**:A+
+ - **SSL Grade**:
  - **HTTP Security Grade**:A
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:10
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:9
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/ncpeh.nl/subdomains.txt)|13|Alive subdomains|
-|[urls.txt](/data/ncpeh.nl/urls.txt)|10|Urls|
-|[all_subdomains.txt](/data/ncpeh.nl/all_subdomains.txt)|13|All found subdomains (history)|
+|[subdomains.txt](/data/ncpeh.nl/subdomains.txt)|9|Alive subdomains|
+|[urls.txt](/data/ncpeh.nl/urls.txt)|9|Urls|
 
 
 ## Statistics
@@ -21,14 +20,14 @@
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://acceptatie.beheer.ncpeh.nl](https://acceptatie.beheer.ncpeh.nl)| **A**| **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
+|[https://acceptatie.beheer.ncpeh.nl](https://acceptatie.beheer.ncpeh.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://acceptatie.portaal.ncpeh.nl](https://acceptatie.portaal.ncpeh.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
-|[https://acceptatie.uzipas.portaal.ncpeh.nl](https://acceptatie.uzipas.portaal.ncpeh.nl)| **A**| **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
-|[https://beheer.ncpeh.nl](https://beheer.ncpeh.nl)| **A**| **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
-|[https://feeds.ncpeh.nl](https://feeds.ncpeh.nl)| **A+**| **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
-|[https://opendata.ncpeh.nl](https://opendata.ncpeh.nl)| **A+**| **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
-|[https://portaal.ncpeh.nl](https://portaal.ncpeh.nl)| **A**| **A**|-| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|NCPeH-NL|
+|[https://beheer.ncpeh.nl](https://beheer.ncpeh.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
+|[https://feeds.ncpeh.nl](https://feeds.ncpeh.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
+|[https://ncpeh.nl](https://ncpeh.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
+|[https://opendata.ncpeh.nl](https://opendata.ncpeh.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
+|[https://www.ncpeh.nl](https://www.ncpeh.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Home | NCPeH-NL|
+|[https://portaal.ncpeh.nl](https://portaal.ncpeh.nl)| | **A**|-| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|NCPeH-NL|
 |[https://uzipas.portaal.ncpeh.nl](https://uzipas.portaal.ncpeh.nl)| | **A**|-| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|NCPeH-NL|
-|[https://www.ncpeh.nl](https://www.ncpeh.nl)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Home | NCPeH-NL|
-|[https://ncpeh.nl](https://ncpeh.nl)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
+
 

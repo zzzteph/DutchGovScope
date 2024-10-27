@@ -3,13 +3,11 @@ layout: default
 title: "kosteneffectiviteitvanpreventie.nl"
 permalink: "/dutchgov/kosteneffectiviteitvanpreventie.nl.html"
 subdomains_count: 2
-all_subdomains_count: 2
 urls_count: 2
-ssl_rank: A+
+ssl_rank: 
 http_rank: A
 security_txt: 2
 url_link: /data/kosteneffectiviteitvanpreventie.nl/urls.txt
-all_subdomains_link: /data/kosteneffectiviteitvanpreventie.nl/all_subdomains.txt
 subdomains_link: /data/kosteneffectiviteitvanpreventie.nl/subdomains.txt
 categories: dutchgov
 tags: dutchgov
@@ -20,7 +18,7 @@ tags: dutchgov
 ## Summary data
 
 
- - **SSL Grade**:A+
+ - **SSL Grade**:
  - **HTTP Security Grade**:A
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:2
 
@@ -29,7 +27,6 @@ tags: dutchgov
 |------------|-------|------|
 |[subdomains.txt](/DutchGovScope/data/kosteneffectiviteitvanpreventie.nl/subdomains.txt)|2|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/kosteneffectiviteitvanpreventie.nl/urls.txt)|2|Urls|
-|[all_subdomains.txt](/DutchGovScope/data/kosteneffectiviteitvanpreventie.nl/all_subdomains.txt)|2|All found subdomains (history)|
 
 
 ## Statistics
@@ -37,6 +34,7 @@ tags: dutchgov
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://www.kosteneffectiviteitvanpreventie.nl](https://www.kosteneffectiviteitvanpreventie.nl)| **A+**| **A**|Apache| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server Drupal HSTS PHP|Cost-effectivene...|
-|[https://kosteneffectiviteitvanpreventie.nl](https://kosteneffectiviteitvanpreventie.nl)| **A+**| **A**|Apache| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS|301 Moved Perman...|
+|[https://kosteneffectiviteitvanpreventie.nl](https://kosteneffectiviteitvanpreventie.nl)| | **A**|Apache/2.4.37 (Red Hat Enterprise Linux)| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server:2.4.37 Drupal HSTS PHP:8.1.29 Red Hat|Cost-effectivene...|
+|[https://www.kosteneffectiviteitvanpreventie.nl](https://www.kosteneffectiviteitvanpreventie.nl)| | **A**|Apache/2.4.37 (Red Hat Enterprise Linux)| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server:2.4.37 Drupal HSTS PHP Red Hat|Cost-effectivene...|
+
 

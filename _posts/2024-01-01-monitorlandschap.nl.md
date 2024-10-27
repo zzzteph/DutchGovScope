@@ -2,14 +2,12 @@
 layout: default
 title: "monitorlandschap.nl"
 permalink: "/dutchgov/monitorlandschap.nl.html"
-subdomains_count: 2
-all_subdomains_count: 2
-urls_count: 1
-ssl_rank: A
-http_rank: A
+subdomains_count: 0
+urls_count: 0
+ssl_rank: 
+http_rank: F
 security_txt: 0
 url_link: /data/monitorlandschap.nl/urls.txt
-all_subdomains_link: /data/monitorlandschap.nl/all_subdomains.txt
 subdomains_link: /data/monitorlandschap.nl/subdomains.txt
 categories: dutchgov
 tags: dutchgov
@@ -20,16 +18,15 @@ tags: dutchgov
 ## Summary data
 
 
- - **SSL Grade**:A
- - **HTTP Security Grade**:A
+ - **SSL Grade**:
+ - **HTTP Security Grade**:F
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:0
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/monitorlandschap.nl/subdomains.txt)|2|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/monitorlandschap.nl/urls.txt)|1|Urls|
-|[all_subdomains.txt](/DutchGovScope/data/monitorlandschap.nl/all_subdomains.txt)|2|All found subdomains (history)|
+|[subdomains.txt](/DutchGovScope/data/monitorlandschap.nl/subdomains.txt)|0|Alive subdomains|
+|[urls.txt](/DutchGovScope/data/monitorlandschap.nl/urls.txt)|0|Urls|
 
 
 ## Statistics
@@ -37,5 +34,5 @@ tags: dutchgov
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://www.monitorlandschap.nl](https://www.monitorlandschap.nl)| **A**| **A**|| |:white_check_mark: | | | :white_check_mark:| | | :white_check_mark: | |HSTS|Monitor Landscha...|
+
 

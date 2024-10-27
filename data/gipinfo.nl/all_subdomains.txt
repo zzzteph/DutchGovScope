@@ -1,5 +1,0 @@
-www.gipinfo.nl
-gipinfo.nl
-www-a.gipinfo.nl
-ftp.gipinfo.nl
-mail.gipinfo.nl

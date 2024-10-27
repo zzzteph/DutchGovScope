@@ -3,13 +3,11 @@ layout: default
 title: "krmrapportagetool.nl"
 permalink: "/dutchgov/krmrapportagetool.nl.html"
 subdomains_count: 3
-all_subdomains_count: 3
 urls_count: 3
 ssl_rank: 
 http_rank: F
 security_txt: 0
 url_link: /data/krmrapportagetool.nl/urls.txt
-all_subdomains_link: /data/krmrapportagetool.nl/all_subdomains.txt
 subdomains_link: /data/krmrapportagetool.nl/subdomains.txt
 categories: dutchgov
 tags: dutchgov
@@ -29,7 +27,6 @@ tags: dutchgov
 |------------|-------|------|
 |[subdomains.txt](/DutchGovScope/data/krmrapportagetool.nl/subdomains.txt)|3|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/krmrapportagetool.nl/urls.txt)|3|Urls|
-|[all_subdomains.txt](/DutchGovScope/data/krmrapportagetool.nl/all_subdomains.txt)|3|All found subdomains (history)|
 
 
 ## Statistics
@@ -37,7 +34,8 @@ tags: dutchgov
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://acc.krmrapportagetool.nl](https://acc.krmrapportagetool.nl)| **F**| **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
-|[https://www.krmrapportagetool.nl](https://www.krmrapportagetool.nl)| **F**| **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
-|[https://krmrapportagetool.nl](https://krmrapportagetool.nl)| **F**| **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
+|[https://krmrapportagetool.nl](https://krmrapportagetool.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
+|[https://www.krmrapportagetool.nl](https://www.krmrapportagetool.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
+|[https://acc.krmrapportagetool.nl](https://acc.krmrapportagetool.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
+
 

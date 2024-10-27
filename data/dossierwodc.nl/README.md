@@ -13,7 +13,6 @@
 |------------|-------|------|
 |[subdomains.txt](/data/dossierwodc.nl/subdomains.txt)|2|Alive subdomains|
 |[urls.txt](/data/dossierwodc.nl/urls.txt)|2|Urls|
-|[all_subdomains.txt](/data/dossierwodc.nl/all_subdomains.txt)|2|All found subdomains (history)|
 
 
 ## Statistics
@@ -23,4 +22,5 @@
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[https://dossierwodc.nl](https://dossierwodc.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://www.dossierwodc.nl](https://www.dossierwodc.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
+
 

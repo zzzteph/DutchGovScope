@@ -1,7 +1,4 @@
 nlinfrankrijk.nl
+opendata.nlinfrankrijk.nl
 www.nlinfrankrijk.nl
 feeds.nlinfrankrijk.nl
-opendata.nlinfrankrijk.nl
-a-feeds.nlinfrankrijk.nl
-a-opendata.nlinfrankrijk.nl
-a-www.nlinfrankrijk.nl

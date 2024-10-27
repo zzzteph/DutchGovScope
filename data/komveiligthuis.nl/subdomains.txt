@@ -1,7 +1,4 @@
 feeds.komveiligthuis.nl
+komveiligthuis.nl
 opendata.komveiligthuis.nl
 www.komveiligthuis.nl
-komveiligthuis.nl
-a-feeds.komveiligthuis.nl
-a-opendata.komveiligthuis.nl
-a-www.komveiligthuis.nl

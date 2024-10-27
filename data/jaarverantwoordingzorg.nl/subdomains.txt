@@ -1,7 +1,4 @@
 feeds.jaarverantwoordingzorg.nl
+jaarverantwoordingzorg.nl
 opendata.jaarverantwoordingzorg.nl
 www.jaarverantwoordingzorg.nl
-jaarverantwoordingzorg.nl
-a-www.jaarverantwoordingzorg.nl
-a-feeds.jaarverantwoordingzorg.nl
-a-opendata.jaarverantwoordingzorg.nl

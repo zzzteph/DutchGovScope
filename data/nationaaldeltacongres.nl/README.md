@@ -13,7 +13,6 @@
 |------------|-------|------|
 |[subdomains.txt](/data/nationaaldeltacongres.nl/subdomains.txt)|2|Alive subdomains|
 |[urls.txt](/data/nationaaldeltacongres.nl/urls.txt)|2|Urls|
-|[all_subdomains.txt](/data/nationaaldeltacongres.nl/all_subdomains.txt)|2|All found subdomains (history)|
 
 
 ## Statistics
@@ -23,4 +22,5 @@
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[https://nationaaldeltacongres.nl](https://nationaaldeltacongres.nl)| | **B**|Microsoft-IIS/10.0| |:white_check_mark: | | |:warning: | | | :white_check_mark: | |HSTS IIS:10.0 Windows Server|Document Moved|
 |[https://www.nationaaldeltacongres.nl](https://www.nationaaldeltacongres.nl)| | **B**|Microsoft-IIS/10.0| |:white_check_mark: | | |:warning: | | | :white_check_mark: | |HSTS IIS:10.0 Windows Server|Document Moved|
+
 

@@ -1,12 +1,5 @@
-www.rtlnieuws.nl
-rtlnieuws.nl
-acc.rtlnieuws.nl
 acc-beta.rtlnieuws.nl
+acc.rtlnieuws.nl
+rtlnieuws.nl
 sso.rtlnieuws.nl
-cookies.rtlnieuws.nl
-beta.rtlnieuws.nl
-facts.rtlnieuws.nl
-ruttesrapport.rtlnieuws.nl
-blogs.rtlnieuws.nl
-dev-beta.rtlnieuws.nl
-prod.rtlnieuws.nl
+www.rtlnieuws.nl

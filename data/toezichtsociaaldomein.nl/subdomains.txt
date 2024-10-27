@@ -1,11 +1,3 @@
-feeds.toezichtsociaaldomein.nl
-magazines.toezichtsociaaldomein.nl
-opendata.toezichtsociaaldomein.nl
 www.toezichtsociaaldomein.nl
+magazines.toezichtsociaaldomein.nl
 toezichtsociaaldomein.nl
-a-magazines.toezichtsociaaldomein.nl
-sdm.toezichtsociaaldomein.nl
-sip.toezichtsociaaldomein.nl
-a-www.toezichtsociaaldomein.nl
-a-feeds.toezichtsociaaldomein.nl
-a-opendata.toezichtsociaaldomein.nl

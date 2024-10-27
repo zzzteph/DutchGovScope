@@ -1,7 +1,4 @@
-feeds.royalhonoursanddecorations.nl
 opendata.royalhonoursanddecorations.nl
-royalhonoursanddecorations.nl
 www.royalhonoursanddecorations.nl
-a-feeds.royalhonoursanddecorations.nl
-a-opendata.royalhonoursanddecorations.nl
-a-www.royalhonoursanddecorations.nl
+feeds.royalhonoursanddecorations.nl
+royalhonoursanddecorations.nl

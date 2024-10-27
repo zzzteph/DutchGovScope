@@ -13,7 +13,6 @@
 |------------|-------|------|
 |[subdomains.txt](/data/opsporingnlarbeidsinspectie.nl/subdomains.txt)|2|Alive subdomains|
 |[urls.txt](/data/opsporingnlarbeidsinspectie.nl/urls.txt)|2|Urls|
-|[all_subdomains.txt](/data/opsporingnlarbeidsinspectie.nl/all_subdomains.txt)|2|All found subdomains (history)|
 
 
 ## Statistics
@@ -23,4 +22,5 @@
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[https://opsporingnlarbeidsinspectie.nl](https://opsporingnlarbeidsinspectie.nl)| | **A**|Microsoft-IIS/10.0| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS IIS:10.0 Windows Server|Document Moved|
 |[https://www.opsporingnlarbeidsinspectie.nl](https://www.opsporingnlarbeidsinspectie.nl)| | **A**|Microsoft-IIS/10.0| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS IIS:10.0 Windows Server|Document Moved|
+
 

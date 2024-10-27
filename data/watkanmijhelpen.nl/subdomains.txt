@@ -1,4 +1,2 @@
-feeds.watkanmijhelpen.nl
-opendata.watkanmijhelpen.nl
-www.watkanmijhelpen.nl
 watkanmijhelpen.nl
+www.watkanmijhelpen.nl

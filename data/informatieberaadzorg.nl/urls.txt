@@ -1,3 +1,3 @@
-https://platform.informatieberaadzorg.nl
-https://www.informatieberaadzorg.nl
 https://informatieberaadzorg.nl
+https://www.informatieberaadzorg.nl
+https://platform.informatieberaadzorg.nl

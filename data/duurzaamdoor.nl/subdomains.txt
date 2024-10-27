@@ -1,6 +1,4 @@
-acc.duurzaamdoor.nl
-test.duurzaamdoor.nl
-www.duurzaamdoor.nl
 duurzaamdoor.nl
-lyncdiscover.duurzaamdoor.nl
-sip.duurzaamdoor.nl
+www.duurzaamdoor.nl
+test.duurzaamdoor.nl
+acc.duurzaamdoor.nl

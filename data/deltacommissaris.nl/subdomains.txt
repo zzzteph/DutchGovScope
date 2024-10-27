@@ -1,4 +1,2 @@
-www.deltacommissaris.nl
-sip.deltacommissaris.nl
-sdm.deltacommissaris.nl
 deltacommissaris.nl
+www.deltacommissaris.nl

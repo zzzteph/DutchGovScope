@@ -3,13 +3,11 @@ layout: default
 title: "businessfordevelopmentworks.nl"
 permalink: "/dutchgov/businessfordevelopmentworks.nl.html"
 subdomains_count: 2
-all_subdomains_count: 2
 urls_count: 2
 ssl_rank: 
 http_rank: A
 security_txt: 2
 url_link: /data/businessfordevelopmentworks.nl/urls.txt
-all_subdomains_link: /data/businessfordevelopmentworks.nl/all_subdomains.txt
 subdomains_link: /data/businessfordevelopmentworks.nl/subdomains.txt
 categories: dutchgov
 tags: dutchgov
@@ -29,7 +27,6 @@ tags: dutchgov
 |------------|-------|------|
 |[subdomains.txt](/DutchGovScope/data/businessfordevelopmentworks.nl/subdomains.txt)|2|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/businessfordevelopmentworks.nl/urls.txt)|2|Urls|
-|[all_subdomains.txt](/DutchGovScope/data/businessfordevelopmentworks.nl/all_subdomains.txt)|2|All found subdomains (history)|
 
 
 ## Statistics
@@ -39,4 +36,5 @@ tags: dutchgov
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[https://businessfordevelopmentworks.nl](https://businessfordevelopmentworks.nl)| | **A**|cloudflare| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Cloudflare HSTS|301 Moved Perman...|
 |[https://www.businessfordevelopmentworks.nl](https://www.businessfordevelopmentworks.nl)| | **A**|cloudflare| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Cloudflare HSTS|301 Moved Perman...|
+
 

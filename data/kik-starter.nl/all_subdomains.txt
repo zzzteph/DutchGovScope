@@ -1,5 +1,0 @@
-www.kik-starter.nl
-kik-starter.nl
-acceptatie.kik-starter.nl
-sso.test.kik-starter.nl
-test.kik-starter.nl

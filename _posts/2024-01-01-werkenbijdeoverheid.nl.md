@@ -2,14 +2,12 @@
 layout: default
 title: "werkenbijdeoverheid.nl"
 permalink: "/dutchgov/werkenbijdeoverheid.nl.html"
-subdomains_count: 15
-all_subdomains_count: 50
-urls_count: 14
-ssl_rank: C
+subdomains_count: 12
+urls_count: 12
+ssl_rank: 
 http_rank: D
-security_txt: 4
+security_txt: 3
 url_link: /data/werkenbijdeoverheid.nl/urls.txt
-all_subdomains_link: /data/werkenbijdeoverheid.nl/all_subdomains.txt
 subdomains_link: /data/werkenbijdeoverheid.nl/subdomains.txt
 categories: dutchgov
 tags: dutchgov
@@ -20,16 +18,15 @@ tags: dutchgov
 ## Summary data
 
 
- - **SSL Grade**:C
+ - **SSL Grade**:
  - **HTTP Security Grade**:D
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:4
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:3
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/werkenbijdeoverheid.nl/subdomains.txt)|15|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/werkenbijdeoverheid.nl/urls.txt)|14|Urls|
-|[all_subdomains.txt](/DutchGovScope/data/werkenbijdeoverheid.nl/all_subdomains.txt)|50|All found subdomains (history)|
+|[subdomains.txt](/DutchGovScope/data/werkenbijdeoverheid.nl/subdomains.txt)|12|Alive subdomains|
+|[urls.txt](/DutchGovScope/data/werkenbijdeoverheid.nl/urls.txt)|12|Urls|
 
 
 ## Statistics
@@ -37,18 +34,17 @@ tags: dutchgov
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://csoacct.werkenbijdeoverheid.nl](https://csoacct.werkenbijdeoverheid.nl)| **A+**| **D**|cloudflare|:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | |Basic Cloudflare HSTS|Authentication R...|
-|[http://csoacct.vacaturebeheer.werkenbijdeoverheid.nl](http://csoacct.vacaturebeheer.werkenbijdeoverheid.nl)| | **E**|cloudflare| | | | | | :white_check_mark: | | :white_check_mark: | |Cloudflare||
-|[https://csotest.werkenbijdeoverheid.nl](https://csotest.werkenbijdeoverheid.nl)| | **D**|cloudflare|:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | |Basic Cloudflare HSTS|Authentication R...|
 |[http://csotest.vacaturebeheer.werkenbijdeoverheid.nl](http://csotest.vacaturebeheer.werkenbijdeoverheid.nl)| | **E**|cloudflare| | | | | | :white_check_mark: | | :white_check_mark: | |Cloudflare||
-|[https://odc.werkenbijdeoverheid.nl](https://odc.werkenbijdeoverheid.nl)| **B**| **E**|| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS Java||
-|[https://vacaturezoekservice.werkenbijdeoverheid.nl](https://vacaturezoekservice.werkenbijdeoverheid.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
+|[https://csotest.werkenbijdeoverheid.nl](https://csotest.werkenbijdeoverheid.nl)| | **D**|cloudflare|:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | |Basic Cloudflare HSTS|Authentication R...|
+|[https://werkenbijdeoverheid.nl](https://werkenbijdeoverheid.nl)| | **B**|cloudflare|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Cloudflare HSTS||
+|[https://www.werkenbijdeoverheid.nl](https://www.werkenbijdeoverheid.nl)| | **B**|cloudflare|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach Cloudflare Google Tag Manager HSTS React Typekit|Hét startpunt va...|
+|[http://csoacct.vacaturebeheer.werkenbijdeoverheid.nl](http://csoacct.vacaturebeheer.werkenbijdeoverheid.nl)| | **E**|cloudflare| | | | | | :white_check_mark: | | :white_check_mark: | |Cloudflare||
+|[https://csoacct.werkenbijdeoverheid.nl](https://csoacct.werkenbijdeoverheid.nl)| | **D**|cloudflare|:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | |Basic Cloudflare HSTS|Authentication R...|
+|[https://odc.werkenbijdeoverheid.nl](https://odc.werkenbijdeoverheid.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://vacaturezoekservice-accept.werkenbijdeoverheid.nl](https://vacaturezoekservice-accept.werkenbijdeoverheid.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
+|[https://www-acceptatie2.werkenbijdeoverheid.nl](https://www-acceptatie2.werkenbijdeoverheid.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[http://vacaturezoekservice-test.werkenbijdeoverheid.nl](http://vacaturezoekservice-test.werkenbijdeoverheid.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
-|[https://www.werkenbijdeoverheid.nl](https://www.werkenbijdeoverheid.nl)| **A+**| **B**|cloudflare|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach Cloudflare Google Tag Manager HSTS React Typekit|Hét startpunt va...|
-|[https://www-acceptatie2.werkenbijdeoverheid.nl](https://www-acceptatie2.werkenbijdeoverheid.nl)| **F**| **E**|| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS||
-|[https://www-sandbox.werkenbijdeoverheid.nl](https://www-sandbox.werkenbijdeoverheid.nl)| **F**| **E**|| | | | | | | | :white_check_mark: | |Apache HTTP Server Basic HSTS||
 |[http://www-test2.werkenbijdeoverheid.nl](http://www-test2.werkenbijdeoverheid.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
-|[https://werkenbijdeoverheid.nl](https://werkenbijdeoverheid.nl)| **A+**| **B**|cloudflare|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Cloudflare HSTS||
-|[https://sandbox.werkenbijdeoverheid.nl](https://sandbox.werkenbijdeoverheid.nl)| | **D**|cloudflare|:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | |Basic Cloudflare HSTS|Authentication R...|
+|[https://www-sandbox.werkenbijdeoverheid.nl](https://www-sandbox.werkenbijdeoverheid.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
+
 

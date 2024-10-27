@@ -1,4 +1,4 @@
-https://feeds.staatsexamensvo.nl
 https://opendata.staatsexamensvo.nl
-https://www.staatsexamensvo.nl
 https://staatsexamensvo.nl
+https://www.staatsexamensvo.nl
+https://feeds.staatsexamensvo.nl

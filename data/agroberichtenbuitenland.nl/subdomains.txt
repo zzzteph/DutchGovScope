@@ -1,10 +1,4 @@
-feeds.agroberichtenbuitenland.nl
 opendata.agroberichtenbuitenland.nl
 www.agroberichtenbuitenland.nl
 agroberichtenbuitenland.nl
-a-feeds.agroberichtenbuitenland.nl
-a-opendata.agroberichtenbuitenland.nl
-a-www.agroberichtenbuitenland.nl
-i-www.agroberichtenbuitenland.nl
-o-www.agroberichtenbuitenland.nl
-t-www.agroberichtenbuitenland.nl
+feeds.agroberichtenbuitenland.nl

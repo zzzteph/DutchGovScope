@@ -2,6 +2,3 @@ www.nederlandcirculairin2050.nl
 feeds.nederlandcirculairin2050.nl
 nederlandcirculairin2050.nl
 opendata.nederlandcirculairin2050.nl
-a-feeds.nederlandcirculairin2050.nl
-a-opendata.nederlandcirculairin2050.nl
-a-www.nederlandcirculairin2050.nl

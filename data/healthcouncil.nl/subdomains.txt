@@ -2,7 +2,3 @@ feeds.healthcouncil.nl
 healthcouncil.nl
 opendata.healthcouncil.nl
 www.healthcouncil.nl
-a-feeds.healthcouncil.nl
-a-opendata.healthcouncil.nl
-a-www.healthcouncil.nl
-ftp.healthcouncil.nl

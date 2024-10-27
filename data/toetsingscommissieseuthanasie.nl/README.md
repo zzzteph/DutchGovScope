@@ -11,9 +11,8 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/toetsingscommissieseuthanasie.nl/subdomains.txt)|3|Alive subdomains|
+|[subdomains.txt](/data/toetsingscommissieseuthanasie.nl/subdomains.txt)|2|Alive subdomains|
 |[urls.txt](/data/toetsingscommissieseuthanasie.nl/urls.txt)|2|Urls|
-|[all_subdomains.txt](/data/toetsingscommissieseuthanasie.nl/all_subdomains.txt)|3|All found subdomains (history)|
 
 
 ## Statistics
@@ -23,4 +22,5 @@
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[https://toetsingscommissieseuthanasie.nl](https://toetsingscommissieseuthanasie.nl)| | **A**|Microsoft-IIS/10.0| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS IIS:10.0 Windows Server|Document Moved|
 |[https://www.toetsingscommissieseuthanasie.nl](https://www.toetsingscommissieseuthanasie.nl)| | **A**|Microsoft-IIS/10.0| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS IIS:10.0 Windows Server|Document Moved|
+
 

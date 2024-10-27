@@ -4,16 +4,15 @@
 ## Summary data
 
 
- - **SSL Grade**:A+
+ - **SSL Grade**:
  - **HTTP Security Grade**:E
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:2
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:0
 
 
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/move-rdh.nl/subdomains.txt)|2|Alive subdomains|
 |[urls.txt](/data/move-rdh.nl/urls.txt)|2|Urls|
-|[all_subdomains.txt](/data/move-rdh.nl/all_subdomains.txt)|2|All found subdomains (history)|
 
 
 ## Statistics
@@ -21,6 +20,7 @@
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://www.move-rdh.nl](https://www.move-rdh.nl)| **A+**| **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET YouTube|Object moved|
-|[https://move-rdh.nl](https://move-rdh.nl)| **A+**| **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET YouTube|Object moved|
+|[https://move-rdh.nl](https://move-rdh.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET YouTube|Object moved|
+|[https://www.move-rdh.nl](https://www.move-rdh.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET YouTube|Object moved|
+
 

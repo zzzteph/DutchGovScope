@@ -4,7 +4,7 @@
 ## Summary data
 
 
- - **SSL Grade**:A+
+ - **SSL Grade**:
  - **HTTP Security Grade**:C
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:2
 
@@ -13,7 +13,6 @@
 |------------|-------|------|
 |[subdomains.txt](/data/digitaleoverheid.nl/subdomains.txt)|4|Alive subdomains|
 |[urls.txt](/data/digitaleoverheid.nl/urls.txt)|4|Urls|
-|[all_subdomains.txt](/data/digitaleoverheid.nl/all_subdomains.txt)|9|All found subdomains (history)|
 
 
 ## Statistics
@@ -21,8 +20,9 @@
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://accept.digitaleoverheid.nl](https://accept.digitaleoverheid.nl)| **A+**| **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |Basic HSTS Nginx|401 Authorizatio...|
-|[https://www.digitaleoverheid.nl](https://www.digitaleoverheid.nl)| **A+**| **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS MySQL Nginx PHP:8.2.23 WordPress:6.6.2 Yoast SEO:23.6|Home - Digitale...|
-|[https://digitaleoverheid.nl](https://digitaleoverheid.nl)| **A+**| **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS MySQL Nginx PHP:8.2.23 WordPress||
 |[https://test.digitaleoverheid.nl](https://test.digitaleoverheid.nl)| | **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |Basic HSTS Nginx|401 Authorizatio...|
+|[https://accept.digitaleoverheid.nl](https://accept.digitaleoverheid.nl)| | **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |Basic HSTS Nginx|401 Authorizatio...|
+|[https://digitaleoverheid.nl](https://digitaleoverheid.nl)| | **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS MySQL Nginx PHP:8.2.24 WordPress||
+|[https://www.digitaleoverheid.nl](https://www.digitaleoverheid.nl)| | **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS MySQL Nginx PHP:8.2.24 WordPress:6.6.2 Yoast SEO:23.6|Home - Digitale...|
+
 

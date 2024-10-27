@@ -1,10 +1,4 @@
 feeds.overalsnelinternet.nl
 opendata.overalsnelinternet.nl
-www.overalsnelinternet.nl
 overalsnelinternet.nl
-a-feeds.overalsnelinternet.nl
-a-opendata.overalsnelinternet.nl
-a-www.overalsnelinternet.nl
-i-www.overalsnelinternet.nl
-o-www.overalsnelinternet.nl
-t-www.overalsnelinternet.nl
+www.overalsnelinternet.nl

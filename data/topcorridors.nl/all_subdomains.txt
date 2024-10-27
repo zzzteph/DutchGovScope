@@ -1,7 +1,0 @@
-feeds.topcorridors.nl
-opendata.topcorridors.nl
-www.topcorridors.nl
-topcorridors.nl
-a-feeds.topcorridors.nl
-a-opendata.topcorridors.nl
-a-www.topcorridors.nl

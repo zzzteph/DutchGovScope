@@ -1,7 +1,3 @@
 feeds.vera-2r.nl
-opendata.vera-2r.nl
-www.vera-2r.nl
 vera-2r.nl
-a-feeds.vera-2r.nl
-a-opendata.vera-2r.nl
-a-www.vera-2r.nl
+www.vera-2r.nl

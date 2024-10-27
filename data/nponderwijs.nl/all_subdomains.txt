@@ -1,9 +1,0 @@
-feeds.nponderwijs.nl
-kennis.nponderwijs.nl
-opendata.nponderwijs.nl
-www.nponderwijs.nl
-nponderwijs.nl
-www.kennis.nponderwijs.nl
-a-opendata.nponderwijs.nl
-a-www.nponderwijs.nl
-a-feeds.nponderwijs.nl

@@ -1,4 +1,3 @@
 https://feeds.rijksbredekennisagenda.nl
 https://opendata.rijksbredekennisagenda.nl
 https://www.rijksbredekennisagenda.nl
-https://rijksbredekennisagenda.nl

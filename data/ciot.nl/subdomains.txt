@@ -1,3 +1,2 @@
-www.ciot.nl
 ciot.nl
-informatiepakket.ciot.nl
+www.ciot.nl

@@ -2,14 +2,12 @@
 layout: default
 title: "registerexterneveiligheid.nl"
 permalink: "/dutchgov/registerexterneveiligheid.nl.html"
-subdomains_count: 4
-all_subdomains_count: 4
+subdomains_count: 3
 urls_count: 3
-ssl_rank: A+
-http_rank: C
+ssl_rank: 
+http_rank: B
 security_txt: 2
 url_link: /data/registerexterneveiligheid.nl/urls.txt
-all_subdomains_link: /data/registerexterneveiligheid.nl/all_subdomains.txt
 subdomains_link: /data/registerexterneveiligheid.nl/subdomains.txt
 categories: dutchgov
 tags: dutchgov
@@ -20,16 +18,15 @@ tags: dutchgov
 ## Summary data
 
 
- - **SSL Grade**:A+
- - **HTTP Security Grade**:C
+ - **SSL Grade**:
+ - **HTTP Security Grade**:B
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:2
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/registerexterneveiligheid.nl/subdomains.txt)|4|Alive subdomains|
+|[subdomains.txt](/DutchGovScope/data/registerexterneveiligheid.nl/subdomains.txt)|3|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/registerexterneveiligheid.nl/urls.txt)|3|Urls|
-|[all_subdomains.txt](/DutchGovScope/data/registerexterneveiligheid.nl/all_subdomains.txt)|4|All found subdomains (history)|
 
 
 ## Statistics
@@ -37,7 +34,8 @@ tags: dutchgov
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://www.registerexterneveiligheid.nl](https://www.registerexterneveiligheid.nl)| **A+**| **A**|Apache| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server Drupal HSTS PHP SDL Tridion|Register Externe...|
-|[https://registerexterneveiligheid.nl](https://registerexterneveiligheid.nl)| **A+**| **A**|Apache| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS|301 Moved Perman...|
-|[http://localhost.registerexterneveiligheid.nl](http://localhost.registerexterneveiligheid.nl)| | **F**|nginx| | | :warning:| | | | | :white_check_mark: | |Nginx|(404 Not Found)|
+|[http://acceptatie.registerexterneveiligheid.nl](http://acceptatie.registerexterneveiligheid.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
+|[https://registerexterneveiligheid.nl](https://registerexterneveiligheid.nl)| | **A**|Apache| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS|301 Moved Perman...|
+|[https://www.registerexterneveiligheid.nl](https://www.registerexterneveiligheid.nl)| | **A**|Apache| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server Drupal HSTS PHP SDL Tridion|Register Externe...|
+
 

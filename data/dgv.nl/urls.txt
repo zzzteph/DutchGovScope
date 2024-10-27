@@ -1,4 +1,4 @@
-https://www.dgv.nl
-https://dgv.nl
 https://feeds.dgv.nl
 https://opendata.dgv.nl
+https://www.dgv.nl
+https://dgv.nl

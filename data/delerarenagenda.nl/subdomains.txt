@@ -1,7 +1,4 @@
+delerarenagenda.nl
 feeds.delerarenagenda.nl
 opendata.delerarenagenda.nl
 www.delerarenagenda.nl
-delerarenagenda.nl
-a-feeds.delerarenagenda.nl
-a-www.delerarenagenda.nl
-a-opendata.delerarenagenda.nl

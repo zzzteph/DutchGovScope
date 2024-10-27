@@ -1,4 +1,2 @@
 tradewithnl.nl
 www.tradewithnl.nl
-acc.tradewithnl.nl
-test.tradewithnl.nl

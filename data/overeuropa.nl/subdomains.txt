@@ -2,6 +2,3 @@ feeds.overeuropa.nl
 opendata.overeuropa.nl
 overeuropa.nl
 www.overeuropa.nl
-a-feeds.overeuropa.nl
-a-opendata.overeuropa.nl
-a-www.overeuropa.nl

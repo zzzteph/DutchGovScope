@@ -1,6 +1,4 @@
 acc.milieuzones.nl
 test.milieuzones.nl
-www.milieuzones.nl
 milieuzones.nl
-prod.milieuzones.nl
-autodiscover.milieuzones.nl
+www.milieuzones.nl

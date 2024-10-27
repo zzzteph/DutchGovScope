@@ -1,10 +1,5 @@
-acceptatie.zwdelta.nl
-platform.zwdelta.nl
 www.zwdelta.nl
-www.platform.zwdelta.nl
+acceptatie.zwdelta.nl
 zwdelta.nl
-bnc3.zwdelta.nl
-mail.zwdelta.nl
-acc.platform.zwdelta.nl
-stg.platform.zwdelta.nl
-api.platform.zwdelta.nl
+platform.zwdelta.nl
+www.platform.zwdelta.nl

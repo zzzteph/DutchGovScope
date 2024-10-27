@@ -1,7 +1,4 @@
 https://feeds.topsectoren.nl
 https://opendata.topsectoren.nl
-https://www.topsectoren.nl
 https://topsectoren.nl
-http://autodiscover.topsectoren.nl
-https://exchange.topsectoren.nl
-https://msoid.topsectoren.nl
+https://www.topsectoren.nl

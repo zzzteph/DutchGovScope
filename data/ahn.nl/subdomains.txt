@@ -1,6 +1,2 @@
-simcms.ahn.nl
-www.ahn.nl
-ahn.nl
-autodiscover.ahn.nl
-msoid.ahn.nl
 viewer.ahn.nl
+ahn.nl

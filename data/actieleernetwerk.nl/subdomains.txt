@@ -1,5 +1,2 @@
-www.actieleernetwerk.nl
 actieleernetwerk.nl
-aanmelder.actieleernetwerk.nl
-autodiscover.actieleernetwerk.nl
-enterpriseenrollment.actieleernetwerk.nl
+www.actieleernetwerk.nl

@@ -1,7 +1,4 @@
+bureauncdr.nl
 feeds.bureauncdr.nl
 opendata.bureauncdr.nl
 www.bureauncdr.nl
-bureauncdr.nl
-a-feeds.bureauncdr.nl
-a-opendata.bureauncdr.nl
-a-www.bureauncdr.nl

@@ -1,10 +1,4 @@
-mx2.hetcvte.nl
 da.hetcvte.nl
 mbg.hetcvte.nl
 micollab.hetcvte.nl
-www.hetcvte.nl
-hetcvte.nl
-mail.hetcvte.nl
-ts.hetcvte.nl
-webmail.hetcvte.nl
-pushmail.hetcvte.nl
+mx2.hetcvte.nl

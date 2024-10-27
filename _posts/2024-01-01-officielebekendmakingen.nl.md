@@ -2,14 +2,12 @@
 layout: default
 title: "officielebekendmakingen.nl"
 permalink: "/dutchgov/officielebekendmakingen.nl.html"
-subdomains_count: 33
-all_subdomains_count: 75
-urls_count: 23
-ssl_rank: A+
+subdomains_count: 21
+urls_count: 21
+ssl_rank: 
 http_rank: B
-security_txt: 7
+security_txt: 9
 url_link: /data/officielebekendmakingen.nl/urls.txt
-all_subdomains_link: /data/officielebekendmakingen.nl/all_subdomains.txt
 subdomains_link: /data/officielebekendmakingen.nl/subdomains.txt
 categories: dutchgov
 tags: dutchgov
@@ -20,16 +18,15 @@ tags: dutchgov
 ## Summary data
 
 
- - **SSL Grade**:A+
+ - **SSL Grade**:
  - **HTTP Security Grade**:B
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:7
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:9
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/officielebekendmakingen.nl/subdomains.txt)|33|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/officielebekendmakingen.nl/urls.txt)|23|Urls|
-|[all_subdomains.txt](/DutchGovScope/data/officielebekendmakingen.nl/all_subdomains.txt)|75|All found subdomains (history)|
+|[subdomains.txt](/DutchGovScope/data/officielebekendmakingen.nl/subdomains.txt)|21|Alive subdomains|
+|[urls.txt](/DutchGovScope/data/officielebekendmakingen.nl/urls.txt)|21|Urls|
 
 
 ## Statistics
@@ -37,27 +34,26 @@ tags: dutchgov
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://beheer.officielebekendmakingen.nl](https://beheer.officielebekendmakingen.nl)| **A+**| **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|Externe Beheersi...|
-|[https://beheer-acc.officielebekendmakingen.nl](https://beheer-acc.officielebekendmakingen.nl)| **A+**| **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|Externe Beheersi...|
-|[https://beheer-sgd.officielebekendmakingen.nl](https://beheer-sgd.officielebekendmakingen.nl)| **A+**| **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|Beheersite SGD|
-|[https://beheer-sgd-acc.officielebekendmakingen.nl](https://beheer-sgd-acc.officielebekendmakingen.nl)| **A+**| **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|Beheersite SGD|
-|[https://identifier.officielebekendmakingen.nl](https://identifier.officielebekendmakingen.nl)| **A**| **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|URI - Performer...|
-|[https://identifier-eto.officielebekendmakingen.nl](https://identifier-eto.officielebekendmakingen.nl)| **A+**| **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|URI - Performer...|
-|[http://publicatieservice-bms-acc.officielebekendmakingen.nl](http://publicatieservice-bms-acc.officielebekendmakingen.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
-|[http://publicatieservice-rps-acc.officielebekendmakingen.nl](http://publicatieservice-rps-acc.officielebekendmakingen.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
-|[https://vpn-nabs.officielebekendmakingen.nl](https://vpn-nabs.officielebekendmakingen.nl)| **B**| **E**|OpenVPN-AS| | | | | | :white_check_mark: | | :white_check_mark: | |||
-|[https://www.officielebekendmakingen.nl](https://www.officielebekendmakingen.nl)| **A+**| **C**||:warning: |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS Microsoft ASP.NET|Zoeken in alle d...|
-|[https://zoek.officielebekendmakingen.nl](https://zoek.officielebekendmakingen.nl)| **A+**| **C**||:warning: |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS||
-|[http://officielebekendmakingen.nl](http://officielebekendmakingen.nl)| **A+**| **C**||:warning: |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |F5 BigIP HSTS||
-|[https://zoek-preprod.officielebekendmakingen.nl](https://zoek-preprod.officielebekendmakingen.nl)| **A+**| **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|403 Forbidden|
-|[https://www-preprod.officielebekendmakingen.nl](https://www-preprod.officielebekendmakingen.nl)| **A+**| **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|403 Forbidden|
-|[https://zoek-acc.officielebekendmakingen.nl](https://zoek-acc.officielebekendmakingen.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|403 Forbidden|
-|[https://stage.officielebekendmakingen.nl](https://stage.officielebekendmakingen.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET||
-|[https://beheersite-op-acc.officielebekendmakingen.nl](https://beheersite-op-acc.officielebekendmakingen.nl)| | **F**|Microsoft-IIS/10.0| | | | | | | | :white_check_mark: | |HSTS IIS:10.0 Microsoft ASP.NET:4.0.30319 Windows Server|Object moved|
-|[https://coldip.officielebekendmakingen.nl](https://coldip.officielebekendmakingen.nl)| | **C**|Microsoft-IIS/10.0| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS IIS:10.0 Microsoft ASP.NET Windows Server|Object moved|
-|[https://beheersite-op.officielebekendmakingen.nl](https://beheersite-op.officielebekendmakingen.nl)| | **A**|Microsoft-IIS/10.0| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS IIS:10.0 Microsoft ASP.NET:4.0.30319 Windows Server|Object moved|
-|[https://www-acc.officielebekendmakingen.nl](https://www-acc.officielebekendmakingen.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|403 Forbidden|
-|[http://localhost.officielebekendmakingen.nl](http://localhost.officielebekendmakingen.nl)| | **F**|nginx|:o: | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Laravel Nginx PHP|Weakpass|
+|[https://zoek-preprod.officielebekendmakingen.nl](https://zoek-preprod.officielebekendmakingen.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|403 Forbidden|
+|[https://www-preprod.officielebekendmakingen.nl](https://www-preprod.officielebekendmakingen.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS|403 Forbidden|
+|[https://stage-acc.officielebekendmakingen.nl](https://stage-acc.officielebekendmakingen.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET||
+|[https://beheer-acc.officielebekendmakingen.nl](https://beheer-acc.officielebekendmakingen.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|Externe Beheersi...|
 |[https://identifier-preprod.officielebekendmakingen.nl](https://identifier-preprod.officielebekendmakingen.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|URI - Performer...|
-|[http://stage-acc.officielebekendmakingen.nl](http://stage-acc.officielebekendmakingen.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET||
+|[https://beheer-sgd.officielebekendmakingen.nl](https://beheer-sgd.officielebekendmakingen.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|Beheersite SGD|
+|[http://publicatieservice-bms-acc.officielebekendmakingen.nl](http://publicatieservice-bms-acc.officielebekendmakingen.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
+|[http://officielebekendmakingen.nl](http://officielebekendmakingen.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
+|[https://stage.officielebekendmakingen.nl](https://stage.officielebekendmakingen.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET||
+|[https://beheer.officielebekendmakingen.nl](https://beheer.officielebekendmakingen.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|Externe Beheersi...|
+|[https://www-acc.officielebekendmakingen.nl](https://www-acc.officielebekendmakingen.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|403 Forbidden|
+|[https://zoek.officielebekendmakingen.nl](https://zoek.officielebekendmakingen.nl)| | **C**||:warning: |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS||
+|[https://www.officielebekendmakingen.nl](https://www.officielebekendmakingen.nl)| | **C**||:warning: |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS Microsoft ASP.NET|Zoeken in alle d...|
+|[https://zoek-acc.officielebekendmakingen.nl](https://zoek-acc.officielebekendmakingen.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|403 Forbidden|
+|[https://beheer-sgd-acc.officielebekendmakingen.nl](https://beheer-sgd-acc.officielebekendmakingen.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|Beheersite SGD|
+|[https://identifier-eto.officielebekendmakingen.nl](https://identifier-eto.officielebekendmakingen.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|503 Service Unav...|
+|[https://identifier.officielebekendmakingen.nl](https://identifier.officielebekendmakingen.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|URI - Performer...|
+|[https://beheersite-op.officielebekendmakingen.nl](https://beheersite-op.officielebekendmakingen.nl)| | **A**|Microsoft-IIS/10.0| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS IIS:10.0 Microsoft ASP.NET:4.0.30319 Windows Server|Object moved|
+|[https://beheersite-op-acc.officielebekendmakingen.nl](https://beheersite-op-acc.officielebekendmakingen.nl)| | **A**|Microsoft-IIS/10.0| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS IIS:10.0 Microsoft ASP.NET:4.0.30319 Windows Server|Object moved|
+|[https://coldip.officielebekendmakingen.nl](https://coldip.officielebekendmakingen.nl)| | **C**|Microsoft-IIS/10.0| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS IIS:10.0 Microsoft ASP.NET:4.0.30319 Windows Server|Object moved|
+|[https://vpn-nabs.officielebekendmakingen.nl](https://vpn-nabs.officielebekendmakingen.nl)| | **E**|OpenVPN-AS| | | | | | :white_check_mark: | | :white_check_mark: | |||
+
 

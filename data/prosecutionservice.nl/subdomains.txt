@@ -1,9 +1,6 @@
-opendata.prosecutionservice.nl
-criminalfilesmh17.prosecutionservice.nl
 criminalfilesmh17.acc.prosecutionservice.nl
+criminalfilesmh17.prosecutionservice.nl
 feeds.prosecutionservice.nl
-www.prosecutionservice.nl
+opendata.prosecutionservice.nl
 prosecutionservice.nl
-a-feeds.prosecutionservice.nl
-a-opendata.prosecutionservice.nl
-a-www.prosecutionservice.nl
+www.prosecutionservice.nl

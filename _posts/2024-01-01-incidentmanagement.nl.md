@@ -2,14 +2,12 @@
 layout: default
 title: "incidentmanagement.nl"
 permalink: "/dutchgov/incidentmanagement.nl.html"
-subdomains_count: 7
-all_subdomains_count: 8
+subdomains_count: 5
 urls_count: 5
-ssl_rank: C
+ssl_rank: 
 http_rank: E
-security_txt: 1
+security_txt: 0
 url_link: /data/incidentmanagement.nl/urls.txt
-all_subdomains_link: /data/incidentmanagement.nl/all_subdomains.txt
 subdomains_link: /data/incidentmanagement.nl/subdomains.txt
 categories: dutchgov
 tags: dutchgov
@@ -20,16 +18,15 @@ tags: dutchgov
 ## Summary data
 
 
- - **SSL Grade**:C
+ - **SSL Grade**:
  - **HTTP Security Grade**:E
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:1
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:0
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/incidentmanagement.nl/subdomains.txt)|7|Alive subdomains|
+|[subdomains.txt](/DutchGovScope/data/incidentmanagement.nl/subdomains.txt)|5|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/incidentmanagement.nl/urls.txt)|5|Urls|
-|[all_subdomains.txt](/DutchGovScope/data/incidentmanagement.nl/all_subdomains.txt)|8|All found subdomains (history)|
 
 
 ## Statistics
@@ -37,9 +34,10 @@ tags: dutchgov
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://webshop.incidentmanagement.nl](https://webshop.incidentmanagement.nl)| **F**| **F**|nginx| | | | | | | | :white_check_mark: | |Nginx||
-|[http://www.incidentmanagement.nl](http://www.incidentmanagement.nl)| **A+**| **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET||
-|[https://www.webshop.incidentmanagement.nl](https://www.webshop.incidentmanagement.nl)| **F**| **F**|nginx| | | | | | | | :white_check_mark: | |Nginx||
-|[http://incidentmanagement.nl](http://incidentmanagement.nl)| **A+**| **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET||
+|[https://incidentmanagement.nl](https://incidentmanagement.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Object moved|
+|[https://www.incidentmanagement.nl](https://www.incidentmanagement.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Object moved|
 |[https://revi.incidentmanagement.nl](https://revi.incidentmanagement.nl)| | **A**|Apache| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS Moodle PHP|Doorverwijspagin...|
+|[https://webshop.incidentmanagement.nl](https://webshop.incidentmanagement.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx||
+|[https://www.webshop.incidentmanagement.nl](https://www.webshop.incidentmanagement.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx||
+
 

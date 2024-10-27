@@ -2,9 +2,3 @@ feeds.campagnetoolkits.nl
 opendata.campagnetoolkits.nl
 www.campagnetoolkits.nl
 campagnetoolkits.nl
-a-www.campagnetoolkits.nl
-a-feeds.campagnetoolkits.nl
-a-opendata.campagnetoolkits.nl
-i-www.campagnetoolkits.nl
-o-www.campagnetoolkits.nl
-t-www.campagnetoolkits.nl

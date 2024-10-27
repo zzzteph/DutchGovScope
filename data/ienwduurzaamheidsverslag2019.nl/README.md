@@ -13,7 +13,6 @@
 |------------|-------|------|
 |[subdomains.txt](/data/ienwduurzaamheidsverslag2019.nl/subdomains.txt)|2|Alive subdomains|
 |[urls.txt](/data/ienwduurzaamheidsverslag2019.nl/urls.txt)|2|Urls|
-|[all_subdomains.txt](/data/ienwduurzaamheidsverslag2019.nl/all_subdomains.txt)|2|All found subdomains (history)|
 
 
 ## Statistics
@@ -23,4 +22,5 @@
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[https://ienwduurzaamheidsverslag2019.nl](https://ienwduurzaamheidsverslag2019.nl)| | **A**|Microsoft-IIS/10.0| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS IIS:10.0 Windows Server|Document Moved|
 |[https://www.ienwduurzaamheidsverslag2019.nl](https://www.ienwduurzaamheidsverslag2019.nl)| | **A**|Microsoft-IIS/10.0| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS IIS:10.0 Windows Server|Document Moved|
+
 

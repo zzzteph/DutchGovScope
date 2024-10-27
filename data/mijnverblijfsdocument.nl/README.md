@@ -12,8 +12,7 @@
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/mijnverblijfsdocument.nl/subdomains.txt)|2|Alive subdomains|
-|[urls.txt](/data/mijnverblijfsdocument.nl/urls.txt)|0|Urls|
-|[all_subdomains.txt](/data/mijnverblijfsdocument.nl/all_subdomains.txt)|2|All found subdomains (history)|
+|[urls.txt](/data/mijnverblijfsdocument.nl/urls.txt)|2|Urls|
 
 
 ## Statistics
@@ -21,4 +20,7 @@
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
+|[http://mijnverblijfsdocument.nl](http://mijnverblijfsdocument.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
+|[http://www.mijnverblijfsdocument.nl](http://www.mijnverblijfsdocument.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
+
 

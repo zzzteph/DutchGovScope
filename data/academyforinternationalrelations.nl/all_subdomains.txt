@@ -1,7 +1,0 @@
-feeds.academyforinternationalrelations.nl
-opendata.academyforinternationalrelations.nl
-www.academyforinternationalrelations.nl
-academyforinternationalrelations.nl
-a-feeds.academyforinternationalrelations.nl
-a-opendata.academyforinternationalrelations.nl
-a-www.academyforinternationalrelations.nl

@@ -1,10 +1,4 @@
-www.overkernenergie.nl
 feeds.overkernenergie.nl
 opendata.overkernenergie.nl
+www.overkernenergie.nl
 overkernenergie.nl
-a-feeds.overkernenergie.nl
-a-opendata.overkernenergie.nl
-a-www.overkernenergie.nl
-i-www.overkernenergie.nl
-o-www.overkernenergie.nl
-t-www.overkernenergie.nl

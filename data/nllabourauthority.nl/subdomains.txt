@@ -1,7 +1,3 @@
-www.nllabourauthority.nl
 feeds.nllabourauthority.nl
-opendata.nllabourauthority.nl
 nllabourauthority.nl
-a-feeds.nllabourauthority.nl
-a-opendata.nllabourauthority.nl
-a-www.nllabourauthority.nl
+www.nllabourauthority.nl

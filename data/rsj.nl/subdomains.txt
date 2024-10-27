@@ -1,11 +1,5 @@
+feeds.rsj.nl
 opendata.rsj.nl
+rsj.nl
 www.rsj.nl
 intranet.rsj.nl
-feeds.rsj.nl
-rsj.nl
-a-feeds.rsj.nl
-a-opendata.rsj.nl
-a-www.rsj.nl
-congres.rsj.nl
-databases.rsj.nl
-test.rsj.nl

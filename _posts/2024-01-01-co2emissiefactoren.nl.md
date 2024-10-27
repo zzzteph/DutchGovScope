@@ -2,14 +2,12 @@
 layout: default
 title: "co2emissiefactoren.nl"
 permalink: "/dutchgov/co2emissiefactoren.nl.html"
-subdomains_count: 19
-all_subdomains_count: 19
-urls_count: 19
-ssl_rank: E
+subdomains_count: 2
+urls_count: 2
+ssl_rank: 
 http_rank: F
 security_txt: 0
 url_link: /data/co2emissiefactoren.nl/urls.txt
-all_subdomains_link: /data/co2emissiefactoren.nl/all_subdomains.txt
 subdomains_link: /data/co2emissiefactoren.nl/subdomains.txt
 categories: dutchgov
 tags: dutchgov
@@ -20,16 +18,15 @@ tags: dutchgov
 ## Summary data
 
 
- - **SSL Grade**:E
+ - **SSL Grade**:
  - **HTTP Security Grade**:F
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:0
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/co2emissiefactoren.nl/subdomains.txt)|19|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/co2emissiefactoren.nl/urls.txt)|19|Urls|
-|[all_subdomains.txt](/DutchGovScope/data/co2emissiefactoren.nl/all_subdomains.txt)|19|All found subdomains (history)|
+|[subdomains.txt](/DutchGovScope/data/co2emissiefactoren.nl/subdomains.txt)|2|Alive subdomains|
+|[urls.txt](/DutchGovScope/data/co2emissiefactoren.nl/urls.txt)|2|Urls|
 
 
 ## Statistics
@@ -37,23 +34,7 @@ tags: dutchgov
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://mail.co2emissiefactoren.nl](https://mail.co2emissiefactoren.nl)| **F**| **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|403 Forbidden|
-|[https://www.co2emissiefactoren.nl](https://www.co2emissiefactoren.nl)| **A**| **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server MySQL PHP Slider Revolution:6.7.18 WordPress:6.6.2 Yoast SEO:23.4 wpBakery|Home | CO2 emiss...|
-|[https://factorswww.co2emissiefactoren.nl](https://factorswww.co2emissiefactoren.nl)| **F**| **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|403 Forbidden|
-|[https://co2emissiefactoren.nl](https://co2emissiefactoren.nl)| **A**| **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|301 Moved Perman...|
-|[https://atwww.co2emissiefactoren.nl](https://atwww.co2emissiefactoren.nl)| **F**| **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|403 Forbidden|
-|[https://vanwww.co2emissiefactoren.nl](https://vanwww.co2emissiefactoren.nl)| **F**| **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|403 Forbidden|
-|[https://webmail.co2emissiefactoren.nl](https://webmail.co2emissiefactoren.nl)| **F**| **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server Bootstrap|Webmail :: Welco...|
-|[https://genericwww.co2emissiefactoren.nl](https://genericwww.co2emissiefactoren.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|403 Forbidden|
-|[https://petrolwww.co2emissiefactoren.nl](https://petrolwww.co2emissiefactoren.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|403 Forbidden|
-|[https://taxiwww.co2emissiefactoren.nl](https://taxiwww.co2emissiefactoren.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|403 Forbidden|
-|[https://basedwww.co2emissiefactoren.nl](https://basedwww.co2emissiefactoren.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|403 Forbidden|
-|[https://energywww.co2emissiefactoren.nl](https://energywww.co2emissiefactoren.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|403 Forbidden|
-|[https://greywww.co2emissiefactoren.nl](https://greywww.co2emissiefactoren.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|403 Forbidden|
-|[https://buswww.co2emissiefactoren.nl](https://buswww.co2emissiefactoren.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|403 Forbidden|
-|[https://greenwww.co2emissiefactoren.nl](https://greenwww.co2emissiefactoren.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|403 Forbidden|
-|[https://dieselwww.co2emissiefactoren.nl](https://dieselwww.co2emissiefactoren.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|403 Forbidden|
-|[https://trainwww.co2emissiefactoren.nl](https://trainwww.co2emissiefactoren.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|403 Forbidden|
-|[https://carwww.co2emissiefactoren.nl](https://carwww.co2emissiefactoren.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|403 Forbidden|
-|[https://homewww.co2emissiefactoren.nl](https://homewww.co2emissiefactoren.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|403 Forbidden|
+|[https://co2emissiefactoren.nl](https://co2emissiefactoren.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|301 Moved Perman...|
+|[https://www.co2emissiefactoren.nl](https://www.co2emissiefactoren.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server MySQL PHP Slider Revolution:6.7.18 WordPress:6.6.2 Yoast SEO:23.4 wpBakery|Home | CO2 emiss...|
+
 

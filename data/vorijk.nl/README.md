@@ -4,8 +4,8 @@
 ## Summary data
 
 
- - **SSL Grade**:A
- - **HTTP Security Grade**:F
+ - **SSL Grade**:
+ - **HTTP Security Grade**:D
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:0
 
 
@@ -13,7 +13,6 @@
 |------------|-------|------|
 |[subdomains.txt](/data/vorijk.nl/subdomains.txt)|3|Alive subdomains|
 |[urls.txt](/data/vorijk.nl/urls.txt)|3|Urls|
-|[all_subdomains.txt](/data/vorijk.nl/all_subdomains.txt)|3|All found subdomains (history)|
 
 
 ## Statistics
@@ -21,7 +20,8 @@
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://vorijk.nl](https://vorijk.nl)| **A**| **E**|| | | | | | | | :white_check_mark: | |Docusaurus:3.5.2 React Webpack|Vorderingenoverz...|
-|[https://demo.vorijk.nl](https://demo.vorijk.nl)| **A**| **F**|nginx/1.26.2| | | | | | | | :white_check_mark: | |Basic Nginx:1.26.2|401 Authorizatio...|
-|[https://www.vorijk.nl](https://www.vorijk.nl)| **A**| **E**|| | | | | | | | :white_check_mark: | |Docusaurus:3.5.2 React Webpack|Vorderingenoverz...|
+|[https://demo.vorijk.nl](https://demo.vorijk.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |Basic HSTS|401 Authorizatio...|
+|[https://vorijk.nl](https://vorijk.nl)| | **E**|| | | | | | | | :white_check_mark: | |Docusaurus:3.5.2 React Webpack|Vorderingenoverz...|
+|[https://www.vorijk.nl](https://www.vorijk.nl)| | **E**|| | | | | | | | :white_check_mark: | |Docusaurus:3.5.2 React Webpack|Vorderingenoverz...|
+
 

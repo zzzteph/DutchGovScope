@@ -1,5 +1,3 @@
 class.whofic.nl
-www.whofic.nl
 whofic.nl
-beta.whofic.nl
-oldclass.whofic.nl
+www.whofic.nl

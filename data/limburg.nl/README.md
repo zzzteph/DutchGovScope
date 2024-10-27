@@ -4,16 +4,15 @@
 ## Summary data
 
 
- - **SSL Grade**:A+
+ - **SSL Grade**:
  - **HTTP Security Grade**:A
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:9
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/limburg.nl/subdomains.txt)|16|Alive subdomains|
-|[urls.txt](/data/limburg.nl/urls.txt)|14|Urls|
-|[all_subdomains.txt](/data/limburg.nl/all_subdomains.txt)|77|All found subdomains (history)|
+|[subdomains.txt](/data/limburg.nl/subdomains.txt)|18|Alive subdomains|
+|[urls.txt](/data/limburg.nl/urls.txt)|18|Urls|
 
 
 ## Statistics
@@ -21,18 +20,23 @@
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://id.limburg.nl](https://id.limburg.nl)| **A+**| **A**||:warning: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS|302 Found|
-|[https://mijnsubsidies.limburg.nl](https://mijnsubsidies.limburg.nl)| **A+**| **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|ClientPortal|
-|[https://sbl.limburg.nl](https://sbl.limburg.nl)| **A+**| **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
-|[https://www.limburg.nl](https://www.limburg.nl)| **A**| **A**|cloudflare|:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Cloudflare Cloudflare Bot Management HSTS Microsoft ASP.NET:-|Home - Provincie...|
-|[https://limburg.nl](https://limburg.nl)| **A**| **A**|-|:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:-|Object moved|
-|[https://connect-with.limburg.nl](https://connect-with.limburg.nl)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS Nginx|Document Moved|
-|[https://inloggen-pre.limburg.nl](https://inloggen-pre.limburg.nl)| **A+**| **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
-|[https://formulieren.limburg.nl](https://formulieren.limburg.nl)| **A+**| **A**|| |:white_check_mark: | | |:warning: | | | :white_check_mark: | |HSTS|Object moved|
-|[https://nieuwsbrieven.limburg.nl](https://nieuwsbrieven.limburg.nl)| **A+**| **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|Found|
-|[https://mijnsubsidies-acc.limburg.nl](https://mijnsubsidies-acc.limburg.nl)| **A+**| **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|ClientPortal|
-|[https://referendum.limburg.nl](https://referendum.limburg.nl)| **A+**| **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|ClientPortal|
-|[https://referendum-backoffice.limburg.nl](https://referendum-backoffice.limburg.nl)| **A+**| **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|ReferendumBackof...|
-|[https://inloggen.limburg.nl](https://inloggen.limburg.nl)| **A+**| **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
-|[https://ondertekenen.limburg.nl](https://ondertekenen.limburg.nl)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS Nginx||
+|[https://atlas.limburg.nl](https://atlas.limburg.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS|Tailormap|
+|[https://www.atlas.limburg.nl](https://www.atlas.limburg.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS|Tailormap|
+|[https://geoserver.limburg.nl](https://geoserver.limburg.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Java||
+|[https://www.geoserver.limburg.nl](https://www.geoserver.limburg.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Java||
+|[https://id.limburg.nl](https://id.limburg.nl)| | **A**||:warning: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS|302 Found|
+|[https://inloggen-pre.limburg.nl](https://inloggen-pre.limburg.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
+|[https://inloggen.limburg.nl](https://inloggen.limburg.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
+|[https://limburg.nl](https://limburg.nl)| | **A**|-|:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:-|Object moved|
+|[https://mijnsubsidies-acc.limburg.nl](https://mijnsubsidies-acc.limburg.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|ClientPortal|
+|[https://mijnsubsidies.limburg.nl](https://mijnsubsidies.limburg.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|ClientPortal|
+|[https://sbl.limburg.nl](https://sbl.limburg.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
+|[https://nieuwsbrieven.limburg.nl](https://nieuwsbrieven.limburg.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|Found|
+|[https://ondertekenen.limburg.nl](https://ondertekenen.limburg.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS Nginx||
+|[https://referendum-backoffice.limburg.nl](https://referendum-backoffice.limburg.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|ReferendumBackof...|
+|[https://referendum.limburg.nl](https://referendum.limburg.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|ClientPortal|
+|[https://connect-with.limburg.nl](https://connect-with.limburg.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS Nginx|Document Moved|
+|[https://formulieren.limburg.nl](https://formulieren.limburg.nl)| | **A**|| |:white_check_mark: | | |:warning: | | | :white_check_mark: | |HSTS|Object moved|
+|[https://www.limburg.nl](https://www.limburg.nl)| | **A**|cloudflare|:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Cloudflare Cloudflare Bot Management HSTS Microsoft ASP.NET:-|Home - Provincie...|
+
 

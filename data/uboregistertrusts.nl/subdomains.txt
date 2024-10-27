@@ -1,16 +1,4 @@
-www.uboregistertrusts.nl
 feeds.uboregistertrusts.nl
 opendata.uboregistertrusts.nl
 uboregistertrusts.nl
-api-acc.uboregistertrusts.nl
-mijn-acc.uboregistertrusts.nl
-raadplegen-acc.uboregistertrusts.nl
-auth.uboregistertrusts.nl
-mijn.uboregistertrusts.nl
-raadplegen.uboregistertrusts.nl
-api.uboregistertrusts.nl
-app.uboregistertrusts.nl
-mail.uboregistertrusts.nl
-a-feeds.uboregistertrusts.nl
-a-opendata.uboregistertrusts.nl
-a-www.uboregistertrusts.nl
+www.uboregistertrusts.nl

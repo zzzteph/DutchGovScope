@@ -1,11 +1,5 @@
+www.jeugdautoriteit.nl
 feeds.jeugdautoriteit.nl
+jeugdautoriteit.nl
 magazines.jeugdautoriteit.nl
 opendata.jeugdautoriteit.nl
-www.jeugdautoriteit.nl
-jeugdautoriteit.nl
-sdm.jeugdautoriteit.nl
-sip.jeugdautoriteit.nl
-a-opendata.jeugdautoriteit.nl
-a-www.jeugdautoriteit.nl
-a-feeds.jeugdautoriteit.nl
-a-magazines.jeugdautoriteit.nl

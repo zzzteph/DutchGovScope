@@ -2,13 +2,3 @@ feeds.tib-ivd.nl
 opendata.tib-ivd.nl
 tib-ivd.nl
 www.tib-ivd.nl
-autodiscover.tib-ivd.nl
-mx01.tib-ivd.nl
-tbbb.tib-ivd.nl
-webmail.tib-ivd.nl
-a-feeds.tib-ivd.nl
-a-opendata.tib-ivd.nl
-a-www.tib-ivd.nl
-i-www.tib-ivd.nl
-o-www.tib-ivd.nl
-t-www.tib-ivd.nl

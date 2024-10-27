@@ -1,6 +1,6 @@
-https://feeds.communicatierijk.nl
-https://onderzoek.communicatierijk.nl
-https://ons.communicatierijk.nl
+https://communicatierijk.nl
 https://opendata.communicatierijk.nl
 https://www.communicatierijk.nl
-https://communicatierijk.nl
+https://onderzoek.communicatierijk.nl
+https://ons.communicatierijk.nl
+https://feeds.communicatierijk.nl

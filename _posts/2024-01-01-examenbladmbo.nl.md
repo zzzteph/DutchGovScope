@@ -3,13 +3,11 @@ layout: default
 title: "examenbladmbo.nl"
 permalink: "/dutchgov/examenbladmbo.nl.html"
 subdomains_count: 3
-all_subdomains_count: 3
 urls_count: 3
-ssl_rank: A+
+ssl_rank: 
 http_rank: A
 security_txt: 3
 url_link: /data/examenbladmbo.nl/urls.txt
-all_subdomains_link: /data/examenbladmbo.nl/all_subdomains.txt
 subdomains_link: /data/examenbladmbo.nl/subdomains.txt
 categories: dutchgov
 tags: dutchgov
@@ -20,7 +18,7 @@ tags: dutchgov
 ## Summary data
 
 
- - **SSL Grade**:A+
+ - **SSL Grade**:
  - **HTTP Security Grade**:A
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:3
 
@@ -29,7 +27,6 @@ tags: dutchgov
 |------------|-------|------|
 |[subdomains.txt](/DutchGovScope/data/examenbladmbo.nl/subdomains.txt)|3|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/examenbladmbo.nl/urls.txt)|3|Urls|
-|[all_subdomains.txt](/DutchGovScope/data/examenbladmbo.nl/all_subdomains.txt)|3|All found subdomains (history)|
 
 
 ## Statistics
@@ -37,7 +34,8 @@ tags: dutchgov
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://www.examenbladmbo.nl](https://www.examenbladmbo.nl)| **A+**| **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |Drupal:10 HSTS PHP|Examenbladmbo.nl|
-|[https://examenbladmbo.nl](https://examenbladmbo.nl)| **A**| **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS|308 Permanent Re...|
-|[https://mijn.examenbladmbo.nl](https://mijn.examenbladmbo.nl)| **A+**| **A**|| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Drupal HSTS PHP|Redirecting to h...|
+|[https://examenbladmbo.nl](https://examenbladmbo.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS|308 Permanent Re...|
+|[https://www.examenbladmbo.nl](https://www.examenbladmbo.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |Drupal:10 HSTS PHP|Examenbladmbo.nl|
+|[https://mijn.examenbladmbo.nl](https://mijn.examenbladmbo.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Drupal HSTS PHP|Redirecting to h...|
+
 

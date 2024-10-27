@@ -1,7 +1,0 @@
-mail.jaarberichtrijkswaterstaat.nl
-pop.jaarberichtrijkswaterstaat.nl
-pop3.jaarberichtrijkswaterstaat.nl
-smtp.jaarberichtrijkswaterstaat.nl
-jaarberichtrijkswaterstaat.nl
-www.jaarberichtrijkswaterstaat.nl
-ftp.jaarberichtrijkswaterstaat.nl

@@ -1,7 +1,4 @@
-www.aboutnetherlandscustoms.nl
 aboutnetherlandscustoms.nl
 feeds.aboutnetherlandscustoms.nl
 opendata.aboutnetherlandscustoms.nl
-a-opendata.aboutnetherlandscustoms.nl
-a-www.aboutnetherlandscustoms.nl
-a-feeds.aboutnetherlandscustoms.nl
+www.aboutnetherlandscustoms.nl

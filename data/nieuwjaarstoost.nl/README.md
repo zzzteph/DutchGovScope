@@ -11,9 +11,8 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/nieuwjaarstoost.nl/subdomains.txt)|3|Alive subdomains|
-|[urls.txt](/data/nieuwjaarstoost.nl/urls.txt)|3|Urls|
-|[all_subdomains.txt](/data/nieuwjaarstoost.nl/all_subdomains.txt)|3|All found subdomains (history)|
+|[subdomains.txt](/data/nieuwjaarstoost.nl/subdomains.txt)|0|Alive subdomains|
+|[urls.txt](/data/nieuwjaarstoost.nl/urls.txt)|0|Urls|
 
 
 ## Statistics
@@ -21,7 +20,5 @@
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://nieuwjaarstoost.nl](https://nieuwjaarstoost.nl)| **F**| **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|Geen webhosting...|
-|[https://www.nieuwjaarstoost.nl](https://www.nieuwjaarstoost.nl)| **F**| **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|Geen webhosting...|
-|[http://localhost.nieuwjaarstoost.nl](http://localhost.nieuwjaarstoost.nl)| | **F**|nginx| | | :warning:| | | | | :white_check_mark: | |Nginx|(404 Not Found)|
+
 

@@ -4,16 +4,15 @@
 ## Summary data
 
 
- - **SSL Grade**:A+
+ - **SSL Grade**:
  - **HTTP Security Grade**:A
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:2
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:1
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/nkw2023.nl/subdomains.txt)|2|Alive subdomains|
-|[urls.txt](/data/nkw2023.nl/urls.txt)|2|Urls|
-|[all_subdomains.txt](/data/nkw2023.nl/all_subdomains.txt)|2|All found subdomains (history)|
+|[subdomains.txt](/data/nkw2023.nl/subdomains.txt)|1|Alive subdomains|
+|[urls.txt](/data/nkw2023.nl/urls.txt)|1|Urls|
 
 
 ## Statistics
@@ -21,6 +20,6 @@
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://nkw2023.nl](https://nkw2023.nl)| **A+**| **A**|Netlify| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Netlify||
-|[https://www.nkw2023.nl](https://www.nkw2023.nl)| **A+**| **A**|Netlify| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Netlify||
+|[https://nkw2023.nl](https://nkw2023.nl)| | **A**|Netlify| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Netlify||
+
 

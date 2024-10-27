@@ -13,7 +13,6 @@
 |------------|-------|------|
 |[subdomains.txt](/data/workingforthenetherlandsworldwide.nl/subdomains.txt)|2|Alive subdomains|
 |[urls.txt](/data/workingforthenetherlandsworldwide.nl/urls.txt)|2|Urls|
-|[all_subdomains.txt](/data/workingforthenetherlandsworldwide.nl/all_subdomains.txt)|2|All found subdomains (history)|
 
 
 ## Statistics
@@ -23,4 +22,5 @@
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[https://workingforthenetherlandsworldwide.nl](https://workingforthenetherlandsworldwide.nl)| | **A**|cloudflare| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Cloudflare HSTS|301 Moved Perman...|
 |[https://www.workingforthenetherlandsworldwide.nl](https://www.workingforthenetherlandsworldwide.nl)| | **A**|cloudflare| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Cloudflare HSTS|301 Moved Perman...|
+
 

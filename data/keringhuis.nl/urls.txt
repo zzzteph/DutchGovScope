@@ -1,10 +1,5 @@
 https://adressen.keringhuis.nl
-https://old.keringhuis.nl
-https://www.keringhuis.nl
-https://symposium.keringhuis.nl
-https://www.symposium.keringhuis.nl
 https://keringhuis.nl
-http://localhost.keringhuis.nl
-https://pop.keringhuis.nl
-http://autodiscover.keringhuis.nl
-https://smtpdma.keringhuis.nl
+https://www.keringhuis.nl
+https://old.keringhuis.nl
+https://symposium.keringhuis.nl

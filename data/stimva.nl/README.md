@@ -4,7 +4,7 @@
 ## Summary data
 
 
- - **SSL Grade**:A+
+ - **SSL Grade**:
  - **HTTP Security Grade**:E
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:0
 
@@ -13,7 +13,6 @@
 |------------|-------|------|
 |[subdomains.txt](/data/stimva.nl/subdomains.txt)|2|Alive subdomains|
 |[urls.txt](/data/stimva.nl/urls.txt)|2|Urls|
-|[all_subdomains.txt](/data/stimva.nl/all_subdomains.txt)|2|All found subdomains (history)|
 
 
 ## Statistics
@@ -21,6 +20,7 @@
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[http://www.stimva.nl](http://www.stimva.nl)| **A+**| **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET||
-|[http://stimva.nl](http://stimva.nl)| **A+**| **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET||
+|[https://stimva.nl](https://stimva.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Object moved|
+|[https://www.stimva.nl](https://www.stimva.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Object moved|
+
 

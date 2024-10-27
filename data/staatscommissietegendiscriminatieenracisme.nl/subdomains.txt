@@ -1,7 +1,4 @@
-staatscommissietegendiscriminatieenracisme.nl
-www.staatscommissietegendiscriminatieenracisme.nl
 feeds.staatscommissietegendiscriminatieenracisme.nl
 opendata.staatscommissietegendiscriminatieenracisme.nl
-a-feeds.staatscommissietegendiscriminatieenracisme.nl
-a-opendata.staatscommissietegendiscriminatieenracisme.nl
-a-www.staatscommissietegendiscriminatieenracisme.nl
+www.staatscommissietegendiscriminatieenracisme.nl
+staatscommissietegendiscriminatieenracisme.nl

@@ -2,6 +2,3 @@ feeds.datavoorgezondheid.nl
 opendata.datavoorgezondheid.nl
 www.datavoorgezondheid.nl
 datavoorgezondheid.nl
-a-feeds.datavoorgezondheid.nl
-a-www.datavoorgezondheid.nl
-a-opendata.datavoorgezondheid.nl

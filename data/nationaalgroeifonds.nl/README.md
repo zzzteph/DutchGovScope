@@ -4,16 +4,15 @@
 ## Summary data
 
 
- - **SSL Grade**:A+
+ - **SSL Grade**:
  - **HTTP Security Grade**:A
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:4
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:3
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/nationaalgroeifonds.nl/subdomains.txt)|10|Alive subdomains|
-|[urls.txt](/data/nationaalgroeifonds.nl/urls.txt)|4|Urls|
-|[all_subdomains.txt](/data/nationaalgroeifonds.nl/all_subdomains.txt)|10|All found subdomains (history)|
+|[subdomains.txt](/data/nationaalgroeifonds.nl/subdomains.txt)|3|Alive subdomains|
+|[urls.txt](/data/nationaalgroeifonds.nl/urls.txt)|3|Urls|
 
 
 ## Statistics
@@ -21,8 +20,8 @@
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://feeds.nationaalgroeifonds.nl](https://feeds.nationaalgroeifonds.nl)| **A+**| **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
-|[https://opendata.nationaalgroeifonds.nl](https://opendata.nationaalgroeifonds.nl)| **A+**| **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
-|[https://www.nationaalgroeifonds.nl](https://www.nationaalgroeifonds.nl)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Home | Nationaal...|
-|[https://nationaalgroeifonds.nl](https://nationaalgroeifonds.nl)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
+|[https://feeds.nationaalgroeifonds.nl](https://feeds.nationaalgroeifonds.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
+|[https://nationaalgroeifonds.nl](https://nationaalgroeifonds.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
+|[https://opendata.nationaalgroeifonds.nl](https://opendata.nationaalgroeifonds.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
+
 

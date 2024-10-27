@@ -1,9 +1,6 @@
-acceptatie.volksgezondheidenzorg.info
-acceptatie.costofillnesstool.volksgezondheidenzorg.info
-acceptatie.kostenvanziektentool.volksgezondheidenzorg.info
-costofillnesstool.volksgezondheidenzorg.info
 kostenvanziektentool.volksgezondheidenzorg.info
 test.volksgezondheidenzorg.info
-www.volksgezondheidenzorg.info
 volksgezondheidenzorg.info
-localhost.volksgezondheidenzorg.info
+www.volksgezondheidenzorg.info
+acceptatie.volksgezondheidenzorg.info
+costofillnesstool.volksgezondheidenzorg.info

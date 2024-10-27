@@ -1,13 +1,4 @@
 feeds.klimaatakkoord.nl
+klimaatakkoord.nl
 opendata.klimaatakkoord.nl
 www.klimaatakkoord.nl
-klimaatakkoord.nl
-a-feeds.klimaatakkoord.nl
-a-opendata.klimaatakkoord.nl
-a-www.klimaatakkoord.nl
-autodiscover.klimaatakkoord.nl
-enterpriseenrollment.klimaatakkoord.nl
-enterpriseregistration.klimaatakkoord.nl
-i-www.klimaatakkoord.nl
-o-www.klimaatakkoord.nl
-t-www.klimaatakkoord.nl

@@ -1,8 +1,5 @@
-nieuwsbrief.examenblad.nl
-www.examenblad.nl
-www.nieuwsbrief.examenblad.nl
 examenblad.nl
+www.examenblad.nl
 mijn.examenblad.nl
-static.examenblad.nl
-piwik2.examenblad.nl
-piwik.examenblad.nl
+nieuwsbrief.examenblad.nl
+www.nieuwsbrief.examenblad.nl

@@ -1,9 +1,6 @@
-vraagje.doeonbeperktmee.nl
 deploy-vraagje.doeonbeperktmee.nl
+vraagje.doeonbeperktmee.nl
 doeonbeperktmee.nl
 feeds.doeonbeperktmee.nl
 opendata.doeonbeperktmee.nl
 www.doeonbeperktmee.nl
-a-feeds.doeonbeperktmee.nl
-a-opendata.doeonbeperktmee.nl
-a-www.doeonbeperktmee.nl

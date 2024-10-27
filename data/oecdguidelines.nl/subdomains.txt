@@ -1,7 +1,4 @@
-feeds.oecdguidelines.nl
-opendata.oecdguidelines.nl
 www.oecdguidelines.nl
+feeds.oecdguidelines.nl
 oecdguidelines.nl
-a-www.oecdguidelines.nl
-a-feeds.oecdguidelines.nl
-a-opendata.oecdguidelines.nl
+opendata.oecdguidelines.nl

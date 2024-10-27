@@ -1,6 +1,3 @@
-mail.naarnederland.nl
-www.naarnederland.nl
 naarnederland.nl
-cdn.naarnederland.nl
-acc.naarnederland.nl
-autodiscover.naarnederland.nl
+www.naarnederland.nl
+mail.naarnederland.nl

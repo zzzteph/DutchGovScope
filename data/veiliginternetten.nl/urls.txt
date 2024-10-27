@@ -1,10 +1,8 @@
-https://check.veiliginternetten.nl
-https://enquete.veiliginternetten.nl
 https://mailing.veiliginternetten.nl
-https://vs6844.veiliginternetten.nl
-https://www.veiliginternetten.nl
+https://check.veiliginternetten.nl
 https://veiliginternetten.nl
+https://www.veiliginternetten.nl
+https://enquete.veiliginternetten.nl
 https://mail.veiliginternetten.nl
 https://vs6575.veiliginternetten.nl
-http://autodiscover.veiliginternetten.nl
-https://acceptatie.veiliginternetten.nl
+https://vs6844.veiliginternetten.nl

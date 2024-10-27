@@ -1,8 +1,0 @@
-mail.bewustbodemgebruik.nl
-www.bewustbodemgebruik.nl
-bewustbodemgebruik.nl
-autoconfig.bewustbodemgebruik.nl
-autodiscover.bewustbodemgebruik.nl
-ftp.bewustbodemgebruik.nl
-ssh.bewustbodemgebruik.nl
-localhost.bewustbodemgebruik.nl

@@ -1,14 +1,6 @@
 www.minszw.nl
-siam.minszw.nl
-minszw.nl
 gemeenteloket.minszw.nl
+minszw.nl
 www.gemeenteloket.minszw.nl
+siam.minszw.nl
 testsiam.minszw.nl
-cms.gemeenteloket.minszw.nl
-sip.minszw.nl
-sip.myroom.minszw.nl
-smtp02.minszw.nl
-webmail.minszw.nl
-onva-3f.minszw.nl
-werkbezoek.minszw.nl
-onvp-3f.minszw.nl

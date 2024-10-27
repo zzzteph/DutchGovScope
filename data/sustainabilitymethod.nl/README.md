@@ -4,7 +4,7 @@
 ## Summary data
 
 
- - **SSL Grade**:A+
+ - **SSL Grade**:
  - **HTTP Security Grade**:B
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:0
 
@@ -13,7 +13,6 @@
 |------------|-------|------|
 |[subdomains.txt](/data/sustainabilitymethod.nl/subdomains.txt)|2|Alive subdomains|
 |[urls.txt](/data/sustainabilitymethod.nl/urls.txt)|2|Urls|
-|[all_subdomains.txt](/data/sustainabilitymethod.nl/all_subdomains.txt)|2|All found subdomains (history)|
 
 
 ## Statistics
@@ -21,6 +20,7 @@
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://www.sustainabilitymethod.nl](https://www.sustainabilitymethod.nl)| **A+**| **B**|nginx|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx PHP:8.3.12|RIVM Sustainabil...|
-|[https://sustainabilitymethod.nl](https://sustainabilitymethod.nl)| **A+**| **B**|nginx|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx PHP:8.3.12|RIVM Sustainabil...|
+|[https://sustainabilitymethod.nl](https://sustainabilitymethod.nl)| | **B**|nginx|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx PHP:8.3.12|RIVM Sustainabil...|
+|[https://www.sustainabilitymethod.nl](https://www.sustainabilitymethod.nl)| | **B**|nginx|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx PHP:8.3.12|RIVM Sustainabil...|
+
 

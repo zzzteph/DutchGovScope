@@ -1,5 +1,3 @@
 acc.broloket.nl
-www.broloket.nl
 broloket.nl
-dev.broloket.nl
-tst.broloket.nl
+www.broloket.nl

@@ -1,10 +1,4 @@
-proto.gipdatabank.nl
-www.gipdatabank.nl
-www-ac.gipdatabank.nl
 gipdatabank.nl
-www-acc.gipdatabank.nl
-www-dev.gipdatabank.nl
-www-p.gipdatabank.nl
-www-tst.gipdatabank.nl
-www-ow.gipdatabank.nl
-www-ts.gipdatabank.nl
+www.gipdatabank.nl
+proto.gipdatabank.nl
+www-ac.gipdatabank.nl

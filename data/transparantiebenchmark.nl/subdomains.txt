@@ -1,3 +1,0 @@
-acceptatie.transparantiebenchmark.nl
-login.transparantiebenchmark.nl
-webmail.transparantiebenchmark.nl

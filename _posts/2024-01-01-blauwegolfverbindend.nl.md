@@ -2,14 +2,12 @@
 layout: default
 title: "blauwegolfverbindend.nl"
 permalink: "/dutchgov/blauwegolfverbindend.nl.html"
-subdomains_count: 5
-all_subdomains_count: 5
-urls_count: 5
-ssl_rank: B-
-http_rank: E
-security_txt: 3
+subdomains_count: 3
+urls_count: 3
+ssl_rank: 
+http_rank: D
+security_txt: 1
 url_link: /data/blauwegolfverbindend.nl/urls.txt
-all_subdomains_link: /data/blauwegolfverbindend.nl/all_subdomains.txt
 subdomains_link: /data/blauwegolfverbindend.nl/subdomains.txt
 categories: dutchgov
 tags: dutchgov
@@ -20,16 +18,15 @@ tags: dutchgov
 ## Summary data
 
 
- - **SSL Grade**:B-
- - **HTTP Security Grade**:E
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:3
+ - **SSL Grade**:
+ - **HTTP Security Grade**:D
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:1
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/blauwegolfverbindend.nl/subdomains.txt)|5|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/blauwegolfverbindend.nl/urls.txt)|5|Urls|
-|[all_subdomains.txt](/DutchGovScope/data/blauwegolfverbindend.nl/all_subdomains.txt)|5|All found subdomains (history)|
+|[subdomains.txt](/DutchGovScope/data/blauwegolfverbindend.nl/subdomains.txt)|3|Alive subdomains|
+|[urls.txt](/DutchGovScope/data/blauwegolfverbindend.nl/urls.txt)|3|Urls|
 
 
 ## Statistics
@@ -37,9 +34,8 @@ tags: dutchgov
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[http://acceptatie.blauwegolfverbindend.nl](http://acceptatie.blauwegolfverbindend.nl)| **A+**| **C**|Apache/2.4.6 (CentOS) OpenSSL/1.0.2k-fips|:warning: |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server:2.4.6 CentOS HSTS OpenSSL:1.0.2k|302 Found|
-|[https://www.blauwegolfverbindend.nl](https://www.blauwegolfverbindend.nl)| **F**| **D**|Apache/2.4.6 (CentOS) OpenSSL/1.0.2k-fips|:o: |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server:2.4.6 CentOS HSTS Java OpenSSL:1.0.2k YouTube|Blauwe Golf, Ver...|
-|[https://blauwegolfverbindend.nl](https://blauwegolfverbindend.nl)| **A+**| **D**|Apache/2.4.6 (CentOS) OpenSSL/1.0.2k-fips|:o: |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server:2.4.6 CentOS HSTS Java OpenSSL:1.0.2k YouTube|Blauwe Golf, Ver...|
-|[http://ftp.blauwegolfverbindend.nl](http://ftp.blauwegolfverbindend.nl)| | **F**|Apache/2.4.25 (Debian)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.25 Debian|Yourdomainprovid...|
-|[http://localhost.blauwegolfverbindend.nl](http://localhost.blauwegolfverbindend.nl)| | **F**|nginx|:o: | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Laravel Nginx PHP|Weakpass|
+|[https://blauwegolfverbindend.nl](https://blauwegolfverbindend.nl)| | **D**|Apache/2.4.6 (CentOS) OpenSSL/1.0.2k-fips|:o: |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server:2.4.6 CentOS HSTS Java OpenSSL:1.0.2k YouTube|Blauwe Golf, Ver...|
+|[https://acceptatie.blauwegolfverbindend.nl](https://acceptatie.blauwegolfverbindend.nl)| | **B**|APISIX/2.15.3| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache APISIX:2.15.3 HSTS||
+|[https://www.blauwegolfverbindend.nl](https://www.blauwegolfverbindend.nl)| | **F**|Apache/2.4.6 (CentOS) OpenSSL/1.0.2k-fips| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.6 CentOS HSTS Java OpenSSL:1.0.2k YouTube|Blauwe Golf, Ver...|
+
 

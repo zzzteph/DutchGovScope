@@ -1,8 +1,7 @@
-https://www.riec.nl
-https://magazines.riec.nl
-https://mail.riec.nl
 https://feeds.riec.nl
-https://mdm.zwb.riec.nl
+https://magazines.riec.nl
 https://opendata.riec.nl
 https://riec.nl
-https://autoconfig.riec.nl
+https://www.riec.nl
+https://mail.riec.nl
+https://mdm.zwb.riec.nl

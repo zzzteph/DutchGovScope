@@ -13,7 +13,6 @@
 |------------|-------|------|
 |[subdomains.txt](/data/raadvoordierenaangelegenheden.nl/subdomains.txt)|2|Alive subdomains|
 |[urls.txt](/data/raadvoordierenaangelegenheden.nl/urls.txt)|2|Urls|
-|[all_subdomains.txt](/data/raadvoordierenaangelegenheden.nl/all_subdomains.txt)|2|All found subdomains (history)|
 
 
 ## Statistics
@@ -23,4 +22,5 @@
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[https://raadvoordierenaangelegenheden.nl](https://raadvoordierenaangelegenheden.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |||
 |[https://www.raadvoordierenaangelegenheden.nl](https://www.raadvoordierenaangelegenheden.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |||
+
 

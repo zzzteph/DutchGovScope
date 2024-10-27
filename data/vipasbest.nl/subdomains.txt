@@ -1,3 +1,2 @@
-www.vipasbest.nl
 vipasbest.nl
-localhost.vipasbest.nl
+www.vipasbest.nl

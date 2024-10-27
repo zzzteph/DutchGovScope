@@ -4,7 +4,7 @@
 ## Summary data
 
 
- - **SSL Grade**:A+
+ - **SSL Grade**:
  - **HTTP Security Grade**:E
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:0
 
@@ -13,7 +13,6 @@
 |------------|-------|------|
 |[subdomains.txt](/data/nplw.nl/subdomains.txt)|2|Alive subdomains|
 |[urls.txt](/data/nplw.nl/urls.txt)|2|Urls|
-|[all_subdomains.txt](/data/nplw.nl/all_subdomains.txt)|2|All found subdomains (history)|
 
 
 ## Statistics
@@ -21,6 +20,7 @@
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[http://nplw.nl](http://nplw.nl)| **A+**| **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET||
-|[http://www.nplw.nl](http://www.nplw.nl)| **A+**| **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET||
+|[https://nplw.nl](https://nplw.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
+|[https://www.nplw.nl](https://www.nplw.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Object moved|
+
 

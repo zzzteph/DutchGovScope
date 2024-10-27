@@ -1,8 +1,5 @@
-https://www.rtlnieuws.nl
-https://rtlnieuws.nl
-https://acc.rtlnieuws.nl
 https://acc-beta.rtlnieuws.nl
+https://acc.rtlnieuws.nl
+https://rtlnieuws.nl
 https://sso.rtlnieuws.nl
-http://cookies.rtlnieuws.nl
-https://dev-beta.rtlnieuws.nl
-https://prod.rtlnieuws.nl
+https://www.rtlnieuws.nl

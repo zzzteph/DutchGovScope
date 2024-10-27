@@ -2,11 +2,3 @@ prolander.nl
 www.prolander.nl
 portaal.prolander.nl
 gis.prolander.nl
-lyncdiscover.prolander.nl
-sip.prolander.nl
-autodiscover.prolander.nl
-enterpriseenrollment.prolander.nl
-enterpriseregistration.prolander.nl
-localhost.prolander.nl
-p8.prolander.nl
-p8-acceptatie.prolander.nl

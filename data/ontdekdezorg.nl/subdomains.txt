@@ -1,9 +1,7 @@
-mail.ontdekdezorg.nl
-postergenerator.ontdekdezorg.nl
-staging.ontdekdezorg.nl
 toolkit.ontdekdezorg.nl
-web01.ontdekdezorg.nl
 www.ontdekdezorg.nl
 ontdekdezorg.nl
-web02.ontdekdezorg.nl
-db01.ontdekdezorg.nl
+postergenerator.ontdekdezorg.nl
+staging.ontdekdezorg.nl
+mail.ontdekdezorg.nl
+web01.ontdekdezorg.nl

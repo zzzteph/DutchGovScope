@@ -1,6 +1,5 @@
+allesoversport.nl
 auteurs.allesoversport.nl
-repo.allesoversport.nl
 sportakkoord.allesoversport.nl
 www.allesoversport.nl
-allesoversport.nl
-localhost.allesoversport.nl
+repo.allesoversport.nl

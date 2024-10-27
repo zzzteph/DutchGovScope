@@ -1,3 +1,2 @@
-kennisbank.helpdeskwater.nl
-www.helpdeskwater.nl
 helpdeskwater.nl
+kennisbank.helpdeskwater.nl

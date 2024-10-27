@@ -1,10 +1,2 @@
-www.codexalimentarius.nl
 codexalimentarius.nl
-opendata.codexalimentarius.nl
-feeds.codexalimentarius.nl
-a-feeds.codexalimentarius.nl
-a-opendata.codexalimentarius.nl
-a-www.codexalimentarius.nl
-i-www.codexalimentarius.nl
-o-www.codexalimentarius.nl
-t-www.codexalimentarius.nl
+www.codexalimentarius.nl

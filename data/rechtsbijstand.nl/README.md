@@ -4,16 +4,15 @@
 ## Summary data
 
 
- - **SSL Grade**:A
+ - **SSL Grade**:
  - **HTTP Security Grade**:A
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:2
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/rechtsbijstand.nl/subdomains.txt)|3|Alive subdomains|
-|[urls.txt](/data/rechtsbijstand.nl/urls.txt)|3|Urls|
-|[all_subdomains.txt](/data/rechtsbijstand.nl/all_subdomains.txt)|5|All found subdomains (history)|
+|[subdomains.txt](/data/rechtsbijstand.nl/subdomains.txt)|2|Alive subdomains|
+|[urls.txt](/data/rechtsbijstand.nl/urls.txt)|2|Urls|
 
 
 ## Statistics
@@ -21,7 +20,7 @@
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://www.rechtsbijstand.nl](https://www.rechtsbijstand.nl)| **A**| **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:-|Gesubsidieerde r...|
-|[https://rechtsbijstand.nl](https://rechtsbijstand.nl)| **A**| **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:-|Object moved|
-|[http://autodiscover.rechtsbijstand.nl](http://autodiscover.rechtsbijstand.nl)| | **C**|Microsoft-IIS/10.0| |:white_check_mark: | | | | | | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server||
+|[https://rechtsbijstand.nl](https://rechtsbijstand.nl)| | **A**|-|:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:-|Object moved|
+|[https://www.rechtsbijstand.nl](https://www.rechtsbijstand.nl)| | **A**|cloudflare|:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Cloudflare Cloudflare Bot Management HSTS Microsoft ASP.NET:-|Gesubsidieerde r...|
+
 

@@ -3,13 +3,11 @@ layout: default
 title: "aaninhetdonker.nl"
 permalink: "/dutchgov/aaninhetdonker.nl.html"
 subdomains_count: 3
-all_subdomains_count: 3
 urls_count: 3
-ssl_rank: B-
+ssl_rank: 
 http_rank: C
 security_txt: 2
 url_link: /data/aaninhetdonker.nl/urls.txt
-all_subdomains_link: /data/aaninhetdonker.nl/all_subdomains.txt
 subdomains_link: /data/aaninhetdonker.nl/subdomains.txt
 categories: dutchgov
 tags: dutchgov
@@ -20,7 +18,7 @@ tags: dutchgov
 ## Summary data
 
 
- - **SSL Grade**:B-
+ - **SSL Grade**:
  - **HTTP Security Grade**:C
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:2
 
@@ -29,7 +27,6 @@ tags: dutchgov
 |------------|-------|------|
 |[subdomains.txt](/DutchGovScope/data/aaninhetdonker.nl/subdomains.txt)|3|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/aaninhetdonker.nl/urls.txt)|3|Urls|
-|[all_subdomains.txt](/DutchGovScope/data/aaninhetdonker.nl/all_subdomains.txt)|3|All found subdomains (history)|
 
 
 ## Statistics
@@ -37,7 +34,8 @@ tags: dutchgov
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://www.aaninhetdonker.nl](https://www.aaninhetdonker.nl)| **A+**| **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
-|[https://web01.aaninhetdonker.nl](https://web01.aaninhetdonker.nl)| **F**| **F**|nginx| | | | | | | | :white_check_mark: | |Nginx||
-|[https://aaninhetdonker.nl](https://aaninhetdonker.nl)| **A+**| **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|Maak je eigen AA...|
+|[https://aaninhetdonker.nl](https://aaninhetdonker.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|Maak je eigen AA...|
+|[https://web01.aaninhetdonker.nl](https://web01.aaninhetdonker.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx||
+|[https://www.aaninhetdonker.nl](https://www.aaninhetdonker.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
+
 

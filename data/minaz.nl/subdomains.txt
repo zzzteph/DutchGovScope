@@ -1,14 +1,5 @@
+minaz.nl
+www.minaz.nl
 portal.minaz.nl
 portal2.minaz.nl
 portal3.minaz.nl
-www.minaz.nl
-minaz.nl
-accazbb.minaz.nl
-accrin.minaz.nl
-mail.minaz.nl
-mailcluster.minaz.nl
-pazbb.minaz.nl
-sharefile.minaz.nl
-rin.minaz.nl
-gateway.minaz.nl
-emailcluster.minaz.nl

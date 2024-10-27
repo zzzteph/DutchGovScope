@@ -1,3 +1,2 @@
-www.rechtsbijstand.nl
 rechtsbijstand.nl
-autodiscover.rechtsbijstand.nl
+www.rechtsbijstand.nl

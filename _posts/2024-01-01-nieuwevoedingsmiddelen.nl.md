@@ -2,14 +2,12 @@
 layout: default
 title: "nieuwevoedingsmiddelen.nl"
 permalink: "/dutchgov/nieuwevoedingsmiddelen.nl.html"
-subdomains_count: 2
-all_subdomains_count: 2
-urls_count: 2
+subdomains_count: 0
+urls_count: 0
 ssl_rank: 
-http_rank: A
-security_txt: 2
+http_rank: F
+security_txt: 0
 url_link: /data/nieuwevoedingsmiddelen.nl/urls.txt
-all_subdomains_link: /data/nieuwevoedingsmiddelen.nl/all_subdomains.txt
 subdomains_link: /data/nieuwevoedingsmiddelen.nl/subdomains.txt
 categories: dutchgov
 tags: dutchgov
@@ -21,15 +19,14 @@ tags: dutchgov
 
 
  - **SSL Grade**:
- - **HTTP Security Grade**:A
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:2
+ - **HTTP Security Grade**:F
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:0
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/nieuwevoedingsmiddelen.nl/subdomains.txt)|2|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/nieuwevoedingsmiddelen.nl/urls.txt)|2|Urls|
-|[all_subdomains.txt](/DutchGovScope/data/nieuwevoedingsmiddelen.nl/all_subdomains.txt)|2|All found subdomains (history)|
+|[subdomains.txt](/DutchGovScope/data/nieuwevoedingsmiddelen.nl/subdomains.txt)|0|Alive subdomains|
+|[urls.txt](/DutchGovScope/data/nieuwevoedingsmiddelen.nl/urls.txt)|0|Urls|
 
 
 ## Statistics
@@ -37,6 +34,5 @@ tags: dutchgov
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://nieuwevoedingsmiddelen.nl](https://nieuwevoedingsmiddelen.nl)| | **A**|Microsoft-IIS/10.0| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS IIS:10.0 Windows Server|Document Moved|
-|[https://www.nieuwevoedingsmiddelen.nl](https://www.nieuwevoedingsmiddelen.nl)| | **A**|Microsoft-IIS/10.0| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS IIS:10.0 Windows Server|Document Moved|
+
 

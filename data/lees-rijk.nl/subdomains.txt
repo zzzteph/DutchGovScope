@@ -1,6 +1,5 @@
-acc.lees-rijk.nl
-producten.lees-rijk.nl
-www.lees-rijk.nl
 www.acc.lees-rijk.nl
+acc.lees-rijk.nl
+www.lees-rijk.nl
 lees-rijk.nl
-betaversie.lees-rijk.nl
+producten.lees-rijk.nl

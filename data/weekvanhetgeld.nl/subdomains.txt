@@ -1,5 +1,3 @@
 nieuwsbrief.weekvanhetgeld.nl
-www.weekvanhetgeld.nl
 weekvanhetgeld.nl
-mail.weekvanhetgeld.nl
-webmail.weekvanhetgeld.nl
+www.weekvanhetgeld.nl

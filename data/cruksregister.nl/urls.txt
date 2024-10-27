@@ -1,8 +1,0 @@
-https://www.cruksregister.nl
-https://cruksregister.nl
-https://test.cruksregister.nl
-https://acc.cruksregister.nl
-https://grafana.cruksregister.nl
-https://jaeger.cruksregister.nl
-https://pingdom.cruksregister.nl
-http://testing.cruksregister.nl

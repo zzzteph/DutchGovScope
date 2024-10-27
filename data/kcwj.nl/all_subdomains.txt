@@ -1,7 +1,0 @@
-www.kcwj.nl
-kcwj.nl
-www-acc.kcwj.nl
-beta-acc.kcwj.nl
-chat.kcwj.nl
-www.chat.kcwj.nl
-localhost.kcwj.nl

@@ -1,5 +1,5 @@
 acc.jonglereneten.nl
 test.jonglereneten.nl
-www.jonglereneten.nl
 jonglereneten.nl
+www.jonglereneten.nl
 prod.jonglereneten.nl

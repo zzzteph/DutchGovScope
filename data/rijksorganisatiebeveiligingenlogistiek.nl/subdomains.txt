@@ -1,8 +1,5 @@
+opendata.rijksorganisatiebeveiligingenlogistiek.nl
 rijksorganisatiebeveiligingenlogistiek.nl
 www.rijksorganisatiebeveiligingenlogistiek.nl
 feeds.rijksorganisatiebeveiligingenlogistiek.nl
-opendata.rijksorganisatiebeveiligingenlogistiek.nl
 informatie.rijksorganisatiebeveiligingenlogistiek.nl
-a-feeds.rijksorganisatiebeveiligingenlogistiek.nl
-a-opendata.rijksorganisatiebeveiligingenlogistiek.nl
-a-www.rijksorganisatiebeveiligingenlogistiek.nl

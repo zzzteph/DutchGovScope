@@ -1,7 +1,4 @@
+adviescommissieweigerendeobservandi.nl
 feeds.adviescommissieweigerendeobservandi.nl
 opendata.adviescommissieweigerendeobservandi.nl
 www.adviescommissieweigerendeobservandi.nl
-adviescommissieweigerendeobservandi.nl
-a-feeds.adviescommissieweigerendeobservandi.nl
-a-opendata.adviescommissieweigerendeobservandi.nl
-a-www.adviescommissieweigerendeobservandi.nl

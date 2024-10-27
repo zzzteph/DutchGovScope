@@ -13,7 +13,6 @@
 |------------|-------|------|
 |[subdomains.txt](/data/aanpakpiekbelasting.nl/subdomains.txt)|2|Alive subdomains|
 |[urls.txt](/data/aanpakpiekbelasting.nl/urls.txt)|2|Urls|
-|[all_subdomains.txt](/data/aanpakpiekbelasting.nl/all_subdomains.txt)|2|All found subdomains (history)|
 
 
 ## Statistics
@@ -23,4 +22,5 @@
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[https://aanpakpiekbelasting.nl](https://aanpakpiekbelasting.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |||
 |[https://www.aanpakpiekbelasting.nl](https://www.aanpakpiekbelasting.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |||
+
 

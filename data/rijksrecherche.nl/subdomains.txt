@@ -1,13 +1,8 @@
-feeds.rijksrecherche.nl
+meet.rijksrecherche.nl
+dialin.rijksrecherche.nl
+lyncdiscover.rijksrecherche.nl
 opendata.rijksrecherche.nl
 rijksrecherche.nl
 www.rijksrecherche.nl
-dialin.rijksrecherche.nl
-lyncdiscover.rijksrecherche.nl
-meet.rijksrecherche.nl
+feeds.rijksrecherche.nl
 sip.rijksrecherche.nl
-a-feeds.rijksrecherche.nl
-a-opendata.rijksrecherche.nl
-a-www.rijksrecherche.nl
-access.rijksrecherche.nl
-conf.rijksrecherche.nl

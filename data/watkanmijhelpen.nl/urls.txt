@@ -1,4 +1,2 @@
-https://feeds.watkanmijhelpen.nl
-https://opendata.watkanmijhelpen.nl
-https://www.watkanmijhelpen.nl
 https://watkanmijhelpen.nl
+https://www.watkanmijhelpen.nl

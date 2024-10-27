@@ -1,7 +1,4 @@
-feeds.dutchrapporteur.nl
-opendata.dutchrapporteur.nl
-www.dutchrapporteur.nl
 dutchrapporteur.nl
-a-opendata.dutchrapporteur.nl
-a-www.dutchrapporteur.nl
-a-feeds.dutchrapporteur.nl
+feeds.dutchrapporteur.nl
+www.dutchrapporteur.nl
+opendata.dutchrapporteur.nl

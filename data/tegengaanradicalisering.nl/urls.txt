@@ -1,4 +1,3 @@
-https://feeds.tegengaanradicalisering.nl
-https://opendata.tegengaanradicalisering.nl
 https://www.tegengaanradicalisering.nl
+https://feeds.tegengaanradicalisering.nl
 https://tegengaanradicalisering.nl

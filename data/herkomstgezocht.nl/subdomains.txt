@@ -1,7 +1,3 @@
 herkomstgezocht.nl
 www.herkomstgezocht.nl
 feeds.herkomstgezocht.nl
-opendata.herkomstgezocht.nl
-a-feeds.herkomstgezocht.nl
-a-www.herkomstgezocht.nl
-a-opendata.herkomstgezocht.nl

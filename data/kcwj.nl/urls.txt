@@ -1,3 +1,2 @@
-https://www.kcwj.nl
 https://kcwj.nl
-http://localhost.kcwj.nl
+https://www.kcwj.nl

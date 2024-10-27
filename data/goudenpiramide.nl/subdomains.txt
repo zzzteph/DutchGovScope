@@ -1,7 +1,4 @@
-opendata.goudenpiramide.nl
 feeds.goudenpiramide.nl
-www.goudenpiramide.nl
 goudenpiramide.nl
-a-feeds.goudenpiramide.nl
-a-opendata.goudenpiramide.nl
-a-www.goudenpiramide.nl
+opendata.goudenpiramide.nl
+www.goudenpiramide.nl

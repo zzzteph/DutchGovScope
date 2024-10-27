@@ -3,13 +3,11 @@ layout: default
 title: "beeldkompas.nl"
 permalink: "/dutchgov/beeldkompas.nl.html"
 subdomains_count: 4
-all_subdomains_count: 5
 urls_count: 4
-ssl_rank: A
+ssl_rank: 
 http_rank: B
 security_txt: 3
 url_link: /data/beeldkompas.nl/urls.txt
-all_subdomains_link: /data/beeldkompas.nl/all_subdomains.txt
 subdomains_link: /data/beeldkompas.nl/subdomains.txt
 categories: dutchgov
 tags: dutchgov
@@ -20,7 +18,7 @@ tags: dutchgov
 ## Summary data
 
 
- - **SSL Grade**:A
+ - **SSL Grade**:
  - **HTTP Security Grade**:B
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:3
 
@@ -29,7 +27,6 @@ tags: dutchgov
 |------------|-------|------|
 |[subdomains.txt](/DutchGovScope/data/beeldkompas.nl/subdomains.txt)|4|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/beeldkompas.nl/urls.txt)|4|Urls|
-|[all_subdomains.txt](/DutchGovScope/data/beeldkompas.nl/all_subdomains.txt)|5|All found subdomains (history)|
 
 
 ## Statistics
@@ -39,6 +36,7 @@ tags: dutchgov
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[https://accept.beeldkompas.nl](https://accept.beeldkompas.nl)| | **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Nginx Plesk|Beeldkompas|
 |[https://cms.beeldkompas.nl](https://cms.beeldkompas.nl)| | **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS MySQL Nginx PHP:7.2.34 WordPress||
-|[https://www.beeldkompas.nl](https://www.beeldkompas.nl)| **A**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS Nginx Plesk|Beeldkompas|
-|[https://beeldkompas.nl](https://beeldkompas.nl)| **A**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS Nginx Plesk|301 Moved Perman...|
+|[https://beeldkompas.nl](https://beeldkompas.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS Nginx Plesk|301 Moved Perman...|
+|[https://www.beeldkompas.nl](https://www.beeldkompas.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS Nginx Plesk|Beeldkompas|
+
 

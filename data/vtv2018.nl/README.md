@@ -4,7 +4,7 @@
 ## Summary data
 
 
- - **SSL Grade**:A+
+ - **SSL Grade**:
  - **HTTP Security Grade**:C
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:2
 
@@ -13,7 +13,6 @@
 |------------|-------|------|
 |[subdomains.txt](/data/vtv2018.nl/subdomains.txt)|4|Alive subdomains|
 |[urls.txt](/data/vtv2018.nl/urls.txt)|4|Urls|
-|[all_subdomains.txt](/data/vtv2018.nl/all_subdomains.txt)|5|All found subdomains (history)|
 
 
 ## Statistics
@@ -22,7 +21,8 @@
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[http://acceptatie.vtv2018.nl](http://acceptatie.vtv2018.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
+|[https://vtv2018.nl](https://vtv2018.nl)| | **A**|Apache/2.4.37 (Red Hat Enterprise Linux)| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server:2.4.37 HSTS Red Hat|301 Moved Perman...|
+|[https://www.vtv2018.nl](https://www.vtv2018.nl)| | **A**|Apache/2.4.37 (Red Hat Enterprise Linux)| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server:2.4.37 Drupal HSTS PHP:8.1.29 Red Hat|Een gezond vooru...|
 |[http://test.vtv2018.nl](http://test.vtv2018.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
-|[https://www.vtv2018.nl](https://www.vtv2018.nl)| **A+**| **A**|Apache/2.4.37 (Red Hat Enterprise Linux)| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server:2.4.37 Drupal HSTS PHP:8.1.29 Red Hat|Een gezond vooru...|
-|[https://vtv2018.nl](https://vtv2018.nl)| **A+**| **A**|Apache/2.4.37 (Red Hat Enterprise Linux)| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server:2.4.37 HSTS Red Hat|301 Moved Perman...|
+
 

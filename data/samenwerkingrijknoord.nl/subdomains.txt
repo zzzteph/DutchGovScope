@@ -2,6 +2,3 @@ feeds.samenwerkingrijknoord.nl
 opendata.samenwerkingrijknoord.nl
 samenwerkingrijknoord.nl
 www.samenwerkingrijknoord.nl
-a-feeds.samenwerkingrijknoord.nl
-a-opendata.samenwerkingrijknoord.nl
-a-www.samenwerkingrijknoord.nl

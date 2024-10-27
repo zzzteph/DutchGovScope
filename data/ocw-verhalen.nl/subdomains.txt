@@ -1,7 +1,4 @@
-feeds.ocw-verhalen.nl
-opendata.ocw-verhalen.nl
 www.ocw-verhalen.nl
+feeds.ocw-verhalen.nl
 ocw-verhalen.nl
-a-feeds.ocw-verhalen.nl
-a-opendata.ocw-verhalen.nl
-a-www.ocw-verhalen.nl
+opendata.ocw-verhalen.nl

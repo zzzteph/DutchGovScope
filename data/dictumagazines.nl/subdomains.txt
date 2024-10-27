@@ -1,6 +1,2 @@
-www.dictumagazines.nl
 dictumagazines.nl
-a-www.dictumagazines.nl
-i-www.dictumagazines.nl
-o-www.dictumagazines.nl
-t-www.dictumagazines.nl
+www.dictumagazines.nl

@@ -1,8 +1,7 @@
-http://acceptatie.loketgezondleven.nl
+https://www.loketgezondleven.nl
 https://interventies.loketgezondleven.nl
+https://loketgezondleven.nl
+https://toolkits.loketgezondleven.nl
+http://acceptatie.loketgezondleven.nl
 https://prerelease.loketgezondleven.nl
 http://test.loketgezondleven.nl
-https://toolkits.loketgezondleven.nl
-https://www.loketgezondleven.nl
-https://loketgezondleven.nl
-http://localhost.loketgezondleven.nl

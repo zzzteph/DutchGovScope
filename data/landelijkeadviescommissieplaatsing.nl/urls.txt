@@ -1,4 +1,4 @@
-https://feeds.landelijkeadviescommissieplaatsing.nl
+https://landelijkeadviescommissieplaatsing.nl
 https://opendata.landelijkeadviescommissieplaatsing.nl
 https://www.landelijkeadviescommissieplaatsing.nl
-https://landelijkeadviescommissieplaatsing.nl
+https://feeds.landelijkeadviescommissieplaatsing.nl

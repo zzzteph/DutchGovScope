@@ -1,11 +1,3 @@
-www.investeringsimpulsspv.nl
-mail.investeringsimpulsspv.nl
-investeringsimpulsspv.nl
-ftp.investeringsimpulsspv.nl
-pop.investeringsimpulsspv.nl
-smtp.investeringsimpulsspv.nl
 feeds.investeringsimpulsspv.nl
 opendata.investeringsimpulsspv.nl
-a-feeds.investeringsimpulsspv.nl
-a-opendata.investeringsimpulsspv.nl
-a-www.investeringsimpulsspv.nl
+www.investeringsimpulsspv.nl

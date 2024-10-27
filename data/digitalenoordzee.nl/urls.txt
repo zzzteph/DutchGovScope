@@ -2,7 +2,6 @@ https://digitalenoordzee.nl
 https://feeds.digitalenoordzee.nl
 https://opendata.digitalenoordzee.nl
 https://www.digitalenoordzee.nl
-http://events.digitalenoordzee.nl
 http://api.digitalenoordzee.nl
 http://metrics.digitalenoordzee.nl
 https://spx-oec.digitalenoordzee.nl

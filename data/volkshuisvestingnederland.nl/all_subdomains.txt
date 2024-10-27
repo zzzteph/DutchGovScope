@@ -1,8 +1,0 @@
-feeds.volkshuisvestingnederland.nl
-opendata.volkshuisvestingnederland.nl
-volkshuisvestingnederland.nl
-www.volkshuisvestingnederland.nl
-magazines.volkshuisvestingnederland.nl
-a-feeds.volkshuisvestingnederland.nl
-a-opendata.volkshuisvestingnederland.nl
-a-www.volkshuisvestingnederland.nl

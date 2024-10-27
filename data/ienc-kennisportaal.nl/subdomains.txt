@@ -1,7 +1,3 @@
-gc.ienc-kennisportaal.nl
-www.ienc-kennisportaal.nl
 ienc-kennisportaal.nl
-mail.ienc-kennisportaal.nl
-ftp.ienc-kennisportaal.nl
-pop.ienc-kennisportaal.nl
-autodiscover.ienc-kennisportaal.nl
+www.ienc-kennisportaal.nl
+gc.ienc-kennisportaal.nl

@@ -3,13 +3,11 @@ layout: default
 title: "mirttrajecten.nl"
 permalink: "/dutchgov/mirttrajecten.nl.html"
 subdomains_count: 2
-all_subdomains_count: 7
 urls_count: 2
 ssl_rank: 
 http_rank: A
 security_txt: 2
 url_link: /data/mirttrajecten.nl/urls.txt
-all_subdomains_link: /data/mirttrajecten.nl/all_subdomains.txt
 subdomains_link: /data/mirttrajecten.nl/subdomains.txt
 categories: dutchgov
 tags: dutchgov
@@ -29,7 +27,6 @@ tags: dutchgov
 |------------|-------|------|
 |[subdomains.txt](/DutchGovScope/data/mirttrajecten.nl/subdomains.txt)|2|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/mirttrajecten.nl/urls.txt)|2|Urls|
-|[all_subdomains.txt](/DutchGovScope/data/mirttrajecten.nl/all_subdomains.txt)|7|All found subdomains (history)|
 
 
 ## Statistics
@@ -39,4 +36,5 @@ tags: dutchgov
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[https://www.mirttrajecten.nl](https://www.mirttrajecten.nl)| | **A**|Microsoft-IIS/10.0| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS IIS:10.0 Windows Server|Document Moved|
 |[https://mirttrajecten.nl](https://mirttrajecten.nl)| | **A**|Microsoft-IIS/10.0| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS IIS:10.0 Windows Server|Document Moved|
+
 

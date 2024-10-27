@@ -1,8 +1,5 @@
 feeds.kansrijkestartnl.nl
-menukaart.kansrijkestartnl.nl
+kansrijkestartnl.nl
 opendata.kansrijkestartnl.nl
 www.kansrijkestartnl.nl
-kansrijkestartnl.nl
-a-feeds.kansrijkestartnl.nl
-a-www.kansrijkestartnl.nl
-a-opendata.kansrijkestartnl.nl
+menukaart.kansrijkestartnl.nl

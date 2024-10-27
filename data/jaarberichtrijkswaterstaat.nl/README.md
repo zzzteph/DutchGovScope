@@ -13,7 +13,6 @@
 |------------|-------|------|
 |[subdomains.txt](/data/jaarberichtrijkswaterstaat.nl/subdomains.txt)|0|Alive subdomains|
 |[urls.txt](/data/jaarberichtrijkswaterstaat.nl/urls.txt)|0|Urls|
-|[all_subdomains.txt](/data/jaarberichtrijkswaterstaat.nl/all_subdomains.txt)|7|All found subdomains (history)|
 
 
 ## Statistics
@@ -21,4 +20,5 @@
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
+
 

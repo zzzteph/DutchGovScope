@@ -1,7 +1,4 @@
 feeds.gobiernudireino.nl
+gobiernudireino.nl
 opendata.gobiernudireino.nl
 www.gobiernudireino.nl
-gobiernudireino.nl
-a-www.gobiernudireino.nl
-a-feeds.gobiernudireino.nl
-a-opendata.gobiernudireino.nl

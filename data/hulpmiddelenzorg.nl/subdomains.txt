@@ -1,3 +1,2 @@
-www.hulpmiddelenzorg.nl
 hulpmiddelenzorg.nl
-autodiscover.hulpmiddelenzorg.nl
+www.hulpmiddelenzorg.nl

@@ -2,14 +2,12 @@
 layout: default
 title: "opwegmetwaterstof.nl"
 permalink: "/dutchgov/opwegmetwaterstof.nl.html"
-subdomains_count: 5
-all_subdomains_count: 5
-urls_count: 4
-ssl_rank: A
+subdomains_count: 2
+urls_count: 2
+ssl_rank: 
 http_rank: F
 security_txt: 0
 url_link: /data/opwegmetwaterstof.nl/urls.txt
-all_subdomains_link: /data/opwegmetwaterstof.nl/all_subdomains.txt
 subdomains_link: /data/opwegmetwaterstof.nl/subdomains.txt
 categories: dutchgov
 tags: dutchgov
@@ -20,16 +18,15 @@ tags: dutchgov
 ## Summary data
 
 
- - **SSL Grade**:A
+ - **SSL Grade**:
  - **HTTP Security Grade**:F
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:0
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/opwegmetwaterstof.nl/subdomains.txt)|5|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/opwegmetwaterstof.nl/urls.txt)|4|Urls|
-|[all_subdomains.txt](/DutchGovScope/data/opwegmetwaterstof.nl/all_subdomains.txt)|5|All found subdomains (history)|
+|[subdomains.txt](/DutchGovScope/data/opwegmetwaterstof.nl/subdomains.txt)|2|Alive subdomains|
+|[urls.txt](/DutchGovScope/data/opwegmetwaterstof.nl/urls.txt)|2|Urls|
 
 
 ## Statistics
@@ -37,8 +34,7 @@ tags: dutchgov
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://www.opwegmetwaterstof.nl](https://www.opwegmetwaterstof.nl)| **A**| **F**|Apache/2| | | | | | | | :white_check_mark: | |Apache HTTP Server:2|403 Forbidden|
-|[https://opwegmetwaterstof.nl](https://opwegmetwaterstof.nl)| **A**| **F**|Apache/2| | | | | | | | :white_check_mark: | |Apache HTTP Server:2|403 Forbidden|
-|[https://email.mg.opwegmetwaterstof.nl](https://email.mg.opwegmetwaterstof.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
-|[https://email.opwegmetwaterstof.nl](https://email.opwegmetwaterstof.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
+|[https://opwegmetwaterstof.nl](https://opwegmetwaterstof.nl)| | **F**|Apache/2| | | | | | | | :white_check_mark: | |Apache HTTP Server:2|403 Forbidden|
+|[https://www.opwegmetwaterstof.nl](https://www.opwegmetwaterstof.nl)| | **F**|Apache/2| | | | | | | | :white_check_mark: | |Apache HTTP Server:2|403 Forbidden|
+
 

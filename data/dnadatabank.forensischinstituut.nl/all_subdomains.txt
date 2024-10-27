@@ -1,9 +1,0 @@
-dnadatabank.forensischinstituut.nl
-feeds.dnadatabank.forensischinstituut.nl
-opendata.dnadatabank.forensischinstituut.nl
-magazines.dnadatabank.forensischinstituut.nl
-magazinesintern.dnadatabank.forensischinstituut.nl
-english.dnadatabank.forensischinstituut.nl
-feeds.english.dnadatabank.forensischinstituut.nl
-opendata.english.dnadatabank.forensischinstituut.nl
-www.dnadatabank.forensischinstituut.nl

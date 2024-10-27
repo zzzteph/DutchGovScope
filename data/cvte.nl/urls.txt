@@ -1,8 +1,8 @@
-https://examenplein.cvte.nl
-https://feeds.cvte.nl
+https://autodiscover.cvte.nl
 https://mx2.cvte.nl
+https://cvte.nl
+https://feeds.cvte.nl
 https://opendata.cvte.nl
 https://www.cvte.nl
-https://cvte.nl
-https://autodiscover.cvte.nl
+https://examenplein.cvte.nl
 https://wg.cvte.nl

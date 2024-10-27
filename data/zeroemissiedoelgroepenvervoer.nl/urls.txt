@@ -1,9 +1,1 @@
-https://www.zeroemissiedoelgroepenvervoer.nl
 https://zeroemissiedoelgroepenvervoer.nl
-https://test.zeroemissiedoelgroepenvervoer.nl
-https://accept.zeroemissiedoelgroepenvervoer.nl
-https://www.accept.zeroemissiedoelgroepenvervoer.nl
-https://www.test.zeroemissiedoelgroepenvervoer.nl
-https://hostmaster.zeroemissiedoelgroepenvervoer.nl
-http://autodiscover.zeroemissiedoelgroepenvervoer.nl
-http://autoconfig.zeroemissiedoelgroepenvervoer.nl

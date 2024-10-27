@@ -1,7 +1,3 @@
-feeds.tegengaanradicalisering.nl
-opendata.tegengaanradicalisering.nl
 www.tegengaanradicalisering.nl
+feeds.tegengaanradicalisering.nl
 tegengaanradicalisering.nl
-a-feeds.tegengaanradicalisering.nl
-a-opendata.tegengaanradicalisering.nl
-a-www.tegengaanradicalisering.nl

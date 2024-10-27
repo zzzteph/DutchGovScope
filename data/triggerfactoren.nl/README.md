@@ -13,7 +13,6 @@
 |------------|-------|------|
 |[subdomains.txt](/data/triggerfactoren.nl/subdomains.txt)|2|Alive subdomains|
 |[urls.txt](/data/triggerfactoren.nl/urls.txt)|2|Urls|
-|[all_subdomains.txt](/data/triggerfactoren.nl/all_subdomains.txt)|2|All found subdomains (history)|
 
 
 ## Statistics
@@ -23,4 +22,5 @@
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[https://triggerfactoren.nl](https://triggerfactoren.nl)| | **A**|Microsoft-IIS/10.0| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS IIS:10.0 Windows Server|Document Moved|
 |[https://www.triggerfactoren.nl](https://www.triggerfactoren.nl)| | **A**|Microsoft-IIS/10.0| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS IIS:10.0 Windows Server|Document Moved|
+
 

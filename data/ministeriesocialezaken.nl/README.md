@@ -13,7 +13,6 @@
 |------------|-------|------|
 |[subdomains.txt](/data/ministeriesocialezaken.nl/subdomains.txt)|2|Alive subdomains|
 |[urls.txt](/data/ministeriesocialezaken.nl/urls.txt)|2|Urls|
-|[all_subdomains.txt](/data/ministeriesocialezaken.nl/all_subdomains.txt)|2|All found subdomains (history)|
 
 
 ## Statistics
@@ -23,4 +22,5 @@
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[https://ministeriesocialezaken.nl](https://ministeriesocialezaken.nl)| | **A**|Microsoft-IIS/10.0| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS IIS:10.0 Windows Server|Document Moved|
 |[https://www.ministeriesocialezaken.nl](https://www.ministeriesocialezaken.nl)| | **A**|Microsoft-IIS/10.0| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS IIS:10.0 Windows Server|Document Moved|
+
 

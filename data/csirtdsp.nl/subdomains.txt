@@ -1,6 +1,3 @@
-test.csirtdsp.nl
-www.csirtdsp.nl
 csirtdsp.nl
-lyncdiscover.csirtdsp.nl
-sip.csirtdsp.nl
-acc.csirtdsp.nl
+www.csirtdsp.nl
+test.csirtdsp.nl

@@ -4,7 +4,7 @@
 ## Summary data
 
 
- - **SSL Grade**:A+
+ - **SSL Grade**:
  - **HTTP Security Grade**:A
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:2
 
@@ -13,7 +13,6 @@
 |------------|-------|------|
 |[subdomains.txt](/data/agendaijsselmeergebied2050.nl/subdomains.txt)|2|Alive subdomains|
 |[urls.txt](/data/agendaijsselmeergebied2050.nl/urls.txt)|2|Urls|
-|[all_subdomains.txt](/data/agendaijsselmeergebied2050.nl/all_subdomains.txt)|21|All found subdomains (history)|
 
 
 ## Statistics
@@ -21,6 +20,7 @@
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://www.agendaijsselmeergebied2050.nl](https://www.agendaijsselmeergebied2050.nl)| **A+**| **A**|Microsoft-IIS/10.0|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS IIS:10.0 Windows Server|Document Moved|
-|[https://agendaijsselmeergebied2050.nl](https://agendaijsselmeergebied2050.nl)| **A+**| **A**|Microsoft-IIS/10.0|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS IIS:10.0 Windows Server|Document Moved|
+|[https://agendaijsselmeergebied2050.nl](https://agendaijsselmeergebied2050.nl)| | **A**|Microsoft-IIS/10.0|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS IIS:10.0 Windows Server|Document Moved|
+|[https://www.agendaijsselmeergebied2050.nl](https://www.agendaijsselmeergebied2050.nl)| | **A**|Microsoft-IIS/10.0|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS IIS:10.0 Windows Server|Document Moved|
+
 

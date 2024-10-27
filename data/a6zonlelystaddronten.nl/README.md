@@ -13,7 +13,6 @@
 |------------|-------|------|
 |[subdomains.txt](/data/a6zonlelystaddronten.nl/subdomains.txt)|2|Alive subdomains|
 |[urls.txt](/data/a6zonlelystaddronten.nl/urls.txt)|2|Urls|
-|[all_subdomains.txt](/data/a6zonlelystaddronten.nl/all_subdomains.txt)|2|All found subdomains (history)|
 
 
 ## Statistics
@@ -21,6 +20,7 @@
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[http://www.a6zonlelystaddronten.nl](http://www.a6zonlelystaddronten.nl)| **F**| **E**|| | | | | | | | :white_check_mark: | |||
-|[http://a6zonlelystaddronten.nl](http://a6zonlelystaddronten.nl)| **F**| **E**|| | | | | | | | :white_check_mark: | |||
+|[https://a6zonlelystaddronten.nl](https://a6zonlelystaddronten.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Object moved|
+|[https://www.a6zonlelystaddronten.nl](https://www.a6zonlelystaddronten.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Object moved|
+
 

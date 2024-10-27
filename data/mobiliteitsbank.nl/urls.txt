@@ -1,12 +1,11 @@
-https://api.mobiliteitsbank.nl
+https://mobiliteitsbank.nl
+https://www.mobiliteitsbank.nl
 https://csoacct.mobiliteitsbank.nl
 https://csotest.mobiliteitsbank.nl
+https://sandbox.mobiliteitsbank.nl
+https://api.mobiliteitsbank.nl
 https://odc.mobiliteitsbank.nl
 https://test.mobiliteitsbank.nl
 https://vacaturezoekservice.mobiliteitsbank.nl
 https://vacaturezoekservice-acceptatie.mobiliteitsbank.nl
 http://vacaturezoekservice-test.mobiliteitsbank.nl
-https://www.mobiliteitsbank.nl
-https://mobiliteitsbank.nl
-https://sandbox.mobiliteitsbank.nl
-https://acceptatie.mobiliteitsbank.nl

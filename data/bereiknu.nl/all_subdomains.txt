@@ -1,7 +1,0 @@
-www.bereiknu.nl
-bereiknu.nl
-intranet.bereiknu.nl
-test.bereiknu.nl
-www.intranet.bereiknu.nl
-ftp.bereiknu.nl
-mail.bereiknu.nl

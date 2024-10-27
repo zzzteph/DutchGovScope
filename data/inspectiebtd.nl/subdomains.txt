@@ -1,7 +1,4 @@
-feeds.inspectiebtd.nl
 inspectiebtd.nl
-opendata.inspectiebtd.nl
 www.inspectiebtd.nl
-a-feeds.inspectiebtd.nl
-a-opendata.inspectiebtd.nl
-a-www.inspectiebtd.nl
+feeds.inspectiebtd.nl
+opendata.inspectiebtd.nl

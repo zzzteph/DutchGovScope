@@ -2,14 +2,12 @@
 layout: default
 title: "uwbeslagvrijevoet.nl"
 permalink: "/dutchgov/uwbeslagvrijevoet.nl.html"
-subdomains_count: 8
-all_subdomains_count: 8
+subdomains_count: 5
 urls_count: 5
-ssl_rank: A+
+ssl_rank: 
 http_rank: A
 security_txt: 5
 url_link: /data/uwbeslagvrijevoet.nl/urls.txt
-all_subdomains_link: /data/uwbeslagvrijevoet.nl/all_subdomains.txt
 subdomains_link: /data/uwbeslagvrijevoet.nl/subdomains.txt
 categories: dutchgov
 tags: dutchgov
@@ -20,16 +18,15 @@ tags: dutchgov
 ## Summary data
 
 
- - **SSL Grade**:A+
+ - **SSL Grade**:
  - **HTTP Security Grade**:A
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:5
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/uwbeslagvrijevoet.nl/subdomains.txt)|8|Alive subdomains|
+|[subdomains.txt](/DutchGovScope/data/uwbeslagvrijevoet.nl/subdomains.txt)|5|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/uwbeslagvrijevoet.nl/urls.txt)|5|Urls|
-|[all_subdomains.txt](/DutchGovScope/data/uwbeslagvrijevoet.nl/all_subdomains.txt)|8|All found subdomains (history)|
 
 
 ## Statistics
@@ -37,9 +34,10 @@ tags: dutchgov
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://bereken.uwbeslagvrijevoet.nl](https://bereken.uwbeslagvrijevoet.nl)| **A+**| **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Java Stimulus|Startpagina|
-|[https://feeds.uwbeslagvrijevoet.nl](https://feeds.uwbeslagvrijevoet.nl)| **A+**| **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
-|[https://opendata.uwbeslagvrijevoet.nl](https://opendata.uwbeslagvrijevoet.nl)| **A+**| **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
-|[https://www.uwbeslagvrijevoet.nl](https://www.uwbeslagvrijevoet.nl)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Home | Uw beslag...|
-|[https://uwbeslagvrijevoet.nl](https://uwbeslagvrijevoet.nl)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
+|[https://bereken.uwbeslagvrijevoet.nl](https://bereken.uwbeslagvrijevoet.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Java Stimulus|Startpagina|
+|[https://www.uwbeslagvrijevoet.nl](https://www.uwbeslagvrijevoet.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Home | Uw beslag...|
+|[https://feeds.uwbeslagvrijevoet.nl](https://feeds.uwbeslagvrijevoet.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
+|[https://opendata.uwbeslagvrijevoet.nl](https://opendata.uwbeslagvrijevoet.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
+|[https://uwbeslagvrijevoet.nl](https://uwbeslagvrijevoet.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
+
 

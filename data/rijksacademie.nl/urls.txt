@@ -1,7 +1,6 @@
 https://advies.rijksacademie.nl
 https://helpdesk.rijksacademie.nl
-https://nieuwsbrief.rijksacademie.nl
-https://www.rijksacademie.nl
-https://rijksacademie.nl
 https://infoscherm.rijksacademie.nl
-http://autodiscover.rijksacademie.nl
+https://nieuwsbrief.rijksacademie.nl
+https://rijksacademie.nl
+https://www.rijksacademie.nl

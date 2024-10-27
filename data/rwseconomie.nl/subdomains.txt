@@ -1,7 +1,4 @@
+www.rwseconomie.nl
 feeds.rwseconomie.nl
 opendata.rwseconomie.nl
-www.rwseconomie.nl
 rwseconomie.nl
-a-feeds.rwseconomie.nl
-a-opendata.rwseconomie.nl
-a-www.rwseconomie.nl

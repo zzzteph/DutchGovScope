@@ -1,9 +1,0 @@
-feeds.advisorycouncilinternationalaffairs.nl
-opendata.advisorycouncilinternationalaffairs.nl
-www.advisorycouncilinternationalaffairs.nl
-advisorycouncilinternationalaffairs.nl
-magazinesintern.advisorycouncilinternationalaffairs.nl
-magazines.advisorycouncilinternationalaffairs.nl
-a-feeds.advisorycouncilinternationalaffairs.nl
-a-opendata.advisorycouncilinternationalaffairs.nl
-a-www.advisorycouncilinternationalaffairs.nl

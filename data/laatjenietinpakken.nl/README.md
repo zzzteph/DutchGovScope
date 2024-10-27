@@ -13,7 +13,6 @@
 |------------|-------|------|
 |[subdomains.txt](/data/laatjenietinpakken.nl/subdomains.txt)|2|Alive subdomains|
 |[urls.txt](/data/laatjenietinpakken.nl/urls.txt)|2|Urls|
-|[all_subdomains.txt](/data/laatjenietinpakken.nl/all_subdomains.txt)|2|All found subdomains (history)|
 
 
 ## Statistics
@@ -23,4 +22,5 @@
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[https://laatjenietinpakken.nl](https://laatjenietinpakken.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |||
 |[https://www.laatjenietinpakken.nl](https://www.laatjenietinpakken.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |||
+
 

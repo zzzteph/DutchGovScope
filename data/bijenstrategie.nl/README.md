@@ -13,7 +13,6 @@
 |------------|-------|------|
 |[subdomains.txt](/data/bijenstrategie.nl/subdomains.txt)|2|Alive subdomains|
 |[urls.txt](/data/bijenstrategie.nl/urls.txt)|2|Urls|
-|[all_subdomains.txt](/data/bijenstrategie.nl/all_subdomains.txt)|2|All found subdomains (history)|
 
 
 ## Statistics
@@ -23,4 +22,5 @@
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[https://bijenstrategie.nl](https://bijenstrategie.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |||
 |[https://www.bijenstrategie.nl](https://www.bijenstrategie.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |||
+
 

@@ -13,7 +13,6 @@
 |------------|-------|------|
 |[subdomains.txt](/data/duurzaamheidsroutea35.nl/subdomains.txt)|2|Alive subdomains|
 |[urls.txt](/data/duurzaamheidsroutea35.nl/urls.txt)|2|Urls|
-|[all_subdomains.txt](/data/duurzaamheidsroutea35.nl/all_subdomains.txt)|2|All found subdomains (history)|
 
 
 ## Statistics
@@ -21,6 +20,7 @@
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://www.duurzaamheidsroutea35.nl](https://www.duurzaamheidsroutea35.nl)| **F**| **F**|Microsoft-IIS/10.0| | | | | | | | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server||
-|[https://duurzaamheidsroutea35.nl](https://duurzaamheidsroutea35.nl)| **F**| **F**|Microsoft-IIS/10.0| | | | | | | | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server||
+|[https://www.duurzaamheidsroutea35.nl](https://www.duurzaamheidsroutea35.nl)| | **F**|Microsoft-IIS/10.0| | | | | | | | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server||
+|[https://duurzaamheidsroutea35.nl](https://duurzaamheidsroutea35.nl)| | **F**|Microsoft-IIS/10.0| | | | | | | | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server||
+
 

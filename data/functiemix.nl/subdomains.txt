@@ -1,3 +1,2 @@
-database.functiemix.nl
-www.functiemix.nl
 functiemix.nl
+www.functiemix.nl

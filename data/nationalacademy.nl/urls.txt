@@ -1,4 +1,3 @@
 https://feeds.nationalacademy.nl
-https://opendata.nationalacademy.nl
-https://www.nationalacademy.nl
 https://nationalacademy.nl
+https://opendata.nationalacademy.nl

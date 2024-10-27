@@ -1,17 +1,1 @@
-ftp.eemskrant.nl
-cdn-3.eemskrant.nl
-cdn-7.eemskrant.nl
-cdn-6.eemskrant.nl
-cdn-1.eemskrant.nl
-pop.eemskrant.nl
-www.eemskrant.nl
-archief.eemskrant.nl
-smtp.eemskrant.nl
-cdn-4.eemskrant.nl
-cdn-0.eemskrant.nl
-cdn.eemskrant.nl
 eemskrant.nl
-mail.eemskrant.nl
-cdn-5.eemskrant.nl
-cdn-2.eemskrant.nl
-hostmaster.eemskrant.nl

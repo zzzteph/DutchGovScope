@@ -1,12 +1,5 @@
 adressen.keringhuis.nl
-old.keringhuis.nl
-www.keringhuis.nl
-symposium.keringhuis.nl
-www.symposium.keringhuis.nl
 keringhuis.nl
-admin.keringhuis.nl
-localhost.keringhuis.nl
-pop.keringhuis.nl
-quiz.keringhuis.nl
-autodiscover.keringhuis.nl
-smtpdma.keringhuis.nl
+www.keringhuis.nl
+old.keringhuis.nl
+symposium.keringhuis.nl

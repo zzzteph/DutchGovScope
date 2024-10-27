@@ -13,7 +13,6 @@
 |------------|-------|------|
 |[subdomains.txt](/data/bureauwsnp.nl/subdomains.txt)|2|Alive subdomains|
 |[urls.txt](/data/bureauwsnp.nl/urls.txt)|2|Urls|
-|[all_subdomains.txt](/data/bureauwsnp.nl/all_subdomains.txt)|10|All found subdomains (history)|
 
 
 ## Statistics
@@ -21,6 +20,7 @@
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://bureauwsnp.nl](https://bureauwsnp.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:-|Object moved|
-|[https://www.bureauwsnp.nl](https://www.bureauwsnp.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:-|Home - Raad voor...|
+|[https://bureauwsnp.nl](https://bureauwsnp.nl)| | **A**|-|:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:-|Object moved|
+|[https://www.bureauwsnp.nl](https://www.bureauwsnp.nl)| | **A**|cloudflare|:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Cloudflare Cloudflare Bot Management HSTS Microsoft ASP.NET:-|Home - Raad voor...|
+
 

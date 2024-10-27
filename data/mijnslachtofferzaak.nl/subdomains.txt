@@ -1,7 +1,5 @@
-acc.mijnslachtofferzaak.nl
-ingelogd.mijnslachtofferzaak.nl
-ingelogd.acc.mijnslachtofferzaak.nl
-ingelogd.acc.staging.mijnslachtofferzaak.nl
-ingelogd.staging.mijnslachtofferzaak.nl
-www.mijnslachtofferzaak.nl
 mijnslachtofferzaak.nl
+www.mijnslachtofferzaak.nl
+acc.mijnslachtofferzaak.nl
+ingelogd.acc.mijnslachtofferzaak.nl
+ingelogd.mijnslachtofferzaak.nl

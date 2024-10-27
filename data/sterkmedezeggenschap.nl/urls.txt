@@ -1,5 +1,2 @@
 https://sterkmedezeggenschap.nl
 https://www.sterkmedezeggenschap.nl
-http://autoconfig.sterkmedezeggenschap.nl
-http://autodiscover.sterkmedezeggenschap.nl
-http://ftp.sterkmedezeggenschap.nl

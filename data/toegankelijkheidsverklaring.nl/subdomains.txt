@@ -1,6 +1,6 @@
-acc.toegankelijkheidsverklaring.nl
 acc-dictu.toegankelijkheidsverklaring.nl
-prod-dictu.toegankelijkheidsverklaring.nl
 test-dictu.toegankelijkheidsverklaring.nl
-www.toegankelijkheidsverklaring.nl
+acc.toegankelijkheidsverklaring.nl
+prod-dictu.toegankelijkheidsverklaring.nl
 toegankelijkheidsverklaring.nl
+www.toegankelijkheidsverklaring.nl

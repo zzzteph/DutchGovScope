@@ -13,7 +13,6 @@
 |------------|-------|------|
 |[subdomains.txt](/data/landelijkparket.nl/subdomains.txt)|2|Alive subdomains|
 |[urls.txt](/data/landelijkparket.nl/urls.txt)|2|Urls|
-|[all_subdomains.txt](/data/landelijkparket.nl/all_subdomains.txt)|2|All found subdomains (history)|
 
 
 ## Statistics
@@ -23,4 +22,5 @@
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[https://landelijkparket.nl](https://landelijkparket.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |||
 |[https://www.landelijkparket.nl](https://www.landelijkparket.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |||
+
 

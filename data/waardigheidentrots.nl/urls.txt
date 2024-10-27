@@ -1,9 +1,7 @@
 https://congres.waardigheidentrots.nl
-https://www.waardigheidentrots.nl
-https://portaal.waardigheidentrots.nl
 https://waardigheidentrots.nl
 https://archief.waardigheidentrots.nl
-https://registratie.waardigheidentrots.nl
-https://api.waardigheidentrots.nl
-https://cms.waardigheidentrots.nl
 https://m906.waardigheidentrots.nl
+https://registratie.waardigheidentrots.nl
+https://www.waardigheidentrots.nl
+https://portaal.waardigheidentrots.nl

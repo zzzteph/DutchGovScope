@@ -1,8 +1,5 @@
 acc-dictu.referentiegrootboekschema.nl
-mail.referentiegrootboekschema.nl
-prod-dictu.referentiegrootboekschema.nl
 test-dictu.referentiegrootboekschema.nl
-www.referentiegrootboekschema.nl
+prod-dictu.referentiegrootboekschema.nl
 referentiegrootboekschema.nl
-acceptatie.referentiegrootboekschema.nl
-ftp.referentiegrootboekschema.nl
+www.referentiegrootboekschema.nl

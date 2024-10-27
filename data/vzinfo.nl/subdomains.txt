@@ -1,8 +1,8 @@
-www.vzinfo.nl
-vzinfo.nl
 buurtatlas.vzinfo.nl
-sterftedashboard.vzinfo.nl
+mondgezondheidsdashboard.vzinfo.nl
 nzrdashboard.vzinfo.nl
 sterftedashboard-regionaal.vzinfo.nl
-mondgezondheidsdashboard.vzinfo.nl
+sterftedashboard.vzinfo.nl
+vzinfo.nl
+www.vzinfo.nl
 ziektelast.vzinfo.nl

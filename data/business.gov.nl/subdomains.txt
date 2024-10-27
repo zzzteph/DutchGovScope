@@ -1,13 +1,7 @@
-opendata.business.gov.nl
-search.business.gov.nl
 api.business.gov.nl
 business.gov.nl
-api.acp.business.gov.nl
-opendata.acp.business.gov.nl
-search.acp.business.gov.nl
-static.acp.business.gov.nl
-www.acp.business.gov.nl
-acp.business.gov.nl
+opendata.business.gov.nl
+search.business.gov.nl
 autodiscover.business.gov.nl
 enterpriseenrollment.business.gov.nl
 enterpriseregistration.business.gov.nl

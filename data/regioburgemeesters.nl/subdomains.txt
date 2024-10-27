@@ -1,9 +1,6 @@
-www.regioburgemeesters.nl
-regioburgemeesters.nl
-dialin.regioburgemeesters.nl
 lyncdiscover.regioburgemeesters.nl
 meet.regioburgemeesters.nl
+regioburgemeesters.nl
+www.regioburgemeesters.nl
 sip.regioburgemeesters.nl
-access.regioburgemeesters.nl
-conf.regioburgemeesters.nl
-redactie.regioburgemeesters.nl
+dialin.regioburgemeesters.nl

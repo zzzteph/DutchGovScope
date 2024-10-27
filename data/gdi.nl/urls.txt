@@ -1,3 +1,2 @@
-https://www.gdi.nl
-http://test.webplatform.gdi.nl
 https://gdi.nl
+https://www.gdi.nl

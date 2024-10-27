@@ -1,4 +1,4 @@
-accept.digitaleoverheid.nl
-www.digitaleoverheid.nl
-digitaleoverheid.nl
 test.digitaleoverheid.nl
+accept.digitaleoverheid.nl
+digitaleoverheid.nl
+www.digitaleoverheid.nl

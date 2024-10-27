@@ -4,7 +4,7 @@
 ## Summary data
 
 
- - **SSL Grade**:B-
+ - **SSL Grade**:
  - **HTTP Security Grade**:C
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:2
 
@@ -13,7 +13,6 @@
 |------------|-------|------|
 |[subdomains.txt](/data/e-mjv.nl/subdomains.txt)|3|Alive subdomains|
 |[urls.txt](/data/e-mjv.nl/urls.txt)|3|Urls|
-|[all_subdomains.txt](/data/e-mjv.nl/all_subdomains.txt)|3|All found subdomains (history)|
 
 
 ## Statistics
@@ -21,7 +20,8 @@
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://www.e-mjv.nl](https://www.e-mjv.nl)| **A+**| **A**|Apache| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server Drupal HSTS PHP|e-MJV | e-MJV|
-|[https://e-mjv.nl](https://e-mjv.nl)| **A+**| **A**|Apache| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS|301 Moved Perman...|
-|[https://redactie.e-mjv.nl](https://redactie.e-mjv.nl)| **F**| **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|301 Moved Perman...|
+|[https://e-mjv.nl](https://e-mjv.nl)| | **A**|Apache/2.4.37 (Red Hat Enterprise Linux)| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server:2.4.37 Drupal HSTS PHP Red Hat|e-MJV | e-MJV|
+|[https://redactie.e-mjv.nl](https://redactie.e-mjv.nl)| | **F**|Apache/2.4.37 (Red Hat Enterprise Linux)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.37 Drupal HSTS PHP:8.1.29 Red Hat|Akkoord verbeter...|
+|[https://www.e-mjv.nl](https://www.e-mjv.nl)| | **A**|Apache/2.4.37 (Red Hat Enterprise Linux)| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server:2.4.37 Drupal HSTS PHP Red Hat|e-MJV | e-MJV|
+
 

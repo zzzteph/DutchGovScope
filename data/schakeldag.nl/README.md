@@ -13,7 +13,6 @@
 |------------|-------|------|
 |[subdomains.txt](/data/schakeldag.nl/subdomains.txt)|2|Alive subdomains|
 |[urls.txt](/data/schakeldag.nl/urls.txt)|2|Urls|
-|[all_subdomains.txt](/data/schakeldag.nl/all_subdomains.txt)|2|All found subdomains (history)|
 
 
 ## Statistics
@@ -23,4 +22,5 @@
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[https://schakeldag.nl](https://schakeldag.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:-|Object moved|
 |[https://www.schakeldag.nl](https://www.schakeldag.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:-|Object moved|
+
 

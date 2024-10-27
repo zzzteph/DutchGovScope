@@ -1,5 +1,2 @@
+https://mobilitylab.nl
 https://www.mobilitylab.nl
-http://mobilitylab.nl
-https://ftp.mobilitylab.nl
-http://localhost.mobilitylab.nl
-https://tracking.mobilitylab.nl

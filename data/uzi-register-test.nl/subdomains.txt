@@ -1,7 +1,3 @@
-www.uzi-register-test.nl
-ocsp.uzi-register-test.nl
-www.csp.uzi-register-test.nl
 uzi-register-test.nl
-acc.raac.reportingserver.uzi-register-test.nl
-cms.uzi-register-test.nl
-ldap.uzi-register-test.nl
+www.csp.uzi-register-test.nl
+www.uzi-register-test.nl

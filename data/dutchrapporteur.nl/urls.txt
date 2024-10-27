@@ -1,4 +1,4 @@
-https://feeds.dutchrapporteur.nl
-https://opendata.dutchrapporteur.nl
-https://www.dutchrapporteur.nl
 https://dutchrapporteur.nl
+https://feeds.dutchrapporteur.nl
+https://www.dutchrapporteur.nl
+https://opendata.dutchrapporteur.nl

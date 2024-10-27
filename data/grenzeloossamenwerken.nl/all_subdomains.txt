@@ -1,7 +1,0 @@
-feeds.grenzeloossamenwerken.nl
-grenzeloossamenwerken.nl
-opendata.grenzeloossamenwerken.nl
-www.grenzeloossamenwerken.nl
-a-feeds.grenzeloossamenwerken.nl
-a-opendata.grenzeloossamenwerken.nl
-a-www.grenzeloossamenwerken.nl

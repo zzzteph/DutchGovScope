@@ -1,6 +1,0 @@
-acc.allesisgezondheid.nl
-test.allesisgezondheid.nl
-www.allesisgezondheid.nl
-allesisgezondheid.nl
-autodiscover.allesisgezondheid.nl
-msoid.allesisgezondheid.nl

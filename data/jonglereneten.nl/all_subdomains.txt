@@ -1,7 +1,0 @@
-acc.jonglereneten.nl
-test.jonglereneten.nl
-www.jonglereneten.nl
-jonglereneten.nl
-prod.jonglereneten.nl
-www.test.jonglereneten.nl
-www.acc.jonglereneten.nl

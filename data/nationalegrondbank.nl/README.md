@@ -13,7 +13,6 @@
 |------------|-------|------|
 |[subdomains.txt](/data/nationalegrondbank.nl/subdomains.txt)|2|Alive subdomains|
 |[urls.txt](/data/nationalegrondbank.nl/urls.txt)|2|Urls|
-|[all_subdomains.txt](/data/nationalegrondbank.nl/all_subdomains.txt)|2|All found subdomains (history)|
 
 
 ## Statistics
@@ -23,4 +22,5 @@
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[https://nationalegrondbank.nl](https://nationalegrondbank.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |||
 |[https://www.nationalegrondbank.nl](https://www.nationalegrondbank.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |||
+
 

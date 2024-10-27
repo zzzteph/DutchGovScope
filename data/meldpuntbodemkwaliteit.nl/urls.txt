@@ -1,4 +1,4 @@
 https://acceptatie.meldpuntbodemkwaliteit.nl
-https://test.meldpuntbodemkwaliteit.nl
-https://www.meldpuntbodemkwaliteit.nl
 https://meldpuntbodemkwaliteit.nl
+https://www.meldpuntbodemkwaliteit.nl
+https://test.meldpuntbodemkwaliteit.nl

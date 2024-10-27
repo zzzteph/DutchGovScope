@@ -1,7 +1,4 @@
 en.octrooigemachtigde.nl
-www.octrooigemachtigde.nl
 octrooigemachtigde.nl
 www.en.octrooigemachtigde.nl
-storage.octrooigemachtigde.nl
-autodiscover.octrooigemachtigde.nl
-ftp.octrooigemachtigde.nl
+www.octrooigemachtigde.nl

@@ -1,14 +1,4 @@
+antennebureau.nl
 feeds.antennebureau.nl
 opendata.antennebureau.nl
 www.antennebureau.nl
-antennebureau.nl
-a-opendata.antennebureau.nl
-sip.antennebureau.nl
-a-feeds.antennebureau.nl
-test.antennebureau.nl
-a-www.antennebureau.nl
-lyncdiscover.antennebureau.nl
-i-www.antennebureau.nl
-pre-live.antennebureau.nl
-t-www.antennebureau.nl
-o-www.antennebureau.nl

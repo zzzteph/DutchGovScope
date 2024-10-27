@@ -1,5 +1,4 @@
-test.mi-cert.nl
-www.mi-cert.nl
 mi-cert.nl
-acc.mi-cert.nl
 prod.mi-cert.nl
+www.mi-cert.nl
+test.mi-cert.nl

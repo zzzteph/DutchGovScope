@@ -1,12 +1,10 @@
 agendavoorhetwaddengebied2050.waddenzee.nl
 basismonitoringwadden.waddenzee.nl
 plasticvrijewadden.waddenzee.nl
-www.waddenzee.nl
 waddenzee.nl
-test.waddenzee.nl
-bmw9520.waddenzee.nl
-wadzee9520.waddenzee.nl
-gebiedagen2.waddenzee.nl
+www.waddenzee.nl
 datahuiswadden.waddenzee.nl
-analytics.waddenzee.nl
-autodiscover.waddenzee.nl
+wadzee9520.waddenzee.nl
+bmw9520.waddenzee.nl
+gebiedagen2.waddenzee.nl
+test.waddenzee.nl

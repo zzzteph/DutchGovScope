@@ -2,14 +2,12 @@
 layout: default
 title: "volksgezondheidenzorg.info"
 permalink: "/dutchgov/volksgezondheidenzorg.info.html"
-subdomains_count: 9
-all_subdomains_count: 10
-urls_count: 9
-ssl_rank: A+
-http_rank: D
+subdomains_count: 6
+urls_count: 6
+ssl_rank: 
+http_rank: B
 security_txt: 4
 url_link: /data/volksgezondheidenzorg.info/urls.txt
-all_subdomains_link: /data/volksgezondheidenzorg.info/all_subdomains.txt
 subdomains_link: /data/volksgezondheidenzorg.info/subdomains.txt
 categories: dutchgov
 tags: dutchgov
@@ -20,16 +18,15 @@ tags: dutchgov
 ## Summary data
 
 
- - **SSL Grade**:A+
- - **HTTP Security Grade**:D
+ - **SSL Grade**:
+ - **HTTP Security Grade**:B
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:4
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/volksgezondheidenzorg.info/subdomains.txt)|9|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/volksgezondheidenzorg.info/urls.txt)|9|Urls|
-|[all_subdomains.txt](/DutchGovScope/data/volksgezondheidenzorg.info/all_subdomains.txt)|10|All found subdomains (history)|
+|[subdomains.txt](/DutchGovScope/data/volksgezondheidenzorg.info/subdomains.txt)|6|Alive subdomains|
+|[urls.txt](/DutchGovScope/data/volksgezondheidenzorg.info/urls.txt)|6|Urls|
 
 
 ## Statistics
@@ -37,13 +34,11 @@ tags: dutchgov
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[http://acceptatie.volksgezondheidenzorg.info](http://acceptatie.volksgezondheidenzorg.info)| | **E**|| | | | | | | | :white_check_mark: | |||
-|[http://acceptatie.costofillnesstool.volksgezondheidenzorg.info](http://acceptatie.costofillnesstool.volksgezondheidenzorg.info)| | **E**|| | | | | | | | :white_check_mark: | |||
-|[http://acceptatie.kostenvanziektentool.volksgezondheidenzorg.info](http://acceptatie.kostenvanziektentool.volksgezondheidenzorg.info)| | **E**|| | | | | | | | :white_check_mark: | |||
-|[https://costofillnesstool.volksgezondheidenzorg.info](https://costofillnesstool.volksgezondheidenzorg.info)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |||
-|[https://kostenvanziektentool.volksgezondheidenzorg.info](https://kostenvanziektentool.volksgezondheidenzorg.info)| **A**| **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |||
+|[https://kostenvanziektentool.volksgezondheidenzorg.info](https://kostenvanziektentool.volksgezondheidenzorg.info)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |||
 |[http://test.volksgezondheidenzorg.info](http://test.volksgezondheidenzorg.info)| | **E**|| | | | | | | | :white_check_mark: | |||
-|[https://www.volksgezondheidenzorg.info](https://www.volksgezondheidenzorg.info)| **A+**| **A**|Apache| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS|301 Moved Perman...|
-|[https://volksgezondheidenzorg.info](https://volksgezondheidenzorg.info)| **A+**| **A**|Apache| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS|301 Moved Perman...|
-|[http://localhost.volksgezondheidenzorg.info](http://localhost.volksgezondheidenzorg.info)| | **F**|nginx| | | :warning:| | | | | :white_check_mark: | |Nginx|(404 Not Found)|
+|[https://volksgezondheidenzorg.info](https://volksgezondheidenzorg.info)| | **A**|Apache| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS|301 Moved Perman...|
+|[https://www.volksgezondheidenzorg.info](https://www.volksgezondheidenzorg.info)| | **A**|Apache| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS|301 Moved Perman...|
+|[http://acceptatie.volksgezondheidenzorg.info](http://acceptatie.volksgezondheidenzorg.info)| | **E**|| | | | | | | | :white_check_mark: | |||
+|[https://costofillnesstool.volksgezondheidenzorg.info](https://costofillnesstool.volksgezondheidenzorg.info)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |||
+
 

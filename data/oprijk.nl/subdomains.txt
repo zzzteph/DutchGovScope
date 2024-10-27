@@ -1,7 +1,4 @@
-www.oprijk.nl
 feeds.oprijk.nl
-opendata.oprijk.nl
 oprijk.nl
-a-feeds.oprijk.nl
-a-opendata.oprijk.nl
-a-www.oprijk.nl
+www.oprijk.nl
+opendata.oprijk.nl

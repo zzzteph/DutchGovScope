@@ -1,4 +1,3 @@
-www.registerexterneveiligheid.nl
-registerexterneveiligheid.nl
-localhost.registerexterneveiligheid.nl
 acceptatie.registerexterneveiligheid.nl
+registerexterneveiligheid.nl
+www.registerexterneveiligheid.nl

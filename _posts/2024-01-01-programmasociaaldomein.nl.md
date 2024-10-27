@@ -3,13 +3,11 @@ layout: default
 title: "programmasociaaldomein.nl"
 permalink: "/dutchgov/programmasociaaldomein.nl.html"
 subdomains_count: 0
-all_subdomains_count: 16
 urls_count: 0
 ssl_rank: 
 http_rank: F
 security_txt: 0
 url_link: /data/programmasociaaldomein.nl/urls.txt
-all_subdomains_link: /data/programmasociaaldomein.nl/all_subdomains.txt
 subdomains_link: /data/programmasociaaldomein.nl/subdomains.txt
 categories: dutchgov
 tags: dutchgov
@@ -29,7 +27,6 @@ tags: dutchgov
 |------------|-------|------|
 |[subdomains.txt](/DutchGovScope/data/programmasociaaldomein.nl/subdomains.txt)|0|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/programmasociaaldomein.nl/urls.txt)|0|Urls|
-|[all_subdomains.txt](/DutchGovScope/data/programmasociaaldomein.nl/all_subdomains.txt)|16|All found subdomains (history)|
 
 
 ## Statistics
@@ -37,4 +34,5 @@ tags: dutchgov
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
+
 

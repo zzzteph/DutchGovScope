@@ -1,7 +1,0 @@
-feeds.gegevensuitwisselingindezorg.nl
-opendata.gegevensuitwisselingindezorg.nl
-www.gegevensuitwisselingindezorg.nl
-gegevensuitwisselingindezorg.nl
-a-feeds.gegevensuitwisselingindezorg.nl
-a-opendata.gegevensuitwisselingindezorg.nl
-a-www.gegevensuitwisselingindezorg.nl

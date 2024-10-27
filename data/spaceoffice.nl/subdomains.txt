@@ -1,5 +1,3 @@
 g4aw.spaceoffice.nl
-www.spaceoffice.nl
 spaceoffice.nl
-lyncdiscover.spaceoffice.nl
-sip.spaceoffice.nl
+www.spaceoffice.nl

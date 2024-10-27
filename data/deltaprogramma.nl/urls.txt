@@ -1,5 +1,4 @@
-https://dp2023.deltaprogramma.nl
-https://dp2024.deltaprogramma.nl
+https://deltaprogramma.nl
 https://english.deltaprogramma.nl
 https://feeds.deltaprogramma.nl
 https://feeds.english.deltaprogramma.nl
@@ -7,7 +6,8 @@ https://magazines.deltaprogramma.nl
 https://opendata.deltaprogramma.nl
 https://opendata.english.deltaprogramma.nl
 https://www.deltaprogramma.nl
-https://deltaprogramma.nl
 https://dp2021.deltaprogramma.nl
 https://dp2022.deltaprogramma.nl
+https://dp2023.deltaprogramma.nl
+https://dp2024.deltaprogramma.nl
 https://dp2025.deltaprogramma.nl

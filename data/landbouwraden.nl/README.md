@@ -13,7 +13,6 @@
 |------------|-------|------|
 |[subdomains.txt](/data/landbouwraden.nl/subdomains.txt)|2|Alive subdomains|
 |[urls.txt](/data/landbouwraden.nl/urls.txt)|2|Urls|
-|[all_subdomains.txt](/data/landbouwraden.nl/all_subdomains.txt)|2|All found subdomains (history)|
 
 
 ## Statistics
@@ -23,4 +22,5 @@
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[https://landbouwraden.nl](https://landbouwraden.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |||
 |[https://www.landbouwraden.nl](https://www.landbouwraden.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |||
+
 

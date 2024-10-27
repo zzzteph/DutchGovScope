@@ -1,9 +1,4 @@
-en.inburgeren.nl
-mijn.inburgeren.nl
 www.inburgeren.nl
 inburgeren.nl
-es.inburgeren.nl
-fr.inburgeren.nl
-staging.inburgeren.nl
-vt-mijn.inburgeren.nl
-vt.inburgeren.nl
+mijn.inburgeren.nl
+en.inburgeren.nl

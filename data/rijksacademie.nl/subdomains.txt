@@ -1,13 +1,6 @@
 advies.rijksacademie.nl
 helpdesk.rijksacademie.nl
-leren.rijksacademie.nl
-nieuwsbrief.rijksacademie.nl
-www.rijksacademie.nl
-rijksacademie.nl
-dev.rijksacademie.nl
-web01.rijksacademie.nl
 infoscherm.rijksacademie.nl
-mail.rijksacademie.nl
-virtour.rijksacademie.nl
-wwwold.rijksacademie.nl
-autodiscover.rijksacademie.nl
+nieuwsbrief.rijksacademie.nl
+rijksacademie.nl
+www.rijksacademie.nl

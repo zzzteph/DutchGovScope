@@ -3,13 +3,11 @@ layout: default
 title: "infonucleairrisico.nl"
 permalink: "/dutchgov/infonucleairrisico.nl.html"
 subdomains_count: 2
-all_subdomains_count: 2
 urls_count: 2
 ssl_rank: 
 http_rank: A
 security_txt: 2
 url_link: /data/infonucleairrisico.nl/urls.txt
-all_subdomains_link: /data/infonucleairrisico.nl/all_subdomains.txt
 subdomains_link: /data/infonucleairrisico.nl/subdomains.txt
 categories: dutchgov
 tags: dutchgov
@@ -29,7 +27,6 @@ tags: dutchgov
 |------------|-------|------|
 |[subdomains.txt](/DutchGovScope/data/infonucleairrisico.nl/subdomains.txt)|2|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/infonucleairrisico.nl/urls.txt)|2|Urls|
-|[all_subdomains.txt](/DutchGovScope/data/infonucleairrisico.nl/all_subdomains.txt)|2|All found subdomains (history)|
 
 
 ## Statistics
@@ -39,4 +36,5 @@ tags: dutchgov
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[https://infonucleairrisico.nl](https://infonucleairrisico.nl)| | **A**|Microsoft-IIS/10.0| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS IIS:10.0 Windows Server|Document Moved|
 |[https://www.infonucleairrisico.nl](https://www.infonucleairrisico.nl)| | **A**|Microsoft-IIS/10.0| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS IIS:10.0 Windows Server|Document Moved|
+
 

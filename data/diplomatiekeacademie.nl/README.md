@@ -13,7 +13,6 @@
 |------------|-------|------|
 |[subdomains.txt](/data/diplomatiekeacademie.nl/subdomains.txt)|2|Alive subdomains|
 |[urls.txt](/data/diplomatiekeacademie.nl/urls.txt)|2|Urls|
-|[all_subdomains.txt](/data/diplomatiekeacademie.nl/all_subdomains.txt)|2|All found subdomains (history)|
 
 
 ## Statistics
@@ -23,4 +22,5 @@
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[https://diplomatiekeacademie.nl](https://diplomatiekeacademie.nl)| | **A**|cloudflare| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Cloudflare HSTS|301 Moved Perman...|
 |[https://www.diplomatiekeacademie.nl](https://www.diplomatiekeacademie.nl)| | **A**|cloudflare| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Cloudflare HSTS|301 Moved Perman...|
+
 

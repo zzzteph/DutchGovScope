@@ -1,5 +1,3 @@
-acc-www.clo.nl
-tst-www.clo.nl
+snippet.clo.nl
 www.clo.nl
 clo.nl
-acc.clo.nl

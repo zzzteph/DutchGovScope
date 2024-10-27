@@ -1,4 +1,3 @@
 cms.bureaubiosecurity.nl
-www.bureaubiosecurity.nl
 bureaubiosecurity.nl
-localhost.bureaubiosecurity.nl
+www.bureaubiosecurity.nl

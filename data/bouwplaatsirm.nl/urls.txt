@@ -1,11 +1,6 @@
+https://10jan.bouwplaatsirm.nl
+https://bouwplaatsirm.nl
+https://www.bouwplaatsirm.nl
 https://mailing.bouwplaatsirm.nl
 https://matomo.bouwplaatsirm.nl
-https://www.bouwplaatsirm.nl
-https://bouwplaatsirm.nl
 https://staging.bouwplaatsirm.nl
-https://10jan.bouwplaatsirm.nl
-http://autodiscover.bouwplaatsirm.nl
-https://enterpriseenrollment.bouwplaatsirm.nl
-https://enterpriseregistration.bouwplaatsirm.nl
-https://gitlab.bouwplaatsirm.nl
-https://msoid.bouwplaatsirm.nl

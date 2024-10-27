@@ -13,7 +13,6 @@
 |------------|-------|------|
 |[subdomains.txt](/data/minister-van-szw.nl/subdomains.txt)|2|Alive subdomains|
 |[urls.txt](/data/minister-van-szw.nl/urls.txt)|2|Urls|
-|[all_subdomains.txt](/data/minister-van-szw.nl/all_subdomains.txt)|2|All found subdomains (history)|
 
 
 ## Statistics
@@ -23,4 +22,5 @@
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[https://minister-van-szw.nl](https://minister-van-szw.nl)| | **A**|Microsoft-IIS/10.0| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS IIS:10.0 Windows Server|Document Moved|
 |[https://www.minister-van-szw.nl](https://www.minister-van-szw.nl)| | **A**|Microsoft-IIS/10.0| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS IIS:10.0 Windows Server|Document Moved|
+
 

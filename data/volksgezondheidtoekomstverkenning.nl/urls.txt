@@ -1,3 +1,2 @@
-https://www.volksgezondheidtoekomstverkenning.nl
 https://volksgezondheidtoekomstverkenning.nl
-http://localhost.volksgezondheidtoekomstverkenning.nl
+https://www.volksgezondheidtoekomstverkenning.nl

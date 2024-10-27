@@ -1,6 +1,0 @@
-staging.e-cert.nl
-www.e-cert.nl
-e-cert.nl
-www.staging.e-cert.nl
-export.e-cert.nl
-optelecdigitaal-www.e-cert.nl

@@ -2,14 +2,12 @@
 layout: default
 title: "energieoprijksgrond.nl"
 permalink: "/dutchgov/energieoprijksgrond.nl.html"
-subdomains_count: 3
-all_subdomains_count: 12
+subdomains_count: 2
 urls_count: 2
-ssl_rank: A+
+ssl_rank: 
 http_rank: E
-security_txt: 2
+security_txt: 0
 url_link: /data/energieoprijksgrond.nl/urls.txt
-all_subdomains_link: /data/energieoprijksgrond.nl/all_subdomains.txt
 subdomains_link: /data/energieoprijksgrond.nl/subdomains.txt
 categories: dutchgov
 tags: dutchgov
@@ -20,16 +18,15 @@ tags: dutchgov
 ## Summary data
 
 
- - **SSL Grade**:A+
+ - **SSL Grade**:
  - **HTTP Security Grade**:E
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:2
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:0
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/energieoprijksgrond.nl/subdomains.txt)|3|Alive subdomains|
+|[subdomains.txt](/DutchGovScope/data/energieoprijksgrond.nl/subdomains.txt)|2|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/energieoprijksgrond.nl/urls.txt)|2|Urls|
-|[all_subdomains.txt](/DutchGovScope/data/energieoprijksgrond.nl/all_subdomains.txt)|12|All found subdomains (history)|
 
 
 ## Statistics
@@ -37,6 +34,7 @@ tags: dutchgov
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://www.energieoprijksgrond.nl](https://www.energieoprijksgrond.nl)| **A+**| **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Object moved|
-|[https://energieoprijksgrond.nl](https://energieoprijksgrond.nl)| **A+**| **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Object moved|
+|[https://energieoprijksgrond.nl](https://energieoprijksgrond.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Object moved|
+|[https://www.energieoprijksgrond.nl](https://www.energieoprijksgrond.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Object moved|
+
 

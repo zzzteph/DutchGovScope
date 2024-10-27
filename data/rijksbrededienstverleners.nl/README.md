@@ -4,7 +4,7 @@
 ## Summary data
 
 
- - **SSL Grade**:A+
+ - **SSL Grade**:
  - **HTTP Security Grade**:C
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:2
 
@@ -13,7 +13,6 @@
 |------------|-------|------|
 |[subdomains.txt](/data/rijksbrededienstverleners.nl/subdomains.txt)|2|Alive subdomains|
 |[urls.txt](/data/rijksbrededienstverleners.nl/urls.txt)|2|Urls|
-|[all_subdomains.txt](/data/rijksbrededienstverleners.nl/all_subdomains.txt)|2|All found subdomains (history)|
 
 
 ## Statistics
@@ -21,6 +20,7 @@
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://www.rijksbrededienstverleners.nl](https://www.rijksbrededienstverleners.nl)| **A+**| **C**|Apache| |:white_check_mark: | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|Landschapskaart...|
-|[https://rijksbrededienstverleners.nl](https://rijksbrededienstverleners.nl)| **A+**| **C**|Apache| |:white_check_mark: | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|301 Moved Perman...|
+|[https://rijksbrededienstverleners.nl](https://rijksbrededienstverleners.nl)| | **C**|Apache| |:white_check_mark: | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|301 Moved Perman...|
+|[https://www.rijksbrededienstverleners.nl](https://www.rijksbrededienstverleners.nl)| | **C**|Apache| |:white_check_mark: | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|Landschapskaart...|
+
 

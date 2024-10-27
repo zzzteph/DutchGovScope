@@ -1,7 +1,0 @@
-feeds.masterplanbasisvaardigheden.nl
-masterplanbasisvaardigheden.nl
-opendata.masterplanbasisvaardigheden.nl
-www.masterplanbasisvaardigheden.nl
-a-feeds.masterplanbasisvaardigheden.nl
-a-opendata.masterplanbasisvaardigheden.nl
-a-www.masterplanbasisvaardigheden.nl

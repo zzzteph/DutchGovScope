@@ -1,7 +1,4 @@
-feeds.staatsexamensvo.nl
 opendata.staatsexamensvo.nl
-www.staatsexamensvo.nl
 staatsexamensvo.nl
-a-feeds.staatsexamensvo.nl
-a-opendata.staatsexamensvo.nl
-a-www.staatsexamensvo.nl
+www.staatsexamensvo.nl
+feeds.staatsexamensvo.nl

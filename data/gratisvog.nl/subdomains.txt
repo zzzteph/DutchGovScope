@@ -1,11 +1,6 @@
 aanmelden.gratisvog.nl
+zoeken.gratisvog.nl
 acceptatie.aanmelden.gratisvog.nl
 acceptatie.zoeken.gratisvog.nl
 feeds.gratisvog.nl
 opendata.gratisvog.nl
-www.gratisvog.nl
-zoeken.gratisvog.nl
-gratisvog.nl
-a-feeds.gratisvog.nl
-a-opendata.gratisvog.nl
-a-www.gratisvog.nl

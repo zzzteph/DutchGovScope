@@ -1,7 +1,4 @@
 feeds.oesorichtlijnen.nl
+oesorichtlijnen.nl
 opendata.oesorichtlijnen.nl
 www.oesorichtlijnen.nl
-oesorichtlijnen.nl
-a-feeds.oesorichtlijnen.nl
-a-opendata.oesorichtlijnen.nl
-a-www.oesorichtlijnen.nl

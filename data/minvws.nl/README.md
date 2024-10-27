@@ -4,16 +4,15 @@
 ## Summary data
 
 
- - **SSL Grade**:B+
+ - **SSL Grade**:
  - **HTTP Security Grade**:B
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:8
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:7
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/minvws.nl/subdomains.txt)|15|Alive subdomains|
-|[urls.txt](/data/minvws.nl/urls.txt)|11|Urls|
-|[all_subdomains.txt](/data/minvws.nl/all_subdomains.txt)|64|All found subdomains (history)|
+|[subdomains.txt](/data/minvws.nl/subdomains.txt)|10|Alive subdomains|
+|[urls.txt](/data/minvws.nl/urls.txt)|10|Urls|
 
 
 ## Statistics
@@ -21,15 +20,15 @@
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://pilot.uzi-online.minvws.nl](https://pilot.uzi-online.minvws.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS||
-|[https://werkbezoek.minvws.nl](https://werkbezoek.minvws.nl)| **A+**| **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Voorpagina | Min...|
-|[https://english.minvws.nl](https://english.minvws.nl)| **F**| **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|403 Forbidden|
-|[https://open.minvws.nl](https://open.minvws.nl)| **A+**| **A**|nginx| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|Home |...|
-|[https://yivi.pilot.uzi-online.minvws.nl](https://yivi.pilot.uzi-online.minvws.nl)| | **A**||:warning: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS|YIVI Disclosure|
-|[https://www.minvws.nl](https://www.minvws.nl)| **A+**| **A**|Microsoft-IIS/10.0| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS IIS:10.0 Windows Server|Document Moved|
-|[https://minvws.nl](https://minvws.nl)| **A+**| **A**|Microsoft-IIS/10.0| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS IIS:10.0 Windows Server|Document Moved|
-|[https://www.vragenlijst.minvws.nl](https://www.vragenlijst.minvws.nl)| **B**| **B**|nginx| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Nginx|301 Moved Perman...|
-|[https://vragenlijst.minvws.nl](https://vragenlijst.minvws.nl)| **B**| **B**|nginx| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS Nginx|Onderzoekdoen.nl...|
+|[https://english.minvws.nl](https://english.minvws.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|403 Forbidden|
 |[http://login-uzi.pilot.uzi-online.minvws.nl](http://login-uzi.pilot.uzi-online.minvws.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://login.pilot.uzi-online.minvws.nl](https://login.pilot.uzi-online.minvws.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS||
+|[https://pilot.uzi-online.minvws.nl](https://pilot.uzi-online.minvws.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS||
+|[https://yivi.pilot.uzi-online.minvws.nl](https://yivi.pilot.uzi-online.minvws.nl)| | **A**||:warning: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS|YIVI Disclosure|
+|[https://minvws.nl](https://minvws.nl)| | **A**|Microsoft-IIS/10.0| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS IIS:10.0 Windows Server|Document Moved|
+|[https://www.minvws.nl](https://www.minvws.nl)| | **A**|Microsoft-IIS/10.0| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS IIS:10.0 Windows Server|Document Moved|
+|[https://open.minvws.nl](https://open.minvws.nl)| | **A**|nginx| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|Home |...|
+|[https://vragenlijst.minvws.nl](https://vragenlijst.minvws.nl)| | **B**|nginx| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS Nginx|Onderzoekdoen.nl...|
+|[https://werkbezoek.minvws.nl](https://werkbezoek.minvws.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Voorpagina | Min...|
+
 

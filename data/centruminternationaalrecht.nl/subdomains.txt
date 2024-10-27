@@ -1,5 +1,5 @@
 acc.centruminternationaalrecht.nl
+centruminternationaalrecht.nl
+www.centruminternationaalrecht.nl
 dev.centruminternationaalrecht.nl
 tst.centruminternationaalrecht.nl
-www.centruminternationaalrecht.nl
-centruminternationaalrecht.nl

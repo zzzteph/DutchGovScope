@@ -1,7 +1,3 @@
-www.elkeregiotelt.nl
-opendata.elkeregiotelt.nl
 feeds.elkeregiotelt.nl
+opendata.elkeregiotelt.nl
 elkeregiotelt.nl
-a-feeds.elkeregiotelt.nl
-a-opendata.elkeregiotelt.nl
-a-www.elkeregiotelt.nl

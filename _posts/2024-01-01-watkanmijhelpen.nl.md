@@ -2,14 +2,12 @@
 layout: default
 title: "watkanmijhelpen.nl"
 permalink: "/dutchgov/watkanmijhelpen.nl.html"
-subdomains_count: 4
-all_subdomains_count: 14
-urls_count: 4
-ssl_rank: A+
+subdomains_count: 2
+urls_count: 2
+ssl_rank: 
 http_rank: A
-security_txt: 4
+security_txt: 2
 url_link: /data/watkanmijhelpen.nl/urls.txt
-all_subdomains_link: /data/watkanmijhelpen.nl/all_subdomains.txt
 subdomains_link: /data/watkanmijhelpen.nl/subdomains.txt
 categories: dutchgov
 tags: dutchgov
@@ -20,16 +18,15 @@ tags: dutchgov
 ## Summary data
 
 
- - **SSL Grade**:A+
+ - **SSL Grade**:
  - **HTTP Security Grade**:A
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:4
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:2
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/watkanmijhelpen.nl/subdomains.txt)|4|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/watkanmijhelpen.nl/urls.txt)|4|Urls|
-|[all_subdomains.txt](/DutchGovScope/data/watkanmijhelpen.nl/all_subdomains.txt)|14|All found subdomains (history)|
+|[subdomains.txt](/DutchGovScope/data/watkanmijhelpen.nl/subdomains.txt)|2|Alive subdomains|
+|[urls.txt](/DutchGovScope/data/watkanmijhelpen.nl/urls.txt)|2|Urls|
 
 
 ## Statistics
@@ -37,8 +34,7 @@ tags: dutchgov
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://feeds.watkanmijhelpen.nl](https://feeds.watkanmijhelpen.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
-|[https://opendata.watkanmijhelpen.nl](https://opendata.watkanmijhelpen.nl)| **A+**| **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
-|[https://www.watkanmijhelpen.nl](https://www.watkanmijhelpen.nl)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Home | Wat kan m...|
-|[https://watkanmijhelpen.nl](https://watkanmijhelpen.nl)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
+|[https://watkanmijhelpen.nl](https://watkanmijhelpen.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
+|[https://www.watkanmijhelpen.nl](https://www.watkanmijhelpen.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
+
 

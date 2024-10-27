@@ -1,10 +1,4 @@
-www.veterinairtuchtcollege.nl
-veterinairtuchtcollege.nl
 feeds.veterinairtuchtcollege.nl
 opendata.veterinairtuchtcollege.nl
-a-www.veterinairtuchtcollege.nl
-a-feeds.veterinairtuchtcollege.nl
-a-opendata.veterinairtuchtcollege.nl
-i-www.veterinairtuchtcollege.nl
-o-www.veterinairtuchtcollege.nl
-t-www.veterinairtuchtcollege.nl
+veterinairtuchtcollege.nl
+www.veterinairtuchtcollege.nl

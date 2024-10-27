@@ -1,7 +1,4 @@
-feeds.gobernadoraruba.com
 gobernadoraruba.com
 opendata.gobernadoraruba.com
 www.gobernadoraruba.com
-a-www.gobernadoraruba.com
-a-feeds.gobernadoraruba.com
-a-opendata.gobernadoraruba.com
+feeds.gobernadoraruba.com

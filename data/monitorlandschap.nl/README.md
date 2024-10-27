@@ -4,16 +4,15 @@
 ## Summary data
 
 
- - **SSL Grade**:A
- - **HTTP Security Grade**:A
+ - **SSL Grade**:
+ - **HTTP Security Grade**:F
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:0
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/monitorlandschap.nl/subdomains.txt)|2|Alive subdomains|
-|[urls.txt](/data/monitorlandschap.nl/urls.txt)|1|Urls|
-|[all_subdomains.txt](/data/monitorlandschap.nl/all_subdomains.txt)|2|All found subdomains (history)|
+|[subdomains.txt](/data/monitorlandschap.nl/subdomains.txt)|0|Alive subdomains|
+|[urls.txt](/data/monitorlandschap.nl/urls.txt)|0|Urls|
 
 
 ## Statistics
@@ -21,5 +20,5 @@
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://www.monitorlandschap.nl](https://www.monitorlandschap.nl)| **A**| **A**|| |:white_check_mark: | | | :white_check_mark:| | | :white_check_mark: | |HSTS|Monitor Landscha...|
+
 

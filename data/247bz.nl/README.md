@@ -13,7 +13,6 @@
 |------------|-------|------|
 |[subdomains.txt](/data/247bz.nl/subdomains.txt)|2|Alive subdomains|
 |[urls.txt](/data/247bz.nl/urls.txt)|2|Urls|
-|[all_subdomains.txt](/data/247bz.nl/all_subdomains.txt)|2|All found subdomains (history)|
 
 
 ## Statistics
@@ -23,4 +22,5 @@
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[https://247bz.nl](https://247bz.nl)| | **A**|cloudflare| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |Cloudflare HSTS|301 Moved Perman...|
 |[https://www.247bz.nl](https://www.247bz.nl)| | **A**|cloudflare| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |Cloudflare HSTS|301 Moved Perman...|
+
 

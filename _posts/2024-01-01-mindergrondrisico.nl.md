@@ -2,14 +2,12 @@
 layout: default
 title: "mindergrondrisico.nl"
 permalink: "/dutchgov/mindergrondrisico.nl.html"
-subdomains_count: 6
-all_subdomains_count: 6
-urls_count: 6
-ssl_rank: A+
-http_rank: D
+subdomains_count: 3
+urls_count: 3
+ssl_rank: 
+http_rank: B
 security_txt: 2
 url_link: /data/mindergrondrisico.nl/urls.txt
-all_subdomains_link: /data/mindergrondrisico.nl/all_subdomains.txt
 subdomains_link: /data/mindergrondrisico.nl/subdomains.txt
 categories: dutchgov
 tags: dutchgov
@@ -20,16 +18,15 @@ tags: dutchgov
 ## Summary data
 
 
- - **SSL Grade**:A+
- - **HTTP Security Grade**:D
+ - **SSL Grade**:
+ - **HTTP Security Grade**:B
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:2
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/mindergrondrisico.nl/subdomains.txt)|6|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/mindergrondrisico.nl/urls.txt)|6|Urls|
-|[all_subdomains.txt](/DutchGovScope/data/mindergrondrisico.nl/all_subdomains.txt)|6|All found subdomains (history)|
+|[subdomains.txt](/DutchGovScope/data/mindergrondrisico.nl/subdomains.txt)|3|Alive subdomains|
+|[urls.txt](/DutchGovScope/data/mindergrondrisico.nl/urls.txt)|3|Urls|
 
 
 ## Statistics
@@ -38,9 +35,7 @@ tags: dutchgov
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[http://content.mindergrondrisico.nl](http://content.mindergrondrisico.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
-|[https://www.mindergrondrisico.nl](https://www.mindergrondrisico.nl)| **A+**| **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:-|Object moved|
-|[https://mindergrondrisico.nl](https://mindergrondrisico.nl)| **A+**| **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:-|Home - Minder gr...|
-|[http://ftp.mindergrondrisico.nl](http://ftp.mindergrondrisico.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0||
-|[http://mail.mindergrondrisico.nl](http://mail.mindergrondrisico.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0||
-|[http://staging.mindergrondrisico.nl](http://staging.mindergrondrisico.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0||
+|[https://www.mindergrondrisico.nl](https://www.mindergrondrisico.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:-|Object moved|
+|[https://mindergrondrisico.nl](https://mindergrondrisico.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:-|Home - Minder gr...|
+
 

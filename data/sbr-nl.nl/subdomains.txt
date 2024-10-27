@@ -1,9 +1,5 @@
 acc-dictu.sbr-nl.nl
-prod-dictu.sbr-nl.nl
 test-dictu.sbr-nl.nl
-www.sbr-nl.nl
 sbr-nl.nl
-mail.sbr-nl.nl
-acceptatie.sbr-nl.nl
-sametime.sbr-nl.nl
-test.sbr-nl.nl
+www.sbr-nl.nl
+prod-dictu.sbr-nl.nl

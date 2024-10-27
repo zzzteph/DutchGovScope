@@ -1,7 +1,4 @@
+collegevanrijksadviseurs.nl
 feeds.collegevanrijksadviseurs.nl
 opendata.collegevanrijksadviseurs.nl
 www.collegevanrijksadviseurs.nl
-collegevanrijksadviseurs.nl
-a-www.collegevanrijksadviseurs.nl
-a-opendata.collegevanrijksadviseurs.nl
-a-feeds.collegevanrijksadviseurs.nl

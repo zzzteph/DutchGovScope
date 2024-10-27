@@ -4,16 +4,15 @@
 ## Summary data
 
 
- - **SSL Grade**:A+
- - **HTTP Security Grade**:A
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:2
+ - **SSL Grade**:
+ - **HTTP Security Grade**:F
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:0
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/transitieagendakunststoffen.nl/subdomains.txt)|2|Alive subdomains|
-|[urls.txt](/data/transitieagendakunststoffen.nl/urls.txt)|2|Urls|
-|[all_subdomains.txt](/data/transitieagendakunststoffen.nl/all_subdomains.txt)|2|All found subdomains (history)|
+|[subdomains.txt](/data/transitieagendakunststoffen.nl/subdomains.txt)|0|Alive subdomains|
+|[urls.txt](/data/transitieagendakunststoffen.nl/urls.txt)|0|Urls|
 
 
 ## Statistics
@@ -21,6 +20,5 @@
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://transitieagendakunststoffen.nl](https://transitieagendakunststoffen.nl)| **A+**| **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:-|Transitieagenda...|
-|[https://www.transitieagendakunststoffen.nl](https://www.transitieagendakunststoffen.nl)| **A+**| **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:-|Object moved|
+
 

@@ -1,8 +1,4 @@
-feeds.aanbiedersmedicijnen.nl
 opendata.aanbiedersmedicijnen.nl
 www.aanbiedersmedicijnen.nl
 aanbiedersmedicijnen.nl
-acc.aanbiedersmedicijnen.nl
-a-opendata.aanbiedersmedicijnen.nl
-a-www.aanbiedersmedicijnen.nl
-a-feeds.aanbiedersmedicijnen.nl
+feeds.aanbiedersmedicijnen.nl

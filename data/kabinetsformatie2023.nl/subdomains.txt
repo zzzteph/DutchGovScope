@@ -2,9 +2,3 @@ feeds.kabinetsformatie2023.nl
 kabinetsformatie2023.nl
 opendata.kabinetsformatie2023.nl
 www.kabinetsformatie2023.nl
-a-feeds.kabinetsformatie2023.nl
-a-opendata.kabinetsformatie2023.nl
-a-www.kabinetsformatie2023.nl
-i-www.kabinetsformatie2023.nl
-o-www.kabinetsformatie2023.nl
-t-www.kabinetsformatie2023.nl

@@ -1,7 +1,2 @@
-www.nlflag.nl
-www-drop.nlflag.nl
 nlflag.nl
-lesmousquetaires.nlflag.nl
-mail.nlflag.nl
-ftp.nlflag.nl
-autodiscover.nlflag.nl
+www.nlflag.nl

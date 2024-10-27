@@ -1,7 +1,4 @@
+toetsingscommissievp.nl
+www.toetsingscommissievp.nl
 feeds.toetsingscommissievp.nl
 opendata.toetsingscommissievp.nl
-www.toetsingscommissievp.nl
-toetsingscommissievp.nl
-a-feeds.toetsingscommissievp.nl
-a-opendata.toetsingscommissievp.nl
-a-www.toetsingscommissievp.nl

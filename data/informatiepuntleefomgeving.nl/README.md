@@ -13,7 +13,6 @@
 |------------|-------|------|
 |[subdomains.txt](/data/informatiepuntleefomgeving.nl/subdomains.txt)|3|Alive subdomains|
 |[urls.txt](/data/informatiepuntleefomgeving.nl/urls.txt)|3|Urls|
-|[all_subdomains.txt](/data/informatiepuntleefomgeving.nl/all_subdomains.txt)|3|All found subdomains (history)|
 
 
 ## Statistics
@@ -22,6 +21,7 @@
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[https://informatiepuntleefomgeving.nl](https://informatiepuntleefomgeving.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Microsoft ASP.NET:-|Document Moved|
-|[https://tl.informatiepuntleefomgeving.nl](https://tl.informatiepuntleefomgeving.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:-|Object moved|
 |[https://www.informatiepuntleefomgeving.nl](https://www.informatiepuntleefomgeving.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Microsoft ASP.NET:-|Document Moved|
+|[https://tl.informatiepuntleefomgeving.nl](https://tl.informatiepuntleefomgeving.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:-|Object moved|
+
 

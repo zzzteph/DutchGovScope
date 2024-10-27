@@ -1,15 +1,3 @@
-https://staging.bdmuseum.nl
-http://tickets.bdmuseum.nl
-https://www.bdmuseum.nl
-https://www.bdreauconseilw.bdmuseum.nl
-https://www.staging.bdmuseum.nl
-https://2019www.bdmuseum.nl
 https://bdmuseum.nl
-https://19www.bdmuseum.nl
-https://bdmuseum.niwww.bdmuseum.nl
-https://bdmuseum.nlwww.bdmuseum.nl
-https://bdmuseuni.nlwww.bdmuseum.nl
-https://ofwww.bdmuseum.nl
-https://rotterdamwww.bdmuseum.nl
-https://00www.bdmuseum.nl
-https://ww.bdmuseum.nl
+https://www.bdmuseum.nl
+http://tickets.bdmuseum.nl

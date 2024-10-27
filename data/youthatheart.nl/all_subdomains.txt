@@ -1,7 +1,0 @@
-feeds.youthatheart.nl
-opendata.youthatheart.nl
-www.youthatheart.nl
-youthatheart.nl
-a-www.youthatheart.nl
-a-feeds.youthatheart.nl
-a-opendata.youthatheart.nl

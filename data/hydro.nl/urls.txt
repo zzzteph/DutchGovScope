@@ -1,14 +1,3 @@
-https://www.hydro.nl
 https://hydro.nl
+https://www.hydro.nl
 https://transfer.hydro.nl
-https://webdisk.hydro.nl
-https://cpanel.hydro.nl
-https://cpcalendars.hydro.nl
-https://cpcontacts.hydro.nl
-https://mail.hydro.nl
-https://webmail.hydro.nl
-https://whm.hydro.nl
-https://autoconfig.hydro.nl
-https://autodiscover.hydro.nl
-https://enterpriseenrollment.hydro.nl
-https://enterpriseregistration.hydro.nl

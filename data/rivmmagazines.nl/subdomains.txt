@@ -1,5 +1,3 @@
-english.rivmmagazines.nl
-www.rivmmagazines.nl
 rivmmagazines.nl
-a-english.rivmmagazines.nl
-a-www.rivmmagazines.nl
+www.rivmmagazines.nl
+english.rivmmagazines.nl

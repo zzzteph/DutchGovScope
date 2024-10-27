@@ -1,8 +1,0 @@
-feeds.innovatiex.nl
-innovatiex.nl
-opendata.innovatiex.nl
-www.innovatiex.nl
-a-feeds.innovatiex.nl
-a-opendata.innovatiex.nl
-expo.innovatiex.nl
-a-www.innovatiex.nl

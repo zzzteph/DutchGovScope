@@ -6,14 +6,13 @@
 
  - **SSL Grade**:
  - **HTTP Security Grade**:A
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:4
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:3
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/sociaalfondspersoneel.nl/subdomains.txt)|7|Alive subdomains|
-|[urls.txt](/data/sociaalfondspersoneel.nl/urls.txt)|4|Urls|
-|[all_subdomains.txt](/data/sociaalfondspersoneel.nl/all_subdomains.txt)|7|All found subdomains (history)|
+|[subdomains.txt](/data/sociaalfondspersoneel.nl/subdomains.txt)|3|Alive subdomains|
+|[urls.txt](/data/sociaalfondspersoneel.nl/urls.txt)|3|Urls|
 
 
 ## Statistics
@@ -24,5 +23,5 @@
 |[https://feeds.sociaalfondspersoneel.nl](https://feeds.sociaalfondspersoneel.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://opendata.sociaalfondspersoneel.nl](https://opendata.sociaalfondspersoneel.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://sociaalfondspersoneel.nl](https://sociaalfondspersoneel.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
-|[https://www.sociaalfondspersoneel.nl](https://www.sociaalfondspersoneel.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Home | Sociaal f...|
+
 

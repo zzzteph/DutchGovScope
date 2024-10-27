@@ -1,10 +1,8 @@
-check.veiliginternetten.nl
-enquete.veiliginternetten.nl
 mailing.veiliginternetten.nl
-vs6844.veiliginternetten.nl
-www.veiliginternetten.nl
+check.veiliginternetten.nl
 veiliginternetten.nl
+www.veiliginternetten.nl
+enquete.veiliginternetten.nl
 mail.veiliginternetten.nl
 vs6575.veiliginternetten.nl
-autodiscover.veiliginternetten.nl
-acceptatie.veiliginternetten.nl
+vs6844.veiliginternetten.nl

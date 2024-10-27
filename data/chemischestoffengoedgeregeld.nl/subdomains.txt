@@ -1,4 +1,3 @@
-test.chemischestoffengoedgeregeld.nl
-www.chemischestoffengoedgeregeld.nl
 chemischestoffengoedgeregeld.nl
-acceptatie.chemischestoffengoedgeregeld.nl
+www.chemischestoffengoedgeregeld.nl
+test.chemischestoffengoedgeregeld.nl

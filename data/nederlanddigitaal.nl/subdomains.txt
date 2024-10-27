@@ -1,11 +1,4 @@
-nederlanddigitaal.nl
-www.nederlanddigitaal.nl
 feeds.nederlanddigitaal.nl
 opendata.nederlanddigitaal.nl
-a-feeds.nederlanddigitaal.nl
-a-opendata.nederlanddigitaal.nl
-a-www.nederlanddigitaal.nl
-aanmelder.nederlanddigitaal.nl
-i-www.nederlanddigitaal.nl
-o-www.nederlanddigitaal.nl
-t-www.nederlanddigitaal.nl
+www.nederlanddigitaal.nl
+nederlanddigitaal.nl

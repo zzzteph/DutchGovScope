@@ -1,4 +1,3 @@
-http://mail.naarnederland.nl
-https://www.naarnederland.nl
 https://naarnederland.nl
-http://autodiscover.naarnederland.nl
+https://www.naarnederland.nl
+http://mail.naarnederland.nl

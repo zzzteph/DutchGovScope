@@ -1,7 +1,3 @@
-opendata.voordejeugdenhetgezin.nl
 www.voordejeugdenhetgezin.nl
 feeds.voordejeugdenhetgezin.nl
 voordejeugdenhetgezin.nl
-a-www.voordejeugdenhetgezin.nl
-a-feeds.voordejeugdenhetgezin.nl
-a-opendata.voordejeugdenhetgezin.nl

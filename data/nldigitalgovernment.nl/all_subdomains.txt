@@ -1,4 +1,0 @@
-accept.nldigitalgovernment.nl
-www.nldigitalgovernment.nl
-nldigitalgovernment.nl
-test.nldigitalgovernment.nl

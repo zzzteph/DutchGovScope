@@ -13,7 +13,6 @@
 |------------|-------|------|
 |[subdomains.txt](/data/woononderzoek.nl/subdomains.txt)|2|Alive subdomains|
 |[urls.txt](/data/woononderzoek.nl/urls.txt)|2|Urls|
-|[all_subdomains.txt](/data/woononderzoek.nl/all_subdomains.txt)|5|All found subdomains (history)|
 
 
 ## Statistics
@@ -23,4 +22,5 @@
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[https://woononderzoek.nl](https://woononderzoek.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Amazon S3 Amazon Web Services Azure Edge Network HSTS Microsoft ASP.NET MyFonts|Woononderzoek Ne...|
 |[https://www.woononderzoek.nl](https://www.woononderzoek.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Amazon S3 Amazon Web Services Azure Edge Network HSTS Microsoft ASP.NET MyFonts|Woononderzoek Ne...|
+
 

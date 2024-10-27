@@ -1,7 +1,4 @@
+advisorycommitteeinternationallaw.nl
+feeds.advisorycommitteeinternationallaw.nl
 opendata.advisorycommitteeinternationallaw.nl
 www.advisorycommitteeinternationallaw.nl
-feeds.advisorycommitteeinternationallaw.nl
-advisorycommitteeinternationallaw.nl
-a-feeds.advisorycommitteeinternationallaw.nl
-a-opendata.advisorycommitteeinternationallaw.nl
-a-www.advisorycommitteeinternationallaw.nl

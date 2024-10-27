@@ -1,13 +1,7 @@
 connect-acpt.justitieleictorganisatie.nl
+connect.justitieleictorganisatie.nl
 feeds.justitieleictorganisatie.nl
-intranet.justitieleictorganisatie.nl
+justitieleictorganisatie.nl
 opendata.justitieleictorganisatie.nl
 www.justitieleictorganisatie.nl
-connect.justitieleictorganisatie.nl
-justitieleictorganisatie.nl
-a-www.justitieleictorganisatie.nl
-a-feeds.justitieleictorganisatie.nl
-a-opendata.justitieleictorganisatie.nl
-autodiscover.justitieleictorganisatie.nl
-enterpriseenrollment.justitieleictorganisatie.nl
-enterpriseregistration.justitieleictorganisatie.nl
+intranet.justitieleictorganisatie.nl

@@ -1,4 +1,3 @@
 https://www.cioweb.nl
 https://cioweb.nl
 http://autodiscover.cioweb.nl
-https://ftp.cioweb.nl

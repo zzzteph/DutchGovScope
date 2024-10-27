@@ -1,13 +1,7 @@
-feeds.denkvooruit.nl
-opendata.denkvooruit.nl
-www.denkvooruit.nl
 denkvooruit.nl
 english.denkvooruit.nl
+feeds.denkvooruit.nl
 feeds.english.denkvooruit.nl
+opendata.denkvooruit.nl
 opendata.english.denkvooruit.nl
-a-feeds.denkvooruit.nl
-a-opendata.a-english.denkvooruit.nl
-a-www.denkvooruit.nl
-a-english.denkvooruit.nl
-a-feeds.a-english.denkvooruit.nl
-a-opendata.denkvooruit.nl
+www.denkvooruit.nl

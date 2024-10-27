@@ -1,10 +1,6 @@
 check.opwegnaarzes.nl
 kentekencheck.opwegnaarzes.nl
+opwegnaarzes.nl
 staging.opwegnaarzes.nl
 www.opwegnaarzes.nl
 www.staging.opwegnaarzes.nl
-opwegnaarzes.nl
-autodiscover.opwegnaarzes.nl
-enterpriseenrollment.opwegnaarzes.nl
-enterpriseregistration.opwegnaarzes.nl
-pm-bounces.opwegnaarzes.nl

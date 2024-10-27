@@ -1,4 +1,3 @@
-https://www.elkeregiotelt.nl
-https://opendata.elkeregiotelt.nl
 https://feeds.elkeregiotelt.nl
+https://opendata.elkeregiotelt.nl
 https://elkeregiotelt.nl

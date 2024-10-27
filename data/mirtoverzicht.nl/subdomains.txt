@@ -1,8 +1,4 @@
-feeds.mirtoverzicht.nl
-opendata.mirtoverzicht.nl
 www.mirtoverzicht.nl
+feeds.mirtoverzicht.nl
 mirtoverzicht.nl
-mirt2016.mirtoverzicht.nl
-a-www.mirtoverzicht.nl
-a-feeds.mirtoverzicht.nl
-a-opendata.mirtoverzicht.nl
+opendata.mirtoverzicht.nl

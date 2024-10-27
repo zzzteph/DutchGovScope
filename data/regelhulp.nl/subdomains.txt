@@ -1,7 +1,4 @@
 regelhulp.nl
+www.regelhulp.nl
 feeds.regelhulp.nl
 opendata.regelhulp.nl
-www.regelhulp.nl
-a-feeds.regelhulp.nl
-a-opendata.regelhulp.nl
-a-www.regelhulp.nl

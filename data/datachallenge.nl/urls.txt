@@ -1,7 +1,3 @@
+http://datachallenge.nl
 https://mail.datachallenge.nl
 https://www.datachallenge.nl
-http://datachallenge.nl
-https://pop.datachallenge.nl
-https://smtp.datachallenge.nl
-https://ftp.datachallenge.nl
-http://localhost.datachallenge.nl

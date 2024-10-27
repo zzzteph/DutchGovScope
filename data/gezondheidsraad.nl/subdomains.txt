@@ -1,7 +1,4 @@
-www.gezondheidsraad.nl
+gezondheidsraad.nl
 opendata.gezondheidsraad.nl
 feeds.gezondheidsraad.nl
-gezondheidsraad.nl
-a-opendata.gezondheidsraad.nl
-a-www.gezondheidsraad.nl
-a-feeds.gezondheidsraad.nl
+www.gezondheidsraad.nl

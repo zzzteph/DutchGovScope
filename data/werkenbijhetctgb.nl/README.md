@@ -13,7 +13,6 @@
 |------------|-------|------|
 |[subdomains.txt](/data/werkenbijhetctgb.nl/subdomains.txt)|2|Alive subdomains|
 |[urls.txt](/data/werkenbijhetctgb.nl/urls.txt)|2|Urls|
-|[all_subdomains.txt](/data/werkenbijhetctgb.nl/all_subdomains.txt)|2|All found subdomains (history)|
 
 
 ## Statistics
@@ -23,4 +22,5 @@
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[https://werkenbijhetctgb.nl](https://werkenbijhetctgb.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |||
 |[https://www.werkenbijhetctgb.nl](https://www.werkenbijhetctgb.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |||
+
 

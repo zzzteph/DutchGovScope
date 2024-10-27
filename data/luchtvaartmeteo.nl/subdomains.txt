@@ -1,8 +1,7 @@
-acc.luchtvaartmeteo.nl
 nieuw.luchtvaartmeteo.nl
+acc.luchtvaartmeteo.nl
 nieuw.acc.luchtvaartmeteo.nl
-www.luchtvaartmeteo.nl
 www.acc.luchtvaartmeteo.nl
+www.luchtvaartmeteo.nl
 luchtvaartmeteo.nl
 new.luchtvaartmeteo.nl
-oud.luchtvaartmeteo.nl

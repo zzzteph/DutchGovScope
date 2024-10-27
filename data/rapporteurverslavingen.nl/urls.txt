@@ -1,4 +1,3 @@
 https://feeds.rapporteurverslavingen.nl
 https://opendata.rapporteurverslavingen.nl
-https://rapporteurverslavingen.nl
 https://www.rapporteurverslavingen.nl

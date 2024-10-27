@@ -1,11 +1,4 @@
+zovar.nl
 feeds.zovar.nl
 opendata.zovar.nl
 www.zovar.nl
-www.csp.zovar.nl
-zovar.nl
-ocsp.zovar.nl
-formulieren.zovar.nl
-ldap.zovar.nl
-a-feeds.zovar.nl
-a-opendata.zovar.nl
-a-www.zovar.nl

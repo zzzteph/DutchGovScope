@@ -3,13 +3,11 @@ layout: default
 title: "programmamenscentraal.nl"
 permalink: "/dutchgov/programmamenscentraal.nl.html"
 subdomains_count: 2
-all_subdomains_count: 10
 urls_count: 2
-ssl_rank: A+
+ssl_rank: 
 http_rank: A
 security_txt: 2
 url_link: /data/programmamenscentraal.nl/urls.txt
-all_subdomains_link: /data/programmamenscentraal.nl/all_subdomains.txt
 subdomains_link: /data/programmamenscentraal.nl/subdomains.txt
 categories: dutchgov
 tags: dutchgov
@@ -20,7 +18,7 @@ tags: dutchgov
 ## Summary data
 
 
- - **SSL Grade**:A+
+ - **SSL Grade**:
  - **HTTP Security Grade**:A
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:2
 
@@ -29,7 +27,6 @@ tags: dutchgov
 |------------|-------|------|
 |[subdomains.txt](/DutchGovScope/data/programmamenscentraal.nl/subdomains.txt)|2|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/programmamenscentraal.nl/urls.txt)|2|Urls|
-|[all_subdomains.txt](/DutchGovScope/data/programmamenscentraal.nl/all_subdomains.txt)|10|All found subdomains (history)|
 
 
 ## Statistics
@@ -37,6 +34,7 @@ tags: dutchgov
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://www.programmamenscentraal.nl](https://www.programmamenscentraal.nl)| **A+**| **A**|nginx|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx||
-|[https://programmamenscentraal.nl](https://programmamenscentraal.nl)| **A+**| **A**|nginx|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx|301 Moved Perman...|
+|[https://programmamenscentraal.nl](https://programmamenscentraal.nl)| | **A**|nginx|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx|301 Moved Perman...|
+|[https://www.programmamenscentraal.nl](https://www.programmamenscentraal.nl)| | **A**|nginx|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx||
+
 

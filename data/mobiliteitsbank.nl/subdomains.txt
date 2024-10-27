@@ -1,12 +1,11 @@
-api.mobiliteitsbank.nl
+mobiliteitsbank.nl
+www.mobiliteitsbank.nl
 csoacct.mobiliteitsbank.nl
 csotest.mobiliteitsbank.nl
+sandbox.mobiliteitsbank.nl
+api.mobiliteitsbank.nl
 odc.mobiliteitsbank.nl
 test.mobiliteitsbank.nl
 vacaturezoekservice.mobiliteitsbank.nl
 vacaturezoekservice-acceptatie.mobiliteitsbank.nl
 vacaturezoekservice-test.mobiliteitsbank.nl
-www.mobiliteitsbank.nl
-mobiliteitsbank.nl
-sandbox.mobiliteitsbank.nl
-acceptatie.mobiliteitsbank.nl

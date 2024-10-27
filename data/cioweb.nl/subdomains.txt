@@ -1,6 +1,3 @@
 www.cioweb.nl
 cioweb.nl
-mail.cioweb.nl
 autodiscover.cioweb.nl
-ftp.cioweb.nl
-test.cioweb.nl

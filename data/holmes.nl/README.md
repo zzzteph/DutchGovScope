@@ -5,15 +5,14 @@
 
 
  - **SSL Grade**:
- - **HTTP Security Grade**:E
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:1
+ - **HTTP Security Grade**:F
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:0
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/holmes.nl/subdomains.txt)|37|Alive subdomains|
-|[urls.txt](/data/holmes.nl/urls.txt)|14|Urls|
-|[all_subdomains.txt](/data/holmes.nl/all_subdomains.txt)|37|All found subdomains (history)|
+|[subdomains.txt](/data/holmes.nl/subdomains.txt)|0|Alive subdomains|
+|[urls.txt](/data/holmes.nl/urls.txt)|0|Urls|
 
 
 ## Statistics
@@ -21,18 +20,5 @@
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[http://docviewer01.prod-ext.hansken.holmes.nl](http://docviewer01.prod-ext.hansken.holmes.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
-|[http://frontend01.prod-ext.hansken.holmes.nl](http://frontend01.prod-ext.hansken.holmes.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
-|[http://gatekeeper01.prod-ext.hansken.holmes.nl](http://gatekeeper01.prod-ext.hansken.holmes.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
-|[http://huib.prod-ext.hansken.holmes.nl](http://huib.prod-ext.hansken.holmes.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
-|[http://keycloak.prod-ext.hansken.holmes.nl](http://keycloak.prod-ext.hansken.holmes.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
-|[http://keystore01.prod-ext.hansken.holmes.nl](http://keystore01.prod-ext.hansken.holmes.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
-|[http://osm.hansken.holmes.nl](http://osm.hansken.holmes.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
-|[http://preference01.prod-ext.hansken.holmes.nl](http://preference01.prod-ext.hansken.holmes.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
-|[https://downloads.holmes.nl](https://downloads.holmes.nl)| | **C**|Apache| |:white_check_mark: | | | | | | :white_check_mark: | |Apache HTTP Server Basic HSTS|401 Unauthorized|
-|[https://holmes.nl](https://holmes.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
-|[https://www.holmes.nl](https://www.holmes.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Nginx|302 Found|
-|[http://dfaas-proxy-01.holmes.nl](http://dfaas-proxy-01.holmes.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
-|[http://dfaas-proxy.holmes.nl](http://dfaas-proxy.holmes.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
-|[http://dfaas-proxy-02.holmes.nl](http://dfaas-proxy-02.holmes.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
+
 

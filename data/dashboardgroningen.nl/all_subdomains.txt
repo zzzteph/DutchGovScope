@@ -1,5 +1,0 @@
-api.dashboardgroningen.nl
-www.dashboardgroningen.nl
-acc.dashboardgroningen.nl
-dashboardgroningen.nl
-api-acc.dashboardgroningen.nl

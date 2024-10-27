@@ -1,7 +1,0 @@
-feeds.commissiecelz.nl
-opendata.commissiecelz.nl
-www.commissiecelz.nl
-commissiecelz.nl
-a-feeds.commissiecelz.nl
-a-opendata.commissiecelz.nl
-a-www.commissiecelz.nl

@@ -1,7 +1,4 @@
-feeds.ncab.nl
-ncab.nl
 opendata.ncab.nl
 www.ncab.nl
-a-opendata.ncab.nl
-a-www.ncab.nl
-a-feeds.ncab.nl
+feeds.ncab.nl
+ncab.nl

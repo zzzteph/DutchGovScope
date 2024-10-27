@@ -1,7 +1,4 @@
 feeds.nieuwsbrievenminocw.nl
+nieuwsbrievenminocw.nl
 opendata.nieuwsbrievenminocw.nl
 www.nieuwsbrievenminocw.nl
-nieuwsbrievenminocw.nl
-a-feeds.nieuwsbrievenminocw.nl
-a-opendata.nieuwsbrievenminocw.nl
-a-www.nieuwsbrievenminocw.nl

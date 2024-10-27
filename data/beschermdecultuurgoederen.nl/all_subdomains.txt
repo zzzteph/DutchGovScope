@@ -1,8 +1,0 @@
-beschermdecultuurgoederen.nl
-feeds.beschermdecultuurgoederen.nl
-opendata.beschermdecultuurgoederen.nl
-www.beschermdecultuurgoederen.nl
-autodiscover.beschermdecultuurgoederen.nl
-a-www.beschermdecultuurgoederen.nl
-a-feeds.beschermdecultuurgoederen.nl
-a-opendata.beschermdecultuurgoederen.nl

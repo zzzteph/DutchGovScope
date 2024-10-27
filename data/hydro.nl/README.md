@@ -5,15 +5,14 @@
 
 
  - **SSL Grade**:
- - **HTTP Security Grade**:F
+ - **HTTP Security Grade**:E
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:0
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/hydro.nl/subdomains.txt)|15|Alive subdomains|
-|[urls.txt](/data/hydro.nl/urls.txt)|14|Urls|
-|[all_subdomains.txt](/data/hydro.nl/all_subdomains.txt)|16|All found subdomains (history)|
+|[subdomains.txt](/data/hydro.nl/subdomains.txt)|3|Alive subdomains|
+|[urls.txt](/data/hydro.nl/urls.txt)|3|Urls|
 
 
 ## Statistics
@@ -21,18 +20,8 @@
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://www.hydro.nl](https://www.hydro.nl)| | **F**|LiteSpeed| | | | | | | | :white_check_mark: | |LiteSpeed Litespeed Cache|Dienst der Hydro...|
 |[https://hydro.nl](https://hydro.nl)| | **F**|LiteSpeed| | | | | | | | :white_check_mark: | |LiteSpeed Litespeed Cache|Dienst der Hydro...|
+|[https://www.hydro.nl](https://www.hydro.nl)| | **F**|LiteSpeed| | | | | | | | :white_check_mark: | |LiteSpeed Litespeed Cache|Dienst der Hydro...|
 |[https://transfer.hydro.nl](https://transfer.hydro.nl)| | **C**|Microsoft-IIS/10.0| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS IIS:10.0 Windows Server|Transfer website...|
-|[https://webdisk.hydro.nl](https://webdisk.hydro.nl)| | **F**|LiteSpeed| | | | | | | | :white_check_mark: | |Basic LiteSpeed Litespeed Cache||
-|[https://cpanel.hydro.nl](https://cpanel.hydro.nl)| | **F**|LiteSpeed| | | | | | | | :white_check_mark: | |LiteSpeed Litespeed Cache cPanel|cPanel Login|
-|[https://cpcalendars.hydro.nl](https://cpcalendars.hydro.nl)| | **F**|LiteSpeed| | | | | | | | :white_check_mark: | |LiteSpeed Litespeed Cache|Moved Permanentl...|
-|[https://cpcontacts.hydro.nl](https://cpcontacts.hydro.nl)| | **F**|LiteSpeed| | | | | | | | :white_check_mark: | |LiteSpeed Litespeed Cache|Moved Permanentl...|
-|[https://mail.hydro.nl](https://mail.hydro.nl)| | **F**|LiteSpeed| | | | | | | | :white_check_mark: | |LiteSpeed Litespeed Cache|Dienst der Hydro...|
-|[https://webmail.hydro.nl](https://webmail.hydro.nl)| | **F**|LiteSpeed| | | | | | | | :white_check_mark: | |LiteSpeed Litespeed Cache|Webmail Login|
-|[https://whm.hydro.nl](https://whm.hydro.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
-|[https://autoconfig.hydro.nl](https://autoconfig.hydro.nl)| | **F**|LiteSpeed| | | | | | | | :white_check_mark: | |LiteSpeed Litespeed Cache||
-|[https://autodiscover.hydro.nl](https://autodiscover.hydro.nl)| | **F**|LiteSpeed| | | | | | | | :white_check_mark: | |LiteSpeed Litespeed Cache||
-|[https://enterpriseenrollment.hydro.nl](https://enterpriseenrollment.hydro.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||
-|[https://enterpriseregistration.hydro.nl](https://enterpriseregistration.hydro.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
+
 

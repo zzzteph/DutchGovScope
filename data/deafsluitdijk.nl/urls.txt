@@ -1,4 +1,3 @@
-https://reserveren.deafsluitdijk.nl
-https://www.deafsluitdijk.nl
 https://deafsluitdijk.nl
-http://autodiscover.deafsluitdijk.nl
+https://www.deafsluitdijk.nl
+https://reserveren.deafsluitdijk.nl

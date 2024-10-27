@@ -13,7 +13,6 @@
 |------------|-------|------|
 |[subdomains.txt](/data/medicijnregister.nl/subdomains.txt)|2|Alive subdomains|
 |[urls.txt](/data/medicijnregister.nl/urls.txt)|2|Urls|
-|[all_subdomains.txt](/data/medicijnregister.nl/all_subdomains.txt)|2|All found subdomains (history)|
 
 
 ## Statistics
@@ -23,4 +22,5 @@
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[https://medicijnregister.nl](https://medicijnregister.nl)| | **B**|Microsoft-IIS/10.0|:warning: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS IIS:10.0 Windows Server|Document Moved|
 |[https://www.medicijnregister.nl](https://www.medicijnregister.nl)| | **B**|Microsoft-IIS/10.0|:warning: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS IIS:10.0 Windows Server|Document Moved|
+
 

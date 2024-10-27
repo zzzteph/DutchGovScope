@@ -1,7 +1,3 @@
 feeds.startmetoesorichtlijnen.nl
 opendata.startmetoesorichtlijnen.nl
 www.startmetoesorichtlijnen.nl
-startmetoesorichtlijnen.nl
-a-feeds.startmetoesorichtlijnen.nl
-a-opendata.startmetoesorichtlijnen.nl
-a-www.startmetoesorichtlijnen.nl

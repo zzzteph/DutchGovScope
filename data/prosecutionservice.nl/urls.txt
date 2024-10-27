@@ -1,6 +1,6 @@
-https://opendata.prosecutionservice.nl
-https://criminalfilesmh17.prosecutionservice.nl
 https://criminalfilesmh17.acc.prosecutionservice.nl
+https://criminalfilesmh17.prosecutionservice.nl
 https://feeds.prosecutionservice.nl
-https://www.prosecutionservice.nl
+https://opendata.prosecutionservice.nl
 https://prosecutionservice.nl
+https://www.prosecutionservice.nl

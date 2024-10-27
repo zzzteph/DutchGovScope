@@ -1,4 +1,3 @@
 https://aansluiten.procesinfrastructuur.nl
 http://cs-portaal.procesinfrastructuur.nl
 http://dashboard.procesinfrastructuur.nl
-http://test-afleveren.procesinfrastructuur.nl

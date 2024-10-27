@@ -1,7 +1,0 @@
-feeds.rvihh.nl
-opendata.rvihh.nl
-rvihh.nl
-www.rvihh.nl
-a-feeds.rvihh.nl
-a-opendata.rvihh.nl
-a-www.rvihh.nl

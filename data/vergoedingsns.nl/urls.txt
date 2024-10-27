@@ -1,6 +1,5 @@
-https://www.vergoedingsns.nl
 https://aanvragen.vergoedingsns.nl
 https://feeds.vergoedingsns.nl
 https://opendata.vergoedingsns.nl
 https://vergoedingsns.nl
-http://autodiscover.vergoedingsns.nl
+https://www.vergoedingsns.nl

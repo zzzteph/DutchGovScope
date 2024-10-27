@@ -4,16 +4,15 @@
 ## Summary data
 
 
- - **SSL Grade**:A
+ - **SSL Grade**:
  - **HTTP Security Grade**:A
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:9
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/igj.nl/subdomains.txt)|53|Alive subdomains|
+|[subdomains.txt](/data/igj.nl/subdomains.txt)|15|Alive subdomains|
 |[urls.txt](/data/igj.nl/urls.txt)|15|Urls|
-|[all_subdomains.txt](/data/igj.nl/all_subdomains.txt)|73|All found subdomains (history)|
 
 
 ## Statistics
@@ -21,19 +20,20 @@
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://documentenapplicatie.igj.nl](https://documentenapplicatie.igj.nl)| **A+**| **B**|nginx| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS Nginx|IGJ | Toezichtdo...|
-|[https://english.igj.nl](https://english.igj.nl)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Home | Health an...|
-|[https://feeds.igj.nl](https://feeds.igj.nl)| **A+**| **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
-|[https://feeds.english.igj.nl](https://feeds.english.igj.nl)| **A+**| **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
-|[https://magazines.igj.nl](https://magazines.igj.nl)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Kiosk | Magazine...|
-|[https://mijn.igj.nl](https://mijn.igj.nl)| **A+**| **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|IGJ | Mijn IGJ|
-|[https://mijn-acc.igj.nl](https://mijn-acc.igj.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|403 Forbidden|
-|[https://opendata.igj.nl](https://opendata.igj.nl)| **A+**| **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
+|[https://documentenapplicatie.igj.nl](https://documentenapplicatie.igj.nl)| | **B**|nginx| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS Nginx|IGJ | Toezichtdo...|
+|[https://mijn.igj.nl](https://mijn.igj.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|IGJ | Mijn IGJ|
+|[https://toezichtdocumenten.igj.nl](https://toezichtdocumenten.igj.nl)| | **B**|nginx| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS Nginx|IGJ | Toezichtdo...|
+|[https://feeds.igj.nl](https://feeds.igj.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
+|[https://igj.nl](https://igj.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
+|[https://magazines.igj.nl](https://magazines.igj.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Kiosk | Magazine...|
 |[https://opendata.english.igj.nl](https://opendata.english.igj.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
-|[https://toezichtdocumenten.igj.nl](https://toezichtdocumenten.igj.nl)| **A+**| **B**|nginx| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS Nginx|IGJ | Toezichtdo...|
-|[https://www.igj.nl](https://www.igj.nl)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|IGJ.nl | Inspect...|
-|[https://www.abonneren.toezichtdocumenten.igj.nl](https://www.abonneren.toezichtdocumenten.igj.nl)| | **A**|Microsoft-IIS/8.5| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS IIS:8.5 Microsoft ASP.NET:4.0.30319 Windows Server|Inspectie voor d...|
-|[https://igj.nl](https://igj.nl)| **A+**| **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
+|[https://www.igj.nl](https://www.igj.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|IGJ.nl | Inspect...|
+|[https://english.igj.nl](https://english.igj.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Home | Health an...|
+|[https://feeds.english.igj.nl](https://feeds.english.igj.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[http://survey-acc.igj.nl](http://survey-acc.igj.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
-|[http://survey-beheeracc.igj.nl](http://survey-beheeracc.igj.nl)| **F**| **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
+|[http://survey-beheeracc.igj.nl](http://survey-beheeracc.igj.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
+|[https://www.abonneren.toezichtdocumenten.igj.nl](https://www.abonneren.toezichtdocumenten.igj.nl)| | **A**|Microsoft-IIS/8.5| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS IIS:8.5 Microsoft ASP.NET:4.0.30319 Windows Server|Inspectie voor d...|
+|[https://mijn-acc.igj.nl](https://mijn-acc.igj.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|403 Forbidden|
+|[https://opendata.igj.nl](https://opendata.igj.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
+
 

@@ -1,10 +1,4 @@
 feeds.ivd.nl
+ivd.nl
 opendata.ivd.nl
 www.ivd.nl
-ivd.nl
-a-www.ivd.nl
-a-opendata.ivd.nl
-i-www.ivd.nl
-t-www.ivd.nl
-a-feeds.ivd.nl
-o-www.ivd.nl

@@ -11,9 +11,8 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/circulairinkopen.nl/subdomains.txt)|7|Alive subdomains|
+|[subdomains.txt](/data/circulairinkopen.nl/subdomains.txt)|4|Alive subdomains|
 |[urls.txt](/data/circulairinkopen.nl/urls.txt)|4|Urls|
-|[all_subdomains.txt](/data/circulairinkopen.nl/all_subdomains.txt)|7|All found subdomains (history)|
 
 
 ## Statistics
@@ -25,4 +24,5 @@
 |[https://feeds.circulairinkopen.nl](https://feeds.circulairinkopen.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://opendata.circulairinkopen.nl](https://opendata.circulairinkopen.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://www.circulairinkopen.nl](https://www.circulairinkopen.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Home | Circulair...|
+
 

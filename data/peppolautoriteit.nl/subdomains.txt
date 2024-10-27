@@ -1,9 +1,6 @@
-test.peppolautoriteit.nl
-www.peppolautoriteit.nl
-peppolautoriteit.nl
-www.test.peppolautoriteit.nl
 feeds.peppolautoriteit.nl
 opendata.peppolautoriteit.nl
-a-feeds.peppolautoriteit.nl
-a-opendata.peppolautoriteit.nl
-a-www.peppolautoriteit.nl
+peppolautoriteit.nl
+www.peppolautoriteit.nl
+test.peppolautoriteit.nl
+www.test.peppolautoriteit.nl

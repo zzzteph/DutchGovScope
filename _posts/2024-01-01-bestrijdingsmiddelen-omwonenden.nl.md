@@ -2,14 +2,12 @@
 layout: default
 title: "bestrijdingsmiddelen-omwonenden.nl"
 permalink: "/dutchgov/bestrijdingsmiddelen-omwonenden.nl.html"
-subdomains_count: 3
-all_subdomains_count: 3
-urls_count: 3
-ssl_rank: A+
-http_rank: C
+subdomains_count: 2
+urls_count: 2
+ssl_rank: 
+http_rank: A
 security_txt: 2
 url_link: /data/bestrijdingsmiddelen-omwonenden.nl/urls.txt
-all_subdomains_link: /data/bestrijdingsmiddelen-omwonenden.nl/all_subdomains.txt
 subdomains_link: /data/bestrijdingsmiddelen-omwonenden.nl/subdomains.txt
 categories: dutchgov
 tags: dutchgov
@@ -20,16 +18,15 @@ tags: dutchgov
 ## Summary data
 
 
- - **SSL Grade**:A+
- - **HTTP Security Grade**:C
+ - **SSL Grade**:
+ - **HTTP Security Grade**:A
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:2
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/bestrijdingsmiddelen-omwonenden.nl/subdomains.txt)|3|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/bestrijdingsmiddelen-omwonenden.nl/urls.txt)|3|Urls|
-|[all_subdomains.txt](/DutchGovScope/data/bestrijdingsmiddelen-omwonenden.nl/all_subdomains.txt)|3|All found subdomains (history)|
+|[subdomains.txt](/DutchGovScope/data/bestrijdingsmiddelen-omwonenden.nl/subdomains.txt)|2|Alive subdomains|
+|[urls.txt](/DutchGovScope/data/bestrijdingsmiddelen-omwonenden.nl/urls.txt)|2|Urls|
 
 
 ## Statistics
@@ -37,7 +34,7 @@ tags: dutchgov
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://www.bestrijdingsmiddelen-omwonenden.nl](https://www.bestrijdingsmiddelen-omwonenden.nl)| **A+**| **A**|Apache| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server Drupal HSTS PHP|Home | Bestrijdi...|
-|[https://bestrijdingsmiddelen-omwonenden.nl](https://bestrijdingsmiddelen-omwonenden.nl)| **A+**| **A**|Apache| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS|301 Moved Perman...|
-|[http://localhost.bestrijdingsmiddelen-omwonenden.nl](http://localhost.bestrijdingsmiddelen-omwonenden.nl)| | **F**|nginx| | | :warning:| | | | | :white_check_mark: | |Nginx|(404 Not Found)|
+|[https://bestrijdingsmiddelen-omwonenden.nl](https://bestrijdingsmiddelen-omwonenden.nl)| | **A**|Apache/2.4.37 (Red Hat Enterprise Linux)| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server:2.4.37 Drupal HSTS PHP Red Hat|Home | Bestrijdi...|
+|[https://www.bestrijdingsmiddelen-omwonenden.nl](https://www.bestrijdingsmiddelen-omwonenden.nl)| | **A**|Apache/2.4.37 (Red Hat Enterprise Linux)| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server:2.4.37 Drupal HSTS PHP:8.1.29 Red Hat|Home | Bestrijdi...|
+
 

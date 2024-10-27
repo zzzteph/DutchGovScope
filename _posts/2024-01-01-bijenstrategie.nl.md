@@ -3,13 +3,11 @@ layout: default
 title: "bijenstrategie.nl"
 permalink: "/dutchgov/bijenstrategie.nl.html"
 subdomains_count: 2
-all_subdomains_count: 2
 urls_count: 2
 ssl_rank: 
 http_rank: A
 security_txt: 2
 url_link: /data/bijenstrategie.nl/urls.txt
-all_subdomains_link: /data/bijenstrategie.nl/all_subdomains.txt
 subdomains_link: /data/bijenstrategie.nl/subdomains.txt
 categories: dutchgov
 tags: dutchgov
@@ -29,7 +27,6 @@ tags: dutchgov
 |------------|-------|------|
 |[subdomains.txt](/DutchGovScope/data/bijenstrategie.nl/subdomains.txt)|2|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/bijenstrategie.nl/urls.txt)|2|Urls|
-|[all_subdomains.txt](/DutchGovScope/data/bijenstrategie.nl/all_subdomains.txt)|2|All found subdomains (history)|
 
 
 ## Statistics
@@ -39,4 +36,5 @@ tags: dutchgov
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[https://bijenstrategie.nl](https://bijenstrategie.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |||
 |[https://www.bijenstrategie.nl](https://www.bijenstrategie.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |||
+
 
