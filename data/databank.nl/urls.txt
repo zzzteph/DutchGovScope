@@ -13,6 +13,7 @@ https://arbeidsmarktdetailhandel.databank.nl
 https://rvo.databank.nl
 https://klimaatmonitor.databank.nl
 https://arbeidsmarktmobiliteit.databank.nl
+https://test-mbotransparant.databank.nl
 https://vue.databank.nl
 https://brabant.databank.nl
 https://cbc2.databank.nl
@@ -50,6 +51,7 @@ http://demo-ebc.databank.nl
 https://ftgelderland.databank.nl
 https://beta-klimaatbeleid.databank.nl
 https://beta-vivet.databank.nl
+https://beta-datawonen.databank.nl
 https://beta-klimaatmonitor.databank.nl
 https://beta-gdi.databank.nl
 https://cname-holland-rijnland.databank.nl

@@ -10,3 +10,5 @@ https://www-acceptatie2.werkenbijdeoverheid.nl
 http://vacaturezoekservice-test.werkenbijdeoverheid.nl
 http://www-test2.werkenbijdeoverheid.nl
 https://www-sandbox.werkenbijdeoverheid.nl
+https://sandbox.werkenbijdeoverheid.nl
+https://vacaturezoekservice.werkenbijdeoverheid.nl

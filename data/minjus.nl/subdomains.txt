@@ -3,3 +3,4 @@ enterpriseenrollment.dji.minjus.nl
 minjus.nl
 www.minjus.nl
 portal.justid.minjus.nl
+enterpriseenrollment.minjus.nl

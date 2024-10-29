@@ -2,10 +2,10 @@
 layout: default
 title: "lchulpmiddelen.nl"
 permalink: "/dutchgov/lchulpmiddelen.nl.html"
-subdomains_count: 9
-urls_count: 9
+subdomains_count: 11
+urls_count: 11
 ssl_rank: 
-http_rank: D
+http_rank: E
 security_txt: 2
 url_link: /data/lchulpmiddelen.nl/urls.txt
 subdomains_link: /data/lchulpmiddelen.nl/subdomains.txt
@@ -19,14 +19,14 @@ tags: dutchgov
 
 
  - **SSL Grade**:
- - **HTTP Security Grade**:D
+ - **HTTP Security Grade**:E
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:2
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/lchulpmiddelen.nl/subdomains.txt)|9|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/lchulpmiddelen.nl/urls.txt)|9|Urls|
+|[subdomains.txt](/DutchGovScope/data/lchulpmiddelen.nl/subdomains.txt)|11|Alive subdomains|
+|[urls.txt](/DutchGovScope/data/lchulpmiddelen.nl/urls.txt)|11|Urls|
 
 
 ## Statistics
@@ -43,5 +43,7 @@ tags: dutchgov
 |[https://www.lchulpmiddelen.nl](https://www.lchulpmiddelen.nl)| | **A**|-| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://lchulpmiddelen.nl](https://lchulpmiddelen.nl)| | **A**|-| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://test.apps.lchulpmiddelen.nl](https://test.apps.lchulpmiddelen.nl)| | **F**|Microsoft-IIS/10.0| | | | | | | | :white_check_mark: | |IIS:10.0 Windows Server|502 - Web server...|
+|[https://ftp.lchulpmiddelen.nl](https://ftp.lchulpmiddelen.nl)| | **F**|LiteSpeed| | | | | | | | :white_check_mark: | |HTTP/3 LiteSpeed||
+|[https://whm.lchulpmiddelen.nl](https://whm.lchulpmiddelen.nl)| | **F**|LiteSpeed| | | | | | | | :white_check_mark: | |HTTP/3 LiteSpeed|WHM Login|
 
 

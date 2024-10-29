@@ -4,3 +4,4 @@ isdbollenstreek.nl
 mijnloket-test.isdbollenstreek.nl
 mijnloket.isdbollenstreek.nl
 www.isdbollenstreek.nl
+autodiscover.isdbollenstreek.nl

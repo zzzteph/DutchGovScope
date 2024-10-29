@@ -58,3 +58,6 @@ taiga.rdobeheer.nl
 vpn.rdobeheer.nl
 web.acc.dpr.rdobeheer.nl
 web.acc.woo.rdobeheer.nl
+yivi.pilot.proeftuin.uzi-online.rdobeheer.nl
+balie.acc.woo.rdobeheer.nl
+web.test.dpr.rdobeheer.nl

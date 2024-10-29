@@ -61,3 +61,4 @@ hapi.acc.spaceweather.knmi.nl
 hapi.spaceweather.knmi.nl
 notifications.dev.spaceweather.knmi.nl
 panelrows.dev.spaceweather.knmi.nl
+cabauw.knmi.nl

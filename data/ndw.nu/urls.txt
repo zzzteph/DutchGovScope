@@ -76,3 +76,10 @@ https://viz.ndw.nu
 https://sentry.ndw.nu
 https://design.ndw.nu
 https://stats.ndw.nu
+https://analytics.ndw.nu
+https://data-staging.ndw.nu
+https://design.staging.ndw.nu
+https://docs.staging.ndw.nu
+https://mijn.staging.ndw.nu
+https://mail.ndw.nu
+https://acceptatie-melvin.ndw.nu

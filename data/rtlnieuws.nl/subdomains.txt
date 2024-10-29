@@ -3,3 +3,5 @@ acc.rtlnieuws.nl
 rtlnieuws.nl
 sso.rtlnieuws.nl
 www.rtlnieuws.nl
+dev-beta.rtlnieuws.nl
+prod.rtlnieuws.nl

@@ -10,3 +10,6 @@ https://odnhn.nl
 https://www.odnhn.nl
 https://test-cmsintranet.odnhn.nl
 https://vpn.odnhn.nl
+http://autodiscover.odnhn.nl
+https://email.odnhn.nl
+https://enterpriseregistration.odnhn.nl

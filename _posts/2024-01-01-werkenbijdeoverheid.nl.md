@@ -2,11 +2,11 @@
 layout: default
 title: "werkenbijdeoverheid.nl"
 permalink: "/dutchgov/werkenbijdeoverheid.nl.html"
-subdomains_count: 12
-urls_count: 12
+subdomains_count: 14
+urls_count: 14
 ssl_rank: 
 http_rank: D
-security_txt: 3
+security_txt: 4
 url_link: /data/werkenbijdeoverheid.nl/urls.txt
 subdomains_link: /data/werkenbijdeoverheid.nl/subdomains.txt
 categories: dutchgov
@@ -20,13 +20,13 @@ tags: dutchgov
 
  - **SSL Grade**:
  - **HTTP Security Grade**:D
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:3
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:4
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/werkenbijdeoverheid.nl/subdomains.txt)|12|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/werkenbijdeoverheid.nl/urls.txt)|12|Urls|
+|[subdomains.txt](/DutchGovScope/data/werkenbijdeoverheid.nl/subdomains.txt)|14|Alive subdomains|
+|[urls.txt](/DutchGovScope/data/werkenbijdeoverheid.nl/urls.txt)|14|Urls|
 
 
 ## Statistics
@@ -46,5 +46,7 @@ tags: dutchgov
 |[http://vacaturezoekservice-test.werkenbijdeoverheid.nl](http://vacaturezoekservice-test.werkenbijdeoverheid.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[http://www-test2.werkenbijdeoverheid.nl](http://www-test2.werkenbijdeoverheid.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://www-sandbox.werkenbijdeoverheid.nl](https://www-sandbox.werkenbijdeoverheid.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
+|[https://sandbox.werkenbijdeoverheid.nl](https://sandbox.werkenbijdeoverheid.nl)| | **D**|cloudflare|:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | |Basic Cloudflare HSTS|Authentication R...|
+|[https://vacaturezoekservice.werkenbijdeoverheid.nl](https://vacaturezoekservice.werkenbijdeoverheid.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
 
 

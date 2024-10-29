@@ -172,3 +172,9 @@ https://webext.cbs.nl
 https://cerberus.cbs.nl
 https://content1.cbs.nl
 https://gecko.cbs.nl
+https://login-databestanden.test.cbs.nl
+https://beh-iam.acceptatie.cbs.nl
+https://geodata.cbs.nl
+https://livecharts.cbs.nl
+https://iv3-controle.beta.cbs.nl
+https://beta-iv3-controle.cbs.nl

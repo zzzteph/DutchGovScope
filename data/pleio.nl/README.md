@@ -5,14 +5,14 @@
 
 
  - **SSL Grade**:
- - **HTTP Security Grade**:C
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:17
+ - **HTTP Security Grade**:B
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:18
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/pleio.nl/subdomains.txt)|49|Alive subdomains|
-|[urls.txt](/data/pleio.nl/urls.txt)|49|Urls|
+|[subdomains.txt](/data/pleio.nl/subdomains.txt)|64|Alive subdomains|
+|[urls.txt](/data/pleio.nl/urls.txt)|50|Urls|
 
 
 ## Statistics
@@ -33,10 +33,10 @@
 |[https://aangifteselectie-chat.pleio.nl](https://aangifteselectie-chat.pleio.nl)| | **B**||:white_check_mark: |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | |HSTS Ruby Ruby on Rails|Chatwoot|
 |[https://dgh-chat.pleio.nl](https://dgh-chat.pleio.nl)| | **B**||:white_check_mark: |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | |HSTS Ruby Ruby on Rails|Chatwoot|
 |[https://moodle.pleio.nl](https://moodle.pleio.nl)| | **B**||:warning: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Moodle PHP|Startpagina | Pl...|
-|[https://eclo.odc.pleio.nl](https://eclo.odc.pleio.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS|404 Not Found|
 |[https://help.odc.pleio.nl](https://help.odc.pleio.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS|404 Not Found|
 |[https://pleio.nl](https://pleio.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache Tomcat Fourthwall:1.0.0 HSTS Java MariaDB Skolengo:1.0.0|Laagdrempelig sa...|
 |[https://kia.odc.pleio.nl](https://kia.odc.pleio.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS|404 Not Found|
+|[https://netwerkabroad.odc.pleio.nl](https://netwerkabroad.odc.pleio.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS|404 Not Found|
 |[https://tooling.capacitor.pleio.nl](https://tooling.capacitor.pleio.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | ||302 Found|
 |[https://auth.k8sauth.pleio.nl](https://auth.k8sauth.pleio.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
 |[https://idm.k8sauth.pleio.nl](https://idm.k8sauth.pleio.nl)| | **C**||:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
@@ -66,8 +66,9 @@
 |[https://videobellen.pleio.nl](https://videobellen.pleio.nl)| | **C**|nginx/1.18.0 (Ubuntu)| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Nginx:1.18.0 Ubuntu|Jitsi Meet|
 |[https://gemeentelijkgeoberaad.pleio.nl](https://gemeentelijkgeoberaad.pleio.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache Tomcat Fourthwall:1.0.0 HSTS Java MariaDB Skolengo:1.0.0|Gemeentelijk Geo...|
 |[https://eurlplanthealth.pleio.nl](https://eurlplanthealth.pleio.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|301 Moved Perman...|
-|[https://integralevroeghulp.odc.pleio.nl](https://integralevroeghulp.odc.pleio.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS|404 Not Found|
 |[https://digischool.odc.pleio.nl](https://digischool.odc.pleio.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS|404 Not Found|
 |[https://enquetes.pleio.nl](https://enquetes.pleio.nl)| | **C**||:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | |HSTS PHP|Pleio Enquête|
+|[https://kennisdelenrv.odc.pleio.nl](https://kennisdelenrv.odc.pleio.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS|404 Not Found|
+|[https://learningnetwork.pleio.nl](https://learningnetwork.pleio.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache Tomcat Fourthwall:1.0.0 HSTS Java MariaDB Skolengo:1.0.0|Learning Network...|
 
 

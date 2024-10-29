@@ -14,3 +14,5 @@ https://mpn.minienm.nl
 https://pre.service.mpn.minienm.nl
 https://service.mpn.minienm.nl
 https://mpn-pre.minienm.nl
+https://dcc.minienm.nl
+http://localhost.minienm.nl

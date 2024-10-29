@@ -2,8 +2,8 @@
 layout: default
 title: "trainingscatalogus.nl"
 permalink: "/dutchgov/trainingscatalogus.nl.html"
-subdomains_count: 84
-urls_count: 84
+subdomains_count: 88
+urls_count: 86
 ssl_rank: 
 http_rank: F
 security_txt: 1
@@ -25,8 +25,8 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/trainingscatalogus.nl/subdomains.txt)|84|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/trainingscatalogus.nl/urls.txt)|84|Urls|
+|[subdomains.txt](/DutchGovScope/data/trainingscatalogus.nl/subdomains.txt)|88|Alive subdomains|
+|[urls.txt](/DutchGovScope/data/trainingscatalogus.nl/urls.txt)|86|Urls|
 
 
 ## Statistics
@@ -55,7 +55,7 @@ tags: dutchgov
 |[https://vgz-lms.product-api.trainingscatalogus.nl](https://vgz-lms.product-api.trainingscatalogus.nl)| | **F**|Microsoft-IIS/10.0|:white_check_mark: | | | | | | | :white_check_mark: | |Azure IIS:10.0 Microsoft ASP.NET Windows Server||
 |[https://vgz-lms.scim-api.trainingscatalogus.nl](https://vgz-lms.scim-api.trainingscatalogus.nl)| | **F**|Microsoft-IIS/10.0|:white_check_mark: | | | | | | | :white_check_mark: | |Azure IIS:10.0 Microsoft ASP.NET Windows Server||
 |[https://svb-lms-a.scim-api.trainingscatalogus.nl](https://svb-lms-a.scim-api.trainingscatalogus.nl)| | **F**|Microsoft-IIS/10.0|:white_check_mark: | | | | | | | :white_check_mark: | |Azure IIS:10.0 Microsoft ASP.NET Windows Server||
-|[https://trainingscatalogus.nl](https://trainingscatalogus.nl)| | **F**|Microsoft-IIS/10.0| | | | | | | | :white_check_mark: | |HSTS IIS:10.0 Windows Server||
+|[https://trainingscatalogus.nl](https://trainingscatalogus.nl)| | **C**|Microsoft-IIS/10.0| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS IIS:10.0 Windows Server||
 |[https://vgz-lms-a.course-api.trainingscatalogus.nl](https://vgz-lms-a.course-api.trainingscatalogus.nl)| | **F**|Microsoft-IIS/10.0|:white_check_mark: | | | | | | | :white_check_mark: | |Azure IIS:10.0 Microsoft ASP.NET Windows Server||
 |[https://vgz-lms-a.enrollment-api.trainingscatalogus.nl](https://vgz-lms-a.enrollment-api.trainingscatalogus.nl)| | **F**|Microsoft-IIS/10.0|:white_check_mark: | | | | | | | :white_check_mark: | |Azure IIS:10.0 Microsoft ASP.NET Windows Server||
 |[https://vgz-lms-a.scim-api.trainingscatalogus.nl](https://vgz-lms-a.scim-api.trainingscatalogus.nl)| | **F**|Microsoft-IIS/10.0|:white_check_mark: | | | | | | | :white_check_mark: | |Azure IIS:10.0 Microsoft ASP.NET Windows Server||
@@ -118,5 +118,7 @@ tags: dutchgov
 |[https://lms-svb.trainingscatalogus.nl](https://lms-svb.trainingscatalogus.nl)| | **F**|Class| | | | | | | | :white_check_mark: | |HSTS|Access is denied...|
 |[https://lms-tennet.trainingscatalogus.nl](https://lms-tennet.trainingscatalogus.nl)| | **F**|Class| | | | | | | | :white_check_mark: | |HSTS|Access is denied...|
 |[https://senzer.trainingscatalogus.nl](https://senzer.trainingscatalogus.nl)| | **F**|Class| | | | | | | | :white_check_mark: | |HSTS||
+|[https://alliander-lms-t.enrollment-api.trainingscatalogus.nl](https://alliander-lms-t.enrollment-api.trainingscatalogus.nl)| | **F**|Microsoft-IIS/10.0|:white_check_mark: | | | | | | | :white_check_mark: | |Azure IIS:10.0 Microsoft ASP.NET Windows Server||
+|[https://alliander-lms-t.product-api.trainingscatalogus.nl](https://alliander-lms-t.product-api.trainingscatalogus.nl)| | **F**|Microsoft-IIS/10.0|:white_check_mark: | | | | | | | :white_check_mark: | |Azure IIS:10.0 Microsoft ASP.NET Windows Server||
 
 

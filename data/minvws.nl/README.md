@@ -6,13 +6,13 @@
 
  - **SSL Grade**:
  - **HTTP Security Grade**:B
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:7
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:8
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/minvws.nl/subdomains.txt)|10|Alive subdomains|
-|[urls.txt](/data/minvws.nl/urls.txt)|10|Urls|
+|[subdomains.txt](/data/minvws.nl/subdomains.txt)|11|Alive subdomains|
+|[urls.txt](/data/minvws.nl/urls.txt)|11|Urls|
 
 
 ## Statistics
@@ -30,5 +30,6 @@
 |[https://open.minvws.nl](https://open.minvws.nl)| | **A**|nginx| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|Home |...|
 |[https://vragenlijst.minvws.nl](https://vragenlijst.minvws.nl)| | **B**|nginx| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS Nginx|Onderzoekdoen.nl...|
 |[https://werkbezoek.minvws.nl](https://werkbezoek.minvws.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Voorpagina | Min...|
+|[https://www.vragenlijst.minvws.nl](https://www.vragenlijst.minvws.nl)| | **B**|nginx| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Nginx|301 Moved Perman...|
 
 

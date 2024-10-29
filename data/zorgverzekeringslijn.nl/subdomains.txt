@@ -4,4 +4,3 @@ www.zorgverzekeringslijn.nl
 test.trainingen.zorgverzekeringslijn.nl
 trainingen.zorgverzekeringslijn.nl
 zorgverzekeringslijn.nl
-wiki.zorgverzekeringslijn.nl

@@ -11,8 +11,8 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/justitieleictorganisatie.nl/subdomains.txt)|7|Alive subdomains|
-|[urls.txt](/data/justitieleictorganisatie.nl/urls.txt)|7|Urls|
+|[subdomains.txt](/data/justitieleictorganisatie.nl/subdomains.txt)|10|Alive subdomains|
+|[urls.txt](/data/justitieleictorganisatie.nl/urls.txt)|10|Urls|
 
 
 ## Statistics
@@ -27,5 +27,8 @@
 |[https://opendata.justitieleictorganisatie.nl](https://opendata.justitieleictorganisatie.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://www.justitieleictorganisatie.nl](https://www.justitieleictorganisatie.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Home | Justitiël...|
 |[https://intranet.justitieleictorganisatie.nl](https://intranet.justitieleictorganisatie.nl)| | **A**|Apache| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Apache HTTP Server HSTS||
+|[http://autodiscover.justitieleictorganisatie.nl](http://autodiscover.justitieleictorganisatie.nl)| | **C**|Microsoft-IIS/10.0| |:white_check_mark: | | | | | | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server||
+|[https://enterpriseenrollment.justitieleictorganisatie.nl](https://enterpriseenrollment.justitieleictorganisatie.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||
+|[https://enterpriseregistration.justitieleictorganisatie.nl](https://enterpriseregistration.justitieleictorganisatie.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 
 

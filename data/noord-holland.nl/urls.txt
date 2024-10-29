@@ -29,7 +29,8 @@ https://kennisportaalovk.noord-holland.nl
 https://leidraadlc.noord-holland.nl
 https://magazine.noord-holland.nl
 https://nota.noord-holland.nl
-http://mailings.noord-holland.nl
+https://mailings.noord-holland.nl
+https://maovpn.noord-holland.nl
 https://noord-holland.nl
 https://statensite.noord-holland.nl
 https://www.noord-holland.nl
@@ -43,7 +44,7 @@ https://acc-pvkontakt.noord-holland.nl
 https://acc-www.noord-holland.nl
 https://test-pvkontakt.noord-holland.nl
 https://test-www.noord-holland.nl
-https://openstad.noord-holland.nl
+http://openstad.noord-holland.nl
 https://www.openstad.noord-holland.nl
 https://api.openstad.noord-holland.nl
 https://druktemonitor.noord-holland.nl
@@ -54,3 +55,5 @@ https://geoservices.noord-holland.nl
 https://ios-api.noord-holland.nl
 https://lms.noord-holland.nl
 https://pvkontakt.noord-holland.nl
+https://enterpriseenrollment.noord-holland.nl
+https://enterpriseregistration.noord-holland.nl

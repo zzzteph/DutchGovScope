@@ -7,3 +7,5 @@ https://webdisk.lchulpmiddelen.nl
 https://www.lchulpmiddelen.nl
 https://lchulpmiddelen.nl
 https://test.apps.lchulpmiddelen.nl
+https://ftp.lchulpmiddelen.nl
+https://whm.lchulpmiddelen.nl

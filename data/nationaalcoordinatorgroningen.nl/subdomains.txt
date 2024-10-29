@@ -6,3 +6,4 @@ opendata.nationaalcoordinatorgroningen.nl
 www.nationaalcoordinatorgroningen.nl
 intranet-prod.nationaalcoordinatorgroningen.nl
 intranet.nationaalcoordinatorgroningen.nl
+jet-test.nationaalcoordinatorgroningen.nl

@@ -32,3 +32,5 @@ zpa.nza.nl
 zorgproducten-acc.nza.nl
 zorgproducten-test.nza.nl
 zorgproducten.nza.nl
+aanvragen-acc.nza.nl
+mijn.nza.nl

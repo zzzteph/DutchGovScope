@@ -11,3 +11,4 @@ kpm.jeugdconnect.nl
 slachtoffer.jeugdconnect.nl
 socialmediamonitor.jeugdconnect.nl
 vog.jeugdconnect.nl
+jeugdconnect.nl

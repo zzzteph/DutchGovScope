@@ -4,3 +4,4 @@ infoscherm.rijksacademie.nl
 nieuwsbrief.rijksacademie.nl
 rijksacademie.nl
 www.rijksacademie.nl
+autodiscover.rijksacademie.nl

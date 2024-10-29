@@ -2,3 +2,6 @@ feeds.klimaatakkoord.nl
 klimaatakkoord.nl
 opendata.klimaatakkoord.nl
 www.klimaatakkoord.nl
+autodiscover.klimaatakkoord.nl
+enterpriseenrollment.klimaatakkoord.nl
+enterpriseregistration.klimaatakkoord.nl

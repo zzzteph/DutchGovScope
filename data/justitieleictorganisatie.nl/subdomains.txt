@@ -5,3 +5,6 @@ justitieleictorganisatie.nl
 opendata.justitieleictorganisatie.nl
 www.justitieleictorganisatie.nl
 intranet.justitieleictorganisatie.nl
+autodiscover.justitieleictorganisatie.nl
+enterpriseenrollment.justitieleictorganisatie.nl
+enterpriseregistration.justitieleictorganisatie.nl

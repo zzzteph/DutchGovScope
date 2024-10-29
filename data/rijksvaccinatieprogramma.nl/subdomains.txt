@@ -1,2 +1,3 @@
 rijksvaccinatieprogramma.nl
 www.rijksvaccinatieprogramma.nl
+localhost.rijksvaccinatieprogramma.nl

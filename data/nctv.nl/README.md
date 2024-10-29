@@ -11,8 +11,8 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/nctv.nl/subdomains.txt)|22|Alive subdomains|
-|[urls.txt](/data/nctv.nl/urls.txt)|22|Urls|
+|[subdomains.txt](/data/nctv.nl/subdomains.txt)|23|Alive subdomains|
+|[urls.txt](/data/nctv.nl/urls.txt)|23|Urls|
 
 
 ## Statistics
@@ -42,5 +42,6 @@
 |[https://opendata.nctv.nl](https://opendata.nctv.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://nac.nctv.nl](https://nac.nctv.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Amazon ALB Amazon Web Services Java Nginx|aNewSpring | Lee...|
 |[https://symbolenbank.nctv.nl](https://symbolenbank.nctv.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|404 Not Found|
+|[https://elearning-lcp-egt.nctv.nl](https://elearning-lcp-egt.nctv.nl)| | **F**|Apache/2| | | | | | | | :white_check_mark: | |Apache HTTP Server:2|Online trainings...|
 
 

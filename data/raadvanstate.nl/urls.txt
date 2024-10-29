@@ -24,3 +24,6 @@ https://sts-acp.raadvanstate.nl
 https://tdportal.raadvanstate.nl
 https://www.raadvanstate.nl
 https://zittingsagenda.raadvanstate.nl
+http://kennisbank.raadvanstate.nl
+https://loket-preprod.raadvanstate.nl
+https://test.raadvanstate.nl

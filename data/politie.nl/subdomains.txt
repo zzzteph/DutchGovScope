@@ -30,3 +30,4 @@ chat.enlets.politie.nl
 push.enlets.politie.nl
 api.enlets.politie.nl
 mdc-ras-01.politie.nl
+enlets.politie.nl

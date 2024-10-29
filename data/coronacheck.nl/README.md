@@ -6,13 +6,13 @@
 
  - **SSL Grade**:
  - **HTTP Security Grade**:E
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:1
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:2
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/coronacheck.nl/subdomains.txt)|11|Alive subdomains|
-|[urls.txt](/data/coronacheck.nl/urls.txt)|11|Urls|
+|[subdomains.txt](/data/coronacheck.nl/subdomains.txt)|12|Alive subdomains|
+|[urls.txt](/data/coronacheck.nl/urls.txt)|12|Urls|
 
 
 ## Statistics
@@ -31,5 +31,6 @@
 |[https://verifier-api-cdn.coronacheck.nl](https://verifier-api-cdn.coronacheck.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |HSTS Nginx||
 |[https://verifier-api.coronacheck.nl](https://verifier-api.coronacheck.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |HSTS Nginx||
 |[https://www.coronacheck.nl](https://www.coronacheck.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|302 Found|
+|[https://coronacheck.nl](https://coronacheck.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|302 Found|
 
 

@@ -12,3 +12,4 @@ minbuza.nl
 www.minbuza.nl
 tst.ecer.minbuza.nl
 wifiportal.minbuza.nl
+links.minbuza.nl

@@ -14,3 +14,5 @@ mpn.minienm.nl
 pre.service.mpn.minienm.nl
 service.mpn.minienm.nl
 mpn-pre.minienm.nl
+dcc.minienm.nl
+localhost.minienm.nl

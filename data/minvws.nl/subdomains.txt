@@ -8,3 +8,4 @@ www.minvws.nl
 open.minvws.nl
 vragenlijst.minvws.nl
 werkbezoek.minvws.nl
+www.vragenlijst.minvws.nl

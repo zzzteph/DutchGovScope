@@ -11,8 +11,8 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/odc-noord.nl/subdomains.txt)|82|Alive subdomains|
-|[urls.txt](/data/odc-noord.nl/urls.txt)|82|Urls|
+|[subdomains.txt](/data/odc-noord.nl/subdomains.txt)|84|Alive subdomains|
+|[urls.txt](/data/odc-noord.nl/urls.txt)|84|Urls|
 
 
 ## Statistics
@@ -102,5 +102,7 @@
 |[https://acc.login.odc-noord.nl](https://acc.login.odc-noord.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://rvig-prd.topdesk.odc-noord.nl](https://rvig-prd.topdesk.odc-noord.nl)| | **E**|| | | | | | | | :white_check_mark: | ||ODC-Noord | (403...|
 |[https://vpn.a4.odc-noord.nl](https://vpn.a4.odc-noord.nl)| | **E**|OpenVPN-AS| | | | | | :white_check_mark: | | :white_check_mark: | |||
+|[https://rvihh-acc.topdesk.odc-noord.nl](https://rvihh-acc.topdesk.odc-noord.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|Login|
+|[https://iaas-portal-gn3.odc-noord.nl](https://iaas-portal-gn3.odc-noord.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |AngularJS HSTS||
 
 

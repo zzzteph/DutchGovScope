@@ -76,3 +76,10 @@ viz.ndw.nu
 sentry.ndw.nu
 design.ndw.nu
 stats.ndw.nu
+analytics.ndw.nu
+data-staging.ndw.nu
+design.staging.ndw.nu
+docs.staging.ndw.nu
+mijn.staging.ndw.nu
+mail.ndw.nu
+acceptatie-melvin.ndw.nu

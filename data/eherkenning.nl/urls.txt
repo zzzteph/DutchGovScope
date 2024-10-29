@@ -19,3 +19,4 @@ https://signicat.sso.eherkenning.nl
 https://signicat-qa.sso.eherkenning.nl
 https://signicat-staging.sso.eherkenning.nl
 https://onewelcome-staging.sso.eherkenning.nl
+https://acceptatie.eherkenning.nl

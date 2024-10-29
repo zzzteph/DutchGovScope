@@ -4,3 +4,5 @@ https://acceptatie.aanmelden.gratisvog.nl
 https://acceptatie.zoeken.gratisvog.nl
 https://feeds.gratisvog.nl
 https://opendata.gratisvog.nl
+https://www.gratisvog.nl
+https://gratisvog.nl

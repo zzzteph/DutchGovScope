@@ -2,7 +2,7 @@
 layout: default
 title: "volksgezondheidenzorg.info"
 permalink: "/dutchgov/volksgezondheidenzorg.info.html"
-subdomains_count: 6
+subdomains_count: 7
 urls_count: 6
 ssl_rank: 
 http_rank: B
@@ -25,7 +25,7 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/volksgezondheidenzorg.info/subdomains.txt)|6|Alive subdomains|
+|[subdomains.txt](/DutchGovScope/data/volksgezondheidenzorg.info/subdomains.txt)|7|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/volksgezondheidenzorg.info/urls.txt)|6|Urls|
 
 

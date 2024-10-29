@@ -2,8 +2,8 @@
 layout: default
 title: "hhdelfland.nl"
 permalink: "/dutchgov/hhdelfland.nl.html"
-subdomains_count: 30
-urls_count: 30
+subdomains_count: 31
+urls_count: 31
 ssl_rank: 
 http_rank: C
 security_txt: 6
@@ -25,8 +25,8 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/hhdelfland.nl/subdomains.txt)|30|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/hhdelfland.nl/urls.txt)|30|Urls|
+|[subdomains.txt](/DutchGovScope/data/hhdelfland.nl/subdomains.txt)|31|Alive subdomains|
+|[urls.txt](/DutchGovScope/data/hhdelfland.nl/urls.txt)|31|Urls|
 
 
 ## Statistics
@@ -35,7 +35,7 @@ tags: dutchgov
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[http://autodiscover.hhdelfland.nl](http://autodiscover.hhdelfland.nl)| | **C**|Microsoft-IIS/10.0| |:white_check_mark: | | | | | | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server||
-|[https://beeldbank.hhdelfland.nl](https://beeldbank.hhdelfland.nl)| | **B**||:warning: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:4.0.30319|Home | Beeldbank...|
+|[https://beeldbank.hhdelfland.nl](https://beeldbank.hhdelfland.nl)| | **B**||:warning: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET|Home | Beeldbank...|
 |[https://beeldbank-bo.hhdelfland.nl](https://beeldbank-bo.hhdelfland.nl)| | **B**|Picture Pack|:warning: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:4.0.30319|Picture Pack|
 |[https://burgerloket.hhdelfland.nl](https://burgerloket.hhdelfland.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|301 Moved Perman...|
 |[https://connect.hhdelfland.nl](https://connect.hhdelfland.nl)| | **F**|xxxxxxxx-xxxxx| | | | | | | | :white_check_mark: | |HSTS||
@@ -64,5 +64,6 @@ tags: dutchgov
 |[https://wbp6.hhdelfland.nl](https://wbp6.hhdelfland.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Azure Azure Front Door HSTS|Waterwerk|
 |[https://workspace.hhdelfland.nl](https://workspace.hhdelfland.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://geoview.hhdelfland.nl](https://geoview.hhdelfland.nl)| | **F**|Microsoft-IIS/10.0| | | | | | | | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server|Secure Portal Re...|
+|[https://geoappstest.hhdelfland.nl](https://geoappstest.hhdelfland.nl)| | **F**|Microsoft-IIS/10.0| | | | | | | | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server|Linkjes naar Ver...|
 
 

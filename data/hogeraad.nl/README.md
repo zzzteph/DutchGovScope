@@ -11,8 +11,8 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/hogeraad.nl/subdomains.txt)|20|Alive subdomains|
-|[urls.txt](/data/hogeraad.nl/urls.txt)|20|Urls|
+|[subdomains.txt](/data/hogeraad.nl/subdomains.txt)|19|Alive subdomains|
+|[urls.txt](/data/hogeraad.nl/urls.txt)|19|Urls|
 
 
 ## Statistics
@@ -27,7 +27,6 @@
 |[https://www.hogeraad.nl](https://www.hogeraad.nl)| | **A**|Microsoft-IIS/10.0|:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS IIS:10.0 Microsoft ASP.NET Windows Server|Home - Hoge Raad|
 |[https://siam-acc.hogeraad.nl](https://siam-acc.hogeraad.nl)| | **A**|N.A.| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bootstrap HSTS|Hoge Raad der Ne...|
 |[https://siam.hogeraad.nl](https://siam.hogeraad.nl)| | **A**|N.A.| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bootstrap HSTS|Hoge Raad der Ne...|
-|[http://asts.hogeraad.nl](http://asts.hogeraad.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://mijnzaak-acc.hogeraad.nl](https://mijnzaak-acc.hogeraad.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS|Object moved|
 |[https://www-acc.hogeraad.nl](https://www-acc.hogeraad.nl)| | **F**|Microsoft-IIS/10.0| | | | | | | | :white_check_mark: | |HSTS IIS:10.0 Microsoft ASP.NET Windows Server|Home - Hoge Raad|
 |[http://autodiscover.hogeraad.nl](http://autodiscover.hogeraad.nl)| | **E**|| | | | | | | | :white_check_mark: | |||

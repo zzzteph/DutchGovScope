@@ -5,14 +5,14 @@
 
 
  - **SSL Grade**:
- - **HTTP Security Grade**:B
+ - **HTTP Security Grade**:C
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:3
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/eherkenning.nl/subdomains.txt)|21|Alive subdomains|
-|[urls.txt](/data/eherkenning.nl/urls.txt)|21|Urls|
+|[subdomains.txt](/data/eherkenning.nl/subdomains.txt)|22|Alive subdomains|
+|[urls.txt](/data/eherkenning.nl/urls.txt)|22|Urls|
 
 
 ## Statistics
@@ -41,5 +41,6 @@
 |[https://signicat-qa.sso.eherkenning.nl](https://signicat-qa.sso.eherkenning.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
 |[https://signicat-staging.sso.eherkenning.nl](https://signicat-staging.sso.eherkenning.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
 |[https://onewelcome-staging.sso.eherkenning.nl](https://onewelcome-staging.sso.eherkenning.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
+|[https://acceptatie.eherkenning.nl](https://acceptatie.eherkenning.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Basic Nginx|401 Authorizatio...|
 
 

@@ -11,8 +11,8 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/emissieautoriteit.nl/subdomains.txt)|17|Alive subdomains|
-|[urls.txt](/data/emissieautoriteit.nl/urls.txt)|17|Urls|
+|[subdomains.txt](/data/emissieautoriteit.nl/subdomains.txt)|18|Alive subdomains|
+|[urls.txt](/data/emissieautoriteit.nl/urls.txt)|18|Urls|
 
 
 ## Statistics
@@ -33,9 +33,10 @@
 |[https://formulier.emissieautoriteit.nl](https://formulier.emissieautoriteit.nl)| | **A**|| |:white_check_mark: | | |:warning: | | | :white_check_mark: | |HSTS|Object moved|
 |[https://preprodehp2.emissieautoriteit.nl](https://preprodehp2.emissieautoriteit.nl)| | **A**|nginx| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|403 Forbidden|
 |[https://preprodehpzee.emissieautoriteit.nl](https://preprodehpzee.emissieautoriteit.nl)| | **A**|nginx| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|403 Forbidden|
-|[https://preprodmivp.emissieautoriteit.nl](https://preprodmivp.emissieautoriteit.nl)| | **A**|nginx| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|403 Forbidden|
+|[https://preprodmivp.emissieautoriteit.nl](https://preprodmivp.emissieautoriteit.nl)| | **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Nginx|403 Forbidden|
 |[https://ehp2.emissieautoriteit.nl](https://ehp2.emissieautoriteit.nl)| | **A**|nginx| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|Emissiehandel Po...|
 |[https://ehpzee.emissieautoriteit.nl](https://ehpzee.emissieautoriteit.nl)| | **A**|nginx| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|Mendix|
 |[https://emissieautoriteit.nl](https://emissieautoriteit.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
+|[https://jpp.emissieautoriteit.nl](https://jpp.emissieautoriteit.nl)| | **F**|Apache/2.4.52 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.52 Ubuntu|ownCloud|
 
 

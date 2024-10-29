@@ -82,3 +82,5 @@ https://lms-stater.trainingscatalogus.nl
 https://lms-svb.trainingscatalogus.nl
 https://lms-tennet.trainingscatalogus.nl
 https://senzer.trainingscatalogus.nl
+https://alliander-lms-t.enrollment-api.trainingscatalogus.nl
+https://alliander-lms-t.product-api.trainingscatalogus.nl

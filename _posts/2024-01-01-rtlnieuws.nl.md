@@ -2,7 +2,7 @@
 layout: default
 title: "rtlnieuws.nl"
 permalink: "/dutchgov/rtlnieuws.nl.html"
-subdomains_count: 5
+subdomains_count: 7
 urls_count: 5
 ssl_rank: 
 http_rank: E
@@ -25,7 +25,7 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/rtlnieuws.nl/subdomains.txt)|5|Alive subdomains|
+|[subdomains.txt](/DutchGovScope/data/rtlnieuws.nl/subdomains.txt)|7|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/rtlnieuws.nl/urls.txt)|5|Urls|
 
 

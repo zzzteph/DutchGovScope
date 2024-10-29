@@ -5,14 +5,14 @@
 
 
  - **SSL Grade**:
- - **HTTP Security Grade**:A
+ - **HTTP Security Grade**:B
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:4
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/europaomdehoek.nl/subdomains.txt)|5|Alive subdomains|
-|[urls.txt](/data/europaomdehoek.nl/urls.txt)|5|Urls|
+|[subdomains.txt](/data/europaomdehoek.nl/subdomains.txt)|7|Alive subdomains|
+|[urls.txt](/data/europaomdehoek.nl/urls.txt)|7|Urls|
 
 
 ## Statistics
@@ -25,5 +25,7 @@
 |[https://feeds.europaomdehoek.nl](https://feeds.europaomdehoek.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://opendata.europaomdehoek.nl](https://opendata.europaomdehoek.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://www.europaomdehoek.nl](https://www.europaomdehoek.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Home | Europa om...|
+|[https://acceptatie.europaomdehoek.nl](https://acceptatie.europaomdehoek.nl)| | **E**|| | | | | | | | :white_check_mark: | ||404 Not Found|
+|[https://staging.europaomdehoek.nl](https://staging.europaomdehoek.nl)| | **F**|LinQhost HPW| | | | | | | | :white_check_mark: | |HSTS|LinQhost Managed...|
 
 

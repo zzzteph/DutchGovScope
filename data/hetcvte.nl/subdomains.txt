@@ -2,3 +2,7 @@ da.hetcvte.nl
 mbg.hetcvte.nl
 micollab.hetcvte.nl
 mx2.hetcvte.nl
+mail.hetcvte.nl
+ts.hetcvte.nl
+webmail.hetcvte.nl
+pushmail.hetcvte.nl

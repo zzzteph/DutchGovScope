@@ -20,3 +20,4 @@ opendata.english.nctv.nl
 opendata.nctv.nl
 nac.nctv.nl
 symbolenbank.nctv.nl
+elearning-lcp-egt.nctv.nl

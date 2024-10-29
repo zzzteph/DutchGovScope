@@ -2,10 +2,10 @@
 layout: default
 title: "innovember.nl"
 permalink: "/dutchgov/innovember.nl.html"
-subdomains_count: 2
-urls_count: 2
+subdomains_count: 3
+urls_count: 3
 ssl_rank: 
-http_rank: A
+http_rank: B
 security_txt: 2
 url_link: /data/innovember.nl/urls.txt
 subdomains_link: /data/innovember.nl/subdomains.txt
@@ -19,14 +19,14 @@ tags: dutchgov
 
 
  - **SSL Grade**:
- - **HTTP Security Grade**:A
+ - **HTTP Security Grade**:B
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:2
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/innovember.nl/subdomains.txt)|2|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/innovember.nl/urls.txt)|2|Urls|
+|[subdomains.txt](/DutchGovScope/data/innovember.nl/subdomains.txt)|3|Alive subdomains|
+|[urls.txt](/DutchGovScope/data/innovember.nl/urls.txt)|3|Urls|
 
 
 ## Statistics
@@ -36,5 +36,6 @@ tags: dutchgov
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[https://innovember.nl](https://innovember.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://www.innovember.nl](https://www.innovember.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
+|[https://aanmelder.innovember.nl](https://aanmelder.innovember.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|404 Not Found|
 
 

@@ -2,10 +2,10 @@
 layout: default
 title: "huurcommissie.nl"
 permalink: "/dutchgov/huurcommissie.nl.html"
-subdomains_count: 12
-urls_count: 12
+subdomains_count: 16
+urls_count: 16
 ssl_rank: 
-http_rank: B
+http_rank: C
 security_txt: 5
 url_link: /data/huurcommissie.nl/urls.txt
 subdomains_link: /data/huurcommissie.nl/subdomains.txt
@@ -19,14 +19,14 @@ tags: dutchgov
 
 
  - **SSL Grade**:
- - **HTTP Security Grade**:B
+ - **HTTP Security Grade**:C
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:5
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/huurcommissie.nl/subdomains.txt)|12|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/huurcommissie.nl/urls.txt)|12|Urls|
+|[subdomains.txt](/DutchGovScope/data/huurcommissie.nl/subdomains.txt)|16|Alive subdomains|
+|[urls.txt](/DutchGovScope/data/huurcommissie.nl/urls.txt)|16|Urls|
 
 
 ## Statistics
@@ -46,5 +46,9 @@ tags: dutchgov
 |[https://portaal.huurcommissie.nl](https://portaal.huurcommissie.nl)| | **A**|nginx| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS Nginx|Huurcommissie|
 |[https://mijn.huurcommissie.nl](https://mijn.huurcommissie.nl)| | **D**|| | | | | | :white_check_mark: | | :white_check_mark: | |HSTS|Moved|
 |[https://zaaksysteem-accept.huurcommissie.nl](https://zaaksysteem-accept.huurcommissie.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS|Moved|
+|[https://enterpriseenrollment.huurcommissie.nl](https://enterpriseenrollment.huurcommissie.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||
+|[https://enterpriseregistration.huurcommissie.nl](https://enterpriseregistration.huurcommissie.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
+|[https://hip.huurcommissie.nl](https://hip.huurcommissie.nl)| | **A**|nginx| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS Nginx|Huurcommissie|
+|[https://vpn.huurcommissie.nl](https://vpn.huurcommissie.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
 
 

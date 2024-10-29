@@ -7,3 +7,4 @@ pitng.ontwikkel.owinsp.nl
 pitng.owinsp.nl
 owinsp.nl
 www.owinsp.nl
+pitng.test.owinsp.nl

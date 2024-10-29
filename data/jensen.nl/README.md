@@ -11,8 +11,8 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/jensen.nl/subdomains.txt)|13|Alive subdomains|
-|[urls.txt](/data/jensen.nl/urls.txt)|13|Urls|
+|[subdomains.txt](/data/jensen.nl/subdomains.txt)|15|Alive subdomains|
+|[urls.txt](/data/jensen.nl/urls.txt)|15|Urls|
 
 
 ## Statistics
@@ -33,5 +33,7 @@
 |[https://staging.jensen.nl](https://staging.jensen.nl)| | **D**|Vercel| |:white_check_mark: | :warning:| | | | | :white_check_mark: | |Gatsby:5.11.0 HSTS React Vercel Webpack|Jensen - Het ech...|
 |[https://twentysix-proud.jensen.nl](https://twentysix-proud.jensen.nl)| | **F**|BunnyCDN-FI1-1208| | | | | | | | :white_check_mark: | |Bunny||
 |[https://www.jensen.nl](https://www.jensen.nl)| | **D**|Vercel| |:white_check_mark: | :warning:| | | | | :white_check_mark: | |HSTS Vercel||
+|[https://wt-tracker.jensen.nl](https://wt-tracker.jensen.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
+|[http://transcode.jensen.nl](http://transcode.jensen.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 
 

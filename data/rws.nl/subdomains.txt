@@ -155,3 +155,5 @@ www.werkenbij.rws.nl
 splunkhec.grid.rws.nl
 splunkhec.gridacc.rws.nl
 waterinfo-extra.rws.nl
+matroos.rws.nl
+status.gridacc.rws.nl

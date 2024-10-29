@@ -1,7 +1,8 @@
 https://cks.minfin.nl
 https://english.minfin.nl
-https://mijnschatkist.minfin.nl
+http://mijnschatkist.minfin.nl
 https://rds.minfin.nl
 https://remote.minfin.nl
 https://www.minfin.nl
 https://minfin.nl
+https://ttw.minfin.nl

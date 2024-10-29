@@ -11,8 +11,8 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/minvenj.nl/subdomains.txt)|14|Alive subdomains|
-|[urls.txt](/data/minvenj.nl/urls.txt)|14|Urls|
+|[subdomains.txt](/data/minvenj.nl/subdomains.txt)|15|Alive subdomains|
+|[urls.txt](/data/minvenj.nl/urls.txt)|15|Urls|
 
 
 ## Statistics
@@ -34,5 +34,6 @@
 |[http://pdw.gdi.minvenj.nl](http://pdw.gdi.minvenj.nl)| | **F**|nginx|:o: | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Laravel Nginx PHP|Weakpass|
 |[https://ssci-ossplanning.minvenj.nl](https://ssci-ossplanning.minvenj.nl)| | **F**|Microsoft-IIS/8.5| | | | | | | | :white_check_mark: | |IIS:8.5 Microsoft ASP.NET Windows Server|403 - Forbidden:...|
 |[https://statistics.ind.minvenj.nl](https://statistics.ind.minvenj.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||
+|[https://oci.minvenj.nl](https://oci.minvenj.nl)| | **F**|server| | | | | | | | :white_check_mark: | ||302 Found|
 
 

@@ -11,8 +11,8 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/topinkomens.nl/subdomains.txt)|5|Alive subdomains|
-|[urls.txt](/data/topinkomens.nl/urls.txt)|5|Urls|
+|[subdomains.txt](/data/topinkomens.nl/subdomains.txt)|6|Alive subdomains|
+|[urls.txt](/data/topinkomens.nl/urls.txt)|6|Urls|
 
 
 ## Statistics
@@ -25,5 +25,6 @@
 |[https://feeds.topinkomens.nl](https://feeds.topinkomens.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://opendata.topinkomens.nl](https://opendata.topinkomens.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://rekentool.topinkomens.nl](https://rekentool.topinkomens.nl)| | **C**|Apache|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS PHP|Introductie | Re...|
+|[https://forum.topinkomens.nl](https://forum.topinkomens.nl)| | **A**|Apache| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS PHP Vanilla|Forum | Topinkom...|
 
 

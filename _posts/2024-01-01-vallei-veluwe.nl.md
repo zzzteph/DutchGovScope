@@ -2,8 +2,8 @@
 layout: default
 title: "vallei-veluwe.nl"
 permalink: "/dutchgov/vallei-veluwe.nl.html"
-subdomains_count: 10
-urls_count: 10
+subdomains_count: 11
+urls_count: 11
 ssl_rank: 
 http_rank: C
 security_txt: 4
@@ -25,8 +25,8 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/vallei-veluwe.nl/subdomains.txt)|10|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/vallei-veluwe.nl/urls.txt)|10|Urls|
+|[subdomains.txt](/DutchGovScope/data/vallei-veluwe.nl/subdomains.txt)|11|Alive subdomains|
+|[urls.txt](/DutchGovScope/data/vallei-veluwe.nl/urls.txt)|11|Urls|
 
 
 ## Statistics
@@ -34,6 +34,7 @@ tags: dutchgov
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
+|[https://adfs.vallei-veluwe.nl](https://adfs.vallei-veluwe.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[http://autodiscover.vallei-veluwe.nl](http://autodiscover.vallei-veluwe.nl)| | **C**|Microsoft-IIS/10.0| |:white_check_mark: | | | | | | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server||
 |[https://redactie.vallei-veluwe.nl](https://redactie.vallei-veluwe.nl)| | **B**|-|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:-|Object moved|
 |[https://vallei-veluwe.nl](https://vallei-veluwe.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:-|Object moved|

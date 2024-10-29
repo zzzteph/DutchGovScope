@@ -3,7 +3,7 @@ layout: default
 title: "bedrijvenbeleidinbeeld.nl"
 permalink: "/dutchgov/bedrijvenbeleidinbeeld.nl.html"
 subdomains_count: 5
-urls_count: 5
+urls_count: 4
 ssl_rank: 
 http_rank: A
 security_txt: 4
@@ -26,7 +26,7 @@ tags: dutchgov
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/DutchGovScope/data/bedrijvenbeleidinbeeld.nl/subdomains.txt)|5|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/bedrijvenbeleidinbeeld.nl/urls.txt)|5|Urls|
+|[urls.txt](/DutchGovScope/data/bedrijvenbeleidinbeeld.nl/urls.txt)|4|Urls|
 
 
 ## Statistics
@@ -38,6 +38,5 @@ tags: dutchgov
 |[https://feeds.bedrijvenbeleidinbeeld.nl](https://feeds.bedrijvenbeleidinbeeld.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://opendata.bedrijvenbeleidinbeeld.nl](https://opendata.bedrijvenbeleidinbeeld.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://www.bedrijvenbeleidinbeeld.nl](https://www.bedrijvenbeleidinbeeld.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Home | Bedrijven...|
-|[https://ondernemingsklimaat.bedrijvenbeleidinbeeld.nl](https://ondernemingsklimaat.bedrijvenbeleidinbeeld.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Amazon S3 Amazon Web Services Azure Edge Network HSTS Microsoft ASP.NET MyFonts|Home | Dashboard...|
 
 

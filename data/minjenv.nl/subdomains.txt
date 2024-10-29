@@ -1,3 +1,5 @@
 enterpriseenrollment.dji.minjenv.nl
 enterpriseenrollment.dtv.minjenv.nl
 www.minjenv.nl
+enterpriseregistration.dtv.minjenv.nl
+minjenv.nl

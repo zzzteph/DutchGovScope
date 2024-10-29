@@ -26,6 +26,7 @@ https://natuurbeheerplan.flevoland.nl
 https://regiotaxi.flevoland.nl
 https://vps-prod-01.flevoland.nl
 https://www.omgevingsplan.flevoland.nl
+https://intranet.flevoland.nl
 https://cmsintranet.flevoland.nl
 http://embraceintranet.flevoland.nl
 https://competentie.flevoland.nl

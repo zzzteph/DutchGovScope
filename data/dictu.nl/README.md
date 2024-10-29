@@ -6,13 +6,13 @@
 
  - **SSL Grade**:
  - **HTTP Security Grade**:D
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:15
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:14
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/dictu.nl/subdomains.txt)|60|Alive subdomains|
-|[urls.txt](/data/dictu.nl/urls.txt)|60|Urls|
+|[subdomains.txt](/data/dictu.nl/subdomains.txt)|61|Alive subdomains|
+|[urls.txt](/data/dictu.nl/urls.txt)|59|Urls|
 
 
 ## Statistics
@@ -59,7 +59,6 @@
 |[https://mailing.dictu.nl](https://mailing.dictu.nl)| | **C**|Spotler| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
 |[https://mft.webftp.dictu.nl](https://mft.webftp.dictu.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Redirect|
 |[https://mijntoken.dictu.nl](https://mijntoken.dictu.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Oracle Dynamic Monitoring Service Oracle WebLogic Server|302 Moved Tempor...|
-|[http://pms-acc.dictu.nl](http://pms-acc.dictu.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |||
 |[https://procesweb-test.dictu.nl](https://procesweb-test.dictu.nl)| | **F**|awselb/2.0|:o: | | | | :white_check_mark:| | | :white_check_mark: | |Amazon ELB Amazon Web Services HSTS||
 |[https://procesweb.dictu.nl](https://procesweb.dictu.nl)| | **F**|awselb/2.0|:o: | | | | :white_check_mark:| | | :white_check_mark: | |Amazon ELB Amazon Web Services HSTS||
 |[https://sfs-acc.dictu.nl](https://sfs-acc.dictu.nl)| | **A**|Seclore Server|:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Java||
@@ -75,7 +74,7 @@
 |[https://wifi.dictu.nl](https://wifi.dictu.nl)| | **B**||:warning: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Redirecting to h...|
 |[https://acc.fhub.dictu.nl](https://acc.fhub.dictu.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||
 |[https://intranet-demo.dictu.nl](https://intranet-demo.dictu.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|403 Forbidden|
-|[https://asb.datasluis.dictu.nl](https://asb.datasluis.dictu.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Basic HSTS|Unauthorized|
+|[https://asb.datasluis.dictu.nl](https://asb.datasluis.dictu.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Redirect|
 |[https://asb.webftp.dictu.nl](https://asb.webftp.dictu.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Redirect|
 |[http://c-pki-acc.dictu.nl](http://c-pki-acc.dictu.nl)| | **F**||:warning: | | | | | | | :white_check_mark: | ||c-pki-acc.dictu....|
 |[http://rijkspascrlcert2-acc.dictu.nl](http://rijkspascrlcert2-acc.dictu.nl)| | **F**||:warning: | | | | | | | :white_check_mark: | ||rijkspascrlcert2...|

@@ -11,8 +11,8 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/functiegebouwrijksoverheid.nl/subdomains.txt)|5|Alive subdomains|
-|[urls.txt](/data/functiegebouwrijksoverheid.nl/urls.txt)|5|Urls|
+|[subdomains.txt](/data/functiegebouwrijksoverheid.nl/subdomains.txt)|6|Alive subdomains|
+|[urls.txt](/data/functiegebouwrijksoverheid.nl/urls.txt)|6|Urls|
 
 
 ## Statistics
@@ -25,5 +25,6 @@
 |[https://csotest.functiegebouwrijksoverheid.nl](https://csotest.functiegebouwrijksoverheid.nl)| | **D**|cloudflare|:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | |Basic Cloudflare HSTS|Authentication R...|
 |[https://functiegebouwrijksoverheid.nl](https://functiegebouwrijksoverheid.nl)| | **B**|cloudflare|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Cloudflare HSTS||
 |[https://odc.functiegebouwrijksoverheid.nl](https://odc.functiegebouwrijksoverheid.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
+|[https://sandbox.functiegebouwrijksoverheid.nl](https://sandbox.functiegebouwrijksoverheid.nl)| | **D**|cloudflare|:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | |Basic Cloudflare HSTS|Authentication R...|
 
 

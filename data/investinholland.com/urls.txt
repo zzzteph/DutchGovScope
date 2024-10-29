@@ -14,3 +14,4 @@ https://bak-kor.investinholland.com
 https://dev.investinholland.com
 https://taiwan.investinholland.com
 https://bak-jp.investinholland.com
+http://localhost.investinholland.com

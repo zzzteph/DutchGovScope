@@ -17,3 +17,4 @@ nwopen-api.nwo.nl
 vpnportal-supplier.nwo.nl
 vpnportal.nwo.nl
 digitoegankelijk.nwo.nl
+enterpriseenrollment.nwo.nl

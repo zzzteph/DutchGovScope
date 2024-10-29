@@ -10,3 +10,7 @@ https://hip-acc.huurcommissie.nl
 https://portaal.huurcommissie.nl
 https://mijn.huurcommissie.nl
 https://zaaksysteem-accept.huurcommissie.nl
+https://enterpriseenrollment.huurcommissie.nl
+https://enterpriseregistration.huurcommissie.nl
+https://hip.huurcommissie.nl
+https://vpn.huurcommissie.nl

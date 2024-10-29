@@ -4,3 +4,6 @@ opendata.ikz.nl
 www.ikz.nl
 mta-sts.ikz.nl
 vpzf.ikz.nl
+autodiscover.ikz.nl
+dashboards.ikz.nl
+feeds.ikz.nl

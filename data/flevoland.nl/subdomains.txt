@@ -26,6 +26,7 @@ natuurbeheerplan.flevoland.nl
 regiotaxi.flevoland.nl
 vps-prod-01.flevoland.nl
 www.omgevingsplan.flevoland.nl
+intranet.flevoland.nl
 cmsintranet.flevoland.nl
 embraceintranet.flevoland.nl
 competentie.flevoland.nl
@@ -54,6 +55,16 @@ meepraten.flevoland.nl
 micollab.flevoland.nl
 preprodid.flevoland.nl
 stateninformatie.flevoland.nl
+test-cmsintranet.flevoland.nl
 test.flevoland.nl
 testmdm.flevoland.nl
 veiligmailen.flevoland.nl
+adfs.flevoland.nl
+geo2.flevoland.nl
+geo3.flevoland.nl
+rwbg.flevoland.nl
+geodiensten.flevoland.nl
+vps-prod-03.flevoland.nl
+denkmee.flevoland.nl
+testmonitorwonen.flevoland.nl
+remote.flevoland.nl

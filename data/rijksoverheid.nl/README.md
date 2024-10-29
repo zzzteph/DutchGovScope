@@ -11,8 +11,8 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/rijksoverheid.nl/subdomains.txt)|18|Alive subdomains|
-|[urls.txt](/data/rijksoverheid.nl/urls.txt)|18|Urls|
+|[subdomains.txt](/data/rijksoverheid.nl/subdomains.txt)|19|Alive subdomains|
+|[urls.txt](/data/rijksoverheid.nl/urls.txt)|19|Urls|
 
 
 ## Statistics
@@ -38,5 +38,6 @@
 |[https://redir.rijksoverheid.nl](https://redir.rijksoverheid.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|403 Forbidden|
 |[https://sdg.rijksoverheid.nl](https://sdg.rijksoverheid.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS HTTP/3|Regelen in Neder...|
 |[https://statistiek.rijksoverheid.nl](https://statistiek.rijksoverheid.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS|Loading...|
+|[https://teverantwoordenregelingen.rijksoverheid.nl](https://teverantwoordenregelingen.rijksoverheid.nl)| | **A**|-| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:-|Concept verantwo...|
 
 

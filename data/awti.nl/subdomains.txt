@@ -8,3 +8,4 @@ opendata.awti.nl
 www.awti.nl
 feeds.awti.nl
 pushmail.awti.nl
+ts.awti.nl

@@ -6,13 +6,13 @@
 
  - **SSL Grade**:
  - **HTTP Security Grade**:B
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:15
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:16
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/rvig.nl/subdomains.txt)|25|Alive subdomains|
-|[urls.txt](/data/rvig.nl/urls.txt)|25|Urls|
+|[subdomains.txt](/data/rvig.nl/subdomains.txt)|26|Alive subdomains|
+|[urls.txt](/data/rvig.nl/urls.txt)|26|Urls|
 
 
 ## Statistics
@@ -45,5 +45,6 @@
 |[https://publicaties-prod.rvig.nl](https://publicaties-prod.rvig.nl)| | **D**|nginx| | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Basic Nginx|401 Authorizatio...|
 |[https://rni-portal-acc.rvig.nl](https://rni-portal-acc.rvig.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| | | :white_check_mark: | |HSTS|RNI Adreswijzigi...|
 |[https://rni-portal.rvig.nl](https://rni-portal.rvig.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| | | :white_check_mark: | |HSTS|RNI Vooraanmeldi...|
+|[https://publicaties-tst.rvig.nl](https://publicaties-tst.rvig.nl)| | **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |Basic HSTS Nginx|401 Authorizatio...|
 
 

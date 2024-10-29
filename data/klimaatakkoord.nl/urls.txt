@@ -2,3 +2,6 @@ https://feeds.klimaatakkoord.nl
 https://klimaatakkoord.nl
 https://opendata.klimaatakkoord.nl
 https://www.klimaatakkoord.nl
+http://autodiscover.klimaatakkoord.nl
+https://enterpriseenrollment.klimaatakkoord.nl
+https://enterpriseregistration.klimaatakkoord.nl

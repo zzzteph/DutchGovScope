@@ -11,3 +11,5 @@ https://video.jensen.nl
 https://staging.jensen.nl
 https://twentysix-proud.jensen.nl
 https://www.jensen.nl
+https://wt-tracker.jensen.nl
+http://transcode.jensen.nl

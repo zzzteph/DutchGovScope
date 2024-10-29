@@ -1,3 +1,4 @@
 feeds.a2vonderenkerensheide.nl
 opendata.a2vonderenkerensheide.nl
 www.a2vonderenkerensheide.nl
+a2vonderenkerensheide.nl

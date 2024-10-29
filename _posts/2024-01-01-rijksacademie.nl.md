@@ -2,7 +2,7 @@
 layout: default
 title: "rijksacademie.nl"
 permalink: "/dutchgov/rijksacademie.nl.html"
-subdomains_count: 6
+subdomains_count: 7
 urls_count: 6
 ssl_rank: 
 http_rank: C
@@ -25,7 +25,7 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/rijksacademie.nl/subdomains.txt)|6|Alive subdomains|
+|[subdomains.txt](/DutchGovScope/data/rijksacademie.nl/subdomains.txt)|7|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/rijksacademie.nl/urls.txt)|6|Urls|
 
 
@@ -39,6 +39,6 @@ tags: dutchgov
 |[https://infoscherm.rijksacademie.nl](https://infoscherm.rijksacademie.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Bootstrap:3.3.5 Express Nginx Node.js|Service enregist...|
 |[https://nieuwsbrief.rijksacademie.nl](https://nieuwsbrief.rijksacademie.nl)| | **A**|nginx| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://rijksacademie.nl](https://rijksacademie.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | ||301 Moved Perman...|
-|[https://www.rijksacademie.nl](https://www.rijksacademie.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS MySQL PHP WordPress Yoast SEO Premium:23.7 Yoast SEO:23.7|Home | Rijksacad...|
+|[https://www.rijksacademie.nl](https://www.rijksacademie.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS MySQL PHP WordPress||
 
 

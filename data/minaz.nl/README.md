@@ -11,8 +11,8 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/minaz.nl/subdomains.txt)|5|Alive subdomains|
-|[urls.txt](/data/minaz.nl/urls.txt)|5|Urls|
+|[subdomains.txt](/data/minaz.nl/subdomains.txt)|6|Alive subdomains|
+|[urls.txt](/data/minaz.nl/urls.txt)|6|Urls|
 
 
 ## Statistics
@@ -25,5 +25,6 @@
 |[https://portal.minaz.nl](https://portal.minaz.nl)| | **E**||:white_check_mark: | | | | | :white_check_mark: | | :white_check_mark: | |HSTS||
 |[https://portal2.minaz.nl](https://portal2.minaz.nl)| | **E**||:white_check_mark: | | | | | :white_check_mark: | | :white_check_mark: | |HSTS||
 |[https://portal3.minaz.nl](https://portal3.minaz.nl)| | **E**||:white_check_mark: | | | | | :white_check_mark: | | :white_check_mark: | |HSTS||
+|[https://gateway.minaz.nl](https://gateway.minaz.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||
 
 

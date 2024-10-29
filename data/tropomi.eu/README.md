@@ -6,13 +6,13 @@
 
  - **SSL Grade**:
  - **HTTP Security Grade**:B
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:14
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:15
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/tropomi.eu/subdomains.txt)|18|Alive subdomains|
-|[urls.txt](/data/tropomi.eu/urls.txt)|18|Urls|
+|[subdomains.txt](/data/tropomi.eu/subdomains.txt)|20|Alive subdomains|
+|[urls.txt](/data/tropomi.eu/urls.txt)|20|Urls|
 
 
 ## Statistics
@@ -38,5 +38,7 @@
 |[https://mps4.tropomi.eu](https://mps4.tropomi.eu)| | **B**|Apache| |:white_check_mark: | :warning:| | :white_check_mark:| | | :white_check_mark: | |Apache HTTP Server HSTS||
 |[https://mps5.tropomi.eu](https://mps5.tropomi.eu)| | **B**|Apache| |:white_check_mark: | :warning:| | :white_check_mark:| | | :white_check_mark: | |Apache HTTP Server HSTS||
 |[https://mps7.tropomi.eu](https://mps7.tropomi.eu)| | **B**|Apache| |:white_check_mark: | :warning:| | :white_check_mark:| | | :white_check_mark: | |Apache HTTP Server HSTS||
+|[https://mpc-vdaf.tropomi.eu](https://mpc-vdaf.tropomi.eu)| | **C**|Apache|:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | |Apache HTTP Server HSTS Joomla PHP|s5p-mpc-vdaf - H...|
+|[https://mpc-vdaf-server.tropomi.eu](https://mpc-vdaf-server.tropomi.eu)| | **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Nginx|S5P Validation S...|
 
 

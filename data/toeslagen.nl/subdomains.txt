@@ -2,8 +2,13 @@ fed01.toeslagen.nl
 fed01.tst.toeslagen.nl
 fibt1.toeslagen.nl
 herstel.toeslagen.nl
+inkomen.toeslagen.nl
 mijn.toeslagen.nl
 toeslagen.nl
 www.toeslagen.nl
 toestemming.toeslagen.nl
 werken.toeslagen.nl
+schadeherstel.acc.toeslagen.nl
+gtmt.toeslagen.nl
+schadeherstel.toeslagen.nl
+werkenbij.toeslagen.nl

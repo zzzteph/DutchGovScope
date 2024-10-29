@@ -1,2 +1,4 @@
 minvrom.nl
 www.minvrom.nl
+localhost.minvrom.nl
+wifi.minvrom.nl

@@ -36,7 +36,7 @@
 |[https://bkk.odmh.nl](https://bkk.odmh.nl)| | **A**|Apache| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server Microsoft ASP.NET|Document Moved|
 |[https://kaarten.odmh.nl](https://kaarten.odmh.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server Microsoft ASP.NET|IIS Windows Serv...|
 |[https://atlas.odmh.nl](https://atlas.odmh.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server Microsoft ASP.NET|IIS Windows Serv...|
-|[https://geodocs.odmh.nl](https://geodocs.odmh.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server Microsoft ASP.NET:4.0.30319|Object moved|
+|[https://geodocs.odmh.nl](https://geodocs.odmh.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server Microsoft ASP.NET|Object moved|
 |[https://mail.odmh.nl](https://mail.odmh.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|403 Forbidden|
 |[https://zaaksysteem-acc.odmh.nl](https://zaaksysteem-acc.odmh.nl)| | **A**||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Moved|
 

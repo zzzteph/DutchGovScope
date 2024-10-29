@@ -80,3 +80,5 @@ acc.iaas-portal.odc-noord.nl
 acc.login.odc-noord.nl
 rvig-prd.topdesk.odc-noord.nl
 vpn.a4.odc-noord.nl
+rvihh-acc.topdesk.odc-noord.nl
+iaas-portal-gn3.odc-noord.nl

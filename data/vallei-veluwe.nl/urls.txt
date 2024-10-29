@@ -1,3 +1,4 @@
+https://adfs.vallei-veluwe.nl
 http://autodiscover.vallei-veluwe.nl
 https://redactie.vallei-veluwe.nl
 https://vallei-veluwe.nl

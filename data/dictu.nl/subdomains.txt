@@ -37,7 +37,6 @@ iltbuildserver.dictu.nl
 mailing.dictu.nl
 mft.webftp.dictu.nl
 mijntoken.dictu.nl
-pms-acc.dictu.nl
 procesweb-test.dictu.nl
 procesweb.dictu.nl
 sfs-acc.dictu.nl
@@ -58,3 +57,5 @@ asb.webftp.dictu.nl
 c-pki-acc.dictu.nl
 rijkspascrlcert2-acc.dictu.nl
 snow-cw.dictu.nl
+tvs.dictu.nl
+rijkspasocsp2-acc.dictu.nl

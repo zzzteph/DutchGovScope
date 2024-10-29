@@ -2,11 +2,11 @@
 layout: default
 title: "tweedekamer.nl"
 permalink: "/dutchgov/tweedekamer.nl.html"
-subdomains_count: 92
-urls_count: 91
+subdomains_count: 137
+urls_count: 130
 ssl_rank: 
 http_rank: C
-security_txt: 47
+security_txt: 76
 url_link: /data/tweedekamer.nl/urls.txt
 subdomains_link: /data/tweedekamer.nl/subdomains.txt
 categories: dutchgov
@@ -20,13 +20,13 @@ tags: dutchgov
 
  - **SSL Grade**:
  - **HTTP Security Grade**:C
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:47
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:76
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/tweedekamer.nl/subdomains.txt)|92|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/tweedekamer.nl/urls.txt)|91|Urls|
+|[subdomains.txt](/DutchGovScope/data/tweedekamer.nl/subdomains.txt)|137|Alive subdomains|
+|[urls.txt](/DutchGovScope/data/tweedekamer.nl/urls.txt)|130|Urls|
 
 
 ## Statistics
@@ -93,6 +93,7 @@ tags: dutchgov
 |[https://ontdek.test.tweedekamer.nl](https://ontdek.test.tweedekamer.nl)| | **C**|nginx/1.27.2| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Nginx:1.27.2|Tweede Kamer Tou...|
 |[https://tweedekamer.acceptatie.tweedekamer.nl](https://tweedekamer.acceptatie.tweedekamer.nl)| | **C**|nginx/1.27.2| |:white_check_mark: | | | | | | :white_check_mark: | |Nginx:1.27.2|403 Forbidden|
 |[https://tweedekamer.test.tweedekamer.nl](https://tweedekamer.test.tweedekamer.nl)| | **C**|nginx/1.27.2| |:white_check_mark: | | | | | | :white_check_mark: | |Nginx:1.27.2|403 Forbidden|
+|[https://ext02.videovergaderen.tweedekamer.nl](https://ext02.videovergaderen.tweedekamer.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://files.tweedekamer.nl](https://files.tweedekamer.nl)| | **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Nginx|403 Forbidden|
 |[https://gegevensmagazijn.tweedekamer.nl](https://gegevensmagazijn.tweedekamer.nl)| | **F**||:o: | | | | :white_check_mark:| | | :white_check_mark: | ||Gegevensmagazijn|
 |[https://werkenbij.test.tweedekamer.nl](https://werkenbij.test.tweedekamer.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|403 Forbidden|
@@ -100,7 +101,6 @@ tags: dutchgov
 |[https://houseofrepresentatives.test.tweedekamer.nl](https://houseofrepresentatives.test.tweedekamer.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |Basic HSTS|401 Authorizatio...|
 |[https://lijstvangevallenen.acceptatie.tweedekamer.nl](https://lijstvangevallenen.acceptatie.tweedekamer.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|403 Forbidden|
 |[https://lijstvangevallenen.test.tweedekamer.nl](https://lijstvangevallenen.test.tweedekamer.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|403 Forbidden|
-|[https://opendata.acceptatie.tweedekamer.nl](https://opendata.acceptatie.tweedekamer.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|403 Forbidden|
 |[https://opendata.test.tweedekamer.nl](https://opendata.test.tweedekamer.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|403 Forbidden|
 |[https://werkenbij.acceptatie.tweedekamer.nl](https://werkenbij.acceptatie.tweedekamer.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|403 Forbidden|
 |[https://livestream-backup.tweedekamer.nl](https://livestream-backup.tweedekamer.nl)| | **F**|ECAcc (ska/F775)| | | | | | | | :white_check_mark: | |Azure Azure CDN|Your Azure Funct...|
@@ -125,5 +125,44 @@ tags: dutchgov
 |[https://service.tweedekamer.nl](https://service.tweedekamer.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||
 |[https://sts.test.tweedekamer.nl](https://sts.test.tweedekamer.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
 |[https://sts.tweedekamer.nl](https://sts.tweedekamer.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
+|[https://klinkendetaal.tweedekamer.nl](https://klinkendetaal.tweedekamer.nl)| | **B**|BigIP|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |F5 BigIP||
+|[https://tweedekamer.nl](https://tweedekamer.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
+|[https://oracle-financials-ontw.tweedekamer.nl](https://oracle-financials-ontw.tweedekamer.nl)| | **F**|BigIP| | | | | | | | :white_check_mark: | |F5 BigIP||
+|[https://handboekdao.tweedekamer.nl](https://handboekdao.tweedekamer.nl)| | **B**|BigIP|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |F5 BigIP||
+|[https://handboekgc-acc.tweedekamer.nl](https://handboekgc-acc.tweedekamer.nl)| | **B**|BigIP|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |F5 BigIP||
+|[https://handboekgpbw-acc.tweedekamer.nl](https://handboekgpbw-acc.tweedekamer.nl)| | **B**|BigIP|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |F5 BigIP||
+|[https://apm-acc.tweedekamer.nl](https://apm-acc.tweedekamer.nl)| | **B**|BigIP|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |F5 BigIP||
+|[https://sesam-acc.tweedekamer.nl](https://sesam-acc.tweedekamer.nl)| | **B**|BigIP|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |F5 BigIP||
+|[https://oracle-financials-acc.tweedekamer.nl](https://oracle-financials-acc.tweedekamer.nl)| | **F**|BigIP| | | | | | | | :white_check_mark: | |F5 BigIP||
+|[https://oracle-financials.tweedekamer.nl](https://oracle-financials.tweedekamer.nl)| | **B**|BigIP|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |F5 BigIP||
+|[https://openbare-tzr.tweedekamer.nl](https://openbare-tzr.tweedekamer.nl)| | **B**|BigIP|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |F5 BigIP||
+|[https://apm.tweedekamer.nl](https://apm.tweedekamer.nl)| | **B**|BigIP|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |F5 BigIP||
+|[https://planon-live.tweedekamer.nl](https://planon-live.tweedekamer.nl)| | **B**|BigIP|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |F5 BigIP||
+|[https://viv-acc.tweedekamer.nl](https://viv-acc.tweedekamer.nl)| | **B**|BigIP|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |F5 BigIP||
+|[https://hollandfit.tweedekamer.nl](https://hollandfit.tweedekamer.nl)| | **B**|BigIP|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |F5 BigIP||
+|[https://vergaderapp.tweedekamer.nl](https://vergaderapp.tweedekamer.nl)| | **F**|BigIP| | | | | | | | :white_check_mark: | |F5 BigIP||
+|[https://datavisualisaties.tweedekamer.nl](https://datavisualisaties.tweedekamer.nl)| | **B**|BigIP|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |F5 BigIP||
+|[https://vip-acc.tweedekamer.nl](https://vip-acc.tweedekamer.nl)| | **B**|BigIP|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |F5 BigIP||
+|[https://kva-tst.tweedekamer.nl](https://kva-tst.tweedekamer.nl)| | **B**|BigIP|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |F5 BigIP||
+|[https://kva.tweedekamer.nl](https://kva.tweedekamer.nl)| | **B**|BigIP|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |F5 BigIP||
+|[https://plein2-acc.tweedekamer.nl](https://plein2-acc.tweedekamer.nl)| | **B**|BigIP|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |F5 BigIP||
+|[https://sesam-test.tweedekamer.nl](https://sesam-test.tweedekamer.nl)| | **B**|BigIP|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |F5 BigIP||
+|[https://avgregister.tweedekamer.nl](https://avgregister.tweedekamer.nl)| | **B**|BigIP|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |F5 BigIP||
+|[https://handboekgc.tweedekamer.nl](https://handboekgc.tweedekamer.nl)| | **B**|BigIP|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |F5 BigIP||
+|[https://opendata-wiki.tweedekamer.nl](https://opendata-wiki.tweedekamer.nl)| | **B**|BigIP|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |F5 BigIP||
+|[https://samenwerkruimten.tweedekamer.nl](https://samenwerkruimten.tweedekamer.nl)| | **B**|BigIP|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |F5 BigIP||
+|[https://viv.tweedekamer.nl](https://viv.tweedekamer.nl)| | **B**|BigIP|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |F5 BigIP||
+|[https://rijksadresgids.tweedekamer.nl](https://rijksadresgids.tweedekamer.nl)| | **B**|BigIP|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |F5 BigIP||
+|[https://plein2-test.tweedekamer.nl](https://plein2-test.tweedekamer.nl)| | **B**|BigIP|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |F5 BigIP||
+|[https://kva-acc.tweedekamer.nl](https://kva-acc.tweedekamer.nl)| | **B**|BigIP|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |F5 BigIP||
+|[https://rijksportaal.tweedekamer.nl](https://rijksportaal.tweedekamer.nl)| | **B**|BigIP|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |F5 BigIP||
+|[https://groepsbezoek.tweedekamer.nl](https://groepsbezoek.tweedekamer.nl)| | **A**|nginx| |:white_check_mark: | | | :white_check_mark:| | :white_check_mark: | :white_check_mark: | |HSTS Nginx PHP||
+|[https://bibliotheek-test.tweedekamer.nl](https://bibliotheek-test.tweedekamer.nl)| | **F**|Microsoft-IIS/10.0| | | | | | | | :white_check_mark: | |IIS:10.0 Windows Server|404 - File or di...|
+|[https://bibliotheek.tweedekamer.nl](https://bibliotheek.tweedekamer.nl)| | **F**|Microsoft-IIS/10.0| | | | | | | | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server|404 - File or di...|
+|[https://livestreaming-thumb.b67v2.tweedekamer.nl](https://livestreaming-thumb.b67v2.tweedekamer.nl)| | **F**|Kestrel|:white_check_mark: | | | | | | | :white_check_mark: | |Azure Kestrel Microsoft ASP.NET||
+|[https://livestreaming.b67buv2.tweedekamer.nl](https://livestreaming.b67buv2.tweedekamer.nl)| | **F**|ECAcc (ska/F775)| | | | | | | | :white_check_mark: | |Azure Azure CDN|Your Azure Funct...|
+|[https://livestream-media.tweedekamer.nl](https://livestream-media.tweedekamer.nl)| | **F**|ECAcc (amb/6B53)| | | | | | | | :white_check_mark: | |Azure Azure CDN|504 - Gateway Ti...|
+|[https://livestreaming.b67v2.tweedekamer.nl](https://livestreaming.b67v2.tweedekamer.nl)| | **F**|ECAcc (ska/F775)| | | | | | | | :white_check_mark: | |Azure Azure CDN|Your Azure Funct...|
+|[http://mijn.tweedekamer.nl](http://mijn.tweedekamer.nl)| | **F**|BigIP| | | | | | | | :white_check_mark: | |F5 BigIP||
 
 

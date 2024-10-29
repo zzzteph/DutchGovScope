@@ -11,8 +11,8 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/minienm.nl/subdomains.txt)|16|Alive subdomains|
-|[urls.txt](/data/minienm.nl/urls.txt)|16|Urls|
+|[subdomains.txt](/data/minienm.nl/subdomains.txt)|18|Alive subdomains|
+|[urls.txt](/data/minienm.nl/urls.txt)|18|Urls|
 
 
 ## Statistics
@@ -36,5 +36,7 @@
 |[https://pre.service.mpn.minienm.nl](https://pre.service.mpn.minienm.nl)| | **F**|nginx/1.27.2| | | | | | | | :white_check_mark: | |Nginx:1.27.2|MPN PRE-Producti...|
 |[https://service.mpn.minienm.nl](https://service.mpn.minienm.nl)| | **F**|nginx/1.27.2| | | | | | | | :white_check_mark: | |Nginx:1.27.2|400 No required...|
 |[https://mpn-pre.minienm.nl](https://mpn-pre.minienm.nl)| | **F**|nginx/1.27.2| | | | | | | | :white_check_mark: | |Nginx:1.27.2|MPN PRE-Producti...|
+|[https://dcc.minienm.nl](https://dcc.minienm.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
+|[http://localhost.minienm.nl](http://localhost.minienm.nl)| | **F**|nginx|:o: | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Laravel Nginx PHP|Weakpass|
 
 

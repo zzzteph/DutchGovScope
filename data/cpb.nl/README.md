@@ -11,7 +11,7 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/cpb.nl/subdomains.txt)|10|Alive subdomains|
+|[subdomains.txt](/data/cpb.nl/subdomains.txt)|12|Alive subdomains|
 |[urls.txt](/data/cpb.nl/urls.txt)|10|Urls|
 
 

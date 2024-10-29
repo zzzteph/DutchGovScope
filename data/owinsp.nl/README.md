@@ -11,8 +11,8 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/owinsp.nl/subdomains.txt)|9|Alive subdomains|
-|[urls.txt](/data/owinsp.nl/urls.txt)|9|Urls|
+|[subdomains.txt](/data/owinsp.nl/subdomains.txt)|10|Alive subdomains|
+|[urls.txt](/data/owinsp.nl/urls.txt)|10|Urls|
 
 
 ## Statistics
@@ -29,5 +29,6 @@
 |[https://pitng.owinsp.nl](https://pitng.owinsp.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS|404 Not Found|
 |[https://owinsp.nl](https://owinsp.nl)| | **F**|Apache/2| | | | | | | | :white_check_mark: | |Apache HTTP Server:2|301 Moved Perman...|
 |[https://www.owinsp.nl](https://www.owinsp.nl)| | **F**|Apache/2| | | | | | | | :white_check_mark: | |Apache HTTP Server:2|301 Moved Perman...|
+|[https://pitng.test.owinsp.nl](https://pitng.test.owinsp.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 
 

@@ -6,13 +6,13 @@
 
  - **SSL Grade**:
  - **HTTP Security Grade**:F
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:1
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:2
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/jeugdconnect.nl/subdomains.txt)|13|Alive subdomains|
-|[urls.txt](/data/jeugdconnect.nl/urls.txt)|13|Urls|
+|[subdomains.txt](/data/jeugdconnect.nl/subdomains.txt)|14|Alive subdomains|
+|[urls.txt](/data/jeugdconnect.nl/urls.txt)|14|Urls|
 
 
 ## Statistics
@@ -33,5 +33,6 @@
 |[https://slachtoffer.jeugdconnect.nl](https://slachtoffer.jeugdconnect.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Bootstrap HSTS Nginx|JustitieConnect|
 |[https://socialmediamonitor.jeugdconnect.nl](https://socialmediamonitor.jeugdconnect.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Bootstrap HSTS Nginx|JustitieConnect|
 |[https://vog.jeugdconnect.nl](https://vog.jeugdconnect.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Bootstrap HSTS Nginx|JustitieConnect|
+|[https://jeugdconnect.nl](https://jeugdconnect.nl)| | **C**|nginx|:warning: |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |AngularJS HSTS Nginx|landingspage|
 
 

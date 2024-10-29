@@ -2,10 +2,10 @@
 layout: default
 title: "open-overheid.nl"
 permalink: "/dutchgov/open-overheid.nl.html"
-subdomains_count: 6
-urls_count: 6
+subdomains_count: 8
+urls_count: 8
 ssl_rank: 
-http_rank: A
+http_rank: B
 security_txt: 5
 url_link: /data/open-overheid.nl/urls.txt
 subdomains_link: /data/open-overheid.nl/subdomains.txt
@@ -19,14 +19,14 @@ tags: dutchgov
 
 
  - **SSL Grade**:
- - **HTTP Security Grade**:A
+ - **HTTP Security Grade**:B
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:5
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/open-overheid.nl/subdomains.txt)|6|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/open-overheid.nl/urls.txt)|6|Urls|
+|[subdomains.txt](/DutchGovScope/data/open-overheid.nl/subdomains.txt)|8|Alive subdomains|
+|[urls.txt](/DutchGovScope/data/open-overheid.nl/urls.txt)|8|Urls|
 
 
 ## Statistics
@@ -40,5 +40,7 @@ tags: dutchgov
 |[https://www.open-overheid.nl](https://www.open-overheid.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Home | Open Over...|
 |[https://mail.open-overheid.nl](https://mail.open-overheid.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|Domein niet gevo...|
 |[https://wooincijfers.open-overheid.nl](https://wooincijfers.open-overheid.nl)| | **A**|| |:white_check_mark: | :warning:| | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Node.js Nuxt.js Vue.js|Woo in cijfers|
+|[https://pop.open-overheid.nl](https://pop.open-overheid.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|Domein niet gevo...|
+|[https://smtp.open-overheid.nl](https://smtp.open-overheid.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|Domein niet gevo...|
 
 

@@ -5,3 +5,4 @@ rds.minfin.nl
 remote.minfin.nl
 www.minfin.nl
 minfin.nl
+ttw.minfin.nl

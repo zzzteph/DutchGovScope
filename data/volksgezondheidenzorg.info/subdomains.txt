@@ -4,3 +4,4 @@ volksgezondheidenzorg.info
 www.volksgezondheidenzorg.info
 acceptatie.volksgezondheidenzorg.info
 costofillnesstool.volksgezondheidenzorg.info
+localhost.volksgezondheidenzorg.info

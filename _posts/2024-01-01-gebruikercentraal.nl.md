@@ -2,11 +2,11 @@
 layout: default
 title: "gebruikercentraal.nl"
 permalink: "/dutchgov/gebruikercentraal.nl.html"
-subdomains_count: 47
-urls_count: 47
+subdomains_count: 48
+urls_count: 48
 ssl_rank: 
 http_rank: C
-security_txt: 34
+security_txt: 35
 url_link: /data/gebruikercentraal.nl/urls.txt
 subdomains_link: /data/gebruikercentraal.nl/subdomains.txt
 categories: dutchgov
@@ -20,13 +20,13 @@ tags: dutchgov
 
  - **SSL Grade**:
  - **HTTP Security Grade**:C
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:34
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:35
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/gebruikercentraal.nl/subdomains.txt)|47|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/gebruikercentraal.nl/urls.txt)|47|Urls|
+|[subdomains.txt](/DutchGovScope/data/gebruikercentraal.nl/subdomains.txt)|48|Alive subdomains|
+|[urls.txt](/DutchGovScope/data/gebruikercentraal.nl/urls.txt)|48|Urls|
 
 
 ## Statistics
@@ -81,5 +81,6 @@ tags: dutchgov
 |[https://cx.gebruikercentraal.nl](https://cx.gebruikercentraal.nl)| | **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Nginx PHP:8.1.30||
 |[https://duidelijk.gebruikercentraal.nl](https://duidelijk.gebruikercentraal.nl)| | **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Nginx PHP:8.2.24||
 |[https://test.optimaaldigitaal.gebruikercentraal.nl](https://test.optimaaldigitaal.gebruikercentraal.nl)| | **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |Basic HSTS Nginx|401 Unauthorized|
+|[https://inclusievedienstverlening.gebruikercentraal.nl](https://inclusievedienstverlening.gebruikercentraal.nl)| | **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Nginx PHP:8.1.30||
 
 

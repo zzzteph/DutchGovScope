@@ -13,4 +13,12 @@ http://www.structuurfondsen.ez.nl
 https://dienstenrichtlijn.ez.nl
 https://exportcontrole.ez.nl
 https://structuurfondsen.ez.nl
-https://wvaopgave.ez.nl
+http://video.ez.nl
+http://namen.ez.nl
+http://ondernemerschap.ez.nl
+http://veiligheid.ez.nl
+http://ondernemen.ez.nl
+http://prinsjesdag.ez.nl
+http://toerisme.ez.nl
+http://pers.ez.nl
+http://frequenties.ez.nl

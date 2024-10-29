@@ -5,7 +5,6 @@ https://stats.hogeraad.nl
 https://www.hogeraad.nl
 https://siam-acc.hogeraad.nl
 https://siam.hogeraad.nl
-http://asts.hogeraad.nl
 https://mijnzaak-acc.hogeraad.nl
 https://www-acc.hogeraad.nl
 http://autodiscover.hogeraad.nl

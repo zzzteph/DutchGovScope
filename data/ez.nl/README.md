@@ -11,8 +11,8 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/ez.nl/subdomains.txt)|16|Alive subdomains|
-|[urls.txt](/data/ez.nl/urls.txt)|16|Urls|
+|[subdomains.txt](/data/ez.nl/subdomains.txt)|24|Alive subdomains|
+|[urls.txt](/data/ez.nl/urls.txt)|24|Urls|
 
 
 ## Statistics
@@ -35,6 +35,14 @@
 |[https://dienstenrichtlijn.ez.nl](https://dienstenrichtlijn.ez.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|403 Forbidden|
 |[https://exportcontrole.ez.nl](https://exportcontrole.ez.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|403 Forbidden|
 |[https://structuurfondsen.ez.nl](https://structuurfondsen.ez.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|403 Forbidden|
-|[https://wvaopgave.ez.nl](https://wvaopgave.ez.nl)| | **D**||:o: |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|Object moved|
+|[http://video.ez.nl](http://video.ez.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
+|[http://namen.ez.nl](http://namen.ez.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
+|[http://ondernemerschap.ez.nl](http://ondernemerschap.ez.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
+|[http://veiligheid.ez.nl](http://veiligheid.ez.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
+|[http://ondernemen.ez.nl](http://ondernemen.ez.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
+|[http://prinsjesdag.ez.nl](http://prinsjesdag.ez.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
+|[http://toerisme.ez.nl](http://toerisme.ez.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
+|[http://pers.ez.nl](http://pers.ez.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
+|[http://frequenties.ez.nl](http://frequenties.ez.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 
 

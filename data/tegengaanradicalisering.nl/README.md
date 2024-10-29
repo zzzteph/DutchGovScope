@@ -6,13 +6,13 @@
 
  - **SSL Grade**:
  - **HTTP Security Grade**:A
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:3
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:4
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/tegengaanradicalisering.nl/subdomains.txt)|3|Alive subdomains|
-|[urls.txt](/data/tegengaanradicalisering.nl/urls.txt)|3|Urls|
+|[subdomains.txt](/data/tegengaanradicalisering.nl/subdomains.txt)|4|Alive subdomains|
+|[urls.txt](/data/tegengaanradicalisering.nl/urls.txt)|4|Urls|
 
 
 ## Statistics
@@ -23,5 +23,6 @@
 |[https://www.tegengaanradicalisering.nl](https://www.tegengaanradicalisering.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Home | Rijksople...|
 |[https://feeds.tegengaanradicalisering.nl](https://feeds.tegengaanradicalisering.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://tegengaanradicalisering.nl](https://tegengaanradicalisering.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
+|[https://opendata.tegengaanradicalisering.nl](https://opendata.tegengaanradicalisering.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 
 

@@ -11,10 +11,10 @@ https://sadp.pleio.nl
 https://aangifteselectie-chat.pleio.nl
 https://dgh-chat.pleio.nl
 https://moodle.pleio.nl
-https://eclo.odc.pleio.nl
 https://help.odc.pleio.nl
 https://pleio.nl
 https://kia.odc.pleio.nl
+https://netwerkabroad.odc.pleio.nl
 https://tooling.capacitor.pleio.nl
 https://auth.k8sauth.pleio.nl
 https://idm.k8sauth.pleio.nl
@@ -44,6 +44,7 @@ https://videobellen-jwt-only.pleio.nl
 https://videobellen.pleio.nl
 https://gemeentelijkgeoberaad.pleio.nl
 https://eurlplanthealth.pleio.nl
-https://integralevroeghulp.odc.pleio.nl
 https://digischool.odc.pleio.nl
 https://enquetes.pleio.nl
+https://kennisdelenrv.odc.pleio.nl
+https://learningnetwork.pleio.nl

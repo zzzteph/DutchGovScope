@@ -2,8 +2,8 @@
 layout: default
 title: "justitieleictorganisatie.nl"
 permalink: "/dutchgov/justitieleictorganisatie.nl.html"
-subdomains_count: 7
-urls_count: 7
+subdomains_count: 10
+urls_count: 10
 ssl_rank: 
 http_rank: A
 security_txt: 7
@@ -25,8 +25,8 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/justitieleictorganisatie.nl/subdomains.txt)|7|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/justitieleictorganisatie.nl/urls.txt)|7|Urls|
+|[subdomains.txt](/DutchGovScope/data/justitieleictorganisatie.nl/subdomains.txt)|10|Alive subdomains|
+|[urls.txt](/DutchGovScope/data/justitieleictorganisatie.nl/urls.txt)|10|Urls|
 
 
 ## Statistics
@@ -41,5 +41,8 @@ tags: dutchgov
 |[https://opendata.justitieleictorganisatie.nl](https://opendata.justitieleictorganisatie.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://www.justitieleictorganisatie.nl](https://www.justitieleictorganisatie.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Home | Justitiël...|
 |[https://intranet.justitieleictorganisatie.nl](https://intranet.justitieleictorganisatie.nl)| | **A**|Apache| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Apache HTTP Server HSTS||
+|[http://autodiscover.justitieleictorganisatie.nl](http://autodiscover.justitieleictorganisatie.nl)| | **C**|Microsoft-IIS/10.0| |:white_check_mark: | | | | | | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server||
+|[https://enterpriseenrollment.justitieleictorganisatie.nl](https://enterpriseenrollment.justitieleictorganisatie.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||
+|[https://enterpriseregistration.justitieleictorganisatie.nl](https://enterpriseregistration.justitieleictorganisatie.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 
 

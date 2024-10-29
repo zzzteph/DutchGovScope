@@ -101,3 +101,6 @@ pw.rvb.rijkscloud.nl
 www.rijkscloud.nl
 rstudio.kim.rijkscloud.nl
 zabbix6.mintst2.rijkscloud.nl
+dbe-t.rvb.rijkscloud.nl
+images.analyse.ilt.rijkscloud.nl
+registry.gitlab.analyse.ilt.rijkscloud.nl

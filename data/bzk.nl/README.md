@@ -6,13 +6,13 @@
 
  - **SSL Grade**:
  - **HTTP Security Grade**:A
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:2
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:8
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/bzk.nl/subdomains.txt)|2|Alive subdomains|
-|[urls.txt](/data/bzk.nl/urls.txt)|2|Urls|
+|[subdomains.txt](/data/bzk.nl/subdomains.txt)|9|Alive subdomains|
+|[urls.txt](/data/bzk.nl/urls.txt)|9|Urls|
 
 
 ## Statistics
@@ -22,5 +22,12 @@
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[https://bzk.nl](https://bzk.nl)| | **A**|Microsoft-IIS/10.0| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS IIS:10.0 Windows Server|Document Moved|
 |[https://www.bzk.nl](https://www.bzk.nl)| | **A**|Microsoft-IIS/10.0| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS IIS:10.0 Windows Server|Document Moved|
+|[https://app.wallet.edi.bzk.nl](https://app.wallet.edi.bzk.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS|Pagina niet gevo...|
+|[https://app.preproductie.wallet.edi.bzk.nl](https://app.preproductie.wallet.edi.bzk.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS|Pagina niet gevo...|
+|[https://wallet.edi.bzk.nl](https://wallet.edi.bzk.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|Pagina niet gevo...|
+|[https://static.preproductie.wallet.edi.bzk.nl](https://static.preproductie.wallet.edi.bzk.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS|Pagina niet gevo...|
+|[https://preproductie.wallet.edi.bzk.nl](https://preproductie.wallet.edi.bzk.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS|Pagina niet gevo...|
+|[https://static.wallet.edi.bzk.nl](https://static.wallet.edi.bzk.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS|Pagina niet gevo...|
+|[https://leiderschapsdag2024.bzk.nl](https://leiderschapsdag2024.bzk.nl)| | **B**|Apache/2| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server:2 HSTS|403 Forbidden|
 
 

@@ -5,14 +5,14 @@
 
 
  - **SSL Grade**:
- - **HTTP Security Grade**:F
+ - **HTTP Security Grade**:D
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:0
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/wachtrijbooster.nl/subdomains.txt)|0|Alive subdomains|
-|[urls.txt](/data/wachtrijbooster.nl/urls.txt)|0|Urls|
+|[subdomains.txt](/data/wachtrijbooster.nl/subdomains.txt)|2|Alive subdomains|
+|[urls.txt](/data/wachtrijbooster.nl/urls.txt)|2|Urls|
 
 
 ## Statistics
@@ -20,5 +20,7 @@
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
+|[https://wachtrijbooster.nl](https://wachtrijbooster.nl)| | **E**|cloudflare| | | | | | :white_check_mark: | | :white_check_mark: | |Cloudflare HTTP/3|Attention Requir...|
+|[https://aanmelden.wachtrijbooster.nl](https://aanmelden.wachtrijbooster.nl)| | **C**|cloudflare| |:white_check_mark: | | | | | | :white_check_mark: | |Cloudflare HTTP/3||
 
 

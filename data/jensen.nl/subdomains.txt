@@ -11,3 +11,5 @@ video.jensen.nl
 staging.jensen.nl
 twentysix-proud.jensen.nl
 www.jensen.nl
+wt-tracker.jensen.nl
+transcode.jensen.nl

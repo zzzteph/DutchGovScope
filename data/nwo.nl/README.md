@@ -11,8 +11,8 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/nwo.nl/subdomains.txt)|19|Alive subdomains|
-|[urls.txt](/data/nwo.nl/urls.txt)|19|Urls|
+|[subdomains.txt](/data/nwo.nl/subdomains.txt)|20|Alive subdomains|
+|[urls.txt](/data/nwo.nl/urls.txt)|20|Urls|
 
 
 ## Statistics
@@ -39,5 +39,6 @@
 |[https://vpnportal-supplier.nwo.nl](https://vpnportal-supplier.nwo.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://vpnportal.nwo.nl](https://vpnportal.nwo.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://digitoegankelijk.nwo.nl](https://digitoegankelijk.nwo.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|Digitoegankelijk...|
+|[https://enterpriseenrollment.nwo.nl](https://enterpriseenrollment.nwo.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||
 
 

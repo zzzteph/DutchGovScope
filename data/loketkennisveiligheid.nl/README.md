@@ -11,8 +11,8 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/loketkennisveiligheid.nl/subdomains.txt)|7|Alive subdomains|
-|[urls.txt](/data/loketkennisveiligheid.nl/urls.txt)|7|Urls|
+|[subdomains.txt](/data/loketkennisveiligheid.nl/subdomains.txt)|8|Alive subdomains|
+|[urls.txt](/data/loketkennisveiligheid.nl/urls.txt)|8|Urls|
 
 
 ## Statistics
@@ -27,5 +27,6 @@
 |[https://opendata.loketkennisveiligheid.nl](https://opendata.loketkennisveiligheid.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://www.loketkennisveiligheid.nl](https://www.loketkennisveiligheid.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Home | Loket Ken...|
 |[https://english.loketkennisveiligheid.nl](https://english.loketkennisveiligheid.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Home | National...|
+|[https://netwerk.loketkennisveiligheid.nl](https://netwerk.loketkennisveiligheid.nl)| | **F**|WebServer| | | | | | | | :white_check_mark: | |Bootstrap HSTS PHP||
 
 

@@ -28,3 +28,13 @@ https://pywb.nationaalarchief.nl
 https://pywb.ted.nationaalarchief.nl
 https://ted.nationaalarchief.nl
 https://www.ted.nationaalarchief.nl
+https://cbs.acpt.nationaalarchief.nl
+https://e-depot.nationaalarchief.nl
+https://ontorefine.nationaalarchief.nl
+http://amh.nationaalarchief.nl
+https://fr.test.nationaalarchief.nl
+https://de.test.nationaalarchief.nl
+https://en.test.nationaalarchief.nl
+https://es.test.nationaalarchief.nl
+http://localhost.nationaalarchief.nl
+https://meld.nationaalarchief.nl

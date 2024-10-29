@@ -2,8 +2,8 @@
 layout: default
 title: "zorgverzekeringslijn.nl"
 permalink: "/dutchgov/zorgverzekeringslijn.nl.html"
-subdomains_count: 7
-urls_count: 7
+subdomains_count: 6
+urls_count: 6
 ssl_rank: 
 http_rank: A
 security_txt: 3
@@ -25,8 +25,8 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/zorgverzekeringslijn.nl/subdomains.txt)|7|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/zorgverzekeringslijn.nl/urls.txt)|7|Urls|
+|[subdomains.txt](/DutchGovScope/data/zorgverzekeringslijn.nl/subdomains.txt)|6|Alive subdomains|
+|[urls.txt](/DutchGovScope/data/zorgverzekeringslijn.nl/urls.txt)|6|Urls|
 
 
 ## Statistics
@@ -40,6 +40,5 @@ tags: dutchgov
 |[https://test.trainingen.zorgverzekeringslijn.nl](https://test.trainingen.zorgverzekeringslijn.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Nginx|Redirecting to h...|
 |[https://trainingen.zorgverzekeringslijn.nl](https://trainingen.zorgverzekeringslijn.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Nginx|Redirecting to h...|
 |[https://zorgverzekeringslijn.nl](https://zorgverzekeringslijn.nl)| | **A**|Apache| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Apache HTTP Server HSTS|301 Moved Perman...|
-|[https://wiki.zorgverzekeringslijn.nl](https://wiki.zorgverzekeringslijn.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|Web Server's Def...|
 
 

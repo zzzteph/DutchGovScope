@@ -5,7 +5,6 @@ stats.hogeraad.nl
 www.hogeraad.nl
 siam-acc.hogeraad.nl
 siam.hogeraad.nl
-asts.hogeraad.nl
 mijnzaak-acc.hogeraad.nl
 www-acc.hogeraad.nl
 autodiscover.hogeraad.nl

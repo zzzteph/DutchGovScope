@@ -28,3 +28,4 @@ testopendata.hhdelfland.nl
 wbp6.hhdelfland.nl
 workspace.hhdelfland.nl
 geoview.hhdelfland.nl
+geoappstest.hhdelfland.nl

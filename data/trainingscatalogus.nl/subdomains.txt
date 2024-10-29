@@ -82,3 +82,7 @@ lms-stater.trainingscatalogus.nl
 lms-svb.trainingscatalogus.nl
 lms-tennet.trainingscatalogus.nl
 senzer.trainingscatalogus.nl
+alliander-lms-t.enrollment-api.trainingscatalogus.nl
+alliander-lms-t.product-api.trainingscatalogus.nl
+lms-belastingdienst.trainingscatalogus.nl
+lms-apg.trainingscatalogus.nl

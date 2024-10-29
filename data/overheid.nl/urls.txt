@@ -26,7 +26,7 @@ https://lvbb-preprod.overheid.nl
 https://overheid.nl
 https://cio.overheid.nl
 https://lokaleregelgeving-eto.overheid.nl
-http://repository-eto.overheid.nl
+https://repository-eto.overheid.nl
 https://treatydatabase.overheid.nl
 https://api.mijn.overheid.nl
 https://api.preprod.mijn.overheid.nl
@@ -320,3 +320,5 @@ https://resolver.pre.omgevingswet.overheid.nl
 https://social.overheid.nl
 https://toepasbare-regels.omgevingswet.overheid.nl
 https://water.omgevingswet.overheid.nl
+https://autodiscover.overheid.nl
+https://ftp.overheid.nl

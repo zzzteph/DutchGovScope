@@ -6,13 +6,13 @@
 
  - **SSL Grade**:
  - **HTTP Security Grade**:C
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:53
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:56
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/ndw.nu/subdomains.txt)|78|Alive subdomains|
-|[urls.txt](/data/ndw.nu/urls.txt)|78|Urls|
+|[subdomains.txt](/data/ndw.nu/subdomains.txt)|85|Alive subdomains|
+|[urls.txt](/data/ndw.nu/urls.txt)|85|Urls|
 
 
 ## Statistics
@@ -98,5 +98,12 @@
 |[https://sentry.ndw.nu](https://sentry.ndw.nu)| | **E**||:o: | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |||
 |[https://design.ndw.nu](https://design.ndw.nu)| | **A**|| |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | |HSTS MkDocs:1.6.1 Python|NDW Docs|
 |[https://stats.ndw.nu](https://stats.ndw.nu)| | **F**|Microsoft-Azure-Application-Gateway/v2| | | | | | | | :white_check_mark: | ||404 Not Found|
+|[https://analytics.ndw.nu](https://analytics.ndw.nu)| | **F**|Microsoft-Azure-Application-Gateway/v2| | | | | | | | :white_check_mark: | ||404 Not Found|
+|[https://data-staging.ndw.nu](https://data-staging.ndw.nu)| | **F**|Microsoft-Azure-Application-Gateway/v2| | | | | | | | :white_check_mark: | ||404 Not Found|
+|[https://design.staging.ndw.nu](https://design.staging.ndw.nu)| | **A**|| |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | |HSTS MkDocs:1.6.1 Python|NDW Docs|
+|[https://docs.staging.ndw.nu](https://docs.staging.ndw.nu)| | **A**|| |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | |HSTS MkDocs:1.6.1 Python|NDW Docs|
+|[https://mijn.staging.ndw.nu](https://mijn.staging.ndw.nu)| | **E**|| | | | | | | | :white_check_mark: | |||
+|[https://mail.ndw.nu](https://mail.ndw.nu)| | **F**|IceWarp/14.1.0.13 x64| | | | | | | | :white_check_mark: | |HSTS|302 Document Mov...|
+|[https://acceptatie-melvin.ndw.nu](https://acceptatie-melvin.ndw.nu)| | **F**|Microsoft-Azure-Application-Gateway/v2| | | | | | | | :white_check_mark: | ||404 Not Found|
 
 

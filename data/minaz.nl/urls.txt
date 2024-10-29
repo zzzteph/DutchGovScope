@@ -3,3 +3,4 @@ https://www.minaz.nl
 https://portal.minaz.nl
 https://portal2.minaz.nl
 https://portal3.minaz.nl
+https://gateway.minaz.nl

@@ -61,3 +61,4 @@ https://hapi.acc.spaceweather.knmi.nl
 https://hapi.spaceweather.knmi.nl
 https://notifications.dev.spaceweather.knmi.nl
 https://panelrows.dev.spaceweather.knmi.nl
+https://cabauw.knmi.nl

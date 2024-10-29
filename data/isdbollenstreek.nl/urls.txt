@@ -4,3 +4,4 @@ https://isdbollenstreek.nl
 https://mijnloket-test.isdbollenstreek.nl
 https://mijnloket.isdbollenstreek.nl
 https://www.isdbollenstreek.nl
+http://autodiscover.isdbollenstreek.nl

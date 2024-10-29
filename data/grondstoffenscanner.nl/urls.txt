@@ -3,3 +3,4 @@ https://acc.grondstoffenscanner.nl
 https://beheer.acc.grondstoffenscanner.nl
 https://grondstoffenscanner.nl
 https://www.grondstoffenscanner.nl
+https://tst.grondstoffenscanner.nl

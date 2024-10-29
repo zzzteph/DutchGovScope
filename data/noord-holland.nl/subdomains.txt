@@ -55,3 +55,6 @@ geoservices.noord-holland.nl
 ios-api.noord-holland.nl
 lms.noord-holland.nl
 pvkontakt.noord-holland.nl
+enterpriseenrollment.noord-holland.nl
+enterpriseregistration.noord-holland.nl
+admin.openstad.noord-holland.nl

@@ -1,2 +1,4 @@
 codexalimentarius.nl
 www.codexalimentarius.nl
+feeds.codexalimentarius.nl
+opendata.codexalimentarius.nl

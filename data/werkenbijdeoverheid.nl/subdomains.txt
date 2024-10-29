@@ -10,3 +10,5 @@ www-acceptatie2.werkenbijdeoverheid.nl
 vacaturezoekservice-test.werkenbijdeoverheid.nl
 www-test2.werkenbijdeoverheid.nl
 www-sandbox.werkenbijdeoverheid.nl
+sandbox.werkenbijdeoverheid.nl
+vacaturezoekservice.werkenbijdeoverheid.nl

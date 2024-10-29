@@ -2,8 +2,8 @@
 layout: default
 title: "loketkennisveiligheid.nl"
 permalink: "/dutchgov/loketkennisveiligheid.nl.html"
-subdomains_count: 7
-urls_count: 7
+subdomains_count: 8
+urls_count: 8
 ssl_rank: 
 http_rank: A
 security_txt: 7
@@ -25,8 +25,8 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/loketkennisveiligheid.nl/subdomains.txt)|7|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/loketkennisveiligheid.nl/urls.txt)|7|Urls|
+|[subdomains.txt](/DutchGovScope/data/loketkennisveiligheid.nl/subdomains.txt)|8|Alive subdomains|
+|[urls.txt](/DutchGovScope/data/loketkennisveiligheid.nl/urls.txt)|8|Urls|
 
 
 ## Statistics
@@ -41,5 +41,6 @@ tags: dutchgov
 |[https://opendata.loketkennisveiligheid.nl](https://opendata.loketkennisveiligheid.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://www.loketkennisveiligheid.nl](https://www.loketkennisveiligheid.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Home | Loket Ken...|
 |[https://english.loketkennisveiligheid.nl](https://english.loketkennisveiligheid.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Home | National...|
+|[https://netwerk.loketkennisveiligheid.nl](https://netwerk.loketkennisveiligheid.nl)| | **F**|WebServer| | | | | | | | :white_check_mark: | |Bootstrap HSTS PHP||
 
 

@@ -2,11 +2,11 @@
 layout: default
 title: "aeriusproducten.nl"
 permalink: "/dutchgov/aeriusproducten.nl.html"
-subdomains_count: 3
-urls_count: 3
+subdomains_count: 4
+urls_count: 4
 ssl_rank: 
 http_rank: A
-security_txt: 3
+security_txt: 4
 url_link: /data/aeriusproducten.nl/urls.txt
 subdomains_link: /data/aeriusproducten.nl/subdomains.txt
 categories: dutchgov
@@ -20,13 +20,13 @@ tags: dutchgov
 
  - **SSL Grade**:
  - **HTTP Security Grade**:A
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:3
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:4
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/aeriusproducten.nl/subdomains.txt)|3|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/aeriusproducten.nl/urls.txt)|3|Urls|
+|[subdomains.txt](/DutchGovScope/data/aeriusproducten.nl/subdomains.txt)|4|Alive subdomains|
+|[urls.txt](/DutchGovScope/data/aeriusproducten.nl/urls.txt)|4|Urls|
 
 
 ## Statistics
@@ -37,5 +37,6 @@ tags: dutchgov
 |[https://aeriusproducten.nl](https://aeriusproducten.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
 |[https://opendata.aeriusproducten.nl](https://opendata.aeriusproducten.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://www.aeriusproducten.nl](https://www.aeriusproducten.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Homepage AERIUS...|
+|[https://feeds.aeriusproducten.nl](https://feeds.aeriusproducten.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 
 

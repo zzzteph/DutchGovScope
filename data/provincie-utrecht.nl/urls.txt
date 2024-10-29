@@ -1,8 +1,6 @@
 https://espt.provincie-utrecht.nl
-https://wortel184.provincie-utrecht.nl
 https://assystnet-test-t.provincie-utrecht.nl
 https://geo.provincie-utrecht.nl
-https://gis.provincie-utrecht.nl
 https://innerweb.provincie-utrecht.nl
 https://oem.provincie-utrecht.nl
 https://wzb.provincie-utrecht.nl
@@ -61,8 +59,10 @@ https://ruimtelijkeplannenintern.provincie-utrecht.nl
 https://sap-crm.provincie-utrecht.nl
 https://search-a.provincie-utrecht.nl
 https://search.provincie-utrecht.nl
+https://slechtvalk.provincie-utrecht.nl
 https://sslvpn-hth.provincie-utrecht.nl
 https://sslvpn.provincie-utrecht.nl
+https://stateninformatie.provincie-utrecht.nl
 https://www.stateninformatie.provincie-utrecht.nl
 https://tramdashboard.provincie-utrecht.nl
 https://vctu-api.provincie-utrecht.nl

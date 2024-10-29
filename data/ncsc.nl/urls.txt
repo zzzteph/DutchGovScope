@@ -28,3 +28,5 @@ https://securened-acc.ncsc.nl
 https://securened-tst.ncsc.nl
 https://csaf.data.security.ncsc.nl
 https://vulnerabilities.ncsc.nl
+https://melden.ncsc.nl
+https://registreren.ncsc.nl

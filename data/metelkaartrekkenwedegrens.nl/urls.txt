@@ -1,3 +1,4 @@
 https://feeds.metelkaartrekkenwedegrens.nl
 https://metelkaartrekkenwedegrens.nl
 https://www.metelkaartrekkenwedegrens.nl
+https://opendata.metelkaartrekkenwedegrens.nl

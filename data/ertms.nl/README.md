@@ -11,8 +11,8 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/ertms.nl/subdomains.txt)|3|Alive subdomains|
-|[urls.txt](/data/ertms.nl/urls.txt)|3|Urls|
+|[subdomains.txt](/data/ertms.nl/subdomains.txt)|4|Alive subdomains|
+|[urls.txt](/data/ertms.nl/urls.txt)|4|Urls|
 
 
 ## Statistics
@@ -23,5 +23,6 @@
 |[https://ertms.nl](https://ertms.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Object moved|
 |[https://postmaster.ertms.nl](https://postmaster.ertms.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Object moved|
 |[https://www.ertms.nl](https://www.ertms.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Object moved|
+|[https://web.ertms.nl](https://web.ertms.nl)| | **E**|| | | | | | | | :white_check_mark: | |Azure Azure Front Door||
 
 

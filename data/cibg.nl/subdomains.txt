@@ -23,6 +23,7 @@ desktop.klopt.cibg.nl
 forms.klopt.cibg.nl
 api.klopt.cibg.nl
 content.klopt.cibg.nl
+applicationframework.cibg.nl
 beheer.lir.cibg.nl
 beheer.lrza.cibg.nl
 bestandsportaal.cibg.nl

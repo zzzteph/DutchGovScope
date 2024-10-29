@@ -8,3 +8,4 @@ https://opendata.awti.nl
 https://www.awti.nl
 https://feeds.awti.nl
 https://pushmail.awti.nl
+https://ts.awti.nl

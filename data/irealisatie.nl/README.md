@@ -6,7 +6,7 @@
 
  - **SSL Grade**:
  - **HTTP Security Grade**:A
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:62
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:64
 
 
 | File       | Count | Info |
@@ -25,15 +25,15 @@
 |[https://pseudonym.test.zm.irealisatie.nl](https://pseudonym.test.zm.irealisatie.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |Basic HSTS|401 Unauthorized|
 |[https://qualification-api.test.zm.irealisatie.nl](https://qualification-api.test.zm.irealisatie.nl)| | **E**|| | | | | | | | :white_check_mark: | |Basic HSTS|401 Unauthorized|
 |[https://jaeger.test.zm.irealisatie.nl](https://jaeger.test.zm.irealisatie.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Basic HSTS|401 Unauthorized|
-|[https://metadata-c.test.zm.irealisatie.nl](https://metadata-c.test.zm.irealisatie.nl)| | **E**|| | | | | | | | :white_check_mark: | |Basic HSTS|401 Unauthorized|
+|[https://metadata-c.test.zm.irealisatie.nl](https://metadata-c.test.zm.irealisatie.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |Basic HSTS|401 Unauthorized|
 |[http://metadata.test.zm.irealisatie.nl](http://metadata.test.zm.irealisatie.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |||
-|[https://qualification-admin.test.zm.irealisatie.nl](https://qualification-admin.test.zm.irealisatie.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |Basic HSTS|401 Unauthorized|
+|[http://qualification-admin.test.zm.irealisatie.nl](http://qualification-admin.test.zm.irealisatie.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |Basic HSTS||
 |[https://qualification.test.zm.irealisatie.nl](https://qualification.test.zm.irealisatie.nl)| | **A**|Apache| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server Basic HSTS|401 Unauthorized|
 |[https://addressing.test.zm.irealisatie.nl](https://addressing.test.zm.irealisatie.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |Basic HSTS|401 Unauthorized|
-|[https://metadata-b.test.zm.irealisatie.nl](https://metadata-b.test.zm.irealisatie.nl)| | **E**|| | | | | | | | :white_check_mark: | |Basic HSTS|401 Unauthorized|
+|[https://metadata-b.test.zm.irealisatie.nl](https://metadata-b.test.zm.irealisatie.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |Basic HSTS|401 Unauthorized|
 |[https://prs.test.zm.irealisatie.nl](https://prs.test.zm.irealisatie.nl)| | **E**|| | | | | | | | :white_check_mark: | |Basic HSTS|401 Unauthorized|
-|[http://timeline.test.zm.irealisatie.nl](http://timeline.test.zm.irealisatie.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |||
-|[http://viewer.test.zm.irealisatie.nl](http://viewer.test.zm.irealisatie.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |||
+|[https://timeline.test.zm.irealisatie.nl](https://timeline.test.zm.irealisatie.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |Basic HSTS|401 Unauthorized|
+|[https://viewer.test.zm.irealisatie.nl](https://viewer.test.zm.irealisatie.nl)| | **A**|Apache| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |Apache HTTP Server Basic HSTS|401 Unauthorized|
 |[https://adressering.proeftuin.gf.irealisatie.nl](https://adressering.proeftuin.gf.irealisatie.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |Basic HSTS|401 Unauthorized|
 |[https://jaeger.proeftuin.gf.irealisatie.nl](https://jaeger.proeftuin.gf.irealisatie.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Basic HSTS|401 Unauthorized|
 |[https://kwalificatie-admin-api.proeftuin.gf.irealisatie.nl](https://kwalificatie-admin-api.proeftuin.gf.irealisatie.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |Basic HSTS|401 Unauthorized|
@@ -52,7 +52,7 @@
 |[https://max.test.mgo.irealisatie.nl](https://max.test.mgo.irealisatie.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS||
 |[https://stats.test.mgo.irealisatie.nl](https://stats.test.mgo.irealisatie.nl)| | **B**|Apache| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server Basic HSTS|401 Unauthorized|
 |[http://storage.test.mgo.irealisatie.nl](http://storage.test.mgo.irealisatie.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
-|[https://web.test.mgo.irealisatie.nl](https://web.test.mgo.irealisatie.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server Basic HSTS|401 Unauthorized|
+|[https://web.test.mgo.irealisatie.nl](https://web.test.mgo.irealisatie.nl)| | **A**|Apache| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |Apache HTTP Server Basic HSTS|401 Unauthorized|
 |[https://app-api.test.mgo.irealisatie.nl](https://app-api.test.mgo.irealisatie.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS||
 |[https://balie.dpr.irealisatie.nl](https://balie.dpr.irealisatie.nl)| | **A**||:warning: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Redirecting to h...|
 |[https://balie.woo.irealisatie.nl](https://balie.woo.irealisatie.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Redirecting to /...|
@@ -87,7 +87,7 @@
 |[http://sat.irealisatie.nl](http://sat.irealisatie.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|301 Moved Perman...|
 |[https://start.acc.dusi.irealisatie.nl](https://start.acc.dusi.irealisatie.nl)| | **A**|Apache| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS||
 |[https://start.test.dusi.irealisatie.nl](https://start.test.dusi.irealisatie.nl)| | **A**|Apache| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS||
-|[https://stats.irealisatie.nl](https://stats.irealisatie.nl)| | **B**|nginx|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS Nginx|Matomo › Error|
+|[https://stats.irealisatie.nl](https://stats.irealisatie.nl)| | **B**|nginx|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |AngularJS HSTS Matomo Analytics Nginx|Sign in - Matomo|
 |[https://vpn.irealisatie.nl](https://vpn.irealisatie.nl)| | **A**|Apache| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS||
 |[https://web.acc.woo.irealisatie.nl](https://web.acc.woo.irealisatie.nl)| | **B**|nginx| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Basic HSTS Nginx|401 Unauthorized|
 

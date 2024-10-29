@@ -10,3 +10,4 @@ acc-pubgeo.zwemwater.nl
 acc.zwemwater.nl
 pre-pub.zwemwater.nl
 pubgeo.zwemwater.nl
+wwww.zwemwater.nl

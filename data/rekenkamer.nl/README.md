@@ -11,7 +11,7 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/rekenkamer.nl/subdomains.txt)|10|Alive subdomains|
+|[subdomains.txt](/data/rekenkamer.nl/subdomains.txt)|13|Alive subdomains|
 |[urls.txt](/data/rekenkamer.nl/urls.txt)|10|Urls|
 
 

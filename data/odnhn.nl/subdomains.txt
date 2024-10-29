@@ -10,3 +10,6 @@ odnhn.nl
 www.odnhn.nl
 test-cmsintranet.odnhn.nl
 vpn.odnhn.nl
+autodiscover.odnhn.nl
+email.odnhn.nl
+enterpriseregistration.odnhn.nl

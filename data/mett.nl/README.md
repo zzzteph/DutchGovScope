@@ -11,8 +11,8 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/mett.nl/subdomains.txt)|26|Alive subdomains|
-|[urls.txt](/data/mett.nl/urls.txt)|26|Urls|
+|[subdomains.txt](/data/mett.nl/subdomains.txt)|38|Alive subdomains|
+|[urls.txt](/data/mett.nl/urls.txt)|25|Urls|
 
 
 ## Statistics
@@ -26,7 +26,6 @@
 |[https://pilotnudging.mett.nl](https://pilotnudging.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET YouTube|Object moved|
 |[https://gelijkekansens-hertogenbosch.mett.nl](https://gelijkekansens-hertogenbosch.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | |Google Tag Manager HSTS Microsoft ASP.NET hCaptcha|Object moved|
 |[https://gebiedsplannenmoerdijk.mett.nl](https://gebiedsplannenmoerdijk.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Object moved|
-|[https://waterpleinvelletri.mett.nl](https://waterpleinvelletri.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Object moved|
 |[https://winnovatie.mett.nl](https://winnovatie.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Object moved|
 |[https://grootsaeftinghe.mett.nl](https://grootsaeftinghe.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET YouTube|Object moved|
 |[https://nieuwsienw.mett.nl](https://nieuwsienw.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Object moved|

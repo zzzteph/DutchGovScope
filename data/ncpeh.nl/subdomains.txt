@@ -7,3 +7,4 @@ opendata.ncpeh.nl
 www.ncpeh.nl
 portaal.ncpeh.nl
 uzipas.portaal.ncpeh.nl
+acceptatie.uzipas.portaal.ncpeh.nl

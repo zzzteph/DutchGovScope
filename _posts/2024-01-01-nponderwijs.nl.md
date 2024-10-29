@@ -38,6 +38,6 @@ tags: dutchgov
 |[https://nponderwijs.nl](https://nponderwijs.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
 |[https://opendata.nponderwijs.nl](https://opendata.nponderwijs.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://www.nponderwijs.nl](https://www.nponderwijs.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Home | Nationaal...|
-|[https://kennis.nponderwijs.nl](https://kennis.nponderwijs.nl)| | **C**|Apache/2| |:white_check_mark: | | | | | | :white_check_mark: | |Apache HTTP Server:2|421 Misdirected...|
+|[https://kennis.nponderwijs.nl](https://kennis.nponderwijs.nl)| | **C**|Apache/2| |:white_check_mark: | | | | | | :white_check_mark: | |Apache HTTP Server:2 HSTS||
 
 

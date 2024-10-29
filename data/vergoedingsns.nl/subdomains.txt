@@ -3,3 +3,4 @@ feeds.vergoedingsns.nl
 opendata.vergoedingsns.nl
 vergoedingsns.nl
 www.vergoedingsns.nl
+autodiscover.vergoedingsns.nl

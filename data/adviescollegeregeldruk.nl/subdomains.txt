@@ -1,3 +1,4 @@
 adviescollegeregeldruk.nl
 opendata.adviescollegeregeldruk.nl
 www.adviescollegeregeldruk.nl
+feeds.adviescollegeregeldruk.nl

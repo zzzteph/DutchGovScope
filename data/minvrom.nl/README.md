@@ -5,14 +5,14 @@
 
 
  - **SSL Grade**:
- - **HTTP Security Grade**:A
+ - **HTTP Security Grade**:C
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:2
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/minvrom.nl/subdomains.txt)|2|Alive subdomains|
-|[urls.txt](/data/minvrom.nl/urls.txt)|2|Urls|
+|[subdomains.txt](/data/minvrom.nl/subdomains.txt)|4|Alive subdomains|
+|[urls.txt](/data/minvrom.nl/urls.txt)|4|Urls|
 
 
 ## Statistics
@@ -22,5 +22,7 @@
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[https://minvrom.nl](https://minvrom.nl)| | **A**|Microsoft-IIS/10.0| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS IIS:10.0 Windows Server|Document Moved|
 |[https://www.minvrom.nl](https://www.minvrom.nl)| | **A**|Microsoft-IIS/10.0| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS IIS:10.0 Windows Server|Document Moved|
+|[http://localhost.minvrom.nl](http://localhost.minvrom.nl)| | **F**|nginx|:o: | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Laravel Nginx PHP|Weakpass|
+|[https://wifi.minvrom.nl](https://wifi.minvrom.nl)| | **F**|cloudflare| | | | | | | | :white_check_mark: | |Cloudflare|403 Forbidden|
 
 

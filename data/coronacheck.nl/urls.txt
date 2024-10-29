@@ -9,3 +9,4 @@ https://holder-api.coronacheck.nl
 https://verifier-api-cdn.coronacheck.nl
 https://verifier-api.coronacheck.nl
 https://www.coronacheck.nl
+https://coronacheck.nl

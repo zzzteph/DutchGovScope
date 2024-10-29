@@ -2,10 +2,10 @@
 layout: default
 title: "kikstarter.nl"
 permalink: "/dutchgov/kikstarter.nl.html"
-subdomains_count: 0
-urls_count: 0
+subdomains_count: 5
+urls_count: 5
 ssl_rank: 
-http_rank: F
+http_rank: C
 security_txt: 0
 url_link: /data/kikstarter.nl/urls.txt
 subdomains_link: /data/kikstarter.nl/subdomains.txt
@@ -19,14 +19,14 @@ tags: dutchgov
 
 
  - **SSL Grade**:
- - **HTTP Security Grade**:F
+ - **HTTP Security Grade**:C
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:0
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/kikstarter.nl/subdomains.txt)|0|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/kikstarter.nl/urls.txt)|0|Urls|
+|[subdomains.txt](/DutchGovScope/data/kikstarter.nl/subdomains.txt)|5|Alive subdomains|
+|[urls.txt](/DutchGovScope/data/kikstarter.nl/urls.txt)|5|Urls|
 
 
 ## Statistics
@@ -34,5 +34,10 @@ tags: dutchgov
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
+|[https://acceptatie.kikstarter.nl](https://acceptatie.kikstarter.nl)| | **A**|istio-envoy| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Envoy HSTS|KIK-Starter|
+|[https://kikstarter.nl](https://kikstarter.nl)| | **F**|istio-envoy| | | | | | | | :white_check_mark: | |||
+|[https://www.kikstarter.nl](https://www.kikstarter.nl)| | **A**|istio-envoy| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Envoy HSTS|KIK-Starter|
+|[https://sso.test.kikstarter.nl](https://sso.test.kikstarter.nl)| | **F**|istio-envoy| | | | | | | | :white_check_mark: | |||
+|[https://test.kikstarter.nl](https://test.kikstarter.nl)| | **A**|istio-envoy| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Envoy HSTS|KIK-Starter|
 
 

@@ -2,8 +2,8 @@
 layout: default
 title: "werkenbijhetcjib.nl"
 permalink: "/dutchgov/werkenbijhetcjib.nl.html"
-subdomains_count: 1
-urls_count: 1
+subdomains_count: 2
+urls_count: 2
 ssl_rank: 
 http_rank: B
 security_txt: 0
@@ -25,8 +25,8 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/werkenbijhetcjib.nl/subdomains.txt)|1|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/werkenbijhetcjib.nl/urls.txt)|1|Urls|
+|[subdomains.txt](/DutchGovScope/data/werkenbijhetcjib.nl/subdomains.txt)|2|Alive subdomains|
+|[urls.txt](/DutchGovScope/data/werkenbijhetcjib.nl/urls.txt)|2|Urls|
 
 
 ## Statistics
@@ -35,5 +35,6 @@ tags: dutchgov
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[https://werkenbijhetcjib.nl](https://werkenbijhetcjib.nl)| | **B**|nginx|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |Drupal:10 HSTS Nginx PHP|Home | Werken bi...|
+|[https://www.werkenbijhetcjib.nl](https://www.werkenbijhetcjib.nl)| | **B**|nginx|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
 
 

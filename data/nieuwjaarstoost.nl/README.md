@@ -11,8 +11,8 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/nieuwjaarstoost.nl/subdomains.txt)|0|Alive subdomains|
-|[urls.txt](/data/nieuwjaarstoost.nl/urls.txt)|0|Urls|
+|[subdomains.txt](/data/nieuwjaarstoost.nl/subdomains.txt)|1|Alive subdomains|
+|[urls.txt](/data/nieuwjaarstoost.nl/urls.txt)|1|Urls|
 
 
 ## Statistics
@@ -20,5 +20,6 @@
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
+|[https://nieuwjaarstoost.nl](https://nieuwjaarstoost.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|Geen webhosting...|
 
 

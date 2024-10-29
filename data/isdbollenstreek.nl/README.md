@@ -11,8 +11,8 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/isdbollenstreek.nl/subdomains.txt)|6|Alive subdomains|
-|[urls.txt](/data/isdbollenstreek.nl/urls.txt)|6|Urls|
+|[subdomains.txt](/data/isdbollenstreek.nl/subdomains.txt)|7|Alive subdomains|
+|[urls.txt](/data/isdbollenstreek.nl/urls.txt)|7|Urls|
 
 
 ## Statistics
@@ -26,5 +26,6 @@
 |[https://mijnloket-test.isdbollenstreek.nl](https://mijnloket-test.isdbollenstreek.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Mijn Loket ISD B...|
 |[https://mijnloket.isdbollenstreek.nl](https://mijnloket.isdbollenstreek.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Mijn Loket ISD B...|
 |[https://www.isdbollenstreek.nl](https://www.isdbollenstreek.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache Tomcat Green Valley CMS HSTS Java Linkedin Ads|Home - ISD Bolle...|
+|[http://autodiscover.isdbollenstreek.nl](http://autodiscover.isdbollenstreek.nl)| | **C**|Microsoft-IIS/10.0| |:white_check_mark: | | | | | | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server||
 
 

@@ -1,3 +1,5 @@
 https://igz.nl
 https://www.igz.nl
 http://survey-test.igz.nl
+http://localhost.igz.nl
+https://onderhoud.igz.nl

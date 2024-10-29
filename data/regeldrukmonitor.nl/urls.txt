@@ -1,3 +1,4 @@
 https://feeds.regeldrukmonitor.nl
 https://regeldrukmonitor.nl
 https://www.regeldrukmonitor.nl
+https://opendata.regeldrukmonitor.nl

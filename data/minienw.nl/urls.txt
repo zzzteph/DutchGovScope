@@ -5,3 +5,5 @@ https://www.minienw.nl
 https://minienw.nl
 https://newsroom.minienw.nl
 https://werkbezoek.minienw.nl
+https://csp.minienw.nl
+http://localhost.minienw.nl

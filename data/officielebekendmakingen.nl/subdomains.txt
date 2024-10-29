@@ -4,6 +4,7 @@ stage-acc.officielebekendmakingen.nl
 beheer-acc.officielebekendmakingen.nl
 identifier-preprod.officielebekendmakingen.nl
 beheer-sgd.officielebekendmakingen.nl
+publicatieservice-rps-acc.officielebekendmakingen.nl
 publicatieservice-bms-acc.officielebekendmakingen.nl
 officielebekendmakingen.nl
 stage.officielebekendmakingen.nl

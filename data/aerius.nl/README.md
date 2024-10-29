@@ -12,7 +12,7 @@
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/aerius.nl/subdomains.txt)|19|Alive subdomains|
-|[urls.txt](/data/aerius.nl/urls.txt)|19|Urls|
+|[urls.txt](/data/aerius.nl/urls.txt)|18|Urls|
 
 
 ## Statistics
@@ -23,7 +23,6 @@
 |[https://aerius.nl](https://aerius.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Amazon CloudFront Amazon Web Services HTTP/3||
 |[https://auth-register.aerius.nl](https://auth-register.aerius.nl)| | **B**|Server|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Amazon CloudFront Amazon Web Services Bootstrap HSTS|Signin|
 |[https://mgmt.aerius.nl](https://mgmt.aerius.nl)| | **F**|Jetty(10.0.20)|:white_check_mark: | | | | | | | :white_check_mark: | |Java Jenkins:2.462.2 Jetty:10.0.20||
-|[http://aankoopcalculator.aerius.nl](http://aankoopcalculator.aerius.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://auth-register-gat.aerius.nl](https://auth-register-gat.aerius.nl)| | **B**|Server|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Amazon CloudFront Amazon Web Services Bootstrap HSTS|Signin|
 |[https://link.aerius.nl](https://link.aerius.nl)| | **E**|| | | | | | | | :white_check_mark: | |Bootstrap:4.3.1|Not Found | Shli...|
 |[https://imaer.aerius.nl](https://imaer.aerius.nl)| | **F**|AmazonS3| | | | | | | | :white_check_mark: | |Amazon CloudFront Amazon S3 Amazon Web Services HTTP/3||

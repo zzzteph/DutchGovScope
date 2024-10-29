@@ -2,8 +2,8 @@
 layout: default
 title: "officielebekendmakingen.nl"
 permalink: "/dutchgov/officielebekendmakingen.nl.html"
-subdomains_count: 21
-urls_count: 21
+subdomains_count: 22
+urls_count: 22
 ssl_rank: 
 http_rank: B
 security_txt: 9
@@ -25,8 +25,8 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/officielebekendmakingen.nl/subdomains.txt)|21|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/officielebekendmakingen.nl/urls.txt)|21|Urls|
+|[subdomains.txt](/DutchGovScope/data/officielebekendmakingen.nl/subdomains.txt)|22|Alive subdomains|
+|[urls.txt](/DutchGovScope/data/officielebekendmakingen.nl/urls.txt)|22|Urls|
 
 
 ## Statistics
@@ -35,11 +35,12 @@ tags: dutchgov
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[https://zoek-preprod.officielebekendmakingen.nl](https://zoek-preprod.officielebekendmakingen.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|403 Forbidden|
-|[https://www-preprod.officielebekendmakingen.nl](https://www-preprod.officielebekendmakingen.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS|403 Forbidden|
+|[https://www-preprod.officielebekendmakingen.nl](https://www-preprod.officielebekendmakingen.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|403 Forbidden|
 |[https://stage-acc.officielebekendmakingen.nl](https://stage-acc.officielebekendmakingen.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET||
 |[https://beheer-acc.officielebekendmakingen.nl](https://beheer-acc.officielebekendmakingen.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|Externe Beheersi...|
 |[https://identifier-preprod.officielebekendmakingen.nl](https://identifier-preprod.officielebekendmakingen.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|URI - Performer...|
 |[https://beheer-sgd.officielebekendmakingen.nl](https://beheer-sgd.officielebekendmakingen.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|Beheersite SGD|
+|[http://publicatieservice-rps-acc.officielebekendmakingen.nl](http://publicatieservice-rps-acc.officielebekendmakingen.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[http://publicatieservice-bms-acc.officielebekendmakingen.nl](http://publicatieservice-bms-acc.officielebekendmakingen.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[http://officielebekendmakingen.nl](http://officielebekendmakingen.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://stage.officielebekendmakingen.nl](https://stage.officielebekendmakingen.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET||

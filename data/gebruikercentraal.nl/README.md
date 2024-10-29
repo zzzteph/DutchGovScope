@@ -6,13 +6,13 @@
 
  - **SSL Grade**:
  - **HTTP Security Grade**:C
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:34
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:35
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/gebruikercentraal.nl/subdomains.txt)|47|Alive subdomains|
-|[urls.txt](/data/gebruikercentraal.nl/urls.txt)|47|Urls|
+|[subdomains.txt](/data/gebruikercentraal.nl/subdomains.txt)|48|Alive subdomains|
+|[urls.txt](/data/gebruikercentraal.nl/urls.txt)|48|Urls|
 
 
 ## Statistics
@@ -67,5 +67,6 @@
 |[https://cx.gebruikercentraal.nl](https://cx.gebruikercentraal.nl)| | **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Nginx PHP:8.1.30||
 |[https://duidelijk.gebruikercentraal.nl](https://duidelijk.gebruikercentraal.nl)| | **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Nginx PHP:8.2.24||
 |[https://test.optimaaldigitaal.gebruikercentraal.nl](https://test.optimaaldigitaal.gebruikercentraal.nl)| | **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |Basic HSTS Nginx|401 Unauthorized|
+|[https://inclusievedienstverlening.gebruikercentraal.nl](https://inclusievedienstverlening.gebruikercentraal.nl)| | **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Nginx PHP:8.1.30||
 
 

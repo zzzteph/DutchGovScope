@@ -1,3 +1,4 @@
 www.toegangspuntmobiliteit.nl
 feeds.toegangspuntmobiliteit.nl
 toegangspuntmobiliteit.nl
+opendata.toegangspuntmobiliteit.nl

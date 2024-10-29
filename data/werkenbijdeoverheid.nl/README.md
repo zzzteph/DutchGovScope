@@ -6,13 +6,13 @@
 
  - **SSL Grade**:
  - **HTTP Security Grade**:D
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:3
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:4
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/werkenbijdeoverheid.nl/subdomains.txt)|12|Alive subdomains|
-|[urls.txt](/data/werkenbijdeoverheid.nl/urls.txt)|12|Urls|
+|[subdomains.txt](/data/werkenbijdeoverheid.nl/subdomains.txt)|14|Alive subdomains|
+|[urls.txt](/data/werkenbijdeoverheid.nl/urls.txt)|14|Urls|
 
 
 ## Statistics
@@ -32,5 +32,7 @@
 |[http://vacaturezoekservice-test.werkenbijdeoverheid.nl](http://vacaturezoekservice-test.werkenbijdeoverheid.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[http://www-test2.werkenbijdeoverheid.nl](http://www-test2.werkenbijdeoverheid.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://www-sandbox.werkenbijdeoverheid.nl](https://www-sandbox.werkenbijdeoverheid.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
+|[https://sandbox.werkenbijdeoverheid.nl](https://sandbox.werkenbijdeoverheid.nl)| | **D**|cloudflare|:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | |Basic Cloudflare HSTS|Authentication R...|
+|[https://vacaturezoekservice.werkenbijdeoverheid.nl](https://vacaturezoekservice.werkenbijdeoverheid.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
 
 

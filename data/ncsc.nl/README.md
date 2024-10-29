@@ -11,8 +11,8 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/ncsc.nl/subdomains.txt)|30|Alive subdomains|
-|[urls.txt](/data/ncsc.nl/urls.txt)|30|Urls|
+|[subdomains.txt](/data/ncsc.nl/subdomains.txt)|32|Alive subdomains|
+|[urls.txt](/data/ncsc.nl/urls.txt)|32|Urls|
 
 
 ## Statistics
@@ -50,5 +50,7 @@
 |[https://securened-tst.ncsc.nl](https://securened-tst.ncsc.nl)| | **F**|none| | | | | | | | :white_check_mark: | |HSTS||
 |[https://csaf.data.security.ncsc.nl](https://csaf.data.security.ncsc.nl)| | **C**|none| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
 |[https://vulnerabilities.ncsc.nl](https://vulnerabilities.ncsc.nl)| | **A**|none| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS|NCSC - NL Vulner...|
+|[https://melden.ncsc.nl](https://melden.ncsc.nl)| | **F**|none| | | | | | | | :white_check_mark: | |HSTS||
+|[https://registreren.ncsc.nl](https://registreren.ncsc.nl)| | **F**|none| | | | | | | | :white_check_mark: | |HSTS||
 
 

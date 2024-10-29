@@ -5,3 +5,6 @@ kabinetvandekoning.nl
 opendata.english.kabinetvandekoning.nl
 opendata.kabinetvandekoning.nl
 www.kabinetvandekoning.nl
+autodiscover.kabinetvandekoning.nl
+enterpriseenrollment.kabinetvandekoning.nl
+enterpriseregistration.kabinetvandekoning.nl

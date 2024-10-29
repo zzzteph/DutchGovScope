@@ -5,3 +5,4 @@ https://opendata.english.loketkennisveiligheid.nl
 https://opendata.loketkennisveiligheid.nl
 https://www.loketkennisveiligheid.nl
 https://english.loketkennisveiligheid.nl
+https://netwerk.loketkennisveiligheid.nl

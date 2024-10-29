@@ -5,7 +5,6 @@ acceptatie.mijn.bigregister.nl
 acceptatie.tea.bigregister.nl
 acceptatie.webservices.bigregister.nl
 acceptatie.zoeken.bigregister.nl
-advieswijzer.bigregister.nl
 api.bigregister.nl
 beheer.bigregister.nl
 webservices.bigregister.nl
@@ -19,3 +18,5 @@ opendata.bigregister.nl
 mijn.bigregister.nl
 tea.bigregister.nl
 zoeken.bigregister.nl
+acceptatie.behandel.bigregister.nl
+behandel.bigregister.nl

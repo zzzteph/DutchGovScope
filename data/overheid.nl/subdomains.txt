@@ -320,3 +320,5 @@ resolver.pre.omgevingswet.overheid.nl
 social.overheid.nl
 toepasbare-regels.omgevingswet.overheid.nl
 water.omgevingswet.overheid.nl
+autodiscover.overheid.nl
+ftp.overheid.nl

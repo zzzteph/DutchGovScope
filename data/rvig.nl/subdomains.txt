@@ -23,3 +23,4 @@ lap.rvp.reis.npr.idm.rvig.nl
 publicaties-prod.rvig.nl
 rni-portal-acc.rvig.nl
 rni-portal.rvig.nl
+publicaties-tst.rvig.nl

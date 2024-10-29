@@ -10,5 +10,4 @@ https://mijn.rdi.nl
 https://onderzoek.rdi.nl
 https://prod.radar.rdi.nl
 https://radar.rdi.nl
-https://uploadmodule.rdi.nl
 https://rdi.nl

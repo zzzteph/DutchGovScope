@@ -50,3 +50,5 @@ pmz.logius.nl
 amp-pre.logius.nl
 gm.mev.logius.nl
 logius.nl
+gebruikersportaal.preproductie.digipoort.logius.nl
+lca.logius.nl

@@ -3,3 +3,4 @@ https://www.topinkomens.nl
 https://feeds.topinkomens.nl
 https://opendata.topinkomens.nl
 https://rekentool.topinkomens.nl
+https://forum.topinkomens.nl

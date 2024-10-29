@@ -2,10 +2,10 @@
 layout: default
 title: "eherkenning.nl"
 permalink: "/dutchgov/eherkenning.nl.html"
-subdomains_count: 21
-urls_count: 21
+subdomains_count: 22
+urls_count: 22
 ssl_rank: 
-http_rank: B
+http_rank: C
 security_txt: 3
 url_link: /data/eherkenning.nl/urls.txt
 subdomains_link: /data/eherkenning.nl/subdomains.txt
@@ -19,14 +19,14 @@ tags: dutchgov
 
 
  - **SSL Grade**:
- - **HTTP Security Grade**:B
+ - **HTTP Security Grade**:C
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:3
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/eherkenning.nl/subdomains.txt)|21|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/eherkenning.nl/urls.txt)|21|Urls|
+|[subdomains.txt](/DutchGovScope/data/eherkenning.nl/subdomains.txt)|22|Alive subdomains|
+|[urls.txt](/DutchGovScope/data/eherkenning.nl/urls.txt)|22|Urls|
 
 
 ## Statistics
@@ -55,5 +55,6 @@ tags: dutchgov
 |[https://signicat-qa.sso.eherkenning.nl](https://signicat-qa.sso.eherkenning.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
 |[https://signicat-staging.sso.eherkenning.nl](https://signicat-staging.sso.eherkenning.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
 |[https://onewelcome-staging.sso.eherkenning.nl](https://onewelcome-staging.sso.eherkenning.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
+|[https://acceptatie.eherkenning.nl](https://acceptatie.eherkenning.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Basic Nginx|401 Authorizatio...|
 
 

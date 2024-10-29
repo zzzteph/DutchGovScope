@@ -16,3 +16,5 @@ mps0.tropomi.eu
 mps4.tropomi.eu
 mps5.tropomi.eu
 mps7.tropomi.eu
+mpc-vdaf.tropomi.eu
+mpc-vdaf-server.tropomi.eu

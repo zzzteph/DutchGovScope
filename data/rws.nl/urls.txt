@@ -52,6 +52,8 @@ https://getij.rws.nl
 https://port-enc.rws.nl
 https://standaarden.rws.nl
 https://beterbediend.rws.nl
+https://bezoekerscentrum.rws.nl
+https://test.bezoekerscentrum.rws.nl
 https://centraaltoegangspuntdata.rws.nl
 https://nis.rws.nl
 https://cmgrws.rws.nl
@@ -153,3 +155,4 @@ https://www.werkenbij.rws.nl
 https://splunkhec.grid.rws.nl
 https://splunkhec.gridacc.rws.nl
 https://waterinfo-extra.rws.nl
+https://matroos.rws.nl

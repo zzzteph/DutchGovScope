@@ -12,7 +12,7 @@
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/acm.nl/subdomains.txt)|25|Alive subdomains|
-|[urls.txt](/data/acm.nl/urls.txt)|24|Urls|
+|[urls.txt](/data/acm.nl/urls.txt)|25|Urls|
 
 
 ## Statistics
@@ -40,6 +40,7 @@
 |[https://bijna.acm.nl](https://bijna.acm.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|403 Forbidden|
 |[https://denkmee.bijna.acm.nl](https://denkmee.bijna.acm.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|403 Forbidden|
 |[https://probeer.acm.nl](https://probeer.acm.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|403 Forbidden|
+|[https://ftp.acm.nl](https://ftp.acm.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|301 Moved Perman...|
 |[https://enterpriseenrollment.acm.nl](https://enterpriseenrollment.acm.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||
 |[https://enterpriseregistration.acm.nl](https://enterpriseregistration.acm.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://mijn-acc.acm.nl](https://mijn-acc.acm.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS|403 Forbidden|

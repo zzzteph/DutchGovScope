@@ -13,6 +13,7 @@ arbeidsmarktdetailhandel.databank.nl
 rvo.databank.nl
 klimaatmonitor.databank.nl
 arbeidsmarktmobiliteit.databank.nl
+test-mbotransparant.databank.nl
 vue.databank.nl
 brabant.databank.nl
 cbc2.databank.nl
@@ -48,8 +49,10 @@ apollo.databank.nl
 cname-limburg.databank.nl
 demo-ebc.databank.nl
 ftgelderland.databank.nl
+beta-adc.databank.nl
 beta-klimaatbeleid.databank.nl
 beta-vivet.databank.nl
+beta-datawonen.databank.nl
 beta-klimaatmonitor.databank.nl
 beta-gdi.databank.nl
 cname-holland-rijnland.databank.nl
@@ -75,3 +78,8 @@ primostijdreeks.databank.nl
 prognoses.databank.nl
 primosinteractief.databank.nl
 prognosemodelzw.databank.nl
+www.gemeente.databank.nl
+abc.databank.nl
+limburg.databank.nl
+beta-noordholland.databank.nl
+cname-erfgoed.databank.nl

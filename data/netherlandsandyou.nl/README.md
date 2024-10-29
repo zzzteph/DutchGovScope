@@ -20,7 +20,7 @@
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://dev.netherlandsandyou.nl](https://dev.netherlandsandyou.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|403 Forbidden|
+|[https://dev.netherlandsandyou.nl](https://dev.netherlandsandyou.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|500 Proxy Error|
 |[https://netherlandsandyou.nl](https://netherlandsandyou.nl)| | **A**|Apache|:warning: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server|301 Moved Perman...|
 |[https://www.netherlandsandyou.nl](https://www.netherlandsandyou.nl)| | **A**|Apache|:warning: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS Java|Home - Netherlan...|
 |[https://tst.netherlandsandyou.nl](https://tst.netherlandsandyou.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|403 Forbidden|

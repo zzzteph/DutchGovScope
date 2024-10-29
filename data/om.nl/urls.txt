@@ -3,7 +3,6 @@ https://nevenbetrekkingen.om.nl
 https://www2.om.nl
 https://dialin.om.nl
 https://lyncdiscover.om.nl
-https://meet.om.nl
 https://webservices.om.nl
 https://fcvpn.om.nl
 https://feeds.om.nl
@@ -22,6 +21,8 @@ https://telewerken.om.nl
 https://verkeer.acc.loket.om.nl
 https://verkeer.loket.om.nl
 https://acc.zsmgame.om.nl
-http://snelheidsovertredingen.om.nl
+https://snelheidsovertredingen.om.nl
 https://strafdossiermh17.om.nl
 https://zsmgame.om.nl
+https://enterpriseenrollment.om.nl
+https://enterpriseregistration.om.nl

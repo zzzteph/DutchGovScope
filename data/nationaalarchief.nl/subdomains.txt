@@ -28,3 +28,13 @@ pywb.nationaalarchief.nl
 pywb.ted.nationaalarchief.nl
 ted.nationaalarchief.nl
 www.ted.nationaalarchief.nl
+cbs.acpt.nationaalarchief.nl
+e-depot.nationaalarchief.nl
+ontorefine.nationaalarchief.nl
+amh.nationaalarchief.nl
+fr.test.nationaalarchief.nl
+de.test.nationaalarchief.nl
+en.test.nationaalarchief.nl
+es.test.nationaalarchief.nl
+localhost.nationaalarchief.nl
+meld.nationaalarchief.nl

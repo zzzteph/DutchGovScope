@@ -3,10 +3,10 @@ douane.nl
 exchangerate.douane.nl
 exchangeratetest.douane.nl
 nh.douane.nl
-reizigers.douane.nl
 tarief.douane.nl
 wpx-80-aix-http.douane.nl
 validationcalculation.douane.nl
 validationcalculationtest.douane.nl
 werken.douane.nl
 werkenbij.douane.nl
+fibd1.douane.nl

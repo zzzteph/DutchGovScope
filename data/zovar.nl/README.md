@@ -11,8 +11,8 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/zovar.nl/subdomains.txt)|4|Alive subdomains|
-|[urls.txt](/data/zovar.nl/urls.txt)|4|Urls|
+|[subdomains.txt](/data/zovar.nl/subdomains.txt)|5|Alive subdomains|
+|[urls.txt](/data/zovar.nl/urls.txt)|5|Urls|
 
 
 ## Statistics
@@ -24,5 +24,6 @@
 |[https://feeds.zovar.nl](https://feeds.zovar.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://opendata.zovar.nl](https://opendata.zovar.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://www.zovar.nl](https://www.zovar.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Home | ZOVAR|
+|[https://www.csp.zovar.nl](https://www.csp.zovar.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|301 Moved Perman...|
 
 

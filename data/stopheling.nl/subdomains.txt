@@ -9,3 +9,12 @@ stopheling.nl
 www.stopheling.nl
 test-api.stopheling.nl
 test.stopheling.nl
+accp-bp.stopheling.nl
+test-developer.stopheling.nl
+bp.stopheling.nl
+ltu-admin.stopheling.nl
+ltu-api.stopheling.nl
+test-bp.stopheling.nl
+accp-dol.stopheling.nl
+accp.stopheling.nl
+ltu.stopheling.nl

@@ -6,13 +6,13 @@
 
  - **SSL Grade**:
  - **HTTP Security Grade**:C
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:3
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:4
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/minbzk.nl/subdomains.txt)|9|Alive subdomains|
-|[urls.txt](/data/minbzk.nl/urls.txt)|9|Urls|
+|[subdomains.txt](/data/minbzk.nl/subdomains.txt)|10|Alive subdomains|
+|[urls.txt](/data/minbzk.nl/urls.txt)|10|Urls|
 
 
 ## Statistics
@@ -29,5 +29,6 @@
 |[https://www.minbzk.nl](https://www.minbzk.nl)| | **A**|Microsoft-IIS/10.0| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS IIS:10.0 Windows Server|Document Moved|
 |[https://prisma.minbzk.nl](https://prisma.minbzk.nl)| | **C**|Apache|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS Varnish||
 |[https://wikixl-saml.minbzk.nl](https://wikixl-saml.minbzk.nl)| | **B**|Apache| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS|Redirect|
+|[https://rbl-talent.minbzk.nl](https://rbl-talent.minbzk.nl)| | **C**|Class|:white_check_mark: |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | |HSTS||
 
 

@@ -11,7 +11,7 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/rijkscloud.nl/subdomains.txt)|103|Alive subdomains|
+|[subdomains.txt](/data/rijkscloud.nl/subdomains.txt)|106|Alive subdomains|
 |[urls.txt](/data/rijkscloud.nl/urls.txt)|103|Urls|
 
 

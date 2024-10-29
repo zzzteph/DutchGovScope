@@ -11,8 +11,8 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/nederlandsearbeidsinspectie.nl/subdomains.txt)|1|Alive subdomains|
-|[urls.txt](/data/nederlandsearbeidsinspectie.nl/urls.txt)|1|Urls|
+|[subdomains.txt](/data/nederlandsearbeidsinspectie.nl/subdomains.txt)|0|Alive subdomains|
+|[urls.txt](/data/nederlandsearbeidsinspectie.nl/urls.txt)|0|Urls|
 
 
 ## Statistics
@@ -20,6 +20,5 @@
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://nederlandsearbeidsinspectie.nl](https://nederlandsearbeidsinspectie.nl)| | **F**|Microsoft-IIS/10.0| | | | | | | | :white_check_mark: | |HSTS IIS:10.0 Windows Server|Document Moved|
 
 

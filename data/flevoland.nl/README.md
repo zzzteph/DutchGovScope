@@ -6,13 +6,13 @@
 
  - **SSL Grade**:
  - **HTTP Security Grade**:C
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:21
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:22
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/flevoland.nl/subdomains.txt)|59|Alive subdomains|
-|[urls.txt](/data/flevoland.nl/urls.txt)|59|Urls|
+|[subdomains.txt](/data/flevoland.nl/subdomains.txt)|70|Alive subdomains|
+|[urls.txt](/data/flevoland.nl/urls.txt)|60|Urls|
 
 
 ## Statistics
@@ -48,8 +48,9 @@
 |[https://regiotaxi.flevoland.nl](https://regiotaxi.flevoland.nl)| | **C**|Apache/2.4.29 (Ubuntu)| |:white_check_mark: | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu|301 Moved Perman...|
 |[https://vps-prod-01.flevoland.nl](https://vps-prod-01.flevoland.nl)| | **C**|Apache/2.4.29 (Ubuntu)| |:white_check_mark: | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu|301 Moved Perman...|
 |[https://www.omgevingsplan.flevoland.nl](https://www.omgevingsplan.flevoland.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu|301 Moved Perman...|
+|[https://intranet.flevoland.nl](https://intranet.flevoland.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://cmsintranet.flevoland.nl](https://cmsintranet.flevoland.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|403 - Forbidden:...|
-|[http://embraceintranet.flevoland.nl](http://embraceintranet.flevoland.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
+|[http://embraceintranet.flevoland.nl](http://embraceintranet.flevoland.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Service Unavaila...|
 |[https://competentie.flevoland.nl](https://competentie.flevoland.nl)| | **C**|Apache| |:white_check_mark: | | | | | | :white_check_mark: | |Apache HTTP Server HSTS PHP:5.6.35||
 |[https://connect-with.flevoland.nl](https://connect-with.flevoland.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |HSTS Nginx||
 |[https://ondertekenen.flevoland.nl](https://ondertekenen.flevoland.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |HSTS Nginx||

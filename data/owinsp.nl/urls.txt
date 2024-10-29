@@ -7,3 +7,4 @@ https://pitng.ontwikkel.owinsp.nl
 https://pitng.owinsp.nl
 https://owinsp.nl
 https://www.owinsp.nl
+https://pitng.test.owinsp.nl

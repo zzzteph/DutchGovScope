@@ -2,11 +2,11 @@
 layout: default
 title: "grondstoffenscanner.nl"
 permalink: "/dutchgov/grondstoffenscanner.nl.html"
-subdomains_count: 5
-urls_count: 5
+subdomains_count: 6
+urls_count: 6
 ssl_rank: 
 http_rank: C
-security_txt: 3
+security_txt: 4
 url_link: /data/grondstoffenscanner.nl/urls.txt
 subdomains_link: /data/grondstoffenscanner.nl/subdomains.txt
 categories: dutchgov
@@ -20,13 +20,13 @@ tags: dutchgov
 
  - **SSL Grade**:
  - **HTTP Security Grade**:C
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:3
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:4
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/grondstoffenscanner.nl/subdomains.txt)|5|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/grondstoffenscanner.nl/urls.txt)|5|Urls|
+|[subdomains.txt](/DutchGovScope/data/grondstoffenscanner.nl/subdomains.txt)|6|Alive subdomains|
+|[urls.txt](/DutchGovScope/data/grondstoffenscanner.nl/urls.txt)|6|Urls|
 
 
 ## Statistics
@@ -39,5 +39,6 @@ tags: dutchgov
 |[https://beheer.acc.grondstoffenscanner.nl](https://beheer.acc.grondstoffenscanner.nl)| | **F**|Microsoft-Azure-Application-Gateway/v2| | | | | | | | :white_check_mark: | ||404 Not Found|
 |[https://grondstoffenscanner.nl](https://grondstoffenscanner.nl)| | **B**|Microsoft-IIS/10.0|:white_check_mark: |:white_check_mark: | | |:warning: | | :white_check_mark: | :white_check_mark: | |Azure HSTS IIS:10.0 Windows Server|Grondstoffenscan...|
 |[https://www.grondstoffenscanner.nl](https://www.grondstoffenscanner.nl)| | **B**|Microsoft-IIS/10.0|:white_check_mark: |:white_check_mark: | | |:warning: | | :white_check_mark: | :white_check_mark: | |Azure HSTS IIS:10.0 Windows Server|Grondstoffenscan...|
+|[https://tst.grondstoffenscanner.nl](https://tst.grondstoffenscanner.nl)| | **B**|Microsoft-IIS/10.0|:white_check_mark: |:white_check_mark: | | |:warning: | | :white_check_mark: | :white_check_mark: | |Azure HSTS IIS:10.0 Windows Server|Grondstoffenscan...|
 
 

@@ -53,3 +53,10 @@ https://protocol.mfaservices.nl
 https://snd.login.consular.mfaservices.nl
 https://tst.esp.mfaservices.nl
 https://tst.liferay.mfaservices.nl
+https://acc.fez.mfaservices.nl
+https://dev-insights.mfaservices.nl
+https://dev.fez.mfaservices.nl
+https://esp-api-management.acc-probas.mfaservices.nl
+https://fez.mfaservices.nl
+https://tst.fez.mfaservices.nl
+https://tst.nww.mfaservices.nl

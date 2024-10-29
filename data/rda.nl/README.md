@@ -6,13 +6,13 @@
 
  - **SSL Grade**:
  - **HTTP Security Grade**:A
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:6
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:7
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/rda.nl/subdomains.txt)|6|Alive subdomains|
-|[urls.txt](/data/rda.nl/urls.txt)|6|Urls|
+|[subdomains.txt](/data/rda.nl/subdomains.txt)|7|Alive subdomains|
+|[urls.txt](/data/rda.nl/urls.txt)|7|Urls|
 
 
 ## Statistics
@@ -26,5 +26,6 @@
 |[https://www.rda.nl](https://www.rda.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Home | Raad voor...|
 |[https://english.rda.nl](https://english.rda.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Home | Council o...|
 |[https://feeds.english.rda.nl](https://feeds.english.rda.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
+|[https://opendata.rda.nl](https://opendata.rda.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 
 

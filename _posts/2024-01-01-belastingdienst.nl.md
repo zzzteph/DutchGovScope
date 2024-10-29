@@ -2,11 +2,11 @@
 layout: default
 title: "belastingdienst.nl"
 permalink: "/dutchgov/belastingdienst.nl.html"
-subdomains_count: 123
-urls_count: 123
+subdomains_count: 124
+urls_count: 124
 ssl_rank: 
 http_rank: B
-security_txt: 62
+security_txt: 60
 url_link: /data/belastingdienst.nl/urls.txt
 subdomains_link: /data/belastingdienst.nl/subdomains.txt
 categories: dutchgov
@@ -20,13 +20,13 @@ tags: dutchgov
 
  - **SSL Grade**:
  - **HTTP Security Grade**:B
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:62
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:60
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/belastingdienst.nl/subdomains.txt)|123|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/belastingdienst.nl/urls.txt)|123|Urls|
+|[subdomains.txt](/DutchGovScope/data/belastingdienst.nl/subdomains.txt)|124|Alive subdomains|
+|[urls.txt](/DutchGovScope/data/belastingdienst.nl/urls.txt)|124|Urls|
 
 
 ## Statistics
@@ -76,7 +76,7 @@ tags: dutchgov
 |[https://fsvportaal.belastingdienst.nl](https://fsvportaal.belastingdienst.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Home - FSV|
 |[https://wagenparkgegevens.acc.belastingdienst.nl](https://wagenparkgegevens.acc.belastingdienst.nl)| | **A**|istio-envoy| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Envoy HSTS|BDP|
 |[https://gdlo.acc.belastingdienst.nl](https://gdlo.acc.belastingdienst.nl)| | **A**|istio-envoy| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Envoy HSTS|BDP|
-|[https://gegevensuitwisseling.acc.belastingdienst.nl](https://gegevensuitwisseling.acc.belastingdienst.nl)| | **A**|istio-envoy|:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Envoy HSTS|BDP|
+|[https://gegevensuitwisseling.acc.belastingdienst.nl](https://gegevensuitwisseling.acc.belastingdienst.nl)| | **A**|istio-envoy| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Envoy HSTS|BDP|
 |[https://gpi.acc.belastingdienst.nl](https://gpi.acc.belastingdienst.nl)| | **A**|istio-envoy|:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Envoy HSTS|BDP|
 |[https://iah.acc.belastingdienst.nl](https://iah.acc.belastingdienst.nl)| | **A**|istio-envoy|:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://ovverklaringen.acc.belastingdienst.nl](https://ovverklaringen.acc.belastingdienst.nl)| | **A**|istio-envoy|:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Envoy HSTS|BDP|
@@ -157,5 +157,6 @@ tags: dutchgov
 |[https://vinden.belastingdienst.nl](https://vinden.belastingdienst.nl)| | **C**|| | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | ||Toegang geblokke...|
 |[https://vts.belastingdienst.nl](https://vts.belastingdienst.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Online diensten...|
 |[https://werkenbij.belastingdienst.nl](https://werkenbij.belastingdienst.nl)| | **F**|Ponos Maximum| | | | | | | | :white_check_mark: | |HSTS|418 I'm a teapot|
+|[https://werkenbijde.belastingdienst.nl](https://werkenbijde.belastingdienst.nl)| | **F**|Ponos Maximum| | | | | | | | :white_check_mark: | |HSTS|418 I'm a teapot|
 
 

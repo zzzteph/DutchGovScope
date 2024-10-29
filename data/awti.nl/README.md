@@ -11,8 +11,8 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/awti.nl/subdomains.txt)|10|Alive subdomains|
-|[urls.txt](/data/awti.nl/urls.txt)|10|Urls|
+|[subdomains.txt](/data/awti.nl/subdomains.txt)|11|Alive subdomains|
+|[urls.txt](/data/awti.nl/urls.txt)|11|Urls|
 
 
 ## Statistics
@@ -30,5 +30,6 @@
 |[https://www.awti.nl](https://www.awti.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Home | Adviesraa...|
 |[https://feeds.awti.nl](https://feeds.awti.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://pushmail.awti.nl](https://pushmail.awti.nl)| | **F**|Microsoft-IIS/10.0| | | | | | | | :white_check_mark: | |IIS:10.0 Windows Server||
+|[https://ts.awti.nl](https://ts.awti.nl)| | **F**|Microsoft-IIS/10.0| | | | | | | | :white_check_mark: | |IIS:10.0 Windows Server||
 
 

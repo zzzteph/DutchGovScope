@@ -1,0 +1,9 @@
+adfs.zinl.nl
+autodiscover.zinl.nl
+mail.zinl.nl
+mx1.zinl.nl
+enterpriseregistration.zinl.nl
+mdm.zinl.nl
+portal.zinl.nl
+www.zinl.nl
+zinl.nl

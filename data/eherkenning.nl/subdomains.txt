@@ -19,3 +19,4 @@ signicat.sso.eherkenning.nl
 signicat-qa.sso.eherkenning.nl
 signicat-staging.sso.eherkenning.nl
 onewelcome-staging.sso.eherkenning.nl
+acceptatie.eherkenning.nl

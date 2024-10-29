@@ -4,3 +4,4 @@ rda.nl
 www.rda.nl
 english.rda.nl
 feeds.english.rda.nl
+opendata.rda.nl

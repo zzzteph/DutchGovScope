@@ -1,7 +1,6 @@
 https://aerius.nl
 https://auth-register.aerius.nl
 https://mgmt.aerius.nl
-http://aankoopcalculator.aerius.nl
 https://auth-register-gat.aerius.nl
 https://link.aerius.nl
 https://imaer.aerius.nl

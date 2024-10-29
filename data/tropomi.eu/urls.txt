@@ -16,3 +16,5 @@ https://mps0.tropomi.eu
 https://mps4.tropomi.eu
 https://mps5.tropomi.eu
 https://mps7.tropomi.eu
+https://mpc-vdaf.tropomi.eu
+https://mpc-vdaf-server.tropomi.eu
