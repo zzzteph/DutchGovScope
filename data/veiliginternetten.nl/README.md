@@ -5,14 +5,14 @@
 
 
  - **SSL Grade**:
- - **HTTP Security Grade**:C
+ - **HTTP Security Grade**:D
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:3
 
 
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/veiliginternetten.nl/subdomains.txt)|9|Alive subdomains|
-|[urls.txt](/data/veiliginternetten.nl/urls.txt)|8|Urls|
+|[urls.txt](/data/veiliginternetten.nl/urls.txt)|9|Urls|
 
 
 ## Statistics
@@ -28,5 +28,6 @@
 |[https://mail.veiliginternetten.nl](https://mail.veiliginternetten.nl)| | **F**|mod_fcgid/2.3.9| | | | | | | | :white_check_mark: | |HSTS|403 Forbidden|
 |[https://vs6575.veiliginternetten.nl](https://vs6575.veiliginternetten.nl)| | **F**|mod_fcgid/2.3.9| | | | | | | | :white_check_mark: | |HSTS|403 Forbidden|
 |[https://vs6844.veiliginternetten.nl](https://vs6844.veiliginternetten.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|301 Moved Perman...|
+|[https://acceptatie.veiliginternetten.nl](https://acceptatie.veiliginternetten.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|301 Moved Perman...|
 
 

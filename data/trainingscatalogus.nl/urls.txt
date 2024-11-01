@@ -11,7 +11,7 @@ https://scim-api.schiphol-lms.trainingscatalogus.nl
 https://course-api.schiphol-lms.trainingscatalogus.nl
 https://enrollment-api.schiphol-lms.trainingscatalogus.nl
 https://product-api.schiphol-lms.trainingscatalogus.nl
-http://ivorechtspraak-lms-a.scim-api.trainingscatalogus.nl
+https://ivorechtspraak-lms-a.scim-api.trainingscatalogus.nl
 https://product-api.schiphol-lms-t.trainingscatalogus.nl
 https://radio.trainingscatalogus.nl
 https://vgz-lms.course-api.trainingscatalogus.nl
@@ -86,3 +86,17 @@ https://alliander-lms-t.enrollment-api.trainingscatalogus.nl
 https://alliander-lms-t.product-api.trainingscatalogus.nl
 https://lms-belastingdienst.trainingscatalogus.nl
 https://lms-apg.trainingscatalogus.nl
+https://buza.trainingscatalogus.nl
+https://ciz.trainingscatalogus.nl
+https://archipel.trainingscatalogus.nl
+https://minfin.trainingscatalogus.nl
+https://leerhuis.trainingscatalogus.nl
+https://demo.trainingscatalogus.nl
+https://ez.trainingscatalogus.nl
+https://dashboard.trainingscatalogus.nl
+https://nfi.trainingscatalogus.nl
+https://prorail.trainingscatalogus.nl
+https://rabobank.trainingscatalogus.nl
+https://rbo.trainingscatalogus.nl
+https://stedin.trainingscatalogus.nl
+https://ftp.trainingscatalogus.nl

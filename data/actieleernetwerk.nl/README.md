@@ -21,6 +21,6 @@
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[https://actieleernetwerk.nl](https://actieleernetwerk.nl)| | **A**|nginx-rc| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
-|[https://www.actieleernetwerk.nl](https://www.actieleernetwerk.nl)| | **A**|nginx-rc| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx WP Rocket WordPress Yoast SEO:23.5|Actie Leer Netwe...|
+|[https://www.actieleernetwerk.nl](https://www.actieleernetwerk.nl)| | **A**|nginx-rc| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx WP Rocket WordPress Yoast SEO:23.7|Actie Leer Netwe...|
 
 

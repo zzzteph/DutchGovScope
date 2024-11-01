@@ -76,6 +76,7 @@ prognosemodelzw.databank.nl
 www.gemeente.databank.nl
 abc.databank.nl
 limburg.databank.nl
+beta-noordholland.databank.nl
 cname-erfgoed.databank.nl
 www.ciz.databank.nl
 adc.databank.nl
@@ -90,3 +91,4 @@ vo.databank.nl
 flevoland.databank.nl
 mre.databank.nl
 rabobank.databank.nl
+inspectie-oe.databank.nl

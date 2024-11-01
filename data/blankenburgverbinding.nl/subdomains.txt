@@ -1,0 +1,2 @@
+ftp.blankenburgverbinding.nl
+mail.blankenburgverbinding.nl

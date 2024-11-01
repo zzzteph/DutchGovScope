@@ -3,3 +3,5 @@ https://test-dictu.referentiegrootboekschema.nl
 https://prod-dictu.referentiegrootboekschema.nl
 https://referentiegrootboekschema.nl
 https://www.referentiegrootboekschema.nl
+https://mail.referentiegrootboekschema.nl
+https://ftp.referentiegrootboekschema.nl

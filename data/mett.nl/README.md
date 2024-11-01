@@ -11,8 +11,8 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/mett.nl/subdomains.txt)|45|Alive subdomains|
-|[urls.txt](/data/mett.nl/urls.txt)|45|Urls|
+|[subdomains.txt](/data/mett.nl/subdomains.txt)|70|Alive subdomains|
+|[urls.txt](/data/mett.nl/urls.txt)|44|Urls|
 
 
 ## Statistics
@@ -50,7 +50,6 @@
 |[https://omgevingsdienstnl.mett.nl](https://omgevingsdienstnl.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS|Object moved|
 |[https://monozakelijk.mett.nl](https://monozakelijk.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Object moved|
 |[https://kernmetpit.mett.nl](https://kernmetpit.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET YouTube|Object moved|
-|[https://veracommunity.mett.nl](https://veracommunity.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET hCaptcha|Object moved|
 |[https://samenopdehoogte.mett.nl](https://samenopdehoogte.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Object moved|
 |[https://metamersfoort.mett.nl](https://metamersfoort.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Object moved|
 |[https://seksueelmisbruik.mett.nl](https://seksueelmisbruik.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET YouTube|Object moved|

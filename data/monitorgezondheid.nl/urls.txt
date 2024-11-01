@@ -1,2 +1,3 @@
 https://monitorgezondheid.nl
 https://www.monitorgezondheid.nl
+http://localhost.monitorgezondheid.nl

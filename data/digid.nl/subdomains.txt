@@ -38,3 +38,4 @@ was-preprod2.digid.nl
 was.digid.nl
 www.digid.nl
 rda-preprod1.digid.nl
+mu.digid.nl

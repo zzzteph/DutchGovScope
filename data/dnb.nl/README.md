@@ -12,7 +12,7 @@
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/dnb.nl/subdomains.txt)|129|Alive subdomains|
-|[urls.txt](/data/dnb.nl/urls.txt)|128|Urls|
+|[urls.txt](/data/dnb.nl/urls.txt)|129|Urls|
 
 
 ## Statistics
@@ -148,5 +148,6 @@
 |[https://tz-uitvragen-tst.dnb.nl](https://tz-uitvragen-tst.dnb.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Azure Azure Front Door HSTS|Mijn DNB - Toezi...|
 |[https://stepui.azure.dnb.nl](https://stepui.azure.dnb.nl)| | **E**|| | | | | | | | :white_check_mark: | |Bootstrap:5.2.3|Azure Static Web...|
 |[https://muntvondsten.dnb.nl](https://muntvondsten.dnb.nl)| | **A**||:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS||
+|[https://mijn-dr.dnb.nl](https://mijn-dr.dnb.nl)| | **A**|| |:white_check_mark: | | |:warning: | | | :white_check_mark: | |Azure Azure Front Door Azure Monitor HSTS|Service unavaila...|
 
 

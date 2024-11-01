@@ -12,7 +12,7 @@
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/rijksictdashboard.nl/subdomains.txt)|10|Alive subdomains|
-|[urls.txt](/data/rijksictdashboard.nl/urls.txt)|7|Urls|
+|[urls.txt](/data/rijksictdashboard.nl/urls.txt)|10|Urls|
 
 
 ## Statistics
@@ -27,5 +27,8 @@
 |[https://beheer.rijksictdashboard.nl](https://beheer.rijksictdashboard.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS|Rijks ICT-dashbo...|
 |[https://rijksictdashboard.nl](https://rijksictdashboard.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS|Rijks ICT-dashbo...|
 |[https://www.rijksictdashboard.nl](https://www.rijksictdashboard.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS|Rijks ICT-dashbo...|
+|[https://auth-acc.rijksictdashboard.nl](https://auth-acc.rijksictdashboard.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|Pagina niet gevo...|
+|[https://auth-tst.rijksictdashboard.nl](https://auth-tst.rijksictdashboard.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|Pagina niet gevo...|
+|[https://auth.rijksictdashboard.nl](https://auth.rijksictdashboard.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|Pagina niet gevo...|
 
 

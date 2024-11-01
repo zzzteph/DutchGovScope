@@ -1,2 +1,2 @@
-https://mobiliteitsscan-info.nl
-https://www.mobiliteitsscan-info.nl
+http://mobiliteitsscan-info.nl
+http://www.mobiliteitsscan-info.nl

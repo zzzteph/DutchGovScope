@@ -242,3 +242,15 @@ http://dpp-webservice.rijksapplicaties.nl
 http://qr-app-webservice.rijksapplicaties.nl
 https://orbis.acc.syn.rijksapplicaties.nl
 http://ufp-webservice.staging.rijksapplicaties.nl
+https://redt.staging.rijksapplicaties.nl
+https://ncg-on-vv.staging.rijksapplicaties.nl
+https://adr.staging.rijksapplicaties.nl
+https://rvbvba.staging.rijksapplicaties.nl
+https://dba.staging.rijksapplicaties.nl
+https://iiz.staging.rijksapplicaties.nl
+https://rvb-dtc.staging.rijksapplicaties.nl
+https://wobi.staging.rijksapplicaties.nl
+https://rvb-events.rijksapplicaties.nl
+https://wpo.rijksapplicaties.nl
+https://lup.rijksapplicaties.nl
+https://bhw.rijksapplicaties.nl

@@ -12,7 +12,7 @@
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/emissieregistratie.nl/subdomains.txt)|11|Alive subdomains|
-|[urls.txt](/data/emissieregistratie.nl/urls.txt)|10|Urls|
+|[urls.txt](/data/emissieregistratie.nl/urls.txt)|11|Urls|
 
 
 ## Statistics
@@ -30,5 +30,6 @@
 |[https://legacy.emissieregistratie.nl](https://legacy.emissieregistratie.nl)| | **B**|Microsoft-IIS/10.0| |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | |HSTS IIS:10.0 Microsoft ASP.NET Windows Server|Emissie Registra...|
 |[https://legacy2.emissieregistratie.nl](https://legacy2.emissieregistratie.nl)| | **B**|Microsoft-HTTPAPI/2.0| |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | |HSTS Microsoft HTTPAPI:2.0|Service Unavaila...|
 |[https://previewnext.emissieregistratie.nl](https://previewnext.emissieregistratie.nl)| | **C**||:warning: |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | |F5 BigIP HSTS||
+|[http://localhost.emissieregistratie.nl](http://localhost.emissieregistratie.nl)| | **F**|nginx|:o: | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Laravel Nginx PHP|Weakpass|
 
 

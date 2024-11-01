@@ -3,9 +3,9 @@ layout: default
 title: "risicotoolboxbodem.nl"
 permalink: "/dutchgov/risicotoolboxbodem.nl.html"
 subdomains_count: 7
-urls_count: 6
+urls_count: 7
 ssl_rank: 
-http_rank: C
+http_rank: D
 security_txt: 1
 url_link: /data/risicotoolboxbodem.nl/urls.txt
 subdomains_link: /data/risicotoolboxbodem.nl/subdomains.txt
@@ -19,14 +19,14 @@ tags: dutchgov
 
 
  - **SSL Grade**:
- - **HTTP Security Grade**:C
+ - **HTTP Security Grade**:D
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:1
 
 
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/DutchGovScope/data/risicotoolboxbodem.nl/subdomains.txt)|7|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/risicotoolboxbodem.nl/urls.txt)|6|Urls|
+|[urls.txt](/DutchGovScope/data/risicotoolboxbodem.nl/urls.txt)|7|Urls|
 
 
 ## Statistics
@@ -40,5 +40,6 @@ tags: dutchgov
 |[https://test.risicotoolboxbodem.nl](https://test.risicotoolboxbodem.nl)| | **C**|Microsoft-IIS/8.5|:warning: |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | |HSTS IIS:8.5 Microsoft ASP.NET:4.0.30319 Windows Server|Object moved|
 |[https://risicotoolboxbodem.nl](https://risicotoolboxbodem.nl)| | **C**||:warning: |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | |||
 |[https://www.risicotoolboxbodem.nl](https://www.risicotoolboxbodem.nl)| | **C**|Microsoft-IIS/8.5|:warning: |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | |Bootstrap HSTS IIS:8.5 Microsoft ASP.NET:4.0.30319 Windows Server|RisicotoolboxBod...|
+|[http://localhost.risicotoolboxbodem.nl](http://localhost.risicotoolboxbodem.nl)| | **F**|nginx|:o: | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Laravel Nginx PHP|Weakpass|
 
 

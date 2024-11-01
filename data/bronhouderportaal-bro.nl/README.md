@@ -11,7 +11,7 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/bronhouderportaal-bro.nl/subdomains.txt)|10|Alive subdomains|
+|[subdomains.txt](/data/bronhouderportaal-bro.nl/subdomains.txt)|13|Alive subdomains|
 |[urls.txt](/data/bronhouderportaal-bro.nl/urls.txt)|10|Urls|
 
 

@@ -126,3 +126,4 @@ https://login-dr.dnb.nl
 https://tz-uitvragen-tst.dnb.nl
 https://stepui.azure.dnb.nl
 https://muntvondsten.dnb.nl
+https://mijn-dr.dnb.nl

@@ -13,6 +13,7 @@ https://vpn2.aaenmaas.nl
 https://sip.aaenmaas.nl
 https://gisservices.aaenmaas.nl
 https://luchtfoto.aaenmaas.nl
+https://webgis.aaenmaas.nl
 https://geoportal.aaenmaas.nl
 https://geoservices.aaenmaas.nl
 https://ucc.aaenmaas.nl

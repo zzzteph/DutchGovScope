@@ -71,3 +71,4 @@ virtueel.zuid-holland.nl
 css.openstad.zuid-holland.nl
 auth.openstad.zuid-holland.nl
 admin.openstad.zuid-holland.nl
+www.openstad.zuid-holland.nl

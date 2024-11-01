@@ -104,3 +104,5 @@ zabbix6.mintst2.rijkscloud.nl
 dbe-t.rvb.rijkscloud.nl
 images.analyse.ilt.rijkscloud.nl
 registry.gitlab.analyse.ilt.rijkscloud.nl
+ip4.rijkscloud.nl
+ip6.rijkscloud.nl

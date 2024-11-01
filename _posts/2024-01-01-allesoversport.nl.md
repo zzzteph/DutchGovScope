@@ -2,7 +2,7 @@
 layout: default
 title: "allesoversport.nl"
 permalink: "/dutchgov/allesoversport.nl.html"
-subdomains_count: 5
+subdomains_count: 6
 urls_count: 5
 ssl_rank: 
 http_rank: B
@@ -25,7 +25,7 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/allesoversport.nl/subdomains.txt)|5|Alive subdomains|
+|[subdomains.txt](/DutchGovScope/data/allesoversport.nl/subdomains.txt)|6|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/allesoversport.nl/urls.txt)|5|Urls|
 
 
@@ -34,7 +34,7 @@ tags: dutchgov
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://allesoversport.nl](https://allesoversport.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Varnish:6.2|301 Moved Perman...|
+|[https://allesoversport.nl](https://allesoversport.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Varnish|301 Moved Perman...|
 |[https://auteurs.allesoversport.nl](https://auteurs.allesoversport.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS MySQL PHP Varnish:6.2 WordPress Yoast SEO:20.13|Home - Kenniscen...|
 |[https://sportakkoord.allesoversport.nl](https://sportakkoord.allesoversport.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Varnish:6.2|302 Found|
 |[https://www.allesoversport.nl](https://www.allesoversport.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Google Tag Manager HSTS MySQL PHP Varnish:6.2 WordPress|Allesoversport.n...|

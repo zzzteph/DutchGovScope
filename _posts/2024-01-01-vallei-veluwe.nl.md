@@ -3,7 +3,7 @@ layout: default
 title: "vallei-veluwe.nl"
 permalink: "/dutchgov/vallei-veluwe.nl.html"
 subdomains_count: 15
-urls_count: 14
+urls_count: 15
 ssl_rank: 
 http_rank: C
 security_txt: 5
@@ -26,7 +26,7 @@ tags: dutchgov
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/DutchGovScope/data/vallei-veluwe.nl/subdomains.txt)|15|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/vallei-veluwe.nl/urls.txt)|14|Urls|
+|[urls.txt](/DutchGovScope/data/vallei-veluwe.nl/urls.txt)|15|Urls|
 
 
 ## Statistics
@@ -46,6 +46,7 @@ tags: dutchgov
 |[https://tmx.vallei-veluwe.nl](https://tmx.vallei-veluwe.nl)| | **C**||:warning: |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |F5 BigIP HSTS||
 |[https://werkplek.vallei-veluwe.nl](https://werkplek.vallei-veluwe.nl)| | **C**||:warning: |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |F5 BigIP HSTS||
 |[https://enterpriseenrollment.vallei-veluwe.nl](https://enterpriseenrollment.vallei-veluwe.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||
+|[https://geotest.vallei-veluwe.nl](https://geotest.vallei-veluwe.nl)| | **A**|Microsoft-IIS/10.0| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS IIS:10.0 Microsoft ASP.NET:4.0.30319 Windows Server||
 |[https://protect.vallei-veluwe.nl](https://protect.vallei-veluwe.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||
 |[https://vdi.vallei-veluwe.nl](https://vdi.vallei-veluwe.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||
 

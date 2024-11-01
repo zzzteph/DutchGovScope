@@ -12,7 +12,7 @@
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/ind.nl/subdomains.txt)|13|Alive subdomains|
-|[urls.txt](/data/ind.nl/urls.txt)|12|Urls|
+|[urls.txt](/data/ind.nl/urls.txt)|13|Urls|
 
 
 ## Statistics
@@ -32,5 +32,6 @@
 |[https://www.ind.nl](https://www.ind.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
 |[https://academie.ind.nl](https://academie.ind.nl)| | **C**|Microsoft-IIS/10.0|:white_check_mark: |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | |IIS:10.0 Windows Server|Document Moved|
 |[https://www.academie.ind.nl](https://www.academie.ind.nl)| | **C**|Class|:white_check_mark: |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | |HSTS||
+|[http://localhost.ind.nl](http://localhost.ind.nl)| | **F**|nginx|:o: | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Laravel Nginx PHP|Weakpass|
 
 

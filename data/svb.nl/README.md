@@ -11,7 +11,7 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/svb.nl/subdomains.txt)|55|Alive subdomains|
+|[subdomains.txt](/data/svb.nl/subdomains.txt)|54|Alive subdomains|
 |[urls.txt](/data/svb.nl/urls.txt)|54|Urls|
 
 

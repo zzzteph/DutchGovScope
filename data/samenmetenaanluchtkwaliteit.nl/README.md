@@ -11,7 +11,7 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/samenmetenaanluchtkwaliteit.nl/subdomains.txt)|4|Alive subdomains|
+|[subdomains.txt](/data/samenmetenaanluchtkwaliteit.nl/subdomains.txt)|5|Alive subdomains|
 |[urls.txt](/data/samenmetenaanluchtkwaliteit.nl/urls.txt)|4|Urls|
 
 

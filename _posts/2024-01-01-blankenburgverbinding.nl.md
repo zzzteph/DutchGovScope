@@ -2,7 +2,7 @@
 layout: default
 title: "blankenburgverbinding.nl"
 permalink: "/dutchgov/blankenburgverbinding.nl.html"
-subdomains_count: 0
+subdomains_count: 2
 urls_count: 0
 ssl_rank: 
 http_rank: F
@@ -25,7 +25,7 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/blankenburgverbinding.nl/subdomains.txt)|0|Alive subdomains|
+|[subdomains.txt](/DutchGovScope/data/blankenburgverbinding.nl/subdomains.txt)|2|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/blankenburgverbinding.nl/urls.txt)|0|Urls|
 
 

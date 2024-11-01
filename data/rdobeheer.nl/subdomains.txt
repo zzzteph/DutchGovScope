@@ -61,3 +61,5 @@ web.acc.woo.rdobeheer.nl
 yivi.pilot.proeftuin.uzi-online.rdobeheer.nl
 balie.acc.woo.rdobeheer.nl
 web.test.dpr.rdobeheer.nl
+acc.rdobeheer.nl
+stats.rdobeheer.nl

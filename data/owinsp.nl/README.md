@@ -11,7 +11,7 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/owinsp.nl/subdomains.txt)|10|Alive subdomains|
+|[subdomains.txt](/data/owinsp.nl/subdomains.txt)|11|Alive subdomains|
 |[urls.txt](/data/owinsp.nl/urls.txt)|10|Urls|
 
 

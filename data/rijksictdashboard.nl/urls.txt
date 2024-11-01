@@ -5,3 +5,6 @@ https://test.rijksictdashboard.nl
 https://beheer.rijksictdashboard.nl
 https://rijksictdashboard.nl
 https://www.rijksictdashboard.nl
+https://auth-acc.rijksictdashboard.nl
+https://auth-tst.rijksictdashboard.nl
+https://auth.rijksictdashboard.nl

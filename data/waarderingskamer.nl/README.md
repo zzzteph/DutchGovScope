@@ -22,12 +22,12 @@
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[https://mijn.waarderingskamer.nl](https://mijn.waarderingskamer.nl)| | **C**|nginx|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS Microsoft ASP.NET Nginx|Mijn Waarderings...|
 |[https://www.waarderingskamer.nl](https://www.waarderingskamer.nl)| | **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |Alpine.js Craft CMS HSTS Nginx SEOmatic Yii|Waarderingskamer|
-|[https://waarderingskamer.nl](https://waarderingskamer.nl)| | **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |Nginx|301 Moved Perman...|
+|[https://waarderingskamer.nl](https://waarderingskamer.nl)| | **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
 |[https://acceptatie.waarderingskamer.nl](https://acceptatie.waarderingskamer.nl)| | **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |Alpine.js Craft CMS HSTS Nginx SEOmatic Yii|Waarderingskamer|
 |[https://exchange.waarderingskamer.nl](https://exchange.waarderingskamer.nl)| | **E**|Microsoft-IIS/10.0| | | | | | :white_check_mark: | | :white_check_mark: | |IIS:10.0 Windows Server||
 |[https://autodiscover.waarderingskamer.nl](https://autodiscover.waarderingskamer.nl)| | **E**|Microsoft-IIS/10.0| | | | | | :white_check_mark: | | :white_check_mark: | |IIS:10.0 Windows Server||
 |[https://download.waarderingskamer.nl](https://download.waarderingskamer.nl)| | **E**|Microsoft-IIS/10.0| | | | | | :white_check_mark: | | :white_check_mark: | |IIS:10.0 Windows Server||
-|[https://gemeenteportaal.waarderingskamer.nl](https://gemeenteportaal.waarderingskamer.nl)| | **C**|nginx|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |Nginx|301 Moved Perman...|
+|[https://gemeenteportaal.waarderingskamer.nl](https://gemeenteportaal.waarderingskamer.nl)| | **C**|nginx|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
 |[https://search.waarderingskamer.nl](https://search.waarderingskamer.nl)| | **B**|nginx| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS Nginx||
 |[http://wem-live.waarderingskamer.nl](http://wem-live.waarderingskamer.nl)| | **E**|| | | | | | | | :white_check_mark: | ||302 Found|
 |[https://woz-it.waarderingskamer.nl](https://woz-it.waarderingskamer.nl)| | **C**|nginx|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS Microsoft ASP.NET Nginx|WOZ-IT|

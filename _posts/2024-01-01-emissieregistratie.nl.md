@@ -3,7 +3,7 @@ layout: default
 title: "emissieregistratie.nl"
 permalink: "/dutchgov/emissieregistratie.nl.html"
 subdomains_count: 11
-urls_count: 10
+urls_count: 11
 ssl_rank: 
 http_rank: C
 security_txt: 5
@@ -26,7 +26,7 @@ tags: dutchgov
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/DutchGovScope/data/emissieregistratie.nl/subdomains.txt)|11|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/emissieregistratie.nl/urls.txt)|10|Urls|
+|[urls.txt](/DutchGovScope/data/emissieregistratie.nl/urls.txt)|11|Urls|
 
 
 ## Statistics
@@ -44,5 +44,6 @@ tags: dutchgov
 |[https://legacy.emissieregistratie.nl](https://legacy.emissieregistratie.nl)| | **B**|Microsoft-IIS/10.0| |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | |HSTS IIS:10.0 Microsoft ASP.NET Windows Server|Emissie Registra...|
 |[https://legacy2.emissieregistratie.nl](https://legacy2.emissieregistratie.nl)| | **B**|Microsoft-HTTPAPI/2.0| |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | |HSTS Microsoft HTTPAPI:2.0|Service Unavaila...|
 |[https://previewnext.emissieregistratie.nl](https://previewnext.emissieregistratie.nl)| | **C**||:warning: |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | |F5 BigIP HSTS||
+|[http://localhost.emissieregistratie.nl](http://localhost.emissieregistratie.nl)| | **F**|nginx|:o: | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Laravel Nginx PHP|Weakpass|
 
 

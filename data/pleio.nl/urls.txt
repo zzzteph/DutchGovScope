@@ -47,11 +47,10 @@ https://eurlplanthealth.pleio.nl
 https://integralevroeghulp.odc.pleio.nl
 https://digischool.odc.pleio.nl
 https://enquetes.pleio.nl
-https://kennisdelenrv.odc.pleio.nl
 https://vwsnet.odc.pleio.nl
-https://rvo2.odc.pleio.nl
+https://kubernetes.odc.pleio.nl
+https://gemeente-eersel.odc.pleio.nl
 https://learningnetwork.pleio.nl
-https://www.uht.pleio.nl
 https://almeersewolunie.pleio.nl
 https://haarlem.pleio.nl
 https://sdg.pleio.nl
@@ -63,7 +62,5 @@ https://datahub.pleio.nl
 https://beheer.odc.pleio.nl
 https://www.learningnetwork.pleio.nl
 https://prplatform.pleio.nl
-https://www.bestandendelen.pleio.nl
 https://digitaleveiligheid.pleio.nl
 https://ffd.pleio.nl
-https://www.weerbareoverheid.pleio.nl

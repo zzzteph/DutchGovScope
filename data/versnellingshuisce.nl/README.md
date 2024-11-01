@@ -11,7 +11,7 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/versnellingshuisce.nl/subdomains.txt)|7|Alive subdomains|
+|[subdomains.txt](/data/versnellingshuisce.nl/subdomains.txt)|8|Alive subdomains|
 |[urls.txt](/data/versnellingshuisce.nl/urls.txt)|7|Urls|
 
 

@@ -8,3 +8,4 @@ https://www.emissieregistratie.nl
 https://legacy.emissieregistratie.nl
 https://legacy2.emissieregistratie.nl
 https://previewnext.emissieregistratie.nl
+http://localhost.emissieregistratie.nl

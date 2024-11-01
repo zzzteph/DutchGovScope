@@ -8,3 +8,4 @@ begrippen.stelselcatalogus.nl
 preprod.begrippen.stelselcatalogus.nl
 preprod.keycloak.stelselcatalogus.nl
 editor.stelselcatalogus.nl
+preprod.www.stelselcatalogus.nl

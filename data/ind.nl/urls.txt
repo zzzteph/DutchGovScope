@@ -10,3 +10,4 @@ https://ind.nl
 https://www.ind.nl
 https://academie.ind.nl
 https://www.academie.ind.nl
+http://localhost.ind.nl

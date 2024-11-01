@@ -3,9 +3,9 @@ layout: default
 title: "veiliginternetten.nl"
 permalink: "/dutchgov/veiliginternetten.nl.html"
 subdomains_count: 9
-urls_count: 8
+urls_count: 9
 ssl_rank: 
-http_rank: C
+http_rank: D
 security_txt: 3
 url_link: /data/veiliginternetten.nl/urls.txt
 subdomains_link: /data/veiliginternetten.nl/subdomains.txt
@@ -19,14 +19,14 @@ tags: dutchgov
 
 
  - **SSL Grade**:
- - **HTTP Security Grade**:C
+ - **HTTP Security Grade**:D
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:3
 
 
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/DutchGovScope/data/veiliginternetten.nl/subdomains.txt)|9|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/veiliginternetten.nl/urls.txt)|8|Urls|
+|[urls.txt](/DutchGovScope/data/veiliginternetten.nl/urls.txt)|9|Urls|
 
 
 ## Statistics
@@ -42,5 +42,6 @@ tags: dutchgov
 |[https://mail.veiliginternetten.nl](https://mail.veiliginternetten.nl)| | **F**|mod_fcgid/2.3.9| | | | | | | | :white_check_mark: | |HSTS|403 Forbidden|
 |[https://vs6575.veiliginternetten.nl](https://vs6575.veiliginternetten.nl)| | **F**|mod_fcgid/2.3.9| | | | | | | | :white_check_mark: | |HSTS|403 Forbidden|
 |[https://vs6844.veiliginternetten.nl](https://vs6844.veiliginternetten.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|301 Moved Perman...|
+|[https://acceptatie.veiliginternetten.nl](https://acceptatie.veiliginternetten.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|301 Moved Perman...|
 
 

@@ -59,3 +59,5 @@ rijkspascrlcert2-acc.dictu.nl
 snow-cw.dictu.nl
 tvs.dictu.nl
 rijkspasocsp2-acc.dictu.nl
+test2.dictu.nl
+acc2.dictu.nl

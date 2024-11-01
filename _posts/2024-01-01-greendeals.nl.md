@@ -3,9 +3,9 @@ layout: default
 title: "greendeals.nl"
 permalink: "/dutchgov/greendeals.nl.html"
 subdomains_count: 6
-urls_count: 5
+urls_count: 6
 ssl_rank: 
-http_rank: C
+http_rank: D
 security_txt: 2
 url_link: /data/greendeals.nl/urls.txt
 subdomains_link: /data/greendeals.nl/subdomains.txt
@@ -19,14 +19,14 @@ tags: dutchgov
 
 
  - **SSL Grade**:
- - **HTTP Security Grade**:C
+ - **HTTP Security Grade**:D
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:2
 
 
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/DutchGovScope/data/greendeals.nl/subdomains.txt)|6|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/greendeals.nl/urls.txt)|5|Urls|
+|[urls.txt](/DutchGovScope/data/greendeals.nl/urls.txt)|6|Urls|
 
 
 ## Statistics
@@ -39,5 +39,6 @@ tags: dutchgov
 |[https://test.greendeals.nl](https://test.greendeals.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Basic HSTS Nginx|401 Authorizatio...|
 |[https://acc.greendeals.nl](https://acc.greendeals.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Basic HSTS Nginx|401 Authorizatio...|
 |[https://demo.greendeals.nl](https://demo.greendeals.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
+|[https://webmail.greendeals.nl](https://webmail.greendeals.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
 
 

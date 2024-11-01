@@ -4,5 +4,4 @@ www.minienw.nl
 minienw.nl
 newsroom.minienw.nl
 werkbezoek.minienw.nl
-csp.minienw.nl
 localhost.minienw.nl
