@@ -11,8 +11,8 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/rechtsbijstand.nl/subdomains.txt)|2|Alive subdomains|
-|[urls.txt](/data/rechtsbijstand.nl/urls.txt)|2|Urls|
+|[subdomains.txt](/data/rechtsbijstand.nl/subdomains.txt)|3|Alive subdomains|
+|[urls.txt](/data/rechtsbijstand.nl/urls.txt)|3|Urls|
 
 
 ## Statistics
@@ -22,5 +22,6 @@
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[https://rechtsbijstand.nl](https://rechtsbijstand.nl)| | **A**|-|:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:-|Object moved|
 |[https://www.rechtsbijstand.nl](https://www.rechtsbijstand.nl)| | **A**|cloudflare|:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Cloudflare Cloudflare Bot Management HSTS Microsoft ASP.NET:-|Gesubsidieerde r...|
+|[http://autodiscover.rechtsbijstand.nl](http://autodiscover.rechtsbijstand.nl)| | **C**|Microsoft-IIS/10.0| |:white_check_mark: | | | | | | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server||
 
 

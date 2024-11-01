@@ -11,7 +11,7 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/kansspelautoriteit.nl/subdomains.txt)|12|Alive subdomains|
+|[subdomains.txt](/data/kansspelautoriteit.nl/subdomains.txt)|19|Alive subdomains|
 |[urls.txt](/data/kansspelautoriteit.nl/urls.txt)|12|Urls|
 
 

@@ -12,7 +12,7 @@
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/nationaalcoordinatorgroningen.nl/subdomains.txt)|9|Alive subdomains|
-|[urls.txt](/data/nationaalcoordinatorgroningen.nl/urls.txt)|8|Urls|
+|[urls.txt](/data/nationaalcoordinatorgroningen.nl/urls.txt)|9|Urls|
 
 
 ## Statistics
@@ -28,5 +28,6 @@
 |[https://www.nationaalcoordinatorgroningen.nl](https://www.nationaalcoordinatorgroningen.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|NCG | Nationaal...|
 |[https://intranet-prod.nationaalcoordinatorgroningen.nl](https://intranet-prod.nationaalcoordinatorgroningen.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|403 Forbidden|
 |[https://intranet.nationaalcoordinatorgroningen.nl](https://intranet.nationaalcoordinatorgroningen.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|403 Forbidden|
+|[https://jet-test.nationaalcoordinatorgroningen.nl](https://jet-test.nationaalcoordinatorgroningen.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|403 Forbidden|
 
 

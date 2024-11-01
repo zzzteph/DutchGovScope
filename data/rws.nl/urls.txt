@@ -73,7 +73,6 @@ https://geoservices.rws.nl
 https://geostenen.grid.rws.nl
 https://geoweb.rws.nl
 http://git.rws.nl
-https://hld.rws.nl
 https://inloggen.rws.nl
 https://maps.rws.nl
 https://mars.rws.nl
@@ -156,3 +155,6 @@ https://splunkhec.grid.rws.nl
 https://splunkhec.gridacc.rws.nl
 https://waterinfo-extra.rws.nl
 https://matroos.rws.nl
+https://status.gridacc.rws.nl
+https://enterpriseenrollment.rws.nl
+https://iot.grid.rws.nl

@@ -2,10 +2,10 @@
 layout: default
 title: "veiligheidsregioflevoland.nl"
 permalink: "/dutchgov/veiligheidsregioflevoland.nl.html"
-subdomains_count: 5
-urls_count: 5
+subdomains_count: 8
+urls_count: 8
 ssl_rank: 
-http_rank: B
+http_rank: C
 security_txt: 2
 url_link: /data/veiligheidsregioflevoland.nl/urls.txt
 subdomains_link: /data/veiligheidsregioflevoland.nl/subdomains.txt
@@ -19,14 +19,14 @@ tags: dutchgov
 
 
  - **SSL Grade**:
- - **HTTP Security Grade**:B
+ - **HTTP Security Grade**:C
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:2
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/veiligheidsregioflevoland.nl/subdomains.txt)|5|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/veiligheidsregioflevoland.nl/urls.txt)|5|Urls|
+|[subdomains.txt](/DutchGovScope/data/veiligheidsregioflevoland.nl/subdomains.txt)|8|Alive subdomains|
+|[urls.txt](/DutchGovScope/data/veiligheidsregioflevoland.nl/urls.txt)|8|Urls|
 
 
 ## Statistics
@@ -39,5 +39,8 @@ tags: dutchgov
 |[https://www.veiligheidsregioflevoland.nl](https://www.veiligheidsregioflevoland.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:-|Home - Website V...|
 |[https://veiligheidsregioflevoland.nl](https://veiligheidsregioflevoland.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:-|Object moved|
 |[https://mail.veiligheidsregioflevoland.nl](https://mail.veiligheidsregioflevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS Ruby Ruby on Rails Stimulus|Mijndomein.nl|
+|[http://autodiscover.veiligheidsregioflevoland.nl](http://autodiscover.veiligheidsregioflevoland.nl)| | **C**|Microsoft-IIS/10.0| |:white_check_mark: | | | | | | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server||
+|[https://enterpriseenrollment.veiligheidsregioflevoland.nl](https://enterpriseenrollment.veiligheidsregioflevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||
+|[https://enterpriseregistration.veiligheidsregioflevoland.nl](https://enterpriseregistration.veiligheidsregioflevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 
 

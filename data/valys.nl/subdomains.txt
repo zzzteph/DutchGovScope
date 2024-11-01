@@ -1,5 +1,5 @@
 valys.nl
-ww.valys.nl
-informatie.valys.nl
+www.valys.nl
 tran-web-ns001.valys.nl
 valyswww.valys.nl
+opwww.valys.nl

@@ -228,12 +228,9 @@ verdragenbank-acc.overheid.nl
 wetgevingskalender-acc.overheid.nl
 pdc.acc.omgevingswet.overheid.nl
 pdc.omgevingswet.overheid.nl
-www.pki.overheid.nl
 pki.overheid.nl
 plan-plan-validatie.pre.omgevingswet.overheid.nl
 pp1.toegang.overheid.nl
-preprod.zoekdienst.overheid.nl
-preview-eto.overheid.nl
 puc-acc.overheid.nl
 puc-redactie-acc.overheid.nl
 puc-redactie.overheid.nl
@@ -272,7 +269,6 @@ toepasbare-regels.pre.omgevingswet.overheid.nl
 vpn.koop.overheid.nl
 wetgeving.omgevingswet.overheid.nl
 wetgeving.pre.omgevingswet.overheid.nl
-zdpushservice.overheid.nl
 zoek.overheid.nl
 beheerportaal.intpatch.omgevingswet.overheid.nl
 beheerportaal.dmo.omgevingswet.overheid.nl
@@ -306,7 +302,6 @@ oproepingen-preprd.overheid.nl
 drop-api-preprd.overheid.nl
 mnd-preprd.overheid.nl
 oproepingen-api-preprd-poc.overheid.nl
-demo1-systemteam.overheid.nl
 digid-stub.lpc.mijn.overheid.nl
 identifier-eto.overheid.nl
 ondersteuning.omgevingswet.overheid.nl
@@ -322,3 +317,4 @@ toepasbare-regels.omgevingswet.overheid.nl
 water.omgevingswet.overheid.nl
 autodiscover.overheid.nl
 ftp.overheid.nl
+ref.omgevingswet.overheid.nl

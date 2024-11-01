@@ -3,3 +3,5 @@ https://acc.rtlnieuws.nl
 https://rtlnieuws.nl
 https://sso.rtlnieuws.nl
 https://www.rtlnieuws.nl
+https://dev-beta.rtlnieuws.nl
+https://prod.rtlnieuws.nl

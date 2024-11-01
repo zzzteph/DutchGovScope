@@ -6,13 +6,13 @@
 
  - **SSL Grade**:
  - **HTTP Security Grade**:C
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:27
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:29
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/svb.nl/subdomains.txt)|54|Alive subdomains|
-|[urls.txt](/data/svb.nl/urls.txt)|52|Urls|
+|[subdomains.txt](/data/svb.nl/subdomains.txt)|55|Alive subdomains|
+|[urls.txt](/data/svb.nl/urls.txt)|54|Urls|
 
 
 ## Statistics
@@ -21,7 +21,6 @@
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[https://apim-icc.svb.nl](https://apim-icc.svb.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
-|[https://applicationstest.svb.nl](https://applicationstest.svb.nl)| | **F**||:warning: | | | | | | | :white_check_mark: | |Microsoft ASP.NET|IIS Windows Serv...|
 |[https://app-a.svb.nl](https://app-a.svb.nl)| | **A**||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |||
 |[https://app-o.svb.nl](https://app-o.svb.nl)| | **A**||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |||
 |[https://app-t.svb.nl](https://app-t.svb.nl)| | **A**||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |||
@@ -66,11 +65,14 @@
 |[https://rdsapplications07.svb.nl](https://rdsapplications07.svb.nl)| | **F**|Microsoft-IIS/10.0| | | | | | | | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server|IIS Windows Serv...|
 |[https://remotedesktop.svb.nl](https://remotedesktop.svb.nl)| | **F**|Microsoft-IIS/10.0| | | | | | | | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server|IIS Windows Serv...|
 |[https://secure5.svb.nl](https://secure5.svb.nl)| | **C**||:warning: |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS|Sociale Verzeker...|
-|[https://svb.nl](https://svb.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
-|[https://www.svb.nl](https://www.svb.nl)| | **A**||:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
+|[https://svb.nl](https://svb.nl)| | **A**||:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
+|[https://www.svb.nl](https://www.svb.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
+|[https://test-intranet.svb.nl](https://test-intranet.svb.nl)| | **A**||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://test-cmsintranet.svb.nl](https://test-cmsintranet.svb.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|403 - Forbidden:...|
 |[https://events.svb.nl](https://events.svb.nl)| | **A**||:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Amazon S3 Amazon Web Services HSTS||
 |[https://mft-prd.svb.nl](https://mft-prd.svb.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Redirect|
 |[https://rdsapplications00.svb.nl](https://rdsapplications00.svb.nl)| | **F**|Microsoft-IIS/10.0| | | | | | | | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server|IIS Windows Serv...|
+|[https://kennisbank.svb.nl](https://kennisbank.svb.nl)| | **E**|BigIP|:white_check_mark: |:white_check_mark: | :warning:| | | | | :white_check_mark: | |F5 BigIP HSTS||
+|[https://enterpriseregistration.svb.nl](https://enterpriseregistration.svb.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 
 

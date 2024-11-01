@@ -1,3 +1,4 @@
 allesoverbiologisch.nl
 feeds.allesoverbiologisch.nl
 www.allesoverbiologisch.nl
+opendata.allesoverbiologisch.nl

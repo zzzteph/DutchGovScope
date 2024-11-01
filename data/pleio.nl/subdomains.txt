@@ -11,8 +11,9 @@ sadp.pleio.nl
 aangifteselectie-chat.pleio.nl
 dgh-chat.pleio.nl
 moodle.pleio.nl
-help.odc.pleio.nl
+eclo.odc.pleio.nl
 pleio.nl
+kennisdelen.odc.pleio.nl
 kia.odc.pleio.nl
 netwerkabroad.odc.pleio.nl
 tooling.capacitor.pleio.nl
@@ -30,7 +31,6 @@ statuspage-bridge.pleio.nl
 avg.pleio.nl
 formulieren-new.pleio.nl
 storybook.pleio.nl
-www.statuspage-bridge.pleio.nl
 formulieren.pleio.nl
 riec-liec-academie.pleio.nl
 lev.pleio.nl
@@ -44,16 +44,17 @@ videobellen-jwt-only.pleio.nl
 videobellen.pleio.nl
 gemeentelijkgeoberaad.pleio.nl
 eurlplanthealth.pleio.nl
+integralevroeghulp.odc.pleio.nl
 digischool.odc.pleio.nl
 enquetes.pleio.nl
 kennisdelenrv.odc.pleio.nl
+vwsnet.odc.pleio.nl
 rvo2.odc.pleio.nl
 learningnetwork.pleio.nl
 www.uht.pleio.nl
 almeersewolunie.pleio.nl
 haarlem.pleio.nl
 sdg.pleio.nl
-test.odc.pleio.nl
 realisatieibds.pleio.nl
 wendbarewetsuitvoering.pleio.nl
 account.pleio.nl
@@ -62,3 +63,8 @@ datahub.pleio.nl
 beheer.odc.pleio.nl
 www.learningnetwork.pleio.nl
 prplatform.pleio.nl
+www.bestandendelen.pleio.nl
+mx.odc.pleio.nl
+digitaleveiligheid.pleio.nl
+ffd.pleio.nl
+www.weerbareoverheid.pleio.nl

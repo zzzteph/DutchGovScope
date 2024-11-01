@@ -29,3 +29,6 @@ https://wbp6.hhdelfland.nl
 https://workspace.hhdelfland.nl
 https://geoview.hhdelfland.nl
 https://geoappstest.hhdelfland.nl
+https://enterpriseenrollment.hhdelfland.nl
+https://enterpriseregistration.hhdelfland.nl
+https://passwordreset.hhdelfland.nl

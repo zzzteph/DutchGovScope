@@ -3,7 +3,7 @@ layout: default
 title: "zwemwater.nl"
 permalink: "/dutchgov/zwemwater.nl.html"
 subdomains_count: 13
-urls_count: 12
+urls_count: 13
 ssl_rank: 
 http_rank: C
 security_txt: 5
@@ -26,7 +26,7 @@ tags: dutchgov
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/DutchGovScope/data/zwemwater.nl/subdomains.txt)|13|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/zwemwater.nl/urls.txt)|12|Urls|
+|[urls.txt](/DutchGovScope/data/zwemwater.nl/urls.txt)|13|Urls|
 
 
 ## Statistics
@@ -46,5 +46,6 @@ tags: dutchgov
 |[https://acc.zwemwater.nl](https://acc.zwemwater.nl)| | **B**|Apache| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
 |[https://pre-pub.zwemwater.nl](https://pre-pub.zwemwater.nl)| | **B**|Apache/2.4.37 (Red Hat Enterprise Linux) OpenSSL/1.1.1k| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server:2.4.37 HSTS OpenSSL:1.1.1k Red Hat|301 Moved Perman...|
 |[https://pubgeo.zwemwater.nl](https://pubgeo.zwemwater.nl)| | **C**|Apache/2.4.37 (Red Hat Enterprise Linux) OpenSSL/1.1.1k| |:white_check_mark: | :warning:| | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server:2.4.37 HSTS OpenSSL:1.1.1k Red Hat||
+|[https://wwww.zwemwater.nl](https://wwww.zwemwater.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
 
 

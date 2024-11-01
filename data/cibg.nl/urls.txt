@@ -32,6 +32,7 @@ https://feeds.cibg.nl
 https://opendata.cibg.nl
 https://www.cibg.nl
 https://lir.cibg.nl
+https://meldingen.klopt.cibg.nl
 https://portaal.competent.cibg.nl
 https://portaal.digilevering.cibg.nl
 https://prototype.cibg.nl

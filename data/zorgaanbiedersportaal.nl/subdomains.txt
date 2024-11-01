@@ -2,7 +2,6 @@ acceptatie.beheer.locatieregister.zorgaanbiedersportaal.nl
 acceptatie.beheer.zorgaanbiedersportaal.nl
 acceptatie.mijn.geschilleninstantie.zorgaanbiedersportaal.nl
 acceptatie.mijn.locatieregister.zorgaanbiedersportaal.nl
-acceptatie.mijn.melding.zorgaanbiedersportaal.nl
 acceptatie.mijn.toelatingsvergunning.zorgaanbiedersportaal.nl
 acceptatie.mijn.zorgaanbiedersportaal.nl
 acceptatie.zoeken.zorgaanbiedersportaal.nl
@@ -16,3 +15,5 @@ zorgaanbiedersportaal.nl
 zoeken.zorgaanbiedersportaal.nl
 mijn.toelatingsvergunning.zorgaanbiedersportaal.nl
 beheer.zorgaanbiedersportaal.nl
+acceptatie.api.zorgaanbiedersportaal.nl
+api.zorgaanbiedersportaal.nl

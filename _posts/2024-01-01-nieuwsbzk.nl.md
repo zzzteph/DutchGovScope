@@ -2,10 +2,10 @@
 layout: default
 title: "nieuwsbzk.nl"
 permalink: "/dutchgov/nieuwsbzk.nl.html"
-subdomains_count: 2
-urls_count: 2
+subdomains_count: 0
+urls_count: 0
 ssl_rank: 
-http_rank: E
+http_rank: F
 security_txt: 0
 url_link: /data/nieuwsbzk.nl/urls.txt
 subdomains_link: /data/nieuwsbzk.nl/subdomains.txt
@@ -19,14 +19,14 @@ tags: dutchgov
 
 
  - **SSL Grade**:
- - **HTTP Security Grade**:E
+ - **HTTP Security Grade**:F
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:0
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/nieuwsbzk.nl/subdomains.txt)|2|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/nieuwsbzk.nl/urls.txt)|2|Urls|
+|[subdomains.txt](/DutchGovScope/data/nieuwsbzk.nl/subdomains.txt)|0|Alive subdomains|
+|[urls.txt](/DutchGovScope/data/nieuwsbzk.nl/urls.txt)|0|Urls|
 
 
 ## Statistics
@@ -34,7 +34,5 @@ tags: dutchgov
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://nieuwsbzk.nl](https://nieuwsbzk.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Object moved|
-|[https://www.nieuwsbzk.nl](https://www.nieuwsbzk.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Object moved|
 
 

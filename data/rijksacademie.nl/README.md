@@ -12,7 +12,7 @@
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/rijksacademie.nl/subdomains.txt)|7|Alive subdomains|
-|[urls.txt](/data/rijksacademie.nl/urls.txt)|6|Urls|
+|[urls.txt](/data/rijksacademie.nl/urls.txt)|7|Urls|
 
 
 ## Statistics
@@ -25,6 +25,7 @@
 |[https://infoscherm.rijksacademie.nl](https://infoscherm.rijksacademie.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Bootstrap:3.3.5 Express Nginx Node.js|Service enregist...|
 |[https://nieuwsbrief.rijksacademie.nl](https://nieuwsbrief.rijksacademie.nl)| | **A**|nginx| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://rijksacademie.nl](https://rijksacademie.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | ||301 Moved Perman...|
-|[https://www.rijksacademie.nl](https://www.rijksacademie.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS MySQL PHP WordPress||
+|[https://www.rijksacademie.nl](https://www.rijksacademie.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS MySQL PHP WordPress Yoast SEO Premium:23.7 Yoast SEO:23.7|Home | Rijksacad...|
+|[http://autodiscover.rijksacademie.nl](http://autodiscover.rijksacademie.nl)| | **C**|Microsoft-IIS/10.0| |:white_check_mark: | | | | | | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server||
 
 

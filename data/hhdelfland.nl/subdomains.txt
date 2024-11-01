@@ -29,3 +29,6 @@ wbp6.hhdelfland.nl
 workspace.hhdelfland.nl
 geoview.hhdelfland.nl
 geoappstest.hhdelfland.nl
+enterpriseenrollment.hhdelfland.nl
+enterpriseregistration.hhdelfland.nl
+passwordreset.hhdelfland.nl

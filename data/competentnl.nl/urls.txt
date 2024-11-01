@@ -2,3 +2,4 @@ https://opendata.competentnl.nl
 https://www.competentnl.nl
 https://competentnl.nl
 https://feeds.competentnl.nl
+http://autodiscover.competentnl.nl

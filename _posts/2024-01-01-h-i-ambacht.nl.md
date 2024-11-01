@@ -2,11 +2,11 @@
 layout: default
 title: "h-i-ambacht.nl"
 permalink: "/dutchgov/h-i-ambacht.nl.html"
-subdomains_count: 20
-urls_count: 19
+subdomains_count: 22
+urls_count: 22
 ssl_rank: 
 http_rank: A
-security_txt: 11
+security_txt: 13
 url_link: /data/h-i-ambacht.nl/urls.txt
 subdomains_link: /data/h-i-ambacht.nl/subdomains.txt
 categories: dutchgov
@@ -20,13 +20,13 @@ tags: dutchgov
 
  - **SSL Grade**:
  - **HTTP Security Grade**:A
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:11
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:13
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/h-i-ambacht.nl/subdomains.txt)|20|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/h-i-ambacht.nl/urls.txt)|19|Urls|
+|[subdomains.txt](/DutchGovScope/data/h-i-ambacht.nl/subdomains.txt)|22|Alive subdomains|
+|[urls.txt](/DutchGovScope/data/h-i-ambacht.nl/urls.txt)|22|Urls|
 
 
 ## Statistics
@@ -48,10 +48,13 @@ tags: dutchgov
 |[https://www.h-i-ambacht.nl](https://www.h-i-ambacht.nl)| | **A**||:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache Tomcat Green Valley CMS HSTS Java|Inwoners - Gemee...|
 |[https://loket.acceptatie.h-i-ambacht.nl](https://loket.acceptatie.h-i-ambacht.nl)| | **A**||:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bootstrap HSTS Java Material Design Lite|Loket van Gemeen...|
 |[https://loket.h-i-ambacht.nl](https://loket.h-i-ambacht.nl)| | **A**||:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bootstrap HSTS Java Material Design Lite|Loket van Gemeen...|
+|[https://omgevingsvisie.h-i-ambacht.nl](https://omgevingsvisie.h-i-ambacht.nl)| | **C**|Apache| |:white_check_mark: | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|Omgevingsvisie H...|
 |[https://rxlaunch-signicat-preprod.h-i-ambacht.nl](https://rxlaunch-signicat-preprod.h-i-ambacht.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
 |[https://vergunningintaker-preprod.h-i-ambacht.nl](https://vergunningintaker-preprod.h-i-ambacht.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Google Cloud Google Cloud CDN HSTS HTTP/3||
 |[https://vergunningintaker.h-i-ambacht.nl](https://vergunningintaker.h-i-ambacht.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Google Cloud Google Cloud CDN HSTS HTTP/3||
 |[https://vthbroker.h-i-ambacht.nl](https://vthbroker.h-i-ambacht.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
 |[https://web.h-i-ambacht.nl](https://web.h-i-ambacht.nl)| | **A**|nginx| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
+|[https://hendrik-ido-ambacht-checker-preprod.h-i-ambacht.nl](https://hendrik-ido-ambacht-checker-preprod.h-i-ambacht.nl)| | **E**|| | | | | | | | :white_check_mark: | |Google Cloud Google Cloud CDN HTTP/3||
+|[https://hendrik-ido-ambacht-checker.h-i-ambacht.nl](https://hendrik-ido-ambacht-checker.h-i-ambacht.nl)| | **C**|nginx/1.23.3| |:white_check_mark: | | | | | | :white_check_mark: | |Google Cloud Google Cloud CDN HSTS HTTP/3 Nginx:1.23.3||
 
 

@@ -57,3 +57,5 @@ https://asb.webftp.dictu.nl
 http://c-pki-acc.dictu.nl
 http://rijkspascrlcert2-acc.dictu.nl
 https://snow-cw.dictu.nl
+https://tvs.dictu.nl
+http://rijkspasocsp2-acc.dictu.nl

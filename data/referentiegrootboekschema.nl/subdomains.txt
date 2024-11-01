@@ -3,3 +3,5 @@ test-dictu.referentiegrootboekschema.nl
 prod-dictu.referentiegrootboekschema.nl
 referentiegrootboekschema.nl
 www.referentiegrootboekschema.nl
+mail.referentiegrootboekschema.nl
+ftp.referentiegrootboekschema.nl

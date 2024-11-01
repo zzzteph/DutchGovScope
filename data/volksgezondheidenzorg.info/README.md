@@ -5,14 +5,14 @@
 
 
  - **SSL Grade**:
- - **HTTP Security Grade**:B
+ - **HTTP Security Grade**:C
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:4
 
 
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/volksgezondheidenzorg.info/subdomains.txt)|7|Alive subdomains|
-|[urls.txt](/data/volksgezondheidenzorg.info/urls.txt)|6|Urls|
+|[urls.txt](/data/volksgezondheidenzorg.info/urls.txt)|7|Urls|
 
 
 ## Statistics
@@ -26,5 +26,6 @@
 |[https://www.volksgezondheidenzorg.info](https://www.volksgezondheidenzorg.info)| | **A**|Apache| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS|301 Moved Perman...|
 |[http://acceptatie.volksgezondheidenzorg.info](http://acceptatie.volksgezondheidenzorg.info)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://costofillnesstool.volksgezondheidenzorg.info](https://costofillnesstool.volksgezondheidenzorg.info)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |||
+|[http://localhost.volksgezondheidenzorg.info](http://localhost.volksgezondheidenzorg.info)| | **F**|nginx|:o: | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Laravel Nginx PHP|Weakpass|
 
 

@@ -3,4 +3,8 @@ https://opendata.ceg.nl
 https://www.ceg.nl
 https://mail.ceg.nl
 https://pop.ceg.nl
+https://smtp.ceg.nl
+https://testsite.ceg.nl
+https://www.testsite.ceg.nl
+https://ftp.ceg.nl
 https://ceg.nl

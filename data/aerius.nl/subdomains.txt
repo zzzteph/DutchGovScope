@@ -1,7 +1,6 @@
 aerius.nl
 auth-register.aerius.nl
 mgmt.aerius.nl
-aankoopcalculator.aerius.nl
 auth-register-gat.aerius.nl
 link.aerius.nl
 imaer.aerius.nl
@@ -17,3 +16,7 @@ calculator.aerius.nl
 register.aerius.nl
 regelingsondersteuning.aerius.nl
 docs.aerius.nl
+docs-dev.aerius.nl
+docs-staging.aerius.nl
+grafana-dev.aerius.nl
+www-staging.aerius.nl

@@ -2,3 +2,4 @@ feeds.innovatiex.nl
 innovatiex.nl
 opendata.innovatiex.nl
 www.innovatiex.nl
+expo.innovatiex.nl

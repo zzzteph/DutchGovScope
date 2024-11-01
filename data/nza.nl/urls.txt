@@ -33,4 +33,4 @@ https://zorgproducten-acc.nza.nl
 https://zorgproducten-test.nza.nl
 https://zorgproducten.nza.nl
 https://aanvragen-acc.nza.nl
-https://mijn.nza.nl
+http://mijn.nza.nl

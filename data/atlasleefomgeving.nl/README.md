@@ -11,7 +11,7 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/atlasleefomgeving.nl/subdomains.txt)|4|Alive subdomains|
+|[subdomains.txt](/data/atlasleefomgeving.nl/subdomains.txt)|3|Alive subdomains|
 |[urls.txt](/data/atlasleefomgeving.nl/urls.txt)|3|Urls|
 
 

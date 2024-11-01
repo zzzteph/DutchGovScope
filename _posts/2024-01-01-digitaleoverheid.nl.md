@@ -2,8 +2,8 @@
 layout: default
 title: "digitaleoverheid.nl"
 permalink: "/dutchgov/digitaleoverheid.nl.html"
-subdomains_count: 4
-urls_count: 4
+subdomains_count: 5
+urls_count: 5
 ssl_rank: 
 http_rank: C
 security_txt: 2
@@ -25,8 +25,8 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/digitaleoverheid.nl/subdomains.txt)|4|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/digitaleoverheid.nl/urls.txt)|4|Urls|
+|[subdomains.txt](/DutchGovScope/data/digitaleoverheid.nl/subdomains.txt)|5|Alive subdomains|
+|[urls.txt](/DutchGovScope/data/digitaleoverheid.nl/urls.txt)|5|Urls|
 
 
 ## Statistics
@@ -38,5 +38,6 @@ tags: dutchgov
 |[https://accept.digitaleoverheid.nl](https://accept.digitaleoverheid.nl)| | **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |Basic HSTS Nginx|401 Authorizatio...|
 |[https://digitaleoverheid.nl](https://digitaleoverheid.nl)| | **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS MySQL Nginx PHP:8.2.24 WordPress||
 |[https://www.digitaleoverheid.nl](https://www.digitaleoverheid.nl)| | **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS MySQL Nginx PHP:8.2.24 WordPress:6.6.2 Yoast SEO:23.6|Home - Digitale...|
+|[http://autodiscover.digitaleoverheid.nl](http://autodiscover.digitaleoverheid.nl)| | **C**|Microsoft-IIS/10.0| |:white_check_mark: | | | | | | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server||
 
 

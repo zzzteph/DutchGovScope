@@ -1,4 +1,5 @@
 https://cmsintranet.scp.nl
+https://intranet.scp.nl
 https://digitaal.scp.nl
 https://digital.scp.nl
 https://dwo.scp.nl
@@ -11,6 +12,8 @@ https://opendata.english.scp.nl
 https://testmail.scp.nl
 https://mail.scp.nl
 https://repository.scp.nl
+http://test-cmsintranet.scp.nl
+http://test-intranet.scp.nl
 http://autodiscover.scp.nl
 https://download.mail.scp.nl
 https://feeds.scp.nl

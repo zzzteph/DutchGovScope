@@ -2,3 +2,4 @@ https://idtappa01.sscict.nl
 https://idtappp01.sscict.nl
 https://sscict.nl
 https://www.sscict.nl
+http://localhost.sscict.nl

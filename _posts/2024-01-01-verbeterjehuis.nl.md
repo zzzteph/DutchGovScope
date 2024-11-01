@@ -2,8 +2,8 @@
 layout: default
 title: "verbeterjehuis.nl"
 permalink: "/dutchgov/verbeterjehuis.nl.html"
-subdomains_count: 18
-urls_count: 17
+subdomains_count: 19
+urls_count: 19
 ssl_rank: 
 http_rank: B
 security_txt: 0
@@ -25,8 +25,8 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/verbeterjehuis.nl/subdomains.txt)|18|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/verbeterjehuis.nl/urls.txt)|17|Urls|
+|[subdomains.txt](/DutchGovScope/data/verbeterjehuis.nl/subdomains.txt)|19|Alive subdomains|
+|[urls.txt](/DutchGovScope/data/verbeterjehuis.nl/urls.txt)|19|Urls|
 
 
 ## Statistics
@@ -51,5 +51,7 @@ tags: dutchgov
 |[https://test-cms.verbeterjehuis.nl](https://test-cms.verbeterjehuis.nl)| | **C**|cloudflare| |:white_check_mark: | | | | | | :white_check_mark: | |Cloudflare HSTS|Document Moved|
 |[https://test-content.verbeterjehuis.nl](https://test-content.verbeterjehuis.nl)| | **B**|cloudflare| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Cloudflare HSTS|Attention Requir...|
 |[https://content.verbeterjehuis.nl](https://content.verbeterjehuis.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Azure Azure Monitor HSTS||
+|[https://energyportpeelland.verbeterjehuis.nl](https://energyportpeelland.verbeterjehuis.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Microsoft Azure...|
+|[http://localhost.verbeterjehuis.nl](http://localhost.verbeterjehuis.nl)| | **F**|nginx|:o: | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Laravel Nginx PHP|Weakpass|
 
 

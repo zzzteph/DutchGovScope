@@ -21,12 +21,12 @@
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[https://admin.tbadmin.dev.kvk.nl](https://admin.tbadmin.dev.kvk.nl)| | **A**|Unknown| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS|404 Not Found|
-|[https://idp.dev.kvk.nl](https://idp.dev.kvk.nl)| | **A**|Unknown| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS|404 Not Found|
+|[https://idp.dev.kvk.nl](https://idp.dev.kvk.nl)| | **A**|Unknown| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |Google Tag Manager HSTS|Toegang geweiger...|
 |[https://tbadmin.dev.kvk.nl](https://tbadmin.dev.kvk.nl)| | **C**|Unknown| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|404 Not Found|
 |[https://admin.tbadmin.kvk.nl](https://admin.tbadmin.kvk.nl)| | **A**|Unknown| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS|403 Forbidden|
 |[https://tbadmin.kvk.nl](https://tbadmin.kvk.nl)| | **A**|Unknown| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS|403 Forbidden|
 |[https://admin.tbadmin.npo.kvk.nl](https://admin.tbadmin.npo.kvk.nl)| | **F**|Unknown| | | | | | | | :white_check_mark: | |HSTS|403 Forbidden|
-|[https://idp.npo.kvk.nl](https://idp.npo.kvk.nl)| | **A**|Unknown| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS|403 Forbidden|
+|[https://idp.npo.kvk.nl](https://idp.npo.kvk.nl)| | **A**|Unknown| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |Google Tag Manager HSTS|Toegang geweiger...|
 |[https://tbadmin.npo.kvk.nl](https://tbadmin.npo.kvk.nl)| | **A**|Unknown| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS|403 Forbidden|
 |[https://zoeken.ondernemersplein.kvk.nl](https://zoeken.ondernemersplein.kvk.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
 |[https://api.ondernemersplein.kvk.nl](https://api.ondernemersplein.kvk.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||

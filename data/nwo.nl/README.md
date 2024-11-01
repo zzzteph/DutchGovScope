@@ -28,7 +28,7 @@
 |[https://impacttest.nwo.nl](https://impacttest.nwo.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|301 Moved Perman...|
 |[https://intranet.nwo.nl](https://intranet.nwo.nl)| | **A**|Apache|:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS|- Joost|
 |[https://matomo.nwo.nl](https://matomo.nwo.nl)| | **E**|Apache|:white_check_mark: | | | |:warning: | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server Matomo Analytics|Sign in - Matomo|
-|[https://intranet-acc.nwo.nl](https://intranet-acc.nwo.nl)| | **A**|Apache|:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS||
+|[https://intranet-acc.nwo.nl](https://intranet-acc.nwo.nl)| | **B**|Apache|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS||
 |[https://isaac.nwo.nl](https://isaac.nwo.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
 |[https://www.isaac.nwo.nl](https://www.isaac.nwo.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
 |[https://mailing.nwo.nl](https://mailing.nwo.nl)| | **A**|nginx| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||

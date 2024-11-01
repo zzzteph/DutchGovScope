@@ -12,7 +12,7 @@
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/riec.nl/subdomains.txt)|8|Alive subdomains|
-|[urls.txt](/data/riec.nl/urls.txt)|7|Urls|
+|[urls.txt](/data/riec.nl/urls.txt)|8|Urls|
 
 
 ## Statistics
@@ -27,5 +27,6 @@
 |[https://www.riec.nl](https://www.riec.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|De RIEC's en het...|
 |[https://mail.riec.nl](https://mail.riec.nl)| | **F**|Apache/2.0.52| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.0.52||
 |[https://mdm.zwb.riec.nl](https://mdm.zwb.riec.nl)| | **F**|server| | | | | | | | :white_check_mark: | ||302 Found|
+|[https://autoconfig.riec.nl](https://autoconfig.riec.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|400 Bad Request|
 
 

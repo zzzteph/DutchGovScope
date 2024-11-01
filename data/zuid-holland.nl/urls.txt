@@ -68,3 +68,5 @@ https://natura2000-data.zuid-holland.nl
 https://preprod-belastingen.zuid-holland.nl
 https://subsidieportaal.zuid-holland.nl
 https://virtueel.zuid-holland.nl
+https://css.openstad.zuid-holland.nl
+https://auth.openstad.zuid-holland.nl

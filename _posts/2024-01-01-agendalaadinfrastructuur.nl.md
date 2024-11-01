@@ -2,10 +2,10 @@
 layout: default
 title: "agendalaadinfrastructuur.nl"
 permalink: "/dutchgov/agendalaadinfrastructuur.nl.html"
-subdomains_count: 2
-urls_count: 2
+subdomains_count: 0
+urls_count: 0
 ssl_rank: 
-http_rank: E
+http_rank: F
 security_txt: 0
 url_link: /data/agendalaadinfrastructuur.nl/urls.txt
 subdomains_link: /data/agendalaadinfrastructuur.nl/subdomains.txt
@@ -19,14 +19,14 @@ tags: dutchgov
 
 
  - **SSL Grade**:
- - **HTTP Security Grade**:E
+ - **HTTP Security Grade**:F
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:0
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/agendalaadinfrastructuur.nl/subdomains.txt)|2|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/agendalaadinfrastructuur.nl/urls.txt)|2|Urls|
+|[subdomains.txt](/DutchGovScope/data/agendalaadinfrastructuur.nl/subdomains.txt)|0|Alive subdomains|
+|[urls.txt](/DutchGovScope/data/agendalaadinfrastructuur.nl/urls.txt)|0|Urls|
 
 
 ## Statistics
@@ -34,7 +34,5 @@ tags: dutchgov
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://agendalaadinfrastructuur.nl](https://agendalaadinfrastructuur.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Object moved|
-|[https://www.agendalaadinfrastructuur.nl](https://www.agendalaadinfrastructuur.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Object moved|
 
 

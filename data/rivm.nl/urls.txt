@@ -5,7 +5,6 @@ https://chemkap-oud.rivm.nl
 http://acc-bestellingen.rivm.nl
 http://acc-duvo-web-api.rivm.nl
 http://acc-isis-ar-rapportage.rivm.nl
-http://acc-jira.rivm.nl
 https://dev-lsp.rivm.nl
 https://mcra-training.rivm.nl
 https://tst-lsp.rivm.nl
@@ -135,7 +134,6 @@ https://drupal.rivm.nl
 https://duvo-web-api.rivm.nl
 https://dwo.rivm.nl
 https://esp-ext.rivm.nl
-http://esp-test-ext.rivm.nl
 http://ewrs-oud.rivm.nl
 https://expertrolesqsort.rivm.nl
 https://ezips-app.rivm.nl
@@ -159,13 +157,11 @@ http://incidentapprivmacc.rivm.nl
 https://influxg.rivm.nl
 https://influxs.rivm.nl
 http://inspire.rivm.nl
-http://jira.rivm.nl
 https://kiddi.rivm.nl
 https://lci.rivm.nl
 https://leren.rivm.nl
 https://lmm.rivm.nl
 https://login-ext.rivm.nl
-http://login-test-ext.rivm.nl
 https://login.rivm.nl
 https://uzi.rivm.nl
 https://longcovid.rivm.nl
@@ -208,7 +204,6 @@ https://rivm.nl
 https://rvs-beheer.rivm.nl
 https://rvs.rivm.nl
 https://rvszoeksysteem.rivm.nl
-http://sars2-kiemsurveillance.rivm.nl
 http://secure-acceptatie.grip.rivm.nl
 https://secure.grip.rivm.nl
 https://secure.rivm.nl
@@ -242,13 +237,11 @@ https://webservice.prezies.osiris.rivm.nl
 https://webservice.sniv.osiris.rivm.nl
 https://webservice.cdif.osiris.rivm.nl
 https://www.lml.rivm.nl
-http://acceptatie.mrsa.rivm.nl
 https://ggdiamdemo.rivm.nl
 http://acceptatie.soap.osiris.rivm.nl
 http://macotra.rivm.nl
 http://typened-cpe.rivm.nl
 http://www.typened-cpe-demo.rivm.nl
-http://esp2-ext.rivm.nl
 http://gemini.rivm.nl
 https://www.lci.rivm.nl
 http://lims.rivm.nl
@@ -262,3 +255,8 @@ http://tijdlijnencovid19.rivm.nl
 https://vacatiegelden.rivm.nl
 https://webservice.signalen.osiris.rivm.nl
 https://webservice.soap.osiris.rivm.nl
+http://acceptatie.mgk.osiris.rivm.nl
+https://ivac.rivm.nl
+https://developer.rivm.nl
+https://lsp.rivm.nl
+http://spoor.rivm.nl

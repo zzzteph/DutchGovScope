@@ -2,11 +2,11 @@
 layout: default
 title: "vallei-veluwe.nl"
 permalink: "/dutchgov/vallei-veluwe.nl.html"
-subdomains_count: 11
-urls_count: 11
+subdomains_count: 15
+urls_count: 14
 ssl_rank: 
 http_rank: C
-security_txt: 4
+security_txt: 5
 url_link: /data/vallei-veluwe.nl/urls.txt
 subdomains_link: /data/vallei-veluwe.nl/subdomains.txt
 categories: dutchgov
@@ -20,13 +20,13 @@ tags: dutchgov
 
  - **SSL Grade**:
  - **HTTP Security Grade**:C
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:4
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:5
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/vallei-veluwe.nl/subdomains.txt)|11|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/vallei-veluwe.nl/urls.txt)|11|Urls|
+|[subdomains.txt](/DutchGovScope/data/vallei-veluwe.nl/subdomains.txt)|15|Alive subdomains|
+|[urls.txt](/DutchGovScope/data/vallei-veluwe.nl/urls.txt)|14|Urls|
 
 
 ## Statistics
@@ -39,11 +39,14 @@ tags: dutchgov
 |[https://redactie.vallei-veluwe.nl](https://redactie.vallei-veluwe.nl)| | **B**|-|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:-|Object moved|
 |[https://vallei-veluwe.nl](https://vallei-veluwe.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:-|Object moved|
 |[https://www.vallei-veluwe.nl](https://www.vallei-veluwe.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:-|Home - Vallei en...|
-|[https://nc-openbaar.vallei-veluwe.nl](https://nc-openbaar.vallei-veluwe.nl)| | **F**|-| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET:-|Document Moved|
+|[https://nc-openbaar.vallei-veluwe.nl](https://nc-openbaar.vallei-veluwe.nl)| | **E**|-| | | | | | :white_check_mark: | | :white_check_mark: | |HSTS Microsoft ASP.NET:-|Document Moved|
 |[https://planonprod.vallei-veluwe.nl](https://planonprod.vallei-veluwe.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||
 |[https://neuronprod.vallei-veluwe.nl](https://neuronprod.vallei-veluwe.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||
 |[https://neurontest.vallei-veluwe.nl](https://neurontest.vallei-veluwe.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||
 |[https://tmx.vallei-veluwe.nl](https://tmx.vallei-veluwe.nl)| | **C**||:warning: |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |F5 BigIP HSTS||
 |[https://werkplek.vallei-veluwe.nl](https://werkplek.vallei-veluwe.nl)| | **C**||:warning: |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |F5 BigIP HSTS||
+|[https://enterpriseenrollment.vallei-veluwe.nl](https://enterpriseenrollment.vallei-veluwe.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||
+|[https://protect.vallei-veluwe.nl](https://protect.vallei-veluwe.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||
+|[https://vdi.vallei-veluwe.nl](https://vdi.vallei-veluwe.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||
 
 

@@ -69,3 +69,5 @@ preprod-belastingen.zuid-holland.nl
 subsidieportaal.zuid-holland.nl
 virtueel.zuid-holland.nl
 css.openstad.zuid-holland.nl
+auth.openstad.zuid-holland.nl
+admin.openstad.zuid-holland.nl

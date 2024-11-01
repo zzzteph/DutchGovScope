@@ -32,6 +32,7 @@ feeds.cibg.nl
 opendata.cibg.nl
 www.cibg.nl
 lir.cibg.nl
+meldingen.klopt.cibg.nl
 portaal.competent.cibg.nl
 portaal.digilevering.cibg.nl
 prototype.cibg.nl

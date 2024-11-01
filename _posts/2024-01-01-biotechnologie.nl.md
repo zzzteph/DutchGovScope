@@ -2,7 +2,7 @@
 layout: default
 title: "biotechnologie.nl"
 permalink: "/dutchgov/biotechnologie.nl.html"
-subdomains_count: 2
+subdomains_count: 7
 urls_count: 2
 ssl_rank: 
 http_rank: A
@@ -25,7 +25,7 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/biotechnologie.nl/subdomains.txt)|2|Alive subdomains|
+|[subdomains.txt](/DutchGovScope/data/biotechnologie.nl/subdomains.txt)|7|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/biotechnologie.nl/urls.txt)|2|Urls|
 
 

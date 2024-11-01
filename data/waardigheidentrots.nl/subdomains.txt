@@ -5,3 +5,5 @@ m906.waardigheidentrots.nl
 registratie.waardigheidentrots.nl
 www.waardigheidentrots.nl
 portaal.waardigheidentrots.nl
+api.waardigheidentrots.nl
+cms.waardigheidentrots.nl

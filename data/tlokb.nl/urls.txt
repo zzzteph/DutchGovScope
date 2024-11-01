@@ -6,3 +6,7 @@ https://register.tlokb.nl
 https://cms.tlokb.nl
 https://prod.tlokb.nl
 https://register-backend.tlokb.nl
+https://acc.tlokb.nl
+https://cms-acc.tlokb.nl
+https://cms-test.tlokb.nl
+https://test.tlokb.nl

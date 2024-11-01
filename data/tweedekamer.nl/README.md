@@ -6,13 +6,13 @@
 
  - **SSL Grade**:
  - **HTTP Security Grade**:C
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:76
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:77
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/tweedekamer.nl/subdomains.txt)|137|Alive subdomains|
-|[urls.txt](/data/tweedekamer.nl/urls.txt)|130|Urls|
+|[subdomains.txt](/data/tweedekamer.nl/subdomains.txt)|138|Alive subdomains|
+|[urls.txt](/data/tweedekamer.nl/urls.txt)|138|Urls|
 
 
 ## Statistics
@@ -87,6 +87,7 @@
 |[https://houseofrepresentatives.test.tweedekamer.nl](https://houseofrepresentatives.test.tweedekamer.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |Basic HSTS|401 Authorizatio...|
 |[https://lijstvangevallenen.acceptatie.tweedekamer.nl](https://lijstvangevallenen.acceptatie.tweedekamer.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|403 Forbidden|
 |[https://lijstvangevallenen.test.tweedekamer.nl](https://lijstvangevallenen.test.tweedekamer.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|403 Forbidden|
+|[https://opendata.acceptatie.tweedekamer.nl](https://opendata.acceptatie.tweedekamer.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|403 Forbidden|
 |[https://opendata.test.tweedekamer.nl](https://opendata.test.tweedekamer.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|403 Forbidden|
 |[https://werkenbij.acceptatie.tweedekamer.nl](https://werkenbij.acceptatie.tweedekamer.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|403 Forbidden|
 |[https://livestream-backup.tweedekamer.nl](https://livestream-backup.tweedekamer.nl)| | **F**|ECAcc (ska/F775)| | | | | | | | :white_check_mark: | |Azure Azure CDN|Your Azure Funct...|
@@ -146,9 +147,16 @@
 |[https://bibliotheek-test.tweedekamer.nl](https://bibliotheek-test.tweedekamer.nl)| | **F**|Microsoft-IIS/10.0| | | | | | | | :white_check_mark: | |IIS:10.0 Windows Server|404 - File or di...|
 |[https://bibliotheek.tweedekamer.nl](https://bibliotheek.tweedekamer.nl)| | **F**|Microsoft-IIS/10.0| | | | | | | | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server|404 - File or di...|
 |[https://livestreaming-thumb.b67v2.tweedekamer.nl](https://livestreaming-thumb.b67v2.tweedekamer.nl)| | **F**|Kestrel|:white_check_mark: | | | | | | | :white_check_mark: | |Azure Kestrel Microsoft ASP.NET||
+|[https://livestreaming-thumb.b67buv2.tweedekamer.nl](https://livestreaming-thumb.b67buv2.tweedekamer.nl)| | **F**|Kestrel|:white_check_mark: | | | | | | | :white_check_mark: | |Azure Kestrel Microsoft ASP.NET||
 |[https://livestreaming.b67buv2.tweedekamer.nl](https://livestreaming.b67buv2.tweedekamer.nl)| | **F**|ECAcc (ska/F775)| | | | | | | | :white_check_mark: | |Azure Azure CDN|Your Azure Funct...|
 |[https://livestream-media.tweedekamer.nl](https://livestream-media.tweedekamer.nl)| | **F**|ECAcc (amb/6B53)| | | | | | | | :white_check_mark: | |Azure Azure CDN|504 - Gateway Ti...|
 |[https://livestreaming.b67v2.tweedekamer.nl](https://livestreaming.b67v2.tweedekamer.nl)| | **F**|ECAcc (ska/F775)| | | | | | | | :white_check_mark: | |Azure Azure CDN|Your Azure Funct...|
 |[http://mijn.tweedekamer.nl](http://mijn.tweedekamer.nl)| | **F**|BigIP| | | | | | | | :white_check_mark: | |F5 BigIP||
+|[https://sesam.tweedekamer.nl](https://sesam.tweedekamer.nl)| | **B**|BigIP|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |F5 BigIP||
+|[https://cognos.tweedekamer.nl](https://cognos.tweedekamer.nl)| | **F**|BigIP| | | | | | | | :white_check_mark: | |F5 BigIP||
+|[https://enterpriseenrollment.tweedekamer.nl](https://enterpriseenrollment.tweedekamer.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||
+|[https://enterpriseregistration.tweedekamer.nl](https://enterpriseregistration.tweedekamer.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
+|[http://localhost.tweedekamer.nl](http://localhost.tweedekamer.nl)| | **F**|nginx|:o: | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Laravel Nginx PHP|Weakpass|
+|[https://msoid.tweedekamer.nl](https://msoid.tweedekamer.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Object moved|
 
 

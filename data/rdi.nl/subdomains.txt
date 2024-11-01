@@ -10,4 +10,5 @@ mijn.rdi.nl
 onderzoek.rdi.nl
 prod.radar.rdi.nl
 radar.rdi.nl
+uploadmodule.rdi.nl
 rdi.nl

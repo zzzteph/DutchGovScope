@@ -2,7 +2,7 @@
 layout: default
 title: "mobilitylab.nl"
 permalink: "/dutchgov/mobilitylab.nl.html"
-subdomains_count: 2
+subdomains_count: 5
 urls_count: 2
 ssl_rank: 
 http_rank: F
@@ -25,7 +25,7 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/mobilitylab.nl/subdomains.txt)|2|Alive subdomains|
+|[subdomains.txt](/DutchGovScope/data/mobilitylab.nl/subdomains.txt)|5|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/mobilitylab.nl/urls.txt)|2|Urls|
 
 

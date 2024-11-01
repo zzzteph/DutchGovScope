@@ -287,7 +287,6 @@ web01.huygens.knaw.nl
 beta.buitenlandsebetrekkingen.huygens.knaw.nl
 beta.nmgn.huygens.knaw.nl
 bgb.resources.huygens.knaw.nl
-resources.huygens.knaw.nl
 bioinf.nioo.knaw.nl
 bodemdierendag.nioo.knaw.nl
 booking.nin.knaw.nl
@@ -374,9 +373,6 @@ mfproxy01.knaw.nl
 munki01.knaw.nl
 munki.knaw.nl
 ninweb.knaw.nl
-osso-t.knaw.nl
-ossooam-t.knaw.nl
-taoracleapp21.knaw.nl
 password.knaw.nl
 pdvnl31.dans.knaw.nl
 pure.knaw.nl
@@ -426,7 +422,6 @@ tjalie-robinson.huygens.knaw.nl
 pages.bioinf.nioo.knaw.nl
 gitlab.huc.knaw.nl
 osso-a.knaw.nl
-ebs-t.knaw.nl
 knaw.nl
 nias.knaw.nl
 pureacc.knaw.nl
@@ -475,3 +470,11 @@ vangogh-tiles.dev.huc.knaw.nl
 ivanticsa01.knaw.nl
 tmfiles.knaw.nl
 sweb11.dans.knaw.nl
+tiler01.huygensinstituut.knaw.nl
+adminer.wordpress.dans.knaw.nl
+emailsanitizer.labs.dans.knaw.nl
+fairaware-api.labs.dans.knaw.nl
+galaxy.bioinf.nioo.knaw.nl
+metadata-enhancer.labs.dans.knaw.nl
+subsite.nioo-acc.knaw.nl
+flippinglakes.nioo.knaw.nl

@@ -126,3 +126,4 @@ login-dr.dnb.nl
 tz-uitvragen-tst.dnb.nl
 stepui.azure.dnb.nl
 muntvondsten.dnb.nl
+mijn-dr.dnb.nl

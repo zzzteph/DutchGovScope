@@ -2,7 +2,7 @@
 layout: default
 title: "collectienederland.nl"
 permalink: "/dutchgov/collectienederland.nl.html"
-subdomains_count: 4
+subdomains_count: 6
 urls_count: 4
 ssl_rank: 
 http_rank: F
@@ -25,7 +25,7 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/collectienederland.nl/subdomains.txt)|4|Alive subdomains|
+|[subdomains.txt](/DutchGovScope/data/collectienederland.nl/subdomains.txt)|6|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/collectienederland.nl/urls.txt)|4|Urls|
 
 

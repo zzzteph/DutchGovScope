@@ -57,7 +57,6 @@ confluenceimg.rvo.nl
 crowdtech.rvo.nl
 dcmp-upnl-idp.rvo.nl
 upnl-idp.rvo.nl
-e-learning.rvo.nl
 egeo.rvo.nl
 emobility.rvo.nl
 energieslag.rvo.nl
@@ -105,7 +104,6 @@ europese-subsidies.rvo.nl
 cta.rvo.nl
 dcmp-upnl-idp-acc.rvo.nl
 economicdiplomacy.rvo.nl
-edicrop-acc.rvo.nl
 edicrop.rvo.nl
 gdi-b.rvo.nl
 ih-static.rvo.nl

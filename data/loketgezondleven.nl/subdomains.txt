@@ -5,3 +5,4 @@ toolkits.loketgezondleven.nl
 acceptatie.loketgezondleven.nl
 prerelease.loketgezondleven.nl
 test.loketgezondleven.nl
+localhost.loketgezondleven.nl

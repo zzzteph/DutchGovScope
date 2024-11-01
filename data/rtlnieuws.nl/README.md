@@ -12,7 +12,7 @@
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/rtlnieuws.nl/subdomains.txt)|7|Alive subdomains|
-|[urls.txt](/data/rtlnieuws.nl/urls.txt)|5|Urls|
+|[urls.txt](/data/rtlnieuws.nl/urls.txt)|7|Urls|
 
 
 ## Statistics
@@ -25,5 +25,7 @@
 |[https://rtlnieuws.nl](https://rtlnieuws.nl)| | **C**|Microsoft-Azure-Application-Gateway/v2| |:white_check_mark: | :warning:| | | :white_check_mark: | | :white_check_mark: | ||301 Moved Perman...|
 |[https://sso.rtlnieuws.nl](https://sso.rtlnieuws.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://www.rtlnieuws.nl](https://www.rtlnieuws.nl)| | **C**|AkamaiGHost| |:white_check_mark: | :warning:| | | :white_check_mark: | | :white_check_mark: | |||
+|[https://dev-beta.rtlnieuws.nl](https://dev-beta.rtlnieuws.nl)| | **F**|AkamaiGHost| | | | | | | | :white_check_mark: | |Basic|Access Denied|
+|[https://prod.rtlnieuws.nl](https://prod.rtlnieuws.nl)| | **F**|AkamaiGHost| | | | | | | | :white_check_mark: | |Basic|Access Denied|
 
 

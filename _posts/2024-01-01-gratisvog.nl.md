@@ -2,11 +2,11 @@
 layout: default
 title: "gratisvog.nl"
 permalink: "/dutchgov/gratisvog.nl.html"
-subdomains_count: 8
-urls_count: 8
+subdomains_count: 7
+urls_count: 7
 ssl_rank: 
 http_rank: A
-security_txt: 8
+security_txt: 7
 url_link: /data/gratisvog.nl/urls.txt
 subdomains_link: /data/gratisvog.nl/subdomains.txt
 categories: dutchgov
@@ -20,13 +20,13 @@ tags: dutchgov
 
  - **SSL Grade**:
  - **HTTP Security Grade**:A
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:8
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:7
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/gratisvog.nl/subdomains.txt)|8|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/gratisvog.nl/urls.txt)|8|Urls|
+|[subdomains.txt](/DutchGovScope/data/gratisvog.nl/subdomains.txt)|7|Alive subdomains|
+|[urls.txt](/DutchGovScope/data/gratisvog.nl/urls.txt)|7|Urls|
 
 
 ## Statistics
@@ -41,6 +41,5 @@ tags: dutchgov
 |[https://feeds.gratisvog.nl](https://feeds.gratisvog.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://opendata.gratisvog.nl](https://opendata.gratisvog.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://www.gratisvog.nl](https://www.gratisvog.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Regeling voor vr...|
-|[https://gratisvog.nl](https://gratisvog.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
 
 

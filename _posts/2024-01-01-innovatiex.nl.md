@@ -2,10 +2,10 @@
 layout: default
 title: "innovatiex.nl"
 permalink: "/dutchgov/innovatiex.nl.html"
-subdomains_count: 4
-urls_count: 4
+subdomains_count: 5
+urls_count: 5
 ssl_rank: 
-http_rank: A
+http_rank: B
 security_txt: 4
 url_link: /data/innovatiex.nl/urls.txt
 subdomains_link: /data/innovatiex.nl/subdomains.txt
@@ -19,14 +19,14 @@ tags: dutchgov
 
 
  - **SSL Grade**:
- - **HTTP Security Grade**:A
+ - **HTTP Security Grade**:B
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:4
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/innovatiex.nl/subdomains.txt)|4|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/innovatiex.nl/urls.txt)|4|Urls|
+|[subdomains.txt](/DutchGovScope/data/innovatiex.nl/subdomains.txt)|5|Alive subdomains|
+|[urls.txt](/DutchGovScope/data/innovatiex.nl/urls.txt)|5|Urls|
 
 
 ## Statistics
@@ -38,5 +38,6 @@ tags: dutchgov
 |[https://innovatiex.nl](https://innovatiex.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
 |[https://opendata.innovatiex.nl](https://opendata.innovatiex.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://www.innovatiex.nl](https://www.innovatiex.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Home | Innovatie...|
+|[https://expo.innovatiex.nl](https://expo.innovatiex.nl)| | **F**|WebServer| | | | | | | | :white_check_mark: | |Bootstrap HSTS PHP||
 
 

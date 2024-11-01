@@ -2,8 +2,8 @@
 layout: default
 title: "mobiliteitsbank.nl"
 permalink: "/dutchgov/mobiliteitsbank.nl.html"
-subdomains_count: 11
-urls_count: 11
+subdomains_count: 12
+urls_count: 12
 ssl_rank: 
 http_rank: C
 security_txt: 6
@@ -25,8 +25,8 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/mobiliteitsbank.nl/subdomains.txt)|11|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/mobiliteitsbank.nl/urls.txt)|11|Urls|
+|[subdomains.txt](/DutchGovScope/data/mobiliteitsbank.nl/subdomains.txt)|12|Alive subdomains|
+|[urls.txt](/DutchGovScope/data/mobiliteitsbank.nl/urls.txt)|12|Urls|
 
 
 ## Statistics
@@ -45,5 +45,6 @@ tags: dutchgov
 |[https://vacaturezoekservice.mobiliteitsbank.nl](https://vacaturezoekservice.mobiliteitsbank.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
 |[https://vacaturezoekservice-acceptatie.mobiliteitsbank.nl](https://vacaturezoekservice-acceptatie.mobiliteitsbank.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[http://vacaturezoekservice-test.mobiliteitsbank.nl](http://vacaturezoekservice-test.mobiliteitsbank.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
+|[https://acceptatie.mobiliteitsbank.nl](https://acceptatie.mobiliteitsbank.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 
 

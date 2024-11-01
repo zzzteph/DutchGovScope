@@ -5,3 +5,9 @@ https://jouw.gezondeschool.nl
 http://sub.gezondeschool.nl
 http://acceptatie.gezondeschool.nl
 http://test.gezondeschool.nl
+http://autodiscover.gezondeschool.nl
+https://enterpriseenrollment.gezondeschool.nl
+https://enterpriseregistration.gezondeschool.nl
+https://info.gezondeschool.nl
+http://localhost.gezondeschool.nl
+https://msoid.gezondeschool.nl

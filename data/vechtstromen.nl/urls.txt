@@ -29,3 +29,8 @@ https://vaultfs.vechtstromen.nl
 https://support.vechtstromen.nl
 https://werkplek.vechtstromen.nl
 https://apps-dev.vechtstromen.nl
+https://enterpriseenrollment.vechtstromen.nl
+https://enterpriseregistration.vechtstromen.nl
+https://geoweb.vechtstromen.nl
+http://localhost.vechtstromen.nl
+https://topdesk-test.vechtstromen.nl

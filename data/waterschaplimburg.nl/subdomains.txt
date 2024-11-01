@@ -5,7 +5,6 @@ formulieren-preprod.waterschaplimburg.nl
 formulieren.waterschaplimburg.nl
 waterschaplimburg.nl
 inloggen-preprod.waterschaplimburg.nl
-metelkaar.waterschaplimburg.nl
 open.waterschaplimburg.nl
 spapps-t.waterschaplimburg.nl
 spapps.waterschaplimburg.nl
@@ -18,3 +17,10 @@ kennis.waterschaplimburg.nl
 inloggen.waterschaplimburg.nl
 mail.waterschaplimburg.nl
 maps.waterschaplimburg.nl
+autodiscover.waterschaplimburg.nl
+kennisbank.waterschaplimburg.nl
+wikixl-saml.waterschaplimburg.nl
+ftp.waterschaplimburg.nl
+voip.waterschaplimburg.nl
+vpn.waterschaplimburg.nl
+werkplek.waterschaplimburg.nl

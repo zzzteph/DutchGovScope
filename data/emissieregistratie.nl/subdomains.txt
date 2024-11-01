@@ -8,3 +8,4 @@ www.emissieregistratie.nl
 legacy.emissieregistratie.nl
 legacy2.emissieregistratie.nl
 previewnext.emissieregistratie.nl
+localhost.emissieregistratie.nl

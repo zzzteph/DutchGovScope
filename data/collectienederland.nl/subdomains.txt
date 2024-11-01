@@ -2,3 +2,5 @@ collectienederland.nl
 data.collectienederland.nl
 www.collectienederland.nl
 wo2.collectienederland.nl
+ftp.collectienederland.nl
+musea.collectienederland.nl

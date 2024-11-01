@@ -29,3 +29,8 @@ vaultfs.vechtstromen.nl
 support.vechtstromen.nl
 werkplek.vechtstromen.nl
 apps-dev.vechtstromen.nl
+enterpriseenrollment.vechtstromen.nl
+enterpriseregistration.vechtstromen.nl
+geoweb.vechtstromen.nl
+localhost.vechtstromen.nl
+topdesk-test.vechtstromen.nl

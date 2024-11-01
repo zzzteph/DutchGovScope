@@ -2,7 +2,7 @@
 layout: default
 title: "mindergrondrisico.nl"
 permalink: "/dutchgov/mindergrondrisico.nl.html"
-subdomains_count: 3
+subdomains_count: 6
 urls_count: 3
 ssl_rank: 
 http_rank: B
@@ -25,7 +25,7 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/mindergrondrisico.nl/subdomains.txt)|3|Alive subdomains|
+|[subdomains.txt](/DutchGovScope/data/mindergrondrisico.nl/subdomains.txt)|6|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/mindergrondrisico.nl/urls.txt)|3|Urls|
 
 

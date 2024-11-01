@@ -12,7 +12,7 @@ https://nvwa.nl
 https://opendata.english.nvwa.nl
 https://opendata.nvwa.nl
 https://forms-acc.nvwa.nl
-https://formulieren-acc.nvwa.nl
+http://formulieren-acc.nvwa.nl
 https://formulieren.nvwa.nl
 https://inspectieresultaten.nvwa.nl
 https://openbare-inspectieresultaten.nvwa.nl

@@ -57,7 +57,6 @@ https://confluenceimg.rvo.nl
 https://crowdtech.rvo.nl
 https://dcmp-upnl-idp.rvo.nl
 https://upnl-idp.rvo.nl
-http://e-learning.rvo.nl
 https://egeo.rvo.nl
 https://emobility.rvo.nl
 https://energieslag.rvo.nl
@@ -66,7 +65,7 @@ https://kennisdelen.rvo.nl
 https://networkabroad.rvo.nl
 https://offshorewind.rvo.nl
 https://sharingknowledge.rvo.nl
-http://epbdwebservices-preprod.rvo.nl
+https://epbdwebservices-preprod.rvo.nl
 https://epbdwebservices.rvo.nl
 http://gbatmv.rvo.nl
 https://gdi-a.rvo.nl
@@ -76,7 +75,7 @@ https://gtpa-acc.rvo.nl
 https://gtpa.rvo.nl
 https://infographics.rvo.nl
 https://www.infographics.rvo.nl
-https://intra-cms-acc.rvo.nl
+http://intra-cms-acc.rvo.nl
 https://intra-cms.rvo.nl
 https://intra.rvo.nl
 https://jiraimg-acc.rvo.nl
@@ -96,6 +95,7 @@ https://upnl-idp-acc.rvo.nl
 https://upnl.mijn.rvo.nl
 https://wba-acc.rvo.nl
 https://wba.rvo.nl
+https://webform.rvo.nl
 https://test-cms.projects.rvo.nl
 https://test-cms.projecten.rvo.nl
 https://vault-preprod.efiling.mijnoctrooi.rvo.nl
@@ -104,10 +104,11 @@ https://europese-subsidies.rvo.nl
 https://cta.rvo.nl
 https://dcmp-upnl-idp-acc.rvo.nl
 https://economicdiplomacy.rvo.nl
-https://edicrop-acc.rvo.nl
 https://edicrop.rvo.nl
 https://gdi-b.rvo.nl
 https://ih-static.rvo.nl
 https://kostenkentallen.rvo.nl
 https://rhel-p-mijn.rvo.nl
 http://rhel-np-mijn.rvo.nl
+https://sandbox.rvo.nl
+https://redesign.rvo.nl

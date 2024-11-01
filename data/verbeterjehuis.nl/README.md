@@ -11,8 +11,8 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/verbeterjehuis.nl/subdomains.txt)|18|Alive subdomains|
-|[urls.txt](/data/verbeterjehuis.nl/urls.txt)|17|Urls|
+|[subdomains.txt](/data/verbeterjehuis.nl/subdomains.txt)|19|Alive subdomains|
+|[urls.txt](/data/verbeterjehuis.nl/urls.txt)|19|Urls|
 
 
 ## Statistics
@@ -37,5 +37,7 @@
 |[https://test-cms.verbeterjehuis.nl](https://test-cms.verbeterjehuis.nl)| | **C**|cloudflare| |:white_check_mark: | | | | | | :white_check_mark: | |Cloudflare HSTS|Document Moved|
 |[https://test-content.verbeterjehuis.nl](https://test-content.verbeterjehuis.nl)| | **B**|cloudflare| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Cloudflare HSTS|Attention Requir...|
 |[https://content.verbeterjehuis.nl](https://content.verbeterjehuis.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Azure Azure Monitor HSTS||
+|[https://energyportpeelland.verbeterjehuis.nl](https://energyportpeelland.verbeterjehuis.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Microsoft Azure...|
+|[http://localhost.verbeterjehuis.nl](http://localhost.verbeterjehuis.nl)| | **F**|nginx|:o: | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Laravel Nginx PHP|Weakpass|
 
 

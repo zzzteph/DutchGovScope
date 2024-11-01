@@ -1,4 +1,5 @@
 cmsintranet.scp.nl
+intranet.scp.nl
 digitaal.scp.nl
 digital.scp.nl
 dwo.scp.nl
@@ -11,6 +12,8 @@ opendata.english.scp.nl
 testmail.scp.nl
 mail.scp.nl
 repository.scp.nl
+test-cmsintranet.scp.nl
+test-intranet.scp.nl
 autodiscover.scp.nl
 download.mail.scp.nl
 feeds.scp.nl

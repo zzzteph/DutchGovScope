@@ -1,2 +1,3 @@
 https://rechtwijzer.nl
 https://www.rechtwijzer.nl
+http://localhost.rechtwijzer.nl

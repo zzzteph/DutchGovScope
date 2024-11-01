@@ -10,3 +10,4 @@ https://nederlandwereldwijd.nl
 https://preview.nederlandwereldwijd.nl
 https://www.nederlandwereldwijd.nl
 https://a-informatieservice.nederlandwereldwijd.nl
+http://dev.opendata.nederlandwereldwijd.nl

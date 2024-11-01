@@ -5,3 +5,5 @@ https://opendata.schoolleidersregisterpo.nl
 https://schoolleidersregisterpo.nl
 https://www.schoolleidersregisterpo.nl
 http://ftp.schoolleidersregisterpo.nl
+https://enterpriseenrollment.schoolleidersregisterpo.nl
+https://enterpriseregistration.schoolleidersregisterpo.nl

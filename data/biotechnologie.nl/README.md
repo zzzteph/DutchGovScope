@@ -11,7 +11,7 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/biotechnologie.nl/subdomains.txt)|2|Alive subdomains|
+|[subdomains.txt](/data/biotechnologie.nl/subdomains.txt)|7|Alive subdomains|
 |[urls.txt](/data/biotechnologie.nl/urls.txt)|2|Urls|
 
 

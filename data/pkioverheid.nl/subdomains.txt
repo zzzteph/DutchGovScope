@@ -1,6 +1,8 @@
 cert.pkioverheid.nl
+cp.pkioverheid.nl
 cps.pkioverheid.nl
 crl.pkioverheid.nl
 oid.pkioverheid.nl
 pkioverheid.nl
 por.pkioverheid.nl
+www.pkioverheid.nl

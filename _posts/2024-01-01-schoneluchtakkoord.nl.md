@@ -2,8 +2,8 @@
 layout: default
 title: "schoneluchtakkoord.nl"
 permalink: "/dutchgov/schoneluchtakkoord.nl.html"
-subdomains_count: 3
-urls_count: 3
+subdomains_count: 2
+urls_count: 2
 ssl_rank: 
 http_rank: A
 security_txt: 2
@@ -25,8 +25,8 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/schoneluchtakkoord.nl/subdomains.txt)|3|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/schoneluchtakkoord.nl/urls.txt)|3|Urls|
+|[subdomains.txt](/DutchGovScope/data/schoneluchtakkoord.nl/subdomains.txt)|2|Alive subdomains|
+|[urls.txt](/DutchGovScope/data/schoneluchtakkoord.nl/urls.txt)|2|Urls|
 
 
 ## Statistics
@@ -36,6 +36,5 @@ tags: dutchgov
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[https://schoneluchtakkoord.nl](https://schoneluchtakkoord.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Microsoft ASP.NET:-|Document Moved|
 |[https://www.schoneluchtakkoord.nl](https://www.schoneluchtakkoord.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:-|Home - Schone lu...|
-|[https://samenwerken.schoneluchtakkoord.nl](https://samenwerken.schoneluchtakkoord.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS|Object moved|
 
 

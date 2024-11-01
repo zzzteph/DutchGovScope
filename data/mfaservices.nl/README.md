@@ -30,7 +30,7 @@
 |[https://acc.esp.mfaservices.nl](https://acc.esp.mfaservices.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|403 Forbidden|
 |[https://acc.liferay.mfaservices.nl](https://acc.liferay.mfaservices.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|403 Forbidden|
 |[https://acc.nww.mfaservices.nl](https://acc.nww.mfaservices.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|403 Forbidden|
-|[https://consular-service.consular.mfaservices.nl](https://consular-service.consular.mfaservices.nl)| | **C**|cloudflare|:white_check_mark: |:white_check_mark: | | |:warning: | | | :white_check_mark: | |Azure Azure Front Door Cloudflare Cloudflare Bot Management HSTS|Consular Service...|
+|[https://consular-service.consular.mfaservices.nl](https://consular-service.consular.mfaservices.nl)| | **C**|cloudflare|:white_check_mark: |:white_check_mark: | | |:warning: | | | :white_check_mark: | |Azure Azure Front Door Cloudflare Cloudflare Bot Management HSTS Microsoft ASP.NET||
 |[https://snd.consular.mfaservices.nl](https://snd.consular.mfaservices.nl)| | **D**|cloudflare|:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | |Azure Azure Front Door Cloudflare Cloudflare Bot Management HSTS|Consular Service...|
 |[https://tst.consular-service.consular.mfaservices.nl](https://tst.consular-service.consular.mfaservices.nl)| | **D**|cloudflare|:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | |Azure Azure Front Door Cloudflare Cloudflare Bot Management HSTS|Consular Service...|
 |[https://snd.consular-service.consular.mfaservices.nl](https://snd.consular-service.consular.mfaservices.nl)| | **D**|cloudflare|:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | |Azure Azure Front Door Cloudflare Cloudflare Bot Management HSTS|Consular Service...|
@@ -50,9 +50,9 @@
 |[https://countrydashboard.mfaservices.nl](https://countrydashboard.mfaservices.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
 |[https://survey.datalab.mfaservices.nl](https://survey.datalab.mfaservices.nl)| | **F**|Apache|:white_check_mark: | | | | | | :white_check_mark: | :white_check_mark: | |Apache HTTP Server Bootstrap PHP|Datalab|
 |[https://dev.countrydashboard.mfaservices.nl](https://dev.countrydashboard.mfaservices.nl)| | **F**|nginx/1.26.1| | | | | | | | :white_check_mark: | |Bootstrap Nginx:1.26.1|Microsoft Azure...|
-|[https://dev.esp.mfaservices.nl](https://dev.esp.mfaservices.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|500 Proxy Error|
-|[https://dev.liferay.mfaservices.nl](https://dev.liferay.mfaservices.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|500 Proxy Error|
-|[https://dev.nww.mfaservices.nl](https://dev.nww.mfaservices.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|500 Proxy Error|
+|[https://dev.esp.mfaservices.nl](https://dev.esp.mfaservices.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|403 Forbidden|
+|[https://dev.liferay.mfaservices.nl](https://dev.liferay.mfaservices.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|403 Forbidden|
+|[https://dev.nww.mfaservices.nl](https://dev.nww.mfaservices.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|403 Forbidden|
 |[https://dev.protocol.mfaservices.nl](https://dev.protocol.mfaservices.nl)| | **C**||:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | |Azure HSTS||
 |[https://esp-api-management.dev-probas.mfaservices.nl](https://esp-api-management.dev-probas.mfaservices.nl)| | **A**|| |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://esp-api-portal.dev-probas.mfaservices.nl](https://esp-api-portal.dev-probas.mfaservices.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Azure HSTS|Home - Probas De...|
@@ -77,7 +77,7 @@
 |[https://tst.liferay.mfaservices.nl](https://tst.liferay.mfaservices.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|403 Forbidden|
 |[https://acc.fez.mfaservices.nl](https://acc.fez.mfaservices.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|403 Forbidden|
 |[https://dev-insights.mfaservices.nl](https://dev-insights.mfaservices.nl)| | **F**|Microsoft-Azure-Application-Gateway/v2| | | | | | | | :white_check_mark: | ||404 Not Found|
-|[https://dev.fez.mfaservices.nl](https://dev.fez.mfaservices.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|500 Proxy Error|
+|[https://dev.fez.mfaservices.nl](https://dev.fez.mfaservices.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|403 Forbidden|
 |[https://esp-api-management.acc-probas.mfaservices.nl](https://esp-api-management.acc-probas.mfaservices.nl)| | **A**|| |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://fez.mfaservices.nl](https://fez.mfaservices.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|404 Not Found|
 |[https://tst.fez.mfaservices.nl](https://tst.fez.mfaservices.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|403 Forbidden|

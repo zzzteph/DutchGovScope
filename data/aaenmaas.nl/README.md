@@ -5,14 +5,14 @@
 
 
  - **SSL Grade**:
- - **HTTP Security Grade**:B
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:5
+ - **HTTP Security Grade**:C
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:6
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/aaenmaas.nl/subdomains.txt)|13|Alive subdomains|
-|[urls.txt](/data/aaenmaas.nl/urls.txt)|13|Urls|
+|[subdomains.txt](/data/aaenmaas.nl/subdomains.txt)|21|Alive subdomains|
+|[urls.txt](/data/aaenmaas.nl/urls.txt)|20|Urls|
 
 
 ## Statistics
@@ -33,5 +33,12 @@
 |[https://login.aaenmaas.nl](https://login.aaenmaas.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS||
 |[https://vpn2.aaenmaas.nl](https://vpn2.aaenmaas.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://sip.aaenmaas.nl](https://sip.aaenmaas.nl)| | **C**|RTC/6.0| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
+|[https://gisservices.aaenmaas.nl](https://gisservices.aaenmaas.nl)| | **F**||:warning: | | | | | | | :white_check_mark: | |Microsoft ASP.NET|IIS Windows Serv...|
+|[https://luchtfoto.aaenmaas.nl](https://luchtfoto.aaenmaas.nl)| | **A**||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |||
+|[https://geoportal.aaenmaas.nl](https://geoportal.aaenmaas.nl)| | **F**||:warning: | | | | | | | :white_check_mark: | |Microsoft ASP.NET|IIS Windows Serv...|
+|[https://geoservices.aaenmaas.nl](https://geoservices.aaenmaas.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
+|[https://ucc.aaenmaas.nl](https://ucc.aaenmaas.nl)| | **C**|Microsoft-IIS/8.5| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS IIS:8.5 Microsoft ASP.NET Windows Server|IIS Windows Serv...|
+|[https://vpn.aaenmaas.nl](https://vpn.aaenmaas.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
+|[https://wik.aaenmaas.nl](https://wik.aaenmaas.nl)| | **E**|| | | | | | | | :white_check_mark: | |Application Request Routing:3.0 IIS|Redirecting...|
 
 

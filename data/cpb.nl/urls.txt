@@ -8,3 +8,5 @@ https://dwo.cpb.nl
 https://fed.cpb.nl
 https://fs.cpb.nl
 https://link.pr.cpb.nl
+https://airwatch-gw.cpb.nl
+https://sf.cpb.nl

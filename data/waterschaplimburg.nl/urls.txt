@@ -5,7 +5,6 @@ https://formulieren-preprod.waterschaplimburg.nl
 https://formulieren.waterschaplimburg.nl
 https://waterschaplimburg.nl
 https://inloggen-preprod.waterschaplimburg.nl
-https://metelkaar.waterschaplimburg.nl
 https://open.waterschaplimburg.nl
 https://spapps-t.waterschaplimburg.nl
 https://spapps.waterschaplimburg.nl
@@ -18,3 +17,10 @@ https://kennis.waterschaplimburg.nl
 https://inloggen.waterschaplimburg.nl
 https://mail.waterschaplimburg.nl
 https://maps.waterschaplimburg.nl
+https://autodiscover.waterschaplimburg.nl
+https://kennisbank.waterschaplimburg.nl
+https://wikixl-saml.waterschaplimburg.nl
+https://ftp.waterschaplimburg.nl
+https://voip.waterschaplimburg.nl
+https://vpn.waterschaplimburg.nl
+https://werkplek.waterschaplimburg.nl

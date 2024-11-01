@@ -2,8 +2,8 @@
 layout: default
 title: "gebruikercentraal.nl"
 permalink: "/dutchgov/gebruikercentraal.nl.html"
-subdomains_count: 48
-urls_count: 48
+subdomains_count: 49
+urls_count: 49
 ssl_rank: 
 http_rank: C
 security_txt: 35
@@ -25,8 +25,8 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/gebruikercentraal.nl/subdomains.txt)|48|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/gebruikercentraal.nl/urls.txt)|48|Urls|
+|[subdomains.txt](/DutchGovScope/data/gebruikercentraal.nl/subdomains.txt)|49|Alive subdomains|
+|[urls.txt](/DutchGovScope/data/gebruikercentraal.nl/urls.txt)|49|Urls|
 
 
 ## Statistics
@@ -82,5 +82,6 @@ tags: dutchgov
 |[https://duidelijk.gebruikercentraal.nl](https://duidelijk.gebruikercentraal.nl)| | **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Nginx PHP:8.2.24||
 |[https://test.optimaaldigitaal.gebruikercentraal.nl](https://test.optimaaldigitaal.gebruikercentraal.nl)| | **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |Basic HSTS Nginx|401 Unauthorized|
 |[https://inclusievedienstverlening.gebruikercentraal.nl](https://inclusievedienstverlening.gebruikercentraal.nl)| | **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Nginx PHP:8.1.30||
+|[http://autodiscover.gebruikercentraal.nl](http://autodiscover.gebruikercentraal.nl)| | **C**|Microsoft-IIS/10.0| |:white_check_mark: | | | | | | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server||
 
 

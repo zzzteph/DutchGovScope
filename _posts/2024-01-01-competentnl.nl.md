@@ -2,8 +2,8 @@
 layout: default
 title: "competentnl.nl"
 permalink: "/dutchgov/competentnl.nl.html"
-subdomains_count: 4
-urls_count: 4
+subdomains_count: 5
+urls_count: 5
 ssl_rank: 
 http_rank: A
 security_txt: 4
@@ -25,8 +25,8 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/competentnl.nl/subdomains.txt)|4|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/competentnl.nl/urls.txt)|4|Urls|
+|[subdomains.txt](/DutchGovScope/data/competentnl.nl/subdomains.txt)|5|Alive subdomains|
+|[urls.txt](/DutchGovScope/data/competentnl.nl/urls.txt)|5|Urls|
 
 
 ## Statistics
@@ -38,5 +38,6 @@ tags: dutchgov
 |[https://www.competentnl.nl](https://www.competentnl.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Home | Competent...|
 |[https://competentnl.nl](https://competentnl.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
 |[https://feeds.competentnl.nl](https://feeds.competentnl.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
+|[http://autodiscover.competentnl.nl](http://autodiscover.competentnl.nl)| | **C**|Microsoft-IIS/10.0| |:white_check_mark: | | | | | | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server||
 
 

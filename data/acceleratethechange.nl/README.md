@@ -11,7 +11,7 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/acceleratethechange.nl/subdomains.txt)|1|Alive subdomains|
+|[subdomains.txt](/data/acceleratethechange.nl/subdomains.txt)|4|Alive subdomains|
 |[urls.txt](/data/acceleratethechange.nl/urls.txt)|1|Urls|
 
 

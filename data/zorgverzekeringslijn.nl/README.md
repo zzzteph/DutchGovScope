@@ -11,8 +11,8 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/zorgverzekeringslijn.nl/subdomains.txt)|6|Alive subdomains|
-|[urls.txt](/data/zorgverzekeringslijn.nl/urls.txt)|6|Urls|
+|[subdomains.txt](/data/zorgverzekeringslijn.nl/subdomains.txt)|7|Alive subdomains|
+|[urls.txt](/data/zorgverzekeringslijn.nl/urls.txt)|7|Urls|
 
 
 ## Statistics
@@ -26,5 +26,6 @@
 |[https://test.trainingen.zorgverzekeringslijn.nl](https://test.trainingen.zorgverzekeringslijn.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Nginx|Redirecting to h...|
 |[https://trainingen.zorgverzekeringslijn.nl](https://trainingen.zorgverzekeringslijn.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Nginx|Redirecting to h...|
 |[https://zorgverzekeringslijn.nl](https://zorgverzekeringslijn.nl)| | **A**|Apache| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Apache HTTP Server HSTS|301 Moved Perman...|
+|[https://wiki.zorgverzekeringslijn.nl](https://wiki.zorgverzekeringslijn.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|Web Server's Def...|
 
 

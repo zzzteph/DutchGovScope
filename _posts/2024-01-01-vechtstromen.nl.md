@@ -2,11 +2,11 @@
 layout: default
 title: "vechtstromen.nl"
 permalink: "/dutchgov/vechtstromen.nl.html"
-subdomains_count: 31
-urls_count: 31
+subdomains_count: 36
+urls_count: 36
 ssl_rank: 
 http_rank: C
-security_txt: 10
+security_txt: 11
 url_link: /data/vechtstromen.nl/urls.txt
 subdomains_link: /data/vechtstromen.nl/subdomains.txt
 categories: dutchgov
@@ -20,13 +20,13 @@ tags: dutchgov
 
  - **SSL Grade**:
  - **HTTP Security Grade**:C
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:10
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:11
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/vechtstromen.nl/subdomains.txt)|31|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/vechtstromen.nl/urls.txt)|31|Urls|
+|[subdomains.txt](/DutchGovScope/data/vechtstromen.nl/subdomains.txt)|36|Alive subdomains|
+|[urls.txt](/DutchGovScope/data/vechtstromen.nl/urls.txt)|36|Urls|
 
 
 ## Statistics
@@ -65,5 +65,10 @@ tags: dutchgov
 |[https://support.vechtstromen.nl](https://support.vechtstromen.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://werkplek.vechtstromen.nl](https://werkplek.vechtstromen.nl)| | **D**||:warning: | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Microsoft ASP.NET||
 |[https://apps-dev.vechtstromen.nl](https://apps-dev.vechtstromen.nl)| | **B**||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS Microsoft ASP.NET|Login|
+|[https://enterpriseenrollment.vechtstromen.nl](https://enterpriseenrollment.vechtstromen.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||
+|[https://enterpriseregistration.vechtstromen.nl](https://enterpriseregistration.vechtstromen.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
+|[https://geoweb.vechtstromen.nl](https://geoweb.vechtstromen.nl)| | **A**|Microsoft-IIS/10.0| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS IIS:10.0 Microsoft ASP.NET Windows Server|Document Moved|
+|[http://localhost.vechtstromen.nl](http://localhost.vechtstromen.nl)| | **F**|nginx|:o: | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Laravel Nginx PHP|Weakpass|
+|[https://topdesk-test.vechtstromen.nl](https://topdesk-test.vechtstromen.nl)| | **F**|cloudflare| | | | | | | | :white_check_mark: | |Cloudflare|403 Forbidden|
 
 

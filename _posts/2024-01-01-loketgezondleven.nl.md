@@ -2,8 +2,8 @@
 layout: default
 title: "loketgezondleven.nl"
 permalink: "/dutchgov/loketgezondleven.nl.html"
-subdomains_count: 7
-urls_count: 7
+subdomains_count: 8
+urls_count: 8
 ssl_rank: 
 http_rank: D
 security_txt: 2
@@ -25,8 +25,8 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/loketgezondleven.nl/subdomains.txt)|7|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/loketgezondleven.nl/urls.txt)|7|Urls|
+|[subdomains.txt](/DutchGovScope/data/loketgezondleven.nl/subdomains.txt)|8|Alive subdomains|
+|[urls.txt](/DutchGovScope/data/loketgezondleven.nl/urls.txt)|8|Urls|
 
 
 ## Statistics
@@ -41,5 +41,6 @@ tags: dutchgov
 |[http://acceptatie.loketgezondleven.nl](http://acceptatie.loketgezondleven.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://prerelease.loketgezondleven.nl](https://prerelease.loketgezondleven.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|webserver|
 |[http://test.loketgezondleven.nl](http://test.loketgezondleven.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
+|[http://localhost.loketgezondleven.nl](http://localhost.loketgezondleven.nl)| | **F**|nginx|:o: | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Laravel Nginx PHP|Weakpass|
 
 

@@ -11,7 +11,7 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/rijksictdashboard.nl/subdomains.txt)|7|Alive subdomains|
+|[subdomains.txt](/data/rijksictdashboard.nl/subdomains.txt)|10|Alive subdomains|
 |[urls.txt](/data/rijksictdashboard.nl/urls.txt)|7|Urls|
 
 

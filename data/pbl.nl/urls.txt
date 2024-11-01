@@ -22,3 +22,5 @@ https://mailings.pbl.nl
 https://sf.pbl.nl
 https://survey.pbl.nl
 https://webmail.pbl.nl
+https://mail.pbl.nl
+https://msoid.pbl.nl

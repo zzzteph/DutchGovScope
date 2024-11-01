@@ -18,3 +18,5 @@ vergunningintaker-preprod.h-i-ambacht.nl
 vergunningintaker.h-i-ambacht.nl
 vthbroker.h-i-ambacht.nl
 web.h-i-ambacht.nl
+hendrik-ido-ambacht-checker-preprod.h-i-ambacht.nl
+hendrik-ido-ambacht-checker.h-i-ambacht.nl

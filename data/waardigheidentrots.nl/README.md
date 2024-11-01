@@ -5,14 +5,14 @@
 
 
  - **SSL Grade**:
- - **HTTP Security Grade**:C
+ - **HTTP Security Grade**:D
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:5
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/waardigheidentrots.nl/subdomains.txt)|7|Alive subdomains|
-|[urls.txt](/data/waardigheidentrots.nl/urls.txt)|7|Urls|
+|[subdomains.txt](/data/waardigheidentrots.nl/subdomains.txt)|9|Alive subdomains|
+|[urls.txt](/data/waardigheidentrots.nl/urls.txt)|9|Urls|
 
 
 ## Statistics
@@ -27,5 +27,7 @@
 |[https://registratie.waardigheidentrots.nl](https://registratie.waardigheidentrots.nl)| | **A**|nginx|:white_check_mark: |:white_check_mark: | | | :white_check_mark:| | :white_check_mark: | :white_check_mark: | |Amazon S3 Amazon Web Services HSTS Nginx PHP|Congres Waardigh...|
 |[https://www.waardigheidentrots.nl](https://www.waardigheidentrots.nl)| | **B**||:warning: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Azure Azure Front Door Google Tag Manager HSTS Microsoft ASP.NET|Waardigheid en t...|
 |[https://portaal.waardigheidentrots.nl](https://portaal.waardigheidentrots.nl)| | **C**|Microsoft-IIS/10.0|:white_check_mark: |:white_check_mark: | | |:warning: | | | :white_check_mark: | |Azure HSTS IIS:10.0 Microsoft ASP.NET Windows Server|Waardigheid en t...|
+|[https://api.waardigheidentrots.nl](https://api.waardigheidentrots.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Web App - Unavai...|
+|[https://cms.waardigheidentrots.nl](https://cms.waardigheidentrots.nl)| | **F**||:white_check_mark: | | :warning:| | | | | :white_check_mark: | |Azure||
 
 

@@ -11,7 +11,7 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/signalenleefomgeving.nl/subdomains.txt)|2|Alive subdomains|
+|[subdomains.txt](/data/signalenleefomgeving.nl/subdomains.txt)|3|Alive subdomains|
 |[urls.txt](/data/signalenleefomgeving.nl/urls.txt)|2|Urls|
 
 

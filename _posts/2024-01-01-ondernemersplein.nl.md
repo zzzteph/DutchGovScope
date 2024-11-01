@@ -2,10 +2,10 @@
 layout: default
 title: "ondernemersplein.nl"
 permalink: "/dutchgov/ondernemersplein.nl.html"
-subdomains_count: 5
-urls_count: 5
+subdomains_count: 7
+urls_count: 7
 ssl_rank: 
-http_rank: B
+http_rank: C
 security_txt: 2
 url_link: /data/ondernemersplein.nl/urls.txt
 subdomains_link: /data/ondernemersplein.nl/subdomains.txt
@@ -19,14 +19,14 @@ tags: dutchgov
 
 
  - **SSL Grade**:
- - **HTTP Security Grade**:B
+ - **HTTP Security Grade**:C
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:2
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/ondernemersplein.nl/subdomains.txt)|5|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/ondernemersplein.nl/urls.txt)|5|Urls|
+|[subdomains.txt](/DutchGovScope/data/ondernemersplein.nl/subdomains.txt)|7|Alive subdomains|
+|[urls.txt](/DutchGovScope/data/ondernemersplein.nl/urls.txt)|7|Urls|
 
 
 ## Statistics
@@ -39,5 +39,7 @@ tags: dutchgov
 |[https://opendata.acp.ondernemersplein.nl](https://opendata.acp.ondernemersplein.nl)| | **C**|| |:white_check_mark: | :warning:| | | | | :white_check_mark: | |HSTS||
 |[https://opendata.ondernemersplein.nl](https://opendata.ondernemersplein.nl)| | **C**|| |:white_check_mark: | :warning:| | | | | :white_check_mark: | |HSTS||
 |[http://autodiscover.ondernemersplein.nl](http://autodiscover.ondernemersplein.nl)| | **C**|Microsoft-IIS/10.0| |:white_check_mark: | | | | | | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server||
+|[https://enterpriseenrollment.ondernemersplein.nl](https://enterpriseenrollment.ondernemersplein.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||
+|[https://enterpriseregistration.ondernemersplein.nl](https://enterpriseregistration.ondernemersplein.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 
 

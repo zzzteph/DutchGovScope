@@ -2,3 +2,4 @@ test.digitaleoverheid.nl
 accept.digitaleoverheid.nl
 digitaleoverheid.nl
 www.digitaleoverheid.nl
+autodiscover.digitaleoverheid.nl

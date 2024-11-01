@@ -11,7 +11,7 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/manifestgroep.nl/subdomains.txt)|2|Alive subdomains|
+|[subdomains.txt](/data/manifestgroep.nl/subdomains.txt)|5|Alive subdomains|
 |[urls.txt](/data/manifestgroep.nl/urls.txt)|2|Urls|
 
 

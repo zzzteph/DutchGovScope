@@ -4,3 +4,4 @@ https://infoscherm.rijksacademie.nl
 https://nieuwsbrief.rijksacademie.nl
 https://rijksacademie.nl
 https://www.rijksacademie.nl
+http://autodiscover.rijksacademie.nl

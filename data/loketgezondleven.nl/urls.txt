@@ -5,3 +5,4 @@ https://toolkits.loketgezondleven.nl
 http://acceptatie.loketgezondleven.nl
 https://prerelease.loketgezondleven.nl
 http://test.loketgezondleven.nl
+http://localhost.loketgezondleven.nl

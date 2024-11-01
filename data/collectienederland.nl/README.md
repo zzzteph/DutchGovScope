@@ -11,7 +11,7 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/collectienederland.nl/subdomains.txt)|4|Alive subdomains|
+|[subdomains.txt](/data/collectienederland.nl/subdomains.txt)|6|Alive subdomains|
 |[urls.txt](/data/collectienederland.nl/urls.txt)|4|Urls|
 
 

@@ -2,7 +2,7 @@
 layout: default
 title: "farmingthefuture.nl"
 permalink: "/dutchgov/farmingthefuture.nl.html"
-subdomains_count: 1
+subdomains_count: 3
 urls_count: 1
 ssl_rank: 
 http_rank: A
@@ -25,7 +25,7 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/farmingthefuture.nl/subdomains.txt)|1|Alive subdomains|
+|[subdomains.txt](/DutchGovScope/data/farmingthefuture.nl/subdomains.txt)|3|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/farmingthefuture.nl/urls.txt)|1|Urls|
 
 

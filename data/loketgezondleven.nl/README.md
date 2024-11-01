@@ -11,8 +11,8 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/loketgezondleven.nl/subdomains.txt)|7|Alive subdomains|
-|[urls.txt](/data/loketgezondleven.nl/urls.txt)|7|Urls|
+|[subdomains.txt](/data/loketgezondleven.nl/subdomains.txt)|8|Alive subdomains|
+|[urls.txt](/data/loketgezondleven.nl/urls.txt)|8|Urls|
 
 
 ## Statistics
@@ -27,5 +27,6 @@
 |[http://acceptatie.loketgezondleven.nl](http://acceptatie.loketgezondleven.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://prerelease.loketgezondleven.nl](https://prerelease.loketgezondleven.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|webserver|
 |[http://test.loketgezondleven.nl](http://test.loketgezondleven.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
+|[http://localhost.loketgezondleven.nl](http://localhost.loketgezondleven.nl)| | **F**|nginx|:o: | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Laravel Nginx PHP|Weakpass|
 
 

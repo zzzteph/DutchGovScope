@@ -5,7 +5,6 @@ chemkap-oud.rivm.nl
 acc-bestellingen.rivm.nl
 acc-duvo-web-api.rivm.nl
 acc-isis-ar-rapportage.rivm.nl
-acc-jira.rivm.nl
 dev-lsp.rivm.nl
 mcra-training.rivm.nl
 tst-lsp.rivm.nl
@@ -135,7 +134,6 @@ drupal.rivm.nl
 duvo-web-api.rivm.nl
 dwo.rivm.nl
 esp-ext.rivm.nl
-esp-test-ext.rivm.nl
 ewrs-oud.rivm.nl
 expertrolesqsort.rivm.nl
 ezips-app.rivm.nl
@@ -159,13 +157,11 @@ incidentapprivmacc.rivm.nl
 influxg.rivm.nl
 influxs.rivm.nl
 inspire.rivm.nl
-jira.rivm.nl
 kiddi.rivm.nl
 lci.rivm.nl
 leren.rivm.nl
 lmm.rivm.nl
 login-ext.rivm.nl
-login-test-ext.rivm.nl
 login.rivm.nl
 uzi.rivm.nl
 longcovid.rivm.nl
@@ -208,7 +204,6 @@ rivm.nl
 rvs-beheer.rivm.nl
 rvs.rivm.nl
 rvszoeksysteem.rivm.nl
-sars2-kiemsurveillance.rivm.nl
 secure-acceptatie.grip.rivm.nl
 secure.grip.rivm.nl
 secure.rivm.nl
@@ -242,13 +237,11 @@ webservice.prezies.osiris.rivm.nl
 webservice.sniv.osiris.rivm.nl
 webservice.cdif.osiris.rivm.nl
 www.lml.rivm.nl
-acceptatie.mrsa.rivm.nl
 ggdiamdemo.rivm.nl
 acceptatie.soap.osiris.rivm.nl
 macotra.rivm.nl
 typened-cpe.rivm.nl
 www.typened-cpe-demo.rivm.nl
-esp2-ext.rivm.nl
 gemini.rivm.nl
 www.lci.rivm.nl
 lims.rivm.nl

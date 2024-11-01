@@ -1,4 +1,3 @@
 www.atlasleefomgeving.nl
 atlasleefomgeving.nl
-rivm.atlasleefomgeving.nl
 prd.atlasleefomgeving.nl

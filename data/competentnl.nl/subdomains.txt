@@ -2,3 +2,4 @@ opendata.competentnl.nl
 www.competentnl.nl
 competentnl.nl
 feeds.competentnl.nl
+autodiscover.competentnl.nl

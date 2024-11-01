@@ -15,3 +15,5 @@ https://prd-content.verbeterjehuis.nl
 https://test-cms.verbeterjehuis.nl
 https://test-content.verbeterjehuis.nl
 https://content.verbeterjehuis.nl
+https://energyportpeelland.verbeterjehuis.nl
+http://localhost.verbeterjehuis.nl

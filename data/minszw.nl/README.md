@@ -12,7 +12,7 @@
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/minszw.nl/subdomains.txt)|7|Alive subdomains|
-|[urls.txt](/data/minszw.nl/urls.txt)|6|Urls|
+|[urls.txt](/data/minszw.nl/urls.txt)|7|Urls|
 
 
 ## Statistics
@@ -26,5 +26,6 @@
 |[https://www.gemeenteloket.minszw.nl](https://www.gemeenteloket.minszw.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
 |[https://siam.minszw.nl](https://siam.minszw.nl)| | **A**|N.A.| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Authentication F...|
 |[https://testsiam.minszw.nl](https://testsiam.minszw.nl)| | **A**|N.A.| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Authentication F...|
+|[https://werkbezoek.minszw.nl](https://werkbezoek.minszw.nl)| | **E**||:warning: | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Django Python|Voorpagina | Min...|
 
 

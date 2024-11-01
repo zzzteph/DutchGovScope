@@ -11,8 +11,8 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/knmi.nl/subdomains.txt)|64|Alive subdomains|
-|[urls.txt](/data/knmi.nl/urls.txt)|64|Urls|
+|[subdomains.txt](/data/knmi.nl/subdomains.txt)|62|Alive subdomains|
+|[urls.txt](/data/knmi.nl/urls.txt)|62|Urls|
 
 
 ## Statistics
@@ -22,7 +22,6 @@
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[https://acc.spaceweather.knmi.nl](https://acc.spaceweather.knmi.nl)| | **F**|AmazonS3| | | | | | | | :white_check_mark: | |Amazon CloudFront Amazon S3 Amazon Web Services|Space Weather at...|
 |[https://adaguc.knmi.nl](https://adaguc.knmi.nl)| | **F**|AmazonS3| | | | | | | | :white_check_mark: | |Amazon CloudFront Amazon S3 Amazon Web Services|Adaguc site|
-|[https://analytics.dataplatform.knmi.nl](https://analytics.dataplatform.knmi.nl)| | **F**|awselb/2.0| | | | | | | | :white_check_mark: | |Amazon ELB Amazon Web Services||
 |[https://anonymous.api.dataplatform.knmi.nl](https://anonymous.api.dataplatform.knmi.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|404 Not Found|
 |[https://api.dataplatform.knmi.nl](https://api.dataplatform.knmi.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[http://autodiscover.knmi.nl](http://autodiscover.knmi.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
@@ -69,7 +68,7 @@
 |[https://password.knmi.nl](https://password.knmi.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS Java||
 |[https://rdsa-prdt.knmi.nl](https://rdsa-prdt.knmi.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server Bootstrap|KNMI Seismic & A...|
 |[https://rdsa.knmi.nl](https://rdsa.knmi.nl)| | **F**|Apache|:white_check_mark: | | | | | | | :white_check_mark: | |Apache HTTP Server Bootstrap|KNMI Seismic & A...|
-|[https://scatterometer.knmi.nl](https://scatterometer.knmi.nl)| | **F**|Apache/2.4.61 (Debian)|:o: | | | | | | | :white_check_mark: | |Amazon ALB Amazon Web Services Apache HTTP Server:2.4.61 Debian||
+|[https://scatterometer.knmi.nl](https://scatterometer.knmi.nl)| | **F**|Apache/2.4.62 (Debian)|:o: | | | | | | | :white_check_mark: | |Amazon ALB Amazon Web Services Apache HTTP Server:2.4.62 Debian||
 |[https://spaceweather.knmi.nl](https://spaceweather.knmi.nl)| | **F**|AmazonS3| | | | | | | | :white_check_mark: | |Amazon CloudFront Amazon S3 Amazon Web Services|Space Weather at...|
 |[http://testconn.knmi.nl](http://testconn.knmi.nl)| | **F**|BigIP| | | | | | | | :white_check_mark: | |F5 BigIP||
 |[https://tyk-cdn.dataplatform.knmi.nl](https://tyk-cdn.dataplatform.knmi.nl)| | **F**|AmazonS3| | | | | | | | :white_check_mark: | |Amazon CloudFront Amazon S3 Amazon Web Services||
@@ -81,7 +80,6 @@
 |[https://testgeoservices.knmi.nl](https://testgeoservices.knmi.nl)| | **F**|uvicorn| | | | | | | | :white_check_mark: | |HSTS Python Uvicorn||
 |[https://hapi.acc.spaceweather.knmi.nl](https://hapi.acc.spaceweather.knmi.nl)| | **F**|Apache/2.4.58 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.58 Ubuntu|Apache2 Ubuntu D...|
 |[https://hapi.spaceweather.knmi.nl](https://hapi.spaceweather.knmi.nl)| | **F**|Apache/2.4.58 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.58 Ubuntu|Apache2 Ubuntu D...|
-|[https://notifications.dev.spaceweather.knmi.nl](https://notifications.dev.spaceweather.knmi.nl)| | **F**|AmazonS3| | | | | | | | :white_check_mark: | |Amazon CloudFront Amazon S3 Amazon Web Services|Space Weather at...|
 |[https://panelrows.dev.spaceweather.knmi.nl](https://panelrows.dev.spaceweather.knmi.nl)| | **F**|AmazonS3| | | | | | | | :white_check_mark: | |Amazon CloudFront Amazon S3 Amazon Web Services|Space Weather at...|
 |[https://cabauw.knmi.nl](https://cabauw.knmi.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|Redirecting to h...|
 

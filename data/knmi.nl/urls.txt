@@ -1,6 +1,5 @@
 https://acc.spaceweather.knmi.nl
 https://adaguc.knmi.nl
-https://analytics.dataplatform.knmi.nl
 https://anonymous.api.dataplatform.knmi.nl
 https://api.dataplatform.knmi.nl
 http://autodiscover.knmi.nl
@@ -59,6 +58,5 @@ https://eelcodoornbos-master-patch-38139.data.dev.spaceweather.knmi.nl
 https://testgeoservices.knmi.nl
 https://hapi.acc.spaceweather.knmi.nl
 https://hapi.spaceweather.knmi.nl
-https://notifications.dev.spaceweather.knmi.nl
 https://panelrows.dev.spaceweather.knmi.nl
 https://cabauw.knmi.nl

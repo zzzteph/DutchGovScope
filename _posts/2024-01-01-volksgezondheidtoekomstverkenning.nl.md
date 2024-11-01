@@ -2,7 +2,7 @@
 layout: default
 title: "volksgezondheidtoekomstverkenning.nl"
 permalink: "/dutchgov/volksgezondheidtoekomstverkenning.nl.html"
-subdomains_count: 2
+subdomains_count: 3
 urls_count: 2
 ssl_rank: 
 http_rank: A
@@ -25,7 +25,7 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/volksgezondheidtoekomstverkenning.nl/subdomains.txt)|2|Alive subdomains|
+|[subdomains.txt](/DutchGovScope/data/volksgezondheidtoekomstverkenning.nl/subdomains.txt)|3|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/volksgezondheidtoekomstverkenning.nl/urls.txt)|2|Urls|
 
 

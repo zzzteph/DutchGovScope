@@ -12,7 +12,7 @@
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/rijkscloud.nl/subdomains.txt)|106|Alive subdomains|
-|[urls.txt](/data/rijkscloud.nl/urls.txt)|103|Urls|
+|[urls.txt](/data/rijkscloud.nl/urls.txt)|106|Urls|
 
 
 ## Statistics
@@ -123,5 +123,8 @@
 |[https://www.rijkscloud.nl](https://www.rijkscloud.nl)| | **C**|Apache| |:white_check_mark: | | | | | | :white_check_mark: | |Apache HTTP Server HSTS||
 |[https://rstudio.kim.rijkscloud.nl](https://rstudio.kim.rijkscloud.nl)| | **C**|RStudio| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
 |[https://zabbix6.mintst2.rijkscloud.nl](https://zabbix6.mintst2.rijkscloud.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
+|[https://dbe-t.rvb.rijkscloud.nl](https://dbe-t.rvb.rijkscloud.nl)| | **E**|| | | | | | | | :white_check_mark: | ||| (503)|
+|[https://images.analyse.ilt.rijkscloud.nl](https://images.analyse.ilt.rijkscloud.nl)| | **C**|Apache| |:white_check_mark: | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|403 Forbidden|
+|[https://registry.gitlab.analyse.ilt.rijkscloud.nl](https://registry.gitlab.analyse.ilt.rijkscloud.nl)| | **C**|Apache| |:white_check_mark: | | | | | | :white_check_mark: | |Apache HTTP Server HSTS||
 
 

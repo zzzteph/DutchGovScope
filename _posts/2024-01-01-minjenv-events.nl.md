@@ -2,11 +2,11 @@
 layout: default
 title: "minjenv-events.nl"
 permalink: "/dutchgov/minjenv-events.nl.html"
-subdomains_count: 5
-urls_count: 5
+subdomains_count: 6
+urls_count: 6
 ssl_rank: 
 http_rank: A
-security_txt: 5
+security_txt: 6
 url_link: /data/minjenv-events.nl/urls.txt
 subdomains_link: /data/minjenv-events.nl/subdomains.txt
 categories: dutchgov
@@ -20,13 +20,13 @@ tags: dutchgov
 
  - **SSL Grade**:
  - **HTTP Security Grade**:A
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:5
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:6
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/minjenv-events.nl/subdomains.txt)|5|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/minjenv-events.nl/urls.txt)|5|Urls|
+|[subdomains.txt](/DutchGovScope/data/minjenv-events.nl/subdomains.txt)|6|Alive subdomains|
+|[urls.txt](/DutchGovScope/data/minjenv-events.nl/urls.txt)|6|Urls|
 
 
 ## Statistics
@@ -39,5 +39,6 @@ tags: dutchgov
 |[https://kick-offstartupinresidence.minjenv-events.nl](https://kick-offstartupinresidence.minjenv-events.nl)| | **A**|nginx| |:white_check_mark: | :warning:| |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx Plesk||
 |[https://minjenv-events.nl](https://minjenv-events.nl)| | **A**|nginx| |:white_check_mark: | :warning:| |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx Plesk||
 |[https://congreskoersenkansen2020.minjenv-events.nl](https://congreskoersenkansen2020.minjenv-events.nl)| | **A**|nginx| |:white_check_mark: | :warning:| |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx Plesk||
+|[https://scheidenzonderschade.minjenv-events.nl](https://scheidenzonderschade.minjenv-events.nl)| | **A**|nginx| |:white_check_mark: | :warning:| |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx Plesk||
 
 

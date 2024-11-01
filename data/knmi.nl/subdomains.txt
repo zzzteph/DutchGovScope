@@ -1,6 +1,5 @@
 acc.spaceweather.knmi.nl
 adaguc.knmi.nl
-analytics.dataplatform.knmi.nl
 anonymous.api.dataplatform.knmi.nl
 api.dataplatform.knmi.nl
 autodiscover.knmi.nl
@@ -59,6 +58,5 @@ eelcodoornbos-master-patch-38139.data.dev.spaceweather.knmi.nl
 testgeoservices.knmi.nl
 hapi.acc.spaceweather.knmi.nl
 hapi.spaceweather.knmi.nl
-notifications.dev.spaceweather.knmi.nl
 panelrows.dev.spaceweather.knmi.nl
 cabauw.knmi.nl

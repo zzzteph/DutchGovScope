@@ -136,7 +136,7 @@
 |[https://mig.cbs.nl](https://mig.cbs.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|403 Forbidden|
 |[https://newsroom.cbs.nl](https://newsroom.cbs.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|403 Forbidden|
 |[https://api.mig.cbs.nl](https://api.mig.cbs.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|403 Forbidden|
-|[https://beeldbank-beheer.cbs.nl](https://beeldbank-beheer.cbs.nl)| | **E**|Picture Pack|:warning: | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Microsoft ASP.NET|Picture Pack|
+|[https://beeldbank-beheer.cbs.nl](https://beeldbank-beheer.cbs.nl)| | **E**|Picture Pack|:warning: | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Microsoft ASP.NET:4.0.30319|Picture Pack|
 |[https://beeldbank.cbs.nl](https://beeldbank.cbs.nl)| | **E**||:warning: | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Microsoft ASP.NET|Homepage | Beeld...|
 |[https://historischebeelden.cbs.nl](https://historischebeelden.cbs.nl)| | **E**||:warning: | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Microsoft ASP.NET:4.0.30319|Homepage | Centr...|
 |[https://historischebeeldenbeheer.cbs.nl](https://historischebeeldenbeheer.cbs.nl)| | **E**|Picture Pack|:warning: | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Microsoft ASP.NET:4.0.30319|Picture Pack|
@@ -164,8 +164,8 @@
 |[https://highcharts-test.cbs.nl](https://highcharts-test.cbs.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Highcharts Edito...|
 |[https://redactie-test.cbs.nl](https://redactie-test.cbs.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://www-test.cbs.nl](https://www-test.cbs.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Basic HSTS||
-|[https://jeugdmonitor-acc.cbs.nl](https://jeugdmonitor-acc.cbs.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Drupal:10 HSTS Nginx PHP:8.2.24 Varnish:6.0|Home | Jeugdmoni...|
-|[https://jeugdmonitor.cbs.nl](https://jeugdmonitor.cbs.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Drupal:10 HSTS Nginx PHP:8.2.24 Varnish|Home | Jeugdmoni...|
+|[https://jeugdmonitor-acc.cbs.nl](https://jeugdmonitor-acc.cbs.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Drupal:10 HSTS Nginx PHP:8.2.25 Varnish:6.0|Home | Jeugdmoni...|
+|[https://jeugdmonitor.cbs.nl](https://jeugdmonitor.cbs.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Drupal:10 HSTS Nginx PHP:8.2.25 Varnish|Home | Jeugdmoni...|
 |[https://longreads.cbs.nl](https://longreads.cbs.nl)| | **A**|LiteSpeed|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HTTP/3 LiteSpeed PHP:7.4.33||
 |[https://mbg.cbs.nl](https://mbg.cbs.nl)| | **A**|Apache| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS|Redirecting...|
 |[https://micollab.cbs.nl](https://micollab.cbs.nl)| | **A**|Apache| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS|Redirecting...|
@@ -186,7 +186,7 @@
 |[https://search.beta.cbs.nl](https://search.beta.cbs.nl)| | **B**|envoy| |:white_check_mark: | :warning:| | :white_check_mark:| | | :white_check_mark: | |Envoy Express HSTS Node.js|Error|
 |[https://mijn.cbs.nl](https://mijn.cbs.nl)| | **C**|envoy| |:white_check_mark: | | | | | | :white_check_mark: | |Envoy HSTS|Welkom op Mijn C...|
 |[https://mijn.acceptatie.cbs.nl](https://mijn.acceptatie.cbs.nl)| | **C**|envoy| |:white_check_mark: | | | | | | :white_check_mark: | |Basic Envoy HSTS|401 Authorizatio...|
-|[https://overzicht.cbs.nl](https://overzicht.cbs.nl)| | **C**|Microsoft-IIS/10.0|:warning: |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS IIS:10.0 Microsoft ASP.NET:4.0.30319 Windows Server|Object moved|
+|[https://overzicht.cbs.nl](https://overzicht.cbs.nl)| | **C**|Microsoft-IIS/10.0| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS IIS:10.0 Microsoft ASP.NET:4.0.30319 Windows Server|Object moved|
 |[https://webserver.cbs.nl](https://webserver.cbs.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server||
 |[https://brandportal.cbs.nl](https://brandportal.cbs.nl)| | **F**|Apache/2| | | | | | | | :white_check_mark: | |Apache HTTP Server:2||
 |[https://testchat.cbs.nl](https://testchat.cbs.nl)| | **E**|| | | | | | | | :white_check_mark: | |||

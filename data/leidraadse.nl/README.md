@@ -21,7 +21,7 @@
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[https://leidraadse.nl](https://leidraadse.nl)| | **F**|Apache|:o: | | | | | | | :white_check_mark: | |Apache HTTP Server PHP|Welkom | Leidraa...|
-|[https://webmail.leidraadse.nl](https://webmail.leidraadse.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server PHP:8.2.24|Internal Error|
+|[https://webmail.leidraadse.nl](https://webmail.leidraadse.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server PHP:8.2.25|Internal Error|
 |[https://www.leidraadse.nl](https://www.leidraadse.nl)| | **F**|Apache|:o: | | | | | | | :white_check_mark: | |Apache HTTP Server PHP|Welkom | Leidraa...|
 
 

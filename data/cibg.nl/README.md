@@ -6,13 +6,13 @@
 
  - **SSL Grade**:
  - **HTTP Security Grade**:B
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:27
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:29
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/cibg.nl/subdomains.txt)|54|Alive subdomains|
-|[urls.txt](/data/cibg.nl/urls.txt)|54|Urls|
+|[subdomains.txt](/data/cibg.nl/subdomains.txt)|55|Alive subdomains|
+|[urls.txt](/data/cibg.nl/urls.txt)|55|Urls|
 
 
 ## Statistics
@@ -54,6 +54,7 @@
 |[https://opendata.cibg.nl](https://opendata.cibg.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://www.cibg.nl](https://www.cibg.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Home | CIBG|
 |[https://lir.cibg.nl](https://lir.cibg.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Landelijk Implan...|
+|[https://meldingen.klopt.cibg.nl](https://meldingen.klopt.cibg.nl)| | **E**|| | | | | | | | :white_check_mark: | |Amazon ALB Amazon Web Services HSTS Microsoft ASP.NET|Object moved|
 |[https://portaal.competent.cibg.nl](https://portaal.competent.cibg.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://portaal.digilevering.cibg.nl](https://portaal.digilevering.cibg.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://prototype.cibg.nl](https://prototype.cibg.nl)| | **A**|-| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Basic HSTS||
@@ -68,8 +69,8 @@
 |[https://acceptatie.behandel.generiekeregistratiedienst.cibg.nl](https://acceptatie.behandel.generiekeregistratiedienst.cibg.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://acceptatie.beheer.generiekeregistratiedienst.cibg.nl](https://acceptatie.beheer.generiekeregistratiedienst.cibg.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[http://acceptatie.digikoppeling2.cibg.nl](http://acceptatie.digikoppeling2.cibg.nl)| | **F**|BigIP| | | | | | | | :white_check_mark: | |F5 BigIP||
-|[https://behandel.generiekeregistratiedienst.cibg.nl](https://behandel.generiekeregistratiedienst.cibg.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
-|[https://beheer.generiekeregistratiedienst.cibg.nl](https://beheer.generiekeregistratiedienst.cibg.nl)| | **A**|-| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
+|[https://behandel.generiekeregistratiedienst.cibg.nl](https://behandel.generiekeregistratiedienst.cibg.nl)| | **A**|-| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
+|[https://beheer.generiekeregistratiedienst.cibg.nl](https://beheer.generiekeregistratiedienst.cibg.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://designsystem.cibg.nl](https://designsystem.cibg.nl)| | **A**|-| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|CIBG Design syst...|
 |[http://digikoppeling.cibg.nl](http://digikoppeling.cibg.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||
 |[http://digikoppeling2.cibg.nl](http://digikoppeling2.cibg.nl)| | **F**|BigIP| | | | | | | | :white_check_mark: | |F5 BigIP||

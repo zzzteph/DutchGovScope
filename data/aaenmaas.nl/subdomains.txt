@@ -11,3 +11,11 @@ helloid.aaenmaas.nl
 login.aaenmaas.nl
 vpn2.aaenmaas.nl
 sip.aaenmaas.nl
+gisservices.aaenmaas.nl
+luchtfoto.aaenmaas.nl
+webgis.aaenmaas.nl
+geoportal.aaenmaas.nl
+geoservices.aaenmaas.nl
+ucc.aaenmaas.nl
+vpn.aaenmaas.nl
+wik.aaenmaas.nl

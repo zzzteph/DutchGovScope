@@ -1,2 +1,4 @@
 https://ssoict.nl
 https://www.ssoict.nl
+https://klantenportaal.ssoict.nl
+https://test.ssoict.nl

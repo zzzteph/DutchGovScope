@@ -68,3 +68,7 @@ start.test.dusi.irealisatie.nl
 stats.irealisatie.nl
 vpn.irealisatie.nl
 web.acc.woo.irealisatie.nl
+balie.acc.woo.irealisatie.nl
+stats.acc.mgo.irealisatie.nl
+dva.acc.mgo.irealisatie.nl
+stats.test.zm.irealisatie.nl

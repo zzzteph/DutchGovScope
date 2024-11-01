@@ -6,13 +6,13 @@
 
  - **SSL Grade**:
  - **HTTP Security Grade**:D
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:14
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:15
 
 
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/dictu.nl/subdomains.txt)|61|Alive subdomains|
-|[urls.txt](/data/dictu.nl/urls.txt)|59|Urls|
+|[urls.txt](/data/dictu.nl/urls.txt)|61|Urls|
 
 
 ## Statistics
@@ -24,7 +24,7 @@
 |[https://acc.dictu.nl](https://acc.dictu.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|301 Moved Perman...|
 |[https://klussenbank-acc.dictu.nl](https://klussenbank-acc.dictu.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Basic Nginx|401 Authorizatio...|
 |[https://simplesamlidp-acc.dictu.nl](https://simplesamlidp-acc.dictu.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Basic Nginx|401 Authorizatio...|
-|[https://acc.gisextern.dictu.nl](https://acc.gisextern.dictu.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS|Document Moved|
+|[https://acc.gisextern.dictu.nl](https://acc.gisextern.dictu.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS|Service Unavaila...|
 |[https://test.intranet-demo.dictu.nl](https://test.intranet-demo.dictu.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |Drupal HSTS Nginx PHP|Redirecting to /...|
 |[https://acc.intranet-demo.dictu.nl](https://acc.intranet-demo.dictu.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |Drupal HSTS Nginx PHP|Redirecting to /...|
 |[https://acc.rd.dictu.nl](https://acc.rd.dictu.nl)| | **A**||:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS|Error|
@@ -79,5 +79,7 @@
 |[http://c-pki-acc.dictu.nl](http://c-pki-acc.dictu.nl)| | **F**||:warning: | | | | | | | :white_check_mark: | ||c-pki-acc.dictu....|
 |[http://rijkspascrlcert2-acc.dictu.nl](http://rijkspascrlcert2-acc.dictu.nl)| | **F**||:warning: | | | | | | | :white_check_mark: | ||rijkspascrlcert2...|
 |[https://snow-cw.dictu.nl](https://snow-cw.dictu.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |HSTS Microsoft HTTPAPI:2.0||
+|[https://tvs.dictu.nl](https://tvs.dictu.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|403 Forbidden|
+|[http://rijkspasocsp2-acc.dictu.nl](http://rijkspasocsp2-acc.dictu.nl)| | **E**|| | | | | | | | :white_check_mark: | ||IIS Windows Serv...|
 
 

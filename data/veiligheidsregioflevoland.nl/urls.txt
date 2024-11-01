@@ -3,3 +3,6 @@ https://redactie.veiligheidsregioflevoland.nl
 https://www.veiligheidsregioflevoland.nl
 https://veiligheidsregioflevoland.nl
 https://mail.veiligheidsregioflevoland.nl
+http://autodiscover.veiligheidsregioflevoland.nl
+https://enterpriseenrollment.veiligheidsregioflevoland.nl
+https://enterpriseregistration.veiligheidsregioflevoland.nl

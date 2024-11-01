@@ -9,3 +9,6 @@ https://neuronprod.vallei-veluwe.nl
 https://neurontest.vallei-veluwe.nl
 https://tmx.vallei-veluwe.nl
 https://werkplek.vallei-veluwe.nl
+https://enterpriseenrollment.vallei-veluwe.nl
+https://protect.vallei-veluwe.nl
+https://vdi.vallei-veluwe.nl

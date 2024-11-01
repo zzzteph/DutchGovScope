@@ -11,7 +11,7 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/nkw2023.nl/subdomains.txt)|1|Alive subdomains|
+|[subdomains.txt](/data/nkw2023.nl/subdomains.txt)|2|Alive subdomains|
 |[urls.txt](/data/nkw2023.nl/urls.txt)|1|Urls|
 
 

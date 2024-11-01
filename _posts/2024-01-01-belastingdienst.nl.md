@@ -6,7 +6,7 @@ subdomains_count: 124
 urls_count: 124
 ssl_rank: 
 http_rank: B
-security_txt: 60
+security_txt: 61
 url_link: /data/belastingdienst.nl/urls.txt
 subdomains_link: /data/belastingdienst.nl/subdomains.txt
 categories: dutchgov
@@ -20,7 +20,7 @@ tags: dutchgov
 
  - **SSL Grade**:
  - **HTTP Security Grade**:B
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:60
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:61
 
 
 | File       | Count | Info |

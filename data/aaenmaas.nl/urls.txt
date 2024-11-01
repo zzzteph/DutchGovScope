@@ -11,3 +11,10 @@ https://helloid.aaenmaas.nl
 https://login.aaenmaas.nl
 https://vpn2.aaenmaas.nl
 https://sip.aaenmaas.nl
+https://gisservices.aaenmaas.nl
+https://luchtfoto.aaenmaas.nl
+https://geoportal.aaenmaas.nl
+https://geoservices.aaenmaas.nl
+https://ucc.aaenmaas.nl
+https://vpn.aaenmaas.nl
+https://wik.aaenmaas.nl

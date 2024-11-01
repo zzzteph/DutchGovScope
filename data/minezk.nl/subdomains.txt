@@ -4,3 +4,4 @@ minezk.nl
 www.minezk.nl
 scanapp-acc.minezk.nl
 scanapp.minezk.nl
+fmis.minezk.nl

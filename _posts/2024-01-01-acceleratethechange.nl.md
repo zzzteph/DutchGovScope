@@ -2,7 +2,7 @@
 layout: default
 title: "acceleratethechange.nl"
 permalink: "/dutchgov/acceleratethechange.nl.html"
-subdomains_count: 1
+subdomains_count: 4
 urls_count: 1
 ssl_rank: 
 http_rank: A
@@ -25,7 +25,7 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/acceleratethechange.nl/subdomains.txt)|1|Alive subdomains|
+|[subdomains.txt](/DutchGovScope/data/acceleratethechange.nl/subdomains.txt)|4|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/acceleratethechange.nl/urls.txt)|1|Urls|
 
 

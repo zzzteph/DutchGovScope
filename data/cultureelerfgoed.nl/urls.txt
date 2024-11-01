@@ -5,7 +5,7 @@ https://acc.gml.map.services.cultureelerfgoed.nl
 https://acc.render.map.services.cultureelerfgoed.nl
 https://acc.monumentenregister.cultureelerfgoed.nl
 https://www.acc.monumentenregister.cultureelerfgoed.nl
-https://acc.subsidie.cultureelerfgoed.nl
+http://acc.subsidie.cultureelerfgoed.nl
 https://acceptatie.archis.cultureelerfgoed.nl
 https://acceptatie.geoservices.cultureelerfgoed.nl
 https://api.linkeddata.cultureelerfgoed.nl
@@ -57,9 +57,9 @@ https://veilig.cultureelerfgoed.nl
 https://www.veilig.cultureelerfgoed.nl
 https://wikixl-saml.test.cultureelerfgoed.nl
 https://acc.stor.services.cultureelerfgoed.nl
-https://acc.encoded.api-gateway.archis.cultureelerfgoed.nl
+http://acc.encoded.api-gateway.archis.cultureelerfgoed.nl
 https://acc.client.archis.cultureelerfgoed.nl
 https://acc.zaak.services.cultureelerfgoed.nl
-https://acc.api-gateway.archis.cultureelerfgoed.nl
+http://acc.api-gateway.archis.cultureelerfgoed.nl
 https://english.cultureelerfgoed.nl
 https://formulier.cultureelerfgoed.nl

@@ -2,4 +2,4 @@ acceptatie.gezondekinderopvang.nl
 gezondekinderopvang.nl
 www.gezondekinderopvang.nl
 sub.gezondekinderopvang.nl
-test.gezondekinderopvang.nl
+localhost.gezondekinderopvang.nl

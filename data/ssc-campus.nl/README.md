@@ -11,7 +11,7 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/ssc-campus.nl/subdomains.txt)|17|Alive subdomains|
+|[subdomains.txt](/data/ssc-campus.nl/subdomains.txt)|18|Alive subdomains|
 |[urls.txt](/data/ssc-campus.nl/urls.txt)|17|Urls|
 
 

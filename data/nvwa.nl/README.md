@@ -34,7 +34,7 @@
 |[https://opendata.english.nvwa.nl](https://opendata.english.nvwa.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://opendata.nvwa.nl](https://opendata.nvwa.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://forms-acc.nvwa.nl](https://forms-acc.nvwa.nl)| | **D**||:o: |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|IIS Windows Serv...|
-|[https://formulieren-acc.nvwa.nl](https://formulieren-acc.nvwa.nl)| | **A**||:white_check_mark: |:white_check_mark: | :warning:| | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Object moved|
+|[http://formulieren-acc.nvwa.nl](http://formulieren-acc.nvwa.nl)| | **A**||:white_check_mark: |:white_check_mark: | :warning:| | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://formulieren.nvwa.nl](https://formulieren.nvwa.nl)| | **A**||:white_check_mark: |:white_check_mark: | :warning:| | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Object moved|
 |[https://inspectieresultaten.nvwa.nl](https://inspectieresultaten.nvwa.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
 |[https://openbare-inspectieresultaten.nvwa.nl](https://openbare-inspectieresultaten.nvwa.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|

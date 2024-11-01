@@ -12,7 +12,7 @@
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/vergoedingsns.nl/subdomains.txt)|6|Alive subdomains|
-|[urls.txt](/data/vergoedingsns.nl/urls.txt)|5|Urls|
+|[urls.txt](/data/vergoedingsns.nl/urls.txt)|6|Urls|
 
 
 ## Statistics
@@ -25,5 +25,6 @@
 |[https://opendata.vergoedingsns.nl](https://opendata.vergoedingsns.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://vergoedingsns.nl](https://vergoedingsns.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
 |[https://www.vergoedingsns.nl](https://www.vergoedingsns.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Home | Schadever...|
+|[http://autodiscover.vergoedingsns.nl](http://autodiscover.vergoedingsns.nl)| | **C**|Microsoft-IIS/10.0| |:white_check_mark: | | | | | | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server||
 
 

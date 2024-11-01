@@ -1,2 +1,3 @@
 sso-net.nl
 www.sso-net.nl
+localhost.sso-net.nl
