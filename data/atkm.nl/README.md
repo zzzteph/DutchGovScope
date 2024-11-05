@@ -11,7 +11,7 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/atkm.nl/subdomains.txt)|4|Alive subdomains|
+|[subdomains.txt](/data/atkm.nl/subdomains.txt)|7|Alive subdomains|
 |[urls.txt](/data/atkm.nl/urls.txt)|4|Urls|
 
 

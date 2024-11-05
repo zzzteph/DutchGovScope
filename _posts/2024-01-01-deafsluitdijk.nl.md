@@ -3,7 +3,7 @@ layout: default
 title: "deafsluitdijk.nl"
 permalink: "/dutchgov/deafsluitdijk.nl.html"
 subdomains_count: 4
-urls_count: 3
+urls_count: 4
 ssl_rank: 
 http_rank: B
 security_txt: 0
@@ -26,7 +26,7 @@ tags: dutchgov
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/DutchGovScope/data/deafsluitdijk.nl/subdomains.txt)|4|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/deafsluitdijk.nl/urls.txt)|3|Urls|
+|[urls.txt](/DutchGovScope/data/deafsluitdijk.nl/urls.txt)|4|Urls|
 
 
 ## Statistics
@@ -37,5 +37,6 @@ tags: dutchgov
 |[https://deafsluitdijk.nl](https://deafsluitdijk.nl)| | **A**|openresty| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |Google Tag Manager HSTS MySQL Nginx OpenResty PHP Site Kit:1.138.0 Varnish WordPress Yoast SEO:23.7|De Afsluitdijk -...|
 |[https://www.deafsluitdijk.nl](https://www.deafsluitdijk.nl)| | **A**|openresty| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |Nginx OpenResty|301 Moved Perman...|
 |[https://reserveren.deafsluitdijk.nl](https://reserveren.deafsluitdijk.nl)| | **C**|openresty|:warning: |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Bootstrap Google Tag Manager HSTS MySQL Nginx OpenResty PHP Site Kit:1.138.0 Varnish WordPress Yoast SEO:23.7|Boottochten werk...|
+|[http://autodiscover.deafsluitdijk.nl](http://autodiscover.deafsluitdijk.nl)| | **C**|Microsoft-IIS/10.0| |:white_check_mark: | | | | | | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server||
 
 

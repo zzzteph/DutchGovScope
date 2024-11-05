@@ -1,3 +1,5 @@
 blauwegolfverbindend.nl
 acceptatie.blauwegolfverbindend.nl
 www.blauwegolfverbindend.nl
+ftp.blauwegolfverbindend.nl
+localhost.blauwegolfverbindend.nl

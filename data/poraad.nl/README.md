@@ -11,8 +11,8 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/poraad.nl/subdomains.txt)|9|Alive subdomains|
-|[urls.txt](/data/poraad.nl/urls.txt)|9|Urls|
+|[subdomains.txt](/data/poraad.nl/subdomains.txt)|15|Alive subdomains|
+|[urls.txt](/data/poraad.nl/urls.txt)|15|Urls|
 
 
 ## Statistics
@@ -29,5 +29,11 @@
 |[https://sectorrapportage.poraad.nl](https://sectorrapportage.poraad.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Cloudways Divi:4.21.0 MySQL Nginx PHP WordPress:6.6.2 Yoast SEO:21.5|comingsoon - sec...|
 |[https://sectorrapportage2021.poraad.nl](https://sectorrapportage2021.poraad.nl)| | **F**|nginx|:o: | | | | | | | :white_check_mark: | |Nginx|Home - povoraad|
 |[https://sectorrapportage2022.poraad.nl](https://sectorrapportage2022.poraad.nl)| | **F**|nginx|:o: | | | | | | | :white_check_mark: | |Alpine.js Nginx|Sectorrapportage...|
+|[https://acc3.poraad.nl](https://acc3.poraad.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Basic Nginx|401 Authorizatio...|
+|[https://email.mg.poraad.nl](https://email.mg.poraad.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
+|[https://enterpriseenrollment.poraad.nl](https://enterpriseenrollment.poraad.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||
+|[https://enterpriseregistration.poraad.nl](https://enterpriseregistration.poraad.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
+|[https://msoid.poraad.nl](https://msoid.poraad.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Object moved|
+|[https://nieuwsbrief.poraad.nl](https://nieuwsbrief.poraad.nl)| | **F**|Spotler| | | | | | | | :white_check_mark: | |HSTS||
 
 

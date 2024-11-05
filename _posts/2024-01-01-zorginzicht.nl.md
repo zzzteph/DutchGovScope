@@ -2,8 +2,8 @@
 layout: default
 title: "zorginzicht.nl"
 permalink: "/dutchgov/zorginzicht.nl.html"
-subdomains_count: 9
-urls_count: 9
+subdomains_count: 10
+urls_count: 10
 ssl_rank: 
 http_rank: D
 security_txt: 2
@@ -25,8 +25,8 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/zorginzicht.nl/subdomains.txt)|9|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/zorginzicht.nl/urls.txt)|9|Urls|
+|[subdomains.txt](/DutchGovScope/data/zorginzicht.nl/subdomains.txt)|10|Alive subdomains|
+|[urls.txt](/DutchGovScope/data/zorginzicht.nl/urls.txt)|10|Urls|
 
 
 ## Statistics
@@ -43,5 +43,6 @@ tags: dutchgov
 |[http://www-pr.zorginzicht.nl](http://www-pr.zorginzicht.nl)| | **F**|BigIP| | | | | | | | :white_check_mark: | |F5 BigIP||
 |[https://promtoolbox.zorginzicht.nl](https://promtoolbox.zorginzicht.nl)| | **B**|Apache|:white_check_mark: |:white_check_mark: | | |:warning: | | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
 |[https://zorginzicht.nl](https://zorginzicht.nl)| | **B**|Apache|:white_check_mark: |:white_check_mark: | | |:warning: | | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS|301 Moved Perman...|
+|[https://pr.zorginzicht.nl](https://pr.zorginzicht.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|403 Forbidden|
 
 

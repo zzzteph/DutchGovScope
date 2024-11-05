@@ -6,7 +6,7 @@
 
  - **SSL Grade**:
  - **HTTP Security Grade**:B
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:29
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:28
 
 
 | File       | Count | Info |
@@ -69,8 +69,8 @@
 |[https://acceptatie.behandel.generiekeregistratiedienst.cibg.nl](https://acceptatie.behandel.generiekeregistratiedienst.cibg.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://acceptatie.beheer.generiekeregistratiedienst.cibg.nl](https://acceptatie.beheer.generiekeregistratiedienst.cibg.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[http://acceptatie.digikoppeling2.cibg.nl](http://acceptatie.digikoppeling2.cibg.nl)| | **F**|BigIP| | | | | | | | :white_check_mark: | |F5 BigIP||
-|[https://behandel.generiekeregistratiedienst.cibg.nl](https://behandel.generiekeregistratiedienst.cibg.nl)| | **A**|-| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
-|[https://beheer.generiekeregistratiedienst.cibg.nl](https://beheer.generiekeregistratiedienst.cibg.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
+|[https://behandel.generiekeregistratiedienst.cibg.nl](https://behandel.generiekeregistratiedienst.cibg.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
+|[https://beheer.generiekeregistratiedienst.cibg.nl](https://beheer.generiekeregistratiedienst.cibg.nl)| | **A**|-| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://designsystem.cibg.nl](https://designsystem.cibg.nl)| | **A**|-| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|CIBG Design syst...|
 |[http://digikoppeling.cibg.nl](http://digikoppeling.cibg.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||
 |[http://digikoppeling2.cibg.nl](http://digikoppeling2.cibg.nl)| | **F**|BigIP| | | | | | | | :white_check_mark: | |F5 BigIP||

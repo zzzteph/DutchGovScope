@@ -48,7 +48,7 @@ https://geoweb.rijkswaterstaat.nl
 https://iam.rijkswaterstaat.nl
 https://inloggen.rijkswaterstaat.nl
 http://innovatie-test.rijkswaterstaat.nl
-https://loket.acceptatie.rijkswaterstaat.nl
+http://loket.acceptatie.rijkswaterstaat.nl
 https://loket.rijkswaterstaat.nl
 https://maps.rijkswaterstaat.nl
 https://mars.rijkswaterstaat.nl
@@ -82,6 +82,7 @@ https://zaaksysteem.rijkswaterstaat.nl
 https://zwerfafval.rijkswaterstaat.nl
 https://acc-geo.rijkswaterstaat.nl
 https://static.ont.staging.werkenbij.rijkswaterstaat.nl
+https://hld.rijkswaterstaat.nl
 https://innovatieloket-tst.rijkswaterstaat.nl
 https://innovatieloket-acc.rijkswaterstaat.nl
 https://innovatieloket.rijkswaterstaat.nl

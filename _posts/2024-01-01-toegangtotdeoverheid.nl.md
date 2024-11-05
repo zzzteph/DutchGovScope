@@ -2,7 +2,7 @@
 layout: default
 title: "toegangtotdeoverheid.nl"
 permalink: "/dutchgov/toegangtotdeoverheid.nl.html"
-subdomains_count: 0
+subdomains_count: 1
 urls_count: 0
 ssl_rank: 
 http_rank: F
@@ -25,7 +25,7 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/toegangtotdeoverheid.nl/subdomains.txt)|0|Alive subdomains|
+|[subdomains.txt](/DutchGovScope/data/toegangtotdeoverheid.nl/subdomains.txt)|1|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/toegangtotdeoverheid.nl/urls.txt)|0|Urls|
 
 

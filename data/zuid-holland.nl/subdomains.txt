@@ -49,7 +49,6 @@ omgevingsdocumenten.zuid-holland.nl
 opendata.zuid-holland.nl
 planmer.zuid-holland.nl
 ro.zuid-holland.nl
-ruimtelijkeplannen.zuid-holland.nl
 thesaurus.zuid-holland.nl
 werkenvoor.zuid-holland.nl
 zaaksysteem-accept.zuid-holland.nl
@@ -72,3 +71,4 @@ css.openstad.zuid-holland.nl
 auth.openstad.zuid-holland.nl
 admin.openstad.zuid-holland.nl
 www.openstad.zuid-holland.nl
+img.openstad.zuid-holland.nl

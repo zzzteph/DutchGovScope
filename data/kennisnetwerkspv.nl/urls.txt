@@ -1,2 +1,1 @@
-https://kennisnetwerkspv.nl
-https://www.kennisnetwerkspv.nl
+http://autodiscover.kennisnetwerkspv.nl

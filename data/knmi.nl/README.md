@@ -11,8 +11,8 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/knmi.nl/subdomains.txt)|62|Alive subdomains|
-|[urls.txt](/data/knmi.nl/urls.txt)|62|Urls|
+|[subdomains.txt](/data/knmi.nl/subdomains.txt)|63|Alive subdomains|
+|[urls.txt](/data/knmi.nl/urls.txt)|63|Urls|
 
 
 ## Statistics
@@ -80,7 +80,8 @@
 |[https://testgeoservices.knmi.nl](https://testgeoservices.knmi.nl)| | **F**|uvicorn| | | | | | | | :white_check_mark: | |HSTS Python Uvicorn||
 |[https://hapi.acc.spaceweather.knmi.nl](https://hapi.acc.spaceweather.knmi.nl)| | **F**|Apache/2.4.58 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.58 Ubuntu|Apache2 Ubuntu D...|
 |[https://hapi.spaceweather.knmi.nl](https://hapi.spaceweather.knmi.nl)| | **F**|Apache/2.4.58 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.58 Ubuntu|Apache2 Ubuntu D...|
-|[https://panelrows.dev.spaceweather.knmi.nl](https://panelrows.dev.spaceweather.knmi.nl)| | **F**|AmazonS3| | | | | | | | :white_check_mark: | |Amazon CloudFront Amazon S3 Amazon Web Services|Space Weather at...|
 |[https://cabauw.knmi.nl](https://cabauw.knmi.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|Redirecting to h...|
+|[https://extrema.dev.spaceweather.knmi.nl](https://extrema.dev.spaceweather.knmi.nl)| | **F**|AmazonS3| | | | | | | | :white_check_mark: | |Amazon CloudFront Amazon S3 Amazon Web Services|Space Weather at...|
+|[https://spriteborder.dev.spaceweather.knmi.nl](https://spriteborder.dev.spaceweather.knmi.nl)| | **F**|AmazonS3| | | | | | | | :white_check_mark: | |Amazon CloudFront Amazon S3 Amazon Web Services|Space Weather at...|
 
 

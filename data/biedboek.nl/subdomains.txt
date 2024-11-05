@@ -4,3 +4,7 @@ acceptatie-nieuw.biedboek.nl
 test-nieuw.biedboek.nl
 productie-nieuw.biedboek.nl
 deployment.biedboek.nl
+autodiscover.biedboek.nl
+enterpriseregistration.biedboek.nl
+localhost.biedboek.nl
+msoid.biedboek.nl

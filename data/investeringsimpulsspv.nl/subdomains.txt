@@ -2,3 +2,7 @@ feeds.investeringsimpulsspv.nl
 opendata.investeringsimpulsspv.nl
 www.investeringsimpulsspv.nl
 investeringsimpulsspv.nl
+ftp.investeringsimpulsspv.nl
+mail.investeringsimpulsspv.nl
+pop.investeringsimpulsspv.nl
+smtp.investeringsimpulsspv.nl

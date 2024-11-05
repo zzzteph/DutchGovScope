@@ -12,7 +12,6 @@ nvwa.nl
 opendata.english.nvwa.nl
 opendata.nvwa.nl
 forms-acc.nvwa.nl
-formulieren-acc.nvwa.nl
 formulieren.nvwa.nl
 inspectieresultaten.nvwa.nl
 openbare-inspectieresultaten.nvwa.nl
@@ -22,6 +21,7 @@ ivo.nvwa.nl
 iwelcome-preprod.nvwa.nl
 iwelcome.nvwa.nl
 labvantage-acc.nvwa.nl
+mijn-acc.nvwa.nl
 mijn.nvwa.nl
 ras-acc.nvwa.nl
 www.ras-acc.nvwa.nl
@@ -33,3 +33,5 @@ videoleren.nvwa.nl
 e-certnl.nvwa.nl
 forms.nvwa.nl
 www.inspectieresultaten.nvwa.nl
+i-certnl.nvwa.nl
+soap.openbare-inspectieresultaten.nvwa.nl

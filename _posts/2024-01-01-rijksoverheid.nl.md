@@ -5,7 +5,7 @@ permalink: "/dutchgov/rijksoverheid.nl.html"
 subdomains_count: 21
 urls_count: 21
 ssl_rank: 
-http_rank: A
+http_rank: B
 security_txt: 12
 url_link: /data/rijksoverheid.nl/urls.txt
 subdomains_link: /data/rijksoverheid.nl/subdomains.txt
@@ -19,7 +19,7 @@ tags: dutchgov
 
 
  - **SSL Grade**:
- - **HTTP Security Grade**:A
+ - **HTTP Security Grade**:B
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:12
 
 
@@ -52,7 +52,7 @@ tags: dutchgov
 |[https://redir.rijksoverheid.nl](https://redir.rijksoverheid.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|403 Forbidden|
 |[https://sdg.rijksoverheid.nl](https://sdg.rijksoverheid.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS HTTP/3|Regelen in Neder...|
 |[https://statistiek.rijksoverheid.nl](https://statistiek.rijksoverheid.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS|Loading...|
-|[http://teverantwoordenregelingen.rijksoverheid.nl](http://teverantwoordenregelingen.rijksoverheid.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:-||
+|[https://teverantwoordenregelingen.rijksoverheid.nl](https://teverantwoordenregelingen.rijksoverheid.nl)| | **A**|-| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:-|Concept verantwo...|
 |[https://e-mailabonnementen.rijksoverheid.nl](https://e-mailabonnementen.rijksoverheid.nl)| | **A**|nginx| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://woo-formulier.rijksoverheid.nl](https://woo-formulier.rijksoverheid.nl)| | **F**|awselb/2.0| | | | | | | | :white_check_mark: | |Amazon ELB Amazon Web Services|Ministerie van B...|
 

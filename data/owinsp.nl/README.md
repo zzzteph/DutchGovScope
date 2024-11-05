@@ -12,7 +12,7 @@
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/owinsp.nl/subdomains.txt)|11|Alive subdomains|
-|[urls.txt](/data/owinsp.nl/urls.txt)|10|Urls|
+|[urls.txt](/data/owinsp.nl/urls.txt)|11|Urls|
 
 
 ## Statistics
@@ -30,5 +30,6 @@
 |[https://owinsp.nl](https://owinsp.nl)| | **F**|Apache/2| | | | | | | | :white_check_mark: | |Apache HTTP Server:2|301 Moved Perman...|
 |[https://www.owinsp.nl](https://www.owinsp.nl)| | **F**|Apache/2| | | | | | | | :white_check_mark: | |Apache HTTP Server:2|301 Moved Perman...|
 |[https://pitng.test.owinsp.nl](https://pitng.test.owinsp.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
+|[https://bounce.owinsp.nl](https://bounce.owinsp.nl)| | **F**|Microsoft-Azure-Application-Gateway/v2| | | | | | | | :white_check_mark: | ||404 Not Found|
 
 

@@ -1,11 +1,15 @@
+preprod.purl.stelselcatalogus.nl
+preprod.playground.stelselcatalogus.nl
 preprod.opendata.stelselcatalogus.nl
 preprod.stelselcatalogus.nl
 opendata.stelselcatalogus.nl
 stelselcatalogus.nl
 www.stelselcatalogus.nl
 playground.stelselcatalogus.nl
+purl.stelselcatalogus.nl
 begrippen.stelselcatalogus.nl
 preprod.begrippen.stelselcatalogus.nl
 preprod.keycloak.stelselcatalogus.nl
+keycloak.stelselcatalogus.nl
 editor.stelselcatalogus.nl
 preprod.www.stelselcatalogus.nl

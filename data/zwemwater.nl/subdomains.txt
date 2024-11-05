@@ -11,3 +11,8 @@ acc.zwemwater.nl
 pre-pub.zwemwater.nl
 pubgeo.zwemwater.nl
 wwww.zwemwater.nl
+acpt.zwemwater.nl
+ftp.zwemwater.nl
+localhost.zwemwater.nl
+webmail.zwemwater.nl
+inspiregeo.zwemwater.nl

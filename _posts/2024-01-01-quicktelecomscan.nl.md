@@ -3,7 +3,7 @@ layout: default
 title: "quicktelecomscan.nl"
 permalink: "/dutchgov/quicktelecomscan.nl.html"
 subdomains_count: 3
-urls_count: 2
+urls_count: 3
 ssl_rank: 
 http_rank: D
 security_txt: 2
@@ -26,7 +26,7 @@ tags: dutchgov
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/DutchGovScope/data/quicktelecomscan.nl/subdomains.txt)|3|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/quicktelecomscan.nl/urls.txt)|2|Urls|
+|[urls.txt](/DutchGovScope/data/quicktelecomscan.nl/urls.txt)|3|Urls|
 
 
 ## Statistics
@@ -36,5 +36,6 @@ tags: dutchgov
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[https://quicktelecomscan.nl](https://quicktelecomscan.nl)| | **D**|nginx/1.20.1| | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Nginx:1.20.1 PHP||
 |[https://www.quicktelecomscan.nl](https://www.quicktelecomscan.nl)| | **D**|nginx/1.20.1| | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Nginx:1.20.1 PHP||
+|[https://email.mg.quicktelecomscan.nl](https://email.mg.quicktelecomscan.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 
 

@@ -5,14 +5,14 @@
 
 
  - **SSL Grade**:
- - **HTTP Security Grade**:B
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:5
+ - **HTTP Security Grade**:A
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:6
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/politiekeambtsdragers.nl/subdomains.txt)|6|Alive subdomains|
-|[urls.txt](/data/politiekeambtsdragers.nl/urls.txt)|6|Urls|
+|[subdomains.txt](/data/politiekeambtsdragers.nl/subdomains.txt)|7|Alive subdomains|
+|[urls.txt](/data/politiekeambtsdragers.nl/urls.txt)|7|Urls|
 
 
 ## Statistics
@@ -26,5 +26,6 @@
 |[https://feeds.politiekeambtsdragers.nl](https://feeds.politiekeambtsdragers.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://opendata.politiekeambtsdragers.nl](https://opendata.politiekeambtsdragers.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://politiekeambtsdragers.nl](https://politiekeambtsdragers.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
+|[https://diversiteitsplein.politiekeambtsdragers.nl](https://diversiteitsplein.politiekeambtsdragers.nl)| | **A**|Apache| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Apache HTTP Server HSTS||
 
 

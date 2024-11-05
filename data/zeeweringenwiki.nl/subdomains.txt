@@ -1,3 +1,4 @@
 mail.zeeweringenwiki.nl
 www.zeeweringenwiki.nl
 zeeweringenwiki.nl
+ftp.zeeweringenwiki.nl

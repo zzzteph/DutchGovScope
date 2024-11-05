@@ -8,3 +8,7 @@ eva.perined.nl
 perined.nl
 assets.perined.nl
 www.perined.nl
+evaluatie.perined.nl
+autodiscover.perined.nl
+localhost.perined.nl
+webmail.perined.nl

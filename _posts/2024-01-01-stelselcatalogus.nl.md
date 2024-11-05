@@ -2,11 +2,11 @@
 layout: default
 title: "stelselcatalogus.nl"
 permalink: "/dutchgov/stelselcatalogus.nl.html"
-subdomains_count: 11
-urls_count: 10
+subdomains_count: 15
+urls_count: 15
 ssl_rank: 
-http_rank: C
-security_txt: 3
+http_rank: D
+security_txt: 4
 url_link: /data/stelselcatalogus.nl/urls.txt
 subdomains_link: /data/stelselcatalogus.nl/subdomains.txt
 categories: dutchgov
@@ -19,14 +19,14 @@ tags: dutchgov
 
 
  - **SSL Grade**:
- - **HTTP Security Grade**:C
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:3
+ - **HTTP Security Grade**:D
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:4
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/stelselcatalogus.nl/subdomains.txt)|11|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/stelselcatalogus.nl/urls.txt)|10|Urls|
+|[subdomains.txt](/DutchGovScope/data/stelselcatalogus.nl/subdomains.txt)|15|Alive subdomains|
+|[urls.txt](/DutchGovScope/data/stelselcatalogus.nl/urls.txt)|15|Urls|
 
 
 ## Statistics
@@ -34,15 +34,20 @@ tags: dutchgov
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
+|[https://preprod.purl.stelselcatalogus.nl](https://preprod.purl.stelselcatalogus.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
+|[https://preprod.playground.stelselcatalogus.nl](https://preprod.playground.stelselcatalogus.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS|404 Not Found|
 |[https://preprod.opendata.stelselcatalogus.nl](https://preprod.opendata.stelselcatalogus.nl)| | **F**|Stelselcatalogus| | | | | | | | :white_check_mark: | |HSTS|Logius Stelselca...|
 |[https://preprod.stelselcatalogus.nl](https://preprod.stelselcatalogus.nl)| | **F**|Stelselcatalogus| | | | | | | | :white_check_mark: | |HSTS|Logius Stelselca...|
 |[https://opendata.stelselcatalogus.nl](https://opendata.stelselcatalogus.nl)| | **A**|Stelselcatalogus| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Logius Stelselca...|
 |[https://stelselcatalogus.nl](https://stelselcatalogus.nl)| | **A**|Stelselcatalogus| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Logius Stelselca...|
 |[https://www.stelselcatalogus.nl](https://www.stelselcatalogus.nl)| | **A**|Stelselcatalogus| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Logius Stelselca...|
 |[https://playground.stelselcatalogus.nl](https://playground.stelselcatalogus.nl)| | **E**|| | | | | | | | :white_check_mark: | ||404 Not Found|
+|[https://purl.stelselcatalogus.nl](https://purl.stelselcatalogus.nl)| | **C**|| |:white_check_mark: | :warning:| | | | | :white_check_mark: | |HSTS|Viewer|
 |[https://begrippen.stelselcatalogus.nl](https://begrippen.stelselcatalogus.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|404 Not Found|
 |[https://preprod.begrippen.stelselcatalogus.nl](https://preprod.begrippen.stelselcatalogus.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS|404 Not Found|
 |[https://preprod.keycloak.stelselcatalogus.nl](https://preprod.keycloak.stelselcatalogus.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Welcome to Keycl...|
+|[https://keycloak.stelselcatalogus.nl](https://keycloak.stelselcatalogus.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS|404 Not Found|
 |[https://editor.stelselcatalogus.nl](https://editor.stelselcatalogus.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS|Begrippenkadered...|
+|[https://preprod.www.stelselcatalogus.nl](https://preprod.www.stelselcatalogus.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||
 
 

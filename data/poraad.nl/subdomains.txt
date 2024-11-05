@@ -7,3 +7,9 @@ manometer.poraad.nl
 sectorrapportage.poraad.nl
 sectorrapportage2021.poraad.nl
 sectorrapportage2022.poraad.nl
+acc3.poraad.nl
+email.mg.poraad.nl
+enterpriseenrollment.poraad.nl
+enterpriseregistration.poraad.nl
+msoid.poraad.nl
+nieuwsbrief.poraad.nl

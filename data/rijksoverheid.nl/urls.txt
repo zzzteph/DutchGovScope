@@ -16,6 +16,6 @@ https://informatiepuntkinderopvangtoeslag.rijksoverheid.nl
 https://redir.rijksoverheid.nl
 https://sdg.rijksoverheid.nl
 https://statistiek.rijksoverheid.nl
-http://teverantwoordenregelingen.rijksoverheid.nl
+https://teverantwoordenregelingen.rijksoverheid.nl
 https://e-mailabonnementen.rijksoverheid.nl
 https://woo-formulier.rijksoverheid.nl

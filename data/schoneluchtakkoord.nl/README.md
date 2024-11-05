@@ -11,8 +11,8 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/schoneluchtakkoord.nl/subdomains.txt)|2|Alive subdomains|
-|[urls.txt](/data/schoneluchtakkoord.nl/urls.txt)|2|Urls|
+|[subdomains.txt](/data/schoneluchtakkoord.nl/subdomains.txt)|3|Alive subdomains|
+|[urls.txt](/data/schoneluchtakkoord.nl/urls.txt)|3|Urls|
 
 
 ## Statistics
@@ -22,5 +22,6 @@
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[https://schoneluchtakkoord.nl](https://schoneluchtakkoord.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Microsoft ASP.NET:-|Document Moved|
 |[https://www.schoneluchtakkoord.nl](https://www.schoneluchtakkoord.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:-|Home - Schone lu...|
+|[https://samenwerken.schoneluchtakkoord.nl](https://samenwerken.schoneluchtakkoord.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS|Object moved|
 
 

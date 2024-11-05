@@ -35,8 +35,6 @@ https://enterpriseregistration.kvk.nl
 https://events.kvk.nl
 https://idp.kvk.nl
 https://image.email.kvk.nl
-https://kvk.nl
-https://www.kvk.nl
 https://msafe.kvk.nl
 https://msoid.kvk.nl
 https://ondertekenen-id.acp.kvk.nl
@@ -45,12 +43,9 @@ https://rhub.kvk.nl
 https://sdgapi.acp.ondernemersplein.kvk.nl
 https://sdgapi.ondernemersplein.kvk.nl
 https://staging.werkenbij.kvk.nl
-https://static.kvk.nl
 https://status.kvk.nl
 https://swp.kvk.nl
 https://view.email.kvk.nl
 https://vpn.kvk.nl
-https://web-api.kvk.nl
 https://werkenbij.kvk.nl
-https://www3.kvk.nl
 https://zoeken.kvk.nl

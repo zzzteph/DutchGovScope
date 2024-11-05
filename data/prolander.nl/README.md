@@ -11,7 +11,7 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/prolander.nl/subdomains.txt)|4|Alive subdomains|
+|[subdomains.txt](/data/prolander.nl/subdomains.txt)|8|Alive subdomains|
 |[urls.txt](/data/prolander.nl/urls.txt)|4|Urls|
 
 

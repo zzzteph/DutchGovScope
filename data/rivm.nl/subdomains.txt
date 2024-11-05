@@ -220,6 +220,7 @@ teebstad.rivm.nl
 www.teebstad.rivm.nl
 teekcontrol.rivm.nl
 test-fides.rivm.nl
+test-veldmonitoring.rivm.nl
 test.crios.rivm.nl
 test.lci.rivm.nl
 test.lml.rivm.nl

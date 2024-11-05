@@ -1,6 +1,7 @@
 acceptatie.beheer.diergeneeskunderegister.nl
 acceptatie.mijn.diergeneeskunderegister.nl
 acceptatie.webservices.diergeneeskunderegister.nl
+acceptatie.zoeken.diergeneeskunderegister.nl
 opendata.diergeneeskunderegister.nl
 www.diergeneeskunderegister.nl
 diergeneeskunderegister.nl

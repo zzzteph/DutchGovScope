@@ -55,6 +55,7 @@ https://octopus-acc-docs.provincie-utrecht.nl
 https://octopus-acc.provincie-utrecht.nl
 https://ruimtelijkeplanneninterntest.provincie-utrecht.nl
 https://ruimtelijkeplannentest.provincie-utrecht.nl
+https://planoview.provincie-utrecht.nl
 https://ruimtelijkeplannen.provincie-utrecht.nl
 https://ruimtelijkeplannenintern.provincie-utrecht.nl
 https://sap-crm.provincie-utrecht.nl
@@ -63,6 +64,7 @@ https://search.provincie-utrecht.nl
 https://slechtvalk.provincie-utrecht.nl
 https://sslvpn-hth.provincie-utrecht.nl
 https://sslvpn.provincie-utrecht.nl
+https://stateninformatie.provincie-utrecht.nl
 https://www.stateninformatie.provincie-utrecht.nl
 https://tramdashboard.provincie-utrecht.nl
 https://vctu-api.provincie-utrecht.nl

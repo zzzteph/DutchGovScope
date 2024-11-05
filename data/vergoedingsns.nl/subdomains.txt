@@ -1,4 +1,3 @@
-aanvragen.vergoedingsns.nl
 feeds.vergoedingsns.nl
 opendata.vergoedingsns.nl
 vergoedingsns.nl

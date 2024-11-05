@@ -104,3 +104,5 @@ https://zabbix6.mintst2.rijkscloud.nl
 https://dbe-t.rvb.rijkscloud.nl
 https://images.analyse.ilt.rijkscloud.nl
 https://registry.gitlab.analyse.ilt.rijkscloud.nl
+https://ip4.rijkscloud.nl
+https://ip6.rijkscloud.nl

@@ -21,5 +21,5 @@ https://wsus.hdsr.nl
 https://zaaksysteem-acc.hdsr.nl
 https://zaaksysteem.hdsr.nl
 http://zoeken.hdsr.nl
+https://kantoor.hdsr.nl
 https://remote-pa.hdsr.nl
-https://ftp-hdsr.hdsr.nl

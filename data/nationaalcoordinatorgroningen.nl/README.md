@@ -11,7 +11,7 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/nationaalcoordinatorgroningen.nl/subdomains.txt)|9|Alive subdomains|
+|[subdomains.txt](/data/nationaalcoordinatorgroningen.nl/subdomains.txt)|11|Alive subdomains|
 |[urls.txt](/data/nationaalcoordinatorgroningen.nl/urls.txt)|9|Urls|
 
 

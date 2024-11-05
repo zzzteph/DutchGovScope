@@ -2,10 +2,10 @@
 layout: default
 title: "raadvanstate.nl"
 permalink: "/dutchgov/raadvanstate.nl.html"
-subdomains_count: 29
+subdomains_count: 31
 urls_count: 29
 ssl_rank: 
-http_rank: B
+http_rank: C
 security_txt: 9
 url_link: /data/raadvanstate.nl/urls.txt
 subdomains_link: /data/raadvanstate.nl/subdomains.txt
@@ -19,13 +19,13 @@ tags: dutchgov
 
 
  - **SSL Grade**:
- - **HTTP Security Grade**:B
+ - **HTTP Security Grade**:C
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:9
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/raadvanstate.nl/subdomains.txt)|29|Alive subdomains|
+|[subdomains.txt](/DutchGovScope/data/raadvanstate.nl/subdomains.txt)|31|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/raadvanstate.nl/urls.txt)|29|Urls|
 
 
@@ -34,7 +34,7 @@ tags: dutchgov
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://adfs-acc.raadvanstate.nl](https://adfs-acc.raadvanstate.nl)| | **C**|Microsoft-HTTPAPI/2.0| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Microsoft HTTPAPI:2.0|Not Found|
+|[https://adfs-acc.raadvanstate.nl](https://adfs-acc.raadvanstate.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft HTTPAPI:2.0||
 |[https://adfs.raadvanstate.nl](https://adfs.raadvanstate.nl)| | **E**|Microsoft-HTTPAPI/2.0|:o: |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Microsoft HTTPAPI:2.0|Not Found|
 |[https://analytics-radius.raadvanstate.nl](https://analytics-radius.raadvanstate.nl)| | **D**|Apache|:white_check_mark: | | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server Matomo Analytics|Sign in - Matomo|
 |[https://radius-acc.raadvanstate.nl](https://radius-acc.raadvanstate.nl)| | **B**|Apache|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS||
@@ -51,7 +51,7 @@ tags: dutchgov
 |[https://loket-inloggen-preprod.raadvanstate.nl](https://loket-inloggen-preprod.raadvanstate.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
 |[https://loket-inloggen.raadvanstate.nl](https://loket-inloggen.raadvanstate.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
 |[https://loket.raadvanstate.nl](https://loket.raadvanstate.nl)| | **A**|Microsoft-IIS/10.0|:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |IIS:10.0 Windows Server||
-|[https://mijnzaak-acc.raadvanstate.nl](https://mijnzaak-acc.raadvanstate.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Object moved|
+|[https://mijnzaak-acc.raadvanstate.nl](https://mijnzaak-acc.raadvanstate.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||
 |[https://mijnzaak.raadvanstate.nl](https://mijnzaak.raadvanstate.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Object moved|
 |[https://portaal.gateway.raadvanstate.nl](https://portaal.gateway.raadvanstate.nl)| | **F**|Layer7-API-Gateway| | | | | | | | :white_check_mark: | |||
 |[https://siam-acp.raadvanstate.nl](https://siam-acp.raadvanstate.nl)| | **A**|N.A.| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bootstrap HSTS|Mijn Zaak - Aanm...|

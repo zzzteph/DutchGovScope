@@ -73,6 +73,7 @@ https://geoservices.rws.nl
 https://geostenen.grid.rws.nl
 https://geoweb.rws.nl
 http://git.rws.nl
+https://hld.rws.nl
 https://inloggen.rws.nl
 https://maps.rws.nl
 https://mars.rws.nl

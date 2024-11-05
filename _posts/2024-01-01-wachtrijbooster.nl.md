@@ -2,8 +2,8 @@
 layout: default
 title: "wachtrijbooster.nl"
 permalink: "/dutchgov/wachtrijbooster.nl.html"
-subdomains_count: 2
-urls_count: 2
+subdomains_count: 4
+urls_count: 4
 ssl_rank: 
 http_rank: D
 security_txt: 0
@@ -25,8 +25,8 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/wachtrijbooster.nl/subdomains.txt)|2|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/wachtrijbooster.nl/urls.txt)|2|Urls|
+|[subdomains.txt](/DutchGovScope/data/wachtrijbooster.nl/subdomains.txt)|4|Alive subdomains|
+|[urls.txt](/DutchGovScope/data/wachtrijbooster.nl/urls.txt)|4|Urls|
 
 
 ## Statistics
@@ -36,5 +36,7 @@ tags: dutchgov
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[https://wachtrijbooster.nl](https://wachtrijbooster.nl)| | **E**|cloudflare| | | | | | :white_check_mark: | | :white_check_mark: | |Cloudflare HTTP/3|Attention Requir...|
 |[https://aanmelden.wachtrijbooster.nl](https://aanmelden.wachtrijbooster.nl)| | **C**|cloudflare| |:white_check_mark: | | | | | | :white_check_mark: | |Cloudflare HTTP/3||
+|[https://api.wachtrijbooster.nl](https://api.wachtrijbooster.nl)| | **E**|cloudflare| | | | | | :white_check_mark: | | :white_check_mark: | |Cloudflare HTTP/3||
+|[https://www.wachtrijbooster.nl](https://www.wachtrijbooster.nl)| | **C**|cloudflare| | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Cloudflare HTTP/3|Online een afspr...|
 
 

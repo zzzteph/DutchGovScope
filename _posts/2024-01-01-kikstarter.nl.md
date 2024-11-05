@@ -2,8 +2,8 @@
 layout: default
 title: "kikstarter.nl"
 permalink: "/dutchgov/kikstarter.nl.html"
-subdomains_count: 5
-urls_count: 5
+subdomains_count: 6
+urls_count: 6
 ssl_rank: 
 http_rank: C
 security_txt: 0
@@ -25,8 +25,8 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/kikstarter.nl/subdomains.txt)|5|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/kikstarter.nl/urls.txt)|5|Urls|
+|[subdomains.txt](/DutchGovScope/data/kikstarter.nl/subdomains.txt)|6|Alive subdomains|
+|[urls.txt](/DutchGovScope/data/kikstarter.nl/urls.txt)|6|Urls|
 
 
 ## Statistics
@@ -39,5 +39,6 @@ tags: dutchgov
 |[https://www.kikstarter.nl](https://www.kikstarter.nl)| | **A**|istio-envoy| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Envoy HSTS|KIK-Starter|
 |[https://sso.test.kikstarter.nl](https://sso.test.kikstarter.nl)| | **F**|istio-envoy| | | | | | | | :white_check_mark: | |||
 |[https://test.kikstarter.nl](https://test.kikstarter.nl)| | **A**|istio-envoy| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Envoy HSTS|KIK-Starter|
+|[http://nuts.kikstarter.nl](http://nuts.kikstarter.nl)| | **F**|istio-envoy| | | | | | | | :white_check_mark: | |||
 
 

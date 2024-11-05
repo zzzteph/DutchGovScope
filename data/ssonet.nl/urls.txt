@@ -1,4 +1,3 @@
 http://exchange.ssonet.nl
 https://ssonet.nl
 https://www.ssonet.nl
-https://test.ssonet.nl

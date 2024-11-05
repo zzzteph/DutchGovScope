@@ -35,8 +35,6 @@ enterpriseregistration.kvk.nl
 events.kvk.nl
 idp.kvk.nl
 image.email.kvk.nl
-kvk.nl
-www.kvk.nl
 msafe.kvk.nl
 msoid.kvk.nl
 ondertekenen-id.acp.kvk.nl
@@ -45,12 +43,9 @@ rhub.kvk.nl
 sdgapi.acp.ondernemersplein.kvk.nl
 sdgapi.ondernemersplein.kvk.nl
 staging.werkenbij.kvk.nl
-static.kvk.nl
 status.kvk.nl
 swp.kvk.nl
 view.email.kvk.nl
 vpn.kvk.nl
-web-api.kvk.nl
 werkenbij.kvk.nl
-www3.kvk.nl
 zoeken.kvk.nl

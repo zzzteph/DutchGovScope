@@ -11,8 +11,8 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/feedfoodtransfer.nl/subdomains.txt)|6|Alive subdomains|
-|[urls.txt](/data/feedfoodtransfer.nl/urls.txt)|5|Urls|
+|[subdomains.txt](/data/feedfoodtransfer.nl/subdomains.txt)|7|Alive subdomains|
+|[urls.txt](/data/feedfoodtransfer.nl/urls.txt)|6|Urls|
 
 
 ## Statistics
@@ -25,5 +25,6 @@
 |[https://feedfoodtransfer.nl](https://feedfoodtransfer.nl)| | **A**|Apache| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS|301 Moved Perman...|
 |[https://dieldrinhcblindane-hen.apps.feedfoodtransfer.nl](https://dieldrinhcblindane-hen.apps.feedfoodtransfer.nl)| | **B**||:white_check_mark: |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | |Bootstrap HSTS||
 |[https://pfos-pfoa-cow.apps.feedfoodtransfer.nl](https://pfos-pfoa-cow.apps.feedfoodtransfer.nl)| | **B**||:white_check_mark: |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | |Bootstrap HSTS||
+|[https://aflatoxinb1m1-cow.apps.feedfoodtransfer.nl](https://aflatoxinb1m1-cow.apps.feedfoodtransfer.nl)| | **B**||:white_check_mark: |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | |Bootstrap HSTS||
 
 

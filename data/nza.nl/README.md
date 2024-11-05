@@ -11,7 +11,7 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/nza.nl/subdomains.txt)|36|Alive subdomains|
+|[subdomains.txt](/data/nza.nl/subdomains.txt)|37|Alive subdomains|
 |[urls.txt](/data/nza.nl/urls.txt)|36|Urls|
 
 
@@ -55,6 +55,6 @@
 |[https://zorgproducten-test.nza.nl](https://zorgproducten-test.nza.nl)| | **A**|nginx|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Azure HSTS Microsoft ASP.NET Nginx|NZa zorgproducta...|
 |[https://zorgproducten.nza.nl](https://zorgproducten.nza.nl)| | **A**|nginx|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Azure HSTS Microsoft ASP.NET Nginx|NZa zorgproducta...|
 |[https://aanvragen-acc.nza.nl](https://aanvragen-acc.nza.nl)| | **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Nginx|Mendix|
-|[http://mijn.nza.nl](http://mijn.nza.nl)| | **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |Nginx|301 Moved Perman...|
+|[https://mijn.nza.nl](https://mijn.nza.nl)| | **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Nginx|Deze pagina is m...|
 
 

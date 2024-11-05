@@ -1,4 +1,4 @@
-https://aanvraagformulier.stopheling.nl
+http://aanvraagformulier.stopheling.nl
 https://opkopersregister.stopheling.nl
 https://accp-dor.stopheling.nl
 https://accp-dorbeheer.stopheling.nl

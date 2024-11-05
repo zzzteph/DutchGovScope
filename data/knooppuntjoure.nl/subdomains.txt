@@ -1,3 +1,6 @@
 knooppuntjoure.nl
 www.knooppuntjoure.nl
 mail.knooppuntjoure.nl
+ftp.knooppuntjoure.nl
+pop.knooppuntjoure.nl
+smtp.knooppuntjoure.nl

@@ -11,8 +11,8 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/mobilityhappiness.nl/subdomains.txt)|6|Alive subdomains|
-|[urls.txt](/data/mobilityhappiness.nl/urls.txt)|6|Urls|
+|[subdomains.txt](/data/mobilityhappiness.nl/subdomains.txt)|7|Alive subdomains|
+|[urls.txt](/data/mobilityhappiness.nl/urls.txt)|7|Urls|
 
 
 ## Statistics
@@ -26,5 +26,6 @@
 |[https://www.development.mobilityhappiness.nl](https://www.development.mobilityhappiness.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx||
 |[https://www.mobiliteitsalliantie.mobilityhappiness.nl](https://www.mobiliteitsalliantie.mobilityhappiness.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx||
 |[https://www.mobilityhappiness.nl](https://www.mobilityhappiness.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx||
+|[https://autodiscover.mobilityhappiness.nl](https://autodiscover.mobilityhappiness.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|Argeweb Webmail...|
 
 

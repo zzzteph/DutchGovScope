@@ -1,4 +1,5 @@
 apim-icc.svb.nl
+applicationstest.svb.nl
 app-a.svb.nl
 app-o.svb.nl
 app-t.svb.nl
@@ -45,10 +46,10 @@ remotedesktop.svb.nl
 secure5.svb.nl
 svb.nl
 www.svb.nl
-test-intranet.svb.nl
 test-cmsintranet.svb.nl
 events.svb.nl
 mft-prd.svb.nl
 rdsapplications00.svb.nl
+canary-svb.svb.nl
 kennisbank.svb.nl
 enterpriseregistration.svb.nl

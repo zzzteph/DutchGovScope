@@ -185,7 +185,7 @@ https://ipkd-orders.rijksapplicaties.nl
 https://ov-kaarten.rijksapplicaties.nl
 https://eva.rijksapplicaties.nl
 https://mijn-ncg.rijksapplicaties.nl
-http://dia-acceptatie.rijksapplicaties.nl
+https://dia-acceptatie.rijksapplicaties.nl
 https://dib-ilt.rijksapplicaties.nl
 https://stakeholdersregistratie.rijksapplicaties.nl
 https://rvb-vgi1.rijksapplicaties.nl
@@ -203,8 +203,8 @@ https://ufp.rijksapplicaties.nl
 https://dino.rijksapplicaties.nl
 https://monitor.rijksapplicaties.nl
 https://clminhuurdatabase.rijksapplicaties.nl
-http://digidex.rijksapplicaties.nl
-http://adr.rijksapplicaties.nl
+https://digidex.rijksapplicaties.nl
+https://adr.rijksapplicaties.nl
 https://cfa-rvb.rijksapplicaties.nl
 https://via-i.rijksapplicaties.nl
 https://via.rijksapplicaties.nl
@@ -254,3 +254,13 @@ https://rvb-events.rijksapplicaties.nl
 https://wpo.rijksapplicaties.nl
 https://lup.rijksapplicaties.nl
 https://bhw.rijksapplicaties.nl
+https://prisma.rijksapplicaties.nl
+https://app2.rijksapplicaties.nl
+https://eres.rijksapplicaties.nl
+https://app1.rijksapplicaties.nl
+https://app3.rijksapplicaties.nl
+https://rosi.rijksapplicaties.nl
+https://woo.rijksapplicaties.nl
+https://dpt.rijksapplicaties.nl
+https://sth.rijksapplicaties.nl
+https://bda.rijksapplicaties.nl

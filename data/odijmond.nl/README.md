@@ -26,8 +26,8 @@
 |[http://autodiscover.odijmond.nl](http://autodiscover.odijmond.nl)| | **C**|Microsoft-IIS/10.0| |:white_check_mark: | | | | | | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server||
 |[https://gisviewer.odijmond.nl](https://gisviewer.odijmond.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS PHP||
 |[https://www.odijmond.nl](https://www.odijmond.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Google Tag Manager HSTS Microsoft ASP.NET:-|Homepage - Omgev...|
-|[https://intranet.odijmond.nl](https://intranet.odijmond.nl)| | **B**|-|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:-|Object moved|
-|[https://redactie.odijmond.nl](https://redactie.odijmond.nl)| | **A**|-|:white_check_mark: |:white_check_mark: | | | :white_check_mark:| | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:-|Object moved|
+|[http://intranet.odijmond.nl](http://intranet.odijmond.nl)| | **A**||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:-||
+|[http://redactie.odijmond.nl](http://redactie.odijmond.nl)| | **A**||:white_check_mark: |:white_check_mark: | | | :white_check_mark:| | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:-||
 |[https://join.odijmond.nl](https://join.odijmond.nl)| | **A**||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Document Moved|
 |[https://rd.odijmond.nl](https://rd.odijmond.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS|Connection denie...|
 |[https://rdgw.odijmond.nl](https://rdgw.odijmond.nl)| | **A**||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |||

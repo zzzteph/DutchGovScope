@@ -11,8 +11,8 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/tweedekamer.nl/subdomains.txt)|138|Alive subdomains|
-|[urls.txt](/data/tweedekamer.nl/urls.txt)|138|Urls|
+|[subdomains.txt](/data/tweedekamer.nl/subdomains.txt)|137|Alive subdomains|
+|[urls.txt](/data/tweedekamer.nl/urls.txt)|137|Urls|
 
 
 ## Statistics
@@ -79,7 +79,6 @@
 |[https://ontdek.test.tweedekamer.nl](https://ontdek.test.tweedekamer.nl)| | **C**|nginx/1.27.2| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Nginx:1.27.2|Tweede Kamer Tou...|
 |[https://tweedekamer.acceptatie.tweedekamer.nl](https://tweedekamer.acceptatie.tweedekamer.nl)| | **C**|nginx/1.27.2| |:white_check_mark: | | | | | | :white_check_mark: | |Nginx:1.27.2|403 Forbidden|
 |[https://tweedekamer.test.tweedekamer.nl](https://tweedekamer.test.tweedekamer.nl)| | **C**|nginx/1.27.2| |:white_check_mark: | | | | | | :white_check_mark: | |Nginx:1.27.2|403 Forbidden|
-|[https://ext02.videovergaderen.tweedekamer.nl](https://ext02.videovergaderen.tweedekamer.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://files.tweedekamer.nl](https://files.tweedekamer.nl)| | **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Nginx|403 Forbidden|
 |[https://gegevensmagazijn.tweedekamer.nl](https://gegevensmagazijn.tweedekamer.nl)| | **F**||:o: | | | | :white_check_mark:| | | :white_check_mark: | ||Gegevensmagazijn|
 |[https://werkenbij.test.tweedekamer.nl](https://werkenbij.test.tweedekamer.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|403 Forbidden|
@@ -146,7 +145,7 @@
 |[https://groepsbezoek.tweedekamer.nl](https://groepsbezoek.tweedekamer.nl)| | **A**|nginx| |:white_check_mark: | | | :white_check_mark:| | :white_check_mark: | :white_check_mark: | |HSTS Nginx PHP||
 |[https://bibliotheek-test.tweedekamer.nl](https://bibliotheek-test.tweedekamer.nl)| | **F**|Microsoft-IIS/10.0| | | | | | | | :white_check_mark: | |IIS:10.0 Windows Server|404 - File or di...|
 |[https://bibliotheek.tweedekamer.nl](https://bibliotheek.tweedekamer.nl)| | **F**|Microsoft-IIS/10.0| | | | | | | | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server|404 - File or di...|
-|[https://livestreaming-thumb.b67v2.tweedekamer.nl](https://livestreaming-thumb.b67v2.tweedekamer.nl)| | **F**|Kestrel|:white_check_mark: | | | | | | | :white_check_mark: | |Azure Kestrel Microsoft ASP.NET||
+|[http://livestreaming-thumb.b67v2.tweedekamer.nl](http://livestreaming-thumb.b67v2.tweedekamer.nl)| | **F**|Kestrel|:warning: | | | | | | | :white_check_mark: | |Azure Kestrel Microsoft ASP.NET||
 |[https://livestreaming-thumb.b67buv2.tweedekamer.nl](https://livestreaming-thumb.b67buv2.tweedekamer.nl)| | **F**|Kestrel|:white_check_mark: | | | | | | | :white_check_mark: | |Azure Kestrel Microsoft ASP.NET||
 |[https://livestreaming.b67buv2.tweedekamer.nl](https://livestreaming.b67buv2.tweedekamer.nl)| | **F**|ECAcc (ska/F775)| | | | | | | | :white_check_mark: | |Azure Azure CDN|Your Azure Funct...|
 |[https://livestream-media.tweedekamer.nl](https://livestream-media.tweedekamer.nl)| | **F**|ECAcc (amb/6B53)| | | | | | | | :white_check_mark: | |Azure Azure CDN|504 - Gateway Ti...|

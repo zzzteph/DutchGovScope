@@ -1,1 +1,2 @@
 https://challenges.sportinnovator.nl
+http://autodiscover.sportinnovator.nl

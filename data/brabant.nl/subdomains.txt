@@ -76,3 +76,10 @@ videoserver2.brabant.nl
 esb-a1.brabant.nl
 corsa-acpt.brabant.nl
 digicheck.brabant.nl
+blog.brabant.nl
+pki.brabant.nl
+enterpriseregistration.brabant.nl
+msoid.brabant.nl
+ndes.brabant.nl
+signing.brabant.nl
+webcast.brabant.nl

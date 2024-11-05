@@ -1,2 +1,3 @@
 deltacommissioner.nl
 www.deltacommissioner.nl
+localhost.deltacommissioner.nl

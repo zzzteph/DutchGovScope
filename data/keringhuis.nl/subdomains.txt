@@ -4,3 +4,6 @@ www.keringhuis.nl
 old.keringhuis.nl
 symposium.keringhuis.nl
 www.symposium.keringhuis.nl
+autodiscover.keringhuis.nl
+localhost.keringhuis.nl
+pop.keringhuis.nl

@@ -13,6 +13,7 @@ arbeidsmarktdetailhandel.databank.nl
 rvo.databank.nl
 klimaatmonitor.databank.nl
 arbeidsmarktmobiliteit.databank.nl
+test-mbotransparant.databank.nl
 vue.databank.nl
 brabant.databank.nl
 cbc2.databank.nl
@@ -48,8 +49,10 @@ apollo.databank.nl
 cname-limburg.databank.nl
 demo-ebc.databank.nl
 ftgelderland.databank.nl
+beta-adc.databank.nl
+beta-klimaatbeleid.databank.nl
 beta-vivet.databank.nl
-beta-gdi.databank.nl
+beta-klimaatmonitor.databank.nl
 cname-holland-rijnland.databank.nl
 erfgoed.databank.nl
 jdscan.databank.nl
@@ -92,3 +95,4 @@ flevoland.databank.nl
 mre.databank.nl
 rabobank.databank.nl
 inspectie-oe.databank.nl
+www.nederlandschoon.databank.nl

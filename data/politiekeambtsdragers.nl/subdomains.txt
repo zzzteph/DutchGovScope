@@ -4,3 +4,4 @@ www.politiekeambtsdragers.nl
 feeds.politiekeambtsdragers.nl
 opendata.politiekeambtsdragers.nl
 politiekeambtsdragers.nl
+diversiteitsplein.politiekeambtsdragers.nl

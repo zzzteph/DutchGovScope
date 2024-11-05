@@ -6,7 +6,7 @@ subdomains_count: 13
 urls_count: 13
 ssl_rank: 
 http_rank: D
-security_txt: 5
+security_txt: 4
 url_link: /data/nederlandwereldwijd.nl/urls.txt
 subdomains_link: /data/nederlandwereldwijd.nl/subdomains.txt
 categories: dutchgov
@@ -20,7 +20,7 @@ tags: dutchgov
 
  - **SSL Grade**:
  - **HTTP Security Grade**:D
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:5
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:4
 
 
 | File       | Count | Info |

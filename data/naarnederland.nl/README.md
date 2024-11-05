@@ -11,8 +11,8 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/naarnederland.nl/subdomains.txt)|3|Alive subdomains|
-|[urls.txt](/data/naarnederland.nl/urls.txt)|3|Urls|
+|[subdomains.txt](/data/naarnederland.nl/subdomains.txt)|4|Alive subdomains|
+|[urls.txt](/data/naarnederland.nl/urls.txt)|4|Urls|
 
 
 ## Statistics
@@ -23,5 +23,6 @@
 |[https://naarnederland.nl](https://naarnederland.nl)| | **E**|Apache|:o: |:white_check_mark: | | | | | | :white_check_mark: | |Apache HTTP Server HSTS||
 |[https://www.naarnederland.nl](https://www.naarnederland.nl)| | **E**|Apache|:o: |:white_check_mark: | | | | | | :white_check_mark: | |Apache HTTP Server HSTS MySQL PHP WPML:4.1.1 WordPress:5.3.18|Naar Nederland –...|
 |[http://mail.naarnederland.nl](http://mail.naarnederland.nl)| | **C**|ghs| | | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | ||301 Moved|
+|[http://autodiscover.naarnederland.nl](http://autodiscover.naarnederland.nl)| | **C**|Microsoft-IIS/10.0| |:white_check_mark: | | | | | | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server||
 
 

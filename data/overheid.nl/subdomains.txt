@@ -144,7 +144,6 @@ editor-drp-preprd.overheid.nl
 editor-drp.overheid.nl
 organisaties-redactie.overheid.nl
 besluitpreviewservice-eto.overheid.nl
-beta-wetten-acc.overheid.nl
 componenten-acc.overheid.nl
 lokaleregelgeving-acc.overheid.nl
 lvbb-tst.overheid.nl
@@ -155,13 +154,10 @@ linkextractor.overheid.nl
 lokaleregelgeving.overheid.nl
 organisaties.overheid.nl
 wetten.overheid.nl
-beta-wetten.overheid.nl
 componenten.overheid.nl
 import.organisaties.overheid.nl
 renvooiservice-eto.overheid.nl
 verdragenbank.overheid.nl
-beta.data.overheid.nl
-beta2-prod-data.overheid.nl
 bgt.basisregistraties.overheid.nl
 bodem-ondergrond.omgevingswet.overheid.nl
 organisaties-acc.overheid.nl
@@ -201,7 +197,6 @@ zoekservice.overheid.nl
 doculoket.overheid.nl
 standaarden.overheid.nl
 decentraleregelgeving.overheid.nl
-wettenpocket-acc.overheid.nl
 demo.mijn.overheid.nl
 stub.demo.mijn.overheid.nl
 digilab.overheid.nl
@@ -228,7 +223,6 @@ verdragenbank-acc.overheid.nl
 wetgevingskalender-acc.overheid.nl
 pdc.acc.omgevingswet.overheid.nl
 pdc.omgevingswet.overheid.nl
-pki.overheid.nl
 plan-plan-validatie.pre.omgevingswet.overheid.nl
 pp1.toegang.overheid.nl
 puc-acc.overheid.nl
@@ -240,8 +234,6 @@ rd2.toegang.overheid.nl
 regelgeving.omgevingswet.overheid.nl
 regelgeving.pre.omgevingswet.overheid.nl
 regels.overheid.nl
-register.data.overheid.nl
-www.koop.overheid.nl
 ruimte.dmo.omgevingswet.overheid.nl
 ruimte.int.omgevingswet.overheid.nl
 ruimte.kta.omgevingswet.overheid.nl
@@ -264,7 +256,6 @@ stelselcatalogus.pfm.omgevingswet.overheid.nl
 stelselcatalogus.pre.omgevingswet.overheid.nl
 stijlgids.overheid.nl
 sts.koop.overheid.nl
-technische-documentatie.oep.overheid.nl
 toepasbare-regels.pre.omgevingswet.overheid.nl
 vpn.koop.overheid.nl
 wetgeving.omgevingswet.overheid.nl
@@ -302,6 +293,7 @@ oproepingen-preprd.overheid.nl
 drop-api-preprd.overheid.nl
 mnd-preprd.overheid.nl
 oproepingen-api-preprd-poc.overheid.nl
+demo1-systemteam.overheid.nl
 digid-stub.lpc.mijn.overheid.nl
 identifier-eto.overheid.nl
 ondersteuning.omgevingswet.overheid.nl
@@ -317,3 +309,4 @@ toepasbare-regels.omgevingswet.overheid.nl
 water.omgevingswet.overheid.nl
 autodiscover.overheid.nl
 ref.omgevingswet.overheid.nl
+repository-preprod.overheid.nl

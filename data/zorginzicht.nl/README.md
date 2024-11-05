@@ -11,8 +11,8 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/zorginzicht.nl/subdomains.txt)|9|Alive subdomains|
-|[urls.txt](/data/zorginzicht.nl/urls.txt)|9|Urls|
+|[subdomains.txt](/data/zorginzicht.nl/subdomains.txt)|10|Alive subdomains|
+|[urls.txt](/data/zorginzicht.nl/urls.txt)|10|Urls|
 
 
 ## Statistics
@@ -29,5 +29,6 @@
 |[http://www-pr.zorginzicht.nl](http://www-pr.zorginzicht.nl)| | **F**|BigIP| | | | | | | | :white_check_mark: | |F5 BigIP||
 |[https://promtoolbox.zorginzicht.nl](https://promtoolbox.zorginzicht.nl)| | **B**|Apache|:white_check_mark: |:white_check_mark: | | |:warning: | | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
 |[https://zorginzicht.nl](https://zorginzicht.nl)| | **B**|Apache|:white_check_mark: |:white_check_mark: | | |:warning: | | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS|301 Moved Perman...|
+|[https://pr.zorginzicht.nl](https://pr.zorginzicht.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|403 Forbidden|
 
 

@@ -21,7 +21,7 @@
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[https://german.investinholland.com](https://german.investinholland.com)| | **C**|cloudflare| |:white_check_mark: | | | | | | :white_check_mark: | |Cloudflare Google Tag Manager HSTS MySQL PHP Plesk WPML:4.6.12 WordPress:6.6.2 Yoast SEO Premium:23.1 Yoast SEO:23.2|Die NFIA, die zu...|
-|[http://www.japan.investinholland.com](http://www.japan.investinholland.com)| | **F**|cloudflare| | | | | | | | :white_check_mark: | |Cloudflare HTTP/2|301 Moved Perman...|
+|[http://www.japan.investinholland.com](http://www.japan.investinholland.com)| | **F**|cloudflare| | | | | | | | :white_check_mark: | |Cloudflare|301 Moved Perman...|
 |[https://china.investinholland.com](https://china.investinholland.com)| | **C**|cloudflare| |:white_check_mark: | | | | | | :white_check_mark: | |Cloudflare HSTS Plesk|301 Moved Perman...|
 |[https://cnnew.investinholland.com](https://cnnew.investinholland.com)| | **E**|cloudflare| | | | | | :white_check_mark: | | :white_check_mark: | |Cloudflare||
 |[http://smtp.japan.investinholland.com](http://smtp.japan.investinholland.com)| | **F**|cloudflare| | | | | | | | :white_check_mark: | |Cloudflare|301 Moved Perman...|

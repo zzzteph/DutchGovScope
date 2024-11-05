@@ -31,7 +31,7 @@
 |[https://web.minienm.nl](https://web.minienm.nl)| | **A**|Microsoft-IIS/10.0|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS IIS:10.0 Windows Server|Document Moved|
 |[https://www.minienm.nl](https://www.minienm.nl)| | **A**|Microsoft-IIS/10.0| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS IIS:10.0 Windows Server|Document Moved|
 |[https://www.sociaalfonds.minienm.nl](https://www.sociaalfonds.minienm.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
-|[https://www.startpagina.sap.minienm.nl](https://www.startpagina.sap.minienm.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
+|[http://www.startpagina.sap.minienm.nl](http://www.startpagina.sap.minienm.nl)| | **F**|Microsoft-IIS/10.0| | | | | | | | :white_check_mark: | |HSTS IIS:10.0 Windows Server|Document Moved|
 |[https://mpn.minienm.nl](https://mpn.minienm.nl)| | **F**|nginx/1.27.2| | | | | | | | :white_check_mark: | |Nginx:1.27.2|Mobiliteitspanel...|
 |[https://pre.service.mpn.minienm.nl](https://pre.service.mpn.minienm.nl)| | **F**|nginx/1.27.2| | | | | | | | :white_check_mark: | |Nginx:1.27.2|MPN PRE-Producti...|
 |[https://service.mpn.minienm.nl](https://service.mpn.minienm.nl)| | **F**|nginx/1.27.2| | | | | | | | :white_check_mark: | |Nginx:1.27.2|400 No required...|

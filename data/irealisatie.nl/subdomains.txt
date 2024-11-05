@@ -72,3 +72,6 @@ balie.acc.woo.irealisatie.nl
 stats.acc.mgo.irealisatie.nl
 dva.acc.mgo.irealisatie.nl
 stats.test.zm.irealisatie.nl
+acc.irealisatie.nl
+gitea.irealisatie.nl
+taiga.irealisatie.nl

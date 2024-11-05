@@ -1,4 +1,3 @@
-adfs.vallei-veluwe.nl
 autodiscover.vallei-veluwe.nl
 redactie.vallei-veluwe.nl
 vallei-veluwe.nl
@@ -6,7 +5,6 @@ www.vallei-veluwe.nl
 nc-openbaar.vallei-veluwe.nl
 planonprod.vallei-veluwe.nl
 neuronprod.vallei-veluwe.nl
-neurontest.vallei-veluwe.nl
 tmx.vallei-veluwe.nl
 werkplek.vallei-veluwe.nl
 enterpriseenrollment.vallei-veluwe.nl

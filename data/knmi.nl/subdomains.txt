@@ -58,5 +58,6 @@ eelcodoornbos-master-patch-38139.data.dev.spaceweather.knmi.nl
 testgeoservices.knmi.nl
 hapi.acc.spaceweather.knmi.nl
 hapi.spaceweather.knmi.nl
-panelrows.dev.spaceweather.knmi.nl
 cabauw.knmi.nl
+extrema.dev.spaceweather.knmi.nl
+spriteborder.dev.spaceweather.knmi.nl

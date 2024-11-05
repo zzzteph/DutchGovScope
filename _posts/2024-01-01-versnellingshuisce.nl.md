@@ -3,7 +3,7 @@ layout: default
 title: "versnellingshuisce.nl"
 permalink: "/dutchgov/versnellingshuisce.nl.html"
 subdomains_count: 8
-urls_count: 7
+urls_count: 8
 ssl_rank: 
 http_rank: F
 security_txt: 0
@@ -26,7 +26,7 @@ tags: dutchgov
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/DutchGovScope/data/versnellingshuisce.nl/subdomains.txt)|8|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/versnellingshuisce.nl/urls.txt)|7|Urls|
+|[urls.txt](/DutchGovScope/data/versnellingshuisce.nl/urls.txt)|8|Urls|
 
 
 ## Statistics
@@ -41,5 +41,6 @@ tags: dutchgov
 |[https://www.groei.versnellingshuisce.nl](https://www.groei.versnellingshuisce.nl)| | **F**|Apache/2| | | | | | | | :white_check_mark: | |Apache HTTP Server:2 HSTS PHP:8.1.29||
 |[https://versnellingshuisce.nl](https://versnellingshuisce.nl)| | **E**|LinQhost HPW|:warning: | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Alpine.js Google Tag Manager Laravel PHP Statamic|Versnellingshuis...|
 |[https://www.versnellingshuisce.nl](https://www.versnellingshuisce.nl)| | **E**|LinQhost HPW|:warning: | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | ||301 Moved Perman...|
+|[http://autodiscover.versnellingshuisce.nl](http://autodiscover.versnellingshuisce.nl)| | **C**|Microsoft-IIS/10.0| |:white_check_mark: | | | | | | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server||
 
 

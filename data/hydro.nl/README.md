@@ -11,7 +11,7 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/hydro.nl/subdomains.txt)|3|Alive subdomains|
+|[subdomains.txt](/data/hydro.nl/subdomains.txt)|14|Alive subdomains|
 |[urls.txt](/data/hydro.nl/urls.txt)|3|Urls|
 
 

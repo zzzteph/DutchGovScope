@@ -12,7 +12,6 @@ https://nvwa.nl
 https://opendata.english.nvwa.nl
 https://opendata.nvwa.nl
 https://forms-acc.nvwa.nl
-http://formulieren-acc.nvwa.nl
 https://formulieren.nvwa.nl
 https://inspectieresultaten.nvwa.nl
 https://openbare-inspectieresultaten.nvwa.nl
@@ -21,7 +20,8 @@ https://ivo-acc.nvwa.nl
 https://ivo.nvwa.nl
 https://iwelcome-preprod.nvwa.nl
 https://iwelcome.nvwa.nl
-http://labvantage-acc.nvwa.nl
+https://labvantage-acc.nvwa.nl
+http://mijn-acc.nvwa.nl
 https://mijn.nvwa.nl
 https://ras-acc.nvwa.nl
 https://www.ras-acc.nvwa.nl
@@ -33,3 +33,4 @@ https://videoleren.nvwa.nl
 https://e-certnl.nvwa.nl
 https://forms.nvwa.nl
 https://www.inspectieresultaten.nvwa.nl
+https://i-certnl.nvwa.nl

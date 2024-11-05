@@ -2,11 +2,11 @@
 layout: default
 title: "rekenkamer.nl"
 permalink: "/dutchgov/rekenkamer.nl.html"
-subdomains_count: 13
-urls_count: 13
+subdomains_count: 14
+urls_count: 14
 ssl_rank: 
 http_rank: B
-security_txt: 8
+security_txt: 9
 url_link: /data/rekenkamer.nl/urls.txt
 subdomains_link: /data/rekenkamer.nl/subdomains.txt
 categories: dutchgov
@@ -20,13 +20,13 @@ tags: dutchgov
 
  - **SSL Grade**:
  - **HTTP Security Grade**:B
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:8
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:9
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/rekenkamer.nl/subdomains.txt)|13|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/rekenkamer.nl/urls.txt)|13|Urls|
+|[subdomains.txt](/DutchGovScope/data/rekenkamer.nl/subdomains.txt)|14|Alive subdomains|
+|[urls.txt](/DutchGovScope/data/rekenkamer.nl/urls.txt)|14|Urls|
 
 
 ## Statistics
@@ -34,6 +34,7 @@ tags: dutchgov
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
+|[https://coronarekening.rekenkamer.nl](https://coronarekening.rekenkamer.nl)| | **A**|Microsoft-IIS/10.0| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS IIS:10.0 Windows Server|Document Moved|
 |[https://www.rekenkamer.nl](https://www.rekenkamer.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Home | Algemene...|
 |[https://english.rekenkamer.nl](https://english.rekenkamer.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Home | Netherlan...|
 |[https://feeds.english.rekenkamer.nl](https://feeds.english.rekenkamer.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||

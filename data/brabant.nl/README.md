@@ -11,7 +11,7 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/brabant.nl/subdomains.txt)|78|Alive subdomains|
+|[subdomains.txt](/data/brabant.nl/subdomains.txt)|85|Alive subdomains|
 |[urls.txt](/data/brabant.nl/urls.txt)|78|Urls|
 
 
@@ -83,7 +83,7 @@
 |[https://draf.brabant.nl](https://draf.brabant.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|403 - Forbidden:...|
 |[https://esb-test.brabant.nl](https://esb-test.brabant.nl)| | **F**|BigIP| | | | | | | | :white_check_mark: | |F5 BigIP|The page cannot...|
 |[https://opendata.brabant.nl](https://opendata.brabant.nl)| | **A**|BigIP| |:white_check_mark: | | | :white_check_mark:| | | :white_check_mark: | |F5 BigIP||
-|[https://samenwerken.brabant.nl](https://samenwerken.brabant.nl)| | **A**|BigIP|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |F5 BigIP||
+|[https://samenwerken.brabant.nl](https://samenwerken.brabant.nl)| | **B**|BigIP|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |F5 BigIP||
 |[https://facilitor.brabant.nl](https://facilitor.brabant.nl)| | **B**|BigIP|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |F5 BigIP||
 |[https://kaartbank.brabant.nl](https://kaartbank.brabant.nl)| | **A**|BigIP| |:white_check_mark: | | | :white_check_mark:| | | :white_check_mark: | |F5 BigIP||
 |[https://kaarten.brabant.nl](https://kaarten.brabant.nl)| | **A**|BigIP| |:white_check_mark: | | | :white_check_mark:| | | :white_check_mark: | |F5 BigIP||
@@ -95,8 +95,8 @@
 |[https://telewerk.brabant.nl](https://telewerk.brabant.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS||
 |[http://torenvalk.brabant.nl](http://torenvalk.brabant.nl)| | **F**|BigIP| | | | | | | | :white_check_mark: | |F5 BigIP||
 |[http://videoserver2.brabant.nl](http://videoserver2.brabant.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Index page|
-|[https://esb-a1.brabant.nl](https://esb-a1.brabant.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
-|[https://corsa-acpt.brabant.nl](https://corsa-acpt.brabant.nl)| | **F**|Microsoft-Azure-Application-Gateway/v2| | | | | | | | :white_check_mark: | |IIS:10.0 Windows Server|502 Bad Gateway|
+|[https://esb-a1.brabant.nl](https://esb-a1.brabant.nl)| | **F**|Microsoft-Azure-Application-Gateway/v2| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|502 Bad Gateway|
+|[https://corsa-acpt.brabant.nl](https://corsa-acpt.brabant.nl)| | **F**|Microsoft-IIS/10.0| | | | | | | | :white_check_mark: | |IIS:10.0 Windows Server|IIS Redirect|
 |[https://digicheck.brabant.nl](https://digicheck.brabant.nl)| | **C**||:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | |Google Tag Manager HSTS Microsoft ASP.NET|Login|
 
 

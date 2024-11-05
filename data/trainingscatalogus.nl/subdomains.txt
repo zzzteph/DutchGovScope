@@ -90,7 +90,10 @@ buza.trainingscatalogus.nl
 ciz.trainingscatalogus.nl
 archipel.trainingscatalogus.nl
 minfin.trainingscatalogus.nl
+cjib.trainingscatalogus.nl
+jio.trainingscatalogus.nl
 leerhuis.trainingscatalogus.nl
+ncsc.trainingscatalogus.nl
 demo.trainingscatalogus.nl
 ez.trainingscatalogus.nl
 dashboard.trainingscatalogus.nl

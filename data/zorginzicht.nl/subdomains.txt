@@ -7,3 +7,4 @@ tpk.zorginzicht.nl
 www-pr.zorginzicht.nl
 promtoolbox.zorginzicht.nl
 zorginzicht.nl
+pr.zorginzicht.nl

@@ -1,2 +1,5 @@
 https://actieleernetwerk.nl
 https://www.actieleernetwerk.nl
+https://aanmelder.actieleernetwerk.nl
+http://autodiscover.actieleernetwerk.nl
+https://enterpriseenrollment.actieleernetwerk.nl

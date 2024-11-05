@@ -11,8 +11,8 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/perined.nl/subdomains.txt)|10|Alive subdomains|
-|[urls.txt](/data/perined.nl/urls.txt)|10|Urls|
+|[subdomains.txt](/data/perined.nl/subdomains.txt)|14|Alive subdomains|
+|[urls.txt](/data/perined.nl/urls.txt)|14|Urls|
 
 
 ## Statistics
@@ -30,5 +30,9 @@
 |[https://perined.nl](https://perined.nl)| | **C**|Apache/2.4.62 (Amazon Linux) OpenSSL/3.0.8|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server:2.4.62 HSTS OpenSSL:3.0.8|301 Moved Perman...|
 |[https://assets.perined.nl](https://assets.perined.nl)| | **C**|AmazonS3| |:white_check_mark: | | | | | | :white_check_mark: | |Amazon S3 Amazon Web Services HSTS||
 |[https://www.perined.nl](https://www.perined.nl)| | **C**|Apache|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server Bootstrap:4.5.2 HSTS Typekit|Perined | Home|
+|[https://evaluatie.perined.nl](https://evaluatie.perined.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Microsoft ASP.NET Nginx|Stellingen|
+|[http://autodiscover.perined.nl](http://autodiscover.perined.nl)| | **C**|Microsoft-IIS/10.0| |:white_check_mark: | | | | | | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server||
+|[http://localhost.perined.nl](http://localhost.perined.nl)| | **F**|nginx|:o: | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Laravel Nginx PHP|Weakpass|
+|[https://webmail.perined.nl](https://webmail.perined.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Bootstrap Nginx PHP:7.4.33 RoundCube|Roundcube Webmai...|
 
 

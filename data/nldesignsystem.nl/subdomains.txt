@@ -1,3 +1,4 @@
 nldesignsystem.nl
 storybook.nldesignsystem.nl
 www.nldesignsystem.nl
+autodiscover.nldesignsystem.nl

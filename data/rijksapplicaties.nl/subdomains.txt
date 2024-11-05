@@ -254,3 +254,13 @@ rvb-events.rijksapplicaties.nl
 wpo.rijksapplicaties.nl
 lup.rijksapplicaties.nl
 bhw.rijksapplicaties.nl
+prisma.rijksapplicaties.nl
+app2.rijksapplicaties.nl
+eres.rijksapplicaties.nl
+app1.rijksapplicaties.nl
+app3.rijksapplicaties.nl
+rosi.rijksapplicaties.nl
+woo.rijksapplicaties.nl
+dpt.rijksapplicaties.nl
+sth.rijksapplicaties.nl
+bda.rijksapplicaties.nl

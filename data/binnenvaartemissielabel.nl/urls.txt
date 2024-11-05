@@ -4,3 +4,6 @@ https://binnenvaartemissielabel.nl
 https://www.binnenvaartemissielabel.nl
 https://staging.binnenvaartemissielabel.nl
 https://webmail.binnenvaartemissielabel.nl
+http://autodiscover.binnenvaartemissielabel.nl
+https://email.mg.binnenvaartemissielabel.nl
+https://ftp.binnenvaartemissielabel.nl

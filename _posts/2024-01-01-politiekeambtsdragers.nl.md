@@ -2,11 +2,11 @@
 layout: default
 title: "politiekeambtsdragers.nl"
 permalink: "/dutchgov/politiekeambtsdragers.nl.html"
-subdomains_count: 6
-urls_count: 6
+subdomains_count: 7
+urls_count: 7
 ssl_rank: 
-http_rank: B
-security_txt: 5
+http_rank: A
+security_txt: 6
 url_link: /data/politiekeambtsdragers.nl/urls.txt
 subdomains_link: /data/politiekeambtsdragers.nl/subdomains.txt
 categories: dutchgov
@@ -19,14 +19,14 @@ tags: dutchgov
 
 
  - **SSL Grade**:
- - **HTTP Security Grade**:B
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:5
+ - **HTTP Security Grade**:A
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:6
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/politiekeambtsdragers.nl/subdomains.txt)|6|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/politiekeambtsdragers.nl/urls.txt)|6|Urls|
+|[subdomains.txt](/DutchGovScope/data/politiekeambtsdragers.nl/subdomains.txt)|7|Alive subdomains|
+|[urls.txt](/DutchGovScope/data/politiekeambtsdragers.nl/urls.txt)|7|Urls|
 
 
 ## Statistics
@@ -40,5 +40,6 @@ tags: dutchgov
 |[https://feeds.politiekeambtsdragers.nl](https://feeds.politiekeambtsdragers.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://opendata.politiekeambtsdragers.nl](https://opendata.politiekeambtsdragers.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://politiekeambtsdragers.nl](https://politiekeambtsdragers.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
+|[https://diversiteitsplein.politiekeambtsdragers.nl](https://diversiteitsplein.politiekeambtsdragers.nl)| | **A**|Apache| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Apache HTTP Server HSTS||
 
 

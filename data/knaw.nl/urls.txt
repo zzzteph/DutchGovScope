@@ -287,6 +287,7 @@ https://web01.huygens.knaw.nl
 https://beta.buitenlandsebetrekkingen.huygens.knaw.nl
 https://beta.nmgn.huygens.knaw.nl
 https://bgb.resources.huygens.knaw.nl
+https://resources.huygens.knaw.nl
 https://bioinf.nioo.knaw.nl
 https://bodemdierendag.nioo.knaw.nl
 https://booking.nin.knaw.nl
@@ -477,3 +478,11 @@ https://fairaware-api.labs.dans.knaw.nl
 https://galaxy.bioinf.nioo.knaw.nl
 https://metadata-enhancer.labs.dans.knaw.nl
 https://flippinglakes.nioo.knaw.nl
+https://www.nioo.knaw.nl
+https://minioapi2.labs.dans.knaw.nl
+https://web21.dans.knaw.nl
+http://vova.meertens.knaw.nl
+https://facades-formats.labs.dans.knaw.nl
+https://license.labs.dans.knaw.nl
+https://chat.bioinf.nioo.knaw.nl
+https://vangogh-api.dev.huc.knaw.nl

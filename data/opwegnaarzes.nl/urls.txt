@@ -4,3 +4,6 @@ https://opwegnaarzes.nl
 http://staging.opwegnaarzes.nl
 https://www.opwegnaarzes.nl
 http://www.staging.opwegnaarzes.nl
+http://autodiscover.opwegnaarzes.nl
+https://enterpriseenrollment.opwegnaarzes.nl
+https://enterpriseregistration.opwegnaarzes.nl

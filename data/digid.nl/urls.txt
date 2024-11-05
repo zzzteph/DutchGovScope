@@ -38,3 +38,4 @@ https://was-preprod2.digid.nl
 https://was.digid.nl
 https://www.digid.nl
 https://rda-preprod1.digid.nl
+https://mu.digid.nl

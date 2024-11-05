@@ -3,4 +3,4 @@ https://www.collegesanering.nl
 https://feeds.collegesanering.nl
 https://mail.collegesanering.nl
 https://webmail.collegesanering.nl
-http://collegesanering.nl
+https://collegesanering.nl

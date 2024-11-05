@@ -1,4 +1,5 @@
 https://apim-icc.svb.nl
+https://applicationstest.svb.nl
 https://app-a.svb.nl
 https://app-o.svb.nl
 https://app-t.svb.nl
@@ -45,7 +46,6 @@ https://remotedesktop.svb.nl
 https://secure5.svb.nl
 https://svb.nl
 https://www.svb.nl
-https://test-intranet.svb.nl
 https://test-cmsintranet.svb.nl
 https://events.svb.nl
 https://mft-prd.svb.nl

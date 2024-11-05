@@ -1,12 +1,6 @@
 acc-referentiegegevens.justid.nl
 ainformatieportaal.justid.nl
 tst-referentiegegevens.justid.nl
-ews-external.justid.nl
-lyncdiscover.justid.nl
-meet.justid.nl
-schedule.justid.nl
-sfbrppool01.justid.nl
-autodiscover.justid.nl
 referentiegegevens.justid.nl
 informatieportaal.justid.nl
 opendata.justid.nl
@@ -21,7 +15,6 @@ validatie-acc.justid.nl
 validatie.justid.nl
 werkenbij.justid.nl
 werkplek.justid.nl
-dialin.justid.nl
 feeds.justid.nl
 intranet.justid.nl
 iob.justid.nl

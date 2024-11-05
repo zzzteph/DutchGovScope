@@ -1,3 +1,6 @@
+acc-api.dh.doc-direkt.nl
+acc-dh.doc-direkt.nl
+acc-m.dh.doc-direkt.nl
 api.dh.doc-direkt.nl
 dh.doc-direkt.nl
 www.doc-direkt.nl

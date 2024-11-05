@@ -2,10 +2,10 @@
 layout: default
 title: "nationaalwaterstofprogramma.nl"
 permalink: "/dutchgov/nationaalwaterstofprogramma.nl.html"
-subdomains_count: 0
-urls_count: 0
+subdomains_count: 2
+urls_count: 2
 ssl_rank: 
-http_rank: F
+http_rank: E
 security_txt: 0
 url_link: /data/nationaalwaterstofprogramma.nl/urls.txt
 subdomains_link: /data/nationaalwaterstofprogramma.nl/subdomains.txt
@@ -19,14 +19,14 @@ tags: dutchgov
 
 
  - **SSL Grade**:
- - **HTTP Security Grade**:F
+ - **HTTP Security Grade**:E
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:0
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/nationaalwaterstofprogramma.nl/subdomains.txt)|0|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/nationaalwaterstofprogramma.nl/urls.txt)|0|Urls|
+|[subdomains.txt](/DutchGovScope/data/nationaalwaterstofprogramma.nl/subdomains.txt)|2|Alive subdomains|
+|[urls.txt](/DutchGovScope/data/nationaalwaterstofprogramma.nl/urls.txt)|2|Urls|
 
 
 ## Statistics
@@ -34,5 +34,7 @@ tags: dutchgov
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
+|[https://nationaalwaterstofprogramma.nl](https://nationaalwaterstofprogramma.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Object moved|
+|[https://www.nationaalwaterstofprogramma.nl](https://www.nationaalwaterstofprogramma.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Object moved|
 
 

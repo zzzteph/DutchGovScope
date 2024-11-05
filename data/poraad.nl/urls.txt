@@ -7,3 +7,9 @@ https://manometer.poraad.nl
 https://sectorrapportage.poraad.nl
 https://sectorrapportage2021.poraad.nl
 https://sectorrapportage2022.poraad.nl
+https://acc3.poraad.nl
+https://email.mg.poraad.nl
+https://enterpriseenrollment.poraad.nl
+https://enterpriseregistration.poraad.nl
+https://msoid.poraad.nl
+https://nieuwsbrief.poraad.nl

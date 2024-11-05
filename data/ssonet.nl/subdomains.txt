@@ -1,4 +1,3 @@
 exchange.ssonet.nl
 ssonet.nl
 www.ssonet.nl
-test.ssonet.nl

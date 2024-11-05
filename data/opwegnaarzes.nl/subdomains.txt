@@ -4,3 +4,6 @@ opwegnaarzes.nl
 staging.opwegnaarzes.nl
 www.opwegnaarzes.nl
 www.staging.opwegnaarzes.nl
+autodiscover.opwegnaarzes.nl
+enterpriseenrollment.opwegnaarzes.nl
+enterpriseregistration.opwegnaarzes.nl

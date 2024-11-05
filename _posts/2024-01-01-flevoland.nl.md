@@ -2,8 +2,8 @@
 layout: default
 title: "flevoland.nl"
 permalink: "/dutchgov/flevoland.nl.html"
-subdomains_count: 79
-urls_count: 79
+subdomains_count: 80
+urls_count: 75
 ssl_rank: 
 http_rank: C
 security_txt: 25
@@ -25,8 +25,8 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/flevoland.nl/subdomains.txt)|79|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/flevoland.nl/urls.txt)|79|Urls|
+|[subdomains.txt](/DutchGovScope/data/flevoland.nl/subdomains.txt)|80|Alive subdomains|
+|[urls.txt](/DutchGovScope/data/flevoland.nl/urls.txt)|75|Urls|
 
 
 ## Statistics
@@ -74,6 +74,7 @@ tags: dutchgov
 |[https://esb-ibabs.flevoland.nl](https://esb-ibabs.flevoland.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Service|
 |[https://esb-preprod.flevoland.nl](https://esb-preprod.flevoland.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
 |[https://flevoland.nl](https://flevoland.nl)| | **C**|Microsoft-IIS/10.0| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS IIS:10.0 Windows Server|Welkom bij provi...|
+|[http://int-prod-01.flevoland.nl](http://int-prod-01.flevoland.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
 |[http://prod.flevoland.nl](http://prod.flevoland.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
 |[https://www.flevoland.nl](https://www.flevoland.nl)| | **C**|Microsoft-IIS/10.0| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS IIS:10.0 Windows Server|Welkom bij provi...|
 |[https://formulieren.flevoland.nl](https://formulieren.flevoland.nl)| | **A**||:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Pagina bestaat n...|
@@ -95,14 +96,9 @@ tags: dutchgov
 |[https://test.flevoland.nl](https://test.flevoland.nl)| | **F**|Microsoft-Azure-Application-Gateway/v2| | | | | | | | :white_check_mark: | ||502 Bad Gateway|
 |[https://testmdm.flevoland.nl](https://testmdm.flevoland.nl)| | **A**|server| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|302 Found|
 |[https://veiligmailen.flevoland.nl](https://veiligmailen.flevoland.nl)| | **A**|| |:white_check_mark: | | |:warning: | | :white_check_mark: | :white_check_mark: | |HSTS||
-|[https://adfs.flevoland.nl](https://adfs.flevoland.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Not Found|
-|[http://geo2.flevoland.nl](http://geo2.flevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
-|[https://geo3.flevoland.nl](https://geo3.flevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
-|[https://rwbg.flevoland.nl](https://rwbg.flevoland.nl)| | **F**|Microsoft-IIS/10.0| | | | | | | | :white_check_mark: | |Bootstrap IIS:10.0 Windows Server|Risicobeoordelin...|
 |[https://geodiensten.flevoland.nl](https://geodiensten.flevoland.nl)| | **C**|nginx/1.26.2|:o: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx:1.26.2|GeolinQ|
 |[https://vps-prod-03.flevoland.nl](https://vps-prod-03.flevoland.nl)| | **F**|Apache/2| | | | | | | | :white_check_mark: | |Apache HTTP Server:2||
 |[https://denkmee.flevoland.nl](https://denkmee.flevoland.nl)| | **C**|nginx| | | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |Amazon CloudFront Amazon Web Services Nginx||
-|[https://testmonitorwonen.flevoland.nl](https://testmonitorwonen.flevoland.nl)| | **F**|Microsoft-IIS/10.0| | | | | | | | :white_check_mark: | |IIS:10.0 React Windows Server|Planregistratie...|
 |[https://remote.flevoland.nl](https://remote.flevoland.nl)| | **A**||:warning: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://eula.flevoland.nl](https://eula.flevoland.nl)| | **A**|Apache/2.4.29 (Ubuntu)| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu||
 |[https://mbg-proxy.flevoland.nl](https://mbg-proxy.flevoland.nl)| | **A**|Apache| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS|Redirecting...|

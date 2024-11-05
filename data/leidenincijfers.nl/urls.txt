@@ -1,1 +1,2 @@
 http://leidenincijfers.nl
+https://autodiscover.leidenincijfers.nl

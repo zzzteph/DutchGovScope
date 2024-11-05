@@ -2,4 +2,3 @@ https://bdmuseum.nl
 https://www.bdmuseum.nl
 http://tickets.bdmuseum.nl
 https://staging.bdmuseum.nl
-https://www.staging.bdmuseum.nl

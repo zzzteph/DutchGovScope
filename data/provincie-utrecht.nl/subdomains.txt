@@ -55,6 +55,7 @@ octopus-acc-docs.provincie-utrecht.nl
 octopus-acc.provincie-utrecht.nl
 ruimtelijkeplanneninterntest.provincie-utrecht.nl
 ruimtelijkeplannentest.provincie-utrecht.nl
+planoview.provincie-utrecht.nl
 ruimtelijkeplannen.provincie-utrecht.nl
 ruimtelijkeplannenintern.provincie-utrecht.nl
 sap-crm.provincie-utrecht.nl
@@ -63,6 +64,7 @@ search.provincie-utrecht.nl
 slechtvalk.provincie-utrecht.nl
 sslvpn-hth.provincie-utrecht.nl
 sslvpn.provincie-utrecht.nl
+stateninformatie.provincie-utrecht.nl
 www.stateninformatie.provincie-utrecht.nl
 tramdashboard.provincie-utrecht.nl
 vctu-api.provincie-utrecht.nl
