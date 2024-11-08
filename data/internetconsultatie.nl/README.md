@@ -11,8 +11,8 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/internetconsultatie.nl/subdomains.txt)|6|Alive subdomains|
-|[urls.txt](/data/internetconsultatie.nl/urls.txt)|6|Urls|
+|[subdomains.txt](/data/internetconsultatie.nl/subdomains.txt)|5|Alive subdomains|
+|[urls.txt](/data/internetconsultatie.nl/urls.txt)|5|Urls|
 
 
 ## Statistics
@@ -20,7 +20,6 @@
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[http://acceptatie.internetconsultatie.nl](http://acceptatie.internetconsultatie.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://internetconsultatie.nl](https://internetconsultatie.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | ||301 Moved Perman...|
 |[https://cma.internetconsultatie.nl](https://cma.internetconsultatie.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Object moved|
 |[https://www.internetconsultatie.nl](https://www.internetconsultatie.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET|Overheid.nl | Co...|

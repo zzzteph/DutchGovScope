@@ -2,7 +2,7 @@
 layout: default
 title: "eerstekamer.nl"
 permalink: "/dutchgov/eerstekamer.nl.html"
-subdomains_count: 21
+subdomains_count: 22
 urls_count: 21
 ssl_rank: 
 http_rank: C
@@ -25,7 +25,7 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/eerstekamer.nl/subdomains.txt)|21|Alive subdomains|
+|[subdomains.txt](/DutchGovScope/data/eerstekamer.nl/subdomains.txt)|22|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/eerstekamer.nl/urls.txt)|21|Urls|
 
 
@@ -47,7 +47,7 @@ tags: dutchgov
 |[https://remoteaccess3.eerstekamer.nl](https://remoteaccess3.eerstekamer.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||
 |[https://wordaddin.eerstekamer.nl](https://wordaddin.eerstekamer.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Web App - Unavai...|
 |[https://apiback.eerstekamer.nl](https://apiback.eerstekamer.nl)| | **A**|| |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | |HSTS|Not Found|
-|[https://autodoc.eerstekamer.nl](https://autodoc.eerstekamer.nl)| | **E**|| | | | | | | | :white_check_mark: | ||502 Bad Gateway|
+|[https://autodoc.eerstekamer.nl](https://autodoc.eerstekamer.nl)| | **E**|| | | | | | | | :white_check_mark: | ||403 Forbidden|
 |[https://redactie.eerstekamer.nl](https://redactie.eerstekamer.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Moved|
 |[https://wordcms.eerstekamer.nl](https://wordcms.eerstekamer.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Web App - Unavai...|
 |[https://enterpriseregistration.eerstekamer.nl](https://enterpriseregistration.eerstekamer.nl)| | **E**|| | | | | | | | :white_check_mark: | |||

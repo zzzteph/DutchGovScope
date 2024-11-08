@@ -6,7 +6,7 @@ subdomains_count: 13
 urls_count: 13
 ssl_rank: 
 http_rank: C
-security_txt: 5
+security_txt: 4
 url_link: /data/vallei-veluwe.nl/urls.txt
 subdomains_link: /data/vallei-veluwe.nl/subdomains.txt
 categories: dutchgov
@@ -20,7 +20,7 @@ tags: dutchgov
 
  - **SSL Grade**:
  - **HTTP Security Grade**:C
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:5
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:4
 
 
 | File       | Count | Info |
@@ -34,17 +34,17 @@ tags: dutchgov
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
+|[https://adfs.vallei-veluwe.nl](https://adfs.vallei-veluwe.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[http://autodiscover.vallei-veluwe.nl](http://autodiscover.vallei-veluwe.nl)| | **C**|Microsoft-IIS/10.0| |:white_check_mark: | | | | | | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server||
-|[https://redactie.vallei-veluwe.nl](https://redactie.vallei-veluwe.nl)| | **B**|-|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:-|Object moved|
-|[https://vallei-veluwe.nl](https://vallei-veluwe.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:-|Object moved|
-|[https://www.vallei-veluwe.nl](https://www.vallei-veluwe.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:-|Home - Vallei en...|
-|[https://nc-openbaar.vallei-veluwe.nl](https://nc-openbaar.vallei-veluwe.nl)| | **E**|-| | | | | | :white_check_mark: | | :white_check_mark: | |HSTS Microsoft ASP.NET:-|Document Moved|
+|[http://redactie.vallei-veluwe.nl](http://redactie.vallei-veluwe.nl)| | **A**||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:-||
+|[http://vallei-veluwe.nl](http://vallei-veluwe.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:-||
+|[http://www.vallei-veluwe.nl](http://www.vallei-veluwe.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:-||
+|[http://nc-openbaar.vallei-veluwe.nl](http://nc-openbaar.vallei-veluwe.nl)| | **D**|| | | | | | :white_check_mark: | | :white_check_mark: | |HSTS Microsoft ASP.NET:-||
 |[https://planonprod.vallei-veluwe.nl](https://planonprod.vallei-veluwe.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||
-|[https://neuronprod.vallei-veluwe.nl](https://neuronprod.vallei-veluwe.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||
-|[https://tmx.vallei-veluwe.nl](https://tmx.vallei-veluwe.nl)| | **C**||:warning: |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |F5 BigIP HSTS||
+|[https://neurontest.vallei-veluwe.nl](https://neurontest.vallei-veluwe.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||
 |[https://werkplek.vallei-veluwe.nl](https://werkplek.vallei-veluwe.nl)| | **C**||:warning: |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |F5 BigIP HSTS||
 |[https://enterpriseenrollment.vallei-veluwe.nl](https://enterpriseenrollment.vallei-veluwe.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||
-|[https://geotest.vallei-veluwe.nl](https://geotest.vallei-veluwe.nl)| | **A**|Microsoft-IIS/10.0| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS IIS:10.0 Microsoft ASP.NET Windows Server||
+|[https://geotest.vallei-veluwe.nl](https://geotest.vallei-veluwe.nl)| | **A**|Microsoft-IIS/10.0| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS IIS:10.0 Microsoft ASP.NET:4.0.30319 Windows Server||
 |[https://protect.vallei-veluwe.nl](https://protect.vallei-veluwe.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||
 |[https://vdi.vallei-veluwe.nl](https://vdi.vallei-veluwe.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||
 

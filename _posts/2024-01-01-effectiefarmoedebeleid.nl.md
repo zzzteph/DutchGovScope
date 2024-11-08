@@ -6,7 +6,7 @@ subdomains_count: 6
 urls_count: 6
 ssl_rank: 
 http_rank: F
-security_txt: 6
+security_txt: 0
 url_link: /data/effectiefarmoedebeleid.nl/urls.txt
 subdomains_link: /data/effectiefarmoedebeleid.nl/subdomains.txt
 categories: dutchgov
@@ -20,7 +20,7 @@ tags: dutchgov
 
  - **SSL Grade**:
  - **HTTP Security Grade**:F
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:6
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:0
 
 
 | File       | Count | Info |
@@ -34,11 +34,11 @@ tags: dutchgov
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://www.effectiefarmoedebeleid.nl](https://www.effectiefarmoedebeleid.nl)| | **F**||:o: | | | | | | | :white_check_mark: | |||
-|[https://ulqvuwww.effectiefarmoedebeleid.nl](https://ulqvuwww.effectiefarmoedebeleid.nl)| | **F**||:o: | | | | | | | :white_check_mark: | |||
-|[https://72hw1ulqvuwww.effectiefarmoedebeleid.nl](https://72hw1ulqvuwww.effectiefarmoedebeleid.nl)| | **F**||:o: | | | | | | | :white_check_mark: | |||
-|[https://sitemap.effectiefarmoedebeleid.nl](https://sitemap.effectiefarmoedebeleid.nl)| | **F**||:o: | | | | | | | :white_check_mark: | |||
-|[https://xgozwulqvuwww.effectiefarmoedebeleid.nl](https://xgozwulqvuwww.effectiefarmoedebeleid.nl)| | **F**||:o: | | | | | | | :white_check_mark: | |||
-|[https://sitemaps.effectiefarmoedebeleid.nl](https://sitemaps.effectiefarmoedebeleid.nl)| | **F**||:o: | | | | | | | :white_check_mark: | |||
+|[http://effectiefarmoedebeleid.nl](http://effectiefarmoedebeleid.nl)| | **F**|Parking/1.0| | | | | | | | :white_check_mark: | ||effectiefarmoede...|
+|[http://www.effectiefarmoedebeleid.nl](http://www.effectiefarmoedebeleid.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
+|[http://72hw1ulqvuwww.effectiefarmoedebeleid.nl](http://72hw1ulqvuwww.effectiefarmoedebeleid.nl)| | **F**|Parking/1.0| | | | | | | | :white_check_mark: | ||effectiefarmoede...|
+|[http://sitemap.effectiefarmoedebeleid.nl](http://sitemap.effectiefarmoedebeleid.nl)| | **F**|Parking/1.0| | | | | | | | :white_check_mark: | ||effectiefarmoede...|
+|[http://xgozwulqvuwww.effectiefarmoedebeleid.nl](http://xgozwulqvuwww.effectiefarmoedebeleid.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
+|[http://sitemaps.effectiefarmoedebeleid.nl](http://sitemaps.effectiefarmoedebeleid.nl)| | **F**|Parking/1.0| | | | | | | | :white_check_mark: | |||
 
 

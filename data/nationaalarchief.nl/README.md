@@ -11,8 +11,8 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/nationaalarchief.nl/subdomains.txt)|40|Alive subdomains|
-|[urls.txt](/data/nationaalarchief.nl/urls.txt)|40|Urls|
+|[subdomains.txt](/data/nationaalarchief.nl/subdomains.txt)|38|Alive subdomains|
+|[urls.txt](/data/nationaalarchief.nl/urls.txt)|38|Urls|
 
 
 ## Statistics
@@ -40,8 +40,6 @@
 |[https://en.nationaalarchief.nl](https://en.nationaalarchief.nl)| | **A**|nginx| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Nginx|301 Moved Perman...|
 |[https://nationaalarchief.nl](https://nationaalarchief.nl)| | **A**|nginx| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Nginx|301 Moved Perman...|
 |[https://www.nationaalarchief.nl](https://www.nationaalarchief.nl)| | **A**|nginx| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Drupal HSTS Nginx PHP|Nationaal Archie...|
-|[https://gaf.nationaalarchief.nl](https://gaf.nationaalarchief.nl)| | **F**|nginx/1.25.3| | | | | | | | :white_check_mark: | |Drupal HSTS Nginx:1.25.3 PHP||
-|[https://registratietool.nationaalarchief.nl](https://registratietool.nationaalarchief.nl)| | **A**|nginx/1.25.3| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Drupal HSTS Nginx:1.25.3 PHP||
 |[https://graphdb.nationaalarchief.nl](https://graphdb.nationaalarchief.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|403 Forbidden|
 |[https://lbrproxy.prod.nationaalarchief.nl](https://lbrproxy.prod.nationaalarchief.nl)| | **F**|nginx/1.25.3| | | | | | | | :white_check_mark: | |Nginx:1.25.3|301 Moved Perman...|
 |[https://meeting.nationaalarchief.nl](https://meeting.nationaalarchief.nl)| | **B**|nginx| |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | |HSTS Nginx|Jitsi Meet|

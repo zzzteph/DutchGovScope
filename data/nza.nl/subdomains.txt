@@ -33,5 +33,4 @@ zorgproducten-acc.nza.nl
 zorgproducten-test.nza.nl
 zorgproducten.nza.nl
 aanvragen-acc.nza.nl
-mijn.nza.nl
 agw01-nomail.nza.nl

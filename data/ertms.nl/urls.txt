@@ -1,6 +1,6 @@
-https://ertms.nl
+http://ertms.nl
 https://postmaster.ertms.nl
-https://www.ertms.nl
+http://www.ertms.nl
 https://web.ertms.nl
 https://mrd.ertms.nl
 https://west.ertms.nl

@@ -6,4 +6,3 @@ http://huib.prod-ext.hansken.holmes.nl
 http://keycloak.prod-ext.hansken.holmes.nl
 http://keystore01.prod-ext.hansken.holmes.nl
 http://osm.hansken.holmes.nl
-https://downloads.holmes.nl

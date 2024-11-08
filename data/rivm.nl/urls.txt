@@ -76,7 +76,7 @@ https://acceptatie.webservice.soap.osiris.rivm.nl
 http://acceptatie.webservice.cdif.osiris.rivm.nl
 http://acceptatie.zwemwater.osiris.rivm.nl
 https://aiz.osiris.rivm.nl
-https://api-samenmeten.rivm.nl
+http://api-samenmeten.rivm.nl
 http://api.rivm.nl
 http://app.rivm.nl
 http://apps.rivm.nl
@@ -220,6 +220,7 @@ https://teebstad.rivm.nl
 https://www.teebstad.rivm.nl
 https://teekcontrol.rivm.nl
 https://test-fides.rivm.nl
+https://test-veldmonitoring.rivm.nl
 http://test.crios.rivm.nl
 http://test.lci.rivm.nl
 http://test.lml.rivm.nl

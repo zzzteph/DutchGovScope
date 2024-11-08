@@ -1,13 +1,3 @@
 https://datawonen.nl
-https://hcib.datawonen.nl
-https://primos.datawonen.nl
-https://55plus.datawonen.nl
-https://begrippenlijst.datawonen.nl
-https://btiv.datawonen.nl
-https://ibw.datawonen.nl
-https://kaarten.datawonen.nl
-https://syswov.datawonen.nl
-https://vois.datawonen.nl
-https://www.datawonen.nl
 https://dfg.datawonen.nl
 https://mn.datawonen.nl

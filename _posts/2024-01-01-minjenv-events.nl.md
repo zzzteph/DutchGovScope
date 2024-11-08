@@ -2,7 +2,7 @@
 layout: default
 title: "minjenv-events.nl"
 permalink: "/dutchgov/minjenv-events.nl.html"
-subdomains_count: 8
+subdomains_count: 9
 urls_count: 7
 ssl_rank: 
 http_rank: A
@@ -25,7 +25,7 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/minjenv-events.nl/subdomains.txt)|8|Alive subdomains|
+|[subdomains.txt](/DutchGovScope/data/minjenv-events.nl/subdomains.txt)|9|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/minjenv-events.nl/urls.txt)|7|Urls|
 
 

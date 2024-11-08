@@ -6,7 +6,7 @@ subdomains_count: 12
 urls_count: 12
 ssl_rank: 
 http_rank: D
-security_txt: 3
+security_txt: 0
 url_link: /data/waarderingskamer.nl/urls.txt
 subdomains_link: /data/waarderingskamer.nl/subdomains.txt
 categories: dutchgov
@@ -20,7 +20,7 @@ tags: dutchgov
 
  - **SSL Grade**:
  - **HTTP Security Grade**:D
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:3
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:0
 
 
 | File       | Count | Info |

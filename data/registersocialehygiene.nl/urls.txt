@@ -1,5 +1,4 @@
 https://acceptatie.behandel.registersocialehygiene.nl
-https://acceptatie.zoeken.registersocialehygiene.nl
 https://behandel.registersocialehygiene.nl
 https://feeds.registersocialehygiene.nl
 https://opendata.registersocialehygiene.nl

@@ -4,4 +4,5 @@ www.bewustbodemgebruik.nl
 ftp.bewustbodemgebruik.nl
 ssh.bewustbodemgebruik.nl
 autoconfig.bewustbodemgebruik.nl
+autodiscover.bewustbodemgebruik.nl
 localhost.bewustbodemgebruik.nl

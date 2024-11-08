@@ -11,10 +11,10 @@ https://webdiensten.hdsr.nl
 https://webservices.hdsr.nl
 https://geoservices.hdsr.nl
 https://kaarten.hdsr.nl
-https://hdsr.nl
-https://intranet.ad.hdsr.nl
-https://redactie.hdsr.nl
-https://waterkwaliteitinbeeld.hdsr.nl
+http://hdsr.nl
+http://intranet.ad.hdsr.nl
+http://redactie.hdsr.nl
+http://waterkwaliteitinbeeld.hdsr.nl
 https://www.hdsr.nl
 https://werkplek.hdsr.nl
 https://wsus.hdsr.nl
@@ -23,3 +23,4 @@ https://zaaksysteem.hdsr.nl
 http://zoeken.hdsr.nl
 https://kantoor.hdsr.nl
 https://remote-pa.hdsr.nl
+https://ftp-hdsr.hdsr.nl

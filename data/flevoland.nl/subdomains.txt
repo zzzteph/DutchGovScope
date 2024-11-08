@@ -27,8 +27,6 @@ regiotaxi.flevoland.nl
 vps-prod-01.flevoland.nl
 www.omgevingsplan.flevoland.nl
 intranet.flevoland.nl
-cmsintranet.flevoland.nl
-embraceintranet.flevoland.nl
 competentie.flevoland.nl
 connect-with.flevoland.nl
 ondertekenen.flevoland.nl
@@ -38,7 +36,6 @@ esb-ibabs-preprod.flevoland.nl
 esb-ibabs.flevoland.nl
 esb-preprod.flevoland.nl
 flevoland.nl
-int-prod-01.flevoland.nl
 prod.flevoland.nl
 www.flevoland.nl
 formulieren.flevoland.nl

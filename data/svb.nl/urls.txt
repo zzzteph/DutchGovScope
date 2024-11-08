@@ -42,13 +42,14 @@ https://rdsapplications04.svb.nl
 https://rdsapplications05.svb.nl
 https://rdsapplications06.svb.nl
 https://rdsapplications07.svb.nl
-https://remotedesktop.svb.nl
 https://secure5.svb.nl
 https://svb.nl
 https://www.svb.nl
+https://test-intranet.svb.nl
 https://test-cmsintranet.svb.nl
 https://events.svb.nl
 https://mft-prd.svb.nl
 https://rdsapplications00.svb.nl
+https://canary-svb.svb.nl
 https://kennisbank.svb.nl
 https://enterpriseregistration.svb.nl

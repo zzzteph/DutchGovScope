@@ -1,6 +1,6 @@
-https://elo.veiligheidsregioflevoland.nl
-https://redactie.veiligheidsregioflevoland.nl
-https://www.veiligheidsregioflevoland.nl
+http://elo.veiligheidsregioflevoland.nl
+http://redactie.veiligheidsregioflevoland.nl
+http://www.veiligheidsregioflevoland.nl
 https://veiligheidsregioflevoland.nl
 https://mail.veiligheidsregioflevoland.nl
 http://autodiscover.veiligheidsregioflevoland.nl

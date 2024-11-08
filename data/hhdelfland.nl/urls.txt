@@ -15,12 +15,12 @@ https://watertoetsportaal-a.hhdelfland.nl
 https://watertoetsportaal.hhdelfland.nl
 https://grondwaterportaal.hhdelfland.nl
 https://startstopmelding.hhdelfland.nl
-https://hhdelfland.nl
-https://www.hhdelfland.nl
+http://hhdelfland.nl
+http://www.hhdelfland.nl
 https://inloggen-preprod.hhdelfland.nl
 https://inloggen.hhdelfland.nl
-https://loket.hhdelfland.nl
-https://loket-preprod.hhdelfland.nl
+http://loket.hhdelfland.nl
+http://loket-preprod.hhdelfland.nl
 https://remote.hhdelfland.nl
 https://remotetest.hhdelfland.nl
 https://samenveiligwerken.hhdelfland.nl

@@ -11,8 +11,8 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/pbl.nl/subdomains.txt)|26|Alive subdomains|
-|[urls.txt](/data/pbl.nl/urls.txt)|26|Urls|
+|[subdomains.txt](/data/pbl.nl/subdomains.txt)|25|Alive subdomains|
+|[urls.txt](/data/pbl.nl/urls.txt)|25|Urls|
 
 
 ## Statistics
@@ -27,7 +27,6 @@
 |[https://pbl.nl](https://pbl.nl)| | **A**|Microsoft-Azure-Application-Gateway/v2| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | ||301 Moved Perman...|
 |[https://roadsfromrio.pbl.nl](https://roadsfromrio.pbl.nl)| | **A**|Microsoft-Azure-Application-Gateway/v2| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | ||301 Moved Perman...|
 |[https://snippet.startanalyse.pbl.nl](https://snippet.startanalyse.pbl.nl)| | **A**|| |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | |HSTS|502 Bad Gateway|
-|[https://startanalyse.pbl.nl](https://startanalyse.pbl.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Drupal:10 HSTS PHP|Site in onderhou...|
 |[https://www.pbl.nl](https://www.pbl.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Drupal:10 HSTS PHP|Home | Planburea...|
 |[https://data.pbl.nl](https://data.pbl.nl)| | **A**|Microsoft-Azure-Application-Gateway/v2| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | ||301 Moved Perman...|
 |[https://icer.pbl.nl](https://icer.pbl.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Drupal:10 HSTS PHP|Site in onderhou...|

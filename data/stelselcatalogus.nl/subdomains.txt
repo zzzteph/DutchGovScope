@@ -1,4 +1,5 @@
 preprod.purl.stelselcatalogus.nl
+preprod.editor.stelselcatalogus.nl
 preprod.playground.stelselcatalogus.nl
 preprod.opendata.stelselcatalogus.nl
 preprod.stelselcatalogus.nl

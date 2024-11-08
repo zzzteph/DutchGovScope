@@ -63,7 +63,6 @@ tzpubliekscontact-dev.dnb.nl
 tzpubliekscontact-tst.dnb.nl
 tz-aanvragen-tst.dnb.nl
 tzkalender-dev.dnb.nl
-tzpubliekscontact.dnb.nl
 svcalendar-acc.dnb.nl
 tz-organisatiegegevens-tst.dnb.nl
 tzkalender-acc.dnb.nl
@@ -127,3 +126,6 @@ tz-uitvragen-tst.dnb.nl
 stepui.azure.dnb.nl
 muntvondsten.dnb.nl
 mijn-dr.dnb.nl
+sftp.dnb.nl
+tz-aanvragen.dnb.nl
+tz-aanvragen-acc.dnb.nl

@@ -11,7 +11,7 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/open-overheid.nl/subdomains.txt)|8|Alive subdomains|
+|[subdomains.txt](/data/open-overheid.nl/subdomains.txt)|9|Alive subdomains|
 |[urls.txt](/data/open-overheid.nl/urls.txt)|8|Urls|
 
 

@@ -34,7 +34,7 @@ tags: dutchgov
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://apps.lchulpmiddelen.nl](https://apps.lchulpmiddelen.nl)| | **F**|Microsoft-IIS/10.0| | | | | | | | :white_check_mark: | |Azure IIS:10.0 Microsoft ASP.NET Windows Server|AppsPortalFronte...|
+|[https://apps.lchulpmiddelen.nl](https://apps.lchulpmiddelen.nl)| | **F**|Microsoft-IIS/10.0| | | | | | | | :white_check_mark: | |IIS:10.0 Windows Server|502 - Web server...|
 |[http://autodiscover.lchulpmiddelen.nl](http://autodiscover.lchulpmiddelen.nl)| | **C**|Microsoft-IIS/10.0| |:white_check_mark: | | | | | | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server||
 |[https://cpanel.lchulpmiddelen.nl](https://cpanel.lchulpmiddelen.nl)| | **F**|LiteSpeed| | | | | | | | :white_check_mark: | |HTTP/3 LiteSpeed cPanel|cPanel Login|
 |[https://cpcalendars.lchulpmiddelen.nl](https://cpcalendars.lchulpmiddelen.nl)| | **F**|LiteSpeed| | | | | | | | :white_check_mark: | |HTTP/3 LiteSpeed|403 Forbidden|

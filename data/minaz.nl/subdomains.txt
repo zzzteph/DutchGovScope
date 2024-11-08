@@ -1,6 +1,3 @@
 minaz.nl
 www.minaz.nl
-portal.minaz.nl
-portal2.minaz.nl
 portal3.minaz.nl
-gateway.minaz.nl

@@ -2,7 +2,7 @@
 layout: default
 title: "regering-online.nl"
 permalink: "/dutchgov/regering-online.nl.html"
-subdomains_count: 0
+subdomains_count: 2
 urls_count: 0
 ssl_rank: 
 http_rank: F
@@ -25,7 +25,7 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/regering-online.nl/subdomains.txt)|0|Alive subdomains|
+|[subdomains.txt](/DutchGovScope/data/regering-online.nl/subdomains.txt)|2|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/regering-online.nl/urls.txt)|0|Urls|
 
 

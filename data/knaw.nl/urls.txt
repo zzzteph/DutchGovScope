@@ -374,6 +374,9 @@ http://mfproxy01.knaw.nl
 https://munki01.knaw.nl
 https://munki.knaw.nl
 https://ninweb.knaw.nl
+https://osso-t.knaw.nl
+https://ossooam-t.knaw.nl
+https://taoracleapp21.knaw.nl
 https://password.knaw.nl
 https://pdvnl31.dans.knaw.nl
 https://pure.knaw.nl
@@ -423,6 +426,7 @@ https://tjalie-robinson.huygens.knaw.nl
 https://pages.bioinf.nioo.knaw.nl
 http://gitlab.huc.knaw.nl
 https://osso-a.knaw.nl
+https://ebs-t.knaw.nl
 https://knaw.nl
 https://nias.knaw.nl
 https://pureacc.knaw.nl

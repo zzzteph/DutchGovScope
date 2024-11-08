@@ -5,7 +5,7 @@ permalink: "/dutchgov/bureaubiosecurity.nl.html"
 subdomains_count: 4
 urls_count: 4
 ssl_rank: 
-http_rank: C
+http_rank: B
 security_txt: 3
 url_link: /data/bureaubiosecurity.nl/urls.txt
 subdomains_link: /data/bureaubiosecurity.nl/subdomains.txt
@@ -19,7 +19,7 @@ tags: dutchgov
 
 
  - **SSL Grade**:
- - **HTTP Security Grade**:C
+ - **HTTP Security Grade**:B
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:3
 
 
@@ -34,9 +34,9 @@ tags: dutchgov
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://cms.bureaubiosecurity.nl](https://cms.bureaubiosecurity.nl)| | **C**|nginx| |:white_check_mark: | :warning:| | | :white_check_mark: | | :white_check_mark: | |Drupal HSTS Nginx PHP|Redirecting to h...|
-|[https://bureaubiosecurity.nl](https://bureaubiosecurity.nl)| | **A**|Apache| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS|301 Moved Perman...|
-|[https://www.bureaubiosecurity.nl](https://www.bureaubiosecurity.nl)| | **A**|Apache| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server Drupal HSTS PHP|Bureau Biosecuri...|
+|[https://cms.bureaubiosecurity.nl](https://cms.bureaubiosecurity.nl)| | **C**|nginx| |:white_check_mark: | :warning:| | | :white_check_mark: | | :white_check_mark: | |Drupal:10 HSTS Nginx PHP|Redirecting to h...|
+|[http://bureaubiosecurity.nl](http://bureaubiosecurity.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS||
+|[http://www.bureaubiosecurity.nl](http://www.bureaubiosecurity.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server Drupal HSTS PHP||
 |[http://localhost.bureaubiosecurity.nl](http://localhost.bureaubiosecurity.nl)| | **F**|nginx|:o: | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Laravel Nginx PHP|Weakpass|
 
 

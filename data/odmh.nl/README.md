@@ -6,12 +6,12 @@
 
  - **SSL Grade**:
  - **HTTP Security Grade**:D
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:6
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:12
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/odmh.nl/subdomains.txt)|35|Alive subdomains|
+|[subdomains.txt](/data/odmh.nl/subdomains.txt)|34|Alive subdomains|
 |[urls.txt](/data/odmh.nl/urls.txt)|34|Urls|
 
 
@@ -20,14 +20,14 @@
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://constructiestukken.odmh.nl](https://constructiestukken.odmh.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:-|Object moved|
-|[https://meldingbwt.odmh.nl](https://meldingbwt.odmh.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:-|Object moved|
-|[https://meldingwd.odmh.nl](https://meldingwd.odmh.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:-|Object moved|
-|[https://odmh.nl](https://odmh.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:-|Object moved|
-|[https://redactie.odmh.nl](https://redactie.odmh.nl)| | **A**|-|:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:-|Object moved|
-|[https://www.odmh.nl](https://www.odmh.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:-|Home - Omgevings...|
-|[https://formulieren.odmh.nl](https://formulieren.odmh.nl)| | **A**||:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Pagina bestaat n...|
-|[https://preprodformulieren.odmh.nl](https://preprodformulieren.odmh.nl)| | **A**||:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Pagina bestaat n...|
+|[http://constructiestukken.odmh.nl](http://constructiestukken.odmh.nl)| | **D**|| | | | | | :white_check_mark: | | :white_check_mark: | |HSTS Microsoft ASP.NET:-||
+|[http://meldingbwt.odmh.nl](http://meldingbwt.odmh.nl)| | **D**|| | | | | | :white_check_mark: | | :white_check_mark: | |HSTS Microsoft ASP.NET:-||
+|[http://meldingwd.odmh.nl](http://meldingwd.odmh.nl)| | **D**|| | | | | | :white_check_mark: | | :white_check_mark: | |HSTS Microsoft ASP.NET:-||
+|[http://odmh.nl](http://odmh.nl)| | **D**|| | | | | | :white_check_mark: | | :white_check_mark: | |HSTS Microsoft ASP.NET:-||
+|[http://redactie.odmh.nl](http://redactie.odmh.nl)| | **D**|| | | | | | :white_check_mark: | | :white_check_mark: | |HSTS Microsoft ASP.NET:-||
+|[http://www.odmh.nl](http://www.odmh.nl)| | **D**|| | | | | | :white_check_mark: | | :white_check_mark: | |HSTS Microsoft ASP.NET:-||
+|[https://formulieren.odmh.nl](https://formulieren.odmh.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|500 - Internal s...|
+|[https://preprodformulieren.odmh.nl](https://preprodformulieren.odmh.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|500 - Internal s...|
 |[https://media.odmh.nl](https://media.odmh.nl)| | **E**|| | | | | | | | :white_check_mark: | |Azure Azure Front Door||
 |[https://odin.odmh.nl](https://odin.odmh.nl)| | **A**|Apache| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Apache HTTP Server HSTS||
 |[https://onderzoek.odmh.nl](https://onderzoek.odmh.nl)| | **E**|nginx|:warning: | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Nginx|Redirecting to h...|

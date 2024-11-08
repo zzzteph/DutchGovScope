@@ -63,7 +63,6 @@ https://tzpubliekscontact-dev.dnb.nl
 https://tzpubliekscontact-tst.dnb.nl
 https://tz-aanvragen-tst.dnb.nl
 https://tzkalender-dev.dnb.nl
-https://tzpubliekscontact.dnb.nl
 https://svcalendar-acc.dnb.nl
 https://tz-organisatiegegevens-tst.dnb.nl
 https://tzkalender-acc.dnb.nl

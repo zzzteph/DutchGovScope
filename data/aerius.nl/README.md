@@ -30,7 +30,7 @@
 |[https://search.aerius.nl](https://search.aerius.nl)| | **E**|| | | | | | | | :white_check_mark: | ||AERIUS Search Re...|
 |[https://auth-register-dev.aerius.nl](https://auth-register-dev.aerius.nl)| | **B**|Server|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Amazon CloudFront Amazon Web Services Bootstrap HSTS|Signin|
 |[https://auth-dev.aerius.nl](https://auth-dev.aerius.nl)| | **B**|Server|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Amazon CloudFront Amazon Web Services Bootstrap HSTS|Signin|
-|[https://mattermost.aerius.nl](https://mattermost.aerius.nl)| | **C**|| | | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |||
+|[https://mattermost.aerius.nl](https://mattermost.aerius.nl)| | **C**|| | | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | ||Mattermost|
 |[https://nexus.aerius.nl](https://nexus.aerius.nl)| | **D**|Nexus/3.68.1-02 (OSS)| | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | ||Sonatype Nexus R...|
 |[https://nexus-docker.aerius.nl](https://nexus-docker.aerius.nl)| | **F**|Jetty(9.4.53.v20231009)| | | | | | | | :white_check_mark: | |Java Jetty:9.4.53|Error 400 Not a...|
 |[https://www.aerius.nl](https://www.aerius.nl)| | **A**|awselb/2.0| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Amazon ELB Amazon Web Services|301 Moved Perman...|

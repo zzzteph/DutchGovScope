@@ -28,7 +28,7 @@
 |[https://www.diergeneeskunderegister.nl](https://www.diergeneeskunderegister.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Home | Diergenee...|
 |[https://diergeneeskunderegister.nl](https://diergeneeskunderegister.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
 |[https://feeds.diergeneeskunderegister.nl](https://feeds.diergeneeskunderegister.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
-|[https://mijn.diergeneeskunderegister.nl](https://mijn.diergeneeskunderegister.nl)| | **A**|-| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
+|[https://mijn.diergeneeskunderegister.nl](https://mijn.diergeneeskunderegister.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Inloggen|
 |[https://webservices.diergeneeskunderegister.nl](https://webservices.diergeneeskunderegister.nl)| | **A**|-| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://zoeken.diergeneeskunderegister.nl](https://zoeken.diergeneeskunderegister.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://acceptatie.behandel.diergeneeskunderegister.nl](https://acceptatie.behandel.diergeneeskunderegister.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||

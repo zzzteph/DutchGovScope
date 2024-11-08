@@ -5,8 +5,6 @@ https://acc2.poraad.nl
 http://autodiscover.poraad.nl
 https://manometer.poraad.nl
 https://sectorrapportage.poraad.nl
-https://sectorrapportage2021.poraad.nl
-https://sectorrapportage2022.poraad.nl
 https://acc3.poraad.nl
 https://email.mg.poraad.nl
 https://enterpriseenrollment.poraad.nl

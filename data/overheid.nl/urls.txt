@@ -246,7 +246,6 @@ https://static.mijn.overheid.nl
 https://static.preprod.mijn.overheid.nl
 https://statistiek.mijn.overheid.nl
 https://status.omgevingswet.overheid.nl
-https://status.pre.omgevingswet.overheid.nl
 https://stelselcatalogus.acc.omgevingswet.overheid.nl
 https://stelselcatalogus.dmo.omgevingswet.overheid.nl
 https://stelselcatalogus.int.omgevingswet.overheid.nl

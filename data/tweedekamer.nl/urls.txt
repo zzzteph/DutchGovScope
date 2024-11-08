@@ -57,6 +57,7 @@ https://erelijst.test.tweedekamer.nl
 https://ontdek.test.tweedekamer.nl
 https://tweedekamer.acceptatie.tweedekamer.nl
 https://tweedekamer.test.tweedekamer.nl
+https://ext02.videovergaderen.tweedekamer.nl
 https://files.tweedekamer.nl
 https://gegevensmagazijn.tweedekamer.nl
 https://werkenbij.test.tweedekamer.nl
@@ -64,7 +65,6 @@ https://houseofrepresentatives.acceptatie.tweedekamer.nl
 https://houseofrepresentatives.test.tweedekamer.nl
 https://lijstvangevallenen.acceptatie.tweedekamer.nl
 https://lijstvangevallenen.test.tweedekamer.nl
-https://opendata.acceptatie.tweedekamer.nl
 https://opendata.test.tweedekamer.nl
 https://werkenbij.acceptatie.tweedekamer.nl
 https://livestream-backup.tweedekamer.nl
@@ -123,7 +123,7 @@ https://rijksportaal.tweedekamer.nl
 https://groepsbezoek.tweedekamer.nl
 https://bibliotheek-test.tweedekamer.nl
 https://bibliotheek.tweedekamer.nl
-http://livestreaming-thumb.b67v2.tweedekamer.nl
+https://livestreaming-thumb.b67v2.tweedekamer.nl
 https://livestreaming-thumb.b67buv2.tweedekamer.nl
 https://livestreaming.b67buv2.tweedekamer.nl
 https://livestream-media.tweedekamer.nl

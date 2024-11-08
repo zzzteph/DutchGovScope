@@ -18,8 +18,6 @@ https://e-depot.ted.nationaalarchief.nl
 https://en.nationaalarchief.nl
 https://nationaalarchief.nl
 https://www.nationaalarchief.nl
-https://gaf.nationaalarchief.nl
-https://registratietool.nationaalarchief.nl
 https://graphdb.nationaalarchief.nl
 https://lbrproxy.prod.nationaalarchief.nl
 https://meeting.nationaalarchief.nl

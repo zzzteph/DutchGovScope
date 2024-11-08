@@ -100,7 +100,6 @@ https://portal118.rijkscloud.nl
 https://pw.rvb.rijkscloud.nl
 https://www.rijkscloud.nl
 https://rstudio.kim.rijkscloud.nl
-https://zabbix6.mintst2.rijkscloud.nl
 https://dbe-t.rvb.rijkscloud.nl
 https://images.analyse.ilt.rijkscloud.nl
 https://registry.gitlab.analyse.ilt.rijkscloud.nl

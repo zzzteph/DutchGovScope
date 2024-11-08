@@ -1,2 +1,2 @@
-https://biociden.nl
-https://www.biociden.nl
+http://biociden.nl
+http://www.biociden.nl

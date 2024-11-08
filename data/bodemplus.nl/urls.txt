@@ -1,2 +1,2 @@
-https://bodemplus.nl
-https://www.bodemplus.nl
+http://bodemplus.nl
+http://www.bodemplus.nl

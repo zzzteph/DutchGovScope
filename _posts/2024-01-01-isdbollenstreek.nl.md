@@ -6,7 +6,7 @@ subdomains_count: 7
 urls_count: 7
 ssl_rank: 
 http_rank: A
-security_txt: 4
+security_txt: 5
 url_link: /data/isdbollenstreek.nl/urls.txt
 subdomains_link: /data/isdbollenstreek.nl/subdomains.txt
 categories: dutchgov
@@ -20,7 +20,7 @@ tags: dutchgov
 
  - **SSL Grade**:
  - **HTTP Security Grade**:A
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:4
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:5
 
 
 | File       | Count | Info |

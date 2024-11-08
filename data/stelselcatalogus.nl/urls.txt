@@ -1,4 +1,5 @@
 https://preprod.purl.stelselcatalogus.nl
+https://preprod.editor.stelselcatalogus.nl
 https://preprod.playground.stelselcatalogus.nl
 https://preprod.opendata.stelselcatalogus.nl
 https://preprod.stelselcatalogus.nl

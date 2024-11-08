@@ -6,3 +6,4 @@ mail.open-overheid.nl
 wooincijfers.open-overheid.nl
 pop.open-overheid.nl
 smtp.open-overheid.nl
+ftp.open-overheid.nl

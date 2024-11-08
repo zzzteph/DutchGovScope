@@ -1,12 +1,11 @@
 https://zoek-preprod.officielebekendmakingen.nl
 https://www-preprod.officielebekendmakingen.nl
-https://stage-acc.officielebekendmakingen.nl
+http://stage-acc.officielebekendmakingen.nl
 https://beheer-acc.officielebekendmakingen.nl
 https://identifier-preprod.officielebekendmakingen.nl
 https://beheer-sgd.officielebekendmakingen.nl
 http://publicatieservice-rps-acc.officielebekendmakingen.nl
-http://publicatieservice-bms-acc.officielebekendmakingen.nl
-http://officielebekendmakingen.nl
+https://officielebekendmakingen.nl
 https://stage.officielebekendmakingen.nl
 https://beheer.officielebekendmakingen.nl
 https://www-acc.officielebekendmakingen.nl

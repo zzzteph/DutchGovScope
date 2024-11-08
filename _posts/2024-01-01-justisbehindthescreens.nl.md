@@ -5,8 +5,8 @@ permalink: "/dutchgov/justisbehindthescreens.nl.html"
 subdomains_count: 3
 urls_count: 3
 ssl_rank: 
-http_rank: F
-security_txt: 1
+http_rank: E
+security_txt: 0
 url_link: /data/justisbehindthescreens.nl/urls.txt
 subdomains_link: /data/justisbehindthescreens.nl/subdomains.txt
 categories: dutchgov
@@ -19,8 +19,8 @@ tags: dutchgov
 
 
  - **SSL Grade**:
- - **HTTP Security Grade**:F
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:1
+ - **HTTP Security Grade**:E
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:0
 
 
 | File       | Count | Info |
@@ -36,6 +36,6 @@ tags: dutchgov
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[https://justisbehindthescreens.nl](https://justisbehindthescreens.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://www.justisbehindthescreens.nl](https://www.justisbehindthescreens.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
-|[https://staging.justisbehindthescreens.nl](https://staging.justisbehindthescreens.nl)| | **F**|nginx| | | :warning:| | | | | :white_check_mark: | |Nginx UIKit|mei 2022 | Justi...|
+|[https://staging.justisbehindthescreens.nl](https://staging.justisbehindthescreens.nl)| | **E**|| | | | | | | | :white_check_mark: | |Nginx UIKit||
 
 

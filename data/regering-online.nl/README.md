@@ -11,7 +11,7 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/regering-online.nl/subdomains.txt)|0|Alive subdomains|
+|[subdomains.txt](/data/regering-online.nl/subdomains.txt)|2|Alive subdomains|
 |[urls.txt](/data/regering-online.nl/urls.txt)|0|Urls|
 
 

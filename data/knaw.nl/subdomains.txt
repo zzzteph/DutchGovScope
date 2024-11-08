@@ -374,6 +374,9 @@ mfproxy01.knaw.nl
 munki01.knaw.nl
 munki.knaw.nl
 ninweb.knaw.nl
+osso-t.knaw.nl
+ossooam-t.knaw.nl
+taoracleapp21.knaw.nl
 password.knaw.nl
 pdvnl31.dans.knaw.nl
 pure.knaw.nl
@@ -423,6 +426,7 @@ tjalie-robinson.huygens.knaw.nl
 pages.bioinf.nioo.knaw.nl
 gitlab.huc.knaw.nl
 osso-a.knaw.nl
+ebs-t.knaw.nl
 knaw.nl
 nias.knaw.nl
 pureacc.knaw.nl
@@ -487,3 +491,7 @@ facades-formats.labs.dans.knaw.nl
 license.labs.dans.knaw.nl
 chat.bioinf.nioo.knaw.nl
 vangogh-api.dev.huc.knaw.nl
+fairevaapi.labs.dans.knaw.nl
+genomes.bioinf.nioo.knaw.nl
+repository-assistant.labs.dans.knaw.nl
+storage.labs.dans.knaw.nl

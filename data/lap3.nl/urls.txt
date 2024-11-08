@@ -1,2 +1,2 @@
-https://lap3.nl
-https://www.lap3.nl
+http://lap3.nl
+http://www.lap3.nl

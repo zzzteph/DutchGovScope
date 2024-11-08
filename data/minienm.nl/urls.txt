@@ -9,7 +9,7 @@ https://sociaalfonds.minienm.nl
 https://web.minienm.nl
 https://www.minienm.nl
 https://www.sociaalfonds.minienm.nl
-http://www.startpagina.sap.minienm.nl
+https://www.startpagina.sap.minienm.nl
 https://mpn.minienm.nl
 https://pre.service.mpn.minienm.nl
 https://service.mpn.minienm.nl

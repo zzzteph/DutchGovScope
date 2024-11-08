@@ -25,7 +25,7 @@
 |[https://www2.om.nl](https://www2.om.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Not Found|
 |[https://dialin.om.nl](https://dialin.om.nl)| | **F**|Microsoft-IIS/10.0| | | | | | | | :white_check_mark: | |HSTS IIS:10.0 Windows Server|Conferencing Dia...|
 |[https://lyncdiscover.om.nl](https://lyncdiscover.om.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
-|[https://meet.om.nl](https://meet.om.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS|Skype for Busine...|
+|[http://meet.om.nl](http://meet.om.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||
 |[https://webservices.om.nl](https://webservices.om.nl)| | **F**|Microsoft-IIS/10.0| | | | | | | | :white_check_mark: | |HSTS IIS:10.0 Windows Server||
 |[https://fcvpn.om.nl](https://fcvpn.om.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Microsoft ASP.NET||
 |[https://feeds.om.nl](https://feeds.om.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||

@@ -11,10 +11,10 @@ https://brabant.nl
 https://brainps.brabant.nl
 https://english.brabant.nl
 https://www.brabant.nl
-https://brabantnext.brabant.nl
+http://brabantnext.brabant.nl
 https://brains-acc.brabant.nl
 https://brains.brabant.nl
-https://bzv-a.brabant.nl
+http://bzv-a.brabant.nl
 https://bzv.brabant.nl
 https://ondertekenen.brabant.nl
 https://ondertekenentst.brabant.nl

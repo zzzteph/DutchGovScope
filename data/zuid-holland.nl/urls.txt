@@ -49,6 +49,7 @@ https://omgevingsdocumenten.zuid-holland.nl
 https://opendata.zuid-holland.nl
 https://planmer.zuid-holland.nl
 https://ro.zuid-holland.nl
+https://ruimtelijkeplannen.zuid-holland.nl
 https://thesaurus.zuid-holland.nl
 https://werkenvoor.zuid-holland.nl
 https://zaaksysteem-accept.zuid-holland.nl

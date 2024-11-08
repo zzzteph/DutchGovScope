@@ -1,9 +1,9 @@
-https://constructiestukken.odmh.nl
-https://meldingbwt.odmh.nl
-https://meldingwd.odmh.nl
-https://odmh.nl
-https://redactie.odmh.nl
-https://www.odmh.nl
+http://constructiestukken.odmh.nl
+http://meldingbwt.odmh.nl
+http://meldingwd.odmh.nl
+http://odmh.nl
+http://redactie.odmh.nl
+http://www.odmh.nl
 https://formulieren.odmh.nl
 https://preprodformulieren.odmh.nl
 https://media.odmh.nl

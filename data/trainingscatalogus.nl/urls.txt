@@ -83,7 +83,7 @@ https://lms-svb.trainingscatalogus.nl
 https://lms-tennet.trainingscatalogus.nl
 https://senzer.trainingscatalogus.nl
 https://alliander-lms-t.enrollment-api.trainingscatalogus.nl
-http://alliander-lms-t.product-api.trainingscatalogus.nl
+https://alliander-lms-t.product-api.trainingscatalogus.nl
 https://lms-belastingdienst.trainingscatalogus.nl
 https://lms-apg.trainingscatalogus.nl
 https://buza.trainingscatalogus.nl

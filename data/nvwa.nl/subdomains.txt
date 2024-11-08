@@ -12,6 +12,7 @@ nvwa.nl
 opendata.english.nvwa.nl
 opendata.nvwa.nl
 forms-acc.nvwa.nl
+formulieren-acc.nvwa.nl
 formulieren.nvwa.nl
 inspectieresultaten.nvwa.nl
 openbare-inspectieresultaten.nvwa.nl
