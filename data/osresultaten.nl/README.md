@@ -11,7 +11,7 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/osresultaten.nl/subdomains.txt)|2|Alive subdomains|
+|[subdomains.txt](/data/osresultaten.nl/subdomains.txt)|3|Alive subdomains|
 |[urls.txt](/data/osresultaten.nl/urls.txt)|2|Urls|
 
 

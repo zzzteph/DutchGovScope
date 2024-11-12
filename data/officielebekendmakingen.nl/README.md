@@ -11,8 +11,8 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/officielebekendmakingen.nl/subdomains.txt)|21|Alive subdomains|
-|[urls.txt](/data/officielebekendmakingen.nl/urls.txt)|21|Urls|
+|[subdomains.txt](/data/officielebekendmakingen.nl/subdomains.txt)|22|Alive subdomains|
+|[urls.txt](/data/officielebekendmakingen.nl/urls.txt)|22|Urls|
 
 
 ## Statistics
@@ -27,6 +27,7 @@
 |[https://identifier-preprod.officielebekendmakingen.nl](https://identifier-preprod.officielebekendmakingen.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|URI - Performer...|
 |[https://beheer-sgd.officielebekendmakingen.nl](https://beheer-sgd.officielebekendmakingen.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|Beheersite SGD|
 |[http://publicatieservice-rps-acc.officielebekendmakingen.nl](http://publicatieservice-rps-acc.officielebekendmakingen.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
+|[http://publicatieservice-bms-acc.officielebekendmakingen.nl](http://publicatieservice-bms-acc.officielebekendmakingen.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://officielebekendmakingen.nl](https://officielebekendmakingen.nl)| | **C**||:warning: |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS|301 Moved Perman...|
 |[https://stage.officielebekendmakingen.nl](https://stage.officielebekendmakingen.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET||
 |[https://beheer.officielebekendmakingen.nl](https://beheer.officielebekendmakingen.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|Externe Beheersi...|

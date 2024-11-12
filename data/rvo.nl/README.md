@@ -11,8 +11,8 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/rvo.nl/subdomains.txt)|118|Alive subdomains|
-|[urls.txt](/data/rvo.nl/urls.txt)|116|Urls|
+|[subdomains.txt](/data/rvo.nl/subdomains.txt)|117|Alive subdomains|
+|[urls.txt](/data/rvo.nl/urls.txt)|114|Urls|
 
 
 ## Statistics
@@ -79,7 +79,6 @@
 |[https://crowdtech.rvo.nl](https://crowdtech.rvo.nl)| | **A**|nginx| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://dcmp-upnl-idp.rvo.nl](https://dcmp-upnl-idp.rvo.nl)| | **C**||:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|404 Not Found|
 |[https://upnl-idp.rvo.nl](https://upnl-idp.rvo.nl)| | **C**||:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
-|[http://e-learning.rvo.nl](http://e-learning.rvo.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
 |[https://egeo.rvo.nl](https://egeo.rvo.nl)| | **B**||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS|Onderhoud Pagina|
 |[https://emobility.rvo.nl](https://emobility.rvo.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
 |[https://energieslag.rvo.nl](https://energieslag.rvo.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
@@ -88,7 +87,6 @@
 |[https://networkabroad.rvo.nl](https://networkabroad.rvo.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS|404 Not Found|
 |[https://offshorewind.rvo.nl](https://offshorewind.rvo.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache Tomcat Fourthwall:1.0.0 HSTS Java MariaDB Skolengo:1.0.0|Offshorewind RVO|
 |[https://sharingknowledge.rvo.nl](https://sharingknowledge.rvo.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache Tomcat Fourthwall:1.0.0 HSTS Java MariaDB Skolengo:1.0.0|Sharing Knowledg...|
-|[http://epbdwebservices-preprod.rvo.nl](http://epbdwebservices-preprod.rvo.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET||
 |[https://epbdwebservices.rvo.nl](https://epbdwebservices.rvo.nl)| | **A**||:warning: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET|Home - Aanvraagf...|
 |[http://gbatmv.rvo.nl](http://gbatmv.rvo.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server||
 |[https://gdi-a.rvo.nl](https://gdi-a.rvo.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS|Onderhoud Pagina|

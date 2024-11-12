@@ -1,2 +1,3 @@
 osresultaten.nl
 www.osresultaten.nl
+ftp.osresultaten.nl

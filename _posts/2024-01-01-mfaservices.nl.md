@@ -2,8 +2,8 @@
 layout: default
 title: "mfaservices.nl"
 permalink: "/dutchgov/mfaservices.nl.html"
-subdomains_count: 63
-urls_count: 62
+subdomains_count: 61
+urls_count: 60
 ssl_rank: 
 http_rank: C
 security_txt: 11
@@ -25,8 +25,8 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/mfaservices.nl/subdomains.txt)|63|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/mfaservices.nl/urls.txt)|62|Urls|
+|[subdomains.txt](/DutchGovScope/data/mfaservices.nl/subdomains.txt)|61|Alive subdomains|
+|[urls.txt](/DutchGovScope/data/mfaservices.nl/urls.txt)|60|Urls|
 
 
 ## Statistics
@@ -87,8 +87,6 @@ tags: dutchgov
 |[https://sq.mfaservices.nl](https://sq.mfaservices.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Application Request Routing:3.0 HSTS IIS Java SonarQubes|SonarQube|
 |[https://protocol.mfaservices.nl](https://protocol.mfaservices.nl)| | **C**||:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | |Azure HSTS||
 |[https://snd.login.consular.mfaservices.nl](https://snd.login.consular.mfaservices.nl)| | **F**|cloudflare|:white_check_mark: | | | | | | | :white_check_mark: | |Azure Azure Front Door Cloudflare Cloudflare Bot Management|Consular Service...|
-|[https://tst.esp.mfaservices.nl](https://tst.esp.mfaservices.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|403 Forbidden|
-|[https://tst.liferay.mfaservices.nl](https://tst.liferay.mfaservices.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|403 Forbidden|
 |[https://acc.fez.mfaservices.nl](https://acc.fez.mfaservices.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|403 Forbidden|
 |[https://dev-insights.mfaservices.nl](https://dev-insights.mfaservices.nl)| | **F**|Microsoft-Azure-Application-Gateway/v2| | | | | | | | :white_check_mark: | ||404 Not Found|
 |[https://dev.fez.mfaservices.nl](https://dev.fez.mfaservices.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|403 Forbidden|

@@ -1,4 +1,3 @@
-cmsintranet.scp.nl
 intranet.scp.nl
 digitaal.scp.nl
 digital.scp.nl

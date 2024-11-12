@@ -2,11 +2,11 @@
 layout: default
 title: "effectiefarmoedebeleid.nl"
 permalink: "/dutchgov/effectiefarmoedebeleid.nl.html"
-subdomains_count: 6
-urls_count: 6
+subdomains_count: 7
+urls_count: 7
 ssl_rank: 
 http_rank: F
-security_txt: 0
+security_txt: 1
 url_link: /data/effectiefarmoedebeleid.nl/urls.txt
 subdomains_link: /data/effectiefarmoedebeleid.nl/subdomains.txt
 categories: dutchgov
@@ -20,13 +20,13 @@ tags: dutchgov
 
  - **SSL Grade**:
  - **HTTP Security Grade**:F
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:0
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:1
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/effectiefarmoedebeleid.nl/subdomains.txt)|6|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/effectiefarmoedebeleid.nl/urls.txt)|6|Urls|
+|[subdomains.txt](/DutchGovScope/data/effectiefarmoedebeleid.nl/subdomains.txt)|7|Alive subdomains|
+|[urls.txt](/DutchGovScope/data/effectiefarmoedebeleid.nl/urls.txt)|7|Urls|
 
 
 ## Statistics
@@ -36,6 +36,7 @@ tags: dutchgov
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[http://effectiefarmoedebeleid.nl](http://effectiefarmoedebeleid.nl)| | **F**|Parking/1.0| | | | | | | | :white_check_mark: | ||effectiefarmoede...|
 |[http://www.effectiefarmoedebeleid.nl](http://www.effectiefarmoedebeleid.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
+|[https://ulqvuwww.effectiefarmoedebeleid.nl](https://ulqvuwww.effectiefarmoedebeleid.nl)| | **F**||:o: | | | | | | | :white_check_mark: | |||
 |[http://72hw1ulqvuwww.effectiefarmoedebeleid.nl](http://72hw1ulqvuwww.effectiefarmoedebeleid.nl)| | **F**|Parking/1.0| | | | | | | | :white_check_mark: | ||effectiefarmoede...|
 |[http://sitemap.effectiefarmoedebeleid.nl](http://sitemap.effectiefarmoedebeleid.nl)| | **F**|Parking/1.0| | | | | | | | :white_check_mark: | ||effectiefarmoede...|
 |[http://xgozwulqvuwww.effectiefarmoedebeleid.nl](http://xgozwulqvuwww.effectiefarmoedebeleid.nl)| | **E**|| | | | | | | | :white_check_mark: | |||

@@ -1,4 +1,3 @@
-connect.wodc.nl
 opendata.wodc.nl
 wodc.nl
 www.wodc.nl

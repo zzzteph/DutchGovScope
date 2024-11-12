@@ -11,7 +11,7 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/logius.nl/subdomains.txt)|54|Alive subdomains|
+|[subdomains.txt](/data/logius.nl/subdomains.txt)|60|Alive subdomains|
 |[urls.txt](/data/logius.nl/urls.txt)|54|Urls|
 
 

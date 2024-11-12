@@ -6,13 +6,13 @@
 
  - **SSL Grade**:
  - **HTTP Security Grade**:B
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:14
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:13
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/scp.nl/subdomains.txt)|20|Alive subdomains|
-|[urls.txt](/data/scp.nl/urls.txt)|20|Urls|
+|[subdomains.txt](/data/scp.nl/subdomains.txt)|19|Alive subdomains|
+|[urls.txt](/data/scp.nl/urls.txt)|19|Urls|
 
 
 ## Statistics
@@ -20,7 +20,6 @@
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://cmsintranet.scp.nl](https://cmsintranet.scp.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|403 - Forbidden:...|
 |[https://intranet.scp.nl](https://intranet.scp.nl)| | **D**|| | | | | :white_check_mark:| | | :white_check_mark: | ||403 - Forbidden:...|
 |[https://digitaal.scp.nl](https://digitaal.scp.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS ZURB Foundation|SCP Digitaal - S...|
 |[https://digital.scp.nl](https://digital.scp.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS ZURB Foundation|SCP Digitaal - S...|

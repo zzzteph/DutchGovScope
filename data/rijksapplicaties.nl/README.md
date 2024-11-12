@@ -6,13 +6,13 @@
 
  - **SSL Grade**:
  - **HTTP Security Grade**:C
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:259
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:260
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/rijksapplicaties.nl/subdomains.txt)|267|Alive subdomains|
-|[urls.txt](/data/rijksapplicaties.nl/urls.txt)|266|Urls|
+|[subdomains.txt](/data/rijksapplicaties.nl/subdomains.txt)|268|Alive subdomains|
+|[urls.txt](/data/rijksapplicaties.nl/urls.txt)|267|Urls|
 
 
 ## Statistics
@@ -286,5 +286,6 @@
 |[https://dpt.rijksapplicaties.nl](https://dpt.rijksapplicaties.nl)| | **E**|nginx| | | | |:warning: | | | :white_check_mark: | |Nginx||
 |[https://sth.rijksapplicaties.nl](https://sth.rijksapplicaties.nl)| | **E**|nginx| | | | |:warning: | | | :white_check_mark: | |Nginx||
 |[https://bda.rijksapplicaties.nl](https://bda.rijksapplicaties.nl)| | **E**|nginx| | | | |:warning: | | | :white_check_mark: | |Nginx||
+|[https://dsa.staging.rijksapplicaties.nl](https://dsa.staging.rijksapplicaties.nl)| | **C**|nginx|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS Microsoft ASP.NET Nginx|DSA (Testomgevin...|
 
 

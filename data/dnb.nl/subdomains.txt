@@ -63,6 +63,7 @@ tzpubliekscontact-dev.dnb.nl
 tzpubliekscontact-tst.dnb.nl
 tz-aanvragen-tst.dnb.nl
 tzkalender-dev.dnb.nl
+tzpubliekscontact.dnb.nl
 svcalendar-acc.dnb.nl
 tz-organisatiegegevens-tst.dnb.nl
 tzkalender-acc.dnb.nl
@@ -89,7 +90,6 @@ nieuws.dnb.nl
 nnc.dnb.nl
 sharefile.dnb.nl
 statistics.dnb.nl
-nieuwsapp.dnb.nl
 pmhdsk-ci.dnb.nl
 rmdm-beheerapp-dev.azure.dnb.nl
 tzorganisatiegegevens-dev.dnb.nl

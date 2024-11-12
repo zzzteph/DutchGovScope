@@ -27,6 +27,8 @@ https://regiotaxi.flevoland.nl
 https://vps-prod-01.flevoland.nl
 https://www.omgevingsplan.flevoland.nl
 https://intranet.flevoland.nl
+https://cmsintranet.flevoland.nl
+http://embraceintranet.flevoland.nl
 https://competentie.flevoland.nl
 https://connect-with.flevoland.nl
 https://ondertekenen.flevoland.nl
@@ -53,7 +55,6 @@ https://meepraten.flevoland.nl
 https://micollab.flevoland.nl
 https://preprodid.flevoland.nl
 https://stateninformatie.flevoland.nl
-https://test-cmsintranet.flevoland.nl
 https://test.flevoland.nl
 https://testmdm.flevoland.nl
 https://veiligmailen.flevoland.nl

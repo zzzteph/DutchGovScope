@@ -63,6 +63,7 @@ https://tzpubliekscontact-dev.dnb.nl
 https://tzpubliekscontact-tst.dnb.nl
 https://tz-aanvragen-tst.dnb.nl
 https://tzkalender-dev.dnb.nl
+https://tzpubliekscontact.dnb.nl
 https://svcalendar-acc.dnb.nl
 https://tz-organisatiegegevens-tst.dnb.nl
 https://tzkalender-acc.dnb.nl
@@ -89,7 +90,6 @@ https://nieuws.dnb.nl
 https://nnc.dnb.nl
 https://sharefile.dnb.nl
 http://statistics.dnb.nl
-http://nieuwsapp.dnb.nl
 https://pmhdsk-ci.dnb.nl
 https://rmdm-beheerapp-dev.azure.dnb.nl
 https://tzorganisatiegegevens-dev.dnb.nl
@@ -126,3 +126,4 @@ https://tz-uitvragen-tst.dnb.nl
 https://stepui.azure.dnb.nl
 https://muntvondsten.dnb.nl
 https://mijn-dr.dnb.nl
+https://sftp.dnb.nl

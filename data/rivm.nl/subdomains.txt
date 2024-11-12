@@ -211,7 +211,6 @@ securemail.rivm.nl
 sprproposal.rivm.nl
 sso-osiris.rivm.nl
 sso.api.rivm.nl
-statline.rivm.nl
 stikstofdepositiedata.rivm.nl
 support.rivm.nl
 swka.rivm.nl

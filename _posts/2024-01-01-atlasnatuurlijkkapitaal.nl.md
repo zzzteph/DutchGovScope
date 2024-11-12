@@ -2,7 +2,7 @@
 layout: default
 title: "atlasnatuurlijkkapitaal.nl"
 permalink: "/dutchgov/atlasnatuurlijkkapitaal.nl.html"
-subdomains_count: 5
+subdomains_count: 6
 urls_count: 5
 ssl_rank: 
 http_rank: D
@@ -25,7 +25,7 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/atlasnatuurlijkkapitaal.nl/subdomains.txt)|5|Alive subdomains|
+|[subdomains.txt](/DutchGovScope/data/atlasnatuurlijkkapitaal.nl/subdomains.txt)|6|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/atlasnatuurlijkkapitaal.nl/urls.txt)|5|Urls|
 
 

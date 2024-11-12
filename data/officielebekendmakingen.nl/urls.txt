@@ -5,6 +5,7 @@ https://beheer-acc.officielebekendmakingen.nl
 https://identifier-preprod.officielebekendmakingen.nl
 https://beheer-sgd.officielebekendmakingen.nl
 http://publicatieservice-rps-acc.officielebekendmakingen.nl
+http://publicatieservice-bms-acc.officielebekendmakingen.nl
 https://officielebekendmakingen.nl
 https://stage.officielebekendmakingen.nl
 https://beheer.officielebekendmakingen.nl

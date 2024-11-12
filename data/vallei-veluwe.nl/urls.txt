@@ -6,6 +6,7 @@ http://www.vallei-veluwe.nl
 http://nc-openbaar.vallei-veluwe.nl
 https://planonprod.vallei-veluwe.nl
 https://neurontest.vallei-veluwe.nl
+https://tmx.vallei-veluwe.nl
 https://werkplek.vallei-veluwe.nl
 https://enterpriseenrollment.vallei-veluwe.nl
 https://geotest.vallei-veluwe.nl

@@ -329,11 +329,6 @@ https://dvnl31.dans.knaw.nl
 https://taoracleapp22.knaw.nl
 https://ebs-a.knaw.nl
 https://ossooam-a.knaw.nl
-https://ebs-o.knaw.nl
-https://obi-o.knaw.nl
-https://osso-o.knaw.nl
-https://ossooam-o.knaw.nl
-https://taoracleapp23.knaw.nl
 https://ebs.knaw.nl
 https://oracleapp21.knaw.nl
 https://osso.knaw.nl
@@ -442,7 +437,6 @@ https://oat.acc.huc.knaw.nl
 http://kaartenbank.meertens.knaw.nl
 http://monitoring.huc.knaw.nl
 https://dummy-signposting.labs.dans.knaw.nl
-https://www.promise.nioo.knaw.nl
 https://backtoroots.nioo.knaw.nl
 https://digitallibrary.knaw.nl
 https://elaborate.knaw.nl
@@ -490,3 +484,5 @@ https://facades-formats.labs.dans.knaw.nl
 https://license.labs.dans.knaw.nl
 https://chat.bioinf.nioo.knaw.nl
 https://vangogh-api.dev.huc.knaw.nl
+https://fairevaapi.labs.dans.knaw.nl
+https://genomes.bioinf.nioo.knaw.nl

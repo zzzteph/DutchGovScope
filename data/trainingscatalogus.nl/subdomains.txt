@@ -103,3 +103,4 @@ rabobank.trainingscatalogus.nl
 rbo.trainingscatalogus.nl
 stedin.trainingscatalogus.nl
 ftp.trainingscatalogus.nl
+sectest.trainingscatalogus.nl

@@ -2,11 +2,11 @@
 layout: default
 title: "bestrijdingsmiddelen-omwonenden.nl"
 permalink: "/dutchgov/bestrijdingsmiddelen-omwonenden.nl.html"
-subdomains_count: 3
-urls_count: 3
+subdomains_count: 1
+urls_count: 1
 ssl_rank: 
-http_rank: C
-security_txt: 2
+http_rank: F
+security_txt: 0
 url_link: /data/bestrijdingsmiddelen-omwonenden.nl/urls.txt
 subdomains_link: /data/bestrijdingsmiddelen-omwonenden.nl/subdomains.txt
 categories: dutchgov
@@ -19,14 +19,14 @@ tags: dutchgov
 
 
  - **SSL Grade**:
- - **HTTP Security Grade**:C
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:2
+ - **HTTP Security Grade**:F
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:0
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/bestrijdingsmiddelen-omwonenden.nl/subdomains.txt)|3|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/bestrijdingsmiddelen-omwonenden.nl/urls.txt)|3|Urls|
+|[subdomains.txt](/DutchGovScope/data/bestrijdingsmiddelen-omwonenden.nl/subdomains.txt)|1|Alive subdomains|
+|[urls.txt](/DutchGovScope/data/bestrijdingsmiddelen-omwonenden.nl/urls.txt)|1|Urls|
 
 
 ## Statistics
@@ -34,8 +34,6 @@ tags: dutchgov
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://bestrijdingsmiddelen-omwonenden.nl](https://bestrijdingsmiddelen-omwonenden.nl)| | **A**|Apache/2.4.37 (Red Hat Enterprise Linux)| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server:2.4.37 Drupal HSTS PHP Red Hat|Home | Bestrijdi...|
-|[https://www.bestrijdingsmiddelen-omwonenden.nl](https://www.bestrijdingsmiddelen-omwonenden.nl)| | **A**|Apache/2.4.37 (Red Hat Enterprise Linux)| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server:2.4.37 Drupal HSTS PHP:8.1.30 Red Hat|Home | Bestrijdi...|
 |[http://localhost.bestrijdingsmiddelen-omwonenden.nl](http://localhost.bestrijdingsmiddelen-omwonenden.nl)| | **F**|nginx|:o: | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Laravel Nginx PHP|Weakpass|
 
 

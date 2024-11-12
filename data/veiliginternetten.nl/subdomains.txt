@@ -7,3 +7,4 @@ mail.veiliginternetten.nl
 vs6575.veiliginternetten.nl
 vs6844.veiliginternetten.nl
 acceptatie.veiliginternetten.nl
+autodiscover.veiliginternetten.nl

@@ -1,2 +1,3 @@
 https://deltacommissioner.nl
 https://www.deltacommissioner.nl
+http://localhost.deltacommissioner.nl

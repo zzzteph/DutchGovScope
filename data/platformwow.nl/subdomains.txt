@@ -8,3 +8,5 @@ water.platformwow.nl
 weg.platformwow.nl
 www.platformwow.nl
 legacy.platformwow.nl
+formulieren.platformwow.nl
+webmail.platformwow.nl

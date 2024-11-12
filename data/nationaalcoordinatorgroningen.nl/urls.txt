@@ -7,3 +7,5 @@ https://www.nationaalcoordinatorgroningen.nl
 https://intranet-prod.nationaalcoordinatorgroningen.nl
 https://intranet.nationaalcoordinatorgroningen.nl
 https://jet-test.nationaalcoordinatorgroningen.nl
+http://ad.nlemail.awareness.nationaalcoordinatorgroningen.nl
+https://jet-acc.nationaalcoordinatorgroningen.nl

@@ -5,6 +5,7 @@ https://monovi.pbl.nl
 https://pbl.nl
 https://roadsfromrio.pbl.nl
 https://snippet.startanalyse.pbl.nl
+https://startanalyse.pbl.nl
 https://www.pbl.nl
 https://data.pbl.nl
 https://icer.pbl.nl

@@ -6,13 +6,13 @@
 
  - **SSL Grade**:
  - **HTTP Security Grade**:A
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:18
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:17
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/zorgaanbiedersportaal.nl/subdomains.txt)|20|Alive subdomains|
-|[urls.txt](/data/zorgaanbiedersportaal.nl/urls.txt)|20|Urls|
+|[subdomains.txt](/data/zorgaanbiedersportaal.nl/subdomains.txt)|19|Alive subdomains|
+|[urls.txt](/data/zorgaanbiedersportaal.nl/urls.txt)|19|Urls|
 
 
 ## Statistics
@@ -21,7 +21,6 @@
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[https://acceptatie.beheer.locatieregister.zorgaanbiedersportaal.nl](https://acceptatie.beheer.locatieregister.zorgaanbiedersportaal.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
-|[https://acceptatie.beheer.zorgaanbiedersportaal.nl](https://acceptatie.beheer.zorgaanbiedersportaal.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://acceptatie.mijn.geschilleninstantie.zorgaanbiedersportaal.nl](https://acceptatie.mijn.geschilleninstantie.zorgaanbiedersportaal.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://acceptatie.mijn.locatieregister.zorgaanbiedersportaal.nl](https://acceptatie.mijn.locatieregister.zorgaanbiedersportaal.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://acceptatie.mijn.melding.zorgaanbiedersportaal.nl](https://acceptatie.mijn.melding.zorgaanbiedersportaal.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||

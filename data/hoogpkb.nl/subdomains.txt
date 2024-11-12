@@ -1,3 +1,7 @@
 aanvraag.hoogpkb.nl
 hoogpkb.nl
 www.hoogpkb.nl
+ftp.hoogpkb.nl
+autodiscover.hoogpkb.nl
+enterpriseenrollment.hoogpkb.nl
+enterpriseregistration.hoogpkb.nl

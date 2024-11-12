@@ -211,7 +211,6 @@ https://securemail.rivm.nl
 https://sprproposal.rivm.nl
 https://sso-osiris.rivm.nl
 http://sso.api.rivm.nl
-https://statline.rivm.nl
 http://stikstofdepositiedata.rivm.nl
 https://support.rivm.nl
 https://swka.rivm.nl

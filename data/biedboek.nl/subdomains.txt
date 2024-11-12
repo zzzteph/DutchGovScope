@@ -8,3 +8,4 @@ autodiscover.biedboek.nl
 enterpriseregistration.biedboek.nl
 localhost.biedboek.nl
 msoid.biedboek.nl
+enterpriseenrollment.biedboek.nl

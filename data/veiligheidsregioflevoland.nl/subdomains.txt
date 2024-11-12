@@ -6,3 +6,4 @@ mail.veiligheidsregioflevoland.nl
 autodiscover.veiligheidsregioflevoland.nl
 enterpriseenrollment.veiligheidsregioflevoland.nl
 enterpriseregistration.veiligheidsregioflevoland.nl
+msoid.veiligheidsregioflevoland.nl

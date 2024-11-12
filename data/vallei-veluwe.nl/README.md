@@ -6,13 +6,13 @@
 
  - **SSL Grade**:
  - **HTTP Security Grade**:C
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:4
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:5
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/vallei-veluwe.nl/subdomains.txt)|13|Alive subdomains|
-|[urls.txt](/data/vallei-veluwe.nl/urls.txt)|13|Urls|
+|[subdomains.txt](/data/vallei-veluwe.nl/subdomains.txt)|14|Alive subdomains|
+|[urls.txt](/data/vallei-veluwe.nl/urls.txt)|14|Urls|
 
 
 ## Statistics
@@ -28,6 +28,7 @@
 |[http://nc-openbaar.vallei-veluwe.nl](http://nc-openbaar.vallei-veluwe.nl)| | **D**|| | | | | | :white_check_mark: | | :white_check_mark: | |HSTS Microsoft ASP.NET:-||
 |[https://planonprod.vallei-veluwe.nl](https://planonprod.vallei-veluwe.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||
 |[https://neurontest.vallei-veluwe.nl](https://neurontest.vallei-veluwe.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||
+|[https://tmx.vallei-veluwe.nl](https://tmx.vallei-veluwe.nl)| | **C**||:warning: |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |F5 BigIP HSTS||
 |[https://werkplek.vallei-veluwe.nl](https://werkplek.vallei-veluwe.nl)| | **C**||:warning: |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |F5 BigIP HSTS||
 |[https://enterpriseenrollment.vallei-veluwe.nl](https://enterpriseenrollment.vallei-veluwe.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||
 |[https://geotest.vallei-veluwe.nl](https://geotest.vallei-veluwe.nl)| | **A**|Microsoft-IIS/10.0| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS IIS:10.0 Microsoft ASP.NET:4.0.30319 Windows Server||

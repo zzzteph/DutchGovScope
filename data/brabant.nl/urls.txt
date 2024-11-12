@@ -62,9 +62,7 @@ https://draf.brabant.nl
 https://esb-test.brabant.nl
 https://opendata.brabant.nl
 https://samenwerken.brabant.nl
-https://facilitor.brabant.nl
 https://kaartbank.brabant.nl
-https://kaarten.brabant.nl
 http://informatie-rws.brabant.nl
 https://longread.brabant.nl
 https://specials.brabant.nl
@@ -76,3 +74,10 @@ http://videoserver2.brabant.nl
 https://esb-a1.brabant.nl
 https://corsa-acpt.brabant.nl
 https://digicheck.brabant.nl
+https://blog.brabant.nl
+https://pki.brabant.nl
+https://enterpriseregistration.brabant.nl
+https://msoid.brabant.nl
+https://ndes.brabant.nl
+https://signing.brabant.nl
+https://webcast.brabant.nl

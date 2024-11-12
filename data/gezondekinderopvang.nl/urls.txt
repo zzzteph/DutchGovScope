@@ -1,5 +1,3 @@
 https://acceptatie.gezondekinderopvang.nl
-https://gezondekinderopvang.nl
 https://www.gezondekinderopvang.nl
-http://sub.gezondekinderopvang.nl
 http://localhost.gezondekinderopvang.nl

@@ -5,3 +5,4 @@ opendata.ondernemersplein.nl
 autodiscover.ondernemersplein.nl
 enterpriseenrollment.ondernemersplein.nl
 enterpriseregistration.ondernemersplein.nl
+msoid.ondernemersplein.nl

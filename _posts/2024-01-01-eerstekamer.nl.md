@@ -3,7 +3,7 @@ layout: default
 title: "eerstekamer.nl"
 permalink: "/dutchgov/eerstekamer.nl.html"
 subdomains_count: 22
-urls_count: 21
+urls_count: 22
 ssl_rank: 
 http_rank: C
 security_txt: 9
@@ -26,7 +26,7 @@ tags: dutchgov
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/DutchGovScope/data/eerstekamer.nl/subdomains.txt)|22|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/eerstekamer.nl/urls.txt)|21|Urls|
+|[urls.txt](/DutchGovScope/data/eerstekamer.nl/urls.txt)|22|Urls|
 
 
 ## Statistics
@@ -55,5 +55,6 @@ tags: dutchgov
 |[https://mail.eerstekamer.nl](https://mail.eerstekamer.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS|Not Found|
 |[https://piwik.eerstekamer.nl](https://piwik.eerstekamer.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS|Not Found|
 |[https://liquit.eerstekamer.nl](https://liquit.eerstekamer.nl)| | **E**|| | | | | | | | :white_check_mark: | |Bootstrap:4|Liquit Workspace|
+|[https://enterpriseenrollment.eerstekamer.nl](https://enterpriseenrollment.eerstekamer.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||
 
 

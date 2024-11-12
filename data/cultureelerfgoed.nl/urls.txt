@@ -52,7 +52,6 @@ https://subsidie.cultureelerfgoed.nl
 https://test.geoservices.cultureelerfgoed.nl
 https://test.monumentenregister.cultureelerfgoed.nl
 https://www.test.monumentenregister.cultureelerfgoed.nl
-https://tst.subsidie.cultureelerfgoed.nl
 https://veilig.cultureelerfgoed.nl
 https://www.veilig.cultureelerfgoed.nl
 https://wikixl-saml.test.cultureelerfgoed.nl

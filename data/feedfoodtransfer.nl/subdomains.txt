@@ -1,6 +1,4 @@
 acceptatie.feedfoodtransfer.nl
-www.feedfoodtransfer.nl
-feedfoodtransfer.nl
 dieldrinhcblindane-hen.apps.feedfoodtransfer.nl
 pfos-pfoa-cow.apps.feedfoodtransfer.nl
 aflatoxinb1m1-cow.apps.feedfoodtransfer.nl

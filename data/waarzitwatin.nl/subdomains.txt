@@ -1,3 +1,4 @@
 staging.waarzitwatin.nl
 waarzitwatin.nl
 www.waarzitwatin.nl
+staging.www.waarzitwatin.nl

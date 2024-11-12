@@ -1,3 +1,4 @@
 https://geweldnergensthuis.nl
 https://mail.geweldnergensthuis.nl
 https://www.geweldnergensthuis.nl
+https://smtp.geweldnergensthuis.nl

@@ -1,7 +1,6 @@
 http://ertms.nl
 https://postmaster.ertms.nl
 http://www.ertms.nl
-https://web.ertms.nl
 https://mrd.ertms.nl
 https://west.ertms.nl
 https://bigshot.ertms.nl

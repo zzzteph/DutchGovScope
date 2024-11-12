@@ -2,11 +2,11 @@
 layout: default
 title: "rijksapplicaties.nl"
 permalink: "/dutchgov/rijksapplicaties.nl.html"
-subdomains_count: 267
-urls_count: 266
+subdomains_count: 268
+urls_count: 267
 ssl_rank: 
 http_rank: C
-security_txt: 259
+security_txt: 260
 url_link: /data/rijksapplicaties.nl/urls.txt
 subdomains_link: /data/rijksapplicaties.nl/subdomains.txt
 categories: dutchgov
@@ -20,13 +20,13 @@ tags: dutchgov
 
  - **SSL Grade**:
  - **HTTP Security Grade**:C
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:259
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:260
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/rijksapplicaties.nl/subdomains.txt)|267|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/rijksapplicaties.nl/urls.txt)|266|Urls|
+|[subdomains.txt](/DutchGovScope/data/rijksapplicaties.nl/subdomains.txt)|268|Alive subdomains|
+|[urls.txt](/DutchGovScope/data/rijksapplicaties.nl/urls.txt)|267|Urls|
 
 
 ## Statistics
@@ -300,5 +300,6 @@ tags: dutchgov
 |[https://dpt.rijksapplicaties.nl](https://dpt.rijksapplicaties.nl)| | **E**|nginx| | | | |:warning: | | | :white_check_mark: | |Nginx||
 |[https://sth.rijksapplicaties.nl](https://sth.rijksapplicaties.nl)| | **E**|nginx| | | | |:warning: | | | :white_check_mark: | |Nginx||
 |[https://bda.rijksapplicaties.nl](https://bda.rijksapplicaties.nl)| | **E**|nginx| | | | |:warning: | | | :white_check_mark: | |Nginx||
+|[https://dsa.staging.rijksapplicaties.nl](https://dsa.staging.rijksapplicaties.nl)| | **C**|nginx|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS Microsoft ASP.NET Nginx|DSA (Testomgevin...|
 
 

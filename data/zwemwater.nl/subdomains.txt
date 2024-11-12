@@ -17,3 +17,5 @@ localhost.zwemwater.nl
 webmail.zwemwater.nl
 inspiregeo.zwemwater.nl
 zwemlocatieswww.zwemwater.nl
+9986734www.zwemwater.nl
+register.zwemwater.nl

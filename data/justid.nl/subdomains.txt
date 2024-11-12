@@ -21,7 +21,6 @@ validatie-acc.justid.nl
 validatie.justid.nl
 werkenbij.justid.nl
 werkplek.justid.nl
-dialin.justid.nl
 feeds.justid.nl
 intranet.justid.nl
 iob.justid.nl

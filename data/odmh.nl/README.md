@@ -5,14 +5,14 @@
 
 
  - **SSL Grade**:
- - **HTTP Security Grade**:D
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:12
+ - **HTTP Security Grade**:E
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:11
 
 
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/odmh.nl/subdomains.txt)|34|Alive subdomains|
-|[urls.txt](/data/odmh.nl/urls.txt)|34|Urls|
+|[urls.txt](/data/odmh.nl/urls.txt)|33|Urls|
 
 
 ## Statistics
@@ -29,7 +29,6 @@
 |[https://formulieren.odmh.nl](https://formulieren.odmh.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|500 - Internal s...|
 |[https://preprodformulieren.odmh.nl](https://preprodformulieren.odmh.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|500 - Internal s...|
 |[https://media.odmh.nl](https://media.odmh.nl)| | **E**|| | | | | | | | :white_check_mark: | |Azure Azure Front Door||
-|[https://odin.odmh.nl](https://odin.odmh.nl)| | **A**|Apache| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Apache HTTP Server HSTS||
 |[https://onderzoek.odmh.nl](https://onderzoek.odmh.nl)| | **E**|nginx|:warning: | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Nginx|Redirecting to h...|
 |[https://vacatures.odmh.nl](https://vacatures.odmh.nl)| | **B**||:white_check_mark: |:white_check_mark: | | |:warning: | | | :white_check_mark: | |HSTS||
 |[https://zaaksysteem.odmh.nl](https://zaaksysteem.odmh.nl)| | **A**||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Moved|
@@ -47,7 +46,7 @@
 |[https://geoportaal.odmh.nl](https://geoportaal.odmh.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|403 Forbidden|
 |[http://autodiscover.odmh.nl](http://autodiscover.odmh.nl)| | **C**|Microsoft-IIS/10.0| |:white_check_mark: | | | | | | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server||
 |[https://mobielwerken.odmh.nl](https://mobielwerken.odmh.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|403 Forbidden|
-|[https://rdsgateway.odmh.nl](https://rdsgateway.odmh.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|503 Service Unav...|
+|[https://rdweb.odmh.nl](https://rdweb.odmh.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|503 Service Unav...|
 |[https://smtp.odmh.nl](https://smtp.odmh.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|403 Forbidden|
 |[https://pow.odmh.nl](https://pow.odmh.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server Microsoft ASP.NET SPNEGO|401 - Unauthoriz...|
 |[https://publicaties.odmh.nl](https://publicaties.odmh.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|403 Forbidden|

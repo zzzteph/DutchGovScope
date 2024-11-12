@@ -246,6 +246,7 @@ static.mijn.overheid.nl
 static.preprod.mijn.overheid.nl
 statistiek.mijn.overheid.nl
 status.omgevingswet.overheid.nl
+status.pre.omgevingswet.overheid.nl
 stelselcatalogus.acc.omgevingswet.overheid.nl
 stelselcatalogus.dmo.omgevingswet.overheid.nl
 stelselcatalogus.int.omgevingswet.overheid.nl

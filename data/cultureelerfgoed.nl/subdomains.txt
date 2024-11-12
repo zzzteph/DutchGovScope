@@ -52,7 +52,6 @@ subsidie.cultureelerfgoed.nl
 test.geoservices.cultureelerfgoed.nl
 test.monumentenregister.cultureelerfgoed.nl
 www.test.monumentenregister.cultureelerfgoed.nl
-tst.subsidie.cultureelerfgoed.nl
 veilig.cultureelerfgoed.nl
 www.veilig.cultureelerfgoed.nl
 wikixl-saml.test.cultureelerfgoed.nl

@@ -2,8 +2,8 @@
 layout: default
 title: "cultureelerfgoed.nl"
 permalink: "/dutchgov/cultureelerfgoed.nl.html"
-subdomains_count: 65
-urls_count: 65
+subdomains_count: 64
+urls_count: 64
 ssl_rank: 
 http_rank: B
 security_txt: 27
@@ -25,8 +25,8 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/cultureelerfgoed.nl/subdomains.txt)|65|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/cultureelerfgoed.nl/urls.txt)|65|Urls|
+|[subdomains.txt](/DutchGovScope/data/cultureelerfgoed.nl/subdomains.txt)|64|Alive subdomains|
+|[urls.txt](/DutchGovScope/data/cultureelerfgoed.nl/urls.txt)|64|Urls|
 
 
 ## Statistics
@@ -88,7 +88,6 @@ tags: dutchgov
 |[https://test.geoservices.cultureelerfgoed.nl](https://test.geoservices.cultureelerfgoed.nl)| | **E**|| | | | | | | | :white_check_mark: | ||ODC-Noord | (403...|
 |[https://test.monumentenregister.cultureelerfgoed.nl](https://test.monumentenregister.cultureelerfgoed.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://www.test.monumentenregister.cultureelerfgoed.nl](https://www.test.monumentenregister.cultureelerfgoed.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
-|[https://tst.subsidie.cultureelerfgoed.nl](https://tst.subsidie.cultureelerfgoed.nl)| | **D**||:warning: | | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | ||SUBS|
 |[https://veilig.cultureelerfgoed.nl](https://veilig.cultureelerfgoed.nl)| | **A**|nginx| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Drupal:7 HSTS Nginx PHP|Veilig Erfgoed|
 |[https://www.veilig.cultureelerfgoed.nl](https://www.veilig.cultureelerfgoed.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |||
 |[https://wikixl-saml.test.cultureelerfgoed.nl](https://wikixl-saml.test.cultureelerfgoed.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|Geregistreerd do...|

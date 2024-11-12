@@ -329,11 +329,6 @@ dvnl31.dans.knaw.nl
 taoracleapp22.knaw.nl
 ebs-a.knaw.nl
 ossooam-a.knaw.nl
-ebs-o.knaw.nl
-obi-o.knaw.nl
-osso-o.knaw.nl
-ossooam-o.knaw.nl
-taoracleapp23.knaw.nl
 ebs.knaw.nl
 oracleapp21.knaw.nl
 osso.knaw.nl
@@ -442,7 +437,6 @@ oat.acc.huc.knaw.nl
 kaartenbank.meertens.knaw.nl
 monitoring.huc.knaw.nl
 dummy-signposting.labs.dans.knaw.nl
-www.promise.nioo.knaw.nl
 backtoroots.nioo.knaw.nl
 digitallibrary.knaw.nl
 elaborate.knaw.nl
@@ -481,7 +475,6 @@ emailsanitizer.labs.dans.knaw.nl
 fairaware-api.labs.dans.knaw.nl
 galaxy.bioinf.nioo.knaw.nl
 metadata-enhancer.labs.dans.knaw.nl
-subsite.nioo-acc.knaw.nl
 flippinglakes.nioo.knaw.nl
 www.nioo.knaw.nl
 minioapi2.labs.dans.knaw.nl
@@ -495,3 +488,6 @@ fairevaapi.labs.dans.knaw.nl
 genomes.bioinf.nioo.knaw.nl
 repository-assistant.labs.dans.knaw.nl
 storage.labs.dans.knaw.nl
+climatepursuit.nioo.knaw.nl
+registrar.labs.dans.knaw.nl
+dataverse-fetcher.labs.dans.knaw.nl

@@ -1,4 +1,4 @@
-bct.tsp.minienw.nl
+acceptatie.bct.tsp.minienw.nl
 publicaties.minienw.nl
 www.minienw.nl
 minienw.nl

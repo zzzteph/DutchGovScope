@@ -52,3 +52,9 @@ gm.mev.logius.nl
 logius.nl
 gebruikersportaal.preproductie.digipoort.logius.nl
 lca.logius.nl
+intrekkingsportaal.digipoort.logius.nl
+aansluitsuite.digipoort.logius.nl
+beheerportaal.digipoort.logius.nl
+gebruikersportaal-duo.digipoort.logius.nl
+gebruikersportaal.digipoort.logius.nl
+gebruikersportaal-sbr.digipoort.logius.nl

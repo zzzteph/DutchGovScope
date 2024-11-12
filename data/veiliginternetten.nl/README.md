@@ -11,7 +11,7 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/veiliginternetten.nl/subdomains.txt)|9|Alive subdomains|
+|[subdomains.txt](/data/veiliginternetten.nl/subdomains.txt)|10|Alive subdomains|
 |[urls.txt](/data/veiliginternetten.nl/urls.txt)|9|Urls|
 
 

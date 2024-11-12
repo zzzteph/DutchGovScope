@@ -52,8 +52,6 @@ getij.rws.nl
 port-enc.rws.nl
 standaarden.rws.nl
 beterbediend.rws.nl
-bezoekerscentrum.rws.nl
-test.bezoekerscentrum.rws.nl
 centraaltoegangspuntdata.rws.nl
 nis.rws.nl
 cmgrws.rws.nl
@@ -159,3 +157,7 @@ matroos.rws.nl
 status.gridacc.rws.nl
 enterpriseenrollment.rws.nl
 iot.grid.rws.nl
+mars2.ptp.acc-inloggen.rws.nl
+schadeportaal.ptp.acc-inloggen.rws.nl
+digitaltwin-dev.rws.nl
+eventrecorder.ptp.acc-inloggen.rws.nl

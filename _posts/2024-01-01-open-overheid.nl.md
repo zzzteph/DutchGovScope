@@ -3,9 +3,9 @@ layout: default
 title: "open-overheid.nl"
 permalink: "/dutchgov/open-overheid.nl.html"
 subdomains_count: 9
-urls_count: 8
+urls_count: 9
 ssl_rank: 
-http_rank: B
+http_rank: C
 security_txt: 5
 url_link: /data/open-overheid.nl/urls.txt
 subdomains_link: /data/open-overheid.nl/subdomains.txt
@@ -19,14 +19,14 @@ tags: dutchgov
 
 
  - **SSL Grade**:
- - **HTTP Security Grade**:B
+ - **HTTP Security Grade**:C
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:5
 
 
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/DutchGovScope/data/open-overheid.nl/subdomains.txt)|9|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/open-overheid.nl/urls.txt)|8|Urls|
+|[urls.txt](/DutchGovScope/data/open-overheid.nl/urls.txt)|9|Urls|
 
 
 ## Statistics
@@ -42,5 +42,6 @@ tags: dutchgov
 |[https://wooincijfers.open-overheid.nl](https://wooincijfers.open-overheid.nl)| | **A**|| |:white_check_mark: | :warning:| | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Node.js Nuxt.js Vue.js|Woo in cijfers|
 |[https://pop.open-overheid.nl](https://pop.open-overheid.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|Domein niet gevo...|
 |[https://smtp.open-overheid.nl](https://smtp.open-overheid.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|Domein niet gevo...|
+|[https://ftp.open-overheid.nl](https://ftp.open-overheid.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|Domein niet gevo...|
 
 

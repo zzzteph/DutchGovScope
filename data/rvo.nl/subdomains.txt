@@ -57,7 +57,6 @@ confluenceimg.rvo.nl
 crowdtech.rvo.nl
 dcmp-upnl-idp.rvo.nl
 upnl-idp.rvo.nl
-e-learning.rvo.nl
 egeo.rvo.nl
 emobility.rvo.nl
 energieslag.rvo.nl
@@ -66,7 +65,6 @@ kennisdelen.rvo.nl
 networkabroad.rvo.nl
 offshorewind.rvo.nl
 sharingknowledge.rvo.nl
-epbdwebservices-preprod.rvo.nl
 epbdwebservices.rvo.nl
 gbatmv.rvo.nl
 gdi-a.rvo.nl
@@ -110,6 +108,7 @@ edicrop.rvo.nl
 gdi-b.rvo.nl
 ih-static.rvo.nl
 kostenkentallen.rvo.nl
+ojb.rvo.nl
 rhel-p-mijn.rvo.nl
 rhel-np-mijn.rvo.nl
 sandbox.rvo.nl

@@ -6,13 +6,13 @@
 
  - **SSL Grade**:
  - **HTTP Security Grade**:C
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:79
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:78
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/rivm.nl/subdomains.txt)|263|Alive subdomains|
-|[urls.txt](/data/rivm.nl/urls.txt)|263|Urls|
+|[subdomains.txt](/data/rivm.nl/subdomains.txt)|262|Alive subdomains|
+|[urls.txt](/data/rivm.nl/urls.txt)|262|Urls|
 
 
 ## Statistics
@@ -233,7 +233,6 @@
 |[https://sprproposal.rivm.nl](https://sprproposal.rivm.nl)| | **B**|Microsoft-IIS/10.0| |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | |HSTS IIS:10.0 Microsoft ASP.NET:4.0.30319 Windows Server|SOR proposal|
 |[https://sso-osiris.rivm.nl](https://sso-osiris.rivm.nl)| | **C**||:warning: |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | |F5 BigIP HSTS||
 |[http://sso.api.rivm.nl](http://sso.api.rivm.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
-|[https://statline.rivm.nl](https://statline.rivm.nl)| | **A**|Webserver| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |Bootstrap:3.0.0 D3 HSTS NVD3|CBS Statline|
 |[http://stikstofdepositiedata.rivm.nl](http://stikstofdepositiedata.rivm.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://support.rivm.nl](https://support.rivm.nl)| | **A**|Apache| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server Drupal HSTS PHP|Remote Support |...|
 |[https://swka.rivm.nl](https://swka.rivm.nl)| | **B**||:white_check_mark: |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | |Bootstrap:5.3.1 HSTS||

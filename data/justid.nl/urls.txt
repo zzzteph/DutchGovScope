@@ -21,7 +21,6 @@ https://validatie-acc.justid.nl
 https://validatie.justid.nl
 https://werkenbij.justid.nl
 https://werkplek.justid.nl
-https://dialin.justid.nl
 https://feeds.justid.nl
 https://intranet.justid.nl
 https://iob.justid.nl

@@ -1,6 +1,6 @@
 https://www.klimaatmonitor.databank.nl
 https://databank.nl
-https://benchmarkpovo.databank.nl
+https://beta-klimaatmonitor.databank.nl
 https://www.gemeente.databank.nl
 https://abc.databank.nl
 https://limburg.databank.nl
@@ -20,3 +20,4 @@ https://flevoland.databank.nl
 https://mre.databank.nl
 https://rabobank.databank.nl
 https://inspectie-oe.databank.nl
+https://www.nederlandschoon.databank.nl

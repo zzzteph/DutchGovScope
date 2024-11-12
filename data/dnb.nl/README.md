@@ -6,13 +6,13 @@
 
  - **SSL Grade**:
  - **HTTP Security Grade**:C
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:43
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:44
 
 
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/dnb.nl/subdomains.txt)|131|Alive subdomains|
-|[urls.txt](/data/dnb.nl/urls.txt)|128|Urls|
+|[urls.txt](/data/dnb.nl/urls.txt)|129|Urls|
 
 
 ## Statistics
@@ -85,6 +85,7 @@
 |[https://tzpubliekscontact-tst.dnb.nl](https://tzpubliekscontact-tst.dnb.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Azure Azure Front Door HSTS|Mijn DNB - Publi...|
 |[https://tz-aanvragen-tst.dnb.nl](https://tz-aanvragen-tst.dnb.nl)| | **A**|| |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | |Azure Azure Front Door HSTS|Supervision Appl...|
 |[https://tzkalender-dev.dnb.nl](https://tzkalender-dev.dnb.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Azure Azure Front Door HSTS|Supervision Cale...|
+|[https://tzpubliekscontact.dnb.nl](https://tzpubliekscontact.dnb.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Azure Azure Front Door HSTS|Mijn DNB - Publi...|
 |[https://svcalendar-acc.dnb.nl](https://svcalendar-acc.dnb.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Azure Azure Front Door HSTS|Supervision Cale...|
 |[https://tz-organisatiegegevens-tst.dnb.nl](https://tz-organisatiegegevens-tst.dnb.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Azure Azure Front Door HSTS|Organisation Det...|
 |[https://tzkalender-acc.dnb.nl](https://tzkalender-acc.dnb.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Azure Azure Front Door HSTS|Supervision Cale...|
@@ -111,7 +112,6 @@
 |[https://nnc.dnb.nl](https://nnc.dnb.nl)| | **A**||:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS|redirect|
 |[https://sharefile.dnb.nl](https://sharefile.dnb.nl)| | **A**||:o: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS||
 |[http://statistics.dnb.nl](http://statistics.dnb.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
-|[http://nieuwsapp.dnb.nl](http://nieuwsapp.dnb.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://pmhdsk-ci.dnb.nl](https://pmhdsk-ci.dnb.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Web App - Unavai...|
 |[https://rmdm-beheerapp-dev.azure.dnb.nl](https://rmdm-beheerapp-dev.azure.dnb.nl)| | **E**|| | | | | | | | :white_check_mark: | |Bootstrap:5.2.3|Azure Static Web...|
 |[https://tzorganisatiegegevens-dev.dnb.nl](https://tzorganisatiegegevens-dev.dnb.nl)| | **E**|| | | | | | | | :white_check_mark: | |Bootstrap:5.2.3|Azure Static Web...|
@@ -148,5 +148,6 @@
 |[https://stepui.azure.dnb.nl](https://stepui.azure.dnb.nl)| | **E**|| | | | | | | | :white_check_mark: | |Bootstrap:5.2.3|Azure Static Web...|
 |[https://muntvondsten.dnb.nl](https://muntvondsten.dnb.nl)| | **A**||:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS||
 |[https://mijn-dr.dnb.nl](https://mijn-dr.dnb.nl)| | **A**|| |:white_check_mark: | | |:warning: | | | :white_check_mark: | |Azure Azure Front Door|Page not found|
+|[https://sftp.dnb.nl](https://sftp.dnb.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0||
 
 

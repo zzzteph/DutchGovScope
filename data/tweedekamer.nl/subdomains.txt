@@ -65,6 +65,7 @@ houseofrepresentatives.acceptatie.tweedekamer.nl
 houseofrepresentatives.test.tweedekamer.nl
 lijstvangevallenen.acceptatie.tweedekamer.nl
 lijstvangevallenen.test.tweedekamer.nl
+opendata.acceptatie.tweedekamer.nl
 opendata.test.tweedekamer.nl
 werkenbij.acceptatie.tweedekamer.nl
 livestream-backup.tweedekamer.nl
@@ -135,3 +136,5 @@ enterpriseenrollment.tweedekamer.nl
 enterpriseregistration.tweedekamer.nl
 localhost.tweedekamer.nl
 msoid.tweedekamer.nl
+email.tweedekamer.nl
+b67.tweedekamer.nl

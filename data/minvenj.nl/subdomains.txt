@@ -7,6 +7,7 @@ dwr.gdi.minvenj.nl
 emrmdm.minvenj.nl
 enterpriseenrollment.minvenj.nl
 enterpriseenrollment.dtv.minvenj.nl
+hsm-frontend.minvenj.nl
 www.minvenj.nl
 minvenj.nl
 pdw.gdi.minvenj.nl

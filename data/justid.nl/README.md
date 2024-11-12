@@ -11,8 +11,8 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/justid.nl/subdomains.txt)|27|Alive subdomains|
-|[urls.txt](/data/justid.nl/urls.txt)|27|Urls|
+|[subdomains.txt](/data/justid.nl/subdomains.txt)|26|Alive subdomains|
+|[urls.txt](/data/justid.nl/urls.txt)|26|Urls|
 
 
 ## Statistics
@@ -43,7 +43,6 @@
 |[https://validatie.justid.nl](https://validatie.justid.nl)| | **C**|nginx|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Bootstrap:5.0.2 Django HSTS Nginx Python|Valideer uw docu...|
 |[https://werkenbij.justid.nl](https://werkenbij.justid.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS|Object moved|
 |[https://werkplek.justid.nl](https://werkplek.justid.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Microsoft ASP.NET||
-|[https://dialin.justid.nl](https://dialin.justid.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://feeds.justid.nl](https://feeds.justid.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://intranet.justid.nl](https://intranet.justid.nl)| | **A**|Apache| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Apache HTTP Server HSTS||
 |[https://iob.justid.nl](https://iob.justid.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Microsoft ASP.NET||

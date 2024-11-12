@@ -6,13 +6,13 @@
 
  - **SSL Grade**:
  - **HTTP Security Grade**:D
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:6
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:7
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/zwemwater.nl/subdomains.txt)|19|Alive subdomains|
-|[urls.txt](/data/zwemwater.nl/urls.txt)|17|Urls|
+|[subdomains.txt](/data/zwemwater.nl/subdomains.txt)|21|Alive subdomains|
+|[urls.txt](/data/zwemwater.nl/urls.txt)|18|Urls|
 
 
 ## Statistics
@@ -34,8 +34,9 @@
 |[https://pubgeo.zwemwater.nl](https://pubgeo.zwemwater.nl)| | **C**|Apache| |:white_check_mark: | :warning:| | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS||
 |[https://wwww.zwemwater.nl](https://wwww.zwemwater.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
 |[https://acpt.zwemwater.nl](https://acpt.zwemwater.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
-|[https://ftp.zwemwater.nl](https://ftp.zwemwater.nl)| | **B**|Apache/2.4.37 (Red Hat Enterprise Linux) OpenSSL/1.1.1k| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server:2.4.37 HSTS OpenSSL:1.1.1k Red Hat|301 Moved Perman...|
+|[https://ftp.zwemwater.nl](https://ftp.zwemwater.nl)| | **B**|Apache| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
 |[http://localhost.zwemwater.nl](http://localhost.zwemwater.nl)| | **F**|nginx|:o: | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Laravel Nginx PHP|Weakpass|
 |[https://webmail.zwemwater.nl](https://webmail.zwemwater.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx Plesk|Aralto ICT|
+|[https://inspiregeo.zwemwater.nl](https://inspiregeo.zwemwater.nl)| | **B**|Apache| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS||
 
 

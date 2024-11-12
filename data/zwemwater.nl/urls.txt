@@ -15,3 +15,4 @@ https://acpt.zwemwater.nl
 https://ftp.zwemwater.nl
 http://localhost.zwemwater.nl
 https://webmail.zwemwater.nl
+https://inspiregeo.zwemwater.nl

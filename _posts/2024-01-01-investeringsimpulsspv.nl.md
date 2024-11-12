@@ -3,9 +3,9 @@ layout: default
 title: "investeringsimpulsspv.nl"
 permalink: "/dutchgov/investeringsimpulsspv.nl.html"
 subdomains_count: 8
-urls_count: 4
+urls_count: 8
 ssl_rank: 
-http_rank: A
+http_rank: C
 security_txt: 4
 url_link: /data/investeringsimpulsspv.nl/urls.txt
 subdomains_link: /data/investeringsimpulsspv.nl/subdomains.txt
@@ -19,14 +19,14 @@ tags: dutchgov
 
 
  - **SSL Grade**:
- - **HTTP Security Grade**:A
+ - **HTTP Security Grade**:C
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:4
 
 
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/DutchGovScope/data/investeringsimpulsspv.nl/subdomains.txt)|8|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/investeringsimpulsspv.nl/urls.txt)|4|Urls|
+|[urls.txt](/DutchGovScope/data/investeringsimpulsspv.nl/urls.txt)|8|Urls|
 
 
 ## Statistics
@@ -38,5 +38,9 @@ tags: dutchgov
 |[https://opendata.investeringsimpulsspv.nl](https://opendata.investeringsimpulsspv.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://www.investeringsimpulsspv.nl](https://www.investeringsimpulsspv.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Home | Investeri...|
 |[https://investeringsimpulsspv.nl](https://investeringsimpulsspv.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
+|[https://ftp.investeringsimpulsspv.nl](https://ftp.investeringsimpulsspv.nl)| | **F**|Apache/2| | | | | | | | :white_check_mark: | |Apache HTTP Server:2||
+|[https://mail.investeringsimpulsspv.nl](https://mail.investeringsimpulsspv.nl)| | **F**|Apache/2| | | | | | | | :white_check_mark: | |Apache HTTP Server:2||
+|[https://pop.investeringsimpulsspv.nl](https://pop.investeringsimpulsspv.nl)| | **F**|Apache/2| | | | | | | | :white_check_mark: | |Apache HTTP Server:2||
+|[https://smtp.investeringsimpulsspv.nl](https://smtp.investeringsimpulsspv.nl)| | **F**|Apache/2| | | | | | | | :white_check_mark: | |Apache HTTP Server:2||
 
 

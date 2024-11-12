@@ -72,3 +72,4 @@ https://css.openstad.zuid-holland.nl
 https://auth.openstad.zuid-holland.nl
 https://admin.openstad.zuid-holland.nl
 https://www.openstad.zuid-holland.nl
+https://img.openstad.zuid-holland.nl

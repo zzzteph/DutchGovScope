@@ -1,6 +1,4 @@
 https://tools.digitaltrustcenter.nl
 https://basisscan.digitaltrustcenter.nl
-https://digitaltrustcenter.nl
-https://www.digitaltrustcenter.nl
 https://acc.digitaltrustcenter.nl
 https://test.digitaltrustcenter.nl

@@ -11,7 +11,7 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/odijmond.nl/subdomains.txt)|12|Alive subdomains|
+|[subdomains.txt](/data/odijmond.nl/subdomains.txt)|17|Alive subdomains|
 |[urls.txt](/data/odijmond.nl/urls.txt)|12|Urls|
 
 

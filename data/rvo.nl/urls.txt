@@ -57,7 +57,6 @@ https://confluenceimg.rvo.nl
 https://crowdtech.rvo.nl
 https://dcmp-upnl-idp.rvo.nl
 https://upnl-idp.rvo.nl
-http://e-learning.rvo.nl
 https://egeo.rvo.nl
 https://emobility.rvo.nl
 https://energieslag.rvo.nl
@@ -66,7 +65,6 @@ https://kennisdelen.rvo.nl
 https://networkabroad.rvo.nl
 https://offshorewind.rvo.nl
 https://sharingknowledge.rvo.nl
-http://epbdwebservices-preprod.rvo.nl
 https://epbdwebservices.rvo.nl
 http://gbatmv.rvo.nl
 https://gdi-a.rvo.nl

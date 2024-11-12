@@ -6,13 +6,13 @@
 
  - **SSL Grade**:
  - **HTTP Security Grade**:A
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:7
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:8
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/minjenv-events.nl/subdomains.txt)|9|Alive subdomains|
-|[urls.txt](/data/minjenv-events.nl/urls.txt)|7|Urls|
+|[subdomains.txt](/data/minjenv-events.nl/subdomains.txt)|10|Alive subdomains|
+|[urls.txt](/data/minjenv-events.nl/urls.txt)|8|Urls|
 
 
 ## Statistics
@@ -27,5 +27,6 @@
 |[https://congreskoersenkansen2020.minjenv-events.nl](https://congreskoersenkansen2020.minjenv-events.nl)| | **A**|nginx| |:white_check_mark: | :warning:| |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx Plesk||
 |[https://scheidenzonderschade.minjenv-events.nl](https://scheidenzonderschade.minjenv-events.nl)| | **A**|nginx| |:white_check_mark: | :warning:| |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx Plesk||
 |[https://svsdigitaalplein.minjenv-events.nl](https://svsdigitaalplein.minjenv-events.nl)| | **A**|nginx| |:white_check_mark: | :warning:| |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx Plesk||
+|[https://state-of-the-art-conferentie2019.minjenv-events.nl](https://state-of-the-art-conferentie2019.minjenv-events.nl)| | **A**|nginx| |:white_check_mark: | :warning:| |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx Plesk||
 
 

@@ -1,5 +1,4 @@
 http://acceptatie.ssc-campus.nl
-https://b30-micol-a01p.int.ssc-campus.nl
 https://connect-mp.ssc-campus.nl
 https://esp.ssc-campus.nl
 https://fs.ssc-campus.nl
@@ -7,7 +6,6 @@ https://login.ssc-campus.nl
 https://mededeling.ssc-campus.nl
 https://ssc-campus.nl
 https://www.ssc-campus.nl
-https://modellenplatform-rekenen.ssc-campus.nl
 https://modellenplatform.ssc-campus.nl
 https://mp.ssc-campus.nl
 https://nwm-zw-input.ssc-campus.nl

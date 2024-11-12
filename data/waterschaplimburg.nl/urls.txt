@@ -10,7 +10,6 @@ https://open.waterschaplimburg.nl
 https://spapps-t.waterschaplimburg.nl
 https://spapps.waterschaplimburg.nl
 https://subsidie.waterschaplimburg.nl
-https://test-cms-eef.waterschaplimburg.nl
 https://transfer.waterschaplimburg.nl
 https://wikixl-saml.acceptatie.waterschaplimburg.nl
 https://www.waterschaplimburg.nl
@@ -19,7 +18,6 @@ https://kennis.waterschaplimburg.nl
 https://inloggen.waterschaplimburg.nl
 https://mail.waterschaplimburg.nl
 https://maps.waterschaplimburg.nl
-http://winssen.waterschaplimburg.nl
 https://autodiscover.waterschaplimburg.nl
 https://kennisbank.waterschaplimburg.nl
 https://wikixl-saml.waterschaplimburg.nl

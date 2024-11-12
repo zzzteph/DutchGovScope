@@ -7,7 +7,6 @@ http://www.odmh.nl
 https://formulieren.odmh.nl
 https://preprodformulieren.odmh.nl
 https://media.odmh.nl
-https://odin.odmh.nl
 https://onderzoek.odmh.nl
 https://vacatures.odmh.nl
 https://zaaksysteem.odmh.nl
@@ -25,7 +24,7 @@ https://documenten.odmh.nl
 https://geoportaal.odmh.nl
 http://autodiscover.odmh.nl
 https://mobielwerken.odmh.nl
-https://rdsgateway.odmh.nl
+https://rdweb.odmh.nl
 https://smtp.odmh.nl
 https://pow.odmh.nl
 https://publicaties.odmh.nl

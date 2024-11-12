@@ -11,8 +11,8 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/tweedekamer.nl/subdomains.txt)|137|Alive subdomains|
-|[urls.txt](/data/tweedekamer.nl/urls.txt)|137|Urls|
+|[subdomains.txt](/data/tweedekamer.nl/subdomains.txt)|140|Alive subdomains|
+|[urls.txt](/data/tweedekamer.nl/urls.txt)|138|Urls|
 
 
 ## Statistics
@@ -87,6 +87,7 @@
 |[https://houseofrepresentatives.test.tweedekamer.nl](https://houseofrepresentatives.test.tweedekamer.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |Basic HSTS|401 Authorizatio...|
 |[https://lijstvangevallenen.acceptatie.tweedekamer.nl](https://lijstvangevallenen.acceptatie.tweedekamer.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|503 Service Temp...|
 |[https://lijstvangevallenen.test.tweedekamer.nl](https://lijstvangevallenen.test.tweedekamer.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|503 Service Temp...|
+|[https://opendata.acceptatie.tweedekamer.nl](https://opendata.acceptatie.tweedekamer.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|403 Forbidden|
 |[https://opendata.test.tweedekamer.nl](https://opendata.test.tweedekamer.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|403 Forbidden|
 |[https://werkenbij.acceptatie.tweedekamer.nl](https://werkenbij.acceptatie.tweedekamer.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|403 Forbidden|
 |[https://livestream-backup.tweedekamer.nl](https://livestream-backup.tweedekamer.nl)| | **F**|ECAcc (ska/F775)| | | | | | | | :white_check_mark: | |Azure Azure CDN|Your Azure Funct...|

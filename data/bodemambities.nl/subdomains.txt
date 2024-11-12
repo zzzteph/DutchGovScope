@@ -1,4 +1,3 @@
 acceptatie.zoek.bodemambities.nl
 bodemambities.nl
-www.bodemambities.nl
 localhost.bodemambities.nl

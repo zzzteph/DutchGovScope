@@ -6,6 +6,7 @@ dialin.aaenmaas.nl
 lync.aaenmaas.nl
 lyncdiscover.aaenmaas.nl
 maps.aaenmaas.nl
+meet.aaenmaas.nl
 helloid.aaenmaas.nl
 login.aaenmaas.nl
 vpn2.aaenmaas.nl

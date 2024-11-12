@@ -10,3 +10,8 @@ join.odijmond.nl
 rd.odijmond.nl
 rdgw.odijmond.nl
 vpn.odijmond.nl
+localhost.odijmond.nl
+dusk-open-wave.odijmond.nl
+dusk-acc-open-wave.odijmond.nl
+db.open-wave.odijmond.nl
+jointest.odijmond.nl

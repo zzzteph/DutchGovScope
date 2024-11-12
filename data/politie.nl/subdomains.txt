@@ -14,7 +14,6 @@ rss.politie.nl
 accsso.politie.nl
 bu.politie.nl
 carriere.politie.nl
-data.politie.nl
 evenementen.politie.nl
 kombijde.acceptatie.politie.nl
 www.acceptatie.politie.nl
@@ -25,6 +24,7 @@ transferium-db.politie.nl
 transferium-oh.politie.nl
 transferium.gslb-trf.politie.nl
 transferium.politie.nl
+dav.enlets.politie.nl
 chat.enlets.politie.nl
 push.enlets.politie.nl
 api.enlets.politie.nl
