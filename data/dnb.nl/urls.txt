@@ -90,6 +90,7 @@ https://nieuws.dnb.nl
 https://nnc.dnb.nl
 https://sharefile.dnb.nl
 http://statistics.dnb.nl
+http://nieuwsapp.dnb.nl
 https://pmhdsk-ci.dnb.nl
 https://rmdm-beheerapp-dev.azure.dnb.nl
 https://tzorganisatiegegevens-dev.dnb.nl
@@ -127,3 +128,5 @@ https://stepui.azure.dnb.nl
 https://muntvondsten.dnb.nl
 https://mijn-dr.dnb.nl
 https://sftp.dnb.nl
+https://tz-aanvragen.dnb.nl
+https://tz-aanvragen-acc.dnb.nl

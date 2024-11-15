@@ -329,6 +329,11 @@ https://dvnl31.dans.knaw.nl
 https://taoracleapp22.knaw.nl
 https://ebs-a.knaw.nl
 https://ossooam-a.knaw.nl
+https://ebs-o.knaw.nl
+https://obi-o.knaw.nl
+https://osso-o.knaw.nl
+https://ossooam-o.knaw.nl
+https://taoracleapp23.knaw.nl
 https://ebs.knaw.nl
 https://oracleapp21.knaw.nl
 https://osso.knaw.nl
@@ -420,7 +425,6 @@ http://autodiscover.spinozacentre.knaw.nl
 https://tjalie-robinson.huygens.knaw.nl
 https://pages.bioinf.nioo.knaw.nl
 http://gitlab.huc.knaw.nl
-https://osso-a.knaw.nl
 https://ebs-t.knaw.nl
 https://knaw.nl
 https://nias.knaw.nl
@@ -429,7 +433,7 @@ https://web.knaw.nl
 https://www.herseninstituut.knaw.nl
 https://maritimecareers.huygens.knaw.nl
 https://sd-yugoslavia.dev.huc.knaw.nl
-https://occassio.dev.huc.knaw.nl
+http://occassio.dev.huc.knaw.nl
 https://workforce.nioo.knaw.nl
 https://ecartico.dev.huc.knaw.nl
 https://service-index.labs.dans.knaw.nl
@@ -437,7 +441,6 @@ https://oat.acc.huc.knaw.nl
 http://kaartenbank.meertens.knaw.nl
 http://monitoring.huc.knaw.nl
 https://dummy-signposting.labs.dans.knaw.nl
-https://backtoroots.nioo.knaw.nl
 https://digitallibrary.knaw.nl
 https://elaborate.knaw.nl
 https://enterpriseenrollment.knaw.nl
@@ -486,3 +489,5 @@ https://chat.bioinf.nioo.knaw.nl
 https://vangogh-api.dev.huc.knaw.nl
 https://fairevaapi.labs.dans.knaw.nl
 https://genomes.bioinf.nioo.knaw.nl
+https://repository-assistant.labs.dans.knaw.nl
+https://storage.labs.dans.knaw.nl

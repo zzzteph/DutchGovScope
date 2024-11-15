@@ -12,7 +12,7 @@
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/minvenj.nl/subdomains.txt)|16|Alive subdomains|
-|[urls.txt](/data/minvenj.nl/urls.txt)|15|Urls|
+|[urls.txt](/data/minvenj.nl/urls.txt)|16|Urls|
 
 
 ## Statistics
@@ -29,6 +29,7 @@
 |[https://emrmdm.minvenj.nl](https://emrmdm.minvenj.nl)| | **F**|server| | | | | | | | :white_check_mark: | ||302 Found|
 |[https://enterpriseenrollment.minvenj.nl](https://enterpriseenrollment.minvenj.nl)| | **C**|server| | | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | ||302 Found|
 |[https://enterpriseenrollment.dtv.minvenj.nl](https://enterpriseenrollment.dtv.minvenj.nl)| | **C**|server| | | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | ||302 Found|
+|[http://hsm-frontend.minvenj.nl](http://hsm-frontend.minvenj.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://www.minvenj.nl](https://www.minvenj.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://minvenj.nl](https://minvenj.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[http://pdw.gdi.minvenj.nl](http://pdw.gdi.minvenj.nl)| | **F**|nginx|:o: | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Laravel Nginx PHP|Weakpass|

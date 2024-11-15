@@ -12,7 +12,7 @@
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/logius.nl/subdomains.txt)|60|Alive subdomains|
-|[urls.txt](/data/logius.nl/urls.txt)|54|Urls|
+|[urls.txt](/data/logius.nl/urls.txt)|59|Urls|
 
 
 ## Statistics
@@ -74,5 +74,10 @@
 |[https://logius.nl](https://logius.nl)| | **A**|nginx| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
 |[https://gebruikersportaal.preproductie.digipoort.logius.nl](https://gebruikersportaal.preproductie.digipoort.logius.nl)| | **C**||:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|503 Service Temp...|
 |[http://lca.logius.nl](http://lca.logius.nl)| | **F**|BigIP| | | | | | | | :white_check_mark: | |F5 BigIP||
+|[https://intrekkingsportaal.digipoort.logius.nl](https://intrekkingsportaal.digipoort.logius.nl)| | **C**||:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|503 Service Temp...|
+|[https://aansluitsuite.digipoort.logius.nl](https://aansluitsuite.digipoort.logius.nl)| | **C**||:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|503 Service Temp...|
+|[https://beheerportaal.digipoort.logius.nl](https://beheerportaal.digipoort.logius.nl)| | **C**||:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|503 Service Temp...|
+|[https://gebruikersportaal-duo.digipoort.logius.nl](https://gebruikersportaal-duo.digipoort.logius.nl)| | **C**||:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|503 Service Temp...|
+|[https://gebruikersportaal.digipoort.logius.nl](https://gebruikersportaal.digipoort.logius.nl)| | **C**||:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|503 Service Temp...|
 
 

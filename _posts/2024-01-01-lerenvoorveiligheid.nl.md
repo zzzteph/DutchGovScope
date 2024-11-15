@@ -2,11 +2,11 @@
 layout: default
 title: "lerenvoorveiligheid.nl"
 permalink: "/dutchgov/lerenvoorveiligheid.nl.html"
-subdomains_count: 3
-urls_count: 3
+subdomains_count: 1
+urls_count: 1
 ssl_rank: 
-http_rank: B
-security_txt: 2
+http_rank: F
+security_txt: 0
 url_link: /data/lerenvoorveiligheid.nl/urls.txt
 subdomains_link: /data/lerenvoorveiligheid.nl/subdomains.txt
 categories: dutchgov
@@ -19,14 +19,14 @@ tags: dutchgov
 
 
  - **SSL Grade**:
- - **HTTP Security Grade**:B
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:2
+ - **HTTP Security Grade**:F
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:0
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/lerenvoorveiligheid.nl/subdomains.txt)|3|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/lerenvoorveiligheid.nl/urls.txt)|3|Urls|
+|[subdomains.txt](/DutchGovScope/data/lerenvoorveiligheid.nl/subdomains.txt)|1|Alive subdomains|
+|[urls.txt](/DutchGovScope/data/lerenvoorveiligheid.nl/urls.txt)|1|Urls|
 
 
 ## Statistics
@@ -34,8 +34,6 @@ tags: dutchgov
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[http://www.lerenvoorveiligheid.nl](http://www.lerenvoorveiligheid.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server Drupal HSTS PHP||
-|[http://lerenvoorveiligheid.nl](http://lerenvoorveiligheid.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS||
 |[http://localhost.lerenvoorveiligheid.nl](http://localhost.lerenvoorveiligheid.nl)| | **F**|nginx|:o: | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Laravel Nginx PHP|Weakpass|
 
 

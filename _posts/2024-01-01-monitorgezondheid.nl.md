@@ -5,7 +5,7 @@ permalink: "/dutchgov/monitorgezondheid.nl.html"
 subdomains_count: 3
 urls_count: 3
 ssl_rank: 
-http_rank: B
+http_rank: C
 security_txt: 2
 url_link: /data/monitorgezondheid.nl/urls.txt
 subdomains_link: /data/monitorgezondheid.nl/subdomains.txt
@@ -19,7 +19,7 @@ tags: dutchgov
 
 
  - **SSL Grade**:
- - **HTTP Security Grade**:B
+ - **HTTP Security Grade**:C
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:2
 
 
@@ -34,8 +34,8 @@ tags: dutchgov
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[http://monitorgezondheid.nl](http://monitorgezondheid.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS||
-|[http://www.monitorgezondheid.nl](http://www.monitorgezondheid.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server Drupal HSTS PHP||
+|[https://monitorgezondheid.nl](https://monitorgezondheid.nl)| | **A**|Apache| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS|301 Moved Perman...|
+|[https://www.monitorgezondheid.nl](https://www.monitorgezondheid.nl)| | **A**|Apache| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server Drupal HSTS PHP|De Gezondheidsmo...|
 |[http://localhost.monitorgezondheid.nl](http://localhost.monitorgezondheid.nl)| | **F**|nginx|:o: | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Laravel Nginx PHP|Weakpass|
 
 

@@ -1,6 +1,5 @@
 advies.rijksacademie.nl
 helpdesk.rijksacademie.nl
-infoscherm.rijksacademie.nl
 nieuwsbrief.rijksacademie.nl
 rijksacademie.nl
 www.rijksacademie.nl

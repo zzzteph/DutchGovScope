@@ -1,9 +1,9 @@
-http://agendavoorhetwaddengebied2050.waddenzee.nl
-http://basismonitoringwadden.waddenzee.nl
-http://plasticvrijewadden.waddenzee.nl
-http://waddenzee.nl
-http://www.waddenzee.nl
-http://datahuiswadden.waddenzee.nl
+https://agendavoorhetwaddengebied2050.waddenzee.nl
+https://basismonitoringwadden.waddenzee.nl
+https://plasticvrijewadden.waddenzee.nl
+https://waddenzee.nl
+https://www.waddenzee.nl
+https://datahuiswadden.waddenzee.nl
 http://wadzee9520.waddenzee.nl
 http://bmw9520.waddenzee.nl
 http://gebiedagen2.waddenzee.nl

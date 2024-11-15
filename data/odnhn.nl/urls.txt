@@ -1,5 +1,4 @@
 https://bestandverzenden.odnhn.nl
-https://cmsintranet.odnhn.nl
 https://intranet.odnhn.nl
 https://enterpriseenrollment.odnhn.nl
 https://ktaprod.odnhn.nl

@@ -1,2 +1,2 @@
-https://basisregistratieondergrond.nl
-https://www.basisregistratieondergrond.nl
+http://basisregistratieondergrond.nl
+http://www.basisregistratieondergrond.nl

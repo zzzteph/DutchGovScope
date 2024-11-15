@@ -5,14 +5,14 @@
 
 
  - **SSL Grade**:
- - **HTTP Security Grade**:B
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:61
+ - **HTTP Security Grade**:C
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:55
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/belastingdienst.nl/subdomains.txt)|124|Alive subdomains|
-|[urls.txt](/data/belastingdienst.nl/urls.txt)|124|Urls|
+|[subdomains.txt](/data/belastingdienst.nl/subdomains.txt)|116|Alive subdomains|
+|[urls.txt](/data/belastingdienst.nl/urls.txt)|116|Urls|
 
 
 ## Statistics
@@ -56,20 +56,12 @@
 |[https://fibi1.belastingdienst.nl](https://fibi1.belastingdienst.nl)| | **C**|| | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | ||Request Rejected|
 |[https://fibz1.belastingdienst.nl](https://fibz1.belastingdienst.nl)| | **C**|| | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | ||Request Rejected|
 |[https://filetransfer.belastingdienst.nl](https://filetransfer.belastingdienst.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|302 Found|
-|[https://filetransfer.ont.belastingdienst.nl](https://filetransfer.ont.belastingdienst.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|302 Found|
+|[https://filetransfer.ont.belastingdienst.nl](https://filetransfer.ont.belastingdienst.nl)| | **B**|nginx| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS Nginx|502 Bad Gateway|
 |[https://fmis.acc.belastingdienst.nl](https://fmis.acc.belastingdienst.nl)| | **C**|| | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | ||Toegang geblokke...|
 |[https://fmis.belastingdienst.nl](https://fmis.belastingdienst.nl)| | **C**|| | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | ||Toegang geblokke...|
 |[https://fsvportaal.belastingdienst.nl](https://fsvportaal.belastingdienst.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Home - FSV|
-|[https://wagenparkgegevens.acc.belastingdienst.nl](https://wagenparkgegevens.acc.belastingdienst.nl)| | **A**|istio-envoy| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Envoy HSTS|BDP|
-|[https://gdlo.acc.belastingdienst.nl](https://gdlo.acc.belastingdienst.nl)| | **A**|istio-envoy| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Envoy HSTS|BDP|
-|[https://gegevensuitwisseling.acc.belastingdienst.nl](https://gegevensuitwisseling.acc.belastingdienst.nl)| | **A**|istio-envoy| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Envoy HSTS|BDP|
-|[https://gpi.acc.belastingdienst.nl](https://gpi.acc.belastingdienst.nl)| | **A**|istio-envoy|:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Envoy HSTS|BDP|
-|[https://iah.acc.belastingdienst.nl](https://iah.acc.belastingdienst.nl)| | **A**|istio-envoy|:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
-|[https://ovverklaringen.acc.belastingdienst.nl](https://ovverklaringen.acc.belastingdienst.nl)| | **A**|istio-envoy|:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Envoy HSTS|BDP|
-|[https://verleendekinderopvang.acc.belastingdienst.nl](https://verleendekinderopvang.acc.belastingdienst.nl)| | **A**|istio-envoy|:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Envoy HSTS|BDP|
-|[https://verzekeringsproducten.acc.belastingdienst.nl](https://verzekeringsproducten.acc.belastingdienst.nl)| | **A**|istio-envoy|:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Envoy HSTS|BDP|
 |[https://gpi.belastingdienst.nl](https://gpi.belastingdienst.nl)| | **C**|istio-envoy| |:white_check_mark: | | | | | | :white_check_mark: | |Envoy HSTS|BDP|
-|[https://ovverklaringen.belastingdienst.nl](https://ovverklaringen.belastingdienst.nl)| | **A**|istio-envoy|:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Envoy HSTS|BDP|
+|[https://ovverklaringen.belastingdienst.nl](https://ovverklaringen.belastingdienst.nl)| | **C**|istio-envoy| |:white_check_mark: | | | | | | :white_check_mark: | |Envoy HSTS|BDP|
 |[https://verleendekinderopvang.belastingdienst.nl](https://verleendekinderopvang.belastingdienst.nl)| | **C**|istio-envoy| |:white_check_mark: | | | | | | :white_check_mark: | |Envoy HSTS|BDP|
 |[https://verzekeringsproducten.belastingdienst.nl](https://verzekeringsproducten.belastingdienst.nl)| | **A**|istio-envoy|:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Envoy HSTS|BDP|
 |[https://wagenparkgegevens.belastingdienst.nl](https://wagenparkgegevens.belastingdienst.nl)| | **A**|istio-envoy|:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Envoy HSTS|BDP|
@@ -100,8 +92,8 @@
 |[https://mul-mkt.belastingdienst.nl](https://mul-mkt.belastingdienst.nl)| | **F**||:warning: | | | | | | | :white_check_mark: | |||
 |[https://mul-redirect.belastingdienst.nl](https://mul-redirect.belastingdienst.nl)| | **F**||:warning: | | | | | | | :white_check_mark: | ||Foutmelding|
 |[https://mul.belastingdienst.nl](https://mul.belastingdienst.nl)| | **F**||:warning: | | | | | | | :white_check_mark: | |Microsoft ASP.NET|Aangifte Inkomst...|
-|[https://mwr-app-api-ota.belastingdienst.nl](https://mwr-app-api-ota.belastingdienst.nl)| | **E**|| | | | | | | | :white_check_mark: | |Azure Azure Front Door||
-|[https://mwr-app-api.belastingdienst.nl](https://mwr-app-api.belastingdienst.nl)| | **E**|| | | | | | | | :white_check_mark: | |Azure Azure Front Door||
+|[https://mwr-app-api-ota.belastingdienst.nl](https://mwr-app-api-ota.belastingdienst.nl)| | **E**|| | | | | | | | :white_check_mark: | |Azure Azure Front Door|Service unavaila...|
+|[https://mwr-app-api.belastingdienst.nl](https://mwr-app-api.belastingdienst.nl)| | **E**|| | | | | | | | :white_check_mark: | |Azure Azure Front Door|Service unavaila...|
 |[https://mwr-app-cdn-ota.belastingdienst.nl](https://mwr-app-cdn-ota.belastingdienst.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| | | :white_check_mark: | |Azure Azure Front Door HSTS||
 |[https://mwr-app-cdn.belastingdienst.nl](https://mwr-app-cdn.belastingdienst.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| | | :white_check_mark: | |Azure Azure Front Door HSTS||
 |[https://odb.belastingdienst.nl](https://odb.belastingdienst.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS MySQL PHP WordPress Yoast SEO:23.7|Home | Ondersteu...|

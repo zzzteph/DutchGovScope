@@ -2,8 +2,8 @@
 layout: default
 title: "raadvanstate.nl"
 permalink: "/dutchgov/raadvanstate.nl.html"
-subdomains_count: 31
-urls_count: 31
+subdomains_count: 30
+urls_count: 30
 ssl_rank: 
 http_rank: C
 security_txt: 9
@@ -25,8 +25,8 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/raadvanstate.nl/subdomains.txt)|31|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/raadvanstate.nl/urls.txt)|31|Urls|
+|[subdomains.txt](/DutchGovScope/data/raadvanstate.nl/subdomains.txt)|30|Alive subdomains|
+|[urls.txt](/DutchGovScope/data/raadvanstate.nl/urls.txt)|30|Urls|
 
 
 ## Statistics
@@ -44,7 +44,7 @@ tags: dutchgov
 |[https://app.raadvanstate.nl](https://app.raadvanstate.nl)| | **A**|-| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Microsoft ASP.NET:-|Raad van State|
 |[https://pwa-api.raadvanstate.nl](https://pwa-api.raadvanstate.nl)| | **A**|-| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Microsoft ASP.NET:-||
 |[http://autodiscover.raadvanstate.nl](http://autodiscover.raadvanstate.nl)| | **C**|Microsoft-IIS/10.0| |:white_check_mark: | | | | | | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server||
-|[https://extranet-a.raadvanstate.nl](https://extranet-a.raadvanstate.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server Microsoft ASP.NET|Object moved|
+|[https://extranet-a.raadvanstate.nl](https://extranet-a.raadvanstate.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server Microsoft ASP.NET:4.0.30319|Object moved|
 |[https://extranet.raadvanstate.nl](https://extranet.raadvanstate.nl)| | **E**|Microsoft-IIS/10.0| | | | | | :white_check_mark: | | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET:4.0.30319 Windows Server|Object moved|
 |[https://jaarverslag.raadvanstate.nl](https://jaarverslag.raadvanstate.nl)| | **B**|-| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS Microsoft ASP.NET:-|Object moved|
 |[https://raadvanstate.nl](https://raadvanstate.nl)| | **B**|-| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS Microsoft ASP.NET:-|Document Moved|
@@ -57,7 +57,6 @@ tags: dutchgov
 |[https://siam-acp.raadvanstate.nl](https://siam-acp.raadvanstate.nl)| | **A**|N.A.| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bootstrap HSTS|Mijn Zaak - Aanm...|
 |[https://siam.raadvanstate.nl](https://siam.raadvanstate.nl)| | **A**|N.A.| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bootstrap HSTS|Mijn Zaak - Inlo...|
 |[https://sts-acp.raadvanstate.nl](https://sts-acp.raadvanstate.nl)| | **E**|| | | | | | | | :white_check_mark: | |PHP||
-|[https://tdportal.raadvanstate.nl](https://tdportal.raadvanstate.nl)| | **B**|xxxx| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS|VPN Portal|
 |[https://www.raadvanstate.nl](https://www.raadvanstate.nl)| | **B**|cloudflare| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Cloudflare HSTS|Just a moment...|
 |[https://zittingsagenda.raadvanstate.nl](https://zittingsagenda.raadvanstate.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server||
 |[http://kennisbank.raadvanstate.nl](http://kennisbank.raadvanstate.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Not Found|

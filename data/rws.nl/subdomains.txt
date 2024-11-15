@@ -52,6 +52,8 @@ getij.rws.nl
 port-enc.rws.nl
 standaarden.rws.nl
 beterbediend.rws.nl
+bezoekerscentrum.rws.nl
+test.bezoekerscentrum.rws.nl
 centraaltoegangspuntdata.rws.nl
 nis.rws.nl
 cmgrws.rws.nl
@@ -90,7 +92,6 @@ protide.rws.nl
 prs.rws.nl
 ptp.acc-inloggen.rws.nl
 ptp.inloggen.rws.nl
-rastoken.rws.nl
 rhel8.wabinfo.rws.nl
 wabinfo.rws.nl
 rws.nl
@@ -161,3 +162,6 @@ mars2.ptp.acc-inloggen.rws.nl
 schadeportaal.ptp.acc-inloggen.rws.nl
 digitaltwin-dev.rws.nl
 eventrecorder.ptp.acc-inloggen.rws.nl
+acc-wvp.rws.nl
+aquo-kit.rws.nl
+mip-proxy-acc.rws.nl

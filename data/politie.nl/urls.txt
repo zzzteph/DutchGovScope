@@ -14,6 +14,7 @@ https://rss.politie.nl
 https://accsso.politie.nl
 https://bu.politie.nl
 https://carriere.politie.nl
+https://data.politie.nl
 https://evenementen.politie.nl
 https://kombijde.acceptatie.politie.nl
 https://www.acceptatie.politie.nl
@@ -27,6 +28,5 @@ https://transferium.politie.nl
 https://dav.enlets.politie.nl
 https://chat.enlets.politie.nl
 https://push.enlets.politie.nl
-http://api.enlets.politie.nl
+https://api.enlets.politie.nl
 https://mdc-ras-01.politie.nl
-https://enlets.politie.nl

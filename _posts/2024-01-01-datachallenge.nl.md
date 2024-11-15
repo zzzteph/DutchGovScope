@@ -2,10 +2,10 @@
 layout: default
 title: "datachallenge.nl"
 permalink: "/dutchgov/datachallenge.nl.html"
-subdomains_count: 7
-urls_count: 7
+subdomains_count: 2
+urls_count: 2
 ssl_rank: 
-http_rank: E
+http_rank: C
 security_txt: 0
 url_link: /data/datachallenge.nl/urls.txt
 subdomains_link: /data/datachallenge.nl/subdomains.txt
@@ -19,14 +19,14 @@ tags: dutchgov
 
 
  - **SSL Grade**:
- - **HTTP Security Grade**:E
+ - **HTTP Security Grade**:C
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:0
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/datachallenge.nl/subdomains.txt)|7|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/datachallenge.nl/urls.txt)|7|Urls|
+|[subdomains.txt](/DutchGovScope/data/datachallenge.nl/subdomains.txt)|2|Alive subdomains|
+|[urls.txt](/DutchGovScope/data/datachallenge.nl/urls.txt)|2|Urls|
 
 
 ## Statistics
@@ -35,11 +35,6 @@ tags: dutchgov
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[http://datachallenge.nl](http://datachallenge.nl)| | **A**|Apache/2.4.37 (AlmaLinux)| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |AlmaLinux Apache HTTP Server:2.4.37 PHP:7.2.24||
-|[https://mail.datachallenge.nl](https://mail.datachallenge.nl)| | **F**|Apache/2| | | | | | | | :white_check_mark: | |Apache HTTP Server:2 MySQL PHP WordPress||
-|[https://www.datachallenge.nl](https://www.datachallenge.nl)| | **F**|Apache/2| | | | | | | | :white_check_mark: | |Apache HTTP Server:2|Data Challenge S...|
-|[https://ftp.datachallenge.nl](https://ftp.datachallenge.nl)| | **F**|Apache/2| | | | | | | | :white_check_mark: | |Apache HTTP Server:2 MySQL PHP WordPress||
-|[https://pop.datachallenge.nl](https://pop.datachallenge.nl)| | **F**|Apache/2| | | | | | | | :white_check_mark: | |Apache HTTP Server:2 MySQL PHP WordPress||
-|[https://smtp.datachallenge.nl](https://smtp.datachallenge.nl)| | **F**|Apache/2| | | | | | | | :white_check_mark: | |Apache HTTP Server:2 MySQL PHP WordPress||
 |[http://localhost.datachallenge.nl](http://localhost.datachallenge.nl)| | **F**|nginx|:o: | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Laravel Nginx PHP|Weakpass|
 
 

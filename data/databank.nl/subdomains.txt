@@ -43,7 +43,6 @@ ftgelderland.databank.nl
 beta-adc.databank.nl
 beta-klimaatbeleid.databank.nl
 beta-vivet.databank.nl
-beta-datawonen.databank.nl
 beta-klimaatmonitor.databank.nl
 beta-gdi.databank.nl
 beta-wsjg.databank.nl

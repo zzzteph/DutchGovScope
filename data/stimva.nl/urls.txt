@@ -1,2 +1,2 @@
-http://stimva.nl
-http://www.stimva.nl
+https://stimva.nl
+https://www.stimva.nl

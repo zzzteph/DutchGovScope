@@ -21,11 +21,8 @@ https://magazines.ncsc.nl
 https://ncsc.nl
 https://opendata.english.ncsc.nl
 https://opendata.ncsc.nl
-https://securened-dev.ncsc.nl
 https://test.ncsc.nl
 https://gitnmp.arp.ncsc.nl
-https://securened-acc.ncsc.nl
-https://securened-tst.ncsc.nl
 https://csaf.data.security.ncsc.nl
 https://vulnerabilities.ncsc.nl
 https://melden.ncsc.nl

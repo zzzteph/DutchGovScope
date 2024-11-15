@@ -12,6 +12,7 @@ https://nvwa.nl
 https://opendata.english.nvwa.nl
 https://opendata.nvwa.nl
 https://forms-acc.nvwa.nl
+https://formulieren-acc.nvwa.nl
 https://formulieren.nvwa.nl
 https://inspectieresultaten.nvwa.nl
 https://openbare-inspectieresultaten.nvwa.nl
@@ -32,5 +33,4 @@ https://videoleren.nvwa.nl
 https://e-certnl.nvwa.nl
 https://forms.nvwa.nl
 https://www.inspectieresultaten.nvwa.nl
-https://i-certnl.nvwa.nl
 https://soap.openbare-inspectieresultaten.nvwa.nl

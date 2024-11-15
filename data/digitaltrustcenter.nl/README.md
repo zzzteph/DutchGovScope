@@ -5,14 +5,14 @@
 
 
  - **SSL Grade**:
- - **HTTP Security Grade**:C
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:2
+ - **HTTP Security Grade**:B
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:4
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/digitaltrustcenter.nl/subdomains.txt)|4|Alive subdomains|
-|[urls.txt](/data/digitaltrustcenter.nl/urls.txt)|4|Urls|
+|[subdomains.txt](/data/digitaltrustcenter.nl/subdomains.txt)|6|Alive subdomains|
+|[urls.txt](/data/digitaltrustcenter.nl/urls.txt)|6|Urls|
 
 
 ## Statistics
@@ -22,6 +22,8 @@
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[https://tools.digitaltrustcenter.nl](https://tools.digitaltrustcenter.nl)| | **A**|Apache| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS||
 |[https://basisscan.digitaltrustcenter.nl](https://basisscan.digitaltrustcenter.nl)| | **A**|nginx| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Amazon S3 Amazon Web Services HSTS Nginx|Basisscan Cyberw...|
+|[https://digitaltrustcenter.nl](https://digitaltrustcenter.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
+|[https://www.digitaltrustcenter.nl](https://www.digitaltrustcenter.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Drupal HSTS Nginx PHP|Home | Digital T...|
 |[https://acc.digitaltrustcenter.nl](https://acc.digitaltrustcenter.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|403 Forbidden|
 |[https://test.digitaltrustcenter.nl](https://test.digitaltrustcenter.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|403 Forbidden|
 

@@ -1,7 +1,2 @@
 datachallenge.nl
-mail.datachallenge.nl
-www.datachallenge.nl
-ftp.datachallenge.nl
-pop.datachallenge.nl
-smtp.datachallenge.nl
 localhost.datachallenge.nl

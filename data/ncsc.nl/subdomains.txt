@@ -21,11 +21,8 @@ magazines.ncsc.nl
 ncsc.nl
 opendata.english.ncsc.nl
 opendata.ncsc.nl
-securened-dev.ncsc.nl
 test.ncsc.nl
 gitnmp.arp.ncsc.nl
-securened-acc.ncsc.nl
-securened-tst.ncsc.nl
 csaf.data.security.ncsc.nl
 vulnerabilities.ncsc.nl
 melden.ncsc.nl

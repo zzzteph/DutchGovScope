@@ -20,7 +20,7 @@
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://intranet.scp.nl](https://intranet.scp.nl)| | **D**|| | | | | :white_check_mark:| | | :white_check_mark: | ||403 - Forbidden:...|
+|[https://cmsintranet.scp.nl](https://cmsintranet.scp.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|403 - Forbidden:...|
 |[https://digitaal.scp.nl](https://digitaal.scp.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS ZURB Foundation|SCP Digitaal - S...|
 |[https://digital.scp.nl](https://digital.scp.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS ZURB Foundation|SCP Digitaal - S...|
 |[https://dwo.scp.nl](https://dwo.scp.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS||
@@ -38,6 +38,6 @@
 |[http://autodiscover.scp.nl](http://autodiscover.scp.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://download.mail.scp.nl](https://download.mail.scp.nl)| | **D**|BigIP|:warning: |:white_check_mark: | | | | | | :white_check_mark: | |F5 BigIP HSTS||
 |[https://feeds.scp.nl](https://feeds.scp.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
-|[http://login.scp.nl](http://login.scp.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0||
+|[https://login.scp.nl](https://login.scp.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
 
 

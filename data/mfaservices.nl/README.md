@@ -6,13 +6,13 @@
 
  - **SSL Grade**:
  - **HTTP Security Grade**:C
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:11
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:10
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/mfaservices.nl/subdomains.txt)|61|Alive subdomains|
-|[urls.txt](/data/mfaservices.nl/urls.txt)|60|Urls|
+|[subdomains.txt](/data/mfaservices.nl/subdomains.txt)|63|Alive subdomains|
+|[urls.txt](/data/mfaservices.nl/urls.txt)|63|Urls|
 
 
 ## Statistics
@@ -23,7 +23,7 @@
 |[https://consular.mfaservices.nl](https://consular.mfaservices.nl)| | **B**|cloudflare|:white_check_mark: |:white_check_mark: | | |:warning: | | :white_check_mark: | :white_check_mark: | |Azure Azure Front Door Cloudflare Cloudflare Bot Management HSTS|Ministry of Fore...|
 |[https://cdn.consular.mfaservices.nl](https://cdn.consular.mfaservices.nl)| | **C**|cloudflare|:white_check_mark: |:white_check_mark: | | |:warning: | | | :white_check_mark: | |Azure Azure Front Door Cloudflare Cloudflare Bot Management HSTS||
 |[https://url9097.consular.mfaservices.nl](https://url9097.consular.mfaservices.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|404 Not Found|
-|[https://login.consular.mfaservices.nl](https://login.consular.mfaservices.nl)| | **A**|cloudflare|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Azure Azure Front Door Cloudflare Cloudflare Bot Management HSTS||
+|[https://login.consular.mfaservices.nl](https://login.consular.mfaservices.nl)| | **C**|cloudflare|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Cloudflare Cloudflare Bot Management HSTS|Attention Requir...|
 |[https://dev.login.consular.mfaservices.nl](https://dev.login.consular.mfaservices.nl)| | **C**|cloudflare|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Cloudflare Cloudflare Bot Management HSTS|Attention Requir...|
 |[https://acc-insights.mfaservices.nl](https://acc-insights.mfaservices.nl)| | **F**|Microsoft-Azure-Application-Gateway/v2| | | | | | | | :white_check_mark: | ||404 Not Found|
 |[https://acc-ls4.mfaservices.nl](https://acc-ls4.mfaservices.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|403 Forbidden|
@@ -49,7 +49,7 @@
 |[https://tst.protocol.mfaservices.nl](https://tst.protocol.mfaservices.nl)| | **C**||:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | |Azure HSTS||
 |[https://countrydashboard.mfaservices.nl](https://countrydashboard.mfaservices.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
 |[https://survey.datalab.mfaservices.nl](https://survey.datalab.mfaservices.nl)| | **F**|Apache|:white_check_mark: | | | | | | :white_check_mark: | :white_check_mark: | |Apache HTTP Server Bootstrap PHP|Datalab|
-|[https://dev.countrydashboard.mfaservices.nl](https://dev.countrydashboard.mfaservices.nl)| | **F**|nginx/1.26.1| | | | | | | | :white_check_mark: | |Bootstrap Nginx:1.26.1|Microsoft Azure...|
+|[https://dev.countrydashboard.mfaservices.nl](https://dev.countrydashboard.mfaservices.nl)| | **F**|Microsoft-Azure-Application-Gateway/v2| | | | | | | | :white_check_mark: | |Bootstrap Nginx:1.26.1|403 Forbidden|
 |[https://dev.esp.mfaservices.nl](https://dev.esp.mfaservices.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|403 Forbidden|
 |[https://dev.liferay.mfaservices.nl](https://dev.liferay.mfaservices.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|403 Forbidden|
 |[https://dev.nww.mfaservices.nl](https://dev.nww.mfaservices.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|403 Forbidden|
@@ -73,6 +73,8 @@
 |[https://sq.mfaservices.nl](https://sq.mfaservices.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Application Request Routing:3.0 HSTS IIS Java SonarQubes|SonarQube|
 |[https://protocol.mfaservices.nl](https://protocol.mfaservices.nl)| | **C**||:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | |Azure HSTS||
 |[https://snd.login.consular.mfaservices.nl](https://snd.login.consular.mfaservices.nl)| | **F**|cloudflare|:white_check_mark: | | | | | | | :white_check_mark: | |Azure Azure Front Door Cloudflare Cloudflare Bot Management|Consular Service...|
+|[https://tst.esp.mfaservices.nl](https://tst.esp.mfaservices.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|403 Forbidden|
+|[https://tst.liferay.mfaservices.nl](https://tst.liferay.mfaservices.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|403 Forbidden|
 |[https://acc.fez.mfaservices.nl](https://acc.fez.mfaservices.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|403 Forbidden|
 |[https://dev-insights.mfaservices.nl](https://dev-insights.mfaservices.nl)| | **F**|Microsoft-Azure-Application-Gateway/v2| | | | | | | | :white_check_mark: | ||404 Not Found|
 |[https://dev.fez.mfaservices.nl](https://dev.fez.mfaservices.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|403 Forbidden|
@@ -80,5 +82,6 @@
 |[https://fez.mfaservices.nl](https://fez.mfaservices.nl)| | **A**|Apache|:warning: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS Java|Home - Subsidy P...|
 |[https://tst.fez.mfaservices.nl](https://tst.fez.mfaservices.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|403 Forbidden|
 |[https://tst.nww.mfaservices.nl](https://tst.nww.mfaservices.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|403 Forbidden|
+|[http://tst.api.brp.mfaservices.nl](http://tst.api.brp.mfaservices.nl)| | **F**|Apache/2.4.52 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.52 Ubuntu|Apache2 Ubuntu D...|
 
 

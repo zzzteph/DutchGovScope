@@ -1,9 +1,9 @@
 https://cms-eef.waterschaplimburg.nl
 https://eef.waterschaplimburg.nl
 https://digikoppeling.waterschaplimburg.nl
-http://formulieren-preprod.waterschaplimburg.nl
-http://formulieren.waterschaplimburg.nl
-http://waterschaplimburg.nl
+https://formulieren-preprod.waterschaplimburg.nl
+https://formulieren.waterschaplimburg.nl
+https://waterschaplimburg.nl
 https://inloggen-preprod.waterschaplimburg.nl
 https://metelkaar.waterschaplimburg.nl
 https://open.waterschaplimburg.nl

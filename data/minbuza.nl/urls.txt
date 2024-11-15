@@ -2,6 +2,7 @@ https://acc.ecer.minbuza.nl
 https://api.minbuza.nl
 https://apiacc.minbuza.nl
 https://dev.ecer.minbuza.nl
+https://ecer.minbuza.nl
 https://sip.minbuza.nl
 https://sip.myroom.minbuza.nl
 https://webmeeting.minbuza.nl

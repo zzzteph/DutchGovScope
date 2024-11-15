@@ -1,6 +1,6 @@
 https://zoek-preprod.officielebekendmakingen.nl
 https://www-preprod.officielebekendmakingen.nl
-http://stage-acc.officielebekendmakingen.nl
+https://stage-acc.officielebekendmakingen.nl
 https://beheer-acc.officielebekendmakingen.nl
 https://identifier-preprod.officielebekendmakingen.nl
 https://beheer-sgd.officielebekendmakingen.nl
@@ -14,7 +14,6 @@ https://zoek.officielebekendmakingen.nl
 https://www.officielebekendmakingen.nl
 https://zoek-acc.officielebekendmakingen.nl
 https://beheer-sgd-acc.officielebekendmakingen.nl
-http://identifier-eto.officielebekendmakingen.nl
 https://identifier.officielebekendmakingen.nl
 https://beheersite-op.officielebekendmakingen.nl
 https://beheersite-op-acc.officielebekendmakingen.nl

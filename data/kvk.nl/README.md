@@ -12,7 +12,7 @@
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/kvk.nl/subdomains.txt)|56|Alive subdomains|
-|[urls.txt](/data/kvk.nl/urls.txt)|56|Urls|
+|[urls.txt](/data/kvk.nl/urls.txt)|55|Urls|
 
 
 ## Statistics
@@ -37,7 +37,7 @@
 |[https://www.bedrijventeller.kvk.nl](https://www.bedrijventeller.kvk.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Amazon S3 Amazon Web Services Azure Edge Network Bloomreach Google Tag Manager HSTS Microsoft ASP.NET MyFonts|Home | KVK Bedri...|
 |[https://www.locatiescan.kvk.nl](https://www.locatiescan.kvk.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Amazon S3 Amazon Web Services Azure Edge Network Google Tag Manager HSTS Microsoft ASP.NET MyFonts|Home | KVK Locat...|
 |[https://www.regiodata.kvk.nl](https://www.regiodata.kvk.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET|Document Moved|
-|[https://bedrijventeller.kvk.nl](https://bedrijventeller.kvk.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Amazon S3 Amazon Web Services Azure Edge Network Bloomreach Google Tag Manager HSTS Microsoft ASP.NET MyFonts|Home | KVK Bedri...|
+|[https://bedrijventeller.kvk.nl](https://bedrijventeller.kvk.nl)| | **E**|| | | | | | | | :white_check_mark: | |Amazon S3 Amazon Web Services Azure Edge Network Bloomreach Google Tag Manager HSTS Microsoft ASP.NET MyFonts|Home | KVK Bedri...|
 |[https://cia.acp.ondernemersplein.kvk.nl](https://cia.acp.ondernemersplein.kvk.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
 |[https://cia.ondernemersplein.kvk.nl](https://cia.ondernemersplein.kvk.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
 |[https://cia.staging.ondernemersplein.kvk.nl](https://cia.staging.ondernemersplein.kvk.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
@@ -66,7 +66,6 @@
 |[https://rhub.kvk.nl](https://rhub.kvk.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |HSTS Nginx||
 |[https://sdgapi.acp.ondernemersplein.kvk.nl](https://sdgapi.acp.ondernemersplein.kvk.nl)| | **F**|cloudflare|:white_check_mark: | | | | | :white_check_mark: | | :white_check_mark: | |Cloudflare Cloudflare Bot Management|Attention Requir...|
 |[https://sdgapi.ondernemersplein.kvk.nl](https://sdgapi.ondernemersplein.kvk.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
-|[https://staging.werkenbij.kvk.nl](https://staging.werkenbij.kvk.nl)| | **C**||:warning: |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Google Tag Manager HSTS Microsoft ASP.NET|Vacatures en car...|
 |[https://static.kvk.nl](https://static.kvk.nl)| | **E**||:o: |:white_check_mark: | :warning:| | | | | :white_check_mark: | |HSTS|403 - Forbidden:...|
 |[https://status.kvk.nl](https://status.kvk.nl)| | **B**|nginx| |:white_check_mark: | | |:warning: | | | :white_check_mark: | |HSTS Nginx|KVK Statuspagina|
 |[https://swp.kvk.nl](https://swp.kvk.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Microsoft ASP.NET||

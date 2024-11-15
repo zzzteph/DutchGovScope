@@ -62,7 +62,9 @@ draf.brabant.nl
 esb-test.brabant.nl
 opendata.brabant.nl
 samenwerken.brabant.nl
+facilitor.brabant.nl
 kaartbank.brabant.nl
+kaarten.brabant.nl
 informatie-rws.brabant.nl
 longread.brabant.nl
 specials.brabant.nl
@@ -81,3 +83,4 @@ msoid.brabant.nl
 ndes.brabant.nl
 signing.brabant.nl
 webcast.brabant.nl
+enterpriseenrollment.brabant.nl

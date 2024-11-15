@@ -21,7 +21,7 @@
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[https://mailing.veiliginternetten.nl](https://mailing.veiliginternetten.nl)| | **A**|nginx| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
-|[https://check.veiliginternetten.nl](https://check.veiliginternetten.nl)| | **D**|cloudflare|:o: |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Cloudflare HSTS HTTP/3|Check de Link -...|
+|[https://check.veiliginternetten.nl](https://check.veiliginternetten.nl)| | **C**|cloudflare|:warning: |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Cloudflare HSTS HTTP/3|Check de Link -...|
 |[https://veiliginternetten.nl](https://veiliginternetten.nl)| | **B**|Apache| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server Bootstrap HSTS|Antwoord op vrag...|
 |[https://www.veiliginternetten.nl](https://www.veiliginternetten.nl)| | **B**|Apache| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS|301 Moved Perman...|
 |[https://enquete.veiliginternetten.nl](https://enquete.veiliginternetten.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Amazon CloudFront Amazon Web Services HSTS|Object moved|

@@ -2,7 +2,7 @@
 layout: default
 title: "gebruikercentraal.nl"
 permalink: "/dutchgov/gebruikercentraal.nl.html"
-subdomains_count: 49
+subdomains_count: 50
 urls_count: 49
 ssl_rank: 
 http_rank: C
@@ -25,7 +25,7 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/gebruikercentraal.nl/subdomains.txt)|49|Alive subdomains|
+|[subdomains.txt](/DutchGovScope/data/gebruikercentraal.nl/subdomains.txt)|50|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/gebruikercentraal.nl/urls.txt)|49|Urls|
 
 

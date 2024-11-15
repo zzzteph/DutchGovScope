@@ -38,14 +38,6 @@ https://filetransfer.ont.belastingdienst.nl
 https://fmis.acc.belastingdienst.nl
 https://fmis.belastingdienst.nl
 https://fsvportaal.belastingdienst.nl
-https://wagenparkgegevens.acc.belastingdienst.nl
-https://gdlo.acc.belastingdienst.nl
-https://gegevensuitwisseling.acc.belastingdienst.nl
-https://gpi.acc.belastingdienst.nl
-https://iah.acc.belastingdienst.nl
-https://ovverklaringen.acc.belastingdienst.nl
-https://verleendekinderopvang.acc.belastingdienst.nl
-https://verzekeringsproducten.acc.belastingdienst.nl
 https://gpi.belastingdienst.nl
 https://ovverklaringen.belastingdienst.nl
 https://verleendekinderopvang.belastingdienst.nl

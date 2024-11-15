@@ -1,4 +1,4 @@
 https://cms.bureaubiosecurity.nl
-http://bureaubiosecurity.nl
-http://www.bureaubiosecurity.nl
+https://bureaubiosecurity.nl
+https://www.bureaubiosecurity.nl
 http://localhost.bureaubiosecurity.nl

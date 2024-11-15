@@ -5,14 +5,14 @@
 
 
  - **SSL Grade**:
- - **HTTP Security Grade**:B
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:28
+ - **HTTP Security Grade**:C
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:26
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/cibg.nl/subdomains.txt)|55|Alive subdomains|
-|[urls.txt](/data/cibg.nl/urls.txt)|55|Urls|
+|[subdomains.txt](/data/cibg.nl/subdomains.txt)|52|Alive subdomains|
+|[urls.txt](/data/cibg.nl/urls.txt)|52|Urls|
 
 
 ## Statistics
@@ -45,7 +45,6 @@
 |[https://forms.klopt.cibg.nl](https://forms.klopt.cibg.nl)| | **E**|| | | | | | | | :white_check_mark: | ||404 Not Found|
 |[https://api.klopt.cibg.nl](https://api.klopt.cibg.nl)| | **E**|| | | | | | | | :white_check_mark: | ||403 Forbidden|
 |[https://content.klopt.cibg.nl](https://content.klopt.cibg.nl)| | **E**|| | | | | | | | :white_check_mark: | ||403 Forbidden|
-|[https://applicationframework.cibg.nl](https://applicationframework.cibg.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Basic HSTS||
 |[https://beheer.lir.cibg.nl](https://beheer.lir.cibg.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://beheer.lrza.cibg.nl](https://beheer.lrza.cibg.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://bestandsportaal.cibg.nl](https://bestandsportaal.cibg.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|bestandsportaal....|
@@ -54,7 +53,7 @@
 |[https://opendata.cibg.nl](https://opendata.cibg.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://www.cibg.nl](https://www.cibg.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Home | CIBG|
 |[https://lir.cibg.nl](https://lir.cibg.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Landelijk Implan...|
-|[https://meldingen.klopt.cibg.nl](https://meldingen.klopt.cibg.nl)| | **E**|| | | | | | | | :white_check_mark: | |Amazon ALB Amazon Web Services HSTS Microsoft ASP.NET|Object moved|
+|[https://meldingen.klopt.cibg.nl](https://meldingen.klopt.cibg.nl)| | **F**|awselb/2.0| | | | | | | | :white_check_mark: | |Amazon ELB Amazon Web Services||
 |[https://portaal.competent.cibg.nl](https://portaal.competent.cibg.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://portaal.digilevering.cibg.nl](https://portaal.digilevering.cibg.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://prototype.cibg.nl](https://prototype.cibg.nl)| | **A**|-| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Basic HSTS||
@@ -62,15 +61,13 @@
 |[http://publicwebservices.cibg.nl](http://publicwebservices.cibg.nl)| | **F**|BigIP| | | | | | | | :white_check_mark: | |F5 BigIP||
 |[http://stijlgids.cibg.nl](http://stijlgids.cibg.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[http://test.digikoppeling.cibg.nl](http://test.digikoppeling.cibg.nl)| | **D**|-| | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
-|[https://test.publicwebservices.cibg.nl](https://test.publicwebservices.cibg.nl)| | **A**|-| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://tmv.cibg.nl](https://tmv.cibg.nl)| | **A**|-| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://uzipas.lir.cibg.nl](https://uzipas.lir.cibg.nl)| | **A**|-| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Landelijk Implan...|
 |[http://webservices.lrza.cibg.nl](http://webservices.lrza.cibg.nl)| | **F**|BigIP| | | | | | | | :white_check_mark: | |F5 BigIP||
 |[https://acceptatie.behandel.generiekeregistratiedienst.cibg.nl](https://acceptatie.behandel.generiekeregistratiedienst.cibg.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
-|[https://acceptatie.beheer.generiekeregistratiedienst.cibg.nl](https://acceptatie.beheer.generiekeregistratiedienst.cibg.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[http://acceptatie.digikoppeling2.cibg.nl](http://acceptatie.digikoppeling2.cibg.nl)| | **F**|BigIP| | | | | | | | :white_check_mark: | |F5 BigIP||
-|[https://behandel.generiekeregistratiedienst.cibg.nl](https://behandel.generiekeregistratiedienst.cibg.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
-|[https://beheer.generiekeregistratiedienst.cibg.nl](https://beheer.generiekeregistratiedienst.cibg.nl)| | **A**|-| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
+|[https://behandel.generiekeregistratiedienst.cibg.nl](https://behandel.generiekeregistratiedienst.cibg.nl)| | **A**|-| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
+|[https://beheer.generiekeregistratiedienst.cibg.nl](https://beheer.generiekeregistratiedienst.cibg.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://designsystem.cibg.nl](https://designsystem.cibg.nl)| | **A**|-| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|CIBG Design syst...|
 |[http://digikoppeling.cibg.nl](http://digikoppeling.cibg.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||
 |[https://digikoppeling2.cibg.nl](https://digikoppeling2.cibg.nl)| | **F**|-| | | | | | | | :white_check_mark: | |HSTS||

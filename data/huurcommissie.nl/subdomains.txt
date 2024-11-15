@@ -14,3 +14,4 @@ enterpriseenrollment.huurcommissie.nl
 enterpriseregistration.huurcommissie.nl
 hip.huurcommissie.nl
 vpn.huurcommissie.nl
+msoid.huurcommissie.nl

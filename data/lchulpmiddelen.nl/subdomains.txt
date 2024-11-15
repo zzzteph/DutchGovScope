@@ -1,11 +1,4 @@
 apps.lchulpmiddelen.nl
 autodiscover.lchulpmiddelen.nl
-cpanel.lchulpmiddelen.nl
-cpcalendars.lchulpmiddelen.nl
-cpcontacts.lchulpmiddelen.nl
-webdisk.lchulpmiddelen.nl
 www.lchulpmiddelen.nl
 lchulpmiddelen.nl
-test.apps.lchulpmiddelen.nl
-ftp.lchulpmiddelen.nl
-whm.lchulpmiddelen.nl

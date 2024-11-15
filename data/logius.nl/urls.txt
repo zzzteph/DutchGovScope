@@ -52,3 +52,8 @@ https://gm.mev.logius.nl
 https://logius.nl
 https://gebruikersportaal.preproductie.digipoort.logius.nl
 http://lca.logius.nl
+https://intrekkingsportaal.digipoort.logius.nl
+https://aansluitsuite.digipoort.logius.nl
+https://beheerportaal.digipoort.logius.nl
+https://gebruikersportaal-duo.digipoort.logius.nl
+https://gebruikersportaal.digipoort.logius.nl

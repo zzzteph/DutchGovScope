@@ -1,4 +1,4 @@
-intranet.scp.nl
+cmsintranet.scp.nl
 digitaal.scp.nl
 digital.scp.nl
 dwo.scp.nl

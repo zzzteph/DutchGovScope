@@ -38,14 +38,6 @@ filetransfer.ont.belastingdienst.nl
 fmis.acc.belastingdienst.nl
 fmis.belastingdienst.nl
 fsvportaal.belastingdienst.nl
-wagenparkgegevens.acc.belastingdienst.nl
-gdlo.acc.belastingdienst.nl
-gegevensuitwisseling.acc.belastingdienst.nl
-gpi.acc.belastingdienst.nl
-iah.acc.belastingdienst.nl
-ovverklaringen.acc.belastingdienst.nl
-verleendekinderopvang.acc.belastingdienst.nl
-verzekeringsproducten.acc.belastingdienst.nl
 gpi.belastingdienst.nl
 ovverklaringen.belastingdienst.nl
 verleendekinderopvang.belastingdienst.nl

@@ -20,8 +20,8 @@
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://valys.nl](https://valys.nl)| | **E**|Apache/2.4.52 (Ubuntu)|:o: |:white_check_mark: | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.52 HSTS Ubuntu|301 Moved Perman...|
-|[https://www.valys.nl](https://www.valys.nl)| | **E**|Apache/2.4.52 (Ubuntu)|:o: |:white_check_mark: | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.52 HSTS Ubuntu|Valys|
+|[https://valys.nl](https://valys.nl)| | **D**|Apache/2.4.52 (Ubuntu)|:o: |:white_check_mark: | | |:warning: | | | :white_check_mark: | |Apache HTTP Server:2.4.52 HSTS Ubuntu|301 Moved Perman...|
+|[https://www.valys.nl](https://www.valys.nl)| | **D**|Apache/2.4.52 (Ubuntu)|:o: |:white_check_mark: | | |:warning: | | | :white_check_mark: | |Apache HTTP Server:2.4.52 HSTS Ubuntu|Valys|
 |[https://ww.valys.nl](https://ww.valys.nl)| | **F**|Apache/2.4.52 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.52 HSTS Ubuntu|301 Moved Perman...|
 |[https://informatie.valys.nl](https://informatie.valys.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|404 Not Found|
 |[https://tran-web-ns001.valys.nl](https://tran-web-ns001.valys.nl)| | **F**|Apache/2.4.52 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.52 HSTS Ubuntu|301 Moved Perman...|

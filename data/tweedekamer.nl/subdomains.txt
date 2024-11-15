@@ -57,7 +57,8 @@ erelijst.test.tweedekamer.nl
 ontdek.test.tweedekamer.nl
 tweedekamer.acceptatie.tweedekamer.nl
 tweedekamer.test.tweedekamer.nl
-ext02.videovergaderen.tweedekamer.nl
+ext01.videovergaderen.tweedekamer.nl
+sip.videovergaderen.tweedekamer.nl
 files.tweedekamer.nl
 gegevensmagazijn.tweedekamer.nl
 werkenbij.test.tweedekamer.nl
@@ -65,7 +66,6 @@ houseofrepresentatives.acceptatie.tweedekamer.nl
 houseofrepresentatives.test.tweedekamer.nl
 lijstvangevallenen.acceptatie.tweedekamer.nl
 lijstvangevallenen.test.tweedekamer.nl
-opendata.acceptatie.tweedekamer.nl
 opendata.test.tweedekamer.nl
 werkenbij.acceptatie.tweedekamer.nl
 livestream-backup.tweedekamer.nl

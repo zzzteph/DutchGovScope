@@ -5,3 +5,4 @@ https://opendata.ondernemersplein.nl
 http://autodiscover.ondernemersplein.nl
 https://enterpriseenrollment.ondernemersplein.nl
 https://enterpriseregistration.ondernemersplein.nl
+https://msoid.ondernemersplein.nl

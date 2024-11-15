@@ -23,7 +23,6 @@ https://desktop.klopt.cibg.nl
 https://forms.klopt.cibg.nl
 https://api.klopt.cibg.nl
 https://content.klopt.cibg.nl
-https://applicationframework.cibg.nl
 https://beheer.lir.cibg.nl
 https://beheer.lrza.cibg.nl
 https://bestandsportaal.cibg.nl
@@ -40,12 +39,10 @@ http://publicwebservices-dcr.cibg.nl
 http://publicwebservices.cibg.nl
 http://stijlgids.cibg.nl
 http://test.digikoppeling.cibg.nl
-https://test.publicwebservices.cibg.nl
 https://tmv.cibg.nl
 https://uzipas.lir.cibg.nl
 http://webservices.lrza.cibg.nl
 https://acceptatie.behandel.generiekeregistratiedienst.cibg.nl
-https://acceptatie.beheer.generiekeregistratiedienst.cibg.nl
 http://acceptatie.digikoppeling2.cibg.nl
 https://behandel.generiekeregistratiedienst.cibg.nl
 https://beheer.generiekeregistratiedienst.cibg.nl

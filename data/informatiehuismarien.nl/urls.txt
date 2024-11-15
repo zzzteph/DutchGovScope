@@ -1,2 +1,2 @@
-http://informatiehuismarien.nl
-http://www.informatiehuismarien.nl
+https://informatiehuismarien.nl
+https://www.informatiehuismarien.nl

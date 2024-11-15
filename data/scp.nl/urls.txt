@@ -1,4 +1,4 @@
-https://intranet.scp.nl
+https://cmsintranet.scp.nl
 https://digitaal.scp.nl
 https://digital.scp.nl
 https://dwo.scp.nl
@@ -16,4 +16,4 @@ https://test-intranet.scp.nl
 http://autodiscover.scp.nl
 https://download.mail.scp.nl
 https://feeds.scp.nl
-http://login.scp.nl
+https://login.scp.nl

@@ -1,11 +1,4 @@
 https://apps.lchulpmiddelen.nl
 http://autodiscover.lchulpmiddelen.nl
-https://cpanel.lchulpmiddelen.nl
-https://cpcalendars.lchulpmiddelen.nl
-https://cpcontacts.lchulpmiddelen.nl
-https://webdisk.lchulpmiddelen.nl
 https://www.lchulpmiddelen.nl
 https://lchulpmiddelen.nl
-https://test.apps.lchulpmiddelen.nl
-https://ftp.lchulpmiddelen.nl
-https://whm.lchulpmiddelen.nl

@@ -3,5 +3,5 @@ https://iplo.nl
 https://redactie-tl.iplo.nl
 https://tl.iplo.nl
 https://www.iplo.nl
-http://chw.iplo.nl
+https://chw.iplo.nl
 https://files.iplo.nl

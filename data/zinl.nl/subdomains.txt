@@ -7,3 +7,4 @@ mdm.zinl.nl
 portal.zinl.nl
 www.zinl.nl
 zinl.nl
+enterpriseenrollment.zinl.nl

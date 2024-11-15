@@ -11,7 +11,7 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/gebruikercentraal.nl/subdomains.txt)|49|Alive subdomains|
+|[subdomains.txt](/data/gebruikercentraal.nl/subdomains.txt)|50|Alive subdomains|
 |[urls.txt](/data/gebruikercentraal.nl/urls.txt)|49|Urls|
 
 

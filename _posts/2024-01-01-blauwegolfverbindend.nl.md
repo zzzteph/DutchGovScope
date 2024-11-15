@@ -6,7 +6,7 @@ subdomains_count: 5
 urls_count: 5
 ssl_rank: 
 http_rank: E
-security_txt: 1
+security_txt: 2
 url_link: /data/blauwegolfverbindend.nl/urls.txt
 subdomains_link: /data/blauwegolfverbindend.nl/subdomains.txt
 categories: dutchgov
@@ -20,7 +20,7 @@ tags: dutchgov
 
  - **SSL Grade**:
  - **HTTP Security Grade**:E
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:1
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:2
 
 
 | File       | Count | Info |

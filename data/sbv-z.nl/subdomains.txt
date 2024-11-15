@@ -10,5 +10,6 @@ raadplegen.sbv-z.nl
 webservice-acc.sbv-z.nl
 webservice-preprod.sbv-z.nl
 webservice.sbv-z.nl
+uzipas.raadplegen.sbv-z.nl
 acceptatie.uzipas.raadplegen.sbv-z.nl
 acceptatie.raadplegen.sbv-z.nl

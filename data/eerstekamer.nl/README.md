@@ -33,7 +33,7 @@
 |[https://remoteaccess3.eerstekamer.nl](https://remoteaccess3.eerstekamer.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||
 |[https://wordaddin.eerstekamer.nl](https://wordaddin.eerstekamer.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Web App - Unavai...|
 |[https://apiback.eerstekamer.nl](https://apiback.eerstekamer.nl)| | **A**|| |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | |HSTS|Not Found|
-|[https://autodoc.eerstekamer.nl](https://autodoc.eerstekamer.nl)| | **E**|| | | | | | | | :white_check_mark: | ||403 Forbidden|
+|[https://autodoc.eerstekamer.nl](https://autodoc.eerstekamer.nl)| | **C**|| | | | |:warning: | :white_check_mark: | | :white_check_mark: | ||Forbidden|
 |[https://redactie.eerstekamer.nl](https://redactie.eerstekamer.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Moved|
 |[https://wordcms.eerstekamer.nl](https://wordcms.eerstekamer.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Web App - Unavai...|
 |[https://enterpriseregistration.eerstekamer.nl](https://enterpriseregistration.eerstekamer.nl)| | **E**|| | | | | | | | :white_check_mark: | |||

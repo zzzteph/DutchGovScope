@@ -1,4 +1,3 @@
 agroforestrynetwerk.nl
 kennisbank.agroforestrynetwerk.nl
 www.agroforestrynetwerk.nl
-staging.agroforestrynetwerk.nl

@@ -1,4 +1,3 @@
-academie.mensenrechten.nl
 cms.mensenrechten.nl
 complaintform.mensenrechten.nl
 klachtenformulier.mensenrechten.nl

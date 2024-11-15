@@ -14,7 +14,6 @@ zoek.officielebekendmakingen.nl
 www.officielebekendmakingen.nl
 zoek-acc.officielebekendmakingen.nl
 beheer-sgd-acc.officielebekendmakingen.nl
-identifier-eto.officielebekendmakingen.nl
 identifier.officielebekendmakingen.nl
 beheersite-op.officielebekendmakingen.nl
 beheersite-op-acc.officielebekendmakingen.nl

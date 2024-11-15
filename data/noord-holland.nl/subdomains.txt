@@ -25,6 +25,7 @@ geoapps4.noord-holland.nl
 geoservices3.noord-holland.nl
 geoservices4.noord-holland.nl
 geonetwork.noord-holland.nl
+vsbacc.noord-holland.nl
 kennisportaalovk.noord-holland.nl
 leidraadlc.noord-holland.nl
 magazine.noord-holland.nl

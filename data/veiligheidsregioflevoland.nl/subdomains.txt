@@ -6,4 +6,7 @@ mail.veiligheidsregioflevoland.nl
 autodiscover.veiligheidsregioflevoland.nl
 enterpriseenrollment.veiligheidsregioflevoland.nl
 enterpriseregistration.veiligheidsregioflevoland.nl
+3dgames.veiligheidsregioflevoland.nl
+dept.veiligheidsregioflevoland.nl
+subaruvelgen.veiligheidsregioflevoland.nl
 msoid.veiligheidsregioflevoland.nl

@@ -76,7 +76,7 @@ https://acceptatie.webservice.soap.osiris.rivm.nl
 http://acceptatie.webservice.cdif.osiris.rivm.nl
 http://acceptatie.zwemwater.osiris.rivm.nl
 https://aiz.osiris.rivm.nl
-http://api-samenmeten.rivm.nl
+https://api-samenmeten.rivm.nl
 http://api.rivm.nl
 http://app.rivm.nl
 http://apps.rivm.nl
@@ -84,7 +84,7 @@ https://auth.rivm.nl
 https://sso-webauth.rivm.nl
 https://autodiscover.rivm.nl
 https://beleving.rivm.nl
-https://informatiehulp.rivm.nl
+http://informatiehulp.rivm.nl
 https://signalen.rivm.nl
 https://bestellingen.rivm.nl
 http://www.bestellingen.rivm.nl
@@ -211,6 +211,7 @@ https://securemail.rivm.nl
 https://sprproposal.rivm.nl
 https://sso-osiris.rivm.nl
 http://sso.api.rivm.nl
+https://statline.rivm.nl
 http://stikstofdepositiedata.rivm.nl
 https://support.rivm.nl
 https://swka.rivm.nl

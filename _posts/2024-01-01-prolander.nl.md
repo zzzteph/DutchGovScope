@@ -6,7 +6,7 @@ subdomains_count: 8
 urls_count: 8
 ssl_rank: 
 http_rank: B
-security_txt: 1
+security_txt: 3
 url_link: /data/prolander.nl/urls.txt
 subdomains_link: /data/prolander.nl/subdomains.txt
 categories: dutchgov
@@ -20,7 +20,7 @@ tags: dutchgov
 
  - **SSL Grade**:
  - **HTTP Security Grade**:B
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:1
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:3
 
 
 | File       | Count | Info |

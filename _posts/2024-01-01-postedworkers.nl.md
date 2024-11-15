@@ -5,8 +5,8 @@ permalink: "/dutchgov/postedworkers.nl.html"
 subdomains_count: 14
 urls_count: 14
 ssl_rank: 
-http_rank: B
-security_txt: 10
+http_rank: A
+security_txt: 11
 url_link: /data/postedworkers.nl/urls.txt
 subdomains_link: /data/postedworkers.nl/subdomains.txt
 categories: dutchgov
@@ -19,8 +19,8 @@ tags: dutchgov
 
 
  - **SSL Grade**:
- - **HTTP Security Grade**:B
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:10
+ - **HTTP Security Grade**:A
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:11
 
 
 | File       | Count | Info |
@@ -44,7 +44,7 @@ tags: dutchgov
 |[https://feeds.postedworkers.nl](https://feeds.postedworkers.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://opendata.deutsch.postedworkers.nl](https://opendata.deutsch.postedworkers.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://opendata.postedworkers.nl](https://opendata.postedworkers.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
-|[https://meldloket.postedworkers.nl](https://meldloket.postedworkers.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Onderhoud | Main...|
+|[https://meldloket.postedworkers.nl](https://meldloket.postedworkers.nl)| | **A**||:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | ||Object moved per...|
 |[https://myidp-acc.postedworkers.nl](https://myidp-acc.postedworkers.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
 |[https://url6099.mail.postedworkers.nl](https://url6099.mail.postedworkers.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|404 Not Found|
 |[https://myidp.postedworkers.nl](https://myidp.postedworkers.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||

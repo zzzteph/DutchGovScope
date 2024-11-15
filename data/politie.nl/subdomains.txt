@@ -14,6 +14,7 @@ rss.politie.nl
 accsso.politie.nl
 bu.politie.nl
 carriere.politie.nl
+data.politie.nl
 evenementen.politie.nl
 kombijde.acceptatie.politie.nl
 www.acceptatie.politie.nl

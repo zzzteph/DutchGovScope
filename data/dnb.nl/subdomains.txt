@@ -90,6 +90,7 @@ nieuws.dnb.nl
 nnc.dnb.nl
 sharefile.dnb.nl
 statistics.dnb.nl
+nieuwsapp.dnb.nl
 pmhdsk-ci.dnb.nl
 rmdm-beheerapp-dev.azure.dnb.nl
 tzorganisatiegegevens-dev.dnb.nl

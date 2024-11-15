@@ -1,4 +1,6 @@
 tools.digitaltrustcenter.nl
 basisscan.digitaltrustcenter.nl
+digitaltrustcenter.nl
+www.digitaltrustcenter.nl
 acc.digitaltrustcenter.nl
 test.digitaltrustcenter.nl

@@ -1,4 +1,5 @@
 acceptatie.ssc-campus.nl
+b30-micol-a01p.int.ssc-campus.nl
 connect-mp.ssc-campus.nl
 esp.ssc-campus.nl
 fs.ssc-campus.nl
@@ -6,6 +7,7 @@ login.ssc-campus.nl
 mededeling.ssc-campus.nl
 ssc-campus.nl
 www.ssc-campus.nl
+modellenplatform-rekenen.ssc-campus.nl
 modellenplatform.ssc-campus.nl
 mp.ssc-campus.nl
 nwm-zw-input.ssc-campus.nl
@@ -13,3 +15,4 @@ nwm-zw-output.ssc-campus.nl
 rivm-micol-a01p.rivm.ssc-campus.nl
 testconn-mp.ssc-campus.nl
 awv.rivm-micol-a01p.rivm.ssc-campus.nl
+localhost.ssc-campus.nl

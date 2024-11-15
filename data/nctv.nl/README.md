@@ -23,7 +23,7 @@
 |[https://cbrnsecurity.nctv.nl](https://cbrnsecurity.nctv.nl)| | **E**|Apache/2|:o: | | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server:2 Bootstrap CodeIgniter ExpressionEngine PHP|CBRNE|
 |[https://dev.cbrnsecurity.nctv.nl](https://dev.cbrnsecurity.nctv.nl)| | **F**|Apache/2| | | | | | | | :white_check_mark: | |Apache HTTP Server:2||
 |[https://dev.kennisbankterrorisme.nctv.nl](https://dev.kennisbankterrorisme.nctv.nl)| | **F**|Apache/2| | | | | | | | :white_check_mark: | |Apache HTTP Server:2|dev.kennisbankte...|
-|[https://kennisbankterrorisme.nctv.nl](https://kennisbankterrorisme.nctv.nl)| | **F**|Apache/2|:warning: | | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server:2 CodeIgniter ExpressionEngine PHP:8.2.24||
+|[https://kennisbankterrorisme.nctv.nl](https://kennisbankterrorisme.nctv.nl)| | **F**|Apache/2|:warning: | | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server:2 CodeIgniter ExpressionEngine PHP:8.2.25||
 |[https://elearning-irb.nctv.nl](https://elearning-irb.nctv.nl)| | **F**|Apache/2| | | | | | | | :white_check_mark: | |Apache HTTP Server:2||
 |[https://extreemrechts.nctv.nl](https://extreemrechts.nctv.nl)| | **F**|Apache/2| | | | | | | | :white_check_mark: | |Apache HTTP Server:2||
 |[https://pge.nctv.nl](https://pge.nctv.nl)| | **F**|Apache/2| | | | | | | | :white_check_mark: | |Apache HTTP Server:2||

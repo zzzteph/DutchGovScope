@@ -11,7 +11,7 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/cyberweerbaarheidsconferentie.nl/subdomains.txt)|0|Alive subdomains|
+|[subdomains.txt](/data/cyberweerbaarheidsconferentie.nl/subdomains.txt)|2|Alive subdomains|
 |[urls.txt](/data/cyberweerbaarheidsconferentie.nl/urls.txt)|0|Urls|
 
 

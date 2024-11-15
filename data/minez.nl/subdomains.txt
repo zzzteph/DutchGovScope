@@ -7,7 +7,6 @@ eidas.minez.nl
 eidasmw-acc.minez.nl
 eidasmw-tst.minez.nl
 eidasmw.minez.nl
-pmt.minez.nl
 www.minez.nl
 minez.nl
 upeu.minez.nl

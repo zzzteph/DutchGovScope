@@ -11,8 +11,8 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/ertms.nl/subdomains.txt)|63|Alive subdomains|
-|[urls.txt](/data/ertms.nl/urls.txt)|38|Urls|
+|[subdomains.txt](/data/ertms.nl/subdomains.txt)|64|Alive subdomains|
+|[urls.txt](/data/ertms.nl/urls.txt)|39|Urls|
 
 
 ## Statistics
@@ -20,9 +20,10 @@
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[http://ertms.nl](http://ertms.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET||
+|[https://ertms.nl](https://ertms.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Object moved|
 |[https://postmaster.ertms.nl](https://postmaster.ertms.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Object moved|
-|[http://www.ertms.nl](http://www.ertms.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET||
+|[https://www.ertms.nl](https://www.ertms.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Object moved|
+|[https://web.ertms.nl](https://web.ertms.nl)| | **E**|| | | | | | | | :white_check_mark: | |Azure Azure Front Door||
 |[https://mrd.ertms.nl](https://mrd.ertms.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Object moved|
 |[https://west.ertms.nl](https://west.ertms.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Object moved|
 |[https://bigshot.ertms.nl](https://bigshot.ertms.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Object moved|
