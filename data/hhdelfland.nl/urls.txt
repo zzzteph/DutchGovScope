@@ -8,7 +8,6 @@ https://geo.hhdelfland.nl
 https://geoportaalhhd.hhdelfland.nl
 https://geoapps.hhdelfland.nl
 https://geoportaaltest.hhdelfland.nl
-https://geoviewhhd.hhdelfland.nl
 https://grondwaterportaal-a.hhdelfland.nl
 https://startstopmelding-a.hhdelfland.nl
 https://watertoetsportaal-a.hhdelfland.nl

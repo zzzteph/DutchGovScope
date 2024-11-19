@@ -15,3 +15,4 @@ enterpriseregistration.huurcommissie.nl
 hip.huurcommissie.nl
 vpn.huurcommissie.nl
 msoid.huurcommissie.nl
+vouch.checkjeprijs.huurcommissie.nl

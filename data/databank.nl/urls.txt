@@ -89,6 +89,6 @@ https://mre.databank.nl
 https://rabobank.databank.nl
 https://inspectie-oe.databank.nl
 https://www.nederlandschoon.databank.nl
-https://www.ivm11.databank.nl
-https://test-prognosemodelzw.databank.nl
-https://wsjg.databank.nl
+https://bvz-waves.databank.nl
+https://overijssel.databank.nl
+https://www.veiligheidsmonitor.databank.nl

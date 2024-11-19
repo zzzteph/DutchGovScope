@@ -3,7 +3,7 @@ layout: default
 title: "tweedekamer.nl"
 permalink: "/dutchgov/tweedekamer.nl.html"
 subdomains_count: 140
-urls_count: 139
+urls_count: 138
 ssl_rank: 
 http_rank: C
 security_txt: 77
@@ -26,7 +26,7 @@ tags: dutchgov
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/DutchGovScope/data/tweedekamer.nl/subdomains.txt)|140|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/tweedekamer.nl/urls.txt)|139|Urls|
+|[urls.txt](/DutchGovScope/data/tweedekamer.nl/urls.txt)|138|Urls|
 
 
 ## Statistics
@@ -93,7 +93,6 @@ tags: dutchgov
 |[https://ontdek.test.tweedekamer.nl](https://ontdek.test.tweedekamer.nl)| | **C**|nginx/1.27.2| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Nginx:1.27.2|Tweede Kamer Tou...|
 |[https://tweedekamer.acceptatie.tweedekamer.nl](https://tweedekamer.acceptatie.tweedekamer.nl)| | **C**|nginx/1.27.2| |:white_check_mark: | | | | | | :white_check_mark: | |Nginx:1.27.2|403 Forbidden|
 |[https://tweedekamer.test.tweedekamer.nl](https://tweedekamer.test.tweedekamer.nl)| | **C**|nginx/1.27.2| |:white_check_mark: | | | | | | :white_check_mark: | |Nginx:1.27.2|403 Forbidden|
-|[https://sip.videovergaderen.tweedekamer.nl](https://sip.videovergaderen.tweedekamer.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://files.tweedekamer.nl](https://files.tweedekamer.nl)| | **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Nginx|403 Forbidden|
 |[https://gegevensmagazijn.tweedekamer.nl](https://gegevensmagazijn.tweedekamer.nl)| | **F**||:o: | | | | :white_check_mark:| | | :white_check_mark: | ||Gegevensmagazijn|
 |[https://werkenbij.test.tweedekamer.nl](https://werkenbij.test.tweedekamer.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|403 Forbidden|

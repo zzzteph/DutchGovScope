@@ -2,7 +2,7 @@
 layout: default
 title: "rdobeheer.nl"
 permalink: "/dutchgov/rdobeheer.nl.html"
-subdomains_count: 65
+subdomains_count: 69
 urls_count: 65
 ssl_rank: 
 http_rank: C
@@ -25,7 +25,7 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/rdobeheer.nl/subdomains.txt)|65|Alive subdomains|
+|[subdomains.txt](/DutchGovScope/data/rdobeheer.nl/subdomains.txt)|69|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/rdobeheer.nl/urls.txt)|65|Urls|
 
 

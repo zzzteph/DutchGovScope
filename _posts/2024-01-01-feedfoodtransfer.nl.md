@@ -2,7 +2,7 @@
 layout: default
 title: "feedfoodtransfer.nl"
 permalink: "/dutchgov/feedfoodtransfer.nl.html"
-subdomains_count: 8
+subdomains_count: 12
 urls_count: 8
 ssl_rank: 
 http_rank: B
@@ -25,7 +25,7 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/feedfoodtransfer.nl/subdomains.txt)|8|Alive subdomains|
+|[subdomains.txt](/DutchGovScope/data/feedfoodtransfer.nl/subdomains.txt)|12|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/feedfoodtransfer.nl/urls.txt)|8|Urls|
 
 

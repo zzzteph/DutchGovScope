@@ -6,13 +6,13 @@
 
  - **SSL Grade**:
  - **HTTP Security Grade**:D
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:7
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:8
 
 
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/zwemwater.nl/subdomains.txt)|21|Alive subdomains|
-|[urls.txt](/data/zwemwater.nl/urls.txt)|20|Urls|
+|[urls.txt](/data/zwemwater.nl/urls.txt)|21|Urls|
 
 
 ## Statistics
@@ -40,5 +40,6 @@
 |[https://inspiregeo.zwemwater.nl](https://inspiregeo.zwemwater.nl)| | **B**|Apache| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS||
 |[https://zwemlocatieswww.zwemwater.nl](https://zwemlocatieswww.zwemwater.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
 |[https://9986734www.zwemwater.nl](https://9986734www.zwemwater.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
+|[https://register.zwemwater.nl](https://register.zwemwater.nl)| | **B**|Apache|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
 
 

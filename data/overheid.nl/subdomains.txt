@@ -31,7 +31,6 @@ treatydatabase.overheid.nl
 api.mijn.overheid.nl
 api.preprod.mijn.overheid.nl
 gegevensdelen.preprod.mijn.overheid.nl
-artifact-rd1.toegang.overheid.nl
 bag.basisregistraties.overheid.nl
 bag.test.basisregistraties.overheid.nl
 bag2.basisregistraties.overheid.nl
@@ -224,7 +223,6 @@ wetgevingskalender-acc.overheid.nl
 pdc.acc.omgevingswet.overheid.nl
 pdc.omgevingswet.overheid.nl
 plan-plan-validatie.pre.omgevingswet.overheid.nl
-pp1.toegang.overheid.nl
 puc-acc.overheid.nl
 puc-redactie-acc.overheid.nl
 puc-redactie.overheid.nl
@@ -310,3 +308,4 @@ water.omgevingswet.overheid.nl
 autodiscover.overheid.nl
 ref.omgevingswet.overheid.nl
 repository-preprod.overheid.nl
+lvbb-lto.overheid.nl

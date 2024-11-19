@@ -1,3 +1,4 @@
 one-conference.nl
 registration.one-conference.nl
 www.registration.one-conference.nl
+emagazine.one-conference.nl

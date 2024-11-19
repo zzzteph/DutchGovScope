@@ -8,3 +8,4 @@ http://autodiscover.biedboek.nl
 https://enterpriseregistration.biedboek.nl
 http://localhost.biedboek.nl
 https://msoid.biedboek.nl
+https://enterpriseenrollment.biedboek.nl

@@ -27,3 +27,4 @@ werkplek.duo.nl
 xbrlonderwijsportaal-acp.duo.nl
 xbrlonderwijsportaal.duo.nl
 zakelijk.duo.nl
+congres.duo.nl

@@ -8,3 +8,5 @@ https://water.platformwow.nl
 https://weg.platformwow.nl
 https://www.platformwow.nl
 https://legacy.platformwow.nl
+https://formulieren.platformwow.nl
+https://webmail.platformwow.nl

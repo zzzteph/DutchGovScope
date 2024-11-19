@@ -11,3 +11,4 @@ vois.datawonen.nl
 www.datawonen.nl
 dfg.datawonen.nl
 mn.datawonen.nl
+pwik.datawonen.nl

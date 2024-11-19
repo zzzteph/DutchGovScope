@@ -57,3 +57,4 @@ https://aansluitsuite.digipoort.logius.nl
 https://beheerportaal.digipoort.logius.nl
 https://gebruikersportaal-duo.digipoort.logius.nl
 https://gebruikersportaal.digipoort.logius.nl
+https://gebruikersportaal-sbr.digipoort.logius.nl

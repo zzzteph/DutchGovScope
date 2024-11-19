@@ -6,7 +6,4 @@ https://mail.veiligheidsregioflevoland.nl
 http://autodiscover.veiligheidsregioflevoland.nl
 https://enterpriseenrollment.veiligheidsregioflevoland.nl
 https://enterpriseregistration.veiligheidsregioflevoland.nl
-http://3dgames.veiligheidsregioflevoland.nl
-http://dept.veiligheidsregioflevoland.nl
-http://subaruvelgen.veiligheidsregioflevoland.nl
 https://msoid.veiligheidsregioflevoland.nl

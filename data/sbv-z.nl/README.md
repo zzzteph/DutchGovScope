@@ -11,8 +11,8 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/sbv-z.nl/subdomains.txt)|15|Alive subdomains|
-|[urls.txt](/data/sbv-z.nl/urls.txt)|14|Urls|
+|[subdomains.txt](/data/sbv-z.nl/subdomains.txt)|14|Alive subdomains|
+|[urls.txt](/data/sbv-z.nl/urls.txt)|13|Urls|
 
 
 ## Statistics
@@ -30,7 +30,6 @@
 |[http://raadplegen-preprod.sbv-z.nl](http://raadplegen-preprod.sbv-z.nl)| | **F**|BigIP| | | | | | | | :white_check_mark: | |F5 BigIP||
 |[https://raadplegen.sbv-z.nl](https://raadplegen.sbv-z.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|SBV-Z Raadplegen|
 |[https://webservice-acc.sbv-z.nl](https://webservice-acc.sbv-z.nl)| | **A**|Microsoft-IIS/10.0| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS IIS:10.0 Windows Server|403 - Forbidden:...|
-|[http://webservice-preprod.sbv-z.nl](http://webservice-preprod.sbv-z.nl)| | **F**|BigIP| | | | | | | | :white_check_mark: | |F5 BigIP||
 |[https://webservice.sbv-z.nl](https://webservice.sbv-z.nl)| | **A**|Microsoft-IIS/10.0| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS IIS:10.0 Windows Server|403 - Forbidden:...|
 |[https://acceptatie.uzipas.raadplegen.sbv-z.nl](https://acceptatie.uzipas.raadplegen.sbv-z.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|SBV-Z Raadplegen|
 |[https://acceptatie.raadplegen.sbv-z.nl](https://acceptatie.raadplegen.sbv-z.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|SBV-Z Raadplegen|

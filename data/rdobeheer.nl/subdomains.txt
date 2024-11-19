@@ -63,3 +63,7 @@ balie.acc.woo.rdobeheer.nl
 web.test.dpr.rdobeheer.nl
 acc.rdobeheer.nl
 stats.rdobeheer.nl
+test.dusi.rdobeheer.nl
+acc.dusi.rdobeheer.nl
+test.dpr.rdobeheer.nl
+acc.dpr.rdobeheer.nl

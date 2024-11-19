@@ -2,11 +2,11 @@
 layout: default
 title: "flevoland.nl"
 permalink: "/dutchgov/flevoland.nl.html"
-subdomains_count: 78
-urls_count: 78
+subdomains_count: 79
+urls_count: 79
 ssl_rank: 
 http_rank: C
-security_txt: 24
+security_txt: 25
 url_link: /data/flevoland.nl/urls.txt
 subdomains_link: /data/flevoland.nl/subdomains.txt
 categories: dutchgov
@@ -20,13 +20,13 @@ tags: dutchgov
 
  - **SSL Grade**:
  - **HTTP Security Grade**:C
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:24
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:25
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/flevoland.nl/subdomains.txt)|78|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/flevoland.nl/urls.txt)|78|Urls|
+|[subdomains.txt](/DutchGovScope/data/flevoland.nl/subdomains.txt)|79|Alive subdomains|
+|[urls.txt](/DutchGovScope/data/flevoland.nl/urls.txt)|79|Urls|
 
 
 ## Statistics
@@ -91,6 +91,7 @@ tags: dutchgov
 |[https://micollab.flevoland.nl](https://micollab.flevoland.nl)| | **A**|Apache| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS|Redirecting...|
 |[https://preprodid.flevoland.nl](https://preprodid.flevoland.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Provincie Flevol...|
 |[https://stateninformatie.flevoland.nl](https://stateninformatie.flevoland.nl)| | **A**|Apache|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS PHP|Provincie Flevol...|
+|[https://test-cmsintranet.flevoland.nl](https://test-cmsintranet.flevoland.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|403 - Forbidden:...|
 |[https://test.flevoland.nl](https://test.flevoland.nl)| | **F**|Microsoft-Azure-Application-Gateway/v2| | | | | | | | :white_check_mark: | ||502 Bad Gateway|
 |[https://testmdm.flevoland.nl](https://testmdm.flevoland.nl)| | **A**|server| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|302 Found|
 |[https://veiligmailen.flevoland.nl](https://veiligmailen.flevoland.nl)| | **A**|| |:white_check_mark: | | |:warning: | | :white_check_mark: | :white_check_mark: | |HSTS||

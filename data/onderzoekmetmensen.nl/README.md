@@ -11,7 +11,7 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/onderzoekmetmensen.nl/subdomains.txt)|5|Alive subdomains|
+|[subdomains.txt](/data/onderzoekmetmensen.nl/subdomains.txt)|11|Alive subdomains|
 |[urls.txt](/data/onderzoekmetmensen.nl/urls.txt)|5|Urls|
 
 

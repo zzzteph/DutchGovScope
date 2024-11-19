@@ -12,7 +12,7 @@
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/platformwow.nl/subdomains.txt)|12|Alive subdomains|
-|[urls.txt](/data/platformwow.nl/urls.txt)|10|Urls|
+|[urls.txt](/data/platformwow.nl/urls.txt)|12|Urls|
 
 
 ## Statistics
@@ -30,5 +30,7 @@
 |[https://weg.platformwow.nl](https://weg.platformwow.nl)| | **B**|Microsoft-IIS/10.0|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Azure HSTS IIS:10.0 Windows Server|Document Moved|
 |[https://www.platformwow.nl](https://www.platformwow.nl)| | **B**|Microsoft-IIS/10.0|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Azure HSTS IIS:10.0 Windows Server|Document Moved|
 |[https://legacy.platformwow.nl](https://legacy.platformwow.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
+|[https://formulieren.platformwow.nl](https://formulieren.platformwow.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server Google Tag Manager HSTS|Powerful tool fo...|
+|[https://webmail.platformwow.nl](https://webmail.platformwow.nl)| | **F**|Apache/2.4.25 (Debian) mod_fastcgi/mod_fastcgi-SNAP-0910052141| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.25 Debian mod_fastcgi|TransIP Webmail...|
 
 

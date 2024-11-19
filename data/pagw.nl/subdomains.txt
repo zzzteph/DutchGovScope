@@ -2,3 +2,4 @@ feeds.pagw.nl
 opendata.pagw.nl
 www.pagw.nl
 pagw.nl
+streefbeelden.pagw.nl

@@ -32,6 +32,6 @@
 |[https://preview.nederlandwereldwijd.nl](https://preview.nederlandwereldwijd.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
 |[https://www.nederlandwereldwijd.nl](https://www.nederlandwereldwijd.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |Bloomreach HSTS HTTP/3|Home | Nederland...|
 |[https://a-informatieservice.nederlandwereldwijd.nl](https://a-informatieservice.nederlandwereldwijd.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Web App - Unavai...|
-|[https://dev.opendata.nederlandwereldwijd.nl](https://dev.opendata.nederlandwereldwijd.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
+|[https://dev.opendata.nederlandwereldwijd.nl](https://dev.opendata.nederlandwereldwijd.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|Access Denied|
 
 

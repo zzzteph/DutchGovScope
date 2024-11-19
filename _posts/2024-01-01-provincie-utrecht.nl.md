@@ -2,8 +2,8 @@
 layout: default
 title: "provincie-utrecht.nl"
 permalink: "/dutchgov/provincie-utrecht.nl.html"
-subdomains_count: 97
-urls_count: 95
+subdomains_count: 96
+urls_count: 94
 ssl_rank: 
 http_rank: C
 security_txt: 37
@@ -25,8 +25,8 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/provincie-utrecht.nl/subdomains.txt)|97|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/provincie-utrecht.nl/urls.txt)|95|Urls|
+|[subdomains.txt](/DutchGovScope/data/provincie-utrecht.nl/subdomains.txt)|96|Alive subdomains|
+|[urls.txt](/DutchGovScope/data/provincie-utrecht.nl/urls.txt)|94|Urls|
 
 
 ## Statistics
@@ -34,7 +34,6 @@ tags: dutchgov
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://espt.provincie-utrecht.nl](https://espt.provincie-utrecht.nl)| | **C**|Apache| |:white_check_mark: | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|Access Gateway|
 |[https://wortel184.provincie-utrecht.nl](https://wortel184.provincie-utrecht.nl)| | **C**|Apache| |:white_check_mark: | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|Access Gateway|
 |[https://assystnet-test-t.provincie-utrecht.nl](https://assystnet-test-t.provincie-utrecht.nl)| | **B**|Apache|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
 |[https://geo.provincie-utrecht.nl](https://geo.provincie-utrecht.nl)| | **B**|Apache|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|

@@ -11,8 +11,8 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/justid.nl/subdomains.txt)|24|Alive subdomains|
-|[urls.txt](/data/justid.nl/urls.txt)|24|Urls|
+|[subdomains.txt](/data/justid.nl/subdomains.txt)|22|Alive subdomains|
+|[urls.txt](/data/justid.nl/urls.txt)|22|Urls|
 
 
 ## Statistics
@@ -25,7 +25,6 @@
 |[https://tst-referentiegegevens.justid.nl](https://tst-referentiegegevens.justid.nl)| | **A**|Apache|:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS|A-Select Filter...|
 |[https://ews-external.justid.nl](https://ews-external.justid.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://lyncdiscover.justid.nl](https://lyncdiscover.justid.nl)| | **E**|| | | | | | | | :white_check_mark: | |Azure||
-|[https://meet.justid.nl](https://meet.justid.nl)| | **E**|| | | | | | | | :white_check_mark: | |Azure HSTS||
 |[https://referentiegegevens.justid.nl](https://referentiegegevens.justid.nl)| | **A**|Apache|:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS|A-Select Filter...|
 |[https://informatieportaal.justid.nl](https://informatieportaal.justid.nl)| | **A**|Apache|:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS|A-Select Filter...|
 |[https://opendata.justid.nl](https://opendata.justid.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
@@ -40,7 +39,6 @@
 |[https://validatie.justid.nl](https://validatie.justid.nl)| | **C**|nginx|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Bootstrap:5.0.2 Django HSTS Nginx Python|Valideer uw docu...|
 |[https://werkenbij.justid.nl](https://werkenbij.justid.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS|Object moved|
 |[https://werkplek.justid.nl](https://werkplek.justid.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Microsoft ASP.NET||
-|[https://dialin.justid.nl](https://dialin.justid.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://feeds.justid.nl](https://feeds.justid.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://intranet.justid.nl](https://intranet.justid.nl)| | **A**|Apache| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Apache HTTP Server HSTS||
 |[https://iob.justid.nl](https://iob.justid.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Microsoft ASP.NET||

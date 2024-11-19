@@ -8,7 +8,6 @@ geo.hhdelfland.nl
 geoportaalhhd.hhdelfland.nl
 geoapps.hhdelfland.nl
 geoportaaltest.hhdelfland.nl
-geoviewhhd.hhdelfland.nl
 grondwaterportaal-a.hhdelfland.nl
 startstopmelding-a.hhdelfland.nl
 watertoetsportaal-a.hhdelfland.nl

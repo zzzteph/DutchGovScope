@@ -25,8 +25,4 @@ https://transferium-db.politie.nl
 https://transferium-oh.politie.nl
 https://transferium.gslb-trf.politie.nl
 https://transferium.politie.nl
-https://dav.enlets.politie.nl
-https://chat.enlets.politie.nl
-https://push.enlets.politie.nl
-https://api.enlets.politie.nl
 https://mdc-ras-01.politie.nl

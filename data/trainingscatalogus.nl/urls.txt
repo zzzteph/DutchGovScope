@@ -103,3 +103,4 @@ https://rabobank.trainingscatalogus.nl
 https://rbo.trainingscatalogus.nl
 https://stedin.trainingscatalogus.nl
 https://ftp.trainingscatalogus.nl
+https://sectest.trainingscatalogus.nl

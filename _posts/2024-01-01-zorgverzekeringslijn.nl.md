@@ -2,11 +2,11 @@
 layout: default
 title: "zorgverzekeringslijn.nl"
 permalink: "/dutchgov/zorgverzekeringslijn.nl.html"
-subdomains_count: 15
-urls_count: 15
+subdomains_count: 16
+urls_count: 16
 ssl_rank: 
 http_rank: D
-security_txt: 2
+security_txt: 3
 url_link: /data/zorgverzekeringslijn.nl/urls.txt
 subdomains_link: /data/zorgverzekeringslijn.nl/subdomains.txt
 categories: dutchgov
@@ -20,13 +20,13 @@ tags: dutchgov
 
  - **SSL Grade**:
  - **HTTP Security Grade**:D
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:2
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:3
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/zorgverzekeringslijn.nl/subdomains.txt)|15|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/zorgverzekeringslijn.nl/urls.txt)|15|Urls|
+|[subdomains.txt](/DutchGovScope/data/zorgverzekeringslijn.nl/subdomains.txt)|16|Alive subdomains|
+|[urls.txt](/DutchGovScope/data/zorgverzekeringslijn.nl/urls.txt)|16|Urls|
 
 
 ## Statistics
@@ -36,6 +36,7 @@ tags: dutchgov
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[https://pv.zorgverzekeringslijn.nl](https://pv.zorgverzekeringslijn.nl)| | **A**|nginx| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://test.zorgverzekeringslijn.nl](https://test.zorgverzekeringslijn.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server Basic|401 Unauthorized|
+|[https://www.zorgverzekeringslijn.nl](https://www.zorgverzekeringslijn.nl)| | **A**|Apache| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Apache HTTP Server Google Tag Manager HSTS MySQL PHP WordPress:6.6.2 Yoast SEO:23.7|Zorgverzekerings...|
 |[https://test.trainingen.zorgverzekeringslijn.nl](https://test.trainingen.zorgverzekeringslijn.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Nginx|Redirecting to h...|
 |[https://trainingen.zorgverzekeringslijn.nl](https://trainingen.zorgverzekeringslijn.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Nginx|Redirecting to h...|
 |[https://zorgverzekeringslijn.nl](https://zorgverzekeringslijn.nl)| | **A**|Apache| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Apache HTTP Server HSTS|301 Moved Perman...|

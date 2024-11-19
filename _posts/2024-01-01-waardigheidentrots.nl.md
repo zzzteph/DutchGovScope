@@ -42,6 +42,6 @@ tags: dutchgov
 |[https://www.waardigheidentrots.nl](https://www.waardigheidentrots.nl)| | **B**||:warning: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Azure Azure Front Door Google Tag Manager HSTS Microsoft ASP.NET|Waardigheid en t...|
 |[https://portaal.waardigheidentrots.nl](https://portaal.waardigheidentrots.nl)| | **C**|Microsoft-IIS/10.0|:white_check_mark: |:white_check_mark: | | |:warning: | | | :white_check_mark: | |Azure HSTS IIS:10.0 Microsoft ASP.NET Windows Server|Waardigheid en t...|
 |[https://api.waardigheidentrots.nl](https://api.waardigheidentrots.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Web App - Unavai...|
-|[https://cms.waardigheidentrots.nl](https://cms.waardigheidentrots.nl)| | **F**||:white_check_mark: | | :warning:| | | | | :white_check_mark: | |Azure||
+|[https://cms.waardigheidentrots.nl](https://cms.waardigheidentrots.nl)| | **F**|Microsoft-IIS/10.0|:white_check_mark: | | :warning:| | | | | :white_check_mark: | |Azure IIS:10.0 Windows Server|Runtime Error|
 
 

@@ -11,8 +11,8 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/rws.nl/subdomains.txt)|167|Alive subdomains|
-|[urls.txt](/data/rws.nl/urls.txt)|164|Urls|
+|[subdomains.txt](/data/rws.nl/subdomains.txt)|168|Alive subdomains|
+|[urls.txt](/data/rws.nl/urls.txt)|165|Urls|
 
 
 ## Statistics
@@ -114,6 +114,7 @@
 |[http://prs.rws.nl](http://prs.rws.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://ptp.acc-inloggen.rws.nl](https://ptp.acc-inloggen.rws.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS Pulse Secure||
 |[https://ptp.inloggen.rws.nl](https://ptp.inloggen.rws.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS Pulse Secure||
+|[https://rastoken.rws.nl](https://rastoken.rws.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Oracle Dynamic Monitoring Service Oracle WebLogic Server|302 Moved Tempor...|
 |[https://rhel8.wabinfo.rws.nl](https://rhel8.wabinfo.rws.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://wabinfo.rws.nl](https://wabinfo.rws.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://rws.nl](https://rws.nl)| | **C**|Microsoft-Azure-Application-Gateway/v2|:warning: |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | ||301 Moved Perman...|

@@ -61,7 +61,6 @@ http://draf-acpt.brabant.nl
 https://draf.brabant.nl
 https://esb-test.brabant.nl
 https://opendata.brabant.nl
-https://samenwerken.brabant.nl
 https://facilitor.brabant.nl
 https://kaartbank.brabant.nl
 https://kaarten.brabant.nl

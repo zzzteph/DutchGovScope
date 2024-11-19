@@ -91,11 +91,11 @@ inspectie-oe.databank.nl
 www.nederlandschoon.databank.nl
 stap.databank.nl
 www.gip.databank.nl
-www.ivm11.databank.nl
-live-waves.databank.nl
-holland-rijnland.databank.nl
-test-prognosemodelzw.databank.nl
-wsjg.databank.nl
 bvz-waves.databank.nl
 overijssel.databank.nl
 www.veiligheidsmonitor.databank.nl
+ibw.databank.nl
+www.senternovum.databank.nl
+www.openbaar.waves.databank.nl
+www.overijssel.databank.nl
+berst.databank.nl

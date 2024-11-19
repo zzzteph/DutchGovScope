@@ -12,7 +12,7 @@
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/biedboek.nl/subdomains.txt)|11|Alive subdomains|
-|[urls.txt](/data/biedboek.nl/urls.txt)|10|Urls|
+|[urls.txt](/data/biedboek.nl/urls.txt)|11|Urls|
 
 
 ## Statistics
@@ -30,5 +30,6 @@
 |[https://enterpriseregistration.biedboek.nl](https://enterpriseregistration.biedboek.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[http://localhost.biedboek.nl](http://localhost.biedboek.nl)| | **F**|nginx|:o: | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Laravel Nginx PHP|Weakpass|
 |[https://msoid.biedboek.nl](https://msoid.biedboek.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Object moved|
+|[https://enterpriseenrollment.biedboek.nl](https://enterpriseenrollment.biedboek.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||
 
 

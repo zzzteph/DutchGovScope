@@ -11,7 +11,7 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/nwo.nl/subdomains.txt)|20|Alive subdomains|
+|[subdomains.txt](/data/nwo.nl/subdomains.txt)|21|Alive subdomains|
 |[urls.txt](/data/nwo.nl/urls.txt)|20|Urls|
 
 

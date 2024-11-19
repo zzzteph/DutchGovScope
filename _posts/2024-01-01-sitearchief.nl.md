@@ -2,11 +2,11 @@
 layout: default
 title: "sitearchief.nl"
 permalink: "/dutchgov/sitearchief.nl.html"
-subdomains_count: 87
-urls_count: 73
+subdomains_count: 88
+urls_count: 87
 ssl_rank: 
-http_rank: B
-security_txt: 42
+http_rank: A
+security_txt: 56
 url_link: /data/sitearchief.nl/urls.txt
 subdomains_link: /data/sitearchief.nl/subdomains.txt
 categories: dutchgov
@@ -19,14 +19,14 @@ tags: dutchgov
 
 
  - **SSL Grade**:
- - **HTTP Security Grade**:B
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:42
+ - **HTTP Security Grade**:A
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:56
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/sitearchief.nl/subdomains.txt)|87|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/sitearchief.nl/urls.txt)|73|Urls|
+|[subdomains.txt](/DutchGovScope/data/sitearchief.nl/subdomains.txt)|88|Alive subdomains|
+|[urls.txt](/DutchGovScope/data/sitearchief.nl/urls.txt)|87|Urls|
 
 
 ## Statistics
@@ -102,10 +102,24 @@ tags: dutchgov
 |[https://om.sitearchief.nl](https://om.sitearchief.nl)| | **A**|nginx|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx|Sitearchief - Op...|
 |[https://archief51.sitearchief.nl](https://archief51.sitearchief.nl)| | **B**|nginx/1.27.1| |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | |HSTS Nginx:1.27.1|HTTP Status 404...|
 |[https://www.sitearchief.nl](https://www.sitearchief.nl)| | **C**|nginx|:white_check_mark: |:white_check_mark: | :warning:| | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS MySQL Nginx PHP WordPress|Overzicht Sitear...|
+|[https://minszw.sitearchief.nl](https://minszw.sitearchief.nl)| | **A**|nginx|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx|Sitearchief - Mi...|
+|[https://emissieautoriteit.sitearchief.nl](https://emissieautoriteit.sitearchief.nl)| | **A**|nginx|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx|Sitearchief - Em...|
 |[https://archief46.sitearchief.nl](https://archief46.sitearchief.nl)| | **B**|nginx/1.27.1| |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | |HSTS Nginx:1.27.1|HTTP Status 404...|
+|[https://tweedekamer.sitearchief.nl](https://tweedekamer.sitearchief.nl)| | **A**|nginx|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx|Sitearchief - Tw...|
+|[https://cjib.sitearchief.nl](https://cjib.sitearchief.nl)| | **A**|nginx|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx|Sitearchief - CJ...|
+|[https://douane.sitearchief.nl](https://douane.sitearchief.nl)| | **A**|nginx|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx|Sitearchief - Do...|
+|[https://cak.sitearchief.nl](https://cak.sitearchief.nl)| | **A**|nginx|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx|Sitearchief - CA...|
+|[https://ciz.sitearchief.nl](https://ciz.sitearchief.nl)| | **A**|nginx|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx|Sitearchief - CI...|
+|[https://svb.sitearchief.nl](https://svb.sitearchief.nl)| | **A**|nginx|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx|Sitearchief - SV...|
+|[https://cbr.sitearchief.nl](https://cbr.sitearchief.nl)| | **A**|nginx|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx|Sitearchief - CB...|
+|[https://dji.sitearchief.nl](https://dji.sitearchief.nl)| | **A**|nginx|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx|Sitearchief - Di...|
+|[https://cpb.sitearchief.nl](https://cpb.sitearchief.nl)| | **A**|nginx|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx|Sitearchief - CP...|
 |[https://deeplink.sitearchief.nl](https://deeplink.sitearchief.nl)| | **F**|nginx/1.27.1| | | | | | | | :white_check_mark: | |Nginx:1.27.1||
+|[https://eerstekamer.sitearchief.nl](https://eerstekamer.sitearchief.nl)| | **A**|nginx|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx|Sitearchief - Ee...|
 |[https://rekenkamer.sitearchief.nl](https://rekenkamer.sitearchief.nl)| | **A**|nginx|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx|Sitearchief - Re...|
 |[https://scp.sitearchief.nl](https://scp.sitearchief.nl)| | **A**|nginx|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx|Sitearchief - So...|
+|[https://meldkamer.sitearchief.nl](https://meldkamer.sitearchief.nl)| | **A**|nginx|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx|Sitearchief - Me...|
+|[https://politie.sitearchief.nl](https://politie.sitearchief.nl)| | **A**|nginx|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx|Sitearchief - Po...|
 |[https://overzicht.sitearchief.nl](https://overzicht.sitearchief.nl)| | **C**|nginx|:white_check_mark: |:white_check_mark: | :warning:| | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS MySQL Nginx PHP WordPress|Overzicht Sitear...|
 
 

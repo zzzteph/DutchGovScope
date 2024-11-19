@@ -82,6 +82,7 @@ deeplink.sitearchief.nl
 eerstekamer.sitearchief.nl
 rekenkamer.sitearchief.nl
 scp.sitearchief.nl
+kadaster.sitearchief.nl
 meldkamer.sitearchief.nl
 politie.sitearchief.nl
 overzicht.sitearchief.nl

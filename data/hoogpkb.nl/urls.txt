@@ -1,3 +1,7 @@
 https://aanvraag.hoogpkb.nl
 https://hoogpkb.nl
 https://www.hoogpkb.nl
+https://ftp.hoogpkb.nl
+http://autodiscover.hoogpkb.nl
+https://enterpriseenrollment.hoogpkb.nl
+https://enterpriseregistration.hoogpkb.nl

@@ -12,7 +12,7 @@
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/logius.nl/subdomains.txt)|60|Alive subdomains|
-|[urls.txt](/data/logius.nl/urls.txt)|59|Urls|
+|[urls.txt](/data/logius.nl/urls.txt)|60|Urls|
 
 
 ## Statistics
@@ -79,5 +79,6 @@
 |[https://beheerportaal.digipoort.logius.nl](https://beheerportaal.digipoort.logius.nl)| | **C**||:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|503 Service Temp...|
 |[https://gebruikersportaal-duo.digipoort.logius.nl](https://gebruikersportaal-duo.digipoort.logius.nl)| | **C**||:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|503 Service Temp...|
 |[https://gebruikersportaal.digipoort.logius.nl](https://gebruikersportaal.digipoort.logius.nl)| | **C**||:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|503 Service Temp...|
+|[https://gebruikersportaal-sbr.digipoort.logius.nl](https://gebruikersportaal-sbr.digipoort.logius.nl)| | **C**||:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|503 Service Temp...|
 
 

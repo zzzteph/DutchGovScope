@@ -11,3 +11,6 @@ https://rd.odijmond.nl
 https://rdgw.odijmond.nl
 https://vpn.odijmond.nl
 http://localhost.odijmond.nl
+https://dusk-open-wave.odijmond.nl
+https://dusk-acc-open-wave.odijmond.nl
+https://db.open-wave.odijmond.nl

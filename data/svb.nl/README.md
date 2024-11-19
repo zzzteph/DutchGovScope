@@ -72,7 +72,7 @@
 |[https://events.svb.nl](https://events.svb.nl)| | **A**||:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Amazon S3 Amazon Web Services HSTS||
 |[https://mft-prd.svb.nl](https://mft-prd.svb.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Redirect|
 |[https://rdsapplications00.svb.nl](https://rdsapplications00.svb.nl)| | **F**|Microsoft-IIS/10.0| | | | | | | | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server|IIS Windows Serv...|
-|[https://canary-svb.svb.nl](https://canary-svb.svb.nl)| | **B**|nginx/1.24.0 (Ubuntu)| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS Nginx:1.24.0 Ubuntu||
+|[https://canary-svb.svb.nl](https://canary-svb.svb.nl)| | **B**|nginx/1.24.0 (Ubuntu)|:warning: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS Nginx:1.24.0 Ubuntu||
 |[https://kennisbank.svb.nl](https://kennisbank.svb.nl)| | **E**|BigIP|:white_check_mark: |:white_check_mark: | :warning:| | | | | :white_check_mark: | |F5 BigIP HSTS||
 |[https://enterpriseregistration.svb.nl](https://enterpriseregistration.svb.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://enterpriseenrollment.svb.nl](https://enterpriseenrollment.svb.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||

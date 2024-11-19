@@ -5,9 +5,9 @@ https://testbegrippen.hdsr.nl
 https://testkennis.hdsr.nl
 https://cawfirewall.hdsr.nl
 https://cawuitwijkfirewall.hdsr.nl
-https://uconnect-acc.hdsr.nl
 https://uconnect.hdsr.nl
 https://webdiensten.hdsr.nl
+https://webservices.hdsr.nl
 https://geoservices.hdsr.nl
 https://kaarten.hdsr.nl
 https://hdsr.nl

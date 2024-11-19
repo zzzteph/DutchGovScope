@@ -11,7 +11,7 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/datawonen.nl/subdomains.txt)|13|Alive subdomains|
+|[subdomains.txt](/data/datawonen.nl/subdomains.txt)|14|Alive subdomains|
 |[urls.txt](/data/datawonen.nl/urls.txt)|13|Urls|
 
 

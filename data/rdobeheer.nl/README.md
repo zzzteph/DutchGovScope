@@ -11,7 +11,7 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/rdobeheer.nl/subdomains.txt)|65|Alive subdomains|
+|[subdomains.txt](/data/rdobeheer.nl/subdomains.txt)|69|Alive subdomains|
 |[urls.txt](/data/rdobeheer.nl/urls.txt)|65|Urls|
 
 

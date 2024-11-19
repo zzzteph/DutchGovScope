@@ -11,7 +11,7 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/rijkswaterstaat.nl/subdomains.txt)|86|Alive subdomains|
+|[subdomains.txt](/data/rijkswaterstaat.nl/subdomains.txt)|87|Alive subdomains|
 |[urls.txt](/data/rijkswaterstaat.nl/urls.txt)|85|Urls|
 
 

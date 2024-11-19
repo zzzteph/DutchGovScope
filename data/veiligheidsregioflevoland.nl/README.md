@@ -5,14 +5,14 @@
 
 
  - **SSL Grade**:
- - **HTTP Security Grade**:D
+ - **HTTP Security Grade**:C
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:2
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/veiligheidsregioflevoland.nl/subdomains.txt)|12|Alive subdomains|
-|[urls.txt](/data/veiligheidsregioflevoland.nl/urls.txt)|12|Urls|
+|[subdomains.txt](/data/veiligheidsregioflevoland.nl/subdomains.txt)|11|Alive subdomains|
+|[urls.txt](/data/veiligheidsregioflevoland.nl/urls.txt)|9|Urls|
 
 
 ## Statistics
@@ -28,9 +28,6 @@
 |[http://autodiscover.veiligheidsregioflevoland.nl](http://autodiscover.veiligheidsregioflevoland.nl)| | **C**|Microsoft-IIS/10.0| |:white_check_mark: | | | | | | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server||
 |[https://enterpriseenrollment.veiligheidsregioflevoland.nl](https://enterpriseenrollment.veiligheidsregioflevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||
 |[https://enterpriseregistration.veiligheidsregioflevoland.nl](https://enterpriseregistration.veiligheidsregioflevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
-|[http://3dgames.veiligheidsregioflevoland.nl](http://3dgames.veiligheidsregioflevoland.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
-|[http://dept.veiligheidsregioflevoland.nl](http://dept.veiligheidsregioflevoland.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
-|[http://subaruvelgen.veiligheidsregioflevoland.nl](http://subaruvelgen.veiligheidsregioflevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://msoid.veiligheidsregioflevoland.nl](https://msoid.veiligheidsregioflevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Object moved|
 
 

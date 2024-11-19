@@ -11,7 +11,7 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/bdmuseum.nl/subdomains.txt)|4|Alive subdomains|
+|[subdomains.txt](/data/bdmuseum.nl/subdomains.txt)|5|Alive subdomains|
 |[urls.txt](/data/bdmuseum.nl/urls.txt)|4|Urls|
 
 

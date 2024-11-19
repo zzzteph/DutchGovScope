@@ -6,7 +6,7 @@
 
  - **SSL Grade**:
  - **HTTP Security Grade**:B
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:55
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:53
 
 
 | File       | Count | Info |
@@ -111,8 +111,8 @@
 |[https://rabobank.databank.nl](https://rabobank.databank.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Amazon S3 Amazon Web Services Azure Edge Network HSTS Microsoft ASP.NET MyFonts|Rabobankmonitor|
 |[https://inspectie-oe.databank.nl](https://inspectie-oe.databank.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Amazon S3 Amazon Web Services Azure Edge Network HSTS Microsoft ASP.NET MyFonts|Home | Monitor I...|
 |[https://www.nederlandschoon.databank.nl](https://www.nederlandschoon.databank.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Document Moved|
-|[https://www.ivm11.databank.nl](https://www.ivm11.databank.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Document Moved|
-|[https://test-prognosemodelzw.databank.nl](https://test-prognosemodelzw.databank.nl)| | **A**||:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET|Home | Prognosem...|
-|[https://wsjg.databank.nl](https://wsjg.databank.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET|Document Moved|
+|[https://bvz-waves.databank.nl](https://bvz-waves.databank.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET|Document Moved|
+|[https://overijssel.databank.nl](https://overijssel.databank.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Amazon S3 Amazon Web Services Azure Edge Network HSTS Microsoft ASP.NET MyFonts|Databank Overijs...|
+|[https://www.veiligheidsmonitor.databank.nl](https://www.veiligheidsmonitor.databank.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Document Moved|
 
 

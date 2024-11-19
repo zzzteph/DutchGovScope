@@ -2,7 +2,7 @@
 layout: default
 title: "investinholland.com"
 permalink: "/dutchgov/investinholland.com.html"
-subdomains_count: 17
+subdomains_count: 18
 urls_count: 17
 ssl_rank: 
 http_rank: D
@@ -25,7 +25,7 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/investinholland.com/subdomains.txt)|17|Alive subdomains|
+|[subdomains.txt](/DutchGovScope/data/investinholland.com/subdomains.txt)|18|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/investinholland.com/urls.txt)|17|Urls|
 
 

@@ -6,13 +6,13 @@
 
  - **SSL Grade**:
  - **HTTP Security Grade**:A
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:2
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:5
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/minez.nl/subdomains.txt)|13|Alive subdomains|
-|[urls.txt](/data/minez.nl/urls.txt)|13|Urls|
+|[subdomains.txt](/data/minez.nl/subdomains.txt)|16|Alive subdomains|
+|[urls.txt](/data/minez.nl/urls.txt)|16|Urls|
 
 
 ## Statistics
@@ -29,8 +29,11 @@
 |[https://eidasmw-acc.minez.nl](https://eidasmw-acc.minez.nl)| | **A**||:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://eidasmw-tst.minez.nl](https://eidasmw-tst.minez.nl)| | **A**||:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Index.html|
 |[https://eidasmw.minez.nl](https://eidasmw.minez.nl)| | **A**||:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
+|[https://ibabs.minez.nl](https://ibabs.minez.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET||
+|[https://pmt.minez.nl](https://pmt.minez.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET||
 |[https://www.minez.nl](https://www.minez.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://minez.nl](https://minez.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
+|[https://pmt-acc.minez.nl](https://pmt-acc.minez.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET||
 |[http://upeu.minez.nl](http://upeu.minez.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://vws-demo.minez.nl](https://vws-demo.minez.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 

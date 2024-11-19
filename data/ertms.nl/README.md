@@ -12,7 +12,7 @@
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/ertms.nl/subdomains.txt)|64|Alive subdomains|
-|[urls.txt](/data/ertms.nl/urls.txt)|39|Urls|
+|[urls.txt](/data/ertms.nl/urls.txt)|64|Urls|
 
 
 ## Statistics
@@ -59,5 +59,30 @@
 |[https://workflows.ertms.nl](https://workflows.ertms.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Object moved|
 |[https://janlinders.ertms.nl](https://janlinders.ertms.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Object moved|
 |[http://elink.ertms.nl](http://elink.ertms.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
+|[https://1949reviews.ertms.nl](https://1949reviews.ertms.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Object moved|
+|[https://automatic-backlinks.ertms.nl](https://automatic-backlinks.ertms.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Object moved|
+|[https://allex.ertms.nl](https://allex.ertms.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Object moved|
+|[https://avus.ertms.nl](https://avus.ertms.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Object moved|
+|[https://dev.marketplace.ertms.nl](https://dev.marketplace.ertms.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Object moved|
+|[https://vp.ertms.nl](https://vp.ertms.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Object moved|
+|[https://kunlun.ertms.nl](https://kunlun.ertms.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Object moved|
+|[https://sdsu.ertms.nl](https://sdsu.ertms.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Object moved|
+|[https://web5551.ertms.nl](https://web5551.ertms.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Object moved|
+|[https://free2.ertms.nl](https://free2.ertms.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Object moved|
+|[https://plone.ertms.nl](https://plone.ertms.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Object moved|
+|[https://krimi.ertms.nl](https://krimi.ertms.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Object moved|
+|[https://coes.ertms.nl](https://coes.ertms.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Object moved|
+|[https://liveherpesvaccine.files.ertms.nl](https://liveherpesvaccine.files.ertms.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Object moved|
+|[https://work1.ertms.nl](https://work1.ertms.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Object moved|
+|[https://edms.ertms.nl](https://edms.ertms.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Object moved|
+|[https://veres.ertms.nl](https://veres.ertms.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Object moved|
+|[https://edy.ertms.nl](https://edy.ertms.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Object moved|
+|[https://samms.ertms.nl](https://samms.ertms.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Object moved|
+|[https://digital-dev.ertms.nl](https://digital-dev.ertms.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Object moved|
+|[https://cnvpn.ertms.nl](https://cnvpn.ertms.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Object moved|
+|[https://aankoopmakelaar.ertms.nl](https://aankoopmakelaar.ertms.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Object moved|
+|[https://admin.api.ertms.nl](https://admin.api.ertms.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Object moved|
+|[https://handbags.ertms.nl](https://handbags.ertms.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Object moved|
+|[https://desktop4.ertms.nl](https://desktop4.ertms.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Object moved|
 
 

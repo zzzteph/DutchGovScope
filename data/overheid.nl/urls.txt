@@ -31,7 +31,6 @@ https://treatydatabase.overheid.nl
 https://api.mijn.overheid.nl
 https://api.preprod.mijn.overheid.nl
 https://gegevensdelen.preprod.mijn.overheid.nl
-https://artifact-rd1.toegang.overheid.nl
 https://bag.basisregistraties.overheid.nl
 https://bag.test.basisregistraties.overheid.nl
 https://bag2.basisregistraties.overheid.nl
@@ -224,7 +223,6 @@ https://wetgevingskalender-acc.overheid.nl
 https://pdc.acc.omgevingswet.overheid.nl
 https://pdc.omgevingswet.overheid.nl
 https://plan-plan-validatie.pre.omgevingswet.overheid.nl
-https://pp1.toegang.overheid.nl
 https://puc-acc.overheid.nl
 https://puc-redactie-acc.overheid.nl
 https://puc-redactie.overheid.nl

@@ -14,4 +14,3 @@ localhost.odijmond.nl
 dusk-open-wave.odijmond.nl
 dusk-acc-open-wave.odijmond.nl
 db.open-wave.odijmond.nl
-jointest.odijmond.nl

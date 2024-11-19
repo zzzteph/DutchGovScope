@@ -3,10 +3,10 @@ layout: default
 title: "zwemwater.nl"
 permalink: "/dutchgov/zwemwater.nl.html"
 subdomains_count: 21
-urls_count: 20
+urls_count: 21
 ssl_rank: 
 http_rank: D
-security_txt: 7
+security_txt: 8
 url_link: /data/zwemwater.nl/urls.txt
 subdomains_link: /data/zwemwater.nl/subdomains.txt
 categories: dutchgov
@@ -20,13 +20,13 @@ tags: dutchgov
 
  - **SSL Grade**:
  - **HTTP Security Grade**:D
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:7
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:8
 
 
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/DutchGovScope/data/zwemwater.nl/subdomains.txt)|21|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/zwemwater.nl/urls.txt)|20|Urls|
+|[urls.txt](/DutchGovScope/data/zwemwater.nl/urls.txt)|21|Urls|
 
 
 ## Statistics
@@ -54,5 +54,6 @@ tags: dutchgov
 |[https://inspiregeo.zwemwater.nl](https://inspiregeo.zwemwater.nl)| | **B**|Apache| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS||
 |[https://zwemlocatieswww.zwemwater.nl](https://zwemlocatieswww.zwemwater.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
 |[https://9986734www.zwemwater.nl](https://9986734www.zwemwater.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
+|[https://register.zwemwater.nl](https://register.zwemwater.nl)| | **B**|Apache|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
 
 

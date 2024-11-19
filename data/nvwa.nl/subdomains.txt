@@ -22,6 +22,7 @@ ivo.nvwa.nl
 iwelcome-preprod.nvwa.nl
 iwelcome.nvwa.nl
 labvantage-acc.nvwa.nl
+mijn-acc.nvwa.nl
 mijn.nvwa.nl
 ras-acc.nvwa.nl
 www.ras-acc.nvwa.nl

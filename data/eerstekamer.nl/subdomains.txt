@@ -20,3 +20,4 @@ mail.eerstekamer.nl
 piwik.eerstekamer.nl
 liquit.eerstekamer.nl
 enterpriseenrollment.eerstekamer.nl
+sandbox.redactie.eerstekamer.nl

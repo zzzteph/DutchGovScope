@@ -11,8 +11,8 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/provincie-utrecht.nl/subdomains.txt)|97|Alive subdomains|
-|[urls.txt](/data/provincie-utrecht.nl/urls.txt)|95|Urls|
+|[subdomains.txt](/data/provincie-utrecht.nl/subdomains.txt)|96|Alive subdomains|
+|[urls.txt](/data/provincie-utrecht.nl/urls.txt)|94|Urls|
 
 
 ## Statistics
@@ -20,7 +20,6 @@
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://espt.provincie-utrecht.nl](https://espt.provincie-utrecht.nl)| | **C**|Apache| |:white_check_mark: | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|Access Gateway|
 |[https://wortel184.provincie-utrecht.nl](https://wortel184.provincie-utrecht.nl)| | **C**|Apache| |:white_check_mark: | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|Access Gateway|
 |[https://assystnet-test-t.provincie-utrecht.nl](https://assystnet-test-t.provincie-utrecht.nl)| | **B**|Apache|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
 |[https://geo.provincie-utrecht.nl](https://geo.provincie-utrecht.nl)| | **B**|Apache|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|

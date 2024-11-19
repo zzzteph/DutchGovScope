@@ -25,9 +25,4 @@ transferium-db.politie.nl
 transferium-oh.politie.nl
 transferium.gslb-trf.politie.nl
 transferium.politie.nl
-dav.enlets.politie.nl
-chat.enlets.politie.nl
-push.enlets.politie.nl
-api.enlets.politie.nl
 mdc-ras-01.politie.nl
-enlets.politie.nl

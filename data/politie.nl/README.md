@@ -11,8 +11,8 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/politie.nl/subdomains.txt)|33|Alive subdomains|
-|[urls.txt](/data/politie.nl/urls.txt)|32|Urls|
+|[subdomains.txt](/data/politie.nl/subdomains.txt)|28|Alive subdomains|
+|[urls.txt](/data/politie.nl/urls.txt)|28|Urls|
 
 
 ## Statistics
@@ -47,10 +47,6 @@
 |[https://transferium-oh.politie.nl](https://transferium-oh.politie.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS||
 |[https://transferium.gslb-trf.politie.nl](https://transferium.gslb-trf.politie.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||
 |[https://transferium.politie.nl](https://transferium.politie.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS||
-|[https://dav.enlets.politie.nl](https://dav.enlets.politie.nl)| | **A**|| |:white_check_mark: | :warning:| | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS|Internal Server...|
-|[https://chat.enlets.politie.nl](https://chat.enlets.politie.nl)| | **A**|| |:white_check_mark: | :warning:| | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS||
-|[https://push.enlets.politie.nl](https://push.enlets.politie.nl)| | **A**|| |:white_check_mark: | :warning:| | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS|Internal Server...|
-|[https://api.enlets.politie.nl](https://api.enlets.politie.nl)| | **A**|| |:white_check_mark: | :warning:| | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS||
 |[https://mdc-ras-01.politie.nl](https://mdc-ras-01.politie.nl)| | **A**|Apache| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS|User Portal|
 
 

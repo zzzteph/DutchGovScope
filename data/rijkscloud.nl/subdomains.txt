@@ -48,6 +48,7 @@ jupyter.kim.rijkscloud.nl
 jupyter.ritp.rijkscloud.nl
 rstudio.ritp.rijkscloud.nl
 shiny.ritp.rijkscloud.nl
+kibana.anvs-infra.rijkscloud.nl
 mail.rijkscloud.nl
 webmail.rijkscloud.nl
 nc-a.rvb.rijkscloud.nl
@@ -105,3 +106,6 @@ images.analyse.ilt.rijkscloud.nl
 registry.gitlab.analyse.ilt.rijkscloud.nl
 ip4.rijkscloud.nl
 ip6.rijkscloud.nl
+zakelijk.dfront.rijkscloud.nl
+afwijkend-examineren.dfront.rijkscloud.nl
+kpi.dfront.rijkscloud.nl

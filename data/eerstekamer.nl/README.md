@@ -11,7 +11,7 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/eerstekamer.nl/subdomains.txt)|22|Alive subdomains|
+|[subdomains.txt](/data/eerstekamer.nl/subdomains.txt)|23|Alive subdomains|
 |[urls.txt](/data/eerstekamer.nl/urls.txt)|22|Urls|
 
 

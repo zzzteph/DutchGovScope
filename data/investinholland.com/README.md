@@ -11,7 +11,7 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/investinholland.com/subdomains.txt)|17|Alive subdomains|
+|[subdomains.txt](/data/investinholland.com/subdomains.txt)|18|Alive subdomains|
 |[urls.txt](/data/investinholland.com/urls.txt)|17|Urls|
 
 

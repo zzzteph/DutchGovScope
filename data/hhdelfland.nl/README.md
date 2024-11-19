@@ -11,8 +11,8 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/hhdelfland.nl/subdomains.txt)|34|Alive subdomains|
-|[urls.txt](/data/hhdelfland.nl/urls.txt)|34|Urls|
+|[subdomains.txt](/data/hhdelfland.nl/subdomains.txt)|33|Alive subdomains|
+|[urls.txt](/data/hhdelfland.nl/urls.txt)|33|Urls|
 
 
 ## Statistics
@@ -30,7 +30,6 @@
 |[https://geoportaalhhd.hhdelfland.nl](https://geoportaalhhd.hhdelfland.nl)| | **F**|Microsoft-IIS/10.0| | | | | | | | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server|Secure Portal Re...|
 |[https://geoapps.hhdelfland.nl](https://geoapps.hhdelfland.nl)| | **F**|Microsoft-IIS/10.0| | | | | | | | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server|Linkjes naar Ver...|
 |[https://geoportaaltest.hhdelfland.nl](https://geoportaaltest.hhdelfland.nl)| | **F**|Microsoft-IIS/10.0| | | | | | | | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server|Secure Portal Re...|
-|[https://geoviewhhd.hhdelfland.nl](https://geoviewhhd.hhdelfland.nl)| | **F**|Microsoft-IIS/10.0| | | | | | | | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server|GeoWeb Server|
 |[https://grondwaterportaal-a.hhdelfland.nl](https://grondwaterportaal-a.hhdelfland.nl)| | **A**|Microsoft-IIS/10.0| |:white_check_mark: | | | :white_check_mark:| | | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server|Document Moved|
 |[https://startstopmelding-a.hhdelfland.nl](https://startstopmelding-a.hhdelfland.nl)| | **D**|Microsoft-IIS/10.0| | | | | :white_check_mark:| | | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server|403 - Forbidden:...|
 |[https://watertoetsportaal-a.hhdelfland.nl](https://watertoetsportaal-a.hhdelfland.nl)| | **A**|Microsoft-IIS/10.0| |:white_check_mark: | | | :white_check_mark:| | | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server|Document Moved|

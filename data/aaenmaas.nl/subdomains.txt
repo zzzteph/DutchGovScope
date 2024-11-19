@@ -11,6 +11,7 @@ helloid.aaenmaas.nl
 login.aaenmaas.nl
 vpn2.aaenmaas.nl
 sip.aaenmaas.nl
+sharepoint.aaenmaas.nl
 gisservices.aaenmaas.nl
 luchtfoto.aaenmaas.nl
 webgis.aaenmaas.nl

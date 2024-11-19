@@ -58,7 +58,6 @@ ontdek.test.tweedekamer.nl
 tweedekamer.acceptatie.tweedekamer.nl
 tweedekamer.test.tweedekamer.nl
 ext01.videovergaderen.tweedekamer.nl
-sip.videovergaderen.tweedekamer.nl
 files.tweedekamer.nl
 gegevensmagazijn.tweedekamer.nl
 werkenbij.test.tweedekamer.nl
@@ -138,3 +137,4 @@ localhost.tweedekamer.nl
 msoid.tweedekamer.nl
 email.tweedekamer.nl
 b67.tweedekamer.nl
+parlistaweb.tweedekamer.nl

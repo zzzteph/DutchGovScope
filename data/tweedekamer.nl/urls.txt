@@ -57,7 +57,6 @@ https://erelijst.test.tweedekamer.nl
 https://ontdek.test.tweedekamer.nl
 https://tweedekamer.acceptatie.tweedekamer.nl
 https://tweedekamer.test.tweedekamer.nl
-https://sip.videovergaderen.tweedekamer.nl
 https://files.tweedekamer.nl
 https://gegevensmagazijn.tweedekamer.nl
 https://werkenbij.test.tweedekamer.nl

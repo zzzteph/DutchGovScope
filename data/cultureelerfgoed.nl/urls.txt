@@ -35,10 +35,6 @@ https://kennis.cultureelerfgoed.nl
 https://test.kennis-staging.cultureelerfgoed.nl
 https://test.kennis.cultureelerfgoed.nl
 https://wikixl-saml.cultureelerfgoed.nl
-http://lil.cultureelerfgoed.nl
-http://noaa.cultureelerfgoed.nl
-http://pom.cultureelerfgoed.nl
-http://thesaurus.cultureelerfgoed.nl
 https://mass.cultureelerfgoed.nl
 https://monumentenregister.cultureelerfgoed.nl
 https://www.monumentenregister.cultureelerfgoed.nl

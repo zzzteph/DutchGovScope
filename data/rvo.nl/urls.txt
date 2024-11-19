@@ -67,7 +67,6 @@ https://networkabroad.rvo.nl
 https://offshorewind.rvo.nl
 https://sharingknowledge.rvo.nl
 http://epbdwebservices-preprod.rvo.nl
-https://epbdwebservices.rvo.nl
 http://gbatmv.rvo.nl
 https://gdi-a.rvo.nl
 https://geocontent.rvo.nl
@@ -76,6 +75,8 @@ https://gtpa-acc.rvo.nl
 https://gtpa.rvo.nl
 https://infographics.rvo.nl
 https://www.infographics.rvo.nl
+https://intra-acc.rvo.nl
+https://intra-cms-acc.rvo.nl
 https://intra-cms.rvo.nl
 https://intra.rvo.nl
 https://jiraimg-acc.rvo.nl

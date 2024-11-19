@@ -67,7 +67,6 @@ networkabroad.rvo.nl
 offshorewind.rvo.nl
 sharingknowledge.rvo.nl
 epbdwebservices-preprod.rvo.nl
-epbdwebservices.rvo.nl
 gbatmv.rvo.nl
 gdi-a.rvo.nl
 geocontent.rvo.nl
@@ -76,6 +75,8 @@ gtpa-acc.rvo.nl
 gtpa.rvo.nl
 infographics.rvo.nl
 www.infographics.rvo.nl
+intra-acc.rvo.nl
+intra-cms-acc.rvo.nl
 intra-cms.rvo.nl
 intra.rvo.nl
 jiraimg-acc.rvo.nl
@@ -113,5 +114,7 @@ rhel-p-mijn.rvo.nl
 rhel-np-mijn.rvo.nl
 sandbox.rvo.nl
 redesign.rvo.nl
+auth-edu-iam.mijnoctrooi.mypage.rvo.nl
+edu.mijnoctrooi.mypage.rvo.nl
 english-acc.rvo.nl
 sandbox-cms.rvo.nl

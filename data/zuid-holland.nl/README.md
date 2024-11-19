@@ -11,8 +11,8 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/zuid-holland.nl/subdomains.txt)|76|Alive subdomains|
-|[urls.txt](/data/zuid-holland.nl/urls.txt)|76|Urls|
+|[subdomains.txt](/data/zuid-holland.nl/subdomains.txt)|75|Alive subdomains|
+|[urls.txt](/data/zuid-holland.nl/urls.txt)|75|Urls|
 
 
 ## Statistics
@@ -59,7 +59,6 @@
 |[https://magazine.zuid-holland.nl](https://magazine.zuid-holland.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Google Cloud Google Cloud CDN HSTS HTTP/3||
 |[https://jaaroverzichtcommissarisvandekoning2020.zuid-holland.nl](https://jaaroverzichtcommissarisvandekoning2020.zuid-holland.nl)| | **B**|Apache| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server Drupal:8 HSTS PHP|Jaaroverzicht Co...|
 |[https://jaaroverzichtcommissarisvandekoning2018.zuid-holland.nl](https://jaaroverzichtcommissarisvandekoning2018.zuid-holland.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server Drupal:8 HSTS PHP|Jaaroverzicht Co...|
-|[https://jaaroverzichtcommissarisvandekoning2019.zuid-holland.nl](https://jaaroverzichtcommissarisvandekoning2019.zuid-holland.nl)| | **B**|Apache| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server Drupal:8 HSTS PHP|Jaaroverzicht Co...|
 |[https://jaaroverzichtcommissarisvandekoning2021.zuid-holland.nl](https://jaaroverzichtcommissarisvandekoning2021.zuid-holland.nl)| | **B**|Apache| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server Drupal:9 HSTS PHP|Jaaroverzicht Co...|
 |[https://lta.zuid-holland.nl](https://lta.zuid-holland.nl)| | **E**|gunicorn| | | | | | :white_check_mark: | | :white_check_mark: | |Python gunicorn|Lange Termijn Ag...|
 |[https://monitor-klimaatadaptatie.zuid-holland.nl](https://monitor-klimaatadaptatie.zuid-holland.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| | | :white_check_mark: | |HSTS|Monitor Klimaat...|

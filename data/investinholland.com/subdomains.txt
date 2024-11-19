@@ -15,3 +15,4 @@ dev.investinholland.com
 taiwan.investinholland.com
 bak-jp.investinholland.com
 localhost.investinholland.com
+autodiscover.investinholland.com

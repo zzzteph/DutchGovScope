@@ -11,8 +11,8 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/overheid.nl/subdomains.txt)|312|Alive subdomains|
-|[urls.txt](/data/overheid.nl/urls.txt)|312|Urls|
+|[subdomains.txt](/data/overheid.nl/subdomains.txt)|311|Alive subdomains|
+|[urls.txt](/data/overheid.nl/urls.txt)|310|Urls|
 
 
 ## Statistics
@@ -53,7 +53,6 @@
 |[https://api.mijn.overheid.nl](https://api.mijn.overheid.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |HSTS Nginx|400 No required...|
 |[https://api.preprod.mijn.overheid.nl](https://api.preprod.mijn.overheid.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |HSTS Nginx|400 No required...|
 |[https://gegevensdelen.preprod.mijn.overheid.nl](https://gegevensdelen.preprod.mijn.overheid.nl)| | **A**|nginx| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx Vue.js|Gegevens delen v...|
-|[https://artifact-rd1.toegang.overheid.nl](https://artifact-rd1.toegang.overheid.nl)| | **F**|Ponos Maximum| | | | | | | | :white_check_mark: | |HSTS|418 I'm a teapot|
 |[https://bag.basisregistraties.overheid.nl](https://bag.basisregistraties.overheid.nl)| | **A**|unspecified|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Java|Home - BAG|
 |[https://bag.test.basisregistraties.overheid.nl](https://bag.test.basisregistraties.overheid.nl)| | **A**|Unspecified|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Java|Home - BAG|
 |[https://bag2.basisregistraties.overheid.nl](https://bag2.basisregistraties.overheid.nl)| | **C**|unspecified| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|Kadaster - Pagin...|
@@ -246,7 +245,6 @@
 |[https://pdc.acc.omgevingswet.overheid.nl](https://pdc.acc.omgevingswet.overheid.nl)| | **F**|Unspecified| | | | | | | | :white_check_mark: | |HSTS|Kadaster - Pagin...|
 |[https://pdc.omgevingswet.overheid.nl](https://pdc.omgevingswet.overheid.nl)| | **C**|unspecified| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
 |[https://plan-plan-validatie.pre.omgevingswet.overheid.nl](https://plan-plan-validatie.pre.omgevingswet.overheid.nl)| | **A**||:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |Bootstrap:4.0.0 HSTS|DSO Plan-Plan va...|
-|[https://pp1.toegang.overheid.nl](https://pp1.toegang.overheid.nl)| | **E**|| | | | | | | | :white_check_mark: | |Bootstrap:1.13.18 HSTS|No Access! / Gee...|
 |[https://puc-acc.overheid.nl](https://puc-acc.overheid.nl)| | **B**|Microsoft-IIS/10.0| |:white_check_mark: | | |:warning: | | | :white_check_mark: | |HSTS IIS:10.0 Microsoft ASP.NET Windows Server|401 - Unauthoriz...|
 |[https://puc-redactie-acc.overheid.nl](https://puc-redactie-acc.overheid.nl)| | **A**|Microsoft-IIS/10.0| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS IIS:10.0 Microsoft ASP.NET Windows Server|403 - Forbidden:...|
 |[https://puc-redactie.overheid.nl](https://puc-redactie.overheid.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET|PUC Open Data|

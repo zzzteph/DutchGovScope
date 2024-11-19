@@ -11,7 +11,7 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/nlflag.nl/subdomains.txt)|2|Alive subdomains|
+|[subdomains.txt](/data/nlflag.nl/subdomains.txt)|4|Alive subdomains|
 |[urls.txt](/data/nlflag.nl/urls.txt)|2|Urls|
 
 
