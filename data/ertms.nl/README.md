@@ -11,7 +11,7 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/ertms.nl/subdomains.txt)|64|Alive subdomains|
+|[subdomains.txt](/data/ertms.nl/subdomains.txt)|80|Alive subdomains|
 |[urls.txt](/data/ertms.nl/urls.txt)|64|Urls|
 
 

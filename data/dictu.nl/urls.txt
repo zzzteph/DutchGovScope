@@ -6,7 +6,6 @@ https://acc.gisextern.dictu.nl
 https://test.intranet-demo.dictu.nl
 https://acc.intranet-demo.dictu.nl
 https://acc.rd.dictu.nl
-https://apps.dictu.nl
 https://auth-acc.dictu.nl
 https://auth.dictu.nl
 https://auth20.dictu.nl
@@ -37,7 +36,6 @@ http://iltbuildserver.dictu.nl
 https://mailing.dictu.nl
 https://mft.webftp.dictu.nl
 https://mijntoken.dictu.nl
-https://pms-acc.dictu.nl
 https://procesweb-test.dictu.nl
 https://procesweb.dictu.nl
 https://sfs-acc.dictu.nl

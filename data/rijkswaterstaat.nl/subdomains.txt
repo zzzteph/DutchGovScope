@@ -29,11 +29,13 @@ static.live.werkenbij.rijkswaterstaat.nl
 static.staging.rijkswaterstaat.nl
 www.rijkswaterstaat.nl
 rijkswaterstaat.nl
+bezoekerscentrum.rijkswaterstaat.nl
+test.bezoekerscentrum.rijkswaterstaat.nl
+www.bezoekerscentrum.rijkswaterstaat.nl
 bmm2016.rijkswaterstaat.nl
 botova.rijkswaterstaat.nl
 crisiswerkplek.rijkswaterstaat.nl
 data-acc.rijkswaterstaat.nl
-demo-geoservices.rijkswaterstaat.nl
 esb.rijkswaterstaat.nl
 etl.rijkswaterstaat.nl
 feeds.nieuwsbrieven.rijkswaterstaat.nl

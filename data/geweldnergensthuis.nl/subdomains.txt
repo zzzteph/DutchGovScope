@@ -1,4 +1,2 @@
 geweldnergensthuis.nl
-mail.geweldnergensthuis.nl
 www.geweldnergensthuis.nl
-smtp.geweldnergensthuis.nl

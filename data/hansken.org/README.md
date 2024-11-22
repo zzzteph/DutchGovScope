@@ -5,7 +5,7 @@
 
 
  - **SSL Grade**:
- - **HTTP Security Grade**:C
+ - **HTTP Security Grade**:B
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:4
 
 
@@ -29,8 +29,8 @@
 |[https://training.hansken.org](https://training.hansken.org)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|Hansken UI|
 |[https://hansken.org](https://hansken.org)| | **A**|Apache| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server|302 Found|
 |[https://www.hansken.org](https://www.hansken.org)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|302 Found|
-|[http://lea-registry.hansken.org](http://lea-registry.hansken.org)| | **E**|| | | | | | | | :white_check_mark: | |||
-|[http://academic-registry.hansken.org](http://academic-registry.hansken.org)| | **E**|| | | | | | | | :white_check_mark: | |||
+|[https://lea-registry.hansken.org](https://lea-registry.hansken.org)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|Error 400 Not a...|
+|[https://academic-registry.hansken.org](https://academic-registry.hansken.org)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|Error 400 Not a...|
 |[https://downloads.hansken.org](https://downloads.hansken.org)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Sonatype Nexus R...|
 
 

@@ -14,7 +14,7 @@ rni-webform-acc.rvig.nl
 rni-webform.rvig.nl
 acc2.intranet.rvig.nl
 publicaties-acc.rvig.nl
-agw.lap.idm.rvig.nl
+api.reis.idm.rvig.nl
 idbs.idm.rvig.nl
 idbs.npr.idm.rvig.nl
 prod.intranet.rvig.nl
@@ -23,4 +23,5 @@ lap.rvp.reis.npr.idm.rvig.nl
 publicaties-prod.rvig.nl
 rni-portal-acc.rvig.nl
 rni-portal.rvig.nl
+rvp.reis.idm.rvig.nl
 publicaties-tst.rvig.nl

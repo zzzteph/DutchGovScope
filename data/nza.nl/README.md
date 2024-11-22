@@ -48,13 +48,13 @@
 |[https://nza.nl](https://nza.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
 |[https://opendata.nza.nl](https://opendata.nza.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://itsupport.nza.nl](https://itsupport.nza.nl)| | **B**|ZGS|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
-|[https://werkenbijde.nza.nl](https://werkenbijde.nza.nl)| | **A**|LiteSpeed| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |Elementor:3.25.6 HSTS HTTP/3 LiteSpeed Litespeed Cache|Home - Werken bi...|
+|[https://mta-sts.nza.nl](https://mta-sts.nza.nl)| | **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Nginx|Nothing here|
+|[https://werkenbijde.nza.nl](https://werkenbijde.nza.nl)| | **A**|LiteSpeed| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |Elementor:3.25.9 HSTS HTTP/3 LiteSpeed Litespeed Cache|Home - Werken bi...|
 |[http://zpa.nza.nl](http://zpa.nza.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|301 Moved Perman...|
 |[https://zorgproducten-acc.nza.nl](https://zorgproducten-acc.nza.nl)| | **A**|nginx|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Azure HSTS Microsoft ASP.NET Nginx|NZa zorgproducta...|
 |[https://zorgproducten-test.nza.nl](https://zorgproducten-test.nza.nl)| | **A**|nginx|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Azure HSTS Microsoft ASP.NET Nginx|NZa zorgproducta...|
 |[https://zorgproducten.nza.nl](https://zorgproducten.nza.nl)| | **A**|nginx|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Azure HSTS Microsoft ASP.NET Nginx|NZa zorgproducta...|
 |[https://aanvragen-acc.nza.nl](https://aanvragen-acc.nza.nl)| | **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Nginx|Mendix|
-|[https://mijn.nza.nl](https://mijn.nza.nl)| | **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Nginx|Deze pagina is m...|
 |[http://agw01-nomail.nza.nl](http://agw01-nomail.nza.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Web Page Blocked|
 
 

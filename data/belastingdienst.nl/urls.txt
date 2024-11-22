@@ -63,7 +63,6 @@ https://mijnaanvraag.belastingdienst.nl
 https://mijndouane.belastingdienst.nl
 https://mijnzakelijk.belastingdienst.nl
 https://mm.belastingdienst.nl
-https://moodle.vcdn.belastingdienst.nl
 https://vepkms.vcdn.belastingdienst.nl
 https://mta-sts.belastingdienst.nl
 https://mul-mbc.belastingdienst.nl
@@ -99,6 +98,7 @@ https://veplivemedia.vcdn.belastingdienst.nl
 https://vepvod.vcdn.belastingdienst.nl
 https://videobellen.belastingdienst.nl
 https://vtsd.belastingdienst.nl
+https://webdiensten.belastingdienst.nl
 https://webforms.belastingdienst.nl
 https://website.belastingdienst.nl
 https://werken.belastingdienst.nl

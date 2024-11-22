@@ -38,6 +38,7 @@ https://esb-ibabs-preprod.flevoland.nl
 https://esb-ibabs.flevoland.nl
 https://esb-preprod.flevoland.nl
 https://flevoland.nl
+http://int-prod-01.flevoland.nl
 http://prod.flevoland.nl
 https://www.flevoland.nl
 https://formulieren.flevoland.nl
@@ -55,7 +56,6 @@ https://meepraten.flevoland.nl
 https://micollab.flevoland.nl
 https://preprodid.flevoland.nl
 https://stateninformatie.flevoland.nl
-https://test-cmsintranet.flevoland.nl
 https://test.flevoland.nl
 https://testmdm.flevoland.nl
 https://veiligmailen.flevoland.nl
@@ -64,7 +64,6 @@ http://geo2.flevoland.nl
 https://geo3.flevoland.nl
 https://rwbg.flevoland.nl
 https://geodiensten.flevoland.nl
-https://vps-prod-03.flevoland.nl
 https://denkmee.flevoland.nl
 https://testmonitorwonen.flevoland.nl
 https://remote.flevoland.nl

@@ -20,7 +20,6 @@ https://mijnzaak.raadvanstate.nl
 https://portaal.gateway.raadvanstate.nl
 https://siam-acp.raadvanstate.nl
 https://siam.raadvanstate.nl
-https://sts-acp.raadvanstate.nl
 https://www.raadvanstate.nl
 https://zittingsagenda.raadvanstate.nl
 http://kennisbank.raadvanstate.nl

@@ -26,11 +26,11 @@ https://lvbb-preprod.overheid.nl
 https://overheid.nl
 https://cio.overheid.nl
 https://lokaleregelgeving-eto.overheid.nl
-https://repository-eto.overheid.nl
 https://treatydatabase.overheid.nl
 https://api.mijn.overheid.nl
 https://api.preprod.mijn.overheid.nl
 https://gegevensdelen.preprod.mijn.overheid.nl
+https://artifact-rd1.toegang.overheid.nl
 https://bag.basisregistraties.overheid.nl
 https://bag.test.basisregistraties.overheid.nl
 https://bag2.basisregistraties.overheid.nl
@@ -223,6 +223,7 @@ https://wetgevingskalender-acc.overheid.nl
 https://pdc.acc.omgevingswet.overheid.nl
 https://pdc.omgevingswet.overheid.nl
 https://plan-plan-validatie.pre.omgevingswet.overheid.nl
+https://pp1.toegang.overheid.nl
 https://puc-acc.overheid.nl
 https://puc-redactie-acc.overheid.nl
 https://puc-redactie.overheid.nl
@@ -293,7 +294,6 @@ https://mnd-preprd.overheid.nl
 https://oproepingen-api-preprd-poc.overheid.nl
 http://demo1-systemteam.overheid.nl
 https://digid-stub.lpc.mijn.overheid.nl
-http://identifier-eto.overheid.nl
 https://ondersteuning.omgevingswet.overheid.nl
 https://pdc.pre.omgevingswet.overheid.nl
 https://pp2.toegang.overheid.nl
@@ -308,3 +308,4 @@ https://water.omgevingswet.overheid.nl
 https://autodiscover.overheid.nl
 http://ref.omgevingswet.overheid.nl
 http://repository-preprod.overheid.nl
+https://lvbb-lto.overheid.nl

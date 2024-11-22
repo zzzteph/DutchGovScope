@@ -157,6 +157,9 @@ rembench.huygens.knaw.nl
 rembrandtdocuments.huygens.knaw.nl
 alfalablog.huygens.knaw.nl
 alfalablog.knaw.nl
+easytools.huygens.knaw.nl
+oat.dev.huc.knaw.nl
+opgravingen.huygens.knaw.nl
 brievenhermans.huygens.knaw.nl
 demohermans.huygens.knaw.nl
 oaipmh.huygens.knaw.nl
@@ -448,6 +451,7 @@ hulpopafstand.knaw.nl
 remotesupport.knaw.nl
 portus.knaw.nl
 rds.knaw.nl
+rdsgw.knaw.nl
 repository.knaw.nl
 oaipmh.emitx.huygens.knaw.nl
 neww.huygens.knaw.nl
@@ -518,9 +522,6 @@ tus.labs.dans.knaw.nl
 version-tracker.labs.dans.knaw.nl
 pts31.dans.knaw.nl
 va31.dans.knaw.nl
-gl-skosmos.dev.huc.knaw.nl
-teamcity.dev.huc.knaw.nl
-yasgui.dev.huc.knaw.nl
 uptime.huc.knaw.nl
 zalen.huc.knaw.nl
 goudeneeuwblog.huygens.knaw.nl
@@ -529,3 +530,4 @@ dataverse-date-updater.labs.dans.knaw.nl
 back2roots.nioo.knaw.nl
 promise.nioo.knaw.nl
 intranet.nioo.knaw.nl
+www.climatepursuit.nioo.knaw.nl

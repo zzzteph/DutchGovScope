@@ -37,6 +37,6 @@ tags: dutchgov
 |[https://accept.beeldkompas.nl](https://accept.beeldkompas.nl)| | **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Nginx Plesk|Beeldkompas|
 |[https://cms.beeldkompas.nl](https://cms.beeldkompas.nl)| | **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS MySQL Nginx PHP:7.2.34 WordPress||
 |[https://beeldkompas.nl](https://beeldkompas.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS Nginx Plesk|301 Moved Perman...|
-|[https://www.beeldkompas.nl](https://www.beeldkompas.nl)| | **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Nginx Plesk|Beeldkompas|
+|[https://www.beeldkompas.nl](https://www.beeldkompas.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS Nginx Plesk|Beeldkompas|
 
 

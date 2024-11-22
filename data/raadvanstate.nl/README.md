@@ -11,8 +11,8 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/raadvanstate.nl/subdomains.txt)|30|Alive subdomains|
-|[urls.txt](/data/raadvanstate.nl/urls.txt)|30|Urls|
+|[subdomains.txt](/data/raadvanstate.nl/subdomains.txt)|29|Alive subdomains|
+|[urls.txt](/data/raadvanstate.nl/urls.txt)|29|Urls|
 
 
 ## Statistics
@@ -42,7 +42,6 @@
 |[https://portaal.gateway.raadvanstate.nl](https://portaal.gateway.raadvanstate.nl)| | **F**|Layer7-API-Gateway| | | | | | | | :white_check_mark: | |||
 |[https://siam-acp.raadvanstate.nl](https://siam-acp.raadvanstate.nl)| | **A**|N.A.| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bootstrap HSTS|Mijn Zaak - Aanm...|
 |[https://siam.raadvanstate.nl](https://siam.raadvanstate.nl)| | **A**|N.A.| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bootstrap HSTS|Mijn Zaak - Inlo...|
-|[https://sts-acp.raadvanstate.nl](https://sts-acp.raadvanstate.nl)| | **E**|| | | | | | | | :white_check_mark: | |PHP||
 |[https://www.raadvanstate.nl](https://www.raadvanstate.nl)| | **B**|cloudflare| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Cloudflare HSTS|Just a moment...|
 |[https://zittingsagenda.raadvanstate.nl](https://zittingsagenda.raadvanstate.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server||
 |[http://kennisbank.raadvanstate.nl](http://kennisbank.raadvanstate.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Not Found|

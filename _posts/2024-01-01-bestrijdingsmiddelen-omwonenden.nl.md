@@ -34,8 +34,8 @@ tags: dutchgov
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://bestrijdingsmiddelen-omwonenden.nl](https://bestrijdingsmiddelen-omwonenden.nl)| | **A**|Apache/2.4.37 (Red Hat Enterprise Linux)| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server:2.4.37 Drupal HSTS PHP Red Hat|Home | Bestrijdi...|
-|[https://www.bestrijdingsmiddelen-omwonenden.nl](https://www.bestrijdingsmiddelen-omwonenden.nl)| | **A**|Apache/2.4.37 (Red Hat Enterprise Linux)| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server:2.4.37 Drupal HSTS PHP:8.1.30 Red Hat|Home | Bestrijdi...|
+|[https://bestrijdingsmiddelen-omwonenden.nl](https://bestrijdingsmiddelen-omwonenden.nl)| | **A**|Apache/2.4.37 (Red Hat Enterprise Linux)| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server:2.4.37 HSTS Red Hat|301 Moved Perman...|
+|[https://www.bestrijdingsmiddelen-omwonenden.nl](https://www.bestrijdingsmiddelen-omwonenden.nl)| | **A**|Apache/2.4.37 (Red Hat Enterprise Linux)| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server:2.4.37 Drupal HSTS PHP Red Hat|Home | Bestrijdi...|
 |[http://localhost.bestrijdingsmiddelen-omwonenden.nl](http://localhost.bestrijdingsmiddelen-omwonenden.nl)| | **F**|nginx|:o: | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Laravel Nginx PHP|Weakpass|
 
 

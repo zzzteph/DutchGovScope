@@ -3,7 +3,7 @@ layout: default
 title: "investinholland.com"
 permalink: "/dutchgov/investinholland.com.html"
 subdomains_count: 18
-urls_count: 17
+urls_count: 18
 ssl_rank: 
 http_rank: D
 security_txt: 1
@@ -26,7 +26,7 @@ tags: dutchgov
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/DutchGovScope/data/investinholland.com/subdomains.txt)|18|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/investinholland.com/urls.txt)|17|Urls|
+|[urls.txt](/DutchGovScope/data/investinholland.com/urls.txt)|18|Urls|
 
 
 ## Statistics
@@ -38,7 +38,7 @@ tags: dutchgov
 |[http://www.japan.investinholland.com](http://www.japan.investinholland.com)| | **F**|cloudflare| | | | | | | | :white_check_mark: | |Cloudflare|301 Moved Perman...|
 |[https://china.investinholland.com](https://china.investinholland.com)| | **C**|cloudflare| |:white_check_mark: | | | | | | :white_check_mark: | |Cloudflare HSTS Plesk|301 Moved Perman...|
 |[https://cnnew.investinholland.com](https://cnnew.investinholland.com)| | **E**|cloudflare| | | | | | :white_check_mark: | | :white_check_mark: | |Cloudflare||
-|[http://smtp.japan.investinholland.com](http://smtp.japan.investinholland.com)| | **F**|cloudflare| | | | | | | | :white_check_mark: | |Cloudflare|301 Moved Perman...|
+|[http://smtp.japan.investinholland.com](http://smtp.japan.investinholland.com)| | **F**|cloudflare| | | | | | | | :white_check_mark: | |Cloudflare HTTP/2|301 Moved Perman...|
 |[https://www.investinholland.com](https://www.investinholland.com)| | **C**|cloudflare| |:white_check_mark: | | | | | | :white_check_mark: | |Cloudflare HSTS Plesk||
 |[https://bak-tw.investinholland.com](https://bak-tw.investinholland.com)| | **E**|cloudflare| | | | | | :white_check_mark: | | :white_check_mark: | |Cloudflare||
 |[https://japan.investinholland.com](https://japan.investinholland.com)| | **C**|cloudflare| |:white_check_mark: | | | | | | :white_check_mark: | |Cloudflare Google Tag Manager HSTS MySQL PHP Plesk WPML:4.6.12 WordPress:6.6.2 Yoast SEO Premium:23.1 Yoast SEO:23.2|外国直接投資：オ...|
@@ -51,5 +51,6 @@ tags: dutchgov
 |[https://taiwan.investinholland.com](https://taiwan.investinholland.com)| | **C**|cloudflare| |:white_check_mark: | | | | | | :white_check_mark: | |Cloudflare Google Tag Manager HSTS MySQL PHP Plesk WPML:4.6.12 WordPress:6.6.2 Yoast SEO Premium:23.1 Yoast SEO:23.2|荷蘭投資局(NFIA)...|
 |[https://bak-jp.investinholland.com](https://bak-jp.investinholland.com)| | **E**|cloudflare| | | | | | :white_check_mark: | | :white_check_mark: | |Cloudflare||
 |[http://localhost.investinholland.com](http://localhost.investinholland.com)| | **F**|nginx|:o: | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Laravel Nginx PHP|Weakpass|
+|[http://autodiscover.investinholland.com](http://autodiscover.investinholland.com)| | **C**|Microsoft-IIS/10.0| |:white_check_mark: | | | | | | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server||
 
 

@@ -3,7 +3,7 @@ layout: default
 title: "contactpuntbouwproducten.nl"
 permalink: "/dutchgov/contactpuntbouwproducten.nl.html"
 subdomains_count: 3
-urls_count: 2
+urls_count: 3
 ssl_rank: 
 http_rank: B
 security_txt: 2
@@ -26,7 +26,7 @@ tags: dutchgov
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/DutchGovScope/data/contactpuntbouwproducten.nl/subdomains.txt)|3|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/contactpuntbouwproducten.nl/urls.txt)|2|Urls|
+|[urls.txt](/DutchGovScope/data/contactpuntbouwproducten.nl/urls.txt)|3|Urls|
 
 
 ## Statistics
@@ -34,6 +34,7 @@ tags: dutchgov
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
+|[http://autodiscover.contactpuntbouwproducten.nl](http://autodiscover.contactpuntbouwproducten.nl)| | **B**|Microsoft-IIS/10.0|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HTTP/3 IIS:10.0 Microsoft ASP.NET Windows Server||
 |[https://contactpuntbouwproducten.nl](https://contactpuntbouwproducten.nl)| | **B**||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Azure Azure Front Door||
 |[https://www.contactpuntbouwproducten.nl](https://www.contactpuntbouwproducten.nl)| | **B**||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Azure Azure Front Door HSTS|Contactpunt Bouw...|
 

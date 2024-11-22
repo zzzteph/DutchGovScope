@@ -48,7 +48,6 @@ jupyter.kim.rijkscloud.nl
 jupyter.ritp.rijkscloud.nl
 rstudio.ritp.rijkscloud.nl
 shiny.ritp.rijkscloud.nl
-kibana.anvs-infra.rijkscloud.nl
 mail.rijkscloud.nl
 webmail.rijkscloud.nl
 nc-a.rvb.rijkscloud.nl

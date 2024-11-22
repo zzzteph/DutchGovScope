@@ -3,7 +3,7 @@ layout: default
 title: "co2emissiefactoren.nl"
 permalink: "/dutchgov/co2emissiefactoren.nl.html"
 subdomains_count: 3
-urls_count: 2
+urls_count: 3
 ssl_rank: 
 http_rank: F
 security_txt: 0
@@ -26,7 +26,7 @@ tags: dutchgov
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/DutchGovScope/data/co2emissiefactoren.nl/subdomains.txt)|3|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/co2emissiefactoren.nl/urls.txt)|2|Urls|
+|[urls.txt](/DutchGovScope/data/co2emissiefactoren.nl/urls.txt)|3|Urls|
 
 
 ## Statistics
@@ -36,5 +36,6 @@ tags: dutchgov
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[https://co2emissiefactoren.nl](https://co2emissiefactoren.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|301 Moved Perman...|
 |[https://www.co2emissiefactoren.nl](https://www.co2emissiefactoren.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server MySQL PHP Slider Revolution:6.7.21 WordPress:6.6.2 Yoast SEO:23.8 wpBakery|Home | CO2 emiss...|
+|[https://webmail.co2emissiefactoren.nl](https://webmail.co2emissiefactoren.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server Bootstrap|Webmail :: Welco...|
 
 

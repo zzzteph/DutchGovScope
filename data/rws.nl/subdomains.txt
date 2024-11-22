@@ -145,7 +145,6 @@ www.grid.rws.nl
 birdviewer.rws.nl
 compliance.grid.rws.nl
 compliance.gridacc.rws.nl
-demo-geoservices.rws.nl
 test.liwo.intranet.rws.nl
 federatie.rws.nl
 gitlab.at.rws.nl

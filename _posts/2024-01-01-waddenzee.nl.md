@@ -38,7 +38,7 @@ tags: dutchgov
 |[https://basismonitoringwadden.waddenzee.nl](https://basismonitoringwadden.waddenzee.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:-|Home - basismoni...|
 |[https://plasticvrijewadden.waddenzee.nl](https://plasticvrijewadden.waddenzee.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:-|Home - plasticvr...|
 |[https://waddenzee.nl](https://waddenzee.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:-|Object moved|
-|[https://www.waddenzee.nl](https://www.waddenzee.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:-|Home - Waddenzee|
+|[https://www.waddenzee.nl](https://www.waddenzee.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:- SDL Tridion|Home - Waddenzee|
 |[https://datahuiswadden.waddenzee.nl](https://datahuiswadden.waddenzee.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:-|Home - datahuisw...|
 |[http://wadzee9520.waddenzee.nl](http://wadzee9520.waddenzee.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0||
 |[http://bmw9520.waddenzee.nl](http://bmw9520.waddenzee.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0||

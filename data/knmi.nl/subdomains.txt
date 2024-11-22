@@ -47,9 +47,7 @@ password.knmi.nl
 rdsa-prdt.knmi.nl
 rdsa.knmi.nl
 scatterometer.knmi.nl
-sf.knmi.nl
 spaceweather.knmi.nl
-testconn.knmi.nl
 tyk-cdn.dataplatform.knmi.nl
 w3dxweb.knmi.nl
 wms-viewer.dataplatform.knmi.nl
@@ -59,4 +57,5 @@ eelcodoornbos-master-patch-38139.data.dev.spaceweather.knmi.nl
 testgeoservices.knmi.nl
 hapi.acc.spaceweather.knmi.nl
 hapi.spaceweather.knmi.nl
+notifications.dev.spaceweather.knmi.nl
 cabauw.knmi.nl

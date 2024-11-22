@@ -59,6 +59,7 @@ autodiscover.mett.nl
 demo2.mett.nl
 dev.mett.nl
 ftp.mett.nl
+tom.mett.nl
 robert.mett.nl
 htx.mett.nl
 performance.mett.nl
@@ -102,7 +103,6 @@ artcadia.mett.nl
 nieuwbouwkompassoesterberg.mett.nl
 ggagroenblauw.mett.nl
 ikdenkmeeoveruitgeest.mett.nl
-lcnk.mett.nl
 zichtopnl.mett.nl
 helpdesk.mett.nl
 dejongeakademie.mett.nl
@@ -115,10 +115,6 @@ platformuitkomstgerichtezorg.mett.nl
 ggz.mett.nl
 krinkelsstrooitvoorns.mett.nl
 a27a12ringutrecht.mett.nl
-platformparticipatie.mett.nl
-samenzundert.mett.nl
-energieregiomre.mett.nl
-flevolandwerkt.mett.nl
 ertmsnl.mett.nl
 startandgo.mett.nl
 academy.mett.nl
@@ -167,3 +163,4 @@ coordinatiegelderland.mett.nl
 cookiebeleid.mett.nl
 demoparticipatie.mett.nl
 joske.mett.nl
+fagoed.mett.nl

@@ -57,7 +57,6 @@ erelijst.test.tweedekamer.nl
 ontdek.test.tweedekamer.nl
 tweedekamer.acceptatie.tweedekamer.nl
 tweedekamer.test.tweedekamer.nl
-ext01.videovergaderen.tweedekamer.nl
 files.tweedekamer.nl
 gegevensmagazijn.tweedekamer.nl
 werkenbij.test.tweedekamer.nl
@@ -65,6 +64,7 @@ houseofrepresentatives.acceptatie.tweedekamer.nl
 houseofrepresentatives.test.tweedekamer.nl
 lijstvangevallenen.acceptatie.tweedekamer.nl
 lijstvangevallenen.test.tweedekamer.nl
+opendata.acceptatie.tweedekamer.nl
 opendata.test.tweedekamer.nl
 werkenbij.acceptatie.tweedekamer.nl
 livestream-backup.tweedekamer.nl
@@ -110,7 +110,6 @@ vip-acc.tweedekamer.nl
 kva-tst.tweedekamer.nl
 kva.tweedekamer.nl
 plein2-acc.tweedekamer.nl
-sesam-test.tweedekamer.nl
 avgregister.tweedekamer.nl
 handboekgc.tweedekamer.nl
 opendata-wiki.tweedekamer.nl
@@ -137,4 +136,3 @@ localhost.tweedekamer.nl
 msoid.tweedekamer.nl
 email.tweedekamer.nl
 b67.tweedekamer.nl
-parlistaweb.tweedekamer.nl

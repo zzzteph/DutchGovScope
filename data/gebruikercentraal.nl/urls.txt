@@ -47,3 +47,4 @@ https://duidelijk.gebruikercentraal.nl
 https://test.optimaaldigitaal.gebruikercentraal.nl
 https://inclusievedienstverlening.gebruikercentraal.nl
 http://autodiscover.gebruikercentraal.nl
+https://toolkitinclusie.gebruikercentraal.nl

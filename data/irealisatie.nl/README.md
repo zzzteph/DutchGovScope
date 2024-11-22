@@ -11,7 +11,7 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/irealisatie.nl/subdomains.txt)|77|Alive subdomains|
+|[subdomains.txt](/data/irealisatie.nl/subdomains.txt)|78|Alive subdomains|
 |[urls.txt](/data/irealisatie.nl/urls.txt)|77|Urls|
 
 

@@ -12,7 +12,7 @@
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/zinl.nl/subdomains.txt)|10|Alive subdomains|
-|[urls.txt](/data/zinl.nl/urls.txt)|9|Urls|
+|[urls.txt](/data/zinl.nl/urls.txt)|10|Urls|
 
 
 ## Statistics
@@ -29,5 +29,6 @@
 |[https://portal.zinl.nl](https://portal.zinl.nl)| | **F**|BigIP|:warning: | | | | | :white_check_mark: | | :white_check_mark: | |F5 BigIP||
 |[https://www.zinl.nl](https://www.zinl.nl)| | **A**|BigIP| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |F5 BigIP HSTS||
 |[https://zinl.nl](https://zinl.nl)| | **A**|BigIP| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |F5 BigIP HSTS||
+|[https://enterpriseenrollment.zinl.nl](https://enterpriseenrollment.zinl.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||
 
 

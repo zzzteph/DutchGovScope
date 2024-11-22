@@ -6,9 +6,7 @@ feeds.mensenrechten.nl
 mensenrechten.nl
 opendata.mensenrechten.nl
 www.mensenrechten.nl
-intranet.mensenrechten.nl
 klachtenformulierlink.mensenrechten.nl
-leren.mensenrechten.nl
 micollab.mensenrechten.nl
 publicaties.mensenrechten.nl
 autodiscover.mensenrechten.nl

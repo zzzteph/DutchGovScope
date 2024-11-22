@@ -1,4 +1,4 @@
-wortel184.provincie-utrecht.nl
+espt.provincie-utrecht.nl
 assystnet-test-t.provincie-utrecht.nl
 geo.provincie-utrecht.nl
 gis.provincie-utrecht.nl
@@ -66,7 +66,6 @@ sslvpn.provincie-utrecht.nl
 stateninformatie.provincie-utrecht.nl
 www.stateninformatie.provincie-utrecht.nl
 tramdashboard.provincie-utrecht.nl
-vctu-api.provincie-utrecht.nl
 vctu.provincie-utrecht.nl
 veiligdelen.provincie-utrecht.nl
 webkaart-sld.provincie-utrecht.nl
@@ -84,7 +83,6 @@ ib-preprod.provincie-utrecht.nl
 ib.provincie-utrecht.nl
 monitoromgevingsbeleid.provincie-utrecht.nl
 omgevingsbeleid.provincie-utrecht.nl
-iapp.provincie-utrecht.nl
 rmb.provincie-utrecht.nl
 govroam.provincie-utrecht.nl
 mfa.provincie-utrecht.nl

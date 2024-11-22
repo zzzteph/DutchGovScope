@@ -25,7 +25,7 @@
 |[https://povv-poc.ilent.nl](https://povv-poc.ilent.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||
 |[https://acc.e-loket.ilent.nl](https://acc.e-loket.ilent.nl)| | **E**||:white_check_mark: | | | | | :white_check_mark: | | :white_check_mark: | ||IIS Windows Serv...|
 |[https://acceptatie.wio.ilent.nl](https://acceptatie.wio.ilent.nl)| | **F**|Microsoft-IIS/10.0| | | | | | | | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server|IIS Windows Serv...|
-|[https://e-loket.ilent.nl](https://e-loket.ilent.nl)| | **A**||:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS|Object moved|
+|[https://e-loket.ilent.nl](https://e-loket.ilent.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS|Object moved|
 |[https://feeds.ilent.nl](https://feeds.ilent.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://ilent.nl](https://ilent.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
 |[https://magazines.ilent.nl](https://magazines.ilent.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Kiosk | Magazine...|

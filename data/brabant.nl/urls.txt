@@ -11,10 +11,8 @@ https://brabant.nl
 https://brainps.brabant.nl
 https://english.brabant.nl
 https://www.brabant.nl
-http://brabantnext.brabant.nl
 https://brains-acc.brabant.nl
 https://brains.brabant.nl
-http://bzv-a.brabant.nl
 https://bzv.brabant.nl
 https://ondertekenen.brabant.nl
 https://ondertekenentst.brabant.nl
@@ -60,7 +58,7 @@ http://detoekomstbegintnu.brabant.nl
 http://draf-acpt.brabant.nl
 https://draf.brabant.nl
 https://esb-test.brabant.nl
-https://opendata.brabant.nl
+https://samenwerken.brabant.nl
 https://facilitor.brabant.nl
 https://kaartbank.brabant.nl
 https://kaarten.brabant.nl
@@ -82,3 +80,4 @@ https://msoid.brabant.nl
 https://ndes.brabant.nl
 https://signing.brabant.nl
 https://webcast.brabant.nl
+https://enterpriseenrollment.brabant.nl

@@ -145,7 +145,6 @@ https://www.grid.rws.nl
 http://birdviewer.rws.nl
 https://compliance.grid.rws.nl
 https://compliance.gridacc.rws.nl
-https://demo-geoservices.rws.nl
 http://test.liwo.intranet.rws.nl
 https://federatie.rws.nl
 http://gitlab.at.rws.nl
@@ -163,3 +162,6 @@ https://mars2.ptp.acc-inloggen.rws.nl
 https://schadeportaal.ptp.acc-inloggen.rws.nl
 https://digitaltwin-dev.rws.nl
 https://eventrecorder.ptp.acc-inloggen.rws.nl
+https://acc-wvp.rws.nl
+https://aquo-kit.rws.nl
+http://mip-proxy-acc.rws.nl

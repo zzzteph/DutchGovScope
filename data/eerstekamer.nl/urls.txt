@@ -20,3 +20,4 @@ https://mail.eerstekamer.nl
 https://piwik.eerstekamer.nl
 https://liquit.eerstekamer.nl
 https://enterpriseenrollment.eerstekamer.nl
+https://sandbox.redactie.eerstekamer.nl

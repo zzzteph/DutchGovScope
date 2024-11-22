@@ -89,6 +89,11 @@ https://mre.databank.nl
 https://rabobank.databank.nl
 https://inspectie-oe.databank.nl
 https://www.nederlandschoon.databank.nl
+https://stap.databank.nl
+https://www.gip.databank.nl
 https://bvz-waves.databank.nl
 https://overijssel.databank.nl
 https://www.veiligheidsmonitor.databank.nl
+https://ibw.databank.nl
+https://www.senternovum.databank.nl
+https://www.openbaar.waves.databank.nl

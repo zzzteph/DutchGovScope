@@ -75,3 +75,4 @@ stats.test.zm.irealisatie.nl
 acc.irealisatie.nl
 gitea.irealisatie.nl
 taiga.irealisatie.nl
+kat.irealisatie.nl

@@ -1,5 +1,6 @@
 zoek-preprod.officielebekendmakingen.nl
 www-preprod.officielebekendmakingen.nl
+stage-acc.officielebekendmakingen.nl
 beheer-acc.officielebekendmakingen.nl
 identifier-preprod.officielebekendmakingen.nl
 beheer-sgd.officielebekendmakingen.nl

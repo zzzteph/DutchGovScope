@@ -20,7 +20,6 @@ mijnzaak.raadvanstate.nl
 portaal.gateway.raadvanstate.nl
 siam-acp.raadvanstate.nl
 siam.raadvanstate.nl
-sts-acp.raadvanstate.nl
 www.raadvanstate.nl
 zittingsagenda.raadvanstate.nl
 kennisbank.raadvanstate.nl

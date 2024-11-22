@@ -11,6 +11,5 @@ https://ibabs.minez.nl
 https://pmt.minez.nl
 https://www.minez.nl
 https://minez.nl
-https://pmt-acc.minez.nl
 http://upeu.minez.nl
 https://vws-demo.minez.nl

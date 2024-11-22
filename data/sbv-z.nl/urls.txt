@@ -9,5 +9,6 @@ http://raadplegen-preprod.sbv-z.nl
 https://raadplegen.sbv-z.nl
 https://webservice-acc.sbv-z.nl
 https://webservice.sbv-z.nl
+https://uzipas.raadplegen.sbv-z.nl
 https://acceptatie.uzipas.raadplegen.sbv-z.nl
 https://acceptatie.raadplegen.sbv-z.nl

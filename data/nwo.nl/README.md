@@ -6,13 +6,13 @@
 
  - **SSL Grade**:
  - **HTTP Security Grade**:C
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:6
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:7
 
 
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/nwo.nl/subdomains.txt)|21|Alive subdomains|
-|[urls.txt](/data/nwo.nl/urls.txt)|20|Urls|
+|[urls.txt](/data/nwo.nl/urls.txt)|21|Urls|
 
 
 ## Statistics
@@ -40,5 +40,6 @@
 |[https://vpnportal.nwo.nl](https://vpnportal.nwo.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://digitoegankelijk.nwo.nl](https://digitoegankelijk.nwo.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|Digitoegankelijk...|
 |[https://enterpriseenrollment.nwo.nl](https://enterpriseenrollment.nwo.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||
+|[https://data.nwo.nl](https://data.nwo.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | :white_check_mark: |Drupal:10 HSTS PHP|Landing page | N...|
 
 

@@ -47,11 +47,9 @@ https://password.knmi.nl
 https://rdsa-prdt.knmi.nl
 https://rdsa.knmi.nl
 https://scatterometer.knmi.nl
-https://sf.knmi.nl
 https://spaceweather.knmi.nl
-http://testconn.knmi.nl
 https://tyk-cdn.dataplatform.knmi.nl
-https://w3dxweb.knmi.nl
+http://w3dxweb.knmi.nl
 https://wms-viewer.dataplatform.knmi.nl
 https://wow.knmi.nl
 https://cms-origin.klimaatscenarios-data.knmi.nl
@@ -59,4 +57,5 @@ https://eelcodoornbos-master-patch-38139.data.dev.spaceweather.knmi.nl
 https://testgeoservices.knmi.nl
 https://hapi.acc.spaceweather.knmi.nl
 https://hapi.spaceweather.knmi.nl
+https://notifications.dev.spaceweather.knmi.nl
 https://cabauw.knmi.nl

@@ -14,7 +14,7 @@ https://rni-webform-acc.rvig.nl
 https://rni-webform.rvig.nl
 https://acc2.intranet.rvig.nl
 https://publicaties-acc.rvig.nl
-https://agw.lap.idm.rvig.nl
+https://api.reis.idm.rvig.nl
 https://idbs.idm.rvig.nl
 https://idbs.npr.idm.rvig.nl
 https://prod.intranet.rvig.nl
@@ -23,4 +23,5 @@ https://lap.rvp.reis.npr.idm.rvig.nl
 https://publicaties-prod.rvig.nl
 https://rni-portal-acc.rvig.nl
 https://rni-portal.rvig.nl
+https://rvp.reis.idm.rvig.nl
 https://publicaties-tst.rvig.nl

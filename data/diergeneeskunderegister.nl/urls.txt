@@ -1,5 +1,6 @@
 https://acceptatie.beheer.diergeneeskunderegister.nl
 https://acceptatie.mijn.diergeneeskunderegister.nl
+https://acceptatie.webservices.diergeneeskunderegister.nl
 https://acceptatie.zoeken.diergeneeskunderegister.nl
 https://opendata.diergeneeskunderegister.nl
 https://www.diergeneeskunderegister.nl

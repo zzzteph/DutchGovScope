@@ -6,13 +6,13 @@
 
  - **SSL Grade**:
  - **HTTP Security Grade**:E
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:31
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:33
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/knaw.nl/subdomains.txt)|531|Alive subdomains|
-|[urls.txt](/data/knaw.nl/urls.txt)|490|Urls|
+|[subdomains.txt](/data/knaw.nl/subdomains.txt)|533|Alive subdomains|
+|[urls.txt](/data/knaw.nl/urls.txt)|530|Urls|
 
 
 ## Statistics
@@ -112,10 +112,10 @@
 |[https://web.huygens.knaw.nl](https://web.huygens.knaw.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|301 Moved Perman...|
 |[https://xmlschema.huygens.knaw.nl](https://xmlschema.huygens.knaw.nl)| | **E**|Apache| | | | | | | :white_check_mark: | :white_check_mark: | |Apache HTTP Server||
 |[https://ests.huygens.knaw.nl](https://ests.huygens.knaw.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|301 Moved Perman...|
-|[https://www.waleweinendekeye.huygens.knaw.nl](https://www.waleweinendekeye.huygens.knaw.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|301 Moved Perman...|
-|[https://acc.api.knaw.nl](https://acc.api.knaw.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|Not Found|
-|[https://acc.cms21.knaw.nl](https://acc.cms21.knaw.nl)| | **B**|nginx| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Drupal HSTS Nginx PHP|Redirecting to h...|
-|[https://acc.knaw.nl](https://acc.knaw.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Basic Nginx|401 Authorizatio...|
+|[http://www.waleweinendekeye.huygens.knaw.nl](http://www.waleweinendekeye.huygens.knaw.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|301 Moved Perman...|
+|[https://acc.api.knaw.nl](https://acc.api.knaw.nl)| | **D**|Apache| | | | | :white_check_mark:| | | :white_check_mark: | |Apache HTTP Server|Not Found|
+|[https://acc.cms21.knaw.nl](https://acc.cms21.knaw.nl)| | **E**|Apache| | | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server Drupal PHP|Redirecting to h...|
+|[https://acc.knaw.nl](https://acc.knaw.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server Basic|401 Unauthorized|
 |[https://act.easy.dans.knaw.nl](https://act.easy.dans.knaw.nl)| | **E**|Apache| | | | | | | :white_check_mark: | :white_check_mark: | |Apache HTTP Server|301 Moved Perman...|
 |[https://demo.easy.dans.knaw.nl](https://demo.easy.dans.knaw.nl)| | **E**|Apache| | | | | | | :white_check_mark: | :white_check_mark: | |Apache HTTP Server|301 Moved Perman...|
 |[https://peasy11.dans.knaw.nl](https://peasy11.dans.knaw.nl)| | **E**|Apache| | | | | | | :white_check_mark: | :white_check_mark: | |Apache HTTP Server|301 Moved Perman...|
@@ -157,7 +157,7 @@
 |[https://fortuyn.meertens.knaw.nl](https://fortuyn.meertens.knaw.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|403 Forbidden|
 |[https://adfs.knaw.nl](https://adfs.knaw.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
 |[https://dans.knaw.nl](https://dans.knaw.nl)| | **A**|nginx/1.14.1| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx:1.14.1 PHP:7.4.33||
-|[https://wordpress.dans.knaw.nl](https://wordpress.dans.knaw.nl)| | **F**|nginx/1.14.1| | | | | | | | :white_check_mark: | |HSTS MySQL Nginx:1.14.1 PHP:7.4.33 Slick WPML:4.6.13 WordPress:6.7 Yoast SEO:23.8 jQuery|DANS | Expertise...|
+|[https://wordpress.dans.knaw.nl](https://wordpress.dans.knaw.nl)| | **F**|nginx/1.14.1| | | | | | | | :white_check_mark: | |HSTS MySQL Nginx:1.14.1 PHP:7.4.33 Slick WPML:4.6.13 WordPress:6.7.1 Yoast SEO:23.8 jQuery|DANS | Expertise...|
 |[https://www.dans.knaw.nl](https://www.dans.knaw.nl)| | **A**|nginx/1.14.1| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Nginx:1.14.1|301 Moved Perman...|
 |[https://adminpure.knaw.nl](https://adminpure.knaw.nl)| | **B**|Apache| |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS|Test Page for th...|
 |[https://infoscreen.knaw.nl](https://infoscreen.knaw.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|Test Page for th...|
@@ -179,6 +179,9 @@
 |[https://rembrandtdocuments.huygens.knaw.nl](https://rembrandtdocuments.huygens.knaw.nl)| | **F**|Apache/2.4.41 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.41 Ubuntu|403 Forbidden|
 |[https://alfalablog.huygens.knaw.nl](https://alfalablog.huygens.knaw.nl)| | **F**|Apache/2.4.41 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.41 Ubuntu|403 Forbidden|
 |[https://alfalablog.knaw.nl](https://alfalablog.knaw.nl)| | **F**|Apache/2.4.41 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.41 Ubuntu|302 Found|
+|[https://easytools.huygens.knaw.nl](https://easytools.huygens.knaw.nl)| | **F**|Apache/2.4.41 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.41 Ubuntu|403 Forbidden|
+|[https://oat.dev.huc.knaw.nl](https://oat.dev.huc.knaw.nl)| | **F**|Apache/2.4.41 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.41 Ubuntu|403 Forbidden|
+|[https://opgravingen.huygens.knaw.nl](https://opgravingen.huygens.knaw.nl)| | **F**|Apache/2.4.41 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.41 Ubuntu|403 Forbidden|
 |[https://brievenhermans.huygens.knaw.nl](https://brievenhermans.huygens.knaw.nl)| | **F**|Apache/2.4.41 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.41 Ubuntu|403 Forbidden|
 |[https://demohermans.huygens.knaw.nl](https://demohermans.huygens.knaw.nl)| | **F**|Apache/2.4.41 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.41 Ubuntu|403 Forbidden|
 |[https://oaipmh.huygens.knaw.nl](https://oaipmh.huygens.knaw.nl)| | **F**|Apache/2.4.41 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.41 Ubuntu|403 Forbidden|
@@ -400,10 +403,10 @@
 |[https://pure.knaw.nl](https://pure.knaw.nl)| | **B**|cloudflare|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |Cloudflare Cloudflare Bot Management HSTS HTTP/3|302 Found|
 |[https://raadpleging.knaw.nl](https://raadpleging.knaw.nl)| | **A**|Apache/2.4.62 () OpenSSL/1.0.2k-fips| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |Amazon CloudFront Amazon Web Services Apache HTTP Server:2.4.62 HSTS OpenSSL:1.0.2k PHP||
 |[https://rathenau-wiki.knaw.nl](https://rathenau-wiki.knaw.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||
-|[https://storingen.knaw.nl](https://storingen.knaw.nl)| | **B**|nginx|:warning: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS MySQL Nginx PHP:8.3.12 Polylang WordPress|Storingen en Ond...|
+|[https://storingen.knaw.nl](https://storingen.knaw.nl)| | **B**|nginx|:warning: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS MySQL Nginx PHP:8.3.13 Polylang WordPress|Storingen en Ond...|
 |[https://reserve.knaw.nl](https://reserve.knaw.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |HSTS Matomo Analytics Nginx|Sign in - Matomo|
-|[https://stats.knaw.nl](https://stats.knaw.nl)| | **A**|nginx|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Nginx|Matomo › Error|
-|[https://storing.knaw.nl](https://storing.knaw.nl)| | **B**|nginx|:warning: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS MySQL Nginx PHP:8.3.12 Polylang WordPress|Storingen en Ond...|
+|[https://stats.knaw.nl](https://stats.knaw.nl)| | **A**|nginx|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Matomo Analytics Nginx|Sign in - Matomo|
+|[https://storing.knaw.nl](https://storing.knaw.nl)| | **B**|nginx|:warning: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS MySQL Nginx PHP:8.3.13 Polylang WordPress|Storingen en Ond...|
 |[https://storing31.knaw.nl](https://storing31.knaw.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |HSTS Matomo Analytics Nginx|Sign in - Matomo|
 |[https://sec01.dans.knaw.nl](https://sec01.dans.knaw.nl)| | **F**|Apache/2.4.37 (Red Hat Enterprise Linux) OpenSSL/1.1.1k| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.37 OpenSSL:1.1.1k Red Hat||
 |[https://ss31.dans.knaw.nl](https://ss31.dans.knaw.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|Index of /|
@@ -443,6 +446,7 @@
 |[https://tjalie-robinson.huygens.knaw.nl](https://tjalie-robinson.huygens.knaw.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|403 Forbidden|
 |[https://pages.bioinf.nioo.knaw.nl](https://pages.bioinf.nioo.knaw.nl)| | **A**|nginx|:warning: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[http://gitlab.huc.knaw.nl](http://gitlab.huc.knaw.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|301 Moved Perman...|
+|[https://osso-a.knaw.nl](https://osso-a.knaw.nl)| | **E**|| | | | | | | | :white_check_mark: | ||400 Bad Request|
 |[https://ebs-t.knaw.nl](https://ebs-t.knaw.nl)| | **D**|| | | | | | :white_check_mark: | | :white_check_mark: | ||E-Business Suite...|
 |[https://knaw.nl](https://knaw.nl)| | **A**|awselb/2.0| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |Amazon ELB Amazon Web Services|301 Moved Perman...|
 |[https://nias.knaw.nl](https://nias.knaw.nl)| | **A**|Apache| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS MySQL PHP WP Rocket WordPress Yoast SEO:22.4|Homepage | NIAS|
@@ -510,5 +514,41 @@
 |[https://climatepursuit.nioo.knaw.nl](https://climatepursuit.nioo.knaw.nl)| | **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Nginx|Climate Pursuit|
 |[https://registrar.labs.dans.knaw.nl](https://registrar.labs.dans.knaw.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://dataverse-fetcher.labs.dans.knaw.nl](https://dataverse-fetcher.labs.dans.knaw.nl)| | **F**|uvicorn| | | | | | | | :white_check_mark: | |Python Uvicorn||
+|[https://kc31.dans.knaw.nl](https://kc31.dans.knaw.nl)| | **F**|nginx/1.22.1| | | | | | | | :white_check_mark: | |HSTS Nginx:1.22.1|Welcome to Keycl...|
+|[https://ai-similia.labs.dans.knaw.nl](https://ai-similia.labs.dans.knaw.nl)| | **F**|uvicorn| | | | | | | | :white_check_mark: | |Python Uvicorn||
+|[https://airflow.labs.dans.knaw.nl](https://airflow.labs.dans.knaw.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
+|[https://dataciteminter.labs.dans.knaw.nl](https://dataciteminter.labs.dans.knaw.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
+|[https://dataverse-importer.labs.dans.knaw.nl](https://dataverse-importer.labs.dans.knaw.nl)| | **F**|uvicorn| | | | | | | | :white_check_mark: | |Python Uvicorn||
+|[https://dataverse-mapper.labs.dans.knaw.nl](https://dataverse-mapper.labs.dans.knaw.nl)| | **F**|uvicorn| | | | | | | | :white_check_mark: | |Python Uvicorn||
+|[https://docs.labs.dans.knaw.nl](https://docs.labs.dans.knaw.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
+|[https://dtrs.labs.dans.knaw.nl](https://dtrs.labs.dans.knaw.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
+|[https://facades-verification.labs.dans.knaw.nl](https://facades-verification.labs.dans.knaw.nl)| | **F**|uvicorn| | | | | | | | :white_check_mark: | |Python Uvicorn||
+|[https://filetypevalidator.labs.dans.knaw.nl](https://filetypevalidator.labs.dans.knaw.nl)| | **F**|uvicorn| | | | | | | | :white_check_mark: | |Python Uvicorn||
+|[https://infra-templates.labs.dans.knaw.nl](https://infra-templates.labs.dans.knaw.nl)| | **F**|uvicorn| | | | | | | | :white_check_mark: | |Python Uvicorn||
+|[https://jupyter.labs.dans.knaw.nl](https://jupyter.labs.dans.knaw.nl)| | **F**|TornadoServer/6.1|:o: | | | | :white_check_mark:| | | :white_check_mark: | |TornadoServer:6.1||
+|[https://ldn-inbox.labs.dans.knaw.nl](https://ldn-inbox.labs.dans.knaw.nl)| | **F**|uvicorn| | | | | | | | :white_check_mark: | |Python Uvicorn||
+|[https://metadata-refiner.labs.dans.knaw.nl](https://metadata-refiner.labs.dans.knaw.nl)| | **F**|uvicorn| | | | | | | | :white_check_mark: | |Python Uvicorn||
+|[https://minio.labs.dans.knaw.nl](https://minio.labs.dans.knaw.nl)| | **D**|MinIO Console| | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | ||MinIO Console|
+|[https://minio2.labs.dans.knaw.nl](https://minio2.labs.dans.knaw.nl)| | **D**|MinIO Console| | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | ||MinIO Console|
+|[https://minioapi.labs.dans.knaw.nl](https://minioapi.labs.dans.knaw.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| | :white_check_mark: | :white_check_mark: | |||
+|[https://oai-harvester.labs.dans.knaw.nl](https://oai-harvester.labs.dans.knaw.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
+|[https://oai-service.labs.dans.knaw.nl](https://oai-service.labs.dans.knaw.nl)| | **F**|uvicorn| | | | | | | | :white_check_mark: | |Python Uvicorn||
+|[https://packaging.labs.dans.knaw.nl](https://packaging.labs.dans.knaw.nl)| | **F**|uvicorn| | | | | | | | :white_check_mark: | |Python Uvicorn||
+|[https://parsr.labs.dans.knaw.nl](https://parsr.labs.dans.knaw.nl)| | **E**|| | | | | | | | :white_check_mark: | |Express Node.js||
+|[https://prefect.labs.dans.knaw.nl](https://prefect.labs.dans.knaw.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
+|[https://semaf.labs.dans.knaw.nl](https://semaf.labs.dans.knaw.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
+|[https://sqaas.labs.dans.knaw.nl](https://sqaas.labs.dans.knaw.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
+|[https://transformer.labs.dans.knaw.nl](https://transformer.labs.dans.knaw.nl)| | **F**|uvicorn| | | | | | | | :white_check_mark: | |Python Uvicorn||
+|[https://tus.labs.dans.knaw.nl](https://tus.labs.dans.knaw.nl)| | **F**|uvicorn| | | :warning:| | | | | :white_check_mark: | |Python Uvicorn||
+|[https://version-tracker.labs.dans.knaw.nl](https://version-tracker.labs.dans.knaw.nl)| | **F**|uvicorn| | | | | | | | :white_check_mark: | |Python Uvicorn||
+|[https://pts31.dans.knaw.nl](https://pts31.dans.knaw.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|Index of /|
+|[https://va31.dans.knaw.nl](https://va31.dans.knaw.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|Index of /|
+|[http://uptime.huc.knaw.nl](http://uptime.huc.knaw.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|301 Moved Perman...|
+|[https://zalen.huc.knaw.nl](https://zalen.huc.knaw.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|403 Forbidden|
+|[https://goudeneeuwblog.huygens.knaw.nl](https://goudeneeuwblog.huygens.knaw.nl)| | **F**|Apache/2.4.41 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.41 Ubuntu|403 Forbidden|
+|[https://hermansdigitaal.huygens.knaw.nl](https://hermansdigitaal.huygens.knaw.nl)| | **F**|Apache/2.4.41 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.41 Ubuntu|403 Forbidden|
+|[https://dataverse-date-updater.labs.dans.knaw.nl](https://dataverse-date-updater.labs.dans.knaw.nl)| | **F**|uvicorn| | | | | | | | :white_check_mark: | |Python Uvicorn||
+|[https://back2roots.nioo.knaw.nl](https://back2roots.nioo.knaw.nl)| | **B**|nginx| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Drupal:9 HSTS Nginx PHP Varnish:6.2|Redirecting to h...|
+|[https://promise.nioo.knaw.nl](https://promise.nioo.knaw.nl)| | **B**|nginx| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Drupal HSTS Nginx PHP Varnish|Redirecting to h...|
 
 

@@ -26,11 +26,11 @@ lvbb-preprod.overheid.nl
 overheid.nl
 cio.overheid.nl
 lokaleregelgeving-eto.overheid.nl
-repository-eto.overheid.nl
 treatydatabase.overheid.nl
 api.mijn.overheid.nl
 api.preprod.mijn.overheid.nl
 gegevensdelen.preprod.mijn.overheid.nl
+artifact-rd1.toegang.overheid.nl
 bag.basisregistraties.overheid.nl
 bag.test.basisregistraties.overheid.nl
 bag2.basisregistraties.overheid.nl
@@ -223,6 +223,7 @@ wetgevingskalender-acc.overheid.nl
 pdc.acc.omgevingswet.overheid.nl
 pdc.omgevingswet.overheid.nl
 plan-plan-validatie.pre.omgevingswet.overheid.nl
+pp1.toegang.overheid.nl
 puc-acc.overheid.nl
 puc-redactie-acc.overheid.nl
 puc-redactie.overheid.nl
@@ -293,7 +294,6 @@ mnd-preprd.overheid.nl
 oproepingen-api-preprd-poc.overheid.nl
 demo1-systemteam.overheid.nl
 digid-stub.lpc.mijn.overheid.nl
-identifier-eto.overheid.nl
 ondersteuning.omgevingswet.overheid.nl
 pdc.pre.omgevingswet.overheid.nl
 pp2.toegang.overheid.nl

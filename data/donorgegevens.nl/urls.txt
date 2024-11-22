@@ -1,4 +1,3 @@
-https://aanvraag.donorgegevens.nl
 https://acceptatie.aanvraag.donorgegevens.nl
 https://acceptatie.behandel.donorgegevens.nl
 https://behandel.donorgegevens.nl
@@ -6,5 +5,4 @@ https://donorgegevens.nl
 https://feeds.donorgegevens.nl
 https://opendata.donorgegevens.nl
 https://www.donorgegevens.nl
-https://klinieken.donorgegevens.nl
 https://acceptatie.klinieken.donorgegevens.nl

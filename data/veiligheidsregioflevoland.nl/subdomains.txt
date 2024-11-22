@@ -6,6 +6,8 @@ mail.veiligheidsregioflevoland.nl
 autodiscover.veiligheidsregioflevoland.nl
 enterpriseenrollment.veiligheidsregioflevoland.nl
 enterpriseregistration.veiligheidsregioflevoland.nl
-rcf.veiligheidsregioflevoland.nl
-tada.veiligheidsregioflevoland.nl
+dept.veiligheidsregioflevoland.nl
+bowie.veiligheidsregioflevoland.nl
+industrial.veiligheidsregioflevoland.nl
+forefront.veiligheidsregioflevoland.nl
 msoid.veiligheidsregioflevoland.nl

@@ -11,8 +11,8 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/mensenrechten.nl/subdomains.txt)|17|Alive subdomains|
-|[urls.txt](/data/mensenrechten.nl/urls.txt)|17|Urls|
+|[subdomains.txt](/data/mensenrechten.nl/subdomains.txt)|15|Alive subdomains|
+|[urls.txt](/data/mensenrechten.nl/urls.txt)|15|Urls|
 
 
 ## Statistics
@@ -28,9 +28,7 @@
 |[https://mensenrechten.nl](https://mensenrechten.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
 |[https://opendata.mensenrechten.nl](https://opendata.mensenrechten.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://www.mensenrechten.nl](https://www.mensenrechten.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Home | College v...|
-|[https://intranet.mensenrechten.nl](https://intranet.mensenrechten.nl)| | **A**|nginx|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Express HSTS Nginx Sails.js||
 |[https://klachtenformulierlink.mensenrechten.nl](https://klachtenformulierlink.mensenrechten.nl)| | **A**|| |:white_check_mark: | :warning:| | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS|SMTP2GO|
-|[https://leren.mensenrechten.nl](https://leren.mensenrechten.nl)| | **A**|Apache/2.4.59 (Ubuntu)| |:white_check_mark: | | | :white_check_mark:| | | :white_check_mark: | |Apache HTTP Server:2.4.59 HSTS Ubuntu||
 |[https://micollab.mensenrechten.nl](https://micollab.mensenrechten.nl)| | **A**|Apache| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS|Redirecting...|
 |[https://publicaties.mensenrechten.nl](https://publicaties.mensenrechten.nl)| | **A**|Microsoft-IIS/10.0| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS IIS:10.0 Windows Server||
 |[http://autodiscover.mensenrechten.nl](http://autodiscover.mensenrechten.nl)| | **C**|Microsoft-IIS/10.0| |:white_check_mark: | | | | | | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server||

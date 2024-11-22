@@ -12,7 +12,7 @@
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/huurcommissie.nl/subdomains.txt)|18|Alive subdomains|
-|[urls.txt](/data/huurcommissie.nl/urls.txt)|16|Urls|
+|[urls.txt](/data/huurcommissie.nl/urls.txt)|18|Urls|
 
 
 ## Statistics
@@ -36,5 +36,7 @@
 |[https://enterpriseregistration.huurcommissie.nl](https://enterpriseregistration.huurcommissie.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://hip.huurcommissie.nl](https://hip.huurcommissie.nl)| | **A**|nginx| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS Nginx|Huurcommissie|
 |[https://vpn.huurcommissie.nl](https://vpn.huurcommissie.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
+|[https://msoid.huurcommissie.nl](https://msoid.huurcommissie.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Object moved|
+|[https://vouch.checkjeprijs.huurcommissie.nl](https://vouch.checkjeprijs.huurcommissie.nl)| | **B**||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS||
 
 

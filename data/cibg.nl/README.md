@@ -6,13 +6,13 @@
 
  - **SSL Grade**:
  - **HTTP Security Grade**:C
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:24
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:28
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/cibg.nl/subdomains.txt)|51|Alive subdomains|
-|[urls.txt](/data/cibg.nl/urls.txt)|51|Urls|
+|[subdomains.txt](/data/cibg.nl/subdomains.txt)|55|Alive subdomains|
+|[urls.txt](/data/cibg.nl/urls.txt)|55|Urls|
 
 
 ## Statistics
@@ -22,12 +22,16 @@
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[http://acceptatie.ag-dcr.cibg.nl](http://acceptatie.ag-dcr.cibg.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[http://acceptatie.api.kcc.cibg.nl](http://acceptatie.api.kcc.cibg.nl)| | **F**|BigIP| | | | | | | | :white_check_mark: | |F5 BigIP||
+|[https://acceptatie.beheer.lir.cibg.nl](https://acceptatie.beheer.lir.cibg.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
+|[https://acceptatie.beheer.lrza.cibg.nl](https://acceptatie.beheer.lrza.cibg.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://acceptatie.bestandsportaal.cibg.nl](https://acceptatie.bestandsportaal.cibg.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|acceptatie.besta...|
+|[https://acceptatie.designsystem.cibg.nl](https://acceptatie.designsystem.cibg.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[http://acceptatie.digikoppeling.cibg.nl](http://acceptatie.digikoppeling.cibg.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||
 |[https://acceptatie.lir.cibg.nl](https://acceptatie.lir.cibg.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://acceptatie.meldingen.klopt.cibg.nl](https://acceptatie.meldingen.klopt.cibg.nl)| | **F**|awselb/2.0| | | | | | | | :white_check_mark: | |Amazon ELB Amazon Web Services||
 |[https://acceptatie.portaal.competent.cibg.nl](https://acceptatie.portaal.competent.cibg.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://acceptatie.portaal.digilevering.cibg.nl](https://acceptatie.portaal.digilevering.cibg.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
+|[https://acceptatie.publicwebservices.cibg.nl](https://acceptatie.publicwebservices.cibg.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://acceptatie.tmv.cibg.nl](https://acceptatie.tmv.cibg.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://acceptatie.uzipas.lir.cibg.nl](https://acceptatie.uzipas.lir.cibg.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[http://ag-dcr.cibg.nl](http://ag-dcr.cibg.nl)| | **E**|| | | | | | | | :white_check_mark: | |||

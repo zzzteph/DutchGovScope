@@ -29,11 +29,13 @@ https://static.live.werkenbij.rijkswaterstaat.nl
 https://static.staging.rijkswaterstaat.nl
 https://www.rijkswaterstaat.nl
 https://rijkswaterstaat.nl
+https://bezoekerscentrum.rijkswaterstaat.nl
+https://test.bezoekerscentrum.rijkswaterstaat.nl
+https://www.bezoekerscentrum.rijkswaterstaat.nl
 https://bmm2016.rijkswaterstaat.nl
 https://botova.rijkswaterstaat.nl
 https://crisiswerkplek.rijkswaterstaat.nl
 http://data-acc.rijkswaterstaat.nl
-https://demo-geoservices.rijkswaterstaat.nl
 https://esb.rijkswaterstaat.nl
 https://etl.rijkswaterstaat.nl
 https://feeds.nieuwsbrieven.rijkswaterstaat.nl
@@ -45,7 +47,7 @@ https://geoweb.rijkswaterstaat.nl
 https://iam.rijkswaterstaat.nl
 https://inloggen.rijkswaterstaat.nl
 http://innovatie-test.rijkswaterstaat.nl
-http://loket.acceptatie.rijkswaterstaat.nl
+https://loket.acceptatie.rijkswaterstaat.nl
 https://loket.rijkswaterstaat.nl
 https://maps.rijkswaterstaat.nl
 https://mars.rijkswaterstaat.nl
@@ -72,6 +74,7 @@ https://topdesk.rijkswaterstaat.nl
 https://vegetatiemonitor.rijkswaterstaat.nl
 http://viya.rijkswaterstaat.nl
 https://wachtwoord.rijkswaterstaat.nl
+https://waterwebservices.beta.rijkswaterstaat.nl
 http://webmail.rijkswaterstaat.nl
 https://zaaksysteem-acc.rijkswaterstaat.nl
 https://zaaksysteem.rijkswaterstaat.nl

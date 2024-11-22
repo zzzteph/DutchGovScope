@@ -10,6 +10,8 @@ open.waterschaplimburg.nl
 spapps-t.waterschaplimburg.nl
 spapps.waterschaplimburg.nl
 subsidie.waterschaplimburg.nl
+test-cms-eef.waterschaplimburg.nl
+test-eef.waterschaplimburg.nl
 transfer.waterschaplimburg.nl
 wikixl-saml.acceptatie.waterschaplimburg.nl
 www.waterschaplimburg.nl
@@ -18,7 +20,6 @@ kennis.waterschaplimburg.nl
 inloggen.waterschaplimburg.nl
 mail.waterschaplimburg.nl
 maps.waterschaplimburg.nl
-winssen.waterschaplimburg.nl
 autodiscover.waterschaplimburg.nl
 kennisbank.waterschaplimburg.nl
 wikixl-saml.waterschaplimburg.nl

@@ -6,3 +6,4 @@ https://pfos-pfoa-cow.apps.feedfoodtransfer.nl
 https://aflatoxinb1m1-cow.apps.feedfoodtransfer.nl
 https://ndlpcb-hen.apps.feedfoodtransfer.nl
 https://cadmium-pig.apps.feedfoodtransfer.nl
+https://dioxins-totalteq-pig.apps.feedfoodtransfer.nl

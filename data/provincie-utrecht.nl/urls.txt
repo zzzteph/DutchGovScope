@@ -1,4 +1,4 @@
-https://wortel184.provincie-utrecht.nl
+https://espt.provincie-utrecht.nl
 https://assystnet-test-t.provincie-utrecht.nl
 https://geo.provincie-utrecht.nl
 https://gis.provincie-utrecht.nl
@@ -66,7 +66,6 @@ https://sslvpn.provincie-utrecht.nl
 https://stateninformatie.provincie-utrecht.nl
 https://www.stateninformatie.provincie-utrecht.nl
 https://tramdashboard.provincie-utrecht.nl
-https://vctu-api.provincie-utrecht.nl
 https://vctu.provincie-utrecht.nl
 https://veiligdelen.provincie-utrecht.nl
 http://webkaart-sld.provincie-utrecht.nl
@@ -84,7 +83,6 @@ https://ib-preprod.provincie-utrecht.nl
 https://ib.provincie-utrecht.nl
 https://monitoromgevingsbeleid.provincie-utrecht.nl
 https://omgevingsbeleid.provincie-utrecht.nl
-https://iapp.provincie-utrecht.nl
 https://rmb.provincie-utrecht.nl
 https://govroam.provincie-utrecht.nl
 https://mfa.provincie-utrecht.nl
@@ -92,3 +90,5 @@ http://localhost.provincie-utrecht.nl
 http://autodiscover.provincie-utrecht.nl
 https://burgemeesters.provincie-utrecht.nl
 https://ris.provincie-utrecht.nl
+https://zsd.provincie-utrecht.nl
+https://sap-s4h-p.provincie-utrecht.nl

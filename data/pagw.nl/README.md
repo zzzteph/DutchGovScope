@@ -12,7 +12,7 @@
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/pagw.nl/subdomains.txt)|5|Alive subdomains|
-|[urls.txt](/data/pagw.nl/urls.txt)|4|Urls|
+|[urls.txt](/data/pagw.nl/urls.txt)|5|Urls|
 
 
 ## Statistics
@@ -24,5 +24,6 @@
 |[https://opendata.pagw.nl](https://opendata.pagw.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://www.pagw.nl](https://www.pagw.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Home | PAGW|
 |[https://pagw.nl](https://pagw.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
+|[https://streefbeelden.pagw.nl](https://streefbeelden.pagw.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 
 

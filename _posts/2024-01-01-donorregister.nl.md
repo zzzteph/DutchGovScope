@@ -46,7 +46,7 @@ tags: dutchgov
 |[https://feeds.english.donorregister.nl](https://feeds.english.donorregister.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://opendata.donorregister.nl](https://opendata.donorregister.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://mijn.donorregister.nl](https://mijn.donorregister.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Mijn registratie|
-|[https://raadplegen.donorregister.nl](https://raadplegen.donorregister.nl)| | **A**|-| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Raadplegen Donor...|
+|[https://raadplegen.donorregister.nl](https://raadplegen.donorregister.nl)| | **A**|-| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://www.donorregister.nl](https://www.donorregister.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Home | Donorregi...|
 
 

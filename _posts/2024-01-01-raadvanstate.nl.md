@@ -2,8 +2,8 @@
 layout: default
 title: "raadvanstate.nl"
 permalink: "/dutchgov/raadvanstate.nl.html"
-subdomains_count: 30
-urls_count: 30
+subdomains_count: 29
+urls_count: 29
 ssl_rank: 
 http_rank: C
 security_txt: 9
@@ -25,8 +25,8 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/raadvanstate.nl/subdomains.txt)|30|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/raadvanstate.nl/urls.txt)|30|Urls|
+|[subdomains.txt](/DutchGovScope/data/raadvanstate.nl/subdomains.txt)|29|Alive subdomains|
+|[urls.txt](/DutchGovScope/data/raadvanstate.nl/urls.txt)|29|Urls|
 
 
 ## Statistics
@@ -56,7 +56,6 @@ tags: dutchgov
 |[https://portaal.gateway.raadvanstate.nl](https://portaal.gateway.raadvanstate.nl)| | **F**|Layer7-API-Gateway| | | | | | | | :white_check_mark: | |||
 |[https://siam-acp.raadvanstate.nl](https://siam-acp.raadvanstate.nl)| | **A**|N.A.| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bootstrap HSTS|Mijn Zaak - Aanm...|
 |[https://siam.raadvanstate.nl](https://siam.raadvanstate.nl)| | **A**|N.A.| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bootstrap HSTS|Mijn Zaak - Inlo...|
-|[https://sts-acp.raadvanstate.nl](https://sts-acp.raadvanstate.nl)| | **E**|| | | | | | | | :white_check_mark: | |PHP||
 |[https://www.raadvanstate.nl](https://www.raadvanstate.nl)| | **B**|cloudflare| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Cloudflare HSTS|Just a moment...|
 |[https://zittingsagenda.raadvanstate.nl](https://zittingsagenda.raadvanstate.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server||
 |[http://kennisbank.raadvanstate.nl](http://kennisbank.raadvanstate.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Not Found|
