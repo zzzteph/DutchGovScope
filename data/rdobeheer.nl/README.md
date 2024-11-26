@@ -12,7 +12,7 @@
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/rdobeheer.nl/subdomains.txt)|69|Alive subdomains|
-|[urls.txt](/data/rdobeheer.nl/urls.txt)|65|Urls|
+|[urls.txt](/data/rdobeheer.nl/urls.txt)|69|Urls|
 
 
 ## Statistics
@@ -85,5 +85,9 @@
 |[http://web.test.dpr.rdobeheer.nl](http://web.test.dpr.rdobeheer.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[http://acc.rdobeheer.nl](http://acc.rdobeheer.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://stats.rdobeheer.nl](https://stats.rdobeheer.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |HSTS Nginx|302 Found|
+|[http://test.dusi.rdobeheer.nl](http://test.dusi.rdobeheer.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
+|[http://acc.dusi.rdobeheer.nl](http://acc.dusi.rdobeheer.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
+|[http://test.dpr.rdobeheer.nl](http://test.dpr.rdobeheer.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
+|[http://acc.dpr.rdobeheer.nl](http://acc.dpr.rdobeheer.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 
 

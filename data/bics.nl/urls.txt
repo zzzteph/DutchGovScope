@@ -9,3 +9,4 @@ http://nlhull.bics.nl
 http://nlrdms.bics.nl
 https://bicsaccweb1.bics.nl
 https://bicsweb1.bics.nl
+https://bicsweb3.bics.nl

@@ -364,6 +364,7 @@ hisgis.fa.knaw.nl
 hisgis2.fa.knaw.nl
 hucdrive.huc.knaw.nl
 hweb.knaw.nl
+intranetzonder.knaw.nl
 logo.huygens.knaw.nl
 maps.fa.knaw.nl
 mapserver.fa.knaw.nl
@@ -522,6 +523,9 @@ tus.labs.dans.knaw.nl
 version-tracker.labs.dans.knaw.nl
 pts31.dans.knaw.nl
 va31.dans.knaw.nl
+gl-skosmos.dev.huc.knaw.nl
+teamcity.dev.huc.knaw.nl
+yasgui.dev.huc.knaw.nl
 uptime.huc.knaw.nl
 zalen.huc.knaw.nl
 goudeneeuwblog.huygens.knaw.nl

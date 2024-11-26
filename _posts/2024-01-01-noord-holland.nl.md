@@ -2,7 +2,7 @@
 layout: default
 title: "noord-holland.nl"
 permalink: "/dutchgov/noord-holland.nl.html"
-subdomains_count: 64
+subdomains_count: 65
 urls_count: 64
 ssl_rank: 
 http_rank: B
@@ -25,7 +25,7 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/noord-holland.nl/subdomains.txt)|64|Alive subdomains|
+|[subdomains.txt](/DutchGovScope/data/noord-holland.nl/subdomains.txt)|65|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/noord-holland.nl/urls.txt)|64|Urls|
 
 

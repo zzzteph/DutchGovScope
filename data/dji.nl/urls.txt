@@ -12,4 +12,3 @@ https://zorgconnect-acpt.dji.nl
 https://zorgconnect.dji.nl
 https://cdn.dji.nl
 https://ftp.dji.nl
-https://video-acc.beeldbellen.dji.nl

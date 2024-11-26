@@ -11,8 +11,8 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/valys.nl/subdomains.txt)|2749|Alive subdomains|
-|[urls.txt](/data/valys.nl/urls.txt)|1454|Urls|
+|[subdomains.txt](/data/valys.nl/subdomains.txt)|2756|Alive subdomains|
+|[urls.txt](/data/valys.nl/urls.txt)|1455|Urls|
 
 
 ## Statistics
@@ -1474,5 +1474,6 @@
 |[https://student5.valys.nl](https://student5.valys.nl)| | **F**|Apache/2.4.52 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.52 HSTS Ubuntu|301 Moved Perman...|
 |[https://ivp.valys.nl](https://ivp.valys.nl)| | **F**|Apache/2.4.52 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.52 HSTS Ubuntu|301 Moved Perman...|
 |[https://30www.valys.nl](https://30www.valys.nl)| | **F**|Apache/2.4.52 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.52 HSTS Ubuntu|301 Moved Perman...|
+|[https://uurwww.valys.nl](https://uurwww.valys.nl)| | **F**|Apache/2.4.52 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.52 HSTS Ubuntu|301 Moved Perman...|
 
 

@@ -6,7 +6,7 @@
 
  - **SSL Grade**:
  - **HTTP Security Grade**:B
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:164
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:165
 
 
 | File       | Count | Info |
@@ -329,7 +329,7 @@
 |[https://water.omgevingswet.overheid.nl](https://water.omgevingswet.overheid.nl)| | **C**|unspecified| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
 |[https://autodiscover.overheid.nl](https://autodiscover.overheid.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Not Found|
 |[http://ref.omgevingswet.overheid.nl](http://ref.omgevingswet.overheid.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
-|[http://repository-preprod.overheid.nl](http://repository-preprod.overheid.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
+|[https://repository-preprod.overheid.nl](https://repository-preprod.overheid.nl)| | **A**|| |:white_check_mark: | :warning:| | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://lvbb-lto.overheid.nl](https://lvbb-lto.overheid.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx||
 
 

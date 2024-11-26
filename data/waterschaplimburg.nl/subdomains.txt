@@ -27,3 +27,4 @@ ftp.waterschaplimburg.nl
 voip.waterschaplimburg.nl
 vpn.waterschaplimburg.nl
 werkplek.waterschaplimburg.nl
+publicaffairs.waterschaplimburg.nl

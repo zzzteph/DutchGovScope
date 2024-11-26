@@ -11,3 +11,4 @@ https://www.perined.nl
 https://evaluatie.perined.nl
 http://autodiscover.perined.nl
 http://localhost.perined.nl
+https://webmail.perined.nl

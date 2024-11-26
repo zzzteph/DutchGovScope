@@ -6,13 +6,13 @@
 
  - **SSL Grade**:
  - **HTTP Security Grade**:C
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:50
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:48
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/rvo.nl/subdomains.txt)|126|Alive subdomains|
-|[urls.txt](/data/rvo.nl/urls.txt)|120|Urls|
+|[subdomains.txt](/data/rvo.nl/subdomains.txt)|125|Alive subdomains|
+|[urls.txt](/data/rvo.nl/urls.txt)|121|Urls|
 
 
 ## Statistics
@@ -83,7 +83,6 @@
 |[https://edu-mijnoctrooi.rvo.nl](https://edu-mijnoctrooi.rvo.nl)| | **F**|Server| | | | | | | | :white_check_mark: | |||
 |[https://egeo.rvo.nl](https://egeo.rvo.nl)| | **B**||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS|Onderhoud Pagina|
 |[https://emobility.rvo.nl](https://emobility.rvo.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
-|[https://energieslag.rvo.nl](https://energieslag.rvo.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://intranetvan.rvo.nl](https://intranetvan.rvo.nl)| | **C**||:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|302 Found|
 |[https://kennisdelen.rvo.nl](https://kennisdelen.rvo.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache Tomcat Fourthwall:1.0.0 HSTS Java MariaDB Skolengo:1.0.0|Kennisdelen RVO|
 |[https://networkabroad.rvo.nl](https://networkabroad.rvo.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS|404 Not Found|
@@ -99,7 +98,6 @@
 |[https://gtpa.rvo.nl](https://gtpa.rvo.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS|Onderhoud Pagina|
 |[https://infographics.rvo.nl](https://infographics.rvo.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|307 Temporary Re...|
 |[https://www.infographics.rvo.nl](https://www.infographics.rvo.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Nginx|301 Moved Perman...|
-|[https://intra-acc.rvo.nl](https://intra-acc.rvo.nl)| | **A**||:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://intra-cms-acc.rvo.nl](https://intra-cms-acc.rvo.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|403 - Forbidden:...|
 |[https://intra-cms.rvo.nl](https://intra-cms.rvo.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|403 - Forbidden:...|
 |[https://intra.rvo.nl](https://intra.rvo.nl)| | **C**||:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
@@ -138,6 +136,9 @@
 |[http://rhel-np-mijn.rvo.nl](http://rhel-np-mijn.rvo.nl)| | **F**|BigIP| | | | | | | | :white_check_mark: | |F5 BigIP||
 |[https://sandbox.rvo.nl](https://sandbox.rvo.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS|403 Forbidden|
 |[https://redesign.rvo.nl](https://redesign.rvo.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Basic Nginx|401 Authorizatio...|
+|[https://auth-edu-iam.mijnoctrooi.mypage.rvo.nl](https://auth-edu-iam.mijnoctrooi.mypage.rvo.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
+|[https://edu-iam.mijnoctrooi.mypage.rvo.nl](https://edu-iam.mijnoctrooi.mypage.rvo.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
+|[https://edu.mijnoctrooi.mypage.rvo.nl](https://edu.mijnoctrooi.mypage.rvo.nl)| | **E**|MyPage| | | | | | :white_check_mark: | | :white_check_mark: | |||
 |[https://english-acc.rvo.nl](https://english-acc.rvo.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS|403 Forbidden|
 |[https://sandbox-cms.rvo.nl](https://sandbox-cms.rvo.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS|403 Forbidden|
 

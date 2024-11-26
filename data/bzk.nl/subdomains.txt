@@ -1,4 +1,3 @@
-bzk.nl
 www.bzk.nl
 app.wallet.edi.bzk.nl
 app.preproductie.wallet.edi.bzk.nl

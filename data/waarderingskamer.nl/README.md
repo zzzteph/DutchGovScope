@@ -11,7 +11,7 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/waarderingskamer.nl/subdomains.txt)|12|Alive subdomains|
+|[subdomains.txt](/data/waarderingskamer.nl/subdomains.txt)|13|Alive subdomains|
 |[urls.txt](/data/waarderingskamer.nl/urls.txt)|12|Urls|
 
 

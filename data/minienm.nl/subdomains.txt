@@ -2,7 +2,6 @@ acc.service.mpn.minienm.nl
 mpn-acc.minienm.nl
 mpn-tst.minienm.nl
 tst.service.mpn.minienm.nl
-bct.csp.minienm.nl
 csp.minienm.nl
 minienm.nl
 sociaalfonds.minienm.nl

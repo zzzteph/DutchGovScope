@@ -7,3 +7,4 @@ www.symposium.keringhuis.nl
 autodiscover.keringhuis.nl
 localhost.keringhuis.nl
 pop.keringhuis.nl
+smtpdma.keringhuis.nl

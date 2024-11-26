@@ -11,8 +11,8 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/belastingdienst.nl/subdomains.txt)|116|Alive subdomains|
-|[urls.txt](/data/belastingdienst.nl/urls.txt)|116|Urls|
+|[subdomains.txt](/data/belastingdienst.nl/subdomains.txt)|115|Alive subdomains|
+|[urls.txt](/data/belastingdienst.nl/urls.txt)|115|Urls|
 
 
 ## Statistics
@@ -56,7 +56,6 @@
 |[https://fibi1.belastingdienst.nl](https://fibi1.belastingdienst.nl)| | **C**|| | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | ||Request Rejected|
 |[https://fibz1.belastingdienst.nl](https://fibz1.belastingdienst.nl)| | **C**|| | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | ||Request Rejected|
 |[https://filetransfer.belastingdienst.nl](https://filetransfer.belastingdienst.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|302 Found|
-|[https://filetransfer.ont.belastingdienst.nl](https://filetransfer.ont.belastingdienst.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|302 Found|
 |[https://fmis.acc.belastingdienst.nl](https://fmis.acc.belastingdienst.nl)| | **C**|| | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | ||Toegang geblokke...|
 |[https://fmis.belastingdienst.nl](https://fmis.belastingdienst.nl)| | **C**|| | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | ||Toegang geblokke...|
 |[https://fsvportaal.belastingdienst.nl](https://fsvportaal.belastingdienst.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Home - FSV|

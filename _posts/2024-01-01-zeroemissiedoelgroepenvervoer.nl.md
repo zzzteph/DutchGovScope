@@ -2,7 +2,7 @@
 layout: default
 title: "zeroemissiedoelgroepenvervoer.nl"
 permalink: "/dutchgov/zeroemissiedoelgroepenvervoer.nl.html"
-subdomains_count: 1
+subdomains_count: 2
 urls_count: 1
 ssl_rank: 
 http_rank: F
@@ -25,7 +25,7 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/zeroemissiedoelgroepenvervoer.nl/subdomains.txt)|1|Alive subdomains|
+|[subdomains.txt](/DutchGovScope/data/zeroemissiedoelgroepenvervoer.nl/subdomains.txt)|2|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/zeroemissiedoelgroepenvervoer.nl/urls.txt)|1|Urls|
 
 
@@ -34,6 +34,6 @@ tags: dutchgov
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://zeroemissiedoelgroepenvervoer.nl](https://zeroemissiedoelgroepenvervoer.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server Breadcrumb NavXT:7.3.1 MySQL PHP WordPress:6.7|Zero Emissie Doe...|
+|[https://zeroemissiedoelgroepenvervoer.nl](https://zeroemissiedoelgroepenvervoer.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server Breadcrumb NavXT:7.3.1 MySQL PHP WordPress:6.7.1|Zero Emissie Doe...|
 
 

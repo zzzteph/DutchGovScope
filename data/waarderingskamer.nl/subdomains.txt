@@ -10,3 +10,4 @@ search.waarderingskamer.nl
 wem-live.waarderingskamer.nl
 woz-it.waarderingskamer.nl
 scim.waarderingskamer.nl
+testnoc.waarderingskamer.nl

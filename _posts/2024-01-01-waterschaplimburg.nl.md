@@ -2,7 +2,7 @@
 layout: default
 title: "waterschaplimburg.nl"
 permalink: "/dutchgov/waterschaplimburg.nl.html"
-subdomains_count: 29
+subdomains_count: 30
 urls_count: 29
 ssl_rank: 
 http_rank: B
@@ -25,7 +25,7 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/waterschaplimburg.nl/subdomains.txt)|29|Alive subdomains|
+|[subdomains.txt](/DutchGovScope/data/waterschaplimburg.nl/subdomains.txt)|30|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/waterschaplimburg.nl/urls.txt)|29|Urls|
 
 
@@ -58,7 +58,7 @@ tags: dutchgov
 |[https://maps.waterschaplimburg.nl](https://maps.waterschaplimburg.nl)| | **F**|Microsoft-IIS/10.0| | | | | | | | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server|403 - Forbidden:...|
 |[https://autodiscover.waterschaplimburg.nl](https://autodiscover.waterschaplimburg.nl)| | **E**|Microsoft-IIS/10.0| | | | | | :white_check_mark: | | :white_check_mark: | |IIS:10.0 Windows Server||
 |[https://kennisbank.waterschaplimburg.nl](https://kennisbank.waterschaplimburg.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |||
-|[https://wikixl-saml.waterschaplimburg.nl](https://wikixl-saml.waterschaplimburg.nl)| | **B**|Apache| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS Varnish:6.6|Redirect|
+|[https://wikixl-saml.waterschaplimburg.nl](https://wikixl-saml.waterschaplimburg.nl)| | **B**|Apache| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS Varnish|Redirect|
 |[https://ftp.waterschaplimburg.nl](https://ftp.waterschaplimburg.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
 |[https://voip.waterschaplimburg.nl](https://voip.waterschaplimburg.nl)| | **A**|Apache| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS|Redirecting...|
 |[https://vpn.waterschaplimburg.nl](https://vpn.waterschaplimburg.nl)| | **A**||:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||

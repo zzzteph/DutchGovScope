@@ -1,4 +1,3 @@
-https://acceptatie.behandel.registersocialehygiene.nl
 https://acceptatie.zoeken.registersocialehygiene.nl
 https://behandel.registersocialehygiene.nl
 https://feeds.registersocialehygiene.nl
@@ -8,5 +7,3 @@ https://www.registersocialehygiene.nl
 https://mijn.registersocialehygiene.nl
 https://zoeken.registersocialehygiene.nl
 https://acceptatie.mijn.registersocialehygiene.nl
-https://acceptatie.beheer.registersocialehygiene.nl
-https://beheer.registersocialehygiene.nl

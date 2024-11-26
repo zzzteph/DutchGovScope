@@ -11,8 +11,8 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/eherkenning.nl/subdomains.txt)|22|Alive subdomains|
-|[urls.txt](/data/eherkenning.nl/urls.txt)|22|Urls|
+|[subdomains.txt](/data/eherkenning.nl/subdomains.txt)|21|Alive subdomains|
+|[urls.txt](/data/eherkenning.nl/urls.txt)|21|Urls|
 
 
 ## Statistics
@@ -31,7 +31,6 @@
 |[https://prod-dictu.eherkenning.nl](https://prod-dictu.eherkenning.nl)| | **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |Basic HSTS Nginx|401 Authorizatio...|
 |[https://extranet.eherkenning.nl](https://extranet.eherkenning.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|404 Not Found|
 |[https://kpn-eid-acc.sso.eherkenning.nl](https://kpn-eid-acc.sso.eherkenning.nl)| | **A**|Apache| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS|KPN IDentity Ser...|
-|[https://reconi-etoegang-acc.sso.eherkenning.nl](https://reconi-etoegang-acc.sso.eherkenning.nl)| | **A**|Apache| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS|Test Page for th...|
 |[https://kpn-eid-pp.sso.eherkenning.nl](https://kpn-eid-pp.sso.eherkenning.nl)| | **A**|Apache| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS|KPN IDentity Ser...|
 |[https://reconi-etoegang-pp.sso.eherkenning.nl](https://reconi-etoegang-pp.sso.eherkenning.nl)| | **A**|Apache| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS|Reconi IDentity...|
 |[https://kpn-eid.sso.eherkenning.nl](https://kpn-eid.sso.eherkenning.nl)| | **A**|Apache| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS|KPN IDentity Ser...|

@@ -12,7 +12,7 @@
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/duo.nl/subdomains.txt)|30|Alive subdomains|
-|[urls.txt](/data/duo.nl/urls.txt)|29|Urls|
+|[urls.txt](/data/duo.nl/urls.txt)|30|Urls|
 
 
 ## Statistics
@@ -49,5 +49,6 @@
 |[https://xbrlonderwijsportaal-acp.duo.nl](https://xbrlonderwijsportaal-acp.duo.nl)| | **A**|istio-envoy| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Amazon Web Services Envoy HSTS|Serviceportaal|
 |[https://xbrlonderwijsportaal.duo.nl](https://xbrlonderwijsportaal.duo.nl)| | **A**|istio-envoy| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Amazon Web Services Envoy HSTS|Serviceportaal|
 |[https://zakelijk.duo.nl](https://zakelijk.duo.nl)| | **A**||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Inloggen op Mijn...|
+|[https://congres.duo.nl](https://congres.duo.nl)| | **F**|Apache/2.4.41| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.41||
 
 

@@ -5,8 +5,8 @@
 
 
  - **SSL Grade**:
- - **HTTP Security Grade**:F
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:0
+ - **HTTP Security Grade**:A
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:2
 
 
 | File       | Count | Info |
@@ -20,7 +20,7 @@
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://kik-starter.nl](https://kik-starter.nl)| | **F**|istio-envoy| | | | | | | | :white_check_mark: | |||
-|[https://www.kik-starter.nl](https://www.kik-starter.nl)| | **F**|istio-envoy| | | | | | | | :white_check_mark: | |||
+|[https://kik-starter.nl](https://kik-starter.nl)| | **A**|istio-envoy| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |||
+|[https://www.kik-starter.nl](https://www.kik-starter.nl)| | **A**|istio-envoy| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |||
 
 

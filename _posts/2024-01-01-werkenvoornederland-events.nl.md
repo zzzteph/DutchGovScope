@@ -2,7 +2,7 @@
 layout: default
 title: "werkenvoornederland-events.nl"
 permalink: "/dutchgov/werkenvoornederland-events.nl.html"
-subdomains_count: 1
+subdomains_count: 3
 urls_count: 1
 ssl_rank: 
 http_rank: A
@@ -25,7 +25,7 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/werkenvoornederland-events.nl/subdomains.txt)|1|Alive subdomains|
+|[subdomains.txt](/DutchGovScope/data/werkenvoornederland-events.nl/subdomains.txt)|3|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/werkenvoornederland-events.nl/urls.txt)|1|Urls|
 
 

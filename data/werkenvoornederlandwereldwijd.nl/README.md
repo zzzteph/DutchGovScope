@@ -20,7 +20,7 @@
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://werkenvoornederlandwereldwijd.nl](https://werkenvoornederlandwereldwijd.nl)| | **A**|cloudflare| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Cloudflare HSTS|301 Moved Perman...|
-|[https://www.werkenvoornederlandwereldwijd.nl](https://www.werkenvoornederlandwereldwijd.nl)| | **A**|cloudflare| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Cloudflare HSTS|301 Moved Perman...|
+|[https://werkenvoornederlandwereldwijd.nl](https://werkenvoornederlandwereldwijd.nl)| | **A**|AkamaiGHost| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS HTTP/3||
+|[https://www.werkenvoornederlandwereldwijd.nl](https://www.werkenvoornederlandwereldwijd.nl)| | **A**|AkamaiGHost| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS HTTP/3||
 
 

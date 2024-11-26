@@ -3,10 +3,10 @@ layout: default
 title: "onderzoekmetmensen.nl"
 permalink: "/dutchgov/onderzoekmetmensen.nl.html"
 subdomains_count: 11
-urls_count: 5
+urls_count: 11
 ssl_rank: 
-http_rank: D
-security_txt: 2
+http_rank: E
+security_txt: 3
 url_link: /data/onderzoekmetmensen.nl/urls.txt
 subdomains_link: /data/onderzoekmetmensen.nl/subdomains.txt
 categories: dutchgov
@@ -19,14 +19,14 @@ tags: dutchgov
 
 
  - **SSL Grade**:
- - **HTTP Security Grade**:D
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:2
+ - **HTTP Security Grade**:E
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:3
 
 
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/DutchGovScope/data/onderzoekmetmensen.nl/subdomains.txt)|11|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/onderzoekmetmensen.nl/urls.txt)|5|Urls|
+|[urls.txt](/DutchGovScope/data/onderzoekmetmensen.nl/urls.txt)|11|Urls|
 
 
 ## Statistics
@@ -39,5 +39,11 @@ tags: dutchgov
 |[https://acc.onderzoekmetmensen.nl](https://acc.onderzoekmetmensen.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Basic HSTS Nginx|401 Authorizatio...|
 |[https://portaal-acc.onderzoekmetmensen.nl](https://portaal-acc.onderzoekmetmensen.nl)| | **F**|nginx/1.26.2| | | | | | | | :white_check_mark: | |Basic HSTS Nginx:1.26.2|401 Authorizatio...|
 |[https://test.onderzoekmetmensen.nl](https://test.onderzoekmetmensen.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Basic HSTS Nginx|401 Authorizatio...|
+|[https://pmon-tst.onderzoekmetmensen.nl](https://pmon-tst.onderzoekmetmensen.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Basic HSTS Nginx|401 Authorizatio...|
+|[https://pmon-acc.onderzoekmetmensen.nl](https://pmon-acc.onderzoekmetmensen.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Drupal:10 HSTS Nginx PHP|Inloggen | CCMO...|
+|[https://portaal-tst.onderzoekmetmensen.nl](https://portaal-tst.onderzoekmetmensen.nl)| | **F**|nginx/1.26.2| | | | | | | | :white_check_mark: | |Basic HSTS Nginx:1.26.2|401 Authorizatio...|
+|[https://pmon.onderzoekmetmensen.nl](https://pmon.onderzoekmetmensen.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|403 Forbidden|
+|[https://onderwijs.onderzoekmetmensen.nl](https://onderwijs.onderzoekmetmensen.nl)| | **C**|nginx|:o: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
+|[https://portaal.onderzoekmetmensen.nl](https://portaal.onderzoekmetmensen.nl)| | **C**|nginx|:o: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 
 

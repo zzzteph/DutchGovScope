@@ -76,3 +76,14 @@ acc.irealisatie.nl
 gitea.irealisatie.nl
 taiga.irealisatie.nl
 kat.irealisatie.nl
+test.woo.irealisatie.nl
+proeftuin.gf.irealisatie.nl
+test.mgo.irealisatie.nl
+test.dpr.irealisatie.nl
+acc.mgo.irealisatie.nl
+acc.woo.irealisatie.nl
+www.test.zm.irealisatie.nl
+acc.dpr.irealisatie.nl
+acc.dusi.irealisatie.nl
+ccc.acc.irealisatie.nl
+test.dusi.irealisatie.nl

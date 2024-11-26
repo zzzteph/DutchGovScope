@@ -9,4 +9,3 @@ fed.cpb.nl
 fs.cpb.nl
 link.pr.cpb.nl
 airwatch-gw.cpb.nl
-sf.cpb.nl

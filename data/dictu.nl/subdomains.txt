@@ -6,7 +6,6 @@ acc.gisextern.dictu.nl
 test.intranet-demo.dictu.nl
 acc.intranet-demo.dictu.nl
 acc.rd.dictu.nl
-apps.dictu.nl
 auth-acc.dictu.nl
 auth.dictu.nl
 auth20.dictu.nl
@@ -37,6 +36,7 @@ iltbuildserver.dictu.nl
 mailing.dictu.nl
 mft.webftp.dictu.nl
 mijntoken.dictu.nl
+pms-acc.dictu.nl
 procesweb-test.dictu.nl
 procesweb.dictu.nl
 sfs-acc.dictu.nl
@@ -45,9 +45,12 @@ test-azure06.dictu.nl
 trillingsdata-acc.dictu.nl
 trillingsdata.dictu.nl
 tvep.dictu.nl
+vpn-tst.dictu.nl
+vpna-tst.dictu.nl
 vpn.dictu.nl
 vpna.dictu.nl
 vpnb.dictu.nl
+vpnb-tst.dictu.nl
 webftp.dictu.nl
 wifi.dictu.nl
 acc.fhub.dictu.nl

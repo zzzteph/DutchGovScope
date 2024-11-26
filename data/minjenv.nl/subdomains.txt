@@ -3,3 +3,4 @@ enterpriseenrollment.dtv.minjenv.nl
 www.minjenv.nl
 enterpriseregistration.dtv.minjenv.nl
 minjenv.nl
+autodiscover.dtv.minjenv.nl

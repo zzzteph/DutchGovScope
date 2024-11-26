@@ -2,7 +2,7 @@
 layout: default
 title: "leidraadse.nl"
 permalink: "/dutchgov/leidraadse.nl.html"
-subdomains_count: 3
+subdomains_count: 4
 urls_count: 3
 ssl_rank: 
 http_rank: F
@@ -25,7 +25,7 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/leidraadse.nl/subdomains.txt)|3|Alive subdomains|
+|[subdomains.txt](/DutchGovScope/data/leidraadse.nl/subdomains.txt)|4|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/leidraadse.nl/urls.txt)|3|Urls|
 
 

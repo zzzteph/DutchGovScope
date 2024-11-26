@@ -11,8 +11,8 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/rivm.nl/subdomains.txt)|263|Alive subdomains|
-|[urls.txt](/data/rivm.nl/urls.txt)|262|Urls|
+|[subdomains.txt](/data/rivm.nl/subdomains.txt)|264|Alive subdomains|
+|[urls.txt](/data/rivm.nl/urls.txt)|264|Urls|
 
 
 ## Statistics
@@ -106,6 +106,7 @@
 |[https://sso-webauth.rivm.nl](https://sso-webauth.rivm.nl)| | **F**|BigIP| | | | | | | | :white_check_mark: | |F5 BigIP HSTS||
 |[https://autodiscover.rivm.nl](https://autodiscover.rivm.nl)| | **A**|Microsoft-IIS/10.0| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS IIS:10.0 Windows Server||
 |[https://beleving.rivm.nl](https://beleving.rivm.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |HSTS Nginx|Mendix|
+|[http://informatiehulp.rivm.nl](http://informatiehulp.rivm.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|301 Moved Perman...|
 |[https://signalen.rivm.nl](https://signalen.rivm.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |HSTS Nginx|Syrinx|
 |[https://bestellingen.rivm.nl](https://bestellingen.rivm.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |||
 |[http://www.bestellingen.rivm.nl](http://www.bestellingen.rivm.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
@@ -260,7 +261,7 @@
 |[https://webservice.cdif.osiris.rivm.nl](https://webservice.cdif.osiris.rivm.nl)| | **B**|Microsoft-HTTPAPI/2.0| |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | |HSTS Microsoft HTTPAPI:2.0|Not Found|
 |[https://www.lml.rivm.nl](https://www.lml.rivm.nl)| | **B**|Apache/2.4.37 (Red Hat Enterprise Linux) OpenSSL/1.1.1k| |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | |Apache HTTP Server:2.4.37 HSTS OpenSSL:1.1.1k Red Hat||
 |[https://ggdiamdemo.rivm.nl](https://ggdiamdemo.rivm.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||
-|[http://acceptatie.soap.osiris.rivm.nl](http://acceptatie.soap.osiris.rivm.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
+|[https://acceptatie.soap.osiris.rivm.nl](https://acceptatie.soap.osiris.rivm.nl)| | **E**|| | | | | | | | :white_check_mark: | |F5 BigIP HSTS||
 |[http://macotra.rivm.nl](http://macotra.rivm.nl)| | **C**||:warning: |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | |||
 |[http://typened-cpe.rivm.nl](http://typened-cpe.rivm.nl)| | **C**||:warning: |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | |||
 |[http://www.typened-cpe-demo.rivm.nl](http://www.typened-cpe-demo.rivm.nl)| | **C**||:warning: |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | |||
@@ -282,5 +283,6 @@
 |[https://developer.rivm.nl](https://developer.rivm.nl)| | **A**||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bootstrap HSTS Ruby Ruby on Rails|Homepage|
 |[https://lsp.rivm.nl](https://lsp.rivm.nl)| | **F**|Microsoft-Azure-Application-Gateway/v2| | | | | | | | :white_check_mark: | ||404 Not Found|
 |[http://spoor.rivm.nl](http://spoor.rivm.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |||
+|[http://data-acc.rivm.nl](http://data-acc.rivm.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 
 

@@ -39,7 +39,7 @@
 |[https://vergunningintaker.h-i-ambacht.nl](https://vergunningintaker.h-i-ambacht.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Google Cloud Google Cloud CDN HTTP/3||
 |[https://vthbroker.h-i-ambacht.nl](https://vthbroker.h-i-ambacht.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
 |[https://web.h-i-ambacht.nl](https://web.h-i-ambacht.nl)| | **A**|nginx| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
-|[https://hendrik-ido-ambacht-checker-preprod.h-i-ambacht.nl](https://hendrik-ido-ambacht-checker-preprod.h-i-ambacht.nl)| | **E**|| | | | | | | | :white_check_mark: | |Google Cloud Google Cloud CDN HTTP/3||
-|[https://hendrik-ido-ambacht-checker.h-i-ambacht.nl](https://hendrik-ido-ambacht-checker.h-i-ambacht.nl)| | **C**|nginx/1.23.3| |:white_check_mark: | | | | | | :white_check_mark: | |Google Cloud Google Cloud CDN HSTS HTTP/3 Nginx:1.23.3||
+|[https://hendrik-ido-ambacht-checker-preprod.h-i-ambacht.nl](https://hendrik-ido-ambacht-checker-preprod.h-i-ambacht.nl)| | **D**|nginx/1.27.2| | | | |:warning: | :white_check_mark: | | :white_check_mark: | |Google Cloud Google Cloud CDN HTTP/3 Nginx:1.27.2||
+|[https://hendrik-ido-ambacht-checker.h-i-ambacht.nl](https://hendrik-ido-ambacht-checker.h-i-ambacht.nl)| | **D**|nginx/1.27.2| | | | |:warning: | :white_check_mark: | | :white_check_mark: | |Google Cloud Google Cloud CDN HTTP/3 Nginx:1.27.2||
 
 

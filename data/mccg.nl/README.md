@@ -6,13 +6,13 @@
 
  - **SSL Grade**:
  - **HTTP Security Grade**:A
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:4
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:3
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/mccg.nl/subdomains.txt)|4|Alive subdomains|
-|[urls.txt](/data/mccg.nl/urls.txt)|4|Urls|
+|[subdomains.txt](/data/mccg.nl/subdomains.txt)|3|Alive subdomains|
+|[urls.txt](/data/mccg.nl/urls.txt)|3|Urls|
 
 
 ## Statistics
@@ -23,6 +23,5 @@
 |[https://feeds.mccg.nl](https://feeds.mccg.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://mccg.nl](https://mccg.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
 |[https://www.mccg.nl](https://www.mccg.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Home | Monitorin...|
-|[https://opendata.mccg.nl](https://opendata.mccg.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 
 

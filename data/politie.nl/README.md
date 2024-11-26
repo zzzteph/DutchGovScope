@@ -12,7 +12,7 @@
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/politie.nl/subdomains.txt)|33|Alive subdomains|
-|[urls.txt](/data/politie.nl/urls.txt)|32|Urls|
+|[urls.txt](/data/politie.nl/urls.txt)|33|Urls|
 
 
 ## Statistics
@@ -52,5 +52,6 @@
 |[https://push.enlets.politie.nl](https://push.enlets.politie.nl)| | **A**|| |:white_check_mark: | :warning:| | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS||
 |[https://api.enlets.politie.nl](https://api.enlets.politie.nl)| | **A**|| |:white_check_mark: | :warning:| | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS||
 |[https://mdc-ras-01.politie.nl](https://mdc-ras-01.politie.nl)| | **A**|Apache| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS|User Portal|
+|[https://enlets.politie.nl](https://enlets.politie.nl)| | **A**|| |:white_check_mark: | :warning:| | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS||
 
 

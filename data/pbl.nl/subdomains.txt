@@ -8,7 +8,6 @@ snippet.startanalyse.pbl.nl
 startanalyse.pbl.nl
 www.pbl.nl
 data.pbl.nl
-icer.pbl.nl
 leidraad.pbl.nl
 models.pbl.nl
 snippet.monovi.pbl.nl

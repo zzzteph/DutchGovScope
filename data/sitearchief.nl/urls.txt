@@ -14,6 +14,8 @@ https://archief22.sitearchief.nl
 https://cibg.sitearchief.nl
 https://degezondheidsraad.sitearchief.nl
 https://ind.sitearchief.nl
+https://archief23.sitearchief.nl
+https://igj.sitearchief.nl
 https://archief24.sitearchief.nl
 https://archief25.sitearchief.nl
 https://archief26.sitearchief.nl
@@ -55,6 +57,7 @@ https://archief43.sitearchief.nl
 https://rvo.sitearchief.nl
 https://archief44.sitearchief.nl
 https://belastingdienst.sitearchief.nl
+https://nationaalarchief.sitearchief.nl
 https://archief45.sitearchief.nl
 https://archief47.sitearchief.nl
 https://archief48.sitearchief.nl
@@ -79,6 +82,7 @@ https://deeplink.sitearchief.nl
 https://eerstekamer.sitearchief.nl
 https://rekenkamer.sitearchief.nl
 https://scp.sitearchief.nl
+https://kadaster.sitearchief.nl
 https://meldkamer.sitearchief.nl
 https://politie.sitearchief.nl
 https://overzicht.sitearchief.nl

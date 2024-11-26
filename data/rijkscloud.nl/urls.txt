@@ -105,3 +105,6 @@ https://images.analyse.ilt.rijkscloud.nl
 https://registry.gitlab.analyse.ilt.rijkscloud.nl
 https://ip4.rijkscloud.nl
 https://ip6.rijkscloud.nl
+https://zakelijk.dfront.rijkscloud.nl
+https://afwijkend-examineren.dfront.rijkscloud.nl
+https://kpi.dfront.rijkscloud.nl

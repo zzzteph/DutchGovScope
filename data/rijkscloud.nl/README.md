@@ -12,7 +12,7 @@
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/rijkscloud.nl/subdomains.txt)|110|Alive subdomains|
-|[urls.txt](/data/rijkscloud.nl/urls.txt)|107|Urls|
+|[urls.txt](/data/rijkscloud.nl/urls.txt)|110|Urls|
 
 
 ## Statistics
@@ -127,5 +127,8 @@
 |[https://registry.gitlab.analyse.ilt.rijkscloud.nl](https://registry.gitlab.analyse.ilt.rijkscloud.nl)| | **C**|Apache| |:white_check_mark: | | | | | | :white_check_mark: | |Apache HTTP Server HSTS||
 |[https://ip4.rijkscloud.nl](https://ip4.rijkscloud.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
 |[https://ip6.rijkscloud.nl](https://ip6.rijkscloud.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
+|[https://zakelijk.dfront.rijkscloud.nl](https://zakelijk.dfront.rijkscloud.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|Uno Documentatie|
+|[https://afwijkend-examineren.dfront.rijkscloud.nl](https://afwijkend-examineren.dfront.rijkscloud.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|Uno Documentatie|
+|[https://kpi.dfront.rijkscloud.nl](https://kpi.dfront.rijkscloud.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|Uno Documentatie|
 
 

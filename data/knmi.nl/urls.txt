@@ -47,7 +47,9 @@ https://password.knmi.nl
 https://rdsa-prdt.knmi.nl
 https://rdsa.knmi.nl
 https://scatterometer.knmi.nl
+https://sf.knmi.nl
 https://spaceweather.knmi.nl
+http://testconn.knmi.nl
 https://tyk-cdn.dataplatform.knmi.nl
 http://w3dxweb.knmi.nl
 https://wms-viewer.dataplatform.knmi.nl

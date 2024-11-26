@@ -2,11 +2,11 @@
 layout: default
 title: "minjenv-events.nl"
 permalink: "/dutchgov/minjenv-events.nl.html"
-subdomains_count: 11
-urls_count: 10
+subdomains_count: 14
+urls_count: 11
 ssl_rank: 
 http_rank: A
-security_txt: 10
+security_txt: 11
 url_link: /data/minjenv-events.nl/urls.txt
 subdomains_link: /data/minjenv-events.nl/subdomains.txt
 categories: dutchgov
@@ -20,13 +20,13 @@ tags: dutchgov
 
  - **SSL Grade**:
  - **HTTP Security Grade**:A
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:10
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:11
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/minjenv-events.nl/subdomains.txt)|11|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/minjenv-events.nl/urls.txt)|10|Urls|
+|[subdomains.txt](/DutchGovScope/data/minjenv-events.nl/subdomains.txt)|14|Alive subdomains|
+|[urls.txt](/DutchGovScope/data/minjenv-events.nl/urls.txt)|11|Urls|
 
 
 ## Statistics
@@ -44,5 +44,6 @@ tags: dutchgov
 |[https://state-of-the-art-conferentie2019.minjenv-events.nl](https://state-of-the-art-conferentie2019.minjenv-events.nl)| | **A**|nginx| |:white_check_mark: | :warning:| |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx Plesk||
 |[https://demodaystartupinresidenceii.minjenv-events.nl](https://demodaystartupinresidenceii.minjenv-events.nl)| | **A**|nginx| |:white_check_mark: | :warning:| |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx Plesk||
 |[https://dagvandemigratieketen2019.minjenv-events.nl](https://dagvandemigratieketen2019.minjenv-events.nl)| | **A**|nginx| |:white_check_mark: | :warning:| |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx Plesk||
+|[https://scheidenzonderschadewebinarrelatievaardigheden.minjenv-events.nl](https://scheidenzonderschadewebinarrelatievaardigheden.minjenv-events.nl)| | **A**|nginx| |:white_check_mark: | :warning:| |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx Plesk||
 
 

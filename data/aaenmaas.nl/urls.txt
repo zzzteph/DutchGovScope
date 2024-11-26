@@ -1,8 +1,7 @@
-http://aaenmaas.nl
-http://www.aaenmaas.nl
+https://aaenmaas.nl
+https://www.aaenmaas.nl
 http://autodiscover.aaenmaas.nl
 https://oa.aaenmaas.nl
-https://dialin.aaenmaas.nl
 https://lync.aaenmaas.nl
 https://lyncdiscover.aaenmaas.nl
 https://maps.aaenmaas.nl
@@ -10,6 +9,7 @@ https://helloid.aaenmaas.nl
 https://login.aaenmaas.nl
 https://vpn2.aaenmaas.nl
 https://sip.aaenmaas.nl
+https://sharepoint.aaenmaas.nl
 https://gisservices.aaenmaas.nl
 https://luchtfoto.aaenmaas.nl
 https://webgis.aaenmaas.nl

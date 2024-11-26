@@ -7,7 +7,5 @@ autodiscover.veiligheidsregioflevoland.nl
 enterpriseenrollment.veiligheidsregioflevoland.nl
 enterpriseregistration.veiligheidsregioflevoland.nl
 dept.veiligheidsregioflevoland.nl
-bowie.veiligheidsregioflevoland.nl
-industrial.veiligheidsregioflevoland.nl
-forefront.veiligheidsregioflevoland.nl
+enlace.veiligheidsregioflevoland.nl
 msoid.veiligheidsregioflevoland.nl

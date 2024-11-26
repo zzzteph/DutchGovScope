@@ -2,8 +2,8 @@
 layout: default
 title: "zwemwater.nl"
 permalink: "/dutchgov/zwemwater.nl.html"
-subdomains_count: 21
-urls_count: 21
+subdomains_count: 38
+urls_count: 20
 ssl_rank: 
 http_rank: D
 security_txt: 8
@@ -25,8 +25,8 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/zwemwater.nl/subdomains.txt)|21|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/zwemwater.nl/urls.txt)|21|Urls|
+|[subdomains.txt](/DutchGovScope/data/zwemwater.nl/subdomains.txt)|38|Alive subdomains|
+|[urls.txt](/DutchGovScope/data/zwemwater.nl/urls.txt)|20|Urls|
 
 
 ## Statistics
@@ -35,7 +35,6 @@ tags: dutchgov
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[https://zwemwater.nl](https://zwemwater.nl)| | **B**|Apache| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS|301 Moved Perman...|
-|[https://www.zwemwater.nl](https://www.zwemwater.nl)| | **B**|Apache| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server Drupal:7 HSTS PHP|Vind een zwemple...|
 |[https://enwww.zwemwater.nl](https://enwww.zwemwater.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
 |[https://nederlandwww.zwemwater.nl](https://nederlandwww.zwemwater.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
 |[https://acc-inspiregeo.zwemwater.nl](https://acc-inspiregeo.zwemwater.nl)| | **B**|Apache| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|

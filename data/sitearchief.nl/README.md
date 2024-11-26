@@ -6,13 +6,13 @@
 
  - **SSL Grade**:
  - **HTTP Security Grade**:A
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:54
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:57
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/sitearchief.nl/subdomains.txt)|85|Alive subdomains|
-|[urls.txt](/data/sitearchief.nl/urls.txt)|84|Urls|
+|[subdomains.txt](/data/sitearchief.nl/subdomains.txt)|123|Alive subdomains|
+|[urls.txt](/data/sitearchief.nl/urls.txt)|88|Urls|
 
 
 ## Statistics
@@ -36,6 +36,8 @@
 |[https://cibg.sitearchief.nl](https://cibg.sitearchief.nl)| | **A**|nginx|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx|Sitearchief - CI...|
 |[https://degezondheidsraad.sitearchief.nl](https://degezondheidsraad.sitearchief.nl)| | **A**|nginx|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx|Sitearchief - De...|
 |[https://ind.sitearchief.nl](https://ind.sitearchief.nl)| | **A**|nginx|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx|Sitearchief - Im...|
+|[https://archief23.sitearchief.nl](https://archief23.sitearchief.nl)| | **B**|nginx/1.27.1| |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | |HSTS Nginx:1.27.1|HTTP Status 404...|
+|[https://igj.sitearchief.nl](https://igj.sitearchief.nl)| | **A**|nginx|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx|Sitearchief - In...|
 |[https://archief24.sitearchief.nl](https://archief24.sitearchief.nl)| | **B**|nginx/1.27.1| |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | |HSTS Nginx:1.27.1|HTTP Status 404...|
 |[https://archief25.sitearchief.nl](https://archief25.sitearchief.nl)| | **B**|nginx/1.27.1| |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | |HSTS Nginx:1.27.1|HTTP Status 404...|
 |[https://archief26.sitearchief.nl](https://archief26.sitearchief.nl)| | **B**|nginx/1.27.1| |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | |HSTS Nginx:1.27.1|HTTP Status 404...|
@@ -77,6 +79,7 @@
 |[https://rvo.sitearchief.nl](https://rvo.sitearchief.nl)| | **A**|nginx|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx|Sitearchief - Ri...|
 |[https://archief44.sitearchief.nl](https://archief44.sitearchief.nl)| | **B**|nginx/1.27.1| |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | |HSTS Nginx:1.27.1|HTTP Status 404...|
 |[https://belastingdienst.sitearchief.nl](https://belastingdienst.sitearchief.nl)| | **A**|nginx|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx|Sitearchief - Be...|
+|[https://nationaalarchief.sitearchief.nl](https://nationaalarchief.sitearchief.nl)| | **A**|nginx|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx|Sitearchief - Na...|
 |[https://archief45.sitearchief.nl](https://archief45.sitearchief.nl)| | **B**|nginx/1.27.1| |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | |HSTS Nginx:1.27.1|HTTP Status 404...|
 |[https://archief47.sitearchief.nl](https://archief47.sitearchief.nl)| | **B**|nginx/1.27.1| |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | |HSTS Nginx:1.27.1|HTTP Status 404...|
 |[https://archief48.sitearchief.nl](https://archief48.sitearchief.nl)| | **B**|nginx/1.27.1| |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | |HSTS Nginx:1.27.1|HTTP Status 404...|
@@ -101,6 +104,7 @@
 |[https://eerstekamer.sitearchief.nl](https://eerstekamer.sitearchief.nl)| | **A**|nginx|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx|Sitearchief - Ee...|
 |[https://rekenkamer.sitearchief.nl](https://rekenkamer.sitearchief.nl)| | **A**|nginx|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx|Sitearchief - Re...|
 |[https://scp.sitearchief.nl](https://scp.sitearchief.nl)| | **A**|nginx|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx|Sitearchief - So...|
+|[https://kadaster.sitearchief.nl](https://kadaster.sitearchief.nl)| | **A**|nginx|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx|Sitearchief - Ka...|
 |[https://meldkamer.sitearchief.nl](https://meldkamer.sitearchief.nl)| | **A**|nginx|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx|Sitearchief - Me...|
 |[https://politie.sitearchief.nl](https://politie.sitearchief.nl)| | **A**|nginx|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx|Sitearchief - Po...|
 |[https://overzicht.sitearchief.nl](https://overzicht.sitearchief.nl)| | **C**|nginx|:white_check_mark: |:white_check_mark: | :warning:| | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS MySQL Nginx PHP WordPress|Overzicht Sitear...|

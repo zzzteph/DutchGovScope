@@ -127,6 +127,7 @@ highcharts.cbs.nl
 redactie.cbs.nl
 www.cbs.nl
 cdn.cbs.nl
+collecties.historisch.cbs.nl
 historisch.cbs.nl
 www.historisch.cbs.nl
 designsystem.cbs.nl
@@ -177,3 +178,4 @@ geodata.cbs.nl
 livecharts.cbs.nl
 iv3-controle.beta.cbs.nl
 beta-iv3-controle.cbs.nl
+apisimplex.cbs.nl

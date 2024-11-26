@@ -21,4 +21,3 @@ opendata.nctv.nl
 nac.nctv.nl
 symbolenbank.nctv.nl
 elearning-lcp-egt.nctv.nl
-elearning-zvjz-medewerkers.nctv.nl

@@ -1,4 +1,3 @@
-https://bzk.nl
 https://www.bzk.nl
 https://app.wallet.edi.bzk.nl
 https://app.preproductie.wallet.edi.bzk.nl

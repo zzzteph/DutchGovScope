@@ -29,6 +29,6 @@
 |[https://infomil.nl](https://infomil.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Microsoft ASP.NET:-|Document Moved|
 |[https://redactie.infomil.nl](https://redactie.infomil.nl)| | **A**|-|:white_check_mark: |:white_check_mark: | | | :white_check_mark:| | :white_check_mark: | :white_check_mark: | |Microsoft ASP.NET:-|Document Moved|
 |[https://www.infomil.nl](https://www.infomil.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Google Tag Manager HSTS Microsoft ASP.NET:-|InfoMil Home - K...|
-|[http://femnederland.infomil.nl](http://femnederland.infomil.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Microsoft ASP.NET:-||
+|[https://femnederland.infomil.nl](https://femnederland.infomil.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Microsoft ASP.NET:-|Document Moved|
 
 

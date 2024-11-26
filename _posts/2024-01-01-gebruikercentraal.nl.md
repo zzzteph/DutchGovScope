@@ -75,8 +75,8 @@ tags: dutchgov
 |[https://test.volwassenheidsscan.gebruikercentraal.nl](https://test.volwassenheidsscan.gebruikercentraal.nl)| | **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |Basic HSTS Nginx|401 Unauthorized|
 |[https://gebruikercentraal.nl](https://gebruikercentraal.nl)| | **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Nginx PHP:8.2.24||
 |[https://taalweek.gebruikercentraal.nl](https://taalweek.gebruikercentraal.nl)| | **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Nginx PHP:8.1.30||
-|[https://toolkittaal.gebruikercentraal.nl](https://toolkittaal.gebruikercentraal.nl)| | **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS MySQL Nginx PHP:8.2.24 WordPress:6.6.2 Yoast SEO:23.6|Toolkit Taal – M...|
-|[https://international.gebruikercentraal.nl](https://international.gebruikercentraal.nl)| | **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS MySQL Nginx PHP:8.2.24 WordPress:6.6.2 Yoast SEO:23.6|User Needs First...|
+|[https://toolkittaal.gebruikercentraal.nl](https://toolkittaal.gebruikercentraal.nl)| | **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS MySQL Nginx PHP:8.2.24 WordPress:6.7.1 Yoast SEO:23.9|Toolkit Taal – M...|
+|[https://international.gebruikercentraal.nl](https://international.gebruikercentraal.nl)| | **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS MySQL Nginx PHP:8.2.24 WordPress:6.7.1 Yoast SEO:23.9|User Needs First...|
 |[https://omnichannel.gebruikercentraal.nl](https://omnichannel.gebruikercentraal.nl)| | **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Nginx PHP:8.1.30||
 |[https://cx.gebruikercentraal.nl](https://cx.gebruikercentraal.nl)| | **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Nginx PHP:8.1.30||
 |[https://duidelijk.gebruikercentraal.nl](https://duidelijk.gebruikercentraal.nl)| | **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Nginx PHP:8.2.24||

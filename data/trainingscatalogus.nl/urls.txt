@@ -69,7 +69,7 @@ https://sofie.trainingscatalogus.nl
 https://appgw-prd-03.trainingscatalogus.nl
 https://leeromgevingschiphol.trainingscatalogus.nl
 https://parnassiaexternen-a.trainingscatalogus.nl
-http://class-p.trainingscatalogus.nl
+https://class-p.trainingscatalogus.nl
 https://leeromgeving-svb.trainingscatalogus.nl
 https://lms-vgz.trainingscatalogus.nl
 https://senzer-a.trainingscatalogus.nl

@@ -1,4 +1,3 @@
-http://autodiscover.hhdelfland.nl
 https://beeldbank.hhdelfland.nl
 https://beeldbank-bo.hhdelfland.nl
 https://burgerloket.hhdelfland.nl

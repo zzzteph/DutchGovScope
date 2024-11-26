@@ -12,7 +12,7 @@
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/feedfoodtransfer.nl/subdomains.txt)|12|Alive subdomains|
-|[urls.txt](/data/feedfoodtransfer.nl/urls.txt)|9|Urls|
+|[urls.txt](/data/feedfoodtransfer.nl/urls.txt)|12|Urls|
 
 
 ## Statistics
@@ -29,5 +29,8 @@
 |[https://ndlpcb-hen.apps.feedfoodtransfer.nl](https://ndlpcb-hen.apps.feedfoodtransfer.nl)| | **B**||:white_check_mark: |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | |Bootstrap HSTS||
 |[https://cadmium-pig.apps.feedfoodtransfer.nl](https://cadmium-pig.apps.feedfoodtransfer.nl)| | **B**||:white_check_mark: |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | |Bootstrap HSTS||
 |[https://dioxins-totalteq-pig.apps.feedfoodtransfer.nl](https://dioxins-totalteq-pig.apps.feedfoodtransfer.nl)| | **B**||:white_check_mark: |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | |Bootstrap HSTS||
+|[https://dioxins-congener-hen.apps.feedfoodtransfer.nl](https://dioxins-congener-hen.apps.feedfoodtransfer.nl)| | **B**||:white_check_mark: |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | |Bootstrap HSTS||
+|[https://dioxins-totalteq-cow.apps.feedfoodtransfer.nl](https://dioxins-totalteq-cow.apps.feedfoodtransfer.nl)| | **B**||:white_check_mark: |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | |Bootstrap HSTS||
+|[https://dioxins-totalteq-hen.apps.feedfoodtransfer.nl](https://dioxins-totalteq-hen.apps.feedfoodtransfer.nl)| | **B**||:white_check_mark: |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | |Bootstrap HSTS||
 
 

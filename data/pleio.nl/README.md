@@ -5,14 +5,14 @@
 
 
  - **SSL Grade**:
- - **HTTP Security Grade**:B
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:54
+ - **HTTP Security Grade**:A
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:79
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/pleio.nl/subdomains.txt)|139|Alive subdomains|
-|[urls.txt](/data/pleio.nl/urls.txt)|101|Urls|
+|[subdomains.txt](/data/pleio.nl/subdomains.txt)|142|Alive subdomains|
+|[urls.txt](/data/pleio.nl/urls.txt)|132|Urls|
 
 
 ## Statistics
@@ -36,6 +36,7 @@
 |[https://eclo.odc.pleio.nl](https://eclo.odc.pleio.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS|404 Not Found|
 |[https://help.odc.pleio.nl](https://help.odc.pleio.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS|404 Not Found|
 |[https://pleio.nl](https://pleio.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache Tomcat Fourthwall:1.0.0 HSTS Java MariaDB Skolengo:1.0.0|Pleio - laagdrem...|
+|[https://kennisdelen.odc.pleio.nl](https://kennisdelen.odc.pleio.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS|404 Not Found|
 |[https://netwerkabroad.odc.pleio.nl](https://netwerkabroad.odc.pleio.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS|404 Not Found|
 |[https://tooling.capacitor.pleio.nl](https://tooling.capacitor.pleio.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | ||302 Found|
 |[https://auth.k8sauth.pleio.nl](https://auth.k8sauth.pleio.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
@@ -46,12 +47,12 @@
 |[https://tempo-gateway.pleio.nl](https://tempo-gateway.pleio.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
 |[https://tiptap-collab.pleio.nl](https://tiptap-collab.pleio.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
 |[https://limesurvey.pleio.nl](https://limesurvey.pleio.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS|404 Not Found|
-|[https://pdfchecker.pleio.nl](https://pdfchecker.pleio.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS|404 Not Found|
 |[https://prod.capacitor.pleio.nl](https://prod.capacitor.pleio.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | ||302 Found|
 |[https://statuspage-bridge.pleio.nl](https://statuspage-bridge.pleio.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|404 Not Found|
 |[https://avg.pleio.nl](https://avg.pleio.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://formulieren-new.pleio.nl](https://formulieren-new.pleio.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://storybook.pleio.nl](https://storybook.pleio.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|@storybook/core...|
+|[https://www.statuspage-bridge.pleio.nl](https://www.statuspage-bridge.pleio.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS|404 Not Found|
 |[https://formulieren.pleio.nl](https://formulieren.pleio.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://riec-liec-academie.pleio.nl](https://riec-liec-academie.pleio.nl)| | **C**|nginx/1.26.2|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS Moodle Nginx:1.26.2 PHP|Home | riecliec|
 |[https://lev.pleio.nl](https://lev.pleio.nl)| | **C**|nginx/1.26.2|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS Moodle Nginx:1.26.2 PHP|Startpagina | le...|
@@ -63,54 +64,53 @@
 |[https://videobellen-jwt-moderator.pleio.nl](https://videobellen-jwt-moderator.pleio.nl)| | **C**|nginx/1.18.0 (Ubuntu)| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Nginx:1.18.0 Ubuntu|Jitsi Meet|
 |[https://videobellen-jwt-only.pleio.nl](https://videobellen-jwt-only.pleio.nl)| | **C**|nginx/1.18.0 (Ubuntu)| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Nginx:1.18.0 Ubuntu|Jitsi Meet|
 |[https://videobellen.pleio.nl](https://videobellen.pleio.nl)| | **C**|nginx/1.18.0 (Ubuntu)| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Nginx:1.18.0 Ubuntu|Jitsi Meet|
-|[https://gemeentelijkgeoberaad.pleio.nl](https://gemeentelijkgeoberaad.pleio.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache Tomcat Fourthwall:1.0.0 HSTS Java MariaDB Skolengo:1.0.0|Gemeentelijk Geo...|
-|[https://eurlplanthealth.pleio.nl](https://eurlplanthealth.pleio.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|301 Moved Perman...|
+|[https://gemeentelijkgeoberaad.pleio.nl](https://gemeentelijkgeoberaad.pleio.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache Tomcat Fourthwall:1.0.0 HSTS Java MariaDB Skolengo:1.0.0|Gemeentelijk Geo...|
+|[https://eurlplanthealth.pleio.nl](https://eurlplanthealth.pleio.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|301 Moved Perman...|
+|[https://integralevroeghulp.odc.pleio.nl](https://integralevroeghulp.odc.pleio.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS|404 Not Found|
 |[https://digischool.odc.pleio.nl](https://digischool.odc.pleio.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS|404 Not Found|
 |[https://enquetes.pleio.nl](https://enquetes.pleio.nl)| | **C**||:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | |HSTS PHP|Pleio Enquête|
+|[https://kennisdelenrv.odc.pleio.nl](https://kennisdelenrv.odc.pleio.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS|404 Not Found|
+|[https://vwsnet.odc.pleio.nl](https://vwsnet.odc.pleio.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS|404 Not Found|
 |[https://kubernetes.odc.pleio.nl](https://kubernetes.odc.pleio.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS|404 Not Found|
-|[https://gemeente-eersel.odc.pleio.nl](https://gemeente-eersel.odc.pleio.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS|404 Not Found|
-|[https://learningnetwork.pleio.nl](https://learningnetwork.pleio.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache Tomcat Fourthwall:1.0.0 HSTS Java MariaDB Skolengo:1.0.0|Learning Network...|
-|[https://www.uht.pleio.nl](https://www.uht.pleio.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS|404 Not Found|
-|[https://almeersewolunie.pleio.nl](https://almeersewolunie.pleio.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache Tomcat Fourthwall:1.0.0 HSTS Java MariaDB Skolengo:1.0.0|Almeerse Wolunie...|
-|[https://haarlem.pleio.nl](https://haarlem.pleio.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache Tomcat Fourthwall:1.0.0 HSTS Java MariaDB Skolengo:1.0.0|Extranet Haarlem|
-|[https://sdg.pleio.nl](https://sdg.pleio.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache Tomcat Fourthwall:1.0.0 HSTS Java MariaDB Skolengo:1.0.0|bNC-SDG|
+|[https://learningnetwork.pleio.nl](https://learningnetwork.pleio.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache Tomcat Fourthwall:1.0.0 HSTS Java MariaDB Skolengo:1.0.0|Learning Network...|
+|[https://almeersewolunie.pleio.nl](https://almeersewolunie.pleio.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache Tomcat Fourthwall:1.0.0 HSTS Java MariaDB Skolengo:1.0.0|Almeerse Wolunie...|
+|[https://haarlem.pleio.nl](https://haarlem.pleio.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache Tomcat Fourthwall:1.0.0 HSTS Java MariaDB Skolengo:1.0.0|Extranet Haarlem|
+|[https://sdg.pleio.nl](https://sdg.pleio.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache Tomcat Fourthwall:1.0.0 HSTS Java MariaDB Skolengo:1.0.0|bNC-SDG|
 |[https://test.odc.pleio.nl](https://test.odc.pleio.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS|404 Not Found|
-|[https://realisatieibds.pleio.nl](https://realisatieibds.pleio.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
-|[https://wendbarewetsuitvoering.pleio.nl](https://wendbarewetsuitvoering.pleio.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache Tomcat Fourthwall:1.0.0 HSTS Java MariaDB Skolengo:1.0.0|Wendbare wetsuit...|
+|[https://realisatieibds.pleio.nl](https://realisatieibds.pleio.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
+|[https://wendbarewetsuitvoering.pleio.nl](https://wendbarewetsuitvoering.pleio.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache Tomcat Fourthwall:1.0.0 HSTS Java MariaDB Skolengo:1.0.0|Wendbare wetsuit...|
 |[https://account.pleio.nl](https://account.pleio.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
-|[https://ckv2kua.pleio.nl](https://ckv2kua.pleio.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache Tomcat Fourthwall:1.0.0 HSTS Java MariaDB Skolengo:1.0.0|CKV2KUA|
+|[https://ckv2kua.pleio.nl](https://ckv2kua.pleio.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache Tomcat Fourthwall:1.0.0 HSTS Java MariaDB Skolengo:1.0.0|CKV2KUA|
 |[https://datahub.pleio.nl](https://datahub.pleio.nl)| | **A**||:warning: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|RVO — Offshore W...|
-|[https://www.learningnetwork.pleio.nl](https://www.learningnetwork.pleio.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
-|[https://prplatform.pleio.nl](https://prplatform.pleio.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache Tomcat Fourthwall:1.0.0 HSTS Java MariaDB Skolengo:1.0.0|PANTA RHEI Digit...|
-|[https://www.bestandendelen.pleio.nl](https://www.bestandendelen.pleio.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS|404 Not Found|
-|[https://mx.odc.pleio.nl](https://mx.odc.pleio.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS|404 Not Found|
-|[https://digitaleveiligheid.pleio.nl](https://digitaleveiligheid.pleio.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache Tomcat Fourthwall:1.0.0 HSTS Java MariaDB Skolengo:1.0.0|Agenda Digitale...|
-|[https://ffd.pleio.nl](https://ffd.pleio.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache Tomcat Fourthwall:1.0.0 HSTS Java MariaDB Skolengo:1.0.0|Forum Fiscaal Di...|
-|[https://www.weerbareoverheid.pleio.nl](https://www.weerbareoverheid.pleio.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS|404 Not Found|
-|[https://fsa.pleio.nl](https://fsa.pleio.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache Tomcat Fourthwall:1.0.0 HSTS Java MariaDB Skolengo:1.0.0|Forum Salaris|
-|[https://cpf.odc.pleio.nl](https://cpf.odc.pleio.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS|404 Not Found|
-|[https://samenwerkenpop3.pleio.nl](https://samenwerkenpop3.pleio.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache Tomcat Fourthwall:1.0.0 HSTS Java MariaDB Skolengo:1.0.0|Samenwerking Uit...|
-|[https://netwerkvanpubliekedienstverleners.pleio.nl](https://netwerkvanpubliekedienstverleners.pleio.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache Tomcat Fourthwall:1.0.0 HSTS Java MariaDB Skolengo:1.0.0|Netwerk van publ...|
-|[https://provincies.pleio.nl](https://provincies.pleio.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache Tomcat Fourthwall:1.0.0 HSTS Java MariaDB Skolengo:1.0.0|Samenwerkingspla...|
+|[https://beheer.odc.pleio.nl](https://beheer.odc.pleio.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS|404 Not Found|
+|[https://www.learningnetwork.pleio.nl](https://www.learningnetwork.pleio.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
+|[https://prplatform.pleio.nl](https://prplatform.pleio.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache Tomcat Fourthwall:1.0.0 HSTS Java MariaDB Skolengo:1.0.0|PANTA RHEI Digit...|
+|[https://digitaleveiligheid.pleio.nl](https://digitaleveiligheid.pleio.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache Tomcat Fourthwall:1.0.0 HSTS Java MariaDB Skolengo:1.0.0|Agenda Digitale...|
+|[https://ffd.pleio.nl](https://ffd.pleio.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache Tomcat Fourthwall:1.0.0 HSTS Java MariaDB Skolengo:1.0.0|Forum Fiscaal Di...|
+|[https://fsa.pleio.nl](https://fsa.pleio.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache Tomcat Fourthwall:1.0.0 HSTS Java MariaDB Skolengo:1.0.0|Forum Salaris|
+|[https://samenwerkenpop3.pleio.nl](https://samenwerkenpop3.pleio.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache Tomcat Fourthwall:1.0.0 HSTS Java MariaDB Skolengo:1.0.0|Samenwerking Uit...|
+|[https://netwerkvanpubliekedienstverleners.pleio.nl](https://netwerkvanpubliekedienstverleners.pleio.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache Tomcat Fourthwall:1.0.0 HSTS Java MariaDB Skolengo:1.0.0|Netwerk van publ...|
+|[https://provincies.pleio.nl](https://provincies.pleio.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache Tomcat Fourthwall:1.0.0 HSTS Java MariaDB Skolengo:1.0.0|Samenwerkingspla...|
 |[https://kia.pleio.nl](https://kia.pleio.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS|301 Moved Perman...|
 |[https://mail.odc.pleio.nl](https://mail.odc.pleio.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS|404 Not Found|
-|[https://bmo.pleio.nl](https://bmo.pleio.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache Tomcat Fourthwall:1.0.0 HSTS Java MariaDB Skolengo:1.0.0|BMO|
+|[https://bmo.pleio.nl](https://bmo.pleio.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache Tomcat Fourthwall:1.0.0 HSTS Java MariaDB Skolengo:1.0.0|BMO|
 |[https://digitaaltoegankelijk.pleio.nl](https://digitaaltoegankelijk.pleio.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache Tomcat Fourthwall:1.0.0 HSTS Java MariaDB Skolengo:1.0.0|Digitaal toegank...|
 |[https://klassieketalen.pleio.nl](https://klassieketalen.pleio.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache Tomcat Fourthwall:1.0.0 HSTS Java MariaDB Skolengo:1.0.0|KlassiekeTalen|
+|[https://eu.odc.pleio.nl](https://eu.odc.pleio.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS|404 Not Found|
 |[https://intranethaarlem.odc.pleio.nl](https://intranethaarlem.odc.pleio.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS|404 Not Found|
 |[https://fiscaletaxonomie.pleio.nl](https://fiscaletaxonomie.pleio.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache Tomcat Fourthwall:1.0.0 HSTS Java MariaDB Skolengo:1.0.0|Nederlandse Fisc...|
 |[https://drama.pleio.nl](https://drama.pleio.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache Tomcat Fourthwall:1.0.0 HSTS Java MariaDB Skolengo:1.0.0|Drama|
 |[https://opensource.pleio.nl](https://opensource.pleio.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://bdcommunicatie.pleio.nl](https://bdcommunicatie.pleio.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache Tomcat Fourthwall:1.0.0 HSTS Java MariaDB Skolengo:1.0.0|Communicatieplat...|
-|[https://algoritmes.pleio.nl](https://algoritmes.pleio.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache Tomcat Fourthwall:1.0.0 HSTS Java MariaDB Skolengo:1.0.0|Algoritmes|
-|[https://ln-emff.pleio.nl](https://ln-emff.pleio.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache Tomcat Fourthwall:1.0.0 HSTS Java MariaDB Skolengo:1.0.0|Learning Network...|
-|[https://beeldonderwijs.pleio.nl](https://beeldonderwijs.pleio.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache Tomcat Fourthwall:1.0.0 HSTS Java MariaDB Skolengo:1.0.0|Beeldonderwijs|
-|[https://ambtenarengeschiedenis.pleio.nl](https://ambtenarengeschiedenis.pleio.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache Tomcat Fourthwall:1.0.0 HSTS Java MariaDB Skolengo:1.0.0|De geschiedenis...|
-|[https://www.prplatform.pleio.nl](https://www.prplatform.pleio.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
-|[https://cip.odc.pleio.nl](https://cip.odc.pleio.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS|404 Not Found|
-|[https://de.pleio.nl](https://de.pleio.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache Tomcat Fourthwall:1.0.0 HSTS Java MariaDB Skolengo:1.0.0|Deutschsprachige...|
-|[https://rvo3.odc.pleio.nl](https://rvo3.odc.pleio.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS|404 Not Found|
+|[https://algoritmes.pleio.nl](https://algoritmes.pleio.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache Tomcat Fourthwall:1.0.0 HSTS Java MariaDB Skolengo:1.0.0|Algoritmes|
+|[https://ln-emff.pleio.nl](https://ln-emff.pleio.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache Tomcat Fourthwall:1.0.0 HSTS Java MariaDB Skolengo:1.0.0|Learning Network...|
+|[https://beeldonderwijs.pleio.nl](https://beeldonderwijs.pleio.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache Tomcat Fourthwall:1.0.0 HSTS Java MariaDB Skolengo:1.0.0|Beeldonderwijs|
+|[https://ambtenarengeschiedenis.pleio.nl](https://ambtenarengeschiedenis.pleio.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache Tomcat Fourthwall:1.0.0 HSTS Java MariaDB Skolengo:1.0.0|De geschiedenis...|
+|[https://www.prplatform.pleio.nl](https://www.prplatform.pleio.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
+|[https://rocket.odc.pleio.nl](https://rocket.odc.pleio.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS|404 Not Found|
+|[https://de.pleio.nl](https://de.pleio.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache Tomcat Fourthwall:1.0.0 HSTS Java MariaDB Skolengo:1.0.0|Deutschsprachige...|
 |[https://bestandendelen.pleio.nl](https://bestandendelen.pleio.nl)| | **A**||:warning: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS PHP:7.4.29|FileSender|
+|[https://offshorewind.odc.pleio.nl](https://offshorewind.odc.pleio.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS|404 Not Found|
 |[https://fsv.pleio.nl](https://fsv.pleio.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|403 Forbidden|
 |[https://samenwerken.pleio.nl](https://samenwerken.pleio.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache Tomcat Fourthwall:1.0.0 HSTS Java MariaDB Skolengo:1.0.0|Grenzeloos samen...|
 |[https://vso.pleio.nl](https://vso.pleio.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
@@ -121,5 +121,36 @@
 |[https://muziek.pleio.nl](https://muziek.pleio.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache Tomcat Fourthwall:1.0.0 HSTS Java MariaDB Skolengo:1.0.0|Muziek|
 |[https://www.ln-emff.pleio.nl](https://www.ln-emff.pleio.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://nvwa.odc.pleio.nl](https://nvwa.odc.pleio.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS|404 Not Found|
+|[https://generatieveai.pleio.nl](https://generatieveai.pleio.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache Tomcat Fourthwall:1.0.0 HSTS Java MariaDB Skolengo:1.0.0|Generatieve AI|
+|[https://cip.pleio.nl](https://cip.pleio.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache Tomcat Fourthwall:1.0.0 HSTS Java MariaDB Skolengo:1.0.0|CIP.Pleio|
+|[https://bouncer.pleio.nl](https://bouncer.pleio.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
+|[https://aardrijkskunde.pleio.nl](https://aardrijkskunde.pleio.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache Tomcat Fourthwall:1.0.0 HSTS Java MariaDB Skolengo:1.0.0|Aardrijkskunde c...|
+|[https://nicpet.pleio.nl](https://nicpet.pleio.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache Tomcat Fourthwall:1.0.0 HSTS Java MariaDB Skolengo:1.0.0|nicpet|
+|[https://weekvandedienstverlening.pleio.nl](https://weekvandedienstverlening.pleio.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache Tomcat Fourthwall:1.0.0 HSTS Java MariaDB Skolengo:1.0.0|Week van de dien...|
+|[https://tiptap-ai.pleio.nl](https://tiptap-ai.pleio.nl)| | **A**|| |:white_check_mark: | :warning:| | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
+|[https://noracommunity.pleio.nl](https://noracommunity.pleio.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache Tomcat Fourthwall:1.0.0 HSTS Java MariaDB Skolengo:1.0.0|NORA community|
+|[https://npi.pleio.nl](https://npi.pleio.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache Tomcat Fourthwall:1.0.0 HSTS Java MariaDB Skolengo:1.0.0|Netwerk Politiek...|
+|[https://ht.pleio.nl](https://ht.pleio.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache Tomcat Fourthwall:1.0.0 HSTS Java MariaDB Skolengo:1.0.0|Horizontaal Toez...|
+|[https://victor.pleio.nl](https://victor.pleio.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache Tomcat Fourthwall:1.0.0 HSTS Java MariaDB Skolengo:1.0.0|victorr.pleio.nl|
+|[https://samenwerkingsplatform-sroks.pleio.nl](https://samenwerkingsplatform-sroks.pleio.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|302 Found|
+|[https://haalcentraal.pleio.nl](https://haalcentraal.pleio.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache Tomcat Fourthwall:1.0.0 HSTS Java MariaDB Skolengo:1.0.0|Haal Centraal|
+|[https://rog.pleio.nl](https://rog.pleio.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache Tomcat Fourthwall:1.0.0 HSTS Java MariaDB Skolengo:1.0.0|Regie op Gegeven...|
+|[https://edi.pleio.nl](https://edi.pleio.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache Tomcat Fourthwall:1.0.0 HSTS Java MariaDB Skolengo:1.0.0|Digitale Identit...|
+|[https://dbgb.pleio.nl](https://dbgb.pleio.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
+|[https://kennisnetwerkdata.pleio.nl](https://kennisnetwerkdata.pleio.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache Tomcat Fourthwall:1.0.0 HSTS Java MariaDB Skolengo:1.0.0|Kennisnetwerk Da...|
+|[https://meedoenmetgebruikercentraal.pleio.nl](https://meedoenmetgebruikercentraal.pleio.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache Tomcat Fourthwall:1.0.0 HSTS Java MariaDB Skolengo:1.0.0|Meedoen met Gebr...|
+|[https://community-edusources.pleio.nl](https://community-edusources.pleio.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache Tomcat Fourthwall:1.0.0 HSTS Java MariaDB Skolengo:1.0.0|Community edusou...|
+|[https://www.pleio.nl](https://www.pleio.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
+|[https://img.pleio.nl](https://img.pleio.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache Tomcat Fourthwall:1.0.0 HSTS Java MariaDB Skolengo:1.0.0|IMG100000+|
+|[https://www.samenwerkenpop3.pleio.nl](https://www.samenwerkenpop3.pleio.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
+|[https://regelbeheer.pleio.nl](https://regelbeheer.pleio.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache Tomcat Fourthwall:1.0.0 HSTS Java MariaDB Skolengo:1.0.0|Regelbeheer|
+|[https://gezamenlijkbeeld.pleio.nl](https://gezamenlijkbeeld.pleio.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache Tomcat Fourthwall:1.0.0 HSTS Java MariaDB Skolengo:1.0.0|Ontwerptraject G...|
+|[https://legacy.capacitor.pleio.nl](https://legacy.capacitor.pleio.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | ||302 Found|
+|[https://imd.pleio.nl](https://imd.pleio.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache Tomcat Fourthwall:1.0.0 HSTS Java MariaDB Skolengo:1.0.0|Intermediairdage...|
+|[https://kleinlef.pleio.nl](https://kleinlef.pleio.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache Tomcat Fourthwall:1.0.0 HSTS Java MariaDB Skolengo:1.0.0|KleinLef|
+|[https://events.pleio.nl](https://events.pleio.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache Tomcat Fourthwall:1.0.0 HSTS Java MariaDB Skolengo:1.0.0|Evenementen|
+|[https://heapster.odc.pleio.nl](https://heapster.odc.pleio.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS|404 Not Found|
+|[https://leren.pleio.nl](https://leren.pleio.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|503 Service Temp...|
+|[https://moodle-odcn.pleio.nl](https://moodle-odcn.pleio.nl)| | **F**|nginx/1.26.2| | | | | | | | :white_check_mark: | |HSTS Nginx:1.26.2|Doorverwijspagin...|
 
 

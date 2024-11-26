@@ -149,11 +149,11 @@ http://test.liwo.intranet.rws.nl
 https://federatie.rws.nl
 http://gitlab.at.rws.nl
 https://topdesk-iv.rws.nl
-http://otl.rws.nl
+https://otl.rws.nl
 https://www.werkenbij.rws.nl
 https://splunkhec.grid.rws.nl
 https://splunkhec.gridacc.rws.nl
-http://waterinfo-extra.rws.nl
+https://waterinfo-extra.rws.nl
 https://matroos.rws.nl
 https://status.gridacc.rws.nl
 https://enterpriseenrollment.rws.nl

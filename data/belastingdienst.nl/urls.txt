@@ -34,7 +34,6 @@ https://fibe1.belastingdienst.nl
 https://fibi1.belastingdienst.nl
 https://fibz1.belastingdienst.nl
 https://filetransfer.belastingdienst.nl
-https://filetransfer.ont.belastingdienst.nl
 https://fmis.acc.belastingdienst.nl
 https://fmis.belastingdienst.nl
 https://fsvportaal.belastingdienst.nl

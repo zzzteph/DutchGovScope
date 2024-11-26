@@ -2,8 +2,8 @@
 layout: default
 title: "duurzaamheidsroutea35.nl"
 permalink: "/dutchgov/duurzaamheidsroutea35.nl.html"
-subdomains_count: 0
-urls_count: 0
+subdomains_count: 2
+urls_count: 2
 ssl_rank: 
 http_rank: F
 security_txt: 0
@@ -25,8 +25,8 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/duurzaamheidsroutea35.nl/subdomains.txt)|0|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/duurzaamheidsroutea35.nl/urls.txt)|0|Urls|
+|[subdomains.txt](/DutchGovScope/data/duurzaamheidsroutea35.nl/subdomains.txt)|2|Alive subdomains|
+|[urls.txt](/DutchGovScope/data/duurzaamheidsroutea35.nl/urls.txt)|2|Urls|
 
 
 ## Statistics
@@ -34,5 +34,7 @@ tags: dutchgov
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
+|[https://www.duurzaamheidsroutea35.nl](https://www.duurzaamheidsroutea35.nl)| | **F**|Microsoft-IIS/10.0| | | | | | | | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server||
+|[https://duurzaamheidsroutea35.nl](https://duurzaamheidsroutea35.nl)| | **F**|Microsoft-IIS/10.0| | | | | | | | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server||
 
 

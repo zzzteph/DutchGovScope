@@ -1,10 +1,4 @@
 acceptatie.advieswijzer.bigregister.nl
-acceptatie.api.bigregister.nl
-acceptatie.beheer.bigregister.nl
-acceptatie.mijn.bigregister.nl
-acceptatie.tea.bigregister.nl
-acceptatie.webservices.bigregister.nl
-acceptatie.zoeken.bigregister.nl
 advieswijzer.bigregister.nl
 api.bigregister.nl
 beheer.bigregister.nl

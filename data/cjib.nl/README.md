@@ -11,7 +11,7 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/cjib.nl/subdomains.txt)|15|Alive subdomains|
+|[subdomains.txt](/data/cjib.nl/subdomains.txt)|17|Alive subdomains|
 |[urls.txt](/data/cjib.nl/urls.txt)|15|Urls|
 
 

@@ -1,4 +1,3 @@
-autodiscover.hhdelfland.nl
 beeldbank.hhdelfland.nl
 beeldbank-bo.hhdelfland.nl
 burgerloket.hhdelfland.nl

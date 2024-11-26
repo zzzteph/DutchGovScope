@@ -30,3 +30,4 @@ https://chat.enlets.politie.nl
 https://push.enlets.politie.nl
 https://api.enlets.politie.nl
 https://mdc-ras-01.politie.nl
+https://enlets.politie.nl

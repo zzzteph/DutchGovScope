@@ -6,13 +6,13 @@
 
  - **SSL Grade**:
  - **HTTP Security Grade**:D
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:56
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:55
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/rijkswaterstaat.nl/subdomains.txt)|89|Alive subdomains|
-|[urls.txt](/data/rijkswaterstaat.nl/urls.txt)|88|Urls|
+|[subdomains.txt](/data/rijkswaterstaat.nl/subdomains.txt)|87|Alive subdomains|
+|[urls.txt](/data/rijkswaterstaat.nl/urls.txt)|87|Urls|
 
 
 ## Statistics
@@ -85,7 +85,6 @@
 |[https://spin.rijkswaterstaat.nl](https://spin.rijkswaterstaat.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |||
 |[https://standaarden.rijkswaterstaat.nl](https://standaarden.rijkswaterstaat.nl)| | **B**|nginx| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS Nginx|Mendix|
 |[https://stijlgids.rijkswaterstaat.nl](https://stijlgids.rijkswaterstaat.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |||
-|[https://techniekacademie.rijkswaterstaat.nl](https://techniekacademie.rijkswaterstaat.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:-|Techniek Academi...|
 |[https://test.botova.rijkswaterstaat.nl](https://test.botova.rijkswaterstaat.nl)| | **C**|Microsoft-HTTPAPI/2.0| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Microsoft HTTPAPI:2.0|Not Found|
 |[https://test.esb.rijkswaterstaat.nl](https://test.esb.rijkswaterstaat.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
 |[https://tmxweb.rijkswaterstaat.nl](https://tmxweb.rijkswaterstaat.nl)| | **E**|Microsoft-IIS/10.0|:o: |:white_check_mark: | | | | | | :white_check_mark: | |HSTS IIS:10.0 PHP:7.4.27 Windows Server|TMX Client | Det...|
@@ -100,7 +99,6 @@
 |[http://webmail.rijkswaterstaat.nl](http://webmail.rijkswaterstaat.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://zaaksysteem-acc.rijkswaterstaat.nl](https://zaaksysteem-acc.rijkswaterstaat.nl)| | **D**|| | | | | | :white_check_mark: | | :white_check_mark: | |HSTS|Moved|
 |[https://zaaksysteem.rijkswaterstaat.nl](https://zaaksysteem.rijkswaterstaat.nl)| | **D**|| | | | | | :white_check_mark: | | :white_check_mark: | |HSTS|Moved|
-|[https://zwerfafval.rijkswaterstaat.nl](https://zwerfafval.rijkswaterstaat.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:-|Object moved|
 |[https://acc-geo.rijkswaterstaat.nl](https://acc-geo.rijkswaterstaat.nl)| | **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Nginx|Landingspagina I...|
 |[https://static.ont.staging.werkenbij.rijkswaterstaat.nl](https://static.ont.staging.werkenbij.rijkswaterstaat.nl)| | **C**|Microsoft-Azure-Application-Gateway/v2| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|403 Forbidden|
 |[https://hld.rijkswaterstaat.nl](https://hld.rijkswaterstaat.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft ASP.NET YouTube|Object moved|
@@ -108,5 +106,6 @@
 |[https://innovatieloket-acc.rijkswaterstaat.nl](https://innovatieloket-acc.rijkswaterstaat.nl)| | **B**|nginx| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS Nginx|Mendix|
 |[https://innovatieloket.rijkswaterstaat.nl](https://innovatieloket.rijkswaterstaat.nl)| | **B**|nginx| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS Nginx|Mendix|
 |[https://waterwebservices.rijkswaterstaat.nl](https://waterwebservices.rijkswaterstaat.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|Welcome to Rijks...|
+|[https://klimaateffectatlas.rijkswaterstaat.nl](https://klimaateffectatlas.rijkswaterstaat.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| | | :white_check_mark: | |||
 
 

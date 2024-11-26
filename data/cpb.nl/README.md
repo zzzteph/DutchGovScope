@@ -11,8 +11,8 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/cpb.nl/subdomains.txt)|12|Alive subdomains|
-|[urls.txt](/data/cpb.nl/urls.txt)|12|Urls|
+|[subdomains.txt](/data/cpb.nl/subdomains.txt)|11|Alive subdomains|
+|[urls.txt](/data/cpb.nl/urls.txt)|11|Urls|
 
 
 ## Statistics
@@ -31,6 +31,5 @@
 |[https://fs.cpb.nl](https://fs.cpb.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
 |[https://link.pr.cpb.nl](https://link.pr.cpb.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|404 Not Found|
 |[https://airwatch-gw.cpb.nl](https://airwatch-gw.cpb.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||
-|[https://sf.cpb.nl](https://sf.cpb.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 
 

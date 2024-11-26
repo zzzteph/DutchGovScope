@@ -5,14 +5,14 @@
 
 
  - **SSL Grade**:
- - **HTTP Security Grade**:D
+ - **HTTP Security Grade**:E
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:3
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/minienm.nl/subdomains.txt)|18|Alive subdomains|
-|[urls.txt](/data/minienm.nl/urls.txt)|18|Urls|
+|[subdomains.txt](/data/minienm.nl/subdomains.txt)|17|Alive subdomains|
+|[urls.txt](/data/minienm.nl/urls.txt)|17|Urls|
 
 
 ## Statistics
@@ -24,7 +24,6 @@
 |[https://mpn-acc.minienm.nl](https://mpn-acc.minienm.nl)| | **F**|nginx/1.27.2| | | | | | | | :white_check_mark: | |Nginx:1.27.2|MPN ACCEPTATIE i...|
 |[https://mpn-tst.minienm.nl](https://mpn-tst.minienm.nl)| | **F**|nginx/1.27.2| | | | | | | | :white_check_mark: | |Nginx:1.27.2|Mobiliteitspanel...|
 |[https://tst.service.mpn.minienm.nl](https://tst.service.mpn.minienm.nl)| | **F**|nginx/1.27.2| | | | | | | | :white_check_mark: | |Nginx:1.27.2|400 No required...|
-|[https://bct.csp.minienm.nl](https://bct.csp.minienm.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|301 Moved Perman...|
 |[https://csp.minienm.nl](https://csp.minienm.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|301 Moved Perman...|
 |[https://minienm.nl](https://minienm.nl)| | **A**|Microsoft-IIS/10.0| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS IIS:10.0 Windows Server|Document Moved|
 |[https://sociaalfonds.minienm.nl](https://sociaalfonds.minienm.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|

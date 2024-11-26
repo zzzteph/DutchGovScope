@@ -43,6 +43,7 @@ ftgelderland.databank.nl
 beta-adc.databank.nl
 beta-klimaatbeleid.databank.nl
 beta-vivet.databank.nl
+beta-datawonen.databank.nl
 beta-klimaatmonitor.databank.nl
 beta-gdi.databank.nl
 beta-wsjg.databank.nl
@@ -91,6 +92,11 @@ inspectie-oe.databank.nl
 www.nederlandschoon.databank.nl
 stap.databank.nl
 www.gip.databank.nl
+www.ivm11.databank.nl
+live-waves.databank.nl
+holland-rijnland.databank.nl
+test-prognosemodelzw.databank.nl
+wsjg.databank.nl
 bvz-waves.databank.nl
 overijssel.databank.nl
 www.veiligheidsmonitor.databank.nl
@@ -100,3 +106,5 @@ www.openbaar.waves.databank.nl
 www.overijssel.databank.nl
 berst.databank.nl
 ciz.databank.nl
+www.klimaat-monitor.databank.nl
+www.arcon.databank.nl

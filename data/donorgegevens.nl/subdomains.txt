@@ -1,3 +1,4 @@
+aanvraag.donorgegevens.nl
 acceptatie.aanvraag.donorgegevens.nl
 acceptatie.behandel.donorgegevens.nl
 behandel.donorgegevens.nl
@@ -5,4 +6,5 @@ donorgegevens.nl
 feeds.donorgegevens.nl
 opendata.donorgegevens.nl
 www.donorgegevens.nl
+klinieken.donorgegevens.nl
 acceptatie.klinieken.donorgegevens.nl

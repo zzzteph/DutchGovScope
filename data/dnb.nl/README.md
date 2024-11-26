@@ -129,7 +129,7 @@
 |[https://open.dnb.nl](https://open.dnb.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Object moved per...|
 |[https://pla.dnb.nl](https://pla.dnb.nl)| | **F**|webserver| | | | | | | | :white_check_mark: | |HSTS Java||
 |[https://plp.dnb.nl](https://plp.dnb.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS Java||
-|[https://atender.dnb.nl](https://atender.dnb.nl)| | **A**||:o: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Microsoft ASP.NET||
+|[https://atender.dnb.nl](https://atender.dnb.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft ASP.NET||
 |[https://organisatiegegevens-test.dnb.nl](https://organisatiegegevens-test.dnb.nl)| | **A**|| |:white_check_mark: | | |:warning: | | | :white_check_mark: | |Azure Azure Front Door Azure Monitor HSTS|Organisation Det...|
 |[https://mockapp-test.dnb.nl](https://mockapp-test.dnb.nl)| | **E**|| | | :warning:| |:warning: | | | :white_check_mark: | |Azure Azure Front Door Azure Monitor|Mijn Dienst|
 |[https://svcalendar.dnb.nl](https://svcalendar.dnb.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| | :white_check_mark: | :white_check_mark: | |Azure Azure Front Door Azure Monitor HSTS|Supervision Cale...|

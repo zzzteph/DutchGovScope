@@ -11,7 +11,7 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/werkenvoornederland-events.nl/subdomains.txt)|1|Alive subdomains|
+|[subdomains.txt](/data/werkenvoornederland-events.nl/subdomains.txt)|3|Alive subdomains|
 |[urls.txt](/data/werkenvoornederland-events.nl/urls.txt)|1|Urls|
 
 

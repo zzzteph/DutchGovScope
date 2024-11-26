@@ -11,7 +11,7 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/minjenv.nl/subdomains.txt)|5|Alive subdomains|
+|[subdomains.txt](/data/minjenv.nl/subdomains.txt)|6|Alive subdomains|
 |[urls.txt](/data/minjenv.nl/urls.txt)|5|Urls|
 
 

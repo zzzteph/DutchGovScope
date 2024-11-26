@@ -364,6 +364,7 @@ https://hisgis.fa.knaw.nl
 http://hisgis2.fa.knaw.nl
 https://hucdrive.huc.knaw.nl
 https://hweb.knaw.nl
+https://intranetzonder.knaw.nl
 https://logo.huygens.knaw.nl
 http://maps.fa.knaw.nl
 https://mapserver.fa.knaw.nl
@@ -451,6 +452,7 @@ https://hulpopafstand.knaw.nl
 https://remotesupport.knaw.nl
 https://portus.knaw.nl
 https://rds.knaw.nl
+https://rdsgw.knaw.nl
 https://repository.knaw.nl
 https://oaipmh.emitx.huygens.knaw.nl
 https://neww.huygens.knaw.nl
@@ -528,3 +530,4 @@ https://hermansdigitaal.huygens.knaw.nl
 https://dataverse-date-updater.labs.dans.knaw.nl
 https://back2roots.nioo.knaw.nl
 https://promise.nioo.knaw.nl
+https://intranet.nioo.knaw.nl

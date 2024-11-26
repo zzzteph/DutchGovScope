@@ -6,7 +6,7 @@
 
  - **SSL Grade**:
  - **HTTP Security Grade**:B
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:17
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:18
 
 
 | File       | Count | Info |
@@ -34,7 +34,6 @@
 |[https://opendata.english.nvwa.nl](https://opendata.english.nvwa.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://opendata.nvwa.nl](https://opendata.nvwa.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://forms-acc.nvwa.nl](https://forms-acc.nvwa.nl)| | **D**||:o: |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|IIS Windows Serv...|
-|[http://formulieren-acc.nvwa.nl](http://formulieren-acc.nvwa.nl)| | **A**||:white_check_mark: |:white_check_mark: | :warning:| | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://formulieren.nvwa.nl](https://formulieren.nvwa.nl)| | **A**||:white_check_mark: |:white_check_mark: | :warning:| | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Object moved|
 |[https://inspectieresultaten.nvwa.nl](https://inspectieresultaten.nvwa.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
 |[https://openbare-inspectieresultaten.nvwa.nl](https://openbare-inspectieresultaten.nvwa.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
@@ -44,6 +43,7 @@
 |[https://iwelcome-preprod.nvwa.nl](https://iwelcome-preprod.nvwa.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||
 |[https://iwelcome.nvwa.nl](https://iwelcome.nvwa.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||
 |[http://labvantage-acc.nvwa.nl](http://labvantage-acc.nvwa.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||
+|[https://mijn-acc.nvwa.nl](https://mijn-acc.nvwa.nl)| | **A**|| |:white_check_mark: | :warning:| | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Object moved|
 |[https://mijn.nvwa.nl](https://mijn.nvwa.nl)| | **A**|| |:white_check_mark: | :warning:| | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Object moved|
 |[https://ras-acc.nvwa.nl](https://ras-acc.nvwa.nl)| | **A**||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|302 Found|
 |[https://www.ras-acc.nvwa.nl](https://www.ras-acc.nvwa.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS|302 Found|

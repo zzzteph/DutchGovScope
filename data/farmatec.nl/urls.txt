@@ -1,4 +1,3 @@
-https://acceptatie.hulpmiddelen.farmatec.nl
 https://feeds.farmatec.nl
 https://opendata.english.farmatec.nl
 https://opendata.farmatec.nl

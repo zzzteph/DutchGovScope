@@ -307,5 +307,5 @@ https://toepasbare-regels.omgevingswet.overheid.nl
 https://water.omgevingswet.overheid.nl
 https://autodiscover.overheid.nl
 http://ref.omgevingswet.overheid.nl
-http://repository-preprod.overheid.nl
+https://repository-preprod.overheid.nl
 https://lvbb-lto.overheid.nl

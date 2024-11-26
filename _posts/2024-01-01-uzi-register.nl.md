@@ -2,8 +2,8 @@
 layout: default
 title: "uzi-register.nl"
 permalink: "/dutchgov/uzi-register.nl.html"
-subdomains_count: 1
-urls_count: 1
+subdomains_count: 3
+urls_count: 3
 ssl_rank: 
 http_rank: A
 security_txt: 0
@@ -25,8 +25,8 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/uzi-register.nl/subdomains.txt)|1|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/uzi-register.nl/urls.txt)|1|Urls|
+|[subdomains.txt](/DutchGovScope/data/uzi-register.nl/subdomains.txt)|3|Alive subdomains|
+|[urls.txt](/DutchGovScope/data/uzi-register.nl/urls.txt)|3|Urls|
 
 
 ## Statistics
@@ -34,6 +34,8 @@ tags: dutchgov
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
+|[https://www.uzi-register.nl](https://www.uzi-register.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|301 Moved Perman...|
+|[https://www.csp.uzi-register.nl](https://www.csp.uzi-register.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|301 Moved Perman...|
 |[https://uzi-register.nl](https://uzi-register.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|301 Moved Perman...|
 
 

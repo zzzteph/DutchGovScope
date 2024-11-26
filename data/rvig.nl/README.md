@@ -11,8 +11,8 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/rvig.nl/subdomains.txt)|27|Alive subdomains|
-|[urls.txt](/data/rvig.nl/urls.txt)|27|Urls|
+|[subdomains.txt](/data/rvig.nl/subdomains.txt)|28|Alive subdomains|
+|[urls.txt](/data/rvig.nl/urls.txt)|28|Urls|
 
 
 ## Statistics
@@ -36,6 +36,7 @@
 |[https://rni-webform.rvig.nl](https://rni-webform.rvig.nl)| | **B**||:white_check_mark: |:white_check_mark: | | | :white_check_mark:| | | :white_check_mark: | |HSTS|RNI vooraanmeldi...|
 |[https://acc2.intranet.rvig.nl](https://acc2.intranet.rvig.nl)| | **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Nginx|403 Forbidden|
 |[https://publicaties-acc.rvig.nl](https://publicaties-acc.rvig.nl)| | **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |Basic HSTS Nginx|401 Authorizatio...|
+|[https://agw.lap.idm.rvig.nl](https://agw.lap.idm.rvig.nl)| | **B**||:warning: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://api.reis.idm.rvig.nl](https://api.reis.idm.rvig.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
 |[https://idbs.idm.rvig.nl](https://idbs.idm.rvig.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Java||
 |[https://idbs.npr.idm.rvig.nl](https://idbs.npr.idm.rvig.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Java||

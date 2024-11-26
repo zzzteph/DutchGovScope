@@ -6,7 +6,7 @@
 
  - **SSL Grade**:
  - **HTTP Security Grade**:C
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:24
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:25
 
 
 | File       | Count | Info |
@@ -58,7 +58,6 @@
 |[https://desktop.flevoland.nl](https://desktop.flevoland.nl)| | **B**|| | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |||
 |[https://esb-ibabs-preprod.flevoland.nl](https://esb-ibabs-preprod.flevoland.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
 |[https://esb-ibabs.flevoland.nl](https://esb-ibabs.flevoland.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Service|
-|[https://esb-preprod.flevoland.nl](https://esb-preprod.flevoland.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
 |[https://flevoland.nl](https://flevoland.nl)| | **C**|Microsoft-IIS/10.0| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS IIS:10.0 Windows Server|Welkom bij provi...|
 |[http://int-prod-01.flevoland.nl](http://int-prod-01.flevoland.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
 |[http://prod.flevoland.nl](http://prod.flevoland.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
@@ -78,6 +77,7 @@
 |[https://micollab.flevoland.nl](https://micollab.flevoland.nl)| | **A**|Apache| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS|Redirecting...|
 |[https://preprodid.flevoland.nl](https://preprodid.flevoland.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Provincie Flevol...|
 |[https://stateninformatie.flevoland.nl](https://stateninformatie.flevoland.nl)| | **A**|Apache|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS PHP|Provincie Flevol...|
+|[https://test-cmsintranet.flevoland.nl](https://test-cmsintranet.flevoland.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|403 - Forbidden:...|
 |[https://test.flevoland.nl](https://test.flevoland.nl)| | **F**|Microsoft-Azure-Application-Gateway/v2| | | | | | | | :white_check_mark: | ||502 Bad Gateway|
 |[https://testmdm.flevoland.nl](https://testmdm.flevoland.nl)| | **A**|server| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|302 Found|
 |[https://veiligmailen.flevoland.nl](https://veiligmailen.flevoland.nl)| | **A**|| |:white_check_mark: | | |:warning: | | :white_check_mark: | :white_check_mark: | |HSTS||

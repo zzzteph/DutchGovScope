@@ -84,6 +84,7 @@ https://auth.rivm.nl
 https://sso-webauth.rivm.nl
 https://autodiscover.rivm.nl
 https://beleving.rivm.nl
+http://informatiehulp.rivm.nl
 https://signalen.rivm.nl
 https://bestellingen.rivm.nl
 http://www.bestellingen.rivm.nl
@@ -238,7 +239,7 @@ https://webservice.sniv.osiris.rivm.nl
 https://webservice.cdif.osiris.rivm.nl
 https://www.lml.rivm.nl
 https://ggdiamdemo.rivm.nl
-http://acceptatie.soap.osiris.rivm.nl
+https://acceptatie.soap.osiris.rivm.nl
 http://macotra.rivm.nl
 http://typened-cpe.rivm.nl
 http://www.typened-cpe-demo.rivm.nl
@@ -260,3 +261,4 @@ https://ivac.rivm.nl
 https://developer.rivm.nl
 https://lsp.rivm.nl
 http://spoor.rivm.nl
+http://data-acc.rivm.nl

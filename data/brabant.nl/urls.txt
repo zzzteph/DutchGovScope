@@ -13,6 +13,7 @@ https://english.brabant.nl
 https://www.brabant.nl
 https://brains-acc.brabant.nl
 https://brains.brabant.nl
+http://bzv-a.brabant.nl
 https://bzv.brabant.nl
 https://ondertekenen.brabant.nl
 https://ondertekenentst.brabant.nl
@@ -40,7 +41,7 @@ https://publicaties.brabant.nl
 https://signing.pre.brabant.nl
 https://startformulier.brabant.nl
 https://startformuliertest.brabant.nl
-https://voi.brabant.nl
+http://voi.brabant.nl
 https://vpn.brabant.nl
 https://webmail.brabant.nl
 https://xential-acpt.brabant.nl
@@ -58,13 +59,14 @@ http://detoekomstbegintnu.brabant.nl
 http://draf-acpt.brabant.nl
 https://draf.brabant.nl
 https://esb-test.brabant.nl
+https://opendata.brabant.nl
 https://samenwerken.brabant.nl
 https://facilitor.brabant.nl
 https://kaartbank.brabant.nl
 https://kaarten.brabant.nl
 http://informatie-rws.brabant.nl
-https://longread.brabant.nl
-https://specials.brabant.nl
+http://longread.brabant.nl
+http://specials.brabant.nl
 https://mik-acpt.brabant.nl
 http://slechtvalk.brabant.nl
 https://telewerk.brabant.nl

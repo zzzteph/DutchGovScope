@@ -1,2 +1,2 @@
-http://enwinfo.nl
-http://www.enwinfo.nl
+https://enwinfo.nl
+https://www.enwinfo.nl
