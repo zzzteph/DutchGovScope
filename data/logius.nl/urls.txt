@@ -17,7 +17,6 @@ https://bvd-pre.mev.logius.nl
 https://bvd.mev.logius.nl
 http://iam-containerplatform-az1.lpc.logius.nl
 https://iam-containerplatform.lpc.logius.nl
-http://www.lpc.logius.nl
 http://channels-az1.lpc.logius.nl
 https://channels.lpc.logius.nl
 http://docs.lpc.logius.nl
@@ -50,11 +49,3 @@ https://pmz.logius.nl
 http://amp-pre.logius.nl
 https://gm.mev.logius.nl
 https://logius.nl
-https://gebruikersportaal.preproductie.digipoort.logius.nl
-http://lca.logius.nl
-https://intrekkingsportaal.digipoort.logius.nl
-https://aansluitsuite.digipoort.logius.nl
-https://beheerportaal.digipoort.logius.nl
-https://gebruikersportaal-duo.digipoort.logius.nl
-https://gebruikersportaal.digipoort.logius.nl
-https://gebruikersportaal-sbr.digipoort.logius.nl

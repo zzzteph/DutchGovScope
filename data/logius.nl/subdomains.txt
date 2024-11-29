@@ -17,7 +17,6 @@ bvd-pre.mev.logius.nl
 bvd.mev.logius.nl
 iam-containerplatform-az1.lpc.logius.nl
 iam-containerplatform.lpc.logius.nl
-www.lpc.logius.nl
 channels-az1.lpc.logius.nl
 channels.lpc.logius.nl
 docs.lpc.logius.nl
@@ -50,11 +49,7 @@ pmz.logius.nl
 amp-pre.logius.nl
 gm.mev.logius.nl
 logius.nl
-gebruikersportaal.preproductie.digipoort.logius.nl
-lca.logius.nl
-intrekkingsportaal.digipoort.logius.nl
-aansluitsuite.digipoort.logius.nl
-beheerportaal.digipoort.logius.nl
-gebruikersportaal-duo.digipoort.logius.nl
-gebruikersportaal.digipoort.logius.nl
-gebruikersportaal-sbr.digipoort.logius.nl
+sonarqube.lpc.logius.nl
+grafana.lpc.logius.nl
+kibana-prod.lpc.logius.nl
+kibana.lpc.logius.nl

@@ -2,11 +2,11 @@
 layout: default
 title: "registersocialehygiene.nl"
 permalink: "/dutchgov/registersocialehygiene.nl.html"
-subdomains_count: 9
-urls_count: 9
+subdomains_count: 10
+urls_count: 10
 ssl_rank: 
 http_rank: A
-security_txt: 9
+security_txt: 10
 url_link: /data/registersocialehygiene.nl/urls.txt
 subdomains_link: /data/registersocialehygiene.nl/subdomains.txt
 categories: dutchgov
@@ -20,13 +20,13 @@ tags: dutchgov
 
  - **SSL Grade**:
  - **HTTP Security Grade**:A
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:9
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:10
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/registersocialehygiene.nl/subdomains.txt)|9|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/registersocialehygiene.nl/urls.txt)|9|Urls|
+|[subdomains.txt](/DutchGovScope/data/registersocialehygiene.nl/subdomains.txt)|10|Alive subdomains|
+|[urls.txt](/DutchGovScope/data/registersocialehygiene.nl/urls.txt)|10|Urls|
 
 
 ## Statistics
@@ -34,6 +34,7 @@ tags: dutchgov
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
+|[https://acceptatie.behandel.registersocialehygiene.nl](https://acceptatie.behandel.registersocialehygiene.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://acceptatie.zoeken.registersocialehygiene.nl](https://acceptatie.zoeken.registersocialehygiene.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://behandel.registersocialehygiene.nl](https://behandel.registersocialehygiene.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://feeds.registersocialehygiene.nl](https://feeds.registersocialehygiene.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||

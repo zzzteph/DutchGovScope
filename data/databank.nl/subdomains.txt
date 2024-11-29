@@ -89,7 +89,6 @@ flevoland.databank.nl
 mre.databank.nl
 rabobank.databank.nl
 inspectie-oe.databank.nl
-www.nederlandschoon.databank.nl
 stap.databank.nl
 www.gip.databank.nl
 www.ivm11.databank.nl

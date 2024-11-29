@@ -2,8 +2,8 @@
 layout: default
 title: "nationaalarchief.nl"
 permalink: "/dutchgov/nationaalarchief.nl.html"
-subdomains_count: 38
-urls_count: 38
+subdomains_count: 37
+urls_count: 37
 ssl_rank: 
 http_rank: D
 security_txt: 8
@@ -25,8 +25,8 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/nationaalarchief.nl/subdomains.txt)|38|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/nationaalarchief.nl/urls.txt)|38|Urls|
+|[subdomains.txt](/DutchGovScope/data/nationaalarchief.nl/subdomains.txt)|37|Alive subdomains|
+|[urls.txt](/DutchGovScope/data/nationaalarchief.nl/urls.txt)|37|Urls|
 
 
 ## Statistics
@@ -41,7 +41,6 @@ tags: dutchgov
 |[https://vocopvarenden.nationaalarchief.nl](https://vocopvarenden.nationaalarchief.nl)| | **F**|nginx/1.25.3| | | | | | | | :white_check_mark: | |HSTS Nginx:1.25.3||
 |[https://vocseavoyagers.nationaalarchief.nl](https://vocseavoyagers.nationaalarchief.nl)| | **F**|nginx/1.25.3| | | | | | | | :white_check_mark: | |HSTS Nginx:1.25.3||
 |[https://acpt.nationaalarchief.nl](https://acpt.nationaalarchief.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|403 Forbidden|
-|[https://actorenregister.acpt.nationaalarchief.nl](https://actorenregister.acpt.nationaalarchief.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|403 Forbidden|
 |[https://actorenregister.nationaalarchief.nl](https://actorenregister.nationaalarchief.nl)| | **C**|| | | :warning:| | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Drupal PHP|Welkom | Actoren...|
 |[http://beeldbank.nationaalarchief.nl](http://beeldbank.nationaalarchief.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |HTTP/3 Nginx||
 |[https://bibliotheek.nationaalarchief.nl](https://bibliotheek.nationaalarchief.nl)| | **F**|Central System Dispatcher/1.1| | | | | | | | :white_check_mark: | |HSTS||

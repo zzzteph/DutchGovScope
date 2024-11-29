@@ -3,4 +3,3 @@ aggregator.etoegang.nl
 s3.etoegang.nl
 simulator.etoegang.nl
 upload.etoegang.nl
-datareportr.etoegang.nl

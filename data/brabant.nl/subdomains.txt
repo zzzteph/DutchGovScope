@@ -69,7 +69,6 @@ longread.brabant.nl
 specials.brabant.nl
 mik-acpt.brabant.nl
 slechtvalk.brabant.nl
-telewerk.brabant.nl
 torenvalk.brabant.nl
 videoserver2.brabant.nl
 esb-a1.brabant.nl

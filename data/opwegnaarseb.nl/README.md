@@ -11,7 +11,7 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/opwegnaarseb.nl/subdomains.txt)|7|Alive subdomains|
+|[subdomains.txt](/data/opwegnaarseb.nl/subdomains.txt)|9|Alive subdomains|
 |[urls.txt](/data/opwegnaarseb.nl/urls.txt)|7|Urls|
 
 

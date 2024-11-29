@@ -2,8 +2,8 @@
 layout: default
 title: "zuid-holland.nl"
 permalink: "/dutchgov/zuid-holland.nl.html"
-subdomains_count: 76
-urls_count: 76
+subdomains_count: 77
+urls_count: 75
 ssl_rank: 
 http_rank: B
 security_txt: 25
@@ -25,8 +25,8 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/zuid-holland.nl/subdomains.txt)|76|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/zuid-holland.nl/urls.txt)|76|Urls|
+|[subdomains.txt](/DutchGovScope/data/zuid-holland.nl/subdomains.txt)|77|Alive subdomains|
+|[urls.txt](/DutchGovScope/data/zuid-holland.nl/urls.txt)|75|Urls|
 
 
 ## Statistics
@@ -108,7 +108,6 @@ tags: dutchgov
 |[https://auth.openstad.zuid-holland.nl](https://auth.openstad.zuid-holland.nl)| | **A**||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Express HSTS Node.js||
 |[https://admin.openstad.zuid-holland.nl](https://admin.openstad.zuid-holland.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|403 Forbidden|
 |[https://www.openstad.zuid-holland.nl](https://www.openstad.zuid-holland.nl)| | **B**||:o: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | ||308 Permanent Re...|
-|[https://img.openstad.zuid-holland.nl](https://img.openstad.zuid-holland.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Express HSTS Node.js|Error|
 |[https://api.openstad.zuid-holland.nl](https://api.openstad.zuid-holland.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS||
 
 

@@ -6,13 +6,13 @@
 
  - **SSL Grade**:
  - **HTTP Security Grade**:A
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:57
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:56
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/sitearchief.nl/subdomains.txt)|123|Alive subdomains|
-|[urls.txt](/data/sitearchief.nl/urls.txt)|88|Urls|
+|[subdomains.txt](/data/sitearchief.nl/subdomains.txt)|122|Alive subdomains|
+|[urls.txt](/data/sitearchief.nl/urls.txt)|87|Urls|
 
 
 ## Statistics
@@ -94,7 +94,6 @@
 |[https://tweedekamer.sitearchief.nl](https://tweedekamer.sitearchief.nl)| | **A**|nginx|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx|Sitearchief - Tw...|
 |[https://cjib.sitearchief.nl](https://cjib.sitearchief.nl)| | **A**|nginx|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx|Sitearchief - CJ...|
 |[https://douane.sitearchief.nl](https://douane.sitearchief.nl)| | **A**|nginx|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx|Sitearchief - Do...|
-|[https://cak.sitearchief.nl](https://cak.sitearchief.nl)| | **A**|nginx|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx|Sitearchief - CA...|
 |[https://ciz.sitearchief.nl](https://ciz.sitearchief.nl)| | **A**|nginx|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx|Sitearchief - CI...|
 |[https://svb.sitearchief.nl](https://svb.sitearchief.nl)| | **A**|nginx|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx|Sitearchief - SV...|
 |[https://cbr.sitearchief.nl](https://cbr.sitearchief.nl)| | **A**|nginx|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx|Sitearchief - CB...|

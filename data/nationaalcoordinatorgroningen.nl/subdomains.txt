@@ -7,5 +7,3 @@ www.nationaalcoordinatorgroningen.nl
 intranet-prod.nationaalcoordinatorgroningen.nl
 intranet.nationaalcoordinatorgroningen.nl
 jet-test.nationaalcoordinatorgroningen.nl
-ad.nlemail.awareness.nationaalcoordinatorgroningen.nl
-jet-acc.nationaalcoordinatorgroningen.nl

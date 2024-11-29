@@ -2,7 +2,7 @@
 layout: default
 title: "langdurigezorg.nl"
 permalink: "/dutchgov/langdurigezorg.nl.html"
-subdomains_count: 0
+subdomains_count: 2
 urls_count: 0
 ssl_rank: 
 http_rank: F
@@ -25,7 +25,7 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/langdurigezorg.nl/subdomains.txt)|0|Alive subdomains|
+|[subdomains.txt](/DutchGovScope/data/langdurigezorg.nl/subdomains.txt)|2|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/langdurigezorg.nl/urls.txt)|0|Urls|
 
 

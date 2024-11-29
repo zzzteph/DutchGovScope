@@ -11,7 +11,7 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/databank.nl/subdomains.txt)|110|Alive subdomains|
+|[subdomains.txt](/data/databank.nl/subdomains.txt)|109|Alive subdomains|
 |[urls.txt](/data/databank.nl/urls.txt)|72|Urls|
 
 
@@ -78,7 +78,6 @@
 |[https://mre.databank.nl](https://mre.databank.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Amazon S3 Amazon Web Services Azure Edge Network HSTS Microsoft ASP.NET MyFonts|Woningmarktontwi...|
 |[https://rabobank.databank.nl](https://rabobank.databank.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Amazon S3 Amazon Web Services Azure Edge Network HSTS Microsoft ASP.NET MyFonts|Rabobankmonitor|
 |[https://inspectie-oe.databank.nl](https://inspectie-oe.databank.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Amazon S3 Amazon Web Services Azure Edge Network HSTS Microsoft ASP.NET MyFonts|Home | Monitor I...|
-|[https://www.nederlandschoon.databank.nl](https://www.nederlandschoon.databank.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Document Moved|
 |[https://stap.databank.nl](https://stap.databank.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Amazon S3 Amazon Web Services Azure Edge Network HSTS Microsoft ASP.NET MyFonts|Home | Stichting...|
 |[https://www.gip.databank.nl](https://www.gip.databank.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Document Moved|
 |[https://www.ivm11.databank.nl](https://www.ivm11.databank.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Document Moved|
@@ -92,5 +91,6 @@
 |[https://www.openbaar.waves.databank.nl](https://www.openbaar.waves.databank.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Document Moved|
 |[https://www.overijssel.databank.nl](https://www.overijssel.databank.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Document Moved|
 |[https://berst.databank.nl](https://berst.databank.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET|Document Moved|
+|[https://ciz.databank.nl](https://ciz.databank.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | | :white_check_mark: | :white_check_mark: | |Amazon S3 Amazon Web Services Azure Edge Network HSTS Microsoft ASP.NET MyFonts|CIZ Databank|
 
 

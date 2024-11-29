@@ -18,7 +18,6 @@ autodiscover.nza.nl
 crm.nza.nl
 hybrid.nza.nl
 rpx.nza.nl
-dkdlmodel.nza.nl
 leren.nza.nl
 www.nza.nl
 feeds.nza.nl

@@ -5,7 +5,6 @@ vocbesatzungen.nationaalarchief.nl
 vocopvarenden.nationaalarchief.nl
 vocseavoyagers.nationaalarchief.nl
 acpt.nationaalarchief.nl
-actorenregister.acpt.nationaalarchief.nl
 actorenregister.nationaalarchief.nl
 beeldbank.nationaalarchief.nl
 bibliotheek.nationaalarchief.nl

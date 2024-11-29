@@ -6,13 +6,13 @@
 
  - **SSL Grade**:
  - **HTTP Security Grade**:A
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:9
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:10
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/registersocialehygiene.nl/subdomains.txt)|9|Alive subdomains|
-|[urls.txt](/data/registersocialehygiene.nl/urls.txt)|9|Urls|
+|[subdomains.txt](/data/registersocialehygiene.nl/subdomains.txt)|10|Alive subdomains|
+|[urls.txt](/data/registersocialehygiene.nl/urls.txt)|10|Urls|
 
 
 ## Statistics
@@ -20,6 +20,7 @@
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
+|[https://acceptatie.behandel.registersocialehygiene.nl](https://acceptatie.behandel.registersocialehygiene.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://acceptatie.zoeken.registersocialehygiene.nl](https://acceptatie.zoeken.registersocialehygiene.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://behandel.registersocialehygiene.nl](https://behandel.registersocialehygiene.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://feeds.registersocialehygiene.nl](https://feeds.registersocialehygiene.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||

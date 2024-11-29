@@ -13,5 +13,4 @@ https://opendata.bigregister.nl
 https://mijn.bigregister.nl
 https://tea.bigregister.nl
 https://zoeken.bigregister.nl
-https://acceptatie.behandel.bigregister.nl
 https://behandel.bigregister.nl

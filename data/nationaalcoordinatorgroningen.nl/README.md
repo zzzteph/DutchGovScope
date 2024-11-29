@@ -5,14 +5,14 @@
 
 
  - **SSL Grade**:
- - **HTTP Security Grade**:D
+ - **HTTP Security Grade**:C
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:6
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/nationaalcoordinatorgroningen.nl/subdomains.txt)|11|Alive subdomains|
-|[urls.txt](/data/nationaalcoordinatorgroningen.nl/urls.txt)|11|Urls|
+|[subdomains.txt](/data/nationaalcoordinatorgroningen.nl/subdomains.txt)|9|Alive subdomains|
+|[urls.txt](/data/nationaalcoordinatorgroningen.nl/urls.txt)|9|Urls|
 
 
 ## Statistics
@@ -29,7 +29,5 @@
 |[https://intranet-prod.nationaalcoordinatorgroningen.nl](https://intranet-prod.nationaalcoordinatorgroningen.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|403 Forbidden|
 |[https://intranet.nationaalcoordinatorgroningen.nl](https://intranet.nationaalcoordinatorgroningen.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|403 Forbidden|
 |[https://jet-test.nationaalcoordinatorgroningen.nl](https://jet-test.nationaalcoordinatorgroningen.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|403 Forbidden|
-|[http://ad.nlemail.awareness.nationaalcoordinatorgroningen.nl](http://ad.nlemail.awareness.nationaalcoordinatorgroningen.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |HSTS Nginx||
-|[https://jet-acc.nationaalcoordinatorgroningen.nl](https://jet-acc.nationaalcoordinatorgroningen.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|403 Forbidden|
 
 

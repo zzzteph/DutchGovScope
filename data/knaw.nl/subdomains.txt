@@ -433,9 +433,12 @@ pureacc.knaw.nl
 web.knaw.nl
 www.herseninstituut.knaw.nl
 maritimecareers.huygens.knaw.nl
+sd-yugoslavia.dev.huc.knaw.nl
 occassio.dev.huc.knaw.nl
 workforce.nioo.knaw.nl
+ecartico.dev.huc.knaw.nl
 service-index.labs.dans.knaw.nl
+oat.acc.huc.knaw.nl
 kaartenbank.meertens.knaw.nl
 monitoring.huc.knaw.nl
 dummy-signposting.labs.dans.knaw.nl
@@ -469,6 +472,7 @@ phpmyadmin.wordpress.dans.knaw.nl
 gharvester31.dans.knaw.nl
 hi2.huygens.knaw.nl
 hi8.huygens.knaw.nl
+vangogh-tiles.dev.huc.knaw.nl
 ivanticsa01.knaw.nl
 tmfiles.knaw.nl
 sweb11.dans.knaw.nl
@@ -478,7 +482,6 @@ emailsanitizer.labs.dans.knaw.nl
 fairaware-api.labs.dans.knaw.nl
 galaxy.bioinf.nioo.knaw.nl
 metadata-enhancer.labs.dans.knaw.nl
-subsite.nioo-acc.knaw.nl
 flippinglakes.nioo.knaw.nl
 www.nioo.knaw.nl
 minioapi2.labs.dans.knaw.nl
@@ -487,6 +490,7 @@ vova.meertens.knaw.nl
 facades-formats.labs.dans.knaw.nl
 license.labs.dans.knaw.nl
 chat.bioinf.nioo.knaw.nl
+vangogh-api.dev.huc.knaw.nl
 fairevaapi.labs.dans.knaw.nl
 genomes.bioinf.nioo.knaw.nl
 repository-assistant.labs.dans.knaw.nl

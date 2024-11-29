@@ -6,13 +6,13 @@
 
  - **SSL Grade**:
  - **HTTP Security Grade**:B
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:14
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:13
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/scp.nl/subdomains.txt)|20|Alive subdomains|
-|[urls.txt](/data/scp.nl/urls.txt)|20|Urls|
+|[subdomains.txt](/data/scp.nl/subdomains.txt)|18|Alive subdomains|
+|[urls.txt](/data/scp.nl/urls.txt)|18|Urls|
 
 
 ## Statistics
@@ -33,9 +33,7 @@
 |[https://opendata.english.scp.nl](https://opendata.english.scp.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://testmail.scp.nl](https://testmail.scp.nl)| | **F**|BigIP| | | | | | | | :white_check_mark: | |F5 BigIP HSTS||
 |[https://mail.scp.nl](https://mail.scp.nl)| | **D**|BigIP|:warning: |:white_check_mark: | | | | | | :white_check_mark: | |F5 BigIP HSTS||
-|[https://repository.scp.nl](https://repository.scp.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|403 Forbidden|
 |[https://test-cmsintranet.scp.nl](https://test-cmsintranet.scp.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|403 - Forbidden:...|
-|[https://test-intranet.scp.nl](https://test-intranet.scp.nl)| | **A**||:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[http://autodiscover.scp.nl](http://autodiscover.scp.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://download.mail.scp.nl](https://download.mail.scp.nl)| | **D**|BigIP|:warning: |:white_check_mark: | | | | | | :white_check_mark: | |F5 BigIP HSTS||
 |[https://feeds.scp.nl](https://feeds.scp.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||

@@ -1,4 +1,3 @@
-https://acceptatie.beheer.donorregister.nl
 https://acceptatie.mijn.donorregister.nl
 https://acceptatie.raadplegen.donorregister.nl
 http://acceptatie.webservices.donorregister.nl

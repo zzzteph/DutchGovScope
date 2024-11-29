@@ -1,4 +1,3 @@
-www.geschilleninstantieszorg.nl
 feeds.geschilleninstantieszorg.nl
 geschilleninstantieszorg.nl
 opendata.geschilleninstantieszorg.nl

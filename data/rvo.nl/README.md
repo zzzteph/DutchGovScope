@@ -6,13 +6,13 @@
 
  - **SSL Grade**:
  - **HTTP Security Grade**:C
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:48
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:51
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/rvo.nl/subdomains.txt)|125|Alive subdomains|
-|[urls.txt](/data/rvo.nl/urls.txt)|121|Urls|
+|[subdomains.txt](/data/rvo.nl/subdomains.txt)|124|Alive subdomains|
+|[urls.txt](/data/rvo.nl/urls.txt)|124|Urls|
 
 
 ## Statistics
@@ -131,7 +131,6 @@
 |[https://gdi-b.rvo.nl](https://gdi-b.rvo.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS|Onderhoud Pagina|
 |[https://ih-static.rvo.nl](https://ih-static.rvo.nl)| | **A**|nginx| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Drupal:10 HSTS Nginx PHP|Inloggen | RVO I...|
 |[https://kostenkentallen.rvo.nl](https://kostenkentallen.rvo.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |||
-|[https://ojb.rvo.nl](https://ojb.rvo.nl)| | **C**|| | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | ||Verzoek afgeweze...|
 |[https://rhel-p-mijn.rvo.nl](https://rhel-p-mijn.rvo.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS||
 |[http://rhel-np-mijn.rvo.nl](http://rhel-np-mijn.rvo.nl)| | **F**|BigIP| | | | | | | | :white_check_mark: | |F5 BigIP||
 |[https://sandbox.rvo.nl](https://sandbox.rvo.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS|403 Forbidden|
@@ -141,5 +140,9 @@
 |[https://edu.mijnoctrooi.mypage.rvo.nl](https://edu.mijnoctrooi.mypage.rvo.nl)| | **E**|MyPage| | | | | | :white_check_mark: | | :white_check_mark: | |||
 |[https://english-acc.rvo.nl](https://english-acc.rvo.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS|403 Forbidden|
 |[https://sandbox-cms.rvo.nl](https://sandbox-cms.rvo.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS|403 Forbidden|
+|[https://www.economicdiplomacy.rvo.nl](https://www.economicdiplomacy.rvo.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
+|[https://www.kennisdelen.rvo.nl](https://www.kennisdelen.rvo.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
+|[https://www.offshorewind.rvo.nl](https://www.offshorewind.rvo.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
+|[https://www.sharingknowledge.rvo.nl](https://www.sharingknowledge.rvo.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 
 

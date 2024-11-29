@@ -1,5 +1,4 @@
 apim-icc.svb.nl
-applicationstest.svb.nl
 app-a.svb.nl
 app-o.svb.nl
 app-t.svb.nl
@@ -15,14 +14,12 @@ desktop.entreepgb.svb.nl
 pgbverwerkingservice.entreepgb.svb.nl
 www.entreepgb.svb.nl
 cmsintranet.svb.nl
-intranet.svb.nl
 downloaddomain.svb.nl
 outlook.svb.nl
 formulieren.svb.nl
 gemeenten.svb.nl
 internetdienstensiam.svb.nl
 leerplein.svb.nl
-leveranciersvdi.svb.nl
 live.svb.nl
 mft-acc.svb.nl
 mijnpgb-siam.svb.nl
@@ -35,13 +32,6 @@ onderzoek.svb.nl
 pages.svb.nl
 pers.svb.nl
 portal.entreepgb.svb.nl
-rdsapplications01.svb.nl
-rdsapplications02.svb.nl
-rdsapplications03.svb.nl
-rdsapplications04.svb.nl
-rdsapplications05.svb.nl
-rdsapplications06.svb.nl
-rdsapplications07.svb.nl
 remotedesktop.svb.nl
 secure5.svb.nl
 svb.nl
@@ -51,6 +41,7 @@ test-cmsintranet.svb.nl
 events.svb.nl
 mft-prd.svb.nl
 rdsapplications00.svb.nl
+canary-svb.svb.nl
 kennisbank.svb.nl
 enterpriseregistration.svb.nl
 enterpriseenrollment.svb.nl

@@ -12,3 +12,4 @@ info.gezondeschool.nl
 localhost.gezondeschool.nl
 msoid.gezondeschool.nl
 cms.gezondeschool.nl
+www.cms.gezondeschool.nl

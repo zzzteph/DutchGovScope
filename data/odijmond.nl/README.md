@@ -5,7 +5,7 @@
 
 
  - **SSL Grade**:
- - **HTTP Security Grade**:C
+ - **HTTP Security Grade**:B
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:7
 
 
@@ -33,8 +33,8 @@
 |[https://rdgw.odijmond.nl](https://rdgw.odijmond.nl)| | **A**||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |||
 |[https://vpn.odijmond.nl](https://vpn.odijmond.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS|403 Forbidden|
 |[http://localhost.odijmond.nl](http://localhost.odijmond.nl)| | **F**|nginx|:o: | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Laravel Nginx PHP|Weakpass|
-|[https://dusk-open-wave.odijmond.nl](https://dusk-open-wave.odijmond.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|403 Forbidden|
-|[https://dusk-acc-open-wave.odijmond.nl](https://dusk-acc-open-wave.odijmond.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|403 Forbidden|
-|[https://db.open-wave.odijmond.nl](https://db.open-wave.odijmond.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|403 Forbidden|
+|[https://dusk-open-wave.odijmond.nl](https://dusk-open-wave.odijmond.nl)| | **B**|Apache| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS|403 Forbidden|
+|[https://dusk-acc-open-wave.odijmond.nl](https://dusk-acc-open-wave.odijmond.nl)| | **B**|Apache| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS|403 Forbidden|
+|[https://db.open-wave.odijmond.nl](https://db.open-wave.odijmond.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|403 Forbidden|
 
 

@@ -1,3 +1,2 @@
-feeds.mccg.nl
 mccg.nl
 www.mccg.nl

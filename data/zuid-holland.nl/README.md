@@ -11,8 +11,8 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/zuid-holland.nl/subdomains.txt)|76|Alive subdomains|
-|[urls.txt](/data/zuid-holland.nl/urls.txt)|76|Urls|
+|[subdomains.txt](/data/zuid-holland.nl/subdomains.txt)|77|Alive subdomains|
+|[urls.txt](/data/zuid-holland.nl/urls.txt)|75|Urls|
 
 
 ## Statistics
@@ -94,7 +94,6 @@
 |[https://auth.openstad.zuid-holland.nl](https://auth.openstad.zuid-holland.nl)| | **A**||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Express HSTS Node.js||
 |[https://admin.openstad.zuid-holland.nl](https://admin.openstad.zuid-holland.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|403 Forbidden|
 |[https://www.openstad.zuid-holland.nl](https://www.openstad.zuid-holland.nl)| | **B**||:o: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | ||308 Permanent Re...|
-|[https://img.openstad.zuid-holland.nl](https://img.openstad.zuid-holland.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Express HSTS Node.js|Error|
 |[https://api.openstad.zuid-holland.nl](https://api.openstad.zuid-holland.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS||
 
 

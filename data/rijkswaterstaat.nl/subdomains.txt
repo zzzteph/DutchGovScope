@@ -46,7 +46,6 @@ geoservices.rijkswaterstaat.nl
 geoweb.rijkswaterstaat.nl
 iam.rijkswaterstaat.nl
 inloggen.rijkswaterstaat.nl
-innovatie-test.rijkswaterstaat.nl
 loket.acceptatie.rijkswaterstaat.nl
 loket.rijkswaterstaat.nl
 maps.rijkswaterstaat.nl
@@ -63,6 +62,7 @@ rhel8.wabinfo.rijkswaterstaat.nl
 spin.rijkswaterstaat.nl
 standaarden.rijkswaterstaat.nl
 stijlgids.rijkswaterstaat.nl
+techniekacademie.rijkswaterstaat.nl
 test.botova.rijkswaterstaat.nl
 test.esb.rijkswaterstaat.nl
 tmxweb.rijkswaterstaat.nl
@@ -77,9 +77,9 @@ waterwebservices.beta.rijkswaterstaat.nl
 webmail.rijkswaterstaat.nl
 zaaksysteem-acc.rijkswaterstaat.nl
 zaaksysteem.rijkswaterstaat.nl
+zwerfafval.rijkswaterstaat.nl
 acc-geo.rijkswaterstaat.nl
 static.ont.staging.werkenbij.rijkswaterstaat.nl
-hld.rijkswaterstaat.nl
 innovatieloket-tst.rijkswaterstaat.nl
 innovatieloket-acc.rijkswaterstaat.nl
 innovatieloket.rijkswaterstaat.nl

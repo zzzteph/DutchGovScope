@@ -11,8 +11,8 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/raadvanstate.nl/subdomains.txt)|30|Alive subdomains|
-|[urls.txt](/data/raadvanstate.nl/urls.txt)|29|Urls|
+|[subdomains.txt](/data/raadvanstate.nl/subdomains.txt)|28|Alive subdomains|
+|[urls.txt](/data/raadvanstate.nl/urls.txt)|27|Urls|
 
 
 ## Statistics
@@ -47,7 +47,5 @@
 |[http://kennisbank.raadvanstate.nl](http://kennisbank.raadvanstate.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Not Found|
 |[https://loket-preprod.raadvanstate.nl](https://loket-preprod.raadvanstate.nl)| | **A**|Microsoft-IIS/10.0|:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |IIS:10.0 Windows Server||
 |[https://test.raadvanstate.nl](https://test.raadvanstate.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:-|Home - Raad van...|
-|[https://enterpriseenrollment.raadvanstate.nl](https://enterpriseenrollment.raadvanstate.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||
-|[https://enterpriseregistration.raadvanstate.nl](https://enterpriseregistration.raadvanstate.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 
 

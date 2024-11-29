@@ -6,12 +6,12 @@
 
  - **SSL Grade**:
  - **HTTP Security Grade**:D
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:27
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:26
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/brabant.nl/subdomains.txt)|86|Alive subdomains|
+|[subdomains.txt](/data/brabant.nl/subdomains.txt)|85|Alive subdomains|
 |[urls.txt](/data/brabant.nl/urls.txt)|85|Urls|
 
 
@@ -91,7 +91,6 @@
 |[http://specials.brabant.nl](http://specials.brabant.nl)| | **C**|BigIP| |:white_check_mark: | | | | | | :white_check_mark: | |F5 BigIP||
 |[https://mik-acpt.brabant.nl](https://mik-acpt.brabant.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|Page Redirection|
 |[http://slechtvalk.brabant.nl](http://slechtvalk.brabant.nl)| | **F**|BigIP| | | | | | | | :white_check_mark: | |F5 BigIP||
-|[https://telewerk.brabant.nl](https://telewerk.brabant.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS||
 |[http://torenvalk.brabant.nl](http://torenvalk.brabant.nl)| | **F**|BigIP| | | | | | | | :white_check_mark: | |F5 BigIP||
 |[http://videoserver2.brabant.nl](http://videoserver2.brabant.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Index page|
 |[https://esb-a1.brabant.nl](https://esb-a1.brabant.nl)| | **F**|Microsoft-Azure-Application-Gateway/v2| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|502 Bad Gateway|
@@ -105,5 +104,6 @@
 |[https://signing.brabant.nl](https://signing.brabant.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS||
 |[https://webcast.brabant.nl](https://webcast.brabant.nl)| | **F**|AmazonS3| | | | | | | | :white_check_mark: | |Amazon CloudFront Amazon S3 Amazon Web Services HTTP/3 Material Design Lite|Loading ...|
 |[https://enterpriseenrollment.brabant.nl](https://enterpriseenrollment.brabant.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||
+|[https://acs.brabant.nl](https://acs.brabant.nl)| | **F**|Microsoft-Azure-Application-Gateway/v2| | | | | | | | :white_check_mark: | ||404 Not Found|
 
 

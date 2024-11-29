@@ -56,7 +56,6 @@ https://flevoland.databank.nl
 https://mre.databank.nl
 https://rabobank.databank.nl
 https://inspectie-oe.databank.nl
-https://www.nederlandschoon.databank.nl
 https://stap.databank.nl
 https://www.gip.databank.nl
 https://www.ivm11.databank.nl
@@ -70,3 +69,4 @@ https://www.senternovum.databank.nl
 https://www.openbaar.waves.databank.nl
 https://www.overijssel.databank.nl
 https://berst.databank.nl
+https://ciz.databank.nl

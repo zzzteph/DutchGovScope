@@ -11,8 +11,8 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/bronhouderportaal-bro.nl/subdomains.txt)|13|Alive subdomains|
-|[urls.txt](/data/bronhouderportaal-bro.nl/urls.txt)|13|Urls|
+|[subdomains.txt](/data/bronhouderportaal-bro.nl/subdomains.txt)|14|Alive subdomains|
+|[urls.txt](/data/bronhouderportaal-bro.nl/urls.txt)|14|Urls|
 
 
 ## Statistics
@@ -31,6 +31,7 @@
 |[https://www.bronhouderportaal-bro.nl](https://www.bronhouderportaal-bro.nl)| | **B**|nginx/1.25.5|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx:1.25.5|Home | Bronhoude...|
 |[https://demo.bronhouderportaal-bro.nl](https://demo.bronhouderportaal-bro.nl)| | **B**|nginx/1.25.5|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx:1.25.5|Home | Bronhoude...|
 |[https://acc2.bronhouderportaal-bro.nl](https://acc2.bronhouderportaal-bro.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|403 Forbidden|
+|[https://demo2.bronhouderportaal-bro.nl](https://demo2.bronhouderportaal-bro.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|403 Forbidden|
 |[http://localhost.bronhouderportaal-bro.nl](http://localhost.bronhouderportaal-bro.nl)| | **F**|nginx|:o: | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Laravel Nginx PHP|Weakpass|
 |[https://sso-demo2.bronhouderportaal-bro.nl](https://sso-demo2.bronhouderportaal-bro.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|403 Forbidden|
 

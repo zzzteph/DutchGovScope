@@ -11,8 +11,8 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/waterschaplimburg.nl/subdomains.txt)|30|Alive subdomains|
-|[urls.txt](/data/waterschaplimburg.nl/urls.txt)|29|Urls|
+|[subdomains.txt](/data/waterschaplimburg.nl/subdomains.txt)|31|Alive subdomains|
+|[urls.txt](/data/waterschaplimburg.nl/urls.txt)|30|Urls|
 
 
 ## Statistics
@@ -42,6 +42,7 @@
 |[https://inloggen.waterschaplimburg.nl](https://inloggen.waterschaplimburg.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
 |[https://mail.waterschaplimburg.nl](https://mail.waterschaplimburg.nl)| | **E**|Microsoft-IIS/10.0| | | | | | :white_check_mark: | | :white_check_mark: | |IIS:10.0 Windows Server||
 |[https://maps.waterschaplimburg.nl](https://maps.waterschaplimburg.nl)| | **F**|Microsoft-IIS/10.0| | | | | | | | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server|403 - Forbidden:...|
+|[http://winssen.waterschaplimburg.nl](http://winssen.waterschaplimburg.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
 |[https://autodiscover.waterschaplimburg.nl](https://autodiscover.waterschaplimburg.nl)| | **E**|Microsoft-IIS/10.0| | | | | | :white_check_mark: | | :white_check_mark: | |IIS:10.0 Windows Server||
 |[https://kennisbank.waterschaplimburg.nl](https://kennisbank.waterschaplimburg.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |||
 |[https://wikixl-saml.waterschaplimburg.nl](https://wikixl-saml.waterschaplimburg.nl)| | **B**|Apache| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS Varnish|Redirect|

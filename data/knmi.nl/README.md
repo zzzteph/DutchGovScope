@@ -11,8 +11,8 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/knmi.nl/subdomains.txt)|63|Alive subdomains|
-|[urls.txt](/data/knmi.nl/urls.txt)|63|Urls|
+|[subdomains.txt](/data/knmi.nl/subdomains.txt)|61|Alive subdomains|
+|[urls.txt](/data/knmi.nl/urls.txt)|61|Urls|
 
 
 ## Statistics
@@ -77,11 +77,9 @@
 |[https://wms-viewer.dataplatform.knmi.nl](https://wms-viewer.dataplatform.knmi.nl)| | **C**|AmazonS3| |:white_check_mark: | | | | | | :white_check_mark: | |Amazon CloudFront Amazon S3 Amazon Web Services HSTS|KNMI - Data Plat...|
 |[https://wow.knmi.nl](https://wow.knmi.nl)| | **B**|nginx| |:white_check_mark: | | |:warning: | | | :white_check_mark: | |Bootstrap HSTS Nginx|WOW-NL: Jouw wee...|
 |[https://cms-origin.klimaatscenarios-data.knmi.nl](https://cms-origin.klimaatscenarios-data.knmi.nl)| | **F**|awselb/2.0| | | | | | | | :white_check_mark: | |Amazon ELB Amazon Web Services||
-|[https://eelcodoornbos-master-patch-38139.data.dev.spaceweather.knmi.nl](https://eelcodoornbos-master-patch-38139.data.dev.spaceweather.knmi.nl)| | **F**|Apache/2.4.58 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.58 Ubuntu|Apache2 Ubuntu D...|
 |[https://testgeoservices.knmi.nl](https://testgeoservices.knmi.nl)| | **F**|uvicorn| | | | | | | | :white_check_mark: | |HSTS Python Uvicorn||
 |[https://hapi.acc.spaceweather.knmi.nl](https://hapi.acc.spaceweather.knmi.nl)| | **F**|Apache/2.4.58 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.58 Ubuntu|Apache2 Ubuntu D...|
 |[https://hapi.spaceweather.knmi.nl](https://hapi.spaceweather.knmi.nl)| | **F**|Apache/2.4.58 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.58 Ubuntu|Apache2 Ubuntu D...|
-|[https://notifications.dev.spaceweather.knmi.nl](https://notifications.dev.spaceweather.knmi.nl)| | **F**|AmazonS3| | | | | | | | :white_check_mark: | |Amazon CloudFront Amazon S3 Amazon Web Services|Space Weather at...|
 |[https://cabauw.knmi.nl](https://cabauw.knmi.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|Redirecting to h...|
 
 

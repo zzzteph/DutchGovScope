@@ -433,9 +433,12 @@ https://pureacc.knaw.nl
 https://web.knaw.nl
 https://www.herseninstituut.knaw.nl
 https://maritimecareers.huygens.knaw.nl
+https://sd-yugoslavia.dev.huc.knaw.nl
 http://occassio.dev.huc.knaw.nl
 https://workforce.nioo.knaw.nl
+https://ecartico.dev.huc.knaw.nl
 https://service-index.labs.dans.knaw.nl
+https://oat.acc.huc.knaw.nl
 http://kaartenbank.meertens.knaw.nl
 http://monitoring.huc.knaw.nl
 https://dummy-signposting.labs.dans.knaw.nl
@@ -469,6 +472,7 @@ https://phpmyadmin.wordpress.dans.knaw.nl
 https://gharvester31.dans.knaw.nl
 https://hi2.huygens.knaw.nl
 https://hi8.huygens.knaw.nl
+https://vangogh-tiles.dev.huc.knaw.nl
 https://ivanticsa01.knaw.nl
 http://tmfiles.knaw.nl
 https://sweb11.dans.knaw.nl
@@ -478,7 +482,6 @@ https://emailsanitizer.labs.dans.knaw.nl
 https://fairaware-api.labs.dans.knaw.nl
 https://galaxy.bioinf.nioo.knaw.nl
 https://metadata-enhancer.labs.dans.knaw.nl
-https://subsite.nioo-acc.knaw.nl
 https://flippinglakes.nioo.knaw.nl
 https://www.nioo.knaw.nl
 https://minioapi2.labs.dans.knaw.nl
@@ -487,6 +490,7 @@ http://vova.meertens.knaw.nl
 https://facades-formats.labs.dans.knaw.nl
 https://license.labs.dans.knaw.nl
 https://chat.bioinf.nioo.knaw.nl
+https://vangogh-api.dev.huc.knaw.nl
 https://fairevaapi.labs.dans.knaw.nl
 https://genomes.bioinf.nioo.knaw.nl
 https://repository-assistant.labs.dans.knaw.nl
@@ -523,6 +527,9 @@ https://tus.labs.dans.knaw.nl
 https://version-tracker.labs.dans.knaw.nl
 https://pts31.dans.knaw.nl
 https://va31.dans.knaw.nl
+https://gl-skosmos.dev.huc.knaw.nl
+https://teamcity.dev.huc.knaw.nl
+https://yasgui.dev.huc.knaw.nl
 http://uptime.huc.knaw.nl
 https://zalen.huc.knaw.nl
 https://goudeneeuwblog.huygens.knaw.nl
@@ -531,3 +538,4 @@ https://dataverse-date-updater.labs.dans.knaw.nl
 https://back2roots.nioo.knaw.nl
 https://promise.nioo.knaw.nl
 https://intranet.nioo.knaw.nl
+https://www.climatepursuit.nioo.knaw.nl

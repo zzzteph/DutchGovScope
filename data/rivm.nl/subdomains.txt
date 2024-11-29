@@ -182,9 +182,6 @@ nevo-online.rivm.nl
 nevo.rivm.nl
 nieuwsbrief.rivm.nl
 nivelform.rivm.nl
-nsl-monitoring.rivm.nl
-samenmeten.rivm.nl
-sensors.rivm.nl
 omgevingsveiligheid.rivm.nl
 ont-bestellingen.rivm.nl
 ontw.api-samenmeten.rivm.nl

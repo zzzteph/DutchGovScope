@@ -59,7 +59,6 @@ autodiscover.mett.nl
 demo2.mett.nl
 dev.mett.nl
 ftp.mett.nl
-tom.mett.nl
 robert.mett.nl
 htx.mett.nl
 performance.mett.nl
@@ -78,18 +77,6 @@ wijkenwebsite.mett.nl
 office.mett.nl
 nzo.mett.nl
 schoorlseduinen.mett.nl
-klimaatkrachtiggo.mett.nl
-sittardgeleen.mett.nl
-nationaalwaterstofprogramma.mett.nl
-voorneputten.mett.nl
-nimeto.mett.nl
-participatieuithoorn.mett.nl
-energiekmaasgouw.mett.nl
-circularfestivals.mett.nl
-rps.mett.nl
-resmiddenholland.mett.nl
-stadswerk.mett.nl
-markermeerijmeer.mett.nl
 doemeedordrecht.mett.nl
 ijsselwerken.mett.nl
 cjgrijswijk.mett.nl
@@ -141,6 +128,7 @@ testmij.mett.nl
 nkoo.mett.nl
 leernetwerk.mett.nl
 logincookie.mett.nl
+timpaan.mett.nl
 regionale-energiestrategie.mett.nl
 winnovatietestserver.mett.nl
 binnl.mett.nl
@@ -168,7 +156,8 @@ demoparticipatie.mett.nl
 joske.mett.nl
 fagoed.mett.nl
 test-login.mett.nl
-krinkelsinbeheerenonderhoud.mett.nl
 samen14.mett.nl
 demointranet.mett.nl
 erfgoedalliantie.mett.nl
+udi.mett.nl
+anna.mett.nl

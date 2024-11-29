@@ -14,7 +14,6 @@ acpt.zwemwater.nl
 ftp.zwemwater.nl
 localhost.zwemwater.nl
 webmail.zwemwater.nl
-inspiregeo.zwemwater.nl
 zwemlocatieswww.zwemwater.nl
 9986734www.zwemwater.nl
 register.zwemwater.nl
@@ -36,3 +35,5 @@ hoeveel-vliegbewegingen-zijn-er-van-en-naar-nederland-www.zwemwater.nl
 opwww.zwemwater.nl
 ogcgeo.zwemwater.nl
 index.aspxwww.zwemwater.nl
+sumava.zwemwater.nl
+stickers.zwemwater.nl

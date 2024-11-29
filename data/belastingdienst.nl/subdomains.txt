@@ -34,6 +34,7 @@ fibe1.belastingdienst.nl
 fibi1.belastingdienst.nl
 fibz1.belastingdienst.nl
 filetransfer.belastingdienst.nl
+filetransfer.ont.belastingdienst.nl
 fmis.acc.belastingdienst.nl
 fmis.belastingdienst.nl
 fsvportaal.belastingdienst.nl

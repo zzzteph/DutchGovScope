@@ -1,3 +1,2 @@
-https://feeds.mccg.nl
 https://mccg.nl
 https://www.mccg.nl

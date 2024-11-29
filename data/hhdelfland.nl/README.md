@@ -11,8 +11,8 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/hhdelfland.nl/subdomains.txt)|32|Alive subdomains|
-|[urls.txt](/data/hhdelfland.nl/urls.txt)|32|Urls|
+|[subdomains.txt](/data/hhdelfland.nl/subdomains.txt)|33|Alive subdomains|
+|[urls.txt](/data/hhdelfland.nl/urls.txt)|33|Urls|
 
 
 ## Statistics
@@ -20,6 +20,7 @@
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
+|[http://autodiscover.hhdelfland.nl](http://autodiscover.hhdelfland.nl)| | **C**|Microsoft-IIS/10.0| |:white_check_mark: | | | | | | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server||
 |[https://beeldbank.hhdelfland.nl](https://beeldbank.hhdelfland.nl)| | **B**||:warning: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:4.0.30319|Home | Beeldbank...|
 |[https://beeldbank-bo.hhdelfland.nl](https://beeldbank-bo.hhdelfland.nl)| | **B**|Picture Pack|:warning: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:4.0.30319|Picture Pack|
 |[https://burgerloket.hhdelfland.nl](https://burgerloket.hhdelfland.nl)| | **A**|Apache| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server|301 Moved Perman...|

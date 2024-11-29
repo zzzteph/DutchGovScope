@@ -11,8 +11,8 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/zwemwater.nl/subdomains.txt)|38|Alive subdomains|
-|[urls.txt](/data/zwemwater.nl/urls.txt)|20|Urls|
+|[subdomains.txt](/data/zwemwater.nl/subdomains.txt)|39|Alive subdomains|
+|[urls.txt](/data/zwemwater.nl/urls.txt)|19|Urls|
 
 
 ## Statistics
@@ -36,7 +36,6 @@
 |[https://ftp.zwemwater.nl](https://ftp.zwemwater.nl)| | **B**|Apache| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
 |[http://localhost.zwemwater.nl](http://localhost.zwemwater.nl)| | **F**|nginx|:o: | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Laravel Nginx PHP|Weakpass|
 |[https://webmail.zwemwater.nl](https://webmail.zwemwater.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx Plesk|Aralto ICT|
-|[https://inspiregeo.zwemwater.nl](https://inspiregeo.zwemwater.nl)| | **B**|Apache| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS||
 |[https://zwemlocatieswww.zwemwater.nl](https://zwemlocatieswww.zwemwater.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
 |[https://9986734www.zwemwater.nl](https://9986734www.zwemwater.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
 |[https://register.zwemwater.nl](https://register.zwemwater.nl)| | **B**|Apache|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|

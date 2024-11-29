@@ -2,11 +2,11 @@
 layout: default
 title: "sitearchief.nl"
 permalink: "/dutchgov/sitearchief.nl.html"
-subdomains_count: 123
-urls_count: 88
+subdomains_count: 122
+urls_count: 87
 ssl_rank: 
 http_rank: A
-security_txt: 57
+security_txt: 56
 url_link: /data/sitearchief.nl/urls.txt
 subdomains_link: /data/sitearchief.nl/subdomains.txt
 categories: dutchgov
@@ -20,13 +20,13 @@ tags: dutchgov
 
  - **SSL Grade**:
  - **HTTP Security Grade**:A
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:57
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:56
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/sitearchief.nl/subdomains.txt)|123|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/sitearchief.nl/urls.txt)|88|Urls|
+|[subdomains.txt](/DutchGovScope/data/sitearchief.nl/subdomains.txt)|122|Alive subdomains|
+|[urls.txt](/DutchGovScope/data/sitearchief.nl/urls.txt)|87|Urls|
 
 
 ## Statistics
@@ -108,7 +108,6 @@ tags: dutchgov
 |[https://tweedekamer.sitearchief.nl](https://tweedekamer.sitearchief.nl)| | **A**|nginx|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx|Sitearchief - Tw...|
 |[https://cjib.sitearchief.nl](https://cjib.sitearchief.nl)| | **A**|nginx|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx|Sitearchief - CJ...|
 |[https://douane.sitearchief.nl](https://douane.sitearchief.nl)| | **A**|nginx|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx|Sitearchief - Do...|
-|[https://cak.sitearchief.nl](https://cak.sitearchief.nl)| | **A**|nginx|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx|Sitearchief - CA...|
 |[https://ciz.sitearchief.nl](https://ciz.sitearchief.nl)| | **A**|nginx|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx|Sitearchief - CI...|
 |[https://svb.sitearchief.nl](https://svb.sitearchief.nl)| | **A**|nginx|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx|Sitearchief - SV...|
 |[https://cbr.sitearchief.nl](https://cbr.sitearchief.nl)| | **A**|nginx|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx|Sitearchief - CB...|

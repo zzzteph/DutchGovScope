@@ -109,7 +109,6 @@ https://edicrop.rvo.nl
 https://gdi-b.rvo.nl
 https://ih-static.rvo.nl
 https://kostenkentallen.rvo.nl
-https://ojb.rvo.nl
 https://rhel-p-mijn.rvo.nl
 http://rhel-np-mijn.rvo.nl
 https://sandbox.rvo.nl
@@ -119,3 +118,7 @@ https://edu-iam.mijnoctrooi.mypage.rvo.nl
 https://edu.mijnoctrooi.mypage.rvo.nl
 https://english-acc.rvo.nl
 https://sandbox-cms.rvo.nl
+https://www.economicdiplomacy.rvo.nl
+https://www.kennisdelen.rvo.nl
+https://www.offshorewind.rvo.nl
+https://www.sharingknowledge.rvo.nl

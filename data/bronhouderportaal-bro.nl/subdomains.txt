@@ -9,5 +9,6 @@ doc.bronhouderportaal-bro.nl
 www.bronhouderportaal-bro.nl
 demo.bronhouderportaal-bro.nl
 acc2.bronhouderportaal-bro.nl
+demo2.bronhouderportaal-bro.nl
 localhost.bronhouderportaal-bro.nl
 sso-demo2.bronhouderportaal-bro.nl

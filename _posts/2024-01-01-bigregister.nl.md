@@ -2,11 +2,11 @@
 layout: default
 title: "bigregister.nl"
 permalink: "/dutchgov/bigregister.nl.html"
-subdomains_count: 17
-urls_count: 17
+subdomains_count: 16
+urls_count: 16
 ssl_rank: 
 http_rank: A
-security_txt: 16
+security_txt: 15
 url_link: /data/bigregister.nl/urls.txt
 subdomains_link: /data/bigregister.nl/subdomains.txt
 categories: dutchgov
@@ -20,13 +20,13 @@ tags: dutchgov
 
  - **SSL Grade**:
  - **HTTP Security Grade**:A
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:16
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:15
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/bigregister.nl/subdomains.txt)|17|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/bigregister.nl/urls.txt)|17|Urls|
+|[subdomains.txt](/DutchGovScope/data/bigregister.nl/subdomains.txt)|16|Alive subdomains|
+|[urls.txt](/DutchGovScope/data/bigregister.nl/urls.txt)|16|Urls|
 
 
 ## Statistics
@@ -49,7 +49,6 @@ tags: dutchgov
 |[https://mijn.bigregister.nl](https://mijn.bigregister.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://tea.bigregister.nl](https://tea.bigregister.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://zoeken.bigregister.nl](https://zoeken.bigregister.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Zorgverlener opz...|
-|[https://acceptatie.behandel.bigregister.nl](https://acceptatie.behandel.bigregister.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://behandel.bigregister.nl](https://behandel.bigregister.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 
 

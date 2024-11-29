@@ -6,13 +6,13 @@
 
  - **SSL Grade**:
  - **HTTP Security Grade**:A
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:21
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:20
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/nza.nl/subdomains.txt)|37|Alive subdomains|
-|[urls.txt](/data/nza.nl/urls.txt)|37|Urls|
+|[subdomains.txt](/data/nza.nl/subdomains.txt)|36|Alive subdomains|
+|[urls.txt](/data/nza.nl/urls.txt)|36|Urls|
 
 
 ## Statistics
@@ -40,7 +40,6 @@
 |[http://crm.nza.nl](http://crm.nza.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|301 Moved Perman...|
 |[https://hybrid.nza.nl](https://hybrid.nza.nl)| | **A**|Apache| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS|403 hybrid443 no...|
 |[https://rpx.nza.nl](https://rpx.nza.nl)| | **A**|Apache| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS|404 Not Found|
-|[https://dkdlmodel.nza.nl](https://dkdlmodel.nza.nl)| | **A**|nginx| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|Draagkracht Draa...|
 |[https://leren.nza.nl](https://leren.nza.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|NZA_MSZ_v5_aange...|
 |[https://www.nza.nl](https://www.nza.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Wij werken aan g...|
 |[https://feeds.nza.nl](https://feeds.nza.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||

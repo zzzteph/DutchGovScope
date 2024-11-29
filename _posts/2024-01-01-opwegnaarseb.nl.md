@@ -2,7 +2,7 @@
 layout: default
 title: "opwegnaarseb.nl"
 permalink: "/dutchgov/opwegnaarseb.nl.html"
-subdomains_count: 7
+subdomains_count: 9
 urls_count: 7
 ssl_rank: 
 http_rank: E
@@ -25,7 +25,7 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/opwegnaarseb.nl/subdomains.txt)|7|Alive subdomains|
+|[subdomains.txt](/DutchGovScope/data/opwegnaarseb.nl/subdomains.txt)|9|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/opwegnaarseb.nl/urls.txt)|7|Urls|
 
 

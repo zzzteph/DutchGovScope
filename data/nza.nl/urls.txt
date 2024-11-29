@@ -18,7 +18,6 @@ http://autodiscover.nza.nl
 http://crm.nza.nl
 https://hybrid.nza.nl
 https://rpx.nza.nl
-https://dkdlmodel.nza.nl
 https://leren.nza.nl
 https://www.nza.nl
 https://feeds.nza.nl

@@ -5,14 +5,14 @@
 
 
  - **SSL Grade**:
- - **HTTP Security Grade**:A
+ - **HTTP Security Grade**:B
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:4
 
 
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/biedboek.nl/subdomains.txt)|12|Alive subdomains|
-|[urls.txt](/data/biedboek.nl/urls.txt)|5|Urls|
+|[urls.txt](/data/biedboek.nl/urls.txt)|6|Urls|
 
 
 ## Statistics
@@ -25,5 +25,6 @@
 |[https://acceptatie-nieuw.biedboek.nl](https://acceptatie-nieuw.biedboek.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Azure HSTS React|Vastgoed en zake...|
 |[https://test-nieuw.biedboek.nl](https://test-nieuw.biedboek.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS React|Vastgoed en zake...|
 |[https://enterpriseenrollment.biedboek.nl](https://enterpriseenrollment.biedboek.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||
+|[https://te-koop-vuurtoren-vraagprijs-18000-euro-12635546-a162058www.biedboek.nl](https://te-koop-vuurtoren-vraagprijs-18000-euro-12635546-a162058www.biedboek.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Microsoft Azure...|
 
 

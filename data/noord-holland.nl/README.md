@@ -11,8 +11,8 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/noord-holland.nl/subdomains.txt)|65|Alive subdomains|
-|[urls.txt](/data/noord-holland.nl/urls.txt)|64|Urls|
+|[subdomains.txt](/data/noord-holland.nl/subdomains.txt)|64|Alive subdomains|
+|[urls.txt](/data/noord-holland.nl/urls.txt)|63|Urls|
 
 
 ## Statistics
@@ -61,7 +61,6 @@
 |[https://plein.noord-holland.nl](https://plein.noord-holland.nl)| | **B**|Microsoft-IIS/10.0|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Azure HSTS IIS:10.0 Microsoft ASP.NET Windows Server||
 |[https://pleinoud.noord-holland.nl](https://pleinoud.noord-holland.nl)| | **F**|Green Valley| | | | | | | | :white_check_mark: | |||
 |[https://portal-b.noord-holland.nl](https://portal-b.noord-holland.nl)| | **C**|Microsoft-IIS/10.0|:white_check_mark: |:white_check_mark: | | |:warning: | | | :white_check_mark: | |HSTS IIS:10.0 Microsoft ASP.NET:4.0.30319 Windows Server||
-|[https://rdgw.noord-holland.nl](https://rdgw.noord-holland.nl)| | **F**|Microsoft-IIS/10.0|:o: | | | | | | | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server|Document Moved|
 |[https://sva-a8a9.noord-holland.nl](https://sva-a8a9.noord-holland.nl)| | **F**|Apache/2| | | | | | | | :white_check_mark: | |Apache HTTP Server:2 HSTS Typekit|SEP A8-A9|
 |[https://vacatures.noord-holland.nl](https://vacatures.noord-holland.nl)| | **A**||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET|Werken voor Noor...|
 |[https://acc-pvkontakt.noord-holland.nl](https://acc-pvkontakt.noord-holland.nl)| | **B**|Microsoft-IIS/10.0|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server|Object moved|

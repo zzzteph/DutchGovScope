@@ -2,11 +2,11 @@
 layout: default
 title: "donorregister.nl"
 permalink: "/dutchgov/donorregister.nl.html"
-subdomains_count: 14
-urls_count: 14
+subdomains_count: 13
+urls_count: 13
 ssl_rank: 
 http_rank: A
-security_txt: 13
+security_txt: 12
 url_link: /data/donorregister.nl/urls.txt
 subdomains_link: /data/donorregister.nl/subdomains.txt
 categories: dutchgov
@@ -20,13 +20,13 @@ tags: dutchgov
 
  - **SSL Grade**:
  - **HTTP Security Grade**:A
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:13
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:12
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/donorregister.nl/subdomains.txt)|14|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/donorregister.nl/urls.txt)|14|Urls|
+|[subdomains.txt](/DutchGovScope/data/donorregister.nl/subdomains.txt)|13|Alive subdomains|
+|[urls.txt](/DutchGovScope/data/donorregister.nl/urls.txt)|13|Urls|
 
 
 ## Statistics
@@ -34,7 +34,6 @@ tags: dutchgov
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://acceptatie.beheer.donorregister.nl](https://acceptatie.beheer.donorregister.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://acceptatie.mijn.donorregister.nl](https://acceptatie.mijn.donorregister.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://acceptatie.raadplegen.donorregister.nl](https://acceptatie.raadplegen.donorregister.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[http://acceptatie.webservices.donorregister.nl](http://acceptatie.webservices.donorregister.nl)| | **F**|BigIP| | | | | | | | :white_check_mark: | |F5 BigIP||

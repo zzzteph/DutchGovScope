@@ -12,7 +12,7 @@
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/meldknop.nl/subdomains.txt)|4|Alive subdomains|
-|[urls.txt](/data/meldknop.nl/urls.txt)|3|Urls|
+|[urls.txt](/data/meldknop.nl/urls.txt)|4|Urls|
 
 
 ## Statistics
@@ -23,5 +23,6 @@
 |[https://meldknop.nl](https://meldknop.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://www.meldknop.nl](https://www.meldknop.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Elementor:3.25.6 HSTS MySQL Nginx PHP WordPress Yoast SEO:23.9|Meldknop.nl - Ie...|
 |[https://staging.meldknop.nl](https://staging.meldknop.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|TransIP - Reserv...|
+|[https://autodiscover.meldknop.nl](https://autodiscover.meldknop.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 
 

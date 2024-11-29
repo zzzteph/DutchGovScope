@@ -19,4 +19,3 @@ https://docs.aerius.nl
 https://docs-dev.aerius.nl
 http://docs-staging.aerius.nl
 https://grafana-dev.aerius.nl
-https://www-staging.aerius.nl

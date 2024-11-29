@@ -182,9 +182,6 @@ https://nevo-online.rivm.nl
 https://nevo.rivm.nl
 https://nieuwsbrief.rivm.nl
 http://nivelform.rivm.nl
-https://nsl-monitoring.rivm.nl
-https://samenmeten.rivm.nl
-https://sensors.rivm.nl
 https://omgevingsveiligheid.rivm.nl
 http://ont-bestellingen.rivm.nl
 http://ontw.api-samenmeten.rivm.nl

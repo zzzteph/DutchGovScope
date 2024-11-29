@@ -59,7 +59,6 @@ http://autodiscover.mett.nl
 https://demo2.mett.nl
 https://dev.mett.nl
 https://ftp.mett.nl
-https://tom.mett.nl
 https://robert.mett.nl
 https://htx.mett.nl
 https://performance.mett.nl
@@ -78,18 +77,6 @@ https://wijkenwebsite.mett.nl
 https://office.mett.nl
 https://nzo.mett.nl
 https://schoorlseduinen.mett.nl
-https://klimaatkrachtiggo.mett.nl
-https://sittardgeleen.mett.nl
-https://nationaalwaterstofprogramma.mett.nl
-https://voorneputten.mett.nl
-https://nimeto.mett.nl
-https://participatieuithoorn.mett.nl
-https://energiekmaasgouw.mett.nl
-https://circularfestivals.mett.nl
-https://rps.mett.nl
-https://resmiddenholland.mett.nl
-https://stadswerk.mett.nl
-https://markermeerijmeer.mett.nl
 https://doemeedordrecht.mett.nl
 https://ijsselwerken.mett.nl
 https://cjgrijswijk.mett.nl
@@ -162,3 +149,4 @@ https://coordinatiegelderland.mett.nl
 https://cookiebeleid.mett.nl
 https://demoparticipatie.mett.nl
 https://joske.mett.nl
+https://fagoed.mett.nl

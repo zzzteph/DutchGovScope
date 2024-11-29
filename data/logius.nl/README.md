@@ -11,8 +11,8 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/logius.nl/subdomains.txt)|60|Alive subdomains|
-|[urls.txt](/data/logius.nl/urls.txt)|60|Urls|
+|[subdomains.txt](/data/logius.nl/subdomains.txt)|55|Alive subdomains|
+|[urls.txt](/data/logius.nl/urls.txt)|51|Urls|
 
 
 ## Statistics
@@ -39,7 +39,6 @@
 |[https://bvd.mev.logius.nl](https://bvd.mev.logius.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||
 |[http://iam-containerplatform-az1.lpc.logius.nl](http://iam-containerplatform-az1.lpc.logius.nl)| | **F**|BigIP| | | | | | | | :white_check_mark: | |F5 BigIP||
 |[https://iam-containerplatform.lpc.logius.nl](https://iam-containerplatform.lpc.logius.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|404 Not Found|
-|[http://www.lpc.logius.nl](http://www.lpc.logius.nl)| | **F**|BigIP| | | | | | | | :white_check_mark: | |F5 BigIP||
 |[http://channels-az1.lpc.logius.nl](http://channels-az1.lpc.logius.nl)| | **F**|BigIP| | | | | | | | :white_check_mark: | |F5 BigIP||
 |[https://channels.lpc.logius.nl](https://channels.lpc.logius.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS|Logius Private C...|
 |[http://docs.lpc.logius.nl](http://docs.lpc.logius.nl)| | **F**|BigIP| | | | | | | | :white_check_mark: | |F5 BigIP||
@@ -72,13 +71,5 @@
 |[http://amp-pre.logius.nl](http://amp-pre.logius.nl)| | **F**|BigIP| | | | | | | | :white_check_mark: | |F5 BigIP||
 |[https://gm.mev.logius.nl](https://gm.mev.logius.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS|403 Forbidden|
 |[https://logius.nl](https://logius.nl)| | **A**|nginx| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
-|[https://gebruikersportaal.preproductie.digipoort.logius.nl](https://gebruikersportaal.preproductie.digipoort.logius.nl)| | **C**||:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|503 Service Temp...|
-|[http://lca.logius.nl](http://lca.logius.nl)| | **F**|BigIP| | | | | | | | :white_check_mark: | |F5 BigIP||
-|[https://intrekkingsportaal.digipoort.logius.nl](https://intrekkingsportaal.digipoort.logius.nl)| | **C**||:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|503 Service Temp...|
-|[https://aansluitsuite.digipoort.logius.nl](https://aansluitsuite.digipoort.logius.nl)| | **C**||:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|503 Service Temp...|
-|[https://beheerportaal.digipoort.logius.nl](https://beheerportaal.digipoort.logius.nl)| | **C**||:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|503 Service Temp...|
-|[https://gebruikersportaal-duo.digipoort.logius.nl](https://gebruikersportaal-duo.digipoort.logius.nl)| | **C**||:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|503 Service Temp...|
-|[https://gebruikersportaal.digipoort.logius.nl](https://gebruikersportaal.digipoort.logius.nl)| | **C**||:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|503 Service Temp...|
-|[https://gebruikersportaal-sbr.digipoort.logius.nl](https://gebruikersportaal-sbr.digipoort.logius.nl)| | **C**||:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|503 Service Temp...|
 
 

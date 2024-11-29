@@ -75,3 +75,4 @@ https://stats.test.zm.irealisatie.nl
 http://acc.irealisatie.nl
 http://gitea.irealisatie.nl
 http://taiga.irealisatie.nl
+http://kat.irealisatie.nl
