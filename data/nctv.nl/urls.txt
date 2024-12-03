@@ -21,3 +21,4 @@ https://opendata.nctv.nl
 https://nac.nctv.nl
 https://symbolenbank.nctv.nl
 https://elearning-lcp-egt.nctv.nl
+https://elearning-zvjz-medewerkers.nctv.nl

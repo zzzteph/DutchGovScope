@@ -54,7 +54,7 @@
 |[https://gladheid.knmi.nl](https://gladheid.knmi.nl)| | **F**|Apache|:o: | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Amazon ALB Amazon Web Services Apache HTTP Server Basic|401 Unauthorized|
 |[https://iris.knmi.nl](https://iris.knmi.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Amazon CloudFront Amazon Web Services|Login|
 |[https://www.knmi.nl](https://www.knmi.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Amazon CloudFront Amazon Web Services HSTS||
-|[https://jira.knmi.nl](https://jira.knmi.nl)| | **A**|BigIP|:warning: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |F5 BigIP||
+|[https://jira.knmi.nl](https://jira.knmi.nl)| | **A**|BigIP| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |F5 BigIP||
 |[https://klimaatscenarios-data.knmi.nl](https://klimaatscenarios-data.knmi.nl)| | **B**||:warning: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Amazon CloudFront Amazon Web Services HSTS Ruby Ruby on Rails|KNMI Klimaatscen...|
 |[https://www.klimaatscenarios-data.knmi.nl](https://www.klimaatscenarios-data.knmi.nl)| | **B**||:warning: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Amazon CloudFront Amazon Web Services HSTS Ruby Ruby on Rails|KNMI Klimaatscen...|
 |[https://msgcpp.knmi.nl](https://msgcpp.knmi.nl)| | **F**|AmazonS3| | | | | | | | :white_check_mark: | |Amazon CloudFront Amazon S3 Amazon Web Services Jekyll:4.1.0 Ruby|MSG Cloud Physic...|

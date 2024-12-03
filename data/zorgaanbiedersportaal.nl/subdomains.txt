@@ -2,7 +2,6 @@ acceptatie.beheer.locatieregister.zorgaanbiedersportaal.nl
 acceptatie.beheer.zorgaanbiedersportaal.nl
 acceptatie.mijn.melding.zorgaanbiedersportaal.nl
 beheer.locatieregister.zorgaanbiedersportaal.nl
-mijn.geschilleninstantie.zorgaanbiedersportaal.nl
 mijn.locatieregister.zorgaanbiedersportaal.nl
 mijn.melding.zorgaanbiedersportaal.nl
 mijn.zorgaanbiedersportaal.nl

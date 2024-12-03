@@ -3,7 +3,7 @@ layout: default
 title: "keringhuis.nl"
 permalink: "/dutchgov/keringhuis.nl.html"
 subdomains_count: 10
-urls_count: 9
+urls_count: 10
 ssl_rank: 
 http_rank: E
 security_txt: 0
@@ -26,7 +26,7 @@ tags: dutchgov
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/DutchGovScope/data/keringhuis.nl/subdomains.txt)|10|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/keringhuis.nl/urls.txt)|9|Urls|
+|[urls.txt](/DutchGovScope/data/keringhuis.nl/urls.txt)|10|Urls|
 
 
 ## Statistics
@@ -43,5 +43,6 @@ tags: dutchgov
 |[http://autodiscover.keringhuis.nl](http://autodiscover.keringhuis.nl)| | **C**|Microsoft-IIS/10.0| |:white_check_mark: | | | | | | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server||
 |[http://localhost.keringhuis.nl](http://localhost.keringhuis.nl)| | **F**|nginx|:o: | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Laravel Nginx PHP|Weakpass|
 |[https://pop.keringhuis.nl](https://pop.keringhuis.nl)| | **F**|IceWarp/14.1.0.14 x64| | | | | | | | :white_check_mark: | |HSTS|302 Document Mov...|
+|[https://smtpdma.keringhuis.nl](https://smtpdma.keringhuis.nl)| | **F**|IceWarp/14.1.0.14 x64| | | | | | | | :white_check_mark: | |HSTS|302 Document Mov...|
 
 

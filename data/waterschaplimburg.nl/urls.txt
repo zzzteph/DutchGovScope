@@ -10,8 +10,6 @@ https://open.waterschaplimburg.nl
 https://spapps-t.waterschaplimburg.nl
 https://spapps.waterschaplimburg.nl
 https://subsidie.waterschaplimburg.nl
-https://test-cms-eef.waterschaplimburg.nl
-http://test-eef.waterschaplimburg.nl
 https://transfer.waterschaplimburg.nl
 https://wikixl-saml.acceptatie.waterschaplimburg.nl
 https://www.waterschaplimburg.nl

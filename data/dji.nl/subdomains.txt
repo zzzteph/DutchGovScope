@@ -15,4 +15,3 @@ zorgconnect-acpt.dji.nl
 zorgconnect.dji.nl
 cdn.dji.nl
 ftp.dji.nl
-video-acc.beeldbellen.dji.nl

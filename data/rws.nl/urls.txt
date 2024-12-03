@@ -3,7 +3,6 @@ https://tst-bergerselect.rws.nl
 https://acc-bergerselect.rws.nl
 http://acc-webportaal.rws.nl
 https://acc-geo.rws.nl
-https://acc-inloggen.rws.nl
 https://acc-maps.rws.nl
 https://acc-port-enc.rws.nl
 https://acc-sonarreg.rws.nl
@@ -69,7 +68,6 @@ https://eov.acceptatie.rws.nl
 https://esb.rws.nl
 https://fam.rws.nl
 https://geo.rws.nl
-https://geoservices.rws.nl
 https://geostenen.grid.rws.nl
 https://geoweb.rws.nl
 http://git.rws.nl
@@ -90,7 +88,6 @@ https://poc-werkplek.rws.nl
 https://preprod.beterbediend.rws.nl
 https://protide.rws.nl
 http://prs.rws.nl
-https://ptp.acc-inloggen.rws.nl
 https://ptp.inloggen.rws.nl
 https://rastoken.rws.nl
 https://rhel8.wabinfo.rws.nl
@@ -110,7 +107,6 @@ https://techniekacademie.rws.nl
 https://zwerfafval.rws.nl
 https://test.esb.rws.nl
 https://test.lma.rws.nl
-http://test.nlhull.rws.nl
 https://test.nlrdms.rws.nl
 https://tgox-acc.rws.nl
 https://tgox.rws.nl
@@ -158,10 +154,7 @@ https://matroos.rws.nl
 https://status.gridacc.rws.nl
 https://enterpriseenrollment.rws.nl
 https://iot.grid.rws.nl
-https://mars2.ptp.acc-inloggen.rws.nl
-https://schadeportaal.ptp.acc-inloggen.rws.nl
 https://digitaltwin-dev.rws.nl
-https://eventrecorder.ptp.acc-inloggen.rws.nl
 https://acc-wvp.rws.nl
 https://aquo-kit.rws.nl
 http://mip-proxy-acc.rws.nl

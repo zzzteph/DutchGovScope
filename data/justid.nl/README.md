@@ -11,8 +11,8 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/justid.nl/subdomains.txt)|16|Alive subdomains|
-|[urls.txt](/data/justid.nl/urls.txt)|16|Urls|
+|[subdomains.txt](/data/justid.nl/subdomains.txt)|22|Alive subdomains|
+|[urls.txt](/data/justid.nl/urls.txt)|22|Urls|
 
 
 ## Statistics
@@ -23,6 +23,12 @@
 |[https://acc-referentiegegevens.justid.nl](https://acc-referentiegegevens.justid.nl)| | **A**|Apache|:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS|A-Select Filter...|
 |[https://ainformatieportaal.justid.nl](https://ainformatieportaal.justid.nl)| | **A**|Apache|:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS|A-Select Filter...|
 |[https://tst-referentiegegevens.justid.nl](https://tst-referentiegegevens.justid.nl)| | **A**|Apache|:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS|A-Select Filter...|
+|[https://ews-external.justid.nl](https://ews-external.justid.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
+|[https://lyncdiscover.justid.nl](https://lyncdiscover.justid.nl)| | **E**|| | | | | | | | :white_check_mark: | |Azure||
+|[https://meet.justid.nl](https://meet.justid.nl)| | **E**|| | | | | | | | :white_check_mark: | |Azure HSTS||
+|[https://schedule.justid.nl](https://schedule.justid.nl)| | **C**|Microsoft-IIS/10.0| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS IIS:10.0 Windows Server|403 - Forbidden:...|
+|[https://sfbrppool01.justid.nl](https://sfbrppool01.justid.nl)| | **C**|Microsoft-IIS/10.0| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS IIS:10.0 Windows Server|403 - Forbidden:...|
+|[https://autodiscover.justid.nl](https://autodiscover.justid.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://referentiegegevens.justid.nl](https://referentiegegevens.justid.nl)| | **A**|Apache|:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS|A-Select Filter...|
 |[https://informatieportaal.justid.nl](https://informatieportaal.justid.nl)| | **A**|Apache|:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS|A-Select Filter...|
 |[https://opendata.justid.nl](https://opendata.justid.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||

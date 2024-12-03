@@ -11,8 +11,8 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/rivm.nl/subdomains.txt)|261|Alive subdomains|
-|[urls.txt](/data/rivm.nl/urls.txt)|261|Urls|
+|[subdomains.txt](/data/rivm.nl/subdomains.txt)|264|Alive subdomains|
+|[urls.txt](/data/rivm.nl/urls.txt)|263|Urls|
 
 
 ## Statistics
@@ -49,7 +49,7 @@
 |[http://acceptatie.data.rivm.nl](http://acceptatie.data.rivm.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://acceptatie.aiz.osiris.rivm.nl](https://acceptatie.aiz.osiris.rivm.nl)| | **F**||:warning: | | | | | | :white_check_mark: | :white_check_mark: | |F5 BigIP||
 |[https://acceptatie.biotechnologie.rivm.nl](https://acceptatie.biotechnologie.rivm.nl)| | **E**|| | | | | | | | :white_check_mark: | |F5 BigIP HSTS||
-|[https://biotechnologie.rivm.nl](https://biotechnologie.rivm.nl)| | **A**|Apache/2.4.37 (Red Hat Enterprise Linux)| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server:2.4.37 Drupal HSTS PHP Red Hat|Biotechnologie |...|
+|[https://biotechnologie.rivm.nl](https://biotechnologie.rivm.nl)| | **A**|Apache/2.4.37 (Red Hat Enterprise Linux)| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server:2.4.37 Drupal HSTS PHP:8.1.30 Red Hat|Biotechnologie |...|
 |[http://acceptatie.ceses.osiris.rivm.nl](http://acceptatie.ceses.osiris.rivm.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[http://ceses.osiris.rivm.nl](http://ceses.osiris.rivm.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[http://ecdis.osiris.rivm.nl](http://ecdis.osiris.rivm.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
@@ -97,7 +97,7 @@
 |[https://acceptatie.webservice.soap.osiris.rivm.nl](https://acceptatie.webservice.soap.osiris.rivm.nl)| | **A**|| |:white_check_mark: | :warning:| |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|WSVragenLijst We...|
 |[http://acceptatie.webservice.cdif.osiris.rivm.nl](http://acceptatie.webservice.cdif.osiris.rivm.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[http://acceptatie.zwemwater.osiris.rivm.nl](http://acceptatie.zwemwater.osiris.rivm.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
-|[https://aiz.osiris.rivm.nl](https://aiz.osiris.rivm.nl)| | **C**||:warning: |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | |||
+|[https://aiz.osiris.rivm.nl](https://aiz.osiris.rivm.nl)| | **F**||:warning: | | | | | | :white_check_mark: | :white_check_mark: | |F5 BigIP||
 |[https://api-samenmeten.rivm.nl](https://api-samenmeten.rivm.nl)| | **B**||:white_check_mark: |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | |HSTS||
 |[http://api.rivm.nl](http://api.rivm.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[http://app.rivm.nl](http://app.rivm.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
@@ -106,7 +106,6 @@
 |[https://sso-webauth.rivm.nl](https://sso-webauth.rivm.nl)| | **F**|BigIP| | | | | | | | :white_check_mark: | |F5 BigIP HSTS||
 |[https://autodiscover.rivm.nl](https://autodiscover.rivm.nl)| | **A**|Microsoft-IIS/10.0| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS IIS:10.0 Windows Server||
 |[https://beleving.rivm.nl](https://beleving.rivm.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |HSTS Nginx|Mendix|
-|[http://informatiehulp.rivm.nl](http://informatiehulp.rivm.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|301 Moved Perman...|
 |[https://signalen.rivm.nl](https://signalen.rivm.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |HSTS Nginx|Syrinx|
 |[https://bestellingen.rivm.nl](https://bestellingen.rivm.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |||
 |[http://www.bestellingen.rivm.nl](http://www.bestellingen.rivm.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
@@ -150,7 +149,7 @@
 |[http://docsacc.rivm.nl](http://docsacc.rivm.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://download.webmail.rivm.nl](https://download.webmail.rivm.nl)| | **C**||:warning: |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://webmail.rivm.nl](https://webmail.rivm.nl)| | **C**||:warning: |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | |F5 BigIP HSTS||
-|[https://draaiboekhielprikscreening.rivm.nl](https://draaiboekhielprikscreening.rivm.nl)| | **A**|Apache/2.4.37 (Red Hat Enterprise Linux)| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server:2.4.37 Drupal HSTS PHP:8.1.30 Red Hat|Draaiboek hielpr...|
+|[https://draaiboekhielprikscreening.rivm.nl](https://draaiboekhielprikscreening.rivm.nl)| | **A**|Apache/2.4.37 (Red Hat Enterprise Linux)| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server:2.4.37 Drupal HSTS PHP Red Hat|Draaiboek hielpr...|
 |[https://www.draaiboekhielprikscreening.rivm.nl](https://www.draaiboekhielprikscreening.rivm.nl)| | **A**|Apache/2.4.37 (Red Hat Enterprise Linux)| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server:2.4.37 Drupal HSTS PHP Red Hat|Draaiboek hielpr...|
 |[https://drupal.rivm.nl](https://drupal.rivm.nl)| | **A**|Apache| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Apache HTTP Server HSTS|301 Moved Perman...|
 |[https://duvo-web-api.rivm.nl](https://duvo-web-api.rivm.nl)| | **C**|Microsoft-IIS/10.0| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS IIS:10.0 Microsoft ASP.NET Windows Server||
@@ -204,6 +203,9 @@
 |[https://nevo.rivm.nl](https://nevo.rivm.nl)| | **C**|Microsoft-IIS/10.0|:warning: |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | |Bootstrap:4 HSTS IIS:10.0 Microsoft ASP.NET Windows Server|Nederlands Voedi...|
 |[https://nieuwsbrief.rivm.nl](https://nieuwsbrief.rivm.nl)| | **A**|nginx| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[http://nivelform.rivm.nl](http://nivelform.rivm.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
+|[https://nsl-monitoring.rivm.nl](https://nsl-monitoring.rivm.nl)| | **A**|Apache/2.4.6 (Red Hat Enterprise Linux) OpenSSL/1.0.2k-fips PHP/5.4.16| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server:2.4.6 HSTS OpenSSL:1.0.2k PHP:5.4.16 Red Hat|302 Found|
+|[https://samenmeten.rivm.nl](https://samenmeten.rivm.nl)| | **B**|Apache/2.4.6 (Red Hat Enterprise Linux) OpenSSL/1.0.2k-fips PHP/5.4.16| |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | |Apache HTTP Server:2.4.6 HSTS OpenSSL:1.0.2k PHP:5.4.16 Red Hat||
+|[https://sensors.rivm.nl](https://sensors.rivm.nl)| | **B**|Apache/2.4.6 (Red Hat Enterprise Linux) OpenSSL/1.0.2k-fips PHP/5.4.16| |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | |Apache HTTP Server:2.4.6 HSTS OpenSSL:1.0.2k PHP:5.4.16 Red Hat||
 |[https://omgevingsveiligheid.rivm.nl](https://omgevingsveiligheid.rivm.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |||
 |[http://ont-bestellingen.rivm.nl](http://ont-bestellingen.rivm.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[http://ontw.api-samenmeten.rivm.nl](http://ontw.api-samenmeten.rivm.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
@@ -227,7 +229,7 @@
 |[https://secure.grip.rivm.nl](https://secure.grip.rivm.nl)| | **C**||:warning: |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | |F5 BigIP HSTS||
 |[https://secure.rivm.nl](https://secure.rivm.nl)| | **C**|-|:warning: |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | |F5 BigIP HSTS||
 |[https://securemail.rivm.nl](https://securemail.rivm.nl)| | **A**||:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
-|[https://sprproposal.rivm.nl](https://sprproposal.rivm.nl)| | **B**|Microsoft-IIS/10.0| |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | |HSTS IIS:10.0 Microsoft ASP.NET Windows Server|SOR proposal|
+|[https://sprproposal.rivm.nl](https://sprproposal.rivm.nl)| | **B**|Microsoft-IIS/10.0| |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | |HSTS IIS:10.0 Microsoft ASP.NET:4.0.30319 Windows Server|SOR proposal|
 |[https://sso-osiris.rivm.nl](https://sso-osiris.rivm.nl)| | **C**||:warning: |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | |F5 BigIP HSTS||
 |[http://sso.api.rivm.nl](http://sso.api.rivm.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://statline.rivm.nl](https://statline.rivm.nl)| | **A**|Webserver| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |Bootstrap:3.0.0 D3 HSTS NVD3|CBS Statline|

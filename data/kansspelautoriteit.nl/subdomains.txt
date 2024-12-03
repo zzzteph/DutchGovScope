@@ -1,10 +1,7 @@
 file.kansspelautoriteit.nl
 formulieren.kansspelautoriteit.nl
-redactie.kansspelautoriteit.nl
 www.kansspelautoriteit.nl
-intranet.kansspelautoriteit.nl
 kansspelautoriteit.nl
-redactie-intranet.kansspelautoriteit.nl
 autodiscover.kansspelautoriteit.nl
 mx.kansspelautoriteit.nl
 webmail.kansspelautoriteit.nl

@@ -13,3 +13,5 @@ https://dsp.cjib.nl
 https://pay-acc.cjib.nl
 https://pay.cjib.nl
 https://werken.cjib.nl
+https://open.cjib.nl
+https://www.open.cjib.nl

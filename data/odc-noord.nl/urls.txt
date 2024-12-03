@@ -6,7 +6,6 @@ https://odcn-acc.topdesk.odc-noord.nl
 https://vws-acc.jira.odc-noord.nl
 https://logius-acc.confluence.odc-noord.nl
 https://nfi-acc.topdesk.odc-noord.nl
-https://rbo-ipkd-acc.topdesk.odc-noord.nl
 https://bd-acc.topdesk.odc-noord.nl
 https://duo-acc2.topdesk.odc-noord.nl
 https://duo2-acc.topdesk.odc-noord.nl
@@ -47,7 +46,6 @@ https://ivho-prd.confluence.odc-noord.nl
 https://odcn-prd.topdesk.odc-noord.nl
 https://pgb-prd.confluence.odc-noord.nl
 https://pgb-prd.topdesk.odc-noord.nl
-https://rbo-ipkd-prd.topdesk.odc-noord.nl
 https://doc-direkt-acc.topdesk.odc-noord.nl
 https://docdirekt-ont-va.topdesk.odc-noord.nl
 https://odcn-ont-va.topdesk.odc-noord.nl

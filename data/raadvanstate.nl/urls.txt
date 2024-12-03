@@ -17,11 +17,13 @@ https://loket-inloggen.raadvanstate.nl
 https://loket.raadvanstate.nl
 https://mijnzaak-acc.raadvanstate.nl
 https://mijnzaak.raadvanstate.nl
-https://portaal.gateway.raadvanstate.nl
 https://siam-acp.raadvanstate.nl
 https://siam.raadvanstate.nl
+https://tdportal.raadvanstate.nl
 https://www.raadvanstate.nl
 https://zittingsagenda.raadvanstate.nl
 http://kennisbank.raadvanstate.nl
 https://loket-preprod.raadvanstate.nl
 https://test.raadvanstate.nl
+https://enterpriseenrollment.raadvanstate.nl
+https://enterpriseregistration.raadvanstate.nl

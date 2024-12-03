@@ -2,10 +2,10 @@
 layout: default
 title: "functiemix.nl"
 permalink: "/dutchgov/functiemix.nl.html"
-subdomains_count: 3
-urls_count: 3
+subdomains_count: 1
+urls_count: 1
 ssl_rank: 
-http_rank: E
+http_rank: C
 security_txt: 1
 url_link: /data/functiemix.nl/urls.txt
 subdomains_link: /data/functiemix.nl/subdomains.txt
@@ -19,14 +19,14 @@ tags: dutchgov
 
 
  - **SSL Grade**:
- - **HTTP Security Grade**:E
+ - **HTTP Security Grade**:C
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:1
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/functiemix.nl/subdomains.txt)|3|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/functiemix.nl/urls.txt)|3|Urls|
+|[subdomains.txt](/DutchGovScope/data/functiemix.nl/subdomains.txt)|1|Alive subdomains|
+|[urls.txt](/DutchGovScope/data/functiemix.nl/urls.txt)|1|Urls|
 
 
 ## Statistics
@@ -34,8 +34,6 @@ tags: dutchgov
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://functiemix.nl](https://functiemix.nl)| | **F**|Apache/2| | | | | | | | :white_check_mark: | |Apache HTTP Server:2 HSTS||
-|[https://www.functiemix.nl](https://www.functiemix.nl)| | **F**|Apache/2| | | | | | | | :white_check_mark: | |Apache HTTP Server:2 HSTS||
-|[https://database.functiemix.nl](https://database.functiemix.nl)| | **C**|Abyss/2.14.2-X1-Win32 AbyssLib/2.14 ws 1.4|:warning: |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS Windows Server|Functiemix|
+|[https://database.functiemix.nl](https://database.functiemix.nl)| | **C**|Abyss/2.16.10.0-X1-Win32 AbyssLib/2.16.10.0 ws 1.4|:warning: |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS Windows Server|Functiemix|
 
 

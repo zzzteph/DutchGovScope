@@ -6,13 +6,13 @@
 
  - **SSL Grade**:
  - **HTTP Security Grade**:B
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:9
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:11
 
 
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/cjib.nl/subdomains.txt)|17|Alive subdomains|
-|[urls.txt](/data/cjib.nl/urls.txt)|15|Urls|
+|[urls.txt](/data/cjib.nl/urls.txt)|17|Urls|
 
 
 ## Statistics
@@ -35,5 +35,7 @@
 |[https://pay-acc.cjib.nl](https://pay-acc.cjib.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
 |[https://pay.cjib.nl](https://pay.cjib.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
 |[https://werken.cjib.nl](https://werken.cjib.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Java|VMware Horizon|
+|[https://open.cjib.nl](https://open.cjib.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS||
+|[https://www.open.cjib.nl](https://www.open.cjib.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS||
 
 

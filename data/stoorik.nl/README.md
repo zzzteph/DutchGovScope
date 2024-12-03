@@ -11,8 +11,8 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/stoorik.nl/subdomains.txt)|2|Alive subdomains|
-|[urls.txt](/data/stoorik.nl/urls.txt)|2|Urls|
+|[subdomains.txt](/data/stoorik.nl/subdomains.txt)|3|Alive subdomains|
+|[urls.txt](/data/stoorik.nl/urls.txt)|3|Urls|
 
 
 ## Statistics
@@ -22,5 +22,6 @@
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[https://stoorik.nl](https://stoorik.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |||
 |[https://www.stoorik.nl](https://www.stoorik.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |||
+|[https://mail.stoorik.nl](https://mail.stoorik.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||
 
 

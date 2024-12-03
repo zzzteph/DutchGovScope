@@ -2,6 +2,7 @@ acc.translate.services.cultureelerfgoed.nl
 acc.archis.cultureelerfgoed.nl
 acc.auth.services.cultureelerfgoed.nl
 acc.gml.map.services.cultureelerfgoed.nl
+acc.render.map.services.cultureelerfgoed.nl
 acc.monumentenregister.cultureelerfgoed.nl
 www.acc.monumentenregister.cultureelerfgoed.nl
 acc.subsidie.cultureelerfgoed.nl
@@ -64,3 +65,6 @@ english.cultureelerfgoed.nl
 formulier.cultureelerfgoed.nl
 auth.services.cultureelerfgoed.nl
 services.cultureelerfgoed.nl
+idselect.cultureelerfgoed.nl
+preprod.idselect.cultureelerfgoed.nl
+prd.archis.cultureelerfgoed.nl

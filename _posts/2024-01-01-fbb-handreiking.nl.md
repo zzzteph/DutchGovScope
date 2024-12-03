@@ -34,6 +34,6 @@ tags: dutchgov
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://www.fbb-handreiking.nl](https://www.fbb-handreiking.nl)| | **F**|nginx|:o: | | | | | | | :white_check_mark: | |Nginx PHP:8.2.25|Handboek Feminis...|
+|[https://www.fbb-handreiking.nl](https://www.fbb-handreiking.nl)| | **F**|nginx|:o: | | | | | | | :white_check_mark: | |Nginx PHP:8.2.26|Handboek Feminis...|
 
 

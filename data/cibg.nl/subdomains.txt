@@ -40,6 +40,7 @@ test.publicwebservices.cibg.nl
 tmv.cibg.nl
 uzipas.lir.cibg.nl
 webservices.lrza.cibg.nl
+acceptatie.beheer.generiekeregistratiedienst.cibg.nl
 acceptatie.digikoppeling2.cibg.nl
 behandel.generiekeregistratiedienst.cibg.nl
 beheer.generiekeregistratiedienst.cibg.nl

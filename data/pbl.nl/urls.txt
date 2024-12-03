@@ -8,6 +8,7 @@ https://snippet.startanalyse.pbl.nl
 https://startanalyse.pbl.nl
 https://www.pbl.nl
 https://data.pbl.nl
+https://icer.pbl.nl
 https://leidraad.pbl.nl
 https://models.pbl.nl
 https://snippet.monovi.pbl.nl

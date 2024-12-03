@@ -40,6 +40,6 @@ tags: dutchgov
 |[https://magazinesintern.rijksvastgoedbedrijf.nl](https://magazinesintern.rijksvastgoedbedrijf.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://opendata.rijksvastgoedbedrijf.nl](https://opendata.rijksvastgoedbedrijf.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://projecten.rijksvastgoedbedrijf.nl](https://projecten.rijksvastgoedbedrijf.nl)| | **A**|Apache|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Apache HTTP Server HSTS||
-|[https://landelijkevastgoeddag.rijksvastgoedbedrijf.nl](https://landelijkevastgoeddag.rijksvastgoedbedrijf.nl)| | **A**|Apache/2|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server:2 Bootstrap HSTS|Home - Landelijk...|
+|[https://landelijkevastgoeddag.rijksvastgoedbedrijf.nl](https://landelijkevastgoeddag.rijksvastgoedbedrijf.nl)| | **A**|Apache/2|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server:2|403 Forbidden|
 
 

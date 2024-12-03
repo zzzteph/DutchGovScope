@@ -22,7 +22,7 @@
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[http://autodiscover.hdsr.nl](http://autodiscover.hdsr.nl)| | **C**|Microsoft-IIS/10.0| |:white_check_mark: | | | | | | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server||
 |[https://begrippen.hdsr.nl](https://begrippen.hdsr.nl)| | **B**|Apache| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS||
-|[https://kennis.hdsr.nl](https://kennis.hdsr.nl)| | **B**|Apache| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS Varnish:6.6||
+|[https://kennis.hdsr.nl](https://kennis.hdsr.nl)| | **B**|Apache| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS Varnish||
 |[https://testbegrippen.hdsr.nl](https://testbegrippen.hdsr.nl)| | **E**|| | | | | | | | :white_check_mark: | |Basic||
 |[https://testkennis.hdsr.nl](https://testkennis.hdsr.nl)| | **B**|Apache| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS Varnish:6.6||
 |[https://cawfirewall.hdsr.nl](https://cawfirewall.hdsr.nl)| | **A**|xxxx|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Java|User Portal|
@@ -46,6 +46,6 @@
 |[https://kantoor.hdsr.nl](https://kantoor.hdsr.nl)| | **A**|xxxx|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Java|User Portal|
 |[https://remote-pa.hdsr.nl](https://remote-pa.hdsr.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||
 |[https://ftp-hdsr.hdsr.nl](https://ftp-hdsr.hdsr.nl)| | **A**|xxxx|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Java|User Portal|
-|[http://localhost.hdsr.nl](http://localhost.hdsr.nl)| | **F**|nginx|:o: | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Laravel Nginx PHP|Weakpass|
+|[https://fme.hdsr.nl](https://fme.hdsr.nl)| | **A**|xxxx|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Java|User Portal|
 
 

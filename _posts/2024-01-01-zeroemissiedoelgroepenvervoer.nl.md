@@ -3,7 +3,7 @@ layout: default
 title: "zeroemissiedoelgroepenvervoer.nl"
 permalink: "/dutchgov/zeroemissiedoelgroepenvervoer.nl.html"
 subdomains_count: 2
-urls_count: 1
+urls_count: 2
 ssl_rank: 
 http_rank: F
 security_txt: 0
@@ -26,7 +26,7 @@ tags: dutchgov
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/DutchGovScope/data/zeroemissiedoelgroepenvervoer.nl/subdomains.txt)|2|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/zeroemissiedoelgroepenvervoer.nl/urls.txt)|1|Urls|
+|[urls.txt](/DutchGovScope/data/zeroemissiedoelgroepenvervoer.nl/urls.txt)|2|Urls|
 
 
 ## Statistics
@@ -35,5 +35,6 @@ tags: dutchgov
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[https://zeroemissiedoelgroepenvervoer.nl](https://zeroemissiedoelgroepenvervoer.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server Breadcrumb NavXT:7.3.1 MySQL PHP WordPress:6.7.1|Zero Emissie Doe...|
+|[http://autodiscover.zeroemissiedoelgroepenvervoer.nl](http://autodiscover.zeroemissiedoelgroepenvervoer.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server||
 
 

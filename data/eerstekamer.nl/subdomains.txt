@@ -21,3 +21,4 @@ piwik.eerstekamer.nl
 liquit.eerstekamer.nl
 enterpriseenrollment.eerstekamer.nl
 sandbox.redactie.eerstekamer.nl
+lv108675-web01.eerstekamer.nl

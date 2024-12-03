@@ -2,6 +2,7 @@ http://acc.translate.services.cultureelerfgoed.nl
 http://acc.archis.cultureelerfgoed.nl
 https://acc.auth.services.cultureelerfgoed.nl
 http://acc.gml.map.services.cultureelerfgoed.nl
+http://acc.render.map.services.cultureelerfgoed.nl
 https://acc.monumentenregister.cultureelerfgoed.nl
 https://www.acc.monumentenregister.cultureelerfgoed.nl
 https://acc.subsidie.cultureelerfgoed.nl
@@ -27,6 +28,7 @@ https://magazines.cultureelerfgoed.nl
 https://opendata.cultureelerfgoed.nl
 https://data.cultureelerfgoed.nl
 https://data.geo.cultureelerfgoed.nl
+https://erfgoedmonitor.cultureelerfgoed.nl
 https://faro.cultureelerfgoed.nl
 https://intranet.cultureelerfgoed.nl
 https://kennis-staging.cultureelerfgoed.nl
@@ -61,3 +63,5 @@ https://acc.zaak.services.cultureelerfgoed.nl
 https://acc.api-gateway.archis.cultureelerfgoed.nl
 https://english.cultureelerfgoed.nl
 https://formulier.cultureelerfgoed.nl
+http://auth.services.cultureelerfgoed.nl
+http://services.cultureelerfgoed.nl

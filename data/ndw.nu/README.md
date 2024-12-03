@@ -6,13 +6,13 @@
 
  - **SSL Grade**:
  - **HTTP Security Grade**:C
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:56
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:60
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/ndw.nu/subdomains.txt)|85|Alive subdomains|
-|[urls.txt](/data/ndw.nu/urls.txt)|85|Urls|
+|[subdomains.txt](/data/ndw.nu/subdomains.txt)|91|Alive subdomains|
+|[urls.txt](/data/ndw.nu/urls.txt)|91|Urls|
 
 
 ## Statistics
@@ -34,7 +34,7 @@
 |[https://ntm.ndw.nu](https://ntm.ndw.nu)| | **C**|nginx| | | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Nginx|Nationaal Toegan...|
 |[https://maps.ndw.nu](https://maps.ndw.nu)| | **F**|Apache/2.4.62 (Unix)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.62 Bootstrap UNIX|NDW Maps|
 |[https://nls.ndw.nu](https://nls.ndw.nu)| | **F**|nginx/1.26.2| | | | | | | | :white_check_mark: | |Nginx:1.26.2|NlsFrontend|
-|[https://tiles.ndw.nu](https://tiles.ndw.nu)| | **E**|| | | | | | | | :white_check_mark: | |||
+|[https://tiles.ndw.nu](https://tiles.ndw.nu)| | **F**|Microsoft-Azure-Application-Gateway/v2| | | | | | | | :white_check_mark: | ||404 Not Found|
 |[https://vild.ndw.nu](https://vild.ndw.nu)| | **F**|Microsoft-Azure-Application-Gateway/v2| | | | | | | | :white_check_mark: | ||404 Not Found|
 |[https://cbm.ndw.nu](https://cbm.ndw.nu)| | **F**|nginx/1.27.2| | | | | | | | :white_check_mark: | |Nginx:1.27.2|NDW-CBM|
 |[https://karin.ndw.nu](https://karin.ndw.nu)| | **F**|nginx/1.26.2| | | | | | | | :white_check_mark: | |Nginx:1.26.2|NDW Karin|
@@ -105,5 +105,11 @@
 |[https://mijn.staging.ndw.nu](https://mijn.staging.ndw.nu)| | **D**|Apache/2.4.62 (Debian)| | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server:2.4.62 Debian|mijn NDW|
 |[https://mail.ndw.nu](https://mail.ndw.nu)| | **F**|IceWarp/14.1.0.14 x64| | | | | | | | :white_check_mark: | |HSTS|302 Document Mov...|
 |[https://acceptatie-melvin.ndw.nu](https://acceptatie-melvin.ndw.nu)| | **F**|Microsoft-Azure-Application-Gateway/v2| | | | | | | | :white_check_mark: | ||404 Not Found|
+|[https://shared-services.ndw.nu](https://shared-services.ndw.nu)| | **F**|Microsoft-Azure-Application-Gateway/v2| | | | | | | | :white_check_mark: | ||404 Not Found|
+|[https://maps.staging.ndw.nu](https://maps.staging.ndw.nu)| | **F**|Apache/2.4.62 (Unix)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.62 Bootstrap UNIX|NDW Maps|
+|[https://nls.staging.ndw.nu](https://nls.staging.ndw.nu)| | **F**|nginx/1.26.2| | | | | | | | :white_check_mark: | |Nginx:1.26.2|NlsFrontend|
+|[https://shared-services.staging.ndw.nu](https://shared-services.staging.ndw.nu)| | **F**|Microsoft-Azure-Application-Gateway/v2| | | | | | | | :white_check_mark: | ||404 Not Found|
+|[https://security.staging.ndw.nu](https://security.staging.ndw.nu)| | **E**|| | | | | | | | :white_check_mark: | |||
+|[https://stats.staging.ndw.nu](https://stats.staging.ndw.nu)| | **C**|| | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |||
 
 

@@ -34,7 +34,7 @@ tags: dutchgov
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://mobilitylab.nl](https://mobilitylab.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |MySQL Nginx PHP Site Kit:1.136.0 WordPress|Mobility Lab - N...|
+|[https://mobilitylab.nl](https://mobilitylab.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |MySQL Nginx PHP Site Kit:1.136.0 WP Rocket WordPress|Mobility Lab - N...|
 |[https://www.mobilitylab.nl](https://www.mobilitylab.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx||
 |[https://ftp.mobilitylab.nl](https://ftp.mobilitylab.nl)| | **F**|Apache/2.4.6 (CentOS) OpenSSL/1.0.2k-fips PHP/5.4.16| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.6 CentOS HSTS OpenSSL:1.0.2k PHP:5.4.16|Geparkeerd|
 |[http://localhost.mobilitylab.nl](http://localhost.mobilitylab.nl)| | **F**|nginx|:o: | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Laravel Nginx PHP|Weakpass|

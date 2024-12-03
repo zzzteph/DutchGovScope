@@ -6,7 +6,6 @@ odcn-acc.topdesk.odc-noord.nl
 vws-acc.jira.odc-noord.nl
 logius-acc.confluence.odc-noord.nl
 nfi-acc.topdesk.odc-noord.nl
-rbo-ipkd-acc.topdesk.odc-noord.nl
 bd-acc.topdesk.odc-noord.nl
 duo-acc2.topdesk.odc-noord.nl
 duo2-acc.topdesk.odc-noord.nl
@@ -47,7 +46,6 @@ ivho-prd.confluence.odc-noord.nl
 odcn-prd.topdesk.odc-noord.nl
 pgb-prd.confluence.odc-noord.nl
 pgb-prd.topdesk.odc-noord.nl
-rbo-ipkd-prd.topdesk.odc-noord.nl
 doc-direkt-acc.topdesk.odc-noord.nl
 docdirekt-ont-va.topdesk.odc-noord.nl
 odcn-ont-va.topdesk.odc-noord.nl
@@ -82,3 +80,4 @@ rvig-prd.topdesk.odc-noord.nl
 vpn.a4.odc-noord.nl
 rvihh-acc.topdesk.odc-noord.nl
 iaas-portal-gn3.odc-noord.nl
+rvihh-prd.topdesk.odc-noord.nl

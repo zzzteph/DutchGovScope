@@ -1,4 +1,3 @@
-https://acc-inloggen.rijkswaterstaat.nl
 https://acc-maps.rijkswaterstaat.nl
 https://acceptatie-bmm2016.rijkswaterstaat.nl
 https://acceptatie.botova.rijkswaterstaat.nl
@@ -42,7 +41,6 @@ https://feeds.nieuwsbrieven.rijkswaterstaat.nl
 https://nieuwsbrieven.rijkswaterstaat.nl
 https://opendata.nieuwsbrieven.rijkswaterstaat.nl
 https://geo.rijkswaterstaat.nl
-https://geoservices.rijkswaterstaat.nl
 https://geoweb.rijkswaterstaat.nl
 https://iam.rijkswaterstaat.nl
 https://inloggen.rijkswaterstaat.nl
@@ -83,5 +81,5 @@ https://static.ont.staging.werkenbij.rijkswaterstaat.nl
 https://innovatieloket-tst.rijkswaterstaat.nl
 https://innovatieloket-acc.rijkswaterstaat.nl
 https://innovatieloket.rijkswaterstaat.nl
-https://waterwebservices.rijkswaterstaat.nl
+http://waterwebservices.rijkswaterstaat.nl
 https://klimaateffectatlas.rijkswaterstaat.nl

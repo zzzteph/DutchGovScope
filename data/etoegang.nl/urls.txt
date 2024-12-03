@@ -3,3 +3,4 @@ https://aggregator.etoegang.nl
 https://s3.etoegang.nl
 https://simulator.etoegang.nl
 https://upload.etoegang.nl
+https://datareportr.etoegang.nl

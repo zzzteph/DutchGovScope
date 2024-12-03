@@ -22,6 +22,6 @@
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[https://acceptatie.topshuis.nl](https://acceptatie.topshuis.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|Topshuis | Meeti...|
 |[https://topshuis.nl](https://topshuis.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server||
-|[https://www.topshuis.nl](https://www.topshuis.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server Google Tag Manager MySQL PHP WordPress:6.6.2 Yoast SEO:23.8|Topshuis | Meeti...|
+|[https://www.topshuis.nl](https://www.topshuis.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server Google Tag Manager MySQL PHP WordPress:6.7.1 Yoast SEO:23.9|Topshuis | Meeti...|
 
 

@@ -11,8 +11,8 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/donorregister.nl/subdomains.txt)|13|Alive subdomains|
-|[urls.txt](/data/donorregister.nl/urls.txt)|13|Urls|
+|[subdomains.txt](/data/donorregister.nl/subdomains.txt)|14|Alive subdomains|
+|[urls.txt](/data/donorregister.nl/urls.txt)|14|Urls|
 
 
 ## Statistics
@@ -20,10 +20,11 @@
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://acceptatie.mijn.donorregister.nl](https://acceptatie.mijn.donorregister.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
-|[https://acceptatie.raadplegen.donorregister.nl](https://acceptatie.raadplegen.donorregister.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
+|[https://acceptatie.beheer.donorregister.nl](https://acceptatie.beheer.donorregister.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
+|[http://acceptatie.mijn.donorregister.nl](http://acceptatie.mijn.donorregister.nl)| | **A**|BigIP| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |F5 BigIP||
+|[http://acceptatie.raadplegen.donorregister.nl](http://acceptatie.raadplegen.donorregister.nl)| | **A**|BigIP| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |F5 BigIP||
 |[http://acceptatie.webservices.donorregister.nl](http://acceptatie.webservices.donorregister.nl)| | **F**|BigIP| | | | | | | | :white_check_mark: | |F5 BigIP||
-|[https://beheer.donorregister.nl](https://beheer.donorregister.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
+|[https://beheer.donorregister.nl](https://beheer.donorregister.nl)| | **A**|-| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://opendata.english.donorregister.nl](https://opendata.english.donorregister.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://donorregister.nl](https://donorregister.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
 |[https://english.donorregister.nl](https://english.donorregister.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Home | Donorregi...|

@@ -11,8 +11,8 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/pbl.nl/subdomains.txt)|25|Alive subdomains|
-|[urls.txt](/data/pbl.nl/urls.txt)|25|Urls|
+|[subdomains.txt](/data/pbl.nl/subdomains.txt)|26|Alive subdomains|
+|[urls.txt](/data/pbl.nl/urls.txt)|26|Urls|
 
 
 ## Statistics
@@ -30,6 +30,7 @@
 |[https://startanalyse.pbl.nl](https://startanalyse.pbl.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Drupal:10 HSTS PHP|Site in onderhou...|
 |[https://www.pbl.nl](https://www.pbl.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Drupal:10 HSTS PHP|Home | Planburea...|
 |[https://data.pbl.nl](https://data.pbl.nl)| | **A**|Microsoft-Azure-Application-Gateway/v2| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | ||301 Moved Perman...|
+|[https://icer.pbl.nl](https://icer.pbl.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Drupal:10 HSTS PHP|Site in onderhou...|
 |[https://leidraad.pbl.nl](https://leidraad.pbl.nl)| | **B**||:o: |:white_check_mark: | | | :white_check_mark:| | :white_check_mark: | :white_check_mark: | |Bootstrap:3.3.1 HSTS PHP|Leidraad voor Om...|
 |[https://models.pbl.nl](https://models.pbl.nl)| | **A**|| |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | |HSTS|301 Moved Perman...|
 |[https://snippet.monovi.pbl.nl](https://snippet.monovi.pbl.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Drupal HSTS PHP||

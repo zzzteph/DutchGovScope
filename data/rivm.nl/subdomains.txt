@@ -84,7 +84,6 @@ auth.rivm.nl
 sso-webauth.rivm.nl
 autodiscover.rivm.nl
 beleving.rivm.nl
-informatiehulp.rivm.nl
 signalen.rivm.nl
 bestellingen.rivm.nl
 www.bestellingen.rivm.nl
@@ -182,6 +181,9 @@ nevo-online.rivm.nl
 nevo.rivm.nl
 nieuwsbrief.rivm.nl
 nivelform.rivm.nl
+nsl-monitoring.rivm.nl
+samenmeten.rivm.nl
+sensors.rivm.nl
 omgevingsveiligheid.rivm.nl
 ont-bestellingen.rivm.nl
 ontw.api-samenmeten.rivm.nl
@@ -205,6 +207,7 @@ secure-acceptatie.grip.rivm.nl
 secure.grip.rivm.nl
 secure.rivm.nl
 securemail.rivm.nl
+sf.rivm.nl
 sprproposal.rivm.nl
 sso-osiris.rivm.nl
 sso.api.rivm.nl

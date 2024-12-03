@@ -6,13 +6,13 @@
 
  - **SSL Grade**:
  - **HTTP Security Grade**:B
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:21
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:22
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/kvk.nl/subdomains.txt)|57|Alive subdomains|
-|[urls.txt](/data/kvk.nl/urls.txt)|57|Urls|
+|[subdomains.txt](/data/kvk.nl/subdomains.txt)|56|Alive subdomains|
+|[urls.txt](/data/kvk.nl/urls.txt)|56|Urls|
 
 
 ## Statistics
@@ -25,7 +25,7 @@
 |[https://tbadmin.dev.kvk.nl](https://tbadmin.dev.kvk.nl)| | **C**|Unknown| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|404 Not Found|
 |[https://admin.tbadmin.kvk.nl](https://admin.tbadmin.kvk.nl)| | **A**|Unknown| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS|403 Forbidden|
 |[https://tbadmin.kvk.nl](https://tbadmin.kvk.nl)| | **A**|Unknown| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS|403 Forbidden|
-|[https://admin.tbadmin.npo.kvk.nl](https://admin.tbadmin.npo.kvk.nl)| | **F**|Unknown| | | | | | | | :white_check_mark: | |HSTS|403 Forbidden|
+|[https://admin.tbadmin.npo.kvk.nl](https://admin.tbadmin.npo.kvk.nl)| | **A**|Unknown| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS|403 Forbidden|
 |[https://idp.npo.kvk.nl](https://idp.npo.kvk.nl)| | **A**|Unknown| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |Google Tag Manager HSTS|Toegang geweiger...|
 |[https://tbadmin.npo.kvk.nl](https://tbadmin.npo.kvk.nl)| | **A**|Unknown| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS|403 Forbidden|
 |[https://zoeken.ondernemersplein.kvk.nl](https://zoeken.ondernemersplein.kvk.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
@@ -66,7 +66,6 @@
 |[https://rhub.kvk.nl](https://rhub.kvk.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |HSTS Nginx||
 |[https://sdgapi.acp.ondernemersplein.kvk.nl](https://sdgapi.acp.ondernemersplein.kvk.nl)| | **F**|cloudflare|:white_check_mark: | | | | | :white_check_mark: | | :white_check_mark: | |Cloudflare Cloudflare Bot Management|Attention Requir...|
 |[https://sdgapi.ondernemersplein.kvk.nl](https://sdgapi.ondernemersplein.kvk.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
-|[https://staging.werkenbij.kvk.nl](https://staging.werkenbij.kvk.nl)| | **C**||:warning: |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Google Tag Manager HSTS Microsoft ASP.NET|Vacatures en car...|
 |[https://static.kvk.nl](https://static.kvk.nl)| | **E**||:o: |:white_check_mark: | :warning:| | | | | :white_check_mark: | |HSTS|403 - Forbidden:...|
 |[https://status.kvk.nl](https://status.kvk.nl)| | **B**|nginx| |:white_check_mark: | | |:warning: | | | :white_check_mark: | |HSTS Nginx|KVK Statuspagina|
 |[https://swp.kvk.nl](https://swp.kvk.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Microsoft ASP.NET||

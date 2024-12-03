@@ -1,4 +1,3 @@
-acc-inloggen.rijkswaterstaat.nl
 acc-maps.rijkswaterstaat.nl
 acceptatie-bmm2016.rijkswaterstaat.nl
 acceptatie.botova.rijkswaterstaat.nl
@@ -42,7 +41,6 @@ feeds.nieuwsbrieven.rijkswaterstaat.nl
 nieuwsbrieven.rijkswaterstaat.nl
 opendata.nieuwsbrieven.rijkswaterstaat.nl
 geo.rijkswaterstaat.nl
-geoservices.rijkswaterstaat.nl
 geoweb.rijkswaterstaat.nl
 iam.rijkswaterstaat.nl
 inloggen.rijkswaterstaat.nl

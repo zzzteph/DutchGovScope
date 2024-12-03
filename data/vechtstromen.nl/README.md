@@ -46,8 +46,8 @@
 |[https://open.vechtstromen.nl](https://open.vechtstromen.nl)| | **B**||:o: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |Azure Azure Front Door HSTS Next.js Node.js React Webpack|Publicatie platf...|
 |[https://secure.vechtstromen.nl](https://secure.vechtstromen.nl)| | **F**|Unspecified| | | | | | | | :white_check_mark: | |||
 |[https://securetest.vechtstromen.nl](https://securetest.vechtstromen.nl)| | **F**|Unspecified| | | | | | | | :white_check_mark: | |||
-|[https://vault.vechtstromen.nl](https://vault.vechtstromen.nl)| | **A**|nginx/1.27.2| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Amazon S3 Amazon Web Services HSTS Nginx:1.27.2|Psono|
-|[https://vaultfs.vechtstromen.nl](https://vaultfs.vechtstromen.nl)| | **A**|nginx/1.27.2| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Amazon S3 Amazon Web Services HSTS Nginx:1.27.2|Psono|
+|[https://vault.vechtstromen.nl](https://vault.vechtstromen.nl)| | **A**|nginx/1.27.3| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Amazon S3 Amazon Web Services HSTS Nginx:1.27.3|Psono|
+|[https://vaultfs.vechtstromen.nl](https://vaultfs.vechtstromen.nl)| | **A**|nginx/1.27.3| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Amazon S3 Amazon Web Services HSTS Nginx:1.27.3|Psono|
 |[https://support.vechtstromen.nl](https://support.vechtstromen.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://werkplek.vechtstromen.nl](https://werkplek.vechtstromen.nl)| | **D**||:warning: | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Microsoft ASP.NET||
 |[https://apps-dev.vechtstromen.nl](https://apps-dev.vechtstromen.nl)| | **B**||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS Microsoft ASP.NET|Login|

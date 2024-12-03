@@ -12,7 +12,7 @@
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/zeroemissiedoelgroepenvervoer.nl/subdomains.txt)|2|Alive subdomains|
-|[urls.txt](/data/zeroemissiedoelgroepenvervoer.nl/urls.txt)|1|Urls|
+|[urls.txt](/data/zeroemissiedoelgroepenvervoer.nl/urls.txt)|2|Urls|
 
 
 ## Statistics
@@ -21,5 +21,6 @@
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[https://zeroemissiedoelgroepenvervoer.nl](https://zeroemissiedoelgroepenvervoer.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server Breadcrumb NavXT:7.3.1 MySQL PHP WordPress:6.7.1|Zero Emissie Doe...|
+|[http://autodiscover.zeroemissiedoelgroepenvervoer.nl](http://autodiscover.zeroemissiedoelgroepenvervoer.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server||
 
 

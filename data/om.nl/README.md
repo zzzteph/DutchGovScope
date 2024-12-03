@@ -11,8 +11,8 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/om.nl/subdomains.txt)|29|Alive subdomains|
-|[urls.txt](/data/om.nl/urls.txt)|29|Urls|
+|[subdomains.txt](/data/om.nl/subdomains.txt)|28|Alive subdomains|
+|[urls.txt](/data/om.nl/urls.txt)|28|Urls|
 
 
 ## Statistics
@@ -20,12 +20,11 @@
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://boetebase.om.nl](https://boetebase.om.nl)| | **D**|| | | | | | :white_check_mark: | | :white_check_mark: | |Microsoft ASP.NET:4.0.30319|Boetebase - Open...|
-|[https://nevenbetrekkingen.om.nl](https://nevenbetrekkingen.om.nl)| | **D**|| | | | | | :white_check_mark: | | :white_check_mark: | |Microsoft ASP.NET:4.0.30319|Nevenbetrekkinge...|
+|[https://boetebase.om.nl](https://boetebase.om.nl)| | **D**|| | | | | | :white_check_mark: | | :white_check_mark: | |Microsoft ASP.NET|Boetebase - Open...|
+|[https://nevenbetrekkingen.om.nl](https://nevenbetrekkingen.om.nl)| | **D**|| | | | | | :white_check_mark: | | :white_check_mark: | |Microsoft ASP.NET|Nevenbetrekkinge...|
 |[https://www2.om.nl](https://www2.om.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Not Found|
 |[https://dialin.om.nl](https://dialin.om.nl)| | **F**|Microsoft-IIS/10.0| | | | | | | | :white_check_mark: | |HSTS IIS:10.0 Windows Server|Conferencing Dia...|
 |[https://lyncdiscover.om.nl](https://lyncdiscover.om.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
-|[https://meet.om.nl](https://meet.om.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS|Skype for Busine...|
 |[https://webservices.om.nl](https://webservices.om.nl)| | **F**|Microsoft-IIS/10.0| | | | | | | | :white_check_mark: | |HSTS IIS:10.0 Windows Server||
 |[https://fcvpn.om.nl](https://fcvpn.om.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Microsoft ASP.NET||
 |[https://feeds.om.nl](https://feeds.om.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
@@ -43,8 +42,8 @@
 |[https://telewerken.om.nl](https://telewerken.om.nl)| | **A**||:warning: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Microsoft ASP.NET||
 |[https://verkeer.acc.loket.om.nl](https://verkeer.acc.loket.om.nl)| | **A**|Apache|:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS|301 Moved Perman...|
 |[https://verkeer.loket.om.nl](https://verkeer.loket.om.nl)| | **A**|Apache|:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS|301 Moved Perman...|
-|[http://acc.zsmgame.om.nl](http://acc.zsmgame.om.nl)| | **E**|| | | | | | | | :white_check_mark: | |Express HSTS Nginx:1.24.0 Node.js React||
-|[https://snelheidsovertredingen.om.nl](https://snelheidsovertredingen.om.nl)| | **D**|| | | | | | :white_check_mark: | | :white_check_mark: | |Microsoft ASP.NET:4.0.30319|Tarieven snelhei...|
+|[https://acc.zsmgame.om.nl](https://acc.zsmgame.om.nl)| | **F**|nginx/1.24.0| | | | | | | | :white_check_mark: | |Express HSTS Nginx:1.24.0 Node.js React|ZSM GAME|
+|[https://snelheidsovertredingen.om.nl](https://snelheidsovertredingen.om.nl)| | **D**|| | | | | | :white_check_mark: | | :white_check_mark: | |Microsoft ASP.NET|Tarieven snelhei...|
 |[https://strafdossiermh17.om.nl](https://strafdossiermh17.om.nl)| | **D**|nginx/1.25.5|:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Nginx:1.25.5|Strafdossier MH1...|
 |[https://zsmgame.om.nl](https://zsmgame.om.nl)| | **F**|nginx/1.24.0| | | | | | | | :white_check_mark: | |Express HSTS Nginx:1.24.0 Node.js React|ZSM GAME|
 |[https://enterpriseenrollment.om.nl](https://enterpriseenrollment.om.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||

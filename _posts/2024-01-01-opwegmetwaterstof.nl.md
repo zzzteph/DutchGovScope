@@ -2,10 +2,10 @@
 layout: default
 title: "opwegmetwaterstof.nl"
 permalink: "/dutchgov/opwegmetwaterstof.nl.html"
-subdomains_count: 3
-urls_count: 3
+subdomains_count: 1
+urls_count: 1
 ssl_rank: 
-http_rank: F
+http_rank: E
 security_txt: 0
 url_link: /data/opwegmetwaterstof.nl/urls.txt
 subdomains_link: /data/opwegmetwaterstof.nl/subdomains.txt
@@ -19,14 +19,14 @@ tags: dutchgov
 
 
  - **SSL Grade**:
- - **HTTP Security Grade**:F
+ - **HTTP Security Grade**:E
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:0
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/opwegmetwaterstof.nl/subdomains.txt)|3|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/opwegmetwaterstof.nl/urls.txt)|3|Urls|
+|[subdomains.txt](/DutchGovScope/data/opwegmetwaterstof.nl/subdomains.txt)|1|Alive subdomains|
+|[urls.txt](/DutchGovScope/data/opwegmetwaterstof.nl/urls.txt)|1|Urls|
 
 
 ## Statistics
@@ -34,8 +34,6 @@ tags: dutchgov
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://opwegmetwaterstof.nl](https://opwegmetwaterstof.nl)| | **F**|Apache/2| | | | | | | | :white_check_mark: | |Apache HTTP Server:2|403 Forbidden|
-|[https://www.opwegmetwaterstof.nl](https://www.opwegmetwaterstof.nl)| | **F**|Apache/2| | | | | | | | :white_check_mark: | |Apache HTTP Server:2|403 Forbidden|
 |[https://email.opwegmetwaterstof.nl](https://email.opwegmetwaterstof.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 
 

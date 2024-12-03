@@ -35,7 +35,7 @@ tags: dutchgov
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[https://defensietalenten.nl](https://defensietalenten.nl)| | **F**|Ponos Maximum| | | | | | | | :white_check_mark: | |HSTS||
-|[https://kvms.defensietalenten.nl](https://kvms.defensietalenten.nl)| | **F**|Apache/2.4.62 (Debian)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.62 Debian PHP:8.1.29||
+|[https://kvms.defensietalenten.nl](https://kvms.defensietalenten.nl)| | **F**|Apache/2.4.62 (Debian)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.62 Debian PHP:8.1.31||
 |[https://www.defensietalenten.nl](https://www.defensietalenten.nl)| | **F**|Ponos Maximum| | | | | | | | :white_check_mark: | |HSTS||
 
 

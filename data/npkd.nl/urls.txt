@@ -1,2 +1,3 @@
 https://crl.npkd.nl
 https://www.npkd.nl
+http://npkd.nl

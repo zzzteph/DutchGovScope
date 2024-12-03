@@ -2,10 +2,10 @@
 layout: default
 title: "nationaalcoordinatorgroningen.nl"
 permalink: "/dutchgov/nationaalcoordinatorgroningen.nl.html"
-subdomains_count: 9
-urls_count: 9
+subdomains_count: 11
+urls_count: 11
 ssl_rank: 
-http_rank: C
+http_rank: D
 security_txt: 6
 url_link: /data/nationaalcoordinatorgroningen.nl/urls.txt
 subdomains_link: /data/nationaalcoordinatorgroningen.nl/subdomains.txt
@@ -19,14 +19,14 @@ tags: dutchgov
 
 
  - **SSL Grade**:
- - **HTTP Security Grade**:C
+ - **HTTP Security Grade**:D
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:6
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/nationaalcoordinatorgroningen.nl/subdomains.txt)|9|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/nationaalcoordinatorgroningen.nl/urls.txt)|9|Urls|
+|[subdomains.txt](/DutchGovScope/data/nationaalcoordinatorgroningen.nl/subdomains.txt)|11|Alive subdomains|
+|[urls.txt](/DutchGovScope/data/nationaalcoordinatorgroningen.nl/urls.txt)|11|Urls|
 
 
 ## Statistics
@@ -43,5 +43,7 @@ tags: dutchgov
 |[https://intranet-prod.nationaalcoordinatorgroningen.nl](https://intranet-prod.nationaalcoordinatorgroningen.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|403 Forbidden|
 |[https://intranet.nationaalcoordinatorgroningen.nl](https://intranet.nationaalcoordinatorgroningen.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|403 Forbidden|
 |[https://jet-test.nationaalcoordinatorgroningen.nl](https://jet-test.nationaalcoordinatorgroningen.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|403 Forbidden|
+|[http://ad.nlemail.awareness.nationaalcoordinatorgroningen.nl](http://ad.nlemail.awareness.nationaalcoordinatorgroningen.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |HSTS Nginx||
+|[https://jet-acc.nationaalcoordinatorgroningen.nl](https://jet-acc.nationaalcoordinatorgroningen.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|403 Forbidden|
 
 

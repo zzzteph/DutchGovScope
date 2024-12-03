@@ -3,7 +3,7 @@ layout: default
 title: "waarderingskamer.nl"
 permalink: "/dutchgov/waarderingskamer.nl.html"
 subdomains_count: 13
-urls_count: 12
+urls_count: 13
 ssl_rank: 
 http_rank: D
 security_txt: 0
@@ -26,7 +26,7 @@ tags: dutchgov
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/DutchGovScope/data/waarderingskamer.nl/subdomains.txt)|13|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/waarderingskamer.nl/urls.txt)|12|Urls|
+|[urls.txt](/DutchGovScope/data/waarderingskamer.nl/urls.txt)|13|Urls|
 
 
 ## Statistics
@@ -46,5 +46,6 @@ tags: dutchgov
 |[http://wem-live.waarderingskamer.nl](http://wem-live.waarderingskamer.nl)| | **E**|| | | | | | | | :white_check_mark: | ||302 Found|
 |[https://woz-it.waarderingskamer.nl](https://woz-it.waarderingskamer.nl)| | **C**|nginx|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS Microsoft ASP.NET Nginx|WOZ-IT|
 |[https://scim.waarderingskamer.nl](https://scim.waarderingskamer.nl)| | **B**|| | | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |||
+|[http://testnoc.waarderingskamer.nl](http://testnoc.waarderingskamer.nl)| | **F**|nginx|:o: | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Laravel Nginx PHP|Weakpass|
 
 

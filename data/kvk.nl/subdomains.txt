@@ -44,7 +44,6 @@ ondertekenen-id.kvk.nl
 rhub.kvk.nl
 sdgapi.acp.ondernemersplein.kvk.nl
 sdgapi.ondernemersplein.kvk.nl
-staging.werkenbij.kvk.nl
 static.kvk.nl
 status.kvk.nl
 swp.kvk.nl

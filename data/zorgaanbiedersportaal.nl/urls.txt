@@ -1,8 +1,7 @@
-https://acceptatie.beheer.locatieregister.zorgaanbiedersportaal.nl
-https://acceptatie.beheer.zorgaanbiedersportaal.nl
-https://acceptatie.mijn.melding.zorgaanbiedersportaal.nl
+http://acceptatie.beheer.locatieregister.zorgaanbiedersportaal.nl
+http://acceptatie.beheer.zorgaanbiedersportaal.nl
+http://acceptatie.mijn.melding.zorgaanbiedersportaal.nl
 https://beheer.locatieregister.zorgaanbiedersportaal.nl
-https://mijn.geschilleninstantie.zorgaanbiedersportaal.nl
 https://mijn.locatieregister.zorgaanbiedersportaal.nl
 https://mijn.melding.zorgaanbiedersportaal.nl
 https://mijn.zorgaanbiedersportaal.nl
@@ -11,5 +10,5 @@ https://zorgaanbiedersportaal.nl
 https://zoeken.zorgaanbiedersportaal.nl
 https://mijn.toelatingsvergunning.zorgaanbiedersportaal.nl
 https://beheer.zorgaanbiedersportaal.nl
-https://acceptatie.api.zorgaanbiedersportaal.nl
+http://acceptatie.api.zorgaanbiedersportaal.nl
 http://api.zorgaanbiedersportaal.nl

@@ -7,7 +7,6 @@ https://www.rdi.nl
 https://identificatie.rdi.nl
 https://infoportal.rdi.nl
 https://mijn.rdi.nl
-https://onderzoek.rdi.nl
 https://prod.radar.rdi.nl
 https://radar.rdi.nl
 https://uploadmodule.rdi.nl

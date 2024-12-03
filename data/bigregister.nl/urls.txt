@@ -1,4 +1,4 @@
-https://acceptatie.advieswijzer.bigregister.nl
+http://acceptatie.advieswijzer.bigregister.nl
 https://advieswijzer.bigregister.nl
 http://api.bigregister.nl
 https://beheer.bigregister.nl

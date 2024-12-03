@@ -1,6 +1,12 @@
 https://acc-referentiegegevens.justid.nl
 https://ainformatieportaal.justid.nl
 https://tst-referentiegegevens.justid.nl
+https://ews-external.justid.nl
+https://lyncdiscover.justid.nl
+https://meet.justid.nl
+https://schedule.justid.nl
+https://sfbrppool01.justid.nl
+https://autodiscover.justid.nl
 https://referentiegegevens.justid.nl
 https://informatieportaal.justid.nl
 https://opendata.justid.nl

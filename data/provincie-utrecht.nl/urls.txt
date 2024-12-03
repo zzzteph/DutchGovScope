@@ -49,6 +49,7 @@ https://wortel183.provincie-utrecht.nl
 https://magazine.provincie-utrecht.nl
 https://mailing.provincie-utrecht.nl
 https://monitorklimaatadaptatie.provincie-utrecht.nl
+https://octopus-docs.provincie-utrecht.nl
 https://octopus.provincie-utrecht.nl
 https://octopus-acc-docs.provincie-utrecht.nl
 https://octopus-acc.provincie-utrecht.nl
@@ -61,9 +62,11 @@ https://sap-crm.provincie-utrecht.nl
 https://search-a.provincie-utrecht.nl
 https://search.provincie-utrecht.nl
 https://slechtvalk.provincie-utrecht.nl
+https://sslvpn-hth.provincie-utrecht.nl
 https://sslvpn.provincie-utrecht.nl
 https://stateninformatie.provincie-utrecht.nl
 https://www.stateninformatie.provincie-utrecht.nl
+https://tramdashboard.provincie-utrecht.nl
 https://vctu-api.provincie-utrecht.nl
 https://vctu.provincie-utrecht.nl
 https://veiligdelen.provincie-utrecht.nl
@@ -72,6 +75,7 @@ http://wortel176.provincie-utrecht.nl
 https://werkenbij.provincie-utrecht.nl
 https://geotestservices.provincie-utrecht.nl
 https://geofme-test.provincie-utrecht.nl
+https://geoservices-srv.provincie-utrecht.nl
 https://provincie-utrecht.nl
 https://login.provincie-utrecht.nl
 https://wortel174.provincie-utrecht.nl
@@ -86,5 +90,7 @@ https://mfa.provincie-utrecht.nl
 http://localhost.provincie-utrecht.nl
 http://autodiscover.provincie-utrecht.nl
 https://burgemeesters.provincie-utrecht.nl
+https://ris.provincie-utrecht.nl
 https://zsd.provincie-utrecht.nl
 https://sap-s4h-p.provincie-utrecht.nl
+https://atlas-ontw.provincie-utrecht.nl

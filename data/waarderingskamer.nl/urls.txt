@@ -10,3 +10,4 @@ https://search.waarderingskamer.nl
 http://wem-live.waarderingskamer.nl
 https://woz-it.waarderingskamer.nl
 https://scim.waarderingskamer.nl
+http://testnoc.waarderingskamer.nl

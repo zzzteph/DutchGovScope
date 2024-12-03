@@ -3,7 +3,6 @@ tst-bergerselect.rws.nl
 acc-bergerselect.rws.nl
 acc-webportaal.rws.nl
 acc-geo.rws.nl
-acc-inloggen.rws.nl
 acc-maps.rws.nl
 acc-port-enc.rws.nl
 acc-sonarreg.rws.nl
@@ -69,7 +68,6 @@ eov.acceptatie.rws.nl
 esb.rws.nl
 fam.rws.nl
 geo.rws.nl
-geoservices.rws.nl
 geostenen.grid.rws.nl
 geoweb.rws.nl
 git.rws.nl
@@ -90,7 +88,6 @@ poc-werkplek.rws.nl
 preprod.beterbediend.rws.nl
 protide.rws.nl
 prs.rws.nl
-ptp.acc-inloggen.rws.nl
 ptp.inloggen.rws.nl
 rastoken.rws.nl
 rhel8.wabinfo.rws.nl
@@ -110,7 +107,6 @@ techniekacademie.rws.nl
 zwerfafval.rws.nl
 test.esb.rws.nl
 test.lma.rws.nl
-test.nlhull.rws.nl
 test.nlrdms.rws.nl
 tgox-acc.rws.nl
 tgox.rws.nl
@@ -158,10 +154,7 @@ matroos.rws.nl
 status.gridacc.rws.nl
 enterpriseenrollment.rws.nl
 iot.grid.rws.nl
-mars2.ptp.acc-inloggen.rws.nl
-schadeportaal.ptp.acc-inloggen.rws.nl
 digitaltwin-dev.rws.nl
-eventrecorder.ptp.acc-inloggen.rws.nl
 acc-wvp.rws.nl
 aquo-kit.rws.nl
 mip-proxy-acc.rws.nl

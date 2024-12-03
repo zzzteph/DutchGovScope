@@ -64,7 +64,6 @@ https://houseofrepresentatives.acceptatie.tweedekamer.nl
 https://houseofrepresentatives.test.tweedekamer.nl
 https://lijstvangevallenen.acceptatie.tweedekamer.nl
 https://lijstvangevallenen.test.tweedekamer.nl
-https://opendata.acceptatie.tweedekamer.nl
 https://opendata.test.tweedekamer.nl
 https://werkenbij.acceptatie.tweedekamer.nl
 https://livestream-backup.tweedekamer.nl
@@ -77,8 +76,6 @@ https://livestreaming.b67.tweedekamer.nl
 https://livestreaming.b67acc.tweedekamer.nl
 https://livestreaming.b67bu.tweedekamer.nl
 https://meldingenapp.tweedekamer.nl
-https://onderzoek.tweedekamer.nl
-https://www.onderzoek.tweedekamer.nl
 https://rapportaardgaswinning.tweedekamer.nl
 https://rapportaardgaswinninggroningen.tweedekamer.nl
 https://werkenbij.tweedekamer.nl

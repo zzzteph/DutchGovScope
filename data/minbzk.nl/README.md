@@ -5,8 +5,8 @@
 
 
  - **SSL Grade**:
- - **HTTP Security Grade**:C
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:4
+ - **HTTP Security Grade**:D
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:2
 
 
 | File       | Count | Info |
@@ -25,8 +25,8 @@
 |[https://flowlogics.minbzk.nl](https://flowlogics.minbzk.nl)| | **F**|Microsoft-IIS/8.5| | | | | | | | :white_check_mark: | |Basic IIS:8.5 Microsoft ASP.NET Windows Server|401 - Unauthoriz...|
 |[https://loc.minbzk.nl](https://loc.minbzk.nl)| | **B**|Class|:white_check_mark: |:white_check_mark: | | |:warning: | | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://mft-e.minbzk.nl](https://mft-e.minbzk.nl)| | **F**|SecureTransport 5.5-20230427 (build: 3179) - Linux| | | | | | | | :white_check_mark: | |HSTS||
-|[https://minbzk.nl](https://minbzk.nl)| | **A**|Microsoft-IIS/10.0| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS IIS:10.0 Windows Server|Document Moved|
-|[https://www.minbzk.nl](https://www.minbzk.nl)| | **A**|Microsoft-IIS/10.0| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS IIS:10.0 Windows Server|Document Moved|
+|[https://minbzk.nl](https://minbzk.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
+|[https://www.minbzk.nl](https://www.minbzk.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
 |[https://prisma.minbzk.nl](https://prisma.minbzk.nl)| | **C**|Apache|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS Varnish:6.6||
 |[https://wikixl-saml.minbzk.nl](https://wikixl-saml.minbzk.nl)| | **B**|Apache| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS|Redirect|
 |[https://rbl-talent.minbzk.nl](https://rbl-talent.minbzk.nl)| | **C**|Class|:white_check_mark: |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | |HSTS||

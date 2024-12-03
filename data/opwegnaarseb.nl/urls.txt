@@ -5,3 +5,5 @@ https://cpanel.opwegnaarseb.nl
 https://e-learning.opwegnaarseb.nl
 https://opwegnaarseb.nl
 https://www.opwegnaarseb.nl
+https://feeds.opwegnaarseb.nl
+https://opendata.opwegnaarseb.nl

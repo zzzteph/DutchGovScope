@@ -84,7 +84,6 @@ https://auth.rivm.nl
 https://sso-webauth.rivm.nl
 https://autodiscover.rivm.nl
 https://beleving.rivm.nl
-http://informatiehulp.rivm.nl
 https://signalen.rivm.nl
 https://bestellingen.rivm.nl
 http://www.bestellingen.rivm.nl
@@ -182,6 +181,9 @@ https://nevo-online.rivm.nl
 https://nevo.rivm.nl
 https://nieuwsbrief.rivm.nl
 http://nivelform.rivm.nl
+https://nsl-monitoring.rivm.nl
+https://samenmeten.rivm.nl
+https://sensors.rivm.nl
 https://omgevingsveiligheid.rivm.nl
 http://ont-bestellingen.rivm.nl
 http://ontw.api-samenmeten.rivm.nl

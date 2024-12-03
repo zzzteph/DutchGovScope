@@ -1,3 +1,3 @@
-https://www.kennisplatformveehouderij.nl
-https://kennisplatformveehouderij.nl
+http://www.kennisplatformveehouderij.nl
+http://kennisplatformveehouderij.nl
 http://localhost.kennisplatformveehouderij.nl

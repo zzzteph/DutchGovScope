@@ -7,3 +7,4 @@ https://www.symposium.keringhuis.nl
 http://autodiscover.keringhuis.nl
 http://localhost.keringhuis.nl
 https://pop.keringhuis.nl
+https://smtpdma.keringhuis.nl

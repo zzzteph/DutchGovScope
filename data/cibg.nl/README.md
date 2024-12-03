@@ -11,8 +11,8 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/cibg.nl/subdomains.txt)|49|Alive subdomains|
-|[urls.txt](/data/cibg.nl/urls.txt)|49|Urls|
+|[subdomains.txt](/data/cibg.nl/subdomains.txt)|50|Alive subdomains|
+|[urls.txt](/data/cibg.nl/urls.txt)|50|Urls|
 
 
 ## Statistics
@@ -22,14 +22,14 @@
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[http://acceptatie.ag-dcr.cibg.nl](http://acceptatie.ag-dcr.cibg.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[http://acceptatie.api.kcc.cibg.nl](http://acceptatie.api.kcc.cibg.nl)| | **F**|BigIP| | | | | | | | :white_check_mark: | |F5 BigIP||
-|[https://acceptatie.beheer.lir.cibg.nl](https://acceptatie.beheer.lir.cibg.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
-|[https://acceptatie.beheer.lrza.cibg.nl](https://acceptatie.beheer.lrza.cibg.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
-|[https://acceptatie.bestandsportaal.cibg.nl](https://acceptatie.bestandsportaal.cibg.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|acceptatie.besta...|
-|[https://acceptatie.designsystem.cibg.nl](https://acceptatie.designsystem.cibg.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
+|[http://acceptatie.beheer.lir.cibg.nl](http://acceptatie.beheer.lir.cibg.nl)| | **A**|BigIP| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |F5 BigIP||
+|[http://acceptatie.beheer.lrza.cibg.nl](http://acceptatie.beheer.lrza.cibg.nl)| | **A**|BigIP| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |F5 BigIP||
+|[http://acceptatie.bestandsportaal.cibg.nl](http://acceptatie.bestandsportaal.cibg.nl)| | **A**|BigIP| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |F5 BigIP||
+|[http://acceptatie.designsystem.cibg.nl](http://acceptatie.designsystem.cibg.nl)| | **A**|BigIP| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |F5 BigIP||
 |[https://acceptatie.meldingen.klopt.cibg.nl](https://acceptatie.meldingen.klopt.cibg.nl)| | **F**|awselb/2.0| | | | | | | | :white_check_mark: | |Amazon ELB Amazon Web Services||
-|[https://acceptatie.portaal.competent.cibg.nl](https://acceptatie.portaal.competent.cibg.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
-|[https://acceptatie.publicwebservices.cibg.nl](https://acceptatie.publicwebservices.cibg.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
-|[https://acceptatie.tmv.cibg.nl](https://acceptatie.tmv.cibg.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
+|[http://acceptatie.portaal.competent.cibg.nl](http://acceptatie.portaal.competent.cibg.nl)| | **A**|BigIP| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |F5 BigIP||
+|[http://acceptatie.publicwebservices.cibg.nl](http://acceptatie.publicwebservices.cibg.nl)| | **A**|BigIP| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |F5 BigIP||
+|[http://acceptatie.tmv.cibg.nl](http://acceptatie.tmv.cibg.nl)| | **A**|BigIP| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |F5 BigIP||
 |[http://ag-dcr.cibg.nl](http://ag-dcr.cibg.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[http://api.kcc.cibg.nl](http://api.kcc.cibg.nl)| | **F**|BigIP| | | | | | | | :white_check_mark: | |F5 BigIP||
 |[https://chatapi.klopt.cibg.nl](https://chatapi.klopt.cibg.nl)| | **E**|| | | | | | | | :white_check_mark: | ||403 Forbidden|
@@ -60,8 +60,9 @@
 |[http://test.digikoppeling.cibg.nl](http://test.digikoppeling.cibg.nl)| | **D**|-| | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://test.publicwebservices.cibg.nl](https://test.publicwebservices.cibg.nl)| | **A**|-| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://tmv.cibg.nl](https://tmv.cibg.nl)| | **A**|-| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
-|[https://uzipas.lir.cibg.nl](https://uzipas.lir.cibg.nl)| | **A**|-| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Landelijk Implan...|
+|[https://uzipas.lir.cibg.nl](https://uzipas.lir.cibg.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Landelijk Implan...|
 |[http://webservices.lrza.cibg.nl](http://webservices.lrza.cibg.nl)| | **F**|BigIP| | | | | | | | :white_check_mark: | |F5 BigIP||
+|[https://acceptatie.beheer.generiekeregistratiedienst.cibg.nl](https://acceptatie.beheer.generiekeregistratiedienst.cibg.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[http://acceptatie.digikoppeling2.cibg.nl](http://acceptatie.digikoppeling2.cibg.nl)| | **F**|BigIP| | | | | | | | :white_check_mark: | |F5 BigIP||
 |[https://behandel.generiekeregistratiedienst.cibg.nl](https://behandel.generiekeregistratiedienst.cibg.nl)| | **A**|-| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://beheer.generiekeregistratiedienst.cibg.nl](https://beheer.generiekeregistratiedienst.cibg.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||

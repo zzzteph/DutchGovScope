@@ -1,4 +1,5 @@
 https://apim-icc.svb.nl
+https://applicationstest.svb.nl
 https://app-a.svb.nl
 https://app-o.svb.nl
 https://app-t.svb.nl
@@ -20,6 +21,7 @@ https://formulieren.svb.nl
 https://gemeenten.svb.nl
 https://internetdienstensiam.svb.nl
 https://leerplein.svb.nl
+https://leveranciersvdi.svb.nl
 https://live.svb.nl
 https://mft-acc.svb.nl
 https://mijnpgb-siam.svb.nl
@@ -32,6 +34,12 @@ https://onderzoek.svb.nl
 https://pages.svb.nl
 https://pers.svb.nl
 https://portal.entreepgb.svb.nl
+https://rdsapplications01.svb.nl
+https://rdsapplications02.svb.nl
+https://rdsapplications03.svb.nl
+https://rdsapplications04.svb.nl
+https://rdsapplications05.svb.nl
+https://rdsapplications06.svb.nl
 https://remotedesktop.svb.nl
 https://secure5.svb.nl
 https://svb.nl

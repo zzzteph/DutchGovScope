@@ -1,3 +1,4 @@
+acceptatie.beheer.donorregister.nl
 acceptatie.mijn.donorregister.nl
 acceptatie.raadplegen.donorregister.nl
 acceptatie.webservices.donorregister.nl
