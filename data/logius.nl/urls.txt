@@ -44,8 +44,7 @@ http://amp-pre.logius.nl
 https://gm.mev.logius.nl
 https://logius.nl
 http://lca.logius.nl
-https://intrekkingsportaal.digipoort.logius.nl
-https://aansluitsuite.digipoort.logius.nl
-https://beheerportaal.digipoort.logius.nl
-https://gebruikersportaal-duo.digipoort.logius.nl
-https://gebruikersportaal.digipoort.logius.nl
+http://sonarqube.lpc.logius.nl
+http://grafana.lpc.logius.nl
+http://kibana-prod.lpc.logius.nl
+http://kibana.lpc.logius.nl

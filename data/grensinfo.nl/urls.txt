@@ -1,2 +1,3 @@
 https://grensinfo.nl
 https://www.grensinfo.nl
+https://azure-a-poc.grensinfo.nl

@@ -4,10 +4,14 @@ http://acceptatie.beheer.lir.cibg.nl
 http://acceptatie.beheer.lrza.cibg.nl
 http://acceptatie.bestandsportaal.cibg.nl
 http://acceptatie.designsystem.cibg.nl
+http://acceptatie.digikoppeling.cibg.nl
+https://acceptatie.lir.cibg.nl
 https://acceptatie.meldingen.klopt.cibg.nl
 http://acceptatie.portaal.competent.cibg.nl
+https://acceptatie.portaal.digilevering.cibg.nl
 http://acceptatie.publicwebservices.cibg.nl
 http://acceptatie.tmv.cibg.nl
+https://acceptatie.uzipas.lir.cibg.nl
 http://ag-dcr.cibg.nl
 http://api.kcc.cibg.nl
 https://chatapi.klopt.cibg.nl
@@ -40,6 +44,7 @@ https://test.publicwebservices.cibg.nl
 https://tmv.cibg.nl
 https://uzipas.lir.cibg.nl
 http://webservices.lrza.cibg.nl
+https://acceptatie.behandel.generiekeregistratiedienst.cibg.nl
 https://acceptatie.beheer.generiekeregistratiedienst.cibg.nl
 http://acceptatie.digikoppeling2.cibg.nl
 https://behandel.generiekeregistratiedienst.cibg.nl

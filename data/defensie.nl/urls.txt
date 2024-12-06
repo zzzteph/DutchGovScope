@@ -7,5 +7,4 @@ https://opendata.defensie.nl
 https://opendata.english.defensie.nl
 https://www.defensie.nl
 https://gw.defensie.nl
-https://mrt.defensie.nl
 https://nimh-beeldbank.defensie.nl

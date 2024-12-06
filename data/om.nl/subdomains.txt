@@ -3,6 +3,7 @@ nevenbetrekkingen.om.nl
 www2.om.nl
 dialin.om.nl
 lyncdiscover.om.nl
+meet.om.nl
 webservices.om.nl
 fcvpn.om.nl
 feeds.om.nl

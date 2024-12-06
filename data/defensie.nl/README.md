@@ -11,8 +11,8 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/defensie.nl/subdomains.txt)|11|Alive subdomains|
-|[urls.txt](/data/defensie.nl/urls.txt)|11|Urls|
+|[subdomains.txt](/data/defensie.nl/subdomains.txt)|10|Alive subdomains|
+|[urls.txt](/data/defensie.nl/urls.txt)|10|Urls|
 
 
 ## Statistics
@@ -29,7 +29,6 @@
 |[https://opendata.english.defensie.nl](https://opendata.english.defensie.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://www.defensie.nl](https://www.defensie.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Ministerie van D...|
 |[https://gw.defensie.nl](https://gw.defensie.nl)| | **A**|Apache| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS|403 Forbidden|
-|[https://mrt.defensie.nl](https://mrt.defensie.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS|Not Found|
 |[https://nimh-beeldbank.defensie.nl](https://nimh-beeldbank.defensie.nl)| | **B**|nginx|:warning: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS HTTP/3 Nginx|301 Moved Perman...|
 
 

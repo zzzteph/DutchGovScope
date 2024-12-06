@@ -7,3 +7,4 @@ https://vpzf.ikz.nl
 http://autodiscover.ikz.nl
 https://dashboards.ikz.nl
 https://feeds.ikz.nl
+https://portaal-a.ikz.nl

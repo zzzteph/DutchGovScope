@@ -6,7 +6,6 @@ jupyter.cursus.rijkscloud.nl
 rstudio.cursus.rijkscloud.nl
 shiny.cursus.rijkscloud.nl
 api.ix.rijkscloud.nl
-api.performance.ix.rijkscloud.nl
 git-dev.rijkscloud.nl
 chat-dev.rijkscloud.nl
 chat.datascience.rijkscloud.nl

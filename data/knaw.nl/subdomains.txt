@@ -289,7 +289,6 @@ beta.nmgn.huygens.knaw.nl
 bgb.resources.huygens.knaw.nl
 resources.huygens.knaw.nl
 bioinf.nioo.knaw.nl
-bodemdierendag.nioo.knaw.nl
 booking.nin.knaw.nl
 rds.nioo.knaw.nl
 rdsgw.nioo.knaw.nl
@@ -482,7 +481,6 @@ emailsanitizer.labs.dans.knaw.nl
 fairaware-api.labs.dans.knaw.nl
 galaxy.bioinf.nioo.knaw.nl
 metadata-enhancer.labs.dans.knaw.nl
-subsite.nioo-acc.knaw.nl
 flippinglakes.nioo.knaw.nl
 www.nioo.knaw.nl
 minioapi2.labs.dans.knaw.nl

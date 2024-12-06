@@ -1,8 +1,6 @@
 https://media.platformwow.nl
 https://cdn.platformwow.nl
 https://email.platformwow.nl
-https://jaarverslag2015.platformwow.nl
-https://jaarverslag2016.platformwow.nl
 https://platformwow.nl
 https://water.platformwow.nl
 https://weg.platformwow.nl

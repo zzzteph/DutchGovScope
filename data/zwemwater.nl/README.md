@@ -12,7 +12,7 @@
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/zwemwater.nl/subdomains.txt)|41|Alive subdomains|
-|[urls.txt](/data/zwemwater.nl/urls.txt)|39|Urls|
+|[urls.txt](/data/zwemwater.nl/urls.txt)|41|Urls|
 
 
 ## Statistics
@@ -59,5 +59,7 @@
 |[https://opwww.zwemwater.nl](https://opwww.zwemwater.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
 |[https://ogcgeo.zwemwater.nl](https://ogcgeo.zwemwater.nl)| | **B**|Apache| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS||
 |[https://index.aspxwww.zwemwater.nl](https://index.aspxwww.zwemwater.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
+|[https://sumava.zwemwater.nl](https://sumava.zwemwater.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
+|[https://stickers.zwemwater.nl](https://stickers.zwemwater.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
 
 

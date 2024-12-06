@@ -3,10 +3,10 @@ layout: default
 title: "gezondeschool.nl"
 permalink: "/dutchgov/gezondeschool.nl.html"
 subdomains_count: 15
-urls_count: 14
+urls_count: 15
 ssl_rank: 
 http_rank: E
-security_txt: 4
+security_txt: 5
 url_link: /data/gezondeschool.nl/urls.txt
 subdomains_link: /data/gezondeschool.nl/subdomains.txt
 categories: dutchgov
@@ -20,13 +20,13 @@ tags: dutchgov
 
  - **SSL Grade**:
  - **HTTP Security Grade**:E
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:4
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:5
 
 
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/DutchGovScope/data/gezondeschool.nl/subdomains.txt)|15|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/gezondeschool.nl/urls.txt)|14|Urls|
+|[urls.txt](/DutchGovScope/data/gezondeschool.nl/urls.txt)|15|Urls|
 
 
 ## Statistics
@@ -48,5 +48,6 @@ tags: dutchgov
 |[http://localhost.gezondeschool.nl](http://localhost.gezondeschool.nl)| | **F**|nginx|:o: | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Laravel Nginx PHP|Weakpass|
 |[https://msoid.gezondeschool.nl](https://msoid.gezondeschool.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Object moved|
 |[https://cms.gezondeschool.nl](https://cms.gezondeschool.nl)| | **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |Basic HSTS Nginx||
+|[https://www.cms.gezondeschool.nl](https://www.cms.gezondeschool.nl)| | **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Nginx||
 
 

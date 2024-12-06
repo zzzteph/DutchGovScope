@@ -6,7 +6,6 @@ https://jupyter.cursus.rijkscloud.nl
 https://rstudio.cursus.rijkscloud.nl
 https://shiny.cursus.rijkscloud.nl
 https://api.ix.rijkscloud.nl
-https://api.performance.ix.rijkscloud.nl
 https://git-dev.rijkscloud.nl
 https://chat-dev.rijkscloud.nl
 https://chat.datascience.rijkscloud.nl

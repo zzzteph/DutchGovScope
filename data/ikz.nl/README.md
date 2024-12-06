@@ -5,14 +5,14 @@
 
 
  - **SSL Grade**:
- - **HTTP Security Grade**:A
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:5
+ - **HTTP Security Grade**:B
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:6
 
 
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/ikz.nl/subdomains.txt)|10|Alive subdomains|
-|[urls.txt](/data/ikz.nl/urls.txt)|9|Urls|
+|[urls.txt](/data/ikz.nl/urls.txt)|10|Urls|
 
 
 ## Statistics
@@ -29,5 +29,6 @@
 |[http://autodiscover.ikz.nl](http://autodiscover.ikz.nl)| | **C**|Microsoft-IIS/10.0| |:white_check_mark: | | | | | | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server||
 |[https://dashboards.ikz.nl](https://dashboards.ikz.nl)| | **F**|openresty| | | | | | | | :white_check_mark: | |Nginx OpenResty||
 |[https://feeds.ikz.nl](https://feeds.ikz.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
+|[https://portaal-a.ikz.nl](https://portaal-a.ikz.nl)| | **D**|nginx| | | | |:warning: | :white_check_mark: | | :white_check_mark: | |Java Nginx||
 
 

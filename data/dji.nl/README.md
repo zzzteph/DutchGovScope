@@ -5,14 +5,14 @@
 
 
  - **SSL Grade**:
- - **HTTP Security Grade**:A
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:12
+ - **HTTP Security Grade**:B
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:10
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/dji.nl/subdomains.txt)|17|Alive subdomains|
-|[urls.txt](/data/dji.nl/urls.txt)|17|Urls|
+|[subdomains.txt](/data/dji.nl/subdomains.txt)|15|Alive subdomains|
+|[urls.txt](/data/dji.nl/urls.txt)|15|Urls|
 
 
 ## Statistics
@@ -33,8 +33,6 @@
 |[https://dvfz.dji.nl](https://dvfz.dji.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Java||
 |[https://intranet.dji.nl](https://intranet.dji.nl)| | **A**|Apache| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Apache HTTP Server HSTS||
 |[https://video.beeldbellen.dji.nl](https://video.beeldbellen.dji.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |HSTS Nginx|Beeldbellen Just...|
-|[https://zorgconnect-acpt.dji.nl](https://zorgconnect-acpt.dji.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS||
-|[https://zorgconnect.dji.nl](https://zorgconnect.dji.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Microsoft ASP.NET||
 |[https://cdn.dji.nl](https://cdn.dji.nl)| | **F**|nginx/1.18.0 + Phusion Passenger(R) 6.0.22| | | | | | | | :white_check_mark: | |Nginx:1.18.0 Phusion Passenger:6.0.22|Service temporar...|
 |[https://ftp.dji.nl](https://ftp.dji.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Microsoft Azure...|
 

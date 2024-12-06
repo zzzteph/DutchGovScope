@@ -44,6 +44,7 @@ https://ondertekenen-id.kvk.nl
 https://rhub.kvk.nl
 https://sdgapi.acp.ondernemersplein.kvk.nl
 https://sdgapi.ondernemersplein.kvk.nl
+https://staging.werkenbij.kvk.nl
 https://static.kvk.nl
 https://status.kvk.nl
 https://swp.kvk.nl

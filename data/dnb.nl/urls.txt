@@ -26,7 +26,6 @@ http://autodiscover.dnb.nl
 http://cn.dnb.nl
 https://formulieren.dnb.nl
 http://www.cn.dnb.nl
-https://designsysteem.dnb.nl
 https://dgsa.dnb.nl
 https://dgsp.dnb.nl
 https://mijn-test.dnb.nl

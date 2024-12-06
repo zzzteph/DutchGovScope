@@ -76,6 +76,8 @@ livestreaming.b67.tweedekamer.nl
 livestreaming.b67acc.tweedekamer.nl
 livestreaming.b67bu.tweedekamer.nl
 meldingenapp.tweedekamer.nl
+onderzoek.tweedekamer.nl
+www.onderzoek.tweedekamer.nl
 rapportaardgaswinning.tweedekamer.nl
 rapportaardgaswinninggroningen.tweedekamer.nl
 werkenbij.tweedekamer.nl

@@ -5,14 +5,14 @@
 
 
  - **SSL Grade**:
- - **HTTP Security Grade**:D
+ - **HTTP Security Grade**:E
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:9
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/logius.nl/subdomains.txt)|55|Alive subdomains|
-|[urls.txt](/data/logius.nl/urls.txt)|51|Urls|
+|[subdomains.txt](/data/logius.nl/subdomains.txt)|50|Alive subdomains|
+|[urls.txt](/data/logius.nl/urls.txt)|50|Urls|
 
 
 ## Statistics
@@ -66,10 +66,9 @@
 |[https://gm.mev.logius.nl](https://gm.mev.logius.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS|403 Forbidden|
 |[https://logius.nl](https://logius.nl)| | **A**|nginx| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
 |[http://lca.logius.nl](http://lca.logius.nl)| | **F**|BigIP| | | | | | | | :white_check_mark: | |F5 BigIP||
-|[https://intrekkingsportaal.digipoort.logius.nl](https://intrekkingsportaal.digipoort.logius.nl)| | **C**||:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|503 Service Temp...|
-|[https://aansluitsuite.digipoort.logius.nl](https://aansluitsuite.digipoort.logius.nl)| | **C**||:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|503 Service Temp...|
-|[https://beheerportaal.digipoort.logius.nl](https://beheerportaal.digipoort.logius.nl)| | **C**||:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|503 Service Temp...|
-|[https://gebruikersportaal-duo.digipoort.logius.nl](https://gebruikersportaal-duo.digipoort.logius.nl)| | **C**||:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|503 Service Temp...|
-|[https://gebruikersportaal.digipoort.logius.nl](https://gebruikersportaal.digipoort.logius.nl)| | **C**||:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|503 Service Temp...|
+|[http://sonarqube.lpc.logius.nl](http://sonarqube.lpc.logius.nl)| | **F**|BigIP| | | | | | | | :white_check_mark: | |F5 BigIP||
+|[http://grafana.lpc.logius.nl](http://grafana.lpc.logius.nl)| | **F**|BigIP| | | | | | | | :white_check_mark: | |F5 BigIP||
+|[http://kibana-prod.lpc.logius.nl](http://kibana-prod.lpc.logius.nl)| | **F**|BigIP| | | | | | | | :white_check_mark: | |F5 BigIP||
+|[http://kibana.lpc.logius.nl](http://kibana.lpc.logius.nl)| | **F**|BigIP| | | | | | | | :white_check_mark: | |F5 BigIP||
 
 

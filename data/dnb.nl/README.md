@@ -11,8 +11,8 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/dnb.nl/subdomains.txt)|133|Alive subdomains|
-|[urls.txt](/data/dnb.nl/urls.txt)|133|Urls|
+|[subdomains.txt](/data/dnb.nl/subdomains.txt)|132|Alive subdomains|
+|[urls.txt](/data/dnb.nl/urls.txt)|132|Urls|
 
 
 ## Statistics
@@ -48,7 +48,6 @@
 |[http://cn.dnb.nl](http://cn.dnb.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |||
 |[https://formulieren.dnb.nl](https://formulieren.dnb.nl)| | **A**||:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS|403 Forbidden|
 |[http://www.cn.dnb.nl](http://www.cn.dnb.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |||
-|[https://designsysteem.dnb.nl](https://designsysteem.dnb.nl)| | **E**|| | | | | | | | :white_check_mark: | |Bootstrap:5.2.3|Azure Static Web...|
 |[https://dgsa.dnb.nl](https://dgsa.dnb.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS|Portal|
 |[https://dgsp.dnb.nl](https://dgsp.dnb.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS|Portal|
 |[https://mijn-test.dnb.nl](https://mijn-test.dnb.nl)| | **A**|| |:white_check_mark: | | |:warning: | | | :white_check_mark: | |Azure Azure Front Door Azure Monitor HSTS|Mijn DNB|

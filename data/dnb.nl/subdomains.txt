@@ -26,7 +26,6 @@ autodiscover.dnb.nl
 cn.dnb.nl
 formulieren.dnb.nl
 www.cn.dnb.nl
-designsysteem.dnb.nl
 dgsa.dnb.nl
 dgsp.dnb.nl
 mijn-test.dnb.nl

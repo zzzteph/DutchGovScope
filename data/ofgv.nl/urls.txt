@@ -1,6 +1,3 @@
-https://ofgv.nl
-https://redactie.ofgv.nl
-https://www.ofgv.nl
 http://autodiscover.ofgv.nl
 https://webmail.ofgv.nl
 https://kenniscentrum.ofgv.nl

@@ -5,7 +5,6 @@ https://www.geoserver.limburg.nl
 https://id.limburg.nl
 https://inloggen-pre.limburg.nl
 https://inloggen.limburg.nl
-https://limburg.nl
 https://mijnsubsidies-acc.limburg.nl
 https://mijnsubsidies.limburg.nl
 https://sbl.limburg.nl

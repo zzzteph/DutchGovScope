@@ -44,11 +44,6 @@ amp-pre.logius.nl
 gm.mev.logius.nl
 logius.nl
 lca.logius.nl
-intrekkingsportaal.digipoort.logius.nl
-aansluitsuite.digipoort.logius.nl
-beheerportaal.digipoort.logius.nl
-gebruikersportaal-duo.digipoort.logius.nl
-gebruikersportaal.digipoort.logius.nl
 sonarqube.lpc.logius.nl
 grafana.lpc.logius.nl
 kibana-prod.lpc.logius.nl

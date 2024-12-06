@@ -81,3 +81,4 @@ https://signing.brabant.nl
 https://webcast.brabant.nl
 https://enterpriseenrollment.brabant.nl
 https://acs.brabant.nl
+https://acs-acpt.brabant.nl

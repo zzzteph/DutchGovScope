@@ -6,13 +6,13 @@
 
  - **SSL Grade**:
  - **HTTP Security Grade**:E
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:4
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:5
 
 
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/gezondeschool.nl/subdomains.txt)|15|Alive subdomains|
-|[urls.txt](/data/gezondeschool.nl/urls.txt)|14|Urls|
+|[urls.txt](/data/gezondeschool.nl/urls.txt)|15|Urls|
 
 
 ## Statistics
@@ -34,5 +34,6 @@
 |[http://localhost.gezondeschool.nl](http://localhost.gezondeschool.nl)| | **F**|nginx|:o: | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Laravel Nginx PHP|Weakpass|
 |[https://msoid.gezondeschool.nl](https://msoid.gezondeschool.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Object moved|
 |[https://cms.gezondeschool.nl](https://cms.gezondeschool.nl)| | **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |Basic HSTS Nginx||
+|[https://www.cms.gezondeschool.nl](https://www.cms.gezondeschool.nl)| | **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Nginx||
 
 

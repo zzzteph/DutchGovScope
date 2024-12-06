@@ -2,10 +2,10 @@
 layout: default
 title: "ctpveldzicht.nl"
 permalink: "/dutchgov/ctpveldzicht.nl.html"
-subdomains_count: 9
-urls_count: 9
+subdomains_count: 5
+urls_count: 5
 ssl_rank: 
-http_rank: D
+http_rank: B
 security_txt: 4
 url_link: /data/ctpveldzicht.nl/urls.txt
 subdomains_link: /data/ctpveldzicht.nl/subdomains.txt
@@ -19,14 +19,14 @@ tags: dutchgov
 
 
  - **SSL Grade**:
- - **HTTP Security Grade**:D
+ - **HTTP Security Grade**:B
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:4
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/ctpveldzicht.nl/subdomains.txt)|9|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/ctpveldzicht.nl/urls.txt)|9|Urls|
+|[subdomains.txt](/DutchGovScope/data/ctpveldzicht.nl/subdomains.txt)|5|Alive subdomains|
+|[urls.txt](/DutchGovScope/data/ctpveldzicht.nl/urls.txt)|5|Urls|
 
 
 ## Statistics
@@ -38,10 +38,6 @@ tags: dutchgov
 |[https://feeds.ctpveldzicht.nl](https://feeds.ctpveldzicht.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://opendata.ctpveldzicht.nl](https://opendata.ctpveldzicht.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://www.ctpveldzicht.nl](https://www.ctpveldzicht.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Home | Centrum v...|
-|[https://ftp.ctpveldzicht.nl](https://ftp.ctpveldzicht.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|Default site|
-|[https://staging.ctpveldzicht.nl](https://staging.ctpveldzicht.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|Default site|
-|[https://staging.english.ctpveldzicht.nl](https://staging.english.ctpveldzicht.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|Default site|
-|[https://english.ctpveldzicht.nl](https://english.ctpveldzicht.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|Default site|
 |[https://mail.ctpveldzicht.nl](https://mail.ctpveldzicht.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|Default site|
 
 

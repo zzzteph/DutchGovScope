@@ -6,13 +6,13 @@
 
  - **SSL Grade**:
  - **HTTP Security Grade**:A
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:10
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:9
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/uziregister.nl/subdomains.txt)|10|Alive subdomains|
-|[urls.txt](/data/uziregister.nl/urls.txt)|10|Urls|
+|[subdomains.txt](/data/uziregister.nl/subdomains.txt)|9|Alive subdomains|
+|[urls.txt](/data/uziregister.nl/urls.txt)|9|Urls|
 
 
 ## Statistics
@@ -28,7 +28,6 @@
 |[https://www.uziregister.nl](https://www.uziregister.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Home | UZI-regis...|
 |[https://formulieren.uziregister.nl](https://formulieren.uziregister.nl)| | **A**|-|:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|UZI-register.nl|
 |[https://uzipas.uziregister.nl](https://uzipas.uziregister.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Inloggen|
-|[http://acceptatie.aanvragen.uziregister.nl](http://acceptatie.aanvragen.uziregister.nl)| | **A**|BigIP| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |F5 BigIP||
 |[https://uziregister.nl](https://uziregister.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
 
 

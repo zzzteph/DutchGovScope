@@ -16,3 +16,5 @@ taiwan.investinholland.com
 bak-jp.investinholland.com
 localhost.investinholland.com
 autodiscover.investinholland.com
+mail.japan.investinholland.com
+pop.japan.investinholland.com

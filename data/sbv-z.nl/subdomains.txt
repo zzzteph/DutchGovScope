@@ -4,9 +4,12 @@ feeds.sbv-z.nl
 opendata.sbv-z.nl
 sbv-z.nl
 www.sbv-z.nl
+raadplegen-acc.sbv-z.nl
 raadplegen-preprod.sbv-z.nl
 raadplegen.sbv-z.nl
 webservice-acc.sbv-z.nl
 webservice-preprod.sbv-z.nl
 webservice.sbv-z.nl
 uzipas.raadplegen.sbv-z.nl
+acceptatie.uzipas.raadplegen.sbv-z.nl
+acceptatie.raadplegen.sbv-z.nl

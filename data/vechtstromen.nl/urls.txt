@@ -1,11 +1,5 @@
 https://acceptatie-zaaksysteem.vechtstromen.nl
 https://zaaksysteem.vechtstromen.nl
-https://www.vechtstromen.nl
-https://app.vechtstromen.nl
-https://intranet.vechtstromen.nl
-https://redactie.vechtstromen.nl
-https://vechtstromen.nl
-https://viaany.vechtstromen.nl
 https://apps-tst.vechtstromen.nl
 https://apps.vechtstromen.nl
 http://autodiscover.vechtstromen.nl
@@ -14,8 +8,6 @@ https://kaarten.vechtstromen.nl
 https://testkaarten.vechtstromen.nl
 https://dialin2.vechtstromen.nl
 https://login.vechtstromen.nl
-https://formulieren.vechtstromen.nl
-https://test.formulieren.vechtstromen.nl
 https://helloid.vechtstromen.nl
 https://www.basisregistratie.vechtstromen.nl
 https://www.mta-sts.vechtstromen.nl

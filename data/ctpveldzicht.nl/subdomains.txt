@@ -2,8 +2,4 @@ ctpveldzicht.nl
 feeds.ctpveldzicht.nl
 opendata.ctpveldzicht.nl
 www.ctpveldzicht.nl
-ftp.ctpveldzicht.nl
-staging.ctpveldzicht.nl
-staging.english.ctpveldzicht.nl
-english.ctpveldzicht.nl
 mail.ctpveldzicht.nl

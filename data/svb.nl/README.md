@@ -6,13 +6,13 @@
 
  - **SSL Grade**:
  - **HTTP Security Grade**:C
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:28
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:29
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/svb.nl/subdomains.txt)|56|Alive subdomains|
-|[urls.txt](/data/svb.nl/urls.txt)|55|Urls|
+|[subdomains.txt](/data/svb.nl/subdomains.txt)|57|Alive subdomains|
+|[urls.txt](/data/svb.nl/urls.txt)|56|Urls|
 
 
 ## Statistics
@@ -37,6 +37,7 @@
 |[https://pgbverwerkingservice.entreepgb.svb.nl](https://pgbverwerkingservice.entreepgb.svb.nl)| | **F**|Webserver| | | | | | | | :white_check_mark: | |HSTS|403 - Forbidden:...|
 |[http://www.entreepgb.svb.nl](http://www.entreepgb.svb.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://cmsintranet.svb.nl](https://cmsintranet.svb.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|403 - Forbidden:...|
+|[https://intranet.svb.nl](https://intranet.svb.nl)| | **A**||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://downloaddomain.svb.nl](https://downloaddomain.svb.nl)| | **B**|BigIP|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |F5 BigIP||
 |[https://outlook.svb.nl](https://outlook.svb.nl)| | **B**|BigIP|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |F5 BigIP||
 |[https://formulieren.svb.nl](https://formulieren.svb.nl)| | **E**|| | | | | | | | :white_check_mark: | |||

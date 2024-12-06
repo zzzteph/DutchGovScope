@@ -6,5 +6,4 @@ https://opendata.uziregister.nl
 https://www.uziregister.nl
 https://formulieren.uziregister.nl
 https://uzipas.uziregister.nl
-http://acceptatie.aanvragen.uziregister.nl
 https://uziregister.nl

@@ -11,7 +11,5 @@ drife-f.dji.nl
 dvfz.dji.nl
 intranet.dji.nl
 video.beeldbellen.dji.nl
-zorgconnect-acpt.dji.nl
-zorgconnect.dji.nl
 cdn.dji.nl
 ftp.dji.nl

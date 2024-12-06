@@ -7,5 +7,4 @@ opendata.defensie.nl
 opendata.english.defensie.nl
 www.defensie.nl
 gw.defensie.nl
-mrt.defensie.nl
 nimh-beeldbank.defensie.nl

@@ -2,6 +2,7 @@ biedboek.nl
 www.biedboek.nl
 productie-nieuw.biedboek.nl
 deployment.biedboek.nl
+share.biedboek.nl
 autodiscover.biedboek.nl
 enterpriseregistration.biedboek.nl
 localhost.biedboek.nl

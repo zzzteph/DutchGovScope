@@ -76,7 +76,6 @@ https://gtpa-acc.rvo.nl
 https://gtpa.rvo.nl
 https://infographics.rvo.nl
 https://www.infographics.rvo.nl
-https://intra-acc.rvo.nl
 http://intra-cms-acc.rvo.nl
 https://intra-cms.rvo.nl
 https://intra.rvo.nl
@@ -110,6 +109,7 @@ https://edicrop.rvo.nl
 https://gdi-b.rvo.nl
 https://ih-static.rvo.nl
 https://kostenkentallen.rvo.nl
+https://ojb.rvo.nl
 https://rhel-p-mijn.rvo.nl
 http://rhel-np-mijn.rvo.nl
 https://sandbox.rvo.nl

@@ -3,7 +3,7 @@ layout: default
 title: "fbb-handreiking.nl"
 permalink: "/dutchgov/fbb-handreiking.nl.html"
 subdomains_count: 2
-urls_count: 1
+urls_count: 2
 ssl_rank: 
 http_rank: F
 security_txt: 0
@@ -26,7 +26,7 @@ tags: dutchgov
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/DutchGovScope/data/fbb-handreiking.nl/subdomains.txt)|2|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/fbb-handreiking.nl/urls.txt)|1|Urls|
+|[urls.txt](/DutchGovScope/data/fbb-handreiking.nl/urls.txt)|2|Urls|
 
 
 ## Statistics
@@ -35,5 +35,6 @@ tags: dutchgov
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[https://www.fbb-handreiking.nl](https://www.fbb-handreiking.nl)| | **F**|nginx|:o: | | | | | | | :white_check_mark: | |Nginx PHP:8.2.26|Handboek Feminis...|
+|[https://fbb-handreiking.nl](https://fbb-handreiking.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx Plesk|301 Moved Perman...|
 
 

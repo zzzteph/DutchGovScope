@@ -4,10 +4,14 @@ acceptatie.beheer.lir.cibg.nl
 acceptatie.beheer.lrza.cibg.nl
 acceptatie.bestandsportaal.cibg.nl
 acceptatie.designsystem.cibg.nl
+acceptatie.digikoppeling.cibg.nl
+acceptatie.lir.cibg.nl
 acceptatie.meldingen.klopt.cibg.nl
 acceptatie.portaal.competent.cibg.nl
+acceptatie.portaal.digilevering.cibg.nl
 acceptatie.publicwebservices.cibg.nl
 acceptatie.tmv.cibg.nl
+acceptatie.uzipas.lir.cibg.nl
 ag-dcr.cibg.nl
 api.kcc.cibg.nl
 chatapi.klopt.cibg.nl
@@ -40,6 +44,7 @@ test.publicwebservices.cibg.nl
 tmv.cibg.nl
 uzipas.lir.cibg.nl
 webservices.lrza.cibg.nl
+acceptatie.behandel.generiekeregistratiedienst.cibg.nl
 acceptatie.beheer.generiekeregistratiedienst.cibg.nl
 acceptatie.digikoppeling2.cibg.nl
 behandel.generiekeregistratiedienst.cibg.nl

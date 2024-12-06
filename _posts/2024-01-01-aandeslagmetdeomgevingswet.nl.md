@@ -2,11 +2,11 @@
 layout: default
 title: "aandeslagmetdeomgevingswet.nl"
 permalink: "/dutchgov/aandeslagmetdeomgevingswet.nl.html"
-subdomains_count: 3
-urls_count: 3
+subdomains_count: 0
+urls_count: 0
 ssl_rank: 
-http_rank: A
-security_txt: 3
+http_rank: F
+security_txt: 0
 url_link: /data/aandeslagmetdeomgevingswet.nl/urls.txt
 subdomains_link: /data/aandeslagmetdeomgevingswet.nl/subdomains.txt
 categories: dutchgov
@@ -19,14 +19,14 @@ tags: dutchgov
 
 
  - **SSL Grade**:
- - **HTTP Security Grade**:A
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:3
+ - **HTTP Security Grade**:F
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:0
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/aandeslagmetdeomgevingswet.nl/subdomains.txt)|3|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/aandeslagmetdeomgevingswet.nl/urls.txt)|3|Urls|
+|[subdomains.txt](/DutchGovScope/data/aandeslagmetdeomgevingswet.nl/subdomains.txt)|0|Alive subdomains|
+|[urls.txt](/DutchGovScope/data/aandeslagmetdeomgevingswet.nl/urls.txt)|0|Urls|
 
 
 ## Statistics
@@ -34,8 +34,5 @@ tags: dutchgov
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://aandeslagmetdeomgevingswet.nl](https://aandeslagmetdeomgevingswet.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Google Tag Manager HSTS Microsoft ASP.NET:-|Home | Aan de sl...|
-|[https://www.aandeslagmetdeomgevingswet.nl](https://www.aandeslagmetdeomgevingswet.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Microsoft ASP.NET:-|Document Moved|
-|[https://chw.aandeslagmetdeomgevingswet.nl](https://chw.aandeslagmetdeomgevingswet.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Google Tag Manager HSTS Microsoft ASP.NET:-|Home | Crisis- e...|
 
 
