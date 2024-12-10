@@ -17,3 +17,5 @@ ehpzee.emissieautoriteit.nl
 emissieautoriteit.nl
 jpp.emissieautoriteit.nl
 preprodehd.emissieautoriteit.nl
+mivp.emissieautoriteit.nl
+ehd.emissieautoriteit.nl

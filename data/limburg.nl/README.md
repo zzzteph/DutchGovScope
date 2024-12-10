@@ -6,13 +6,13 @@
 
  - **SSL Grade**:
  - **HTTP Security Grade**:A
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:7
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:8
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/limburg.nl/subdomains.txt)|17|Alive subdomains|
-|[urls.txt](/data/limburg.nl/urls.txt)|17|Urls|
+|[subdomains.txt](/data/limburg.nl/subdomains.txt)|18|Alive subdomains|
+|[urls.txt](/data/limburg.nl/urls.txt)|18|Urls|
 
 
 ## Statistics
@@ -27,6 +27,7 @@
 |[https://id.limburg.nl](https://id.limburg.nl)| | **A**||:warning: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS|302 Found|
 |[https://inloggen-pre.limburg.nl](https://inloggen-pre.limburg.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
 |[https://inloggen.limburg.nl](https://inloggen.limburg.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
+|[http://limburg.nl](http://limburg.nl)| | **A**||:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:-||
 |[https://mijnsubsidies-acc.limburg.nl](https://mijnsubsidies-acc.limburg.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
 |[https://mijnsubsidies.limburg.nl](https://mijnsubsidies.limburg.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|ClientPortal|
 |[https://sbl.limburg.nl](https://sbl.limburg.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||

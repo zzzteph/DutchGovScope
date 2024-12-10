@@ -5,3 +5,4 @@ https://crl.pkioverheid.nl
 https://oid.pkioverheid.nl
 https://pkioverheid.nl
 https://por.pkioverheid.nl
+https://www.pkioverheid.nl

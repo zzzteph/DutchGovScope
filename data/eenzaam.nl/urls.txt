@@ -1,4 +1,2 @@
-https://opendata.eenzaam.nl
 https://www.eenzaam.nl
 https://eenzaam.nl
-https://feeds.eenzaam.nl

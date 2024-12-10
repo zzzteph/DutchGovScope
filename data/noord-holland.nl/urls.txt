@@ -10,8 +10,6 @@ https://automation-node.datalab-prod.aws.noord-holland.nl
 https://datalab.noord-holland.nl
 https://bestanden.noord-holland.nl
 https://cijfers.noord-holland.nl
-http://dataiku.noord-holland.nl
-http://design-node.datalab-prod.aws.noord-holland.nl
 https://eidbroker-pre.noord-holland.nl
 https://eidbroker.noord-holland.nl
 http://ep.noord-holland.nl
@@ -46,7 +44,7 @@ https://acc-pvkontakt.noord-holland.nl
 https://acc-www.noord-holland.nl
 https://test-pvkontakt.noord-holland.nl
 https://test-www.noord-holland.nl
-https://openstad.noord-holland.nl
+http://openstad.noord-holland.nl
 https://www.openstad.noord-holland.nl
 https://api.openstad.noord-holland.nl
 https://druktemonitor.noord-holland.nl

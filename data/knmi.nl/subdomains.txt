@@ -59,4 +59,3 @@ testgeoservices.knmi.nl
 hapi.acc.spaceweather.knmi.nl
 hapi.spaceweather.knmi.nl
 cabauw.knmi.nl
-save-svg.dev.spaceweather.knmi.nl

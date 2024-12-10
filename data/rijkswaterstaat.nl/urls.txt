@@ -44,7 +44,7 @@ https://geo.rijkswaterstaat.nl
 https://geoweb.rijkswaterstaat.nl
 https://iam.rijkswaterstaat.nl
 https://inloggen.rijkswaterstaat.nl
-https://loket.acceptatie.rijkswaterstaat.nl
+http://loket.acceptatie.rijkswaterstaat.nl
 https://loket.rijkswaterstaat.nl
 https://maps.rijkswaterstaat.nl
 https://mars.rijkswaterstaat.nl
@@ -60,6 +60,7 @@ https://rhel8.wabinfo.rijkswaterstaat.nl
 https://spin.rijkswaterstaat.nl
 https://standaarden.rijkswaterstaat.nl
 https://stijlgids.rijkswaterstaat.nl
+http://techniekacademie.rijkswaterstaat.nl
 https://test.botova.rijkswaterstaat.nl
 https://test.esb.rijkswaterstaat.nl
 https://tmxweb.rijkswaterstaat.nl
@@ -74,10 +75,10 @@ https://waterwebservices.beta.rijkswaterstaat.nl
 http://webmail.rijkswaterstaat.nl
 https://zaaksysteem-acc.rijkswaterstaat.nl
 https://zaaksysteem.rijkswaterstaat.nl
+http://zwerfafval.rijkswaterstaat.nl
 https://acc-geo.rijkswaterstaat.nl
 https://static.ont.staging.werkenbij.rijkswaterstaat.nl
 https://innovatieloket-tst.rijkswaterstaat.nl
 https://innovatieloket-acc.rijkswaterstaat.nl
 https://innovatieloket.rijkswaterstaat.nl
-http://waterwebservices.rijkswaterstaat.nl
 https://klimaateffectatlas.rijkswaterstaat.nl

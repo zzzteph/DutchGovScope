@@ -14,6 +14,7 @@ mijn.zorgaanbiedersportaal.nl
 www.zorgaanbiedersportaal.nl
 zorgaanbiedersportaal.nl
 zoeken.zorgaanbiedersportaal.nl
+mijn.toelatingsvergunning.zorgaanbiedersportaal.nl
 beheer.zorgaanbiedersportaal.nl
 acceptatie.api.zorgaanbiedersportaal.nl
 api.zorgaanbiedersportaal.nl

@@ -3,3 +3,9 @@ www.competentnl.nl
 competentnl.nl
 feeds.competentnl.nl
 autodiscover.competentnl.nl
+api-acc.competentnl.nl
+api-a.competentnl.nl
+sparql-acc.competentnl.nl
+sparql-a.competentnl.nl
+api.competentnl.nl
+sparql.competentnl.nl

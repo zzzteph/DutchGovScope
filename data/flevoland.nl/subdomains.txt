@@ -38,7 +38,6 @@ esb-ibabs-preprod.flevoland.nl
 esb-ibabs.flevoland.nl
 esb-preprod.flevoland.nl
 flevoland.nl
-int-prod-01.flevoland.nl
 prod.flevoland.nl
 www.flevoland.nl
 formulieren.flevoland.nl
@@ -57,7 +56,6 @@ micollab.flevoland.nl
 preprodid.flevoland.nl
 stateninformatie.flevoland.nl
 test-cmsintranet.flevoland.nl
-test-intranet.flevoland.nl
 test.flevoland.nl
 testmdm.flevoland.nl
 veiligmailen.flevoland.nl

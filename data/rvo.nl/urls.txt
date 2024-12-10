@@ -76,7 +76,8 @@ https://gtpa-acc.rvo.nl
 https://gtpa.rvo.nl
 https://infographics.rvo.nl
 https://www.infographics.rvo.nl
-http://intra-cms-acc.rvo.nl
+https://intra-acc.rvo.nl
+https://intra-cms-acc.rvo.nl
 https://intra-cms.rvo.nl
 https://intra.rvo.nl
 https://jiraimg-acc.rvo.nl

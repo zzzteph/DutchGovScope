@@ -20,8 +20,8 @@
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://akkoordverbeteringproductsamenstelling.nl](https://akkoordverbeteringproductsamenstelling.nl)| | **A**|Apache/2.4.37 (Red Hat Enterprise Linux)| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server:2.4.37 HSTS Red Hat|301 Moved Perman...|
-|[https://www.akkoordverbeteringproductsamenstelling.nl](https://www.akkoordverbeteringproductsamenstelling.nl)| | **A**|Apache/2.4.37 (Red Hat Enterprise Linux)| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server:2.4.37 Drupal HSTS PHP:8.1.30 Red Hat|Akkoord verbeter...|
+|[https://akkoordverbeteringproductsamenstelling.nl](https://akkoordverbeteringproductsamenstelling.nl)| | **A**|Apache| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS|301 Moved Perman...|
+|[https://www.akkoordverbeteringproductsamenstelling.nl](https://www.akkoordverbeteringproductsamenstelling.nl)| | **A**|Apache| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server Drupal HSTS PHP:8.1.31|Akkoord verbeter...|
 |[http://localhost.akkoordverbeteringproductsamenstelling.nl](http://localhost.akkoordverbeteringproductsamenstelling.nl)| | **F**|nginx|:o: | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Laravel Nginx PHP|Weakpass|
 
 

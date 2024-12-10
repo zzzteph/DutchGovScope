@@ -20,7 +20,7 @@
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://adviezen.raadrvs.nl](https://adviezen.raadrvs.nl)| | **A**|LiteSpeed| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HTTP/3 LiteSpeed PHP:8.2.25||
+|[https://adviezen.raadrvs.nl](https://adviezen.raadrvs.nl)| | **A**|LiteSpeed| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HTTP/3 LiteSpeed PHP:8.2.26||
 |[https://feeds.raadrvs.nl](https://feeds.raadrvs.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://opendata.raadrvs.nl](https://opendata.raadrvs.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://raadrvs.nl](https://raadrvs.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|

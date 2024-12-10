@@ -1,8 +1,6 @@
-https://gezondeschool.nl
-https://www.gezondeschool.nl
-https://www.jouw.gezondeschool.nl
-https://jouw.gezondeschool.nl
-http://sub.gezondeschool.nl
+http://gezondeschool.nl
+http://www.gezondeschool.nl
+http://www.jouw.gezondeschool.nl
 http://acceptatie.gezondeschool.nl
 http://test.gezondeschool.nl
 http://autodiscover.gezondeschool.nl

@@ -2,7 +2,6 @@ https://connect.ikz.nl
 https://ikz.nl
 https://opendata.ikz.nl
 https://www.ikz.nl
-https://mta-sts.ikz.nl
 https://vpzf.ikz.nl
 http://autodiscover.ikz.nl
 https://dashboards.ikz.nl

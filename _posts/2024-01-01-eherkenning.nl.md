@@ -2,8 +2,8 @@
 layout: default
 title: "eherkenning.nl"
 permalink: "/dutchgov/eherkenning.nl.html"
-subdomains_count: 21
-urls_count: 21
+subdomains_count: 20
+urls_count: 20
 ssl_rank: 
 http_rank: C
 security_txt: 3
@@ -25,8 +25,8 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/eherkenning.nl/subdomains.txt)|21|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/eherkenning.nl/urls.txt)|21|Urls|
+|[subdomains.txt](/DutchGovScope/data/eherkenning.nl/subdomains.txt)|20|Alive subdomains|
+|[urls.txt](/DutchGovScope/data/eherkenning.nl/urls.txt)|20|Urls|
 
 
 ## Statistics
@@ -45,7 +45,6 @@ tags: dutchgov
 |[https://prod-dictu.eherkenning.nl](https://prod-dictu.eherkenning.nl)| | **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |Basic HSTS Nginx|401 Authorizatio...|
 |[https://extranet.eherkenning.nl](https://extranet.eherkenning.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|404 Not Found|
 |[https://kpn-eid-acc.sso.eherkenning.nl](https://kpn-eid-acc.sso.eherkenning.nl)| | **A**|Apache| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS|KPN IDentity Ser...|
-|[https://reconi-etoegang-acc.sso.eherkenning.nl](https://reconi-etoegang-acc.sso.eherkenning.nl)| | **A**|Apache| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS|Test Page for th...|
 |[https://kpn-eid-pp.sso.eherkenning.nl](https://kpn-eid-pp.sso.eherkenning.nl)| | **A**|Apache| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS|KPN IDentity Ser...|
 |[https://reconi-etoegang-pp.sso.eherkenning.nl](https://reconi-etoegang-pp.sso.eherkenning.nl)| | **A**|Apache| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS|Reconi IDentity...|
 |[https://kpn-eid.sso.eherkenning.nl](https://kpn-eid.sso.eherkenning.nl)| | **A**|Apache| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS|KPN IDentity Ser...|

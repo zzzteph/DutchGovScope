@@ -2,8 +2,8 @@
 layout: default
 title: "platformwow.nl"
 permalink: "/dutchgov/platformwow.nl.html"
-subdomains_count: 10
-urls_count: 10
+subdomains_count: 12
+urls_count: 12
 ssl_rank: 
 http_rank: D
 security_txt: 2
@@ -25,8 +25,8 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/platformwow.nl/subdomains.txt)|10|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/platformwow.nl/urls.txt)|10|Urls|
+|[subdomains.txt](/DutchGovScope/data/platformwow.nl/subdomains.txt)|12|Alive subdomains|
+|[urls.txt](/DutchGovScope/data/platformwow.nl/urls.txt)|12|Urls|
 
 
 ## Statistics
@@ -37,6 +37,8 @@ tags: dutchgov
 |[https://media.platformwow.nl](https://media.platformwow.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | :warning:| | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0||
 |[https://cdn.platformwow.nl](https://cdn.platformwow.nl)| | **B**|ECAcc (ska/F775)|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Alpine.js Azure Azure CDN Google Tag Manager HSTS|Platform WOW|
 |[https://email.platformwow.nl](https://email.platformwow.nl)| | **C**|Spotler| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
+|[https://jaarverslag2015.platformwow.nl](https://jaarverslag2015.platformwow.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|404 Not Found|
+|[https://jaarverslag2016.platformwow.nl](https://jaarverslag2016.platformwow.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|404 Not Found|
 |[https://platformwow.nl](https://platformwow.nl)| | **A**||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Alpine.js Azure Google Tag Manager HSTS|Platform WOW|
 |[https://water.platformwow.nl](https://water.platformwow.nl)| | **B**|Microsoft-IIS/10.0|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Azure HSTS IIS:10.0 Windows Server|Document Moved|
 |[https://weg.platformwow.nl](https://weg.platformwow.nl)| | **B**|Microsoft-IIS/10.0|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Azure HSTS IIS:10.0 Windows Server|Document Moved|

@@ -6,7 +6,7 @@ subdomains_count: 9
 urls_count: 9
 ssl_rank: 
 http_rank: C
-security_txt: 5
+security_txt: 6
 url_link: /data/waardigheidentrots.nl/urls.txt
 subdomains_link: /data/waardigheidentrots.nl/subdomains.txt
 categories: dutchgov
@@ -20,7 +20,7 @@ tags: dutchgov
 
  - **SSL Grade**:
  - **HTTP Security Grade**:C
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:5
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:6
 
 
 | File       | Count | Info |
@@ -37,7 +37,7 @@ tags: dutchgov
 |[https://congres.waardigheidentrots.nl](https://congres.waardigheidentrots.nl)| | **A**|Microsoft-IIS/10.0| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |IIS:10.0 Windows Server|Document Moved|
 |[https://waardigheidentrots.nl](https://waardigheidentrots.nl)| | **B**||:warning: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Azure Azure Front Door HSTS Microsoft ASP.NET||
 |[https://archief.waardigheidentrots.nl](https://archief.waardigheidentrots.nl)| | **A**|nginx|:warning: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Nginx||
-|[https://m906.waardigheidentrots.nl](https://m906.waardigheidentrots.nl)| | **F**||:o: | | | | | | | :white_check_mark: | |Amazon ALB Amazon CloudFront Amazon Web Services|Error 405 HTTP m...|
+|[https://m906.waardigheidentrots.nl](https://m906.waardigheidentrots.nl)| | **E**|-|:o: | | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Amazon ALB Amazon CloudFront Amazon Web Services||
 |[https://registratie.waardigheidentrots.nl](https://registratie.waardigheidentrots.nl)| | **A**|nginx|:white_check_mark: |:white_check_mark: | | | :white_check_mark:| | :white_check_mark: | :white_check_mark: | |Amazon S3 Amazon Web Services HSTS Nginx PHP|Congres Waardigh...|
 |[https://www.waardigheidentrots.nl](https://www.waardigheidentrots.nl)| | **B**||:warning: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Azure Azure Front Door Google Tag Manager HSTS Microsoft ASP.NET|Waardigheid en t...|
 |[https://portaal.waardigheidentrots.nl](https://portaal.waardigheidentrots.nl)| | **C**|Microsoft-IIS/10.0|:white_check_mark: |:white_check_mark: | | |:warning: | | | :white_check_mark: | |Azure HSTS IIS:10.0 Microsoft ASP.NET Windows Server|Waardigheid en t...|

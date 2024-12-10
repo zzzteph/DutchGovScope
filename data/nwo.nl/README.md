@@ -24,7 +24,7 @@
 |[http://autodiscover.nwo.nl](http://autodiscover.nwo.nl)| | **C**|Microsoft-IIS/10.0| |:white_check_mark: | | | | | | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server||
 |[https://byod.nwo.nl](https://byod.nwo.nl)| | **C**|server| | | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | ||302 Found|
 |[https://enterpriseregistration.nwo.nl](https://enterpriseregistration.nwo.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
-|[https://impact.nwo.nl](https://impact.nwo.nl)| | **C**|nginx| | | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |Nginx|NWO Impact|
+|[https://impact.nwo.nl](https://impact.nwo.nl)| | **A**|nginx| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS Nginx|NWO Impact|
 |[https://impacttest.nwo.nl](https://impacttest.nwo.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|301 Moved Perman...|
 |[https://intranet.nwo.nl](https://intranet.nwo.nl)| | **A**|Apache|:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS|- Joost|
 |[https://matomo.nwo.nl](https://matomo.nwo.nl)| | **E**|Apache|:white_check_mark: | | | |:warning: | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server Matomo Analytics|Sign in - Matomo|

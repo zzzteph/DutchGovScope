@@ -19,7 +19,7 @@ https://ivo-acc.nvwa.nl
 https://ivo.nvwa.nl
 https://iwelcome-preprod.nvwa.nl
 https://iwelcome.nvwa.nl
-https://labvantage-acc.nvwa.nl
+http://labvantage-acc.nvwa.nl
 https://mijn.nvwa.nl
 https://ras-acc.nvwa.nl
 https://www.ras-acc.nvwa.nl

@@ -6,13 +6,13 @@
 
  - **SSL Grade**:
  - **HTTP Security Grade**:B
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:163
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:164
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/overheid.nl/subdomains.txt)|310|Alive subdomains|
-|[urls.txt](/data/overheid.nl/urls.txt)|310|Urls|
+|[subdomains.txt](/data/overheid.nl/subdomains.txt)|311|Alive subdomains|
+|[urls.txt](/data/overheid.nl/urls.txt)|311|Urls|
 
 
 ## Statistics
@@ -22,7 +22,7 @@
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[https://test-internationaal.ondernemen.overheid.nl](https://test-internationaal.ondernemen.overheid.nl)| | **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Nginx|403 Forbidden|
 |[https://acc-internationaal.ondernemen.overheid.nl](https://acc-internationaal.ondernemen.overheid.nl)| | **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Nginx|403 Forbidden|
-|[https://kim.omgevingswet.overheid.nl](https://kim.omgevingswet.overheid.nl)| | **E**|| | | | | | | | :white_check_mark: | |Basic HSTS|Dienst tijdelijk...|
+|[https://kim.omgevingswet.overheid.nl](https://kim.omgevingswet.overheid.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |Basic HSTS|401 Authorizatio...|
 |[https://service.dmo.omgevingswet.overheid.nl](https://service.dmo.omgevingswet.overheid.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|Pagina niet gevo...|
 |[https://sso.acc.omgevingswet.overheid.nl](https://sso.acc.omgevingswet.overheid.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS|Pagina niet gevo...|
 |[https://sso.intpatch.omgevingswet.overheid.nl](https://sso.intpatch.omgevingswet.overheid.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS|Pagina niet gevo...|
@@ -249,7 +249,7 @@
 |[https://puc-acc.overheid.nl](https://puc-acc.overheid.nl)| | **B**|Microsoft-IIS/10.0| |:white_check_mark: | | |:warning: | | | :white_check_mark: | |HSTS IIS:10.0 Microsoft ASP.NET Windows Server|401 - Unauthoriz...|
 |[https://puc-redactie-acc.overheid.nl](https://puc-redactie-acc.overheid.nl)| | **A**|Microsoft-IIS/10.0| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS IIS:10.0 Microsoft ASP.NET Windows Server|403 - Forbidden:...|
 |[https://puc-redactie.overheid.nl](https://puc-redactie.overheid.nl)| | **A**|Microsoft-IIS/10.0|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS IIS:10.0 Microsoft ASP.NET:4.0.30319 Windows Server|PUC Open Data|
-|[https://puc.overheid.nl](https://puc.overheid.nl)| | **C**|Microsoft-IIS/10.0|:white_check_mark: |:white_check_mark: | | |:warning: | | | :white_check_mark: | |HSTS IIS:10.0 Microsoft ASP.NET:4.0.30319 Windows Server|Publicatieplatfo...|
+|[https://puc.overheid.nl](https://puc.overheid.nl)| | **C**|Microsoft-IIS/10.0|:white_check_mark: |:white_check_mark: | | |:warning: | | | :white_check_mark: | |HSTS IIS:10.0 Microsoft ASP.NET Windows Server|Publicatieplatfo...|
 |[https://rd1.toegang.overheid.nl](https://rd1.toegang.overheid.nl)| | **F**|Ponos Maximum| | | | | | | | :white_check_mark: | |HSTS|418 I'm a teapot|
 |[https://rd2.toegang.overheid.nl](https://rd2.toegang.overheid.nl)| | **A**||:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS|Error|
 |[https://regelgeving.omgevingswet.overheid.nl](https://regelgeving.omgevingswet.overheid.nl)| | **C**|unspecified| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
@@ -316,6 +316,7 @@
 |[https://oproepingen-api-preprd-poc.overheid.nl](https://oproepingen-api-preprd-poc.overheid.nl)| | **C**|Microsoft-IIS/10.0| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS IIS:10.0 Microsoft ASP.NET Windows Server|403 - Forbidden:...|
 |[http://demo1-systemteam.overheid.nl](http://demo1-systemteam.overheid.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://digid-stub.lpc.mijn.overheid.nl](https://digid-stub.lpc.mijn.overheid.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|403 Forbidden|
+|[http://ondersteuning.omgevingswet.overheid.nl](http://ondersteuning.omgevingswet.overheid.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:-||
 |[https://pdc.pre.omgevingswet.overheid.nl](https://pdc.pre.omgevingswet.overheid.nl)| | **C**|unspecified| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|Kadaster - Pagin...|
 |[https://pp2.toegang.overheid.nl](https://pp2.toegang.overheid.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS|Error|
 |[https://resolver.int.omgevingswet.overheid.nl](https://resolver.int.omgevingswet.overheid.nl)| | **C**|Unspecified| |:white_check_mark: | | | | | | :white_check_mark: | |Basic HSTS|401 Authorizatio...|

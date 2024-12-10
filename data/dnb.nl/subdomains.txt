@@ -130,3 +130,5 @@ sftp.dnb.nl
 tz-aanvragen.dnb.nl
 tz-aanvragen-acc.dnb.nl
 dlo-acc.dnb.nl
+designsystem.dnb.nl
+firehose.dnb.nl

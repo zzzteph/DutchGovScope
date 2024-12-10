@@ -10,12 +10,6 @@ https://zoeken.ondernemersplein.kvk.nl
 https://api.ondernemersplein.kvk.nl
 https://ondernemersplein.kvk.nl
 http://autodiscover.kvk.nl
-https://locatiescan.kvk.nl
-https://regiodata.kvk.nl
-https://www.bedrijventeller.kvk.nl
-https://www.locatiescan.kvk.nl
-https://www.regiodata.kvk.nl
-https://bedrijventeller.kvk.nl
 https://cia.acp.ondernemersplein.kvk.nl
 https://cia.ondernemersplein.kvk.nl
 https://cia.staging.ondernemersplein.kvk.nl

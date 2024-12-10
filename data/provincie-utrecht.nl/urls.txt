@@ -13,7 +13,6 @@ https://wiki.provincie-utrecht.nl
 https://esp.provincie-utrecht.nl
 https://geotest.provincie-utrecht.nl
 https://geotestservices-srv.provincie-utrecht.nl
-https://sap-fin.provincie-utrecht.nl
 https://webkaart.provincie-utrecht.nl
 https://wortel175.provincie-utrecht.nl
 https://assystnet.provincie-utrecht.nl
@@ -25,13 +24,11 @@ https://nagios.provincie-utrecht.nl
 https://assystnet-test.provincie-utrecht.nl
 https://atlas.provincie-utrecht.nl
 https://auth-preprod.provincie-utrecht.nl
-https://auth.provincie-utrecht.nl
 https://begroting.provincie-utrecht.nl
 https://begroting2016.provincie-utrecht.nl
 https://kadernota.provincie-utrecht.nl
 https://documentgenerator.provincie-utrecht.nl
 https://www.provincie-utrecht.nl
-https://erfgoedexpertteam.provincie-utrecht.nl
 https://nnn-wijzer.provincie-utrecht.nl
 https://omgevingswet.provincie-utrecht.nl
 https://publicaties.provincie-utrecht.nl

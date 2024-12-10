@@ -22,7 +22,7 @@
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[https://a-api.nederlandwereldwijd.nl](https://a-api.nederlandwereldwijd.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
 |[https://acc.opendata.nederlandwereldwijd.nl](https://acc.opendata.nederlandwereldwijd.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|Access Denied|
-|[https://opendata.nederlandwereldwijd.nl](https://opendata.nederlandwereldwijd.nl)| | **F**|cloudflare|:white_check_mark: | | | | | | | :white_check_mark: | |Cloudflare Cloudflare Bot Management||
+|[https://opendata.nederlandwereldwijd.nl](https://opendata.nederlandwereldwijd.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
 |[http://prod2.opendata.nederlandwereldwijd.nl](http://prod2.opendata.nederlandwereldwijd.nl)| | **F**|cloudflare| | | | | | | | :white_check_mark: | |Cloudflare Cloudflare Bot Management|301 Moved Perman...|
 |[https://tst.opendata.nederlandwereldwijd.nl](https://tst.opendata.nederlandwereldwijd.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|Access Denied|
 |[https://api.nederlandwereldwijd.nl](https://api.nederlandwereldwijd.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS||

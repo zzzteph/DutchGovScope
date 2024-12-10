@@ -11,7 +11,7 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/oidji.nl/subdomains.txt)|8|Alive subdomains|
+|[subdomains.txt](/data/oidji.nl/subdomains.txt)|7|Alive subdomains|
 |[urls.txt](/data/oidji.nl/urls.txt)|7|Urls|
 
 

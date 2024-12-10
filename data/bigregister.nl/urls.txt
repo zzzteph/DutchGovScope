@@ -1,4 +1,4 @@
-http://acceptatie.advieswijzer.bigregister.nl
+https://acceptatie.advieswijzer.bigregister.nl
 https://acceptatie.api.bigregister.nl
 https://acceptatie.beheer.bigregister.nl
 https://acceptatie.mijn.bigregister.nl
@@ -19,4 +19,5 @@ https://opendata.bigregister.nl
 https://mijn.bigregister.nl
 https://tea.bigregister.nl
 https://zoeken.bigregister.nl
+https://acceptatie.behandel.bigregister.nl
 https://behandel.bigregister.nl

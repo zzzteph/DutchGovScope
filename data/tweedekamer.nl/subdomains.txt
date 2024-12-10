@@ -109,6 +109,7 @@ vip-acc.tweedekamer.nl
 kva-tst.tweedekamer.nl
 kva.tweedekamer.nl
 plein2-acc.tweedekamer.nl
+sesam-test.tweedekamer.nl
 avgregister.tweedekamer.nl
 handboekgc.tweedekamer.nl
 opendata-wiki.tweedekamer.nl

@@ -27,6 +27,6 @@
 |[https://ccmo.nl](https://ccmo.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
 |[https://english.ccmo.nl](https://english.ccmo.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Home | The Centr...|
 |[https://feeds.ccmo.nl](https://feeds.ccmo.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
-|[http://toetsingonline.ccmo.nl](http://toetsingonline.ccmo.nl)| | **B**|Apache/2.4.59 (Debian)|:warning: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server:2.4.59 Debian|302 Found|
+|[http://toetsingonline.ccmo.nl](http://toetsingonline.ccmo.nl)| | **B**|Apache/2.4.62 (Debian)|:warning: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server:2.4.62 Debian|302 Found|
 
 

@@ -1,1 +1,4 @@
+http://acceptatie.ggo-vergunningverlening-zoeken.nl
+https://ggo-vergunningverlening-zoeken.nl
+https://www.ggo-vergunningverlening-zoeken.nl
 http://localhost.ggo-vergunningverlening-zoeken.nl

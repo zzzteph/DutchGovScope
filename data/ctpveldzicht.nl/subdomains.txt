@@ -2,4 +2,3 @@ ctpveldzicht.nl
 feeds.ctpveldzicht.nl
 opendata.ctpveldzicht.nl
 www.ctpveldzicht.nl
-mail.ctpveldzicht.nl

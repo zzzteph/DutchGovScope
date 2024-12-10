@@ -1,8 +1,8 @@
+odijmond.nl
 open-wave.odijmond.nl
 acc-open-wave.odijmond.nl
 autodiscover.odijmond.nl
 gisviewer.odijmond.nl
-www.odijmond.nl
 intranet.odijmond.nl
 redactie.odijmond.nl
 join.odijmond.nl
@@ -13,3 +13,4 @@ localhost.odijmond.nl
 dusk-open-wave.odijmond.nl
 dusk-acc-open-wave.odijmond.nl
 db.open-wave.odijmond.nl
+jointest.odijmond.nl

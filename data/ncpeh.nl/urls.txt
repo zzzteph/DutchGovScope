@@ -1,5 +1,5 @@
-http://acceptatie.beheer.ncpeh.nl
-http://acceptatie.portaal.ncpeh.nl
+https://acceptatie.beheer.ncpeh.nl
+https://acceptatie.portaal.ncpeh.nl
 https://beheer.ncpeh.nl
 https://feeds.ncpeh.nl
 https://ncpeh.nl

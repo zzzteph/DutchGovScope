@@ -13,7 +13,7 @@ http://www.structuurfondsen.ez.nl
 https://dienstenrichtlijn.ez.nl
 https://exportcontrole.ez.nl
 https://structuurfondsen.ez.nl
-https://wvaopgave.ez.nl
+http://wvaopgave.ez.nl
 http://video.ez.nl
 http://namen.ez.nl
 http://ondernemerschap.ez.nl

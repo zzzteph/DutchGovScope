@@ -5,14 +5,14 @@
 
 
  - **SSL Grade**:
- - **HTTP Security Grade**:B
+ - **HTTP Security Grade**:A
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:6
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/ikz.nl/subdomains.txt)|10|Alive subdomains|
-|[urls.txt](/data/ikz.nl/urls.txt)|10|Urls|
+|[subdomains.txt](/data/ikz.nl/subdomains.txt)|9|Alive subdomains|
+|[urls.txt](/data/ikz.nl/urls.txt)|9|Urls|
 
 
 ## Statistics
@@ -24,7 +24,6 @@
 |[https://ikz.nl](https://ikz.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
 |[https://opendata.ikz.nl](https://opendata.ikz.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://www.ikz.nl](https://www.ikz.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Home | Informati...|
-|[https://mta-sts.ikz.nl](https://mta-sts.ikz.nl)| | **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Nginx|Nothing here|
 |[https://vpzf.ikz.nl](https://vpzf.ikz.nl)| | **A**|nginx| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|403 Forbidden|
 |[http://autodiscover.ikz.nl](http://autodiscover.ikz.nl)| | **C**|Microsoft-IIS/10.0| |:white_check_mark: | | | | | | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server||
 |[https://dashboards.ikz.nl](https://dashboards.ikz.nl)| | **F**|openresty| | | | | | | | :white_check_mark: | |Nginx OpenResty||

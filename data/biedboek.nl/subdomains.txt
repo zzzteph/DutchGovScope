@@ -1,5 +1,7 @@
 biedboek.nl
 www.biedboek.nl
+acceptatie-nieuw.biedboek.nl
+test-nieuw.biedboek.nl
 productie-nieuw.biedboek.nl
 deployment.biedboek.nl
 share.biedboek.nl

@@ -5,14 +5,14 @@
 
 
  - **SSL Grade**:
- - **HTTP Security Grade**:B
+ - **HTTP Security Grade**:A
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:10
 
 
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/dji.nl/subdomains.txt)|15|Alive subdomains|
-|[urls.txt](/data/dji.nl/urls.txt)|15|Urls|
+|[urls.txt](/data/dji.nl/urls.txt)|13|Urls|
 
 
 ## Statistics
@@ -20,8 +20,6 @@
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://acc.beeldbellen.dji.nl](https://acc.beeldbellen.dji.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |HSTS Nginx|403 Forbidden|
-|[https://beeldbellen.dji.nl](https://beeldbellen.dji.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |HSTS Nginx|Beeldbellen Just...|
 |[https://connect-acpt.dji.nl](https://connect-acpt.dji.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS||
 |[https://connect.dji.nl](https://connect.dji.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS||
 |[https://dji.nl](https://dji.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|

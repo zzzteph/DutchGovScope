@@ -5,14 +5,14 @@
 
 
  - **SSL Grade**:
- - **HTTP Security Grade**:B
+ - **HTTP Security Grade**:A
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:4
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/ctpveldzicht.nl/subdomains.txt)|5|Alive subdomains|
-|[urls.txt](/data/ctpveldzicht.nl/urls.txt)|5|Urls|
+|[subdomains.txt](/data/ctpveldzicht.nl/subdomains.txt)|4|Alive subdomains|
+|[urls.txt](/data/ctpveldzicht.nl/urls.txt)|4|Urls|
 
 
 ## Statistics
@@ -24,6 +24,5 @@
 |[https://feeds.ctpveldzicht.nl](https://feeds.ctpveldzicht.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://opendata.ctpveldzicht.nl](https://opendata.ctpveldzicht.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://www.ctpveldzicht.nl](https://www.ctpveldzicht.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Home | Centrum v...|
-|[https://mail.ctpveldzicht.nl](https://mail.ctpveldzicht.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|Default site|
 
 

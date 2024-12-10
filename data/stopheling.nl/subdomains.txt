@@ -1,4 +1,3 @@
-aanvraagformulier.stopheling.nl
 opkopersregister.stopheling.nl
 accp-dor.stopheling.nl
 accp-dorbeheer.stopheling.nl

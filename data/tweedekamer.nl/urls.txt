@@ -109,6 +109,7 @@ https://vip-acc.tweedekamer.nl
 https://kva-tst.tweedekamer.nl
 https://kva.tweedekamer.nl
 https://plein2-acc.tweedekamer.nl
+https://sesam-test.tweedekamer.nl
 https://avgregister.tweedekamer.nl
 https://handboekgc.tweedekamer.nl
 https://opendata-wiki.tweedekamer.nl

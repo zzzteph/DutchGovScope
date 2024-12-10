@@ -208,6 +208,7 @@ secure-acceptatie.grip.rivm.nl
 secure.grip.rivm.nl
 secure.rivm.nl
 securemail.rivm.nl
+sf.rivm.nl
 sprproposal.rivm.nl
 sso-osiris.rivm.nl
 sso.api.rivm.nl

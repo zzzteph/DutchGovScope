@@ -12,14 +12,6 @@ toekomstscenarios.zuid-holland.nl
 wapenfeiten.zuid-holland.nl
 circulair.zuid-holland.nl
 kennis.zuid-holland.nl
-jaaroverzichtcommissarisvandekoning2022.zuid-holland.nl
-redactie.zuid-holland.nl
-staatvan.zuid-holland.nl
-staten.zuid-holland.nl
-www.zuid-holland.nl
-zuid-holland.nl
-coalitieakkoord.zuid-holland.nl
-communicatie.zuid-holland.nl
 data.zuid-holland.nl
 dataloket.zuid-holland.nl
 keuzehulpverkeersmaatregelen.zuid-holland.nl
@@ -63,7 +55,6 @@ forms.zuid-holland.nl
 geo.zuid-holland.nl
 geoweb.zuid-holland.nl
 investerenin.zuid-holland.nl
-jaaroverzichtcommissarisvandekoning2023.zuid-holland.nl
 natura2000-data.zuid-holland.nl
 preprod-belastingen.zuid-holland.nl
 subsidieportaal.zuid-holland.nl

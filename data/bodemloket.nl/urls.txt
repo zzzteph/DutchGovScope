@@ -2,4 +2,3 @@ https://test.bodemloket.nl
 https://bodemloket.nl
 https://www.bodemloket.nl
 https://acceptatie.bodemloket.nl
-https://test-fe.bodemloket.nl

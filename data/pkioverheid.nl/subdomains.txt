@@ -5,3 +5,4 @@ crl.pkioverheid.nl
 oid.pkioverheid.nl
 pkioverheid.nl
 por.pkioverheid.nl
+www.pkioverheid.nl

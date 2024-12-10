@@ -19,4 +19,5 @@ opendata.bigregister.nl
 mijn.bigregister.nl
 tea.bigregister.nl
 zoeken.bigregister.nl
+acceptatie.behandel.bigregister.nl
 behandel.bigregister.nl

@@ -5,6 +5,7 @@ www.geoserver.limburg.nl
 id.limburg.nl
 inloggen-pre.limburg.nl
 inloggen.limburg.nl
+limburg.nl
 mijnsubsidies-acc.limburg.nl
 mijnsubsidies.limburg.nl
 sbl.limburg.nl

@@ -208,6 +208,7 @@ http://secure-acceptatie.grip.rivm.nl
 https://secure.grip.rivm.nl
 https://secure.rivm.nl
 https://securemail.rivm.nl
+https://sf.rivm.nl
 https://sprproposal.rivm.nl
 https://sso-osiris.rivm.nl
 http://sso.api.rivm.nl

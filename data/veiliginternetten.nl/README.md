@@ -25,8 +25,8 @@
 |[https://veiliginternetten.nl](https://veiliginternetten.nl)| | **B**|Apache| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server Bootstrap HSTS|Antwoord op vrag...|
 |[https://www.veiliginternetten.nl](https://www.veiliginternetten.nl)| | **B**|Apache| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS|301 Moved Perman...|
 |[https://enquete.veiliginternetten.nl](https://enquete.veiliginternetten.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Amazon CloudFront Amazon Web Services HSTS|Object moved|
-|[https://mail.veiliginternetten.nl](https://mail.veiliginternetten.nl)| | **F**|mod_fcgid/2.3.9| | | | | | | | :white_check_mark: | |HSTS|Ah Ah Ah You Did...|
-|[https://vs6575.veiliginternetten.nl](https://vs6575.veiliginternetten.nl)| | **F**|mod_fcgid/2.3.9| | | | | | | | :white_check_mark: | |HSTS|Ah Ah Ah You Did...|
+|[https://mail.veiliginternetten.nl](https://mail.veiliginternetten.nl)| | **F**|Apache/2.4.62 (Debian)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.62 Debian HSTS|Ah Ah Ah You Did...|
+|[https://vs6575.veiliginternetten.nl](https://vs6575.veiliginternetten.nl)| | **F**|Apache/2.4.62 (Debian)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.62 Debian HSTS|Ah Ah Ah You Did...|
 |[https://vs6844.veiliginternetten.nl](https://vs6844.veiliginternetten.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|301 Moved Perman...|
 |[https://acceptatie.veiliginternetten.nl](https://acceptatie.veiliginternetten.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|301 Moved Perman...|
 |[http://autodiscover.veiliginternetten.nl](http://autodiscover.veiliginternetten.nl)| | **C**|Microsoft-IIS/10.0| |:white_check_mark: | | | | | | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server||
