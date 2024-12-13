@@ -8,6 +8,8 @@ https://mx.kansspelautoriteit.nl
 https://webmail.kansspelautoriteit.nl
 https://portal.kansspelautoriteit.nl
 https://vpn.kansspelautoriteit.nl
+https://acc.kansspelautoriteit.nl
+https://desktop.kansspelautoriteit.nl
 https://ems.kansspelautoriteit.nl
 https://enterpriseenrollment.kansspelautoriteit.nl
 https://enterpriseregistration.kansspelautoriteit.nl

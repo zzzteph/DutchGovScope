@@ -2,7 +2,7 @@
 layout: default
 title: "bodemloket.nl"
 permalink: "/dutchgov/bodemloket.nl.html"
-subdomains_count: 5
+subdomains_count: 4
 urls_count: 4
 ssl_rank: 
 http_rank: A
@@ -25,7 +25,7 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/bodemloket.nl/subdomains.txt)|5|Alive subdomains|
+|[subdomains.txt](/DutchGovScope/data/bodemloket.nl/subdomains.txt)|4|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/bodemloket.nl/urls.txt)|4|Urls|
 
 

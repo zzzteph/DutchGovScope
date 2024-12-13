@@ -11,7 +11,7 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/toegangtotdeoverheid.nl/subdomains.txt)|0|Alive subdomains|
+|[subdomains.txt](/data/toegangtotdeoverheid.nl/subdomains.txt)|1|Alive subdomains|
 |[urls.txt](/data/toegangtotdeoverheid.nl/urls.txt)|0|Urls|
 
 

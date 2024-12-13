@@ -1,7 +1,5 @@
-http://acc.translate.services.cultureelerfgoed.nl
 https://acc.archis.cultureelerfgoed.nl
 https://acc.auth.services.cultureelerfgoed.nl
-http://acc.gml.map.services.cultureelerfgoed.nl
 http://acc.render.map.services.cultureelerfgoed.nl
 https://acc.monumentenregister.cultureelerfgoed.nl
 https://www.acc.monumentenregister.cultureelerfgoed.nl
@@ -52,7 +50,6 @@ https://subsidie.cultureelerfgoed.nl
 https://test.geoservices.cultureelerfgoed.nl
 https://test.monumentenregister.cultureelerfgoed.nl
 https://www.test.monumentenregister.cultureelerfgoed.nl
-https://tst.subsidie.cultureelerfgoed.nl
 https://veilig.cultureelerfgoed.nl
 https://www.veilig.cultureelerfgoed.nl
 https://wikixl-saml.test.cultureelerfgoed.nl
@@ -60,7 +57,6 @@ https://acc.stor.services.cultureelerfgoed.nl
 http://acc.encoded.api-gateway.archis.cultureelerfgoed.nl
 https://acc.client.archis.cultureelerfgoed.nl
 https://acc.zaak.services.cultureelerfgoed.nl
-https://acc.api-gateway.archis.cultureelerfgoed.nl
 https://english.cultureelerfgoed.nl
 https://formulier.cultureelerfgoed.nl
 http://auth.services.cultureelerfgoed.nl

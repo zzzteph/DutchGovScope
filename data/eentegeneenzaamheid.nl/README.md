@@ -11,7 +11,7 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/eentegeneenzaamheid.nl/subdomains.txt)|3|Alive subdomains|
+|[subdomains.txt](/data/eentegeneenzaamheid.nl/subdomains.txt)|5|Alive subdomains|
 |[urls.txt](/data/eentegeneenzaamheid.nl/urls.txt)|3|Urls|
 
 

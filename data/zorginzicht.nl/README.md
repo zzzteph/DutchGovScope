@@ -11,8 +11,8 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/zorginzicht.nl/subdomains.txt)|10|Alive subdomains|
-|[urls.txt](/data/zorginzicht.nl/urls.txt)|10|Urls|
+|[subdomains.txt](/data/zorginzicht.nl/subdomains.txt)|8|Alive subdomains|
+|[urls.txt](/data/zorginzicht.nl/urls.txt)|8|Urls|
 
 
 ## Statistics
@@ -25,8 +25,6 @@
 |[https://loket.zorginzicht.nl](https://loket.zorginzicht.nl)| | **B**|BigIP|:white_check_mark: |:white_check_mark: | | |:warning: | | :white_check_mark: | :white_check_mark: | |F5 BigIP||
 |[https://www.zorginzicht.nl](https://www.zorginzicht.nl)| | **B**|Solvinity Server|:white_check_mark: |:white_check_mark: | | |:warning: | | :white_check_mark: | :white_check_mark: | |HSTS|Zorginzicht|
 |[https://proto.zorginzicht.nl](https://proto.zorginzicht.nl)| | **F**|GitHub.com| | | :warning:| | | | | :white_check_mark: | |Fastly GitHub Pages Varnish|Zorginzicht|
-|[http://tpk.zorginzicht.nl](http://tpk.zorginzicht.nl)| | **F**|BigIP| | | | | | | | :white_check_mark: | |F5 BigIP||
-|[http://www-pr.zorginzicht.nl](http://www-pr.zorginzicht.nl)| | **F**|BigIP| | | | | | | | :white_check_mark: | |F5 BigIP||
 |[https://promtoolbox.zorginzicht.nl](https://promtoolbox.zorginzicht.nl)| | **B**|Apache|:white_check_mark: |:white_check_mark: | | |:warning: | | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
 |[https://zorginzicht.nl](https://zorginzicht.nl)| | **B**|Apache|:white_check_mark: |:white_check_mark: | | |:warning: | | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS|301 Moved Perman...|
 |[https://pr.zorginzicht.nl](https://pr.zorginzicht.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|403 Forbidden|

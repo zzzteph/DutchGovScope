@@ -11,8 +11,8 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/cibg.nl/subdomains.txt)|53|Alive subdomains|
-|[urls.txt](/data/cibg.nl/urls.txt)|53|Urls|
+|[subdomains.txt](/data/cibg.nl/subdomains.txt)|54|Alive subdomains|
+|[urls.txt](/data/cibg.nl/urls.txt)|54|Urls|
 
 
 ## Statistics
@@ -21,6 +21,8 @@
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[http://acceptatie.ag-dcr.cibg.nl](http://acceptatie.ag-dcr.cibg.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
+|[http://acceptatie.api.kcc.cibg.nl](http://acceptatie.api.kcc.cibg.nl)| | **F**|BigIP| | | | | | | | :white_check_mark: | |F5 BigIP||
+|[http://acceptatie.beheer.lir.cibg.nl](http://acceptatie.beheer.lir.cibg.nl)| | **A**|BigIP| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |F5 BigIP||
 |[https://acceptatie.beheer.lrza.cibg.nl](https://acceptatie.beheer.lrza.cibg.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://acceptatie.bestandsportaal.cibg.nl](https://acceptatie.bestandsportaal.cibg.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|acceptatie.besta...|
 |[https://acceptatie.designsystem.cibg.nl](https://acceptatie.designsystem.cibg.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
@@ -69,7 +71,6 @@
 |[http://acceptatie.digikoppeling2.cibg.nl](http://acceptatie.digikoppeling2.cibg.nl)| | **F**|BigIP| | | | | | | | :white_check_mark: | |F5 BigIP||
 |[https://behandel.generiekeregistratiedienst.cibg.nl](https://behandel.generiekeregistratiedienst.cibg.nl)| | **A**|-| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://beheer.generiekeregistratiedienst.cibg.nl](https://beheer.generiekeregistratiedienst.cibg.nl)| | **A**|-| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
-|[https://designsystem.cibg.nl](https://designsystem.cibg.nl)| | **A**|-| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|CIBG Design syst...|
 |[http://digikoppeling.cibg.nl](http://digikoppeling.cibg.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||
 |[https://digikoppeling2.cibg.nl](https://digikoppeling2.cibg.nl)| | **F**|-| | | | | | | | :white_check_mark: | |HSTS||
 |[http://styleguide.cibg.nl](http://styleguide.cibg.nl)| | **E**|| | | | | | | | :white_check_mark: | |||

@@ -14,6 +14,7 @@ http://cb.entreepgb.svb.nl
 https://desktop.entreepgb.svb.nl
 https://pgbverwerkingservice.entreepgb.svb.nl
 http://www.entreepgb.svb.nl
+https://cmsintranet.svb.nl
 https://intranet.svb.nl
 https://downloaddomain.svb.nl
 https://outlook.svb.nl

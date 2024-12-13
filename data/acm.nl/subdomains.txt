@@ -11,8 +11,6 @@ www.acm.nl
 werkplek.acm.nl
 werkplek.services.acm.nl
 mijn.acm.nl
-auth.acm.nl
-auth.services.acm.nl
 ucs.acm.nl
 ucs.services.acm.nl
 bijna.acm.nl

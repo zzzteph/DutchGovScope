@@ -3,7 +3,7 @@ layout: default
 title: "investinholland.com"
 permalink: "/dutchgov/investinholland.com.html"
 subdomains_count: 20
-urls_count: 18
+urls_count: 20
 ssl_rank: 
 http_rank: D
 security_txt: 1
@@ -26,7 +26,7 @@ tags: dutchgov
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/DutchGovScope/data/investinholland.com/subdomains.txt)|20|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/investinholland.com/urls.txt)|18|Urls|
+|[urls.txt](/DutchGovScope/data/investinholland.com/urls.txt)|20|Urls|
 
 
 ## Statistics
@@ -52,5 +52,7 @@ tags: dutchgov
 |[https://bak-jp.investinholland.com](https://bak-jp.investinholland.com)| | **E**|cloudflare| | | | | | :white_check_mark: | | :white_check_mark: | |Cloudflare||
 |[http://localhost.investinholland.com](http://localhost.investinholland.com)| | **F**|nginx|:o: | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Laravel Nginx PHP|Weakpass|
 |[http://autodiscover.investinholland.com](http://autodiscover.investinholland.com)| | **C**|Microsoft-IIS/10.0| |:white_check_mark: | | | | | | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server||
+|[http://mail.japan.investinholland.com](http://mail.japan.investinholland.com)| | **F**|cloudflare| | | | | | | | :white_check_mark: | |Cloudflare|301 Moved Perman...|
+|[http://pop.japan.investinholland.com](http://pop.japan.investinholland.com)| | **F**|cloudflare| | | | | | | | :white_check_mark: | |Cloudflare|301 Moved Perman...|
 
 

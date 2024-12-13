@@ -1,4 +1,2 @@
-opendata.eenzaam.nl
 www.eenzaam.nl
 eenzaam.nl
-feeds.eenzaam.nl

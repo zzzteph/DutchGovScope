@@ -30,8 +30,6 @@ rstudio.ilt.rijkscloud.nl
 git.dfront.rijkscloud.nl
 git.dictu.rijkscloud.nl
 git.iaas.rijkscloud.nl
-git.ivho.rijkscloud.nl
-registry.git.ivho.rijkscloud.nl
 gitlab.ds-ocw.rijkscloud.nl
 gitlab.ritp.rijkscloud.nl
 igj.rijkscloud.nl

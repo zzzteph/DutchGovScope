@@ -2,7 +2,7 @@
 layout: default
 title: "eentegeneenzaamheid.nl"
 permalink: "/dutchgov/eentegeneenzaamheid.nl.html"
-subdomains_count: 3
+subdomains_count: 5
 urls_count: 3
 ssl_rank: 
 http_rank: A
@@ -25,7 +25,7 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/eentegeneenzaamheid.nl/subdomains.txt)|3|Alive subdomains|
+|[subdomains.txt](/DutchGovScope/data/eentegeneenzaamheid.nl/subdomains.txt)|5|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/eentegeneenzaamheid.nl/urls.txt)|3|Urls|
 
 

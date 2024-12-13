@@ -6,7 +6,6 @@ eerstekamer.nl
 europapoort.eerstekamer.nl
 www.eerstekamer.nl
 onderwijs.eerstekamer.nl
-remoteaccess1.eerstekamer.nl
 remoteaccess2.eerstekamer.nl
 remoteaccess3.eerstekamer.nl
 wordaddin.eerstekamer.nl

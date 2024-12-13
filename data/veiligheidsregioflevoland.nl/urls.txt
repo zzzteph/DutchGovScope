@@ -1,10 +1,10 @@
 http://elo.veiligheidsregioflevoland.nl
 http://redactie.veiligheidsregioflevoland.nl
 http://www.veiligheidsregioflevoland.nl
+https://veiligheidsregioflevoland.nl
 https://mail.veiligheidsregioflevoland.nl
 http://autodiscover.veiligheidsregioflevoland.nl
 https://enterpriseenrollment.veiligheidsregioflevoland.nl
 https://enterpriseregistration.veiligheidsregioflevoland.nl
 http://dept.veiligheidsregioflevoland.nl
-http://chaki.veiligheidsregioflevoland.nl
 https://msoid.veiligheidsregioflevoland.nl

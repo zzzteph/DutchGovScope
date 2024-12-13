@@ -144,9 +144,11 @@ https://compliance.gridacc.rws.nl
 https://federatie.rws.nl
 http://gitlab.at.rws.nl
 https://topdesk-iv.rws.nl
+https://otl.rws.nl
 https://www.werkenbij.rws.nl
 https://splunkhec.grid.rws.nl
 https://splunkhec.gridacc.rws.nl
+https://waterinfo-extra.rws.nl
 https://matroos.rws.nl
 https://status.gridacc.rws.nl
 https://enterpriseenrollment.rws.nl

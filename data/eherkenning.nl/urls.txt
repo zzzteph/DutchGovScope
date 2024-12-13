@@ -9,6 +9,7 @@ https://eherkenning.nl
 https://prod-dictu.eherkenning.nl
 https://extranet.eherkenning.nl
 https://kpn-eid-acc.sso.eherkenning.nl
+https://reconi-etoegang-acc.sso.eherkenning.nl
 https://kpn-eid-pp.sso.eherkenning.nl
 https://reconi-etoegang-pp.sso.eherkenning.nl
 https://kpn-eid.sso.eherkenning.nl

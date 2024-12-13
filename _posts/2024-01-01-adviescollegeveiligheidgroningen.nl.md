@@ -2,7 +2,7 @@
 layout: default
 title: "adviescollegeveiligheidgroningen.nl"
 permalink: "/dutchgov/adviescollegeveiligheidgroningen.nl.html"
-subdomains_count: 0
+subdomains_count: 5
 urls_count: 0
 ssl_rank: 
 http_rank: F
@@ -25,7 +25,7 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/adviescollegeveiligheidgroningen.nl/subdomains.txt)|0|Alive subdomains|
+|[subdomains.txt](/DutchGovScope/data/adviescollegeveiligheidgroningen.nl/subdomains.txt)|5|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/adviescollegeveiligheidgroningen.nl/urls.txt)|0|Urls|
 
 

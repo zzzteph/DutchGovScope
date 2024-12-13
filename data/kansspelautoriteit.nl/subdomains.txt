@@ -8,6 +8,8 @@ mx.kansspelautoriteit.nl
 webmail.kansspelautoriteit.nl
 portal.kansspelautoriteit.nl
 vpn.kansspelautoriteit.nl
+acc.kansspelautoriteit.nl
+desktop.kansspelautoriteit.nl
 ems.kansspelautoriteit.nl
 enterpriseenrollment.kansspelautoriteit.nl
 enterpriseregistration.kansspelautoriteit.nl

@@ -2,11 +2,11 @@
 layout: default
 title: "eerstekamer.nl"
 permalink: "/dutchgov/eerstekamer.nl.html"
-subdomains_count: 24
-urls_count: 24
+subdomains_count: 23
+urls_count: 23
 ssl_rank: 
-http_rank: C
-security_txt: 10
+http_rank: D
+security_txt: 8
 url_link: /data/eerstekamer.nl/urls.txt
 subdomains_link: /data/eerstekamer.nl/subdomains.txt
 categories: dutchgov
@@ -19,14 +19,14 @@ tags: dutchgov
 
 
  - **SSL Grade**:
- - **HTTP Security Grade**:C
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:10
+ - **HTTP Security Grade**:D
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:8
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/eerstekamer.nl/subdomains.txt)|24|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/eerstekamer.nl/urls.txt)|24|Urls|
+|[subdomains.txt](/DutchGovScope/data/eerstekamer.nl/subdomains.txt)|23|Alive subdomains|
+|[urls.txt](/DutchGovScope/data/eerstekamer.nl/urls.txt)|23|Urls|
 
 
 ## Statistics
@@ -42,7 +42,6 @@ tags: dutchgov
 |[https://europapoort.eerstekamer.nl](https://europapoort.eerstekamer.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS|Moved|
 |[https://www.eerstekamer.nl](https://www.eerstekamer.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS ZURB Foundation|Home - Eerste Ka...|
 |[https://onderwijs.eerstekamer.nl](https://onderwijs.eerstekamer.nl)| | **D**|nginx/1.19.4|:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Next.js Nginx:1.19.4 Node.js React Webpack|Home | Onderwijs...|
-|[https://remoteaccess1.eerstekamer.nl](https://remoteaccess1.eerstekamer.nl)| | **A**||:warning: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://remoteaccess2.eerstekamer.nl](https://remoteaccess2.eerstekamer.nl)| | **A**||:warning: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://remoteaccess3.eerstekamer.nl](https://remoteaccess3.eerstekamer.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||
 |[https://wordaddin.eerstekamer.nl](https://wordaddin.eerstekamer.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Web App - Unavai...|
@@ -56,7 +55,7 @@ tags: dutchgov
 |[https://piwik.eerstekamer.nl](https://piwik.eerstekamer.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS|Not Found|
 |[https://liquit.eerstekamer.nl](https://liquit.eerstekamer.nl)| | **E**|| | | | | | | | :white_check_mark: | |Bootstrap:4|Liquit Workspace|
 |[https://enterpriseenrollment.eerstekamer.nl](https://enterpriseenrollment.eerstekamer.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||
-|[https://sandbox.redactie.eerstekamer.nl](https://sandbox.redactie.eerstekamer.nl)| | **B**|| | | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | ||Moved|
+|[https://sandbox.redactie.eerstekamer.nl](https://sandbox.redactie.eerstekamer.nl)| | **F**||:warning: | | | | | | | :white_check_mark: | ||403 Forbidden|
 |[https://lv108675-web01.eerstekamer.nl](https://lv108675-web01.eerstekamer.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS|Not Found|
 
 

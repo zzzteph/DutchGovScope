@@ -14,6 +14,7 @@ cb.entreepgb.svb.nl
 desktop.entreepgb.svb.nl
 pgbverwerkingservice.entreepgb.svb.nl
 www.entreepgb.svb.nl
+cmsintranet.svb.nl
 intranet.svb.nl
 downloaddomain.svb.nl
 outlook.svb.nl

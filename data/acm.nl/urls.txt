@@ -11,8 +11,6 @@ https://www.acm.nl
 https://werkplek.acm.nl
 https://werkplek.services.acm.nl
 https://mijn.acm.nl
-https://auth.acm.nl
-https://auth.services.acm.nl
 https://ucs.acm.nl
 https://ucs.services.acm.nl
 https://bijna.acm.nl

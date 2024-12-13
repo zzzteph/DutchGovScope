@@ -11,5 +11,5 @@ https://brba.nl
 https://www.brba.nl
 http://uzi.brba.nl
 https://viep.brba.nl
-https://aanmelden.brba.nl
+http://aanmelden.brba.nl
 http://keiko.brba.nl

@@ -36,7 +36,6 @@ iltbuildserver.dictu.nl
 mailing.dictu.nl
 mft.webftp.dictu.nl
 mijntoken.dictu.nl
-pms-acc.dictu.nl
 procesweb-test.dictu.nl
 procesweb.dictu.nl
 sfs-acc.dictu.nl

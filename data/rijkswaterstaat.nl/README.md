@@ -5,14 +5,14 @@
 
 
  - **SSL Grade**:
- - **HTTP Security Grade**:D
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:54
+ - **HTTP Security Grade**:C
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:55
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/rijkswaterstaat.nl/subdomains.txt)|84|Alive subdomains|
-|[urls.txt](/data/rijkswaterstaat.nl/urls.txt)|84|Urls|
+|[subdomains.txt](/data/rijkswaterstaat.nl/subdomains.txt)|85|Alive subdomains|
+|[urls.txt](/data/rijkswaterstaat.nl/urls.txt)|85|Urls|
 
 
 ## Statistics
@@ -103,6 +103,7 @@
 |[https://innovatieloket-tst.rijkswaterstaat.nl](https://innovatieloket-tst.rijkswaterstaat.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
 |[https://innovatieloket-acc.rijkswaterstaat.nl](https://innovatieloket-acc.rijkswaterstaat.nl)| | **B**|nginx| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS Nginx|Mendix|
 |[https://innovatieloket.rijkswaterstaat.nl](https://innovatieloket.rijkswaterstaat.nl)| | **B**|nginx| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS Nginx|Mendix|
+|[http://waterwebservices.rijkswaterstaat.nl](http://waterwebservices.rijkswaterstaat.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
 |[https://klimaateffectatlas.rijkswaterstaat.nl](https://klimaateffectatlas.rijkswaterstaat.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| | | :white_check_mark: | |||
 
 

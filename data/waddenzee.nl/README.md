@@ -5,14 +5,14 @@
 
 
  - **SSL Grade**:
- - **HTTP Security Grade**:A
+ - **HTTP Security Grade**:B
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:6
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/waddenzee.nl/subdomains.txt)|7|Alive subdomains|
-|[urls.txt](/data/waddenzee.nl/urls.txt)|7|Urls|
+|[subdomains.txt](/data/waddenzee.nl/subdomains.txt)|11|Alive subdomains|
+|[urls.txt](/data/waddenzee.nl/urls.txt)|11|Urls|
 
 
 ## Statistics
@@ -26,6 +26,10 @@
 |[http://waddenzee.nl](http://waddenzee.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:-||
 |[http://www.waddenzee.nl](http://www.waddenzee.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:-||
 |[http://datahuiswadden.waddenzee.nl](http://datahuiswadden.waddenzee.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:-||
+|[http://wadzee9520.waddenzee.nl](http://wadzee9520.waddenzee.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
+|[http://bmw9520.waddenzee.nl](http://bmw9520.waddenzee.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
+|[http://gebiedagen2.waddenzee.nl](http://gebiedagen2.waddenzee.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
+|[http://test.waddenzee.nl](http://test.waddenzee.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
 |[http://autodiscover.waddenzee.nl](http://autodiscover.waddenzee.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |||
 
 

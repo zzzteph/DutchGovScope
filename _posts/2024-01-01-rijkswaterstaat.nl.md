@@ -2,11 +2,11 @@
 layout: default
 title: "rijkswaterstaat.nl"
 permalink: "/dutchgov/rijkswaterstaat.nl.html"
-subdomains_count: 84
-urls_count: 84
+subdomains_count: 85
+urls_count: 85
 ssl_rank: 
-http_rank: D
-security_txt: 54
+http_rank: C
+security_txt: 55
 url_link: /data/rijkswaterstaat.nl/urls.txt
 subdomains_link: /data/rijkswaterstaat.nl/subdomains.txt
 categories: dutchgov
@@ -19,14 +19,14 @@ tags: dutchgov
 
 
  - **SSL Grade**:
- - **HTTP Security Grade**:D
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:54
+ - **HTTP Security Grade**:C
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:55
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/rijkswaterstaat.nl/subdomains.txt)|84|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/rijkswaterstaat.nl/urls.txt)|84|Urls|
+|[subdomains.txt](/DutchGovScope/data/rijkswaterstaat.nl/subdomains.txt)|85|Alive subdomains|
+|[urls.txt](/DutchGovScope/data/rijkswaterstaat.nl/urls.txt)|85|Urls|
 
 
 ## Statistics
@@ -117,6 +117,7 @@ tags: dutchgov
 |[https://innovatieloket-tst.rijkswaterstaat.nl](https://innovatieloket-tst.rijkswaterstaat.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
 |[https://innovatieloket-acc.rijkswaterstaat.nl](https://innovatieloket-acc.rijkswaterstaat.nl)| | **B**|nginx| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS Nginx|Mendix|
 |[https://innovatieloket.rijkswaterstaat.nl](https://innovatieloket.rijkswaterstaat.nl)| | **B**|nginx| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS Nginx|Mendix|
+|[http://waterwebservices.rijkswaterstaat.nl](http://waterwebservices.rijkswaterstaat.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
 |[https://klimaateffectatlas.rijkswaterstaat.nl](https://klimaateffectatlas.rijkswaterstaat.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| | | :white_check_mark: | |||
 
 

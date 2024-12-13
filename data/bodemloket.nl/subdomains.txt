@@ -2,4 +2,3 @@ test.bodemloket.nl
 bodemloket.nl
 www.bodemloket.nl
 acceptatie.bodemloket.nl
-test-fe.bodemloket.nl

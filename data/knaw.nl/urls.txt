@@ -150,9 +150,6 @@ https://nederlandschehistorien.huygens.knaw.nl
 https://vroedschapsboek.huygens.knaw.nl
 https://databeheer.huygens.knaw.nl
 https://guydebres.huygens.knaw.nl
-https://www.hattem.huygens.knaw.nl
-https://interedition.huygens.knaw.nl
-https://martianus.huygens.knaw.nl
 https://rembench.huygens.knaw.nl
 https://rembrandtdocuments.huygens.knaw.nl
 https://alfalablog.huygens.knaw.nl
@@ -370,8 +367,6 @@ https://mapserver.fa.knaw.nl
 https://mda.nioo.knaw.nl
 https://mfiles.knaw.nl
 http://mfproxy01.knaw.nl
-https://munki01.knaw.nl
-https://munki.knaw.nl
 https://ninweb.knaw.nl
 https://osso-t.knaw.nl
 https://ossooam-t.knaw.nl

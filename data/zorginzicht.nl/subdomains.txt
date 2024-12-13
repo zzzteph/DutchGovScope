@@ -3,8 +3,6 @@ www-ac.zorginzicht.nl
 loket.zorginzicht.nl
 www.zorginzicht.nl
 proto.zorginzicht.nl
-tpk.zorginzicht.nl
-www-pr.zorginzicht.nl
 promtoolbox.zorginzicht.nl
 zorginzicht.nl
 pr.zorginzicht.nl

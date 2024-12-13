@@ -11,7 +11,7 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/adviescollegeveiligheidgroningen.nl/subdomains.txt)|0|Alive subdomains|
+|[subdomains.txt](/data/adviescollegeveiligheidgroningen.nl/subdomains.txt)|5|Alive subdomains|
 |[urls.txt](/data/adviescollegeveiligheidgroningen.nl/urls.txt)|0|Urls|
 
 

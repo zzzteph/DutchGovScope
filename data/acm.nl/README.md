@@ -6,13 +6,13 @@
 
  - **SSL Grade**:
  - **HTTP Security Grade**:C
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:9
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:7
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/acm.nl/subdomains.txt)|26|Alive subdomains|
-|[urls.txt](/data/acm.nl/urls.txt)|26|Urls|
+|[subdomains.txt](/data/acm.nl/subdomains.txt)|24|Alive subdomains|
+|[urls.txt](/data/acm.nl/urls.txt)|24|Urls|
 
 
 ## Statistics
@@ -33,8 +33,6 @@
 |[https://werkplek.acm.nl](https://werkplek.acm.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS||
 |[https://werkplek.services.acm.nl](https://werkplek.services.acm.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS||
 |[https://mijn.acm.nl](https://mijn.acm.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS|403 Forbidden|
-|[https://auth.acm.nl](https://auth.acm.nl)| | **A**|Microsoft-IIS/10.0| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server|Document Moved|
-|[https://auth.services.acm.nl](https://auth.services.acm.nl)| | **A**|Microsoft-IIS/10.0| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server|Document Moved|
 |[https://ucs.acm.nl](https://ucs.acm.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|Redirecting...|
 |[https://ucs.services.acm.nl](https://ucs.services.acm.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|Redirecting...|
 |[https://bijna.acm.nl](https://bijna.acm.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|403 Forbidden|

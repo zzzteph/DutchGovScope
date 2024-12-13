@@ -11,7 +11,7 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/eenzaam.nl/subdomains.txt)|4|Alive subdomains|
+|[subdomains.txt](/data/eenzaam.nl/subdomains.txt)|2|Alive subdomains|
 |[urls.txt](/data/eenzaam.nl/urls.txt)|2|Urls|
 
 

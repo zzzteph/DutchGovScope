@@ -5,14 +5,14 @@
 
 
  - **SSL Grade**:
- - **HTTP Security Grade**:C
+ - **HTTP Security Grade**:B
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:6
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/odijmond.nl/subdomains.txt)|16|Alive subdomains|
-|[urls.txt](/data/odijmond.nl/urls.txt)|15|Urls|
+|[subdomains.txt](/data/odijmond.nl/subdomains.txt)|19|Alive subdomains|
+|[urls.txt](/data/odijmond.nl/urls.txt)|16|Urls|
 
 
 ## Statistics
@@ -25,9 +25,10 @@
 |[https://acc-open-wave.odijmond.nl](https://acc-open-wave.odijmond.nl)| | **B**|Apache|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS PHP||
 |[http://autodiscover.odijmond.nl](http://autodiscover.odijmond.nl)| | **C**|Microsoft-IIS/10.0| |:white_check_mark: | | | | | | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server||
 |[https://gisviewer.odijmond.nl](https://gisviewer.odijmond.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS PHP||
+|[https://www.odijmond.nl](https://www.odijmond.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Google Tag Manager HSTS Microsoft ASP.NET:-|Homepage - Omgev...|
 |[https://intranet.odijmond.nl](https://intranet.odijmond.nl)| | **B**|-|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:-|Object moved|
 |[https://redactie.odijmond.nl](https://redactie.odijmond.nl)| | **A**|-|:white_check_mark: |:white_check_mark: | | | :white_check_mark:| | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:-|Object moved|
-|[https://join.odijmond.nl](https://join.odijmond.nl)| | **A**||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Document Moved|
+|[https://join.odijmond.nl](https://join.odijmond.nl)| | **A**||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Amazon S3 Amazon Web Services HSTS|Object moved|
 |[https://rd.odijmond.nl](https://rd.odijmond.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS|Connection denie...|
 |[https://rdgw.odijmond.nl](https://rdgw.odijmond.nl)| | **A**||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |||
 |[https://vpn.odijmond.nl](https://vpn.odijmond.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS|403 Forbidden|

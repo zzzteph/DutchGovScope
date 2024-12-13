@@ -81,4 +81,5 @@ https://static.ont.staging.werkenbij.rijkswaterstaat.nl
 https://innovatieloket-tst.rijkswaterstaat.nl
 https://innovatieloket-acc.rijkswaterstaat.nl
 https://innovatieloket.rijkswaterstaat.nl
+http://waterwebservices.rijkswaterstaat.nl
 https://klimaateffectatlas.rijkswaterstaat.nl

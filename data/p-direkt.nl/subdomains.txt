@@ -10,5 +10,6 @@ p-direkt.nl
 www.p-direkt.nl
 kms-test.p-direkt.nl
 kms.p-direkt.nl
+mail.aladdin.p-direkt.nl
 ndev.api-sec.p-direkt.nl
 ndev.api.p-direkt.nl

@@ -13,3 +13,4 @@ https://geotest.vallei-veluwe.nl
 https://protect.vallei-veluwe.nl
 https://vdi.vallei-veluwe.nl
 https://geo.vallei-veluwe.nl
+https://enterpriseregistration.vallei-veluwe.nl

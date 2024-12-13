@@ -241,6 +241,7 @@ http://ufp-webservice.rijksapplicaties.nl
 http://dpp-webservice.rijksapplicaties.nl
 http://qr-app-webservice.rijksapplicaties.nl
 https://orbis.acc.syn.rijksapplicaties.nl
+https://orbis.syn.rijksapplicaties.nl
 http://ufp-webservice.staging.rijksapplicaties.nl
 https://redt.staging.rijksapplicaties.nl
 https://ncg-on-vv.staging.rijksapplicaties.nl

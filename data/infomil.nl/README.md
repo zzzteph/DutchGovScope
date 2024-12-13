@@ -11,8 +11,8 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/infomil.nl/subdomains.txt)|9|Alive subdomains|
-|[urls.txt](/data/infomil.nl/urls.txt)|9|Urls|
+|[subdomains.txt](/data/infomil.nl/subdomains.txt)|10|Alive subdomains|
+|[urls.txt](/data/infomil.nl/urls.txt)|10|Urls|
 
 
 ## Statistics
@@ -29,5 +29,6 @@
 |[http://infomil.nl](http://infomil.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Microsoft ASP.NET:-||
 |[http://redactie.infomil.nl](http://redactie.infomil.nl)| | **A**||:white_check_mark: |:white_check_mark: | | | :white_check_mark:| | :white_check_mark: | :white_check_mark: | |Microsoft ASP.NET:-||
 |[http://www.infomil.nl](http://www.infomil.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Google Tag Manager HSTS Microsoft ASP.NET:-||
+|[https://femnederland.infomil.nl](https://femnederland.infomil.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Microsoft ASP.NET:-|Document Moved|
 
 

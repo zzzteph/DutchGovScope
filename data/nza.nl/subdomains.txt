@@ -35,3 +35,4 @@ aanvragen-acc.nza.nl
 mijn.nza.nl
 opendisdata.nza.nl
 agw01-nomail.nza.nl
+jv.nza.nl

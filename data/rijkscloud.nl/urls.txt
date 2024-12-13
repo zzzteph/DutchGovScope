@@ -30,8 +30,6 @@ https://rstudio.ilt.rijkscloud.nl
 https://git.dfront.rijkscloud.nl
 https://git.dictu.rijkscloud.nl
 https://git.iaas.rijkscloud.nl
-https://git.ivho.rijkscloud.nl
-https://registry.git.ivho.rijkscloud.nl
 https://gitlab.ds-ocw.rijkscloud.nl
 https://gitlab.ritp.rijkscloud.nl
 https://igj.rijkscloud.nl
@@ -99,6 +97,7 @@ https://portal118.rijkscloud.nl
 https://pw.rvb.rijkscloud.nl
 https://www.rijkscloud.nl
 https://rstudio.kim.rijkscloud.nl
+https://rstudio.vcloud.ix.rijkscloud.nl
 https://dbe-t.rvb.rijkscloud.nl
 https://images.analyse.ilt.rijkscloud.nl
 https://registry.gitlab.analyse.ilt.rijkscloud.nl

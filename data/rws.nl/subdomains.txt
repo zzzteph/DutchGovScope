@@ -60,6 +60,7 @@ crisiswerkplek.rws.nl
 ctd.rws.nl
 grid.rws.nl
 gridacc.rws.nl
+ddapi-preprod.rws.nl
 disk.acceptatie.rws.nl
 disk.rws.nl
 enterpriseregistration.rws.nl
@@ -144,9 +145,11 @@ compliance.gridacc.rws.nl
 federatie.rws.nl
 gitlab.at.rws.nl
 topdesk-iv.rws.nl
+otl.rws.nl
 www.werkenbij.rws.nl
 splunkhec.grid.rws.nl
 splunkhec.gridacc.rws.nl
+waterinfo-extra.rws.nl
 matroos.rws.nl
 status.gridacc.rws.nl
 enterpriseenrollment.rws.nl

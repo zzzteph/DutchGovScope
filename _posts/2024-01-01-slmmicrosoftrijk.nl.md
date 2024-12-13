@@ -34,7 +34,7 @@ tags: dutchgov
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://slmmicrosoftrijk.nl](https://slmmicrosoftrijk.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |MySQL Nginx PHP WordPress Yoast SEO:23.5|Home - SLM Micro...|
+|[https://slmmicrosoftrijk.nl](https://slmmicrosoftrijk.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |MySQL Nginx PHP WordPress Yoast SEO:23.9|Home - SLM Micro...|
 |[https://www.slmmicrosoftrijk.nl](https://www.slmmicrosoftrijk.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx||
 
 

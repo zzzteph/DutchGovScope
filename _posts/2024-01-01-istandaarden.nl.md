@@ -37,7 +37,7 @@ tags: dutchgov
 |[https://acceptatie.istandaarden.nl](https://acceptatie.istandaarden.nl)| | **B**|istio-envoy|:white_check_mark: |:white_check_mark: | | |:warning: | | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://registry.acceptatie.istandaarden.nl](https://registry.acceptatie.istandaarden.nl)| | **C**|istio-envoy| |:white_check_mark: | | | | | | :white_check_mark: | |Envoy HSTS||
 |[https://repository.acceptatie.istandaarden.nl](https://repository.acceptatie.istandaarden.nl)| | **A**|istio-envoy|:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Envoy HSTS||
-|[https://sso.acceptatie.istandaarden.nl](https://sso.acceptatie.istandaarden.nl)| | **F**|istio-envoy| | | | | | | | :white_check_mark: | |||
+|[https://sso.acceptatie.istandaarden.nl](https://sso.acceptatie.istandaarden.nl)| | **A**|istio-envoy| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://informatiemodel.istandaarden.nl](https://informatiemodel.istandaarden.nl)| | **F**|nginx/1.18.0 (Ubuntu)| | | | | | | | :white_check_mark: | |HSTS Nginx:1.18.0 Ubuntu||
 |[https://istandaarden.nl](https://istandaarden.nl)| | **B**|Apache|:white_check_mark: |:white_check_mark: | | |:warning: | | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS|301 Moved Perman...|
 |[https://www.istandaarden.nl](https://www.istandaarden.nl)| | **B**|Solvinity Server|:white_check_mark: |:white_check_mark: | | |:warning: | | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS|iStandaarden|

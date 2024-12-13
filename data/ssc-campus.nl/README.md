@@ -5,14 +5,14 @@
 
 
  - **SSL Grade**:
- - **HTTP Security Grade**:C
+ - **HTTP Security Grade**:D
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:7
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/ssc-campus.nl/subdomains.txt)|17|Alive subdomains|
-|[urls.txt](/data/ssc-campus.nl/urls.txt)|17|Urls|
+|[subdomains.txt](/data/ssc-campus.nl/subdomains.txt)|18|Alive subdomains|
+|[urls.txt](/data/ssc-campus.nl/urls.txt)|18|Urls|
 
 
 ## Statistics
@@ -37,5 +37,6 @@
 |[https://rivm-micol-a01p.rivm.ssc-campus.nl](https://rivm-micol-a01p.rivm.ssc-campus.nl)| | **A**|Apache| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS|Redirecting...|
 |[https://testconn-mp.ssc-campus.nl](https://testconn-mp.ssc-campus.nl)| | **F**|BigIP|:warning: | | | | | :white_check_mark: | | :white_check_mark: | |F5 BigIP||
 |[https://awv.rivm-micol-a01p.rivm.ssc-campus.nl](https://awv.rivm-micol-a01p.rivm.ssc-campus.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|Redirecting...|
+|[http://localhost.ssc-campus.nl](http://localhost.ssc-campus.nl)| | **F**|nginx|:o: | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Laravel Nginx PHP|Weakpass|
 
 

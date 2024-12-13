@@ -5,8 +5,8 @@ permalink: "/dutchgov/platformparticipatie.nl.html"
 subdomains_count: 3
 urls_count: 3
 ssl_rank: 
-http_rank: D
-security_txt: 1
+http_rank: F
+security_txt: 0
 url_link: /data/platformparticipatie.nl/urls.txt
 subdomains_link: /data/platformparticipatie.nl/subdomains.txt
 categories: dutchgov
@@ -19,8 +19,8 @@ tags: dutchgov
 
 
  - **SSL Grade**:
- - **HTTP Security Grade**:D
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:1
+ - **HTTP Security Grade**:F
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:0
 
 
 | File       | Count | Info |
@@ -34,7 +34,7 @@ tags: dutchgov
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://ledendomein.platformparticipatie.nl](https://ledendomein.platformparticipatie.nl)| | **A**|Microsoft-HTTPAPI/2.0| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
+|[https://ledendomein.platformparticipatie.nl](https://ledendomein.platformparticipatie.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
 |[https://platformparticipatie.nl](https://platformparticipatie.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET SDL Tridion|Object moved|
 |[https://www.platformparticipatie.nl](https://www.platformparticipatie.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET SDL Tridion|Object moved|
 

@@ -15,7 +15,6 @@ cibg.sitearchief.nl
 degezondheidsraad.sitearchief.nl
 ind.sitearchief.nl
 archief23.sitearchief.nl
-igj.sitearchief.nl
 archief24.sitearchief.nl
 archief25.sitearchief.nl
 archief26.sitearchief.nl
@@ -37,6 +36,7 @@ p-direkt.sitearchief.nl
 archief31.sitearchief.nl
 archief33.sitearchief.nl
 cbg-meb.sitearchief.nl
+knmi.sitearchief.nl
 pbl.sitearchief.nl
 archief34.sitearchief.nl
 archief35.sitearchief.nl
@@ -45,7 +45,6 @@ dictu.sitearchief.nl
 nvwa.sitearchief.nl
 archief36.sitearchief.nl
 archief37.sitearchief.nl
-archief38.sitearchief.nl
 archief39.sitearchief.nl
 archief40.sitearchief.nl
 ilent.sitearchief.nl
@@ -65,6 +64,8 @@ archief50.sitearchief.nl
 archief51.sitearchief.nl
 www.sitearchief.nl
 minszw.sitearchief.nl
+emissieautoriteit.sitearchief.nl
+archief46.sitearchief.nl
 tweedekamer.sitearchief.nl
 cjib.sitearchief.nl
 douane.sitearchief.nl
@@ -72,6 +73,7 @@ cak.sitearchief.nl
 ciz.sitearchief.nl
 svb.sitearchief.nl
 cbr.sitearchief.nl
+dji.sitearchief.nl
 cpb.sitearchief.nl
 deeplink.sitearchief.nl
 eerstekamer.sitearchief.nl
@@ -79,6 +81,7 @@ rekenkamer.sitearchief.nl
 scp.sitearchief.nl
 kadaster.sitearchief.nl
 meldkamer.sitearchief.nl
+politie.sitearchief.nl
 overzicht.sitearchief.nl
 forensischinstituut.sitearchief.nl
 niwo.sitearchief.nl

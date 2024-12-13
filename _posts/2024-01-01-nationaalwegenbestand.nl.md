@@ -2,7 +2,7 @@
 layout: default
 title: "nationaalwegenbestand.nl"
 permalink: "/dutchgov/nationaalwegenbestand.nl.html"
-subdomains_count: 0
+subdomains_count: 7
 urls_count: 0
 ssl_rank: 
 http_rank: F
@@ -25,7 +25,7 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/nationaalwegenbestand.nl/subdomains.txt)|0|Alive subdomains|
+|[subdomains.txt](/DutchGovScope/data/nationaalwegenbestand.nl/subdomains.txt)|7|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/nationaalwegenbestand.nl/urls.txt)|0|Urls|
 
 

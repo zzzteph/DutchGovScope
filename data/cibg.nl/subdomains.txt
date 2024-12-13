@@ -1,4 +1,6 @@
 acceptatie.ag-dcr.cibg.nl
+acceptatie.api.kcc.cibg.nl
+acceptatie.beheer.lir.cibg.nl
 acceptatie.beheer.lrza.cibg.nl
 acceptatie.bestandsportaal.cibg.nl
 acceptatie.designsystem.cibg.nl
@@ -47,7 +49,6 @@ acceptatie.beheer.generiekeregistratiedienst.cibg.nl
 acceptatie.digikoppeling2.cibg.nl
 behandel.generiekeregistratiedienst.cibg.nl
 beheer.generiekeregistratiedienst.cibg.nl
-designsystem.cibg.nl
 digikoppeling.cibg.nl
 digikoppeling2.cibg.nl
 styleguide.cibg.nl

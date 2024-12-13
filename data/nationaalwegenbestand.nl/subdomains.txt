@@ -1,0 +1,7 @@
+api.nationaalwegenbestand.nl
+kaart.nationaalwegenbestand.nl
+opendata.nationaalwegenbestand.nl
+www.nationaalwegenbestand.nl
+feeds.nationaalwegenbestand.nl
+nationaalwegenbestand.nl
+staging.nationaalwegenbestand.nl

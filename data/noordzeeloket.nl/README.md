@@ -5,14 +5,14 @@
 
 
  - **SSL Grade**:
- - **HTTP Security Grade**:E
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:0
+ - **HTTP Security Grade**:B
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:1
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/noordzeeloket.nl/subdomains.txt)|1|Alive subdomains|
-|[urls.txt](/data/noordzeeloket.nl/urls.txt)|1|Urls|
+|[subdomains.txt](/data/noordzeeloket.nl/subdomains.txt)|2|Alive subdomains|
+|[urls.txt](/data/noordzeeloket.nl/urls.txt)|2|Urls|
 
 
 ## Statistics
@@ -20,6 +20,7 @@
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
+|[https://noordzeeloket.nl](https://noordzeeloket.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:-|Object moved|
 |[https://windmolensopzee.noordzeeloket.nl](https://windmolensopzee.noordzeeloket.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Microsoft Azure...|
 
 

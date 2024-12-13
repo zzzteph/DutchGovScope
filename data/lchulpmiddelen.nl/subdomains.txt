@@ -1,2 +1,3 @@
 autodiscover.lchulpmiddelen.nl
 www.lchulpmiddelen.nl
+lchulpmiddelen.nl

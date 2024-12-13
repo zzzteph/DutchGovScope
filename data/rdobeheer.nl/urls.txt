@@ -3,11 +3,11 @@ https://portal.acc.dusi.rdobeheer.nl
 https://www.acc.dusi.rdobeheer.nl
 https://gebruiker-beheer.acc.dusi.rdobeheer.nl
 https://mailcatch.acc.dusi.rdobeheer.nl
-http://portal2.acc.dusi.rdobeheer.nl
+https://portal2.acc.dusi.rdobeheer.nl
 http://portalco.acc.dusi.rdobeheer.nl
 http://stagefonds.acc.dusi.rdobeheer.nl
 https://co.acc.dusi.rdobeheer.nl
-http://extern.acc.dusi.rdobeheer.nl
+https://extern.acc.dusi.rdobeheer.nl
 http://formulier-beheer.acc.dusi.rdobeheer.nl
 https://www2.acc.dusi.rdobeheer.nl
 https://aanvraag.acc.dusi.rdobeheer.nl
@@ -26,8 +26,8 @@ https://extern.test.dusi.rdobeheer.nl
 https://gebruiker-beheer.test.dusi.rdobeheer.nl
 https://co.test.dusi.rdobeheer.nl
 http://formulier-beheer.test.dusi.rdobeheer.nl
-http://login-uzi.proeftuin.uzi-online.rdobeheer.nl
-http://login.proeftuin.uzi-online.rdobeheer.nl
+https://login-uzi.proeftuin.uzi-online.rdobeheer.nl
+https://login.proeftuin.uzi-online.rdobeheer.nl
 https://oidc.proeftuin.uzi-online.rdobeheer.nl
 http://pilot.proeftuin.uzi-online.rdobeheer.nl
 https://yivi.proeftuin.uzi-online.rdobeheer.nl

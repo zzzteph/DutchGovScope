@@ -1,3 +1,5 @@
+https://www.klimaatmonitor.databank.nl
+https://databank.nl
 https://wsp-waves.databank.nl
 https://veiligheidsbeelden.databank.nl
 https://cbc.databank.nl
@@ -30,7 +32,6 @@ https://primos.databank.nl
 https://veiligheidsmonitor.databank.nl
 https://nbtc.databank.nl
 https://noordholland.databank.nl
-http://ebc.databank.nl
 http://zeelandscan.databank.nl
 https://ijssellandscan.databank.nl
 http://cname-zeelandscan.databank.nl
@@ -38,7 +39,7 @@ https://mbotransparant.databank.nl
 http://apollo.databank.nl
 http://demo-ebc.databank.nl
 https://ftgelderland.databank.nl
-https://beta-adc.databank.nl
+http://beta-adc.databank.nl
 https://beta-klimaatbeleid.databank.nl
 https://beta-vivet.databank.nl
 https://beta-datawonen.databank.nl
@@ -70,7 +71,6 @@ https://primosinteractief.databank.nl
 https://prognosemodelzw.databank.nl
 https://www.gemeente.databank.nl
 https://abc.databank.nl
-https://limburg.databank.nl
 https://beta-noordholland.databank.nl
 https://cname-erfgoed.databank.nl
 https://www.ciz.databank.nl

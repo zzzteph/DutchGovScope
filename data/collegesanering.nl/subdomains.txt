@@ -1,4 +1,2 @@
 www.collegesanering.nl
-mail.collegesanering.nl
-webmail.collegesanering.nl
 collegesanering.nl

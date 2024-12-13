@@ -1,3 +1,5 @@
+www.klimaatmonitor.databank.nl
+databank.nl
 wsp-waves.databank.nl
 veiligheidsbeelden.databank.nl
 cbc.databank.nl
@@ -30,7 +32,6 @@ primos.databank.nl
 veiligheidsmonitor.databank.nl
 nbtc.databank.nl
 noordholland.databank.nl
-ebc.databank.nl
 zeelandscan.databank.nl
 ijssellandscan.databank.nl
 cname-zeelandscan.databank.nl
@@ -70,7 +71,6 @@ primosinteractief.databank.nl
 prognosemodelzw.databank.nl
 www.gemeente.databank.nl
 abc.databank.nl
-limburg.databank.nl
 beta-noordholland.databank.nl
 cname-erfgoed.databank.nl
 www.ciz.databank.nl
@@ -107,3 +107,4 @@ ciz.databank.nl
 www.klimaat-monitor.databank.nl
 www.arcon.databank.nl
 www.kenniscentrumhoreca.databank.nl
+www.seer.databank.nl

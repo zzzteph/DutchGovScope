@@ -150,9 +150,6 @@ nederlandschehistorien.huygens.knaw.nl
 vroedschapsboek.huygens.knaw.nl
 databeheer.huygens.knaw.nl
 guydebres.huygens.knaw.nl
-www.hattem.huygens.knaw.nl
-interedition.huygens.knaw.nl
-martianus.huygens.knaw.nl
 rembench.huygens.knaw.nl
 rembrandtdocuments.huygens.knaw.nl
 alfalablog.huygens.knaw.nl
@@ -370,14 +367,13 @@ mapserver.fa.knaw.nl
 mda.nioo.knaw.nl
 mfiles.knaw.nl
 mfproxy01.knaw.nl
-munki01.knaw.nl
-munki.knaw.nl
 ninweb.knaw.nl
 osso-t.knaw.nl
 ossooam-t.knaw.nl
 taoracleapp21.knaw.nl
 password.knaw.nl
 pdvnl31.dans.knaw.nl
+portal.knaw.nl
 pure.knaw.nl
 raadpleging.knaw.nl
 rathenau-wiki.knaw.nl
@@ -538,3 +534,4 @@ back2roots.nioo.knaw.nl
 promise.nioo.knaw.nl
 intranet.nioo.knaw.nl
 www.climatepursuit.nioo.knaw.nl
+type.labs.dans.knaw.nl

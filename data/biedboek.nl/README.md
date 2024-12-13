@@ -5,14 +5,14 @@
 
 
  - **SSL Grade**:
- - **HTTP Security Grade**:C
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:6
+ - **HTTP Security Grade**:B
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:7
 
 
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/biedboek.nl/subdomains.txt)|13|Alive subdomains|
-|[urls.txt](/data/biedboek.nl/urls.txt)|12|Urls|
+|[urls.txt](/data/biedboek.nl/urls.txt)|13|Urls|
 
 
 ## Statistics
@@ -26,6 +26,7 @@
 |[https://test-nieuw.biedboek.nl](https://test-nieuw.biedboek.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS React|Vastgoed en zake...|
 |[https://productie-nieuw.biedboek.nl](https://productie-nieuw.biedboek.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Azure HSTS React|Vastgoed en zake...|
 |[https://deployment.biedboek.nl](https://deployment.biedboek.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Azure HSTS React|Vastgoed en zake...|
+|[https://share.biedboek.nl](https://share.biedboek.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Azure HSTS|Vastgoed en zake...|
 |[http://autodiscover.biedboek.nl](http://autodiscover.biedboek.nl)| | **C**|Microsoft-IIS/10.0| |:white_check_mark: | | | | | | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server||
 |[https://enterpriseregistration.biedboek.nl](https://enterpriseregistration.biedboek.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[http://localhost.biedboek.nl](http://localhost.biedboek.nl)| | **F**|nginx|:o: | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Laravel Nginx PHP|Weakpass|

@@ -37,21 +37,7 @@ omgevingsdienstnl.mett.nl
 monozakelijk.mett.nl
 kernmetpit.mett.nl
 veracommunity.mett.nl
-samenopdehoogte.mett.nl
-metamersfoort.mett.nl
-seksueelmisbruik.mett.nl
 toegankelijkheid.mett.nl
-emmengeeftenergie.mett.nl
-groenbeleiddenhaag.mett.nl
-copyrijksoverheid.mett.nl
-comenius.mett.nl
-centreofexpertise.mett.nl
-rottemeren.mett.nl
-phrenos.mett.nl
-wijinvught.mett.nl
-communitymborijnland.mett.nl
-denkmeezorgzeeland.mett.nl
-nplw.mett.nl
 copy.mett.nl
 marijke.mett.nl
 api.mett.nl
@@ -126,7 +112,6 @@ startandgo.mett.nl
 academy.mett.nl
 nlzve.mett.nl
 kersenweideodijk.mett.nl
-blueskygroup.mett.nl
 samenhaaksbergen.mett.nl
 bio-enerco.mett.nl
 akademievankunsten.mett.nl
@@ -175,6 +160,8 @@ demointranet.mett.nl
 erfgoedalliantie.mett.nl
 udi.mett.nl
 anna.mett.nl
+soest.mett.nl
+optimus.mett.nl
 drontenikpraatmee.mett.nl
 mirta2deilvught.mett.nl
 samenshertogenbosch.mett.nl
@@ -184,3 +171,7 @@ kcs.mett.nl
 security.mett.nl
 status.mett.nl
 rudlimburgnoord.mett.nl
+rotterdama16.mett.nl
+duurzaamwinterswijk.mett.nl
+intranetsightlandscaping.mett.nl
+toekomstbehendigbrabant.mett.nl

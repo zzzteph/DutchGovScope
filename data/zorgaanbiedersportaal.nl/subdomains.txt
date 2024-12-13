@@ -7,7 +7,6 @@ acceptatie.mijn.toelatingsvergunning.zorgaanbiedersportaal.nl
 acceptatie.mijn.zorgaanbiedersportaal.nl
 acceptatie.zoeken.zorgaanbiedersportaal.nl
 beheer.locatieregister.zorgaanbiedersportaal.nl
-mijn.geschilleninstantie.zorgaanbiedersportaal.nl
 mijn.locatieregister.zorgaanbiedersportaal.nl
 mijn.melding.zorgaanbiedersportaal.nl
 mijn.zorgaanbiedersportaal.nl
