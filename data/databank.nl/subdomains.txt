@@ -8,7 +8,6 @@ dth.hermes.databank.nl
 energiecijfers.databank.nl
 velsen.databank.nl
 senternovem.databank.nl
-arbeidsmarktdetailhandel.databank.nl
 rvo.databank.nl
 klimaatmonitor.databank.nl
 arbeidsmarktmobiliteit.databank.nl
@@ -32,19 +31,15 @@ primos.databank.nl
 veiligheidsmonitor.databank.nl
 nbtc.databank.nl
 noordholland.databank.nl
+ebc.databank.nl
 zeelandscan.databank.nl
 ijssellandscan.databank.nl
 cname-zeelandscan.databank.nl
-mbotransparant.databank.nl
 apollo.databank.nl
 demo-ebc.databank.nl
 ftgelderland.databank.nl
-beta-adc.databank.nl
-beta-klimaatbeleid.databank.nl
 beta-vivet.databank.nl
-beta-datawonen.databank.nl
 beta-klimaatmonitor.databank.nl
-beta-gdi.databank.nl
 beta-wsjg.databank.nl
 cname-holland-rijnland.databank.nl
 erfgoed.databank.nl
@@ -71,6 +66,7 @@ primosinteractief.databank.nl
 prognosemodelzw.databank.nl
 www.gemeente.databank.nl
 abc.databank.nl
+limburg.databank.nl
 beta-noordholland.databank.nl
 cname-erfgoed.databank.nl
 www.ciz.databank.nl

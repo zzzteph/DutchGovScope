@@ -26,7 +26,6 @@ geoportaal.odmh.nl
 autodiscover.odmh.nl
 mobielwerken.odmh.nl
 rdsgateway.odmh.nl
-rdweb.odmh.nl
 smtp.odmh.nl
 pow.odmh.nl
 publicaties.odmh.nl

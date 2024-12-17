@@ -1,5 +1,6 @@
 https://cert.pkioverheid.nl
 https://cp.pkioverheid.nl
+https://cps.pkioverheid.nl
 https://crl.pkioverheid.nl
 https://oid.pkioverheid.nl
 https://pkioverheid.nl

@@ -1,3 +1,4 @@
+https://acceptatie.beheer.diergeneeskunderegister.nl
 https://acceptatie.mijn.diergeneeskunderegister.nl
 https://acceptatie.webservices.diergeneeskunderegister.nl
 https://acceptatie.zoeken.diergeneeskunderegister.nl
@@ -9,4 +10,5 @@ https://mijn.diergeneeskunderegister.nl
 https://webservices.diergeneeskunderegister.nl
 https://zoeken.diergeneeskunderegister.nl
 https://acceptatie.behandel.diergeneeskunderegister.nl
+https://behandel.diergeneeskunderegister.nl
 https://beheer.diergeneeskunderegister.nl

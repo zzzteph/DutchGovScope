@@ -9,7 +9,6 @@ https://mail.noord-holland.nl
 https://automation-node.datalab-prod.aws.noord-holland.nl
 https://datalab.noord-holland.nl
 https://bestanden.noord-holland.nl
-https://cijfers.noord-holland.nl
 https://eidbroker-pre.noord-holland.nl
 https://eidbroker.noord-holland.nl
 http://ep.noord-holland.nl

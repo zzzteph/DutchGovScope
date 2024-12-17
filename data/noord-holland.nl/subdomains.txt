@@ -9,7 +9,6 @@ mail.noord-holland.nl
 automation-node.datalab-prod.aws.noord-holland.nl
 datalab.noord-holland.nl
 bestanden.noord-holland.nl
-cijfers.noord-holland.nl
 eidbroker-pre.noord-holland.nl
 eidbroker.noord-holland.nl
 ep.noord-holland.nl

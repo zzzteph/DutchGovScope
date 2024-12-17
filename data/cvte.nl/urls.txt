@@ -1,4 +1,3 @@
-https://autodiscover.cvte.nl
 https://mx2.cvte.nl
 https://cvte.nl
 https://feeds.cvte.nl

@@ -6,6 +6,7 @@ testkennis.hdsr.nl
 cawfirewall.hdsr.nl
 cawuitwijkfirewall.hdsr.nl
 uconnect-acc.hdsr.nl
+uconnect.hdsr.nl
 webdiensten.hdsr.nl
 webservices.hdsr.nl
 geoservices.hdsr.nl

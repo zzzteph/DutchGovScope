@@ -135,4 +135,3 @@ https://enterpriseregistration.tweedekamer.nl
 http://localhost.tweedekamer.nl
 https://msoid.tweedekamer.nl
 https://email.tweedekamer.nl
-https://b67.tweedekamer.nl

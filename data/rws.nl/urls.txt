@@ -51,8 +51,6 @@ https://getij.rws.nl
 https://port-enc.rws.nl
 https://standaarden.rws.nl
 https://beterbediend.rws.nl
-https://bezoekerscentrum.rws.nl
-https://test.bezoekerscentrum.rws.nl
 http://centraaltoegangspuntdata.rws.nl
 http://nis.rws.nl
 https://cmgrws.rws.nl

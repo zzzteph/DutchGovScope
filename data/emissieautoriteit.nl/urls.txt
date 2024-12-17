@@ -17,3 +17,5 @@ https://ehpzee.emissieautoriteit.nl
 https://emissieautoriteit.nl
 https://jpp.emissieautoriteit.nl
 https://preprodehd.emissieautoriteit.nl
+https://mivp.emissieautoriteit.nl
+https://ehd.emissieautoriteit.nl

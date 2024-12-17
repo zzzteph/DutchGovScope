@@ -49,6 +49,7 @@ acceptatie.beheer.generiekeregistratiedienst.cibg.nl
 acceptatie.digikoppeling2.cibg.nl
 behandel.generiekeregistratiedienst.cibg.nl
 beheer.generiekeregistratiedienst.cibg.nl
+designsystem.cibg.nl
 digikoppeling.cibg.nl
 digikoppeling2.cibg.nl
 styleguide.cibg.nl

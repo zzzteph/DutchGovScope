@@ -6,7 +6,6 @@ https://nh.douane.nl
 https://tarief.douane.nl
 https://wpx-80-aix-http.douane.nl
 https://validationcalculation.douane.nl
-https://validationcalculationtest.douane.nl
 https://werken.douane.nl
 https://werkenbij.douane.nl
 https://fibd1.douane.nl

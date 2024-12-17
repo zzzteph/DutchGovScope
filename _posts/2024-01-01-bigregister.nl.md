@@ -2,11 +2,11 @@
 layout: default
 title: "bigregister.nl"
 permalink: "/dutchgov/bigregister.nl.html"
-subdomains_count: 21
-urls_count: 21
+subdomains_count: 23
+urls_count: 23
 ssl_rank: 
 http_rank: A
-security_txt: 20
+security_txt: 22
 url_link: /data/bigregister.nl/urls.txt
 subdomains_link: /data/bigregister.nl/subdomains.txt
 categories: dutchgov
@@ -20,13 +20,13 @@ tags: dutchgov
 
  - **SSL Grade**:
  - **HTTP Security Grade**:A
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:20
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:22
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/bigregister.nl/subdomains.txt)|21|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/bigregister.nl/urls.txt)|21|Urls|
+|[subdomains.txt](/DutchGovScope/data/bigregister.nl/subdomains.txt)|23|Alive subdomains|
+|[urls.txt](/DutchGovScope/data/bigregister.nl/urls.txt)|23|Urls|
 
 
 ## Statistics
@@ -41,6 +41,7 @@ tags: dutchgov
 |[https://acceptatie.tea.bigregister.nl](https://acceptatie.tea.bigregister.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://acceptatie.webservices.bigregister.nl](https://acceptatie.webservices.bigregister.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://acceptatie.zoeken.bigregister.nl](https://acceptatie.zoeken.bigregister.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
+|[https://advieswijzer.bigregister.nl](https://advieswijzer.bigregister.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[http://api.bigregister.nl](http://api.bigregister.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://beheer.bigregister.nl](https://beheer.bigregister.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://webservices.bigregister.nl](https://webservices.bigregister.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
@@ -52,6 +53,7 @@ tags: dutchgov
 |[https://feeds.english.bigregister.nl](https://feeds.english.bigregister.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://opendata.bigregister.nl](https://opendata.bigregister.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://mijn.bigregister.nl](https://mijn.bigregister.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Mijn BIG-registe...|
+|[https://tea.bigregister.nl](https://tea.bigregister.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://zoeken.bigregister.nl](https://zoeken.bigregister.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Zorgverlener opz...|
 |[https://acceptatie.behandel.bigregister.nl](https://acceptatie.behandel.bigregister.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://behandel.bigregister.nl](https://behandel.bigregister.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||

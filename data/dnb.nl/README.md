@@ -6,13 +6,13 @@
 
  - **SSL Grade**:
  - **HTTP Security Grade**:C
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:47
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:48
 
 
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/dnb.nl/subdomains.txt)|134|Alive subdomains|
-|[urls.txt](/data/dnb.nl/urls.txt)|132|Urls|
+|[urls.txt](/data/dnb.nl/urls.txt)|134|Urls|
 
 
 ## Statistics
@@ -152,5 +152,7 @@
 |[https://tz-aanvragen.dnb.nl](https://tz-aanvragen.dnb.nl)| | **A**|| |:white_check_mark: | | |:warning: | | :white_check_mark: | :white_check_mark: | |Azure Azure Front Door HSTS|Supervision Appl...|
 |[https://tz-aanvragen-acc.dnb.nl](https://tz-aanvragen-acc.dnb.nl)| | **A**|| |:white_check_mark: | | |:warning: | | :white_check_mark: | :white_check_mark: | |Azure Azure Front Door HSTS|Supervision Appl...|
 |[https://dlo-acc.dnb.nl](https://dlo-acc.dnb.nl)| | **A**||:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |Azure Azure Front Door HSTS||
+|[https://designsystem.dnb.nl](https://designsystem.dnb.nl)| | **E**|| | | | | | | | :white_check_mark: | |Bootstrap:5.2.3|Azure Static Web...|
+|[https://firehose.dnb.nl](https://firehose.dnb.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|Publicly Listed...|
 
 

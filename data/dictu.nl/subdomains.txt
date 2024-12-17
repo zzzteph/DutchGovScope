@@ -36,6 +36,7 @@ iltbuildserver.dictu.nl
 mailing.dictu.nl
 mft.webftp.dictu.nl
 mijntoken.dictu.nl
+pms-acc.dictu.nl
 procesweb-test.dictu.nl
 procesweb.dictu.nl
 sfs-acc.dictu.nl
@@ -63,3 +64,5 @@ tvs.dictu.nl
 rijkspasocsp2-acc.dictu.nl
 test2.dictu.nl
 acc2.dictu.nl
+jira.dictu.nl
+jira-acc.dictu.nl

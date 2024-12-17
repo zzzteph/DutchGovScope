@@ -11,7 +11,7 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/perined.nl/subdomains.txt)|14|Alive subdomains|
+|[subdomains.txt](/data/perined.nl/subdomains.txt)|15|Alive subdomains|
 |[urls.txt](/data/perined.nl/urls.txt)|14|Urls|
 
 

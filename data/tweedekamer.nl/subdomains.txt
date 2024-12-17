@@ -135,4 +135,3 @@ enterpriseregistration.tweedekamer.nl
 localhost.tweedekamer.nl
 msoid.tweedekamer.nl
 email.tweedekamer.nl
-b67.tweedekamer.nl

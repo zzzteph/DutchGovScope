@@ -11,8 +11,8 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/douane.nl/subdomains.txt)|12|Alive subdomains|
-|[urls.txt](/data/douane.nl/urls.txt)|12|Urls|
+|[subdomains.txt](/data/douane.nl/subdomains.txt)|11|Alive subdomains|
+|[urls.txt](/data/douane.nl/urls.txt)|11|Urls|
 
 
 ## Statistics
@@ -28,7 +28,6 @@
 |[https://tarief.douane.nl](https://tarief.douane.nl)| | **B**|BigIP|:white_check_mark: |:white_check_mark: | :warning:| |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |F5 BigIP||
 |[https://wpx-80-aix-http.douane.nl](https://wpx-80-aix-http.douane.nl)| | **F**|BigIP| | | | | | | | :white_check_mark: | |F5 BigIP||
 |[https://validationcalculation.douane.nl](https://validationcalculation.douane.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS IBM DataPower||
-|[https://validationcalculationtest.douane.nl](https://validationcalculationtest.douane.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS IBM DataPower||
 |[https://werken.douane.nl](https://werken.douane.nl)| | **A**|Ponos Maximum|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Werken bij de Do...|
 |[https://werkenbij.douane.nl](https://werkenbij.douane.nl)| | **A**|Ponos Maximum|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://fibd1.douane.nl](https://fibd1.douane.nl)| | **C**|| | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | ||Request Rejected|

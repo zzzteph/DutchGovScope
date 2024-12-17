@@ -2,8 +2,8 @@
 layout: default
 title: "platformparticipatie.nl"
 permalink: "/dutchgov/platformparticipatie.nl.html"
-subdomains_count: 3
-urls_count: 3
+subdomains_count: 1
+urls_count: 1
 ssl_rank: 
 http_rank: F
 security_txt: 0
@@ -25,8 +25,8 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/platformparticipatie.nl/subdomains.txt)|3|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/platformparticipatie.nl/urls.txt)|3|Urls|
+|[subdomains.txt](/DutchGovScope/data/platformparticipatie.nl/subdomains.txt)|1|Alive subdomains|
+|[urls.txt](/DutchGovScope/data/platformparticipatie.nl/urls.txt)|1|Urls|
 
 
 ## Statistics
@@ -35,7 +35,5 @@ tags: dutchgov
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[https://ledendomein.platformparticipatie.nl](https://ledendomein.platformparticipatie.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
-|[https://platformparticipatie.nl](https://platformparticipatie.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET SDL Tridion|Object moved|
-|[https://www.platformparticipatie.nl](https://www.platformparticipatie.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET SDL Tridion|Object moved|
 
 

@@ -150,6 +150,9 @@ https://nederlandschehistorien.huygens.knaw.nl
 https://vroedschapsboek.huygens.knaw.nl
 https://databeheer.huygens.knaw.nl
 https://guydebres.huygens.knaw.nl
+https://www.hattem.huygens.knaw.nl
+https://interedition.huygens.knaw.nl
+https://martianus.huygens.knaw.nl
 https://rembench.huygens.knaw.nl
 https://rembrandtdocuments.huygens.knaw.nl
 https://alfalablog.huygens.knaw.nl
@@ -449,7 +452,6 @@ https://hulpopafstand.knaw.nl
 https://remotesupport.knaw.nl
 https://portus.knaw.nl
 https://rds.knaw.nl
-https://rdsgw.knaw.nl
 https://repository.knaw.nl
 https://oaipmh.emitx.huygens.knaw.nl
 https://neww.huygens.knaw.nl

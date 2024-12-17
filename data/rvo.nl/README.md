@@ -12,7 +12,7 @@
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/rvo.nl/subdomains.txt)|125|Alive subdomains|
-|[urls.txt](/data/rvo.nl/urls.txt)|124|Urls|
+|[urls.txt](/data/rvo.nl/urls.txt)|125|Urls|
 
 
 ## Statistics
@@ -144,5 +144,6 @@
 |[https://www.kennisdelen.rvo.nl](https://www.kennisdelen.rvo.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://www.offshorewind.rvo.nl](https://www.offshorewind.rvo.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://www.sharingknowledge.rvo.nl](https://www.sharingknowledge.rvo.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
+|[https://english-test.rvo.nl](https://english-test.rvo.nl)| | **E**|| | | | | | | | :white_check_mark: | |Basic HSTS|401 Authorizatio...|
 
 

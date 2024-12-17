@@ -5,13 +5,11 @@ formulieren-preprod.waterschaplimburg.nl
 formulieren.waterschaplimburg.nl
 waterschaplimburg.nl
 inloggen-preprod.waterschaplimburg.nl
-metelkaar.waterschaplimburg.nl
 open.waterschaplimburg.nl
 spapps-t.waterschaplimburg.nl
 spapps.waterschaplimburg.nl
 subsidie.waterschaplimburg.nl
 test-cms-eef.waterschaplimburg.nl
-test-eef.waterschaplimburg.nl
 transfer.waterschaplimburg.nl
 wikixl-saml.acceptatie.waterschaplimburg.nl
 www.waterschaplimburg.nl
@@ -29,6 +27,4 @@ vpn.waterschaplimburg.nl
 werkplek.waterschaplimburg.nl
 verhuisbedrijven.waterschaplimburg.nl
 publicaffairs.waterschaplimburg.nl
-www-gp-web-1691.waterschaplimburg.nl
-castaways.waterschaplimburg.nl
 mx04.waterschaplimburg.nl

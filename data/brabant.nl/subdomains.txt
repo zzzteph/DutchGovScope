@@ -56,7 +56,6 @@ atlas.brabant.nl
 wachtwoord.brabant.nl
 detoekomstbegintnu.brabant.nl
 draf-acpt.brabant.nl
-draf.brabant.nl
 esb-test.brabant.nl
 opendata.brabant.nl
 samenwerken.brabant.nl
@@ -83,3 +82,4 @@ webcast.brabant.nl
 enterpriseenrollment.brabant.nl
 acs.brabant.nl
 acs-acpt.brabant.nl
+open.brabant.nl

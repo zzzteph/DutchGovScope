@@ -5,13 +5,13 @@
 
 
  - **SSL Grade**:
- - **HTTP Security Grade**:B
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:6
+ - **HTTP Security Grade**:C
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:5
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/odijmond.nl/subdomains.txt)|19|Alive subdomains|
+|[subdomains.txt](/data/odijmond.nl/subdomains.txt)|18|Alive subdomains|
 |[urls.txt](/data/odijmond.nl/urls.txt)|16|Urls|
 
 
@@ -20,7 +20,6 @@
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[http://odijmond.nl](http://odijmond.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:-||
 |[https://open-wave.odijmond.nl](https://open-wave.odijmond.nl)| | **B**|Apache|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS PHP||
 |[https://acc-open-wave.odijmond.nl](https://acc-open-wave.odijmond.nl)| | **B**|Apache|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS PHP||
 |[http://autodiscover.odijmond.nl](http://autodiscover.odijmond.nl)| | **C**|Microsoft-IIS/10.0| |:white_check_mark: | | | | | | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server||
@@ -36,5 +35,6 @@
 |[https://dusk-open-wave.odijmond.nl](https://dusk-open-wave.odijmond.nl)| | **B**|Apache| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS|403 Forbidden|
 |[https://dusk-acc-open-wave.odijmond.nl](https://dusk-acc-open-wave.odijmond.nl)| | **B**|Apache| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS|403 Forbidden|
 |[https://db.open-wave.odijmond.nl](https://db.open-wave.odijmond.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|403 Forbidden|
+|[https://jointest.odijmond.nl](https://jointest.odijmond.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 
 

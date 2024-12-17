@@ -11,7 +11,7 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/nationaalwegenbestand.nl/subdomains.txt)|7|Alive subdomains|
+|[subdomains.txt](/data/nationaalwegenbestand.nl/subdomains.txt)|6|Alive subdomains|
 |[urls.txt](/data/nationaalwegenbestand.nl/urls.txt)|0|Urls|
 
 

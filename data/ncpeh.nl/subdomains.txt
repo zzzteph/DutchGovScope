@@ -1,5 +1,4 @@
 acceptatie.beheer.ncpeh.nl
-acceptatie.portaal.ncpeh.nl
 beheer.ncpeh.nl
 feeds.ncpeh.nl
 ncpeh.nl

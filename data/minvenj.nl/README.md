@@ -11,8 +11,8 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/minvenj.nl/subdomains.txt)|16|Alive subdomains|
-|[urls.txt](/data/minvenj.nl/urls.txt)|16|Urls|
+|[subdomains.txt](/data/minvenj.nl/subdomains.txt)|15|Alive subdomains|
+|[urls.txt](/data/minvenj.nl/urls.txt)|15|Urls|
 
 
 ## Statistics
@@ -20,7 +20,6 @@
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://acc-emnl.minvenj.nl](https://acc-emnl.minvenj.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||
 |[https://acc-ssci-ossplanning.minvenj.nl](https://acc-ssci-ossplanning.minvenj.nl)| | **F**|Microsoft-IIS/8.5| | | | | | | | :white_check_mark: | |IIS:8.5 Microsoft ASP.NET Windows Server|403 - Forbidden:...|
 |[https://cparegister.minvenj.nl](https://cparegister.minvenj.nl)| | **A**|nginx|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bootstrap Django HSTS Nginx Python|Home –...|
 |[https://dtv.connect.minvenj.nl](https://dtv.connect.minvenj.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS||

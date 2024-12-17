@@ -1,4 +1,3 @@
-acc-emnl.minvenj.nl
 acc-ssci-ossplanning.minvenj.nl
 cparegister.minvenj.nl
 dtv.connect.minvenj.nl

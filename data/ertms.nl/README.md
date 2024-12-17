@@ -12,7 +12,7 @@
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/ertms.nl/subdomains.txt)|121|Alive subdomains|
-|[urls.txt](/data/ertms.nl/urls.txt)|86|Urls|
+|[urls.txt](/data/ertms.nl/urls.txt)|121|Urls|
 
 
 ## Statistics
@@ -101,10 +101,45 @@
 |[https://krant.ertms.nl](https://krant.ertms.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Object moved|
 |[https://myriam.ertms.nl](https://myriam.ertms.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Object moved|
 |[https://sanctions.ertms.nl](https://sanctions.ertms.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Object moved|
+|[https://e911.ertms.nl](https://e911.ertms.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Object moved|
 |[https://alam.ertms.nl](https://alam.ertms.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Object moved|
+|[https://linq.ertms.nl](https://linq.ertms.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Object moved|
 |[https://prep.ertms.nl](https://prep.ertms.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Object moved|
 |[https://1424.ertms.nl](https://1424.ertms.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Object moved|
 |[https://dvlm.mijn.ertms.nl](https://dvlm.mijn.ertms.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Object moved|
+|[https://bioscoop-hilversum.ertms.nl](https://bioscoop-hilversum.ertms.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Object moved|
+|[https://litera.ertms.nl](https://litera.ertms.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Object moved|
+|[https://edin.ertms.nl](https://edin.ertms.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Object moved|
+|[https://sogou.ertms.nl](https://sogou.ertms.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Object moved|
+|[https://cs13.ertms.nl](https://cs13.ertms.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Object moved|
+|[https://xenmobile.ertms.nl](https://xenmobile.ertms.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Object moved|
+|[https://web4133.ertms.nl](https://web4133.ertms.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Object moved|
+|[https://sieraden-homepages.ertms.nl](https://sieraden-homepages.ertms.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Object moved|
 |[https://www-5-3.ertms.nl](https://www-5-3.ertms.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Object moved|
+|[https://mcafeequarantine.ertms.nl](https://mcafeequarantine.ertms.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Object moved|
+|[https://yoo.ertms.nl](https://yoo.ertms.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Object moved|
+|[https://www2b.ertms.nl](https://www2b.ertms.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Object moved|
+|[https://djk.ertms.nl](https://djk.ertms.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Object moved|
+|[https://pjs.ertms.nl](https://pjs.ertms.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Object moved|
+|[https://excise.ertms.nl](https://excise.ertms.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Object moved|
+|[https://garibaldi.ertms.nl](https://garibaldi.ertms.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Object moved|
+|[https://mills.ertms.nl](https://mills.ertms.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Object moved|
+|[https://freesoft.ertms.nl](https://freesoft.ertms.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Object moved|
+|[https://antwerpen-hotels.ertms.nl](https://antwerpen-hotels.ertms.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Object moved|
+|[https://axioma.ertms.nl](https://axioma.ertms.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Object moved|
+|[https://mail.covid19.ertms.nl](https://mail.covid19.ertms.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Object moved|
+|[https://ebr.ertms.nl](https://ebr.ertms.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Object moved|
+|[https://azewijn.ertms.nl](https://azewijn.ertms.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Object moved|
+|[https://webmail.oud.ertms.nl](https://webmail.oud.ertms.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Object moved|
+|[https://avila.ertms.nl](https://avila.ertms.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Object moved|
+|[https://dum.ertms.nl](https://dum.ertms.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Object moved|
+|[https://openemm.ertms.nl](https://openemm.ertms.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Object moved|
+|[https://afar.ertms.nl](https://afar.ertms.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Object moved|
+|[https://centreon.ertms.nl](https://centreon.ertms.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Object moved|
+|[https://oldnavy.ertms.nl](https://oldnavy.ertms.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Object moved|
+|[https://betsy.ertms.nl](https://betsy.ertms.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Object moved|
+|[https://iai.ertms.nl](https://iai.ertms.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Object moved|
+|[https://concerts.ertms.nl](https://concerts.ertms.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Object moved|
+|[https://pvz.ertms.nl](https://pvz.ertms.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Object moved|
 
 

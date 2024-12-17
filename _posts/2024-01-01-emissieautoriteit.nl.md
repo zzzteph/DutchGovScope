@@ -3,10 +3,10 @@ layout: default
 title: "emissieautoriteit.nl"
 permalink: "/dutchgov/emissieautoriteit.nl.html"
 subdomains_count: 21
-urls_count: 19
+urls_count: 21
 ssl_rank: 
 http_rank: A
-security_txt: 10
+security_txt: 11
 url_link: /data/emissieautoriteit.nl/urls.txt
 subdomains_link: /data/emissieautoriteit.nl/subdomains.txt
 categories: dutchgov
@@ -20,13 +20,13 @@ tags: dutchgov
 
  - **SSL Grade**:
  - **HTTP Security Grade**:A
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:10
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:11
 
 
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/DutchGovScope/data/emissieautoriteit.nl/subdomains.txt)|21|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/emissieautoriteit.nl/urls.txt)|19|Urls|
+|[urls.txt](/DutchGovScope/data/emissieautoriteit.nl/urls.txt)|21|Urls|
 
 
 ## Statistics
@@ -53,5 +53,7 @@ tags: dutchgov
 |[https://emissieautoriteit.nl](https://emissieautoriteit.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
 |[https://jpp.emissieautoriteit.nl](https://jpp.emissieautoriteit.nl)| | **F**|Apache/2.4.52 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.52 Ubuntu|ownCloud|
 |[https://preprodehd.emissieautoriteit.nl](https://preprodehd.emissieautoriteit.nl)| | **A**|nginx| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|403 Forbidden|
+|[https://mivp.emissieautoriteit.nl](https://mivp.emissieautoriteit.nl)| | **A**|nginx| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|Markt inkomsten...|
+|[https://ehd.emissieautoriteit.nl](https://ehd.emissieautoriteit.nl)| | **A**|nginx| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|403 Forbidden|
 
 

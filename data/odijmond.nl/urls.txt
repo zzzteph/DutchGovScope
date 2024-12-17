@@ -1,4 +1,3 @@
-http://odijmond.nl
 https://open-wave.odijmond.nl
 https://acc-open-wave.odijmond.nl
 http://autodiscover.odijmond.nl
@@ -14,3 +13,4 @@ http://localhost.odijmond.nl
 https://dusk-open-wave.odijmond.nl
 https://dusk-acc-open-wave.odijmond.nl
 https://db.open-wave.odijmond.nl
+https://jointest.odijmond.nl

@@ -1,3 +1,4 @@
+acceptatie.beheer.diergeneeskunderegister.nl
 acceptatie.mijn.diergeneeskunderegister.nl
 acceptatie.webservices.diergeneeskunderegister.nl
 acceptatie.zoeken.diergeneeskunderegister.nl
@@ -9,4 +10,5 @@ mijn.diergeneeskunderegister.nl
 webservices.diergeneeskunderegister.nl
 zoeken.diergeneeskunderegister.nl
 acceptatie.behandel.diergeneeskunderegister.nl
+behandel.diergeneeskunderegister.nl
 beheer.diergeneeskunderegister.nl

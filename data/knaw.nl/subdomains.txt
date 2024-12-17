@@ -150,6 +150,9 @@ nederlandschehistorien.huygens.knaw.nl
 vroedschapsboek.huygens.knaw.nl
 databeheer.huygens.knaw.nl
 guydebres.huygens.knaw.nl
+www.hattem.huygens.knaw.nl
+interedition.huygens.knaw.nl
+martianus.huygens.knaw.nl
 rembench.huygens.knaw.nl
 rembrandtdocuments.huygens.knaw.nl
 alfalablog.huygens.knaw.nl
@@ -450,7 +453,6 @@ hulpopafstand.knaw.nl
 remotesupport.knaw.nl
 portus.knaw.nl
 rds.knaw.nl
-rdsgw.knaw.nl
 repository.knaw.nl
 oaipmh.emitx.huygens.knaw.nl
 neww.huygens.knaw.nl

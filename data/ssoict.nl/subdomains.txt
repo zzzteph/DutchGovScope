@@ -3,3 +3,4 @@ www.ssoict.nl
 klantenportaal.ssoict.nl
 test.ssoict.nl
 wts.klantenportaal.ssoict.nl
+arbeidsinspectie.ssoict.nl

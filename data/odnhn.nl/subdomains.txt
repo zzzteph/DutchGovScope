@@ -1,4 +1,5 @@
 bestandverzenden.odnhn.nl
+cmsintranet.odnhn.nl
 intranet.odnhn.nl
 enterpriseenrollment.odnhn.nl
 ktaprod.odnhn.nl
@@ -8,6 +9,7 @@ mailing.odnhn.nl
 odnhn.nl
 www.odnhn.nl
 test-cmsintranet.odnhn.nl
+test-intranet.odnhn.nl
 vpn.odnhn.nl
 autodiscover.odnhn.nl
 email.odnhn.nl

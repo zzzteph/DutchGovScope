@@ -2,3 +2,4 @@ nlflag.nl
 www.nlflag.nl
 ftp.nlflag.nl
 mail.nlflag.nl
+autodiscover.nlflag.nl

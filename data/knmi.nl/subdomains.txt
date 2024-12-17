@@ -51,7 +51,6 @@ sf.knmi.nl
 spaceweather.knmi.nl
 testconn.knmi.nl
 tyk-cdn.dataplatform.knmi.nl
-w3dxweb.knmi.nl
 wms-viewer.dataplatform.knmi.nl
 wow.knmi.nl
 cms-origin.klimaatscenarios-data.knmi.nl

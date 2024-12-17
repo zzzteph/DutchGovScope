@@ -7,4 +7,7 @@ http://autodiscover.veiligheidsregioflevoland.nl
 https://enterpriseenrollment.veiligheidsregioflevoland.nl
 https://enterpriseregistration.veiligheidsregioflevoland.nl
 http://dept.veiligheidsregioflevoland.nl
+http://calculus.veiligheidsregioflevoland.nl
+http://enlace.veiligheidsregioflevoland.nl
+http://web3984.veiligheidsregioflevoland.nl
 https://msoid.veiligheidsregioflevoland.nl

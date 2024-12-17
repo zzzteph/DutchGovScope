@@ -59,6 +59,7 @@ https://planoview.provincie-utrecht.nl
 https://ruimtelijkeplannen.provincie-utrecht.nl
 https://ruimtelijkeplannenintern.provincie-utrecht.nl
 https://sap-crm.provincie-utrecht.nl
+https://search-a.provincie-utrecht.nl
 https://search.provincie-utrecht.nl
 https://slechtvalk.provincie-utrecht.nl
 https://sslvpn-hth.provincie-utrecht.nl
@@ -85,10 +86,10 @@ https://omgevingsbeleid.provincie-utrecht.nl
 https://iapp.provincie-utrecht.nl
 https://rmb.provincie-utrecht.nl
 https://govroam.provincie-utrecht.nl
+https://mfa.provincie-utrecht.nl
 http://localhost.provincie-utrecht.nl
 http://autodiscover.provincie-utrecht.nl
 https://burgemeesters.provincie-utrecht.nl
-https://ris.provincie-utrecht.nl
 https://zsd.provincie-utrecht.nl
 https://sap-s4h-p.provincie-utrecht.nl
 https://atlas-ontw.provincie-utrecht.nl

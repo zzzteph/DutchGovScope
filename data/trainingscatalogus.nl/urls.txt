@@ -103,6 +103,4 @@ https://rbo.trainingscatalogus.nl
 https://stedin.trainingscatalogus.nl
 https://ftp.trainingscatalogus.nl
 https://sectest.trainingscatalogus.nl
-https://alliander-lms-a.enrollment-api.trainingscatalogus.nl
 https://belastingdienst-lms-a.product-api.trainingscatalogus.nl
-https://belastingdienst-lms.enrollment-api.trainingscatalogus.nl

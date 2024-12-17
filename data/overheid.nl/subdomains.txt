@@ -224,7 +224,6 @@ wetgevingskalender-acc.overheid.nl
 pdc.acc.omgevingswet.overheid.nl
 pdc.omgevingswet.overheid.nl
 plan-plan-validatie.pre.omgevingswet.overheid.nl
-pp1.toegang.overheid.nl
 puc-acc.overheid.nl
 puc-redactie-acc.overheid.nl
 puc-redactie.overheid.nl
