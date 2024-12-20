@@ -37,7 +37,7 @@ tags: dutchgov
 |[https://test.digitaleoverheid.nl](https://test.digitaleoverheid.nl)| | **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |Basic HSTS Nginx|401 Authorizatio...|
 |[https://accept.digitaleoverheid.nl](https://accept.digitaleoverheid.nl)| | **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |Basic HSTS Nginx|401 Authorizatio...|
 |[https://digitaleoverheid.nl](https://digitaleoverheid.nl)| | **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS MySQL Nginx PHP:8.2.26 WordPress||
-|[https://www.digitaleoverheid.nl](https://www.digitaleoverheid.nl)| | **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS MySQL Nginx PHP:8.2.26 WordPress:6.7.1 Yoast SEO:23.8|Home - Digitale...|
+|[https://www.digitaleoverheid.nl](https://www.digitaleoverheid.nl)| | **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS MySQL Nginx PHP:8.2.26 WordPress:6.7.1 Yoast SEO:24.1|Home - Digitale...|
 |[http://autodiscover.digitaleoverheid.nl](http://autodiscover.digitaleoverheid.nl)| | **C**|Microsoft-IIS/10.0| |:white_check_mark: | | | | | | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server||
 
 

@@ -56,6 +56,7 @@ https://atlas.brabant.nl
 https://wachtwoord.brabant.nl
 http://detoekomstbegintnu.brabant.nl
 http://draf-acpt.brabant.nl
+https://draf.brabant.nl
 https://esb-test.brabant.nl
 https://opendata.brabant.nl
 https://samenwerken.brabant.nl

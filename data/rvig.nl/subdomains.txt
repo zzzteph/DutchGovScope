@@ -14,6 +14,7 @@ rni-webform-acc.rvig.nl
 rni-webform.rvig.nl
 acc2.intranet.rvig.nl
 publicaties-acc.rvig.nl
+agw.idm.rvig.nl
 agw.lap.idm.rvig.nl
 api.reis.idm.rvig.nl
 idbs.idm.rvig.nl

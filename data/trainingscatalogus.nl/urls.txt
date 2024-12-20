@@ -22,7 +22,6 @@ https://svb-lms-a.scim-api.trainingscatalogus.nl
 https://trainingscatalogus.nl
 https://vgz-lms-a.course-api.trainingscatalogus.nl
 https://vgz-lms-a.enrollment-api.trainingscatalogus.nl
-https://vgz-lms-a.scim-api.trainingscatalogus.nl
 https://lms-conclusion.trainingscatalogus.nl
 https://buzaleeromgeving.trainingscatalogus.nl
 https://clc.trainingscatalogus.nl
@@ -103,4 +102,6 @@ https://rbo.trainingscatalogus.nl
 https://stedin.trainingscatalogus.nl
 https://ftp.trainingscatalogus.nl
 https://sectest.trainingscatalogus.nl
+https://alliander-lms-a.enrollment-api.trainingscatalogus.nl
 https://belastingdienst-lms-a.product-api.trainingscatalogus.nl
+https://belastingdienst-lms.enrollment-api.trainingscatalogus.nl

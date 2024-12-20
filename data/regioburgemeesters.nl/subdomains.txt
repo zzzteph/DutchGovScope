@@ -1,5 +1,4 @@
 lyncdiscover.regioburgemeesters.nl
-meet.regioburgemeesters.nl
 regioburgemeesters.nl
 www.regioburgemeesters.nl
 sip.regioburgemeesters.nl

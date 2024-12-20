@@ -29,14 +29,14 @@
 |[https://ep-online.nl](https://ep-online.nl)| | **A**||:warning: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bootstrap HSTS Microsoft ASP.NET|EP-Online|
 |[https://opvragen.ep-online.nl](https://opvragen.ep-online.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS|Not Found|
 |[https://downloadpdf-preprod.ep-online.nl](https://downloadpdf-preprod.ep-online.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS|IIS Windows Serv...|
-|[http://maatwerkadvies.api.ep-online.nl](http://maatwerkadvies.api.ep-online.nl)| | **A**||:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS||
+|[https://maatwerkadvies.api.ep-online.nl](https://maatwerkadvies.api.ep-online.nl)| | **A**||:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS||
 |[https://opvragen-preprod.ep-online.nl](https://opvragen-preprod.ep-online.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS|IIS Windows Serv...|
 |[https://preprod.ep-online.nl](https://preprod.ep-online.nl)| | **A**||:warning: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bootstrap HSTS Microsoft ASP.NET|EP-Online (Prepr...|
-|[https://public-preprod.ep-online.nl](https://public-preprod.ep-online.nl)| | **A**||:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS||
+|[http://public-preprod.ep-online.nl](http://public-preprod.ep-online.nl)| | **A**||:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS||
 |[https://public.ep-online.nl](https://public.ep-online.nl)| | **A**||:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS||
 |[https://registreren-acc.ep-online.nl](https://registreren-acc.ep-online.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS|IIS Windows Serv...|
 |[http://services-preprod.ep-online.nl](http://services-preprod.ep-online.nl)| | **A**||:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS||
 |[https://downloadpdf.ep-online.nl](https://downloadpdf.ep-online.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS|Not Found|
-|[https://apikey-preprod.ep-online.nl](https://apikey-preprod.ep-online.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Home - Aanvraagf...|
+|[http://apikey-preprod.ep-online.nl](http://apikey-preprod.ep-online.nl)| | **F**|BigIP| | | | | | | | :white_check_mark: | |F5 BigIP||
 
 

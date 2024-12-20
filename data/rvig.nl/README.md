@@ -6,13 +6,13 @@
 
  - **SSL Grade**:
  - **HTTP Security Grade**:B
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:17
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:18
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/rvig.nl/subdomains.txt)|28|Alive subdomains|
-|[urls.txt](/data/rvig.nl/urls.txt)|28|Urls|
+|[subdomains.txt](/data/rvig.nl/subdomains.txt)|29|Alive subdomains|
+|[urls.txt](/data/rvig.nl/urls.txt)|29|Urls|
 
 
 ## Statistics
@@ -28,7 +28,7 @@
 |[https://intranet.rvig.nl](https://intranet.rvig.nl)| | **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Nginx|403 Forbidden|
 |[https://login.idm.rvig.nl](https://login.idm.rvig.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Java||
 |[https://login.npr.idm.rvig.nl](https://login.npr.idm.rvig.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS Java||
-|[https://prod.rvig.nl](https://prod.rvig.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Basic Nginx|401 Authorizatio...|
+|[https://prod.rvig.nl](https://prod.rvig.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
 |[https://rvig.nl](https://rvig.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
 |[https://www.rvig.nl](https://www.rvig.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Drupal HSTS Nginx PHP:8.1.31|Home | RvIG|
 |[https://publicaties.rvig.nl](https://publicaties.rvig.nl)| | **A**|wadp2|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache Tomcat Green Valley CMS HSTS Java|Home - Toptaken|
@@ -36,6 +36,7 @@
 |[https://rni-webform.rvig.nl](https://rni-webform.rvig.nl)| | **B**||:white_check_mark: |:white_check_mark: | | | :white_check_mark:| | | :white_check_mark: | |HSTS|RNI vooraanmeldi...|
 |[https://acc2.intranet.rvig.nl](https://acc2.intranet.rvig.nl)| | **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Nginx|403 Forbidden|
 |[https://publicaties-acc.rvig.nl](https://publicaties-acc.rvig.nl)| | **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |Basic HSTS Nginx|401 Authorizatio...|
+|[https://agw.idm.rvig.nl](https://agw.idm.rvig.nl)| | **B**||:warning: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://agw.lap.idm.rvig.nl](https://agw.lap.idm.rvig.nl)| | **A**||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://api.reis.idm.rvig.nl](https://api.reis.idm.rvig.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
 |[https://idbs.idm.rvig.nl](https://idbs.idm.rvig.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Java||
@@ -45,7 +46,7 @@
 |[https://lap.rvp.reis.npr.idm.rvig.nl](https://lap.rvp.reis.npr.idm.rvig.nl)| | **B**|Apache|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
 |[https://publicaties-prod.rvig.nl](https://publicaties-prod.rvig.nl)| | **D**|nginx| | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Basic Nginx|401 Authorizatio...|
 |[https://rni-portal-acc.rvig.nl](https://rni-portal-acc.rvig.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| | | :white_check_mark: | |HSTS|RNI Adreswijzigi...|
-|[https://rni-portal.rvig.nl](https://rni-portal.rvig.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| | | :white_check_mark: | |HSTS|RNI Vooraanmeldi...|
+|[https://rni-portal.rvig.nl](https://rni-portal.rvig.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| | | :white_check_mark: | |HSTS|RNI Adreswijzigi...|
 |[https://rvp.reis.idm.rvig.nl](https://rvp.reis.idm.rvig.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|302 Found|
 |[https://publicaties-tst.rvig.nl](https://publicaties-tst.rvig.nl)| | **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |Basic HSTS Nginx|401 Authorizatio...|
 

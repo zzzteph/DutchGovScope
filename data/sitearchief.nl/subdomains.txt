@@ -80,6 +80,8 @@ dji.sitearchief.nl
 cpb.sitearchief.nl
 deeplink.sitearchief.nl
 eerstekamer.sitearchief.nl
+rekenkamer.sitearchief.nl
+scp.sitearchief.nl
 kadaster.sitearchief.nl
 meldkamer.sitearchief.nl
 politie.sitearchief.nl
@@ -89,9 +91,9 @@ niwo.sitearchief.nl
 dienstterugkeerenvertrek.sitearchief.nl
 cdho.sitearchief.nl
 ccmo.sitearchief.nl
+raadrvs.sitearchief.nl
 raadvoorcultuur.sitearchief.nl
 lintjes.sitearchief.nl
-kiesraad.sitearchief.nl
 nvao.sitearchief.nl
 sociaalfondspersoneel.sitearchief.nl
 sodm.sitearchief.nl
@@ -104,7 +106,7 @@ aivd.sitearchief.nl
 justid.sitearchief.nl
 abx04.sitearchief.nl
 abx05.sitearchief.nl
-archief60.sitearchief.nl
+schadefonds.sitearchief.nl
 kabinetkoning.sitearchief.nl
 abx03.sitearchief.nl
 archief53.sitearchief.nl

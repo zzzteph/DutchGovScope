@@ -1,3 +1,4 @@
+https://odijmond.nl
 https://open-wave.odijmond.nl
 https://acc-open-wave.odijmond.nl
 http://autodiscover.odijmond.nl
@@ -14,3 +15,5 @@ https://dusk-open-wave.odijmond.nl
 https://dusk-acc-open-wave.odijmond.nl
 https://db.open-wave.odijmond.nl
 https://jointest.odijmond.nl
+https://admin-join.odijmond.nl
+https://admin-jointest.odijmond.nl

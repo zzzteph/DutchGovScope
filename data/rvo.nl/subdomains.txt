@@ -66,6 +66,7 @@ kennisdelen.rvo.nl
 networkabroad.rvo.nl
 offshorewind.rvo.nl
 sharingknowledge.rvo.nl
+epbdwebservices-preprod.rvo.nl
 epbdwebservices.rvo.nl
 gbatmv.rvo.nl
 gdi-a.rvo.nl
@@ -75,7 +76,7 @@ gtpa-acc.rvo.nl
 gtpa.rvo.nl
 infographics.rvo.nl
 www.infographics.rvo.nl
-intra-cms-acc.rvo.nl
+intra-acc.rvo.nl
 intra-cms.rvo.nl
 intra.rvo.nl
 jiraimg-acc.rvo.nl

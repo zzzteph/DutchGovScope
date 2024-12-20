@@ -376,6 +376,7 @@ https://ossooam-t.knaw.nl
 https://taoracleapp21.knaw.nl
 https://password.knaw.nl
 https://pdvnl31.dans.knaw.nl
+https://portal.knaw.nl
 https://pure.knaw.nl
 https://raadpleging.knaw.nl
 https://rathenau-wiki.knaw.nl
@@ -535,3 +536,4 @@ https://back2roots.nioo.knaw.nl
 https://promise.nioo.knaw.nl
 https://intranet.nioo.knaw.nl
 https://www.climatepursuit.nioo.knaw.nl
+https://type.labs.dans.knaw.nl

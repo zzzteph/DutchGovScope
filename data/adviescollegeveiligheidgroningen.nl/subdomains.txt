@@ -3,3 +3,4 @@ feeds.adviescollegeveiligheidgroningen.nl
 opendata.adviescollegeveiligheidgroningen.nl
 www.adviescollegeveiligheidgroningen.nl
 acc.adviescollegeveiligheidgroningen.nl
+test.adviescollegeveiligheidgroningen.nl

@@ -21,7 +21,7 @@
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[https://preprod.purl.stelselcatalogus.nl](https://preprod.purl.stelselcatalogus.nl)| | **F**|| | | :warning:| | | | | :white_check_mark: | |HSTS||
-|[https://preprod.editor.stelselcatalogus.nl](https://preprod.editor.stelselcatalogus.nl)| | **B**|| | | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Editor|
+|[https://preprod.editor.stelselcatalogus.nl](https://preprod.editor.stelselcatalogus.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Editor|
 |[https://preprod.playground.stelselcatalogus.nl](https://preprod.playground.stelselcatalogus.nl)| | **F**|| | | :warning:| | | | | :white_check_mark: | |HSTS|404 Not Found|
 |[https://preprod.opendata.stelselcatalogus.nl](https://preprod.opendata.stelselcatalogus.nl)| | **A**|Stelselcatalogus| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Logius Stelselca...|
 |[https://preprod.stelselcatalogus.nl](https://preprod.stelselcatalogus.nl)| | **A**|Stelselcatalogus| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Logius Stelselca...|

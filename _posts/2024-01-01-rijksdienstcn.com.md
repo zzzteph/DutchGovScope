@@ -6,7 +6,7 @@ subdomains_count: 16
 urls_count: 16
 ssl_rank: 
 http_rank: B
-security_txt: 12
+security_txt: 11
 url_link: /data/rijksdienstcn.com/urls.txt
 subdomains_link: /data/rijksdienstcn.com/subdomains.txt
 categories: dutchgov
@@ -20,7 +20,7 @@ tags: dutchgov
 
  - **SSL Grade**:
  - **HTTP Security Grade**:B
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:12
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:11
 
 
 | File       | Count | Info |
@@ -45,7 +45,7 @@ tags: dutchgov
 |[https://rijksdienstcn.com](https://rijksdienstcn.com)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
 |[https://www.rijksdienstcn.com](https://www.rijksdienstcn.com)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Home | Rijksdien...|
 |[https://fileshare.rijksdienstcn.com](https://fileshare.rijksdienstcn.com)| | **F**|CerberusFTPServer/2024| | | | | | | | :white_check_mark: | ||302 Redirected|
-|[https://fs.rijksdienstcn.com](https://fs.rijksdienstcn.com)| | **E**|Microsoft-HTTPAPI/2.0| | | | | | :white_check_mark: | | :white_check_mark: | |Microsoft HTTPAPI:2.0||
+|[https://fs.rijksdienstcn.com](https://fs.rijksdienstcn.com)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
 |[https://passwordreset.rijksdienstcn.com](https://passwordreset.rijksdienstcn.com)| | **F**|Microsoft-IIS/10.0| | | | | | | | :white_check_mark: | |HSTS IIS:10.0 Microsoft ASP.NET Windows Server|SSRPM Web Interf...|
 |[https://portal.rijksdienstcn.com](https://portal.rijksdienstcn.com)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||
 |[https://sso.rijksdienstcn.com](https://sso.rijksdienstcn.com)| | **D**||:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |||

@@ -5,14 +5,14 @@
 
 
  - **SSL Grade**:
- - **HTTP Security Grade**:C
+ - **HTTP Security Grade**:A
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:2
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/kennisnetwerkbiociden.nl/subdomains.txt)|3|Alive subdomains|
-|[urls.txt](/data/kennisnetwerkbiociden.nl/urls.txt)|3|Urls|
+|[subdomains.txt](/data/kennisnetwerkbiociden.nl/subdomains.txt)|2|Alive subdomains|
+|[urls.txt](/data/kennisnetwerkbiociden.nl/urls.txt)|2|Urls|
 
 
 ## Statistics
@@ -22,6 +22,5 @@
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[https://kennisnetwerkbiociden.nl](https://kennisnetwerkbiociden.nl)| | **A**|Apache| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server Drupal HSTS PHP|Home | Kennisnet...|
 |[https://www.kennisnetwerkbiociden.nl](https://www.kennisnetwerkbiociden.nl)| | **A**|Apache| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server Drupal HSTS PHP|Home | Kennisnet...|
-|[http://localhost.kennisnetwerkbiociden.nl](http://localhost.kennisnetwerkbiociden.nl)| | **F**|nginx|:o: | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Laravel Nginx PHP|Weakpass|
 
 

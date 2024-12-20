@@ -3,7 +3,6 @@ begrippen.hdsr.nl
 kennis.hdsr.nl
 testbegrippen.hdsr.nl
 testkennis.hdsr.nl
-cawfirewall.hdsr.nl
 cawuitwijkfirewall.hdsr.nl
 uconnect-acc.hdsr.nl
 uconnect.hdsr.nl
@@ -15,8 +14,6 @@ hdsr.nl
 intranet.ad.hdsr.nl
 redactie.hdsr.nl
 waterkwaliteitinbeeld.hdsr.nl
-www.hdsr.nl
-werkplek.hdsr.nl
 wsus.hdsr.nl
 zaaksysteem-acc.hdsr.nl
 zaaksysteem.hdsr.nl

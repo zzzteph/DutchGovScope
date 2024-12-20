@@ -27,7 +27,7 @@
 |[https://id.limburg.nl](https://id.limburg.nl)| | **A**||:warning: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS|302 Found|
 |[https://inloggen-pre.limburg.nl](https://inloggen-pre.limburg.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
 |[https://inloggen.limburg.nl](https://inloggen.limburg.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
-|[http://limburg.nl](http://limburg.nl)| | **A**||:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:-||
+|[https://limburg.nl](https://limburg.nl)| | **A**|-|:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:-|Object moved|
 |[https://mijnsubsidies-acc.limburg.nl](https://mijnsubsidies-acc.limburg.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
 |[https://mijnsubsidies.limburg.nl](https://mijnsubsidies.limburg.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|ClientPortal|
 |[https://sbl.limburg.nl](https://sbl.limburg.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||

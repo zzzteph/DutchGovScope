@@ -537,3 +537,6 @@ promise.nioo.knaw.nl
 intranet.nioo.knaw.nl
 www.climatepursuit.nioo.knaw.nl
 type.labs.dans.knaw.nl
+goetgevonden.huygens.knaw.nl
+backoffice.knaw.nl
+www.back2roots.nioo.knaw.nl

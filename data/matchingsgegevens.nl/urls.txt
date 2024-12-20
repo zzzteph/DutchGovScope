@@ -1,4 +1,2 @@
-https://feeds.matchingsgegevens.nl
 https://matchingsgegevens.nl
 https://www.matchingsgegevens.nl
-https://opendata.matchingsgegevens.nl

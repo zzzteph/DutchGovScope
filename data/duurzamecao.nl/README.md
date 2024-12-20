@@ -12,7 +12,7 @@
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/duurzamecao.nl/subdomains.txt)|16|Alive subdomains|
-|[urls.txt](/data/duurzamecao.nl/urls.txt)|15|Urls|
+|[urls.txt](/data/duurzamecao.nl/urls.txt)|16|Urls|
 
 
 ## Statistics
@@ -35,5 +35,6 @@
 |[https://www.duurzamecao.nl](https://www.duurzamecao.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Nginx||
 |[https://verminder-ewaste.duurzamecao.nl](https://verminder-ewaste.duurzamecao.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |MySQL Nginx PHP WordPress Yoast SEO:22.6|Verminder eWaste|
 |[https://uitjes.duurzamecao.nl](https://uitjes.duurzamecao.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |MySQL Nginx PHP WordPress jQuery prettyPhoto|Home - Duurzame...|
+|[https://autodiscover.duurzamecao.nl](https://autodiscover.duurzamecao.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 
 

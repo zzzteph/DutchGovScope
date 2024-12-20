@@ -2,8 +2,8 @@
 layout: default
 title: "denationaleomgevingsvisie.nl"
 permalink: "/dutchgov/denationaleomgevingsvisie.nl.html"
-subdomains_count: 0
-urls_count: 0
+subdomains_count: 2
+urls_count: 2
 ssl_rank: 
 http_rank: F
 security_txt: 0
@@ -25,8 +25,8 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/denationaleomgevingsvisie.nl/subdomains.txt)|0|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/denationaleomgevingsvisie.nl/urls.txt)|0|Urls|
+|[subdomains.txt](/DutchGovScope/data/denationaleomgevingsvisie.nl/subdomains.txt)|2|Alive subdomains|
+|[urls.txt](/DutchGovScope/data/denationaleomgevingsvisie.nl/urls.txt)|2|Urls|
 
 
 ## Statistics
@@ -34,5 +34,7 @@ tags: dutchgov
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
+|[https://denationaleomgevingsvisie.nl](https://denationaleomgevingsvisie.nl)| | **F**|Microsoft-IIS/10.0| | | | | | | | :white_check_mark: | |HSTS IIS:10.0 Windows Server|Document Moved|
+|[https://www.denationaleomgevingsvisie.nl](https://www.denationaleomgevingsvisie.nl)| | **F**|Microsoft-IIS/10.0| | | | | | | | :white_check_mark: | |HSTS IIS:10.0 Windows Server|Document Moved|
 
 

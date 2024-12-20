@@ -93,12 +93,17 @@ toestemming-acc.belastingdienst.nl
 toestemming-tst.belastingdienst.nl
 toestemming.belastingdienst.nl
 veiling.belastingdienst.nl
+vepapi.vcdn.belastingdienst.nl
+vepvod.vcdn.belastingdienst.nl
+videobellen.belastingdienst.nl
 vtsd.belastingdienst.nl
 webdiensten.belastingdienst.nl
+webforms.belastingdienst.nl
 website.belastingdienst.nl
 werken.belastingdienst.nl
 www.werken.belastingdienst.nl
 wwwfcinetorg.belastingdienst.nl
+connectpeople.belastingdienst.nl
 opleiding-ola.belastingdienst.nl
 pih.belastingdienst.nl
 pmm.belastingdienst.nl

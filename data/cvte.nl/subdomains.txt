@@ -1,3 +1,4 @@
+autodiscover.cvte.nl
 mx2.cvte.nl
 cvte.nl
 feeds.cvte.nl

@@ -84,6 +84,7 @@ https://auth.rivm.nl
 https://sso-webauth.rivm.nl
 https://autodiscover.rivm.nl
 https://beleving.rivm.nl
+https://informatiehulp.rivm.nl
 https://signalen.rivm.nl
 https://bestellingen.rivm.nl
 http://www.bestellingen.rivm.nl
@@ -132,7 +133,7 @@ https://www.draaiboekhielprikscreening.rivm.nl
 https://drupal.rivm.nl
 https://duvo-web-api.rivm.nl
 https://dwo.rivm.nl
-https://esp-ext.rivm.nl
+http://esp-ext.rivm.nl
 http://ewrs-oud.rivm.nl
 https://expertrolesqsort.rivm.nl
 https://ezips-app.rivm.nl
@@ -160,7 +161,7 @@ https://kiddi.rivm.nl
 https://lci.rivm.nl
 https://leren.rivm.nl
 https://lmm.rivm.nl
-https://login-ext.rivm.nl
+http://login-ext.rivm.nl
 https://login.rivm.nl
 https://uzi.rivm.nl
 https://longcovid.rivm.nl
@@ -190,7 +191,7 @@ http://ontw.api-samenmeten.rivm.nl
 https://osiris.rivm.nl
 http://participantapi.vragenlijst.rivm.nl
 https://paskaart.rivm.nl
-https://password-link.rivm.nl
+http://password-link.rivm.nl
 https://password.rivm.nl
 https://portie-online.rivm.nl
 https://www.portie-online.rivm.nl

@@ -11,8 +11,8 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/dji.nl/subdomains.txt)|12|Alive subdomains|
-|[urls.txt](/data/dji.nl/urls.txt)|12|Urls|
+|[subdomains.txt](/data/dji.nl/subdomains.txt)|13|Alive subdomains|
+|[urls.txt](/data/dji.nl/urls.txt)|13|Urls|
 
 
 ## Statistics
@@ -32,5 +32,6 @@
 |[https://intranet.dji.nl](https://intranet.dji.nl)| | **A**|Apache| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Apache HTTP Server HSTS||
 |[https://cdn.dji.nl](https://cdn.dji.nl)| | **F**|nginx/1.18.0 + Phusion Passenger(R) 6.0.22| | | | | | | | :white_check_mark: | |Nginx:1.18.0 Phusion Passenger:6.0.22|Service temporar...|
 |[https://ftp.dji.nl](https://ftp.dji.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Microsoft Azure...|
+|[https://video-acc.beeldbellen.dji.nl](https://video-acc.beeldbellen.dji.nl)| | **C**|nginx/1.18.0 (Ubuntu)| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Nginx:1.18.0 Ubuntu|Beeldbellen Just...|
 
 

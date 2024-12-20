@@ -3,10 +3,10 @@ layout: default
 title: "diergeneeskunderegister.nl"
 permalink: "/dutchgov/diergeneeskunderegister.nl.html"
 subdomains_count: 14
-urls_count: 14
+urls_count: 13
 ssl_rank: 
 http_rank: A
-security_txt: 12
+security_txt: 10
 url_link: /data/diergeneeskunderegister.nl/urls.txt
 subdomains_link: /data/diergeneeskunderegister.nl/subdomains.txt
 categories: dutchgov
@@ -20,13 +20,13 @@ tags: dutchgov
 
  - **SSL Grade**:
  - **HTTP Security Grade**:A
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:12
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:10
 
 
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/DutchGovScope/data/diergeneeskunderegister.nl/subdomains.txt)|14|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/diergeneeskunderegister.nl/urls.txt)|14|Urls|
+|[urls.txt](/DutchGovScope/data/diergeneeskunderegister.nl/urls.txt)|13|Urls|
 
 
 ## Statistics
@@ -46,7 +46,6 @@ tags: dutchgov
 |[https://webservices.diergeneeskunderegister.nl](https://webservices.diergeneeskunderegister.nl)| | **A**|-| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://zoeken.diergeneeskunderegister.nl](https://zoeken.diergeneeskunderegister.nl)| | **A**|-| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://acceptatie.behandel.diergeneeskunderegister.nl](https://acceptatie.behandel.diergeneeskunderegister.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
-|[https://behandel.diergeneeskunderegister.nl](https://behandel.diergeneeskunderegister.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://beheer.diergeneeskunderegister.nl](https://beheer.diergeneeskunderegister.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 
 

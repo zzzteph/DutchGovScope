@@ -22,7 +22,6 @@ aqualarm.rws.nl
 www.aqualarm.rws.nl
 werkstation.vm-02.azure.grid.rws.nl
 configgenerator.vm-02.azure.grid.rws.nl
-fat-test.vm-02.azure.grid.rws.nl
 fat.vm-02.azure.grid.rws.nl
 hwtest.vm-02.azure.grid.rws.nl
 pgadmin.vm-02.azure.grid.rws.nl
@@ -33,7 +32,6 @@ fat-acc.vm-02.azure.grid.rws.nl
 grafana.vm-02.azure.grid.rws.nl
 irose.vm-02.azure.grid.rws.nl
 jenkins.vm-02.azure.grid.rws.nl
-keycloak-test.vm-02.azure.grid.rws.nl
 tunnelservice-werkstation-3.vm-02.azure.grid.rws.nl
 auth.vm-02.azure.grid.rws.nl
 keycloak-acc.vm-02.azure.grid.rws.nl
@@ -51,6 +49,8 @@ getij.rws.nl
 port-enc.rws.nl
 standaarden.rws.nl
 beterbediend.rws.nl
+bezoekerscentrum.rws.nl
+test.bezoekerscentrum.rws.nl
 centraaltoegangspuntdata.rws.nl
 nis.rws.nl
 cmgrws.rws.nl

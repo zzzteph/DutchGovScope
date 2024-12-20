@@ -11,8 +11,8 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/databank.nl/subdomains.txt)|106|Alive subdomains|
-|[urls.txt](/data/databank.nl/urls.txt)|104|Urls|
+|[subdomains.txt](/data/databank.nl/subdomains.txt)|144|Alive subdomains|
+|[urls.txt](/data/databank.nl/urls.txt)|105|Urls|
 
 
 ## Statistics
@@ -124,5 +124,6 @@
 |[https://www.klimaat-monitor.databank.nl](https://www.klimaat-monitor.databank.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Document Moved|
 |[https://www.arcon.databank.nl](https://www.arcon.databank.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Document Moved|
 |[https://www.kenniscentrumhoreca.databank.nl](https://www.kenniscentrumhoreca.databank.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Document Moved|
+|[https://www.seer.databank.nl](https://www.seer.databank.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Document Moved|
 
 

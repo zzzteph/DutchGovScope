@@ -5,14 +5,14 @@
 
 
  - **SSL Grade**:
- - **HTTP Security Grade**:B
+ - **HTTP Security Grade**:C
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:4
 
 
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/p-direkt.nl/subdomains.txt)|15|Alive subdomains|
-|[urls.txt](/data/p-direkt.nl/urls.txt)|14|Urls|
+|[urls.txt](/data/p-direkt.nl/urls.txt)|15|Urls|
 
 
 ## Statistics
@@ -32,6 +32,7 @@
 |[https://www.p-direkt.nl](https://www.p-direkt.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Home | O&P Rijk...|
 |[https://kms-test.p-direkt.nl](https://kms-test.p-direkt.nl)| | **A**|Microsoft-IIS/10.0| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS IIS:10.0 Windows Server|403 - Forbidden:...|
 |[https://kms.p-direkt.nl](https://kms.p-direkt.nl)| | **A**|Microsoft-IIS/10.0| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS IIS:10.0 Windows Server|403 - Forbidden:...|
+|[https://mail.aladdin.p-direkt.nl](https://mail.aladdin.p-direkt.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
 |[https://ndev.api-sec.p-direkt.nl](https://ndev.api-sec.p-direkt.nl)| | **E**|| | | | | | | | :white_check_mark: | ||400 No required...|
 |[https://ndev.api.p-direkt.nl](https://ndev.api.p-direkt.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 

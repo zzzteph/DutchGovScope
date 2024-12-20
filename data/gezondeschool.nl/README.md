@@ -6,13 +6,13 @@
 
  - **SSL Grade**:
  - **HTTP Security Grade**:E
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:4
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:2
 
 
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/gezondeschool.nl/subdomains.txt)|15|Alive subdomains|
-|[urls.txt](/data/gezondeschool.nl/urls.txt)|13|Urls|
+|[urls.txt](/data/gezondeschool.nl/urls.txt)|15|Urls|
 
 
 ## Statistics
@@ -20,9 +20,11 @@
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[http://gezondeschool.nl](http://gezondeschool.nl)| | **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |Nginx|301 Moved Perman...|
-|[http://www.gezondeschool.nl](http://www.gezondeschool.nl)| | **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |Nginx|301 Moved Perman...|
-|[http://www.jouw.gezondeschool.nl](http://www.jouw.gezondeschool.nl)| | **F**|nginx|:o: | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Nginx|301 Moved Perman...|
+|[https://gezondeschool.nl](https://gezondeschool.nl)| | **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |Nginx|301 Moved Perman...|
+|[https://www.gezondeschool.nl](https://www.gezondeschool.nl)| | **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |Express HSTS Nginx Node.js|Home | Gezonde S...|
+|[https://www.jouw.gezondeschool.nl](https://www.jouw.gezondeschool.nl)| | **F**|nginx|:o: | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Nginx|301 Moved Perman...|
+|[https://jouw.gezondeschool.nl](https://jouw.gezondeschool.nl)| | **F**|nginx|:o: | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Nginx|Redirecting to h...|
+|[http://sub.gezondeschool.nl](http://sub.gezondeschool.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |||
 |[http://acceptatie.gezondeschool.nl](http://acceptatie.gezondeschool.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[http://test.gezondeschool.nl](http://test.gezondeschool.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[http://autodiscover.gezondeschool.nl](http://autodiscover.gezondeschool.nl)| | **C**|Microsoft-IIS/10.0| |:white_check_mark: | | | | | | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server||

@@ -103,4 +103,16 @@ rbo.trainingscatalogus.nl
 stedin.trainingscatalogus.nl
 ftp.trainingscatalogus.nl
 sectest.trainingscatalogus.nl
+alliander-lms-a.enrollment-api.trainingscatalogus.nl
+alliander-lms-a.product-api.trainingscatalogus.nl
+alliander-lms-a.scim-api.trainingscatalogus.nl
+alliander-lms-a.webhook-api.trainingscatalogus.nl
 belastingdienst-lms-a.product-api.trainingscatalogus.nl
+belastingdienst-lms.enrollment-api.trainingscatalogus.nl
+belastingdienst-lms.product-api.trainingscatalogus.nl
+belastingdienst-lms.scim-api.trainingscatalogus.nl
+alliander-lms.enrollment-api.trainingscatalogus.nl
+alliander-lms.product-api.trainingscatalogus.nl
+alliander-lms.scim-api.trainingscatalogus.nl
+alliander-lms.webhook-api.trainingscatalogus.nl
+rvdk.trainingscatalogus.nl

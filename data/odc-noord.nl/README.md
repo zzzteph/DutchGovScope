@@ -84,9 +84,9 @@
 |[https://terraform.odc-noord.nl](https://terraform.odc-noord.nl)| | **E**|| | | | | | | | :white_check_mark: | ||ODC-Noord | (403...|
 |[https://login-gn3.odc-noord.nl](https://login-gn3.odc-noord.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://paas-portal-gn3.odc-noord.nl](https://paas-portal-gn3.odc-noord.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |AngularJS HSTS||
-|[https://mijn.odc-noord.nl](https://mijn.odc-noord.nl)| | **B**|WSGIServer/0.2 CPython/3.9.18|:warning: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
+|[https://mijn.odc-noord.nl](https://mijn.odc-noord.nl)| | **B**|WSGIServer/0.2 CPython/3.9.19|:warning: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://odc-noord.nl](https://odc-noord.nl)| | **B**|| |:white_check_mark: | :warning:| | | | :white_check_mark: | :white_check_mark: | |HSTS Node.js Nuxt.js Vue.js|ODC-Noord|
-|[https://www.odc-noord.nl](https://www.odc-noord.nl)| | **B**|| |:white_check_mark: | :warning:| | | | :white_check_mark: | :white_check_mark: | |HSTS Node.js Nuxt.js Vue.js|ODC-Noord|
+|[https://www.odc-noord.nl](https://www.odc-noord.nl)| | **B**|| |:white_check_mark: | :warning:| | | | :white_check_mark: | :white_check_mark: | |HSTS Node.js Nuxt.js Vue.js||
 |[https://vpn.bzknpr.odc-noord.nl](https://vpn.bzknpr.odc-noord.nl)| | **E**|OpenVPN-AS| | | | | | :white_check_mark: | | :white_check_mark: | ||Access server cl...|
 |[https://vpn.bzkprd.odc-noord.nl](https://vpn.bzkprd.odc-noord.nl)| | **F**|OpenVPN-AS| | | | | | | | :white_check_mark: | ||Access server cl...|
 |[https://vpn.gn2.koop-a.odc-noord.nl](https://vpn.gn2.koop-a.odc-noord.nl)| | **F**|OpenVPN-AS| | | | | | | | :white_check_mark: | ||Access server cl...|

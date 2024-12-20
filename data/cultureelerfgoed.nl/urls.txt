@@ -5,7 +5,6 @@ http://acc.gml.map.services.cultureelerfgoed.nl
 http://acc.render.map.services.cultureelerfgoed.nl
 https://acc.monumentenregister.cultureelerfgoed.nl
 https://www.acc.monumentenregister.cultureelerfgoed.nl
-https://acc.subsidie.cultureelerfgoed.nl
 https://acceptatie.archis.cultureelerfgoed.nl
 https://acceptatie.geoservices.cultureelerfgoed.nl
 https://api.linkeddata.cultureelerfgoed.nl

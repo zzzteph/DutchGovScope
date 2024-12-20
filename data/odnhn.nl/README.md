@@ -11,7 +11,7 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/odnhn.nl/subdomains.txt)|16|Alive subdomains|
+|[subdomains.txt](/data/odnhn.nl/subdomains.txt)|15|Alive subdomains|
 |[urls.txt](/data/odnhn.nl/urls.txt)|15|Urls|
 
 

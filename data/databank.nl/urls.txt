@@ -102,3 +102,4 @@ https://ciz.databank.nl
 https://www.klimaat-monitor.databank.nl
 https://www.arcon.databank.nl
 https://www.kenniscentrumhoreca.databank.nl
+https://www.seer.databank.nl

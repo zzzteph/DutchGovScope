@@ -30,7 +30,7 @@
 |[https://auth.ndw.nu](https://auth.ndw.nu)| | **F**|Microsoft-Azure-Application-Gateway/v2| | | | | | | | :white_check_mark: | ||404 Not Found|
 |[https://wegkenmerken.ndw.nu](https://wegkenmerken.ndw.nu)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|Wegkenmerken - N...|
 |[https://vm-ivra.ndw.nu](https://vm-ivra.ndw.nu)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|VM-IVRA|
-|[https://caas.ndw.nu](https://caas.ndw.nu)| | **F**|Microsoft-Azure-Application-Gateway/v2| | | | | | | | :white_check_mark: | ||Even geduld...|
+|[https://caas.ndw.nu](https://caas.ndw.nu)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://ntm.ndw.nu](https://ntm.ndw.nu)| | **C**|nginx| | | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Nginx|Nationaal Toegan...|
 |[https://maps.ndw.nu](https://maps.ndw.nu)| | **F**|Apache/2.4.62 (Unix)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.62 Bootstrap UNIX|NDW Maps|
 |[https://nls.ndw.nu](https://nls.ndw.nu)| | **F**|nginx/1.26.2| | | | | | | | :white_check_mark: | |Nginx:1.26.2|NlsFrontend|

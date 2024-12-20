@@ -6,13 +6,13 @@
 
  - **SSL Grade**:
  - **HTTP Security Grade**:E
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:36
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:37
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/knaw.nl/subdomains.txt)|539|Alive subdomains|
-|[urls.txt](/data/knaw.nl/urls.txt)|537|Urls|
+|[subdomains.txt](/data/knaw.nl/subdomains.txt)|542|Alive subdomains|
+|[urls.txt](/data/knaw.nl/urls.txt)|539|Urls|
 
 
 ## Statistics
@@ -119,19 +119,19 @@
 |[https://act.easy.dans.knaw.nl](https://act.easy.dans.knaw.nl)| | **E**|Apache| | | | | | | :white_check_mark: | :white_check_mark: | |Apache HTTP Server|403 Forbidden|
 |[https://demo.easy.dans.knaw.nl](https://demo.easy.dans.knaw.nl)| | **E**|Apache| | | | | | | :white_check_mark: | :white_check_mark: | |Apache HTTP Server|403 Forbidden|
 |[https://peasy11.dans.knaw.nl](https://peasy11.dans.knaw.nl)| | **E**|Apache| | | | | | | :white_check_mark: | :white_check_mark: | |Apache HTTP Server|403 Forbidden|
-|[https://act.gharvester-oai.dans.knaw.nl](https://act.gharvester-oai.dans.knaw.nl)| | **F**|Apache/2.4.57 (Red Hat Enterprise Linux) OpenSSL/3.0.7| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.57 OpenSSL:3.0.7 Red Hat|403 Forbidden|
-|[https://act.gharvester-wcp.dans.knaw.nl](https://act.gharvester-wcp.dans.knaw.nl)| | **F**|Apache/2.4.57 (Red Hat Enterprise Linux) OpenSSL/3.0.7| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.57 OpenSSL:3.0.7 Red Hat|403 Forbidden|
-|[https://act.resolver.dans.knaw.nl](https://act.resolver.dans.knaw.nl)| | **F**|Apache/2.4.57 (Red Hat Enterprise Linux) OpenSSL/3.0.7| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.57 OpenSSL:3.0.7 Red Hat|403 Forbidden|
-|[https://demo.vaultservice.dans.knaw.nl](https://demo.vaultservice.dans.knaw.nl)| | **F**|Apache/2.4.57 (Red Hat Enterprise Linux) OpenSSL/3.0.7| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.57 OpenSSL:3.0.7 Red Hat|403 Forbidden|
-|[https://intra.dans.knaw.nl](https://intra.dans.knaw.nl)| | **D**|Apache/2.4.57 (Red Hat Enterprise Linux) OpenSSL/3.0.7|:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.57 OpenSSL:3.0.7 Red Hat|302 Found|
-|[https://satifyd.dans.knaw.nl](https://satifyd.dans.knaw.nl)| | **A**|Apache/2.4.57 (Red Hat Enterprise Linux) OpenSSL/3.0.7| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Apache HTTP Server:2.4.57 OpenSSL:3.0.7 Red Hat|301 Moved Perman...|
-|[https://services.gmh.dans.knaw.nl](https://services.gmh.dans.knaw.nl)| | **A**|Apache/2.4.57 (Red Hat Enterprise Linux) OpenSSL/3.0.7| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Apache HTTP Server:2.4.57 OpenSSL:3.0.7 Red Hat|302 Found|
-|[https://fairaware.dans.knaw.nl](https://fairaware.dans.knaw.nl)| | **F**|Apache/2.4.57 (Red Hat Enterprise Linux) OpenSSL/3.0.7| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.57 Bootstrap:3.4.1 OpenSSL:3.0.7 Red Hat|FAIR-Aware|
-|[https://harvester.dans.knaw.nl](https://harvester.dans.knaw.nl)| | **F**|Apache/2.4.57 (Red Hat Enterprise Linux) OpenSSL/3.0.7| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.57 Bootstrap OpenSSL:3.0.7 Red Hat|DANS-KB - Info H...|
-|[https://maven.dans.knaw.nl](https://maven.dans.knaw.nl)| | **C**|Apache/2.4.57 (Red Hat Enterprise Linux) OpenSSL/3.0.7| |:white_check_mark: | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.57 HSTS OpenSSL:3.0.7 Red Hat||
-|[https://nationalaccounts.niwi.knaw.nl](https://nationalaccounts.niwi.knaw.nl)| | **F**|Apache/2.4.57 (Red Hat Enterprise Linux) OpenSSL/3.0.7| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.57 OpenSSL:3.0.7 Red Hat|NATIONAL ACCOUNT...|
-|[https://nexus.dans.knaw.nl](https://nexus.dans.knaw.nl)| | **F**|Apache/2.4.57 (Red Hat Enterprise Linux) OpenSSL/3.0.7| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.57 OpenSSL:3.0.7 Red Hat|403 Forbidden|
-|[https://stats.dans.knaw.nl](https://stats.dans.knaw.nl)| | **F**|Apache/2.4.57 (Red Hat Enterprise Linux) OpenSSL/3.0.7| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.57 OpenSSL:3.0.7 Red Hat|403 Forbidden|
+|[https://act.gharvester-oai.dans.knaw.nl](https://act.gharvester-oai.dans.knaw.nl)| | **F**|Apache/2.4.62 (Red Hat Enterprise Linux) OpenSSL/3.2.2| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.62 OpenSSL:3.2.2 Red Hat|403 Forbidden|
+|[https://act.gharvester-wcp.dans.knaw.nl](https://act.gharvester-wcp.dans.knaw.nl)| | **F**|Apache/2.4.62 (Red Hat Enterprise Linux) OpenSSL/3.2.2| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.62 OpenSSL:3.2.2 Red Hat|403 Forbidden|
+|[https://act.resolver.dans.knaw.nl](https://act.resolver.dans.knaw.nl)| | **F**|Apache/2.4.62 (Red Hat Enterprise Linux) OpenSSL/3.2.2| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.62 OpenSSL:3.2.2 Red Hat|403 Forbidden|
+|[https://demo.vaultservice.dans.knaw.nl](https://demo.vaultservice.dans.knaw.nl)| | **F**|Apache/2.4.62 (Red Hat Enterprise Linux) OpenSSL/3.2.2| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.62 OpenSSL:3.2.2 Red Hat|403 Forbidden|
+|[https://intra.dans.knaw.nl](https://intra.dans.knaw.nl)| | **D**|Apache/2.4.62 (Red Hat Enterprise Linux) OpenSSL/3.2.2|:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.62 OpenSSL:3.2.2 Red Hat|302 Found|
+|[https://satifyd.dans.knaw.nl](https://satifyd.dans.knaw.nl)| | **A**|Apache/2.4.62 (Red Hat Enterprise Linux) OpenSSL/3.2.2| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Apache HTTP Server:2.4.62 OpenSSL:3.2.2 Red Hat|301 Moved Perman...|
+|[https://services.gmh.dans.knaw.nl](https://services.gmh.dans.knaw.nl)| | **A**|Apache/2.4.62 (Red Hat Enterprise Linux) OpenSSL/3.2.2| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Apache HTTP Server:2.4.62 OpenSSL:3.2.2 Red Hat|302 Found|
+|[https://fairaware.dans.knaw.nl](https://fairaware.dans.knaw.nl)| | **F**|Apache/2.4.62 (Red Hat Enterprise Linux) OpenSSL/3.2.2| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.62 Bootstrap:3.4.1 OpenSSL:3.2.2 Red Hat|FAIR-Aware|
+|[https://harvester.dans.knaw.nl](https://harvester.dans.knaw.nl)| | **F**|Apache/2.4.62 (Red Hat Enterprise Linux) OpenSSL/3.2.2| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.62 Bootstrap OpenSSL:3.2.2 Red Hat|DANS-KB - Info H...|
+|[https://maven.dans.knaw.nl](https://maven.dans.knaw.nl)| | **C**|Apache/2.4.62 (Red Hat Enterprise Linux) OpenSSL/3.2.2| |:white_check_mark: | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.62 HSTS OpenSSL:3.2.2 Red Hat||
+|[https://nationalaccounts.niwi.knaw.nl](https://nationalaccounts.niwi.knaw.nl)| | **F**|Apache/2.4.62 (Red Hat Enterprise Linux) OpenSSL/3.2.2| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.62 OpenSSL:3.2.2 Red Hat|NATIONAL ACCOUNT...|
+|[https://nexus.dans.knaw.nl](https://nexus.dans.knaw.nl)| | **F**|Apache/2.4.62 (Red Hat Enterprise Linux) OpenSSL/3.2.2| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.62 OpenSSL:3.2.2 Red Hat|403 Forbidden|
+|[https://stats.dans.knaw.nl](https://stats.dans.knaw.nl)| | **F**|Apache/2.4.62 (Red Hat Enterprise Linux) OpenSSL/3.2.2| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.62 OpenSSL:3.2.2 Red Hat|403 Forbidden|
 |[https://geraardsbergen.huygens.knaw.nl](https://geraardsbergen.huygens.knaw.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|403 Forbidden|
 |[https://het-bureau.meertens.knaw.nl](https://het-bureau.meertens.knaw.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|403 Forbidden|
 |[https://mnet.meertens.knaw.nl](https://mnet.meertens.knaw.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|403 Forbidden|
@@ -187,7 +187,7 @@
 |[https://oaipmh.huygens.knaw.nl](https://oaipmh.huygens.knaw.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|403 Forbidden|
 |[https://nioo-preprod.knaw.nl](https://nioo-preprod.knaw.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
 |[https://nioo-acc.knaw.nl](https://nioo-acc.knaw.nl)| | **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |Basic HSTS Nginx|401 Authorizatio...|
-|[https://nioo.knaw.nl](https://nioo.knaw.nl)| | **B**|nginx| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Drupal HSTS Nginx PHP Varnish:6.2|Redirecting to h...|
+|[https://nioo.knaw.nl](https://nioo.knaw.nl)| | **B**|nginx| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Drupal:10 HSTS Nginx PHP Varnish:6.2|Redirecting to h...|
 |[http://archieven.meertens.knaw.nl](http://archieven.meertens.knaw.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|301 Moved Perman...|
 |[http://svnmondxml.huygens.knaw.nl](http://svnmondxml.huygens.knaw.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|301 Moved Perman...|
 |[http://dwc.knaw.nl](http://dwc.knaw.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|301 Moved Perman...|
@@ -363,7 +363,7 @@
 |[http://fryske2.fa.knaw.nl](http://fryske2.fa.knaw.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://loe.niod.knaw.nl](https://loe.niod.knaw.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|403 Forbidden|
 |[https://oorlogsdoc.knaw.nl](https://oorlogsdoc.knaw.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|403 Forbidden|
-|[https://oud.niod.knaw.nl](https://oud.niod.knaw.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|403 Forbidden|
+|[https://oud.niod.knaw.nl](https://oud.niod.knaw.nl)| | **E**|Apache| | | | | | | :white_check_mark: | :white_check_mark: | |Apache HTTP Server|403 Forbidden|
 |[https://publications.niod.knaw.nl](https://publications.niod.knaw.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|403 Forbidden|
 |[https://www.oorlogsdoc.knaw.nl](https://www.oorlogsdoc.knaw.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|403 Forbidden|
 |[https://www03.niod.knaw.nl](https://www03.niod.knaw.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|403 Forbidden|
@@ -396,15 +396,16 @@
 |[https://osso-t.knaw.nl](https://osso-t.knaw.nl)| | **E**|| | | | | | | | :white_check_mark: | ||400 Bad Request|
 |[https://ossooam-t.knaw.nl](https://ossooam-t.knaw.nl)| | **E**|| | | | | | | | :white_check_mark: | ||400 Bad Request|
 |[https://taoracleapp21.knaw.nl](https://taoracleapp21.knaw.nl)| | **E**|| | | | | | | | :white_check_mark: | ||400 Bad Request|
-|[https://password.knaw.nl](https://password.knaw.nl)| | **F**|Microsoft-IIS/10.0| | | | | | | | :white_check_mark: | |HSTS IIS:10.0 Microsoft ASP.NET Windows Server|Self Service Res...|
+|[https://password.knaw.nl](https://password.knaw.nl)| | **B**|Microsoft-IIS/10.0|:warning: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS IIS:10.0 Microsoft ASP.NET Windows Server|Self Service Res...|
 |[https://pdvnl31.dans.knaw.nl](https://pdvnl31.dans.knaw.nl)| | **B**|Apache|:warning: |:white_check_mark: | | | :white_check_mark:| | :white_check_mark: | :white_check_mark: | |Apache HTTP Server Bootstrap:3.4.1 HSTS Java OWL Carousel jQuery|DataverseNL (dem...|
+|[https://portal.knaw.nl](https://portal.knaw.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Azure HSTS||
 |[https://pure.knaw.nl](https://pure.knaw.nl)| | **B**|cloudflare|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |Cloudflare Cloudflare Bot Management HSTS HTTP/3|302 Found|
 |[https://raadpleging.knaw.nl](https://raadpleging.knaw.nl)| | **B**|Apache/2.4.62 () OpenSSL/1.0.2k-fips| |:white_check_mark: | | |:warning: | | | :white_check_mark: | |Amazon CloudFront Amazon Web Services Apache HTTP Server:2.4.62 HSTS OpenSSL:1.0.2k PHP||
 |[https://rathenau-wiki.knaw.nl](https://rathenau-wiki.knaw.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||
-|[https://storingen.knaw.nl](https://storingen.knaw.nl)| | **B**|nginx|:warning: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS MySQL Nginx PHP:8.3.13 Polylang WordPress|Storingen en Ond...|
-|[https://reserve.knaw.nl](https://reserve.knaw.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |HSTS Matomo Analytics Nginx|Sign in - Matomo|
+|[https://storingen.knaw.nl](https://storingen.knaw.nl)| | **B**|nginx|:warning: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS MySQL Nginx PHP:8.3.14 Polylang WordPress|Storingen en Ond...|
+|[https://reserve.knaw.nl](https://reserve.knaw.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|Matomo › Error|
 |[https://stats.knaw.nl](https://stats.knaw.nl)| | **A**|nginx|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Matomo Analytics Nginx|Sign in - Matomo|
-|[https://storing.knaw.nl](https://storing.knaw.nl)| | **B**|nginx|:warning: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS MySQL Nginx PHP:8.3.13 Polylang WordPress|Storingen en Ond...|
+|[https://storing.knaw.nl](https://storing.knaw.nl)| | **B**|nginx|:warning: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS MySQL Nginx PHP:8.3.14 Polylang WordPress|Storingen en Ond...|
 |[https://storing31.knaw.nl](https://storing31.knaw.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |HSTS Matomo Analytics Nginx|Sign in - Matomo|
 |[https://sec01.dans.knaw.nl](https://sec01.dans.knaw.nl)| | **F**|Apache/2.4.37 (Red Hat Enterprise Linux) OpenSSL/1.1.1k| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.37 OpenSSL:1.1.1k Red Hat||
 |[https://ss31.dans.knaw.nl](https://ss31.dans.knaw.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|Index of /|
@@ -420,7 +421,7 @@
 |[https://topdesk.knaw.nl](https://topdesk.knaw.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |||
 |[https://topdesktest.knaw.nl](https://topdesktest.knaw.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://twww13.meertens.knaw.nl](https://twww13.meertens.knaw.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server||
-|[https://www.meertens.knaw.nl](https://www.meertens.knaw.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|301 Moved Perman...|
+|[https://www.meertens.knaw.nl](https://www.meertens.knaw.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|302 Found|
 |[https://vacatures.knaw.nl](https://vacatures.knaw.nl)| | **B**|Apache|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server Bootstrap:3.4.1 HSTS Java|Werken bij KNAW|
 |[https://view.herseninstituut.knaw.nl](https://view.herseninstituut.knaw.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Java|VMware Horizon|
 |[https://view.nin.knaw.nl](https://view.nin.knaw.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Java|VMware Horizon|
@@ -436,7 +437,7 @@
 |[http://www22.meertens.knaw.nl](http://www22.meertens.knaw.nl)| | **E**|Apache| | | | | | | :white_check_mark: | :white_check_mark: | |Apache HTTP Server|Meertens Institu...|
 |[https://tomcat.tiler01.huygens.knaw.nl](https://tomcat.tiler01.huygens.knaw.nl)| | **E**|Apache| | | | | | | :white_check_mark: | :white_check_mark: | |Apache HTTP Server|Apache Tomcat|
 |[https://secure.huygens.knaw.nl](https://secure.huygens.knaw.nl)| | **E**|Apache| | | | | | | :white_check_mark: | :white_check_mark: | |Apache HTTP Server|Apache Tomcat/6....|
-|[https://yum.dans.knaw.nl](https://yum.dans.knaw.nl)| | **C**|Apache/2.4.57 (Red Hat Enterprise Linux) OpenSSL/3.0.7| |:white_check_mark: | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.57 HSTS OpenSSL:3.0.7 Red Hat||
+|[https://yum.dans.knaw.nl](https://yum.dans.knaw.nl)| | **C**|Apache/2.4.62 (Red Hat Enterprise Linux) OpenSSL/3.2.2| |:white_check_mark: | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.62 HSTS OpenSSL:3.2.2 Red Hat||
 |[https://hattem.huygens.knaw.nl](https://hattem.huygens.knaw.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|403 Forbidden|
 |[https://clusiuscorrespondence.huygens.knaw.nl](https://clusiuscorrespondence.huygens.knaw.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|403 Forbidden|
 |[http://autodiscover.dh.huc.knaw.nl](http://autodiscover.dh.huc.knaw.nl)| | **C**|Microsoft-IIS/10.0| |:white_check_mark: | | | | | | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server||
@@ -510,7 +511,7 @@
 |[https://chat.bioinf.nioo.knaw.nl](https://chat.bioinf.nioo.knaw.nl)| | **A**|nginx| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|NIOO Bioinformat...|
 |[https://vangogh-api.dev.huc.knaw.nl](https://vangogh-api.dev.huc.knaw.nl)| | **F**|Apache/2.4.41 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.41 Ubuntu|Unauthorized|
 |[https://fairevaapi.labs.dans.knaw.nl](https://fairevaapi.labs.dans.knaw.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
-|[https://genomes.bioinf.nioo.knaw.nl](https://genomes.bioinf.nioo.knaw.nl)| | **B**|nginx| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Drupal:9 HSTS Nginx PHP Varnish:6.2|Redirecting to h...|
+|[https://genomes.bioinf.nioo.knaw.nl](https://genomes.bioinf.nioo.knaw.nl)| | **B**|nginx| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Drupal:10 HSTS Nginx PHP Varnish:6.2|Redirecting to h...|
 |[https://repository-assistant.labs.dans.knaw.nl](https://repository-assistant.labs.dans.knaw.nl)| | **F**|uvicorn| | | | | | | | :white_check_mark: | |Python Uvicorn||
 |[https://storage.labs.dans.knaw.nl](https://storage.labs.dans.knaw.nl)| | **F**|uvicorn| | | | | | | | :white_check_mark: | |Python Uvicorn||
 |[https://climatepursuit.nioo.knaw.nl](https://climatepursuit.nioo.knaw.nl)| | **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Nginx|Climate Pursuit|
@@ -557,5 +558,6 @@
 |[https://promise.nioo.knaw.nl](https://promise.nioo.knaw.nl)| | **B**|nginx| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Drupal HSTS Nginx PHP Varnish:6.2|Redirecting to h...|
 |[https://intranet.nioo.knaw.nl](https://intranet.nioo.knaw.nl)| | **D**|nginx|:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
 |[https://www.climatepursuit.nioo.knaw.nl](https://www.climatepursuit.nioo.knaw.nl)| | **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
+|[https://type.labs.dans.knaw.nl](https://type.labs.dans.knaw.nl)| | **F**|uvicorn| | | | | | | | :white_check_mark: | |Python Uvicorn||
 
 

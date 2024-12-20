@@ -37,7 +37,6 @@ https://seksueelmisbruik.mett.nl
 https://toegankelijkheid.mett.nl
 https://emmengeeftenergie.mett.nl
 https://groenbeleiddenhaag.mett.nl
-https://copyrijksoverheid.mett.nl
 https://comenius.mett.nl
 https://centreofexpertise.mett.nl
 https://rottemeren.mett.nl
@@ -53,17 +52,12 @@ http://autodiscover.mett.nl
 https://demo2.mett.nl
 https://dev.mett.nl
 https://ftp.mett.nl
-http://tom.mett.nl
 https://robert.mett.nl
 https://htx.mett.nl
 https://performance.mett.nl
 https://storage.mett.nl
 https://waf.mett.nl
 http://testserver.mett.nl
-https://zendesk1.mett.nl
-https://zendesk2.mett.nl
-https://zendesk3.mett.nl
-https://zendesk4.mett.nl
 https://haarlemmermeerwest.mett.nl
 https://lottebruijninckx.mett.nl
 https://schoneluchtakkoord.mett.nl
@@ -99,7 +93,6 @@ https://ggagroenblauw.mett.nl
 https://ikdenkmeeoveruitgeest.mett.nl
 https://lcnk.mett.nl
 https://zichtopnl.mett.nl
-https://halderberge.mett.nl
 https://helpdesk.mett.nl
 https://dejongeakademie.mett.nl
 https://a27houtenhooipolder.mett.nl
@@ -178,3 +171,7 @@ https://kcs.mett.nl
 https://security.mett.nl
 https://status.mett.nl
 https://rudlimburgnoord.mett.nl
+https://rotterdama16.mett.nl
+https://duurzaamwinterswijk.mett.nl
+https://intranetsightlandscaping.mett.nl
+https://toekomstbehendigbrabant.mett.nl

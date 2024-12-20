@@ -14,8 +14,6 @@ kaarten.vechtstromen.nl
 testkaarten.vechtstromen.nl
 dialin2.vechtstromen.nl
 login.vechtstromen.nl
-formulieren.vechtstromen.nl
-test.formulieren.vechtstromen.nl
 helloid.vechtstromen.nl
 www.basisregistratie.vechtstromen.nl
 www.mta-sts.vechtstromen.nl

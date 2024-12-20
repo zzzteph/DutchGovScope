@@ -37,7 +37,6 @@ seksueelmisbruik.mett.nl
 toegankelijkheid.mett.nl
 emmengeeftenergie.mett.nl
 groenbeleiddenhaag.mett.nl
-copyrijksoverheid.mett.nl
 comenius.mett.nl
 centreofexpertise.mett.nl
 rottemeren.mett.nl
@@ -53,17 +52,12 @@ autodiscover.mett.nl
 demo2.mett.nl
 dev.mett.nl
 ftp.mett.nl
-tom.mett.nl
 robert.mett.nl
 htx.mett.nl
 performance.mett.nl
 storage.mett.nl
 waf.mett.nl
 testserver.mett.nl
-zendesk1.mett.nl
-zendesk2.mett.nl
-zendesk3.mett.nl
-zendesk4.mett.nl
 haarlemmermeerwest.mett.nl
 lottebruijninckx.mett.nl
 schoneluchtakkoord.mett.nl
@@ -99,7 +93,6 @@ ggagroenblauw.mett.nl
 ikdenkmeeoveruitgeest.mett.nl
 lcnk.mett.nl
 zichtopnl.mett.nl
-halderberge.mett.nl
 helpdesk.mett.nl
 dejongeakademie.mett.nl
 a27houtenhooipolder.mett.nl
@@ -190,3 +183,8 @@ locov.mett.nl
 gastvrijerandmeren.mett.nl
 veiligevecht.mett.nl
 denkmeewoonin.mett.nl
+mta-sts.mett.nl
+renelivetest.mett.nl
+m4mpa.mett.nl
+m4spa.azure.mett.nl
+rad-test.mett.nl

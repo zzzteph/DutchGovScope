@@ -1,12 +1,11 @@
-http://elo.veiligheidsregioflevoland.nl
-http://redactie.veiligheidsregioflevoland.nl
-http://www.veiligheidsregioflevoland.nl
+https://elo.veiligheidsregioflevoland.nl
+https://redactie.veiligheidsregioflevoland.nl
+https://www.veiligheidsregioflevoland.nl
 https://veiligheidsregioflevoland.nl
 https://mail.veiligheidsregioflevoland.nl
 http://autodiscover.veiligheidsregioflevoland.nl
 https://enterpriseenrollment.veiligheidsregioflevoland.nl
 https://enterpriseregistration.veiligheidsregioflevoland.nl
-http://dept.veiligheidsregioflevoland.nl
 http://calculus.veiligheidsregioflevoland.nl
 http://enlace.veiligheidsregioflevoland.nl
 http://web3984.veiligheidsregioflevoland.nl

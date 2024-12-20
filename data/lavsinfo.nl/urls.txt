@@ -1,2 +1,2 @@
-http://lavsinfo.nl
-http://www.lavsinfo.nl
+https://lavsinfo.nl
+https://www.lavsinfo.nl

@@ -35,3 +35,4 @@ https://aanvragen-acc.nza.nl
 https://mijn.nza.nl
 https://opendisdata.nza.nl
 http://agw01-nomail.nza.nl
+https://jv.nza.nl

@@ -36,8 +36,8 @@
 |[https://e-bom.nationaalarchief.nl](https://e-bom.nationaalarchief.nl)| | **A**|| |:white_check_mark: | :warning:| | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|E-Beperkt Openba...|
 |[https://e-bom.ted.nationaalarchief.nl](https://e-bom.ted.nationaalarchief.nl)| | **A**|| |:white_check_mark: | :warning:| | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|E-Beperkt Openba...|
 |[https://e-depot.ted.nationaalarchief.nl](https://e-depot.ted.nationaalarchief.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| | :white_check_mark: | :white_check_mark: | |||
-|[https://en.nationaalarchief.nl](https://en.nationaalarchief.nl)| | **A**|nginx| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Nginx|301 Moved Perman...|
-|[https://nationaalarchief.nl](https://nationaalarchief.nl)| | **A**|nginx| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Nginx|301 Moved Perman...|
+|[https://en.nationaalarchief.nl](https://en.nationaalarchief.nl)| | **A**|nginx| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
+|[https://nationaalarchief.nl](https://nationaalarchief.nl)| | **A**|nginx| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
 |[https://www.nationaalarchief.nl](https://www.nationaalarchief.nl)| | **A**|nginx| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Drupal HSTS Nginx PHP|Nationaal Archie...|
 |[https://graphdb.nationaalarchief.nl](https://graphdb.nationaalarchief.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|403 Forbidden|
 |[https://lbrproxy.prod.nationaalarchief.nl](https://lbrproxy.prod.nationaalarchief.nl)| | **F**|nginx/1.25.3| | | | | | | | :white_check_mark: | |Nginx:1.25.3|301 Moved Perman...|
