@@ -55,7 +55,6 @@ octopus-acc-docs.provincie-utrecht.nl
 octopus-acc.provincie-utrecht.nl
 ruimtelijkeplanneninterntest.provincie-utrecht.nl
 ruimtelijkeplannentest.provincie-utrecht.nl
-planoview.provincie-utrecht.nl
 ruimtelijkeplannen.provincie-utrecht.nl
 ruimtelijkeplannenintern.provincie-utrecht.nl
 sap-crm.provincie-utrecht.nl
@@ -81,7 +80,6 @@ login.provincie-utrecht.nl
 wortel174.provincie-utrecht.nl
 socialintranet-acc.provincie-utrecht.nl
 socialintranet.provincie-utrecht.nl
-monitoromgevingsbeleid.provincie-utrecht.nl
 omgevingsbeleid.provincie-utrecht.nl
 iapp.provincie-utrecht.nl
 rmb.provincie-utrecht.nl

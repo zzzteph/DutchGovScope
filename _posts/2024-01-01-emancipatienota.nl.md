@@ -2,7 +2,7 @@
 layout: default
 title: "emancipatienota.nl"
 permalink: "/dutchgov/emancipatienota.nl.html"
-subdomains_count: 4
+subdomains_count: 0
 urls_count: 0
 ssl_rank: 
 http_rank: F
@@ -25,7 +25,7 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/emancipatienota.nl/subdomains.txt)|4|Alive subdomains|
+|[subdomains.txt](/DutchGovScope/data/emancipatienota.nl/subdomains.txt)|0|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/emancipatienota.nl/urls.txt)|0|Urls|
 
 

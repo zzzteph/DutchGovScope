@@ -8,8 +8,6 @@ neurontest.vallei-veluwe.nl
 tmx.vallei-veluwe.nl
 werkplek.vallei-veluwe.nl
 enterpriseenrollment.vallei-veluwe.nl
-geotest.vallei-veluwe.nl
 protect.vallei-veluwe.nl
 vdi.vallei-veluwe.nl
-geo.vallei-veluwe.nl
 enterpriseregistration.vallei-veluwe.nl

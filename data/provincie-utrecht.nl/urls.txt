@@ -55,7 +55,6 @@ https://octopus-acc-docs.provincie-utrecht.nl
 https://octopus-acc.provincie-utrecht.nl
 https://ruimtelijkeplanneninterntest.provincie-utrecht.nl
 https://ruimtelijkeplannentest.provincie-utrecht.nl
-https://planoview.provincie-utrecht.nl
 https://ruimtelijkeplannen.provincie-utrecht.nl
 https://ruimtelijkeplannenintern.provincie-utrecht.nl
 https://sap-crm.provincie-utrecht.nl
@@ -81,7 +80,6 @@ https://login.provincie-utrecht.nl
 https://wortel174.provincie-utrecht.nl
 https://socialintranet-acc.provincie-utrecht.nl
 https://socialintranet.provincie-utrecht.nl
-https://monitoromgevingsbeleid.provincie-utrecht.nl
 https://omgevingsbeleid.provincie-utrecht.nl
 https://iapp.provincie-utrecht.nl
 https://rmb.provincie-utrecht.nl
@@ -94,3 +92,4 @@ https://ris.provincie-utrecht.nl
 https://zsd.provincie-utrecht.nl
 https://sap-s4h-p.provincie-utrecht.nl
 https://atlas-ontw.provincie-utrecht.nl
+https://wzb-t.provincie-utrecht.nl

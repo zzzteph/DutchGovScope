@@ -5,6 +5,7 @@ https://acceptatie.mijn.locatieregister.zorgaanbiedersportaal.nl
 https://acceptatie.mijn.melding.zorgaanbiedersportaal.nl
 https://acceptatie.mijn.toelatingsvergunning.zorgaanbiedersportaal.nl
 https://acceptatie.mijn.zorgaanbiedersportaal.nl
+https://acceptatie.zoeken.zorgaanbiedersportaal.nl
 http://beheer.locatieregister.zorgaanbiedersportaal.nl
 https://mijn.geschilleninstantie.zorgaanbiedersportaal.nl
 http://mijn.melding.zorgaanbiedersportaal.nl

@@ -82,7 +82,7 @@ https://lms-svb.trainingscatalogus.nl
 https://lms-tennet.trainingscatalogus.nl
 https://senzer.trainingscatalogus.nl
 https://alliander-lms-t.enrollment-api.trainingscatalogus.nl
-https://alliander-lms-t.product-api.trainingscatalogus.nl
+http://alliander-lms-t.product-api.trainingscatalogus.nl
 https://lms-belastingdienst.trainingscatalogus.nl
 https://lms-apg.trainingscatalogus.nl
 https://buza.trainingscatalogus.nl
@@ -103,5 +103,10 @@ https://stedin.trainingscatalogus.nl
 https://ftp.trainingscatalogus.nl
 https://sectest.trainingscatalogus.nl
 https://alliander-lms-a.enrollment-api.trainingscatalogus.nl
+https://alliander-lms-a.product-api.trainingscatalogus.nl
+https://alliander-lms-a.scim-api.trainingscatalogus.nl
+https://alliander-lms-a.webhook-api.trainingscatalogus.nl
 https://belastingdienst-lms-a.product-api.trainingscatalogus.nl
 https://belastingdienst-lms.enrollment-api.trainingscatalogus.nl
+https://belastingdienst-lms.product-api.trainingscatalogus.nl
+https://belastingdienst-lms.scim-api.trainingscatalogus.nl

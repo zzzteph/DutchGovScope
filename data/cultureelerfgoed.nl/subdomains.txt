@@ -5,6 +5,7 @@ acc.gml.map.services.cultureelerfgoed.nl
 acc.render.map.services.cultureelerfgoed.nl
 acc.monumentenregister.cultureelerfgoed.nl
 www.acc.monumentenregister.cultureelerfgoed.nl
+acc.subsidie.cultureelerfgoed.nl
 acceptatie.archis.cultureelerfgoed.nl
 acceptatie.geoservices.cultureelerfgoed.nl
 api.linkeddata.cultureelerfgoed.nl

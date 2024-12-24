@@ -12,7 +12,7 @@
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/ssoict.nl/subdomains.txt)|6|Alive subdomains|
-|[urls.txt](/data/ssoict.nl/urls.txt)|5|Urls|
+|[urls.txt](/data/ssoict.nl/urls.txt)|6|Urls|
 
 
 ## Statistics
@@ -25,5 +25,6 @@
 |[https://klantenportaal.ssoict.nl](https://klantenportaal.ssoict.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
 |[https://test.ssoict.nl](https://test.ssoict.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
 |[https://wts.klantenportaal.ssoict.nl](https://wts.klantenportaal.ssoict.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
+|[https://arbeidsinspectie.ssoict.nl](https://arbeidsinspectie.ssoict.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
 
 

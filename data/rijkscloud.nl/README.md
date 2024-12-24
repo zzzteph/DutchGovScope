@@ -6,7 +6,7 @@
 
  - **SSL Grade**:
  - **HTTP Security Grade**:B
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:37
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:36
 
 
 | File       | Count | Info |
@@ -94,7 +94,7 @@
 |[https://sso.dbe-t.rvb.rijkscloud.nl](https://sso.dbe-t.rvb.rijkscloud.nl)| | **E**|| | | | | | | | :white_check_mark: | ||| (503)|
 |[https://pgadmin4.analyse.ilt.rijkscloud.nl](https://pgadmin4.analyse.ilt.rijkscloud.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://rstudio.analyse.ilt.rijkscloud.nl](https://rstudio.analyse.ilt.rijkscloud.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
-|[https://dashboards.analyse.ilt.rijkscloud.nl](https://dashboards.analyse.ilt.rijkscloud.nl)| | **A**||:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Java||
+|[https://dashboards.analyse.ilt.rijkscloud.nl](https://dashboards.analyse.ilt.rijkscloud.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS Java||
 |[https://jupyter.analyse.ilt.rijkscloud.nl](https://jupyter.analyse.ilt.rijkscloud.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://keycloak.analyse.ilt.rijkscloud.nl](https://keycloak.analyse.ilt.rijkscloud.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Welcome to Keycl...|
 |[https://pgadmin.analyse.ilt.rijkscloud.nl](https://pgadmin.analyse.ilt.rijkscloud.nl)| | **E**|| | | | | | | | :white_check_mark: | |||

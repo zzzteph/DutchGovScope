@@ -12,7 +12,7 @@
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/brabant.nl/subdomains.txt)|86|Alive subdomains|
-|[urls.txt](/data/brabant.nl/urls.txt)|85|Urls|
+|[urls.txt](/data/brabant.nl/urls.txt)|86|Urls|
 
 
 ## Statistics
@@ -24,7 +24,7 @@
 |[https://aris.brabant.nl](https://aris.brabant.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bootstrap HSTS||
 |[https://autorisatie-preprod.brabant.nl](https://autorisatie-preprod.brabant.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
 |[https://autorisatie-prod.brabant.nl](https://autorisatie-prod.brabant.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
-|[https://beeldbank.brabant.nl](https://beeldbank.brabant.nl)| | **B**||:warning: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:4.0.30319|Homepage | Provi...|
+|[https://beeldbank.brabant.nl](https://beeldbank.brabant.nl)| | **B**||:warning: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET|Homepage | Provi...|
 |[https://begroting.brabant.nl](https://begroting.brabant.nl)| | **A**|SecurityHeaders/1.0|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Azure HSTS Microsoft ASP.NET|P&C portaal Prov...|
 |[https://bevolkingsprognose.brabant.nl](https://bevolkingsprognose.brabant.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|De bevolkings- e...|
 |[https://bevolkingsprognose2020.brabant.nl](https://bevolkingsprognose2020.brabant.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Drupal:7 Nginx PHP|De bevolkings- e...|
@@ -81,7 +81,7 @@
 |[https://draf.brabant.nl](https://draf.brabant.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|403 - Forbidden:...|
 |[https://esb-test.brabant.nl](https://esb-test.brabant.nl)| | **F**|BigIP| | | | | | | | :white_check_mark: | |F5 BigIP|The page cannot...|
 |[https://opendata.brabant.nl](https://opendata.brabant.nl)| | **A**|BigIP| |:white_check_mark: | | | :white_check_mark:| | | :white_check_mark: | |F5 BigIP||
-|[https://samenwerken.brabant.nl](https://samenwerken.brabant.nl)| | **A**|BigIP|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |F5 BigIP||
+|[https://samenwerken.brabant.nl](https://samenwerken.brabant.nl)| | **B**|BigIP|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |F5 BigIP||
 |[https://facilitor.brabant.nl](https://facilitor.brabant.nl)| | **B**|BigIP|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |F5 BigIP||
 |[https://kaartbank.brabant.nl](https://kaartbank.brabant.nl)| | **A**|BigIP| |:white_check_mark: | | | :white_check_mark:| | | :white_check_mark: | |F5 BigIP||
 |[https://kaarten.brabant.nl](https://kaarten.brabant.nl)| | **A**|BigIP| |:white_check_mark: | | | :white_check_mark:| | | :white_check_mark: | |F5 BigIP||
@@ -105,5 +105,6 @@
 |[https://enterpriseenrollment.brabant.nl](https://enterpriseenrollment.brabant.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||
 |[https://acs.brabant.nl](https://acs.brabant.nl)| | **F**|Microsoft-Azure-Application-Gateway/v2| | | | | | | | :white_check_mark: | ||404 Not Found|
 |[https://acs-acpt.brabant.nl](https://acs-acpt.brabant.nl)| | **F**|Microsoft-Azure-Application-Gateway/v2| | | | | | | | :white_check_mark: | ||404 Not Found|
+|[https://open.brabant.nl](https://open.brabant.nl)| | **C**|cloudflare|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |Cloudflare Cloudflare Bot Management HSTS Next.js Node.js React Webpack|Publicatie platf...|
 
 

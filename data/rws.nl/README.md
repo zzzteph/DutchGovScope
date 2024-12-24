@@ -6,13 +6,13 @@
 
  - **SSL Grade**:
  - **HTTP Security Grade**:C
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:92
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:94
 
 
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/rws.nl/subdomains.txt)|167|Alive subdomains|
-|[urls.txt](/data/rws.nl/urls.txt)|158|Urls|
+|[urls.txt](/data/rws.nl/urls.txt)|167|Urls|
 
 
 ## Statistics
@@ -178,5 +178,14 @@
 |[https://acc-wvp.rws.nl](https://acc-wvp.rws.nl)| | **C**|nginx/1.27.3| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Nginx:1.27.3|Waterveiligheids...|
 |[https://aquo-kit.rws.nl](https://aquo-kit.rws.nl)| | **D**|Microsoft-IIS/10.0|:warning: |:white_check_mark: | | | | | | :white_check_mark: | |HSTS IIS:10.0 Microsoft ASP.NET Windows Server|Document Moved|
 |[http://mip-proxy-acc.rws.nl](http://mip-proxy-acc.rws.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
+|[https://svs.ptp.inloggen.rws.nl](https://svs.ptp.inloggen.rws.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||
+|[https://schadeportaal.ptp.inloggen.rws.nl](https://schadeportaal.ptp.inloggen.rws.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||
+|[https://mars2.ptp.inloggen.rws.nl](https://mars2.ptp.inloggen.rws.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||
+|[https://acc-werkplek.gw01-gslb.rws.nl](https://acc-werkplek.gw01-gslb.rws.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||
+|[https://werkplek.gw01-gslb.rws.nl](https://werkplek.gw01-gslb.rws.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||
+|[http://ddapi-preprod.gslb.rws.nl](http://ddapi-preprod.gslb.rws.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
+|[https://test-aquo-kit.rws.nl](https://test-aquo-kit.rws.nl)| | **D**|Microsoft-IIS/10.0|:warning: |:white_check_mark: | | | | | | :white_check_mark: | |HSTS IIS:10.0 Microsoft ASP.NET Windows Server|Document Moved|
+|[https://tst-ovdsupport.rws.nl](https://tst-ovdsupport.rws.nl)| | **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Nginx React|OVDsupport | Rij...|
+|[https://mars.ptp.inloggen.rws.nl](https://mars.ptp.inloggen.rws.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS Pulse Secure||
 
 

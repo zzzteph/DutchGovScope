@@ -68,7 +68,7 @@
 |[https://secure5.svb.nl](https://secure5.svb.nl)| | **B**||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS|Sociale Verzeker...|
 |[https://svb.nl](https://svb.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://www.svb.nl](https://www.svb.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
-|[https://test-intranet.svb.nl](https://test-intranet.svb.nl)| | **A**||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
+|[https://test-cmsintranet.svb.nl](https://test-cmsintranet.svb.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|403 - Forbidden:...|
 |[https://events.svb.nl](https://events.svb.nl)| | **A**||:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Amazon S3 Amazon Web Services HSTS||
 |[https://mft-prd.svb.nl](https://mft-prd.svb.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Redirect|
 |[https://rdsapplications00.svb.nl](https://rdsapplications00.svb.nl)| | **F**|Microsoft-IIS/10.0| | | | | | | | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server|IIS Windows Serv...|

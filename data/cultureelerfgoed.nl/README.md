@@ -11,8 +11,8 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/cultureelerfgoed.nl/subdomains.txt)|65|Alive subdomains|
-|[urls.txt](/data/cultureelerfgoed.nl/urls.txt)|65|Urls|
+|[subdomains.txt](/data/cultureelerfgoed.nl/subdomains.txt)|66|Alive subdomains|
+|[urls.txt](/data/cultureelerfgoed.nl/urls.txt)|66|Urls|
 
 
 ## Statistics
@@ -27,6 +27,7 @@
 |[http://acc.render.map.services.cultureelerfgoed.nl](http://acc.render.map.services.cultureelerfgoed.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
 |[https://acc.monumentenregister.cultureelerfgoed.nl](https://acc.monumentenregister.cultureelerfgoed.nl)| | **E**|| | | | | | | | :white_check_mark: | |Basic||
 |[https://www.acc.monumentenregister.cultureelerfgoed.nl](https://www.acc.monumentenregister.cultureelerfgoed.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
+|[https://acc.subsidie.cultureelerfgoed.nl](https://acc.subsidie.cultureelerfgoed.nl)| | **A**||:warning: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS|SUBS|
 |[https://acceptatie.archis.cultureelerfgoed.nl](https://acceptatie.archis.cultureelerfgoed.nl)| | **D**||:warning: |:white_check_mark: | | | | | | :white_check_mark: | |AngularJS HSTS|Archis - Rijksdi...|
 |[https://acceptatie.geoservices.cultureelerfgoed.nl](https://acceptatie.geoservices.cultureelerfgoed.nl)| | **E**|| | | | | | | | :white_check_mark: | ||ODC-Noord | (403...|
 |[https://api.linkeddata.cultureelerfgoed.nl](https://api.linkeddata.cultureelerfgoed.nl)| | **C**|| |:white_check_mark: | :warning:| | | | | :white_check_mark: | |HSTS||

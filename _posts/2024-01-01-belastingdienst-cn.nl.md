@@ -2,8 +2,8 @@
 layout: default
 title: "belastingdienst-cn.nl"
 permalink: "/dutchgov/belastingdienst-cn.nl.html"
-subdomains_count: 13
-urls_count: 13
+subdomains_count: 12
+urls_count: 12
 ssl_rank: 
 http_rank: A
 security_txt: 11
@@ -25,8 +25,8 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/belastingdienst-cn.nl/subdomains.txt)|13|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/belastingdienst-cn.nl/urls.txt)|13|Urls|
+|[subdomains.txt](/DutchGovScope/data/belastingdienst-cn.nl/subdomains.txt)|12|Alive subdomains|
+|[urls.txt](/DutchGovScope/data/belastingdienst-cn.nl/urls.txt)|12|Urls|
 
 
 ## Statistics
@@ -34,7 +34,6 @@ tags: dutchgov
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://asycuda.belastingdienst-cn.nl](https://asycuda.belastingdienst-cn.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server||
 |[https://feeds.papiamentu.belastingdienst-cn.nl](https://feeds.papiamentu.belastingdienst-cn.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://opendata.papiamentu.belastingdienst-cn.nl](https://opendata.papiamentu.belastingdienst-cn.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://www.belastingdienst-cn.nl](https://www.belastingdienst-cn.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Belastingdienst...|

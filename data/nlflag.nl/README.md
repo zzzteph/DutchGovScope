@@ -12,7 +12,7 @@
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/nlflag.nl/subdomains.txt)|5|Alive subdomains|
-|[urls.txt](/data/nlflag.nl/urls.txt)|4|Urls|
+|[urls.txt](/data/nlflag.nl/urls.txt)|5|Urls|
 
 
 ## Statistics
@@ -24,5 +24,6 @@
 |[https://www.nlflag.nl](https://www.nlflag.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
 |[https://ftp.nlflag.nl](https://ftp.nlflag.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|Web Server's Def...|
 |[https://mail.nlflag.nl](https://mail.nlflag.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|Web Server's Def...|
+|[http://autodiscover.nlflag.nl](http://autodiscover.nlflag.nl)| | **C**|Microsoft-IIS/10.0| |:white_check_mark: | | | | | | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server||
 
 

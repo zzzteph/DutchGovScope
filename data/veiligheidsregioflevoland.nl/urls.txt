@@ -6,7 +6,6 @@ https://mail.veiligheidsregioflevoland.nl
 http://autodiscover.veiligheidsregioflevoland.nl
 https://enterpriseenrollment.veiligheidsregioflevoland.nl
 https://enterpriseregistration.veiligheidsregioflevoland.nl
-http://calculus.veiligheidsregioflevoland.nl
-http://enlace.veiligheidsregioflevoland.nl
-http://web3984.veiligheidsregioflevoland.nl
+http://dept.veiligheidsregioflevoland.nl
+http://audiobooks.veiligheidsregioflevoland.nl
 https://msoid.veiligheidsregioflevoland.nl

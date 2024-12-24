@@ -156,3 +156,12 @@ https://digitaltwin-dev.rws.nl
 https://acc-wvp.rws.nl
 https://aquo-kit.rws.nl
 http://mip-proxy-acc.rws.nl
+https://svs.ptp.inloggen.rws.nl
+https://schadeportaal.ptp.inloggen.rws.nl
+https://mars2.ptp.inloggen.rws.nl
+https://acc-werkplek.gw01-gslb.rws.nl
+https://werkplek.gw01-gslb.rws.nl
+http://ddapi-preprod.gslb.rws.nl
+https://test-aquo-kit.rws.nl
+https://tst-ovdsupport.rws.nl
+https://mars.ptp.inloggen.rws.nl

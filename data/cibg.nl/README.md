@@ -6,13 +6,13 @@
 
  - **SSL Grade**:
  - **HTTP Security Grade**:C
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:29
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:28
 
 
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/cibg.nl/subdomains.txt)|55|Alive subdomains|
-|[urls.txt](/data/cibg.nl/urls.txt)|55|Urls|
+|[urls.txt](/data/cibg.nl/urls.txt)|54|Urls|
 
 
 ## Statistics
@@ -27,7 +27,6 @@
 |[https://acceptatie.bestandsportaal.cibg.nl](https://acceptatie.bestandsportaal.cibg.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|acceptatie.besta...|
 |[https://acceptatie.designsystem.cibg.nl](https://acceptatie.designsystem.cibg.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[http://acceptatie.digikoppeling.cibg.nl](http://acceptatie.digikoppeling.cibg.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||
-|[https://acceptatie.lir.cibg.nl](https://acceptatie.lir.cibg.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://acceptatie.meldingen.klopt.cibg.nl](https://acceptatie.meldingen.klopt.cibg.nl)| | **F**|awselb/2.0| | | | | | | | :white_check_mark: | |Amazon ELB Amazon Web Services||
 |[https://acceptatie.portaal.competent.cibg.nl](https://acceptatie.portaal.competent.cibg.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://acceptatie.portaal.digilevering.cibg.nl](https://acceptatie.portaal.digilevering.cibg.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||

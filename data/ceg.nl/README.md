@@ -11,7 +11,7 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/ceg.nl/subdomains.txt)|10|Alive subdomains|
+|[subdomains.txt](/data/ceg.nl/subdomains.txt)|7|Alive subdomains|
 |[urls.txt](/data/ceg.nl/urls.txt)|7|Urls|
 
 

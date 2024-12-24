@@ -127,6 +127,7 @@ highcharts.cbs.nl
 redactie.cbs.nl
 www.cbs.nl
 cdn.cbs.nl
+collecties.historisch.cbs.nl
 historisch.cbs.nl
 www.historisch.cbs.nl
 designsystem.cbs.nl

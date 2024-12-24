@@ -71,7 +71,7 @@
 |[http://amp-pre.logius.nl](http://amp-pre.logius.nl)| | **F**|BigIP| | | | | | | | :white_check_mark: | |F5 BigIP||
 |[https://gm.mev.logius.nl](https://gm.mev.logius.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS|403 Forbidden|
 |[https://logius.nl](https://logius.nl)| | **A**|nginx| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
-|[https://gebruikersportaal.preproductie.digipoort.logius.nl](https://gebruikersportaal.preproductie.digipoort.logius.nl)| | **C**||:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|503 Service Temp...|
+|[https://gebruikersportaal.preproductie.digipoort.logius.nl](https://gebruikersportaal.preproductie.digipoort.logius.nl)| | **C**||:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Java||
 |[http://lca.logius.nl](http://lca.logius.nl)| | **F**|BigIP| | | | | | | | :white_check_mark: | |F5 BigIP||
 |[http://sonarqube.lpc.logius.nl](http://sonarqube.lpc.logius.nl)| | **F**|BigIP| | | | | | | | :white_check_mark: | |F5 BigIP||
 |[http://grafana.lpc.logius.nl](http://grafana.lpc.logius.nl)| | **F**|BigIP| | | | | | | | :white_check_mark: | |F5 BigIP||

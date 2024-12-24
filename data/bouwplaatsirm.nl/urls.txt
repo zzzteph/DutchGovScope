@@ -7,5 +7,4 @@ https://staging.bouwplaatsirm.nl
 http://autodiscover.bouwplaatsirm.nl
 https://enterpriseenrollment.bouwplaatsirm.nl
 https://enterpriseregistration.bouwplaatsirm.nl
-https://gitlab.bouwplaatsirm.nl
 https://msoid.bouwplaatsirm.nl

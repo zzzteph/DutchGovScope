@@ -6,13 +6,13 @@
 
  - **SSL Grade**:
  - **HTTP Security Grade**:C
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:79
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:72
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/rivm.nl/subdomains.txt)|265|Alive subdomains|
-|[urls.txt](/data/rivm.nl/urls.txt)|265|Urls|
+|[subdomains.txt](/data/rivm.nl/subdomains.txt)|257|Alive subdomains|
+|[urls.txt](/data/rivm.nl/urls.txt)|257|Urls|
 
 
 ## Statistics
@@ -110,21 +110,14 @@
 |[https://signalen.rivm.nl](https://signalen.rivm.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |HSTS Nginx|Syrinx|
 |[https://bestellingen.rivm.nl](https://bestellingen.rivm.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |||
 |[http://www.bestellingen.rivm.nl](http://www.bestellingen.rivm.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
-|[http://hypocrates.rivm.nl](http://hypocrates.rivm.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |||
 |[http://redirect.rivm.nl](http://redirect.rivm.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |||
-|[http://search.rivm.nl](http://search.rivm.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |||
 |[http://www.typened-mrsa.rivm.nl](http://www.typened-mrsa.rivm.nl)| | **C**||:warning: |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | |||
-|[http://caontb.rivm.nl](http://caontb.rivm.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |||
-|[http://tuberculosis.rivm.nl](http://tuberculosis.rivm.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |||
-|[http://www.caontb.rivm.nl](http://www.caontb.rivm.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |||
 |[http://www.earss.rivm.nl](http://www.earss.rivm.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |||
 |[http://www.tuberculosis.rivm.nl](http://www.tuberculosis.rivm.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |||
 |[http://typened-crmo.rivm.nl](http://typened-crmo.rivm.nl)| | **C**||:warning: |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | |||
 |[http://www.isis.rivm.nl](http://www.isis.rivm.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |||
-|[http://www.typened-cpe.rivm.nl](http://www.typened-cpe.rivm.nl)| | **C**||:warning: |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | |||
 |[http://bggo.rivm.nl](http://bggo.rivm.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |||
 |[http://ewrs.rivm.nl](http://ewrs.rivm.nl)| | **B**||:warning: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |||
-|[http://kosteneffectiviteit-preventie.rivm.nl](http://kosteneffectiviteit-preventie.rivm.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |||
 |[http://nieuwsbrieven.rivm.nl](http://nieuwsbrieven.rivm.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |||
 |[http://typened-cpe-demo.rivm.nl](http://typened-cpe-demo.rivm.nl)| | **C**||:warning: |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | |||
 |[http://www.rca.rivm.nl](http://www.rca.rivm.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |||
@@ -279,7 +272,6 @@
 |[https://vacatiegelden.rivm.nl](https://vacatiegelden.rivm.nl)| | **B**||:warning: |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | |F5 BigIP HSTS||
 |[https://webservice.signalen.osiris.rivm.nl](https://webservice.signalen.osiris.rivm.nl)| | **A**|| |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | |HSTS|WSVragenLijst We...|
 |[https://webservice.soap.osiris.rivm.nl](https://webservice.soap.osiris.rivm.nl)| | **A**|| |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | |HSTS|WSVragenLijst We...|
-|[http://acceptatie.mgk.osiris.rivm.nl](http://acceptatie.mgk.osiris.rivm.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://ivac.rivm.nl](https://ivac.rivm.nl)| | **B**|nginx| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS Nginx|Mendix|
 |[https://developer.rivm.nl](https://developer.rivm.nl)| | **A**||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bootstrap HSTS Ruby Ruby on Rails|Homepage|
 |[https://lsp.rivm.nl](https://lsp.rivm.nl)| | **F**|Microsoft-Azure-Application-Gateway/v2| | | | | | | | :white_check_mark: | ||404 Not Found|

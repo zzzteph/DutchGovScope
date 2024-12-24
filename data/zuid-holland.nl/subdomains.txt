@@ -46,7 +46,6 @@ monitorleefomgeving.zuid-holland.nl
 nieuwsbrief.zuid-holland.nl
 omgevingsbeleid.zuid-holland.nl
 omgevingsdocumenten.zuid-holland.nl
-opendata.zuid-holland.nl
 planmer.zuid-holland.nl
 ro.zuid-holland.nl
 ruimtelijkeplannen.zuid-holland.nl

@@ -1,3 +1,2 @@
 https://onehealth.nl
 https://www.onehealth.nl
-http://localhost.onehealth.nl

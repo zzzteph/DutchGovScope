@@ -6,13 +6,13 @@
 
  - **SSL Grade**:
  - **HTTP Security Grade**:B
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:24
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:23
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/zuid-holland.nl/subdomains.txt)|77|Alive subdomains|
-|[urls.txt](/data/zuid-holland.nl/urls.txt)|77|Urls|
+|[subdomains.txt](/data/zuid-holland.nl/subdomains.txt)|76|Alive subdomains|
+|[urls.txt](/data/zuid-holland.nl/urls.txt)|76|Urls|
 
 
 ## Statistics
@@ -26,11 +26,11 @@
 |[https://archeologie.zuid-holland.nl](https://archeologie.zuid-holland.nl)| | **A**|nginx|:warning: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|Home - Provincia...|
 |[https://archeologie2.zuid-holland.nl](https://archeologie2.zuid-holland.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server Microsoft ASP.NET|403 - Forbidden:...|
 |[https://atlas.zuid-holland.nl](https://atlas.zuid-holland.nl)| | **C**|Microsoft-IIS/10.0|:o: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS IIS:10.0 Microsoft ASP.NET Windows Server||
-|[https://beeldarchiefbeheer.zuid-holland.nl](https://beeldarchiefbeheer.zuid-holland.nl)| | **B**|Picture Pack|:warning: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:4.0.30319|Picture Pack|
-|[https://beeldbank.zuid-holland.nl](https://beeldbank.zuid-holland.nl)| | **A**||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET|Homepage | Beeld...|
+|[https://beeldarchiefbeheer.zuid-holland.nl](https://beeldarchiefbeheer.zuid-holland.nl)| | **B**|Picture Pack|:warning: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET|Picture Pack|
+|[https://beeldbank.zuid-holland.nl](https://beeldbank.zuid-holland.nl)| | **A**||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:4.0.30319|Homepage | Beeld...|
 |[https://beeldbankbeheer.zuid-holland.nl](https://beeldbankbeheer.zuid-holland.nl)| | **E**|Picture Pack|:warning: | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Microsoft ASP.NET:4.0.30319|Picture Pack|
 |[https://beterwordenvancorona.zuid-holland.nl](https://beterwordenvancorona.zuid-holland.nl)| | **B**|Apache| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server Drupal HSTS PHP|Redirecting to h...|
-|[https://toekomstscenarios.zuid-holland.nl](https://toekomstscenarios.zuid-holland.nl)| | **B**|Apache| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server Drupal:8 HSTS PHP|Redirecting to h...|
+|[https://toekomstscenarios.zuid-holland.nl](https://toekomstscenarios.zuid-holland.nl)| | **B**|Apache| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server Drupal HSTS PHP|Redirecting to h...|
 |[https://wapenfeiten.zuid-holland.nl](https://wapenfeiten.zuid-holland.nl)| | **E**|Apache| | | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server Drupal:8 PHP|Wapenfeiten: de...|
 |[https://circulair.zuid-holland.nl](https://circulair.zuid-holland.nl)| | **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |Elementor:3.25.6 HSTS MySQL Nginx PHP:8.1.29 WordPress:6.7.1 Yoast SEO:23.8|Home - Circulair...|
 |[https://kennis.zuid-holland.nl](https://kennis.zuid-holland.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Elementor:3.25.6 HSTS MySQL Nginx PHP:8.1.29 WordPress|Home - Kennis -...|
@@ -45,7 +45,7 @@
 |[https://data.zuid-holland.nl](https://data.zuid-holland.nl)| | **A**|Microsoft-IIS/10.0| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS IIS:10.0 Windows Server||
 |[https://dataloket.zuid-holland.nl](https://dataloket.zuid-holland.nl)| | **B**|nginx|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |Azure HSTS Nginx|Dataloket Provin...|
 |[https://keuzehulpverkeersmaatregelen.zuid-holland.nl](https://keuzehulpverkeersmaatregelen.zuid-holland.nl)| | **D**|waitress|:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | |Azure Bootstrap:5.1.3 HSTS|Keuzehulp werkba...|
-|[https://subsidieregister.zuid-holland.nl](https://subsidieregister.zuid-holland.nl)| | **D**|nginx|:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | |Azure HSTS Nginx|Subsidieregister|
+|[https://subsidieregister.zuid-holland.nl](https://subsidieregister.zuid-holland.nl)| | **C**|nginx|:white_check_mark: |:white_check_mark: | :warning:| |:warning: | :white_check_mark: | | :white_check_mark: | |Azure Azure Edge Network Azure Monitor HSTS Nginx Node.js Nuxt.js Vue.js|Subsidieregister|
 |[https://vgr.zuid-holland.nl](https://vgr.zuid-holland.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Web App - Unavai...|
 |[https://digitaalmkb.zuid-holland.nl](https://digitaalmkb.zuid-holland.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS HTTP/3|301 Moved Perman...|
 |[https://gebiedsprofielen.zuid-holland.nl](https://gebiedsprofielen.zuid-holland.nl)| | **A**|Microsoft-IIS/10.0| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS IIS:10.0 Windows Server||
@@ -68,7 +68,6 @@
 |[https://nieuwsbrief.zuid-holland.nl](https://nieuwsbrief.zuid-holland.nl)| | **A**|nginx| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://omgevingsbeleid.zuid-holland.nl](https://omgevingsbeleid.zuid-holland.nl)| | **E**|| | | | | | | | :white_check_mark: | |Azure Azure Front Door|Omgevingsbeleid...|
 |[https://omgevingsdocumenten.zuid-holland.nl](https://omgevingsdocumenten.zuid-holland.nl)| | **E**|| | | | | | | | :white_check_mark: | ||PlanoView|
-|[https://opendata.zuid-holland.nl](https://opendata.zuid-holland.nl)| | **A**||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Java||
 |[https://planmer.zuid-holland.nl](https://planmer.zuid-holland.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Azure Azure Front Door HSTS|PlanMER • Provin...|
 |[https://ro.zuid-holland.nl](https://ro.zuid-holland.nl)| | **A**|Microsoft-IIS/10.0| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS IIS:10.0 Windows Server|ro.zuid-holland....|
 |[https://ruimtelijkeplannen.zuid-holland.nl](https://ruimtelijkeplannen.zuid-holland.nl)| | **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |Bootstrap HSTS Nginx|Ruimtelijke plan...|
@@ -76,7 +75,7 @@
 |[https://werkenvoor.zuid-holland.nl](https://werkenvoor.zuid-holland.nl)| | **A**|LiteSpeed| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS HTTP/3 LiteSpeed Litespeed Cache YouTube|Werken voor de p...|
 |[https://zaaksysteem-accept.zuid-holland.nl](https://zaaksysteem-accept.zuid-holland.nl)| | **A**||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Moved|
 |[https://zaaksysteem.zuid-holland.nl](https://zaaksysteem.zuid-holland.nl)| | **A**||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Moved|
-|[https://beeldarchief.zuid-holland.nl](https://beeldarchief.zuid-holland.nl)| | **B**||:warning: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:4.0.30319||
+|[https://beeldarchief.zuid-holland.nl](https://beeldarchief.zuid-holland.nl)| | **B**||:warning: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET||
 |[https://belastingen.zuid-holland.nl](https://belastingen.zuid-holland.nl)| | **A**|nginx|:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS Microsoft ASP.NET Nginx|Object moved|
 |[https://denkmeemet.zuid-holland.nl](https://denkmeemet.zuid-holland.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Express HSTS Node.js|Home | Denk mee...|
 |[https://windlansingerland.zuid-holland.nl](https://windlansingerland.zuid-holland.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Express HSTS Node.js|Home | Denk mee...|
@@ -85,7 +84,7 @@
 |[https://geo.zuid-holland.nl](https://geo.zuid-holland.nl)| | **B**|Microsoft-IIS/10.0| |:white_check_mark: | :warning:| | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS IIS:10.0 Windows Server||
 |[https://geoweb.zuid-holland.nl](https://geoweb.zuid-holland.nl)| | **A**|Microsoft-IIS/10.0| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS IIS:10.0 Microsoft ASP.NET Windows Server||
 |[https://investerenin.zuid-holland.nl](https://investerenin.zuid-holland.nl)| | **A**||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bootstrap:4.4.1 HSTS|Groeiagenda|
-|[https://jaaroverzichtcommissarisvandekoning2023.zuid-holland.nl](https://jaaroverzichtcommissarisvandekoning2023.zuid-holland.nl)| | **A**|-|:white_check_mark: |:white_check_mark: | | | :white_check_mark:| | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:-|The page cannot...|
+|[http://jaaroverzichtcommissarisvandekoning2023.zuid-holland.nl](http://jaaroverzichtcommissarisvandekoning2023.zuid-holland.nl)| | **A**||:white_check_mark: |:white_check_mark: | | | :white_check_mark:| | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:-||
 |[https://natura2000-data.zuid-holland.nl](https://natura2000-data.zuid-holland.nl)| | **B**|nginx|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |Azure HSTS Nginx|N2000|
 |[https://subsidieportaal.zuid-holland.nl](https://subsidieportaal.zuid-holland.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|ClientPortal|
 |[https://virtueel.zuid-holland.nl](https://virtueel.zuid-holland.nl)| | **A**|Microsoft-IIS/10.0| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS IIS:10.0 Microsoft ASP.NET Windows Server|Cesium|

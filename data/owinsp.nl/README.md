@@ -11,8 +11,8 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/owinsp.nl/subdomains.txt)|11|Alive subdomains|
-|[urls.txt](/data/owinsp.nl/urls.txt)|11|Urls|
+|[subdomains.txt](/data/owinsp.nl/subdomains.txt)|9|Alive subdomains|
+|[urls.txt](/data/owinsp.nl/urls.txt)|9|Urls|
 
 
 ## Statistics
@@ -27,8 +27,6 @@
 |[https://isd.owinsp.nl](https://isd.owinsp.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS|IVHO - ISD4|
 |[https://pitng.ontwikkel.owinsp.nl](https://pitng.ontwikkel.owinsp.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://pitng.owinsp.nl](https://pitng.owinsp.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS|404 Not Found|
-|[https://owinsp.nl](https://owinsp.nl)| | **F**|Apache/2| | | | | | | | :white_check_mark: | |Apache HTTP Server:2|301 Moved Perman...|
-|[https://www.owinsp.nl](https://www.owinsp.nl)| | **F**|Apache/2| | | | | | | | :white_check_mark: | |Apache HTTP Server:2|301 Moved Perman...|
 |[https://pitng.test.owinsp.nl](https://pitng.test.owinsp.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://bounce.owinsp.nl](https://bounce.owinsp.nl)| | **F**|Microsoft-Azure-Application-Gateway/v2| | | | | | | | :white_check_mark: | ||404 Not Found|
 

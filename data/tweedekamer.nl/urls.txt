@@ -68,7 +68,6 @@ https://opendata.test.tweedekamer.nl
 https://werkenbij.acceptatie.tweedekamer.nl
 https://livestream-backup.tweedekamer.nl
 https://livestream-media-backup.tweedekamer.nl
-https://livestream-thumb.tweedekamer.nl
 https://livestreaming-thumb.b67.tweedekamer.nl
 https://livestream.tweedekamer.nl
 https://livestreaming-thumb.b67bu.tweedekamer.nl

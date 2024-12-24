@@ -25,6 +25,6 @@ https://www.raadvanstate.nl
 https://zittingsagenda.raadvanstate.nl
 http://kennisbank.raadvanstate.nl
 https://loket-preprod.raadvanstate.nl
-https://test.raadvanstate.nl
+http://test.raadvanstate.nl
 https://enterpriseenrollment.raadvanstate.nl
 https://enterpriseregistration.raadvanstate.nl

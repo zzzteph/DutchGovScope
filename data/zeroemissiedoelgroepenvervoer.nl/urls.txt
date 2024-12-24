@@ -1,2 +1,3 @@
 https://zeroemissiedoelgroepenvervoer.nl
 http://autodiscover.zeroemissiedoelgroepenvervoer.nl
+http://autoconfig.zeroemissiedoelgroepenvervoer.nl

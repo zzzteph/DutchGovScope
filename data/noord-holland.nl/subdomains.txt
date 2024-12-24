@@ -61,3 +61,4 @@ admin.openstad.noord-holland.nl
 auth.openstad.noord-holland.nl
 analytics.noord-holland.nl
 img.openstad.noord-holland.nl
+vooruitlab.noord-holland.nl

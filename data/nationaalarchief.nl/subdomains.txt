@@ -35,3 +35,5 @@ en.test.nationaalarchief.nl
 es.test.nationaalarchief.nl
 localhost.nationaalarchief.nl
 meld.nationaalarchief.nl
+hub3.nationaalarchief.nl
+zvt.nationaalarchief.nl

@@ -11,8 +11,8 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/cbs.nl/subdomains.txt)|180|Alive subdomains|
-|[urls.txt](/data/cbs.nl/urls.txt)|180|Urls|
+|[subdomains.txt](/data/cbs.nl/subdomains.txt)|181|Alive subdomains|
+|[urls.txt](/data/cbs.nl/urls.txt)|181|Urls|
 
 
 ## Statistics
@@ -149,6 +149,7 @@
 |[https://redactie.cbs.nl](https://redactie.cbs.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://www.cbs.nl](https://www.cbs.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bootstrap:5.3.3 HSTS|Centraal Bureau...|
 |[https://cdn.cbs.nl](https://cdn.cbs.nl)| | **F**|| | | :warning:| | | | | :white_check_mark: | |Azure Azure Front Door||
+|[http://collecties.historisch.cbs.nl](http://collecties.historisch.cbs.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
 |[https://historisch.cbs.nl](https://historisch.cbs.nl)| | **A**|...|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bootstrap HSTS PHP|Zoeken - CBS|
 |[https://www.historisch.cbs.nl](https://www.historisch.cbs.nl)| | **A**|...|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Document Moved|
 |[https://designsystem.cbs.nl](https://designsystem.cbs.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Linkedin Ads Ruby Ruby on Rails|CBS Design Syste...|
@@ -185,7 +186,7 @@
 |[https://search.beta.cbs.nl](https://search.beta.cbs.nl)| | **B**|envoy| |:white_check_mark: | :warning:| | :white_check_mark:| | | :white_check_mark: | |Envoy Express HSTS Node.js|Error|
 |[https://mijn.cbs.nl](https://mijn.cbs.nl)| | **C**|envoy| |:white_check_mark: | | | | | | :white_check_mark: | |Envoy HSTS|Welkom op Mijn C...|
 |[https://mijn.acceptatie.cbs.nl](https://mijn.acceptatie.cbs.nl)| | **C**|envoy| |:white_check_mark: | | | | | | :white_check_mark: | |Basic Envoy HSTS|401 Authorizatio...|
-|[https://overzicht.cbs.nl](https://overzicht.cbs.nl)| | **C**|Microsoft-IIS/10.0|:warning: |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS IIS:10.0 Microsoft ASP.NET Windows Server|Object moved|
+|[https://overzicht.cbs.nl](https://overzicht.cbs.nl)| | **C**|Microsoft-IIS/10.0|:warning: |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS IIS:10.0 Microsoft ASP.NET:4.0.30319 Windows Server|Object moved|
 |[https://webserver.cbs.nl](https://webserver.cbs.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server||
 |[https://brandportal.cbs.nl](https://brandportal.cbs.nl)| | **F**|Apache/2| | | | | | | | :white_check_mark: | |Apache HTTP Server:2||
 |[https://testchat.cbs.nl](https://testchat.cbs.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
@@ -194,7 +195,7 @@
 |[https://content1.cbs.nl](https://content1.cbs.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||
 |[https://gecko.cbs.nl](https://gecko.cbs.nl)| | **E**|| | | | | | | | :white_check_mark: | ||GECKO|
 |[https://login-databestanden.test.cbs.nl](https://login-databestanden.test.cbs.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Welcome to Keycl...|
-|[https://beh-iam.acceptatie.cbs.nl](https://beh-iam.acceptatie.cbs.nl)| | **C**|Microsoft-IIS/10.0|:warning: |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Bootstrap HSTS IIS:10.0 Microsoft ASP.NET Windows Server|Login voor intde...|
+|[https://beh-iam.acceptatie.cbs.nl](https://beh-iam.acceptatie.cbs.nl)| | **C**|Microsoft-IIS/10.0|:warning: |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Bootstrap HSTS IIS:10.0 Microsoft ASP.NET:4.0.30319 Windows Server|Login voor intde...|
 |[https://geodata.cbs.nl](https://geodata.cbs.nl)| | **C**|Microsoft-IIS/10.0| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS IIS:10.0 Windows Server|IIS Windows Serv...|
 |[https://livecharts.cbs.nl](https://livecharts.cbs.nl)| | **F**|nginx/1.20.2| | | | | | | | :white_check_mark: | |Nginx:1.20.2|403 Forbidden|
 |[https://iv3-controle.beta.cbs.nl](https://iv3-controle.beta.cbs.nl)| | **C**|envoy| |:white_check_mark: | | | | | | :white_check_mark: | |Bootstrap Envoy HSTS|Check iv3|

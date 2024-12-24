@@ -5,8 +5,8 @@
 
 
  - **SSL Grade**:
- - **HTTP Security Grade**:E
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:1
+ - **HTTP Security Grade**:F
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:0
 
 
 | File       | Count | Info |
@@ -20,7 +20,7 @@
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://agendanatuurinclusief.nl](https://agendanatuurinclusief.nl)| | **C**|Apache/2|:warning: |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server:2|302 Found|
-|[https://www.agendanatuurinclusief.nl](https://www.agendanatuurinclusief.nl)| | **F**|Apache/2| | | | | | | | :white_check_mark: | |Apache HTTP Server:2|302 Found|
+|[https://agendanatuurinclusief.nl](https://agendanatuurinclusief.nl)| | **F**|Apache/2| | | | | | | | :white_check_mark: | |Apache HTTP Server:2|403 Forbidden|
+|[https://www.agendanatuurinclusief.nl](https://www.agendanatuurinclusief.nl)| | **F**|Apache/2| | | | | | | | :white_check_mark: | |Apache HTTP Server:2|403 Forbidden|
 
 

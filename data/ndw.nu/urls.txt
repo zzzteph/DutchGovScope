@@ -89,3 +89,4 @@ https://nls.staging.ndw.nu
 https://shared-services.staging.ndw.nu
 https://security.staging.ndw.nu
 https://stats.staging.ndw.nu
+https://verkeersveiligheid.ndw.nu

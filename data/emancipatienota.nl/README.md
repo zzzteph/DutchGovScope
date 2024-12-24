@@ -11,7 +11,7 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/emancipatienota.nl/subdomains.txt)|4|Alive subdomains|
+|[subdomains.txt](/data/emancipatienota.nl/subdomains.txt)|0|Alive subdomains|
 |[urls.txt](/data/emancipatienota.nl/urls.txt)|0|Urls|
 
 

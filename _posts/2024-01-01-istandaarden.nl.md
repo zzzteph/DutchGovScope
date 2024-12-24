@@ -5,7 +5,7 @@ permalink: "/dutchgov/istandaarden.nl.html"
 subdomains_count: 12
 urls_count: 12
 ssl_rank: 
-http_rank: C
+http_rank: B
 security_txt: 3
 url_link: /data/istandaarden.nl/urls.txt
 subdomains_link: /data/istandaarden.nl/subdomains.txt
@@ -19,7 +19,7 @@ tags: dutchgov
 
 
  - **SSL Grade**:
- - **HTTP Security Grade**:C
+ - **HTTP Security Grade**:B
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:3
 
 
@@ -44,7 +44,7 @@ tags: dutchgov
 |[https://modules.istandaarden.nl](https://modules.istandaarden.nl)| | **B**|istio-envoy|:white_check_mark: |:white_check_mark: | | |:warning: | | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://registry.istandaarden.nl](https://registry.istandaarden.nl)| | **C**|istio-envoy| |:white_check_mark: | | | | | | :white_check_mark: | |Envoy HSTS||
 |[https://repository.istandaarden.nl](https://repository.istandaarden.nl)| | **A**|istio-envoy|:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Envoy HSTS||
-|[https://sso.istandaarden.nl](https://sso.istandaarden.nl)| | **F**|istio-envoy| | | | | | | | :white_check_mark: | |||
+|[https://sso.istandaarden.nl](https://sso.istandaarden.nl)| | **A**|istio-envoy| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://proto.istandaarden.nl](https://proto.istandaarden.nl)| | **F**|GitHub.com| | | :warning:| | | | | :white_check_mark: | |Fastly GitHub Pages Varnish|Home|
 
 

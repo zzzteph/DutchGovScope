@@ -47,7 +47,7 @@
 |[https://zittingsagenda.raadvanstate.nl](https://zittingsagenda.raadvanstate.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server||
 |[http://kennisbank.raadvanstate.nl](http://kennisbank.raadvanstate.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Not Found|
 |[https://loket-preprod.raadvanstate.nl](https://loket-preprod.raadvanstate.nl)| | **A**|Microsoft-IIS/10.0|:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |IIS:10.0 Windows Server||
-|[https://test.raadvanstate.nl](https://test.raadvanstate.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:-|Home - Raad van...|
+|[http://test.raadvanstate.nl](http://test.raadvanstate.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:-||
 |[https://enterpriseenrollment.raadvanstate.nl](https://enterpriseenrollment.raadvanstate.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||
 |[https://enterpriseregistration.raadvanstate.nl](https://enterpriseregistration.raadvanstate.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 

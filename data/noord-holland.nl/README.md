@@ -11,7 +11,7 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/noord-holland.nl/subdomains.txt)|63|Alive subdomains|
+|[subdomains.txt](/data/noord-holland.nl/subdomains.txt)|64|Alive subdomains|
 |[urls.txt](/data/noord-holland.nl/urls.txt)|63|Urls|
 
 

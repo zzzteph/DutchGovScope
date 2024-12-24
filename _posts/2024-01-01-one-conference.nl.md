@@ -3,9 +3,9 @@ layout: default
 title: "one-conference.nl"
 permalink: "/dutchgov/one-conference.nl.html"
 subdomains_count: 5
-urls_count: 4
+urls_count: 5
 ssl_rank: 
-http_rank: A
+http_rank: B
 security_txt: 3
 url_link: /data/one-conference.nl/urls.txt
 subdomains_link: /data/one-conference.nl/subdomains.txt
@@ -19,14 +19,14 @@ tags: dutchgov
 
 
  - **SSL Grade**:
- - **HTTP Security Grade**:A
+ - **HTTP Security Grade**:B
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:3
 
 
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/DutchGovScope/data/one-conference.nl/subdomains.txt)|5|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/one-conference.nl/urls.txt)|4|Urls|
+|[urls.txt](/DutchGovScope/data/one-conference.nl/urls.txt)|5|Urls|
 
 
 ## Statistics
@@ -38,5 +38,6 @@ tags: dutchgov
 |[https://registration.one-conference.nl](https://registration.one-conference.nl)| | **A**|nginx| |:white_check_mark: | :warning:| |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx Plesk||
 |[https://www.registration.one-conference.nl](https://www.registration.one-conference.nl)| | **A**|nginx| |:white_check_mark: | :warning:| |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx Plesk||
 |[https://emagazine.one-conference.nl](https://emagazine.one-conference.nl)| | **A**|Apache| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server Bootstrap HSTS|One Magazine|
+|[https://aanmelder.one-conference.nl](https://aanmelder.one-conference.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|404 Not Found|
 
 

@@ -5,7 +5,7 @@
 
 
  - **SSL Grade**:
- - **HTTP Security Grade**:E
+ - **HTTP Security Grade**:F
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:0
 
 
@@ -20,7 +20,7 @@
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://mkdoorn.nl](https://mkdoorn.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Object moved|
-|[https://www.mkdoorn.nl](https://www.mkdoorn.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Object moved|
+|[https://mkdoorn.nl](https://mkdoorn.nl)| | **F**|Microsoft-IIS/10.0| | | | | | | | :white_check_mark: | |HSTS IIS:10.0 Windows Server|Document Moved|
+|[https://www.mkdoorn.nl](https://www.mkdoorn.nl)| | **F**|Microsoft-IIS/10.0| | | | | | | | :white_check_mark: | |HSTS IIS:10.0 Windows Server|Document Moved|
 
 

@@ -3,10 +3,10 @@ layout: default
 title: "datawonen.nl"
 permalink: "/dutchgov/datawonen.nl.html"
 subdomains_count: 14
-urls_count: 14
+urls_count: 13
 ssl_rank: 
 http_rank: A
-security_txt: 14
+security_txt: 13
 url_link: /data/datawonen.nl/urls.txt
 subdomains_link: /data/datawonen.nl/subdomains.txt
 categories: dutchgov
@@ -20,13 +20,13 @@ tags: dutchgov
 
  - **SSL Grade**:
  - **HTTP Security Grade**:A
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:14
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:13
 
 
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/DutchGovScope/data/datawonen.nl/subdomains.txt)|14|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/datawonen.nl/urls.txt)|14|Urls|
+|[urls.txt](/DutchGovScope/data/datawonen.nl/urls.txt)|13|Urls|
 
 
 ## Statistics
@@ -47,6 +47,5 @@ tags: dutchgov
 |[https://www.datawonen.nl](https://www.datawonen.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET|Document Moved|
 |[https://dfg.datawonen.nl](https://dfg.datawonen.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Amazon S3 Amazon Web Services Azure Edge Network HSTS Microsoft ASP.NET MyFonts|Findo - Data Fin...|
 |[https://mn.datawonen.nl](https://mn.datawonen.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | | :white_check_mark: | :white_check_mark: | |Amazon S3 Amazon Web Services Azure Edge Network HSTS Microsoft ASP.NET MyFonts|Monitor Woningbo...|
-|[https://pwik.datawonen.nl](https://pwik.datawonen.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | | :white_check_mark: | :white_check_mark: | |Amazon S3 Amazon Web Services Azure Edge Network HSTS Microsoft ASP.NET MyFonts|Prestaties Wonin...|
 
 

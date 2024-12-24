@@ -6,13 +6,13 @@
 
  - **SSL Grade**:
  - **HTTP Security Grade**:D
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:15
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:17
 
 
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/dictu.nl/subdomains.txt)|68|Alive subdomains|
-|[urls.txt](/data/dictu.nl/urls.txt)|66|Urls|
+|[urls.txt](/data/dictu.nl/urls.txt)|68|Urls|
 
 
 ## Statistics
@@ -81,10 +81,12 @@
 |[https://asb.webftp.dictu.nl](https://asb.webftp.dictu.nl)| | **D**|| | | | | | | :white_check_mark: | :white_check_mark: | ||Redirect|
 |[http://c-pki-acc.dictu.nl](http://c-pki-acc.dictu.nl)| | **F**||:warning: | | | | | | | :white_check_mark: | ||c-pki-acc.dictu....|
 |[http://rijkspascrlcert2-acc.dictu.nl](http://rijkspascrlcert2-acc.dictu.nl)| | **F**||:warning: | | | | | | | :white_check_mark: | ||rijkspascrlcert2...|
-|[https://snow-cw.dictu.nl](https://snow-cw.dictu.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |HSTS Microsoft HTTPAPI:2.0||
+|[https://snow-cw.dictu.nl](https://snow-cw.dictu.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0||
 |[https://tvs.dictu.nl](https://tvs.dictu.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|403 Forbidden|
 |[http://rijkspasocsp2-acc.dictu.nl](http://rijkspasocsp2-acc.dictu.nl)| | **E**|| | | | | | | | :white_check_mark: | ||IIS Windows Serv...|
 |[https://test2.dictu.nl](https://test2.dictu.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Basic Nginx|401 Authorizatio...|
 |[https://acc2.dictu.nl](https://acc2.dictu.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Basic Nginx|401 Authorizatio...|
+|[https://jira.dictu.nl](https://jira.dictu.nl)| | **C**||:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Java||
+|[https://jira-acc.dictu.nl](https://jira-acc.dictu.nl)| | **C**||:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Java||
 
 

@@ -12,7 +12,7 @@
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/ndw.nu/subdomains.txt)|92|Alive subdomains|
-|[urls.txt](/data/ndw.nu/urls.txt)|91|Urls|
+|[urls.txt](/data/ndw.nu/urls.txt)|92|Urls|
 
 
 ## Statistics
@@ -111,5 +111,6 @@
 |[https://shared-services.staging.ndw.nu](https://shared-services.staging.ndw.nu)| | **F**|Microsoft-Azure-Application-Gateway/v2| | | | | | | | :white_check_mark: | ||404 Not Found|
 |[https://security.staging.ndw.nu](https://security.staging.ndw.nu)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://stats.staging.ndw.nu](https://stats.staging.ndw.nu)| | **E**|Cowboy| | | :warning:| | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Cowboy Erlang|Plausible · Simp...|
+|[https://verkeersveiligheid.ndw.nu](https://verkeersveiligheid.ndw.nu)| | **F**|Microsoft-Azure-Application-Gateway/v2| | | | | | | | :white_check_mark: | ||404 Not Found|
 
 

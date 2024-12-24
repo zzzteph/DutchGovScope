@@ -2,11 +2,11 @@
 layout: default
 title: "registersocialehygiene.nl"
 permalink: "/dutchgov/registersocialehygiene.nl.html"
-subdomains_count: 11
-urls_count: 10
+subdomains_count: 12
+urls_count: 11
 ssl_rank: 
 http_rank: A
-security_txt: 10
+security_txt: 11
 url_link: /data/registersocialehygiene.nl/urls.txt
 subdomains_link: /data/registersocialehygiene.nl/subdomains.txt
 categories: dutchgov
@@ -20,13 +20,13 @@ tags: dutchgov
 
  - **SSL Grade**:
  - **HTTP Security Grade**:A
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:10
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:11
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/registersocialehygiene.nl/subdomains.txt)|11|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/registersocialehygiene.nl/urls.txt)|10|Urls|
+|[subdomains.txt](/DutchGovScope/data/registersocialehygiene.nl/subdomains.txt)|12|Alive subdomains|
+|[urls.txt](/DutchGovScope/data/registersocialehygiene.nl/urls.txt)|11|Urls|
 
 
 ## Statistics
@@ -44,5 +44,6 @@ tags: dutchgov
 |[https://mijn.registersocialehygiene.nl](https://mijn.registersocialehygiene.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Inloggen|
 |[https://zoeken.registersocialehygiene.nl](https://zoeken.registersocialehygiene.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Publiek|
 |[https://acceptatie.mijn.registersocialehygiene.nl](https://acceptatie.mijn.registersocialehygiene.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
+|[https://acceptatie.beheer.registersocialehygiene.nl](https://acceptatie.beheer.registersocialehygiene.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 
 

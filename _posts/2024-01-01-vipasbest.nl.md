@@ -2,10 +2,10 @@
 layout: default
 title: "vipasbest.nl"
 permalink: "/dutchgov/vipasbest.nl.html"
-subdomains_count: 3
-urls_count: 3
+subdomains_count: 2
+urls_count: 2
 ssl_rank: 
-http_rank: C
+http_rank: A
 security_txt: 2
 url_link: /data/vipasbest.nl/urls.txt
 subdomains_link: /data/vipasbest.nl/subdomains.txt
@@ -19,14 +19,14 @@ tags: dutchgov
 
 
  - **SSL Grade**:
- - **HTTP Security Grade**:C
+ - **HTTP Security Grade**:A
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:2
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/vipasbest.nl/subdomains.txt)|3|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/vipasbest.nl/urls.txt)|3|Urls|
+|[subdomains.txt](/DutchGovScope/data/vipasbest.nl/subdomains.txt)|2|Alive subdomains|
+|[urls.txt](/DutchGovScope/data/vipasbest.nl/urls.txt)|2|Urls|
 
 
 ## Statistics
@@ -36,6 +36,5 @@ tags: dutchgov
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[https://vipasbest.nl](https://vipasbest.nl)| | **A**|Apache| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS|301 Moved Perman...|
 |[https://www.vipasbest.nl](https://www.vipasbest.nl)| | **A**|Apache| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server Drupal HSTS PHP|Validatie- en In...|
-|[http://localhost.vipasbest.nl](http://localhost.vipasbest.nl)| | **F**|nginx|:o: | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Laravel Nginx PHP|Weakpass|
 
 

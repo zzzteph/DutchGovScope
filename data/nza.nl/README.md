@@ -53,7 +53,7 @@
 |[https://zorgproducten-acc.nza.nl](https://zorgproducten-acc.nza.nl)| | **A**|nginx|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Azure HSTS Microsoft ASP.NET Nginx|NZa zorgproducta...|
 |[https://zorgproducten-test.nza.nl](https://zorgproducten-test.nza.nl)| | **A**|nginx|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Azure HSTS Microsoft ASP.NET Nginx|NZa zorgproducta...|
 |[https://zorgproducten.nza.nl](https://zorgproducten.nza.nl)| | **A**|nginx|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Azure HSTS Microsoft ASP.NET Nginx|NZa zorgproducta...|
-|[https://aanvragen-acc.nza.nl](https://aanvragen-acc.nza.nl)| | **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Nginx|Mendix|
+|[https://aanvragen-acc.nza.nl](https://aanvragen-acc.nza.nl)| | **A**|nginx| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|NZa aanvragenpor...|
 |[https://mijn.nza.nl](https://mijn.nza.nl)| | **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Nginx|Deze pagina is m...|
 |[https://opendisdata.nza.nl](https://opendisdata.nza.nl)| | **B**||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Bootstrap:5.3.1 HSTS||
 |[http://agw01-nomail.nza.nl](http://agw01-nomail.nza.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Web Page Blocked|

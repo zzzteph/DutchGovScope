@@ -9,3 +9,4 @@ mijn.registersocialehygiene.nl
 zoeken.registersocialehygiene.nl
 acceptatie.mijn.registersocialehygiene.nl
 acceptatie.beheer.registersocialehygiene.nl
+beheer.registersocialehygiene.nl

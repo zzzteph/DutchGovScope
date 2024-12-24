@@ -11,8 +11,8 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/trainingscatalogus.nl/subdomains.txt)|118|Alive subdomains|
-|[urls.txt](/data/trainingscatalogus.nl/urls.txt)|107|Urls|
+|[subdomains.txt](/data/trainingscatalogus.nl/subdomains.txt)|116|Alive subdomains|
+|[urls.txt](/data/trainingscatalogus.nl/urls.txt)|112|Urls|
 
 
 ## Statistics
@@ -104,7 +104,7 @@
 |[https://lms-tennet.trainingscatalogus.nl](https://lms-tennet.trainingscatalogus.nl)| | **A**|Class|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Access is denied...|
 |[https://senzer.trainingscatalogus.nl](https://senzer.trainingscatalogus.nl)| | **B**|Class|:white_check_mark: |:white_check_mark: | | |:warning: | | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://alliander-lms-t.enrollment-api.trainingscatalogus.nl](https://alliander-lms-t.enrollment-api.trainingscatalogus.nl)| | **F**|Microsoft-IIS/10.0|:white_check_mark: | | | | | | | :white_check_mark: | |Azure IIS:10.0 Microsoft ASP.NET Windows Server||
-|[https://alliander-lms-t.product-api.trainingscatalogus.nl](https://alliander-lms-t.product-api.trainingscatalogus.nl)| | **F**|Microsoft-IIS/10.0|:white_check_mark: | | | | | | | :white_check_mark: | |Azure IIS:10.0 Microsoft ASP.NET Windows Server||
+|[http://alliander-lms-t.product-api.trainingscatalogus.nl](http://alliander-lms-t.product-api.trainingscatalogus.nl)| | **F**|Microsoft-IIS/10.0| | | | | | | | :white_check_mark: | |Azure IIS:10.0 Microsoft ASP.NET Windows Server||
 |[https://lms-belastingdienst.trainingscatalogus.nl](https://lms-belastingdienst.trainingscatalogus.nl)| | **A**|Class|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Access is denied...|
 |[https://lms-apg.trainingscatalogus.nl](https://lms-apg.trainingscatalogus.nl)| | **A**|Class|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Access is denied...|
 |[https://buza.trainingscatalogus.nl](https://buza.trainingscatalogus.nl)| | **F**|Microsoft-Azure-Application-Gateway/v2| | | | | | | | :white_check_mark: | ||404 Not Found|
@@ -125,7 +125,12 @@
 |[https://ftp.trainingscatalogus.nl](https://ftp.trainingscatalogus.nl)| | **F**|Microsoft-Azure-Application-Gateway/v2| | | | | | | | :white_check_mark: | ||404 Not Found|
 |[https://sectest.trainingscatalogus.nl](https://sectest.trainingscatalogus.nl)| | **A**|Class|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://alliander-lms-a.enrollment-api.trainingscatalogus.nl](https://alliander-lms-a.enrollment-api.trainingscatalogus.nl)| | **F**|Microsoft-IIS/10.0|:white_check_mark: | | | | | | | :white_check_mark: | |Azure IIS:10.0 Microsoft ASP.NET Windows Server||
+|[https://alliander-lms-a.product-api.trainingscatalogus.nl](https://alliander-lms-a.product-api.trainingscatalogus.nl)| | **F**|Microsoft-IIS/10.0|:white_check_mark: | | | | | | | :white_check_mark: | |Azure IIS:10.0 Microsoft ASP.NET Windows Server||
+|[https://alliander-lms-a.scim-api.trainingscatalogus.nl](https://alliander-lms-a.scim-api.trainingscatalogus.nl)| | **F**|Microsoft-IIS/10.0|:white_check_mark: | | | | | | | :white_check_mark: | |Azure IIS:10.0 Microsoft ASP.NET Windows Server||
+|[https://alliander-lms-a.webhook-api.trainingscatalogus.nl](https://alliander-lms-a.webhook-api.trainingscatalogus.nl)| | **F**|Microsoft-IIS/10.0|:white_check_mark: | | | | | | | :white_check_mark: | |Azure IIS:10.0 Microsoft ASP.NET Windows Server||
 |[https://belastingdienst-lms-a.product-api.trainingscatalogus.nl](https://belastingdienst-lms-a.product-api.trainingscatalogus.nl)| | **F**|Microsoft-IIS/10.0|:white_check_mark: | | | | | | | :white_check_mark: | |Azure IIS:10.0 Microsoft ASP.NET Windows Server||
 |[https://belastingdienst-lms.enrollment-api.trainingscatalogus.nl](https://belastingdienst-lms.enrollment-api.trainingscatalogus.nl)| | **F**|Microsoft-IIS/10.0|:white_check_mark: | | | | | | | :white_check_mark: | |Azure IIS:10.0 Microsoft ASP.NET Windows Server||
+|[https://belastingdienst-lms.product-api.trainingscatalogus.nl](https://belastingdienst-lms.product-api.trainingscatalogus.nl)| | **F**|Microsoft-IIS/10.0|:white_check_mark: | | | | | | | :white_check_mark: | |Azure IIS:10.0 Microsoft ASP.NET Windows Server||
+|[https://belastingdienst-lms.scim-api.trainingscatalogus.nl](https://belastingdienst-lms.scim-api.trainingscatalogus.nl)| | **F**|Microsoft-IIS/10.0|:white_check_mark: | | | | | | | :white_check_mark: | |Azure IIS:10.0 Microsoft ASP.NET Windows Server||
 
 

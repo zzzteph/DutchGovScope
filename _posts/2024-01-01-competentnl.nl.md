@@ -2,7 +2,7 @@
 layout: default
 title: "competentnl.nl"
 permalink: "/dutchgov/competentnl.nl.html"
-subdomains_count: 11
+subdomains_count: 9
 urls_count: 9
 ssl_rank: 
 http_rank: D
@@ -25,7 +25,7 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/competentnl.nl/subdomains.txt)|11|Alive subdomains|
+|[subdomains.txt](/DutchGovScope/data/competentnl.nl/subdomains.txt)|9|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/competentnl.nl/urls.txt)|9|Urls|
 
 

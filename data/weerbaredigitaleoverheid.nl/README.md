@@ -22,8 +22,8 @@
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[https://www.weerbaredigitaleoverheid.nl](https://www.weerbaredigitaleoverheid.nl)| | **A**|Apache/2|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server:2 Bootstrap HSTS YouTube|Home - Weerbare...|
 |[https://weerbaredigitaleoverheid.nl](https://weerbaredigitaleoverheid.nl)| | **A**|Apache/2|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server:2 HSTS|301 Moved Perman...|
-|[https://cyberoefening.weerbaredigitaleoverheid.nl](https://cyberoefening.weerbaredigitaleoverheid.nl)| | **A**|Apache/2|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server:2|403 Forbidden|
-|[https://cybertafel.weerbaredigitaleoverheid.nl](https://cybertafel.weerbaredigitaleoverheid.nl)| | **B**|Apache/2| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server:2 HSTS|403 Forbidden|
+|[https://cyberoefening.weerbaredigitaleoverheid.nl](https://cyberoefening.weerbaredigitaleoverheid.nl)| | **A**|Apache/2|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server:2 Bootstrap HSTS|Home - Cyberoefe...|
+|[https://cybertafel.weerbaredigitaleoverheid.nl](https://cybertafel.weerbaredigitaleoverheid.nl)| | **B**|Apache/2| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server:2|403 Forbidden|
 |[https://bestuurlijkespecial.weerbaredigitaleoverheid.nl](https://bestuurlijkespecial.weerbaredigitaleoverheid.nl)| | **B**|Apache/2| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server:2|403 Forbidden|
 
 

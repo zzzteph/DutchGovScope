@@ -5,7 +5,7 @@ permalink: "/dutchgov/onslevendlandschap.nl.html"
 subdomains_count: 5
 urls_count: 5
 ssl_rank: 
-http_rank: B
+http_rank: A
 security_txt: 5
 url_link: /data/onslevendlandschap.nl/urls.txt
 subdomains_link: /data/onslevendlandschap.nl/subdomains.txt
@@ -19,7 +19,7 @@ tags: dutchgov
 
 
  - **SSL Grade**:
- - **HTTP Security Grade**:B
+ - **HTTP Security Grade**:A
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:5
 
 
@@ -38,6 +38,6 @@ tags: dutchgov
 |[https://onslevendlandschap.nl](https://onslevendlandschap.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
 |[https://opendata.onslevendlandschap.nl](https://opendata.onslevendlandschap.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://www.onslevendlandschap.nl](https://www.onslevendlandschap.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Homepage Levend...|
-|[https://werkplaats.onslevendlandschap.nl](https://werkplaats.onslevendlandschap.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|403 Forbidden|
+|[https://werkplaats.onslevendlandschap.nl](https://werkplaats.onslevendlandschap.nl)| | **A**|nginx| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Drupal HSTS Nginx PHP|Faciliteert en v...|
 
 

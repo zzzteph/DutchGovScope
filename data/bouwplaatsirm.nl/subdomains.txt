@@ -7,5 +7,4 @@ staging.bouwplaatsirm.nl
 autodiscover.bouwplaatsirm.nl
 enterpriseenrollment.bouwplaatsirm.nl
 enterpriseregistration.bouwplaatsirm.nl
-gitlab.bouwplaatsirm.nl
 msoid.bouwplaatsirm.nl

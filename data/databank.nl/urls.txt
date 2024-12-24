@@ -8,6 +8,7 @@ https://dth.hermes.databank.nl
 https://energiecijfers.databank.nl
 https://velsen.databank.nl
 https://senternovem.databank.nl
+https://arbeidsmarktdetailhandel.databank.nl
 https://rvo.databank.nl
 https://klimaatmonitor.databank.nl
 https://arbeidsmarktmobiliteit.databank.nl
@@ -35,11 +36,13 @@ http://ebc.databank.nl
 http://zeelandscan.databank.nl
 https://ijssellandscan.databank.nl
 http://cname-zeelandscan.databank.nl
+https://mbotransparant.databank.nl
 http://apollo.databank.nl
 http://demo-ebc.databank.nl
 https://ftgelderland.databank.nl
+https://beta-klimaatbeleid.databank.nl
 https://beta-vivet.databank.nl
-https://beta-klimaatmonitor.databank.nl
+https://beta-gdi.databank.nl
 https://beta-wsjg.databank.nl
 https://cname-holland-rijnland.databank.nl
 https://erfgoed.databank.nl
@@ -66,6 +69,7 @@ https://primosinteractief.databank.nl
 https://prognosemodelzw.databank.nl
 https://www.gemeente.databank.nl
 https://abc.databank.nl
+https://limburg.databank.nl
 https://beta-noordholland.databank.nl
 https://cname-erfgoed.databank.nl
 https://www.ciz.databank.nl
@@ -96,7 +100,6 @@ https://www.veiligheidsmonitor.databank.nl
 https://ibw.databank.nl
 https://www.senternovum.databank.nl
 https://www.openbaar.waves.databank.nl
-https://www.overijssel.databank.nl
 https://berst.databank.nl
 https://ciz.databank.nl
 https://www.klimaat-monitor.databank.nl

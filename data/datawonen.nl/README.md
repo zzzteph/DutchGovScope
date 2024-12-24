@@ -6,13 +6,13 @@
 
  - **SSL Grade**:
  - **HTTP Security Grade**:A
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:14
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:13
 
 
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/datawonen.nl/subdomains.txt)|14|Alive subdomains|
-|[urls.txt](/data/datawonen.nl/urls.txt)|14|Urls|
+|[urls.txt](/data/datawonen.nl/urls.txt)|13|Urls|
 
 
 ## Statistics
@@ -33,6 +33,5 @@
 |[https://www.datawonen.nl](https://www.datawonen.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET|Document Moved|
 |[https://dfg.datawonen.nl](https://dfg.datawonen.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Amazon S3 Amazon Web Services Azure Edge Network HSTS Microsoft ASP.NET MyFonts|Findo - Data Fin...|
 |[https://mn.datawonen.nl](https://mn.datawonen.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | | :white_check_mark: | :white_check_mark: | |Amazon S3 Amazon Web Services Azure Edge Network HSTS Microsoft ASP.NET MyFonts|Monitor Woningbo...|
-|[https://pwik.datawonen.nl](https://pwik.datawonen.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | | :white_check_mark: | :white_check_mark: | |Amazon S3 Amazon Web Services Azure Edge Network HSTS Microsoft ASP.NET MyFonts|Prestaties Wonin...|
 
 

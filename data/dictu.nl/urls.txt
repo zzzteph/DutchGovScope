@@ -64,3 +64,5 @@ https://tvs.dictu.nl
 http://rijkspasocsp2-acc.dictu.nl
 https://test2.dictu.nl
 https://acc2.dictu.nl
+https://jira.dictu.nl
+https://jira-acc.dictu.nl

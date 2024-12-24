@@ -83,3 +83,4 @@ https://webcast.brabant.nl
 https://enterpriseenrollment.brabant.nl
 https://acs.brabant.nl
 https://acs-acpt.brabant.nl
+https://open.brabant.nl

@@ -11,7 +11,7 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/competentnl.nl/subdomains.txt)|11|Alive subdomains|
+|[subdomains.txt](/data/competentnl.nl/subdomains.txt)|9|Alive subdomains|
 |[urls.txt](/data/competentnl.nl/urls.txt)|9|Urls|
 
 

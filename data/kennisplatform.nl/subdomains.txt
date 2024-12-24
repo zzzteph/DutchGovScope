@@ -1,5 +1,2 @@
 kennisplatform.nl
 www.kennisplatform.nl
-autodiscover.kennisplatform.nl
-localhost.kennisplatform.nl
-msoid.kennisplatform.nl

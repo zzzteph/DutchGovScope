@@ -6,13 +6,13 @@
 
  - **SSL Grade**:
  - **HTTP Security Grade**:D
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:4
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:5
 
 
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/bics.nl/subdomains.txt)|14|Alive subdomains|
-|[urls.txt](/data/bics.nl/urls.txt)|12|Urls|
+|[urls.txt](/data/bics.nl/urls.txt)|14|Urls|
 
 
 ## Statistics
@@ -32,5 +32,7 @@
 |[https://bicsaccweb1.bics.nl](https://bicsaccweb1.bics.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
 |[https://bicsweb1.bics.nl](https://bicsweb1.bics.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
 |[https://bicsweb3.bics.nl](https://bicsweb3.bics.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS||
+|[https://acc.bics.nl](https://acc.bics.nl)| | **C**|Apache| |:white_check_mark: | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|403 Forbidden|
+|[https://acc-hs.bics.nl](https://acc-hs.bics.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|403 Forbidden|
 
 
