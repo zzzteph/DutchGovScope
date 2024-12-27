@@ -5,5 +5,7 @@ pitng.acceptatie.owinsp.nl
 isd.owinsp.nl
 pitng.ontwikkel.owinsp.nl
 pitng.owinsp.nl
+owinsp.nl
+www.owinsp.nl
 pitng.test.owinsp.nl
 bounce.owinsp.nl

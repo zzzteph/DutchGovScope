@@ -7,5 +7,6 @@ autodiscover.veiligheidsregioflevoland.nl
 enterpriseenrollment.veiligheidsregioflevoland.nl
 enterpriseregistration.veiligheidsregioflevoland.nl
 dept.veiligheidsregioflevoland.nl
-audiobooks.veiligheidsregioflevoland.nl
+websoft.veiligheidsregioflevoland.nl
+tribune.veiligheidsregioflevoland.nl
 msoid.veiligheidsregioflevoland.nl

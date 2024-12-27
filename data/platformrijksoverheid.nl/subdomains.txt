@@ -13,3 +13,4 @@ survey-cache.platformrijksoverheid.nl
 survey-deploy.platformrijksoverheid.nl
 survey-metrics.platformrijksoverheid.nl
 survey.platformrijksoverheid.nl
+survey-debug.platformrijksoverheid.nl

@@ -8,3 +8,4 @@ www.minbzk.nl
 prisma.minbzk.nl
 wikixl-saml.minbzk.nl
 rbl-talent.minbzk.nl
+gip.minbzk.nl

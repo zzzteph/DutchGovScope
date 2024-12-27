@@ -538,3 +538,6 @@ https://promise.nioo.knaw.nl
 https://intranet.nioo.knaw.nl
 https://www.climatepursuit.nioo.knaw.nl
 https://type.labs.dans.knaw.nl
+http://goetgevonden.huygens.knaw.nl
+https://backoffice.knaw.nl
+https://www.back2roots.nioo.knaw.nl

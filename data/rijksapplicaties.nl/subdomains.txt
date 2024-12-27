@@ -267,3 +267,4 @@ sth.rijksapplicaties.nl
 bda.rijksapplicaties.nl
 dsa.staging.rijksapplicaties.nl
 stap.rijksapplicaties.nl
+wpo-webservice.rijksapplicaties.nl

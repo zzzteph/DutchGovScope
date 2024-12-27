@@ -1,3 +1,4 @@
+https://adfs.vallei-veluwe.nl
 http://autodiscover.vallei-veluwe.nl
 https://redactie.vallei-veluwe.nl
 https://vallei-veluwe.nl
@@ -8,6 +9,7 @@ https://neurontest.vallei-veluwe.nl
 https://tmx.vallei-veluwe.nl
 https://werkplek.vallei-veluwe.nl
 https://enterpriseenrollment.vallei-veluwe.nl
+https://geotest.vallei-veluwe.nl
 https://protect.vallei-veluwe.nl
 https://vdi.vallei-veluwe.nl
 https://enterpriseregistration.vallei-veluwe.nl

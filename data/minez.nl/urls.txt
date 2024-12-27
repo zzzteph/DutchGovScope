@@ -5,7 +5,6 @@ https://authpmt.minez.nl
 https://demo-portal.minez.nl
 https://eidas.minez.nl
 https://eidasmw-acc.minez.nl
-https://eidasmw-tst.minez.nl
 https://eidasmw.minez.nl
 https://ibabs.minez.nl
 https://pmt.minez.nl

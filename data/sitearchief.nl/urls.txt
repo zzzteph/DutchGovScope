@@ -21,6 +21,7 @@ https://nza.sitearchief.nl
 https://archief27.sitearchief.nl
 https://minvws.sitearchief.nl
 https://archief28.sitearchief.nl
+https://minfin.sitearchief.nl
 https://minjenv.sitearchief.nl
 https://minlnv.sitearchief.nl
 https://rijksoverheid.sitearchief.nl
@@ -43,6 +44,7 @@ https://dictu.sitearchief.nl
 https://nvwa.sitearchief.nl
 https://archief36.sitearchief.nl
 https://archief37.sitearchief.nl
+https://archief38.sitearchief.nl
 https://archief39.sitearchief.nl
 https://archief40.sitearchief.nl
 https://ilent.sitearchief.nl

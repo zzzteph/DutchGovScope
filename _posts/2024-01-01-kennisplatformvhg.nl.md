@@ -2,11 +2,11 @@
 layout: default
 title: "kennisplatformvhg.nl"
 permalink: "/dutchgov/kennisplatformvhg.nl.html"
-subdomains_count: 2
-urls_count: 2
+subdomains_count: 0
+urls_count: 0
 ssl_rank: 
-http_rank: C
-security_txt: 1
+http_rank: F
+security_txt: 0
 url_link: /data/kennisplatformvhg.nl/urls.txt
 subdomains_link: /data/kennisplatformvhg.nl/subdomains.txt
 categories: dutchgov
@@ -19,14 +19,14 @@ tags: dutchgov
 
 
  - **SSL Grade**:
- - **HTTP Security Grade**:C
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:1
+ - **HTTP Security Grade**:F
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:0
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/kennisplatformvhg.nl/subdomains.txt)|2|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/kennisplatformvhg.nl/urls.txt)|2|Urls|
+|[subdomains.txt](/DutchGovScope/data/kennisplatformvhg.nl/subdomains.txt)|0|Alive subdomains|
+|[urls.txt](/DutchGovScope/data/kennisplatformvhg.nl/urls.txt)|0|Urls|
 
 
 ## Statistics
@@ -34,7 +34,5 @@ tags: dutchgov
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://kennisplatformvhg.nl](https://kennisplatformvhg.nl)| | **A**|Apache| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server Drupal HSTS PHP:8.1.31|Akkoord verbeter...|
-|[http://www.kennisplatformvhg.nl](http://www.kennisplatformvhg.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 
 

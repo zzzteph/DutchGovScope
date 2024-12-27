@@ -11,8 +11,8 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/mett.nl/subdomains.txt)|208|Alive subdomains|
-|[urls.txt](/data/mett.nl/urls.txt)|196|Urls|
+|[subdomains.txt](/data/mett.nl/subdomains.txt)|213|Alive subdomains|
+|[urls.txt](/data/mett.nl/urls.txt)|205|Urls|
 
 
 ## Statistics
@@ -103,7 +103,7 @@
 |[https://participatieuithoorn.mett.nl](https://participatieuithoorn.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Object moved|
 |[https://energiekmaasgouw.mett.nl](https://energiekmaasgouw.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Object moved|
 |[https://circularfestivals.mett.nl](https://circularfestivals.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Object moved|
-|[http://rps.mett.nl](http://rps.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET||
+|[https://rps.mett.nl](https://rps.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Object moved|
 |[https://resmiddenholland.mett.nl](https://resmiddenholland.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Object moved|
 |[https://stadswerk.mett.nl](https://stadswerk.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Object moved|
 |[https://markermeerijmeer.mett.nl](https://markermeerijmeer.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Object moved|
@@ -185,6 +185,7 @@
 |[https://joske.mett.nl](https://joske.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Object moved|
 |[https://fagoed.mett.nl](https://fagoed.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Object moved|
 |[https://test-login.mett.nl](https://test-login.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS|Object moved|
+|[http://krinkelsinbeheerenonderhoud.mett.nl](http://krinkelsinbeheerenonderhoud.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://samen14.mett.nl](https://samen14.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Object moved|
 |[https://demointranet.mett.nl](https://demointranet.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS|Object moved|
 |[https://erfgoedalliantie.mett.nl](https://erfgoedalliantie.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Object moved|
@@ -216,5 +217,13 @@
 |[https://energiehout.mett.nl](https://energiehout.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Object moved|
 |[https://innova58.mett.nl](https://innova58.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Object moved|
 |[https://landbouwenvoedselbrabant.mett.nl](https://landbouwenvoedselbrabant.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Object moved|
+|[https://verkeersveiligheidscampagnes.mett.nl](https://verkeersveiligheidscampagnes.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Object moved|
+|[https://hoekschewaard.mett.nl](https://hoekschewaard.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Object moved|
+|[https://mgrsdcg.mett.nl](https://mgrsdcg.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Object moved|
+|[https://mta-sts.mett.nl](https://mta-sts.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft ASP.NET|Mett|
+|[https://renelivetest.mett.nl](https://renelivetest.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft ASP.NET|Object moved|
+|[http://m4mpa.mett.nl](http://m4mpa.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
+|[https://m4spa.azure.mett.nl](https://m4spa.azure.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Microsoft Azure...|
+|[http://rad-test.mett.nl](http://rad-test.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 
 

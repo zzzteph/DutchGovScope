@@ -2,11 +2,11 @@
 layout: default
 title: "loketgezondleven.nl"
 permalink: "/dutchgov/loketgezondleven.nl.html"
-subdomains_count: 8
-urls_count: 8
+subdomains_count: 7
+urls_count: 7
 ssl_rank: 
 http_rank: D
-security_txt: 2
+security_txt: 1
 url_link: /data/loketgezondleven.nl/urls.txt
 subdomains_link: /data/loketgezondleven.nl/subdomains.txt
 categories: dutchgov
@@ -20,13 +20,13 @@ tags: dutchgov
 
  - **SSL Grade**:
  - **HTTP Security Grade**:D
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:2
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:1
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/loketgezondleven.nl/subdomains.txt)|8|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/loketgezondleven.nl/urls.txt)|8|Urls|
+|[subdomains.txt](/DutchGovScope/data/loketgezondleven.nl/subdomains.txt)|7|Alive subdomains|
+|[urls.txt](/DutchGovScope/data/loketgezondleven.nl/urls.txt)|7|Urls|
 
 
 ## Statistics
@@ -36,7 +36,6 @@ tags: dutchgov
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[https://www.loketgezondleven.nl](https://www.loketgezondleven.nl)| | **A**|Apache| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server Drupal HSTS PHP|Loket Gezond Lev...|
 |[http://interventies.loketgezondleven.nl](http://interventies.loketgezondleven.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server:2.4.34 Drupal HSTS PHP:7.3.33 Red Hat||
-|[https://loketgezondleven.nl](https://loketgezondleven.nl)| | **A**|Apache| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS|301 Moved Perman...|
 |[https://toolkits.loketgezondleven.nl](https://toolkits.loketgezondleven.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS Varnish||
 |[http://acceptatie.loketgezondleven.nl](http://acceptatie.loketgezondleven.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://prerelease.loketgezondleven.nl](https://prerelease.loketgezondleven.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|webserver|

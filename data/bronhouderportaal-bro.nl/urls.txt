@@ -1,5 +1,4 @@
 https://acc.bronhouderportaal-bro.nl
-https://doc-acc.bronhouderportaal-bro.nl
 https://sso-acc-tno.bronhouderportaal-bro.nl
 https://sso-acc2.bronhouderportaal-bro.nl
 https://broker-preprod.bronhouderportaal-bro.nl

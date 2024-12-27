@@ -88,7 +88,6 @@ preprod.beterbediend.rws.nl
 protide.rws.nl
 prs.rws.nl
 ptp.inloggen.rws.nl
-rastoken.rws.nl
 rhel8.wabinfo.rws.nl
 wabinfo.rws.nl
 rws.nl
@@ -99,6 +98,7 @@ samenwerken.rws.nl
 samp.rws.nl
 sig.fam.rws.nl
 sluisplanning.rws.nl
+spin2.rws.nl
 svk-info.rws.nl
 svk-login.rws.nl
 svs.rws.nl

@@ -21,6 +21,7 @@ nza.sitearchief.nl
 archief27.sitearchief.nl
 minvws.sitearchief.nl
 archief28.sitearchief.nl
+minfin.sitearchief.nl
 minjenv.sitearchief.nl
 minlnv.sitearchief.nl
 rijksoverheid.sitearchief.nl
@@ -43,6 +44,7 @@ dictu.sitearchief.nl
 nvwa.sitearchief.nl
 archief36.sitearchief.nl
 archief37.sitearchief.nl
+archief38.sitearchief.nl
 archief39.sitearchief.nl
 archief40.sitearchief.nl
 ilent.sitearchief.nl

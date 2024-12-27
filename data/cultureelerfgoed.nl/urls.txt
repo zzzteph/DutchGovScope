@@ -36,6 +36,10 @@ https://kennis.cultureelerfgoed.nl
 https://test.kennis-staging.cultureelerfgoed.nl
 https://test.kennis.cultureelerfgoed.nl
 https://wikixl-saml.cultureelerfgoed.nl
+https://lil.cultureelerfgoed.nl
+https://noaa.cultureelerfgoed.nl
+https://pom.cultureelerfgoed.nl
+https://thesaurus.cultureelerfgoed.nl
 https://mass.cultureelerfgoed.nl
 https://monumentenregister.cultureelerfgoed.nl
 https://www.monumentenregister.cultureelerfgoed.nl
@@ -48,7 +52,6 @@ https://subsidie.cultureelerfgoed.nl
 https://test.geoservices.cultureelerfgoed.nl
 https://test.monumentenregister.cultureelerfgoed.nl
 https://www.test.monumentenregister.cultureelerfgoed.nl
-https://tst.subsidie.cultureelerfgoed.nl
 https://veilig.cultureelerfgoed.nl
 https://www.veilig.cultureelerfgoed.nl
 https://wikixl-saml.test.cultureelerfgoed.nl

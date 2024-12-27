@@ -11,8 +11,8 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/minez.nl/subdomains.txt)|15|Alive subdomains|
-|[urls.txt](/data/minez.nl/urls.txt)|15|Urls|
+|[subdomains.txt](/data/minez.nl/subdomains.txt)|14|Alive subdomains|
+|[urls.txt](/data/minez.nl/urls.txt)|14|Urls|
 
 
 ## Statistics
@@ -27,7 +27,6 @@
 |[https://demo-portal.minez.nl](https://demo-portal.minez.nl)| | **A**||:o: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://eidas.minez.nl](https://eidas.minez.nl)| | **A**||:o: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://eidasmw-acc.minez.nl](https://eidasmw-acc.minez.nl)| | **A**||:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
-|[https://eidasmw-tst.minez.nl](https://eidasmw-tst.minez.nl)| | **A**||:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Index.html|
 |[https://eidasmw.minez.nl](https://eidasmw.minez.nl)| | **A**||:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://ibabs.minez.nl](https://ibabs.minez.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET||
 |[https://pmt.minez.nl](https://pmt.minez.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET||

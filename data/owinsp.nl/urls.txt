@@ -5,5 +5,7 @@ https://pitng.acceptatie.owinsp.nl
 https://isd.owinsp.nl
 https://pitng.ontwikkel.owinsp.nl
 https://pitng.owinsp.nl
+https://owinsp.nl
+https://www.owinsp.nl
 https://pitng.test.owinsp.nl
 https://bounce.owinsp.nl

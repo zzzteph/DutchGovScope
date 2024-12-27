@@ -10,6 +10,8 @@ https://automation-node.datalab-prod.aws.noord-holland.nl
 https://datalab.noord-holland.nl
 https://bestanden.noord-holland.nl
 http://cijfers.noord-holland.nl
+http://dataiku.noord-holland.nl
+http://design-node.datalab-prod.aws.noord-holland.nl
 https://eidbroker-pre.noord-holland.nl
 https://eidbroker.noord-holland.nl
 http://ep.noord-holland.nl
@@ -35,7 +37,6 @@ https://noord-holland.nl
 https://statensite.noord-holland.nl
 https://www.noord-holland.nl
 https://plein.noord-holland.nl
-https://pleinoud.noord-holland.nl
 https://portal-b.noord-holland.nl
 https://rdgw.noord-holland.nl
 https://sva-a8a9.noord-holland.nl

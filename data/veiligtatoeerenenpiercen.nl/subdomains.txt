@@ -1,2 +1,2 @@
-veiligtatoeerenenpiercen.nl
 www.veiligtatoeerenenpiercen.nl
+localhost.veiligtatoeerenenpiercen.nl

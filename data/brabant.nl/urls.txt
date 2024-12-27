@@ -13,6 +13,7 @@ https://english.brabant.nl
 https://www.brabant.nl
 https://brains-acc.brabant.nl
 https://brains.brabant.nl
+http://bzv-a.brabant.nl
 https://bzv.brabant.nl
 https://ondertekenen.brabant.nl
 https://ondertekenentst.brabant.nl
@@ -40,7 +41,6 @@ https://publicaties.brabant.nl
 https://signing.pre.brabant.nl
 https://startformulier.brabant.nl
 https://startformuliertest.brabant.nl
-http://voi.brabant.nl
 https://vpn.brabant.nl
 https://webmail.brabant.nl
 https://xential-acpt.brabant.nl

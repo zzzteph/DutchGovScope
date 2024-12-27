@@ -5,7 +5,6 @@ authpmt.minez.nl
 demo-portal.minez.nl
 eidas.minez.nl
 eidasmw-acc.minez.nl
-eidasmw-tst.minez.nl
 eidasmw.minez.nl
 ibabs.minez.nl
 pmt.minez.nl

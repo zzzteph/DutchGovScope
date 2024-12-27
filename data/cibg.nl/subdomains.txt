@@ -5,6 +5,7 @@ acceptatie.beheer.lrza.cibg.nl
 acceptatie.bestandsportaal.cibg.nl
 acceptatie.designsystem.cibg.nl
 acceptatie.digikoppeling.cibg.nl
+acceptatie.lir.cibg.nl
 acceptatie.meldingen.klopt.cibg.nl
 acceptatie.portaal.competent.cibg.nl
 acceptatie.portaal.digilevering.cibg.nl

@@ -5,7 +5,7 @@
 
 
  - **SSL Grade**:
- - **HTTP Security Grade**:C
+ - **HTTP Security Grade**:B
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:6
 
 
@@ -36,7 +36,7 @@
 |[https://dusk-open-wave.odijmond.nl](https://dusk-open-wave.odijmond.nl)| | **B**|Apache| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS|403 Forbidden|
 |[https://dusk-acc-open-wave.odijmond.nl](https://dusk-acc-open-wave.odijmond.nl)| | **B**|Apache| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS|403 Forbidden|
 |[https://db.open-wave.odijmond.nl](https://db.open-wave.odijmond.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|403 Forbidden|
-|[https://jointest.odijmond.nl](https://jointest.odijmond.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
+|[https://jointest.odijmond.nl](https://jointest.odijmond.nl)| | **A**||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Amazon S3 Amazon Web Services HSTS|Object moved|
 |[https://admin-join.odijmond.nl](https://admin-join.odijmond.nl)| | **A**||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Object moved|
 |[https://admin-jointest.odijmond.nl](https://admin-jointest.odijmond.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 

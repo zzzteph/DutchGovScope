@@ -35,9 +35,7 @@ erfgoedexpertteam.provincie-utrecht.nl
 nnn-wijzer.provincie-utrecht.nl
 omgevingswet.provincie-utrecht.nl
 publicaties.provincie-utrecht.nl
-regiotramutrecht.provincie-utrecht.nl
 esb-preprod.provincie-utrecht.nl
-esb.provincie-utrecht.nl
 formulieren.provincie-utrecht.nl
 geo-pointtest.provincie-utrecht.nl
 monitorwonen.provincie-utrecht.nl
@@ -55,6 +53,7 @@ octopus-acc-docs.provincie-utrecht.nl
 octopus-acc.provincie-utrecht.nl
 ruimtelijkeplanneninterntest.provincie-utrecht.nl
 ruimtelijkeplannentest.provincie-utrecht.nl
+planoview.provincie-utrecht.nl
 ruimtelijkeplannen.provincie-utrecht.nl
 ruimtelijkeplannenintern.provincie-utrecht.nl
 sap-crm.provincie-utrecht.nl
@@ -80,6 +79,7 @@ login.provincie-utrecht.nl
 wortel174.provincie-utrecht.nl
 socialintranet-acc.provincie-utrecht.nl
 socialintranet.provincie-utrecht.nl
+monitoromgevingsbeleid.provincie-utrecht.nl
 omgevingsbeleid.provincie-utrecht.nl
 iapp.provincie-utrecht.nl
 rmb.provincie-utrecht.nl
@@ -90,6 +90,5 @@ autodiscover.provincie-utrecht.nl
 burgemeesters.provincie-utrecht.nl
 ris.provincie-utrecht.nl
 zsd.provincie-utrecht.nl
-sap-s4h-p.provincie-utrecht.nl
 atlas-ontw.provincie-utrecht.nl
 wzb-t.provincie-utrecht.nl

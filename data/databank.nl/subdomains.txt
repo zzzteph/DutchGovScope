@@ -42,6 +42,8 @@ demo-ebc.databank.nl
 ftgelderland.databank.nl
 beta-klimaatbeleid.databank.nl
 beta-vivet.databank.nl
+beta-datawonen.databank.nl
+beta-klimaatmonitor.databank.nl
 beta-gdi.databank.nl
 beta-wsjg.databank.nl
 cname-holland-rijnland.databank.nl
@@ -149,3 +151,4 @@ www.inspectie-oe.databank.nl
 www.procaros.databank.nl
 beta.cbc.databank.nl
 waves.databank.nl
+www.arbeidsmarkthoreca.databank.nl

@@ -224,6 +224,7 @@ wetgevingskalender-acc.overheid.nl
 pdc.acc.omgevingswet.overheid.nl
 pdc.omgevingswet.overheid.nl
 plan-plan-validatie.pre.omgevingswet.overheid.nl
+pp1.toegang.overheid.nl
 puc-acc.overheid.nl
 puc-redactie-acc.overheid.nl
 puc-redactie.overheid.nl
@@ -253,7 +254,6 @@ stelselcatalogus.kta.omgevingswet.overheid.nl
 stelselcatalogus.omgevingswet.overheid.nl
 stelselcatalogus.pfm.omgevingswet.overheid.nl
 stelselcatalogus.pre.omgevingswet.overheid.nl
-stijlgids.overheid.nl
 sts.koop.overheid.nl
 toepasbare-regels.pre.omgevingswet.overheid.nl
 vpn.koop.overheid.nl
@@ -294,6 +294,7 @@ mnd-preprd.overheid.nl
 oproepingen-api-preprd-poc.overheid.nl
 demo1-systemteam.overheid.nl
 digid-stub.lpc.mijn.overheid.nl
+ondersteuning.omgevingswet.overheid.nl
 pdc.pre.omgevingswet.overheid.nl
 pp2.toegang.overheid.nl
 resolver.int.omgevingswet.overheid.nl
@@ -308,3 +309,4 @@ autodiscover.overheid.nl
 ref.omgevingswet.overheid.nl
 repository-preprod.overheid.nl
 lvbb-lto.overheid.nl
+developer.omgevingswet.overheid.nl

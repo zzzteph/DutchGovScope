@@ -6,13 +6,13 @@
 
  - **SSL Grade**:
  - **HTTP Security Grade**:A
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:11
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:10
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/toeslagen.nl/subdomains.txt)|13|Alive subdomains|
-|[urls.txt](/data/toeslagen.nl/urls.txt)|13|Urls|
+|[subdomains.txt](/data/toeslagen.nl/subdomains.txt)|12|Alive subdomains|
+|[urls.txt](/data/toeslagen.nl/urls.txt)|12|Urls|
 
 
 ## Statistics
@@ -29,7 +29,6 @@
 |[https://www.toeslagen.nl](https://www.toeslagen.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|301 Moved Perman...|
 |[https://toestemming.toeslagen.nl](https://toestemming.toeslagen.nl)| | **A**||:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Er is een fout o...|
 |[https://werken.toeslagen.nl](https://werken.toeslagen.nl)| | **A**|Ponos Maximum| |:white_check_mark: | :warning:| |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
-|[https://schadeherstel.acc.toeslagen.nl](https://schadeherstel.acc.toeslagen.nl)| | **A**||:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://gtmt.toeslagen.nl](https://gtmt.toeslagen.nl)| | **C**|| | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | ||Online diensten...|
 |[https://schadeherstel.toeslagen.nl](https://schadeherstel.toeslagen.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Aanmeldportaal -...|
 |[https://werkenbij.toeslagen.nl](https://werkenbij.toeslagen.nl)| | **A**|Ponos Maximum| |:white_check_mark: | :warning:| |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||

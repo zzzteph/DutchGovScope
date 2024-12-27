@@ -6,13 +6,13 @@
 
  - **SSL Grade**:
  - **HTTP Security Grade**:B
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:70
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:71
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/irealisatie.nl/subdomains.txt)|92|Alive subdomains|
-|[urls.txt](/data/irealisatie.nl/urls.txt)|91|Urls|
+|[subdomains.txt](/data/irealisatie.nl/subdomains.txt)|94|Alive subdomains|
+|[urls.txt](/data/irealisatie.nl/urls.txt)|92|Urls|
 
 
 ## Statistics
@@ -111,5 +111,6 @@
 |[http://test.dusi.irealisatie.nl](http://test.dusi.irealisatie.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[http://datasync.irealisatie.nl](http://datasync.irealisatie.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://vad.test.mgo.irealisatie.nl](https://vad.test.mgo.irealisatie.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS||
+|[https://acme2.proeftuin.uzi-online.irealisatie.nl](https://acme2.proeftuin.uzi-online.irealisatie.nl)| | **A**|Apache| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS||
 
 

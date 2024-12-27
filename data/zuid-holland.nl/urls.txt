@@ -46,6 +46,7 @@ https://monitorleefomgeving.zuid-holland.nl
 https://nieuwsbrief.zuid-holland.nl
 https://omgevingsbeleid.zuid-holland.nl
 https://omgevingsdocumenten.zuid-holland.nl
+https://opendata.zuid-holland.nl
 https://planmer.zuid-holland.nl
 https://ro.zuid-holland.nl
 https://ruimtelijkeplannen.zuid-holland.nl

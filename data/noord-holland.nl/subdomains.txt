@@ -10,6 +10,8 @@ automation-node.datalab-prod.aws.noord-holland.nl
 datalab.noord-holland.nl
 bestanden.noord-holland.nl
 cijfers.noord-holland.nl
+dataiku.noord-holland.nl
+design-node.datalab-prod.aws.noord-holland.nl
 eidbroker-pre.noord-holland.nl
 eidbroker.noord-holland.nl
 ep.noord-holland.nl
@@ -35,7 +37,6 @@ noord-holland.nl
 statensite.noord-holland.nl
 www.noord-holland.nl
 plein.noord-holland.nl
-pleinoud.noord-holland.nl
 portal-b.noord-holland.nl
 rdgw.noord-holland.nl
 sva-a8a9.noord-holland.nl

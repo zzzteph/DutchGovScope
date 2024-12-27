@@ -11,7 +11,7 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/rijksapplicaties.nl/subdomains.txt)|269|Alive subdomains|
+|[subdomains.txt](/data/rijksapplicaties.nl/subdomains.txt)|270|Alive subdomains|
 |[urls.txt](/data/rijksapplicaties.nl/urls.txt)|269|Urls|
 
 

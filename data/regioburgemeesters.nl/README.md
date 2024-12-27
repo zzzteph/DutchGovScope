@@ -11,8 +11,8 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/regioburgemeesters.nl/subdomains.txt)|6|Alive subdomains|
-|[urls.txt](/data/regioburgemeesters.nl/urls.txt)|6|Urls|
+|[subdomains.txt](/data/regioburgemeesters.nl/subdomains.txt)|7|Alive subdomains|
+|[urls.txt](/data/regioburgemeesters.nl/urls.txt)|7|Urls|
 
 
 ## Statistics
@@ -21,6 +21,7 @@
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[https://lyncdiscover.regioburgemeesters.nl](https://lyncdiscover.regioburgemeesters.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
+|[https://meet.regioburgemeesters.nl](https://meet.regioburgemeesters.nl)| | **F**|Microsoft-IIS/10.0| | | | | | | | :white_check_mark: | |HSTS IIS:10.0 Windows Server||
 |[https://regioburgemeesters.nl](https://regioburgemeesters.nl)| | **D**|nginx|:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | |Bootstrap HSTS Nginx PHP:8.3.14|Home - Regioburg...|
 |[https://www.regioburgemeesters.nl](https://www.regioburgemeesters.nl)| | **D**|nginx|:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | |Bootstrap HSTS Nginx PHP:8.3.14|Home - Regioburg...|
 |[https://sip.regioburgemeesters.nl](https://sip.regioburgemeesters.nl)| | **C**|RTC/6.0| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||

@@ -68,6 +68,7 @@ opendata.test.tweedekamer.nl
 werkenbij.acceptatie.tweedekamer.nl
 livestream-backup.tweedekamer.nl
 livestream-media-backup.tweedekamer.nl
+livestream-thumb.tweedekamer.nl
 livestreaming-thumb.b67.tweedekamer.nl
 livestream.tweedekamer.nl
 livestreaming-thumb.b67bu.tweedekamer.nl

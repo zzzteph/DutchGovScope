@@ -1,3 +1,2 @@
-tst-rds.nl
 www.tst-rds.nl
 admin.tst-rds.nl
