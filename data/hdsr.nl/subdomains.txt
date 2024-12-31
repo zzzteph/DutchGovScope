@@ -5,9 +5,12 @@ testbegrippen.hdsr.nl
 testkennis.hdsr.nl
 cawfirewall.hdsr.nl
 cawuitwijkfirewall.hdsr.nl
+uconnect-acc.hdsr.nl
 uconnect.hdsr.nl
 webdiensten.hdsr.nl
 webservices.hdsr.nl
+geoservices.hdsr.nl
+kaarten.hdsr.nl
 hdsr.nl
 intranet.ad.hdsr.nl
 redactie.hdsr.nl

@@ -31,7 +31,7 @@
 |[https://dp2021.deltaprogramma.nl](https://dp2021.deltaprogramma.nl)| | **F**|Apache/2| | | | | | | | :white_check_mark: | |Apache HTTP Server:2|Deltaprogramma 2...|
 |[https://dp2022.deltaprogramma.nl](https://dp2022.deltaprogramma.nl)| | **A**|Microsoft-IIS/10.0|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS IIS:10.0 Windows Server|Document Moved|
 |[https://dp2023.deltaprogramma.nl](https://dp2023.deltaprogramma.nl)| | **A**|Microsoft-IIS/10.0|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS IIS:10.0 Windows Server|Document Moved|
-|[https://dp2024.deltaprogramma.nl](https://dp2024.deltaprogramma.nl)| | **F**|Apache/2.4.58 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.58 Ubuntu||
+|[https://dp2024.deltaprogramma.nl](https://dp2024.deltaprogramma.nl)| | **F**|Microsoft-IIS/10.0| | | | | | | | :white_check_mark: | |HSTS IIS:10.0 Windows Server|Document Moved|
 |[https://dp2025.deltaprogramma.nl](https://dp2025.deltaprogramma.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx Node.js Nuxt.js Vue.js|Deltaprogramma 2...|
 
 

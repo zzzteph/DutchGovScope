@@ -27,7 +27,7 @@
 |[https://www.farmatec.nl](https://www.farmatec.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Home | Farmatec|
 |[https://english.farmatec.nl](https://english.farmatec.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Home | Farmatec|
 |[https://feeds.english.farmatec.nl](https://feeds.english.farmatec.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
-|[https://hulpmiddelen.farmatec.nl](https://hulpmiddelen.farmatec.nl)| | **A**|-| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
+|[https://hulpmiddelen.farmatec.nl](https://hulpmiddelen.farmatec.nl)| | **A**|-| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Hulpmiddelen|
 |[https://farmatec.nl](https://farmatec.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
 
 

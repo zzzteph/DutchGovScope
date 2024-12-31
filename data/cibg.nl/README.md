@@ -5,8 +5,8 @@
 
 
  - **SSL Grade**:
- - **HTTP Security Grade**:C
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:29
+ - **HTTP Security Grade**:B
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:28
 
 
 | File       | Count | Info |
@@ -62,7 +62,6 @@
 |[http://publicwebservices.cibg.nl](http://publicwebservices.cibg.nl)| | **F**|BigIP| | | | | | | | :white_check_mark: | |F5 BigIP||
 |[http://stijlgids.cibg.nl](http://stijlgids.cibg.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[http://test.digikoppeling.cibg.nl](http://test.digikoppeling.cibg.nl)| | **D**|-| | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
-|[https://test.publicwebservices.cibg.nl](https://test.publicwebservices.cibg.nl)| | **A**|-| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://tmv.cibg.nl](https://tmv.cibg.nl)| | **A**|-| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://uzipas.lir.cibg.nl](https://uzipas.lir.cibg.nl)| | **A**|-| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Landelijk Implan...|
 |[http://webservices.lrza.cibg.nl](http://webservices.lrza.cibg.nl)| | **F**|BigIP| | | | | | | | :white_check_mark: | |F5 BigIP||
@@ -73,7 +72,8 @@
 |[https://beheer.generiekeregistratiedienst.cibg.nl](https://beheer.generiekeregistratiedienst.cibg.nl)| | **A**|-| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://designsystem.cibg.nl](https://designsystem.cibg.nl)| | **A**|-| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|CIBG Design syst...|
 |[http://digikoppeling.cibg.nl](http://digikoppeling.cibg.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||
-|[http://digikoppeling2.cibg.nl](http://digikoppeling2.cibg.nl)| | **F**|BigIP| | | | | | | | :white_check_mark: | |F5 BigIP||
+|[https://digikoppeling2.cibg.nl](https://digikoppeling2.cibg.nl)| | **F**|-| | | | | | | | :white_check_mark: | |HSTS||
 |[http://styleguide.cibg.nl](http://styleguide.cibg.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
+|[https://acceptatie.applicationframework.cibg.nl](https://acceptatie.applicationframework.cibg.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 
 

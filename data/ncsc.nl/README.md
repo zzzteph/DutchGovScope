@@ -32,7 +32,7 @@
 |[https://api.mijn.test.ncsc.nl](https://api.mijn.test.ncsc.nl)| | **A**|none| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://api.ncsc.nl](https://api.ncsc.nl)| | **D**|none|:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
 |[https://advisories.ncsc.nl](https://advisories.ncsc.nl)| | **D**|none| |:white_check_mark: | :warning:| | | | | :white_check_mark: | |HSTS|NCSC Advisories|
-|[https://chat.ncsc.nl](https://chat.ncsc.nl)| | **A**|none| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS|Mattermost|
+|[https://chat.ncsc.nl](https://chat.ncsc.nl)| | **A**|none| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS||
 |[https://gl.ncsc.nl](https://gl.ncsc.nl)| | **A**|none|:warning: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://gl1.ncsc.nl](https://gl1.ncsc.nl)| | **F**|none| | | | | | | | :white_check_mark: | ||Home | Nationaal...|
 |[https://www.ncsc.nl](https://www.ncsc.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Home | Nationaal...|

@@ -6,7 +6,7 @@ subdomains_count: 115
 urls_count: 115
 ssl_rank: 
 http_rank: C
-security_txt: 56
+security_txt: 55
 url_link: /data/belastingdienst.nl/urls.txt
 subdomains_link: /data/belastingdienst.nl/subdomains.txt
 categories: dutchgov
@@ -20,7 +20,7 @@ tags: dutchgov
 
  - **SSL Grade**:
  - **HTTP Security Grade**:C
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:56
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:55
 
 
 | File       | Count | Info |
@@ -63,7 +63,7 @@ tags: dutchgov
 |[https://efm.belastingdienst.nl](https://efm.belastingdienst.nl)| | **C**|| | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | ||Toegang geblokke...|
 |[https://enterpriseenrollment.belastingdienst.nl](https://enterpriseenrollment.belastingdienst.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||
 |[https://enterpriseregistration.belastingdienst.nl](https://enterpriseregistration.belastingdienst.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
-|[https://eubtw.belastingdienst.nl](https://eubtw.belastingdienst.nl)| | **B**||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS|Online diensten...|
+|[https://eubtw.belastingdienst.nl](https://eubtw.belastingdienst.nl)| | **A**||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Online diensten...|
 |[https://f2b.belastingdienst.nl](https://f2b.belastingdienst.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Not Found|
 |[https://fibb1.belastingdienst.nl](https://fibb1.belastingdienst.nl)| | **C**|| | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | ||Request Rejected|
 |[https://fibe1.belastingdienst.nl](https://fibe1.belastingdienst.nl)| | **C**|| | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | ||Request Rejected|
@@ -76,7 +76,7 @@ tags: dutchgov
 |[https://fsvportaal.belastingdienst.nl](https://fsvportaal.belastingdienst.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Home - FSV|
 |[https://gpi.belastingdienst.nl](https://gpi.belastingdienst.nl)| | **C**|istio-envoy| |:white_check_mark: | | | | | | :white_check_mark: | |Envoy HSTS|BDP|
 |[https://ovverklaringen.belastingdienst.nl](https://ovverklaringen.belastingdienst.nl)| | **C**|istio-envoy| |:white_check_mark: | | | | | | :white_check_mark: | |Envoy HSTS|BDP|
-|[https://verleendekinderopvang.belastingdienst.nl](https://verleendekinderopvang.belastingdienst.nl)| | **A**|istio-envoy|:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Envoy HSTS|BDP|
+|[https://verleendekinderopvang.belastingdienst.nl](https://verleendekinderopvang.belastingdienst.nl)| | **C**|istio-envoy| |:white_check_mark: | | | | | | :white_check_mark: | |Envoy HSTS|BDP|
 |[https://verzekeringsproducten.belastingdienst.nl](https://verzekeringsproducten.belastingdienst.nl)| | **A**|istio-envoy|:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Envoy HSTS|BDP|
 |[https://wagenparkgegevens.belastingdienst.nl](https://wagenparkgegevens.belastingdienst.nl)| | **A**|istio-envoy|:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Envoy HSTS|BDP|
 |[https://gdlo.belastingdienst.nl](https://gdlo.belastingdienst.nl)| | **A**|istio-envoy|:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Envoy HSTS|BDP|

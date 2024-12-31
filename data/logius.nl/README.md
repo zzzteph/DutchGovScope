@@ -20,7 +20,7 @@
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://acc-dictu.comcms.logius.nl](https://acc-dictu.comcms.logius.nl)| | **E**|nginx/1.26.2| | | | | | :white_check_mark: | | :white_check_mark: | |Drupal Nginx:1.26.2 PHP|Redirecting to h...|
+|[https://acc-dictu.comcms.logius.nl](https://acc-dictu.comcms.logius.nl)| | **E**|nginx/1.26.2| | | | | | :white_check_mark: | | :white_check_mark: | |Drupal:10 Nginx:1.26.2 PHP|Redirecting to h...|
 |[https://test-dictu.logius.nl](https://test-dictu.logius.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Basic Nginx|401 Authorizatio...|
 |[https://acc-dictu.kennisbank.logius.nl](https://acc-dictu.kennisbank.logius.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Basic Nginx|401 Authorizatio...|
 |[https://acc-dictu.logius.nl](https://acc-dictu.logius.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Basic Nginx|401 Authorizatio...|
@@ -40,7 +40,7 @@
 |[http://iam-containerplatform-az1.lpc.logius.nl](http://iam-containerplatform-az1.lpc.logius.nl)| | **F**|BigIP| | | | | | | | :white_check_mark: | |F5 BigIP||
 |[https://iam-containerplatform.lpc.logius.nl](https://iam-containerplatform.lpc.logius.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|404 Not Found|
 |[http://channels-az1.lpc.logius.nl](http://channels-az1.lpc.logius.nl)| | **F**|BigIP| | | | | | | | :white_check_mark: | |F5 BigIP||
-|[https://channels.lpc.logius.nl](https://channels.lpc.logius.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS|Logius Private C...|
+|[https://channels.lpc.logius.nl](https://channels.lpc.logius.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS||
 |[http://docs.lpc.logius.nl](http://docs.lpc.logius.nl)| | **F**|BigIP| | | | | | | | :white_check_mark: | |F5 BigIP||
 |[http://git-az1.lpc.logius.nl](http://git-az1.lpc.logius.nl)| | **F**|BigIP| | | | | | | | :white_check_mark: | |F5 BigIP||
 |[http://git.lpc.logius.nl](http://git.lpc.logius.nl)| | **F**|BigIP| | | | | | | | :white_check_mark: | |F5 BigIP||
@@ -60,12 +60,12 @@
 |[https://oinregister.logius.nl](https://oinregister.logius.nl)| | **A**|| |:white_check_mark: | :warning:| | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|COR|
 |[https://preprod-machtigen.digipoort.logius.nl](https://preprod-machtigen.digipoort.logius.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS IBM DataPower||
 |[https://preprod.oinregister.logius.nl](https://preprod.oinregister.logius.nl)| | **A**|| |:white_check_mark: | :warning:| | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|COR|
-|[https://intrekkingsportaal.preproductie.digipoort.logius.nl](https://intrekkingsportaal.preproductie.digipoort.logius.nl)| | **C**||:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|503 Service Temp...|
-|[https://portalen.preproductie.digipoort.logius.nl](https://portalen.preproductie.digipoort.logius.nl)| | **C**||:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|503 Service Temp...|
-|[https://aansluitsuite.preproductie.digipoort.logius.nl](https://aansluitsuite.preproductie.digipoort.logius.nl)| | **C**||:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|503 Service Temp...|
-|[https://beheerportaal.preproductie.digipoort.logius.nl](https://beheerportaal.preproductie.digipoort.logius.nl)| | **C**||:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|503 Service Temp...|
-|[https://gebruikersportaal-duo.preproductie.digipoort.logius.nl](https://gebruikersportaal-duo.preproductie.digipoort.logius.nl)| | **C**||:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|503 Service Temp...|
-|[https://gebruikersportaal-sbr.preproductie.digipoort.logius.nl](https://gebruikersportaal-sbr.preproductie.digipoort.logius.nl)| | **C**||:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|503 Service Temp...|
+|[https://intrekkingsportaal.preproductie.digipoort.logius.nl](https://intrekkingsportaal.preproductie.digipoort.logius.nl)| | **C**||:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Java||
+|[https://portalen.preproductie.digipoort.logius.nl](https://portalen.preproductie.digipoort.logius.nl)| | **C**||:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Java||
+|[https://aansluitsuite.preproductie.digipoort.logius.nl](https://aansluitsuite.preproductie.digipoort.logius.nl)| | **C**||:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Java||
+|[https://beheerportaal.preproductie.digipoort.logius.nl](https://beheerportaal.preproductie.digipoort.logius.nl)| | **C**||:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Java||
+|[https://gebruikersportaal-duo.preproductie.digipoort.logius.nl](https://gebruikersportaal-duo.preproductie.digipoort.logius.nl)| | **C**||:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Java||
+|[https://gebruikersportaal-sbr.preproductie.digipoort.logius.nl](https://gebruikersportaal-sbr.preproductie.digipoort.logius.nl)| | **C**||:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Java||
 |[https://pmz-pre.logius.nl](https://pmz-pre.logius.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|404 Not Found|
 |[https://pmz.logius.nl](https://pmz.logius.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS|404 Not Found|
 |[http://amp-pre.logius.nl](http://amp-pre.logius.nl)| | **F**|BigIP| | | | | | | | :white_check_mark: | |F5 BigIP||

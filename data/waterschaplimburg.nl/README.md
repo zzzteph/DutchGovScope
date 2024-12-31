@@ -6,12 +6,12 @@
 
  - **SSL Grade**:
  - **HTTP Security Grade**:C
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:9
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:7
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/waterschaplimburg.nl/subdomains.txt)|33|Alive subdomains|
+|[subdomains.txt](/data/waterschaplimburg.nl/subdomains.txt)|32|Alive subdomains|
 |[urls.txt](/data/waterschaplimburg.nl/urls.txt)|32|Urls|
 
 
@@ -20,8 +20,7 @@
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://cms-eef.waterschaplimburg.nl](https://cms-eef.waterschaplimburg.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|403 - Forbidden:...|
-|[https://eef.waterschaplimburg.nl](https://eef.waterschaplimburg.nl)| | **A**||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
+|[https://eef.waterschaplimburg.nl](https://eef.waterschaplimburg.nl)| | **A**||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Document Moved|
 |[https://digikoppeling.waterschaplimburg.nl](https://digikoppeling.waterschaplimburg.nl)| | **F**|Layer7-API-Gateway| | | | | | | | :white_check_mark: | |||
 |[https://formulieren-preprod.waterschaplimburg.nl](https://formulieren-preprod.waterschaplimburg.nl)| | **A**|Microsoft-IIS/10.0| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |IIS:10.0 Windows Server||
 |[https://formulieren.waterschaplimburg.nl](https://formulieren.waterschaplimburg.nl)| | **A**|Microsoft-IIS/10.0| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |IIS:10.0 Windows Server||
@@ -32,7 +31,7 @@
 |[https://spapps-t.waterschaplimburg.nl](https://spapps-t.waterschaplimburg.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|TransIP - Reserv...|
 |[https://spapps.waterschaplimburg.nl](https://spapps.waterschaplimburg.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|TransIP - Reserv...|
 |[https://subsidie.waterschaplimburg.nl](https://subsidie.waterschaplimburg.nl)| | **A**||:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bootstrap HSTS Microsoft ASP.NET|Home - Waterscha...|
-|[https://test-eef.waterschaplimburg.nl](https://test-eef.waterschaplimburg.nl)| | **A**||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
+|[http://test-eef.waterschaplimburg.nl](http://test-eef.waterschaplimburg.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Service Unavaila...|
 |[https://transfer.waterschaplimburg.nl](https://transfer.waterschaplimburg.nl)| | **A**||:warning: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bootstrap HSTS|Waterschap Limbu...|
 |[https://wikixl-saml.acceptatie.waterschaplimburg.nl](https://wikixl-saml.acceptatie.waterschaplimburg.nl)| | **B**|Apache| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS|Redirect|
 |[https://www.waterschaplimburg.nl](https://www.waterschaplimburg.nl)| | **A**|cloudflare|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Cloudflare Cloudflare Bot Management Google Tag Manager HSTS Microsoft ASP.NET:- MyFonts|Home - Waterscha...|
@@ -52,5 +51,6 @@
 |[http://publicaffairs.waterschaplimburg.nl](http://publicaffairs.waterschaplimburg.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
 |[http://castaways.waterschaplimburg.nl](http://castaways.waterschaplimburg.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
 |[http://mx04.waterschaplimburg.nl](http://mx04.waterschaplimburg.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
+|[http://bron.waterschaplimburg.nl](http://bron.waterschaplimburg.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
 
 

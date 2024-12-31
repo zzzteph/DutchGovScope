@@ -35,7 +35,9 @@ erfgoedexpertteam.provincie-utrecht.nl
 nnn-wijzer.provincie-utrecht.nl
 omgevingswet.provincie-utrecht.nl
 publicaties.provincie-utrecht.nl
+regiotramutrecht.provincie-utrecht.nl
 esb-preprod.provincie-utrecht.nl
+esb.provincie-utrecht.nl
 formulieren.provincie-utrecht.nl
 geo-pointtest.provincie-utrecht.nl
 monitorwonen.provincie-utrecht.nl
@@ -57,7 +59,6 @@ planoview.provincie-utrecht.nl
 ruimtelijkeplannen.provincie-utrecht.nl
 ruimtelijkeplannenintern.provincie-utrecht.nl
 sap-crm.provincie-utrecht.nl
-search-a.provincie-utrecht.nl
 search.provincie-utrecht.nl
 slechtvalk.provincie-utrecht.nl
 sslvpn-hth.provincie-utrecht.nl

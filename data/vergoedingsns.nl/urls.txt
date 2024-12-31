@@ -1,4 +1,4 @@
-https://aanvragen.vergoedingsns.nl
+http://aanvragen.vergoedingsns.nl
 https://feeds.vergoedingsns.nl
 https://opendata.vergoedingsns.nl
 https://vergoedingsns.nl

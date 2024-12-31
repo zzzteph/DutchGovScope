@@ -1,4 +1,3 @@
-adfs.vallei-veluwe.nl
 autodiscover.vallei-veluwe.nl
 redactie.vallei-veluwe.nl
 vallei-veluwe.nl

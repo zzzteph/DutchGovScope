@@ -88,6 +88,7 @@ https://preprod.beterbediend.rws.nl
 https://protide.rws.nl
 http://prs.rws.nl
 https://ptp.inloggen.rws.nl
+https://rastoken.rws.nl
 https://rhel8.wabinfo.rws.nl
 https://wabinfo.rws.nl
 https://rws.nl
@@ -98,6 +99,7 @@ https://samenwerken.rws.nl
 https://samp.rws.nl
 https://sig.fam.rws.nl
 https://sluisplanning.rws.nl
+https://spin2.rws.nl
 https://svk-info.rws.nl
 https://svk-login.rws.nl
 https://svs.rws.nl

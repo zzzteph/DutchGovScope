@@ -2,11 +2,11 @@
 layout: default
 title: "bodemambities.nl"
 permalink: "/dutchgov/bodemambities.nl.html"
-subdomains_count: 0
-urls_count: 0
+subdomains_count: 3
+urls_count: 3
 ssl_rank: 
-http_rank: F
-security_txt: 0
+http_rank: B
+security_txt: 2
 url_link: /data/bodemambities.nl/urls.txt
 subdomains_link: /data/bodemambities.nl/subdomains.txt
 categories: dutchgov
@@ -19,14 +19,14 @@ tags: dutchgov
 
 
  - **SSL Grade**:
- - **HTTP Security Grade**:F
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:0
+ - **HTTP Security Grade**:B
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:2
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/bodemambities.nl/subdomains.txt)|0|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/bodemambities.nl/urls.txt)|0|Urls|
+|[subdomains.txt](/DutchGovScope/data/bodemambities.nl/subdomains.txt)|3|Alive subdomains|
+|[urls.txt](/DutchGovScope/data/bodemambities.nl/urls.txt)|3|Urls|
 
 
 ## Statistics
@@ -34,5 +34,8 @@ tags: dutchgov
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
+|[http://acceptatie.zoek.bodemambities.nl](http://acceptatie.zoek.bodemambities.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
+|[https://bodemambities.nl](https://bodemambities.nl)| | **A**|Apache| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server Drupal HSTS PHP|Bodemambities |...|
+|[https://www.bodemambities.nl](https://www.bodemambities.nl)| | **A**|Apache| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server Drupal HSTS PHP:8.1.31|Bodemambities |...|
 
 

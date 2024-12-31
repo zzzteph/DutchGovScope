@@ -41,7 +41,7 @@
 |[https://ivo.nvwa.nl](https://ivo.nvwa.nl)| | **C**||:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|Import Veterinai...|
 |[https://iwelcome-preprod.nvwa.nl](https://iwelcome-preprod.nvwa.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||
 |[https://iwelcome.nvwa.nl](https://iwelcome.nvwa.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||
-|[http://labvantage-acc.nvwa.nl](http://labvantage-acc.nvwa.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||
+|[https://labvantage-acc.nvwa.nl](https://labvantage-acc.nvwa.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS|Error 404--Not F...|
 |[https://mijn-acc.nvwa.nl](https://mijn-acc.nvwa.nl)| | **A**|| |:white_check_mark: | :warning:| | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Object moved|
 |[https://mijn.nvwa.nl](https://mijn.nvwa.nl)| | **A**|| |:white_check_mark: | :warning:| | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Object moved|
 |[https://ras-acc.nvwa.nl](https://ras-acc.nvwa.nl)| | **A**||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|302 Found|
@@ -51,7 +51,7 @@
 |[https://vgc-acc.nvwa.nl](https://vgc-acc.nvwa.nl)| | **B**||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS|Error 404--Not F...|
 |[https://vgc.nvwa.nl](https://vgc.nvwa.nl)| | **B**||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS|Error 404--Not F...|
 |[https://videoleren.nvwa.nl](https://videoleren.nvwa.nl)| | **D**|cloudflare|:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | |Cloudflare Cloudflare Bot Management HSTS|POST data|
-|[https://e-certnl.nvwa.nl](https://e-certnl.nvwa.nl)| | **C**||:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|403 Forbidden|
+|[http://e-certnl.nvwa.nl](http://e-certnl.nvwa.nl)| | **C**||:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
 |[https://forms.nvwa.nl](https://forms.nvwa.nl)| | **A**||:white_check_mark: |:white_check_mark: | :warning:| | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Object moved|
 |[https://www.inspectieresultaten.nvwa.nl](https://www.inspectieresultaten.nvwa.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
 |[https://soap.openbare-inspectieresultaten.nvwa.nl](https://soap.openbare-inspectieresultaten.nvwa.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Basic Nginx|401 Authorizatio...|

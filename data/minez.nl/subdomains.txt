@@ -10,5 +10,6 @@ ibabs.minez.nl
 pmt.minez.nl
 www.minez.nl
 minez.nl
+pmt-acc.minez.nl
 upeu.minez.nl
 vws-demo.minez.nl

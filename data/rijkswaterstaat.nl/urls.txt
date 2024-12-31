@@ -44,7 +44,7 @@ https://geo.rijkswaterstaat.nl
 https://geoweb.rijkswaterstaat.nl
 https://iam.rijkswaterstaat.nl
 https://inloggen.rijkswaterstaat.nl
-https://loket.acceptatie.rijkswaterstaat.nl
+http://loket.acceptatie.rijkswaterstaat.nl
 https://loket.rijkswaterstaat.nl
 https://maps.rijkswaterstaat.nl
 https://mars.rijkswaterstaat.nl
@@ -58,6 +58,7 @@ http://prs.rijkswaterstaat.nl
 https://wabinfo.rijkswaterstaat.nl
 https://rhel8.wabinfo.rijkswaterstaat.nl
 https://spin.rijkswaterstaat.nl
+https://spin2.rijkswaterstaat.nl
 https://standaarden.rijkswaterstaat.nl
 https://stijlgids.rijkswaterstaat.nl
 https://techniekacademie.rijkswaterstaat.nl

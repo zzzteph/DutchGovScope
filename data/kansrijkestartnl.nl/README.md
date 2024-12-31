@@ -6,13 +6,13 @@
 
  - **SSL Grade**:
  - **HTTP Security Grade**:A
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:5
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:4
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/kansrijkestartnl.nl/subdomains.txt)|5|Alive subdomains|
-|[urls.txt](/data/kansrijkestartnl.nl/urls.txt)|5|Urls|
+|[subdomains.txt](/data/kansrijkestartnl.nl/subdomains.txt)|4|Alive subdomains|
+|[urls.txt](/data/kansrijkestartnl.nl/urls.txt)|4|Urls|
 
 
 ## Statistics
@@ -24,6 +24,5 @@
 |[https://kansrijkestartnl.nl](https://kansrijkestartnl.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
 |[https://opendata.kansrijkestartnl.nl](https://opendata.kansrijkestartnl.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://www.kansrijkestartnl.nl](https://www.kansrijkestartnl.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Kansrijke Start...|
-|[https://menukaart.kansrijkestartnl.nl](https://menukaart.kansrijkestartnl.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |||
 
 

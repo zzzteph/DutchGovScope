@@ -41,6 +41,7 @@ publicaties.brabant.nl
 signing.pre.brabant.nl
 startformulier.brabant.nl
 startformuliertest.brabant.nl
+voi.brabant.nl
 vpn.brabant.nl
 webmail.brabant.nl
 xential-acpt.brabant.nl

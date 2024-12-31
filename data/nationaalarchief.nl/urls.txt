@@ -5,7 +5,7 @@ https://vocbesatzungen.nationaalarchief.nl
 https://vocopvarenden.nationaalarchief.nl
 https://vocseavoyagers.nationaalarchief.nl
 https://acpt.nationaalarchief.nl
-https://actorenregister.nationaalarchief.nl
+http://actorenregister.nationaalarchief.nl
 http://beeldbank.nationaalarchief.nl
 https://bibliotheek.nationaalarchief.nl
 https://cbs.nationaalarchief.nl
@@ -35,3 +35,5 @@ https://en.test.nationaalarchief.nl
 https://es.test.nationaalarchief.nl
 http://localhost.nationaalarchief.nl
 https://meld.nationaalarchief.nl
+https://hub3.nationaalarchief.nl
+https://zvt.nationaalarchief.nl

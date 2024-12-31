@@ -2,11 +2,11 @@
 layout: default
 title: "toeslagen.nl"
 permalink: "/dutchgov/toeslagen.nl.html"
-subdomains_count: 12
-urls_count: 12
+subdomains_count: 13
+urls_count: 13
 ssl_rank: 
 http_rank: A
-security_txt: 10
+security_txt: 11
 url_link: /data/toeslagen.nl/urls.txt
 subdomains_link: /data/toeslagen.nl/subdomains.txt
 categories: dutchgov
@@ -20,13 +20,13 @@ tags: dutchgov
 
  - **SSL Grade**:
  - **HTTP Security Grade**:A
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:10
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:11
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/toeslagen.nl/subdomains.txt)|12|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/toeslagen.nl/urls.txt)|12|Urls|
+|[subdomains.txt](/DutchGovScope/data/toeslagen.nl/subdomains.txt)|13|Alive subdomains|
+|[urls.txt](/DutchGovScope/data/toeslagen.nl/urls.txt)|13|Urls|
 
 
 ## Statistics
@@ -43,6 +43,7 @@ tags: dutchgov
 |[https://www.toeslagen.nl](https://www.toeslagen.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|301 Moved Perman...|
 |[https://toestemming.toeslagen.nl](https://toestemming.toeslagen.nl)| | **A**||:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Er is een fout o...|
 |[https://werken.toeslagen.nl](https://werken.toeslagen.nl)| | **A**|Ponos Maximum| |:white_check_mark: | :warning:| |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
+|[https://schadeherstel.acc.toeslagen.nl](https://schadeherstel.acc.toeslagen.nl)| | **A**||:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://gtmt.toeslagen.nl](https://gtmt.toeslagen.nl)| | **C**|| | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | ||Online diensten...|
 |[https://schadeherstel.toeslagen.nl](https://schadeherstel.toeslagen.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Aanmeldportaal -...|
 |[https://werkenbij.toeslagen.nl](https://werkenbij.toeslagen.nl)| | **A**|Ponos Maximum| |:white_check_mark: | :warning:| |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||

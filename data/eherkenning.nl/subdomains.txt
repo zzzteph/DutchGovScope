@@ -8,8 +8,6 @@ www.eherkenning.nl
 eherkenning.nl
 prod-dictu.eherkenning.nl
 extranet.eherkenning.nl
-kpn-eid-acc.sso.eherkenning.nl
-reconi-etoegang-acc.sso.eherkenning.nl
 kpn-eid-pp.sso.eherkenning.nl
 reconi-etoegang-pp.sso.eherkenning.nl
 kpn-eid.sso.eherkenning.nl

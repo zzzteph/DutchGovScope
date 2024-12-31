@@ -1,2 +1,2 @@
+http://tst-rds.nl
 http://www.tst-rds.nl
-http://admin.tst-rds.nl

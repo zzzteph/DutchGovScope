@@ -3,7 +3,7 @@ layout: default
 title: "nationaalarchief.nl"
 permalink: "/dutchgov/nationaalarchief.nl.html"
 subdomains_count: 39
-urls_count: 37
+urls_count: 39
 ssl_rank: 
 http_rank: D
 security_txt: 8
@@ -26,7 +26,7 @@ tags: dutchgov
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/DutchGovScope/data/nationaalarchief.nl/subdomains.txt)|39|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/nationaalarchief.nl/urls.txt)|37|Urls|
+|[urls.txt](/DutchGovScope/data/nationaalarchief.nl/urls.txt)|39|Urls|
 
 
 ## Statistics
@@ -41,7 +41,7 @@ tags: dutchgov
 |[https://vocopvarenden.nationaalarchief.nl](https://vocopvarenden.nationaalarchief.nl)| | **F**|nginx/1.25.3| | | | | | | | :white_check_mark: | |HSTS Nginx:1.25.3||
 |[https://vocseavoyagers.nationaalarchief.nl](https://vocseavoyagers.nationaalarchief.nl)| | **F**|nginx/1.25.3| | | | | | | | :white_check_mark: | |HSTS Nginx:1.25.3||
 |[https://acpt.nationaalarchief.nl](https://acpt.nationaalarchief.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|403 Forbidden|
-|[https://actorenregister.nationaalarchief.nl](https://actorenregister.nationaalarchief.nl)| | **A**|| |:white_check_mark: | :warning:| | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Drupal HSTS PHP|Welkom | Actoren...|
+|[http://actorenregister.nationaalarchief.nl](http://actorenregister.nationaalarchief.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |Drupal HSTS PHP||
 |[http://beeldbank.nationaalarchief.nl](http://beeldbank.nationaalarchief.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |HTTP/3 Nginx||
 |[https://bibliotheek.nationaalarchief.nl](https://bibliotheek.nationaalarchief.nl)| | **F**|Central System Dispatcher/1.1| | | | | | | | :white_check_mark: | |HSTS||
 |[https://cbs.nationaalarchief.nl](https://cbs.nationaalarchief.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |||
@@ -71,5 +71,7 @@ tags: dutchgov
 |[https://es.test.nationaalarchief.nl](https://es.test.nationaalarchief.nl)| | **F**|gtranslate| | | | | | | | :white_check_mark: | |||
 |[http://localhost.nationaalarchief.nl](http://localhost.nationaalarchief.nl)| | **F**|nginx|:o: | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Laravel Nginx PHP|Weakpass|
 |[https://meld.nationaalarchief.nl](https://meld.nationaalarchief.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|403 Forbidden|
+|[https://hub3.nationaalarchief.nl](https://hub3.nationaalarchief.nl)| | **A**|| |:white_check_mark: | :warning:| |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS|403 Forbidden|
+|[https://zvt.nationaalarchief.nl](https://zvt.nationaalarchief.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 
 

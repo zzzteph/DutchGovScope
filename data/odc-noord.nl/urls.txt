@@ -26,6 +26,7 @@ https://odcn-acc.jira.odc-noord.nl
 https://iene-prd.topdesk.odc-noord.nl
 https://logius-prd.jira.odc-noord.nl
 https://nfi-prd.topdesk.odc-noord.nl
+https://vws-prd.jira.odc-noord.nl
 https://bd-prd.topdesk.odc-noord.nl
 https://duo-prd.topdesk.odc-noord.nl
 https://ilt-prd.topdesk.odc-noord.nl

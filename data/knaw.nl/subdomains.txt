@@ -363,7 +363,6 @@ hisgis.fa.knaw.nl
 hisgis2.fa.knaw.nl
 hucdrive.huc.knaw.nl
 hweb.knaw.nl
-intranetzonder.knaw.nl
 logo.huygens.knaw.nl
 maps.fa.knaw.nl
 mapserver.fa.knaw.nl
@@ -431,12 +430,9 @@ pureacc.knaw.nl
 web.knaw.nl
 www.herseninstituut.knaw.nl
 maritimecareers.huygens.knaw.nl
-sd-yugoslavia.dev.huc.knaw.nl
 occassio.dev.huc.knaw.nl
 workforce.nioo.knaw.nl
-ecartico.dev.huc.knaw.nl
 service-index.labs.dans.knaw.nl
-oat.acc.huc.knaw.nl
 kaartenbank.meertens.knaw.nl
 monitoring.huc.knaw.nl
 dummy-signposting.labs.dans.knaw.nl
@@ -488,7 +484,6 @@ vova.meertens.knaw.nl
 facades-formats.labs.dans.knaw.nl
 license.labs.dans.knaw.nl
 chat.bioinf.nioo.knaw.nl
-vangogh-api.dev.huc.knaw.nl
 fairevaapi.labs.dans.knaw.nl
 genomes.bioinf.nioo.knaw.nl
 repository-assistant.labs.dans.knaw.nl

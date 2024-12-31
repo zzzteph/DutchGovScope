@@ -6,13 +6,13 @@
 
  - **SSL Grade**:
  - **HTTP Security Grade**:C
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:94
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:95
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/rws.nl/subdomains.txt)|167|Alive subdomains|
-|[urls.txt](/data/rws.nl/urls.txt)|166|Urls|
+|[subdomains.txt](/data/rws.nl/subdomains.txt)|168|Alive subdomains|
+|[urls.txt](/data/rws.nl/urls.txt)|168|Urls|
 
 
 ## Statistics
@@ -71,7 +71,7 @@
 |[https://port-enc.rws.nl](https://port-enc.rws.nl)| | **C**|Kestrel|:warning: |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS Kestrel Microsoft ASP.NET||
 |[https://standaarden.rws.nl](https://standaarden.rws.nl)| | **B**|nginx| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS Nginx|Standaarden RWS|
 |[https://beterbediend.rws.nl](https://beterbediend.rws.nl)| | **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Nginx|Beter Bediend|
-|[https://bezoekerscentrum.rws.nl](https://bezoekerscentrum.rws.nl)| | **C**|nginx|:white_check_mark: |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | |HSTS MySQL Nginx PHP SDL Tridion W3 Total Cache WordPress Yoast SEO:23.6|Bezoekerscentrum...|
+|[https://bezoekerscentrum.rws.nl](https://bezoekerscentrum.rws.nl)| | **B**|nginx| |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | |HSTS MySQL Nginx PHP SDL Tridion W3 Total Cache WordPress Yoast SEO:23.6|Bezoekerscentrum...|
 |[https://test.bezoekerscentrum.rws.nl](https://test.bezoekerscentrum.rws.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |HSTS MySQL Nginx PHP SDL Tridion W3 Total Cache WordPress Yoast SEO:23.6|Bezoekerscentrum...|
 |[https://centraaltoegangspuntdata.rws.nl](https://centraaltoegangspuntdata.rws.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:-|403 - Forbidden:...|
 |[https://nis.rws.nl](https://nis.rws.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:-|403 - Forbidden:...|
@@ -79,7 +79,7 @@
 |[https://crisiswerkplek.rws.nl](https://crisiswerkplek.rws.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Microsoft ASP.NET||
 |[https://ctd.rws.nl](https://ctd.rws.nl)| | **E**|| | | | | | | | :white_check_mark: | |Azure Azure Front Door||
 |[https://grid.rws.nl](https://grid.rws.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |Azure Azure Front Door||
-|[https://gridacc.rws.nl](https://gridacc.rws.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |Azure Azure Front Door|Service unavaila...|
+|[https://gridacc.rws.nl](https://gridacc.rws.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |Azure Azure Front Door||
 |[http://ddapi-preprod.rws.nl](http://ddapi-preprod.rws.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://disk.acceptatie.rws.nl](https://disk.acceptatie.rws.nl)| | **C**|Microsoft-IIS/10.0| |:white_check_mark: | | | | | | :white_check_mark: | |Bootstrap:5 HSTS IIS:10.0 Microsoft ASP.NET Windows Server|DISK External|
 |[https://disk.rws.nl](https://disk.rws.nl)| | **C**|Microsoft-IIS/10.0| |:white_check_mark: | | | | | | :white_check_mark: | |Bootstrap:5 HSTS IIS:10.0 Microsoft ASP.NET Windows Server|DISK External|
@@ -107,9 +107,10 @@
 |[https://overstroomik.rws.nl](https://overstroomik.rws.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |||
 |[https://poc-werkplek.rws.nl](https://poc-werkplek.rws.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS||
 |[https://preprod.beterbediend.rws.nl](https://preprod.beterbediend.rws.nl)| | **D**|nginx|:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Nginx|Beter Bediend|
-|[https://protide.rws.nl](https://protide.rws.nl)| | **A**|ChartaWebServer rws-epvw-prt202|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
+|[https://protide.rws.nl](https://protide.rws.nl)| | **A**|ChartaWebServer rws-epvw-prt201|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[http://prs.rws.nl](http://prs.rws.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://ptp.inloggen.rws.nl](https://ptp.inloggen.rws.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS Pulse Secure||
+|[https://rastoken.rws.nl](https://rastoken.rws.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Oracle Dynamic Monitoring Service Oracle WebLogic Server|302 Moved Tempor...|
 |[https://rhel8.wabinfo.rws.nl](https://rhel8.wabinfo.rws.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://wabinfo.rws.nl](https://wabinfo.rws.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://rws.nl](https://rws.nl)| | **C**|Microsoft-Azure-Application-Gateway/v2|:warning: |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | ||301 Moved Perman...|
@@ -120,6 +121,7 @@
 |[https://samp.rws.nl](https://samp.rws.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:-|403 - Forbidden:...|
 |[https://sig.fam.rws.nl](https://sig.fam.rws.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||
 |[https://sluisplanning.rws.nl](https://sluisplanning.rws.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |||
+|[https://spin2.rws.nl](https://spin2.rws.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://svk-info.rws.nl](https://svk-info.rws.nl)| | **C**|nginx| | | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Nginx|SVK-info|
 |[https://svk-login.rws.nl](https://svk-login.rws.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://svs.rws.nl](https://svs.rws.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS Java||

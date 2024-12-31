@@ -5,14 +5,14 @@
 
 
  - **SSL Grade**:
- - **HTTP Security Grade**:F
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:0
+ - **HTTP Security Grade**:C
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:1
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/biosecurityzelfscan.nl/subdomains.txt)|0|Alive subdomains|
-|[urls.txt](/data/biosecurityzelfscan.nl/urls.txt)|0|Urls|
+|[subdomains.txt](/data/biosecurityzelfscan.nl/subdomains.txt)|1|Alive subdomains|
+|[urls.txt](/data/biosecurityzelfscan.nl/urls.txt)|1|Urls|
 
 
 ## Statistics
@@ -20,5 +20,6 @@
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
+|[https://biosecurityzelfscan.nl](https://biosecurityzelfscan.nl)| | **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
 
 

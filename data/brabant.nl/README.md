@@ -11,8 +11,8 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/brabant.nl/subdomains.txt)|86|Alive subdomains|
-|[urls.txt](/data/brabant.nl/urls.txt)|86|Urls|
+|[subdomains.txt](/data/brabant.nl/subdomains.txt)|87|Alive subdomains|
+|[urls.txt](/data/brabant.nl/urls.txt)|87|Urls|
 
 
 ## Statistics
@@ -63,6 +63,7 @@
 |[https://signing.pre.brabant.nl](https://signing.pre.brabant.nl)| | **A**|Apache| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS||
 |[https://startformulier.brabant.nl](https://startformulier.brabant.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Service|
 |[https://startformuliertest.brabant.nl](https://startformuliertest.brabant.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
+|[http://voi.brabant.nl](http://voi.brabant.nl)| | **A**|BigIP|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |F5 BigIP||
 |[https://vpn.brabant.nl](https://vpn.brabant.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||
 |[https://webmail.brabant.nl](https://webmail.brabant.nl)| | **A**||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |||
 |[https://xential-acpt.brabant.nl](https://xential-acpt.brabant.nl)| | **A**||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |||

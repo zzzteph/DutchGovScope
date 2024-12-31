@@ -1,2 +1,3 @@
 kennisplatform.nl
 www.kennisplatform.nl
+msoid.kennisplatform.nl

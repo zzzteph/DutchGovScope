@@ -3,7 +3,7 @@ layout: default
 title: "noord-holland.nl"
 permalink: "/dutchgov/noord-holland.nl.html"
 subdomains_count: 65
-urls_count: 64
+urls_count: 65
 ssl_rank: 
 http_rank: B
 security_txt: 23
@@ -26,7 +26,7 @@ tags: dutchgov
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/DutchGovScope/data/noord-holland.nl/subdomains.txt)|65|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/noord-holland.nl/urls.txt)|64|Urls|
+|[urls.txt](/DutchGovScope/data/noord-holland.nl/urls.txt)|65|Urls|
 
 
 ## Statistics
@@ -45,9 +45,9 @@ tags: dutchgov
 |[https://automation-node.datalab-prod.aws.noord-holland.nl](https://automation-node.datalab-prod.aws.noord-holland.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |D3 HSTS NVD3 Nginx|Dataiku|
 |[https://datalab.noord-holland.nl](https://datalab.noord-holland.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |D3 HSTS NVD3 Nginx|Dataiku|
 |[https://bestanden.noord-holland.nl](https://bestanden.noord-holland.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS||
-|[http://cijfers.noord-holland.nl](http://cijfers.noord-holland.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET|Document Moved|
-|[http://dataiku.noord-holland.nl](http://dataiku.noord-holland.nl)| | **F**|awselb/2.0| | | | | | | | :white_check_mark: | |Amazon ELB Amazon Web Services|301 Moved Perman...|
-|[http://design-node.datalab-prod.aws.noord-holland.nl](http://design-node.datalab-prod.aws.noord-holland.nl)| | **F**|awselb/2.0| | | | | | | | :white_check_mark: | |Amazon ELB Amazon Web Services|301 Moved Perman...|
+|[https://cijfers.noord-holland.nl](https://cijfers.noord-holland.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Amazon S3 Amazon Web Services Azure Edge Network HSTS Microsoft ASP.NET MyFonts|Brede Basismonit...|
+|[https://dataiku.noord-holland.nl](https://dataiku.noord-holland.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |D3 HSTS NVD3 Nginx|Dataiku|
+|[https://design-node.datalab-prod.aws.noord-holland.nl](https://design-node.datalab-prod.aws.noord-holland.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |D3 HSTS NVD3 Nginx|Dataiku|
 |[https://eidbroker-pre.noord-holland.nl](https://eidbroker-pre.noord-holland.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
 |[https://eidbroker.noord-holland.nl](https://eidbroker.noord-holland.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
 |[http://ep.noord-holland.nl](http://ep.noord-holland.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
@@ -98,5 +98,6 @@ tags: dutchgov
 |[https://auth.openstad.noord-holland.nl](https://auth.openstad.noord-holland.nl)| | **A**||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Express HSTS Node.js||
 |[https://analytics.noord-holland.nl](https://analytics.noord-holland.nl)| | **C**|Microsoft-IIS/10.0| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS IIS:10.0 Microsoft ASP.NET Windows Server|IIS Windows Serv...|
 |[https://img.openstad.noord-holland.nl](https://img.openstad.noord-holland.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Express HSTS Node.js|Error|
+|[https://vooruitlab.noord-holland.nl](https://vooruitlab.noord-holland.nl)| | **F**|nginx/1.27.2| | | | | | | | :white_check_mark: | |Nginx:1.27.2||
 
 

@@ -41,6 +41,7 @@ https://publicaties.brabant.nl
 https://signing.pre.brabant.nl
 https://startformulier.brabant.nl
 https://startformuliertest.brabant.nl
+http://voi.brabant.nl
 https://vpn.brabant.nl
 https://webmail.brabant.nl
 https://xential-acpt.brabant.nl

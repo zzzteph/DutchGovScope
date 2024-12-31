@@ -19,7 +19,7 @@ https://ivo-acc.nvwa.nl
 https://ivo.nvwa.nl
 https://iwelcome-preprod.nvwa.nl
 https://iwelcome.nvwa.nl
-http://labvantage-acc.nvwa.nl
+https://labvantage-acc.nvwa.nl
 https://mijn-acc.nvwa.nl
 https://mijn.nvwa.nl
 https://ras-acc.nvwa.nl
@@ -29,7 +29,7 @@ https://rvdmschaduwdraaien.nvwa.nl
 https://vgc-acc.nvwa.nl
 https://vgc.nvwa.nl
 https://videoleren.nvwa.nl
-https://e-certnl.nvwa.nl
+http://e-certnl.nvwa.nl
 https://forms.nvwa.nl
 https://www.inspectieresultaten.nvwa.nl
 https://soap.openbare-inspectieresultaten.nvwa.nl

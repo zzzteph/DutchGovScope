@@ -40,6 +40,7 @@ mbotransparant.databank.nl
 apollo.databank.nl
 demo-ebc.databank.nl
 ftgelderland.databank.nl
+beta-adc.databank.nl
 beta-klimaatbeleid.databank.nl
 beta-vivet.databank.nl
 beta-datawonen.databank.nl
@@ -107,6 +108,9 @@ berst.databank.nl
 ciz.databank.nl
 www.klimaat-monitor.databank.nl
 www.arcon.databank.nl
+sfx.databank.nl
+geronimo.databank.nl
+grondverzet.databank.nl
 www.kenniscentrumhoreca.databank.nl
 www.seer.databank.nl
 www.amsterdam.rosopen.databank.nl
@@ -115,6 +119,7 @@ beta2-arbeidsmarktmobiliteit.databank.nl
 beta-aisnbtc.databank.nl
 beta-veiligheidsmonitor.databank.nl
 beta-cbc.databank.nl
+beta-icontrol.databank.nl
 cname-vakantieonderzoek-nbtc.databank.nl
 beta-energiecijfers.databank.nl
 beta-hr-sectorwaterschappen.databank.nl
@@ -140,6 +145,7 @@ beta-mbotransparant.databank.nl
 povo.databank.nl
 lokaalklimaat.databank.nl
 beta-laadinfrastructuur.databank.nl
+prognosemodelzw2023.databank.nl
 duurzamemobiliteit.databank.nl
 wonenmetzorg.databank.nl
 beta-berst.databank.nl

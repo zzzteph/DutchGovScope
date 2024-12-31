@@ -35,7 +35,9 @@ https://erfgoedexpertteam.provincie-utrecht.nl
 https://nnn-wijzer.provincie-utrecht.nl
 https://omgevingswet.provincie-utrecht.nl
 https://publicaties.provincie-utrecht.nl
+https://regiotramutrecht.provincie-utrecht.nl
 https://esb-preprod.provincie-utrecht.nl
+https://esb.provincie-utrecht.nl
 https://formulieren.provincie-utrecht.nl
 https://geo-pointtest.provincie-utrecht.nl
 https://monitorwonen.provincie-utrecht.nl
@@ -57,7 +59,6 @@ https://planoview.provincie-utrecht.nl
 https://ruimtelijkeplannen.provincie-utrecht.nl
 https://ruimtelijkeplannenintern.provincie-utrecht.nl
 https://sap-crm.provincie-utrecht.nl
-https://search-a.provincie-utrecht.nl
 https://search.provincie-utrecht.nl
 https://slechtvalk.provincie-utrecht.nl
 https://sslvpn-hth.provincie-utrecht.nl

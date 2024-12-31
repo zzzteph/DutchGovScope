@@ -83,6 +83,6 @@ tags: dutchgov
 |[https://test.optimaaldigitaal.gebruikercentraal.nl](https://test.optimaaldigitaal.gebruikercentraal.nl)| | **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |Basic HSTS Nginx|401 Unauthorized|
 |[https://inclusievedienstverlening.gebruikercentraal.nl](https://inclusievedienstverlening.gebruikercentraal.nl)| | **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Nginx PHP:8.1.31||
 |[http://autodiscover.gebruikercentraal.nl](http://autodiscover.gebruikercentraal.nl)| | **C**|Microsoft-IIS/10.0| |:white_check_mark: | | | | | | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server||
-|[https://toolkitinclusie.gebruikercentraal.nl](https://toolkitinclusie.gebruikercentraal.nl)| | **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS MySQL Nginx PHP:8.2.26 WordPress:6.7.1 Yoast SEO:23.9|Home - Ontwerpen...|
+|[https://toolkitinclusie.gebruikercentraal.nl](https://toolkitinclusie.gebruikercentraal.nl)| | **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS MySQL Nginx PHP:8.2.26 WordPress:6.7.1 Yoast SEO:24.1|Home - Ontwerpen...|
 
 

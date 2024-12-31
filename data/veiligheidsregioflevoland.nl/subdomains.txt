@@ -6,7 +6,11 @@ mail.veiligheidsregioflevoland.nl
 autodiscover.veiligheidsregioflevoland.nl
 enterpriseenrollment.veiligheidsregioflevoland.nl
 enterpriseregistration.veiligheidsregioflevoland.nl
-dept.veiligheidsregioflevoland.nl
 websoft.veiligheidsregioflevoland.nl
 tribune.veiligheidsregioflevoland.nl
 msoid.veiligheidsregioflevoland.nl
+deeds.veiligheidsregioflevoland.nl
+tableau-test.veiligheidsregioflevoland.nl
+cs71.veiligheidsregioflevoland.nl
+voipa057.veiligheidsregioflevoland.nl
+tellafriend.veiligheidsregioflevoland.nl

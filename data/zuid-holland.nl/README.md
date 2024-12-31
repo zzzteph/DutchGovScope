@@ -11,8 +11,8 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/zuid-holland.nl/subdomains.txt)|77|Alive subdomains|
-|[urls.txt](/data/zuid-holland.nl/urls.txt)|77|Urls|
+|[subdomains.txt](/data/zuid-holland.nl/subdomains.txt)|76|Alive subdomains|
+|[urls.txt](/data/zuid-holland.nl/urls.txt)|76|Urls|
 
 
 ## Statistics
@@ -65,7 +65,6 @@
 |[https://monitor-klimaatadaptatie.zuid-holland.nl](https://monitor-klimaatadaptatie.zuid-holland.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| | | :white_check_mark: | |HSTS|Monitor Klimaat...|
 |[https://planregistratie-wonen.zuid-holland.nl](https://planregistratie-wonen.zuid-holland.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| | | :white_check_mark: | |HSTS|Planregistratie...|
 |[https://monitorleefomgeving.zuid-holland.nl](https://monitorleefomgeving.zuid-holland.nl)| | **E**|| | | | | | | | :white_check_mark: | |Azure Azure Front Door|Monitor Leefomge...|
-|[https://nieuwsbrief.zuid-holland.nl](https://nieuwsbrief.zuid-holland.nl)| | **A**|nginx| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://omgevingsbeleid.zuid-holland.nl](https://omgevingsbeleid.zuid-holland.nl)| | **E**|| | | | | | | | :white_check_mark: | |Azure Azure Front Door|Omgevingsbeleid...|
 |[https://omgevingsdocumenten.zuid-holland.nl](https://omgevingsdocumenten.zuid-holland.nl)| | **E**|| | | | | | | | :white_check_mark: | ||PlanoView|
 |[https://opendata.zuid-holland.nl](https://opendata.zuid-holland.nl)| | **A**||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Java||

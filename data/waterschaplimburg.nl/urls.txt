@@ -1,4 +1,3 @@
-https://cms-eef.waterschaplimburg.nl
 https://eef.waterschaplimburg.nl
 https://digikoppeling.waterschaplimburg.nl
 https://formulieren-preprod.waterschaplimburg.nl
@@ -10,7 +9,7 @@ https://open.waterschaplimburg.nl
 https://spapps-t.waterschaplimburg.nl
 https://spapps.waterschaplimburg.nl
 https://subsidie.waterschaplimburg.nl
-https://test-eef.waterschaplimburg.nl
+http://test-eef.waterschaplimburg.nl
 https://transfer.waterschaplimburg.nl
 https://wikixl-saml.acceptatie.waterschaplimburg.nl
 https://www.waterschaplimburg.nl
@@ -30,3 +29,4 @@ http://verhuisbedrijven.waterschaplimburg.nl
 http://publicaffairs.waterschaplimburg.nl
 http://castaways.waterschaplimburg.nl
 http://mx04.waterschaplimburg.nl
+http://bron.waterschaplimburg.nl

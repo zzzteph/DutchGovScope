@@ -11,7 +11,7 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/veiligheidsregioflevoland.nl/subdomains.txt)|12|Alive subdomains|
+|[subdomains.txt](/data/veiligheidsregioflevoland.nl/subdomains.txt)|16|Alive subdomains|
 |[urls.txt](/data/veiligheidsregioflevoland.nl/urls.txt)|10|Urls|
 
 
@@ -28,7 +28,7 @@
 |[http://autodiscover.veiligheidsregioflevoland.nl](http://autodiscover.veiligheidsregioflevoland.nl)| | **C**|Microsoft-IIS/10.0| |:white_check_mark: | | | | | | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server||
 |[https://enterpriseenrollment.veiligheidsregioflevoland.nl](https://enterpriseenrollment.veiligheidsregioflevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||
 |[https://enterpriseregistration.veiligheidsregioflevoland.nl](https://enterpriseregistration.veiligheidsregioflevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
-|[http://dept.veiligheidsregioflevoland.nl](http://dept.veiligheidsregioflevoland.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
 |[https://msoid.veiligheidsregioflevoland.nl](https://msoid.veiligheidsregioflevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Object moved|
+|[http://voipa057.veiligheidsregioflevoland.nl](http://voipa057.veiligheidsregioflevoland.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
 
 

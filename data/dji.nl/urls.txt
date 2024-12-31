@@ -8,7 +8,6 @@ https://www.dji.nl
 https://drife-f.dji.nl
 https://dvfz.dji.nl
 https://intranet.dji.nl
-https://video.beeldbellen.dji.nl
 https://cdn.dji.nl
 https://ftp.dji.nl
 https://video-acc.beeldbellen.dji.nl

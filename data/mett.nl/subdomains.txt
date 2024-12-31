@@ -64,6 +64,7 @@ robert.mett.nl
 htx.mett.nl
 performance.mett.nl
 storage.mett.nl
+waf.mett.nl
 testserver.mett.nl
 haarlemmermeerwest.mett.nl
 lottebruijninckx.mett.nl
@@ -100,6 +101,8 @@ ggagroenblauw.mett.nl
 ikdenkmeeoveruitgeest.mett.nl
 lcnk.mett.nl
 zichtopnl.mett.nl
+pas.mett.nl
+halderberge.mett.nl
 helpdesk.mett.nl
 dejongeakademie.mett.nl
 a27houtenhooipolder.mett.nl
@@ -169,6 +172,7 @@ demointranet.mett.nl
 erfgoedalliantie.mett.nl
 udi.mett.nl
 anna.mett.nl
+soest.mett.nl
 drontenikpraatmee.mett.nl
 mirta2deilvught.mett.nl
 samenshertogenbosch.mett.nl
@@ -211,3 +215,4 @@ sociaaldomeinnoordholland.mett.nl
 restwente.mett.nl
 linnean.mett.nl
 hld.mett.nl
+innovatiefwerkgeverschap.mett.nl

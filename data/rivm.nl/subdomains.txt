@@ -84,18 +84,12 @@ auth.rivm.nl
 sso-webauth.rivm.nl
 autodiscover.rivm.nl
 beleving.rivm.nl
-informatiehulp.rivm.nl
 signalen.rivm.nl
 bestellingen.rivm.nl
 www.bestellingen.rivm.nl
-hypocrates.rivm.nl
-redirect.rivm.nl
-search.rivm.nl
 www.typened-mrsa.rivm.nl
-caontb.rivm.nl
 tuberculosis.rivm.nl
 www.caontb.rivm.nl
-www.earss.rivm.nl
 www.tuberculosis.rivm.nl
 typened-crmo.rivm.nl
 www.isis.rivm.nl
@@ -180,7 +174,6 @@ mijnsap.rivm.nl
 modellenregister.rivm.nl
 nevo-online.rivm.nl
 nevo.rivm.nl
-nieuwsbrief.rivm.nl
 nivelform.rivm.nl
 nsl-monitoring.rivm.nl
 samenmeten.rivm.nl

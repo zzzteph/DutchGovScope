@@ -287,7 +287,7 @@
 |[https://dpt.rijksapplicaties.nl](https://dpt.rijksapplicaties.nl)| | **E**|nginx| | | | |:warning: | | | :white_check_mark: | |Nginx||
 |[https://sth.rijksapplicaties.nl](https://sth.rijksapplicaties.nl)| | **E**|nginx| | | | |:warning: | | | :white_check_mark: | |Nginx||
 |[https://bda.rijksapplicaties.nl](https://bda.rijksapplicaties.nl)| | **E**|nginx| | | | |:warning: | | | :white_check_mark: | |Nginx||
-|[https://dsa.staging.rijksapplicaties.nl](https://dsa.staging.rijksapplicaties.nl)| | **C**|nginx|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS Microsoft ASP.NET Nginx|DSA (Testomgevin...|
+|[https://dsa.staging.rijksapplicaties.nl](https://dsa.staging.rijksapplicaties.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |HSTS Nginx||
 |[https://stap.rijksapplicaties.nl](https://stap.rijksapplicaties.nl)| | **E**|nginx| | | | |:warning: | | | :white_check_mark: | |Nginx||
 
 

@@ -1,5 +1,6 @@
 http://acceptatie.neorah.nl
 http://www.acceptatie.neorah.nl
 https://www.neorah.nl
+https://host.neorah.nl
 https://neorah.nl
 https://ltfu.neorah.nl

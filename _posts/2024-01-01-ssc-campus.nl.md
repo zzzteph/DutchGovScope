@@ -2,8 +2,8 @@
 layout: default
 title: "ssc-campus.nl"
 permalink: "/dutchgov/ssc-campus.nl.html"
-subdomains_count: 16
-urls_count: 16
+subdomains_count: 17
+urls_count: 17
 ssl_rank: 
 http_rank: C
 security_txt: 7
@@ -25,8 +25,8 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/ssc-campus.nl/subdomains.txt)|16|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/ssc-campus.nl/urls.txt)|16|Urls|
+|[subdomains.txt](/DutchGovScope/data/ssc-campus.nl/subdomains.txt)|17|Alive subdomains|
+|[urls.txt](/DutchGovScope/data/ssc-campus.nl/urls.txt)|17|Urls|
 
 
 ## Statistics
@@ -34,6 +34,7 @@ tags: dutchgov
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
+|[http://acceptatie.ssc-campus.nl](http://acceptatie.ssc-campus.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://b30-micol-a01p.int.ssc-campus.nl](https://b30-micol-a01p.int.ssc-campus.nl)| | **A**|Apache| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS|Redirecting...|
 |[https://connect-mp.ssc-campus.nl](https://connect-mp.ssc-campus.nl)| | **F**|BigIP|:warning: | | | | | :white_check_mark: | | :white_check_mark: | |F5 BigIP||
 |[https://esp.ssc-campus.nl](https://esp.ssc-campus.nl)| | **C**|Apache| |:white_check_mark: | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|Access Gateway|

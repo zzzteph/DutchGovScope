@@ -26,6 +26,7 @@ odcn-acc.jira.odc-noord.nl
 iene-prd.topdesk.odc-noord.nl
 logius-prd.jira.odc-noord.nl
 nfi-prd.topdesk.odc-noord.nl
+vws-prd.jira.odc-noord.nl
 bd-prd.topdesk.odc-noord.nl
 duo-prd.topdesk.odc-noord.nl
 ilt-prd.topdesk.odc-noord.nl

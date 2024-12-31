@@ -11,8 +11,8 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/nwo.nl/subdomains.txt)|21|Alive subdomains|
-|[urls.txt](/data/nwo.nl/urls.txt)|21|Urls|
+|[subdomains.txt](/data/nwo.nl/subdomains.txt)|20|Alive subdomains|
+|[urls.txt](/data/nwo.nl/urls.txt)|20|Urls|
 
 
 ## Statistics
@@ -31,7 +31,6 @@
 |[https://intranet-acc.nwo.nl](https://intranet-acc.nwo.nl)| | **B**|Apache|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS||
 |[https://isaac.nwo.nl](https://isaac.nwo.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
 |[https://www.isaac.nwo.nl](https://www.isaac.nwo.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
-|[https://mailing.nwo.nl](https://mailing.nwo.nl)| | **A**|nginx| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://nwo.nl](https://nwo.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | :white_check_mark: |HSTS|301 Moved Perman...|
 |[https://www.nwo.nl](https://www.nwo.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | :white_check_mark: |Drupal:10 Google Tag Manager HSTS PHP|Homepagina | NWO|
 |[https://nwoi-people.nwo.nl](https://nwoi-people.nwo.nl)| | **A**|Apache/2|:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server:2|307 Temporary Re...|

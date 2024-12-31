@@ -20,7 +20,7 @@
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
+|[http://tst-rds.nl](http://tst-rds.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[http://www.tst-rds.nl](http://www.tst-rds.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
-|[http://admin.tst-rds.nl](http://admin.tst-rds.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 
 

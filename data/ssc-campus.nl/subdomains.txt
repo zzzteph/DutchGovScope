@@ -1,3 +1,4 @@
+acceptatie.ssc-campus.nl
 b30-micol-a01p.int.ssc-campus.nl
 connect-mp.ssc-campus.nl
 esp.ssc-campus.nl

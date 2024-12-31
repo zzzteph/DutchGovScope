@@ -48,6 +48,8 @@ https://archief38.sitearchief.nl
 https://archief39.sitearchief.nl
 https://archief40.sitearchief.nl
 https://ilent.sitearchief.nl
+https://archief41.sitearchief.nl
+https://rivm.sitearchief.nl
 https://archief42.sitearchief.nl
 https://archief43.sitearchief.nl
 https://rvo.sitearchief.nl
@@ -85,6 +87,7 @@ https://niwo.sitearchief.nl
 https://dienstterugkeerenvertrek.sitearchief.nl
 https://cdho.sitearchief.nl
 https://ccmo.sitearchief.nl
+https://raadrvs.sitearchief.nl
 https://raadvoorcultuur.sitearchief.nl
 https://lintjes.sitearchief.nl
 https://kiesraad.sitearchief.nl

@@ -40,6 +40,7 @@ https://mbotransparant.databank.nl
 http://apollo.databank.nl
 http://demo-ebc.databank.nl
 https://ftgelderland.databank.nl
+http://beta-adc.databank.nl
 https://beta-klimaatbeleid.databank.nl
 https://beta-vivet.databank.nl
 https://beta-datawonen.databank.nl
@@ -103,7 +104,6 @@ https://ibw.databank.nl
 https://www.senternovum.databank.nl
 https://www.openbaar.waves.databank.nl
 https://ciz.databank.nl
-https://www.klimaat-monitor.databank.nl
 https://www.arcon.databank.nl
 https://www.kenniscentrumhoreca.databank.nl
 https://www.seer.databank.nl
@@ -148,3 +148,4 @@ https://www.klimaatmnitor.databank.nl
 https://www.inspectie-oe.databank.nl
 https://www.procaros.databank.nl
 https://beta.cbc.databank.nl
+http://waves.databank.nl

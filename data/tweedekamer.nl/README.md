@@ -82,7 +82,7 @@
 |[https://files.tweedekamer.nl](https://files.tweedekamer.nl)| | **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Nginx|403 Forbidden|
 |[https://gegevensmagazijn.tweedekamer.nl](https://gegevensmagazijn.tweedekamer.nl)| | **F**||:o: | | | | :white_check_mark:| | | :white_check_mark: | ||Gegevensmagazijn|
 |[https://werkenbij.test.tweedekamer.nl](https://werkenbij.test.tweedekamer.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|403 Forbidden|
-|[https://houseofrepresentatives.acceptatie.tweedekamer.nl](https://houseofrepresentatives.acceptatie.tweedekamer.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |Basic HSTS|401 Authorizatio...|
+|[https://houseofrepresentatives.acceptatie.tweedekamer.nl](https://houseofrepresentatives.acceptatie.tweedekamer.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|503 Service Temp...|
 |[https://houseofrepresentatives.test.tweedekamer.nl](https://houseofrepresentatives.test.tweedekamer.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |Basic HSTS|401 Authorizatio...|
 |[https://lijstvangevallenen.acceptatie.tweedekamer.nl](https://lijstvangevallenen.acceptatie.tweedekamer.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|403 Forbidden|
 |[https://lijstvangevallenen.test.tweedekamer.nl](https://lijstvangevallenen.test.tweedekamer.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|403 Forbidden|
