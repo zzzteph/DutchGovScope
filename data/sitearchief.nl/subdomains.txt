@@ -75,8 +75,6 @@ douane.sitearchief.nl
 cak.sitearchief.nl
 ciz.sitearchief.nl
 svb.sitearchief.nl
-cbr.sitearchief.nl
-dji.sitearchief.nl
 cpb.sitearchief.nl
 deeplink.sitearchief.nl
 eerstekamer.sitearchief.nl

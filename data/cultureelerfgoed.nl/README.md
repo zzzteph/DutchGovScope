@@ -12,7 +12,7 @@
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/cultureelerfgoed.nl/subdomains.txt)|70|Alive subdomains|
-|[urls.txt](/data/cultureelerfgoed.nl/urls.txt)|70|Urls|
+|[urls.txt](/data/cultureelerfgoed.nl/urls.txt)|69|Urls|
 
 
 ## Statistics
@@ -89,6 +89,5 @@
 |[http://services.cultureelerfgoed.nl](http://services.cultureelerfgoed.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://idselect.cultureelerfgoed.nl](https://idselect.cultureelerfgoed.nl)| | **F**|N.A.| | | | | | | | :white_check_mark: | |HSTS|KIWA register Fo...|
 |[https://preprod.idselect.cultureelerfgoed.nl](https://preprod.idselect.cultureelerfgoed.nl)| | **A**|N.A.| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|foutmelding|
-|[http://prd.archis.cultureelerfgoed.nl](http://prd.archis.cultureelerfgoed.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 
 

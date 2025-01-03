@@ -250,7 +250,7 @@ http://tijdlijnencovid19.rivm.nl
 https://vacatiegelden.rivm.nl
 https://webservice.signalen.osiris.rivm.nl
 https://webservice.soap.osiris.rivm.nl
-http://acceptatie.mgk.osiris.rivm.nl
+https://acceptatie.mgk.osiris.rivm.nl
 https://ivac.rivm.nl
 https://developer.rivm.nl
 https://lsp.rivm.nl

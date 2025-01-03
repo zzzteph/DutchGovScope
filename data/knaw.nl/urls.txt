@@ -465,7 +465,6 @@ https://phpmyadmin.wordpress.dans.knaw.nl
 https://gharvester31.dans.knaw.nl
 https://hi2.huygens.knaw.nl
 https://hi8.huygens.knaw.nl
-https://vangogh-tiles.dev.huc.knaw.nl
 https://ivanticsa01.knaw.nl
 http://tmfiles.knaw.nl
 https://sweb11.dans.knaw.nl
@@ -475,7 +474,6 @@ https://emailsanitizer.labs.dans.knaw.nl
 https://fairaware-api.labs.dans.knaw.nl
 https://galaxy.bioinf.nioo.knaw.nl
 https://metadata-enhancer.labs.dans.knaw.nl
-https://subsite.nioo-acc.knaw.nl
 https://flippinglakes.nioo.knaw.nl
 https://www.nioo.knaw.nl
 https://minioapi2.labs.dans.knaw.nl
@@ -533,3 +531,4 @@ https://type.labs.dans.knaw.nl
 http://goetgevonden.huygens.knaw.nl
 https://backoffice.knaw.nl
 https://www.back2roots.nioo.knaw.nl
+https://gitlab.bioinf.nioo.knaw.nl

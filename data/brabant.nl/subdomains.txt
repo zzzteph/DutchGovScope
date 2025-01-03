@@ -71,7 +71,6 @@ mik-acpt.brabant.nl
 slechtvalk.brabant.nl
 torenvalk.brabant.nl
 videoserver2.brabant.nl
-esb-a1.brabant.nl
 corsa-acpt.brabant.nl
 digicheck.brabant.nl
 blog.brabant.nl

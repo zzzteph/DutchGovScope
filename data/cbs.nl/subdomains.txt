@@ -174,3 +174,7 @@ content1.cbs.nl
 gecko.cbs.nl
 login-databestanden.test.cbs.nl
 beh-iam.acceptatie.cbs.nl
+geodata.cbs.nl
+livecharts.cbs.nl
+iv3-controle.beta.cbs.nl
+beta-iv3-controle.cbs.nl

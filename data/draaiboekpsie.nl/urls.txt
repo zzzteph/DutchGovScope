@@ -1,2 +1,3 @@
 https://draaiboekpsie.nl
 https://www.draaiboekpsie.nl
+http://localhost.draaiboekpsie.nl

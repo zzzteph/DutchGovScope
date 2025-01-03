@@ -3,7 +3,7 @@ layout: default
 title: "toegangtotdeoverheid.nl"
 permalink: "/dutchgov/toegangtotdeoverheid.nl.html"
 subdomains_count: 2
-urls_count: 1
+urls_count: 2
 ssl_rank: 
 http_rank: E
 security_txt: 0
@@ -26,7 +26,7 @@ tags: dutchgov
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/DutchGovScope/data/toegangtotdeoverheid.nl/subdomains.txt)|2|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/toegangtotdeoverheid.nl/urls.txt)|1|Urls|
+|[urls.txt](/DutchGovScope/data/toegangtotdeoverheid.nl/urls.txt)|2|Urls|
 
 
 ## Statistics
@@ -34,6 +34,7 @@ tags: dutchgov
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
+|[http://toegangtotdeoverheid.nl](http://toegangtotdeoverheid.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[http://irma.toegangtotdeoverheid.nl](http://irma.toegangtotdeoverheid.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 
 

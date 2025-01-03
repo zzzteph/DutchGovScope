@@ -6,6 +6,8 @@ mail.veiligheidsregioflevoland.nl
 autodiscover.veiligheidsregioflevoland.nl
 enterpriseenrollment.veiligheidsregioflevoland.nl
 enterpriseregistration.veiligheidsregioflevoland.nl
+audiobooks.veiligheidsregioflevoland.nl
+zuiderzee.veiligheidsregioflevoland.nl
 websoft.veiligheidsregioflevoland.nl
 tribune.veiligheidsregioflevoland.nl
 msoid.veiligheidsregioflevoland.nl

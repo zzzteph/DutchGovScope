@@ -6,13 +6,13 @@
 
  - **SSL Grade**:
  - **HTTP Security Grade**:D
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:108
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:111
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/cbs.nl/subdomains.txt)|176|Alive subdomains|
-|[urls.txt](/data/cbs.nl/urls.txt)|176|Urls|
+|[subdomains.txt](/data/cbs.nl/subdomains.txt)|180|Alive subdomains|
+|[urls.txt](/data/cbs.nl/urls.txt)|180|Urls|
 
 
 ## Statistics
@@ -196,5 +196,9 @@
 |[https://gecko.cbs.nl](https://gecko.cbs.nl)| | **E**|| | | | | | | | :white_check_mark: | ||GECKO|
 |[https://login-databestanden.test.cbs.nl](https://login-databestanden.test.cbs.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Welcome to Keycl...|
 |[https://beh-iam.acceptatie.cbs.nl](https://beh-iam.acceptatie.cbs.nl)| | **C**|Microsoft-IIS/10.0|:warning: |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Bootstrap HSTS IIS:10.0 Microsoft ASP.NET:4.0.30319 Windows Server|Login voor intde...|
+|[https://geodata.cbs.nl](https://geodata.cbs.nl)| | **C**|Microsoft-IIS/10.0| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS IIS:10.0 Windows Server|IIS Windows Serv...|
+|[https://livecharts.cbs.nl](https://livecharts.cbs.nl)| | **F**|nginx/1.20.2| | | | | | | | :white_check_mark: | |Nginx:1.20.2|403 Forbidden|
+|[https://iv3-controle.beta.cbs.nl](https://iv3-controle.beta.cbs.nl)| | **C**|envoy| |:white_check_mark: | | | | | | :white_check_mark: | |Bootstrap Envoy HSTS|Check iv3|
+|[https://beta-iv3-controle.cbs.nl](https://beta-iv3-controle.cbs.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 
 

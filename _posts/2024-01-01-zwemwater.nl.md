@@ -3,7 +3,7 @@ layout: default
 title: "zwemwater.nl"
 permalink: "/dutchgov/zwemwater.nl.html"
 subdomains_count: 47
-urls_count: 41
+urls_count: 47
 ssl_rank: 
 http_rank: E
 security_txt: 8
@@ -26,7 +26,7 @@ tags: dutchgov
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/DutchGovScope/data/zwemwater.nl/subdomains.txt)|47|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/zwemwater.nl/urls.txt)|41|Urls|
+|[urls.txt](/DutchGovScope/data/zwemwater.nl/urls.txt)|47|Urls|
 
 
 ## Statistics
@@ -75,5 +75,11 @@ tags: dutchgov
 |[https://index.aspxwww.zwemwater.nl](https://index.aspxwww.zwemwater.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
 |[https://sumava.zwemwater.nl](https://sumava.zwemwater.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
 |[https://stickers.zwemwater.nl](https://stickers.zwemwater.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
+|[https://botulisme.zwemwater.nl](https://botulisme.zwemwater.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
+|[https://www.gifwijzer.nlwww.crisis.nlwww.zwemwater.nl](https://www.gifwijzer.nlwww.crisis.nlwww.zwemwater.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
+|[https://iswww.zwemwater.nl](https://iswww.zwemwater.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
+|[https://assurances.zwemwater.nl](https://assurances.zwemwater.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
+|[https://opg.zwemwater.nl](https://opg.zwemwater.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
+|[https://easyhome.zwemwater.nl](https://easyhome.zwemwater.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
 
 

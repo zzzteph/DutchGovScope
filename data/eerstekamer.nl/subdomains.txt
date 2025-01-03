@@ -22,3 +22,4 @@ liquit.eerstekamer.nl
 enterpriseenrollment.eerstekamer.nl
 sandbox.redactie.eerstekamer.nl
 lv108675-web01.eerstekamer.nl
+lv108674-redactie01.eerstekamer.nl

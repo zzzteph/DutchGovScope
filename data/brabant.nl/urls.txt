@@ -7,13 +7,13 @@ https://begroting.brabant.nl
 https://bevolkingsprognose.brabant.nl
 https://bevolkingsprognose2020.brabant.nl
 https://blogs.brabant.nl
-https://brabant.nl
-https://brainps.brabant.nl
-https://english.brabant.nl
-https://www.brabant.nl
+http://brabant.nl
+http://brainps.brabant.nl
+http://english.brabant.nl
+http://www.brabant.nl
 https://brains-acc.brabant.nl
 https://brains.brabant.nl
-http://bzv-a.brabant.nl
+https://bzv-a.brabant.nl
 https://bzv.brabant.nl
 https://ondertekenen.brabant.nl
 https://ondertekenentst.brabant.nl
@@ -71,7 +71,6 @@ https://mik-acpt.brabant.nl
 http://slechtvalk.brabant.nl
 http://torenvalk.brabant.nl
 http://videoserver2.brabant.nl
-https://esb-a1.brabant.nl
 https://corsa-acpt.brabant.nl
 https://digicheck.brabant.nl
 https://blog.brabant.nl

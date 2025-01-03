@@ -6,13 +6,13 @@
 
  - **SSL Grade**:
  - **HTTP Security Grade**:A
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:11
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:12
 
 
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/registersocialehygiene.nl/subdomains.txt)|12|Alive subdomains|
-|[urls.txt](/data/registersocialehygiene.nl/urls.txt)|11|Urls|
+|[urls.txt](/data/registersocialehygiene.nl/urls.txt)|12|Urls|
 
 
 ## Statistics
@@ -31,5 +31,6 @@
 |[https://zoeken.registersocialehygiene.nl](https://zoeken.registersocialehygiene.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Publiek|
 |[https://acceptatie.mijn.registersocialehygiene.nl](https://acceptatie.mijn.registersocialehygiene.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://acceptatie.beheer.registersocialehygiene.nl](https://acceptatie.beheer.registersocialehygiene.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
+|[https://beheer.registersocialehygiene.nl](https://beheer.registersocialehygiene.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 
 

@@ -2,7 +2,7 @@
 layout: default
 title: "eerstekamer.nl"
 permalink: "/dutchgov/eerstekamer.nl.html"
-subdomains_count: 24
+subdomains_count: 25
 urls_count: 24
 ssl_rank: 
 http_rank: D
@@ -25,7 +25,7 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/eerstekamer.nl/subdomains.txt)|24|Alive subdomains|
+|[subdomains.txt](/DutchGovScope/data/eerstekamer.nl/subdomains.txt)|25|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/eerstekamer.nl/urls.txt)|24|Urls|
 
 

@@ -5,14 +5,14 @@
 
 
  - **SSL Grade**:
- - **HTTP Security Grade**:C
+ - **HTTP Security Grade**:D
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:0
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/bdmuseum.nl/subdomains.txt)|4|Alive subdomains|
-|[urls.txt](/data/bdmuseum.nl/urls.txt)|4|Urls|
+|[subdomains.txt](/data/bdmuseum.nl/subdomains.txt)|5|Alive subdomains|
+|[urls.txt](/data/bdmuseum.nl/urls.txt)|5|Urls|
 
 
 ## Statistics
@@ -22,7 +22,8 @@
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[https://bdmuseum.nl](https://bdmuseum.nl)| | **A**|LiteSpeed| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS HTTP/3 LiteSpeed|301 Moved Perman...|
 |[https://www.bdmuseum.nl](https://www.bdmuseum.nl)| | **A**|LiteSpeed| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS HTTP/3 LiteSpeed Litespeed Cache MySQL PHP Plesk WPML:4.6.15 WordPress|Belasting & Doua...|
-|[http://tickets.bdmuseum.nl](http://tickets.bdmuseum.nl)| | **F**|cloudflare| | | | | | | | :white_check_mark: | |Cloudflare|301 Moved Perman...|
+|[http://tickets.bdmuseum.nl](http://tickets.bdmuseum.nl)| | **F**|cloudflare| | | | | | | | :white_check_mark: | |Cloudflare HTTP/2|301 Moved Perman...|
+|[https://staging.bdmuseum.nl](https://staging.bdmuseum.nl)| | **E**|LiteSpeed| | | | | | :white_check_mark: | | :white_check_mark: | |HTTP/3 LiteSpeed Litespeed Cache MySQL PHP:7.4.33 WPML:4.6.15 WordPress|Belasting & Doua...|
 |[https://www.staging.bdmuseum.nl](https://www.staging.bdmuseum.nl)| | **F**|LiteSpeed| | | | | | | | :white_check_mark: | |HTTP/3 LiteSpeed Plesk|301 Moved Perman...|
 
 

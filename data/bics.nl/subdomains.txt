@@ -11,4 +11,3 @@ bicsaccweb1.bics.nl
 bicsweb1.bics.nl
 bicsweb3.bics.nl
 acc.bics.nl
-acc-hs.bics.nl

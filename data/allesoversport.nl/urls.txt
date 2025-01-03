@@ -3,4 +3,3 @@ https://auteurs.allesoversport.nl
 https://sportakkoord.allesoversport.nl
 https://www.allesoversport.nl
 https://repo.allesoversport.nl
-http://localhost.allesoversport.nl

@@ -465,7 +465,6 @@ phpmyadmin.wordpress.dans.knaw.nl
 gharvester31.dans.knaw.nl
 hi2.huygens.knaw.nl
 hi8.huygens.knaw.nl
-vangogh-tiles.dev.huc.knaw.nl
 ivanticsa01.knaw.nl
 tmfiles.knaw.nl
 sweb11.dans.knaw.nl
@@ -475,7 +474,6 @@ emailsanitizer.labs.dans.knaw.nl
 fairaware-api.labs.dans.knaw.nl
 galaxy.bioinf.nioo.knaw.nl
 metadata-enhancer.labs.dans.knaw.nl
-subsite.nioo-acc.knaw.nl
 flippinglakes.nioo.knaw.nl
 www.nioo.knaw.nl
 minioapi2.labs.dans.knaw.nl
@@ -520,9 +518,6 @@ tus.labs.dans.knaw.nl
 version-tracker.labs.dans.knaw.nl
 pts31.dans.knaw.nl
 va31.dans.knaw.nl
-gl-skosmos.dev.huc.knaw.nl
-teamcity.dev.huc.knaw.nl
-yasgui.dev.huc.knaw.nl
 uptime.huc.knaw.nl
 zalen.huc.knaw.nl
 goudeneeuwblog.huygens.knaw.nl
@@ -537,3 +532,4 @@ goetgevonden.huygens.knaw.nl
 backoffice.knaw.nl
 www.back2roots.nioo.knaw.nl
 gitlab.bioinf.nioo.knaw.nl
+ats-test.knaw.nl

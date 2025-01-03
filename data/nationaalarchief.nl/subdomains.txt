@@ -37,3 +37,4 @@ localhost.nationaalarchief.nl
 meld.nationaalarchief.nl
 hub3.nationaalarchief.nl
 zvt.nationaalarchief.nl
+gatekeeper.nationaalarchief.nl

@@ -1,2 +1,1 @@
 www.actiemonitoringce.nl
-localhost.actiemonitoringce.nl

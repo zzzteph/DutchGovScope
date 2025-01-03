@@ -3,7 +3,7 @@ layout: default
 title: "rijkscloud.nl"
 permalink: "/dutchgov/rijkscloud.nl.html"
 subdomains_count: 108
-urls_count: 108
+urls_count: 107
 ssl_rank: 
 http_rank: B
 security_txt: 36
@@ -26,7 +26,7 @@ tags: dutchgov
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/DutchGovScope/data/rijkscloud.nl/subdomains.txt)|108|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/rijkscloud.nl/urls.txt)|108|Urls|
+|[urls.txt](/DutchGovScope/data/rijkscloud.nl/urls.txt)|107|Urls|
 
 
 ## Statistics
@@ -100,7 +100,7 @@ tags: dutchgov
 |[https://stats.duo.rijkscloud.nl](https://stats.duo.rijkscloud.nl)| | **B**|Apache|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |AngularJS Apache HTTP Server HSTS Matomo Analytics|Sign in - Matomo|
 |[https://status.rijkscloud.nl](https://status.rijkscloud.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| | :white_check_mark: | :white_check_mark: | |Bootstrap:3.4.1 HSTS|ODCN Status page|
 |[https://uno.dfront.rijkscloud.nl](https://uno.dfront.rijkscloud.nl)| | **C**|Apache| |:white_check_mark: | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|Uno Documentatie|
-|[https://datatool.datafabriek.ienw.rijkscloud.nl](https://datatool.datafabriek.ienw.rijkscloud.nl)| | **C**|gunicorn|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS Python gunicorn||
+|[https://datatool.datafabriek.ienw.rijkscloud.nl](https://datatool.datafabriek.ienw.rijkscloud.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS Python gunicorn||
 |[https://minio.datafabriek.ienw.rijkscloud.nl](https://minio.datafabriek.ienw.rijkscloud.nl)| | **A**|MinIO Console| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|MinIO Console|
 |[https://datadrop.datafabriek.ienw.rijkscloud.nl](https://datadrop.datafabriek.ienw.rijkscloud.nl)| | **C**|gunicorn|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS Python gunicorn||
 |[https://api.dbe-t.rvb.rijkscloud.nl](https://api.dbe-t.rvb.rijkscloud.nl)| | **E**|| | | | | | | | :white_check_mark: | ||| (503)|
@@ -133,7 +133,6 @@ tags: dutchgov
 |[https://pw.rvb.rijkscloud.nl](https://pw.rvb.rijkscloud.nl)| | **A**|Apache|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Apache HTTP Server HSTS Nextcloud PHP||
 |[https://www.rijkscloud.nl](https://www.rijkscloud.nl)| | **C**|Apache| |:white_check_mark: | | | | | | :white_check_mark: | |Apache HTTP Server HSTS||
 |[https://rstudio.kim.rijkscloud.nl](https://rstudio.kim.rijkscloud.nl)| | **C**|RStudio| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
-|[https://rstudio.vcloud.ix.rijkscloud.nl](https://rstudio.vcloud.ix.rijkscloud.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://dbe-t.rvb.rijkscloud.nl](https://dbe-t.rvb.rijkscloud.nl)| | **E**|| | | | | | | | :white_check_mark: | ||| (503)|
 |[https://images.analyse.ilt.rijkscloud.nl](https://images.analyse.ilt.rijkscloud.nl)| | **C**|Apache| |:white_check_mark: | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|403 Forbidden|
 |[https://registry.gitlab.analyse.ilt.rijkscloud.nl](https://registry.gitlab.analyse.ilt.rijkscloud.nl)| | **C**|Apache| |:white_check_mark: | | | | | | :white_check_mark: | |Apache HTTP Server HSTS||

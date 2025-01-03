@@ -12,7 +12,7 @@ https://course-api.schiphol-lms.trainingscatalogus.nl
 https://enrollment-api.schiphol-lms.trainingscatalogus.nl
 https://product-api.schiphol-lms.trainingscatalogus.nl
 https://ivorechtspraak-lms-a.scim-api.trainingscatalogus.nl
-http://product-api.schiphol-lms-t.trainingscatalogus.nl
+https://product-api.schiphol-lms-t.trainingscatalogus.nl
 https://radio.trainingscatalogus.nl
 https://vgz-lms.course-api.trainingscatalogus.nl
 https://vgz-lms.enrollment-api.trainingscatalogus.nl
@@ -22,6 +22,7 @@ https://svb-lms-a.scim-api.trainingscatalogus.nl
 https://trainingscatalogus.nl
 https://vgz-lms-a.course-api.trainingscatalogus.nl
 https://vgz-lms-a.enrollment-api.trainingscatalogus.nl
+https://vgz-lms-a.scim-api.trainingscatalogus.nl
 https://lms-conclusion.trainingscatalogus.nl
 https://buzaleeromgeving.trainingscatalogus.nl
 https://clc.trainingscatalogus.nl
@@ -82,7 +83,7 @@ https://lms-svb.trainingscatalogus.nl
 https://lms-tennet.trainingscatalogus.nl
 https://senzer.trainingscatalogus.nl
 https://alliander-lms-t.enrollment-api.trainingscatalogus.nl
-http://alliander-lms-t.product-api.trainingscatalogus.nl
+https://alliander-lms-t.product-api.trainingscatalogus.nl
 https://lms-belastingdienst.trainingscatalogus.nl
 https://lms-apg.trainingscatalogus.nl
 https://buza.trainingscatalogus.nl

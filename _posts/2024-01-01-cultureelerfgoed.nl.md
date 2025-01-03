@@ -3,7 +3,7 @@ layout: default
 title: "cultureelerfgoed.nl"
 permalink: "/dutchgov/cultureelerfgoed.nl.html"
 subdomains_count: 70
-urls_count: 70
+urls_count: 69
 ssl_rank: 
 http_rank: B
 security_txt: 28
@@ -26,7 +26,7 @@ tags: dutchgov
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/DutchGovScope/data/cultureelerfgoed.nl/subdomains.txt)|70|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/cultureelerfgoed.nl/urls.txt)|70|Urls|
+|[urls.txt](/DutchGovScope/data/cultureelerfgoed.nl/urls.txt)|69|Urls|
 
 
 ## Statistics
@@ -103,6 +103,5 @@ tags: dutchgov
 |[http://services.cultureelerfgoed.nl](http://services.cultureelerfgoed.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://idselect.cultureelerfgoed.nl](https://idselect.cultureelerfgoed.nl)| | **F**|N.A.| | | | | | | | :white_check_mark: | |HSTS|KIWA register Fo...|
 |[https://preprod.idselect.cultureelerfgoed.nl](https://preprod.idselect.cultureelerfgoed.nl)| | **A**|N.A.| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|foutmelding|
-|[http://prd.archis.cultureelerfgoed.nl](http://prd.archis.cultureelerfgoed.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 
 

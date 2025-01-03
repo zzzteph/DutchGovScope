@@ -24,7 +24,9 @@ https://geoportal.odmh.nl
 https://documenten.odmh.nl
 https://geoportaal.odmh.nl
 http://autodiscover.odmh.nl
+https://vpn.odmh.nl
 https://mobielwerken.odmh.nl
+https://rdsgateway.odmh.nl
 http://rdweb.odmh.nl
 https://smtp.odmh.nl
 https://pow.odmh.nl

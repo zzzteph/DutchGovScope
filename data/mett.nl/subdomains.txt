@@ -177,7 +177,6 @@ drontenikpraatmee.mett.nl
 mirta2deilvught.mett.nl
 samenshertogenbosch.mett.nl
 scheldedelta.mett.nl
-rene.mett.nl
 kcs.mett.nl
 security.mett.nl
 status.mett.nl
@@ -216,3 +215,5 @@ restwente.mett.nl
 linnean.mett.nl
 hld.mett.nl
 innovatiefwerkgeverschap.mett.nl
+pom.mett.nl
+websiterudzuidlimburg.mett.nl
