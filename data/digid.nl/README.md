@@ -11,7 +11,7 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/digid.nl/subdomains.txt)|40|Alive subdomains|
+|[subdomains.txt](/data/digid.nl/subdomains.txt)|41|Alive subdomains|
 |[urls.txt](/data/digid.nl/urls.txt)|40|Urls|
 
 

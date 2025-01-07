@@ -5,8 +5,8 @@ permalink: "/dutchgov/eerstekamer.nl.html"
 subdomains_count: 25
 urls_count: 24
 ssl_rank: 
-http_rank: D
-security_txt: 9
+http_rank: C
+security_txt: 10
 url_link: /data/eerstekamer.nl/urls.txt
 subdomains_link: /data/eerstekamer.nl/subdomains.txt
 categories: dutchgov
@@ -19,8 +19,8 @@ tags: dutchgov
 
 
  - **SSL Grade**:
- - **HTTP Security Grade**:D
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:9
+ - **HTTP Security Grade**:C
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:10
 
 
 | File       | Count | Info |
@@ -56,7 +56,7 @@ tags: dutchgov
 |[https://piwik.eerstekamer.nl](https://piwik.eerstekamer.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS|Not Found|
 |[https://liquit.eerstekamer.nl](https://liquit.eerstekamer.nl)| | **E**|| | | | | | | | :white_check_mark: | |Bootstrap:4|Liquit Workspace|
 |[https://enterpriseenrollment.eerstekamer.nl](https://enterpriseenrollment.eerstekamer.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||
-|[https://sandbox.redactie.eerstekamer.nl](https://sandbox.redactie.eerstekamer.nl)| | **F**||:warning: | | | | | | | :white_check_mark: | ||403 Forbidden|
+|[https://sandbox.redactie.eerstekamer.nl](https://sandbox.redactie.eerstekamer.nl)| | **B**|| | | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | ||Moved|
 |[https://lv108675-web01.eerstekamer.nl](https://lv108675-web01.eerstekamer.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS|Not Found|
 
 

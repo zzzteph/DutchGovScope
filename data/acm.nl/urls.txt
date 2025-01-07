@@ -22,3 +22,4 @@ https://enterpriseregistration.acm.nl
 https://mijn-acc.acm.nl
 https://mijn-tst.acm.nl
 https://mbg.acm.nl
+https://dev.connect.acm.nl

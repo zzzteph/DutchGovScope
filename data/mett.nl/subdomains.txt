@@ -4,7 +4,6 @@ www.mett.nl
 pilotnudging.mett.nl
 gelijkekansens-hertogenbosch.mett.nl
 gebiedsplannenmoerdijk.mett.nl
-waterpleinvelletri.mett.nl
 winnovatie.mett.nl
 grootsaeftinghe.mett.nl
 nieuwsienw.mett.nl
@@ -81,9 +80,6 @@ voorneputten.mett.nl
 nimeto.mett.nl
 participatieuithoorn.mett.nl
 energiekmaasgouw.mett.nl
-circularfestivals.mett.nl
-rps.mett.nl
-resmiddenholland.mett.nl
 stadswerk.mett.nl
 markermeerijmeer.mett.nl
 doemeedordrecht.mett.nl
@@ -101,7 +97,6 @@ ggagroenblauw.mett.nl
 ikdenkmeeoveruitgeest.mett.nl
 lcnk.mett.nl
 zichtopnl.mett.nl
-pas.mett.nl
 halderberge.mett.nl
 helpdesk.mett.nl
 dejongeakademie.mett.nl
@@ -123,7 +118,6 @@ startandgo.mett.nl
 academy.mett.nl
 nlzve.mett.nl
 kersenweideodijk.mett.nl
-blueskygroup.mett.nl
 samenhaaksbergen.mett.nl
 bio-enerco.mett.nl
 akademievankunsten.mett.nl
@@ -172,7 +166,6 @@ demointranet.mett.nl
 erfgoedalliantie.mett.nl
 udi.mett.nl
 anna.mett.nl
-soest.mett.nl
 drontenikpraatmee.mett.nl
 mirta2deilvught.mett.nl
 samenshertogenbosch.mett.nl
@@ -213,7 +206,6 @@ knhm.mett.nl
 sociaaldomeinnoordholland.mett.nl
 restwente.mett.nl
 linnean.mett.nl
-hld.mett.nl
 innovatiefwerkgeverschap.mett.nl
 pom.mett.nl
 websiterudzuidlimburg.mett.nl

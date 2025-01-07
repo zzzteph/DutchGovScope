@@ -13,3 +13,4 @@ https://survey-cache.platformrijksoverheid.nl
 https://survey-deploy.platformrijksoverheid.nl
 https://survey-metrics.platformrijksoverheid.nl
 https://survey.platformrijksoverheid.nl
+https://survey-debug.platformrijksoverheid.nl

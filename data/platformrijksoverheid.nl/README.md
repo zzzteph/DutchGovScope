@@ -12,7 +12,7 @@
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/platformrijksoverheid.nl/subdomains.txt)|16|Alive subdomains|
-|[urls.txt](/data/platformrijksoverheid.nl/urls.txt)|15|Urls|
+|[urls.txt](/data/platformrijksoverheid.nl/urls.txt)|16|Urls|
 
 
 ## Statistics
@@ -35,5 +35,6 @@
 |[https://survey-deploy.platformrijksoverheid.nl](https://survey-deploy.platformrijksoverheid.nl)| | **B**|nginx| |:white_check_mark: | :warning:| | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Amazon CloudFront Amazon Web Services HSTS Nginx||
 |[https://survey-metrics.platformrijksoverheid.nl](https://survey-metrics.platformrijksoverheid.nl)| | **D**|gunicorn| |:white_check_mark: | :warning:| | | | | :white_check_mark: | |HSTS Python gunicorn||
 |[https://survey.platformrijksoverheid.nl](https://survey.platformrijksoverheid.nl)| | **C**|nginx| |:white_check_mark: | :warning:| | | | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
+|[https://survey-debug.platformrijksoverheid.nl](https://survey-debug.platformrijksoverheid.nl)| | **B**|nginx| |:white_check_mark: | :warning:| | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 
 

@@ -2,10 +2,10 @@
 layout: default
 title: "registerexterneveiligheid.nl"
 permalink: "/dutchgov/registerexterneveiligheid.nl.html"
-subdomains_count: 4
-urls_count: 4
+subdomains_count: 3
+urls_count: 3
 ssl_rank: 
-http_rank: C
+http_rank: B
 security_txt: 2
 url_link: /data/registerexterneveiligheid.nl/urls.txt
 subdomains_link: /data/registerexterneveiligheid.nl/subdomains.txt
@@ -19,14 +19,14 @@ tags: dutchgov
 
 
  - **SSL Grade**:
- - **HTTP Security Grade**:C
+ - **HTTP Security Grade**:B
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:2
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/registerexterneveiligheid.nl/subdomains.txt)|4|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/registerexterneveiligheid.nl/urls.txt)|4|Urls|
+|[subdomains.txt](/DutchGovScope/data/registerexterneveiligheid.nl/subdomains.txt)|3|Alive subdomains|
+|[urls.txt](/DutchGovScope/data/registerexterneveiligheid.nl/urls.txt)|3|Urls|
 
 
 ## Statistics
@@ -37,6 +37,5 @@ tags: dutchgov
 |[http://acceptatie.registerexterneveiligheid.nl](http://acceptatie.registerexterneveiligheid.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://registerexterneveiligheid.nl](https://registerexterneveiligheid.nl)| | **A**|Apache| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS|301 Moved Perman...|
 |[https://www.registerexterneveiligheid.nl](https://www.registerexterneveiligheid.nl)| | **A**|Apache| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server Drupal HSTS PHP SDL Tridion|Register Externe...|
-|[http://localhost.registerexterneveiligheid.nl](http://localhost.registerexterneveiligheid.nl)| | **F**|nginx|:o: | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Laravel Nginx PHP|Weakpass|
 
 

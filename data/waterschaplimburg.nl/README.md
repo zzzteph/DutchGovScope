@@ -6,12 +6,12 @@
 
  - **SSL Grade**:
  - **HTTP Security Grade**:C
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:7
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:9
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/waterschaplimburg.nl/subdomains.txt)|33|Alive subdomains|
+|[subdomains.txt](/data/waterschaplimburg.nl/subdomains.txt)|35|Alive subdomains|
 |[urls.txt](/data/waterschaplimburg.nl/urls.txt)|33|Urls|
 
 
@@ -50,8 +50,8 @@
 |[https://werkplek.waterschaplimburg.nl](https://werkplek.waterschaplimburg.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Microsoft ASP.NET||
 |[http://verhuisbedrijven.waterschaplimburg.nl](http://verhuisbedrijven.waterschaplimburg.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
 |[http://publicaffairs.waterschaplimburg.nl](http://publicaffairs.waterschaplimburg.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
-|[http://castaways.waterschaplimburg.nl](http://castaways.waterschaplimburg.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
-|[http://mx04.waterschaplimburg.nl](http://mx04.waterschaplimburg.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
+|[http://castaways.waterschaplimburg.nl](http://castaways.waterschaplimburg.nl)| | **D**|| | | | | | :white_check_mark: | | :white_check_mark: | |Microsoft HTTPAPI:2.0||
+|[http://mx04.waterschaplimburg.nl](http://mx04.waterschaplimburg.nl)| | **D**|| | | | | | :white_check_mark: | | :white_check_mark: | |Microsoft HTTPAPI:2.0||
 |[http://bron.waterschaplimburg.nl](http://bron.waterschaplimburg.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
 
 

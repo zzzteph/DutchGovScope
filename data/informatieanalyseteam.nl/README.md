@@ -11,7 +11,7 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/informatieanalyseteam.nl/subdomains.txt)|0|Alive subdomains|
+|[subdomains.txt](/data/informatieanalyseteam.nl/subdomains.txt)|3|Alive subdomains|
 |[urls.txt](/data/informatieanalyseteam.nl/urls.txt)|0|Urls|
 
 

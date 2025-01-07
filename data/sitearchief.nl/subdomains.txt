@@ -105,7 +105,6 @@ aivd.sitearchief.nl
 justid.sitearchief.nl
 abx04.sitearchief.nl
 abx05.sitearchief.nl
-archief60.sitearchief.nl
 schadefonds.sitearchief.nl
 kabinetkoning.sitearchief.nl
 abx03.sitearchief.nl
@@ -119,6 +118,7 @@ dopingautoriteit.sitearchief.nl
 politieacademie.sitearchief.nl
 diensttoeslagen.sitearchief.nl
 nationaleombudsman.sitearchief.nl
+minbuza.sitearchief.nl
 awti.sitearchief.nl
 dienstuitvoeringonderwijs.sitearchief.nl
 staatsbosbeheer.sitearchief.nl

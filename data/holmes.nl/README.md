@@ -12,7 +12,7 @@
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/holmes.nl/subdomains.txt)|13|Alive subdomains|
-|[urls.txt](/data/holmes.nl/urls.txt)|11|Urls|
+|[urls.txt](/data/holmes.nl/urls.txt)|13|Urls|
 
 
 ## Statistics
@@ -31,5 +31,7 @@
 |[https://downloads.holmes.nl](https://downloads.holmes.nl)| | **C**|Apache| |:white_check_mark: | | | | | | :white_check_mark: | |Apache HTTP Server Basic HSTS|401 Unauthorized|
 |[https://www.holmes.nl](https://www.holmes.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Nginx|302 Found|
 |[https://holmes.nl](https://holmes.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
+|[http://dfaas-proxy-02.holmes.nl](http://dfaas-proxy-02.holmes.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
+|[http://dfaas-proxy.holmes.nl](http://dfaas-proxy.holmes.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 
 

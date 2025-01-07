@@ -3,7 +3,7 @@ layout: default
 title: "rijksapplicaties.nl"
 permalink: "/dutchgov/rijksapplicaties.nl.html"
 subdomains_count: 270
-urls_count: 269
+urls_count: 270
 ssl_rank: 
 http_rank: C
 security_txt: 261
@@ -26,7 +26,7 @@ tags: dutchgov
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/DutchGovScope/data/rijksapplicaties.nl/subdomains.txt)|270|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/rijksapplicaties.nl/urls.txt)|269|Urls|
+|[urls.txt](/DutchGovScope/data/rijksapplicaties.nl/urls.txt)|270|Urls|
 
 
 ## Statistics
@@ -303,5 +303,6 @@ tags: dutchgov
 |[https://bda.rijksapplicaties.nl](https://bda.rijksapplicaties.nl)| | **E**|nginx| | | | |:warning: | | | :white_check_mark: | |Nginx||
 |[https://dsa.staging.rijksapplicaties.nl](https://dsa.staging.rijksapplicaties.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |HSTS Nginx||
 |[https://stap.rijksapplicaties.nl](https://stap.rijksapplicaties.nl)| | **E**|nginx| | | | |:warning: | | | :white_check_mark: | |Nginx||
+|[http://wpo-webservice.rijksapplicaties.nl](http://wpo-webservice.rijksapplicaties.nl)| | **E**|| | | | | | | | :white_check_mark: | ||302 Found|
 
 

@@ -11,7 +11,7 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/duo.nl/subdomains.txt)|30|Alive subdomains|
+|[subdomains.txt](/data/duo.nl/subdomains.txt)|23|Alive subdomains|
 |[urls.txt](/data/duo.nl/urls.txt)|23|Urls|
 
 

@@ -97,7 +97,6 @@ portal118.rijkscloud.nl
 pw.rvb.rijkscloud.nl
 www.rijkscloud.nl
 rstudio.kim.rijkscloud.nl
-rstudio.vcloud.ix.rijkscloud.nl
 dbe-t.rvb.rijkscloud.nl
 images.analyse.ilt.rijkscloud.nl
 registry.gitlab.analyse.ilt.rijkscloud.nl

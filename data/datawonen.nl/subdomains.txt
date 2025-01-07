@@ -9,6 +9,4 @@ kaarten.datawonen.nl
 syswov.datawonen.nl
 vois.datawonen.nl
 www.datawonen.nl
-dfg.datawonen.nl
-mn.datawonen.nl
 pwik.datawonen.nl

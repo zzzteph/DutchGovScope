@@ -105,7 +105,6 @@ https://www.werken.belastingdienst.nl
 https://wwwfcinetorg.belastingdienst.nl
 https://connectpeople.belastingdienst.nl
 https://opleiding-ola.belastingdienst.nl
-https://pih.belastingdienst.nl
 https://pmm.belastingdienst.nl
 http://pwa001.belastingdienst.nl
 http://samenwerkruimten.belastingdienst.nl

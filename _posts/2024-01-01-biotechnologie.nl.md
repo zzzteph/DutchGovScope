@@ -2,8 +2,8 @@
 layout: default
 title: "biotechnologie.nl"
 permalink: "/dutchgov/biotechnologie.nl.html"
-subdomains_count: 7
-urls_count: 7
+subdomains_count: 6
+urls_count: 6
 ssl_rank: 
 http_rank: B
 security_txt: 2
@@ -25,8 +25,8 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/biotechnologie.nl/subdomains.txt)|7|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/biotechnologie.nl/urls.txt)|7|Urls|
+|[subdomains.txt](/DutchGovScope/data/biotechnologie.nl/subdomains.txt)|6|Alive subdomains|
+|[urls.txt](/DutchGovScope/data/biotechnologie.nl/urls.txt)|6|Urls|
 
 
 ## Statistics
@@ -36,7 +36,6 @@ tags: dutchgov
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[https://biotechnologie.nl](https://biotechnologie.nl)| | **A**|cloudflare| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Cloudflare HSTS HTTP/3|301 Moved Perman...|
 |[https://www.biotechnologie.nl](https://www.biotechnologie.nl)| | **A**|cloudflare| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Cloudflare HSTS HTTP/3 MySQL PHP WordPress Yoast SEO:24.0|Home - Biotechno...|
-|[https://autodiscover.biotechnologie.nl](https://autodiscover.biotechnologie.nl)| | **B**|cloudflare| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Cloudflare HSTS HTTP/3||
 |[https://enterpriseenrollment.biotechnologie.nl](https://enterpriseenrollment.biotechnologie.nl)| | **F**|cloudflare| | | | | | | | :white_check_mark: | |Cloudflare HSTS HTTP/3||
 |[https://enterpriseregistration.biotechnologie.nl](https://enterpriseregistration.biotechnologie.nl)| | **C**|cloudflare| |:white_check_mark: | | | | | | :white_check_mark: | |Cloudflare HSTS HTTP/3||
 |[https://lyncdiscover.biotechnologie.nl](https://lyncdiscover.biotechnologie.nl)| | **B**|cloudflare| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Cloudflare HSTS HTTP/3||

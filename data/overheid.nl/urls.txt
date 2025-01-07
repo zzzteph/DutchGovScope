@@ -33,7 +33,6 @@ https://gegevensdelen.preprod.mijn.overheid.nl
 https://artifact-rd1.toegang.overheid.nl
 https://bag.basisregistraties.overheid.nl
 https://bag.test.basisregistraties.overheid.nl
-https://bag2.basisregistraties.overheid.nl
 https://beheerportaal.acc.omgevingswet.overheid.nl
 https://iknowcimow.omgevingswet.overheid.nl
 https://www.pre.omgevingswet.overheid.nl
@@ -309,3 +308,4 @@ https://autodiscover.overheid.nl
 http://ref.omgevingswet.overheid.nl
 https://repository-preprod.overheid.nl
 https://lvbb-lto.overheid.nl
+http://developer.omgevingswet.overheid.nl

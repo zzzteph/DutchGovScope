@@ -59,11 +59,11 @@ planoview.provincie-utrecht.nl
 ruimtelijkeplannen.provincie-utrecht.nl
 ruimtelijkeplannenintern.provincie-utrecht.nl
 sap-crm.provincie-utrecht.nl
+search-a.provincie-utrecht.nl
 search.provincie-utrecht.nl
 slechtvalk.provincie-utrecht.nl
 sslvpn-hth.provincie-utrecht.nl
 sslvpn.provincie-utrecht.nl
-stateninformatie.provincie-utrecht.nl
 www.stateninformatie.provincie-utrecht.nl
 tramdashboard.provincie-utrecht.nl
 vctu-api.provincie-utrecht.nl
@@ -80,13 +80,11 @@ login.provincie-utrecht.nl
 wortel174.provincie-utrecht.nl
 socialintranet-acc.provincie-utrecht.nl
 socialintranet.provincie-utrecht.nl
-monitoromgevingsbeleid.provincie-utrecht.nl
 omgevingsbeleid.provincie-utrecht.nl
 iapp.provincie-utrecht.nl
 rmb.provincie-utrecht.nl
 govroam.provincie-utrecht.nl
 mfa.provincie-utrecht.nl
-localhost.provincie-utrecht.nl
 autodiscover.provincie-utrecht.nl
 burgemeesters.provincie-utrecht.nl
 ris.provincie-utrecht.nl

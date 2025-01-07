@@ -2,7 +2,7 @@
 layout: default
 title: "informatieanalyseteam.nl"
 permalink: "/dutchgov/informatieanalyseteam.nl.html"
-subdomains_count: 0
+subdomains_count: 3
 urls_count: 0
 ssl_rank: 
 http_rank: F
@@ -25,7 +25,7 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/informatieanalyseteam.nl/subdomains.txt)|0|Alive subdomains|
+|[subdomains.txt](/DutchGovScope/data/informatieanalyseteam.nl/subdomains.txt)|3|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/informatieanalyseteam.nl/urls.txt)|0|Urls|
 
 

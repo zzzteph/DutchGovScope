@@ -11,8 +11,8 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/noord-holland.nl/subdomains.txt)|65|Alive subdomains|
-|[urls.txt](/data/noord-holland.nl/urls.txt)|65|Urls|
+|[subdomains.txt](/data/noord-holland.nl/subdomains.txt)|63|Alive subdomains|
+|[urls.txt](/data/noord-holland.nl/urls.txt)|63|Urls|
 
 
 ## Statistics
@@ -32,8 +32,6 @@
 |[https://datalab.noord-holland.nl](https://datalab.noord-holland.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |D3 HSTS NVD3 Nginx|Dataiku|
 |[https://bestanden.noord-holland.nl](https://bestanden.noord-holland.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS||
 |[https://cijfers.noord-holland.nl](https://cijfers.noord-holland.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Amazon S3 Amazon Web Services Azure Edge Network HSTS Microsoft ASP.NET MyFonts|Brede Basismonit...|
-|[https://dataiku.noord-holland.nl](https://dataiku.noord-holland.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |D3 HSTS NVD3 Nginx|Dataiku|
-|[https://design-node.datalab-prod.aws.noord-holland.nl](https://design-node.datalab-prod.aws.noord-holland.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |D3 HSTS NVD3 Nginx|Dataiku|
 |[https://eidbroker-pre.noord-holland.nl](https://eidbroker-pre.noord-holland.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
 |[https://eidbroker.noord-holland.nl](https://eidbroker.noord-holland.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
 |[http://ep.noord-holland.nl](http://ep.noord-holland.nl)| | **E**|| | | | | | | | :white_check_mark: | |||

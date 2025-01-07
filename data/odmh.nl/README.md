@@ -11,8 +11,8 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/odmh.nl/subdomains.txt)|39|Alive subdomains|
-|[urls.txt](/data/odmh.nl/urls.txt)|38|Urls|
+|[subdomains.txt](/data/odmh.nl/subdomains.txt)|38|Alive subdomains|
+|[urls.txt](/data/odmh.nl/urls.txt)|37|Urls|
 
 
 ## Statistics
@@ -49,7 +49,6 @@
 |[https://vpn.odmh.nl](https://vpn.odmh.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|403 Forbidden|
 |[https://mobielwerken.odmh.nl](https://mobielwerken.odmh.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|403 Forbidden|
 |[https://rdsgateway.odmh.nl](https://rdsgateway.odmh.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|503 Service Unav...|
-|[http://rdweb.odmh.nl](http://rdweb.odmh.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|301 Moved Perman...|
 |[https://smtp.odmh.nl](https://smtp.odmh.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|403 Forbidden|
 |[https://pow.odmh.nl](https://pow.odmh.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server Microsoft ASP.NET SPNEGO|401 - Unauthoriz...|
 |[https://publicaties.odmh.nl](https://publicaties.odmh.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|403 Forbidden|

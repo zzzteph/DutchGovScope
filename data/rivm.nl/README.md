@@ -6,13 +6,13 @@
 
  - **SSL Grade**:
  - **HTTP Security Grade**:C
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:77
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:82
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/rivm.nl/subdomains.txt)|258|Alive subdomains|
-|[urls.txt](/data/rivm.nl/urls.txt)|258|Urls|
+|[subdomains.txt](/data/rivm.nl/subdomains.txt)|265|Alive subdomains|
+|[urls.txt](/data/rivm.nl/urls.txt)|265|Urls|
 
 
 ## Statistics
@@ -106,12 +106,18 @@
 |[https://sso-webauth.rivm.nl](https://sso-webauth.rivm.nl)| | **F**|BigIP| | | | | | | | :white_check_mark: | |F5 BigIP HSTS||
 |[https://autodiscover.rivm.nl](https://autodiscover.rivm.nl)| | **A**|Microsoft-IIS/10.0| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS IIS:10.0 Windows Server||
 |[https://beleving.rivm.nl](https://beleving.rivm.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |HSTS Nginx|Mendix|
+|[https://informatiehulp.rivm.nl](https://informatiehulp.rivm.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |HSTS Nginx|Nonexistent (503...|
 |[https://signalen.rivm.nl](https://signalen.rivm.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |HSTS Nginx|Syrinx|
 |[https://bestellingen.rivm.nl](https://bestellingen.rivm.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |||
 |[http://www.bestellingen.rivm.nl](http://www.bestellingen.rivm.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
+|[http://hypocrates.rivm.nl](http://hypocrates.rivm.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |||
+|[http://redirect.rivm.nl](http://redirect.rivm.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |||
+|[http://search.rivm.nl](http://search.rivm.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |||
 |[http://www.typened-mrsa.rivm.nl](http://www.typened-mrsa.rivm.nl)| | **C**||:warning: |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | |||
+|[http://caontb.rivm.nl](http://caontb.rivm.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |||
 |[http://tuberculosis.rivm.nl](http://tuberculosis.rivm.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |||
 |[http://www.caontb.rivm.nl](http://www.caontb.rivm.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |||
+|[http://www.earss.rivm.nl](http://www.earss.rivm.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |||
 |[http://www.tuberculosis.rivm.nl](http://www.tuberculosis.rivm.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |||
 |[http://typened-crmo.rivm.nl](http://typened-crmo.rivm.nl)| | **C**||:warning: |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | |||
 |[http://www.isis.rivm.nl](http://www.isis.rivm.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |||
@@ -196,6 +202,7 @@
 |[https://modellenregister.rivm.nl](https://modellenregister.rivm.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |HSTS Nginx|403 Forbidden|
 |[https://nevo-online.rivm.nl](https://nevo-online.rivm.nl)| | **C**|Microsoft-IIS/10.0|:warning: |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | |Bootstrap:4 HSTS IIS:10.0 Microsoft ASP.NET Windows Server|Nederlands Voedi...|
 |[https://nevo.rivm.nl](https://nevo.rivm.nl)| | **C**|Microsoft-IIS/10.0|:warning: |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | |Bootstrap:4 HSTS IIS:10.0 Microsoft ASP.NET Windows Server|Nederlands Voedi...|
+|[https://nieuwsbrief.rivm.nl](https://nieuwsbrief.rivm.nl)| | **A**|nginx| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[http://nivelform.rivm.nl](http://nivelform.rivm.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://nsl-monitoring.rivm.nl](https://nsl-monitoring.rivm.nl)| | **A**|Apache/2.4.6 (Red Hat Enterprise Linux) OpenSSL/1.0.2k-fips PHP/5.4.16| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server:2.4.6 HSTS OpenSSL:1.0.2k PHP:5.4.16 Red Hat|302 Found|
 |[https://samenmeten.rivm.nl](https://samenmeten.rivm.nl)| | **B**|Apache/2.4.6 (Red Hat Enterprise Linux) OpenSSL/1.0.2k-fips PHP/5.4.16| |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | |Apache HTTP Server:2.4.6 HSTS OpenSSL:1.0.2k PHP:5.4.16 Red Hat||

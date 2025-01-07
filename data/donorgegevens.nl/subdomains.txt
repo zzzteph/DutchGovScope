@@ -1,6 +1,5 @@
 aanvraag.donorgegevens.nl
 acceptatie.aanvraag.donorgegevens.nl
-acceptatie.behandel.donorgegevens.nl
 behandel.donorgegevens.nl
 donorgegevens.nl
 feeds.donorgegevens.nl

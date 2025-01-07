@@ -11,8 +11,8 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/brabant.nl/subdomains.txt)|86|Alive subdomains|
-|[urls.txt](/data/brabant.nl/urls.txt)|86|Urls|
+|[subdomains.txt](/data/brabant.nl/subdomains.txt)|87|Alive subdomains|
+|[urls.txt](/data/brabant.nl/urls.txt)|87|Urls|
 
 
 ## Statistics
@@ -93,6 +93,7 @@
 |[http://slechtvalk.brabant.nl](http://slechtvalk.brabant.nl)| | **F**|BigIP| | | | | | | | :white_check_mark: | |F5 BigIP||
 |[http://torenvalk.brabant.nl](http://torenvalk.brabant.nl)| | **F**|BigIP| | | | | | | | :white_check_mark: | |F5 BigIP||
 |[http://videoserver2.brabant.nl](http://videoserver2.brabant.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Index page|
+|[https://esb-a1.brabant.nl](https://esb-a1.brabant.nl)| | **F**|Microsoft-Azure-Application-Gateway/v2| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|502 Bad Gateway|
 |[https://corsa-acpt.brabant.nl](https://corsa-acpt.brabant.nl)| | **F**|Microsoft-IIS/10.0| | | | | | | | :white_check_mark: | |IIS:10.0 Windows Server|IIS Redirect|
 |[https://digicheck.brabant.nl](https://digicheck.brabant.nl)| | **C**||:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | |Google Tag Manager HSTS Microsoft ASP.NET|Login|
 |[https://blog.brabant.nl](https://blog.brabant.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|This is the defa...|

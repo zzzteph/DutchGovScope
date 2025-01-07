@@ -5,14 +5,14 @@
 
 
  - **SSL Grade**:
- - **HTTP Security Grade**:B
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:8
+ - **HTTP Security Grade**:A
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:7
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/oidji.nl/subdomains.txt)|8|Alive subdomains|
-|[urls.txt](/data/oidji.nl/urls.txt)|8|Urls|
+|[subdomains.txt](/data/oidji.nl/subdomains.txt)|7|Alive subdomains|
+|[urls.txt](/data/oidji.nl/urls.txt)|7|Urls|
 
 
 ## Statistics
@@ -27,6 +27,5 @@
 |[https://opendata.oidji.nl](https://opendata.oidji.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://sophie.oidji.nl](https://sophie.oidji.nl)| | **B**|Class|:white_check_mark: |:white_check_mark: | | |:warning: | | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://keten.sophie.oidji.nl](https://keten.sophie.oidji.nl)| | **B**|Class|:white_check_mark: |:white_check_mark: | | |:warning: | | :white_check_mark: | :white_check_mark: | |HSTS||
-|[https://klas.oidji.nl](https://klas.oidji.nl)| | **D**|nginx| | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Nginx||
 
 

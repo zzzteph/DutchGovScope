@@ -6,13 +6,13 @@
 
  - **SSL Grade**:
  - **HTTP Security Grade**:A
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:21
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:22
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/nza.nl/subdomains.txt)|38|Alive subdomains|
-|[urls.txt](/data/nza.nl/urls.txt)|37|Urls|
+|[subdomains.txt](/data/nza.nl/subdomains.txt)|39|Alive subdomains|
+|[urls.txt](/data/nza.nl/urls.txt)|39|Urls|
 
 
 ## Statistics
@@ -54,8 +54,10 @@
 |[https://zorgproducten-test.nza.nl](https://zorgproducten-test.nza.nl)| | **A**|nginx|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Azure HSTS Microsoft ASP.NET Nginx|NZa zorgproducta...|
 |[https://zorgproducten.nza.nl](https://zorgproducten.nza.nl)| | **A**|nginx|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Azure HSTS Microsoft ASP.NET Nginx|NZa zorgproducta...|
 |[https://aanvragen-acc.nza.nl](https://aanvragen-acc.nza.nl)| | **A**|nginx| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|NZa aanvragenpor...|
+|[https://mijn.nza.nl](https://mijn.nza.nl)| | **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Nginx|Deze pagina is m...|
 |[https://opendisdata.nza.nl](https://opendisdata.nza.nl)| | **B**||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Bootstrap:5.3.1 HSTS||
 |[http://agw01-nomail.nza.nl](http://agw01-nomail.nza.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Web Page Blocked|
 |[https://jv.nza.nl](https://jv.nza.nl)| | **A**|nginx| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|JMV|
+|[https://elearning-msz.nza.nl](https://elearning-msz.nza.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS Nginx|NZA_MSZ_v5_aange...|
 
 

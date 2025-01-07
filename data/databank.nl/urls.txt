@@ -41,7 +41,6 @@ http://apollo.databank.nl
 http://demo-ebc.databank.nl
 https://ftgelderland.databank.nl
 https://beta-adc.databank.nl
-https://beta-klimaatbeleid.databank.nl
 https://beta-vivet.databank.nl
 https://beta-datawonen.databank.nl
 https://beta-klimaatmonitor.databank.nl
@@ -70,11 +69,6 @@ https://primostijdreeks.databank.nl
 https://prognoses.databank.nl
 https://primosinteractief.databank.nl
 https://prognosemodelzw.databank.nl
-https://www.gemeente.databank.nl
-https://abc.databank.nl
-https://limburg.databank.nl
-https://beta-noordholland.databank.nl
-https://cname-erfgoed.databank.nl
 https://www.ciz.databank.nl
 https://adc.databank.nl
 https://chacha.databank.nl
@@ -103,6 +97,7 @@ https://www.veiligheidsmonitor.databank.nl
 https://ibw.databank.nl
 https://www.senternovum.databank.nl
 https://www.openbaar.waves.databank.nl
+https://www.overijssel.databank.nl
 https://ciz.databank.nl
 https://www.arcon.databank.nl
 https://www.kenniscentrumhoreca.databank.nl
@@ -149,3 +144,4 @@ https://www.inspectie-oe.databank.nl
 https://www.procaros.databank.nl
 https://beta.cbc.databank.nl
 http://waves.databank.nl
+https://www.arbeidsmarkthoreca.databank.nl

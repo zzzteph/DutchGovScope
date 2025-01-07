@@ -31,3 +31,5 @@ publicaffairs.waterschaplimburg.nl
 castaways.waterschaplimburg.nl
 mx04.waterschaplimburg.nl
 bron.waterschaplimburg.nl
+cms-bron.waterschaplimburg.nl
+test-cms-bron.waterschaplimburg.nl

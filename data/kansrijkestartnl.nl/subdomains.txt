@@ -2,3 +2,4 @@ feeds.kansrijkestartnl.nl
 kansrijkestartnl.nl
 opendata.kansrijkestartnl.nl
 www.kansrijkestartnl.nl
+menukaart.kansrijkestartnl.nl

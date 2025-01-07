@@ -1,6 +1,5 @@
 magazines.platformrijksoverheidonline.nl
 www.platformrijksoverheidonline.nl
-platformrijksoverheidonline.nl
 inzichten.platformrijksoverheidonline.nl
 inloggen.platformrijksoverheidonline.nl
 feeds.oud.platformrijksoverheidonline.nl

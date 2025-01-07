@@ -9,5 +9,4 @@ https://kaarten.datawonen.nl
 https://syswov.datawonen.nl
 https://vois.datawonen.nl
 https://www.datawonen.nl
-https://dfg.datawonen.nl
-https://mn.datawonen.nl
+https://pwik.datawonen.nl

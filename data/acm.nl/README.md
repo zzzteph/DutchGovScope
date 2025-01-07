@@ -12,7 +12,7 @@
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/acm.nl/subdomains.txt)|25|Alive subdomains|
-|[urls.txt](/data/acm.nl/urls.txt)|24|Urls|
+|[urls.txt](/data/acm.nl/urls.txt)|25|Urls|
 
 
 ## Statistics
@@ -44,5 +44,6 @@
 |[https://mijn-acc.acm.nl](https://mijn-acc.acm.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS|403 Forbidden|
 |[https://mijn-tst.acm.nl](https://mijn-tst.acm.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS|403 Forbidden|
 |[https://mbg.acm.nl](https://mbg.acm.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|Redirecting...|
+|[https://dev.connect.acm.nl](https://dev.connect.acm.nl)| | **E**|| | | | | | | | :white_check_mark: | |Azure Azure Front Door||
 
 

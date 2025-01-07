@@ -75,7 +75,7 @@ gtpa-acc.rvo.nl
 gtpa.rvo.nl
 infographics.rvo.nl
 www.infographics.rvo.nl
-intra-acc.rvo.nl
+intra-cms-acc.rvo.nl
 intra-cms.rvo.nl
 intra.rvo.nl
 jiraimg-acc.rvo.nl

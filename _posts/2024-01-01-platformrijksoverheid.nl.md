@@ -3,7 +3,7 @@ layout: default
 title: "platformrijksoverheid.nl"
 permalink: "/dutchgov/platformrijksoverheid.nl.html"
 subdomains_count: 16
-urls_count: 15
+urls_count: 16
 ssl_rank: 
 http_rank: A
 security_txt: 5
@@ -26,7 +26,7 @@ tags: dutchgov
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/DutchGovScope/data/platformrijksoverheid.nl/subdomains.txt)|16|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/platformrijksoverheid.nl/urls.txt)|15|Urls|
+|[urls.txt](/DutchGovScope/data/platformrijksoverheid.nl/urls.txt)|16|Urls|
 
 
 ## Statistics
@@ -49,5 +49,6 @@ tags: dutchgov
 |[https://survey-deploy.platformrijksoverheid.nl](https://survey-deploy.platformrijksoverheid.nl)| | **B**|nginx| |:white_check_mark: | :warning:| | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Amazon CloudFront Amazon Web Services HSTS Nginx||
 |[https://survey-metrics.platformrijksoverheid.nl](https://survey-metrics.platformrijksoverheid.nl)| | **D**|gunicorn| |:white_check_mark: | :warning:| | | | | :white_check_mark: | |HSTS Python gunicorn||
 |[https://survey.platformrijksoverheid.nl](https://survey.platformrijksoverheid.nl)| | **C**|nginx| |:white_check_mark: | :warning:| | | | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
+|[https://survey-debug.platformrijksoverheid.nl](https://survey-debug.platformrijksoverheid.nl)| | **B**|nginx| |:white_check_mark: | :warning:| | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 
 

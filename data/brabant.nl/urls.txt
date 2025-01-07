@@ -71,6 +71,7 @@ https://mik-acpt.brabant.nl
 http://slechtvalk.brabant.nl
 http://torenvalk.brabant.nl
 http://videoserver2.brabant.nl
+https://esb-a1.brabant.nl
 https://corsa-acpt.brabant.nl
 https://digicheck.brabant.nl
 https://blog.brabant.nl

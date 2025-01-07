@@ -9,6 +9,7 @@ matomo.nwo.nl
 intranet-acc.nwo.nl
 isaac.nwo.nl
 www.isaac.nwo.nl
+mailing.nwo.nl
 nwo.nl
 www.nwo.nl
 nwoi-people.nwo.nl

@@ -12,7 +12,7 @@
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/rijksapplicaties.nl/subdomains.txt)|270|Alive subdomains|
-|[urls.txt](/data/rijksapplicaties.nl/urls.txt)|269|Urls|
+|[urls.txt](/data/rijksapplicaties.nl/urls.txt)|270|Urls|
 
 
 ## Statistics
@@ -289,5 +289,6 @@
 |[https://bda.rijksapplicaties.nl](https://bda.rijksapplicaties.nl)| | **E**|nginx| | | | |:warning: | | | :white_check_mark: | |Nginx||
 |[https://dsa.staging.rijksapplicaties.nl](https://dsa.staging.rijksapplicaties.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |HSTS Nginx||
 |[https://stap.rijksapplicaties.nl](https://stap.rijksapplicaties.nl)| | **E**|nginx| | | | |:warning: | | | :white_check_mark: | |Nginx||
+|[http://wpo-webservice.rijksapplicaties.nl](http://wpo-webservice.rijksapplicaties.nl)| | **E**|| | | | | | | | :white_check_mark: | ||302 Found|
 
 

@@ -6,13 +6,13 @@
 
  - **SSL Grade**:
  - **HTTP Security Grade**:B
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:83
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:81
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/databank.nl/subdomains.txt)|160|Alive subdomains|
-|[urls.txt](/data/databank.nl/urls.txt)|151|Urls|
+|[subdomains.txt](/data/databank.nl/subdomains.txt)|154|Alive subdomains|
+|[urls.txt](/data/databank.nl/urls.txt)|147|Urls|
 
 
 ## Statistics
@@ -63,7 +63,6 @@
 |[http://demo-ebc.databank.nl](http://demo-ebc.databank.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET|Document Moved|
 |[https://ftgelderland.databank.nl](https://ftgelderland.databank.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET|Document Moved|
 |[https://beta-adc.databank.nl](https://beta-adc.databank.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Amazon S3 Amazon Web Services Azure Edge Network HSTS Microsoft ASP.NET MyFonts|Home | AEDES-dat...|
-|[https://beta-klimaatbeleid.databank.nl](https://beta-klimaatbeleid.databank.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Amazon S3 Amazon Web Services Azure Edge Network HSTS Microsoft ASP.NET MyFonts|Dashboard Klimaa...|
 |[https://beta-vivet.databank.nl](https://beta-vivet.databank.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Document Moved|
 |[https://beta-datawonen.databank.nl](https://beta-datawonen.databank.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Amazon S3 Amazon Web Services Azure Edge Network HSTS Microsoft ASP.NET MyFonts|Datawonen | Data...|
 |[https://beta-klimaatmonitor.databank.nl](https://beta-klimaatmonitor.databank.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Amazon S3 Amazon Web Services Azure Edge Network HSTS Microsoft ASP.NET MyFonts|Regionale Klimaa...|
@@ -92,11 +91,6 @@
 |[https://prognoses.databank.nl](https://prognoses.databank.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | | :white_check_mark: | :white_check_mark: | |Amazon S3 Amazon Web Services Azure Edge Network HSTS Microsoft ASP.NET MyFonts|ABF Prognoses vo...|
 |[https://primosinteractief.databank.nl](https://primosinteractief.databank.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | | :white_check_mark: | :white_check_mark: | |Amazon S3 Amazon Web Services Azure Edge Network HSTS Microsoft ASP.NET MyFonts|Primos Interacti...|
 |[https://prognosemodelzw.databank.nl](https://prognosemodelzw.databank.nl)| | **A**||:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET|Home | Prognosem...|
-|[https://www.gemeente.databank.nl](https://www.gemeente.databank.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Document Moved|
-|[https://abc.databank.nl](https://abc.databank.nl)| | **A**||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET|Document Moved|
-|[https://limburg.databank.nl](https://limburg.databank.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET|Document Moved|
-|[https://beta-noordholland.databank.nl](https://beta-noordholland.databank.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Amazon S3 Amazon Web Services Azure Edge Network HSTS Microsoft ASP.NET MyFonts|Noord-Holland in...|
-|[https://cname-erfgoed.databank.nl](https://cname-erfgoed.databank.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
 |[https://www.ciz.databank.nl](https://www.ciz.databank.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Document Moved|
 |[https://adc.databank.nl](https://adc.databank.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET|Document Moved|
 |[https://chacha.databank.nl](https://chacha.databank.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
@@ -125,6 +119,7 @@
 |[https://ibw.databank.nl](https://ibw.databank.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET|Document Moved|
 |[https://www.senternovum.databank.nl](https://www.senternovum.databank.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Document Moved|
 |[https://www.openbaar.waves.databank.nl](https://www.openbaar.waves.databank.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Document Moved|
+|[https://www.overijssel.databank.nl](https://www.overijssel.databank.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Document Moved|
 |[https://ciz.databank.nl](https://ciz.databank.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | | :white_check_mark: | :white_check_mark: | |Amazon S3 Amazon Web Services Azure Edge Network HSTS Microsoft ASP.NET MyFonts|CIZ Databank|
 |[https://www.arcon.databank.nl](https://www.arcon.databank.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Document Moved|
 |[https://www.kenniscentrumhoreca.databank.nl](https://www.kenniscentrumhoreca.databank.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Document Moved|
@@ -171,5 +166,6 @@
 |[https://www.procaros.databank.nl](https://www.procaros.databank.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Document Moved|
 |[https://beta.cbc.databank.nl](https://beta.cbc.databank.nl)| | **E**|| | | | | | | | :white_check_mark: | |Amazon S3 Amazon Web Services Azure Edge Network HSTS MyFonts|Document Moved|
 |[http://waves.databank.nl](http://waves.databank.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET|Document Moved|
+|[https://www.arbeidsmarkthoreca.databank.nl](https://www.arbeidsmarkthoreca.databank.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Document Moved|
 
 

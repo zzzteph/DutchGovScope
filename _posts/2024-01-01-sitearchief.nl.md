@@ -3,10 +3,10 @@ layout: default
 title: "sitearchief.nl"
 permalink: "/dutchgov/sitearchief.nl.html"
 subdomains_count: 125
-urls_count: 123
+urls_count: 124
 ssl_rank: 
 http_rank: A
-security_txt: 88
+security_txt: 90
 url_link: /data/sitearchief.nl/urls.txt
 subdomains_link: /data/sitearchief.nl/subdomains.txt
 categories: dutchgov
@@ -20,13 +20,13 @@ tags: dutchgov
 
  - **SSL Grade**:
  - **HTTP Security Grade**:A
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:88
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:90
 
 
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/DutchGovScope/data/sitearchief.nl/subdomains.txt)|125|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/sitearchief.nl/urls.txt)|123|Urls|
+|[urls.txt](/DutchGovScope/data/sitearchief.nl/urls.txt)|124|Urls|
 
 
 ## Statistics
@@ -114,6 +114,8 @@ tags: dutchgov
 |[https://cpb.sitearchief.nl](https://cpb.sitearchief.nl)| | **A**|nginx|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx|Sitearchief - CP...|
 |[https://deeplink.sitearchief.nl](https://deeplink.sitearchief.nl)| | **F**|nginx/1.27.1| | | | | | | | :white_check_mark: | |Nginx:1.27.1||
 |[https://eerstekamer.sitearchief.nl](https://eerstekamer.sitearchief.nl)| | **A**|nginx|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx|Sitearchief - Ee...|
+|[https://rekenkamer.sitearchief.nl](https://rekenkamer.sitearchief.nl)| | **A**|nginx|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx|403 Forbidden|
+|[https://scp.sitearchief.nl](https://scp.sitearchief.nl)| | **A**|nginx|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx|Sitearchief - So...|
 |[https://kadaster.sitearchief.nl](https://kadaster.sitearchief.nl)| | **A**|nginx|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx|Sitearchief - Ka...|
 |[https://meldkamer.sitearchief.nl](https://meldkamer.sitearchief.nl)| | **A**|nginx|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx|Sitearchief - Me...|
 |[https://politie.sitearchief.nl](https://politie.sitearchief.nl)| | **A**|nginx|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx|Sitearchief - Po...|
@@ -139,7 +141,6 @@ tags: dutchgov
 |[https://justid.sitearchief.nl](https://justid.sitearchief.nl)| | **A**|nginx|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx|Sitearchief - Ju...|
 |[https://abx04.sitearchief.nl](https://abx04.sitearchief.nl)| | **C**|nginx|:o: |:white_check_mark: | :warning:| |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|Archiefweb|
 |[https://abx05.sitearchief.nl](https://abx05.sitearchief.nl)| | **A**|nginx|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx PHP:8.2.18|Archiefweb|
-|[https://archief60.sitearchief.nl](https://archief60.sitearchief.nl)| | **B**|nginx/1.27.1| |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | |HSTS Nginx:1.27.1|HTTP Status 404...|
 |[https://schadefonds.sitearchief.nl](https://schadefonds.sitearchief.nl)| | **A**|nginx|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx|Sitearchief - Sc...|
 |[https://kabinetkoning.sitearchief.nl](https://kabinetkoning.sitearchief.nl)| | **A**|nginx|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx|Sitearchief - Ka...|
 |[https://abx03.sitearchief.nl](https://abx03.sitearchief.nl)| | **A**|nginx|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx|Archiefweb|

@@ -2,10 +2,10 @@
 layout: default
 title: "ggo-vergunningverlening-zoeken.nl"
 permalink: "/dutchgov/ggo-vergunningverlening-zoeken.nl.html"
-subdomains_count: 0
-urls_count: 0
+subdomains_count: 3
+urls_count: 3
 ssl_rank: 
-http_rank: F
+http_rank: D
 security_txt: 0
 url_link: /data/ggo-vergunningverlening-zoeken.nl/urls.txt
 subdomains_link: /data/ggo-vergunningverlening-zoeken.nl/subdomains.txt
@@ -19,14 +19,14 @@ tags: dutchgov
 
 
  - **SSL Grade**:
- - **HTTP Security Grade**:F
+ - **HTTP Security Grade**:D
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:0
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/ggo-vergunningverlening-zoeken.nl/subdomains.txt)|0|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/ggo-vergunningverlening-zoeken.nl/urls.txt)|0|Urls|
+|[subdomains.txt](/DutchGovScope/data/ggo-vergunningverlening-zoeken.nl/subdomains.txt)|3|Alive subdomains|
+|[urls.txt](/DutchGovScope/data/ggo-vergunningverlening-zoeken.nl/urls.txt)|3|Urls|
 
 
 ## Statistics
@@ -34,5 +34,8 @@ tags: dutchgov
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
+|[http://acceptatie.ggo-vergunningverlening-zoeken.nl](http://acceptatie.ggo-vergunningverlening-zoeken.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
+|[https://ggo-vergunningverlening-zoeken.nl](https://ggo-vergunningverlening-zoeken.nl)| | **C**|Microsoft-IIS/8.5|:warning: |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | |HSTS IIS:8.5 Microsoft ASP.NET:4.0.30319 Windows Server|Grip web|
+|[https://www.ggo-vergunningverlening-zoeken.nl](https://www.ggo-vergunningverlening-zoeken.nl)| | **C**|Microsoft-IIS/8.5|:warning: |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | |HSTS IIS:8.5 Microsoft ASP.NET:4.0.30319 Windows Server|Grip web|
 
 

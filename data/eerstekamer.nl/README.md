@@ -5,8 +5,8 @@
 
 
  - **SSL Grade**:
- - **HTTP Security Grade**:D
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:9
+ - **HTTP Security Grade**:C
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:10
 
 
 | File       | Count | Info |
@@ -42,7 +42,7 @@
 |[https://piwik.eerstekamer.nl](https://piwik.eerstekamer.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS|Not Found|
 |[https://liquit.eerstekamer.nl](https://liquit.eerstekamer.nl)| | **E**|| | | | | | | | :white_check_mark: | |Bootstrap:4|Liquit Workspace|
 |[https://enterpriseenrollment.eerstekamer.nl](https://enterpriseenrollment.eerstekamer.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||
-|[https://sandbox.redactie.eerstekamer.nl](https://sandbox.redactie.eerstekamer.nl)| | **F**||:warning: | | | | | | | :white_check_mark: | ||403 Forbidden|
+|[https://sandbox.redactie.eerstekamer.nl](https://sandbox.redactie.eerstekamer.nl)| | **B**|| | | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | ||Moved|
 |[https://lv108675-web01.eerstekamer.nl](https://lv108675-web01.eerstekamer.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS|Not Found|
 
 

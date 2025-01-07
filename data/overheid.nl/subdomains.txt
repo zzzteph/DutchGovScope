@@ -33,7 +33,6 @@ gegevensdelen.preprod.mijn.overheid.nl
 artifact-rd1.toegang.overheid.nl
 bag.basisregistraties.overheid.nl
 bag.test.basisregistraties.overheid.nl
-bag2.basisregistraties.overheid.nl
 beheerportaal.acc.omgevingswet.overheid.nl
 iknowcimow.omgevingswet.overheid.nl
 www.pre.omgevingswet.overheid.nl

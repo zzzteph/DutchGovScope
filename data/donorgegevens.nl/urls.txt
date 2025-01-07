@@ -1,6 +1,5 @@
 https://aanvraag.donorgegevens.nl
 https://acceptatie.aanvraag.donorgegevens.nl
-https://acceptatie.behandel.donorgegevens.nl
 https://behandel.donorgegevens.nl
 https://donorgegevens.nl
 https://feeds.donorgegevens.nl

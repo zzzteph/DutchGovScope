@@ -105,7 +105,6 @@ www.werken.belastingdienst.nl
 wwwfcinetorg.belastingdienst.nl
 connectpeople.belastingdienst.nl
 opleiding-ola.belastingdienst.nl
-pih.belastingdienst.nl
 pmm.belastingdienst.nl
 pwa001.belastingdienst.nl
 samenwerkruimten.belastingdienst.nl

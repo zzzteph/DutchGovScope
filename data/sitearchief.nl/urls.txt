@@ -78,6 +78,8 @@ https://svb.sitearchief.nl
 https://cpb.sitearchief.nl
 https://deeplink.sitearchief.nl
 https://eerstekamer.sitearchief.nl
+https://rekenkamer.sitearchief.nl
+https://scp.sitearchief.nl
 https://kadaster.sitearchief.nl
 https://meldkamer.sitearchief.nl
 https://politie.sitearchief.nl
@@ -103,7 +105,6 @@ https://aivd.sitearchief.nl
 https://justid.sitearchief.nl
 https://abx04.sitearchief.nl
 https://abx05.sitearchief.nl
-https://archief60.sitearchief.nl
 https://schadefonds.sitearchief.nl
 https://kabinetkoning.sitearchief.nl
 https://abx03.sitearchief.nl

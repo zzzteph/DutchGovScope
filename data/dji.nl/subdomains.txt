@@ -13,4 +13,3 @@ intranet.dji.nl
 video.beeldbellen.dji.nl
 cdn.dji.nl
 ftp.dji.nl
-video-acc.beeldbellen.dji.nl

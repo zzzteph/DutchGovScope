@@ -5,14 +5,14 @@
 
 
  - **SSL Grade**:
- - **HTTP Security Grade**:F
+ - **HTTP Security Grade**:D
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:0
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/ggo-vergunningverlening-zoeken.nl/subdomains.txt)|0|Alive subdomains|
-|[urls.txt](/data/ggo-vergunningverlening-zoeken.nl/urls.txt)|0|Urls|
+|[subdomains.txt](/data/ggo-vergunningverlening-zoeken.nl/subdomains.txt)|3|Alive subdomains|
+|[urls.txt](/data/ggo-vergunningverlening-zoeken.nl/urls.txt)|3|Urls|
 
 
 ## Statistics
@@ -20,5 +20,8 @@
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
+|[http://acceptatie.ggo-vergunningverlening-zoeken.nl](http://acceptatie.ggo-vergunningverlening-zoeken.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
+|[https://ggo-vergunningverlening-zoeken.nl](https://ggo-vergunningverlening-zoeken.nl)| | **C**|Microsoft-IIS/8.5|:warning: |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | |HSTS IIS:8.5 Microsoft ASP.NET:4.0.30319 Windows Server|Grip web|
+|[https://www.ggo-vergunningverlening-zoeken.nl](https://www.ggo-vergunningverlening-zoeken.nl)| | **C**|Microsoft-IIS/8.5|:warning: |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | |HSTS IIS:8.5 Microsoft ASP.NET:4.0.30319 Windows Server|Grip web|
 
 

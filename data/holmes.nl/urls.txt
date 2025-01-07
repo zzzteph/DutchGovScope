@@ -9,3 +9,5 @@ http://osm.hansken.holmes.nl
 https://downloads.holmes.nl
 https://www.holmes.nl
 https://holmes.nl
+http://dfaas-proxy-02.holmes.nl
+http://dfaas-proxy.holmes.nl

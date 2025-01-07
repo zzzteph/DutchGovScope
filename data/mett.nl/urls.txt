@@ -4,7 +4,6 @@ https://www.mett.nl
 https://pilotnudging.mett.nl
 https://gelijkekansens-hertogenbosch.mett.nl
 https://gebiedsplannenmoerdijk.mett.nl
-https://waterpleinvelletri.mett.nl
 https://winnovatie.mett.nl
 https://grootsaeftinghe.mett.nl
 https://nieuwsienw.mett.nl
@@ -59,7 +58,7 @@ http://autodiscover.mett.nl
 https://demo2.mett.nl
 https://dev.mett.nl
 https://ftp.mett.nl
-http://tom.mett.nl
+https://tom.mett.nl
 https://robert.mett.nl
 https://htx.mett.nl
 https://performance.mett.nl
@@ -81,9 +80,6 @@ https://voorneputten.mett.nl
 https://nimeto.mett.nl
 https://participatieuithoorn.mett.nl
 https://energiekmaasgouw.mett.nl
-https://circularfestivals.mett.nl
-https://rps.mett.nl
-https://resmiddenholland.mett.nl
 https://stadswerk.mett.nl
 https://markermeerijmeer.mett.nl
 https://doemeedordrecht.mett.nl
@@ -122,7 +118,6 @@ https://startandgo.mett.nl
 https://academy.mett.nl
 https://nlzve.mett.nl
 https://kersenweideodijk.mett.nl
-https://blueskygroup.mett.nl
 https://samenhaaksbergen.mett.nl
 https://bio-enerco.mett.nl
 https://akademievankunsten.mett.nl
@@ -191,10 +186,10 @@ https://locov.mett.nl
 https://gastvrijerandmeren.mett.nl
 https://veiligevecht.mett.nl
 https://denkmeewoonin.mett.nl
-https://park.mett.nl
-https://vrijwilligerscentralezeist.mett.nl
-https://energiehout.mett.nl
-https://innova58.mett.nl
+http://park.mett.nl
+http://vrijwilligerscentralezeist.mett.nl
+http://energiehout.mett.nl
+http://innova58.mett.nl
 https://landbouwenvoedselbrabant.mett.nl
 https://verkeersveiligheidscampagnes.mett.nl
 https://hoekschewaard.mett.nl
@@ -209,3 +204,6 @@ https://stadgenoot.mett.nl
 https://workinnl.mett.nl
 https://knhm.mett.nl
 https://sociaaldomeinnoordholland.mett.nl
+https://restwente.mett.nl
+https://linnean.mett.nl
+http://innovatiefwerkgeverschap.mett.nl

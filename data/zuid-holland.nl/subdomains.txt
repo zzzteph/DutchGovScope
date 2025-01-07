@@ -43,6 +43,7 @@ lta.zuid-holland.nl
 monitor-klimaatadaptatie.zuid-holland.nl
 planregistratie-wonen.zuid-holland.nl
 monitorleefomgeving.zuid-holland.nl
+nieuwsbrief.zuid-holland.nl
 omgevingsbeleid.zuid-holland.nl
 omgevingsdocumenten.zuid-holland.nl
 opendata.zuid-holland.nl

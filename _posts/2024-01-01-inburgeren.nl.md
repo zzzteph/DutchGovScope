@@ -2,7 +2,7 @@
 layout: default
 title: "inburgeren.nl"
 permalink: "/dutchgov/inburgeren.nl.html"
-subdomains_count: 6
+subdomains_count: 4
 urls_count: 4
 ssl_rank: 
 http_rank: B
@@ -25,7 +25,7 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/inburgeren.nl/subdomains.txt)|6|Alive subdomains|
+|[subdomains.txt](/DutchGovScope/data/inburgeren.nl/subdomains.txt)|4|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/inburgeren.nl/urls.txt)|4|Urls|
 
 

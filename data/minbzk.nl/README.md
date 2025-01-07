@@ -12,7 +12,7 @@
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/minbzk.nl/subdomains.txt)|11|Alive subdomains|
-|[urls.txt](/data/minbzk.nl/urls.txt)|10|Urls|
+|[urls.txt](/data/minbzk.nl/urls.txt)|11|Urls|
 
 
 ## Statistics
@@ -30,5 +30,6 @@
 |[https://prisma.minbzk.nl](https://prisma.minbzk.nl)| | **C**|Apache|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS Varnish:6.6||
 |[https://wikixl-saml.minbzk.nl](https://wikixl-saml.minbzk.nl)| | **B**|Apache| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS|Redirect|
 |[https://rbl-talent.minbzk.nl](https://rbl-talent.minbzk.nl)| | **C**|Class|:white_check_mark: |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | |HSTS||
+|[https://gip-a.minbzk.nl](https://gip-a.minbzk.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 
 

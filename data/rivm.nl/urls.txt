@@ -84,12 +84,18 @@ https://auth.rivm.nl
 https://sso-webauth.rivm.nl
 https://autodiscover.rivm.nl
 https://beleving.rivm.nl
+https://informatiehulp.rivm.nl
 https://signalen.rivm.nl
 https://bestellingen.rivm.nl
 http://www.bestellingen.rivm.nl
+http://hypocrates.rivm.nl
+http://redirect.rivm.nl
+http://search.rivm.nl
 http://www.typened-mrsa.rivm.nl
+http://caontb.rivm.nl
 http://tuberculosis.rivm.nl
 http://www.caontb.rivm.nl
+http://www.earss.rivm.nl
 http://www.tuberculosis.rivm.nl
 http://typened-crmo.rivm.nl
 http://www.isis.rivm.nl
@@ -174,6 +180,7 @@ https://mijnsap.rivm.nl
 https://modellenregister.rivm.nl
 https://nevo-online.rivm.nl
 https://nevo.rivm.nl
+https://nieuwsbrief.rivm.nl
 http://nivelform.rivm.nl
 https://nsl-monitoring.rivm.nl
 https://samenmeten.rivm.nl

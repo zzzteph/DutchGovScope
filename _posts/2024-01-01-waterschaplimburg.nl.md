@@ -2,11 +2,11 @@
 layout: default
 title: "waterschaplimburg.nl"
 permalink: "/dutchgov/waterschaplimburg.nl.html"
-subdomains_count: 33
+subdomains_count: 35
 urls_count: 33
 ssl_rank: 
 http_rank: C
-security_txt: 7
+security_txt: 9
 url_link: /data/waterschaplimburg.nl/urls.txt
 subdomains_link: /data/waterschaplimburg.nl/subdomains.txt
 categories: dutchgov
@@ -20,12 +20,12 @@ tags: dutchgov
 
  - **SSL Grade**:
  - **HTTP Security Grade**:C
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:7
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:9
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/waterschaplimburg.nl/subdomains.txt)|33|Alive subdomains|
+|[subdomains.txt](/DutchGovScope/data/waterschaplimburg.nl/subdomains.txt)|35|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/waterschaplimburg.nl/urls.txt)|33|Urls|
 
 
@@ -64,8 +64,8 @@ tags: dutchgov
 |[https://werkplek.waterschaplimburg.nl](https://werkplek.waterschaplimburg.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Microsoft ASP.NET||
 |[http://verhuisbedrijven.waterschaplimburg.nl](http://verhuisbedrijven.waterschaplimburg.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
 |[http://publicaffairs.waterschaplimburg.nl](http://publicaffairs.waterschaplimburg.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
-|[http://castaways.waterschaplimburg.nl](http://castaways.waterschaplimburg.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
-|[http://mx04.waterschaplimburg.nl](http://mx04.waterschaplimburg.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
+|[http://castaways.waterschaplimburg.nl](http://castaways.waterschaplimburg.nl)| | **D**|| | | | | | :white_check_mark: | | :white_check_mark: | |Microsoft HTTPAPI:2.0||
+|[http://mx04.waterschaplimburg.nl](http://mx04.waterschaplimburg.nl)| | **D**|| | | | | | :white_check_mark: | | :white_check_mark: | |Microsoft HTTPAPI:2.0||
 |[http://bron.waterschaplimburg.nl](http://bron.waterschaplimburg.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
 
 

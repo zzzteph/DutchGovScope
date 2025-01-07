@@ -6,10 +6,8 @@ demo-portal.minez.nl
 eidas.minez.nl
 eidasmw-acc.minez.nl
 eidasmw.minez.nl
-ibabs.minez.nl
 pmt.minez.nl
 www.minez.nl
 minez.nl
-pmt-acc.minez.nl
 upeu.minez.nl
 vws-demo.minez.nl

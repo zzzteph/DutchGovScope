@@ -11,7 +11,7 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/overheid.nl/subdomains.txt)|313|Alive subdomains|
+|[subdomains.txt](/data/overheid.nl/subdomains.txt)|312|Alive subdomains|
 |[urls.txt](/data/overheid.nl/urls.txt)|311|Urls|
 
 
@@ -55,7 +55,6 @@
 |[https://artifact-rd1.toegang.overheid.nl](https://artifact-rd1.toegang.overheid.nl)| | **F**|Ponos Maximum| | | | | | | | :white_check_mark: | |HSTS|418 I'm a teapot|
 |[https://bag.basisregistraties.overheid.nl](https://bag.basisregistraties.overheid.nl)| | **A**|unspecified|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Java|Home - BAG|
 |[https://bag.test.basisregistraties.overheid.nl](https://bag.test.basisregistraties.overheid.nl)| | **A**|Unspecified|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Java|Home - BAG|
-|[https://bag2.basisregistraties.overheid.nl](https://bag2.basisregistraties.overheid.nl)| | **C**|unspecified| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|Kadaster - Pagin...|
 |[https://beheerportaal.acc.omgevingswet.overheid.nl](https://beheerportaal.acc.omgevingswet.overheid.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Omgevingsloket|
 |[https://iknowcimow.omgevingswet.overheid.nl](https://iknowcimow.omgevingswet.overheid.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|Pagina niet gevo...|
 |[https://www.pre.omgevingswet.overheid.nl](https://www.pre.omgevingswet.overheid.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|301 Moved Perman...|
@@ -331,5 +330,6 @@
 |[http://ref.omgevingswet.overheid.nl](http://ref.omgevingswet.overheid.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://repository-preprod.overheid.nl](https://repository-preprod.overheid.nl)| | **A**|| |:white_check_mark: | :warning:| | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://lvbb-lto.overheid.nl](https://lvbb-lto.overheid.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx||
+|[http://developer.omgevingswet.overheid.nl](http://developer.omgevingswet.overheid.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Microsoft ASP.NET:-|Object moved|
 
 

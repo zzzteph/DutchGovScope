@@ -11,8 +11,8 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/dnb.nl/subdomains.txt)|134|Alive subdomains|
-|[urls.txt](/data/dnb.nl/urls.txt)|134|Urls|
+|[subdomains.txt](/data/dnb.nl/subdomains.txt)|133|Alive subdomains|
+|[urls.txt](/data/dnb.nl/urls.txt)|133|Urls|
 
 
 ## Statistics
@@ -117,7 +117,6 @@
 |[https://tzorganisatiegegevens-dev.dnb.nl](https://tzorganisatiegegevens-dev.dnb.nl)| | **E**|| | | | | | | | :white_check_mark: | |Bootstrap:5.2.3|Azure Static Web...|
 |[https://securemail.dnb.nl](https://securemail.dnb.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|Auto-Forward ind...|
 |[https://statistiek.dnb.nl](https://statistiek.dnb.nl)| | **A**|AkamaiGHost| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Access Denied|
-|[https://toezicht.dnb.nl](https://toezicht.dnb.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Object moved per...|
 |[https://www.toezicht.dnb.nl](https://www.toezicht.dnb.nl)| | **A**|AkamaiGHost| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Access Denied|
 |[https://stepui-dev.azure.dnb.nl](https://stepui-dev.azure.dnb.nl)| | **E**|| | | | | | | | :white_check_mark: | |Bootstrap:5.2.3|Azure Static Web...|
 |[https://tz-organisatiegegevens.dnb.nl](https://tz-organisatiegegevens.dnb.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Azure Azure Front Door HSTS|Organisation Det...|

@@ -11,7 +11,7 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/a29roadworks.nl/subdomains.txt)|2|Alive subdomains|
+|[subdomains.txt](/data/a29roadworks.nl/subdomains.txt)|0|Alive subdomains|
 |[urls.txt](/data/a29roadworks.nl/urls.txt)|0|Urls|
 
 

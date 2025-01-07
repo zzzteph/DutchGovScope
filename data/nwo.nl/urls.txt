@@ -9,6 +9,7 @@ https://matomo.nwo.nl
 https://intranet-acc.nwo.nl
 https://isaac.nwo.nl
 https://www.isaac.nwo.nl
+https://mailing.nwo.nl
 https://nwo.nl
 https://www.nwo.nl
 https://nwoi-people.nwo.nl
