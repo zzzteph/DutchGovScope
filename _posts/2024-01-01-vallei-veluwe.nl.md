@@ -2,8 +2,8 @@
 layout: default
 title: "vallei-veluwe.nl"
 permalink: "/dutchgov/vallei-veluwe.nl.html"
-subdomains_count: 15
-urls_count: 15
+subdomains_count: 16
+urls_count: 16
 ssl_rank: 
 http_rank: B
 security_txt: 6
@@ -25,8 +25,8 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/vallei-veluwe.nl/subdomains.txt)|15|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/vallei-veluwe.nl/urls.txt)|15|Urls|
+|[subdomains.txt](/DutchGovScope/data/vallei-veluwe.nl/subdomains.txt)|16|Alive subdomains|
+|[urls.txt](/DutchGovScope/data/vallei-veluwe.nl/urls.txt)|16|Urls|
 
 
 ## Statistics
@@ -40,6 +40,7 @@ tags: dutchgov
 |[https://vallei-veluwe.nl](https://vallei-veluwe.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:-|Object moved|
 |[https://www.vallei-veluwe.nl](https://www.vallei-veluwe.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:-|Home - Vallei en...|
 |[https://nc-openbaar.vallei-veluwe.nl](https://nc-openbaar.vallei-veluwe.nl)| | **E**|-| | | | | | :white_check_mark: | | :white_check_mark: | |HSTS Microsoft ASP.NET:-|Document Moved|
+|[https://planonprod.vallei-veluwe.nl](https://planonprod.vallei-veluwe.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://neurontest.vallei-veluwe.nl](https://neurontest.vallei-veluwe.nl)| | **C**|Microsoft-HTTPAPI/2.0| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Microsoft HTTPAPI:2.0|Service|
 |[https://tmx.vallei-veluwe.nl](https://tmx.vallei-veluwe.nl)| | **C**||:warning: |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |F5 BigIP HSTS||
 |[https://werkplek.vallei-veluwe.nl](https://werkplek.vallei-veluwe.nl)| | **C**||:warning: |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |F5 BigIP HSTS||

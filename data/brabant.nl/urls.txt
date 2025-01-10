@@ -13,7 +13,6 @@ http://english.brabant.nl
 http://www.brabant.nl
 https://brains-acc.brabant.nl
 https://brains.brabant.nl
-https://bzv-a.brabant.nl
 https://bzv.brabant.nl
 https://ondertekenen.brabant.nl
 https://ondertekenentst.brabant.nl

@@ -5,7 +5,6 @@ http://autodiscover.eerstekamer.nl
 https://eerstekamer.nl
 https://europapoort.eerstekamer.nl
 https://www.eerstekamer.nl
-https://onderwijs.eerstekamer.nl
 https://remoteaccess1.eerstekamer.nl
 https://remoteaccess2.eerstekamer.nl
 https://remoteaccess3.eerstekamer.nl

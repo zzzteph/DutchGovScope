@@ -12,7 +12,7 @@
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/hhdelfland.nl/subdomains.txt)|33|Alive subdomains|
-|[urls.txt](/data/hhdelfland.nl/urls.txt)|33|Urls|
+|[urls.txt](/data/hhdelfland.nl/urls.txt)|32|Urls|
 
 
 ## Statistics
@@ -45,7 +45,6 @@
 |[https://remote.hhdelfland.nl](https://remote.hhdelfland.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Java|VMware Horizon|
 |[https://remotetest.hhdelfland.nl](https://remotetest.hhdelfland.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Java|VMware Horizon|
 |[https://samenveiligwerken.hhdelfland.nl](https://samenveiligwerken.hhdelfland.nl)| | **D**|Apache|:warning: |:white_check_mark: | :warning:| | :white_check_mark:| | | :white_check_mark: | |Apache HTTP Server Bootstrap HSTS|Veilig Delfland|
-|[https://testopendata.hhdelfland.nl](https://testopendata.hhdelfland.nl)| | **F**|Web| | | | | | | | :white_check_mark: | ||Apache Tomcat/10...|
 |[https://wbp6.hhdelfland.nl](https://wbp6.hhdelfland.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Azure Azure Front Door HSTS|Waterwerk|
 |[https://workspace.hhdelfland.nl](https://workspace.hhdelfland.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://geoview.hhdelfland.nl](https://geoview.hhdelfland.nl)| | **F**|Microsoft-IIS/10.0| | | | | | | | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server|Secure Portal Re...|

@@ -5,6 +5,7 @@ onderzoek.politie.nl
 rss.acceptatie.politie.nl
 edison.politie.nl
 www.politie.nl
+api.politie.nl
 fts.politie.nl
 kombijde.politie.nl
 aangifte.politie.nl
@@ -19,7 +20,6 @@ kombijde.acceptatie.politie.nl
 www.acceptatie.politie.nl
 politie.nl
 sso.politie.nl
-tbo.politie.nl
 transferium-db.politie.nl
 transferium-oh.politie.nl
 transferium.gslb-trf.politie.nl

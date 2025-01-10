@@ -49,8 +49,6 @@ https://getij.rws.nl
 https://port-enc.rws.nl
 https://standaarden.rws.nl
 https://beterbediend.rws.nl
-https://bezoekerscentrum.rws.nl
-https://test.bezoekerscentrum.rws.nl
 https://centraaltoegangspuntdata.rws.nl
 https://nis.rws.nl
 https://cmgrws.rws.nl
@@ -67,7 +65,6 @@ https://eov.acceptatie.rws.nl
 https://esb.rws.nl
 https://fam.rws.nl
 https://geo.rws.nl
-https://geostenen.grid.rws.nl
 https://geoweb.rws.nl
 http://git.rws.nl
 https://hld.rws.nl
@@ -105,7 +102,6 @@ https://svk-login.rws.nl
 https://svs.rws.nl
 https://techniekacademie.rws.nl
 https://zwerfafval.rws.nl
-https://test.esb.rws.nl
 https://test.lma.rws.nl
 https://test.nlrdms.rws.nl
 https://tgox-acc.rws.nl

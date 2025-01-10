@@ -11,8 +11,8 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/tweedekamer.nl/subdomains.txt)|137|Alive subdomains|
-|[urls.txt](/data/tweedekamer.nl/urls.txt)|137|Urls|
+|[subdomains.txt](/data/tweedekamer.nl/subdomains.txt)|140|Alive subdomains|
+|[urls.txt](/data/tweedekamer.nl/urls.txt)|136|Urls|
 
 
 ## Statistics
@@ -107,7 +107,6 @@
 |[https://opendata.tweedekamer.nl](https://opendata.tweedekamer.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Drupal:10 HSTS Nginx PHP|De open data van...|
 |[https://plus.debatdirect.tweedekamer.nl](https://plus.debatdirect.tweedekamer.nl)| | **B**|CloudFront| |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | |Amazon CloudFront Amazon Web Services HSTS||
 |[https://pwk.tweedekamer.nl](https://pwk.tweedekamer.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS|Loading...|
-|[https://service.tweedekamer.nl](https://service.tweedekamer.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||
 |[https://sts.test.tweedekamer.nl](https://sts.test.tweedekamer.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
 |[https://sts.tweedekamer.nl](https://sts.tweedekamer.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
 |[https://klinkendetaal.tweedekamer.nl](https://klinkendetaal.tweedekamer.nl)| | **B**|BigIP|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |F5 BigIP||

@@ -1,7 +1,5 @@
 cdn.opwegnaarseb.nl
 mail.opwegnaarseb.nl
-webmail.opwegnaarseb.nl
-cpanel.opwegnaarseb.nl
 e-learning.opwegnaarseb.nl
 opwegnaarseb.nl
 www.opwegnaarseb.nl

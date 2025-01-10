@@ -1,7 +1,5 @@
 https://cdn.opwegnaarseb.nl
 https://mail.opwegnaarseb.nl
-https://webmail.opwegnaarseb.nl
-https://cpanel.opwegnaarseb.nl
 https://e-learning.opwegnaarseb.nl
 https://opwegnaarseb.nl
 https://www.opwegnaarseb.nl

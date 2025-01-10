@@ -1,5 +1,3 @@
-acc.beeldbellen.dji.nl
-beeldbellen.dji.nl
 connect-acpt.dji.nl
 connect.dji.nl
 dji.nl
@@ -10,6 +8,6 @@ www.dji.nl
 drife-f.dji.nl
 dvfz.dji.nl
 intranet.dji.nl
-video.beeldbellen.dji.nl
 cdn.dji.nl
 ftp.dji.nl
+video-acc.beeldbellen.dji.nl

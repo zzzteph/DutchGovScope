@@ -3461,11 +3461,8 @@ https://seo-campagne.valys.nl
 https://dpp.valys.nl
 https://boss.valys.nl
 https://funplace.valys.nl
-https://voipa014.valys.nl
-https://020-amstelveen.valys.nl
-https://demo7.valys.nl
-https://tijdlijn.valys.nl
-https://ubuntu.mirror.valys.nl
+http://tijdlijn.valys.nl
+http://ubuntu.mirror.valys.nl
 https://feest-pagina.valys.nl
 https://zips.valys.nl
 https://jaarverslag2018.valys.nl

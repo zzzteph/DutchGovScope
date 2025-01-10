@@ -2,8 +2,8 @@
 layout: default
 title: "leidraadse.nl"
 permalink: "/dutchgov/leidraadse.nl.html"
-subdomains_count: 4
-urls_count: 4
+subdomains_count: 2
+urls_count: 1
 ssl_rank: 
 http_rank: F
 security_txt: 0
@@ -25,8 +25,8 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/leidraadse.nl/subdomains.txt)|4|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/leidraadse.nl/urls.txt)|4|Urls|
+|[subdomains.txt](/DutchGovScope/data/leidraadse.nl/subdomains.txt)|2|Alive subdomains|
+|[urls.txt](/DutchGovScope/data/leidraadse.nl/urls.txt)|1|Urls|
 
 
 ## Statistics
@@ -34,9 +34,6 @@ tags: dutchgov
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://leidraadse.nl](https://leidraadse.nl)| | **F**|Apache|:o: | | | | | | | :white_check_mark: | |Apache HTTP Server PHP|Welkom | Leidraa...|
-|[https://webmail.leidraadse.nl](https://webmail.leidraadse.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server PHP:8.2.26|Internal Error|
-|[https://www.leidraadse.nl](https://www.leidraadse.nl)| | **F**|Apache|:o: | | | | | | | :white_check_mark: | |Apache HTTP Server PHP|Welkom | Leidraa...|
 |[http://localhost.leidraadse.nl](http://localhost.leidraadse.nl)| | **F**|nginx|:o: | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Laravel Nginx PHP|Weakpass|
 
 

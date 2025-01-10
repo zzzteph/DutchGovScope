@@ -2,11 +2,11 @@
 layout: default
 title: "zuid-holland.nl"
 permalink: "/dutchgov/zuid-holland.nl.html"
-subdomains_count: 77
-urls_count: 77
+subdomains_count: 78
+urls_count: 78
 ssl_rank: 
 http_rank: B
-security_txt: 23
+security_txt: 24
 url_link: /data/zuid-holland.nl/urls.txt
 subdomains_link: /data/zuid-holland.nl/subdomains.txt
 categories: dutchgov
@@ -20,13 +20,13 @@ tags: dutchgov
 
  - **SSL Grade**:
  - **HTTP Security Grade**:B
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:23
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:24
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/zuid-holland.nl/subdomains.txt)|77|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/zuid-holland.nl/urls.txt)|77|Urls|
+|[subdomains.txt](/DutchGovScope/data/zuid-holland.nl/subdomains.txt)|78|Alive subdomains|
+|[urls.txt](/DutchGovScope/data/zuid-holland.nl/urls.txt)|78|Urls|
 
 
 ## Statistics
@@ -101,6 +101,7 @@ tags: dutchgov
 |[https://investerenin.zuid-holland.nl](https://investerenin.zuid-holland.nl)| | **A**||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bootstrap:4.4.1 HSTS|Groeiagenda|
 |[https://jaaroverzichtcommissarisvandekoning2023.zuid-holland.nl](https://jaaroverzichtcommissarisvandekoning2023.zuid-holland.nl)| | **A**|-|:white_check_mark: |:white_check_mark: | | | :white_check_mark:| | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:-|The page cannot...|
 |[https://natura2000-data.zuid-holland.nl](https://natura2000-data.zuid-holland.nl)| | **B**|nginx|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |Azure HSTS Nginx|N2000|
+|[https://preprod-belastingen.zuid-holland.nl](https://preprod-belastingen.zuid-holland.nl)| | **A**|nginx|:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS Microsoft ASP.NET Nginx|Object moved|
 |[https://subsidieportaal.zuid-holland.nl](https://subsidieportaal.zuid-holland.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|ClientPortal|
 |[https://virtueel.zuid-holland.nl](https://virtueel.zuid-holland.nl)| | **A**|Microsoft-IIS/10.0| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS IIS:10.0 Microsoft ASP.NET Windows Server|Cesium|
 |[https://css.openstad.zuid-holland.nl](https://css.openstad.zuid-holland.nl)| | **E**|| | | | | | | | :white_check_mark: | |Basic Express HSTS Node.js||

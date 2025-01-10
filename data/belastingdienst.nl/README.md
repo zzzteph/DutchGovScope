@@ -55,7 +55,6 @@
 |[https://fibe1.belastingdienst.nl](https://fibe1.belastingdienst.nl)| | **C**|| | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | ||Request Rejected|
 |[https://fibi1.belastingdienst.nl](https://fibi1.belastingdienst.nl)| | **C**|| | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | ||Request Rejected|
 |[https://fibz1.belastingdienst.nl](https://fibz1.belastingdienst.nl)| | **C**|| | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | ||Request Rejected|
-|[https://filetransfer.belastingdienst.nl](https://filetransfer.belastingdienst.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|302 Found|
 |[https://filetransfer.ont.belastingdienst.nl](https://filetransfer.ont.belastingdienst.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|302 Found|
 |[https://fmis.acc.belastingdienst.nl](https://fmis.acc.belastingdienst.nl)| | **C**|| | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | ||Toegang geblokke...|
 |[https://fmis.belastingdienst.nl](https://fmis.belastingdienst.nl)| | **C**|| | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | ||Toegang geblokke...|
@@ -127,6 +126,7 @@
 |[https://wwwfcinetorg.belastingdienst.nl](https://wwwfcinetorg.belastingdienst.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS MySQL PHP WordPress Yoast SEO Premium:23.9 Yoast SEO:23.9|Home | FCInet &...|
 |[https://connectpeople.belastingdienst.nl](https://connectpeople.belastingdienst.nl)| | **A**||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|ConnectPeople Lo...|
 |[https://opleiding-ola.belastingdienst.nl](https://opleiding-ola.belastingdienst.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Online diensten...|
+|[https://pih.belastingdienst.nl](https://pih.belastingdienst.nl)| | **A**||:warning: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS||
 |[https://pmm.belastingdienst.nl](https://pmm.belastingdienst.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS|Skyhigh Secure W...|
 |[http://pwa001.belastingdienst.nl](http://pwa001.belastingdienst.nl)| | **F**|BigIP| | | | | | | | :white_check_mark: | |F5 BigIP||
 |[http://samenwerkruimten.belastingdienst.nl](http://samenwerkruimten.belastingdienst.nl)| | **F**|BigIP| | | | | | | | :white_check_mark: | |F5 BigIP||

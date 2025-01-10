@@ -85,7 +85,6 @@ https://ontdek.tweedekamer.nl
 https://opendata.tweedekamer.nl
 https://plus.debatdirect.tweedekamer.nl
 https://pwk.tweedekamer.nl
-https://service.tweedekamer.nl
 https://sts.test.tweedekamer.nl
 https://sts.tweedekamer.nl
 https://klinkendetaal.tweedekamer.nl

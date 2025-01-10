@@ -58,7 +58,6 @@ autodiscover.mett.nl
 demo2.mett.nl
 dev.mett.nl
 ftp.mett.nl
-tom.mett.nl
 robert.mett.nl
 htx.mett.nl
 performance.mett.nl
@@ -80,6 +79,9 @@ voorneputten.mett.nl
 nimeto.mett.nl
 participatieuithoorn.mett.nl
 energiekmaasgouw.mett.nl
+circularfestivals.mett.nl
+rps.mett.nl
+resmiddenholland.mett.nl
 stadswerk.mett.nl
 markermeerijmeer.mett.nl
 doemeedordrecht.mett.nl
@@ -97,7 +99,6 @@ ggagroenblauw.mett.nl
 ikdenkmeeoveruitgeest.mett.nl
 lcnk.mett.nl
 zichtopnl.mett.nl
-halderberge.mett.nl
 helpdesk.mett.nl
 dejongeakademie.mett.nl
 a27houtenhooipolder.mett.nl
@@ -169,7 +170,6 @@ anna.mett.nl
 drontenikpraatmee.mett.nl
 mirta2deilvught.mett.nl
 samenshertogenbosch.mett.nl
-scheldedelta.mett.nl
 kcs.mett.nl
 security.mett.nl
 status.mett.nl
@@ -178,7 +178,6 @@ rotterdama16.mett.nl
 duurzaamwinterswijk.mett.nl
 intranetsightlandscaping.mett.nl
 toekomstbehendigbrabant.mett.nl
-sterkbrabant.mett.nl
 programmavivet.mett.nl
 samenbernheze.mett.nl
 meanderomnium.mett.nl

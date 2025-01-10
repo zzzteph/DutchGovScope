@@ -139,9 +139,6 @@ https://welkombij.cbs.nl
 https://geoservices.cbs.nl
 https://uag.cbs.nl
 https://highcharts-acc.cbs.nl
-https://highcharts-test.cbs.nl
-https://redactie-test.cbs.nl
-https://www-test.cbs.nl
 https://jeugdmonitor-acc.cbs.nl
 https://jeugdmonitor.cbs.nl
 https://longreads.cbs.nl

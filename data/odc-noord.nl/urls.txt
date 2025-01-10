@@ -3,7 +3,6 @@ https://bd-toegang-acc.topdesk.odc-noord.nl
 https://duo-acc.topdesk.odc-noord.nl
 https://ivho-staf-acc.topdesk.odc-noord.nl
 https://odcn-acc.topdesk.odc-noord.nl
-https://vws-acc.jira.odc-noord.nl
 https://logius-acc.confluence.odc-noord.nl
 https://nfi-acc.topdesk.odc-noord.nl
 https://bd-acc.topdesk.odc-noord.nl

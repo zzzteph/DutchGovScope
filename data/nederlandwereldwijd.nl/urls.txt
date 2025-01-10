@@ -1,7 +1,6 @@
 https://a-api.nederlandwereldwijd.nl
 https://acc.opendata.nederlandwereldwijd.nl
 https://opendata.nederlandwereldwijd.nl
-http://prod2.opendata.nederlandwereldwijd.nl
 https://tst.opendata.nederlandwereldwijd.nl
 https://api.nederlandwereldwijd.nl
 https://informatieservice.nederlandwereldwijd.nl

@@ -5,6 +5,7 @@ http://acc.gml.map.services.cultureelerfgoed.nl
 http://acc.render.map.services.cultureelerfgoed.nl
 https://acc.monumentenregister.cultureelerfgoed.nl
 https://www.acc.monumentenregister.cultureelerfgoed.nl
+https://acc.subsidie.cultureelerfgoed.nl
 https://acceptatie.archis.cultureelerfgoed.nl
 https://acceptatie.geoservices.cultureelerfgoed.nl
 https://api.linkeddata.cultureelerfgoed.nl
@@ -35,6 +36,10 @@ https://kennis.cultureelerfgoed.nl
 https://test.kennis-staging.cultureelerfgoed.nl
 https://test.kennis.cultureelerfgoed.nl
 https://wikixl-saml.cultureelerfgoed.nl
+https://lil.cultureelerfgoed.nl
+https://noaa.cultureelerfgoed.nl
+https://pom.cultureelerfgoed.nl
+https://thesaurus.cultureelerfgoed.nl
 https://mass.cultureelerfgoed.nl
 https://monumentenregister.cultureelerfgoed.nl
 https://www.monumentenregister.cultureelerfgoed.nl
@@ -47,6 +52,7 @@ https://subsidie.cultureelerfgoed.nl
 https://test.geoservices.cultureelerfgoed.nl
 https://test.monumentenregister.cultureelerfgoed.nl
 https://www.test.monumentenregister.cultureelerfgoed.nl
+https://tst.subsidie.cultureelerfgoed.nl
 https://veilig.cultureelerfgoed.nl
 https://www.veilig.cultureelerfgoed.nl
 https://wikixl-saml.test.cultureelerfgoed.nl
@@ -61,3 +67,6 @@ http://auth.services.cultureelerfgoed.nl
 http://services.cultureelerfgoed.nl
 https://idselect.cultureelerfgoed.nl
 https://preprod.idselect.cultureelerfgoed.nl
+http://prd.archis.cultureelerfgoed.nl
+http://zaak.services.cultureelerfgoed.nl
+http://api-gateway.archis.cultureelerfgoed.nl

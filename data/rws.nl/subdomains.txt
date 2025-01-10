@@ -49,8 +49,6 @@ getij.rws.nl
 port-enc.rws.nl
 standaarden.rws.nl
 beterbediend.rws.nl
-bezoekerscentrum.rws.nl
-test.bezoekerscentrum.rws.nl
 centraaltoegangspuntdata.rws.nl
 nis.rws.nl
 cmgrws.rws.nl
@@ -67,7 +65,6 @@ eov.acceptatie.rws.nl
 esb.rws.nl
 fam.rws.nl
 geo.rws.nl
-geostenen.grid.rws.nl
 geoweb.rws.nl
 git.rws.nl
 hld.rws.nl
@@ -105,7 +102,6 @@ svk-login.rws.nl
 svs.rws.nl
 techniekacademie.rws.nl
 zwerfafval.rws.nl
-test.esb.rws.nl
 test.lma.rws.nl
 test.nlrdms.rws.nl
 tgox-acc.rws.nl

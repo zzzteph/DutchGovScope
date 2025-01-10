@@ -139,9 +139,6 @@ welkombij.cbs.nl
 geoservices.cbs.nl
 uag.cbs.nl
 highcharts-acc.cbs.nl
-highcharts-test.cbs.nl
-redactie-test.cbs.nl
-www-test.cbs.nl
 jeugdmonitor-acc.cbs.nl
 jeugdmonitor.cbs.nl
 longreads.cbs.nl

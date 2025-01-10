@@ -23,7 +23,6 @@ https://loket-preprod.hhdelfland.nl
 https://remote.hhdelfland.nl
 https://remotetest.hhdelfland.nl
 https://samenveiligwerken.hhdelfland.nl
-https://testopendata.hhdelfland.nl
 https://wbp6.hhdelfland.nl
 https://workspace.hhdelfland.nl
 https://geoview.hhdelfland.nl

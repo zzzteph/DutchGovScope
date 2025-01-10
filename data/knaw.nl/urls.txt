@@ -94,9 +94,6 @@ http://www.waleweinendekeye.huygens.knaw.nl
 https://acc.api.knaw.nl
 https://acc.cms21.knaw.nl
 https://acc.knaw.nl
-https://act.easy.dans.knaw.nl
-https://demo.easy.dans.knaw.nl
-https://peasy11.dans.knaw.nl
 https://act.gharvester-oai.dans.knaw.nl
 https://act.gharvester-wcp.dans.knaw.nl
 https://act.resolver.dans.knaw.nl
@@ -350,10 +347,6 @@ https://gharvester-rss.dans.knaw.nl
 https://gharvester-wcp.dans.knaw.nl
 https://oai.gharvester.dans.knaw.nl
 https://rss.gharvester.dans.knaw.nl
-https://ncg.knaw.nl
-https://vgstat.huygens.knaw.nl
-https://vgtile.huygens.knaw.nl
-https://hacluster.bureau.knaw.nl
 http://hg.fa.knaw.nl
 https://hi1.huygens.knaw.nl
 https://test.bioport.huygens.knaw.nl
@@ -362,7 +355,7 @@ http://hi4.huygens.knaw.nl
 https://hisgis.fa.knaw.nl
 http://hisgis2.fa.knaw.nl
 https://hucdrive.huc.knaw.nl
-https://hweb.knaw.nl
+https://intranetzonder.knaw.nl
 https://logo.huygens.knaw.nl
 http://maps.fa.knaw.nl
 https://mapserver.fa.knaw.nl
@@ -427,12 +420,14 @@ https://ebs-t.knaw.nl
 https://knaw.nl
 https://nias.knaw.nl
 https://pureacc.knaw.nl
-https://web.knaw.nl
 https://www.herseninstituut.knaw.nl
 https://maritimecareers.huygens.knaw.nl
+https://sd-yugoslavia.dev.huc.knaw.nl
 http://occassio.dev.huc.knaw.nl
 https://workforce.nioo.knaw.nl
+https://ecartico.dev.huc.knaw.nl
 https://service-index.labs.dans.knaw.nl
+https://oat.acc.huc.knaw.nl
 http://kaartenbank.meertens.knaw.nl
 http://monitoring.huc.knaw.nl
 https://dummy-signposting.labs.dans.knaw.nl
@@ -482,6 +477,7 @@ http://vova.meertens.knaw.nl
 https://facades-formats.labs.dans.knaw.nl
 https://license.labs.dans.knaw.nl
 https://chat.bioinf.nioo.knaw.nl
+https://vangogh-api.dev.huc.knaw.nl
 https://fairevaapi.labs.dans.knaw.nl
 https://genomes.bioinf.nioo.knaw.nl
 https://repository-assistant.labs.dans.knaw.nl

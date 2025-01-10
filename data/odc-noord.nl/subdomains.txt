@@ -3,7 +3,6 @@ bd-toegang-acc.topdesk.odc-noord.nl
 duo-acc.topdesk.odc-noord.nl
 ivho-staf-acc.topdesk.odc-noord.nl
 odcn-acc.topdesk.odc-noord.nl
-vws-acc.jira.odc-noord.nl
 logius-acc.confluence.odc-noord.nl
 nfi-acc.topdesk.odc-noord.nl
 bd-acc.topdesk.odc-noord.nl

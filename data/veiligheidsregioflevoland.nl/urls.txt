@@ -6,7 +6,6 @@ https://mail.veiligheidsregioflevoland.nl
 http://autodiscover.veiligheidsregioflevoland.nl
 https://enterpriseenrollment.veiligheidsregioflevoland.nl
 https://enterpriseregistration.veiligheidsregioflevoland.nl
-http://dept.veiligheidsregioflevoland.nl
 http://baum.veiligheidsregioflevoland.nl
 http://audiobooks.veiligheidsregioflevoland.nl
 http://websoft.veiligheidsregioflevoland.nl
@@ -15,3 +14,5 @@ https://msoid.veiligheidsregioflevoland.nl
 http://yvo.veiligheidsregioflevoland.nl
 http://eja.veiligheidsregioflevoland.nl
 http://gamess.veiligheidsregioflevoland.nl
+http://vm02.veiligheidsregioflevoland.nl
+http://orsha.veiligheidsregioflevoland.nl

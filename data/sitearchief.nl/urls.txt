@@ -16,7 +16,6 @@ https://degezondheidsraad.sitearchief.nl
 https://ind.sitearchief.nl
 https://archief23.sitearchief.nl
 https://igj.sitearchief.nl
-https://archief24.sitearchief.nl
 https://archief25.sitearchief.nl
 https://archief26.sitearchief.nl
 https://nza.sitearchief.nl
@@ -75,6 +74,8 @@ https://douane.sitearchief.nl
 https://cak.sitearchief.nl
 https://ciz.sitearchief.nl
 https://svb.sitearchief.nl
+https://cbr.sitearchief.nl
+https://dji.sitearchief.nl
 https://cpb.sitearchief.nl
 https://deeplink.sitearchief.nl
 https://eerstekamer.sitearchief.nl

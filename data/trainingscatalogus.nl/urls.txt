@@ -111,6 +111,8 @@ https://belastingdienst-lms-a.product-api.trainingscatalogus.nl
 https://belastingdienst-lms.enrollment-api.trainingscatalogus.nl
 https://belastingdienst-lms.product-api.trainingscatalogus.nl
 https://belastingdienst-lms.scim-api.trainingscatalogus.nl
+https://alliander-lms.enrollment-api.trainingscatalogus.nl
 https://alliander-lms.product-api.trainingscatalogus.nl
+https://alliander-lms.scim-api.trainingscatalogus.nl
 https://alliander-lms.webhook-api.trainingscatalogus.nl
 https://rvdk.trainingscatalogus.nl

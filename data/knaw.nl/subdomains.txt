@@ -94,9 +94,6 @@ www.waleweinendekeye.huygens.knaw.nl
 acc.api.knaw.nl
 acc.cms21.knaw.nl
 acc.knaw.nl
-act.easy.dans.knaw.nl
-demo.easy.dans.knaw.nl
-peasy11.dans.knaw.nl
 act.gharvester-oai.dans.knaw.nl
 act.gharvester-wcp.dans.knaw.nl
 act.resolver.dans.knaw.nl
@@ -350,10 +347,6 @@ gharvester-rss.dans.knaw.nl
 gharvester-wcp.dans.knaw.nl
 oai.gharvester.dans.knaw.nl
 rss.gharvester.dans.knaw.nl
-ncg.knaw.nl
-vgstat.huygens.knaw.nl
-vgtile.huygens.knaw.nl
-hacluster.bureau.knaw.nl
 hg.fa.knaw.nl
 hi1.huygens.knaw.nl
 test.bioport.huygens.knaw.nl
@@ -362,7 +355,7 @@ hi4.huygens.knaw.nl
 hisgis.fa.knaw.nl
 hisgis2.fa.knaw.nl
 hucdrive.huc.knaw.nl
-hweb.knaw.nl
+intranetzonder.knaw.nl
 logo.huygens.knaw.nl
 maps.fa.knaw.nl
 mapserver.fa.knaw.nl
@@ -427,12 +420,14 @@ ebs-t.knaw.nl
 knaw.nl
 nias.knaw.nl
 pureacc.knaw.nl
-web.knaw.nl
 www.herseninstituut.knaw.nl
 maritimecareers.huygens.knaw.nl
+sd-yugoslavia.dev.huc.knaw.nl
 occassio.dev.huc.knaw.nl
 workforce.nioo.knaw.nl
+ecartico.dev.huc.knaw.nl
 service-index.labs.dans.knaw.nl
+oat.acc.huc.knaw.nl
 kaartenbank.meertens.knaw.nl
 monitoring.huc.knaw.nl
 dummy-signposting.labs.dans.knaw.nl
@@ -482,6 +477,7 @@ vova.meertens.knaw.nl
 facades-formats.labs.dans.knaw.nl
 license.labs.dans.knaw.nl
 chat.bioinf.nioo.knaw.nl
+vangogh-api.dev.huc.knaw.nl
 fairevaapi.labs.dans.knaw.nl
 genomes.bioinf.nioo.knaw.nl
 repository-assistant.labs.dans.knaw.nl

@@ -6,13 +6,13 @@
 
  - **SSL Grade**:
  - **HTTP Security Grade**:D
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:7
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:6
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/odc-noord.nl/subdomains.txt)|83|Alive subdomains|
-|[urls.txt](/data/odc-noord.nl/urls.txt)|83|Urls|
+|[subdomains.txt](/data/odc-noord.nl/subdomains.txt)|82|Alive subdomains|
+|[urls.txt](/data/odc-noord.nl/urls.txt)|82|Urls|
 
 
 ## Statistics
@@ -25,7 +25,6 @@
 |[https://duo-acc.topdesk.odc-noord.nl](https://duo-acc.topdesk.odc-noord.nl)| | **E**|| | | | | | | | :white_check_mark: | ||ODC-Noord | (403...|
 |[https://ivho-staf-acc.topdesk.odc-noord.nl](https://ivho-staf-acc.topdesk.odc-noord.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|Login|
 |[https://odcn-acc.topdesk.odc-noord.nl](https://odcn-acc.topdesk.odc-noord.nl)| | **E**|| | | | | | | | :white_check_mark: | ||ODC-Noord | (403...|
-|[https://vws-acc.jira.odc-noord.nl](https://vws-acc.jira.odc-noord.nl)| | **A**||:warning: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Java||
 |[https://logius-acc.confluence.odc-noord.nl](https://logius-acc.confluence.odc-noord.nl)| | **E**|| | | | | | | | :white_check_mark: | ||ODC-Noord | (403...|
 |[https://nfi-acc.topdesk.odc-noord.nl](https://nfi-acc.topdesk.odc-noord.nl)| | **E**|| | | | | | | | :white_check_mark: | ||ODC-Noord | (403...|
 |[https://bd-acc.topdesk.odc-noord.nl](https://bd-acc.topdesk.odc-noord.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|Login|

@@ -95,6 +95,7 @@ https://rmdm-beheerapp-dev.azure.dnb.nl
 https://tzorganisatiegegevens-dev.dnb.nl
 https://securemail.dnb.nl
 https://statistiek.dnb.nl
+https://toezicht.dnb.nl
 https://www.toezicht.dnb.nl
 https://stepui-dev.azure.dnb.nl
 https://tz-organisatiegegevens.dnb.nl

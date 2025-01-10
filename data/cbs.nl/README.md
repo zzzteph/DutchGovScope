@@ -11,8 +11,8 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/cbs.nl/subdomains.txt)|182|Alive subdomains|
-|[urls.txt](/data/cbs.nl/urls.txt)|181|Urls|
+|[subdomains.txt](/data/cbs.nl/subdomains.txt)|179|Alive subdomains|
+|[urls.txt](/data/cbs.nl/urls.txt)|178|Urls|
 
 
 ## Statistics
@@ -161,9 +161,6 @@
 |[https://geoservices.cbs.nl](https://geoservices.cbs.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||
 |[https://uag.cbs.nl](https://uag.cbs.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://highcharts-acc.cbs.nl](https://highcharts-acc.cbs.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
-|[https://highcharts-test.cbs.nl](https://highcharts-test.cbs.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Highcharts Edito...|
-|[https://redactie-test.cbs.nl](https://redactie-test.cbs.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
-|[https://www-test.cbs.nl](https://www-test.cbs.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Basic HSTS||
 |[https://jeugdmonitor-acc.cbs.nl](https://jeugdmonitor-acc.cbs.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx Plesk Varnish|301 Moved Perman...|
 |[https://jeugdmonitor.cbs.nl](https://jeugdmonitor.cbs.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Drupal:10 HSTS Nginx PHP:8.2.26 Varnish:6.0|Home | Jeugdmoni...|
 |[https://longreads.cbs.nl](https://longreads.cbs.nl)| | **F**|LiteSpeed| | | | | | | | :white_check_mark: | |HTTP/3 LiteSpeed PHP:7.4.33|Longreads - Cent...|

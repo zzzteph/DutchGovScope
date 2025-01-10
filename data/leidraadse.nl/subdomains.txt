@@ -1,4 +1,2 @@
-leidraadse.nl
-webmail.leidraadse.nl
-www.leidraadse.nl
+mail.leidraadse.nl
 localhost.leidraadse.nl

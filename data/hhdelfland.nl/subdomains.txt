@@ -23,7 +23,6 @@ loket-preprod.hhdelfland.nl
 remote.hhdelfland.nl
 remotetest.hhdelfland.nl
 samenveiligwerken.hhdelfland.nl
-testopendata.hhdelfland.nl
 wbp6.hhdelfland.nl
 workspace.hhdelfland.nl
 geoview.hhdelfland.nl
@@ -31,3 +30,4 @@ geoappstest.hhdelfland.nl
 enterpriseenrollment.hhdelfland.nl
 enterpriseregistration.hhdelfland.nl
 passwordreset.hhdelfland.nl
+kennisbank.hhdelfland.nl

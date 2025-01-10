@@ -12,7 +12,7 @@
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/valys.nl/subdomains.txt)|8027|Alive subdomains|
-|[urls.txt](/data/valys.nl/urls.txt)|6963|Urls|
+|[urls.txt](/data/valys.nl/urls.txt)|6960|Urls|
 
 
 ## Statistics
@@ -3483,11 +3483,8 @@
 |[https://dpp.valys.nl](https://dpp.valys.nl)| | **F**|Apache/2.4.52 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.52 HSTS Ubuntu|301 Moved Perman...|
 |[https://boss.valys.nl](https://boss.valys.nl)| | **F**|Apache/2.4.52 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.52 HSTS Ubuntu|301 Moved Perman...|
 |[https://funplace.valys.nl](https://funplace.valys.nl)| | **F**|Apache/2.4.52 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.52 HSTS Ubuntu|301 Moved Perman...|
-|[https://voipa014.valys.nl](https://voipa014.valys.nl)| | **F**|Apache/2.4.52 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.52 HSTS Ubuntu|301 Moved Perman...|
-|[https://020-amstelveen.valys.nl](https://020-amstelveen.valys.nl)| | **F**|Apache/2.4.52 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.52 HSTS Ubuntu|301 Moved Perman...|
-|[https://demo7.valys.nl](https://demo7.valys.nl)| | **F**|Apache/2.4.52 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.52 HSTS Ubuntu|301 Moved Perman...|
-|[https://tijdlijn.valys.nl](https://tijdlijn.valys.nl)| | **F**|Apache/2.4.52 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.52 HSTS Ubuntu|301 Moved Perman...|
-|[https://ubuntu.mirror.valys.nl](https://ubuntu.mirror.valys.nl)| | **F**|Apache/2.4.52 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.52 HSTS Ubuntu|301 Moved Perman...|
+|[http://tijdlijn.valys.nl](http://tijdlijn.valys.nl)| | **F**|Apache/2.4.52 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.52 Ubuntu|301 Moved Perman...|
+|[http://ubuntu.mirror.valys.nl](http://ubuntu.mirror.valys.nl)| | **F**|Apache/2.4.52 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.52 Ubuntu|301 Moved Perman...|
 |[https://feest-pagina.valys.nl](https://feest-pagina.valys.nl)| | **F**|Apache/2.4.52 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.52 HSTS Ubuntu|301 Moved Perman...|
 |[https://zips.valys.nl](https://zips.valys.nl)| | **F**|Apache/2.4.52 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.52 HSTS Ubuntu|301 Moved Perman...|
 |[https://jaarverslag2018.valys.nl](https://jaarverslag2018.valys.nl)| | **F**|Apache/2.4.52 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.52 HSTS Ubuntu|301 Moved Perman...|

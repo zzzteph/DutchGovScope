@@ -5,6 +5,7 @@ https://onderzoek.politie.nl
 https://rss.acceptatie.politie.nl
 https://edison.politie.nl
 https://www.politie.nl
+http://api.politie.nl
 https://fts.politie.nl
 https://kombijde.politie.nl
 https://aangifte.politie.nl
@@ -19,7 +20,6 @@ https://kombijde.acceptatie.politie.nl
 https://www.acceptatie.politie.nl
 https://politie.nl
 https://sso.politie.nl
-https://tbo.politie.nl
 https://transferium-db.politie.nl
 https://transferium-oh.politie.nl
 https://transferium.gslb-trf.politie.nl

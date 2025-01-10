@@ -1,4 +1,5 @@
 acceptatie.behandel.sbv-z.nl
+behandel.sbv-z.nl
 feeds.sbv-z.nl
 opendata.sbv-z.nl
 sbv-z.nl

@@ -95,6 +95,7 @@ rmdm-beheerapp-dev.azure.dnb.nl
 tzorganisatiegegevens-dev.dnb.nl
 securemail.dnb.nl
 statistiek.dnb.nl
+toezicht.dnb.nl
 www.toezicht.dnb.nl
 stepui-dev.azure.dnb.nl
 tz-organisatiegegevens.dnb.nl

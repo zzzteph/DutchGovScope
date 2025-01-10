@@ -38,7 +38,6 @@ publicaties.provincie-utrecht.nl
 regiotramutrecht.provincie-utrecht.nl
 esb-preprod.provincie-utrecht.nl
 esb.provincie-utrecht.nl
-formulieren.provincie-utrecht.nl
 geo-pointtest.provincie-utrecht.nl
 monitorwonen.provincie-utrecht.nl
 geo-point.provincie-utrecht.nl
@@ -55,7 +54,6 @@ octopus-acc-docs.provincie-utrecht.nl
 octopus-acc.provincie-utrecht.nl
 ruimtelijkeplanneninterntest.provincie-utrecht.nl
 ruimtelijkeplannentest.provincie-utrecht.nl
-planoview.provincie-utrecht.nl
 ruimtelijkeplannen.provincie-utrecht.nl
 ruimtelijkeplannenintern.provincie-utrecht.nl
 sap-crm.provincie-utrecht.nl
@@ -64,6 +62,7 @@ search.provincie-utrecht.nl
 slechtvalk.provincie-utrecht.nl
 sslvpn-hth.provincie-utrecht.nl
 sslvpn.provincie-utrecht.nl
+stateninformatie.provincie-utrecht.nl
 www.stateninformatie.provincie-utrecht.nl
 tramdashboard.provincie-utrecht.nl
 vctu-api.provincie-utrecht.nl
@@ -87,7 +86,6 @@ govroam.provincie-utrecht.nl
 mfa.provincie-utrecht.nl
 autodiscover.provincie-utrecht.nl
 burgemeesters.provincie-utrecht.nl
-ris.provincie-utrecht.nl
 zsd.provincie-utrecht.nl
 sap-s4h-p.provincie-utrecht.nl
 atlas-ontw.provincie-utrecht.nl

@@ -16,7 +16,6 @@ degezondheidsraad.sitearchief.nl
 ind.sitearchief.nl
 archief23.sitearchief.nl
 igj.sitearchief.nl
-archief24.sitearchief.nl
 archief25.sitearchief.nl
 archief26.sitearchief.nl
 nza.sitearchief.nl
@@ -75,6 +74,8 @@ douane.sitearchief.nl
 cak.sitearchief.nl
 ciz.sitearchief.nl
 svb.sitearchief.nl
+cbr.sitearchief.nl
+dji.sitearchief.nl
 cpb.sitearchief.nl
 deeplink.sitearchief.nl
 eerstekamer.sitearchief.nl

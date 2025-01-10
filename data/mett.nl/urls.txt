@@ -58,7 +58,6 @@ http://autodiscover.mett.nl
 https://demo2.mett.nl
 https://dev.mett.nl
 https://ftp.mett.nl
-https://tom.mett.nl
 https://robert.mett.nl
 https://htx.mett.nl
 https://performance.mett.nl
@@ -80,6 +79,9 @@ https://voorneputten.mett.nl
 https://nimeto.mett.nl
 https://participatieuithoorn.mett.nl
 https://energiekmaasgouw.mett.nl
+https://circularfestivals.mett.nl
+https://rps.mett.nl
+https://resmiddenholland.mett.nl
 https://stadswerk.mett.nl
 https://markermeerijmeer.mett.nl
 https://doemeedordrecht.mett.nl
@@ -97,7 +99,6 @@ https://ggagroenblauw.mett.nl
 https://ikdenkmeeoveruitgeest.mett.nl
 https://lcnk.mett.nl
 https://zichtopnl.mett.nl
-https://halderberge.mett.nl
 https://helpdesk.mett.nl
 https://dejongeakademie.mett.nl
 https://a27houtenhooipolder.mett.nl
@@ -169,7 +170,6 @@ https://anna.mett.nl
 https://drontenikpraatmee.mett.nl
 https://mirta2deilvught.mett.nl
 https://samenshertogenbosch.mett.nl
-https://scheldedelta.mett.nl
 https://kcs.mett.nl
 https://security.mett.nl
 https://status.mett.nl
@@ -178,7 +178,6 @@ https://rotterdama16.mett.nl
 https://duurzaamwinterswijk.mett.nl
 https://intranetsightlandscaping.mett.nl
 https://toekomstbehendigbrabant.mett.nl
-https://sterkbrabant.mett.nl
 https://programmavivet.mett.nl
 https://samenbernheze.mett.nl
 https://meanderomnium.mett.nl
@@ -196,9 +195,7 @@ https://hoekschewaard.mett.nl
 https://mgrsdcg.mett.nl
 https://mta-sts.mett.nl
 https://renelivetest.mett.nl
-http://m4mpa.mett.nl
 https://m4spa.azure.mett.nl
-http://rad-test.mett.nl
 https://innovatiehuisdepeel.mett.nl
 https://stadgenoot.mett.nl
 https://workinnl.mett.nl
