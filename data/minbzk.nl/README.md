@@ -11,7 +11,7 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/minbzk.nl/subdomains.txt)|11|Alive subdomains|
+|[subdomains.txt](/data/minbzk.nl/subdomains.txt)|12|Alive subdomains|
 |[urls.txt](/data/minbzk.nl/urls.txt)|11|Urls|
 
 

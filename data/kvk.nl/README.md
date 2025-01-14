@@ -12,7 +12,7 @@
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/kvk.nl/subdomains.txt)|52|Alive subdomains|
-|[urls.txt](/data/kvk.nl/urls.txt)|51|Urls|
+|[urls.txt](/data/kvk.nl/urls.txt)|50|Urls|
 
 
 ## Statistics
@@ -58,7 +58,6 @@
 |[https://ondertekenen-id.acp.kvk.nl](https://ondertekenen-id.acp.kvk.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Kamer van Koopha...|
 |[https://ondertekenen-id.kvk.nl](https://ondertekenen-id.kvk.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS|302 Found|
 |[https://rhub.kvk.nl](https://rhub.kvk.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |HSTS Nginx||
-|[https://sdgapi.acp.ondernemersplein.kvk.nl](https://sdgapi.acp.ondernemersplein.kvk.nl)| | **F**|cloudflare|:white_check_mark: | | | | | :white_check_mark: | | :white_check_mark: | |Cloudflare Cloudflare Bot Management|Attention Requir...|
 |[https://sdgapi.ondernemersplein.kvk.nl](https://sdgapi.ondernemersplein.kvk.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
 |[https://staging.werkenbij.kvk.nl](https://staging.werkenbij.kvk.nl)| | **C**||:warning: |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Google Tag Manager HSTS Microsoft ASP.NET|Vacatures en car...|
 |[https://static.kvk.nl](https://static.kvk.nl)| | **E**||:o: |:white_check_mark: | :warning:| | | | | :white_check_mark: | |HSTS|403 - Forbidden:...|

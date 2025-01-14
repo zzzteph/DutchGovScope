@@ -1,2 +1,3 @@
 kennisnetwerkbiociden.nl
 www.kennisnetwerkbiociden.nl
+localhost.kennisnetwerkbiociden.nl

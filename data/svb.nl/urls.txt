@@ -41,8 +41,6 @@ https://rdsapplications03.svb.nl
 https://rdsapplications04.svb.nl
 https://rdsapplications05.svb.nl
 https://rdsapplications06.svb.nl
-https://rdsapplications07.svb.nl
-https://remotedesktop.svb.nl
 https://secure5.svb.nl
 https://svb.nl
 https://www.svb.nl

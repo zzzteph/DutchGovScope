@@ -87,7 +87,6 @@ https://monet-dev.dnb.nl
 https://monet-tst.dnb.nl
 https://nieuws.dnb.nl
 https://nnc.dnb.nl
-https://sharefile.dnb.nl
 http://statistics.dnb.nl
 http://nieuwsapp.dnb.nl
 https://pmhdsk-ci.dnb.nl

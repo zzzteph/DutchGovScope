@@ -24,6 +24,6 @@
 |[https://www.nlontwikkelingssamenwerking.nl](https://www.nlontwikkelingssamenwerking.nl)| | **A**|Microsoft-IIS/10.0|:warning: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS IIS:10.0 Windows Server|Document Moved|
 |[https://acc.nlontwikkelingssamenwerking.nl](https://acc.nlontwikkelingssamenwerking.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|301 Moved Perman...|
 |[https://tst.nlontwikkelingssamenwerking.nl](https://tst.nlontwikkelingssamenwerking.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|301 Moved Perman...|
-|[https://dev.nlontwikkelingssamenwerking.nl](https://dev.nlontwikkelingssamenwerking.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|500 Proxy Error|
+|[https://dev.nlontwikkelingssamenwerking.nl](https://dev.nlontwikkelingssamenwerking.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|301 Moved Perman...|
 
 

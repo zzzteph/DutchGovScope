@@ -6,13 +6,13 @@
 
  - **SSL Grade**:
  - **HTTP Security Grade**:A
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:92
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:93
 
 
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/sitearchief.nl/subdomains.txt)|126|Alive subdomains|
-|[urls.txt](/data/sitearchief.nl/urls.txt)|125|Urls|
+|[urls.txt](/data/sitearchief.nl/urls.txt)|126|Urls|
 
 
 ## Statistics
@@ -119,7 +119,7 @@
 |[https://nvao.sitearchief.nl](https://nvao.sitearchief.nl)| | **A**|nginx|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx|Sitearchief - Ne...|
 |[https://sociaalfondspersoneel.sitearchief.nl](https://sociaalfondspersoneel.sitearchief.nl)| | **A**|nginx|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx|Sitearchief - So...|
 |[https://sodm.sitearchief.nl](https://sodm.sitearchief.nl)| | **A**|nginx|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx|Sitearchief - St...|
-|[https://archief52.sitearchief.nl](https://archief52.sitearchief.nl)| | **B**|nginx/1.27.1| |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | |HSTS Nginx:1.27.1|403 Forbidden|
+|[https://archief52.sitearchief.nl](https://archief52.sitearchief.nl)| | **B**|nginx/1.27.1| |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | |HSTS Nginx:1.27.1|HTTP Status 404...|
 |[https://rsj.sitearchief.nl](https://rsj.sitearchief.nl)| | **A**|nginx|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx|Sitearchief - Ra...|
 |[https://waarderingskamer.sitearchief.nl](https://waarderingskamer.sitearchief.nl)| | **A**|nginx|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx|Sitearchief - Wa...|
 |[https://sportraad.sitearchief.nl](https://sportraad.sitearchief.nl)| | **A**|nginx|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx|Sitearchief - Ne...|
@@ -141,6 +141,7 @@
 |[https://politieacademie.sitearchief.nl](https://politieacademie.sitearchief.nl)| | **A**|nginx|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx|Sitearchief - Po...|
 |[https://diensttoeslagen.sitearchief.nl](https://diensttoeslagen.sitearchief.nl)| | **A**|nginx|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx|Sitearchief - Di...|
 |[https://nationaleombudsman.sitearchief.nl](https://nationaleombudsman.sitearchief.nl)| | **A**|nginx|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx|Sitearchief - Na...|
+|[https://minbuza.sitearchief.nl](https://minbuza.sitearchief.nl)| | **A**|nginx|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx|Sitearchief - Mi...|
 |[https://awti.sitearchief.nl](https://awti.sitearchief.nl)| | **A**|nginx|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx|Sitearchief - AW...|
 |[https://dienstuitvoeringonderwijs.sitearchief.nl](https://dienstuitvoeringonderwijs.sitearchief.nl)| | **A**|nginx|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx|Sitearchief - Di...|
 |[https://staatsbosbeheer.sitearchief.nl](https://staatsbosbeheer.sitearchief.nl)| | **A**|nginx|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx|Sitearchief - St...|

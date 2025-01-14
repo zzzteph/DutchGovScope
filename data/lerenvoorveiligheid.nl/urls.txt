@@ -1,2 +1,3 @@
 https://www.lerenvoorveiligheid.nl
 https://lerenvoorveiligheid.nl
+http://localhost.lerenvoorveiligheid.nl

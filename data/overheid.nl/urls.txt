@@ -32,7 +32,7 @@ https://api.preprod.mijn.overheid.nl
 https://gegevensdelen.preprod.mijn.overheid.nl
 https://artifact-rd1.toegang.overheid.nl
 https://bag.basisregistraties.overheid.nl
-https://bag.test.basisregistraties.overheid.nl
+http://bag.test.basisregistraties.overheid.nl
 https://bag2.basisregistraties.overheid.nl
 https://beheerportaal.acc.omgevingswet.overheid.nl
 https://iknowcimow.omgevingswet.overheid.nl
@@ -168,6 +168,7 @@ https://bouw.omgevingswet.overheid.nl
 https://brk.basisregistraties.overheid.nl
 https://brk.test.basisregistraties.overheid.nl
 https://brt.basisregistraties.overheid.nl
+https://cbm.demo.mijn.overheid.nl
 https://cbm.mijn.overheid.nl
 https://cbm.preprod.mijn.overheid.nl
 https://preprod.mijn.overheid.nl
@@ -294,7 +295,7 @@ https://mnd-preprd.overheid.nl
 https://oproepingen-api-preprd-poc.overheid.nl
 http://demo1-systemteam.overheid.nl
 https://digid-stub.lpc.mijn.overheid.nl
-https://ondersteuning.omgevingswet.overheid.nl
+http://ondersteuning.omgevingswet.overheid.nl
 https://pdc.pre.omgevingswet.overheid.nl
 https://pp2.toegang.overheid.nl
 https://resolver.int.omgevingswet.overheid.nl

@@ -22,7 +22,7 @@
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[http://acceptatie.vtv2018.nl](http://acceptatie.vtv2018.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://vtv2018.nl](https://vtv2018.nl)| | **A**|Apache| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS|301 Moved Perman...|
-|[http://www.vtv2018.nl](http://www.vtv2018.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server Drupal HSTS PHP||
+|[https://www.vtv2018.nl](https://www.vtv2018.nl)| | **A**|Apache| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server Drupal HSTS PHP:8.1.31|Een gezond vooru...|
 |[http://test.vtv2018.nl](http://test.vtv2018.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 
 

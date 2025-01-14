@@ -1,2 +1,2 @@
-http://mjpo.nl
-http://www.mjpo.nl
+https://mjpo.nl
+https://www.mjpo.nl

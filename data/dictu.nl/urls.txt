@@ -27,6 +27,7 @@ https://simplesamlidp.dictu.nl
 https://engine.acc.fhub.dictu.nl
 https://engine.fhub.dictu.nl
 https://fhub.dictu.nl
+https://gisextern.dictu.nl
 https://ibabs.dictu.nl
 https://pms.dictu.nl
 https://ibg.datasluis.dictu.nl
@@ -58,7 +59,7 @@ https://asb.webftp.dictu.nl
 http://c-pki-acc.dictu.nl
 http://rijkspascrlcert2-acc.dictu.nl
 https://snow-cw.dictu.nl
-https://tvs.dictu.nl
+http://tvs.dictu.nl
 http://rijkspasocsp2-acc.dictu.nl
 https://test2.dictu.nl
 https://acc2.dictu.nl

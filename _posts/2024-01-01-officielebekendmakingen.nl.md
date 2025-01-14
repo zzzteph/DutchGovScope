@@ -36,7 +36,7 @@ tags: dutchgov
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[https://zoek-preprod.officielebekendmakingen.nl](https://zoek-preprod.officielebekendmakingen.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|403 Forbidden|
 |[https://www-preprod.officielebekendmakingen.nl](https://www-preprod.officielebekendmakingen.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|403 Forbidden|
-|[https://stage-acc.officielebekendmakingen.nl](https://stage-acc.officielebekendmakingen.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET||
+|[http://stage-acc.officielebekendmakingen.nl](http://stage-acc.officielebekendmakingen.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET||
 |[https://beheer-acc.officielebekendmakingen.nl](https://beheer-acc.officielebekendmakingen.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|Externe Beheersi...|
 |[https://identifier-preprod.officielebekendmakingen.nl](https://identifier-preprod.officielebekendmakingen.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|URI - Performer...|
 |[https://beheer-sgd.officielebekendmakingen.nl](https://beheer-sgd.officielebekendmakingen.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|Beheersite SGD|

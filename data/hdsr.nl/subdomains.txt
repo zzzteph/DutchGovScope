@@ -23,5 +23,4 @@ zaaksysteem.hdsr.nl
 zoeken.hdsr.nl
 kantoor.hdsr.nl
 remote-pa.hdsr.nl
-ftp-hdsr.hdsr.nl
 localhost.hdsr.nl

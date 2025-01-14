@@ -68,6 +68,11 @@ primostijdreeks.databank.nl
 prognoses.databank.nl
 primosinteractief.databank.nl
 prognosemodelzw.databank.nl
+www.gemeente.databank.nl
+abc.databank.nl
+limburg.databank.nl
+beta-noordholland.databank.nl
+cname-erfgoed.databank.nl
 www.ciz.databank.nl
 adc.databank.nl
 chacha.databank.nl
@@ -106,13 +111,11 @@ www.seer.databank.nl
 www.amsterdam.rosopen.databank.nl
 beta-arbeidsmarktmobiliteit.databank.nl
 beta2-arbeidsmarktmobiliteit.databank.nl
-beta-aisnbtc.databank.nl
 beta-veiligheidsmonitor.databank.nl
 beta-cbc.databank.nl
 beta-icontrol.databank.nl
 cname-vakantieonderzoek-nbtc.databank.nl
 beta-energiecijfers.databank.nl
-beta-hr-sectorwaterschappen.databank.nl
 beta-waves.databank.nl
 demo-primosinteractief.databank.nl
 beta-duurzamemobiliteit.databank.nl
@@ -125,7 +128,6 @@ aedesforecast.databank.nl
 accept-aedesforecast.databank.nl
 beta-nabb.databank.nl
 duurzaamdcmr.databank.nl
-b08bc517-30bd-eb33-0412-cdcdd6cfb645.databank.nl
 beta-prognosemodelzw.databank.nl
 beta-nbtc.databank.nl
 beta-bvz-waves.databank.nl
@@ -142,7 +144,6 @@ duurzamemobiliteit.databank.nl
 wonenmetzorg.databank.nl
 beta-berst.databank.nl
 ggddemo.databank.nl
-beta-beslotenwaves.databank.nl
 wmm-services.databank.nl
 www.klimaatmnitor.databank.nl
 www.inspectie-oe.databank.nl
@@ -151,3 +152,4 @@ beta.cbc.databank.nl
 accept-wsjg.databank.nl
 waves.databank.nl
 www.arbeidsmarkthoreca.databank.nl
+besloten-waves.databank.nl

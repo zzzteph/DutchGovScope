@@ -23,7 +23,7 @@
 |[https://hogeraad.nl](https://hogeraad.nl)| | **A**||:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |||
 |[https://mijnzaak.hogeraad.nl](https://mijnzaak.hogeraad.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Object moved|
 |[https://postbus.hogeraad.nl](https://postbus.hogeraad.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET||
-|[https://stats.hogeraad.nl](https://stats.hogeraad.nl)| | **C**|Microsoft-IIS/10.0|:white_check_mark: |:white_check_mark: | | |:warning: | | | :white_check_mark: | |HSTS IIS:10.0 PHP:8.2.26 Windows Server|Matomo › Error|
+|[https://stats.hogeraad.nl](https://stats.hogeraad.nl)| | **C**|Microsoft-IIS/10.0|:white_check_mark: |:white_check_mark: | | |:warning: | | | :white_check_mark: | |HSTS IIS:10.0 Matomo Analytics PHP:8.2.26 Windows Server|Sign in - Matomo|
 |[https://www.hogeraad.nl](https://www.hogeraad.nl)| | **A**|Microsoft-IIS/10.0|:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS IIS:10.0 Microsoft ASP.NET Windows Server|Home - Hoge Raad|
 |[https://siam-acc.hogeraad.nl](https://siam-acc.hogeraad.nl)| | **A**|N.A.| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bootstrap HSTS|Hoge Raad der Ne...|
 |[https://siam.hogeraad.nl](https://siam.hogeraad.nl)| | **A**|N.A.| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bootstrap HSTS|Hoge Raad der Ne...|

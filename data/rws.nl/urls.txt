@@ -68,7 +68,6 @@ https://geo.rws.nl
 https://geoweb.rws.nl
 http://git.rws.nl
 https://hld.rws.nl
-https://inloggen.rws.nl
 https://maps.rws.nl
 https://mars.rws.nl
 http://meridian.rws.nl
@@ -84,7 +83,6 @@ https://poc-werkplek.rws.nl
 https://preprod.beterbediend.rws.nl
 https://protide.rws.nl
 http://prs.rws.nl
-https://ptp.inloggen.rws.nl
 https://rastoken.rws.nl
 https://rhel8.wabinfo.rws.nl
 https://wabinfo.rws.nl
@@ -153,12 +151,8 @@ https://digitaltwin-dev.rws.nl
 https://acc-wvp.rws.nl
 https://aquo-kit.rws.nl
 http://mip-proxy-acc.rws.nl
-https://svs.ptp.inloggen.rws.nl
-https://schadeportaal.ptp.inloggen.rws.nl
-https://mars2.ptp.inloggen.rws.nl
 https://acc-werkplek.gw01-gslb.rws.nl
 https://werkplek.gw01-gslb.rws.nl
 http://ddapi-preprod.gslb.rws.nl
 https://test-aquo-kit.rws.nl
 https://tst-ovdsupport.rws.nl
-https://mars.ptp.inloggen.rws.nl

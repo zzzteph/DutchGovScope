@@ -460,6 +460,7 @@ phpmyadmin.wordpress.dans.knaw.nl
 gharvester31.dans.knaw.nl
 hi2.huygens.knaw.nl
 hi8.huygens.knaw.nl
+vangogh-tiles.dev.huc.knaw.nl
 ivanticsa01.knaw.nl
 tmfiles.knaw.nl
 sweb11.dans.knaw.nl
@@ -531,6 +532,8 @@ goetgevonden.huygens.knaw.nl
 backoffice.knaw.nl
 www.back2roots.nioo.knaw.nl
 gitlab.bioinf.nioo.knaw.nl
+vangogh-letters.dev.huc.knaw.nl
 ats-test.knaw.nl
 access.huc.knaw.nl
 portus-acc.knaw.nl
+nieuwsbrief.meertens.knaw.nl

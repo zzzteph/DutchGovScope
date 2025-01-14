@@ -1,9 +1,5 @@
 https://www.competentnl.nl
 https://competentnl.nl
 http://autodiscover.competentnl.nl
-https://api-acc.competentnl.nl
-https://api-a.competentnl.nl
-https://sparql-acc.competentnl.nl
-https://sparql-a.competentnl.nl
 https://api.competentnl.nl
 https://sparql.competentnl.nl

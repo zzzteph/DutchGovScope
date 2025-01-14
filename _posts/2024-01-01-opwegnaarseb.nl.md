@@ -36,7 +36,7 @@ tags: dutchgov
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[https://cdn.opwegnaarseb.nl](https://cdn.opwegnaarseb.nl)| | **E**|| | | | | | | | :white_check_mark: | |Azure Azure Front Door||
 |[https://mail.opwegnaarseb.nl](https://mail.opwegnaarseb.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|Index of /|
-|[https://e-learning.opwegnaarseb.nl](https://e-learning.opwegnaarseb.nl)| | **F**|Microsoft-IIS/10.0| | | | | | | | :white_check_mark: | |IIS:10.0 Windows Server|403 - Forbidden:...|
+|[https://e-learning.opwegnaarseb.nl](https://e-learning.opwegnaarseb.nl)| | **E**|| | | | | | | | :white_check_mark: | |IIS:10.0 Windows Server|Not Found|
 |[https://opwegnaarseb.nl](https://opwegnaarseb.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
 |[https://www.opwegnaarseb.nl](https://www.opwegnaarseb.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Home | Schoon en...|
 |[https://feeds.opwegnaarseb.nl](https://feeds.opwegnaarseb.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||

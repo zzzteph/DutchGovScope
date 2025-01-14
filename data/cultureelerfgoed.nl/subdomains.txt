@@ -63,7 +63,6 @@ acc.zaak.services.cultureelerfgoed.nl
 acc.api-gateway.archis.cultureelerfgoed.nl
 english.cultureelerfgoed.nl
 formulier.cultureelerfgoed.nl
-auth.services.cultureelerfgoed.nl
 services.cultureelerfgoed.nl
 idselect.cultureelerfgoed.nl
 preprod.idselect.cultureelerfgoed.nl

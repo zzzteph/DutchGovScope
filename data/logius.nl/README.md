@@ -12,7 +12,7 @@
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/logius.nl/subdomains.txt)|57|Alive subdomains|
-|[urls.txt](/data/logius.nl/urls.txt)|57|Urls|
+|[urls.txt](/data/logius.nl/urls.txt)|56|Urls|
 
 
 ## Statistics
@@ -20,7 +20,7 @@
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://acc-dictu.comcms.logius.nl](https://acc-dictu.comcms.logius.nl)| | **E**|nginx/1.26.2| | | | | | :white_check_mark: | | :white_check_mark: | |Drupal:10 Nginx:1.26.2 PHP|Redirecting to h...|
+|[https://acc-dictu.comcms.logius.nl](https://acc-dictu.comcms.logius.nl)| | **E**|nginx/1.26.2| | | | | | :white_check_mark: | | :white_check_mark: | |Drupal Nginx:1.26.2 PHP|Redirecting to h...|
 |[https://test-dictu.logius.nl](https://test-dictu.logius.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Basic Nginx|401 Authorizatio...|
 |[https://acc-dictu.kennisbank.logius.nl](https://acc-dictu.kennisbank.logius.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Basic Nginx|401 Authorizatio...|
 |[https://acc-dictu.logius.nl](https://acc-dictu.logius.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Basic Nginx|401 Authorizatio...|
@@ -34,13 +34,13 @@
 |[http://amp-idp.logius.nl](http://amp-idp.logius.nl)| | **F**|BigIP| | | | | | | | :white_check_mark: | |F5 BigIP||
 |[http://amp.logius.nl](http://amp.logius.nl)| | **F**|BigIP| | | | | | | | :white_check_mark: | |F5 BigIP||
 |[http://ca-devportal-pre.logius.nl](http://ca-devportal-pre.logius.nl)| | **F**|BigIP| | | | | | | | :white_check_mark: | |F5 BigIP||
-|[https://gm-pre.mev.logius.nl](https://gm-pre.mev.logius.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS|403 Forbidden|
+|[http://gm-pre.mev.logius.nl](http://gm-pre.mev.logius.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||
 |[https://bvd-pre.mev.logius.nl](https://bvd-pre.mev.logius.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||
 |[https://bvd.mev.logius.nl](https://bvd.mev.logius.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||
 |[http://iam-containerplatform-az1.lpc.logius.nl](http://iam-containerplatform-az1.lpc.logius.nl)| | **F**|BigIP| | | | | | | | :white_check_mark: | |F5 BigIP||
 |[https://iam-containerplatform.lpc.logius.nl](https://iam-containerplatform.lpc.logius.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|404 Not Found|
 |[http://channels-az1.lpc.logius.nl](http://channels-az1.lpc.logius.nl)| | **F**|BigIP| | | | | | | | :white_check_mark: | |F5 BigIP||
-|[https://channels.lpc.logius.nl](https://channels.lpc.logius.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS||
+|[https://channels.lpc.logius.nl](https://channels.lpc.logius.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS|Logius Private C...|
 |[http://docs.lpc.logius.nl](http://docs.lpc.logius.nl)| | **F**|BigIP| | | | | | | | :white_check_mark: | |F5 BigIP||
 |[http://git-az1.lpc.logius.nl](http://git-az1.lpc.logius.nl)| | **F**|BigIP| | | | | | | | :white_check_mark: | |F5 BigIP||
 |[http://git.lpc.logius.nl](http://git.lpc.logius.nl)| | **F**|BigIP| | | | | | | | :white_check_mark: | |F5 BigIP||
@@ -52,7 +52,7 @@
 |[https://prod-dictu.comcms.logius.nl](https://prod-dictu.comcms.logius.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |HSTS Nginx||
 |[https://gitdocumentatie.logius.nl](https://gitdocumentatie.logius.nl)| | **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Nginx|403 Forbidden|
 |[https://kennisbank.logius.nl](https://kennisbank.logius.nl)| | **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |Basic HSTS Nginx|401 Authorizatio...|
-|[https://prod-dictu.logius.nl](https://prod-dictu.logius.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|301 Moved Perman...|
+|[https://prod-dictu.logius.nl](https://prod-dictu.logius.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
 |[https://www.logius.nl](https://www.logius.nl)| | **A**|nginx| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Drupal HSTS Nginx PHP|Logius | Logius|
 |[https://machtigen.digipoort.logius.nl](https://machtigen.digipoort.logius.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS IBM DataPower||
 |[https://mailing.logius.nl](https://mailing.logius.nl)| | **C**|Spotler| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
@@ -69,9 +69,8 @@
 |[https://pmz-pre.logius.nl](https://pmz-pre.logius.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|404 Not Found|
 |[https://pmz.logius.nl](https://pmz.logius.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS|404 Not Found|
 |[http://amp-pre.logius.nl](http://amp-pre.logius.nl)| | **F**|BigIP| | | | | | | | :white_check_mark: | |F5 BigIP||
-|[https://gm.mev.logius.nl](https://gm.mev.logius.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS|403 Forbidden|
+|[http://gm.mev.logius.nl](http://gm.mev.logius.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||
 |[https://logius.nl](https://logius.nl)| | **A**|nginx| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
-|[https://gebruikersportaal.preproductie.digipoort.logius.nl](https://gebruikersportaal.preproductie.digipoort.logius.nl)| | **C**||:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Java||
 |[http://lca.logius.nl](http://lca.logius.nl)| | **F**|BigIP| | | | | | | | :white_check_mark: | |F5 BigIP||
 |[http://sonarqube.lpc.logius.nl](http://sonarqube.lpc.logius.nl)| | **F**|BigIP| | | | | | | | :white_check_mark: | |F5 BigIP||
 |[http://grafana.lpc.logius.nl](http://grafana.lpc.logius.nl)| | **F**|BigIP| | | | | | | | :white_check_mark: | |F5 BigIP||

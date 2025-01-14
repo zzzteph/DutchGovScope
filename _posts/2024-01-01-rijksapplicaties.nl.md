@@ -45,13 +45,13 @@ tags: dutchgov
 |[https://login-az.rijksapplicaties.nl](https://login-az.rijksapplicaties.nl)| | **C**|nginx|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS Microsoft ASP.NET Nginx|Login|
 |[https://login-bz.rijksapplicaties.nl](https://login-bz.rijksapplicaties.nl)| | **E**|nginx| | | | |:warning: | | | :white_check_mark: | |Nginx||
 |[https://login-bzk.rijksapplicaties.nl](https://login-bzk.rijksapplicaties.nl)| | **C**|nginx|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS Microsoft ASP.NET Nginx|Login BZK|
-|[https://fac-webservice.rijksapplicaties.nl](https://fac-webservice.rijksapplicaties.nl)| | **E**|nginx| | | | |:warning: | | | :white_check_mark: | |HSTS Nginx||
+|[https://fac-webservice.rijksapplicaties.nl](https://fac-webservice.rijksapplicaties.nl)| | **C**|nginx|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS Nginx||
 |[https://login-ocw.rijksapplicaties.nl](https://login-ocw.rijksapplicaties.nl)| | **C**|nginx|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS Microsoft ASP.NET Nginx|Login|
 |[https://rijksapplicaties.nl](https://rijksapplicaties.nl)| | **E**|nginx| | | | |:warning: | | | :white_check_mark: | |Nginx||
 |[https://p14-vws.staging.rijksapplicaties.nl](https://p14-vws.staging.rijksapplicaties.nl)| | **C**|nginx|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS Nginx||
-|[https://rbo-klachtenregister.staging.rijksapplicaties.nl](https://rbo-klachtenregister.staging.rijksapplicaties.nl)| | **C**|nginx|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS Nginx||
+|[https://rbo-klachtenregister.staging.rijksapplicaties.nl](https://rbo-klachtenregister.staging.rijksapplicaties.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx||
 |[https://rvb-dtc-webservice.staging.rijksapplicaties.nl](https://rvb-dtc-webservice.staging.rijksapplicaties.nl)| | **C**|nginx|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS Nginx||
-|[https://fac-webservice.staging.rijksapplicaties.nl](https://fac-webservice.staging.rijksapplicaties.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |HSTS Nginx||
+|[https://fac-webservice.staging.rijksapplicaties.nl](https://fac-webservice.staging.rijksapplicaties.nl)| | **C**|nginx|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS Nginx||
 |[https://idm-bzk.staging.rijksapplicaties.nl](https://idm-bzk.staging.rijksapplicaties.nl)| | **C**|nginx|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS Microsoft ASP.NET Nginx|Staging - BZK ID...|
 |[https://kimdatamanagementtool.staging.rijksapplicaties.nl](https://kimdatamanagementtool.staging.rijksapplicaties.nl)| | **C**|nginx|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS Nginx||
 |[https://login-nl.staging.rijksapplicaties.nl](https://login-nl.staging.rijksapplicaties.nl)| | **C**|nginx|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS Microsoft ASP.NET Nginx|GV - Centrale Lo...|
@@ -117,7 +117,7 @@ tags: dutchgov
 |[https://cedar.staging.rijksapplicaties.nl](https://cedar.staging.rijksapplicaties.nl)| | **C**|nginx|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS Nginx||
 |[https://dib-ocw.staging.rijksapplicaties.nl](https://dib-ocw.staging.rijksapplicaties.nl)| | **C**|nginx|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS Nginx||
 |[https://eva.staging.rijksapplicaties.nl](https://eva.staging.rijksapplicaties.nl)| | **C**|nginx|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS Nginx||
-|[https://rldb.staging.rijksapplicaties.nl](https://rldb.staging.rijksapplicaties.nl)| | **C**|nginx|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS Nginx||
+|[https://rldb.staging.rijksapplicaties.nl](https://rldb.staging.rijksapplicaties.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |HSTS Nginx||
 |[https://rvb-ssp.staging.rijksapplicaties.nl](https://rvb-ssp.staging.rijksapplicaties.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx||
 |[https://rvb-vgi2.staging.rijksapplicaties.nl](https://rvb-vgi2.staging.rijksapplicaties.nl)| | **C**|nginx|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS Nginx||
 |[https://rvb-rvm.staging.rijksapplicaties.nl](https://rvb-rvm.staging.rijksapplicaties.nl)| | **C**|nginx|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS Nginx||
@@ -162,8 +162,8 @@ tags: dutchgov
 |[https://goudo.staging.rijksapplicaties.nl](https://goudo.staging.rijksapplicaties.nl)| | **C**|nginx|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS Microsoft ASP.NET Nginx|ACC - GOUDO|
 |[https://rvb-events.staging.rijksapplicaties.nl](https://rvb-events.staging.rijksapplicaties.nl)| | **C**|nginx|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS Nginx||
 |[https://bhw.staging.rijksapplicaties.nl](https://bhw.staging.rijksapplicaties.nl)| | **C**|nginx|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS Nginx||
-|[https://ctx.staging.rijksapplicaties.nl](https://ctx.staging.rijksapplicaties.nl)| | **C**|nginx|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS Nginx||
-|[https://fac.staging.rijksapplicaties.nl](https://fac.staging.rijksapplicaties.nl)| | **C**|nginx|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS Nginx||
+|[https://ctx.staging.rijksapplicaties.nl](https://ctx.staging.rijksapplicaties.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |HSTS Nginx||
+|[https://fac.staging.rijksapplicaties.nl](https://fac.staging.rijksapplicaties.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |HSTS Nginx||
 |[https://leveranciersportaal.staging.rijksapplicaties.nl](https://leveranciersportaal.staging.rijksapplicaties.nl)| | **C**|nginx|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS Microsoft ASP.NET Nginx|Leveranciersport...|
 |[https://nplw-crm.staging.rijksapplicaties.nl](https://nplw-crm.staging.rijksapplicaties.nl)| | **C**|nginx|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS Nginx||
 |[https://rvb-rbb.staging.rijksapplicaties.nl](https://rvb-rbb.staging.rijksapplicaties.nl)| | **C**|nginx|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS Nginx||
@@ -188,7 +188,7 @@ tags: dutchgov
 |[https://npcemaatregelenmonitor.rijksapplicaties.nl](https://npcemaatregelenmonitor.rijksapplicaties.nl)| | **C**|nginx|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS Nginx||
 |[https://redt.rijksapplicaties.nl](https://redt.rijksapplicaties.nl)| | **C**|nginx|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS Microsoft ASP.NET Nginx|Rijksoverheid Ef...|
 |[https://mpx.rijksapplicaties.nl](https://mpx.rijksapplicaties.nl)| | **C**|nginx|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS Nginx||
-|[https://ctx.rijksapplicaties.nl](https://ctx.rijksapplicaties.nl)| | **C**|nginx|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS Nginx||
+|[https://ctx.rijksapplicaties.nl](https://ctx.rijksapplicaties.nl)| | **E**|nginx| | | | |:warning: | | | :white_check_mark: | |HSTS Nginx||
 |[https://leveranciersportaal.rijksapplicaties.nl](https://leveranciersportaal.rijksapplicaties.nl)| | **C**|nginx|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS Microsoft ASP.NET Nginx|Leveranciersport...|
 |[https://rvb-rbb.rijksapplicaties.nl](https://rvb-rbb.rijksapplicaties.nl)| | **C**|nginx|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS Nginx||
 |[https://wobi.rijksapplicaties.nl](https://wobi.rijksapplicaties.nl)| | **C**|nginx|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS Nginx||
@@ -230,7 +230,7 @@ tags: dutchgov
 |[https://dib-ocw-na.rijksapplicaties.nl](https://dib-ocw-na.rijksapplicaties.nl)| | **C**|nginx|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS Nginx||
 |[https://qr-app.rijksapplicaties.nl](https://qr-app.rijksapplicaties.nl)| | **C**|nginx|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS Microsoft ASP.NET Nginx|QR App|
 |[https://www.rijksapplicaties.nl](https://www.rijksapplicaties.nl)| | **C**|nginx|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS Microsoft ASP.NET Nginx|INT - Rijksappli...|
-|[https://dba.rijksapplicaties.nl](https://dba.rijksapplicaties.nl)| | **C**|nginx|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS Microsoft ASP.NET Nginx|Digitale Bijdrag...|
+|[https://dba.rijksapplicaties.nl](https://dba.rijksapplicaties.nl)| | **E**|nginx| | | | |:warning: | | | :white_check_mark: | |HSTS Microsoft ASP.NET Nginx|Digitale Bijdrag...|
 |[https://dsa.rijksapplicaties.nl](https://dsa.rijksapplicaties.nl)| | **C**|nginx|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS Microsoft ASP.NET Nginx|Digitale Subsidi...|
 |[https://ncg-thv.rijksapplicaties.nl](https://ncg-thv.rijksapplicaties.nl)| | **C**|nginx|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS Nginx||
 |[https://goudo.rijksapplicaties.nl](https://goudo.rijksapplicaties.nl)| | **C**|nginx|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS Microsoft ASP.NET Nginx|GOUDO|
@@ -244,7 +244,7 @@ tags: dutchgov
 |[https://cfa-rvb.rijksapplicaties.nl](https://cfa-rvb.rijksapplicaties.nl)| | **C**|nginx|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS Nginx||
 |[https://via-i.rijksapplicaties.nl](https://via-i.rijksapplicaties.nl)| | **C**|nginx|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS Nginx||
 |[https://via.rijksapplicaties.nl](https://via.rijksapplicaties.nl)| | **C**|nginx|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS Nginx||
-|[https://fac.rijksapplicaties.nl](https://fac.rijksapplicaties.nl)| | **C**|nginx|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS Nginx||
+|[https://fac.rijksapplicaties.nl](https://fac.rijksapplicaties.nl)| | **E**|nginx| | | | |:warning: | | | :white_check_mark: | |HSTS Nginx||
 |[https://rijksbeveiligingsportaal.rijksapplicaties.nl](https://rijksbeveiligingsportaal.rijksapplicaties.nl)| | **C**|nginx|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS Nginx||
 |[https://architectuurexplains.rijksapplicaties.nl](https://architectuurexplains.rijksapplicaties.nl)| | **C**|nginx|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS Nginx||
 |[https://rvb-rif.rijksapplicaties.nl](https://rvb-rif.rijksapplicaties.nl)| | **C**|nginx|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS Nginx||

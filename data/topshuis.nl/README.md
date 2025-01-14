@@ -20,8 +20,8 @@
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://acceptatie.topshuis.nl](https://acceptatie.topshuis.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|Topshuis | Meeti...|
-|[https://topshuis.nl](https://topshuis.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server||
-|[https://www.topshuis.nl](https://www.topshuis.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server Google Tag Manager MySQL PHP WordPress:6.7.1 Yoast SEO:24.1|Topshuis | Meeti...|
+|[https://acceptatie.topshuis.nl](https://acceptatie.topshuis.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|Topshuis | Meeti...|
+|[https://topshuis.nl](https://topshuis.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx||
+|[https://www.topshuis.nl](https://www.topshuis.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Google Tag Manager MySQL Nginx PHP WordPress:6.7.1 Yoast SEO:24.2|Topshuis | Meeti...|
 
 

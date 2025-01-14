@@ -12,7 +12,7 @@
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/bics.nl/subdomains.txt)|13|Alive subdomains|
-|[urls.txt](/data/bics.nl/urls.txt)|13|Urls|
+|[urls.txt](/data/bics.nl/urls.txt)|12|Urls|
 
 
 ## Statistics
@@ -20,7 +20,7 @@
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://hsacc.bics.nl](https://hsacc.bics.nl)| | **A**|Apache| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS|404 Not Found|
+|[https://hsacc.bics.nl](https://hsacc.bics.nl)| | **A**|Apache| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS|403 Forbidden|
 |[https://bics.nl](https://bics.nl)| | **B**|Apache| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server Drupal:10 HSTS PHP SDL Tridion|Home | BICS-webs...|
 |[https://www.bics.nl](https://www.bics.nl)| | **B**|Apache| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server Drupal:10 HSTS PHP SDL Tridion|Home | BICS-webs...|
 |[https://hs.bics.nl](https://hs.bics.nl)| | **B**|Apache| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
@@ -29,7 +29,6 @@
 |[https://livra2.bics.nl](https://livra2.bics.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||
 |[http://nlhull.bics.nl](http://nlhull.bics.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[http://nlrdms.bics.nl](http://nlrdms.bics.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
-|[https://bicsaccweb1.bics.nl](https://bicsaccweb1.bics.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
 |[https://bicsweb1.bics.nl](https://bicsweb1.bics.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
 |[https://bicsweb3.bics.nl](https://bicsweb3.bics.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS||
 |[https://acc.bics.nl](https://acc.bics.nl)| | **C**|Apache| |:white_check_mark: | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|403 Forbidden|

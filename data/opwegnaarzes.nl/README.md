@@ -24,7 +24,7 @@
 |[https://kentekencheck.opwegnaarzes.nl](https://kentekencheck.opwegnaarzes.nl)| | **D**|Vercel| |:white_check_mark: | :warning:| | | | | :white_check_mark: | |HSTS Vercel||
 |[https://opwegnaarzes.nl](https://opwegnaarzes.nl)| | **C**|Caddy| |:white_check_mark: | | | | | | :white_check_mark: | |Caddy HSTS||
 |[http://staging.opwegnaarzes.nl](http://staging.opwegnaarzes.nl)| | **F**|Caddy| | | | | | | | :white_check_mark: | |Caddy||
-|[https://www.opwegnaarzes.nl](https://www.opwegnaarzes.nl)| | **C**|Caddy Apache/2.4.62 (Debian) PHP/8.2.26| |:white_check_mark: | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.62 Debian HSTS PHP:8.2.26|Home - Op weg na...|
+|[https://www.opwegnaarzes.nl](https://www.opwegnaarzes.nl)| | **C**|Caddy Apache/2.4.62 (Debian) PHP/8.2.27| |:white_check_mark: | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.62 Debian HSTS PHP:8.2.27|Home - Op weg na...|
 |[http://www.staging.opwegnaarzes.nl](http://www.staging.opwegnaarzes.nl)| | **F**|Caddy| | | | | | | | :white_check_mark: | |Caddy||
 |[http://autodiscover.opwegnaarzes.nl](http://autodiscover.opwegnaarzes.nl)| | **C**|Microsoft-IIS/10.0| |:white_check_mark: | | | | | | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server||
 |[https://enterpriseenrollment.opwegnaarzes.nl](https://enterpriseenrollment.opwegnaarzes.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||

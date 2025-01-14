@@ -5,7 +5,7 @@ permalink: "/dutchgov/nationaalarchief.nl.html"
 subdomains_count: 41
 urls_count: 40
 ssl_rank: 
-http_rank: D
+http_rank: C
 security_txt: 8
 url_link: /data/nationaalarchief.nl/urls.txt
 subdomains_link: /data/nationaalarchief.nl/subdomains.txt
@@ -19,7 +19,7 @@ tags: dutchgov
 
 
  - **SSL Grade**:
- - **HTTP Security Grade**:D
+ - **HTTP Security Grade**:C
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:8
 
 
@@ -41,7 +41,7 @@ tags: dutchgov
 |[https://vocopvarenden.nationaalarchief.nl](https://vocopvarenden.nationaalarchief.nl)| | **F**|nginx/1.25.3| | | | | | | | :white_check_mark: | |HSTS Nginx:1.25.3||
 |[https://vocseavoyagers.nationaalarchief.nl](https://vocseavoyagers.nationaalarchief.nl)| | **F**|nginx/1.25.3| | | | | | | | :white_check_mark: | |HSTS Nginx:1.25.3||
 |[https://acpt.nationaalarchief.nl](https://acpt.nationaalarchief.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|403 Forbidden|
-|[http://actorenregister.nationaalarchief.nl](http://actorenregister.nationaalarchief.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |Drupal HSTS PHP||
+|[https://actorenregister.nationaalarchief.nl](https://actorenregister.nationaalarchief.nl)| | **A**|| |:white_check_mark: | :warning:| | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Drupal HSTS PHP|Welkom | Actoren...|
 |[http://beeldbank.nationaalarchief.nl](http://beeldbank.nationaalarchief.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |HTTP/3 Nginx||
 |[https://bibliotheek.nationaalarchief.nl](https://bibliotheek.nationaalarchief.nl)| | **F**|Central System Dispatcher/1.1| | | | | | | | :white_check_mark: | |HSTS||
 |[https://cbs.nationaalarchief.nl](https://cbs.nationaalarchief.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |||
@@ -57,7 +57,7 @@ tags: dutchgov
 |[https://lbrproxy.prod.nationaalarchief.nl](https://lbrproxy.prod.nationaalarchief.nl)| | **F**|nginx/1.25.3| | | | | | | | :white_check_mark: | |Nginx:1.25.3|301 Moved Perman...|
 |[https://meeting.nationaalarchief.nl](https://meeting.nationaalarchief.nl)| | **B**|nginx| |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | |HSTS Nginx|Jitsi Meet|
 |[https://nextdrive.nationaalarchief.nl](https://nextdrive.nationaalarchief.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nextcloud PHP||
-|[https://pywb.nationaalarchief.nl](https://pywb.nationaalarchief.nl)| | **A**|| |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | |Bootstrap HSTS||
+|[https://pywb.nationaalarchief.nl](https://pywb.nationaalarchief.nl)| | **A**|| |:white_check_mark: | :warning:| | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bootstrap HSTS||
 |[https://pywb.ted.nationaalarchief.nl](https://pywb.ted.nationaalarchief.nl)| | **A**|| |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | |Bootstrap HSTS||
 |[https://ted.nationaalarchief.nl](https://ted.nationaalarchief.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|403 Forbidden|
 |[https://www.ted.nationaalarchief.nl](https://www.ted.nationaalarchief.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|301 Moved Perman...|

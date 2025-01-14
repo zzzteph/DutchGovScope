@@ -34,7 +34,7 @@ tags: dutchgov
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://eemskrant.nl](https://eemskrant.nl)| | **F**|LiteSpeed| | | | | | | | :white_check_mark: | |HTTP/3 LiteSpeed||
-|[https://www.eemskrant.nl](https://www.eemskrant.nl)| | **F**|LiteSpeed| | | | | | | | :white_check_mark: | |HTTP/3 LiteSpeed MySQL PHP Site Kit:1.142.0 WordPress Yoast SEO Premium:24.1 Yoast SEO:24.1|Eemskrant.nl Nie...|
+|[https://eemskrant.nl](https://eemskrant.nl)| | **F**|LiteSpeed| | | | | | | | :white_check_mark: | |HTTP/3 LiteSpeed Litespeed Cache||
+|[https://www.eemskrant.nl](https://www.eemskrant.nl)| | **F**|LiteSpeed| | | | | | | | :white_check_mark: | |HTTP/3 LiteSpeed Litespeed Cache Site Kit:1.144.0|Eemskrant.nl Nie...|
 
 

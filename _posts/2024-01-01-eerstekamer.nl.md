@@ -3,7 +3,7 @@ layout: default
 title: "eerstekamer.nl"
 permalink: "/dutchgov/eerstekamer.nl.html"
 subdomains_count: 24
-urls_count: 23
+urls_count: 24
 ssl_rank: 
 http_rank: C
 security_txt: 10
@@ -26,7 +26,7 @@ tags: dutchgov
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/DutchGovScope/data/eerstekamer.nl/subdomains.txt)|24|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/eerstekamer.nl/urls.txt)|23|Urls|
+|[urls.txt](/DutchGovScope/data/eerstekamer.nl/urls.txt)|24|Urls|
 
 
 ## Statistics
@@ -57,5 +57,6 @@ tags: dutchgov
 |[https://enterpriseenrollment.eerstekamer.nl](https://enterpriseenrollment.eerstekamer.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||
 |[https://sandbox.redactie.eerstekamer.nl](https://sandbox.redactie.eerstekamer.nl)| | **B**|| | | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | ||Moved|
 |[https://lv108675-web01.eerstekamer.nl](https://lv108675-web01.eerstekamer.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS|Not Found|
+|[https://lv108674-redactie01.eerstekamer.nl](https://lv108674-redactie01.eerstekamer.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS|Not Found|
 
 

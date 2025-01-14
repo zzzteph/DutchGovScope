@@ -36,7 +36,7 @@ tags: dutchgov
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[https://allesoversport.nl](https://allesoversport.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Varnish:6.2|301 Moved Perman...|
 |[https://auteurs.allesoversport.nl](https://auteurs.allesoversport.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS MySQL PHP Varnish:6.2 WordPress Yoast SEO:20.13|Home - Kenniscen...|
-|[https://sportakkoord.allesoversport.nl](https://sportakkoord.allesoversport.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Varnish:6.2|302 Found|
+|[https://sportakkoord.allesoversport.nl](https://sportakkoord.allesoversport.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Varnish|302 Found|
 |[https://www.allesoversport.nl](https://www.allesoversport.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Google Tag Manager HSTS MySQL PHP Varnish:6.2 WordPress|Allesoversport.n...|
 |[https://repo.allesoversport.nl](https://repo.allesoversport.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx PHP|Redirecting to /...|
 |[http://localhost.allesoversport.nl](http://localhost.allesoversport.nl)| | **F**|nginx|:o: | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Laravel Nginx PHP|Weakpass|

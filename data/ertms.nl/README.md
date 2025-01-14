@@ -11,8 +11,8 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/ertms.nl/subdomains.txt)|31688|Alive subdomains|
-|[urls.txt](/data/ertms.nl/urls.txt)|31665|Urls|
+|[subdomains.txt](/data/ertms.nl/subdomains.txt)|31894|Alive subdomains|
+|[urls.txt](/data/ertms.nl/urls.txt)|31688|Urls|
 
 
 ## Statistics
@@ -23,7 +23,7 @@
 |[https://ertms.nl](https://ertms.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Object moved|
 |[https://postmaster.ertms.nl](https://postmaster.ertms.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Object moved|
 |[https://www.ertms.nl](https://www.ertms.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Object moved|
-|[https://web.ertms.nl](https://web.ertms.nl)| | **E**|| | | | | | | | :white_check_mark: | |Azure Azure Front Door||
+|[http://web.ertms.nl](http://web.ertms.nl)| | **E**|| | | | | | | | :white_check_mark: | |Azure Azure Front Door||
 |[https://mrd.ertms.nl](https://mrd.ertms.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Object moved|
 |[https://west.ertms.nl](https://west.ertms.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Object moved|
 |[https://bigshot.ertms.nl](https://bigshot.ertms.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Object moved|
@@ -31685,5 +31685,28 @@
 |[https://pilkada.ertms.nl](https://pilkada.ertms.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Object moved|
 |[https://rsu.ertms.nl](https://rsu.ertms.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Object moved|
 |[https://babykadowinkel.ertms.nl](https://babykadowinkel.ertms.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Object moved|
+|[https://anal-sex.ertms.nl](https://anal-sex.ertms.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Object moved|
+|[https://electron.ertms.nl](https://electron.ertms.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Object moved|
+|[https://yelets.ertms.nl](https://yelets.ertms.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Object moved|
+|[https://mesenger.ertms.nl](https://mesenger.ertms.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Object moved|
+|[https://kosten-logo-ontwerpen.ertms.nl](https://kosten-logo-ontwerpen.ertms.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Object moved|
+|[https://myi.ertms.nl](https://myi.ertms.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Object moved|
+|[https://mdz.ertms.nl](https://mdz.ertms.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Object moved|
+|[https://luus.ertms.nl](https://luus.ertms.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Object moved|
+|[https://builder.cp.ertms.nl](https://builder.cp.ertms.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Object moved|
+|[https://gian.ertms.nl](https://gian.ertms.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Object moved|
+|[https://nal.ertms.nl](https://nal.ertms.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Object moved|
+|[https://sorrento.ertms.nl](https://sorrento.ertms.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Object moved|
+|[https://wwb.ertms.nl](https://wwb.ertms.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Object moved|
+|[https://grafische-programma.ertms.nl](https://grafische-programma.ertms.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Object moved|
+|[https://mohamed.ertms.nl](https://mohamed.ertms.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Object moved|
+|[https://foe.ertms.nl](https://foe.ertms.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Object moved|
+|[https://tgm.ertms.nl](https://tgm.ertms.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Object moved|
+|[https://weekendje-weg.ertms.nl](https://weekendje-weg.ertms.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Object moved|
+|[https://membership.ertms.nl](https://membership.ertms.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Object moved|
+|[https://virus3.ertms.nl](https://virus3.ertms.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Object moved|
+|[https://antiques.stores.shop.ertms.nl](https://antiques.stores.shop.ertms.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Object moved|
+|[https://drouwenermond.ertms.nl](https://drouwenermond.ertms.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Object moved|
+|[https://maffiagames.ertms.nl](https://maffiagames.ertms.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Object moved|
 
 

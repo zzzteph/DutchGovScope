@@ -5,7 +5,7 @@ https://onderzoek.politie.nl
 https://rss.acceptatie.politie.nl
 https://edison.politie.nl
 https://www.politie.nl
-http://api.politie.nl
+https://api.politie.nl
 https://fts.politie.nl
 https://kombijde.politie.nl
 https://aangifte.politie.nl
@@ -25,7 +25,7 @@ https://transferium-oh.politie.nl
 https://transferium.gslb-trf.politie.nl
 https://transferium.politie.nl
 https://dav.enlets.politie.nl
-https://chat.enlets.politie.nl
+http://chat.enlets.politie.nl
 https://push.enlets.politie.nl
 https://api.enlets.politie.nl
 https://mdc-ras-01.politie.nl

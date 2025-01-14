@@ -5,7 +5,7 @@
 
 
  - **SSL Grade**:
- - **HTTP Security Grade**:A
+ - **HTTP Security Grade**:B
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:0
 
 
@@ -21,8 +21,8 @@
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[https://test.bodemloket.nl](https://test.bodemloket.nl)| | **B**|Apache/2.4.57 (Rocky Linux) OpenSSL/3.0.7 PHP/8.1.29| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server:2.4.57 Drupal HSTS OpenSSL:3.0.7 PHP:8.1.29||
-|[https://bodemloket.nl](https://bodemloket.nl)| | **A**|Apache| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |Apache HTTP Server Drupal:9 HSTS PHP|Home | Bodemloke...|
-|[https://www.bodemloket.nl](https://www.bodemloket.nl)| | **A**|Apache| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |Apache HTTP Server Drupal:9 HSTS PHP|Home | Bodemloke...|
+|[https://bodemloket.nl](https://bodemloket.nl)| | **B**|Apache/2.4.57 (Rocky Linux) OpenSSL/3.2.2 PHP/8.1.30| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server:2.4.57 Drupal:10 HSTS OpenSSL:3.2.2 PHP:8.1.30|Home | Bodemloke...|
+|[https://www.bodemloket.nl](https://www.bodemloket.nl)| | **B**|Apache/2.4.57 (Rocky Linux) OpenSSL/3.2.2 PHP/8.1.30| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server:2.4.57 Drupal:10 HSTS OpenSSL:3.2.2 PHP:8.1.30|Home | Bodemloke...|
 |[https://acceptatie.bodemloket.nl](https://acceptatie.bodemloket.nl)| | **A**|Apache/2.4.57 (Rocky Linux) OpenSSL/3.0.7 PHP/8.1.30| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |Apache HTTP Server:2.4.57 Drupal:10 HSTS OpenSSL:3.0.7 PHP:8.1.30|Home | Bodemloke...|
 
 

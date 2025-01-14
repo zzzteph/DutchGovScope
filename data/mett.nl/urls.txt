@@ -63,7 +63,6 @@ https://htx.mett.nl
 https://performance.mett.nl
 https://storage.mett.nl
 https://waf.mett.nl
-http://testserver.mett.nl
 https://haarlemmermeerwest.mett.nl
 https://lottebruijninckx.mett.nl
 https://schoneluchtakkoord.mett.nl
@@ -119,6 +118,7 @@ https://startandgo.mett.nl
 https://academy.mett.nl
 https://nlzve.mett.nl
 https://kersenweideodijk.mett.nl
+https://blueskygroup.mett.nl
 https://samenhaaksbergen.mett.nl
 https://bio-enerco.mett.nl
 https://akademievankunsten.mett.nl
@@ -133,25 +133,20 @@ https://nestedcomments.mett.nl
 https://testmij.mett.nl
 https://nkoo.mett.nl
 https://leernetwerk.mett.nl
-http://logincookie.mett.nl
 https://timpaan.mett.nl
 https://regionale-energiestrategie.mett.nl
 https://winnovatietestserver.mett.nl
 https://binnl.mett.nl
 https://verduurzamingindustrie.mett.nl
 https://doortrappen.mett.nl
-http://m4centrallogin.mett.nl
 https://nationaalmilieuprogramma.mett.nl
-http://testserver02.mett.nl
 https://resrotterdamdenhaag.mett.nl
-http://waf-login.mett.nl
 https://bestuurderscentraal.mett.nl
 https://wpadh.mett.nl
 https://poc-lilianefonds.mett.nl
 https://m3test-login.mett.nl
 https://collectievekracht.mett.nl
 https://brabantgaatvoornul.mett.nl
-http://test-chris.mett.nl
 https://buch.mett.nl
 https://energieoprijksgrond.mett.nl
 https://mettdocs.mett.nl
@@ -159,7 +154,6 @@ https://coordinatiegelderland.mett.nl
 https://cookiebeleid.mett.nl
 https://demoparticipatie.mett.nl
 https://joske.mett.nl
-https://fagoed.mett.nl
 https://test-login.mett.nl
 http://krinkelsinbeheerenonderhoud.mett.nl
 https://samen14.mett.nl
@@ -204,3 +198,5 @@ https://sociaaldomeinnoordholland.mett.nl
 https://restwente.mett.nl
 https://linnean.mett.nl
 http://innovatiefwerkgeverschap.mett.nl
+https://pom.mett.nl
+https://websiterudzuidlimburg.mett.nl

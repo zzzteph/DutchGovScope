@@ -1,7 +1,7 @@
 https://kostenvanziektentool.volksgezondheidenzorg.info
 http://test.volksgezondheidenzorg.info
 https://volksgezondheidenzorg.info
-https://www.volksgezondheidenzorg.info
+http://www.volksgezondheidenzorg.info
 http://acceptatie.volksgezondheidenzorg.info
 https://costofillnesstool.volksgezondheidenzorg.info
 http://localhost.volksgezondheidenzorg.info

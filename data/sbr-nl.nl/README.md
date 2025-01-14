@@ -24,6 +24,6 @@
 |[https://test-dictu.sbr-nl.nl](https://test-dictu.sbr-nl.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Basic Nginx|401 Authorizatio...|
 |[https://sbr-nl.nl](https://sbr-nl.nl)| | **A**|nginx| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
 |[https://www.sbr-nl.nl](https://www.sbr-nl.nl)| | **A**|nginx| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Drupal HSTS Nginx PHP|Home | Standard...|
-|[https://prod-dictu.sbr-nl.nl](https://prod-dictu.sbr-nl.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|301 Moved Perman...|
+|[https://prod-dictu.sbr-nl.nl](https://prod-dictu.sbr-nl.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
 
 

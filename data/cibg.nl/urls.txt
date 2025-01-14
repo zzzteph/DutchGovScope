@@ -50,6 +50,6 @@ https://behandel.generiekeregistratiedienst.cibg.nl
 https://beheer.generiekeregistratiedienst.cibg.nl
 https://designsystem.cibg.nl
 http://digikoppeling.cibg.nl
-https://digikoppeling2.cibg.nl
+http://digikoppeling2.cibg.nl
 http://styleguide.cibg.nl
 https://acceptatie.applicationframework.cibg.nl

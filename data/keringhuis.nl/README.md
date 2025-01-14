@@ -29,6 +29,6 @@
 |[http://autodiscover.keringhuis.nl](http://autodiscover.keringhuis.nl)| | **C**|Microsoft-IIS/10.0| |:white_check_mark: | | | | | | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server||
 |[http://localhost.keringhuis.nl](http://localhost.keringhuis.nl)| | **F**|nginx|:o: | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Laravel Nginx PHP|Weakpass|
 |[https://pop.keringhuis.nl](https://pop.keringhuis.nl)| | **F**|IceWarp/14.1.0.15 (2024-10-23) x64| | | | | | | | :white_check_mark: | |HSTS|302 Document Mov...|
-|[https://smtpdma.keringhuis.nl](https://smtpdma.keringhuis.nl)| | **F**|IceWarp/14.1.0.14 x64| | | | | | | | :white_check_mark: | |HSTS|302 Document Mov...|
+|[https://smtpdma.keringhuis.nl](https://smtpdma.keringhuis.nl)| | **F**|IceWarp/14.1.0.16 x64| | | | | | | | :white_check_mark: | |HSTS|302 Document Mov...|
 
 

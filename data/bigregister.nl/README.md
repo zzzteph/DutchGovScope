@@ -20,13 +20,13 @@
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://acceptatie.advieswijzer.bigregister.nl](https://acceptatie.advieswijzer.bigregister.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
-|[https://acceptatie.api.bigregister.nl](https://acceptatie.api.bigregister.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
-|[https://acceptatie.beheer.bigregister.nl](https://acceptatie.beheer.bigregister.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
-|[https://acceptatie.mijn.bigregister.nl](https://acceptatie.mijn.bigregister.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
-|[https://acceptatie.tea.bigregister.nl](https://acceptatie.tea.bigregister.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
-|[https://acceptatie.webservices.bigregister.nl](https://acceptatie.webservices.bigregister.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
-|[https://acceptatie.zoeken.bigregister.nl](https://acceptatie.zoeken.bigregister.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
+|[https://acceptatie.advieswijzer.bigregister.nl](https://acceptatie.advieswijzer.bigregister.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS||
+|[https://acceptatie.api.bigregister.nl](https://acceptatie.api.bigregister.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS||
+|[https://acceptatie.beheer.bigregister.nl](https://acceptatie.beheer.bigregister.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS||
+|[https://acceptatie.mijn.bigregister.nl](https://acceptatie.mijn.bigregister.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS||
+|[https://acceptatie.tea.bigregister.nl](https://acceptatie.tea.bigregister.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS||
+|[https://acceptatie.webservices.bigregister.nl](https://acceptatie.webservices.bigregister.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS||
+|[https://acceptatie.zoeken.bigregister.nl](https://acceptatie.zoeken.bigregister.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS||
 |[https://advieswijzer.bigregister.nl](https://advieswijzer.bigregister.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[http://api.bigregister.nl](http://api.bigregister.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://beheer.bigregister.nl](https://beheer.bigregister.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
@@ -41,7 +41,7 @@
 |[https://mijn.bigregister.nl](https://mijn.bigregister.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Mijn BIG-registe...|
 |[https://tea.bigregister.nl](https://tea.bigregister.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://zoeken.bigregister.nl](https://zoeken.bigregister.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Zorgverlener opz...|
-|[https://acceptatie.behandel.bigregister.nl](https://acceptatie.behandel.bigregister.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
+|[https://acceptatie.behandel.bigregister.nl](https://acceptatie.behandel.bigregister.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS||
 |[https://behandel.bigregister.nl](https://behandel.bigregister.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 
 

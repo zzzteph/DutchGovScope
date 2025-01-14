@@ -132,3 +132,4 @@ tz-aanvragen-acc.dnb.nl
 dlo-acc.dnb.nl
 designsystem.dnb.nl
 firehose.dnb.nl
+rmdm-beheerapp.azure.dnb.nl

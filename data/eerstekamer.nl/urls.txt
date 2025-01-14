@@ -21,3 +21,4 @@ https://liquit.eerstekamer.nl
 https://enterpriseenrollment.eerstekamer.nl
 https://sandbox.redactie.eerstekamer.nl
 https://lv108675-web01.eerstekamer.nl
+https://lv108674-redactie01.eerstekamer.nl

@@ -1,7 +1,7 @@
 https://hydro.nl
 https://www.hydro.nl
 https://transfer.hydro.nl
-https://autoconfig.hydro.nl
+http://autoconfig.hydro.nl
 https://cpanel.hydro.nl
 https://webdisk.hydro.nl
 https://whm.hydro.nl

@@ -21,7 +21,7 @@
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[https://archief.rijksfinancien.nl](https://archief.rijksfinancien.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bootstrap Drupal HSTS PHP|Welkom | Rijksfi...|
-|[https://evaluaties-acc.rijksfinancien.nl](https://evaluaties-acc.rijksfinancien.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Drupal:10 HSTS PHP|Evaluaties | Min...|
+|[https://evaluaties-acc.rijksfinancien.nl](https://evaluaties-acc.rijksfinancien.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Drupal HSTS PHP|Evaluaties | Min...|
 |[https://evaluaties.rijksfinancien.nl](https://evaluaties.rijksfinancien.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Drupal:10 HSTS PHP|Evaluaties | Min...|
 |[https://rbv-acc.rijksfinancien.nl](https://rbv-acc.rijksfinancien.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Drupal HSTS PHP|Home | Rijksbegr...|
 |[https://rbv.rijksfinancien.nl](https://rbv.rijksfinancien.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Drupal HSTS PHP|Home | Rijksbegr...|

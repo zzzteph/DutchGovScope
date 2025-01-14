@@ -45,3 +45,6 @@ iswww.zwemwater.nl
 assurances.zwemwater.nl
 opg.zwemwater.nl
 easyhome.zwemwater.nl
+ingest.zwemwater.nl
+sts4.zwemwater.nl
+q17.zwemwater.nl

@@ -11,7 +11,7 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/ishetafval.nl/subdomains.txt)|2|Alive subdomains|
+|[subdomains.txt](/data/ishetafval.nl/subdomains.txt)|3|Alive subdomains|
 |[urls.txt](/data/ishetafval.nl/urls.txt)|2|Urls|
 
 
@@ -20,7 +20,7 @@
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[http://ishetafval.nl](http://ishetafval.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:-||
-|[http://www.ishetafval.nl](http://www.ishetafval.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:-||
+|[https://ishetafval.nl](https://ishetafval.nl)| | **A**|-| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:-|Is het afval?|
+|[https://www.ishetafval.nl](https://www.ishetafval.nl)| | **A**|-| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:-|Is het afval?|
 
 

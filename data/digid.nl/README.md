@@ -38,8 +38,8 @@
 |[https://machtigen.digid.nl](https://machtigen.digid.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|DigiD Machtigen|
 |[https://digid.nl](https://digid.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://www.ontwikkel.machtigen.digid.nl](https://www.ontwikkel.machtigen.digid.nl)| | **A**|BigIP|:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |F5 BigIP||
-|[https://dv.ontwikkel.machtigen.digid.nl](https://dv.ontwikkel.machtigen.digid.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|404 Not Found|
-|[https://ob.ontwikkel.machtigen.digid.nl](https://ob.ontwikkel.machtigen.digid.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|404 Not Found|
+|[https://dv.ontwikkel.machtigen.digid.nl](https://dv.ontwikkel.machtigen.digid.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS|404 Not Found|
+|[https://ob.ontwikkel.machtigen.digid.nl](https://ob.ontwikkel.machtigen.digid.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS|404 Not Found|
 |[https://ontwikkel.machtigen.digid.nl](https://ontwikkel.machtigen.digid.nl)| | **A**||:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|DigiD Machtigen|
 |[https://eid-preprod1.digid.nl](https://eid-preprod1.digid.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://eid-preprod2.digid.nl](https://eid-preprod2.digid.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||

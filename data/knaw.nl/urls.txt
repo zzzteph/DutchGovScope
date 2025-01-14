@@ -358,7 +358,6 @@ https://hucdrive.huc.knaw.nl
 https://intranetzonder.knaw.nl
 https://logo.huygens.knaw.nl
 http://maps.fa.knaw.nl
-https://mapserver.fa.knaw.nl
 https://mda.nioo.knaw.nl
 https://mfiles.knaw.nl
 http://mfproxy01.knaw.nl
@@ -395,7 +394,6 @@ https://www.meertens.knaw.nl
 https://vacatures.knaw.nl
 https://view.herseninstituut.knaw.nl
 https://view.nin.knaw.nl
-https://web2.fa.knaw.nl
 http://web6.fa.knaw.nl
 https://web7.fa.knaw.nl
 https://webaccess.knaw.nl
@@ -460,6 +458,7 @@ https://phpmyadmin.wordpress.dans.knaw.nl
 https://gharvester31.dans.knaw.nl
 https://hi2.huygens.knaw.nl
 https://hi8.huygens.knaw.nl
+https://vangogh-tiles.dev.huc.knaw.nl
 https://ivanticsa01.knaw.nl
 http://tmfiles.knaw.nl
 https://sweb11.dans.knaw.nl
@@ -514,6 +513,9 @@ https://tus.labs.dans.knaw.nl
 https://version-tracker.labs.dans.knaw.nl
 https://pts31.dans.knaw.nl
 https://va31.dans.knaw.nl
+https://gl-skosmos.dev.huc.knaw.nl
+https://teamcity.dev.huc.knaw.nl
+https://yasgui.dev.huc.knaw.nl
 http://uptime.huc.knaw.nl
 https://zalen.huc.knaw.nl
 https://goudeneeuwblog.huygens.knaw.nl
@@ -528,3 +530,6 @@ http://goetgevonden.huygens.knaw.nl
 https://backoffice.knaw.nl
 https://www.back2roots.nioo.knaw.nl
 https://gitlab.bioinf.nioo.knaw.nl
+https://ats-test.knaw.nl
+https://access.huc.knaw.nl
+https://portus-acc.knaw.nl

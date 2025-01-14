@@ -20,8 +20,8 @@
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://arorijk.nl](https://arorijk.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|ARORijk|
+|[http://arorijk.nl](http://arorijk.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
 |[http://static.arorijk.nl](http://static.arorijk.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| | :white_check_mark: | :white_check_mark: | |HSTS||
-|[https://www.arorijk.nl](https://www.arorijk.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|ARORijk|
+|[http://www.arorijk.nl](http://www.arorijk.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
 
 

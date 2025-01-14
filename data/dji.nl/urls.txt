@@ -10,3 +10,4 @@ https://dvfz.dji.nl
 https://intranet.dji.nl
 https://cdn.dji.nl
 https://ftp.dji.nl
+https://video-acc.beeldbellen.dji.nl

@@ -22,7 +22,7 @@
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[https://accept.nldigitalgovernment.nl](https://accept.nldigitalgovernment.nl)| | **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |Basic HSTS Nginx|401 Authorizatio...|
 |[https://nldigitalgovernment.nl](https://nldigitalgovernment.nl)| | **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Nginx PHP:8.2.26||
-|[https://www.nldigitalgovernment.nl](https://www.nldigitalgovernment.nl)| | **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS MySQL Nginx PHP:8.2.26 WordPress:6.7.1 Yoast SEO:24.1|Home - Digital G...|
+|[https://www.nldigitalgovernment.nl](https://www.nldigitalgovernment.nl)| | **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS MySQL Nginx PHP:8.2.26 WordPress:6.7.1 Yoast SEO:24.2|Home - Digital G...|
 |[https://test.nldigitalgovernment.nl](https://test.nldigitalgovernment.nl)| | **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |Basic HSTS Nginx|401 Authorizatio...|
 
 

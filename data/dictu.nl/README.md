@@ -12,7 +12,7 @@
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/dictu.nl/subdomains.txt)|67|Alive subdomains|
-|[urls.txt](/data/dictu.nl/urls.txt)|66|Urls|
+|[urls.txt](/data/dictu.nl/urls.txt)|67|Urls|
 
 
 ## Statistics
@@ -46,9 +46,10 @@
 |[https://prod.dictu.nl](https://prod.dictu.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx||
 |[https://servicedesk.dictu.nl](https://servicedesk.dictu.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|403 Forbidden|
 |[https://simplesamlidp.dictu.nl](https://simplesamlidp.dictu.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Basic Nginx|401 Authorizatio...|
-|[https://engine.acc.fhub.dictu.nl](https://engine.acc.fhub.dictu.nl)| | **B**|Apache|:warning: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS|dictu - Metadata...|
+|[https://engine.acc.fhub.dictu.nl](https://engine.acc.fhub.dictu.nl)| | **B**|Apache|:warning: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS|OpenConext - Met...|
 |[https://engine.fhub.dictu.nl](https://engine.fhub.dictu.nl)| | **D**|Apache|:warning: |:white_check_mark: | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|dictu - Metadata...|
 |[https://fhub.dictu.nl](https://fhub.dictu.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||
+|[https://gisextern.dictu.nl](https://gisextern.dictu.nl)| | **C**||:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|Service Unavaila...|
 |[https://ibabs.dictu.nl](https://ibabs.dictu.nl)| | **C**||:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|Not Found|
 |[https://pms.dictu.nl](https://pms.dictu.nl)| | **C**||:warning: |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS Microsoft ASP.NET|Object moved|
 |[https://ibg.datasluis.dictu.nl](https://ibg.datasluis.dictu.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Redirect|
@@ -80,7 +81,7 @@
 |[http://c-pki-acc.dictu.nl](http://c-pki-acc.dictu.nl)| | **F**||:warning: | | | | | | | :white_check_mark: | ||c-pki-acc.dictu....|
 |[http://rijkspascrlcert2-acc.dictu.nl](http://rijkspascrlcert2-acc.dictu.nl)| | **F**||:warning: | | | | | | | :white_check_mark: | ||rijkspascrlcert2...|
 |[https://snow-cw.dictu.nl](https://snow-cw.dictu.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0||
-|[https://tvs.dictu.nl](https://tvs.dictu.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|403 Forbidden|
+|[http://tvs.dictu.nl](http://tvs.dictu.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|301 Moved Perman...|
 |[http://rijkspasocsp2-acc.dictu.nl](http://rijkspasocsp2-acc.dictu.nl)| | **E**|| | | | | | | | :white_check_mark: | ||IIS Windows Serv...|
 |[https://test2.dictu.nl](https://test2.dictu.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Basic Nginx|401 Authorizatio...|
 |[https://acc2.dictu.nl](https://acc2.dictu.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Basic Nginx|401 Authorizatio...|

@@ -27,7 +27,7 @@
 |[https://rss.acceptatie.politie.nl](https://rss.acceptatie.politie.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Access Denied|
 |[https://edison.politie.nl](https://edison.politie.nl)| | **A**||:warning: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://www.politie.nl](https://www.politie.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS|Home | politie.n...|
-|[http://api.politie.nl](http://api.politie.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
+|[https://api.politie.nl](https://api.politie.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Helaas is er een...|
 |[https://fts.politie.nl](https://fts.politie.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://kombijde.politie.nl](https://kombijde.politie.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS||
 |[https://aangifte.politie.nl](https://aangifte.politie.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
@@ -47,7 +47,7 @@
 |[https://transferium.gslb-trf.politie.nl](https://transferium.gslb-trf.politie.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||
 |[https://transferium.politie.nl](https://transferium.politie.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS||
 |[https://dav.enlets.politie.nl](https://dav.enlets.politie.nl)| | **A**|| |:white_check_mark: | :warning:| | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS|404|
-|[https://chat.enlets.politie.nl](https://chat.enlets.politie.nl)| | **A**|| |:white_check_mark: | :warning:| | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS||
+|[http://chat.enlets.politie.nl](http://chat.enlets.politie.nl)| | **A**|| |:white_check_mark: | :warning:| | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS||
 |[https://push.enlets.politie.nl](https://push.enlets.politie.nl)| | **A**|| |:white_check_mark: | :warning:| | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS||
 |[https://api.enlets.politie.nl](https://api.enlets.politie.nl)| | **A**|| |:white_check_mark: | :warning:| | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS||
 |[https://mdc-ras-01.politie.nl](https://mdc-ras-01.politie.nl)| | **A**|Apache| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS|User Portal|

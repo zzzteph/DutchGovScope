@@ -11,8 +11,8 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/cbs.nl/subdomains.txt)|179|Alive subdomains|
-|[urls.txt](/data/cbs.nl/urls.txt)|178|Urls|
+|[subdomains.txt](/data/cbs.nl/subdomains.txt)|177|Alive subdomains|
+|[urls.txt](/data/cbs.nl/urls.txt)|177|Urls|
 
 
 ## Statistics
@@ -161,8 +161,8 @@
 |[https://geoservices.cbs.nl](https://geoservices.cbs.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||
 |[https://uag.cbs.nl](https://uag.cbs.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://highcharts-acc.cbs.nl](https://highcharts-acc.cbs.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
-|[https://jeugdmonitor-acc.cbs.nl](https://jeugdmonitor-acc.cbs.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx Plesk Varnish|301 Moved Perman...|
-|[https://jeugdmonitor.cbs.nl](https://jeugdmonitor.cbs.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Drupal:10 HSTS Nginx PHP:8.2.26 Varnish:6.0|Home | Jeugdmoni...|
+|[https://jeugdmonitor-acc.cbs.nl](https://jeugdmonitor-acc.cbs.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx Plesk Varnish:6.0|301 Moved Perman...|
+|[https://jeugdmonitor.cbs.nl](https://jeugdmonitor.cbs.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Drupal:10 HSTS Nginx PHP:8.2.27 Varnish:6.0|Home | Jeugdmoni...|
 |[https://longreads.cbs.nl](https://longreads.cbs.nl)| | **F**|LiteSpeed| | | | | | | | :white_check_mark: | |HTTP/3 LiteSpeed PHP:7.4.33|Longreads - Cent...|
 |[https://mbg.cbs.nl](https://mbg.cbs.nl)| | **A**|Apache| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS|Redirecting...|
 |[https://micollab.cbs.nl](https://micollab.cbs.nl)| | **A**|Apache| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS|Redirecting...|
@@ -197,6 +197,5 @@
 |[https://livecharts.cbs.nl](https://livecharts.cbs.nl)| | **F**|nginx/1.20.2| | | | | | | | :white_check_mark: | |Nginx:1.20.2|403 Forbidden|
 |[https://iv3-controle.beta.cbs.nl](https://iv3-controle.beta.cbs.nl)| | **C**|envoy| |:white_check_mark: | | | | | | :white_check_mark: | |Bootstrap Envoy HSTS|Check iv3|
 |[https://beta-iv3-controle.cbs.nl](https://beta-iv3-controle.cbs.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
-|[https://apisimplex.cbs.nl](https://apisimplex.cbs.nl)| | **F**|Microsoft-IIS/10.0| | | | | | | | :white_check_mark: | |HSTS IIS:10.0 Windows Server|IIS Windows Serv...|
 
 
