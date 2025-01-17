@@ -19,3 +19,4 @@ https://geoportal.aaenmaas.nl
 https://geoservices.aaenmaas.nl
 https://ucc.aaenmaas.nl
 https://vpn.aaenmaas.nl
+https://wik.aaenmaas.nl

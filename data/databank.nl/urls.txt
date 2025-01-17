@@ -42,9 +42,11 @@ http://demo-ebc.databank.nl
 https://ftgelderland.databank.nl
 https://beta-klimaatbeleid.databank.nl
 https://beta-vivet.databank.nl
+https://beta-datawonen.databank.nl
 https://beta-klimaatmonitor.databank.nl
 http://beta-gdi.databank.nl
 https://beta-wsjg.databank.nl
+https://beta-woononderzoek.databank.nl
 http://cname-holland-rijnland.databank.nl
 https://erfgoed.databank.nl
 https://jdscan.databank.nl

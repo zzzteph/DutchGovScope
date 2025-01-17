@@ -64,6 +64,7 @@ https://houseofrepresentatives.acceptatie.tweedekamer.nl
 https://houseofrepresentatives.test.tweedekamer.nl
 https://lijstvangevallenen.acceptatie.tweedekamer.nl
 https://lijstvangevallenen.test.tweedekamer.nl
+https://opendata.acceptatie.tweedekamer.nl
 https://opendata.test.tweedekamer.nl
 https://werkenbij.acceptatie.tweedekamer.nl
 https://livestream-backup.tweedekamer.nl
@@ -134,3 +135,7 @@ https://enterpriseregistration.tweedekamer.nl
 http://localhost.tweedekamer.nl
 https://msoid.tweedekamer.nl
 https://email.tweedekamer.nl
+http://acc.livedebat.tweedekamer.nl
+http://api.acc.livedebat.tweedekamer.nl
+http://ingest.acc.livedebat.tweedekamer.nl
+http://stats.acc.livedebat.tweedekamer.nl

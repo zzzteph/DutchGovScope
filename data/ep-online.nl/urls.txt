@@ -1,13 +1,11 @@
 https://afmelden-preprod.ep-online.nl
 https://registreren.ep-online.nl
-https://services.ep-online.nl
 https://webservice.ep-online.nl
 https://www.ep-online.nl
 https://afmelden.ep-online.nl
 https://ep-online.nl
 https://opvragen.ep-online.nl
 https://downloadpdf-preprod.ep-online.nl
-http://maatwerkadvies-preprod.api.ep-online.nl
 https://maatwerkadvies.api.ep-online.nl
 https://opvragen-preprod.ep-online.nl
 https://preprod.ep-online.nl

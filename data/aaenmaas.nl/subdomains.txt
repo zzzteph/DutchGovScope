@@ -19,3 +19,4 @@ geoportal.aaenmaas.nl
 geoservices.aaenmaas.nl
 ucc.aaenmaas.nl
 vpn.aaenmaas.nl
+wik.aaenmaas.nl

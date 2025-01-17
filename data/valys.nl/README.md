@@ -11,8 +11,8 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/valys.nl/subdomains.txt)|8847|Alive subdomains|
-|[urls.txt](/data/valys.nl/urls.txt)|8023|Urls|
+|[subdomains.txt](/data/valys.nl/subdomains.txt)|8848|Alive subdomains|
+|[urls.txt](/data/valys.nl/urls.txt)|8024|Urls|
 
 
 ## Statistics
@@ -5893,6 +5893,7 @@
 |[https://fransguyana.valys.nl](https://fransguyana.valys.nl)| | **F**|Apache/2.4.52 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.52 HSTS Ubuntu|301 Moved Perman...|
 |[https://acc-mob-api.valys.nl](https://acc-mob-api.valys.nl)| | **F**|Apache/2.4.52 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.52 HSTS Ubuntu|301 Moved Perman...|
 |[https://test.ext.valys.nl](https://test.ext.valys.nl)| | **F**|Apache/2.4.52 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.52 HSTS Ubuntu|301 Moved Perman...|
+|[https://gws-dev.app.valys.nl](https://gws-dev.app.valys.nl)| | **F**|Apache/2.4.52 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.52 HSTS Ubuntu|301 Moved Perman...|
 |[https://christie.valys.nl](https://christie.valys.nl)| | **F**|Apache/2.4.52 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.52 HSTS Ubuntu|301 Moved Perman...|
 |[https://mobilestore.valys.nl](https://mobilestore.valys.nl)| | **F**|Apache/2.4.52 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.52 HSTS Ubuntu|301 Moved Perman...|
 |[https://venqa.dash.valys.nl](https://venqa.dash.valys.nl)| | **F**|Apache/2.4.52 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.52 HSTS Ubuntu|301 Moved Perman...|

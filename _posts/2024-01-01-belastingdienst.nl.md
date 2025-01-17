@@ -2,8 +2,8 @@
 layout: default
 title: "belastingdienst.nl"
 permalink: "/dutchgov/belastingdienst.nl.html"
-subdomains_count: 114
-urls_count: 114
+subdomains_count: 112
+urls_count: 112
 ssl_rank: 
 http_rank: C
 security_txt: 54
@@ -25,8 +25,8 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/belastingdienst.nl/subdomains.txt)|114|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/belastingdienst.nl/urls.txt)|114|Urls|
+|[subdomains.txt](/DutchGovScope/data/belastingdienst.nl/subdomains.txt)|112|Alive subdomains|
+|[urls.txt](/DutchGovScope/data/belastingdienst.nl/urls.txt)|112|Urls|
 
 
 ## Statistics
@@ -104,8 +104,6 @@ tags: dutchgov
 |[https://mul-mkt.belastingdienst.nl](https://mul-mkt.belastingdienst.nl)| | **F**||:warning: | | | | | | | :white_check_mark: | |||
 |[https://mul-redirect.belastingdienst.nl](https://mul-redirect.belastingdienst.nl)| | **F**||:warning: | | | | | | | :white_check_mark: | ||Foutmelding|
 |[https://mul.belastingdienst.nl](https://mul.belastingdienst.nl)| | **F**||:warning: | | | | | | | :white_check_mark: | |Microsoft ASP.NET|Aangifte Inkomst...|
-|[https://mwr-app-api-ota.belastingdienst.nl](https://mwr-app-api-ota.belastingdienst.nl)| | **E**|| | | | | | | | :white_check_mark: | |Azure Azure Front Door|Service unavaila...|
-|[https://mwr-app-api.belastingdienst.nl](https://mwr-app-api.belastingdienst.nl)| | **E**|| | | | | | | | :white_check_mark: | |Azure Azure Front Door|Service unavaila...|
 |[https://mwr-app-cdn-ota.belastingdienst.nl](https://mwr-app-cdn-ota.belastingdienst.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| | | :white_check_mark: | |Azure Azure Front Door HSTS||
 |[https://mwr-app-cdn.belastingdienst.nl](https://mwr-app-cdn.belastingdienst.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| | | :white_check_mark: | |Azure Azure Front Door HSTS||
 |[https://odb.belastingdienst.nl](https://odb.belastingdienst.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS MySQL PHP WordPress Yoast SEO:23.9|Home | Ondersteu...|

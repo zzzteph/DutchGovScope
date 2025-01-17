@@ -11,8 +11,8 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/hdsr.nl/subdomains.txt)|26|Alive subdomains|
-|[urls.txt](/data/hdsr.nl/urls.txt)|26|Urls|
+|[subdomains.txt](/data/hdsr.nl/subdomains.txt)|27|Alive subdomains|
+|[urls.txt](/data/hdsr.nl/urls.txt)|27|Urls|
 
 
 ## Statistics
@@ -45,6 +45,7 @@
 |[http://zoeken.hdsr.nl](http://zoeken.hdsr.nl)| | **D**|| | | | | | :white_check_mark: | | :white_check_mark: | |Microsoft ASP.NET:-||
 |[https://kantoor.hdsr.nl](https://kantoor.hdsr.nl)| | **A**|xxxx|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Java|User Portal|
 |[https://remote-pa.hdsr.nl](https://remote-pa.hdsr.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||
+|[https://ftp-hdsr.hdsr.nl](https://ftp-hdsr.hdsr.nl)| | **A**|xxxx|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Java|User Portal|
 |[http://localhost.hdsr.nl](http://localhost.hdsr.nl)| | **F**|nginx|:o: | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Laravel Nginx PHP|Weakpass|
 
 

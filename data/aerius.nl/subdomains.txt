@@ -19,3 +19,4 @@ docs.aerius.nl
 docs-dev.aerius.nl
 docs-staging.aerius.nl
 grafana-dev.aerius.nl
+grip-docs.aerius.nl

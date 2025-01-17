@@ -58,3 +58,4 @@ testgeoservices.knmi.nl
 hapi.acc.spaceweather.knmi.nl
 hapi.spaceweather.knmi.nl
 cabauw.knmi.nl
+extrema.dev.spaceweather.knmi.nl

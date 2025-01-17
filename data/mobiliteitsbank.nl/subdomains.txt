@@ -9,4 +9,3 @@ test.mobiliteitsbank.nl
 vacaturezoekservice.mobiliteitsbank.nl
 vacaturezoekservice-acceptatie.mobiliteitsbank.nl
 vacaturezoekservice-test.mobiliteitsbank.nl
-acceptatie.mobiliteitsbank.nl

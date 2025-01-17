@@ -38,3 +38,4 @@ https://meld.nationaalarchief.nl
 https://hub3.nationaalarchief.nl
 https://zvt.nationaalarchief.nl
 https://gatekeeper.nationaalarchief.nl
+https://id.test.nationaalarchief.nl

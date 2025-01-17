@@ -6,13 +6,13 @@
 
  - **SSL Grade**:
  - **HTTP Security Grade**:B
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:24
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:23
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/zuid-holland.nl/subdomains.txt)|78|Alive subdomains|
-|[urls.txt](/data/zuid-holland.nl/urls.txt)|78|Urls|
+|[subdomains.txt](/data/zuid-holland.nl/subdomains.txt)|77|Alive subdomains|
+|[urls.txt](/data/zuid-holland.nl/urls.txt)|77|Urls|
 
 
 ## Statistics
@@ -87,7 +87,6 @@
 |[https://investerenin.zuid-holland.nl](https://investerenin.zuid-holland.nl)| | **A**||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bootstrap:4.4.1 HSTS|Groeiagenda|
 |[https://jaaroverzichtcommissarisvandekoning2023.zuid-holland.nl](https://jaaroverzichtcommissarisvandekoning2023.zuid-holland.nl)| | **A**|-|:white_check_mark: |:white_check_mark: | | | :white_check_mark:| | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:-|The page cannot...|
 |[https://natura2000-data.zuid-holland.nl](https://natura2000-data.zuid-holland.nl)| | **B**|nginx|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |Azure HSTS Nginx|N2000|
-|[http://preprod-belastingen.zuid-holland.nl](http://preprod-belastingen.zuid-holland.nl)| | **A**||:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS Microsoft ASP.NET Nginx|Administrative Q...|
 |[https://subsidieportaal.zuid-holland.nl](https://subsidieportaal.zuid-holland.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|ClientPortal|
 |[https://virtueel.zuid-holland.nl](https://virtueel.zuid-holland.nl)| | **A**|Microsoft-IIS/10.0| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS IIS:10.0 Microsoft ASP.NET Windows Server|Cesium|
 |[https://css.openstad.zuid-holland.nl](https://css.openstad.zuid-holland.nl)| | **E**|| | | | | | | | :white_check_mark: | |Basic Express HSTS Node.js||

@@ -30,7 +30,6 @@ appgw-prd-01.trainingscatalogus.nl
 buzaleeromgeving-a.trainingscatalogus.nl
 cizleeromgeving-a.trainingscatalogus.nl
 leeromgeving-delft.trainingscatalogus.nl
-lms-afm.trainingscatalogus.nl
 abdleeromgeving-a.trainingscatalogus.nl
 apgrechtenbeheerenict.trainingscatalogus.nl
 apgdi.trainingscatalogus.nl

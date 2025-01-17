@@ -58,3 +58,4 @@ https://testgeoservices.knmi.nl
 https://hapi.acc.spaceweather.knmi.nl
 https://hapi.spaceweather.knmi.nl
 https://cabauw.knmi.nl
+https://extrema.dev.spaceweather.knmi.nl

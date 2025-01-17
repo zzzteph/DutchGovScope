@@ -6,13 +6,13 @@
 
  - **SSL Grade**:
  - **HTTP Security Grade**:B
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:16
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:22
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/kvk.nl/subdomains.txt)|52|Alive subdomains|
-|[urls.txt](/data/kvk.nl/urls.txt)|50|Urls|
+|[subdomains.txt](/data/kvk.nl/subdomains.txt)|57|Alive subdomains|
+|[urls.txt](/data/kvk.nl/urls.txt)|56|Urls|
 
 
 ## Statistics
@@ -32,6 +32,12 @@
 |[https://api.ondernemersplein.kvk.nl](https://api.ondernemersplein.kvk.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
 |[https://ondernemersplein.kvk.nl](https://ondernemersplein.kvk.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |Bloomreach Google Tag Manager HSTS|Ondernemersplein...|
 |[http://autodiscover.kvk.nl](http://autodiscover.kvk.nl)| | **C**|Microsoft-IIS/10.0| |:white_check_mark: | | | | | | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server||
+|[https://locatiescan.kvk.nl](https://locatiescan.kvk.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Amazon S3 Amazon Web Services Azure Edge Network Google Tag Manager HSTS Microsoft ASP.NET MyFonts|Home | KVK Locat...|
+|[https://regiodata.kvk.nl](https://regiodata.kvk.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Amazon S3 Amazon Web Services Azure Edge Network Google Tag Manager HSTS Microsoft ASP.NET MyFonts|Home | KVK Regio...|
+|[https://www.bedrijventeller.kvk.nl](https://www.bedrijventeller.kvk.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Amazon S3 Amazon Web Services Azure Edge Network Bloomreach Google Tag Manager HSTS Microsoft ASP.NET MyFonts|Home | KVK Bedri...|
+|[https://www.locatiescan.kvk.nl](https://www.locatiescan.kvk.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Amazon S3 Amazon Web Services Azure Edge Network Google Tag Manager HSTS Microsoft ASP.NET MyFonts|Home | KVK Locat...|
+|[https://www.regiodata.kvk.nl](https://www.regiodata.kvk.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET|Document Moved|
+|[https://bedrijventeller.kvk.nl](https://bedrijventeller.kvk.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Amazon S3 Amazon Web Services Azure Edge Network Bloomreach Google Tag Manager HSTS Microsoft ASP.NET MyFonts|Home | KVK Bedri...|
 |[https://cia.acp.ondernemersplein.kvk.nl](https://cia.acp.ondernemersplein.kvk.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
 |[https://cia.ondernemersplein.kvk.nl](https://cia.ondernemersplein.kvk.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
 |[https://cia.staging.ondernemersplein.kvk.nl](https://cia.staging.ondernemersplein.kvk.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||

@@ -6,13 +6,13 @@
 
  - **SSL Grade**:
  - **HTTP Security Grade**:B
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:83
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:84
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/databank.nl/subdomains.txt)|155|Alive subdomains|
-|[urls.txt](/data/databank.nl/urls.txt)|154|Urls|
+|[subdomains.txt](/data/databank.nl/subdomains.txt)|160|Alive subdomains|
+|[urls.txt](/data/databank.nl/urls.txt)|156|Urls|
 
 
 ## Statistics
@@ -64,9 +64,11 @@
 |[https://ftgelderland.databank.nl](https://ftgelderland.databank.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET|Document Moved|
 |[https://beta-klimaatbeleid.databank.nl](https://beta-klimaatbeleid.databank.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Amazon S3 Amazon Web Services Azure Edge Network HSTS Microsoft ASP.NET MyFonts|Dashboard Klimaa...|
 |[https://beta-vivet.databank.nl](https://beta-vivet.databank.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Document Moved|
+|[https://beta-datawonen.databank.nl](https://beta-datawonen.databank.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Amazon S3 Amazon Web Services Azure Edge Network HSTS Microsoft ASP.NET MyFonts|Datawonen | Data...|
 |[https://beta-klimaatmonitor.databank.nl](https://beta-klimaatmonitor.databank.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Amazon S3 Amazon Web Services Azure Edge Network HSTS Microsoft ASP.NET MyFonts|Regionale Klimaa...|
 |[http://beta-gdi.databank.nl](http://beta-gdi.databank.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET|Document Moved|
 |[https://beta-wsjg.databank.nl](https://beta-wsjg.databank.nl)| | **A**||:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET|Document Moved|
+|[https://beta-woononderzoek.databank.nl](https://beta-woononderzoek.databank.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Amazon S3 Amazon Web Services Azure Edge Network HSTS Microsoft ASP.NET MyFonts|Woononderzoek Ne...|
 |[http://cname-holland-rijnland.databank.nl](http://cname-holland-rijnland.databank.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS|Document Moved|
 |[https://erfgoed.databank.nl](https://erfgoed.databank.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS|Document Moved|
 |[https://jdscan.databank.nl](https://jdscan.databank.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS|Document Moved|

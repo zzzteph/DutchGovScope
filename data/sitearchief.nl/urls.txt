@@ -8,7 +8,6 @@ https://rijkswaterstaat.sitearchief.nl
 https://abx02.sitearchief.nl
 https://acm.sitearchief.nl
 https://archief32.sitearchief.nl
-https://coa.sitearchief.nl
 https://onderwijsraad.sitearchief.nl
 https://archief22.sitearchief.nl
 https://cibg.sitearchief.nl
@@ -16,6 +15,7 @@ https://degezondheidsraad.sitearchief.nl
 https://ind.sitearchief.nl
 https://archief23.sitearchief.nl
 https://igj.sitearchief.nl
+https://archief24.sitearchief.nl
 https://archief25.sitearchief.nl
 https://archief26.sitearchief.nl
 https://nza.sitearchief.nl
@@ -106,8 +106,8 @@ https://aivd.sitearchief.nl
 https://justid.sitearchief.nl
 https://abx04.sitearchief.nl
 https://abx05.sitearchief.nl
+https://archief60.sitearchief.nl
 https://schadefonds.sitearchief.nl
-https://kabinetkoning.sitearchief.nl
 https://abx03.sitearchief.nl
 https://archief53.sitearchief.nl
 https://inspectie-oe.sitearchief.nl

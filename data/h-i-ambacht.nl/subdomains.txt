@@ -12,7 +12,6 @@ h-i-ambacht.nl
 www.h-i-ambacht.nl
 loket.acceptatie.h-i-ambacht.nl
 loket.h-i-ambacht.nl
-omgevingsvisie.h-i-ambacht.nl
 rxlaunch-signicat-preprod.h-i-ambacht.nl
 vergunningintaker-preprod.h-i-ambacht.nl
 vergunningintaker.h-i-ambacht.nl

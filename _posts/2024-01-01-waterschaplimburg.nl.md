@@ -2,11 +2,11 @@
 layout: default
 title: "waterschaplimburg.nl"
 permalink: "/dutchgov/waterschaplimburg.nl.html"
-subdomains_count: 38
-urls_count: 33
+subdomains_count: 35
+urls_count: 32
 ssl_rank: 
-http_rank: C
-security_txt: 10
+http_rank: B
+security_txt: 12
 url_link: /data/waterschaplimburg.nl/urls.txt
 subdomains_link: /data/waterschaplimburg.nl/subdomains.txt
 categories: dutchgov
@@ -19,14 +19,14 @@ tags: dutchgov
 
 
  - **SSL Grade**:
- - **HTTP Security Grade**:C
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:10
+ - **HTTP Security Grade**:B
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:12
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/waterschaplimburg.nl/subdomains.txt)|38|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/waterschaplimburg.nl/urls.txt)|33|Urls|
+|[subdomains.txt](/DutchGovScope/data/waterschaplimburg.nl/subdomains.txt)|35|Alive subdomains|
+|[urls.txt](/DutchGovScope/data/waterschaplimburg.nl/urls.txt)|32|Urls|
 
 
 ## Statistics
@@ -45,8 +45,6 @@ tags: dutchgov
 |[https://spapps-t.waterschaplimburg.nl](https://spapps-t.waterschaplimburg.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|TransIP - Reserv...|
 |[https://spapps.waterschaplimburg.nl](https://spapps.waterschaplimburg.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|TransIP - Reserv...|
 |[https://subsidie.waterschaplimburg.nl](https://subsidie.waterschaplimburg.nl)| | **A**||:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bootstrap HSTS Microsoft ASP.NET|Home - Waterscha...|
-|[http://test-cms-eef.waterschaplimburg.nl](http://test-cms-eef.waterschaplimburg.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
-|[http://test-eef.waterschaplimburg.nl](http://test-eef.waterschaplimburg.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
 |[https://transfer.waterschaplimburg.nl](https://transfer.waterschaplimburg.nl)| | **A**||:warning: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bootstrap HSTS|Waterschap Limbu...|
 |[https://wikixl-saml.acceptatie.waterschaplimburg.nl](https://wikixl-saml.acceptatie.waterschaplimburg.nl)| | **B**|Apache| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS|Redirect|
 |[https://www.waterschaplimburg.nl](https://www.waterschaplimburg.nl)| | **A**|cloudflare|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Cloudflare Cloudflare Bot Management Google Tag Manager HSTS Microsoft ASP.NET:- MyFonts|Home - Waterscha...|
@@ -55,7 +53,6 @@ tags: dutchgov
 |[https://inloggen.waterschaplimburg.nl](https://inloggen.waterschaplimburg.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
 |[https://mail.waterschaplimburg.nl](https://mail.waterschaplimburg.nl)| | **E**|Microsoft-IIS/10.0| | | | | | :white_check_mark: | | :white_check_mark: | |IIS:10.0 Windows Server||
 |[https://maps.waterschaplimburg.nl](https://maps.waterschaplimburg.nl)| | **F**|Microsoft-IIS/10.0| | | | | | | | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server|403 - Forbidden:...|
-|[http://winssen.waterschaplimburg.nl](http://winssen.waterschaplimburg.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
 |[https://autodiscover.waterschaplimburg.nl](https://autodiscover.waterschaplimburg.nl)| | **E**|Microsoft-IIS/10.0| | | | | | :white_check_mark: | | :white_check_mark: | |IIS:10.0 Windows Server||
 |[https://kennisbank.waterschaplimburg.nl](https://kennisbank.waterschaplimburg.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |||
 |[https://wikixl-saml.waterschaplimburg.nl](https://wikixl-saml.waterschaplimburg.nl)| | **B**|Apache| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS|Redirect|
@@ -67,5 +64,7 @@ tags: dutchgov
 |[http://castaways.waterschaplimburg.nl](http://castaways.waterschaplimburg.nl)| | **D**|| | | | | | :white_check_mark: | | :white_check_mark: | |Microsoft HTTPAPI:2.0||
 |[http://mx04.waterschaplimburg.nl](http://mx04.waterschaplimburg.nl)| | **D**|| | | | | | :white_check_mark: | | :white_check_mark: | |Microsoft HTTPAPI:2.0||
 |[https://bron.waterschaplimburg.nl](https://bron.waterschaplimburg.nl)| | **A**||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
+|[https://cms-bron.waterschaplimburg.nl](https://cms-bron.waterschaplimburg.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|403 - Forbidden:...|
+|[https://test-cms-bron.waterschaplimburg.nl](https://test-cms-bron.waterschaplimburg.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|403 - Forbidden:...|
 
 

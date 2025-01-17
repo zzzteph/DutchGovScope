@@ -2,7 +2,7 @@
 layout: default
 title: "bouwplaatsirm.nl"
 permalink: "/dutchgov/bouwplaatsirm.nl.html"
-subdomains_count: 10
+subdomains_count: 8
 urls_count: 8
 ssl_rank: 
 http_rank: D
@@ -25,7 +25,7 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/bouwplaatsirm.nl/subdomains.txt)|10|Alive subdomains|
+|[subdomains.txt](/DutchGovScope/data/bouwplaatsirm.nl/subdomains.txt)|8|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/bouwplaatsirm.nl/urls.txt)|8|Urls|
 
 

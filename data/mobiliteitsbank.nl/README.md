@@ -11,8 +11,8 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/mobiliteitsbank.nl/subdomains.txt)|12|Alive subdomains|
-|[urls.txt](/data/mobiliteitsbank.nl/urls.txt)|12|Urls|
+|[subdomains.txt](/data/mobiliteitsbank.nl/subdomains.txt)|11|Alive subdomains|
+|[urls.txt](/data/mobiliteitsbank.nl/urls.txt)|11|Urls|
 
 
 ## Statistics
@@ -31,6 +31,5 @@
 |[https://vacaturezoekservice.mobiliteitsbank.nl](https://vacaturezoekservice.mobiliteitsbank.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
 |[https://vacaturezoekservice-acceptatie.mobiliteitsbank.nl](https://vacaturezoekservice-acceptatie.mobiliteitsbank.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[http://vacaturezoekservice-test.mobiliteitsbank.nl](http://vacaturezoekservice-test.mobiliteitsbank.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
-|[https://acceptatie.mobiliteitsbank.nl](https://acceptatie.mobiliteitsbank.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 
 

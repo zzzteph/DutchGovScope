@@ -11,8 +11,8 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/tweedekamer.nl/subdomains.txt)|140|Alive subdomains|
-|[urls.txt](/data/tweedekamer.nl/urls.txt)|136|Urls|
+|[subdomains.txt](/data/tweedekamer.nl/subdomains.txt)|143|Alive subdomains|
+|[urls.txt](/data/tweedekamer.nl/urls.txt)|141|Urls|
 
 
 ## Statistics
@@ -86,6 +86,7 @@
 |[https://houseofrepresentatives.test.tweedekamer.nl](https://houseofrepresentatives.test.tweedekamer.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |Basic HSTS|401 Authorizatio...|
 |[https://lijstvangevallenen.acceptatie.tweedekamer.nl](https://lijstvangevallenen.acceptatie.tweedekamer.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|403 Forbidden|
 |[https://lijstvangevallenen.test.tweedekamer.nl](https://lijstvangevallenen.test.tweedekamer.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|403 Forbidden|
+|[https://opendata.acceptatie.tweedekamer.nl](https://opendata.acceptatie.tweedekamer.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|403 Forbidden|
 |[https://opendata.test.tweedekamer.nl](https://opendata.test.tweedekamer.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|403 Forbidden|
 |[https://werkenbij.acceptatie.tweedekamer.nl](https://werkenbij.acceptatie.tweedekamer.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|403 Forbidden|
 |[https://livestream-backup.tweedekamer.nl](https://livestream-backup.tweedekamer.nl)| | **F**|ECAcc (frc/4C86)| | | | | | | | :white_check_mark: | |Azure Azure CDN|Your Azure Funct...|
@@ -156,5 +157,9 @@
 |[http://localhost.tweedekamer.nl](http://localhost.tweedekamer.nl)| | **F**|nginx|:o: | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Laravel Nginx PHP|Weakpass|
 |[https://msoid.tweedekamer.nl](https://msoid.tweedekamer.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Object moved|
 |[https://email.tweedekamer.nl](https://email.tweedekamer.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
+|[http://acc.livedebat.tweedekamer.nl](http://acc.livedebat.tweedekamer.nl)| | **D**|nginx| | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Nginx|Tweedekamer|
+|[http://api.acc.livedebat.tweedekamer.nl](http://api.acc.livedebat.tweedekamer.nl)| | **D**|nginx| | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Nginx|Tweedekamer|
+|[http://ingest.acc.livedebat.tweedekamer.nl](http://ingest.acc.livedebat.tweedekamer.nl)| | **D**|nginx| | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Nginx|Tweedekamer|
+|[http://stats.acc.livedebat.tweedekamer.nl](http://stats.acc.livedebat.tweedekamer.nl)| | **D**|nginx| | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Nginx|Tweedekamer|
 
 

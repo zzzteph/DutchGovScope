@@ -2,8 +2,8 @@
 layout: default
 title: "zwemwater.nl"
 permalink: "/dutchgov/zwemwater.nl.html"
-subdomains_count: 50
-urls_count: 47
+subdomains_count: 49
+urls_count: 46
 ssl_rank: 
 http_rank: E
 security_txt: 8
@@ -25,8 +25,8 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/zwemwater.nl/subdomains.txt)|50|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/zwemwater.nl/urls.txt)|47|Urls|
+|[subdomains.txt](/DutchGovScope/data/zwemwater.nl/subdomains.txt)|49|Alive subdomains|
+|[urls.txt](/DutchGovScope/data/zwemwater.nl/urls.txt)|46|Urls|
 
 
 ## Statistics
@@ -50,7 +50,6 @@ tags: dutchgov
 |[https://acpt.zwemwater.nl](https://acpt.zwemwater.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
 |[https://ftp.zwemwater.nl](https://ftp.zwemwater.nl)| | **B**|Apache| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
 |[http://localhost.zwemwater.nl](http://localhost.zwemwater.nl)| | **F**|nginx|:o: | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Laravel Nginx PHP|Weakpass|
-|[https://webmail.zwemwater.nl](https://webmail.zwemwater.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx Plesk|Aralto ICT|
 |[https://inspiregeo.zwemwater.nl](https://inspiregeo.zwemwater.nl)| | **B**|Apache| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS||
 |[https://zwemlocatieswww.zwemwater.nl](https://zwemlocatieswww.zwemwater.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
 |[https://9986734www.zwemwater.nl](https://9986734www.zwemwater.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|

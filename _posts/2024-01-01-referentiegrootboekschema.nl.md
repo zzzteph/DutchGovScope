@@ -40,6 +40,6 @@ tags: dutchgov
 |[https://referentiegrootboekschema.nl](https://referentiegrootboekschema.nl)| | **A**|nginx| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
 |[https://www.referentiegrootboekschema.nl](https://www.referentiegrootboekschema.nl)| | **A**|nginx| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Drupal HSTS Nginx PHP|Home | Referenti...|
 |[https://mail.referentiegrootboekschema.nl](https://mail.referentiegrootboekschema.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Basic Nginx|401 Authorizatio...|
-|[https://ftp.referentiegrootboekschema.nl](https://ftp.referentiegrootboekschema.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|301 Moved Perman...|
+|[https://ftp.referentiegrootboekschema.nl](https://ftp.referentiegrootboekschema.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
 
 

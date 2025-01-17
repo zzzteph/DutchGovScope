@@ -10,6 +10,12 @@ zoeken.ondernemersplein.kvk.nl
 api.ondernemersplein.kvk.nl
 ondernemersplein.kvk.nl
 autodiscover.kvk.nl
+locatiescan.kvk.nl
+regiodata.kvk.nl
+www.bedrijventeller.kvk.nl
+www.locatiescan.kvk.nl
+www.regiodata.kvk.nl
+bedrijventeller.kvk.nl
 cia.acp.ondernemersplein.kvk.nl
 cia.ondernemersplein.kvk.nl
 cia.staging.ondernemersplein.kvk.nl
@@ -36,7 +42,6 @@ msoid.kvk.nl
 ondertekenen-id.acp.kvk.nl
 ondertekenen-id.kvk.nl
 rhub.kvk.nl
-sdgapi.acp.ondernemersplein.kvk.nl
 sdgapi.ondernemersplein.kvk.nl
 staging.werkenbij.kvk.nl
 static.kvk.nl

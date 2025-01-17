@@ -4,4 +4,5 @@ opendata.riec.nl
 riec.nl
 www.riec.nl
 mail.riec.nl
+mdm.zwb.riec.nl
 autoconfig.riec.nl

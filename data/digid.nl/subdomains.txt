@@ -37,5 +37,4 @@ was-preprod1.digid.nl
 was-preprod2.digid.nl
 was.digid.nl
 www.digid.nl
-rijbewijs.cis-test2.digid.nl
 mu.digid.nl

@@ -11,8 +11,8 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/rijksapplicaties.nl/subdomains.txt)|270|Alive subdomains|
-|[urls.txt](/data/rijksapplicaties.nl/urls.txt)|270|Urls|
+|[subdomains.txt](/data/rijksapplicaties.nl/subdomains.txt)|269|Alive subdomains|
+|[urls.txt](/data/rijksapplicaties.nl/urls.txt)|269|Urls|
 
 
 ## Statistics
@@ -262,14 +262,13 @@
 |[http://ufp-webservice.rijksapplicaties.nl](http://ufp-webservice.rijksapplicaties.nl)| | **E**|| | | | | | | | :white_check_mark: | ||302 Found|
 |[http://dpp-webservice.rijksapplicaties.nl](http://dpp-webservice.rijksapplicaties.nl)| | **E**|| | | | | | | | :white_check_mark: | ||302 Found|
 |[http://qr-app-webservice.rijksapplicaties.nl](http://qr-app-webservice.rijksapplicaties.nl)| | **E**|| | | | | | | | :white_check_mark: | ||302 Found|
-|[https://orbis.acc.syn.rijksapplicaties.nl](https://orbis.acc.syn.rijksapplicaties.nl)| | **F**|BigIP| | | | | | | | :white_check_mark: | |F5 BigIP||
 |[https://orbis.syn.rijksapplicaties.nl](https://orbis.syn.rijksapplicaties.nl)| | **F**|BigIP| | | | | | | | :white_check_mark: | |F5 BigIP||
 |[http://ufp-webservice.staging.rijksapplicaties.nl](http://ufp-webservice.staging.rijksapplicaties.nl)| | **E**|| | | | | | | | :white_check_mark: | ||302 Found|
 |[https://redt.staging.rijksapplicaties.nl](https://redt.staging.rijksapplicaties.nl)| | **C**|nginx|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS Microsoft ASP.NET Nginx|Rijksoverheid Ef...|
 |[https://ncg-on-vv.staging.rijksapplicaties.nl](https://ncg-on-vv.staging.rijksapplicaties.nl)| | **C**|nginx|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS Nginx||
 |[https://adr.staging.rijksapplicaties.nl](https://adr.staging.rijksapplicaties.nl)| | **C**|nginx|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS Nginx||
 |[https://rvbvba.staging.rijksapplicaties.nl](https://rvbvba.staging.rijksapplicaties.nl)| | **C**|nginx|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS Nginx||
-|[https://dba.staging.rijksapplicaties.nl](https://dba.staging.rijksapplicaties.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |HSTS Nginx||
+|[https://dba.staging.rijksapplicaties.nl](https://dba.staging.rijksapplicaties.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS Nginx||
 |[https://iiz.staging.rijksapplicaties.nl](https://iiz.staging.rijksapplicaties.nl)| | **C**|nginx|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS Nginx||
 |[https://rvb-dtc.staging.rijksapplicaties.nl](https://rvb-dtc.staging.rijksapplicaties.nl)| | **C**|nginx|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS Nginx||
 |[https://wobi.staging.rijksapplicaties.nl](https://wobi.staging.rijksapplicaties.nl)| | **C**|nginx|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS Nginx||

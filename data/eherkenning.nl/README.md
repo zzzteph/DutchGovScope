@@ -11,7 +11,7 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/eherkenning.nl/subdomains.txt)|19|Alive subdomains|
+|[subdomains.txt](/data/eherkenning.nl/subdomains.txt)|21|Alive subdomains|
 |[urls.txt](/data/eherkenning.nl/urls.txt)|19|Urls|
 
 

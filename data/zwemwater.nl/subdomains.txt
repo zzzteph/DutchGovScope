@@ -14,7 +14,6 @@ wwww.zwemwater.nl
 acpt.zwemwater.nl
 ftp.zwemwater.nl
 localhost.zwemwater.nl
-webmail.zwemwater.nl
 inspiregeo.zwemwater.nl
 zwemlocatieswww.zwemwater.nl
 9986734www.zwemwater.nl

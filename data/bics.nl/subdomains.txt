@@ -7,7 +7,6 @@ bayplanviewer.bics.nl
 livra2.bics.nl
 nlhull.bics.nl
 nlrdms.bics.nl
-bicsaccweb1.bics.nl
 bicsweb1.bics.nl
 bicsweb3.bics.nl
 acc.bics.nl

@@ -11,7 +11,7 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/aerius.nl/subdomains.txt)|21|Alive subdomains|
+|[subdomains.txt](/data/aerius.nl/subdomains.txt)|22|Alive subdomains|
 |[urls.txt](/data/aerius.nl/urls.txt)|21|Urls|
 
 

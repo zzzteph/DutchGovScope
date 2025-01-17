@@ -5,14 +5,14 @@
 
 
  - **SSL Grade**:
- - **HTTP Security Grade**:B
+ - **HTTP Security Grade**:C
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:9
 
 
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/raadvanstate.nl/subdomains.txt)|30|Alive subdomains|
-|[urls.txt](/data/raadvanstate.nl/urls.txt)|30|Urls|
+|[urls.txt](/data/raadvanstate.nl/urls.txt)|29|Urls|
 
 
 ## Statistics
@@ -47,7 +47,6 @@
 |[https://zittingsagenda.raadvanstate.nl](https://zittingsagenda.raadvanstate.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server||
 |[http://kennisbank.raadvanstate.nl](http://kennisbank.raadvanstate.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Not Found|
 |[http://loket-preprod.raadvanstate.nl](http://loket-preprod.raadvanstate.nl)| | **A**||:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |IIS:10.0 Windows Server||
-|[https://test.raadvanstate.nl](https://test.raadvanstate.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:-|Home - Raad van...|
 |[https://enterpriseenrollment.raadvanstate.nl](https://enterpriseenrollment.raadvanstate.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||
 |[https://enterpriseregistration.raadvanstate.nl](https://enterpriseregistration.raadvanstate.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 

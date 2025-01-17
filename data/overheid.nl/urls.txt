@@ -148,7 +148,6 @@ https://lokaleregelgeving-acc.overheid.nl
 https://lvbb-tst.overheid.nl
 https://wetgevingskalender.overheid.nl
 https://data.overheid.nl
-http://designsystem.overheid.nl
 https://linkextractor.overheid.nl
 https://lokaleregelgeving.overheid.nl
 https://organisaties.overheid.nl
@@ -295,7 +294,6 @@ https://mnd-preprd.overheid.nl
 https://oproepingen-api-preprd-poc.overheid.nl
 http://demo1-systemteam.overheid.nl
 https://digid-stub.lpc.mijn.overheid.nl
-http://ondersteuning.omgevingswet.overheid.nl
 https://pdc.pre.omgevingswet.overheid.nl
 https://pp2.toegang.overheid.nl
 https://resolver.int.omgevingswet.overheid.nl

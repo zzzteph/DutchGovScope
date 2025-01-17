@@ -3,9 +3,9 @@ layout: default
 title: "raadvanstate.nl"
 permalink: "/dutchgov/raadvanstate.nl.html"
 subdomains_count: 30
-urls_count: 30
+urls_count: 29
 ssl_rank: 
-http_rank: B
+http_rank: C
 security_txt: 9
 url_link: /data/raadvanstate.nl/urls.txt
 subdomains_link: /data/raadvanstate.nl/subdomains.txt
@@ -19,14 +19,14 @@ tags: dutchgov
 
 
  - **SSL Grade**:
- - **HTTP Security Grade**:B
+ - **HTTP Security Grade**:C
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:9
 
 
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/DutchGovScope/data/raadvanstate.nl/subdomains.txt)|30|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/raadvanstate.nl/urls.txt)|30|Urls|
+|[urls.txt](/DutchGovScope/data/raadvanstate.nl/urls.txt)|29|Urls|
 
 
 ## Statistics
@@ -61,7 +61,6 @@ tags: dutchgov
 |[https://zittingsagenda.raadvanstate.nl](https://zittingsagenda.raadvanstate.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server||
 |[http://kennisbank.raadvanstate.nl](http://kennisbank.raadvanstate.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Not Found|
 |[http://loket-preprod.raadvanstate.nl](http://loket-preprod.raadvanstate.nl)| | **A**||:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |IIS:10.0 Windows Server||
-|[https://test.raadvanstate.nl](https://test.raadvanstate.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:-|Home - Raad van...|
 |[https://enterpriseenrollment.raadvanstate.nl](https://enterpriseenrollment.raadvanstate.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||
 |[https://enterpriseregistration.raadvanstate.nl](https://enterpriseregistration.raadvanstate.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 

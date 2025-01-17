@@ -3,5 +3,4 @@ https://www.atgb.nl
 http://autodiscover.atgb.nl
 https://enterpriseenrollment.atgb.nl
 https://enterpriseregistration.atgb.nl
-https://ftp.atgb.nl
 https://msoid.atgb.nl

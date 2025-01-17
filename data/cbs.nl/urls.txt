@@ -175,3 +175,4 @@ https://geodata.cbs.nl
 https://livecharts.cbs.nl
 https://iv3-controle.beta.cbs.nl
 https://beta-iv3-controle.cbs.nl
+https://apisimplex.cbs.nl

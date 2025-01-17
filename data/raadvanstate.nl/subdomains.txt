@@ -17,6 +17,7 @@ loket-inloggen.raadvanstate.nl
 loket.raadvanstate.nl
 mijnzaak-acc.raadvanstate.nl
 mijnzaak.raadvanstate.nl
+portaal.gateway-acc.raadvanstate.nl
 portaal.gateway.raadvanstate.nl
 siam-acp.raadvanstate.nl
 siam.raadvanstate.nl
@@ -25,6 +26,5 @@ www.raadvanstate.nl
 zittingsagenda.raadvanstate.nl
 kennisbank.raadvanstate.nl
 loket-preprod.raadvanstate.nl
-test.raadvanstate.nl
 enterpriseenrollment.raadvanstate.nl
 enterpriseregistration.raadvanstate.nl

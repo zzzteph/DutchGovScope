@@ -68,8 +68,6 @@ mul-mbc.belastingdienst.nl
 mul-mkt.belastingdienst.nl
 mul-redirect.belastingdienst.nl
 mul.belastingdienst.nl
-mwr-app-api-ota.belastingdienst.nl
-mwr-app-api.belastingdienst.nl
 mwr-app-cdn-ota.belastingdienst.nl
 mwr-app-cdn.belastingdienst.nl
 odb.belastingdienst.nl

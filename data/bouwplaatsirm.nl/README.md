@@ -11,7 +11,7 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/bouwplaatsirm.nl/subdomains.txt)|10|Alive subdomains|
+|[subdomains.txt](/data/bouwplaatsirm.nl/subdomains.txt)|8|Alive subdomains|
 |[urls.txt](/data/bouwplaatsirm.nl/urls.txt)|8|Urls|
 
 

@@ -11,8 +11,8 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/veiligheidsregioflevoland.nl/subdomains.txt)|16|Alive subdomains|
-|[urls.txt](/data/veiligheidsregioflevoland.nl/urls.txt)|11|Urls|
+|[subdomains.txt](/data/veiligheidsregioflevoland.nl/subdomains.txt)|20|Alive subdomains|
+|[urls.txt](/data/veiligheidsregioflevoland.nl/urls.txt)|15|Urls|
 
 
 ## Statistics
@@ -30,6 +30,10 @@
 |[https://enterpriseregistration.veiligheidsregioflevoland.nl](https://enterpriseregistration.veiligheidsregioflevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[http://audiobooks.veiligheidsregioflevoland.nl](http://audiobooks.veiligheidsregioflevoland.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
 |[https://msoid.veiligheidsregioflevoland.nl](https://msoid.veiligheidsregioflevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Object moved|
+|[http://yvo.veiligheidsregioflevoland.nl](http://yvo.veiligheidsregioflevoland.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
+|[http://eja.veiligheidsregioflevoland.nl](http://eja.veiligheidsregioflevoland.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
 |[http://orsha.veiligheidsregioflevoland.nl](http://orsha.veiligheidsregioflevoland.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
+|[http://azb.veiligheidsregioflevoland.nl](http://azb.veiligheidsregioflevoland.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
+|[http://tait.veiligheidsregioflevoland.nl](http://tait.veiligheidsregioflevoland.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
 
 

@@ -11,7 +11,7 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/bics.nl/subdomains.txt)|13|Alive subdomains|
+|[subdomains.txt](/data/bics.nl/subdomains.txt)|12|Alive subdomains|
 |[urls.txt](/data/bics.nl/urls.txt)|12|Urls|
 
 

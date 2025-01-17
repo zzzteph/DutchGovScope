@@ -42,9 +42,11 @@ demo-ebc.databank.nl
 ftgelderland.databank.nl
 beta-klimaatbeleid.databank.nl
 beta-vivet.databank.nl
+beta-datawonen.databank.nl
 beta-klimaatmonitor.databank.nl
 beta-gdi.databank.nl
 beta-wsjg.databank.nl
+beta-woononderzoek.databank.nl
 cname-holland-rijnland.databank.nl
 erfgoed.databank.nl
 jdscan.databank.nl
@@ -106,6 +108,9 @@ berst.databank.nl
 ciz.databank.nl
 www.klimaat-monitor.databank.nl
 www.arcon.databank.nl
+mijn-intranet.databank.nl
+tjalhuizum.databank.nl
+webshare.databank.nl
 www.kenniscentrumhoreca.databank.nl
 www.seer.databank.nl
 www.amsterdam.rosopen.databank.nl

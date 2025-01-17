@@ -6,13 +6,13 @@
 
  - **SSL Grade**:
  - **HTTP Security Grade**:C
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:94
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:93
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/rws.nl/subdomains.txt)|160|Alive subdomains|
-|[urls.txt](/data/rws.nl/urls.txt)|158|Urls|
+|[subdomains.txt](/data/rws.nl/subdomains.txt)|162|Alive subdomains|
+|[urls.txt](/data/rws.nl/urls.txt)|159|Urls|
 
 
 ## Statistics
@@ -47,7 +47,6 @@
 |[https://fat.vm-02.azure.grid.rws.nl](https://fat.vm-02.azure.grid.rws.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|iwks-hwtest-fron...|
 |[https://hwtest.vm-02.azure.grid.rws.nl](https://hwtest.vm-02.azure.grid.rws.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS|404 Not Found|
 |[https://pgadmin.vm-02.azure.grid.rws.nl](https://pgadmin.vm-02.azure.grid.rws.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS|404 Not Found|
-|[https://programmaplan.vm-02.azure.grid.rws.nl](https://programmaplan.vm-02.azure.grid.rws.nl)| | **A**||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | ||302 Found|
 |[https://tunnelservice-werkstation-2.vm-02.azure.grid.rws.nl](https://tunnelservice-werkstation-2.vm-02.azure.grid.rws.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS|404 Not Found|
 |[https://browse.nexus.vm-02.azure.grid.rws.nl](https://browse.nexus.vm-02.azure.grid.rws.nl)| | **A**||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | ||302 Found|
 |[https://fat-acc.vm-02.azure.grid.rws.nl](https://fat-acc.vm-02.azure.grid.rws.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|iwks-hwtest-fron...|
@@ -71,6 +70,8 @@
 |[https://port-enc.rws.nl](https://port-enc.rws.nl)| | **C**|Kestrel|:warning: |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS Kestrel Microsoft ASP.NET||
 |[https://standaarden.rws.nl](https://standaarden.rws.nl)| | **B**|nginx| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS Nginx|Standaarden RWS|
 |[https://beterbediend.rws.nl](https://beterbediend.rws.nl)| | **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Nginx|Beter Bediend|
+|[https://bezoekerscentrum.rws.nl](https://bezoekerscentrum.rws.nl)| | **B**|nginx| |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | |HSTS MySQL Nginx PHP SDL Tridion W3 Total Cache WordPress Yoast SEO:23.6|Bezoekerscentrum...|
+|[https://test.bezoekerscentrum.rws.nl](https://test.bezoekerscentrum.rws.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |HSTS MySQL Nginx PHP SDL Tridion W3 Total Cache WordPress Yoast SEO:23.6|Bezoekerscentrum...|
 |[https://centraaltoegangspuntdata.rws.nl](https://centraaltoegangspuntdata.rws.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:-|403 - Forbidden:...|
 |[https://nis.rws.nl](https://nis.rws.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:-|403 - Forbidden:...|
 |[https://cmgrws.rws.nl](https://cmgrws.rws.nl)| | **B**|Microsoft-IIS/10.0| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS IIS:10.0 Windows Server||

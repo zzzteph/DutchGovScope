@@ -68,8 +68,6 @@ https://mul-mbc.belastingdienst.nl
 https://mul-mkt.belastingdienst.nl
 https://mul-redirect.belastingdienst.nl
 https://mul.belastingdienst.nl
-https://mwr-app-api-ota.belastingdienst.nl
-https://mwr-app-api.belastingdienst.nl
 https://mwr-app-cdn-ota.belastingdienst.nl
 https://mwr-app-cdn.belastingdienst.nl
 https://odb.belastingdienst.nl

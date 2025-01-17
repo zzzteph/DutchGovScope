@@ -11,8 +11,8 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/rivm.nl/subdomains.txt)|265|Alive subdomains|
-|[urls.txt](/data/rivm.nl/urls.txt)|265|Urls|
+|[subdomains.txt](/data/rivm.nl/subdomains.txt)|264|Alive subdomains|
+|[urls.txt](/data/rivm.nl/urls.txt)|264|Urls|
 
 
 ## Statistics
@@ -183,7 +183,6 @@
 |[https://lci.rivm.nl](https://lci.rivm.nl)| | **A**|Apache| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server Bootstrap Drupal:10 HSTS PHP|LCI richtlijnen|
 |[https://leren.rivm.nl](https://leren.rivm.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Welcome to The E...|
 |[https://lmm.rivm.nl](https://lmm.rivm.nl)| | **A**|Microsoft-IIS/10.0| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS IIS:10.0 Microsoft ASP.NET:4.0.30319 Windows Server|Landelijk Meetne...|
-|[http://login-ext.rivm.nl](http://login-ext.rivm.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Java||
 |[https://login.rivm.nl](https://login.rivm.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
 |[https://uzi.rivm.nl](https://uzi.rivm.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
 |[https://longcovid.rivm.nl](https://longcovid.rivm.nl)| | **A**|Apache|:white_check_mark: |:white_check_mark: | | | :white_check_mark:| | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS|LongCOVID-onderz...|

@@ -8,7 +8,6 @@ rijkswaterstaat.sitearchief.nl
 abx02.sitearchief.nl
 acm.sitearchief.nl
 archief32.sitearchief.nl
-coa.sitearchief.nl
 onderwijsraad.sitearchief.nl
 archief22.sitearchief.nl
 cibg.sitearchief.nl
@@ -16,6 +15,7 @@ degezondheidsraad.sitearchief.nl
 ind.sitearchief.nl
 archief23.sitearchief.nl
 igj.sitearchief.nl
+archief24.sitearchief.nl
 archief25.sitearchief.nl
 archief26.sitearchief.nl
 nza.sitearchief.nl
@@ -106,8 +106,8 @@ aivd.sitearchief.nl
 justid.sitearchief.nl
 abx04.sitearchief.nl
 abx05.sitearchief.nl
+archief60.sitearchief.nl
 schadefonds.sitearchief.nl
-kabinetkoning.sitearchief.nl
 abx03.sitearchief.nl
 archief53.sitearchief.nl
 inspectie-oe.sitearchief.nl

@@ -3,10 +3,10 @@ layout: default
 title: "hhdelfland.nl"
 permalink: "/dutchgov/hhdelfland.nl.html"
 subdomains_count: 33
-urls_count: 32
+urls_count: 33
 ssl_rank: 
 http_rank: C
-security_txt: 7
+security_txt: 8
 url_link: /data/hhdelfland.nl/urls.txt
 subdomains_link: /data/hhdelfland.nl/subdomains.txt
 categories: dutchgov
@@ -20,13 +20,13 @@ tags: dutchgov
 
  - **SSL Grade**:
  - **HTTP Security Grade**:C
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:7
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:8
 
 
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/DutchGovScope/data/hhdelfland.nl/subdomains.txt)|33|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/hhdelfland.nl/urls.txt)|32|Urls|
+|[urls.txt](/DutchGovScope/data/hhdelfland.nl/urls.txt)|33|Urls|
 
 
 ## Statistics
@@ -66,5 +66,6 @@ tags: dutchgov
 |[https://enterpriseenrollment.hhdelfland.nl](https://enterpriseenrollment.hhdelfland.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||
 |[https://enterpriseregistration.hhdelfland.nl](https://enterpriseregistration.hhdelfland.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://passwordreset.hhdelfland.nl](https://passwordreset.hhdelfland.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Microsoft Online...|
+|[https://kennisbank.hhdelfland.nl](https://kennisbank.hhdelfland.nl)| | **B**|-|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:-|Object moved|
 
 

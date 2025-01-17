@@ -161,7 +161,6 @@ kiddi.rivm.nl
 lci.rivm.nl
 leren.rivm.nl
 lmm.rivm.nl
-login-ext.rivm.nl
 login.rivm.nl
 uzi.rivm.nl
 longcovid.rivm.nl

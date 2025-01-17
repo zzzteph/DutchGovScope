@@ -161,7 +161,6 @@ https://kiddi.rivm.nl
 https://lci.rivm.nl
 https://leren.rivm.nl
 https://lmm.rivm.nl
-http://login-ext.rivm.nl
 https://login.rivm.nl
 https://uzi.rivm.nl
 https://longcovid.rivm.nl

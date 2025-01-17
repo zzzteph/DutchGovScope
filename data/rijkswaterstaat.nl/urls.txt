@@ -60,7 +60,6 @@ https://spin.rijkswaterstaat.nl
 https://spin2.rijkswaterstaat.nl
 https://standaarden.rijkswaterstaat.nl
 https://stijlgids.rijkswaterstaat.nl
-http://techniekacademie.rijkswaterstaat.nl
 https://test.botova.rijkswaterstaat.nl
 https://test.esb.rijkswaterstaat.nl
 https://tmxweb.rijkswaterstaat.nl
@@ -75,7 +74,6 @@ https://waterwebservices.beta.rijkswaterstaat.nl
 http://webmail.rijkswaterstaat.nl
 https://zaaksysteem-acc.rijkswaterstaat.nl
 https://zaaksysteem.rijkswaterstaat.nl
-http://zwerfafval.rijkswaterstaat.nl
 https://acc-geo.rijkswaterstaat.nl
 https://static.ont.staging.werkenbij.rijkswaterstaat.nl
 https://innovatieloket-tst.rijkswaterstaat.nl

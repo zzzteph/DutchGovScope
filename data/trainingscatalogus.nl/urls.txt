@@ -30,7 +30,6 @@ https://appgw-prd-01.trainingscatalogus.nl
 https://buzaleeromgeving-a.trainingscatalogus.nl
 https://cizleeromgeving-a.trainingscatalogus.nl
 https://leeromgeving-delft.trainingscatalogus.nl
-https://lms-afm.trainingscatalogus.nl
 https://abdleeromgeving-a.trainingscatalogus.nl
 https://apgrechtenbeheerenict.trainingscatalogus.nl
 https://apgdi.trainingscatalogus.nl

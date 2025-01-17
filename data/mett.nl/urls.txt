@@ -39,7 +39,7 @@ https://veracommunity.mett.nl
 http://samenopdehoogte.mett.nl
 http://metamersfoort.mett.nl
 http://seksueelmisbruik.mett.nl
-http://toegankelijkheid.mett.nl
+https://toegankelijkheid.mett.nl
 http://emmengeeftenergie.mett.nl
 http://groenbeleiddenhaag.mett.nl
 http://copyrijksoverheid.mett.nl
@@ -58,6 +58,7 @@ http://autodiscover.mett.nl
 https://demo2.mett.nl
 https://dev.mett.nl
 https://ftp.mett.nl
+https://tom.mett.nl
 https://robert.mett.nl
 https://htx.mett.nl
 https://performance.mett.nl
@@ -98,6 +99,7 @@ https://ggagroenblauw.mett.nl
 https://ikdenkmeeoveruitgeest.mett.nl
 https://lcnk.mett.nl
 https://zichtopnl.mett.nl
+https://halderberge.mett.nl
 https://helpdesk.mett.nl
 https://dejongeakademie.mett.nl
 https://a27houtenhooipolder.mett.nl
@@ -160,7 +162,6 @@ https://samen14.mett.nl
 https://demointranet.mett.nl
 https://erfgoedalliantie.mett.nl
 https://udi.mett.nl
-https://anna.mett.nl
 https://drontenikpraatmee.mett.nl
 https://mirta2deilvught.mett.nl
 https://samenshertogenbosch.mett.nl
@@ -176,9 +177,6 @@ https://programmavivet.mett.nl
 https://samenbernheze.mett.nl
 https://meanderomnium.mett.nl
 https://locov.mett.nl
-https://gastvrijerandmeren.mett.nl
-https://veiligevecht.mett.nl
-https://denkmeewoonin.mett.nl
 http://park.mett.nl
 http://vrijwilligerscentralezeist.mett.nl
 http://energiehout.mett.nl

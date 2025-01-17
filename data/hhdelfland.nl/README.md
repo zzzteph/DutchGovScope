@@ -6,13 +6,13 @@
 
  - **SSL Grade**:
  - **HTTP Security Grade**:C
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:7
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:8
 
 
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/hhdelfland.nl/subdomains.txt)|33|Alive subdomains|
-|[urls.txt](/data/hhdelfland.nl/urls.txt)|32|Urls|
+|[urls.txt](/data/hhdelfland.nl/urls.txt)|33|Urls|
 
 
 ## Statistics
@@ -52,5 +52,6 @@
 |[https://enterpriseenrollment.hhdelfland.nl](https://enterpriseenrollment.hhdelfland.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||
 |[https://enterpriseregistration.hhdelfland.nl](https://enterpriseregistration.hhdelfland.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://passwordreset.hhdelfland.nl](https://passwordreset.hhdelfland.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Microsoft Online...|
+|[https://kennisbank.hhdelfland.nl](https://kennisbank.hhdelfland.nl)| | **B**|-|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:-|Object moved|
 
 

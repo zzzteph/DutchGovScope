@@ -5871,6 +5871,7 @@ https://coldfusion.valys.nl
 https://fransguyana.valys.nl
 https://acc-mob-api.valys.nl
 https://test.ext.valys.nl
+https://gws-dev.app.valys.nl
 https://christie.valys.nl
 https://mobilestore.valys.nl
 https://venqa.dash.valys.nl

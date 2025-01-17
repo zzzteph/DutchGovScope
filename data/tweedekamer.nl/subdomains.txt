@@ -64,8 +64,11 @@ houseofrepresentatives.acceptatie.tweedekamer.nl
 houseofrepresentatives.test.tweedekamer.nl
 lijstvangevallenen.acceptatie.tweedekamer.nl
 lijstvangevallenen.test.tweedekamer.nl
+opendata.acceptatie.tweedekamer.nl
 opendata.test.tweedekamer.nl
 werkenbij.acceptatie.tweedekamer.nl
+join.videovergaderen.tweedekamer.nl
+videovergaderen.tweedekamer.nl
 livestream-backup.tweedekamer.nl
 livestream-media-backup.tweedekamer.nl
 livestream-thumb.tweedekamer.nl

@@ -25,7 +25,6 @@ configgenerator.vm-02.azure.grid.rws.nl
 fat.vm-02.azure.grid.rws.nl
 hwtest.vm-02.azure.grid.rws.nl
 pgadmin.vm-02.azure.grid.rws.nl
-programmaplan.vm-02.azure.grid.rws.nl
 tunnelservice-werkstation-2.vm-02.azure.grid.rws.nl
 browse.nexus.vm-02.azure.grid.rws.nl
 fat-acc.vm-02.azure.grid.rws.nl
@@ -49,6 +48,8 @@ getij.rws.nl
 port-enc.rws.nl
 standaarden.rws.nl
 beterbediend.rws.nl
+bezoekerscentrum.rws.nl
+test.bezoekerscentrum.rws.nl
 centraaltoegangspuntdata.rws.nl
 nis.rws.nl
 cmgrws.rws.nl
@@ -68,7 +69,6 @@ geo.rws.nl
 geoweb.rws.nl
 git.rws.nl
 hld.rws.nl
-inloggen.rws.nl
 maps.rws.nl
 mars.rws.nl
 meridian.rws.nl
@@ -84,7 +84,6 @@ poc-werkplek.rws.nl
 preprod.beterbediend.rws.nl
 protide.rws.nl
 prs.rws.nl
-ptp.inloggen.rws.nl
 rastoken.rws.nl
 rhel8.wabinfo.rws.nl
 wabinfo.rws.nl
@@ -158,3 +157,6 @@ werkplek.gw01-gslb.rws.nl
 ddapi-preprod.gslb.rws.nl
 test-aquo-kit.rws.nl
 tst-ovdsupport.rws.nl
+mip-proxy-prod.rws.nl
+fcd-acc-bemobile-trajectorien.rws.nl
+fcd-acc-bemobile-aid-triggers.rws.nl

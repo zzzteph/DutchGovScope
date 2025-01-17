@@ -36,6 +36,6 @@ tags: dutchgov
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[https://earonline.nl](https://earonline.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS Varnish:6.6||
 |[https://www.earonline.nl](https://www.earonline.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS Varnish||
-|[https://test.earonline.nl](https://test.earonline.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS Varnish:6.6|302 Found|
+|[https://test.earonline.nl](https://test.earonline.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|Geregistreerd do...|
 
 

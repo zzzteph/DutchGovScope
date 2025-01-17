@@ -25,7 +25,6 @@ https://configgenerator.vm-02.azure.grid.rws.nl
 https://fat.vm-02.azure.grid.rws.nl
 https://hwtest.vm-02.azure.grid.rws.nl
 https://pgadmin.vm-02.azure.grid.rws.nl
-https://programmaplan.vm-02.azure.grid.rws.nl
 https://tunnelservice-werkstation-2.vm-02.azure.grid.rws.nl
 https://browse.nexus.vm-02.azure.grid.rws.nl
 https://fat-acc.vm-02.azure.grid.rws.nl
@@ -49,6 +48,8 @@ https://getij.rws.nl
 https://port-enc.rws.nl
 https://standaarden.rws.nl
 https://beterbediend.rws.nl
+https://bezoekerscentrum.rws.nl
+https://test.bezoekerscentrum.rws.nl
 https://centraaltoegangspuntdata.rws.nl
 https://nis.rws.nl
 https://cmgrws.rws.nl

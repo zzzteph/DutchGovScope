@@ -240,7 +240,6 @@ rldb-webservice.rijksapplicaties.nl
 ufp-webservice.rijksapplicaties.nl
 dpp-webservice.rijksapplicaties.nl
 qr-app-webservice.rijksapplicaties.nl
-orbis.acc.syn.rijksapplicaties.nl
 orbis.syn.rijksapplicaties.nl
 ufp-webservice.staging.rijksapplicaties.nl
 redt.staging.rijksapplicaties.nl

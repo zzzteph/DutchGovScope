@@ -51,6 +51,7 @@ prod.sq.mfaservices.nl
 sq.mfaservices.nl
 protocol.mfaservices.nl
 snd.login.consular.mfaservices.nl
+tst-biometric-service.consular.mfaservices.nl
 tst.esp.mfaservices.nl
 tst.liferay.mfaservices.nl
 acc.fez.mfaservices.nl

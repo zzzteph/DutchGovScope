@@ -11,7 +11,7 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/dnb.nl/subdomains.txt)|135|Alive subdomains|
+|[subdomains.txt](/data/dnb.nl/subdomains.txt)|134|Alive subdomains|
 |[urls.txt](/data/dnb.nl/urls.txt)|133|Urls|
 
 

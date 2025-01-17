@@ -87,7 +87,6 @@ monet-dev.dnb.nl
 monet-tst.dnb.nl
 nieuws.dnb.nl
 nnc.dnb.nl
-sharefile.dnb.nl
 statistics.dnb.nl
 nieuwsapp.dnb.nl
 pmhdsk-ci.dnb.nl

@@ -4,4 +4,6 @@ www.schadedoormijnbouw.nl
 mijndossier.schadedoormijnbouw.nl
 schijf.schadedoormijnbouw.nl
 acceptatie.schadedoormijnbouw.nl
+digikoppeling.schadedoormijnbouw.nl
 tracking.schadedoormijnbouw.nl
+acceptatie.intranet.schadedoormijnbouw.nl

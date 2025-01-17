@@ -1,5 +1,4 @@
 https://feeds.investeringsimpulsspv.nl
 https://opendata.investeringsimpulsspv.nl
-https://www.investeringsimpulsspv.nl
 https://investeringsimpulsspv.nl
 https://mail.investeringsimpulsspv.nl

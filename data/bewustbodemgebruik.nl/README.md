@@ -12,7 +12,7 @@
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/bewustbodemgebruik.nl/subdomains.txt)|8|Alive subdomains|
-|[urls.txt](/data/bewustbodemgebruik.nl/urls.txt)|7|Urls|
+|[urls.txt](/data/bewustbodemgebruik.nl/urls.txt)|8|Urls|
 
 
 ## Statistics
@@ -24,7 +24,8 @@
 |[https://mail.bewustbodemgebruik.nl](https://mail.bewustbodemgebruik.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|This is the defa...|
 |[https://www.bewustbodemgebruik.nl](https://www.bewustbodemgebruik.nl)| | **E**|nginx| | | | | | | :white_check_mark: | :white_check_mark: | |Nginx SiteGround||
 |[https://ftp.bewustbodemgebruik.nl](https://ftp.bewustbodemgebruik.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|This is the defa...|
-|[https://ssh.bewustbodemgebruik.nl](https://ssh.bewustbodemgebruik.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|This is the defa...|
+|[http://ssh.bewustbodemgebruik.nl](http://ssh.bewustbodemgebruik.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx||
+|[https://autoconfig.bewustbodemgebruik.nl](https://autoconfig.bewustbodemgebruik.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|This is the defa...|
 |[https://autodiscover.bewustbodemgebruik.nl](https://autodiscover.bewustbodemgebruik.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|This is the defa...|
 |[http://localhost.bewustbodemgebruik.nl](http://localhost.bewustbodemgebruik.nl)| | **F**|nginx|:o: | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Laravel Nginx PHP|Weakpass|
 

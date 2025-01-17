@@ -5,14 +5,14 @@
 
 
  - **SSL Grade**:
- - **HTTP Security Grade**:C
+ - **HTTP Security Grade**:D
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:8
 
 
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/nationaalarchief.nl/subdomains.txt)|41|Alive subdomains|
-|[urls.txt](/data/nationaalarchief.nl/urls.txt)|40|Urls|
+|[urls.txt](/data/nationaalarchief.nl/urls.txt)|41|Urls|
 
 
 ## Statistics
@@ -60,5 +60,6 @@
 |[https://hub3.nationaalarchief.nl](https://hub3.nationaalarchief.nl)| | **A**|| |:white_check_mark: | :warning:| |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS|403 Forbidden|
 |[https://zvt.nationaalarchief.nl](https://zvt.nationaalarchief.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://gatekeeper.nationaalarchief.nl](https://gatekeeper.nationaalarchief.nl)| | **A**|| |:white_check_mark: | :warning:| | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Nationaal Archie...|
+|[https://id.test.nationaalarchief.nl](https://id.test.nationaalarchief.nl)| | **F**|gtranslate| | | | | | | | :white_check_mark: | |||
 
 

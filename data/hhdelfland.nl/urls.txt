@@ -30,3 +30,4 @@ https://geoappstest.hhdelfland.nl
 https://enterpriseenrollment.hhdelfland.nl
 https://enterpriseregistration.hhdelfland.nl
 https://passwordreset.hhdelfland.nl
+https://kennisbank.hhdelfland.nl
