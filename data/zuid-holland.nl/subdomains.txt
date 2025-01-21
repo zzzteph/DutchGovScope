@@ -75,3 +75,4 @@ img.openstad.zuid-holland.nl
 api.openstad.zuid-holland.nl
 lta-acc.zuid-holland.nl
 lta-tst.zuid-holland.nl
+geo-stats.zuid-holland.nl

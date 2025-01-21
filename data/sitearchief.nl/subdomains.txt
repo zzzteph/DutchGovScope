@@ -119,7 +119,6 @@ dopingautoriteit.sitearchief.nl
 politieacademie.sitearchief.nl
 diensttoeslagen.sitearchief.nl
 nationaleombudsman.sitearchief.nl
-minbuza.sitearchief.nl
 awti.sitearchief.nl
 dienstuitvoeringonderwijs.sitearchief.nl
 staatsbosbeheer.sitearchief.nl

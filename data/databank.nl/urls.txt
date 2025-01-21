@@ -113,13 +113,13 @@ https://www.seer.databank.nl
 https://www.amsterdam.rosopen.databank.nl
 https://beta-arbeidsmarktmobiliteit.databank.nl
 https://beta2-arbeidsmarktmobiliteit.databank.nl
+https://beta-aisnbtc.databank.nl
 https://beta-veiligheidsmonitor.databank.nl
 https://beta-cbc.databank.nl
 https://beta-icontrol.databank.nl
 https://cname-vakantieonderzoek-nbtc.databank.nl
 https://beta-energiecijfers.databank.nl
 https://beta-waves.databank.nl
-http://demo-primosinteractief.databank.nl
 https://beta-duurzamemobiliteit.databank.nl
 https://prognosemodelzw2022.databank.nl
 https://test-zag.databank.nl
@@ -146,6 +146,7 @@ https://duurzamemobiliteit.databank.nl
 https://wonenmetzorg.databank.nl
 https://beta-berst.databank.nl
 https://ggddemo.databank.nl
+https://beta-beslotenwaves.databank.nl
 https://wmm-services.databank.nl
 https://www.klimaatmnitor.databank.nl
 https://www.inspectie-oe.databank.nl

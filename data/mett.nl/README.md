@@ -6,13 +6,13 @@
 
  - **SSL Grade**:
  - **HTTP Security Grade**:E
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:5
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:6
 
 
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/mett.nl/subdomains.txt)|209|Alive subdomains|
-|[urls.txt](/data/mett.nl/urls.txt)|200|Urls|
+|[urls.txt](/data/mett.nl/urls.txt)|202|Urls|
 
 
 ## Statistics
@@ -154,7 +154,7 @@
 |[https://m3test.mett.nl](https://m3test.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Object moved|
 |[https://reswestoverijssel.mett.nl](https://reswestoverijssel.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Object moved|
 |[https://nestedcomments.mett.nl](https://nestedcomments.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
-|[https://testmij.mett.nl](https://testmij.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Probleem aangetr...|
+|[https://testmij.mett.nl](https://testmij.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Object moved|
 |[https://nkoo.mett.nl](https://nkoo.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Object moved|
 |[https://leernetwerk.mett.nl](https://leernetwerk.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Object moved|
 |[https://timpaan.mett.nl](https://timpaan.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS|Object moved|
@@ -178,6 +178,7 @@
 |[https://cookiebeleid.mett.nl](https://cookiebeleid.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Object moved|
 |[https://demoparticipatie.mett.nl](https://demoparticipatie.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Object moved|
 |[https://joske.mett.nl](https://joske.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Object moved|
+|[https://fagoed.mett.nl](https://fagoed.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Object moved|
 |[https://test-login.mett.nl](https://test-login.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS|Object moved|
 |[http://krinkelsinbeheerenonderhoud.mett.nl](http://krinkelsinbeheerenonderhoud.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://samen14.mett.nl](https://samen14.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Object moved|
@@ -187,9 +188,10 @@
 |[https://drontenikpraatmee.mett.nl](https://drontenikpraatmee.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Object moved|
 |[https://mirta2deilvught.mett.nl](https://mirta2deilvught.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Object moved|
 |[https://samenshertogenbosch.mett.nl](https://samenshertogenbosch.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET hCaptcha|Object moved|
+|[https://rene.mett.nl](https://rene.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft ASP.NET|Object moved|
 |[https://kcs.mett.nl](https://kcs.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS|Object moved|
 |[https://security.mett.nl](https://security.mett.nl)| | **A**||:white_check_mark: |:white_check_mark: | :warning:| |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
-|[https://status.mett.nl](https://status.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | |Atlassian Statuspage Fastly HSTS|Page Redirection|
+|[https://status.mett.nl](https://status.mett.nl)| | **B**|| |:white_check_mark: | :warning:| | | | :white_check_mark: | :white_check_mark: | |Azure Azure Front Door||
 |[https://rudlimburgnoord.mett.nl](https://rudlimburgnoord.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET YouTube|Object moved|
 |[https://rotterdama16.mett.nl](https://rotterdama16.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET YouTube|Object moved|
 |[https://duurzaamwinterswijk.mett.nl](https://duurzaamwinterswijk.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Object moved|
@@ -199,10 +201,10 @@
 |[https://samenbernheze.mett.nl](https://samenbernheze.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Object moved|
 |[https://meanderomnium.mett.nl](https://meanderomnium.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Object moved|
 |[https://locov.mett.nl](https://locov.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET SDL Tridion|Object moved|
-|[http://park.mett.nl](http://park.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET||
-|[http://vrijwilligerscentralezeist.mett.nl](http://vrijwilligerscentralezeist.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET YouTube||
-|[http://energiehout.mett.nl](http://energiehout.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET||
-|[http://innova58.mett.nl](http://innova58.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET||
+|[https://park.mett.nl](https://park.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Object moved|
+|[https://vrijwilligerscentralezeist.mett.nl](https://vrijwilligerscentralezeist.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET YouTube|Object moved|
+|[https://energiehout.mett.nl](https://energiehout.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Object moved|
+|[https://innova58.mett.nl](https://innova58.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Object moved|
 |[https://landbouwenvoedselbrabant.mett.nl](https://landbouwenvoedselbrabant.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Object moved|
 |[https://verkeersveiligheidscampagnes.mett.nl](https://verkeersveiligheidscampagnes.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Object moved|
 |[https://hoekschewaard.mett.nl](https://hoekschewaard.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Object moved|
@@ -217,7 +219,7 @@
 |[https://sociaaldomeinnoordholland.mett.nl](https://sociaaldomeinnoordholland.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Object moved|
 |[https://restwente.mett.nl](https://restwente.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Object moved|
 |[https://linnean.mett.nl](https://linnean.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Object moved|
-|[http://innovatiefwerkgeverschap.mett.nl](http://innovatiefwerkgeverschap.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
+|[https://innovatiefwerkgeverschap.mett.nl](https://innovatiefwerkgeverschap.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Object moved|
 |[https://pom.mett.nl](https://pom.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Object moved|
 |[https://websiterudzuidlimburg.mett.nl](https://websiterudzuidlimburg.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Object moved|
 

@@ -33,6 +33,7 @@ https://fibb1.belastingdienst.nl
 https://fibe1.belastingdienst.nl
 https://fibi1.belastingdienst.nl
 https://fibz1.belastingdienst.nl
+https://filetransfer.belastingdienst.nl
 https://filetransfer.ont.belastingdienst.nl
 https://fmis.acc.belastingdienst.nl
 https://fmis.belastingdienst.nl
@@ -85,7 +86,6 @@ https://scheiden.belastingdienst.nl
 https://services.belastingdienst.nl
 http://sharepoint-ext.belastingdienst.nl
 https://sorry.belastingdienst.nl
-https://stubs.tst.belastingdienst.nl
 https://toestemming-acc.belastingdienst.nl
 https://toestemming-tst.belastingdienst.nl
 https://toestemming.belastingdienst.nl

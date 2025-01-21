@@ -90,3 +90,4 @@ shared-services.staging.ndw.nu
 security.staging.ndw.nu
 stats.staging.ndw.nu
 verkeersveiligheid.ndw.nu
+reistijdtrajecten.ndw.nu

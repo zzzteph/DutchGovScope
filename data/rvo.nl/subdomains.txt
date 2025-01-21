@@ -127,4 +127,5 @@ www.kennisdelen.rvo.nl
 www.offshorewind.rvo.nl
 www.sharingknowledge.rvo.nl
 english-test.rvo.nl
+auth-iam.mijnoctrooi.mypage.rvo.nl
 iam.mijnoctrooi.mypage.rvo.nl

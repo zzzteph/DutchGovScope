@@ -11,8 +11,8 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/zwemwater.nl/subdomains.txt)|49|Alive subdomains|
-|[urls.txt](/data/zwemwater.nl/urls.txt)|46|Urls|
+|[subdomains.txt](/data/zwemwater.nl/subdomains.txt)|76|Alive subdomains|
+|[urls.txt](/data/zwemwater.nl/urls.txt)|49|Urls|
 
 
 ## Statistics
@@ -66,5 +66,8 @@
 |[https://assurances.zwemwater.nl](https://assurances.zwemwater.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
 |[https://opg.zwemwater.nl](https://opg.zwemwater.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
 |[https://easyhome.zwemwater.nl](https://easyhome.zwemwater.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
+|[https://ingest.zwemwater.nl](https://ingest.zwemwater.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
+|[https://sts4.zwemwater.nl](https://sts4.zwemwater.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
+|[https://q17.zwemwater.nl](https://q17.zwemwater.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
 
 

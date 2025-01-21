@@ -6,7 +6,7 @@
 
  - **SSL Grade**:
  - **HTTP Security Grade**:B
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:71
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:72
 
 
 | File       | Count | Info |
@@ -112,7 +112,7 @@
 |[http://datasync.irealisatie.nl](http://datasync.irealisatie.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://vad.test.mgo.irealisatie.nl](https://vad.test.mgo.irealisatie.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS||
 |[https://acme2.proeftuin.uzi-online.irealisatie.nl](https://acme2.proeftuin.uzi-online.irealisatie.nl)| | **A**|Apache| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS||
-|[http://dva-mock.test.mgo.irealisatie.nl](http://dva-mock.test.mgo.irealisatie.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
+|[https://dva-mock.test.mgo.irealisatie.nl](https://dva-mock.test.mgo.irealisatie.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |Basic HSTS|401 Unauthorized|
 |[https://stats.proeftuin.gf.irealisatie.nl](https://stats.proeftuin.gf.irealisatie.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server Basic HSTS|401 Unauthorized|
 
 

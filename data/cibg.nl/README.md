@@ -11,7 +11,7 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/cibg.nl/subdomains.txt)|56|Alive subdomains|
+|[subdomains.txt](/data/cibg.nl/subdomains.txt)|57|Alive subdomains|
 |[urls.txt](/data/cibg.nl/urls.txt)|55|Urls|
 
 

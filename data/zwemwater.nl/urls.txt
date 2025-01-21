@@ -44,3 +44,6 @@ https://iswww.zwemwater.nl
 https://assurances.zwemwater.nl
 https://opg.zwemwater.nl
 https://easyhome.zwemwater.nl
+https://ingest.zwemwater.nl
+https://sts4.zwemwater.nl
+https://q17.zwemwater.nl

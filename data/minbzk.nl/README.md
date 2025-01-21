@@ -5,14 +5,14 @@
 
 
  - **SSL Grade**:
- - **HTTP Security Grade**:C
+ - **HTTP Security Grade**:D
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:4
 
 
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/minbzk.nl/subdomains.txt)|12|Alive subdomains|
-|[urls.txt](/data/minbzk.nl/urls.txt)|11|Urls|
+|[urls.txt](/data/minbzk.nl/urls.txt)|12|Urls|
 
 
 ## Statistics
@@ -30,6 +30,7 @@
 |[https://prisma.minbzk.nl](https://prisma.minbzk.nl)| | **C**|Apache|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS Varnish:6.6||
 |[https://wikixl-saml.minbzk.nl](https://wikixl-saml.minbzk.nl)| | **B**|Apache| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS|Redirect|
 |[https://rbl-talent.minbzk.nl](https://rbl-talent.minbzk.nl)| | **C**|Class|:white_check_mark: |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | |HSTS||
+|[https://gip.minbzk.nl](https://gip.minbzk.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://gip-a.minbzk.nl](https://gip-a.minbzk.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 
 

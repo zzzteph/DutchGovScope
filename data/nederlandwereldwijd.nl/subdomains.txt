@@ -9,3 +9,4 @@ preview.nederlandwereldwijd.nl
 www.nederlandwereldwijd.nl
 a-informatieservice.nederlandwereldwijd.nl
 dev.opendata.nederlandwereldwijd.nl
+dev.informatieservice.nederlandwereldwijd.nl

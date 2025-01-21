@@ -1,3 +1,4 @@
 acceptatie.zorgcsp.nl
 zorgcsp.nl
 www.zorgcsp.nl
+ldap.zorgcsp.nl

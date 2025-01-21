@@ -33,6 +33,7 @@ fibb1.belastingdienst.nl
 fibe1.belastingdienst.nl
 fibi1.belastingdienst.nl
 fibz1.belastingdienst.nl
+filetransfer.belastingdienst.nl
 filetransfer.ont.belastingdienst.nl
 fmis.acc.belastingdienst.nl
 fmis.belastingdienst.nl
@@ -85,7 +86,6 @@ scheiden.belastingdienst.nl
 services.belastingdienst.nl
 sharepoint-ext.belastingdienst.nl
 sorry.belastingdienst.nl
-stubs.tst.belastingdienst.nl
 toestemming-acc.belastingdienst.nl
 toestemming-tst.belastingdienst.nl
 toestemming.belastingdienst.nl

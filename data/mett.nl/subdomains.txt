@@ -118,10 +118,6 @@ flevolandwerkt.mett.nl
 ertmsnl.mett.nl
 startandgo.mett.nl
 academy.mett.nl
-d66.mett.nl
-afvalmeerwaard.mett.nl
-denieuweregio.mett.nl
-zoeterwoude.mett.nl
 nlzve.mett.nl
 kersenweideodijk.mett.nl
 blueskygroup.mett.nl
@@ -160,6 +156,7 @@ coordinatiegelderland.mett.nl
 cookiebeleid.mett.nl
 demoparticipatie.mett.nl
 joske.mett.nl
+fagoed.mett.nl
 test-login.mett.nl
 krinkelsinbeheerenonderhoud.mett.nl
 samen14.mett.nl
@@ -169,6 +166,7 @@ udi.mett.nl
 drontenikpraatmee.mett.nl
 mirta2deilvught.mett.nl
 samenshertogenbosch.mett.nl
+rene.mett.nl
 kcs.mett.nl
 security.mett.nl
 status.mett.nl
@@ -207,3 +205,5 @@ icovet.mett.nl
 jos.mett.nl
 studioovu.mett.nl
 samenmetwetterskip.mett.nl
+move-rdh.mett.nl
+safebydesign.mett.nl

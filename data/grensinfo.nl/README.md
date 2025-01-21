@@ -22,6 +22,6 @@
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[https://grensinfo.nl](https://grensinfo.nl)| | **A**||:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://www.grensinfo.nl](https://www.grensinfo.nl)| | **A**||:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
-|[https://azure-a-poc.grensinfo.nl](https://azure-a-poc.grensinfo.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||
+|[https://azure-a-poc.grensinfo.nl](https://azure-a-poc.grensinfo.nl)| | **F**|Microsoft-Azure-Application-Gateway/v2| | | | | | | | :white_check_mark: | |HSTS|502 Bad Gateway|
 
 

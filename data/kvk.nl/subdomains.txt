@@ -54,4 +54,5 @@ werkenbij.kvk.nl
 www3.kvk.nl
 zoeken.kvk.nl
 payt.kvk.nl
+opendata.kvk.nl
 facturen.kvk.nl

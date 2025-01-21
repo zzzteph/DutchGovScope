@@ -330,6 +330,6 @@
 |[http://ref.omgevingswet.overheid.nl](http://ref.omgevingswet.overheid.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://repository-preprod.overheid.nl](https://repository-preprod.overheid.nl)| | **A**|| |:white_check_mark: | :warning:| | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://lvbb-lto.overheid.nl](https://lvbb-lto.overheid.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx||
-|[http://developer.omgevingswet.overheid.nl](http://developer.omgevingswet.overheid.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Microsoft ASP.NET:-|Object moved|
+|[https://developer.omgevingswet.overheid.nl](https://developer.omgevingswet.overheid.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:-|Object moved|
 
 

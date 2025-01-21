@@ -1,4 +1,5 @@
 commissiemijnbouwschade.nl
 feeds.commissiemijnbouwschade.nl
 opendata.commissiemijnbouwschade.nl
+mijnloket.commissiemijnbouwschade.nl
 www.commissiemijnbouwschade.nl

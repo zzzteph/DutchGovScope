@@ -69,6 +69,7 @@ tags: dutchgov
 |[https://fibe1.belastingdienst.nl](https://fibe1.belastingdienst.nl)| | **C**|| | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | ||Request Rejected|
 |[https://fibi1.belastingdienst.nl](https://fibi1.belastingdienst.nl)| | **C**|| | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | ||Request Rejected|
 |[https://fibz1.belastingdienst.nl](https://fibz1.belastingdienst.nl)| | **C**|| | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | ||Request Rejected|
+|[https://filetransfer.belastingdienst.nl](https://filetransfer.belastingdienst.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|302 Found|
 |[https://filetransfer.ont.belastingdienst.nl](https://filetransfer.ont.belastingdienst.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|302 Found|
 |[https://fmis.acc.belastingdienst.nl](https://fmis.acc.belastingdienst.nl)| | **C**|| | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | ||Toegang geblokke...|
 |[https://fmis.belastingdienst.nl](https://fmis.belastingdienst.nl)| | **C**|| | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | ||Toegang geblokke...|
@@ -121,7 +122,6 @@ tags: dutchgov
 |[https://services.belastingdienst.nl](https://services.belastingdienst.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS MySQL PHP WordPress Yoast SEO Premium:23.9 Yoast SEO:23.9|Direct naar | Se...|
 |[http://sharepoint-ext.belastingdienst.nl](http://sharepoint-ext.belastingdienst.nl)| | **F**|BigIP| | | | | | | | :white_check_mark: | |F5 BigIP||
 |[https://sorry.belastingdienst.nl](https://sorry.belastingdienst.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | | :white_check_mark: | :white_check_mark: | |HSTS||
-|[https://stubs.tst.belastingdienst.nl](https://stubs.tst.belastingdienst.nl)| | **E**|| | | | | | | | :white_check_mark: | ||403 - Forbidden:...|
 |[https://toestemming-acc.belastingdienst.nl](https://toestemming-acc.belastingdienst.nl)| | **B**|| | | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | ||Toestemming - Be...|
 |[https://toestemming-tst.belastingdienst.nl](https://toestemming-tst.belastingdienst.nl)| | **B**|| | | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | ||Toestemming - Be...|
 |[https://toestemming.belastingdienst.nl](https://toestemming.belastingdienst.nl)| | **C**|| | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Microsoft ASP.NET|Toestemming - Be...|

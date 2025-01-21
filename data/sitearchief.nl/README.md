@@ -6,13 +6,13 @@
 
  - **SSL Grade**:
  - **HTTP Security Grade**:A
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:91
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:90
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/sitearchief.nl/subdomains.txt)|126|Alive subdomains|
-|[urls.txt](/data/sitearchief.nl/urls.txt)|126|Urls|
+|[subdomains.txt](/data/sitearchief.nl/subdomains.txt)|125|Alive subdomains|
+|[urls.txt](/data/sitearchief.nl/urls.txt)|125|Urls|
 
 
 ## Statistics
@@ -141,7 +141,6 @@
 |[https://politieacademie.sitearchief.nl](https://politieacademie.sitearchief.nl)| | **A**|nginx|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx|Sitearchief - Po...|
 |[https://diensttoeslagen.sitearchief.nl](https://diensttoeslagen.sitearchief.nl)| | **A**|nginx|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx|Sitearchief - Di...|
 |[https://nationaleombudsman.sitearchief.nl](https://nationaleombudsman.sitearchief.nl)| | **A**|nginx|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx|Sitearchief - Na...|
-|[https://minbuza.sitearchief.nl](https://minbuza.sitearchief.nl)| | **A**|nginx|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx|Sitearchief - Mi...|
 |[https://awti.sitearchief.nl](https://awti.sitearchief.nl)| | **A**|nginx|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx|Sitearchief - AW...|
 |[https://dienstuitvoeringonderwijs.sitearchief.nl](https://dienstuitvoeringonderwijs.sitearchief.nl)| | **A**|nginx|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx|Sitearchief - Di...|
 |[https://staatsbosbeheer.sitearchief.nl](https://staatsbosbeheer.sitearchief.nl)| | **A**|nginx|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nginx|Sitearchief - St...|
