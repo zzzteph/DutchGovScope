@@ -5,6 +5,7 @@ test-nieuw.biedboek.nl
 productie-nieuw.biedboek.nl
 deployment.biedboek.nl
 share.biedboek.nl
+share.test-nieuw.biedboek.nl
 autodiscover.biedboek.nl
 enterpriseregistration.biedboek.nl
 localhost.biedboek.nl

@@ -148,6 +148,7 @@ lokaleregelgeving-acc.overheid.nl
 lvbb-tst.overheid.nl
 wetgevingskalender.overheid.nl
 data.overheid.nl
+designsystem.overheid.nl
 linkextractor.overheid.nl
 lokaleregelgeving.overheid.nl
 organisaties.overheid.nl
@@ -198,7 +199,6 @@ doculoket.overheid.nl
 standaarden.overheid.nl
 decentraleregelgeving.overheid.nl
 demo.mijn.overheid.nl
-stub.demo.mijn.overheid.nl
 digilab.overheid.nl
 drop-api.overheid.nl
 oproepingen.overheid.nl
@@ -292,8 +292,8 @@ oproepingen-preprd.overheid.nl
 drop-api-preprd.overheid.nl
 mnd-preprd.overheid.nl
 oproepingen-api-preprd-poc.overheid.nl
-demo1-systemteam.overheid.nl
 digid-stub.lpc.mijn.overheid.nl
+ondersteuning.omgevingswet.overheid.nl
 pdc.pre.omgevingswet.overheid.nl
 pp2.toegang.overheid.nl
 resolver.int.omgevingswet.overheid.nl

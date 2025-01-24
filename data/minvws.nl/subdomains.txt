@@ -1,4 +1,3 @@
-english.minvws.nl
 login-uzi.pilot.uzi-online.minvws.nl
 login.pilot.uzi-online.minvws.nl
 pilot.uzi-online.minvws.nl

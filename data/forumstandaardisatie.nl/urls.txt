@@ -1,6 +1,2 @@
-https://forumstandaardisatie.nl
-https://magazine.forumstandaardisatie.nl
-https://prod-dictu.forumstandaardisatie.nl
-https://www.forumstandaardisatie.nl
 https://acc-dictu.forumstandaardisatie.nl
 https://test-dictu.forumstandaardisatie.nl

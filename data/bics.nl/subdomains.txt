@@ -10,3 +10,4 @@ nlrdms.bics.nl
 bicsweb1.bics.nl
 bicsweb3.bics.nl
 acc.bics.nl
+rws-bic-p01.bics.nl

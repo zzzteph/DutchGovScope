@@ -24,3 +24,4 @@ survey.pbl.nl
 webmail.pbl.nl
 mail.pbl.nl
 msoid.pbl.nl
+connect.pbl.nl

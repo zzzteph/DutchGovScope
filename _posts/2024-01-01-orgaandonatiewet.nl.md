@@ -2,11 +2,11 @@
 layout: default
 title: "orgaandonatiewet.nl"
 permalink: "/dutchgov/orgaandonatiewet.nl.html"
-subdomains_count: 2
-urls_count: 2
+subdomains_count: 0
+urls_count: 0
 ssl_rank: 
-http_rank: A
-security_txt: 2
+http_rank: F
+security_txt: 0
 url_link: /data/orgaandonatiewet.nl/urls.txt
 subdomains_link: /data/orgaandonatiewet.nl/subdomains.txt
 categories: dutchgov
@@ -19,14 +19,14 @@ tags: dutchgov
 
 
  - **SSL Grade**:
- - **HTTP Security Grade**:A
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:2
+ - **HTTP Security Grade**:F
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:0
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/orgaandonatiewet.nl/subdomains.txt)|2|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/orgaandonatiewet.nl/urls.txt)|2|Urls|
+|[subdomains.txt](/DutchGovScope/data/orgaandonatiewet.nl/subdomains.txt)|0|Alive subdomains|
+|[urls.txt](/DutchGovScope/data/orgaandonatiewet.nl/urls.txt)|0|Urls|
 
 
 ## Statistics
@@ -34,7 +34,5 @@ tags: dutchgov
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://orgaandonatiewet.nl](https://orgaandonatiewet.nl)| | **A**|Microsoft-IIS/10.0| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS IIS:10.0 Windows Server|Document Moved|
-|[https://www.orgaandonatiewet.nl](https://www.orgaandonatiewet.nl)| | **A**|Microsoft-IIS/10.0| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS IIS:10.0 Windows Server|Document Moved|
 
 

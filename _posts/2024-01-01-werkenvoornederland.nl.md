@@ -2,11 +2,11 @@
 layout: default
 title: "werkenvoornederland.nl"
 permalink: "/dutchgov/werkenvoornederland.nl.html"
-subdomains_count: 20
-urls_count: 20
+subdomains_count: 19
+urls_count: 19
 ssl_rank: 
 http_rank: B
-security_txt: 14
+security_txt: 13
 url_link: /data/werkenvoornederland.nl/urls.txt
 subdomains_link: /data/werkenvoornederland.nl/subdomains.txt
 categories: dutchgov
@@ -20,13 +20,13 @@ tags: dutchgov
 
  - **SSL Grade**:
  - **HTTP Security Grade**:B
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:14
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:13
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/werkenvoornederland.nl/subdomains.txt)|20|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/werkenvoornederland.nl/urls.txt)|20|Urls|
+|[subdomains.txt](/DutchGovScope/data/werkenvoornederland.nl/subdomains.txt)|19|Alive subdomains|
+|[urls.txt](/DutchGovScope/data/werkenvoornederland.nl/urls.txt)|19|Urls|
 
 
 ## Statistics
@@ -40,7 +40,6 @@ tags: dutchgov
 |[https://www.werkenvoornederland.nl](https://www.werkenvoornederland.nl)| | **B**|cloudflare|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach Cloudflare Google Tag Manager HSTS|Ons land in jouw...|
 |[https://financials.werkenvoornederland.nl](https://financials.werkenvoornederland.nl)| | **A**||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|301 Moved Perman...|
 |[https://formulier.werkenvoornederland.nl](https://formulier.werkenvoornederland.nl)| | **C**|Spotler| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
-|[http://helpdesk.werkenvoornederland.nl](http://helpdesk.werkenvoornederland.nl)| | **A**||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |||
 |[http://icters.werkenvoornederland.nl](http://icters.werkenvoornederland.nl)| | **A**||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |||
 |[http://juristen.werkenvoornederland.nl](http://juristen.werkenvoornederland.nl)| | **A**||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |||
 |[http://rijkstrainee.werkenvoornederland.nl](http://rijkstrainee.werkenvoornederland.nl)| | **A**||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |||

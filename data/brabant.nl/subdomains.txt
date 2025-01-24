@@ -19,6 +19,7 @@ ondertekenen.brabant.nl
 ondertekenentst.brabant.nl
 connect-with.brabant.nl
 corsa2023.brabant.nl
+dataportaal.brabant.nl
 esb-p1.brabant.nl
 geoportaal-acceptatie.brabant.nl
 geoportaal.brabant.nl

@@ -1,6 +1,5 @@
 adfs.vallei-veluwe.nl
 autodiscover.vallei-veluwe.nl
-redactie.vallei-veluwe.nl
 vallei-veluwe.nl
 www.vallei-veluwe.nl
 nc-openbaar.vallei-veluwe.nl

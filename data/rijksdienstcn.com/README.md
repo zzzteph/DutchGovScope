@@ -11,8 +11,8 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/rijksdienstcn.com/subdomains.txt)|16|Alive subdomains|
-|[urls.txt](/data/rijksdienstcn.com/urls.txt)|16|Urls|
+|[subdomains.txt](/data/rijksdienstcn.com/subdomains.txt)|15|Alive subdomains|
+|[urls.txt](/data/rijksdienstcn.com/urls.txt)|15|Urls|
 
 
 ## Statistics
@@ -32,7 +32,6 @@
 |[https://www.rijksdienstcn.com](https://www.rijksdienstcn.com)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Home | Rijksdien...|
 |[https://fileshare.rijksdienstcn.com](https://fileshare.rijksdienstcn.com)| | **F**|CerberusFTPServer/2024| | | | | | | | :white_check_mark: | ||302 Redirected|
 |[https://fs.rijksdienstcn.com](https://fs.rijksdienstcn.com)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
-|[https://passwordreset.rijksdienstcn.com](https://passwordreset.rijksdienstcn.com)| | **F**|Microsoft-IIS/10.0| | | | | | | | :white_check_mark: | |HSTS IIS:10.0 Microsoft ASP.NET Windows Server|SSRPM Web Interf...|
 |[https://portal.rijksdienstcn.com](https://portal.rijksdienstcn.com)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||
 |[https://sso.rijksdienstcn.com](https://sso.rijksdienstcn.com)| | **D**||:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |||
 |[https://vpnbon.rijksdienstcn.com](https://vpnbon.rijksdienstcn.com)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||

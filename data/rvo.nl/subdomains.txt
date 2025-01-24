@@ -19,8 +19,6 @@ test-website.rvo.nl
 acc-cms.rvo.nl
 acc-english.rvo.nl
 acc-webform.rvo.nl
-achilles-acc.rvo.nl
-trade-acc.rvo.nl
 achilles.rvo.nl
 projects.rvo.nl
 wetten.rvo.nl
@@ -78,7 +76,6 @@ gtpa-acc.rvo.nl
 gtpa.rvo.nl
 infographics.rvo.nl
 www.infographics.rvo.nl
-intra-acc.rvo.nl
 intra-cms-acc.rvo.nl
 intra-cms.rvo.nl
 intra.rvo.nl
@@ -88,6 +85,7 @@ kgr.mijn.rvo.nl
 mc-upnl.mijn.rvo.nl
 mijn.rvo.nl
 www.mijn.rvo.nl
+mijnoctrooi.mypage.rvo.nl
 mijnoctrooi.rvo.nl
 nieuws.rvo.nl
 prizmo-web.rvo.nl

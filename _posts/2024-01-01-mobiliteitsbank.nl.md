@@ -2,10 +2,10 @@
 layout: default
 title: "mobiliteitsbank.nl"
 permalink: "/dutchgov/mobiliteitsbank.nl.html"
-subdomains_count: 11
-urls_count: 11
+subdomains_count: 10
+urls_count: 10
 ssl_rank: 
-http_rank: C
+http_rank: B
 security_txt: 6
 url_link: /data/mobiliteitsbank.nl/urls.txt
 subdomains_link: /data/mobiliteitsbank.nl/subdomains.txt
@@ -19,14 +19,14 @@ tags: dutchgov
 
 
  - **SSL Grade**:
- - **HTTP Security Grade**:C
+ - **HTTP Security Grade**:B
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:6
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/mobiliteitsbank.nl/subdomains.txt)|11|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/mobiliteitsbank.nl/urls.txt)|11|Urls|
+|[subdomains.txt](/DutchGovScope/data/mobiliteitsbank.nl/subdomains.txt)|10|Alive subdomains|
+|[urls.txt](/DutchGovScope/data/mobiliteitsbank.nl/urls.txt)|10|Urls|
 
 
 ## Statistics
@@ -43,7 +43,6 @@ tags: dutchgov
 |[https://odc.mobiliteitsbank.nl](https://odc.mobiliteitsbank.nl)| | **A**||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |||
 |[https://test.mobiliteitsbank.nl](https://test.mobiliteitsbank.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Basic HSTS||
 |[https://vacaturezoekservice.mobiliteitsbank.nl](https://vacaturezoekservice.mobiliteitsbank.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
-|[https://vacaturezoekservice-acceptatie.mobiliteitsbank.nl](https://vacaturezoekservice-acceptatie.mobiliteitsbank.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[http://vacaturezoekservice-test.mobiliteitsbank.nl](http://vacaturezoekservice-test.mobiliteitsbank.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 
 

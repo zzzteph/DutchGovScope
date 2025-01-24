@@ -131,3 +131,4 @@ https://tz-aanvragen-acc.dnb.nl
 https://dlo-acc.dnb.nl
 https://designsystem.dnb.nl
 https://firehose.dnb.nl
+https://rmdm-beheerapp.azure.dnb.nl

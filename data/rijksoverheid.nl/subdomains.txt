@@ -13,7 +13,6 @@ static.rijksoverheid.nl
 www.rijksoverheid.nl
 feeds.rijksoverheid.nl
 informatiepuntkinderopvangtoeslag.rijksoverheid.nl
-redir.rijksoverheid.nl
 sdg.rijksoverheid.nl
 statistiek.rijksoverheid.nl
 e-mailabonnementen.rijksoverheid.nl

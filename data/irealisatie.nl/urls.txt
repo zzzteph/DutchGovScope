@@ -89,6 +89,6 @@ https://ccc.acc.irealisatie.nl
 http://test.dusi.irealisatie.nl
 http://datasync.irealisatie.nl
 https://vad.test.mgo.irealisatie.nl
-https://acme2.proeftuin.uzi-online.irealisatie.nl
+http://acme2.proeftuin.uzi-online.irealisatie.nl
 https://dva-mock.test.mgo.irealisatie.nl
 https://stats.proeftuin.gf.irealisatie.nl

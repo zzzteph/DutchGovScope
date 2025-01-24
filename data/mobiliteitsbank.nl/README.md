@@ -5,14 +5,14 @@
 
 
  - **SSL Grade**:
- - **HTTP Security Grade**:C
+ - **HTTP Security Grade**:B
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:6
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/mobiliteitsbank.nl/subdomains.txt)|11|Alive subdomains|
-|[urls.txt](/data/mobiliteitsbank.nl/urls.txt)|11|Urls|
+|[subdomains.txt](/data/mobiliteitsbank.nl/subdomains.txt)|10|Alive subdomains|
+|[urls.txt](/data/mobiliteitsbank.nl/urls.txt)|10|Urls|
 
 
 ## Statistics
@@ -29,7 +29,6 @@
 |[https://odc.mobiliteitsbank.nl](https://odc.mobiliteitsbank.nl)| | **A**||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |||
 |[https://test.mobiliteitsbank.nl](https://test.mobiliteitsbank.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Basic HSTS||
 |[https://vacaturezoekservice.mobiliteitsbank.nl](https://vacaturezoekservice.mobiliteitsbank.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
-|[https://vacaturezoekservice-acceptatie.mobiliteitsbank.nl](https://vacaturezoekservice-acceptatie.mobiliteitsbank.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[http://vacaturezoekservice-test.mobiliteitsbank.nl](http://vacaturezoekservice-test.mobiliteitsbank.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 
 

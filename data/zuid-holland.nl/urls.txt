@@ -55,7 +55,6 @@ https://werkenvoor.zuid-holland.nl
 https://zaaksysteem-accept.zuid-holland.nl
 https://zaaksysteem.zuid-holland.nl
 https://beeldarchief.zuid-holland.nl
-https://belastingen.zuid-holland.nl
 https://denkmeemet.zuid-holland.nl
 https://windlansingerland.zuid-holland.nl
 https://www.windlansingerland.zuid-holland.nl

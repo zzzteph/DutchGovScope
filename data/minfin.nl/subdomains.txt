@@ -1,8 +1,5 @@
-cks.minfin.nl
-english.minfin.nl
 mijnschatkist.minfin.nl
 rds.minfin.nl
 remote.minfin.nl
 www.minfin.nl
 minfin.nl
-ttw.minfin.nl

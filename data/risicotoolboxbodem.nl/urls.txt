@@ -5,3 +5,4 @@ https://test.risicotoolboxbodem.nl
 https://risicotoolboxbodem.nl
 https://www.risicotoolboxbodem.nl
 http://localhost.risicotoolboxbodem.nl
+https://portal.risicotoolboxbodem.nl

@@ -133,7 +133,6 @@ www.draaiboekhielprikscreening.rivm.nl
 drupal.rivm.nl
 duvo-web-api.rivm.nl
 dwo.rivm.nl
-esp-ext.rivm.nl
 ewrs-oud.rivm.nl
 expertrolesqsort.rivm.nl
 ezips-app.rivm.nl
@@ -190,7 +189,6 @@ ontw.api-samenmeten.rivm.nl
 osiris.rivm.nl
 participantapi.vragenlijst.rivm.nl
 paskaart.rivm.nl
-password-link.rivm.nl
 password.rivm.nl
 portie-online.rivm.nl
 www.portie-online.rivm.nl

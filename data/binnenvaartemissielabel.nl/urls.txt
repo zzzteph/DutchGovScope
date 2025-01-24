@@ -1,4 +1,3 @@
-https://api.binnenvaartemissielabel.nl
 https://app.binnenvaartemissielabel.nl
 https://binnenvaartemissielabel.nl
 https://www.binnenvaartemissielabel.nl

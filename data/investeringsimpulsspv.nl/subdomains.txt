@@ -1,4 +1,5 @@
 feeds.investeringsimpulsspv.nl
 opendata.investeringsimpulsspv.nl
+www.investeringsimpulsspv.nl
 investeringsimpulsspv.nl
 mail.investeringsimpulsspv.nl

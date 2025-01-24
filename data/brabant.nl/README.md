@@ -11,8 +11,8 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/brabant.nl/subdomains.txt)|86|Alive subdomains|
-|[urls.txt](/data/brabant.nl/urls.txt)|86|Urls|
+|[subdomains.txt](/data/brabant.nl/subdomains.txt)|87|Alive subdomains|
+|[urls.txt](/data/brabant.nl/urls.txt)|87|Urls|
 
 
 ## Statistics
@@ -41,6 +41,7 @@
 |[https://ondertekenentst.brabant.nl](https://ondertekenentst.brabant.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |HSTS Nginx||
 |[https://connect-with.brabant.nl](https://connect-with.brabant.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS Nginx|Document Moved|
 |[https://corsa2023.brabant.nl](https://corsa2023.brabant.nl)| | **F**|Microsoft-Azure-Application-Gateway/v2| | | | | | | | :white_check_mark: | ||404 Not Found|
+|[https://dataportaal.brabant.nl](https://dataportaal.brabant.nl)| | **F**|Microsoft-IIS/10.0| | | | | | | | :white_check_mark: | |Azure Bootstrap:4.3.1 HSTS IIS:10.0 Microsoft ASP.NET Windows Server|Dataportaal Brab...|
 |[https://esb-p1.brabant.nl](https://esb-p1.brabant.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
 |[https://geoportaal-acceptatie.brabant.nl](https://geoportaal-acceptatie.brabant.nl)| | **F**|Microsoft-IIS/10.0| | | | | | | | :white_check_mark: | |IIS:10.0 Windows Server|IIS Windows Serv...|
 |[https://geoportaal.brabant.nl](https://geoportaal.brabant.nl)| | **F**|Microsoft-IIS/10.0| | | | | | | | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server|IIS Windows Serv...|

@@ -11,8 +11,8 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/binnenvaartemissielabel.nl/subdomains.txt)|9|Alive subdomains|
-|[urls.txt](/data/binnenvaartemissielabel.nl/urls.txt)|9|Urls|
+|[subdomains.txt](/data/binnenvaartemissielabel.nl/subdomains.txt)|8|Alive subdomains|
+|[urls.txt](/data/binnenvaartemissielabel.nl/urls.txt)|8|Urls|
 
 
 ## Statistics
@@ -20,7 +20,6 @@
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://api.binnenvaartemissielabel.nl](https://api.binnenvaartemissielabel.nl)| | **F**|nginx/1.26.1| | | | | | | | :white_check_mark: | |Nginx:1.26.1|An Error Occurre...|
 |[https://app.binnenvaartemissielabel.nl](https://app.binnenvaartemissielabel.nl)| | **C**|nginx/1.26.1| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Nginx:1.26.1|Emissielabel|
 |[https://binnenvaartemissielabel.nl](https://binnenvaartemissielabel.nl)| | **B**|nginx| |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | |HSTS MySQL Nginx PHP:8.3.15 W3 Total Cache WordPress:6.7.1 Yoast SEO:24.2|Home - Binnenvaa...|
 |[https://www.binnenvaartemissielabel.nl](https://www.binnenvaartemissielabel.nl)| | **B**|nginx| |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | |Nginx|301 Moved Perman...|

@@ -6,13 +6,13 @@
 
  - **SSL Grade**:
  - **HTTP Security Grade**:D
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:29
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:30
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/trainingscatalogus.nl/subdomains.txt)|117|Alive subdomains|
-|[urls.txt](/data/trainingscatalogus.nl/urls.txt)|117|Urls|
+|[subdomains.txt](/data/trainingscatalogus.nl/subdomains.txt)|118|Alive subdomains|
+|[urls.txt](/data/trainingscatalogus.nl/urls.txt)|118|Urls|
 
 
 ## Statistics
@@ -52,6 +52,7 @@
 |[https://buzaleeromgeving-a.trainingscatalogus.nl](https://buzaleeromgeving-a.trainingscatalogus.nl)| | **F**|Microsoft-Azure-Application-Gateway/v2| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|502 Bad Gateway|
 |[https://cizleeromgeving-a.trainingscatalogus.nl](https://cizleeromgeving-a.trainingscatalogus.nl)| | **B**|Apache|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS Moodle PHP:8.1.31|Doorverwijspagin...|
 |[https://leeromgeving-delft.trainingscatalogus.nl](https://leeromgeving-delft.trainingscatalogus.nl)| | **B**|Apache|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS Moodle PHP:8.1.31|Doorverwijspagin...|
+|[https://lms-afm.trainingscatalogus.nl](https://lms-afm.trainingscatalogus.nl)| | **A**|Class|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Access is denied...|
 |[https://abdleeromgeving-a.trainingscatalogus.nl](https://abdleeromgeving-a.trainingscatalogus.nl)| | **A**|Apache|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS Moodle PHP|Doorverwijspagin...|
 |[https://apgrechtenbeheerenict.trainingscatalogus.nl](https://apgrechtenbeheerenict.trainingscatalogus.nl)| | **B**|Class|:white_check_mark: |:white_check_mark: | | |:warning: | | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://apgdi.trainingscatalogus.nl](https://apgdi.trainingscatalogus.nl)| | **F**|Microsoft-IIS/10.0| | | | | | | | :white_check_mark: | |IIS:10.0 Windows Server|Portaal offline|

@@ -10,7 +10,6 @@ rijksdienstcn.com
 www.rijksdienstcn.com
 fileshare.rijksdienstcn.com
 fs.rijksdienstcn.com
-passwordreset.rijksdienstcn.com
 portal.rijksdienstcn.com
 sso.rijksdienstcn.com
 vpnbon.rijksdienstcn.com

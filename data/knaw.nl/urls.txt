@@ -529,6 +529,8 @@ http://goetgevonden.huygens.knaw.nl
 https://backoffice.knaw.nl
 https://www.back2roots.nioo.knaw.nl
 https://gitlab.bioinf.nioo.knaw.nl
+https://vangogh-letters.dev.huc.knaw.nl
 https://ats-test.knaw.nl
 https://access.huc.knaw.nl
 https://portus-acc.knaw.nl
+https://nieuwsbrief.meertens.knaw.nl

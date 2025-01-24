@@ -11,8 +11,8 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/atgb.nl/subdomains.txt)|6|Alive subdomains|
-|[urls.txt](/data/atgb.nl/urls.txt)|6|Urls|
+|[subdomains.txt](/data/atgb.nl/subdomains.txt)|7|Alive subdomains|
+|[urls.txt](/data/atgb.nl/urls.txt)|7|Urls|
 
 
 ## Statistics
@@ -25,6 +25,7 @@
 |[http://autodiscover.atgb.nl](http://autodiscover.atgb.nl)| | **C**|Microsoft-IIS/10.0| |:white_check_mark: | | | | | | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server||
 |[https://enterpriseenrollment.atgb.nl](https://enterpriseenrollment.atgb.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||
 |[https://enterpriseregistration.atgb.nl](https://enterpriseregistration.atgb.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
+|[https://ftp.atgb.nl](https://ftp.atgb.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server||
 |[https://msoid.atgb.nl](https://msoid.atgb.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Object moved|
 
 

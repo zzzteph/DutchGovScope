@@ -5,14 +5,14 @@
 
 
  - **SSL Grade**:
- - **HTTP Security Grade**:B
+ - **HTTP Security Grade**:A
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:8
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/minvws.nl/subdomains.txt)|11|Alive subdomains|
-|[urls.txt](/data/minvws.nl/urls.txt)|11|Urls|
+|[subdomains.txt](/data/minvws.nl/subdomains.txt)|10|Alive subdomains|
+|[urls.txt](/data/minvws.nl/urls.txt)|10|Urls|
 
 
 ## Statistics
@@ -20,7 +20,6 @@
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://english.minvws.nl](https://english.minvws.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|403 Forbidden|
 |[http://login-uzi.pilot.uzi-online.minvws.nl](http://login-uzi.pilot.uzi-online.minvws.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://login.pilot.uzi-online.minvws.nl](https://login.pilot.uzi-online.minvws.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS||
 |[https://pilot.uzi-online.minvws.nl](https://pilot.uzi-online.minvws.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS||

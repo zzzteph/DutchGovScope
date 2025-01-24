@@ -19,7 +19,6 @@ connect.knmi.nl
 consultatie.knmi.nl
 daggegevens.knmi.nl
 www.daggegevens.knmi.nl
-dataplatform.knmi.nl
 data.knmi.nl
 datalab.knmi.nl
 developer.dataplatform.knmi.nl
@@ -58,4 +57,3 @@ testgeoservices.knmi.nl
 hapi.acc.spaceweather.knmi.nl
 hapi.spaceweather.knmi.nl
 cabauw.knmi.nl
-extrema.dev.spaceweather.knmi.nl

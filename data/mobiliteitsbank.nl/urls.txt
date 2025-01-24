@@ -7,5 +7,4 @@ https://api.mobiliteitsbank.nl
 https://odc.mobiliteitsbank.nl
 https://test.mobiliteitsbank.nl
 https://vacaturezoekservice.mobiliteitsbank.nl
-https://vacaturezoekservice-acceptatie.mobiliteitsbank.nl
 http://vacaturezoekservice-test.mobiliteitsbank.nl

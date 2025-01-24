@@ -6,13 +6,13 @@
 
  - **SSL Grade**:
  - **HTTP Security Grade**:A
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:11
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:12
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/registersocialehygiene.nl/subdomains.txt)|11|Alive subdomains|
-|[urls.txt](/data/registersocialehygiene.nl/urls.txt)|11|Urls|
+|[subdomains.txt](/data/registersocialehygiene.nl/subdomains.txt)|12|Alive subdomains|
+|[urls.txt](/data/registersocialehygiene.nl/urls.txt)|12|Urls|
 
 
 ## Statistics
@@ -22,6 +22,7 @@
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[https://acceptatie.behandel.registersocialehygiene.nl](https://acceptatie.behandel.registersocialehygiene.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS||
 |[https://acceptatie.zoeken.registersocialehygiene.nl](https://acceptatie.zoeken.registersocialehygiene.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS||
+|[https://behandel.registersocialehygiene.nl](https://behandel.registersocialehygiene.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://feeds.registersocialehygiene.nl](https://feeds.registersocialehygiene.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://opendata.registersocialehygiene.nl](https://opendata.registersocialehygiene.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://registersocialehygiene.nl](https://registersocialehygiene.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|

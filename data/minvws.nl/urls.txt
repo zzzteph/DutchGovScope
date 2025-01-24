@@ -1,4 +1,3 @@
-https://english.minvws.nl
 http://login-uzi.pilot.uzi-online.minvws.nl
 https://login.pilot.uzi-online.minvws.nl
 https://pilot.uzi-online.minvws.nl

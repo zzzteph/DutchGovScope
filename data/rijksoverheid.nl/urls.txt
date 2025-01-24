@@ -13,7 +13,6 @@ https://static.rijksoverheid.nl
 https://www.rijksoverheid.nl
 https://feeds.rijksoverheid.nl
 https://informatiepuntkinderopvangtoeslag.rijksoverheid.nl
-https://redir.rijksoverheid.nl
 https://sdg.rijksoverheid.nl
 https://statistiek.rijksoverheid.nl
 https://e-mailabonnementen.rijksoverheid.nl

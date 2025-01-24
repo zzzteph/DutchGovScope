@@ -7,5 +7,4 @@ api.mobiliteitsbank.nl
 odc.mobiliteitsbank.nl
 test.mobiliteitsbank.nl
 vacaturezoekservice.mobiliteitsbank.nl
-vacaturezoekservice-acceptatie.mobiliteitsbank.nl
 vacaturezoekservice-test.mobiliteitsbank.nl

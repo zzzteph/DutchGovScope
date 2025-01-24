@@ -4,7 +4,6 @@ https://www.jouw.gezondeschool.nl
 https://jouw.gezondeschool.nl
 http://sub.gezondeschool.nl
 http://acceptatie.gezondeschool.nl
-http://test.gezondeschool.nl
 http://autodiscover.gezondeschool.nl
 https://enterpriseenrollment.gezondeschool.nl
 https://enterpriseregistration.gezondeschool.nl

@@ -55,7 +55,6 @@ werkenvoor.zuid-holland.nl
 zaaksysteem-accept.zuid-holland.nl
 zaaksysteem.zuid-holland.nl
 beeldarchief.zuid-holland.nl
-belastingen.zuid-holland.nl
 denkmeemet.zuid-holland.nl
 windlansingerland.zuid-holland.nl
 www.windlansingerland.zuid-holland.nl

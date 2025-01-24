@@ -12,7 +12,7 @@
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/dnb.nl/subdomains.txt)|134|Alive subdomains|
-|[urls.txt](/data/dnb.nl/urls.txt)|133|Urls|
+|[urls.txt](/data/dnb.nl/urls.txt)|134|Urls|
 
 
 ## Statistics
@@ -153,5 +153,6 @@
 |[https://dlo-acc.dnb.nl](https://dlo-acc.dnb.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |Azure Azure Front Door HSTS||
 |[https://designsystem.dnb.nl](https://designsystem.dnb.nl)| | **E**|| | | | | | | | :white_check_mark: | |Bootstrap:5.2.3|Azure Static Web...|
 |[https://firehose.dnb.nl](https://firehose.dnb.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|Publicly Listed...|
+|[https://rmdm-beheerapp.azure.dnb.nl](https://rmdm-beheerapp.azure.dnb.nl)| | **E**|| | | | | | | | :white_check_mark: | |Bootstrap:5.2.3|Azure Static Web...|
 
 

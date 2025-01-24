@@ -10,7 +10,6 @@ https://rijksdienstcn.com
 https://www.rijksdienstcn.com
 https://fileshare.rijksdienstcn.com
 https://fs.rijksdienstcn.com
-https://passwordreset.rijksdienstcn.com
 https://portal.rijksdienstcn.com
 https://sso.rijksdienstcn.com
 https://vpnbon.rijksdienstcn.com

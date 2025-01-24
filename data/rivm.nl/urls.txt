@@ -133,7 +133,6 @@ https://www.draaiboekhielprikscreening.rivm.nl
 https://drupal.rivm.nl
 https://duvo-web-api.rivm.nl
 https://dwo.rivm.nl
-http://esp-ext.rivm.nl
 http://ewrs-oud.rivm.nl
 https://expertrolesqsort.rivm.nl
 https://ezips-app.rivm.nl
@@ -190,7 +189,6 @@ http://ontw.api-samenmeten.rivm.nl
 https://osiris.rivm.nl
 http://participantapi.vragenlijst.rivm.nl
 https://paskaart.rivm.nl
-http://password-link.rivm.nl
 https://password.rivm.nl
 https://portie-online.rivm.nl
 https://www.portie-online.rivm.nl

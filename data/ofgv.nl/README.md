@@ -5,14 +5,14 @@
 
 
  - **SSL Grade**:
- - **HTTP Security Grade**:E
+ - **HTTP Security Grade**:C
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:0
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/ofgv.nl/subdomains.txt)|4|Alive subdomains|
-|[urls.txt](/data/ofgv.nl/urls.txt)|4|Urls|
+|[subdomains.txt](/data/ofgv.nl/subdomains.txt)|7|Alive subdomains|
+|[urls.txt](/data/ofgv.nl/urls.txt)|7|Urls|
 
 
 ## Statistics
@@ -20,6 +20,9 @@
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
+|[http://ofgv.nl](http://ofgv.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:-||
+|[http://redactie.ofgv.nl](http://redactie.ofgv.nl)| | **A**||:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:-||
+|[http://www.ofgv.nl](http://www.ofgv.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:-||
 |[http://autodiscover.ofgv.nl](http://autodiscover.ofgv.nl)| | **C**|Microsoft-IIS/10.0| |:white_check_mark: | | | | | | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server||
 |[https://webmail.ofgv.nl](https://webmail.ofgv.nl)| | **F**|Microsoft-IIS/10.0| | | | | | | | :white_check_mark: | |HSTS HTTP/3 IIS:10.0 Microsoft ASP.NET Windows Server||
 |[https://enterpriseenrollment.ofgv.nl](https://enterpriseenrollment.ofgv.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||

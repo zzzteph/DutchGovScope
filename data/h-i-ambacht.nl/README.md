@@ -11,8 +11,8 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/h-i-ambacht.nl/subdomains.txt)|21|Alive subdomains|
-|[urls.txt](/data/h-i-ambacht.nl/urls.txt)|21|Urls|
+|[subdomains.txt](/data/h-i-ambacht.nl/subdomains.txt)|22|Alive subdomains|
+|[urls.txt](/data/h-i-ambacht.nl/urls.txt)|22|Urls|
 
 
 ## Statistics
@@ -34,6 +34,7 @@
 |[https://www.h-i-ambacht.nl](https://www.h-i-ambacht.nl)| | **A**||:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache Tomcat Green Valley CMS HSTS Java|Inwoners - Gemee...|
 |[https://loket.acceptatie.h-i-ambacht.nl](https://loket.acceptatie.h-i-ambacht.nl)| | **A**||:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bootstrap HSTS Java Material Design Lite|Loket van Gemeen...|
 |[https://loket.h-i-ambacht.nl](https://loket.h-i-ambacht.nl)| | **A**||:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bootstrap HSTS Java Material Design Lite|Loket van Gemeen...|
+|[https://omgevingsvisie.h-i-ambacht.nl](https://omgevingsvisie.h-i-ambacht.nl)| | **C**|Apache| |:white_check_mark: | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|Omgevingsvisie H...|
 |[https://rxlaunch-signicat-preprod.h-i-ambacht.nl](https://rxlaunch-signicat-preprod.h-i-ambacht.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
 |[https://vergunningintaker-preprod.h-i-ambacht.nl](https://vergunningintaker-preprod.h-i-ambacht.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Google Cloud Google Cloud CDN HSTS HTTP/3||
 |[https://vergunningintaker.h-i-ambacht.nl](https://vergunningintaker.h-i-ambacht.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Google Cloud Google Cloud CDN HSTS HTTP/3||

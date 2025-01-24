@@ -3,7 +3,6 @@ begrippen.hdsr.nl
 kennis.hdsr.nl
 testbegrippen.hdsr.nl
 testkennis.hdsr.nl
-cawfirewall.hdsr.nl
 cawuitwijkfirewall.hdsr.nl
 uconnect-acc.hdsr.nl
 uconnect.hdsr.nl
@@ -20,8 +19,8 @@ werkplek.hdsr.nl
 wsus.hdsr.nl
 zaaksysteem-acc.hdsr.nl
 zaaksysteem.hdsr.nl
-zoeken.hdsr.nl
 kantoor.hdsr.nl
 remote-pa.hdsr.nl
 ftp-hdsr.hdsr.nl
+fme.hdsr.nl
 localhost.hdsr.nl

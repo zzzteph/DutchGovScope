@@ -19,8 +19,6 @@ http://test-website.rvo.nl
 https://acc-cms.rvo.nl
 http://acc-english.rvo.nl
 https://acc-webform.rvo.nl
-https://achilles-acc.rvo.nl
-https://trade-acc.rvo.nl
 https://achilles.rvo.nl
 https://projects.rvo.nl
 https://wetten.rvo.nl
@@ -78,7 +76,6 @@ https://gtpa-acc.rvo.nl
 https://gtpa.rvo.nl
 https://infographics.rvo.nl
 https://www.infographics.rvo.nl
-http://intra-acc.rvo.nl
 https://intra-cms-acc.rvo.nl
 https://intra-cms.rvo.nl
 https://intra.rvo.nl

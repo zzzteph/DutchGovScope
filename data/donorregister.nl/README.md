@@ -6,13 +6,13 @@
 
  - **SSL Grade**:
  - **HTTP Security Grade**:A
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:12
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:11
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/donorregister.nl/subdomains.txt)|14|Alive subdomains|
-|[urls.txt](/data/donorregister.nl/urls.txt)|14|Urls|
+|[subdomains.txt](/data/donorregister.nl/subdomains.txt)|13|Alive subdomains|
+|[urls.txt](/data/donorregister.nl/urls.txt)|13|Urls|
 
 
 ## Statistics
@@ -22,7 +22,6 @@
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[https://acceptatie.beheer.donorregister.nl](https://acceptatie.beheer.donorregister.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS||
 |[https://acceptatie.mijn.donorregister.nl](https://acceptatie.mijn.donorregister.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS||
-|[https://acceptatie.raadplegen.donorregister.nl](https://acceptatie.raadplegen.donorregister.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS||
 |[http://acceptatie.webservices.donorregister.nl](http://acceptatie.webservices.donorregister.nl)| | **F**|BigIP| | | | | | | | :white_check_mark: | |F5 BigIP||
 |[https://beheer.donorregister.nl](https://beheer.donorregister.nl)| | **A**|-| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://opendata.english.donorregister.nl](https://opendata.english.donorregister.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
